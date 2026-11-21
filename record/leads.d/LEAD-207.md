@@ -123,16 +123,16 @@ two parameters per feature. Hence stage `idea`.
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
 The paper does part of what this lead dates, without the variation the
-lead asks for (NOTE-tmp2pgi8, THEORY-tmpr9w2r). It dates stages by
+lead asks for ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)). It dates stages by
 plateaus of the estimated coefficient and checks them against
 independently measured behavioural and structural markers, in two small
 transformers; but it holds nβ (21.7 and 66.7, not Lau et al.'s n/log n) and
 γ (100 and 13.3) fixed across checkpoints, seeds the SGLD noise identically
 at every checkpoint, and reports no stage division under other values. So
 the separation this lead proposes, a sloppy direction coming into
-resolution against a change of stratum, is not made there (CLAIM-812). Two
+resolution against a change of stratum, is not made there ([CLAIM-812](../claims.d/CLAIM-812.md)). Two
 of its findings are worth building in: stage boundaries are "sensitive to"
 checkpoint spacing, smoothing, t against log t and tolerance (B.1), so the
 dating protocol should fix these in advance; and three stages lower the
-estimate (QUESTION-tmphkb1w), so the lead should expect decreases as well
+estimate ([QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md)), so the lead should expect decreases as well
 as rises.

@@ -33,7 +33,7 @@ grounds:
 - THEORY-tmpklef6
 - LIT-304
 summary: >-
-  Filling the gap in Acharya, Rimal and Dhakal's argument (NOTE-tmpwvltp,
+  Filling the gap in Acharya, Rimal and Dhakal's argument ([NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md),
   Limitations): they read their sign flip as the forward pass rotating
   concept information into the tail, without comparing it with the
   prediction of Park, Choe and Veitch's Theorem 3.2, which their own
@@ -50,7 +50,7 @@ summary: >-
 
 ## The claim
 
-Acharya, Rimal and Dhakal (THEORY-tmpklef6, NOTE-tmpwvltp) measure concept
+Acharya, Rimal and Dhakal ([THEORY-tmpklef6](../theory.d/THEORY-tmpklef6.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)) measure concept
 vectors in the eigenbasis of Σ_L, the unembedding's regularized second
 moment. Activation-side vectors lean to the tail; unembedding-row
 contrasts lean to the head ("concept pairs concentrate (mean ≈ +0.07)"
@@ -58,16 +58,16 @@ against −0.10 for random token pairs, §7). They read this as "the forward
 pass rotates concept information from the vocabulary geometry into the
 low-variance activation subspace" (App. E).
 
-Their method builds on Park, Choe and Veitch (LIT-304), whose Theorem 3.2
+Their method builds on Park, Choe and Veitch ([LIT-304](../literature.d/LIT-304.md)), whose Theorem 3.2
 says the causal inner product's Riesz map "maps the unembedding
 representation γ̄_W of each concept W to its embedding representation
 λ̄_W", and with their choice of inner product the embedding representation
-is "λ̄_W := Cov(γ)⁻¹γ̄_W" (Eq. 4.1; THEORY-018 holds that this inner
+is "λ̄_W := Cov(γ)⁻¹γ̄_W" (Eq. 4.1; [THEORY-018](../theory.d/THEORY-018.md) holds that this inner
 product is fixed by a stipulation). Σ_L is, up to centring and ridge, that
 Cov(γ). In Σ_L's eigenbasis, Σ_L⁻¹ divides the i-th component of γ̄ by λ_i.
 Nothing rotates: the basis is the same, and each coordinate is rescaled.
 
-**The inequality** is CLAIM-tmp6odrj (demonstrated): Σ⁻¹ moves every vector's energy toward the tail, so the image of a contrast always scores lower than the contrast.
+**The inequality** is [CLAIM-tmp6odrj](CLAIM-tmp6odrj.md) (demonstrated): Σ⁻¹ moves every vector's energy toward the tail, so the image of a contrast always scores lower than the contrast.
 
 **How far.** The lead's toy (`checks/park_gini.py`, d = 256, a lognormal
 spectrum, 500 draws, Gini as the signed area): random directions −0.352,
@@ -91,7 +91,7 @@ vectors match Σ_L⁻¹γ̄; the defeater names that test.
   assumptions (causal separability, a basis of such concepts).
 - Not that the forward pass does no rotation: only that this sign flip
   does not show one.
-- Not anything about importance: THEORY-018's point stands, that the
+- Not anything about importance: [THEORY-018](../theory.d/THEORY-018.md)'s point stands, that the
   inner product is stipulated, so which directions count as the tail is
   relative to it.
 
@@ -100,5 +100,5 @@ vectors match Σ_L⁻¹γ̄; the defeater names that test.
 The rival reading is the reader's (the subagent that read the paper),
 flagged in its report; the lead checked it, and the filer added the
 inequality. The wording is the assistant's (Claude, in this session);
-adopting it is the owner's call. ARG-tmp801ah sets it against the paper's
+adopting it is the owner's call. [ARG-tmp801ah](../arguments.d/ARG-tmp801ah.md) sets it against the paper's
 reading.

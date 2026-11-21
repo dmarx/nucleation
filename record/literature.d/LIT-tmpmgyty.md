@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Gutenkunst et al. 2007 (LIT-2999), whose ref. [21] it is: the 48-parameter PC12 growth-factor signalling model and its collective fit to 14 experiments, the case behind the survey's comparison of fitting with direct measurement. No reading was attempted; a lawful copy has not been sought.
+  filed 2026-11-21, not read. Registered from the reading of Gutenkunst et al. 2007 ([LIT-2999](LIT-2999.md)), whose ref. [21] it is: the 48-parameter PC12 growth-factor signalling model and its collective fit to 14 experiments, the case behind the survey's comparison of fitting with direct measurement. No reading was attempted; a lawful copy has not been sought.
 title: 'The statistical mechanics of complex signaling networks: nerve growth factor signaling'
 version: 1
 history:
@@ -20,7 +20,7 @@ first_author: 'Brown'
 keywords: []
 implementations: []
 summary: >-
-  Brown, Hill, Calero, Myers, Lee, Sethna & Cerione (2004), The statistical mechanics of complex signaling networks: nerve growth factor signaling, Physical Biology 1, 184-195, DOI 10.1088/1478-3967/1/3/006. The PC12 model: by Gutenkunst et al. (LIT-2999), a fit in which no parameter was constrained to better than a factor of 50 while a prediction of ERK activity was tight. The same model is the 2011 geometry paper's PC12 example (LIT-3009). Unverified until read.
+  Brown, Hill, Calero, Myers, Lee, Sethna & Cerione (2004), The statistical mechanics of complex signaling networks: nerve growth factor signaling, Physical Biology 1, 184-195, DOI 10.1088/1478-3967/1/3/006. The PC12 model: by Gutenkunst et al. ([LIT-2999](LIT-2999.md)), a fit in which no parameter was constrained to better than a factor of 50 while a prediction of ERK activity was tight. The same model is the 2011 geometry paper's PC12 example ([LIT-3009](LIT-3009.md)). Unverified until read.
 ---
 
 # LIT-tmpmgyty: The statistical mechanics of complex signaling networks: nerve growth factor signaling
@@ -29,4 +29,4 @@ Brown et al. (2004). Physical Biology 1, 184-195. DOI 10.1088/1478-3967/1/3/006.
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the reading of Gutenkunst et al. 2007 (LIT-2999). It is the model behind the survey's Fig. 4 and the PC12 example of Transtrum, Machta & Sethna 2011 (LIT-3009), and so bears on the record's readings of both. Not read.
+Registered on 2026-11-21 from the reading of Gutenkunst et al. 2007 ([LIT-2999](LIT-2999.md)). It is the model behind the survey's Fig. 4 and the PC12 example of Transtrum, Machta & Sethna 2011 ([LIT-3009](LIT-3009.md)), and so bears on the record's readings of both. Not read.

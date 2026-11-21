@@ -42,10 +42,10 @@ summary: >-
 ## Contribution
 
 The empirical generalization of sloppiness from one model (Brown et al.
-2004, LIT-tmpmgyty) to a collection of seventeen, and the converse
+2004, [LIT-tmpmgyty](../literature.d/LIT-tmpmgyty.md)) to a collection of seventeen, and the converse
 argument that measuring parameters one by one is an inefficient route to
 a predictive model. The two-part criterion it states, spread and skew, is
-the one the record's term (TERM-140) had only half of.
+the one the record's term ([TERM-140](../terms.d/TERM-140.md)) had only half of.
 
 ## Key insight
 
@@ -81,7 +81,7 @@ one of them to do as well.
 - **The criterion** (Results): "These characteristic parameter
   sensitivities that evenly span many decades and are skewed from bare
   parameter axes define a 'sloppy' model", citing Brown & Sethna 2003
-  (LIT-tmprn2qw). Skew is measured per parameter by I/P, the ratio of the
+  ([LIT-tmprn2qw](../literature.d/LIT-tmprn2qw.md)). Skew is measured per parameter by I/P, the ratio of the
   ellipsoid's intersection with an axis to its projection on it: "very
   few axes have I/P ≈ 1". No threshold is given for either part.
 - **Fisher information** (Results): H is "the corresponding Fisher
@@ -110,7 +110,7 @@ one of them to do as well.
   eigenvalues roughly uniformly spanning five decades".
 - **"Universal"** (Introduction): "Universality in this sense does not
   imply that all models must necessarily share the property", citing
-  Waterfall et al. 2006 (LIT-tmpgafot).
+  Waterfall et al. 2006 ([LIT-tmpgafot](../literature.d/LIT-tmpgafot.md)).
 
 **From Dataset S1** (the reader's computation, recomputed by the filer;
 not the paper's statements). Eigenvalues normalized by the largest; several
@@ -144,34 +144,34 @@ out.
 
 ## Connections
 
-The empirical base the 2010, 2011 and 2015 papers cite (NOTE-2240,
-NOTE-2247, NOTE-2242); their characterizations of it are accurate, and
-"seventeen" is right. The PC12 model is Brown et al. 2004 (LIT-tmpmgyty),
+The empirical base the 2010, 2011 and 2015 papers cite ([NOTE-2240](NOTE-2240.md),
+[NOTE-2247](NOTE-2247.md), [NOTE-2242](NOTE-2242.md)); their characterizations of it are accurate, and
+"seventeen" is right. The PC12 model is Brown et al. 2004 ([LIT-tmpmgyty](../literature.d/LIT-tmpmgyty.md)),
 the same model the 2011 paper studies. The word and the definition come
-from Brown & Sethna 2003 (LIT-tmprn2qw); the sense of "universal" and a
-proposed cause from Waterfall et al. 2006 (LIT-tmpgafot), named without a
-code in NOTE-1018. All three are registered Deferred from this reading.
+from Brown & Sethna 2003 ([LIT-tmprn2qw](../literature.d/LIT-tmprn2qw.md)); the sense of "universal" and a
+proposed cause from Waterfall et al. 2006 ([LIT-tmpgafot](../literature.d/LIT-tmpgafot.md)), named without a
+code in [NOTE-1018](NOTE-1018.md). All three are registered Deferred from this reading.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpks8pd. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md). Dated notes of 2026-11-21 on each entry below.
 
-- **TERM-140** — corrects it in three places, made in place there: the
+- **[TERM-140](../terms.d/TERM-140.md)** — corrects it in three places, made in place there: the
   criterion has a second part (skew from the bare axes); "a decade or more
   below the last" is wrong for most of the collection; and the claim that
   a sloppy spectrum covers decades in proportion to the number of
   parameters is not what these spectra show. Supports "relative to a
   design" verbatim. On "relative to a chart" it argues the other way: the
   bare parametrization is "fundamental to the system".
-- **TERM-135** — background: no model manifold and no widths here; the
+- **[TERM-135](../terms.d/TERM-135.md)** — background: no model manifold and no widths here; the
   ellipsoids are in parameter space, axes ∝ 1/√λ.
-- **CLAIM-820** — supports its consequence in one model, and its
+- **[CLAIM-820](../claims.d/CLAIM-820.md)** — supports its consequence in one model, and its
   relativity to the observables fitted; the rescaled model tells against
-  the spread being an artefact of scales. ARG-tmpddl7x.
-- **NOTE-2240**, **NOTE-2242** — parallel: what they cite this paper for
+  the spread being an artefact of scales. [ARG-tmpddl7x](../arguments.d/ARG-tmpddl7x.md).
+- **[NOTE-2240](NOTE-2240.md)**, **[NOTE-2242](NOTE-2242.md)** — parallel: what they cite this paper for
   holds.
-- **NOTE-1018** — names "Gutenkunst et al. 2007" without a code; the
-  code is now LIT-2999.
+- **[NOTE-1018](NOTE-1018.md)** — names "Gutenkunst et al. 2007" without a code; the
+  code is now [LIT-2999](../literature.d/LIT-2999.md).
 
 Nothing here is an instruction for machine-learning practice.
 

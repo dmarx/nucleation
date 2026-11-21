@@ -29,14 +29,14 @@ summary: >-
 
 ## The inference
 
-Theorem 3.2 of Park, Choe and Veitch (LIT-304) maps a concept's
+Theorem 3.2 of Park, Choe and Veitch ([LIT-304](../literature.d/LIT-304.md)) maps a concept's
 unembedding representation to its embedding representation by the causal
 inner product's Riesz map, λ̄_W = Cov(γ)⁻¹γ̄_W (Eq. 4.1). Acharya, Rimal and
-Dhakal (THEORY-tmpklef6) measure activation-side and vocabulary-side
+Dhakal ([THEORY-tmpklef6](../theory.d/THEORY-tmpklef6.md)) measure activation-side and vocabulary-side
 concept vectors in the eigenbasis of the unembedding's second moment and
 find opposite signs. Applying the theorem: the inverse divides each
 eigencomponent by its eigenvalue, which lowers the Gini deviation of every
-vector (CLAIM-tmpqy8mq), so activation-side vectors that estimate λ̄
+vector ([CLAIM-tmpqy8mq](../claims.d/CLAIM-tmpqy8mq.md)), so activation-side vectors that estimate λ̄
 should sit further in the tail than the contrasts they come from.
 
 ## Critical questions
@@ -55,7 +55,7 @@ should sit further in the tail than the contrasts they come from.
   Whether the paper's vectors are close to Σ_L⁻¹γ̄ is not measured: the
   open step.
 - **Are the model's assumptions met?** Theorem 3.2 assumes causally
-  separable concepts forming a basis, a strong idealization; THEORY-018
+  separable concepts forming a basis, a strong idealization; [THEORY-018](../theory.d/THEORY-018.md)
   holds that the causal inner product is fixed by a stipulation, so the
   theorem predicts the sign only for the inner product it stipulates. The
   paper measures in exactly that basis, so the stipulation is the paper's

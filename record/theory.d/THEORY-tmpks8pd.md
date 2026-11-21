@@ -18,8 +18,8 @@ date: '2026-11-21'
 source:
 - LIT-2999
 summary: >-
-  Gutenkunst, Waterfall, Casey, Brown, Myers and Sethna (2007), LIT-2999,
-  read in NOTE-tmp1feoo. The empirical base of sloppiness: a two-part
+  Gutenkunst, Waterfall, Casey, Brown, Myers and Sethna (2007), [LIT-2999](../literature.d/LIT-2999.md),
+  read in [NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md). The empirical base of sloppiness: a two-part
   criterion (even spread over many decades, and skew from the bare axes),
   shown across a collection, and the argument that collective fits beat
   direct measurement for predictions, shown in one model. Across the
@@ -36,8 +36,8 @@ summary: >-
 
 Gutenkunst, Waterfall, Casey, Brown, Myers and Sethna, "Universally
 Sloppy Parameter Sensitivities in Systems Biology Models", PLoS Comput.
-Biol. 3(10): e189 (2007), LIT-2999, read from the Europe PMC full text in
-NOTE-tmp1feoo.
+Biol. 3(10): e189 (2007), [LIT-2999](../literature.d/LIT-2999.md), read from the Europe PMC full text in
+[NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md).
 
 ## What was actually shown
 
@@ -52,7 +52,7 @@ NOTE-tmp1feoo.
   10% error "leaves many parameters with greater than 100% uncertainty"
   for most models (Fig. 3).
 - **Tight predictions, in one model.** In the 48-parameter PC12 model
-  (Brown et al. 2004, LIT-tmpmgyty), the ERK prediction is tight after a
+  (Brown et al. 2004, [LIT-tmpmgyty](../literature.d/LIT-tmpmgyty.md)), the ERK prediction is tight after a
   fit that constrains no parameter better than a factor of 50, while
   matching it by measurement needs "all 24 involved parameters" to ±25%
   (Fig. 4).
@@ -79,7 +79,7 @@ numerical floor near 10⁻⁷.
   says nothing on it. The record's earlier reading of "evenly spaced" as
   a fixed factor per rank, and with it a span growing in proportion to
   the number of parameters, is not borne out by the Dataset S1 spectra
-  (TERM-140, version 3).
+  ([TERM-140](../terms.d/TERM-140.md), version 3).
 - **Anything chart-free.** The spectra are in log parameters, which the
   paper defends as fundamental; the model manifold and its widths come
   later in the programme.

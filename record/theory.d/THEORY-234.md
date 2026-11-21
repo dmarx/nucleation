@@ -178,7 +178,7 @@ sufficiency, not necessity, which is why the title says "when".
 
 ## Note of 2026-11-21: Acharya, Rimal & Dhakal, and Xu, read
 
-Qualifies two readings (NOTE-tmpwvltp, NOTE-tmp454fw). Both measure
+Qualifies two readings ([NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md)). Both measure
 energy or length in the final representation in a Euclidean metric, which
 the equivalence this account states, h ↦ Ah with W ↦ WA⁻¹, changes while
 leaving the predictions unchanged. Acharya et al.'s energy fractions and

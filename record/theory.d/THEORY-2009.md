@@ -58,10 +58,10 @@ A cross-link: the sets this account calls invariant are the older
 literature's singular sets. The vanishing-neuron set is Amari, Park and
 Ozeki's critical set vᵢwᵢ = 0 and Wei and colleagues' elimination
 singularity; the identical-neuron set is the wᵢ = ±wⱼ component and the
-overlap singularity (NOTE-tmptlwkf, NOTE-tmpl89m0). Both earlier works find
+overlap singularity ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md), [NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md)). Both earlier works find
 these sets attract gradient learning without being stable equilibria, a
-"Milnor attractor" (THEORY-tmpbobud) or "Milnor-like attractor" whose
-basin "has a positive measure" (THEORY-tmpg4aat), and in Wei and
+"Milnor attractor" ([THEORY-tmpbobud](THEORY-tmpbobud.md)) or "Milnor-like attractor" whose
+basin "has a positive measure" ([THEORY-tmpg4aat](THEORY-tmpg4aat.md)), and in Wei and
 colleagues noise moves the state along the line until it leaves. This
 account adds SGD's own noise as what decides attraction. A parallel, not
 an extension: the models and the noise differ, and no relation is

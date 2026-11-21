@@ -84,7 +84,7 @@ not variance.
 p = softmax(ℓ), KL(p_h ‖ p_{h+δh}) ≈ ½ δhᵀ G_pred δh, where
 G_pred = Wᵀ(diag p − ppᵀ)W is the categorical Fisher pulled back to h, and
 G_logit = WᵀW measures raw logit change. A credits the distinction to Xu
-([LIT-2967](../literature.d/LIT-2967.md), read 2026-11-21: THEORY-tmpu3iio), who defines both metrics
+([LIT-2967](../literature.d/LIT-2967.md), read 2026-11-21: [THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md)), who defines both metrics
 and their quotient (App. B).
 
 ## The assistant's additions
@@ -110,7 +110,7 @@ draws (range 0.33 to 0.99). Checked with `python3 -I` (`t5/check5.py`,
 **What trained unembeddings show** (corrected 2026-11-21; version 1 said
 "That trained unembeddings show the reversal systematically is Xu's
 empirical claim"). Xu does not report a reversal of the kind constructed
-here. In ten trained models (THEORY-tmpu3iio) the peak at the
+here. In ten trained models ([THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md)) the peak at the
 unembedding's bottom band is in the ratio of prediction change to logit
 distance; per unit of state length the Fisher term "is lowest over the
 middle bands and rises above random at both ends" (App. D), U-shaped; and
@@ -206,29 +206,29 @@ for its ordering result.
 
 ## Note of 2026-11-21: Xu, Acharya, Rimal & Dhakal, and Song, Ahn & Yun, read
 
-What the three readings support, weighed in ARG-139 (version 2).
+What the three readings support, weighed in [ARG-139](../arguments.d/ARG-139.md) (version 2).
 
-- **Xu** (THEORY-tmpu3iio, NOTE-tmp454fw): supports the thesis that the
+- **Xu** ([THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md)): supports the thesis that the
   metrics disagree, in trained models, with the qualification corrected
   above: the disagreement is in the quotient of the two metrics and is
   partial, not an end-to-end reversal. It is not evidence for the
   variance-against-label half: Xu's bottom band holds 1.5 to 6.6 times its
   share of state variance, and a top-variance subspace has a small ratio.
   Written as `corroborates` from the reading.
-- **Acharya, Rimal & Dhakal** (THEORY-tmpklef6, NOTE-tmpwvltp): weak
+- **Acharya, Rimal & Dhakal** ([THEORY-tmpklef6](../theory.d/THEORY-tmpklef6.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)): weak
   support at most. The spectrum is the unembedding's second moment, the
   logit metric, and the paper asks where concept vectors point in it; its
   own effect measures (perplexity under steering, POS probing) run with
   G_logit, not against it. It supports only the weaker point that a
   direction's place depends on which vector of a concept is measured, and
   that dependence is predicted by Park, Choe and Veitch's map
-  (CLAIM-tmpqy8mq). No relation written.
-- **Song, Ahn & Yun** (THEORY-tmpthmd7, NOTE-tmpw0eql): weak support,
+  ([CLAIM-tmpqy8mq](CLAIM-tmpqy8mq.md)). No relation written.
+- **Song, Ahn & Yun** ([THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md), [NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md)): weak support,
   within one metric rather than across two. Large curvature with little
   part in descent is a disagreement between the Hessian's ranking and the
   ranking by contribution to progress, but a dynamical one: the stiff
   directions have reached their valley floor. Momentum and Adam raising
   the effective step along the bulk (Table 1) are a change of the metric
-  of descent, which is THEORY-082's point that steepest descent is defined
+  of descent, which is [THEORY-082](../theory.d/THEORY-082.md)'s point that steepest descent is defined
   only relative to a metric. Written as `corroborates`, weak.
 

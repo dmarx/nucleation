@@ -123,10 +123,10 @@ memorizes.
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-A parallel from the same run (NOTE-tmp2pgi8, THEORY-tmpr9w2r): the
+A parallel from the same run ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](THEORY-tmpr9w2r.md)): the
 whole-model coefficient whose per-head refinement this account reports
 divides the run into stages LM1–LM5 at its plateaus, matched to bigrams,
 n-grams, previous-token heads and induction heads. The per-head
 divergence here refines that stage picture by component. Both use one
 fixed nβ and γ across checkpoints, so the same caution on what the
-estimate counts applies to both (CLAIM-812). No relation written.
+estimate counts applies to both ([CLAIM-812](../claims.d/CLAIM-812.md)). No relation written.

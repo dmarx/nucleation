@@ -19,8 +19,8 @@ bears_on:
 - QUESTION-217
 - QUESTION-039
 summary: >-
-  Hoogland, Wang, Farrugia-Roberts, Carroll, Wei and Murfet, LIT-2966,
-  read in NOTE-tmp2pgi8. Stages of transformer training read off pauses in
+  Hoogland, Wang, Farrugia-Roberts, Carroll, Wei and Murfet, [LIT-2966](../literature.d/LIT-2966.md),
+  read in [NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md). Stages of transformer training read off pauses in
   the local learning coefficient, matched to behavioural and structural
   changes. Motivated by Bayesian singular learning, not derived from it;
   the coefficient's decreases are unexplained; the estimator is run at one
@@ -32,8 +32,8 @@ summary: >-
 ## Source
 
 Hoogland, Wang, Farrugia-Roberts, Carroll, Wei and Murfet, "Loss Landscape
-Degeneracy and Stagewise Development in Transformers", LIT-2966, read from
-arXiv 2402.02364v3 (to appear in TMLR) in NOTE-tmp2pgi8.
+Degeneracy and Stagewise Development in Transformers", [LIT-2966](../literature.d/LIT-2966.md), read from
+arXiv 2402.02364v3 (to appear in TMLR) in [NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md).
 
 ## What was actually shown
 

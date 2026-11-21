@@ -118,33 +118,33 @@ unembedding rows put it where the unembedding amplifies much.
 
 ## Connections
 
-The basis is Xu's, up to scale (NOTE-tmp454fw). The causal inner product
-is Park, Choe and Veitch's (LIT-304, THEORY-018). The paper cites Staats et
-al. (THEORY-420) and LASER (Sharma et al.; LIT-tmpcvxug, registered from
+The basis is Xu's, up to scale ([NOTE-tmp454fw](NOTE-tmp454fw.md)). The causal inner product
+is Park, Choe and Veitch's ([LIT-304](../literature.d/LIT-304.md), [THEORY-018](../theory.d/THEORY-018.md)). The paper cites Staats et
+al. ([THEORY-420](../theory.d/THEORY-420.md)) and LASER (Sharma et al.; [LIT-tmpcvxug](../literature.d/LIT-tmpcvxug.md), registered from
 this reading).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpklef6. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpklef6](../theory.d/THEORY-tmpklef6.md). Dated notes of 2026-11-21 on each entry below.
 
-- **CLAIM-835**: weak support at most. The paper works in one metric, the
+- **[CLAIM-835](../claims.d/CLAIM-835.md)**: weak support at most. The paper works in one metric, the
   logit metric, and asks where concept vectors point in it; its own effect
   measures, perplexity under steering and POS probing, run with that
   metric, not against it. It shows no reversal of the claim's kind. It
   does show a direction's place depending on which vector of a concept is
-  measured (ARG-139).
-- **ARG-139**: corrects a premise. The spectrum is the unembedding's
+  measured ([ARG-139](../arguments.d/ARG-139.md)).
+- **[ARG-139](../arguments.d/ARG-139.md)**: corrects a premise. The spectrum is the unembedding's
   second moment, not representation variance, and the measure is
   Euclidean energy, not a separation. The four findings are three spectra.
-- **CLAIM-tmpqy8mq**, **ARG-tmp801ah**: the dual geometry's sign is what
+- **[CLAIM-tmpqy8mq](../claims.d/CLAIM-tmpqy8mq.md)**, **[ARG-tmp801ah](../arguments.d/ARG-tmp801ah.md)**: the dual geometry's sign is what
   Park, Choe and Veitch's map λ̄ ∝ Cov(γ)⁻¹γ̄ predicts, a rescaling in a
   fixed eigenbasis; the reader's idea, checked by the lead (filed in the
   assistant's voice).
-- **QUESTION-511**: leaves open; the only trajectory is through depth.
+- **[QUESTION-511](../questions.d/QUESTION-511.md)**: leaves open; the only trajectory is through depth.
   The statistic is not invariant under h ↦ Ah, W ↦ WA⁻¹, which leaves the
-  logits unchanged (THEORY-018, THEORY-234).
-- **TERM-138**: "causally separable" is a sense the term does not list.
-- **THEORY-018**: the WCA null fits its thesis that no eigenbasis of the
+  logits unchanged ([THEORY-018](../theory.d/THEORY-018.md), [THEORY-234](../theory.d/THEORY-234.md)).
+- **[TERM-138](../terms.d/TERM-138.md)**: "causally separable" is a sense the term does not list.
+- **[THEORY-018](../theory.d/THEORY-018.md)**: the WCA null fits its thesis that no eigenbasis of the
   causal inner product is intrinsic.
 
 Nothing here is filed as an instruction for machine-learning practice.
@@ -159,4 +159,4 @@ Nothing here is filed as an instruction for machine-learning practice.
   of a few points, reversed in two models.
 - A gap in the argument: the dual geometry is read as a rotation without
   comparing the activation vectors with Park et al.'s Σ⁻¹γ̄, the embedding
-  representation the paper's own source predicts (CLAIM-tmpqy8mq).
+  representation the paper's own source predicts ([CLAIM-tmpqy8mq](../claims.d/CLAIM-tmpqy8mq.md)).

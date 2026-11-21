@@ -15,8 +15,8 @@ line:
 - learned-structure
 - formal-apparatus
 summary: >-
-  CLAIM-811 is demonstrated by its own derivation and cited LIT-2960
-  unread. Read (NOTE-tmptlwkf), the paper's Eq. 5.13 gives u̇ = −ηc₂²u³
+  [CLAIM-811](../claims.d/CLAIM-811.md) is demonstrated by its own derivation and cited [LIT-2960](../literature.d/LIT-2960.md)
+  unread. Read ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md)), the paper's Eq. 5.13 gives u̇ = −ηc₂²u³
   with v̇ of order u⁴: the claim's quartic case, k = 2, so u ∝ t^(−1/2)
   (the reader's derivation; the paper states no rate), and the flow
   reaches the critical set "without significantly changing v", at a
@@ -31,8 +31,8 @@ summary: >-
 
 ## The inference
 
-CLAIM-811: on K = v⁴, v̇ = −4v³ and |v| ∝ t^(−1/2); in general
-x ∝ t^(−1/(2k−2)) on the balanced line of a k-fold product. THEORY-tmpbobud,
+[CLAIM-811](../claims.d/CLAIM-811.md): on K = v⁴, v̇ = −4v³ and |v| ∝ t^(−1/2); in general
+x ∝ t^(−1/(2k−2)) on the balanced line of a k-fold product. [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md),
 §5.3, Case I (truth at the singularity, u* = 0), Eq. 5.13:
 u̇ = −ηc₂(v)²u³, v̇ = −η(c₂c₂′/2)u⁴. The filer's check: u̇ = −au³ integrates
 to u(t) = u₀/√(1 + 2au₀²t), so u ∝ t^(−1/2) for t ≫ 1/(au₀²), the claim's
@@ -45,7 +45,7 @@ k = 2 rate.
   mixture of two gaussians, not a product loss, so the instance is of the
   first part's law (algebraic relaxation into a degenerate minimum), not of
   the k-fold construction.
-- **Does it meet the qualification?** In parallel. CLAIM-811's
+- **Does it meet the qualification?** In parallel. [CLAIM-811](../claims.d/CLAIM-811.md)'s
   qualification has off-balance flows reaching a generic point of the
   zero set; here "u converges to 0 without significantly changing v", and
   the flow "entering C is extremely slow near C, the flow component
@@ -54,7 +54,7 @@ k = 2 rate.
   most degenerate point.
 - **Is it what the paper is about?** Only partly. Its plateau is chiefly
   the regular-truth case, attraction to the critical set and slow escape,
-  not relaxation into a singular optimum (CLAIM-844's note).
+  not relaxation into a singular optimum ([CLAIM-844](../claims.d/CLAIM-844.md)'s note).
 - **The second part.** The paper does not compute learning coefficients,
   so it is silent on whether slowing and the coefficient part ways.
 

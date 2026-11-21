@@ -106,7 +106,7 @@ treats it. In rectangular matrices it was not.
 
 ## Note of 2026-11-21: Xu, and Acharya, Rimal & Dhakal, read
 
-A parallel and a contrast (NOTE-tmp454fw, NOTE-tmpwvltp). Xu cites this
+A parallel and a contrast ([NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)). Xu cites this
 account's source for the same divergence of magnitude and consequence
 "inside the network", and both measure damage under removal without
 refitting against a ranking by magnitude. But Xu replaces a component of
@@ -114,5 +114,5 @@ the final hidden state along the unembedding's least-amplified
 directions, not weight singular values inside blocks, and its bottom
 singular values "decline smoothly" with no gap below a bulk, so its effect
 does not rest on an outlier mechanism. Acharya, Rimal and Dhakal also cite
-this account's source, and LASER (LIT-tmpcvxug), which removes small
+this account's source, and LASER ([LIT-tmpcvxug](../literature.d/LIT-tmpcvxug.md)), which removes small
 singular components to improve a model. No relation written.

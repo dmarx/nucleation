@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Acharya, Rimal and Dhakal (LIT-2959), which cites it. The arXiv copy at https://arxiv.org/abs/2312.13558 is lawful and was not fetched for reading.
+  filed 2026-11-21, not read. Registered from the reading of Acharya, Rimal and Dhakal ([LIT-2959](LIT-2959.md)), which cites it. The arXiv copy at https://arxiv.org/abs/2312.13558 is lawful and was not fetched for reading.
 title: 'The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction'
 version: 1
 history:
@@ -19,7 +19,7 @@ first_author: 'Sharma'
 keywords: []
 implementations: []
 summary: >-
-  Sharma, Ash & Misra (2023), The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction, arXiv 2312.13558. Here for LASER, cited by Acharya, Rimal and Dhakal (LIT-2959, NOTE-tmpwvltp): removing the smallest singular components of selected weight matrices can improve a language model, a result set beside Staats et al. (THEORY-420) on what small singular directions carry. It bears on THEORY-420, TERM-137 (sense 2) and CLAIM-835. Unverified until read.
+  Sharma, Ash & Misra (2023), The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction, arXiv 2312.13558. Here for LASER, cited by Acharya, Rimal and Dhakal ([LIT-2959](LIT-2959.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)): removing the smallest singular components of selected weight matrices can improve a language model, a result set beside Staats et al. ([THEORY-420](../theory.d/THEORY-420.md)) on what small singular directions carry. It bears on [THEORY-420](../theory.d/THEORY-420.md), [TERM-137](../terms.d/TERM-137.md) (sense 2) and [CLAIM-835](../claims.d/CLAIM-835.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-835 TERM-137 — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -29,4 +29,4 @@ Sharma, Ash & Misra (2023). arXiv 2312.13558.
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the reading of Acharya, Rimal and Dhakal (LIT-2959), for LASER, cited by Acharya, Rimal and Dhakal (LIT-2959, NOTE-tmpwvltp): removing the smallest singular components of selected weight matrices can improve a language model, a result set beside Staats et al. (THEORY-420) on what small singular directions carry. It bears on THEORY-420, TERM-137 (sense 2) and CLAIM-835. Not read.
+Registered on 2026-11-21 from the reading of Acharya, Rimal and Dhakal ([LIT-2959](LIT-2959.md)), for LASER, cited by Acharya, Rimal and Dhakal ([LIT-2959](LIT-2959.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)): removing the smallest singular components of selected weight matrices can improve a language model, a result set beside Staats et al. ([THEORY-420](../theory.d/THEORY-420.md)) on what small singular directions carry. It bears on [THEORY-420](../theory.d/THEORY-420.md), [TERM-137](../terms.d/TERM-137.md) (sense 2) and [CLAIM-835](../claims.d/CLAIM-835.md). Not read.

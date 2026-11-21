@@ -95,7 +95,7 @@ identification that sense 5 (singular) captures at the edges
 ## Note of 2026-11-21: Song, Ahn & Yun, read
 
 An instance of sense 3 (low curvature, vᵀHv, in parameters), with a
-caution on the word "bulk" (NOTE-tmpw0eql, THEORY-tmpthmd7). Song, Ahn and
+caution on the word "bulk" ([NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md), [THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md)). Song, Ahn and
 Yun's dominant subspace is the training-loss Hessian's top-k eigenspace, k
 the number of classes, and "bulk" is its whole orthogonal complement,
 every eigenvalue below the top k, not a set of smallest-eigenvalue

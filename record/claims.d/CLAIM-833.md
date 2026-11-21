@@ -53,7 +53,7 @@ A39 §6 sets two processes side by side:
   manifold boundary." This is Transtrum and Qiu's manifold boundary
   approximation method, which "deliberately moves toward model boundaries
   to obtain simpler effective theories" ([LIT-2979](../literature.d/LIT-2979.md), read
-  on 2026-11-21 as THEORY-tmpt1tw7).
+  on 2026-11-21 as [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)).
 - **Feature differentiation**: "Redundant mechanisms → separately
   distinguishable features. Move away from a degenerate configuration into
   a richer functional regime." A network "with two indistinguishable
@@ -118,7 +118,7 @@ connection between two accounts of it.
 ## Note of 2026-11-21: Transtrum & Qiu (2014), read
 
 - **The reduction half is supported by its primary source**
-  (NOTE-tmphbnqd, THEORY-tmpt1tw7; ARG-tmpmou4i). The method is
+  ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md); [ARG-tmpmou4i](../arguments.d/ARG-tmpmou4i.md)). The method is
   "Approximating the manifold by its boundary" (Fig. 2): along the path
   "the smallest eigenvalue separates from the others and approaches zero"
   (para. 11), the limit there is evaluated to remove one parameter
@@ -133,7 +133,7 @@ connection between two accounts of it.
   points only in the closure of the manifold in prediction space; only the
   merging of two terms lies at finite parameters. The compactification gap
   stands. The authors' account of the hierarchy as a topology (Transtrum,
-  Hart & Qiu, LIT-tmptm9ww) is registered and unread.
+  Hart & Qiu, [LIT-tmptm9ww](../literature.d/LIT-tmptm9ww.md)) is registered and unread.
 - **The learning half is left open.** Nothing on training, networks, or a
   move away from a singular configuration. The nearest thing is a move in
   modelling: the Ising section generalizes a two-parameter Hamiltonian to
@@ -145,4 +145,4 @@ connection between two accounts of it.
   ellipsoid with "a hierarchy of widths but without a hierarchy of edges"
   has "no corners" to reduce to (para. 21). So where the duality's
   reduction half applies is narrower than where a hyperribbon is
-  (TERM-135, version 3).
+  ([TERM-135](../terms.d/TERM-135.md), version 3).

@@ -124,39 +124,39 @@ the tokens that are actually in contention.
 ## Connections
 
 D is, up to the vocabulary size, the squared length under Park, Choe and
-Veitch's causal inner product (App. B; LIT-304), the stipulated inner
-product of THEORY-018. Xu cites Staats et al. (THEORY-420) for the same
-divergence inside the network, and Cancedda (2024; LIT-tmpuh2lr) as the
-closest prior observation. Thrampoulidis (2024; LIT-tmp9yy1o) and Zhao et
-al. (2024; LIT-tmpgptvp) supply §7's training origin, parallel to the
-record's THEORY-738 and THEORY-286. All three are registered from this
+Veitch's causal inner product (App. B; [LIT-304](../literature.d/LIT-304.md)), the stipulated inner
+product of [THEORY-018](../theory.d/THEORY-018.md). Xu cites Staats et al. ([THEORY-420](../theory.d/THEORY-420.md)) for the same
+divergence inside the network, and Cancedda (2024; [LIT-tmpuh2lr](../literature.d/LIT-tmpuh2lr.md)) as the
+closest prior observation. Thrampoulidis (2024; [LIT-tmp9yy1o](../literature.d/LIT-tmp9yy1o.md)) and Zhao et
+al. (2024; [LIT-tmpgptvp](../literature.d/LIT-tmpgptvp.md)) supply §7's training origin, parallel to the
+record's [THEORY-738](../theory.d/THEORY-738.md) and [THEORY-286](../theory.d/THEORY-286.md). All three are registered from this
 reading. The same spectrum, up to scale and ridge, is the one Concepts
-Whisper measures in (NOTE-tmpwvltp).
+Whisper measures in ([NOTE-tmpwvltp](NOTE-tmpwvltp.md)).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpu3iio. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md). Dated notes of 2026-11-21 on each entry below.
 
-- **CLAIM-835**: supports the thesis that the metrics disagree, in
+- **[CLAIM-835](../claims.d/CLAIM-835.md)**: supports the thesis that the metrics disagree, in
   trained models: "the two geometries disagree most along the directions
   that the unembedding amplifies least" (§7). Corrects the claim's
   attribution of a systematic reversal: the peak at the bottom band is in
   the ratio F/D; F per unit length is U-shaped; the top band costs as much
-  total loss in nine of ten models (corrected there; ARG-139).
-- **ARG-139**: supports its premise. Xu's metric is the state-space
+  total loss in nine of ten models (corrected there; [ARG-139](../arguments.d/ARG-139.md)).
+- **[ARG-139](../arguments.d/ARG-139.md)**: supports its premise. Xu's metric is the state-space
   pullback, not a parameter Fisher; it bears on no hyperribbon.
-- **QUESTION-511**: leaves open, and bears against one candidate answer.
+- **[QUESTION-511](../questions.d/QUESTION-511.md)**: leaves open, and bears against one candidate answer.
   Final checkpoints only. The bottom band is quiet in the logit metric and
   loud in representation variance, so A41's "spectrally quiet subspace"
   does not describe it. §7's origin is testable on Pythia's checkpoints,
   which the paper did not use.
-- **THEORY-018**: qualifies the reading. The singular ranking and "equal
+- **[THEORY-018](../theory.d/THEORY-018.md)**: qualifies the reading. The singular ranking and "equal
   length" depend on the Euclidean inner product on u, which softmax
   training does not fix; the quotient ρ does not.
-- **THEORY-420**: parallel and contrast. A state component at the output
+- **[THEORY-420](../theory.d/THEORY-420.md)**: parallel and contrast. A state component at the output
   removed, not weight singular values inside blocks; the bottom singular
   values "decline smoothly", with no gap below a bulk.
-- **THEORY-738, THEORY-286**: parallel to §7's origin (no edge).
+- **[THEORY-738](../theory.d/THEORY-738.md), [THEORY-286](../theory.d/THEORY-286.md)**: parallel to §7's origin (no edge).
 
 Nothing here is filed as an instruction for machine-learning practice.
 

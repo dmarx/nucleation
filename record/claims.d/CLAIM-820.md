@@ -191,7 +191,7 @@ Read in [NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.m
 ## Note of 2026-11-21: Gutenkunst et al. (2007) and Transtrum & Qiu (2014), read
 
 - **The survey supports the claim for systems-biology models, in one
-  model for predictions** (NOTE-tmp1feoo, THEORY-tmpks8pd; ARG-tmpddl7x).
+  model for predictions** ([NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md), [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md); [ARG-tmpddl7x](../arguments.d/ARG-tmpddl7x.md)).
   Across seventeen models the spectra "span many decades" with "no
   well-defined cutoff", and an idealized fit "leaves many parameters with
   greater than 100% uncertainty" in most. In the PC12 model, after a fit in
@@ -210,7 +210,7 @@ Read in [NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.m
   with every rate and concentration set to 1 "remains sloppy". That tells
   against an artefact of scales, not against reparametrization in
   general, which the widths answer (the note above).
-- **Transtrum and Qiu corroborate** (NOTE-tmphbnqd, THEORY-tmpt1tw7), in
+- **Transtrum and Qiu corroborate** ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)), in
   the claim's own terms: "such models have more complexity in their
   description than in their predictions" (para. 6), and the EGFR model's
   48 parameters reduce to 12 with nearly the same predictions.

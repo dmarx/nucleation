@@ -138,10 +138,10 @@ recovery, then integration of facts. Driscoll and colleagues
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-Bears on whether acquisition is one kind of event (NOTE-tmp2pgi8,
-THEORY-tmpr9w2r). The stages include acquisitions (bigrams, n-grams,
+Bears on whether acquisition is one kind of event ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md),
+[THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)). The stages include acquisitions (bigrams, n-grams,
 induction heads, in-context learning), groundwork laid before any visible
 change (§6.2), and simplifications in which the estimated coefficient falls
-(LM3, LR3, LR4; QUESTION-tmphkb1w). So "acquisition" in this paper is
+(LM3, LR3, LR4; [QUESTION-tmphkb1w](QUESTION-tmphkb1w.md)). So "acquisition" in this paper is
 several kinds of event, timed by one scalar. Written as `bears_on` from the
 reading.

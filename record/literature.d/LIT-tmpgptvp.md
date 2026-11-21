@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Xu (LIT-2967), which cites it. The arXiv copy at https://arxiv.org/abs/2408.15417 is lawful and was not fetched for reading.
+  filed 2026-11-21, not read. Registered from the reading of Xu ([LIT-2967](LIT-2967.md)), which cites it. The arXiv copy at https://arxiv.org/abs/2408.15417 is lawful and was not fetched for reading.
 title: 'Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations'
 version: 1
 history:
@@ -20,7 +20,7 @@ first_author: 'Zhao'
 keywords: []
 implementations: []
 summary: >-
-  Zhao, Behnia, Vakilian & Thrampoulidis (2024), COLM 2024 (as Xu cites it), Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations, arXiv 2408.15417. Here for the other source of Xu's suggested training origin (LIT-2967, NOTE-tmp454fw, §7): with unconstrained embeddings, the low-rank part of the logits that depends only on which tokens can follow dominates as training progresses. It bears on THEORY-tmpu3iio, QUESTION-511, THEORY-738 and THEORY-286. Unverified until read.
+  Zhao, Behnia, Vakilian & Thrampoulidis (2024), COLM 2024 (as Xu cites it), Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns to Model Representations, arXiv 2408.15417. Here for the other source of Xu's suggested training origin ([LIT-2967](LIT-2967.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md), §7): with unconstrained embeddings, the low-rank part of the logits that depends only on which tokens can follow dominates as training progresses. It bears on [THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md), [QUESTION-511](../questions.d/QUESTION-511.md), [THEORY-738](../theory.d/THEORY-738.md) and [THEORY-286](../theory.d/THEORY-286.md). Unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-tmpu3iio THEORY-286 — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -30,4 +30,4 @@ Zhao, Behnia, Vakilian & Thrampoulidis (2024), COLM 2024 (as Xu cites it). arXiv
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the reading of Xu (LIT-2967), for the other source of Xu's suggested training origin (LIT-2967, NOTE-tmp454fw, §7): with unconstrained embeddings, the low-rank part of the logits that depends only on which tokens can follow dominates as training progresses. It bears on THEORY-tmpu3iio, QUESTION-511, THEORY-738 and THEORY-286. Not read.
+Registered on 2026-11-21 from the reading of Xu ([LIT-2967](LIT-2967.md)), for the other source of Xu's suggested training origin ([LIT-2967](LIT-2967.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md), §7): with unconstrained embeddings, the low-rank part of the logits that depends only on which tokens can follow dominates as training progresses. It bears on [THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md), [QUESTION-511](../questions.d/QUESTION-511.md), [THEORY-738](../theory.d/THEORY-738.md) and [THEORY-286](../theory.d/THEORY-286.md). Not read.

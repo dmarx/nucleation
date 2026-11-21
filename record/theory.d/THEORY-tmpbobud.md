@@ -19,7 +19,7 @@ source:
 corroborates:
 - CLAIM-811
 summary: >-
-  Amari, Park and Ozeki (2006), LIT-2960, read in NOTE-tmptlwkf. Where
+  Amari, Park and Ozeki (2006), [LIT-2960](../literature.d/LIT-2960.md), read in [NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md). Where
   network singularities are and what they do to learning: critical sets at
   finite parameters, cone apices in the space of distributions, a Milnor
   attractor for gradient flow, a slow manifold that makes the plateau, and
@@ -35,8 +35,8 @@ summary: >-
 ## Source
 
 Amari, Park and Ozeki, "Singularities Affect Dynamics of Learning in
-Neuromanifolds", Neural Computation 18, 1007–1065 (2006), LIT-2960, read
-from the published version in NOTE-tmptlwkf.
+Neuromanifolds", Neural Computation 18, 1007–1065 (2006), [LIT-2960](../literature.d/LIT-2960.md), read
+from the published version in [NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md).
 
 ## What was actually shown
 
@@ -53,7 +53,7 @@ from the published version in NOTE-tmptlwkf.
   set to which the state is quickly attracted by fast dynamics, and then
   the state escapes toward the optimal point slowly in the slow manifold"
   (p. 1035), derived for the cone model and the mixture, reported from
-  Fukumizu and Amari (LIT-tmp5rr3p) for perceptrons.
+  Fukumizu and Amari ([LIT-tmp5rr3p](../literature.d/LIT-tmp5rr3p.md)) for perceptrons.
 - **Approach to a singular truth.** In the mixture with the truth on the
   singularity, u̇ = −ηc₂(v)²u³ and v̇ is of order u⁴ (Eq. 5.13), so "u
   converges to 0 without significantly changing v". The paper gives no

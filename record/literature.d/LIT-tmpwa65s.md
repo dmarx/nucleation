@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Song, Ahn and Yun (LIT-2973), which cites it. The arXiv copy at https://arxiv.org/abs/2209.15594 is lawful and was not fetched for reading.
+  filed 2026-11-21, not read. Registered from the reading of Song, Ahn and Yun ([LIT-2973](LIT-2973.md)), which cites it. The arXiv copy at https://arxiv.org/abs/2209.15594 is lawful and was not fetched for reading.
 title: 'Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability'
 version: 1
 history:
@@ -20,7 +20,7 @@ first_author: 'Damian'
 keywords: []
 implementations: []
 summary: >-
-  Damian, Nichani & Lee (2022), Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability, arXiv 2209.15594. Here for the self-stabilization mechanism Song, Ahn and Yun (LIT-2973, NOTE-tmpw0eql) cite for the alignment of the gradient with the dominant Hessian subspace at the Edge of Stability. It bears on THEORY-tmpthmd7. Unverified until read.
+  Damian, Nichani & Lee (2022), Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of Stability, arXiv 2209.15594. Here for the self-stabilization mechanism Song, Ahn and Yun ([LIT-2973](LIT-2973.md), [NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md)) cite for the alignment of the gradient with the dominant Hessian subspace at the Edge of Stability. It bears on [THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md). Unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-tmpthmd7 — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -30,4 +30,4 @@ Damian, Nichani & Lee (2022). arXiv 2209.15594.
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the reading of Song, Ahn and Yun (LIT-2973), for the self-stabilization mechanism Song, Ahn and Yun (LIT-2973, NOTE-tmpw0eql) cite for the alignment of the gradient with the dominant Hessian subspace at the Edge of Stability. It bears on THEORY-tmpthmd7. Not read.
+Registered on 2026-11-21 from the reading of Song, Ahn and Yun ([LIT-2973](LIT-2973.md)), for the self-stabilization mechanism Song, Ahn and Yun ([LIT-2973](LIT-2973.md), [NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md)) cite for the alignment of the gradient with the dominant Hessian subspace at the Edge of Stability. It bears on [THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md). Not read.

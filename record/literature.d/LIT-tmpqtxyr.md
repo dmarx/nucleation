@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Transtrum & Qiu 2014 (LIT-2979) as the manifold boundary approximation's main follow-up. No reading was attempted; a lawful copy exists on arXiv (1509.06278) and was not fetched.
+  filed 2026-11-21, not read. Registered from the reading of Transtrum & Qiu 2014 ([LIT-2979](LIT-2979.md)) as the manifold boundary approximation's main follow-up. No reading was attempted; a lawful copy exists on arXiv (1509.06278) and was not fetched.
 title: 'Bridging Mechanistic and Phenomenological Models of Complex Biological Systems'
 version: 1
 history:
@@ -21,7 +21,7 @@ first_author: 'Transtrum'
 keywords: []
 implementations: []
 summary: >-
-  Transtrum & Qiu (2016), Bridging Mechanistic and Phenomenological Models of Complex Biological Systems, PLoS Computational Biology 12(5): e1004915; arXiv 1509.06278. The manifold boundary approximation (LIT-2979) applied to derive phenomenological models from mechanistic ones in biology. Here as the method's fuller statement, which the 2014 letter's unread Supplement partly holds. Unverified until read.
+  Transtrum & Qiu (2016), Bridging Mechanistic and Phenomenological Models of Complex Biological Systems, PLoS Computational Biology 12(5): e1004915; arXiv 1509.06278. The manifold boundary approximation ([LIT-2979](LIT-2979.md)) applied to derive phenomenological models from mechanistic ones in biology. Here as the method's fuller statement, which the 2014 letter's unread Supplement partly holds. Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-833 — Proposed; filed 2026-11-21, the claim whose reduction half this work bears on -->
 
@@ -31,4 +31,4 @@ Transtrum & Qiu (2016). PLoS Computational Biology 12(5): e1004915; arXiv 1509.0
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the reading of Transtrum & Qiu 2014 (LIT-2979). It would say more of how boundaries are identified and named, which the letter leaves to a human reading a rotated eigenvector; that bears on the reduction half of CLAIM-833. Not read.
+Registered on 2026-11-21 from the reading of Transtrum & Qiu 2014 ([LIT-2979](LIT-2979.md)). It would say more of how boundaries are identified and named, which the letter leaves to a human reading a rotated eigenvector; that bears on the reduction half of [CLAIM-833](../claims.d/CLAIM-833.md). Not read.

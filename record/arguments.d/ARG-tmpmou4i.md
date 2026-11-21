@@ -16,7 +16,7 @@ date: '2026-11-21'
 line:
 - learned-structure
 summary: >-
-  CLAIM-833 grounded LIT-2979 unread. Read (NOTE-tmphbnqd), the manifold
+  [CLAIM-833](../claims.d/CLAIM-833.md) grounded [LIT-2979](../literature.d/LIT-2979.md) unread. Read ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md)), the manifold
   boundary approximation moves from a sloppy interior to a boundary where
   the smallest Fisher eigenvalue "approaches zero" and evaluates the limit
   there, and its boundaries nest into edges and hypercorners: the
@@ -33,9 +33,9 @@ summary: >-
 
 ## The inference
 
-CLAIM-833, A's supposition: reduction moves toward the manifold's
+[CLAIM-833](../claims.d/CLAIM-833.md), A's supposition: reduction moves toward the manifold's
 boundaries, differentiation away from singular strata, through one
-stratified space. THEORY-tmpt1tw7: "Approximating the manifold by its
+stratified space. [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md): "Approximating the manifold by its
 boundary" (Fig. 2); along the path "the smallest eigenvalue separates from
 the others and approaches zero" (para. 11); the reduced model "is
 represented by a hypercorner of the original manifold"; the method needs
@@ -55,7 +55,7 @@ represented by a hypercorner of the original manifold"; the method needs
   only the merging of two terms lies at finite parameters. Whether every
   boundary is a stratum in Watanabe's sense is the compactification gap
   the claim already names, and the paper does not close it. The authors'
-  own account of the hierarchy as a topology (LIT-tmptm9ww) is registered
+  own account of the hierarchy as a topology ([LIT-tmptm9ww](../literature.d/LIT-tmptm9ww.md)) is registered
   and unread.
 - **Would the evidence be expected otherwise?** That a bounded image has
   edges where its Jacobian loses rank is geometry. What is specific is that

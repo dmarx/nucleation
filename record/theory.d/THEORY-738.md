@@ -116,9 +116,9 @@ then be beaten.
 
 ## Note of 2026-11-21: Xu, read
 
-A parallel (NOTE-tmp454fw): Xu's suggested training origin for the
-unembedding's bottom band, after Thrampoulidis (LIT-tmp9yy1o) and Zhao et
-al. (LIT-tmpgptvp), is an implicit-geometry result of the same family as
+A parallel ([NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md)): Xu's suggested training origin for the
+unembedding's bottom band, after Thrampoulidis ([LIT-tmp9yy1o](../literature.d/LIT-tmp9yy1o.md)) and Zhao et
+al. ([LIT-tmpgptvp](../literature.d/LIT-tmpgptvp.md)), is an implicit-geometry result of the same family as
 this one, the odds among plausible next tokens staying finite while their
 separation from the rest grows in norm. Untested by Xu. No relation
 written.

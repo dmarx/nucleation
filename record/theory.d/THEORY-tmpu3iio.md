@@ -19,11 +19,11 @@ corroborates:
 bears_on:
 - QUESTION-511
 summary: >-
-  Xu, LIT-2967, read in NOTE-tmp454fw. The logit metric WᵀW and the
+  Xu, [LIT-2967](../literature.d/LIT-2967.md), read in [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md). The logit metric WᵀW and the
   predictive Fisher pulled back to the final state disagree most along the
   unembedding's least-amplified directions, per unit of logit distance and
   against equal-length random changes; not a reversal, since the top band
-  matters as much in total. The record's best evidence that CLAIM-835's
+  matters as much in total. The record's best evidence that [CLAIM-835](../claims.d/CLAIM-835.md)'s
   disagreement occurs in trained models.
 ---
 <!-- inactive-ok-file: CLAIM-835 — Proposed or new; the reading this account comes from and the claim it bears on -->
@@ -33,8 +33,8 @@ summary: >-
 ## Source
 
 Weilun Xu, "The Smallest Singular Directions of the Unembedding Matter
-Disproportionately for Next-Token Prediction", LIT-2967, arXiv 2605.17084v2,
-read in NOTE-tmp454fw.
+Disproportionately for Next-Token Prediction", [LIT-2967](../literature.d/LIT-2967.md), arXiv 2605.17084v2,
+read in [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md).
 
 ## What was actually shown
 
@@ -63,5 +63,5 @@ over the spectrum; it was not.
   1.5 to 6.6 times its share.
 - Nothing about training: final checkpoints only; §7's origin is a
   hypothesis.
-- Not invariant under invertible maps of the state (THEORY-018); the
+- Not invariant under invertible maps of the state ([THEORY-018](THEORY-018.md)); the
   quotient of metrics is, the singular ranking is not.

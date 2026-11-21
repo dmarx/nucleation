@@ -135,7 +135,7 @@ calibration covers. No status change.
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-Background (NOTE-tmp2pgi8): the later paper cites this one as its only
+Background ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)): the later paper cites this one as its only
 empirical precedent, transitions of SGD and of the Bayesian posterior
 "reflected as sudden changes in the estimated LLC" (§5), and extends the
 coefficient's use to stages of transformer training. No relation

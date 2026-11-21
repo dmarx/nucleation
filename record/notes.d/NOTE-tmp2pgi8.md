@@ -119,34 +119,34 @@ goes down as well as up.
 
 ## Connections
 
-The same LM run is the one Wang et al. refine per head (LIT-1535,
-NOTE-1188, THEORY-975, THEORY-967). The estimator is Lau et al.'s
-(LIT-2995, NOTE-2239, THEORY-2157), here at nβ well below n/log n. The only
-empirical precedent cited is Chen et al. (LIT-1894, THEORY-1275).
+The same LM run is the one Wang et al. refine per head ([LIT-1535](../literature.d/LIT-1535.md),
+[NOTE-1188](NOTE-1188.md), [THEORY-975](../theory.d/THEORY-975.md), [THEORY-967](../theory.d/THEORY-967.md)). The estimator is Lau et al.'s
+([LIT-2995](../literature.d/LIT-2995.md), [NOTE-2239](NOTE-2239.md), [THEORY-2157](../theory.d/THEORY-2157.md)), here at nβ well below n/log n. The only
+empirical precedent cited is Chen et al. ([LIT-1894](../literature.d/LIT-1894.md), [THEORY-1275](../theory.d/THEORY-1275.md)).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpr9w2r. Dated notes of 2026-11-21 on each entry below,
-except CLAIM-834, the owner's U23, whose note is filed with the other
+Filed as [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md). Dated notes of 2026-11-21 on each entry below,
+except [CLAIM-834](../claims.d/CLAIM-834.md), the owner's U23, whose note is filed with the other
 readings of this batch.
 
-- **CLAIM-823** (reading b): supports its weak half, that stages leave
+- **[CLAIM-823](../claims.d/CLAIM-823.md)** (reading b): supports its weak half, that stages leave
   their mark in local learning coefficients, in two small transformers;
   leaves its strong half, switches of the dominant singular region,
-  untested; the decreases qualify it (ARG-tmpfh555).
-- **CLAIM-834**: background; both readings must place the decreases;
+  untested; the decreases qualify it ([ARG-tmpfh555](../arguments.d/ARG-tmpfh555.md)).
+- **[CLAIM-834](../claims.d/CLAIM-834.md)**: background; both readings must place the decreases;
   nothing bears on reading (a).
-- **QUESTION-tmphkb1w**: the decreases, an open problem for the authors,
+- **[QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md)**: the decreases, an open problem for the authors,
   filed as a question.
-- **CLAIM-812**: leaves open. At nβ ≈ 22 and 67 with fixed γ, the claim's
+- **[CLAIM-812](../claims.d/CLAIM-812.md)**: leaves open. At nβ ≈ 22 and 67 with fixed γ, the claim's
   formula puts the cut-off curvature at about 4.6 (LM) and 0.2 (LR); a rise
   in λ̂ could be directions stiffening past it.
-- **LEAD-207**: the paper dates stages against behaviour without varying β
+- **[LEAD-207](../leads.d/LEAD-207.md)**: the paper dates stages against behaviour without varying β
   or γ.
-- **QUESTION-511**: dates stages by the LLC, not by tracking a direction.
-- **QUESTION-217**: a single-run coarse-to-fine progression in the LM.
-- **QUESTION-039**, **QUESTION-363**, **QUESTION-514**, **NOTE-1188**,
-  **THEORY-975**, **THEORY-967**, **THEORY-2157**: notes there.
+- **[QUESTION-511](../questions.d/QUESTION-511.md)**: dates stages by the LLC, not by tracking a direction.
+- **[QUESTION-217](../questions.d/QUESTION-217.md)**: a single-run coarse-to-fine progression in the LM.
+- **[QUESTION-039](../questions.d/QUESTION-039.md)**, **[QUESTION-363](../questions.d/QUESTION-363.md)**, **[QUESTION-514](../questions.d/QUESTION-514.md)**, **[NOTE-1188](NOTE-1188.md)**,
+  **[THEORY-975](../theory.d/THEORY-975.md)**, **[THEORY-967](../theory.d/THEORY-967.md)**, **[THEORY-2157](../theory.d/THEORY-2157.md)**: notes there.
 
 Nothing here is an instruction for machine-learning practice beyond the
 estimator's tuning advice, which concerns measurement.

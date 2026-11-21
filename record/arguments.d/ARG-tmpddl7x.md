@@ -17,7 +17,7 @@ line:
 - formal-apparatus
 - learned-structure
 summary: >-
-  CLAIM-820 grounded LIT-2999 unread. Read (NOTE-tmp1feoo), the survey
+  [CLAIM-820](../claims.d/CLAIM-820.md) grounded [LIT-2999](../literature.d/LIT-2999.md) unread. Read ([NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md)), the survey
   shows sloppy spectra and loose parameters across seventeen models and
   tight predictions from loose parameters in one, the PC12 model; it
   supports the claim's relativity to the observables fitted, and its
@@ -31,8 +31,8 @@ summary: >-
 
 ## The inference
 
-CLAIM-820: when predictions depend on a few stiff combinations, a model
-can be hard to fit and still predictive. THEORY-tmpks8pd: in all
+[CLAIM-820](../claims.d/CLAIM-820.md): when predictions depend on a few stiff combinations, a model
+can be hard to fit and still predictive. [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md): in all
 seventeen models the spectra "span many decades" with "no well-defined
 cutoff"; an idealized fit "leaves many parameters with greater than 100%
 uncertainty" in most of them; and in the PC12 model, after a fit in which
@@ -58,7 +58,7 @@ the ERK prediction is tight, while matching it by measurement needs "all
   the system, not an artifact" and with a rescaled model (every rate and
   concentration set to 1) that "remains sloppy". That tells against an
   artefact of scales; it does not show invariance under every
-  reparametrization, which no eigenvalue spread has (TERM-140).
+  reparametrization, which no eigenvalue spread has ([TERM-140](../terms.d/TERM-140.md)).
 - **Would the evidence be expected if the claim were false?** Loose
   parameters alone would be: an unidentifiable model has them too. What
   is specific is a tight prediction from them, which rests on one model.

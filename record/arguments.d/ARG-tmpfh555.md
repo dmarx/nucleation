@@ -14,11 +14,11 @@ date: '2026-11-21'
 line:
 - learned-structure
 summary: >-
-  CLAIM-823 cited Hoogland et al. (LIT-2966) unread, as reporting
-  stagewise changes in the coefficient. Read (NOTE-tmp2pgi8), the paper
+  [CLAIM-823](../claims.d/CLAIM-823.md) cited Hoogland et al. ([LIT-2966](../literature.d/LIT-2966.md)) unread, as reporting
+  stagewise changes in the coefficient. Read ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)), the paper
   supports that half for two small transformers, leaves the switch of
   dominant singular region untested, and documents three decreases its
-  motivating account does not produce (QUESTION-tmphkb1w). The wording is
+  motivating account does not produce ([QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md)). The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
@@ -28,11 +28,11 @@ summary: >-
 
 ## The inference
 
-CLAIM-823 says, on reading (b), that the stages of representational
+[CLAIM-823](../claims.d/CLAIM-823.md) says, on reading (b), that the stages of representational
 development are switches of the dominant singular region, "or at least
 leave their mark in local learning coefficients", and cites Hoogland and
 colleagues as reporting stagewise changes in the coefficient. The reading
-(THEORY-tmpr9w2r) is offered as ground for both halves.
+([THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)) is offered as ground for both halves.
 
 ## Critical questions
 
@@ -60,6 +60,6 @@ colleagues as reporting stagewise changes in the coefficient. The reading
 
 Grounds the weak half, in two small models. Leaves the strong half
 untested. The decreases are a datum the claim must place, put as
-QUESTION-tmphkb1w. A measurement caution applies as well: at the paper's
+[QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md). A measurement caution applies as well: at the paper's
 settings a rise in the estimate could be directions stiffening past the
-estimator's cut-off (CLAIM-812), which the fixed nβ and γ cannot exclude.
+estimator's cut-off ([CLAIM-812](../claims.d/CLAIM-812.md)), which the fixed nβ and γ cannot exclude.

@@ -99,7 +99,7 @@ sees is [CLAIM-843](CLAIM-843.md).
 That observed slow relaxation in a network is singular. That reading is
 A's further claim, [CLAIM-844](CLAIM-844.md). Amari's and Wei's analyses of plateaus
 at and near singularities ([LIT-2960](../literature.d/LIT-2960.md), [LIT-3000](../literature.d/LIT-3000.md)) were read on
-2026-11-21 (THEORY-tmpbobud, THEORY-tmpg4aat); the dated note below says
+2026-11-21 ([THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md), [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md)); the dated note below says
 what they add. Their distinction between two kinds of plateau is on and
 near the overlap singularity, not milder and stronger degeneracy.
 
@@ -107,20 +107,20 @@ near the overlap singularity, not milder and stronger degeneracy.
 
 - **Amari, Park and Ozeki: an instance of the first part.** In a gaussian
   mixture whose truth lies on the singularity, Eq. 5.13 gives
-  u̇ = −ηc₂(v)²u³ with v̇ of order u⁴ (NOTE-tmptlwkf, p. 1040): the
+  u̇ = −ηc₂(v)²u³ with v̇ of order u⁴ ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md), p. 1040): the
   claim's quartic case, k = 2. The paper states no rate; u̇ = −au³
   integrates to u = u₀/√(1 + 2au₀²t), so u ∝ t^(−1/2) (the reader's
   derivation, checked by the filer). And the flow reaches the critical set
   at a generic point: "u converges to 0 without significantly changing v",
   the entering component being "extremely slow near C" (p. 1034), which
   parallels this claim's qualification. Silent on learning coefficients.
-  It corroborates and is not a ground (ARG-tmp1klwj). The paper also holds
+  It corroborates and is not a ground ([ARG-tmp1klwj](../arguments.d/ARG-tmp1klwj.md)). The paper also holds
   the distinction this claim said the record lacked: the truth at, near,
   or far from the singularity (§4), with plateaus in the regular case
   from slow escape along a slow manifold.
 - **Wei and colleagues: parallel, not grounds.** No time course, power law
-  or exponent is derived (NOTE-tmpl89m0), so the paper leaves the
-  t^(−1/(2k−2)) open and is moved out of the grounds (ARG-tmp0cg6w). By
+  or exponent is derived ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md)), so the paper leaves the
+  t^(−1/(2k−2)) open and is moved out of the grounds ([ARG-tmp0cg6w](../arguments.d/ARG-tmp0cg6w.md)). By
   analogy it supports the qualification's shape: a first integral C of the
   averaged flow decides whether the flow reaches the overlap line
   (C < C₀) or passes to the elimination singularity, and "in most cases,

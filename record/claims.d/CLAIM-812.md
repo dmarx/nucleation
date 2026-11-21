@@ -70,7 +70,7 @@ summary: >-
   the owner's call.
 ---
 
-<!-- inactive-ok-file: NOTE-tmphbnqd THEORY-tmpt1tw7 — new; the reading of 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmpt1tw7 — new; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-813 CASE-302 CLAIM-825 THEORY-tmpr9w2r — Proposed, new or Deferred; filed with this claim, or works registered from the exchange and not yet read -->
 <!-- inactive-ok-file: ARG-134 THEORY-2155 THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
@@ -156,7 +156,7 @@ levels off below it.
   model is sloppy and never singular ([CLAIM-813](CLAIM-813.md)).
 - It does not apply as stated to deep networks, where n, d and the
   spectrum grow together ([QUESTION-510](../questions.d/QUESTION-510.md)). Hoogland et al.
-  ([LIT-2966](../literature.d/LIT-2966.md), read 2026-11-21: THEORY-tmpr9w2r) report
+  ([LIT-2966](../literature.d/LIT-2966.md), read 2026-11-21: [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)) report
   learning-coefficient estimates changing across stages. On this claim, a rise in an estimate over training could
   be a sloppy direction coming into resolution as much as a change of
   singular stratum. The estimate's dependence on its inverse temperature
@@ -199,7 +199,7 @@ derivation, the filer's, not by the paper's data.
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
 Leaves the claim open, and sharpens the alternative it names
-(NOTE-tmp2pgi8, THEORY-tmpr9w2r). The paper estimates at fixed settings
+([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)). The paper estimates at fixed settings
 per setting, departing from Lau et al.'s β*: "Instead of nβ = n/ log n, we
 perform LLC estimation at nβ = m/ log m, where m is the SGLD batch size"
 (A.5.1). The language model uses nβ = 21.7 and γ = 100; the regression
@@ -220,5 +220,5 @@ paper does not test the claim.
 
 ## Note of 2026-11-21: Transtrum and Qiu, read
 
-Supporting, for the fold-edge half (NOTE-tmphbnqd, THEORY-tmpt1tw7). The manifold boundary approximation follows a geodesic to a boundary of the model manifold where the smallest Fisher eigenvalue goes to zero, and the merging of two terms is among the boundaries it follows. In the sum of exponentials it is the only finite one, the edge where this claim's sloppy eigenvalue goes to zero with the squared distance to the stratum. The method says nothing about the finite-sample half. Filer A reported this bearing (readings batch 2). The note is the assistant's (Claude, in this session).
+Supporting, for the fold-edge half ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)). The manifold boundary approximation follows a geodesic to a boundary of the model manifold where the smallest Fisher eigenvalue goes to zero, and the merging of two terms is among the boundaries it follows. In the sum of exponentials it is the only finite one, the edge where this claim's sloppy eigenvalue goes to zero with the squared distance to the stratum. The method says nothing about the finite-sample half. Filer A reported this bearing (readings batch 2). The note is the assistant's (Claude, in this session).
 

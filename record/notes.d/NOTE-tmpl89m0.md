@@ -38,7 +38,7 @@ summary: >-
 ## Contribution
 
 Universal trajectories near overlap singularities for any teacher, not
-only one on the singularity as in Amari, Park and Ozeki (LIT-2960), in
+only one on the singularity as in Amari, Park and Ozeki ([LIT-2960](../literature.d/LIT-2960.md)), in
 the original gradient rather than a reparametrized one; and the
 separation of two kinds of plateau by how the orbit meets the singular
 set.
@@ -117,35 +117,35 @@ decay, is the long plateau.
 
 ## Connections
 
-Generalizes Amari, Park and Ozeki 2006 (LIT-2960, NOTE-tmptlwkf): "first
+Generalizes Amari, Park and Ozeki 2006 ([LIT-2960](../literature.d/LIT-2960.md), [NOTE-tmptlwkf](NOTE-tmptlwkf.md)): "first
 studied in the case of a gaussian mixture in Amari et al. (2006)". Its
-coordinates are Fukumizu and Amari's (LIT-tmp5rr3p); its perceptron
-companion is Cousseau, Ozeki and Amari 2008 (LIT-tmpxs1ua); it cites Saad
-and Solla 1995 (LIT-tmpme3im). All three are registered Deferred from
-these readings. THEORY-2009 (Chen, Kunin, Yamamura and Ganguli) treats the
+coordinates are Fukumizu and Amari's ([LIT-tmp5rr3p](../literature.d/LIT-tmp5rr3p.md)); its perceptron
+companion is Cousseau, Ozeki and Amari 2008 ([LIT-tmpxs1ua](../literature.d/LIT-tmpxs1ua.md)); it cites Saad
+and Solla 1995 ([LIT-tmpme3im](../literature.d/LIT-tmpme3im.md)). All three are registered Deferred from
+these readings. [THEORY-2009](../theory.d/THEORY-2009.md) (Chen, Kunin, Yamamura and Ganguli) treats the
 same two sets as invariant sets of SGD, with noise again deciding
 attraction.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpg4aat. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md). Dated notes of 2026-11-21 on each entry below.
 
-- **CLAIM-811**, **CLAIM-844** — the paper is not a source of algebraic
-  relaxation: it derives orbits, not time courses. It leaves CLAIM-811's
+- **[CLAIM-811](../claims.d/CLAIM-811.md)**, **[CLAIM-844](../claims.d/CLAIM-844.md)** — the paper is not a source of algebraic
+  relaxation: it derives orbits, not time courses. It leaves [CLAIM-811](../claims.d/CLAIM-811.md)'s
   exponent open, parallels its caveat (a conserved quantity decides
   whether the flow reaches the more singular set, and the generic start
-  ends where an output weight is zero), and gives CLAIM-844 a third rival
+  ends where an output weight is zero), and gives [CLAIM-844](../claims.d/CLAIM-844.md) a third rival
   explanation of slow training: a noise-driven walk along a flat line of
-  equivalent models. Moved out of their grounds by ARG-tmp0cg6w.
-- **CLAIM-834** — supports A37's "dynamics are separate": the same
+  equivalent models. Moved out of their grounds by [ARG-tmp0cg6w](../arguments.d/ARG-tmp0cg6w.md).
+- **[CLAIM-834](../claims.d/CLAIM-834.md)** — supports A37's "dynamics are separate": the same
   singular set is reached, crossed or left according to H's signature and
   C. No account of transitions as resolutions.
-- **THEORY-082** — consistent: it names THEORY-082's set the elimination
+- **[THEORY-082](../theory.d/THEORY-082.md)** — consistent: it names [THEORY-082](../theory.d/THEORY-082.md)'s set the elimination
   singularity and adds the overlap one.
-- **THEORY-2009** — parallel and close: the same two sets.
-- **CLAIM-807** — contrast: an algebraic decay at a threshold, which this
+- **[THEORY-2009](../theory.d/THEORY-2009.md)** — parallel and close: the same two sets.
+- **[CLAIM-807](../claims.d/CLAIM-807.md)** — contrast: an algebraic decay at a threshold, which this
   paper does not have.
-- **THEORY-740**, **QUESTION-166** — contrast: deep linear plateaus are an
+- **[THEORY-740](../theory.d/THEORY-740.md)**, **[QUESTION-166](../questions.d/QUESTION-166.md)** — contrast: deep linear plateaus are an
   escape from a saddle at the origin in a time of order log(1/scale); this
   paper's on-singularity plateau is a walk on a line.
 

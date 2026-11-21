@@ -132,6 +132,6 @@ plateau-time law without weight decay ([THEORY-740](../theory.d/THEORY-740.md)).
 A contrast. This claim has an algebraic relaxation at a threshold. Wei
 and colleagues' plateaus near overlap singularities have none: the paper
 derives orbits, not time courses, and its long plateau is a noise-driven
-walk along a line of equivalent models (NOTE-tmpl89m0, THEORY-tmpg4aat).
+walk along a line of equivalent models ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md), [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md)).
 The two mechanisms of slow learning near a singular set are different
 and the claim does not depend on theirs.

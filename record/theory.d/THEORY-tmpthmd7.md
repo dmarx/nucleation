@@ -17,11 +17,11 @@ source:
 corroborates:
 - CLAIM-835
 summary: >-
-  Song, Ahn and Yun, LIT-2973, read in NOTE-tmpw0eql. Gradient alignment
+  Song, Ahn and Yun, [LIT-2973](../literature.d/LIT-2973.md), read in [NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md). Gradient alignment
   with the dominant Hessian subspace is not where training happens: the
   loss falls along a steep valley's flat floor, in the complement of the
   top k. A weak instance of a model's rankings of directions disagreeing
-  (CLAIM-835), within one metric.
+  ([CLAIM-835](../claims.d/CLAIM-835.md)), within one metric.
 ---
 <!-- inactive-ok-file: CLAIM-835 TERM-137 THEORY-078 ARG-139 — Proposed or new; the reading this account comes from and the claim it bears on -->
 
@@ -30,7 +30,7 @@ summary: >-
 ## Source
 
 Song, Ahn and Yun, "Does SGD really happen in tiny subspaces?", ICLR 2025,
-LIT-2973, read from the arXiv e-print 2405.16002 in NOTE-tmpw0eql.
+[LIT-2973](../literature.d/LIT-2973.md), read from the arXiv e-print 2405.16002 in [NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md).
 
 ## What was actually shown
 
@@ -61,7 +61,7 @@ or the alignment survived full-batch descent; none did, in the runs shown.
 
 ## Connections
 
-CLAIM-835 (weak corroboration, within one metric; ARG-139). TERM-137's
-sense 3. THEORY-731 and THEORY-078 say what spans the dominant subspace.
-THEORY-082: momentum and Adam raising the bulk step is a change of the
+[CLAIM-835](../claims.d/CLAIM-835.md) (weak corroboration, within one metric; [ARG-139](../arguments.d/ARG-139.md)). [TERM-137](../terms.d/TERM-137.md)'s
+sense 3. [THEORY-731](THEORY-731.md) and [THEORY-078](THEORY-078.md) say what spans the dominant subspace.
+[THEORY-082](THEORY-082.md): momentum and Adam raising the bulk step is a change of the
 metric of descent.

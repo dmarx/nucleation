@@ -132,6 +132,6 @@ are not in the papers; they stay the case's. The case now draws on
 
 Supports: in the sum of exponentials, one of the boundaries the manifold
 boundary approximation follows is where "two terms merge together"
-(NOTE-tmphbnqd, para. 12), the case's stratum. It is the only kind of
+([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), para. 12), the case's stratum. It is the only kind of
 boundary in that model at finite parameter values. The letter does not
 compute how the eigenvalue goes to zero there.

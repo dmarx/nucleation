@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Wei et al. 2008 (LIT-3000), which cites it (in press) as the multilayer-perceptron companion of its own analysis, the natural next read. No reading was attempted; a lawful copy has not been sought.
+  filed 2026-11-21, not read. Registered from the reading of Wei et al. 2008 ([LIT-3000](LIT-3000.md)), which cites it (in press) as the multilayer-perceptron companion of its own analysis, the natural next read. No reading was attempted; a lawful copy has not been sought.
 title: 'Dynamics of Learning in Multilayer Perceptrons Near Singularities'
 version: 1
 history:
@@ -21,7 +21,7 @@ first_author: 'Cousseau'
 keywords: []
 implementations: []
 summary: >-
-  Cousseau, Ozeki & Amari (2008), Dynamics of Learning in Multilayer Perceptrons Near Singularities, IEEE Transactions on Neural Networks 19(8), 1313-1328, DOI 10.1109/TNN.2008.2000391. Gradient-learning trajectories near the singularities of a multilayer perceptron, the companion of Wei et al.'s analysis for RBF networks and mixtures (LIT-3000) and of Amari, Park & Ozeki's review (LIT-2960). Unverified until read.
+  Cousseau, Ozeki & Amari (2008), Dynamics of Learning in Multilayer Perceptrons Near Singularities, IEEE Transactions on Neural Networks 19(8), 1313-1328, DOI 10.1109/TNN.2008.2000391. Gradient-learning trajectories near the singularities of a multilayer perceptron, the companion of Wei et al.'s analysis for RBF networks and mixtures ([LIT-3000](LIT-3000.md)) and of Amari, Park & Ozeki's review ([LIT-2960](LIT-2960.md)). Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-811 CLAIM-844 — Proposed; filed 2026-11-21, the claims this work bears on -->
 
@@ -31,4 +31,4 @@ Cousseau, Ozeki & Amari (2008). IEEE Transactions on Neural Networks 19(8), 1313
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the reading of Wei et al. 2008 (LIT-3000). It bears on the record's claims about slow learning near singularities (CLAIM-811, CLAIM-844): whether, in a perceptron, approach to a singularity has a derived time course, which Wei et al. do not give. Not read.
+Registered on 2026-11-21 from the reading of Wei et al. 2008 ([LIT-3000](LIT-3000.md)). It bears on the record's claims about slow learning near singularities ([CLAIM-811](../claims.d/CLAIM-811.md), [CLAIM-844](../claims.d/CLAIM-844.md)): whether, in a perceptron, approach to a singularity has a derived time course, which Wei et al. do not give. Not read.

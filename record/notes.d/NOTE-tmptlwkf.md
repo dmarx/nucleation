@@ -87,7 +87,7 @@ it; that crawl is the plateau.
   pseudo-attractor (the Milnor attractor) even when the true distribution
   is at a regular point far from it. The singular point resembles a black
   hole in the dynamics of learning". Reporting Fukumizu & Amari 2000
-  (LIT-tmp5rr3p), p. 1032: the perceptron "is truly attracted to the line
+  ([LIT-tmp5rr3p](../literature.d/LIT-tmp5rr3p.md)), p. 1032: the perceptron "is truly attracted to the line
   and stays inside the line … until it finds a place from which it can
   escape. This explains the plateau phenomenon"; and "The problem of
   plateau cannot be resolved by simply increasing" the learning rate.
@@ -127,43 +127,43 @@ it; that crawl is the plateau.
 
 ## Connections
 
-Generalized by Wei et al. 2008 (LIT-3000, NOTE-tmpl89m0) from a truth at
+Generalized by Wei et al. 2008 ([LIT-3000](../literature.d/LIT-3000.md), [NOTE-tmpl89m0](NOTE-tmpl89m0.md)) from a truth at
 the singularity to any truth. Rests on Fukumizu & Amari 2000
-(LIT-tmp5rr3p) and cites Saad & Solla 1995 (LIT-tmpme3im), both
-registered Deferred. Cited by Transtrum, Machta and Sethna 2011 (LIT-3009,
-NOTE-2247) for "metric singularities (i.e. model boundaries)" in network
+([LIT-tmp5rr3p](../literature.d/LIT-tmp5rr3p.md)) and cites Saad & Solla 1995 ([LIT-tmpme3im](../literature.d/LIT-tmpme3im.md)), both
+registered Deferred. Cited by Transtrum, Machta and Sethna 2011 ([LIT-3009](../literature.d/LIT-3009.md),
+[NOTE-2247](NOTE-2247.md)) for "metric singularities (i.e. model boundaries)" in network
 training; the paper itself speaks of critical sets and cone apices. A
 modern restatement of the critical set as an attractor of SGD is
-THEORY-2009. Amari's 1998 natural-gradient paper is THEORY-082's source.
+[THEORY-2009](../theory.d/THEORY-2009.md). Amari's 1998 natural-gradient paper is [THEORY-082](../theory.d/THEORY-082.md)'s source.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpbobud. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md). Dated notes of 2026-11-21 on each entry below.
 
-- **CLAIM-811** — supports its first part: Eq. 5.13 is the claim's
+- **[CLAIM-811](../claims.d/CLAIM-811.md)** — supports its first part: Eq. 5.13 is the claim's
   quartic case (k = 2) in a real model, and the flow reaches the critical
   set at a generic point, as in the claim's qualification. Silent on the
-  learning coefficient. ARG-tmp1klwj.
-- **CLAIM-844** — qualifies: slow phases near singularities are real, but
+  learning coefficient. [ARG-tmp1klwj](../arguments.d/ARG-tmp1klwj.md).
+- **[CLAIM-844](../claims.d/CLAIM-844.md)** — qualifies: slow phases near singularities are real, but
   these plateaus are transients ending in escape; no power law, no
   distribution of timescales.
-- **CLAIM-834** — background, supporting A37's "dynamics are separate":
+- **[CLAIM-834](../claims.d/CLAIM-834.md)** — background, supporting A37's "dynamics are separate":
   the dynamics use the Fisher metric and slow manifolds, never resolution.
-- **TERM-140**, **NOTE-2247**, **ARG-131** — in networks the singular sets
+- **[TERM-140](../terms.d/TERM-140.md)**, **[NOTE-2247](NOTE-2247.md)**, **[ARG-131](../arguments.d/ARG-131.md)** — in networks the singular sets
   are interior and at finite parameters, cone apices rather than edges, so
   "regular inside and singular at the edges" holds for the Transtrum
-  group's models and not for networks. ARG-tmpewh6z.
-- **ARG-142** — supports its "relevant difference": the Fisher matrix of a
+  group's models and not for networks. [ARG-tmpewh6z](../arguments.d/ARG-tmpewh6z.md).
+- **[ARG-142](../arguments.d/ARG-142.md)** — supports its "relevant difference": the Fisher matrix of a
   perceptron degenerates on continua at finite parameters, where
   regular-model theory fails.
-- **THEORY-082** — supports: the same rank loss at vᵢ = 0, with the
+- **[THEORY-082](../theory.d/THEORY-082.md)** — supports: the same rank loss at vᵢ = 0, with the
   w = 0 and wᵢ = ±wⱼ components and the Cramér–Rao failure stated directly.
-- **THEORY-2009** — parallel: the same critical sets, as invariant and
+- **[THEORY-2009](../theory.d/THEORY-2009.md)** — parallel: the same critical sets, as invariant and
   attracting sets of SGD.
-- **THEORY-740** — parallel: its stagewise plateaus wait at the origin
+- **[THEORY-740](../theory.d/THEORY-740.md)** — parallel: its stagewise plateaus wait at the origin
   of a product parameterization, a singular point of the same kind
   (w = 0, v = 0).
-- **QUESTION-363**, **QUESTION-039** — background, without a dated note
+- **[QUESTION-363](../questions.d/QUESTION-363.md)**, **[QUESTION-039](../questions.d/QUESTION-039.md)** — background, without a dated note
   here: plateaus as dwelling near a smaller model's critical set, "the
   smaller one forms a critical set within the larger neuromanifold"
   (p. 1030).

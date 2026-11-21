@@ -119,7 +119,7 @@ inequalities need nothing about training, the data or the architecture.
 
 ## Note of 2026-11-21: Song, Ahn & Yun, read
 
-Background (NOTE-tmpw0eql). Song, Ahn and Yun's dominant subspace, the
+Background ([NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md)). Song, Ahn and Yun's dominant subspace, the
 training-loss Hessian's top-k eigenspace with k the number of classes, is
 the outlier set this account's class-centre term explains (rank at most
 C); they take k from the class count and do not say what spans it. Their

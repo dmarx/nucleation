@@ -38,8 +38,8 @@ summary: >-
 
 ## Contribution
 
-Turns the hyper-ribbon picture of Transtrum, Machta and Sethna (LIT-2977,
-LIT-3009) into an algorithm for deriving reduced models, and reads
+Turns the hyper-ribbon picture of Transtrum, Machta and Sethna ([LIT-2977](../literature.d/LIT-2977.md),
+[LIT-3009](../literature.d/LIT-3009.md)) into an algorithm for deriving reduced models, and reads
 reduction as compression of parameter space onto the manifold's
 boundaries. It removes parameter combinations, not degrees of freedom,
 and needs no small parameter and no self-similarity.
@@ -109,36 +109,36 @@ combination fewer that makes nearly the same predictions.
 
 ## Connections
 
-Builds on LIT-2977 and LIT-3009 (NOTE-2240, NOTE-2247); restated in the
-2015 review (LIT-2994, NOTE-2242), whose "48 parameters to 12" matches
-para. 16. The 2016 follow-up (Transtrum & Qiu, LIT-tmpqtxyr), the
-"gray-box" paper (LIT-tmpiy8ed), the comparison with balanced truncation
-(LIT-tmpv6k3o) and "Information topology identifies emergent model
-classes" (Transtrum, Hart & Qiu, LIT-tmptm9ww), the last nearest to the
+Builds on [LIT-2977](../literature.d/LIT-2977.md) and [LIT-3009](../literature.d/LIT-3009.md) ([NOTE-2240](NOTE-2240.md), [NOTE-2247](NOTE-2247.md)); restated in the
+2015 review ([LIT-2994](../literature.d/LIT-2994.md), [NOTE-2242](NOTE-2242.md)), whose "48 parameters to 12" matches
+para. 16. The 2016 follow-up (Transtrum & Qiu, [LIT-tmpqtxyr](../literature.d/LIT-tmpqtxyr.md)), the
+"gray-box" paper ([LIT-tmpiy8ed](../literature.d/LIT-tmpiy8ed.md)), the comparison with balanced truncation
+([LIT-tmpv6k3o](../literature.d/LIT-tmpv6k3o.md)) and "Information topology identifies emergent model
+classes" (Transtrum, Hart & Qiu, [LIT-tmptm9ww](../literature.d/LIT-tmptm9ww.md)), the last nearest to the
 record's stratification question, are registered Deferred from this
 reading. Parallel, not compared: Raju, Machta and Sethna on information
-lost under coarse-graining (LIT-1254).
+lost under coarse-graining ([LIT-1254](../literature.d/LIT-1254.md)).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpt1tw7. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md). Dated notes of 2026-11-21 on each entry below.
 
-- **CLAIM-833** — supports the reduction half directly; leaves the
+- **[CLAIM-833](../claims.d/CLAIM-833.md)** — supports the reduction half directly; leaves the
   learning half open; the boundary hierarchy is a nested structure of
-  faces and corners, though the paper never says "stratum". ARG-tmpmou4i.
-- **TERM-135** — supports the definition ("bounded with a hierarchy of
+  faces and corners, though the paper never says "stratum". [ARG-tmpmou4i](../arguments.d/ARG-tmpmou4i.md).
+- **[TERM-135](../terms.d/TERM-135.md)** — supports the definition ("bounded with a hierarchy of
   widths"), and adds that the method needs a hierarchy of edges, which
   the definition does not require (version 3).
-- **ARG-138**, **ARG-133** — support their caveat with the paper's own
+- **[ARG-138](../arguments.d/ARG-138.md)**, **[ARG-133](../arguments.d/ARG-133.md)** — support their caveat with the paper's own
   lists: the Ising boundaries are all at ±∞, two of the three kinds for
   exponentials at 0 or ∞, the merging one finite.
-- **ARG-131** — supports: the eigenvalue "approaches zero" at a boundary.
-- **CASE-302** — supports: merging terms is a boundary the method
+- **[ARG-131](../arguments.d/ARG-131.md)** — supports: the eigenvalue "approaches zero" at a boundary.
+- **[CASE-302](../cases.d/CASE-302.md)** — supports: merging terms is a boundary the method
   follows, and the case's stratum.
-- **CLAIM-813** — qualifies, as a parallel: the method starts in a sloppy
+- **[CLAIM-813](../claims.d/CLAIM-813.md)** — qualifies, as a parallel: the method starts in a sloppy
   regular interior, ends at a degenerate boundary, and the reduced model
   is regular again ("lack of small eigenvalues").
-- **CLAIM-820** — supports, in its own words: "more complexity in their
+- **[CLAIM-820](../claims.d/CLAIM-820.md)** — supports, in its own words: "more complexity in their
   description than in their predictions".
 
 Nothing here is an instruction for machine-learning practice.

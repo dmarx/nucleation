@@ -229,7 +229,7 @@ This answers none of the orders. No status change.
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
 Supports a coarse-to-fine progression in a single run, as an acquisition
-order (NOTE-tmp2pgi8, THEORY-tmpr9w2r): in the two-layer language model
+order ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)): in the two-layer language model
 the stages run bigrams, then n-grams with positional embedding, then
 previous-token heads, then induction heads, which the authors liken to
 Olsson et al.'s progression across depth (§8). Two qualifications bear on
@@ -237,5 +237,5 @@ whether one chain holds. The groundwork for the induction circuit is laid
 in LM2, "in advance of any measurable change in model outputs or attention
 patterns" (§6.2), so the order of acquisition by behaviour and by
 structure can differ; and three stages lower the estimated coefficient,
-simplifications rather than acquisitions (QUESTION-tmphkb1w). Written as
+simplifications rather than acquisitions ([QUESTION-tmphkb1w](QUESTION-tmphkb1w.md)). Written as
 `bears_on` from the reading. No status change.

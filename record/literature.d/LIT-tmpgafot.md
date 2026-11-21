@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Gutenkunst et al. 2007 (LIT-2999), whose ref. [23] it is, for the technical sense of "universal" and for redundancy among parameter combinations as the cause of sloppiness; also named, without a code, in NOTE-1018. No reading was attempted; a lawful copy has not been sought.
+  filed 2026-11-21, not read. Registered from the reading of Gutenkunst et al. 2007 ([LIT-2999](LIT-2999.md)), whose ref. [23] it is, for the technical sense of "universal" and for redundancy among parameter combinations as the cause of sloppiness; also named, without a code, in [NOTE-1018](../notes.d/NOTE-1018.md). No reading was attempted; a lawful copy has not been sought.
 title: 'Sloppy-Model Universality Class and the Vandermonde Matrix'
 version: 1
 history:
@@ -20,7 +20,7 @@ first_author: 'Waterfall'
 keywords: []
 implementations: []
 summary: >-
-  Waterfall, Casey, Gutenkunst, Brown, Myers, Brouwer, Elser & Sethna (2006), Sloppy-Model Universality Class and the Vandermonde Matrix, Physical Review Letters 97, 150601, DOI 10.1103/PhysRevLett.97.150601. By Gutenkunst et al. (LIT-2999), the paper that gives sloppiness a universality class in the statistical-physics sense and traces the evenly log-spaced spectrum to a Vandermonde structure. Here as the record's missing account of why sloppy spectra look alike (TERM-140). Unverified until read.
+  Waterfall, Casey, Gutenkunst, Brown, Myers, Brouwer, Elser & Sethna (2006), Sloppy-Model Universality Class and the Vandermonde Matrix, Physical Review Letters 97, 150601, DOI 10.1103/PhysRevLett.97.150601. By Gutenkunst et al. ([LIT-2999](LIT-2999.md)), the paper that gives sloppiness a universality class in the statistical-physics sense and traces the evenly log-spaced spectrum to a Vandermonde structure. Here as the record's missing account of why sloppy spectra look alike ([TERM-140](../terms.d/TERM-140.md)). Unverified until read.
 ---
 <!-- inactive-ok-file: TERM-140 — Proposed; filed 2026-11-21, the term this work's account bears on -->
 
@@ -30,4 +30,4 @@ Waterfall et al. (2006). Physical Review Letters 97, 150601. DOI 10.1103/PhysRev
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the reading of Gutenkunst et al. 2007 (LIT-2999), which cites it for the sense of "universal" in its title. NOTE-1018 names it without a code. It bears on the record's term for sloppiness (TERM-140): whether the even log spacing has a derivation, and for what family of models. Not read.
+Registered on 2026-11-21 from the reading of Gutenkunst et al. 2007 ([LIT-2999](LIT-2999.md)), which cites it for the sense of "universal" in its title. [NOTE-1018](../notes.d/NOTE-1018.md) names it without a code. It bears on the record's term for sloppiness ([TERM-140](../terms.d/TERM-140.md)): whether the even log spacing has a derivation, and for what family of models. Not read.

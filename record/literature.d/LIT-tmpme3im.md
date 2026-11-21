@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Wei et al. 2008 (LIT-3000), which cites it, and Amari, Park & Ozeki 2006 (LIT-2960), which cites it too, as the statistical-mechanics analysis of on-line learning in which symmetric plateaus were first worked out. No reading was attempted; a lawful copy has not been sought.
+  filed 2026-11-21, not read. Registered from the reading of Wei et al. 2008 ([LIT-3000](LIT-3000.md)), which cites it, and Amari, Park & Ozeki 2006 ([LIT-2960](LIT-2960.md)), which cites it too, as the statistical-mechanics analysis of on-line learning in which symmetric plateaus were first worked out. No reading was attempted; a lawful copy has not been sought.
 title: 'On-line learning in soft committee machines'
 version: 1
 history:
@@ -20,7 +20,7 @@ first_author: 'Saad'
 keywords: []
 implementations: []
 summary: >-
-  Saad & Solla (1995), On-line learning in soft committee machines, Physical Review E 52, 4225-4243, DOI 10.1103/PhysRevE.52.4225. Order-parameter equations for on-line gradient learning in a two-layer committee machine, the setting in which a plateau with symmetric hidden units was first analysed; cited by both singular-dynamics readings (LIT-2960, LIT-3000). Unverified until read.
+  Saad & Solla (1995), On-line learning in soft committee machines, Physical Review E 52, 4225-4243, DOI 10.1103/PhysRevE.52.4225. Order-parameter equations for on-line gradient learning in a two-layer committee machine, the setting in which a plateau with symmetric hidden units was first analysed; cited by both singular-dynamics readings ([LIT-2960](LIT-2960.md), [LIT-3000](LIT-3000.md)). Unverified until read.
 ---
 
 # LIT-tmpme3im: On-line learning in soft committee machines
@@ -29,4 +29,4 @@ Saad & Solla (1995). Physical Review E 52, 4225-4243. DOI 10.1103/PhysRevE.52.42
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the readings of Wei et al. 2008 (LIT-3000) and Amari, Park & Ozeki 2006 (LIT-2960). The symmetric plateau is a slow phase whose origin is the overlap singularity; it bears on the record's claims about slow learning near singularities. Not read.
+Registered on 2026-11-21 from the readings of Wei et al. 2008 ([LIT-3000](LIT-3000.md)) and Amari, Park & Ozeki 2006 ([LIT-2960](LIT-2960.md)). The symmetric plateau is a slow phase whose origin is the overlap singularity; it bears on the record's claims about slow learning near singularities. Not read.

@@ -106,36 +106,36 @@ complement of the top subspace.
 ## Connections
 
 The dominant subspace is the class-structured outlier set of the Hessian
-(Papyan, LIT-619, NOTE-479; THEORY-731, THEORY-078 say what spans it,
+(Papyan, [LIT-619](../literature.d/LIT-619.md), [NOTE-479](NOTE-479.md); [THEORY-731](../theory.d/THEORY-731.md), [THEORY-078](../theory.d/THEORY-078.md) say what spans it,
 which this paper does not). SGD noise shaping motion across curvature
-directions is THEORY-209's subject (LIT-1011). The Edge of Stability
-(Cohen et al., LIT-tmplp1by) and self-stabilization (Damian et al.,
-LIT-tmpwa65s) are registered from this reading.
+directions is [THEORY-209](../theory.d/THEORY-209.md)'s subject ([LIT-1011](../literature.d/LIT-1011.md)). The Edge of Stability
+(Cohen et al., [LIT-tmplp1by](../literature.d/LIT-tmplp1by.md)) and self-stabilization (Damian et al.,
+[LIT-tmpwa65s](../literature.d/LIT-tmpwa65s.md)) are registered from this reading.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpthmd7. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md). Dated notes of 2026-11-21 on each entry below.
 
-- **CLAIM-835**: weak support. "Large under curvature, little part in
+- **[CLAIM-835](../claims.d/CLAIM-835.md)**: weak support. "Large under curvature, little part in
   descent" is a disagreement between the Hessian's ranking and the
   ranking by contribution to progress, but it is a dynamical result within
   one metric, the stiff directions having reached their floor, not two
   static metrics ranking in opposite orders. Momentum and Adam raising the
-  bulk step are a change of the metric of descent (THEORY-082).
-- **ARG-139**: supports its verdict and qualifies a premise. Under the
+  bulk step are a change of the metric of descent ([THEORY-082](../theory.d/THEORY-082.md)).
+- **[ARG-139](../arguments.d/ARG-139.md)**: supports its verdict and qualifies a premise. Under the
   paper's main loss, MSE, the Hessian is the Gauss–Newton matrix JᵀJ on
   the training set plus a residual term (the filer's and reader's
   reasoning; the paper does not decompose it), close to the hyperribbon's
   parameter-space metric. Its picture, stiff directions fitted first and
   progress along the flat floor, is the sloppy-model picture, not a
   correction of it.
-- **QUESTION-511**: leaves open. Only training-loss descent is measured;
+- **[QUESTION-511](../questions.d/QUESTION-511.md)**: leaves open. Only training-loss descent is measured;
   no direction is followed, the subspace being recomputed each step. The
   sharpness asymmetry is a local-geometry change driven by which component
   is kept, a parallel at most to the question's event 2.
-- **TERM-137**: an instance of sense 3 (low curvature), with "bulk"
+- **[TERM-137](../terms.d/TERM-137.md)**: an instance of sense 3 (low curvature), with "bulk"
   meaning the complement of the top k, not the low tail.
-- **THEORY-731, THEORY-078, THEORY-209**: background and parallel (notes
+- **[THEORY-731](../theory.d/THEORY-731.md), [THEORY-078](../theory.d/THEORY-078.md), [THEORY-209](../theory.d/THEORY-209.md)**: background and parallel (notes
   there).
 
 Nothing here is filed as an instruction for machine-learning practice.

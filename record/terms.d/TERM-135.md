@@ -161,8 +161,8 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
    condition is the sloppy-model literature's, for its own models. In
    neural networks the points of rank loss lie inside parameter space at
    finite values, a unit switched off or two units coinciding, and in the
-   space of distributions at a cone apex, not at an edge (LIT-2960,
-   THEORY-tmpbobud), so a network near such a set is not a regular
+   space of distributions at a cone apex, not at an edge ([LIT-2960](../literature.d/LIT-2960.md),
+   [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md)), so a network near such a set is not a regular
    interior between singular edges.
 
 ## What it is not
@@ -193,9 +193,9 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
   model manifold be bounded with a hierarchy of boundaries", and gives the
   counter-example: polynomial fitting with a bounded coefficient vector is
   "an ellipsoid with a hierarchy of widths but without a hierarchy of
-  edges; i.e., there are no corners" (LIT-2979, para. 21). Such a manifold
+  edges; i.e., there are no corners" ([LIT-2979](../literature.d/LIT-2979.md), para. 21). Such a manifold
   is a hyperribbon by this definition, and the method cannot use it
-  (THEORY-tmpt1tw7).
+  ([THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)).
 - **Not a count of parameters.** Neither a hyperribbon's dimension nor
   its number of "wide" directions is fixed: how many directions a data set
   resolves grows with the data ([CLAIM-825](../claims.d/CLAIM-825.md)), and which of several
@@ -212,8 +212,8 @@ to the manifold's boundary, which A19 §4 names: Transtrum and Qiu 2014
 colleagues 2007 ([LIT-2999](../literature.d/LIT-2999.md)). The two papers and the 2015 review were
 read on 2026-11-21 ([NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.md), [NOTE-2242](../notes.d/NOTE-2242.md)) and filed
 as [THEORY-2156](../theory.d/THEORY-2156.md), [THEORY-2155](../theory.d/THEORY-2155.md) and [THEORY-2154](../theory.d/THEORY-2154.md); the reduction
-method and the survey were read the same day (NOTE-tmphbnqd,
-NOTE-tmp1feoo) and filed as THEORY-tmpt1tw7 and THEORY-tmpks8pd; the
+method and the survey were read the same day ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md),
+[NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md)) and filed as [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md) and [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md); the
 2023 review is Deferred and unread. The
 definition rests on those readings, on A's wording and on the record's
 readings of [THEORY-774](../theory.d/THEORY-774.md), [THEORY-777](../theory.d/THEORY-777.md) and [THEORY-742](../theory.d/THEORY-742.md).
@@ -247,7 +247,7 @@ made in place above (version 2). What the readings support and qualify:
 
 ## Note of 2026-11-21: Transtrum & Qiu (2014), Gutenkunst et al. (2007) and Amari, Park & Ozeki (2006), read
 
-- **Transtrum and Qiu (NOTE-tmphbnqd) support the definition**: "the
+- **Transtrum and Qiu ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md)) support the definition**: "the
   manifold is bounded with a hierarchy of widths, qualitatively described
   as a hyper-ribbon" (para. 8), spelt with the hyphen. **They add** that
   widths are not enough for their method, which needs nested edges and
@@ -255,10 +255,10 @@ made in place above (version 2). What the readings support and qualify:
   in place above, under "What it is not" (version 3). The reduced model
   sits at a "hypercorner", and after reduction "the lack of small
   eigenvalues" shows the reduced model is no longer sloppy.
-- **Gutenkunst and colleagues (NOTE-tmp1feoo): background.** The survey
+- **Gutenkunst and colleagues ([NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md)): background.** The survey
   has no model manifold and no widths; its ellipsoids are in parameter
   space, axes ∝ 1/√λ (Fig. 1A). It is the empirical base the definition's
   sources cite, and accurately.
-- **Amari, Park and Ozeki (NOTE-tmptlwkf) limit condition 2** to the
+- **Amari, Park and Ozeki ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md)) limit condition 2** to the
   sloppy-model literature's models: network singularities are interior,
   at finite parameters (made in place above).

@@ -19,7 +19,7 @@ source:
 corroborates:
 - CLAIM-820
 summary: >-
-  Transtrum and Qiu (2014), LIT-2979, read in NOTE-tmphbnqd. The
+  Transtrum and Qiu (2014), [LIT-2979](../literature.d/LIT-2979.md), read in [NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md). The
   manifold boundary approximation turns the hyper-ribbon into a
   reduction algorithm: boundaries are where a parameter combination
   reaches a limit (0, ∞, or two terms merging), the reduced model is a
@@ -33,8 +33,8 @@ summary: >-
 ## Source
 
 Transtrum and Qiu, "Model Reduction by Manifold Boundaries", Phys. Rev.
-Lett. 113, 098701 (2014), LIT-2979, read from the NIH author manuscript
-(PMC4425275) in NOTE-tmphbnqd. The Supplemental Material is unread.
+Lett. 113, 098701 (2014), [LIT-2979](../literature.d/LIT-2979.md), read from the NIH author manuscript
+(PMC4425275) in [NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md). The Supplemental Material is unread.
 
 ## What was actually shown
 
@@ -63,5 +63,5 @@ Lett. 113, 098701 (2014), LIT-2979, read from the NIH author manuscript
   as finite points only in the closure of the manifold in prediction
   space; the paper neither uses the word "stratum" nor cites that theory.
 - **Anything about learning.** No training, no networks, no move away from
-  a singular configuration (CLAIM-833's other half).
+  a singular configuration ([CLAIM-833](../claims.d/CLAIM-833.md)'s other half).
 - **That the method is automatic.** A human names the limit.

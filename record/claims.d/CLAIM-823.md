@@ -90,7 +90,7 @@ representational development are such switches, or at least leave their
 mark in local learning coefficients. The record holds one reading in
 favour: weight-refined coefficients of attention heads diverge by function
 over training ([THEORY-975](../theory.d/THEORY-975.md)). Hoogland and colleagues ([LIT-2966](../literature.d/LIT-2966.md),
-read 2026-11-21: THEORY-tmpr9w2r) report stagewise changes in the
+read 2026-11-21: [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)) report stagewise changes in the
 coefficient in two small transformers; see the note below.
 
 ## What it does not say
@@ -121,7 +121,7 @@ itself has no dynamical content beyond its Outlook.
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
 Supports the claim's weak half, leaves its strong half untested, and
-qualifies it (ARG-tmpfh555; NOTE-tmp2pgi8, THEORY-tmpr9w2r).
+qualifies it ([ARG-tmpfh555](../arguments.d/ARG-tmpfh555.md); [NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)).
 
 - **The weak half, supported in two small models.** Plateaus of the
   estimated coefficient divide training of a two-layer attention-only
@@ -138,11 +138,11 @@ qualifies it (ARG-tmpfh555; NOTE-tmp2pgi8, THEORY-tmpr9w2r).
 - **The decreases qualify it.** Three stages lower the estimate (LM3,
   LR3, LR4). A crossover to a richer, higher-λ region, this claim's
   transition, produces increases; the authors call a full account "an open
-  problem" (§8). The decreases are QUESTION-tmphkb1w.
+  problem" (§8). The decreases are [QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md).
 - **The estimator.** nβ is 21.7 and 66.7, not n/log n, with γ fixed, so a
   rise can be directions stiffening past the estimator's cut-off as much
-  as a change of region (CLAIM-812).
+  as a change of region ([CLAIM-812](CLAIM-812.md)).
 
-The bearing on the owner's U23 itself (CLAIM-834) is noted there by the
+The bearing on the owner's U23 itself ([CLAIM-834](CLAIM-834.md)) is noted there by the
 filing of the other readings of this batch.
 

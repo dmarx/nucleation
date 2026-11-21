@@ -22,19 +22,19 @@ summary: >-
   The 2011 paper writes that "in the context of training neural networks,
   ... metric singularities (i.e. model boundaries) can have a strong
   influence on the fitting", citing Amari, Park and Ozeki 2006. Read
-  (NOTE-tmptlwkf), that source places network singularities at finite
+  ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md)), that source places network singularities at finite
   parameter values inside parameter space (a unit off, two units equal),
   which collapse in the space of distributions to a cone apex or a point
   joining two components; it never uses the word "boundary". So the
-  picture of a regular interior with singular edges, which ARG-131 finds
+  picture of a regular interior with singular edges, which [ARG-131](ARG-131.md) finds
   in the sloppy-model literature's own models, does not carry to networks
   on this citation. Rejected as a route to the owner's bet for networks.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
   Standing of the conclusion apart from this route: held as the owner's
-  CLAIM-808 (Proposed), supported at the edges of the Transtrum group's
-  models by ARG-131; in networks the singular sets are interior strata,
-  where the connection, if any, is not at an edge (ADR-136).
+  [CLAIM-808](../claims.d/CLAIM-808.md) (Proposed), supported at the edges of the Transtrum group's
+  models by [ARG-131](ARG-131.md); in networks the singular sets are interior strata,
+  where the connection, if any, is not at an edge ([ADR-136](../decisions.d/ADR-136.md)).
 ---
 <!-- inactive-ok-file: CLAIM-808 ARG-131 THEORY-2155 THEORY-tmpbobud — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" or from the readings of its works -->
 
@@ -42,10 +42,10 @@ summary: >-
 
 ## The inference
 
-ARG-131 supports CLAIM-808 at the edges: in the sloppy-model literature's
+[ARG-131](ARG-131.md) supports [CLAIM-808](../claims.d/CLAIM-808.md) at the edges: in the sloppy-model literature's
 models the metric is singular at the manifold's boundaries, so the
 hyperribbon has a regular interior and singular edges. The 2011 paper
-(THEORY-2155, NOTE-2247) extends the identification to networks: "It has
+([THEORY-2155](../theory.d/THEORY-2155.md), [NOTE-2247](../notes.d/NOTE-2247.md)) extends the identification to networks: "It has
 been observed in the context of training neural networks, that metric
 singularities (i.e. model boundaries) can have a strong influence on the
 fitting [42]", [42] being Amari, Park and Ozeki 2006. If that holds, the
@@ -53,7 +53,7 @@ edge connection reaches networks.
 
 ## Critical questions
 
-- **Does the cited source say it?** No. THEORY-tmpbobud: the Fisher matrix
+- **Does the cited source say it?** No. [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md): the Fisher matrix
   degenerates on "the critical set C : vw = 0", and for k units on
   wᵢ = ±wⱼ, sets that are "not isolated but form a continuum" of finite
   parameter values. In the space of distributions the critical set is "a
@@ -74,4 +74,4 @@ edge connection reaches networks.
 ## Verdict
 
 Rejected as a route from the sloppy-model geometry to networks. It leaves
-ARG-131 untouched for the models it is about.
+[ARG-131](ARG-131.md) untouched for the models it is about.

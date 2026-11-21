@@ -15,12 +15,12 @@ date: '2026-11-21'
 source:
 - LIT-2959
 summary: >-
-  Acharya, Rimal and Dhakal, LIT-2959, read in NOTE-tmpwvltp. Where
+  Acharya, Rimal and Dhakal, [LIT-2959](../literature.d/LIT-2959.md), read in [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md). Where
   concept vectors point in the logit metric's eigenbasis, from the
   activation side and the vocabulary side. A placement of directions, not
   a measure of information or of importance; the paper's own effect
   measures run with the metric. Its sign flip is what Park, Choe and
-  Veitch's map predicts (CLAIM-tmpqy8mq).
+  Veitch's map predicts ([CLAIM-tmpqy8mq](../claims.d/CLAIM-tmpqy8mq.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpqy8mq — Proposed or new; the reading this account comes from and the claim filed on its sign flip -->
 
@@ -30,7 +30,7 @@ summary: >-
 
 Acharya, Rimal and Dhakal, "Concepts Whisper: Spectral Anti-Concentration
 and the Dual Geometry of Transformer Representations", EMNLP 2026,
-LIT-2959, read from arXiv 2605.01609v2 in NOTE-tmpwvltp.
+[LIT-2959](../literature.d/LIT-2959.md), read from arXiv 2605.01609v2 in [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md).
 
 ## What was actually shown
 
@@ -55,4 +55,4 @@ models the first happened.
 - Not that tail directions are causally important: steering strength is
   "untested".
 - Not about learning: the only trajectory is through depth.
-- Not invariant under invertible maps of the residual stream (THEORY-018).
+- Not invariant under invertible maps of the residual stream ([THEORY-018](THEORY-018.md)).

@@ -116,12 +116,12 @@ itself has no dynamical content beyond its Outlook.
 The four readings leave the question open, and one tells against A41's
 candidate answer.
 
-- **None tracks a direction through training.** Xu (THEORY-tmpu3iio) and
-  Acharya et al. (THEORY-tmpklef6) use final checkpoints; Acharya et al.'s
+- **None tracks a direction through training.** Xu ([THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md)) and
+  Acharya et al. ([THEORY-tmpklef6](../theory.d/THEORY-tmpklef6.md)) use final checkpoints; Acharya et al.'s
   only trajectory is through depth ("Our layer-wise analysis is
-  descriptive"). Song et al. (THEORY-tmpthmd7) measure only training-loss
+  descriptive"). Song et al. ([THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md)) measure only training-loss
   descent and recompute the subspace at every step, so no direction is
-  followed. Hoogland et al. (THEORY-tmpr9w2r) date stages by the local
+  followed. Hoogland et al. ([THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)) date stages by the local
   learning coefficient, a scalar, not by any direction; they do date event
   2's kind of change against behaviour, at fixed sampler settings.
 - **Quiet in one metric, loud in another.** Xu's bottom band is quiet in
@@ -131,17 +131,17 @@ candidate answer.
   not fit the work A41 cites for it; read as low amplification by the
   unembedding, it fits, and the question must say which.
 - **A test the record could run.** Xu's suggested training origin, after
-  Thrampoulidis (LIT-tmp9yy1o) and Zhao et al. (LIT-tmpgptvp), places the
+  Thrampoulidis ([LIT-tmp9yy1o](../literature.d/LIT-tmp9yy1o.md)) and Zhao et al. ([LIT-tmpgptvp](../literature.d/LIT-tmpgptvp.md)), places the
   distinctions among plausible candidates at the bottom of the spectrum as
   training proceeds; "Testing this origin would require tracking the
   organization during training" (§7). Pythia's public checkpoints, among
   Xu's ten models at their final step, would allow tracking the bottom
   band's consequence spectrum through training: a direction becoming
   informative, in a stated spectrum.
-- **No inner product is intrinsic.** THEORY-018 holds that softmax
+- **No inner product is intrinsic.** [THEORY-018](../theory.d/THEORY-018.md) holds that softmax
   training fixes the final representation only up to an invertible linear
   map. Xu's singular ranking and "equal length", and Acharya et al.'s
-  energy fractions, are not invariant under h ↦ Ah, W ↦ WA⁻¹ (THEORY-234);
+  energy fractions, are not invariant under h ↦ Ah, W ↦ WA⁻¹ ([THEORY-234](../theory.d/THEORY-234.md));
   Xu's quotient of metrics and its generalized eigenvectors are. This
   qualifies every reading here, and is the "harmless representation
   reparameterizations" caution above made exact: an answer must be stated

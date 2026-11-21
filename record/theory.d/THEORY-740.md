@@ -106,9 +106,9 @@ start. A bearing of use; this reading's derivation is not affected.
 
 A parallel and a contrast. The plateaus here wait at the origin of a
 product parameterization, a singular point of the kind Amari, Park and
-Ozeki treat (w = 0, v = 0; NOTE-tmptlwkf), and end in an escape whose time
+Ozeki treat (w = 0, v = 0; [NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md)), and end in an escape whose time
 is of order the log of the inverse initial scale. Wei and colleagues'
 long plateau is of another kind: a noise-driven random walk along a line
 of equivalent models, an attracting set with a basin of positive measure,
-left only by fluctuation (NOTE-tmpl89m0, THEORY-tmpg4aat). Different
+left only by fluctuation ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md), [THEORY-tmpg4aat](THEORY-tmpg4aat.md)). Different
 models; no relation is written.

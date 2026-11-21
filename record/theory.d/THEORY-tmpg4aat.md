@@ -15,8 +15,8 @@ date: '2026-11-21'
 source:
 - LIT-3000
 summary: >-
-  Wei, Zhang, Cousseau, Ozeki and Amari (2008), LIT-3000, read in
-  NOTE-tmpl89m0. Orbits, not time courses: a conserved quantity of the
+  Wei, Zhang, Cousseau, Ozeki and Amari (2008), [LIT-3000](../literature.d/LIT-3000.md), read in
+  [NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md). Orbits, not time courses: a conserved quantity of the
   averaged flow fixes where learning goes near coinciding units, and the
   long plateau on the singularity is a noise-driven walk along a line of
   equivalent models, not a slow decay along a degenerate direction.
@@ -29,7 +29,7 @@ summary: >-
 
 Wei, Zhang, Cousseau, Ozeki and Amari, "Dynamics of Learning Near
 Singularities in Layered Networks", Neural Computation 20, 813–843
-(2008), LIT-3000, read from the published version in NOTE-tmpl89m0.
+(2008), [LIT-3000](../literature.d/LIT-3000.md), read from the published version in [NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md).
 
 ## What was actually shown
 
@@ -39,7 +39,7 @@ Singularities in Layered Networks", Neural Computation 20, 813–843
 - **Stability** (Theorem 1) by the signature of (1 − z²)H.
 - **Orbits** (Theorem 2, Eq. 3.10): h(u) = ½uᵀu = (2w∗²/3)
   log((z² + 3)²/|z|) + C, in Fukumizu and Amari's coordinates
-  (LIT-tmp5rr3p); C against C₀ decides whether an orbit meets R₁* or
+  ([LIT-tmp5rr3p](../literature.d/LIT-tmp5rr3p.md)); C against C₀ decides whether an orbit meets R₁* or
   passes R₂* (Eq. 3.15); "in most cases, the model parameter reaches R∗2".
 - **Two plateaus.** On the singularity: attraction to the stable part of
   R₁*, then "a long period of random walk on R∗1", a "Milnor-like

@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Xu (LIT-2967), which cites it. The arXiv copy at https://arxiv.org/abs/2402.18551 is lawful and was not fetched for reading.
+  filed 2026-11-21, not read. Registered from the reading of Xu ([LIT-2967](LIT-2967.md)), which cites it. The arXiv copy at https://arxiv.org/abs/2402.18551 is lawful and was not fetched for reading.
 title: 'Implicit Optimization Bias of Next-Token Prediction in Linear Models'
 version: 1
 history:
@@ -20,7 +20,7 @@ first_author: 'Thrampoulidis'
 keywords: []
 implementations: []
 summary: >-
-  Thrampoulidis (2024), Implicit Optimization Bias of Next-Token Prediction in Linear Models, arXiv 2402.18551. Here for one of the two sources of Xu's suggested training origin (LIT-2967, NOTE-tmp454fw, §7): in linear models with fixed context embeddings, gradient descent fits the logit differences among the tokens that can follow a context to their log-odds, while parameters grow in norm along a direction separating those tokens from the rest. It bears on THEORY-tmpu3iio, QUESTION-511, and the record's simplex-geometry readings THEORY-738 and THEORY-286. Unverified until read.
+  Thrampoulidis (2024), Implicit Optimization Bias of Next-Token Prediction in Linear Models, arXiv 2402.18551. Here for one of the two sources of Xu's suggested training origin ([LIT-2967](LIT-2967.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md), §7): in linear models with fixed context embeddings, gradient descent fits the logit differences among the tokens that can follow a context to their log-odds, while parameters grow in norm along a direction separating those tokens from the rest. It bears on [THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md), [QUESTION-511](../questions.d/QUESTION-511.md), and the record's simplex-geometry readings [THEORY-738](../theory.d/THEORY-738.md) and [THEORY-286](../theory.d/THEORY-286.md). Unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-tmpu3iio THEORY-286 — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -30,4 +30,4 @@ Thrampoulidis (2024). arXiv 2402.18551.
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the reading of Xu (LIT-2967), for one of the two sources of Xu's suggested training origin (LIT-2967, NOTE-tmp454fw, §7): in linear models with fixed context embeddings, gradient descent fits the logit differences among the tokens that can follow a context to their log-odds, while parameters grow in norm along a direction separating those tokens from the rest. It bears on THEORY-tmpu3iio, QUESTION-511, and the record's simplex-geometry readings THEORY-738 and THEORY-286. Not read.
+Registered on 2026-11-21 from the reading of Xu ([LIT-2967](LIT-2967.md)), for one of the two sources of Xu's suggested training origin ([LIT-2967](LIT-2967.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md), §7): in linear models with fixed context embeddings, gradient descent fits the logit differences among the tokens that can follow a context to their log-odds, while parameters grow in norm along a direction separating those tokens from the rest. It bears on [THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md), [QUESTION-511](../questions.d/QUESTION-511.md), and the record's simplex-geometry readings [THEORY-738](../theory.d/THEORY-738.md) and [THEORY-286](../theory.d/THEORY-286.md). Not read.

@@ -108,16 +108,16 @@ slowing belong to it.
 
 ## Note of 2026-11-21: Amari, Park & Ozeki (2006) and Wei et al. (2008), read
 
-- **Amari, Park and Ozeki qualify the claim** (NOTE-tmptlwkf,
-  THEORY-tmpbobud). They support that slow phases of gradient training can
+- **Amari, Park and Ozeki qualify the claim** ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md),
+  [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md)). They support that slow phases of gradient training can
   be singular in origin, and attribute the backpropagation plateau to the
   critical set, a "Milnor attractor" even for a regular truth (§4.5). But
   their plateaus are transients that end in escape, shown in models with
   two effective parameters; they report no power-law relaxation, no
   distribution of timescales and no comparison with criticality. Nothing
   bears on the second part (dependency trees).
-- **Wei and colleagues give a third rival** (NOTE-tmpl89m0,
-  THEORY-tmpg4aat). Their long, on-singularity plateau is "a long period
+- **Wei and colleagues give a third rival** ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md),
+  [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md)). Their long, on-singularity plateau is "a long period
   of random walk on R∗1", a line of models that compute the same
   function, along which the averaged loss does not change ("Ė(ξ) = 0 on
   average"), driven by "the fluctuations due to the noise and the random
@@ -130,5 +130,5 @@ slowing belong to it.
   separates the claim from its rivals would have to tell a walk along a
   flat line from a decay along a degenerate direction as well as from
   critical slowing. The paper says nothing of power laws or broad
-  timescale distributions, and is no ground of this claim (ARG-tmp0cg6w).
-  The rival is held in THEORY-tmpg4aat, in the authors' voice.
+  timescale distributions, and is no ground of this claim ([ARG-tmp0cg6w](../arguments.d/ARG-tmp0cg6w.md)).
+  The rival is held in [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md), in the authors' voice.

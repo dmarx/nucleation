@@ -204,7 +204,7 @@ A parallel ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues define st
 
 ## Note of 2026-11-21: Song, Ahn & Yun, read
 
-A parallel (NOTE-tmpw0eql): in Song, Ahn and Yun, SGD noise kicks iterates
+A parallel ([NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md)): in Song, Ahn and Yun, SGD noise kicks iterates
 up the walls of a steep valley, so the gradient aligns with the Hessian's
 top subspace while the loss falls along the floor; the alignment
 disappears under full-batch descent. Noise shaping motion across curvature

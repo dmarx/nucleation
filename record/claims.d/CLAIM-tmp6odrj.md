@@ -15,9 +15,9 @@ date: '2026-11-21'
 line:
 - learned-structure
 summary: >-
-  The inequality that CLAIM-tmpqy8mq uses, split off as a claim of its own
+  The inequality that [CLAIM-tmpqy8mq](CLAIM-tmpqy8mq.md) uses, split off as a claim of its own
   so that its demonstrated part is held apart from that claim's
-  interpretive identification (the owner's "adopt" of ADR-tmpw70lb; filer
+  interpretive identification (the owner's "adopt" of [ADR-tmpw70lb](../decisions.d/ADR-tmpw70lb.md); filer
   B's suggestion, readings batch 2). For a covariance Σ with positive
   eigenvalues λ₁ ≥ … ≥ λ_d and any vector v, write e_i for v's energy
   fractions in Σ's eigenbasis. Σ⁻¹v has fractions proportional to
@@ -28,7 +28,7 @@ summary: >-
   variance, such as the Gini deviation of Acharya, Rimal and Dhakal,
   falls with it. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpqy8mq ADR-tmpw70lb — Proposed or new; the claim this serves and the decision behind the split -->
+<!-- inactive-ok-file: CLAIM-tmpqy8mq — Proposed or new; the claim this serves and the decision behind the split -->
 
 # CLAIM-tmp6odrj: Multiplying a vector by the inverse of a covariance moves its energy toward that covariance's spectral tail: in the eigenbasis the energy fractions are reweighted by the inverse squared eigenvalues, so the cumulative energy falls at every cut and any measure that integrates it against cumulative variance falls with it
 
@@ -38,6 +38,6 @@ summary: >-
 
 **Checked** with `python3 -I`, scratchpad `checks/park_ineq.py`: 5,000 random spectra (d from 2 to 299) and vectors, no case with C' > C beyond rounding (largest excess 1.6×10⁻¹⁵). Filer B's independent check (`filerB/mono.py`) found the same on 4,000 cases.
 
-**Use.** CLAIM-tmpqy8mq rests on it, adding the interpretive step that the measured activation-side concept vectors are, to a good approximation, Σ⁻¹ images of their unembedding-side contrasts, as Park, Choe and Veitch's unification (THEORY-018) would have them.
+**Use.** [CLAIM-tmpqy8mq](CLAIM-tmpqy8mq.md) rests on it, adding the interpretive step that the measured activation-side concept vectors are, to a good approximation, Σ⁻¹ images of their unembedding-side contrasts, as Park, Choe and Veitch's unification ([THEORY-018](../theory.d/THEORY-018.md)) would have them.
 
 The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

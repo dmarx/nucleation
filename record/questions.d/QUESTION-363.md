@@ -150,12 +150,12 @@ picture of staged learning, is [CLAIM-834](../claims.d/CLAIM-834.md). No status 
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-Leaves the question open (NOTE-tmp2pgi8). The paper takes Bayesian
+Leaves the question open ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)). The paper takes Bayesian
 singular learning as an analogy for training's stages ("While there are
 many differences between Bayesian inference and modern neural network
 training, an analogy to the singular learning process informs our
 methodology for stage division", §2) and says "the general connection
 between the singular learning process in Bayesian inference and stagewise
 development in deep learning remains to be understood" (§5). It cites
-Chen et al. (THEORY-1275) as its only empirical precedent. No relation
+Chen et al. ([THEORY-1275](../theory.d/THEORY-1275.md)) as its only empirical precedent. No relation
 written.

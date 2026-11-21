@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-21, not read. Registered from the reading of Xu (LIT-2967), which cites it. The arXiv copy at https://arxiv.org/abs/2402.09221 is lawful and was not fetched for reading.
+  filed 2026-11-21, not read. Registered from the reading of Xu ([LIT-2967](LIT-2967.md)), which cites it. The arXiv copy at https://arxiv.org/abs/2402.09221 is lawful and was not fetched for reading.
 title: 'Spectral Filters, Dark Signals, and Attention Sinks'
 version: 1
 history:
@@ -19,7 +19,7 @@ first_author: 'Cancedda'
 keywords: []
 implementations: []
 summary: >-
-  Cancedda (2024), ACL 2024 (as Xu cites it), Spectral Filters, Dark Signals, and Attention Sinks, arXiv 2402.09221. Here for the closest prior observation Xu (LIT-2967, NOTE-tmp454fw) names (its Figure 8): that removing the bottom band of the unembedding's singular directions after the final layers raises the loss more than removing a random subspace of the same rank; and, by Xu's account, that removing them at intermediate layers raises the loss through attention sinks. It bears on THEORY-tmpu3iio and CLAIM-835. Unverified until read.
+  Cancedda (2024), ACL 2024 (as Xu cites it), Spectral Filters, Dark Signals, and Attention Sinks, arXiv 2402.09221. Here for the closest prior observation Xu ([LIT-2967](LIT-2967.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md)) names (its Figure 8): that removing the bottom band of the unembedding's singular directions after the final layers raises the loss more than removing a random subspace of the same rank; and, by Xu's account, that removing them at intermediate layers raises the loss through attention sinks. It bears on [THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md) and [CLAIM-835](../claims.d/CLAIM-835.md). Unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-tmpu3iio CLAIM-835 — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -29,4 +29,4 @@ Cancedda (2024). arXiv 2402.09221.
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the reading of Xu (LIT-2967), for the closest prior observation Xu (LIT-2967, NOTE-tmp454fw) names (its Figure 8): that removing the bottom band of the unembedding's singular directions after the final layers raises the loss more than removing a random subspace of the same rank; and, by Xu's account, that removing them at intermediate layers raises the loss through attention sinks. It bears on THEORY-tmpu3iio and CLAIM-835. Not read.
+Registered on 2026-11-21 from the reading of Xu ([LIT-2967](LIT-2967.md)), for the closest prior observation Xu ([LIT-2967](LIT-2967.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md)) names (its Figure 8): that removing the bottom band of the unembedding's singular directions after the final layers raises the loss more than removing a random subspace of the same rank; and, by Xu's account, that removing them at intermediate layers raises the loss through attention sinks. It bears on [THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md) and [CLAIM-835](../claims.d/CLAIM-835.md). Not read.
