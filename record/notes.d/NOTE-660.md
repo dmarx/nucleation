@@ -275,6 +275,6 @@ dynamics.
 ## Note of 2026-11-21: Baik, Ben Arous and Péché, read
 
 **Background**, no edge. The spiked covariance model the analogy analysis
-borrows is now read as [LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md) ([NOTE-tmpggv08](NOTE-tmpggv08.md)). Its theorem is for
+borrows is now read as [LIT-2986](../literature.d/LIT-2986.md) ([NOTE-2241](NOTE-2241.md)). Its theorem is for
 complex Gaussian samples and the largest eigenvalue; real data and several
-outliers are Baik and Silverstein's ([LIT-tmpjtw0k](../literature.d/LIT-tmpjtw0k.md)).
+outliers are Baik and Silverstein's ([LIT-2988](../literature.d/LIT-2988.md)).

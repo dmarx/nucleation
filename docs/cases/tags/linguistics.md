@@ -6,7 +6,7 @@
 
 **Linguistics** — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them.
 
-17 of 300 CASE documents. Back to the [full index](../README.md).
+17 of 305 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

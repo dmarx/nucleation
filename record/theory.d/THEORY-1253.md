@@ -22,7 +22,7 @@ summary: >-
   error the paper states. The statistical "temperature" is a sample size,
   so nothing in the dictionary is a physical heat flow.
 ---
-<!-- inactive-ok-file: CLAIM-tmpcg4uu — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: CLAIM-812 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # THEORY-1253: Treating the Bayesian evidence as a partition function with sample size as inverse temperature, the analogue of heat capacity, the rate at which leave-one-out predictive loss falls with sample size, equals half the parameter count in a regular model, as equipartition, and the real log canonical threshold in a singular one, falling below these where prior or discreteness fixes parameters; with multiplicity above one the approach to the singular value is only logarithmic, and the correspondence has no counterpart of physical current or dissipation
 
@@ -93,15 +93,15 @@ the direction of the RLCT.
 ## Note of 2026-11-21: Bialek, Nemenman & Tishby and Lau et al., read
 
 - **An earlier statement of the analogy.** Bialek, Nemenman and Tishby
-  (2001; [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)) read the partition function Z(ᾱ; N) =
+  (2001; [NOTE-2243](../notes.d/NOTE-2243.md)) read the partition function Z(ᾱ; N) =
   ∫dα P(α) exp[−N D_KL(ᾱ‖α)] with "temperature ... inverse to the number of
   examples" (§4.2), and the learning curve as "the derivative of the
   predictive information". This reading's evidence-as-partition-function
   has that precedent.
-- **The estimator names it.** Lau et al. ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md), App. E): "the
+- **The estimator names it.** Lau et al. ([NOTE-2239](../notes.d/NOTE-2239.md), App. E): "the
   learning coefficient may be viewed as a heat capacity LaMont and Wiggins
   (2019)", and Chen, Chang and Chaudhari's learning capacity "can be viewed
   as a finite-n version of the learning coefficient". Their estimator is a
-  free-energy slope at effective sample size n/log n ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md),
+  free-energy slope at effective sample size n/log n ([CLAIM-812](../claims.d/CLAIM-812.md),
   corrected). A citation and a reading of the estimator, not a derivation.
 No relation is written.

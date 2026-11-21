@@ -6,7 +6,7 @@
 
 **Skimmed** — abstract, figures and selected sections; honest, useful, and explicitly not enough to source a practice from.
 
-150 of 2236 NOTE documents. Back to the [full index](../README.md).
+153 of 2247 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -160,3 +160,6 @@
 | [NOTE-2217](../../../record/notes.d/NOTE-2217.md) | Thomas Kuhn | Bird's SEP entry on Kuhn, read in part (§§1–3) beside Kindi's essay; quoted for training as the inculcation of commitment. | Skimmed |
 | [NOTE-2221](../../../record/notes.d/NOTE-2221.md) | Fedus and colleagues — Hyperbolic discounting and learning over multiple horizons | Restates Sozou: discounting as survival with an uncertain hazard is the Laplace transform of the prior over the hazard; an exponential prior gives 1/(1 + kt), uniform and gamma priors other forms. Its own method, learning over many exponential horizons to approximate hyperbolic discounting, was not read beyond the abstract. | Skimmed |
 | [NOTE-2234](../../../record/notes.d/NOTE-2234.md) | Anchugina, Ryan and Slinko — Aggregating time preferences with decreasing impatience | Restates Sozou's result in one sentence; its subject, aggregating exponential discounters into decreasing impatience, not read beyond §4.1. | Skimmed |
+| [NOTE-2238](../../../record/notes.d/NOTE-2238.md) | Paul, Asymptotics of sample eigenstructure for a large dimensional spiked covariance model, read for the eigenvector overlap | Real Gaussian spiked covariance, N/n → γ ∈ (0, 1): above 1 + √γ a simple spike's sample eigenvector has squared overlap (1 − γ/(ℓ − 1)²)/(1 + γ/(ℓ − 1)) with the true one, almost surely, and at or below it the overlap tends to zero. The source of the eigenvector clause the record's spiked-matrix entries state. | Skimmed |
+| [NOTE-2245](../../../record/notes.d/NOTE-2245.md) | Baik and Silverstein, Eigenvalues of large sample covariance matrices of spiked population models, read for real samples, more variables than samples, and several outliers | For real or complex samples T^(1/2)Z with i.i.d. standardized entries of finite fourth moment and finitely many spikes, at any c = p/n > 0, each spike α above 1 + √c gives a sample eigenvalue converging almost surely to α + cα/(α − 1); at or below it the top eigenvalue sits at the edge (1 + √c)². Limits only: the fluctuations are left open. | Skimmed |
+| [NOTE-2246](../../../record/notes.d/NOTE-2246.md) | Benaych-Georges and Nadakuditi, The singular values and vectors of low rank perturbations of large rectangular random matrices, read for the Gaussian matrix with a non-zero mean | An n × m Gaussian matrix with entries of variance 1/m, plus a deterministic perturbation of fixed rank with singular values θ_i, at n/m → c ∈ (0, 1]: the top singular values leave the bulk edge 1 + √c exactly for θ_i > c^(1/4), at √((1 + θ²)(c + θ²)/θ²), and the left singular vector's squared overlap tends to 1 − c(1 + θ²)/(θ²(θ² + c)). In the record's notation these are the spiked formulas, for an additive signal-plus-noise model. | Skimmed |

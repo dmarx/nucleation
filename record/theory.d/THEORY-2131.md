@@ -23,7 +23,7 @@ summary: >-
   be fetched. Proposed until Sozou is read.
 ---
 <!-- inactive-ok-file: NOTE-2221 NOTE-2234 — Skimmed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmp23821 — Proposed; the reading of Mitzenmacher, 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-2150 — Proposed; the reading of Mitzenmacher, 2026-11-21 -->
 <!-- inactive-ok-file: LIT-2949 CLAIM-777 CLAIM-769 THEORY-067 CLAIM-198 — Proposed, Deferred, Unfetched or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-2131: Fedus and colleagues restate Sozou's result that an agent discounting future reward by its probability of surviving to collect it, with a constant but unknown hazard rate, discounts by the Laplace transform of its prior over the hazard, so that an exponential prior gives exactly the hyperbola 1/(1 + kt), a gamma prior 1/(1 + bt)^c and a uniform prior (1 − e^(−kt))/(kt)
@@ -46,8 +46,8 @@ Not Sozou's own treatment of preference reversal or updating; not that every spr
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
-A **parallel**, with no edge. Mitzenmacher's §7 ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md), read in
-[NOTE-tmp0rhkc](../notes.d/NOTE-tmp0rhkc.md); [THEORY-tmp23821](THEORY-tmp23821.md)) has this account's structure with the roles
+A **parallel**, with no edge. Mitzenmacher's §7 ([LIT-3003](../literature.d/LIT-3003.md), read in
+[NOTE-2237](../notes.d/NOTE-2237.md); [THEORY-2150](THEORY-2150.md)) has this account's structure with the roles
 moved: a family indexed by time, here a lognormal of variance t, averaged
 over an exponential distribution of the time, gives a power law,
 ∫ λe^(−λt)·lognormal_t dt ∝ x^(−1−√(2λ)) for x above 1. Sozou averages

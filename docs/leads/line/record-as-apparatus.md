@@ -6,7 +6,7 @@
 
 **The record as its own apparatus** — what an apparatus of record-keeping makes determinate and how its grammar is fixed and revised through use — the record itself as the case; inquiry as specification in general is learning-and-inquiry's; split from nucleating-argument (ADR-082).
 
-10 of 206 LEAD documents. Back to the [full index](../README.md).
+10 of 211 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

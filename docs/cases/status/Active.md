@@ -4,7 +4,7 @@
 
 **Active** — in force — the current answer, and what a citation should normally point at.
 
-191 of 300 CASE documents. Back to the [full index](../README.md).
+191 of 305 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

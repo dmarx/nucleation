@@ -6,7 +6,7 @@
 
 **Specimen** — a real instance, artefact, event or kind of thing, examined as it is.
 
-75 of 300 CASE documents. Back to the [full index](../README.md).
+75 of 305 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

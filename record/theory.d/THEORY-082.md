@@ -30,7 +30,7 @@ summary: >-
   Chentsov's, cited and not held.
 ---
 <!-- inactive-ok-file: LIT-354 THEORY-078 — Proposed or Unavailable; named in Connections, nothing here rests on them -->
-<!-- inactive-ok-file: LIT-tmp0z602 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: LIT-2960 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # THEORY-082: Steepest descent is defined only relative to a metric, and Amari's proof that natural-gradient learning is Fisher efficient needs the Fisher information at the optimum to be invertible, the condition whose failure WBIC calls singular; in a multilayer perceptron it fails wherever an output weight is zero
 
@@ -119,8 +119,8 @@ hierarchical layers are singular.
 
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2011), read
 
-A parallel. The 2011 paper ([NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md)) cites Amari, Park and Ozeki
-([LIT-tmp0z602](../literature.d/LIT-tmp0z602.md)) for metric singularities in network training and equates
+A parallel. The 2011 paper ([NOTE-2247](../notes.d/NOTE-2247.md)) cites Amari, Park and Ozeki
+([LIT-2960](../literature.d/LIT-2960.md)) for metric singularities in network training and equates
 them with model-manifold boundaries, where the metric JᵀJ is singular
 (§III, p. 10). It also states, without derivation, that Amari's
 natural-gradient flow (its Eq. 46) reduces to the geodesic equation when

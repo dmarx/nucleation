@@ -44,7 +44,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim whose second half is the collective arm, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpsr8r4 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws", Proposed -->
+<!-- inactive-ok-file: CLAIM-841 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws", Proposed -->
 
 # CLAIM-626: Critical slowing has no single organizational meaning: when a collective mode slows, reduction to it improves; when the mode that restores a collective relation slows, as two detuned phase oscillators near the edge of locking, the reduction fails while the locked state still exists; when the maintenance of the coupling slows, the reduction stays good while the organization nears its fold
 
@@ -118,7 +118,7 @@ symmetry-protected soft mode. Neither signals a fold, which is what
 τ ∝ ξ^z, with A's caveat that "not every transition exhibits
 conventional critical slowing down"; slowing at a fold, [THEORY-1315](../theory.d/THEORY-1315.md)'s
 case, is one eigenvalue going to zero and needs no diverging length.
-[CLAIM-tmpsr8r4](CLAIM-tmpsr8r4.md) files the general point, that a scale-free or slow
+[CLAIM-841](CLAIM-841.md) files the general point, that a scale-free or slow
 signature does not by itself indicate a tuned transition. A24 §7 adds
 that conservation also changes a critical point's dynamic universality
 class (Hohenberg and Halperin's classification, named and not held).

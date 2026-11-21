@@ -51,8 +51,8 @@ summary: >-
 bears_on:
 - QUESTION-421
 ---
-<!-- inactive-ok-file: CLAIM-tmpepx9m — new; cited in the note of 2026-11-21 on the exchange "Rich Get Richer Power Laws" -->
-<!-- inactive-ok-file: ARG-tmp2w77g — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-817 — new; cited in the note of 2026-11-21 on the exchange "Rich Get Richer Power Laws" -->
+<!-- inactive-ok-file: ARG-127 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # THEORY-1499: Davis and Weinstein find that the Allied bombing of Japanese cities in World War II, which destroyed almost half the structures in the 66 targeted cities, changed relative city size only temporarily: across 303 cities, 1947–60 population growth undid 1940–47 growth instrumented on deaths and buildings destroyed per capita one for one, or by about three-quarters once 1925–40 trend growth is controlled, and wholly by 1965, with Hiroshima and Nagasaki back on their prewar trends; the authors read this as rejecting random growth and as showing that spatial catastrophes from temporary shocks are not a central tendency, favouring locational fundamentals
 
@@ -106,7 +106,7 @@ mark on relative size.
 A1 §5 of that exchange lists cities among the settings of cumulative
 advantage: "Large cities attract businesses, workers, and investment".
 It adds that the settings "don't all necessarily exhibit a pure
-power-law distribution" ([CLAIM-tmpepx9m](../claims.d/CLAIM-tmpepx9m.md)). This reading cuts against the
+power-law distribution" ([CLAIM-817](../claims.d/CLAIM-817.md)). This reading cuts against the
 strong form of that example. If city size were driven by cumulative
 advantage alone, a shock that took away a large share of a city's
 population would set it on a lower path for good. Davis and Weinstein find
@@ -115,5 +115,5 @@ locational fundamentals. So for Japanese city sizes the evidence fits a
 stable attractor better than path-dependent rich-get-richer growth. This
 says nothing about whether cumulative advantage shapes the upper tail of
 the city-size distribution while relative sizes stay anchored. The
-exchange does not take that up. The argument is [ARG-tmp2w77g](../arguments.d/ARG-tmp2w77g.md). The reading
+exchange does not take that up. The argument is [ARG-127](../arguments.d/ARG-127.md). The reading
 is unchanged.

@@ -6,7 +6,7 @@
 
 **Wholes, parts and dependence** — what wholes and their parts owe and can claim of each other, and when a dependence becomes domination or exploitation — control over the terms on which a dependence is met, not the size of the dependence, decides which way it runs and whether a whole's need of a part is the part's hold; exploitation and domination are judged against a standard declared with the judgment; and those who control an arrangement others depend on owe accountability and justification that rise with how indispensable it has become and how durably their choices narrow what is later open. "Organization" here is TERM-074's sense 1, a relational arrangement, unless an entry says otherwise, and the bearers of obligations, agents or roles, are kept apart from the ground of the obligation; split from organizational-normativity (ADR-100).
 
-13 of 300 CASE documents. Back to the [full index](../README.md).
+13 of 305 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
