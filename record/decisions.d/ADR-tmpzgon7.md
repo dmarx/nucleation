@@ -1,7 +1,18 @@
 ---
 status: Proposed
 title: 'A dialectic regime, switched on and off by the owner and on until switched off: while it is on, the assistant files the argument of the exchange as it goes, reports each filing as it lands, and reverts a filing when the owner interjects, rather than offering to file and waiting to be told; status changes, decisions, configuration, CI, delegated readings, outside services and merges still wait for the owner'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    At the owner's ruling of 2026-11-21: a go-ahead adopts the assistant's
+    stated lean where its message left a choice (the alternative reading,
+    that it chooses none, set aside), and the assistant raises a doubt about
+    harm, reach or something the owner may have missed before acting on
+    that item, crew-resource-management style. Earlier in the night, before
+    merging, the regime gained the rule for several readings, the go-ahead
+    rule and the reporting rule.
 tags:
 - record
 - process
@@ -20,7 +31,7 @@ summary: >-
   will become awkward for me or you to continue because of next steps or
   whatever."
 ---
-<!-- inactive-ok-file: ADR-tmpq5b9e ADR-tmp9pqps — Proposed; the decisions on merges into staging, 2026-11-21 -->
+<!-- inactive-ok-file: ADR-tmp9pqps — Proposed; the decisions on merges into staging, 2026-11-21 -->
 <!-- inactive-ok-file: ADR-115 ADR-tmpd4rgx — Proposed; the decisions on devlog notes and on reframings this regime files under -->
 
 # ADR-tmpzgon7: A dialectic regime, switched on and off by the owner and on until switched off: while it is on, the assistant files the argument of the exchange as it goes, reports each filing as it lands, and reverts a filing when the owner interjects, rather than offering to file and waiting to be told; status changes, decisions, configuration, CI, delegated readings, outside services and merges still wait for the owner
@@ -106,11 +117,26 @@ was greenlighting everything in the previous comment". Two limits:
 - it covers an action the regime reserves to the owner (below) only where
   the message named that action as a proposal; a reserved action the
   message only mentioned still waits;
-- where the message left a choice among alternatives to the owner, the
-  go-ahead keeps the alternatives filed and chooses none, since they cannot
-  all be chosen. **Alternative reading:** the go-ahead adopts the choice the
-  assistant said it leaned to. Filed here as an alternative under the rule
-  for several readings; the owner says which holds.
+- where the message left a choice among alternatives to the owner and the
+  assistant said which it leaned to, the go-ahead adopts that lean. The
+  owner ruled so on 2026-11-21 ("go-ahead: your lean"), choosing it over the
+  reading that the go-ahead keeps every alternative and chooses none. Where
+  the assistant stated no lean, the alternatives stay open.
+
+**When in doubt, raise it, CRM style.** The owner, with the same ruling:
+"when in doubt (e.g. you're concerned about negative impact or large blast
+radius or some other thing I may have missed) don't hesitate to double check
+and raise my attention CRM style". As in crew resource management, a
+go-ahead or a standing grant does not oblige the assistant to proceed past a
+concern. When an action it is about to take, under the regime or under a
+go-ahead, could do harm that is hard to undo, would reach widely (many
+entries, a branch others build on, main, another repository, anything
+outside), or turns on something the owner may not have seen, the assistant
+stops on that item and says so plainly: what it was about to do, the
+specific concern, what it recommends, and that it is waiting. It goes on with
+the rest of the turn and does not proceed on that item until the owner
+answers. Saying so early and directly is the point; a concern raised after
+the action is a report, not a check.
 
 **Still the owner's word, regime or not:**
 

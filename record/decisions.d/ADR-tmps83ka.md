@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Rejected
 title: 'The earmark convention is stated as steps in a procedure of its own, apart from the decision that records why: the decision holds the invariants, as the decision on filing does for its skill, and the procedure, beside the retrospective''s, holds what to do'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's ruling of 2026-11-21, choosing among the alternative
+    readings filed for one request: "571-A" chose ADR-tmpyzxw8. This reading
+    is kept as one not taken, not as a mistake.
 tags:
 - record
 - process
@@ -9,7 +16,7 @@ date: '2026-11-21'
 summary: >-
   Reading C of the owner's request ([ADR-tmpyzxw8](ADR-tmpyzxw8.md)): "new convention" separable from "ADR". The decision records the invariants and the reasons; the convention is the procedure the assistant follows, kept where procedures are, as the `read-and-file` skill is kept apart from [ADR-068](ADR-068.md). An alternative to [ADR-tmpyzxw8](ADR-tmpyzxw8.md), [ADR-tmp7kh0t](ADR-tmp7kh0t.md) and [ADR-tmpuu4y4](ADR-tmpuu4y4.md).
 ---
-<!-- inactive-ok-file: ADR-tmpyzxw8 ADR-tmp7kh0t ADR-tmpuu4y4 ADR-115 ADR-068 — Proposed; the alternative readings of one request, and the decisions they sit beside -->
+<!-- inactive-ok-file: ADR-tmp7kh0t ADR-tmpuu4y4 ADR-115 ADR-068 — Proposed; the alternative readings of one request, and the decisions they sit beside -->
 
 # ADR-tmps83ka: The earmark convention is stated as steps in a procedure of its own, apart from the decision that records why: the decision holds the invariants, as the decision on filing does for its skill, and the procedure, beside the retrospective's, holds what to do
 

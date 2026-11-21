@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Rejected
 title: 'While the dialectic regime is on, the assistant merges any pull request into staging, its own, another session''s or the owner''s, when it judges it ready, green and without conflict; the owner reviews at the promotion from staging to main, which stays theirs'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's ruling of 2026-11-21, choosing among the alternative
+    readings filed for one request: "573-narrow" chose ADR-tmpq5b9e. Pull
+    requests from other sessions or the owner still wait for the owner to
+    merge into staging.
 tags:
 - record
 - process
@@ -10,7 +18,7 @@ summary: >-
   The owner's grant of 2026-11-21, read as covering any pull request into
   staging. The alternative to [ADR-tmpq5b9e](ADR-tmpq5b9e.md), which reads it as the assistant's own.
 ---
-<!-- inactive-ok-file: ADR-tmpzgon7 ADR-116 ADR-tmpq5b9e — Proposed; the regime this changes, the staging decision, and the two readings of the owner's grant -->
+<!-- inactive-ok-file: ADR-tmpzgon7 ADR-116 — Proposed; the regime this changes, the staging decision, and the two readings of the owner's grant -->
 
 # ADR-tmp9pqps: While the dialectic regime is on, the assistant merges any pull request into staging, its own, another session's or the owner's, when it judges it ready, green and without conflict; the owner reviews at the promotion from staging to main, which stays theirs
 

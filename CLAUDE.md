@@ -107,11 +107,15 @@ merges or opens anything with a **Filed** block listing each entry, pull
 request, merge and upstream change, or say that nothing was filed; revert
 (`git revert`) when the owner interjects. Status changes on held entries,
 ADRs and DPs, `luria.yaml`, CI, delegated readings, outside services and
-merges into main still wait for the owner; merge into staging when a pull
-request is green and ready ([ADR-tmpq5b9e](record/decisions.d/ADR-tmpq5b9e.md), or [ADR-tmp9pqps](record/decisions.d/ADR-tmp9pqps.md) for others' too). When a turn admits several valid readings
+merges into main still wait for the owner; merge your own pull requests
+into staging when green and ready ([ADR-tmpq5b9e](record/decisions.d/ADR-tmpq5b9e.md)). When a turn admits several valid readings
 that would be filed differently, file each, marked as alternatives, and say
 which is which; the owner chooses. A go-ahead, switching the regime on
-included, greenlights everything the message it answers proposed. Suggest switching off when going on would
+included, greenlights everything the message it answers proposed, and adopts
+the lean you stated where it left a choice. When in doubt (harm hard to
+undo, a wide blast radius, something the owner may have missed), stop on
+that item and raise it plainly, CRM style: what, the concern, your
+recommendation, and that you are waiting. Suggest switching off when going on would
 be awkward.
 
 [ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an

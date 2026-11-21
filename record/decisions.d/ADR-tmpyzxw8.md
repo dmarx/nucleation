@@ -1,7 +1,16 @@
 ---
-status: Proposed
+status: Active
 title: 'When the owner earmarks something for the retrospective, in conversation or on a pull request, the assistant files a devlog note tagged retro and earmarked, quoting the earmark and where it was made, in the pull request it concerns, whether or not the dialectic regime is on; the next retrospective answers each earmarked note by name, saying what came of it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's ruling of 2026-11-21, choosing among the alternative
+    readings filed for one request: "571-A". This reading, earmarks as one
+    decision apart from ADR-115, is adopted; the alternatives ADR-tmp7kh0t,
+    ADR-tmpuu4y4 and ADR-tmps83ka go Rejected and stay as the readings not
+    taken.
 tags:
 - record
 - process
