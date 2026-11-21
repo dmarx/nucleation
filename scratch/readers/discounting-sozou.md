@@ -12,3 +12,7 @@
 - CiteSeerX summary 10.1.1.983.4791: connection failed.
 - Semantic Scholar API: abstract elided by publisher; OA pdf points to Europe PMC (blocked).
 Result: Unfetched (copies exist, all behind bot checks or auth). Going to neighbours.
+
+## Step 2: neighbour read (2026-11-21)
+
+- Fedus, Gelada, Bengio, Bellemare, Larochelle (2019), "Hyperbolic Discounting and Learning over Multiple Horizons", arXiv:1902.06865v3, PDF via arxiv.org. Read: abstract, sections 1-3 (intro, related work, "Belief of risk implies a discount function"), appendix B.2-B.3. Restates Sozou: s(t)=∫p(λ)e^{-λt}dλ; exponential prior p(λ)=(1/k)exp(-λ/k) gives 1/(1+kt); uniform on [0,k] gives (1-e^{-kt})/(kt); gamma prior gives 1/(1+bt)^c; delta prior gives e^{-λt}. Fig 2 reproduces two of Sozou's figures.
