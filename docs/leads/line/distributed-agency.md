@@ -6,7 +6,7 @@
 
 **Distributed agency** — what an organized whole is, and how its operative direction relates to its members' — where the essay started.
 
-92 of 198 LEAD documents. Back to the [full index](../README.md).
+93 of 205 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -102,3 +102,4 @@
 | [LEAD-194](../../../record/leads.d/LEAD-194.md) | Resolve the tension between the claims on curation as revision and on admission | Named in the curation entry of 2026-11-11 (061331). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-195](../../../record/leads.d/LEAD-195.md) | Rule on whether a symmetry or conservation law, or a possibility fact in Deutsch and Marletto's sense, counts as realizing a constraint | Named in [CLAIM-477](../../../record/claims.d/CLAIM-477.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-196](../../../record/leads.d/LEAD-196.md) | Read the consumer-resource competition works | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-203](../../../record/leads.d/LEAD-203.md) v2 | Read the metastability paper of Bovier and colleagues and, once a copy is supplied, Fenichel's geometric singular perturbation theory, to put the two halves of the hierarchy-and-hyperbolicity claims on readings: the small-noise time geometry of reversible chains, and the persistence of normally hyperbolic slow manifolds | [CLAIM-780](../../../record/claims.d/CLAIM-780.md) proves its bound for symmetric rates and says the general case belongs to metastability theory, which the record does not hold; [CLAIM-781](../../../record/claims.d/CLAIM-781.md) uses normal hyperbolicity from Kuehn's statement ([THEORY-1429](../../../record/theory.d/THEORY-1429.md)) without Fenichel. Read [LIT-2951](../../../record/literature.d/LIT-2951.md) (open on arXiv) and [LIT-1638](../../../record/literature.d/LIT-1638.md) (Unfetched: the open-archive copy on ScienceDirect refused this client's fetch with a challenge, so it needs a copy from the owner). | Open |

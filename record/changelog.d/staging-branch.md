@@ -1,7 +1,7 @@
-<!-- inactive-ok-file: ADR-tmpwe08z — Proposed; this contribution of 2026-11-21 -->
+<!-- inactive-ok-file: ADR-116 — Proposed; this contribution of 2026-11-21 -->
 ### Added
 
-- A `staging` branch and a Promote workflow ([ADR-tmpwe08z](record/decisions.d/ADR-tmpwe08z.md), at the owner's
+- A `staging` branch and a Promote workflow ([ADR-116](record/decisions.d/ADR-116.md), at the owner's
   request): work merges into staging through pull requests, and Promote
   merges staging into main nightly or on demand, concretizing the batch's
   temporary codes at once and merging main back into staging.

@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmpy75jv reads the classes of a
+    A dated note: CLAIM-781 reads the classes of a
     tree of time scales as the equivalence classes this claim describes. No change of status or title.
 role: thesis
 warrant: interpretive
@@ -57,7 +57,7 @@ summary: >-
   A's objection that any partition yields classes distinguishable from
   one another (A24 §6). The completion by differentiation is A's (A29 §5).
 ---
-<!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmpy75jv — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
+<!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2033 THEORY-2043 THEORY-2047 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-296 CLAIM-478 TERM-098 — Proposed; cited in this filing of 2026-11-19 -->
 
@@ -161,7 +161,7 @@ Krohn and Weninger ([THEORY-2070](../theory.d/THEORY-2070.md); [NOTE-2140](../no
 Where a chain's rates are separated, the fast mixing within a block collapses
 differences among its states that do not matter at the slower scale, and the
 classes left are [CLAIM-581](CLAIM-581.md)'s budgeted classes, nesting into one tree
-([CLAIM-tmpxi826](CLAIM-tmpxi826.md)). [CLAIM-tmpy75jv](CLAIM-tmpy75jv.md) reads them as the classes this claim says
+([CLAIM-780](CLAIM-780.md)). [CLAIM-781](CLAIM-781.md) reads them as the classes this claim says
 are reified by collapse. A parallel: it gives the collapse a mechanism in one
 model, and says nothing about this claim's condition that the classes be
 closed under the system's own operations and reused.

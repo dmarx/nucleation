@@ -4,7 +4,7 @@
 
 **probabilistic-modeling**.
 
-168 of 2217 NOTE documents. Back to the [full index](../README.md).
+172 of 2235 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -176,3 +176,7 @@
 | [NOTE-2214](../../../record/notes.d/NOTE-2214.md) | The Rational Landscapes | Recht's post on the limits of probabilistic rationality under uncertainty, read in full beside his announcement of The Irrational Decision. | Read |
 | [NOTE-2215](../../../record/notes.d/NOTE-2215.md) | Mathematical Pluralism | Recht's post on the local validity of formal decision tools, read in full beside his announcement of The Irrational Decision. | Read |
 | [NOTE-2216](../../../record/notes.d/NOTE-2216.md) | The Rationality of the Language Machines | Recht's post on language models and mathematical rationality, read in full beside his announcement of The Irrational Decision. | Read |
+| [NOTE-2218](../../../record/notes.d/NOTE-2218.md) | Bachas and Huberman — Complexity and ultradiffusion | Ultradiffusion on an ultrametric tree solved as one exponential mode per branch point; power-law relaxation on infinite uniform trees, exponent ln b/(ln(1/g) − ln b) in per-pair terms, unstable when gb ≥ 1; exponential decay on any finite tree. Stands in for Ogielski and Stein, whose results it says it partly rederives. | Read |
+| [NOTE-2224](../../../record/notes.d/NOTE-2224.md) | Lukierska-Walasek and Topolski — Random walk on p-adics in glassy systems | Restates Ogielski and Stein's model, hopping on a regular tree with rates set by ultrametric distance, and derives a temperature-dependent power law t^(−T ln 2/Δ) for linearly growing barriers (total-rate form) and the Kohlrausch law for logarithmically growing ones. | Read |
+| [NOTE-2225](../../../record/notes.d/NOTE-2225.md) | Bovier, Eckhoff, Gayrard and Klein — Metastability and low lying spectra | For reversible chains with generically separated metastable points: minus log capacity is an ultrametric up to ln 3; mean exit times are valley mass over capacity; each metastable point owns one low-lying eigenvalue with an eigenvector near its valley's indicator. Large-N, generic, sharp to (1 + o(1)). A large-N limit with escape-probability definitions, not the record's small-noise ε^U form. | Read |
+| [NOTE-2231](../../../record/notes.d/NOTE-2231.md) | De Pasquale, Smith, Bullo and Valcher — Dual seminorms and ergodic coefficients | Ergodic coefficients are induced matrix seminorms; projection and distance seminorms are dual, so the Markov–Dobrushin coefficient bounds both averaging and the flow of distributions. Under invariance or conservation, only the part off the kernel contracts; differences along the kernel may persist or grow. No result says what the limit keeps of the start. | Read |

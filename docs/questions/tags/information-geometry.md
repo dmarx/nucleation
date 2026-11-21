@@ -6,7 +6,7 @@
 
 **Information geometry** — the geometry of statistical models — the Fisher information as a metric, natural gradient, curvature and its Kronecker and block structure, and the spectra of Fisher and Hessian matrices in learned models (ADR-026).
 
-6 of 499 QUESTION documents. Back to the [full index](../README.md).
+6 of 502 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,7 +6,7 @@
 
 **Specified** — says what would be done and what result would count for and against what it advances, in the lead or in the CASE it is designed in.
 
-57 of 198 LEAD documents. Back to the [full index](../README.md).
+58 of 205 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -67,3 +67,4 @@
 | [LEAD-190](../../../record/leads.d/LEAD-190.md) | Simulate the population comparisons the authority-grant claims name: role-indexed against scalar grants, and operators bound by the two grant conditions | Two Proposed claims name this comparison as their test. Named in [CLAIM-281](../../../record/claims.d/CLAIM-281.md) and [CLAIM-285](../../../record/claims.d/CLAIM-285.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-197](../../../record/leads.d/LEAD-197.md) | Run the assisted-learning study: learners matched on starting skill, practising under an assistant that does the hard step for them or one that does not | Named in [CLAIM-675](../../../record/claims.d/CLAIM-675.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-198](../../../record/leads.d/LEAD-198.md) | Test whether the joint commitment supplies the motive and the conspicuous split the content of children's equal division, by crossing commitment with the availability of a salient or known split | The crossed design that would test [CLAIM-766](../../../record/claims.d/CLAIM-766.md): commitment against no commitment, crossed at age five and over with a salient against no salient split, and at age three with a stated equality norm against a novel division with no stated norm. First step: search for published studies that already cross these factors. Filed with the developmental readings of 2026-11-20. | Open |
+| [LEAD-199](../../../record/leads.d/LEAD-199.md) | Count, from the record's git history, how often each claim takes a substantive revision before and after its first inbound rests_on or grounds edge, to see whether entries settle as relations accrue | The owner, 2026-11-20: "i think that edit rate count idea is worth filing too, doesn't need to be one or the other". The count of substantive revisions per claim against its inbound references, from git history. It tests the settling [CLAIM-778](../../../record/claims.d/CLAIM-778.md) predicts; by [CLAIM-768](../../../record/claims.d/CLAIM-768.md) it cannot by itself say whether exact copying or contraction did the settling, which is what [LEAD-201](../../../record/leads.d/LEAD-201.md) adds. | Open |

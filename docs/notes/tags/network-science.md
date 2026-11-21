@@ -4,7 +4,7 @@
 
 **network-science**.
 
-71 of 2217 NOTE documents. Back to the [full index](../README.md).
+72 of 2235 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -79,3 +79,4 @@
 | [NOTE-2140](../../../record/notes.d/NOTE-2140.md) | Krohn and Weninger — Subreddit Links Drive Community Creation and User Engagement on Reddit | All subreddit links in Reddit posts and comments, June 2005 to December 2019. Links to subreddits that did not yet exist preceded the creation of a sixth of the subreddits later created, and linked subreddits were created sooner than a random baseline; success rises with repetition to about a third. Links to existing subreddits come with a small, short- lived rise in activity, as often after a rise as before. The authors disclaim causation; the title's 'drive' and the abstract's 'natural experiments' go beyond what is shown. | Read |
 | [NOTE-2147](../../../record/notes.d/NOTE-2147.md) | Marx — Mapping reddit's active communities | A map of Reddit's subreddits by shared active users, built so that the direction and weight of each edge read as the share of the target's active users also active in the source. A small community nested in a large one then shows as an edge into the small one, which the post reads as a specialization forked from the larger community. Monthly graphs are flattened by the maximum weight, filtered and clustered; the post shows clusters for sports, gaming, fashion and others, and names communities that grew around April Fools pranks and then went quiet. | Read |
 | [NOTE-2164](../../../record/notes.d/NOTE-2164.md) | Hessel, Tan and Lee — Science, AskScience, and BadScience: On the Coexistence of Highly Related Communities | Reddit 2006 to 2014: subreddit pairs whose names differ by an affix and whose content is related. Newer communities are usually far less active and often draw few early participants from the older one; in spinoff pairs, users who try the spinoff are, in most kinds of pair, more likely than matched non-explorers to raise their activity in the original over the next 30 days, negative for some kinds and pairs, with causation disclaimed. | Read |
+| [NOTE-2229](../../../record/notes.d/NOTE-2229.md) | Jafarpour, Cisneros-Velarde and Bullo — Weak and semi-contraction | Semi-contraction (contraction in a seminorm) contracts trajectories only transverse to the seminorm's kernel and keeps nothing by itself; trajectories may diverge along the kernel. Convergence to a point needs weak contraction too, and where the limit lies is fixed by a separate exact invariant (vᵀx in affine averaging). | Read |

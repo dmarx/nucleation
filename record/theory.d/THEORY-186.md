@@ -44,7 +44,7 @@ history:
 - version: 5
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmpmugkp shows the staged order
+    A dated note: CLAIM-774 shows the staged order
     depends on the update rule. No change of status or title.
 tags:
 - representation-learning
@@ -65,7 +65,7 @@ extends:
 bears_on:
 - QUESTION-025
 ---
-<!-- inactive-ok-file: CLAIM-tmpmugkp — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
+<!-- inactive-ok-file: CLAIM-774 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 — Proposed; accounts this one underlies or is set beside -->
 
 # THEORY-186: A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
@@ -180,11 +180,11 @@ Background ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues extend th
 
 ## Note of 2026-11-20: the order depends on the update rule
 
-[CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md) grounds on this reading. Gradient descent learns modes
+[CLAIM-774](../claims.d/CLAIM-774.md) grounds on this reading. Gradient descent learns modes
 strongest first because it moves each at a rate set by its strength. Under
 steepest descent in the spectral norm, which moves every singular direction
 by the same step, a two-layer linear network learns the same modes in time
 proportional to √s, weakest first. The staged, coarse-to-fine order this
 reading reports is therefore a property of gradient descent as well as of
-depth and data. [QUESTION-tmpvcusw](../questions.d/QUESTION-tmpvcusw.md) asks whether the reversal shows in trained
+depth and data. [QUESTION-502](../questions.d/QUESTION-502.md) asks whether the reversal shows in trained
 networks. A qualification of scope, not of the reading's result.

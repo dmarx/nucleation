@@ -45,7 +45,7 @@ history:
 - version: 5
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmphedau says when this bound is tight. No change
+    A dated note: CLAIM-773 says when this bound is tight. No change
     of status or title.
 role: thesis
 warrant: interpretive
@@ -74,7 +74,7 @@ summary: >-
   kernels in total variation, contraction coefficients do not exceed
   one.
 ---
-<!-- inactive-ok-file: CLAIM-tmphedau CLAIM-191 — Proposed; filed in, or cited by, the contribution of 2026-11-20 on a formal account of drift -->
+<!-- inactive-ok-file: CLAIM-773 CLAIM-191 — Proposed; filed in, or cited by, the contribution of 2026-11-20 on a formal account of drift -->
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-056: Local transport errors in a reconstruction chain are bounded by the per-step discrepancies weighted by the sensitivity of the later reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift; the bound measures departure from a reference transport, not whether the act survives
@@ -138,7 +138,7 @@ status review on the owner's ruling.
 
 ## Note of 2026-11-20: when the bound is tight
 
-The bound adds per-step discrepancies linearly, Σ εᵢ ∏ⱼ>ᵢ Lⱼ. [CLAIM-tmphedau](CLAIM-tmphedau.md)'s
+The bound adds per-step discrepancies linearly, Σ εᵢ ∏ⱼ>ᵢ Lⱼ. [CLAIM-773](CLAIM-773.md)'s
 model separates the cases. For a systematic error, a constant bias μ copied
 at L = 1, displacement after n steps is nμ and the bound is tight. For
 independent, zero-mean errors of size σ, the root-mean-square displacement is

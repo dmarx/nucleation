@@ -1,17 +1,17 @@
-<!-- inactive-ok-file: CLAIM-tmpmugkp CLAIM-tmp2yj4t CLAIM-tmpqwoxz LIT-tmp9tr5w LIT-tmp4peep LIT-tmpu5m2v LIT-tmpj34ir LIT-tmp4b6aq LIT-tmpp6b7j LIT-tmp67epj THEORY-186 THEORY-2041 THEORY-813 — Proposed or Deferred; filed or noted in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-774 CLAIM-767 CLAIM-775 LIT-2943 LIT-2939 LIT-2955 LIT-2947 LIT-2938 LIT-2952 LIT-2941 THEORY-186 THEORY-2041 THEORY-813 — Proposed or Deferred; filed or noted in this contribution of 2026-11-20 -->
 ### Added
 
 - The record's rate-difference and drift results related to μP, depth
   scaling and modular duality, at the owner's request, with the curation
   entry of 2026-11-20, 234553. In the assistant's voice, Proposed. A
   demonstrated claim: in a two-layer linear network, spectral steepest
-  descent learns modes weakest first, in time ∝ √s ([CLAIM-tmpmugkp](record/claims.d/CLAIM-tmpmugkp.md)). Two
+  descent learns modes weakest first, in time ∝ √s ([CLAIM-774](record/claims.d/CLAIM-774.md)). Two
   interpretive claims: residual depth scaling as a choice of drift kind
-  ([CLAIM-tmp2yj4t](record/claims.d/CLAIM-tmp2yj4t.md)); parameterization as an allocation of rates among
-  modules ([CLAIM-tmpqwoxz](record/claims.d/CLAIM-tmpqwoxz.md)). A question whether the reversal shows in
-  trained networks ([QUESTION-tmpvcusw](record/questions.d/QUESTION-tmpvcusw.md)). Seven works registered Deferred
-  ([LIT-tmp9tr5w](record/literature.d/LIT-tmp9tr5w.md), [LIT-tmp4peep](record/literature.d/LIT-tmp4peep.md), [LIT-tmpu5m2v](record/literature.d/LIT-tmpu5m2v.md), [LIT-tmpj34ir](record/literature.d/LIT-tmpj34ir.md), [LIT-tmp4b6aq](record/literature.d/LIT-tmp4b6aq.md),
-  [LIT-tmpp6b7j](record/literature.d/LIT-tmpp6b7j.md), [LIT-tmp67epj](record/literature.d/LIT-tmp67epj.md)) and a lead to read them ([LEAD-tmp8q1aw](record/leads.d/LEAD-tmp8q1aw.md)).
+  ([CLAIM-767](record/claims.d/CLAIM-767.md)); parameterization as an allocation of rates among
+  modules ([CLAIM-775](record/claims.d/CLAIM-775.md)). A question whether the reversal shows in
+  trained networks ([QUESTION-502](record/questions.d/QUESTION-502.md)). Seven works registered Deferred
+  ([LIT-2943](record/literature.d/LIT-2943.md), [LIT-2939](record/literature.d/LIT-2939.md), [LIT-2955](record/literature.d/LIT-2955.md), [LIT-2947](record/literature.d/LIT-2947.md), [LIT-2938](record/literature.d/LIT-2938.md),
+  [LIT-2952](record/literature.d/LIT-2952.md), [LIT-2941](record/literature.d/LIT-2941.md)) and a lead to read them ([LEAD-202](record/leads.d/LEAD-202.md)).
 
 ### Changed
 

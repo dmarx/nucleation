@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmp9lm3d and CLAIM-tmpy75jv bear on the
+    A dated note: CLAIM-770 and CLAIM-781 bear on the
     question. No change of status or title.
 tags:
 - complex-systems
@@ -31,7 +31,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
-<!-- inactive-ok-file: CLAIM-tmp9lm3d CLAIM-tmpy75jv — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
+<!-- inactive-ok-file: CLAIM-770 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2038 THEORY-2041 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
@@ -323,7 +323,7 @@ Poole and colleagues ([THEORY-2031](../theory.d/THEORY-2031.md), bears_on; [NOTE
 
 ## Note of 2026-11-20: crossings of time scales
 
-[CLAIM-tmp9lm3d](../claims.d/CLAIM-tmp9lm3d.md) gives a partial answer for systems a barrier landscape
+[CLAIM-770](../claims.d/CLAIM-770.md) gives a partial answer for systems a barrier landscape
 describes: the tree of levels is fixed while barriers move without crossing,
 and a distinction between levels is made or unmade only where two barriers
 cross, with the two levels indistinguishable in the time geometry near the
@@ -331,4 +331,4 @@ crossing. That is creation and loss of a distinction by a crossing of time
 scales. It does not touch the question's other transitions (instability,
 bifurcation of the attractors, tipping) or its second half, whether
 creation, stabilization and constitutive role are separate achievements.
-[CLAIM-tmpy75jv](../claims.d/CLAIM-tmpy75jv.md) bears on the question through it.
+[CLAIM-781](../claims.d/CLAIM-781.md) bears on the question through it.

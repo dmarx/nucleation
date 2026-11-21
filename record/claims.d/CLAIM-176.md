@@ -35,8 +35,8 @@ history:
 - version: 5
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmpve51e shows the second-occurrence rule caps
-    drift per idea, and CLAIM-tmpsn2rb names the ideas it may miss. No
+    A dated note: CLAIM-777 shows the second-occurrence rule caps
+    drift per idea, and CLAIM-776 names the ideas it may miss. No
     change of status or title.
 role: thesis
 warrant: interpretive
@@ -70,7 +70,7 @@ complements:
 - CLAIM-179
 - CLAIM-186
 ---
-<!-- inactive-ok-file: CLAIM-tmpve51e CLAIM-tmpsn2rb — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
+<!-- inactive-ok-file: CLAIM-777 CLAIM-776 — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
 <!-- inactive-ok-file: CLAIM-483 — Proposed; the comparative premise split from CLAIM-177 on 2026-10-27 -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -182,13 +182,13 @@ Rechecked after [CASE-183](../cases.d/CASE-183.md)'s revision of 2026-11-07, whi
 
 ## Note of 2026-11-20: what the rule caps, and what it may miss
 
-[CLAIM-tmpve51e](CLAIM-tmpve51e.md): coding an idea at its k-th occurrence caps its uncoded
+[CLAIM-777](CLAIM-777.md): coding an idea at its k-th occurrence caps its uncoded
 restatements at k − 1, so under this rule (k = 2) an idea's drift before
 coding is at most one restatement's worth, whatever the arrival rate. That
 is a formal sense of "captures exactly the drift that defeats an argument":
 the cap is set by the idea's own recurrence, not by a coder keeping up.
 
-[CLAIM-tmpsn2rb](CLAIM-tmpsn2rb.md) qualifies it. If drift toward the collaborators' framings is
+[CLAIM-776](CLAIM-776.md) qualifies it. If drift toward the collaborators' framings is
 contraction, an idea far from them can pass the critical distance before it
 recurs in recognizable form, and then its second occurrence is a
 re-derivation as though new, the case this rule is meant to catch. That

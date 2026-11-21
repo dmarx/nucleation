@@ -4,7 +4,7 @@
 
 **control-theory**.
 
-19 of 2217 NOTE documents. Back to the [full index](../README.md).
+21 of 2235 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -27,3 +27,5 @@
 | [NOTE-1907](../../../record/notes.d/NOTE-1907.md) | Andrieu et al. — Provable state estimation with recurrent models | Treats an RNN with a readout as a discretized Neural ODE and proves, under contraction of the latent field, differential observability and a generic filter-rank condition, that it is a nonlinear KKL observer whose error decays like κ^ℓ e^{−κt}. Adds a decoder-size bound exponential in latent dimension, a noise floor of order κ^ℓ, and a discrete-time version. The experiments use κ = 1, outside the theorems' large-gain regime. The claim that trained GRUs learn contraction rests on one trajectory-forgetting figure. | Read |
 | [NOTE-2088](../../../record/notes.d/NOTE-2088.md) | Lohmiller and Slotine 1998 — On Contraction Analysis for Non-linear Systems |  | Read |
 | [NOTE-2096](../../../record/notes.d/NOTE-2096.md) | Wang and Slotine — On partial contraction analysis for coupled nonlinear oscillators | Partial contraction: if a virtual system, with the actual state as an input, is contracting, every trajectory of the actual system acquires any smooth property one of the virtual system's solutions has (equal states, a manifold), though the actual system need not be contracting. Applied to networks of identical units with diffusive coupling, it gives exact global conditions for synchronization, anti-synchronization and oscillator death, and a coupling threshold set by the Laplacian's spectrum, with the common phase left to initial conditions. | Read |
+| [NOTE-2229](../../../record/notes.d/NOTE-2229.md) | Jafarpour, Cisneros-Velarde and Bullo — Weak and semi-contraction | Semi-contraction (contraction in a seminorm) contracts trajectories only transverse to the seminorm's kernel and keeps nothing by itself; trajectories may diverge along the kernel. Convergence to a point needs weak contraction too, and where the limit lies is fixed by a separate exact invariant (vᵀx in affine averaging). | Read |
+| [NOTE-2231](../../../record/notes.d/NOTE-2231.md) | De Pasquale, Smith, Bullo and Valcher — Dual seminorms and ergodic coefficients | Ergodic coefficients are induced matrix seminorms; projection and distance seminorms are dual, so the Markov–Dobrushin coefficient bounds both averaging and the flow of distributions. Under invariance or conservation, only the part off the kernel contracts; differences along the kernel may persist or grow. No result says what the limit keeps of the start. | Read |

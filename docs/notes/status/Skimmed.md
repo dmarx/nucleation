@@ -6,7 +6,7 @@
 
 **Skimmed** — abstract, figures and selected sections; honest, useful, and explicitly not enough to source a practice from.
 
-148 of 2217 NOTE documents. Back to the [full index](../README.md).
+150 of 2235 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -158,3 +158,5 @@
 | [NOTE-2166](../../../record/notes.d/NOTE-2166.md) | The owner — What's In A Name? Investigating Bias And Identity In Text-To-Image Models | A partial implementation of the identity proposal on Stable Diffusion v1.4: identity strength as dispersion of 128 samples per name in CLIP space, and a distinction between unique and self-consistent pseudo-identities. No training dynamics; results unwritten. | Skimmed |
 | [NOTE-2213](../../../record/notes.d/NOTE-2213.md) | Thomas Kuhn and Science Education: A Troubled Connection | Matthews's opinion piece on Kuhn and science education, read in part (pp. 1–6) beside Kindi's essay; quoted for Andersen's empirical and normative readings of Kuhn on convergent thought. | Skimmed |
 | [NOTE-2217](../../../record/notes.d/NOTE-2217.md) | Thomas Kuhn | Bird's SEP entry on Kuhn, read in part (§§1–3) beside Kindi's essay; quoted for training as the inculcation of commitment. | Skimmed |
+| [NOTE-2221](../../../record/notes.d/NOTE-2221.md) | Fedus and colleagues — Hyperbolic discounting and learning over multiple horizons | Restates Sozou: discounting as survival with an uncertain hazard is the Laplace transform of the prior over the hazard; an exponential prior gives 1/(1 + kt), uniform and gamma priors other forms. Its own method, learning over many exponential horizons to approximate hyperbolic discounting, was not read beyond the abstract. | Skimmed |
+| [NOTE-2234](../../../record/notes.d/NOTE-2234.md) | Anchugina, Ryan and Slinko — Aggregating time preferences with decreasing impatience | Restates Sozou's result in one sentence; its subject, aggregating exponential discounters into decreasing impatience, not read beyond §4.1. | Skimmed |

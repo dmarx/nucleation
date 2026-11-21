@@ -9,12 +9,12 @@ history:
 - version: 2
   date: '2026-11-21'
   note: >-
-    Converted to a retrospective, RETRO-tmpcjeut, by the decision adding
-    the RETRO scheme (ADR-tmpupzg0): it reviews how a change or a batch
+    Converted to a retrospective, RETRO-004, by the decision adding
+    the RETRO scheme (ADR-115): it reviews how a change or a batch
     went, which is now a RETRO's job; a POSTMORTEM is kept for something
     that went wrong. Retired by status; the body is unchanged.
 superseded_by:
-- RETRO-tmpcjeut
+- RETRO-004
 tags:
 - record
 - taxonomy
@@ -43,7 +43,7 @@ summary: >-
   are declared but never written. Recommendations for one decision, and
   three process rules.
 ---
-<!-- inactive-ok-file: RETRO-tmpcjeut ADR-tmpupzg0 — Draft or Proposed; the retrospective this was converted to, and the decision converting it -->
+<!-- inactive-ok-file: RETRO-004 ADR-115 — Draft or Proposed; the retrospective this was converted to, and the decision converting it -->
 <!-- inactive-ok-file: ADR-106 ADR-109 ADR-111 — Proposed or newly filed; the decisions this postmortem reviews or prompted -->
 
 # POSTMORTEM-002: The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme

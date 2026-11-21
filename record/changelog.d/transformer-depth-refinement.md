@@ -1,13 +1,13 @@
-<!-- inactive-ok-file: CLAIM-tmpcvuyr LIT-tmp166hz LIT-tmp8pcca LIT-tmpi3ty1 LIT-tmp40ldm CLAIM-tmpmugkp — Proposed or Deferred; filed or noted in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-771 LIT-2936 LIT-2942 LIT-2946 LIT-2937 CLAIM-774 — Proposed or Deferred; filed or noted in this contribution of 2026-11-20 -->
 ### Added
 
 - What transformer depth organizes, with the curation entry of 2026-11-20,
   235959: coarse stages around an interchangeable middle, refinement rather
-  than an ascent through levels ([CLAIM-tmpcvuyr](record/claims.d/CLAIM-tmpcvuyr.md), Proposed). Four
-  interpretability works registered by abstract ([LIT-tmp166hz](record/literature.d/LIT-tmp166hz.md),
-  [LIT-tmp8pcca](record/literature.d/LIT-tmp8pcca.md), [LIT-tmpi3ty1](record/literature.d/LIT-tmpi3ty1.md), [LIT-tmp40ldm](record/literature.d/LIT-tmp40ldm.md)).
+  than an ascent through levels ([CLAIM-771](record/claims.d/CLAIM-771.md), Proposed). Four
+  interpretability works registered by abstract ([LIT-2936](record/literature.d/LIT-2936.md),
+  [LIT-2942](record/literature.d/LIT-2942.md), [LIT-2946](record/literature.d/LIT-2946.md), [LIT-2937](record/literature.d/LIT-2937.md)).
 
 ### Changed
 
-- A dated note on [CLAIM-tmpmugkp](record/claims.d/CLAIM-tmpmugkp.md): it concerns order in training time, not
+- A dated note on [CLAIM-774](record/claims.d/CLAIM-774.md): it concerns order in training time, not
   depth.

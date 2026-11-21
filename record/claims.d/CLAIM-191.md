@@ -15,7 +15,7 @@ history:
 - version: 3
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmphedau separates two shapes of directed drift
+    A dated note: CLAIM-773 separates two shapes of directed drift
     this claim does not choose between. No change of status or title.
 role: thesis
 warrant: interpretive
@@ -56,7 +56,7 @@ summary: >-
 complements:
 - CLAIM-301
 ---
-<!-- inactive-ok-file: CLAIM-tmphedau CLAIM-tmpdx6l8 — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
+<!-- inactive-ok-file: CLAIM-773 CLAIM-772 — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
 <!-- inactive-ok-file: CLAIM-090 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
@@ -159,9 +159,9 @@ across sessions is held.
 ## Note of 2026-11-20: two shapes of directed drift
 
 This claim says restatements drift "toward the collaborators' own framings
-rather than at random". [CLAIM-tmphedau](CLAIM-tmphedau.md) separates two directed kinds: drift
+rather than at random". [CLAIM-773](CLAIM-773.md) separates two directed kinds: drift
 toward a fixed point, which levels off at the framing, and drift by a
 constant bias with no fixed point, which grows linearly without end. The
-claim reads as the first, and [CLAIM-tmpdx6l8](CLAIM-tmpdx6l8.md) takes it so; its defeater
+claim reads as the first, and [CLAIM-772](CLAIM-772.md) takes it so; its defeater
 tests direction only, which both kinds have. The shape of displacement
-against the number of restatements would tell them apart ([LEAD-tmpexvp6](../leads.d/LEAD-tmpexvp6.md)).
+against the number of restatements would tell them apart ([LEAD-204](../leads.d/LEAD-204.md)).

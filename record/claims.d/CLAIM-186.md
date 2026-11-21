@@ -55,8 +55,8 @@ history:
 - version: 6
   date: '2026-11-20'
   note: >-
-    A dated note: CLAIM-tmpve51e models arrival against anchoring as a
-    queue, and CLAIM-tmpz7t76 locates the rival. No change of status or
+    A dated note: CLAIM-777 models arrival against anchoring as a
+    queue, and CLAIM-782 locates the rival. No change of status or
     title.
 role: thesis
 warrant: interpretive
@@ -91,7 +91,7 @@ summary: >-
   drift has not been measured against pace. There is no slow exchange to
   compare it with, so the claim is Proposed and untested.
 ---
-<!-- inactive-ok-file: CLAIM-tmpve51e CLAIM-tmpz7t76 — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
+<!-- inactive-ok-file: CLAIM-777 CLAIM-782 — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
 <!-- inactive-ok-file: THEORY-323 THEORY-325 — Proposed; the accounts filed from the readings of LIT-931, LIT-929 and LIT-932, cited in the note of 2026-10-11 and not leaned on -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
@@ -203,7 +203,7 @@ or differently anchored exchange to compare, and [ARG-028](../arguments.d/ARG-02
 
 ## Note of 2026-11-20: arrival against anchoring as a queue
 
-[CLAIM-tmpve51e](CLAIM-tmpve51e.md) models this claim's ratio. With ideas arriving at rate λ,
+[CLAIM-777](CLAIM-777.md) models this claim's ratio. With ideas arriving at rate λ,
 coded first come first served at rate κ, and restated once per unit of
 waiting time, an idea's expected drift before coding is σ²/(κ − λ) in mean
 square for features copied with error. So drift does track arrival relative
@@ -211,7 +211,7 @@ to anchoring, as claimed, but hyperbolically in ρ = λ/κ, without bound as ρ
 reaches one. The model supports the claim's form and sharpens its shape; it
 is a model, not evidence that exchanges behave so.
 
-[CLAIM-tmpz7t76](CLAIM-tmpz7t76.md) bears on the rival this claim's defeater names, that pace
+[CLAIM-782](CLAIM-782.md) bears on the rival this claim's defeater names, that pace
 alone reduces drift as much as anchoring: it turns on whether drift accrues
 per restatement, where the rival fails, or per unit of time, where it can
-hold. [LEAD-tmpexvp6](../leads.d/LEAD-tmpexvp6.md) includes the comparison that would tell.
+hold. [LEAD-204](../leads.d/LEAD-204.md) includes the comparison that would tell.
