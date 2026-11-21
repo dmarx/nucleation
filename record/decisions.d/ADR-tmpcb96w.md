@@ -26,7 +26,7 @@ summary: >-
 
 ## Context
 
-The `read-and-file` skill (ADR-068) maps a source's ideas against the record and files what is not held, in the voice of whoever said it. It had no step for what the source leaves out. A source states a result and skips its derivation. It leaves a condition unstated, gets a number or an attribution wrong, or proposes a test with no design. It asserts a link between two ideas that neither idea's statement carries. The ledger noticed such gaps, but nothing said what to do with them. Step 12 covered only the assistant's own ideas across the whole filing, and asked that they be offered before anything was filed.
+The `read-and-file` skill ([ADR-068](ADR-068.md)) maps a source's ideas against the record and files what is not held, in the voice of whoever said it. It had no step for what the source leaves out. A source states a result and skips its derivation. It leaves a condition unstated, gets a number or an attribution wrong, or proposes a test with no design. It asserts a link between two ideas that neither idea's statement carries. The ledger noticed such gaps, but nothing said what to do with them. Step 12 covered only the assistant's own ideas across the whole filing, and asked that they be offered before anything was filed.
 
 On 2026-11-21 the owner asked for the exchange "Rich Get Richer Power Laws" to be filed "including attempting to fill in gaps where you identify them". The idea ledgers listed the gaps item by item. Five drafters filled the real ones in the assistant's voice, all Proposed, each with any number checked by script:
 
@@ -51,7 +51,7 @@ Each gap left was given a reason. The owner then asked: "update the skill instru
   - **the missing step**, as a claim with its derivation, checked with `python3 -I` where it computes;
   - **a correction**, in the entry that uses the mistaken step, quoting it and giving the right value with the check;
   - **a question**, when the gap is open and the record should hold it as open;
-  - **a lead** (ADR-109), for a test or reading that would settle it.
+  - **a lead** ([ADR-109](ADR-109.md)), for a test or reading that would settle it.
 
   Each says which gap it fills and which turn or passage it answers. Its summary ends with the assistant's attribution sentence (step 12).
 - **Left.** A gap that cannot be filled, or that is not real, is listed in the curation entry under "Gaps", with the reason. That section lists every gap the ledger found, as filled (with codes) or left.
