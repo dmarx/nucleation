@@ -32,11 +32,11 @@ works:
 summary: >-
   The second reading of the owner's "engineering as a form of inquiry"
   (2026-11-21, under the dialectic regime): engineering as a method of
-  inquiry, building in order to understand. Filed beside CLAIM-tmphigw4,
+  inquiry, building in order to understand. Filed beside [CLAIM-tmphigw4](CLAIM-tmphigw4.md),
   which reads it as engineering being a kind of inquiry. The account is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1797 CLAIM-tmphigw4 CASE-tmpi16kb — Proposed; the reading and the entries filed with this on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-1797 CLAIM-tmphigw4 — Proposed; the reading and the entries filed with this on 2026-11-21 -->
 
 # CLAIM-tmpm9ep1: Building something is a method of inquiring into it: an artifact made to a specification drawn from a theory tests that theory, and its failures to behave as specified are findings about the theory, not only about the artifact; the record itself, built to study how an argument develops, is inquiry by this method
 
@@ -49,7 +49,7 @@ observation cannot: which parts are present, how they are joined, what is
 left out. When the artifact fails as specified, the failure is either in
 the build or in the theory, and telling the two apart is the finding.
 
-In TERM-095's terms, building is an intervention 𝓘 of a strong kind: it does
+In [TERM-095](../terms.d/TERM-095.md)'s terms, building is an intervention 𝓘 of a strong kind: it does
 not perturb an existing object but sets every degree of freedom the
 specification names. What the artifact then does in the dimensions the
 specification left free is what the theory did not say.
@@ -60,12 +60,12 @@ stateless collaborators drifts in identity, and that a memory which makes
 structures persist gives it anchors; luria is the tool and this record the
 case. Building the record has repeatedly found what the theory did not say:
 that temporary codes need a staging branch to be cited across units, and
-that the back-merge must follow every change to main (CASE-tmpi16kb). Those
+that the back-merge must follow every change to main ([CASE-tmpi16kb](../cases.d/CASE-tmpi16kb.md)). Those
 were findings about how an argument's memory has to work, got by building
 one.
 
 **Conceptual engineering is the limiting case.** Carnap's explication
-(THEORY-1797) replaces a concept by one built to desiderata, similarity,
+([THEORY-1797](../theory.d/THEORY-1797.md)) replaces a concept by one built to desiderata, similarity,
 exactness, fruitfulness and simplicity, and judges the framework by how well
 it serves. The built concept is tested by what can be done with it, which
 is this method applied to concepts.
