@@ -1,0 +1,50 @@
+---
+status: Proposed
+title: "An argument's title states the record's verdict on its route, and a route the record finds fails is an Active argument titled that its grounds do not show its conclusion"
+version: 1
+tags:
+- record
+- taxonomy
+date: '2026-11-21'
+summary: >-
+  The alternative to ADR-tmp44npm, filed together at the owner's
+  objection of 2026-11-21 that a Rejected argument titled with its
+  conclusion "predisposes future inquiry to treat that conclusion … as
+  rejected, rather than this particular path to that conclusion". Here the
+  title states the record's verdict: a route the record finds fails is
+  filed as an Active argument titled "X does not show that Y", and one it
+  accepts as "X shows that Y". Status then says whether the record holds
+  its own judgement, as for any entry. This changes ADR-061's convention
+  that "X does not show Y" is the argument from X to Y, Rejected, and
+  needs a sweep of every held argument's status. It shares the other
+  alternative's rule that an untouched conclusion is held on its own. The
+  assistant leans to ADR-tmp44npm. The wording is the assistant's (Claude,
+  in this session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: ADR-tmp44npm ARG-tmpmvc5e CLAIM-tmp7ijze — Proposed, Rejected or new; the alternative and the case that raised them -->
+
+# ADR-tmpcjfyy: An argument's title states the record's verdict on its route, and a route the record finds fails is an Active argument titled that its grounds do not show its conclusion
+
+## Context
+
+As in ADR-tmp44npm. The owner's objection, of 2026-11-21: "this is a *conclusion* that doesn't hold relative to the inference relative to regular fisher matrices specifically. We don't know that that conclusion doesn't hold, but populating the arg with the prose of the conclusion and marking it rejected predisposes future inquiry to treat that conclusion (which I think is actually probably correct) as rejected, rather than this particular path to that conclusion as rejected. maybe we need to be more careful about how we construct our args?"
+
+## Decision
+
+- **The title is the verdict.** An ARG's title states what the record judges of the route. "X shows that Y" is used when the route holds, and "X does not show that Y" when it fails. Each leads with its grounds.
+- **Status is the record's credence in that judgement**, as for a claim. A judged failure is Active once adopted, and Proposed until then. Rejected is kept for a judgement the record has withdrawn.
+- **An untouched conclusion is held on its own,** as in ADR-tmp44npm.
+
+## Alternatives considered
+
+- **ADR-tmp44npm** keeps ADR-061's convention and puts the route first in every title. Its weakness is that a skimming reader must still read the status to know the verdict. Its strength is that nothing held changes status.
+- **Status quo,** as there.
+
+## Consequences
+
+- **ADR-061 is superseded on the point of convention.** All 40 Rejected ARGs, and any judged-failure ARG held as Proposed, would be retitled to "X does not show that Y" and set Active. That is status changes on held entries, which wait for the owner.
+- **The five ARGs of 2026-11-21 would read as follows:**
+  - "Sloppy-model theory, which assumes a regular Fisher matrix, does not show by analogy that sloppy-model behaviour carries over to overparameterized neural networks";
+  - and likewise for the other four.
+
+  They are not changed in this pull request, which applies ADR-tmp44npm, the assistant's lean.

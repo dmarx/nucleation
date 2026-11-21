@@ -1,13 +1,20 @@
 ---
 status: Rejected
-title: "The originators' applications of the hyper-ribbon to a small tanh network and to an autoencoder's code carry the claim that parameter and behavioural complexity come apart over to overparameterized neural networks"
-version: 1
+title: "The hyper-ribbon's originators' applications to a small tanh network and to an autoencoder's code show that parameter and behavioural complexity come apart in overparameterized neural networks"
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Retitled to name its route before its conclusion, with a sentence on
+    the conclusion's own standing, under ADR-tmp44npm at the owner's
+    objection of 2026-11-21. The verdict is unchanged.
 form: evidence
 grounds:
 - THEORY-tmpgsgka
 - THEORY-tmpd7a4j
 concludes:
-- CLAIM-tmpficzj
+- CLAIM-tmp7ijze
 uses:
 - TERM-tmp5z2du
 tags:
@@ -30,10 +37,14 @@ summary: >-
   the parameters. Rejected as an inference to the claim for
   overparameterized networks. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
+  Standing of the conclusion apart from this route: held as the owner's
+  CLAIM-tmp7ijze (Proposed); this argument rejects only the step from
+  two small, regular cases to overparameterized networks (ADR-tmp44npm).
 ---
+<!-- inactive-ok-file: ADR-tmp44npm CLAIM-tmp7ijze — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: ARG-tmpmvc5e CLAIM-tmpficzj THEORY-tmpd7a4j THEORY-tmpgsgka — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# ARG-tmpv3nqz: The originators' applications of the hyper-ribbon to a small tanh network and to an autoencoder's code carry the claim that parameter and behavioural complexity come apart over to overparameterized neural networks
+# ARG-tmpv3nqz: The hyper-ribbon's originators' applications to a small tanh network and to an autoencoder's code show that parameter and behavioural complexity come apart in overparameterized neural networks
 
 ## The inference
 
