@@ -4,7 +4,7 @@
 
 **complex-systems**.
 
-236 of 2236 NOTE documents. Back to the [full index](../README.md).
+237 of 2247 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -244,3 +244,4 @@
 | [NOTE-2218](../../../record/notes.d/NOTE-2218.md) | Bachas and Huberman — Complexity and ultradiffusion | Ultradiffusion on an ultrametric tree solved as one exponential mode per branch point; power-law relaxation on infinite uniform trees, exponent ln b/(ln(1/g) − ln b) in per-pair terms, unstable when gb ≥ 1; exponential decay on any finite tree. Stands in for Ogielski and Stein, whose results it says it partly rederives. | Read |
 | [NOTE-2224](../../../record/notes.d/NOTE-2224.md) | Lukierska-Walasek and Topolski — Random walk on p-adics in glassy systems | Restates Ogielski and Stein's model, hopping on a regular tree with rates set by ultrametric distance, and derives a temperature-dependent power law t^(−T ln 2/Δ) for linearly growing barriers (total-rate form) and the Kohlrausch law for logarithmically growing ones. | Read |
 | [NOTE-2225](../../../record/notes.d/NOTE-2225.md) | Bovier, Eckhoff, Gayrard and Klein — Metastability and low lying spectra | For reversible chains with generically separated metastable points: minus log capacity is an ultrametric up to ln 3; mean exit times are valley mass over capacity; each metastable point owns one low-lying eigenvalue with an eigenvector near its valley's indicator. Large-N, generic, sharp to (1 + o(1)). A large-N limit with escape-probability definitions, not the record's small-noise ε^U form. | Read |
+| [NOTE-2244](../../../record/notes.d/NOTE-2244.md) | Dambre, Verstraeten, Schrauwen and Massar, Information Processing Capacity of Dynamical Systems, read for the bound on total capacity and its conditions | A normalized measure of how well a linear readout of a driven system's N observed variables reconstructs each function of its past inputs, and two theorems: capacities for orthogonal functions sum to at most N for i.i.d. input and infinite data (Theorem 4), and to exactly N over a complete basis when the system also has fading memory and N linearly independent variables (Theorem 7). Noise counts as a further input. Simulations show the total near N up to the undriven system's edge of stability and a memory–nonlinearity trade-off as input scaling grows. | Read |

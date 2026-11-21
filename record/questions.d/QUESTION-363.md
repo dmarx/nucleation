@@ -25,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-209 — Open or Proposed; the question this refines and Kunin's sampler reading, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpp83vc CLAIM-tmpl9zw4 CLAIM-tmpcg4uu — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
+<!-- inactive-ok-file: CLAIM-834 CLAIM-828 CLAIM-812 — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
 
 # QUESTION-363: When does the order in which stochastic gradient descent comes to occupy a network's organizations over training time follow the order in which they come to dominate the Bayesian posterior as the sample grows, and what fixes the correspondence where it holds: an effective temperature set by learning rate and batch size, the accessibility of regions and the barriers between them, or the time allowed to equilibrate?
 
@@ -134,7 +134,7 @@ question so far compares the first two. The third is a different kind of
 event: a change in what the model can do, measured by probes or held-out
 fit, which may happen inside one posterior region and one stretch of
 trajectory. A43 §13 splits it further into "t_encoded", "t_stable" and
-"t_behavioral" ([CLAIM-tmpl9zw4](../claims.d/CLAIM-tmpl9zw4.md)). A gated feature model shows the stability
+"t_behavioral" ([CLAIM-828](../claims.d/CLAIM-828.md)). A gated feature model shows the stability
 crossing and the visible onset separated by a delay that grows with how
 long the feature sat below threshold.
 
@@ -144,6 +144,6 @@ answer that uses probe accuracy as its clock for training measures the
 third order, not the first. Second, where the training order is read
 from local learning-coefficient estimates, a change in the estimate can be
 a sloppy direction coming into resolution rather than a move between
-singular regions ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)). The owner's U23, that singular
+singular regions ([CLAIM-812](../claims.d/CLAIM-812.md)). The owner's U23, that singular
 learning theory's account of transitions may serve the exchange's
-picture of staged learning, is [CLAIM-tmpp83vc](../claims.d/CLAIM-tmpp83vc.md). No status changes.
+picture of staged learning, is [CLAIM-834](../claims.d/CLAIM-834.md). No status changes.

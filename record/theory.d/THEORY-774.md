@@ -155,8 +155,8 @@ rate.
 
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
 
-A parallel, and a restatement. The three readings ([NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md),
-[NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md), [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)) use the same metric, JᵀJ with unit error,
+A parallel, and a restatement. The three readings ([NOTE-2240](../notes.d/NOTE-2240.md),
+[NOTE-2247](../notes.d/NOTE-2247.md), [NOTE-2242](../notes.d/NOTE-2242.md)) use the same metric, JᵀJ with unit error,
 in general form. The 2015 review restates this reading's result
 qualitatively: the hopping model's manifold is a "hyper-blob" after one
 step, and "as time proceeds, the model manifold contracts onto a

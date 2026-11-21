@@ -43,7 +43,7 @@ summary: >-
   computation was re-run by a second checker on 2026-11-06
   (scratch/formal/tms_critical_sizes_check.py).
 ---
-<!-- inactive-ok-file: THEORY-tmpousrw — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # THEORY-1275: In the toy model of superposition, at the paper's one SGD setting, the Bayesian counterparts of the observed training chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ have critical sample sizes that rise in the order training meets it at the point estimates of the learning coefficients, though not across their spread; SGD was not seen to take the posterior's main transition, 5 → 6, and trained on 1,000 samples it ends in a phase that the posterior at n = 1,000, dominated by the 6-gon, does not favour
 
@@ -121,8 +121,8 @@ happened in this model at this setting.
 
 ## Note of 2026-11-21: Lau et al., read
 
-The estimator behind Table K.1 is now held ([LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), [NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md),
-[THEORY-tmpousrw](THEORY-tmpousrw.md)). It qualifies this reading's inputs and leaves its title
+The estimator behind Table K.1 is now held ([LIT-2995](../literature.d/LIT-2995.md), [NOTE-2239](../notes.d/NOTE-2239.md),
+[THEORY-2157](THEORY-2157.md)). It qualifies this reading's inputs and leaves its title
 standing. The estimator's consistency is a conjecture, and its only
 calibration against exact values is in noiseless deep linear networks,
 where it mostly underestimates; the TMS estimates in [NOTE-1462](../notes.d/NOTE-1462.md) overstate

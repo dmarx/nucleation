@@ -6,7 +6,7 @@
 
 **The record as its own apparatus** — what an apparatus of record-keeping makes determinate and how its grammar is fixed and revised through use — the record itself as the case; inquiry as specification in general is learning-and-inquiry's; split from nucleating-argument (ADR-082).
 
-3 of 118 SYNTHESIS documents. Back to the [full index](../README.md).
+3 of 120 SYNTHESIS documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

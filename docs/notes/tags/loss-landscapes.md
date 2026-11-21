@@ -4,7 +4,7 @@
 
 **loss-landscapes**.
 
-51 of 2236 NOTE documents. Back to the [full index](../README.md).
+52 of 2247 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -59,3 +59,4 @@
 | [NOTE-1994](../../../record/notes.d/NOTE-1994.md) | Chaves et al. — Bridging domains through subspace-aware model merging | Domain generalization by merging CLIP encoders fine-tuned on single source domains, leave-one-domain-out over eight benchmarks. Domain experts' task matrices overlap more in their singular subspaces than multi-task experts', which the paper calls stronger conflict. SCORE, a data-free shared-basis projection with trimmed off-diagonal couplings, edges TIES and TSV on average by under a point; task arithmetic at λ = 1 collapses below zero-shot. | Read |
 | [NOTE-2078](../../../record/notes.d/NOTE-2078.md) | Zhu, Li and Cai — When do task vectors interfere? | First-token output non-additivity of two merged LoRA task vectors depends on the input distribution as well as the task pair (code+safety over code+math on code prompts, null on math), transfers in coarse ordering to unseen pairs, and is hidden by the template the adapters were trained on but not by an untrained chat template. | Read |
 | [NOTE-2127](../../../record/notes.d/NOTE-2127.md) | Chen, Kunin, Yamamura and Ganguli — Stochastic Collapse: How Gradient Noise Attracts SGD Dynamics Towards Simpler Subnetworks | Sets where a hidden neuron vanishes, or two neurons in a layer are identical, are invariant under SGD; both are fixed sets of reflection symmetries of the parameterization. For a continuous model of SGD the authors give a sufficient condition for such a set to attract, a competition between curvature and gradient noise that can hold at saddles and maxima, and report clusters of near-identical neurons in trained VGG and ResNet networks, growing with learning rate. In a linear teacher-student model the collapse keeps weak modes from being learned. | Read |
+| [NOTE-2239](../../../record/notes.d/NOTE-2239.md) | Lau, Furman, Wang, Murfet & Wei — the local learning coefficient and its SGLD estimator | Defines the local learning coefficient of a local minimum as the volume-scaling exponent of its low-loss set and estimates it with minibatch SGLD as nβ*(E[Lₙ] − Lₙ(w*)) under a posterior tempered at β* = 1/log n and localized by a Gaussian of precision γ. Consistency is a conjecture. Calibrated against exact values only in noiseless deep linear networks of 10² to 10⁸ parameters, mostly underestimating by up to about 80%; elsewhere used for relative comparisons at fixed sampler settings. | Read |

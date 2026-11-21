@@ -6,8 +6,8 @@
 
 **Thermodynamics** — the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020).
 
-0 of 124 ARG documents. Back to the [full index](../README.md).
+1 of 154 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-126](../../../record/arguments.d/ARG-126.md) | The Lyapunov identity for embeddings coupled through a shared-parameter kernel closes the feedback loop between kernel and representation as a route to active dynamics, so the strong active-matter reading needs a source outside gradient flow | A29 §2 of the exchange "Rich Get Richer Power Laws" calls the co-evolution of the embedding kernel and the representation "the first potentially rich feedback loop", and [CLAIM-798](../../../record/claims.d/CLAIM-798.md)'s gaps rely on [CLAIM-818](../../../record/claims.d/CLAIM-818.md) to say that loop cannot make the system active. The identity dL/dt = −‖Σ_j J_jᵀ g_j‖² uses only the kernel's value at each instant, so it holds however the kernel changes; applied to A29's equation it rules the loop out as a source of sustained currents under gradient flow, and leaves the strong reading to the optimizer, mismatched noise or a changing objective. Proposed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

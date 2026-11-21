@@ -6,7 +6,7 @@
 
 **Rightful power: restriction, answerability and rights** — what makes power over others' capabilities rightful and keeps it so — when a capability should be restricted and by whom, where legitimacy and adequacy come from, when answerability is owed and to whom, which rights no institution creates or extinguishes, how remedies can be foreclosed before review, and accountability for correction without blame; the argument filed from the exchange "Assess Depp Heard Abuse", carried beside dependence-and-domination and organizational-normativity, which its entries keep (the decision adding this line).
 
-0 of 134 TERM documents. Back to the [full index](../README.md).
+0 of 142 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

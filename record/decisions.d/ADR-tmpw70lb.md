@@ -7,7 +7,7 @@ tags:
 date: '2026-11-21'
 summary: >-
   Active at the owner's "adopt" of 2026-11-21, which accepted the
-  retrospective [RETRO-tmpd00ym](../retrospectives.d/RETRO-tmpd00ym.md) and its recommendations 1 and 5. The
+  retrospective [RETRO-008](../retrospectives.d/RETRO-008.md) and its recommendations 1 and 5. The
   owner's earmark (devlog of 22:30:41): 'one of the reasons I chose the name 'dialectic' for this mode of engagement was to evoke exchanging ideas. it would be helpful if you were more transparent within this space about what you are filing so I have an opportunity to monitor your activity. maybe more 'thinking out loud' in addition to something like a periodic checkin to provide an executive summary could be helpful.' The
   regime's rule that every turn that files ends with a Filed block
   ([ADR-127](ADR-127.md)) was being met, but a Filed block is a receipt, and the
@@ -25,7 +25,7 @@ summary: >-
 
 ## Context
 
-The dialectic regime ([ADR-127](ADR-127.md)) has the assistant file the argument an exchange develops as it goes, end each turn that files with a Filed block, and leave the staging and promotion pull requests as the owner's place to intervene. On the evening of 2026-11-21 that was met to the letter. But the owner caught the assistant four times settling for less than the record wanted ([RETRO-tmpd00ym](../retrospectives.d/RETRO-tmpd00ym.md)), and three of those catches came when the owner happened to read a result. The reasoning behind each filing was out of sight: in drafters' briefs, commit messages and pull-request descriptions, which the owner follows only through GitHub. The owner earmarked it for the retro: "one of the reasons I chose the name "dialectic" for this mode of engagement was to evoke exchanging ideas. it would be helpful if you were more transparent within this space about what you are filing so I have an opportunity to monitor your activity. maybe more "thinking out loud" in addition to something like a periodic checkin to provide an executive summary could be helpful."
+The dialectic regime ([ADR-127](ADR-127.md)) has the assistant file the argument an exchange develops as it goes, end each turn that files with a Filed block, and leave the staging and promotion pull requests as the owner's place to intervene. On the evening of 2026-11-21 that was met to the letter. But the owner caught the assistant four times settling for less than the record wanted ([RETRO-008](../retrospectives.d/RETRO-008.md)), and three of those catches came when the owner happened to read a result. The reasoning behind each filing was out of sight: in drafters' briefs, commit messages and pull-request descriptions, which the owner follows only through GitHub. The owner earmarked it for the retro: "one of the reasons I chose the name "dialectic" for this mode of engagement was to evoke exchanging ideas. it would be helpful if you were more transparent within this space about what you are filing so I have an opportunity to monitor your activity. maybe more "thinking out loud" in addition to something like a periodic checkin to provide an executive summary could be helpful."
 
 Twice in the same evening, a turn that admitted several readings ended by asking which was meant, though CLAUDE.md already said to file each.
 

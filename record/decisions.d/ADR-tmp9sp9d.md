@@ -7,7 +7,7 @@ tags:
 date: '2026-11-21'
 summary: >-
   Active at the owner's "adopt" of 2026-11-21, which accepted the
-  retrospective [RETRO-tmpd00ym](../retrospectives.d/RETRO-tmpd00ym.md) and its recommendations 2 to 4. On the
+  retrospective [RETRO-008](../retrospectives.d/RETRO-008.md) and its recommendations 2 to 4. On the
   evening of 2026-11-21 up to nine delegated workers wrote in one
   checkout. A commit swept up another worker's uncommitted note; CI's
   repairs, pulled in mid-work, conflicted with files still being edited;
@@ -26,7 +26,7 @@ summary: >-
 
 ## Context
 
-The `read-and-file` skill delegates readers and drafters in parallel (step 6). Readers write running notes on branches of their own ([ADR-108](ADR-108.md)), but drafters and filers write the record in the filing branch's one checkout. On 2026-11-21 that meant five drafters at once, then two filers and two manuscript writers. [RETRO-tmpd00ym](../retrospectives.d/RETRO-tmpd00ym.md) found four faults:
+The `read-and-file` skill delegates readers and drafters in parallel (step 6). Readers write running notes on branches of their own ([ADR-108](ADR-108.md)), but drafters and filers write the record in the filing branch's one checkout. On 2026-11-21 that meant five drafters at once, then two filers and two manuscript writers. [RETRO-008](../retrospectives.d/RETRO-008.md) found four faults:
 
 - **A commit swept up another worker's file.** A commit of the assistant's own files took in a filer's uncommitted note (28ec330cf).
 - **Repairs pulled in mid-work conflicted.** CI's repairs conflicted with files still being edited, three times. Each was resolved with `--ours` after reading the conflict, the practice a devlog note of the same morning warned about.

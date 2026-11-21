@@ -237,6 +237,6 @@ transitions of Mondelli and Montanari (2019) and Lu and Li (2020).
 
 A **parallel**, no edge. The spiked-matrix transition that the
 "BBP-type weak-recovery transitions" are named after is now read
-([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), [NOTE-tmpggv08](NOTE-tmpggv08.md)): a threshold in an estimator's top
+([LIT-2986](../literature.d/LIT-2986.md), [NOTE-2241](NOTE-2241.md)): a threshold in an estimator's top
 eigenvalue, with the eigenvector overlap vanishing below it (Paul,
-[LIT-tmpxru3g](../literature.d/LIT-tmpxru3g.md)).
+[LIT-3006](../literature.d/LIT-3006.md)).

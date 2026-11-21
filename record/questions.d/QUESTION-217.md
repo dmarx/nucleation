@@ -48,9 +48,9 @@ history:
     Note of 2026-11-21 added, from the exchange "Rich Get Richer Power
     Laws" (A29 §10, A33, A35): first entry into nested entailment cones
     is a refinement order by construction and cannot stand for the
-    acquisition order (CLAIM-tmp6mjfc); and a hypothesis that coarse
+    acquisition order (CLAIM-800); and a hypothesis that coarse
     distinctions settle early in a hierarchy of relaxation times. The
-    owner's U21 is filed as QUESTION-tmpseqwl, which refines this one. The
+    owner's U21 is filed as QUESTION-512, which refines this one. The
     question is unchanged.
 tags:
 - learning-theory
@@ -73,7 +73,7 @@ refines:
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-tmp6mjfc THEORY-1558 — new or Proposed; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, and a reading named for comparison -->
+<!-- inactive-ok-file: CLAIM-800 THEORY-1558 — new or Proposed; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, and a reading named for comparison -->
 # QUESTION-217: When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?
 
 ## Why it is a question
@@ -220,7 +220,7 @@ A qualification by analogy ([NOTE-2165](../notes.d/NOTE-2165.md)): the order in 
 
 The exchange "Rich Get Richer Power Laws" (2026-11-21) came to this question twice.
 
-- **Cones are a refinement order, not an acquisition order.** The owner asked at U21 whether entailment cones help reason about progressive learning ([QUESTION-tmpseqwl](QUESTION-tmpseqwl.md), which refines this question). A35 §5 warns that with C_fine ⊆ C_coarse, first entry into the coarse cone can never come after first entry into the fine one, so "that ordering is imposed by the geometry. It is not evidence that the network learned coarse concepts before fine concepts" ([CLAIM-tmp6mjfc](../claims.d/CLAIM-tmp6mjfc.md)). In this question's terms, cone first-entry times are a refinement order by construction; the acquisition order still needs a decoder's risk, as T_ℓ(δ) defines it. A35 §6 adds a signature that is not built in: with Y_coarse a function of Y_fine, the chain rule I(Z_t; Y_fine) = I(Z_t; Y_coarse) + I(Z_t; Y_fine | Y_coarse) separates the two levels' information over training, for Shannon information only ([THEORY-846](../theory.d/THEORY-846.md)).
-- **Relaxation times.** A29 §10 proposes, as a hypothesis, that in representation learning the interaction geometry co-evolves with the representation, so "coarse semantic distinctions becoming stable early, while increasingly fine distinctions continue reorganizing later in training", giving "a hierarchy of relaxation times", whose scale-freedom "is an empirical question". This is the acquisition order read as settling time, and [THEORY-1558](../theory.d/THEORY-1558.md)'s demarcation of levels by relaxation rate in another register. It is not filed separately: it adds a measurement (relaxation per level, [LEAD-tmpp88ld](../leads.d/LEAD-tmpp88ld.md)) and no answer.
+- **Cones are a refinement order, not an acquisition order.** The owner asked at U21 whether entailment cones help reason about progressive learning ([QUESTION-512](QUESTION-512.md), which refines this question). A35 §5 warns that with C_fine ⊆ C_coarse, first entry into the coarse cone can never come after first entry into the fine one, so "that ordering is imposed by the geometry. It is not evidence that the network learned coarse concepts before fine concepts" ([CLAIM-800](../claims.d/CLAIM-800.md)). In this question's terms, cone first-entry times are a refinement order by construction; the acquisition order still needs a decoder's risk, as T_ℓ(δ) defines it. A35 §6 adds a signature that is not built in: with Y_coarse a function of Y_fine, the chain rule I(Z_t; Y_fine) = I(Z_t; Y_coarse) + I(Z_t; Y_fine | Y_coarse) separates the two levels' information over training, for Shannon information only ([THEORY-846](../theory.d/THEORY-846.md)).
+- **Relaxation times.** A29 §10 proposes, as a hypothesis, that in representation learning the interaction geometry co-evolves with the representation, so "coarse semantic distinctions becoming stable early, while increasingly fine distinctions continue reorganizing later in training", giving "a hierarchy of relaxation times", whose scale-freedom "is an empirical question". This is the acquisition order read as settling time, and [THEORY-1558](../theory.d/THEORY-1558.md)'s demarcation of levels by relaxation rate in another register. It is not filed separately: it adds a measurement (relaxation per level, [LEAD-210](../leads.d/LEAD-210.md)) and no answer.
 
 This answers none of the orders. No status change.

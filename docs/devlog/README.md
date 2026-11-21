@@ -6,6 +6,9 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [21 Nov 22:30 — Earmarked for the retro: in the dialectic regime the owner wants to follow the filing in the chat, by thinking out loud and periodic executive summaries, not only through the staging pull request](2026-11.md#earmarked-for-the-retro-in-the-dialectic-regime-the-owner-wants-to-follow-the-filing-in-the-chat-by-thinking-out-loud-and-periodic-executive-summaries-not-only-through-the-staging-pull-request)
+- [21 Nov 21:27 — Going wrong, caught by the owner: Rejected arguments titled with their conclusions, so that rejecting a route read as rejecting a conclusion the owner thinks probably true](2026-11.md#going-wrong-caught-by-the-owner-rejected-arguments-titled-with-their-conclusions-so-that-rejecting-a-route-read-as-rejecting-a-conclusion-the-owner-thinks-probably-true)
+- [21 Nov 18:29 — Going wrong, caught by the owner: asked the owner which of three senses of separability was meant instead of filing all three, against the dialectic regime's rule on readings](2026-11.md#going-wrong-caught-by-the-owner-asked-the-owner-which-of-three-senses-of-separability-was-meant-instead-of-filing-all-three-against-the-dialectic-regimes-rule-on-readings)
 - [21 Nov 09:37 — Going wrong, caught before merge: a hand-rolled script to rewrite temporary codes after the promotion also rewrote the formerly: fields, and was not needed, since luria repair already makes that rewrite](2026-11.md#going-wrong-caught-before-merge-a-hand-rolled-script-to-rewrite-temporary-codes-after-the-promotion-also-rewrote-the-formerly-fields-and-was-not-needed-since-luria-repair-already-makes-that-rewrite)
 - [21 Nov 09:05 — Going wrong, a fourth time: a code in a title failed docs-check, after a retrospective written the same hour named the hazard](2026-11.md#going-wrong-a-fourth-time-a-code-in-a-title-failed-docs-check-after-a-retrospective-written-the-same-hour-named-the-hazard)
 - [21 Nov 07:01 — Going wrong, caught: resolving a merge conflict with --ours reverted three of the owner's rulings](2026-11.md#going-wrong-caught-resolving-a-merge-conflict-with---ours-reverted-three-of-the-owners-rulings)
@@ -18,8 +21,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## All books
 
-9 entries across 1 book, newest first.
+12 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 9 | 2026-11-21 | 2026-11-21 |
+| [2026-11](2026-11.md) | 12 | 2026-11-21 | 2026-11-21 |

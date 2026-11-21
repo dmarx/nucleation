@@ -6,7 +6,7 @@
 
 **Information theory** — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-11 of 206 LEAD documents. Back to the [full index](../README.md).
+12 of 211 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -21,3 +21,4 @@
 | [LEAD-137](../../../record/leads.d/LEAD-137.md) | Check on a non-lattice system of coupled agents whether variables chosen for informativeness across a buffer match the gap-isolated block | Named in [QUESTION-065](../../../record/questions.d/QUESTION-065.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-167](../../../record/leads.d/LEAD-167.md) | Compute Bourrat's individuality measures on a model of an evolutionary transition | The curation of 2026-09-26 says another reading cannot settle it. Named in the curation entry of 2026-09-26 (063703). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-178](../../../record/leads.d/LEAD-178.md) | Bound the dynamical dependence of a block's aggregate in terms of off-block coupling, gap and noise, linear Gaussian VAR(1) first | Named in [QUESTION-221](../../../record/questions.d/QUESTION-221.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-208](../../../record/leads.d/LEAD-208.md) | Compute the effective dimensions of the two-dimensional Ising model at and away from its critical point on one set of finite lattices, the stiff Fisher count at several sample sizes, the growth of predictive information, the relevant directions and the cluster dimension, to see which agree | A test for [QUESTION-517](../../../record/questions.d/QUESTION-517.md), which A raised at A19's close and A21 §1 of the exchange "Rich Get Richer Power Laws" and left without a method. On periodic L×L Ising lattices at T_c and at two temperatures either side, compute in one observation scheme (decimated spins, as in [THEORY-777](../../../record/theory.d/THEORY-777.md)): the number of Fisher eigenvalues resolved by n samples for several n; the growth of past–future information along a spatial transfer direction; the count of eigenvalues that do not decay under decimation; and the fractal dimension of the clusters. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Open |

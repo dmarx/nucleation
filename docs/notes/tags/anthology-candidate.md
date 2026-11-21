@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-484 of 2236 NOTE documents. Back to the [full index](../README.md).
+486 of 2247 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -492,3 +492,5 @@
 | [NOTE-2232](../../../record/notes.d/NOTE-2232.md) | Bernstein and Newhouse — Modular duality | A duality map for any network, induced recursively through the modular norm from per-layer operator norms; for a linear layer under the RMS→RMS norm it is √(d_out/d_in)·UVᵀ, every singular value the same; Newton–Schulz approximates it. No experiments of its own; nothing on the order of learning. | Read |
 | [NOTE-2233](../../../record/notes.d/NOTE-2233.md) | Yang, Simon and Bernstein — A spectral condition for feature learning | Features and their per-step changes stay of order one per entry at every width when each weight matrix and each update has spectral norm Θ(√(fan-out/fan-in)); μP is the unique stable abc-parametrization meeting this, NTP violates it. The condition rescales gradients; it is not orthogonalization. | Read |
 | [NOTE-2235](../../../record/notes.d/NOTE-2235.md) | Large, Liu, Huh, Bahng, Isola and Bernstein — The modular norm | A norm on a network's weights built recursively from per-module norms, masses and sensitivities; mass bounds each module's share of the output change (Proposition 3), and zero mass freezes a module. Width is handled by each atom's norm, depth by fixing mass; a 1/L residual construction has depth-independent sharpness. | Read |
+| [NOTE-2239](../../../record/notes.d/NOTE-2239.md) | Lau, Furman, Wang, Murfet & Wei — the local learning coefficient and its SGLD estimator | Defines the local learning coefficient of a local minimum as the volume-scaling exponent of its low-loss set and estimates it with minibatch SGLD as nβ*(E[Lₙ] − Lₙ(w*)) under a posterior tempered at β* = 1/log n and localized by a Gaussian of precision γ. Consistency is a conjecture. Calibrated against exact values only in noiseless deep linear networks of 10² to 10⁸ parameters, mostly underestimating by up to about 80%; elsewhere used for relative comparisons at fixed sampler settings. | Read |
+| [NOTE-2243](../../../record/notes.d/NOTE-2243.md) | Bialek, Nemenman & Tishby — predictive information and its three regimes of growth | Predictive information, the mutual information between a series' past and its future, is the subextensive part of its entropy, and its growth falls in three classes: finite, logarithmic, power law. A model with K parameters drawn once from a prior gives (K/2) log N (a smaller dimension when the parameterization is degenerate); an essential singularity in the density of nearby models gives N^(μ/(μ+1)) in the annealed approximation, N^(1/2) for a smooth density under a field-theory prior. The divergent part is argued to be the unique measure of complexity. | Read |

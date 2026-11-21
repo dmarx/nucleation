@@ -6,7 +6,7 @@
 
 **Capability, Restraint, and Relational Freedom** — the owner's manuscript, requested at U22 of the exchange "Assess Depp Heard Abuse" and drafted by ChatGPT on 2026-11-16 (A49), extended in later turns: Toward a Theory of the Legitimate Governance of Capabilities. Restricting a capability is evaluated as a change to a whole relationship, not the subtraction of an option, and that a capability should be limited is kept apart from who may limit it; freedom as the legitimate governance of capability among interdependent agents. Its argument is held in the line rightful-power and its neighbours.
 
-27 of 794 CLAIM documents. Back to the [full index](../README.md).
+27 of 851 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
