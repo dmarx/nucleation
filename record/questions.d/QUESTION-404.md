@@ -10,7 +10,7 @@ history:
   date: '2026-11-21'
   note: >-
     A dated note: First Contact read as a failure of information repaired by
-    a channel to the informed party (CLAIM-tmpydua7, CLAIM-tmpspx4i). No
+    a channel to the informed party (CLAIM-788, CLAIM-787). No
     change of status or title.
 tags:
 - control-theory
@@ -29,7 +29,7 @@ summary: >-
   [CLAIM-556](../claims.d/CLAIM-556.md)'s six-level table lacks the level too, and [CLAIM-535](../claims.d/CLAIM-535.md) holds what
   a policy needs where acceptable actions differ.
 ---
-<!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i THEORY-tmp3tb8i — Proposed; the dated note of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-788 CLAIM-787 THEORY-2147 — Proposed; the dated note of 2026-11-21 -->
 
 # QUESTION-404: Is a failure of information, where a path exists and the inputs could execute it but the system cannot tell which state it is in or which response its context calls for, a fifth obstruction to a transition beside the four obstructions the record's account of failed transitions names, or a kind of control limitation, and what repairs it?
 
@@ -62,16 +62,16 @@ fifth obstruction with its own repair.
 
 ## Note of 2026-11-21: a repair by channel, from First Contact
 
-[CLAIM-tmpydua7](../claims.d/CLAIM-tmpydua7.md) reads First Contact (Reddy, Levine and Dragan, 2022, held by
+[CLAIM-788](../claims.d/CLAIM-788.md) reads First Contact (Reddy, Levine and Dragan, 2022, held by
 the anthology as [ANTH-LIT-503](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-503.md)) as a failure of information of this kind,
 split between two parties: the interface can act and does not know the task,
 the user knows the task and cannot act directly. The repair there was not
 to give the interface the information but to form a channel through which
 the informed party steers. That suggests one answer to this question's last
 part, what repairs it: a channel to a party that has the information.
-[CLAIM-tmpspx4i](../claims.d/CLAIM-tmpspx4i.md) adds that such a channel has a level, and that help which
+[CLAIM-787](../claims.d/CLAIM-787.md) adds that such a channel has a level, and that help which
 stabilizes one level can look like the channel failing at that level. The
-local reading ([NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md), [THEORY-tmp3tb8i](../theory.d/THEORY-tmp3tb8i.md)) confirms the split from the
+local reading ([NOTE-2236](../notes.d/NOTE-2236.md), [THEORY-2147](../theory.d/THEORY-2147.md)) confirms the split from the
 paper's setting, and its §6.2 names the converse: the user sees state the
 interface cannot, and the proposed repair drops the interface's dependence
 on state rather than supplying it.

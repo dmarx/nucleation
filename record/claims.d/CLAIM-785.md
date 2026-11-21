@@ -1,5 +1,8 @@
 ---
+number: 785
 status: Proposed
+formerly:
+- CLAIM-tmpj4fzn
 title: 'Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule; accruing predicates stabilizes an entry, in the control-theoretic sense, in the dimensions they constrain, and narrowing it is not good in itself'
 version: 1
 role: thesis
@@ -22,14 +25,14 @@ line:
 - nucleating-argument
 - record-as-apparatus
 rests_on:
-- CLAIM-tmp8v75o
+- CLAIM-783
 - CLAIM-778
 - CLAIM-772
 grounds:
 - THEORY-1335
 uses:
-- TERM-tmp7m4at
-- TERM-tmp0g123
+- TERM-134
+- TERM-133
 - TERM-132
 summary: >-
   The owner's reframe, 2026-11-21: "maybe it works better if I say
@@ -43,20 +46,20 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-184 CLAIM-068 CLAIM-119 TERM-132 — Proposed; the claims this restates in terms of predicates, and the risks it keeps -->
-<!-- inactive-ok-file: CLAIM-tmp8v75o TERM-tmp7m4at TERM-tmp0g123 — Proposed; filed in this contribution of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-783 TERM-134 TERM-133 — Proposed; filed in this contribution of 2026-11-21 -->
 
-# CLAIM-tmpj4fzn: Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule; accruing predicates stabilizes an entry, in the control-theoretic sense, in the dimensions they constrain, and narrowing it is not good in itself
+# CLAIM-785: Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule; accruing predicates stabilizes an entry, in the control-theoretic sense, in the dimensions they constrain, and narrowing it is not good in itself
 
 ## The claim
 
-Everything filed on an entry is a predicate of it ([TERM-tmp7m4at](../terms.d/TERM-tmp7m4at.md)): its
+Everything filed on an entry is a predicate of it ([TERM-134](../terms.d/TERM-134.md)): its
 fields and their values, its `rests_on` and `grounds`, its status, its
 `defeated_if`, the passages it quotes, the codes that cite it. Each is a
 test a later version must pass to be a revision of this entry rather than a
 change to it that announces itself. So the predicates are constraints, and
 an entry's life cycle is their accrual: the revisions still open to it are
 the versions that pass every one, an intersection that shrinks as they
-arrive ([CLAIM-tmp8v75o](CLAIM-tmp8v75o.md), part 1).
+arrive ([CLAIM-783](CLAIM-783.md), part 1).
 
 **Why "toward desired outcomes" holds here.** [CLAIM-778](CLAIM-778.md) declined the
 phrase: the contracting part goes to the schema's convention and the
@@ -68,7 +71,7 @@ predicates say, and what they say is what the filers meant the entry to be.
 
 **The prior.** The prior over an entry's next revision is the intersection
 weighted by enforcement: a hard predicate excludes what fails it, a soft one
-makes it costly. [CLAIM-tmp8v75o](CLAIM-tmp8v75o.md), part 4, puts the two on one scale, a
+makes it costly. [CLAIM-783](CLAIM-783.md), part 4, puts the two on one scale, a
 penalty of strength λ. [DP-3](../../docs/design-principles.md#dp-3)'s ladder, prose to convention to mechanism to
 guarantee, is the record raising λ on its own norms, and the same ladder
 applies to an entry's predicates. So [CLAIM-778](CLAIM-778.md)'s inductive prior is not only
@@ -77,7 +80,7 @@ an analogy: it is this weighted intersection.
 **How it meets contraction.** Most of what is filed on an entry describes
 it: a value on a dimension that was undescribed, a premise, a quoted
 passage. Each is a descriptor, which the entry passes when it is added
-([CLAIM-tmp8v75o](CLAIM-tmp8v75o.md), part 5), so adding it moves nothing. It only excludes other
+([CLAIM-783](CLAIM-783.md), part 5), so adding it moves nothing. It only excludes other
 versions, and the dimension it describes stops drifting at the entry's own
 value: the conserved part. A schema default the entry did not meet is an
 imposition, which moves the entry to the convention: the contracting part.
@@ -109,7 +112,7 @@ as tests.
 
 ## Stabilization
 
-In the owner's sense ([TERM-tmp0g123](../terms.d/TERM-tmp0g123.md)), the control-theoretic one, this
+In the owner's sense ([TERM-133](../terms.d/TERM-133.md)), the control-theoretic one, this
 narrowing is stabilization: each predicate damps perturbations of the
 entry in the dimensions it constrains, wholly if hard and by 1/(1 + λ) per
 restatement if soft, and the entry converges to the set its predicates

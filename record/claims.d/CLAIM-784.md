@@ -1,5 +1,8 @@
 ---
+number: 784
 status: Proposed
+formerly:
+- CLAIM-tmphigw4
 title: 'Engineering is a form of inquiry: an inquiry in the record''s sense whose answer space is the realizations of a specification, whose interventions are builds and whose observations are tests; it is reflexive, and so more than search, when building revises the specification, and it differs from inquiry into a given object in that its interventions make the object its observations judge'
 version: 1
 role: thesis
@@ -26,22 +29,22 @@ rests_on:
 grounds:
 - THEORY-1084
 - THEORY-1374
-- CASE-tmpi16kb
+- CASE-299
 complements:
-- CLAIM-tmpm9ep1
+- CLAIM-786
 uses:
 - TERM-095
 summary: >-
   The owner, 2026-11-21, under the dialectic regime: "engineering as a form
   of inquiry". This is one of two readings, filed side by side under the
   regime's rule for several readings: engineering is a kind of inquiry.
-  The other, building as a method of inquiry, is [CLAIM-tmpm9ep1](CLAIM-tmpm9ep1.md). The
+  The other, building as a method of inquiry, is [CLAIM-786](CLAIM-786.md). The
   account is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1374 CLAIM-tmpm9ep1 — Proposed or Active; held entries this joins, and those filed with it on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-1374 CLAIM-786 — Proposed or Active; held entries this joins, and those filed with it on 2026-11-21 -->
 
-# CLAIM-tmphigw4: Engineering is a form of inquiry: an inquiry in the record's sense whose answer space is the realizations of a specification, whose interventions are builds and whose observations are tests; it is reflexive, and so more than search, when building revises the specification, and it differs from inquiry into a given object in that its interventions make the object its observations judge
+# CLAIM-784: Engineering is a form of inquiry: an inquiry in the record's sense whose answer space is the realizations of a specification, whose interventions are builds and whose observations are tests; it is reflexive, and so more than search, when building revises the specification, and it differs from inquiry into a given object in that its interventions make the object its observations judge
 
 ## The claim
 
@@ -91,7 +94,7 @@ thing does, and, through it, what the specification should have said.
   engineering form of `defeated_if`.
 
 **A case.** The record's own tooling: building the staging branch showed, at
-its first promotion, a requirement nobody had stated ([CASE-tmpi16kb](../cases.d/CASE-tmpi16kb.md)).
+its first promotion, a requirement nobody had stated ([CASE-299](../cases.d/CASE-299.md)).
 
 ## What it does not say
 
@@ -103,7 +106,7 @@ its first promotion, a requirement nobody had stated ([CASE-tmpi16kb](../cases.d
   claim is about the process: the motive does not change the structure.
 - Not that engineering knowledge reduces to scientific knowledge applied.
   Whether knowledge of a made thing is a different kind is open
-  ([QUESTION-tmp3x2g4](../questions.d/QUESTION-tmp3x2g4.md)).
+  ([QUESTION-503](../questions.d/QUESTION-503.md)).
 - Not read: Simon's *The Sciences of the Artificial*, Vincenti's *What
   Engineers Know and How They Know It*, Schön's *The Reflective
   Practitioner*. They are the obvious sources and none is registered.

@@ -1,15 +1,15 @@
 ---
 name: adoption-review
-description: A review of the record's Proposed decisions (ADRs) for adoption - which are already in force, built into the configuration or tooling or carried as steps in CLAUDE.md or a skill and applied, and which are not; it derives the evidence by script, sorts the decisions into adopt, adopt after a look, and leave, and puts them to the owner as a checklist. Use it when the owner asks to promote decisions that are already adopted, at a status review, or when the decisions index shows many pending. ADR-tmpvmzl6 holds the invariants.
+description: A review of the record's Proposed decisions (ADRs) for adoption - which are already in force, built into the configuration or tooling or carried as steps in CLAUDE.md or a skill and applied, and which are not; it derives the evidence by script, sorts the decisions into adopt, adopt after a look, and leave, and puts them to the owner as a checklist. Use it when the owner asks to promote decisions that are already adopted, at a status review, or when the decisions index shows many pending. ADR-124 holds the invariants.
 ---
 <!-- .claude/skills/adoption-review/SKILL.md -->
-<!-- inactive-ok-file: ADR-tmpvmzl6 — Proposed; the decision this skill carries out, until the owner adopts it -->
+<!-- inactive-ok-file: ADR-124 — Proposed; the decision this skill carries out, until the owner adopts it -->
 
 # Adoption review
 
 A decision is Proposed until the owner adopts it, and the record applies it
 from the start. This review finds the decisions whose rules are already in
-force and asks the owner to adopt them. ADR-tmpvmzl6 holds the invariants;
+force and asks the owner to adopt them. ADR-124 holds the invariants;
 this file holds the steps, and changes when a step proves wrong.
 
 ## 1. Derive the evidence

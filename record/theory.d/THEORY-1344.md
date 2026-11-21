@@ -19,7 +19,7 @@ history:
 - version: 3
   date: '2026-11-21'
   note: >-
-    A dated note: a parallel from First Contact's horizon Δ (NOTE-tmp7qgd8).
+    A dated note: a parallel from First Contact's horizon Δ (NOTE-2236).
     No change of status or title.
 tags:
 - information-theory
@@ -38,7 +38,7 @@ corroborates:
 - CLAIM-354
 ---
 <!-- inactive-ok-file: THEORY-1336 — Proposed; the cart-pole result, cited for what this definition does not say -->
-<!-- inactive-ok-file: CLAIM-tmpspx4i — Proposed; the dated note of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-787 — Proposed; the dated note of 2026-11-21 -->
 
 # THEORY-1344: Empowerment is the channel capacity from an agent's next n actions to its sensor n steps later, an open-loop, interventional measure of how many perceptibly different futures the agent can bring about, which counts no control the agent cannot perceive; given side information about the channel's state it is never lower, so it is ordered by what the agent can read, from full state through its own sensor history to none
 
@@ -73,10 +73,10 @@ possibly know" (2008, p. 4).
 
 ## Note of 2026-11-21: Reddy, Levine and Dragan, read
 
-A parallel, not evidence. First Contact ([NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md)) scores an interface
+A parallel, not evidence. First Contact ([NOTE-2236](../notes.d/NOTE-2236.md)) scores an interface
 by the information from command to the state Δ steps later, and names the
 choice of Δ as its primary limit. Empowerment here is channel capacity from
 actions to the sensor n steps later, so it carries the same choice of
 horizon; First Contact cites empowerment as the measure of influence it
-extends by scoring intuitiveness as well. [CLAIM-tmpspx4i](../claims.d/CLAIM-tmpspx4i.md) reads the horizon
+extends by scoring intuitiveness as well. [CLAIM-787](../claims.d/CLAIM-787.md) reads the horizon
 as the level at which influence is judged.

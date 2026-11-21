@@ -6,7 +6,7 @@
 
 **Loss landscapes** — the geometry of trained solutions in weight space — mode connectivity, linear and along curves, barriers between minima and the permutation symmetries that hide or remove them, re-basin alignment, star domains and connecting simplexes, local versus global landscape structure, and model merging as its use (ADR-027).
 
-51 of 2955 LIT documents. Back to the [full index](../README.md).
+51 of 2956 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

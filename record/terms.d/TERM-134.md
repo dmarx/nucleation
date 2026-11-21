@@ -1,5 +1,8 @@
 ---
+number: 134
 status: Proposed
+formerly:
+- TERM-tmp7m4at
 title: 'predicate (of an entry), read as a test'
 version: 1
 tags:
@@ -22,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-132 CLAIM-772 — Proposed; the term this complements, and the claims filed with it on 2026-11-21 -->
 
-# TERM-tmp7m4at: predicate (of an entry), read as a test
+# TERM-134: predicate (of an entry), read as a test
 
 ## Definition
 

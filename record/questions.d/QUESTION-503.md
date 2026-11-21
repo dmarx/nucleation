@@ -1,5 +1,8 @@
 ---
+number: 503
 status: Open
+formerly:
+- QUESTION-tmp3x2g4
 title: 'Is knowledge of a made thing a different kind from knowledge of a given one, or the same inquiry with its answer space among realizations: does making an object give access to it, such as knowing which degrees of freedom were set and which left free, that observing it cannot?'
 version: 1
 tags:
@@ -10,17 +13,17 @@ date: '2026-11-21'
 line:
 - record-as-apparatus
 summary: >-
-  Raised by [CLAIM-tmphigw4](../claims.d/CLAIM-tmphigw4.md)'s limit, that engineering's findings are partly
+  Raised by [CLAIM-784](../claims.d/CLAIM-784.md)'s limit, that engineering's findings are partly
   constituted rather than discovered. The old name for one answer is
   maker's knowledge, verum factum; it is not read here.
 ---
-<!-- inactive-ok-file: CLAIM-tmphigw4 — Proposed; filed with this on 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-784 — Proposed; filed with this on 2026-11-21 -->
 
-# QUESTION-tmp3x2g4: Is knowledge of a made thing a different kind from knowledge of a given one, or the same inquiry with its answer space among realizations: does making an object give access to it, such as knowing which degrees of freedom were set and which left free, that observing it cannot?
+# QUESTION-503: Is knowledge of a made thing a different kind from knowledge of a given one, or the same inquiry with its answer space among realizations: does making an object give access to it, such as knowing which degrees of freedom were set and which left free, that observing it cannot?
 
 ## What makes it open
 
-[CLAIM-tmphigw4](../claims.d/CLAIM-tmphigw4.md) holds that engineering is inquiry whose interventions make
+[CLAIM-784](../claims.d/CLAIM-784.md) holds that engineering is inquiry whose interventions make
 the object they judge. One answer is that this changes only where the
 answer space lies, so knowledge of a made thing is ordinary empirical
 knowledge with an unusually controlled object. Another is that the maker

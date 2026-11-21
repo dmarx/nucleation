@@ -2,8 +2,8 @@
 
 <!-- GENERATED below this line by `luria index` — edit README.stub instead. -->
 
-**[The record](tags/record.md)** (4) — what the schemes hold, and the rules between them:
-[001](../../record/retrospectives.d/RETRO-001.md) · [002](../../record/retrospectives.d/RETRO-002.md) · [003](../../record/retrospectives.d/RETRO-003.md) · [004](../../record/retrospectives.d/RETRO-004.md)
+**[The record](tags/record.md)** (5) — what the schemes hold, and the rules between them:
+[001](../../record/retrospectives.d/RETRO-001.md) · [002](../../record/retrospectives.d/RETRO-002.md) · [003](../../record/retrospectives.d/RETRO-003.md) · [004](../../record/retrospectives.d/RETRO-004.md) · [005](../../record/retrospectives.d/RETRO-005.md)
 
 **[Taxonomy](tags/taxonomy.md)** (1) — the topic vocabulary and what enforces it:
 [004](../../record/retrospectives.d/RETRO-004.md)
@@ -12,10 +12,10 @@
 
 **[Migration](tags/migration.md)** (0) — what moves between this record and the Anthology of the SOTA, and why.
 
-**[process](tags/process.md)** (3):
-[001](../../record/retrospectives.d/RETRO-001.md) · [002](../../record/retrospectives.d/RETRO-002.md) · [003](../../record/retrospectives.d/RETRO-003.md)
+**[process](tags/process.md)** (4):
+[001](../../record/retrospectives.d/RETRO-001.md) · [002](../../record/retrospectives.d/RETRO-002.md) · [003](../../record/retrospectives.d/RETRO-003.md) · [005](../../record/retrospectives.d/RETRO-005.md)
 
-**By status:** [Draft](status/Draft.md) (4) · [Accepted](status/Accepted.md) (0) · [Superseded](status/Superseded.md) (0)
+**By status:** [Draft](status/Draft.md) (5) · [Accepted](status/Accepted.md) (0) · [Superseded](status/Superseded.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -31,4 +31,5 @@ What the status column means in this scheme — the words are luria's, the meani
 | [RETRO-002](../../record/retrospectives.d/RETRO-002.md) v2 | The batch of 2026-11-19 and 20: pull requests 541 to 545, parallel pull requests appending notes to the same entries | Trigger 2 of [ADR-110](../../record/decisions.d/ADR-110.md): five pull requests, one stacked on another and folded, merged on the owner's word. The costs were conflicts on dated notes appended to the same entries by parallel pull requests, twice on one of them; a branch that had to be remapped to concretized codes after main moved; a copy-lawfulness question the rule did not settle; and an inferred personal name nearly written into the record. What changes: a merge order for parallel pull requests, a question for the owner on how dated notes are filed, a wording question for [ADR-074](../../record/decisions.d/ADR-074.md), and a rule against inferring names. | Draft |
 | [RETRO-003](../../record/retrospectives.d/RETRO-003.md) v2 | The batch of 2026-11-19: pull requests 535 to 540, a stacked series folded top-down | Trigger 2 of [ADR-110](../../record/decisions.d/ADR-110.md): six pull requests, five of them a stack built on a schema change and folded top-down into main. Everything landed green. The costs were a stack forced by putting readings on the schema pull request, codes split at hyphens by the filer's line-wrapping, a bot repair colliding with an unpulled second commit, an owner review that had to be merged up four branches, and reader branches the session could not delete. What changes: four small rules, and the reader-branch ending [ADR-108](../../record/decisions.d/ADR-108.md) left open. | Draft |
 | [RETRO-004](../../record/retrospectives.d/RETRO-004.md) v2 | The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme | The owner asked on 2026-11-20 for a postmortem of the session's luria.yaml changes. The work vocabulary entry is used and fine. The explication form works but was filed before its source was read, and rewritten twice. The LEAD scheme holds 197 leads but its stage ladder does not discriminate (96 per cent at idea), it has no priority field for triage, question dependencies are unused, leads cannot target theories or terms, there is no blocked state, and its derived converses are declared but never written. Recommendations for one decision, and three process rules. | Draft |
+| [RETRO-005](../../record/retrospectives.d/RETRO-005.md) | The night of 2026-11-21 after the first retrospective: staging and its first promotion, the dialectic regime and the conventions it grew, a local reading of First Contact and an adoption review that adopted 34 decisions; what went right was fitting the tooling to the work and the owner steering by interjection, and what went wrong was a few errors of the assistant's that the regime let travel further before the owner caught them | The owner asked for a retrospective ("retro") at the end of the night of 2026-11-21, after [RETRO-001](../../record/retrospectives.d/RETRO-001.md) earlier the same night. It reads the four devlog entries filed since (034912, earmarked by the owner; 042208; 065344; and the night's pull requests), answers the earmark as [ADR-126](../../record/decisions.d/ADR-126.md) requires, and follows up [RETRO-001](../../record/retrospectives.d/RETRO-001.md)'s five recommendations. Going right: staging removed stacking, the dialectic regime removed the permission handoff while the owner kept steering by interjection, the local reading of First Contact found what the anthology's did not, and a hazard that caught the assistant three times was removed upstream. Going wrong: errors of the assistant's own, including a self-correction that was itself wrong, that the regime filed fast and the owner had to catch; a ruling by ticked box missed; and the nightly Promote still bypassing the review point built for it. Six recommendations, none yet a decision. | Draft |
 

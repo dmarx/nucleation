@@ -1,5 +1,8 @@
 ---
+number: 786
 status: Proposed
+formerly:
+- CLAIM-tmpm9ep1
 title: 'Building something is a method of inquiring into it: an artifact made to a specification drawn from a theory tests that theory, and its failures to behave as specified are findings about the theory, not only about the artifact; the record itself, built to study how an argument develops, is inquiry by this method'
 version: 1
 role: thesis
@@ -22,9 +25,9 @@ rests_on:
 - CLAIM-470
 grounds:
 - THEORY-1797
-- CASE-tmpi16kb
+- CASE-299
 complements:
-- CLAIM-tmphigw4
+- CLAIM-784
 uses:
 - TERM-095
 works:
@@ -32,13 +35,13 @@ works:
 summary: >-
   The second reading of the owner's "engineering as a form of inquiry"
   (2026-11-21, under the dialectic regime): engineering as a method of
-  inquiry, building in order to understand. Filed beside [CLAIM-tmphigw4](CLAIM-tmphigw4.md),
+  inquiry, building in order to understand. Filed beside [CLAIM-784](CLAIM-784.md),
   which reads it as engineering being a kind of inquiry. The account is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1797 CLAIM-tmphigw4 — Proposed; the reading and the entries filed with this on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-1797 CLAIM-784 — Proposed; the reading and the entries filed with this on 2026-11-21 -->
 
-# CLAIM-tmpm9ep1: Building something is a method of inquiring into it: an artifact made to a specification drawn from a theory tests that theory, and its failures to behave as specified are findings about the theory, not only about the artifact; the record itself, built to study how an argument develops, is inquiry by this method
+# CLAIM-786: Building something is a method of inquiring into it: an artifact made to a specification drawn from a theory tests that theory, and its failures to behave as specified are findings about the theory, not only about the artifact; the record itself, built to study how an argument develops, is inquiry by this method
 
 ## The claim
 
@@ -60,7 +63,7 @@ stateless collaborators drifts in identity, and that a memory which makes
 structures persist gives it anchors; luria is the tool and this record the
 case. Building the record has repeatedly found what the theory did not say:
 that temporary codes need a staging branch to be cited across units, and
-that the back-merge must follow every change to main ([CASE-tmpi16kb](../cases.d/CASE-tmpi16kb.md)). Those
+that the back-merge must follow every change to main ([CASE-299](../cases.d/CASE-299.md)). Those
 were findings about how an argument's memory has to work, got by building
 one.
 

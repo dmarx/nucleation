@@ -1,5 +1,8 @@
 ---
+number: 787
 status: Proposed
+formerly:
+- CLAIM-tmpspx4i
 title: 'First Contact''s one failure is a choice of level: a shared-autonomy assistant, from a prior study, that stabilizes the lander overrides the user''s commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user''s goals live; the task knowledge it assumes away is knowledge of that level'
 version: 1
 role: thesis
@@ -20,16 +23,16 @@ line:
 - will-organization
 - distributed-agency
 grounds:
-- THEORY-tmp3tb8i
+- THEORY-2147
 rests_on:
-- CLAIM-tmpydua7
+- CLAIM-788
 - CLAIM-361
 - CLAIM-478
 - CLAIM-761
 uses:
-- TERM-tmp0g123
+- TERM-133
 complements:
-- CLAIM-tmpydua7
+- CLAIM-788
 summary: >-
   The second half of the relation the owner asked for on 2026-11-21, between
   the record's account of learning occasioned by obstruction and First
@@ -38,16 +41,16 @@ summary: >-
   The assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpydua7 TERM-tmp0g123 CLAIM-478 — Proposed or Open; the claims and term this joins -->
+<!-- inactive-ok-file: CLAIM-788 TERM-133 CLAIM-478 — Proposed or Open; the claims and term this joins -->
 
-# CLAIM-tmpspx4i: First Contact's one failure is a choice of level: a shared-autonomy assistant, from a prior study, that stabilizes the lander overrides the user's commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user's goals live; the task knowledge it assumes away is knowledge of that level
+# CLAIM-787: First Contact's one failure is a choice of level: a shared-autonomy assistant, from a prior study, that stabilizes the lander overrides the user's commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user's goals live; the task knowledge it assumes away is knowledge of that level
 
 ## The failure
 
 In the fifth domain, shared-autonomy Lunar Lander, the one-step score
 I(x_t; (s_t, s_{t+1})) correlated strongly *negatively* with task success.
 The assistant helps by preventing crashes, "which necessarily involves
-ignoring a large fraction of the user's commands" (§5.1; [NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md)).
+ignoring a large fraction of the user's commands" (§5.1; [NOTE-2236](../notes.d/NOTE-2236.md)).
 The assistant is not First Contact's own: it is the deep-RL copilot of a
 prior study, Shared Autonomy via Deep RL, whose logged data First Contact
 re-scores, and the state there is only the lander's horizontal position
@@ -59,7 +62,7 @@ scoring relief as suppression, with the horizon part of the comparison.
 
 ## The relation
 
-**The assistant stabilizes.** In [TERM-tmp0g123](../terms.d/TERM-tmp0g123.md)'s sense the assistant damps
+**The assistant stabilizes.** In [TERM-133](../terms.d/TERM-133.md)'s sense the assistant damps
 perturbations of the lander's state toward a safe set. Damping is what an
 override is: the next state depends less on the command. So stabilization
 lowers the user's influence at the fast scale by construction, and raises
@@ -78,7 +81,7 @@ at the slow level, it measures the user's control of the goal. The right Δ
 is a time between the two rates, and the knowledge the method assumes away
 is which level of that hierarchy the user's goals live at.
 
-**What it adds to the obstruction account.** [CLAIM-tmpydua7](CLAIM-tmpydua7.md) reads First
+**What it adds to the obstruction account.** [CLAIM-788](CLAIM-788.md) reads First
 Contact as forming a channel to repair a failure of information. This half
 says a channel has a level: help that stabilizes one level can look, at that
 level, like the channel failing. A diagnosis of an obstruction ([CLAIM-556](CLAIM-556.md)'s
@@ -101,4 +104,4 @@ ISQL data at several Δ would tell.
   it) apply quantitatively. They are for chains with separated rates; a
   lander with an assistant was not modelled.
 - Whether stabilizing help erodes the user's own capacity is a separate
-  question, [QUESTION-tmp6iu8e](../questions.d/QUESTION-tmp6iu8e.md).
+  question, [QUESTION-504](../questions.d/QUESTION-504.md).

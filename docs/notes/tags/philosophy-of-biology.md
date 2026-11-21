@@ -4,7 +4,7 @@
 
 **philosophy-of-biology**.
 
-54 of 2235 NOTE documents. Back to the [full index](../README.md).
+54 of 2236 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

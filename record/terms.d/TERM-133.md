@@ -1,5 +1,8 @@
 ---
+number: 133
 status: Proposed
+formerly:
+- TERM-tmp0g123
 title: 'stabilization, in the control-theoretic sense: the damping of perturbations and convergence to what is expected, an equilibrium, a set or a stationary law; contraction is a sufficient condition for it, and attraction toward a convention is one case of it'
 version: 1
 tags:
@@ -14,7 +17,7 @@ line:
 draws_on:
 - THEORY-2043
 complements:
-- TERM-tmp7m4at
+- TERM-134
 - TERM-132
 summary: >-
   The owner's sense, 2026-11-21: "I'm using 'stabilization' in the control
@@ -26,9 +29,9 @@ summary: >-
   are the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-2043 TERM-132 CLAIM-068 CLAIM-772 CLAIM-tmp8v75o TERM-tmp7m4at — Proposed; the contraction reading, the terms and claims this is stated against, and those filed with it on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-2043 TERM-132 CLAIM-068 CLAIM-772 CLAIM-783 TERM-134 — Proposed; the contraction reading, the terms and claims this is stated against, and those filed with it on 2026-11-21 -->
 
-# TERM-tmp0g123: stabilization, in the control-theoretic sense: the damping of perturbations and convergence to what is expected, an equilibrium, a set or a stationary law; contraction is a sufficient condition for it, and attraction toward a convention is one case of it
+# TERM-133: stabilization, in the control-theoretic sense: the damping of perturbations and convergence to what is expected, an equilibrium, a set or a stationary law; contraction is a sufficient condition for it, and attraction toward a convention is one case of it
 
 ## Definition
 
@@ -52,12 +55,12 @@ Two relations fix the term against the record's others:
   pulled toward conventional regions ([CLAIM-068](../claims.d/CLAIM-068.md)) stabilizes the convention.
   The same process stabilizes whatever the step's fixed points are: a
   convention, a source's value, or the set of versions an entry's
-  predicates allow ([CLAIM-tmp8v75o](../claims.d/CLAIM-tmp8v75o.md)).
+  predicates allow ([CLAIM-783](../claims.d/CLAIM-783.md)).
 
-For an entry of the record, its predicates ([TERM-tmp7m4at](TERM-tmp7m4at.md)) stabilize the
+For an entry of the record, its predicates ([TERM-134](TERM-134.md)) stabilize the
 dimensions they constrain: a perturbation off the allowed set is damped,
 wholly by a hard predicate and by a factor 1/(1 + λ) per step by a soft one
-of strength λ ([CLAIM-tmp8v75o](../claims.d/CLAIM-tmp8v75o.md), part 4). The dimensions no predicate
+of strength λ ([CLAIM-783](../claims.d/CLAIM-783.md), part 4). The dimensions no predicate
 constrains are neutral; they are [TERM-132](TERM-132.md)'s local degrees of freedom.
 
 ## Not to be confused with

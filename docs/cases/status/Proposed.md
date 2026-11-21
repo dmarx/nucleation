@@ -4,7 +4,7 @@
 
 **Proposed** — not in force yet — an open question, so citing it as settled is the thing the report catches.
 
-105 of 298 CASE documents. Back to the [full index](../README.md).
+105 of 299 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

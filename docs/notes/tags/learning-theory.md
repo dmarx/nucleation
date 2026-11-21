@@ -4,7 +4,7 @@
 
 **learning-theory**.
 
-253 of 2235 NOTE documents. Back to the [full index](../README.md).
+254 of 2236 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -261,3 +261,4 @@
 | [NOTE-2232](../../../record/notes.d/NOTE-2232.md) | Bernstein and Newhouse — Modular duality | A duality map for any network, induced recursively through the modular norm from per-layer operator norms; for a linear layer under the RMS→RMS norm it is √(d_out/d_in)·UVᵀ, every singular value the same; Newton–Schulz approximates it. No experiments of its own; nothing on the order of learning. | Read |
 | [NOTE-2233](../../../record/notes.d/NOTE-2233.md) | Yang, Simon and Bernstein — A spectral condition for feature learning | Features and their per-step changes stay of order one per entry at every width when each weight matrix and each update has spectral norm Θ(√(fan-out/fan-in)); μP is the unique stable abc-parametrization meeting this, NTP violates it. The condition rescales gradients; it is not orthogonalization. | Read |
 | [NOTE-2235](../../../record/notes.d/NOTE-2235.md) | Large, Liu, Huh, Bahng, Isola and Bernstein — The modular norm | A norm on a network's weights built recursively from per-module norms, masses and sensitivities; mass bounds each module's share of the output change (Proposition 3), and zero mass freezes a module. Width is handled by each atom's norm, depth by fixing mass; a 1/L residual construction has depth-independent sharpness. | Read |
+| [NOTE-2236](../../../record/notes.d/NOTE-2236.md) | Reddy, Levine and Dragan — First Contact, read for the record's account of learning occasioned by obstruction | An interface scored and trained by the mutual information between the user's command and the state change it induces, with no task knowledge. Read here for what the anthology's reading did not need: who supplies the assistance in the failing domain (a prior study's copilot), that a second assisted domain is the one the score does not predict, that user adaptation is assumed and not measured, and that no transfer or unassisted-skill test is run. | Read |

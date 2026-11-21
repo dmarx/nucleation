@@ -6,7 +6,7 @@
 
 **Social ontology** — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017).
 
-47 of 2146 THEORY documents. Back to the [full index](../README.md).
+47 of 2147 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,7 +6,7 @@
 
 **Learning theory** — why learning generalizes and how it proceeds — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection; and training dynamics: solvable models of learning trajectories, stages, plateaus and phase transitions in training, and the implicit bias of optimisation. A work whose subject is how to train a model better is ML practice and goes to the anthology (ADR-036).
 
-240 of 2955 LIT documents. Back to the [full index](../README.md).
+241 of 2956 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -250,3 +250,4 @@
 | [LIT-2947](../../../record/literature.d/LIT-2947.md) v2 | A Spectral Condition for Feature Learning | Yang, Simon and Bernstein (2023). Read in [NOTE-2233](../../../record/notes.d/NOTE-2233.md). μP as spectral norms of weights and updates scaled by √(fan-out/fan-in). Here for [CLAIM-775](../../../record/claims.d/CLAIM-775.md), which it supports. | Active |
 | [LIT-2952](../../../record/literature.d/LIT-2952.md) v2 | Modular Duality in Deep Learning | Bernstein and Newhouse (2024). Read in [NOTE-2232](../../../record/notes.d/NOTE-2232.md). Modular dualization; for linear layers the scaled polar factor √(d_out/d_in)·UVᵀ. Here for [CLAIM-774](../../../record/claims.d/CLAIM-774.md), whose update rule it confirms. | Active |
 | [LIT-2955](../../../record/literature.d/LIT-2955.md) v2 | Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit | Bordelon, Noci, Li, Hanin and Pehlevan (2023). Read in [NOTE-2228](../../../record/notes.d/NOTE-2228.md). μP plus 1/√depth branches; diffusion from initialization and drift from learning in the depth limit. Here for [CLAIM-767](../../../record/claims.d/CLAIM-767.md), which it supports. | Active |
+| [LIT-2956](../../../record/literature.d/LIT-2956.md) v2 | First Contact: Unsupervised Human-Machine Co-Adaptation via Mutual Information Maximization | Reddy, Levine and Dragan (2022; NeurIPS 2022). Read in [NOTE-2236](../../../record/notes.d/NOTE-2236.md). An interface scored and trained by command-to-transition mutual information, no task needed; predictive in 4 of 5 offline domains, the failing one at Δ = 1 being a prior study's crash-preventing copilot, fixed only by a horizon that needs task knowledge. Here for [CLAIM-788](../../../record/claims.d/CLAIM-788.md) and [CLAIM-787](../../../record/claims.d/CLAIM-787.md); held by the anthology too ([ANTH-LIT-503](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-503.md)). | Active |

@@ -6,6 +6,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [November 2026](2026-11.md)
 
+- [21 Nov 06:03 — A local reading of First Contact, in the context of the record's account of learning occasioned by obstruction](2026-11.md#a-local-reading-of-first-contact-in-the-context-of-the-records-account-of-learning-occasioned-by-obstruction)
+- [21 Nov 05:53 — First Contact and the record's account of learning occasioned by obstruction: a channel formed to repair a failure of information, and a horizon that is a level](2026-11.md#first-contact-and-the-records-account-of-learning-occasioned-by-obstruction-a-channel-formed-to-repair-a-failure-of-information-and-a-horizon-that-is-a-level)
+- [21 Nov 04:08 — Engineering as a form of inquiry, in two readings: engineering is a kind of inquiry, and building is a method of inquiry; with the record's staging branch as the case](2026-11.md#engineering-as-a-form-of-inquiry-in-two-readings-engineering-is-a-kind-of-inquiry-and-building-is-a-method-of-inquiry-with-the-records-staging-branch-as-the-case)
+- [21 Nov 03:15 — Predicates as constraints: an entry's accrued predicates read as tests, the revisions open to it as their intersection, and a model of restating as error then enforcement](2026-11.md#predicates-as-constraints-an-entrys-accrued-predicates-read-as-tests-the-revisions-open-to-it-as-their-intersection-and-a-model-of-restating-as-error-then-enforcement)
 - [21 Nov 00:12 — Readings of 2026-11-21 for the session on rates, contraction, drift, hierarchy and depth: fourteen works read, two reached through neighbours, and the claims they bear on revised: semicontraction keeps nothing by itself, bounded hyperbolicity of a log metric is trivial, depth-μP confirms the two drift rows, and transformer depth is stages around a robust but not redundant middle](2026-11.md#readings-of-2026-11-21-for-the-session-on-rates-contraction-drift-hierarchy-and-depth-fourteen-works-read-two-reached-through-neighbours-and-the-claims-they-bear-on-revised-semicontraction-keeps-nothing-by-itself-bounded-hyperbolicity-of-a-log-metric-is-trivial-depth-μp-confirms-the-two-drift-rows-and-transformer-depth-is-stages-around-a-robust-but-not-redundant-middle)
 - [20 Nov 23:59 — Transformer depth: coarse stages around an interchangeable middle, refinement rather than an ascent through levels; four interpretability works registered by abstract, and a caution on the learning-order claim](2026-11.md#transformer-depth-coarse-stages-around-an-interchangeable-middle-refinement-rather-than-an-ascent-through-levels-four-interpretability-works-registered-by-abstract-and-a-caution-on-the-learning-order-claim)
 - [20 Nov 23:45 — μP, depth scaling and modular duality related to the record's rate-difference and drift results: orthogonalized updates reverse the order of learning in a linear network, residual depth scaling as a choice of drift kind, and parameterization as an allocation of rates; seven works registered](2026-11.md#μp-depth-scaling-and-modular-duality-related-to-the-records-rate-difference-and-drift-results-orthogonalized-updates-reverse-the-order-of-learning-in-a-linear-network-residual-depth-scaling-as-a-choice-of-drift-kind-and-parameterization-as-an-allocation-of-rates-seven-works-registered)
@@ -119,10 +123,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-307 entries across 3 books, newest first.
+311 entries across 3 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 110 | 2026-11-01 | 2026-11-21 |
+| [2026-11](2026-11.md) | 114 | 2026-11-01 | 2026-11-21 |
 | [2026-10](2026-10.md) | 150 | 2026-10-01 | 2026-10-31 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

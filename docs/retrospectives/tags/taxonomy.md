@@ -6,7 +6,7 @@
 
 **Taxonomy** — the topic vocabulary and what enforces it.
 
-1 of 4 RETRO documents. Back to the [full index](../README.md).
+1 of 5 RETRO documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -4,7 +4,7 @@
 
 **information-theory**.
 
-142 of 2235 NOTE documents. Back to the [full index](../README.md).
+143 of 2236 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -150,3 +150,4 @@
 | [NOTE-2091](../../../record/notes.d/NOTE-2091.md) | Masumori and others 2026 — Structured Fluctuations and the Information Dynamics of Self-Maintenance in Growing Neural Cellular Automata |  | Read |
 | [NOTE-2097](../../../record/notes.d/NOTE-2097.md) | Still 2017 (PRL 2020) — Thermodynamic cost and benefit of memory |  | Read |
 | [NOTE-2123](../../../record/notes.d/NOTE-2123.md) | Rupe and Crutchfield 2018 — Local Causal States and Discrete Coherent Structures |  | Read |
+| [NOTE-2236](../../../record/notes.d/NOTE-2236.md) | Reddy, Levine and Dragan — First Contact, read for the record's account of learning occasioned by obstruction | An interface scored and trained by the mutual information between the user's command and the state change it induces, with no task knowledge. Read here for what the anthology's reading did not need: who supplies the assistance in the failing domain (a prior study's copilot), that a second assisted domain is the one the score does not predict, that user adaptation is assumed and not measured, and that no transfer or unassisted-skill test is run. | Read |

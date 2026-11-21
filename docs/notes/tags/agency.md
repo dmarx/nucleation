@@ -4,7 +4,7 @@
 
 **agency**.
 
-154 of 2235 NOTE documents. Back to the [full index](../README.md).
+155 of 2236 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -162,3 +162,4 @@
 | [NOTE-2191](../../../record/notes.d/NOTE-2191.md) | Tomasello — An agency-based model of executive and metacognitive regulation | Agency as tiered feedback control: executive regulation of action and attention, metacognitive regulation of the executive; four evolutionary grades; the same architectures in development, with joint agency at 9–12 months and collective agency at 3–4. Cognitive flexibility as coordinating perspectives learnt in shared agency. A conceptual essay. | Read |
 | [NOTE-2195](../../../record/notes.d/NOTE-2195.md) | Tomasello — Social cognition and metacognition in great apes: a theory | Apes understand others as agents (goals, perception, knowledge; beliefs unclear) and monitor their own uncertainty; theory: a metacognitive tier added to the mammalian executive tier, with self-monitored states attributed to others. Five predictions. A review with a theory. | Read |
 | [NOTE-2196](../../../record/notes.d/NOTE-2196.md) | Tomasello (interview) — What a Squirrel Knows That Language Models Skip (Michael Tomasello) | Tomasello's oral gloss on The Evolution of Agency and its consequences for AI: agency for unpredictability, control rather than complexity, learning as a subprocess, an executive tier machines lack, language models starting at the endpoint and making no conventions, building agents from coordination up; plus influences without determinism, markets not agents, lying parasitic on cooperation. | Read |
+| [NOTE-2236](../../../record/notes.d/NOTE-2236.md) | Reddy, Levine and Dragan — First Contact, read for the record's account of learning occasioned by obstruction | An interface scored and trained by the mutual information between the user's command and the state change it induces, with no task knowledge. Read here for what the anthology's reading did not need: who supplies the assistance in the failing domain (a prior study's copilot), that a second assisted domain is the one the score does not predict, that user adaptation is assumed and not measured, and that no transfer or unassisted-skill test is run. | Read |
