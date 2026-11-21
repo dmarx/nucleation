@@ -76,6 +76,8 @@ Every error was found by the record itself, most within days.
 
 `warrant` went to 315 claims in a day and would now go to 766. We repeat that observation rather than resolve it.
 
+The record has since filed a reason the question is hard, at the level of entries (CLAIM-768, Proposed). That an entry has stopped changing does not show what stopped it. Settling is the decay of its contracted features onto the record's convention, and retention is the start's value on what is copied exactly. The two are told apart only by retention against a reference fixed outside the record's later restatements, such as the owner's originating turn. The same holds of the grammar: a falling rate of change is what both settling and entrenchment predict. LEAD-201 (Open) proposes the measurement for entries. Its grammar-level analogue, retention of a change's original rationale against what later decisions say of it, is not yet proposed.
+
 ### 15.4 E5 and E6: who notices, and who judges
 
 **History of these expectations.** An earlier draft of this paper expected the work of noticing and proposing grammar changes to move steadily from the owner to assistants. The census falsified that expectation. E5 and E6 as stated in §7.3 were written after the census, to say what it shows. They are reported here as findings, not as confirmed predictions.

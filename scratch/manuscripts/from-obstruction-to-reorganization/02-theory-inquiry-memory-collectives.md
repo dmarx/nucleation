@@ -114,7 +114,15 @@ The digests behind this paper find four mechanisms in the record that hold a cha
 
 The predecessor manuscript built on the last of these. An argument's nucleation threshold is whatever makes a structure persist, and more complex structure can grow only on anchors (CLAIM-185, Proposed). What counts as the same claim persisting is fixed by an amendable decision, not discovered (CLAIM-195, Active). Recurrence can trigger anchoring: coding a thing the second time it turns up catches drift the first time it could occur (CLAIM-176, Proposed).
 
-An earlier draft of this paper read a stable code as CLAIM-635's exactly conserved observable, and offered that as the formal reason an address anchors. The reading does not hold, for three reasons. One argument restated is a point mass, which CLAIM-635 excludes. A conserved code keeps which item a chain started from, not its content. And anchoring by address works by consulting stored content, which takes the chain outside CLAIM-635's Markov hypothesis. The record holds an instance: a term's code kept exactly while its meaning changed (CLAIM-tmpj5aiv, filed on its own pull request). Why addresses anchor is therefore CLAIM-182's empirical claim, not a theorem.
+An earlier draft of this paper read a stable code as CLAIM-635's exactly conserved observable, and offered that as the formal reason an address anchors. As stated, the reading does not hold, for three reasons:
+
+- one argument restated is a point mass, which CLAIM-635 excludes;
+- a conserved code keeps which item a chain started from, not its content;
+- anchoring by address works by consulting stored content, which takes the chain outside CLAIM-635's Markov hypothesis.
+
+The record has since filed a narrower form that survives these reasons (2026-11-21, both Proposed). CLAIM-772 holds that forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly. A chain that contracts everywhere except on what it copies without error ends keeping exactly the start's value on that conserved part. The record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema. ARG-124 states the application. The conservation results carry over if a session's restatement of an entry is a Markov step and reading a coded entry verbatim copies its text exactly, which "holds for the text and not for its interpretation".
+
+What anchors, then, is not the code but the exact copying of the text that the code makes possible. The weak point is interpretation, which no verbatim read conserves. The record holds an instance of exactly that: a term's code and its text kept exactly while its meaning changed (CLAIM-tmpj5aiv, Proposed).
 
 **When an anchor is set (added 2026-11-21).** A descriptor holds the value an entry has when it is added, not the value it was filed with (CLAIM-tmp8v75o, part 5, Proposed): drift before the pin is kept, not undone. So when an anchor is set decides what it preserves, the origin if at filing and a drifted state if later, a formal reason for the record's habits of coding and quoting at filing.
 
@@ -124,6 +132,9 @@ An earlier draft of this paper read a stable code as CLAIM-635's exactly conserv
 - **Who pays.** When an agent with no memory files, capture and benefit fall to the same party, but "the disparity does not disappear. It moves": the owner now pays to read and correct (CLAIM-179, Proposed).
 - **When it pays.** Filing moves work across time and pays only when reuse covers it (CLAIM-303, Active). Where reuse cannot be forecast, a break-even rule is within a factor of two of the hindsight optimum (CLAIM-308, Active, demonstrated).
 - **Where two justifications part.** The cost rule and the drift-catching second-occurrence rule part when filing is dear. Every reconstruction paid for in between is unanchored drift that the competitive guarantee does not price (CLAIM-630, Proposed, demonstrated).
+- **Drift before coding, as a queue.** Suppose ideas arrive at rate λ, one first-come coder codes them at rate κ > λ, and each is restated once per unit of time while it waits. Then an idea's expected drift before it is coded is σ²/(κ − λ) in mean square for features copied with error, and grows without bound as arrival approaches the coding rate. Coding at a fixed occurrence caps it at that many restatements' worth (CLAIM-777, Proposed, demonstrated). This is CLAIM-186's "arrival against anchoring" made exact.
+- **Slowing is not anchoring, unless drift accrues by time.** Whether slowing an exchange, without anchoring anything, reduces drift as much as anchoring does turns on whether drift accrues per restatement or per unit of time. If per restatement, only anchoring bounds it (CLAIM-782, Proposed).
+- **The most original ideas are the most fragile.** The account predicts that the ideas lost soonest are those furthest from the collaborators' own framings. Contraction toward those framings carries a distant idea past the critical distance in a few restatements, and never carries a near one past it (CLAIM-776, Proposed). If so, the second-occurrence rule protects least what most needs protecting, since the most distant ideas may not survive to a second occurrence.
 
 ### 5.5 What a record of inquiry can secure
 

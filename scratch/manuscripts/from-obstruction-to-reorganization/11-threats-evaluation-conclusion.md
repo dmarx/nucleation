@@ -69,7 +69,17 @@ All three are scored on the same external benchmarks. If the revisable regime fi
 
 Measure the owner's own rate of noticing misfits over time, against the share noticed by procedures. CLAIM-675 says to judge support by the capabilities it leaves. CASE-262 (Proposed) is a design for this with learners: an assistant that does the hard step, against one that does only what the learner cannot yet do. Adapted, it would compare procedures that report candidate misfits with procedures that make the changes.
 
-### 19.6 Knowledge and action
+### 19.6 Drift, measured on the record's own history
+
+The formal account of drift filed on 2026-11-21 names three measurements the record's history allows:
+
+- **Ideas restated before they were coded (LEAD-204).** Trace them through the exchange history, to tell whether their drift saturates at the collaborators' framings, grows linearly, or has no direction. Also test whether the ideas furthest from those framings were lost first, as CLAIM-776 predicts.
+- **Revision against citation (LEAD-199).** Count how often each claim is substantively revised before and after it is first relied on.
+- **Retention of the originating turn (LEAD-201).** Measure, judged blind against a metric fixed in advance, how much of the owner's originating turn each settled claim retains. This separates exact copying from contraction onto convention (CLAIM-768).
+
+Together they would test the anchoring account of §5 on the record that motivated it, with one reference, the originating turns, fixed outside the record's later restatements.
+
+### 19.7 Knowledge and action
 
 Following CASE-166, score a record of inquiry on two outcomes separately: what its keepers know about the state of their argument, and what they decide. LEAD-155 (Open) gives a design for the first: file one corpus under two grammars and test whether the grammar changes later inquiry. LEAD-079 (Open) asks for the identity-not-structure finding of §5.2 to be replicated with another owner or assistant family.
 

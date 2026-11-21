@@ -15,6 +15,8 @@ A general theory of learning and inquiry, intended to apply to arbitrary systems
 
 **Status.** A working document under version control. It is not part of the record: luria does not read `scratch/`, and codes are cited bare. The ten principles (§7.1), the predicted cycle (§7.2), the mappings (§9) and the census are this draft's own integrations, not entries the record holds. Each step of Part I cites the entries it rests on, with their standing.
 
+**Brought up to date with the record of 2026-11-21.** The formal account of drift (CLAIM-772 with ARG-124, CLAIM-776, CLAIM-777, CLAIM-782, CLAIM-768) is in §§5.3, 5.4, 15.3 and 19.6. The budget tree (CLAIM-770) is in §2.3, and QUESTION-tmp6iu8e in §17.1. §5.3 now states the narrower form of the anchoring link the audit had struck.
+
 ## Files, in reading order
 
 | File | Sections |
