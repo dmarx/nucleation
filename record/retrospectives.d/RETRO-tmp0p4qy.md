@@ -39,10 +39,10 @@ discussions:
 - https://claude.ai/code/session_01Hcmtbu5GVkUyn672wCPeC7
 summary: >-
   The owner asked for a retrospective ("retro") at the end of the night of
-  2026-11-21, after RETRO-001 earlier the same night. It reads the four
+  2026-11-21, after [RETRO-001](RETRO-001.md) earlier the same night. It reads the four
   devlog entries filed since (034912, earmarked by the owner; 042208;
   065344; and the night's pull requests), answers the earmark as
-  ADR-tmpyzxw8 requires, and follows up RETRO-001's five recommendations.
+  [ADR-tmpyzxw8](../decisions.d/ADR-tmpyzxw8.md) requires, and follows up [RETRO-001](RETRO-001.md)'s five recommendations.
   Going right: staging removed stacking, the dialectic regime removed the
   permission handoff while the owner kept steering by interjection, the
   local reading of First Contact found what the anthology's did not, and a
@@ -58,36 +58,36 @@ summary: >-
 
 ## What it covers
 
-From RETRO-001 (about 00:30 UTC) to about 07:00 UTC on 2026-11-21: pull
+From [RETRO-001](RETRO-001.md) (about 00:30 UTC) to about 07:00 UTC on 2026-11-21: pull
 requests 564 to 580 in this record and 402 and 403 in luria. In order:
 
 - **Tooling.** The RETRO scheme (564); staging and the Promote workflow
   (565); the first promotion, by hand (566), which found that the back-merge
-  ran only after a Promote run (567, ADR-116 version 2); the promotion pull
-  request kept open by a workflow (577, ADR-tmpwi4rk); the nightly Promote
+  ran only after a Promote run (567, [ADR-116](../decisions.d/ADR-116.md) version 2); the promotion pull
+  request kept open by a workflow (577, [ADR-tmpwi4rk](../decisions.d/ADR-tmpwi4rk.md)); the nightly Promote
   moved to 03:45 Pacific (580).
 - **The argument.** Predicates as constraints and stabilization in the
   control-theoretic sense (568); engineering as a form of inquiry (572);
   First Contact related to the account of learning occasioned by
   obstruction, then read locally (575).
-- **Conventions.** Reframings in an entry's own prose (569, ADR-tmpd4rgx);
-  the dialectic regime (570, ADR-tmpzgon7) and what it grew: several
+- **Conventions.** Reframings in an entry's own prose (569, [ADR-tmpd4rgx](../decisions.d/ADR-tmpd4rgx.md));
+  the dialectic regime (570, [ADR-tmpzgon7](../decisions.d/ADR-tmpzgon7.md)) and what it grew: several
   readings filed as alternatives, a go-ahead covering the whole message and
   adopting the stated lean, reporting every filing, raising doubts in the
-  manner of crew resource management; the merge grant (573, ADR-tmpq5b9e);
-  earmarks (571, ADR-tmpyzxw8); the owner's rulings (578).
+  manner of crew resource management; the merge grant (573, [ADR-tmpq5b9e](../decisions.d/ADR-tmpq5b9e.md));
+  earmarks (571, [ADR-tmpyzxw8](../decisions.d/ADR-tmpyzxw8.md)); the owner's rulings (578).
 - **Upstream.** The hands-free regime as a luria decision (402); `luria new`
   refusing a title that cites a code (403).
 - **Review.** The adoption review (579, ADR-tmpvmzl6), whose first pass
-  adopted 34 decisions and left ADR-108 Proposed.
+  adopted 34 decisions and left [ADR-108](../decisions.d/ADR-108.md) Proposed.
 
 ## What went well, and why
 
-1. **Fitting the tooling to the work.** The owner's framing, after CLAIM-541
+1. **Fitting the tooling to the work.** The owner's framing, after [CLAIM-541](../claims.d/CLAIM-541.md)
    on wu wei: stacks of pull requests were fighting how the work was done.
    Staging ended them: from 567 onward nothing was stacked, eleven pull
    requests merged into staging in an hour, and the batch checked clean
-   together on #576. Keep: when a workaround recurs, change the tooling.
+   together on [#576](https://github.com/dmarx/nucleation/issues/576). Keep: when a workaround recurs, change the tooling.
 2. **The owner steered by interjection, not permission.** Once the regime
    was on, filings and merges went ahead with a report each turn, and the
    owner's turns went to the argument and to corrections: the pinned value
@@ -112,7 +112,7 @@ requests 564 to 580 in this record and 402 and 403 in luria. In order:
    keeps catching you is a bug report about the workflow, led to luria#403:
    `luria new` now refuses such a title.
 6. **Building found what review missed.** The first promotion showed the
-   back-merge gap that the reviewed specification allowed (CASE-tmpi16kb),
+   back-merge gap that the reviewed specification allowed ([CASE-tmpi16kb](../cases.d/CASE-tmpi16kb.md)),
    which became both a fix and an argument (engineering as inquiry).
 
 ## What did not go well
@@ -124,43 +124,43 @@ requests 564 to 580 in this record and 402 and 403 in luria. In order:
    filed the reversal as fast as anything else, and a reversal of one's own
    statement is where a check pays most.
 2. **A temporary code cited across pull requests.** Alternative decisions
-   in #571 cited the regime decision's temporary code while it was in #570,
-   and #571 went red. The rule (cut from staging once the cited unit has
+   in [#571](https://github.com/dmarx/nucleation/issues/571) cited the regime decision's temporary code while it was in [#570](https://github.com/dmarx/nucleation/issues/570),
+   and [#571](https://github.com/dmarx/nucleation/issues/571) went red. The rule (cut from staging once the cited unit has
    merged) was in CLAUDE.md; writing several related units quickly broke it.
 3. **Reporting had to be asked for.** The owner asked what was being filed,
    and whether engineering as inquiry had already been discussed. That
    became the rule that every filing turn ends with a Filed block.
-4. **A ruling missed.** The owner ruled by ticking two groups on #579's
+4. **A ruling missed.** The owner ruled by ticking two groups on [#579](https://github.com/dmarx/nucleation/issues/579)'s
    checklist. Editing a description sends no event, and the assistant read
    only the comment, then asked again (devlog note 065344).
-5. **The review point can still be bypassed.** #576 waits for the owner,
+5. **The review point can still be bypassed.** [#576](https://github.com/dmarx/nucleation/issues/576) waits for the owner,
    and the Promote run on main's old schedule, 10:37 UTC, would merge
    staging without that review. The move to 03:45 Pacific does not take
    effect until it reaches main.
-6. **Reader branches still cannot be deleted** on the remote, as RETRO-001
-   found; one more tonight. The owner left ADR-108 Proposed, on the fence.
+6. **Reader branches still cannot be deleted** on the remote, as [RETRO-001](RETRO-001.md)
+   found; one more tonight. The owner left [ADR-108](../decisions.d/ADR-108.md) Proposed, on the fence.
 7. **A template cited a code** a fresh record cannot resolve (luria#402),
    caught by its tests.
 
 ## The earmarked note
 
-**034912, earmarked by the owner on #570:** "this class of items should
+**034912, earmarked by the owner on [#570](https://github.com/dmarx/nucleation/issues/570):** "this class of items should
 probably have a referent so we can extend it later … a good example of
 noticing a distinction." What came of it: a practice kept on purpose.
-ADR-tmpzgon7 names the class (the argument schemes) rather than listing
+[ADR-tmpzgon7](../decisions.d/ADR-tmpzgon7.md) names the class (the argument schemes) rather than listing
 schemes, and the move recurred twice that night, in the descriptor and
 imposition distinction and in the tag-vocabulary case, where a closed list
 turns descriptions into impositions. Still open: no sweep has looked for
 other decisions that enumerate where they mean a class (recommendation 6).
 
-## RETRO-001's recommendations, followed up
+## [RETRO-001](RETRO-001.md)'s recommendations, followed up
 
 1. **Search before novelty** was followed: both the engineering and the
    First Contact filings searched the record first and cited what it held.
 2. **Read CI before stacking** is moot under staging; its cousin, citing
    another unit's temporary code, recurred (above, 2).
 3. **A cap on stack depth** is answered by staging, which removed stacks.
-4. **Reader notes without remote branches** was not acted on; ADR-108 stays
+4. **Reader notes without remote branches** was not acted on; [ADR-108](../decisions.d/ADR-108.md) stays
    Proposed.
 5. **A notice when a work member changes** was not acted on.
 
@@ -175,10 +175,10 @@ None is yet a decision; each would be filed as one.
 3. **Read every channel a ruling can come by**: comments, review states and
    the description's checklist. Done for the adoption review; generalize to
    any pull request that offers the owner a checklist.
-4. **Close the bypass.** Merge #576 before 10:37 UTC, or switch the schedule
+4. **Close the bypass.** Merge [#576](https://github.com/dmarx/nucleation/issues/576) before 10:37 UTC, or switch the schedule
    off for tonight; and decide whether the nightly Promote should merge
    without review at all now that a review point exists. For the owner.
-5. **Revise ADR-108**: reader notes in the scratchpad, or a branch deleted by
+5. **Revise [ADR-108](../decisions.d/ADR-108.md)**: reader notes in the scratchpad, or a branch deleted by
    the owner in batches. For the owner, who is on the fence.
 6. **A sweep for enumerations that mean a class**, the earmark's follow-up:
    decisions and skills that list schemes, fields or kinds where a named
