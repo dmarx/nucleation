@@ -40,7 +40,7 @@ line:
 - record-as-apparatus
 - nucleating-argument
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 answers:
 - QUESTION-037
 rests_on:

@@ -76,7 +76,7 @@ line:
 - nucleating-argument
 - records-of-inquiry
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 objects_to:
 - CLAIM-176
 - CLAIM-178

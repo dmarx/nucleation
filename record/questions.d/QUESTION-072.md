@@ -50,7 +50,7 @@ date: '2026-10-12'
 line:
 - record-as-apparatus
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 summary: >-
   Filed at the owner's request, ahead of its readings: Fricker's account of
   testimonial and hermeneutical injustice ([LIT-1004](../literature.d/LIT-1004.md)) is registered

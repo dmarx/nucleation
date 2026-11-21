@@ -31,7 +31,7 @@ complements:
 uses:
 - TERM-095
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 summary: >-
   The second reading of the owner's "engineering as a form of inquiry"
   (2026-11-21, under the dialectic regime): engineering as a method of

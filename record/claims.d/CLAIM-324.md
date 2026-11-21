@@ -29,7 +29,7 @@ tags:
 date: '2026-10-15'
 line: nucleating-argument
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 uses:
 - TERM-052
 summary: >-
