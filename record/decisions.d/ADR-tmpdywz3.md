@@ -25,7 +25,7 @@ summary: >-
 
 ## Context
 
-The promotion pull request (ADR-125) is the owner's review point. Its description holds the batch and the choices waiting on the owner, and the owner rules inline there, under each choice. On 2026-11-21 it had three writers:
+The promotion pull request ([ADR-125](ADR-125.md)) is the owner's review point. Its description holds the batch and the choices waiting on the owner, and the owner rules inline there, under each choice. On 2026-11-21 it had three writers:
 
 - the Promotion PR workflow, which writes the body once, when it opens the pull request, and never again;
 - this record's assistant in one session, adding choices as each unit merged;
