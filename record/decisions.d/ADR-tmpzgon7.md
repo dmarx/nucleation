@@ -133,9 +133,18 @@ was greenlighting everything in the previous comment". Two limits:
 - *One commit per turn,* titled with what that turn filed. "Revert that"
   then names the last turn's commit, and the revert is a `git revert`,
   never a rewrite of history.
-- *Reporting.* Each turn answers the substance first and then reports the
-  filing in a short block: the codes, a line on each, the pull request. The
-  report says what was filed, not what might be.
+- *Reporting, every time.* Reporting what is filed is part of the regime,
+  not a courtesy: the owner's review depends on it, and an unreported
+  filing is one the owner cannot revert. Every turn that files, merges or
+  opens anything answers the substance first and then ends with a block
+  headed **Filed**, which lists each entry created or changed (its code and
+  a line on what it says), each pull request opened, each merge, and each
+  change made outside this record, such as upstream, with the pull request
+  it is in. A turn that files nothing says so. A long turn whose filing
+  spans several steps reports each as it lands, and still ends with the
+  whole block. The report says what was filed, not what might be. The rule
+  is the owner's, 2026-11-21: "part of the convention needs to be
+  reporting to me what you are filing".
 - *Interjection.* "Revert that", "don't file that" or "reword it" is acted
   on in the next turn. Silence leaves a filing standing on the branch; it
   is still unmerged, and the owner's merge is the review.
