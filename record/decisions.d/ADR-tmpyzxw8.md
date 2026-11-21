@@ -93,4 +93,6 @@ where it is; the assistant may still file a note, tagged `retro` only.
 
 The owner's earmark on pull request 570, filed there as the devlog note of
 2026-11-21, 034912, on the class of entries the dialectic regime files. That
-note is tagged `earmarked` in pull request 570, citing this decision.
+note is tagged `earmarked` in pull request 570; it does not cite this
+decision, since the two are in separate pull requests until both reach
+staging.
