@@ -59,7 +59,7 @@ summary: >-
 
 ## What it covers
 
-From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "Rich Get Richer Power Laws" (27 owner turns, 43 visible assistant turns), to the sweep of the Rejected arguments at about 22:20. The devlog notes it reads are those of 2026-11-21 at 18:29:55 (asking instead of filing alternatives) and 21:27:15 (arguments titled with their conclusions), with the earlier note of 07:01:19 (resolving a conflict with `--ours`), whose lesson recurred. It also answers the owner's earmarked note of 22:30:41 (ADR-126), added after the review was first filed.
+From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "Rich Get Richer Power Laws" (27 owner turns, 43 visible assistant turns), to the sweep of the Rejected arguments at about 22:20. The devlog notes it reads are those of 2026-11-21 at 18:29:55 (asking instead of filing alternatives) and 21:27:15 (arguments titled with their conclusions), with the earlier note of 07:01:19 (resolving a conflict with `--ours`), whose lesson recurred. It also answers the owner's earmarked note of 22:30:41 ([ADR-126](../decisions.d/ADR-126.md)), added after the review was first filed.
 
 | Pull request | What it did |
 |---|---|
@@ -102,7 +102,7 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
   - they announced that delegated work had started, then reported its outcome in a closing "Filed" block;
   - the reasoning that decided what to file lived in drafters' briefs, commit messages and pull-request descriptions.
 
-  The rule, answer first and end with a Filed block (ADR-127), was met. But a Filed block is a receipt, not a conversation. The owner could follow the reasoning only through GitHub, "which isn't super convenient". Three of the four corrections above came when the owner happened to read the result, not when the reasoning was laid out in front of them. Laid out in time, they might have come before anything was filed.
+  The rule, answer first and end with a Filed block ([ADR-127](../decisions.d/ADR-127.md)), was met. But a Filed block is a receipt, not a conversation. The owner could follow the reasoning only through GitHub, "which isn't super convenient". Three of the four corrections above came when the owner happened to read the result, not when the reasoning was laid out in front of them. Laid out in time, they might have come before anything was filed.
 - **Mechanical slips CI caught:** LEADs in an account's `integrates` (red once); "about forty" gaps filled where the curation entry listed 54.
 
 ## Recommendations
@@ -115,7 +115,7 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
    - **Before or while filing**, the assistant says in the conversation what it is about to file and why: the readings it sees, which entry kind it chooses, its lean, and what it is leaving out. The Filed block then confirms what the owner has already seen proposed.
    - **When delegated work returns**, the assistant relays the substance of what was found and decided, not only the codes.
    - **At the close of each batch, or after a long stretch of filing**, it gives a short executive summary: what changed in the record's argument, what waits on the owner, and what it would do next.
-   - **The staging and promotion pull requests stay the place to intervene,** not the place to follow along. This is a change in how the dialectic regime is conducted, so a decision amending ADR-127's practice is the natural home once the owner rules on it.
+   - **The staging and promotion pull requests stay the place to intervene,** not the place to follow along. This is a change in how the dialectic regime is conducted, so a decision amending [ADR-127](../decisions.d/ADR-127.md)'s practice is the natural home once the owner rules on it.
 
 [ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md) (gap filling) waits on the owner's adoption and is not reviewed here beyond its first application, which went well. The four corrections in "What did not go well" each came from the owner; the separate readers caught everything else.
 
