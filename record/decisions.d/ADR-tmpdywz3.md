@@ -55,4 +55,4 @@ GitHub keeps one body, and the last write wins. At 08:08 the other session rewro
 
 - The first application is the open promotion pull request, 599. Its description is restructured into marked sections in the turn this decision is filed, with nothing removed.
 - CLAUDE.md's paragraph on working through staging, which says to add the choices waiting to the promotion pull request, gains a pointer to this decision.
-- Found in the first application: `updated_at` is not the check. Merging a pull request into staging moved #599's head and its `updated_at` with no change to the text, so the decision compares the text itself.
+- Found in the first application: `updated_at` is not the check. Merging a pull request into staging moved [#599](https://github.com/dmarx/nucleation/issues/599)'s head and its `updated_at` with no change to the text, so the decision compares the text itself.
