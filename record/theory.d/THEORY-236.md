@@ -117,4 +117,3 @@ record's, not a statement of the paper.
   and linear CKA are one family, differing in eigenvalue weighting
   (Eqs. 11–14). That result is held there, as the precursor of the
   readout account.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -91,9 +91,8 @@ summary: >-
   its model readings. The line's account is built over it. It adds
   nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-100 — Proposed; the split of organizational-normativity, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: SYNTHESIS-093 — Proposed; the organizational-normativity part account cited at version 2 -->
-<!-- inactive-ok-file: ADR-075 CLAIM-271 CLAIM-332 CLAIM-415 CLAIM-425 CLAIM-426 CLAIM-490 CLAIM-493 CLAIM-192 CLAIM-355 CLAIM-417 CLAIM-432 CLAIM-610 CLAIM-617 CLAIM-619 CLAIM-620 CLAIM-624 TERM-096 TERM-080 CASE-222 ARG-067 THEORY-131 THEORY-137 THEORY-139 THEORY-1111 THEORY-1114 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-271 CLAIM-332 CLAIM-415 CLAIM-425 CLAIM-426 CLAIM-490 CLAIM-493 CLAIM-192 CLAIM-355 CLAIM-417 CLAIM-432 CLAIM-610 CLAIM-617 CLAIM-619 CLAIM-620 CLAIM-624 TERM-096 TERM-080 CASE-222 ARG-067 THEORY-131 THEORY-137 THEORY-139 THEORY-1111 THEORY-1114 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CASE-007 — Superseded by CASE-025; integrated as a member of the part, and not relied on -->
 <!-- inactive-ok-file: CLAIM-278 SYNTHESIS-005 — Superseded; cited as named by members, or as the account that once listed a member -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; cited as the question set aside -->

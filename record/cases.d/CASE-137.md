@@ -42,7 +42,6 @@ reported_in:
 draws_on:
 - THEORY-060
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1368 LIT-1369 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-417 THEORY-060 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

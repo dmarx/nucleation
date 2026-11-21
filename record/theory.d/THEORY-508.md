@@ -33,7 +33,6 @@ summary: >-
 corroborates:
 - CLAIM-172
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 
 <!-- inactive-ok-file: LIT-524 — Unavailable: Nicolis & Prigogine 1977; cited only as the review's source for the far-from-equilibrium condition on oscillation -->
 

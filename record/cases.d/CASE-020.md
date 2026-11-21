@@ -32,7 +32,6 @@ summary: >-
 bears_on:
 - QUESTION-014
 ---
-<!-- inactive-ok-file: ADR-092 — Proposed; the decision whose relation the history note of 2026-11-11 applies -->
 
 # CASE-020: E3: the controlled inference harness, dry run only (C5)
 

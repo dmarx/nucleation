@@ -71,4 +71,3 @@ The record's own check agrees. U, P and L\* are stated on individual orderings a
 
 - [LIT-289](../literature.d/LIT-289.md) (Sen 1979) cites this result for the claim that libertarian non-utility information may require rejecting Pareto (p. 212).
 - [THEORY-025](THEORY-025.md), on conversion and adaptation, takes up the other half of Sen's 1998 lecture: once comparisons are admitted, "comparison of what?".
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -62,7 +62,6 @@ summary: >-
 draws_on:
 - THEORY-1090
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1660 — Unavailable; the work whose term the definition borrows, unread -->
 
 # TERM-090: effective boundary constraint, of a composite: the relation its interconnected parts impose on the variables an outside system can reach, once the interior is eliminated; approximately instantaneous or history-dependent, and, independently, possibly of a kind the parts' relations could not state

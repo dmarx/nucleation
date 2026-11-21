@@ -44,7 +44,6 @@ rivals:
 draws_on:
 - THEORY-801
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-104 — Deferred; the authenticity line's claim, cited for how it already makes agency level-relative, not leaned on -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-174 — Proposed; the criteria this term is defined by, open -->
 <!-- inactive-ok-file: CLAIM-155 CLAIM-170 TERM-063 THEORY-071 THEORY-583 THEORY-801 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->

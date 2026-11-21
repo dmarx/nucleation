@@ -35,7 +35,6 @@ summary: >-
 bears_on:
 - QUESTION-452
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 
 # THEORY-1265: Approximating a chemical master equation by a Fokker–Planck or nonlinear Langevin equation gets the quasi-potential right only at the fixed points: between them it mis-estimates the barriers, so escape rates come out wrong by a factor exponential in system size and the approximation can pick the wrong one of two states as the long-run favourite, and its apparent entropy production vanishes at every steady state, missing the dissipation that sustains it
 

@@ -41,7 +41,6 @@ draws_on:
 - THEORY-156
 ---
 <!-- inactive-ok-file: CASE-296 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as claims this case bears on, not as settled -->
 <!-- inactive-ok-file: LIT-677 THEORY-182 — Proposed; cited as readings the record already held that bear on the case -->
 

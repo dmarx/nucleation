@@ -92,7 +92,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-745 CASE-289 CLAIM-741 CASE-283 CLAIM-743 CLAIM-720 CASE-286 CLAIM-735 CLAIM-729 CASE-282 — components, filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17, new and Proposed or Open -->
 <!-- inactive-ok-file: ARG-117 — filed with the readings of 2026-11-18, Proposed; a component at version 2 -->
 <!-- inactive-ok-file: CLAIM-722 CLAIM-747 CLAIM-719 SYNTHESIS-104 — filed on 2026-11-17, new and Proposed; citations, and the sibling part account -->
-<!-- inactive-ok-file: CLAIM-624 CLAIM-690 TERM-083 ADR-075 SYNTHESIS-094 ARG-063 — Proposed; citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-624 CLAIM-690 TERM-083 SYNTHESIS-094 ARG-063 — Proposed; citations, with their standing -->
 <!-- inactive-ok-file: THEORY-1984 THEORY-1975 THEORY-1952 THEORY-1967 THEORY-1959 THEORY-1962 THEORY-1964 THEORY-1994 THEORY-1954 THEORY-1992 THEORY-1970 THEORY-1957 THEORY-1965 THEORY-1988 THEORY-1977 THEORY-1971 — the readings of 2026-11-18, Proposed; cited as the support each component has -->
 <!-- inactive-ok-file: NOTE-2077 — Skimmed; the reading of Locke -->
 <!-- inactive-ok-file: LIT-2756 LIT-2721 — Unavailable; the works two readings stand in for -->

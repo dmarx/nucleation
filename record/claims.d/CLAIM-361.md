@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpq80iq
 title: 'Relief of an organization''s frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,12 @@ history:
     CLAIM-287 and CASE-115 are Active. No objection is on file;
     branching correspondence is QUESTION-123, which the defeat
     condition excludes. The claim is unchanged.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    A dated note: the local reading of First Contact (NOTE-tmp7qgd8)
+    supports the citation in 'The converse error' and corrects its
+    attribution. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -61,6 +67,7 @@ complements:
 - CLAIM-550
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpspx4i THEORY-tmp3tb8i — Proposed; the dated note of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-232 — Proposed; Watson's comparison, cited as the half of the principle that is his and as corroboration, not leaned on -->
 
 # CLAIM-361: Relief of an organization's frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands
@@ -223,3 +230,14 @@ formal content; it gives no organization-level before/after data.
 From the reading in [NOTE-1741](../notes.d/NOTE-1741.md) ([LIT-2344](../literature.d/LIT-2344.md)), the reader's assessment as
 checked by the filer: CBS's protected class and covariates are such a fixed
 reference set; the paper does not discuss how it is chosen.
+
+## Note of 2026-11-21: Reddy, Levine and Dragan, read
+
+Supports the citation under "The converse error", now from the record's own
+reading ([NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md), [THEORY-tmp3tb8i](../theory.d/THEORY-tmp3tb8i.md)) and not only the anthology's. One
+refinement: the assistant whose overrides scored as suppression is the
+copilot of a prior study, Shared Autonomy via Deep RL, whose logged data
+First Contact re-scores; First Contact trains no assistant there. The
+horizon at which the proxy turns positive is near the episode's maximum
+length (Fig. 2d). [CLAIM-tmpspx4i](CLAIM-tmpspx4i.md) reads that horizon as a level of a rate
+hierarchy.

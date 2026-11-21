@@ -42,7 +42,7 @@ integrates:
 - QUESTION-238
 - QUESTION-308
 ---
-<!-- inactive-ok-file: ADR-075 CASE-166 SYNTHESIS-015 SYNTHESIS-039 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CASE-166 SYNTHESIS-015 SYNTHESIS-039 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-306 — Superseded; components and citations, with their standing -->
 
 # SYNTHESIS-057: What a system can deploy before a deadline is not what it has or knows it has: a search that fails by the deadline shows that the item is unavailable and shows absence only with a certificate about the unsearched remainder, retrieval and evidence pull in opposite directions when a category is carved, sortings that never conflict as descriptions conflict as arrangements only when each item is stored once, and whether leaving results where they can be read back is one trade with amortized computation stays open

@@ -23,7 +23,7 @@ integrates:
 - CLAIM-400
 - CLAIM-346
 ---
-<!-- inactive-ok-file: ADR-075 SYNTHESIS-050 SYNTHESIS-051 — Proposed; components, decisions and accounts cited with their standing -->
+<!-- inactive-ok-file: SYNTHESIS-050 SYNTHESIS-051 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: QUESTION-239 QUESTION-253 — Answered; cited with its standing -->
 <!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 

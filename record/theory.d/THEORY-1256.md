@@ -33,7 +33,6 @@ summary: >-
 bears_on:
 - QUESTION-467
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 
 # THEORY-1256: When a conservative experiment is safe under every plausible model, can be repeated from a common state and keeps informing, a controller that acts on the lower end of an anytime confidence sequence stays safe with probability 1 − δ and approaches the safe oracle, at O(√(T log T)) regret in a braking example; a certainty-equivalent controller in the same example is unsafe with probability ½ in every episode however much data it has
 

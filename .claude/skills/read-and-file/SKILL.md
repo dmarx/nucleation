@@ -1,16 +1,8 @@
 ---
-<!-- inactive-ok-file: ADR-102 — Proposed; two further kinds of lawful copy, the owner's ruling of 2026-11-18 -->
-<!-- inactive-ok-file: ADR-114 — Proposed; stand-ins and supplements as entries of their own, the owner's ruling of 2026-11-20 -->
-<!-- inactive-ok-file: ADR-113 — Proposed; course-hosted copies, whole books included, the owner's ruling of 2026-11-20 -->
 name: read-and-file
 description: How this record takes in reading. Use it to file an exchange, a pasted synthesis, an upload or a single work; to check whether something is "already on the record"; or to read registered works and file the readings. ADR-068 holds the invariants; this file holds the steps.
 ---
 <!-- .claude/skills/read-and-file/SKILL.md -->
-<!-- inactive-ok-file: ADR-068 — Proposed; the decision this skill carries out, until the owner adopts it -->
-<!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit, step 9b, until the owner adopts it -->
-<!-- inactive-ok-file: ADR-084 ADR-083 — Proposed; what a SYNTHESIS is and coverage, step 9b, until the owner adopts them -->
-<!-- inactive-ok-file: ADR-093 ADR-094 ADR-095 — Proposed; readings named as evidence, until the owner adopts it -->
-<!-- inactive-ok-file: ADR-101 — Proposed; documented machine interfaces as a reading route, until the owner adopts it -->
 
 # Reading and filing
 

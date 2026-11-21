@@ -58,7 +58,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-680 — Proposed; cited with its standing -->
 <!-- inactive-ok-file: THEORY-1853 THEORY-1843 ARG-108 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; the authenticity line's question of avowal, cited for the boundary -->
-<!-- inactive-ok-file: ADR-099 — Proposed; the decision that adds the line -->
 
 # CLAIM-689: Whether a desire was formed by social influence and whether its object is worth desiring are separate questions; since every preference is socially formed, a critique of produced wants cannot rest on their social origin as such, and can ask instead whether satisfying them engages people with anything worthwhile
 

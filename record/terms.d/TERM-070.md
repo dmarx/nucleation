@@ -38,7 +38,6 @@ draws_on:
 - THEORY-071
 - THEORY-072
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and the agency reading that use this sense, cited as open -->
 
 # TERM-070: organizational closure, as closure of constraints: a set of constraints each of which depends directly on another in the set and has another depending on it (Montévil and Mossio 2015), distinct from informational closure and from a flame's maintenance of the conditions of its own combustion

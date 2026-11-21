@@ -63,7 +63,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-685 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-253 CLAIM-665 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit under which this claim was admitted -->
 <!-- inactive-ok-file: ARG-098 THEORY-1733 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-667: Governance raises the value of a modifiable schema on tasks whose inherited categories are inadequate: with review, rationale and migration, letting a collective change its schema improves justified correction more than it does without them

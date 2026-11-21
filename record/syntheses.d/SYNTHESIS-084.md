@@ -24,7 +24,7 @@ integrates:
 - QUESTION-232
 ---
 <!-- inactive-ok-file: ADR-047 — Superseded; cited with its standing -->
-<!-- inactive-ok-file: ADR-075 SYNTHESIS-075 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: SYNTHESIS-075 — Proposed; cited with its standing -->
 
 # SYNTHESIS-084: Whether a criterion on a coarse-graining picks out the variables renormalization keeps is open in three settings: on a lattice slab the information bottleneck's first transition is the bifurcation, and its first feature the leading transfer-matrix mode, only under some further condition; inside Kadanoff's kernel families it is unsettled whether the exact trace condition keeps the relevant operators; and the coarse-graining that maximizes mutual information beyond a buffer has so far found only variables already known
 

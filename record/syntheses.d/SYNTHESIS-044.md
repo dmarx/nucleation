@@ -61,7 +61,7 @@ summary: >-
   co-satisfaction within recognizable tolerances. The account adds nothing
   of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-083 ADR-084 CASE-192 CASE-195 CLAIM-364 CLAIM-417 CLAIM-437 CLAIM-440 CLAIM-442 CLAIM-447 CLAIM-484 CLAIM-500 CLAIM-527 CLAIM-553 CLAIM-555 CLAIM-628 CLAIM-631 SYNTHESIS-020 TERM-079 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CASE-192 CASE-195 CLAIM-364 CLAIM-417 CLAIM-437 CLAIM-440 CLAIM-442 CLAIM-447 CLAIM-484 CLAIM-500 CLAIM-527 CLAIM-553 CLAIM-555 CLAIM-628 CLAIM-631 SYNTHESIS-020 TERM-079 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-049 — Rejected; components and citations, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-008 — Superseded; components and citations, with their standing (the syntheses among them carry content returned to claims, ADR-084) -->
 

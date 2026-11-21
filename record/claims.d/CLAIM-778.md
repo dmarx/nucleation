@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpvm90n
 title: 'An entry''s local degrees of freedom are the features a restatement copies with error, neither pulled onto a convention nor copied exactly, and over its life cycle they are moved out of that part: the schema puts its form in the contracting part at filing, and its code, its verbatim reading and the relations that accrue on it put its content in the conserved part, so the revisions it can still take narrow like an inductive prior; an entry that has slowed works as a constraint on faster ones, and what narrows is its text, while its identity stays open to change by status'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -22,6 +22,13 @@ history:
     away from independence, and an entry that has slowed works as a
     constraint on faster ones; what narrows is its text, while its
     identity stays open to change by status".
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    A dated note: CLAIM-tmpj4fzn restates the narrowing as the accrual of
+    predicates, each a constraint, and CLAIM-tmp8v75o models it, so the
+    inductive prior here is no longer only an analogy. No change of status
+    or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -63,6 +70,7 @@ grounds:
 uses:
 - TERM-132
 ---
+<!-- inactive-ok-file: CLAIM-tmpj4fzn CLAIM-tmp8v75o TERM-tmp7m4at — Proposed; filed on 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 CLAIM-191 CLAIM-114 — Proposed; open, cited for what each holds -->
 <!-- inactive-ok-file: CLAIM-768 CLAIM-772 CLAIM-779 TERM-132 — Proposed; filed in this contribution of 2026-11-20 -->
 
@@ -149,8 +157,34 @@ not by drift.
   convention, mechanism, guarantee) is the same hardening applied to the
   record's norms rather than its entries.
 
+## Reframings
+<!-- inactive-ok-file: ADR-tmpd4rgx — Proposed; the decision this section follows, 2026-11-21 -->
+
+**2026-11-20, the owner at U5 of the session ([ADR-tmpd4rgx](../decisions.d/ADR-tmpd4rgx.md)).** The same turn
+that reframed [CLAIM-772](CLAIM-772.md). Before: an entry's degrees of freedom narrowed "as
+constraints accumulate on it", after Juarrero's two kinds of constraint
+([THEORY-1335](../theory.d/THEORY-1335.md)). After: its free features are the ones a restatement copies
+with error, and the life cycle moves them into the contracting or the
+conserved part. It changed the account and the title, in version 2;
+Juarrero, the rate argument and identity by status were kept.
+
 ## Tests
 
 [LEAD-199](../leads.d/LEAD-199.md) counts revisions against inbound references (defeater (a));
 [LEAD-201](../leads.d/LEAD-201.md) measures retention against the originating turn (defeater
 (b)).
+
+## Note of 2026-11-21: the narrowing as accrued predicates
+
+At the owner's reframe, that adding predicates to an entry is adding
+constraints, [CLAIM-tmpj4fzn](CLAIM-tmpj4fzn.md) restates this claim's narrowing by what an entry
+says about itself rather than by what restatement copies: each predicate
+filed on it ([TERM-tmp7m4at](../terms.d/TERM-tmp7m4at.md)) is a test its later versions must pass, and the
+revisions open to it are the intersection of what passes. [CLAIM-tmp8v75o](CLAIM-tmp8v75o.md)
+models that, with soft and hard predicates as one penalty at different
+strengths. So the caveat under "What it does not say", that the inductive prior is an analogy and
+that a prior is soft while lint is hard, is answered in that model: the
+prior is the intersection weighted by enforcement, and lint is its hard
+limit. Version 1's wording, "as constraints accumulate on it", is restored in
+substance there. Nothing here changes.
+

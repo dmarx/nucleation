@@ -31,7 +31,6 @@ draws_on:
 - THEORY-067
 - THEORY-070
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection to the term's name -->
 <!-- inactive-ok-file: THEORY-062 THEORY-067 THEORY-070 — Proposed; the readings the term is distinguished from -->
 

@@ -51,7 +51,6 @@ summary: >-
   real case does. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-690 TERM-123 TERM-124 — filed with this case, Proposed -->
 <!-- inactive-ok-file: CLAIM-671 CLAIM-428 CLAIM-603 CASE-256 CASE-257 TERM-083 — Proposed; the record's entries this case is built against, cited with their standing -->
 

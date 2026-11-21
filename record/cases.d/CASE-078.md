@@ -41,7 +41,6 @@ draws_on:
 - THEORY-214
 - THEORY-218
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-274 — Proposed or Open; claims, questions and readings the study would test, cited as open -->
 
 # CASE-078: Who keeps placing on r/place: the proposed survival analysis of the released placement logs, testing whether participants return while their art survives and whether unaffiliated placement cools

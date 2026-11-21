@@ -27,7 +27,7 @@ integrates:
 - CLAIM-270
 - CLAIM-635
 ---
-<!-- inactive-ok-file: ADR-075 CLAIM-068 CLAIM-189 CLAIM-191 SYNTHESIS-060 — Proposed; components, decisions and accounts cited with their standing -->
+<!-- inactive-ok-file: CLAIM-068 CLAIM-189 CLAIM-191 SYNTHESIS-060 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: CLAIM-015 — Superseded; cited as the entry of its time -->
 <!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 

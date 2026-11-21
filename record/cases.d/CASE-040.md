@@ -34,7 +34,6 @@ summary: >-
 draws_on:
 - THEORY-175
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-129 CLAIM-127 — Proposed; open, and cited as claims and a reading the case bears on, not as settled -->
 
 # CASE-040: Topic and act crossed: a factorial design that decorrelates what a text is about from what it does

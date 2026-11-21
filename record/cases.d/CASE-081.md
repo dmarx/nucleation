@@ -30,7 +30,6 @@ summary: >-
 draws_on:
 - THEORY-071
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-081: Self-maintenance learned for a designer's reward: a system that maintains itself because it was trained to, and later revises the policy and keeps maintaining itself without further instruction

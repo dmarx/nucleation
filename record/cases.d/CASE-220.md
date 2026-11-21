@@ -39,7 +39,6 @@ summary: >-
 draws_on:
 - THEORY-1398
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CASE-219 CLAIM-185 CLAIM-184 — Proposed; the study it varies and the entries it would test -->
 
 # CASE-220: A proposed factorial assembly study: two scaffold routings of one target crossed with uniform or targeted early stabilization, at fixed geometry and component stock, measured by the committor of partial structures, so that a productive nucleus is one whose formation raises the chance of completion before failure and a trap one that lowers it

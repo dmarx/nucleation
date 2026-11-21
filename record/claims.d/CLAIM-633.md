@@ -51,7 +51,7 @@ summary: >-
   up to symmetry. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-075 CLAIM-263 — Proposed; components, citations and the decisions this account follows, with their standing -->
+<!-- inactive-ok-file: CLAIM-263 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
 # CLAIM-633: In the two-path construction where a resource budget below √2 disconnects two zero-loss realizations, the two lie on one orbit of the symmetry that swaps the network's two paths, and for every budget from 1 to below √2 the budgeted zero-loss set is two path-connected pieces that the swap exchanges, so once that symmetry is quotiented the budgeted set is connected: the construction shows connectedness relative to the admitted paths in parameter space, not between solutions counted up to the architecture's symmetries
 

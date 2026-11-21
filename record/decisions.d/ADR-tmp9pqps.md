@@ -1,0 +1,81 @@
+---
+status: Rejected
+title: 'While the dialectic regime is on, the assistant merges any pull request into staging, its own, another session''s or the owner''s, when it judges it ready, green and without conflict; the owner reviews at the promotion from staging to main, which stays theirs'
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's ruling of 2026-11-21, choosing among the alternative
+    readings filed for one request: "573-narrow" chose ADR-tmpq5b9e. Pull
+    requests from other sessions or the owner still wait for the owner to
+    merge into staging.
+tags:
+- record
+- process
+date: '2026-11-21'
+summary: >-
+  The owner's grant of 2026-11-21, read as covering any pull request into
+  staging. The alternative to [ADR-tmpq5b9e](ADR-tmpq5b9e.md), which reads it as the assistant's own.
+---
+<!-- inactive-ok-file: ADR-tmpzgon7 ADR-116 — Proposed; the regime this changes, the staging decision, and the two readings of the owner's grant -->
+
+# ADR-tmp9pqps: While the dialectic regime is on, the assistant merges any pull request into staging, its own, another session's or the owner's, when it judges it ready, green and without conflict; the owner reviews at the promotion from staging to main, which stays theirs
+
+## Context
+
+The dialectic regime ([ADR-tmpzgon7](ADR-tmpzgon7.md)) left merges into staging and into main
+to the owner. The owner, 2026-11-21, with the regime on: "make this one a separate ADR for sure: when `dialectic on`, you have the greenlight to merge into staging as you see fit. my primary intervention point will be the staging->main merge."
+
+Staging exists so that work can land without reaching main ([ADR-116](ADR-116.md)): a
+promotion, by the owner or the Promote workflow, is what carries it on, and
+Promote lints the merged tree before it pushes. So the owner's review can sit
+at that one point instead of at every pull request into staging. Waiting for
+the owner to merge each pull request into staging had become the regime's
+remaining handoff: on the night of 2026-11-21 six pull requests stood green
+and unmerged while the exchange went on.
+
+"As you see fit" has two readings, filed as alternative decisions under the
+regime's rule for several readings: [ADR-tmpq5b9e](ADR-tmpq5b9e.md), the pull requests the assistant
+opened; ADR-tmp9pqps, any pull request into staging. The owner chooses.
+
+## Decision
+
+While the regime is on, the assistant merges into staging any pull request
+into staging, whoever opened it, when it judges it ready:
+
+- **When.** Its `docs-check` has passed on the commit the latest repair
+  followed, the repair itself is the head, and it merges without conflict.
+  A pull request that cites another's temporary codes waits for that one to
+  merge first, so the merged tree resolves.
+- **How.** A merge commit, never a squash or a rebase, so each filing
+  stays a commit a revert can name.
+- **Not a status change.** Merging a decision or a claim into staging leaves
+  it Proposed. Statuses stay the owner's.
+- **Reported.** Each merge is named in the turn's report, with what it
+  carried.
+- **Main stays the owner's.** Merging into main remains the owner's or the
+  Promote workflow's ([ADR-116](ADR-116.md)); the owner's primary intervention point is
+  the staging-to-main merge.
+- **The regime only.** With the regime off, merges into staging wait for the
+  owner as before.
+- **Others' work read first.** For a pull request it did not open, the
+  assistant reads the diff and the description before merging, and leaves
+  one whose description asks for the owner's word, such as a ruling, for
+  the owner.
+
+## Alternatives considered
+
+- **[ADR-tmpq5b9e](ADR-tmpq5b9e.md)**, the narrower reading: only the assistant's own pull requests.
+- **Status quo.**
+
+## Consequences
+
+- Other sessions' pull requests into staging stop waiting on the owner too.
+- The assistant merges work it did not write, which it reads first but did
+  not make; the promotion is the owner's review of it.
+
+## First application
+
+As for [ADR-tmpq5b9e](ADR-tmpq5b9e.md): pull requests 567 to 570, all the assistant's own; no other
+session's pull request into staging was open.

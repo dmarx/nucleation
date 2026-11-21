@@ -76,7 +76,6 @@ summary: >-
   Unavailable. Interpretive. The wording is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: THEORY-1843 THEORY-1844 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange "About Plantation Paradise" (2026-11-12), Proposed -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-603 CLAIM-428 — Proposed; the claims this one sets beside, cited with their standing -->

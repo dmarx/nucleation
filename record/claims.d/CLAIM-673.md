@@ -76,7 +76,6 @@ summary: >-
   condition. Filed on 2026-11-13 from the items the first filing left. The
   wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed; the record's account of dependency against division of labour, cited with its standing -->
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 

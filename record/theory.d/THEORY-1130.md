@@ -34,7 +34,7 @@ summary: >-
 corroborates:
 - CLAIM-645
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 CLAIM-645 — Proposed; the decisions and the claim named in the reading review's history note of 2026-11-14 -->
+<!-- inactive-ok-file: CLAIM-645 — Proposed; the decisions and the claim named in the reading review's history note of 2026-11-14 -->
 
 # THEORY-1130: The Gromov–Wasserstein distance, half the least Lp distortion of a coupling, is a pseudometric on all networks with a probability measure on the nodes and any bounded edge weights, symmetric or not, and it is zero exactly when the two networks are weakly isomorphic, images of one network under maps that preserve weights and measures; so it compares only what the weight function and node measure record
 

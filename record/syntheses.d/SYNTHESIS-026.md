@@ -56,7 +56,7 @@ bears_on:
 - QUESTION-122
 - QUESTION-127
 ---
-<!-- inactive-ok-file: ADR-083 CASE-193 CLAIM-170 CLAIM-174 CLAIM-187 CLAIM-263 CLAIM-367 CLAIM-555 — Proposed; components, citations and the decisions this account follows, with their standing -->
+<!-- inactive-ok-file: CASE-193 CLAIM-170 CLAIM-174 CLAIM-187 CLAIM-263 CLAIM-367 CLAIM-555 — Proposed; components, citations and the decisions this account follows, with their standing -->
 <!-- inactive-ok-file: QUESTION-286 — Answered; components and citations, with their standing -->
 
 # SYNTHESIS-026: Whether a learner's demands share a descent direction is decided by a test that a change of chart, or a function-preserving symmetry that is a diffeomorphism, leaves unchanged, while gradient cosines and a residual budgeted in a fixed Euclidean norm can change; the compatibility complex of the demands and the singular geometry of learning are invariants of one object; and in conventional training the demands, and any condition they put the learner in, belong to the optimizer–model–data system rather than to the network
