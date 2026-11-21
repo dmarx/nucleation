@@ -26,7 +26,6 @@ summary: >-
   assistant leans to [ADR-tmp44npm](ADR-tmp44npm.md). The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmp44npm — Proposed, Rejected or new; the alternative and the case that raised them -->
 
 # ADR-tmpcjfyy: An argument's title states the record's verdict on its route, and a route the record finds fails is an Active argument titled that its grounds do not show its conclusion
 

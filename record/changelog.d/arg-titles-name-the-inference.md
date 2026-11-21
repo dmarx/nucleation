@@ -9,4 +9,4 @@
 
 ### Decided
 
-- ADR-tmp44npm is Active and ADR-tmpcjfyy Rejected, at the owner's ruling ("go with your lean"). The `read-and-file` skill's step 9 gains the rule. CLAIM-tmpewm5i states, as a claim of its own, the finding that ARG-tmp09yqc used to reject a route: decay of correlation is not weak interaction. TERM-tmpol232 and the note on SYNTHESIS-054, which build on that finding, now cite the claim.
+- [ADR-tmp44npm](record/decisions.d/ADR-tmp44npm.md) is Active and [ADR-tmpcjfyy](record/decisions.d/ADR-tmpcjfyy.md) Rejected, at the owner's ruling ("go with your lean"). The `read-and-file` skill's step 9 gains the rule. [CLAIM-tmpewm5i](record/claims.d/CLAIM-tmpewm5i.md) states, as a claim of its own, the finding that [ARG-tmp09yqc](record/arguments.d/ARG-tmp09yqc.md) used to reject a route: decay of correlation is not weak interaction. [TERM-tmpol232](record/terms.d/TERM-tmpol232.md) and the note on [SYNTHESIS-054](record/syntheses.d/SYNTHESIS-054.md), which build on that finding, now cite the claim.

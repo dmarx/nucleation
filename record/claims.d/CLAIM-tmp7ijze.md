@@ -34,7 +34,7 @@ summary: >-
   The idea is the owner's; the candidate routes are the assistant's
   (Claude, in this session); adopting either is the owner's call.
 ---
-<!-- inactive-ok-file: ARG-tmpmvc5e ARG-tmpv3nqz CLAIM-tmpcgvcp CLAIM-tmpcg4uu CLAIM-tmpj0k4q ADR-tmp44npm TERM-tmptiim0 TERM-tmp5z2du — Proposed, Rejected or new; filed 2026-11-21 -->
+<!-- inactive-ok-file: ARG-tmpmvc5e ARG-tmpv3nqz CLAIM-tmpcgvcp CLAIM-tmpcg4uu CLAIM-tmpj0k4q TERM-tmptiim0 TERM-tmp5z2du — Proposed, Rejected or new; filed 2026-11-21 -->
 
 # CLAIM-tmp7ijze: Sloppy-model behaviour, behavioural complexity set by a few combinations of many parameters, probably does carry over to overparameterized neural networks, by a route other than the analogy from regular Fisher spectra
 

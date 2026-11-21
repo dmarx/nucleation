@@ -43,7 +43,7 @@ summary: >-
   condition (ADR-tmp44npm). The finding that rejects it is held as
   CLAIM-tmpewm5i.
 ---
-<!-- inactive-ok-file: CLAIM-tmpewm5i ADR-tmp44npm — Proposed; filed 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpewm5i — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-626 CLAIM-tmpjbee7 — Proposed, held or filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # ARG-tmp09yqc: Simon's near-decomposability, read through a finite correlation length, shows that a system off criticality divides into approximately autonomous levels of description

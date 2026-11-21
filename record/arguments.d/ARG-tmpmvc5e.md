@@ -42,7 +42,7 @@ summary: >-
   over by another route; this argument rejects only the analogy from
   regular Fisher spectra (ADR-tmp44npm).
 ---
-<!-- inactive-ok-file: ADR-tmp44npm CLAIM-tmp7ijze — Proposed; filed 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmp7ijze — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpficzj CLAIM-tmpcgvcp CLAIM-tmpcg4uu ARG-tmpj0r42 THEORY-777 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Proposed reading the record already held -->
 <!-- inactive-ok-file: ARG-tmpv3nqz LIT-tmp0z602 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 

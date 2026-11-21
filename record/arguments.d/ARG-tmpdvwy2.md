@@ -36,7 +36,6 @@ summary: >-
   tmpcg4uu's reading, Proposed and untouched by this verdict, which says
   only that the calibration does not decide it (ADR-tmp44npm).
 ---
-<!-- inactive-ok-file: ADR-tmp44npm — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpcg4uu THEORY-tmpousrw — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # ARG-tmpdvwy2: Lau and colleagues' calibration of the local learning coefficient estimator in deep linear networks supports the reading that an estimate at finite sample size counts unresolved sloppy directions as flat

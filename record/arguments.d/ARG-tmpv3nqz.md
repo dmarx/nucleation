@@ -41,7 +41,7 @@ summary: >-
   CLAIM-tmp7ijze (Proposed); this argument rejects only the step from
   two small, regular cases to overparameterized networks (ADR-tmp44npm).
 ---
-<!-- inactive-ok-file: ADR-tmp44npm CLAIM-tmp7ijze — Proposed; filed 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmp7ijze — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: ARG-tmpmvc5e CLAIM-tmpficzj THEORY-tmpd7a4j THEORY-tmpgsgka — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # ARG-tmpv3nqz: The hyper-ribbon's originators' applications to a small tanh network and to an autoencoder's code show that parameter and behavioural complexity come apart in overparameterized neural networks
