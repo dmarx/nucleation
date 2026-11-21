@@ -93,7 +93,7 @@ of the P_p, which maps every point into A.
    passes, and what the dimension then carries depends on where p's value
    came from. If it is a value c the schema sets for every entry, the
    dimension reads c for every entry and carries nothing of this one: the
-   contracting part, at the convention, the forgetting case of CLAIM-772.
+   contracting part, at the convention, the forgetting case of [CLAIM-772](CLAIM-772.md).
    If it is the entry's source's value, as when a misquote is corrected to
    the source's wording, the move restores what had drifted and the
    dimension again carries the entry's own information: the anchoring
