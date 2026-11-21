@@ -46,7 +46,7 @@ summary: >-
   docs-check a third time; and no devlog note was filed as the work went.
   Six recommendations, none yet a decision.
 ---
-<!-- inactive-ok-file: ADR-127 ADR-115 — Proposed; the decisions this reviews -->
+<!-- inactive-ok-file: ADR-115 — Proposed; the decisions this reviews -->
 <!-- inactive-ok-file: CLAIM-790 CLAIM-793 CLAIM-789 — Proposed; filed in pull request 583, cited for what they hold -->
 
 # RETRO-006: The manuscript "From Obstruction to Reorganization", the filing of its principles and census, and the exchange on anchoring, 2026-11-20 to 21: what went right was independent readers checking the drafter and the owner widening a frame, and what went wrong was a drafter's restatements overreaching in one direction, integrations stated as principles before the admission test, and no devlog notes taken
