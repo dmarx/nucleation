@@ -1,0 +1,44 @@
+---
+status: Proposed
+title: 'When a hold the owner set lifts, the assistant says its next step and takes it in the same turn'
+version: 1
+tags:
+- record
+- process
+date: '2026-11-21'
+summary: >-
+  At the owner's go of 2026-11-21 on the fifth recommendation of the
+  retrospective of that day. The owner had held merges into staging until a
+  promotion merged ("let's hold off on merging more stuff into staging until
+  we've merged 582 into main first"). When it did, the assistant reported
+  what was waiting but neither said what it would do next nor did it, and
+  the owner had to ask: "you gonna open a new PR on staging or what?" A hold
+  is a condition on the assistant's own next step. When the condition is
+  met, the turn that sees it met names the step the hold was holding and
+  takes it, unless the step is one that waits on the owner anyway. Rejected:
+  asking the owner whether to resume, which turns a lifted hold into a new
+  permission handoff.
+---
+
+# ADR-tmpjsh6p: When a hold the owner set lifts, the assistant says its next step and takes it in the same turn
+
+## Context
+
+The owner sets holds in conversation: "hold off on merging more stuff into staging until we've merged 582 into main first". On 2026-11-21 the hold's condition was met when the promotion merged and the back-merge landed. The assistant's next turns reported the merge, the back-merge and the state of four open pull requests. None of them said that the hold had lifted, or what would follow. The owner asked, "you gonna open a new PR on staging or what?" The retrospective of that day (pull request 600) recommended saying the next step and taking it. The owner's ruling: "go".
+
+## Decision
+
+- **A hold is a condition on the assistant's next step.** It names something to wait for: a merge, a review, a run, the owner's word.
+- **When the condition is met, the turn that sees it says so and takes the held step.** It names the hold, says it has lifted, says what it will now do, and does it. It does not end the turn on a status report.
+- **Unless the step waits on the owner anyway.** Where the held step is one of those the dialectic regime still reserves for the owner (ADR-127: status changes, decisions, configuration, CI, outside services, merges into main), the turn says that the hold has lifted and that the step now waits only on the owner.
+- **Not a new permission.** A lifted hold restores what was permitted before it. It grants nothing new.
+
+## Alternatives
+
+- **Ask whether to resume.** This turns every lifted hold into a permission handoff, which the dialectic regime was adopted to remove.
+- **Resume silently.** The step is taken, but the owner learns of it only from the result. Saying it is one sentence.
+
+## Consequences
+
+- CLAUDE.md's paragraph on the dialectic regime gains one sentence.
+- The first application is the case that raised it, reviewed in that retrospective.
