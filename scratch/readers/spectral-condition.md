@@ -14,3 +14,8 @@
 - Big-Θ hides depth, learning-rate schedule, global prefactor (sec 2).
 
 ## Step 3: draft report -- in final reply to the caller.
+
+## Step 3: recheck and draft (2026-11-21)
+- Recheck hits not in CLAIM-tmpqwoxz grounds: THEORY-212 (Dominé et al., lazy-to-rich via relative layer scale, LIT-943), THEORY-086 (kernel regime eigenspace rates), THEORY-1874 (fine-tuning updates near low-rank). No held THEORY on μP, spectral norm scaling or this work.
+- Verdict: characterization confirmed in substance (Condition 1 = sqrt(fan-out/fan-in) on ||W|| and ||ΔW||; equivalence to μP, Thm 1). Qualify CLAIM-tmpqwoxz: the paper's equal-order statement is per step at each layer in width, not a statement about rates or time scales; nothing on singular directions moving equally (bears on CLAIM-tmpmugkp: none; paper's updates are low stable rank, uses spectral normalization of gradient (eq 17), not polar factor).
+- Draft report returned to caller.
