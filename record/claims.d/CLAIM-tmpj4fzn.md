@@ -81,6 +81,22 @@ passage. Each is a descriptor, which the entry passes when it is added
 versions, and the dimension it describes stops drifting at the entry's own
 value: the conserved part. A schema default the entry did not meet is an
 imposition, which moves the entry to the convention: the contracting part.
+A correction to the source, such as a misquote put right, is an imposition
+too, which moves the entry back to its source: anchoring. Because the entry
+passes every descriptor filed on it, descriptors never conflict; an empty
+intersection, an objection to settle, comes only from impositions. And a
+descriptor holds the entry where it is when the descriptor is filed, which
+is a reason in this account for the record's habit of coding and quoting at
+filing, before restatement has drifted.
+
+**A predicate that looks like a descriptor.** A tag from the closed `topics`
+vocabulary describes an entry when it fits. When the list lacks the word
+and the nearest wrong one is used, the tag is an imposition: the entry has
+been moved to fit the vocabulary, and the move is hidden because a tag looks
+like a description. The record's rule that a missing word is added by
+decision, with a label and a blurb, and never replaced by the nearest wrong
+one, keeps tagging a matter of descriptors. A vocabulary too small for what
+is filed turns descriptors into impositions.
 The features no predicate bounds are [TERM-132](../terms.d/TERM-132.md)'s local degrees of freedom.
 So [CLAIM-772](CLAIM-772.md)'s one contraction is the dynamics, and the predicates say where
 it goes: mostly to where the entry already is.

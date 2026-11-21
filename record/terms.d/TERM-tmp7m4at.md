@@ -44,11 +44,23 @@ the difference is the one [CLAIM-772](../claims.d/CLAIM-772.md) draws between an
   exact value on a dimension that was undescribed. Adding it moves nothing:
   it only excludes other versions, so the admissible sets go down and the
   entry stays in each. The dimension stops drifting at the entry's own
-  value, which puts it in the conserved part ([TERM-132](TERM-132.md));
-- an **imposition** is one the entry fails when it is added, such as a
-  schema default it did not meet. Enforcing it moves the entry to the
-  predicate's value, and if that value is common to entries the dimension
-  carries nothing of this one: the contracting part, at the convention.
+  value, which puts it in the conserved part ([TERM-132](TERM-132.md)). It holds the
+  value the entry has when the descriptor is added, so a descriptor added
+  late preserves a drifted state. Descriptors never conflict: the entry
+  passes them all;
+- an **imposition** is one the entry fails when it is added. Enforcing it
+  moves the entry to the predicate's value, and what that leaves depends on
+  where the value came from. From the schema or a convention, common to
+  entries, the dimension carries nothing of this one: the contracting part,
+  forgetting. From the entry's source, as in correcting a misquote, the move
+  restores what had drifted: anchoring.
+
+A predicate can look like a descriptor and be an imposition. A tag from a
+closed vocabulary is a descriptor when it fits; when the list lacks the
+right word and the nearest wrong one is used, the entry has been moved to
+fit the vocabulary. CLAUDE.md's rule that a missing word is added by
+decision, never replaced by the nearest wrong one, keeps tagging a matter of
+descriptors.
 
 A predicate is **hard** when the step refuses a version that fails it (lint,
 a resolving code) and **soft** when failing it only costs something (a prose

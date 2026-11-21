@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step''s fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails, imposed with a value common to entries, moves it there and keeps nothing of the entry on it'
+title: 'If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step''s fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails moves it, to a convention that keeps nothing of the entry on that dimension or to its source, restoring what had drifted; and predicates the entry passes when added never conflict, since the entry witnesses them'
 version: 1
 role: thesis
 warrant: demonstrated
@@ -12,7 +12,8 @@ defeated_if: >-
   (λ/2)·dist² to a closed convex set being (y + λP(y))/(1 + λ); or in the
   step from a predicate the entry passes when it is added to its moving
   nothing, or from a value imposed on every entry alike to the dimension's
-  carrying nothing of the entry.
+  carrying nothing of the entry; or in the current version witnessing that
+  descriptors are jointly satisfiable.
 tags:
 - mathematics
 - design-rationale
@@ -42,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-772 CLAIM-773 TERM-tmp7m4at — Proposed; the contraction claims this formalizes for predicates, and the entries filed with it on 2026-11-21 -->
 
-# CLAIM-tmp8v75o: If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step's fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails, imposed with a value common to entries, moves it there and keeps nothing of the entry on it
+# CLAIM-tmp8v75o: If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step's fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails moves it, to a convention that keeps nothing of the entry on that dimension or to its source, restoring what had drifted; and predicates the entry passes when added never conflict, since the entry witnesses them
 
 ## The claim
 
@@ -84,13 +85,29 @@ of the P_p, which maps every point into A.
    joined the conserved part, and [CLAIM-635](CLAIM-635.md) gives information about the
    entry bounded below at every later generation. Enforcing such a
    predicate and copying its outcome (K f_p = f_p) have the same effect.
-   If x fails p, as when p imposes a value c that the schema sets for every
-   entry, enforcing it moves the entry to c, and the dimension then reads c
-   for every entry and carries nothing of this one: the contracting part,
-   at the convention. Which of the two a predicate is depends on whether
+   A descriptor holds the value the entry has when it is added, not the
+   value it was filed with: drift before the pin is kept, not undone. So
+   when a descriptor is added decides what it preserves, the origin if at
+   filing and the drifted state if later.
+   If x fails p, enforcing p moves the entry to the nearest version that
+   passes, and what the dimension then carries depends on where p's value
+   came from. If it is a value c the schema sets for every entry, the
+   dimension reads c for every entry and carries nothing of this one: the
+   contracting part, at the convention, the forgetting case of CLAIM-772.
+   If it is the entry's source's value, as when a misquote is corrected to
+   the source's wording, the move restores what had drifted and the
+   dimension again carries the entry's own information: the anchoring
+   case. Both are impositions; a descriptor is neither, since it holds the
+   entry where it is. Which of the two a predicate is depends on whether
    the entry passes it when it is added, not on how hard it is enforced.
+6. **Descriptors do not conflict.** If every predicate in a set was a
+   descriptor when it was added, the entry's version at the time of the
+   last of them passes all of them, provided no revision in between broke
+   an earlier one: it is a witness that their sets intersect. So accruing
+   descriptors never empties A. Only impositions can, by asking the entry to
+   pass tests no version passes together.
 
-Parts 1, 3 and 5 need only that T maps into A, not convexity. Parts 2 and 4
+Parts 1, 3, 5 and 6 need only that T maps into A, not convexity. Parts 2 and 4
 need it.
 
 ## Checks
