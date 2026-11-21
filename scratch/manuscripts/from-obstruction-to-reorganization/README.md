@@ -17,6 +17,8 @@ A general theory of learning and inquiry, intended to apply to arbitrary systems
 
 **Brought up to date with the record of 2026-11-21.** The formal account of drift (CLAIM-772 with ARG-124, CLAIM-776, CLAIM-777, CLAIM-782, CLAIM-768) is in §§5.3, 5.4, 15.3 and 19.6. The budget tree (CLAIM-770) is in §2.3, and QUESTION-tmp6iu8e in §17.1. §5.3 now states the narrower form of the anchoring link the audit had struck.
 
+**Anchoring, generalized (2026-11-21).** §5.3 now opens with the general account of anchoring in an inquiry (CLAIM-tmp1xigl): one mechanism, a reconstruction pulled toward a fixed reference, which secures what the reference is tied to. Tied to the target, it secures content; tied to the inquiry's earlier states, continuity; tied to nothing, it is bias. It adds the two objections to CLAIM-772 (CLAIM-tmppkqzl, the reader's offset; CLAIM-tmp0kqq4, stale exact copies). P9 (§7.1), stage 1 of the cycle (§7.2), §7.4, the P9 row of §9, §14.5, §19.6 (two new measurements), §20 and the abstract follow.
+
 ## Files, in reading order
 
 | File | Sections |

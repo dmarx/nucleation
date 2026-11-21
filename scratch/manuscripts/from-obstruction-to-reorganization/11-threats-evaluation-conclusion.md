@@ -71,11 +71,14 @@ Measure the owner's own rate of noticing misfits over time, against the share no
 
 ### 19.6 Drift, measured on the record's own history
 
-The formal account of drift filed on 2026-11-21 names three measurements the record's history allows:
+The formal account of drift filed on 2026-11-21 names three measurements the record's history allows, and the account of anchoring filed after it two more:
 
 - **Ideas restated before they were coded (LEAD-204).** Trace them through the exchange history, to tell whether their drift saturates at the collaborators' framings, grows linearly, or has no direction. Also test whether the ideas furthest from those framings were lost first, as CLAIM-776 predicts.
 - **Revision against citation (LEAD-199).** Count how often each claim is substantively revised before and after it is first relied on.
 - **Retention of the originating turn (LEAD-201).** Measure, judged blind against a metric fixed in advance, how much of the owner's originating turn each settled claim retains. This separates exact copying from contraction onto convention (CLAIM-768).
+
+- **The reader's offset (CLAIM-tmppkqzl).** Have one coded entry read and restated by several sessions briefed alike and by several briefed differently, and compare each restatement with the entry. If the account is right, the first group's restatements agree with each other more than the second group's, and differ from the entry by more. Agreement among readers who share a framing is then no evidence of fidelity.
+- **Stale copies (CLAIM-tmp0kqq4).** List every hand-copied or carried-over text (summaries, titles quoted in other entries, fields carried to a successor) and check it against the current version of its source. Compare the rate of staleness with that of generated views.
 
 Together they would test the anchoring account of §5 on the record that motivated it, with one reference, the originating turns, fixed outside the record's later restatements.
 
@@ -92,7 +95,7 @@ Part I set out a theory of how systems learn and inquire.
 - **Distinctions.** A distinction is relative to a target and a regime. Whether to draw a new one depends on whether situations treated alike call for different actions. As resources grow, categories may need to split, merge or be re-carved.
 - **Learning** is the formation of a maintained capacity, a new distinction or a new channel. It is occasioned by a discrepancy the system cannot resolve, it is not guaranteed by it, and it is costed in three separate ledgers. A capacity's maintenance is known only by intervention, and help that does the work erodes it.
 - **Inquiry** is a form of specification that can revise what counts as an answer. It is self-governing only where the criteria of revision are the system's own.
-- **Transmission.** Without anchors, transmission drifts toward the transmitters. What a record can secure is traceable change, not fidelity.
+- **Transmission.** Without anchors, transmission drifts toward the transmitters. An anchor secures what it is tied to: tied to the target, content and a discrepancy that registers; tied to the inquiry's own past, continuity; tied to nothing, bias. What a record can secure is traceable change, not fidelity.
 - **Collectives** learn through a chain of separable achievements, any of which can fail while the others hold, and they confirm themselves without independent evidence.
 
 From these principles the theory predicts a cycle for any inquiry held in a revisable apparatus. Misfits are absorbed before they are noticed. Noticing is the scarce step. Diagnosis weighs actions, not just data. Revision includes merging and withdrawal as well as splitting. Carry-through fails where only a meaning moves. Maintenance fails where a correction stops short. Each turn stores work that later turns use, and that also entrenches.
