@@ -93,6 +93,18 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
                                   # term, arg, adr, dp, changelog, curation, workbench
 
 <!-- inactive-ok: ADR-068 — Proposed until the owner adopts it -->
+**The dialectic regime** (ADR-tmpzgon7). The owner switches it on and off
+("dialectic on", "dialectic off"); it is on until switched off, and a new
+session starts off. While it is on, file the argument the exchange develops
+as you go, without offering first: claims, questions, terms, arguments,
+cases, leads, revisions to what the regime filed, dated notes, Reframings,
+corrections, devlog notes. Put them in one open pull request into `staging`,
+one commit per turn; answer first, then report what was filed; revert
+(`git revert`) when the owner interjects. Status changes on held entries,
+ADRs and DPs, `luria.yaml`, CI, delegated readings, outside services and
+merges still wait for the owner. Suggest switching off when going on would
+be awkward.
+
 [ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an
 upload or a work, and for reading registered works. Its steps are the
 `read-and-file` skill (`.claude/skills/read-and-file/SKILL.md`).
