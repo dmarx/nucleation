@@ -39,7 +39,7 @@ summary: >-
   its strong form; CLAIM-tmpepx9m, the mechanism it was offered for, is
   untouched (ADR-tmp44npm).
 ---
-<!-- inactive-ok-file: ADR-tmp44npm CLAIM-tmp7ijze — Proposed; filed 2026-11-21 -->
+<!-- inactive-ok-file: ADR-tmp44npm — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpepx9m — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # ARG-tmp2w77g: The other assistant's account of large cities attracting businesses, workers and investment shows that city sizes follow from attachment in proportion to size, an instance of cumulative advantage
