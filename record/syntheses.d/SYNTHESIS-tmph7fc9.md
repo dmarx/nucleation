@@ -59,7 +59,7 @@ integrates:
 
 ## Note of 2026-11-21: progress since this account was drafted
 
-**[QUESTION-tmp6iu8e](../questions.d/QUESTION-tmp6iu8e.md)**, filed since, asks this account's question of a
+**[QUESTION-504](../questions.d/QUESTION-504.md)**, filed since, asks this account's question of a
 shared-autonomy assistant: whether help that raises a user's long-horizon
 influence erodes their unassisted capacity, and whether a score taken with
 the help present can show it. A candidate component at the next synthesis

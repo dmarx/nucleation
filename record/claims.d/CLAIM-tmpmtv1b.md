@@ -31,7 +31,7 @@ summary: >-
   improves its improver). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmpd4rgx ADR-tmpvmzl6 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
+<!-- inactive-ok-file: ADR-120 ADR-124 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 
 # CLAIM-tmpmtv1b: In this record the noticing of grammar misfits moved from incidental to procedural, from filing agents who met a missing word to review procedures built to look, while revisions of the grammar, as distinct from refinements, were noticed or decided mostly by the owner: what was delegated was noticing, by procedure and by category of change, not judgment about revision
@@ -77,11 +77,11 @@ The census of the record's decisions ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.m
 The night after this claim was drafted added three procedures of the kind it
 describes, each built after a misfit was met by hand:
 
-- **[ADR-tmpd4rgx](../decisions.d/ADR-tmpd4rgx.md)**: reframes, which had no place in an entry, get a section
+- **[ADR-120](../decisions.d/ADR-120.md)**: reframes, which had no place in an entry, get a section
   of their own; the owner noticed the gap.
-- **[ADR-tmpyzxw8](../decisions.d/ADR-tmpyzxw8.md)** (Active): an owner's earmark for the retrospective
+- **[ADR-126](../decisions.d/ADR-126.md)** (Active): an owner's earmark for the retrospective
   becomes a note the next retrospective must answer.
-- **[ADR-tmpvmzl6](../decisions.d/ADR-tmpvmzl6.md)**: an adoption review, after 48 decisions were found
+- **[ADR-124](../decisions.d/ADR-124.md)**: an adoption review, after 48 decisions were found
   Proposed while applied; its first pass adopted 34.
 
 And one guard moved upstream: luria now refuses a title that cites a code,
