@@ -30,7 +30,7 @@ The owner sets holds in conversation: "hold off on merging more stuff into stagi
 
 - **A hold is a condition on the assistant's next step.** It names something to wait for: a merge, a review, a run, the owner's word.
 - **When the condition is met, the turn that sees it says so and takes the held step.** It names the hold, says it has lifted, says what it will now do, and does it. It does not end the turn on a status report.
-- **Unless the step waits on the owner anyway.** Where the held step is one of those the dialectic regime still reserves for the owner (ADR-127: status changes, decisions, configuration, CI, outside services, merges into main), the turn says that the hold has lifted and that the step now waits only on the owner.
+- **Unless the step waits on the owner anyway.** Where the held step is one of those the dialectic regime still reserves for the owner ([ADR-127](ADR-127.md): status changes, decisions, configuration, CI, outside services, merges into main), the turn says that the hold has lifted and that the step now waits only on the owner.
 - **Not a new permission.** A lifted hold restores what was permitted before it. It grants nothing new.
 
 ## Alternatives
