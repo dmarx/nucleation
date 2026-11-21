@@ -29,3 +29,13 @@ Output one JSON object per ADR with exactly these keys:
 | `later_harm` | String or `""` | A later version note or entry recording that the change caused an error, with its citation |
 | `confidence` | high, medium, low | |
 | `note` | String, at most 40 words | Anything a reader needs to interpret the codes |
+
+## Addendum, 2026-11-21: the fifth batch
+
+The scheme above is unchanged. `batch-5.json` codes the 22 decisions filed on 2026-11-21, ADR-115 to ADR-135 and ADR-tmpcb96w (a temporary code, Proposed on an open branch when coded), with the same keys and rules. It was coded by one coder, the assistant revising the manuscript, which took part in the session that filed many of them; no second coder has seen it, and each row's `note` begins "Batch 5, single coder". Conventions applied where the rules above left a choice, so that a later coder can check them:
+
+- An owner's request whose words prescribe the change, or an owner's choice among filed alternatives ("571-A", "sure, go with A"), is coded `explicit`, with those words as `ratification_quote`, and the owner as `decider`.
+- An alternative filed under the dialectic regime's several-readings rule and not chosen is `status` Rejected, `outcome` rejected, and has `decline` among its operations; it is `restraint` only if it proposed a grammar change (none did).
+- A decision that changes a skill, a workflow or a convention but not `luria.yaml`, a lint or a view is not a grammar change, even when it widens what a scheme's entries may be (ADR-129), as ADR-075's and ADR-078's audits were coded.
+- `residue` is `unknown` where the decision answers friction in process (stacked pull requests, a hold, a merge) that none of the four forms describes.
+- `census.py` puts decisions dated 2026-11-21 or later in a fourth period, "21 Nov", so the first three periods keep the 114 they were reported on.

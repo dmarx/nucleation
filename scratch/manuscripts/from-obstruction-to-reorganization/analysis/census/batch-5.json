@@ -1,0 +1,662 @@
+[
+ {
+  "adr": "ADR-115",
+  "date": "2026-11-21",
+  "status": "Proposed",
+  "grammar_change": true,
+  "level": [
+   "scheme",
+   "relation",
+   "vocabulary",
+   "process"
+  ],
+  "operation": [
+   "add",
+   "narrow",
+   "other"
+  ],
+  "regime": "revise",
+  "component": [
+   "language",
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "we should probably keep the POSTMORTEM scheme, but add a RETROSPECTIVE scheme as well and convert our pre-existing postmortems to retros",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "keep the POSTMORTEM scheme, but add a RETROSPECTIVE scheme as well and convert our pre-existing postmortems to retros",
+  "residue": "forced_category",
+  "migration": 3,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Revise: POSTMORTEM narrowed and three existing postmortems reassigned to RETRO. 'other' is the conversion. The owner's request prescribes the design, coded explicit as for ADR-114."
+ },
+ {
+  "adr": "ADR-116",
+  "date": "2026-11-21",
+  "status": "Proposed",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "resources"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "have our regular work merge into an intermediate branch like staging branch, which we can then manually merge into main",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "to fit the tooling to accomodate the way we're doing the work rather than vice versa",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "ADR-116 version 2 (2026-11-21): only Promote merged main back into staging, so the hand promotion (pull request 566) and pull request 556 left staging behind main; the back-merge moved to a shared script.",
+  "confidence": "medium",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. A workflow (Promote), not luria.yaml or a lint. Residue categories describe a grammar misfit; stacked pull requests fit none. later_harm recorded though not a grammar change."
+ },
+ {
+  "adr": "ADR-117",
+  "date": "2026-11-21",
+  "status": "Rejected",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "none",
+  "component": [
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "let's make part of the convention be that whenever staging is ahead of main, there's an open PR waiting for me",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "577-automate this",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "rejected",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. One of two readings filed under ADR-127's several-readings rule; the owner chose ADR-125."
+ },
+ {
+  "adr": "ADR-118",
+  "date": "2026-11-21",
+  "status": "Rejected",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "none",
+  "component": [
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "let's persist and standardize that as a new convention with an ADR. I feel like those are separable.",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "571-A",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "rejected",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Reading B (persist), one of three readings of one request; the owner chose ADR-126."
+ },
+ {
+  "adr": "ADR-119",
+  "date": "2026-11-21",
+  "status": "Rejected",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "none",
+  "component": [
+   "resources"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "when `dialectic on`, you have the greenlight to merge into staging as you see fit.",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "573-narrow",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "rejected",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. The wider of two readings of the owner's grant; the owner chose ADR-121."
+ },
+ {
+  "adr": "ADR-120",
+  "date": "2026-11-21",
+  "status": "Proposed",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "do we have a mechanism/convention for documenting reframes? If not, I propose we should add them to the prose",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "I propose we should add them to the prose of the relevant claim or whatever",
+  "residue": "prose_only",
+  "migration": 2,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. A section convention in entries' prose; no field or lint (named as DP-3's next rung). Migration: CLAIM-772 and CLAIM-778."
+ },
+ {
+  "adr": "ADR-121",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "resources"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "when `dialectic on`, you have the greenlight to merge into staging as you see fit.",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "573-narrow",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. The narrower of two readings; applied before filing (pull requests 567 to 570 merged into staging)."
+ },
+ {
+  "adr": "ADR-122",
+  "date": "2026-11-21",
+  "status": "Rejected",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "none",
+  "component": [
+   "observations",
+   "interventions"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "let's persist and standardize that as a new convention with an ADR. I feel like those are separable.",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "571-A",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "rejected",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Reading C (convention as a skill apart from the decision); never applied."
+ },
+ {
+  "adr": "ADR-123",
+  "date": "2026-11-21",
+  "status": "Rejected",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add",
+   "decline"
+  ],
+  "regime": "none",
+  "component": [
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "let's persist and standardize that as a new convention with an ADR. I feel like those are separable.",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "571-A",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "rejected",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Reading B's second half (the note's form); the owner chose ADR-126."
+ },
+ {
+  "adr": "ADR-124",
+  "date": "2026-11-21",
+  "status": "Proposed",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "criteria",
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "we're probably overdue to promote some ADRs that are functionally already adopted.",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "write that ADR and kick off an audit",
+  "residue": "false_statement",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Statuses said Proposed for rules in force (48 Proposed on staging; ADR-095 excused 106 times). A script and a skill, no lint. First pass's missed checklist ticks are recorded in the decision itself."
+ },
+ {
+  "adr": "ADR-125",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "let's make part of the convention be that whenever staging is ahead of main, there's an open PR waiting for me",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "577-automate this",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. A workflow (promotion-pr.yml); the adopted one of two readings."
+ },
+ {
+  "adr": "ADR-126",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "let's persist and standardize that as a new convention with an ADR. I feel like those are separable.",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "571-A",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. The tag earmarked is in an open vocabulary, so no configuration changes. The assistant's lean, chosen over ADR-118, ADR-122, ADR-123."
+ },
+ {
+  "adr": "ADR-127",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add",
+   "widen"
+  ],
+  "regime": "none",
+  "component": [
+   "resources",
+   "interventions"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "brainstorm an ADR that would permit us (you and I) to enter and exit an engagement regime",
+  "noticer": "owner",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "adopt the ADRs and the candidate line, then merge",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Four versions in one day: several-readings, go-ahead and reporting rules (v1-2), the regime's state belongs to the conversation (v3), Active (v4)."
+ },
+ {
+  "adr": "ADR-128",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "observations"
+  ],
+  "trigger": "incident",
+  "trigger_quote": "At 08:08 the other session rewrote the description to correct its account of the batch, and the choices section it had not written was dropped.",
+  "noticer": "assistant",
+  "proposer": "review_process",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "lgtm",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "ADR-128 Consequences: the first application found that updated_at is not the check (a merge moved it with the text unchanged); the decision now compares text (commit 34870a40b).",
+  "confidence": "medium",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Proposed by the retrospective of 2026-11-21 (pull request 600)."
+ },
+ {
+  "adr": "ADR-129",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "widen",
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "criteria",
+   "observations"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "permit cross-line accounts, and add an audit process to review these as potential indicators that they might merit adding a line.",
+  "noticer": "review_process",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "adopt the ADRs and the candidate line, then merge",
+  "residue": "forced_category",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Borderline: widens ADR-083's scope (coded a grammar change for its view) but changes no luria.yaml, lint or view; coded false as ADR-075 and ADR-078's audits were."
+ },
+ {
+  "adr": "ADR-130",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "line"
+  ],
+  "operation": [
+   "add",
+   "narrow"
+  ],
+  "regime": "revise",
+  "component": [
+   "language"
+  ],
+  "trigger": "review_or_audit",
+  "trigger_quote": "The first audit of cross-line accounts under ADR-129 (curation entry of 2026-11-21) found that the eight accounts ... are each a bridge between lines.",
+  "noticer": "review_process",
+  "proposer": "review_process",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "adopt the ADRs and the candidate line, then merge",
+  "residue": "forced_category",
+  "migration": 11,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Revise: 'inquiry as specification' moves out of record-as-apparatus's blurb. Migration: eight accounts and three claims take the line."
+ },
+ {
+  "adr": "ADR-131",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "redefine",
+   "widen"
+  ],
+  "regime": "none",
+  "component": [
+   "criteria"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "I worry that ADR-075's language might be discouraging us from documenting useful syntheses we may have already constructed",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "sure, go with A",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Alternative A, the assistant's lean; the test routes to claim or account instead of rejecting. Skills changed, no configuration."
+ },
+ {
+  "adr": "ADR-132",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "resources"
+  ],
+  "trigger": "review_or_audit",
+  "trigger_quote": "At the owner's go of 2026-11-21 on the fifth recommendation of the retrospective of that day.",
+  "noticer": "owner",
+  "proposer": "review_process",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "go",
+  "residue": "unknown",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. The owner noticed ('you gonna open a new PR on staging or what?'); the retrospective proposed."
+ },
+ {
+  "adr": "ADR-133",
+  "date": "2026-11-21",
+  "status": "Rejected",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "redefine",
+   "decline"
+  ],
+  "regime": "none",
+  "component": [
+   "criteria"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "I worry that ADR-075's language might be discouraging us from documenting useful syntheses we may have already constructed",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "sure, go with A",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "rejected",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Alternative C (test deferred to the synthesis review)."
+ },
+ {
+  "adr": "ADR-134",
+  "date": "2026-11-21",
+  "status": "Rejected",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "redefine",
+   "decline"
+  ],
+  "regime": "none",
+  "component": [
+   "criteria"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "I worry that ADR-075's language might be discouraging us from documenting useful syntheses we may have already constructed",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "sure, go with A",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "rejected",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Alternative B (by provenance)."
+ },
+ {
+  "adr": "ADR-135",
+  "date": "2026-11-21",
+  "status": "Active",
+  "grammar_change": true,
+  "level": [
+   "term"
+  ],
+  "operation": [
+   "rename"
+  ],
+  "regime": "refine",
+  "component": [
+   "language"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "this is that same work, but we should update the value of the works field to match the title of the manuscript subdirectory.",
+  "noticer": "assistant",
+  "proposer": "owner",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "this is that same work, but we should update the value of the works field",
+  "residue": "unknown",
+  "migration": 23,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "high",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. A pure rename (membership unchanged) fits neither refine nor revise well; coded refine since nothing that counted changes. Noticer: the manuscript draft's open item asked the question."
+ },
+ {
+  "adr": "ADR-tmpcb96w",
+  "date": "2026-11-21",
+  "status": "Proposed",
+  "grammar_change": false,
+  "level": [
+   "process"
+  ],
+  "operation": [
+   "add"
+  ],
+  "regime": "none",
+  "component": [
+   "interventions",
+   "criteria"
+  ],
+  "trigger": "owner_request",
+  "trigger_quote": "update the skill instructions (via ADR) to include the gap filling instruction",
+  "noticer": "owner",
+  "proposer": "assistant",
+  "decider": "owner",
+  "ratification": "explicit",
+  "ratification_quote": "update the skill instructions (via ADR) to include the gap filling instruction",
+  "residue": "prose_only",
+  "migration": null,
+  "outcome": "in_force",
+  "later_harm": "",
+  "confidence": "medium",
+  "note": "Batch 5, single coder, 2026-11-21; not recoded. Temporary code; still Proposed, on the branch. Owner asked for gap filling in the filing first. Skill step 9a; first application the curation entry of 2026-11-21 18:01."
+ }
+]

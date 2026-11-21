@@ -10,7 +10,17 @@ Noticing was delegated early and widely. Filing agents noticed missing words, an
 
 That division is close to the one a cautious design would choose. It also carries a risk the record has already described elsewhere. Where a capacity is learned by doing the work and decays with disuse, support that does the work first lowers the capacity kept (CLAIM-602, Active). Past a point, withdrawing the support no longer restores the capacity (CLAIM-605, Active). Support should therefore be judged by the capabilities it leaves later, not by present output (CLAIM-675, Active).
 
-Agent filing, and procedures that notice on the owner's behalf, are such support. Whether the owner's own ability to notice what the grammar needs is being maintained or eroded is not measured anywhere in the record. QUESTION-471 (Open) states the related risk for the record as a whole, and names Nucleation as "a small-scale case of the tension": incorporation fast enough to outrun evaluation. QUESTION-tmp6iu8e (Open), filed from a reading of a shared-autonomy assistant, sharpens the measurement problem. Can a score taken *with the help present* ever show that the help is eroding the unassisted capacity? If not, the record cannot learn whether its assistants erode the owner's judgment by looking at how well the owner and assistants do together. It would need a measure taken without them.
+Agent filing, and procedures that notice on the owner's behalf, are such support. Whether the owner's own ability to notice what the grammar needs is being maintained or eroded is not measured anywhere in the record. QUESTION-471 (Open) states the related risk for the record as a whole, and names Nucleation as "a small-scale case of the tension": incorporation fast enough to outrun evaluation. QUESTION-504 (Open), filed from a reading of a shared-autonomy assistant, sharpens the measurement problem. Can a score taken *with the help present* ever show that the help is eroding the unassisted capacity? If not, the record cannot learn whether its assistants erode the owner's judgment by looking at how well the owner and assistants do together. It would need a measure taken without them.
+
+**What 21 November delegated (added 2026-11-21).** The decisions of that day moved several things from the owner to the assistant, each with a stated guard:
+
+- **The initiative to file.** While the dialectic regime is on, the assistant files the argument without offering first; the guards are the report at the end of every turn, the owner's revert, Proposed status and the promotion (ADR-127). Gap fills are filed without offering first for the same reasons (ADR-tmpcb96w, Proposed).
+- **Merges into staging,** of the assistant's own pull requests only (ADR-121). The owner declined the wider reading (ADR-119).
+- **The first move after a hold lifts** (ADR-132), which grants nothing new.
+
+What stayed with the owner is the list ADR-127 keeps: status changes, decisions, configuration, CI, delegated readings, outside services and merges into main, and every choice among filed alternatives. This is delegation by category with a revert, the first of §15.4's three forms, extended from vocabulary words to the filing of the argument itself.
+
+The same day shows the owner still noticing. Of the five process lapses traced in §16.5, the owner caught four, from a turn count, a request, a question and a reminder of the rule. That is evidence the capacity is exercised. It is not evidence it is maintained, and it cuts the other way too: a record whose process lapses are caught mostly by its owner depends on the owner continuing to catch them.
 
 ### 17.2 When a distinction is worth drawing
 
@@ -68,3 +78,5 @@ The predecessor's CLAIM-178 holds that a manuscript drafted straight from an exc
 - its drafts were written and checked by assistants of one family.
 
 Checking against the record nonetheless corrected it repeatedly. A decision was misattributed. Dates and counts were wrong. A premise about who governed the grammar was false. And the first sketch omitted the account of inquiry the predecessor had built. The drafts are kept and could be compared blind by someone else.
+
+RETRO-006 has since reviewed the drafting itself. Two fact-checks by readers briefed against the cited entries found 9 and then 37 errors, every one in a restatement of an entry the drafter had cited and read, and the admission audit struck six links of the principles, each saying more than its components. The retrospective reads the direction of the errors through the record's own account of anchoring: the offset of a derived text lies toward its drafter's thesis, and only a reader with a different framing sees it (CLAIM-793). This refresh of Parts II and III is again a hand-copied update of a derived text by an assistant of the same family, the hazard CLAIM-789 names. Its figures are recomputed by script and dated (§12.1); its prose is not, and it has not been fact-checked by a second reader.
