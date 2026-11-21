@@ -31,3 +31,23 @@ Findings so far:
   Img(L), not the orthogonal projection onto Ker (unless v = 1/n).
 - No Markov chains, no discrete time ("extensions to discrete-time" is
   future work, VII), nothing on approximate conservation.
+
+## Step 3: recheck and draft (2026-11-21)
+
+Recheck searches (seminorm, semicontract, weak contraction/non-expansive,
+matrix measure, Laplacian, left eigenvector, Coppel, horizontal/Finsler,
+QUAD/diffusive coupling, primal-dual, Bullo/Jafarpour, invariant subspace,
+consensus). Held and relevant, missed by the brief: CLAIM-481 (Laplacian
+flow: kernel is exact compatibility, nonzero spectrum the rates);
+THEORY-321 (Golub-Jackson, influence = left eigenvector); THEORY-1161
+(Friedkin-Johnsen "anchoring on initial positions", a rival sense of
+anchoring); LIT-2837 is the paper's ref [52] (Wang-Slotine); LIT-tmpru0xs
+is the sibling seminorm paper. Not held: Pham-Slotine 2007 [40], Slotine
+2003 [47], Forni-Sepulchre horizontal contraction [21], Cisneros-Velarde
+et al. primal-dual arXiv 2003.12665 [10], Di Bernardo et al. [17].
+
+Draft verdict: characterization CORRECTED. Semicontraction is contraction
+transverse to the seminorm's kernel; it does not by itself keep anything
+(Ex. 16 diverges along the kernel). Keeping needs weak contraction too
+(Thm 24) and, to say what is kept, an exact conserved functional (v^T x
+in Thm 26), an oblique not orthogonal projection.
