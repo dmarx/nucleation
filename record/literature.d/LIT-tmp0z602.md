@@ -1,0 +1,33 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A invokes it without naming it at A37, A39 for singularities of parameter space as the cause of learning plateaus. No reading was attempted; a lawful copy has not been sought.
+title: 'Singularities Affect Dynamics of Learning in Neuromanifolds'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on Crossref on 2026-11-21, no email address sent. Not held: no hit for the DOI, the title, Amari or "plateau" in record/literature.d. Crossref gives only the month (May 2006); the date is the first of that month.
+tags:
+- learning-theory
+- loss-landscapes
+- information-geometry
+- anthology-candidate
+date: '2026-11-21'
+published: '2006-05-01'
+doi: '10.1162/neco.2006.18.5.1007'
+first_author: 'Amari'
+keywords: []
+implementations: []
+summary: >-
+  Amari, Park & Ozeki (2006), Singularities Affect Dynamics of Learning in Neuromanifolds, Neural Computation, DOI 10.1162/neco.2006.18.5.1007. Hierarchical models have singular regions where parameters are unidentifiable; gradient learning is attracted to them and slows, which produces plateaus. Here as the exchange's account of stagewise learning through singularities (exchange "Rich Get Richer Power Laws", A37, A39). Unverified until read.
+---
+
+# LIT-tmp0z602: Singularities Affect Dynamics of Learning in Neuromanifolds
+
+Amari, Park & Ozeki (2006). Neural Computation. DOI 10.1162/neco.2006.18.5.1007.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A invokes it without naming it at A37, A39 for singularities of parameter space as the cause of learning plateaus. It bears on the exchange's account of stagewise learning through singularities. Not read.

@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A invokes it without naming it at A5 for mixtures of ordinary distributions over a fluctuating parameter that produce power-law tails. No reading was attempted; a lawful copy has not been sought.
+title: 'Superstatistics'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-21, no email address sent. Not held: no hit for the arXiv id, "superstatistics" or Beck as first author in record/literature.d.
+tags:
+- thermodynamics
+- probabilistic-modeling
+date: '2026-11-21'
+published: '2002-05-06'
+arxiv: 'cond-mat/0205097'
+first_author: 'Beck'
+keywords: []
+implementations: []
+summary: >-
+  Beck & Cohen (2003), Superstatistics, arXiv cond-mat/0205097. A superposition of Boltzmann statistics over a fluctuating intensive parameter (such as inverse temperature) gives heavy-tailed, Tsallis-like distributions. Here as the exchange's mixture mechanism, where heterogeneity across a population alone yields a power law (exchange "Rich Get Richer Power Laws", A5). Unverified until read.
+---
+
+# LIT-tmp1b7mm: Superstatistics
+
+Beck & Cohen (2003). arXiv cond-mat/0205097.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A invokes it without naming it at A5 for mixtures of ordinary distributions over a fluctuating parameter that produce power-law tails. It bears on the exchange's mixture mechanism, where heterogeneity across a population alone yields a power law. Not read.

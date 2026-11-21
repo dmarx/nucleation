@@ -49,6 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: SYNTHESIS-109 SYNTHESIS-110 SYNTHESIS-111 SYNTHESIS-112 SYNTHESIS-113 SYNTHESIS-114 SYNTHESIS-115 SYNTHESIS-116 CLAIM-794 — Proposed; part accounts and a component of this account, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-732 CLAIM-719 CLAIM-762 CLAIM-780 CLAIM-090 CLAIM-182 CLAIM-184 CLAIM-189 CLAIM-191 CLAIM-315 CLAIM-772 CLAIM-789 CLAIM-790 CLAIM-793 ARG-035 ARG-124 TERM-131 — Proposed or Open; the part accounts and components cited, with their standing -->
+<!-- inactive-ok-file: CLAIM-tmpgzb8v CLAIM-tmp85eq8 CLAIM-tmpr4k9z CLAIM-tmpl9zw4 CLAIM-tmp9bp04 CLAIM-tmpqbo50 SYNTHESIS-tmpsejrp TERM-tmpol232 SYNTHESIS-tmp69tyj — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
 
 # SYNTHESIS-118: The learning-and-inquiry line is eight part accounts and three claims integrated directly, which meet only through relations their components store, most of them at self-formation, and which no entry orders as a sequence
 
@@ -328,3 +329,14 @@ reliable reaching ([CLAIM-567](../claims.d/CLAIM-567.md)'s body).
   inquires as one account.** [ADR-130](../decisions.d/ADR-130.md) found that the eight accounts
   together answer that question; no entry states the answer as a claim,
   and the relations above are pairwise.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws" and the links not stated
+
+The filing of that exchange, after this account, made two part accounts of other lines: [SYNTHESIS-tmpsejrp](SYNTHESIS-tmpsejrp.md) (`learned-structure`) and [SYNTHESIS-tmp69tyj](SYNTHESIS-tmp69tyj.md) (`formal-apparatus`). It also filed [TERM-tmpol232](../terms.d/TERM-tmpol232.md), separation in three senses. Notes of the same day name the entries that bear on [SYNTHESIS-109](SYNTHESIS-109.md), [SYNTHESIS-110](SYNTHESIS-110.md), [SYNTHESIS-113](SYNTHESIS-113.md), [SYNTHESIS-115](SYNTHESIS-115.md) and [SYNTHESIS-116](SYNTHESIS-116.md). Four of this account's "Not stated on the record" links are touched. None is now stated:
+
+- **That re-carving of optimal categories is learning.** Reading (b) of the owner's U23, [CLAIM-tmpgzb8v](../claims.d/CLAIM-tmpgzb8v.md) (A's), holds that a transition in learning is a change in which singular region dominates as the sample grows. If adopted, it would be a candidate case of a learner's re-carving. No entry ties it to [CLAIM-387](../claims.d/CLAIM-387.md) or to [TERM-131](../terms.d/TERM-131.md), and reading (a), [CLAIM-tmp85eq8](../claims.d/CLAIM-tmp85eq8.md), gives no such case. [CLAIM-tmpr4k9z](../claims.d/CLAIM-tmpr4k9z.md) (A's) describes progressive learning as the construction of two partial orders, neither of which need be a chain. That is learning described through refinement, not through re-carving.
+- **That the parts form a sequence.** In the learned-structure line, acquisition follows "a partial order of dependencies rather than a fixed coarse-to-fine chronology" ([CLAIM-tmpl9zw4](../claims.d/CLAIM-tmpl9zw4.md), A's). That concerns the order of features, not of this line's parts. It agrees with [CLAIM-474](../claims.d/CLAIM-474.md) and [CLAIM-532](../claims.d/CLAIM-532.md) and does not touch the link.
+- **That the line answers its question as one account.** [SYNTHESIS-tmpsejrp](SYNTHESIS-tmpsejrp.md) maps, for one class of systems (high-dimensional learned representations), how a new distinction comes to be drawn. It runs from what can be told apart (separation of classes, thresholds of detectability) through a feature's birth ([CLAIM-tmp9bp04](../claims.d/CLAIM-tmp9bp04.md), [CLAIM-tmpqbo50](../claims.d/CLAIM-tmpqbo50.md)). It is a part account of another line and states no claim joining this line's parts. Whether its claims should take `learning-and-inquiry` beside `learned-structure`, as [ADR-130](../decisions.d/ADR-130.md) gave [CLAIM-535](../claims.d/CLAIM-535.md), [CLAIM-402](../claims.d/CLAIM-402.md) and [CLAIM-794](../claims.d/CLAIM-794.md), is the owner's call.
+- **That [CLAIM-794](../claims.d/CLAIM-794.md)'s refinement is [CLAIM-574](../claims.d/CLAIM-574.md)'s.** [TERM-tmpol232](../terms.d/TERM-tmpol232.md) names [CLAIM-574](../claims.d/CLAIM-574.md)'s sense as separation of classes. [CLAIM-794](../claims.d/CLAIM-794.md)'s refinement is of a record's grammar, so the term confirms that the two are different senses.
+
+No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).

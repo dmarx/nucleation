@@ -2,7 +2,7 @@
 
 # From Obstruction to Reorganization: A Theory of Learning and Inquiry, Operationalized in Its Own Investigative Machinery
 
-*Working title. Alternatives: "Nucleating an Inquiry"; "The Apparatus Revises Itself: Learning, Inquiry and a Research Record That Changes Its Own Grammar"; "(AI) Assisted Inquiry", short form AIAI (the owner's, 2026-11-21; the parenthesis lets it read as AI-assisted inquiry and as assisted inquiry with the AI optional).*
+*Working title. Alternatives: "Nucleating an Inquiry"; "The Apparatus Revises Itself: Learning, Inquiry and a Research Record That Changes Its Own Grammar"; "(AI) Assisted Inquiry", short form AIAI (the owner's words in conversation, 2026-11-21, not on the record; the parenthesis lets it read as AI-assisted inquiry and as assisted inquiry with the AI optional).*
 
 ## Abstract
 
@@ -11,22 +11,22 @@ We present a general theory of learning and inquiry, intended to apply to any sy
 **The theory.**
 
 - **Distinctions are relative.** A distinction is relative to a target and a regime. A new one is needed exactly when situations treated alike call for different acceptable actions.
-- **Budgets pull both ways.** More resource for observing splits categories; more resource for acting merges them. Optimal categories at a larger budget can re-carve rather than refine.
-- **Learning as the formation of a maintained capacity.** One central kind of learning forms a maintained capacity: a new distinction or a new channel. An unresolved discrepancy is a sufficient occasion for it, but does not guarantee it. It is tested by transfer and by intervention while it forms.
+- **Budgets pull both ways.** More resource for observing splits categories; more resource for acting merges them. What can be told apart at a given budget also depends on the kind of observer. Optimal categories at a larger budget can re-carve rather than refine.
+- **Learning as the formation of a maintained capacity.** One central kind of learning forms a maintained capacity: a new distinction or a new channel. An unresolved discrepancy is a sufficient occasion for it, but does not guarantee it. It is tested by transfer and by intervention while it forms. In the record's models of a trained network, a new distinction can be active before a passive observer can see it.
 - **Three ledgers.** Forming, keeping and changing a capacity are separate costs. A capacity's maintenance is known only by intervention, and support that does the work a capacity is learned from erodes it.
 - **Inquiry is a form of specification that can revise what counts as an answer.** It becomes reflexive when its language, answer space, criteria or resources become its object.
 - **Transmission and collectives.** Without anchors, transmitted content drifts toward the transmitters' priors, and an anchor secures only what it is tied to: the target, or the inquiry's own past. A collective learns only through a chain of separable achievements, from admission to the revision of its own standards.
 
-The theory is assembled from claims held in a research record, Nucleation, each cited with its standing. It is stated as ten principles and a predicted cycle: misfit, absorption, noticing, diagnosis, revision, carry-through, maintenance, and reuse.
+The theory is assembled from claims held in a research record, Nucleation, each cited with its standing. It is stated as ten principles and a predicted cycle: misfit, absorption, noticing, diagnosis, revision, carry-through, maintenance, and reuse. The record now holds the principles' parts as a line of inquiry of its own, with an account that maps them and adds nothing.
 
 **The machinery.** Nucleation is kept with Luria, a tool for typed, versioned and interlinked documents whose schema is changed only by recorded decision. We show how each principle has a mechanism in the record. The record holds the theory as content and runs on mechanisms that embody it.
 
-**The cycle.** A census of all 114 of the record's decisions over its first eight weeks finds:
+**The cycle.** A census of the record's 114 decisions to 20 November, its first eight weeks, finds the following. A fifth batch of 22 decisions from 21 November, coded by one coder and marked so, is reported beside it (§13.1).
 
-- **88 changes to the record's own grammar:** 62 refinements, 25 revisions (including a withdrawn abstraction and a redefinition of what counts as an answer) and one act of restraint.
+- **88 changes to the record's own grammar:** 62 refinements, 25 revisions (including a withdrawn abstraction and a redefinition of what counts as an answer) and one act of restraint. With the fifth batch: 136 decisions and 91 grammar changes (63 refinements, 27 revisions, one restraint), 7 of the 22 new decisions being rejected alternatives.
 - **Absorption before noticing.** In 89% of changes answering a misfit, the misfit had first been forced into the nearest category or kept in prose.
-- **Traced carry-through.** Every removed term was carried through every entry using it, and every split moved the entries it had to. The history holds no change of meaning alone, so whether carry-through fails there is untested.
-- **Costs and errors.** 2,664 entries were migrated, and ten changes caused errors the record later found.
+- **Traced carry-through.** Every removed term was carried through every entry using it, and every split moved the entries it had to. The history holds no change of meaning alone, so whether carry-through fails there was untested. The first such change, ADR-130's narrowing of what a line covers, came on 21 November and touched 7 of the line's 80 entries; it is the first case for the test (§15.2).
+- **Costs and errors.** 2,664 entries were migrated (2,701 with the fifth batch), and ten changes caused errors the record later found.
 - **Noticing became institutional.** It moved from filing agents who happened to meet a missing word to review procedures built to look.
 - **Revision stayed with the owner.** Judgment about revisions stayed with the owner, who governs the criteria.
 
@@ -54,7 +54,7 @@ The project began with a narrower question: when an argument is developed across
 
 The answer proposed in a predecessor manuscript, "luria: nucleating an argument", was **anchoring**. Arguments developed with memoryless AI assistants were observed to fail at identity rather than structure (CLAIM-177), and addressable structure gives later argument something to grow on (CLAIM-182, CLAIM-185). The predecessor also recorded an objection against itself: the anchors are written in a grammar fixed before the inquiry knows what it needs (CLAIM-181, adapting Shipman and Marshall, LIT-756).
 
-Meeting that objection required a more general account. It needed an account of what a distinction is for, of when a system should draw a new one, of what learning produces, and of how an inquiry can change the terms in which it inquires. The record's lines on formal apparatus, realizability, will-organization, distributed agency and transmission had been building such an account for other reasons. Part I assembles it.
+Meeting that objection required a more general account. It needed an account of what a distinction is for, of when a system should draw a new one, of what learning produces, and of how an inquiry can change the terms in which it inquires. The record's lines on formal apparatus, realizability, will-organization, distributed agency and transmission had been building such an account for other reasons. Part I assembles it. Since 2026-11-21 the record holds the assembly's parts as a line of their own, `learning-and-inquiry` (ADR-130), and the line on learned structure gives Part I a worked model of how a trained network comes to draw a new distinction (§§2.3, 3.2).
 
 ### 1.3 Questions
 
@@ -67,7 +67,7 @@ Meeting that objection required a more general account. It needed an account of 
 
 1. **A general theory** stated as ten principles with a predicted cycle (§7). Each step cites the record's entries and their standing, with formal results where the record has them.
 2. **A principle-by-principle account** of how a Luria record operationalizes the theory (§9).
-3. **A census of all 114 decisions the record made**, coded against a codebook fixed before coding, with a second coder on a random sample (§§12.3, 13.1). There is also an audit of every change to a vocabulary term in the record's history (§15.2).
+3. **A census of the record's decisions**: the 114 to 20 November, coded against a codebook fixed before coding, with a second coder on a random sample (§§12.3, 13.1), and a fifth batch of 22 from 21 November coded by one coder. There is also an audit of every change to a vocabulary term in the record's history (§15.2).
 4. **The flywheel, traced stage by stage** (§16), including the cycle acting on the theory's own claims.
 5. **A finding about delegation** (§15.4): noticing moved from incidental to institutional, while judgment about revision stayed with whoever governs the criteria. It is set against the theory's warning that help which does the work erodes the capacity it helps (§17.1).
 
@@ -85,7 +85,8 @@ Meeting that objection required a more general account. It needed an account of 
 | Record | The repository of typed documents the project keeps |
 | Grammar | What `luria.yaml` declares: schemes, fields, relations, vocabularies, statuses, lines and lint patterns |
 | Owner | The single human researcher who directs the project |
-| Line | A named inquiry within the record. Entries carry one or more |
+| Line | A named inquiry within the record. Entries carry one or more. Part I's is `learning-and-inquiry` (ADR-130) |
+| Separation | In three senses that come apart: of scales or levels, of classes (what an observer can tell apart), and spectral (an eigenvalue leaving a noise bulk) (TERM-tmpol232, Proposed) |
 | Decision record (ADR) | A dated document stating a decision, its context, alternatives and consequences |
 | Filing agent | A subagent that reads and files a batch of works |
 | A12, U9 | Numbered assistant (A) and user (U) turns of a filed exchange |

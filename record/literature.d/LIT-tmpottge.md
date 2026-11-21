@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A invokes it without naming it at A17 for macrostates as the coarse-grainings under which dynamics close. No reading was attempted; a lawful copy has not been sought.
+title: 'What Is a Macrostate? Subjective Observations and Objective Dynamics'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-21, no email address sent. Not held: no hit for the arXiv id or the title in record/literature.d; other Shalizi works are held (LIT-1126, LIT-1240, LIT-1260).
+tags:
+- complex-systems
+- thermodynamics
+date: '2026-11-21'
+published: '2003-03-29'
+arxiv: 'cond-mat/0303625'
+first_author: 'Shalizi'
+keywords: []
+implementations: []
+summary: >-
+  Shalizi & Moore (2003), What Is a Macrostate? Subjective Observations and Objective Dynamics, arXiv cond-mat/0303625. Macrostates are partitions of the microstates under which the dynamics are Markovian and predictive, so they are fixed by the dynamics rather than by the observer. Here as the exchange's question of which coarse-grained descriptions are natural (exchange "Rich Get Richer Power Laws", A17). Unverified until read.
+---
+
+# LIT-tmpottge: What Is a Macrostate? Subjective Observations and Objective Dynamics
+
+Shalizi & Moore (2003). arXiv cond-mat/0303625.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A invokes it without naming it at A17 for macrostates as the coarse-grainings under which dynamics close. It bears on the exchange's question of which coarse-grained descriptions are natural. Not read.

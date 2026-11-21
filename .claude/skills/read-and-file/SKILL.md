@@ -76,6 +76,12 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   nothing covers the rest unless the lead lists it. Write the list (an idea
   ledger) before briefing anyone. A drafter handed a short candidate list
   files that list and nothing else.
+- **Give the ledger a gaps column** (ADR-tmpcb96w). For each item, note
+  what the source's own argument needs and does not supply: an unstated
+  premise or condition, a result asserted without its derivation, a
+  number, formula or attribution that does not check, a test proposed
+  without a design, a link asserted between ideas that no component
+  states. Step 9a fills them.
 - **Build the map**: each section or turn of the source, and each item of
   the ledger, against the codes that already hold it. Most of a synthesis is usually already held. The
   map is the main deliverable of an "is this on the record" request.
@@ -253,6 +259,14 @@ not a finding.
   or finding that a reading carries less than a claim cited it for. "X
   does not show Y" is the ARG from X to Y, Rejected. A claim's own
   `rests_on` needs no ARG.
+- **An ARG's title names its route** (ADR-tmp44npm): its grounds and the
+  step, before the conclusion ("X, by analogy, shows that Y"), never the
+  bare conclusion, since the title travels without its status. A Rejected
+  ARG's summary says where its conclusion's own standing lives: the claim
+  or question that holds it, or that no entry does, or the entry that
+  tells against it. A conclusion the rejection leaves untouched, with
+  content of its own, is held in an entry of its own, in the voice of
+  whoever put it forward, and the ARG `concludes` it.
 - **Independent evidence is `corroborates`** (ADR-058), on the THEORY,
   when a reading supports a claim that does not rest on it. A reading the
   claim needs is `grounds`. When a work cited before it was read turns
@@ -273,6 +287,35 @@ not a finding.
 - **A QUESTION** needs a `line:`.
 - **Titles and H1 headings** carry no codes, so they keep agreeing after
   CI's repair (dmarx/luria#393).
+
+## 9a. Fill the gaps (ADR-tmpcb96w)
+
+Every filing of an exchange, a pasted synthesis or an upload fills the gaps
+the ledger found, not only when the owner asks.
+
+- **Decide first whether each gap is real.** A step the source skips
+  because it is textbook, or a condition it states elsewhere, is not one.
+- **Fill a real gap in the assistant's voice**, as a Proposed entry or a
+  dated note:
+  - *the missing step*: a claim with its derivation, checked with
+    `python3 -I` where it computes, the check stated in the entry;
+  - *a correction*: in the entry that uses the mistaken step, quoting the
+    source and giving the right value with the check;
+  - *a question*: when the gap is open and the record should hold it so;
+  - *a lead* (ADR-109): for a test or reading that would settle it.
+- **Say which gap it fills** and which turn or passage it answers. The
+  summary ends "The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call."
+- **File without offering first**, in the filing's pull request. Proposed
+  standing and the voice line keep adoption the owner's call. What only the
+  whole filing shows, across sources, is step 12's and is still offered
+  first.
+- **Support judgements a fill makes** (a fill that narrows, qualifies or
+  defeats another entry) need their ARG (step 9).
+- **A drafter's brief carries this step**, with the ledger items whose gaps
+  the drafter owns.
+- **A filing of a single work** puts gaps in the work's own argument in
+  its NOTE's Limitations, and fills one only when the record uses the step.
 
 ## 9b. Audit the syntheses (ADR-075)
 
@@ -372,7 +415,9 @@ Write a curation entry (`luria new curation`) with three parts:
 - **where the record already held it**: the map from step 2;
 - **what was filed**, with codes;
 - **what was left, and why**: a citation that couldn't be identified,
-  an idea already covered, a slogan.
+  an idea already covered, a slogan;
+- **gaps** (ADR-tmpcb96w): every gap the ledger found, filled (with
+  codes) or left (with the reason).
 
 Nothing in the source is dropped silently. Add a changelog fragment
 (`record/changelog.d/<slug>.md`).
@@ -394,7 +439,9 @@ Nothing in the source is dropped silently. Add a changelog fragment
 
 When the filing is done, the lead has read across all of it, which no
 reader or source has. Say what that suggests, and offer it to the owner
-before filing anything.
+before filing anything. This is not step 9a: a gap is internal to one
+source's argument and is filled without offering; an idea here is drawn
+across the filing, and moves the record's own argument.
 
 - **Look for what only the whole shows.** Promising places are where two
   sources' constructions join into a result neither states, where several
@@ -447,7 +494,8 @@ Send each reader:
   - Concepts;
   - a verdict on the source's characterization of the work;
   - its bearing on each named code;
-  - Limitations;
+  - Limitations, including gaps in the work's own argument: a step it
+    asserts without showing, a condition it leaves unstated (step 9a);
   - a candidate THEORY sentence and its `promote_when`.
 - **A recheck.** After reading, search the record again with what the
   reading surfaced: the constructions, examples, rival readings and terms

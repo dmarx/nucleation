@@ -152,3 +152,17 @@ eigenvectors are a refinement chain by construction. All three orders
 come from one eigenbasis, as in [THEORY-745](THEORY-745.md), and depend on the
 coordinates: natural-gradient flow would fit every direction at the same
 rate.
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
+
+A parallel, and a restatement. The three readings ([NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md),
+[NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md), [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)) use the same metric, JᵀJ with unit error,
+in general form. The 2015 review restates this reading's result
+qualitatively: the hopping model's manifold is a "hyper-blob" after one
+step, and "as time proceeds, the model manifold contracts onto a
+hyper-ribbon", the continuum parameters stiff and the rest "increasingly
+sloppy" (§V). It adds no computation. The 2010 letter explains a width
+hierarchy by another route, sampling an analytic function within its
+radius of convergence; here the hierarchy comes from observing at a scale
+coarse relative to the system's own. Both make it a property of the model
+as observed. No relation is written; nothing here changes the reading.

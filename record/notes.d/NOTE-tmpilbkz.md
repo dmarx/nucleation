@@ -1,0 +1,187 @@
+---
+status: Read
+title: 'Bialek, Nemenman & Tishby — predictive information and its three regimes of growth'
+paper: LIT-tmpys7v3
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    From the arXiv e-print physics/0007070v3 (stamped 23 January 2001),
+    53 pp., fetched 2026-11-21 from arxiv.org with no obstacle, converted
+    with pdftotext. Read in full: abstract, §§1–6 (pp. 1–47) and footnotes
+    1–19; Figs. 1–3 from their captions and axis labels only; the reference
+    list (pp. 48–53) skipped. Section, equation and page numbers are the
+    e-print's. The copy carries no journal reference, and none is asserted
+    here. Read by a reader subagent; filed by a second one, which rechecked
+    every quote used here against the extraction and recomputed the
+    annealed coefficient below (python3 -I). No email address sent.
+date: '2026-11-21'
+summary: >-
+  Predictive information, the mutual information between a series' past
+  and its future, is the subextensive part of its entropy, and its growth
+  falls in three classes: finite, logarithmic, power law. A model with K
+  parameters drawn once from a prior gives (K/2) log N (a smaller
+  dimension when the parameterization is degenerate); an essential
+  singularity in the density of nearby models gives N^(μ/(μ+1)) in the
+  annealed approximation, N^(1/2) for a smooth density under a field-theory
+  prior. The divergent part is argued to be the unique measure of
+  complexity.
+---
+<!-- inactive-ok-file: ARG-tmpvo4gr ARG-tmpy9b4f CLAIM-tmp99m8g CLAIM-tmpj0k4q CLAIM-tmpyxiwv TERM-tmpxml4k THEORY-tmp3gj1j — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+
+# NOTE-tmpilbkz: Bialek, Nemenman & Tishby — predictive information and its three regimes of growth
+
+## Contribution
+
+One model-free quantity, I_pred, that contains Rissanen's model complexity
+((K/2) log N), the excess entropy of computational mechanics when finite,
+and Grassberger's effective measure complexity; a statistical-mechanics
+reading of learning (divergence as energy, N as inverse temperature); the
+first worked Bayesian nonparametric case of power-law growth; and an
+argument that the divergent part of I_pred is the unique complexity
+measure under stated invariances.
+
+## Key insight
+
+"predictability is a deviation from extensivity" (§3, p. 9): the entropy's
+extensive part cancels between past and future, and only the subextensive
+part S₁ is shared. How S₁ diverges says what kind of thing is being
+learned, finitely many parameters or a function.
+
+## Assumptions
+
+- Stationarity (§3); parameters drawn once from a prior and fixed for the
+  whole stream (Eq. 21).
+- The annealed approximation: empirical means replaced by expectations
+  (fn. 5, Eq. 51), and a saddle point; a "sound" parameterization; N much
+  larger than the VC dimension.
+- For processes (§4.3, Eqs. 65–66): given the parameters, no long-range
+  correlations.
+- The power-law results (Eqs. 84, 96–97) are annealed, and the essential
+  singularity is posited in §4.5 and computed only for the prior of §4.6.
+
+## Key results
+
+- **Definition** (§3, Eqs. 4, 6, 9, pp. 9–10): I_pred(T, T′) is the mutual
+  information between a past of length T and a future of length T′; with
+  stationarity it is S(T) + S(T′) − S(T + T′), and the headline quantity is
+  the infinite-future limit, I_pred(T) = S₁(T) (Eq. 9).
+- **Diminishing returns** (Eq. 10, p. 10): "most of what we observe is
+  irrelevant to the problem of predicting the future."
+- **Learning curve** (Eq. 14, p. 11): "the learning curve is the derivative
+  of the predictive information."
+- **Parameters** (§3, p. 12): the mutual information between data and
+  parameters "is easily shown to be equal to the predictive information
+  about all of the future".
+- **Three classes** (§3, p. 12): "it may either stay finite, or grow to
+  infinity together with T; in the latter case the rate of growth may be
+  slow (logarithmic) or fast (sublinear power)".
+- **Linear regression** (§4.1, Eq. 41, p. 18): f(x; α) = Σ α_μ φ_μ(x) with
+  Gaussian noise gives S₁(N) → (K/2) log₂ N bits, independent of the basis
+  functions.
+- **Any K-parameter family** (§4.2, Eqs. 52–63, pp. 20–22): from the
+  density of divergences ρ(D → 0) ∝ D^((K−2)/2), (K/2) log₂ N, "independent
+  even of the prior". "Another possibility is that the determinant of F is
+  zero" (p. 23): a degenerate parameterization gives a phase-space
+  dimension d in place of K. Valid only for N much larger than the VC
+  dimension. "temperature is inverse to the number of examples" (p. 21).
+- **Processes** (§4.3, Eqs. 65–69): with K* from intrinsic correlations,
+  S₁ = ((K + K*)/2) log₂ N: "the subextensive entropy makes no distinction
+  between predictability that comes from unknown parameters and
+  predictability that comes from intrinsic correlations in the data".
+- **Fluctuations** (§4.4): the fluctuation term is negative and O(1) for
+  finite VC dimension; for infinite VC dimension "there is no uniform bound
+  on the value of N for which this convergence will occur".
+- **Power law** (§4.5, Eqs. 80–84, p. 30): ρ(D → 0) ≈ A exp[−B/D^μ] gives
+  S₁^(a)(N) ∝ N^(μ/(μ+1)); heuristically, with K ∼ N^ν parameters each new
+  example carries ∼ N^(ν−1) bits. "If the number of parameters grows
+  constantly, then the scenario where the data overwhelms all the unknowns
+  is far from certain" (p. 31).
+- **Worked case** (§4.6, Eqs. 85–97, pp. 32–34): a smoothness prior on a
+  one-dimensional density gives μ = 1 and S₁^(a) ∼ (1/(2 ln 2)) √(NL/l):
+  "the predictive information is directly proportional to the number of
+  bins that can be put in the range of x". The authors: "we don't know of a
+  complete calculation in which a family of power-law scalings" is derived
+  from a Bayesian formulation (p. 32).
+- **Uniqueness** (§5.3, pp. 39–43): invariance under instantaneous
+  coordinate changes and temporally local transformations leaves only the
+  divergent subextensive terms as a measure of complexity, which "should
+  be zero both for purely regular and for purely random systems".
+- **Criticality** (§3 p. 12; §6 p. 44; fn. 9): "Under these conditions the
+  predictive information can grow without bound"; "At critical points the
+  predictive information will diverge with the size of the system", with
+  coefficients related to scaling dimensions, details to be worked out.
+  Asserted, not shown.
+- **Crossover** (Eq. 100, p. 46) and **language** (p. 47): Hilberg's
+  reanalysis of Shannon as evidence for S₁ ∝ N^(1/2) in text.
+
+**The filer's check of the annealed coefficient.** In a linear-Gaussian
+model with a unit Gaussian prior on each eigendirection and Fisher
+eigenvalues λ_j, the exact S₁(N) = G(N) = ½ Σ ln(1 + Nλ_j) (by §3's identity
+with the parameter information), and the paper's annealed
+S₁^(a) = −⟨ln Z⟩ = G(N) + ½ Σ Nλ_j/(1 + Nλ_j). For finitely many parameters
+the extra term is at most K/2, a constant. For λ_j = j^(−p) it is of the same
+order as G: annealed/exact = 1.509 and 1.501 at N = 10⁴ and 10⁶ for p = 2,
+1.361 and 1.341 for p = 3, against 1 + 1/p (closed form: the ratio of
+∫(1 + u^p)⁻¹du to ∫ln(1 + u^(−p))du is 1/p). The per-direction formula was
+checked by Monte Carlo (1.872 against 1.855 from 300 draws). So in the
+power-law class the exponent survives the annealed approximation and the
+coefficient does not: it is too large by about 1 + 1/p, and the negative
+fluctuation term is then of leading order.
+
+## Concepts
+
+- **Predictive information** I_pred(T) — I(past of length T; the whole
+  future), equal to the subextensive entropy S₁(T); I_pred(T, T′) for a
+  finite future.
+- **Density of divergences** ρ(D; ᾱ), and the partition function Z(ᾱ; N).
+- **Phase-space dimension** d, against the parameter count K and the VC
+  dimension.
+- **Annealed and fluctuation terms** S₁^(a), S₁^(f).
+
+## Connections
+
+Contains Rissanen's stochastic complexity and Grassberger's measures; the
+information bottleneck ([LIT-338](../literature.d/LIT-338.md)) appears in §6 as a compression of the past
+that keeps I_pred, and §5.2 identifies statistical complexity with the
+entropy of the minimal such compression ([THEORY-743](../theory.d/THEORY-743.md), [THEORY-756](../theory.d/THEORY-756.md)). The
+evidence-as-partition-function reading is the one LaMont and Wiggins later
+develop ([LIT-1882](../literature.d/LIT-1882.md), [THEORY-1253](../theory.d/THEORY-1253.md)).
+
+## Bearing on the record
+
+Filed as [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md). Dated notes of 2026-11-21 on each entry below.
+
+- **[TERM-tmpxml4k](../terms.d/TERM-tmpxml4k.md)**: supports; the paper's I_pred(T) has an infinite
+  future, the term's a future of length T. Same regimes and log
+  coefficient; for power-law growth cT^μ they differ by the factor
+  (2 − 2^μ).
+- **[CLAIM-tmpyxiwv](../claims.d/CLAIM-tmpyxiwv.md)**: (d/2) ln T is §4.1; T^(1/p) is an instance of §4.5 as
+  to exponent only; (ln T)²/(4a) is not in the paper. [ARG-tmpy9b4f](../arguments.d/ARG-tmpy9b4f.md).
+- **[CLAIM-tmp99m8g](../claims.d/CLAIM-tmp99m8g.md)**: supports the split of entropy from complexity;
+  asserts, without proof, that predictive information diverges at critical
+  points. [ARG-tmpvo4gr](../arguments.d/ARG-tmpvo4gr.md).
+- **[CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md)**: §4.5–4.6's effective parameter count growing as a
+  power of N corroborates its power-law half.
+- **[QUESTION-tmpzlagu](../questions.d/QUESTION-tmpzlagu.md)**: K, d and the VC dimension are three more
+  effective dimensions.
+- **[QUESTION-tmp2hhlc](../questions.d/QUESTION-tmp2hhlc.md)**: the criticality assertion bears on it; a
+  relation is written from [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md), and the question's dated note
+  is left to that entry's filer.
+- **[LEAD-tmpl5wxz](../leads.d/LEAD-tmpl5wxz.md)**: §6 relates divergence coefficients to scaling
+  dimensions, unworked.
+- **[THEORY-087](../theory.d/THEORY-087.md)**, **[THEORY-1253](../theory.d/THEORY-1253.md)**, **[THEORY-743](../theory.d/THEORY-743.md)**: parallel, as under
+  Connections.
+
+## Limitations
+
+- Heuristic in places (the authors call §4.6 "less self-contained");
+  annealed coefficients for the power-law class, too large in the one
+  model checked above; the essential singularity is assumed in §4.5 and
+  derived for one prior.
+- The uniqueness argument of §5.3 is an argument, not a theorem.
+- The criticality statements are conjectural (fn. 9, §6), and the paper's
+  own §5.3 notes that one-dimensional local models have no critical
+  points.
+- Fig. 3 is one numerical illustration.
