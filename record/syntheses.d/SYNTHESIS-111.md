@@ -1,5 +1,8 @@
 ---
+number: 111
 status: Proposed
+formerly:
+- SYNTHESIS-tmpeptl5
 title: 'In the record a collective''s correction runs through separable achievements, from admission to recognition, credibility, uptake and a part in revising standards, any of which can fail while the others hold; selection and self-scoring need different remedies; and effective action, governance and correctability by others are maintained separately'
 version: 1
 defeated_if: >-
@@ -33,7 +36,7 @@ integrates:
 ---
 
 <!-- inactive-ok-file: CLAIM-732 CLAIM-719 — Proposed or Open; components of this account, cited with their standing -->
-# SYNTHESIS-tmpeptl5: In the record a collective's correction runs through separable achievements, from admission to recognition, credibility, uptake and a part in revising standards, any of which can fail while the others hold; selection and self-scoring need different remedies; and effective action, governance and correctability by others are maintained separately
+# SYNTHESIS-111: In the record a collective's correction runs through separable achievements, from admission to recognition, credibility, uptake and a part in revising standards, any of which can fail while the others hold; selection and self-scoring need different remedies; and effective action, governance and correctability by others are maintained separately
 
 *A thematic account, across lines, of principle P10 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
 

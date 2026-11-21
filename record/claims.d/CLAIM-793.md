@@ -1,5 +1,8 @@
 ---
+number: 793
 status: Proposed
+formerly:
+- CLAIM-tmppkqzl
 title: 'Where an inquiry keeps its sources and each step reads the stored source rather than the last restatement of it, re-reading is not a second route beside conservation but conservation on the state enlarged by the source; on that structure an interpretation does not drift but settles on a fixed offset from the source toward the reader''s prior, the same at every reading, which no reader sharing that prior can see, and drift is confined to the chains of derived texts'
 version: 2
 history:
@@ -8,7 +11,7 @@ history:
   note: >-
     Restated in general terms at the owner's ruling of 2026-11-21 on the
     promotion pull request, asked whether the objection should stay a
-    record-local instance of CLAIM-tmp1xigl: "general terms". The
+    record-local instance of CLAIM-790: "general terms". The
     argument is unchanged; the record becomes one instance of an inquiry
     that keeps its sources. Version 1's title: "Re-reading a fixed source
     each time is not a second route beside conservation but the same one
@@ -67,7 +70,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-772 CLAIM-182 CLAIM-191 — Proposed; the claim objected to and the anchoring claims it rests on -->
 
-# CLAIM-tmppkqzl: Where an inquiry keeps its sources and each step reads the stored source rather than the last restatement of it, re-reading is not a second route beside conservation but conservation on the state enlarged by the source; on that structure an interpretation does not drift but settles on a fixed offset from the source toward the reader's prior, the same at every reading, which no reader sharing that prior can see, and drift is confined to the chains of derived texts
+# CLAIM-793: Where an inquiry keeps its sources and each step reads the stored source rather than the last restatement of it, re-reading is not a second route beside conservation but conservation on the state enlarged by the source; on that structure an interpretation does not drift but settles on a fixed offset from the source toward the reader's prior, the same at every reading, which no reader sharing that prior can see, and drift is confined to the chains of derived texts
 
 ## The objection
 
@@ -149,7 +152,7 @@ a test.
 ## What it does not say
 
 - Not that the record has no chains. Its derived texts are chains, and
-  some of them copy text exactly, which [CLAIM-tmp0kqq4](CLAIM-tmp0kqq4.md) takes up.
+  some of them copy text exactly, which [CLAIM-789](CLAIM-789.md) takes up.
 - Not that the linear form of a reading is right. It is the simplest form
   in which the reader's prior enters; the point that a prior enters every
   reading, and so enters its limit, does not need it.
@@ -159,4 +162,4 @@ a test.
 
 ## Reframings
 
-**2026-11-21, the owner on the promotion pull request.** Asked whether this objection should be restated in general terms or stay a record-local instance of [CLAIM-tmp1xigl](CLAIM-tmp1xigl.md): "general terms". Before: a claim about how this record anchors its entries. After: a claim about any inquiry that keeps its sources, with the record as the instance that raised it. The argument and its bearing are unchanged.
+**2026-11-21, the owner on the promotion pull request.** Asked whether this objection should be restated in general terms or stay a record-local instance of [CLAIM-790](CLAIM-790.md): "general terms". Before: a claim about how this record anchors its entries. After: a claim about any inquiry that keeps its sources, with the record as the instance that raised it. The argument and its bearing are unchanged.

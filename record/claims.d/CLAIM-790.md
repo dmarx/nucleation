@@ -1,5 +1,8 @@
 ---
+number: 790
 status: Proposed
+formerly:
+- CLAIM-tmp1xigl
 title: 'In any inquiry, anchoring is one mechanism, a fixed reference that each reconstruction is pulled toward, and what it secures is set by what the reference is tied to: tied to the target by a channel independent of the inquirer, it gives the inquiry''s states content and makes a discrepancy register; tied to an earlier state of the inquiry, it gives continuity and not correctness; tied to nothing, it is bias'
 version: 1
 role: thesis
@@ -45,9 +48,9 @@ summary: >-
   they differ in what the reference is tied to. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-191 CLAIM-184 CLAIM-185 CLAIM-772 THEORY-2096 THEORY-487 CLAIM-217 SYNTHESIS-066 CLAIM-315 CLAIM-tmppkqzl CLAIM-tmp0kqq4 — Proposed; the anchoring claims and readings this joins, and the objections it generalizes -->
+<!-- inactive-ok-file: CLAIM-191 CLAIM-184 CLAIM-185 CLAIM-772 THEORY-2096 THEORY-487 CLAIM-217 SYNTHESIS-066 CLAIM-315 CLAIM-793 CLAIM-789 — Proposed; the anchoring claims and readings this joins, and the objections it generalizes -->
 
-# CLAIM-tmp1xigl: In any inquiry, anchoring is one mechanism, a fixed reference that each reconstruction is pulled toward, and what it secures is set by what the reference is tied to: tied to the target by a channel independent of the inquirer, it gives the inquiry's states content and makes a discrepancy register; tied to an earlier state of the inquiry, it gives continuity and not correctness; tied to nothing, it is bias
+# CLAIM-790: In any inquiry, anchoring is one mechanism, a fixed reference that each reconstruction is pulled toward, and what it secures is set by what the reference is tied to: tied to the target by a channel independent of the inquirer, it gives the inquiry's states content and makes a discrepancy register; tied to an earlier state of the inquiry, it gives continuity and not correctness; tied to nothing, it is bias
 
 ## The claim
 
@@ -115,8 +118,8 @@ nucleation, structure that can grow only on anchors, is the second kind's
 contribution to an inquiry; it says nothing about whether what grows is
 right. The two objections to [CLAIM-772](CLAIM-772.md) of the same day, stated in general terms, are cases of it:
 the reader's prior that offsets every reading of an anchored text
-([CLAIM-tmppkqzl](CLAIM-tmppkqzl.md)) is anchoring of the third kind inside one of the
-second; the stale summary ([CLAIM-tmp0kqq4](CLAIM-tmp0kqq4.md)) is the second kind not
+([CLAIM-793](CLAIM-793.md)) is anchoring of the third kind inside one of the
+second; the stale summary ([CLAIM-789](CLAIM-789.md)) is the second kind not
 following a revision.
 
 **Against [SYNTHESIS-066](../syntheses.d/SYNTHESIS-066.md)'s refusal.** That review declined to file

@@ -1,5 +1,8 @@
 ---
+number: 300
 status: 'Active'
+formerly:
+- CASE-tmpnkuie
 title: 'Who changes the record''s grammar, how, and with what result: of its 114 decisions to 2026-11-20, 88 changed the grammar, 62 by refinement, 25 by revision and 1 by restraint; the misfit each answered had nearly always been forced into a category or kept in prose first; removals were carried through every entry using the term while a change of meaning in place reached none; and the noticing moved from filing agents to review procedures while judgment about revisions stayed with the owner'
 version: 2
 history:
@@ -45,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-047 ADR-076 ADR-077 ADR-080 — Superseded; cited as decisions the census coded -->
 <!-- inactive-ok-file: ARG-028 CLAIM-181 — Proposed; cited in this filing of 2026-11-20 -->
 
-# CASE-tmpnkuie: Who changes the record's grammar, how, and with what result: of its 114 decisions to 2026-11-20, 88 changed the grammar, 62 by refinement, 25 by revision and 1 by restraint; the misfit each answered had nearly always been forced into a category or kept in prose first; removals were carried through every entry using the term while a change of meaning in place reached none; and the noticing moved from filing agents to review procedures while judgment about revisions stayed with the owner
+# CASE-300: Who changes the record's grammar, how, and with what result: of its 114 decisions to 2026-11-20, 88 changed the grammar, 62 by refinement, 25 by revision and 1 by restraint; the misfit each answered had nearly always been forced into a category or kept in prose first; removals were carried through every entry using the term while a change of meaning in place reached none; and the noticing moved from filing agents to review procedures while judgment about revisions stayed with the owner
 
 ## The case
 
@@ -190,4 +193,4 @@ record would update both; until then its figures hold as of 2026-11-20.
 
 ## Note of 2026-11-21: anthology-candidate was not redefined
 
-The owner, on pull request 582: "the flag didn't change meaning, visiting these is the responsibility of processes on the anthology to consider if they want to add these candidates or not. pretty sure no action is required on Nucleation's end." The audit had classed [ADR-048](../decisions.d/ADR-048.md)'s rewording of the flag's blurb as a redefinition in place that reached none of its 237 entries. The flag records what [ADR-005](../decisions.d/ADR-005.md) made it record, that someone judged the anthology may want the work. [ADR-048](../decisions.d/ADR-048.md) changed what that implies about the work's filing here, not what the flag records. So no carry-through was needed, and the audit has no redefinition in place. [CLAIM-tmpj5aiv](../claims.d/CLAIM-tmpj5aiv.md) is corrected to match (version 2). The counts are unchanged; only the classification of one row moved.
+The owner, on pull request 582: "the flag didn't change meaning, visiting these is the responsibility of processes on the anthology to consider if they want to add these candidates or not. pretty sure no action is required on Nucleation's end." The audit had classed [ADR-048](../decisions.d/ADR-048.md)'s rewording of the flag's blurb as a redefinition in place that reached none of its 237 entries. The flag records what [ADR-005](../decisions.d/ADR-005.md) made it record, that someone judged the anthology may want the work. [ADR-048](../decisions.d/ADR-048.md) changed what that implies about the work's filing here, not what the flag records. So no carry-through was needed, and the audit has no redefinition in place. [CLAIM-791](../claims.d/CLAIM-791.md) is corrected to match (version 2). The counts are unchanged; only the classification of one row moved.

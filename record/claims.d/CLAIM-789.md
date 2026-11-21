@@ -1,5 +1,8 @@
 ---
+number: 789
 status: Proposed
+formerly:
+- CLAIM-tmp0kqq4
 title: 'In any inquiry whose sources are revised, copying exactly anchors a copy to the version it was taken from, so the copy keeps what a later revision removed: exact copying conserves staleness as faithfully as content, and what anchors a derived text to a revisable source is a tie to the source that a revision has to pass through, not exactness'
 version: 2
 history:
@@ -53,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-772 RETRO-004 — Proposed or Draft; the claim objected to and the case -->
 
-# CLAIM-tmp0kqq4: In any inquiry whose sources are revised, copying exactly anchors a copy to the version it was taken from, so the copy keeps what a later revision removed: exact copying conserves staleness as faithfully as content, and what anchors a derived text to a revisable source is a tie to the source that a revision has to pass through, not exactness
+# CLAIM-789: In any inquiry whose sources are revised, copying exactly anchors a copy to the version it was taken from, so the copy keeps what a later revision removed: exact copying conserves staleness as faithfully as content, and what anchors a derived text to a revisable source is a tie to the source that a revision has to pass through, not exactness
 
 ## The objection
 
@@ -111,4 +114,4 @@ recorded with the copy.
 
 ## Reframings
 
-**2026-11-21, the owner on the promotion pull request.** Asked whether this objection should be restated in general terms or stay a record-local instance of [CLAIM-tmp1xigl](CLAIM-tmp1xigl.md): "general terms". Before: a claim about how this record's copies go stale. After: a claim about any inquiry whose sources are revised, with [RETRO-004](../retrospectives.d/RETRO-004.md)'s summary as the case. The argument is unchanged.
+**2026-11-21, the owner on the promotion pull request.** Asked whether this objection should be restated in general terms or stay a record-local instance of [CLAIM-790](CLAIM-790.md): "general terms". Before: a claim about how this record's copies go stale. After: a claim about any inquiry whose sources are revised, with [RETRO-004](../retrospectives.d/RETRO-004.md)'s summary as the case. The argument is unchanged.

@@ -1,5 +1,8 @@
 ---
+number: 791
 status: Proposed
+formerly:
+- CLAIM-tmpj5aiv
 title: 'In this record a change to a vocabulary term was always announced by a decision, and was carried through the entries using the term whenever entries had to move, by removal or split; the audit found no term whose meaning changed in place, so it does not test whether entries follow a change of meaning alone'
 version: 2
 history:
@@ -41,9 +44,9 @@ line:
 - record-as-apparatus
 - records-of-inquiry
 grounds:
-- CASE-tmpnkuie
+- CASE-300
 summary: >-
-  A finding of the term audit in [CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md), filed at the owner's
+  A finding of the term audit in [CASE-300](../cases.d/CASE-300.md), filed at the owner's
   direction from the manuscript on the record. It measures [CLAIM-189](CLAIM-189.md)'s
   traceability, and [CLAIM-666](CLAIM-666.md)'s criterion for a faithful migration, against
   the record's own grammar. The wording is the assistant's (Claude, in this
@@ -52,11 +55,11 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-189 CLAIM-666 — Proposed; cited in this filing of 2026-11-20 -->
 
-# CLAIM-tmpj5aiv: In this record a change to a vocabulary term was always announced by a decision, and was carried through the entries using the term whenever entries had to move, by removal or split; the audit found no term whose meaning changed in place, so it does not test whether entries follow a change of meaning alone
+# CLAIM-791: In this record a change to a vocabulary term was always announced by a decision, and was carried through the entries using the term whenever entries had to move, by removal or split; the audit found no term whose meaning changed in place, so it does not test whether entries follow a change of meaning alone
 
 ## The claim
 
-The term audit ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) found 34 events in the record's history: 25 declarations reworded and 9 terms removed. Every event came with a decision record in its unit of work. What happened to the entries carrying each term depended on the kind of change:
+The term audit ([CASE-300](../cases.d/CASE-300.md)) found 34 events in the record's history: 25 declarations reworded and 9 terms removed. Every event came with a decision record in its unit of work. What happened to the entries carrying each term depended on the kind of change:
 
 - **Removal.** Every entry carrying a removed term in use was changed in the same unit: `identity` 41 of 41, `self-and-personhood` 42 of 42, and the four SYNTHESIS terms [ADR-084](../decisions.d/ADR-084.md) removed.
 - **Split.** The entries that moved were changed: `Deferred` 177 of 345, `ecology` 13 of 50, and the split lines.

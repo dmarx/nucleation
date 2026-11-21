@@ -1,11 +1,14 @@
 ---
+number: 794
 status: Proposed
+formerly:
+- CLAIM-tmpzrl0a
 title: 'In a record of inquiry that amends its grammar when a move fits nothing, refining a category makes misfits in the refined region more noticeable rather than fewer: a move the coarse category would have absorbed without residue now visibly fits none of the finer ones, so a refinement exposes misfits as well as absorbing them'
 version: 1
 role: thesis
 warrant: empirical
 defeated_if: >-
-  In the decision census (CASE-tmpnkuie) or a recode of it by a coder
+  In the decision census (CASE-300) or a recode of it by a coder
   outside the assistant family, misfits noticed in the scheme, field or
   vocabulary a refinement created or split are no more frequent per filed
   entry in a fixed window after the refinement than in the same window
@@ -40,7 +43,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-2096 CLAIM-181 — Proposed; the reading this claim generalizes from, and the counter whose sequence it extends -->
 
-# CLAIM-tmpzrl0a: In a record of inquiry that amends its grammar when a move fits nothing, refining a category makes misfits in the refined region more noticeable rather than fewer: a move the coarse category would have absorbed without residue now visibly fits none of the finer ones, so a refinement exposes misfits as well as absorbing them
+# CLAIM-794: In a record of inquiry that amends its grammar when a move fits nothing, refining a category makes misfits in the refined region more noticeable rather than fewer: a move the coarse category would have absorbed without residue now visibly fits none of the finer ones, so a refinement exposes misfits as well as absorbing them
 
 ## The claim
 
@@ -67,7 +70,7 @@ Kuhn, as Kindi reads him ([THEORY-2096](../theory.d/THEORY-2096.md), Proposed), 
 
 ## What would test it
 
-The census ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) dates each grammar change and codes what triggered it. To test this claim, a coder would need to:
+The census ([CASE-300](../cases.d/CASE-300.md)) dates each grammar change and codes what triggered it. To test this claim, a coder would need to:
 
 1. For each refinement, find the misfits later noticed in the region it refined, counting only moves the old category would have absorbed.
 2. Compare them, per filed entry, with a matched window before the refinement and with unrefined regions that had comparable filing.
@@ -77,5 +80,5 @@ The census ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) dates each grammar cha
 ## What it does not say
 
 - **That refinement is always worth its cost.** [CLAIM-569](CLAIM-569.md) holds the costs of construction, maintenance and transition.
-- **That noticing follows by itself.** Someone or something must still look. [CLAIM-tmpmtv1b](CLAIM-tmpmtv1b.md) holds who did, in this record.
+- **That noticing follows by itself.** Someone or something must still look. [CLAIM-792](CLAIM-792.md) holds who did, in this record.
 - **That the eight-stage cycle of the manuscript is a sequence.** [CLAIM-474](CLAIM-474.md) and [CLAIM-532](CLAIM-532.md) both deny that such steps form a sequence.
