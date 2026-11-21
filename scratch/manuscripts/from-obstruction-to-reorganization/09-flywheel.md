@@ -34,7 +34,7 @@ Noticing moved from incidental to institutional. In P10's terms, the recognition
 - **withdrawing an abstraction** that had overreached: an admission route that let accounts assert (ADR-084);
 - **splitting units of inquiry** (ADR-082, ADR-087, ADR-089, ADR-100).
 
-**Stage 5: carry-through.** 2,664 existing entries were migrated by the 58 changes that state a count. Every removed vocabulary term in use was carried through every entry using it (§15.2). The predicted failure occurred exactly where the theory says it would. When only a meaning changed, nothing forced the entries to follow: ADR-048's redefinition of `anthology-candidate` reached none of its 237 entries.
+**Stage 5: carry-through.** 2,664 existing entries were migrated by the 58 changes that state a count. Every removed vocabulary term in use was carried through every entry using it, and every split moved the entries it had to (§15.2). The failure the theory predicts at this stage, when only a meaning changes, is untested: the history holds no such change. An earlier version of this paper counted `anthology-candidate` as one; the owner ruled that the flag did not change meaning. The one carry-through failure found is of another kind, a correction that did not reach a derived summary (§14.5).
 
 **Stage 6: maintenance.** Required fields, `fail_on` patterns, CI on every pull request, skills that write review procedures down, generated worklists (§14.3). The predicted failure also occurred. A correction to a postmortem's body did not reach its summary or the view generated from it (§14.5). In P7's terms, it was a correction recorded but not carried through everything that depends on it.
 
@@ -86,7 +86,7 @@ The theory and the machinery that tests it were formed together, and each was re
 | P6: three ledgers | 2,664 entries migrated; ten later errors; transition costs recorded | Observed (tier 2) |
 | P7: maintenance; support erodes | Procedures built for maintenance; corrections that stopped short; erosion of the owner's capacity unmeasured | Partly observed; the key risk untested |
 | P8: reflexive inquiry, owned criteria | Grammar revised by decision; criteria of revision stayed with the owner; the theory revised by the machinery | Observed (tier 1–2) |
-| P9: anchors and traceable change | Codes, history, retirement by status; removals fully carried through; one redefinition not | Observed (tier 2); one failure |
+| P9: anchors and traceable change | Codes, history, retirement by status; removals and splits fully carried through; one derived summary not | Observed (tier 2); one failure |
 | P10: chain of uptake; correctability | Noticing moved into procedures; postmortems review decisions; correctability of the whole not measured | Partly observed |
 
 Every entry in the table is tier 1 or tier 2 evidence: what the record says it did, and what its grammar now distinguishes. None is tier 3, evidence that the inquiry is better for it. Section 19 sets out how tier-3 evidence could be obtained.

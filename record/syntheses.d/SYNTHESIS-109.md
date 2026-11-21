@@ -1,5 +1,8 @@
 ---
+number: 109
 status: Proposed
+formerly:
+- SYNTHESIS-tmp230me
 title: 'Growth in observing resource splits what can be told apart, growth in acting resource merges what can be turned into one another, and optimal categories at a larger budget can re-carve rather than refine: what the record holds on how categories change as resources grow'
 version: 1
 defeated_if: >-
@@ -30,7 +33,7 @@ integrates:
 
 <!-- inactive-ok-file: CLAIM-770 CLAIM-780 CLAIM-781 — Proposed or Open; filed on 2026-11-21 and cited in this note -->
 
-# SYNTHESIS-tmp230me: Growth in observing resource splits what can be told apart, growth in acting resource merges what can be turned into one another, and optimal categories at a larger budget can re-carve rather than refine: what the record holds on how categories change as resources grow
+# SYNTHESIS-109: Growth in observing resource splits what can be told apart, growth in acting resource merges what can be turned into one another, and optimal categories at a larger budget can re-carve rather than refine: what the record holds on how categories change as resources grow
 
 *A thematic account, across lines, of principle P2 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
 

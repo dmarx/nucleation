@@ -4,7 +4,7 @@ status: Draft
 formerly:
 - RETRO-tmpcjeut
 title: 'The session''s changes to luria.yaml of 2026-11-19: a work for the owner''s manuscript, the explication form, and the LEAD scheme'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-21'
@@ -15,6 +15,17 @@ history:
     something that went wrong. The text below is POSTMORTEM-002's,
     unchanged apart from this heading; POSTMORTEM-002 is retired by
     status, superseded by this entry.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    The summary is corrected at the owner's ruling of 2026-11-21 ("just
+    correct it"). It said the derived converses "are declared but never
+    written", the first version's reading, which the body had corrected on
+    2026-11-20 (finding 7): luria computes the derived side of a directed
+    pair for every reader and never writes it, and what misled was the
+    blurbs. The correction reached the body and not the summary, and the
+    summary was carried over unchanged when POSTMORTEM-002 became this
+    entry. The body is unchanged.
 tags:
 - record
 - taxonomy
@@ -39,9 +50,10 @@ summary: >-
   rewritten twice. The LEAD scheme holds 197 leads but its stage ladder
   does not discriminate (96 per cent at idea), it has no priority field
   for triage, question dependencies are unused, leads cannot target
-  theories or terms, there is no blocked state, and its derived converses
-  are declared but never written. Recommendations for one decision, and
-  three process rules.
+  theories or terms, there is no blocked state, and the blurbs of its
+  derived converses wrongly say they are written by luria link --fix,
+  when luria computes them for every reader and never stores them.
+  Recommendations for one decision, and three process rules.
 ---
 <!-- inactive-ok-file: ADR-112 ARG-119 — Proposed; cited as open -->
 <!-- inactive-ok-file: POSTMORTEM-002 ADR-115 — Superseded or Proposed; the postmortem this converts, and the decision converting it -->
