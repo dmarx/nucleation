@@ -1,5 +1,8 @@
 ---
+number: 299
 status: Active
+formerly:
+- CASE-tmpi16kb
 title: 'Building the record''s staging branch found a requirement no one had stated: at the first promotion, merged by hand, the workflow that was to merge main back into staging never ran, because it ran only after promoting something itself'
 version: 1
 standing: documented
@@ -12,15 +15,15 @@ date: '2026-11-21'
 line:
 - record-as-apparatus
 illustrates:
-- CLAIM-tmphigw4
-- CLAIM-tmpm9ep1
+- CLAIM-784
+- CLAIM-786
 summary: >-
   The record's own tooling, 2026-11-21. Documented in [ADR-116](../decisions.d/ADR-116.md)'s history and
   pull requests 565, 566 and 567.
 ---
-<!-- inactive-ok-file: ADR-116 CLAIM-tmphigw4 CLAIM-tmpm9ep1 — Proposed; the decision whose application this is, and the claims it illustrates -->
+<!-- inactive-ok-file: ADR-116 CLAIM-784 CLAIM-786 — Proposed; the decision whose application this is, and the claims it illustrates -->
 
-# CASE-tmpi16kb: Building the record's staging branch found a requirement no one had stated: at the first promotion, merged by hand, the workflow that was to merge main back into staging never ran, because it ran only after promoting something itself
+# CASE-299: Building the record's staging branch found a requirement no one had stated: at the first promotion, merged by hand, the workflow that was to merge main back into staging never ran, because it ran only after promoting something itself
 
 ## What happens
 
@@ -45,8 +48,8 @@ The specification was written, reviewed and passed CI. The missing
 requirement appeared only once the thing existed and was used in a way
 the specification allowed, a promotion by hand, but its author had not
 pictured. Building revised the specification, which is the reflexive case of
-[CLAIM-tmphigw4](../claims.d/CLAIM-tmphigw4.md), and what was learned was about how a record's memory has to
-work across branches, which is [CLAIM-tmpm9ep1](../claims.d/CLAIM-tmpm9ep1.md).
+[CLAIM-784](../claims.d/CLAIM-784.md), and what was learned was about how a record's memory has to
+work across branches, which is [CLAIM-786](../claims.d/CLAIM-786.md).
 
 ## What it cannot show
 

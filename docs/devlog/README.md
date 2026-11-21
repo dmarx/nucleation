@@ -6,14 +6,18 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [21 Nov 07:01 — Going wrong, caught: resolving a merge conflict with --ours reverted three of the owner's rulings](2026-11.md#going-wrong-caught-resolving-a-merge-conflict-with---ours-reverted-three-of-the-owners-rulings)
+- [21 Nov 06:53 — Going wrong: the owner ruled by ticking a checklist, and the assistant read only the comment](2026-11.md#going-wrong-the-owner-ruled-by-ticking-a-checklist-and-the-assistant-read-only-the-comment)
+- [21 Nov 04:22 — Going wrong, twice: a code in a title fails docs-check, because repair links the code in the heading and not in the title](2026-11.md#going-wrong-twice-a-code-in-a-title-fails-docs-check-because-repair-links-the-code-in-the-heading-and-not-in-the-title)
+- [21 Nov 03:49 — Going right: the owner noticed that a list in a decision should be a named class, so the decision extends without amendment](2026-11.md#going-right-the-owner-noticed-that-a-list-in-a-decision-should-be-a-named-class-so-the-decision-extends-without-amendment)
 - [21 Nov 00:31 — Going wrong: the wrong theories of the session of 2026-11-20 and 21, how each was found out, and a docs-check failure nobody looked at](2026-11.md#going-wrong-the-wrong-theories-of-the-session-of-2026-11-20-and-21-how-each-was-found-out-and-a-docs-check-failure-nobody-looked-at)
 - [21 Nov 00:31 — Going right: the record already held most of the formal pieces, and the owner's reframings turned the assistant's first answers into better claims](2026-11.md#going-right-the-record-already-held-most-of-the-formal-pieces-and-the-owners-reframings-turned-the-assistants-first-answers-into-better-claims)
 - [21 Nov 00:31 — Going right: delegated readers checked the session's claims against the works they rested on, and caught three of the assistant's errors before they merged](2026-11.md#going-right-delegated-readers-checked-the-sessions-claims-against-the-works-they-rested-on-and-caught-three-of-the-assistants-errors-before-they-merged)
 
 ## All books
 
-3 entries across 1 book, newest first.
+7 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 3 | 2026-11-21 | 2026-11-21 |
+| [2026-11](2026-11.md) | 7 | 2026-11-21 | 2026-11-21 |

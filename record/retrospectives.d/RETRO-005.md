@@ -1,5 +1,8 @@
 ---
+number: 5
 status: Draft
+formerly:
+- RETRO-tmp0p4qy
 title: 'The night of 2026-11-21 after the first retrospective: staging and its first promotion, the dialectic regime and the conventions it grew, a local reading of First Contact and an adoption review that adopted 34 decisions; what went right was fitting the tooling to the work and the owner steering by interjection, and what went wrong was a few errors of the assistant''s that the regime let travel further before the owner caught them'
 version: 1
 tags:
@@ -8,12 +11,12 @@ tags:
 date: '2026-11-21'
 reviews:
 - ADR-116
-- ADR-tmpzgon7
-- ADR-tmpq5b9e
-- ADR-tmpwi4rk
-- ADR-tmpvmzl6
-- ADR-tmpyzxw8
-- ADR-tmpd4rgx
+- ADR-127
+- ADR-121
+- ADR-125
+- ADR-124
+- ADR-126
+- ADR-120
 - ADR-108
 pull_requests:
 - https://github.com/dmarx/nucleation/pull/564
@@ -42,7 +45,7 @@ summary: >-
   2026-11-21, after [RETRO-001](RETRO-001.md) earlier the same night. It reads the four
   devlog entries filed since (034912, earmarked by the owner; 042208;
   065344; and the night's pull requests), answers the earmark as
-  [ADR-tmpyzxw8](../decisions.d/ADR-tmpyzxw8.md) requires, and follows up [RETRO-001](RETRO-001.md)'s five recommendations.
+  [ADR-126](../decisions.d/ADR-126.md) requires, and follows up [RETRO-001](RETRO-001.md)'s five recommendations.
   Going right: staging removed stacking, the dialectic regime removed the
   permission handoff while the owner kept steering by interjection, the
   local reading of First Contact found what the anthology's did not, and a
@@ -52,9 +55,9 @@ summary: >-
   ruling by ticked box missed; and the nightly Promote still bypassing the
   review point built for it. Six recommendations, none yet a decision.
 ---
-<!-- inactive-ok-file: ADR-116 ADR-tmpzgon7 ADR-tmpvmzl6 ADR-tmpd4rgx ADR-108 — Proposed or Active since tonight; the decisions this reviews -->
+<!-- inactive-ok-file: ADR-116 ADR-127 ADR-124 ADR-120 ADR-108 — Proposed or Active since tonight; the decisions this reviews -->
 
-# RETRO-tmp0p4qy: The night of 2026-11-21 after the first retrospective: staging and its first promotion, the dialectic regime and the conventions it grew, a local reading of First Contact and an adoption review that adopted 34 decisions; what went right was fitting the tooling to the work and the owner steering by interjection, and what went wrong was a few errors of the assistant's that the regime let travel further before the owner caught them
+# RETRO-005: The night of 2026-11-21 after the first retrospective: staging and its first promotion, the dialectic regime and the conventions it grew, a local reading of First Contact and an adoption review that adopted 34 decisions; what went right was fitting the tooling to the work and the owner steering by interjection, and what went wrong was a few errors of the assistant's that the regime let travel further before the owner caught them
 
 ## What it covers
 
@@ -64,21 +67,21 @@ requests 564 to 580 in this record and 402 and 403 in luria. In order:
 - **Tooling.** The RETRO scheme (564); staging and the Promote workflow
   (565); the first promotion, by hand (566), which found that the back-merge
   ran only after a Promote run (567, [ADR-116](../decisions.d/ADR-116.md) version 2); the promotion pull
-  request kept open by a workflow (577, [ADR-tmpwi4rk](../decisions.d/ADR-tmpwi4rk.md)); the nightly Promote
+  request kept open by a workflow (577, [ADR-125](../decisions.d/ADR-125.md)); the nightly Promote
   moved to 03:45 Pacific (580).
 - **The argument.** Predicates as constraints and stabilization in the
   control-theoretic sense (568); engineering as a form of inquiry (572);
   First Contact related to the account of learning occasioned by
   obstruction, then read locally (575).
-- **Conventions.** Reframings in an entry's own prose (569, [ADR-tmpd4rgx](../decisions.d/ADR-tmpd4rgx.md));
-  the dialectic regime (570, [ADR-tmpzgon7](../decisions.d/ADR-tmpzgon7.md)) and what it grew: several
+- **Conventions.** Reframings in an entry's own prose (569, [ADR-120](../decisions.d/ADR-120.md));
+  the dialectic regime (570, [ADR-127](../decisions.d/ADR-127.md)) and what it grew: several
   readings filed as alternatives, a go-ahead covering the whole message and
   adopting the stated lean, reporting every filing, raising doubts in the
-  manner of crew resource management; the merge grant (573, [ADR-tmpq5b9e](../decisions.d/ADR-tmpq5b9e.md));
-  earmarks (571, [ADR-tmpyzxw8](../decisions.d/ADR-tmpyzxw8.md)); the owner's rulings (578).
+  manner of crew resource management; the merge grant (573, [ADR-121](../decisions.d/ADR-121.md));
+  earmarks (571, [ADR-126](../decisions.d/ADR-126.md)); the owner's rulings (578).
 - **Upstream.** The hands-free regime as a luria decision (402); `luria new`
   refusing a title that cites a code (403).
-- **Review.** The adoption review (579, [ADR-tmpvmzl6](../decisions.d/ADR-tmpvmzl6.md)), whose first pass
+- **Review.** The adoption review (579, [ADR-124](../decisions.d/ADR-124.md)), whose first pass
   adopted 34 decisions and left [ADR-108](../decisions.d/ADR-108.md) Proposed.
 
 ## What went well, and why
@@ -112,7 +115,7 @@ requests 564 to 580 in this record and 402 and 403 in luria. In order:
    keeps catching you is a bug report about the workflow, led to luria#403:
    `luria new` now refuses such a title.
 6. **Building found what review missed.** The first promotion showed the
-   back-merge gap that the reviewed specification allowed ([CASE-tmpi16kb](../cases.d/CASE-tmpi16kb.md)),
+   back-merge gap that the reviewed specification allowed ([CASE-299](../cases.d/CASE-299.md)),
    which became both a fix and an argument (engineering as inquiry).
 
 ## What did not go well
@@ -147,7 +150,7 @@ requests 564 to 580 in this record and 402 and 403 in luria. In order:
 **034912, earmarked by the owner on [#570](https://github.com/dmarx/nucleation/issues/570):** "this class of items should
 probably have a referent so we can extend it later … a good example of
 noticing a distinction." What came of it: a practice kept on purpose.
-[ADR-tmpzgon7](../decisions.d/ADR-tmpzgon7.md) names the class (the argument schemes) rather than listing
+[ADR-127](../decisions.d/ADR-127.md) names the class (the argument schemes) rather than listing
 schemes, and the move recurred twice that night, in the descriptor and
 imposition distinction and in the tag-vocabulary case, where a closed list
 turns descriptions into impositions. Still open: no sweep has looked for

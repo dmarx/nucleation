@@ -1,9 +1,9 @@
 ### Added
 
-- [TERM-tmp7m4at](record/terms.d/TERM-tmp7m4at.md) (a predicate of an entry, read as a test), [TERM-tmp0g123](record/terms.d/TERM-tmp0g123.md)
-  (stabilization, in the control-theoretic sense), [CLAIM-tmp8v75o](record/claims.d/CLAIM-tmp8v75o.md)
+- [TERM-134](record/terms.d/TERM-134.md) (a predicate of an entry, read as a test), [TERM-133](record/terms.d/TERM-133.md)
+  (stabilization, in the control-theoretic sense), [CLAIM-783](record/claims.d/CLAIM-783.md)
   (restating as error then enforcement of the predicates, demonstrated) and
-  [CLAIM-tmpj4fzn](record/claims.d/CLAIM-tmpj4fzn.md) (adding a predicate is adding a constraint, interpretive),
+  [CLAIM-785](record/claims.d/CLAIM-785.md) (adding a predicate is adding a constraint, interpretive),
   at the owner's reframe of 2026-11-21.
 
 ### Changed

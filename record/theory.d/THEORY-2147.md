@@ -1,5 +1,8 @@
 ---
+number: 2147
 status: Proposed
+formerly:
+- THEORY-tmp3tb8i
 promote_when: >-
   An independent study, with users other than the authors, finds that
   command-to-transition mutual information ranks interfaces in line with
@@ -14,22 +17,22 @@ tags:
 - agency
 date: '2026-11-21'
 source:
-- LIT-tmpw3fnx
+- LIT-2956
 bears_on:
 - QUESTION-404
 summary: >-
-  First Contact's central account, read locally on 2026-11-21 ([NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md)).
-  The record's use of it is [CLAIM-tmpydua7](../claims.d/CLAIM-tmpydua7.md) (a channel formed to repair a
-  failure of information) and [CLAIM-tmpspx4i](../claims.d/CLAIM-tmpspx4i.md) (the horizon as a level).
+  First Contact's central account, read locally on 2026-11-21 ([NOTE-2236](../notes.d/NOTE-2236.md)).
+  The record's use of it is [CLAIM-788](../claims.d/CLAIM-788.md) (a channel formed to repair a
+  failure of information) and [CLAIM-787](../claims.d/CLAIM-787.md) (the horizon as a level).
   Proposed until an independent replication.
 ---
-<!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i — Proposed; the claims that use this reading -->
+<!-- inactive-ok-file: CLAIM-788 CLAIM-787 — Proposed; the claims that use this reading -->
 
-# THEORY-tmp3tb8i: Reddy, Levine and Dragan propose that an assistive interface can be scored and trained, with no knowledge of the user's task, by the mutual information between the user's command and the state transition it induces, on the premise that a more intuitive interface makes commands less noisy; they find it ranks interfaces with task reward in four of five offline domains and learns usable interfaces online, with the time offset needing prior knowledge of the timescale of the user's desired influence
+# THEORY-2147: Reddy, Levine and Dragan propose that an assistive interface can be scored and trained, with no knowledge of the user's task, by the mutual information between the user's command and the state transition it induces, on the premise that a more intuitive interface makes commands less noisy; they find it ranks interfaces with task reward in four of five offline domains and learns usable interfaces online, with the time offset needing prior knowledge of the timescale of the user's desired influence
 
 ## Source
 
-Reddy, Levine and Dragan (2022), [LIT-tmpw3fnx](../literature.d/LIT-tmpw3fnx.md), read as [NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md).
+Reddy, Levine and Dragan (2022), [LIT-2956](../literature.d/LIT-2956.md), read as [NOTE-2236](../notes.d/NOTE-2236.md).
 
 ## The account
 

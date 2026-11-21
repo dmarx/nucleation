@@ -205,9 +205,9 @@ habits.
   is left open.
 
 ## Reframings
-<!-- inactive-ok-file: ADR-tmpd4rgx — Proposed; the decision this section follows, 2026-11-21 -->
+<!-- inactive-ok-file: ADR-120 — Proposed; the decision this section follows, 2026-11-21 -->
 
-**2026-11-20, the owner at U5 of the session ([ADR-tmpd4rgx](../decisions.d/ADR-tmpd4rgx.md)).** "Are you sure
+**2026-11-20, the owner at U5 of the session ([ADR-120](../decisions.d/ADR-120.md)).** "Are you sure
 these are different things? I'm wondering if maybe it's the same phenomenon,
 and maybe one description generalizes the other. Isn't stabilization just
 monotone contraction?" Before: constraint and contraction were two

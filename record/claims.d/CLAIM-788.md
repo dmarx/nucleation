@@ -1,5 +1,8 @@
 ---
+number: 788
 status: Proposed
+formerly:
+- CLAIM-tmpydua7
 title: 'First Contact''s interface learning is learning occasioned by an obstruction whose product is a new channel: the interface cannot know the user''s task, a failure of information, and it repairs that not by acquiring the information but by forming a channel through which the party who has it, the user, can steer; command-to-outcome mutual information measures that channel without passing through the task, and maximizing it pursues the record''s new channel, a maintained capacity, directly'
 version: 1
 role: thesis
@@ -24,14 +27,14 @@ line:
 - will-organization
 - distributed-agency
 grounds:
-- THEORY-tmp3tb8i
+- THEORY-2147
 rests_on:
 - CLAIM-532
 - CLAIM-361
 bears_on:
 - QUESTION-404
 complements:
-- CLAIM-tmpspx4i
+- CLAIM-787
 summary: >-
   The owner, 2026-11-21, under the dialectic regime: "relate our theory of
   obstruction-motivated learning to the 'first contact' RL paper". The
@@ -40,9 +43,9 @@ summary: >-
   The relation is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpspx4i — Proposed or Open; filed with this on 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-787 — Proposed or Open; filed with this on 2026-11-21 -->
 
-# CLAIM-tmpydua7: First Contact's interface learning is learning occasioned by an obstruction whose product is a new channel: the interface cannot know the user's task, a failure of information, and it repairs that not by acquiring the information but by forming a channel through which the party who has it, the user, can steer; command-to-outcome mutual information measures that channel without passing through the task, and maximizing it pursues the record's new channel, a maintained capacity, directly
+# CLAIM-788: First Contact's interface learning is learning occasioned by an obstruction whose product is a new channel: the interface cannot know the user's task, a failure of information, and it repairs that not by acquiring the information but by forming a channel through which the party who has it, the user, can steer; command-to-outcome mutual information measures that channel without passing through the task, and maximizing it pursues the record's new channel, a maintained capacity, directly
 
 ## The paper
 
@@ -98,7 +101,7 @@ result is a case where the same score covers both.
 
 **The test it suggests.** [CLAIM-532](CLAIM-532.md)'s transfer test applies directly: a
 channel serves a class, so an interface learned on some targets should help
-on new targets in the same domain. The local reading ([NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md)) finds
+on new targets in the same domain. The local reading ([NOTE-2236](../notes.d/NOTE-2236.md)) finds
 no such test: targets are "randomly-sampled" each episode and the interface
 is a single rotation, or a linear map that ignores state, so it cannot
 encode a particular target. The channel reading holds by construction, and
@@ -111,7 +114,7 @@ defeater (a) is excluded by design, not tested. User adaptation is assumed
   intuitive interface makes commands less noisy.
 - Not that mutual information measures every channel the record means.
   It measures the channel at a horizon Δ; which horizon is the subject of
-  [CLAIM-tmpspx4i](CLAIM-tmpspx4i.md).
+  [CLAIM-787](CLAIM-787.md).
 - Not the paper's own framing of the score's other half: it also rewards
   information flowing from the state to the user (the perception term),
   which ties the channel to the user's adaptation as well as the

@@ -1,5 +1,8 @@
 ---
+number: 783
 status: Proposed
+formerly:
+- CLAIM-tmp8v75o
 title: 'If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step''s fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails moves it, to a convention that keeps nothing of the entry on that dimension or to its source, restoring what had drifted; and predicates the entry passes when added never conflict, since the entry witnesses them'
 version: 1
 role: thesis
@@ -26,7 +29,7 @@ rests_on:
 - CLAIM-635
 - CLAIM-773
 uses:
-- TERM-tmp7m4at
+- TERM-134
 - TERM-132
 summary: >-
   The formal half of the owner's reframe of 2026-11-21, that adding
@@ -41,14 +44,14 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-772 CLAIM-773 TERM-tmp7m4at — Proposed; the contraction claims this formalizes for predicates, and the entries filed with it on 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-772 CLAIM-773 TERM-134 — Proposed; the contraction claims this formalizes for predicates, and the entries filed with it on 2026-11-21 -->
 
-# CLAIM-tmp8v75o: If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step's fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails moves it, to a convention that keeps nothing of the entry on that dimension or to its source, restoring what had drifted; and predicates the entry passes when added never conflict, since the entry witnesses them
+# CLAIM-783: If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step's fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails moves it, to a convention that keeps nothing of the entry on that dimension or to its source, restoring what had drifted; and predicates the entry passes when added never conflict, since the entry witnesses them
 
 ## The claim
 
 Let a version of an entry be a point x of a finite-dimensional space, and
-let each of its predicates p define, as a test ([TERM-tmp7m4at](../terms.d/TERM-tmp7m4at.md)), a closed
+let each of its predicates p define, as a test ([TERM-134](../terms.d/TERM-134.md)), a closed
 convex set A_p of versions that pass. Let A = ∩ A_p be non-empty, and let
 P_p be the nearest-point projection onto A_p. A restatement is
 x' = T(x + ξ): an error ξ, then enforcement T, the limit of cyclic sweeps
