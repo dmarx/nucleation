@@ -79,9 +79,12 @@ pull requests, their commits and the session's transcript.
   before any decision was coded. A second coder took a seeded random 30,
   agreement was reported per field, and the scripts have tests. Two
   findings came out that nobody had looked for: noticing moved from filing
-  agents to review procedures while revision stayed with the owner; and 0
-  of 237 `anthology-candidate` flags were revisited when the flag's meaning
-  changed.
+  agents to review procedures while revision stayed with the owner; and
+  removals and splits were carried through every entry that had to move.
+  (A third, that 0 of 237 `anthology-candidate` flags were revisited when
+  the flag's meaning changed, was withdrawn at the owner's ruling of
+  2026-11-21: the flag's meaning did not change, and revisiting it is the
+  anthology's process.)
 - **The admission test did its job.** Applied to a general theory
   assembled from the record, it found that the theory is mostly the record
   rearranged. Its own content lies in one prediction, the census and the

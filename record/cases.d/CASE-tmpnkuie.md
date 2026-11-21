@@ -1,7 +1,17 @@
 ---
 status: 'Active'
 title: 'Who changes the record''s grammar, how, and with what result: of its 114 decisions to 2026-11-20, 88 changed the grammar, 62 by refinement, 25 by revision and 1 by restraint; the misfit each answered had nearly always been forced into a category or kept in prose first; removals were carried through every entry using the term while a change of meaning in place reached none; and the noticing moved from filing agents to review procedures while judgment about revisions stayed with the owner'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Corrected at the owner's ruling of 2026-11-21: anthology-candidate did
+    not change meaning, and revisiting its flags is the anthology's
+    process. The term audit's row for it moves from redefinition in place
+    to widening or restatement, and the finding that entries do not
+    follow a change of meaning alone is withdrawn. See the note of
+    2026-11-21.
 standing: documented
 kind: executed-study
 tags:
@@ -144,14 +154,14 @@ The owner decided 49 changes, an assistant 6 and a review procedure 2; 31 do not
 |---|---|
 | Removal, where the term was in use | All of them: `identity` 41 of 41, `self-and-personhood` 42 of 42, and the four SYNTHESIS terms [ADR-084](../decisions.d/ADR-084.md) removed (12, 5, 9 and 3, all touched) |
 | Split | The entries that moved: `Deferred` 177 of 345, `ecology` 13 of 50, the split lines |
-| Widening | Almost none: `learning-theory` 1 of 92 |
-| Redefinition in place | None: `anthology-candidate` ([ADR-048](../decisions.d/ADR-048.md)) 0 of 237 |
+| Widening or restatement | Almost none, and none needed: `learning-theory` 1 of 92; `anthology-candidate` 0 of 237 (see the note of 2026-11-21) |
+| Redefinition in place | None found |
 
 ## What it shows
 
 - **The record answers noticed misfits by changing its grammar, after the grammar has absorbed them.** [CLAIM-181](../claims.d/CLAIM-181.md)'s account, that a move the grammar cannot hold "is forced into one or lost until the misfit is noticed", holds for the misfits that were eventually noticed. [CLAIM-419](../claims.d/CLAIM-419.md)'s amendment by decision is the usual response.
 - **The grammar is revised as well as refined.** That includes what counts as an answer, the instance of [CLAIM-470](../claims.d/CLAIM-470.md)'s distinctive clause.
-- **Traceability reaches the grammar unevenly.** Every change is announced by decision. Entries follow when they must move, and do not follow when only a meaning moves.
+- **Traceability reaches the grammar where entries move.** Every change is announced by decision, and entries follow when they must move. No change of meaning alone is in the history, so the census does not show whether entries follow one.
 - **Noticing moved from incidental to procedural.** Filing agents met missing words early; review procedures built to look found later needs. Revision stayed mostly with the owner.
 
 ## What it cannot show
@@ -177,3 +187,7 @@ alternatives of which the owner chose one. The adoption review
 ([ADR-124](../decisions.d/ADR-124.md)) also moved 34 decisions from Proposed to Active, so the
 census's statuses are stale. A rerun of the census scripts on the current
 record would update both; until then its figures hold as of 2026-11-20.
+
+## Note of 2026-11-21: anthology-candidate was not redefined
+
+The owner, on pull request 582: "the flag didn't change meaning, visiting these is the responsibility of processes on the anthology to consider if they want to add these candidates or not. pretty sure no action is required on Nucleation's end." The audit had classed ADR-048's rewording of the flag's blurb as a redefinition in place that reached none of its 237 entries. The flag records what ADR-005 made it record, that someone judged the anthology may want the work. ADR-048 changed what that implies about the work's filing here, not what the flag records. So no carry-through was needed, and the audit has no redefinition in place. [CLAIM-tmpj5aiv](../claims.d/CLAIM-tmpj5aiv.md) is corrected to match (version 2). The counts are unchanged; only the classification of one row moved.
