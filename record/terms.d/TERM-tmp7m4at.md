@@ -38,13 +38,13 @@ Its **constraint set** is A_p = {x : f_p(x) = 1}, the versions that pass. An
 entry's predicates together allow the versions in A = ∩ A_p.
 
 A predicate is added to an entry whose version passes it or fails it, and
-the difference is the one CLAIM-772 draws between anchoring and convention:
+the difference is the one [CLAIM-772](../claims.d/CLAIM-772.md) draws between anchoring and convention:
 
 - a **descriptor** is one the entry passes when it is added, such as an
   exact value on a dimension that was undescribed. Adding it moves nothing:
   it only excludes other versions, so the admissible sets go down and the
   entry stays in each. The dimension stops drifting at the entry's own
-  value, which puts it in the conserved part (TERM-132);
+  value, which puts it in the conserved part ([TERM-132](TERM-132.md));
 - an **imposition** is one the entry fails when it is added, such as a
   schema default it did not meet. Enforcing it moves the entry to the
   predicate's value, and if that value is common to entries the dimension

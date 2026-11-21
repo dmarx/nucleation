@@ -77,12 +77,12 @@ an analogy: it is this weighted intersection.
 **How it meets contraction.** Most of what is filed on an entry describes
 it: a value on a dimension that was undescribed, a premise, a quoted
 passage. Each is a descriptor, which the entry passes when it is added
-(CLAIM-tmp8v75o, part 5), so adding it moves nothing. It only excludes other
+([CLAIM-tmp8v75o](CLAIM-tmp8v75o.md), part 5), so adding it moves nothing. It only excludes other
 versions, and the dimension it describes stops drifting at the entry's own
 value: the conserved part. A schema default the entry did not meet is an
 imposition, which moves the entry to the convention: the contracting part.
-The features no predicate bounds are TERM-132's local degrees of freedom.
-So CLAIM-772's one contraction is the dynamics, and the predicates say where
+The features no predicate bounds are [TERM-132](../terms.d/TERM-132.md)'s local degrees of freedom.
+So [CLAIM-772](CLAIM-772.md)'s one contraction is the dynamics, and the predicates say where
 it goes: mostly to where the entry already is.
 
 **Juarrero.** [THEORY-1335](../theory.d/THEORY-1335.md) holds that constraints take a system away from
@@ -93,13 +93,13 @@ as tests.
 
 ## Stabilization
 
-In the owner's sense (TERM-tmp0g123), the control-theoretic one, this
+In the owner's sense ([TERM-tmp0g123](../terms.d/TERM-tmp0g123.md)), the control-theoretic one, this
 narrowing is stabilization: each predicate damps perturbations of the
 entry in the dimensions it constrains, wholly if hard and by 1/(1 + λ) per
 restatement if soft, and the entry converges to the set its predicates
 allow, moving freely only in the dimensions none constrains. Contraction is
 the mechanism and a sufficient condition; attraction toward a convention
-(CLAIM-068) is the case where the predicate is an imposition.
+([CLAIM-068](CLAIM-068.md)) is the case where the predicate is an imposition.
 
 ## What it does not say
 

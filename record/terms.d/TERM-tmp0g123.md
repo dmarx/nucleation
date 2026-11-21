@@ -26,7 +26,7 @@ summary: >-
   are the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-2043 TERM-132 CLAIM-068 CLAIM-772 CLAIM-tmp8v75o CLAIM-tmpj4fzn TERM-tmp7m4at — Proposed; the contraction reading, the terms and claims this is stated against, and those filed with it on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-2043 TERM-132 CLAIM-068 CLAIM-772 CLAIM-tmp8v75o TERM-tmp7m4at — Proposed; the contraction reading, the terms and claims this is stated against, and those filed with it on 2026-11-21 -->
 
 # TERM-tmp0g123: stabilization, in the control-theoretic sense: the damping of perturbations and convergence to what is expected, an equilibrium, a set or a stationary law; contraction is a sufficient condition for it, and attraction toward a convention is one case of it
 

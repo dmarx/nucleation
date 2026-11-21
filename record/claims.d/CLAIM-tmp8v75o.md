@@ -35,7 +35,7 @@ summary: >-
   are one penalty at different strengths, and a predicate the entry passes
   when it is added (a descriptor) holds a dimension at the entry's own value,
   while one it fails (an imposition) moves it to a convention, as anchoring
-  and forgetting differ in CLAIM-772.
+  and forgetting differ in [CLAIM-772](CLAIM-772.md).
   Proved from standard convex analysis and checked numerically. The wording
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
