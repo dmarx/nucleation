@@ -65,7 +65,7 @@ develops in the record's own argument:
   of its own and is not already held;
 - revisions to entries filed while the regime is on, before they merge;
 - dated notes on held entries;
-- Reframings sections (ADR-tmpd4rgx), and the owner's corrections, recorded
+- Reframings sections ([ADR-tmpd4rgx](ADR-tmpd4rgx.md)), and the owner's corrections, recorded
   as corrections in curation entries and history notes;
 - devlog notes for the next retrospective ([ADR-115](ADR-115.md)).
 

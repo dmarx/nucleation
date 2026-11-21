@@ -59,7 +59,7 @@ the retro", "remember this at the retro"), in conversation or in a comment
 on a pull request.
 
 **The note.** The assistant files a devlog note at once, whether or not the
-dialectic regime (ADR-tmpzgon7) is on, since the earmark is itself the
+dialectic regime ([ADR-tmpzgon7](ADR-tmpzgon7.md)) is on, since the earmark is itself the
 request. The note:
 
 - is tagged `retro` and `earmarked`, so a retrospective can find every
