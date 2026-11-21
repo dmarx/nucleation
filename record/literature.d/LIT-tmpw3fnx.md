@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   Registered on 2026-11-21 at the owner's request for a local reading, under
-  the dialectic regime; the anthology holds and has read it (ANTH-LIT-503).
+  the dialectic regime; the anthology holds and has read it ([ANTH-LIT-503](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-503.md)).
   Lawful copy: arXiv 2205.12381.
 title: 'First Contact: Unsupervised Human-Machine Co-Adaptation via Mutual Information Maximization'
 version: 1
@@ -28,8 +28,8 @@ summary: >-
   Reddy, Levine and Dragan (2022; NeurIPS 2022). Fits a control interface by
   the mutual information between the user's command and the state change it
   induces, with no reward or task knowledge; held and read by the anthology
-  as ANTH-LIT-503. Here for a local reading against CLAIM-tmpydua7,
-  CLAIM-tmpspx4i, QUESTION-tmp6iu8e, CLAIM-532, QUESTION-404 and CLAIM-361;
+  as [ANTH-LIT-503](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-503.md). Here for a local reading against [CLAIM-tmpydua7](../claims.d/CLAIM-tmpydua7.md),
+  [CLAIM-tmpspx4i](../claims.d/CLAIM-tmpspx4i.md), [QUESTION-tmp6iu8e](../questions.d/QUESTION-tmp6iu8e.md), [CLAIM-532](../claims.d/CLAIM-532.md), [QUESTION-404](../questions.d/QUESTION-404.md) and [CLAIM-361](../claims.d/CLAIM-361.md);
   claims about it are unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i — Proposed; the claims this reading is for, filed on 2026-11-21 -->
@@ -42,6 +42,6 @@ Reddy, Levine and Dragan. arXiv 2205.12381 (2022); NeurIPS 35 (2022), DOI
 ## Standing in the record
 
 Registered on 2026-11-21 for a reading of the record's own, in its context:
-the obstruction account of learning (CLAIM-532, QUESTION-404) and the
-relation filed earlier that night (CLAIM-tmpydua7, CLAIM-tmpspx4i). The
-anthology's reading is ANTH-NOTE-250 and ANTH-THEORY-091.
+the obstruction account of learning ([CLAIM-532](../claims.d/CLAIM-532.md), [QUESTION-404](../questions.d/QUESTION-404.md)) and the
+relation filed earlier that night ([CLAIM-tmpydua7](../claims.d/CLAIM-tmpydua7.md), [CLAIM-tmpspx4i](../claims.d/CLAIM-tmpspx4i.md)). The
+anthology's reading is [ANTH-NOTE-250](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/notes.d/NOTE-250.md) and [ANTH-THEORY-091](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-091.md).
