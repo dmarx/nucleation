@@ -139,9 +139,9 @@ Tested by [ADR-075](../decisions.d/ADR-075.md)'s step 5 at this review and not f
 
 ## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
 
-This account holds that a regularized linear readout separates exactly what its kernel separates: separation of classes, in the second sense of TERM-tmpol232 (filed the same day). The exchange adds a contrast with the third sense, spectral separation, for this account's next version to weigh.
+This account holds that a regularized linear readout separates exactly what its kernel separates: separation of classes, in the second sense of [TERM-tmpol232](../terms.d/TERM-tmpol232.md) (filed the same day). The exchange adds a contrast with the third sense, spectral separation, for this account's next version to weigh.
 
-- **A readout can separate what the spectrum does not show.** In CASE-tmp59xy5 a linear readout reaches 74% accuracy on a two-class spiked mixture below the spectral threshold, where no eigenvalue leaves the bulk. What the kernel separates, and so the readout, can exceed what the covariance spectrum makes visible. CLAIM-tmp5y856 states the general gap between decodability and spectral detectability.
-- **The directions that separate need not be large ones.** A label can sit in the least-variance direction (CLAIM-tmppkdjz). This account's spectrum clause ("the spectrum fixes neither the group nor a basis") has a counterpart here: the spectrum does not fix which directions carry the separation.
+- **A readout can separate what the spectrum does not show.** In [CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md) a linear readout reaches 74% accuracy on a two-class spiked mixture below the spectral threshold, where no eigenvalue leaves the bulk. What the kernel separates, and so the readout, can exceed what the covariance spectrum makes visible. [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md) states the general gap between decodability and spectral detectability.
+- **The directions that separate need not be large ones.** A label can sit in the least-variance direction ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md)). This account's spectrum clause ("the spectrum fixes neither the group nor a basis") has a counterpart here: the spectrum does not fix which directions carry the separation.
 
 No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).
