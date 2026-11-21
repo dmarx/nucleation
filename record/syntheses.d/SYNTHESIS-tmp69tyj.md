@@ -38,7 +38,6 @@ integrates:
 - QUESTION-tmpyqohh
 - QUESTION-tmp21jtb
 - QUESTION-tmp3lkep
-- LEAD-tmpng7or
 - THEORY-1499
 - THEORY-1085
 - CLAIM-692
@@ -50,7 +49,6 @@ integrates:
 - CLAIM-tmpninc2
 - CASE-tmpi5vfh
 - CASE-tmpykltu
-- LEAD-tmpp8z85
 - CLAIM-tmp99m8g
 - TERM-tmpxml4k
 - CLAIM-tmpyxiwv
@@ -59,7 +57,6 @@ integrates:
 - TERM-tmp5z2du
 - CLAIM-tmpq8q9t
 - QUESTION-tmpzlagu
-- LEAD-tmpl5wxz
 - THEORY-777
 - THEORY-756
 - CLAIM-478

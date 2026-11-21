@@ -41,7 +41,6 @@ integrates:
 - CASE-tmp59xy5
 - CLAIM-tmpk33au
 - CLAIM-tmp8mvx8
-- LEAD-tmpp88ld
 - QUESTION-tmpseqwl
 - QUESTION-217
 - CLAIM-tmpr4k9z
@@ -68,7 +67,6 @@ integrates:
 - CLAIM-tmp9bp04
 - CLAIM-tmpl9zw4
 - CLAIM-tmpqbo50
-- LEAD-tmpfrw11
 - QUESTION-tmpsy8qn
 bears_on:
 - QUESTION-tmpvu6cb
