@@ -16,3 +16,12 @@ Result: Unfetched (copies exist, all behind bot checks or auth). Going to neighb
 ## Step 2: neighbour read (2026-11-21)
 
 - Fedus, Gelada, Bengio, Bellemare, Larochelle (2019), "Hyperbolic Discounting and Learning over Multiple Horizons", arXiv:1902.06865v3, PDF via arxiv.org. Read: abstract, sections 1-3 (intro, related work, "Belief of risk implies a discount function"), appendix B.2-B.3. Restates Sozou: s(t)=∫p(λ)e^{-λt}dλ; exponential prior p(λ)=(1/k)exp(-λ/k) gives 1/(1+kt); uniform on [0,k] gives (1-e^{-kt})/(kt); gamma prior gives 1/(1+bt)^c; delta prior gives e^{-λt}. Fig 2 reproduces two of Sozou's figures.
+- Anchugina, Ryan, Slinko (2016), arXiv:1604.01819v1 "Aggregating time preferences with decreasing impatience": intro and sec 4.1 read for its restatement of Sozou (exponentially distributed hazard -> expected discount hyperbolic) and Jackson-Yariv (heterogeneous exponential discounters -> present bias, hyperbolic in the limit).
+- Anchugina, Ryan, Slinko (2017), arXiv:1702.01362v1 "Hyperbolic Discounting of the Far-Distant Future": abstract and intro only (Sozou as survival function with constant hazard; Weitzman's certainty-equivalent rate).
+- Cowles d1719 (Farmer & Geanakoplos) URL returned a search page, not the paper; not pursued.
+
+## Step 3: draft verdict
+- Characterization confirmed through neighbours: exponential prior on hazard, mean k, gives 1/(1+kt). Not "any suitable prior": prior shape sets the discount (uniform, gamma, delta).
+- CLAIM-tmpve51e: same integral (Laplace transform of an exponential density), but its hyperbola is in the rate argument ln(1/a), not in delay. Qualifies LEAD step 3's "same mechanism in one level".
+- Preference reversal: Sozou's own treatment not reached. Fedus says Sozou shows reversal-type behaviour is consistent with hazard uncertainty.
+- Recheck: no Sozou/hazard/Weitzman/Jackson-Yariv entries held (Yariv, Fedus, Laplace hits are false positives). Relevant held: THEORY-067, QUESTION-034, CLAIM-198, LIT-1389.
