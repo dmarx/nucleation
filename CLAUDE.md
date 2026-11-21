@@ -116,7 +116,9 @@ included, greenlights everything the message it answers proposed, and adopts
 the lean you stated where it left a choice. When in doubt (harm hard to
 undo, a wide blast radius, something the owner may have missed), stop on
 that item and raise it plainly, CRM style: what, the concern, your
-recommendation, and that you are waiting. Suggest switching off when going on would
+recommendation, and that you are waiting. When a hold the owner set lifts,
+say so, name the step it was holding, and take it in the same turn, unless
+that step waits on the owner anyway ([ADR-tmpjsh6p](record/decisions.d/ADR-tmpjsh6p.md)). Suggest switching off when going on would
 be awkward.
 
 [ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an
