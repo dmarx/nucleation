@@ -1,7 +1,12 @@
 ---
-status: Proposed
+status: Rejected
 title: "An argument's title states the record's verdict on its route, and a route the record finds fails is an Active argument titled that its grounds do not show its conclusion"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Rejected at the owner's ruling of 2026-11-21, "go with your lean", which adopted the alternative, ADR-tmp44npm, the assistant's lean.
 tags:
 - record
 - taxonomy

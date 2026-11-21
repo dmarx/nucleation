@@ -259,6 +259,14 @@ not a finding.
   or finding that a reading carries less than a claim cited it for. "X
   does not show Y" is the ARG from X to Y, Rejected. A claim's own
   `rests_on` needs no ARG.
+- **An ARG's title names its route** (ADR-tmp44npm): its grounds and the
+  step, before the conclusion ("X, by analogy, shows that Y"), never the
+  bare conclusion, since the title travels without its status. A Rejected
+  ARG's summary says where its conclusion's own standing lives: the claim
+  or question that holds it, or that no entry does, or the entry that
+  tells against it. A conclusion the rejection leaves untouched, with
+  content of its own, is held in an entry of its own, in the voice of
+  whoever put it forward, and the ARG `concludes` it.
 - **Independent evidence is `corroborates`** (ADR-058), on the THEORY,
   when a reading supports a claim that does not rest on it. A reading the
   claim needs is `grounds`. When a work cited before it was read turns

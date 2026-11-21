@@ -1,7 +1,12 @@
 ---
-status: Proposed
+status: Active
 title: "An argument's title names its route, its grounds and the step, before its conclusion, and a Rejected argument says where its conclusion's own standing lives, so that rejecting a route is not read as rejecting what it concludes"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Active at the owner's ruling of 2026-11-21, "go with your lean", on pull request 611, which proposed it with ADR-tmpcjfyy as the alternative. Applied in the same pull request to the five arguments that raised it.
 tags:
 - record
 - taxonomy
