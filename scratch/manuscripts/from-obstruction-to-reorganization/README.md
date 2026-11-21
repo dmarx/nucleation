@@ -29,7 +29,7 @@ A general theory of learning and inquiry, intended to apply to arbitrary systems
 | [05-related-work-and-method.md](05-related-work-and-method.md) | §11 Related work (including Ashby, Simon, Kuhn); §12 Method, growth and rates |
 | **Part III** | **The flywheel** |
 | [06-census-and-cases.md](06-census-and-cases.md) | §13 The census and eight cases; grammar changes that went wrong |
-| [07-governance.md](07-governance.md) | §14 Four loops: decisions, reviews, POSTMORTEM, the tool |
+| [07-governance.md](07-governance.md) | §14 Four loops: decisions, reviews, RETRO and POSTMORTEM, the tool |
 | [08-results.md](08-results.md) | §15 Results against E1–E7 |
 | [09-flywheel.md](09-flywheel.md) | §16 The flywheel stage by stage, the cycle acting on the theory itself, and what echoes each principle |
 | [10-discussion.md](10-discussion.md) | §17 Delegation, distinction-drawing, maintained capacity, signatures |
@@ -54,7 +54,7 @@ A general theory of learning and inquiry, intended to apply to arbitrary systems
 
 1. **The principles in the record.** Filed on dmarx/nucleation#557, now retargeted to staging and refreshed. The census is a CASE and two claims. P1 and P3 are already stated. P2 and P4–P10 are SYNTHESIS accounts. One narrowed part of the cycle is a claim. Section 7.4 reports the audit. Open: whether thematic, cross-line accounts are a kind the record wants (ADR-083).
 2. **ADR-048's flag.** The 237 entries carrying `anthology-candidate` were never revisited when its meaning changed (§15.2). That is a finding, and also a repair the record may want.
-3. **POSTMORTEM-002's summary** (§14.5). Cite it as of a dated commit, or correct it in the record.
+3. **RETRO-004's summary** (§14.5; formerly POSTMORTEM-002, carried over unchanged). Cite it as of a dated commit, or correct it in the record.
 4. **The work.** Keep `luria-nucleating-an-argument` with its blurb revised, or give this paper a new `works` term?
 5. **A human coder.** All census coders were instances of one model (§18). A human second coder on the 30-decision sample would address the largest reliability threat.
 6. **Unread sources.** Dewey, Collingwood, Rheinberger, Bowker & Star, Stojanovic and Allspaw are cited but unread on the record (§11). They should be read, or supplied, before submission.

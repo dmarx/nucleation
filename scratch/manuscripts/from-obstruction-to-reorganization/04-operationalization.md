@@ -124,7 +124,7 @@ Read through the tuple, the record runs four nested loops:
 
 Part III shows each loop at work. The second is the flywheel of §7.2.
 
-Several of the decisions that created these mechanisms are still Proposed although applied. They include ADR-079 (computed converses), ADR-082 to ADR-084 (accounts and line splits), ADR-087, ADR-089 and ADR-100 (further splits), ADR-109 and ADR-111 (LEAD), and ADR-110 and ADR-112 (POSTMORTEM). In this record, "Proposed" on a decision usually means not yet formally adopted by the owner, not unapplied (§14.1).
+Several of the decisions that created these mechanisms were applied long before they were adopted. On 20 November they included, still Proposed, ADR-079 (computed converses), ADR-082 to ADR-084 (accounts and line splits), ADR-087, ADR-089 and ADR-100 (further splits), and ADR-109 and ADR-111 (LEAD). An adoption review on 21 November (ADR-tmpvmzl6) moved them, and 24 other decisions, to Active. That review is a procedure for catching exactly this gap. ADR-110 and ADR-112, which govern review of the record's changes, are still Proposed (§14.4).
 
 ## 10. What operationalization does and does not establish
 

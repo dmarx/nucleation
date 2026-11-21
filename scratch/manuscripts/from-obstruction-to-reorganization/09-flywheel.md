@@ -49,7 +49,7 @@ New distinctions made new misfits visible. Once `warrant` existed, two readings 
 
 - status reviews from 27 October;
 - synthesis and reading reviews from 7 and 11 November;
-- POSTMORTEM and its triggers on 20 November (ADR-110, ADR-112, both Proposed but applied);
+- POSTMORTEM and its triggers on 20 November (ADR-110, ADR-112, both Proposed but applied), revised a day later into RETRO and a narrower POSTMORTEM (ADR-115, §14.4);
 - one complete review-and-revision cycle within two days (§14.4).
 
 It also changed its tool. Mechanisms 3 to 5 of ADR-057 became features of luria 1.3.0 on 28 October (luria#382, §14.6). Whether the capacity to judge revisions was kept or eroded is the predicted risk, and it is not measured (§17.1).
@@ -59,7 +59,7 @@ It also changed its tool. Mechanisms 3 to 5 of ADR-057 became features of luria 
 The record holds the theory of Part I as entries, and those entries pass through the same machinery as every other entry. CLAIM-532, the theory's account of learning, is the clearest case. Its history:
 
 1. **6 November.** Promoted to Active at the twenty-sixth status review, at the status review's ruling: the owner had delegated such rulings to the procedure.
-2. **10 November.** A lint sweep found it crossing lines as a `rests_on` step, and it was given the `distributed-agency` line under a rule proposed that day and applied at once (ADR-085, Proposed).
+2. **10 November.** A lint sweep found it crossing lines as a `rests_on` step, and it was given the `distributed-agency` line under a rule proposed that day and applied at once (ADR-085, adopted on 21 November).
 3. **11 November.** A synthesis review's reader found a separating case: a uniform change of priority among regimes. Read against the claim as it then stood, a definition, the case would meet its defeat condition if the record counted such a change as self-formation.
 4. **18 November.** The next synthesis review wrote the case into the claim as an "Admission" section, and the record opened QUESTION-488 to hold it.
 5. **18 November, later.** At the owner's direction, the claim was restated, on two observations of the owner's. First, it read as a definition where its body and CASE-191 support only a sufficient condition. That drove the restatement. As a sufficient condition, the claim "does not cover it either way". Second, the contrast between existing processes and a new ability was underspecified: if the components of a frozen random projection count as existing processes, "all feature learning is reweighting of them". That drove defining the claim's products by behaviour rather than mechanism.
@@ -103,5 +103,7 @@ The night of 2026-11-21 ran the predicted cycle (§7.2) several times over, quic
 6. **Maintained.** Each change went into CLAUDE.md, a skill or a workflow.
 7. **Serving later cases.** The adoption review is now a procedure for noticing (stage 2), as CLAIM-tmpmtv1b (Proposed) predicts.
 8. **The capacity itself.** The night's retrospective (RETRO-tmp0p4qy) records where the faster cycle let the assistant's own errors travel further before the owner caught them: the cost side of a flywheel that turns quickly.
+
+The same night revised the review mechanism itself. One day after POSTMORTEM was created, it was split into RETRO, a review of how work went, and a narrower POSTMORTEM for what went wrong (ADR-115, Proposed; §14.4). That is stage 4 applied to stage 8: the criteria by which the cycle's own turns are judged were refined after one use, as P8 says reflexive inquiry may do.
 
 This is one night, observed by a participant, and it is the cycle the theory predicts, so it is an illustration, not a test (§18).

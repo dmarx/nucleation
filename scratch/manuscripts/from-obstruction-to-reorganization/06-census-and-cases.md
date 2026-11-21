@@ -173,8 +173,8 @@ Ten grammar changes have a recorded later error that they caused:
 | ADR-076, ADR-077 | Moved claims' objections would have been stranded | ADR-084 |
 | ADR-090 | A view read converse fields that ADR-079 had stopped storing, and undercounted (277 for 406) | Its version 2 |
 | ADR-104 | A claim was included in a work for a proviso only | Its version 2 |
-| ADR-107 | A form was filed before its source was read, then rewritten twice within hours | POSTMORTEM-002 |
-| ADR-109 | A stage field that did not discriminate; misleading converse descriptions | POSTMORTEM-002 |
+| ADR-107 | A form was filed before its source was read, then rewritten twice within hours | POSTMORTEM-002 (now RETRO-004) |
+| ADR-109 | A stage field that did not discriminate; misleading converse descriptions | POSTMORTEM-002 (now RETRO-004) |
 
 The process search adds two errors in migrations that the census codes under other headings:
 

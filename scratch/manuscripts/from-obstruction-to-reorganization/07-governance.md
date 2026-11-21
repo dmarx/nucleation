@@ -9,7 +9,7 @@ The record holds 114 decision records: 70 Active, 37 Proposed, 5 Superseded, 1 D
 - **ADR-071.** Each logical unit of work gets its own branch and pull request, and a decision travels with its first application. A reviewer therefore judges a rule by what it does.
 - **ADR-072.** The second-occurrence rule applies to process: a decision or principle is written when its occasion recurs.
 
-Thirty-seven decisions are still Proposed. The census codes 26 of them as applied, and the remaining 11 as undeterminable from the decision itself. In this record, "Proposed" on a decision often means that the owner has not yet formally adopted it, not that it has not been applied. The census (§13.1) therefore codes ratification separately from status.
+On 20 November, thirty-seven decisions were still Proposed. The census codes 26 of them as applied, and the remaining 11 as undeterminable from the decision itself. The next night an adoption review (ADR-tmpvmzl6) found 48 decisions Proposed though applied, and its first pass moved 34 to Active. In this record, "Proposed" on a decision often means that the owner has not yet formally adopted it, not that it has not been applied. The census (§13.1) therefore codes ratification separately from status.
 
 ### 14.2 Reviewing the argument, from October
 
@@ -45,18 +45,20 @@ DP-4 ("fire before trusting") was applied at least once: the promotion audit's c
 
 Compiling a norm has a cost. CASE-131 records a link fixer writing a dependency that no author had asserted, so the rigid relation reproduced a mistake reliably (CLAIM-479). DP-2's generated views do the same with an uncorrected summary (§14.5).
 
-### 14.4 POSTMORTEM, and one complete cycle
+### 14.4 Reviewing the record's changes, and one complete cycle
 
 Two decisions of 20 November, both Proposed, made review of the grammar's changes a record type:
 
 - **ADR-112** created POSTMORTEM, which `reviews` decisions and names those its recommendations `prompted`.
 - **ADR-110** set six triggers for one: a schema change in use, a batch of five or more pull requests, a bulk filing, a decision revised soon after landing, a process incident, and the owner's request. Each is counted in use or in sessions, not by the calendar. The owner "expects this to be superseded".
 
+The next night the review mechanism was itself revised (ADR-115, Proposed). A RETRO now reviews how a change or a stretch of work went, including what went right. POSTMORTEM is kept for something that went wrong, and the devlog holds notes taken during the work for the next retrospective. The three postmortems filed on 19 and 20 November became RETRO-002 to RETRO-004, and their old codes are Superseded. The owner's earmarks for a retrospective now become devlog notes the next RETRO must answer (ADR-tmpyzxw8, Active). This is a refinement of the criteria by which the record reviews its own changes, made after one day's use of the first version.
+
 **The cycle.**
 
-1. **19 November.** ADR-109 (Proposed) created LEAD to gather the record's research opportunities. These had been scattered across 54 proposed-study CASEs, "What would answer it?" prose on 264 of 451 open questions, and dated notes. A backlog audit then filed 184 leads by script. POSTMORTEM-002 notes that these were not reviewed one by one.
-2. **20 November.** POSTMORTEM-002 reviewed the scheme. It found 190 of 197 leads (96.4%) at the first stage, `idea`, because `specified` required a cost estimate that no source gave. It also found no priority field, no way to say a lead was blocked, and misleading descriptions of the computed converse relations.
-3. **20 November.** ADR-111 (Proposed) dropped the cost requirement from `specified`, added `costed`, `priority` and `blocked_on`, and corrected the descriptions.
+1. **19 November.** ADR-109 (Proposed at the time, Active since 21 November) created LEAD to gather the record's research opportunities. These had been scattered across 54 proposed-study CASEs, "What would answer it?" prose on 264 of 451 open questions, and dated notes. A backlog audit then filed 184 leads by script. RETRO-004 notes that these were not reviewed one by one.
+2. **20 November.** POSTMORTEM-002, now RETRO-004, reviewed the scheme. It found 190 of 197 leads (96.4%) at the first stage, `idea`, because `specified` required a cost estimate that no source gave. It also found no priority field, no way to say a lead was blocked, and misleading descriptions of the computed converse relations.
+3. **20 November.** ADR-111 (Proposed at the time, Active since 21 November) dropped the cost requirement from `specified`, added `costed`, `priority` and `blocked_on`, and corrected the descriptions.
 
 | Stage | Before (n = 197) | After (n = 198) |
 |---|---:|---:|
@@ -69,9 +71,9 @@ What moved is mostly definitional. The 53 leads that moved to `specified` were t
 
 ### 14.5 A correction that did not propagate
 
-POSTMORTEM-002's first version called the missing converse fields a defect. On reading luria's code, the filer found that luria computes converses by design, and corrected the body the same day. The frontmatter summary was not corrected. It still says the converses "are declared but never written", and the generated postmortem index carries that sentence.
+POSTMORTEM-002 (now RETRO-004) in its first version called the missing converse fields a defect. On reading luria's code, the filer found that luria computes converses by design, and corrected the body the same day. The frontmatter summary was not corrected. It still says the converses "are declared but never written", and the generated postmortem index carries that sentence.
 
-A correction to an authored text did not reach the compressed representation derived from it. All three postmortems are Drafts.
+A correction to an authored text did not reach the compressed representation derived from it. When the review became RETRO-004, the stale summary was carried over unchanged. All three reviews, now RETRO-002 to RETRO-004, are Drafts.
 
 ### 14.6 The fourth loop: changing the tool
 
