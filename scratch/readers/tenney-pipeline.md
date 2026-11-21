@@ -7,3 +7,4 @@
   - K(Delta)/K(s) large: POS 1.60/0.19, Consts 1.57/0.83, Deps 1.15/0.87, Ent 1.61/0.06, SRL 1.31/0.46, Coref 0.60/0.50, SPR 0.33/0.01, Rel 0.50/0.01.
   - BERT-base CoG: 5.59, 6.01, 6.55, 6.86(Ent), 6.60(SRL), 7.96, 6.59, 6.80; Exp layer: 1.76, 2.38, 2.52, 2.42, 2.59, 3.62, 4.29, 4.16.
   - Observation: CoG of the 5 pipeline tasks all within ~layers 11.7-15.8 of 24; Deps/SRL/Ent ordering flips between metrics and models. Overlapping regions, not a stack.
+- 2026-11-21: recheck. Held and relevant, not among CLAIM-tmpcvuyr's grounds: THEORY-1030 (Geva et al., Proposed: shallow-to-semantic gradient across layers + residual refinement of prediction); THEORY-104 (Proposed: best readout layer below top; cf. Tenney fn 3 drops in last 1-2 layers); LIT-2653 (Kumar et al., probing classifiers unreliable). Report drafted: verdict = characterization confirmed with correction (overlapping regions in the middle, order not a dependent stack; defeater (b) not met by this paper).
