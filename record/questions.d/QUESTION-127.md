@@ -32,7 +32,7 @@ history:
     these rulings), now that CLAIM-629 is Active. The answered part, whether
     the common-descent verdict and a Euclidean-budgeted residual are
     constant on the orbits of a symmetry that is a diffeomorphism of the
-    parameters, is QUESTION-tmpr6jhg, answered by CLAIM-629. This question
+    parameters, is QUESTION-499, answered by CLAIM-629. This question
     narrows to the rest. The old title was "Which diagnoses of frustration
     among a learner's demands survive quotienting by function-preserving
     symmetries, which belong only to an update geometry, and which only to
@@ -144,7 +144,7 @@ governance regret or modular localization. Both are Proposed, so under
 ## Note of 2026-11-20: the orbit part split off
 
 [CLAIM-629](../claims.d/CLAIM-629.md) went Active at the status review of this date, so the part of
-this question it answers is split off under [ADR-049](../decisions.d/ADR-049.md) as [QUESTION-tmpr6jhg](QUESTION-tmpr6jhg.md):
+this question it answers is split off under [ADR-049](../decisions.d/ADR-049.md) as [QUESTION-499](QUESTION-499.md):
 on the orbits of a function-preserving symmetry that is a diffeomorphism of
 the parameters, the common-descent verdict is constant, and a residual
 budgeted in a fixed Euclidean norm is constant where the symmetry's

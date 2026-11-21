@@ -12,7 +12,7 @@ history:
     Split under ADR-049 at the status review's ruling (the owner delegated
     these rulings), when CLAIM-632 went Active. The answered part, whether
     records kept of each capacity identify readiness or only bound it and
-    which verdicts they settle, is QUESTION-tmp1j2mq, answered by
+    which verdicts they settle, is QUESTION-498, answered by
     CLAIM-632. This question narrows to the remainder: the other evidence
     "What would answer it" lists, and the weighing against cost. The old
     title was "What observations, interventions, or models can distinguish
@@ -73,4 +73,4 @@ two departments of [CASE-210](../cases.d/CASE-210.md).
 
 ## Note of 2026-11-20: the part split off
 
-Records kept of each capacity are settled by [QUESTION-tmp1j2mq](QUESTION-tmp1j2mq.md): they fix the marginals, which bound readiness and identify it only when the capacities' dependence is known ([CLAIM-632](../claims.d/CLAIM-632.md)). What stays open here is which of the other kinds of evidence listed above, alone or together, identify readiness for a specified rare contingency, and how that is weighed against the capability's cost and its alternatives.
+Records kept of each capacity are settled by [QUESTION-498](QUESTION-498.md): they fix the marginals, which bound readiness and identify it only when the capacities' dependence is known ([CLAIM-632](../claims.d/CLAIM-632.md)). What stays open here is which of the other kinds of evidence listed above, alone or together, identify readiness for a specified rare contingency, and how that is weighed against the capability's cost and its alternatives.

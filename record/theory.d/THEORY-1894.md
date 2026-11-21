@@ -20,7 +20,7 @@ history:
     number of independent samples over at least two orders of magnitude,
     and on a task without one showing majority-vote or reward-model
     accuracy plateauing while coverage keeps rising." It moves word for
-    word to THEORY-tmps4lhs, Proposed, which extends this entry and
+    word to THEORY-2130, Proposed, which extends this entry and
     asserts the authors' wider thesis. CLAIM-697 now lists this entry
     under corroborated_by, not grounds (ADR-058).
 tags:

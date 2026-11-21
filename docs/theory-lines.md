@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-230 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+231 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -128,6 +128,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-181](../record/theory.d/THEORY-181.md) — In a model that decodes the sum of two learned embeddings, at zero training loss with an injective decoder, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free; for non-modular addition with p = 10 and one-dimensional embeddings, generalisation sets in near the training fraction, about 0.4, at which that becomes likely *(Active)*
   - [THEORY-782](../record/theory.d/THEORY-782.md) — In networks that learn addition from summed embeddings, the critical training fraction of grokking is the fraction at which the training set's same-answer pairs come to fix the generalising representation up to translation and scale, at every group size, as Liu, Kitouni, Nolte, Michaud, Tegmark and Williams propose *(Proposed)*
+
+### From Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage
+
+- [THEORY-1894](../record/theory.d/THEORY-1894.md) — Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage *(Active)*
+  - [THEORY-2130](../record/theory.d/THEORY-2130.md) — Drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over orders of magnitude across models and tasks, so that with an automatic verifier repeated sampling converts inference compute into success, while without one majority voting and reward-model selection plateau far below coverage *(Proposed)*
 
 ### From In Kunin et al.'s underdamped Langevin model of SGD with momentum on linear regression, with gradient-noise covariance σ²H independent of the parameters, the stationary state is Gaussian with parameter covariance ησ²H(H + λI)⁻¹/(2S(1 − β)) and velocity covariance σ²H/(S(1 − β²)): for small weight decay it spreads equally along every nonzero Hessian direction and not along the null space, each Hessian eigenmode is a damped oscillator with damping ratio (1 − β)/√(2η(1 + β)(ρ + λ)), and the expected squared step is η²σ² tr(H)/(S(1 − β²))
 
@@ -1180,6 +1185,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-187](../record/theory.d/THEORY-187.md) — In a deep linear network trained by gradient descent on whitened inputs from decoupled, balanced initial weights, depth slows learning through the initial end-to-end strength of each mode: counting iterations as learning time over the stable step size, from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth *(Active)*
   - [THEORY-792](../record/theory.d/THEORY-792.md) — In a deep linear network trained by gradient descent from generic initial weights, not only from decoupled ones, depth slows learning through the initial end-to-end strength of each mode, so that random orthogonal weights, whose product is an isometry, learn in a number of iterations that stays bounded as depth grows, as Saxe, McClelland and Ganguli argue from simulation *(Proposed)*
+
+### From Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage
+
+- [THEORY-1894](../record/theory.d/THEORY-1894.md) — Brown and colleagues find that drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over four orders of magnitude, so that with automatic verification DeepSeek-Coder-V2-Instruct goes from 15.9% of SWE-bench Lite issues with one sample to 56% with 250, while without a verifier majority voting and reward-model selection plateau far below coverage *(Active)*
+  - [THEORY-2130](../record/theory.d/THEORY-2130.md) — Drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over orders of magnitude across models and tasks, so that with an automatic verifier repeated sampling converts inference compute into success, while without one majority voting and reward-model selection plateau far below coverage *(Proposed)*
 
 ### From On the Random Hierarchy Model, in the experiments reported (s = 2, L ≤ 4, small v), deep CNNs matched to the tree and trained in a feature-learning regime reach a tenth of chance error from about n_c m^L examples, polynomial in the input dimension, at the training-set size at which their hidden layers become invariant to swapping synonymous tuples; two-layer networks and the same CNNs as fixed kernels need a number proportional to the whole input space, exponential in the input dimension, and deep CNNs stay near chance when every tuple is made equally likely in every class
 

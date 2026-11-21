@@ -21,7 +21,7 @@ history:
     where the symmetry's derivative is orthogonal, so it holds across
     permutations and orthogonal maps and changes along rescalings". It
     answered QUESTION-127, of which it answers only a part, so under
-    ADR-049 that part is split off as QUESTION-tmpr6jhg, which this claim
+    ADR-049 that part is split off as QUESTION-499, which this claim
     now answers, and QUESTION-127 narrows to the rest.
 role: thesis
 warrant: demonstrated
@@ -47,7 +47,7 @@ rests_on:
 - CLAIM-366
 - CLAIM-365
 answers:
-- QUESTION-tmpr6jhg
+- QUESTION-499
 summary: >-
   A by-product of the second synthesis review of 2026-11-07, where the
   reader of the learned-structure cluster found the cluster did not

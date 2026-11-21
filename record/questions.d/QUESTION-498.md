@@ -1,5 +1,8 @@
 ---
+number: 498
 status: Answered
+formerly:
+- QUESTION-tmp1j2mq
 title: 'Do records kept of each capacity a response needs identify a reserve''s readiness for a contingency or only bound it, and which verdicts that rise with readiness can they settle?'
 version: 1
 tags:
@@ -23,7 +26,7 @@ summary: >-
   against cost, stay with [QUESTION-395](QUESTION-395.md).
 ---
 
-# QUESTION-tmp1j2mq: Do records kept of each capacity a response needs identify a reserve's readiness for a contingency or only bound it, and which verdicts that rise with readiness can they settle?
+# QUESTION-498: Do records kept of each capacity a response needs identify a reserve's readiness for a contingency or only bound it, and which verdicts that rise with readiness can they settle?
 
 ## Answer
 

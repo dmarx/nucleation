@@ -1,5 +1,8 @@
 ---
+number: 499
 status: Answered
+formerly:
+- QUESTION-tmpr6jhg
 title: 'On the orbits of a function-preserving symmetry that acts on the parameters as a diffeomorphism, such as permuting hidden units, rescaling across a ReLU or an orthogonal map of a residual stream, is the common-descent verdict constant, and is a frustration residual budgeted in a fixed Euclidean norm?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   trajectories stay with [QUESTION-127](QUESTION-127.md).
 ---
 
-# QUESTION-tmpr6jhg: On the orbits of a function-preserving symmetry that acts on the parameters as a diffeomorphism, such as permuting hidden units, rescaling across a ReLU or an orthogonal map of a residual stream, is the common-descent verdict constant, and is a frustration residual budgeted in a fixed Euclidean norm?
+# QUESTION-499: On the orbits of a function-preserving symmetry that acts on the parameters as a diffeomorphism, such as permuting hidden units, rescaling across a ReLU or an orthogonal map of a residual stream, is the common-descent verdict constant, and is a frustration residual budgeted in a fixed Euclidean norm?
 
 ## Why it was a question
 

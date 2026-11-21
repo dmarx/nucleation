@@ -1,5 +1,8 @@
 ---
+number: 2130
 status: Proposed
+formerly:
+- THEORY-tmps4lhs
 promote_when: >-
   An independent measurement on another model and task with an automatic
   verifier showing coverage rising with the number of independent samples
@@ -27,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1880 — Proposed; Yue and colleagues' use of the same metric, cited as neither a replication nor a test -->
 
-# THEORY-tmps4lhs: Drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over orders of magnitude across models and tasks, so that with an automatic verifier repeated sampling converts inference compute into success, while without one majority voting and reward-model selection plateau far below coverage
+# THEORY-2130: Drawing more independent samples from a language model raises coverage, the fraction of problems at least one sample solves, smoothly and often log-linearly over orders of magnitude across models and tasks, so that with an automatic verifier repeated sampling converts inference compute into success, while without one majority voting and reward-model selection plateau far below coverage
 
 ## Source
 

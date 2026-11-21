@@ -49,7 +49,7 @@ history:
     scratch/formal/claim639_632_625_checks.py recomputes the bounds by
     linear program on 1,500 marginal vectors and the table, and its
     control shows the independence value is not the lower bound. Its
-    `answers` QUESTION-395 moves to QUESTION-tmp1j2mq, the part this
+    `answers` QUESTION-395 moves to QUESTION-498, the part this
     claim settles, split off under ADR-049 in the same change; the
     narrowed parent stays Open. The body's sentence that the expiry
     "holds for an estimate of R from a joint exercise" holds where decay
@@ -85,7 +85,7 @@ rests_on:
 uses:
 - TERM-115
 answers:
-- QUESTION-tmp1j2mq
+- QUESTION-498
 bears_on:
 - QUESTION-395
 summary: >-
