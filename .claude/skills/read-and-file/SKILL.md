@@ -294,7 +294,7 @@ synthesis as well.
   - **standing**: Proposed or unverified components told as established;
   - **integration**: what it claims beyond its components. If that is
     only labels, it is a recap; say so.
-- **File what it adds as a claim, or nothing** (ADR-084). A synthesis
+- **File what it adds as a claim, and its map as an account** (ADR-084, ADR-tmpi2grj). A synthesis
   is two things: a map of its components, and whatever it adds to them.
   What it adds is filed as a CLAIM only if it passes one of three routes
   (ADR-075, step 5), and the claim's body says which, under "Admission":
@@ -312,11 +312,16 @@ synthesis as well.
   If a narrower sentence passes where the stated one fails, file the
   narrower one. Watch for a free parameter ("a declared bearer"): it
   absorbs every case, and fixing it can contradict the synthesis's own
-  premises. If nothing passes, file no claim. Keep the synthesis and its
-  audit in the curation entry, linked to the components.
-- **The map goes in the scope's account.** A synthesis of a line, or of a
-  part of one, revises that scope's account (a SYNTHESIS, ADR-083) as
-  a new version, or files one where there is none:
+  premises. If nothing passes, file no claim. The test only routes: it
+  decides whether a synthesis also yields a claim, never whether it is
+  kept. The map still goes in its scope's account, with each link the test
+  failed under "Not stated on the record" and the reason, and the audit
+  goes in the curation entry. A recap, a synthesis that adds nothing but
+  labels to components an account already maps together, stays in the
+  curation entry alone.
+- **The map goes in the scope's account.** A synthesis of a line, a part
+  of one, or a theme that crosses lines revises that scope's account (a
+  SYNTHESIS, ADR-083) as a new version, or files one where there is none:
   - every component in `integrates`, a claim filed from it among them;
   - each link attributed to the entry that states it;
   - nothing added;
