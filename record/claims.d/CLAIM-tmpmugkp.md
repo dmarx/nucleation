@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'In a two-layer linear network learning from small weights, steepest descent in the spectral norm, which moves every singular direction of each layer at the same rate, learns the modes of the input–output correlation in a time proportional to the square root of their strength, weakest first, where gradient descent learns them in a time proportional to the inverse of their strength, strongest first: equalizing rates within a layer reverses and compresses the staged hierarchy of learning rather than removing it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -9,6 +9,11 @@ history:
     A dated note: this claim is about the order of learning in training
     time and does not bear on what a network's depth organizes. No change
     of status or title.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    A dated note: the modular duality reading confirms the update rule and
+    names three qualifications. No change of status or title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -43,6 +48,7 @@ summary: >-
   Derived and checked by simulation. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpgdk30 THEORY-tmpig1z0 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpcvuyr CLAIM-tmp2yj4t — Proposed; the claims on depth this note points to -->
 <!-- inactive-ok-file: LIT-tmpp6b7j CLAIM-tmpy75jv CLAIM-478 THEORY-186 — Proposed, Deferred or Open; the work this applies and the claims it bears on -->
 
@@ -126,3 +132,7 @@ deep network represent. A network could learn its modes in any order and
 still arrange its layers as a hierarchy, or learn coarse to fine without
 one. What bears on depth is [CLAIM-tmp2yj4t](CLAIM-tmp2yj4t.md), and the claim filed on depth is
 [CLAIM-tmpcvuyr](CLAIM-tmpcvuyr.md). Cite this claim for depth only with that caution.
+
+## Note of 2026-11-21: modular duality read
+
+Bernstein and Newhouse (THEORY-tmpgdk30, read in NOTE-tmpuc566) confirm that modular dualization of a linear layer is the polar factor scaled by √(d_out/d_in), 1 for this claim's square layers, with every singular value of the update the same. Three qualifications: the derivation uses the fixed-rate update of their eq. 2, not the exact steepest step of their Proposition 1, which scales by the gradient's dual norm (the weakest-first order should survive, since every mode still gets the same step); practical updates use Newton–Schulz, exact only in the limit; and non-square layers or unequal masses give the two layers unequal steps. The paper says nothing about the order of learning. The spectral-condition paper (THEORY-tmpig1z0) rescales gradients without changing their spectrum, so it does not bear on this claim.

@@ -1,7 +1,13 @@
 ---
 status: Proposed
 title: 'The tree of classes reachable within a budget, the limit of a chain''s time geometry as time scales separate, keeps its shape while barriers move and changes only where two barriers cross: a distinction between levels comes into being or passes away at such a crossing, and near it the two levels cannot be told apart in the time geometry'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    A dated note: Bovier and colleagues' genericity condition excludes the
+    near-crossings this claim describes. No change of status or title.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -33,6 +39,7 @@ summary: >-
   ([QUESTION-281](../questions.d/QUESTION-281.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmph10k5 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpxi826 — Proposed; filed in this contribution of 2026-11-20 -->
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the levels lost when rates converge -->
 
@@ -74,3 +81,7 @@ exchange order, a crossing of time scales. That is one answer for systems a
 barrier landscape describes, not an answer to the question in general; it
 says nothing about creation by instability or by bifurcation of the
 attractors themselves.
+
+## Note of 2026-11-21: genericity and the degenerate case
+
+Bovier and colleagues (THEORY-tmph10k5) assume genericity, that relevant times differ by factors going to infinity, which excludes exactly the near-crossings where this claim says levels blur. Their remark on the degenerate case, where times "differ only by constant factors" and the spectrum "will have to be computed specially through a finite dimensional, non-trivial diagonalisation problem", is their form of the same point. A parallel, not further evidence about the tree's changes.

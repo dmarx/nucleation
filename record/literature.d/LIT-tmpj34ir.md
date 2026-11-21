@@ -1,11 +1,7 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-20, not read. Registered from the session of 2026-11-20 on
-  μP, depth scaling and modular duality (curation entry 234553). arXiv
-  2310.17813 is open; no reading was attempted.
+status: Active
 title: 'A Spectral Condition for Feature Learning'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-20'
@@ -13,6 +9,12 @@ history:
     Filed, not read. Identifier checked on the arXiv API (v1 2023-10-26), no
     email address sent; the abstract was read from the API where quoted.
     Not held: no hit for the arXiv id or the title in record/literature.d.
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 in NOTE-tmpxtw1l, by a delegated reader from arXiv
+    2310.17813v2 (14 May 2024); the reading is THEORY-tmpig1z0. Status
+    Deferred to Active; summary rewritten from the reading.
 tags:
 - learning-theory
 - representation-learning
@@ -22,8 +24,11 @@ published: '2023-10-26'
 arxiv: '2310.17813'
 first_author: 'Yang'
 summary: >-
-  Yang, Simon and Bernstein (2023). Recalled, not read, as restating μP as a condition on the spectral norms of each weight matrix and of its update, scaled by fan-out over fan-in. Here as the bridge between μP and the norm-based view of the modular program. Unverified until read.
+  Yang, Simon and Bernstein (2023). Read in NOTE-tmpxtw1l. μP as spectral
+  norms of weights and updates scaled by √(fan-out/fan-in). Here for
+  CLAIM-tmpqwoxz, which it supports.
 ---
+<!-- inactive-ok-file: CLAIM-tmpqwoxz THEORY-tmpig1z0 — Proposed; cited in the readings of 2026-11-21 -->
 
 # LIT-tmpj34ir: A Spectral Condition for Feature Learning
 
@@ -32,7 +37,6 @@ Yang, Simon and Bernstein. arXiv 2310.17813 (2023).
 ## Standing in the record
 
 Registered on 2026-11-20 for the claims relating the record's rate-difference
-and drift results to μP, depth scaling and modular duality. Not read;
-[LEAD-tmp8q1aw](../leads.d/LEAD-tmp8q1aw.md) is the plan to read it. Flagged anthology-candidate: the
+and drift results to μP, depth scaling and modular duality. Read on 2026-11-21 in NOTE-tmpxtw1l; the reading is THEORY-tmpig1z0. Read on 2026-11-21 in NOTE-tmpxtw1l; the reading is THEORY-tmpig1z0. Flagged anthology-candidate: the
 anthology may want it for machine-learning practice; it is here for what it
 says about rates.

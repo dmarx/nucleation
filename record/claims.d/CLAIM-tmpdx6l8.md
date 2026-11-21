@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly: a chain that contracts everywhere except on what its steps copy without error ends keeping exactly the start''s value on that conserved part, so it is anchored where the source''s features lie in the part and forgets them where they do not; the record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -25,6 +25,19 @@ history:
     convention restatements converge on, and on constraint for content".
     The division of labour between form and content is kept, restated as
     which part of the step each lies in.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    Revised after the readings of 2026-11-21 of the two semicontraction
+    papers (NOTE-tmpouiuu, NOTE-tmprv9nt). Version 2 named semicontraction
+    as the general form of contraction with a conserved part. The readings
+    show semicontraction contracts only off a seminorm's kernel and keeps
+    nothing by itself; what a limit keeps is fixed by an exact conserved
+    functional. The body now says so, and the readings join grounds. A
+    limit names Friedkin and Johnsen's anchoring by re-injection
+    (THEORY-1161) as a second route the claim does not cover. Title
+    unchanged: it already says the start is kept on what the steps copy
+    without error.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,11 +80,14 @@ rests_on:
 grounds:
 - THEORY-960
 - THEORY-2044
+- THEORY-tmprwljl
+- THEORY-tmpq3h4k
 uses:
 - TERM-tmp7i7ed
 bears_on:
 - QUESTION-006
 ---
+<!-- inactive-ok-file: THEORY-tmpq3h4k THEORY-tmprwljl — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-635 CLAIM-068 CLAIM-191 CLAIM-181 CLAIM-059 CLAIM-180 THEORY-2044 THEORY-2043 — Proposed; open, cited for what each holds -->
 <!-- inactive-ok-file: CLAIM-tmpw6wkt TERM-tmp7i7ed ARG-tmp5ahr5 LIT-tmpavt0i LIT-tmpru0xs — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
 
@@ -106,8 +122,19 @@ holds what such a chain keeps.
   ([THEORY-2044](../theory.d/THEORY-2044.md)). For Markov steps in general, [CLAIM-635](CLAIM-635.md): a feature with
   K f = f at every step keeps information about the start bounded below at
   every generation, so the chain "cannot converge to a law independent of
-  its start". The control literature calls a system contracting except on
-  a subspace semicontracting ([LIT-tmpavt0i](../literature.d/LIT-tmpavt0i.md), [LIT-tmpru0xs](../literature.d/LIT-tmpru0xs.md), not yet read).
+  its start".
+- **Semicontraction is the forgetting half only.** The control literature
+  calls a system contracting except on a subspace semicontracting. Read on
+  2026-11-21, it contracts what lies off a seminorm's kernel and keeps
+  nothing by itself: trajectories may diverge along the kernel
+  (THEORY-tmprwljl, Jafarpour and colleagues), and only the part off the
+  kernel contracts, differences along it may persist or grow
+  (THEORY-tmpq3h4k, De Pasquale and colleagues). Where their examples fix
+  the limit, an exact conserved functional fixes it, vᵀx with v the
+  dominant left eigenvector, as πF in DeGroot. So the part this claim calls
+  conserved is not a seminorm's kernel but the functionals each step
+  conserves exactly; the kernel may also hold neutral or expansive
+  directions.
 
 So a chain is **anchored** to its source on the features its steps copy
 exactly, and **forgets** it on the rest. Stabilization and contraction are
@@ -150,6 +177,13 @@ the constraints were written from the source and not from the transmitter's
 habits.
 
 ## What it does not say
+
+- Not that anchoring means only this. Friedkin and Johnsen's "anchoring on
+  initial positions" (THEORY-1161) re-injects the start as a persistent input
+  at every step; the record also does that when a session rereads the
+  originating turn. That is a second route to keeping the source, by a
+  constant drive rather than by conservation, and the claim does not cover
+  it.
 
 - Not that the source is kept in full. Only its value on the conserved part
   is kept. [CLAIM-094](CLAIM-094.md) marks the same limit for a harmonic observable: it

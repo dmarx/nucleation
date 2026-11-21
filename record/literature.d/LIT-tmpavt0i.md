@@ -1,12 +1,7 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-11-20, not read. Registered from the session of 2026-11-20 on
-  an entry's life cycle, where the assistant named semicontraction from
-  memory as the general form of contraction with a conserved part
-  ([CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md)). arXiv 2005.09774 is open; no reading was attempted.
+status: Active
 title: 'Weak and Semi-Contraction for Network Systems and Diffusively Coupled Oscillators'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-20'
@@ -16,6 +11,13 @@ history:
     (IEEE Transactions on Automatic Control, March 2022, DOI
     10.1109/TAC.2021.3073096), no email address sent. Not held: no hit
     for the arXiv id, the DOI or the title in record/literature.d.
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 in NOTE-tmpouiuu, by a delegated reader from arXiv
+    2005.09774v8 (4 Oct 2020; the technical report, with Appendices D–F
+    beyond the IEEE TAC version); the reading is THEORY-tmprwljl. Status
+    Deferred to Active; summary rewritten from the reading.
 tags:
 - control-theory
 - mathematics
@@ -26,14 +28,13 @@ arxiv: '2005.09774'
 doi: '10.1109/TAC.2021.3073096'
 first_author: 'Jafarpour'
 summary: >-
-  Jafarpour, Cisneros-Velarde and Bullo (2020; IEEE TAC 2022). Weak
-  contraction and semicontraction, contraction with respect to a
-  seminorm, applied to network systems and diffusively coupled
-  oscillators. Here as the general form of contraction that keeps a
-  conserved part, on which [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) leans through the readings the
-  record holds ([THEORY-960](../theory.d/THEORY-960.md), [THEORY-2044](../theory.d/THEORY-2044.md)); it may give that claim a
-  stronger footing than an analogy. Unverified until read.
+  Jafarpour, Cisneros-Velarde and Bullo (2020; IEEE TAC 2022). Read in
+  NOTE-tmpouiuu. Semi-contraction contracts only off a seminorm's kernel
+  and keeps nothing by itself; weak contraction adds non-expansion; in
+  their averaging examples the limit is fixed by a conserved functional
+  vᵀx. Here for CLAIM-tmpdx6l8, which it qualifies.
 ---
+<!-- inactive-ok-file: THEORY-tmprwljl — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpdx6l8 — Proposed or Open; filed in this contribution of 2026-11-20 -->
 <!-- inactive-ok-file: THEORY-2043 THEORY-2044 — Proposed; the contraction readings this work extends -->
 
@@ -46,5 +47,4 @@ Transactions on Automatic Control (2022), DOI 10.1109/TAC.2021.3073096.
 
 Registered on 2026-11-20 as the semicontraction theory [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) names
 for contraction with a conserved part. The record holds the contraction
-founding ([THEORY-2043](../theory.d/THEORY-2043.md)) and partial contraction ([THEORY-2044](../theory.d/THEORY-2044.md)), not this. Not
-read; [LEAD-tmpywiwn](../leads.d/LEAD-tmpywiwn.md) is the plan to read it.
+founding ([THEORY-2043](../theory.d/THEORY-2043.md)) and partial contraction ([THEORY-2044](../theory.d/THEORY-2044.md)), not this. Read on 2026-11-21 in NOTE-tmpouiuu; the reading is THEORY-tmprwljl.

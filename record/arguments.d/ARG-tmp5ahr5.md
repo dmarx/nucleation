@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Applying the conservation results for contracting chains to the restatement of the record''s entries: CLAIM-635''s retention bound and DeGroot''s conserved average carry over if a session''s restatement of an entry is a Markov step and reading a coded entry verbatim copies its text exactly, which holds for the text and not for its interpretation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    A dated note: the semicontraction readings leave the mapping unchanged
+    and strengthen its reliance on exact invariants. No change of status
+    or title.
 form: formal-application
 rests_on:
 - CLAIM-635
@@ -30,6 +37,7 @@ summary: >-
   is the filer's (Claude, in this session); adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: THEORY-tmprwljl THEORY-tmpq3h4k CLAIM-635 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-635 CLAIM-tmpw6wkt CLAIM-tmpdx6l8 THEORY-2044 CLAIM-191 CLAIM-059 — Proposed; the results applied, the claim concluded, and the term it is stated in -->
 
 # ARG-tmp5ahr5: Applying the conservation results for contracting chains to the restatement of the record's entries: [CLAIM-635](../claims.d/CLAIM-635.md)'s retention bound and DeGroot's conserved average carry over if a session's restatement of an entry is a Markov step and reading a coded entry verbatim copies its text exactly, which holds for the text and not for its interpretation
@@ -91,3 +99,7 @@ The application holds for text and is an interpretive extension for
 meaning. [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) is warranted interpretive for that reason, and its
 defeater (a) asks whether coded content in fact drifts less, which is the
 part this argument cannot settle.
+
+## Note of 2026-11-21: the semicontraction readings
+
+Read on 2026-11-21, the two semicontraction papers (THEORY-tmprwljl, THEORY-tmpq3h4k) cover deterministic systems only, so they cannot replace this application to restatement. They show that semicontraction keeps nothing by itself and that what a limit keeps is fixed by an exact conserved functional, which is the mapping premise this argument already rests on (CLAIM-635, THEORY-960). The answer to its first critical question stands.

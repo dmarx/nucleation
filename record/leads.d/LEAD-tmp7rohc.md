@@ -1,8 +1,14 @@
 ---
-status: Open
+status: Done
 title: 'Check whether a hierarchy of time scales, seen from one level, decays hyperbolically rather than exponentially: whether relaxation summed over the levels of an ultrametric tree gives a power law, and whether hyperbolic discounting is exponential discounting averaged over a spread of hazard rates, which would tie Ainslie''s account of will to the time geometry of a hierarchy'
-version: 1
-stage: idea
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Done on 2026-11-21: the formal step run, both works sought and read
+    through neighbours, and the claim filed.
+stage: underway
 priority: low
 method:
 - reading
@@ -27,6 +33,7 @@ summary: >-
   time scales looks like from one of its levels. Low priority: speculative
   until read.
 ---
+<!-- inactive-ok-file: THEORY-tmppuotc THEORY-tmp2kqhd CLAIM-tmp6q7ma — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmpve51e LIT-tmpslg57 LIT-tmpk0e2v — Proposed or Deferred; filed in this contribution or the ones it builds on -->
 
 # LEAD-tmp7rohc: Check whether a hierarchy of time scales, seen from one level, decays hyperbolically rather than exponentially: whether relaxation summed over the levels of an ultrametric tree gives a power law, and whether hyperbolic discounting is exponential discounting averaged over a spread of hazard rates, which would tie Ainslie's account of will to the time geometry of a hierarchy
@@ -45,3 +52,7 @@ summary: >-
    gives a hyperbola-shaped mean, E[a^W] = r/(r + ln(1/a)), from an
    exponential averaged over an exponential wait; that is the same
    mechanism in one level.
+
+## Note of 2026-11-21: done
+
+Step 1: the assistant's check (curation entry of 2026-11-21) found the return probability on designed rate trees decaying as a power of time with exponent ln b/ln(1/(bg)), not the ln b/ln(1/g) this lead first guessed. Step 2: Ogielski and Stein and Sozou were Unfetched; their neighbours were read. Bachas and Huberman (THEORY-tmppuotc) give the same exponent, ln b/(ln(1/g) − ln b), with conditions (gb < 1; finite trees end exponentially); Fedus and colleagues (THEORY-tmp2kqhd) restate Sozou, an exponential prior over hazards giving exactly 1/(1 + kt). Step 3: CLAIM-tmp6q7ma, and a dated note on THEORY-1117.

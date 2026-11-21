@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Rate differences between levels, where they exceed the rate differences within a level, do two jobs in a hierarchy: the ratio of the rate within a level''s blocks to the rate between them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how rate differences make hierarchical structure and not only mark it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -12,6 +12,12 @@ history:
     time geometry once the rate ratio between levels beats the spread of
     rates within them, and is rearranged otherwise. The title names that
     comparison in place of "one rate gap". Version 1's title: "One rate gap does two jobs in a hierarchy: at each level, the ratio of the rate between blocks to the rate within them is the margin by which the block aggregate is a slow manifold and the coarse variable closes, and its logarithm is the spacing between that level and the next in the tree the time geometry becomes; so dynamical hyperbolicity at every level makes the whole geometrically hyperbolic, which is how scale separation makes hierarchical structure and not only marks it".
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    A dated note: the metastability and ultradiffusion readings support
+    the closure side and add the branching to the condition. No change of
+    status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -57,6 +63,7 @@ summary: >-
   geometry a hierarchy. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmph10k5 THEORY-tmppuotc — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmp9lm3d CLAIM-tmpdx6l8 — Proposed; filed in this contribution or the one it builds on -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1558 THEORY-1429 CLAIM-762 SYNTHESIS-048 SYNTHESIS-108 CLAIM-755 LIT-1638 — Proposed or Unfetched; the claims and readings this joins -->
 
@@ -137,3 +144,8 @@ between levels, the rates still make a tree, but not that hierarchy's.
   tree of time scales.
 - Not that the blocks are produced by the system. The barriers are given;
   where they come from is [CLAIM-478](CLAIM-478.md)'s and [SYNTHESIS-048](../syntheses.d/SYNTHESIS-048.md)'s question.
+
+## Note of 2026-11-21: the eigenvector side, and the branching
+
+- **Closure, spectrally.** Bovier and colleagues (THEORY-tmph10k5) give each metastable point one low-lying eigenvalue whose eigenvector is near the indicator of its valley: the spectral form of a block aggregate closing. The ratio that matters there combines rates with valley masses and capacities, which depend on the shape of the space, not on rates alone.
+- **The branching counts.** In Bachas and Huberman's ultradiffusion (THEORY-tmppuotc), relaxation within a subtree is stable only while the per-level rate ratio beats the branching (gb < 1); otherwise the subtree collapses to a single state. So the comparison this claim makes, between-level rate differences against within-level spread, needs a third term: the number of states in a block. This qualifies the claim; whether to restate it is left to its next revision.

@@ -1,0 +1,56 @@
+---
+status: Read
+paper: LIT-tmp4peep
+title: 'Yang, Yu, Zhu and Hayou — Feature learning in infinite-depth networks'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 by a delegated reader from arXiv 2310.02244v5 (12
+    Oct 2023): the abstract, §1, §3, §§5–9 and the text of §§10.2–10.4 in
+    full; §2, §4 and the forward SDE of Appendix F.1 skimmed; the other
+    appendices skipped. Running notes on the branch
+    claude/readers/tp6-depth (ADR-108). Quotations the filing leans on
+    rechecked by the filer by script against the downloaded text.
+date: '2026-11-21'
+summary: >-
+  Depthwise parametrizations of residual networks by branch multiplier
+  L^(−α) and update L^(−γ): stable and nontrivial iff α ≥ ½ and α + γ = 1;
+  Depth-μP (α = γ = ½) unique with maximal feature diversity; each block
+  contributes an independent Θ(1/√L) at initialization and a correlated
+  Θ(1/L) in training; blocks of two or more layers meet a clash between
+  the two.
+---
+<!-- inactive-ok-file: ADR-108 — Proposed; cited in the readings of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmp2yj4t CLAIM-tmpcvuyr CLAIM-tmphedau CLAIM-tmpqwoxz — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+
+# NOTE-tmppdqgb: Yang, Yu, Zhu and Hayou — Feature learning in infinite-depth networks
+
+## Contribution
+
+A classification of depthwise parametrizations; feature diversity and its exponent; Depth-μP; an impossibility result for deeper blocks; absolute value as a diversity-maximizing nonlinearity.
+
+## Key results
+
+1. **Table 1 and eq. (1)**: Depth-μP sets the branch multiplier a/√depth, with learning rate η for SGD and η/√depth for Adam; for SGD the rate is constant "because the gradient of W l is already of size 1/√L due to the multiplier".
+2. **The two contributions** (p. 3): "At the initialization, each one of the L residual blocks contributes Θ(1/√L) to the main branch. These L contributions are independent of each other, so the sum of them is of size Θ(1)." "During training, the contribution of the update of each residual block is Θ(1/L) due to the combining effect of the learning rate and multiplier. The contributions of the updates are highly correlated, so they sum up to Θ(1)."
+3. **Classification** (Claims 7.1–7.5): stable at initialization iff α ≥ ½; stable and nontrivial iff α + γ = 1; redundant for α ∈ (½, 1]; α = γ = ½ "is the unique parametrization that is stable, nontrivial, faithful, induces feature learning, and achieves maximal feature diversity".
+4. **Diversity** (Definition 7.6): Depth-μP gives a rough path in depth, continuity exponent ½ from Brownian increments; the redundant parametrizations make adjacent layers very similar.
+5. **Deeper blocks** (§9.2–9.3): the 1/√L scaling puts each block's interior "in the kernel regime"; escaping it adds a drift term as large as the noise term, so the parametrization is either unstable or loses diversity. The terms are named: the noise term, "independent and zero-mean across l", and the drift term, "correlated across l".
+6. **Brittleness** (§10.3): the 1/√L scaling "is likely to be brittle to architectural and algorithmic changes, or even simple things like training time".
+
+## Assumptions and concepts
+
+Width to infinity first under μP, then depth; one-layer biasless perceptron blocks with mean subtraction; entrywise optimizers; heuristic proofs, rigorous only in the linear case; small CIFAR-10 experiments. Concepts: branch multiplier, update exponent, stability, faithfulness, feature diversity, redundancy, noise and drift terms, block depth.
+
+## Bearing on the record
+
+- **CLAIM-tmp2yj4t** (supports; defeater (b) not met). The two rows are stated in the paper's own words: independent Θ(1/√L) contributions summing diffusively, correlated Θ(1/L) contributions summing coherently, a "noise term" and a "drift term". The assistant's recollection of the mechanism (1/√L twice for SGD; η/√L for Adam) is confirmed. Qualifications written into the claim's version 2: the drift term includes the correlated part of the initial weights' action, not only learned updates; one multiplier serves both rows; and the "fundamental limitations" of deeper blocks are a clash between the two existing rows, not a further kind.
+- **CLAIM-tmpcvuyr** (qualifies): Depth-μP makes adjacent blocks maximally different (a rough path), not interchangeable increments; only the redundant parametrizations make neighbours alike; and transformers' two-layer blocks have no optimal parametrization in this theory. The claim's bullet is revised.
+- **CLAIM-tmpqwoxz** (bears): within a block the dynamics are in the kernel regime while the network learns features across blocks, lazy and feature-learning regimes at different scales at once.
+- **CLAIM-tmphedau** (supports by application): continuity exponents ½ and 1 are the √n and n rows in depth.
+
+## Limitations
+
+Heuristic proofs; width-then-depth order; one architecture; small experiments; missing hyperparameters for deeper blocks deferred.
