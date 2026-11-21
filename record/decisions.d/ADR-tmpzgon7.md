@@ -20,6 +20,7 @@ summary: >-
   will become awkward for me or you to continue because of next steps or
   whatever."
 ---
+<!-- inactive-ok-file: ADR-tmpq5b9e ADR-tmp9pqps — Proposed; the decisions on merges into staging, 2026-11-21 -->
 <!-- inactive-ok-file: ADR-115 ADR-tmpd4rgx — Proposed; the decisions on devlog notes and on reframings this regime files under -->
 
 # ADR-tmpzgon7: A dialectic regime, switched on and off by the owner and on until switched off: while it is on, the assistant files the argument of the exchange as it goes, reports each filing as it lands, and reverts a filing when the owner interjects, rather than offering to file and waiting to be told; status changes, decisions, configuration, CI, delegated readings, outside services and merges still wait for the owner
@@ -65,7 +66,7 @@ develops in the record's own argument:
   of its own and is not already held;
 - revisions to entries filed while the regime is on, before they merge;
 - dated notes on held entries;
-- Reframings sections (ADR-tmpd4rgx), and the owner's corrections, recorded
+- Reframings sections ([ADR-tmpd4rgx](ADR-tmpd4rgx.md)), and the owner's corrections, recorded
   as corrections in curation entries and history notes;
 - devlog notes for the next retrospective ([ADR-115](ADR-115.md)).
 
@@ -185,3 +186,12 @@ on, with the open questions, and leaves the pull request for the owner.
 
 The CLAUDE.md map says how the regime works. The first filings made with it
 on will cite this decision by its temporary code.
+
+## Note of 2026-11-21: merges into staging
+
+The owner granted, with the regime on, that the assistant merge into
+staging as it sees fit, keeping the promotion to main as their own review
+point. That is a separate decision, [ADR-tmpq5b9e](ADR-tmpq5b9e.md), with the alternative reading [ADR-tmp9pqps](ADR-tmp9pqps.md);
+under it, the item "merging into `staging`" above no longer waits for the
+owner while the regime is on.
+

@@ -102,7 +102,8 @@ devlog notes. Put them in one open pull request into `staging`,
 one commit per turn; answer first, then report what was filed; revert
 (`git revert`) when the owner interjects. Status changes on held entries,
 ADRs and DPs, `luria.yaml`, CI, delegated readings, outside services and
-merges still wait for the owner. When a turn admits several valid readings
+merges into main still wait for the owner; merge into staging when a pull
+request is green and ready ([ADR-tmpq5b9e](record/decisions.d/ADR-tmpq5b9e.md), or [ADR-tmp9pqps](record/decisions.d/ADR-tmp9pqps.md) for others' too). When a turn admits several valid readings
 that would be filed differently, file each, marked as alternatives, and say
 which is which; the owner chooses. A go-ahead, switching the regime on
 included, greenlights everything the message it answers proposed. Suggest switching off when going on would
