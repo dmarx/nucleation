@@ -72,13 +72,14 @@ def unit_files(repo, commits):
     return files
 
 
-def main(repo=".", rev="HEAD"):
+def events(repo=".", rev="HEAD"):
+    """The term-change events up to rev, as a list of dicts (what `main` writes)."""
     unit_of = sr.units(repo)
     by_unit = {}
     for c, u in unit_of.items():
         by_unit.setdefault(u, []).append(c)
     log = sr.git(repo, "log", "--reverse", "--format=%H\t%an\t%aI", rev, "--", "luria.yaml")
-    events = []
+    out = []
     for line in log.splitlines():
         sha, author, date = line.split("\t")
         if author == BOT:
@@ -92,13 +93,17 @@ def main(repo=".", rev="HEAD"):
             commits = by_unit.get(unit, [sha]) if unit else [sha]
             touched = unit_files(repo, commits)
             carry = carriers(repo, f"{sha}^", term, scope(vocab))
-            events.append({
+            out.append({
                 "date": date[:10], "commit": sha[:9], "pr": unit, "vocabulary": vocab,
                 "term": term, "kind": kind, "keys": keys,
                 "adr_in_unit": any(f.startswith("record/decisions.d/ADR-") for f in touched),
                 "carriers": len(carry), "carriers_touched": len(carry & touched),
             })
-    json.dump(events, sys.stdout, indent=1)
+    return out
+
+
+def main(repo=".", rev="HEAD"):
+    json.dump(events(repo, rev), sys.stdout, indent=1)
 
 
 if __name__ == "__main__":
