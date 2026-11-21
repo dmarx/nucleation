@@ -62,13 +62,13 @@ fifth obstruction with its own repair.
 
 ## Note of 2026-11-21: a repair by channel, from First Contact
 
-CLAIM-tmpydua7 reads First Contact (Reddy, Levine and Dragan, 2022, held by
-the anthology as ANTH-LIT-503) as a failure of information of this kind,
+[CLAIM-tmpydua7](../claims.d/CLAIM-tmpydua7.md) reads First Contact (Reddy, Levine and Dragan, 2022, held by
+the anthology as [ANTH-LIT-503](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-503.md)) as a failure of information of this kind,
 split between two parties: the interface can act and does not know the task,
 the user knows the task and cannot act directly. The repair there was not
 to give the interface the information but to form a channel through which
 the informed party steers. That suggests one answer to this question's last
 part, what repairs it: a channel to a party that has the information.
-CLAIM-tmpspx4i adds that such a channel has a level, and that help which
+[CLAIM-tmpspx4i](../claims.d/CLAIM-tmpspx4i.md) adds that such a channel has a level, and that help which
 stabilizes one level can look like the channel failing at that level.
 
