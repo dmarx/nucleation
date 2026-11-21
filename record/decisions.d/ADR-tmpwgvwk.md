@@ -1,0 +1,44 @@
+---
+status: Proposed
+title: 'The work luria-nucleating-an-argument is renamed from-obstruction-to-reorganization, after the directory of its successor draft: the two manuscripts are one work, and the work takes the current draft''s name and title'
+version: 1
+tags:
+- record
+date: '2026-11-21'
+summary: >-
+  At the owner's ruling of 2026-11-21 on the promotion pull request: "this
+  is that same work, but we should update the value of the works field to
+  match the title of the manuscript subdirectory." The draft "From
+  Obstruction to Reorganization", at
+  scratch/manuscripts/from-obstruction-to-reorganization/, succeeds the
+  manuscript proposed on 2026-10-11 as "luria: nucleating an argument".
+  The works term is renamed to match the draft's directory, its label
+  becomes the draft's title, and its blurb records both. The 23 entries
+  carrying the old value in their works field take the new one in this
+  decision's pull request. Membership is unchanged. Rejected: a second
+  work for the successor, and keeping the old value.
+---
+
+# ADR-tmpwgvwk: The work luria-nucleating-an-argument is renamed from-obstruction-to-reorganization, after the directory of its successor draft: the two manuscripts are one work, and the work takes the current draft's name and title
+
+## Context
+
+The `works` vocabulary has held `luria-nucleating-an-argument` since 2026-10-11, for the owner's manuscript "luria: nucleating an argument". On 2026-11-20 a successor draft was written, "From Obstruction to Reorganization: A Theory of Learning and Inquiry, Operationalized in Its Own Investigative Machinery", at `scratch/manuscripts/from-obstruction-to-reorganization/`. Its README calls it the predecessor's successor. Asked whether the paper keeps the work or gets a new one, the owner ruled on pull request 582: "this is that same work, but we should update the value of the works field to match the title of the manuscript subdirectory."
+
+## Decision
+
+- **One work.** The successor draft is the same work as the manuscript proposed on 2026-10-11.
+- **The term is renamed** `from-obstruction-to-reorganization`, matching the draft's directory. Its label becomes the draft's title, and its blurb records both manuscripts and their dates.
+- **Every entry carrying the old value in its `works` field takes the new one**, in this decision's pull request: 23 entries, a QUESTION, an ARG and 21 claims.
+- **Membership is unchanged.** The rename does not add the entries the successor draft cites. Deciding which of them are members, under the rule of ADR-104, is separate work.
+- **Prose is left as written.** Dated entries that mention the old name (curation and workbench entries, retrospectives, an ADR, changelog fragments) and claims that refer to the predecessor manuscript by it keep their wording. They describe what was true when they were written.
+
+## Alternatives
+
+- **A second work for the successor.** Rejected by the owner: it is the same work.
+- **Keep the old value and revise only the blurb.** The field value would then not match the draft it marshals claims into, which is the mismatch the owner asked to remove.
+
+## Consequences
+
+- `luria.yaml`'s `works` vocabulary changes one key. The term audit (CASE-tmpnkuie) counts a rename as a removal and an addition. This one is carried through every carrying entry in its unit of work, as removals have been.
+- The generated work views take the new name at the next promotion.

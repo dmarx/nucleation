@@ -50,7 +50,7 @@ tags:
 date: '2026-10-11'
 line: nucleating-argument
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 - cost-structure-of-possibility
 grounds:
 - THEORY-136

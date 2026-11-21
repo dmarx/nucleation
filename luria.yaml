@@ -773,12 +773,14 @@ vocabularies:
         blurb: 'the owner''s working manuscript, drafted October 2026: contextual pragmatic information
           transport, combining structuralism, speech-act pragmatics, sheaf-theoretic contextuality, symmetry,
           rate–distortion and Blackwell comparison, conditional diffusion and iterated learning'
-      luria-nucleating-an-argument:
-        label: 'luria: nucleating an argument'
-        blurb: 'the owner''s manuscript, proposed 2026-10-11: an argument developed with stateless collaborators
-          drifts in identity, not structure; a project memory that makes structures persist gives it anchors to grow on,
-          and the manuscript becomes a view over the argument rather than its only copy. luria is the tool and
-          this record the case'
+      from-obstruction-to-reorganization:
+        label: 'From Obstruction to Reorganization'
+        blurb: 'the owner''s manuscript, proposed 2026-10-11 as "luria: nucleating an argument" (an argument developed
+          with stateless collaborators drifts in identity, not structure; a project memory that makes structures persist
+          gives it anchors to grow on, and the manuscript becomes a view over the argument rather than its only copy),
+          and drafted from 2026-11-20 at scratch/manuscripts/from-obstruction-to-reorganization/ as "From Obstruction
+          to Reorganization": a theory of learning and inquiry, operationalized in the record in which it was developed,
+          and the flywheel that machinery produced. luria is the tool and this record the case'
       self-as-recursive-ecology:
         label: The Self as a Recursive Ecology of Meaning and Influence
         blurb: 'the owner''s manuscript idea, proposed 2026-10-13 from an exchange on meaning operators: a self
