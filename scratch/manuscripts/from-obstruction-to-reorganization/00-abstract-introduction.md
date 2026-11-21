@@ -15,7 +15,7 @@ We present a general theory of learning and inquiry, intended to apply to any sy
 - **Learning as the formation of a maintained capacity.** One central kind of learning forms a maintained capacity: a new distinction or a new channel. An unresolved discrepancy is a sufficient occasion for it, but does not guarantee it. It is tested by transfer and by intervention while it forms.
 - **Three ledgers.** Forming, keeping and changing a capacity are separate costs. A capacity's maintenance is known only by intervention, and support that does the work a capacity is learned from erodes it.
 - **Inquiry is a form of specification that can revise what counts as an answer.** It becomes reflexive when its language, answer space, criteria or resources become its object.
-- **Transmission and collectives.** Without anchors, transmitted content drifts toward the transmitters' priors. A collective learns only through a chain of separable achievements, from admission to the revision of its own standards.
+- **Transmission and collectives.** Without anchors, transmitted content drifts toward the transmitters' priors, and an anchor secures only what it is tied to: the target, or the inquiry's own past. A collective learns only through a chain of separable achievements, from admission to the revision of its own standards.
 
 The theory is assembled from claims held in a research record, Nucleation, each cited with its standing. It is stated as ten principles and a predicted cycle: misfit, absorption, noticing, diagnosis, revision, carry-through, maintenance, and reuse.
 

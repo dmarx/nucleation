@@ -105,12 +105,36 @@ Two refinements matter:
 
 ### 5.3 What anchors
 
-The digests behind this paper find four mechanisms in the record that hold a chain to its origin. The grouping is ours; the record states each separately.
+**Anchoring in general (added 2026-11-21).** An earlier version of this section asked only how a record holds an entry steady across sessions. That is one case of a wider behaviour. The record files "anchoring" in three places it had not joined:
 
-- **Exact conservation.** Under Markov reconstruction, an observable conserved exactly at every step and not constant on the start's support "keeps information about the start at every generation", while a merely bounded conservation defect does not prevent forgetting (CLAIM-635, Proposed, demonstrated).
+- **Transmission:** a restatement held to its source (CLAIM-191, Proposed; CLAIM-772, Proposed).
+- **Correspondence:** a map between two systems that has content only if it is "anchored to independently measured distinctions" (CLAIM-011, Active, demonstrated).
+- **Judgment:** a value that pulls a later estimate toward itself "without adding evidence about the target" (CLAIM-315, Proposed), which is anchoring as a bias.
+
+CLAIM-tmp1xigl (Proposed, interpretive) holds that these are one mechanism, a reconstruction pulled toward a fixed reference. They differ in what the reference is tied to, and that tie sets what the anchor secures:
+
+| The reference is tied to | By | It secures | It fails as |
+|---|---|---|---|
+| the target | a channel independent of the inquirer: a measurement, an intervention, a specimen, an independent reader | content: the inquiry's states say something about the target, and a mismatch with it registers | a channel that only looked independent (CLAIM-011's uninformative correspondence) |
+| an earlier state of the inquiry | storage and an address: a text, a code, a protocol | continuity: the inquiry stays the same inquiry, and its change is traceable | entrenchment where the earlier state was wrong (CLAIM-184); staleness where it was revised |
+| nothing | salience | coordination at most | bias: the pull without the evidence |
+
+Three consequences matter for the theory.
+
+1. **An anchor is good or bad by its tie, not by its fixity.** Every anchor is a fixed point that reconstructions are pulled toward. Whether the pull brings an inquiry closer to its target depends on whether the target set that point. "Stability is not fidelity" splits in two. Fidelity to the source is what an anchor of the second kind secures. Fidelity to the target is what only the first kind can secure.
+2. **An inquiry needs anchors in order to learn.** A discrepancy registers only against something the inquirer cannot reinterpret at will. Without a fixed reference, a conflicting observation can be absorbed by moving the reference instead (P5's discrepancy, P3's independence). Kuhn, as one reading has him, makes firm commitment to a tradition what "lets research recognize where the tradition fails" (THEORY-2096, Proposed): the commitment holds the expectation still, and the world, through an independent channel, supplies the mismatch. An anchor is what an obstruction is an obstruction *to*.
+3. **An anchor of the second kind must be selectively permeable.** It should be fixed against the inquirer's own reconstructions (summarizing, rereading, reasoning from memory) and open to the channel that ties it to the target (new evidence, a failed prediction, an independent reader). Too open to the first, and it drifts. Too closed to the second, and it entrenches. When it is revised through the second, everything derived from it has to follow.
+
+The mechanisms the record holds for keeping a chain to its origin, and the record's own design, fall under this account.
+
+**The mechanisms.** The digests behind this paper find four. The grouping is ours; the record states each separately.
+
+- **Exact conservation.** Under Markov reconstruction, an observable conserved exactly at every step and not constant on the start's support "keeps information about the start at every generation", while a merely bounded conservation defect does not prevent forgetting (CLAIM-635, Active, demonstrated).
 - **Independent evidence.** A judgment–observation loop is kept from confirming itself by "evidence whose arrival or scoring does not pass through the interpretation it tests" (CLAIM-342, Active, interpretive).
 - **Anchored correspondence.** A correspondence must be anchored to independently measured distinctions and evaluated on held-out tasks (CLAIM-011, CLAIM-266, Active).
 - **Address.** "Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses" (CLAIM-182, Proposed, empirical).
+
+Independent evidence and anchored correspondence are ties of the first kind. Exact conservation and address are anchors of the second kind, which hold an inquiry to its own earlier states.
 
 The predecessor manuscript built on the last of these. An argument's nucleation threshold is whatever makes a structure persist, and more complex structure can grow only on anchors (CLAIM-185, Proposed). What counts as the same claim persisting is fixed by an amendable decision, not discovered (CLAIM-195, Active). Recurrence can trigger anchoring: coding a thing the second time it turns up catches drift the first time it could occur (CLAIM-176, Proposed).
 
@@ -123,6 +147,13 @@ An earlier draft of this paper read a stable code as CLAIM-635's exactly conserv
 The record has since filed a narrower form that survives these reasons (2026-11-21, both Proposed). CLAIM-772 holds that forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly. A chain that contracts everywhere except on what it copies without error ends keeping exactly the start's value on that conserved part. The record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema. ARG-124 states the application. The conservation results carry over if a session's restatement of an entry is a Markov step and reading a coded entry verbatim copies its text exactly, which "holds for the text and not for its interpretation".
 
 What anchors, then, is not the code but the exact copying of the text that the code makes possible. The weak point is interpretation, which no verbatim read conserves. The record holds an instance of exactly that: a term's code and its text kept exactly while its meaning changed (CLAIM-tmpj5aiv, Proposed).
+
+Two objections to CLAIM-772, filed the same day (both Proposed), refine this.
+
+- **The record is a star around its sources, not a chain.** A stored entry is not restated from one session to the next; each session reads the file (CLAIM-tmppkqzl). Friedkin and Johnsen's re-injection of a fixed start (THEORY-1161), which CLAIM-772 had set aside as a second route, is conservation on the state enlarged by the source, so the route set aside is the record's main one. On that structure an interpretation does not random-walk away from the text. It settles on an offset toward the reader's prior. That offset is bounded, is not removed by reading again, and is the same for every reader who shares the prior, so those readers' agreement cannot reveal it. Only a reader whose prior differs can. The chains the record does have are its derived texts: summaries, titles quoted from memory, accounts, manuscripts. This paper's fact-checks and its admission audit (§7.4) found errors in exactly those, and found them with independent readers.
+- **Exact copying keeps staleness too.** An exact copy is anchored to the version it was taken from. Where the source is revised, the copy keeps what the revision removed (CLAIM-tmp0kqq4, empirical). RETRO-004's summary is the case (§14.5). Against a revisable source, what anchors a derived text is a tie to the current version: regeneration from the source, or a recorded version. Exactness does not.
+
+In the terms of the general account, the reader's offset is anchoring of the third kind at work inside an anchor of the second kind. The stale summary is an anchor of the second kind that did not follow a revision.
 
 **When an anchor is set (added 2026-11-21).** A descriptor holds the value an entry has when it is added, not the value it was filed with (CLAIM-tmp8v75o, part 5, Proposed): drift before the pin is kept, not undone. So when an anchor is set decides what it preserves, the origin if at filing and a drifted state if later, a formal reason for the record's habits of coding and quoting at filing.
 
@@ -158,7 +189,7 @@ If an inquiry's content can change, what makes it the same inquiry?
 - **Interruption is not loss.** A perspective's enactment can stop without the loss of what could reinstate it. An interruption may be of activation, of enactment or of reproduction (CLAIM-421, Active).
 - **Participants' judgments help make the succession.** At a change of steward, their judgments of which successor continues a project are causally productive of the succession (CLAIM-617, Proposed).
 
-**The ninth principle follows.** Without anchors, content passed through memoryless transmitters can drift toward the transmitters' own biases (proved for sampling learners), and a stable result is not evidence of a preserved one. What holds a chain to its origin is an exactly conserved address, evidence that does not pass through the interpretation under test, or anchoring to independently measured distinctions. What a record can aim to secure, on the record's Proposed account, is traceable change, not fidelity. An inquiry stays the same inquiry by transmitting what keeps it going, not by staying the same.
+**The ninth principle follows.** Without anchors, content passed through memoryless transmitters can drift toward the transmitters' own biases (proved for sampling learners), and a stable result is not evidence of a preserved one. An anchor secures what it is tied to. Tied to the target by an independent channel, it gives an inquiry content and lets a discrepancy register. Tied to the inquiry's own earlier states, by exact copying of what is addressed, it gives continuity, not correctness. Tied to nothing, it is bias. What a record can aim to secure, on the record's Proposed account, is traceable change, not fidelity. An inquiry stays the same inquiry by transmitting what keeps it going, not by staying the same.
 
 ## 6. Collective inquiry
 
