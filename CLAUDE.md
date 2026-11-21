@@ -139,8 +139,8 @@ concretizes the batch's codes, regenerates the views, and merges main back
 into staging ([ADR-116](record/decisions.d/ADR-116.md)). Only that workflow, or the owner, merges into
 main. Whenever staging is ahead of main, a pull request from staging
 into main is open for the owner's review; open it if none is, and keep its
-description to what the batch holds and the choices waiting (ADR-tmp6xm7w, or
-ADR-tmpwi4rk for a workflow that opens it).
+description to what the batch holds and the choices waiting ([ADR-tmp6xm7w](record/decisions.d/ADR-tmp6xm7w.md), or
+[ADR-tmpwi4rk](record/decisions.d/ADR-tmpwi4rk.md) for a workflow that opens it).
 
 **Each logical unit of work gets its own branch, cut from `staging`, and its
 own pull request** ([ADR-071](record/decisions.d/ADR-071.md), as changed by [ADR-116](record/decisions.d/ADR-116.md)): the filing of one source,
