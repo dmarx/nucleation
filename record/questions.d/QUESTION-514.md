@@ -88,3 +88,11 @@ unrelated. [CLAIM-555](../claims.d/CLAIM-555.md) holds a nearby identification, 
 complex of a training distribution's demands with the singular geometry,
 from which a semantic order might be read. The entailment-cone side of
 the exchange (Ganea et al., [LIT-866](../literature.d/LIT-866.md)) is another theme of the same filing.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+Leaves the question open (NOTE-tmp2pgi8). The paper measures no strata.
+Its estimated coefficient is not monotone over training (it falls in three
+stages), so if stages climbed a chain of strata by incidence, the estimate
+would not show the climb monotonically, or the estimate tracks something
+else. No relation written.

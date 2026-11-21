@@ -103,3 +103,12 @@ The promote_when above.
 
 ## Note of 2026-11-19: Hu, Petty, Shi, Merrill and Linzen, read
 A parallel ([NOTE-2157](../notes.d/NOTE-2157.md)): here bracket-matching heads arise from natural text; there a bracket corpus seeds heads later used for natural text.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+A parallel, weak support at most (NOTE-tmp2pgi8): in the same run, the
+heads that later form the induction circuit begin to compose in LM2, and
+"the foundations for the induction circuit are laid in advance of any
+measurable change in model outputs or attention patterns" (§6.2). That is
+groundwork before a visible change of role; it neither tests nor
+contradicts repurposing. No relation written.

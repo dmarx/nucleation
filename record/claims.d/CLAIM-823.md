@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpgzb8v
 title: "Alternative reading (b) of the owner's suggestion on singularities: a phase transition in learning is a change in which singular region of parameter space dominates, as the sample size grows, between regions that fit differently and have different learning coefficients, and resolution of singularities is the tool that computes those coefficients"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    After the reading of Hoogland et al. (LIT-2966, NOTE-tmp2pgi8): the
+    sentence calling the work unread updated, its ground changed from the
+    work to the reading (THEORY-tmpr9w2r), and a dated note added
+    (ARG-tmpfh555). Title and thesis unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,8 +38,9 @@ grounds:
 - THEORY-087
 - THEORY-1275
 - THEORY-975
-- LIT-2966
+- THEORY-tmpr9w2r
 bears_on:
+- QUESTION-tmphkb1w
 - QUESTION-363
 - QUESTION-217
 - QUESTION-514
@@ -47,8 +56,8 @@ summary: >-
   the exchange "Rich Get Richer Power Laws", A37); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-834 CLAIM-802 ARG-132 LIT-2966 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
-<!-- inactive-ok-file: CLAIM-812 THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: CLAIM-834 CLAIM-802 ARG-132 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
+<!-- inactive-ok-file: CLAIM-812 THEORY-2157 THEORY-tmpr9w2r ARG-tmpfh555 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-823: Alternative reading (b) of the owner's suggestion on singularities: a phase transition in learning is a change in which singular region of parameter space dominates, as the sample size grows, between regions that fit differently and have different learning coefficients, and resolution of singularities is the tool that computes those coefficients
 
@@ -81,8 +90,8 @@ representational development are such switches, or at least leave their
 mark in local learning coefficients. The record holds one reading in
 favour: weight-refined coefficients of attention heads diverge by function
 over training ([THEORY-975](../theory.d/THEORY-975.md)). Hoogland and colleagues ([LIT-2966](../literature.d/LIT-2966.md),
-Deferred: registered, not read) report stagewise changes in the coefficient
-in transformers.
+read 2026-11-21: THEORY-tmpr9w2r) report stagewise changes in the
+coefficient in two small transformers; see the note below.
 
 ## What it does not say
 
@@ -108,3 +117,32 @@ App. H). A change in the estimate over training is evidence of a change of
 stratum only with the sampler settings fixed across checkpoints, settling
 checked, and β and γ varied ([LEAD-207](../leads.d/LEAD-207.md), [CLAIM-812](CLAIM-812.md)). The paper
 itself has no dynamical content beyond its Outlook.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+Supports the claim's weak half, leaves its strong half untested, and
+qualifies it (ARG-tmpfh555; NOTE-tmp2pgi8, THEORY-tmpr9w2r).
+
+- **The weak half, supported in two small models.** Plateaus of the
+  estimated coefficient divide training of a two-layer attention-only
+  language model and a two-layer in-context regression model into stages
+  that recur across five seeds, and "these changes in degeneracy coincide
+  with significant changes in the internal computational structure and the
+  input/output behavior of the transformers". That is "leave their mark in
+  local learning coefficients".
+- **The strong half, untested.** The authors use the singular learning
+  process as an analogy ("an analogy to the singular learning process
+  informs our methodology for stage division", §2); its link to training
+  "remains to be understood" (§5); they never call a stage a change of
+  dominant singular region.
+- **The decreases qualify it.** Three stages lower the estimate (LM3,
+  LR3, LR4). A crossover to a richer, higher-λ region, this claim's
+  transition, produces increases; the authors call a full account "an open
+  problem" (§8). The decreases are QUESTION-tmphkb1w.
+- **The estimator.** nβ is 21.7 and 66.7, not n/log n, with γ fixed, so a
+  rise can be directions stiffening past the estimator's cut-off as much
+  as a change of region (CLAIM-812).
+
+The bearing on the owner's U23 itself (CLAIM-834) is noted there by the
+filing of the other readings of this batch.
+

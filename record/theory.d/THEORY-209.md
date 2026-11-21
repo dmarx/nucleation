@@ -201,3 +201,12 @@ one ResNet-18 projection and on plotted speeds.
 
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
 A parallel ([NOTE-2127](../notes.d/NOTE-2127.md)): Chen and colleagues define stochastic collapse as the divergence of the partition function of this account's modified loss (fn. 11).
+
+## Note of 2026-11-21: Song, Ahn & Yun, read
+
+A parallel (NOTE-tmpw0eql): in Song, Ahn and Yun, SGD noise kicks iterates
+up the walls of a steep valley, so the gradient aligns with the Hessian's
+top subspace while the loss falls along the floor; the alignment
+disappears under full-batch descent. Noise shaping motion across curvature
+directions, as here, but before convergence and with no claim about
+diffusion. No relation written.

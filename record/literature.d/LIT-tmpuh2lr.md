@@ -1,0 +1,32 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the reading of Xu (LIT-2967), which cites it. The arXiv copy at https://arxiv.org/abs/2402.09221 is lawful and was not fetched for reading.
+title: 'Spectral Filters, Dark Signals, and Attention Sinks'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier, title, authors and date checked on the arXiv API on 2026-11-21, no email address sent. Not held: no hit for the arXiv id or the title in record/literature.d.
+tags:
+- representation-learning
+- anthology-candidate
+date: '2026-11-21'
+published: '2024-02-14'
+arxiv: '2402.09221'
+first_author: 'Cancedda'
+keywords: []
+implementations: []
+summary: >-
+  Cancedda (2024), ACL 2024 (as Xu cites it), Spectral Filters, Dark Signals, and Attention Sinks, arXiv 2402.09221. Here for the closest prior observation Xu (LIT-2967, NOTE-tmp454fw) names (its Figure 8): that removing the bottom band of the unembedding's singular directions after the final layers raises the loss more than removing a random subspace of the same rank; and, by Xu's account, that removing them at intermediate layers raises the loss through attention sinks. It bears on THEORY-tmpu3iio and CLAIM-835. Unverified until read.
+---
+<!-- inactive-ok-file: THEORY-tmpu3iio CLAIM-835 — Proposed or new; the readings that cite this work and the entries it bears on -->
+
+# LIT-tmpuh2lr: Spectral Filters, Dark Signals, and Attention Sinks
+
+Cancedda (2024). arXiv 2402.09221.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the reading of Xu (LIT-2967), for the closest prior observation Xu (LIT-2967, NOTE-tmp454fw) names (its Figure 8): that removing the bottom band of the unembedding's singular directions after the final layers raises the loss more than removing a random subspace of the same rank; and, by Xu's account, that removing them at intermediate layers raises the loss through attention sinks. It bears on THEORY-tmpu3iio and CLAIM-835. Not read.

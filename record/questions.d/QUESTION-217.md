@@ -74,6 +74,7 @@ refines:
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-800 THEORY-1558 — new or Proposed; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, and a reading named for comparison -->
+<!-- inactive-ok-file: THEORY-tmpr9w2r — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 # QUESTION-217: When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?
 
 ## Why it is a question
@@ -224,3 +225,17 @@ The exchange "Rich Get Richer Power Laws" (2026-11-21) came to this question twi
 - **Relaxation times.** A29 §10 proposes, as a hypothesis, that in representation learning the interaction geometry co-evolves with the representation, so "coarse semantic distinctions becoming stable early, while increasingly fine distinctions continue reorganizing later in training", giving "a hierarchy of relaxation times", whose scale-freedom "is an empirical question". This is the acquisition order read as settling time, and [THEORY-1558](../theory.d/THEORY-1558.md)'s demarcation of levels by relaxation rate in another register. It is not filed separately: it adds a measurement (relaxation per level, [LEAD-210](../leads.d/LEAD-210.md)) and no answer.
 
 This answers none of the orders. No status change.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+Supports a coarse-to-fine progression in a single run, as an acquisition
+order (NOTE-tmp2pgi8, THEORY-tmpr9w2r): in the two-layer language model
+the stages run bigrams, then n-grams with positional embedding, then
+previous-token heads, then induction heads, which the authors liken to
+Olsson et al.'s progression across depth (§8). Two qualifications bear on
+whether one chain holds. The groundwork for the induction circuit is laid
+in LM2, "in advance of any measurable change in model outputs or attention
+patterns" (§6.2), so the order of acquisition by behaviour and by
+structure can differ; and three stages lower the estimated coefficient,
+simplifications rather than acquisitions (QUESTION-tmphkb1w). Written as
+`bears_on` from the reading. No status change.

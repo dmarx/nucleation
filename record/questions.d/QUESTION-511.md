@@ -24,7 +24,8 @@ summary: >-
   "weak" by spectrum are A41's, set out in the body as A's.
 ---
 
-<!-- inactive-ok-file: CLAIM-835 CLAIM-807 CLAIM-828 CLAIM-812 TERM-137 LIT-2959 LIT-2973 LIT-2967 — Proposed or new, filed with this question, or Deferred works registered from the exchange and not yet read -->
+<!-- inactive-ok-file: CLAIM-835 CLAIM-807 CLAIM-828 CLAIM-812 TERM-137 — Proposed or new, filed with this question -->
+<!-- inactive-ok-file: THEORY-tmpthmd7 THEORY-tmpu3iio THEORY-tmpklef6 THEORY-tmpr9w2r LIT-tmp9yy1o LIT-tmpgptvp — Proposed or Deferred; the readings of 2026-11-21, and works registered from them -->
 <!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # QUESTION-511: Does recent work on the informativeness of small-eigenvalue subspaces during learning bear on the signature of a transition the exchange proposed, in which a previously weak direction becomes informative, a local degeneracy changes and a new distinction becomes independently decodable?
@@ -69,7 +70,7 @@ stated spectrum.
   variance or an identifiable transition in local singularity structure."
   The recent work A41 found is Staats et al. (held: [THEORY-420](../theory.d/THEORY-420.md)), Acharya
   et al. ([LIT-2959](../literature.d/LIT-2959.md)), Song et al. ([LIT-2973](../literature.d/LIT-2973.md)) and Xu ([LIT-2967](../literature.d/LIT-2967.md)),
-  the last three unread. None tracks a direction through learning toward
+  the last three read on 2026-11-21 (see the note below). None tracks a direction through learning toward
   a new distinction, so none answers the question. They show that small
   directions can matter at a checkpoint.
 - **A42's mechanism.** A factored feature switched on just above its
@@ -109,3 +110,43 @@ App. H). A change in the estimate over training is evidence of a change of
 stratum only with the sampler settings fixed across checkpoints, settling
 checked, and β and γ varied ([LEAD-207](../leads.d/LEAD-207.md), [CLAIM-812](../claims.d/CLAIM-812.md)). The paper
 itself has no dynamical content beyond its Outlook.
+
+## Note of 2026-11-21: Song, Ahn & Yun, Xu, Acharya, Rimal & Dhakal, and Hoogland et al., read
+
+The four readings leave the question open, and one tells against A41's
+candidate answer.
+
+- **None tracks a direction through training.** Xu (THEORY-tmpu3iio) and
+  Acharya et al. (THEORY-tmpklef6) use final checkpoints; Acharya et al.'s
+  only trajectory is through depth ("Our layer-wise analysis is
+  descriptive"). Song et al. (THEORY-tmpthmd7) measure only training-loss
+  descent and recompute the subspace at every step, so no direction is
+  followed. Hoogland et al. (THEORY-tmpr9w2r) date stages by the local
+  learning coefficient, a scalar, not by any direction; they do date event
+  2's kind of change against behaviour, at fixed sampler settings.
+- **Quiet in one metric, loud in another.** Xu's bottom band is quiet in
+  the logit metric but "holds on average 1.5 to 6.6 times its share of the
+  directions in variance" at late residual states (App. D). So A41's
+  "spectrally quiet subspace", read as low representation variance, does
+  not fit the work A41 cites for it; read as low amplification by the
+  unembedding, it fits, and the question must say which.
+- **A test the record could run.** Xu's suggested training origin, after
+  Thrampoulidis (LIT-tmp9yy1o) and Zhao et al. (LIT-tmpgptvp), places the
+  distinctions among plausible candidates at the bottom of the spectrum as
+  training proceeds; "Testing this origin would require tracking the
+  organization during training" (§7). Pythia's public checkpoints, among
+  Xu's ten models at their final step, would allow tracking the bottom
+  band's consequence spectrum through training: a direction becoming
+  informative, in a stated spectrum.
+- **No inner product is intrinsic.** THEORY-018 holds that softmax
+  training fixes the final representation only up to an invertible linear
+  map. Xu's singular ranking and "equal length", and Acharya et al.'s
+  energy fractions, are not invariant under h ↦ Ah, W ↦ WA⁻¹ (THEORY-234);
+  Xu's quotient of metrics and its generalized eigenvectors are. This
+  qualifies every reading here, and is the "harmless representation
+  reparameterizations" caution above made exact: an answer must be stated
+  in an invariant, or for a stipulated inner product.
+
+Written as `bears_on` from Xu's and Hoogland et al.'s readings. No status
+change.
+

@@ -4,7 +4,23 @@ status: Proposed
 formerly:
 - CLAIM-tmppkdjz
 title: 'Whether a direction in a learned model is small depends on the metric it is measured in, and the metrics can rank directions in opposite orders: a label can sit wholly in the least-variance component, and the predictive Fisher pulled back to a hidden state, Wᵀ(diag p − ppᵀ)W, can rank a weight matrix''s smallest singular direction above its largest'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Corrected in place, the claim having been filed today, after the
+    readings of Xu (LIT-2967, NOTE-tmp454fw), Acharya, Rimal and Dhakal
+    (LIT-2959, NOTE-tmpwvltp) and Song, Ahn and Yun (LIT-2973,
+    NOTE-tmpw0eql). "That trained unembeddings show the reversal
+    systematically is Xu's empirical claim" overstated Xu: the peak at the
+    bottom band is in the ratio of prediction change to logit distance,
+    the Fisher term per unit length is U-shaped, and the top band costs as
+    much total loss in nine of ten models. Kept what Xu supports, that the
+    two geometries disagree most along the directions the unembedding
+    amplifies least. The three works move from grounds to corroboration
+    (Xu, Song et al.) or to neither (Acharya et al.), since the claim rests
+    on its constructions (ARG-139). Title, thesis and warrant unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -27,9 +43,6 @@ complements:
 grounds:
 - THEORY-420
 - THEORY-084
-- LIT-2959
-- LIT-2973
-- LIT-2967
 bears_on:
 - QUESTION-511
 uses:
@@ -46,7 +59,8 @@ summary: >-
   Power Laws", A41); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-137 ARG-139 LIT-2959 LIT-2973 LIT-2967 — Proposed or new, or Deferred works registered from the exchange and not yet read -->
+<!-- inactive-ok-file: TERM-137 ARG-139 — Proposed or new -->
+<!-- inactive-ok-file: THEORY-tmpu3iio THEORY-tmpthmd7 THEORY-tmpklef6 CLAIM-tmpqy8mq — Proposed or new; the readings of 2026-11-21 and a claim filed from them -->
 
 # CLAIM-835: Whether a direction in a learned model is small depends on the metric it is measured in, and the metrics can rank directions in opposite orders: a label can sit wholly in the least-variance component, and the predictive Fisher pulled back to a hidden state, Wᵀ(diag p − ppᵀ)W, can rank a weight matrix's smallest singular direction above its largest
 
@@ -70,7 +84,8 @@ not variance.
 p = softmax(ℓ), KL(p_h ‖ p_{h+δh}) ≈ ½ δhᵀ G_pred δh, where
 G_pred = Wᵀ(diag p − ppᵀ)W is the categorical Fisher pulled back to h, and
 G_logit = WᵀW measures raw logit change. A credits the distinction to Xu
-([LIT-2967](../literature.d/LIT-2967.md), unread).
+([LIT-2967](../literature.d/LIT-2967.md), read 2026-11-21: THEORY-tmpu3iio), who defines both metrics
+and their quotient (App. B).
 
 ## The assistant's additions
 
@@ -89,9 +104,21 @@ The logit metric ranks e₁ above e₂ by 5,200 to 1. The predictive metric
 ranks e₂ above e₁ by 4 to 1. The reversal is not generic: for random
 500 × 20 Gaussian unembeddings at a random hidden state, the Spearman
 correlation between singular value and vᵀG_pred v averaged 0.85 over 200
-draws (range 0.33 to 0.99). That trained unembeddings show the reversal
-systematically is Xu's empirical claim, not checked here. Checked with
-`python3 -I` (`t5/check5.py`, `check6.py`).
+draws (range 0.33 to 0.99). Checked with `python3 -I` (`t5/check5.py`,
+`check6.py`).
+
+**What trained unembeddings show** (corrected 2026-11-21; version 1 said
+"That trained unembeddings show the reversal systematically is Xu's
+empirical claim"). Xu does not report a reversal of the kind constructed
+here. In ten trained models (THEORY-tmpu3iio) the peak at the
+unembedding's bottom band is in the ratio of prediction change to logit
+distance; per unit of state length the Fisher term "is lowest over the
+middle bands and rises above random at both ends" (App. D), U-shaped; and
+removing the top band "increases the loss as much as removing the bottom
+band's, or more, in nine of the ten models" (App. E.2). What Xu supports is
+that "the two geometries disagree most along the directions that the
+unembedding amplifies least" (§7): the orders come apart at the bottom,
+in trained models, without reversing end to end.
 
 **A limit on the variance toy.** A's caption says it "assumes
 arbitrarily precise measurements". With fixed additive readout noise τ
@@ -152,8 +179,9 @@ low-variance tail of the unembedding covariance (Acharya et al.,
 [LIT-2959](../literature.d/LIT-2959.md)); SGD progresses in the Hessian's bulk, not its top
 subspace (Song et al., [LIT-2973](../literature.d/LIT-2973.md)); and the unembedding's smallest
 directions move next-token distributions most (Xu, [LIT-2967](../literature.d/LIT-2967.md)). The
-last three are unread. They bear on this claim as instances of metrics
-disagreeing. A41 §8 also presents them as a correction to the hyperribbon
+last three were read on 2026-11-21 (see the note below). They bear on
+this claim as instances of metrics disagreeing, Xu's strongly and the
+other two weakly. A41 §8 also presents them as a correction to the hyperribbon
 account. [ARG-139](../arguments.d/ARG-139.md) weighs that, and finds they do not bear on it: a
 hyperribbon is already defined in the metric of the predictions.
 
@@ -175,3 +203,32 @@ which is one of the metrics this claim sets side by side. They do not
 compare that metric with the others the claim names. No relation is
 written: the readings bear on the claim as background, not as evidence
 for its ordering result.
+
+## Note of 2026-11-21: Xu, Acharya, Rimal & Dhakal, and Song, Ahn & Yun, read
+
+What the three readings support, weighed in ARG-139 (version 2).
+
+- **Xu** (THEORY-tmpu3iio, NOTE-tmp454fw): supports the thesis that the
+  metrics disagree, in trained models, with the qualification corrected
+  above: the disagreement is in the quotient of the two metrics and is
+  partial, not an end-to-end reversal. It is not evidence for the
+  variance-against-label half: Xu's bottom band holds 1.5 to 6.6 times its
+  share of state variance, and a top-variance subspace has a small ratio.
+  Written as `corroborates` from the reading.
+- **Acharya, Rimal & Dhakal** (THEORY-tmpklef6, NOTE-tmpwvltp): weak
+  support at most. The spectrum is the unembedding's second moment, the
+  logit metric, and the paper asks where concept vectors point in it; its
+  own effect measures (perplexity under steering, POS probing) run with
+  G_logit, not against it. It supports only the weaker point that a
+  direction's place depends on which vector of a concept is measured, and
+  that dependence is predicted by Park, Choe and Veitch's map
+  (CLAIM-tmpqy8mq). No relation written.
+- **Song, Ahn & Yun** (THEORY-tmpthmd7, NOTE-tmpw0eql): weak support,
+  within one metric rather than across two. Large curvature with little
+  part in descent is a disagreement between the Hessian's ranking and the
+  ranking by contribution to progress, but a dynamical one: the stiff
+  directions have reached their valley floor. Momentum and Adam raising
+  the effective step along the bulk (Table 1) are a change of the metric
+  of descent, which is THEORY-082's point that steepest descent is defined
+  only relative to a metric. Written as `corroborates`, weak.
+
