@@ -35,7 +35,7 @@ integrates:
 - CLAIM-664
 ---
 
-<!-- inactive-ok-file: CLAIM-772 ARG-124 CLAIM-777 CLAIM-776 CLAIM-782 CLAIM-773 CLAIM-779 CLAIM-768 — Proposed or Open; filed on 2026-11-21 and cited in this note -->
+<!-- inactive-ok-file: CLAIM-772 ARG-124 CLAIM-777 CLAIM-776 CLAIM-782 CLAIM-773 CLAIM-779 CLAIM-768 CLAIM-tmp1xigl CLAIM-tmppkqzl CLAIM-tmp0kqq4 CLAIM-315 — Proposed or Open; filed on 2026-11-21 and cited in these notes -->
 
 <!-- inactive-ok-file: CLAIM-090 ARG-035 CLAIM-191 CLAIM-182 CLAIM-189 SYNTHESIS-066 — Proposed or Open; components of this account, cited with their standing -->
 # SYNTHESIS-tmprksq1: In the record, iterated transmission can forget its origin while staying far from it, serial reconstruction is filtered by the transmitters' biases with convergence to the prior proved for sampling learners, arguments restated across memoryless sessions lose identity, several mechanisms are offered as anchors, and what a record can secure is held to be traceability
@@ -82,3 +82,41 @@ So the three reasons still hold against the code alone. The narrower link, that 
 - [CLAIM-768](../claims.d/CLAIM-768.md) (settling does not show what stopped an entry).
 
 All are candidates for this account's components at its next synthesis review, which settles them; none is added here.
+
+## Note of 2026-11-21: anchoring, generalized
+
+
+Later the same day, in the owner's exchange on anchoring ("we're being
+myopic about the literal luria record rather than the broader behavior of
+anchoring during a general inquiry"), the record filed three entries
+that bear on this account's second "Not stated" item, that the four
+anchors are one mechanism. All are Proposed.
+
+- **[CLAIM-tmp1xigl](../claims.d/CLAIM-tmp1xigl.md)** (thesis, interpretive): in any inquiry,
+  anchoring is one mechanism, a reconstruction pulled toward a fixed
+  reference, and what it secures is set by what the reference is tied to.
+  Tied to the target by an independent channel, it secures content and lets
+  a discrepancy register. Tied to an earlier state of the inquiry, it
+  secures continuity, not correctness. Tied to nothing, it is bias
+  ([CLAIM-315](../claims.d/CLAIM-315.md)).
+  - It sorts this account's four mechanisms into two of those kinds rather
+    than joining them. Independent evidence ([CLAIM-342](../claims.d/CLAIM-342.md)) and anchored
+    correspondence ([CLAIM-011](../claims.d/CLAIM-011.md)) are ties to the target. Exact conservation
+    ([CLAIM-635](../claims.d/CLAIM-635.md)) and address ([CLAIM-182](../claims.d/CLAIM-182.md)) are anchors to the inquiry's
+    own earlier states.
+  - It takes up [SYNTHESIS-066](SYNTHESIS-066.md)'s refusal and leaves what counts as
+    independent as a free parameter, as that review found it.
+- **[CLAIM-tmppkqzl](../claims.d/CLAIM-tmppkqzl.md)** (counter to [CLAIM-772](../claims.d/CLAIM-772.md)): the record anchors
+  mainly by having each session read the stored entry, a star around the
+  source and not a chain. On that structure an interpretation settles on a
+  bounded offset toward the reader's prior. It does not random-walk.
+- **[CLAIM-tmp0kqq4](../claims.d/CLAIM-tmp0kqq4.md)** (counter to [CLAIM-772](../claims.d/CLAIM-772.md)): exact copying anchors a copy
+  to the version copied, so it keeps what a revision of its source removed.
+
+So this account's second "Not stated" item stands: the four mechanisms are
+not shown to be one. A sorting of them by what each ties an inquiry to is
+now a candidate claim. If [CLAIM-tmp1xigl](../claims.d/CLAIM-tmp1xigl.md) is adopted, the account's P9
+clause on anchors would read "an anchor secures what it is tied to". That
+is the form the manuscript now states. As with the note above, these are
+candidates for this account's components at its next synthesis review, and
+none is added here.
