@@ -42,13 +42,13 @@ retrospective which of the devlog's notes it must not pass over.
 
 "Separable" in the owner's request has three readings, filed as alternative
 decisions under the dialectic regime's rule for several readings: this one,
-separable from ADR-115; ADR-tmp7kh0t and ADR-tmpuu4y4, persist separable from standardize;
-and ADR-tmps83ka, the convention separable from the decision, as a procedure of its
+separable from [ADR-115](ADR-115.md); [ADR-tmp7kh0t](ADR-tmp7kh0t.md) and [ADR-tmpuu4y4](ADR-tmpuu4y4.md), persist separable from standardize;
+and [ADR-tmps83ka](ADR-tmps83ka.md), the convention separable from the decision, as a procedure of its
 own. The owner chooses; the rest go Rejected.
 
-The assistant's lean: this one or ADR-tmps83ka. Separating persist from standardize
+The assistant's lean: this one or [ADR-tmps83ka](ADR-tmps83ka.md). Separating persist from standardize
 splits what a reader needs together, the note and its answer; separating
-the convention as a procedure is the record's own pattern (ADR-068 and its
+the convention as a procedure is the record's own pattern ([ADR-068](ADR-068.md) and its
 skill), and pays off once a retrospective skill exists.
 
 ## Decision
