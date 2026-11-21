@@ -36,7 +36,7 @@ turn spent on permission rather than on the argument, and left the record a
 step behind the exchange it documents.
 
 The safeguards that made asking first prudent now exist elsewhere. Work lands
-in `staging` through pull requests, never in `main` directly (ADR-116).
+in `staging` through pull requests, never in `main` directly ([ADR-116](ADR-116.md)).
 Nothing reaches `main` until a promotion the owner or the Promote workflow
 makes. Every change is a commit, so any filing can be reverted without loss.
 The assistant's wording is already marked as its own
@@ -67,9 +67,9 @@ develops in the record's own argument:
 - dated notes on held entries;
 - Reframings sections (ADR-tmpd4rgx), and the owner's corrections, recorded
   as corrections in curation entries and history notes;
-- devlog notes for the next retrospective (ADR-115).
+- devlog notes for the next retrospective ([ADR-115](ADR-115.md)).
 
-It files them under the rules that hold anyway: ADR-068's invariants for
+It files them under the rules that hold anyway: [ADR-068](ADR-068.md)'s invariants for
 filing an exchange, Proposed status, an honest warrant, a check actually run
 for anything called demonstrated, and the assistant's wording marked as its
 own. A suggestion the owner disclaims is not filed unless the owner asks.
@@ -88,7 +88,7 @@ own. A suggestion the owner disclaims is not filed unless the owner asks.
 
 - *Where filings go.* While the regime is on, its filings go to one open
   pull request into `staging`, cut from `staging`: the filing of the
-  exchange, which ADR-068 already counts as one unit, so ADR-071 holds.
+  exchange, which [ADR-068](ADR-068.md) already counts as one unit, so [ADR-071](ADR-071.md) holds.
   When the owner merges it, the next filing opens a new one. Its entries can
   cite each other's temporary codes because they share the branch. Work the
   regime does not cover goes to its own branch as before.

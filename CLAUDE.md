@@ -92,8 +92,7 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
     luria new lit --title "..."   # or: note, theory, question, claim, case,
                                   # term, arg, adr, dp, changelog, curation, workbench
 
-<!-- inactive-ok: ADR-068 — Proposed until the owner adopts it -->
-**The dialectic regime** (ADR-tmpzgon7). The owner switches it on and off
+**The dialectic regime** ([ADR-tmpzgon7](record/decisions.d/ADR-tmpzgon7.md)). The owner switches it on and off
 ("dialectic on", "dialectic off"); it is on until switched off, and a new
 session starts off. While it is on, file the argument the exchange develops
 as you go, without offering first: new entries in the argument schemes
