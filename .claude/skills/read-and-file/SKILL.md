@@ -294,7 +294,7 @@ synthesis as well.
   - **standing**: Proposed or unverified components told as established;
   - **integration**: what it claims beyond its components. If that is
     only labels, it is a recap; say so.
-- **File what it adds as a claim, and its map as an account** (ADR-084, ADR-tmpi2grj). A synthesis
+- **File what it adds as a claim, and its map as an account** (ADR-084, ADR-131). A synthesis
   is two things: a map of its components, and whatever it adds to them.
   What it adds is filed as a CLAIM only if it passes one of three routes
   (ADR-075, step 5), and the claim's body says which, under "Admission":

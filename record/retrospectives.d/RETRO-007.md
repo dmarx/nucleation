@@ -1,5 +1,8 @@
 ---
+number: 7
 status: Draft
+formerly:
+- RETRO-tmp2wda2
 title: 'The owner''s rulings on the promotion pull request of 2026-11-21 and the hour after: one list of rulings became twelve pull requests, a promotion and a back-merge; what went right was ruling inline and choosing among filed alternatives, and what went wrong was the assistant reaching for a script or a memory where the tool already held the rule'
 version: 2
 history:
@@ -21,8 +24,8 @@ reviews:
 - ADR-121
 - ADR-125
 - ADR-127
-- ADR-tmpg1n72
-- ADR-tmpwgvwk
+- ADR-129
+- ADR-135
 pull_requests:
 - https://github.com/dmarx/nucleation/pull/582
 - https://github.com/dmarx/nucleation/pull/587
@@ -58,7 +61,7 @@ summary: >-
   recommendations, none yet a decision.
 ---
 
-# RETRO-tmp2wda2: The owner's rulings on the promotion pull request of 2026-11-21 and the hour after: one list of rulings became twelve pull requests, a promotion and a back-merge; what went right was ruling inline and choosing among filed alternatives, and what went wrong was the assistant reaching for a script or a memory where the tool already held the rule
+# RETRO-007: The owner's rulings on the promotion pull request of 2026-11-21 and the hour after: one list of rulings became twelve pull requests, a promotion and a back-merge; what went right was ruling inline and choosing among filed alternatives, and what went wrong was the assistant reaching for a script or a memory where the tool already held the rule
 
 ## What it covers
 
@@ -69,7 +72,7 @@ From the owner's rulings on pull request 582 (about 08:45 UTC, 2026-11-21) to th
   - corrections: the `anthology-candidate` finding (587) and [RETRO-004](RETRO-004.md)'s summary (588);
   - a lead for a human coder (591);
   - anchoring restated in general terms and taken into the P9 account (592);
-  - decisions: the work renamed (589, [ADR-tmpwgvwk](../decisions.d/ADR-tmpwgvwk.md)), cross-line accounts with an audit for missing lines (593, [ADR-tmpg1n72](../decisions.d/ADR-tmpg1n72.md)), three alternatives on [ADR-075](../decisions.d/ADR-075.md)'s language (594), and a restart that keeps the dialectic's state (595, [ADR-127](../decisions.d/ADR-127.md) version 3);
+  - decisions: the work renamed (589, [ADR-135](../decisions.d/ADR-135.md)), cross-line accounts with an audit for missing lines (593, [ADR-129](../decisions.d/ADR-129.md)), three alternatives on [ADR-075](../decisions.d/ADR-075.md)'s language (594), and a restart that keeps the dialectic's state (595, [ADR-127](../decisions.d/ADR-127.md) version 3);
   - the previous retrospective's responses (596);
   - the manuscript (597);
   - an analytics pipeline in Apache Hamilton (598).

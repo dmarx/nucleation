@@ -74,7 +74,7 @@ A relation is an assertion that the documents it joins have something in common.
 | argument | `line` | [CLAIM-349](../../record/claims.d/CLAIM-349.md) ↔ [CLAIM-715](../../record/claims.d/CLAIM-715.md) | will-organization / dependence-and-domination, distributed-agency |
 | argument | `line` | [CLAIM-350](../../record/claims.d/CLAIM-350.md) ↔ [CLAIM-518](../../record/claims.d/CLAIM-518.md) | formal-apparatus, pragmatic-transport / organizational-normativity |
 | argument | `line` | [CLAIM-363](../../record/claims.d/CLAIM-363.md) ↔ [CLAIM-472](../../record/claims.d/CLAIM-472.md) | organizational-normativity / record-as-apparatus |
-| argument | `line` | [CLAIM-402](../../record/claims.d/CLAIM-402.md) ↔ [CLAIM-619](../../record/claims.d/CLAIM-619.md) | pragmatic-transport / distributed-agency, organizational-normativity |
+| argument | `line` | [CLAIM-402](../../record/claims.d/CLAIM-402.md) ↔ [CLAIM-619](../../record/claims.d/CLAIM-619.md) | learning-and-inquiry, pragmatic-transport / distributed-agency, organizational-normativity |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-417](../../record/claims.d/CLAIM-417.md) | evidence-for-experience, formal-apparatus / distributed-agency |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-427](../../record/claims.d/CLAIM-427.md) | evidence-for-experience, formal-apparatus / distributed-agency |
 | argument | `line` | [CLAIM-414](../../record/claims.d/CLAIM-414.md) ↔ [CLAIM-454](../../record/claims.d/CLAIM-454.md) | evidence-for-experience, formal-apparatus / distributed-agency |

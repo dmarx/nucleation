@@ -6,6 +6,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## Currently — [November 2026](2026-11.md)
 
+- [21 Nov 09:37 — Going wrong, caught before merge: a hand-rolled script to rewrite temporary codes after the promotion also rewrote the formerly: fields, and was not needed, since luria repair already makes that rewrite](2026-11.md#going-wrong-caught-before-merge-a-hand-rolled-script-to-rewrite-temporary-codes-after-the-promotion-also-rewrote-the-formerly-fields-and-was-not-needed-since-luria-repair-already-makes-that-rewrite)
+- [21 Nov 09:05 — Going wrong, a fourth time: a code in a title failed docs-check, after a retrospective written the same hour named the hazard](2026-11.md#going-wrong-a-fourth-time-a-code-in-a-title-failed-docs-check-after-a-retrospective-written-the-same-hour-named-the-hazard)
 - [21 Nov 07:01 — Going wrong, caught: resolving a merge conflict with --ours reverted three of the owner's rulings](2026-11.md#going-wrong-caught-resolving-a-merge-conflict-with---ours-reverted-three-of-the-owners-rulings)
 - [21 Nov 06:53 — Going wrong: the owner ruled by ticking a checklist, and the assistant read only the comment](2026-11.md#going-wrong-the-owner-ruled-by-ticking-a-checklist-and-the-assistant-read-only-the-comment)
 - [21 Nov 04:22 — Going wrong, twice: a code in a title fails docs-check, because repair links the code in the heading and not in the title](2026-11.md#going-wrong-twice-a-code-in-a-title-fails-docs-check-because-repair-links-the-code-in-the-heading-and-not-in-the-title)
@@ -16,8 +18,8 @@ Notes taken during the work, to revisit at the next retrospective (RETRO) - what
 
 ## All books
 
-7 entries across 1 book, newest first.
+9 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 7 | 2026-11-21 | 2026-11-21 |
+| [2026-11](2026-11.md) | 9 | 2026-11-21 | 2026-11-21 |

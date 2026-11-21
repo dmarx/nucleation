@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**1060 documents cited without acknowledgement.** Not listed: 35623 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**1068 documents cited without acknowledgement.** Not listed: 35626 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1570,7 +1570,7 @@ Beyond what it does operationally, luria is an apparatus in Barad's constitutive
 - [`record/claims.d/CLAIM-479.md:107`](../../record/claims.d/CLAIM-479.md)
 - [`record/decisions.d/ADR-082.md:90`](../../record/decisions.d/ADR-082.md)
 - [`record/decisions.d/ADR-082.md:119`](../../record/decisions.d/ADR-082.md)
-- [`record/decisions.d/ADR-083.md:80`](../../record/decisions.d/ADR-083.md)
+- [`record/decisions.d/ADR-083.md:87`](../../record/decisions.d/ADR-083.md)
 - [`record/literature.d/LIT-1636.md:58`](../../record/literature.d/LIT-1636.md)
 - [`record/literature.d/LIT-1650.md:60`](../../record/literature.d/LIT-1650.md)
 - [`record/literature.d/LIT-1653.md:71`](../../record/literature.d/LIT-1653.md)
@@ -3447,7 +3447,7 @@ The nucleation threshold of an argument is whatever makes a structure persist: a
 - [`docs/syntheses/admission/unadmitted.md:14`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:24`](../syntheses/role/thesis.md)
 - [`docs/syntheses/warrant/interpretive.md:23`](../syntheses/warrant/interpretive.md)
-- [`record/decisions.d/ADR-083.md:79`](../../record/decisions.d/ADR-083.md)
+- [`record/decisions.d/ADR-083.md:86`](../../record/decisions.d/ADR-083.md)
 - [`record/literature.d/LIT-1926.md:43`](../../record/literature.d/LIT-1926.md)
 - [`record/notes.d/NOTE-1483.md:198`](../../record/notes.d/NOTE-1483.md)
 - [`record/notes.d/NOTE-1484.md:350`](../../record/notes.d/NOTE-1484.md)
@@ -6596,10 +6596,10 @@ Work merges into a staging branch through pull requests, and a Promote workflow 
 
 4 citations in 3 files await a look; 13 other citations of it are acknowledged.
 
-- [`CLAUDE.md:143`](../../CLAUDE.md)
-- [`CLAUDE.md:150`](../../CLAUDE.md)
+- [`CLAUDE.md:146`](../../CLAUDE.md)
+- [`CLAUDE.md:154`](../../CLAUDE.md)
 - [`record/cases.d/CASE-300.md:186`](../../record/cases.d/CASE-300.md)
-- [`record/decisions.d/ADR-127.md:54`](../../record/decisions.d/ADR-127.md)
+- [`record/decisions.d/ADR-127.md:74`](../../record/decisions.d/ADR-127.md)
 
 ### [ARG-022](../../record/arguments.d/ARG-022.md) — Rejected
 
@@ -6775,7 +6775,7 @@ What a developing argument should preserve through legitimate revision is its ac
 - [`docs/syntheses/admission/unadmitted.md:17`](../syntheses/admission/unadmitted.md)
 - [`docs/syntheses/role/thesis.md:28`](../syntheses/role/thesis.md)
 - [`docs/syntheses/warrant/interpretive.md:26`](../syntheses/warrant/interpretive.md)
-- [`record/decisions.d/ADR-083.md:79`](../../record/decisions.d/ADR-083.md)
+- [`record/decisions.d/ADR-083.md:86`](../../record/decisions.d/ADR-083.md)
 
 ### [CLAIM-255](../../record/claims.d/CLAIM-255.md) — Proposed
 
@@ -6930,6 +6930,17 @@ An acquisition can be worth making for what it does to the cost of other acquisi
 - [`record/leads.d/LEAD-002.md:56`](../../record/leads.d/LEAD-002.md)
 - [`record/notes.d/NOTE-2155.md:52`](../../record/notes.d/NOTE-2155.md)
 - [`record/postmortems.d/POSTMORTEM-003.md:64`](../../record/postmortems.d/POSTMORTEM-003.md)
+
+### [CLAIM-794](../../record/claims.d/CLAIM-794.md) — Proposed
+
+In a record of inquiry that amends its grammar when a move fits nothing, refining a category makes misfits in the refined region more noticeable rather than fewer: a move the coarse category would have absorbed without residue now visibly fits none of the finer ones, so a refinement exposes misfits as well as absorbing them
+
+4 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/decisions.d/ADR-130.md:29`](../../record/decisions.d/ADR-130.md)
+- [`record/decisions.d/ADR-130.md:46`](../../record/decisions.d/ADR-130.md)
+- [`record/decisions.d/ADR-131.md:60`](../../record/decisions.d/ADR-131.md)
+- [`record/decisions.d/ADR-133.md:48`](../../record/decisions.d/ADR-133.md)
 
 ### [LEAD-009](../../record/leads.d/LEAD-009.md) — Done
 
@@ -8128,6 +8139,16 @@ In any inquiry, anchoring is one mechanism, a fixed reference that each reconstr
 - [`record/claims.d/CLAIM-793.md:14`](../../record/claims.d/CLAIM-793.md)
 - [`record/claims.d/CLAIM-793.md:165`](../../record/claims.d/CLAIM-793.md)
 
+### [CLAIM-791](../../record/claims.d/CLAIM-791.md) — Proposed
+
+In this record a change to a vocabulary term was always announced by a decision, and was carried through the entries using the term whenever entries had to move, by removal or split; the audit found no term whose meaning changed in place, so it does not test whether entries follow a change of meaning alone
+
+3 citations in 3 files await a look.
+
+- [`record/cases.d/CASE-300.md:196`](../../record/cases.d/CASE-300.md)
+- [`record/retrospectives.d/RETRO-007.md:94`](../../record/retrospectives.d/RETRO-007.md)
+- [`record/syntheses.d/SYNTHESIS-115.md:21`](../../record/syntheses.d/SYNTHESIS-115.md)
+
 ### [LIT-079](../../record/literature.d/LIT-079.md) — Proposed
 
 Causal Claims in Economics
@@ -8468,6 +8489,16 @@ On the orbits of a function-preserving symmetry that acts on the parameters as a
 - [`record/questions.d/QUESTION-127.md:35`](../../record/questions.d/QUESTION-127.md)
 - [`record/questions.d/QUESTION-127.md:147`](../../record/questions.d/QUESTION-127.md)
 
+### [RETRO-004](../../record/retrospectives.d/RETRO-004.md) — Draft
+
+The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme
+
+3 citations in 2 files await a look; 10 other citations of it are acknowledged.
+
+- [`record/retrospectives.d/RETRO-006.md:150`](../../record/retrospectives.d/RETRO-006.md)
+- [`record/retrospectives.d/RETRO-006.md:193`](../../record/retrospectives.d/RETRO-006.md)
+- [`record/retrospectives.d/RETRO-007.md:72`](../../record/retrospectives.d/RETRO-007.md)
+
 ### [SYNTHESIS-012](../../record/syntheses.d/SYNTHESIS-012.md) — Proposed
 
 The record's grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record's objects is Proposed; and its revision is the record's own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds
@@ -8535,8 +8566,8 @@ Dennett's real-pattern criterion, compressibility against the bit map, admits al
 3 citations in 1 file await a look; 44 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-402.md:25`](../../record/claims.d/CLAIM-402.md)
-- [`record/claims.d/CLAIM-402.md:163`](../../record/claims.d/CLAIM-402.md)
-- [`record/claims.d/CLAIM-402.md:190`](../../record/claims.d/CLAIM-402.md)
+- [`record/claims.d/CLAIM-402.md:164`](../../record/claims.d/CLAIM-402.md)
+- [`record/claims.d/CLAIM-402.md:191`](../../record/claims.d/CLAIM-402.md)
 
 ### [THEORY-069](../../record/theory.d/THEORY-069.md) — Proposed
 
@@ -8925,7 +8956,7 @@ A claim that calls something organized, a perspective, an agent, effective, exha
 2 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-120.md:44`](../../record/decisions.d/ADR-120.md)
-- [`record/decisions.d/ADR-127.md:101`](../../record/decisions.d/ADR-127.md)
+- [`record/decisions.d/ADR-127.md:125`](../../record/decisions.d/ADR-127.md)
 
 ### [ADR-110](../../record/decisions.d/ADR-110.md) — Proposed
 
@@ -9268,15 +9299,6 @@ Where a slowly revised governing level (a statute, an objective, a classificatio
 
 - [`record/claims.d/CLAIM-736.md:189`](../../record/claims.d/CLAIM-736.md)
 - [`record/terms.d/TERM-124.md:150`](../../record/terms.d/TERM-124.md)
-
-### [CLAIM-791](../../record/claims.d/CLAIM-791.md) — Proposed
-
-In this record a change to a vocabulary term was always announced by a decision, and was carried through the entries using the term whenever entries had to move, by removal or split; the audit found no term whose meaning changed in place, so it does not test whether entries follow a change of meaning alone
-
-2 citations in 2 files await a look.
-
-- [`record/cases.d/CASE-300.md:196`](../../record/cases.d/CASE-300.md)
-- [`record/syntheses.d/SYNTHESIS-115.md:21`](../../record/syntheses.d/SYNTHESIS-115.md)
 
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
@@ -9979,15 +10001,6 @@ Does acting as one require that an agent's interests synchronize?
 
 - [`record/claims.d/CLAIM-261.md:25`](../../record/claims.d/CLAIM-261.md)
 - [`record/questions.d/QUESTION-078.md:13`](../../record/questions.d/QUESTION-078.md)
-
-### [RETRO-004](../../record/retrospectives.d/RETRO-004.md) — Draft
-
-The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme
-
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
-
-- [`record/retrospectives.d/RETRO-006.md:150`](../../record/retrospectives.d/RETRO-006.md)
-- [`record/retrospectives.d/RETRO-006.md:193`](../../record/retrospectives.d/RETRO-006.md)
 
 ### [SYNTHESIS-021](../../record/syntheses.d/SYNTHESIS-021.md) — Proposed
 
@@ -10736,14 +10749,6 @@ In a multi-agent system run against a world utility, a private utility is factor
 - [`record/claims.d/CLAIM-444.md:151`](../../record/claims.d/CLAIM-444.md)
 - [`record/questions.d/QUESTION-271.md:102`](../../record/questions.d/QUESTION-271.md)
 
-### [ADR-127](../../record/decisions.d/ADR-127.md) — Proposed
-
-A dialectic regime, switched on and off by the owner and on until switched off: while it is on, the assistant files the argument of the exchange as it goes, reports each filing as it lands, and reverts a filing when the owner interjects, rather than offering to file and waiting to be told; status changes, decisions, configuration, CI, delegated readings, outside services and merges still wait for the owner
-
-1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
-
-- [`CLAUDE.md:98`](../../CLAUDE.md)
-
 ### [ARG-004](../../record/arguments.d/ARG-004.md) — Rejected
 
 Relativistic frames vary descriptions systematically under constrained transformations with invariants, so variations in translation are transformations between pragmatic frames preserving selected invariants
@@ -11302,7 +11307,7 @@ In this record the noticing of grammar misfits moved from incidental to procedur
 
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
-- [`record/claims.d/CLAIM-794.md:83`](../../record/claims.d/CLAIM-794.md)
+- [`record/claims.d/CLAIM-794.md:84`](../../record/claims.d/CLAIM-794.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -12327,6 +12332,70 @@ Whether local descriptions make one global one is settled only once the failure 
 1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-1060.md:20`](../../record/theory.d/THEORY-1060.md)
+
+### [SYNTHESIS-109](../../record/syntheses.d/SYNTHESIS-109.md) — Proposed
+
+Growth in observing resource splits what can be told apart, growth in acting resource merges what can be turned into one another, and optimal categories at a larger budget can re-carve rather than refine: what the record holds on how categories change as resources grow
+
+1 citation in 1 file awaits a look.
+
+- [`record/decisions.d/ADR-130.md:45`](../../record/decisions.d/ADR-130.md)
+
+### [SYNTHESIS-110](../../record/syntheses.d/SYNTHESIS-110.md) — Proposed
+
+Whether a distinction must be drawn and whether it earns a name are settled in the record by different entries, the first by what acceptable actions require and the second by evidence against Occam cost and by retrieval under a deadline, which pull in opposite directions with copy count
+
+1 citation in 1 file awaits a look.
+
+- [`record/decisions.d/ADR-130.md:45`](../../record/decisions.d/ADR-130.md)
+
+### [SYNTHESIS-111](../../record/syntheses.d/SYNTHESIS-111.md) — Proposed
+
+In the record a collective's correction runs through separable achievements, from admission to recognition, credibility, uptake and a part in revising standards, any of which can fail while the others hold; selection and self-scoring need different remedies; and effective action, governance and correctability by others are maintained separately
+
+1 citation in 1 file awaits a look.
+
+- [`record/decisions.d/ADR-130.md:45`](../../record/decisions.d/ADR-130.md)
+
+### [SYNTHESIS-112](../../record/syntheses.d/SYNTHESIS-112.md) — Proposed
+
+Forming, keeping and moving into a capacity are separate resource requirements in the record, reaching a configuration can cost more than holding either end, feasible, reachable and reliably reached come apart, and a budget pegged to last period's peak loses transitions that need slack
+
+1 citation in 1 file awaits a look.
+
+- [`record/decisions.d/ADR-130.md:45`](../../record/decisions.d/ADR-130.md)
+
+### [SYNTHESIS-113](../../record/syntheses.d/SYNTHESIS-113.md) — Proposed
+
+A capacity kept for rare use decays with disuse and is shown only by a retention test or the contingency it serves, a correction recorded is not a capacity maintained, support that does work a capacity is learned from can erode it, and where a capacity's maintenance comes from is shown only by intervention on its production
+
+1 citation in 1 file awaits a look.
+
+- [`record/decisions.d/ADR-130.md:45`](../../record/decisions.d/ADR-130.md)
+
+### [SYNTHESIS-114](../../record/syntheses.d/SYNTHESIS-114.md) — Proposed
+
+Inquiry in the record is a form of specification that can revise what an answer could be, reflexive when its language, answer space, interventions, observations, criteria or resources become its object; specifying is resource-bounded and stored specification cheapens some questions and hardens others; and what makes reconfiguration self-governed is an open question
+
+1 citation in 1 file awaits a look.
+
+- [`record/decisions.d/ADR-130.md:45`](../../record/decisions.d/ADR-130.md)
+
+### [SYNTHESIS-115](../../record/syntheses.d/SYNTHESIS-115.md) — Proposed
+
+In the record, iterated transmission can forget its origin while staying far from it, serial reconstruction is filtered by the transmitters' biases with convergence to the prior proved for sampling learners, arguments restated across memoryless sessions lose identity, an anchor is held to secure what its reference is tied to, re-reading a kept source to settle interpretation on an offset rather than a drift, and exact copies of a revised source to go stale, and what a record can secure is held to be traceability
+
+1 citation in 1 file awaits a look.
+
+- [`record/decisions.d/ADR-130.md:45`](../../record/decisions.d/ADR-130.md)
+
+### [SYNTHESIS-116](../../record/syntheses.d/SYNTHESIS-116.md) — Proposed
+
+An unresolved discrepancy, read as frustration among maintained demands, is an occasion and a sufficient condition for self-formation, a maintained new distinction or channel that outlasts it and transfers, and not a guarantee of it; the record defines learning more broadly and does not identify the two
+
+1 citation in 1 file awaits a look.
+
+- [`record/decisions.d/ADR-130.md:45`](../../record/decisions.d/ADR-130.md)
 
 ### [TERM-002](../../record/terms.d/TERM-002.md) — Superseded
 

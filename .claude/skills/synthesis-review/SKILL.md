@@ -7,7 +7,7 @@ description: A periodic review of the record's accounts - that each line, or par
 # Synthesis review
 
 A SYNTHESIS is an account of a scope of the record's argument: a line, a
-part of one, or a theme that crosses lines (ADR-tmpg1n72). It names every component, attributes each link to the entry
+part of one, or a theme that crosses lines (ADR-129). It names every component, attributes each link to the entry
 that states it, and adds nothing. Whatever adds to its components is a CLAIM
 (ADR-084). A synthesis review looks across the record and asks three
 questions:
@@ -141,7 +141,7 @@ out, and it does not ask for strictness or leniency. Then:
 File the ARGs that step 10 of `read-and-file` requires: support that is
 load-bearing or contested.
 
-## 4b. Audit cross-line accounts (ADR-tmpg1n72)
+## 4b. Audit cross-line accounts (ADR-129)
 
 An account's scope may be a theme that crosses lines. Its preface says so
 and names the lines its components come from. After stage 4, take every

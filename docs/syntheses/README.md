@@ -32,8 +32,11 @@
 **[What a record of inquiry keeps](line/records-of-inquiry.md)** (2) — what a record of a developing argument or inquiry can secure through revision — traceable change, accountability structure, decision sufficiency — and what keeping it buys beyond current conclusions; split from nucleating-argument (ADR-082):
 [017](../../record/syntheses.d/SYNTHESIS-017.md) · [115](../../record/syntheses.d/SYNTHESIS-115.md)
 
-**[The record as its own apparatus](line/record-as-apparatus.md)** (3) — what an apparatus of record-keeping makes determinate, how its grammar is fixed and revised through use, and inquiry as specification — the record itself as the case; split from nucleating-argument (ADR-082):
+**[The record as its own apparatus](line/record-as-apparatus.md)** (3) — what an apparatus of record-keeping makes determinate and how its grammar is fixed and revised through use — the record itself as the case; inquiry as specification in general is learning-and-inquiry's; split from nucleating-argument (ADR-082):
 [012](../../record/syntheses.d/SYNTHESIS-012.md) · [090](../../record/syntheses.d/SYNTHESIS-090.md) · [114](../../record/syntheses.d/SYNTHESIS-114.md)
+
+**[Learning and inquiry](line/learning-and-inquiry.md)** (8) — how a system that draws distinctions comes to learn and to inquire — distinctions relative to a target and a budget, learning as the formation of a maintained capacity, distinction or channel, occasioned and not guaranteed by a discrepancy it cannot resolve, and inquiry as specification that can revise its own language, answers and criteria; kept apart from what a record of inquiry secures (records-of-inquiry) and from the record as its own apparatus (record-as-apparatus):
+[109](../../record/syntheses.d/SYNTHESIS-109.md) · [110](../../record/syntheses.d/SYNTHESIS-110.md) · [111](../../record/syntheses.d/SYNTHESIS-111.md) · [112](../../record/syntheses.d/SYNTHESIS-112.md) · [113](../../record/syntheses.d/SYNTHESIS-113.md) · [114](../../record/syntheses.d/SYNTHESIS-114.md) · [115](../../record/syntheses.d/SYNTHESIS-115.md) · [116](../../record/syntheses.d/SYNTHESIS-116.md)
 
 **[Evidence for experience](line/evidence-for-experience.md)** (1) — what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish:
 [019](../../record/syntheses.d/SYNTHESIS-019.md)

@@ -34,6 +34,7 @@ serve none.
 | Nucleating an argument | 17 |
 | What a record of inquiry keeps | 13 |
 | The record as its own apparatus | 12 |
+| Learning and inquiry | 0 |
 | Evidence for experience | 11 |
 | How training finds structure | 109 |
 | Formal apparatus | 106 |

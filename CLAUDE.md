@@ -118,7 +118,7 @@ undo, a wide blast radius, something the owner may have missed), stop on
 that item and raise it plainly, CRM style: what, the concern, your
 recommendation, and that you are waiting. When a hold the owner set lifts,
 say so, name the step it was holding, and take it in the same turn, unless
-that step waits on the owner anyway ([ADR-tmpjsh6p](record/decisions.d/ADR-tmpjsh6p.md)). Suggest switching off when going on would
+that step waits on the owner anyway ([ADR-132](record/decisions.d/ADR-132.md)). Suggest switching off when going on would
 be awkward.
 
 [ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an
@@ -148,7 +148,7 @@ main. Whenever staging differs from main, a pull request from staging into main 
 open for the owner's review; the Promotion PR workflow opens it on a push to
 staging ([ADR-125](record/decisions.d/ADR-125.md)). When you merge into staging, add the choices waiting
 on the owner to its description, in its marked sections, reading it just
-before you write ([ADR-tmpdywz3](record/decisions.d/ADR-tmpdywz3.md)).
+before you write ([ADR-128](record/decisions.d/ADR-128.md)).
 
 **Each logical unit of work gets its own branch, cut from `staging`, and its
 own pull request** ([ADR-071](record/decisions.d/ADR-071.md), as changed by [ADR-116](record/decisions.d/ADR-116.md)): the filing of one source,
