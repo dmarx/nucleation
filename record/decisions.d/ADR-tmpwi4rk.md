@@ -51,7 +51,7 @@ The owner reviews and merges it as in
 [ADR-tmp6xm7w](ADR-tmp6xm7w.md).
 
 The job uses the REST API, and runs only on pushes to staging and by hand.
-The back-merge from main into staging (ADR-116, version 2) pushes with the
+The back-merge from main into staging ([ADR-116](ADR-116.md), version 2) pushes with the
 workflow token and starts no run, which is right: after a promotion the two
 agree. A pull request the job opens with that token starts no docs-check of
 its own; each pull request into staging was checked, and Promote lints the

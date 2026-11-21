@@ -139,7 +139,7 @@ concretizes the batch's codes, regenerates the views, and merges main back
 into staging ([ADR-116](record/decisions.d/ADR-116.md)). Only that workflow, or the owner, merges into
 main. Whenever staging differs from main, a pull request from staging into main is
 open for the owner's review; the Promotion PR workflow opens it on a push to
-staging (ADR-tmpwi4rk). When you merge into staging, add the choices waiting
+staging ([ADR-tmpwi4rk](record/decisions.d/ADR-tmpwi4rk.md)). When you merge into staging, add the choices waiting
 on the owner to its description.
 
 **Each logical unit of work gets its own branch, cut from `staging`, and its
