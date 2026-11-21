@@ -32,8 +32,8 @@ summary: >-
   - the share decoder fixed (pull request 608);
   - the exchange filed, with its gaps, its first eight readings and a
     refresh of the manuscript and its neighbourhood (pull request 609);
-  - two decisions on how the record files, gap filling (ADR-tmpcb96w,
-    Proposed) and argument titles (ADR-tmp44npm, Active), with a sweep of
+  - two decisions on how the record files, gap filling ([ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md),
+    Proposed) and argument titles ([ADR-tmp44npm](../decisions.d/ADR-tmp44npm.md), Active), with a sweep of
     the record's Rejected arguments (pull requests 611 and 612).
   Going well: separate readers checked the drafters' work, and caught
   what the drafters' own reports could not (voice drift, missing
@@ -60,9 +60,9 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
 | Pull request | What it did |
 |---|---|
 | 608 | The share decoder kept all the assistant's content, after the owner asked why 96 assistant turns became 43 |
-| 609 | The exchange: 51 works, 92 entries, two part accounts; ADR-tmpcb96w; terms for "sloppy" and "separation"; eight readings with three supplements; the manuscript and its neighbourhood, fact-checked |
-| 610 | The promotion pull request, kept in marked sections (ADR-128) |
-| 611 | ADR-tmp44npm (Active) and ADR-tmpcjfyy (Rejected); the five arguments of the day retitled; CLAIM-tmp7ijze, CLAIM-tmpewm5i |
+| 609 | The exchange: 51 works, 92 entries, two part accounts; [ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md); terms for "sloppy" and "separation"; eight readings with three supplements; the manuscript and its neighbourhood, fact-checked |
+| 610 | The promotion pull request, kept in marked sections ([ADR-128](../decisions.d/ADR-128.md)) |
+| 611 | [ADR-tmp44npm](../decisions.d/ADR-tmp44npm.md) (Active) and [ADR-tmpcjfyy](../decisions.d/ADR-tmpcjfyy.md) (Rejected); the five arguments of the day retitled; [CLAIM-tmp7ijze](../claims.d/CLAIM-tmp7ijze.md), [CLAIM-tmpewm5i](../claims.d/CLAIM-tmpewm5i.md) |
 | 612 | The sweep of 35 older Rejected arguments; two questions and a case for conclusions with no entry; one question from a review of all 37 |
 
 ## What went well, and why
@@ -73,11 +73,11 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
   - the other assistant's closing syntheses telling the owner's ideas as its own.
 
   None of this was in the drafters' reports, because a drafter reports what it filed, not what it framed wrongly. This is read-and-file step 10's rule ("Agents' reports say what they filed, not what they were never asked to file") working as intended. The manuscript refresh got the same treatment: a fact-checker found seven errors and reproduced every figure.
-- **Readers of the cited works corrected the record's own entries.** The readings found an inverted formula in CLAIM-tmpcg4uu (widths go as √λ, not 1/√λ) and a wrong inverse temperature. They found that BBP covers only complex Gaussian data, so the spectral entries rested on three other papers. And they found that a capacity bound needs fewer conditions than the record had said. Each became an argument for a work that carried less than it was cited for.
+- **Readers of the cited works corrected the record's own entries.** The readings found an inverted formula in [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md) (widths go as √λ, not 1/√λ) and a wrong inverse temperature. They found that BBP covers only complex Gaussian data, so the spectral entries rested on three other papers. And they found that a capacity bound needs fewer conditions than the record had said. Each became an argument for a work that carried less than it was cited for.
 - **Checking the numbers caught the other assistant's errors.** Every drafter computed what it filed, with `python3 -I`. That caught eight errors in the other assistant's turns: wrong chart values, a wrong delay formula, a misattributed author, a table that says "three" and lists four. Without the checks they would have entered the record as the source's word.
 - **Each of the owner's corrections became a rule the same evening.**
-  - "Attempting to fill in gaps" became ADR-tmpcb96w, with the skill's step 9a.
-  - The objection to an argument titled with its conclusion became ADR-tmp44npm, filed with an alternative, adopted at "go with your lean" and swept through the 35 older arguments.
+  - "Attempting to fill in gaps" became [ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md), with the skill's step 9a.
+  - The objection to an argument titled with its conclusion became [ADR-tmp44npm](../decisions.d/ADR-tmp44npm.md), filed with an alternative, adopted at "go with your lean" and swept through the 35 older arguments.
 - **A question review that found almost nothing, usefully.** A review of all 37 Rejected arguments found one undocumented question. The rest are held as open hypotheses by Proposed claims. That is evidence the record keeps its open questions in claims more than in QUESTION entries, which the owner may want to know when looking for what is open.
 
 ## What did not go well
@@ -103,7 +103,7 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
 3. **Sequence writers after the work they describe, or schedule a code pass.** A writer whose material is still being filed should either wait, or be followed by a pass that replaces "being read" with codes. That pass should not be left to the fact-check to find.
 4. **Gate every commit on the edit before it.** Use one script that edits and checks, then commit only if it succeeded (`set -e`, or `&&` across the whole chain).
 
-ADR-tmpcb96w (gap filling) waits on the owner's adoption and is not reviewed here beyond its first application, which went well. The four corrections in "What did not go well" each came from the owner; the separate readers caught everything else.
+[ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md) (gap filling) waits on the owner's adoption and is not reviewed here beyond its first application, which went well. The four corrections in "What did not go well" each came from the owner; the separate readers caught everything else.
 
 ## What it does not say
 
