@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Rejected
 title: 'An earmarked devlog note has a standard form: tagged retro and earmarked, quoting the earmark and where it was made, and saying what was earmarked, why it may matter and what is missing, in the assistant''s words marked as its own'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's ruling of 2026-11-21, choosing among the alternative
+    readings filed for one request: "571-A" chose ADR-tmpyzxw8. This reading
+    is kept as one not taken, not as a mistake.
 tags:
 - record
 - process

@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Rejected
 title: 'An owner''s earmark for the retrospective is persisted: kept as a devlog note, and open until a retrospective answers it, saying what came of it; how the note is written is a separate decision'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's ruling of 2026-11-21, choosing among the alternative
+    readings filed for one request: "571-A" chose ADR-tmpyzxw8. This reading
+    is kept as one not taken, not as a mistake.
 tags:
 - record
 - process
