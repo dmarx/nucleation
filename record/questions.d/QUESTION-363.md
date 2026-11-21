@@ -25,6 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-209 — Open or Proposed; the question this refines and Kunin's sampler reading, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpp83vc CLAIM-tmpl9zw4 CLAIM-tmpcg4uu — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
 
 # QUESTION-363: When does the order in which stochastic gradient descent comes to occupy a network's organizations over training time follow the order in which they come to dominate the Bayesian posterior as the sample grows, and what fixes the correspondence where it holds: an effective temperature set by learning rate and batch size, the accessibility of regions and the barriers between them, or the time allowed to equilibrate?
 
@@ -120,3 +121,29 @@ sample sizes, as Fig. 2 did for 5 → 6; and SGD at n = 1,000 and on both sides 
 learning rates, batch sizes and initialisations, showing whether the 6-gon is reached. What would
 refute the reading's order: a chain whose antecedents' critical sizes fall as training proceeds,
 once λ uncertainty is propagated.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
+
+A37 §5 of that exchange keeps this question's two orders apart and adds a
+third: "A **Bayesian phase transition** occurs when the dominant posterior
+region changes. A **dynamical transition** occurs when an optimizer's
+trajectory reorganizes, perhaps after a plateau. A **semantic
+transition** occurs when a new task-relevant distinction becomes stable
+and decodable. These may be related, but they're not equivalent." The
+question so far compares the first two. The third is a different kind of
+event: a change in what the model can do, measured by probes or held-out
+fit, which may happen inside one posterior region and one stretch of
+trajectory. A43 §13 splits it further into "t_encoded", "t_stable" and
+"t_behavioral" ([CLAIM-tmpl9zw4](../claims.d/CLAIM-tmpl9zw4.md)). A gated feature model shows the stability
+crossing and the visible onset separated by a delay that grows with how
+long the feature sat below threshold.
+
+Two consequences for an answer here. First, a match between SGD's order
+and the posterior's order does not by itself date the semantic events. An
+answer that uses probe accuracy as its clock for training measures the
+third order, not the first. Second, where the training order is read
+from local learning-coefficient estimates, a change in the estimate can be
+a sloppy direction coming into resolution rather than a move between
+singular regions ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)). The owner's U23, that singular
+learning theory's account of transitions may serve the exchange's
+picture of staged learning, is [CLAIM-tmpp83vc](../claims.d/CLAIM-tmpp83vc.md). No status changes.

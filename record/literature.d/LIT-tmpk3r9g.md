@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A cites it at A33 for hyperbolic embeddings for backward-compatible representation updates. No reading was attempted; a lawful copy has not been sought.
+title: 'Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-21, no email address sent. Not held: no hit for the arXiv id or "Arrow of Time" as a title in record/literature.d.
+tags:
+- representation-learning
+- anthology-candidate
+date: '2026-11-21'
+published: '2025-06-06'
+arxiv: '2506.05826'
+first_author: 'Bui'
+keywords: []
+implementations: []
+summary: >-
+  Bui et al. (2025), Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning, ICML 2025 (PMLR 267); arXiv 2506.05826. Backward-compatible representation learning in hyperbolic space, where newer models' embeddings lie further out along a time-like direction and older ones stay compatible. Here as the exchange's use of hyperbolic geometry for hierarchy and refinement in representations (exchange "Rich Get Richer Power Laws", A33). Unverified until read.
+---
+
+# LIT-tmpk3r9g: Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning
+
+Bui et al. (2025). ICML 2025 (PMLR 267); arXiv 2506.05826.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A cites it at A33 for hyperbolic embeddings for backward-compatible representation updates. It bears on the exchange's use of hyperbolic geometry for hierarchy and refinement in representations. Not read.

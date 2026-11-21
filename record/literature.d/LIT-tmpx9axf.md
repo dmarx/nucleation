@@ -1,0 +1,31 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-21, not read. Registered from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21, https://chatgpt.com/share/6b01ccc9-cd24-83ea-beaf-e9908120251a), where A names it at A3 for the Kesten process, multiplicative growth with a reflecting or additive term that gives a power-law tail. No reading was attempted; a lawful copy has not been sought.
+title: 'Random difference equations and renewal theory for products of random matrices'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed, not read. Identifier checked on Crossref on 2026-11-21, no email address sent. Not held: no hit for the DOI, Kesten or the title in record/literature.d. Crossref gives only the year; the date is the first of that year.
+tags:
+- mathematics
+- probabilistic-modeling
+date: '2026-11-21'
+published: '1973-01-01'
+doi: '10.1007/BF02392040'
+first_author: 'Kesten'
+keywords: []
+implementations: []
+summary: >-
+  Kesten (1973), Random difference equations and renewal theory for products of random matrices, Acta Mathematica, DOI 10.1007/BF02392040. The stationary solution of the random recurrence X(n+1) = A(n) X(n) + B(n) has a power-law tail when the multipliers contract on average but sometimes exceed one. Here as the mechanism behind the exchange's claim that multiplicative growth with a floor yields a power law rather than a lognormal (exchange "Rich Get Richer Power Laws", A3). Unverified until read.
+---
+
+# LIT-tmpx9axf: Random difference equations and renewal theory for products of random matrices
+
+Kesten (1973). Acta Mathematica. DOI 10.1007/BF02392040.
+
+## Standing in the record
+
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws" (2026-11-20 to 21), where A names it at A3 for the Kesten process, multiplicative growth with a reflecting or additive term that gives a power-law tail. It bears on the mechanism behind the exchange's claim that multiplicative growth with a floor yields a power law rather than a lognormal. Not read.

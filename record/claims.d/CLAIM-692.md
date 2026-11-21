@@ -48,6 +48,8 @@ summary: >-
   contextual-emergence step succeeds, citing them. The three readings
   filed for that check hold the reasons, and no claim states them. The
   wording is the assistant's; adopting it is the owner's call.
+bears_on:
+- QUESTION-tmp2hhlc
 ---
 <!-- inactive-ok-file: THEORY-1314 — Proposed; Jennings's account, which this claim is about -->
 

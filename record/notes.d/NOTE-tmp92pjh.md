@@ -1,0 +1,180 @@
+---
+status: Read
+title: 'Lau, Furman, Wang, Murfet & Wei — the local learning coefficient and its SGLD estimator'
+paper: LIT-tmpnbl2d
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    From the arXiv preprint 2308.12108v2 (30 September 2024), 37 pp.,
+    fetched 2026-11-21 from arxiv.org (HTTP 200); by the arXiv comment,
+    v2 adds empirical results and merges content from arXiv:2402.03698. Text extracted with pdftotext; pages 8 and 28
+    rendered to read Figs. 3 and J.2 (the filer looked at page 28 again).
+    Read in full: main text and Appendices A–P; the reference list skimmed
+    for the entries cited here; the in-figure numbers of Figs. 1, K.1, K.2,
+    L.1, M.1, N.1 and O.1 read from captions and text only. The PDF footer
+    says "Preprint. Under review."; the arXiv API record carries no journal
+    reference; the AISTATS 2025 venue the LIT carried is not confirmed by
+    this copy and was not checked elsewhere. Read by a reader subagent;
+    filed by a second one, which rechecked every quote used here and
+    checked the estimator on a quadratic loss (python3 -I). No email
+    address sent.
+date: '2026-11-21'
+summary: >-
+  Defines the local learning coefficient of a local minimum as the
+  volume-scaling exponent of its low-loss set and estimates it with
+  minibatch SGLD as nβ*(E[Lₙ] − Lₙ(w*)) under a posterior tempered at
+  β* = 1/log n and localized by a Gaussian of precision γ. Consistency is a
+  conjecture. Calibrated against exact values only in noiseless deep linear
+  networks of 10² to 10⁸ parameters, mostly underestimating by up to about
+  80%; elsewhere used for relative comparisons at fixed sampler settings.
+---
+<!-- inactive-ok-file: ARG-tmpdvwy2 CLAIM-tmpcg4uu CLAIM-tmpgzb8v CLAIM-tmpp83vc THEORY-108 THEORY-967 THEORY-tmpousrw — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+
+# NOTE-tmp92pjh: Lau, Furman, Wang, Murfet & Wei — the local learning coefficient and its SGLD estimator
+
+## Contribution
+
+1. A local definition of the learning coefficient, with its multiplicity,
+   and a sketch that it governs a local free energy.
+2. A scalable estimator: a localized WBIC, sampled by minibatch SGLD, with
+   tuning advice (App. H).
+3. Calibration in deep linear networks up to 100M parameters, and relative
+   comparisons in ResNet18, a small transformer, entropy-SGD and
+   preconditioned SGLD.
+
+## Key insight
+
+Near a degenerate minimum the volume of parameters with loss within ε
+scales as ε^λ (−log ε)^(m−1), and λ, not d/2, is the complexity; a tempered,
+localized posterior's mean excess loss reads it off.
+
+## Assumptions
+
+- Analytic model, compact parameter space, relatively finite variance
+  (App. A.1; automatic when realizable, of unclear reach on real data).
+- w* a local minimum of the population loss, "at least as degenerate as
+  any nearby minimiser" (App. B).
+- The estimate plugs in the SGD-found ŵ*, so the data are used twice
+  (§4.3), and assumes SGLD at equilibrium.
+
+## Key results
+
+- **Definition** (§3.1, Def. 1, p. 4): V(ε) = cε^λ(w*)(−log ε)^(m(w*)−1) as
+  ε → 0; "in contrast to the regular case, the scaling exponent λ(w∗)
+  depends on the underlying data distribution" (p. 5).
+- **Local free energy** (App. B, Eq. 21, p. 16): Fₙ(B(w*)) = nLₙ(w*) +
+  λ(w*) log n − (m(w*) − 1) log log n + O_P(1), assuming "w∗ is at least as
+  degenerate as any nearby minimiser".
+- **Localization** (§4.2, p. 6): the ball is replaced by a Gaussian prior
+  of precision γ; "Large values of γ force the posterior distribution in
+  (10) to stay close to w∗."
+- **The estimator** (§4.3, Def. 2, p. 6): λ̂(w*) = nβ*[E_{w|w*,β*,γ} Lₙ(w) −
+  Lₙ(w*)], where "the inverse temperature is deliberately set to
+  β∗ = 1/ log n"; "λ̂(w∗) depends on γ but we have suppressed this in the
+  notation."
+- **Consistency is conjectured** (App. D, p. 17): the localized WBIC
+  matches the local free energy to two terms, but "we cannot immediately
+  conclude that it is a good estimator of" it; "We conjecture that λ̃(w∗)
+  is equal to the LLC λ(w∗) given certain conditions on γ"; the "Detailed
+  proof" is left to future work.
+- **Calibration** (§5.1, Fig. 3, App. J): "Our LLC estimator is able to
+  accurately estimate the learning coefficient in DLNs up to 100M
+  parameters". Fig. J.2 plots the relative error (λ − λ̂)/λ: most points lie
+  between 0 and +0.8, that is, underestimates, clustered at +0.5 to +0.8
+  near 10⁴ and 10⁶–10⁷ parameters, with a few overestimates to about −0.7.
+  The log–log Fig. 3 hides this. Setup (App. J.1, Table 1): realizable,
+  noiseless outputs ("effectively means we are setting a very small noise
+  variance"), γ = 1, n = 10⁵ or 10⁶, 90% burn-in; at 10M and 100M
+  parameters d exceeds n.
+- **Tuning** (App. H): "If the step size is too low, the sampler may not
+  equilibriate, leading to underestimation"; "a slow upwards slope can
+  still be indicative of significant underestimation"; a γ too large "can
+  overwhelm the gradient signal"; the authors keep γ small. γ = 1 for DLNs
+  and ResNet, γ = 100 for MNIST (App. N) and the transformer (App. L,
+  where β = 1/log 100).
+- **Elsewhere, relative only** (§5.2, p. 9): "the LLC estimates for
+  ResNet18 cannot be calibrated as we do not know the true LLC values ...
+  we find value in the LLC estimates by comparing their relative values
+  between models with shared context"; five seeds, sampler settings fixed
+  within a set.
+- **Heat capacity and finite n** (App. E): "the learning coefficient may be
+  viewed as a heat capacity", after LaMont and Wiggins; Chen, Chang and
+  Chaudhari's learning capacity "can be viewed as a finite-n version of
+  the learning coefficient". The Laplace form (d/2) log n + ½ log det H is
+  "ill-defined for neural networks".
+- **Model, not task** (App. F): "the LLC is a measure of model complexity,
+  not model-independent complexity."
+
+**What the paper does not contain.** No estimate at more than one inverse
+temperature, no study of the dependence on γ, nothing on near-degenerate
+(small but nonzero) directions or on sloppy models, and nothing on
+training dynamics beyond the Outlook.
+
+**The filer's check: what the estimate counts.** For a loss locally
+½ Σ e_i x_i² about w*, the tempered, localized posterior is Gaussian with
+precision t e_i + γ per direction, t = nβ* = n/log n, and
+
+  λ̂ = Σ ½ · t e_i/(t e_i + γ),
+
+each direction contributing ½ when e_i ≫ γ log n/n and nothing when
+e_i ≪ γ log n/n. Monte Carlo with an eight-decade spectrum (nine directions,
+n = 10⁵, γ = 1) gives 2.212 against the formula's 2.219, where d/2 = 4.5;
+at γ = 100 the formula gives 1.22. So the estimate is the slope of a
+localized free energy at effective sample size n/log n, and both β* and γ
+set the scale below which a direction counts as flat. This is the
+filer's derivation, not the paper's.
+
+## Concepts
+
+- **Local learning coefficient** λ(w*) and **local multiplicity** m(w*).
+- **Localizing prior** φ_γ and **local free energy** Fₙ(B_γ(w*)).
+- **Localized WBIC** — the estimator's population form.
+- **MALA acceptance** — the authors' diagnostic for SGLD step size.
+
+## Connections
+
+The estimator is a localized form of Watanabe's WBIC ([LIT-616](../literature.d/LIT-616.md), [NOTE-473](NOTE-473.md)).
+[LIT-1894](../literature.d/LIT-1894.md) ([NOTE-1462](NOTE-1462.md), [THEORY-1275](../theory.d/THEORY-1275.md)) uses it on the toy model of superposition,
+and [LIT-1535](../literature.d/LIT-1535.md) refines it per attention head ([THEORY-975](../theory.d/THEORY-975.md), [THEORY-967](../theory.d/THEORY-967.md)). App. E
+names LaMont and Wiggins ([LIT-1882](../literature.d/LIT-1882.md), [THEORY-1253](../theory.d/THEORY-1253.md)).
+
+## Bearing on the record
+
+Filed as [THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md). Dated notes of 2026-11-21 on each entry below.
+
+- **[CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)**: its inverse temperature is corrected there to
+  β* = 1/log n, with γ as a second cut-off; the paper does not test the
+  claim. [ARG-tmpdvwy2](../arguments.d/ARG-tmpdvwy2.md).
+- **[LEAD-tmpfrw11](../leads.d/LEAD-tmpfrw11.md)**: several temperatures are the record's proposal; vary
+  γ too, hold sampler settings fixed, check settling (App. H).
+- **[QUESTION-tmp7d1ws](../questions.d/QUESTION-tmp7d1ws.md)**: the DLN runs with d > n are partial evidence on
+  part 2.
+- **[NOTE-1462](NOTE-1462.md)**, **[THEORY-1275](../theory.d/THEORY-1275.md)**: the estimator's source is now held; its
+  calibration is DLN-only, and [NOTE-1462](NOTE-1462.md)'s Table K.1 errors are outside it.
+- **[THEORY-087](../theory.d/THEORY-087.md)**, **[CLAIM-188](../claims.d/CLAIM-188.md)**: Eq. 21 is a local form of the λ log n
+  penalty; App. E's critique of the Laplace term is [CLAIM-188](../claims.d/CLAIM-188.md)'s point.
+- **[THEORY-1253](../theory.d/THEORY-1253.md)**: App. E calls the coefficient a heat capacity.
+- **[THEORY-108](../theory.d/THEORY-108.md)**: parallel; App. E's critique of Hessian flatness.
+- **[CLAIM-tmpgzb8v](../claims.d/CLAIM-tmpgzb8v.md)**, **[CLAIM-tmpp83vc](../claims.d/CLAIM-tmpp83vc.md)**, **[QUESTION-tmp82zpm](../questions.d/QUESTION-tmp82zpm.md)**: their
+  reading of a change in the estimate as a transition must hold the
+  sampler fixed and rule out underestimation.
+
+Nothing here is an instruction for machine-learning practice beyond the
+estimator's own tuning advice, which concerns measurement, not training.
+
+## Limitations
+
+- Consistency of the practical estimator is a conjecture (App. D), with the
+  conditions on γ open.
+- Calibration only in realizable, noiseless deep linear networks, one
+  global minimum per network, γ = 1; relative errors up to about 0.8 are
+  hidden by the log scale. No error bars beyond the scatter.
+- One inverse temperature throughout; γ chosen per experiment (1 or 100).
+- Elsewhere only relative comparisons, five seeds; real-data finite
+  variance unverified.
+- A gap in the argument: the estimator's form makes γ a second cut-off
+  (above), so the calibration at γ = 1 in networks whose smallest
+  curvatures are unknown does not show what the estimate counts at other
+  γ, and the paper's γ = 100 runs are uncalibrated.

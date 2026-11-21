@@ -185,3 +185,12 @@ parameter directions from coarse to fine along a chain of nested
 coarse-grainings. In the diffusion case that order is by cumulant order.
 That is an order of relevance tied to refinement, not an order of
 acquisition.
+
+## Note of 2026-11-21: Transtrum et al. (2015), read
+
+Background. The review names "parameter space compression" under
+coarse-graining as the reason continuum and renormalizable theories
+succeed (§V; [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)), which this reading makes exact for
+Boltzmann families as a conditional covariance. The review gives no
+computation and does not treat the information a coarse-graining loses.
+No relation is written.

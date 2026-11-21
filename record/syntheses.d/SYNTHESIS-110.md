@@ -29,6 +29,7 @@ integrates:
 ---
 
 <!-- inactive-ok-file: CLAIM-762 — Proposed or Open; components of this account, cited with their standing -->
+<!-- inactive-ok-file: TERM-tmptiim0 CLAIM-tmpcgvcp CLAIM-tmpcg4uu CLAIM-tmpnu4ar CLAIM-tmp9bp04 — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
 # SYNTHESIS-110: Whether a distinction must be drawn and whether it earns a name are settled in the record by different entries, the first by what acceptable actions require and the second by evidence against Occam cost and by retrieval under a deadline, which pull in opposite directions with copy count
 
 *A thematic account, across lines, of principle P4 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
@@ -53,3 +54,14 @@ integrates:
 ## What it does not say
 
 That the criteria ever agree. That is [QUESTION-113](../questions.d/QUESTION-113.md), open.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
+
+Filed since, and bearing on this account's evidence criterion. For its next version to weigh:
+
+- **Sloppiness beside singularity.** [CLAIM-188](../claims.d/CLAIM-188.md) corrects [CLAIM-154](../claims.d/CLAIM-154.md)'s Occam term where the model is *singular* at the parameters that switch a candidate off. The record now defines *sloppy* separately: a Fisher spectrum spread over many decades with no gap ([TERM-tmptiim0](../terms.d/TERM-tmptiim0.md), at the owner's suggestion). It holds that the two are different properties: a model can be "sloppy everywhere and singular nowhere or singular everywhere with no spread" ([CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md), A's).
+- **The Occam cost at a finite sample.** At a finite sample, a direction too sloppy to resolve "contributes to the learning coefficient no more than a flat one". In a regular sloppy model the coefficient rises by about ½ for each direction resolved ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md), the assistant's). Read in [CLAIM-154](../claims.d/CLAIM-154.md)'s terms, the cost of keeping a candidate structure is then charged on the directions the sample resolves, so what the evidence criterion names moves with the sample. That reading is the assistant's, not [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)'s.
+- **Keeping and dropping units.** [CLAIM-tmpnu4ar](../claims.d/CLAIM-tmpnu4ar.md) (A's, supposed, its ground unread) proposes that model reduction and feature differentiation are opposite movements through one stratified space. Reduction moves toward the model manifold's boundaries, where parameters stop mattering; differentiation moves away from singular strata, where redundant features become separately usable. If held, it bears on when a unit is dropped as well as when one is kept.
+- **A threshold for a unit in a learner.** In [CLAIM-tmp9bp04](../claims.d/CLAIM-tmp9bp04.md) (A's), a factored feature becomes part of the predictor only when its signal exceeds the weight decay. That is an evidence-against-cost threshold of this account's first kind, in a trained model. The reading is the assistant's.
+
+Readings of the sloppiness papers and of the local learning coefficient are being filed. This account's "Not stated on the record" is unaffected: no new entry separates naming from drawing. No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).

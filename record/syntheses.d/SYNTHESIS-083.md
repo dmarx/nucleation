@@ -23,6 +23,7 @@ integrates:
 - CLAIM-385
 - CLAIM-269
 ---
+<!-- inactive-ok-file: CLAIM-tmp5y856 CASE-tmp59xy5 CLAIM-tmppkdjz TERM-tmpol232 — Proposed or new; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" -->
 <!-- inactive-ok-file: CLAIM-193 CLAIM-263 SYNTHESIS-030 THEORY-002 THEORY-005 THEORY-080 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-088 — Proposed; cited with its standing -->
 
@@ -135,3 +136,12 @@ Tested by [ADR-075](../decisions.d/ADR-075.md)'s step 5 at this review and not f
 - Anything about nonlinear probes, estimated kernels, approximate
   equality or infinitely many stimuli, which every component disclaims.
 - That the spectrum detects a symmetry; [CLAIM-385](../claims.d/CLAIM-385.md) says the reverse.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
+
+This account holds that a regularized linear readout separates exactly what its kernel separates: separation of classes, in the second sense of [TERM-tmpol232](../terms.d/TERM-tmpol232.md) (filed the same day). The exchange adds a contrast with the third sense, spectral separation, for this account's next version to weigh.
+
+- **A readout can separate what the spectrum does not show.** In [CASE-tmp59xy5](../cases.d/CASE-tmp59xy5.md) a linear readout reaches 74% accuracy on a two-class spiked mixture below the spectral threshold, where no eigenvalue leaves the bulk. What the kernel separates, and so the readout, can exceed what the covariance spectrum makes visible. [CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md) states the general gap between decodability and spectral detectability.
+- **The directions that separate need not be large ones.** A label can sit in the least-variance direction ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md)). This account's spectrum clause ("the spectrum fixes neither the group nor a basis") has a counterpart here: the spectrum does not fix which directions carry the separation.
+
+No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).

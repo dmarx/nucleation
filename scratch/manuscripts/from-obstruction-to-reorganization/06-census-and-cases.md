@@ -4,7 +4,7 @@
 
 ### 13.1 The census
 
-Of the 114 decisions, **88 changed the grammar** (§12.2 defines the term). The tables below are produced by `analysis/census.py` from the coded census and are reproduced in `analysis/census_report.md`.
+Of the 114 decisions to 20 November, **88 changed the grammar** (§12.2 defines the term). The tables below are produced by `analysis/census.py` from the coded census and are reproduced in `analysis/census_report.md`. Unless a row says otherwise, they are the 114 coded by four coders and checked by a fifth. The 22 decisions of 21 November, coded single-handed on that day, are reported in their own rows and in "The fifth batch" below; with them the census holds 136 decisions and 91 grammar changes (rerun 2026-11-21).
 
 **Agreement between coders.** These figures come from the 30 decisions coded twice.
 
@@ -29,6 +29,7 @@ The low κ on outcome comes from a convention the codebook left open: coders spl
 | 25 Sep–15 Oct | 43 | 37 | 6 | 0 |
 | 16 Oct–5 Nov | 20 | 8 | 11 | 1 |
 | 6–20 Nov | 25 | 17 | 8 | 0 |
+| 21 Nov (fifth batch, one coder) | 3 | 1 | 2 | 0 |
 
 Revision is not rare: it makes up 28% of grammar changes. It is concentrated in the middle period. The level at which changes happened moved over the eight weeks:
 
@@ -43,6 +44,7 @@ Revision is not rare: it makes up 28% of grammar changes. It is concentrated in 
 | 25 Sep–15 Oct | 43 | 9 | 16 | 1 | 0 | 4 | 13 |
 | 16 Oct–5 Nov | 20 | 10 | 1 | 3 | 1 | 4 | 1 |
 | 6–20 Nov | 25 | 7 | 3 | 2 | 0 | 12 | 1 |
+| 21 Nov (fifth batch, one coder) | 3 | 1 | 0 | 1 | 0 | 1 | 0 |
 
 Who noticed depends strongly on the kind of change:
 
@@ -63,6 +65,15 @@ Who noticed depends strongly on the kind of change:
 The owner is the decider in 49 changes, an assistant in 6 and a review procedure in 2. The decider is not stated in 31.
 
 **Costs and errors.** Fifty-eight changes state how many existing entries they migrated: 2,664 in all, median 6. Ten grammar changes were followed by a recorded error that the change caused (§13.9). Four were undone within days (ADR-015 in part, ADR-076, ADR-077, ADR-080).
+
+**The fifth batch (added 2026-11-21).** The 22 decisions filed on 21 November differ from the 114 in kind, not only in number:
+
+- **Few changed the grammar.** Three did: RETRO beside a narrowed POSTMORTEM (ADR-115, a revision), the line `learning-and-inquiry` with `record-as-apparatus` narrowed (ADR-130, a revision), and the work renamed (ADR-135, a refinement). The other 19 are process: staging and promotion (ADR-116, ADR-121, ADR-125), the dialectic regime (ADR-127), reframings (ADR-120), earmarks (ADR-126), adoption review (ADR-124), shared descriptions (ADR-128), holds (ADR-132), cross-line accounts (ADR-129), the admission test (ADR-131), gap filling (ADR-tmpcb96w), and seven alternatives not taken.
+- **Seven were Rejected** (ADR-117, ADR-118, ADR-119, ADR-122, ADR-123, ADR-133, ADR-134), where the first 114 held one (ADR-056). Each is a reading of an owner's request that the owner did not choose, filed under the dialectic regime's rule that readings which would be filed differently are filed side by side (ADR-127). None proposed a grammar change, so none counts as restraint in the table above (§13.8).
+- **The owner decided all 22, and each records the owner's words** (22 explicit ratifications, against 18 of the 41 decisions of 6 to 20 November). Eighteen were noticed by the owner, two by the assistant and two by review procedures; the assistant proposed the design of 13, the owner of 6, a review procedure of 3. Part of the shift is how rulings are now recorded: inline on the promotion pull request, quoted into the decision (ADR-128), and by choosing among filed alternatives in a few words ("571-A", "573-narrow", "577-automate this", "sure, go with A").
+- **Totals with the batch.** Of 91 grammar changes, 63 are refinements, 27 revisions and 1 restraint; 61 state a migration, 2,701 entries in all, median 6. Decision records of the first 114 that had no recorded decider (42, of which 31 grammar changes) are unchanged; every decision in the batch names one.
+
+These figures were recomputed on 2026-11-21 with `analysis/census.py`. They rest on one coder, and on a coder that took part in the work coded (§18).
 
 Section 15 reads these results against E1 to E7, and §16 against the flywheel of §7.2. The cases below are drawn from the census to illustrate each type it contains: refinement, revision and restraint, noticed by the owner, by an agent and by a procedure.
 
@@ -159,6 +170,7 @@ The tool also has a known blind spot. CLAIM-388 (Active) shows that a real unit 
 - **ADR-050 (Deferred).** A protocol for words such as "organized" and "effective" stopped at the convention rung, because a lint "would fire 395 times".
 - **ADR-036.** Readers reported independently that the vocabulary had no word for training dynamics. The owner widened `learning-theory` rather than add a word. (The census codes this as a revision, because an existing word's meaning changed. §15.2 asks whether its 92 carrying entries were re-read.)
 - **Refusals inside accepted decisions.** ADR-042 refused a STUDY scheme, and ADR-041 refused the sixth status until ADR-053.
+- **Alternatives filed and not taken (added 2026-11-21).** A new form of restraint appeared on 21 November. Under the dialectic regime, an owner's request that admits several readings is filed as one Proposed decision per reading, and the owner chooses; the rest go Rejected and stay on the record (ADR-127). Seven such decisions were Rejected that day. ADR-131 (A) was chosen over ADR-133 (C, the test deferred to the synthesis review) and ADR-134 (B, the rule split by who wrote the synthesis); ADR-126 (one of three readings of "separable") over the other two, ADR-118 with ADR-123 and ADR-122; ADR-121 over the wider ADR-119; ADR-125 over ADR-117. None proposed a grammar change, so the census codes none as restraint. Each refuses a design, not a change. Two grammar-level refusals sit inside decisions of the same day: ADR-126 (Active) declined a field for earmarks, and ADR-120 (Proposed) a `reframed_by` relation, each naming a field as the next rung if the convention fails.
 
 ### 13.9 When grammar changes went wrong
 
@@ -182,3 +194,5 @@ The process search adds two errors in migrations that the census codes under oth
 - **ADR-085's sweep** added 94 lines to 87 entries before the owner narrowed the rule to 36 lines on 35 entries.
 
 Every error was found by the record itself, through a later version note, a follow-up decision or a postmortem, and most were found within days.
+
+None of the three grammar changes of 21 November has a recorded later error yet, a day on. Two process decisions of that day record an error found in their first use: ADR-116's back-merge ran only after Promote, so a promotion merged by hand left staging behind main (its version 2); and ADR-128's check compared `updated_at`, which a merge moves without changing the text, and now compares the text. A hand-written rewrite of concretized codes also corrupted `formerly:` in 24 entries on one branch before it was reverted; it was not needed, since `luria repair` makes the rewrite (devlog, 2026-11-21 09:37:39; RETRO-007).
