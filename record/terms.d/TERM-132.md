@@ -87,12 +87,12 @@ cycle of an entry is the movement of features out of this part
 
 ## Note of 2026-11-21: the parts, by predicate
 
-Read an entry's predicates as tests (TERM-tmp7m4at), and the three parts are
+Read an entry's predicates as tests ([TERM-tmp7m4at](TERM-tmp7m4at.md)), and the three parts are
 sorted by what the restating step does with the predicates on a feature
-(CLAIM-tmp8v75o, part 5): a feature whose predicates the step **enforces** is
+([CLAIM-tmp8v75o](../claims.d/CLAIM-tmp8v75o.md), part 5): a feature whose predicates the step **enforces** is
 contracting, at the predicate's value, which is a convention if the schema
 supplied it and the source's if the source did; one whose predicates it
 **preserves** is conserved; one that no predicate bounds is a local degree of
-freedom. CLAIM-tmpj4fzn reads an entry's life cycle as the accrual of
+freedom. [CLAIM-tmpj4fzn](../claims.d/CLAIM-tmpj4fzn.md) reads an entry's life cycle as the accrual of
 predicates, which moves features out of the last part.
 

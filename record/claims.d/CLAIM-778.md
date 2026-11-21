@@ -166,10 +166,10 @@ not by drift.
 ## Note of 2026-11-21: the narrowing as accrued predicates
 
 At the owner's reframe, that adding predicates to an entry is adding
-constraints, CLAIM-tmpj4fzn restates this claim's narrowing by what an entry
+constraints, [CLAIM-tmpj4fzn](CLAIM-tmpj4fzn.md) restates this claim's narrowing by what an entry
 says about itself rather than by what restatement copies: each predicate
-filed on it (TERM-tmp7m4at) is a test its later versions must pass, and the
-revisions open to it are the intersection of what passes. CLAIM-tmp8v75o
+filed on it ([TERM-tmp7m4at](../terms.d/TERM-tmp7m4at.md)) is a test its later versions must pass, and the
+revisions open to it are the intersection of what passes. [CLAIM-tmp8v75o](CLAIM-tmp8v75o.md)
 models that, with soft and hard predicates as one penalty at different
 strengths. So the caveat under "What it does not say", that the inductive prior is an analogy and
 that a prior is soft while lint is hard, is answered in that model: the
