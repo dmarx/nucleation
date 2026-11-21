@@ -1,0 +1,51 @@
+---
+status: Proposed
+title: 'Alternative C to ADR-075''s step 5: at filing, a synthesis worth keeping is filed as an account of its scope with no test, and the test for a claim whose premises are claims is run on it at the next synthesis review, which files what passes; nothing is turned away when it is first written down'
+version: 1
+tags:
+- record
+date: '2026-11-21'
+summary: >-
+  One of three alternatives (with ADR-tmpi2grj and
+  ADR-tmpoxu5i) answering the owner's worry that ADR-075's language
+  discourages documenting useful syntheses, and their concern about
+  rejecting content prematurely. It moves the test from the moment of
+  filing to the periodic synthesis review (ADR-078). When a synthesis
+  first arrives it is filed as an account of its scope, a line, a part of
+  one or a theme, and its candidate links are listed under "Not yet
+  tested". The review then runs step 5 on each and files what passes as a
+  claim. A recap still stays in the curation entry.
+---
+<!-- inactive-ok-file: ADR-tmpi2grj ADR-tmpoxu5i — Proposed; the alternatives filed with this one -->
+
+# ADR-tmpkiuac: Alternative C to ADR-075's step 5: at filing, a synthesis worth keeping is filed as an account of its scope with no test, and the test for a claim whose premises are claims is run on it at the next synthesis review, which files what passes; nothing is turned away when it is first written down
+
+*Filed with two alternatives, ADR-tmpi2grj (A, which gives the shared context in full) and ADR-tmpoxu5i (B). The owner chooses.*
+
+## Context
+
+See ADR-tmpi2grj. The owner's second concern is about timing. The retrospective of 2026-11-21 recommended running the test when an integration is drafted. The owner replied: "my concern is potentially rejecting content we might want prematurely." Under ADR-075, the test runs when the synthesis is filed, often in the same turn it was written. That is when its wording is loosest, and a narrower sentence that would pass is least likely to have been found.
+
+## Decision
+
+1. **At filing, no test.** A synthesis that organizes held components is filed as an account of its scope (a line, a part of one, or a theme across lines, as the proposed decision on cross-line accounts in pull request 593 allows). Its preface says it is untested. The links it states beyond its components go under a heading "Not yet tested", each with the sentence that would be the claim.
+2. **At the synthesis review, the test.** The review (ADR-078) runs step 5 on each "Not yet tested" link. What passes is filed as a claim, and the account integrates it. What fails moves to "Not stated on the record" with the reason.
+3. **A recap stays in the curation entry**, as now.
+4. **An urgent claim can be tested at once.** When the owner asks for a link to be filed as a claim now, the test runs at filing, as under ADR-075.
+
+## Demonstration
+
+**The case of 2026-11-20.** The ten principles and the cycle would have been filed on the day as accounts, with their integrating sentences under "Not yet tested". The audit would have run at the next review, not the same evening, and would have found what it found. But the owner's direction to file the principles would not have been needed to keep them. CLAIM-tmpzrl0a, the narrowed part of the cycle, would have been filed at that review instead of at once.
+
+**The skill wording.** `read-and-file` step 9 replaces "File what it adds as a claim, or nothing … If nothing passes, file no claim" with "File its map as an account of its scope, and list what it adds under 'Not yet tested'; the synthesis review tests it (ADR-tmpkiuac), unless the owner asks for a claim now." `synthesis-review` gains, at stage 1, "every 'Not yet tested' link is a candidate".
+
+## Alternatives
+
+- **A, ADR-tmpi2grj:** the test runs at filing and only routes. A failure becomes a "Not stated" line in an account.
+- **B, ADR-tmpoxu5i:** as A, for the owner's syntheses only.
+
+## Consequences
+
+- Fewer claims filed in the turn an exchange produces them, and more at reviews. Claims an exchange relies on at once would need the owner's request.
+- Accounts carry a heading, "Not yet tested", that the record does not have now. It is prose, and needs no configuration.
+- The review grows. Its stage 1 ranking would list "Not yet tested" links first.

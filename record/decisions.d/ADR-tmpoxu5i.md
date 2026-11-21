@@ -1,0 +1,49 @@
+---
+status: Proposed
+title: 'Alternative B to ADR-075''s step 5: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator''s summary in an exchange, keeps ADR-075''s rule and is filed only for what passes the test'
+version: 1
+tags:
+- record
+date: '2026-11-21'
+summary: >-
+  One of three alternatives (with ADR-tmpi2grj and ADR-tmpkiuac) answering
+  the owner's worry that ADR-075's language discourages documenting useful
+  syntheses. ADR-075's guard was aimed at a source's broad summaries, a
+  collaborator's "refreshed synthesis" imported as one more claim. This
+  alternative keeps the guard there and lifts it from the owner's own
+  syntheses. Those are filed as accounts of their scope, a line, a part of
+  one or a theme, and the test decides only whether they also yield a
+  claim.
+---
+<!-- inactive-ok-file: ADR-tmpi2grj ADR-tmpkiuac — Proposed; the alternatives filed with this one -->
+
+# ADR-tmpoxu5i: Alternative B to ADR-075's step 5: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator's summary in an exchange, keeps ADR-075's rule and is filed only for what passes the test
+
+*Filed with two alternatives, ADR-tmpi2grj (A, which gives the shared context in full) and ADR-tmpkiuac (C). The owner chooses.*
+
+## Context
+
+See ADR-tmpi2grj. ADR-075's examples were collaborators' summaries: in "Individuation, Possibility, and Disposition", A's three "refreshed syntheses" told the owner's turns as the argument's own logic, dropped two of them, and misstated a component. The guard against "salience without work" was written for that case, where a synthesis enters from outside and its author's framing can pass as the record's. The ten principles of 2026-11-20 were the other case. The owner asked for them, they were built from the record, and the owner wanted them on it.
+
+## Decision
+
+1. **Two provenances.** A synthesis is *the owner's* when the owner states it, or asks for it to be constructed and filed. It is *a source's* when it is found in a filed source, such as a collaborator's turn, a pasted summary or an upload, and the owner has not asked for it to be kept.
+2. **The owner's syntheses are filed as accounts** of their scope (a line, a part of one, or a theme across lines, as the proposed decision on cross-line accounts in pull request 593 allows), whether or not they yield a claim. The test decides whether they also yield one.
+3. **A source's syntheses keep ADR-075's rule.** What passes the test is filed as a claim; the map goes in a scope's account if the synthesis is of a line or a part of one, and otherwise in the curation entry.
+4. **The owner can promote a source's synthesis** by asking for it to be kept. It is then the owner's.
+
+## Demonstration
+
+**The case of 2026-11-20.** The principles are the owner's (asked for and filed at the owner's direction), so the eight conjunctions are accounts by rule. The outcome is as under A. A collaborator's summary in the next exchange filed would be audited and, if it passed no route, would stay in the curation entry as now.
+
+**The skill wording.** `read-and-file` step 9 gains one sentence before "File what it adds": "If the synthesis is the owner's (stated, or asked for), its map goes in its scope's account whether or not it yields a claim; a theme across lines is a scope (as the proposed decision on cross-line accounts in pull request 593 allows)."
+
+## Alternatives
+
+- **A, ADR-tmpi2grj:** every synthesis that organizes held components is filed as an account, whatever its provenance.
+- **C, ADR-tmpkiuac:** no test at filing; the test is run at the synthesis review.
+
+## Consequences
+
+- Provenance has to be recorded. The curation entry already names each synthesis's source, and the account's preface would say "the owner's".
+- The guard against imported framings stays where it was aimed. The cost is a rule with two cases.
