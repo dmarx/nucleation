@@ -24,7 +24,7 @@ summary: >-
   adaptation is assumed and not measured, and that no transfer or
   unassisted-skill test is run.
 ---
-<!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i QUESTION-tmp6iu8e THEORY-tmp3tb8i ADR-108 — Proposed or Open; filed on 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i ADR-108 — Proposed or Open; filed on 2026-11-21 -->
 
 # NOTE-tmp7qgd8: Reddy, Levine and Dragan — First Contact, read for the record's account of learning occasioned by obstruction
 
@@ -89,13 +89,13 @@ contrast, influence without intuitiveness.
 
 ## Bearing on the record
 
-- **CLAIM-tmpydua7** (supports, qualifies). The split it describes is the
+- **[CLAIM-tmpydua7](../claims.d/CLAIM-tmpydua7.md)** (supports, qualifies). The split it describes is the
   paper's setting (§2). The interface is a single rotation, or a linear map
   ignoring state, trained over random targets, so it cannot encode a
   particular target: the channel reading holds by construction. But no
   transfer test is run, to new targets, tasks or users; the claim's
   defeater (a) is excluded by design, not tested.
-- **CLAIM-tmpspx4i** (supports the facts, corrects an attribution). The
+- **[CLAIM-tmpspx4i](../claims.d/CLAIM-tmpspx4i.md)** (supports the facts, corrects an attribution). The
   override and the horizon dependence are the paper's (Fig. 2d). The
   assistant is not First Contact's: it is the copilot of a prior study,
   SAvDRL, whose logged data First Contact re-scores; and the offline state is
@@ -104,21 +104,21 @@ contrast, influence without intuitiveness.
   by the end of the episode"; the rate-hierarchy reading is the record's.
   The flat ISQL domain, also assisted Lunar Lander, is a second case the
   claim does not yet account for.
-- **QUESTION-tmp6iu8e** (silent). No measure of unassisted skill after
+- **[QUESTION-tmp6iu8e](../questions.d/QUESTION-tmp6iu8e.md)** (silent). No measure of unassisted skill after
   assistance; ISQL scores both conditions without that comparison.
-- **CLAIM-532** (qualifies). Co-adaptation is assumed and shown within
+- **[CLAIM-532](../claims.d/CLAIM-532.md)** (qualifies). Co-adaptation is assumed and shown within
   episodes (Fig. 7), but neither of the claim's tests is run: no transfer
   once the inducing conditions are gone, no intervention on what produces
   the capacity beyond the random-interface baseline.
-- **QUESTION-404** (bears on it). The repair is a channel; the task stays
+- **[QUESTION-404](../questions.d/QUESTION-404.md)** (bears on it). The repair is a channel; the task stays
   unobserved. §6.2 names the converse case, the user seeing state the
   interface cannot, with a proposed extension that drops the interface's
   dependence on state rather than supplying it.
-- **CLAIM-361** (supports its citation). Its account of the inversion holds;
+- **[CLAIM-361](../claims.d/CLAIM-361.md)** (supports its citation). Its account of the inversion holds;
   the help is a prior study's copilot.
-- **THEORY-1344** (parallel). Empowerment as channel capacity from actions to
+- **[THEORY-1344](../theory.d/THEORY-1344.md)** (parallel). Empowerment as channel capacity from actions to
   sensors n steps later carries the same horizon choice as Δ.
-- **THEORY-1521** (background, for QUESTION-tmp6iu8e). Automation doing a
+- **[THEORY-1521](../theory.d/THEORY-1521.md)** (background, for [QUESTION-tmp6iu8e](../questions.d/QUESTION-tmp6iu8e.md)). Automation doing a
   subtask can let the operator's skill decay unnoticed.
 
 ## Limitations

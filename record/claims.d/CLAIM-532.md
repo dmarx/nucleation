@@ -122,7 +122,7 @@ summary: >-
   than mechanism.
 ---
 <!-- inactive-ok-file: ADR-075 — Proposed; the decision the Admission section follows -->
-<!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i THEORY-tmp3tb8i — Proposed; the dated note of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpydua7 — Proposed; the dated note of 2026-11-21 -->
 <!-- inactive-ok-file: ARG-060 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-194 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-047 — Proposed; the entries on which provenance matters -->
@@ -242,9 +242,9 @@ A58 §8 reads this claim rightly. Its second route, "**An organization can overc
 
 ## Note of 2026-11-21: Reddy, Levine and Dragan, read
 
-A qualifying case. First Contact (LIT-tmpw3fnx, read in NOTE-tmp7qgd8)
+A qualifying case. First Contact ([LIT-tmpw3fnx](../literature.d/LIT-tmpw3fnx.md), read in [NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md))
 learns an interface with no task knowledge by maximizing command-to-outcome
-information while the user adapts; CLAIM-tmpydua7 reads it as this claim's
+information while the user adapts; [CLAIM-tmpydua7](CLAIM-tmpydua7.md) reads it as this claim's
 new channel, formed to repair a failure of information split between the
 interface and the user. The paper runs neither of this claim's tests: no
 transfer once the inducing conditions are gone, no intervention on what

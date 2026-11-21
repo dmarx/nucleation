@@ -31,7 +31,7 @@ assistant present scores the joint channel, so it cannot tell a channel the
 user can carry alone from one the assistant carries for them. [CLAIM-532](../claims.d/CLAIM-532.md)'s
 test, removing the inducing conditions and presenting a new case of the same
 class, is the one that would tell. First Contact itself does not run it
-(NOTE-tmp7qgd8). The nearest held evidence is THEORY-1521: automation that
+([NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md)). The nearest held evidence is [THEORY-1521](../theory.d/THEORY-1521.md): automation that
 does a subtask can let the operator's skill in it decay unnoticed.
 
 ## What would count as an answer

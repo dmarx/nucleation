@@ -98,7 +98,7 @@ result is a case where the same score covers both.
 
 **The test it suggests.** [CLAIM-532](CLAIM-532.md)'s transfer test applies directly: a
 channel serves a class, so an interface learned on some targets should help
-on new targets in the same domain. The local reading (NOTE-tmp7qgd8) finds
+on new targets in the same domain. The local reading ([NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md)) finds
 no such test: targets are "randomly-sampled" each episode and the interface
 is a single rotation, or a linear map that ignores state, so it cannot
 encode a particular target. The channel reading holds by construction, and

@@ -38,7 +38,7 @@ summary: >-
   The assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: THEORY-tmp3tb8i CLAIM-tmpydua7 TERM-tmp0g123 CLAIM-478 — Proposed or Open; the claims and term this joins -->
+<!-- inactive-ok-file: CLAIM-tmpydua7 TERM-tmp0g123 CLAIM-478 — Proposed or Open; the claims and term this joins -->
 
 # CLAIM-tmpspx4i: First Contact's one failure is a choice of level: a shared-autonomy assistant, from a prior study, that stabilizes the lander overrides the user's commands, damping their influence over the next state while raising it over the episode, so command-to-outcome information depends on the horizon it is taken at, and the horizon the method needs is the level of a rate hierarchy at which the user's goals live; the task knowledge it assumes away is knowledge of that level
 
@@ -47,7 +47,7 @@ summary: >-
 In the fifth domain, shared-autonomy Lunar Lander, the one-step score
 I(x_t; (s_t, s_{t+1})) correlated strongly *negatively* with task success.
 The assistant helps by preventing crashes, "which necessarily involves
-ignoring a large fraction of the user's commands" (§5.1; NOTE-tmp7qgd8).
+ignoring a large fraction of the user's commands" (§5.1; [NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md)).
 The assistant is not First Contact's own: it is the deep-RL copilot of a
 prior study, Shared Autonomy via Deep RL, whose logged data First Contact
 re-scores, and the state there is only the lander's horizontal position
