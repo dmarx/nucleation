@@ -1,0 +1,135 @@
+---
+status: Proposed
+title: "A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism"
+version: 1
+role: thesis
+warrant: interpretive
+defeated_if: >-
+  A showing that, in the multiparameter models where sloppiness is
+  reported (systems biology, the hopping model, the critical Ising model
+  under decimation), predictions for the observables in question depend
+  on parameter directions that the fitting data leave unconstrained, so
+  that a model fitted only along its stiff directions predicts those
+  observables no better than one fitted to wrong values along them; or
+  that the spread of Fisher eigenvalues reported in those models is an
+  artefact of the parametrization that a reparametrization of the same
+  model removes. A model that predicts badly because a sloppy direction
+  matters for a new observable does not defeat it: the claim is relative
+  to the observables fitted.
+tags:
+- information-geometry
+- mathematical-statistics
+- philosophy-of-science
+- complex-systems
+date: '2026-11-21'
+line:
+- formal-apparatus
+- learned-structure
+grounds:
+- THEORY-774
+- THEORY-777
+- THEORY-742
+- LIT-tmpsqbr9
+- LIT-tmpm1tji
+- LIT-tmp0fpti
+- LIT-1299
+uses:
+- TERM-tmp5z2du
+summary: >-
+  A's thesis at A19 §1, §4, §7 and §10 of the exchange "Rich Get Richer
+  Power Laws": a model can need many numbers to specify (parameter
+  complexity) and few to describe what it predicts (behavioural
+  complexity), because its predictions are sensitive to a few
+  combinations of parameters and barely to the rest; such a model can be
+  hard to fit and still predictive, and "simplicity can be a property of
+  how a system responds to observation". The record held the spectra in
+  two worked cases (THEORY-774, THEORY-777) but not the general claim.
+  A's analogy to neural networks is recorded and not adopted: sloppiness
+  assumes a regular Fisher matrix, which overparameterized networks lack.
+  The wording is A's (the other assistant in the exchange "Rich Get
+  Richer Power Laws", A19); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: THEORY-777 — Proposed reading, one of the two worked cases -->
+<!-- inactive-ok-file: LIT-tmpsqbr9 LIT-tmpm1tji LIT-tmp0fpti LIT-tmpd3swn — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: TERM-tmp5z2du CLAIM-tmpj0k4q — filed with this claim from the same exchange, Proposed -->
+<!-- inactive-ok-file: SYNTHESIS-075 — Proposed account, cited for the target-relativity this claim sits beside -->
+
+# CLAIM-tmpficzj: A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism
+
+## The claim
+
+A19 §1 draws the distinction: "**Parameter complexity:** How many
+independent numbers are required to specify the microscopic model?
+**Behavioral complexity:** How many independent quantities are needed to
+describe its observable predictions? The first can be enormous while the
+second is surprisingly small."
+
+They come apart when the model is **sloppy**: its Fisher eigenvalues,
+under the experiment in question, spread over many decades, so its
+manifold of predictions is a hyperribbon (TERM-tmp5z2du). Three
+consequences follow, all A's:
+
+1. **Hard to fit, still predictive.** "A model can be extremely difficult
+   to fit at the microscopic parameter level while still making highly
+   accurate predictions" (A19 §4), because the predictions in question
+   depend on the few stiff combinations the data do constrain. The
+   converse holds too: "even a sophisticated model can fail when its
+   poorly constrained directions affect the particular outcome you want
+   to predict."
+2. **Understanding as invariance.** Reduction and effective theories are
+   complementary, and an effective theory finds "**which details can be
+   changed without changing the answer**" (A19 §7).
+3. **Simplicity as a response to observation.** "**Simplicity can be a
+   property of how a system responds to observation.** If an enormous
+   collection of microscopic models all produce nearly the same
+   macroscopic predictions, then the observable phenomenon is effectively
+   simple—even if its underlying mechanism is not" (A19 §10).
+
+## Why the record should hold it
+
+The record has the two cases the general claim rests on in physics: in the
+hopping model, eigenvalues separate by a factor of order t when the
+density is seen after t steps (THEORY-774); in the critical Ising model
+under decimation, the irrelevant directions fall by up to six decades
+while two stay (THEORY-777), and the Fisher information lost is a
+conditional covariance (THEORY-742). Machta and colleagues read both as
+"a model is sloppy because it is observed at a scale much larger than its
+own" (LIT-1299, as read in its note). The breadth of the claim, across
+systems biology models, rests on Gutenkunst and colleagues
+(LIT-tmpsqbr9) and the reviews (LIT-tmpm1tji, LIT-tmp0fpti), all
+Deferred and unread: the weakest grounds, so the claim is interpretive
+and Proposed.
+
+It sits beside CLAIM-401 and SYNTHESIS-075: adequacy relative to a
+declared target. Sloppiness is the parametric face of that relativity:
+which directions are stiff depends on which observables are fitted.
+
+## What it does not say
+
+- **Not that the sloppy directions do not matter.** They matter for
+  other observables; the claim is relative to the experiment
+  (TERM-tmp5z2du, condition 1).
+- **Not that a hierarchy of sensitivities indicates criticality** or a
+  power law in event sizes (A19 §5; TERM-tmp5z2du).
+- **Not, yet, that it holds for neural networks.** A19 §10 presses the
+  analogy: "A neural network may contain billions of parameters, but only
+  some combinations may significantly affect particular outputs or
+  tasks", and calls the connection "strong" while granting the analogy
+  "isn't exact". The record does not adopt it. Sloppiness is stated for a
+  regular model, whose Fisher matrix has full rank; an overparameterized
+  network is singular, its Fisher matrix degenerate on sets of
+  parameters, and the record's account of its effective parameter count
+  is the learning coefficient, which falls below half the parameter count
+  where the optimal set is degenerate (THEORY-087, THEORY-1253). How a
+  hyperribbon and a singular stratification relate is the owner's
+  question at U24 and is filed with that turn.
+
+## Errors in the turn
+
+A19 §5's table pairs "critical exponents" with the "rates at which
+perturbations grow or shrink under rescaling". For the Fisher eigenvalues
+the rate the record holds is b^(2y−d) per step, with the dimension d in
+it (THEORY-777), and the metric passes exactly to the coarse data only
+when the renormalized Hamiltonian stays in the family (THEORY-742). A's
+own caveat in the same section ("One should not equate stiffness and RG
+relevance in every setting") stands.
