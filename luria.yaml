@@ -709,9 +709,16 @@ vocabularies:
           split from nucleating-argument (ADR-082)
       record-as-apparatus:
         label: The record as its own apparatus
-        blurb: what an apparatus of record-keeping makes determinate, how its grammar is fixed and revised
-          through use, and inquiry as specification — the record itself as the case; split from
-          nucleating-argument (ADR-082)
+        blurb: what an apparatus of record-keeping makes determinate and how its grammar is fixed and revised
+          through use — the record itself as the case; inquiry as specification in general is learning-and-inquiry's;
+          split from nucleating-argument (ADR-082)
+      learning-and-inquiry:
+        label: Learning and inquiry
+        blurb: how a system that draws distinctions comes to learn and to inquire — distinctions relative to a
+          target and a budget, learning as the formation of a maintained capacity, distinction or channel,
+          occasioned and not guaranteed by a discrepancy it cannot resolve, and inquiry as specification that
+          can revise its own language, answers and criteria; kept apart from what a record of inquiry secures
+          (records-of-inquiry) and from the record as its own apparatus (record-as-apparatus)
       evidence-for-experience:
         label: Evidence for experience
         blurb: what could show that a system, organized, non-biological or without a cortex, has experience

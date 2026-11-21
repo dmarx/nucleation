@@ -53,6 +53,7 @@ tags:
 date: '2026-10-21'
 line:
 - pragmatic-transport
+- learning-and-inquiry
 rests_on:
 - CLAIM-342
 grounds:
