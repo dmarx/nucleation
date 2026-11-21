@@ -31,7 +31,6 @@ summary: >-
   across five stacked pull requests, reader branches the proxy would not
   delete. Five recommendations, none yet a decision.
 ---
-<!-- inactive-ok-file: CLAIM-635 — Proposed; cited as open -->
 <!-- inactive-ok-file: ADR-068 ADR-108 ADR-114 CLAIM-478 POSTMORTEM-tmpynplw — Proposed or newly filed; the decisions reviewed and the entries filed beside this -->
 
 # RETRO-tmp50h9d: The session of 2026-11-20 and 21: from an entry's life cycle to transformer depth in six stacked pull requests and a round of sixteen readings; what went right was the record as memory, the owner's challenges and reading after filing; what went wrong was claims stated before the record was searched, and a red check left unlooked-at

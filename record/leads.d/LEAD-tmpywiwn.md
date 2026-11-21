@@ -33,7 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmprwljl THEORY-tmpq3h4k CLAIM-tmpdx6l8 TERM-tmp7i7ed — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: ARG-tmp5ahr5 — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
-<!-- inactive-ok-file: CLAIM-635 THEORY-2044 CLAIM-tmpw6wkt — Proposed; the results the reading may unify -->
+<!-- inactive-ok-file: THEORY-2044 CLAIM-tmpw6wkt — Proposed; the results the reading may unify -->
 
 # LEAD-tmpywiwn: Read the two semicontraction papers, to see whether contraction with respect to a seminorm states in one theory what the record puts together from Markov retention and partial contraction, and whether its conditions say which features a restatement conserves
 

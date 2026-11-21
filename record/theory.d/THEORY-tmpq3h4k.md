@@ -19,7 +19,7 @@ summary: >-
   that semicontraction is a statement about forgetting off a kernel, not
   about what is kept on it. Proposed until its promote_when is met.
 ---
-<!-- inactive-ok-file: CLAIM-635 THEORY-2044 — Proposed; cited in the readings of 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-2044 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-tmprwljl — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # THEORY-tmpq3h4k: De Pasquale, Smith, Bullo and Valcher show that ergodicity coefficients are induced matrix seminorms and that projection and distance seminorms are dual, so one coefficient bounds both averaging and the flow of distributions, and that in systems leaving a seminorm's kernel or its complement invariant only the part off the kernel contracts, while differences along it may persist or grow

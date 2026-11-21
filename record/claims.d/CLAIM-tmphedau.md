@@ -38,7 +38,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpw6wkt CLAIM-635 CLAIM-tmpdx6l8 TERM-tmp7i7ed CLAIM-180 CLAIM-186 CLAIM-191 CLAIM-189 CLAIM-114 — Proposed; the results this extends, and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-tmpw6wkt CLAIM-tmpdx6l8 TERM-tmp7i7ed CLAIM-180 CLAIM-186 CLAIM-191 CLAIM-189 CLAIM-114 — Proposed; the results this extends, and the claims it bears on -->
 
 # CLAIM-tmphedau: In a linear Gaussian restatement step, an idea's drift from its source splits by the part of the step each feature lies in: a contracted feature drifts toward the convention and stops there, a feature copied with random error drifts undirected as the square root of the number of steps, a feature copied with a bias drifts directed and without bound, and a conserved one does not drift; a constant bias costs no retention, so drift and retention vary independently; and a feature passes a distance δ after about δ²/σ² restatements by random error, after ln(D/(D − δ))/ln(1/a) by contraction toward a convention at distance D > δ, and by contraction toward a convention nearer than δ only through noise
 

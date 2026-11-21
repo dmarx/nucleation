@@ -88,7 +88,7 @@ bears_on:
 - QUESTION-006
 ---
 <!-- inactive-ok-file: THEORY-tmpq3h4k THEORY-tmprwljl — Proposed; cited in the readings of 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-635 CLAIM-068 CLAIM-191 CLAIM-181 CLAIM-059 CLAIM-180 THEORY-2044 THEORY-2043 — Proposed; open, cited for what each holds -->
+<!-- inactive-ok-file: CLAIM-068 CLAIM-191 CLAIM-181 CLAIM-059 CLAIM-180 THEORY-2044 THEORY-2043 — Proposed; open, cited for what each holds -->
 <!-- inactive-ok-file: CLAIM-tmpw6wkt TERM-tmp7i7ed ARG-tmp5ahr5 — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
 
 # CLAIM-tmpdx6l8: Forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly: a chain that contracts everywhere except on what its steps copy without error ends keeping exactly the start's value on that conserved part, so it is anchored where the source's features lie in the part and forgets them where they do not; the record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema

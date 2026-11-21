@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpq3h4k — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpdx6l8 — Proposed, Open or Deferred; filed in this contribution of 2026-11-20 -->
-<!-- inactive-ok-file: CLAIM-635 THEORY-2044 — Proposed; the results this work may join -->
+<!-- inactive-ok-file: THEORY-2044 — Proposed; the results this work may join -->
 
 # LIT-tmpru0xs: Dual Seminorms, Ergodic Coefficients and Semicontraction Theory
 

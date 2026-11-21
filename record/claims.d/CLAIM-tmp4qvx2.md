@@ -49,7 +49,7 @@ rests_on:
 - CLAIM-635
 - CLAIM-tmpdx6l8
 ---
-<!-- inactive-ok-file: CLAIM-189 CLAIM-190 ARG-028 CLAIM-068 CLAIM-635 — Proposed or Superseded; cited for what each holds, as open -->
+<!-- inactive-ok-file: CLAIM-189 CLAIM-190 ARG-028 CLAIM-068 — Proposed or Superseded; cited for what each holds, as open -->
 <!-- inactive-ok-file: CLAIM-tmpvm90n CLAIM-tmpdx6l8 CLAIM-tmpw6wkt — Proposed; filed in this contribution of 2026-11-20 -->
 
 # CLAIM-tmp4qvx2: That an entry has stopped changing does not show what stopped it: settling is the decay of its contracted features onto the convention, and retention is the start's value on what is copied exactly, so contraction and conservation both settle an entry and are told apart only by retention against a reference fixed outside the record's later restatements, measured as a diagnostic of mechanism and not as a standard of quality

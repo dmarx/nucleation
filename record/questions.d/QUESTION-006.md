@@ -25,7 +25,7 @@ summary: >-
   keeps the criterion (§4) and one sub-question, at what stage an
   invariant stops being conserved.
 ---
-<!-- inactive-ok-file: CLAIM-tmpdx6l8 ARG-tmp5ahr5 CLAIM-635 — Proposed; filed in the contribution of 2026-11-20 on an entry's life cycle -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 ARG-tmp5ahr5 — Proposed; filed in the contribution of 2026-11-20 on an entry's life cycle -->
 
 # QUESTION-006: Which pragmatic observables are conserved, exactly or within a bounded defect, by actual reconstruction kernels, and how does that depend on frame, genre and adaptation?
 

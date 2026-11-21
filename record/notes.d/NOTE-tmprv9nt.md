@@ -23,7 +23,7 @@ summary: >-
   the kernel may persist or grow. No result says what the limit keeps of
   the start.
 ---
-<!-- inactive-ok-file: ADR-108 CLAIM-635 — Proposed; cited in the readings of 2026-11-21 -->
+<!-- inactive-ok-file: ADR-108 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpdx6l8 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
 # NOTE-tmprv9nt: De Pasquale, Smith, Bullo and Valcher — Dual seminorms and ergodic coefficients

@@ -33,7 +33,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-635 CLAIM-tmpdx6l8 — Proposed; the exact case this extends, and the claims filed with it -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 — Proposed; the exact case this extends, and the claims filed with it -->
 
 # CLAIM-tmpw6wkt: In a linear Gaussian restatement step with per-step noise, the information a feature keeps about its start falls geometrically, as a to the power 2n, where the step contracts the feature, and only as 1/n where the step copies it with error: a feature copied with any error drifts slowly instead of settling, and only a feature copied exactly keeps its start
 
