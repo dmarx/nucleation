@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Rejected
 title: 'Alternative C for the admission test of a synthesis: at filing, a synthesis worth keeping is filed as an account of its scope with no test, and the test for a claim whose premises are claims is run on it at the next synthesis review, which files what passes; nothing is turned away when it is first written down'
 version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed and ruled on the same day, before merging: the owner chose
+    alternative A (ADR-tmpi2grj) on pull request 594, "sure, go with A".
+    This alternative is kept as one not taken.
 tags:
 - record
 date: '2026-11-21'

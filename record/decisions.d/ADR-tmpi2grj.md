@@ -18,7 +18,7 @@ summary: >-
   in the curation entry. "Admit" becomes "file as a claim". The
   assistant's lean.
 ---
-<!-- inactive-ok-file: ADR-tmpoxu5i ADR-tmpkiuac — Proposed; the alternatives filed with this one -->
+<!-- inactive-ok-file: ADR-tmpoxu5i ADR-tmpkiuac — Rejected; the alternatives filed with this one and not taken -->
 
 # ADR-tmpi2grj: Alternative A for the admission test of a synthesis: the test for a claim whose premises are claims decides whether a synthesis also yields a claim, not whether it is kept; a synthesis that organizes held components is filed as an account of its own scope whether or not it yields a claim, and only a recap, a synthesis that adds nothing but labels, stays in the curation entry
 

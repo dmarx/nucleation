@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Rejected
 title: 'Alternative B for the admission test of a synthesis: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator''s summary in an exchange, keeps the existing rule and is filed only for what passes the test'
 version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Filed and ruled on the same day, before merging: the owner chose
+    alternative A (ADR-tmpi2grj) on pull request 594, "sure, go with A".
+    This alternative is kept as one not taken.
 tags:
 - record
 date: '2026-11-21'
