@@ -5,6 +5,6 @@
 ### Added
 
 - Three entries for conclusions the sweep left without one in force, on the owner's view that they "don't look useless". Each takes the kind of entry its content calls for:
-  - QUESTION-tmpss7dl asks whether a pragmatic frame takes part in determining meaning. CLAIM-109's thesis is held open, now that the route to it is rejected and the claim superseded.
-  - QUESTION-tmp4xg7u asks how common signalling is in language data under unbiased estimation. This is ARG-037's empirical question.
-  - CASE-tmpqo06u is the HKB model near its fold, an instance of CLAIM-521's dissociation. ARG-068's body computed it, and the numbers were rechecked.
+  - [QUESTION-tmpss7dl](record/questions.d/QUESTION-tmpss7dl.md) asks whether a pragmatic frame takes part in determining meaning. [CLAIM-109](record/claims.d/CLAIM-109.md)'s thesis is held open, now that the route to it is rejected and the claim superseded.
+  - [QUESTION-tmp4xg7u](record/questions.d/QUESTION-tmp4xg7u.md) asks how common signalling is in language data under unbiased estimation. This is [ARG-037](record/arguments.d/ARG-037.md)'s empirical question.
+  - [CASE-tmpqo06u](record/cases.d/CASE-tmpqo06u.md) is the HKB model near its fold, an instance of [CLAIM-521](record/claims.d/CLAIM-521.md)'s dissociation. [ARG-068](record/arguments.d/ARG-068.md)'s body computed it, and the numbers were rechecked.
