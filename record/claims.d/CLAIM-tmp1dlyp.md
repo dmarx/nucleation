@@ -41,7 +41,7 @@ bears_on:
 - QUESTION-tmp21jtb
 ---
 <!-- inactive-ok-file: LIT-tmpchmeb LIT-tmpp451l LIT-tmpyexjc LIT-tmp1b7mm LIT-tmpl2b2l — Deferred; registered from this exchange and not read -->
-<!-- inactive-ok-file: THEORY-2131 CASE-tmpi5vfh CLAIM-769 CLAIM-tmpdusls CLAIM-tmpiervv CLAIM-tmp8h6nt — Proposed or new; held readings and claims, and entries filed with this one -->
+<!-- inactive-ok-file: THEORY-2131 CASE-tmpi5vfh CLAIM-769 CLAIM-tmpdusls CLAIM-tmpiervv CLAIM-tmp8h6nt THEORY-tmp23821 — Proposed or new; held readings and claims, and entries filed with this one -->
 
 # CLAIM-tmp1dlyp: Power laws arise from many mechanisms with no positive feedback: a branching process balanced between extinction and growth, a tuned critical point, first-passage times of a random walk, a mixture of exponential rates, sample-space reduction, steady growth with a spread of ages, and an inverse power of a uniform variable
 
@@ -116,3 +116,29 @@ attachment.
   (A3 §4: "Real complex systems can combine all three").
 - Not which mechanism produced any observed tail ([CLAIM-tmp8h6nt](CLAIM-tmp8h6nt.md)).
 - Not what fixes the exponents ([QUESTION-tmp21jtb](../questions.d/QUESTION-tmp21jtb.md)).
+
+## Note of 2026-11-21: Mitzenmacher, read
+
+Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
+THEORY-tmp23821) **corroborates item 6** and **finds two omissions**.
+
+- **Item 6.** §7: a lognormal of mean 0 and variance t, stopped at an
+  exponential time of rate λ, has density ∝ x^(−1−√(2λ)) above 1 and
+  x^(−1+√(2λ)) below, Reed's double Pareto. That is item 6 with zero
+  drift instead of a common rate g, and with the exponent then set by the
+  variance against the stopping rate. Checked by the filer (python3 -I):
+  the integral at λ = ½ gives 0.00500 and 0.0000500 at x = 10 and 100,
+  against √(λ/2)·x^(−1−√(2λ)).
+- **Left out: random typing.** Miller's monkeys (§6), typing letters and a
+  space at random, give Zipf's law in word frequencies with no feedback,
+  no criticality and no optimization: with equal letter probabilities the
+  frequency of a word falls as a power of its rank. It belongs on this
+  list.
+- **Left out: optimization.** Mandelbrot's derivation (§4), minimizing the
+  cost per unit of information of a code, gives a power law in rank;
+  Carlson and Doyle's highly optimized tolerance is cited as a modern
+  version. No positive feedback is involved, though an optimizer is.
+
+The catalogue is A's and does not claim completeness ("What it does not
+say"), so these are additions, not defeaters. THEORY-tmp23821
+`corroborates` this claim. Status unchanged.

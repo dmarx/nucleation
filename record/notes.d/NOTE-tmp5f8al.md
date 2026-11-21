@@ -1,0 +1,83 @@
+---
+status: Skimmed
+paper: LIT-tmpxru3g
+title: 'Paul, Asymptotics of sample eigenstructure for a large dimensional spiked covariance model, read for the eigenvector overlap'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 by a delegated reader, as a supplement to the BBP
+    paper (NOTE-tmpggv08), from the journal's open site
+    (www3.stat.sinica.edu.tw/statistica/oldpdf/A17n418.pdf): §1 and the
+    statements of §2.1–2.4, Theorems 1–4 among them. The proofs and the
+    second-order results were not read, hence Skimmed. Running notes on the
+    branch claude/readers/lit-tmpipm3o. The quotations and Theorem 4's
+    statement rechecked by the filer against the downloaded text.
+date: '2026-11-21'
+summary: >-
+  Real Gaussian spiked covariance, N/n → γ ∈ (0, 1): above 1 + √γ a simple
+  spike's sample eigenvector has squared overlap
+  (1 − γ/(ℓ − 1)²)/(1 + γ/(ℓ − 1)) with the true one, almost surely, and at
+  or below it the overlap tends to zero. The source of the eigenvector
+  clause the record's spiked-matrix entries state.
+---
+<!-- inactive-ok-file: THEORY-tmp6808g CLAIM-tmp5y856 CASE-tmp59xy5 ARG-tmpnwmcr — Proposed; the reading and the entries it bears on -->
+
+# NOTE-tmp5f8al: Paul, Asymptotics of sample eigenstructure for a large dimensional spiked covariance model, read for the eigenvector overlap
+
+## Contribution
+
+For the real Gaussian spiked covariance model, the limits and a central
+limit theorem for the outlying sample eigenvalues, and the phase transition
+of the sample eigenvectors with its exact overlap. The reading is
+THEORY-tmp6808g.
+
+## Key results
+
+- **Model** (§1–2). Real Gaussian observations N(0, Σ), Σ =
+  diag(ℓ_1, …, ℓ_M, 1, …, 1), S = (1/n)XXᵀ, N/n → γ ∈ (0, 1).
+- **Eigenvalues** (Theorems 1–2). At or below 1 + √γ the sample eigenvalue
+  tends to the edge (1 + √γ)²; above, to ℓ(1 + γ/(ℓ − 1)). A Gaussian law
+  for a simple spike's outlier (Theorem 3).
+- **Eigenvectors** (Theorem 4, p. 1622). If ℓ_ν > 1 + √γ and simple,
+  |⟨p_ν, e_ν⟩| → √((1 − γ/(ℓ_ν − 1)²)/(1 + γ/(ℓ_ν − 1))) almost surely;
+  if ℓ_ν ≤ 1 + √γ, ⟨p_ν, e_ν⟩ → 0.
+- **Prior statement** (§2): Hoyle and Rattray (2004) "described a phase
+  transition phenomenon in the asymptotic behavior of the angle between
+  the true and estimated eigenvector", which "They term … 'the phenomenon of
+  retarded learning'".
+
+## Assumptions
+
+Real Gaussian data, mean zero; finitely many fixed spikes; fewer variables
+than samples (γ < 1); a simple spike for the eigenvector result.
+
+## Concepts
+
+Spiked covariance model; sample eigenvector inconsistency; the eigenvector
+phase transition; retarded learning (Hoyle and Rattray).
+
+## Connections
+
+With β = ℓ − 1, Theorem 4's squared overlap is (1 − γ/β²)/(1 + γ/β), the
+formula of CASE-tmp59xy5 and the eigenvector clause of CLAIM-tmp5y856.
+Benaych-Georges and Nadakuditi (LIT-tmp1q78e) give the same overlap for an
+additive rank-one perturbation, by another model. Baik and Silverstein
+(LIT-tmpjtw0k) note that Paul obtained their eigenvalue limits for real
+Gaussian samples with γ < 1. Physicists had the phase transition first,
+by heuristic methods (Hoyle and Rattray, not registered).
+
+## Bearing on the record
+
+- **CLAIM-tmp5y856** (grounds the eigenvector clause): "only then does its
+  eigenvector carry information about v" is Theorem 4, not BBP.
+  ARG-tmpnwmcr.
+- **CASE-tmp59xy5** (gives its overlap formula, for the covariance-spike
+  reading of the case); the case's ±1 mixture is strictly
+  Benaych-Georges and Nadakuditi's model, which gives the same formula.
+
+## Limitations
+
+γ < 1 only; real Gaussian data only; a simple spike; the second-order
+eigenvector results were not read here.

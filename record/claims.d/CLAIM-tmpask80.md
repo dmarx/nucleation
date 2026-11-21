@@ -26,11 +26,11 @@ line:
 answers:
 - QUESTION-tmp2hhlc
 grounds:
-- LIT-tmp7sbn6
 - LIT-tmpe6jga
 - LIT-tmpkvpg4
 - THEORY-2041
 - THEORY-1431
+- THEORY-tmpr5fuq
 summary: >-
   A's answer, at A15 §1–§9 of the exchange "Rich Get Richer Power Laws",
   to whether criticality is good for computation: it "may change what
@@ -39,8 +39,9 @@ summary: >-
   colleagues' capacity bound, a finite-window study, and a three-way
   tradeoff of sensitivity, reliability and speed; scale-free memory helps
   only if the environment has correlations across scales, and large
-  cascades help only if they keep inputs distinguishable. The works are
-  unread. A's illustrative mechanism, a memory–noise tradeoff in a scalar
+  cascades help only if they keep inputs distinguishable. Dambre and
+  colleagues' paper was read on 2026-11-21 (see the dated note); the other
+  works are unread. A's illustrative mechanism, a memory–noise tradeoff in a scalar
   linear model, does not hold as stated ([CLAIM-tmpd1shn](CLAIM-tmpd1shn.md)), though the
   conclusion survives. The wording is A's (the other assistant in the
   exchange "Rich Get Richer Power Laws", A15); adopting it is the owner's
@@ -51,7 +52,8 @@ bears_on:
 - QUESTION-tmp2hhlc
 ---
 <!-- inactive-ok-file: CLAIM-tmpd1shn ARG-tmpubyzo — filed with this claim from the same exchange, Open or Proposed -->
-<!-- inactive-ok-file: LIT-tmp7sbn6 LIT-tmpe6jga LIT-tmpkvpg4 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpe6jga LIT-tmpkvpg4 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpr5fuq ARG-tmp53559 — Proposed; the reading of Dambre and colleagues and its argument, 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-769 CLAIM-626 — Proposed, bearing on the claim -->
 
 # CLAIM-tmpask80: Nearness to a dynamical transition changes what a system computes well rather than raising every computational ability: memory and separation, sensitivity, reliability and speed pull apart, total capacity is bounded by the number of independent state variables, and the best distance from the transition depends on the task, the integration window and the correlations of the environment
@@ -71,8 +73,8 @@ A15 gives five strands, each A's unless a work is named.
    specified conditions, a reservoir's total information-processing
    capacity is bounded by its number of independent state variables.
    Different dynamical regimes can redistribute that capacity between
-   linear memory and nonlinear transformations" (A15 §3; [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md),
-   unread).
+   linear memory and nonlinear transformations" (A15 §3; LIT-tmp7sbn6,
+   read 2026-11-21, THEORY-tmpr5fuq; see the dated note).
 3. **Sensitivity, reliability, speed.** Near criticality susceptibility,
    fluctuations and relaxation time all grow, so "exactly critical may not
    be exactly optimal" (A15 §6). A finite integration window moves the
@@ -126,3 +128,35 @@ criticality depends on what the system needs to accomplish.**"
 - Not that brains are critical. A15 §5 calls the evidence "contested",
   and the record holds only that 1/f structure does not discriminate
   mechanism ([CLAIM-692](CLAIM-692.md)).
+
+## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
+
+Dambre and colleagues' paper (LIT-tmp7sbn6) was read in full with its
+supplement (NOTE-tmpkp5gf; the reading is THEORY-tmpr5fuq). It **supports
+strand 2** and **qualifies the thesis** (ARG-tmp53559).
+
+- **Strand 2 holds, with its conditions stated.** The total is bounded by
+  the number N of observed variables for i.i.d. input, a linear readout and
+  infinite data (Theorem 4), and equals N when the system also has fading
+  memory and N linearly independent variables (Theorem 7). Input scaling
+  moves capacity between linear memory and nonlinearity (Fig. 3).
+- **Stronger than the claim on the total.** C_TOT "remains close to N up
+  to the bifurcation point of the undriven system and then drops off
+  rapidly" (Fig. 1). For this measure nearness to the edge cannot raise
+  total capacity and crossing it loses some. That is more than "does not
+  raise every ability".
+- **Not shown: allocation against distance from the transition.** The
+  paper's redistributing "regimes" are input scalings and sampling periods
+  at a fixed spectral radius near the edge, not distances from it. The
+  thesis's use of strand 2 for distance rests on CLAIM-tmpd1shn and the
+  other strands.
+- **Which edge.** The paper's edge is the undriven system's loss of linear
+  stability, marginal stability, not a collective critical point, as the
+  section "Marginal stability is not criticality" already says of the
+  scalar model. The paper's one remark about the edge's value is an
+  assumption carried in from Langton.
+- **The defeater is safe.** `defeated_if`'s second clause, a reservoir with
+  fading memory whose capacity is not bounded by its state variables,
+  cannot be met: Theorem 4 bounds every system.
+
+THEORY-tmpr5fuq replaces LIT-tmp7sbn6 in `grounds`. Status unchanged.

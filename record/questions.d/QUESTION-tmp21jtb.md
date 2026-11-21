@@ -20,7 +20,7 @@ summary: >-
   (the other assistant in the exchange "Rich Get Richer Power Laws", A5);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp1dlyp CLAIM-tmply70l CLAIM-tmpiervv CLAIM-tmpdusls CLAIM-tmp8h6nt CLAIM-769 THEORY-2141 — Proposed or new; claims filed from the same exchange and held claims and readings that give exponents -->
+<!-- inactive-ok-file: CLAIM-tmp1dlyp CLAIM-tmply70l CLAIM-tmpiervv CLAIM-tmpdusls CLAIM-tmp8h6nt CLAIM-769 THEORY-2141 THEORY-tmp23821 — Proposed or new; claims filed from the same exchange and held claims and readings that give exponents -->
 
 # QUESTION-tmp21jtb: What fixes the exponent a given mechanism for a power law produces: geometry, dimension, a balance of growth against loss, or the distribution of an underlying parameter?
 
@@ -69,3 +69,24 @@ A derivation showing that a broad class of mechanisms gives tail
 exponents as the root of a balance equation, as Kesten's does, with the
 class's boundary stated. Or a counterexample: a non-critical mechanism
 whose exponent is not such a root.
+
+## Note of 2026-11-21: Mitzenmacher, read
+
+Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
+THEORY-tmp23821) **bears on** the question with three exponent formulas,
+each a balance, which is evidence for the partial pattern above:
+
+- preferential attachment with a uniform share α: density exponent
+  (2 − α)/(1 − α), set by the mix of uniform and proportional choice (§3);
+- a lognormal stopped at an exponential time of rate λ: 1 + √(2λ), set by
+  the stopping rate against the variance (§7);
+- Champernowne's floor: the cumulative exponent is 1, the root of
+  (2/3)·2^(−κ) + (1/3)·2^κ = 1 from the up and down probabilities, though
+  the paper does not write the equation (§5.1).
+
+None is a counterexample of the kind "What would answer it" asks for. The
+second is also a root of a balance, though the paper does not put it so:
+κ = √(2λ) solves κ²/2 = λ, the growth rate of E[X_t^κ] for the
+zero-drift log-walk set equal to the stopping rate (the filer's
+reading, from the paper's integral). THEORY-tmp23821 `bears_on`
+this question.

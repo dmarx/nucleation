@@ -1,0 +1,86 @@
+---
+status: Proposed
+title: "Dambre and colleagues' theorems support the claim that total capacity is bounded by the number of independent state variables and redistributed by the dynamical regime, but their edge is linear stability and their sweep is input scaling, not distance from a transition"
+version: 1
+form: source
+grounds:
+- THEORY-tmpr5fuq
+concludes:
+- CLAIM-tmpask80
+tags:
+- complex-systems
+- information-theory
+date: '2026-11-21'
+line:
+- formal-apparatus
+summary: >-
+  CLAIM-tmpask80, after A15, rests its strand 2 on Dambre and colleagues:
+  total information-processing capacity "is bounded by its number of
+  independent state variables", and "different dynamical regimes can
+  redistribute that capacity between linear memory and nonlinear
+  transformations". Read (THEORY-tmpr5fuq), the paper supports both, and
+  more strongly than stated: the total is constant at N in the
+  fading-memory regime and falls past the stability edge, so it cannot
+  rise near it. It does not show the redistribution moving with distance
+  from a transition, which is what the claim's thesis uses it for, and its
+  edge is marginal stability. Support for strand 2, qualified for the
+  thesis. The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-tmpask80 CLAIM-tmpd1shn ARG-tmpubyzo THEORY-tmpr5fuq — Proposed; the claim and the reading this argument joins -->
+
+# ARG-tmp53559: Dambre and colleagues' theorems support the claim that total capacity is bounded by the number of independent state variables and redistributed by the dynamical regime, but their edge is linear stability and their sweep is input scaling, not distance from a transition
+
+## The inference
+
+Strand 2 of CLAIM-tmpask80 quotes A15 §3: "under specified conditions, a
+reservoir's total information-processing capacity is bounded by its number
+of independent state variables. Different dynamical regimes can
+redistribute that capacity between linear memory and nonlinear
+transformations." The claim uses this for its thesis that nearness to a
+transition changes what is computed well rather than raising every
+ability.
+
+## Critical questions (source)
+
+**Does the work say this, read in context?** Yes. Theorem 4: "in the limit
+of an infinite data set T → ∞, the sum of the capacities for these
+functions is bounded by the number N of output functions". Theorem 7: with
+fading memory and linearly independent variables the sum "tends towards
+the number N of output functions". Fig. 3: "on one end of the scale they
+store the information but then are linear, while on the other end they
+immediately process the input in a highly non-linear way, but then have
+small linear memory." The "specified conditions" are, for the bound,
+i.i.d. input, a linear readout, finite fourth moments and infinite data;
+for equality, fading memory and full rank as well.
+
+**Is it said within the scope the claim needs?** Partly.
+- The paper is stronger than the claim on the total: C_TOT "remains close
+  to N up to the bifurcation point of the undriven system and then drops
+  off rapidly" (Fig. 1). For this measure, nearness to the edge cannot
+  raise total capacity and crossing it loses some.
+- The "regimes" that redistribute capacity are input scalings ι (at
+  spectral radius 0.95 for the network, 2.5 for the logistic map) and
+  sampling periods, not distances from the edge. The claim's thesis needs
+  the allocation as a function of distance from a transition; the paper
+  does not report it.
+- The "edge" is the undriven system's loss of linear stability (spectral
+  radius 1; the logistic map's bifurcation), marginal stability, not a
+  collective critical point. The paper takes the edge's value as an
+  assumption, citing Langton: "a region in which the most useful
+  processing often occurs".
+
+**Does the claim lean on the reading for more than it holds?** For strand
+2 as worded, no. For the thesis, the paper shows that total capacity is
+fixed and that something (input scaling) redistributes it, which makes the
+thesis possible; that distance from a transition is one such redistributor
+rests on the scalar case (CLAIM-tmpd1shn, ARG-tmpubyzo) and on the claim's
+other strands.
+
+## Verdict
+
+Support for strand 2 and for the bound clause of the title; a
+qualification of the thesis, recorded in a dated note on CLAIM-tmpask80.
+THEORY-tmpr5fuq replaces LIT-tmp7sbn6 in the claim's grounds. The claim's
+`defeated_if` clause on the bound is safe: Theorem 4 bounds every system,
+with or without fading memory.

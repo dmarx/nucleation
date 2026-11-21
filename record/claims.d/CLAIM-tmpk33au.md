@@ -26,8 +26,6 @@ rests_on:
 bears_on:
 - QUESTION-tmpvu6cb
 - QUESTION-tmpseqwl
-grounds:
-- LIT-tmpipm3o
 summary: >-
   Fills a gap the ledgers of the exchange "Rich Get Richer Power Laws"
   flagged across A32, A33 and A35 (answering U19 and U21): an entailment
@@ -38,9 +36,12 @@ summary: >-
   ordering mode becomes spectrally visible before the bifurcation, an early
   warning. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
+grounds:
+- THEORY-tmp4zojc
+- THEORY-tmp0zr7o
 ---
 <!-- inactive-ok-file: CLAIM-tmpqqngq CLAIM-tmp5y856 ARG-tmpwo5ou — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: LIT-tmpipm3o — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
+<!-- inactive-ok-file: THEORY-tmp4zojc THEORY-tmp0zr7o THEORY-tmp0covn ARG-tmpe2vrk ARG-tmpvalfs ARG-tmppdhhb — Proposed; the readings and arguments of 2026-11-21 -->
 
 # CLAIM-tmpk33au: The occupancy threshold of a cone holding a fixed share of random directions, the BBP threshold and the alignment bifurcation are three different thresholds on one scale of alignment strength: the first at κ of order √D, the second at κ = √D·(D/N)^(1/4), the third at a coupling of order D; only the last is a transition of the system, and in the mean-field alignment model the ordering mode becomes BBP-detectable at coupling D/(1 + √(D/N)), an early warning before the bifurcation at D
 
@@ -148,7 +149,10 @@ Computed in this session (python3 -I, numpy, scipy):
   magnitude near the bifurcation, is what the claim uses.
 
 The spiked-covariance threshold and formulas are Baik, Ben Arous and
-Péché's ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md)), which is Deferred: registered, not read. The checks
+Péché's (LIT-tmpipm3o), read on 2026-11-21; for the mean-shift step the
+theorem that applies is Benaych-Georges and Nadakuditi's (LIT-tmp1q78e), and
+for the precursor Baik and Silverstein's (LIT-tmpjtw0k): see the note of
+2026-11-21 below. The checks
 above compare simulated outliers with the formulas directly, so they do not
 depend on the work.
 
@@ -162,3 +166,27 @@ depend on the work.
 - Not that the hyperbolic entailment cones of [THEORY-189](../theory.d/THEORY-189.md) have the √D
   aperture threshold: the cone here is a spherical cap about the origin
   ([ARG-tmpwo5ou](../arguments.d/ARG-tmpwo5ou.md)).
+
+## Note of 2026-11-21: Baik, Ben Arous and Péché, read
+
+The BBP paper (LIT-tmpipm3o, read in NOTE-tmpggv08; THEORY-tmp0covn)
+**qualifies** this claim's attribution; its result stands.
+
+- **The mean-shift step is not BBP's.** BBP centres the sample covariance
+  by the sample mean ("the (centered) N × M sample matrix"), which would
+  remove a mean shift, and its samples are complex Gaussian. PCA on the
+  uncentred second moment of N samples of N(cμ, I) sees cμ1ᵀ + E, a
+  rank-one additive perturbation of singular value θ = c (after dividing
+  by √N). Benaych-Georges and Nadakuditi's §3.1 (LIT-tmp1q78e,
+  THEORY-tmp4zojc) gives the threshold θ > γ^(1/4), so
+  **κ_BBP = √D·(D/N)^(1/4) stands, on that theorem**, and the outlier
+  (1 + c²)(1 + γ/c²) matches the check above (ARG-tmpe2vrk). The name "BBP
+  threshold" is the field's and can stay.
+- **The precursor** treats the ordering mode below K = D as a covariance
+  spike in real data, which is Baik and Silverstein's real-case theorem
+  (LIT-tmpjtw0k, THEORY-tmp0zr7o; ARG-tmpvalfs).
+- **Scope.** §3.1 states D ≤ N; the claim's "later when N ≪ D" lies beyond
+  what was read.
+
+LIT-tmpipm3o leaves `grounds` for THEORY-tmp4zojc and THEORY-tmp0zr7o
+(ARG-tmppdhhb); THEORY-tmp0covn corroborates.

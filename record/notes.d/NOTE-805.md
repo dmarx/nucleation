@@ -232,3 +232,11 @@ transitions of Mondelli and Montanari (2019) and Lu and Li (2020).
 - What happens when directions interact (non-separable link, odd
   components)? Then G(y) is not diagonal, and the order need not follow
   a_k.
+
+## Note of 2026-11-21: Baik, Ben Arous and Péché, read
+
+A **parallel**, no edge. The spiked-matrix transition that the
+"BBP-type weak-recovery transitions" are named after is now read
+(LIT-tmpipm3o, NOTE-tmpggv08): a threshold in an estimator's top
+eigenvalue, with the eigenvector overlap vanishing below it (Paul,
+LIT-tmpxru3g).

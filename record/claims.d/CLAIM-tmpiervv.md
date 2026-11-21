@@ -19,7 +19,6 @@ line:
 - formal-apparatus
 grounds:
 - LIT-tmpx9axf
-- LIT-tmpwdtfj
 - THEORY-696
 summary: >-
   A's, from A3 §2 and §4 of the exchange "Rich Get Richer Power Laws"
@@ -38,7 +37,7 @@ bears_on:
 - QUESTION-tmp21jtb
 ---
 <!-- inactive-ok-file: LIT-tmpx9axf — Deferred; registered from this exchange and not read -->
-<!-- inactive-ok-file: CLAIM-tmply70l CLAIM-tmp1dlyp CLAIM-tmp8h6nt — Proposed or new; claims filed with this one from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmply70l CLAIM-tmp1dlyp CLAIM-tmp8h6nt THEORY-tmp23821 ARG-tmpk3nh6 — Proposed or new; claims filed with this one from the same exchange, and the reading and argument of 2026-11-21 -->
 
 # CLAIM-tmpiervv: Multiplicative growth with independent, identically distributed returns gives a lognormal cross-section, not a power law, but the same growth with an additive floor gives a stationary power-law tail whose exponent κ solves E[A^κ] = 1, even when the process contracts on average
 
@@ -101,3 +100,40 @@ process with neither gives a lognormal that only widens.
 - Not the conditions in full. Kesten's theorem needs more than A states
   (see `defeated_if`), and they were not checked against the paper, which
   is unread.
+
+## Note of 2026-11-21: Mitzenmacher, read
+
+Mitzenmacher's review (LIT-tmpwdtfj) was read in full (NOTE-tmp0rhkc;
+the reading is THEORY-tmp23821). It **corroborates** the claim and
+**qualifies** its floor; it is not a ground for the Kesten half.
+
+- **Supports the lognormal half.** "if the ln Fk are independent and
+  identically distributed variables with finite mean and variance, then
+  asymptotically Xj will approach a lognormal distribution" (§5, p. 236).
+- **Supports a floor turning it into a power law, in another form.** "As
+  long as there is a bounded minimum that acts as a lower reflective
+  barrier to the multiplicative model, it will yield a power law instead
+  of a lognormal distribution" (§5.1, p. 238). The paper's floor is a
+  **reflecting barrier**, a minimum income below which one cannot fall,
+  not Kesten's additive B. The title's "additive floor" is one kind of
+  floor; a reflecting minimum is another, and either stops log W from
+  drifting to −∞. The section "Not mutually exclusive, made concrete"
+  above should be read with both.
+- **Does not state the exponent or the conditions.** Neither
+  E[A^κ] = 1 nor Kesten's conditions appear; the paper defers to Kesten
+  (1973) and Gabaix (1999). Its Champernowne example (F = 1/2 with
+  probability 2/3, 2 with probability 1/3, a lowest class) instantiates
+  the equation, though the paper does not say so: (2/3)·2^(−κ) +
+  (1/3)·2^κ = 1 at κ = 1, its Pr[X ≥ x] = m/x, with E[ln F] = −0.231 < 0
+  and E[F] = 1. Checked by the filer (python3 -I): two million steps of
+  the chain with its floor give Pr[class ≥ k] = 0.500, 0.251, 0.063 and
+  0.0079 at k = 2, 3, 5 and 8, against 2^(−(k−1)).
+- **The three-way account.** §8 names two of this claim's routes, "once
+  the observation time is random or a lower boundary is put into effect";
+  the random observation time is the entry route (§7, Reed's double
+  Pareto).
+
+So LIT-tmpwdtfj leaves this claim's `grounds` and THEORY-tmp23821
+`corroborates` it (ARG-tmpk3nh6). The Kesten half still rests on Kesten
+(LIT-tmpx9axf), unread, and the "What it does not say" caveat on the
+conditions stands. Status unchanged.

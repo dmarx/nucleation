@@ -5,8 +5,6 @@ version: 1
 form: existence
 rests_on:
 - CLAIM-tmpd1shn
-grounds:
-- LIT-tmp7sbn6
 concludes:
 - CLAIM-tmpask80
 tags:
@@ -25,9 +23,11 @@ summary: >-
   the memory–noise tradeoff A gave as the mechanism. Proposed, as support
   for the possibility clause only. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
+grounds:
+- THEORY-tmpr5fuq
 ---
 <!-- inactive-ok-file: CLAIM-tmpd1shn CLAIM-tmpask80 — filed with this argument from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmp7sbn6 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpr5fuq ARG-tmpr04sw ARG-tmp53559 — Proposed; the reading of Dambre and colleagues and the arguments of 2026-11-21 -->
 
 # ARG-tmpubyzo: The scalar linear reservoir is an exactly solved instance of nearness to a transition redistributing a bounded computational capacity rather than raising it, though not by the memory-noise tradeoff the exchange gives
 
@@ -61,10 +61,42 @@ stability, not a collective critical point.
 
 - **Not the generality.** One linear scalar case cannot show that every
   system near every transition redistributes rather than raises. That
-  rests on Dambre and colleagues' bound ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md)), unread, whose
-  conditions (fading memory, i.i.d. input) the record has not checked.
+  rests on Dambre and colleagues' bound (LIT-tmp7sbn6), whose conditions
+  were unchecked when this argument was filed. (Revised 2026-11-21, after
+  the reading: see the note of that date below. The generality holds for
+  the total, not for how the allocation moves with distance from the
+  edge.)
 - **Not A's mechanism.** A gives the reason as a memory–noise tradeoff.
   In this model there is none: noise and input share one filter, and with
   readout noise capacity rises monotonically toward the edge. The
   task-dependence comes from the allocation across lags. If [CLAIM-tmpask80](../claims.d/CLAIM-tmpask80.md)
   is adopted, its reason should be that one.
+
+## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
+
+Dambre and colleagues' paper (LIT-tmp7sbn6) was read in full with its
+supplement (NOTE-tmpkp5gf; the reading is THEORY-tmpr5fuq). It **supports**
+this argument and **closes the gap** its "What it does not show" named.
+
+- **The conditions, checked.** The bound (Theorem 4) needs only i.i.d.
+  input, a linear readout, finite fourth moments and infinite data; it
+  holds without fading memory. Fading memory, with N linearly independent
+  variables and a complete basis, is the condition for **equality**
+  (Theorem 7). Noise is counted as a further input: the theorem holds over
+  functions of all inputs, and the capacities for the signal alone sum to
+  less. As first filed, this argument named the conditions "(fading
+  memory, i.i.d. input)", which ran the two together.
+- **Not merely analogous.** CLAIM-tmpd1shn is a case of Theorem 7, with N =
+  1 and η as the second input (ARG-tmpr04sw).
+- **How general.** "Raises nothing in total" holds for every fading-memory
+  system with N independent observed variables: their total is N
+  throughout that regime, and the paper finds it falling past the
+  undriven system's stability edge (Fig. 1). How the allocation moves with
+  distance from the edge is not studied: the paper sweeps input scaling at
+  a fixed spectral radius. So the argument's conclusion is general for the
+  total and still rests on the scalar case for the allocation.
+- **Which edge.** The paper's edge is linear stability, as this argument
+  already says of a = 1.
+
+THEORY-tmpr5fuq replaces LIT-tmp7sbn6 in `grounds`. ARG-tmp53559 gives the
+paper's direct bearing on CLAIM-tmpask80. Status unchanged.

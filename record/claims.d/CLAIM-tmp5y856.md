@@ -22,10 +22,11 @@ bears_on:
 - QUESTION-tmpvu6cb
 grounds:
 - CASE-tmp59xy5
-- LIT-tmpipm3o
 - LIT-tmpfmeic
 - LIT-tmpevgqj
 - LIT-tmpk5ull
+- THEORY-tmp0zr7o
+- THEORY-tmp6808g
 summary: >-
   A31 and A32 §1–§4, §6 and §7 of the exchange "Rich Get Richer Power
   Laws" (2026-11-21). Concentration "can happen without learning";
@@ -37,7 +38,8 @@ summary: >-
   the exchange "Rich Get Richer Power Laws", A31 and A32); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp59xy5 CLAIM-tmpk33au CLAIM-tmp8mvx8 LIT-tmpipm3o LIT-tmpfmeic LIT-tmpevgqj LIT-tmpk5ull THEORY-078 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: THEORY-tmp0covn THEORY-tmp0zr7o THEORY-tmp6808g THEORY-tmp4zojc ARG-tmppdhhb ARG-tmpvalfs ARG-tmpnwmcr — Proposed; the readings and arguments of 2026-11-21 -->
+<!-- inactive-ok-file: CASE-tmp59xy5 CLAIM-tmpk33au CLAIM-tmp8mvx8 LIT-tmpfmeic LIT-tmpevgqj LIT-tmpk5ull THEORY-078 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 
 # CLAIM-tmp5y856: Geometric separation, decodability and spectral detectability are distinct qualities of a learned representation that need not agree: a semantic direction can be decodable while related points are almost orthogonal, and a covariance spike yields a PCA outlier only above the BBP threshold √(D/N), which marks when that estimator can see the signal, not when the network acquired it
 
@@ -52,7 +54,10 @@ become distinguishable from the random background").
 For a spiked covariance Σ = I + βvvᵀ estimated from N samples at γ = D/N, the
 top sample eigenvalue separates from the Marchenko–Pastur bulk only for
 β > β_c = √γ, opening as (β − √γ)²/β, and only then does its eigenvector
-carry information about v ([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), Deferred: registered, not read).
+carry information about v (the BBP transition, LIT-tmpipm3o, read 2026-11-21:
+the eigenvalue for complex data; the real case is Baik and Silverstein's,
+LIT-tmpjtw0k, and the eigenvector clause Paul's, LIT-tmpxru3g; see the note
+of 2026-11-21 below).
 A32 §2: "This is not necessarily the moment when the network first learns
 anything. The signal existed below the threshold. Rather, it is the moment
 when that signal becomes detectable by this particular spectral estimator", a
@@ -100,3 +105,30 @@ decodability.
   learner with labels faces a different estimation problem" (A32 §4).
 - N here is the number of probe samples on which PCA is run, not the
   amount of training data; see [CLAIM-tmp8mvx8](CLAIM-tmp8mvx8.md).
+
+## Note of 2026-11-21: Baik, Ben Arous and Péché, read
+
+The BBP paper (LIT-tmpipm3o) was read (NOTE-tmpggv08; the reading is
+THEORY-tmp0covn), with three works beside it. It **supports the threshold**
+and **qualifies the attribution**.
+
+- **Supported.** Corollary 1.1 gives the threshold β > √γ and the outlier
+  (1 + β)(1 + γ/β) in this claim's notation (γ_BBP⁻¹ = √γ, ℓ = 1 + β); the
+  opening (β − √γ)²/β is (1 + β)(1 + γ/β) − (1 + √γ)² by algebra. BBP's
+  "phase transition" is a change in the law of the top eigenvalue, from
+  Tracy–Widom fluctuations of order M^(−2/3) to Gaussian-type ones of
+  order M^(−1/2): a transition of an estimator, which fits A32's
+  "spectral detectability transition, not automatically a thermodynamic or
+  dynamical critical point".
+- **Re-attributed.** BBP proves it for complex Gaussian samples, with at
+  least as many samples as variables, and only for the largest
+  eigenvalue; the real case is its "Conjecture". For real data, this
+  claim's setting, the threshold and location are Baik and Silverstein's
+  (LIT-tmpjtw0k, THEORY-tmp0zr7o). "Only then does its eigenvector carry
+  information about v" and the overlap are Paul's Theorem 4
+  (LIT-tmpxru3g, THEORY-tmp6808g), with Benaych-Georges and Nadakuditi's
+  (10) for the additive model (LIT-tmp1q78e, THEORY-tmp4zojc).
+
+LIT-tmpipm3o leaves `grounds` (ARG-tmppdhhb), and THEORY-tmp0zr7o and
+THEORY-tmp6808g join it (ARG-tmpvalfs, ARG-tmpnwmcr); THEORY-tmp0covn and
+THEORY-tmp4zojc corroborate. The claim's content is unchanged.

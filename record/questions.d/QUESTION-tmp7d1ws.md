@@ -22,6 +22,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-521 CLAIM-tmpcg4uu LIT-tmpnbl2d — Proposed or new, or a Deferred work registered from the exchange and not yet read -->
+<!-- inactive-ok-file: THEORY-tmp0covn THEORY-tmp0zr7o CLAIM-tmp8mvx8 — Proposed; readings and a claim of 2026-11-21 cited in the dated note -->
 
 # QUESTION-tmp7d1ws: What replaces singular learning theory's fixed-dimension asymptotics, n → ∞ with the parameter count held fixed, when width or parameter count grows in proportion to the data, and does a learning coefficient estimated in that regime still measure the singular geometry?
 
@@ -60,3 +61,15 @@ shows that none of singular-learning form exists. For part 2, a model in
 which both the coefficient and the stratum structure are known, run at
 several widths with d/n fixed, showing whether the estimate tracks the
 stratum.
+
+## Note of 2026-11-21: Baik, Ben Arous and Péché, read
+
+**Background.** The proportional-limit result this question cites, the
+spiked-covariance threshold β = √γ with γ = D/N, is now read: BBP prove it
+for complex Gaussian samples with D ≤ N (LIT-tmpipm3o, NOTE-tmpggv08;
+THEORY-tmp0covn), and Baik and Silverstein for real samples at any γ
+(LIT-tmpjtw0k; THEORY-tmp0zr7o). Both hold the number of spikes fixed as
+D, N → ∞: a proportional limit in which the signal's rank does not grow.
+That is the regime the question asks about only if the learned structure
+stays finite-rank, which CLAIM-tmp8mvx8's row 5 shows can fail. The
+readings `bear_on` the question as background, not as an answer.

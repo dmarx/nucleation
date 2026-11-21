@@ -15,8 +15,6 @@ rests_on:
 - CLAIM-tmp5y856
 bears_on:
 - QUESTION-tmpvu6cb
-grounds:
-- LIT-tmpipm3o
 summary: >-
   A32 §5 of the exchange "Rich Get Richer Power Laws" (2026-11-21): with
   spikes β_j = C j^(−α), applying the BBP threshold to each gives
@@ -28,8 +26,10 @@ summary: >-
   check shows where it fails. The wording is A's (the other assistant in
   the exchange "Rich Get Richer Power Laws", A32); adopting it is the
   owner's call.
+grounds:
+- THEORY-tmp0zr7o
 ---
-<!-- inactive-ok-file: LIT-tmpipm3o — Deferred, registered 2026-11-21 from the exchange "Rich Get Richer Power Laws", unread -->
+<!-- inactive-ok-file: THEORY-tmp0zr7o THEORY-tmp0covn ARG-tmpvalfs ARG-tmppdhhb — Proposed; the readings and arguments of 2026-11-21 -->
 
 # CLAIM-tmp8mvx8: If learned signal strengths fall as a power law in rank, the number of directions PCA can separate from the noise bulk grows as a power of the sample-to-dimension ratio and of the signal gain, a cascade of detectability thresholds and not a self-organized critical process, and the power law then belongs to the hierarchy of signal strengths, not to the spectrum, whose bulk with a few outliers is no heavy tail
 
@@ -77,7 +77,8 @@ invisible, so the formula overcounts near threshold even in the sparse
 regime (rows 1 and 3).
 
 The threshold the count applies is Baik, Ben Arous and Péché's
-([LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md)), which is Deferred: registered, not read. The simulation
+(LIT-tmpipm3o), read on 2026-11-21; the count of several outliers is Baik
+and Silverstein's (LIT-tmpjtw0k): see the note of 2026-11-21 below. The simulation
 counts outliers directly against the edge of the noise bulk, so the check
 does not depend on the work.
 
@@ -90,3 +91,26 @@ does not depend on the work.
   g(t); more probe samples change γ. They are different levers.
 - **Sparse regime only.** A hierarchy that keeps growing in K leaves the
   finite-rank regime the formula needs, as row 5 shows.
+
+## Note of 2026-11-21: Baik, Ben Arous and Péché, read
+
+The BBP paper (LIT-tmpipm3o, read in NOTE-tmpggv08; THEORY-tmp0covn)
+**qualifies** the attribution and **supports** both corrections above.
+
+- **The count is not BBP's.** BBP gives the law of the largest eigenvalue
+  only. That each spike above threshold gives its own outlier is Baik and
+  Silverstein's (1.10), for real or complex samples and a fixed number of
+  spikes (LIT-tmpjtw0k, THEORY-tmp0zr7o; ARG-tmpvalfs). A hierarchy whose
+  rank grows with D is outside both, which row 5 shows: this supports
+  "Sparse regime only".
+- **Which N.** BBP's M is the number of samples from which the covariance
+  is estimated, so the paper supports the correction that N here is the
+  probe sample.
+- **The invisible margin.** "At finite N an outlier within about
+  N^(−2/3) of the edge is invisible" is BBP's Theorem 1.1(a) and 1.2:
+  edge fluctuations of order M^(−2/3), and a critical window of width
+  M^(−1/3) in the spike (for complex data; the real case is conjectured
+  there to scale the same way).
+
+LIT-tmpipm3o leaves `grounds` for THEORY-tmp0zr7o (ARG-tmppdhhb);
+THEORY-tmp0covn corroborates.

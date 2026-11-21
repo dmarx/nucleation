@@ -26,7 +26,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2041 THEORY-2051 THEORY-1431 — Proposed readings bearing on the question -->
 <!-- inactive-ok-file: CLAIM-tmpask80 CLAIM-tmpd1shn — filed with this question from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpkvpg4 LIT-tmp7sbn6 LIT-tmpe6jga — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: LIT-tmpkvpg4 LIT-tmpe6jga — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpr5fuq CLAIM-tmpyy261 — Proposed; the reading of 2026-11-21 and a claim it bears on -->
 
 # QUESTION-tmp2hhlc: Do systems near a dynamical transition, or with scale-free dynamics, have a distinctive computational capacity, or does nearness to the transition only redistribute a bounded capacity among kinds of computation, by task?
 
@@ -36,7 +37,8 @@ A15 opens on the hope: "**A system near criticality may be especially
 capable of preserving information about the past while remaining
 sensitive to new information from its environment.**" It then gives the
 reasons to doubt that it is a general advantage: a bound on total
-capacity (Dambre and colleagues, [LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), unread), a three-way
+capacity (Dambre and colleagues, LIT-tmp7sbn6, read 2026-11-21: see the
+dated note), a three-way
 tradeoff of sensitivity, reliability and speed, and a finite-window study
 in which the best discrimination moves off the critical point
 ([LIT-tmpe6jga](../literature.d/LIT-tmpe6jga.md), unread). A's answer is [CLAIM-tmpask80](../claims.d/CLAIM-tmpask80.md); one exactly solved
@@ -81,3 +83,30 @@ memory and i.i.d. input. An adaptive system that tunes its own distance
 from the transition by task (A15 §7, quasicriticality) would make the
 question one of control rather than of a fixed operating point, as
 [QUESTION-091](QUESTION-091.md) asks for organizations.
+
+## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
+
+Dambre and colleagues' paper (LIT-tmp7sbn6, read in NOTE-tmpkp5gf; the
+reading is THEORY-tmpr5fuq) **answers the first part** of "What would
+answer it" and **leaves the rest open**.
+
+- **Measure and bound: given**, for systems driven by i.i.d. input with a
+  linear readout: capacities for orthogonal functions of past inputs sum to
+  at most N, and to N with fading memory and N independent variables.
+  Nearness to the transition cannot raise the total, which is flat at N
+  inside the fading-memory regime and falls past the undriven system's
+  stability edge.
+- **Allocation against distance from the transition: not given.** The
+  paper sweeps input scaling and sampling period at a fixed spectral
+  radius.
+- **Point 1, which transition.** The paper's edge is the stability edge
+  of a deterministic map, neither branching criticality nor, strictly,
+  the onset of chaos; CLAIM-tmpyy261 separates chaos, criticality and
+  cascades, and this is a further thing.
+- **Point 3, which environment.** The paper takes i.i.d. input on purpose,
+  "so that any measured structure will be due to the dynamical system
+  itself", and calls the bound for correlated input "largely a theoretical
+  insight". It cannot speak to the value of multiscale memory in a
+  correlated environment.
+
+THEORY-tmpr5fuq `bears_on` this question.

@@ -19,8 +19,6 @@ tags:
 date: '2026-11-21'
 line:
 - formal-apparatus
-grounds:
-- LIT-tmp7sbn6
 summary: >-
   A correction to A15 §2 of the exchange "Rich Get Richer Power Laws",
   and the gap it leaves. A illustrates a memory–noise tradeoff with
@@ -37,8 +35,10 @@ summary: >-
   is the owner's call.
 bears_on:
 - QUESTION-tmp2hhlc
+grounds:
+- THEORY-tmpr5fuq
 ---
-<!-- inactive-ok-file: LIT-tmp7sbn6 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpr5fuq ARG-tmpr04sw — Proposed; the reading of Dambre and colleagues and its argument, 2026-11-21 -->
 
 # CLAIM-tmpd1shn: In the scalar linear reservoir x(t+1) = a x(t) + u(t) + η(t), the gain a does not trade memory against noise: the state's signal-to-noise ratio and its total linear memory capacity s²/(s²+σ²) do not depend on a, which only spreads that capacity over lags; recalling the input k steps back is best at a = √(k/(k+1)), and noise added at the readout makes capacity rise monotonically toward a = 1
 
@@ -66,7 +66,8 @@ Let u and η be independent white sequences of variance s² and σ², and
   of its variance.
 - **Total capacity.** Σ_{k≥0} m_k = s²/(s² + σ²), independent of a. At
   σ = 0 it is 1, the number of state variables: the scalar case of the
-  bound A attributes to Dambre and colleagues ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), unread), and
+  bound A attributes to Dambre and colleagues (LIT-tmp7sbn6, read 2026-11-21:
+  the equality case of their Theorem 7, see the dated note), and
   of Jaeger's earlier bound on linear memory capacity, not registered.
 - **Where the gain matters.** It moves capacity between lags: at a = 0.5,
   m_0 = 0.75 and m_10 ≈ 0 (σ = 0); at a = 0.99, m_0 = 0.020 and
@@ -106,3 +107,30 @@ runs of 4,000,000 steps summed over 1,500 lags gave 0.804, 0.795 and
 - Not that a multivariate linear reservoir has no tradeoff: with N state
   variables and noise that does not share the input's direction, the
   allocation is richer. The claim is about A's model.
+
+## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
+
+Dambre and colleagues' paper (LIT-tmp7sbn6) was read in full with its
+supplement (NOTE-tmpkp5gf; the reading is THEORY-tmpr5fuq). It **supports**
+the claim, which turns out to be **a case of its Theorem 7** (ARG-tmpr04sw).
+
+- With |a| < 1 the reservoir has fading memory and N = 1. Count η as the
+  paper's second i.i.d. input v: x lies in the span of the degree-one
+  functions of u and η, and over the full basis the capacities sum to 1 at
+  every a, u's share being s²/(s² + σ²) and η's σ²/(s² + σ²). The paper:
+  "It is only over the full space that Theorem 7 holds and that the
+  capacities will sum to N. However since v is unknown, the capacities
+  which are measurable are those which depend only on u."
+- "The scalar case of the bound" understates it: it is the equality case.
+  The independence from a is the theorem's, since its conditions hold
+  throughout |a| < 1 and fail at a = 1.
+- At σ² = s² the u-share is ½ = N/K with K = 2, the paper's linear
+  benchmark (Fig. 4).
+- The paper's capacity has no bias term; with zero-mean u and η that
+  changes nothing. Gaussian input is within its theory (it names Hermite
+  bases for it).
+- The readout-noise result is not in the paper; it is consistent with it if
+  ν is a third input that enters only the observation. Nothing in the
+  paper bears on the lag optimum a² = k/(k + 1).
+
+THEORY-tmpr5fuq replaces LIT-tmp7sbn6 in `grounds`. Status unchanged.

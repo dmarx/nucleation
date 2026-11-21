@@ -22,7 +22,6 @@ grounds:
 - LIT-tmpx3y6w
 - LIT-tmp5cw2k
 - LIT-tmp959qu
-- LIT-tmpwdtfj
 - LIT-tmpw4ye0
 summary: >-
   A's, from A1 §1 to §4 and §7 and A3 §1 of the exchange "Rich Get Richer
@@ -34,13 +33,14 @@ summary: >-
   degree distribution (Krapivsky, Redner and Leyvraz, unnamed by A). So
   "having cumulative advantage is not enough to guarantee a power law",
   and unequal outcomes need no unequal ability. Checked by simulation in
-  this session. The works are registered and unread. The wording is A's
+  this session. The works are registered and unread, but for Mitzenmacher's
+  review, read on 2026-11-21 (see the dated note). The wording is A's
   (the other assistant in the exchange "Rich Get Richer Power Laws", A1 and
   A3); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpx3y6w LIT-tmp5cw2k LIT-tmp959qu LIT-tmpwdtfj LIT-tmpw4ye0 — Deferred; the works A cites or invokes, registered from this exchange and not read -->
+<!-- inactive-ok-file: LIT-tmpx3y6w LIT-tmp5cw2k LIT-tmp959qu LIT-tmpw4ye0 — Deferred; the works A cites or invokes, registered from this exchange and not read -->
 <!-- inactive-ok-file: CLAIM-tmply70l CLAIM-tmp9a83b CLAIM-tmp8h6nt CLAIM-184 CLAIM-677 THEORY-1927 THEORY-188 — Proposed or new; claims filed from the same exchange and held entries cited as neighbours -->
-<!-- inactive-ok-file: ARG-tmp2w77g — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: ARG-tmp2w77g ARG-tmpuhci1 THEORY-tmp23821 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # CLAIM-tmpepx9m: Cumulative advantage gives a power law only in a particular form: attachment linear in current size together with continual entry of new units; with no preference the tail is exponential, with sublinear preference stretched-exponential, and with superlinear preference one unit takes almost every new link
 
@@ -64,7 +64,9 @@ does not guarantee this result. The combination of growth, the form of
 attachment, and other model assumptions determines the distribution." And
 "unequal outcomes can arise without unequal innate abilities", though
 "observed success can reflect a mixture of quality, luck, timing, and
-cumulative advantage". A3 cites Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md)). A3's
+cumulative advantage". A3 cites Mitzenmacher's review (LIT-tmpwdtfj) here;
+read, the review does not say this (corrected 2026-11-21: see the note of
+that date below). A3's
 Alice and Bob make the point that under linear attachment the leader
 gains more in absolute terms and not in percentage terms.
 
@@ -121,3 +123,27 @@ agree.
   cities example does not support this claim.
 - Not the opposition A later draws between rich-get-richer and
   criticality ([CLAIM-tmp9a83b](CLAIM-tmp9a83b.md)).
+
+## Note of 2026-11-21: Mitzenmacher, read
+
+Mitzenmacher's review (LIT-tmpwdtfj) was read in full (NOTE-tmp0rhkc;
+the reading is THEORY-tmp23821). It **corroborates** one clause and the
+history, and does not carry the sentence it was cited beside.
+
+- **Supports.** The feedback's lineage, Yule (1925), Simon (1955) and the
+  Web-graph models (§3). Its model, a uniform link with probability α and
+  a link by indegree otherwise, with a new page every step, gives
+  c_j ∼ c·j^(−(2−α)/(1−α)): linear attachment with entry, a shifted
+  kernel moving the exponent, which this claim's `defeated_if` already
+  allows.
+- **Does not support.** A3's "preferential attachment alone does not
+  guarantee this result". The review never varies the kernel's exponent,
+  never removes entry, and has no such sentence. Its α is a mixing
+  probability, not the exponent of k^α. The kernel regimes in the claim's
+  title are Krapivsky, Redner and Leyvraz's (LIT-tmp959qu, unread) and the
+  filing's simulations; the need for entry is CLAIM-tmply70l's
+  derivation.
+
+So LIT-tmpwdtfj leaves this claim's `grounds`, and THEORY-tmp23821
+`corroborates` it; ARG-tmpuhci1 gives the reasons. The claim's status is
+unchanged.

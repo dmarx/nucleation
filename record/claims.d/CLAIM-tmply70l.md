@@ -21,7 +21,6 @@ line:
 grounds:
 - LIT-tmpx3y6w
 - LIT-tmpyexjc
-- LIT-tmpwdtfj
 summary: >-
   Fills a gap in the exchange "Rich Get Richer Power Laws". A says that
   linear preferential attachment "involves proportional expected growth"
@@ -41,7 +40,7 @@ bears_on:
 - QUESTION-tmp21jtb
 ---
 <!-- inactive-ok-file: LIT-tmpx3y6w LIT-tmpyexjc — Deferred; registered from this exchange and not read -->
-<!-- inactive-ok-file: CLAIM-tmp1dlyp CLAIM-tmpiervv CLAIM-tmpepx9m CLAIM-tmp9a83b — Proposed or new; claims and the question filed with this one from the same exchange -->
+<!-- inactive-ok-file: CLAIM-tmp1dlyp CLAIM-tmpiervv CLAIM-tmpepx9m CLAIM-tmp9a83b THEORY-tmp23821 ARG-tmpp2xln — Proposed or new; claims and the question filed with this one from the same exchange -->
 
 # CLAIM-tmply70l: The mean-field derivation of the Barabási–Albert power law is the age mechanism in logarithmic time, so what separates linear preferential attachment from Gibrat's lognormal growth is the continual entry of new units and not the proportionality of growth
 
@@ -112,3 +111,19 @@ A tree grown to N = 300,000 by linear attachment, one link per node:
   use that result. What it adds is the identification, which A does not
   make, and the consequence for telling attachment from Gibrat growth
   ([CLAIM-tmpepx9m](CLAIM-tmpepx9m.md)'s correction, [CLAIM-tmp9a83b](CLAIM-tmp9a83b.md)'s ratio of rates).
+
+## Note of 2026-11-21: Mitzenmacher, read
+
+Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
+THEORY-tmp23821) **supports the age half and leaves the identification
+open**. §7 gives multiplicative growth observed at an exponentially
+distributed time as a power law ("we examine the random variable X_T where
+T itself is a random variable"), with Huberman and Adamic's exponentially
+distributed site ages on a growing Web as the example and Reed's double
+Pareto as the exact law: for zero drift, density ∝ x^(−1−√(2λ)) above 1.
+§3's attachment model always has entry, a new page at each step, and its
+exponent with a uniform share α, (2 − α)/(1 − α) in density, is 3 at
+α = ½, the Barabási–Albert k^(−3). But the paper keeps §3 and §7 apart and
+never casts attachment in log-time, so the identification this claim makes
+is not in it. It moves from `grounds` to `corroborates` (ARG-tmpp2xln).
+Status unchanged.

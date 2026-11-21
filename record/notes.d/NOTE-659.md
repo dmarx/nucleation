@@ -36,6 +36,7 @@ summary: >-
   disagree for several matrix types, so "departs from the null" and
   "carries information" are not shown to coincide in general.
 ---
+<!-- inactive-ok-file: NOTE-tmpmlr3x NOTE-tmpor0h4 — Skimmed; readings of 2026-11-21 cited in the dated note -->
 <!-- inactive-ok-file: LIT-369 — Proposed; named as a neighbour in the random-matrix reading of trained weights, not leaned on -->
 <!-- inactive-ok-file: THEORY-078 — Proposed; named for the bulk-edge convention this reading qualifies, not as settled -->
 
@@ -289,3 +290,14 @@ factorisation) against Sharma et al. (LASER).
 - Do Gram-type matrices in the record, the Fisher of [THEORY-078](../theory.d/THEORY-078.md) among them,
   have structure below their lower bulk edge when they are rectangular in
   the relevant sense?
+
+## Note of 2026-11-21: Baik, Ben Arous and Péché, read
+
+**Background**, with one point of support. The two works named for the
+upper outlier are now registered and read: LIT-tmpipm3o (NOTE-tmpggv08) and
+LIT-tmp1q78e (NOTE-tmpor0h4). The reading above of the lower outlier as
+"the same transition at the lower edge for a noise with one reduced
+covariance direction", which the paper does not name so, has a source:
+Baik and Silverstein (LIT-tmpjtw0k, NOTE-tmpmlr3x) give, for c < 1, the
+almost-sure limit of a sample eigenvalue below the lower edge for a spike
+below one ((1.12)–(1.13)). No edge.

@@ -47,6 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-tmpyi882 TERM-tmpt3vht CLAIM-tmpbe2gh CLAIM-tmpwl8y8 ARG-tmp92gzv — filed with this claim on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2041 — Proposed; the order-to-chaos transition in random deep networks -->
+<!-- inactive-ok-file: THEORY-tmpr5fuq CLAIM-tmpask80 — Proposed; the reading of 2026-11-21 and the claim it bears on -->
 
 # CLAIM-tmpyy261: Chaos, criticality and a cascade through scales are distinct properties, and each can occur without either of the others; they meet only through particular mechanisms, such as the period-doubling accumulation point, which is critical in the renormalization-group sense and not chaotic
 
@@ -140,3 +141,15 @@ outcomes").
 - That statistical regularity needs predictable trajectories. A12 §9's
   point stands: a law can be stable under rescaling while each trajectory
   is unpredictable.
+
+## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
+
+A **contrast**, no edge. Dambre and colleagues (LIT-tmp7sbn6, read in
+NOTE-tmpkp5gf; THEORY-tmpr5fuq) put their reservoirs "close to the edge of
+stability" and measure capacity up to and past the undriven system's
+bifurcation. That edge is a third thing beside this claim's three: the
+loss of linear stability of a fixed point (spectral radius 1 for the echo
+state network), marginal stability, which is neither chaos nor
+criticality in the claim's senses, though the logistic map's route
+continues to the period-doubling accumulation point the claim names. The
+reading's bearing on computation is filed on CLAIM-tmpask80.

@@ -21,8 +21,8 @@ rests_on:
 - CLAIM-tmp1dlyp
 grounds:
 - LIT-tmpjai28
-- LIT-tmpwdtfj
 - LIT-tmpl2b2l
+- THEORY-tmp23821
 summary: >-
   A's, from A1 §4 and §7 and A3 §3 to §7 of the exchange "Rich Get Richer
   Power Laws" (2026-11-20). A power law is a description and a mechanism
@@ -32,12 +32,13 @@ summary: >-
   log-log line is not evidence of a power law comes first. The
   assistant (Claude, in this session) adds a section naming the confound
   A's attachment test leaves open, and marks A's "key intervention" row
-  as unsupported. The works are registered and unread. The wording is A's
+  as unsupported. The works are registered and unread, but for Mitzenmacher's
+  review, read on 2026-11-21 (see the dated note). The wording is A's
   (the other assistant in the exchange "Rich Get Richer Power Laws", A1
   and A3); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-tmpjai28 LIT-tmp1cgul — Deferred; registered from this exchange and not read -->
-<!-- inactive-ok-file: CLAIM-tmpiervv CLAIM-tmply70l THEORY-777 THEORY-789 — Proposed or new; claims and the lead filed with this one, and held readings cited as neighbours -->
+<!-- inactive-ok-file: CLAIM-tmpiervv CLAIM-tmply70l THEORY-777 THEORY-789 THEORY-tmp23821 ARG-tmpl9rzj CLAIM-tmp1dlyp — Proposed or new; claims and the lead filed with this one, and held readings cited as neighbours -->
 
 # CLAIM-tmp8h6nt: A power-law distribution does not identify the mechanism that produced it, nor does a shared power law show a shared mechanism or universality class; the mechanism has to be read from the dynamics, whether gain scales with size, whether there are floors or resets, whether the cutoff grows with the system, after the tail has been fitted against alternatives such as the lognormal
 
@@ -114,3 +115,20 @@ intervention, and no source. They are noted here and not filed.
 - Not A3 §6's further distinction, "**Statistical predictability and
   event-level predictability are different things**", which is general and
   left as a gloss.
+
+## Note of 2026-11-21: Mitzenmacher, read
+
+Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
+THEORY-tmp23821) **supports the first clause** and does not reach the
+remedy. "Just because one finds a compelling mechanism to explain a power
+law does not mean that there are not other, perhaps simpler, explanations"
+(§6, p. 238) is nearly the claim's opening. It shows Zipf's law reached by
+preferential attachment (§3), Mandelbrot's optimization (§4) and monkeys
+typing at random (§6); and a lognormal "may appear linear on a log-log plot
+for several orders of magnitude" (§2), so that "it is not clear that a
+definitive answer is possible" (§8). It **qualifies** nothing here but
+leaves the second half unsupported: §2 calls the log-log line "a simple
+empirical test", and there is no fitting method and none of the three
+dynamical tests. THEORY-tmp23821 replaces the work in `grounds`
+(ARG-tmpl9rzj). Random typing and optimization are also mechanisms
+CLAIM-tmp1dlyp's catalogue leaves out (see its note of this date).

@@ -1,0 +1,183 @@
+---
+status: Read
+paper: LIT-tmpwdtfj
+title: 'Mitzenmacher, A Brief History of Generative Models for Power Law and Lognormal Distributions, read for how small changes turn a lognormal into a power law'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 by a delegated reader from the author's faculty page
+    at Harvard EECS (eecs.harvard.edu/~michaelm/postscripts/im2004a.pdf), a
+    lawful copy under ADR-074 and the published version (its header reads
+    "Internet Mathematics Vol. 1, No. 2: 226-251"): the whole text,
+    pp. 226–245, §§1–8 with footnotes and the Figure 1 caption. The
+    reference list (pp. 245–251) was consulted only to identify Kesten,
+    Gabaix, Reed, Champernowne, Simon and Yule. Running notes on the branch
+    claude/readers/lit-tmpwdtfj (ADR-108). Every quotation below rechecked
+    by the filer by script against the downloaded text; the Champernowne
+    example and the double-Pareto density checked numerically with
+    python3 -I.
+date: '2026-11-21'
+summary: >-
+  An expository survey, not a source of new theorems: preferential
+  attachment (Yule, Simon, the Web-graph models), Mandelbrot's optimization,
+  Gibrat's multiplicative process and its lognormal, and the small changes
+  that turn that lognormal into a power law, a lower reflecting barrier
+  (Champernowne) or a random, exponentially distributed observation time
+  (Reed's double Pareto). Its floor is a reflecting minimum, not Kesten's
+  additive term, and it gives the general floor result without conditions;
+  it treats only linear attachment kernels.
+---
+<!-- inactive-ok-file: CLAIM-tmpepx9m CLAIM-tmpiervv CLAIM-tmp8h6nt CLAIM-tmply70l CLAIM-tmp1dlyp CLAIM-tmp9a83b SYNTHESIS-tmp69tyj THEORY-tmp23821 THEORY-2131 CLAIM-769 ARG-tmpk3nh6 ARG-tmpuhci1 ARG-tmpl9rzj ARG-tmpp2xln — Proposed; the entries this reading bears on, and its own reading -->
+<!-- inactive-ok-file: LIT-tmp959qu — Deferred; the kernel-regime work the record holds beside this one, registered and unread -->
+
+# NOTE-tmp0rhkc: Mitzenmacher, A Brief History of Generative Models for Power Law and Lognormal Distributions, read for how small changes turn a lognormal into a power law
+
+## Contribution
+
+A historical and expository map for computer scientists, prompted by
+Downey's argument that file sizes are lognormal and not power-law. Its
+thesis (§1, p. 227): "Very similar basic generative models can lead to
+either power law or lognormal distributions, depending on seemingly
+trivial variations." Its own additions are small: a Fibonacci version of
+the monkeys-typing example (§6), the observation that the monkeys' power
+law is a geometric mixture of approximately lognormal variables (§7), and
+a recursive-tree model of file sizes. The reading is THEORY-tmp23821.
+
+## Key results
+
+- **The two laws look alike** (§2, p. 229): "if the variance of the
+  corresponding normal distribution is large, the distribution may appear
+  linear on a log-log plot for several orders of magnitude." §2 calls the
+  log-log line "a simple empirical test".
+- **Preferential attachment** (§3, pp. 230–233). A new page links to a
+  uniformly chosen page with probability α and otherwise in proportion to
+  indegree; a mean-field steady state X_j = c_j·t gives
+  c_j ∼ c·j^(−(2−α)/(1−α)). History: "the first similar argument dates back
+  to at least 1925. It was introduced by Yule", and Simon's argument "is
+  painfully similar to the outline above" (p. 232).
+- **Optimization** (§4, pp. 233–235). Mandelbrot's derivation of Zipf's
+  law from minimizing cost per unit of information; after the "heated
+  exchange", "economists appear to have given the nod to Simon and the
+  preferential attachment model" (p. 235). Carlson and Doyle's highly
+  optimized tolerance is cited as a modern version.
+- **Multiplicative growth gives a lognormal** (§5, p. 236): "if the ln Fk
+  are independent and identically distributed variables with finite mean
+  and variance, then asymptotically Xj will approach a lognormal
+  distribution." Gibrat (1930), with Kapteyn (1903) and McAlister (1879)
+  before him.
+- **A floor gives a power law** (§5.1, pp. 237–238). Champernowne's chain
+  with classes [mγ^(j−1), mγ^j), at γ = 2, down with probability 2/3 and up
+  with 1/3, gives Pr[X ≥ x] = m/x. The same chain without its lowest class
+  is a multiplicative process, F = 1/2 or 2, which tends to a lognormal.
+  "In the multiplicative model, income can become arbitrarily close to
+  zero through successive decreases; in the Champernowne model, there is a
+  minimum income … This small change allows one model to produce a power
+  law distribution while the other produces a lognormal. As long as there
+  is a bounded minimum that acts as a lower reflective barrier to the
+  multiplicative model, it will yield a power law instead of a lognormal
+  distribution. The theory of this phenomenon is more fully developed in
+  [Gabaix 99, Kesten 73]."
+- **Another mechanism may be simpler** (§6, p. 238): "Just because one
+  finds a compelling mechanism to explain a power law does not mean that
+  there are not other, perhaps simpler, explanations." Miller's monkeys,
+  typing letters and spaces at random, give Zipf's law with no feedback and
+  no optimization. Against Perline, who held that unequal letter
+  probabilities give a lognormal: "for each value of m we obtain a
+  slightly different lognormal distribution", so the limit "need not be
+  lognormal" (p. 240).
+- **A random observation time** (§7, pp. 241–242): "instead of examining
+  X_t for a specific value of t, we examine the random variable X_T where
+  T itself is a random variable." A lognormal of mean 0 and variance t,
+  stopped at an exponential time of rate λ, has density ∝ x^(−1−√(2λ))
+  above 1 and x^(−1+√(2λ)) below, Reed's double Pareto. Montroll and
+  Schlesinger's geometric mixture has "essentially a lognormal body but a
+  power law distribution in the tail"; Huberman and Adamic's exponential
+  site ages on an exponentially growing Web are the same mechanism.
+- **Its file-size model** (§7, p. 243): sizes are "a geometric mixture of
+  lognormally distributed random variables … In fact, the tail behaviors
+  are the same."
+- **Conclusion** (§8, p. 244): "Given the close relationship between the
+  two models, it is not clear that a definitive answer is possible"; "The
+  fact that power law distributions arise for multiplicative models once
+  the observation time is random or a lower boundary is put into effect,
+  however, may suggest that power laws are more robust models." It leaves
+  open when the small differences "manifest themselves in vastly different
+  qualitative behavior" (pp. 244–245).
+
+## Assumptions
+
+- The arguments are meant to be intuitive rather than rigorous (§1); §3
+  uses a mean-field steady state and points to Kurtz and Wormald for
+  justification.
+- §5 assumes independent, identically distributed log-multipliers with
+  finite mean and variance. §5.1 shows the floor by one worked example and
+  states the general result without conditions, deferring to Kesten (1973)
+  and Gabaix (1999).
+- §7 assumes zero-drift lognormal growth with variance t, a continuous
+  number of steps, and an exponential stopping time.
+- §3's α is the probability of a uniform choice, not an exponent of the
+  attachment kernel. Every kernel in the paper is linear (shifted).
+
+## Concepts
+
+Power law and Pareto law; lognormal; the law of proportionate effect
+(Gibrat); multiplicative process; preferential attachment (Yule, Simon);
+recursive trees; Mandelbrot's optimization (cost per unit of information);
+Champernowne's model and the lower reflecting barrier; monkeys typing at
+random (Miller); Anscombe's central limit theorem for random sums; random
+observation time; double Pareto and double Pareto-lognormal (Reed);
+geometric mixture of lognormals.
+
+## Bearing on the record
+
+- **CLAIM-tmpiervv** (supports, and qualifies). The lognormal half is §5.
+  The floor half is §5.1, in a different form: a reflecting minimum, not
+  Kesten's additive B. The paper states neither E[A^κ] = 1 nor Kesten's
+  conditions. Its example does instantiate the formula: E[F^κ] =
+  (2/3)·2^(−κ) + (1/3)·2^κ = 1 at κ = 1, which is its m/x, and
+  E[ln F] = −0.231 < 0 with E[F] = 1. ARG-tmpk3nh6.
+- **CLAIM-tmpepx9m** (background, with one point of support). The history
+  of the feedback (Yule, Simon, the Web models) and a shifted linear kernel
+  moving the exponent, which the claim's `defeated_if` allows. It says
+  nothing on sublinear or superlinear kernels, and nothing like A3's
+  "preferential attachment alone does not guarantee this result". The
+  kernel regimes are Krapivsky, Redner and Leyvraz's (LIT-tmp959qu).
+  ARG-tmpuhci1.
+- **CLAIM-tmp8h6nt** and **SYNTHESIS-tmp69tyj** (support). §6's sentence
+  is almost the claim's first clause; §2 and §8 add that the two laws may
+  not be separable by the plot. It offers no fitting method and none of
+  the claim's dynamical tests. ARG-tmpl9rzj.
+- **CLAIM-tmply70l** (supports the age half, leaves the identification
+  open). §7 gives multiplicative growth with exponential ages as a power
+  law, and §3's model always has entry; the paper keeps §3 and §7 apart
+  and never casts attachment in log-time. ARG-tmpp2xln.
+- **CLAIM-tmp1dlyp** (supports item 6, and finds two omissions). §7 adds
+  the zero-drift exponent 1 + √(2λ) to item 6. The catalogue leaves out
+  random typing (§6) and optimization (§4), neither of which needs a
+  positive feedback.
+- **QUESTION-tmp21jtb** (bears on it). Three exponent formulas, each a
+  balance: (2 − α)/(1 − α) from the mixing probability, 1 + √(2λ) from the
+  stopping rate against the variance, and κ from the up and down
+  probabilities.
+- **THEORY-2131** and **CLAIM-769** (parallels, no edge). §7 averages a
+  time-indexed family over an exponential spread of times and gets a power
+  law, as Sozou averages exponentials over a spread of hazards. The paper
+  does not draw the connection.
+- **CLAIM-tmp9a83b**: no bearing; the paper does not discuss criticality.
+
+## Limitations
+
+- Expository and non-rigorous. The floor result is shown by one example
+  and stated in general without conditions; the reader is sent to Kesten
+  and Gabaix. That is a gap in its own argument: a reflecting barrier and
+  an additive reinjection are different processes, and the paper does not
+  say which conditions either needs.
+- The double Pareto is derived for zero drift only.
+- It predates Clauset, Shalizi and Newman (2009): it has no statistical
+  method for telling the laws apart, and its empirical test is the
+  log-log line it has just shown can mislead.
+- No nonlinear attachment kernels, aging, fitness or criticality.
+- §3 and §7 are joined only through its own recursive-tree model; the
+  paper does not say that attachment's power law is an age effect.
