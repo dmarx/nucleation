@@ -37,16 +37,18 @@ graded predicate is a bounded observable in the same place.
 Its **constraint set** is A_p = {x : f_p(x) = 1}, the versions that pass. An
 entry's predicates together allow the versions in A = ∩ A_p.
 
-A restating step can respect a predicate in two ways, and the difference is
-the one [CLAIM-772](../claims.d/CLAIM-772.md) draws:
+A predicate is added to an entry whose version passes it or fails it, and
+the difference is the one CLAIM-772 draws between anchoring and convention:
 
-- it **enforces** the predicate when it makes every version pass, whatever
-  it was before: f_p becomes constant, the feature is in the contracting
-  part ([TERM-132](TERM-132.md)), and its value is the predicate's, from the schema or
-  from a source;
-- it **preserves** the predicate when it copies the test's outcome:
-  K f_p = f_p, the feature is in the conserved part, and versions that
-  differed on it go on differing.
+- a **descriptor** is one the entry passes when it is added, such as an
+  exact value on a dimension that was undescribed. Adding it moves nothing:
+  it only excludes other versions, so the admissible sets go down and the
+  entry stays in each. The dimension stops drifting at the entry's own
+  value, which puts it in the conserved part (TERM-132);
+- an **imposition** is one the entry fails when it is added, such as a
+  schema default it did not meet. Enforcing it moves the entry to the
+  predicate's value, and if that value is common to entries the dimension
+  carries nothing of this one: the contracting part, at the convention.
 
 A predicate is **hard** when the step refuses a version that fails it (lint,
 a resolving code) and **soft** when failing it only costs something (a prose

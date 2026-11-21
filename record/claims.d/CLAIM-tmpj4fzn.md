@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule, and narrowing it is not good in itself'
+title: 'Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule; accruing predicates stabilizes an entry, in the control-theoretic sense, in the dimensions they constrain, and narrowing it is not good in itself'
 version: 1
 role: thesis
 warrant: interpretive
@@ -29,6 +29,7 @@ grounds:
 - THEORY-1335
 uses:
 - TERM-tmp7m4at
+- TERM-tmp0g123
 - TERM-132
 summary: >-
   The owner's reframe, 2026-11-21: "maybe it works better if I say
@@ -42,9 +43,9 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-184 CLAIM-068 CLAIM-119 TERM-132 — Proposed; the claims this restates in terms of predicates, and the risks it keeps -->
-<!-- inactive-ok-file: CLAIM-tmp8v75o TERM-tmp7m4at — Proposed; filed in this contribution of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmp8v75o TERM-tmp7m4at TERM-tmp0g123 — Proposed; filed in this contribution of 2026-11-21 -->
 
-# CLAIM-tmpj4fzn: Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule, and narrowing it is not good in itself
+# CLAIM-tmpj4fzn: Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule; accruing predicates stabilizes an entry, in the control-theoretic sense, in the dimensions they constrain, and narrowing it is not good in itself
 
 ## The claim
 
@@ -73,14 +74,16 @@ guarantee, is the record raising λ on its own norms, and the same ladder
 applies to an entry's predicates. So [CLAIM-778](CLAIM-778.md)'s inductive prior is not only
 an analogy: it is this weighted intersection.
 
-**How it meets contraction.** Enforcing a predicate is the contracting part
-and preserving one is the conserved part ([CLAIM-tmp8v75o](CLAIM-tmp8v75o.md), part 5). Schema
-predicates are enforced, since lint holds every entry to them, and so carry
-nothing of a particular entry's start. Content predicates differ across
-entries and are preserved, by codes that resolve and readings copied
-verbatim. The features no predicate bounds are [TERM-132](../terms.d/TERM-132.md)'s local degrees of
-freedom. So [CLAIM-772](CLAIM-772.md)'s one contraction is the dynamics, and the predicates
-say where it goes.
+**How it meets contraction.** Most of what is filed on an entry describes
+it: a value on a dimension that was undescribed, a premise, a quoted
+passage. Each is a descriptor, which the entry passes when it is added
+(CLAIM-tmp8v75o, part 5), so adding it moves nothing. It only excludes other
+versions, and the dimension it describes stops drifting at the entry's own
+value: the conserved part. A schema default the entry did not meet is an
+imposition, which moves the entry to the convention: the contracting part.
+The features no predicate bounds are TERM-132's local degrees of freedom.
+So CLAIM-772's one contraction is the dynamics, and the predicates say where
+it goes: mostly to where the entry already is.
 
 **Juarrero.** [THEORY-1335](../theory.d/THEORY-1335.md) holds that constraints take a system away from
 equiprobability and from independence. Schema predicates do the first to an
@@ -88,15 +91,15 @@ entry's form; relations do the second, tying it to other entries. Version 1
 of [CLAIM-778](CLAIM-778.md) said this in prose; this claim restates it with the predicates
 as tests.
 
-## On the word "stabilization"
+## Stabilization
 
-The owner proposed "stabilization" for this, in place of "contraction". In
-the record "stabilized" already names attraction toward convention under
-transmission ([CLAIM-068](CLAIM-068.md)), which is the enforced, contracting case. Here the
-narrowing is named by its mechanism, constraint by predicates, and
-stabilization is left to what the predicates produce: an entry whose open
-revisions have stopped shrinking. Whether "stabilization" should be fixed
-in this sense is the owner's call, and would take a TERM.
+In the owner's sense (TERM-tmp0g123), the control-theoretic one, this
+narrowing is stabilization: each predicate damps perturbations of the
+entry in the dimensions it constrains, wholly if hard and by 1/(1 + λ) per
+restatement if soft, and the entry converges to the set its predicates
+allow, moving freely only in the dimensions none constrains. Contraction is
+the mechanism and a sufficient condition; attraction toward a convention
+(CLAIM-068) is the case where the predicate is an imposition.
 
 ## What it does not say
 

@@ -38,7 +38,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: TERM-tmp7m4at CLAIM-tmp8v75o CLAIM-tmpj4fzn — Proposed; filed on 2026-11-21 -->
+<!-- inactive-ok-file: TERM-tmp7m4at TERM-tmp0g123 CLAIM-tmp8v75o CLAIM-tmpj4fzn — Proposed; filed on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2142 THEORY-2143 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2044 CLAIM-189 — Proposed; the partial-contraction reading the term's "conserved part" is fixed against, and the claim on legitimate change -->
 <!-- inactive-ok-file: CLAIM-772 CLAIM-779 CLAIM-778 — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
@@ -87,12 +87,13 @@ cycle of an entry is the movement of features out of this part
 
 ## Note of 2026-11-21: the parts, by predicate
 
-Read an entry's predicates as tests ([TERM-tmp7m4at](TERM-tmp7m4at.md)), and the three parts are
-sorted by what the restating step does with the predicates on a feature
-([CLAIM-tmp8v75o](../claims.d/CLAIM-tmp8v75o.md), part 5): a feature whose predicates the step **enforces** is
-contracting, at the predicate's value, which is a convention if the schema
-supplied it and the source's if the source did; one whose predicates it
-**preserves** is conserved; one that no predicate bounds is a local degree of
-freedom. [CLAIM-tmpj4fzn](../claims.d/CLAIM-tmpj4fzn.md) reads an entry's life cycle as the accrual of
-predicates, which moves features out of the last part.
+Read an entry's predicates as tests (TERM-tmp7m4at), and the three parts are
+sorted by the predicates on a feature (CLAIM-tmp8v75o, part 5): a feature
+given a descriptor, a predicate the entry passes when it is added such as an
+exact value, is conserved from then on at the entry's own value; one given an
+imposition, a value common to entries that the entry did not meet, is
+contracting, at the convention; one that no predicate bounds is a local
+degree of freedom. CLAIM-tmpj4fzn reads an entry's life cycle as the accrual
+of predicates, which moves features out of the last part, and calls it
+stabilization in the control-theoretic sense (TERM-tmp0g123).
 

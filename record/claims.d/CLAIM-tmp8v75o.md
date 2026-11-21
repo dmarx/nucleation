@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step''s fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate enforced on every entry keeps nothing of where an entry started, while one whose outcome the step copies keeps it'
+title: 'If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step''s fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails, imposed with a value common to entries, moves it there and keeps nothing of the entry on it'
 version: 1
 role: thesis
 warrant: demonstrated
@@ -10,8 +10,9 @@ defeated_if: >-
   closed convex sets with a common point being their intersection; in the
   drift bound for a map into a bounded set; in the proximal map of
   (λ/2)·dist² to a closed convex set being (y + λP(y))/(1 + λ); or in the
-  step from a constant indicator to zero information about the start, or
-  from a preserved, non-constant indicator to CLAIM-635's retention.
+  step from a predicate the entry passes when it is added to its moving
+  nothing, or from a value imposed on every entry alike to the dimension's
+  carrying nothing of the entry.
 tags:
 - mathematics
 - design-rationale
@@ -31,15 +32,17 @@ summary: >-
   predicates to an entry is adding constraints: with each predicate read as
   a test and enforced as a projection, the predicates set the fixed points
   of restating, an added predicate shrinks them, soft and hard enforcement
-  are one penalty at different strengths, and enforcing a predicate differs
-  from preserving it as contraction differs from conservation ([CLAIM-772](CLAIM-772.md)).
+  are one penalty at different strengths, and a predicate the entry passes
+  when it is added (a descriptor) holds a dimension at the entry's own value,
+  while one it fails (an imposition) moves it to a convention, as anchoring
+  and forgetting differ in CLAIM-772.
   Proved from standard convex analysis and checked numerically. The wording
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
 <!-- inactive-ok-file: CLAIM-772 CLAIM-773 TERM-tmp7m4at — Proposed; the contraction claims this formalizes for predicates, and the entries filed with it on 2026-11-21 -->
 
-# CLAIM-tmp8v75o: If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step's fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate enforced on every entry keeps nothing of where an entry started, while one whose outcome the step copies keeps it
+# CLAIM-tmp8v75o: If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step's fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails, imposed with a value common to entries, moves it there and keeps nothing of the entry on it
 
 ## The claim
 
@@ -71,16 +74,21 @@ of the P_p, which maps every point into A.
    x ↦ (y + λP_p(y))/(1 + λ), which moves a point a fraction λ/(1 + λ) of the
    way to the set. As λ → ∞ this is P_p. A prose convention and a lint rule
    are the same predicate at different λ.
-5. **Enforcing and preserving.** If the step enforces p on every entry,
-   f_p(xₙ) = 1 for every n ≥ 1 whatever x₀ was, so the test's outcome
-   carries no information about the start: the feature is in the
-   contracting part, at the predicate's value. If instead the step copies
-   the outcome (K f_p = f_p) and f_p is not constant on the starting law,
-   [CLAIM-635](CLAIM-635.md) gives information about the start bounded below at every
-   generation: the feature is in the conserved part. Enforcing p onto a
-   value taken from the entry's source, rather than from the schema, holds
-   every version to the source: the anchoring case of [CLAIM-772](CLAIM-772.md)'s one
-   contraction.
+5. **Describing and imposing.** Let p be added when the entry's version is
+   x. If x passes p, as when p is an exact descriptor of a dimension that was
+   undescribed (this entry's value there is v), then x ∈ A ∩ A_p: adding p
+   excludes other versions and moves nothing. The admissible sets only go
+   down, and the entry is in every one of them. From then on the step holds
+   that dimension at v, so it has no drift, and since v is this entry's own
+   value, entries that differed there go on differing: the dimension has
+   joined the conserved part, and [CLAIM-635](CLAIM-635.md) gives information about the
+   entry bounded below at every later generation. Enforcing such a
+   predicate and copying its outcome (K f_p = f_p) have the same effect.
+   If x fails p, as when p imposes a value c that the schema sets for every
+   entry, enforcing it moves the entry to c, and the dimension then reads c
+   for every entry and carries nothing of this one: the contracting part,
+   at the convention. Which of the two a predicate is depends on whether
+   the entry passes it when it is added, not on how hard it is enforced.
 
 Parts 1, 3 and 5 need only that T maps into A, not convexity. Parts 2 and 4
 need it.
@@ -97,8 +105,10 @@ origin is feasible:
   0.71, 0.66, 0.62, 0.47 and 0.41, for k = 0, 4, 8, 16 and 24. Maximum drift
   stayed at the ball's radius, 2.0, the bound for a start at its centre.
   Largest violation of any set after five sweeps: at most 4 × 10⁻³.
-- **A fixed value.** With one coordinate held at 0.7 (the start's value) or
-  at 0 (a convention), it read 0.700 or 0.000 at the end, while a free
+- **A pinned value.** With one coordinate pinned at 0.7, the entry's own
+  value (a descriptor), it read 0.700 at the end: no drift. Pinned at 0, a
+  convention the entry did not satisfy (an imposition), it read 0.000. In
+  both runs while a free
   coordinate drifted with spread 1.02 and 1.03 against σ√n = 1.00.
 - **Soft enforcement,** k = 24. Mean distance outside A at the end: 0.084,
   0.011, 0.0012, 0.0001 and 0.0000 for λ = 0.1, 1, 10, 100 and 10⁴, falling
