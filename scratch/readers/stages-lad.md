@@ -9,3 +9,4 @@
 - Limitations (p. 9): "Stage boundaries are approximate"; conclusion: "ordered composition of specialized computational regimes".
 - Recheck hits: THEORY-1033, THEORY-1030 (Geva, LIT-1576), THEORY-1011 (ROME), THEORY-1024/1026 (Hase), THEORY-1226 (J-space middle band). No hit for prediction/suppression neurons, Gurnee universal neurons, logit-lens LIT, Veit ensembles.
 - Draft report next.
+- Report drafted and returned 2026-11-21. Verdict: characterization confirmed in substance, with corrections (interventions on 2 families only; "relative accuracy" is agreement with the unintervened model; stage 3 is specialized, not interchangeable; stages hypothesized).
