@@ -16,6 +16,7 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 integrates:
+- TERM-tmpol232
 - CLAIM-tmpjbee7
 - ARG-tmp09yqc
 - ARG-tmp2w77g
@@ -72,10 +73,12 @@ bears_on:
 - QUESTION-tmpzlagu
 - QUESTION-tmp2hhlc
 ---
+<!-- inactive-ok-file: TERM-tmpol232 — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpjbee7 ARG-tmp09yqc ARG-tmp2w77g — Proposed or Rejected; filed 2026-11-21 after the coverage check -->
 <!-- inactive-ok-file: CLAIM-tmp8h6nt CLAIM-tmpepx9m CLAIM-tmply70l CLAIM-tmpiervv CLAIM-tmp1dlyp CLAIM-tmpdusls CLAIM-tmp2k0r2 CLAIM-tmp9a83b CLAIM-tmpsr8r4 CLAIM-tmpwl8y8 CLAIM-tmpbe2gh CLAIM-tmpyy261 ARG-tmp92gzv TERM-tmpyi882 TERM-tmpt3vht CLAIM-tmpr9au6 CLAIM-tmpvrbdt CLAIM-tmplb1ow ARG-tmpfug10 CLAIM-tmpninc2 CASE-tmpi5vfh CASE-tmpykltu CLAIM-tmp99m8g TERM-tmpxml4k CLAIM-tmpyxiwv CLAIM-tmpj0k4q CLAIM-tmpficzj TERM-tmp5z2du CLAIM-tmpq8q9t CLAIM-tmpask80 CLAIM-tmpd1shn ARG-tmpubyzo — new and Proposed or Open; components filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-769 CLAIM-626 CLAIM-478 THEORY-777 THEORY-2041 — Proposed; held components, cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-088 SYNTHESIS-075 SYNTHESIS-084 — Proposed or new; accounts this one sits beside -->
+<!-- inactive-ok-file: THEORY-tmp23821 — Proposed; the reading of 2026-11-21 -->
 
 # SYNTHESIS-tmp69tyj: In the record, a power law does not identify its mechanism: many routes produce one, each read from its dynamics, criticality among them; chaos, criticality and a cascade through scales come apart, as do scale invariance, dependence across scales and a heavy-tailed marginal; the owner's bulk-and-tail conjecture is held in two readings, of which only a separation of scales fits a continuous transition approached from below; and what survives a change of scale is counted by several effective dimensions whose agreement is open
 
@@ -114,6 +117,7 @@ bears_on:
 
 ### Components filed after the coverage check
 
+- TERM-tmpol232 (the assistant's, Proposed): "separation" in three senses, of scales or levels, of classes, and spectral. In this part, sense 1 is the bulk-and-tail separation of scales and the separation of levels at criticality.
 - [CLAIM-tmpjbee7](../claims.d/CLAIM-tmpjbee7.md) (A's, A17 §5, Proposed): critical systems are "harder to separate but easier to classify": fluctuations stay consequential across scales, so levels do not separate, while microscopic detail becomes irrelevant to the exponents. It sits beside [CLAIM-478](../claims.d/CLAIM-478.md) and uses [TERM-tmpt3vht](../terms.d/TERM-tmpt3vht.md).
 - [ARG-tmp09yqc](../arguments.d/ARG-tmp09yqc.md) (A's bridge, Rejected by the assistant): [THEORY-661](../theory.d/THEORY-661.md) does not carry A13 §9's step from a finite correlation length to near-decomposability in Simon's sense, since Simon's weak-interaction condition holds for large blocks even at criticality.
 - [ARG-tmp2w77g](../arguments.d/ARG-tmp2w77g.md) (A's argument, Rejected by the assistant): A1's cities example of cumulative advantage, weighed against [THEORY-1499](../theory.d/THEORY-1499.md)'s reading of city sizes recovering after bombing.
@@ -143,3 +147,17 @@ Links A's syntheses draw across these components that no entry states, tested at
 - That any of the mechanisms operates in a named empirical system. The cases are models, and the works are registered from the exchange and unread.
 - Which reading of [CLAIM-tmpr9au6](../claims.d/CLAIM-tmpr9au6.md) is the owner's. That is the owner's choice.
 - Anything with standing of its own.
+
+## Note of 2026-11-21: Mitzenmacher, read
+
+Mitzenmacher's review (LIT-tmpwdtfj, read in NOTE-tmp0rhkc; the reading is
+THEORY-tmp23821) **supports** this account's thesis that a power law does
+not identify its mechanism, by the passages noted on CLAIM-tmp8h6nt
+(§6's "perhaps simpler, explanations", §2's lognormal that looks straight on
+a log-log plot, §8's "not clear that a definitive answer is possible"). It
+also supplies two links between components that the account lists as
+mechanisms: a floor turns Gibrat's lognormal into a power law (§5.1), and
+so does an exponentially distributed observation time (§7). The floor is a
+reflecting minimum, not CLAIM-tmpiervv's additive term; see that claim's
+note of this date. The account's mapping is unchanged; the reading enters
+through the claims it corroborates.

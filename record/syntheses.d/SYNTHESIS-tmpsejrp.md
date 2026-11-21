@@ -18,6 +18,7 @@ date: '2026-11-21'
 line:
 - learned-structure
 integrates:
+- TERM-tmpol232
 - CLAIM-tmp85eq8
 - CLAIM-tmpgzb8v
 - ARG-tmpbmruy
@@ -77,6 +78,7 @@ bears_on:
 - QUESTION-tmpsy8qn
 - QUESTION-tmp7d1ws
 ---
+<!-- inactive-ok-file: TERM-tmpol232 — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmp85eq8 CLAIM-tmpgzb8v ARG-tmpbmruy CLAIM-tmpnu4ar ARG-tmp0rq99 ARG-tmpgt6ax ARG-tmp96hze ARG-tmpmvc5e — Proposed or Rejected; filed 2026-11-21 after the coverage check -->
 <!-- inactive-ok-file: CLAIM-tmp526xr CLAIM-tmpet76z CLAIM-tmpu6t8z CLAIM-tmpfwwfy CLAIM-tmp41gfr CLAIM-tmpy688z CLAIM-tmpym2vz TERM-tmplplcf CLAIM-tmpqqngq CLAIM-tmp5y856 CASE-tmp59xy5 CLAIM-tmpk33au CLAIM-tmp8mvx8 CLAIM-tmpr4k9z CLAIM-tmp6mjfc CLAIM-tmpdwm3z ARG-tmpwo5ou CLAIM-tmpp83vc CLAIM-tmpa8hb2 TERM-tmp5z2du CLAIM-tmpcgvcp CLAIM-tmpcg4uu CASE-tmpb2gly ARG-tmpj0r42 CLAIM-tmpcbfdj CLAIM-tmpuc8ro CLAIM-tmpv5asv CLAIM-tmppkdjz TERM-tmpnxjq4 ARG-tmpjx3ww CLAIM-tmp9bp04 CLAIM-tmpl9zw4 CLAIM-tmpqbo50 — new and Proposed or Open; components filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: SYNTHESIS-034 SYNTHESIS-030 SYNTHESIS-029 — Proposed or new; accounts this one sits beside -->
@@ -147,6 +149,7 @@ bears_on:
 
 ### Components filed after the coverage check
 
+- TERM-tmpol232 (the assistant's, Proposed): "separation" in three senses, of scales or levels, of classes, and spectral. In this part, senses 2 and 3 are decodability and spectral detectability.
 - [CLAIM-tmpnu4ar](../claims.d/CLAIM-tmpnu4ar.md) (A's, A39 §6, supposed, Proposed): model reduction moves toward the model manifold's boundaries and feature differentiation away from singular strata, so learning and compression may be opposite movements through one stratified space. A calls it "not an established general law"; [ARG-tmpj0r42](../arguments.d/ARG-tmpj0r42.md) notes that such boundaries often lie at infinite parameter values.
 - [ARG-tmp0rq99](../arguments.d/ARG-tmp0rq99.md) (the assistant's, Proposed): [CLAIM-tmpet76z](../claims.d/CLAIM-tmpet76z.md) closes A29's feedback loop as a route to activity, for [CLAIM-tmp526xr](../claims.d/CLAIM-tmp526xr.md).
 - [ARG-tmpgt6ax](../arguments.d/ARG-tmpgt6ax.md) (the assistant's, Proposed): [CLAIM-tmpuc8ro](../claims.d/CLAIM-tmpuc8ro.md) narrows [CLAIM-tmpv5asv](../claims.d/CLAIM-tmpv5asv.md); a power law in training relaxation does not indicate a hierarchy of singular orders.

@@ -31,6 +31,7 @@ integrates:
 - CLAIM-409
 - CLAIM-455
 ---
+<!-- inactive-ok-file: CLAIM-tmp5y856 CLAIM-tmpk33au CLAIM-tmpqbo50 CASE-tmp59xy5 CLAIM-tmpjbee7 TERM-tmpol232 — Proposed or new; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" -->
 
 <!-- inactive-ok-file: CLAIM-770 CLAIM-780 CLAIM-781 — Proposed or Open; filed on 2026-11-21 and cited in this note -->
 
@@ -72,3 +73,13 @@ Filed since, and candidates for this account's components at its next synthesis 
 - **[CLAIM-770](../claims.d/CLAIM-770.md)** (Proposed, demonstrated): the tree of classes reachable within a budget keeps its shape while barriers move, and changes only where two barriers cross. A distinction between levels comes into being or passes away at such a crossing. This is a case, in one model, of the re-carving this account's optimal-partition clause describes.
 - **[CLAIM-780](../claims.d/CLAIM-780.md)** and **[CLAIM-781](../claims.d/CLAIM-781.md)** (Proposed): how a hierarchy's levels show in a chain's time geometry, and what rate separation between levels does.
 - **[QUESTION-500](../questions.d/QUESTION-500.md)** and **[QUESTION-501](../questions.d/QUESTION-501.md)** (Open): what rate ratio is enough for a level to show, and whether well-separated levels require separated rates.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
+
+This account's "what can be told apart" is the second of the three senses of separation that TERM-tmpol232 (filed the same day) keeps apart: separation of classes. The exchange adds two things that bear on it, for its next version to weigh.
+
+- **Spectral detectability as a budgeted telling-apart.** The threshold above which sample PCA finds a planted direction, β > √(D/N) (CLAIM-tmp5y856, CLAIM-tmpk33au), falls as the number of samples N grows. That is the account's first clause in a concrete case: more observing resource splits what can be told apart. The distinction an unsupervised observer can draw appears at a budget that the threshold fixes. CLAIM-tmpqbo50 gives the lag between a feature's onset and its detection, which scales as √(D/N).
+- **The observer's kind matters as much as its budget.** At the same budget, a trained linear readout tells the classes apart (74% accurate) where PCA tells nothing (CASE-tmp59xy5, β = 0.4 against a threshold of 0.5). So "what can be told apart" is relative to the observer's probe family as well as its resource, as CLAIM-455 already says for bounded observers. The exchange's case separates a supervised from an unsupervised observer at equal N.
+- **Telling apart without levels.** Near a critical point the class is easy to tell while no level separates (CLAIM-tmpjbee7). Separation of classes and separation of levels are independent.
+
+No component, status or link of this account is changed. The note is the assistant's (Claude, in this session).
