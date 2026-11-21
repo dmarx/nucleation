@@ -55,9 +55,14 @@ starts off until the owner switches it on.
 **While it is on, the assistant files without asking** what the exchange
 develops in the record's own argument:
 
-- new CLAIMs, QUESTIONs, TERMs, ARGs, CASEs and LEADs, under ADR-072's test
-  that an idea gets a code when it has content of its own and is not already
-  held;
+- new entries in the **argument schemes**: the schemes of argument
+  development, QUESTION, CLAIM, CASE, TERM and ARG (ADR-032), and those
+  that have joined them since, WORKBENCH and LEAD (ADR-109), which plans
+  how to advance a question or a claim. The class is named rather than
+  listed so that it extends as it does: a scheme added later to the
+  record's own argument is covered without amending this decision. Each new
+  entry passes ADR-072's test that an idea gets a code when it has content
+  of its own and is not already held;
 - revisions to entries filed while the regime is on, before they merge;
 - dated notes on held entries;
 - Reframings sections (ADR-tmpd4rgx), and the owner's corrections, recorded
