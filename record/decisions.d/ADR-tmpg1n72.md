@@ -1,0 +1,54 @@
+---
+status: Proposed
+title: 'An account may take a scope that crosses lines, a theme the record''s argument returns to in several lines, beside the accounts of lines and their parts; every cross-line account is reviewed at the synthesis review as a possible sign that the record needs a line it lacks, and a theme that passes the review is put to the owner as a candidate line'
+version: 1
+tags:
+- record
+date: '2026-11-21'
+summary: >-
+  At the owner's ruling of 2026-11-21 on the promotion pull request, asked
+  whether thematic, cross-line accounts are a kind the record wants:
+  "where we're able to form these conjunctions, I'd argue that probably
+  implies we should add a line. If it would facilitate cross-polination
+  though, I could see explicitly cross-line syntheses potentially having
+  value. Here, let's have our cake and eat it too: permit cross-line
+  accounts, and add an audit process to review these as potential
+  indicators that they might merit adding a line." ADR-083's one account
+  per scope is kept, and a scope may now be a theme that crosses lines.
+  The synthesis review gains a stage that asks of each cross-line account
+  whether its theme is a question no line holds, recurs, and would be
+  found more easily as a line. The first application audits the eight
+  principle accounts filed on 2026-11-20 and finds that together they
+  indicate one candidate line. Rejected: forbidding cross-line accounts,
+  and adding a line for every one.
+---
+
+# ADR-tmpg1n72: An account may take a scope that crosses lines, a theme the record's argument returns to in several lines, beside the accounts of lines and their parts; every cross-line account is reviewed at the synthesis review as a possible sign that the record needs a line it lacks, and a theme that passes the review is put to the owner as a candidate line
+
+## Context
+
+ADR-083 gives an account to "a line or a part of one", with one account per scope. On 2026-11-20 the record filed eight SYNTHESIS accounts for principles P2 and P4 to P10 of the owner's manuscript. An independent audit had found each to be a conjunction of held entries spanning two or three lines (pull request 557; workbench entry of 2026-11-20). The workbench entry and each account noted that their scope "is a theme, not a line or a part of one, which ADR-083's one account per scope does not anticipate". Asked whether such accounts are a kind the record wants, the owner ruled as quoted in the summary.
+
+The owner's two reasons pull in different directions. A conjunction that can be formed across lines suggests a line is missing. An account that deliberately crosses lines can carry ideas from one line to another. The ruling keeps both: the account is permitted, and it is also treated as evidence.
+
+## Decision
+
+1. **A scope may be a theme.** Beside a line and a part of a line, an account may take as its scope a theme the record's argument returns to in two or more lines. It says so in its preface and names the lines its components come from. ADR-083's other rules apply unchanged: one account per scope, the account adds nothing, and its standing is its components'.
+2. **Every cross-line account is audited at the synthesis review.** The review (ADR-078; the `synthesis-review` skill) gains a stage, after its accounts are filed or revised. For each cross-line account, it asks three questions:
+   - **An unheld question.** Do the components answer a question that no line's blurb names?
+   - **Recurrence.** Does the theme recur: in more than one cross-line account, in a manuscript, or in a claim that rests on components from several of its lines?
+   - **Findability.** Would a reader looking for the theme find it more easily under a line of its own than through the accounts of the lines it crosses?
+3. **Verdicts.** Three yeses make the theme a *candidate line*. It goes to the owner with a proposed name, a blurb, the accounts and claims it would gather, and what it would take from existing lines. Fewer make it a *bridge*: the account stays cross-line, and the review records why. A candidate line is a decision about the `lines` vocabulary, for the owner, as a split is (ADR-082). The review proposes it and does not make it.
+4. **The audit is recorded** in the review's curation entry, one row per cross-line account.
+
+## Alternatives
+
+- **Forbid cross-line accounts** and require a line first. Rejected by the owner: cross-line accounts can carry ideas between lines.
+- **Add a line for every cross-line account.** That makes lines cheap and lets a single integration reshape the vocabulary. The audit's recurrence test guards against it.
+- **Treat cross-line accounts as Arm B candidates only**, links to be tested for admission as claims. That is the route that left the eight principles with nowhere to go.
+
+## Consequences
+
+- ADR-083 takes a history note: a scope may be a theme (this decision).
+- The `synthesis-review` skill gains stage 4b, "Audit cross-line accounts", and its curation entry a fifth part.
+- The eight principle accounts are cross-line accounts under this decision. Their first audit is this decision's demonstration, in the curation entry of 2026-11-21.
