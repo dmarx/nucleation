@@ -41,7 +41,7 @@ date: '2026-10-22'
 line:
 - record-as-apparatus
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 objects_to:
 - CLAIM-181
 grounds:

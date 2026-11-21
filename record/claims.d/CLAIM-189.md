@@ -29,7 +29,7 @@ line:
 - records-of-inquiry
 - nucleating-argument
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 objects_to:
 - CLAIM-191
 rests_on:

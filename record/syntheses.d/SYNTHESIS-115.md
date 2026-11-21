@@ -39,6 +39,7 @@ tags:
 - design-rationale
 date: '2026-11-20'
 line:
+- learning-and-inquiry
 - pragmatic-transport
 - nucleating-argument
 - records-of-inquiry

@@ -26,6 +26,7 @@ tags:
 date: '2026-11-20'
 line:
 - record-as-apparatus
+- learning-and-inquiry
 rests_on:
 - CLAIM-419
 - CLAIM-475

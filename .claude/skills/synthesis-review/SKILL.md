@@ -6,8 +6,8 @@ description: A periodic review of the record's accounts - that each line, or par
 
 # Synthesis review
 
-A SYNTHESIS is an account of a scope of the record's argument: a line, or a
-part of one. It names every component, attributes each link to the entry
+A SYNTHESIS is an account of a scope of the record's argument: a line, a
+part of one, or a theme that crosses lines (ADR-tmpg1n72). It names every component, attributes each link to the entry
 that states it, and adds nothing. Whatever adds to its components is a CLAIM
 (ADR-084). A synthesis review looks across the record and asks three
 questions:
@@ -141,9 +141,31 @@ out, and it does not ask for strictness or leniency. Then:
 File the ARGs that step 10 of `read-and-file` requires: support that is
 load-bearing or contested.
 
+## 4b. Audit cross-line accounts (ADR-tmpg1n72)
+
+An account's scope may be a theme that crosses lines. Its preface says so
+and names the lines its components come from. After stage 4, take every
+cross-line account, new or held, and ask three questions:
+
+- **An unheld question.** Do its components answer a question no line's
+  blurb names? Read the blurbs of the lines it crosses, not only their
+  names.
+- **Recurrence.** Does the theme recur: in another cross-line account, in
+  a manuscript, or in a claim resting on components from several of its
+  lines?
+- **Findability.** Would a reader looking for the theme find it more
+  easily under a line of its own?
+
+Three yeses make the theme a **candidate line**. Put it to the owner with a
+name, a blurb, the accounts and claims it would gather, and what it would
+take from existing lines. It is a decision about the `lines` vocabulary
+(ADR-082), so do not make it. Fewer make it a **bridge**: the account stays
+cross-line, and the entry says which question failed. Count the lines each
+account's components come from by script, not by eye.
+
 ## 5. Account for it
 
-Write a curation entry, "Synthesis review of DATE", with four parts:
+Write a curation entry, "Synthesis review of DATE", with five parts:
 
 - **the ranking**: the stage-1 output's top rows, and what was added by
   hand;
@@ -152,6 +174,9 @@ Write a curation entry, "Synthesis review of DATE", with four parts:
   filed or the reason not;
 - **accounts filed or revised**, and relations repointed;
 - **what the current-account view now shows**: the lines with an account,
-  and the lines with none.
+  and the lines with none;
+- **the cross-line audit**: one row per cross-line account, with the lines
+  its components come from, the three answers, and its verdict, candidate
+  line or bridge.
 
 Add a changelog fragment. One review is one contribution (ADR-071).

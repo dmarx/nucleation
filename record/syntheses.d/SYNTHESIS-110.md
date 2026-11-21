@@ -16,6 +16,7 @@ tags:
 - individuation
 date: '2026-11-20'
 line:
+- learning-and-inquiry
 - formal-apparatus
 - distributed-agency
 integrates:

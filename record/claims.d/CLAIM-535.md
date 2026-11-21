@@ -54,6 +54,7 @@ line:
 - will-organization
 - formal-apparatus
 - distributed-agency
+- learning-and-inquiry
 rests_on:
 - CLAIM-350
 grounds:
