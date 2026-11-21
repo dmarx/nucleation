@@ -121,11 +121,11 @@ happened in this model at this setting.
 
 ## Note of 2026-11-21: Lau et al., read
 
-The estimator behind Table K.1 is now held (LIT-tmpnbl2d, NOTE-tmp92pjh,
-THEORY-tmpousrw). It qualifies this reading's inputs and leaves its title
+The estimator behind Table K.1 is now held ([LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), [NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md),
+[THEORY-tmpousrw](THEORY-tmpousrw.md)). It qualifies this reading's inputs and leaves its title
 standing. The estimator's consistency is a conjecture, and its only
 calibration against exact values is in noiseless deep linear networks,
-where it mostly underestimates; the TMS estimates in NOTE-1462 overstate
+where it mostly underestimates; the TMS estimates in [NOTE-1462](../notes.d/NOTE-1462.md) overstate
 the 5⁺-gon and the 6-gon. So the λ̂ for the 4-gon variants carry, beside
 their standard deviations, a bias of unknown sign and size, which the
 title's "at the point estimates" and its "not across their spread"

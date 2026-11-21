@@ -93,14 +93,14 @@ networks; [CLAIM-tmpficzj](../claims.d/CLAIM-tmpficzj.md) itself, for regular mo
 
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2011) and Transtrum et al. (2015), read
 
-A dated note; the status is not changed. Read in NOTE-tmpzxtnv and
-NOTE-tmphbpab. Two bearings:
+A dated note; the status is not changed. Read in [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md) and
+[NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md). Two bearings:
 
 - **The premise is the originators' own.** The 2011 paper's count (Eq. 16):
   "if M < 2N there will exist nontrivial singular points of the metric at
   non-extreme values of the parameters", and it equates network metric
   singularities with model boundaries, citing Amari, Park and Ozeki
-  (LIT-tmp0z602). An overparameterized network has M < 2N, so on their
+  ([LIT-tmp0z602](../literature.d/LIT-tmp0z602.md)). An overparameterized network has M < 2N, so on their
   own terms its metric is singular at finite parameters, as this
   argument's "relevant difference" says.
 - **But the originators did press the analogy, on small cases.** The 2011
@@ -109,5 +109,5 @@ NOTE-tmphbpab. Two bearings:
   structure" for an autoencoder's code, unpublished. The A19 §10 analogy
   therefore has a source in the programme, which this argument did not
   record. Neither case is an overparameterized network in its weights:
-  ARG-tmpv3nqz weighs them and finds they do not carry CLAIM-tmpficzj
+  [ARG-tmpv3nqz](ARG-tmpv3nqz.md) weighs them and finds they do not carry [CLAIM-tmpficzj](../claims.d/CLAIM-tmpficzj.md)
   there. The verdict here stands on that.

@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-21 (NOTE-tmp92pjh, Read) from arXiv 2308.12108v2; filed as
-  THEORY-tmpousrw. The source of the local learning coefficient estimator
+  read 2026-11-21 ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md), Read) from arXiv 2308.12108v2; filed as
+  [THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md). The source of the local learning coefficient estimator
   the record's singular-learning entries use.
 title: 'The Local Learning Coefficient: A Singularity-Aware Complexity Measure'
 version: 2
@@ -49,4 +49,4 @@ Lau, Furman, Wang, Murfet & Wei. arXiv 2308.12108 (v2, 2024). The venue AISTATS 
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A cites it at A37 for the local learning coefficient as a measure of degeneracy. Read the same day (NOTE-tmp92pjh) and filed as THEORY-tmpousrw. It is the estimator behind THEORY-1275 (LIT-1894) and THEORY-975 (LIT-1535), and bears on CLAIM-tmpcg4uu (ARG-tmpdvwy2), LEAD-tmpfrw11 and QUESTION-tmp7d1ws.
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A cites it at A37 for the local learning coefficient as a measure of degeneracy. Read the same day ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md)) and filed as [THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md). It is the estimator behind [THEORY-1275](../theory.d/THEORY-1275.md) ([LIT-1894](LIT-1894.md)) and [THEORY-975](../theory.d/THEORY-975.md) ([LIT-1535](LIT-1535.md)), and bears on [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md) ([ARG-tmpdvwy2](../arguments.d/ARG-tmpdvwy2.md)), [LEAD-tmpfrw11](../leads.d/LEAD-tmpfrw11.md) and [QUESTION-tmp7d1ws](../questions.d/QUESTION-tmp7d1ws.md).

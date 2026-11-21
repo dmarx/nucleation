@@ -193,7 +193,7 @@ session, and are not in the record.
 
 ## Note of 2026-11-21: Lau et al., read
 
-A parallel. Lau et al. (NOTE-tmp92pjh, App. E) contrast the Laplace
+A parallel. Lau et al. ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md), App. E) contrast the Laplace
 penalty (d/2) log n + ½ log det H, "ill-defined for neural networks", with
 the singular λ log n; "For a very benign type of degeneracy" the Laplace
 form is valid. That is this claim's point that a Gaussian Occam term

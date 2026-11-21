@@ -21,11 +21,11 @@ source:
 corroborates:
 - CLAIM-tmpficzj
 summary: >-
-  Transtrum, Machta and Sethna (2010), LIT-tmpd3swn, read in
-  NOTE-tmpamhd2. The letter that named the hyper-ribbon. Its explanation
+  Transtrum, Machta and Sethna (2010), [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), read in
+  [NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md). The letter that named the hyper-ribbon. Its explanation
   of the width hierarchy (interpolation) and its link to the spectrum
   (an observation in one model) are separate, and neither is a theorem;
-  the fuller treatment is LIT-tmpzkxka (THEORY-tmpgsgka).
+  the fuller treatment is [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md) ([THEORY-tmpgsgka](THEORY-tmpgsgka.md)).
 ---
 <!-- inactive-ok-file: THEORY-tmpgsgka — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Transtrum, Machta and Sethna, Phys. Rev. Lett. 104, 060201 (2010),
-LIT-tmpd3swn, read from arXiv 0909.3884v2 in NOTE-tmpamhd2.
+[LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), read from arXiv 0909.3884v2 in [NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md).
 
 ## What was actually shown
 
@@ -63,14 +63,14 @@ could have made no difference.
 ## What this does not say
 
 - **That widths equal √λ in general.** One model, one central point;
-  "suggests" is the authors' word. LIT-tmpzkxka finds the match conditional
+  "suggests" is the authors' word. [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md) finds the match conditional
   on units and starting point, and failing in magnitude for PC12.
 - **That the interpolation bound is proved,** or that it covers models of
   several variables or with chaotic dependence on parameters, which the
   paper itself excludes, with models whose parameters "are individually
   measured by the data".
 - **That the boundaries are singular strata.** The letter lists θ₁ = θ₂ as a
-  boundary; it does not say the metric is singular there (LIT-tmpzkxka
+  boundary; it does not say the metric is singular there ([LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md)
   does).
 - **That geodesic acceleration is generally better.** One test problem.
 - **A noise model.** Distances are raw residuals; "Fisher Information" is

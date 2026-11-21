@@ -109,8 +109,8 @@ does not have a finite characteristic distance".
   size; the record keeps the analogy as A's and does not adopt it.
 
 Predictive information, one of the measures A21 §8 says need not peak at
-criticality, is Bialek, Nemenman and Tishby's (LIT-tmpys7v3), read on
-2026-11-21 (THEORY-tmp3gj1j; see the note below). The worked case and the
+criticality, is Bialek, Nemenman and Tishby's ([LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md)), read on
+2026-11-21 ([THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md); see the note below). The worked case and the
 corrections above were checked in this session and do not depend on the
 work.
 
@@ -124,9 +124,9 @@ work.
 
 ## Note of 2026-11-21: Bialek, Nemenman & Tishby, read
 
-Read in NOTE-tmpilbkz (THEORY-tmp3gj1j). It was in this claim's grounds,
+Read in [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md) ([THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md)). It was in this claim's grounds,
 unread, for predictive information; it carries less than a ground for the
-claim as titled, and moves to corroborating it (ARG-tmpvo4gr).
+claim as titled, and moves to corroborating it ([ARG-tmpvo4gr](../arguments.d/ARG-tmpvo4gr.md)).
 
 - **Supports** the separation of entropy from complexity:
   "predictability is a deviation from extensivity"; complexity "should be

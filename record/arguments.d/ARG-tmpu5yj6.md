@@ -17,12 +17,12 @@ line:
 - formal-apparatus
 - learned-structure
 summary: >-
-  CLAIM-tmpj0k4q cited the review LIT-tmpm1tji, unread, in its grounds for
-  the sloppy-model setting. Read (NOTE-tmphbpab), the review carries the
+  [CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md) cited the review [LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md), unread, in its grounds for
+  the sloppy-model setting. Read ([NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)), the review carries the
   compression half (coarse observation moves the count of stiff directions
   down) and nothing on growth with data, which the claim derives itself. So
   the review moves from the claim's grounds to corroborating it, through
-  THEORY-tmpd7a4j. The wording is the assistant's (Claude, in this
+  [THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpj0k4q THEORY-777 THEORY-tmpd7a4j — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
@@ -31,9 +31,9 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpj0k4q: the number of directions a data set resolves grows with
+[CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md): the number of directions a data set resolves grows with
 the data, and zooming out and demanding precision move it in opposite
-ways. The review (THEORY-tmpd7a4j) reports, after Machta et al. (LIT-1299),
+ways. The review ([THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md)) reports, after Machta et al. ([LIT-1299](../literature.d/LIT-1299.md)),
 that the hopping model's manifold is a "hyper-blob" after one step and "as
 time proceeds, the model manifold contracts onto a hyper-ribbon", with the
 continuum parameters stiff and "all other microscopic parameter
@@ -43,8 +43,8 @@ directions resolved under coarser observation.
 ## Critical questions
 
 - **Would the evidence be expected if the claim were false?** The
-  compression result is THEORY-774's, which the claim already grounds on;
-  the review restates it and adds the Ising case (THEORY-777). It is
+  compression result is [THEORY-774](../theory.d/THEORY-774.md)'s, which the claim already grounds on;
+  the review restates it and adds the Ising case ([THEORY-777](../theory.d/THEORY-777.md)). It is
   expected whether or not more data resolve more directions, so it bears
   on one half only.
 - **Does it tell the claim apart from its rivals?** The rival is a fixed

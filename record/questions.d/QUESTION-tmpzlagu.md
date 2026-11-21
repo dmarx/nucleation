@@ -89,16 +89,16 @@ by [THEORY-581](../theory.d/THEORY-581.md), [THEORY-1558](../theory.d/THEORY-155
 More effective dimensions the question does not list, and none resolves
 it:
 
-- **Bialek, Nemenman and Tishby** (NOTE-tmpilbkz, THEORY-tmp3gj1j) separate
+- **Bialek, Nemenman and Tishby** ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md), [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md)) separate
   the parameter count K, a "phase space dimension" d that replaces K when
   the Fisher matrix is degenerate (Eq. 64), and the VC dimension, below
   which the (d/2) log N law does not hold. Their d is the regular-model
   counterpart of a learning coefficient's 2λ.
-- **Transtrum, Machta and Sethna 2011** (NOTE-tmpzxtnv, THEORY-tmpgsgka)
+- **Transtrum, Machta and Sethna 2011** ([NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md), [THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md))
   count the parameters not evaporated at a best fit, growing as
   log(W₀/σ)/|log ∆| for widths W₀∆ⁿ (Eq. 37), and summarize the manifold by
   "three numbers", W₀, ∆ and N.
 - **The 2010 letter** speaks of "few effective degrees of freedom" without
-  defining the count (NOTE-tmpamhd2).
+  defining the count ([NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md)).
 
-Relations are written from THEORY-tmp3gj1j and THEORY-tmpgsgka.
+Relations are written from [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md) and [THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md).

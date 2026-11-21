@@ -98,9 +98,9 @@ conditional covariance ([THEORY-742](../theory.d/THEORY-742.md)). Machta and col
 "a model is sloppy because it is observed at a scale much larger than its
 own" ([LIT-1299](../literature.d/LIT-1299.md), as read in its note). The breadth of the claim, across
 systems biology models, rests on Gutenkunst and colleagues
-(LIT-tmpsqbr9) and the reviews (LIT-tmpm1tji, LIT-tmp0fpti). The 2015
+([LIT-tmpsqbr9](../literature.d/LIT-tmpsqbr9.md)) and the reviews ([LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md), [LIT-tmp0fpti](../literature.d/LIT-tmp0fpti.md)). The 2015
 review was read on 2026-11-21 and grounds the claim through
-THEORY-tmpd7a4j (see the note below); the survey and the 2023 review are
+[THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md) (see the note below); the survey and the 2023 review are
 Deferred and unread, so the claim stays interpretive and Proposed.
 
 It sits beside [CLAIM-401](CLAIM-401.md) and [SYNTHESIS-075](../syntheses.d/SYNTHESIS-075.md): adequacy relative to a
@@ -139,12 +139,12 @@ own caveat in the same section ("One should not equate stiffness and RG
 relevance in every setting") stands. It is A's, not the sources': the 2015
 review says the Ising model develops stiff directions "along precisely
 those parameter combinations deemed 'relevant' under the renormalization
-group" (LIT-tmpm1tji, §V; note of 2026-11-21).
+group" ([LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md), §V; note of 2026-11-21).
 
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
 
-Read in NOTE-tmpamhd2, NOTE-tmpzxtnv and NOTE-tmphbpab (THEORY-tmpkoje5,
-THEORY-tmpgsgka, THEORY-tmpd7a4j).
+Read in [NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md), [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md) and [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md) ([THEORY-tmpkoje5](../theory.d/THEORY-tmpkoje5.md),
+[THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md), [THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md)).
 
 - **Consequence 1 is theirs.** 2015, §I: "As long as the model predictions
   depend on the same stiff parameter combinations as the data, the
@@ -153,7 +153,7 @@ THEORY-tmpgsgka, THEORY-tmpd7a4j).
   reliably extracted by fitting degenerate models, it is still possible to
   constrain the outcome of new experiments". 2011: "one can still make
   falsifiable predictions about model behavior without knowing the
-  parameter values". The review grounds the claim (THEORY-tmpd7a4j
+  parameter values". The review grounds the claim ([THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md)
   replaces the unread LIT in its grounds); the 2010 and 2011 papers
   corroborate it. Consequence 3 matches the review's thesis, "simple
   theories of macroscopic behavior are hidden inside complicated
@@ -162,7 +162,7 @@ THEORY-tmpgsgka, THEORY-tmpd7a4j).
   reparametrization) is conceded by the sources for the eigenvalues ("the
   FIM can be transformed into any positive definite matrix by a simple
   linear transformation of parameters") and answered with the widths of
-  the model manifold, which are invariant (TERM-tmp5z2du). The claim is
+  the model manifold, which are invariant ([TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)). The claim is
   safer read over widths than over eigenvalues.
 - **Neural networks.** The originators did apply the hyper-ribbon to
   networks: the 2011 paper finds the geodesic widths of a 4-4-2 tanh
@@ -174,5 +174,5 @@ THEORY-tmpgsgka, THEORY-tmpd7a4j).
   fewer than twice the parameters (M < 2N), which is the overparameterized
   regime. So "Not, yet, that it holds for neural networks" stands for
   overparameterized networks: the small network is regular where measured
-  and the autoencoder's parameters are not its weights (ARG-tmpv3nqz,
+  and the autoencoder's parameters are not its weights ([ARG-tmpv3nqz](../arguments.d/ARG-tmpv3nqz.md),
   Rejected as an inference to this claim for such networks).

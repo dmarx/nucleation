@@ -190,7 +190,7 @@ acquisition.
 
 Background. The review names "parameter space compression" under
 coarse-graining as the reason continuum and renormalizable theories
-succeed (§V; NOTE-tmphbpab), which this reading makes exact for
+succeed (§V; [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)), which this reading makes exact for
 Boltzmann families as a conditional covariance. The review gives no
 computation and does not treat the information a coarse-graining loses.
 No relation is written.

@@ -18,9 +18,9 @@ source:
 bears_on:
 - QUESTION-tmp7d1ws
 summary: >-
-  Lau, Furman, Wang, Murfet and Wei, LIT-tmpnbl2d, read in NOTE-tmp92pjh.
+  Lau, Furman, Wang, Murfet and Wei, [LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), read in [NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md).
   The estimator behind the record's learning-coefficient entries
-  (THEORY-1275, THEORY-975). The estimate is a free-energy slope at
+  ([THEORY-1275](THEORY-1275.md), [THEORY-975](THEORY-975.md)). The estimate is a free-energy slope at
   effective sample size n/log n, cut off also by the localizer's γ; the
   paper fixes β*, sets γ per experiment, and calibrates only in noiseless
   deep linear networks.
@@ -31,8 +31,8 @@ summary: >-
 ## Source
 
 Lau, Furman, Wang, Murfet and Wei, "The Local Learning Coefficient: A
-Singularity-Aware Complexity Measure", LIT-tmpnbl2d, read from arXiv
-2308.12108v2 in NOTE-tmp92pjh.
+Singularity-Aware Complexity Measure", [LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), read from arXiv
+2308.12108v2 in [NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md).
 
 ## What was actually shown
 
@@ -58,11 +58,11 @@ did not.
 - **That the estimator is consistent.** A conjecture.
 - **What it measures at other temperatures or localizations.** One β* per
   experiment; γ = 1 or 100 without a study of dependence. On a quadratic
-  loss the estimate is Σ ½ te_i/(te_i + γ) with t = n/log n (NOTE-tmp92pjh),
+  loss the estimate is Σ ½ te_i/(te_i + γ) with t = n/log n ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md)),
   so a direction with curvature below about γ log n/n counts as flat.
 - **That an underestimate is a smaller coefficient.** The authors
   attribute underestimation to a sampler that has not settled (App. H).
 - **That calibration transfers.** Outside deep linear networks the values
-  are uncalibrated; LIT-1894's Table K.1 (NOTE-1462) shows errors of about
+  are uncalibrated; [LIT-1894](../literature.d/LIT-1894.md)'s Table K.1 ([NOTE-1462](../notes.d/NOTE-1462.md)) shows errors of about
   15% and a wrong order between phases of equal coefficient in a model
   with known values.

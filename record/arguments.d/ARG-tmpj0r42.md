@@ -70,8 +70,8 @@ learning-coefficient estimate measures both at once.
   singularity" is refuted by the same linear model.
 - **Does the measure measure what it is said to?** Here is the gap. A
   hyperribbon is defined by the geodesic widths of the model image
-  (LIT-tmpd3swn, LIT-tmpzkxka, read on 2026-11-21: THEORY-tmpkoje5,
-  THEORY-tmpgsgka), not by Fisher eigenvalues at a
+  ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), read on 2026-11-21: [THEORY-tmpkoje5](../theory.d/THEORY-tmpkoje5.md),
+  [THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md)), not by Fisher eigenvalues at a
   point. The evidence is stated in eigenvalues. Whether the manifold
   boundaries that Transtrum and Qiu's reduction follows ([LIT-tmpdz70v](../literature.d/LIT-tmpdz70v.md),
   unread) are singular strata in general is open. Many lie at infinite
@@ -88,7 +88,7 @@ unsupported until a reading of the widths is filed. Proposed.
 
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011), read
 
-Read in NOTE-tmpamhd2 and NOTE-tmpzxtnv. On the "measure" question: the
+Read in [NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md) and [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md). On the "measure" question: the
 papers do define the hyper-ribbon by geodesic widths, measured from "some
 central point" along the metric's eigendirections, and find them ≈ √λ only
 in natural or log units, not in magnitude for PC12; so stating the
@@ -101,4 +101,4 @@ singular points are generic when the data number fewer than twice the
 parameters, otherwise near-singular at best. A reading of the widths is now
 filed, which this argument's verdict waited on; it explains the widths by
 interpolation, not strata, so the strongest reading of the bet is still
-unsupported. ARG-tmp97cwb takes this up; this argument's verdict stands.
+unsupported. [ARG-tmp97cwb](ARG-tmp97cwb.md) takes this up; this argument's verdict stands.

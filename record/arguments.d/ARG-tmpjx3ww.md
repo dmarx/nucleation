@@ -56,7 +56,7 @@ combinations are distinguishable under a particular observation metric."
   concept separation, training progress, predictive change). That is an
   instance of metrics disagreeing, which is [CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md). For the
   second, no. A hyperribbon is defined in the Fisher metric of the
-  model's predictions under its stated noise (LIT-tmpd3swn, LIT-tmpzkxka,
+  model's predictions under its stated noise ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md),
   read on 2026-11-21; see the note below): its
   thin directions are those that change the predictions little, which is
   what "unimportant for prediction" means. None of the four findings
@@ -88,13 +88,13 @@ at L26, recorded here.
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
 
 Supports the argument's premise. The hyper-ribbon is defined by distances
-in data space under g = JᵀJ (NOTE-tmpamhd2), with residuals in units of
-their errors in the 2011 paper (NOTE-tmpzxtnv; the 2010 letter states no
+in data space under g = JᵀJ ([NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md)), with residuals in units of
+their errors in the 2011 paper ([NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md); the 2010 letter states no
 noise model, so "under its stated noise" is the 2011 paper's). The papers
 frame the hierarchy as what the data constrain, not as importance: "only a
 few stiff parameter combinations need to be tuned to fit most of the
 data" (2010). The 2015 review does call combinations "that have little effect on
 model behavior" "unimportant", relative to the fitted behaviour, and
 warns that "if even a single parameter remains unknown ... large
-predictive uncertainty can still result" (NOTE-tmphbpab): importance
+predictive uncertainty can still result" ([NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)): importance
 relative to observation, as this argument reads it.

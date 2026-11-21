@@ -22,8 +22,8 @@ corroborates:
 - CLAIM-tmpj0k4q
 - CLAIM-tmpnu4ar
 summary: >-
-  Transtrum, Machta, Brown, Daniels, Myers and Sethna (2015), LIT-tmpm1tji,
-  read in NOTE-tmphbpab. The programme's own statement of what sloppiness
+  Transtrum, Machta, Brown, Daniels, Myers and Sethna (2015), [LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md),
+  read in [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md). The programme's own statement of what sloppiness
   is: a spectrum as symptom, the hyperribbon as substance. It gives no
   quantitative criterion and draws no line from ill-conditioning or from
   singularity; its neural-network passage is about an autoencoder's code,
@@ -36,8 +36,8 @@ summary: >-
 
 Transtrum, Machta, Brown, Daniels, Myers and Sethna, "Perspective:
 Sloppiness and emergent theories in physics, biology, and beyond", J.
-Chem. Phys. 143, 010901 (2015), LIT-tmpm1tji, read from arXiv 1501.07668v1
-in NOTE-tmphbpab.
+Chem. Phys. 143, 010901 (2015), [LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md), read from arXiv 1501.07668v1
+in [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md).
 
 ## What was actually shown
 
@@ -54,13 +54,13 @@ A review; what it reports, with its sources:
 - **The substance.** Geodesic widths are "exponentially distributed", and
   "when we use dimensionless model parameters (e.g. log-parameters), the
   square roots of the FIM eigenvalues are a reliable approximation to the
-  widths" (§III, citing LIT-tmpd3swn and LIT-tmpzkxka). "The exponential
+  widths" (§III, citing [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md) and [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md)). "The exponential
   distribution of manifold widths has been described as a hyperribbon".
 - **Why.** Interpolation, "for the case of a single independent variable".
 - **Emergence.** The hopping model's manifold "contracts onto a
   hyper-ribbon" as time proceeds; the Ising model develops stiff
   directions "along precisely those parameter combinations deemed
-  'relevant' under the renormalization group" (§V, restating LIT-1299).
+  'relevant' under the renormalization group" (§V, restating [LIT-1299](../literature.d/LIT-1299.md)).
 - **Reduction.** MBAM reduces EGFR from 48 parameters to 12 (§IV).
 
 ## What this does not say

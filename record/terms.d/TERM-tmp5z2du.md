@@ -71,10 +71,10 @@ sequence of mutually orthogonal directions, its widths fall roughly
 geometrically, each width smaller than the last by a roughly constant
 factor, over many decades. The papers spell it **hyper-ribbon**: "We
 describe the shape of a model manifold with such a hierarchy as a
-hyper-ribbon" (LIT-tmpzkxka, §III); the 2015 review writes "hyperribbon".
+hyper-ribbon" ([LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), §III); the 2015 review writes "hyperribbon".
 The **widths** are geodesic: the data-space length of a geodesic started
 from a central point along an eigendirection of the metric, run until it
-meets a boundary, or the length of a cross-section (LIT-tmpd3swn, Fig. 3:
+meets a boundary, or the length of a cross-section ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), Fig. 3:
 "Geodesic cross-sectional widths ... along the eigendirections of the
 metric from some central point"). In the papers' examples they span about
 four decades.
@@ -91,7 +91,7 @@ decrease steadily across many orders of magnitude."
 Fisher information is the metric the map pulls back,
 I = JᵀJ/σ² with J = ∂y/∂θ, and its eigenvalues λ₁ ≥ λ₂ ≥ … are the
 squared stretch factors of the map along its principal directions. A spectrum spread geometrically over decades, a **sloppy** one
-(TERM-tmptiim0), is the local form; the hyperribbon is the global form,
+([TERM-tmptiim0](TERM-tmptiim0.md)), is the local form; the hyperribbon is the global form,
 in which the manifold's extent, bounded by where parameters run to their
 limits, follows a hierarchy of the same kind. That the two hierarchies
 agree, width ≈ singular value of J ≈ √λ (not 1/√λ), is the authors'
@@ -101,15 +101,15 @@ ball, within √(2/M) for exponentials in a continuum limit, and numerical for
 a sum of exponentials and a 4-4-2 tanh network, all in natural or log
 units from a central point; and failing in magnitude for the PC12 model,
 whose widths are "smaller by several orders of magnitude" with the same
-spacing (THEORY-tmpgsgka). The local spectrum alone is not intrinsic: "one
+spacing ([THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md)). The local spectrum alone is not intrinsic: "one
 can always reparametrize the manifold to make the metric at a point any
-symmetric, positive definite matrix" (LIT-tmpzkxka, p. 6). Their reason
+symmetric, positive definite matrix" ([LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), p. 6). Their reason
 for the geometric fall is separate from the spectrum: fitting as
 interpolation of an analytic function, each cross-section "thinner than
 the last by a roughly constant factor" ∆, spacing over a radius of
 convergence; a ratio-test heuristic, argued for one independent variable
-and extended "in some multidimensional sense" (THEORY-tmpgsgka,
-THEORY-tmpd7a4j). The stiff directions are usually combinations of parameters,
+and extended "in some multidimensional sense" ([THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md),
+[THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md)). The stiff directions are usually combinations of parameters,
 not single ones: A19 §2's two-parameter model,
 y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eigenvalues
 2/σ² along θ₁+θ₂ and 2ε²/σ² along θ₁−θ₂, a ratio of 1/ε², 400 at
@@ -131,10 +131,10 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
 2. *Regular in the interior, singular at the edges.* The local reading
    needs a Fisher matrix of full rank where it is evaluated. The sources
    make the boundaries singular: "Model boundaries correspond to points on
-   the manifold where the metric is singular" (LIT-tmpzkxka, p. 10),
+   the manifold where the metric is singular" ([LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), p. 10),
    usually where parameters run to 0 or ∞ (in log parameters, all at
    infinity), sometimes on finite fold lines such as two equal rates
-   (CASE-tmpb2gly). So the widths are measured across a regular interior
+   ([CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md)). So the widths are measured across a regular interior
    between singular edges. At a singular point, where it loses
    rank, the widths do not shrink smoothly to zero along a direction; the
    manifold folds or pinches, and the Bayesian count of effective
@@ -153,13 +153,13 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
   distinguishability under one experiment; a power-law tail is a
   statement about the distribution of one observable.
 - **Not RG relevance.** In suitable settings the stiff directions after
-  coarse-graining are the relevant ones (THEORY-777, THEORY-742), but
+  coarse-graining are the relevant ones ([THEORY-777](../theory.d/THEORY-777.md), [THEORY-742](../theory.d/THEORY-742.md)), but
   stiffness depends on the measurement and coordinates and relevance on a
   fixed point and a scale map (A19 §5). This caution is A's and the
   record's, not the review's: Transtrum and colleagues say the Ising
   model develops stiff directions "along precisely those parameter
   combinations deemed 'relevant' under the renormalization group"
-  (LIT-tmpm1tji, §V). A19 §5's table gives critical
+  ([LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md), §V). A19 §5's table gives critical
   exponents as the rates at which perturbations "grow or shrink under
   rescaling"; for the Fisher eigenvalues the record's reading has the
   rate b^(2y−d) per step, with the dimension d in it, not b^y
@@ -178,16 +178,16 @@ The term and the geometry: Transtrum, Machta and Sethna 2010 and 2011
 work A19 links. The method of reducing a model along its thin directions
 to the manifold's boundary, which A19 §4 names: Transtrum and Qiu 2014
 ([LIT-tmpdz70v](../literature.d/LIT-tmpdz70v.md)). The empirical base in systems biology: Gutenkunst and
-colleagues 2007 (LIT-tmpsqbr9). The two papers and the 2015 review were
-read on 2026-11-21 (NOTE-tmpamhd2, NOTE-tmpzxtnv, NOTE-tmphbpab) and filed
-as THEORY-tmpkoje5, THEORY-tmpgsgka and THEORY-tmpd7a4j; the 2023 review,
+colleagues 2007 ([LIT-tmpsqbr9](../literature.d/LIT-tmpsqbr9.md)). The two papers and the 2015 review were
+read on 2026-11-21 ([NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md), [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md), [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)) and filed
+as [THEORY-tmpkoje5](../theory.d/THEORY-tmpkoje5.md), [THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md) and [THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md); the 2023 review,
 the reduction method and the survey are Deferred and unread. The
 definition rests on those readings, on A's wording and on the record's
-readings of THEORY-774, THEORY-777 and THEORY-742.
+readings of [THEORY-774](../theory.d/THEORY-774.md), [THEORY-777](../theory.d/THEORY-777.md) and [THEORY-742](../theory.d/THEORY-742.md).
 
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
 
-Read in NOTE-tmpamhd2, NOTE-tmpzxtnv and NOTE-tmphbpab; the corrections are
+Read in [NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md), [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md) and [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md); the corrections are
 made in place above (version 2). What the readings support and qualify:
 
 - **Supported:** the shape, each width "thinner than the last by a roughly

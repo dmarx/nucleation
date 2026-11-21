@@ -199,7 +199,7 @@ this account studies. No typed edge.
 
 ## Note of 2026-11-21: Lau et al., read
 
-A parallel. Lau et al. (NOTE-tmp92pjh, App. E) argue that Hessian-based
+A parallel. Lau et al. ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md), App. E) argue that Hessian-based
 flatness is ill-defined for singular models: the Laplace term
 (d/2) log n + ½ log det H is "ill-defined for neural networks", and a
 Gaussian posterior is the wrong shape there. That supports this reading's

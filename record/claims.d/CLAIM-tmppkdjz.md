@@ -164,9 +164,9 @@ order they give.
 A parallel that supports the claim's metric-dependence. Both say the
 Fisher spectrum depends on the parametrization: "one can always
 reparametrize the manifold to make the metric at a point any symmetric,
-positive definite matrix" (2011, p. 6; NOTE-tmpzxtnv); "the FIM can be
+positive definite matrix" (2011, p. 6; [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md)); "the FIM can be
 transformed into any positive definite matrix by a simple linear
-transformation of parameters" (2015, §III; NOTE-tmphbpab). Their answer is
+transformation of parameters" (2015, §III; [NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)). Their answer is
 to measure in the metric of the predictions, the model manifold's widths,
 which is one of the metrics this claim sets side by side. They do not
 compare that metric with the others the claim names. No relation is

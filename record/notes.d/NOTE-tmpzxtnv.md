@@ -41,7 +41,7 @@ checked numerically; boundaries identified with singularities of the
 metric; parameter-effects curvature shown to dominate extrinsic curvature;
 Gauss–Newton and Levenberg–Marquardt read as Euler steps of geodesic flow;
 geodesic acceleration and "delayed gratification" as cheap improvements
-to Levenberg–Marquardt. It continues LIT-tmpd3swn.
+to Levenberg–Marquardt. It continues [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md).
 
 ## Key insight
 
@@ -114,7 +114,7 @@ running to 0 or ∞, sometimes at finite folds.
   parameter space picture has the advantage that boundaries typically do
   not exist (i.e. they lie at parameter values equal to ∞)"; in log
   parameters all of them do. Network metric singularities are equated
-  with boundaries, citing Amari, Park and Ozeki (LIT-tmp0z602).
+  with boundaries, citing Amari, Park and Ozeki ([LIT-tmp0z602](../literature.d/LIT-tmp0z602.md)).
 - **Evaporation and noise** (§III, §VII G): parameters drift to extreme
   values; "for a given model, the errors must be smaller than the
   narrowest width for there to be no evaporated parameters" (pp. 29–30);
@@ -132,7 +132,7 @@ running to 0 or ∞, sometimes at finite folds.
 
 ## Concepts
 
-- **Model manifold, model graph, data space** — as in LIT-tmpd3swn.
+- **Model manifold, model graph, data space** — as in [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md).
 - **Hyper-ribbon** — a bounded manifold whose widths form a geometric
   series with ratio ∆, spacing over radius of convergence.
 - **Boundary** — a point of the manifold where the metric is singular.
@@ -144,42 +144,42 @@ running to 0 or ∞, sometimes at finite folds.
 
 ## Connections
 
-A continuation of LIT-tmpd3swn (NOTE-tmpamhd2); reviewed in LIT-tmpm1tji
-(NOTE-tmphbpab). Cites Amari, Park and Ozeki 2006 (LIT-tmp0z602,
+A continuation of [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md) ([NOTE-tmpamhd2](NOTE-tmpamhd2.md)); reviewed in [LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md)
+([NOTE-tmphbpab](NOTE-tmphbpab.md)). Cites Amari, Park and Ozeki 2006 ([LIT-tmp0z602](../literature.d/LIT-tmp0z602.md),
 Deferred) for metric singularities in network training, and states that
 Amari's natural-gradient flow reduces to the geodesic equation when all
-nonlinearity is parameter-effects curvature (THEORY-082 holds Amari's
+nonlinearity is parameter-effects curvature ([THEORY-082](../theory.d/THEORY-082.md) holds Amari's
 account).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpgsgka. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md). Dated notes of 2026-11-21 on each entry below.
 
-- **TERM-tmptiim0**, **TERM-tmp5z2du**: the corrections made in place
+- **[TERM-tmptiim0](../terms.d/TERM-tmptiim0.md)**, **[TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)**: the corrections made in place
   (invariance in the widths; √λ under conditions; boundaries singular;
   "evenly spaced"; spelling).
-- **CLAIM-tmpcg4uu**: its "What it does not say" inverted the paper's
+- **[CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)**: its "What it does not say" inverted the paper's
   relation (widths ≈ √λ, not 1/√λ), corrected there; the fold line
   corroborates its edge half.
-- **CLAIM-tmpcgvcp**: polynomial fitting, its separating example, is the
+- **[CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md)**: polynomial fitting, its separating example, is the
   paper's own sloppy example; the paper ties sloppiness to singularity at
-  the boundaries. ARG-tmpddtmr.
-- **CLAIM-tmpa8hb2**, **ARG-tmpj0r42**: boundaries are where the metric is
-  singular; widths come from interpolation, not strata. ARG-tmp97cwb.
-- **CASE-tmpb2gly**: the paper's toy model is the case's; θ₁ = θ₂ is its
+  the boundaries. [ARG-tmpddtmr](../arguments.d/ARG-tmpddtmr.md).
+- **[CLAIM-tmpa8hb2](../claims.d/CLAIM-tmpa8hb2.md)**, **[ARG-tmpj0r42](../arguments.d/ARG-tmpj0r42.md)**: boundaries are where the metric is
+  singular; widths come from interpolation, not strata. [ARG-tmp97cwb](../arguments.d/ARG-tmp97cwb.md).
+- **[CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md)**: the paper's toy model is the case's; θ₁ = θ₂ is its
   "fold line", singular at finite parameters.
-- **CLAIM-tmpficzj**, **ARG-tmpmvc5e**: the paper applies the hyper-ribbon
+- **[CLAIM-tmpficzj](../claims.d/CLAIM-tmpficzj.md)**, **[ARG-tmpmvc5e](../arguments.d/ARG-tmpmvc5e.md)**: the paper applies the hyper-ribbon
   to a 4-4-2 tanh network (Fig. 6b), and its counting makes finite
-  singular points generic when M < 2N. ARG-tmpv3nqz.
-- **CLAIM-tmpnu4ar**: its gap (boundaries at infinity becoming strata) is
+  singular points generic when M < 2N. [ARG-tmpv3nqz](../arguments.d/ARG-tmpv3nqz.md).
+- **[CLAIM-tmpnu4ar](../claims.d/CLAIM-tmpnu4ar.md)**: its gap (boundaries at infinity becoming strata) is
   the paper's log-coordinate and model-graph picture, not resolved by it.
-- **ARG-tmpjx3ww**, **CLAIM-tmppkdjz**: widths are data-space distances in
+- **[ARG-tmpjx3ww](../arguments.d/ARG-tmpjx3ww.md)**, **[CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md)**: widths are data-space distances in
   units of σ, and the spectrum depends on parametrization.
-- **CLAIM-tmpj0k4q**, **QUESTION-tmpzlagu**: Eq. 37's count of unevaporated
+- **[CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md)**, **[QUESTION-tmpzlagu](../questions.d/QUESTION-tmpzlagu.md)**: Eq. 37's count of unevaporated
   parameters, logarithmic in W₀/σ for a geometric series, is one more
   effective dimension.
-- **THEORY-082**: parallel, as under Connections.
-- **THEORY-774**, **THEORY-777**, **THEORY-742**: background; the general
+- **[THEORY-082](../theory.d/THEORY-082.md)**: parallel, as under Connections.
+- **[THEORY-774](../theory.d/THEORY-774.md)**, **[THEORY-777](../theory.d/THEORY-777.md)**, **[THEORY-742](../theory.d/THEORY-742.md)**: background; the general
   geometry their cases instantiate, with no coarse-graining here.
 
 Nothing here is an instruction for machine-learning practice.

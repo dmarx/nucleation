@@ -112,7 +112,7 @@ observations of any network.
 
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011), read
 
-Read in NOTE-tmpamhd2 and NOTE-tmpzxtnv. The case's addition, the same
+Read in [NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md) and [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md). The case's addition, the same
 edge in the textbook sloppy model, is the originators' own example: the
 2010 letter's Fig. 1 is e^(−θ₁t) + e^(−θ₂t), with "Boundaries ... when θµ =
 0, ∞ and when θ1 = θ2"; the 2011 paper calls θ₁ = θ₂ the "fold line", the
@@ -123,4 +123,4 @@ the parameters are nearly equal (near the fold line)". In its model graph
 case's identification of the edge as a singular stratum and its location.
 The v² law, the learning coefficient 3/4 and the pushed-forward density
 are not in the papers; they stay the case's. The case now draws on
-THEORY-tmpgsgka for its component.
+[THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md) for its component.

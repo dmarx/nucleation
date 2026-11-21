@@ -25,9 +25,9 @@ bears_on:
 - QUESTION-tmpzlagu
 - QUESTION-tmp2hhlc
 summary: >-
-  Bialek, Nemenman and Tishby (2001), LIT-tmpys7v3, read in NOTE-tmpilbkz.
+  Bialek, Nemenman and Tishby (2001), [LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md), read in [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md).
   The source of the three regimes of predictive information the record's
-  TERM-tmpxml4k carries. Their I_pred(T) has an infinite future. The
+  [TERM-tmpxml4k](../terms.d/TERM-tmpxml4k.md) carries. Their I_pred(T) has an infinite future. The
   power-law class is annealed and its essential singularity posited, then
   derived for one prior; the statements about criticality are asserted,
   not shown.
@@ -39,7 +39,7 @@ summary: >-
 ## Source
 
 Bialek, Nemenman and Tishby, "Predictability, complexity and learning",
-LIT-tmpys7v3, read from arXiv physics/0007070v3 in NOTE-tmpilbkz.
+[LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md), read from arXiv physics/0007070v3 in [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md).
 
 ## What was actually shown
 
@@ -68,7 +68,7 @@ or the basis; it does not, in the annealed calculation.
 - **That the power-law coefficients are exact.** They are annealed. In a
   linear-Gaussian model with eigenvalues j^(−p) the annealed coefficient is
   too large by about 1 + 1/p, while the exponent 1/p is right
-  (NOTE-tmpilbkz).
+  ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)).
 - **That every power law needs an essential singularity of this form.**
   The authors know of no complete Bayesian family of power-law scalings
   (p. 32).

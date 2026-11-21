@@ -72,11 +72,11 @@ already in [CLAIM-tmpq8q9t](../claims.d/CLAIM-tmpq8q9t.md).
 
 ## Note of 2026-11-21: Bialek, Nemenman & Tishby, read
 
-Bears on step 3. Bialek, Nemenman and Tishby (NOTE-tmpilbkz, §6, fn. 9)
+Bears on step 3. Bialek, Nemenman and Tishby ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md), §6, fn. 9)
 assert that "At critical points the predictive information will diverge
 with the size of the system", with coefficients "related to the standard
 scaling dimensions", the details to be worked out. That is a prediction
 this lead's strip computation could test: whether the predictive
 information of a strip of width W at T_c grows with W, and at what rate.
 Their quantity has an infinite future; the lead's, if it uses T′ = T, is a
-constant factor smaller for power-law growth (TERM-tmpxml4k).
+constant factor smaller for power-law growth ([TERM-tmpxml4k](../terms.d/TERM-tmpxml4k.md)).

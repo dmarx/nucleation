@@ -119,8 +119,8 @@ hierarchical layers are singular.
 
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2011), read
 
-A parallel. The 2011 paper (NOTE-tmpzxtnv) cites Amari, Park and Ozeki
-(LIT-tmp0z602) for metric singularities in network training and equates
+A parallel. The 2011 paper ([NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md)) cites Amari, Park and Ozeki
+([LIT-tmp0z602](../literature.d/LIT-tmp0z602.md)) for metric singularities in network training and equates
 them with model-manifold boundaries, where the metric JᵀJ is singular
 (§III, p. 10). It also states, without derivation, that Amari's
 natural-gradient flow (its Eq. 46) reduces to the geodesic equation when

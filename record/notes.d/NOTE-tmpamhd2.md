@@ -125,46 +125,46 @@ run to zero or infinity.
   form a hierarchy, each roughly a constant factor thinner.
 - **Sloppiness** — not defined formally; used for the eigenvalue hierarchy
   of g = JᵀJ, "spanning eight orders of magnitude" in Fig. 3's model, with
-  Gutenkunst et al. (LIT-tmpsqbr9) cited for its ubiquity. Nothing on even
+  Gutenkunst et al. ([LIT-tmpsqbr9](../literature.d/LIT-tmpsqbr9.md)) cited for its ubiquity. Nothing on even
   spacing in log scale.
 - **Width** — the geodesic length across the manifold along an
   eigendirection of the metric from a central point.
 
 ## Connections
 
-The fuller treatment is LIT-tmpzkxka (NOTE-tmpzxtnv), "of which this work
-is a continuation" in that paper's words; the review is LIT-tmpm1tji
-(NOTE-tmphbpab). The record's earlier readings of sloppy spectra,
-THEORY-774 and THEORY-777, use the same metric.
+The fuller treatment is [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md) ([NOTE-tmpzxtnv](NOTE-tmpzxtnv.md)), "of which this work
+is a continuation" in that paper's words; the review is [LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md)
+([NOTE-tmphbpab](NOTE-tmphbpab.md)). The record's earlier readings of sloppy spectra,
+[THEORY-774](../theory.d/THEORY-774.md) and [THEORY-777](../theory.d/THEORY-777.md), use the same metric.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpkoje5. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpkoje5](../theory.d/THEORY-tmpkoje5.md). Dated notes of 2026-11-21 on each entry below.
 
-- **TERM-tmp5z2du** (hyperribbon): supports, with corrections made in that
+- **[TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)** (hyperribbon): supports, with corrections made in that
   term: the paper's spelling is "hyper-ribbon"; widths are geodesic, from a
   central point along the metric's eigendirections; the width–spectrum
   link is an observation in one model plus a suggestion; no
   measurement-error scaling appears in this paper.
-- **TERM-tmptiim0** (sloppy): the paper defines sloppiness only by example.
-- **CLAIM-tmpcgvcp**, **CASE-tmpb2gly**, **CLAIM-tmpcg4uu**: Fig. 1 lists
+- **[TERM-tmptiim0](../terms.d/TERM-tmptiim0.md)** (sloppy): the paper defines sloppiness only by example.
+- **[CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md)**, **[CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md)**, **[CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)**: Fig. 1 lists
   θ₁ = θ₂ among the two-exponential manifold's boundaries, the case's fold
-  edge, without calling it singular (LIT-tmpzkxka does).
-- **CLAIM-tmpa8hb2**, **ARG-tmpj0r42**: "most boundaries occur at infinite
-  parameter values" backs the ARG's caveat; see ARG-tmp97cwb.
-- **CLAIM-tmpficzj**: corroborates consequence 1 (prediction without
+  edge, without calling it singular ([LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md) does).
+- **[CLAIM-tmpa8hb2](../claims.d/CLAIM-tmpa8hb2.md)**, **[ARG-tmpj0r42](../arguments.d/ARG-tmpj0r42.md)**: "most boundaries occur at infinite
+  parameter values" backs the ARG's caveat; see [ARG-tmp97cwb](../arguments.d/ARG-tmp97cwb.md).
+- **[CLAIM-tmpficzj](../claims.d/CLAIM-tmpficzj.md)**: corroborates consequence 1 (prediction without
   parameters).
-- **ARG-tmpjx3ww**: the hyper-ribbon is a data-space object; the paper
+- **[ARG-tmpjx3ww](../arguments.d/ARG-tmpjx3ww.md)**: the hyper-ribbon is a data-space object; the paper
   states no noise model.
-- **CLAIM-tmpj0k4q**: parallel. Added points within the radius of
+- **[CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md)**: parallel. Added points within the radius of
   convergence "supply little new information" (p. 3), each cross-section a
   constant factor thinner, which on that claim's terms gives logarithmic
   growth.
-- **CLAIM-tmpnu4ar**: boundaries where parameters take limiting values,
+- **[CLAIM-tmpnu4ar](../claims.d/CLAIM-tmpnu4ar.md)**: boundaries where parameters take limiting values,
   "Most parameters in these models have bounded effects" (p. 2).
-- **QUESTION-tmpzlagu**: "few effective degrees of freedom" is one more
+- **[QUESTION-tmpzlagu](../questions.d/QUESTION-tmpzlagu.md)**: "few effective degrees of freedom" is one more
   undefined count.
-- **THEORY-774**: parallel; the hierarchy there comes from observation at a
+- **[THEORY-774](../theory.d/THEORY-774.md)**: parallel; the hierarchy there comes from observation at a
   coarse scale, here from sampling within a radius of convergence.
 
 Nothing here is an instruction for machine-learning practice; geodesic
@@ -179,7 +179,7 @@ acceleration is a fitting algorithm for least squares.
   generality. The paper's own explanation of the hierarchy (interpolation)
   bounds the widths directly and does not go through the spectrum, so the
   two halves of its account are not derived from each other: a gap in its
-  argument that LIT-tmpzkxka narrows (an exact case and a continuum limit)
+  argument that [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md) narrows (an exact case and a continuum limit)
   without closing.
 - Table I is one test problem with no trial count.
 - "Fisher Information" is used for JᵀJ under unit error; no noise model.

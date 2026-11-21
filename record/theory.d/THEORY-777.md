@@ -152,10 +152,10 @@ Supports the direction of this reading and states it more strongly than
 the record does. The review: the Ising model "observed on long length
 scales, develops stiff directions along precisely those parameter
 combinations deemed 'relevant' under the renormalization group" (§V;
-NOTE-tmphbpab), restating Machta et al. (LIT-1299). It gives no rate; this
+[NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)), restating Machta et al. ([LIT-1299](../literature.d/LIT-1299.md)). It gives no rate; this
 reading's b^(2y−d) per step, with the dimension in it, and the record's
 caution against equating stiffness with relevance in general (A19 §5;
-TERM-tmp5z2du) are not the review's. A commented-out sentence in its
+[TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)) are not the review's. A commented-out sentence in its
 source, that RG arguments "derive the presence of sloppiness", is not in
 the published text. The review is not independent of this reading's
 source, so it does not meet the promote_when.
