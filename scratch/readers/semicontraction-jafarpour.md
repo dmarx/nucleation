@@ -7,3 +7,27 @@
   4 Oct 2020, "Submitted to IEEE TAC, May 18, 2020". Lawful (arXiv).
 - Codes read first: CLAIM-tmpdx6l8, TERM-tmp7i7ed, ARG-tmp5ahr5, CLAIM-635,
   THEORY-960, THEORY-2044, LEAD-tmpywiwn, LIT-tmpavt0i.
+
+## Step 2: sections read (2026-11-21)
+
+Read in full: abstract, I (intro), II (notation), III (Defs 1, 2, 4, 12;
+Thms 5, 6 statements, 7, 11, 13 with proof; Lemma 9; Remarks 14, 15;
+Ex. 16), IV (Def 17, Lemma 18, Thms 19, 21, Ex. 23), V (Thm 24 with proof,
+Rmk 25), VI (Thms 26, 27, 28, 30 with proofs; Rmks 29, 31, 32), VII,
+App. A. Skimmed/skipped: App. B-F (tensor-norm lemmas, proofs of Thms 5-6,
+Thm 30 extension, Lotka-Volterra).
+
+Findings so far:
+- Semicontraction = mu_seminorm(Df) <= -c (Def 12). Convergence to
+  x* + Ker (Thm 13(ii)) needs shifted invariance; the theorem does NOT say
+  where in the kernel the trajectory ends, and Ex. 16 has a trajectory
+  that converges to the kernel and runs off to infinity along it.
+- Weak contraction = mu(Df) <= 0 w.r.t. a norm (Def 17): distances
+  non-increasing. Doubly contracting (Thm 24): a limit point exists in S,
+  still not identified by the seminorm.
+- The limit is identified only in the examples, and by a separate
+  conservation law: Thm 26 limit L^+ b + (v^T x0) 1_n, from v^T L = 0,
+  v the dominant LEFT eigenvector. This is an oblique projection along
+  Img(L), not the orthogonal projection onto Ker (unless v = 1/n).
+- No Markov chains, no discrete time ("extensions to discrete-time" is
+  future work, VII), nothing on approximate conservation.
