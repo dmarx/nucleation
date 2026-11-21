@@ -27,7 +27,7 @@ integrates:
 - TERM-131
 - QUESTION-488
 ---
-<!-- inactive-ok-file: CLAIM-tmpydua7 CLAIM-tmpspx4i THEORY-tmp3tb8i — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
+<!-- inactive-ok-file: CLAIM-788 CLAIM-787 THEORY-2147 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 <!-- inactive-ok-file: TERM-131 — Proposed or Open; components of this account, cited with their standing -->
 # SYNTHESIS-tmpxuvmn: An unresolved discrepancy, read as frustration among maintained demands, is an occasion and a sufficient condition for self-formation, a maintained new distinction or channel that outlasts it and transfers, and not a guarantee of it; the record defines learning more broadly and does not identify the two
@@ -61,15 +61,15 @@ Filed since, and candidates for this account's components at its next
 synthesis review (not added here, since an account adds nothing and its
 components are the review's to settle):
 
-- **[CLAIM-tmpydua7](../claims.d/CLAIM-tmpydua7.md)**: First Contact read as this account's route, a new
+- **[CLAIM-788](../claims.d/CLAIM-788.md)**: First Contact read as this account's route, a new
   channel formed to repair a failure of information split between two
   parties (the interface acts, the user knows the task); grounded on a local
-  reading, [THEORY-tmp3tb8i](../theory.d/THEORY-tmp3tb8i.md).
-- **[CLAIM-tmpspx4i](../claims.d/CLAIM-tmpspx4i.md)**: help that stabilizes one level can look, at that
+  reading, [THEORY-2147](../theory.d/THEORY-2147.md).
+- **[CLAIM-787](../claims.d/CLAIM-787.md)**: help that stabilizes one level can look, at that
   level, like the channel failing; the horizon at which a channel is judged
   is a level of a rate hierarchy.
-- **[QUESTION-tmp6iu8e](../questions.d/QUESTION-tmp6iu8e.md)**: whether stabilizing help erodes the capacity it
+- **[QUESTION-504](../questions.d/QUESTION-504.md)**: whether stabilizing help erodes the capacity it
   stands in for, invisibly to a score taken with the help present.
 
-First Contact runs neither of [CLAIM-532](../claims.d/CLAIM-532.md)'s tests ([NOTE-tmp7qgd8](../notes.d/NOTE-tmp7qgd8.md)), so it
+First Contact runs neither of [CLAIM-532](../claims.d/CLAIM-532.md)'s tests ([NOTE-2236](../notes.d/NOTE-2236.md)), so it
 illustrates the route without certifying it.

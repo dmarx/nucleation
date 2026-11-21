@@ -30,7 +30,7 @@ summary: >-
   how often the grammar grew; this measures who changed it, how, and what
   the changes did.
 ---
-<!-- inactive-ok-file: ADR-tmpvmzl6 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
+<!-- inactive-ok-file: ADR-124 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 <!-- inactive-ok-file: ADR-047 ADR-076 ADR-077 ADR-080 — Superseded; cited as decisions the census coded -->
 <!-- inactive-ok-file: ARG-028 CLAIM-181 — Proposed; cited in this filing of 2026-11-20 -->
@@ -174,6 +174,6 @@ the record held about twenty more: [ADR-115](../decisions.d/ADR-115.md) and [ADR
 that night on reframings, the dialectic regime, earmarks, merging into
 staging, the promotion pull request and an adoption review, several filed as
 alternatives of which the owner chose one. The adoption review
-([ADR-tmpvmzl6](../decisions.d/ADR-tmpvmzl6.md)) also moved 34 decisions from Proposed to Active, so the
+([ADR-124](../decisions.d/ADR-124.md)) also moved 34 decisions from Proposed to Active, so the
 census's statuses are stale. A rerun of the census scripts on the current
 record would update both; until then its figures hold as of 2026-11-20.
