@@ -36,7 +36,7 @@ summary: >-
   docs-check a third time; and no devlog note was filed as the work went.
   Six recommendations, none yet a decision.
 ---
-<!-- inactive-ok-file: ADR-127 ADR-116 ADR-115 — Proposed; the decisions this reviews -->
+<!-- inactive-ok-file: ADR-127 ADR-115 — Proposed; the decisions this reviews -->
 <!-- inactive-ok-file: CLAIM-tmp1xigl CLAIM-tmppkqzl CLAIM-tmp0kqq4 — Proposed; filed in pull request 583, cited for what they hold -->
 
 # RETRO-tmp4n9h8: The manuscript "From Obstruction to Reorganization", the filing of its principles and census, and the exchange on anchoring, 2026-11-20 to 21: what went right was independent readers checking the drafter and the owner widening a frame, and what went wrong was a drafter's restatements overreaching in one direction, integrations stated as principles before the admission test, and no devlog notes taken
@@ -126,7 +126,7 @@ pull requests, their commits and the session's transcript.
   calling a result new. It needs one more place to search, the "Not stated
   on the record" sections of the accounts.
 - **A code in a title failed docs-check again.** On 557 an account's
-  title named ADR-048, and the repair linked the code in the heading but
+  title named [ADR-048](../decisions.d/ADR-048.md), and the repair linked the code in the heading but
   not in the title. This was the third occurrence (see the devlog entry of
   04:22:08). Luria now refuses codes in titles upstream (dmarx/luria#403),
   which removes the hazard from the next bump.
@@ -134,7 +134,7 @@ pull requests, their commits and the session's transcript.
   census counts decisions to 2026-11-20, while about twenty more were filed
   the next night and 34 moved to Active. The manuscript needed three
   refreshes in a day. Each refresh was a hand-copied update of a derived
-  text, which is [CLAIM-tmp0kqq4](../claims.d/CLAIM-tmp0kqq4.md)'s hazard, and one of them carried RETRO-004's
+  text, which is [CLAIM-tmp0kqq4](../claims.d/CLAIM-tmp0kqq4.md)'s hazard, and one of them carried [RETRO-004](RETRO-004.md)'s
   stale summary forward until a reader noticed.
 - **No devlog notes were taken.** [ADR-115](../decisions.d/ADR-115.md) asks for a note filed as the
   work goes, in the pull request it concerns. None was. This retrospective
