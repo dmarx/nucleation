@@ -35,7 +35,7 @@ See [ADR-tmpi2grj](ADR-tmpi2grj.md). The owner's second concern is about timing.
 
 ## Demonstration
 
-**The case of 2026-11-20.** The ten principles and the cycle would have been filed on the day as accounts, with their integrating sentences under "Not yet tested". The audit would have run at the next review, not the same evening, and would have found what it found. But the owner's direction to file the principles would not have been needed to keep them. [CLAIM-tmpzrl0a](../claims.d/CLAIM-tmpzrl0a.md), the narrowed part of the cycle, would have been filed at that review instead of at once.
+**The case of 2026-11-20.** The ten principles and the cycle would have been filed on the day as accounts, with their integrating sentences under "Not yet tested". The audit would have run at the next review, not the same evening, and would have found what it found. But the owner's direction to file the principles would not have been needed to keep them. [CLAIM-794](../claims.d/CLAIM-794.md), the narrowed part of the cycle, would have been filed at that review instead of at once.
 
 **The skill wording.** `read-and-file` step 9 replaces "File what it adds as a claim, or nothing … If nothing passes, file no claim" with "File its map as an account of its scope, and list what it adds under 'Not yet tested'; the synthesis review tests it (ADR-tmpkiuac), unless the owner asks for a claim now." `synthesis-review` gains, at stage 1, "every 'Not yet tested' link is a candidate".
 
