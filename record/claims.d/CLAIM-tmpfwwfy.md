@@ -25,11 +25,11 @@ bears_on:
 - QUESTION-tmpvu6cb
 summary: >-
   The owner's, at U19 of the exchange "Rich Get Richer Power Laws"
-  (2026-11-21), on the active-matter model of QUESTION-tmpvu6cb: "I think an important
+  (2026-11-21), on the active-matter model of [QUESTION-tmpvu6cb](../questions.d/QUESTION-tmpvu6cb.md): "I think an important
   consideration here is concentration of measure, e.g. to a gaussian
   annulus". The other assistant took it as "a crucial correction to the
   model we've been developing" (A30); its development is filed as
-  CLAIM-tmp41gfr, CLAIM-tmpqqngq, CLAIM-tmpy688z and CLAIM-tmp5y856.
+  [CLAIM-tmp41gfr](CLAIM-tmp41gfr.md), [CLAIM-tmpqqngq](CLAIM-tmpqqngq.md), [CLAIM-tmpy688z](CLAIM-tmpy688z.md) and [CLAIM-tmp5y856](CLAIM-tmp5y856.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp41gfr CLAIM-tmpqqngq CLAIM-tmpy688z CLAIM-tmp5y856 CLAIM-tmpym2vz CLAIM-tmpk33au — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
@@ -52,14 +52,14 @@ for organization.
 
 The other assistant's development (A30–A35), filed as A's:
 
-- the baseline itself, and what it rules out as evidence (CLAIM-tmp41gfr);
-- the scales at which a directional bias overcomes it (CLAIM-tmpqqngq);
+- the baseline itself, and what it rules out as evidence ([CLAIM-tmp41gfr](CLAIM-tmp41gfr.md));
+- the scales at which a directional bias overcomes it ([CLAIM-tmpqqngq](CLAIM-tmpqqngq.md));
 - concentration set by effective, not ambient, dimension, and its tie to
-  power-law spectra (CLAIM-tmpy688z, with the assistant's finite-width correction
-  CLAIM-tmpym2vz);
+  power-law spectra ([CLAIM-tmpy688z](CLAIM-tmpy688z.md), with the assistant's finite-width correction
+  [CLAIM-tmpym2vz](CLAIM-tmpym2vz.md));
 - learned structure emerging from the random bulk as a detectability
-  threshold (CLAIM-tmp5y856);
-- the assistant's comparison of the thresholds this produces (CLAIM-tmpk33au).
+  threshold ([CLAIM-tmp5y856](CLAIM-tmp5y856.md));
+- the assistant's comparison of the thresholds this produces ([CLAIM-tmpk33au](CLAIM-tmpk33au.md)).
 
 ## What it does not say
 
@@ -67,4 +67,4 @@ The other assistant's development (A30–A35), filed as A's:
   is a null to measure against, and the interesting structure is the
   departure from it.
 - Not that concentration is the only consideration, or that it settles
-  whether the active-matter model holds (QUESTION-tmpvu6cb).
+  whether the active-matter model holds ([QUESTION-tmpvu6cb](../questions.d/QUESTION-tmpvu6cb.md)).

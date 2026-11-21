@@ -52,7 +52,7 @@ Finding v without labels is a separate matter. In the limit D, N → ∞ with
 Marchenko–Pastur edge (1 + √γ)² only when β > √γ, at
 (1 + β)(1 + γ/β), with squared eigenvector overlap
 (1 − γ/β²)/(1 + γ/β); below, the overlap tends to zero (the BBP transition,
-Baik, Ben Arous and Péché, LIT-tmpipm3o, Deferred: registered, not read).
+Baik, Ben Arous and Péché, [LIT-tmpipm3o](../literature.d/LIT-tmpipm3o.md), Deferred: registered, not read).
 
 "Semantically informative structure can exist in an embedding cloud whose
 generic pairwise geometry looks almost completely random."

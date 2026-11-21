@@ -59,17 +59,17 @@ embedding dynamics: they relax, they carry no sustained current, and
 "particles move because the network learns, but the manner in which they can
 move also changes" (A29 §2) is true without making the system active.
 
-So where the strong active-matter reading of CLAIM-tmp526xr needs broken detailed
+So where the strong active-matter reading of [CLAIM-tmp526xr](CLAIM-tmp526xr.md) needs broken detailed
 balance or persistent driving, it has to come from outside the coupling:
 
-- the optimizer: momentum makes the dynamics second order (THEORY-779's
+- the optimizer: momentum makes the dynamics second order ([THEORY-779](../theory.d/THEORY-779.md)'s
   damped oscillators), and an adaptive preconditioner P_t replaces K by
   J P_t Jᵀ, still positive semidefinite while P_t is, so it too keeps the
   descent and adds activity only through its own memory and time
   dependence;
 - noise whose covariance is not matched to the mobility, which is how
   SGD's probability currents arise in the quadratic approximation
-  (THEORY-209);
+  ([THEORY-209](../theory.d/THEORY-209.md));
 - a changing objective or data stream, which makes L time dependent and
   the Lyapunov argument inapplicable.
 
@@ -89,7 +89,7 @@ the 100 × 100 matrix K was positive (6.7 × 10⁻⁵).
 ## What it does not say
 
 - Not that training is an equilibrium process. Stochastic training has
-  currents (THEORY-209); the claim locates their source.
+  currents ([THEORY-209](../theory.d/THEORY-209.md)); the claim locates their source.
 - Not that the representation's geometry is static. It moves and its
   coupling changes; it moves downhill.
 - Not that a time-dependent objective, such as contrastive learning with

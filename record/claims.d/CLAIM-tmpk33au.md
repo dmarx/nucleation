@@ -47,8 +47,8 @@ summary: >-
 
 **Which gap.** The exchange names several thresholds: a cone's half-angle
 tracking π/2 − a/√D, with a bias κ of order √D changing its occupancy
-(CLAIM-tmpqqngq, A35 §1); the BBP threshold √(D/N) at which a covariance spike
-separates from the bulk (CLAIM-tmp5y856, A32 §2); and the ordering of a mean-field
+([CLAIM-tmpqqngq](CLAIM-tmpqqngq.md), A35 §1); the BBP threshold √(D/N) at which a covariance spike
+separates from the bulk ([CLAIM-tmp5y856](CLAIM-tmp5y856.md), A32 §2); and the ordering of a mean-field
 O(D) alignment model at J/T = D (A32 §7). A33 §9 lists them as "a hierarchy
 of geometric thresholds" that "need not occur simultaneously", without
 relating them. They can be put on one axis, the alignment strength.
@@ -65,7 +65,7 @@ x along μ by c = κ/√D (A35 §1).
    the same order as the cone threshold when N is proportional to D, earlier
    by γ^(1/4) when N ≫ D, later when N ≪ D. It is a non-analytic change in
    what the estimator returns, not in the population.
-3. **An order-one cosine**, or a cone of fixed angle, needs κ ∼ D (CLAIM-tmpqqngq),
+3. **An order-one cosine**, or a cone of fixed angle, needs κ ∼ D ([CLAIM-tmpqqngq](CLAIM-tmpqqngq.md)),
    a factor √D beyond the first two. The fixed-angle occupancy becomes a
    step in κ/D as D grows, still with no interaction: a concentration step.
 
@@ -152,6 +152,6 @@ Computed in this session (python3 -I, numpy, scipy):
   give m ≈ 0, as A30 §7 notes, so the order parameter for "onset of
   learning as symmetry breaking" (A30 §10) is still to be named. The claim
   is about the models the exchange used.
-- Not that the hyperbolic entailment cones of THEORY-189 have the √D
+- Not that the hyperbolic entailment cones of [THEORY-189](../theory.d/THEORY-189.md) have the √D
   aperture threshold: the cone here is a spherical cap about the origin
-  (ARG-tmpwo5ou).
+  ([ARG-tmpwo5ou](../arguments.d/ARG-tmpwo5ou.md)).

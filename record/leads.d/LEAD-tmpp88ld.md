@@ -40,8 +40,8 @@ summary: >-
 **Why.** Each claim filed from the exchange's high-dimensional turns
 predicts a different signature in the same data, and each has a geometric
 null that can fake it. Measured together on one run, they can be told
-apart: concentration (CLAIM-tmp41gfr, CLAIM-tmpqqngq), spectral detectability (CLAIM-tmp5y856,
-CLAIM-tmpk33au), cone order (CLAIM-tmp6mjfc) and collective dynamics (CLAIM-tmp526xr).
+apart: concentration ([CLAIM-tmp41gfr](../claims.d/CLAIM-tmp41gfr.md), [CLAIM-tmpqqngq](../claims.d/CLAIM-tmpqqngq.md)), spectral detectability ([CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md),
+[CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)), cone order ([CLAIM-tmp6mjfc](../claims.d/CLAIM-tmp6mjfc.md)) and collective dynamics ([CLAIM-tmp526xr](../claims.d/CLAIM-tmp526xr.md)).
 
 **Design.**
 
@@ -52,10 +52,10 @@ CLAIM-tmpk33au), cone order (CLAIM-tmp6mjfc) and collective dynamics (CLAIM-tmp5
 - **Vary width D and probe size N** (A30 §9, A32 §9), holding data and task
   fixed, and scale the contrastive temperature or alignment strength with D
   (A30 §9), since fixed hyperparameters move a model between regimes as D
-  changes (CLAIM-tmpqqngq).
+  changes ([CLAIM-tmpqqngq](../claims.d/CLAIM-tmpqqngq.md)).
 - **Measure at each checkpoint**: norm distribution; centred covariance
   spectrum, its exponent and participation ratio (fitted directly, not from
-  width scaling, CLAIM-tmpym2vz); top eigenvalues against a covariance-matched
+  width scaling, [CLAIM-tmpym2vz](../claims.d/CLAIM-tmpym2vz.md)); top eigenvalues against a covariance-matched
   Marchenko–Pastur null; linear-probe accuracy per level; cone occupancy and
   enrichment E_t(C) = log[P_t(C)/P₀(C)] (A35 §9); the rotation-invariant
   Gram matrix (A30 §7); velocity correlations of the probe embeddings and
@@ -66,13 +66,13 @@ CLAIM-tmpk33au), cone order (CLAIM-tmp6mjfc) and collective dynamics (CLAIM-tmp5
   semantic relations; plus kernel-predicted velocity correlations (A29 §9).
 - **Comparisons that discriminate.**
   - Probe onset against PCA outlier detachment, per level: a probe that is
-    informative first shows subthreshold structure (CLAIM-tmp5y856).
+    informative first shows subthreshold structure ([CLAIM-tmp5y856](../claims.d/CLAIM-tmp5y856.md)).
   - Cone first-entry against held-out decodability per level: only the
-    second is evidence of coarse-to-fine acquisition (CLAIM-tmp6mjfc).
+    second is evidence of coarse-to-fine acquisition ([CLAIM-tmp6mjfc](../claims.d/CLAIM-tmp6mjfc.md)).
   - Occupancy curves across widths against c = κ/√D and κ/D: a collapse is
     the geometric null, not criticality (A35 §7).
   - A detached top eigenvalue that grows before global alignment appears:
-    the spectral precursor of an alignment bifurcation (CLAIM-tmpk33au).
+    the spectral precursor of an alignment bifurcation ([CLAIM-tmpk33au](../claims.d/CLAIM-tmpk33au.md)).
 - **Locality without circularity.** A29 §9 bins velocity correlations by
   distance on the learned manifold, while A30 §3 argues that meaningful
   locality may be what learning creates. Measuring locality on a geometry the
@@ -84,8 +84,8 @@ CLAIM-tmpk33au), cone order (CLAIM-tmp6mjfc) and collective dynamics (CLAIM-tmp5
   change of coordinates rather than a genuine loss of knowledge" (A33 §8):
   use shared anchors, an isometric alignment or invariant relations. The
   record holds that Poincaré seeds differ by more than an isometry
-  (THEORY-1136) and that linear readouts see a representation only up to
-  its kernel's symmetry (CLAIM-193, CLAIM-269).
+  ([THEORY-1136](../theory.d/THEORY-1136.md)) and that linear readouts see a representation only up to
+  its kernel's symmetry ([CLAIM-193](../claims.d/CLAIM-193.md), [CLAIM-269](../claims.d/CLAIM-269.md)).
 
 **Blocked on nothing named.** Not costed. A33 §8 also proposes comparing a
 Euclidean model, a hyperbolic model with an entailment loss, and one with a
