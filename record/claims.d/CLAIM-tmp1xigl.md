@@ -113,7 +113,7 @@ anchors of the second kind. Its independent audits, fact-checks against
 sources and status reviews are channels of the first. [CLAIM-185](CLAIM-185.md)'s
 nucleation, structure that can grow only on anchors, is the second kind's
 contribution to an inquiry; it says nothing about whether what grows is
-right. The two objections to [CLAIM-772](CLAIM-772.md) of the same day are local cases:
+right. The two objections to [CLAIM-772](CLAIM-772.md) of the same day, stated in general terms, are cases of it:
 the reader's prior that offsets every reading of an anchored text
 ([CLAIM-tmppkqzl](CLAIM-tmppkqzl.md)) is anchoring of the third kind inside one of the
 second; the stale summary ([CLAIM-tmp0kqq4](CLAIM-tmp0kqq4.md)) is the second kind not
