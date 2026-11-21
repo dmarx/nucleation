@@ -171,4 +171,4 @@ Hoogland et al. ([LIT-2966](../literature.d/LIT-2966.md)) is now read ([NOTE-tmp
 
 ## Note of 2026-11-21: the step to the new ground
 
-The step that puts THEORY-tmpr9w2r in this claim's grounds is the one ARG-tmpfh555 argues for reading (b), CLAIM-823: Hoogland et al. ground only that stages leave a mark in the learning coefficient. That is all this claim takes from it. The note is the assistant's (Claude, in this session).
+The step that puts [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md) in this claim's grounds is the one [ARG-tmpfh555](../arguments.d/ARG-tmpfh555.md) argues for reading (b), [CLAIM-823](CLAIM-823.md): Hoogland et al. ground only that stages leave a mark in the learning coefficient. That is all this claim takes from it. The note is the assistant's (Claude, in this session).

@@ -163,7 +163,7 @@ Filed as [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md). Dated notes of 2026-
   below the last" is wrong for most of the collection; and the claim that
   a sloppy spectrum covers decades in proportion to the number of
   parameters is not what these spectra show. Supports "relative to a
-  design", in the passage TERM-140 quotes. On "relative to a chart" it argues the other way: the
+  design", in the passage [TERM-140](../terms.d/TERM-140.md) quotes. On "relative to a chart" it argues the other way: the
   bare parametrization is "fundamental to the system".
 - **[TERM-135](../terms.d/TERM-135.md)** — background: no model manifold and no widths here; the
   ellipsoids are in parameter space, axes ∝ 1/√λ.
