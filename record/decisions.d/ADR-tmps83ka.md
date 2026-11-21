@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'The earmark convention is stated as steps in a procedure of its own, apart from the decision that records why: the decision holds the invariants, as ADR-068 does for filing, and the procedure, beside the retrospective''s, holds what to do'
+title: 'The earmark convention is stated as steps in a procedure of its own, apart from the decision that records why: the decision holds the invariants, as the decision on filing does for its skill, and the procedure, beside the retrospective''s, holds what to do'
 version: 1
 tags:
 - record
@@ -11,7 +11,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-tmpyzxw8 ADR-tmp7kh0t ADR-tmpuu4y4 ADR-115 ADR-068 — Proposed; the alternative readings of one request, and the decisions they sit beside -->
 
-# ADR-tmps83ka: The earmark convention is stated as steps in a procedure of its own, apart from the decision that records why: the decision holds the invariants, as [ADR-068](ADR-068.md) does for filing, and the procedure, beside the retrospective's, holds what to do
+# ADR-tmps83ka: The earmark convention is stated as steps in a procedure of its own, apart from the decision that records why: the decision holds the invariants, as the decision on filing does for its skill, and the procedure, beside the retrospective's, holds what to do
 
 ## Context
 
