@@ -6,6 +6,22 @@ formerly:
 title: 'sloppy, of a parametric model at a point and for an observation design: its Fisher information spectrum, in a declared chart, spreads evenly over many decades with no gap that separates the parameter combinations that matter from those that do not, along eigenvectors skewed from the bare parameter axes; a graded property, distinct from ill-conditioning and from singularity'
 version: 3
 history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Edited in place, the term having been filed in this pull request, after
+    the readings of its sources: LIT-2977 (NOTE-2240), LIT-3009
+    (NOTE-2247) and LIT-2994 (NOTE-2242). The title and the
+    definition stand. Added: what the sources say sloppiness is, that they
+    put its invariant content in the model manifold's widths, that widths
+    match √λ only in natural or log units, from a central point and under
+    conditions, and that their "evenly spaced" / "fixed factor" differs from
+    the widening gaps this term's own check found (both kept). Revised:
+    "What it is not: singular", since the sources make the manifold's
+    boundaries the points where the metric is singular, so the sloppy
+    interior is regular and its edges singular. The separations from
+    ill-conditioning and from a power-law spectrum are marked as the
+    record's, and the statements that the sources were unread are replaced.
 - version: 3
   date: '2026-11-21'
   note: >-
@@ -27,22 +43,6 @@ history:
     paper's Dataset S1, recomputed by the filer; a lower bound, because of
     the numerical floor). The separations from ill-conditioning and from
     singularity, and the relativity to chart and design, stand.
-- version: 2
-  date: '2026-11-21'
-  note: >-
-    Edited in place, the term having been filed in this pull request, after
-    the readings of its sources: LIT-2977 (NOTE-2240), LIT-3009
-    (NOTE-2247) and LIT-2994 (NOTE-2242). The title and the
-    definition stand. Added: what the sources say sloppiness is, that they
-    put its invariant content in the model manifold's widths, that widths
-    match √λ only in natural or log units, from a central point and under
-    conditions, and that their "evenly spaced" / "fixed factor" differs from
-    the widening gaps this term's own check found (both kept). Revised:
-    "What it is not: singular", since the sources make the manifold's
-    boundaries the points where the metric is singular, so the sloppy
-    interior is regular and its edges singular. The separations from
-    ill-conditioning and from a power-law spectrum are marked as the
-    record's, and the statements that the sources were unread are replaced.
 tags:
 - information-geometry
 - mathematical-statistics

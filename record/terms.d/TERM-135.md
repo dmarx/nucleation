@@ -6,19 +6,6 @@ formerly:
 title: 'hyperribbon: a model manifold whose widths across successive orthogonal directions fall roughly geometrically, the prediction-space face of a sloppy Fisher spectrum'
 version: 3
 history:
-- version: 3
-  date: '2026-11-21'
-  note: >-
-    Edited in place after the readings of LIT-2979 (Transtrum & Qiu 2014,
-    NOTE-tmphbnqd), LIT-2999 (Gutenkunst et al. 2007, NOTE-tmp1feoo) and
-    LIT-2960 (Amari, Park & Ozeki 2006, NOTE-tmptlwkf). The title and the
-    definition stand. Added: the manifold boundary approximation needs a
-    hierarchy of edges and corners as well as of widths, so a hyperribbon
-    without corners, which the definition admits, is a case the method
-    cannot use (the paper's ellipsoid); and condition 2 is limited to the
-    sloppy-model literature's models, since in networks the singular sets
-    are interior. The statements that the reduction method and the survey
-    are unread are replaced.
 - version: 2
   date: '2026-11-21'
   note: >-
@@ -35,6 +22,19 @@ history:
     metric is singular; the caution against equating stiffness with RG
     relevance is A's, not the review's. The statements that the sources were
     unread are replaced.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    Edited in place after the readings of LIT-2979 (Transtrum & Qiu 2014,
+    NOTE-tmphbnqd), LIT-2999 (Gutenkunst et al. 2007, NOTE-tmp1feoo) and
+    LIT-2960 (Amari, Park & Ozeki 2006, NOTE-tmptlwkf). The title and the
+    definition stand. Added: the manifold boundary approximation needs a
+    hierarchy of edges and corners as well as of widths, so a hyperribbon
+    without corners, which the definition admits, is a case the method
+    cannot use (the paper's ellipsoid); and condition 2 is limited to the
+    sloppy-model literature's models, since in networks the singular sets
+    are interior. The statements that the reduction method and the survey
+    are unread are replaced.
 tags:
 - information-geometry
 - mathematical-statistics

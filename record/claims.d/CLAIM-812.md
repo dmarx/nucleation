@@ -6,13 +6,6 @@ formerly:
 title: 'Sloppiness and singular strata meet in two places and part in one: a sloppy eigenvalue near a stratum measures the squared distance to it, and at a finite sample size a direction too sloppy to resolve contributes to the learning coefficient no more than a flat one; they part in how the coefficient moves with sample size, rising about ½ for each direction resolved in a regular sloppy model toward d/2, and held below d/2 at every size in a singular one'
 version: 3
 history:
-- version: 3
-  date: '2026-11-21'
-  note: >-
-    After the reading of Hoogland et al. (LIT-2966, NOTE-tmp2pgi8): the
-    sentence calling the work unread updated, and a dated note added
-    applying the claim's formula to the paper's estimator settings. Title
-    and thesis unchanged.
 - version: 2
   date: '2026-11-21'
   note: >-
@@ -25,6 +18,13 @@ history:
     at "an inverse temperature of order n", and its localizer's precision γ
     is a second cut-off. The title and the thesis are unchanged. See the
     Note of 2026-11-21.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    After the reading of Hoogland et al. (LIT-2966, NOTE-tmp2pgi8): the
+    sentence calling the work unread updated, and a dated note added
+    applying the claim's formula to the paper's estimator settings. Title
+    and thesis unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
