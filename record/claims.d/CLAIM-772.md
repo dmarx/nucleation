@@ -203,3 +203,17 @@ habits.
 - Not that the record cannot amplify. The record is an enlarged state, which
   [CLAIM-059](CLAIM-059.md) says amplification needs; whether it enables an expansive part
   is left open.
+
+## Reframings
+<!-- inactive-ok-file: ADR-tmpd4rgx — Proposed; the decision this section follows, 2026-11-21 -->
+
+**2026-11-20, the owner at U5 of the session ([ADR-tmpd4rgx](../decisions.d/ADR-tmpd4rgx.md)).** "Are you sure
+these are different things? I'm wondering if maybe it's the same phenomenon,
+and maybe one description generalizes the other. Isn't stabilization just
+monotone contraction?" Before: constraint and contraction were two
+mechanisms acting on different terms of [CLAIM-056](CLAIM-056.md)'s drift bound, constraint
+bounding what a step injects and contraction forgetting the start. After:
+one contraction, with forgetting and anchoring told apart by what each step
+copies exactly. It changed the account and the title, in version 2; the
+division of labour between form and content was kept, restated as which
+part of the step each lies in.

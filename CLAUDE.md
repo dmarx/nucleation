@@ -95,7 +95,22 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
     luria new lit --title "..."   # or: note, theory, question, claim, case,
                                   # term, arg, adr, dp, changelog, curation, workbench
 
-<!-- inactive-ok: ADR-068 — Proposed until the owner adopts it -->
+**The dialectic regime** ([ADR-tmpzgon7](record/decisions.d/ADR-tmpzgon7.md)). The owner switches it on and off
+("dialectic on", "dialectic off"); it is on until switched off, and a new
+session starts off. While it is on, file the argument the exchange develops
+as you go, without offering first: new entries in the argument schemes
+(those of [ADR-032](record/decisions.d/ADR-032.md), and WORKBENCH and LEAD, and any that join them),
+revisions to what the regime filed, dated notes, Reframings, corrections,
+devlog notes. Put them in one open pull request into `staging`,
+one commit per turn; answer first, then report what was filed; revert
+(`git revert`) when the owner interjects. Status changes on held entries,
+ADRs and DPs, `luria.yaml`, CI, delegated readings, outside services and
+merges still wait for the owner. When a turn admits several valid readings
+that would be filed differently, file each, marked as alternatives, and say
+which is which; the owner chooses. A go-ahead, switching the regime on
+included, greenlights everything the message it answers proposed. Suggest switching off when going on would
+be awkward.
+
 [ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an
 upload or a work, and for reading registered works. Its steps are the
 `read-and-file` skill (`.claude/skills/read-and-file/SKILL.md`).
