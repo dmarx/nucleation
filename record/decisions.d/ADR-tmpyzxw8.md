@@ -15,6 +15,7 @@ summary: >-
   notes on its own judgment: an earmark is the owner's request that a note
   exist, and the retrospective owes it an answer.
 ---
+<!-- inactive-ok-file: ADR-tmp7kh0t ADR-tmpuu4y4 ADR-tmps83ka — Proposed; the alternative readings filed beside this one -->
 <!-- inactive-ok-file: ADR-115 ADR-tmpzgon7 — Proposed; the decision on devlog notes this one sits beside, and the regime it holds regardless of -->
 
 # ADR-tmpyzxw8: When the owner earmarks something for the retrospective, in conversation or on a pull request, the assistant files a devlog note tagged retro and earmarked, quoting the earmark and where it was made, in the pull request it concerns, whether or not the dialectic regime is on; the next retrospective answers each earmarked note by name, saying what came of it
@@ -36,6 +37,19 @@ this is worth looking at, and the retrospective should say what it found.
 Without a convention an earmark lives only in a chat turn or a pull-request
 comment, where the next retrospective will not look, and nothing tells the
 retrospective which of the devlog's notes it must not pass over.
+
+## Readings of the request
+
+"Separable" in the owner's request has three readings, filed as alternative
+decisions under the dialectic regime's rule for several readings: this one,
+separable from ADR-115; ADR-tmp7kh0t and ADR-tmpuu4y4, persist separable from standardize;
+and ADR-tmps83ka, the convention separable from the decision, as a procedure of its
+own. The owner chooses; the rest go Rejected.
+
+The assistant's lean: this one or ADR-tmps83ka. Separating persist from standardize
+splits what a reader needs together, the note and its answer; separating
+the convention as a procedure is the record's own pattern (ADR-068 and its
+skill), and pays off once a retrospective skill exists.
 
 ## Decision
 
