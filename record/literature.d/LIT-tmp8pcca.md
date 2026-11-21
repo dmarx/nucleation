@@ -22,7 +22,7 @@ published: '2023-03-14'
 arxiv: '2303.08112'
 first_author: 'Belrose'
 summary: >-
-  Belrose, Ostrovsky, McKinney, Furman, Smith and Halawi (2023). Its abstract: analyzes transformers "from the perspective of iterative inference", training an affine probe for each block to decode "every hidden state into a distribution over the vocabulary" and so see "how model predictions are refined layer by layer". Here as evidence for depth as refinement of one prediction (CLAIM-tmpcvuyr). Unverified beyond the abstract until read.
+  Belrose, Ostrovsky, McKinney, Furman, Smith and Halawi (2023). Its abstract: analyzes transformers "from the perspective of iterative inference", training an affine probe for each block to decode "every hidden state into a distribution over the vocabulary" and so see "how model predictions are refined layer by layer". Here as evidence for depth as refinement of one prediction ([CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md)). Unverified beyond the abstract until read.
 ---
 <!-- inactive-ok-file: CLAIM-tmpcvuyr — Proposed; filed in this contribution of 2026-11-20 -->
 
@@ -32,6 +32,6 @@ Belrose, Ostrovsky, McKinney, Furman, Smith and Halawi. arXiv 2303.08112 (2023).
 
 ## Standing in the record
 
-Registered on 2026-11-20 for CLAIM-tmpcvuyr, on what transformer depth
+Registered on 2026-11-20 for [CLAIM-tmpcvuyr](../claims.d/CLAIM-tmpcvuyr.md), on what transformer depth
 organizes. Flagged anthology-candidate: the anthology may want it for
 machine-learning practice.

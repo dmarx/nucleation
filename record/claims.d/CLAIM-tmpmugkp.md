@@ -124,5 +124,5 @@ order in which a two-layer network's modes are learned over training time,
 under two update rules; it says nothing about what successive layers of a
 deep network represent. A network could learn its modes in any order and
 still arrange its layers as a hierarchy, or learn coarse to fine without
-one. What bears on depth is CLAIM-tmp2yj4t, and the claim filed on depth is
-CLAIM-tmpcvuyr. Cite this claim for depth only with that caution.
+one. What bears on depth is [CLAIM-tmp2yj4t](CLAIM-tmp2yj4t.md), and the claim filed on depth is
+[CLAIM-tmpcvuyr](CLAIM-tmpcvuyr.md). Cite this claim for depth only with that caution.
