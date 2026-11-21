@@ -22,4 +22,4 @@
   engineering as inquiry and predicates as constraints (§4.1, §4.2), when an
   anchor is set (§5.3), and a turn of the cycle in one night (§16.4); the
   owner's candidate title added.
-- The draft brought up to date with 2026-11-21: POSTMORTEM-001 to POSTMORTEM-003 cited as RETRO-002 to RETRO-004, the split of review into RETRO and a narrower POSTMORTEM (ADR-115) in §§14.4 and 16.4, and the decisions the adoption review moved to Active given their current standing.
+- The draft brought up to date with 2026-11-21: [POSTMORTEM-001](record/postmortems.d/POSTMORTEM-001.md) to [POSTMORTEM-003](record/postmortems.d/POSTMORTEM-003.md) cited as [RETRO-002](record/retrospectives.d/RETRO-002.md) to [RETRO-004](record/retrospectives.d/RETRO-004.md), the split of review into RETRO and a narrower POSTMORTEM ([ADR-115](record/decisions.d/ADR-115.md)) in §§14.4 and 16.4, and the decisions the adoption review moved to Active given their current standing.
