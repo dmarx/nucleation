@@ -1,10 +1,20 @@
 ---
 number: 3
-status: Draft
+status: Superseded
 formerly:
 - POSTMORTEM-tmpe7ifr
 title: 'The batch of 2026-11-19 and 20: pull requests 541 to 545, parallel pull requests appending notes to the same entries'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Converted to a retrospective, RETRO-tmp89l09, by the decision adding
+    the RETRO scheme (ADR-tmpupzg0): it reviews how a change or a batch
+    went, which is now a RETRO's job; a POSTMORTEM is kept for something
+    that went wrong. Retired by status; the body is unchanged.
+superseded_by:
+- RETRO-tmp89l09
 tags:
 - record
 - process
@@ -33,6 +43,7 @@ summary: >-
   the owner on how dated notes are filed, a wording question for [ADR-074](../decisions.d/ADR-074.md),
   and a rule against inferring names.
 ---
+<!-- inactive-ok-file: RETRO-tmp89l09 ADR-tmpupzg0 — Draft or Proposed; the retrospective this was converted to, and the decision converting it -->
 <!-- inactive-ok-file: ADR-110 — Proposed or newly filed; the decisions this postmortem reviews -->
 
 # POSTMORTEM-003: The batch of 2026-11-19 and 20: pull requests 541 to 545, parallel pull requests appending notes to the same entries

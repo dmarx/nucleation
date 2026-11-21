@@ -603,9 +603,10 @@ vocabularies:
         label: Operationalization
         blurb: work out how a question or claim could be advanced at all
   postmortem-statuses:
-    label: Postmortem statuses
-    blurb: Where a POSTMORTEM stands. A postmortem is never deleted; it is accepted, or replaced by a
-      fuller review of the same change (the decision adding the POSTMORTEM scheme).
+    label: Postmortem and retrospective statuses
+    blurb: Where a POSTMORTEM or a RETRO stands. Neither is ever deleted; each is accepted, or replaced
+      by a fuller review of the same change or period (the decision adding the POSTMORTEM scheme; the
+      decision adding the RETRO scheme).
     alert: Closed.
     terms:
       Draft:
@@ -1264,18 +1265,18 @@ schemes:
           - Active
       reviewed_by:
         label: Reviewed by
-        blurb: the postmortems that review how this decision has worked, derived from their `reviews`, computed for
-          every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme)
-        scheme: POSTMORTEM
+        blurb: the postmortems and retrospectives that review how this decision has worked, derived from their `reviews`, computed for
+          every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme; the decision adding the RETRO scheme)
+        scheme: [POSTMORTEM, RETRO]
         required: false
         many: true
         converse: reviews
         derived: true
       prompted_by:
         label: Prompted by
-        blurb: the postmortems whose recommendations this decision carries out, derived from their
-          `prompted`, computed for every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme)
-        scheme: POSTMORTEM
+        blurb: the postmortems and retrospectives whose recommendations this decision carries out, derived from their
+          `prompted`, computed for every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme; the decision adding the RETRO scheme)
+        scheme: [POSTMORTEM, RETRO]
         required: false
         many: true
         converse: prompted
@@ -2104,12 +2105,14 @@ schemes:
   POSTMORTEM:
     title: Postmortems
     blurb: >-
-      A review of how a change to the record has worked out once it has been used: what the
-      decisions behind it changed, how the record has used the change since, what went well and
-      what did not, and what to do next. It reviews the decisions (ADR) and links the pull requests
-      that carried them and the discussions that prompted the review; its recommendations become
-      decisions of their own, which it names in `prompted`. A postmortem says what happened, not
-      what the record believes about its subject (the decision adding the POSTMORTEM scheme).
+      A review in response to something that went wrong: a check that went red and stayed red, a
+      revert, an entry retracted because it was filed wrong, a standing rule broken or nearly
+      broken, a decision revised soon after landing. What happened, why, what it cost, and what
+      changes. It reviews the decisions (ADR) whose procedure was in play and links the pull
+      requests involved; its recommendations become decisions of their own, which it names in
+      `prompted`. Rarer than a RETRO, which reviews how a change or a stretch of work went,
+      including what went right (the decision adding the POSTMORTEM scheme; the decision adding the
+      RETRO scheme).
     dir: record/postmortems.d
     output: docs/postmortems
     active: Accepted
@@ -2131,7 +2134,7 @@ schemes:
         many: true
         converse: prompted_by
       superseded_by:
-        scheme: POSTMORTEM
+        scheme: [POSTMORTEM, RETRO]
         many: true
         required: false
         required_when:
@@ -2157,6 +2160,70 @@ schemes:
         label: Discussions
         blurb: where the review was asked for or held, as URLs (a session, an issue, a pull request
           thread)
+        many: true
+        required: false
+    axis: tags
+    retires_on: Superseded
+    successor: superseded_by
+
+  RETRO:
+    title: Retrospectives
+    blurb: >-
+      A review of how a change to the record, or a stretch of work, has gone: what it covered, what
+      went well and why, so that it can be kept on purpose, what did not, and what to change. It
+      reads the devlog entries filed since the last retrospective, which hold the notes taken
+      during the work, and cites them by date. It may review the decisions (ADR) whose changes or
+      procedures it assesses, link the pull requests and discussions, and name in `prompted` the
+      decisions its recommendations become. A retrospective says how the work went, not what the
+      record believes about its subject; something that went wrong and needs its own account is a
+      POSTMORTEM (the decision adding the RETRO scheme).
+    dir: record/retrospectives.d
+    output: docs/retrospectives
+    active: Accepted
+    render: index
+    allocate: merge
+    references:
+      reviews:
+        label: Reviews
+        blurb: the decisions whose changes or procedures this retrospective assesses
+        scheme: ADR
+        required: false
+        many: true
+        converse: reviewed_by
+      prompted:
+        label: Prompted
+        blurb: the decisions that carry out this retrospective's recommendations, added once they are filed
+        scheme: ADR
+        required: false
+        many: true
+        converse: prompted_by
+      superseded_by:
+        scheme: RETRO
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Accepted
+    fields:
+      status:
+        vocabulary: postmortem-statuses
+      tags:
+        vocabulary: adr-tags
+        many: true
+        required: true
+        closed: false
+      pull_requests:
+        label: Pull requests
+        blurb: the pull requests of the change or stretch of work reviewed, as URLs
+        many: true
+        required: false
+      discussions:
+        label: Discussions
+        blurb: where the retrospective was asked for or held, as URLs (a session, an issue, a pull
+          request thread)
         many: true
         required: false
     axis: tags
@@ -2320,6 +2387,9 @@ journals:
     output: docs/devlog
     granularity: month
     title: Development log
+    blurb: Notes taken during the work, to revisit at the next retrospective (RETRO) - what seems to be
+      going right and why, what is going wrong, the wrong theories and how they were found out. Each
+      retrospective reads the entries filed since the last (the decision adding the RETRO scheme).
 code:
   globs:
   - .claude/skills/**/*.md
