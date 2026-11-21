@@ -66,7 +66,7 @@ develops in the record's own argument:
   of its own and is not already held;
 - revisions to entries filed while the regime is on, before they merge;
 - dated notes on held entries;
-- Reframings sections (ADR-tmpd4rgx), and the owner's corrections, recorded
+- Reframings sections ([ADR-tmpd4rgx](ADR-tmpd4rgx.md)), and the owner's corrections, recorded
   as corrections in curation entries and history notes;
 - devlog notes for the next retrospective ([ADR-115](ADR-115.md)).
 
@@ -191,7 +191,7 @@ on will cite this decision by its temporary code.
 
 The owner granted, with the regime on, that the assistant merge into
 staging as it sees fit, keeping the promotion to main as their own review
-point. That is a separate decision, ADR-tmpq5b9e, with the alternative reading ADR-tmp9pqps;
+point. That is a separate decision, [ADR-tmpq5b9e](ADR-tmpq5b9e.md), with the alternative reading [ADR-tmp9pqps](ADR-tmp9pqps.md);
 under it, the item "merging into `staging`" above no longer waits for the
 owner while the regime is on.
 

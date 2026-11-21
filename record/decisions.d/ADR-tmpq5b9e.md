@@ -11,16 +11,16 @@ summary: >-
   assistant opened. One of two readings; the other, any pull request into
   staging, is the alternative decision filed beside it.
 ---
-<!-- inactive-ok-file: ADR-tmpzgon7 ADR-116 ADR-tmpq5b9e ADR-tmp9pqps — Proposed; the regime this changes, the staging decision, and the two readings of the owner's grant -->
+<!-- inactive-ok-file: ADR-tmpzgon7 ADR-116 ADR-tmp9pqps — Proposed; the regime this changes, the staging decision, and the two readings of the owner's grant -->
 
 # ADR-tmpq5b9e: While the dialectic regime is on, the assistant merges its own pull requests into staging when it judges them ready, green and without conflict; the owner reviews at the promotion from staging to main, which stays theirs
 
 ## Context
 
-The dialectic regime (ADR-tmpzgon7) left merges into staging and into main
+The dialectic regime ([ADR-tmpzgon7](ADR-tmpzgon7.md)) left merges into staging and into main
 to the owner. The owner, 2026-11-21, with the regime on: "make this one a separate ADR for sure: when `dialectic on`, you have the greenlight to merge into staging as you see fit. my primary intervention point will be the staging->main merge."
 
-Staging exists so that work can land without reaching main (ADR-116): a
+Staging exists so that work can land without reaching main ([ADR-116](ADR-116.md)): a
 promotion, by the owner or the Promote workflow, is what carries it on, and
 Promote lints the merged tree before it pushes. So the owner's review can sit
 at that one point instead of at every pull request into staging. Waiting for
@@ -30,7 +30,7 @@ and unmerged while the exchange went on.
 
 "As you see fit" has two readings, filed as alternative decisions under the
 regime's rule for several readings: ADR-tmpq5b9e, the pull requests the assistant
-opened; ADR-tmp9pqps, any pull request into staging. The owner chooses.
+opened; [ADR-tmp9pqps](ADR-tmp9pqps.md), any pull request into staging. The owner chooses.
 
 ## Decision
 
@@ -48,17 +48,17 @@ opened, in this session or an earlier one, when it judges it ready:
 - **Reported.** Each merge is named in the turn's report, with what it
   carried.
 - **Main stays the owner's.** Merging into main remains the owner's or the
-  Promote workflow's (ADR-116); the owner's primary intervention point is
+  Promote workflow's ([ADR-116](ADR-116.md)); the owner's primary intervention point is
   the staging-to-main merge.
 - **The regime only.** With the regime off, merges into staging wait for the
   owner as before.
 
-ADR-tmpzgon7's list of what still waits for the owner reads, for staging,
+[ADR-tmpzgon7](ADR-tmpzgon7.md)'s list of what still waits for the owner reads, for staging,
 as changed by this decision.
 
 ## Alternatives considered
 
-- **ADR-tmp9pqps**, the wider reading: any pull request into staging, including
+- **[ADR-tmp9pqps](ADR-tmp9pqps.md)**, the wider reading: any pull request into staging, including
   other sessions' and the owner's own.
 - **Status quo:** the owner merges each pull request into staging.
 

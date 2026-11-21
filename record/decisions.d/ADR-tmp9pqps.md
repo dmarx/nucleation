@@ -8,18 +8,18 @@ tags:
 date: '2026-11-21'
 summary: >-
   The owner's grant of 2026-11-21, read as covering any pull request into
-  staging. The alternative to ADR-tmpq5b9e, which reads it as the assistant's own.
+  staging. The alternative to [ADR-tmpq5b9e](ADR-tmpq5b9e.md), which reads it as the assistant's own.
 ---
-<!-- inactive-ok-file: ADR-tmpzgon7 ADR-116 ADR-tmpq5b9e ADR-tmp9pqps — Proposed; the regime this changes, the staging decision, and the two readings of the owner's grant -->
+<!-- inactive-ok-file: ADR-tmpzgon7 ADR-116 ADR-tmpq5b9e — Proposed; the regime this changes, the staging decision, and the two readings of the owner's grant -->
 
 # ADR-tmp9pqps: While the dialectic regime is on, the assistant merges any pull request into staging, its own, another session's or the owner's, when it judges it ready, green and without conflict; the owner reviews at the promotion from staging to main, which stays theirs
 
 ## Context
 
-The dialectic regime (ADR-tmpzgon7) left merges into staging and into main
+The dialectic regime ([ADR-tmpzgon7](ADR-tmpzgon7.md)) left merges into staging and into main
 to the owner. The owner, 2026-11-21, with the regime on: "make this one a separate ADR for sure: when `dialectic on`, you have the greenlight to merge into staging as you see fit. my primary intervention point will be the staging->main merge."
 
-Staging exists so that work can land without reaching main (ADR-116): a
+Staging exists so that work can land without reaching main ([ADR-116](ADR-116.md)): a
 promotion, by the owner or the Promote workflow, is what carries it on, and
 Promote lints the merged tree before it pushes. So the owner's review can sit
 at that one point instead of at every pull request into staging. Waiting for
@@ -28,7 +28,7 @@ remaining handoff: on the night of 2026-11-21 six pull requests stood green
 and unmerged while the exchange went on.
 
 "As you see fit" has two readings, filed as alternative decisions under the
-regime's rule for several readings: ADR-tmpq5b9e, the pull requests the assistant
+regime's rule for several readings: [ADR-tmpq5b9e](ADR-tmpq5b9e.md), the pull requests the assistant
 opened; ADR-tmp9pqps, any pull request into staging. The owner chooses.
 
 ## Decision
@@ -47,7 +47,7 @@ into staging, whoever opened it, when it judges it ready:
 - **Reported.** Each merge is named in the turn's report, with what it
   carried.
 - **Main stays the owner's.** Merging into main remains the owner's or the
-  Promote workflow's (ADR-116); the owner's primary intervention point is
+  Promote workflow's ([ADR-116](ADR-116.md)); the owner's primary intervention point is
   the staging-to-main merge.
 - **The regime only.** With the regime off, merges into staging wait for the
   owner as before.
@@ -58,7 +58,7 @@ into staging, whoever opened it, when it judges it ready:
 
 ## Alternatives considered
 
-- **ADR-tmpq5b9e**, the narrower reading: only the assistant's own pull requests.
+- **[ADR-tmpq5b9e](ADR-tmpq5b9e.md)**, the narrower reading: only the assistant's own pull requests.
 - **Status quo.**
 
 ## Consequences
@@ -69,5 +69,5 @@ into staging, whoever opened it, when it judges it ready:
 
 ## First application
 
-As for ADR-tmpq5b9e: pull requests 567 to 570, all the assistant's own; no other
+As for [ADR-tmpq5b9e](ADR-tmpq5b9e.md): pull requests 567 to 570, all the assistant's own; no other
 session's pull request into staging was open.
