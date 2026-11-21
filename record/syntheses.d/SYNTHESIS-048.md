@@ -746,12 +746,12 @@ step 5 at this review and not filed:
   [ADR-085](../decisions.d/ADR-085.md)'s rule.
 - Anything with standing of its own.
 
-## Note of 2026-11-21: three later bearings on QUESTION-281
+## Note of 2026-11-21: three later bearings on [QUESTION-281](../questions.d/QUESTION-281.md)
 
-Filed after this account, three claims bear on QUESTION-281: by which transitions do the distinctions individuation needs come into being and pass away, and are creation, stabilization and role three achievements? All three are Proposed.
+Filed after this account, three claims bear on [QUESTION-281](../questions.d/QUESTION-281.md): by which transitions do the distinctions individuation needs come into being and pass away, and are creation, stabilization and role three achievements? All three are Proposed.
 
-- **CLAIM-672** (demonstrated, in Conway's Life): the same still life can persist as a fixed point, by repairing itself, or by being rebuilt by the pattern it serves, and taking on a role is what moved it between these. Stabilization and role come apart but are not independent.
-- **CLAIM-770** (demonstrated, first line formal-apparatus): in a barrier model, the tree of budgeted classes depends only on the order of the barrier values. A distinction between levels is made or unmade only where two barriers cross, and near a crossing the two levels cannot be told apart.
-- **CLAIM-781** (interpretive): one rate ratio is both a level's closure margin and, in logarithm, its spacing in the tree, so the two fail together as rates converge.
+- **[CLAIM-672](../claims.d/CLAIM-672.md)** (demonstrated, in Conway's Life): the same still life can persist as a fixed point, by repairing itself, or by being rebuilt by the pattern it serves, and taking on a role is what moved it between these. Stabilization and role come apart but are not independent.
+- **[CLAIM-770](../claims.d/CLAIM-770.md)** (demonstrated, first line formal-apparatus): in a barrier model, the tree of budgeted classes depends only on the order of the barrier values. A distinction between levels is made or unmade only where two barriers cross, and near a crossing the two levels cannot be told apart.
+- **[CLAIM-781](../claims.d/CLAIM-781.md)** (interpretive): one rate ratio is both a level's closure margin and, in logarithm, its spacing in the tree, so the two fail together as rates converge.
 
-For barrier landscapes, then, the record answers the question's first clause: distinctions come and go at crossings of time scales (CLAIM-770). For the second clause it holds a separation in one system (CLAIM-672) and a coupling in another (CLAIM-781). It does not hold the question's own test: one stated system in which creation, stabilization and role are all shown separately. Nothing here joins them, and the review found no link between them that passes as a claim.
+For barrier landscapes, then, the record answers the question's first clause: distinctions come and go at crossings of time scales ([CLAIM-770](../claims.d/CLAIM-770.md)). For the second clause it holds a separation in one system ([CLAIM-672](../claims.d/CLAIM-672.md)) and a coupling in another ([CLAIM-781](../claims.d/CLAIM-781.md)). It does not hold the question's own test: one stated system in which creation, stabilization and role are all shown separately. Nothing here joins them, and the review found no link between them that passes as a claim.

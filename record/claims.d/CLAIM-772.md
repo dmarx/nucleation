@@ -220,11 +220,11 @@ part of the step each lies in.
 
 ## Admission
 
-Audited at the synthesis review of 2026-11-21 (ADR-075, step 5) by a reader briefed neutrally, with the two objections of that day (CLAIM-789, CLAIM-793) read.
+Audited at the synthesis review of 2026-11-21 ([ADR-075](../decisions.d/ADR-075.md), step 5) by a reader briefed neutrally, with the two objections of that day ([CLAIM-789](CLAIM-789.md), [CLAIM-793](CLAIM-793.md)) read.
 
-**What the general half adds: nothing.** "One contraction, anchored on what is copied exactly, forgetting elsewhere" is CLAIM-635 with CLAIM-779's rates. CLAIM-635's note of 2026-11-20 already records the application.
+**What the general half adds: nothing.** "One contraction, anchored on what is copied exactly, forgetting elsewhere" is [CLAIM-635](CLAIM-635.md) with [CLAIM-779](CLAIM-779.md)'s rates. [CLAIM-635](CLAIM-635.md)'s note of 2026-11-20 already records the application.
 
-**What the record-design half adds, by the separating-case route.** The sentence is: in this record, content lies in the conserved part of the restatement step and form in the contracting part. A realistic case separates it from its premises: the fact-checks of the manuscript of 2026-11-20, which found errors in restatements of coded entries that the drafter had read (CLAIM-793). Every premise holds there, and coded content was still not in the conserved part of those restatements. The case does not meet defeater (a), which needs a rate for uncoded content, so it separates the claim and does not show it false.
+**What the record-design half adds, by the separating-case route.** The sentence is: in this record, content lies in the conserved part of the restatement step and form in the contracting part. A realistic case separates it from its premises: the fact-checks of the manuscript of 2026-11-20, which found errors in restatements of coded entries that the drafter had read ([CLAIM-793](CLAIM-793.md)). Every premise holds there, and coded content was still not in the conserved part of those restatements. The case does not meet defeater (a), which needs a rate for uncoded content, so it separates the claim and does not show it false.
 
 **A narrower sentence that passes:** "In this record, the form of filed entries converges across sessions onto the schema faster than uncoded content converges toward the collaborators' framings, and derived restatements of coded entries depart from the stored entry less than restatements of uncoded content do." It needs two fixes, which are the owner's call:
 - fix where uncoded content sits, neutral or contracting (the table and defeater (a) disagree);
@@ -232,9 +232,9 @@ Audited at the synthesis review of 2026-11-21 (ADR-075, step 5) by a reader brie
 
 ## Note of 2026-11-21: what the audit found misstated
 
-- **The title overstates CLAIM-635.** "Ends keeping exactly the start's value on that conserved part" holds only for noiseless copying. CLAIM-635 keeps the conditional mean and bounds the information retained ("only its conditional mean is kept"). CLAIM-107's absorbed walk is the counterexample: f is harmonic, yet f(S_n) spreads to the endpoints.
-- **CLAIM-779's 1/n** is stated in the body as general. CLAIM-779 holds it in the linear Gaussian model only.
-- **"Global contraction forgets"** omits CLAIM-779's condition: noiseless contraction does not forget in the information sense.
-- **CLAIM-191 and CLAIM-181 are stretched.** CLAIM-191's code gives descent, not "the record's exact copy". CLAIM-181 is a counter, used here as support.
+- **The title overstates [CLAIM-635](CLAIM-635.md).** "Ends keeping exactly the start's value on that conserved part" holds only for noiseless copying. [CLAIM-635](CLAIM-635.md) keeps the conditional mean and bounds the information retained ("only its conditional mean is kept"). [CLAIM-107](CLAIM-107.md)'s absorbed walk is the counterexample: f is harmonic, yet f(S_n) spreads to the endpoints.
+- **[CLAIM-779](CLAIM-779.md)'s 1/n** is stated in the body as general. [CLAIM-779](CLAIM-779.md) holds it in the linear Gaussian model only.
+- **"Global contraction forgets"** omits [CLAIM-779](CLAIM-779.md)'s condition: noiseless contraction does not forget in the information sense.
+- **[CLAIM-191](CLAIM-191.md) and [CLAIM-181](CLAIM-181.md) are stretched.** [CLAIM-191](CLAIM-191.md)'s code gives descent, not "the record's exact copy". [CLAIM-181](CLAIM-181.md) is a counter, used here as support.
 
 No change of status or title. A retitle is for the owner.
