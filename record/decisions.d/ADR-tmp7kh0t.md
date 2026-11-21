@@ -9,7 +9,7 @@ date: '2026-11-21'
 summary: >-
   Reading B of the owner's request ([ADR-tmpyzxw8](ADR-tmpyzxw8.md)): "persist" separable from "standardize". This half decides that earmarks are kept and answered, and leaves their form to [ADR-tmpuu4y4](ADR-tmpuu4y4.md). An alternative to [ADR-tmpyzxw8](ADR-tmpyzxw8.md) and [ADR-tmps83ka](ADR-tmps83ka.md).
 ---
-<!-- inactive-ok-file: ADR-tmpyzxw8 ADR-tmpuu4y4 ADR-tmps83ka ADR-115 ADR-068 — Proposed; the alternative readings of one request, and the decisions they sit beside -->
+<!-- inactive-ok-file: ADR-tmpyzxw8 ADR-tmpuu4y4 ADR-tmps83ka ADR-115 — Proposed; the alternative readings of one request, and the decisions they sit beside -->
 
 # ADR-tmp7kh0t: An owner's earmark for the retrospective is persisted: kept as a devlog note, and open until a retrospective answers it, saying what came of it; how the note is written is a separate decision
 

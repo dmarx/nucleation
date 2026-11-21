@@ -229,4 +229,4 @@ conflict case, so whether Velleman's unwitting decision reaches the
 1987/88 view turns on the conflict case, which has not been run against
 the essay's text. The other replies the promote_when names ([LIT-695](../literature.d/LIT-695.md),
 [LIT-596](../literature.d/LIT-596.md), Watson 1975) are unread.
-<!-- inactive-ok-file: CLAIM-281 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: CLAIM-281 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

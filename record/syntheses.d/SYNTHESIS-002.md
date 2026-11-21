@@ -90,7 +90,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-016 CLAIM-446 TERM-086 — Deferred, Proposed; cited with their standing -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-619 SYNTHESIS-005 — filed from the same exchange, Proposed; the owner's thesis, A's companion claim and case, and the descriptive synthesis -->
 <!-- inactive-ok-file: CASE-229 ARG-055 — filed from A's review of the pull request, Proposed; the matched-harm construction and the argument from it -->
-<!-- inactive-ok-file: ADR-075 — Proposed; the synthesis audit this filing follows -->
 <!-- inactive-ok-file: CLAIM-445 CLAIM-511 CLAIM-545 SYNTHESIS-007 CLAIM-472 THEORY-145 TERM-083 QUESTION-068 — Proposed, Deferred or Superseded; components and boundaries, cited with their standing -->
 
 # SYNTHESIS-002: The wrong beyond violation that an organization commits by reproducing representations and allocations of authority that keep a justified standard from constraining it is a breach of a second-order duty of answerability: to maintain feasible means for relevant violations to become knowable, contestable and correctable; it is a verdict only given an independently justified standard and a feasible alternative

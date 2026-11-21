@@ -101,4 +101,4 @@ after all.
 - **[THEORY-126](THEORY-126.md).** A We-mode collective emotion between intimates, as in
   shared grief, would on this account be personalized rather than
   depersonalized. The record has not tested the two together.
-<!-- inactive-ok-file: CLAIM-491 ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->
+<!-- inactive-ok-file: CLAIM-491 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

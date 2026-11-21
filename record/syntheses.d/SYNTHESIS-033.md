@@ -27,7 +27,7 @@ integrates:
 bears_on:
 - QUESTION-051
 ---
-<!-- inactive-ok-file: ADR-083 THEORY-286 — Proposed; components, citations and the decisions this account follows, with their standing -->
+<!-- inactive-ok-file: THEORY-286 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
 # SYNTHESIS-033: What classification training leaves in a network's last layers, and what it costs for tasks it was not trained on, is open: collapse onto class means is measured in one protocol and derived only for squared error or as an endpoint, its cost is measured for new classes at the penultimate layer, and whether it holds beyond its first settings, under lazy training, and while the parameters keep moving are questions of their own
 

@@ -39,7 +39,7 @@ draws_on:
 - THEORY-091
 - THEORY-103
 ---
-<!-- inactive-ok-file: ADR-095 THEORY-091 THEORY-103 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
+<!-- inactive-ok-file: THEORY-091 THEORY-103 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 
 # TERM-082: consciousness, and which sense: phenomenal, access, self-consciousness or wakefulness
 

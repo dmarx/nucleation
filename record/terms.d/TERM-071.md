@@ -54,7 +54,6 @@ draws_on:
 - THEORY-418
 - THEORY-465
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-327 — Proposed; the claims each sense is taken from, open -->
 <!-- inactive-ok-file: THEORY-418 THEORY-465 — Proposed; readings on reconstitution and on being reproduced, cited as open -->
 

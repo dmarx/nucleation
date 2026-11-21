@@ -47,7 +47,7 @@ summary: >-
 bears_on:
 - QUESTION-246
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 QUESTION-246 — Proposed or Answered; the decisions and the question named in the reading review's history note of 2026-11-14 -->
+<!-- inactive-ok-file: QUESTION-246 — Proposed or Answered; the decisions and the question named in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-303 — Proposed; the companion account filed from the same reading, named in Connections -->
 
 # THEORY-309: If contexts are defined by joint measurability alone, every nondisturbing correlation, maximally contextual ones included, is realized by trivial measurements on a one-dimensional quantum system, so Kochen–Specker contextuality needs a stronger operational notion of context

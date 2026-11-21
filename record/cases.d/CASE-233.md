@@ -44,7 +44,6 @@ summary: >-
   and [CASE-200](CASE-200.md) alter it. The wording of the case is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-096 — Proposed; the decision this case applies -->
 <!-- inactive-ok-file: CASE-198 CASE-200 — Proposed; the variants of this construction -->
 
 # CASE-233: A transition with a barrier: on configurations [0, 1] with a holding requirement r(q) = 0.7 + 2.4q(1 − q), both ends cost 0.7, every path between them passes 1.3 at q = 1/2, and at a budget of 1.0 the feasible set falls into two components, each end feasible and neither reachable from the other

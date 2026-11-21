@@ -35,7 +35,7 @@ summary: >-
 bears_on:
 - QUESTION-035
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 LIT-902 — Proposed or Unavailable; cited in the reading review's history note of 2026-11-14, LIT-902 as QUESTION-035 names it -->
+<!-- inactive-ok-file: LIT-902 — Proposed or Unavailable; cited in the reading review's history note of 2026-11-14, LIT-902 as QUESTION-035 names it -->
 
 # THEORY-1122: Weiss's mark of a system, that the whole varies far less than the summed variances of its parts, is met by any aggregate of independent parts when the whole is measured as their average; when it is measured as their sum, it holds only if the parts' fluctuations compensate one another, with ∑ᵢ<ⱼ Cov(xᵢ, xⱼ) close to −½ ∑ᵢ Var(xᵢ)
 

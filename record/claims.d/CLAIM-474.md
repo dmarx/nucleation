@@ -150,7 +150,7 @@ summary: >-
   (ADR-084).
 ---
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1351 — Proposed; components and a corroborating reading, cited with their standing -->
-<!-- inactive-ok-file: ADR-075 ADR-078 ADR-077 — Proposed; the audit, the review and the decision that moved this entry -->
+<!-- inactive-ok-file: ADR-077 — Proposed; the audit, the review and the decision that moved this entry -->
 <!-- ref::uses-file: TERM-090 — "Effective constraint without a new law", composition yielding "boundary constraints that no part has", is TERM-090's effective boundary constraint -->
 <!-- ref::uses-file: TERM-092 — "Askable without answerable", "Formulating a question is itself bounded", is TERM-092's inquiry frontier, kept apart from what the evidence can answer -->
 <!-- ref::uses-file: TERM-093 — QUESTION-282's "how correspondence structures are themselves generated", and CASE-179's correspondence maps manipulated apart from physical coupling, are TERM-093's correspondence structure -->

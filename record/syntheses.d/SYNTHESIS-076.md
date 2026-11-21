@@ -72,7 +72,7 @@ summary: >-
   its components'.
 ---
 <!-- inactive-ok-file: CLAIM-618 ARG-061 — Proposed; components, with their standing -->
-<!-- inactive-ok-file: SYNTHESIS-024 SYNTHESIS-027 SYNTHESIS-040 SYNTHESIS-041 SYNTHESIS-042 SYNTHESIS-043 SYNTHESIS-045 SYNTHESIS-051 SYNTHESIS-056 SYNTHESIS-068 CLAIM-631 CLAIM-634 CASE-203 ADR-075 ADR-084 — Proposed; the accounts that already integrate the members, and entries cited for what they hold, nothing here resting on their being settled -->
+<!-- inactive-ok-file: SYNTHESIS-024 SYNTHESIS-027 SYNTHESIS-040 SYNTHESIS-041 SYNTHESIS-042 SYNTHESIS-043 SYNTHESIS-045 SYNTHESIS-051 SYNTHESIS-056 SYNTHESIS-068 CLAIM-631 CLAIM-634 CASE-203 — Proposed; the accounts that already integrate the members, and entries cited for what they hold, nothing here resting on their being settled -->
 <!-- inactive-ok-file: SYNTHESIS-009 — Superseded; cited as the entry CLAIM-632 returned from -->
 <!-- inactive-ok-file: ARG-053 — Rejected; cited as the argument CLAIM-561 undercuts -->
 <!-- inactive-ok-file: SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-079 SYNTHESIS-080 SYNTHESIS-088 — Proposed; cited with its standing -->

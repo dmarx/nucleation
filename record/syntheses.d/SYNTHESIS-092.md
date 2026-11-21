@@ -77,7 +77,7 @@ summary: >-
   terms. Every bearer a component names is an agent or a role. The
   account adds nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-100 SYNTHESIS-095 SYNTHESIS-093 — Proposed; the split of organizational-normativity and the new line's account, cited at version 2 -->
+<!-- inactive-ok-file: SYNTHESIS-095 SYNTHESIS-093 — Proposed; the split of organizational-normativity and the new line's account, cited at version 2 -->
 <!-- inactive-ok-file: SYNTHESIS-038 — Proposed; the line's account -->
 <!-- inactive-ok-file: CASE-256 CASE-257 CASE-261 CASE-264 CLAIM-428 CLAIM-545 CLAIM-603 CLAIM-624 CLAIM-669 CLAIM-670 CLAIM-671 CLAIM-682 CLAIM-690 TERM-083 TERM-123 TERM-124 ARG-100 ARG-109 ARG-110 THEORY-1817 THEORY-1818 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-099 — Rejected; a component, with its standing -->

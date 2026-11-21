@@ -60,7 +60,6 @@ summary: >-
 corroborates:
 - CLAIM-603
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of St John (2017) as open -->
 
 # THEORY-1497: St John holds that Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that perhaps the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed

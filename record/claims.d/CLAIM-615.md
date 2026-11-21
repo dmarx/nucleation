@@ -129,7 +129,6 @@ summary: >-
   CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-611 CLAIM-617 CASE-223 — filed from the same exchange, Proposed; premise, component and the owner's study -->
 <!-- inactive-ok-file: ARG-075 — filed from the same exchange, Proposed; the analogy from CLAIM-593 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->

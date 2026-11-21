@@ -38,7 +38,7 @@ summary: >-
   creates an order effect the source lacks. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-063 CLAIM-117 CLAIM-228 ADR-075 — Proposed; the theses this bears on, the measure it cites and the decision whose test it passes, open -->
+<!-- inactive-ok-file: CLAIM-063 CLAIM-117 CLAIM-228 — Proposed; the theses this bears on, the measure it cites and the decision whose test it passes, open -->
 
 # CLAIM-638: Under one outcome kernel for both orders of two framings, a rendering's observed order effect on an item exceeds the source's by at most the sum of its two order-context distortions, so growth in the order effect bounds that distortion from below whatever kernel is used, while kernels fitted to the two orders separately bound nothing
 

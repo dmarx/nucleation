@@ -42,7 +42,6 @@ draws_on:
 - THEORY-1049
 - THEORY-1051
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: LIT-1573 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 
 # CASE-173: Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's

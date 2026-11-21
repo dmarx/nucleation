@@ -57,7 +57,7 @@ summary: >-
   sixty-two, and have their own part account. The account adds nothing
   of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-075 CLAIM-004 CLAIM-005 CLAIM-014 CLAIM-034 CLAIM-054 CLAIM-064 CLAIM-068 CLAIM-082 CLAIM-084 CLAIM-091 CLAIM-117 CLAIM-129 CLAIM-147 CLAIM-151 CLAIM-191 CLAIM-201 CLAIM-220 CLAIM-240 CLAIM-486 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-004 CLAIM-005 CLAIM-014 CLAIM-034 CLAIM-054 CLAIM-064 CLAIM-068 CLAIM-082 CLAIM-084 CLAIM-091 CLAIM-117 CLAIM-129 CLAIM-147 CLAIM-151 CLAIM-191 CLAIM-201 CLAIM-220 CLAIM-240 CLAIM-486 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-004 ARG-020 ARG-021 ARG-039 CLAIM-020 — Rejected; components and citations, cited as the history they record -->
 <!-- inactive-ok-file: CLAIM-006 CLAIM-053 CLAIM-115 CLAIM-229 — Superseded; cited as the entries their successors replaced, and not integrated -->
 <!-- inactive-ok-file: LIT-791 — Unavailable; Nida, unread here, cited as CASE-056 reports it -->

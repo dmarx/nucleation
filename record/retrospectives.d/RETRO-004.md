@@ -45,7 +45,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-112 ARG-119 — Proposed; cited as open -->
 <!-- inactive-ok-file: POSTMORTEM-002 ADR-115 — Superseded or Proposed; the postmortem this converts, and the decision converting it -->
-<!-- inactive-ok-file: ADR-106 ADR-109 ADR-111 — Proposed or newly filed; the decisions this postmortem reviews or prompted -->
 
 # RETRO-004: The session's changes to luria.yaml of 2026-11-19: a work for the owner's manuscript, the explication form, and the LEAD scheme
 

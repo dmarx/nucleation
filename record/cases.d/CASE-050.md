@@ -37,7 +37,6 @@ draws_on:
 - THEORY-126
 - THEORY-043
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-160 CLAIM-162 — Proposed; the claims this case illustrates or is set beside, open -->

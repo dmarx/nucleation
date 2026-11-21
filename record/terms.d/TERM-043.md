@@ -40,7 +40,6 @@ draws_on:
 - THEORY-843
 - THEORY-848
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the restatements of the components, cited as open -->
 

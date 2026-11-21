@@ -50,7 +50,6 @@ bears_on:
 - QUESTION-083
 - QUESTION-132
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1168: In a Lotka–Volterra community with a symmetric interaction matrix, the growth-weighted biomass rᵀx strictly increases along every edge of the invasion graph, so the invasion graph has no cycles
 

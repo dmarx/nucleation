@@ -135,4 +135,3 @@ ones random.
   the truth is flat by construction, so a consistent reconstruction is a
   correct one. [CASE-179](../cases.d/CASE-179.md)'s arm that revises correspondences "by consistency
   alone" is the setting where the two come apart.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

@@ -59,7 +59,6 @@ draws_on:
 ---
 <!-- inactive-ok-file: NOTE-1755 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: LIT-2364 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision the history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: THEORY-1285 — Proposed; Bencherki's account, the source of the collective case set beside this one -->
 <!-- inactive-ok-file: LIT-1389 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-364 THEORY-067 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

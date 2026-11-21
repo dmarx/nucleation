@@ -47,7 +47,6 @@ summary: >-
 corroborates:
 - CLAIM-407
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-860: In Szeidl and Szucs's model of two outlets competing for readers and advertisers, where state-owned advertisers reward only the connected outlet's slant, with weight δ, every equilibrium has the slant gap between the connected and the unconnected outlet equal to their owners' ideal-point gap plus a favor-exchange term (βδ/NT)·Σ over government advertisers of masⱼWⱼ, up to measurement noise; readers' preference for slant cancels from the gap, so equal observed gaps can come from different mixes of ideology and exchange
 

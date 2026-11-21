@@ -114,7 +114,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-713 CLAIM-702 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed; the budget cut result and the three thresholds, cited with their standing -->
 <!-- inactive-ok-file: TERM-110 CLAIM-445 CLAIM-619 — Proposed; the ratchet the claim uses and the record's nearest loops, cited with their standing -->
-<!-- inactive-ok-file: ADR-075 — Proposed; the admission routes -->
 
 # CLAIM-700: Where members' conscientious compensation covers an organization's shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members' own best responses feed the loop
 

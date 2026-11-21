@@ -56,7 +56,6 @@ summary: >-
 corroborates:
 - CLAIM-558
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-1541 — Proposed; the wide form of this reading, split off by the status review of 2026-11-06 -->
 <!-- inactive-ok-file: LIT-2212 — Unavailable or Proposed; the unread original and the claims this account bears on, cited as open -->
 

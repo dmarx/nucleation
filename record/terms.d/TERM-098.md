@@ -50,7 +50,7 @@ draws_on:
 - THEORY-965
 - THEORY-1746
 ---
-<!-- inactive-ok-file: ADR-095 THEORY-965 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
+<!-- inactive-ok-file: THEORY-965 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
 <!-- inactive-ok-file: CASE-230 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-222 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-1746 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->

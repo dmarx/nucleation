@@ -42,7 +42,6 @@ corroborates:
 - CLAIM-493
 ---
 <!-- inactive-ok-file: CLAIM-493 — Proposed or Unavailable; the claims and works this reading bears on or cites, named, not leaned on -->
-<!-- inactive-ok-file: ADR-091 — Proposed; the tie rule under which this reading's edge to QUESTION-300 was removed -->
 
 # THEORY-1608: Spears argues, reviewing the self-categorization account of social influence, that when a group is internalized as a level of self, influence from in-group members is private acceptance and partly self-influence, bounded by shared identity and stronger from more prototypical members, and that crowd members switch to a group identity rather than lose the self
 
