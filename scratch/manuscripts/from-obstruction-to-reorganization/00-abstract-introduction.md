@@ -21,12 +21,12 @@ The theory is assembled from claims held in a research record, Nucleation, each 
 
 **The machinery.** Nucleation is kept with Luria, a tool for typed, versioned and interlinked documents whose schema is changed only by recorded decision. We show how each principle has a mechanism in the record. The record holds the theory as content and runs on mechanisms that embody it.
 
-**The cycle.** A census of all 114 of the record's decisions over its first eight weeks finds:
+**The cycle.** A census of the record's 114 decisions to 20 November, its first eight weeks, finds the following. A fifth batch of 22 decisions from 21 November, coded by one coder and marked so, is reported beside it (§13.1).
 
-- **88 changes to the record's own grammar:** 62 refinements, 25 revisions (including a withdrawn abstraction and a redefinition of what counts as an answer) and one act of restraint.
+- **88 changes to the record's own grammar:** 62 refinements, 25 revisions (including a withdrawn abstraction and a redefinition of what counts as an answer) and one act of restraint. With the fifth batch: 136 decisions and 91 grammar changes (63 refinements, 27 revisions, one restraint), 7 of the 22 new decisions being rejected alternatives.
 - **Absorption before noticing.** In 89% of changes answering a misfit, the misfit had first been forced into the nearest category or kept in prose.
-- **Traced carry-through.** Every removed term was carried through every entry using it, and every split moved the entries it had to. The history holds no change of meaning alone, so whether carry-through fails there is untested.
-- **Costs and errors.** 2,664 entries were migrated, and ten changes caused errors the record later found.
+- **Traced carry-through.** Every removed term was carried through every entry using it, and every split moved the entries it had to. The history holds no change of meaning alone, so whether carry-through fails there was untested. The first such change, ADR-130's narrowing of what a line covers, came on 21 November and touched 7 of the line's 80 entries; it is the first case for the test (§15.2).
+- **Costs and errors.** 2,664 entries were migrated (2,701 with the fifth batch), and ten changes caused errors the record later found.
 - **Noticing became institutional.** It moved from filing agents who happened to meet a missing word to review procedures built to look.
 - **Revision stayed with the owner.** Judgment about revisions stayed with the owner, who governs the criteria.
 
@@ -67,7 +67,7 @@ Meeting that objection required a more general account. It needed an account of 
 
 1. **A general theory** stated as ten principles with a predicted cycle (§7). Each step cites the record's entries and their standing, with formal results where the record has them.
 2. **A principle-by-principle account** of how a Luria record operationalizes the theory (§9).
-3. **A census of all 114 decisions the record made**, coded against a codebook fixed before coding, with a second coder on a random sample (§§12.3, 13.1). There is also an audit of every change to a vocabulary term in the record's history (§15.2).
+3. **A census of the record's decisions**: the 114 to 20 November, coded against a codebook fixed before coding, with a second coder on a random sample (§§12.3, 13.1), and a fifth batch of 22 from 21 November coded by one coder. There is also an audit of every change to a vocabulary term in the record's history (§15.2).
 4. **The flywheel, traced stage by stage** (§16), including the cycle acting on the theory's own claims.
 5. **A finding about delegation** (§15.4): noticing moved from incidental to institutional, while judgment about revision stayed with whoever governs the criteria. It is set against the theory's warning that help which does the work erodes the capacity it helps (§17.1).
 
