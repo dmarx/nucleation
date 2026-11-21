@@ -14,3 +14,5 @@
 - Nechaev & Vasilyev cond-mat/0310079: abstract + sec. II.D only; says O-S used a 3-branching Cayley tree.
 - Bikulov & Zubarev arXiv 2404.18123: abstract + intro: power law modulated by log-periodic function.
 ## Own check (python3 -I, scratch scripts/um.py): b=2, depth 12, per-pair rate g^level, g=0.1: fitted slope 0.446 vs ln2/(ln10-ln2)=0.431 vs ln2/ln10=0.301.
+
+## Step 3, 2026-11-21: recheck done (THEORY-1366/1309 Freidlin-Wentzell now held; THEORY-758; LIT-672). Report drafted.
