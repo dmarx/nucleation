@@ -6,9 +6,9 @@ tags:
 - record
 date: '2026-11-21'
 summary: >-
-  One of three alternatives (with ADR-tmpi2grj and ADR-tmpkiuac) answering
-  the owner's worry that ADR-075's language discourages documenting useful
-  syntheses. ADR-075's guard was aimed at a source's broad summaries, a
+  One of three alternatives (with [ADR-tmpi2grj](ADR-tmpi2grj.md) and [ADR-tmpkiuac](ADR-tmpkiuac.md)) answering
+  the owner's worry that [ADR-075](ADR-075.md)'s language discourages documenting useful
+  syntheses. [ADR-075](ADR-075.md)'s guard was aimed at a source's broad summaries, a
   collaborator's "refreshed synthesis" imported as one more claim. This
   alternative keeps the guard there and lifts it from the owner's own
   syntheses. Those are filed as accounts of their scope, a line, a part of
@@ -17,19 +17,19 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-tmpi2grj ADR-tmpkiuac — Proposed; the alternatives filed with this one -->
 
-# ADR-tmpoxu5i: Alternative B to ADR-075's step 5: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator's summary in an exchange, keeps ADR-075's rule and is filed only for what passes the test
+# ADR-tmpoxu5i: Alternative B to [ADR-075](ADR-075.md)'s step 5: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator's summary in an exchange, keeps [ADR-075](ADR-075.md)'s rule and is filed only for what passes the test
 
-*Filed with two alternatives, ADR-tmpi2grj (A, which gives the shared context in full) and ADR-tmpkiuac (C). The owner chooses.*
+*Filed with two alternatives, [ADR-tmpi2grj](ADR-tmpi2grj.md) (A, which gives the shared context in full) and [ADR-tmpkiuac](ADR-tmpkiuac.md) (C). The owner chooses.*
 
 ## Context
 
-See ADR-tmpi2grj. ADR-075's examples were collaborators' summaries: in "Individuation, Possibility, and Disposition", A's three "refreshed syntheses" told the owner's turns as the argument's own logic, dropped two of them, and misstated a component. The guard against "salience without work" was written for that case, where a synthesis enters from outside and its author's framing can pass as the record's. The ten principles of 2026-11-20 were the other case. The owner asked for them, they were built from the record, and the owner wanted them on it.
+See [ADR-tmpi2grj](ADR-tmpi2grj.md). [ADR-075](ADR-075.md)'s examples were collaborators' summaries: in "Individuation, Possibility, and Disposition", A's three "refreshed syntheses" told the owner's turns as the argument's own logic, dropped two of them, and misstated a component. The guard against "salience without work" was written for that case, where a synthesis enters from outside and its author's framing can pass as the record's. The ten principles of 2026-11-20 were the other case. The owner asked for them, they were built from the record, and the owner wanted them on it.
 
 ## Decision
 
 1. **Two provenances.** A synthesis is *the owner's* when the owner states it, or asks for it to be constructed and filed. It is *a source's* when it is found in a filed source, such as a collaborator's turn, a pasted summary or an upload, and the owner has not asked for it to be kept.
 2. **The owner's syntheses are filed as accounts** of their scope (a line, a part of one, or a theme across lines, as the proposed decision on cross-line accounts in pull request 593 allows), whether or not they yield a claim. The test decides whether they also yield one.
-3. **A source's syntheses keep ADR-075's rule.** What passes the test is filed as a claim; the map goes in a scope's account if the synthesis is of a line or a part of one, and otherwise in the curation entry.
+3. **A source's syntheses keep [ADR-075](ADR-075.md)'s rule.** What passes the test is filed as a claim; the map goes in a scope's account if the synthesis is of a line or a part of one, and otherwise in the curation entry.
 4. **The owner can promote a source's synthesis** by asking for it to be kept. It is then the owner's.
 
 ## Demonstration
@@ -40,8 +40,8 @@ See ADR-tmpi2grj. ADR-075's examples were collaborators' summaries: in "Individu
 
 ## Alternatives
 
-- **A, ADR-tmpi2grj:** every synthesis that organizes held components is filed as an account, whatever its provenance.
-- **C, ADR-tmpkiuac:** no test at filing; the test is run at the synthesis review.
+- **A, [ADR-tmpi2grj](ADR-tmpi2grj.md):** every synthesis that organizes held components is filed as an account, whatever its provenance.
+- **C, [ADR-tmpkiuac](ADR-tmpkiuac.md):** no test at filing; the test is run at the synthesis review.
 
 ## Consequences
 
