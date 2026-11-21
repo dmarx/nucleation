@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'The work luria-nucleating-an-argument is renamed from-obstruction-to-reorganization, after the directory of its successor draft: the two manuscripts are one work, and the work takes the current draft''s name and title'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Active at the owner's ruling of 2026-11-21 on the promotion pull
+    request, 599: "adopt the ADRs and the candidate line, then merge". It
+    was applied on staging before adoption, in the pull request that
+    proposed it.
 tags:
 - record
 date: '2026-11-21'

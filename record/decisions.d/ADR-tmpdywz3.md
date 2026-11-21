@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'A pull request description that several writers edit is divided into marked sections, each kept by one writer, and every edit reads the description just before writing and writes only if it has not changed since'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Active at the owner's ruling of 2026-11-21 on the promotion pull
+    request, 599: "adopt the ADRs and the candidate line, then merge". It
+    was applied on staging before adoption, in the pull request that
+    proposed it.
 tags:
 - record
 - process

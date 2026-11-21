@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'Alternative A for the admission test of a synthesis: the test for a claim whose premises are claims decides whether a synthesis also yields a claim, not whether it is kept; a synthesis that organizes held components is filed as an account of its own scope whether or not it yields a claim, and only a recap, a synthesis that adds nothing but labels, stays in the curation entry'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Active at the owner's ruling of 2026-11-21 on the promotion pull
+    request, 599: "adopt the ADRs and the candidate line, then merge". It
+    was applied on staging before adoption, in the pull request that
+    proposed it.
 tags:
 - record
 date: '2026-11-21'
