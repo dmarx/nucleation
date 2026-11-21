@@ -26,11 +26,11 @@ summary: >-
 
 ## Context
 
-ADR-071 puts each unit of work on its own branch, cut from the default branch.
+[ADR-071](ADR-071.md) puts each unit of work on its own branch, cut from the default branch.
 When units cite each other's temporary codes, each has to be based on the
 last, and a session's work becomes a stack: six pull requests on 2026-11-20
 and 21 (558 to 563), five on 2026-11-19 (535 to 540, folded top-down by hand,
-POSTMORTEM-001).
+[POSTMORTEM-001](../postmortems.d/POSTMORTEM-001.md)).
 
 The owner named the cost: each merge into main means waiting on CI. Reading
 docs.yml shows where the wait is. Pushes to main already coalesce, since their
@@ -38,12 +38,12 @@ concurrency group holds one pending run. What repeats per merge is
 retargeting: when a stack's bottom pull request merges, the next is retargeted
 to main and checked again, and main has meanwhile concretized the merged
 pull request's temporary codes (`allocate: merge`, done only where merges
-serialize), so the next has to absorb renames. POSTMORTEM-003 records the
+serialize), so the next has to absorb renames. [POSTMORTEM-003](../postmortems.d/POSTMORTEM-003.md) records the
 conflicts that came from this.
 
 The owner's stated philosophy is to fit the tooling to the way the work is done
 rather than the other way round. The record holds that idea in its own terms:
-CLAIM-541 reads wu-wei as control placed and timed where a system's own
+[CLAIM-541](../claims.d/CLAIM-541.md) reads wu-wei as control placed and timed where a system's own
 dynamics do most of the work. Here the work's own rhythm is a run of small
 units in a session, reviewed and promoted as a batch.
 
@@ -65,14 +65,14 @@ units in a session, reviewed and promoted as a batch.
 - **Promotion by hand** is a pull request from staging into main, or running
   the workflow, whenever the owner judges a batch ready.
 - **Only the workflow or the owner merges into main.** CI on main is unchanged.
-- ADR-071 holds with "cut from staging" for "cut from the default branch"; it
-  takes a history note. ADR-054 holds as it stands.
+- [ADR-071](ADR-071.md) holds with "cut from staging" for "cut from the default branch"; it
+  takes a history note. [ADR-054](ADR-054.md) holds as it stands.
 
 ## Alternatives considered
 
 - **Disable CI on main while merging a stack.** The owner's first idea. It
   would leave main unchecked in the meantime and still concretize per merge.
-- **Fold stacks by hand** (POSTMORTEM-001): merge each pull request into the one
+- **Fold stacks by hand** ([POSTMORTEM-001](../postmortems.d/POSTMORTEM-001.md)): merge each pull request into the one
   below and the bottom into main. Works, but must be done each time and still
   needs stacking while the work is open.
 - **GitHub's merge queue.** Batches merges into main, but needs repository

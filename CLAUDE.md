@@ -107,11 +107,11 @@ stay temporary on staging, so a unit that cites another's codes is cut from
 staging once that unit has merged there, not stacked on its branch. The
 Promote workflow merges staging into main nightly, or when run by hand,
 concretizes the batch's codes, regenerates the views, and merges main back
-into staging (ADR-tmpwe08z). Only that workflow, or the owner, merges into
+into staging ([ADR-tmpwe08z](record/decisions.d/ADR-tmpwe08z.md)). Only that workflow, or the owner, merges into
 main.
 
 **Each logical unit of work gets its own branch, cut from `staging`, and its
-own pull request** ([ADR-071](record/decisions.d/ADR-071.md), as changed by ADR-tmpwe08z): the filing of one source,
+own pull request** ([ADR-071](record/decisions.d/ADR-071.md), as changed by [ADR-tmpwe08z](record/decisions.d/ADR-tmpwe08z.md)): the filing of one source,
 one decision with what it changes, one tooling bump, one sweep. This holds
 even when a session was started on one designated branch; that decision is
 the standing permission to open others. **A decision goes with a
