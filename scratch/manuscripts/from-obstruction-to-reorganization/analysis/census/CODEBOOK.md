@@ -32,7 +32,7 @@ Output one JSON object per ADR with exactly these keys:
 
 ## Addendum, 2026-11-21: the fifth batch
 
-The scheme above is unchanged. `batch-5.json` codes the 22 decisions filed on 2026-11-21, ADR-115 to ADR-135 and ADR-tmpcb96w (a temporary code, Proposed on an open branch when coded), with the same keys and rules. It was coded by one coder, the assistant revising the manuscript, which took part in the session that filed many of them; no second coder has seen it, and each row's `note` begins "Batch 5, single coder". Conventions applied where the rules above left a choice, so that a later coder can check them:
+The scheme above is unchanged. `batch-5.json` codes the 22 decisions filed on 2026-11-21, ADR-115 to ADR-135 and ADR-tmpcb96w (a temporary code, Proposed on an open branch when coded), with the same keys and rules. It was coded by one coder, the assistant revising the manuscript, which took part in the session that produced several of them; no second coder has seen it, and each row's `note` begins "Batch 5, single coder". Conventions applied where the rules above left a choice, so that a later coder can check them:
 
 - An owner's request whose words prescribe the change, or an owner's choice among filed alternatives ("571-A", "sure, go with A"), is coded `explicit`, with those words as `ratification_quote`, and the owner as `decider`.
 - An alternative filed under the dialectic regime's several-readings rule and not chosen is `status` Rejected, `outcome` rejected, and has `decline` among its operations; it is `restraint` only if it proposed a grammar change (none did).

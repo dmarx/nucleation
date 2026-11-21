@@ -503,7 +503,7 @@
   "proposer": "assistant",
   "decider": "owner",
   "ratification": "explicit",
-  "ratification_quote": "sure, go with A",
+  "ratification_quote": "adopt the ADRs and the candidate line, then merge",
   "residue": "prose_only",
   "migration": null,
   "outcome": "in_force",
@@ -557,7 +557,7 @@
    "criteria"
   ],
   "trigger": "owner_request",
-  "trigger_quote": "I worry that ADR-075's language might be discouraging us from documenting useful syntheses we may have already constructed",
+  "trigger_quote": "answering the owner's worry that ADR-075's language discourages documenting useful syntheses, and their concern about rejecting content prematurely",
   "noticer": "owner",
   "proposer": "assistant",
   "decider": "owner",
@@ -587,7 +587,7 @@
    "criteria"
   ],
   "trigger": "owner_request",
-  "trigger_quote": "I worry that ADR-075's language might be discouraging us from documenting useful syntheses we may have already constructed",
+  "trigger_quote": "answering the owner's worry that ADR-075's language discourages documenting useful syntheses",
   "noticer": "owner",
   "proposer": "assistant",
   "decider": "owner",

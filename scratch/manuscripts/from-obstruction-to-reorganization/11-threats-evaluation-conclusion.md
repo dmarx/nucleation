@@ -22,7 +22,7 @@
 
 - **Agreement.** Agreement between coders was high on the fields the argument uses (κ 0.81–1.00), moderate on the form of the misfit (0.65) and low on outcome (0.38), which is not used.
 - **One model.** All five coders were instances of one model. Their agreement may partly reflect shared bias, so a human coder is needed. The owner's ruling filed this as a lead (LEAD-206, Open).
-- **One coder, a participant, for the fifth batch.** The 22 decisions of 21 November were coded by one coder, the assistant revising this draft, which took part in the session that filed many of them and drafted several. No second coder has seen them (§12.3).
+- **One coder, a participant, for the fifth batch.** The 22 decisions of 21 November were coded by one coder, the assistant revising this draft, which took part in the session that produced several of them. No second coder has seen them (§12.3).
 - **Coded status goes stale.** The census codes each decision's status as it stood when coded. Thirty-four of the first 114 have since moved from Proposed to Active. The argument uses outcome from the decisions themselves, not the status field (§13.1).
 - **Missing records.** Thirty-one of the 88 grammar changes, and 42 of all 114 decisions, do not record who decided. The census codes these as unknown rather than guessing. Every decision of the fifth batch records one.
 

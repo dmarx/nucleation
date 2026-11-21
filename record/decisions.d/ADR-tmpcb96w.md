@@ -61,7 +61,7 @@ Each gap left was given a reason. The owner then asked: "update the skill instru
 ## Alternatives considered
 
 - **Fill gaps only when the owner asks.** This is the status quo for this filing. It makes the most useful part of a filing depend on remembering to ask, and a filing that maps a source's gaps without filling them hands the owner a list of known holes.
-- **Offer each gap fill first, as step 12 does.** The filing of 2026-11-21 had about forty. Offering them one by one turns a filing into a long negotiation. The protection the offer gives is already given by Proposed standing and the voice line. Step 12's ideas are different: they are new theses drawn across sources, and they move the record's own argument.
+- **Offer each gap fill first, as step 12 does.** The filing of 2026-11-21 had some fifty (the curation entry lists 54 filled). Offering them one by one turns a filing into a long negotiation. The protection the offer gives is already given by Proposed standing and the voice line. Step 12's ideas are different: they are new theses drawn across sources, and they move the record's own argument.
 - **Fold gap filling into step 12.** This merges two scopes that differ in what they need: a gap is checked against the source it is in, and a cross-source idea against the whole record. It would also put step 12's offer-first rule on both.
 
 ## Consequences

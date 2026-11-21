@@ -2,7 +2,7 @@
 
 # From Obstruction to Reorganization: A Theory of Learning and Inquiry, Operationalized in Its Own Investigative Machinery
 
-*Working title. Alternatives: "Nucleating an Inquiry"; "The Apparatus Revises Itself: Learning, Inquiry and a Research Record That Changes Its Own Grammar"; "(AI) Assisted Inquiry", short form AIAI (the owner's, 2026-11-21; the parenthesis lets it read as AI-assisted inquiry and as assisted inquiry with the AI optional).*
+*Working title. Alternatives: "Nucleating an Inquiry"; "The Apparatus Revises Itself: Learning, Inquiry and a Research Record That Changes Its Own Grammar"; "(AI) Assisted Inquiry", short form AIAI (the owner's words in conversation, 2026-11-21, not on the record; the parenthesis lets it read as AI-assisted inquiry and as assisted inquiry with the AI optional).*
 
 ## Abstract
 
