@@ -53,7 +53,7 @@ summary: >-
   periodic executive summaries. The review is the assistant's (Claude, in this
   session); adopting its recommendations is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-tmpcb96w ADR-tmp44npm ADR-tmpcjfyy SYNTHESIS-tmp69tyj SYNTHESIS-tmpsejrp TERM-tmpol232 TERM-tmptiim0 CLAIM-tmpcg4uu CLAIM-tmp7ijze CLAIM-tmpewm5i CLAIM-tmpfls41 QUESTION-tmpss7dl QUESTION-tmp4xg7u QUESTION-tmp2b8au CASE-tmpqo06u ARG-tmpmvc5e ARG-tmp09yqc ARG-tmp2w77g ARG-052 ARG-071 — Proposed, Rejected or new; the entries this review names -->
+<!-- inactive-ok-file: ADR-tmpcb96w ADR-tmpcjfyy CLAIM-tmpcg4uu CLAIM-tmp7ijze CLAIM-tmpewm5i — Proposed, Rejected or new; the entries this review names -->
 
 # RETRO-tmpd00ym: The filing of Rich Get Richer Power Laws and the evening after: an exchange, eight readings, a manuscript refresh and two decisions on how the record files, in five pull requests; what went right was separate readers checking the drafters' work and the owner's corrections becoming rules the same evening, and what went wrong was the assistant settling for one reading, one framing or one file where the owner wanted all of them
 
