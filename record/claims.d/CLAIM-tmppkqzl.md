@@ -33,7 +33,7 @@ grounds:
 - THEORY-1161
 - THEORY-960
 summary: >-
-  CLAIM-772 models anchoring as a chain whose steps copy the source's
+  [CLAIM-772](CLAIM-772.md) models anchoring as a chain whose steps copy the source's
   features exactly, and sets aside Friedkin and Johnsen's re-injection of
   the start as a second route it does not cover. On the state enlarged by
   the source the two are one route, and re-injection is the one the record

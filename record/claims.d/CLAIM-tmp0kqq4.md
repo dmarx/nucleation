@@ -24,11 +24,11 @@ rests_on:
 grounds:
 - THEORY-332
 summary: >-
-  CLAIM-772 makes exact copying the record's means of anchoring content.
+  [CLAIM-772](CLAIM-772.md) makes exact copying the record's means of anchoring content.
   Exact copying conserves whatever the copied version held, including what
-  the source has since corrected. RETRO-004 is the case: a postmortem's
+  the source has since corrected. [RETRO-004](../retrospectives.d/RETRO-004.md) is the case: a postmortem's
   body was corrected the day it was filed, its summary was not, and when it
-  became RETRO-004 the summary was carried over exactly, with the
+  became [RETRO-004](../retrospectives.d/RETRO-004.md) the summary was carried over exactly, with the
   sentence the body had withdrawn. For a source that is revised, the
   hazard is not drift but staleness, and what guards against it is a
   revision that must pass through every copy, or a copy that records the
@@ -50,7 +50,7 @@ source that changes, an exact copy is anchored to the version it was taken
 from. It keeps the source's value at the time of copying, which after a
 revision is the value the revision removed.
 
-**The case.** POSTMORTEM-002, in its first version, called the missing
+**The case.** [POSTMORTEM-002](../postmortems.d/POSTMORTEM-002.md), in its first version, called the missing
 converse fields a defect. The filer corrected the body the same day, on
 reading luria's code. The summary in the frontmatter was not corrected.
 When the review became [RETRO-004](../retrospectives.d/RETRO-004.md), the summary was carried over exactly,
