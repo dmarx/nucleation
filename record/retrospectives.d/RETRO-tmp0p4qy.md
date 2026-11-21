@@ -52,7 +52,7 @@ summary: >-
   ruling by ticked box missed; and the nightly Promote still bypassing the
   review point built for it. Six recommendations, none yet a decision.
 ---
-<!-- inactive-ok-file: ADR-116 ADR-tmpzgon7 ADR-tmpq5b9e ADR-tmpwi4rk ADR-tmpvmzl6 ADR-tmpyzxw8 ADR-tmpd4rgx ADR-108 — Proposed or Active since tonight; the decisions this reviews -->
+<!-- inactive-ok-file: ADR-116 ADR-tmpzgon7 ADR-tmpvmzl6 ADR-tmpd4rgx ADR-108 — Proposed or Active since tonight; the decisions this reviews -->
 
 # RETRO-tmp0p4qy: The night of 2026-11-21 after the first retrospective: staging and its first promotion, the dialectic regime and the conventions it grew, a local reading of First Contact and an adoption review that adopted 34 decisions; what went right was fitting the tooling to the work and the owner steering by interjection, and what went wrong was a few errors of the assistant's that the regime let travel further before the owner caught them
 
@@ -78,7 +78,7 @@ requests 564 to 580 in this record and 402 and 403 in luria. In order:
   earmarks (571, [ADR-tmpyzxw8](../decisions.d/ADR-tmpyzxw8.md)); the owner's rulings (578).
 - **Upstream.** The hands-free regime as a luria decision (402); `luria new`
   refusing a title that cites a code (403).
-- **Review.** The adoption review (579, ADR-tmpvmzl6), whose first pass
+- **Review.** The adoption review (579, [ADR-tmpvmzl6](../decisions.d/ADR-tmpvmzl6.md)), whose first pass
   adopted 34 decisions and left [ADR-108](../decisions.d/ADR-108.md) Proposed.
 
 ## What went well, and why
