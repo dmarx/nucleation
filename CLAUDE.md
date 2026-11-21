@@ -99,7 +99,9 @@ as you go, without offering first: new entries in the argument schemes
 (those of [ADR-032](record/decisions.d/ADR-032.md), and WORKBENCH and LEAD, and any that join them),
 revisions to what the regime filed, dated notes, Reframings, corrections,
 devlog notes. Put them in one open pull request into `staging`,
-one commit per turn; answer first, then report what was filed; revert
+one commit per turn; answer first, then end every turn that files,
+merges or opens anything with a **Filed** block listing each entry, pull
+request, merge and upstream change, or say that nothing was filed; revert
 (`git revert`) when the owner interjects. Status changes on held entries,
 ADRs and DPs, `luria.yaml`, CI, delegated readings, outside services and
 merges still wait for the owner. When a turn admits several valid readings
