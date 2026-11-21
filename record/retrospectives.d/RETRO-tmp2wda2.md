@@ -49,7 +49,7 @@ summary: >-
   that also corrupted `formerly:` before it was reverted. Five
   recommendations, none yet a decision.
 ---
-<!-- inactive-ok-file: ADR-127 ADR-116 ADR-tmpg1n72 ADR-tmpwgvwk — Proposed; decisions this reviews -->
+<!-- inactive-ok-file: ADR-127 ADR-tmpg1n72 ADR-tmpwgvwk — Proposed; decisions this reviews -->
 
 # RETRO-tmp2wda2: The owner's rulings on the promotion pull request of 2026-11-21 and the hour after: one list of rulings became twelve pull requests, a promotion and a back-merge; what went right was ruling inline and choosing among filed alternatives, and what went wrong was the assistant reaching for a script or a memory where the tool already held the rule
 
@@ -58,11 +58,11 @@ summary: >-
 From the owner's rulings on pull request 582 (about 08:45 UTC, 2026-11-21) to the promotion of that batch and the opening of 599 (about 10:00). In order:
 
 - **The rulings.** The owner answered the description's list of choices waiting, with one indented bullet each. There were thirteen answers.
-- **Twelve pull requests**, one per unit of work (ADR-071):
-  - corrections: the `anthology-candidate` finding (587) and RETRO-004's summary (588);
+- **Twelve pull requests**, one per unit of work ([ADR-071](../decisions.d/ADR-071.md)):
+  - corrections: the `anthology-candidate` finding (587) and [RETRO-004](RETRO-004.md)'s summary (588);
   - a lead for a human coder (591);
   - anchoring restated in general terms and taken into the P9 account (592);
-  - decisions: the work renamed (589, ADR-tmpwgvwk), cross-line accounts with an audit for missing lines (593, ADR-tmpg1n72), three alternatives on ADR-075's language (594), and a restart that keeps the dialectic's state (595, ADR-127 version 3);
+  - decisions: the work renamed (589, [ADR-tmpwgvwk](../decisions.d/ADR-tmpwgvwk.md)), cross-line accounts with an audit for missing lines (593, [ADR-tmpg1n72](../decisions.d/ADR-tmpg1n72.md)), three alternatives on [ADR-075](../decisions.d/ADR-075.md)'s language (594), and a restart that keeps the dialectic's state (595, [ADR-127](../decisions.d/ADR-127.md) version 3);
   - the previous retrospective's responses (596);
   - the manuscript (597);
   - an analytics pipeline in Apache Hamilton (598).
@@ -73,7 +73,7 @@ The devlog entries of 09:05:39 and 09:37:39, filed on pull request 594 as the wo
 ## What went well, and why
 
 - **Ruling inline worked.** The owner answered every item where it stood, in the description the items were already in. Each answer could be quoted exactly in the entry it changed. None was lost or misread. Two answers were questions ("don't we get this for free via git blame or git log?"), and those were answered and the recommendation withdrawn.
-- **Alternatives let the owner choose cheaply.** The ADR-075 question went to the owner as three filed decisions with a table and a stated lean. The owner chose with "sure, go with A". The chosen one's skill wording was applied within minutes, and the others were kept as Rejected, not deleted.
+- **Alternatives let the owner choose cheaply.** The [ADR-075](../decisions.d/ADR-075.md) question went to the owner as three filed decisions with a table and a stated lean. The owner chose with "sure, go with A". The chosen one's skill wording was applied within minutes, and the others were kept as Rejected, not deleted.
 - **One unit, one pull request, held under load.** Twelve units in an hour were filed on twelve branches. Each could be merged or held on its own, which is what let the owner hold four for review while the rest merged.
 - **The delegated pipeline checked itself against the record.** A background agent built the analytics pipeline while the assistant filed the rest. Its tests reproduce the manuscript's figures exactly at the commits the manuscript read. It made the census's staleness visible as numbers: 13 decisions not yet coded, and 34 coded decisions whose status has changed since.
 - **The owner's questions found the errors.** "the flag didn't change meaning" withdrew a census finding. "is this not something luria can already do for us?" found that a script duplicated `luria repair`. Both are in the next section.
@@ -81,9 +81,9 @@ The devlog entries of 09:05:39 and 09:37:39, filed on pull request 594 as the wo
 
 ## What did not go well
 
-- **A finding rested on one reader's classification.** The census's term audit classed ADR-048's rewording of the `anthology-candidate` blurb as a redefinition in place. CLAIM-tmpj5aiv, the manuscript's abstract and its results then made that its one instance of a change of meaning left untraced. The classification was the assistant's alone: the census's second coder checked the decisions, not the term events. The owner ruled that the flag had not changed meaning. The finding was withdrawn (587). That left the claim's distinctive half without a case, and the manuscript's E3 exception untested.
-- **A code in a title failed docs-check a fourth time** (devlog, 09:05:39). Three alternative decisions were titled "Alternative A to ADR-075's step 5". The assistant's own retrospective, filed an hour earlier, had named the hazard. luria 1.11.0, already released, refuses such a title in `luria new`. The record still pins 1.10.0.
-- **A script did what luria already does, and did it wrong** (devlog, 09:37:39). After the promotion the assistant wrote a script to swap the concretized codes into the four open branches. The script also rewrote the `formerly:` fields that must keep the old codes, in 24 entries on one branch. Three branches were pushed before the assistant noticed. The commits were reverted, and the rewrite was redone correctly. But none of it was needed. `luria repair`, which every pull request's docs-check runs, makes exactly that rewrite and skips `formerly:`. Old spellings also resolve through `formerly:` in the meantime. This is ADR-054's lesson again: a mechanical change CI already makes should not be made by hand.
+- **A finding rested on one reader's classification.** The census's term audit classed [ADR-048](../decisions.d/ADR-048.md)'s rewording of the `anthology-candidate` blurb as a redefinition in place. [CLAIM-791](../claims.d/CLAIM-791.md), the manuscript's abstract and its results then made that its one instance of a change of meaning left untraced. The classification was the assistant's alone: the census's second coder checked the decisions, not the term events. The owner ruled that the flag had not changed meaning. The finding was withdrawn (587). That left the claim's distinctive half without a case, and the manuscript's E3 exception untested.
+- **A code in a title failed docs-check a fourth time** (devlog, 09:05:39). Three alternative decisions were titled "Alternative A to [ADR-075](../decisions.d/ADR-075.md)'s step 5". The assistant's own retrospective, filed an hour earlier, had named the hazard. luria 1.11.0, already released, refuses such a title in `luria new`. The record still pins 1.10.0.
+- **A script did what luria already does, and did it wrong** (devlog, 09:37:39). After the promotion the assistant wrote a script to swap the concretized codes into the four open branches. The script also rewrote the `formerly:` fields that must keep the old codes, in 24 entries on one branch. Three branches were pushed before the assistant noticed. The commits were reverted, and the rewrite was redone correctly. But none of it was needed. `luria repair`, which every pull request's docs-check runs, makes exactly that rewrite and skips `formerly:`. Old spellings also resolve through `formerly:` in the meantime. This is [ADR-054](../decisions.d/ADR-054.md)'s lesson again: a mechanical change CI already makes should not be made by hand.
 - **An unchecked command result.** The first attempt to revert used `git revert -q`, which git rejected. The output was suppressed, and the assistant reported the next step before checking the log, which showed the revert had not happened. The second attempt checked.
 - **A shared description was overwritten.** Another session rewrote 582's description at 08:08 and dropped the list of choices waiting. The assistant restored it. The owner's later rulings were written into the restored list.
 - **The next step after the hold was not said.** When the hold on merging into staging lifted, the assistant reported what was waiting but not what it would do next. The owner had to ask: "you gonna open a new PR on staging or what?"
