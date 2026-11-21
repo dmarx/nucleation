@@ -25,7 +25,7 @@ summary: >-
   branches, one with a conflict. What changes: read CI after each push and
   before stacking (recommended in the session's retrospective).
 ---
-<!-- inactive-ok-file: ADR-054 RETRO-tmp50h9d — Proposed or newly filed; the decision whose procedure was in play, and the retrospective filed beside this -->
+<!-- inactive-ok-file: RETRO-tmp50h9d — Proposed or newly filed; the decision whose procedure was in play, and the retrospective filed beside this -->
 
 # POSTMORTEM-tmpynplw: A code in an argument's title failed docs-check on pull request 558, and the failure went unread while five more pull requests were stacked on it
 
@@ -48,7 +48,7 @@ status.
 ## Why
 
 - **No step reads CI after a push.** CLAUDE.md says to fix what docs-check names
-  if it goes red, but nothing in the working loop looks. ADR-054 moved checking
+  if it goes red, but nothing in the working loop looks. [ADR-054](../decisions.d/ADR-054.md) moved checking
   to CI; it did not say who reads CI's result.
 - **Stacking hid it.** Each later pull request was based on the failing branch;
   their diffs did not show the file, and nothing stopped a branch being based on
@@ -64,7 +64,7 @@ nothing merged red.
 
 ## What changes
 
-Recommended in RETRO-tmp50h9d (recommendations 2 and 3): read CI after every
+Recommended in [RETRO-tmp50h9d](../retrospectives.d/RETRO-tmp50h9d.md) (recommendations 2 and 3): read CI after every
 push, base no pull request on one whose docs-check has not passed, and cap the
 depth of a stack. A check that titles carry no codes before pushing would catch
 this class locally; it is a candidate for a pre-push hook, for the owner to

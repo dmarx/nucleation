@@ -39,7 +39,7 @@ summary: >-
   not delete. What changes: four small rules, and the reader-branch ending
   [ADR-108](../decisions.d/ADR-108.md) left open.
 ---
-<!-- inactive-ok-file: ADR-068 ADR-109 THEORY-2058 — Proposed; cited as open -->
+<!-- inactive-ok-file: THEORY-2058 — Proposed; cited as open -->
 <!-- inactive-ok-file: POSTMORTEM-001 ADR-tmpupzg0 — Superseded or Proposed; the postmortem this converts, and the decision converting it -->
 <!-- inactive-ok-file: ADR-108 ADR-110 POSTMORTEM-002 — Proposed or newly filed; the decisions this postmortem reviews -->
 

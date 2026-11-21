@@ -15,22 +15,22 @@ summary: >-
   scheme as well and convert our pre-existing postmortems to retros). A
   lot of stuff seems to be clicking right now, and we should document what
   seems to be going right." A new scheme RETRO; POSTMORTEM narrowed to
-  incidents; ADR-110's triggers divided between them; the devlog as the
-  running notes; POSTMORTEM-001 to 003 converted. First application: the
+  incidents; [ADR-110](ADR-110.md)'s triggers divided between them; the devlog as the
+  running notes; [POSTMORTEM-001](../postmortems.d/POSTMORTEM-001.md) to 003 converted. First application: the
   conversions, three devlog entries, a retrospective of the session of
   2026-11-20 and 21, and a postmortem of its docs-check failure.
 ---
-<!-- inactive-ok-file: ADR-110 ADR-112 POSTMORTEM-001 POSTMORTEM-002 POSTMORTEM-003 RETRO-tmpb4hv3 RETRO-tmpcjeut RETRO-tmp89l09 RETRO-tmp50h9d POSTMORTEM-tmpynplw — Proposed, Draft or Superseded; the decisions this changes and the entries it converts or files -->
+<!-- inactive-ok-file: ADR-110 ADR-112 POSTMORTEM-001 RETRO-tmpb4hv3 RETRO-tmpcjeut RETRO-tmp89l09 RETRO-tmp50h9d POSTMORTEM-tmpynplw — Proposed, Draft or Superseded; the decisions this changes and the entries it converts or files -->
 
 # ADR-tmpupzg0: A RETRO scheme holds retrospectives, reviews of how a change or a stretch of work went, including what went right; POSTMORTEM is kept for something that went wrong; the devlog holds notes taken during the work for the next retrospective; and the existing postmortems become retrospectives
 
 ## Context
 
-ADR-112 added POSTMORTEM as "a review of how a change to the record has worked
-out once it has been used", and ADR-110 set when one is due: a schema change
+[ADR-112](ADR-112.md) added POSTMORTEM as "a review of how a change to the record has worked
+out once it has been used", and [ADR-110](ADR-110.md) set when one is due: a schema change
 used, a batch closing, a bulk filing, a decision revised soon after landing, a
 process incident, or the owner asking. All three postmortems filed so far
-(POSTMORTEM-001 to 003) review a change or a batch, not a failure.
+([POSTMORTEM-001](../postmortems.d/POSTMORTEM-001.md) to 003) review a change or a batch, not a failure.
 
 The owner asked on 2026-11-21 to keep POSTMORTEM for something going wrong, to
 add a scheme for the ordinary review of how work went, to convert the existing
@@ -58,7 +58,7 @@ only its template.
   wrong, a standing rule broken or nearly broken, a decision revised soon after
   landing. Its fields are unchanged. Its `superseded_by` may name a RETRO, so a
   postmortem that turns out to be a review of how things went can be converted.
-- **ADR-110's triggers are divided.** A schema change used, a batch closing, a
+- **[ADR-110](ADR-110.md)'s triggers are divided.** A schema change used, a batch closing, a
   bulk filing and the owner asking call for a RETRO. A decision revised soon
   after landing and a process incident call for a POSTMORTEM. The owner can ask
   for either. The assistant still checks the triggers when a batch closes, and
@@ -72,7 +72,7 @@ only its template.
   since the previous RETRO and cites them by date. A devlog entry goes in the
   pull request of the work it is about; it needs no asking.
 - **ADR's derived converses** `reviewed_by` and `prompted_by` take both schemes.
-- **Conversion.** POSTMORTEM-001, 002 and 003 are copied into new RETRO entries,
+- **Conversion.** [POSTMORTEM-001](../postmortems.d/POSTMORTEM-001.md), 002 and 003 are copied into new RETRO entries,
   their text unchanged apart from the heading, and retired by status
   (Superseded, `superseded_by` the RETRO), never deleted. The decisions that
   cite them keep their text; their history notes point here.
@@ -93,11 +93,11 @@ only its template.
 
 ## Consequences
 
-- ADR-110 and ADR-112 take history notes pointing here; their bodies are
+- [ADR-110](ADR-110.md) and [ADR-112](ADR-112.md) take history notes pointing here; their bodies are
   unchanged.
 - CLAUDE.md's map names retrospectives and the devlog's use.
-- First application, in this pull request: POSTMORTEM-001 to 003 converted to
-  RETRO-tmpb4hv3, RETRO-tmpcjeut and RETRO-tmp89l09; three devlog entries of
-  2026-11-21; RETRO-tmp50h9d, a retrospective of the session of 2026-11-20 and
-  21, which reads them; and POSTMORTEM-tmpynplw, on that session's docs-check
+- First application, in this pull request: [POSTMORTEM-001](../postmortems.d/POSTMORTEM-001.md) to 003 converted to
+  [RETRO-tmpb4hv3](../retrospectives.d/RETRO-tmpb4hv3.md), [RETRO-tmpcjeut](../retrospectives.d/RETRO-tmpcjeut.md) and [RETRO-tmp89l09](../retrospectives.d/RETRO-tmp89l09.md); three devlog entries of
+  2026-11-21; [RETRO-tmp50h9d](../retrospectives.d/RETRO-tmp50h9d.md), a retrospective of the session of 2026-11-20 and
+  21, which reads them; and [POSTMORTEM-tmpynplw](../postmortems.d/POSTMORTEM-tmpynplw.md), on that session's docs-check
   failure, the first postmortem under the narrowed scheme.

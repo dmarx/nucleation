@@ -40,7 +40,7 @@ summary: >-
   the owner on how dated notes are filed, a wording question for [ADR-074](../decisions.d/ADR-074.md),
   and a rule against inferring names.
 ---
-<!-- inactive-ok-file: ADR-068 ADR-108 ADR-109 CLAIM-754 CLAIM-756 CLAIM-758 TERM-131 — Proposed; cited as open -->
+<!-- inactive-ok-file: CLAIM-754 CLAIM-756 CLAIM-758 TERM-131 — Proposed; cited as open -->
 <!-- inactive-ok-file: POSTMORTEM-003 ADR-tmpupzg0 — Superseded or Proposed; the postmortem this converts, and the decision converting it -->
 <!-- inactive-ok-file: ADR-110 — Proposed or newly filed; the decisions this postmortem reviews -->
 
