@@ -141,7 +141,10 @@ staging once that unit has merged there, not stacked on its branch. The
 Promote workflow merges staging into main nightly, or when run by hand,
 concretizes the batch's codes, regenerates the views, and merges main back
 into staging ([ADR-116](record/decisions.d/ADR-116.md)). Only that workflow, or the owner, merges into
-main.
+main. Whenever staging differs from main, a pull request from staging into main is
+open for the owner's review; the Promotion PR workflow opens it on a push to
+staging ([ADR-tmpwi4rk](record/decisions.d/ADR-tmpwi4rk.md)). When you merge into staging, add the choices waiting
+on the owner to its description.
 
 **Each logical unit of work gets its own branch, cut from `staging`, and its
 own pull request** ([ADR-071](record/decisions.d/ADR-071.md), as changed by [ADR-116](record/decisions.d/ADR-116.md)): the filing of one source,
