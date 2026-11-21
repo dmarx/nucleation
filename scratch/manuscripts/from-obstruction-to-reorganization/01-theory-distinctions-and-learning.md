@@ -110,7 +110,7 @@ What a system can certify about its *own* categories is sharply limited, in four
 - **A metric that ranks the other way.** Whether a direction is small depends on the metric, and metrics can rank directions in opposite orders: a label can sit wholly in the least-variance component (CLAIM-tmppkdjz, A's, demonstrated).
 - **A distribution that does not name its mechanism.** Many routes produce a power law, and the distribution does not tell them apart. Which one is at work is read from dynamics, cutoffs and the response to a perturbing field (SYNTHESIS-tmp69tyj, Proposed, a part account of `formal-apparatus`; LEAD-tmpng7or, Open, the protocol). That is CLAIM-414's point about passive observation, in another domain. *The join is this draft's.*
 
-Each supports the principle below. The first adds something it does not state: evidence must be scored against what the measure would show with no learning at all. Whether that is a fourth route to certification or a case of "a model of the effect" is the draft's question; no entry answers it.
+Each supports the principle below. The first adds something it does not state: evidence must be scored against what the measure would show with no learning at all. That is now filed as CLAIM-tmpfls41 (Proposed, the assistant's), and the question whether it is a fourth route to certification or a case of "a model of the effect" as two alternatives, CLAIM-tmpz5c3x and CLAIM-tmpnf9by, for the owner to choose between.
 
 Legibility bounds correction. The record's measure of **correctability** is the chance that an arrangement, starting from the description of the problem it actually has, finds, authorizes, coordinates and carries out a corrective plan in time (TERM-085, Active). If the description merges two failure modes that need different remedies, no better process downstream can choose between them until the description is refined.
 
@@ -120,7 +120,7 @@ Legibility bounds correction. The record's measure of **correctability** is the 
 - a model of the effect of using them;
 - an intervention.
 
-The new cases of 2026-11-21 add that whichever is used must be scored against a null, what the measure would show with no learning (CLAIM-tmp41gfr). That addition is this draft's, not an entry's.
+The new cases of 2026-11-21 add that whichever is used must be scored against a null, what the measure would show with no learning (CLAIM-tmp41gfr). That addition is CLAIM-tmpfls41 (Proposed), with its place among the routes left open between CLAIM-tmpz5c3x and CLAIM-tmpnf9by.
 
 ### 2.5 When a distinction earns a name
 
