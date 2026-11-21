@@ -107,11 +107,15 @@ merges or opens anything with a **Filed** block listing each entry, pull
 request, merge and upstream change, or say that nothing was filed; revert
 (`git revert`) when the owner interjects. Status changes on held entries,
 ADRs and DPs, `luria.yaml`, CI, delegated readings, outside services and
-merges into main still wait for the owner; merge into staging when a pull
-request is green and ready ([ADR-tmpq5b9e](record/decisions.d/ADR-tmpq5b9e.md), or [ADR-tmp9pqps](record/decisions.d/ADR-tmp9pqps.md) for others' too). When a turn admits several valid readings
+merges into main still wait for the owner; merge your own pull requests
+into staging when green and ready ([ADR-tmpq5b9e](record/decisions.d/ADR-tmpq5b9e.md)). When a turn admits several valid readings
 that would be filed differently, file each, marked as alternatives, and say
 which is which; the owner chooses. A go-ahead, switching the regime on
-included, greenlights everything the message it answers proposed. Suggest switching off when going on would
+included, greenlights everything the message it answers proposed, and adopts
+the lean you stated where it left a choice. When in doubt (harm hard to
+undo, a wide blast radius, something the owner may have missed), stop on
+that item and raise it plainly, CRM style: what, the concern, your
+recommendation, and that you are waiting. Suggest switching off when going on would
 be awkward.
 
 [ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an
@@ -137,7 +141,10 @@ staging once that unit has merged there, not stacked on its branch. The
 Promote workflow merges staging into main nightly, or when run by hand,
 concretizes the batch's codes, regenerates the views, and merges main back
 into staging ([ADR-116](record/decisions.d/ADR-116.md)). Only that workflow, or the owner, merges into
-main.
+main. Whenever staging differs from main, a pull request from staging into main is
+open for the owner's review; the Promotion PR workflow opens it on a push to
+staging ([ADR-tmpwi4rk](record/decisions.d/ADR-tmpwi4rk.md)). When you merge into staging, add the choices waiting
+on the owner to its description.
 
 **Each logical unit of work gets its own branch, cut from `staging`, and its
 own pull request** ([ADR-071](record/decisions.d/ADR-071.md), as changed by [ADR-116](record/decisions.d/ADR-116.md)): the filing of one source,

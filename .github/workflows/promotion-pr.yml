@@ -1,0 +1,36 @@
+# Keeps a pull request from staging into main open whenever staging differs
+# from main, so the owner always has one place to review and merge the batch
+# (the decision on the promotion pull request, kept by a workflow).
+#
+# Triggered by pushes to staging, which a merge of a pull request into
+# staging makes. The back-merge from main pushes with GITHUB_TOKEN and starts
+# no run, which is right: after a promotion staging and main agree.
+#
+# A pull request this job opens with GITHUB_TOKEN starts no docs-check run of
+# its own; each pull request into staging was checked, and Promote lints the
+# merged tree before it pushes. The repository must allow GitHub Actions to
+# create pull requests (Settings, Actions, General).
+name: Promotion PR
+
+on:
+  push:
+    branches: [staging]
+  workflow_dispatch:
+
+concurrency:
+  group: promotion-pr
+  cancel-in-progress: false
+
+jobs:
+  open:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: .github/scripts/promotion-pr.sh
+        env:
+          GH_TOKEN: ${{ github.token }}

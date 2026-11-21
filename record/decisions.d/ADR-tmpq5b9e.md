@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'While the dialectic regime is on, the assistant merges its own pull requests into staging when it judges them ready, green and without conflict; the owner reviews at the promotion from staging to main, which stays theirs'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's ruling of 2026-11-21, choosing among the alternative
+    readings filed for one request: "573-narrow". The assistant merges its
+    own pull requests into staging while the regime is on; ADR-tmp9pqps, the
+    wider reading, goes Rejected.
 tags:
 - record
 - process
