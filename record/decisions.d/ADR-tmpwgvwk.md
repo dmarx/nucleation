@@ -30,7 +30,7 @@ The `works` vocabulary has held `luria-nucleating-an-argument` since 2026-10-11,
 - **One work.** The successor draft is the same work as the manuscript proposed on 2026-10-11.
 - **The term is renamed** `from-obstruction-to-reorganization`, matching the draft's directory. Its label becomes the draft's title, and its blurb records both manuscripts and their dates.
 - **Every entry carrying the old value in its `works` field takes the new one**, in this decision's pull request: 23 entries, a QUESTION, an ARG and 21 claims.
-- **Membership is unchanged.** The rename does not add the entries the successor draft cites. Deciding which of them are members, under the rule of ADR-104, is separate work.
+- **Membership is unchanged.** The rename does not add the entries the successor draft cites. Deciding which of them are members, under the rule of [ADR-104](ADR-104.md), is separate work.
 - **Prose is left as written.** Dated entries that mention the old name (curation and workbench entries, retrospectives, an ADR, changelog fragments) and claims that refer to the predecessor manuscript by it keep their wording. They describe what was true when they were written.
 
 ## Alternatives
@@ -40,5 +40,5 @@ The `works` vocabulary has held `luria-nucleating-an-argument` since 2026-10-11,
 
 ## Consequences
 
-- `luria.yaml`'s `works` vocabulary changes one key. The term audit (CASE-tmpnkuie) counts a rename as a removal and an addition. This one is carried through every carrying entry in its unit of work, as removals have been.
+- `luria.yaml`'s `works` vocabulary changes one key. The term audit ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) counts a rename as a removal and an addition. This one is carried through every carrying entry in its unit of work, as removals have been.
 - The generated work views take the new name at the next promotion.
