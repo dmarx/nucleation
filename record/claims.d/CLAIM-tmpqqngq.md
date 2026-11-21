@@ -35,7 +35,7 @@ summary: >-
   discrimination long before its embeddings appear strongly clustered",
   and collapse of curves across widths under κ/√D or κ/D is a null to rule
   out before invoking criticality. The caps are measured from the origin,
-  so they are not Ganea's entailment cones (ARG-tmpwo5ou). The wording is A's
+  so they are not Ganea's entailment cones ([ARG-tmpwo5ou](../arguments.d/ARG-tmpwo5ou.md)). The wording is A's
   (the other assistant in the exchange "Rich Get Richer Power Laws", A30,
   A33 and A35); adopting it is the owner's call.
 ---
@@ -118,8 +118,8 @@ Computed in this session (python3 -I, scipy):
   is asserted, not derived.
 - **Caps are not entailment cones.** The caps are measured from the origin;
   Ganea's cones are tested at their apex, cannot be defined near the
-  origin, and narrow as the apex moves outward (THEORY-189). A33 says so
+  origin, and narrow as the apex moves outward ([THEORY-189](../theory.d/THEORY-189.md)). A33 says so
   ("not the volumes of hyperbolic entailment cones"), then carries the
-  thresholds to entailment anyway. What carries over is argued in ARG-tmpwo5ou.
+  thresholds to entailment anyway. What carries over is argued in [ARG-tmpwo5ou](../arguments.d/ARG-tmpwo5ou.md).
 - How these scales relate to the BBP threshold and to an alignment
-  bifurcation is the assistant's CLAIM-tmpk33au.
+  bifurcation is the assistant's [CLAIM-tmpk33au](CLAIM-tmpk33au.md).

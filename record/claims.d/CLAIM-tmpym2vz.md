@@ -47,7 +47,7 @@ summary: >-
 **Which gap.** The ledger of the exchange asked how D_PR behaves under a
 power-law spectrum on either side of α = 1 as width grows, since that is
 where the exchange's power laws meet the owner's concentration of measure
-(U19, CLAIM-tmpfwwfy). A30 §5 answers it asymptotically (CLAIM-tmpy688z). The answer at the
+(U19, [CLAIM-tmpfwwfy](CLAIM-tmpfwwfy.md)). A30 §5 answers it asymptotically ([CLAIM-tmpy688z](CLAIM-tmpy688z.md)). The answer at the
 widths networks have is different in kind.
 
 **The derivation.** With S_p(D) = Σ_(j≤D) j^(−p), D_PR = S_α(D)²/S_(2α)(D).
@@ -63,7 +63,7 @@ is real but unreachable, and just below it the D^(2(1−α)) growth is too slow
 to see; both look like the (log D)² of α = 1.
 
 **With Stringer's bound.** A29 §7 cites Stringer and colleagues
-(LIT-tmp7uzka, Deferred: registered, not read) for a smoothness bound: a
+([LIT-tmp7uzka](../literature.d/LIT-tmp7uzka.md), Deferred: registered, not read) for a smoothness bound: a
 differentiable code of an m-dimensional stimulus manifold has
 α ≥ α_c = 1 + 2/m. At α = α_c, 1/(α − 1) = m/2, so the participation ratio is
 bounded in width with limit ζ(1 + 2/m)²/ζ(2 + 4/m), but is approached only at
@@ -84,9 +84,9 @@ Three consequences:
 1. **The participation ratio does not track intrinsic dimension.** At width
    768, codes at Stringer's bound for manifolds of intrinsic dimension 10 to
    100 have D_PR between 13 and 29; from m = 20 to m = 100 it moves from 20 to
-   29. Reading D_PR as an estimate of m (TERM-tmplplcf) fails for m above about 10.
+   29. Reading D_PR as an estimate of m ([TERM-tmplplcf](../terms.d/TERM-tmplplcf.md)) fails for m above about 10.
 2. **Width does not sharpen the shell much.** For such codes the relative
-   spread of the squared norm, √(2/D_PR) (CLAIM-tmpy688z), stays near 0.26 to 0.39 at
+   spread of the squared norm, √(2/D_PR) ([CLAIM-tmpy688z](CLAIM-tmpy688z.md)), stays near 0.26 to 0.39 at
    width 768 and falls only logarithmically with width, against 1/√D for an
    isotropic code. Smooth high-dimensional codes are far from the thin
    annulus however wide the layer.

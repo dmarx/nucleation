@@ -26,7 +26,7 @@ grounds:
 - THEORY-846
 summary: >-
   A35 §4–§6 of the exchange "Rich Get Richer Power Laws" (2026-11-21),
-  answering the owner's U21 (QUESTION-tmpseqwl). By the transport theorem cone
+  answering the owner's U21 ([QUESTION-tmpseqwl](../questions.d/QUESTION-tmpseqwl.md)). By the transport theorem cone
   occupancy rises through boundary motion as well as flow, and collapse
   raises it for any cone covering the collapsed region; and in nested cones
   "measuring the first time it enters each cone will automatically produce
@@ -63,16 +63,16 @@ geometry. It is not evidence that the network learned coarse concepts before
 fine concepts.** To establish genuine progressive learning, we need an
 independent measure of when the underlying distinctions become available",
 such as held-out classification or conditional decodability at each level.
-This is QUESTION-217's distinction exactly: cone first-entry times are a
+This is [QUESTION-217](../questions.d/QUESTION-217.md)'s distinction exactly: cone first-entry times are a
 refinement order by construction and cannot stand in for the acquisition
-order, which QUESTION-217 defines by a decoder's risk.
+order, which [QUESTION-217](../questions.d/QUESTION-217.md) defines by a decoder's risk.
 
 **A signature that is not built in.** A35 §6: with Y_coarse a function of
 Y_fine, I(Z_t; Y_fine) = I(Z_t; Y_coarse) + I(Z_t; Y_fine | Y_coarse), and
 coarse-to-fine learning predicts the first term saturating before the
 second rises. But fine structure can sit latent under coarse labels:
 representations trained on coarse labels keep finer structure recoverable
-by clustering (Yang, Steinhardt and Hu, LIT-tmp03a0g, Deferred: registered,
+by clustering (Yang, Steinhardt and Hu, [LIT-tmp03a0g](../literature.d/LIT-tmp03a0g.md), Deferred: registered,
 not read), so both the information present and the information accessible
 to restricted decoders should be measured. And a matched null: A35 §9's
 enrichment E_t(C) = log[P_t(C)/P₀(C)] against a covariance-matched or
@@ -89,6 +89,6 @@ inclusion: if z ∈ C_fine at time t then z ∈ C_coarse at t, so
 
 The chain-rule diagnostic is stated for Shannon information, just after A35
 argues that usable information is what matters. Usable (V-)information
-fails the data-processing inequality (THEORY-846), and its chain rule does
+fails the data-processing inequality ([THEORY-846](../theory.d/THEORY-846.md)), and its chain rule does
 not hold in general, so the two-term split has to be stated for Shannon
 information and the usable version measured level by level instead.

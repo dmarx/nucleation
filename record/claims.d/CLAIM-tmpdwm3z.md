@@ -26,7 +26,7 @@ grounds:
 - THEORY-196
 summary: >-
   A33 §5–§6 and A35 §8 of the exchange "Rich Get Richer Power Laws"
-  (2026-11-21), answering the owner's U21 (QUESTION-tmpseqwl). In the Poincaré ball
+  (2026-11-21), answering the owner's U21 ([QUESTION-tmpseqwl](../questions.d/QUESTION-tmpseqwl.md)). In the Poincaré ball
   radius encodes depth and cones narrow outward, but Gaussian-like radial
   concentration "could eliminate the dynamic range needed to encode
   hierarchy", and the volume-matching heuristic R_k ∼ k ln b/((D − 1)a)
@@ -44,17 +44,17 @@ summary: >-
 
 **Radius is depth.** A33 §5: in the Poincaré ball "broad, general concepts
 are positioned nearer the center", and the standard entailment cone has
-half-aperture ψ(r) = arcsin(K(1 − r²)/r), which closes as r → 1 (THEORY-189,
+half-aperture ψ(r) = arcsin(K(1 − r²)/r), which closes as r → 1 ([THEORY-189](../theory.d/THEORY-189.md),
 which also holds that such cones cannot be defined near the origin). Depth,
 specificity and aperture are all read off the radius.
 
 **Concentration narrows it.** A33 §5: "If embeddings inherit Gaussian-like
 radial concentration and are simply projected into hyperbolic space, their
 norms may cluster in a narrow radial range. That could eliminate the dynamic
-range needed to encode hierarchy." The annulus of CLAIM-tmp41gfr, with relative
-width 1/√(2D) for isotropic codes and √(2/D_PR) in general (CLAIM-tmpy688z), is the
+range needed to encode hierarchy." The annulus of [CLAIM-tmp41gfr](CLAIM-tmp41gfr.md), with relative
+width 1/√(2D) for isotropic codes and √(2/D_PR) in general ([CLAIM-tmpy688z](CLAIM-tmpy688z.md)), is the
 mechanism. The record already holds that, even when trained for it,
-distance from the origin is only a partial reading of level (THEORY-421:
+distance from the origin is only a partial reading of level ([THEORY-421](../theory.d/THEORY-421.md):
 level order recovered for 69–75% of node pairs, root not innermost).
 
 **Volume narrows it again.** A35 §8: at curvature −a², a geodesic ball's
@@ -73,14 +73,14 @@ automatically advantageous at large D."
 ## Checked
 
 The heuristic's algebra: e^((D−1)aR_k) = b^k gives R_k = k ln b/((D − 1)a).
-The concentration half is checked in CLAIM-tmp41gfr and CLAIM-tmpy688z. Nothing here is
+The concentration half is checked in [CLAIM-tmp41gfr](CLAIM-tmp41gfr.md) and [CLAIM-tmpy688z](CLAIM-tmpy688z.md). Nothing here is
 checked against trained embeddings.
 
 ## What the record holds
 
-THEORY-189 (the cones and their transitivity), THEORY-421 (radius a partial
-reading of level), THEORY-196 (the bit cost of hyperbolic tree embeddings:
-coordinates linear in the longest path), THEORY-188 and THEORY-618
+[THEORY-189](../theory.d/THEORY-189.md) (the cones and their transitivity), [THEORY-421](../theory.d/THEORY-421.md) (radius a partial
+reading of level), [THEORY-196](../theory.d/THEORY-196.md) (the bit cost of hyperbolic tree embeddings:
+coordinates linear in the longest path), [THEORY-188](../theory.d/THEORY-188.md) and [THEORY-618](../theory.d/THEORY-618.md)
 (hyperbolic geometry for hierarchies in networks and neural circuits). None
 says how dimension affects radial depth.
 

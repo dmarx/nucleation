@@ -30,7 +30,7 @@ grounds:
 - LIT-tmpl34bu
 summary: >-
   A33 §2, §7 and §10 and A35 §2–§3 and §9 of the exchange "Rich Get Richer
-  Power Laws" (2026-11-21), answering the owner's U21 (QUESTION-tmpseqwl): "both
+  Power Laws" (2026-11-21), answering the owner's U21 ([QUESTION-tmpseqwl](../questions.d/QUESTION-tmpseqwl.md)): "both
   entailment and Blackwell informativeness are partial orders", so "a more
   accurate picture of learning might be a branching partial order of
   acquired distinctions", and "the biggest conceptual shift is from
@@ -51,10 +51,10 @@ summary: >-
 specific concept than a bird. **Informational refinement:** A
 representation at training step t₂ tells us more about a semantic variable
 than the representation at step t₁." The first is cone inclusion: in a
-transitive cone system c ∈ C(p) implies C(c) ⊆ C(p) (THEORY-189). The
+transitive cone system c ∈ C(p) implies C(c) ⊆ C(p) ([THEORY-189](../theory.d/THEORY-189.md)). The
 second is Blackwell's order applied across checkpoints: Z_(t₂) dominates
 Z_(t₁) for Y if P(Z_(t₁) | Y) = T∘P(Z_(t₂) | Y) for a stochastic T independent of
-Y (CLAIM-199 holds the order and its reach).
+Y ([CLAIM-199](CLAIM-199.md) holds the order and its reach).
 
 **Both partial, so learning branches.** A35's example: a network learns
 bird against mammal, then red against blue while partly losing the first;
@@ -74,8 +74,8 @@ identical", a network revises and forgets, so A33 would "treat temporal
 cone consistency as a hypothesis about the stable portion of representation
 learning, or a soft regularizer". Backward-compatible learning already
 constrains updated embeddings to earlier cones (Bui and colleagues,
-LIT-tmpk3r9g); hyperbolic learning with labels at several granularities is
-nearby (Atigh and colleagues, LIT-tmpl34bu). Both are registered and unread.
+[LIT-tmpk3r9g](../literature.d/LIT-tmpk3r9g.md)); hyperbolic learning with labels at several granularities is
+nearby (Atigh and colleagues, [LIT-tmpl34bu](../literature.d/LIT-tmpl34bu.md)). Both are registered and unread.
 
 **Narrowing is not progress.** A33 §7: "It could shrink its cone around an
 incorrect interpretation", so A35 §5 measures progress by coverage,
@@ -102,8 +102,8 @@ overlaps are illustrative, as A35 says.
   learning" is not yet defined.
 - **Estimating dominance.** Blackwell dominance between checkpoints needs the
   garbling T, and the record holds that Blackwell-type quantities lack
-  finite-data estimators (CLAIM-235). A35 also notes the data-processing
+  finite-data estimators ([CLAIM-235](CLAIM-235.md)). A35 also notes the data-processing
   inequality does not compare checkpoints, since the encoder changes; usable
-  information (THEORY-846, CLAIM-455) is the measure A35 turns to.
+  information ([THEORY-846](../theory.d/THEORY-846.md), [CLAIM-455](CLAIM-455.md)) is the measure A35 turns to.
 - **Cones and caps.** The cost of restriction is computed for spherical caps
-  about the origin; how much of it reaches Ganea's cones is ARG-tmpwo5ou.
+  about the origin; how much of it reaches Ganea's cones is [ARG-tmpwo5ou](../arguments.d/ARG-tmpwo5ou.md).

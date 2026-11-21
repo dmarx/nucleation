@@ -49,11 +49,11 @@ SD(‖z‖²)/E‖z‖² = √(2/D_PR), with D_PR = (tr Σ)²/tr(Σ²).
 "For this Gaussian model, the strength of relative radial concentration is
 controlled by the **effective covariance dimension**, rather than directly by
 ambient dimension." Variance in 20 orthogonal directions of a 4,096-wide
-layer gives D_PR ≈ 20 (TERM-tmplplcf).
+layer gives D_PR ≈ 20 ([TERM-tmplplcf](../terms.d/TERM-tmplplcf.md)).
 
 **Power-law spectra set how it scales.** A29 §7 recalls covariance spectra
 λ_j ∝ j^(−α), observed in neural population responses (Stringer and
-colleagues, LIT-tmp7uzka, Deferred: registered, not read), with residual
+colleagues, [LIT-tmp7uzka](../literature.d/LIT-tmp7uzka.md), Deferred: registered, not read), with residual
 variance beyond rank k ∝ k^(1−α) for α > 1. A30 §5 then gives, for
 D_PR = (Σ_(j≤D) j^(−α))²/Σ_(j≤D) j^(−2α):
 
@@ -88,10 +88,10 @@ below it, a flat enough spectrum concentrates norms strongly.
 - **Finite width.** Near α = 1, where Stringer's bound and the observed
   spectra sit, the asymptotic regimes are reached only at widths far beyond
   any network's, so the table does not let a measurement at realistic
-  widths tell the regimes apart. That is the assistant's CLAIM-tmpym2vz.
+  widths tell the regimes apart. That is the assistant's [CLAIM-tmpym2vz](CLAIM-tmpym2vz.md).
 - **Gaussian and centred.** The identity is for a centred Gaussian. For
   other laws Var ‖z‖² adds fourth cumulants; a nonzero mean must be removed
   first (A30 §9 says "centered"). Real embeddings are neither isotropic nor
   pure power laws, which A30 itself names.
 - **Three spectra.** The covariance spectrum here is not the graph
-  Laplacian's or the stability spectrum's (A29 §7, kept apart in TERM-tmplplcf).
+  Laplacian's or the stability spectrum's (A29 §7, kept apart in [TERM-tmplplcf](../terms.d/TERM-tmplplcf.md)).

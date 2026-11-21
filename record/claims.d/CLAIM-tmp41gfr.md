@@ -27,7 +27,7 @@ grounds:
 - THEORY-369
 summary: >-
   A29 §5A and A30 §1–§3, §6 and §8 of the exchange "Rich Get Richer Power
-  Laws" (2026-11-21), developing the owner's U19 (CLAIM-tmpfwwfy): "A
+  Laws" (2026-11-21), developing the owner's U19 ([CLAIM-tmpfwwfy](CLAIM-tmpfwwfy.md)): "A
   high-dimensional representation can be strongly concentrated
   geometrically while remaining highly dispersed informationally." The
   annulus, near-orthogonality and equal distances are what the null already
@@ -64,13 +64,13 @@ that learning produces."
 
 **Typical set and manifold.** A30 §6: "**A thin annulus is not necessarily a
 low-dimensional manifold.** A sphere in ℝ^D has intrinsic dimension D − 1"
-(TERM-tmplplcf). Concentration removes one radial degree of freedom; a
+([TERM-tmplplcf](../terms.d/TERM-tmplplcf.md)). Concentration removes one radial degree of freedom; a
 20-dimensional semantic manifold in 4,096 dimensions is a different thing,
 and a representation can have both.
 
 **Three concentrations.** A30 §8: probability mass in a narrow range of
 radii (the annulus); variance in a subset of directions (spectral
-concentration, CLAIM-tmpy688z); and a broad hierarchy of slow or correlated modes
+concentration, [CLAIM-tmpy688z](CLAIM-tmpy688z.md)); and a broad hierarchy of slow or correlated modes
 (collective criticality), which "is not concentration itself". A sharp
 annulus can mask soft angular modes, so a featureless norm histogram is no
 evidence against collective structure.
@@ -82,7 +82,7 @@ Computed in this session (python3 -I, scipy):
 - The annulus. Exact SD(R)/E[R] for σ = 1 is 0.178, 0.089, 0.0255 and
   0.0110 at D = 16, 64, 768 and 4,096, against A30's table of 17.7%, 8.8%,
   2.6% and 1.1% from 1/√(2D): the table is right to its rounding.
-- κ for the von Mises–Fisher example is in CLAIM-tmpqqngq.
+- κ for the von Mises–Fisher example is in [CLAIM-tmpqqngq](CLAIM-tmpqqngq.md).
 - **Correction.** A29 §5A and A30 §3 give the largest cosine among N random
   unit vectors as ≈ √(2 log N/D), and A30 works it for D = 768 and N = 10⁶:
   "max_j u_iᵀu_j ≈ 0.19 … That's an angle of about 79 degrees." 0.190 is the
@@ -102,14 +102,14 @@ ensemble: inputs drawn from the data distribution (the pushforward of
 A29 §12), random initialisations, or seeds. A30 uses initialisation
 isotropy without saying so. With a nonzero mean μ the squared norm is
 ‖μ‖² + 2μᵀε + ‖ε‖², and relative concentration is then sharper still, so
-the centred covariance is the one to use (CLAIM-tmpy688z).
+the centred covariance is the one to use ([CLAIM-tmpy688z](CLAIM-tmpy688z.md)).
 
 ## What the record holds
 
-THEORY-366 (Beyer and colleagues): relative contrast between nearest and
+[THEORY-366](../theory.d/THEORY-366.md) (Beyer and colleagues): relative contrast between nearest and
 farthest distances vanishes when the distance's relative variance does, and
 data on a low-dimensional subspace or queries inside well-separated clusters
 escape it. That is this claim's null and its escape route, in the setting of
-nearest-neighbour search; THEORY-369 holds the consequence for indexing.
+nearest-neighbour search; [THEORY-369](../theory.d/THEORY-369.md) holds the consequence for indexing.
 What the record lacked is the null read as a baseline for representation
 dynamics, and the entropic reading of the shell.
