@@ -25,7 +25,7 @@ The theory is assembled from claims held in a research record, Nucleation, each 
 
 - **88 changes to the record's own grammar:** 62 refinements, 25 revisions (including a withdrawn abstraction and a redefinition of what counts as an answer) and one act of restraint.
 - **Absorption before noticing.** In 89% of changes answering a misfit, the misfit had first been forced into the nearest category or kept in prose.
-- **Traced removals, untraced redefinition.** Every removed term was carried through every entry using it, but a redefinition in place reached none of its 237 entries.
+- **Traced carry-through.** Every removed term was carried through every entry using it, and every split moved the entries it had to. The history holds no change of meaning alone, so whether carry-through fails there is untested.
 - **Costs and errors.** 2,664 entries were migrated, and ten changes caused errors the record later found.
 - **Noticing became institutional.** It moved from filing agents who happened to meet a missing word to review procedures built to look.
 - **Revision stayed with the owner.** Judgment about revisions stayed with the owner, who governs the criteria.
