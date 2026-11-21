@@ -119,6 +119,8 @@ CLAIM-tmp1xigl (Proposed, interpretive) holds that these are one mechanism, a re
 | an earlier state of the inquiry | storage and an address: a text, a code, a protocol | continuity: the inquiry stays the same inquiry, and its change is traceable | entrenchment where the earlier state was wrong (CLAIM-184); staleness where it was revised |
 | nothing | salience | coordination at most | bias: the pull without the evidence |
 
+The account does not make the join a review of the record declined, that independent evidence, anchored correspondence and competent uptake are one requirement (SYNTHESIS-066). Those fall in one row, and what counts as independent stays that row's free parameter. Its content of its own is the join across rows. The pull that biases an estimate and the pull that keeps a restatement faithful are the same pull, and CLAIM-011 and CLAIM-315 are the separating case: the same pull, with opposite effects on fidelity to the target.
+
 Three consequences matter for the theory.
 
 1. **An anchor is good or bad by its tie, not by its fixity.** Every anchor is a fixed point that reconstructions are pulled toward. Whether the pull brings an inquiry closer to its target depends on whether the target set that point. "Stability is not fidelity" splits in two. Fidelity to the source is what an anchor of the second kind secures. Fidelity to the target is what only the first kind can secure.
