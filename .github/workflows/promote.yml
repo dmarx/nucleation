@@ -7,7 +7,9 @@
 # This workflow merges staging into main, then does what docs-generate does
 # on a push to main: repairs, regenerates the views, and concretizes the
 # temporary codes, all at once for the batch. Last, it merges main back
-# into staging, so staging carries the permanent codes and the views.
+# into staging, so staging carries the permanent codes and the views. Docs
+# does that back-merge too, after any push to main, so a promotion merged
+# by hand needs no extra step.
 #
 # A push made with GITHUB_TOKEN starts no other workflow, so this one runs
 # the generate and lint steps itself rather than relying on Docs. It shares
@@ -85,8 +87,10 @@ jobs:
           pip-spec: luria==1.10.0
 
   back-merge:
-    # Staging takes main's permanent codes and views. A conflict here
-    # (staging moved during the run) fails the job for a person to resolve.
+    # Staging takes main's permanent codes and views. Docs does the same
+    # after a push to main, but this workflow's push starts no Docs run, so
+    # it calls the script itself. A conflict fails the job for a person to
+    # resolve; main is already promoted (.github/scripts/back-merge.sh).
     needs: [promote, lint]
     if: needs.promote.outputs.ahead != '0'
     runs-on: ubuntu-latest
@@ -95,11 +99,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: staging
           fetch-depth: 0
-      - run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git merge --no-edit origin/main
-          git push origin HEAD:staging
+      - run: .github/scripts/back-merge.sh
