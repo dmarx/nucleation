@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'The sign flip that Acharya, Rimal and Dhakal call the dual geometry of transformer representations is what Park, Choe and Veitch''s map from unembedding to embedding representations predicts: the map multiplies a concept''s unembedding contrast by the inverse of the unembedding covariance, which divides each eigencomponent by its eigenvalue and so moves the vector''s energy toward the spectral tail, a rescaling in a fixed eigenbasis rather than a rotation of concept information by the forward pass'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The inequality split off as CLAIM-tmp6odrj (demonstrated); this claim rests
+    on it and keeps the interpretive identification.
+rests_on:
+- CLAIM-tmp6odrj
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +43,7 @@ summary: >-
   check the lead's and the filer's. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmp6odrj — Proposed; the inequality this rests on -->
 <!-- inactive-ok-file: THEORY-tmpklef6 ARG-tmp801ah — Proposed or new; the reading this claim explains and the argument filed with it -->
 
 # CLAIM-tmpqy8mq: The sign flip that Acharya, Rimal and Dhakal call the dual geometry of transformer representations is what Park, Choe and Veitch's map from unembedding to embedding representations predicts: the map multiplies a concept's unembedding contrast by the inverse of the unembedding covariance, which divides each eigencomponent by its eigenvalue and so moves the vector's energy toward the spectral tail, a rescaling in a fixed eigenbasis rather than a rotation of concept information by the forward pass
@@ -58,15 +67,7 @@ product is fixed by a stipulation). Σ_L is, up to centring and ridge, that
 Cov(γ). In Σ_L's eigenbasis, Σ_L⁻¹ divides the i-th component of γ̄ by λ_i.
 Nothing rotates: the basis is the same, and each coordinate is rescaled.
 
-**The inequality.** Write e_i for v's energy fractions in the eigenbasis,
-eigenvalues in descending order. Σ⁻¹v has energy fractions proportional
-to e_i/λ_i², a reweighting by a weight that increases down the spectrum.
-So the cumulative energy C(k) of Σ⁻¹v is at most v's at every k, and its
-Gini deviation, the signed area of C against cumulative variance, is
-lower, for every v not concentrated on one eigenvalue. The image of a
-contrast always lies further into the tail than the contrast. Checked
-with `python3 -I` (`filerB/mono.py`): 4,000 random vectors in 200 random
-spectra, no violation.
+**The inequality** is CLAIM-tmp6odrj (demonstrated): Σ⁻¹ moves every vector's energy toward the tail, so the image of a contrast always scores lower than the contrast.
 
 **How far.** The lead's toy (`checks/park_gini.py`, d = 256, a lognormal
 spectrum, 500 draws, Gini as the signed area): random directions −0.352,

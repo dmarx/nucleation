@@ -29,6 +29,7 @@ summary: >-
   texts. The claim that the Fisher is the only invariant metric is
   Chentsov's, cited and not held.
 ---
+<!-- inactive-ok-file: NOTE-tmpw0eql THEORY-tmpthmd7 — new; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: LIT-354 THEORY-078 — Proposed or Unavailable; named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-tmpbobud THEORY-tmpg4aat THEORY-2009 — Proposed readings; the first two filed 2026-11-21 -->
 
@@ -158,3 +159,8 @@ Supports, and cross-links the shared singular sets.
   sets, read three ways: where Fisher efficiency fails (here), where
   gradient learning is drawn and slowed (Amari, Park and Ozeki; Wei and
   colleagues), and where SGD's noise can make a set attract (THEORY-2009).
+
+## Note of 2026-11-21: Song, Ahn and Yun, read
+
+A parallel, and an instance of this account's point that steepest descent is defined only relative to a metric (NOTE-tmpw0eql, THEORY-tmpthmd7). In Song, Ahn and Yun's experiments, momentum and Adam raise the effective learning rate in the bulk of the Hessian's spectrum. Their Table 1 gives a mean bulk learning rate of 0.0100 for gradient descent, 0.0828 with momentum, 0.4672 for Adam without momentum and 2.6639 for Adam, and "Bulk-LR positively correlates with the training speed". Changing the optimizer changes the metric in which descent is steepest, and with it which directions carry progress. Filer B reported this bearing (readings batch 2). The note is the assistant's (Claude, in this session).
+

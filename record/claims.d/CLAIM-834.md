@@ -29,7 +29,7 @@ grounds:
 - THEORY-087
 - THEORY-1275
 - THEORY-975
-- LIT-2966
+- THEORY-tmpr9w2r
 - LIT-2960
 - LIT-3000
 bears_on:
@@ -50,6 +50,7 @@ summary: >-
   computes its learning coefficients ([CLAIM-823](CLAIM-823.md), A37's reframing).
 ---
 
+<!-- inactive-ok-file: THEORY-tmpr9w2r NOTE-tmp2pgi8 — Proposed or new; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-811 CLAIM-807 CLAIM-802 CLAIM-823 ARG-132 — claims filed with this one -->
 <!-- inactive-ok-file: THEORY-tmpbobud THEORY-tmpg4aat THEORY-tmpr9w2r — Proposed readings, filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-812 THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
@@ -163,3 +164,8 @@ Four readings bear on U23; none of them decides between its readings.
   where the paper's coefficient falls. Whether a fall can be a change of
   dominant region at fixed n over training time is the bridge of
   QUESTION-363, still open.
+
+## Note of 2026-11-21: grounds
+
+Hoogland et al. (LIT-2966) is now read (NOTE-tmp2pgi8), so its place in this claim's grounds passes to the reading's account, THEORY-tmpr9w2r. As the reading found, that paper calls its link to singular learning "an analogy" and never calls a stage a singularity, so it grounds only that stages leave a mark in the learning coefficient. The note is the assistant's (Claude, in this session).
+

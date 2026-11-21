@@ -70,6 +70,7 @@ summary: >-
   the owner's call.
 ---
 
+<!-- inactive-ok-file: NOTE-tmphbnqd THEORY-tmpt1tw7 — new; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-813 CASE-302 CLAIM-825 THEORY-tmpr9w2r — Proposed, new or Deferred; filed with this claim, or works registered from the exchange and not yet read -->
 <!-- inactive-ok-file: ARG-134 THEORY-2155 THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
@@ -216,4 +217,8 @@ boundaries) tells weakly against a pure-curvature reading, but those
 statistics are dominated by the largest eigenvalues, not by those near the
 cut-off. The paper's estimates are not at β*. No relation written: the
 paper does not test the claim.
+
+## Note of 2026-11-21: Transtrum and Qiu, read
+
+Supporting, for the fold-edge half (NOTE-tmphbnqd, THEORY-tmpt1tw7). The manifold boundary approximation follows a geodesic to a boundary of the model manifold where the smallest Fisher eigenvalue goes to zero, and the merging of two terms is among the boundaries it follows. In the sum of exponentials it is the only finite one, the edge where this claim's sloppy eigenvalue goes to zero with the squared distance to the stratum. The method says nothing about the finite-sample half. Filer A reported this bearing (readings batch 2). The note is the assistant's (Claude, in this session).
 
