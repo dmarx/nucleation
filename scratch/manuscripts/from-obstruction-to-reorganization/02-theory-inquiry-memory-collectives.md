@@ -33,6 +33,8 @@ Two disanalogies with CEGAR, recorded in CLAIM-419's notes, mark what makes refl
 
 **On provenance.** The tuple, A16's reading of luria as separating "working within an inquiry regime and investigating the regime itself", and the CEGAR analogy came from ChatGPT's turns in the owner's exchange of 27 October, which the owner adopted (TERM-095, CLAIM-470). Several formal results in §§2–3 were likewise proposed or derived by assistants and checked in the record. The theory is a product of the very kind of human–AI inquiry Part III studies.
 
+**Engineering as inquiry (added 2026-11-21).** The same relation runs the other way in engineering (CLAIM-tmphigw4, Proposed): it starts from a specification and seeks a realization, and it becomes inquiry in the reflexive sense when building revises the specification. It differs from inquiry into a given object in that its interventions make the object its observations judge. A second reading takes building as a method of inquiry, the record itself being one (CLAIM-tmpm9ep1, Proposed). The record's own case: its staging branch was specified, reviewed and checked, and its first use found a requirement nobody had stated (CASE-tmpi16kb, Active).
+
 ### 4.2 Specifying costs, and stored specifications move the frontier
 
 CLAIM-475 (Active, interpretive) adds the resource bound. "Specifying is itself a resource-bounded realization." Formulating a question takes time, concepts and computation, as realizing a configuration takes energy and matter. In the owner's words: "I can't interrogate a question that takes me more time than I have to even ask it."
@@ -44,6 +46,8 @@ A stabilized specification is past inquiry stored so that later questions become
 > If revising a schema is vastly more expensive than adding another record under the existing schema, inquiry may remain trapped in a locally convenient representation. … The cost of changing a distinction influences how long the distinction persists.
 
 Progress, on this account, can be measured in questions: as expansion of the set of questions that can meaningfully be investigated under fixed resources (CLAIM-475).
+
+**Stored specifications as accrued predicates (added 2026-11-21).** The record gives this section's stored specifications a model (CLAIM-tmpj4fzn, CLAIM-tmp8v75o, both Proposed). Every predicate filed on an entry, a field's value, a premise, a quoted passage, is a test its later versions must pass, and the revisions still open to it are the intersection of what passes, which only shrinks as predicates accrue. Two kinds differ in what they do. A *descriptor*, one the entry already passes when it is added, moves nothing and holds the entry where it is; an *imposition*, one it fails, moves it, to a convention or back to its source. Descriptors never conflict, the entry being their witness; only impositions can leave no admissible version. In the control-theoretic sense the owner fixed (TERM-tmp0g123, Proposed), accruing predicates *stabilizes* an entry, damping perturbations in the dimensions they constrain, and a soft predicate damps by 1/(1 + λ) per restatement where a hard one damps wholly. That is the mechanism of this section's cheapening and its entrenchment at once.
 
 ### 4.3 What a language cannot say
 
@@ -111,6 +115,8 @@ The digests behind this paper find four mechanisms in the record that hold a cha
 The predecessor manuscript built on the last of these. An argument's nucleation threshold is whatever makes a structure persist, and more complex structure can grow only on anchors (CLAIM-185, Proposed). What counts as the same claim persisting is fixed by an amendable decision, not discovered (CLAIM-195, Active). Recurrence can trigger anchoring: coding a thing the second time it turns up catches drift the first time it could occur (CLAIM-176, Proposed).
 
 An earlier draft of this paper read a stable code as CLAIM-635's exactly conserved observable, and offered that as the formal reason an address anchors. The reading does not hold, for three reasons. One argument restated is a point mass, which CLAIM-635 excludes. A conserved code keeps which item a chain started from, not its content. And anchoring by address works by consulting stored content, which takes the chain outside CLAIM-635's Markov hypothesis. The record holds an instance: a term's code kept exactly while its meaning changed (CLAIM-tmpj5aiv, filed on its own pull request). Why addresses anchor is therefore CLAIM-182's empirical claim, not a theorem.
+
+**When an anchor is set (added 2026-11-21).** A descriptor holds the value an entry has when it is added, not the value it was filed with (CLAIM-tmp8v75o, part 5, Proposed): drift before the pin is kept, not undone. So when an anchor is set decides what it preserves, the origin if at filing and a drifted state if later, a formal reason for the record's habits of coding and quoting at filing.
 
 ### 5.4 Anchoring has costs
 

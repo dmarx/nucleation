@@ -90,3 +90,18 @@ The theory and the machinery that tests it were formed together, and each was re
 | P10: chain of uptake; correctability | Noticing moved into procedures; postmortems review decisions; correctability of the whole not measured | Partly observed |
 
 Every entry in the table is tier 1 or tier 2 evidence: what the record says it did, and what its grammar now distinguishes. None is tier 3, evidence that the inquiry is better for it. Section 19 sets out how tier-3 evidence could be obtained.
+
+### 16.4 A turn in one night (added 2026-11-21)
+
+The night of 2026-11-21 ran the predicted cycle (§7.2) several times over, quickly enough to see each stage:
+
+1. **Misfit.** Reframes of an entry had no place but history notes; an owner's earmark for the retrospective had no home; 48 decisions were Proposed though applied; a code in a title kept failing CI.
+2. **Noticed.** By the owner in conversation, by CI, and by the assistant reading its own workflow: the noticing was mixed, part incidental and part procedural.
+3. **Diagnosed against a target.** Each was put to the owner, often as alternative readings filed side by side, the owner choosing.
+4. **Changed.** Decisions on reframings (ADR-tmpd4rgx), earmarks (ADR-tmpyzxw8, Active), merging into staging (ADR-tmpq5b9e, Active), the promotion pull request (ADR-tmpwi4rk, Active) and an adoption review (ADR-tmpvmzl6); a guard upstream in luria, refusing a code in a title.
+5. **Carried through.** The adoption review's first pass moved 34 decisions to Active; CI's repair then dropped the directives that had excused them, across about 400 files.
+6. **Maintained.** Each change went into CLAUDE.md, a skill or a workflow.
+7. **Serving later cases.** The adoption review is now a procedure for noticing (stage 2), as CLAIM-tmpmtv1b (Proposed) predicts.
+8. **The capacity itself.** The night's retrospective (RETRO-tmp0p4qy) records where the faster cycle let the assistant's own errors travel further before the owner caught them: the cost side of a flywheel that turns quickly.
+
+This is one night, observed by a participant, and it is the cycle the theory predicts, so it is an illustration, not a test (§18).

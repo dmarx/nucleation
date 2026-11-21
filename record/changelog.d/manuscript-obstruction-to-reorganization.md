@@ -17,3 +17,8 @@
   audit finds that [ADR-048](record/decisions.d/ADR-048.md)'s change to what `anthology-candidate` means
   reached none of the 237 entries carrying it; the README lists this and
   the other items for the owner.
+
+- Refreshed on 2026-11-21 with the night's filings: First Contact (§3.2),
+  engineering as inquiry and predicates as constraints (§4.1, §4.2), when an
+  anchor is set (§5.3), and a turn of the cycle in one night (§16.4); the
+  owner's candidate title added.

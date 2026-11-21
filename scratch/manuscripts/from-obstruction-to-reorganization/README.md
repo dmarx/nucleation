@@ -11,6 +11,8 @@ A general theory of learning and inquiry, intended to apply to arbitrary systems
 3. Revised on [REVIEW-2026-11-20.md](REVIEW-2026-11-20.md), adding a census of every decision, a term-change audit, and threats to validity.
 4. Restructured at the owner's direction, 2026-11-20, into three parts. Part I now develops the record's theory of learning and inquiry in full, from cited digests of five regions of the record (`background/`). Material was added, not trimmed.
 
+**Refresh of 2026-11-21.** Brought up to date with the night's filings at the owner's request: First Contact in §3.2, engineering as inquiry in §4.1, predicates as constraints and stabilization in §4.2, when an anchor is set in §5.3, and a turn of the cycle in one night as §16.4. The census (§§13–15) still counts the 114 decisions to 2026-11-20; about twenty more were filed on 2026-11-21 and 34 moved to Active, so its figures hold as of 2026-11-20 until the scripts are rerun. A candidate title, the owner's: "(AI) Assisted Inquiry" (AIAI).
+
 **Status.** A working document under version control. It is not part of the record: luria does not read `scratch/`, and codes are cited bare. The ten principles (§7.1), the predicted cycle (§7.2), the mappings (§9) and the census are this draft's own integrations, not entries the record holds. Each step of Part I cites the entries it rests on, with their standing.
 
 ## Files, in reading order
@@ -50,7 +52,7 @@ A general theory of learning and inquiry, intended to apply to arbitrary systems
 
 ## Open items for the owner
 
-1. **The principles in the record.** Filed on dmarx/nucleation#557. The census is a CASE and two claims. P1 and P3 are already stated. P2 and P4–P10 are SYNTHESIS accounts. One narrowed part of the cycle is a claim. Section 7.4 reports the audit. Open: whether thematic, cross-line accounts are a kind the record wants (ADR-083).
+1. **The principles in the record.** Filed on dmarx/nucleation#557, now retargeted to staging and refreshed. The census is a CASE and two claims. P1 and P3 are already stated. P2 and P4–P10 are SYNTHESIS accounts. One narrowed part of the cycle is a claim. Section 7.4 reports the audit. Open: whether thematic, cross-line accounts are a kind the record wants (ADR-083).
 2. **ADR-048's flag.** The 237 entries carrying `anthology-candidate` were never revisited when its meaning changed (§15.2). That is a finding, and also a repair the record may want.
 3. **POSTMORTEM-002's summary** (§14.5). Cite it as of a dated commit, or correct it in the record.
 4. **The work.** Keep `luria-nucleating-an-argument` with its blurb revised, or give this paper a new `works` term?
