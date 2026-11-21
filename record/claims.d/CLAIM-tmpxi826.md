@@ -1,7 +1,7 @@
 ---
 status: Proposed
-title: 'For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so the time geometry of the state space is hyperbolic in Gromov''s four-point sense with δ bounded independently of the rates, and a level of the tree of classes reachable within a budget shows in that geometry once the rate ratio across it exceeds max(E, n − 1) squared'
-version: 2
+title: 'For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so after scaling by log(1/ε) the time geometry of the state space converges to that ultrametric, the tree of classes reachable within a budget, and a level of the tree shows in the geometry once the rate ratio across it exceeds max(E, n − 1) squared; that the geometry is hyperbolic with bounded δ is not the content, since the logarithm of any metric is nearly an ultrametric'
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -13,6 +13,25 @@ history:
     limit; the title now states the finite condition, a rate ratio across a
     level, in place of "as time scales separate". The proof is unchanged.
     Version 1's title: "For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so the time geometry of the state space is hyperbolic in Gromov's four-point sense with δ bounded independently of ε while its distances grow as log(1/ε), and as time scales separate it becomes the tree of classes reachable within a budget".
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    Revised after the reading of Bovier and colleagues (NOTE-tmpjot4l).
+    Its reader observed, and the assistant checked, that the logarithm of
+    any metric is an ultrametric up to ln 2, so the bounded hyperbolicity
+    version 2's title stated holds for every chain; the title now states
+    the content, which ultrametric and how its levels are spaced. The
+    sentence that the record holds neither Freidlin–Wentzell nor
+    metastability theory was wrong and is corrected (LIT-2035, LIT-2037
+    held). The reading joins grounds. Version 2's title: "For a chain with
+    symmetric rates ε to the power U on a connected graph of n states and
+    E edges, the log commute time between two states lies within log
+    max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an
+    ultrametric; so the time geometry of the state space is hyperbolic in
+    Gromov's four-point sense with δ bounded independently of the rates,
+    and a level of the tree of classes reachable within a budget shows in
+    that geometry once the rate ratio across it exceeds max(E, n − 1)
+    squared".
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -33,6 +52,8 @@ line:
 - distributed-agency
 rests_on:
 - CLAIM-581
+grounds:
+- THEORY-tmph10k5
 summary: >-
   The link the record lacked between dynamical hierarchy (levels marked by
   rate gaps, [THEORY-1306](../theory.d/THEORY-1306.md), [THEORY-1558](../theory.d/THEORY-1558.md), [CLAIM-478](CLAIM-478.md)) and geometric
@@ -46,9 +67,10 @@ summary: >-
   ([LEAD-tmpdv2tt](../leads.d/LEAD-tmpdv2tt.md)); the proof here stands on its own. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-1366 THEORY-1370 THEORY-tmph10k5 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-1558 CLAIM-478 THEORY-196 — Proposed; the readings and claims this links -->
 
-# CLAIM-tmpxi826: For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so the time geometry of the state space is hyperbolic in Gromov's four-point sense with δ bounded independently of the rates, and a level of the tree of classes reachable within a budget shows in that geometry once the rate ratio across it exceeds max(E, n − 1) squared
+# CLAIM-tmpxi826: For a chain with symmetric rates ε to the power U on a connected graph of n states and E edges, the log commute time between two states lies within log max(E, n − 1) of log n plus log(1/ε) times their minimax barrier, an ultrametric; so after scaling by log(1/ε) the time geometry of the state space converges to that ultrametric, the tree of classes reachable within a budget, and a level of the tree shows in the geometry once the rate ratio across it exceeds max(E, n − 1) squared; that the geometry is hyperbolic with bounded δ is not the content, since the logarithm of any metric is nearly an ultrametric
 
 ## The claim
 
@@ -92,6 +114,18 @@ while the distances grow as s. So hyperbolicity relative to scale,
 δ/diameter, goes to zero as time scales separate, and D/s converges to the
 ultrametric u. The tree is [CLAIM-581](CLAIM-581.md)'s tree of classes reachable within a
 budget.
+
+**What bounded δ does not show.** The bounded δ is not evidence of
+hierarchy. For any metric d, d(x, z) ≤ 2·max(d(x, y), d(y, z)), so log d
+satisfies the ultrametric inequality up to ln 2, and effective resistance is
+a metric: the log commute-time geometry of every chain, whatever its rates,
+is nearly an ultrametric. The reader of Bovier and colleagues pointed this
+out ([NOTE-tmpjot4l](../notes.d/NOTE-tmpjot4l.md)), and the assistant checked it: over 400 random 9-point
+metrics the four-point δ of log d never exceeded 0.66 (curation entry of
+2026-11-21). The flat chains below have small δ for that reason. What the
+rates add is which ultrametric, the minimax barrier scaled by log(1/ε), and
+spacing between its levels that grows past the slack. Those are the claim's
+content.
 
 **When levels show.** Two levels of that tree whose barriers differ by Δu
 are separated in D by about s·Δu. They can be told apart in the geometry
@@ -139,6 +173,11 @@ Run under `python3 -I` on 2026-11-20 (scripts in the curation entry of
   it ([QUESTION-tmpv6fxp](../questions.d/QUESTION-tmpv6fxp.md)).
 - Not that the result is new to mathematics. Freidlin–Wentzell theory and
   the metastability literature hold the small-noise asymptotics of
-  transition times; the record holds neither.
+  transition times. The record holds both, which version 1 wrongly denied:
+  Freidlin and Wentzell ([LIT-2035](../literature.d/LIT-2035.md), [THEORY-1366](../theory.d/THEORY-1366.md)), Berglund on Kramers' law
+  ([LIT-2037](../literature.d/LIT-2037.md), [THEORY-1370](../theory.d/THEORY-1370.md)), and now Bovier and colleagues ([THEORY-tmph10k5](../theory.d/THEORY-tmph10k5.md)),
+  whose minus log capacity is an ultrametric up to ln 3 between metastable
+  points, a slack independent of n and E, for general reversible chains
+  under genericity.
 - Not that coupling produces the separation. The barriers are given here.
   [CLAIM-481](CLAIM-481.md) holds that coupling does not by itself separate time scales.

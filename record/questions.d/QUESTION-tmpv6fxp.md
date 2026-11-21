@@ -1,7 +1,21 @@
 ---
 status: Open
-title: 'Does a time geometry that is tree-like with well-separated levels require separated time scales: must a chain whose log commute-time metric is close to an ultrametric, with levels spaced well beyond its defect, have rates that differ by large factors between levels?'
-version: 1
+title: 'Do well-separated levels in a chain''s time geometry require separated rates: must a chain whose log commute-time metric has levels spaced well beyond its defect from an ultrametric have rates that differ by large factors between levels, or can the shape and entropy of the state space alone space them?'
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Restated after the reading of Bovier and colleagues (NOTE-tmpjot4l).
+    The logarithm of any metric is nearly an ultrametric, so tree-likeness
+    alone needs no rate gaps; the question is about the spacing of levels.
+    Bovier and colleagues' times combine rates with masses, capacities and
+    entropic prefactors, so separation can come from geometry. Previous
+    title: "Does a time geometry that is tree-like with well-separated
+    levels require separated time scales: must a chain whose log
+    commute-time metric is close to an ultrametric, with levels spaced
+    well beyond its defect, have rates that differ by large factors
+    between levels?".
 tags:
 - mathematics
 - complex-systems
@@ -20,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpxi826 CLAIM-tmpy75jv — Proposed; filed in this contribution of 2026-11-20 -->
 
-# QUESTION-tmpv6fxp: Does a time geometry that is tree-like with well-separated levels require separated time scales: must a chain whose log commute-time metric is close to an ultrametric, with levels spaced well beyond its defect, have rates that differ by large factors between levels?
+# QUESTION-tmpv6fxp: Do well-separated levels in a chain's time geometry require separated rates: must a chain whose log commute-time metric has levels spaced well beyond its defect from an ultrametric have rates that differ by large factors between levels, or can the shape and entropy of the state space alone space them?
 
 ## What makes it open
 

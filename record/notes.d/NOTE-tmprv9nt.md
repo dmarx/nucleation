@@ -1,0 +1,56 @@
+---
+status: Read
+paper: LIT-tmpru0xs
+title: 'De Pasquale, Smith, Bullo and Valcher — Dual seminorms and ergodic coefficients'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 by a delegated reader from arXiv 2201.03103v3 (20
+    Dec 2022), which extends the submitted IEEE TAC version: the whole
+    text (§§I–VII, Appendices I–II); many displayed equations are
+    scrambled in the text extraction and are cited only where legible.
+    Running notes on the branch claude/readers/semicontraction-depasquale
+    (ADR-108). Quotations the filing leans on rechecked by the filer by
+    script against the downloaded text.
+date: '2026-11-21'
+summary: >-
+  Ergodic coefficients are induced matrix seminorms; projection and
+  distance seminorms are dual, so the Markov–Dobrushin coefficient bounds
+  both averaging and the flow of distributions. Under invariance or
+  conservation, only the part off the kernel contracts; differences along
+  the kernel may persist or grow. No result says what the limit keeps of
+  the start.
+---
+<!-- inactive-ok-file: ADR-108 CLAIM-635 — Proposed; cited in the readings of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+
+# NOTE-tmprv9nt: De Pasquale, Smith, Bullo and Valcher — Dual seminorms and ergodic coefficients
+
+## Contribution
+
+Identifies the generalized ℓp ergodicity coefficients with induced matrix seminorms (Theorem 18); proves the duality of projection and distance seminorms (Theorem 16); develops strong semicontraction for time-varying and nonlinear systems with an invariance or a conservation property (Theorems 29–34); gives graph conditions for averaging (Lemma 35).
+
+## Key results
+
+1. **Definition.** "Dynamical systems that are contracting on a subspace are said to be semicontracting" (abstract).
+2. **One coefficient, two flows.** A duality theorem "explains why the Markov-Dobrushin coefficient is the rate of contraction for both averaging and conservation flows in discrete time" (abstract); ergodic coefficients "are induced matrix seminorms" (Contributions).
+3. **Only the perpendicular part contracts.** "While partial contraction establishes convergence to a manifold, semicontraction ensures contractivity on the subspace perpendicular to the kernel of the seminorm", and "the distance between trajectories is allowed to increase along certain directions" (literature review).
+4. **Cascades.** With the kernel invariant, the perpendicular part contracts and drives the parallel part (Theorems 29, 33); with its orthogonal complement invariant (conservation), the parallel part evolves on its own and trajectories with different parallel parts need not converge (Theorems 30, 34).
+5. **Time-varying linear systems** contract in the distance seminorm with a common input (Lemma 28).
+
+## Assumptions and concepts
+
+Deterministic linear or C¹ nonlinear systems, possibly time-varying; exact invariance of the kernel or its complement at every step; uniform contraction over time. Concepts: projection and distance seminorms, induced matrix seminorm, ergodicity coefficient, consensus seminorm, invariance and conservation properties, cascade decomposition.
+
+## Bearing on the record
+
+- **[CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md)** (qualifies). One framework covers DeGroot-type averaging and Markov flows, which supports reading forgetting and anchoring as one contraction. But semicontraction guarantees only that the part off the kernel forgets; keeping the start needs the parallel map to be the identity on a conserved functional, as πF in DeGroot or 1ᵀx under Aᵀ. Revised (version 3).
+- **[THEORY-960](../theory.d/THEORY-960.md)** (supports and generalizes): the spread contraction of DeGroot with τ₁ as factor, extended to time-varying matrices and ℓp; the consensus value itself is not stated.
+- **[CLAIM-635](../claims.d/CLAIM-635.md)** (no bearing on the bound): the paper has no information measure. The reader infers that a non-constant harmonic observable rules out strong semicontraction in the consensus seminorm, consistent with [CLAIM-635](../claims.d/CLAIM-635.md) needing reducible or time-dependent chains.
+- **Recheck** found the paper's setting near [CLAIM-388](../claims.d/CLAIM-388.md) (exact closure of a sum), [CLAIM-386](../claims.d/CLAIM-386.md) and [QUESTION-221](../questions.d/QUESTION-221.md) (near-decomposability, the approximate invariance the paper does not cover) and [THEORY-155](../theory.d/THEORY-155.md) (iterated learning converging to the prior: global contraction in total variation).
+
+## Limitations
+
+Says nothing about what the limit is; no noise, information or approximate invariance; the orthogonal decomposition fits doubly stochastic cases, not general π-weighted conservation; index conventions inconsistent between Theorem 18 and Lemma 28; Conjecture 40 open; the TAC version not read.

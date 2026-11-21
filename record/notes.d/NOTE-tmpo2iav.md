@@ -1,0 +1,56 @@
+---
+status: Read
+paper: LIT-tmp67epj
+title: 'Chizat, Oyallon and Bach — Lazy training'
+version: 1
+history:
+- version: 1
+  date: '2026-11-21'
+  note: >-
+    Read on 2026-11-21 by a delegated reader from arXiv 1812.07956v5 (7
+    Jan 2020, the NeurIPS 2019 camera-ready with supplement): the
+    abstract, §§1–4, Appendix A, B.1, the end of Theorem 2.5's proof and
+    Appendix C; the proofs in B.2–B.4 skimmed. Running notes on the branch
+    claude/readers/lazy-training (ADR-108). Quotations the filing leans on
+    rechecked by the filer by script against the downloaded text.
+date: '2026-11-21'
+summary: >-
+  Lazy training, a model staying close to its linearization, is produced
+  by a choice of scale: multiplying the output by α makes the relative
+  change of the differential per step small against the loss's; as α grows
+  the parameters move O(1/α) while the output is fit. Networks that
+  generalize well are not in this regime. What is slow is the whole
+  parameter vector and tangent kernel, readout included.
+---
+<!-- inactive-ok-file: ADR-108 CLAIM-478 THEORY-2077 THEORY-212 THEORY-813 — Proposed; cited in the readings of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-tmpqwoxz THEORY-tmp7n7a9 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
+
+# NOTE-tmpo2iav: Chizat, Oyallon and Bach — Lazy training
+
+## Contribution
+
+A model-independent account of lazy training as a matter of scale; the criterion κ; finite-horizon and uniform-in-time bounds; evidence that well-performing networks are not lazy.
+
+## Key results
+
+1. **The criterion** (§1.2): "Lazy training refers to the case where the differential of h does not sensibly change while the loss enjoys a significant decrease", measured by κ, which "could be called the inverse relative scale of the model" and falls as 1/α.
+2. **Width** (§1.2): two-layer networks go lazy whenever mα(m) → ∞; the critical scaling α(m) = 1/m gives the mean-field limit.
+3. **Time** (§2.1): dividing the objective by α² "corresponds to the proper time parameterization of the dynamics for large α".
+4. **Bounds** (Theorems 2.2, 2.4): parameters move O(1/α) and the outputs of the model and its linearization differ O(1/α), over a finite horizon and, under strong convexity and over-parameterization, uniformly in time.
+5. **The kernel includes the hidden layers** (App. A.1): the tangent kernel "is different from the one traditionally associated to neural networks … which involve the derivative with respect to the output layer only".
+6. **Lazy is not where good networks are** (§3.2): wide networks "which exhibit good performances are far from this asymptotic behavior".
+
+## Assumptions and concepts
+
+Smooth models, Lipschitz losses, gradient flow; zero or bounded initial output; Euclidean metric on parameters. Concepts: lazy training, tangent model and kernel, scale α, κ, homogeneous models, mean-field scaling.
+
+## Bearing on the record
+
+- **[CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md)** (defeater (a) not met; qualified). The lazy limit is one in which the differential, kernel and parameters change by O(1/α) while the loss falls by O(1): a separation of rates. But the slow quantity is the whole parameter vector, readout included, set by the scale α, not hidden layers against the readout; the two levels are the fast output and the slow parameters or tangent kernel. Version 2 says so and takes the hidden-against-readout form from Yang and Hu ([THEORY-tmp7n7a9](../theory.d/THEORY-tmp7n7a9.md)) and Dominé and colleagues ([THEORY-212](../theory.d/THEORY-212.md)).
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (version 5; supports the mechanism in one case): the slow tangent kernel acts as a fixed metric, a constraint, on the fast flow of the output (§2.3: "gradient flow of R in a time-dependent and non degenerate metric").
+- **[THEORY-813](../theory.d/THEORY-813.md)** (supports its premise); **[THEORY-2077](../theory.d/THEORY-2077.md)** (corroborates nearby: initialization scale sets the regime).
+- **Recheck**: [LIT-1232](../literature.d/LIT-1232.md) (Chizat and Bach, mean-field, held) is the non-lazy counterpart; [QUESTION-081](../questions.d/QUESTION-081.md) asks whether the relative scale survives SGD and on what time scale.
+
+## Limitations
+
+Gradient flow only; mostly asymptotic in α; finite-horizon constants exponential in T; the under-parameterized comparison not proved; limited experiments; no layer-wise analysis.

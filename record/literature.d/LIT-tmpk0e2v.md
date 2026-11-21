@@ -1,12 +1,18 @@
 ---
-status: Deferred
+status: Unfetched
 status_note: >-
-  filed 2026-11-20, not read. Registered from the assistant's memory, as
-  the derivation of hyperbolic discounting from exponential discounting
-  under an uncertain hazard rate; the identifier was checked, the content
-  was not. No copy has been sought.
+  Sought 2026-11-21 by a delegated reader. A free copy exists in PubMed
+  Central (PMC1689473): Europe PMC's REST fullTextXML answered HTTP 500;
+  europepmc.org/articles/PMC1689473?pdf=render and
+  royalsocietypublishing.org/doi/pdf/10.1098/rspb.1998.0534 answered with
+  Cloudflare challenges (403); pmc.ncbi.nlm.nih.gov/articles/PMC1689473/
+  with a reCAPTCHA; an author's manuscript at
+  dklevine.com/users/levucla/hyperbolic.pdf with HTTP 401. None was
+  retried or worked around. Unfetched ([ADR-053](../decisions.d/ADR-053.md)). Neighbours read in its
+  place: Fedus and colleagues ([LIT-tmpa91zo](LIT-tmpa91zo.md)) and Anchugina, Ryan and
+  Slinko ([LIT-tmpjj3rr](LIT-tmpjj3rr.md)).
 title: 'On hyperbolic discounting and uncertain hazard rates'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-20'
@@ -15,6 +21,14 @@ history:
     Royal Society B 265, 2015–2020, 1998-10-22, DOI
     10.1098/rspb.1998.0534), no email address sent. Not held: no hit for
     the DOI, the title or Sozou in record/literature.d.
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Sought on 2026-11-21 and not reached (status note). Read through two
+    neighbours (ADR-114): Fedus and colleagues, who restate its derivation
+    and reproduce two of its figures, and Anchugina, Ryan and Slinko.
+    Status Deferred to Unfetched; the summary corrected to name the
+    exponential prior.
 tags:
 - motivation
 - probabilistic-modeling
@@ -23,13 +37,15 @@ published: '1998-10-22'
 doi: '10.1098/rspb.1998.0534'
 first_author: 'Sozou'
 summary: >-
-  Sozou (1998), Proceedings of the Royal Society B. Recalled, not read, as
-  showing that an agent discounting exponentially at an unknown hazard
-  rate, with a suitable prior over the rate, discounts hyperbolically on
-  average. Here because it may tie Ainslie's hyperbolic discounting
-  ([THEORY-1117](../theory.d/THEORY-1117.md)) to a spread of time scales ([LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md)). Unverified
-  until read.
+  Sozou (1998), Proceedings of the Royal Society B. Not read; reached
+  through neighbours ([NOTE-tmpanyxy](../notes.d/NOTE-tmpanyxy.md), [NOTE-tmpzdxq3](../notes.d/NOTE-tmpzdxq3.md)). As they restate it:
+  discounting as survival with a constant but unknown hazard rate averages
+  exponentials over the prior on the hazard, its Laplace transform; an
+  exponential prior gives exactly the hyperbola 1/(1 + kt), a gamma prior
+  1/(1 + bt)^c, a uniform prior (1 − e^(−kt))/(kt). Here for [LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md)
+  and [THEORY-1117](../theory.d/THEORY-1117.md).
 ---
+<!-- inactive-ok-file: ADR-114 NOTE-tmpanyxy NOTE-tmpzdxq3 THEORY-tmp2kqhd — Proposed, Skimmed; cited in the readings of 2026-11-21 -->
 
 # LIT-tmpk0e2v: On hyperbolic discounting and uncertain hazard rates
 
@@ -39,3 +55,7 @@ Sozou. Proceedings of the Royal Society B 265 (1998), 2015–2020, DOI
 ## Standing in the record
 
 Registered on 2026-11-20 for [LEAD-tmp7rohc](../leads.d/LEAD-tmp7rohc.md). Not read.
+
+## Neighbours (2026-11-21)
+
+Not read. Fedus and colleagues ([LIT-tmpa91zo](LIT-tmpa91zo.md), [NOTE-tmpanyxy](../notes.d/NOTE-tmpanyxy.md), [THEORY-tmp2kqhd](../theory.d/THEORY-tmp2kqhd.md)) stand in for the derivation: "Sozou (1998) shows that under an exponential prior of hazard" the "expected survival rate for the agent is hyperbolic", and "We reproduce two figures from Sozou (1998)". Anchugina, Ryan and Slinko ([LIT-tmpjj3rr](LIT-tmpjj3rr.md), [NOTE-tmpzdxq3](../notes.d/NOTE-tmpzdxq3.md)) restate the exponential-prior result in one sentence.

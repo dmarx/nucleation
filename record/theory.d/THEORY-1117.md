@@ -4,7 +4,13 @@ status: Active
 formerly:
 - THEORY-tmpuy1kb
 title: 'Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    A dated note: hyperbolic discounting as an average of exponentials
+    over a spread of rates (CLAIM-tmp6q7ma). No change of status or title.
 tags:
 - behavioral-integration
 - agency
@@ -24,6 +30,7 @@ summary: >-
   self-prediction, the credibility of precedents and the order of lapse
   districts, stays [THEORY-067](THEORY-067.md)'s question, Proposed.
 ---
+<!-- inactive-ok-file: THEORY-tmp2kqhd THEORY-tmppuotc CLAIM-tmp6q7ma — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-067 — Proposed; the account this is split from, which holds the question whether the proposal is true -->
 
 # THEORY-1117: Ainslie proposes that self-control over time needs no faculty of will: hyperbolic discounting makes preferences that dominate at different delays, these grow into interests that bargain with no governor above them, and resolve is the recursive staking of expected future choices on the present one
@@ -67,3 +74,7 @@ experiment". The tests are [THEORY-067](THEORY-067.md)'s `promote_when`, and [TH
 Proposed until the record holds them. Nor does this entry hold Schelling's
 description, or the predicted costs of will (legalism, lapse districts),
 which the précis fits to clinical observation.
+
+## Note of 2026-11-21: an origin for the curve
+
+Sozou, read through Fedus and colleagues ([THEORY-tmp2kqhd](THEORY-tmp2kqhd.md)), gives the hyperbolic curve this reading takes as given a survival-based origin: exponential discounting averaged over an exponential spread of uncertain hazards is exactly 1/(1 + kt). [CLAIM-tmp6q7ma](../claims.d/CLAIM-tmp6q7ma.md) adds that a hierarchy of time scales, seen from one of its levels, relaxes as a power of time for the same reason (Bachas and Huberman, [THEORY-tmppuotc](THEORY-tmppuotc.md)), the exact hyperbola needing a particular spread. Neither touches Ainslie's account of interests, bargaining and personal rules; this is a note on the shape of the curve only.

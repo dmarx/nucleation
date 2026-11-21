@@ -18,7 +18,7 @@ summary: >-
   depth, momentum and noise, and shows in networks trained with such
   updates in practice, is open.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmugkp LIT-tmpp6b7j THEORY-186 — Proposed or Deferred; filed in this contribution of 2026-11-20, and the reading it qualifies -->
+<!-- inactive-ok-file: CLAIM-tmpmugkp THEORY-186 — Proposed or Deferred; filed in this contribution of 2026-11-20, and the reading it qualifies -->
 
 # QUESTION-tmpvcusw: Do networks trained with orthogonalized updates, steepest descent in the spectral norm, learn the structure of their data in a different order from networks trained by gradient descent: is the coarse-to-fine progressive differentiation that gradient descent shows on hierarchically structured data weaker, absent or reversed?
 

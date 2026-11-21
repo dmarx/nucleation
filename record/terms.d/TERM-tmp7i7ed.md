@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'local degrees of freedom (of an entry)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    After the readings of 2026-11-21 of the semicontraction papers: the
+    conserved part is distinguished from a seminorm's kernel, which
+    semicontraction leaves uncontrolled; the conserved part is the exact
+    invariants. Those readings join draws_on.
 tags:
 - design-rationale
 - complex-systems
@@ -12,6 +20,8 @@ line:
 draws_on:
 - THEORY-960
 - THEORY-2044
+- THEORY-tmprwljl
+- THEORY-tmpq3h4k
 summary: >-
   The features of a record entry that a restatement copies with error:
   neither pulled onto a fixed point of the restating step (contracting)
@@ -20,8 +30,9 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: THEORY-tmpq3h4k THEORY-tmprwljl — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2044 CLAIM-189 — Proposed; the partial-contraction reading the term's "conserved part" is fixed against, and the claim on legitimate change -->
-<!-- inactive-ok-file: CLAIM-tmpdx6l8 CLAIM-tmpw6wkt CLAIM-tmpvm90n LIT-tmpavt0i — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-tmpdx6l8 CLAIM-tmpw6wkt CLAIM-tmpvm90n — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
 
 # TERM-tmp7i7ed: local degrees of freedom (of an entry)
 
@@ -39,9 +50,12 @@ four things to each feature of the entry ([CLAIM-tmpdx6l8](../claims.d/CLAIM-tmp
 
 The **conserved part** of the step is the set of features it copies
 exactly. The sense is fixed against DeGroot's invariant πF ([THEORY-960](../theory.d/THEORY-960.md)) and
-the property partial contraction leaves free ([THEORY-2044](../theory.d/THEORY-2044.md)); in the control
-literature a system contracting except on a subspace is semicontracting
-([LIT-tmpavt0i](../literature.d/LIT-tmpavt0i.md)).
+the property partial contraction leaves free ([THEORY-2044](../theory.d/THEORY-2044.md)). It is not the kernel
+of a seminorm in which the step contracts: in semicontraction theory
+([THEORY-tmprwljl](../theory.d/THEORY-tmprwljl.md), [THEORY-tmpq3h4k](../theory.d/THEORY-tmpq3h4k.md)) the kernel is only where the step does not
+contract, and may hold features copied with error or magnified. The
+conserved part is the smaller set the step copies exactly, the exact
+invariants, such as DeGroot's πF or vᵀx in affine averaging.
 
 An entry's **local degrees of freedom** are its features copied with error.
 They are free in the sense that nothing holds them: a contracted feature

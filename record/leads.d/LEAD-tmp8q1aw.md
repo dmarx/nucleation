@@ -1,8 +1,13 @@
 ---
-status: Open
+status: Done
 title: 'Read the μP, depth-scaling and modular papers registered on 2026-11-20, to test the three claims that relate the record''s rate and drift results to them: the order of learning under spectral steepest descent, residual depth scaling as a choice of drift kind, and parameterization as an allocation of rates among modules'
-version: 1
-stage: specified
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Done on 2026-11-21: all seven works read.
+stage: underway
 priority: medium
 method:
 - reading
@@ -25,9 +30,9 @@ summary: >-
   colleagues ([LIT-tmpu5m2v](../literature.d/LIT-tmpu5m2v.md)), the spectral condition ([LIT-tmpj34ir](../literature.d/LIT-tmpj34ir.md)), the
   modular norm ([LIT-tmp4b6aq](../literature.d/LIT-tmp4b6aq.md)), modular duality ([LIT-tmpp6b7j](../literature.d/LIT-tmpp6b7j.md)) and lazy
   training ([LIT-tmp67epj](../literature.d/LIT-tmp67epj.md)). The claims rest on recollections and abstracts
-  until they are read.
+  until they are read. All seven were read on 2026-11-21.
 ---
-<!-- inactive-ok-file: CLAIM-tmp2yj4t CLAIM-tmpqwoxz CLAIM-tmpmugkp LIT-tmp9tr5w LIT-tmp4peep LIT-tmpu5m2v LIT-tmpj34ir LIT-tmp4b6aq LIT-tmpp6b7j LIT-tmp67epj — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: THEORY-tmpbyw89 THEORY-tmpybeh6 THEORY-tmphj4hu THEORY-tmp7n7a9 THEORY-tmpecd1x CLAIM-tmp2yj4t CLAIM-tmpqwoxz CLAIM-tmpmugkp — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 
 # LEAD-tmp8q1aw: Read the μP, depth-scaling and modular papers registered on 2026-11-20, to test the three claims that relate the record's rate and drift results to them: the order of learning under spectral steepest descent, residual depth scaling as a choice of drift kind, and parameterization as an allocation of rates among modules
 
@@ -52,3 +57,7 @@ summary: >-
 A NOTE and THEORY for each under read-and-file, a dated note on each claim
 saying what its reading supports or qualifies, and the claims' warrants and
 grounds revised where readings replace recollections.
+
+## Note of 2026-11-21: read
+
+All seven works were read on 2026-11-21. The recollections the claims rested on held: depth-μP's learned change of order 1/L per block ([THEORY-tmpbyw89](../theory.d/THEORY-tmpbyw89.md), [THEORY-tmpybeh6](../theory.d/THEORY-tmpybeh6.md)), the modular norm's per-module mass ([THEORY-tmphj4hu](../theory.d/THEORY-tmphj4hu.md)), and the kernel regime as fixed features while the output is fit ([THEORY-tmp7n7a9](../theory.d/THEORY-tmp7n7a9.md), [THEORY-tmpecd1x](../theory.d/THEORY-tmpecd1x.md)). Each claim was revised where a reading corrected it ([CLAIM-tmp2yj4t](../claims.d/CLAIM-tmp2yj4t.md), [CLAIM-tmpqwoxz](../claims.d/CLAIM-tmpqwoxz.md), notes on [CLAIM-tmpmugkp](../claims.d/CLAIM-tmpmugkp.md)).

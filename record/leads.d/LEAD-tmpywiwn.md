@@ -1,8 +1,13 @@
 ---
-status: Open
+status: Done
 title: 'Read the two semicontraction papers, to see whether contraction with respect to a seminorm states in one theory what the record puts together from Markov retention and partial contraction, and whether its conditions say which features a restatement conserves'
-version: 1
-stage: specified
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Done on 2026-11-21: both papers read (NOTE-tmpouiuu, NOTE-tmprv9nt).
+stage: underway
 priority: medium
 method:
 - reading
@@ -26,7 +31,8 @@ summary: >-
   joins them, the claim can rest on a reading and not only on the
   application.
 ---
-<!-- inactive-ok-file: CLAIM-tmpdx6l8 LIT-tmpavt0i LIT-tmpru0xs ARG-tmp5ahr5 — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
+<!-- inactive-ok-file: THEORY-tmprwljl THEORY-tmpq3h4k CLAIM-tmpdx6l8 TERM-tmp7i7ed — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
+<!-- inactive-ok-file: ARG-tmp5ahr5 — Proposed or Deferred; filed in this contribution of 2026-11-20 -->
 <!-- inactive-ok-file: CLAIM-635 THEORY-2044 CLAIM-tmpw6wkt — Proposed; the results the reading may unify -->
 
 # LEAD-tmpywiwn: Read the two semicontraction papers, to see whether contraction with respect to a seminorm states in one theory what the record puts together from Markov retention and partial contraction, and whether its conditions say which features a restatement conserves
@@ -53,3 +59,7 @@ summary: >-
 File a NOTE and a THEORY for each. If the reading carries [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md)'s
 unification, add it to the claim's `grounds` and revise [ARG-tmp5ahr5](../arguments.d/ARG-tmp5ahr5.md)'s
 critical questions; if it does not, say why in a dated note on the claim.
+
+## Note of 2026-11-21: read
+
+Both semicontraction papers were read on 2026-11-21 ([THEORY-tmprwljl](../theory.d/THEORY-tmprwljl.md), [THEORY-tmpq3h4k](../theory.d/THEORY-tmpq3h4k.md)). Semicontraction does not join the record's pieces into one theory of what is kept: it contracts only off a seminorm's kernel and keeps nothing by itself, and where the limit is fixed an exact conserved functional fixes it. [CLAIM-tmpdx6l8](../claims.d/CLAIM-tmpdx6l8.md) (version 3) and [TERM-tmp7i7ed](../terms.d/TERM-tmp7i7ed.md) (version 2) were revised accordingly. Nothing in either paper covers approximate conservation.
