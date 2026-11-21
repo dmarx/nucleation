@@ -12,6 +12,7 @@ reviews:
 - ADR-071
 - ADR-108
 - ADR-121
+- ADR-126
 - ADR-127
 - ADR-128
 - ADR-tmpcb96w
@@ -45,8 +46,11 @@ summary: >-
   asked which reading was meant instead of filing all three; arguments
   were titled with their conclusions; and a Rejected argument's
   conclusions were left without an entry. Smaller faults came from the
-  shared working tree and from writing about work still in flight. Four
-  recommendations follow. The review is the assistant's (Claude, in this
+  shared working tree and from writing about work still in flight. And,
+  at the owner's earmark, the exchange the regime is named for happened
+  mostly off the page, in briefs, commits and pull requests. Five
+  recommendations follow, the fifth to think out loud in the chat with
+  periodic executive summaries. The review is the assistant's (Claude, in this
   session); adopting its recommendations is the owner's call.
 ---
 <!-- inactive-ok-file: ADR-tmpcb96w ADR-tmp44npm ADR-tmpcjfyy SYNTHESIS-tmp69tyj SYNTHESIS-tmpsejrp TERM-tmpol232 TERM-tmptiim0 CLAIM-tmpcg4uu CLAIM-tmp7ijze CLAIM-tmpewm5i CLAIM-tmpfls41 QUESTION-tmpss7dl QUESTION-tmp4xg7u QUESTION-tmp2b8au CASE-tmpqo06u ARG-tmpmvc5e ARG-tmp09yqc ARG-tmp2w77g ARG-052 ARG-071 — Proposed, Rejected or new; the entries this review names -->
@@ -55,7 +59,7 @@ summary: >-
 
 ## What it covers
 
-From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "Rich Get Richer Power Laws" (27 owner turns, 43 visible assistant turns), to the sweep of the Rejected arguments at about 22:20. The devlog notes it reads are those of 2026-11-21 at 18:29:55 (asking instead of filing alternatives) and 21:27:15 (arguments titled with their conclusions), with the earlier note of 07:01:19 (resolving a conflict with `--ours`), whose lesson recurred.
+From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "Rich Get Richer Power Laws" (27 owner turns, 43 visible assistant turns), to the sweep of the Rejected arguments at about 22:20. The devlog notes it reads are those of 2026-11-21 at 18:29:55 (asking instead of filing alternatives) and 21:27:15 (arguments titled with their conclusions), with the earlier note of 07:01:19 (resolving a conflict with `--ours`), whose lesson recurred. It also answers the owner's earmarked note of 22:30:41 (ADR-126), added after the review was first filed.
 
 | Pull request | What it did |
 |---|---|
@@ -94,6 +98,11 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
   - CI's repairs, pulled in mid-work, conflicted with files still being edited, three times. Each was resolved with `--ours` after reading the conflict, but that is the practice the devlog of 07:01:19 warned about, where it reverted three of the owner's rulings.
 - **Writing about work still in flight.** The manuscript's Part I was refreshed while the readings were still being filed. It cited works as "being read" that had landed before the writer finished, which the fact-check caught. The writer had been told to say "being read" for such works, so it did what it was told; the ordering was the fault.
 - **A chained command that did not gate on its script.** An edit script failed on a line wrap, and the commit in the same shell call went ahead without the edit. The next turn caught it.
+- **The exchange happened off the page** (the owner's earmark, devlog of 22:30:41). The regime is called dialectic "to evoke exchanging ideas", and the owner wants "an opportunity to monitor your activity" in the chat. Most of the assistant's turns did otherwise:
+  - they announced that delegated work had started, then reported its outcome in a closing "Filed" block;
+  - the reasoning that decided what to file lived in drafters' briefs, commit messages and pull-request descriptions.
+
+  The rule, answer first and end with a Filed block (ADR-127), was met. But a Filed block is a receipt, not a conversation. The owner could follow the reasoning only through GitHub, "which isn't super convenient". Three of the four corrections above came when the owner happened to read the result, not when the reasoning was laid out in front of them. Laid out in time, they might have come before anything was filed.
 - **Mechanical slips CI caught:** LEADs in an account's `integrates` (red once); "about forty" gaps filled where the curation entry listed 54.
 
 ## Recommendations
@@ -102,6 +111,11 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
 2. **In a shared tree, commit only the files each worker lists.** Never use `git add -A` or a directory while another worker is writing, and pull CI's repair only between workers, not under them. A worker's brief asks it to list its files, as the filers did (`mine.txt`).
 3. **Sequence writers after the work they describe, or schedule a code pass.** A writer whose material is still being filed should either wait, or be followed by a pass that replaces "being read" with codes. That pass should not be left to the fact-check to find.
 4. **Gate every commit on the edit before it.** Use one script that edits and checks, then commit only if it succeeded (`set -e`, or `&&` across the whole chain).
+5. **Think out loud in the chat, and check in with an executive summary.** The owner's earmark.
+   - **Before or while filing**, the assistant says in the conversation what it is about to file and why: the readings it sees, which entry kind it chooses, its lean, and what it is leaving out. The Filed block then confirms what the owner has already seen proposed.
+   - **When delegated work returns**, the assistant relays the substance of what was found and decided, not only the codes.
+   - **At the close of each batch, or after a long stretch of filing**, it gives a short executive summary: what changed in the record's argument, what waits on the owner, and what it would do next.
+   - **The staging and promotion pull requests stay the place to intervene,** not the place to follow along. This is a change in how the dialectic regime is conducted, so a decision amending ADR-127's practice is the natural home once the owner rules on it.
 
 [ADR-tmpcb96w](../decisions.d/ADR-tmpcb96w.md) (gap filling) waits on the owner's adoption and is not reviewed here beyond its first application, which went well. The four corrections in "What did not go well" each came from the owner; the separate readers caught everything else.
 
