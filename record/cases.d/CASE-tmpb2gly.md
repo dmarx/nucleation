@@ -78,7 +78,7 @@ Everything below was checked by the assistant with `python3 -I`
 ## The same edge in the textbook sloppy model
 
 The assistant's addition. The model behind the hyperribbon picture
-(LIT-tmpd3swn, LIT-tmpzkxka) is a sum of exponentials. Take two,
+([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md)) is a sum of exponentials. Take two,
 y(t) = e^(−k₁t) + e^(−k₂t), with k₁,₂ = u ± v. Then y = 2e^(−ut)cosh(vt),
 which also depends on v only through v². Sampled at 40 times in
 [0.1, 5] with u = 1, the smaller Fisher eigenvalue divided by v² is
@@ -99,7 +99,7 @@ v = 0 it reports one zero eigenvalue and nothing about the quartic.
 
 It cannot show that every thin direction ends at a stratum. A linear
 model with an ill-conditioned design is sloppy everywhere and singular
-nowhere (CLAIM-tmpcgvcp). Nor does the pushed-forward density say where a
+nowhere ([CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md)). Nor does the pushed-forward density say where a
 trained network's probability goes. In a Bayesian model the likelihood
 depends on the parameters only through (s, p), so the posterior's image
 in prediction space keeps the same factor (s²/4 − p)^(−1/2): the

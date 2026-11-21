@@ -39,8 +39,7 @@ summary: >-
   and A21); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-262 — Proposed reading, the neural-complexity measure -->
-<!-- inactive-ok-file: LIT-tmpys7v3 — Deferred, registered 2026-11-21 from the exchange, unread -->
-<!-- inactive-ok-file: TERM-tmpxml4k CLAIM-tmpq8q9t — filed with this claim from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpq8q9t — filed with this claim from the same exchange, Proposed -->
 
 # CLAIM-tmp99m8g: Entropy, correlation and scaling are distinct properties of a system, and a critical point is not the maximum of complexity: what is special there is the absence of a finite correlation scale, while entropy density, predictive information, the number of relevant directions and the cost of simulation need not peak there
 
@@ -67,7 +66,7 @@ chosen aspect of the information required to represent, generate,
 distinguish, or predict that state.**"
 
 The record holds one measure of the "between order and randomness" shape,
-Tononi, Sporns and Edelman's neural complexity (THEORY-262), and no claim
+Tononi, Sporns and Edelman's neural complexity ([THEORY-262](../theory.d/THEORY-262.md)), and no claim
 on whether criticality maximizes complexity. This claim says it does not,
 in general.
 
@@ -100,7 +99,7 @@ does not have a finite characteristic distance".
   χ ∝ L^(2−η), L^(7/4) for 2D Ising. The assistant computed the Fisher
   information about the field on L × L tori by transfer matrix, which is
   Var(M): per spin it grows with slope 1.756 in log L over L = 6 to 10,
-  against 7/4 (CLAIM-tmpq8q9t).
+  against 7/4 ([CLAIM-tmpq8q9t](CLAIM-tmpq8q9t.md)).
 - **A's analogy to the owner's bulk and tail.** A13 §3 presses "Individually
   rare or weak effects can dominate aggregate behavior when there are
   sufficiently many opportunities for them to contribute", and grants

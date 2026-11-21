@@ -31,17 +31,17 @@ summary: >-
 
 ## Why it is a question
 
-In the language of TERM-tmpt3vht, a fixed point with relevant directions
+In the language of [TERM-tmpt3vht](../terms.d/TERM-tmpt3vht.md), a fixed point with relevant directions
 is reached only by tuning them: the Ising critical point needs the
 temperature and the field set. Yet the exchange collects scale-invariant
 laws that need no tuning: the transverse correlations of an ordered
 magnet, r^(−(d−2)) throughout the phase (A27 §3); the 2D XY phase with a
 temperature-dependent exponent η(T) (A12 §7, A27 §5; Kosterlitz and
-Thouless, LIT-tmp6l8le); the growing interface of the KPZ equation
-(A24 §3, LIT-tmpd6yec); the turbulent inertial range (A23 §2); the ordered
-flock (A26 §4, A27 §7; THEORY-1085, THEORY-1095); and the sandpile of
+Thouless, [LIT-tmp6l8le](../literature.d/LIT-tmp6l8le.md)); the growing interface of the KPZ equation
+(A24 §3, [LIT-tmpd6yec](../literature.d/LIT-tmpd6yec.md)); the turbulent inertial range (A23 §2); the ordered
+flock (A26 §4, A27 §7; [THEORY-1085](../theory.d/THEORY-1085.md), [THEORY-1095](../theory.d/THEORY-1095.md)); and the sandpile of
 self-organized criticality (A3, A24 §4; Bak, Tang and Wiesenfeld,
-LIT-tmpl2b2l). CLAIM-tmpsr8r4 holds that these are scale-free without a
+[LIT-tmpl2b2l](../literature.d/LIT-tmpl2b2l.md)). [CLAIM-tmpsr8r4](../claims.d/CLAIM-tmpsr8r4.md) holds that these are scale-free without a
 tuned transition. What it does not hold is why: what a system must have
 for its long-distance behaviour to sit at a fixed point with no relevant
 direction left to tune.
@@ -81,7 +81,7 @@ separation of timescales, or not at all, and so predicts which systems in
 the class show scale invariance without tuning. It would be tested
 against the cases above and against a counterexample: a system meeting
 the criterion's conditions with a finite correlation length, or a
-scale-free one that meets none. LEAD-tmpng7or's protocol would tell which
+scale-free one that meets none. [LEAD-tmpng7or](../leads.d/LEAD-tmpng7or.md)'s protocol would tell which
 case an observed system is in; it would not by itself answer why.
 
 A partial answer for one mechanism (for instance, that an absorbing-state

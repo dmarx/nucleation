@@ -51,7 +51,7 @@ summary: >-
 
 A41 lists four spectra, each with its own meaning for "small": a
 representation's covariance, a weight matrix's WᵀW, the loss Hessian and
-the Fisher matrix (TERM-tmpnxjq4 sorts the senses). "A direction can be
+the Fisher matrix ([TERM-tmpnxjq4](../terms.d/TERM-tmpnxjq4.md) sorts the senses). "A direction can be
 small in one of these geometries and extremely important in another."
 Two constructions show the orders can be reversed, not just
 uncorrelated.
@@ -67,7 +67,7 @@ not variance.
 p = softmax(ℓ), KL(p_h ‖ p_{h+δh}) ≈ ½ δhᵀ G_pred δh, where
 G_pred = Wᵀ(diag p − ppᵀ)W is the categorical Fisher pulled back to h, and
 G_logit = WᵀW measures raw logit change. A credits the distinction to Xu
-(LIT-tmp4det7, unread).
+([LIT-tmp4det7](../literature.d/LIT-tmp4det7.md), unread).
 
 ## The assistant's additions
 
@@ -102,18 +102,18 @@ weight decay on the readout and additive noise all set that scale.
 ## What the small-eigenvalue findings add, and do not
 
 A41 cites four findings: small singular values of transformer weights
-matter (Staats et al.; the record holds this reading, THEORY-420, which
+matter (Staats et al.; the record holds this reading, [THEORY-420](../theory.d/THEORY-420.md), which
 includes the fine-tuning order); concept directions sit in the
 low-variance tail of the unembedding covariance (Acharya et al.,
-LIT-tmp0gbj6); SGD progresses in the Hessian's bulk, not its top
-subspace (Song et al., LIT-tmp83hha); and the unembedding's smallest
-directions move next-token distributions most (Xu, LIT-tmp4det7). The
+[LIT-tmp0gbj6](../literature.d/LIT-tmp0gbj6.md)); SGD progresses in the Hessian's bulk, not its top
+subspace (Song et al., [LIT-tmp83hha](../literature.d/LIT-tmp83hha.md)); and the unembedding's smallest
+directions move next-token distributions most (Xu, [LIT-tmp4det7](../literature.d/LIT-tmp4det7.md)). The
 last three are unread. They bear on this claim as instances of metrics
 disagreeing. A41 §8 also presents them as a correction to the hyperribbon
-account. ARG-tmpjx3ww weighs that, and finds they do not bear on it: a
+account. [ARG-tmpjx3ww](../arguments.d/ARG-tmpjx3ww.md) weighs that, and finds they do not bear on it: a
 hyperribbon is already defined in the metric of the predictions.
 
-This claim complements CLAIM-450. That claim has distinguishability,
+This claim complements [CLAIM-450](CLAIM-450.md). That claim has distinguishability,
 usability and efficacy coming apart for a communicative distinction. This
 one has several geometries of the same learned model coming apart in the
 order they give.

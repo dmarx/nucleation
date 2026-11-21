@@ -73,7 +73,7 @@ that A shows no physical system like it. One is at hand:
 
 - **A stationary Gaussian field with a power-law spectrum**, such as the
   spin waves of an ordered magnet (A27 §3) or the simulated field of
-  CLAIM-tmpwl8y8. Stationarity makes the covariance diagonal in the
+  [CLAIM-tmpwl8y8](CLAIM-tmpwl8y8.md). Stationarity makes the covariance diagonal in the
   Fourier basis, and joint Gaussianity makes uncorrelated modes
   independent. So the bands of wavenumber, the natural decomposition into
   scales, are independent, while the band variances scale as a power law:
@@ -82,15 +82,15 @@ that A shows no physical system like it. One is at hand:
   third-order increment moment is zero. In turbulence that moment is the
   flux: ⟨(δu_L(r))³⟩ = −(4/5)εr (A23 §3), whose sign "reflects a net
   forward transfer of energy". Transfer through scales thus needs
-  non-Gaussian, odd-order statistics, which is also why THEORY-748's block
+  non-Gaussian, odd-order statistics, which is also why [THEORY-748](../theory.d/THEORY-748.md)'s block
   entropies, blind to the reflection x → −x, cannot see it.
 
 The other separations: dependence without transfer is the equilibrium
 critical field (correlated across distances, zero currents under
-detailed balance; CLAIM-tmpyy261); transfer without exact
+detailed balance; [CLAIM-tmpyy261](CLAIM-tmpyy261.md)); transfer without exact
 self-similarity is intermittent turbulence, multifractal with
 ζ(q) ≠ q/3 (A23 §4–5); a power law with neither is a sample of
-independent Pareto draws (CLAIM-tmpwl8y8).
+independent Pareto draws ([CLAIM-tmpwl8y8](CLAIM-tmpwl8y8.md)).
 
 Which decomposition counts as "scales" matters. In real space the
 Gaussian field is correlated across distances; the claim is that in the
@@ -98,7 +98,7 @@ Fourier decomposition its scales are independent, so whether a system
 shows cross-scale dependence depends on how scales are defined. A23 §6's
 transfer entropy between a large-scale and a small-scale variable needs
 that decomposition fixed (a filter or wavelet band), which A does not
-give, and measures directed predictive improvement, not flow (CLAIM-335).
+give, and measures directed predictive improvement, not flow ([CLAIM-335](CLAIM-335.md)).
 
 ## A correction on the spectrum
 
@@ -114,6 +114,6 @@ for the size of the correction only; the record holds no reading of it.
 
 - That turbulence's interscale causation is settled. A23 §6 cites a 2024
   study decomposing it into unique, shared and synergistic parts
-  (Martínez-Sánchez and colleagues, LIT-tmp1twkp, unread).
+  (Martínez-Sánchez and colleagues, [LIT-tmp1twkp](../literature.d/LIT-tmp1twkp.md), unread).
 - That nesting never carries causation. The claim is only that structure
   across scales does not show it.

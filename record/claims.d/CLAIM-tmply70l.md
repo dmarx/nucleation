@@ -37,9 +37,11 @@ summary: >-
   CCDF slope is −1.98, and the 100 largest hubs were all born in the first
   1% of the growth. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
+bears_on:
+- QUESTION-tmp21jtb
 ---
-<!-- inactive-ok-file: LIT-tmpx3y6w LIT-tmpyexjc LIT-tmpwdtfj — Deferred; registered from this exchange and not read -->
-<!-- inactive-ok-file: CLAIM-tmp1dlyp CLAIM-tmpiervv CLAIM-tmpepx9m CLAIM-tmp9a83b QUESTION-tmp21jtb — Proposed or new; claims and the question filed with this one from the same exchange -->
+<!-- inactive-ok-file: LIT-tmpx3y6w LIT-tmpyexjc — Deferred; registered from this exchange and not read -->
+<!-- inactive-ok-file: CLAIM-tmp1dlyp CLAIM-tmpiervv CLAIM-tmpepx9m CLAIM-tmp9a83b — Proposed or new; claims and the question filed with this one from the same exchange -->
 
 # CLAIM-tmply70l: The mean-field derivation of the Barabási–Albert power law is the age mechanism in logarithmic time, so what separates linear preferential attachment from Gibrat's lognormal growth is the continual entry of new units and not the proportionality of growth
 
@@ -51,14 +53,14 @@ attachment." A3 §2: pure multiplicative growth gives a lognormal. A3 §1:
 "the arrival of new participants keeps introducing small nodes, while
 cumulative advantage allows some older nodes to become exceptionally
 large." A5 §6: a common exponential growth rate with exponentially
-distributed ages gives P(S > s) ∝ s^(−λ/g) (Reed, LIT-tmpyexjc). A does
+distributed ages gives P(S > s) ∝ s^(−λ/g) (Reed, [LIT-tmpyexjc](../literature.d/LIT-tmpyexjc.md)). A does
 not say that the first is an instance of the last, or which ingredient
 makes the power law.
 
 ## The derivation
 
 A1 §3's mean-field solution is k_i(t) = (t/t_i)^(1/2) (Barabási and
-Albert, LIT-tmpx3y6w). Write it in logarithmic time, u = ln t:
+Albert, [LIT-tmpx3y6w](../literature.d/LIT-tmpx3y6w.md)). Write it in logarithmic time, u = ln t:
 
     k_i = exp((u − u_i)/2) = exp(a_i/2),   a_i = ln(t/t_i).
 
@@ -79,7 +81,7 @@ divided by their mean are close to exponential, not Pareto. Checked: 500
 nodes, 200,000 links, exact sequential draws. The shares above 1, 2 and 3
 times the mean are 0.366, 0.140 and 0.048, against e^(−1), e^(−2) and
 e^(−3) = 0.368, 0.135 and 0.050. Pure Gibrat growth, with independent
-returns, gives a lognormal that only widens (CLAIM-tmpiervv). With entry
+returns, gives a lognormal that only widens ([CLAIM-tmpiervv](CLAIM-tmpiervv.md)). With entry
 at a constant rate, the spread of ages turns proportional growth into a
 Pareto tail. Linear attachment and Gibrat
 growth agree on proportionality and differ on entry. Simon's model has the
@@ -105,8 +107,8 @@ A tree grown to N = 300,000 by linear attachment, one link per node:
   age cohort the stochastic advantage still sorts nodes, which is the
   rich-get-richer part proper.
 - Not that every Pareto tail from growth comes from entry. A floor does
-  it too (Kesten, CLAIM-tmpiervv).
-- On the objection that this restates CLAIM-tmp1dlyp's item 6: it does
+  it too (Kesten, [CLAIM-tmpiervv](CLAIM-tmpiervv.md)).
+- On the objection that this restates [CLAIM-tmp1dlyp](CLAIM-tmp1dlyp.md)'s item 6: it does
   use that result. What it adds is the identification, which A does not
   make, and the consequence for telling attachment from Gibrat growth
-  (CLAIM-tmpepx9m's correction, CLAIM-tmp9a83b's ratio of rates).
+  ([CLAIM-tmpepx9m](CLAIM-tmpepx9m.md)'s correction, [CLAIM-tmp9a83b](CLAIM-tmp9a83b.md)'s ratio of rates).

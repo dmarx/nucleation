@@ -22,7 +22,7 @@ summary: >-
   critical systems, scale-free behavior can arise because the dynamics
   are balanced at a boundary between qualitatively different regimes.
   Both can generate power laws, but the mechanisms are almost opposites."
-  The assistant's objection is CLAIM-tmp9a83b. The wording is A's (the
+  The assistant's objection is [CLAIM-tmp9a83b](CLAIM-tmp9a83b.md). The wording is A's (the
   other assistant in the exchange "Rich Get Richer Power Laws", A8);
   adopting it is the owner's call.
 ---
@@ -50,7 +50,7 @@ characteristic scale that adequately describes its behavior**."
 In the cascade (A7, A8) no event is advantaged. A large cascade is not one
 that "was initially privileged" (A3 §3); it is one the configuration let
 run. In preferential attachment, the large unit is large because it was
-large earlier (CLAIM-tmpepx9m).
+large earlier ([CLAIM-tmpepx9m](CLAIM-tmpepx9m.md)).
 
 ## What it does not say
 

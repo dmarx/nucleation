@@ -109,16 +109,16 @@ transition at all, so the kinds of slowing above are not exhaustive (as
 Dk², which goes to zero as k → 0. "Not all slow, large-scale fluctuations
 are evidence of proximity to criticality. Some exist because conservation
 laws forbid their rapid disappearance." The transverse velocity of a flock
-is slow for a third reason, a broken continuous symmetry (THEORY-1085).
+is slow for a third reason, a broken continuous symmetry ([THEORY-1085](../theory.d/THEORY-1085.md)).
 
 So an observed slow mode has at least two further readings beside the
 three this claim separates: a conserved quantity spreading, and a
 symmetry-protected soft mode. Neither signals a fold, which is what
-THEORY-1315's slowing warns of. A12 §6 gives the critical form,
+[THEORY-1315](../theory.d/THEORY-1315.md)'s slowing warns of. A12 §6 gives the critical form,
 τ ∝ ξ^z, with A's caveat that "not every transition exhibits
-conventional critical slowing down"; slowing at a fold, THEORY-1315's
+conventional critical slowing down"; slowing at a fold, [THEORY-1315](../theory.d/THEORY-1315.md)'s
 case, is one eigenvalue going to zero and needs no diverging length.
-CLAIM-tmpsr8r4 files the general point, that a scale-free or slow
+[CLAIM-tmpsr8r4](CLAIM-tmpsr8r4.md) files the general point, that a scale-free or slow
 signature does not by itself indicate a tuned transition. A24 §7 adds
 that conservation also changes a critical point's dynamic universality
 class (Hohenberg and Halperin's classification, named and not held).

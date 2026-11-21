@@ -44,18 +44,17 @@ summary: >-
   (ln T)²/(4a) for λ_j ∝ e^(−aj). Checked numerically. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpj0k4q TERM-tmpxml4k TERM-tmp5z2du QUESTION-tmpzlagu — filed with this claim from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-tmpys7v3 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: CLAIM-tmpj0k4q TERM-tmpxml4k — filed with this claim from the same exchange, Proposed -->
 
 # CLAIM-tmpyxiwv: When past and future are independent given a shared parameter, the shape of the Fisher spectrum fixes how predictive information grows: in a linear-Gaussian model it grows as (d/2) ln T with d resolved directions, as T^(1/p) when the spectrum falls as j^(−p), and as (ln T)²/(4a) when it falls as e^(−aj), so the power-law regime of Bialek, Nemenman and Tishby follows from a power-law spectrum
 
 ## The gap it fills
 
 A21 §4 lists three regimes of growth for predictive information
-(TERM-tmpxml4k), the last "I_pred(T) ∼ cT^μ, 0 < μ < 1 … as can occur in
+([TERM-tmpxml4k](../terms.d/TERM-tmpxml4k.md)), the last "I_pred(T) ∼ cT^μ, 0 < μ < 1 … as can occur in
 certain infinite-dimensional learning problems". A21 §5 counts the Fisher
 directions n observations resolve, (nC)^(1/p) for a power-law spectrum
-(CLAIM-tmpj0k4q), and then disclaims the link: "This is a toy calculation,
+([CLAIM-tmpj0k4q](CLAIM-tmpj0k4q.md)), and then disclaims the link: "This is a toy calculation,
 not a general law connecting the Fisher spectrum to the amount of
 predictive information." The regimes are asserted and the spectrum is
 counted; nothing joins them. This claim joins them in the one setting
@@ -83,7 +82,7 @@ coordinate, G(T) = ½ Σ_j ln(1 + Tλ_j) exactly.
 - **d equal eigenvalues λ:** G(T) ≈ (d/2) ln(Tλ), so
   I_pred(T) ≈ (d/2) ln T − (d/2) ln 2: Bialek, Nemenman and Tishby's
   logarithmic regime, with the same (d/2) coefficient the record holds as
-  the Bayesian Occam penalty of a regular model (THEORY-087).
+  the Bayesian Occam penalty of a regular model ([THEORY-087](../theory.d/THEORY-087.md)).
 - **λ_j = C j^(−p), p > 1:** G(T) ≈ ½ (CT)^(1/p) ∫₀^∞ ln(1 + u^(−p)) du
   = ½ (CT)^(1/p) π/sin(π/p), so
   I_pred(T) ≈ ½ (π/sin(π/p)) (2 − 2^(1/p)) (CT)^(1/p): the power-law
@@ -118,13 +117,13 @@ The assistant computed 2G(T) − G(2T) on a two-million-term spectrum
 
 - **Not that every process with power-law predictive information has a
   power-law spectrum.** Long-range dependent processes with no parameter
-  to learn can grow too (TERM-tmpxml4k, condition 2); this is one
+  to learn can grow too ([TERM-tmpxml4k](../terms.d/TERM-tmpxml4k.md), condition 2); this is one
   mechanism, exact in one model.
 - **Not that it holds in singular models.** There the logarithmic
-  coefficient is the learning coefficient, not d/2 (THEORY-087,
-  THEORY-1253), and the spectrum is not the right object.
+  coefficient is the learning coefficient, not d/2 ([THEORY-087](../theory.d/THEORY-087.md),
+  [THEORY-1253](../theory.d/THEORY-1253.md)), and the spectrum is not the right object.
 - **Not that the process is ergodic.** The mixture over θ is not, and the
-  growth comes from that (TERM-tmpxml4k, condition 1).
+  growth comes from that ([TERM-tmpxml4k](../terms.d/TERM-tmpxml4k.md), condition 1).
 - **Not that criticality produces it.** No transition enters; A21 §4's
   caveat that these regimes "are not a one-to-one classification of
   physical criticality" stands.

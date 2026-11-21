@@ -22,7 +22,7 @@ summary: >-
   its claim that "The connection isn't merely metaphorical. The same broad
   mathematical framework—renormalization—explains both phenomena." The
   analogy holds at the level of a fixed point of a renormalization map
-  with one relevant direction to tune, and supports CLAIM-tmpyy261's
+  with one relevant direction to tune, and supports [CLAIM-tmpyy261](../claims.d/CLAIM-tmpyy261.md)'s
   clause that the onset of chaos is critical. Two rows of the table pair
   unlike things: δ is the relevant eigenvalue, not an exponent (the
   exponent is ln 2/ln δ = 0.4498), and the self-similar bifurcation
@@ -41,7 +41,7 @@ summary: >-
    Hamiltonians, with relevant directions that must be tuned (temperature,
    and the field, held at zero by symmetry). Near it, quantities scale with
    exponents set by the relevant eigenvalues, ν = 1/y_t, and systems in
-   its basin share them (TERM-tmpt3vht). THEORY-777 finds the two relevant
+   its basin share them ([TERM-tmpt3vht](../terms.d/TERM-tmpt3vht.md)). [THEORY-777](../theory.d/THEORY-777.md) finds the two relevant
    directions of the 2D Ising point as the two stiff directions of the
    coarse-grained Fisher information.
 2. The period-doubling accumulation point is a fixed point of the
@@ -52,7 +52,7 @@ summary: >-
 3. So the two share a structure: a fixed point, one tuned direction,
    universal numbers read off the linearization, and a basin that is the
    universality class. The route to chaos is a critical phenomenon in
-   TERM-tmpt3vht's sense, which is the clause of CLAIM-tmpyy261 this
+   [TERM-tmpt3vht](../terms.d/TERM-tmpt3vht.md)'s sense, which is the clause of [CLAIM-tmpyy261](../claims.d/CLAIM-tmpyy261.md) this
    supports.
 
 Checked (`python3 -I`): from superstable parameters up to period 2¹², the
@@ -92,7 +92,7 @@ x = ½ to α = −2.50291; r_∞ = 3.5699457, where the Lyapunov exponent is
   fluctuations at every scale in a stationary ensemble; at r_∞ there is
   one deterministic orbit and nothing fluctuates. So "critical" carries
   over as a statement about the renormalization map, not about
-  fluctuations. That is why CLAIM-tmpyy261 places the meeting of chaos and
+  fluctuations. That is why [CLAIM-tmpyy261](../claims.d/CLAIM-tmpyy261.md) places the meeting of chaos and
   criticality at a fixed point, and does not say that chaos produces
   critical fluctuations.
 

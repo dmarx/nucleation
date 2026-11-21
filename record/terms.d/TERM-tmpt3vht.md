@@ -15,7 +15,7 @@ draws_on:
 - THEORY-777
 summary: >-
   The classification the record already uses without stating it
-  (THEORY-777, THEORY-789, QUESTION-205, QUESTION-232, SYNTHESIS-084 speak
+  ([THEORY-777](../theory.d/THEORY-777.md), [THEORY-789](../theory.d/THEORY-789.md), [QUESTION-205](../questions.d/QUESTION-205.md), [QUESTION-232](../questions.d/QUESTION-232.md), [SYNTHESIS-084](../syntheses.d/SYNTHESIS-084.md) speak
   of "relevant variables" or "relevant directions"): linearize a
   renormalization-group map at a fixed point, and a perturbation is
   relevant, irrelevant or marginal as its eigenvalue grows, shrinks or
@@ -39,7 +39,7 @@ A **renormalization-group (RG) map** R_b takes a description of a system
 of the same system observed at a scale b times coarser: coarse-grain,
 rescale lengths back to the original unit, and read off the new effective
 rules (A12 §1). Iterating it traces a flow. A **fixed point** S* has
-R_b(S*) = S*; it is scale-invariant in the sense of TERM-tmpyi882's
+R_b(S*) = S*; it is scale-invariant in the sense of [TERM-tmpyi882](TERM-tmpyi882.md)'s
 sense 2.
 
 Linearize at S*: a small perturbation along an eigendirection of the
@@ -48,7 +48,7 @@ linearized map is multiplied by b^y at each step. It is
 - **relevant** if y > 0: it grows, and any nonzero amount eventually
   carries the flow away from S*. A relevant direction is a parameter that
   must be tuned to reach the fixed point. The 2D Ising critical point has
-  two, temperature and field, and THEORY-777 found them as the two stiff
+  two, temperature and field, and [THEORY-777](../theory.d/THEORY-777.md) found them as the two stiff
   directions of the coarse-grained Fisher information;
 - **irrelevant** if y < 0: it shrinks, so systems that differ only along
   it flow to the same S* and share its exponents. A **universality class**
@@ -76,7 +76,7 @@ mention.
   A finite variance puts a law in its basin. A law with a tail P(X > x) ∝ x^(−α),
   α < 2, lies outside that basin and flows instead to an α-stable fixed
   point. So whether a marginal is heavy-tailed in
-  TERM-tmpyi882's sense 1 decides which fixed point summation reaches; A12
+  [TERM-tmpyi882](TERM-tmpyi882.md)'s sense 1 decides which fixed point summation reaches; A12
   does not say this.
 - **Block averages at a critical point.** With C(r) ∝ r^(−a),
   Var(block mean) over an L × L block is L^(−4) Σ C(r_ij) ∝ L^(−a), so the
@@ -89,19 +89,19 @@ mention.
   showing; it needs a < d.
 - **Period doubling.** The doubling operator acts on unimodal maps of an
   interval, not on spatial blocks. Its fixed point has one relevant
-  direction, with eigenvalue Feigenbaum's δ ≈ 4.6692 (ARG-tmp92gzv,
-  CLAIM-tmpyy261).
+  direction, with eigenvalue Feigenbaum's δ ≈ 4.6692 ([ARG-tmp92gzv](../arguments.d/ARG-tmp92gzv.md),
+  [CLAIM-tmpyy261](../claims.d/CLAIM-tmpyy261.md)).
 - **Universality across substances.** Liquid–gas critical points and
   uniaxial magnets share the 3D Ising class (A12 §5): their microscopic
   differences are irrelevant directions of one fixed point.
 
 ## What it is not
 
-- **Not relevance to a target.** CLAIM-152 and CLAIM-348 make the
+- **Not relevance to a target.** [CLAIM-152](../claims.d/CLAIM-152.md) and [CLAIM-348](../claims.d/CLAIM-348.md) make the
   adequacy of a coarse-graining relative to a declared target. RG
   relevance is relative to the fixed point and to the RG map, which is a
   choice. Whether a predictive criterion picks out the RG-relevant
-  variables in general is open (QUESTION-232, THEORY-789, SYNTHESIS-084);
+  variables in general is open ([QUESTION-232](../questions.d/QUESTION-232.md), [THEORY-789](../theory.d/THEORY-789.md), [SYNTHESIS-084](../syntheses.d/SYNTHESIS-084.md));
   A13 §4 states the correspondence more strongly than the record does.
 - **Not "important".** A12 §4's gloss, "Large-scale reality is determined
   by the properties that remain important under repeated changes of
@@ -111,4 +111,4 @@ mention.
 - **Not a property of a system alone.** Whether a direction is relevant
   is fixed by the fixed point it is measured at; one perturbation can be
   relevant at one fixed point and irrelevant at another
-  (QUESTION-tmp3lkep).
+  ([QUESTION-tmp3lkep](../questions.d/QUESTION-tmp3lkep.md)).

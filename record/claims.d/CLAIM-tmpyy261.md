@@ -32,7 +32,7 @@ grounds:
 - THEORY-1332
 - THEORY-754
 summary: >-
-  Answers the chaos half of the owner's U4 (QUESTION-tmpyqohh). A6 §1 gave
+  Answers the chaos half of the owner's U4 ([QUESTION-tmpyqohh](../questions.d/QUESTION-tmpyqohh.md)). A6 §1 gave
   chaos, criticality and self-similarity as distinct with "none
   automatically implies the others"; A23 §8 gave critical correlation and
   dynamical cascade as distinct, "neither logically requires the other";
@@ -53,14 +53,14 @@ summary: >-
 ## Definitions
 
 - **Chaos**: deterministic dynamics with a positive largest Lyapunov
-  exponent on a set of positive measure (A6 §1; THEORY-1332 on chaos as a
+  exponent on a set of positive measure (A6 §1; [THEORY-1332](../theory.d/THEORY-1332.md) on chaos as a
   property of deterministic dynamics).
 - **Criticality**: a diverging correlation length or time, at a fixed
-  point of a renormalization-group map (TERM-tmpt3vht), reached by tuning
+  point of a renormalization-group map ([TERM-tmpt3vht](../terms.d/TERM-tmpt3vht.md)), reached by tuning
   or otherwise (A6 §2, A8 §1).
 - **Cascade**: a sustained net transfer of a conserved quantity through a
   range of scales, at a rate independent of scale across that range
-  (A23 §2, §8); THEORY-754 holds the locality of such transfer in
+  (A23 §2, §8); [THEORY-754](../theory.d/THEORY-754.md) holds the locality of such transfer in
   turbulence.
 
 ## The six separations
@@ -71,7 +71,7 @@ Each was checked with `python3 -I`.
 |---|---|---|---|
 | chaos | criticality, cascade | logistic map at r = 4 (A6 §5) | Lyapunov exponent 0.693147 over 10⁶ iterates (ln 2 = 0.693147); invariant density 1/(π√(x(1−x))), KS distance 0.0004; autocorrelation within ±0.002 at lags 1–5. The correlation time is one step, and there are no scales to transfer between. |
 | criticality | chaos | the period-doubling accumulation point r_∞ | superstable parameters to period 2¹² give r_∞ = 3.5699457; Lyapunov exponent there 3 × 10⁻⁶, against −0.87 at r = 3.5 and +0.18 at 3.6; the period, the orbit's correlation time, diverges as (r_∞ − r)^(−ln 2/ln δ) = (r_∞ − r)^(−0.4498). Also the critical Galton–Watson process and the Ising model at T_c, which are stochastic and have no deterministic Lyapunov exponent at all. |
-| criticality | cascade | equilibrium 2D Ising at T_c | detailed balance makes every probability current zero (A24 §1), so nothing is transferred through scales although C(r) ∝ r^(−1/4). Equally the scale-free Gaussian field of CLAIM-tmpwl8y8: all its odd moments vanish, and the third-order increment moment is what carries flux in the 4/5 law (CLAIM-tmpbe2gh). |
+| criticality | cascade | equilibrium 2D Ising at T_c | detailed balance makes every probability current zero (A24 §1), so nothing is transferred through scales although C(r) ∝ r^(−1/4). Equally the scale-free Gaussian field of [CLAIM-tmpwl8y8](CLAIM-tmpwl8y8.md): all its odd moments vanish, and the third-order increment moment is what carries flux in the 4/5 law ([CLAIM-tmpbe2gh](CLAIM-tmpbe2gh.md)). |
 | cascade | criticality | turbulent inertial range (A23 §2, §8) | generic at high Reynolds number, with no parameter tuned to a point: "scale invariance can emerge from a sustained nonequilibrium flux rather than conventional critical tuning". |
 | cascade | chaos | a linear chain of 20 shells, k_n = 2ⁿ, transfer rate k_n^(2/3) from shell n to n+1, dissipation νk_n², injection into shell 0 | steady flux 1.000 through every shell of the range; shell energy ∝ k^(−2/3), so E(k) ∝ k^(−1.667); every eigenvalue of the linear dynamics has real part ≤ −1, so no chaos and no tuning. |
 | chaos | cascade | the logistic map again | one variable, no scales. |
@@ -97,7 +97,7 @@ link is apt and why it is not an identity.
   operator and are the same for unimodal maps with a quadratic maximum
   (Feigenbaum's constants, named in the exchange and not registered as a
   work). The critical point is the boundary of chaos, not chaos: its
-  Lyapunov exponent is zero. ARG-tmp92gzv weighs A6's analogy between this
+  Lyapunov exponent is zero. [ARG-tmp92gzv](../arguments.d/ARG-tmp92gzv.md) weighs A6's analogy between this
   and a thermal critical point.
 - **Intermittency near a tangent bifurcation** (A6 §5, Pomeau–Manneville,
   named and not registered). Checked on the logistic map just below the
@@ -111,14 +111,14 @@ link is apt and why it is not an identity.
   is scale-free. Its scaling is attributed to the flux (A23 §2), not to the
   chaos; the linear chain above shows the flux alone suffices for the
   spectrum.
-- **The order-to-chaos transition in wide random networks** (THEORY-2041)
+- **The order-to-chaos transition in wide random networks** ([THEORY-2041](../theory.d/THEORY-2041.md))
   is another case of the first kind: a depth scale diverges at the
   boundary of chaos.
 
 ## Self-similarity
 
 The owner's second link holds in one sense. Self-similarity is
-TERM-tmpyi882's sense 2. It comes with criticality (statistical
+[TERM-tmpyi882](../terms.d/TERM-tmpyi882.md)'s sense 2. It comes with criticality (statistical
 self-similarity at a fixed point, A6 §2) and with the onset of chaos (the
 attractor at r_∞ is a Cantor set rescaled by α at each level). Chaos
 itself neither needs it nor excludes it: the attractor of the logistic

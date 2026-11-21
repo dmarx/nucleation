@@ -25,7 +25,7 @@ grounds:
 - CASE-152
 summary: >-
   Fills a gap the ledger found in A39's claim that singular modes could
-  stand in for critical slowing (CLAIM-tmpv5asv) in the exchange "Rich Get
+  stand in for critical slowing ([CLAIM-tmpv5asv](CLAIM-tmpv5asv.md)) in the exchange "Rich Get
   Richer Power Laws" (2026-11-21): A gives no step from one algebraic mode
   to a broad distribution of timescales. This is one step, derived and
   checked numerically. The wording is the assistant's (Claude, in this
@@ -38,14 +38,14 @@ summary: >-
 
 ## The claim
 
-Take K = a²b², a dormant feature whose target is zero (A37 §2; CASE-152's
+Take K = a²b², a dormant feature whose target is zero (A37 §2; [CASE-152](../cases.d/CASE-152.md)'s
 model). Gradient flow ȧ = −2ab², ḃ = −2a²b conserves D = a² − b². The
 product q = ab obeys q̇ = −2q√(D² + 4q²), which integrates to
 
   |q(t)| = |D| / (2 sinh(asinh(|D|/(2|q₀|)) + 2|D|t)).
 
 At D = 0 this is q₀/(1 + 4q₀t), the balanced line's algebraic decay
-(CLAIM-tmpcbfdj). For D ≠ 0 it is algebraic until t ≈ 1/|D|, then
+([CLAIM-tmpcbfdj](CLAIM-tmpcbfdj.md)). For D ≠ 0 it is algebraic until t ≈ 1/|D|, then
 exponential at rate 2|D|.
 
 Now take many independent modes started at a, b ∼ N(0, σ²). The rate 2|D|
@@ -68,7 +68,7 @@ at t = 10⁵, −1.855 against −1.853 observed, and −2.855 against −2.844.
 
 ## What it shows
 
-It answers the ledger's gap at CLAIM-tmpv5asv: a step from single
+It answers the ledger's gap at [CLAIM-tmpv5asv](CLAIM-tmpv5asv.md): a step from single
 singular modes to a power law in aggregate relaxation. The step needs no
 criticality, no hierarchy of degeneracies and no tuning, only factored
 parameters, a small random start and a zero target. The exponent is set by
@@ -79,7 +79,7 @@ learning coefficient: every mode here has λ = ½ and m = 2.
 
 - That the power laws seen in training come from this. Real modes are
   coupled, have nonzero targets, and train under noise and weight decay,
-  which breaks the conservation of D (CLAIM-tmp9bp04's objective does).
+  which breaks the conservation of D ([CLAIM-tmp9bp04](CLAIM-tmp9bp04.md)'s objective does).
 - That the exponent is universal. A different start, for example a
   balanced one (D ≡ 0), gives ⟨|q|⟩ ∼ 1/(4t) instead.
 - That rates distributed down to zero are new as a source of power laws:

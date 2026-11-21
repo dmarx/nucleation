@@ -20,7 +20,7 @@ summary: >-
   A41 §§2 and 8 of the exchange "Rich Get Richer Power Laws" (2026-11-21)
   offer four findings on small spectral directions as "a powerful
   correction to our hyperribbon account". They bear on the claim A41 also makes, that
-  metrics disagree (CLAIM-tmppkdjz). They do not bear on the hyperribbon,
+  metrics disagree ([CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md)). They do not bear on the hyperribbon,
   which is defined in the metric of the predictions, a spectrum none of
   them measures. The ledger flagged the conflation at A41's L26. The
   wording is the assistant's (Claude, in this session); adopting it is the
@@ -35,12 +35,12 @@ summary: >-
 
 A41 cites four findings: zeroing the small singular values of transformer
 weight matrices damages the model, and after fine-tuning the smallest
-decile matters (Staats et al., held as THEORY-420); concept directions
+decile matters (Staats et al., held as [THEORY-420](../theory.d/THEORY-420.md)); concept directions
 sit in the low-variance tail of the unembedding covariance (Acharya et
-al., LIT-tmp0gbj6); SGD progresses in the loss Hessian's bulk, not its top
-subspace (Song et al., LIT-tmp83hha); and perturbing the unembedding's
+al., [LIT-tmp0gbj6](../literature.d/LIT-tmp0gbj6.md)); SGD progresses in the loss Hessian's bulk, not its top
+subspace (Song et al., [LIT-tmp83hha](../literature.d/LIT-tmp83hha.md)); and perturbing the unembedding's
 least-amplified directions moves next-token distributions more than
-matched random perturbations (Xu, LIT-tmp4det7). From these A41 §8
+matched random perturbations (Xu, [LIT-tmp4det7](../literature.d/LIT-tmp4det7.md)). From these A41 §8
 concludes two things. First, "the hierarchy of geometric magnitude can be
 very different from the hierarchy of functional significance". Second,
 "We originally treated the hyperribbon hierarchy as a hierarchy of
@@ -54,9 +54,9 @@ combinations are distinguishable under a particular observation metric."
   (weight singular value, representation variance, Hessian curvature,
   logit amplification) against a large effect in another (task loss,
   concept separation, training progress, predictive change). That is an
-  instance of metrics disagreeing, which is CLAIM-tmppkdjz. For the
+  instance of metrics disagreeing, which is [CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md). For the
   second, no. A hyperribbon is defined in the Fisher metric of the
-  model's predictions under its stated noise (LIT-tmpd3swn, unread): its
+  model's predictions under its stated noise ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), unread): its
   thin directions are those that change the predictions little, which is
   what "unimportant for prediction" means. None of the four findings
   measures that spectrum for parameters. Xu's G_pred is a predictive
@@ -76,7 +76,7 @@ combinations are distinguishable under a particular observation metric."
 
 ## Verdict
 
-Supports CLAIM-tmppkdjz as instances, pending the readings. Does not
+Supports [CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md) as instances, pending the readings. Does not
 support A41 §2's "correction to our hyperribbon account". What A41 §8 states
 correctly, that a hyperribbon is relative to its observation metric, was
 true by the hyperribbon's definition. It is not a lesson of the

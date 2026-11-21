@@ -34,14 +34,15 @@ summary: >-
   power-law spectrum C j^(−p) resolves about (nC)^(1/p) directions and an
   exponential one about ln(nC)/a; "a model does not necessarily possess
   one fixed practical dimensionality". Coarse-graining, which the record
-  holds as compressing parameter space (THEORY-777, THEORY-742), moves the
+  holds as compressing parameter space ([THEORY-777](../theory.d/THEORY-777.md), [THEORY-742](../theory.d/THEORY-742.md)), moves the
   count down; more data move it up. The assistant checked both counts.
   The wording is A's (the other assistant in the exchange "Rich Get Richer
   Power Laws", A21); adopting it is the owner's call.
+bears_on:
+- QUESTION-tmpzlagu
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the compression half -->
-<!-- inactive-ok-file: LIT-tmpm1tji — Deferred, registered 2026-11-21 from the exchange, unread -->
-<!-- inactive-ok-file: TERM-tmp5z2du CLAIM-tmpyxiwv QUESTION-tmpzlagu — filed with this claim from the same exchange, Proposed -->
+<!-- inactive-ok-file: TERM-tmp5z2du CLAIM-tmpyxiwv — filed with this claim from the same exchange, Proposed -->
 
 # CLAIM-tmpj0k4q: A model has no single practical dimension: the number of parameter directions a data set resolves grows with the data, as a power of the sample size when the Fisher spectrum falls as a power of rank and as its logarithm when it falls exponentially, so zooming out and demanding precision move effective dimension in opposite directions
 
@@ -86,16 +87,16 @@ not kept; the method is as stated.)
   connecting the Fisher spectrum to the amount of predictive
   information". It needs Fisher information linear in n and a fixed
   eigenbasis, which a nonlinear model gives only near a point and a
-  singular model not at all (THEORY-1253). The link to predictive
-  information that A leaves out is CLAIM-tmpyxiwv.
+  singular model not at all ([THEORY-1253](../theory.d/THEORY-1253.md)). The link to predictive
+  information that A leaves out is [CLAIM-tmpyxiwv](CLAIM-tmpyxiwv.md).
 - **Not that the spectrum is the same for every experiment.** The
-  spectrum is that of one design (TERM-tmp5z2du, condition 1); the
-  record's cases spread only under coarse observation (THEORY-774,
-  THEORY-777).
+  spectrum is that of one design ([TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md), condition 1); the
+  record's cases spread only under coarse observation ([THEORY-774](../theory.d/THEORY-774.md),
+  [THEORY-777](../theory.d/THEORY-777.md)).
 - **Not that a fractal is the same thing.** A21 §5–6 likens the growth to
   "a fractal at increasing resolution" and reads box-counting dimension as
   bits gained per doubling of resolution (log₂ 3 ≈ 1.585 for the
   Sierpiński triangle, which the assistant confirmed). A gives no shared
   measure across the fractal, parameter and predictive settings, and its
   table of "complexity as a function of scale" is an analogy, not a
-  result. Which of these dimensions agree is QUESTION-tmpzlagu.
+  result. Which of these dimensions agree is [QUESTION-tmpzlagu](../questions.d/QUESTION-tmpzlagu.md).

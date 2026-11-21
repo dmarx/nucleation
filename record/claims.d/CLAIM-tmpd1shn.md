@@ -19,8 +19,6 @@ tags:
 date: '2026-11-21'
 line:
 - formal-apparatus
-supports:
-- CLAIM-tmpask80
 grounds:
 - LIT-tmp7sbn6
 summary: >-
@@ -37,8 +35,9 @@ summary: >-
   capacity rises toward a = 1. Checked analytically and by simulation.
   The wording is the assistant's (Claude, in this session); adopting it
   is the owner's call.
+bears_on:
+- QUESTION-tmp2hhlc
 ---
-<!-- inactive-ok-file: CLAIM-tmpask80 ARG-tmpubyzo QUESTION-tmp2hhlc — filed with this claim from the same exchange, Proposed or Open -->
 <!-- inactive-ok-file: LIT-tmp7sbn6 — Deferred, registered 2026-11-21 from the exchange, unread -->
 
 # CLAIM-tmpd1shn: In the scalar linear reservoir x(t+1) = a x(t) + u(t) + η(t), the gain a does not trade memory against noise: the state's signal-to-noise ratio and its total linear memory capacity s²/(s²+σ²) do not depend on a, which only spreads that capacity over lags; recalling the input k steps back is best at a = √(k/(k+1)), and noise added at the readout makes capacity rise monotonically toward a = 1
@@ -67,7 +66,7 @@ Let u and η be independent white sequences of variance s² and σ², and
   of its variance.
 - **Total capacity.** Σ_{k≥0} m_k = s²/(s² + σ²), independent of a. At
   σ = 0 it is 1, the number of state variables: the scalar case of the
-  bound A attributes to Dambre and colleagues (LIT-tmp7sbn6, unread), and
+  bound A attributes to Dambre and colleagues ([LIT-tmp7sbn6](../literature.d/LIT-tmp7sbn6.md), unread), and
   of Jaeger's earlier bound on linear memory capacity, not registered.
 - **Where the gain matters.** It moves capacity between lags: at a = 0.5,
   m_0 = 0.75 and m_10 ≈ 0 (σ = 0); at a = 0.99, m_0 = 0.020 and

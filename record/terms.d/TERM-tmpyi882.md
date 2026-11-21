@@ -17,7 +17,7 @@ summary: >-
   correlation, geometry or dynamics that is unchanged by a change of scale
   up to a rescaling (self-similarity proper), and a power spectrum. For a
   stationary field the third is the second stated in Fourier coordinates;
-  otherwise none implies another (CLAIM-tmpwl8y8). Fills the gap the ledgers
+  otherwise none implies another ([CLAIM-tmpwl8y8](../claims.d/CLAIM-tmpwl8y8.md)). Fills the gap the ledgers
   name, that the record had no word separating these, and answers the
   self-similarity half of the owner's U4. The distinctions are A's, spread
   over A6 §6, A10 §1–2, A23 §2, A24 §3, A26 §9 and A27 §9; the definition,
@@ -66,15 +66,15 @@ is meant must be said, because they come apart.
 - **Sense 3 is sense 2 for the two-point function, when the field is
   stationary.** The power spectrum is the Fourier transform of the
   two-point correlation, so C(r) ∝ r^(−a) with 0 < a < d corresponds to
-  S(k) ∝ k^(a−d). The Gaussian field of CLAIM-tmpwl8y8 has S(k) ∝ k^(−2)
+  S(k) ∝ k^(a−d). The Gaussian field of [CLAIM-tmpwl8y8](../claims.d/CLAIM-tmpwl8y8.md) has S(k) ∝ k^(−2)
   and C(r) ∝ 1/r in d = 3. Treating a power-law spectrum and power-law
   correlations as two findings about one stationary signal double-counts
   one fact. The spectrum says nothing about higher-order statistics, which
-  is where multifractality (A23 §5) and flux (CLAIM-tmpbe2gh) live.
+  is where multifractality (A23 §5) and flux ([CLAIM-tmpbe2gh](../claims.d/CLAIM-tmpbe2gh.md)) live.
 - **Neither sense 2 nor sense 3 implies sense 1, and sense 1 implies
   neither.** A Gaussian field can have power-law correlations and
   Gaussian values; independent Pareto draws have a power-law tail and no
-  correlations at all, so a flat spectrum (CLAIM-tmpwl8y8, checked there).
+  correlations at all, so a flat spectrum ([CLAIM-tmpwl8y8](../claims.d/CLAIM-tmpwl8y8.md), checked there).
 - **The power law is the form of exact scale covariance.** If a positive
   measurable f satisfies f(bx) = g(b) f(x) for every b, x > 0, then
   g(ab) = g(a) g(b), a measurable multiplicative function, so g(b) = b^(−α)
@@ -99,7 +99,7 @@ is meant must be said, because they come apart.
 ## What it is not
 
 - **Not "critical".** Each sense can hold far from any tuned transition
-  (CLAIM-tmpsr8r4). Criticality is one mechanism for sense 2.
+  ([CLAIM-tmpsr8r4](../claims.d/CLAIM-tmpsr8r4.md)). Criticality is one mechanism for sense 2.
 - **Not "heavy-tailed" by default.** The exchange slides between "power
   law", "scale-free" and "heavy tail" from A1 to A10; A27 §9 is where it
   separates them: "Are unusually large outcomes disproportionately
@@ -107,10 +107,10 @@ is meant must be said, because they come apart.
   temporal scales related by the same mathematical law?"
 - **Not one relation to chaos.** The owner's U4 heard self-similarity in
   scale-free behaviour. That hearing is right for sense 2 and does not
-  follow for sense 1; how either bears on chaos is CLAIM-tmpyy261's
-  question (QUESTION-tmpyqohh).
-- **Not the record's earlier usage.** THEORY-803 (statistical
+  follow for sense 1; how either bears on chaos is [CLAIM-tmpyy261](../claims.d/CLAIM-tmpyy261.md)'s
+  question ([QUESTION-tmpyqohh](../questions.d/QUESTION-tmpyqohh.md)).
+- **Not the record's earlier usage.** [THEORY-803](../theory.d/THEORY-803.md) (statistical
   self-similarity of networks under geometric renormalization) is sense 2
   applied to a network's degree law and clustering; "scale-free
-  hierarchical multi-index target" in QUESTION-158 names weights a_k across
+  hierarchical multi-index target" in [QUESTION-158](../questions.d/QUESTION-158.md) names weights a_k across
   a target's directions, a rank-spectrum usage.

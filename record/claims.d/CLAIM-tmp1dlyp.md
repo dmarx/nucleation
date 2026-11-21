@@ -37,9 +37,11 @@ summary: >-
   are kept as glosses, not as further claims. The works are registered
   and unread. The wording is A's (the other assistant in the exchange
   "Rich Get Richer Power Laws", A5); adopting it is the owner's call.
+bears_on:
+- QUESTION-tmp21jtb
 ---
 <!-- inactive-ok-file: LIT-tmpchmeb LIT-tmpp451l LIT-tmpyexjc LIT-tmp1b7mm LIT-tmpl2b2l — Deferred; registered from this exchange and not read -->
-<!-- inactive-ok-file: THEORY-2131 CASE-tmpi5vfh CLAIM-769 CLAIM-tmpdusls CLAIM-tmpiervv CLAIM-tmp8h6nt QUESTION-tmp21jtb — Proposed or new; held readings and claims, and entries filed with this one -->
+<!-- inactive-ok-file: THEORY-2131 CASE-tmpi5vfh CLAIM-769 CLAIM-tmpdusls CLAIM-tmpiervv CLAIM-tmp8h6nt — Proposed or new; held readings and claims, and entries filed with this one -->
 
 # CLAIM-tmp1dlyp: Power laws arise from many mechanisms with no positive feedback: a branching process balanced between extinction and growth, a tuned critical point, first-passage times of a random walk, a mixture of exponential rates, sample-space reduction, steady growth with a spread of ages, and an inverse power of a uniform variable
 
@@ -48,11 +50,11 @@ summary: >-
 A5 opens: "there is a surprisingly large family of processes that generate
 power laws, many of which have **nothing to do with rich-get-richer
 dynamics, compounding wealth, or self-organized criticality**." Newman's
-review (LIT-tmpchmeb) is A's general reference.
+review ([LIT-tmpchmeb](../literature.d/LIT-tmpchmeb.md)) is A's general reference.
 
 1. **Critical branching** (§1). At R = 1 with finite, nonzero offspring
    variance, P(S = s) ∝ s^(−3/2). Checked for Poisson offspring in
-   CASE-tmpi5vfh. s^(3/2)·P(S = s) tends to (2π)^(−1/2) = 0.399.
+   [CASE-tmpi5vfh](../cases.d/CASE-tmpi5vfh.md). s^(3/2)·P(S = s) tends to (2π)^(−1/2) = 0.399.
 2. **Tuned criticality** (§2). Site percolation on the square lattice,
    p_c ≈ 0.5927, n_s ∝ s^(−τ) with τ = 187/91 ≈ 2.055 in two dimensions.
    The arithmetic checks. The exponent is the standard 2D value, not
@@ -63,31 +65,31 @@ review (LIT-tmpchmeb) is A's general reference.
    universality theorem". Checked: (1/t)·P(S_t = −1)·t^(3/2) tends to
    sqrt(2/π) = 0.798 (0.797 at t = 1,001), and simulation matches the
    formula (P(T = 11) 0.0210 simulated, 0.0205 exact). Why the 3/2 is
-   shared with item 1 is CLAIM-tmpdusls.
+   shared with item 1 is [CLAIM-tmpdusls](CLAIM-tmpdusls.md).
 4. **Mixtures** (§4). Exponential waiting times with gamma-distributed
    rates give P(T > t) = (b/(b + t))^a. Checked at a = 1.5, b = 2 by two
    million draws: 0.0680 against 0.0680 at t = 10, 0.00272 against
-   0.00275 at t = 100. The record holds this (THEORY-2131, CLAIM-769). A
-   adds superstatistics (Beck, LIT-tmp1b7mm) and the warning that "If a
+   0.00275 at t = 100. The record holds this ([THEORY-2131](../theory.d/THEORY-2131.md), [CLAIM-769](CLAIM-769.md)). A
+   adds superstatistics (Beck, [LIT-tmp1b7mm](../literature.d/LIT-tmp1b7mm.md)) and the warning that "If a
    dataset displays a power law, that does not necessarily mean any
    individual entity follows power-law dynamics". See the note of
-   2026-11-21 on CLAIM-769.
+   2026-11-21 on [CLAIM-769](CLAIM-769.md).
 5. **Sample-space reduction** (§5). A walk that jumps uniformly to a lower
    state until it reaches 1 visits state k with probability 1/k, Zipf's
-   law (Corominas-Murtra, Hanel and Thurner, LIT-tmpp451l, unnamed by
+   law (Corominas-Murtra, Hanel and Thurner, [LIT-tmpp451l](../literature.d/LIT-tmpp451l.md), unnamed by
    A). Checked over 200,000 runs from 100: 0.499, 0.199, 0.101 and 0.0201
    at k = 2, 5, 10 and 50.
 6. **Growth with a spread of ages** (§6). A common growth rate g and
    exponential ages with rate λ give P(S > s) = (s/S_0)^(−λ/g) (Reed,
-   LIT-tmpyexjc). Checked at λ = 1, g = 0.5: 0.0101 against 0.0100 at
+   [LIT-tmpyexjc](../literature.d/LIT-tmpyexjc.md)). Checked at λ = 1, g = 0.5: 0.0101 against 0.0100 at
    s = 10. "Even **identical growth rates** can coexist with highly
    unequal sizes."
 7. **Change of variables and geometry** (§7). X = 1/U gives P(X > x) =
    1/x, density x^(−2). A point uniform in a d-ball with influence r^(−β)
    gives P(F > f) = P(r < f^(−1/β)) = f^(−d/β).
 
-To these A3 adds the sandpile (Bak, Tang and Wiesenfeld, LIT-tmpl2b2l)
-and the Kesten process (CLAIM-tmpiervv), and A1 adds preferential
+To these A3 adds the sandpile (Bak, Tang and Wiesenfeld, [LIT-tmpl2b2l](../literature.d/LIT-tmpl2b2l.md))
+and the Kesten process ([CLAIM-tmpiervv](CLAIM-tmpiervv.md)), and A1 adds preferential
 attachment.
 
 ## Glosses kept, not filed
@@ -112,5 +114,5 @@ attachment.
 
 - Not that the list is complete, nor that the mechanisms are exclusive
   (A3 §4: "Real complex systems can combine all three").
-- Not which mechanism produced any observed tail (CLAIM-tmp8h6nt).
-- Not what fixes the exponents (QUESTION-tmp21jtb).
+- Not which mechanism produced any observed tail ([CLAIM-tmp8h6nt](CLAIM-tmp8h6nt.md)).
+- Not what fixes the exponents ([QUESTION-tmp21jtb](../questions.d/QUESTION-tmp21jtb.md)).

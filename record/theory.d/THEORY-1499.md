@@ -105,7 +105,7 @@ mark on relative size.
 A1 §5 of that exchange lists cities among the settings of cumulative
 advantage: "Large cities attract businesses, workers, and investment".
 It adds that the settings "don't all necessarily exhibit a pure
-power-law distribution" (CLAIM-tmpepx9m). This reading cuts against the
+power-law distribution" ([CLAIM-tmpepx9m](../claims.d/CLAIM-tmpepx9m.md)). This reading cuts against the
 strong form of that example. If city size were driven by cumulative
 advantage alone, a shock that took away a large share of a city's
 population would set it on a lower path for good. Davis and Weinstein find

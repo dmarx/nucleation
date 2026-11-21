@@ -12,7 +12,7 @@ line:
 - formal-apparatus
 summary: >-
   Two simulations run with python3 -I in this session to check the
-  owner's bulk-and-tail conjecture (CLAIM-tmpr9au6, U5 of the exchange
+  owner's bulk-and-tail conjecture ([CLAIM-tmpr9au6](../claims.d/CLAIM-tmpr9au6.md), U5 of the exchange
   "Rich Get Richer Power Laws") in its gap reading. In 2D site percolation
   on a 2,000 × 2,000 lattice, the cluster-size histogram has no gap at
   p = 0.50, 0.55 or 0.58 and a wide one at 0.62 and 0.65, where one
@@ -22,7 +22,7 @@ summary: >-
   The construction is the assistant's (Claude, in this session); adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpr9au6 CLAIM-tmpvrbdt — Proposed or new; the owner's conjecture and the reading this case checks -->
+<!-- inactive-ok-file: CLAIM-tmpr9au6 — Proposed or new; the owner's conjecture and the reading this case checks -->
 
 # CASE-tmpykltu: Cluster sizes in two-dimensional site percolation and final sizes of a small Reed–Frost epidemic, below and above their thresholds
 

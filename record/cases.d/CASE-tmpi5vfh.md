@@ -38,7 +38,7 @@ law
 
 which for large s is (2π)^(−1/2) R^(−1) s^(−3/2) e^(−s/s_c) with
 s_c = 1/(R − 1 − ln R) ≈ 2/(1 − R)^2 near R = 1. The law is the
-hitting-time identity of CLAIM-tmpdusls applied to Poisson offspring. Its
+hitting-time identity of [CLAIM-tmpdusls](../claims.d/CLAIM-tmpdusls.md) applied to Poisson offspring. Its
 mean is 1/(1 − R) and its variance R/(1 − R)^3 for R < 1. At R = 1 the
 cascade still ends with probability one, but its mean is infinite.
 
@@ -61,13 +61,13 @@ cascade still ends with probability one, but its mean is infinite.
 ## Added rows (the assistant's)
 
 - No gap: the law is strictly decreasing in s at every R checked
-  (CLAIM-tmpvrbdt).
+  ([CLAIM-tmpvrbdt](../claims.d/CLAIM-tmpvrbdt.md)).
 - The bulk holds while the cutoff runs: the median is 2 at R = 0.9, 0.99
   and 0.999, and the share beyond s_c is about 0.05·(1 − R)
-  (CLAIM-tmplb1ow).
+  ([CLAIM-tmplb1ow](../claims.d/CLAIM-tmplb1ow.md)).
 - Count against total: at R = 0.99 the cascades larger than 1,000 are
   1.66% of cascades and 75.6% of all events; those above 100 are 7.1% and
-  92.6% (CLAIM-tmpninc2).
+  92.6% ([CLAIM-tmpninc2](../claims.d/CLAIM-tmpninc2.md)).
 
 ## The check
 

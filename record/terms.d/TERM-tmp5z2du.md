@@ -21,10 +21,10 @@ summary: >-
   directions and thinner along each further one, the widths falling
   roughly geometrically, so there is no sharp line between the parameter
   combinations that matter and those that do not. The record held the
-  sloppy Fisher spectra that produce it (THEORY-774, THEORY-777) but had
+  sloppy Fisher spectra that produce it ([THEORY-774](../theory.d/THEORY-774.md), [THEORY-777](../theory.d/THEORY-777.md)) but had
   no word for the shape, which the exchange returns to from A38 on, where
   the owner ties it to Watanabe's stratification (U24). The term is from
-  Transtrum, Machta and Sethna (LIT-tmpd3swn, LIT-tmpzkxka, unread); the
+  Transtrum, Machta and Sethna ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), unread); the
   conditions in the definition, and the separation from a power law in
   event sizes, are the assistant's checks of A's wording. The wording is
   A's (the other assistant in the exchange "Rich Get Richer Power Laws",
@@ -32,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the record's evidence for the critical-Ising spectrum -->
 <!-- inactive-ok-file: LIT-tmpd3swn LIT-tmpzkxka LIT-tmpm1tji LIT-tmp0fpti LIT-tmpdz70v LIT-tmpsqbr9 — Deferred, registered 2026-11-21 from the exchange, unread -->
-<!-- inactive-ok-file: CLAIM-tmpficzj CLAIM-tmpj0k4q QUESTION-tmpzlagu — filed with this term from the same exchange, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmpj0k4q — filed with this term from the same exchange, Proposed -->
 
 # TERM-tmp5z2du: hyperribbon: a model manifold whose widths across successive orthogonal directions fall roughly geometrically, the prediction-space face of a sloppy Fisher spectrum
 
@@ -78,15 +78,15 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
    coordinates." In the record's two worked cases the spread appears only
    through coarse observation: the hopping model's eigenvalues separate by
    a factor of order t when the density is seen after t steps
-   (THEORY-774), and the critical Ising model's irrelevant directions fall
+   ([THEORY-774](../theory.d/THEORY-774.md)), and the critical Ising model's irrelevant directions fall
    by up to six decades under decimation while the field and the
-   T_c gradient stay (THEORY-777, THEORY-742).
+   T_c gradient stay ([THEORY-777](../theory.d/THEORY-777.md), [THEORY-742](../theory.d/THEORY-742.md)).
 2. *Regular, not singular.* The local reading needs a Fisher matrix of
    full rank where it is evaluated. At a singular point, where it loses
    rank, the widths do not shrink smoothly to zero along a direction; the
    manifold folds or pinches, and the Bayesian count of effective
    parameters is set by the learning coefficient rather than by the
-   spectrum (THEORY-087, THEORY-1253). How the two pictures meet is the
+   spectrum ([THEORY-087](../theory.d/THEORY-087.md), [THEORY-1253](../theory.d/THEORY-1253.md)). How the two pictures meet is the
    owner's question at U24, left to the filing of that turn.
 
 ## What it is not
@@ -100,27 +100,27 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
   distinguishability under one experiment; a power-law tail is a
   statement about the distribution of one observable.
 - **Not RG relevance.** In suitable settings the stiff directions after
-  coarse-graining are the relevant ones (THEORY-777, THEORY-742), but
+  coarse-graining are the relevant ones ([THEORY-777](../theory.d/THEORY-777.md), [THEORY-742](../theory.d/THEORY-742.md)), but
   stiffness depends on the measurement and coordinates and relevance on a
   fixed point and a scale map (A19 §5). A19 §5's table gives critical
   exponents as the rates at which perturbations "grow or shrink under
   rescaling"; for the Fisher eigenvalues the record's reading has the
   rate b^(2y−d) per step, with the dimension d in it, not b^y
-  (THEORY-777), and the exact transfer of the metric needs the
-  renormalized Hamiltonian to stay in the family (THEORY-742).
+  ([THEORY-777](../theory.d/THEORY-777.md)), and the exact transfer of the metric needs the
+  renormalized Hamiltonian to stay in the family ([THEORY-742](../theory.d/THEORY-742.md)).
 - **Not a count of parameters.** Neither a hyperribbon's dimension nor
   its number of "wide" directions is fixed: how many directions a data set
-  resolves grows with the data (CLAIM-tmpj0k4q), and which of several
-  effective dimensions is meant is open (QUESTION-tmpzlagu).
+  resolves grows with the data ([CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md)), and which of several
+  effective dimensions is meant is open ([QUESTION-tmpzlagu](../questions.d/QUESTION-tmpzlagu.md)).
 
 ## Sources
 
 The term and the geometry: Transtrum, Machta and Sethna 2010 and 2011
-(LIT-tmpd3swn, LIT-tmpzkxka), and the review by Transtrum and colleagues
-2015 (LIT-tmpm1tji) and by Quinn and colleagues 2023 (LIT-tmp0fpti), the
+([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md)), and the review by Transtrum and colleagues
+2015 ([LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md)) and by Quinn and colleagues 2023 ([LIT-tmp0fpti](../literature.d/LIT-tmp0fpti.md)), the
 work A19 links. The method of reducing a model along its thin directions
 to the manifold's boundary, which A19 §4 names: Transtrum and Qiu 2014
-(LIT-tmpdz70v). The empirical base in systems biology: Gutenkunst and
-colleagues 2007 (LIT-tmpsqbr9). All are Deferred and unread; the
+([LIT-tmpdz70v](../literature.d/LIT-tmpdz70v.md)). The empirical base in systems biology: Gutenkunst and
+colleagues 2007 ([LIT-tmpsqbr9](../literature.d/LIT-tmpsqbr9.md)). All are Deferred and unread; the
 definition rests on A's wording and on the record's readings of
-THEORY-774, THEORY-777 and THEORY-742.
+[THEORY-774](../theory.d/THEORY-774.md), [THEORY-777](../theory.d/THEORY-777.md) and [THEORY-742](../theory.d/THEORY-742.md).

@@ -32,8 +32,10 @@ summary: >-
   time. The cycle lemma gives the factor 1/s, and the local central limit
   theorem gives s^(−1/2) at zero drift. Off balance, the same local
   probability decays exponentially, which gives the cutoff of
-  CASE-tmpi5vfh. Checked with python3 -I. The wording is the assistant's
+  [CASE-tmpi5vfh](../cases.d/CASE-tmpi5vfh.md). Checked with python3 -I. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
+bears_on:
+- QUESTION-tmp21jtb
 ---
 <!-- inactive-ok-file: CASE-tmpi5vfh CLAIM-tmp1dlyp — Proposed or new; the case and catalogue claim filed with this one from the same exchange -->
 <!-- inactive-ok-file: LIT-tmpchmeb — Deferred; registered from this exchange and not read -->
@@ -46,7 +48,7 @@ summary: >-
 branching processes. That is not entirely coincidental: the exploration
 of a branching tree can be represented using a random-walk-like process."
 A gives the picture and not the step. It is item 1 and item 3 of
-CLAIM-tmp1dlyp.
+[CLAIM-tmp1dlyp](CLAIM-tmp1dlyp.md).
 
 ## The step
 
@@ -72,7 +74,7 @@ The 3/2 is 1 from the cycle lemma plus 1/2 from diffusion. Off balance,
 E[X] = R < 1, P(W_n = −1) decays exponentially in n by large deviations.
 For Poisson offspring it is P(Poisson(Rs) = s − 1) ≈ e^(−s(R−1−ln R))/
 sqrt(2πs), which gives the cutoff s_c = 1/(R − 1 − ln R) of
-CASE-tmpi5vfh. So the same identity yields A7's "power law times a
+[CASE-tmpi5vfh](../cases.d/CASE-tmpi5vfh.md). So the same identity yields A7's "power law times a
 cutoff", and both the power and the cutoff.
 
 ## Checked (with python3 -I)
@@ -94,7 +96,7 @@ cutoff", and both the power and the cutoff.
   higher dimensions or with heavy-tailed steps.
 - Not that this was read in a source. The theorem is standard (Otter
   1949, Dwass 1969, Kemperman), none of it registered here. Newman's
-  review (LIT-tmpchmeb), A's reference, is unread.
+  review ([LIT-tmpchmeb](../literature.d/LIT-tmpchmeb.md)), A's reference, is unread.
 - On the objection: A gave the exploration picture. What is added is the
   identity that turns it into the exponent, and the cutoff that falls out
   of the same formula.

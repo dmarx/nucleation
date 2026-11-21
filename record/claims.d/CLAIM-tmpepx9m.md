@@ -48,13 +48,13 @@ summary: >-
 **One feedback, several names.** "The more you already have, the easier it
 becomes to get more … this is called *preferential attachment* or
 *cumulative advantage*", and "sometimes called the *Matthew effect*, after
-sociologist Robert K. Merton" (A1 §1; LIT-tmpw4ye0). A1 §7 separates three
+sociologist Robert K. Merton" (A1 §1; [LIT-tmpw4ye0](../literature.d/LIT-tmpw4ye0.md)). A1 §7 separates three
 things: "**Power law:** a statistical description … **Rich-get-richer:** a
 dynamic mechanism … **Preferential attachment:** a mathematical
 implementation of cumulative advantage."
 
-**The base case** (A1 §3; Barabási and Albert, LIT-tmpx3y6w, and the
-*Network Science* chapter, LIT-tmp5cw2k). A new node links to node i with
+**The base case** (A1 §3; Barabási and Albert, [LIT-tmpx3y6w](../literature.d/LIT-tmpx3y6w.md), and the
+*Network Science* chapter, [LIT-tmp5cw2k](../literature.d/LIT-tmp5cw2k.md)). A new node links to node i with
 probability k_i/Σk_j. Then dk_i/dt = k_i/2t, so k_i(t) ≈ (t/t_i)^(1/2).
 Uniform birth times give P(K ≥ k) ∝ k^(−2) and P(K = k) ∝ k^(−3).
 
@@ -63,7 +63,7 @@ does not guarantee this result. The combination of growth, the form of
 attachment, and other model assumptions determines the distribution." And
 "unequal outcomes can arise without unequal innate abilities", though
 "observed success can reflect a mixture of quality, luck, timing, and
-cumulative advantage". A3 cites Mitzenmacher's review (LIT-tmpwdtfj). A3's
+cumulative advantage". A3 cites Mitzenmacher's review ([LIT-tmpwdtfj](../literature.d/LIT-tmpwdtfj.md)). A3's
 Alice and Bob make the point that under linear attachment the leader
 gains more in absolute terms and not in percentage terms.
 
@@ -71,7 +71,7 @@ gains more in absolute terms and not in percentage terms.
 gives "Exponential-type", 0 < α < 1 "Stretched-exponential tail", α = 1
 "Power-law", α > 1 "Strong concentration; potentially winner-take-all". A
 does not name the source. It is Krapivsky, Redner and Leyvraz
-(LIT-tmp959qu). Hence "**having cumulative advantage is not enough to
+([LIT-tmp959qu](../literature.d/LIT-tmp959qu.md)). Hence "**having cumulative advantage is not enough to
 guarantee a power law**."
 
 ## Checked (the assistant, with python3 -I)
@@ -98,17 +98,17 @@ agree.
   growth.** A3 §4 says preferential attachment "itself involves
   proportional expected growth", yet A contrasts it with multiplicative
   growth, which gives a lognormal. The difference is continual entry,
-  which gives a spread of ages. CLAIM-tmply70l works this out. It is the
+  which gives a spread of ages. [CLAIM-tmply70l](CLAIM-tmply70l.md) works this out. It is the
   "growth" half of A3's "growth plus attachment".
 - **The test for attachment** that A proposes (A3 §5, does a node with
   twice the degree get twice the new links?) is taken up in
-  CLAIM-tmp8h6nt, with its confound.
+  [CLAIM-tmp8h6nt](CLAIM-tmp8h6nt.md), with its confound.
 - **Path dependence** (A1 §6: "The eventual winner need not be the
   intrinsically best option") is held for urn-type lock-in in
-  THEORY-1927, CLAIM-184 and CLAIM-677. A adds the link to heavy tails,
+  [THEORY-1927](../theory.d/THEORY-1927.md), [CLAIM-184](CLAIM-184.md) and [CLAIM-677](CLAIM-677.md). A adds the link to heavy tails,
   which this claim carries.
 - The record's one other route to power-law degree, hyperbolic geometry
-  (THEORY-188), needs no attachment at all.
+  ([THEORY-188](../theory.d/THEORY-188.md)), needs no attachment at all.
 
 ## What it does not say
 
@@ -116,6 +116,6 @@ agree.
   A1 §5's domain table (citations, social networks, cities, wealth,
   platforms, language) lists plausible feedbacks, "but they don't all
   necessarily exhibit a pure power-law distribution". On cities, see the
-  note of 2026-11-21 on THEORY-1499.
+  note of 2026-11-21 on [THEORY-1499](../theory.d/THEORY-1499.md).
 - Not the opposition A later draws between rich-get-richer and
-  criticality (CLAIM-tmp9a83b).
+  criticality ([CLAIM-tmp9a83b](CLAIM-tmp9a83b.md)).

@@ -134,7 +134,7 @@ question so far compares the first two. The third is a different kind of
 event: a change in what the model can do, measured by probes or held-out
 fit, which may happen inside one posterior region and one stretch of
 trajectory. A43 §13 splits it further into "t_encoded", "t_stable" and
-"t_behavioral" (CLAIM-tmpl9zw4). A gated feature model shows the stability
+"t_behavioral" ([CLAIM-tmpl9zw4](../claims.d/CLAIM-tmpl9zw4.md)). A gated feature model shows the stability
 crossing and the visible onset separated by a delay that grows with how
 long the feature sat below threshold.
 
@@ -144,6 +144,6 @@ answer that uses probe accuracy as its clock for training measures the
 third order, not the first. Second, where the training order is read
 from local learning-coefficient estimates, a change in the estimate can be
 a sloppy direction coming into resolution rather than a move between
-singular regions (CLAIM-tmpcg4uu). The owner's U23, that singular
+singular regions ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)). The owner's U23, that singular
 learning theory's account of transitions may serve the exchange's
-picture of staged learning, is CLAIM-tmpp83vc. No status changes.
+picture of staged learning, is [CLAIM-tmpp83vc](../claims.d/CLAIM-tmpp83vc.md). No status changes.
