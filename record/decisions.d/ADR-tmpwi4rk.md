@@ -17,7 +17,7 @@ summary: >-
   The owner's request of 2026-11-21, read as something the tooling keeps.
   The alternative to [ADR-tmp6xm7w](ADR-tmp6xm7w.md), which has the assistant keep it.
 ---
-<!-- inactive-ok-file: ADR-116 ADR-tmpq5b9e ADR-tmp6xm7w — Proposed; the staging decision, the grant this review point goes with, the regime, and the two readings -->
+<!-- inactive-ok-file: ADR-116 ADR-tmp6xm7w — Proposed; the staging decision, the grant this review point goes with, the regime, and the two readings -->
 
 # ADR-tmpwi4rk: Whenever staging is ahead of main, a pull request from staging into main is open for the owner, kept by a workflow: on every push to staging, a job opens one if none is open, so the review point exists without anyone remembering it
 

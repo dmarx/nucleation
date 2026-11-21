@@ -18,7 +18,7 @@ summary: >-
   keeps. One of two readings; the other, a workflow that keeps it, is the
   alternative decision filed beside it.
 ---
-<!-- inactive-ok-file: ADR-116 ADR-tmpq5b9e — Proposed; the staging decision, the grant this review point goes with, the regime, and the two readings -->
+<!-- inactive-ok-file: ADR-116 — Proposed; the staging decision, the grant this review point goes with, the regime, and the two readings -->
 
 # ADR-tmp6xm7w: Whenever staging is ahead of main, a pull request from staging into main is open for the owner, kept by the assistant: opened when the first merge into staging leaves it ahead, its description kept to what the batch holds and the choices waiting in it
 
