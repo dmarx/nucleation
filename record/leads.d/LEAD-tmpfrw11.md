@@ -38,7 +38,7 @@ summary: >-
   research design, A39 §8's combined measurement, A41 §7's tracking of
   variance, task sensitivity and the learning coefficient, and A43 §16's
   "decisive experiment" with interventions and a control. The assistant
-  adds one measurement from CLAIM-tmpcg4uu: estimate the learning
+  adds one measurement from [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md): estimate the learning
   coefficient at several inverse temperatures and localizer precisions,
   with the sampler held fixed and checked for settling, so that a sloppy
   direction coming into resolution, or an unsettled sampler, is not read as
@@ -91,17 +91,17 @@ model where the answer is known in advance.
   transition.
 
 **The assistant's addition.** Estimate the learning coefficient with Lau
-et al.'s estimator (LIT-tmpnbl2d, THEORY-tmpousrw) at two or more inverse
+et al.'s estimator ([LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), [THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md)) at two or more inverse
 temperatures at each checkpoint, and at two or more localizer precisions
 γ. A sloppy regular direction coming into resolution raises the estimate
 at the rate of about ½ per direction resolved. A change of singular
-stratum moves its level (CLAIM-tmpcg4uu). One temperature cannot separate
+stratum moves its level ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)). One temperature cannot separate
 them. The protocol is the record's: the paper fixes β* = 1/log n and sets
 γ per experiment (1 or 100), and its consistency argument (App. D) is made
 only at β*.
 
 - **Vary γ as well as β.** On a quadratic loss the estimate is
-  Σ ½·te_i/(te_i + γ) with t = nβ (NOTE-tmp92pjh), so γ is a second cut-off:
+  Σ ½·te_i/(te_i + γ) with t = nβ ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md)), so γ is a second cut-off:
   a direction with curvature below about γ/t counts as flat.
 - **Hold the sampler fixed.** Step size, chain length, burn-in and batch
   size the same across compared checkpoints, as the paper does within a

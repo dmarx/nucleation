@@ -167,9 +167,9 @@ this out.
 
 ## Note of 2026-11-21: Bialek, Nemenman & Tishby, read
 
-A parallel. Bialek, Nemenman and Tishby (NOTE-tmpilbkz, §5.2 and §6)
+A parallel. Bialek, Nemenman and Tishby ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md), §5.2 and §6)
 identify statistical complexity with the entropy of the minimal
 compression of the past that keeps the predictive information, and frame
-that compression as an information bottleneck (LIT-338). This reading's
+that compression as an information bottleneck ([LIT-338](../literature.d/LIT-338.md)). This reading's
 result, that bottleneck optima coarsen the causal-state partition, is the
 precise form of what they sketch. No relation is written.

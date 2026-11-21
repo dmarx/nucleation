@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-21 (NOTE-tmpzxtnv, Read) from arXiv 1010.1449v1; filed as
-  THEORY-tmpgsgka. The record's main source for the geometry of sloppy
+  read 2026-11-21 ([NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md), Read) from arXiv 1010.1449v1; filed as
+  [THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md). The record's main source for the geometry of sloppy
   models: widths, their conditional match with √λ, and boundaries as
   metric singularities.
 title: 'The geometry of nonlinear least squares with applications to sloppy models and optimization'
@@ -52,4 +52,4 @@ Transtrum, Machta & Sethna (2011). Phys. Rev. E 83, 036701; arXiv 1010.1449.
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A invokes it without naming it at A19 and A38–A43 for the geometry of sloppy model manifolds. Read the same day (NOTE-tmpzxtnv) and filed as THEORY-tmpgsgka. The record's terms for sloppiness and the hyperribbon (TERM-tmptiim0, TERM-tmp5z2du) take their sense from it, and it bears on where sloppiness and singular strata meet (CLAIM-tmpcgvcp, CLAIM-tmpcg4uu, CLAIM-tmpa8hb2; ARG-tmpddtmr, ARG-tmp97cwb) and on networks (ARG-tmpv3nqz). It continues LIT-tmpd3swn.
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A invokes it without naming it at A19 and A38–A43 for the geometry of sloppy model manifolds. Read the same day ([NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md)) and filed as [THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md). The record's terms for sloppiness and the hyperribbon ([TERM-tmptiim0](../terms.d/TERM-tmptiim0.md), [TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)) take their sense from it, and it bears on where sloppiness and singular strata meet ([CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md), [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md), [CLAIM-tmpa8hb2](../claims.d/CLAIM-tmpa8hb2.md); [ARG-tmpddtmr](../arguments.d/ARG-tmpddtmr.md), [ARG-tmp97cwb](../arguments.d/ARG-tmp97cwb.md)) and on networks ([ARG-tmpv3nqz](../arguments.d/ARG-tmpv3nqz.md)). It continues [LIT-tmpd3swn](LIT-tmpd3swn.md).

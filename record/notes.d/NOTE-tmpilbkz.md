@@ -143,35 +143,35 @@ fluctuation term is then of leading order.
 ## Connections
 
 Contains Rissanen's stochastic complexity and Grassberger's measures; the
-information bottleneck (LIT-338) appears in §6 as a compression of the past
+information bottleneck ([LIT-338](../literature.d/LIT-338.md)) appears in §6 as a compression of the past
 that keeps I_pred, and §5.2 identifies statistical complexity with the
-entropy of the minimal such compression (THEORY-743, THEORY-756). The
+entropy of the minimal such compression ([THEORY-743](../theory.d/THEORY-743.md), [THEORY-756](../theory.d/THEORY-756.md)). The
 evidence-as-partition-function reading is the one LaMont and Wiggins later
-develop (LIT-1882, THEORY-1253).
+develop ([LIT-1882](../literature.d/LIT-1882.md), [THEORY-1253](../theory.d/THEORY-1253.md)).
 
 ## Bearing on the record
 
-Filed as THEORY-tmp3gj1j. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md). Dated notes of 2026-11-21 on each entry below.
 
-- **TERM-tmpxml4k**: supports; the paper's I_pred(T) has an infinite
+- **[TERM-tmpxml4k](../terms.d/TERM-tmpxml4k.md)**: supports; the paper's I_pred(T) has an infinite
   future, the term's a future of length T. Same regimes and log
   coefficient; for power-law growth cT^μ they differ by the factor
   (2 − 2^μ).
-- **CLAIM-tmpyxiwv**: (d/2) ln T is §4.1; T^(1/p) is an instance of §4.5 as
-  to exponent only; (ln T)²/(4a) is not in the paper. ARG-tmpy9b4f.
-- **CLAIM-tmp99m8g**: supports the split of entropy from complexity;
+- **[CLAIM-tmpyxiwv](../claims.d/CLAIM-tmpyxiwv.md)**: (d/2) ln T is §4.1; T^(1/p) is an instance of §4.5 as
+  to exponent only; (ln T)²/(4a) is not in the paper. [ARG-tmpy9b4f](../arguments.d/ARG-tmpy9b4f.md).
+- **[CLAIM-tmp99m8g](../claims.d/CLAIM-tmp99m8g.md)**: supports the split of entropy from complexity;
   asserts, without proof, that predictive information diverges at critical
-  points. ARG-tmpvo4gr.
-- **CLAIM-tmpj0k4q**: §4.5–4.6's effective parameter count growing as a
+  points. [ARG-tmpvo4gr](../arguments.d/ARG-tmpvo4gr.md).
+- **[CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md)**: §4.5–4.6's effective parameter count growing as a
   power of N corroborates its power-law half.
-- **QUESTION-tmpzlagu**: K, d and the VC dimension are three more
+- **[QUESTION-tmpzlagu](../questions.d/QUESTION-tmpzlagu.md)**: K, d and the VC dimension are three more
   effective dimensions.
-- **QUESTION-tmp2hhlc**: the criticality assertion bears on it; a
-  relation is written from THEORY-tmp3gj1j, and the question's dated note
+- **[QUESTION-tmp2hhlc](../questions.d/QUESTION-tmp2hhlc.md)**: the criticality assertion bears on it; a
+  relation is written from [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md), and the question's dated note
   is left to that entry's filer.
-- **LEAD-tmpl5wxz**: §6 relates divergence coefficients to scaling
+- **[LEAD-tmpl5wxz](../leads.d/LEAD-tmpl5wxz.md)**: §6 relates divergence coefficients to scaling
   dimensions, unworked.
-- **THEORY-087**, **THEORY-1253**, **THEORY-743**: parallel, as under
+- **[THEORY-087](../theory.d/THEORY-087.md)**, **[THEORY-1253](../theory.d/THEORY-1253.md)**, **[THEORY-743](../theory.d/THEORY-743.md)**: parallel, as under
   Connections.
 
 ## Limitations

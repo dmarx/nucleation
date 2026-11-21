@@ -44,7 +44,7 @@ Two parts.
    energy whose leading complexity term is still governed by a
    singularity invariant, and what plays λ's role?
 2. **Measurement.** Local learning-coefficient estimates (Lau et al.,
-   LIT-tmpnbl2d, read on 2026-11-21) are made at one network size, one
+   [LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), read on 2026-11-21) are made at one network size, one
    inverse temperature, β* = 1/log n, and one localizer precision γ. In the proportional regime, does a change in the estimate
    over training measure a change of singular stratum? Or is it confounded
    with sloppy directions coming into resolution, which [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)
@@ -77,7 +77,7 @@ readings `bear_on` the question as background, not as an answer.
 
 ## Note of 2026-11-21: Lau et al., read
 
-Read in NOTE-tmp92pjh (THEORY-tmpousrw). Partial evidence on part 2, none
+Read in [NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md) ([THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md)). Partial evidence on part 2, none
 on part 1.
 
 - **In one family with d > n, the estimate tracked the coefficient.** The
@@ -89,11 +89,11 @@ on part 1.
   were not varied with d/n fixed, and the outputs carry effectively no
   noise.
 - **The estimate has two cut-offs.** On a quadratic loss it is
-  Σ ½·te_i/(te_i + γ) with t = n/log n (NOTE-tmp92pjh), so both the sample
+  Σ ½·te_i/(te_i + γ) with t = n/log n ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md)), so both the sample
   size and the localizer decide which directions count; part 2's confound
-  with sloppy directions coming into resolution (CLAIM-tmpcg4uu) runs
+  with sloppy directions coming into resolution ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)) runs
   through both.
 - **Consistency is conjectured** in the paper (App. D), at β* only, with
   the conditions on γ open; it says nothing on the d-grows-with-n regime.
 
-The relation is written from THEORY-tmpousrw.
+The relation is written from [THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md).

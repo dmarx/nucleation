@@ -18,8 +18,8 @@ line:
 - learned-structure
 - formal-apparatus
 summary: >-
-  The owner's bet (CLAIM-tmpa8hb2) cited LIT-tmpd3swn and LIT-tmpzkxka
-  unread, and ARG-tmpj0r42 left the widths "unsupported until a reading of
+  The owner's bet ([CLAIM-tmpa8hb2](../claims.d/CLAIM-tmpa8hb2.md)) cited [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md) and [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md)
+  unread, and [ARG-tmpj0r42](ARG-tmpj0r42.md) left the widths "unsupported until a reading of
   the widths is filed". Read, Transtrum, Machta and Sethna make every
   boundary of the hyper-ribbon a point where the metric is singular,
   including a finite fold at equal rates: the connection at the edges is
@@ -34,13 +34,13 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpa8hb2, the owner's: Watanabe's stratification connects to the
-hyperribbon account. ARG-tmpj0r42 found support at fold edges and at
-finite n, and a gap at the widths. The 2011 paper (THEORY-tmpgsgka):
+[CLAIM-tmpa8hb2](../claims.d/CLAIM-tmpa8hb2.md), the owner's: Watanabe's stratification connects to the
+hyperribbon account. [ARG-tmpj0r42](ARG-tmpj0r42.md) found support at fold edges and at
+finite n, and a gap at the widths. The 2011 paper ([THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md)):
 "Model boundaries correspond to points on the manifold where the metric is
 singular"; of the equal-rate fold, "No parameters were at extreme values,
 but the model behavior was nonetheless singular"; with M < 2N finite
-singular points are generic. The 2010 letter (THEORY-tmpkoje5) lists
+singular points are generic. The 2010 letter ([THEORY-tmpkoje5](../theory.d/THEORY-tmpkoje5.md)) lists
 θ₁ = θ₂ among the two-exponential manifold's boundaries. So the hyper-ribbon
 is bounded by loci of rank loss of the very metric whose spectrum makes it
 sloppy: a regular interior with singular edges.
@@ -51,7 +51,7 @@ sloppy: a regular interior with singular edges.
   bounded image's edges are where the map's Jacobian loses rank is true of
   any smooth map with a fold or a limit; it is geometry, not a special tie
   to Watanabe. What is specific is that a sloppy direction ends there
-  (CASE-tmpb2gly), and the readings confirm the case's model is the
+  ([CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md)), and the readings confirm the case's model is the
   originators' own.
 - **Does it tell the bet apart from its rivals?** Against "unrelated":
   yes, at the edges. Against "the stratification organizes the widths":
@@ -64,7 +64,7 @@ sloppy: a regular interior with singular edges.
   finite point: "Typical boundaries occur when parameters are near their
   extreme values (such as ±∞ or zero)", and in log parameters all of them
   do. Reading those as strata needs a compactification, the gap
-  CLAIM-tmpnu4ar records; the finite folds are generic only when data are
+  [CLAIM-tmpnu4ar](../claims.d/CLAIM-tmpnu4ar.md) records; the finite folds are generic only when data are
   fewer than twice the parameters. And the widths match √λ only under
   conditions (natural units, central point), so the evidence stated in
   eigenvalues reaches the widths only there.
@@ -72,7 +72,7 @@ sloppy: a regular interior with singular edges.
 ## Verdict
 
 Supports the bet at the edges, now from the originators as well as from
-CASE-tmpb2gly; leaves the widths unconnected to strata, since the widths
-have an account of their own that does not use them. ARG-tmpj0r42's gap is
+[CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md); leaves the widths unconnected to strata, since the widths
+have an account of their own that does not use them. [ARG-tmpj0r42](ARG-tmpj0r42.md)'s gap is
 narrowed, not closed: a reading of the widths is filed, and it explains
 them otherwise. Proposed.

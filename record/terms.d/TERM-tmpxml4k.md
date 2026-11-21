@@ -53,7 +53,7 @@ ordinary, irreducible randomness disappears from this expression" (A21
 finite or not (A13 §5).
 
 Three regimes of growth (A21 §4, after Bialek, Nemenman and Tishby,
-LIT-tmpys7v3, read; THEORY-tmp3gj1j): bounded, as for a finite-state process; c log T, as
+[LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md), read; [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md)): bounded, as for a finite-state process; c log T, as
 for a model with finitely many parameters learned from the data; and
 c T^μ with 0 < μ < 1, as in some nonparametric problems. A's own caveat:
 "these regimes are not a one-to-one classification of physical
@@ -110,15 +110,15 @@ session, not kept; the method is as stated).
 
 ## Sources
 
-Bialek, Nemenman and Tishby 2001 (LIT-tmpys7v3, read on 2026-11-21 in
-NOTE-tmpilbkz) and Crutchfield and Feldman 2003 (LIT-tmpzs7sj, Deferred and
+Bialek, Nemenman and Tishby 2001 ([LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md), read on 2026-11-21 in
+[NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)) and Crutchfield and Feldman 2003 ([LIT-tmpzs7sj](../literature.d/LIT-tmpzs7sj.md), Deferred and
 unread). The relation to
 parameter count (½ log T per parameter) is the same coefficient the record
 holds as the Bayesian Occam penalty ([THEORY-087](../theory.d/THEORY-087.md)).
 
 ## Note of 2026-11-21: Bialek, Nemenman & Tishby, read
 
-Read in NOTE-tmpilbkz (THEORY-tmp3gj1j). It supports the term's regimes,
+Read in [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md) ([THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md)). It supports the term's regimes,
 its distinction and its condition 1, and differs from it in one
 convention.
 
@@ -142,4 +142,4 @@ convention.
   distinction" from unknown parameters (Eq. 69).
 - **"Not a sign of criticality."** The paper leans the other way, asserting
   without proof that predictive information diverges at critical points
-  (§6, fn. 9); A's caveat stays A's (CLAIM-tmp99m8g, ARG-tmpvo4gr).
+  (§6, fn. 9); A's caveat stays A's ([CLAIM-tmp99m8g](../claims.d/CLAIM-tmp99m8g.md), [ARG-tmpvo4gr](../arguments.d/ARG-tmpvo4gr.md)).

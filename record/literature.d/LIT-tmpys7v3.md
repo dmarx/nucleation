@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-21 (NOTE-tmpilbkz, Read) from arXiv physics/0007070v3;
-  filed as THEORY-tmp3gj1j. The source of predictive information and its
+  read 2026-11-21 ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md), Read) from arXiv physics/0007070v3;
+  filed as [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md). The source of predictive information and its
   three regimes of growth.
 title: 'Predictability, complexity and learning'
 version: 2
@@ -50,4 +50,4 @@ Bialek, Nemenman & Tishby (2001). arXiv physics/0007070.
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A invokes it without naming it at A13 and A21 for predictive information as a measure of complexity. Read the same day (NOTE-tmpilbkz) and filed as THEORY-tmp3gj1j. It is the source of TERM-tmpxml4k's regimes, grounds the logarithmic case of CLAIM-tmpyxiwv (ARG-tmpy9b4f) and corroborates CLAIM-tmp99m8g (ARG-tmpvo4gr) and CLAIM-tmpj0k4q.
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A invokes it without naming it at A13 and A21 for predictive information as a measure of complexity. Read the same day ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)) and filed as [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md). It is the source of [TERM-tmpxml4k](../terms.d/TERM-tmpxml4k.md)'s regimes, grounds the logarithmic case of [CLAIM-tmpyxiwv](../claims.d/CLAIM-tmpyxiwv.md) ([ARG-tmpy9b4f](../arguments.d/ARG-tmpy9b4f.md)) and corroborates [CLAIM-tmp99m8g](../claims.d/CLAIM-tmp99m8g.md) ([ARG-tmpvo4gr](../arguments.d/ARG-tmpvo4gr.md)) and [CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md).

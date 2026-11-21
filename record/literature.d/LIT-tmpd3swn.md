@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-21 (NOTE-tmpamhd2, Read) from arXiv 0909.3884v2; filed as
-  THEORY-tmpkoje5. The letter that named the hyper-ribbon: worth reading
+  read 2026-11-21 ([NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md), Read) from arXiv 0909.3884v2; filed as
+  [THEORY-tmpkoje5](../theory.d/THEORY-tmpkoje5.md). The letter that named the hyper-ribbon: worth reading
   for the geometric reading of sloppiness, its interpolation argument and
   its one width-spectrum comparison.
 title: 'Why are nonlinear fits so challenging?'
@@ -53,4 +53,4 @@ Transtrum, Machta & Sethna (2010). Phys. Rev. Lett. 104, 060201; arXiv 0909.3884
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A invokes it without naming it at A19 and A38–A43 for the hyperribbon geometry of sloppy model manifolds. Read the same day (NOTE-tmpamhd2) and filed as THEORY-tmpkoje5. The record uses it for the hyper-ribbon (TERM-tmp5z2du), for sloppiness (TERM-tmptiim0) and for the boundaries where the owner's bet connects strata to the hyperribbon (CLAIM-tmpa8hb2, ARG-tmp97cwb). The fuller treatment is LIT-tmpzkxka.
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A invokes it without naming it at A19 and A38–A43 for the hyperribbon geometry of sloppy model manifolds. Read the same day ([NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md)) and filed as [THEORY-tmpkoje5](../theory.d/THEORY-tmpkoje5.md). The record uses it for the hyper-ribbon ([TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)), for sloppiness ([TERM-tmptiim0](../terms.d/TERM-tmptiim0.md)) and for the boundaries where the owner's bet connects strata to the hyperribbon ([CLAIM-tmpa8hb2](../claims.d/CLAIM-tmpa8hb2.md), [ARG-tmp97cwb](../arguments.d/ARG-tmp97cwb.md)). The fuller treatment is [LIT-tmpzkxka](LIT-tmpzkxka.md).

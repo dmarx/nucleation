@@ -87,7 +87,7 @@ connection between two accounts of it.
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
 
 - **The reduction half is corroborated** by the 2015 review
-  (THEORY-tmpd7a4j): the manifold boundary approximation "approximate[s] a
+  ([THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md)): the manifold boundary approximation "approximate[s] a
   high-dimensional, but thin model manifold by its boundary", reducing the
   EGFR model from 48 parameters to 12 (§IV). The 2010 letter: "Most
   parameters in these models have bounded effects", settable to limiting

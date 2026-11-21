@@ -82,8 +82,8 @@ ln n/a = 9.2, 18.4, 27.6, 36.8 and 55.3. (A numpy script of this session,
 not kept; the method is as stated.)
 
 The work cited for the sloppy-model setting, Transtrum and colleagues'
-review (LIT-tmpm1tji), was read on 2026-11-21 and corroborates the
-compression half only (THEORY-tmpd7a4j, ARG-tmpu5yj6; see the note below).
+review ([LIT-tmpm1tji](../literature.d/LIT-tmpm1tji.md)), was read on 2026-11-21 and corroborates the
+compression half only ([THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md), [ARG-tmpu5yj6](../arguments.d/ARG-tmpu5yj6.md); see the note below).
 The count above does not depend on it.
 
 ## What it does not say
@@ -108,22 +108,22 @@ The count above does not depend on it.
 
 ## Note of 2026-11-21: Transtrum et al. (2015), Transtrum, Machta & Sethna (2010, 2011) and Bialek, Nemenman & Tishby, read
 
-- **The review** (NOTE-tmphbpab) supports the compression half: the
+- **The review** ([NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)) supports the compression half: the
   hopping model's manifold is a "hyper-blob" after one step and "as time
   proceeds, the model manifold contracts onto a hyper-ribbon". It says
   nothing of resolved directions growing with data; its nearest remark is
   the EGFR figure's cut at eigenvalues below 1. It was in the grounds,
-  unread; it carries less, and corroborates (ARG-tmpu5yj6).
-- **The 2010 letter** (NOTE-tmpamhd2) is a parallel: points added within the
+  unread; it carries less, and corroborates ([ARG-tmpu5yj6](../arguments.d/ARG-tmpu5yj6.md)).
+- **The 2010 letter** ([NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md)) is a parallel: points added within the
   radius of convergence "supply little new information", each
   cross-section a constant factor thinner, a geometric fall, which on this
   claim's terms gives logarithmic growth.
-- **The 2011 paper** (NOTE-tmpzxtnv) gives a count of the same kind in
+- **The 2011 paper** ([NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md)) gives a count of the same kind in
   noise rather than n: the expected number of parameters not evaporated at
   a best fit grows as log(W₀/σ)/|log ∆| for widths W₀∆ⁿ (Eq. 37), and "the
   errors must be smaller than the narrowest width for there to be no
   evaporated parameters". Background.
-- **Bialek, Nemenman and Tishby** (NOTE-tmpilbkz) corroborate the power-law
+- **Bialek, Nemenman and Tishby** ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)) corroborate the power-law
   half: with K ∼ N^ν effective parameters each new sample carries
   ∼ N^(ν−1) bits (§4.5), and in their worked nonparametric case the
   predictive information is "directly proportional to the number of bins

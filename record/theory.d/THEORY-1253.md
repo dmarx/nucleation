@@ -93,15 +93,15 @@ the direction of the RLCT.
 ## Note of 2026-11-21: Bialek, Nemenman & Tishby and Lau et al., read
 
 - **An earlier statement of the analogy.** Bialek, Nemenman and Tishby
-  (2001; NOTE-tmpilbkz) read the partition function Z(ᾱ; N) =
+  (2001; [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)) read the partition function Z(ᾱ; N) =
   ∫dα P(α) exp[−N D_KL(ᾱ‖α)] with "temperature ... inverse to the number of
   examples" (§4.2), and the learning curve as "the derivative of the
   predictive information". This reading's evidence-as-partition-function
   has that precedent.
-- **The estimator names it.** Lau et al. (NOTE-tmp92pjh, App. E): "the
+- **The estimator names it.** Lau et al. ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md), App. E): "the
   learning coefficient may be viewed as a heat capacity LaMont and Wiggins
   (2019)", and Chen, Chang and Chaudhari's learning capacity "can be viewed
   as a finite-n version of the learning coefficient". Their estimator is a
-  free-energy slope at effective sample size n/log n (CLAIM-tmpcg4uu,
+  free-energy slope at effective sample size n/log n ([CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md),
   corrected). A citation and a reading of the estimator, not a derivation.
 No relation is written.

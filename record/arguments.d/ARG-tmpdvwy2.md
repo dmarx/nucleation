@@ -15,9 +15,9 @@ line:
 - formal-apparatus
 - learned-structure
 summary: >-
-  CLAIM-tmpcg4uu reads a learning-coefficient estimate at finite n as
+  [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md) reads a learning-coefficient estimate at finite n as
   counting unresolved sloppy directions as flat, and cited Lau et al.
-  (LIT-tmpnbl2d) unread for the estimate. Read (NOTE-tmp92pjh), the paper
+  ([LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md)) unread for the estimate. Read ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md)), the paper
   neither states nor tests that reading. Its calibration underestimates
   mostly, which would fit it, but the authors attribute underestimation to
   an unsettled sampler, and the deep linear networks are not sloppy in a
@@ -32,10 +32,10 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpcg4uu, "where they meet (2)": at finite n a direction too sloppy to
+[CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md), "where they meet (2)": at finite n a direction too sloppy to
 resolve contributes to the learning coefficient no more than a flat one,
 so a single estimate cannot tell a sloppy regular model from a singular
-one. Lau et al. (THEORY-tmpousrw) calibrate their estimator in deep linear
+one. Lau et al. ([THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md)) calibrate their estimator in deep linear
 networks, and Fig. J.2's relative errors (λ − λ̂)/λ lie mostly between 0 and
 +0.8: the estimate falls short of the exact coefficient, as unresolved
 directions counted flat would make it.
@@ -54,7 +54,7 @@ directions counted flat would make it.
   mechanism from sampler bias.
 - **Does the measure measure what it is said to?** By its form, yes in the
   claim's sense: on a quadratic loss λ̂ = Σ ½ te_i/(te_i + γ) with
-  t = n/log n (NOTE-tmp92pjh, checked by Monte Carlo), so a direction with
+  t = n/log n ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md), checked by Monte Carlo), so a direction with
   e_i ≪ γ log n/n contributes nothing. That is a derivation from the
   estimator's definition, the filer's, not evidence from the paper; and it
   shows γ is a second cut-off the claim had not named (corrected there).

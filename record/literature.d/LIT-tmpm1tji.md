@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-21 (NOTE-tmphbpab, Read) from the arXiv v1 LaTeX source;
-  filed as THEORY-tmpd7a4j. The programme's own statement of what
+  read 2026-11-21 ([NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md), Read) from the arXiv v1 LaTeX source;
+  filed as [THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md). The programme's own statement of what
   sloppiness is and why it matters; a review, citing rather than deriving.
 title: 'Sloppiness and Emergent Theories in Physics, Biology, and Beyond'
 version: 2
@@ -52,4 +52,4 @@ Transtrum, Machta, Brown, Daniels, Myers & Sethna (2015). Perspective, J. Chem. 
 
 ## Standing in the record
 
-Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A invokes it without naming it at A17 and A19 for sloppiness as the reason emergent theories are possible. Read the same day (NOTE-tmphbpab) and filed as THEORY-tmpd7a4j. It grounds CLAIM-tmpficzj, corroborates CLAIM-tmpj0k4q (ARG-tmpu5yj6) and CLAIM-tmpnu4ar, and fixes the sense of TERM-tmptiim0. Its neural-network passage concerns an autoencoder's code (ARG-tmpv3nqz).
+Registered on 2026-11-21 from the exchange "Rich Get Richer Power Laws", where A invokes it without naming it at A17 and A19 for sloppiness as the reason emergent theories are possible. Read the same day ([NOTE-tmphbpab](../notes.d/NOTE-tmphbpab.md)) and filed as [THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md). It grounds [CLAIM-tmpficzj](../claims.d/CLAIM-tmpficzj.md), corroborates [CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md) ([ARG-tmpu5yj6](../arguments.d/ARG-tmpu5yj6.md)) and [CLAIM-tmpnu4ar](../claims.d/CLAIM-tmpnu4ar.md), and fixes the sense of [TERM-tmptiim0](../terms.d/TERM-tmptiim0.md). Its neural-network passage concerns an autoencoder's code ([ARG-tmpv3nqz](../arguments.d/ARG-tmpv3nqz.md)).

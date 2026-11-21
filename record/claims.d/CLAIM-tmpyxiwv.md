@@ -114,8 +114,8 @@ The assistant computed 2G(T) − G(2T) on a two-million-term spectrum
   0.88, 0.91 and 0.94 at T = 10², 10⁴, 10⁶, 10⁸, 10¹², approaching 1 as
   the subleading terms fade.
 
-The three regimes are Bialek, Nemenman and Tishby's (LIT-tmpys7v3), as A21
-§4 states them; the work was read on 2026-11-21 (THEORY-tmp3gj1j), and
+The three regimes are Bialek, Nemenman and Tishby's ([LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md)), as A21
+§4 states them; the work was read on 2026-11-21 ([THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md)), and
 what it carries is in the note below. The derivation
 and the check above do not depend on it; what does is the attribution of
 the regimes, taken from A.
@@ -137,8 +137,8 @@ the regimes, taken from A.
 
 ## Note of 2026-11-21: Bialek, Nemenman & Tishby, read
 
-Read in NOTE-tmpilbkz, filed as THEORY-tmp3gj1j, which replaces the unread
-LIT in this claim's grounds. What it carries (ARG-tmpy9b4f):
+Read in [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md), filed as [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md), which replaces the unread
+LIT in this claim's grounds. What it carries ([ARG-tmpy9b4f](../arguments.d/ARG-tmpy9b4f.md)):
 
 - **(d/2) ln T is theirs.** §4.1, Eq. 41: linear regression with Gaussian
   noise and a prior on the coefficients gives S₁(N) → (K/2) log₂ N,
@@ -152,7 +152,7 @@ LIT in this claim's grounds. What it carries (ARG-tmpy9b4f):
   claim's model is a case of it. The filer computed their annealed quantity
   in this model: S₁^(a) = G(N) + ½ Σ Nλ_j/(1 + Nλ_j), which for λ_j = j^(−p) grows
   as N^(1/p) with a coefficient larger than the exact G's by a factor
-  tending to 1 + 1/p (1.501 at p = 2, 1.341 at p = 3, N = 10⁶; NOTE-tmpilbkz).
+  tending to 1 + 1/p (1.501 at p = 2, 1.341 at p = 3, N = 10⁶; [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)).
   So the exponent agrees and the paper's coefficients should not be cited
   for it; the exact G above is the right object. The mapping is this
   claim's, not the paper's, which knew of no complete Bayesian family of

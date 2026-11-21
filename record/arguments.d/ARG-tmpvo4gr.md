@@ -16,12 +16,12 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 summary: >-
-  CLAIM-tmp99m8g grounded on LIT-tmpys7v3, unread, for predictive
-  information as a measure. Read (NOTE-tmpilbkz), the paper supports the
+  [CLAIM-tmp99m8g](../claims.d/CLAIM-tmp99m8g.md) grounded on [LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md), unread, for predictive
+  information as a measure. Read ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)), the paper supports the
   claim's separation of entropy from complexity, and on criticality it
   leans the other way, asserting divergence at critical points without
   proof. It carries less than a ground for the claim as titled, and moves to
-  corroborating it, through THEORY-tmp3gj1j. The wording is the
+  corroborating it, through [THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp99m8g THEORY-tmp3gj1j — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
@@ -30,7 +30,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmp99m8g: entropy, correlation and scaling are distinct, and a
+[CLAIM-tmp99m8g](../claims.d/CLAIM-tmp99m8g.md): entropy, correlation and scaling are distinct, and a
 critical point is not the maximum of complexity; predictive information,
 among others, "may or may not diverge" there (A21 §8). Bialek, Nemenman and
 Tishby: "predictability is a deviation from extensivity"; a complexity

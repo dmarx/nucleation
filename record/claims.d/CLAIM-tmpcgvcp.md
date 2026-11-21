@@ -59,8 +59,8 @@ is I = JᵀJ/σ² (A39 §1). Two different things can make a direction weak.
   identified given enough data. The record holds the eigenvalue spread
   for a physics model ([THEORY-774](../theory.d/THEORY-774.md)); the hyperribbon reading of it, a
   hierarchy of widths of the model image ([TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)), is in the Transtrum works
-  registered from the exchange (LIT-tmpd3swn, LIT-tmpzkxka), read on
-  2026-11-21 (THEORY-tmpkoje5, THEORY-tmpgsgka; see the note below).
+  registered from the exchange ([LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md)), read on
+  2026-11-21 ([THEORY-tmpkoje5](../theory.d/THEORY-tmpkoje5.md), [THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md); see the note below).
 - **Singularity.** J loses rank on a set of parameters, a stratum, where
   some parameter change has no first-order effect on the predictions.
   The Fisher matrix is not invertible there ([THEORY-082](../theory.d/THEORY-082.md)), and the
@@ -110,8 +110,8 @@ learning coefficient measured at finite n confounds them, is
 
 ## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011), read
 
-Read in NOTE-tmpamhd2 and NOTE-tmpzxtnv; the THEORYs replace the unread
-LITs in the grounds (ARG-tmpddtmr).
+Read in [NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md) and [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md); the THEORYs replace the unread
+LITs in the grounds ([ARG-tmpddtmr](../arguments.d/ARG-tmpddtmr.md)).
 
 - **Supports the separating example.** Linear polynomial fitting, with its
   Hilbert-matrix Hessian, is among the 2011 paper's own sloppy examples

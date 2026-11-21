@@ -94,7 +94,7 @@ in transformers.
 
 ## Note of 2026-11-21: Lau et al., read
 
-A caution from the estimator's source (NOTE-tmp92pjh, THEORY-tmpousrw) on
+A caution from the estimator's source ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md), [THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md)) on
 reading a change in local learning-coefficient estimates as a transition:
 the estimate is made at one inverse temperature, β* = 1/log n, with a
 localizer of precision γ, and both set which directions count (on a
@@ -103,5 +103,5 @@ conjecture; and an unsettled sampler underestimates ("If the step size is
 too low, the sampler may not equilibriate, leading to underestimation",
 App. H). A change in the estimate over training is evidence of a change of
 stratum only with the sampler settings fixed across checkpoints, settling
-checked, and β and γ varied (LEAD-tmpfrw11, CLAIM-tmpcg4uu). The paper
+checked, and β and γ varied ([LEAD-tmpfrw11](../leads.d/LEAD-tmpfrw11.md), [CLAIM-tmpcg4uu](CLAIM-tmpcg4uu.md)). The paper
 itself has no dynamical content beyond its Outlook.

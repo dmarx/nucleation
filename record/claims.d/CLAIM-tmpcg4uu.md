@@ -84,8 +84,8 @@ the owner's bet that holds as stated.
 
 **Where they meet (2): at a finite sample size.** Treat the slope
 λ(n) = −d log Z_n/d log n as a learning coefficient at scale n. This is the
-learning capacity of THEORY-1253. A local learning-coefficient estimate
-(Lau et al., LIT-tmpnbl2d, THEORY-tmpousrw) measures the same kind of
+learning capacity of [THEORY-1253](../theory.d/THEORY-1253.md). A local learning-coefficient estimate
+(Lau et al., [LIT-tmpnbl2d](../literature.d/LIT-tmpnbl2d.md), [THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md)) measures the same kind of
 slope of a localized free energy, at effective sample size n/log n
 (inverse temperature β* = 1/log n), with its localizing prior of
 precision γ in the role of the prior (corrected 2026-11-21; see the note
@@ -139,7 +139,7 @@ levels off below it.
   (corrected 2026-11-21 from "inverse square roots"). Transtrum, Machta
   and Sethna find widths ≈ √λ, the Jacobian's singular values, in natural
   or log units, from a central point, and not in magnitude for every model
-  (THEORY-tmpgsgka); 1/√λ is the width in parameter space of the ellipse
+  ([THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md)); 1/√λ is the width in parameter space of the ellipse
   of good fits. The claim is stated in eigenvalues, which the record holds.
 - It does not say every sloppy direction ends at a stratum. A linear
   model is sloppy and never singular ([CLAIM-tmpcgvcp](CLAIM-tmpcgvcp.md)).
@@ -161,9 +161,9 @@ eigenvalues" inverted the papers' relation: the 2011 paper finds the
 geodesic widths tracking the singular values of J, √λ, in natural or log
 units from a central point, exactly for polynomial fitting on a ball,
 within √(2/M) for exponentials in a continuum limit, and failing in
-magnitude for PC12 (NOTE-tmpzxtnv); the 2010 letter takes "the square root
-to match units" (NOTE-tmpamhd2). Corrected in place. (2) In Lau et al. "the inverse temperature is deliberately set to
-β∗ = 1/ log n" (NOTE-tmp92pjh), so the estimate is nβ*·(excess loss), a slope at effective
+magnitude for PC12 ([NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md)); the 2010 letter takes "the square root
+to match units" ([NOTE-tmpamhd2](../notes.d/NOTE-tmpamhd2.md)). Corrected in place. (2) In Lau et al. "the inverse temperature is deliberately set to
+β∗ = 1/ log n" ([NOTE-tmp92pjh](../notes.d/NOTE-tmp92pjh.md)), so the estimate is nβ*·(excess loss), a slope at effective
 sample size t = n/log n, not at "an inverse temperature of order n". On a
 quadratic loss ½Σe_i x_i² the estimate is Σ ½·te_i/(te_i + γ): a direction
 contributes ½ when e_i ≫ γ log n/n and nothing when e_i ≪ γ log n/n. The
@@ -173,14 +173,14 @@ at γ = 100 the formula gives 1.22). So the localizer's precision γ is a
 second cut-off beside the sample size, which this claim and its test had
 not named: a direction counts as flat if the data or the localizer leave
 it unresolved. The test the claim proposes, the estimate's dependence on
-its inverse temperature, should also vary γ (LEAD-tmpfrw11).
+its inverse temperature, should also vary γ ([LEAD-tmpfrw11](../leads.d/LEAD-tmpfrw11.md)).
 
 **Support.** The fold-edge half is corroborated by the 2011 paper: the
 equal-rate "fold line" of the sum of exponentials is a boundary where "No
 parameters were at extreme values, but the model behavior was nonetheless
-singular" (THEORY-tmpgsgka; the 2010 letter lists θ₁ = θ₂ among the
+singular" ([THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md); the 2010 letter lists θ₁ = θ₂ among the
 boundaries). The finite-n half is not tested by Lau et al.: their
 calibration mostly underestimates, which would fit, but they attribute
-underestimation to an unsettled sampler (ARG-tmpdvwy2, Rejected as
+underestimation to an unsettled sampler ([ARG-tmpdvwy2](../arguments.d/ARG-tmpdvwy2.md), Rejected as
 evidence). The estimator's form supports the claim's reading by
 derivation, the filer's, not by the paper's data.

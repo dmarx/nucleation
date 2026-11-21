@@ -85,4 +85,4 @@ at a fixed design, a sloppy combination can be unidentified because it
 runs to a boundary, where the metric is singular (2011, p. 10). Sense 4
 holds locally; the sources' sloppiness mixes it with a global failure of
 identification that sense 5 (singular) captures at the edges
-(TERM-tmptiim0, version 2).
+([TERM-tmptiim0](TERM-tmptiim0.md), version 2).

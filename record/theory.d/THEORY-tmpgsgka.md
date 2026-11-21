@@ -24,8 +24,8 @@ corroborates:
 bears_on:
 - QUESTION-tmpzlagu
 summary: >-
-  Transtrum, Machta and Sethna (2011), LIT-tmpzkxka, read in
-  NOTE-tmpzxtnv. The geometry the record's TERM-tmp5z2du and TERM-tmptiim0
+  Transtrum, Machta and Sethna (2011), [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), read in
+  [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md). The geometry the record's [TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md) and [TERM-tmptiim0](../terms.d/TERM-tmptiim0.md)
   rest on. The widths are invariant where the Fisher spectrum is not, and
   match √λ only under conditions; the edges of the hyper-ribbon are where
   the metric is singular, which ties sloppiness to singularity at the
@@ -38,7 +38,7 @@ summary: >-
 ## Source
 
 Transtrum, Machta and Sethna, Phys. Rev. E 83, 036701 (2011),
-LIT-tmpzkxka, read from arXiv 1010.1449v1 in NOTE-tmpzxtnv.
+[LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), read from arXiv 1010.1449v1 in [NOTE-tmpzxtnv](../notes.d/NOTE-tmpzxtnv.md).
 
 ## What was actually shown
 

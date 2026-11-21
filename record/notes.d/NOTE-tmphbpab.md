@@ -60,7 +60,7 @@ a coarse theory stand in for a microscopic one.
   analytic predictions.
 - Width ≈ √λ: dimensionless (for example log) parameters.
 - The generality of sloppiness is empirical: seventeen systems-biology
-  models (Gutenkunst et al., LIT-tmpsqbr9) and the five spectra of Fig. 1.
+  models (Gutenkunst et al., [LIT-tmpsqbr9](../literature.d/LIT-tmpsqbr9.md)) and the five spectra of Fig. 1.
 
 ## Key results
 
@@ -84,7 +84,7 @@ a coarse theory stand in for a microscopic one.
   ellipses of good fits in parameter space have "widths of the ellipse
   inversely proportional to the square roots of the corresponding
   eigenvalues". Those are widths in parameters, 1/√λ; the model manifold's
-  widths are in data space, ≈ √λ (below). The record's CLAIM-tmpcg4uu had
+  widths are in data space, ≈ √λ (below). The record's [CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md) had
   the first where it meant the second.
 - **The invariant form** (§III): "Many parameters and parameter
   combinations can be taken to extreme values (zero or infinity) without
@@ -97,7 +97,7 @@ a coarse theory stand in for a microscopic one.
 - **Why** (§III): the hierarchy "can be demonstrated analytically for the
   case of a single independent variable" by interpolation theorems; the
   hyperribbon figure's caption credits the argument to the 2010 and 2011 papers, whose own form of it is
-  a heuristic (NOTE-tmpzxtnv).
+  a heuristic ([NOTE-tmpzxtnv](NOTE-tmpzxtnv.md)).
 - **Ill-conditioning** (§VII): "The FIM (JᵀJ) for a typical sloppy model is
   extremely ill-conditioned". The review draws no line between
   sloppiness and ill-conditioning.
@@ -134,37 +134,37 @@ a coarse theory stand in for a microscopic one.
 
 ## Connections
 
-Restates LIT-tmpd3swn and LIT-tmpzkxka for the geometry and Machta et al.
-2013 (LIT-1299, read in NOTE-1018) for compression; LIT-tmpdz70v
-(Transtrum and Qiu, Deferred) for MBAM; LIT-tmpsqbr9 (Deferred) for the
+Restates [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md) and [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md) for the geometry and Machta et al.
+2013 ([LIT-1299](../literature.d/LIT-1299.md), read in [NOTE-1018](NOTE-1018.md)) for compression; [LIT-tmpdz70v](../literature.d/LIT-tmpdz70v.md)
+(Transtrum and Qiu, Deferred) for MBAM; [LIT-tmpsqbr9](../literature.d/LIT-tmpsqbr9.md) (Deferred) for the
 biology. A commented-out sentence in the source, "RG arguments thus derive
 the presence of sloppiness", is not in the published text and is not
 attributed.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpd7a4j. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpd7a4j](../theory.d/THEORY-tmpd7a4j.md). Dated notes of 2026-11-21 on each entry below.
 
-- **TERM-tmptiim0**, **TERM-tmp5z2du**: the invariant content is in the
+- **[TERM-tmptiim0](../terms.d/TERM-tmptiim0.md)**, **[TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md)**: the invariant content is in the
   widths; √λ approximates them in dimensionless parameters; "fixed factor"
   and "evenly spaced"; "extremely ill-conditioned" without a line drawn.
-- **CLAIM-tmpficzj**: grounds consequence 1 and the reading of simplicity;
+- **[CLAIM-tmpficzj](../claims.d/CLAIM-tmpficzj.md)**: grounds consequence 1 and the reading of simplicity;
   qualifies its neural-network paragraph (the review does press the
-  analogy, for an autoencoder's code). ARG-tmpv3nqz.
-- **ARG-tmpmvc5e**: dated note.
-- **CLAIM-tmpj0k4q**: supports the compression half; silent on growth with
-  data. ARG-tmpu5yj6.
-- **CLAIM-tmpnu4ar**: corroborates the reduction half (MBAM).
-- **THEORY-777**: the review equates stiffness with RG relevance
+  analogy, for an autoencoder's code). [ARG-tmpv3nqz](../arguments.d/ARG-tmpv3nqz.md).
+- **[ARG-tmpmvc5e](../arguments.d/ARG-tmpmvc5e.md)**: dated note.
+- **[CLAIM-tmpj0k4q](../claims.d/CLAIM-tmpj0k4q.md)**: supports the compression half; silent on growth with
+  data. [ARG-tmpu5yj6](../arguments.d/ARG-tmpu5yj6.md).
+- **[CLAIM-tmpnu4ar](../claims.d/CLAIM-tmpnu4ar.md)**: corroborates the reduction half (MBAM).
+- **[THEORY-777](../theory.d/THEORY-777.md)**: the review equates stiffness with RG relevance
   ("precisely those"); the caution against that equation in
-  TERM-tmp5z2du and CLAIM-tmpficzj is A19 §5's, not the review's.
-- **THEORY-774**: restated qualitatively.
-- **TERM-tmpnxjq4**: its sense 4, "identified given enough data", is
+  [TERM-tmp5z2du](../terms.d/TERM-tmp5z2du.md) and [CLAIM-tmpficzj](../claims.d/CLAIM-tmpficzj.md) is A19 §5's, not the review's.
+- **[THEORY-774](../theory.d/THEORY-774.md)**: restated qualitatively.
+- **[TERM-tmpnxjq4](../terms.d/TERM-tmpnxjq4.md)**: its sense 4, "identified given enough data", is
   qualified: the review's sloppy parameters run to infinity at boundaries.
-- **CLAIM-tmpcgvcp**, **CASE-tmpb2gly**: the review neither supports nor
+- **[CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md)**, **[CASE-tmpb2gly](../cases.d/CASE-tmpb2gly.md)**: the review neither supports nor
   contradicts the separation; the sum of exponentials is its prototype and
   it does not note the equal-rate stratum.
-- **ARG-tmpjx3ww**, **CLAIM-tmppkdjz**: importance is stated relative to
+- **[ARG-tmpjx3ww](../arguments.d/ARG-tmpjx3ww.md)**, **[CLAIM-tmppkdjz](../claims.d/CLAIM-tmppkdjz.md)**: importance is stated relative to
   the fitted behaviour, and the parameter-space figure warns that one unmeasured parameter can
   spoil a prediction.
 

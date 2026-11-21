@@ -18,8 +18,8 @@ line:
 - formal-apparatus
 - learned-structure
 summary: >-
-  What the reading of Bialek, Nemenman and Tishby (NOTE-tmpilbkz) carries
-  for CLAIM-tmpyxiwv, which grounded on the unread LIT-tmpys7v3 for the
+  What the reading of Bialek, Nemenman and Tishby ([NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)) carries
+  for [CLAIM-tmpyxiwv](../claims.d/CLAIM-tmpyxiwv.md), which grounded on the unread [LIT-tmpys7v3](../literature.d/LIT-tmpys7v3.md) for the
   attribution of the regimes. The logarithmic case is theirs (§4.1); the
   power-law case is an instance of their §4.5 annealed result as to
   exponent only, the annealed coefficient being too large by about 1 + 1/p;
@@ -34,10 +34,10 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpyxiwv derives, in a linear-Gaussian model with a shared
+[CLAIM-tmpyxiwv](../claims.d/CLAIM-tmpyxiwv.md) derives, in a linear-Gaussian model with a shared
 parameter, I_pred(T) = 2G(T) − G(2T), G(T) = ½ Σ ln(1 + Tλ_j), and from it three
 growth laws, and says "the power-law regime of Bialek, Nemenman and Tishby
-follows from a power-law spectrum". The paper (THEORY-tmp3gj1j) gives:
+follows from a power-law spectrum". The paper ([THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md)) gives:
 
 - §4.1, Eq. 41: linear regression with Gaussian noise, S₁(N) → (K/2) log₂ N,
   independent of the basis functions: the claim's first case, with the
@@ -59,11 +59,11 @@ follows from a power-law spectrum". The paper (THEORY-tmp3gj1j) gives:
   claim's model directly: S₁^(a) = G(N) + ½ Σ Nλ_j/(1 + Nλ_j), which for
   λ_j = j^(−p) grows as N^(1/p), the claim's exponent, with a coefficient
   larger than the exact G's by a factor tending to 1 + 1/p (1.501 at
-  p = 2, 1.341 at p = 3, N = 10⁶; NOTE-tmpilbkz). So the claim's model is an
+  p = 2, 1.341 at p = 3, N = 10⁶; [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)). So the claim's model is an
   instance of §4.5 as to exponent, and the paper's coefficients should not
   be cited for it.
 - **Does it tell the claim apart from its rivals?** The rival origin of
-  power-law growth is long memory with no parameter (TERM-tmpxml4k,
+  power-law growth is long memory with no parameter ([TERM-tmpxml4k](../terms.d/TERM-tmpxml4k.md),
   condition 2; the paper's K* of Eq. 69). The paper itself says its
   measure "makes no distinction" between the two; the claim's "What it
   does not say" already grants this.

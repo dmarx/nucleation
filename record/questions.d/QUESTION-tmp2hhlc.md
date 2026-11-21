@@ -24,7 +24,7 @@ summary: >-
   in the exchange "Rich Get Richer Power Laws", A13 and A15); adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp3gj1j NOTE-tmpilbkz — Proposed or new; the Bialek reading of 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmp3gj1j — Proposed or new; the Bialek reading of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2041 THEORY-2051 THEORY-1431 — Proposed readings bearing on the question -->
 <!-- inactive-ok-file: CLAIM-tmpask80 CLAIM-tmpd1shn — filed with this question from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-tmpkvpg4 LIT-tmpe6jga — Deferred, registered 2026-11-21 from the exchange, unread -->
@@ -114,4 +114,4 @@ answer it" and **leaves the rest open**.
 
 ## Note of 2026-11-21: Bialek, Nemenman and Tishby, read
 
-A weaker bearing, a claim without proof (THEORY-tmp3gj1j, NOTE-tmpilbkz). The paper asserts that predictive information diverges at critical points (§3, p. 12; §6, p. 44; its footnote 9), so that critical systems would be the most complex in its sense. It gives no derivation. On this question's first part it offers an information-theoretic measure of capacity, predictive information, that differs from Dambre's (THEORY-tmpr5fuq), and a candidate answer that is unproved and that CLAIM-tmp99m8g ("criticality is not the maximum of complexity") questions. The note is the assistant's (Claude, in this session).
+A weaker bearing, a claim without proof ([THEORY-tmp3gj1j](../theory.d/THEORY-tmp3gj1j.md), [NOTE-tmpilbkz](../notes.d/NOTE-tmpilbkz.md)). The paper asserts that predictive information diverges at critical points (§3, p. 12; §6, p. 44; its footnote 9), so that critical systems would be the most complex in its sense. It gives no derivation. On this question's first part it offers an information-theoretic measure of capacity, predictive information, that differs from Dambre's ([THEORY-tmpr5fuq](../theory.d/THEORY-tmpr5fuq.md)), and a candidate answer that is unproved and that [CLAIM-tmp99m8g](../claims.d/CLAIM-tmp99m8g.md) ("criticality is not the maximum of complexity") questions. The note is the assistant's (Claude, in this session).

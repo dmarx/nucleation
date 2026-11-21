@@ -135,29 +135,29 @@ filer's derivation, not the paper's.
 
 ## Connections
 
-The estimator is a localized form of Watanabe's WBIC (LIT-616, NOTE-473).
-LIT-1894 (NOTE-1462, THEORY-1275) uses it on the toy model of superposition,
-and LIT-1535 refines it per attention head (THEORY-975, THEORY-967). App. E
-names LaMont and Wiggins (LIT-1882, THEORY-1253).
+The estimator is a localized form of Watanabe's WBIC ([LIT-616](../literature.d/LIT-616.md), [NOTE-473](NOTE-473.md)).
+[LIT-1894](../literature.d/LIT-1894.md) ([NOTE-1462](NOTE-1462.md), [THEORY-1275](../theory.d/THEORY-1275.md)) uses it on the toy model of superposition,
+and [LIT-1535](../literature.d/LIT-1535.md) refines it per attention head ([THEORY-975](../theory.d/THEORY-975.md), [THEORY-967](../theory.d/THEORY-967.md)). App. E
+names LaMont and Wiggins ([LIT-1882](../literature.d/LIT-1882.md), [THEORY-1253](../theory.d/THEORY-1253.md)).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpousrw. Dated notes of 2026-11-21 on each entry below.
+Filed as [THEORY-tmpousrw](../theory.d/THEORY-tmpousrw.md). Dated notes of 2026-11-21 on each entry below.
 
-- **CLAIM-tmpcg4uu**: its inverse temperature is corrected there to
+- **[CLAIM-tmpcg4uu](../claims.d/CLAIM-tmpcg4uu.md)**: its inverse temperature is corrected there to
   β* = 1/log n, with γ as a second cut-off; the paper does not test the
-  claim. ARG-tmpdvwy2.
-- **LEAD-tmpfrw11**: several temperatures are the record's proposal; vary
+  claim. [ARG-tmpdvwy2](../arguments.d/ARG-tmpdvwy2.md).
+- **[LEAD-tmpfrw11](../leads.d/LEAD-tmpfrw11.md)**: several temperatures are the record's proposal; vary
   γ too, hold sampler settings fixed, check settling (App. H).
-- **QUESTION-tmp7d1ws**: the DLN runs with d > n are partial evidence on
+- **[QUESTION-tmp7d1ws](../questions.d/QUESTION-tmp7d1ws.md)**: the DLN runs with d > n are partial evidence on
   part 2.
-- **NOTE-1462**, **THEORY-1275**: the estimator's source is now held; its
-  calibration is DLN-only, and NOTE-1462's Table K.1 errors are outside it.
-- **THEORY-087**, **CLAIM-188**: Eq. 21 is a local form of the λ log n
-  penalty; App. E's critique of the Laplace term is CLAIM-188's point.
-- **THEORY-1253**: App. E calls the coefficient a heat capacity.
-- **THEORY-108**: parallel; App. E's critique of Hessian flatness.
-- **CLAIM-tmpgzb8v**, **CLAIM-tmpp83vc**, **QUESTION-tmp82zpm**: their
+- **[NOTE-1462](NOTE-1462.md)**, **[THEORY-1275](../theory.d/THEORY-1275.md)**: the estimator's source is now held; its
+  calibration is DLN-only, and [NOTE-1462](NOTE-1462.md)'s Table K.1 errors are outside it.
+- **[THEORY-087](../theory.d/THEORY-087.md)**, **[CLAIM-188](../claims.d/CLAIM-188.md)**: Eq. 21 is a local form of the λ log n
+  penalty; App. E's critique of the Laplace term is [CLAIM-188](../claims.d/CLAIM-188.md)'s point.
+- **[THEORY-1253](../theory.d/THEORY-1253.md)**: App. E calls the coefficient a heat capacity.
+- **[THEORY-108](../theory.d/THEORY-108.md)**: parallel; App. E's critique of Hessian flatness.
+- **[CLAIM-tmpgzb8v](../claims.d/CLAIM-tmpgzb8v.md)**, **[CLAIM-tmpp83vc](../claims.d/CLAIM-tmpp83vc.md)**, **[QUESTION-tmp82zpm](../questions.d/QUESTION-tmp82zpm.md)**: their
   reading of a change in the estimate as a transition must hold the
   sampler fixed and rule out underestimation.
 

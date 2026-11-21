@@ -20,7 +20,7 @@ line:
 - formal-apparatus
 - learned-structure
 summary: >-
-  CLAIM-tmpcgvcp cited LIT-tmpd3swn and LIT-tmpzkxka, unread, for the
+  [CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md) cited [LIT-tmpd3swn](../literature.d/LIT-tmpd3swn.md) and [LIT-tmpzkxka](../literature.d/LIT-tmpzkxka.md), unread, for the
   hyperribbon reading of sloppiness. Read, they carry it, and their own
   sloppy example, polynomial fitting, is the claim's linear separating
   case. But they press on the claim's defeater: a sloppy manifold's
@@ -37,15 +37,15 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpcgvcp: sloppiness (a spread of nonzero Fisher eigenvalues in a
+[CLAIM-tmpcgvcp](../claims.d/CLAIM-tmpcgvcp.md): sloppiness (a spread of nonzero Fisher eigenvalues in a
 regular model) and singularity (rank loss on a stratum) are different
 properties. Its defeater: "A model in which a spread of nonzero Fisher
 eigenvalues forces rank loss somewhere in the parameter space". The
 readings give:
 
 - The hyperribbon reading the claim cites: geodesic widths falling
-  geometrically, tracking √λ in natural units (THEORY-tmpgsgka,
-  THEORY-tmpkoje5).
+  geometrically, tracking √λ in natural units ([THEORY-tmpgsgka](../theory.d/THEORY-tmpgsgka.md),
+  [THEORY-tmpkoje5](../theory.d/THEORY-tmpkoje5.md)).
 - Linear polynomial fitting, with its Hilbert-matrix Hessian, among the
   2011 paper's sloppy examples (Fig. 2b), and its manifold a hyper-ellipse
   when the coefficients are confined to a ball: the claim's "sloppy
