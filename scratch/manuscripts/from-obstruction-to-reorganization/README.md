@@ -2,7 +2,7 @@
 
 # From Obstruction to Reorganization: working draft
 
-A general theory of learning and inquiry, intended to apply to arbitrary systems (Part I). It is shown operationalized in the research record in which it was developed (Part II). The self-reinforcing cycle that record's machinery produced is traced and set against the theory's implications (Part III). The draft succeeds the owner's manuscript "luria: nucleating an argument" (the work `luria-nucleating-an-argument`, proposed 2026-10-11; root question QUESTION-037).
+A general theory of learning and inquiry, intended to apply to arbitrary systems (Part I). It is shown operationalized in the research record in which it was developed (Part II). The self-reinforcing cycle that record's machinery produced is traced and set against the theory's implications (Part III). The draft succeeds the owner's manuscript "luria: nucleating an argument" (proposed 2026-10-11; root question QUESTION-037). At the owner's ruling of 2026-11-21 the two are one work, whose `works` term is renamed `from-obstruction-to-reorganization` after this directory (ADR-tmpwgvwk, pull request 589).
 
 **Provenance.**
 
@@ -56,12 +56,16 @@ A general theory of learning and inquiry, intended to apply to arbitrary systems
 
 ## Open items for the owner
 
-1. **The principles in the record.** Filed on dmarx/nucleation#557, now retargeted to staging and refreshed. The census is a CASE and two claims. P1 and P3 are already stated. P2 and P4–P10 are SYNTHESIS accounts. One narrowed part of the cycle is a claim. Section 7.4 reports the audit. Open: whether thematic, cross-line accounts are a kind the record wants (ADR-083).
-2. **ADR-048's flag.** The 237 entries carrying `anthology-candidate` were never revisited when its meaning changed (§15.2). That is a finding, and also a repair the record may want.
-3. **RETRO-004's summary** (§14.5; formerly POSTMORTEM-002, carried over unchanged). Cite it as of a dated commit, or correct it in the record.
-4. **The work.** Keep `luria-nucleating-an-argument` with its blurb revised, or give this paper a new `works` term?
-5. **A human coder.** All census coders were instances of one model (§18). A human second coder on the 30-decision sample would address the largest reliability threat.
-6. **Unread sources.** Dewey, Collingwood, Rheinberger, Bowker & Star, Stojanovic and Allspaw are cited but unread on the record (§11). They should be read, or supplied, before submission.
-7. **Missing references:** the luria repository, Nygard, Tyree & Akerman, the qualitative-codebook literature, PRISM, PROV, and work on LLM agents with memory.
-8. **Length.** Material has been added rather than trimmed, at the owner's direction; trimming is left to the owner.
-9. **Authorship and disclosure** of AI assistance (§18).
+The owner ruled on the earlier list on 2026-11-21 (promotion pull request 582). What follows is what remains, with what was done about the rest.
+
+1. **The principles in the record.** Filed (pull request 557). Cross-line accounts are now permitted, with an audit for missing lines (ADR-tmpg1n72, pull request 593). Its first audit finds the eight principle accounts together indicate a candidate line, `learning-and-inquiry`. Open: whether to add it.
+2. **ADR-075's language.** Three alternatives are proposed (pull request 594). Open: which, if any.
+3. **ADR-048's flag.** Closed: the flag did not change meaning, and revisiting it is the anthology's process (pull request 587). §§1, 15.2, 16 and 20 are corrected.
+4. **RETRO-004's summary.** Corrected in the record (pull request 588).
+5. **The work.** Same work, renamed (pull request 589).
+6. **A human coder.** Filed as a lead (pull request 591). Open: who codes.
+7. **Unread sources.** All six have LITs, which suffices for now at the owner's ruling. They remain unread.
+8. **Missing references:** the luria repository, Nygard, Tyree & Akerman, the qualitative-codebook literature, PRISM, PROV, and work on LLM agents with memory.
+9. **Adoption** of the Proposed entries filed from this draft is left to the next promotion audit.
+10. **Figures recomputed on demand.** An analytics pipeline in Apache Hamilton is being built, at the owner's suggestion, so the census and growth figures can be recomputed and dated.
+11. **Length** and **authorship and disclosure** of AI assistance (§18), as before.
