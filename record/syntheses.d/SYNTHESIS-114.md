@@ -17,6 +17,7 @@ tags:
 - self-governance
 date: '2026-11-20'
 line:
+- learning-and-inquiry
 - record-as-apparatus
 - distributed-agency
 integrates:

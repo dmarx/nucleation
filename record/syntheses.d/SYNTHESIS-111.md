@@ -17,6 +17,7 @@ tags:
 - society-and-governance
 date: '2026-11-20'
 line:
+- learning-and-inquiry
 - distributed-agency
 - will-organization
 integrates:
