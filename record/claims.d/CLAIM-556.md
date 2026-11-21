@@ -127,3 +127,16 @@ an energy price, joins states that rigid motions do not.
   of this classification.
 - **That organizations have the declared models** the levels are relative
   to. The cases are mechanical; the organizational reading is A's analogy.
+
+## Note of 2026-11-21: the synthesis review's audit
+
+Audited at the synthesis review of 2026-11-21 ([ADR-075](../decisions.d/ADR-075.md), step 5) by a reader briefed neutrally. **Verdict: it adds nothing to its premises, and its defeater is met as written.**
+
+- **A juxtaposition.** The defensible content is [CLAIM-567](CLAIM-567.md), [CLAIM-568](CLAIM-568.md), [CLAIM-566](CLAIM-566.md), [CLAIM-586](CLAIM-586.md) and [CLAIM-347](CLAIM-347.md) side by side. "Compatibility first" is [CLAIM-567](CLAIM-567.md). "No budget relieves a non-face" is [CLAIM-586](CLAIM-586.md). That inputs and feedback leave the target unchanged holds by definition.
+- **The distinct-repair clause has a separating case.** Mordvintsev and colleagues' neural cellular automata ([THEORY-2024](../theory.d/THEORY-2024.md), noted in [CLAIM-566](CLAIM-566.md)) get persistence and regeneration from one stabilization repair. That does not meet the defeater, which needs the assigned repair not to touch the failure.
+- **The defeater's first clause is met.** A capability reached reliably and then lost over a horizon with no turnover and no information failure falls under none of the six levels. Creep or fatigue of a folded structure is an example, as is [CLAIM-566](CLAIM-566.md)'s persistence failing on its own. The body says the six are not exhaustive, but the defeater makes them so. This is the misstatement [CLAIM-568](CLAIM-568.md) removed from its own defeater in version 2.
+- **Two premises misstated.** "With the same remedies" misstates [CLAIM-568](CLAIM-568.md), whose disconnection remedy is also a change of the declared transformations. "Can the capability persist through turnover?" runs together [CLAIM-566](CLAIM-566.md)'s persistence and regeneration.
+
+**What the skill would do.** Fold the mapping into its scope's account and set the claim Superseded. That is a status change on an Active entry, so it waits for the owner ([ADR-127](../decisions.d/ADR-127.md)).
+
+**A narrower sentence the reader thought might pass by derivation**, with [CLAIM-516](CLAIM-516.md) as a further premise: "Under turnover with no basal production, no remedy for [CLAIM-568](CLAIM-568.md)'s four obstructions keeps a capability over horizons longer than turnover unless it creates a productive cycle among the capability's producers." Before filing it, check that [CLAIM-531](CLAIM-531.md) and [CLAIM-532](CLAIM-532.md) do not already hold it.
