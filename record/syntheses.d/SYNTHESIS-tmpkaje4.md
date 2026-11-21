@@ -30,9 +30,8 @@ integrates:
 - CLAIM-761
 - QUESTION-457
 ---
-<!-- inactive-ok-file: CLAIM-tmphigw4 CLAIM-tmpm9ep1 CASE-tmpi16kb CLAIM-tmpj4fzn CLAIM-tmp8v75o TERM-tmp7m4at TERM-tmp0g123 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
+<!-- inactive-ok-file: CLAIM-tmphigw4 CLAIM-tmpm9ep1 CLAIM-tmpj4fzn CLAIM-tmp8v75o TERM-tmp7m4at TERM-tmp0g123 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
-<!-- inactive-ok-file: CLAIM-761 — Proposed or Open; components of this account, cited with their standing -->
 # SYNTHESIS-tmpkaje4: Inquiry in the record is a form of specification that can revise what an answer could be, reflexive when its language, answer space, interventions, observations, criteria or resources become its object; specifying is resource-bounded and stored specification cheapens some questions and hardens others; and what makes reconfiguration self-governed is an open question
 
 *A thematic account, across lines, of principle P8 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
@@ -67,14 +66,14 @@ integrates:
 Filed since, and candidates for this account's components at its next
 synthesis review:
 
-- **CLAIM-tmphigw4** and **CLAIM-tmpm9ep1**: engineering as a form of
+- **[CLAIM-tmphigw4](../claims.d/CLAIM-tmphigw4.md)** and **[CLAIM-tmpm9ep1](../claims.d/CLAIM-tmpm9ep1.md)**: engineering as a form of
   inquiry, read two ways; reflexive when building revises the
   specification, with the record's staging branch as the case
-  (CASE-tmpi16kb), where building found a requirement review had missed.
-- **CLAIM-tmpj4fzn** and **CLAIM-tmp8v75o**: an entry's accrued predicates
+  ([CASE-tmpi16kb](../cases.d/CASE-tmpi16kb.md)), where building found a requirement review had missed.
+- **[CLAIM-tmpj4fzn](../claims.d/CLAIM-tmpj4fzn.md)** and **[CLAIM-tmp8v75o](../claims.d/CLAIM-tmp8v75o.md)**: an entry's accrued predicates
   are constraints, and the revisions open to it are their intersection;
   descriptors hold an entry where it is and impositions move it. This gives
   "stored specifications that cheapen some questions and entrench against
   others" a model.
-- **TERM-tmp7m4at** (a predicate read as a test) and **TERM-tmp0g123**
+- **[TERM-tmp7m4at](../terms.d/TERM-tmp7m4at.md)** (a predicate read as a test) and **[TERM-tmp0g123](../terms.d/TERM-tmp0g123.md)**
   (stabilization in the control-theoretic sense).

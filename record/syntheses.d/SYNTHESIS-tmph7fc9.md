@@ -30,7 +30,6 @@ integrates:
 - CLAIM-522
 - TERM-100
 ---
-<!-- inactive-ok-file: QUESTION-tmp6iu8e — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 # SYNTHESIS-tmph7fc9: A capacity kept for rare use decays with disuse and is shown only by a retention test or the contingency it serves, a correction recorded is not a capacity maintained, support that does work a capacity is learned from can erode it, and where a capacity's maintenance comes from is shown only by intervention on its production
 
@@ -60,7 +59,7 @@ integrates:
 
 ## Note of 2026-11-21: progress since this account was drafted
 
-**QUESTION-tmp6iu8e**, filed since, asks this account's question of a
+**[QUESTION-tmp6iu8e](../questions.d/QUESTION-tmp6iu8e.md)**, filed since, asks this account's question of a
 shared-autonomy assistant: whether help that raises a user's long-horizon
 influence erodes their unassisted capacity, and whether a score taken with
 the help present can show it. A candidate component at the next synthesis

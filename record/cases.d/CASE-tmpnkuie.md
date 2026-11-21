@@ -33,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: ADR-tmpvmzl6 — Proposed or Open; filed on 2026-11-21 and cited in the refresh of this pull request -->
 
 <!-- inactive-ok-file: ADR-047 ADR-076 ADR-077 ADR-080 — Superseded; cited as decisions the census coded -->
-<!-- inactive-ok-file: ADR-082 ADR-084 ADR-087 ADR-089 ADR-090 ADR-100 ADR-104 ADR-109 ADR-114 ARG-028 CLAIM-181 — Proposed; cited in this filing of 2026-11-20 -->
+<!-- inactive-ok-file: ARG-028 CLAIM-181 — Proposed; cited in this filing of 2026-11-20 -->
 
 # CASE-tmpnkuie: Who changes the record's grammar, how, and with what result: of its 114 decisions to 2026-11-20, 88 changed the grammar, 62 by refinement, 25 by revision and 1 by restraint; the misfit each answered had nearly always been forced into a category or kept in prose first; removals were carried through every entry using the term while a change of meaning in place reached none; and the noticing moved from filing agents to review procedures while judgment about revisions stayed with the owner
 
@@ -170,10 +170,10 @@ The owner decided 49 changes, an assistant 6 and a review procedure 2; 31 do not
 ## Note of 2026-11-21: the census is a day behind
 
 The census counts the 114 decisions to 2026-11-20. By the end of 2026-11-21
-the record held about twenty more: ADR-115 and ADR-116, and decisions filed
+the record held about twenty more: [ADR-115](../decisions.d/ADR-115.md) and [ADR-116](../decisions.d/ADR-116.md), and decisions filed
 that night on reframings, the dialectic regime, earmarks, merging into
 staging, the promotion pull request and an adoption review, several filed as
 alternatives of which the owner chose one. The adoption review
-(ADR-tmpvmzl6) also moved 34 decisions from Proposed to Active, so the
+([ADR-tmpvmzl6](../decisions.d/ADR-tmpvmzl6.md)) also moved 34 decisions from Proposed to Active, so the
 census's statuses are stale. A rerun of the census scripts on the current
 record would update both; until then its figures hold as of 2026-11-20.

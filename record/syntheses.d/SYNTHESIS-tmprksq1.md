@@ -35,7 +35,7 @@ integrates:
 - CLAIM-664
 ---
 
-<!-- inactive-ok-file: CLAIM-090 ARG-035 CLAIM-191 CLAIM-635 CLAIM-182 CLAIM-189 SYNTHESIS-066 — Proposed or Open; components of this account, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-090 ARG-035 CLAIM-191 CLAIM-182 CLAIM-189 SYNTHESIS-066 — Proposed or Open; components of this account, cited with their standing -->
 # SYNTHESIS-tmprksq1: In the record, iterated transmission can forget its origin while staying far from it, serial reconstruction is filtered by the transmitters' biases with convergence to the prior proved for sampling learners, arguments restated across memoryless sessions lose identity, several mechanisms are offered as anchors, and what a record can secure is held to be traceability
 
 *A thematic account, across lines, of principle P9 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*

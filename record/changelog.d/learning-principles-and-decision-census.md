@@ -15,5 +15,5 @@
 ### Changed (refresh of 2026-11-21)
 
 - Retargeted to staging and brought up to date with it; dated notes on
-  SYNTHESIS-tmpxuvmn, SYNTHESIS-tmpkaje4, SYNTHESIS-tmph7fc9, CLAIM-tmpmtv1b
-  and CASE-tmpnkuie naming the night's filings that bear on them.
+  [SYNTHESIS-tmpxuvmn](record/syntheses.d/SYNTHESIS-tmpxuvmn.md), [SYNTHESIS-tmpkaje4](record/syntheses.d/SYNTHESIS-tmpkaje4.md), [SYNTHESIS-tmph7fc9](record/syntheses.d/SYNTHESIS-tmph7fc9.md), [CLAIM-tmpmtv1b](record/claims.d/CLAIM-tmpmtv1b.md)
+  and [CASE-tmpnkuie](record/cases.d/CASE-tmpnkuie.md) naming the night's filings that bear on them.

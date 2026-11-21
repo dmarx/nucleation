@@ -28,7 +28,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: ADR-084 CLAIM-189 CLAIM-666 — Proposed; cited in this filing of 2026-11-20 -->
+<!-- inactive-ok-file: CLAIM-189 CLAIM-666 — Proposed; cited in this filing of 2026-11-20 -->
 
 # CLAIM-tmpj5aiv: In this record a change to a vocabulary term was always announced by a decision, and was carried through the entries using the term whenever entries had to move, by removal or split, but not when only the term's meaning changed: the redefinition of anthology-candidate reached none of its 237 entries, so the record traces its grammar's changes where entries move and not where only a meaning does
 
