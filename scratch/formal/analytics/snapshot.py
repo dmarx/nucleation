@@ -133,7 +133,7 @@ def lead_stage_counts(entries: list[dict]) -> dict[str, int]:
     return dict(Counter(str(e["fm"].get("stage")) for e in entries if e["scheme"] == "LEAD").most_common())
 
 
-@tag(feeds="manuscript README open item 2 (current count; the 237 of §15.2 is the carrier count when ADR-048 landed, in term_change_summary)", section="snapshot")
+@tag(feeds="manuscript README item 2 (now; §15.2's 237 is in term_change_summary)", section="snapshot")
 def anthology_candidate_count(entries: list[dict]) -> int:
     """Entries whose tags carry the `anthology-candidate` flag."""
     return sum(1 for e in entries if "anthology-candidate" in _flat(e["fm"].get("tags")))
