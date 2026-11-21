@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Applying the conservation results for contracting chains to the restatement of the record''s entries: CLAIM-635''s retention bound and DeGroot''s conserved average carry over if a session''s restatement of an entry is a Markov step and reading a coded entry verbatim copies its text exactly, which holds for the text and not for its interpretation'
+title: 'Applying the conservation results for contracting chains to the restatement of the record''s entries: the retention bound for exactly conserved observables and DeGroot''s conserved average carry over if a session''s restatement of an entry is a Markov step and reading a coded entry verbatim copies its text exactly, which holds for the text and not for its interpretation'
 version: 2
 history:
 - version: 2
@@ -40,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmprwljl THEORY-tmpq3h4k CLAIM-635 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpw6wkt CLAIM-tmpdx6l8 THEORY-2044 CLAIM-191 CLAIM-059 — Proposed; the results applied, the claim concluded, and the term it is stated in -->
 
-# ARG-tmp5ahr5: Applying the conservation results for contracting chains to the restatement of the record's entries: [CLAIM-635](../claims.d/CLAIM-635.md)'s retention bound and DeGroot's conserved average carry over if a session's restatement of an entry is a Markov step and reading a coded entry verbatim copies its text exactly, which holds for the text and not for its interpretation
+# ARG-tmp5ahr5: Applying the conservation results for contracting chains to the restatement of the record's entries: the retention bound for exactly conserved observables and DeGroot's conserved average carry over if a session's restatement of an entry is a Markov step and reading a coded entry verbatim copies its text exactly, which holds for the text and not for its interpretation
 
 ## The inference
 
