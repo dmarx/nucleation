@@ -38,8 +38,6 @@ line:
 - learned-structure
 rests_on:
 - CLAIM-811
-grounds:
-- THEORY-tmpbobud
 summary: >-
   A39 §5 and A43 §17 of the exchange "Rich Get Richer Power Laws"
   (2026-11-21): "Some apparent critical slowing down may reflect
@@ -132,3 +130,7 @@ slowing belong to it.
   critical slowing. The paper says nothing of power laws or broad
   timescale distributions, and is no ground of this claim ([ARG-tmp0cg6w](../arguments.d/ARG-tmp0cg6w.md)).
   The rival is held in [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md), in the authors' voice.
+
+## Note of 2026-11-21: grounds
+
+Amari, Park and Ozeki's reading (THEORY-tmpbobud), first placed in this claim's grounds, qualifies the claim rather than supporting it: its plateaus are transients that end in escape, with no power law and no spread of timescales. It is therefore kept as a bearing in the dated note above, not as a ground. The claim stays interpretive, with no ground of its own yet. The note is the assistant's (Claude, in this session).

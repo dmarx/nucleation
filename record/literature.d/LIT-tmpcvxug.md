@@ -30,3 +30,5 @@ Sharma, Ash & Misra (2023). arXiv 2312.13558.
 ## Standing in the record
 
 Registered on 2026-11-21 from the reading of Acharya, Rimal and Dhakal ([LIT-2959](LIT-2959.md)), for LASER, cited by Acharya, Rimal and Dhakal ([LIT-2959](LIT-2959.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)): removing the smallest singular components of selected weight matrices can improve a language model, a result set beside Staats et al. ([THEORY-420](../theory.d/THEORY-420.md)) on what small singular directions carry. It bears on [THEORY-420](../theory.d/THEORY-420.md), [TERM-137](../terms.d/TERM-137.md) (sense 2) and [CLAIM-835](../claims.d/CLAIM-835.md). Not read.
+
+Acharya, Rimal and Dhakal describe LASER as "removing top SVD components". LASER's layer-selective rank reduction removes the smallest singular components and keeps the largest, so that description is the citing paper's error, not LASER's. Noted on 2026-11-21 from the fact-check of the second batch of readings.

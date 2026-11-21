@@ -134,7 +134,7 @@ itself has no dynamical content beyond its Outlook.
 
 ## Note of 2026-11-21: Amari, Park & Ozeki (2006), Wei et al. (2008) and Hoogland et al., read
 
-Four readings bear on U23; none of them decides between its readings.
+Three readings bear on U23; none of them decides between its readings.
 
 - **Amari, Park and Ozeki: background, and A37's "dynamics are separate"
   borne out** ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md), [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md)). Their account of learning
@@ -169,3 +169,6 @@ Four readings bear on U23; none of them decides between its readings.
 
 Hoogland et al. ([LIT-2966](../literature.d/LIT-2966.md)) is now read ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)), so its place in this claim's grounds passes to the reading's account, [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md). As the reading found, that paper calls its link to singular learning "an analogy" and never calls a stage a singularity, so it grounds only that stages leave a mark in the learning coefficient. The note is the assistant's (Claude, in this session).
 
+## Note of 2026-11-21: the step to the new ground
+
+The step that puts THEORY-tmpr9w2r in this claim's grounds is the one ARG-tmpfh555 argues for reading (b), CLAIM-823: Hoogland et al. ground only that stages leave a mark in the learning coefficient. That is all this claim takes from it. The note is the assistant's (Claude, in this session).

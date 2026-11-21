@@ -87,7 +87,7 @@ it; that crawl is the plateau.
   pseudo-attractor (the Milnor attractor) even when the true distribution
   is at a regular point far from it. The singular point resembles a black
   hole in the dynamics of learning". Reporting Fukumizu & Amari 2000
-  ([LIT-tmp5rr3p](../literature.d/LIT-tmp5rr3p.md)), p. 1032: the perceptron "is truly attracted to the line
+  ([LIT-tmp5rr3p](../literature.d/LIT-tmp5rr3p.md)), p. 1033: the perceptron "is truly attracted to the line
   and stays inside the line … until it finds a place from which it can
   escape. This explains the plateau phenomenon"; and "The problem of
   plateau cannot be resolved by simply increasing" the learning rate.

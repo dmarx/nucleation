@@ -54,7 +54,7 @@ edge connection reaches networks.
 ## Critical questions
 
 - **Does the cited source say it?** No. [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md): the Fisher matrix
-  degenerates on "the critical set C : vw = 0", and for k units on
+  degenerates on "the set C : vw = 0", and for k units on
   wᵢ = ±wⱼ, sets that are "not isolated but form a continuum" of finite
   parameter values. In the space of distributions the critical set is "a
   single point" joining "two components", or "the apex" of a cone. The

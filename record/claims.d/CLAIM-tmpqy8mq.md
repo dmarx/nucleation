@@ -65,7 +65,7 @@ representation γ̄_W of each concept W to its embedding representation
 is "λ̄_W := Cov(γ)⁻¹γ̄_W" (Eq. 4.1; [THEORY-018](../theory.d/THEORY-018.md) holds that this inner
 product is fixed by a stipulation). Σ_L is, up to centring and ridge, that
 Cov(γ). In Σ_L's eigenbasis, Σ_L⁻¹ divides the i-th component of γ̄ by λ_i.
-Nothing rotates: the basis is the same, and each coordinate is rescaled.
+Nothing rotates: up to the paper's centring and ridge, which make its Σ_L's eigenbasis differ slightly from Cov(γ)'s, the basis is the same, and each coordinate is rescaled.
 
 **The inequality** is [CLAIM-tmp6odrj](CLAIM-tmp6odrj.md) (demonstrated): Σ⁻¹ moves every vector's energy toward the tail, so the image of a contrast always scores lower than the contrast.
 

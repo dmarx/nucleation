@@ -143,7 +143,7 @@ Supports, and cross-links the shared singular sets.
   So the condition this account names, an invertible Fisher at the
   optimum, fails on whole continua of finite parameters, where a unit is
   off or two units coincide. They also give the dynamical complement of
-  "Fisher efficiency is undefined there": near C natural gradient feels
+  this account's point that Fisher efficiency fails there: near C natural gradient feels
   "the infinitely strong repulsive force ... in the direction of escape
   from C" (p. 1034) and shows no plateau, while ordinary gradient is drawn
   to C and slowed. That answers, for toy models, the question this

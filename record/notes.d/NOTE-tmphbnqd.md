@@ -110,8 +110,8 @@ combination fewer that makes nearly the same predictions.
 ## Connections
 
 Builds on [LIT-2977](../literature.d/LIT-2977.md) and [LIT-3009](../literature.d/LIT-3009.md) ([NOTE-2240](NOTE-2240.md), [NOTE-2247](NOTE-2247.md)); restated in the
-2015 review ([LIT-2994](../literature.d/LIT-2994.md), [NOTE-2242](NOTE-2242.md)), whose "48 parameters to 12" matches
-para. 16. The 2016 follow-up (Transtrum & Qiu, [LIT-tmpqtxyr](../literature.d/LIT-tmpqtxyr.md)), the
+2015 review ([LIT-2994](../literature.d/LIT-2994.md), [NOTE-2242](NOTE-2242.md)), whose parameter counts (48 to 12) match
+para. 16, though its equation counts differ (29 to 6, against the letter's 15 to 6). The 2016 follow-up (Transtrum & Qiu, [LIT-tmpqtxyr](../literature.d/LIT-tmpqtxyr.md)), the
 "gray-box" paper ([LIT-tmpiy8ed](../literature.d/LIT-tmpiy8ed.md)), the comparison with balanced truncation
 ([LIT-tmpv6k3o](../literature.d/LIT-tmpv6k3o.md)) and "Information topology identifies emergent model
 classes" (Transtrum, Hart & Qiu, [LIT-tmptm9ww](../literature.d/LIT-tmptm9ww.md)), the last nearest to the

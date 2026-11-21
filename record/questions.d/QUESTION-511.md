@@ -128,8 +128,10 @@ candidate answer.
   the logit metric but "holds on average 1.5 to 6.6 times its share of the
   directions in variance" at late residual states (App. D). So A41's
   "spectrally quiet subspace", read as low representation variance, does
-  not fit the work A41 cites for it; read as low amplification by the
-  unembedding, it fits, and the question must say which.
+  not fit Xu's directions, the work A41 cites for it; read as low
+  amplification by the unembedding, it fits, and the question must say
+  which. "Concepts Whisper" uses the phrase itself ("word-level semantics
+  occupy the spectrally quiet subspace"), in that logit-metric sense.
 - **A test the record could run.** Xu's suggested training origin, after
   Thrampoulidis ([LIT-tmp9yy1o](../literature.d/LIT-tmp9yy1o.md)) and Zhao et al. ([LIT-tmpgptvp](../literature.d/LIT-tmpgptvp.md)), places the
   distinctions among plausible candidates at the bottom of the spectrum as

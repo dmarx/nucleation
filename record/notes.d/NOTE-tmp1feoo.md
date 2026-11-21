@@ -129,8 +129,10 @@ out.
 - So "evenly spaced in their logarithm" here means roughly uniform density
   over the log range, not a fixed step per rank: median successive gaps
   run from 0.8 decades in the smallest model to 0.03 in the largest.
-- The rescaled PC12 model resolves 23 eigenvalues over 4.4 decades; the
-  paper says five.
+- The rescaled PC12 model: Dataset S1 holds two candidates. `Brown_2004_Rescaled` resolves 23
+  eigenvalues over 4.4 decades; `Brown_2004_All_One`, with every concentration and rate set
+  to 1 as the paper describes, resolves 43 over 6.7. The paper says about five. Which file is
+  the paper's model is in Text S4, unread.
 
 ## Concepts
 
@@ -161,7 +163,7 @@ Filed as [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md). Dated notes of 2026-
   below the last" is wrong for most of the collection; and the claim that
   a sloppy spectrum covers decades in proportion to the number of
   parameters is not what these spectra show. Supports "relative to a
-  design" verbatim. On "relative to a chart" it argues the other way: the
+  design", in the passage TERM-140 quotes. On "relative to a chart" it argues the other way: the
   bare parametrization is "fundamental to the system".
 - **[TERM-135](../terms.d/TERM-135.md)** — background: no model manifold and no widths here; the
   ellipsoids are in parameter space, axes ∝ 1/√λ.
