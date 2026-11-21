@@ -60,7 +60,7 @@ The term audit ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) found 34 events in
 
 - **Removal.** Every entry carrying a removed term in use was changed in the same unit: `identity` 41 of 41, `self-and-personhood` 42 of 42, and the four SYNTHESIS terms [ADR-084](../decisions.d/ADR-084.md) removed.
 - **Split.** The entries that moved were changed: `Deferred` 177 of 345, `ecology` 13 of 50, and the split lines.
-- **Widening or restatement.** Almost nothing was touched, and nothing needed to be, because the word still holds what it held: `learning-theory` 1 of 92, and `anthology-candidate` 0 of 237. ADR-048 reworded the flag's blurb when it dropped the boundary of ADR-001. The flag still records what ADR-005 made it record, that someone judged the anthology may want the work; what changed is what that implies about the work's filing here. Whether to act on a flag is the anthology's process, not this record's.
+- **Widening or restatement.** Almost nothing was touched, and nothing needed to be, because the word still holds what it held: `learning-theory` 1 of 92, and `anthology-candidate` 0 of 237. [ADR-048](../decisions.d/ADR-048.md) reworded the flag's blurb when it dropped the boundary of [ADR-001](../decisions.d/ADR-001.md). The flag still records what [ADR-005](../decisions.d/ADR-005.md) made it record, that someone judged the anthology may want the work; what changed is what that implies about the work's filing here. Whether to act on a flag is the anthology's process, not this record's.
 - **Redefinition in place.** The audit found none.
 
 ## Why it matters
