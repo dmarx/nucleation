@@ -54,7 +54,7 @@ summary: >-
   member again. The line's account is built over it. It adds nothing of
   its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: CLAIM-037 CLAIM-044 CLAIM-623 CLAIM-625 CASE-224 ARG-074 CASE-231 CASE-227 SYNTHESIS-046 SYNTHESIS-057 SYNTHESIS-062 SYNTHESIS-069 ADR-083 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-037 CLAIM-044 CLAIM-623 CASE-224 ARG-074 CASE-231 CASE-227 SYNTHESIS-046 SYNTHESIS-057 SYNTHESIS-062 SYNTHESIS-069 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-010 CLAIM-073 — Rejected; cited as the inferences and the claim components answer -->
 <!-- inactive-ok-file: SYNTHESIS-088 — Proposed; cited with its standing -->
 

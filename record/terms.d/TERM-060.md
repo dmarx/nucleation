@@ -48,7 +48,7 @@ draws_on:
 - THEORY-052
 - THEORY-232
 ---
-<!-- inactive-ok-file: THEORY-052 THEORY-232 ADR-095 — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
+<!-- inactive-ok-file: THEORY-052 THEORY-232 — Proposed; readings this term draws on, and the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-147 CLAIM-187 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited in the note of 2026-10-21, nothing here rests on it -->
 

@@ -1,10 +1,24 @@
 ---
 number: 760
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpkrk41
 title: 'That an organization makes an activity cheaper for those who perform it does not show that work was saved: the work may have been transferred, to an earlier time, to upkeep, or to other parties, and the efficiency an organization appears to have depends on the boundary of the system whose costs are counted; work saved, work transferred and valuable capability expanded are three separate achievements'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057). Its premise CLAIM-303 is Active, nothing objects to
+    it, and nothing in the record meets its defeated_if: the claims
+    office's separating case draws the boundary at the office and at
+    office and claimants together, both boundaries an evaluation of such
+    an office would use, and under them the office's cost falls by 2 per
+    claim while the total rises from 4 to 5. THEORY-2030, Proposed,
+    corroborates it and is not needed. CLAIM-761, the third achievement
+    named in the body, is promoted at the same review. Interpretive. The
+    title is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2030 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2823 — Unavailable; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-731 CLAIM-761 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-731 — Proposed; cited in this filing of 2026-11-19 -->
 
 # CLAIM-760: That an organization makes an activity cheaper for those who perform it does not show that work was saved: the work may have been transferred, to an earlier time, to upkeep, or to other parties, and the efficiency an organization appears to have depends on the boundary of the system whose costs are counted; work saved, work transferred and valuable capability expanded are three separate achievements
 

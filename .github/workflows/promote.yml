@@ -1,0 +1,105 @@
+# Promotes the staging branch into main, once a night or on demand (the
+# decision adding the staging branch).
+#
+# Work merges into `staging` through pull requests, each checked by
+# docs-check as before. Temporary codes stay temporary on staging, so one
+# pull request can cite another's codes without stacking on its branch.
+# This workflow merges staging into main, then does what docs-generate does
+# on a push to main: repairs, regenerates the views, and concretizes the
+# temporary codes, all at once for the batch. Last, it merges main back
+# into staging, so staging carries the permanent codes and the views. Docs
+# does that back-merge too, after any push to main, so a promotion merged
+# by hand needs no extra step.
+#
+# A push made with GITHUB_TOKEN starts no other workflow, so this one runs
+# the generate and lint steps itself rather than relying on Docs. It shares
+# Docs' concurrency group for pushes to main, so it never races one.
+name: Promote
+
+on:
+  schedule:
+    # 03:45 Pacific standard time (04:45 in daylight time); GitHub runs
+    # schedules in UTC and cannot follow daylight saving.
+    - cron: "45 11 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: docs-main
+  cancel-in-progress: false
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      ahead: ${{ steps.ahead.outputs.count }}
+      sha: ${{ steps.generate.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - id: ahead
+        name: Is staging ahead of main?
+        run: |
+          git fetch origin staging
+          n=$(git rev-list --count origin/main..origin/staging)
+          echo "staging is $n commit(s) ahead of main"
+          echo "count=$n" >> "$GITHUB_OUTPUT"
+      - name: Merge staging into main
+        if: steps.ahead.outputs.count != '0'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git merge --no-ff origin/staging -m "Promote staging into main"
+      - uses: actions/setup-python@v5
+        if: steps.ahead.outputs.count != '0'
+        with:
+          python-version: "3.12"
+      - name: Lint the merged tree before it reaches main
+        if: steps.ahead.outputs.count != '0'
+        uses: dmarx/luria/actions/lint@main
+        with:
+          pip-spec: luria==1.10.0
+      - name: Push the promotion
+        if: steps.ahead.outputs.count != '0'
+        run: git push origin HEAD:main
+      - id: generate
+        name: Repair, regenerate and concretize, as docs-generate does on main
+        if: steps.ahead.outputs.count != '0'
+        uses: dmarx/luria/actions/generate@main
+        with:
+          pip-spec: luria==1.10.0
+          concretize: "true"
+
+  lint:
+    needs: promote
+    if: needs.promote.outputs.ahead != '0'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.promote.outputs.sha }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: dmarx/luria/actions/lint@main
+        with:
+          pip-spec: luria==1.10.0
+
+  back-merge:
+    # Staging takes main's permanent codes and views. Docs does the same
+    # after a push to main, but this workflow's push starts no Docs run, so
+    # it calls the script itself. A conflict fails the job for a person to
+    # resolve; main is already promoted (.github/scripts/back-merge.sh).
+    needs: [promote, lint]
+    if: needs.promote.outputs.ahead != '0'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: .github/scripts/back-merge.sh

@@ -92,7 +92,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2030 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2823 — Deferred; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-761 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1845 THEORY-1852 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1280 CLAIM-527 — Proposed; the parent paper's agency and Massumi's affect, and the claim that separates their quantity -->
 

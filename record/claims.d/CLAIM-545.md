@@ -113,7 +113,6 @@ summary: >-
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md).
 ---
 <!-- inactive-ok-file: CLAIM-682 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
-<!-- inactive-ok-file: ADR-075 ADR-078 — Proposed; the audit applied and the review that moved this entry -->
 <!-- inactive-ok-file: CLAIM-624 CASE-225 CLAIM-616 TERM-083 — Proposed or Superseded; cited in dated notes carried over from CLAIM-545 -->
 <!-- inactive-ok-file: LIT-1614 TERM-086 THEORY-040 — Unavailable or Proposed; cited from the exchange "Assess SDT Coverage" as open, a work registered unread among them -->
 <!-- inactive-ok-file: TERM-124 CLAIM-690 — Proposed; filed 2026-11-13, the term proposed from this claim's domination clause and the claim that uses it -->

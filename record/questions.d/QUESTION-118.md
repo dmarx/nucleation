@@ -50,8 +50,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1814 THEORY-1819 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
-<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
 
 <!-- inactive-ok-file: THEORY-221 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

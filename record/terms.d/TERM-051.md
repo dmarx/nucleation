@@ -37,7 +37,6 @@ draws_on:
 - THEORY-133
 - THEORY-138
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-158 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the claim that made direction an architecture, open -->
 <!-- inactive-ok-file: CLAIM-155 — Proposed; its tier names are why one rejected name would blur, not leaned on -->

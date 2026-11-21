@@ -58,7 +58,7 @@ draws_on:
 - THEORY-298
 - THEORY-500
 ---
-<!-- inactive-ok-file: ADR-095 THEORY-090 THEORY-298 THEORY-500 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-090 THEORY-298 THEORY-500 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 # CASE-107: Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains
 

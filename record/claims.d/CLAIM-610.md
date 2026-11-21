@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp2ka9y
 title: 'If the record''s hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual''s interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-07'
@@ -49,6 +49,12 @@ history:
     implies the next", and version 2 dropped that exemption; the
     sentence now says both. Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 6
+  date: '2026-11-20'
+  note: >-
+    Layer 2 marked CLAIM-329 as Proposed; it went Active at the status
+    review of this date (the owner delegated these rulings), and the
+    parenthesis now says so. The claim is unchanged and stays Proposed.
 role: supposed
 warrant: interpretive
 defeated_if: >-
@@ -100,9 +106,8 @@ summary: >-
   CLAIM under its own code on 2026-11-08 (ADR-084).
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-611 — filed from the same exchange, Proposed; the proposed thesis this supposed one is not a version of -->
-<!-- inactive-ok-file: CLAIM-329 CLAIM-487 CLAIM-545 CLAIM-545 — Proposed or Superseded; parts of the supposed account, cited as held -->
+<!-- inactive-ok-file: CLAIM-487 CLAIM-545 — Proposed or Superseded; parts of the supposed account, cited as held -->
 <!-- inactive-ok-file: CLAIM-417 — Proposed; the owner's recasting of selves, cited for what the claim leaves out -->
 
 # CLAIM-610: If the record's hypotheses held, agency and autonomy would be further organizations of the same individuated unit: the relations deciding which of an individual's interventions become effective would belong to that individual under the criterion that individuates it, and the governance of governability would act on those relations; persistence is transmission, and none of the achievements implies the next
@@ -134,7 +139,7 @@ architecture, layer by layer:
    [QUESTION-284](../questions.d/QUESTION-284.md) (Open), which A7 cites rightly.
 2. **Persistence.** Transmission, not resemblance: "It would depend on how
    organizational capacities and constraints are causally transmitted,
-   reproduced, or regenerated across time." This is [CLAIM-329](CLAIM-329.md) (Proposed,
+   reproduced, or regenerated across time." This is [CLAIM-329](CLAIM-329.md) (Active,
    A's) and [TERM-071](../terms.d/TERM-071.md) (Active). Formation and maintenance provenance come
    apart ([CLAIM-522](CLAIM-522.md), Active, demonstrated), and present coupling can stay
    strong as maintenance fails ([CLAIM-521](CLAIM-521.md), Active, demonstrated, cited
@@ -199,3 +204,7 @@ the account forward instead of supposing it.
 ## Admission
 
 Under [ADR-075](../decisions.d/ADR-075.md)'s admission test, the integration must be able to fail while every component holds. Two of the three links between levels cannot: "persistence is the transmission of what produces the individual" is [CLAIM-329](CLAIM-329.md), and "autonomy governs the conditions of agency's efficacy" is [CLAIM-545](CLAIM-545.md) by definition. The third can. [CLAIM-405](CLAIM-405.md) lets differently fixed criteria pick out units whose boundaries cross. A firm's precedence and jurisdiction relations, which [CLAIM-027](CLAIM-027.md) says the firm has, decide which of a worker's interventions become effective, and they belong to a unit whose boundary crosses the worker's under every criterion that picks out the worker. Every component holds, and agency is not a further organization of the individual whose interventions it orders. The claim is admitted on that link alone, and the title says so.
+
+## Note of 2026-11-20: what holds it back
+
+[CLAIM-545](CLAIM-545.md), the governance of one's own governability, is the one premise not held, now that [CLAIM-329](CLAIM-329.md) is Active. And the section "Admission" states, in the indicative and with every component holding, a firm whose precedence and jurisdiction relations decide which of a worker's interventions become effective and lie outside the worker under every criterion that picks the worker out, which is the case the defeat condition names; until the claim says why that case is not one (for instance, that the interventions the firm's relations order are the firm's, enacted through the worker), the defeater reads as met.

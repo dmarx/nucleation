@@ -1,10 +1,35 @@
 ---
 number: 625
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmptwm5l
 title: "Over time intervals, gluing and continuation are different properties of histories: under local dynamics and a pointwise viability constraint the viable histories form a sheaf, yet restriction from a longer interval to a shorter need not be onto, and a viable history on [0, t] extends viably to [0, T] exactly when its endpoint can stay viable for the remaining time, so a coherent history can be terminal"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057), on a checked re-derivation (ADR-047, "What a
+    re-derivation counts for"). Its ground THEORY-134 is Active, nothing
+    objects to it, and nothing meets its defeated_if. Re-derived at this
+    review. Gluing: admissibility of a history is local (absolute
+    continuity and the dynamics holding almost everywhere) and K is a
+    condition at each instant, so histories on overlapping intervals that
+    agree on the overlap define one function on the union that is
+    admissible and stays in K. Not onto: for ẋ = −1, x > 0, x(0) = 1, the
+    history on [0, 1/2] is viable and nothing on [0, 3/2] is. Extension:
+    if a viable extension to [0, T] exists, its part on [t, T], shifted to
+    start at 0 by time invariance, keeps x(t) in K for T − t, so x(t) lies
+    in the finite-horizon kernel; conversely a trajectory from x(t)
+    staying in K for T − t, shifted to [t, T], concatenates with the
+    history at t. scratch/formal/claim639_632_625_checks.py checks the
+    discrete-time analogue on random transition systems (gluing, the
+    kernel test, a terminal history), and its control, a constraint set
+    that changes with time, makes the time-invariant kernel test fail.
+    The temporal reading, extension as THEORY-134's kernel over the
+    remaining horizon, is what CLAIM-131 does not say. Demonstrated. The
+    title is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

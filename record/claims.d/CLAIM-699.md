@@ -49,7 +49,7 @@ summary: >-
   test. Untested. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1908 ADR-075 CLAIM-697 CLAIM-695 THEORY-331 — Proposed or new; the claims this rests on and the readings it is set against -->
+<!-- inactive-ok-file: THEORY-1908 CLAIM-697 CLAIM-695 THEORY-331 — Proposed or new; the claims this rests on and the readings it is set against -->
 
 # CLAIM-699: Where the reward used in RL post-training is also available as a verifier at test time, the RL model's single-sample gain is a cheaper route to what base sampling filtered by that verifier reaches at matched compute, and should not exceed it at large budgets; RL's distinctive value lies where recognition at test time is unavailable or costly, so the substitutability of training and search is fixed by the cost of recognition
 

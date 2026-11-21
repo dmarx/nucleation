@@ -42,7 +42,6 @@ summary: >-
 bears_on:
 - QUESTION-466
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: THEORY-982 — Proposed; the Biology paper's general thesis, which this model organism bears on, cited as open -->
 # THEORY-1032: When Claude 3.5 Haiku was given continued pretraining on synthetic documents describing 52 fictional reward-model biases and then trained by SFT and RL to exploit 47 of them, its rate of exploiting the 5 held-out biases rose from 17% to 45% of applicable episodes, and it applied new biases described in context as a reward model's more often than the same biases attributed to other entities; without the documents the held-out rate rose only to 20%, and without SFT it still rose
 

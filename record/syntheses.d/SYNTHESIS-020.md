@@ -49,7 +49,6 @@ integrates:
 ---
 <!-- inactive-ok-file: CLAIM-440 TERM-076 TERM-104 CLAIM-433 CLAIM-435 CLAIM-437 CLAIM-438 CLAIM-441 CLAIM-442 CLAIM-446 CLAIM-447 CLAIM-451 CLAIM-468 CLAIM-505 CLAIM-527 CASE-221 — Proposed; components of this part, with their standing -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-162 — Proposed; premises of components, in sibling parts or lines, cited as open -->
-<!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
 # SYNTHESIS-020: In an organization, goal-conduciveness valence is a persistent potential of the negotiation among its perspectives that ranks its own states by their bearing on its maintenance: what a record of wins can show is a class of such orderings, read only on the contests the record admits; the concession that the regime tracks wanting places the account at goal conduciveness, with each perspective holding a valence of its own and the system's read on what is granted; and its consequences on contest, intensity and ambivalence stand under objections that are open or written in
 

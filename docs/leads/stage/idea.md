@@ -6,7 +6,7 @@
 
 **Idea** — named, with what it would advance; how it would be done is not yet said.
 
-137 of 198 LEAD documents. Back to the [full index](../README.md).
+139 of 205 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -147,3 +147,5 @@
 | [LEAD-194](../../../record/leads.d/LEAD-194.md) | Resolve the tension between the claims on curation as revision and on admission | Named in the curation entry of 2026-11-11 (061331). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-195](../../../record/leads.d/LEAD-195.md) | Rule on whether a symmetry or conservation law, or a possibility fact in Deutsch and Marletto's sense, counts as realizing a constraint | Named in [CLAIM-477](../../../record/claims.d/CLAIM-477.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-196](../../../record/leads.d/LEAD-196.md) | Read the consumer-resource competition works | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-201](../../../record/leads.d/LEAD-201.md) | Measure how much of the owner's originating turn each settled claim retains, judged blind in a metric fixed in advance, to tell entries whose content was copied exactly from entries contracted onto the record's conventions | The second profile [CLAIM-768](../../../record/claims.d/CLAIM-768.md) asks for, beside [LEAD-199](../../../record/leads.d/LEAD-199.md)'s revision count: retention of the originating turn's content by the entry it settled into. Settled and retained reads as conserved (copied exactly), settled and not retained as contraction. At stage idea: the metric and who judges are not fixed, and that is [ARG-028](../../../record/arguments.d/ARG-028.md)'s open dispute. | Open |
+| [LEAD-204](../../../record/leads.d/LEAD-204.md) | From the record's exchange history, trace ideas restated across sessions before they were coded, to tell which kind of drift they show (saturating at the collaborators' framings, linear, or undirected), whether ideas further from those framings are lost sooner, and whether drift accrues per restatement or per unit of time | The tests the formal account of drift ([CLAIM-773](../../../record/claims.d/CLAIM-773.md), [CLAIM-777](../../../record/claims.d/CLAIM-777.md)) makes possible on the record's own exchanges: the shape of directed drift, which discriminates contraction from bias in [CLAIM-191](../../../record/claims.d/CLAIM-191.md); time to loss against distance from the framings ([CLAIM-776](../../../record/claims.d/CLAIM-776.md)); and restatements against elapsed time ([CLAIM-782](../../../record/claims.d/CLAIM-782.md)). At stage idea: the measure of distance and who judges it are not fixed, which is [ARG-028](../../../record/arguments.d/ARG-028.md)'s open dispute. | Open |

@@ -57,7 +57,6 @@ summary: >-
 draws_on:
 - THEORY-1074
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 ADR-095 — Proposed; cited in the reading review's history note of 2026-11-14 -->
 <!-- inactive-ok-file: TERM-087 CLAIM-476 — Proposed, Open or new; the term, claims and question this sense serves -->
 
 # TERM-089: apparatus, in the operational sense: a realized organization that selectively couples differences in one system to distinguishable outcomes in another; by function it may differentiate, retain, enforce and revise, and the four come apart

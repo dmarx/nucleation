@@ -91,7 +91,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Superseded -->
-<!-- inactive-ok-file: ADR-075 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-001 CASE-222 CLAIM-621 CLAIM-627 CASE-226 — filed from the same exchange, Proposed; premise, the owner's case and A's components -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-417 TERM-098 CLAIM-276 — Proposed; components, cited with their standing -->
 <!-- inactive-ok-file: CLAIM-553 ARG-073 CASE-221 ARG-066 ARG-060 — the owner's construct, Proposed, and the argument and claim filed from the second share of the same exchange, Proposed -->

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpnf0d8
 title: 'Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators'' own framings rather than at random, and a code restores continuity of transmission'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-07'
@@ -12,6 +12,11 @@ history:
     At the third synthesis review of 2026-11-07: CLAIM-090, on which the direction
     clause depends and which the body cites, joins rests_on. Title and
     defeater unchanged.
+- version: 3
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-773 separates two shapes of directed drift
+    this claim does not choose between. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -51,6 +56,7 @@ summary: >-
 complements:
 - CLAIM-301
 ---
+<!-- inactive-ok-file: CLAIM-773 CLAIM-772 — Proposed; filed in the contribution of 2026-11-20 on a formal account of drift -->
 <!-- inactive-ok-file: CLAIM-090 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
@@ -139,3 +145,23 @@ the formal-apparatus line, and this claim's `rests_on` now names
 [CLAIM-270](CLAIM-270.md) and [CLAIM-267](CLAIM-267.md) in place of [CLAIM-081](CLAIM-081.md) and [CLAIM-056](CLAIM-056.md). The body's citations of [CLAIM-081](CLAIM-081.md) and [CLAIM-056](CLAIM-056.md) stand: they
 are where the record first argued the point. The change is that setting
 pragmatic-transport aside no longer takes this premise with it.
+
+## Note of 2026-11-20: what holds it back
+
+Two premises are Proposed. [CLAIM-090](CLAIM-090.md), on which the direction clause
+rests, waits on a chain whose endpoint matches a prior measured on its
+own transmitters ([QUESTION-137](../questions.d/QUESTION-137.md)); [CLAIM-182](CLAIM-182.md), on which the code clause
+rests, waits on a count of re-derivation before and after the same
+stored content got addresses. The direction prediction itself is
+untested in this claim's setting: no blind rating of re-derivations
+across sessions is held.
+
+## Note of 2026-11-20: two shapes of directed drift
+
+This claim says restatements drift "toward the collaborators' own framings
+rather than at random". [CLAIM-773](CLAIM-773.md) separates two directed kinds: drift
+toward a fixed point, which levels off at the framing, and drift by a
+constant bias with no fixed point, which grows linearly without end. The
+claim reads as the first, and [CLAIM-772](CLAIM-772.md) takes it so; its defeater
+tests direction only, which both kinds have. The shape of displacement
+against the number of restatements would tell them apart ([LEAD-204](../leads.d/LEAD-204.md)).

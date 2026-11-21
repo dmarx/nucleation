@@ -98,7 +98,6 @@ complements:
 - CLAIM-591
 ---
 <!-- inactive-ok-file: CLAIM-584 — Proposed; cited in the note of 2026-11-13 with its standing -->
-<!-- inactive-ok-file: ADR-096 — Proposed; the construction case filed from this claim's body, and the decision it applies -->
 <!-- inactive-ok-file: THEORY-1420 CASE-198 CASE-200 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-204 CASE-207 CASE-208 CASE-211 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
 

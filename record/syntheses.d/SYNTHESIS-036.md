@@ -105,7 +105,7 @@ summary: >-
   Proposed. The account adds nothing of its own; its standing is its
   components'.
 ---
-<!-- inactive-ok-file: ADR-083 ADR-084 ARG-005 ARG-009 ARG-051 ARG-065 ARG-069 CASE-230 CLAIM-024 CLAIM-336 CLAIM-355 CLAIM-417 CLAIM-440 CLAIM-487 CLAIM-613 CLAIM-627 TERM-118 THEORY-1297 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-005 ARG-009 ARG-051 ARG-065 ARG-069 CASE-230 CLAIM-024 CLAIM-336 CLAIM-355 CLAIM-417 CLAIM-440 CLAIM-487 CLAIM-613 CLAIM-627 TERM-118 THEORY-1297 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: ARG-046 ARG-057 CLAIM-010 CLAIM-089 — Rejected; components and citations, with their standing -->
 <!-- inactive-ok-file: CASE-014 — Deferred; components and citations, set aside -->
 <!-- inactive-ok-file: CLAIM-012 CLAIM-062 TERM-003 — Superseded; components and citations, with their standing (the syntheses among them carry content returned to claims, ADR-084) -->

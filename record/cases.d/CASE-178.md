@@ -55,7 +55,6 @@ summary: >-
 draws_on:
 - THEORY-1279
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claims the measurement bears on -->
 <!-- inactive-ok-file: THEORY-1742 THEORY-1768 THEORY-1775 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 

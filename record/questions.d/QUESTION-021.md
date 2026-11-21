@@ -26,7 +26,6 @@ summary: >-
   never argues against the first.
 ---
 <!-- inactive-ok-file: CLAIM-220 — Proposed; the restatement that bears on this question, open -->
-<!-- inactive-ok-file: CLAIM-329 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; answers proposed on 2026-10-10, cited as open -->
 

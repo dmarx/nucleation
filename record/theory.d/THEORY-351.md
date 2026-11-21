@@ -148,3 +148,7 @@ stylized task analysis of successful flights, as the title's "argued …,
 not measured" already says. An Active "Hutchins argues" reading on
 [THEORY-1110](THEORY-1110.md)'s pattern would free nothing, now that [CLAIM-296](../claims.d/CLAIM-296.md) cites it as
 corroboration.
+
+## Note of 2026-11-20: what holds it back
+
+Rechecked after [CLAIM-296](../claims.d/CLAIM-296.md)'s revision of 2026-11-11, which adds a bears_on edge to [QUESTION-097](../questions.d/QUESTION-097.md) and does not touch this reading. The record still holds no measured comparison of crews with and without speed bugs under the same load: the later entries that name the bugs ([NOTE-865](../notes.d/NOTE-865.md), [NOTE-883](../notes.d/NOTE-883.md), [LEAD-108](../leads.d/LEAD-108.md)) take them as a case for a cost model, not a measurement. The survey of 2026-10-30 under [ADR-065](../decisions.d/ADR-065.md) read the title as general, so the condition stands.

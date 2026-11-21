@@ -32,7 +32,6 @@ summary: >-
 <!-- inactive-ok-file: THEORY-1853 — filed from the readings of 2026-11-13, Proposed; Marcuse -->
 <!-- inactive-ok-file: CLAIM-680 CLAIM-683 CLAIM-677 CLAIM-682 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: THEORY-1852 THEORY-411 — Proposed; the readings the standard combines, cited with their standing -->
-<!-- inactive-ok-file: ADR-075 — Proposed; the line and the admission routes -->
 
 # QUESTION-465: Can the standard that an arrangement, a technology among them, succeeds insofar as it widens people's substantive freedom to pursue worthwhile lives without domination be stated so that some outcome would count against it, and how are its parts weighed when capability, worth and non-domination conflict?
 

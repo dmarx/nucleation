@@ -1,0 +1,121 @@
+---
+status: Active
+title: 'When the owner earmarks something for the retrospective, in conversation or on a pull request, the assistant files a devlog note tagged retro and earmarked, quoting the earmark and where it was made, in the pull request it concerns, whether or not the dialectic regime is on; the next retrospective answers each earmarked note by name, saying what came of it'
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    The owner's ruling of 2026-11-21, choosing among the alternative
+    readings filed for one request: "571-A". This reading, earmarks as one
+    decision apart from ADR-115, is adopted; the alternatives ADR-tmp7kh0t,
+    ADR-tmpuu4y4 and ADR-tmps83ka go Rejected and stay as the readings not
+    taken.
+tags:
+- record
+- process
+date: '2026-11-21'
+summary: >-
+  The owner, 2026-11-21, after an earmark of theirs on pull request 570
+  ("this feels like a good example of noticing a distinction. earmarking
+  for the retro") was filed as a devlog note: "oh nice, let's persist and
+  standardize that as a new convention with an ADR. I feel like those are
+  separable." Separable from [ADR-115](ADR-115.md), which has the assistant take devlog
+  notes on its own judgment: an earmark is the owner's request that a note
+  exist, and the retrospective owes it an answer.
+---
+<!-- inactive-ok-file: ADR-tmp7kh0t ADR-tmpuu4y4 ADR-tmps83ka — Proposed; the alternative readings filed beside this one -->
+<!-- inactive-ok-file: ADR-115 ADR-tmpzgon7 — Proposed; the decision on devlog notes this one sits beside, and the regime it holds regardless of -->
+
+# ADR-tmpyzxw8: When the owner earmarks something for the retrospective, in conversation or on a pull request, the assistant files a devlog note tagged retro and earmarked, quoting the earmark and where it was made, in the pull request it concerns, whether or not the dialectic regime is on; the next retrospective answers each earmarked note by name, saying what came of it
+
+## Context
+
+[ADR-115](ADR-115.md) made the devlog the place for notes taken during the work, for the
+next retrospective, and asked the assistant to file them as the work goes,
+on its own judgment of what is going right or wrong. On 2026-11-21 the owner
+did something different: reviewing pull request 570, they marked a moment
+themselves, "this feels like a good example of noticing a distinction.
+earmarking for the retro". The assistant filed it as a devlog note, and the
+owner asked for that to become a convention, separate from [ADR-115](ADR-115.md).
+
+The two differ in whose judgment starts the note and in what is owed to it.
+A note the assistant takes is material a retrospective may use. A note the
+owner asks for is a question put to the retrospective: the owner has said
+this is worth looking at, and the retrospective should say what it found.
+Without a convention an earmark lives only in a chat turn or a pull-request
+comment, where the next retrospective will not look, and nothing tells the
+retrospective which of the devlog's notes it must not pass over.
+
+## Readings of the request
+
+"Separable" in the owner's request has three readings, filed as alternative
+decisions under the dialectic regime's rule for several readings: this one,
+separable from [ADR-115](ADR-115.md); [ADR-tmp7kh0t](ADR-tmp7kh0t.md) and [ADR-tmpuu4y4](ADR-tmpuu4y4.md), persist separable from standardize;
+and [ADR-tmps83ka](ADR-tmps83ka.md), the convention separable from the decision, as a procedure of its
+own. The owner chooses; the rest go Rejected.
+
+The assistant's lean: this one or [ADR-tmps83ka](ADR-tmps83ka.md). Separating persist from standardize
+splits what a reader needs together, the note and its answer; separating
+the convention as a procedure is the record's own pattern ([ADR-068](ADR-068.md) and its
+skill), and pays off once a retrospective skill exists.
+
+## Decision
+
+**An earmark.** The owner earmarks something when they say it is for the
+retrospective, in any words ("earmarking for the retro", "note that for
+the retro", "remember this at the retro"), in conversation or in a comment
+on a pull request.
+
+**The note.** The assistant files a devlog note at once, whether or not the
+dialectic regime ([ADR-tmpzgon7](ADR-tmpzgon7.md)) is on, since the earmark is itself the
+request. The note:
+
+- is tagged `retro` and `earmarked`, so a retrospective can find every
+  earmarked note since the last one;
+- quotes the earmark verbatim and says where it was made, the session turn
+  or the pull request and comment;
+- says what was earmarked, why it may matter beyond the moment, and what is
+  still missing, in the assistant's words, marked as its own;
+- goes in the pull request the earmarked thing concerns, or, when there is
+  none, in the next one the assistant opens.
+
+**The answer.** The next retrospective (RETRO) lists every `earmarked` note
+filed since the last one, by date, and says of each what came of it: a
+practice kept on purpose, a decision it prompted, a change it calls for, or
+that it was looked at and set aside, and why. An earmark is not closed until
+a retrospective has answered it.
+
+**Not an earmark.** A remark that something went well, without asking that
+it be kept for the retrospective, leaves the assistant's [ADR-115](ADR-115.md) judgment
+where it is; the assistant may still file a note, tagged `retro` only.
+
+## Alternatives considered
+
+- **Fold it into [ADR-115](ADR-115.md).** One decision on the devlog. The owner asked for
+  this to be separate, and the difference is real: [ADR-115](ADR-115.md) is about the
+  assistant's notes, this about the owner's requests and what a
+  retrospective owes them.
+- **A field or a scheme for earmarks.** A relation from the retrospective to
+  each earmark would let lint check that every one was answered. It is a
+  change to `luria.yaml`, and a tag is enough to find them; if earmarks go
+  unanswered in practice, a field is the next rung of [DP-3](../../docs/design-principles.md#dp-3)'s ladder.
+- **Leave earmarks in the conversation or the pull request.** The status
+  quo. A retrospective reads the devlog, not the comments, so they would be
+  lost.
+
+## Consequences
+
+- An owner's earmark costs them one phrase and is kept until a
+  retrospective answers it.
+- Retrospectives gain a section to write, and a list they cannot skip.
+- The tag `earmarked` is new to the devlog. Its tags are not a closed
+  vocabulary, so no configuration changes.
+
+## First application
+
+The owner's earmark on pull request 570, filed there as the devlog note of
+2026-11-21, 034912, on the class of entries the dialectic regime files. That
+note is tagged `earmarked` in pull request 570; it does not cite this
+decision, since the two are in separate pull requests until both reach
+staging.

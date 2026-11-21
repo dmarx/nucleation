@@ -207,4 +207,3 @@ directional information measures between reciprocally coupled units follow
 a one-sided drive and not the coupling. The source makes no general claim,
 so it is filed as the record's own interpretive claim. It names this entry
 in its grounds, as its evidence. Nothing here changes.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

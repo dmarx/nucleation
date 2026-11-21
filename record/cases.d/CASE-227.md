@@ -39,7 +39,6 @@ summary: >-
 draws_on:
 - THEORY-1227
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's draws_on first applies, cited in its history -->
 
 # CASE-227: A coordination mode kept by a decaying capacity: in φ̇ = −sin φ − c sin 2φ anti-phase is stable only for c > ½, with relaxation time 1/(2c − 1) and escape barrier (2c − 1)²/(4c); with c produced at 2.2c²/(1 + c²) against unit decay, c = 0.6 holds anti-phase stable while lying below the unstable maintenance level 0.642, so the capacity decays through ½ and the mode is lost
 

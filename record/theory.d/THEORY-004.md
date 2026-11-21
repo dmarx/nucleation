@@ -129,4 +129,3 @@ So the kernel is the invariant and the representation is one realization of it â
   representations whose rank equals the number of examples. A comparison
   under that larger group is degenerate once the representation is wide
   enough, so the kernel is not traded for an invertible-linear invariant.
-<!-- inactive-ok-file: ADR-094 â€” Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

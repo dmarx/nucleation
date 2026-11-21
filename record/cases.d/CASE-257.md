@@ -79,7 +79,6 @@ summary: >-
   whether seating, casting and colonial law kept the contributions from
   giving standing, as an interpretation for QUESTION-461 to test.
 ---
-<!-- inactive-ok-file: ADR-100 ADR-085 — Proposed; the split of organizational-normativity and the line rule it applies, cited in the history note of 2026-11-15 -->
 <!-- inactive-ok-file: CLAIM-669 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-614 CLAIM-624 — Proposed; the claims A6 §5 read the case against, cited with their standing -->
 <!-- inactive-ok-file: LIT-2528 LIT-2516 LIT-2537 — Unavailable; registered from the same exchange, unread -->

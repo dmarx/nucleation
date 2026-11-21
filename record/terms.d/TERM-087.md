@@ -56,7 +56,6 @@ complements:
 draws_on:
 - THEORY-1076
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision this entry's history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: LIT-1653 LIT-1657 — Unavailable or Deferred; Barad's texts, unread; the agential sense is the exchange's account of her and the readings' quotations -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed; the claim stated in the agential sense -->
 

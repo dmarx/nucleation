@@ -1,10 +1,37 @@
 ---
 number: 639
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpopi1b
 title: 'Knowing each configuration''s requirement to within ε fixes every transition threshold to within ε but not which of a system''s own reachable classes an observer''s partitions can agree with: where two merges of the merge tree lie within 2ε of each other, an error within ε can reorder them, replacing a level that agrees under some order of probe costs with one that agrees under none'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings; ADR-057), on a checked re-derivation (ADR-047, "What a
+    re-derivation counts for"). Its premises CLAIM-580, CLAIM-581 and
+    CLAIM-592 are Active, nothing objects to it, and nothing meets its
+    defeated_if: neither premise states whether agreement survives error
+    in the requirement. Re-derived step by step at this review. Merge
+    heights are thresholds, so CLAIM-580 moves each by at most ε; the
+    levels are the partitions between consecutive heights (CLAIM-581); the
+    candidates for agreement are the refinements of probe sets, fixed by
+    the probes (CLAIM-592). On the five-state path the true middle level
+    {x, m₁, y} {m₂} {z} is the refinement of p and q, and the estimated
+    one {x} {m₁} {y, m₂, z} is no refinement of any probe set (the four
+    are the whole set, p, q and p with q). The security bound in "What it
+    adds" also holds: if h₂ − h₁ > 2ε, every pair the level joins has
+    estimated threshold at most h₁ + ε, below h₂ − ε, the least estimate
+    of any pair it separates. scratch/formal/claim639_632_625_checks.py
+    recomputes the witness, checks the bound on random instances, and
+    fires two controls: at a gap of 0.3 the same error leaves the level
+    agreeing, and levels with gaps of at most 2ε are lost in some
+    instances. "Can reorder" is existential, as the defeated_if says: not
+    every pair of merges within 2ε can be reordered, for instance where
+    every path joining at the higher merge passes the lower merge's
+    bottleneck. Demonstrated. The title is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -50,7 +77,6 @@ summary: >-
   bound that level. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-075 ADR-084 — Proposed; the test this claim is filed under -->
 
 # CLAIM-639: Knowing each configuration's requirement to within ε fixes every transition threshold to within ε but not which of a system's own reachable classes an observer's partitions can agree with: where two merges of the merge tree lie within 2ε of each other, an error within ε can reorder them, replacing a level that agrees under some order of probe costs with one that agrees under none
 

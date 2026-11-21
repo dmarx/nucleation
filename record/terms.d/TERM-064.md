@@ -82,7 +82,6 @@ draws_on:
 - THEORY-846
 - THEORY-1342
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: THEORY-841 THEORY-857 — Proposed; Hayek's argument and James et al.'s bidirectionality, cited as readings that bear on the term, nothing rests on them -->

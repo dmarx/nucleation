@@ -1,10 +1,20 @@
 ---
 number: 633
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpmrnnq
 title: 'In the two-path construction where a resource budget below √2 disconnects two zero-loss realizations, the two lie on one orbit of the symmetry that swaps the network''s two paths, and for every budget from 1 to below √2 the budgeted zero-loss set is two path-connected pieces that the swap exchanges, so once that symmetry is quotiented the budgeted set is connected: the construction shows connectedness relative to the admitted paths in parameter space, not between solutions counted up to the architecture''s symmetries'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings). Its premise CLAIM-524 is Active, nothing objects to it, and
+    the derivation was re-derived step by step at the review and checked
+    by scratch/formal/claim633_swap_quotient_check.py, whose three controls
+    fire. The check, which the body had said was not filed as a script,
+    is added to the body. The title and claim are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -41,7 +51,7 @@ summary: >-
   up to symmetry. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: ADR-075 CLAIM-263 — Proposed; components, citations and the decisions this account follows, with their standing -->
+<!-- inactive-ok-file: CLAIM-263 — Proposed; components, citations and the decisions this account follows, with their standing -->
 
 # CLAIM-633: In the two-path construction where a resource budget below √2 disconnects two zero-loss realizations, the two lie on one orbit of the symmetry that swaps the network's two paths, and for every budget from 1 to below √2 the budgeted zero-loss set is two path-connected pieces that the swap exchanges, so once that symmetry is quotiented the budgeted set is connected: the construction shows connectedness relative to the admitted paths in parameter space, not between solutions counted up to the architecture's symmetries
 
@@ -87,6 +97,16 @@ R ≥ √(1 − p) + √p, with equality when u₁ = v₁ and u₂ = v₂.
 of 200,000 points drawn on f = 1, the 22,994 with R < B had p below 0.136
 or above 0.862, and the swap kept every one on f = 1 with R < B. The
 monotone steps were checked on a grid.
+
+**Re-checked at the status review of 2026-11-20** by
+scratch/formal/claim633_swap_quotient_check.py. The swap preserves f and R
+exactly on 2,000 rational points. At seven budgets from 1.0001 to 1.414,
+none of the 4,212 sampled points of S_B has p in the gap (p_B, 1 − p_B);
+the swap keeps each in S_B and sends p to 1 − p; and the retraction above
+keeps f = 1 with R nonincreasing and ends at a. B = 1 admits only p = 0 and
+p = 1 among balanced points. Its controls fire: at B = 1.5, past √2, points
+enter the gap; a resource with unequal costs on the two paths is not
+preserved by the swap; and the straight segment to a leaves f = 1.
 
 ## Relation to the record
 

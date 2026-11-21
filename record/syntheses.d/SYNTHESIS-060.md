@@ -34,7 +34,7 @@ integrates:
 - QUESTION-006
 - CLAIM-635
 ---
-<!-- inactive-ok-file: CLAIM-635 CLAIM-059 CLAIM-068 — Proposed; the claim drafted at this review and a citation, with their standing -->
+<!-- inactive-ok-file: CLAIM-059 CLAIM-068 — Proposed; the claim drafted at this review and a citation, with their standing -->
 <!-- inactive-ok-file: CLAIM-015 — Superseded; the claim CLAIM-040 objected to -->
 
 # SYNTHESIS-060: A symmetry principle can be borrowed for reconstruction kernels but a conservation law has to be derived: under Markov kernels a harmonic observable conserves only its mean and an approximately harmonic one drifts by at most the summed defects, mean conservation does not make an observable a symmetry, on a finite irreducible chain only constants are harmonic, and which pragmatic observables real kernels conserve is open

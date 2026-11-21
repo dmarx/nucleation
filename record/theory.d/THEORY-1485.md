@@ -53,7 +53,6 @@ summary: >-
 bears_on:
 - QUESTION-398
 ---
-<!-- inactive-ok-file: ADR-091 ADR-093 — Proposed; cited in the reading review's history note of 2026-11-11 -->
 
 # THEORY-1485: On Schröder, Persson and De Roos, of 35 manipulation experiments testing for alternative stable states, 21 were conclusive over at least one turnover of the longest-lived organisms, 13 of them showing bistability and 8 its absence; positives came mostly from laboratory rather than field systems, and only 3 of 15 tests of non-recovery after a pressure was removed were positive
 

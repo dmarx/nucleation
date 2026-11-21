@@ -2,11 +2,11 @@
 
 # POSTMORTEMs with `status` `Accepted`
 
-*Postmortem statuses — Where a POSTMORTEM stands. A postmortem is never deleted; it is accepted, or replaced by a fuller review of the same change (the decision adding the POSTMORTEM scheme).*
+*Postmortem and retrospective statuses — Where a POSTMORTEM or a RETRO stands. Neither is ever deleted; each is accepted, or replaced by a fuller review of the same change or period (the decision adding the POSTMORTEM scheme; the decision adding the RETRO scheme).*
 
 **Accepted** — the owner accepts its account of what happened and what it recommends.
 
-0 of 3 POSTMORTEM documents. Back to the [full index](../README.md).
+0 of 4 POSTMORTEM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

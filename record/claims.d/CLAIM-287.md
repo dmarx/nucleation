@@ -81,7 +81,6 @@ bears_on:
 - QUESTION-043
 - QUESTION-123
 ---
-<!-- inactive-ok-file: CASE-223 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-447 — Proposed; Parfit's account, the parallel this claim restates, cited as open -->
 <!-- inactive-ok-file: CLAIM-161 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->

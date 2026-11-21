@@ -29,7 +29,7 @@ integrates:
 - QUESTION-106
 - QUESTION-024
 ---
-<!-- inactive-ok-file: ADR-075 CLAIM-007 CLAIM-029 CLAIM-058 CLAIM-095 CLAIM-220 — Proposed; components and citations, open, with their standing given in the text -->
+<!-- inactive-ok-file: CLAIM-007 CLAIM-029 CLAIM-058 CLAIM-095 CLAIM-220 — Proposed; components and citations, open, with their standing given in the text -->
 
 # SYNTHESIS-059: Reading a language model's response to its context as a parameterized frame makes context-conditioned models a controlled test bed for the theory only with generator and evaluator separated, stimuli held out from training and agreement required across model families, never as evidence about human pragmatics or about what a translation ought to keep, and the frame reading itself is held back because its defeat condition is met as written
 

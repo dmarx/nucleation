@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmp7jbzx
 title: 'Which pragmatic observables are conserved, exactly or within a bounded defect, by actual reconstruction kernels, and how does that depend on frame, genre and adaptation?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-20'
+  note: >-
+    A dated note: CLAIM-772 bears on the question by design rather
+    than discovery. No change of status or title.
 tags:
 - mathematics
 - philosophy-of-language
@@ -19,6 +25,7 @@ summary: >-
   keeps the criterion (§4) and one sub-question, at what stage an
   invariant stops being conserved.
 ---
+<!-- inactive-ok-file: CLAIM-772 ARG-124 — Proposed; filed in the contribution of 2026-11-20 on an entry's life cycle -->
 
 # QUESTION-006: Which pragmatic observables are conserved, exactly or within a bounded defect, by actual reconstruction kernels, and how does that depend on frame, genre and adaptation?
 
@@ -56,3 +63,15 @@ says; none has yet been assessed as an answer, and none is linked by
   conservation correspond because the bracket is…
 - [THEORY-190](../theory.d/THEORY-190.md): The S¹ hidden-metric network model is approximately closed
   under geometric coarse-graining: merging…
+
+## Note of 2026-11-20: conservation by design
+
+[CLAIM-772](../claims.d/CLAIM-772.md) bears on this question from the other side. The question asks
+which observables actual kernels conserve. The record's own design makes
+some conserved by construction: a coded entry read verbatim is copied
+exactly, so its text is harmonic for the session's step, as [CLAIM-107](../claims.d/CLAIM-107.md) and
+[CLAIM-635](../claims.d/CLAIM-635.md) require. Its interpretation is not ([ARG-124](../arguments.d/ARG-124.md)). So for the
+record's restatements a partial answer is: the stored text of coded entries,
+exactly; the form fixed by the schema, by contraction rather than
+conservation; the rest, at best within a defect. It does not answer the
+question for serial reconstruction without a record.

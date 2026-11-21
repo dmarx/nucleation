@@ -28,6 +28,7 @@ A code — `ADR-012` — resolves to a document, and every reference to it in th
 | `ARG-001` | `record/arguments.d/` | `docs/arguments/README.md` + tag pages | `Active` |
 | `LEAD-001` | `record/leads.d/` | `docs/leads/README.md` + tag pages | `Open` |
 | `POSTMORTEM-001` | `record/postmortems.d/` | `docs/postmortems/README.md` + tag pages | `Accepted` |
+| `RETRO-001` | `record/retrospectives.d/` | `docs/retrospectives/README.md` + tag pages | `Accepted` |
 | `SYNTHESIS-001` | `record/syntheses.d/` | `docs/syntheses/README.md` + tag pages | `Current` |
 
 ## What each family is
@@ -80,7 +81,11 @@ A piece of work the record could do to advance one of its questions or claims: a
 
 **`POSTMORTEM`** — Postmortems
 
-A review of how a change to the record has worked out once it has been used: what the decisions behind it changed, how the record has used the change since, what went well and what did not, and what to do next. It reviews the decisions (ADR) and links the pull requests that carried them and the discussions that prompted the review; its recommendations become decisions of their own, which it names in `prompted`. A postmortem says what happened, not what the record believes about its subject (the decision adding the POSTMORTEM scheme).
+A review in response to something that went wrong: a check that went red and stayed red, a revert, an entry retracted because it was filed wrong, a standing rule broken or nearly broken, a decision revised soon after landing. What happened, why, what it cost, and what changes. It reviews the decisions (ADR) whose procedure was in play and links the pull requests involved; its recommendations become decisions of their own, which it names in `prompted`. Rarer than a RETRO, which reviews how a change or a stretch of work went, including what went right (the decision adding the POSTMORTEM scheme; the decision adding the RETRO scheme).
+
+**`RETRO`** — Retrospectives
+
+A review of how a change to the record, or a stretch of work, has gone: what it covered, what went well and why, so that it can be kept on purpose, what did not, and what to change. It reads the devlog entries filed since the last retrospective, which hold the notes taken during the work, and cites them by date. It may review the decisions (ADR) whose changes or procedures it assesses, link the pull requests and discussions, and name in `prompted` the decisions its recommendations become. A retrospective says how the work went, not what the record believes about its subject; something that went wrong and needs its own account is a POSTMORTEM (the decision adding the RETRO scheme).
 
 **`SYNTHESIS`** — Syntheses
 
@@ -148,8 +153,8 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 **`ADR`**
 
 - `superseded_by` — required when `status` is `Superseded`, one or more `ADR` codes when present; forbidden when `status` is `Active` (luria.yaml: schemes.ADR.references.superseded_by)
-- `reviewed_by` — optional, one or more `POSTMORTEM` codes when present (luria.yaml: schemes.ADR.references.reviewed_by) — *the postmortems that review how this decision has worked, derived from their `reviews`, computed for every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme)*
-- `prompted_by` — optional, one or more `POSTMORTEM` codes when present (luria.yaml: schemes.ADR.references.prompted_by) — *the postmortems whose recommendations this decision carries out, derived from their `prompted`, computed for every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme)*
+- `reviewed_by` — optional, one or more `POSTMORTEM` or `RETRO` codes when present (luria.yaml: schemes.ADR.references.reviewed_by) — *the postmortems and retrospectives that review how this decision has worked, derived from their `reviews`, computed for every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme; the decision adding the RETRO scheme)*
+- `prompted_by` — optional, one or more `POSTMORTEM` or `RETRO` codes when present (luria.yaml: schemes.ADR.references.prompted_by) — *the postmortems and retrospectives whose recommendations this decision carries out, derived from their `prompted`, computed for every reader and never stored (the decision adding the POSTMORTEM scheme; the decision revising the LEAD scheme; the decision adding the RETRO scheme)*
 - `status` — optional, one of `Active`, `Proposed`, `Deferred`, `Superseded`, `Rejected` (luria.yaml: schemes.ADR.fields.status; vocabulary 'statuses': values)
 - `tags` — required, one or more of `record`, `taxonomy`, `mechanism`, `migration` (luria.yaml: schemes.ADR.fields.tags; vocabulary 'adr-tags': values) — *What a decision is about, in the order the index shows them. Open, unlike the topics: a decision that needs a word it does not have simply gets one.*
 
@@ -278,11 +283,21 @@ Every entry carries `title` and `date`. Everything else is listed below rather t
 
 - `reviews` — required, one or more `ADR` codes (luria.yaml: schemes.POSTMORTEM.references.reviews) — *the decisions whose changes this postmortem reviews*
 - `prompted` — optional, one or more `ADR` codes when present (luria.yaml: schemes.POSTMORTEM.references.prompted) — *the decisions that carry out this postmortem's recommendations, added once they are filed*
-- `superseded_by` — required when `status` is `Superseded`, one or more `POSTMORTEM` codes when present; forbidden when `status` is `Accepted` (luria.yaml: schemes.POSTMORTEM.references.superseded_by)
-- `status` — optional, one of `Draft`, `Accepted`, `Superseded` (luria.yaml: schemes.POSTMORTEM.fields.status; vocabulary 'postmortem-statuses': values) — *Where a POSTMORTEM stands. A postmortem is never deleted; it is accepted, or replaced by a fuller review of the same change (the decision adding the POSTMORTEM scheme).*
+- `superseded_by` — required when `status` is `Superseded`, one or more `POSTMORTEM` or `RETRO` codes when present; forbidden when `status` is `Accepted` (luria.yaml: schemes.POSTMORTEM.references.superseded_by)
+- `status` — optional, one of `Draft`, `Accepted`, `Superseded` (luria.yaml: schemes.POSTMORTEM.fields.status; vocabulary 'postmortem-statuses': values) — *Where a POSTMORTEM or a RETRO stands. Neither is ever deleted; each is accepted, or replaced by a fuller review of the same change or period (the decision adding the POSTMORTEM scheme; the decision adding the RETRO scheme).*
 - `tags` — required, one or more of `record`, `taxonomy`, `mechanism`, `migration` (luria.yaml: schemes.POSTMORTEM.fields.tags; vocabulary 'adr-tags': values) — *What a decision is about, in the order the index shows them. Open, unlike the topics: a decision that needs a word it does not have simply gets one.*
 - `pull_requests` — required (luria.yaml: schemes.POSTMORTEM.fields.pull_requests) — *the pull requests that carried the reviewed change, as URLs*
 - `discussions` — optional (luria.yaml: schemes.POSTMORTEM.fields.discussions) — *where the review was asked for or held, as URLs (a session, an issue, a pull request thread)*
+
+**`RETRO`**
+
+- `reviews` — optional, one or more `ADR` codes when present (luria.yaml: schemes.RETRO.references.reviews) — *the decisions whose changes or procedures this retrospective assesses*
+- `prompted` — optional, one or more `ADR` codes when present (luria.yaml: schemes.RETRO.references.prompted) — *the decisions that carry out this retrospective's recommendations, added once they are filed*
+- `superseded_by` — required when `status` is `Superseded`, one or more `RETRO` codes when present; forbidden when `status` is `Accepted` (luria.yaml: schemes.RETRO.references.superseded_by)
+- `status` — optional, one of `Draft`, `Accepted`, `Superseded` (luria.yaml: schemes.RETRO.fields.status; vocabulary 'postmortem-statuses': values) — *Where a POSTMORTEM or a RETRO stands. Neither is ever deleted; each is accepted, or replaced by a fuller review of the same change or period (the decision adding the POSTMORTEM scheme; the decision adding the RETRO scheme).*
+- `tags` — required, one or more of `record`, `taxonomy`, `mechanism`, `migration` (luria.yaml: schemes.RETRO.fields.tags; vocabulary 'adr-tags': values) — *What a decision is about, in the order the index shows them. Open, unlike the topics: a decision that needs a word it does not have simply gets one.*
+- `pull_requests` — optional (luria.yaml: schemes.RETRO.fields.pull_requests) — *the pull requests of the change or stretch of work reviewed, as URLs*
+- `discussions` — optional (luria.yaml: schemes.RETRO.fields.discussions) — *where the retrospective was asked for or held, as URLs (a session, an issue, a pull request thread)*
 
 **`SYNTHESIS`**
 
@@ -347,6 +362,7 @@ Every kind this project scaffolds, straight from the dispatch table `luria new` 
 | `luria new --kind note --title "…"` | a document in the `NOTE` scheme, numbered for you |
 | `luria new --kind postmortem --title "…"` | a document in the `POSTMORTEM` scheme, numbered for you |
 | `luria new --kind question --title "…"` | a document in the `QUESTION` scheme, numbered for you |
+| `luria new --kind retro --title "…"` | a document in the `RETRO` scheme, numbered for you |
 | `luria new --kind synthesis --title "…"` | a document in the `SYNTHESIS` scheme, numbered for you |
 | `luria new --kind term --title "…"` | a document in the `TERM` scheme, numbered for you |
 | `luria new --kind theory --title "…"` | a document in the `THEORY` scheme, numbered for you |

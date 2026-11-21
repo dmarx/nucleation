@@ -62,7 +62,7 @@ summary: >-
   apart ([TERM-050](../terms.d/TERM-050.md), [TERM-061](../terms.d/TERM-061.md)). The account adds nothing of its own; its
   standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-083 ADR-084 ARG-016 CLAIM-156 CLAIM-162 CLAIM-169 CLAIM-198 CLAIM-262 CLAIM-358 CLAIM-362 CLAIM-364 CLAIM-440 CLAIM-441 CLAIM-484 CLAIM-541 CLAIM-616 SYNTHESIS-020 SYNTHESIS-023 THEORY-067 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: ARG-016 CLAIM-156 CLAIM-162 CLAIM-169 CLAIM-198 CLAIM-262 CLAIM-358 CLAIM-362 CLAIM-364 CLAIM-440 CLAIM-441 CLAIM-484 CLAIM-541 CLAIM-616 SYNTHESIS-020 SYNTHESIS-023 THEORY-067 — Proposed; components and citations, with their standing -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; components and citations, with their standing (the syntheses among them carry content returned to claims, ADR-084) -->
 <!-- inactive-ok-file: QUESTION-015 QUESTION-304 — Answered; components and citations, with their standing -->
 

@@ -39,7 +39,6 @@ integrates:
 <!-- inactive-ok-file: CLAIM-355 CLAIM-439 — Proposed; components of this part, with their standing -->
 <!-- inactive-ok-file: CLAIM-440 THEORY-045 THEORY-090 THEORY-093 THEORY-095 THEORY-101 THEORY-662 — Proposed; the premise of a component and the readings the components cite -->
 <!-- inactive-ok-file: CLAIM-003 — Proposed; a component of this part, reopened with its line on 2026-11-11 -->
-<!-- inactive-ok-file: ADR-083 ADR-084 — Proposed; the decisions this account is filed under -->
 
 # SYNTHESIS-022: Whether organizational affect is felt is held apart from whether it is functional: the binding of a distributed response can be real while the single owner it is attributed to is a self-model's construction, a regime of valence is felt in the sense of attended and available when the system models its own potential, and access within one agent may be compartmented; whether the model that makes valence felt is the one that presents an owner, and whether a state meeting a functional characterization of affect must be felt, are open
 

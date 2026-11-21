@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [November 2026](2026-11.md)
 
+- [20 Nov 21:06 — Status review of 2026-11-20: entries proximal to PR 555's manuscript; 11 promoted](2026-11.md#status-review-of-2026-11-20-entries-proximal-to-pr-555s-manuscript-11-promoted)
 - [18 Nov 08:39 — Status review of 2026-11-18: the sections that must be empty, five clusters and a follow-up; 25 promoted](2026-11.md#status-review-of-2026-11-18-the-sections-that-must-be-empty-five-clusters-and-a-follow-up-25-promoted)
 - [11 Nov 16:54 — Status review of the 74 readings filed 2026-11-11: 73 promoted, 7 narrowed, 3 ties removed](2026-11.md#status-review-of-the-74-readings-filed-2026-11-11-73-promoted-7-narrowed-3-ties-removed)
 - [7 Nov 01:51 — The exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07, U1–U24): from the record's core synthesis, through synchronization as a laboratory, timescale separation and slaving, metastability and absorbing states, viable-history sheaves, software products and contested succession, to meaning, "anti-vax", will and disposition; what each run of turns found, and what was filed](2026-11.md#the-exchange-individuation-possibility-and-disposition-2026-11-06-to-07-u1u24-from-the-records-core-synthesis-through-synchronization-as-a-laboratory-timescale-separation-and-slaving-metastability-and-absorbing-states-viable-history-sheaves-software-products-and-contested-succession-to-meaning-anti-vax-will-and-disposition-what-each-run-of-turns-found-and-what-was-filed)
@@ -20,9 +21,9 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-132 entries across 2 books, newest first.
+133 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-11](2026-11.md) | 11 | 2026-11-03 | 2026-11-18 |
+| [2026-11](2026-11.md) | 12 | 2026-11-03 | 2026-11-20 |
 | [2026-10](2026-10.md) | 121 | 2026-10-07 | 2026-10-31 |

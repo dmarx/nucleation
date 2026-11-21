@@ -6,8 +6,8 @@
 
 **Low** — would move a single entry little else depends on.
 
-0 of 198 LEAD documents. Back to the [full index](../README.md).
+1 of 205 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-200](../../../record/leads.d/LEAD-200.md) v2 | Check whether a hierarchy of time scales, seen from one level, decays hyperbolically rather than exponentially: whether relaxation summed over the levels of an ultrametric tree gives a power law, and whether hyperbolic discounting is exponential discounting averaged over a spread of hazard rates, which would tie Ainslie's account of will to the time geometry of a hierarchy | The third sense of hyperbolicity the assistant named on 2026-11-20, kept apart because it rests on memory. Two classical results are recalled, not read: power-law relaxation on ultrametric spaces ([LIT-2954](../../../record/literature.d/LIT-2954.md)) and hyperbolic discounting from uncertain hazard rates ([LIT-2949](../../../record/literature.d/LIT-2949.md)). If both hold, hyperbolic discounting ([THEORY-1117](../../../record/theory.d/THEORY-1117.md)) is what a hierarchy of time scales looks like from one of its levels. Low priority: speculative until read. | Done |

@@ -60,7 +60,7 @@ summary: >-
   derivation in the assistant's voice. The account adds nothing of its
   own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-082 ADR-083 ADR-084 CLAIM-176 CLAIM-185 CLAIM-186 CLAIM-191 CLAIM-192 CLAIM-301 CLAIM-630 SYNTHESIS-012 SYNTHESIS-013 SYNTHESIS-014 SYNTHESIS-015 SYNTHESIS-017 — Proposed; components and citations, with their standing -->
+<!-- inactive-ok-file: CLAIM-176 CLAIM-185 CLAIM-186 CLAIM-191 CLAIM-192 CLAIM-301 CLAIM-630 SYNTHESIS-012 SYNTHESIS-013 SYNTHESIS-014 SYNTHESIS-015 SYNTHESIS-017 — Proposed; components and citations, with their standing -->
 
 # SYNTHESIS-016: The nucleating-argument line is three accounts that meet at the rule for when to code an argument: what fails when an argument is restated, how coding at the second occurrence stops it, and when filing pays; the one claim the line makes beyond its parts is that the rule's drift-catching and cost-competitive justifications part when filing is dear
 

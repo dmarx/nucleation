@@ -169,4 +169,3 @@ The two conceptions rest on Shanahan's two invented usages, and no
 regeneration study shows which self-conception a fine-tuned assistant
 enacts. Products with memory across conversations, which could restore one
 persisting referent, are outside both papers.
-<!-- inactive-ok-file: ADR-094 — Proposed; cited in the history note of 2026-11-11, the first application of bounds -->

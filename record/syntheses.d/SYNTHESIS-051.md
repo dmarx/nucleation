@@ -97,7 +97,7 @@ summary: >-
   and roles hang from the core by few links. The account adds nothing of
   its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ADR-083 ADR-084 ARG-025 ARG-061 ARG-072 CASE-193 CASE-194 CASE-196 CASE-225 CLAIM-039 CLAIM-196 CLAIM-271 CLAIM-276 CLAIM-285 CLAIM-317 CLAIM-367 CLAIM-417 CLAIM-431 CLAIM-432 CLAIM-440 CLAIM-451 CLAIM-500 CLAIM-553 CLAIM-555 CLAIM-603 CLAIM-618 CLAIM-620 CLAIM-624 CLAIM-629 CLAIM-631 CLAIM-634 SYNTHESIS-018 SYNTHESIS-020 SYNTHESIS-021 SYNTHESIS-026 SYNTHESIS-032 SYNTHESIS-035 SYNTHESIS-042 SYNTHESIS-044 SYNTHESIS-045 — Proposed; components, citations and the accounts and decisions this account follows, with their standing -->
+<!-- inactive-ok-file: ARG-025 ARG-061 ARG-072 CASE-193 CASE-194 CASE-196 CASE-225 CLAIM-039 CLAIM-196 CLAIM-271 CLAIM-276 CLAIM-285 CLAIM-317 CLAIM-367 CLAIM-417 CLAIM-431 CLAIM-432 CLAIM-440 CLAIM-451 CLAIM-500 CLAIM-553 CLAIM-555 CLAIM-603 CLAIM-618 CLAIM-620 CLAIM-624 CLAIM-631 CLAIM-634 SYNTHESIS-018 SYNTHESIS-020 SYNTHESIS-021 SYNTHESIS-026 SYNTHESIS-032 SYNTHESIS-035 SYNTHESIS-042 SYNTHESIS-044 SYNTHESIS-045 — Proposed; components, citations and the accounts and decisions this account follows, with their standing -->
 <!-- inactive-ok-file: ARG-052 ARG-071 — Rejected; a component, the verdict on a reading, and a rejected inference a component records -->
 <!-- inactive-ok-file: TERM-053 CLAIM-427 — Superseded; named only as members name them, TERM-053 by ADR-070 and CLAIM-427 by ARG-025 -->
 <!-- inactive-ok-file: SYNTHESIS-008 — Superseded by CLAIM-631 (ADR-084); named as CLAIM-631's former code -->

@@ -36,7 +36,7 @@ summary: >-
 draws_on:
 - THEORY-137
 ---
-<!-- inactive-ok-file: ADR-095 THEORY-137 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
+<!-- inactive-ok-file: THEORY-137 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 # CASE-103: A fanbase keeps a reputation, for hostility or loyalty or knowledge, after the behaviour that earned it has changed, and outsiders and members both act on it
 

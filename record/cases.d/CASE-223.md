@@ -44,7 +44,6 @@ summary: >-
   wording of the arms and measures is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-329 — Proposed; cited for its criterion, which the study would apply -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed; the claim the study would test -->
 
 # CASE-223: A proposed study of open-source projects whose name, code or hosting passed to a new steward, comparing successions the community contested with ones it accepted on where the code, the contributors, the governance and the community's own verdict went, with the lag between a loss of recognized legitimacy and a loss of productive capability as the key measure

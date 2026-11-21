@@ -53,7 +53,6 @@ draws_on:
 - THEORY-712
 - THEORY-701
 ---
-<!-- inactive-ok-file: ADR-095 — Proposed; the decision its history note of 2026-11-12 applies -->
 
 # TERM-057: transfer entropy: how much the last l values of a source reduce uncertainty about a target's next value beyond the target's own last k values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity that depends on k, l and any conditioning series, not a measure of information flow and not an intervention effect
 

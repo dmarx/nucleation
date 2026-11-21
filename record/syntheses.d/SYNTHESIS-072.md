@@ -39,7 +39,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-063 CLAIM-117 CLAIM-228 — Proposed; entries the components cite, with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-063 SYNTHESIS-064 — Proposed; pragmatic-transport accounts that already integrate components, named and not integrated -->
-<!-- inactive-ok-file: ADR-075 ADR-083 ADR-084 — Proposed; the decisions this account is drafted under -->
 <!-- inactive-ok-file: SYNTHESIS-074 SYNTHESIS-075 SYNTHESIS-077 — Proposed; cited with its standing -->
 
 # SYNTHESIS-072: A correspondence or a comparison of experiments says only what it is anchored to: an intertwining through an uninformative map is vacuous or lossy, so the map must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on, and probes that train a system cannot also certify what it preserves; a map that nearly intertwines two operators carries their commutator within a bound linear in the defects; and over finite sets the directed gap in Bayes risk vanishes for every problem and prior exactly at Blackwell's order, an exact fit of an outcome kernel is a garbling, and Le Cam's deficiency is a linear programme whose value is the least uniform excess loss over every decision problem with losses in [0, 1]

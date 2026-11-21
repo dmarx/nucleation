@@ -23,7 +23,7 @@ integrates:
 - CLAIM-385
 - CLAIM-269
 ---
-<!-- inactive-ok-file: ADR-075 CLAIM-193 CLAIM-263 SYNTHESIS-030 THEORY-002 THEORY-005 THEORY-080 — Proposed; components, decisions and accounts cited with their standing -->
+<!-- inactive-ok-file: CLAIM-193 CLAIM-263 SYNTHESIS-030 THEORY-002 THEORY-005 THEORY-080 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-088 — Proposed; cited with its standing -->
 
 # SYNTHESIS-083: A regularized linear readout separates exactly what the kernel separates: equal centred Gram matrices mean a translation and an orthogonal map, for positive ridge the readout kernel and the Gram matrix fix each other while the unregularized member sees only the column space, a symmetry forces degeneracy in a commuting operator but the spectrum fixes neither the group nor a basis, and so no such readout supplies a distinction beyond that freedom

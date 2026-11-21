@@ -41,7 +41,7 @@ summary: >-
   it.
 ---
 <!-- inactive-ok-file: THEORY-2007 THEORY-2023 THEORY-2049 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-358 CLAIM-761 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-358 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1639 THEORY-1643 THEORY-1645 THEORY-1644 THEORY-1641 THEORY-1640 — Proposed; the readings of 2026-11-12, cited in its note -->
 <!-- inactive-ok-file: CASE-235 CASE-234 CLAIM-647 — Proposed; filed on 2026-11-12 from "Identify Synthesis Opportunities", cited in its note -->
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
@@ -287,6 +287,6 @@ Tandon and colleagues ([THEORY-2049](../theory.d/THEORY-2049.md)), read: support
 No status change.
 
 ## Note of 2026-11-19: follow-up turns of "Topological protection explained"
-<!-- inactive-ok-file: CLAIM-760 CLAIM-763 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-763 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
 
 ChatGPT (A84) ranks this question high in its triage ([CLAIM-763](../claims.d/CLAIM-763.md)), to be advanced by "Formal and philosophical reconciliation of distributed cognition, caching, and amortized inference". Its next advance without an experiment, for the value of stored work: "Separate operational feasibility, lifetime economic efficiency, and distributed costs", which [CLAIM-761](../claims.d/CLAIM-761.md) and [CLAIM-760](../claims.d/CLAIM-760.md) have begun.

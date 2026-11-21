@@ -68,7 +68,7 @@ summary: >-
   organization that takes part in governing its own transformation.
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed, Open, Deferred or new; cited as open -->
-<!-- inactive-ok-file: CLAIM-170 CLAIM-545 CLAIM-329 — Proposed, Superseded, Open or new; cited as open -->
+<!-- inactive-ok-file: CLAIM-170 CLAIM-545 — Proposed, Superseded, Open or new; cited as open -->
 <!-- inactive-ok-file: SYNTHESIS-007 ADR-080 — Proposed; the synthesis this claim rests on, and the decision that let it -->
 <!-- ref::uses-file: TERM-023 — "a willed agent is the jurisdiction of a will-organization", whose revision changes which agent there is, is TERM-023's will-organization -->
 <!-- ref::uses-file: TERM-099 — "A self-forming revision" that adds a channel or a distinction under the organization's governance is TERM-099's self-formation -->

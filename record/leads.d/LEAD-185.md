@@ -27,7 +27,7 @@ summary: >-
   Named in [ARG-067](../arguments.d/ARG-067.md) and [CLAIM-617](../claims.d/CLAIM-617.md). Filed by the backlog audit of
   2026-11-19.
 ---
-<!-- inactive-ok-file: ARG-067 CASE-223 CLAIM-617 — Proposed; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: ARG-067 CLAIM-617 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-185: Study contested and accepted open-source successions, timing the community's verdicts against the move
 

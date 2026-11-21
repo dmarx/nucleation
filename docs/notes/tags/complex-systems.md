@@ -4,7 +4,7 @@
 
 **complex-systems**.
 
-233 of 2217 NOTE documents. Back to the [full index](../README.md).
+236 of 2235 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -241,3 +241,6 @@
 | [NOTE-2134](../../../record/notes.d/NOTE-2134.md) | Shankar and others 2020 — Topological active matter |  | Skimmed |
 | [NOTE-2135](../../../record/notes.d/NOTE-2135.md) | Mordvintsev and others 2020 — Growing Neural Cellular Automata |  | Read |
 | [NOTE-2183](../../../record/notes.d/NOTE-2183.md) | Keller — Sprachwandel | Language as conventions changed by systematic breaches; a phenomenon of the third kind, like a path trodden across a lawn; invisible-hand explanation in three stages, from speakers' maxims to structure; structural, not specific, predictions. In German. | Read |
+| [NOTE-2218](../../../record/notes.d/NOTE-2218.md) | Bachas and Huberman — Complexity and ultradiffusion | Ultradiffusion on an ultrametric tree solved as one exponential mode per branch point; power-law relaxation on infinite uniform trees, exponent ln b/(ln(1/g) − ln b) in per-pair terms, unstable when gb ≥ 1; exponential decay on any finite tree. Stands in for Ogielski and Stein, whose results it says it partly rederives. | Read |
+| [NOTE-2224](../../../record/notes.d/NOTE-2224.md) | Lukierska-Walasek and Topolski — Random walk on p-adics in glassy systems | Restates Ogielski and Stein's model, hopping on a regular tree with rates set by ultrametric distance, and derives a temperature-dependent power law t^(−T ln 2/Δ) for linearly growing barriers (total-rate form) and the Kohlrausch law for logarithmically growing ones. | Read |
+| [NOTE-2225](../../../record/notes.d/NOTE-2225.md) | Bovier, Eckhoff, Gayrard and Klein — Metastability and low lying spectra | For reversible chains with generically separated metastable points: minus log capacity is an ultrametric up to ln 3; mean exit times are valley mass over capacity; each metastable point owns one low-lying eigenvalue with an eigenvector near its valley's indicator. Large-N, generic, sharp to (1 + o(1)). A large-N limit with escape-probability definitions, not the record's small-noise ε^U form. | Read |
