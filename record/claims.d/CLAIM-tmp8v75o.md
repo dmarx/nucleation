@@ -32,7 +32,7 @@ summary: >-
   a test and enforced as a projection, the predicates set the fixed points
   of restating, an added predicate shrinks them, soft and hard enforcement
   are one penalty at different strengths, and enforcing a predicate differs
-  from preserving it as contraction differs from conservation ([CLAIM-772](CLAIM-772.md)).
+  from preserving it as contraction differs from conservation (CLAIM-772).
   Proved from standard convex analysis and checked numerically. The wording
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
@@ -44,7 +44,7 @@ summary: >-
 ## The claim
 
 Let a version of an entry be a point x of a finite-dimensional space, and
-let each of its predicates p define, as a test ([TERM-tmp7m4at](../terms.d/TERM-tmp7m4at.md)), a closed
+let each of its predicates p define, as a test (TERM-tmp7m4at), a closed
 convex set A_p of versions that pass. Let A = ∩ A_p be non-empty, and let
 P_p be the nearest-point projection onto A_p. A restatement is
 x' = T(x + ξ): an error ξ, then enforcement T, the limit of cyclic sweeps
@@ -62,9 +62,9 @@ of the P_p, which maps every point into A.
    inside A, nothing holds a version, and A is what is left free.
 3. **Drift.** With error, every version reached after the first step lies
    in A, so from a start x₀ in A, |xₙ − x₀| ≤ diam A for every n: drift
-   saturates, the first of [CLAIM-773](CLAIM-773.md)'s kinds, with the ceiling set by the
+   saturates, the first of CLAIM-773's kinds, with the ceiling set by the
    predicates. Along a direction no predicate bounds, A is unbounded and the
-   feature drifts as a random walk, √n ([CLAIM-779](CLAIM-779.md)). A predicate that fixes a
+   feature drifts as a random walk, √n (CLAIM-779). A predicate that fixes a
    feature's value leaves it no drift at all.
 4. **Soft enforcement.** Replace the hard projection onto A_p by a penalty
    (λ/2)·dist(x, A_p)². For closed convex A_p its proximal map is
@@ -76,10 +76,10 @@ of the P_p, which maps every point into A.
    carries no information about the start: the feature is in the
    contracting part, at the predicate's value. If instead the step copies
    the outcome (K f_p = f_p) and f_p is not constant on the starting law,
-   [CLAIM-635](CLAIM-635.md) gives information about the start bounded below at every
+   CLAIM-635 gives information about the start bounded below at every
    generation: the feature is in the conserved part. Enforcing p onto a
    value taken from the entry's source, rather than from the schema, holds
-   every version to the source: the anchoring case of [CLAIM-772](CLAIM-772.md)'s one
+   every version to the source: the anchoring case of CLAIM-772's one
    contraction.
 
 Parts 1, 3 and 5 need only that T maps into A, not convexity. Parts 2 and 4
