@@ -1,7 +1,14 @@
 ---
 status: Rejected
-title: "Cities are an instance of cumulative advantage: large cities attract businesses, workers and investment, so their sizes follow from attachment in proportion to size"
-version: 1
+title: "The other assistant's account of large cities attracting businesses, workers and investment shows that city sizes follow from attachment in proportion to size, an instance of cumulative advantage"
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Retitled to name its route before its conclusion, with a sentence on
+    the conclusion's own standing, under ADR-tmp44npm at the owner's
+    objection of 2026-11-21. The verdict is unchanged.
 form: evidence
 grounds:
 - THEORY-1499
@@ -27,10 +34,14 @@ summary: >-
   is A's (the other assistant in the exchange "Rich Get Richer Power
   Laws", A1); the verdict is the assistant's (Claude, in this session);
   adopting it is the owner's call.
+  Standing of the conclusion apart from this route: no entry holds it,
+  and the record's one reading on city sizes, THEORY-1499, tells against
+  its strong form; CLAIM-tmpepx9m, the mechanism it was offered for, is
+  untouched (ADR-tmp44npm).
 ---
 <!-- inactive-ok-file: CLAIM-tmpepx9m — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
-# ARG-tmp2w77g: Cities are an instance of cumulative advantage: large cities attract businesses, workers and investment, so their sizes follow from attachment in proportion to size
+# ARG-tmp2w77g: The other assistant's account of large cities attracting businesses, workers and investment shows that city sizes follow from attachment in proportion to size, an instance of cumulative advantage
 
 ## The inference
 

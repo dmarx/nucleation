@@ -1,13 +1,20 @@
 ---
 status: Rejected
-title: "The behaviour of sloppy models carries over to overparameterized neural networks, so that a network's behavioural complexity is set by a few stiff combinations of its parameters as in a sloppy model"
-version: 1
+title: "Sloppy-model theory, whose account assumes a regular Fisher matrix, shows by analogy that the behaviour of sloppy models carries over to overparameterized neural networks"
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Retitled to name its route before its conclusion, with a sentence on
+    the conclusion's own standing, under ADR-tmp44npm at the owner's
+    objection of 2026-11-21. The verdict is unchanged.
 form: analogy
 grounds:
 - THEORY-774
 - THEORY-777
 concludes:
-- CLAIM-tmpficzj
+- CLAIM-tmp7ijze
 tags:
 - information-geometry
 - learning-theory
@@ -30,11 +37,16 @@ summary: >-
   sloppiness. Rejected. The argument is A's (the other assistant in the
   exchange "Rich Get Richer Power Laws", A19); the verdict is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+  Standing of the conclusion apart from this route: held as the owner's
+  CLAIM-tmp7ijze (Proposed), which holds that it probably does carry
+  over by another route; this argument rejects only the analogy from
+  regular Fisher spectra (ADR-tmp44npm).
 ---
+<!-- inactive-ok-file: CLAIM-tmp7ijze — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-tmpficzj CLAIM-tmpcgvcp CLAIM-tmpcg4uu ARG-tmpj0r42 THEORY-777 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Proposed reading the record already held -->
 <!-- inactive-ok-file: ARG-tmpv3nqz LIT-tmp0z602 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-# ARG-tmpmvc5e: The behaviour of sloppy models carries over to overparameterized neural networks, so that a network's behavioural complexity is set by a few stiff combinations of its parameters as in a sloppy model
+# ARG-tmpmvc5e: Sloppy-model theory, whose account assumes a regular Fisher matrix, shows by analogy that the behaviour of sloppy models carries over to overparameterized neural networks
 
 ## The inference
 

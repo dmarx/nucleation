@@ -1,7 +1,14 @@
 ---
 status: Rejected
-title: "Simon's near-decomposability carries a finite correlation length to approximately autonomous levels of description, so a system off criticality divides into levels as a nearly decomposable system does"
-version: 1
+title: "Simon's near-decomposability, read through a finite correlation length, shows that a system off criticality divides into approximately autonomous levels of description"
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Retitled to name its route before its conclusion, with a sentence on
+    the conclusion's own standing, under ADR-tmp44npm at the owner's
+    objection of 2026-11-21. The verdict is unchanged.
 form: source
 grounds:
 - THEORY-661
@@ -29,10 +36,17 @@ summary: >-
   does not hold. Rejected. The bridge is A's (the other assistant in the
   exchange "Rich Get Richer Power Laws", A13); the verdict is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+  Standing of the conclusion apart from this route: that a system can
+  divide into approximately autonomous levels is held by other routes, a
+  gap in rates (CLAIM-478) and a gap in coupling (SYNTHESIS-054); this
+  argument rejects only the step from correlation length to Simon's
+  condition (ADR-tmp44npm). The finding that rejects it is held as
+  CLAIM-tmpewm5i.
 ---
+<!-- inactive-ok-file: CLAIM-tmpewm5i — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-626 CLAIM-tmpjbee7 — Proposed, held or filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
-# ARG-tmp09yqc: Simon's near-decomposability carries a finite correlation length to approximately autonomous levels of description, so a system off criticality divides into levels as a nearly decomposable system does
+# ARG-tmp09yqc: Simon's near-decomposability, read through a finite correlation length, shows that a system off criticality divides into approximately autonomous levels of description
 
 ## The inference
 

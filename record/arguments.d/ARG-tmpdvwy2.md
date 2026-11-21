@@ -1,7 +1,14 @@
 ---
 status: Rejected
 title: "Lau and colleagues' calibration of the local learning coefficient estimator in deep linear networks supports the reading that an estimate at finite sample size counts unresolved sloppy directions as flat"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Retitled to name its route before its conclusion, with a sentence on
+    the conclusion's own standing, under ADR-tmp44npm at the owner's
+    objection of 2026-11-21. The verdict is unchanged.
 form: evidence
 grounds:
 - THEORY-tmpousrw
@@ -25,6 +32,9 @@ summary: >-
   supports the claim's reading by derivation (the filer's), not by the
   paper's data. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
+  Standing of the conclusion apart from this route: it is CLAIM-
+  tmpcg4uu's reading, Proposed and untouched by this verdict, which says
+  only that the calibration does not decide it (ADR-tmp44npm).
 ---
 <!-- inactive-ok-file: CLAIM-tmpcg4uu THEORY-tmpousrw — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
