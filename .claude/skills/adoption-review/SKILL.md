@@ -62,6 +62,11 @@ before the owner rules. A go-ahead adopts the recommendations as stated.
 
 ## 6. Apply the ruling
 
+Read the ruling from both places: the comments, and the checklist's ticked
+boxes in the pull request description (`gh api repos/<owner>/<repo>/pulls/<n>
+--jq .body`). A ticked group is adopted; an unticked one is not ruled unless
+a comment rules it.
+
 In the same pull request: each status changed with a version and a history
 entry naming the review, the date and the evidence. Leave directives for CI's
 repair. Update the workbench entry with the ruling.

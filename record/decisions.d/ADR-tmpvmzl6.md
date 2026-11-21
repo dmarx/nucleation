@@ -62,6 +62,10 @@ practice and tooling, not about evidence.
    the dialectic regime. The pass puts its verdicts in its pull request as a
    checklist, grouped by verdict, so the owner can rule a group at once; a
    go-ahead adopts the recommendations as stated.
+   A ticked box on the checklist is a ruling for that group, as a comment
+   is; the pass reads the checklist's state as well as the comments before
+   it applies anything (first pass: the ticks were missed and read only
+   when the owner said so).
 4. **The ruling lands in the pass's own pull request**: each status change
    with a history entry naming the review and the evidence. Directives that
    excused the newly Active decisions are left for CI's repair, which drops
