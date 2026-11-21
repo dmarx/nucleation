@@ -102,7 +102,9 @@ devlog notes. Put them in one open pull request into `staging`,
 one commit per turn; answer first, then report what was filed; revert
 (`git revert`) when the owner interjects. Status changes on held entries,
 ADRs and DPs, `luria.yaml`, CI, delegated readings, outside services and
-merges still wait for the owner. Suggest switching off when going on would
+merges still wait for the owner. When a turn admits several valid readings
+that would be filed differently, file each, marked as alternatives, and say
+which is which; the owner chooses. Suggest switching off when going on would
 be awkward.
 
 [ADR-068](record/decisions.d/ADR-068.md) holds the invariants for filing an exchange, a pasted synthesis, an

@@ -74,6 +74,26 @@ filing an exchange, Proposed status, an honest warrant, a check actually run
 for anything called demonstrated, and the assistant's wording marked as its
 own. A suggestion the owner disclaims is not filed unless the owner asks.
 
+**When a turn has several valid readings, file them all.** If the assistant
+is unsure how to file something because the owner's words, or the argument,
+admit more than one reading that would be filed differently, it files each
+reading rather than choosing one, marks them as alternatives of each other,
+and says in the report which reading each is. A reading it would otherwise
+leave out is filed too, as an option. In practice:
+
+- rival claims, each with its own `defeated_if`, or one claim with the
+  readings as `supposed` alternatives where only one can be the record's;
+- rival senses of a term, under ADR-050, or rival terms;
+- for a decision the owner asked for, an alternative Proposed decision per
+  reading, each saying what it would change, for the owner to choose; the
+  others then go Rejected, which keeps the readings on the record.
+
+The owner's choice among them is a status change, so it is the owner's; the
+assistant may say which it would choose and why. The rule is the owner's,
+2026-11-21: "if you're not sure how to file something because you feel like
+there are multiple valid ways to interpret something, err on the side of
+filing all of the alternatives".
+
 **Still the owner's word, regime or not:**
 
 - a change of status on a held entry (promotion, rejection, supersession);
