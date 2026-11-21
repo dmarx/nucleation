@@ -2,7 +2,7 @@
 number: 186
 status: Proposed
 formerly:
-- CLAIM-tmpvc1pj
+- CLAIM-186
 title: 'How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival'
 version: 6
 history:

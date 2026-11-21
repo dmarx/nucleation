@@ -2,7 +2,7 @@
 number: 419
 status: Active
 formerly:
-- CLAIM-tmpbgq5o
+- CLAIM-419
 title: 'The record''s grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has repeatedly been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown'
 version: 4
 history:

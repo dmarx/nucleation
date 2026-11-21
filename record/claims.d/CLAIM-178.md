@@ -2,7 +2,7 @@
 number: 178
 status: Proposed
 formerly:
-- CLAIM-tmp5o4dd
+- CLAIM-178
 title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
 version: 5
 history:

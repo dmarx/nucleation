@@ -40,5 +40,5 @@ The `works` vocabulary has held `luria-nucleating-an-argument` since 2026-10-11,
 
 ## Consequences
 
-- `luria.yaml`'s `works` vocabulary changes one key. The term audit ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) counts a rename as a removal and an addition. This one is carried through every carrying entry in its unit of work, as removals have been.
+- `luria.yaml`'s `works` vocabulary changes one key. The term audit ([CASE-300](../cases.d/CASE-300.md)) counts a rename as a removal and an addition. This one is carried through every carrying entry in its unit of work, as removals have been.
 - The generated work views take the new name at the next promotion.

@@ -2,7 +2,7 @@
 number: 180
 status: Proposed
 formerly:
-- CLAIM-tmp7vmnc
+- CLAIM-180
 title: 'Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether'
 version: 6
 history:

@@ -2,7 +2,7 @@
 number: 189
 status: Proposed
 formerly:
-- CLAIM-tmpkkx3m
+- CLAIM-189
 title: 'Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation'
 version: 3
 history:

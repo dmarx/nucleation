@@ -2,7 +2,7 @@
 number: 191
 status: Proposed
 formerly:
-- CLAIM-tmpnf0d8
+- CLAIM-191
 title: 'Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators'' own framings rather than at random, and a code restores continuity of transmission'
 version: 3
 history:

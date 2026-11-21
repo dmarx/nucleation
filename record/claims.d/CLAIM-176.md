@@ -2,7 +2,7 @@
 number: 176
 status: Proposed
 formerly:
-- CLAIM-tmp2jolp
+- CLAIM-176
 title: 'Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record'
 version: 5
 history:

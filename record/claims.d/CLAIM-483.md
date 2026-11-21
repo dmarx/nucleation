@@ -2,7 +2,7 @@
 number: 483
 status: Proposed
 formerly:
-- CLAIM-tmpuhp12
+- CLAIM-483
 title: 'An argument developed with collaborators who keep no memory fails mainly at identity and not at structure, so that coding what recurs, not argument mapping, is the remedy, and this holds beyond one owner and one assistant family'
 version: 1
 role: thesis

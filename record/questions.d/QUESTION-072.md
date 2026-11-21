@@ -2,7 +2,7 @@
 number: 72
 status: Open
 formerly:
-- QUESTION-tmpihzdz
+- QUESTION-072
 title: 'Does a project memory distribute credibility among an argument''s contributors, by making some contributors'' moves addressable and leaving others'' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?'
 version: 5
 history:

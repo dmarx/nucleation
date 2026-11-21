@@ -4,7 +4,7 @@ status: Superseded
 superseded_by:
 - ARG-028
 formerly:
-- CLAIM-tmpkld6a
+- CLAIM-190
 title: 'The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply'
 version: 2
 history:

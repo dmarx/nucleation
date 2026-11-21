@@ -2,7 +2,7 @@
 number: 184
 status: Proposed
 formerly:
-- CLAIM-tmptw11r
+- CLAIM-184
 title: 'Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record''s remedy only if superseded anchors stop attracting new structure'
 version: 5
 history:
