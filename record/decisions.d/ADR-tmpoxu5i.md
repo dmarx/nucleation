@@ -22,7 +22,7 @@ summary: >-
   one or a theme, and the test decides only whether they also yield a
   claim.
 ---
-<!-- inactive-ok-file: ADR-tmpi2grj ADR-tmpkiuac — Proposed; the alternatives filed with this one -->
+<!-- inactive-ok-file: ADR-tmpkiuac — Proposed; the alternatives filed with this one -->
 
 # ADR-tmpoxu5i: Alternative B for the admission test of a synthesis: a synthesis the owner constructs or asks for is filed as an account of its scope whether or not it yields a claim, while a synthesis found in a source, such as a collaborator's summary in an exchange, keeps the existing rule and is filed only for what passes the test
 

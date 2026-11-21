@@ -57,7 +57,6 @@ summary: >-
   that also corrupted `formerly:` before it was reverted. Five
   recommendations, none yet a decision.
 ---
-<!-- inactive-ok-file: ADR-127 ADR-tmpg1n72 ADR-tmpwgvwk — Proposed; decisions this reviews -->
 
 # RETRO-tmp2wda2: The owner's rulings on the promotion pull request of 2026-11-21 and the hour after: one list of rulings became twelve pull requests, a promotion and a back-merge; what went right was ruling inline and choosing among filed alternatives, and what went wrong was the assistant reaching for a script or a memory where the tool already held the rule
 

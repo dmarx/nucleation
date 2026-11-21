@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'An account may take a scope that crosses lines, a theme the record''s argument returns to in several lines, beside the accounts of lines and their parts; every cross-line account is reviewed at the synthesis review as a possible sign that the record needs a line it lacks, and a theme that passes the review is put to the owner as a candidate line'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-21'
+  note: >-
+    Active at the owner's ruling of 2026-11-21 on the promotion pull
+    request, 599: "adopt the ADRs and the candidate line, then merge". It
+    was applied on staging before adoption, in the pull request that
+    proposed it.
 tags:
 - record
 date: '2026-11-21'

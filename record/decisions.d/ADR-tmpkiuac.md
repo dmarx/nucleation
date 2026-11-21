@@ -23,7 +23,7 @@ summary: >-
   tested". The review then runs step 5 on each and files what passes as a
   claim. A recap still stays in the curation entry.
 ---
-<!-- inactive-ok-file: ADR-tmpi2grj ADR-tmpoxu5i — Proposed; the alternatives filed with this one -->
+<!-- inactive-ok-file: ADR-tmpoxu5i — Proposed; the alternatives filed with this one -->
 
 # ADR-tmpkiuac: Alternative C for the admission test of a synthesis: at filing, a synthesis worth keeping is filed as an account of its scope with no test, and the test for a claim whose premises are claims is run on it at the next synthesis review, which files what passes; nothing is turned away when it is first written down
 
