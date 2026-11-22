@@ -108,3 +108,8 @@ mutual pair as control); for a target that needs both parts, the driven
 part alone cannot serve. The restatement is the owner's. Its sense of
 "one system" is also [CLAIM-157](CLAIM-157.md)'s threshold criterion ([TERM-049](../terms.d/TERM-049.md)), which is
 Proposed.
+
+## Note of 2026-11-22: Ocampo-Espindola, Singhal, Li and Kiss, read
+<!-- inactive-ok-file: THEORY-tmpsyokc — Proposed; filed by LEAD-023 -->
+
+An experimental instance of this claim's one-way drive (THEORY-tmpsyokc; NOTE-tmp5rss0; LIT-2230). A common periodic input, open-loop and fixed in advance from each unit's measured frequency and phase response curve, holds electrochemical oscillators that are not coupled to one another in a designed pattern, up to three clusters among four units: "our technique does not require real-time feedback" (§IV). Relative to a target that needs the pattern, input and units form one system with the input at the top, the hierarchy this claim says direction gives. It is evidence of what one-way drive can do, not of how the record should individuate; the claim's interpretive part is untouched. No status change.

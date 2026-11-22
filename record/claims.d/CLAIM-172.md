@@ -221,3 +221,8 @@ filer should not conflate.
 <!-- inactive-ok-file: THEORY-tmp8cdhs — Proposed; filed by LEAD-023 -->
 
 A contrast, from Ko (THEORY-tmp8cdhs; NOTE-tmpw116e). Two groups with no coupling between them come to have synchronized collective variables (their complex order parameters) under a shared common noise alone. Matching collective variables are therefore not this claim's mark: no member of either group shifts the other's timing. That is what the claim's last bullet already says, that mutuality has to be read by intervening on one member, not from observed co-variation. Supports that bullet; no status change.
+
+## Note of 2026-11-22: Ocampo-Espindola, Singhal, Li and Kiss, read
+<!-- inactive-ok-file: THEORY-tmpsyokc — Proposed; filed by LEAD-023 -->
+
+A contrast with version 5's sharpening, that synchrony matched to the strong couplings is the mark (THEORY-tmpsyokc; NOTE-tmp5rss0). Here selective synchrony, some units in phase and others apart, is made entirely by one common drive acting through the units' different phase responses, with no coupling among them. Selective synchrony without the couplings known therefore marks nothing about peers; the match to couplings is the part that carries weight. Qualifies how the sharpening is read; no status change.

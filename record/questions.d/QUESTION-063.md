@@ -194,3 +194,8 @@ Wang and Slotine ([THEORY-2044](../theory.d/THEORY-2044.md), bears_on; [NOTE-209
 <!-- inactive-ok-file: THEORY-tmp8cdhs — Proposed; filed by LEAD-023 -->
 
 Ko (THEORY-tmp8cdhs, bears_on; NOTE-tmpw116e; LIT-2245) bears out what A12 cited it for, the first item of the note of 2026-11-07. Two groups of phase oscillators with no coupling between them synchronize their collective order parameters when they share the same common noise, from any initial state, "persisting down to cin ≈ 0.1" of within-group noise correlation (§III.B). So a correlation between groups' collective variables is no evidence of coupling between them unless a shared drive is excluded or recorded. The reading adds a twist: coupling inside each group "can hinder group-level synchronization" (§III.D), so the more organized the groups, the weaker the exogenous correlation an observer would see. It is a model of the confound, not a test for it: no intervention is studied. The question stays open.
+
+## Note of 2026-11-22: Ocampo-Espindola, Singhal, Li and Kiss, read
+<!-- inactive-ok-file: THEORY-tmpsyokc — Proposed; filed by LEAD-023 -->
+
+THEORY-tmpsyokc (bears_on; NOTE-tmp5rss0): a single common input, designed from the units' phase response curves, imposes in-phase, anti-phase and cluster patterns on oscillators with no coupling among them, in experiment. A whole synchrony pattern, not only global synchrony, can therefore be a shared drive's signature, and units with different phase responses split under one drive. It answers nothing here: the drive is known to the experimenter. The question stays open.
