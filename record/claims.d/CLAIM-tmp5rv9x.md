@@ -1,0 +1,76 @@
+---
+status: Proposed
+title: 'Inquiry and engineering differ by the direction of fit of their predicates, not in kind: inquiry adds predicates its object already passes and engineering imposes predicates its object must be made to pass, so the one difference the record draws between inquiry and specification, that inquiry can revise what an answer could be, recurs inside engineering whenever building shows an imposed requirement cannot be met and it is rewritten to describe what can'
+version: 1
+role: thesis
+warrant: interpretive
+defeated_if: >-
+  A case of inquiry that proceeds by imposition, making its object pass
+  predicates it did not, without being engineering; or a case of
+  engineering in which no imposed requirement is ever rewritten into a
+  description of what building found, across projects where requirements
+  were not fixed in advance; or an account showing the revision of an
+  answer space in inquiry is a different operation from the rewriting of a
+  requirement in engineering, stated so that the difference is in the
+  operation and not only in the motive.
+tags:
+- epistemology
+- philosophy-of-technology
+- philosophy-of-science
+date: '2026-11-22'
+line:
+- record-as-apparatus
+rests_on:
+- CLAIM-tmpmk056
+- CLAIM-470
+- CLAIM-784
+- CLAIM-785
+grounds:
+- THEORY-162
+complements:
+- CLAIM-tmpmk056
+summary: >-
+  Filed under the dialectic regime on 2026-11-22, answering the owner's
+  "tell me about our current account of specification". It joins the
+  account of inquiry as specification (CLAIM-470, SYNTHESIS-114) with
+  engineering as inquiry (CLAIM-784) and predicates as constraints
+  (CLAIM-785) through the direction of fit. The wording is the
+  assistant's (Claude, in this session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-784 CLAIM-785 THEORY-162 CLAIM-tmpmk056 SYNTHESIS-114 — Proposed; the claims, reading and account this joins, and the claim filed with it -->
+
+# CLAIM-tmp5rv9x: Inquiry and engineering differ by the direction of fit of their predicates, not in kind: inquiry adds predicates its object already passes and engineering imposes predicates its object must be made to pass, so the one difference the record draws between inquiry and specification, that inquiry can revise what an answer could be, recurs inside engineering whenever building shows an imposed requirement cannot be met and it is rewritten to describe what can
+
+## The claim
+
+CLAIM-470 holds that inquiry stands to its findings as a specification to
+its realizations, with one difference: an inquiry can revise what an answer
+could be. CLAIM-784 holds that engineering is inquiry whose interventions
+make the object they judge, and that it becomes reflexive when building
+revises the specification.
+
+Read through CLAIM-tmpmk056, the two are one operation with two directions of fit.
+A finding is a predicate its object already passes, added to what is known:
+a descriptor, an informative update. A requirement is a predicate its
+object does not yet pass, which building must make it pass: an imposition,
+a performative update. Inquiry accrues descriptors; engineering enforces
+impositions.
+
+The "one difference" then recurs inside engineering. When building shows an
+imposed requirement cannot be met, or should not be, the requirement is
+rewritten to say what the object can do: an imposition turned into a
+descriptor. That is the revision of what an answer could be, met from the
+engineering side; the record's own case is its staging branch, whose
+specification was rewritten by what its first use showed (CASE-299). And inquiry has its engineering side: an experiment
+imposes conditions on its object before it describes it.
+
+## What it does not say
+
+- Not that the motive does not matter. Inquiry aims at knowing and
+  engineering at use; the claim is that the operations are the same two,
+  in different proportions.
+- Not that the maker's knowledge question (QUESTION-503) is settled. If a
+  maker knows which of an artifact's predicates were impositions and which
+  descriptors, and an observer sees only that it passes them, this claim
+  says what the maker knows that the observer does not: the direction of
+  fit, not a further property.
