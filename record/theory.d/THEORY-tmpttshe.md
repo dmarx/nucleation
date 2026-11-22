@@ -32,7 +32,6 @@ source:
 bears_on:
 - QUESTION-374
 ---
-<!-- inactive-ok-file: THEORY-tmpttshe — this account, filed Proposed in this batch (LEAD-145) -->
 
 # THEORY-tmpttshe: Optimal control of a system with unknown dynamics must probe it to learn, trading immediate performance for information, by acting on an extended state that adjoins an information state to the physical one; whether exploration must drive the system away from the optimal policy is set by closed-loop identifiability
 

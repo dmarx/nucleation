@@ -30,7 +30,6 @@ source:
 bears_on:
 - QUESTION-374
 ---
-<!-- inactive-ok-file: THEORY-tmpgf28l — this account, filed Proposed in this batch (LEAD-145) -->
 
 # THEORY-tmpgf28l: The Radner-Stiglitz nonconcavity of the value of information is an artifact of how the amount of information is measured: under a convex-divergence measure, the value of the efficiently acquired amount is concave with strictly positive marginal value at zero, while the value of the worst acquisition of each amount is almost never concave, and a max-min decision-maker's value of information is concave too
 
