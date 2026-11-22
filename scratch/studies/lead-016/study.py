@@ -17,6 +17,7 @@ import time
 
 import numpy as np
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # python3 -I drops it
 from opmodel import (Config, init_state, make_env, shares, logit_for_share, step,
                      own_risk, collective_risk, marginal_contribution,
                      mutual_information, usage, entropy, gram_spectrum, State)
@@ -101,6 +102,12 @@ def track(cfg, st, beta, i, T, rng, ctx_p=None):
     return traj
 
 
+def thin(traj):
+    """Keep checkpoints at roughly log-spaced indices, to keep files small."""
+    idx = sorted(set(np.unique(np.geomspace(1, len(traj), 16).astype(int) - 1).tolist()))
+    return [[round(v, 5) if isinstance(v, float) else v for v in traj[k]] for k in idx]
+
+
 def growth(traj, eps, n0=0.0):
     """Initial recovery exponent per R-sample, time to share 0.5, final share.
     R-sample counts are taken from n0, the count when the window opened."""
@@ -132,7 +139,7 @@ def arm_rare(cfg, d, seed, i, eps, freeze, sham=False):
     traj = track(cfg, st, beta, i, TREC, rng)
     out = growth(traj, eps)
     out.update({"usage0": u0, "usage_final": float(usage(cfg, shares(cfg, st))[i]),
-                "traj": traj})
+                "traj": thin(traj)})
     return out
 
 
@@ -144,7 +151,7 @@ def arm_remove(cfg, d, seed, i):
     traj = track(cfg, st, beta, i, TREC, rng)
     P = shares(cfg, st)
     holder = int(P[R].argmax())
-    return {"risk_after_removal": r0, "traj": traj, "holder": holder,
+    return {"risk_after_removal": r0, "traj": thin(traj), "holder": holder,
             "holder_share": float(P[R, holder]),
             "holder_own_risk_R": float(own_risk(cfg, st, beta)[holder, R]),
             "final": snapshot_metrics(cfg, st, beta)}
@@ -181,7 +188,7 @@ def arm_suppress(cfg, d, seed, i, coupled, eps=1e-3, freeze_release=False):
               "access_during": access, "holder_at_release": holder_mid,
               "holder_risk_at_release": holder_mid_risk,
               "coll_risk_R_final": float(collective_risk(cfg, st, beta)[R]),
-              "traj_suppress": traj_s, "traj_release": traj_r})
+              "traj_suppress": thin(traj_s), "traj_release": thin(traj_r)})
     return g
 
 
@@ -219,6 +226,7 @@ def main():
                     step(cfg, st, beta, rng)
                 rec = {"rule": rule, "K": K, "seed": seed, "arm": "diff",
                        "theta": st.theta.tolist(), "Z": st.Z.tolist(), "b": st.b.tolist(),
+                       "n_R": int(st.n_ctx[R]),
                        "secs": time.time() - t}
                 rec.update(snapshot_metrics(cfg, st, beta))
                 append(path, rec)
