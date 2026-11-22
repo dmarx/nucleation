@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmplh9fr
 title: 'When does a process that destabilizes a whole''s prevailing pattern improve the organization rather than only disrupt it, and does that depend on others able to build on what it opens and on authority that can move to them?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-23'
@@ -18,6 +18,11 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note added: LEAD-077's run of CASE-158's design. The entry
+    is otherwise unchanged.
 tags:
 - self-governance
 - social-ontology
@@ -96,3 +101,15 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Stasser and Titus** ([THEORY-1808](../theory.d/THEORY-1808.md)): QUESTION-089 and [CASE-144](../cases.d/CASE-144.md) cite hidden profiles; [CASE-144](../cases.d/CASE-144.md) (an evaluator that weights agreeing evidence) shares the preference-consistent sampling mechanism.
 
 The question is unchanged.
+
+## Note of 2026-11-22: authority moving after a reversal, in a denoiser run
+
+<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+
+In [LEAD-077](../leads.d/LEAD-077.md)'s run ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)), when the specialist each region needs
+changed, authority moved to the newly right specialist under independent
+audits, by governance and router alike. Where only the heeded were
+audited it moved slowly or not at all, until a 10% floor on auditing let
+the unheeded show their worth. It bears on the question's second half,
+"authority that can move to them": what let it move was evidence about
+the unheeded. The question is unchanged.

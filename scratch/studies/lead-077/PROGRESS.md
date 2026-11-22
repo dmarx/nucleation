@@ -54,8 +54,12 @@
   curated by the incumbent (filtered from 16, entered twice).
 - Not run: CASE-158's grant-reset counterfactual (out of the core arms).
 
+- Filed CASE-tmpkghqb (executed-study), CLAIM-tmpdmn0v (thesis, empirical,
+  with two readings of CLAIM-467's defeat condition for the owner), dated
+  notes of 2026-11-22 on CASE-158, QUESTION-271, CLAIM-467, CLAIM-277,
+  CLAIM-342, CLAIM-286, QUESTION-264, QUESTION-089, LEAD-077; changelog
+  fragment record/changelog.d/lead-077.md.
+
 ## Next
 
-- File CASE (executed-study), CLAIM if warranted, dated notes on CASE-158,
-  QUESTION-271, CLAIM-467, QUESTION-264, QUESTION-089, CLAIM-277, CLAIM-342,
-  CLAIM-286, LEAD-077; changelog fragment.
+- Report to the lead. No pull request (the lead opens it).

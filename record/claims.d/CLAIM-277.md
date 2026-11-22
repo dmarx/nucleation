@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpf1063
 title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of grants that policies earn by being right often, and the same loop entrenches whatever gained influence early'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -37,6 +37,11 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Ensign et al. (LIT-2688) read on 2026-11-16, NOTE-2025. No change of status or title.
+- version: 7
+  date: '2026-11-22'
+  note: >-
+    A dated note added: LEAD-077's run of CASE-158's design. The entry
+    is otherwise unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -237,3 +242,17 @@ The fourth status review ([ADR-057](../decisions.d/ADR-057.md)) took this claim 
 ## Note of 2026-11-16: Ensign, read
 
 Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian ([LIT-2688](../literature.d/LIT-2688.md)) prove the claim's second clause in an independent formal model. Police are sent in proportion to incidents logged, and incidents are logged only where police go, a generalized Pólya urn. With equal crime rates the limiting allocation is a draw fixed by the initial counts (Lemma 2): "the prior belief coupled with the lack of feedback about the unobserved region" keeps the system from learning that the regions are alike. With unequal rates the allocation goes wholly to the higher-rate region, at 10% against 11% it will "settle on region B with probability 1" (Lemma 4). That second result qualifies the claim: the same loop also turns a slight real advantage into total allocation, entrenching the leader and not only the early. The paper's remedy (§3.5) is a forgetting rule of a specific kind: it discounts evidence by the probability that the grant itself produced it, which bears on the claim's memory kernel. Nothing here touches the first clause (authority as the regularity of grants earned by being right).
+
+## Note of 2026-11-22: the entrenchment loop in a denoiser run
+
+<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+
+[LEAD-077](../leads.d/LEAD-077.md) ran [CASE-158](../cases.d/CASE-158.md)'s arm in which specialists keep training on
+the regions they are granted ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)). Neither audited governance nor a
+router entrenched the pre-reversal specialist: 0.00 to 0.05 of the weight
+stayed on it over the last ten episodes. Conformity scoring kept 0.06 to
+0.14. The incumbent learned the new content at rate 0.1 while the right
+specialist was already competent, so the loop had no time to bind; rate
+and capacity were not swept. It is an instance of the loop failing to
+lock in under independent audits, not a test of it where audits are
+lacking. The claim is unchanged.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpocjxw
 title: 'Under full-information, independent audits, a learned allocation of influence among specialists is no better than a contextual router trained on the same audits, which is a mixture of experts whose experts earn responsibility by fitting better; whatever governance adds over routing has to be shown where evaluation fails, and the record has not yet found such a regime'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-28'
@@ -29,6 +29,11 @@ history:
     on file, and nothing held meets the defeat condition: CASE-162's run
     with the router's audit delay matched still had the router ahead, and
     CASE-166 reports a tie. The claim is unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note added: LEAD-077's run of CASE-158's design. The entry
+    is otherwise unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -99,3 +104,26 @@ vocabulary and not prediction, stands for this model class until one does.
   still won, but the case calls the design's information-matching a
   condition of every future arm.
 - **Anything about organizations.** Specialist denoisers in a lab.
+
+## Note of 2026-11-22: a run of CASE-158's design with the router matched
+
+<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+
+[LEAD-077](../leads.d/LEAD-077.md) ran this claim's test in numpy ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)). Under full,
+independent audits, with the router given the same delay and cost:
+
+- at a shared gate temperature of 0.03 governance had lower
+  post-reversal error than the contextual router on 12 of 12 seeds, and
+  at 0.1 on 11 of 12;
+- at 0.3, the temperature both do best at before the reversal, the router
+  had the lower error on 11 of 12;
+- a router seeing only the region id, as governance's grants do, had the
+  lower error on 12 of 12 at every temperature.
+
+Whether the first result meets the defeat condition is the owner's
+reading; [CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md) sets out both: met as worded, or not met as glossed
+("governance using something a router trained on the audits cannot"),
+since the edge was the contextual router's noisy context. The run also
+found no regime among [QUESTION-271](../questions.d/QUESTION-271.md)'s four in which the best governance
+beat the best router, which extends this claim's second half. No status,
+title or text changed.

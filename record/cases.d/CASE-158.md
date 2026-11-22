@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpjmerx
 title: 'Audited governance against a contextual router after a reversal of expertise: specialist denoisers with frozen, separately trained operators propose for one shared latent at each step, and spatial grants are revised from independent held-out probes of every proposal, available only from the next episode, against a fixed allocation, a conformity-scored allocation and a contextual mixture-of-experts router; the question is whether governance does anything a router does not, and under full-information audits the record predicts it cannot'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-25'
@@ -30,6 +30,11 @@ history:
     merging LoRAs degrades as their number grows (THEORY-955) motivates
     combining per step"). First application of draws_on (ADR-095). No
     other change.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note added: LEAD-077's run of CASE-158's design. The entry
+    is otherwise unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -179,3 +184,33 @@ case's arms 1–4 is present, and the result is what the prediction
 expects. Reported, not reproduced: T20's "PerspectiveLab v2.11" is not
 held, and dmarx/PerspectiveLab holds no v2.10 or v2.11 (its latest import
 is c54617e, v2.9). The case is unchanged.
+
+## Note of 2026-11-22: the design built and run, with the router matched
+
+<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+
+This case's design was built in numpy and run for [LEAD-077](../leads.d/LEAD-077.md) ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md);
+scratch/studies/lead-077/). It does not reproduce A47's software, which is
+not held. The router saw the same audit records, with the same
+one-episode delay and the same number of probes, so the first caveat
+above is met by construction; competence was frozen except in one arm.
+One arm per failure of [QUESTION-271](../questions.d/QUESTION-271.md) and one with continued training
+were run, 12 paired seeds each, at three gate temperatures.
+
+- The first two predictions held: governance recovered after the reversal
+  with no lock-in under full audits, and conformity scoring did worse than
+  fixed allocation (0.2656 to 0.2767 against 0.2484).
+- The third held at the temperature both do best at (router 0.1534,
+  governance 0.1557, router lower on 11 of 12 seeds), but not at lower
+  shared temperatures, where the router's per-item gate on noisy patches
+  costs it; a router that sees only the region id beat governance on 12
+  of 12 at every temperature.
+- In the arms "in which governance could beat a router", the best router
+  matched or beat the best governance in each: cycles and 80% capture
+  went 12 of 12 to the router; incommensurable scores tied once the
+  router was given the standardization governance used; under bandit
+  feedback governance with an audit floor tied the router without one.
+
+So "If it never does, the objection stands for this model class" is what
+the run found, with the qualifications [CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md) sets out. The grant-reset
+counterfactual was not run. The case is unchanged.
