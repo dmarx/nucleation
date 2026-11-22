@@ -142,3 +142,8 @@ It uses [TERM-118](../terms.d/TERM-118.md), which is not adopted: [ARG-069](../a
 disposition's bearer open, and [ARG-059](../arguments.d/ARG-059.md) still calls [CLAIM-619](CLAIM-619.md) a fink against
 the term's finking row. Its own demonstration is re-derived and its sense
 is now named, so once [TERM-118](../terms.d/TERM-118.md) is adopted nothing else holds it.
+
+## Note of 2026-11-22: coverage after forgetting, in a toy
+<!-- inactive-ok-file: CASE-tmprir2y — new; the run of LEAD-043 -->
+
+[LEAD-043](../leads.d/LEAD-043.md)'s toy run ([CASE-tmprir2y](../cases.d/CASE-tmprir2y.md)) shows both sides of the coverage formula after a fact is fine-tuned away. After overwriting, the old value's probability stays above that of a value the model never held (0.002 to 0.004 against under 0.001), and coverage at N = 256 is 0.24 to 0.37 against 0.06 to 0.08: the fact has moved to a higher realization cost. After unlearning toward a uniform output, p is 1/16 for the true value and the never-held value alike, and coverage at N = 256 is 1.00 for both. There coverage reflects the size of the output space, not retention: the claim's point that coverage is not delivery, and that without a selector it says nothing.
