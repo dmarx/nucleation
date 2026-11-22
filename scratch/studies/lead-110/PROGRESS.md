@@ -34,13 +34,21 @@ as such; leave owner's choices as alternatives.
 
 ## Done
 
-- Read CLAUDE.md, design-principles, ADR-001/048, run-lead skill, LEAD-110,
-  QUESTION-460, CASE-256, ARG-110, CLAIM-690, CLAIM-671, CLAIM-tmp7mors.
+- Read CLAUDE.md, design-principles, ADR-001/048/085/043/136, run-lead skill,
+  LEAD-110, QUESTION-460, CASE-256, docs/record.md fields, TERM-074/083,
+  ARG-110, CLAIM-690/671/418/682/687/tmp7mors/tmp8qqi4.
+- Filed CLAIM-tmpv1jgv (Reading A, main, thesis/interpretive): R2 ground + R3
+  bearer for sense-1 wholes. The assistant's lean.
+- Filed ARG-tmp8r2f8 (contrast): load-bearing support for CLAIM-tmpv1jgv.
+- Filed CLAIM-tmp85wj6 (Reading B, alternative, supposed/interpretive): R1
+  ground for thick membership, conditional on an associative-obligation
+  principle the record has not adopted; objects_to CLAIM-tmpv1jgv.
+- Dated note on LEAD-110 (no status/stage change); changelog fragment
+  record/changelog.d/lead-110.md.
+- Pre-commit checks pass (yaml parse, no code in title, H1 == title).
 
 ## Next
 
-- Read docs/record.md fields for CLAIM and ARG; TERM-074, TERM-083; ADR-136,
-  ADR-032, ADR-043; CLAIM-682/687 (controller-bearers).
-- Draft and file: main CLAIM (R2 ground + R3 bearer, assistant's lean) + ARG;
-  mark R1 as the standing alternative (associative-duties premise unadopted).
-- Changelog fragment; dated note on the lead.
+- Nothing substantive remains for the lead's worked-through step. Owner's
+  calls: which sense the case is about, whether to adopt an associative-
+  obligation principle (hold Reading B), statuses/stage. Lead opens the PR.
