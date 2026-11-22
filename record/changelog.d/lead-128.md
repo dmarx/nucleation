@@ -6,4 +6,4 @@
 
 ### Changed
 
-- Dated notes of 2026-11-22 on [LEAD-128](record/leads.d/LEAD-128.md), [THEORY-070](record/theory.d/THEORY-070.md), [CLAIM-358](record/claims.d/CLAIM-358.md) and [CLAIM-162](record/claims.d/CLAIM-162.md) recording that a cost-side fit bearing on THEORY-070's promote_when (1) is now in the record, with the caveat that it uses a revealed-choice rather than an accumulator-parameter measure of intensity. No status, stage or title changed; whether the fit promotes THEORY-070 is the owner's call.
+- Dated notes of 2026-11-22 on [LEAD-128](record/leads.d/LEAD-128.md), [THEORY-070](record/theory.d/THEORY-070.md), [CLAIM-358](record/claims.d/CLAIM-358.md) and [CLAIM-162](record/claims.d/CLAIM-162.md) recording that a cost-side fit bearing on [THEORY-070](record/theory.d/THEORY-070.md)'s promote_when (1) is now in the record, with the caveat that it uses a revealed-choice rather than an accumulator-parameter measure of intensity. No status, stage or title changed; whether the fit promotes [THEORY-070](record/theory.d/THEORY-070.md) is the owner's call.

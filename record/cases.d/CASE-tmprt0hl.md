@@ -54,7 +54,7 @@ n-back level (1–4, the cognitive-control intensity on offer) and r its
 monetary reward in euros. Within a pair one level is held at a fixed 2€ and
 the other's reward is titrated over six bisection steps to the indifference
 point. The downloads were fetched to the session scratchpad only and are not
-committed; no email or personal data was sent to any service (ADR-008).
+committed; no email or personal data was sent to any service ([ADR-008](../decisions.d/ADR-008.md)).
 
 ## The model
 
