@@ -18,7 +18,8 @@ import time
 
 import numpy as np
 
-import probes
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))  # python3 -I drops it
+import probes  # noqa: E402
 import tinytf as tt
 
 S_OLD, S_NEW, R, O = 64, 64, 4, 16
