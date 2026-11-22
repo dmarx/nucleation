@@ -180,3 +180,46 @@ promote_when: "An independent experiment or a reanalysis confirms GUE
 Tracy-Widom fluctuations for curved KPZ fronts (with skewness and
 kurtosis near 0.224 and 0.093), or the authors' later flat-interface
 measurements find the GOE counterpart in the same system."
+
+## Step 3: recheck (2026-11-22)
+
+Searched record/ for KPZ, Kardar, Tracy-Widom, Family-Vicsek, Airy,
+Sasamoto, Spohn, Prähofer, Miettinen, electroconvection, liquid crystal,
+nematic, directed percolation, growing interface, self-affine,
+Edwards-Wilkinson, universality class, random matrix, and the arXiv ids
+0706.4151 and 0907.4297. Not held: the DP papers in the same system,
+Prähofer-Spohn, Sasamoto-Spohn, Miettinen. Entries the first search
+(which reached CLAIM-841, QUESTION-508, LIT-2978) missed:
+
+- **LEAD-209** (Open; protocol for telling mechanisms apart), "Growth
+  (KPZ)" column: **supports and qualifies.** Its cells "W ∝ L^α" and
+  "z = 3/2 in 1D" are what the paper measures (α = 0.50(5), β =
+  0.336(11), Family-Vicsek collapse). Its cell "odd-order statistics of
+  increments: nonzero skewness" is near but not what the paper shows: the
+  paper's nonzero skewness (≈ 0.2241, GUE TW) is of the height (local
+  radius) itself, not of increments. The paper also supplies a sharper
+  row for that column: the parameter-free skewness and kurtosis that
+  discriminate GUE TW from GOE TW and Gaussian, and so read geometry
+  (curved vs flat). Its trial's "1D KPZ discretization" could be scored
+  against these numbers.
+- **CLAIM-803** (Proposed; a shared power law does not show a shared
+  mechanism or universality class): **supports, as parallel.** The paper
+  goes "beyond the scaling laws" (p. 1): it identifies the class by the
+  full fluctuation distribution and correlation, not exponents alone,
+  and the distribution distinguishes sub-classes (GUE vs GOE) that share
+  exponents.
+- **SYNTHESIS-119** (Proposed; a power law does not identify its
+  mechanism): background; the paper is an instance of identifying a
+  mechanism from more than the exponent, through TW and Airy₂.
+- **QUESTION-505** (Open; what fixes the exponent: geometry, dimension
+  ...): **parallel/contrast.** In KPZ geometry does not fix the exponents
+  (same α, β for curved and flat) but fixes the distribution (GUE curved,
+  GOE flat; "geometry-dependent universality", p. 4).
+- **THEORY-2148** (Baik, Ben Arous and Péché; Tracy-Widom fluctuations of
+  the largest sample eigenvalue): background; the same GUE TW law, here
+  reached by a growing interface.
+- **TERM-139** (relevant/irrelevant/marginal at an RG fixed point):
+  background; the paper cites "the renormalization group approach" for
+  the exact 1+1D exponents (p. 1).
+
+No held entry contradicts the reading.
