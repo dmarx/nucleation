@@ -93,6 +93,20 @@ def test_dead_column_of_the_5gon_is_frozen_under_sgd(lr, B):
     assert np.array_equal(W[0, :, 5], W0[:, 5]) and b[0, 5] == b0[5]
 
 
+def test_ti_recovers_free_energy_formula():
+    import ti
+    # E[L] = L0 + lam / n  =>  log Z(n) - log Z(n') = -(L0 (n - n') + lam log(n / n'))
+    lad = np.geomspace(0.5, 10000, 64)
+    L0, lam = 0.05, 7.0
+    lz = ti.ti_logZ(lad, L0 + lam / lad, L0 + lam / lad[0], 0.3)
+    i, j = 20, 60
+    assert lz[j] - lz[i] == pytest.approx(-(L0 * (lad[j] - lad[i]) + lam * np.log(lad[j] / lad[i])), rel=1e-3)
+    # crossing and formula: Chen et al.'s 5 -> 6 with theory lambdas is n ~ 601
+    assert ti.formula_ncr(0.04819 - 0.06874, 1.5, 6.37767 - 3.62417)[0] == pytest.approx(601, abs=3)
+    x = np.array([1.0, 10.0, 100.0]); y = np.array([-1.0, -0.5, 0.5])
+    assert ti.crossing(x, y) == pytest.approx(np.sqrt(10) * 10, rel=1e-9)
+
+
 def test_posterior_energy_gradient_and_codes():
     import posterior as P
     rng = np.random.default_rng(5)

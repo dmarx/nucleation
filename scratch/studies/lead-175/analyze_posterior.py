@@ -15,6 +15,7 @@ from math import log
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
 import tms
+import ti
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 RES = os.path.join(HERE, "results")
@@ -28,19 +29,10 @@ PAIRS = [("4++-", "4+"), ("4+", "5"), ("5", "5+"), ("5", "6"), ("5+", "6"), ("4+
 
 
 def formula_ncr(a, b, lam):
-    f = lambda n: n * (LCRIT[b] - LCRIT[a]) + (lam[b] - lam[a]) * log(n) + CC[b] - CC[a]
-    ns = np.geomspace(2, 1e6, 200000); v = np.array([f(n) for n in ns])
-    i = np.where((v[:-1] > 0) & (v[1:] <= 0))[0]
-    return [round(float(ns[j]), 1) for j in i]
+    return ti.formula_ncr(LCRIT[b] - LCRIT[a], lam[b] - lam[a], CC[b] - CC[a])
 
 
-def crossing(x, y):
-    """x increasing, y = log odds (b over a); first upward zero crossing, log-linear interpolation."""
-    for i in range(len(x) - 1):
-        if np.isfinite(y[i]) and np.isfinite(y[i + 1]) and y[i] < 0 <= y[i + 1]:
-            t = -y[i] / (y[i + 1] - y[i])
-            return float(np.exp(np.log(x[i]) + t * (np.log(x[i + 1]) - np.log(x[i]))))
-    return None
+crossing = ti.crossing
 
 
 def load(p):
@@ -100,12 +92,7 @@ for p in sorted(glob.glob(os.path.join(RES, "restricted_*.jsonl"))):
     ladR = np.array(B[0]["ladder"])
     EL = np.mean([b["meanL"] for b in B], 0)
     ELse = np.std([b["meanL"] for b in B], 0, ddof=1) / np.sqrt(len(B)) if len(B) > 1 else np.zeros_like(EL)
-    # integral_0^n E[L] dn: [0, n_1] trapezoid in n from the prior mean; beyond, trapezoid of n E[L] in log n
-    I = np.zeros(len(ladR))
-    I[0] = 0.5 * (EL0[reg] + EL[0]) * ladR[0]
-    g = ladR * EL
-    I[1:] = I[0] + np.cumsum(0.5 * (g[1:] + g[:-1]) * np.diff(np.log(ladR)))
-    logZ[reg] = np.log(P0[reg]) - I
+    logZ[reg] = ti.ti_logZ(ladR, EL, EL0[reg], P0[reg])
     lam_loc[reg] = (ladR * (EL - LCRIT[reg])).tolist()
     out.setdefault("restricted", {})[reg] = {"blocks": len(B), "meanL": EL.tolist(), "meanL_se": ELse.tolist(),
                                             "logZ": logZ[reg].tolist(), "prior_mass": P0[reg],
