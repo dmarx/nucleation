@@ -20,11 +20,13 @@
 - Main run (width 128, seeds 0-4) started -> results.jsonl; width sweep (32, 512; seeds 0-2) -> results_width.jsonl.
 - Template files from `luria new`: record/cases.d/CASE-tmp2zo3t.md, record/claims.d/CLAIM-tmp4223o.md (to fill).
 
+- Main run done (40 rows). CASE-tmp2zo3t and CLAIM-tmp4223o filled; dated note on LEAD-082;
+  changelog fragment record/changelog.d/lead-082.md.
+
 ## Next
 
-- When runs finish: summarize.py -> results.md; fill CASE (executed-study, variant_of CASE-275,
-  operationalizes LEAD-082) and CLAIM (empirical, Proposed); dated note on LEAD-082; changelog
-  fragment record/changelog.d/lead-082.md.
+- When the width sweep (results_width.jsonl) finishes: summarize.py, add a width paragraph to
+  CASE-tmp2zo3t, commit, report.
 
 ## Choices
 
