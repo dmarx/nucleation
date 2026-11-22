@@ -33,6 +33,7 @@ summary: >-
   paper "does not show how to test a need claim without assuming the
   well-being measure". A3 did not know the record had raised it.
 ---
+<!-- inactive-ok-file: THEORY-tmpc2ttm THEORY-tmptzl64 — Proposed; the readings of Martela and Ryan 2019 and 2021, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-1980 LIT-1983 THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # QUESTION-369: What would show that an experience is a basic psychological need, something an organism's functioning requires, rather than something that reliably raises reported well-being, when self-determination theory identifies needs by their effects on well-being and treats well-being as the presence of need satisfaction?
@@ -111,3 +112,35 @@ satisfaction is a property of a person in a relationship, not of a person.
 ## Note of 2026-11-13: preference satisfaction and how a life goes
 
 The filing of the exchange "Analyze technological civilization trap" put on this line [CLAIM-674](../claims.d/CLAIM-674.md), A's claim that an arrangement can satisfy preferences more fully, and raise the well-being people report, while narrowing their engagement with what is worthwhile. It bears on this question from outside self-determination theory: if reported well-being can rise while a life goes worse in Wolf's sense ([THEORY-1836](../theory.d/THEORY-1836.md)), effects on reported well-being cannot alone identify what a life requires. It does not answer the question, which asks what would show a need, not whether satisfaction and need come apart. No change.
+
+## Note of 2026-11-22: Martela and Ryan (2019), read
+
+LIT-1983 is now read in full (NOTE-tmptzkzg; its account is THEORY-tmpc2ttm,
+which `bears_on` this question), so beneficence is no longer held only
+second-hand. It is **a worked instance of this question's circularity, not
+an answer**. Need-hood is decided by incremental self-reported ill-being,
+with the three established needs entered first. The null for beneficence
+frustration rests on controlling competence frustration, which correlates
+.81 with it ("it is especially competence frustration that accounts for the
+insignificant relations", footnote 2, p. 124), so "adds no variance" cannot
+tell a derived experience from one that shares measurement with competence.
+The new category the authors tentatively propose, the "basic wellness
+enhancer" (p. 130), is close to this question's "something that reliably
+raises reported well-being", and the paper tells it from a need by the
+asymmetry of frustration effects, again on the well-being route. The paper
+names manipulation as the remedy (p. 130) and does not attempt it. The
+question stays open.
+
+## Note of 2026-11-22: Martela and Ryan (2021), read
+
+Read as a stand-in, in part, for LIT-1980 (LIT-tmp14tuh, NOTE-tmpqf55c;
+THEORY-tmptzl64, which `bears_on` this question). It **supplies the
+"intervention rather than correlation" this question asks for, for one
+candidate need, and leaves the question open**. Three preregistered
+experiments randomise a small gain or loss to a charity: the loss raises
+felt beneficence frustration (d = 0.84) and leaves negative affect, anxiety
+and depression unmoved, while the gain raises well-being. That fits the
+wellness-enhancer reading without the entry-order and collinearity
+objections to LIT-1983. But the outcomes are immediate self-reports and no
+functional deficit is measured, so it does not leave the well-being route.
+LIT-1980 itself is still Unfetched.

@@ -202,3 +202,23 @@ they surface when other needs are frustrated (pp. 5, 7).
   Sheldon et al. 2001 ([NOTE-1502](NOTE-1502.md)) anticipated it, declined it as
   "imprudent", and concluded there "may be four fundamental psychological
   needs".
+
+## Note of 2026-11-22: Martela and Ryan (2019), read
+
+LIT-1983, which this reading reports second-hand, is now read in full
+(NOTE-tmptzkzg). The account above is **right in substance, with two
+corrections**, recorded here rather than in the text above:
+
+- **The term.** Martela and Ryan's own term is "basic wellness enhancer"
+  (pp. 130–131), not "well-being enhancer", which is this paper's wording
+  of it.
+- **The hedge.** The classing is not a verdict. The authors "tentatively
+  propose" the distinction (p. 131), say beneficence "might be better
+  considered" one (p. 130), and write that "it is premature to make any
+  conclusions of whether beneficence should be seen as a wellness
+  enhancer" (p. 130).
+
+The limitation above, "Beneficence is the one candidate rejected, on one
+study", is accurate: LIT-1983 is that study, and it rejects tentatively. Its
+null depends on controlling competence frustration (r = .81), which bears
+on this note's "frustration not unique".

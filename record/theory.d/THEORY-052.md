@@ -186,3 +186,13 @@ The status is unchanged.
 ## Note of 2026-11-06: what holds it back
 
 The works read on 2026-11-03 ([NOTE-1533](../notes.d/NOTE-1533.md), [NOTE-1510](../notes.d/NOTE-1510.md), [NOTE-1530](../notes.d/NOTE-1530.md), [NOTE-1527](../notes.d/NOTE-1527.md), [NOTE-1526](../notes.d/NOTE-1526.md), [NOTE-1500](../notes.d/NOTE-1500.md)) give one prospective result for one disorder, all self-report and with reverse prediction at one lag, and a measure whose satisfaction–frustration split may be item keying, which the promote_when now excludes (version 2). No study shows frustration, measured apart from self-report sharing content with distress and not as a keying split, preceding or mediating symptoms of more than one disorder.
+
+## Note of 2026-11-22: Martela and Ryan (2019), read
+
+LIT-1983 (NOTE-tmptzkzg) **corroborates this account's premise in passing
+and is not promotion evidence**. Of the three established needs' frustration
+the authors write that "all three of them seem to be independently
+connected" to ill-being (p. 129). But the evidence is cross-sectional MTurk
+self-report, with frustration items negatively keyed and "reverse-scored"
+(p. 121), which is the kind the promote_when excludes. The status is
+unchanged.
