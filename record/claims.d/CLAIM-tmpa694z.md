@@ -43,7 +43,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpo6ehq CLAIM-tmpervl4 THEORY-tmpmvcnr THEORY-tmp0d58z ARG-tmp5xhiv — Proposed or new; filed with this claim for LEAD-094 -->
+<!-- inactive-ok-file: CLAIM-tmpo6ehq CLAIM-tmpervl4 THEORY-tmpmvcnr THEORY-tmp0d58z ARG-tmp5xhiv THEORY-tmpgdriu — Proposed or new; filed with this claim for LEAD-094 -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-626 — Proposed; the claim this defends and the claim on critical slowing it cites -->
 
 # CLAIM-tmpa694z: Ott and Antonsen's reduction does not meet the rate-difference claim's first defeater: its closed order-parameter law holds on a manifold that is exactly invariant, so the relation that constrains is maximally persistent rather than free of persistence, the limit of slowness as an exact conservation law is; and it holds only in a narrow class, infinitely many oscillators coupled through the first harmonic alone with spread frequencies, so it is an exception of the kind the defeater sets aside, an instance of the non-necessity the claim already concedes
@@ -91,7 +91,12 @@ Granted, and it is what makes the candidate serious:
    rational frequency distribution. With identical frequencies the closure
    does not attract (NOTE-tmp5oph4, key result 7). That is the profile of
    the exceptions the defeater names, an exact structure, not of a typical
-   case.
+   case. Off all-to-all coupling the route without separation was not
+   available in at least one study: Caprioglio and Berthouze reduced a
+   hierarchically modular network to an Ott–Antonsen-solvable
+   two-population model, and the reduction held only with a large gap
+   between fast and slow modes (NOTE-tmp3gqv7; THEORY-tmpgdriu
+   corroborates this claim).
 3. **The claim already concedes it.** CLAIM-478's "What it does not say"
    holds that separation is not necessary, citing exact lumpability. The
    reduction is a nonlinear instance of that concession, and of
