@@ -19,3 +19,19 @@
 | LEAD-061 | read Golub and Jackson's Proposition 2 and Theorem 3 for several closed groups (QUESTION-184) | not held | NOTE-840 records Proposition 2 and Theorems 2-3, and THEORY-321's note of 2026-10-19 re-derives the strongly connected case, but says the several-closed-groups maximum "is not covered"; nothing since settles it. |
 | LEAD-018 | read Millikan's teleosemantics (curation 2026-11-12 020028) | not held | No LIT, NOTE or THEORY for Millikan; mentions are in other works' notes. |
 | LEAD-051 | read Peng et al. 2025 and specify the own-cells against donor-cells comparison (QUESTION-086) | not held | LIT-2462 is still Unfetched; THEORY-1658 rests on a research-news post (NOTE-1763); no CASE specifies the comparison. |
+| LEAD-179 | read LIT-1409; skim the two control catalogues LIT-1206 and LIT-1216 | partly held: NOTE-1375, NOTE-1355 | Both catalogues were skimmed on 2026-10-29 (NOTE-1375 for LIT-1206, NOTE-1355 for LIT-1216), which is what the lead asks of them; LIT-1409 is Unfetched with no note. |
+| LEAD-152 | read four works on procedural friction; register and read Frischmann and Benesch (2023) | partly held: NOTE-1382 | LIT-1609 was read as far as a lawful copy allows (NOTE-1382, Skimmed 2026-10-29: the free introduction; no lawful full copy found). The other three are Unfetched and Frischmann and Benesch is not registered (LIT-2687 is Natali et al., whose NOTE-2033 names it). |
+| LEAD-023 | read the dynamics batch (15 works) | not held | All fifteen LITs Deferred, no NOTE. |
+| LEAD-025 | read the transient-support primaries (14 works) | not held | Thirteen LITs Unfetched, Unavailable or Deferred with no NOTE; only LIT-2175 has a NOTE, filed today (NOTE-tmpcr2sz). |
+| LEAD-027 | read the works on remedies and correction (6) | not held | All Unfetched, no NOTE. |
+| LEAD-031 | read the works on obligation and repair (4) | not held | Deferred or Unfetched, no NOTE. |
+| LEAD-074 | read the works on manipulation and outside governance (7) | not held | All Unfetched, no NOTE. |
+| LEAD-094 | read the dynamics batch on scale separation (12) | not held | Unfetched or Deferred, no NOTE. |
+| LEAD-120 | read the contact works (2) and search for contrasting studies | not held | Both Unfetched, no NOTE. |
+| LEAD-130 | read the works on epistemic oppression and exploitation (6) | not held | Unfetched or Deferred, no NOTE. |
+| LEAD-133 | read the works on exploited commitment (4) | not held | All Unfetched, no NOTE. |
+| LEAD-150 | read the works on bidirectional violence (4) | not held | All Unfetched, no NOTE. |
+| LEAD-161 | read the RO-DBT and organizational flexibility works (3) | not held | All Unfetched, no NOTE. |
+| LEAD-176 | read the scaffolding and individuality works (6) | not held | All Deferred, no NOTE. |
+| LEAD-189 | read the blameless post-incident work; check the Tempe prosecution | not held | LIT-2785 Unfetched, no NOTE. |
+| LEAD-196 | read the consumer-resource competition works | not held | LIT-1826 Unfetched, no NOTE. |
