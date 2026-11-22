@@ -29,6 +29,7 @@ LIT-2373, LIT-2363 (sweep-b), 2026-11-22.
 - N1 Mossio & Moreno 2010 filed: LIT-tmpmu3q0, NOTE-tmpnhdly, THEORY-tmpaygr8.
 - N2 Bich et al. 2016 filed: LIT-tmpv60zy, NOTE-tmpefons, THEORY-tmpxypfa.
 - LIT-536 unchanged; dated notes on LIT-536, THEORY-072, CLAIM-395, NOTE-148, NOTE-1443, NOTE-093.
+- Curation record/curation.d/2026/11/22/114537.md; changelog record/changelog.d/readings-sweep-c.md.
 
 ## Next
-- Batch C curation; changelog fragment readings-sweep-c.md.
+- Nothing: batch C is filed. Report to the caller.
