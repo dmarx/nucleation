@@ -1,73 +1,56 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpam6lh:` heading; the lint checks
-# that the two agree.
-title: 'u'
-
+title: 'Caliari (2026) shows that a welfare method satisfying Informational Responsiveness (one more choice of x over an indifferent y tips the ranking to x), with neutrality, choice non-negativeness and independence from menus lacking x and y, is exactly a weighted choice-count refinement of Bernheim and Rangel''s Pareto relation and recovers the true preference for all preference-monotonic choice models; in a 145-subject experiment such methods cut expected false positives against subjects'' reported rankings relative to the Pareto relation, while attention-type models, under which choice frequency and preference come apart, lie outside the guarantee'
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
-tags:
-- complex-systems
-
-date: '2026-11-22'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-2363
+bears_on:
+- QUESTION-456
+tags:
+- social-science
+- game-theory
+date: '2026-11-22'
+promote_when: >-
+  Both halves of the title are confirmed: the proofs of the
+  characterization (Propositions 1 and 3, in the paper's appendices, not
+  checked in this reading) are checked; and the experimental finding is
+  replicated with incentivized or independently validated welfare
+  benchmarks and repeated observations per menu, in a population not drawn
+  from one university's students, with methods satisfying Informational
+  Responsiveness again reducing expected false positives relative to the
+  Pareto relation.
+summary: >-
+  Caliari, read in NOTE-tmphq6zm (Read). An axiom on welfare methods,
+  Informational Responsiveness, with neutrality, choice non-negativeness
+  and Connection, characterizes weighted count refinements of the
+  Bernheim–Rangel Pareto relation, correct for preference-monotonic choice
+  models. In an experiment with 145 St Andrews students most violate WARP,
+  and such methods cut expected false positives against stated rankings.
+  Every welfare method is "implicitly model-based".
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
+# THEORY-tmpam6lh: Caliari (2026) shows that a welfare method satisfying Informational Responsiveness (one more choice of x over an indifferent y tips the ranking to x), with neutrality, choice non-negativeness and independence from menus lacking x and y, is exactly a weighted choice-count refinement of Bernheim and Rangel's Pareto relation and recovers the true preference for all preference-monotonic choice models; in a 145-subject experiment such methods cut expected false positives against subjects' reported rankings relative to the Pareto relation, while attention-type models, under which choice frequency and preference come apart, lie outside the guarantee
 
-# THEORY-tmpam6lh: u
+## The account
 
-## Source
+Caliari (2026) shows that a welfare method satisfying Informational
+Responsiveness, with neutrality, choice non-negativeness and independence
+from menus lacking the pair, is exactly a weighted choice-count refinement
+of Bernheim and Rangel's Pareto relation, and recovers the true preference
+for all preference-monotonic choice models. In a 145-subject experiment such
+methods cut expected false positives against subjects' reported rankings
+relative to the Pareto relation. Attention-type models, under which choice
+frequency and preference come apart, lie outside the guarantee.
 
-Author et al. (YEAR), LIT-000.
+## Evidence
 
-## What was actually shown
+The reading in NOTE-tmphq6zm; its key results are quoted there with
+locations. The theorems assume aligned data, while the experiment has one
+observation per menu, and its benchmark is a stated, non-incentivized
+ranking.
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+## Bearing
 
-## What this does not say
-
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+On QUESTION-456's failure mode 2: inferring a demand from behaviour always
+imports a model of how the behaviour was produced, and the inference fails
+exactly where selective attention separates choice from preference.
