@@ -40,6 +40,12 @@
   spontaneous background; "closed at time t" = withdrawing sigma at t for good leaves
   the nucleus maintained.
 
+- e9 done (python PID 31790 exited).
+- Filed: CASE-tmpy4orj (executed-study); CLAIM-tmpocjfb, -tmpnyf9e, -tmpk6abl,
+  -tmppgdad (demonstrated theses); CLAIM-tmp1qqso / -tmps1ll3 (alternative readings,
+  closure vs autocatalysis, owner's choice); dated notes on LEAD-093, QUESTION-399,
+  QUESTION-361, CASE-190; changelog fragment record/changelog.d/lead-093.md.
+
 ## Next
 
-- Collect results, write README, file CASE + CLAIMs + notes.
+- Report to the lead. Owner: choose between the two readings; statuses and stage.
