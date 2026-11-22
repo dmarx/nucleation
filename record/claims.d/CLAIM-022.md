@@ -161,12 +161,12 @@ No status changes.
 
 <!-- inactive-ok-file: CASE-tmpj29sq CASE-tmp06m60 CLAIM-tmpz9dqf — new; filed for LEAD-038 on 2026-11-22 -->
 
-LEAD-038's case pair (CASE-tmpj29sq, CASE-tmp06m60) and CLAIM-tmpz9dqf,
+[LEAD-038](../leads.d/LEAD-038.md)'s case pair ([CASE-tmpj29sq](../cases.d/CASE-tmpj29sq.md), [CASE-tmp06m60](../cases.d/CASE-tmp06m60.md)) and [CLAIM-tmpz9dqf](CLAIM-tmpz9dqf.md),
 which corroborates this claim, argue that a will installed within the
 agent's own reach, with the manipulator's channel withdrawn, matches its
 self-formed twin in every relation of will-organization. If that holds,
 efficacy and ownership come apart exactly as this claim says, and what
 would show the claim wrong is a present-structure feature separating such
-a pair, which CLAIM-tmpz9dqf's defeater states.
+a pair, which [CLAIM-tmpz9dqf](CLAIM-tmpz9dqf.md)'s defeater states.
 
 The claim is unchanged.

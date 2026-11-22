@@ -51,12 +51,12 @@ historical one.
 
 Done on the conceptual route, with no computation:
 
-- **The pair.** CASE-tmpj29sq, Plum's egoistic precedence installed by one
+- **The pair.** [CASE-tmpj29sq](../cases.d/CASE-tmpj29sq.md), Plum's egoistic precedence installed by one
   outside input that lands exactly on his twin's state, the channel then
-  removed; and CASE-tmp06m60, the twin, who reaches it by his own revision.
-  Both stipulated thought-experiments, built on CASE-191's provenance
+  removed; and [CASE-tmp06m60](../cases.d/CASE-tmp06m60.md), the twin, who reaches it by his own revision.
+  Both stipulated thought-experiments, built on [CASE-191](../cases.d/CASE-191.md)'s provenance
   result, matched in everything the account names, with six variants.
-- **The outcome for withdrawn manipulation.** CLAIM-tmpz9dqf argues that
+- **The outcome for withdrawn manipulation.** [CLAIM-tmpz9dqf](../claims.d/CLAIM-tmpz9dqf.md) argues that
   none can: every relation of will-organization, maintenance and
   transformation included, is fixed by present state, dynamics and
   couplings, and a twin exists exactly when the installed state is in the
@@ -64,14 +64,14 @@ Done on the conceptual route, with no computation:
   contain, and a corollary: the more an agent can reach by its own
   revision, the more manipulation its present can hide.
 - **Where the outcomes divide.** When the manipulator keeps its channel
-  (Pereboom's Case 1), two alternatives are filed: CLAIM-tmp9jo1z, the
+  (Pereboom's Case 1), two alternatives are filed: [CLAIM-tmp9jo1z](../claims.d/CLAIM-tmp9jo1z.md), the
   channel is a feature of will-organization (the assistant's lean), and
-  CLAIM-tmpner6t, it is a fact about the situation and none can.
+  [CLAIM-tmpner6t](../claims.d/CLAIM-tmpner6t.md), it is a fact about the situation and none can.
 
 What remains: the owner's choice between the two alternatives, and
-adoption of all three claims. The defeater of CLAIM-tmpz9dqf names the
+adoption of all three claims. The defeater of [CLAIM-tmpz9dqf](../claims.d/CLAIM-tmpz9dqf.md) names the
 result that would undo it, a mark in the agent's maintained relations,
-such as THEORY-054's integration, that an installation within reach must
+such as [THEORY-054](../theory.d/THEORY-054.md)'s integration, that an installation within reach must
 leave. No one has looked for one in a model where integration with other
-demands is represented; CASE-191 lacks it. The lead's status and stage are
+demands is represented; [CASE-191](../cases.d/CASE-191.md) lacks it. The lead's status and stage are
 the owner's.

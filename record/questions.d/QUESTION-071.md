@@ -335,14 +335,14 @@ The question stays Open.
 
 <!-- inactive-ok-file: CASE-tmpj29sq CASE-tmp06m60 CLAIM-tmpz9dqf CLAIM-tmp9jo1z CLAIM-tmpner6t — new; filed for LEAD-038 on 2026-11-22 -->
 
-LEAD-038 wrote the pair this question asks for: CASE-tmpj29sq, a will
+[LEAD-038](../leads.d/LEAD-038.md) wrote the pair this question asks for: [CASE-tmpj29sq](../cases.d/CASE-tmpj29sq.md), a will
 whose precedence was installed by one outside input that lands on exactly
-its twin's state, and CASE-tmp06m60, the twin, who reached it by his own
+its twin's state, and [CASE-tmp06m60](../cases.d/CASE-tmp06m60.md), the twin, who reached it by his own
 revision. What is stipulated is one state at one time, not that the two
 organizations are identical, so the pair is not the indistinguishability
 by definition that the note of 2026-10-21 set aside.
 
-- **Part 1.** CLAIM-tmpz9dqf (Proposed) answers that, for a manipulation
+- **Part 1.** [CLAIM-tmpz9dqf](../claims.d/CLAIM-tmpz9dqf.md) (Proposed) answers that, for a manipulation
   that withdraws its channel, the will line's notion of organization is
   one more structural condition: maintenance, transformation and the
   response to intervention are all fixed by present state, dynamics and
@@ -352,13 +352,13 @@ by definition that the note of 2026-10-21 set aside.
   match.
 - **A standing channel.** Whether a manipulator's retained channel, as in
   Pereboom's Case 1, is a feature of will-organization is filed as two
-  alternatives, CLAIM-tmp9jo1z (yes) and CLAIM-tmpner6t (no).
-- **Part 2.** CLAIM-tmpz9dqf lists what a record of formation must
+  alternatives, [CLAIM-tmp9jo1z](../claims.d/CLAIM-tmp9jo1z.md) (yes) and [CLAIM-tmpner6t](../claims.d/CLAIM-tmpner6t.md) (no).
+- **Part 2.** [CLAIM-tmpz9dqf](../claims.d/CLAIM-tmpz9dqf.md) lists what a record of formation must
   contain: which channel (own, another agent's, none) carried each
   governing relation, the transformation relation included, across its
   threshold; kept while it ran and outside the state a manipulator could
   set, so not the agent's memory; back to the start for original design;
   and, for another agent, the four conditions of the note of 2026-11-17
-  with the awareness test of THEORY-235.
+  with the awareness test of [THEORY-235](../theory.d/THEORY-235.md).
 
 The question stays Open; whether these answer it is the owner's call.
