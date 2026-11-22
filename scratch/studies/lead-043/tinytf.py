@@ -57,7 +57,7 @@ def forward(p, tok, keep=False):
     H, L = int(p["_meta"][0]), int(p["_meta"][1])
     B, T = tok.shape
     x = p["E"][tok] + p["P"][None, :T]
-    mask = np.triu(np.full((T, T), -1e9), 1)
+    mask = np.triu(np.full((T, T), -1e9, dtype=x.dtype), 1)
     cache = {"tok": tok, "layers": [], "resid": [x[:, -1].copy()]}
     for l in range(L):
         xin = x
