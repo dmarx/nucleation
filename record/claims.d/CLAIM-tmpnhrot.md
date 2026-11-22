@@ -1,81 +1,80 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected. A conceded one is recorded by its
-# target's revision, and keeps the status its own evidence gives it (ADR-059).
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: "On the narrow reading of the dependence rule, a constraint the capacity depends on but the agent does not produce is a condition, not a member of K, so a capacity whose realizing constraints all lie outside the agent is not the agent's to maintain"
-
+title: 'On the narrow reading of the dependence rule, a constraint the capacity depends on but the agent does not produce is a condition, not a member of K, so a capacity whose realizing constraints all lie outside the agent is not the agent''s to maintain'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A case where a capacity is lost through the loss of an outside-produced
+  constraint alone, the record's argument (CLAIM-099, CLAIM-025) needs
+  that loss counted as the agent's loss of the capacity, and the narrow
+  reading can only call it a change of conditions. Not defeated by an
+  outside supply the agent itself maintains by its own activity: that
+  supply relation is a constraint the agent produces, and a member of K.
 tags:
 - agency
-
+- self-governance
+- individuation
 date: '2026-11-22'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# Before filing a counter, ask: does it say the conclusion is false, or that
-# something does not show it? The second is not a claim but an ARG from the
-# premises to the conclusion, Rejected or Proposed (ADR-061).
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+rests_on:
+- CLAIM-tmpke0ap
+grounds:
+- CASE-tmp6mcpv
+summary: >-
+  One of two readings of the one choice the dependence rule (CLAIM-tmpke0ap)
+  leaves, the agent's boundary; the other is CLAIM-tmp8onwv. Filed as
+  alternatives under LEAD-053: which one the will-organization line uses
+  is the owner's call. On this reading precariousness is always relative
+  to conditions held fixed, as CASE-111's μ is, and a capacity supplied
+  from outside, like CLAIM-367's governance of a network's updates, is not
+  the agent's. The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call.
 ---
-
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
+<!-- inactive-ok-file: CLAIM-tmpke0ap CLAIM-tmp8onwv CASE-tmp6mcpv — new, filed in this pull request for LEAD-053 -->
+<!-- inactive-ok-file: CLAIM-367 CASE-227 — Proposed; the cases on which the two readings part, cited as open -->
 
 # CLAIM-tmpnhrot: On the narrow reading of the dependence rule, a constraint the capacity depends on but the agent does not produce is a condition, not a member of K, so a capacity whose realizing constraints all lie outside the agent is not the agent's to maintain
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+The dependence rule (CLAIM-tmpke0ap) fixes K from the constraints that
+realize a capacity and those they depend on, once the agent and the
+capacity are named. It leaves one choice: what to do with a constraint on
+that chain that the agent does not produce. On this reading, only the
+agent's own constraints are members of K. An outside-produced constraint is
+a condition, a parameter under which K's kernel is computed, as μ is in
+CASE-111.
+
+Three consequences, from CASE-tmp6mcpv:
+
+- **CLAIM-367's network.** The constraints that realize the capacity to
+  transform what becomes effective in training (optimizer, scheduler,
+  training controller, data selection) are not the network's. Their
+  intersection with the network's own constraints is empty, so the
+  capacity is not the network's, and the question whether the network's
+  capacity is precarious does not arise. That answers ARG-007's note of
+  2026-10-18, "which capacities count as the network's to maintain": none
+  of the transformation capacities, which is CLAIM-367's own conclusion.
+- **CASE-227 with an outside supply.** A29 §10's arm "c kept by an outside
+  controller" is a change of condition u, not of K. K stays c > ½; the
+  kernel moves with u (with u = 0.02, c = 0.6 grows instead of decaying).
+  The mode is then viable under that condition, and losing the supply is a
+  change of conditions under which the capacity becomes precarious.
+- **CLAIM-025's readings.** In the constraint-architecture readings "the
+  capacity to transform comes from outside, a robot, rig or supervisor",
+  and in Douglas, Bachelet and Church's barrel the rule is fixed by the
+  designer. On this reading none of these systems holds a capacity to
+  transform, which is how CLAIM-025's notes already describe them.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- That outside dependence is harmless. A capacity viable only under a
+  supply the agent does not control is precarious relative to that supply;
+  this reading reports it as a conditional verdict, not as a fact about K.
+- That the agent's boundary is the skin or the org chart. Which constraints
+  are the agent's own is individuation's question (CLAIM-152), for the
+  target at hand.
+- That it is the right reading. CLAIM-tmp8onwv is the alternative, and the
+  choice is the owner's.

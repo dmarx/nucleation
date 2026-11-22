@@ -1,81 +1,78 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected. A conceded one is recorded by its
-# target's revision, and keeps the status its own evidence gives it (ADR-059).
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
 title: 'On the wide reading of the dependence rule, every constraint the capacity depends on belongs to K wherever it is produced, so a capacity supplied from outside is held by the agent and is precarious with its supply'
-
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A case where counting an outside-produced constraint as a member of K
+  attributes to an agent a capacity that the record's individuation, by
+  the target the claim is about (CLAIM-152), assigns to a larger system,
+  and the attribution reverses a verdict the record relies on. Not
+  defeated by an outside supply that cannot be modelled: the reading then
+  says the kernel is not computable, not that K is wrong.
 tags:
 - agency
-
+- self-governance
+- individuation
 date: '2026-11-22'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# Before filing a counter, ask: does it say the conclusion is false, or that
-# something does not show it? The second is not a claim but an ARG from the
-# premises to the conclusion, Rejected or Proposed (ADR-061).
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+rests_on:
+- CLAIM-tmpke0ap
+grounds:
+- CASE-tmp6mcpv
+summary: >-
+  The other reading of the one choice the dependence rule (CLAIM-tmpke0ap)
+  leaves, beside CLAIM-tmpnhrot. Filed as alternatives under LEAD-053;
+  which the will-organization line uses is the owner's call. Outside
+  constraints the capacity depends on are members of K, with their own
+  dynamics as state variables, and since the agent does not steer them
+  the kernel must hold against every evolution they may take. A capacity
+  supplied from outside is the agent's and is precarious with its supply.
+  The wording is the assistant's (Claude, in this session); adopting it is
+  the owner's call.
 ---
-
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
+<!-- inactive-ok-file: CLAIM-tmpke0ap CLAIM-tmpnhrot CASE-tmp6mcpv — new, filed in this pull request for LEAD-053 -->
+<!-- inactive-ok-file: CLAIM-367 CASE-227 — Proposed; the cases on which the two readings part, cited as open -->
 
 # CLAIM-tmp8onwv: On the wide reading of the dependence rule, every constraint the capacity depends on belongs to K wherever it is produced, so a capacity supplied from outside is held by the agent and is precarious with its supply
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+The dependence rule (CLAIM-tmpke0ap) leaves one choice: what to do with a
+constraint on the capacity's dependence chain that the agent does not
+produce. On this reading it is a member of K like any other. Its level is
+set the same way, by what depends on it, and its dynamics enter the state.
+Because the agent does not steer it, the kernel is the set of states from
+which, whatever the outside constraint does within its range, some choice
+of the agent's keeps the state in K: viability for the agent's controls,
+invariance for the outside ones (THEORY-134's distinction between some
+evolution and every evolution).
+
+Three consequences, from CASE-tmp6mcpv:
+
+- **CLAIM-367's network.** The optimizer, scheduler and training
+  controller are members of K for the capacity to transform what becomes
+  effective. The network holds that capacity through them, and it is
+  precarious with the training process: it lasts as long as the trainer
+  keeps running and is lost when training stops. CLAIM-367, Proposed,
+  says the governance belongs to "a larger system"; on this reading the
+  network's K reaches into that system.
+- **CASE-227 with an outside supply.** The supply u is a member of K at
+  the level that stops c's decay (u ≥ 0.0176 at c = 0.6). The mode is
+  the system's, and precarious exactly as the supply is.
+- **What it buys.** Dependence on a supply is reported as a property of
+  the agent's capacity, not hidden in a fixed condition. That suits the
+  record's cases of capacity lost when support is withdrawn (CLAIM-463's
+  restoration, CASE-176's institute without staff or funds).
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- That the agent controls what it depends on. The reading is built for the
+  case where it does not.
+- That a system holding a capacity this way governs itself. Holding a
+  capacity through an outside supply is not owning it (TERM-023, "agent-
+  indexed").
+- That it is the right reading. CLAIM-tmpnhrot is the alternative, and the
+  choice is the owner's.
