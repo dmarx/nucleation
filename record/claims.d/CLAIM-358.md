@@ -95,6 +95,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1283 — Open or Proposed; the outward route filed as a question, and Massumi's micropolitics set beside this claim -->
 <!-- inactive-ok-file: CLAIM-162 ARG-016 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
+<!-- inactive-ok-file: CASE-tmprt0hl CLAIM-tmpwma3v — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
 
 # CLAIM-358: Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent's processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free
 
@@ -337,3 +338,17 @@ No status changes.
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after [CLAIM-361](CLAIM-361.md) went Active (2026-11-06) and after the readings of 2026-10-31 and 2026-11-01. None is a premise or bears on what holds it. The claim is still held by its ground [THEORY-070](../theory.d/THEORY-070.md), Proposed because no fit in the record shows control intensity falling with its cost (note of 2026-10-29).
+
+## Note of 2026-11-22: the missing cost-side fit now has a candidate
+
+Carrying out [LEAD-128](../leads.d/LEAD-128.md), the assistant fitted the expected-value-of-control
+effort-cost model to cognitive-effort-discounting choices ([CASE-tmprt0hl](../cases.d/CASE-tmprt0hl.md),
+finding [CLAIM-tmpwma3v](CLAIM-tmpwma3v.md)): the fitted cost of control rises with task load,
+the cost term is required, and for the modal agent control intensity falls as
+its cost rises. That is the intrinsic cost that, on [THEORY-070](../theory.d/THEORY-070.md), gives
+escalation the price this claim says a learned accommodation saves — the
+per-encounter cost this claim's amortization presupposes, not the recurrence.
+[CLAIM-tmpwma3v](CLAIM-tmpwma3v.md) corroborates this claim. The caveat on the fit (a revealed-choice
+measure of intensity, not an accumulator parameter) is in the note of
+2026-11-22 on [THEORY-070](../theory.d/THEORY-070.md); whether it promotes that ground is the owner's
+call, so this claim's status is unchanged.
