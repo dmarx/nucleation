@@ -159,3 +159,18 @@ long-term commitment.
   with an LLM judge.
 
 The case is unchanged.
+
+## Note of 2026-11-22: run as a constructed model, under [LEAD-159](../leads.d/LEAD-159.md)
+
+<!-- inactive-ok-file: CASE-tmprtp09 CLAIM-tmpprgb1 — new, filed from LEAD-159 on 2026-11-22 -->
+
+[CASE-tmprtp09](CASE-tmprtp09.md) runs this design in a constructed two-channel choice task,
+with A40's Study D control and two further agents, imposed protection and
+inertia. Corrigible resolve kept its revision probability under a defeater
+high and under an irrelevant change at zero at every commitment age;
+entrenchment's first probability fell with age to zero while the second
+stayed at zero, as this case predicts, with the evidence route showing the
+defeater observed and not admitted. The environment and visibility factors
+were varied; legitimacy was not, because none of the agents can read how
+its commitment was adopted. [CLAIM-tmpprgb1](../claims.d/CLAIM-tmpprgb1.md) states which ablations tell the
+agents apart. The case is unchanged.
