@@ -15,19 +15,18 @@ date: '2026-11-22'
 source:
 - LIT-tmpxug14
 summary: >-
-  Vestring et al. (2026), LIT-tmpxug14, read in NOTE-tmpkouzt. The
-  nearest design of a second kind that LEAD-047's search found: a drug
+  Vestring et al. (2026), [LIT-tmpxug14](../literature.d/LIT-tmpxug14.md), read in [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md). The
+  nearest design of a second kind that [LEAD-047](../leads.d/LEAD-047.md)'s search found: a drug
   intervention on the arbitration of approach and avoidance with the
   objective threat fixed. The represented threat is not measured.
   Proposed until replicated with the session order counterbalanced.
 ---
-<!-- inactive-ok-file: LIT-tmpxug14 NOTE-tmpkouzt — new; the work and its reading -->
 
 # THEORY-tmppv8yl: Vestring and colleagues report that in healthy adults ketamine, given 90 to 150 minutes before an approach-avoidance conflict task with experimenter-set threat probability and loss, raised approach, flattened its decline with threat probability and steepened its decline with loss, while lorazepam raised approach and flattened both
 
 ## Source
 
-Vestring et al. (2026), LIT-tmpxug14, read in NOTE-tmpkouzt.
+Vestring et al. (2026), [LIT-tmpxug14](../literature.d/LIT-tmpxug14.md), read in [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md).
 
 ## The account
 

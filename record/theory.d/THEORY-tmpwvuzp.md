@@ -15,19 +15,18 @@ date: '2026-11-22'
 source:
 - LIT-tmpiezdi
 summary: >-
-  Sridhar, Biagi & Wake (2026), LIT-tmpiezdi, read in NOTE-tmpexziy. The
-  nearest design LEAD-047's search found to an intervention on what
+  Sridhar, Biagi & Wake (2026), [LIT-tmpiezdi](../literature.d/LIT-tmpiezdi.md), read in [NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md). The
+  nearest design [LEAD-047](../leads.d/LEAD-047.md)'s search found to an intervention on what
   governs action with threat belief measured. Its expectancy null is
   clean; its avoidance effect is not. Proposed until the avoidance effect
   is shown confirmatorily.
 ---
-<!-- inactive-ok-file: LIT-tmpiezdi NOTE-tmpexziy — new; the work and its reading -->
 
 # THEORY-tmpwvuzp: Sridhar, Biagi and Wake report that a brief instruction to withhold avoidance in order to test one's threat expectancy left US expectancy and skin conductance unchanged, and propose that it reduced avoidance in more socially anxious people, a reduction their own tests give only as a non-significant exploratory trend
 
 ## Source
 
-Sridhar, Biagi & Wake (2026), LIT-tmpiezdi, read in NOTE-tmpexziy.
+Sridhar, Biagi & Wake (2026), [LIT-tmpiezdi](../literature.d/LIT-tmpiezdi.md), read in [NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md).
 
 ## The account
 
@@ -49,7 +48,7 @@ of social anxiety of p = .066 that the authors call exploratory.
 ## What it would take
 
 A confirmatory test of the avoidance effect, with expectancy measured
-after the instruction. For the record's purposes (CLAIM-446) more is
+after the instruction. For the record's purposes ([CLAIM-446](../claims.d/CLAIM-446.md)) more is
 needed: threat belief held fixed by design rather than found unchanged,
 and a manipulation that changes what governs action without being a
 request the participant obeys.

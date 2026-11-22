@@ -35,9 +35,9 @@ summary: >-
   with threat probability and steepened its decline with loss. The
   objective threat is fixed by design; the represented threat is not
   measured, so the change cannot be placed in belief or in the weight
-  threat is given. Read in NOTE-tmpkouzt; the reading is THEORY-tmppv8yl.
+  threat is given. Read in [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md); the reading is [THEORY-tmppv8yl](../theory.d/THEORY-tmppv8yl.md).
 ---
-<!-- inactive-ok-file: NOTE-tmpkouzt THEORY-tmppv8yl — new; this work's reading -->
+<!-- inactive-ok-file: THEORY-tmppv8yl — new; this work's reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim the search was for -->
 
 # LIT-tmpxug14: Ketamine promotes strategic and efficient approach-avoidance conflict resolution
@@ -58,8 +58,8 @@ Vestring et al. (2026). Communications Medicine 6, 605. DOI
 
 ## Standing in the record
 
-Filed by LEAD-047's search as the nearest design of a second kind: an
+Filed by [LEAD-047](../leads.d/LEAD-047.md)'s search as the nearest design of a second kind: an
 intervention on the arbitration of an approach-avoidance conflict with the
 objective threat set by the experimenter. It does not measure or fix the
 represented threat, so it cannot separate authority from belief for
-CLAIM-446.
+[CLAIM-446](../claims.d/CLAIM-446.md).

@@ -34,12 +34,12 @@ summary: >-
   the non-avoidance button "to test your expectancy". The instruction had
   no significant effect on avoidance overall (p = .230), an exploratory
   trend at high social anxiety (p = .066), and no effect on US expectancy
-  or skin conductance. The nearest design the LEAD-047 search found to an
+  or skin conductance. The nearest design the [LEAD-047](../leads.d/LEAD-047.md) search found to an
   intervention on what governs action with threat belief measured: it
   does not hold belief fixed by design and its effect on avoidance is not
-  reliable. Read in NOTE-tmpexziy; the reading is THEORY-tmpwvuzp.
+  reliable. Read in [NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md); the reading is [THEORY-tmpwvuzp](../theory.d/THEORY-tmpwvuzp.md).
 ---
-<!-- inactive-ok-file: NOTE-tmpexziy THEORY-tmpwvuzp — new; this work's reading -->
+<!-- inactive-ok-file: THEORY-tmpwvuzp — new; this work's reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim the search was for -->
 
 # LIT-tmpiezdi: Modifying avoidance in social anxiety: The effects of a cognitive-behavioural instruction on extinction learning
@@ -63,7 +63,7 @@ DOI 10.1016/j.brat.2026.105088.
 
 ## Standing in the record
 
-Filed by LEAD-047's search as the nearest design to an intervention on a
+Filed by [LEAD-047](../leads.d/LEAD-047.md)'s search as the nearest design to an intervention on a
 defensive process's authority with threat belief measured, for
-CLAIM-446. It falls short of the lead's criteria: belief is measured and
+[CLAIM-446](../claims.d/CLAIM-446.md). It falls short of the lead's criteria: belief is measured and
 unchanged, not held fixed, and the behavioural effect is not reliable.

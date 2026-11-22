@@ -21,11 +21,10 @@ summary: >-
   attack probability and loss. Both drugs raised approach. Ketamine made
   approach less sensitive to threat probability and more sensitive to
   loss; lorazepam flattened both. No measure of the represented threat
-  was taken. The reading is THEORY-tmppv8yl.
+  was taken. The reading is [THEORY-tmppv8yl](../theory.d/THEORY-tmppv8yl.md).
 ---
 <!-- inactive-ok-file: THEORY-tmppv8yl — new; this reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim the reading bears on -->
-<!-- inactive-ok-file: LIT-tmpulxb9 — Deferred; Korn et al. (2017), the lorazepam and amygdala-lesion study on the same task -->
 
 # NOTE-tmpkouzt: Vestring and colleagues, read for whether a drug changes the weight objective threat has on approach while the threat itself is held fixed
 
@@ -33,7 +32,7 @@ summary: >-
 
 The first comparison of ketamine with lorazepam on a validated human
 approach-avoidance conflict task, with threat probability and loss varied
-independently. The reading is THEORY-tmppv8yl.
+independently. The reading is [THEORY-tmppv8yl](../theory.d/THEORY-tmppv8yl.md).
 
 ## Key results
 
@@ -79,7 +78,7 @@ loss, Bonferroni threshold p < 0.0125.
 
 ## Bearing on the record
 
-- **CLAIM-446, near miss of a second kind.** The objective threat is held
+- **[CLAIM-446](../claims.d/CLAIM-446.md), near miss of a second kind.** The objective threat is held
   fixed by design within each level and the drug acts on the arbitration
   between threat and gain, which is near the claim's authority variable g.
   It does not meet the claim's test. The represented threat is neither
@@ -92,9 +91,9 @@ loss, Bonferroni threshold p < 0.0125.
   The authors' own phrase "reliance on" matches the claim's weighting
   without testing it. It neither supports nor counts against the claim.
   No relation written.
-- **QUESTION-325, background.** The paper's reading that ketamine
+- **[QUESTION-325](../questions.d/QUESTION-325.md), background.** The paper's reading that ketamine
   down-weights "uncertain threat cues" is in the territory of the
-  uncertainty account (THEORY-910), but uncertainty is not estimated, so
+  uncertainty account ([THEORY-910](../theory.d/THEORY-910.md)), but uncertainty is not estimated, so
   it does not bear on which rival holds.
 
 ## Limitations

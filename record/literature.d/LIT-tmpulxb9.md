@@ -2,11 +2,11 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered from the literature search of
-  LEAD-047 (scratch/studies/lead-047/screening.tsv) as one of the
+  [LEAD-047](../leads.d/LEAD-047.md) (scratch/studies/lead-047/screening.tsv) as one of the
   nearest designs to the study the lead asks for. An open-access copy is
   in PMC (PMC5598543), served by Europe PMC's REST interface; not
   fetched. Not read because the lead allows at most two readings and
-  Vestring et al. (LIT-tmpxug14) uses the same task.
+  Vestring et al. ([LIT-tmpxug14](LIT-tmpxug14.md)) uses the same task.
 title: 'Amygdala Lesions Reduce Anxiety-like Behavior in a Human Benzodiazepine-Sensitive Approach–Avoidance Conflict Test'
 version: 1
 history:
@@ -32,11 +32,11 @@ summary: >-
   lesions in Urbach-Wiethe patients reduce passive avoidance in Bach et
   al.'s approach-avoidance conflict task, where threat level is set by
   the experimenter (unverified until read). The causal-intervention
-  companion of Vestring et al. (LIT-tmpxug14) for CLAIM-446: an
+  companion of Vestring et al. ([LIT-tmpxug14](LIT-tmpxug14.md)) for [CLAIM-446](../claims.d/CLAIM-446.md): an
   intervention on the arbitration with objective threat fixed. Whether
   it measures the represented threat is the question to read it for.
 ---
-<!-- inactive-ok-file: CLAIM-446 LIT-tmpiezdi LIT-tmpxug14 — Proposed or new; the claim the search was for and the two works it read -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed or new; the claim the search was for and the two works it read -->
 
 # LIT-tmpulxb9: Amygdala Lesions Reduce Anxiety-like Behavior in a Human Benzodiazepine-Sensitive Approach–Avoidance Conflict Test
 
@@ -44,11 +44,11 @@ Korn, Vunder, Miró, Fuentemilla, Hurlemann & Bach (2017), Biological Psychiatry
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-047's search. Lorazepam in healthy
+Registered on 2026-11-22 by [LEAD-047](../leads.d/LEAD-047.md)'s search. Lorazepam in healthy
 people and amygdala lesions in Urbach-Wiethe patients reduce passive
 avoidance in Bach et al.'s approach-avoidance conflict task, where
 threat level is set by the experimenter (unverified until read). The
-causal-intervention companion of Vestring et al. (LIT-tmpxug14) for
-CLAIM-446: an intervention on the arbitration with objective threat
+causal-intervention companion of Vestring et al. ([LIT-tmpxug14](LIT-tmpxug14.md)) for
+[CLAIM-446](../claims.d/CLAIM-446.md): an intervention on the arbitration with objective threat
 fixed. Whether it measures the represented threat is the question to
 read it for. Not read.

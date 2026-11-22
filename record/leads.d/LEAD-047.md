@@ -25,7 +25,7 @@ summary: >-
   Two Proposed claims, one with dependants, wait on it. Named in
   [CLAIM-446](../claims.d/CLAIM-446.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: LIT-tmpiezdi LIT-tmpxug14 NOTE-tmpexziy NOTE-tmpkouzt LIT-tmpulxb9 LIT-tmpi1fyv LIT-tmpgnizl LIT-tmp8xv0w LIT-tmppvr66 — new or Deferred; the works and readings of the search of 2026-11-22 -->
+<!-- inactive-ok-file: LIT-tmpulxb9 LIT-tmpi1fyv LIT-tmpgnizl LIT-tmp8xv0w LIT-tmppvr66 — new or Deferred; the works and readings of the search of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-047: Find a study that measures a defensive process's authority apart from threat belief, intervening on its authority or evidence access while the represented threat stays fixed
@@ -63,24 +63,24 @@ represented threat held fixed, and an approach or avoidance outcome.
 fall short in three ways.
 
 - *Belief measured, not fixed.* Sridhar, Biagi & Wake (2026),
-  LIT-tmpiezdi, read in NOTE-tmpexziy: an instruction to withhold
+  [LIT-tmpiezdi](../literature.d/LIT-tmpiezdi.md), read in [NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md): an instruction to withhold
   avoidance "to test your expectancy" left US expectancy unchanged, but
   its effect on avoidance was not significant (p = .230; an exploratory
   p = .066 at high social anxiety), and an instruction is a request, not
   a change in what governs action.
 - *Objective threat fixed, represented threat unmeasured.* Vestring et
-  al. (2026), LIT-tmpxug14, read in NOTE-tmpkouzt: ketamine flattened
+  al. (2026), [LIT-tmpxug14](../literature.d/LIT-tmpxug14.md), read in [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md): ketamine flattened
   the decline of approach with experimenter-set threat probability, but
   the probabilities were learned and never rated, so a lower estimate and
-  a lower weight cannot be told apart. Korn et al. (2017), LIT-tmpulxb9,
+  a lower weight cannot be told apart. Korn et al. (2017), [LIT-tmpulxb9](../literature.d/LIT-tmpulxb9.md),
   on lorazepam and amygdala lesions in the same task, is registered and
   not read.
 - *Cost or access manipulated, belief moving with it.* Raising the cost
   of avoidance or paying for approach reduces avoidance and then lowers
   threat expectancy (Rattel et al. 2017; Wong et al. 2022; Pittig &
-  Wong 2021, LIT-tmpi1fyv, by Sridhar et al.'s account). Avoidance that outlasts a corrected belief is
-  well shown (Vervliet & Indekeu 2015, LIT-tmpgnizl; Leissner et al.
-  2026, LIT-tmp8xv0w; Pittig et al. 2021, LIT-tmppvr66), but none of
+  Wong 2021, [LIT-tmpi1fyv](../literature.d/LIT-tmpi1fyv.md), by Sridhar et al.'s account). Avoidance that outlasts a corrected belief is
+  well shown (Vervliet & Indekeu 2015, [LIT-tmpgnizl](../literature.d/LIT-tmpgnizl.md); Leissner et al.
+  2026, [LIT-tmp8xv0w](../literature.d/LIT-tmp8xv0w.md); Pittig et al. 2021, [LIT-tmppvr66](../literature.d/LIT-tmppvr66.md)), but none of
   these intervenes on authority.
 
 **What remains.** Reading Korn et al. (PMC5598543) and Pittig & Wong

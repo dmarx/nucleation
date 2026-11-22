@@ -23,7 +23,7 @@ summary: >-
   social anxiety measured dimensionally. The instruction did not reliably
   reduce avoidance; it left US expectancy and skin conductance unchanged.
   The authors read a dissociation between behaviour and threat belief
-  from a trend. The reading is THEORY-tmpwvuzp.
+  from a trend. The reading is [THEORY-tmpwvuzp](../theory.d/THEORY-tmpwvuzp.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpwvuzp — new; this reading -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed; the claim the reading bears on -->
@@ -36,7 +36,7 @@ summary: >-
 The first test of an instruction to drop avoidance against individual
 differences in social anxiety, with behaviour, US expectancy and skin
 conductance all measured. It reports no reliable effect of the
-instruction on any of the three. The reading is THEORY-tmpwvuzp.
+instruction on any of the three. The reading is [THEORY-tmpwvuzp](../theory.d/THEORY-tmpwvuzp.md).
 
 ## Key results
 
@@ -87,13 +87,13 @@ SPIN score; 68% of the sample exceeded the clinical cut-off.
 
 - **Instructed extinction of avoidance**: telling participants to
   withhold avoidance in order to test their expectancy, after Pittig and
-  Wong (2021), LIT-tmpi1fyv.
+  Wong (2021), [LIT-tmpi1fyv](../literature.d/LIT-tmpi1fyv.md).
 - **Dissociation of fear components**: behaviour, expectancy and
   physiology responding differently to one intervention.
 
 ## Bearing on the record
 
-- **CLAIM-446, near miss.** The design is close to the claim's
+- **[CLAIM-446](../claims.d/CLAIM-446.md), near miss.** The design is close to the claim's
   authority-correction arm: the instruction targets what governs the
   avoid choice, not the CS–US contingency, and threat expectancy is
   measured. It does not meet the claim's test. Threat belief is measured
@@ -102,7 +102,7 @@ SPIN score; 68% of the sample exceeded the clinical cut-off.
   not separate a change in the defensive process's authority from
   compliance; and the effect on avoidance is not significant. It neither
   supports nor counts against the claim. No relation written.
-- **QUESTION-325, background.** Neither the uncertainty estimate nor the
+- **[QUESTION-325](../questions.d/QUESTION-325.md), background.** Neither the uncertainty estimate nor the
   belief about one's own future avoidance is measured, so the reading does
   not discriminate the rivals.
 

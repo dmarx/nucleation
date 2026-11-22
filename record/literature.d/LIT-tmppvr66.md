@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered from the literature search of
-  LEAD-047 (scratch/studies/lead-047/screening.tsv) as one of the
+  [LEAD-047](../leads.d/LEAD-047.md) (scratch/studies/lead-047/screening.tsv) as one of the
   nearest designs to the study the lead asks for. OpenAlex lists the
   publisher's PDF as open
   (onlinelibrary.wiley.com/doi/pdfdirect/10.1002/da.23119); not fetched.
@@ -33,11 +33,11 @@ summary: >-
   approach competed with the aversive outcome, and per the abstract this
   "was not linked to higher conditioned fear" (threat expectancy and
   arousal; unverified until read). The nearest design of a third kind
-  for CLAIM-446: the cost of defence raised by incentive, with threat
+  for [CLAIM-446](../claims.d/CLAIM-446.md): the cost of defence raised by incentive, with threat
   expectancy measured, and avoidance that does not track it. It does not
   fix belief by design or intervene on authority.
 ---
-<!-- inactive-ok-file: CLAIM-446 LIT-tmpiezdi LIT-tmpxug14 — Proposed or new; the claim the search was for and the two works it read -->
+<!-- inactive-ok-file: CLAIM-446 — Proposed or new; the claim the search was for and the two works it read -->
 
 # LIT-tmppvr66: Elevated costly avoidance in anxiety disorders: Patients show little downregulation of acquired avoidance in face of competing rewards for approach
 
@@ -45,12 +45,12 @@ Pittig, Boschet, Glück & Schneider (2021), Depression and Anxiety 38(3), 361-37
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-047's search. Forty patients with
+Registered on 2026-11-22 by [LEAD-047](../leads.d/LEAD-047.md)'s search. Forty patients with
 anxiety disorders and forty matched controls: patients failed to reduce
 avoidance when rewards for approach competed with the aversive outcome,
 and per the abstract this "was not linked to higher conditioned fear"
 (threat expectancy and arousal; unverified until read). The nearest
-design of a third kind for CLAIM-446: the cost of defence raised by
+design of a third kind for [CLAIM-446](../claims.d/CLAIM-446.md): the cost of defence raised by
 incentive, with threat expectancy measured, and avoidance that does not
 track it. It does not fix belief by design or intervene on authority.
 Not read.

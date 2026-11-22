@@ -139,7 +139,7 @@ summary: >-
 bears_on:
 - QUESTION-325
 ---
-<!-- inactive-ok-file: LIT-tmpiezdi LIT-tmpxug14 NOTE-tmpexziy NOTE-tmpkouzt LIT-tmpgnizl LIT-tmp8xv0w LIT-tmppvr66 — new or Deferred; LEAD-047's search of 2026-11-22 -->
+<!-- inactive-ok-file: LIT-tmpgnizl LIT-tmp8xv0w LIT-tmppvr66 — new or Deferred; LEAD-047's search of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 
 # CLAIM-446: Some persistent anxiety may be governance-maintained rather than belief-maintained: anticipated threat grants defensive processes authority over action, attention and evidence acquisition; under the avoidance that authority selects, the hypotheses that the situation is dangerous and that it is safe predict the same observation, so repeated safety need not correct the threat estimate; relief reinforces the defense without being evidence of danger; and the regime can outlast a corrected belief, its pathology, where present, being defensive authority insensitive to corrective evidence at avoidable cost
@@ -438,20 +438,20 @@ Rechecked after [CLAIM-549](CLAIM-549.md) went Active (2026-11-06) and Gershman,
 
 ## Note of 2026-11-22: no study found that measures authority apart from belief
 
-LEAD-047's literature search (scratch/studies/lead-047/) found no study
+[LEAD-047](../leads.d/LEAD-047.md)'s literature search (scratch/studies/lead-047/) found no study
 that intervenes on a defensive process's authority or evidence access
 with the represented threat held fixed, so the gap the notes of
 2026-10-29 and 2026-11-06 name stands, and nothing meets or fails this
 claim's defeated_if. Two nearest designs were read. In Sridhar, Biagi &
-Wake (2026), LIT-tmpiezdi, NOTE-tmpexziy, an instruction to withhold
+Wake (2026), [LIT-tmpiezdi](../literature.d/LIT-tmpiezdi.md), [NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md), an instruction to withhold
 avoidance "to test your expectancy" left US expectancy unchanged, but
 did not significantly reduce avoidance (p = .230), so it shows neither
 authority moving with belief fixed nor its failure to. In Vestring et
-al. (2026), LIT-tmpxug14, NOTE-tmpkouzt, ketamine changed how strongly
+al. (2026), [LIT-tmpxug14](../literature.d/LIT-tmpxug14.md), [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md), ketamine changed how strongly
 experimenter-set threat probability governed approach, but the learned
 probabilities were not rated, so the change cannot be placed in belief
-or in authority. Several registered works (LIT-tmpgnizl, LIT-tmp8xv0w,
-LIT-tmppvr66) show avoidance outlasting a corrected or low threat
+or in authority. Several registered works ([LIT-tmpgnizl](../literature.d/LIT-tmpgnizl.md), [LIT-tmp8xv0w](../literature.d/LIT-tmp8xv0w.md),
+[LIT-tmppvr66](../literature.d/LIT-tmppvr66.md)) show avoidance outlasting a corrected or low threat
 belief, which fits the claim's "the regime can outlast a corrected
 belief" without testing why. Neither reading is evidence for or against
 the claim; no relation written. No status changes.
