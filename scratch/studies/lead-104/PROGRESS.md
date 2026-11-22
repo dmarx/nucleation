@@ -40,7 +40,14 @@ training input g=0).
 - Step 3: wrote restriction_trap.py (model + 4 results) + pytest (8 pass).
   All numbers reproduce. README added.
 
-## Next
+- Step 6: FILED. CASE-tmprcg71 (executed-study), CLAIM-tmpn5wpc (finding,
+  demonstrated), notes on CLAIM-721/605 and LEAD-104, changelog fragment.
+  Pre-commit checks pass (frontmatter/title/H1). No held statuses changed.
 
-- File: CASE (executed-study), CLAIM (finding, Proposed), dated notes on
-  CLAIM-721/605 and LEAD-104, changelog fragment.
+## Done -- all steps complete; ready to report.
+
+## Owner's calls (left unmade)
+
+- Adopt CASE-tmprcg71 and CLAIM-tmpn5wpc (both Proposed).
+- Whether the demonstration moves CLAIM-721's warrant to demonstrated.
+- LEAD-104 status/stage (left Open/idea).
