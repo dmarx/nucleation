@@ -1,0 +1,88 @@
+---
+status: Proposed
+title: 'Freeman and Pfenning''s refinement types, by analogy, show that adding a descriptor is refining a type its entry already inhabits, and that descriptors cannot conflict because the entry inhabits their intersection'
+version: 1
+form: analogy
+grounds:
+- THEORY-tmp1mruk
+rests_on:
+- CLAIM-783
+concludes:
+- CLAIM-tmpnookt
+uses:
+- TERM-134
+- TERM-tmp7s2aa
+tags:
+- logic
+- design-rationale
+date: '2026-11-22'
+line:
+- formal-apparatus
+- record-as-apparatus
+summary: >-
+  The route by which the reading of Freeman and Pfenning (THEORY-tmp1mruk) bears
+  on CLAIM-tmpnookt's correspondence of a descriptor with a refinement the
+  entry provably inhabits. It holds for refinement and for intersection,
+  narrowed in three ways: the refinements are a finite lattice declared in
+  advance, not arbitrary predicates; a refinement is of a type, not of one
+  term; and nothing is carried with the term, so "provably" means only that
+  a derivation exists. The wording is the assistant's (Claude, in this
+  session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: THEORY-tmp1mruk CLAIM-tmpnookt CLAIM-783 TERM-134 TERM-tmp7s2aa — Proposed; the reading, the claims and the terms this argument joins -->
+
+# ARG-tmptph3p: Freeman and Pfenning's refinement types, by analogy, show that adding a descriptor is refining a type its entry already inhabits, and that descriptors cannot conflict because the entry inhabits their intersection
+
+## The inference
+
+Source domain, THEORY-tmp1mruk: a refinement is a subtype of an ML type,
+"subtypes which one can think of as subsets" (p. 1), given only to
+programs already well-typed in ML. An annotation (e : D′) is accepted when
+the inferred D satisfies D ≤ D′ (p. 8). "An expression has type σ ∧ τ if it
+has both type σ and type τ" (p. 3), and ?e ∧ std is ?e (p. 5), while ?e
+and stdpos meet only at ⊥.
+
+Target, CLAIM-tmpnookt with CLAIM-783 and TERM-134: an entry's
+specification is a set of tests; a descriptor is a test the entry passes
+when it is added; descriptors never conflict because the entry passes
+them all (CLAIM-783, part 6), the entry being their witness
+(TERM-tmp7s2aa).
+
+Mapping: ML type to the coarse specification; term's value to the entry's
+version; accepted annotation to descriptor; ∧ to the intersection of
+admissible sets; ⊥ to the empty set an imposition can produce.
+
+## Critical questions
+
+- **Are the two alike in the respects the conclusion needs?** In two, yes.
+  A refinement admits only values of the type it refines, as a descriptor
+  only narrows a specification the entry meets; and RESTRICT accepts an
+  annotation only when the term already passes it and changes nothing, as
+  adding a descriptor moves nothing. A term with σ and τ has σ ∧ τ and, if
+  it evaluates, its value inhabits it: the witness argument of CLAIM-783.
+- **Are there differences that defeat it?** Three that narrow it. The
+  refinements are a finite lattice the programmer declares, closed under
+  ∧ and ∨, and some subsets cannot be declared (p. 2); the record's
+  descriptors are any predicates, so the form {x : A | φ(x)} the claim
+  writes is predicate subtyping, of which this paper is a decidable
+  special case, not the paper's own. A refinement is a type, declared
+  apart from any one term; a descriptor is written from one entry, and the
+  analogue is only the refinements between a term's principal refinement
+  and its ML type. And the system stores no evidence: that a term has a
+  refinement is a derivation found and not kept, so the claim's
+  "provably inhabits" is met only in the sense that a derivation exists,
+  not in the proof-relevant sense the claim's thesis needs. One more, for
+  the witness: a term that does not terminate can have ⊥, so the witness
+  is the value, not the term. The record's entries are versions, values
+  already, so this costs the record nothing.
+- **Is there a counter-analogy?** The paper treats ⊥ as an ordinary
+  refinement, the start of the fixpoint for recursive functions, not as a
+  conflict; an empty intersection is not reported. That does not tell
+  against the claim, which locates conflict in impositions, but the
+  paper offers no counterpart to the objection the record files.
+
+## Verdict
+
+Holds for the refinement and the intersection, narrowed as above; it does
+not support the claim's proof-relevant reading, which this paper does not
+touch. Proposed, as the inference is the assistant's.
