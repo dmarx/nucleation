@@ -278,9 +278,11 @@ def run(name, frac, wd, seed, lr=1e-2, max_steps=15000, every=50, kevery=250,
 
 
 # Training arms (fit set) and the held-out intervention arms.
-FIT = [(f, 1.0, s) for f in (0.4, 0.5, 0.6) for s in (0, 1, 2)]
+FIT = ([(f, 1.0, s) for f in (0.4, 0.5, 0.6) for s in (0, 1, 2)]
+       + [(f, 1.0, s) for f in (0.5, 0.6) for s in (3, 4, 5)])     # added 13:15
 HELDOUT = ([(f, 0.5, s) for f in (0.5, 0.6) for s in (0, 1)]
-           + [(0.5, 2.0, s) for s in (0, 1)])
+           + [(0.5, 2.0, s) for s in (0, 1)]
+           + [(f, 0.5, s) for f in (0.5, 0.6) for s in (2, 3)])    # added 13:15
 
 
 def arm_name(f, wd, s):

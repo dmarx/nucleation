@@ -98,7 +98,12 @@ def main(t_e):
     for path in sorted(glob.glob(os.path.join(STUDY, "results", "*.jsonl.gz"))):
         meta, rows, done = load(path)
         if done is None or done["t_gen"] is None:
-            arms.append({"name": meta["name"], "complete": done is not None, "t_gen": None})
+            a = {"name": meta["name"], "frac": meta["frac"], "wd": meta["wd"],
+                 "seed": meta["seed"], "complete": done is not None, "t_gen": None,
+                 "censored_at": done["last_step"] if done else None}
+            if done is not None:
+                a["features"] = features(rows, t_e)
+            arms.append(a)
             continue
         t_mem = first(rows, "train_acc", 0.99)
         f = features(rows, t_e)
@@ -129,6 +134,16 @@ def main(t_e):
                      "slope": float(coef[1]),
                      "spearman_all": spearman(x_all, np.r_[y_fit, y_ho])}
     real = [k for k in scores if "null" not in k]
+    # Censored arms (no generalization within the step cap): does each
+    # forecast, fitted on the fit arms, put them beyond the slowest observed?
+    cens = [a for a in arms if a["t_gen"] is None and "features" in a]
+    ymax = max(np.r_[y_fit, y_ho])
+    for k in scores:
+        x_fit = np.array([a["features"][k] for a in fit])
+        if cens:
+            pc, _ = fit_predict(x_fit, y_fit, np.array([a["features"][k] for a in cens]))
+            scores[k]["censored_beyond_slowest"] = int(np.sum(pc > ymax))
+            scores[k]["n_censored"] = len(cens)
 
     def null_summary(prefix):
         v = [scores[k]["heldout_rmse"] for k in scores if k.startswith(prefix)]
@@ -141,6 +156,8 @@ def main(t_e):
         "constant_heldout_rmse": const,
         "scores": {k: scores[k] for k in real},
         "null_C1": null_summary("C1null"), "null_C2": null_summary("C2null"),
+        "null_C2_censored_beyond_slowest": [scores[k].get("censored_beyond_slowest") for k in scores if k.startswith("C2null")],
+        "null_C1_censored_beyond_slowest": [scores[k].get("censored_beyond_slowest") for k in scores if k.startswith("C1null")],
         "rank_C2_among_nulls": int(sum(scores[k]["heldout_rmse"] < scores["C2"]["heldout_rmse"]
                                        for k in scores if k.startswith("C2null"))),
         "rank_C1sel_among_nulls": int(sum(scores[k]["heldout_rmse"] < scores["C1sel"]["heldout_rmse"]
@@ -157,7 +174,9 @@ def main(t_e):
     print("constant heldout rmse", const)
     for k in sorted(real, key=lambda k: scores[k]["heldout_rmse"]):
         s = scores[k]
-        print("%-15s heldout %.3f  loo %.3f  rho %.2f" % (k, s["heldout_rmse"], s["fit_loo_rmse"], s["spearman_all"]))
+        print("%-15s heldout %.3f  loo %.3f  rho %.2f  censored>slowest %s/%s" % (
+            k, s["heldout_rmse"], s["fit_loo_rmse"], s["spearman_all"],
+            s.get("censored_beyond_slowest"), s.get("n_censored")))
     print("null C1", out["null_C1"], "C1sel beaten by", out["rank_C1sel_among_nulls"])
     print("null C2", out["null_C2"], "C2 beaten by", out["rank_C2_among_nulls"])
     for a in ok:
