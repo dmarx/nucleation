@@ -6,10 +6,22 @@
 
 ## Done
 
+- Codebook and sampling rule committed before coding (codebook.md; one gloss corrected before coding).
+- Internal arm sampled from Dan Luu's list, seed 119 (sample_log.jsonl): 30 included; exclusions logged (web.archive.org unreachable, one 403, short pages, four failing rule 2 or 3).
+- Independent arm: the 10 most recent CSB completed investigations with final reports.
+- All 40 coded into coded.jsonl; results.md by summarize.py (tests pass).
+
+## Results
+
+Internal H>=3 2/30 (7%), A>=3 4/30 (13%); independent H>=3 7/10, A>=3 9/10. The rule fixed in advance reads "prediction holds in the pilot". Confounds: domain (software outages against fatal chemical accidents), one coder, keyword-located reading.
+
 ## Next
 
-- Codebook and sampling rule, committed before any coding.
-- Corpus listing; sample; code.
-- Filing.
+- File the CASE (executed-study), a CLAIM (pilot finding), dated notes on CLAIM-750, CASE-293, QUESTION-476, CLAIM-751, CLAIM-719 and LEAD-119, changelog fragment.
 
 ## Choices
+
+- Independent arm is CSB only (plain listing, one report format); NTSB left to the full study.
+- Internal postmortems coded from keyword-located passages, CSB from the summary sections: a time choice, stated in the CASE.
+- A = 3 re-prioritisation rule sharpened after P10 (README).
+- Commissioning body's authority not coded separately beyond the author's role, where seen.
