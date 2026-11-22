@@ -409,7 +409,7 @@ stronger clause to [CLAIM-510](CLAIM-510.md). [LEAD-164](../leads.d/LEAD-164.md)
 satellite links by signal exchange, checked against a second, independent
 satellite technique and an optical-fibre comparison of the same clocks
 (Riedel et al., [THEORY-tmp5gcq1](../theory.d/THEORY-tmp5gcq1.md)). The constructed sensor network of
-[CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) (pull request #740, not yet on staging) is the same check
+[CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) (pull request [#740](https://github.com/dmarx/nucleation/issues/740), not yet on staging) is the same check
 in the adaptation row: revision answerable to beacons it cannot rewrite or
 refuse. Whether either meets the condition depends on which reading of it
 the owner takes; [CLAIM-510](CLAIM-510.md)'s note of this date files three. It bears on

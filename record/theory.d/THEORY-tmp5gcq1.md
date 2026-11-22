@@ -32,7 +32,7 @@ summary: >-
   with comparisons over optical fibre, one run simultaneously (pp. 12–13).
   The authors treat the two satellite techniques as "completely
   independent" and the comparison as a way to find systematic effects in
-  either. For the record it is independent evidence for CLAIM-510, that a
+  either. For the record it is independent evidence for [CLAIM-510](../claims.d/CLAIM-510.md), that a
   measured correspondence can be checked against evidence the measurement
   did not produce.
 ---

@@ -24,8 +24,8 @@ summary: >-
   that link did not produce, a second satellite technique the authors call
   "completely independent" and, for LNE-SYRTE and PTB, an optical-fibre
   comparison of the same clocks, one run simultaneously. They agree within
-  the combined uncertainties. The reading is THEORY-tmp5gcq1 and the case
-  CASE-tmp17zl1.
+  the combined uncertainties. The reading is [THEORY-tmp5gcq1](../theory.d/THEORY-tmp5gcq1.md) and the case
+  [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp5gcq1 CASE-tmp17zl1 — new; this reading's account and the case taken from it -->
 <!-- inactive-ok-file: CLAIM-510 — Proposed; the claim this reading bears on -->
@@ -95,10 +95,10 @@ produce. The reading is [THEORY-tmp5gcq1](../theory.d/THEORY-tmp5gcq1.md); the c
   correspondence between remote local standards (their frequency
   difference) by signal exchange, and the estimate is checked against a
   fibre comparison and a second satellite technique, neither of which
-  took part in producing it. That is CLAIM-510's own example, clock offsets
+  took part in producing it. That is [CLAIM-510](../claims.d/CLAIM-510.md)'s own example, clock offsets
   by signal exchange checked against a reference that took no part,
   nearly exactly; the reference is a separate channel to the same remote
-  clock, not a co-located clock. See CLAIM-510's note of this date.
+  clock, not a co-located clock. See [CLAIM-510](../claims.d/CLAIM-510.md)'s note of this date.
 - **[CLAIM-143](../claims.d/CLAIM-143.md)**, an instance. Its proviso asks for correspondences
   "independently validated"; here validation is by an independent channel,
   and it is how a disagreement (the NPL offset) was assigned to a clock

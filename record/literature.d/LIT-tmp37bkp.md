@@ -43,7 +43,7 @@ summary: >-
   comparisons, one of them run simultaneously. The authors call the two
   satellite techniques "completely independent". For the record, the
   first held case of a measured correspondence checked against evidence
-  the measurement did not produce (CASE-tmp17zl1, for CLAIM-510).
+  the measurement did not produce ([CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md), for [CLAIM-510](../claims.d/CLAIM-510.md)).
 ---
 <!-- inactive-ok-file: NOTE-tmp2d035 THEORY-tmp5gcq1 CASE-tmp17zl1 — new; this work's reading and the case taken from it -->
 <!-- inactive-ok-file: CLAIM-510 — Proposed; the claim the case bears on -->

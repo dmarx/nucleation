@@ -86,7 +86,7 @@ call, and so is any change of status. No status changes here.
 
 **The candidates.**
 
-- [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) ([LEAD-177](../leads.d/LEAD-177.md), [CLAIM-tmpvqmwc](CLAIM-tmpvqmwc.md); on pull request #740, not
+- [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) ([LEAD-177](../leads.d/LEAD-177.md), [CLAIM-tmpvqmwc](CLAIM-tmpvqmwc.md); on pull request [#740](https://github.com/dmarx/nucleation/issues/740), not
   yet on staging). A simulated sensor network estimates its sensors' maps
   and revises them. Revised against beacons the world places, through a
   channel the revision can neither rewrite nor refuse, its error on the
@@ -115,18 +115,18 @@ call, and so is any change of status. No status changes here.
 
 **Reading A: evidence whose production and scoring do not pass through
 the estimate, as [CLAIM-342](CLAIM-342.md) states it; a construction suffices, since the
-claim says "can".** The condition looks met by CASE-tmp33vf4, once #740
+claim says "can".** The condition looks met by CASE-tmp33vf4, once [#740](https://github.com/dmarx/nucleation/issues/740)
 merges. Its beacons come from the world through a protected channel, and
 the network's estimate is scored against true positions no arm sees.
 Against it: the beacons feed the revision rather than being held out, so
 the check proper is the simulator's ground truth, which no real apparatus
-has; and the independence is stipulated by construction. CASE-tmp69rk8
+has; and the independence is stipulated by construction. [CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md)
 meets it in part, as above.
 
 **Reading B: a measurement practice in which the independence of the
 checking evidence is the practitioners' and not a modeller's
 stipulation.** No held case met it before this lead; the simulations do
-not. CASE-tmp17zl1 does, the condition looks met by it, and it is the
+not. [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md) does, the condition looks met by it, and it is the
 nearer fit to the claim's own example. Against it: the agreement is
 judged within uncertainty budgets the reading did not check, only one
 clock pair has a fibre check, and the case is Proposed with its reading
@@ -134,7 +134,7 @@ Skimmed.
 
 **Reading C: the checking evidence presupposes no correspondence at
 all.** No candidate meets it. The beacons' own channel map is trusted in
-CASE-tmp33vf4, and in CASE-tmp17zl1 each channel has calibrated delays,
+CASE-tmp33vf4, and in [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md) each channel has calibrated delays,
 and all three share the clocks and one geodetic redshift correction. This
 reading asks more than the claim's defeater does: the defeater is met by a
 check that "presupposes the correspondence it checks", and none of these
@@ -143,7 +143,7 @@ claim's thesis is in doubt for every case, and the regress (every check
 rests on another trusted correspondence) would be an argument towards the
 defeater, not a missing case.
 
-**The assistant's lean**: reading B, met by CASE-tmp17zl1, with
+**The assistant's lean**: reading B, met by [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md), with
 CASE-tmp33vf4 as the construction that shows what the independence
 consists in (a channel the estimate can neither rewrite nor refuse). On
 that lean the condition the 2026-10-30 note set, "One such case would

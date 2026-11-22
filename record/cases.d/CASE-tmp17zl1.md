@@ -30,7 +30,7 @@ summary: >-
   LNE-SYRTE and PTB both agree with an optical-fibre comparison of the
   same clocks, one run at the same time. A measured correspondence between
   remote local standards is checked against evidence that the measurement
-  producing it did not produce: CLAIM-510's own clock example, in practice.
+  producing it did not produce: [CLAIM-510](../claims.d/CLAIM-510.md)'s own clock example, in practice.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
