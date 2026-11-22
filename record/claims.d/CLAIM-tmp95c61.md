@@ -38,19 +38,19 @@ bears_on:
 - CLAIM-340
 - CLAIM-339
 summary: >-
-  LEAD-020's run, CASE-tmp943kt. A loop built to lock in without anchors,
+  [LEAD-020](../leads.d/LEAD-020.md)'s run, [CASE-tmp943kt](../cases.d/CASE-tmp943kt.md). A loop built to lock in without anchors,
   with nothing it does able to change the world or its inputs, follows
-  every switch when given QUESTION-121's five candidates. No single
+  every switch when given [QUESTION-121](../questions.d/QUESTION-121.md)'s five candidates. No single
   removal makes it lock in. In the minimal loops, removing commitment
   before evidence, processing signals or exogenous capture makes the loop
   lock in. Removing the senses, the body or testimony leaves it blind,
   except where capture goes with it. The anchors share one trait: each
   scores or weights the loop by something its own authority does not set.
   The evidence channels arrive unselected but are attended through that
-  authority. This is CLAIM-342's thesis, now with action held fixed. In
-  this model the anchors need no action, which counts against CLAIM-339's
+  authority. This is [CLAIM-342](CLAIM-342.md)'s thesis, now with action held fixed. In
+  this model the anchors need no action, which counts against [CLAIM-339](CLAIM-339.md)'s
   anchor-by-action only so far as a mind has them. Two readings of what it
-  does for QUESTION-121 are left to the owner. The wording is the
+  does for [QUESTION-121](../questions.d/QUESTION-121.md) are left to the owner. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp943kt — new; the study this claim grounds on, filed in the same contribution -->
@@ -60,10 +60,10 @@ summary: >-
 
 ## The claim
 
-CASE-tmp943kt builds CASE-099's loop inside one mind. Authority
+[CASE-tmp943kt](../cases.d/CASE-tmp943kt.md) builds [CASE-099](../cases.d/CASE-099.md)'s loop inside one mind. Authority
 attenuates readings against it and is scored against the dominant
 interpretation, and the world is out of the loop's reach. With the senses
-alone it locks in on every seed. The case gives QUESTION-121's candidates
+alone it locks in on every seed. The case gives [QUESTION-121](../questions.d/QUESTION-121.md)'s candidates
 one switch each, with each one's stated objection built in.
 
 - **Anchors.** Commitment before evidence (candidate 3), processing
@@ -85,11 +85,11 @@ by something the loop's authority does not set. The committed prediction
 is fixed before the evidence. Disfluency registers error, not content.
 Capture is triggered by raw surprise. The channels' arrival is unselected,
 but how far each counts is decided by the authority under test. So, of
-CLAIM-342's two routes, "arrival or scoring", in this model only the
+[CLAIM-342](CLAIM-342.md)'s two routes, "arrival or scoring", in this model only the
 second anchors once authority sets attention. Unselected arrival anchors
 only when it carries its own weight past attention, as capture does.
 
-## Two readings for QUESTION-121
+## Two readings for [QUESTION-121](../questions.d/QUESTION-121.md)
 
 The question asks for "a loop that does not lock in, with action held
 fixed, and a demonstration that removing a given candidate makes it lock
@@ -113,14 +113,14 @@ in." Which candidate that names is the owner's call.
   candidate is built to the question's description. The difference that
   decides, whether authority sets the weight, is built in.
 - That action is irrelevant. With action held fixed, contingency between
-  intention and outcome is absent by construction. CLAIM-339's
+  intention and outcome is absent by construction. [CLAIM-339](CLAIM-339.md)'s
   empirical form, the extinction hypothesis, concerns that contingency,
   and the model is silent on it.
-- That the anchors are independent scoring in either sense TERM-tmp4iqiv
+- That the anchors are independent scoring in either sense [TERM-tmp4iqiv](../terms.d/TERM-tmp4iqiv.md)
   separates. The committed score reads the evidence as attended, and
   capture compares the input with the interpretation. What they share is
   only that the loop's authority does not set their weight.
 - That commitment works whatever κ′ − κ̄. Here it did across κ̄ from 0 to
-  0.8, where CLAIM-340's linearization would predict a positive
+  0.8, where [CLAIM-340](CLAIM-340.md)'s linearization would predict a positive
   coupling. The evidence gain outweighed it. Why was not diagnosed, and
-  CLAIM-340 is a statement about symmetry, which this does not test.
+  [CLAIM-340](CLAIM-340.md) is a statement about symmetry, which this does not test.

@@ -27,9 +27,9 @@ bears_on:
 - CLAIM-340
 - CLAIM-339
 summary: >-
-  The run LEAD-020 asks for, from QUESTION-121: "A loop that does not lock in,
+  The run [LEAD-020](../leads.d/LEAD-020.md) asks for, from [QUESTION-121](../questions.d/QUESTION-121.md): "A loop that does not lock in,
   with action held fixed, and a demonstration that removing a given
-  candidate makes it lock in." CASE-099's meaning–authority loop is built
+  candidate makes it lock in." [CASE-099](CASE-099.md)'s meaning–authority loop is built
   as a bounded simulation inside one mind. Authority sets attention and so
   attenuates readings against it, and it is scored against the dominant
   interpretation. The world switches every 300 steps, and nothing the loop
@@ -57,16 +57,16 @@ summary: >-
 The code is in scratch/studies/lead-020/ (`loop.py`; tests in
 `test_loop.py`, eleven, passing; README says how to rerun).
 
-- **The loop.** As in CASE-099, with m = tanh(u) the interpretation's
+- **The loop.** As in [CASE-099](CASE-099.md), with m = tanh(u) the interpretation's
   lean toward hypothesis A and a = tanh(v) the authority of the A-favouring
   sub-process over the B-favouring one, both bounded.
   - Authority shapes interpretation (β) in two ways: by a small direct
     push, and through attention. A reading r that favours the side with
     authority gets weight 1 + ζ|a|, and one against it 1 − ζ|a|, clipped
     to [0, 2]. This is the loop selecting its own evidence with no action,
-    the attenuation of THEORY-285.
+    the attenuation of [THEORY-285](../theory.d/THEORY-285.md).
   - Interpretation shapes conferral (γ). Without commitment, authority is
-    scored against the dominant interpretation, as in CASE-092's Regime A.
+    scored against the dominant interpretation, as in [CASE-092](CASE-092.md)'s Regime A.
   - Then u ← 0.9u + 0.05a + 0.15 Σ wᵢrᵢ and v ← 0.9v + η·score.
 - **Action held fixed.** The hidden state h = ±1 switches every 300 steps.
   Nothing the loop does changes h, or when or whether an input arrives. A
@@ -79,7 +79,7 @@ The code is in scratch/studies/lead-020/ (`loop.py`; tests in
   - The default η = 0.5 was chosen so that the bare loop, sensory input
     alone, locks in on every seed. It is a loop that would lock in without
     anchors.
-- **The candidates** of QUESTION-121, each with the objection the question
+- **The candidates** of [QUESTION-121](../questions.d/QUESTION-121.md), each with the objection the question
   gives it:
   1. *Unselected input*, split into two switches.
      - The channel: an input every step, x = h + noise, read as
@@ -94,13 +94,13 @@ The code is in scratch/studies/lead-020/ (`loop.py`; tests in
   3. *Commitment before evidence.* The sub-processes commit predictions
      p_A = s + κ̄m and p_B = −s + κ̄m before the evidence arrives, and are
      scored by squared error against the evidence as attended and read,
-     as in CASE-106. This replaces Regime A's score.
+     as in [CASE-106](CASE-106.md). This replaces Regime A's score.
      - "Without commitment" has two readings. The default is Regime A.
        The other has predictions revised after the evidence, which gives
-       no score at all (CLAIM-340). Both were run.
+       no score at all ([CLAIM-340](../claims.d/CLAIM-340.md)). Both were run.
   4. *Processing signals.* A content-free disfluency: the running mean of
      unsigned prediction error, averaged with attention weights, so that
-     attenuation hides it. This is the objection from THEORY-662.
+     attenuation hides it. This is the objection from [THEORY-662](../theory.d/THEORY-662.md).
      Disfluency above its expected level shrinks u and v together.
   5. *Other people.* Testimony about h, arriving unasked on 5% of steps,
      read through the interpretation (κ₅). It is weighted by a trust
@@ -147,7 +147,7 @@ The code is in scratch/studies/lead-020/ (`loop.py`; tests in
    - *Capture with the body present locks in*: 0.77 at the default, 0.51
      to 0.99 across variants. Capture frees only the sensory reading. The
      body's reading, attended and bent toward the interpretation,
-     outweighs it. This is CLAIM-342's caveat, that an independent
+     outweighs it. This is [CLAIM-342](../claims.d/CLAIM-342.md)'s caveat, that an independent
      channel anchors only as far as it outweighs the selected one, inside
      one mind. A lower threshold θ = 2 or noisier senses reduce it to
      0.12 to 0.17.
@@ -160,8 +160,8 @@ The code is in scratch/studies/lead-020/ (`loop.py`; tests in
 5. **With revision after the evidence, nothing locks in.** Under the
    post-hoc reading of "without commitment", every non-blind configuration
    is free in every variant. Authority is never scored, so it never moves:
-   no capture, and no learning of who predicts well (CLAIM-340).
-6. **κ̄ did not bind here.** CLAIM-340 says that, near symmetry,
+   no capture, and no learning of who predicts well ([CLAIM-340](../claims.d/CLAIM-340.md)).
+6. **κ̄ did not bind here.** [CLAIM-340](../claims.d/CLAIM-340.md) says that, near symmetry,
    commitment couples interpretation to conferral with the sign of
    κ′ − κ̄. The variants κ̄ = 0, 0.2 and 0.8 gave the same outcomes. That
    includes body + commitment, where the body's κ₂ = 0.8 exceeds κ̄ = 0.
@@ -178,10 +178,10 @@ The code is in scratch/studies/lead-020/ (`loop.py`; tests in
   construction, since each is attenuable by authority or (for testimony)
   weighted by trust learned from agreement. The result shows that this
   difference is what decides here, not that minds are built so.
-- That candidate 3 is equivalent to Regime B. That is CLAIM-340's
+- That candidate 3 is equivalent to Regime B. That is [CLAIM-340](../claims.d/CLAIM-340.md)'s
   question, and this model does not linearize.
 - Anything about contingency between intention and outcome, the other
-  half of what QUESTION-121 separates in the locked-in case. Action is
+  half of what [QUESTION-121](../questions.d/QUESTION-121.md) separates in the locked-in case. Action is
   absent throughout. The model has no intentions whose outcomes could be
   contingent.
 - Robustness beyond one-at-a-time changes of 18 parameters, 20 seeds,
