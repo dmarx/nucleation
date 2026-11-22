@@ -327,9 +327,12 @@ def underdetermined_family(rng, phis):
     return info[("B", "A")]["determined"], rows
 
 
-def noisy_null(d: int, k: int, sigma: float, rng):
+def noisy_null(d: int, k: int, sigma: float, rng, return_det: bool = False):
     """The null with each context's representations perturbed by N(0, sigma^2)."""
     ctx, g, W = null_construction(d, k, rng)
     noisy = {c: {n: v + sigma * rng.standard_normal(d) for n, v in ctx[c].items()} for c in ctx}
     T, info = derive_transports(noisy)
-    return deviation(holonomy(T))
+    H = holonomy(T)
+    if return_det:
+        return deviation(H), float(np.linalg.det(H))
+    return deviation(H)

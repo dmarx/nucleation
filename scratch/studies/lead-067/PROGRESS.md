@@ -13,10 +13,24 @@
 
 ## Done
 
+- Read LEAD-067, QUESTION-130, CLAIM-148, CLAIM-495, record.md fields.
+- transport.py, test_transport.py (18 pass), run_study.py, results.json, README.md.
+
 ## Next
 
-- Read cited entries (CLAIM-148, CLAIM-495, NOTE-050, THEORY-1140), docs/record.md
-- Design the construction; write study code and tests
-- File CLAIM, CASE, notes, changelog
+- File CLAIM (null + gluing criterion + underdetermination; demonstrated, thesis)
+- File CASE (executed-study, documented) for the study
+- Dated notes on QUESTION-130 and LEAD-067; changelog fragment record/changelog.d/lead-067.md
 
 ## Choices
+
+- Gauge group O(d): a change of local coordinates preserves the context's
+  comparisons (inner products). Transport derived by orthogonal Procrustes
+  on the shared commitments; anything else would be chosen.
+- Transport counts as derived only when the fit is unique (overlap anchors
+  give a nonsingular cross-covariance). Underdetermined overlaps are shown
+  to leave the holonomy free (LIT-038's arbitrariness).
+- Nontrivial case: planar construction, holonomy = sum of each context's own
+  internal comparison angle; plus curved charts (sphere of normalized
+  profiles), holonomy -> spherical excess. The second's curvature belongs to
+  the representation format, said so in the entries.
