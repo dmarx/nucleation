@@ -104,3 +104,8 @@ corrective capacity differ only in whether their decisions use that
 capacity up. It varies endogenous foreclosure at a fixed speed; this
 proposed study varies speed at fixed authority and then adds precommitted
 limits, suspension and pauses. Both bear on [QUESTION-278](../questions.d/QUESTION-278.md).
+
+## Note of 2026-11-22: carried out by simulation
+<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+
+This design was carried out as a queueing model at [LEAD-068](../leads.d/LEAD-068.md)'s request: [CASE-tmp8riid](CASE-tmp8riid.md), with [CLAIM-tmpsaql8](../claims.d/CLAIM-tmpsaql8.md) stating its result. Arms, variants and measures follow this case's text. Two choices it left open were made and stated: "speed" read both as a shorter time to irreversibility alone and as that with proportionally more actions, each reported; and escalations and suspensions share the overseer's reviewers without priority. In the model the fast arm lost intervention capacity with authority unchanged (0.994 to 0.396 at ten times the speed). This case's test of [CLAIM-730](../claims.d/CLAIM-730.md) ("If precommitted limits restore it without pauses") was met, in proportion to what the limits cover. The historical arm is not attempted. No status changes.

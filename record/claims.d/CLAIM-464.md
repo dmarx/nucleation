@@ -331,3 +331,8 @@ study that varies only an acting institution's speed is proposed as
 [CASE-285](../cases.d/CASE-285.md); the slow-rule counterpart is [CLAIM-730](CLAIM-730.md).
 
 No status changes.
+
+## Note of 2026-11-22: speed alone, in [CASE-285](../cases.d/CASE-285.md)'s model
+<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+
+[LEAD-068](../leads.d/LEAD-068.md) named this claim as one that oversight losing effect with speed, authority and resources fixed, would support. [CASE-tmp8riid](../cases.d/CASE-tmp8riid.md)'s model shows it in stipulated form: with the overseer unchanged, the share of objectionable actions stopped before they became irreversible fell from 0.994 to 0.396 at ten times the speed, and objectionable actions open only to correction after the fact rose from 0.6 to 61 per thousand. The model is the timing route this claim's body takes from A9 (t_action < t_loss < t_effective remedy), made stochastic; it adds that the loss is graded and begins before the condition fails at the means. It is about the effect, as the claim is, and says nothing of intent. [CLAIM-tmpsaql8](CLAIM-tmpsaql8.md) states the result. No status changes.

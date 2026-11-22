@@ -45,3 +45,8 @@ Where the record names it:
 ## What would count
 
 A filed clause or question lets the waiting integration be tested.
+
+## Note of 2026-11-22: argued, two readings filed
+
+<!-- inactive-ok-block: CLAIM-tmp7mors CLAIM-tmp8qqi4 — new; filed for this lead -->
+Done as far as the record can go without the owner. Senses 2 and 4 of [TERM-074](../terms.d/TERM-074.md) are set aside on [CLAIM-624](../claims.d/CLAIM-624.md)'s own text. Two readings are filed as alternatives: [CLAIM-tmp7mors](../claims.d/CLAIM-tmp7mors.md) (sense 1; the organization is the ground and object of the verdict, and the duty falls on the agents or roles controlling the reproduction, inside or outside the arrangement, as far as their control reaches; the assistant's lean), and [CLAIM-tmp8qqi4](../claims.d/CLAIM-tmp8qqi4.md) (sense 3; the duty is an agent-institution's own, controllers bear it derivatively, and arrangements no such institution governs fall outside). The lead's "what would count" is met: with a bearer named, the integration of [CLAIM-673](../claims.d/CLAIM-673.md) with [CLAIM-624](../claims.d/CLAIM-624.md) was tested in [CLAIM-tmp7mors](../claims.d/CLAIM-tmp7mors.md)'s body and passes, narrowed to the capacities the standard's violations need; it is not filed. Dated notes on [CLAIM-624](../claims.d/CLAIM-624.md), [CLAIM-673](../claims.d/CLAIM-673.md) and [CLAIM-687](../claims.d/CLAIM-687.md). What remains is the owner's: choosing the reading, and declaring the sense in [CLAIM-624](../claims.d/CLAIM-624.md) or revising its wording to name the bearer; filing the narrowed integration is for the synthesis review or the owner. The lead stays Open.

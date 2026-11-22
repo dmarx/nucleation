@@ -16,7 +16,14 @@ promote_when: >-
   finest partition always minimises that, and neither can more toy
   arithmetic of operation counts.
 title: "The individuals that appear in an evolutionary transition in individuality are a summary description of lower-level processes, not a new level of fact: a partition of particles defines collectives when predicting at the coarse grain matches predicting at the fine grain across many traits, and collectives become indispensable, and so quasi-ontological, only because finite measurement and computation make the fine-grained prediction unaffordable"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: what the computed accuracy-plus-cost
+    objective does on a minimal scaffolding model (CASE-tmpgfgy2). Status
+    unchanged.
 tags:
 - complex-systems
 - individuation
@@ -37,6 +44,7 @@ summary: >-
   the body, which says one "pretend[s] as if" the level of selection
   changed.
 ---
+<!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq — new, filed 2026-11-22 from LEAD-167's computation -->
 <!-- inactive-ok-file: LIT-049 LIT-005 — Proposed; LIT-049 is the source this account was read from, and its NOTE places it; LIT-005 is named as its successor -->
 <!-- inactive-ok-file: THEORY-141 THEORY-257 THEORY-418 THEORY-465 — Proposed; a rival and neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
@@ -128,3 +136,24 @@ and the operation count. The account is argued, not tested.
   no `rivals` edge is declared.
 - **Reproducers ([THEORY-465](THEORY-465.md))**, Bourrat's 2025 framework, inherits the
   no-worked-example habit both papers show.
+
+## Note of 2026-11-22: the objective computed on a scaffolding model
+
+The promote_when asks for one objective, prediction error plus cost,
+computed over candidate partitions, picking out the collectives "with the
+selected grain shifting as the transition proceeds". [CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md) computes such an
+objective on a minimal ecological-scaffolding model, and [CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md) states the
+result. The cost is δC + κ·k, with [LIT-049](../literature.d/LIT-049.md)'s one operation per entity per
+step.
+
+- **Bourrat's δC|E with the cost** picks the two patches for small κ at every
+  stage, from scaffold-only cohesion onward. At full endogenisation it picks
+  the whole population. It picks the collectives, but its grain does not
+  shift toward them.
+- **An unconditional, distributional δC with the cost** does shift. It picks
+  the whole population early, and in both common-input controls, and the
+  patches late in the path, in a narrow window of κ. That form is the
+  assistant's, not the paper's.
+
+Whether either meets the promote_when is the owner's call. The status is
+unchanged.

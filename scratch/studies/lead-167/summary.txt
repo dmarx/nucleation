@@ -1,0 +1,302 @@
+Bourrat 2024 (LIT-005): Ahat, uniform input; C1 reference = cell at lam=0, normalised Ahat 0.1445
+
+== scaffold lam=0.0
+candidate             A*       A      nC    Ahat    Ah/H   AhPop  C1  C2mean    C2var  I(E;S^)
+cell              0.4892  0.0959  0.1298  0.1445  0.1445  0.1445 yes  0.1688  0.00295   0.0474
+pair-in-patch     0.7665  0.2546  0.1187  0.3043  0.1522  0.3793 yes  0.3589  0.01179   0.0504
+patch             0.9722  0.5334  0.0902  0.4971  0.1657  0.6896 yes  0.5563  0.02818   0.0188
+patch+scaffold    1.2602  0.8300  0.0782  0.8137  0.2034  1.0546 yes  0.8503  0.00069   0.0188
+cross-pair        0.8112  0.2038  0.1676  0.2904  0.1452  0.2986 yes  0.3448  0.00545   0.0742
+cross-triple      1.0298  0.3796  0.1540  0.4542  0.1514  0.5554 yes  0.5397  0.01292   0.0766
+all-cells         1.5620  1.6084  0.0808  1.0465  0.1744  1.5365 yes  1.1427  0.04547   0.0000
+
+== scaffold lam=0.25
+candidate             A*       A      nC    Ahat    Ah/H   AhPop  C1  C2mean    C2var  I(E;S^)
+cell              0.4919  0.1019  0.1238  0.1539  0.1539  0.1539 yes  0.1775  0.00221   0.0500
+pair-in-patch     0.7743  0.2770  0.1064  0.3286  0.1643  0.4155 yes  0.3786  0.00791   0.0537
+patch             0.9876  0.5996  0.0697  0.5455  0.1818  0.7678 yes  0.5880  0.01842   0.0116
+patch+scaffold    1.2733  0.8920  0.0601  0.8495  0.2124  1.1080 yes  0.8754  0.00032   0.0116
+cross-pair        0.8306  0.2122  0.1693  0.3096  0.1548  0.3092 yes  0.3592  0.00431   0.0816
+cross-triple      1.0603  0.3997  0.1511  0.4868  0.1623  0.5824 yes  0.5627  0.00938   0.0840
+all-cells         1.6301  1.6611  0.0615  1.1273  0.1879  1.6096 yes  1.1895  0.03313   0.0000
+
+== scaffold lam=0.5
+candidate             A*       A      nC    Ahat    Ah/H   AhPop  C1  C2mean    C2var  I(E;S^)
+cell              0.4991  0.1076  0.1174  0.1636  0.1636  0.1636 yes  0.1878  0.00154   0.0530
+pair-in-patch     0.7843  0.3011  0.0937  0.3542  0.1771  0.4531 yes  0.4016  0.00438   0.0588
+patch             1.0027  0.6851  0.0493  0.5987  0.1996  0.8495 yes  0.6243  0.00980   0.0064
+patch+scaffold    1.2861  0.9729  0.0421  0.8915  0.2229  1.1649 yes  0.9067  0.00012   0.0064
+cross-pair        0.8647  0.2201  0.1736  0.3296  0.1648  0.3221 yes  0.3775  0.00315   0.0904
+cross-triple      1.1066  0.4217  0.1503  0.5214  0.1738  0.6146 yes  0.5922  0.00574   0.0942
+all-cells         1.7179  1.7362  0.0416  1.2189  0.2032  1.7041 yes  1.2532  0.01876   0.0000
+
+== scaffold lam=0.75
+candidate             A*       A      nC    Ahat    Ah/H   AhPop  C1  C2mean    C2var  I(E;S^)
+cell              0.5176  0.1110  0.1095  0.1736  0.1736  0.1736 yes  0.2002  0.00106   0.0547
+pair-in-patch     0.8008  0.3234  0.0790  0.3810  0.1905  0.4923 yes  0.4291  0.00150   0.0649
+patch             1.0191  0.8010  0.0275  0.6569  0.2190  0.9342 yes  0.6671  0.00311   0.0026
+patch+scaffold    1.2998  1.0835  0.0237  0.9402  0.2350  1.2262 yes  0.9463  0.00003   0.0026
+cross-pair        0.9328  0.2240  0.1797  0.3500  0.1750  0.3388 yes  0.4010  0.00223   0.0982
+cross-triple      1.1868  0.4402  0.1503  0.5574  0.1858  0.6549 yes  0.6301  0.00259   0.1061
+all-cells         1.8379  1.8459  0.0198  1.3229  0.2205  1.8319 yes  1.3350  0.00615  -0.0000
+
+== scaffold lam=0.875
+candidate             A*       A      nC    Ahat    Ah/H   AhPop  C1  C2mean    C2var  I(E;S^)
+cell              0.5373  0.1098  0.1041  0.1788  0.1788  0.1788 yes  0.2076  0.00097   0.0539
+pair-in-patch     0.8149  0.3290  0.0703  0.3947  0.1973  0.5130 yes  0.4456  0.00049   0.0681
+patch             1.0284  0.8760  0.0165  0.6881  0.2294  0.9766 yes  0.6924  0.00092   0.0012
+patch+scaffold    1.3076  1.1558  0.0149  0.9679  0.2420  1.2592 yes  0.9708  0.00001   0.0012
+cross-pair        0.9961  0.2207  0.1821  0.3600  0.1800  0.3495 yes  0.4155  0.00201   0.1000
+cross-triple      1.2542  0.4418  0.1492  0.5756  0.1919  0.6802 yes  0.6535  0.00150   0.1120
+all-cells         1.9169  1.9202  0.0082  1.3810  0.2302  1.9148 yes  1.3850  0.00183   0.0000
+
+== scaffold lam=1.0
+candidate             A*       A      nC    Ahat    Ah/H   AhPop  C1  C2mean    C2var  I(E;S^)
+cell              0.5754  0.1029  0.0959  0.1840  0.1840  0.1840 yes  0.2163  0.00106   0.0513
+pair-in-patch     0.8376  0.3212  0.0621  0.4084  0.2042  0.5351 yes  0.4656  0.00002   0.0712
+patch             1.0376  0.9646  0.0095  0.7213  0.2404  1.0149 yes  0.7227  0.00000   0.0002
+patch+scaffold    1.3156  1.2427  0.0095  0.9993  0.2498  1.2930 yes  1.0007  0.00000   0.0002
+cross-pair        1.1058  0.2060  0.1802  0.3696  0.1848  0.3627 yes  0.4327  0.00217   0.0987
+cross-triple      1.3607  0.4249  0.1455  0.5936  0.1979  0.7112 yes  0.6820  0.00112   0.1171
+all-cells         2.0120  2.0120  0.0000  1.4453  0.2409  2.0120 yes  1.4453  0.00000   0.0000
+
+== control (common input)
+candidate             A*       A      nC    Ahat    Ah/H   AhPop  C1  C2mean    C2var  I(E;S^)
+cell              0.2832  0.0620  0.3603  0.0594  0.0594  0.0594  no  0.1210  0.00000   0.0000
+pair-in-patch     0.4076  0.1420  0.5137  0.1567  0.0783  0.1051  no  0.2421  0.00000   0.0000
+patch             0.5069  0.3092  0.5991  0.2805  0.0935  0.1814  no  0.3631  0.00000  -0.0000
+patch+scaffold    1.1516  1.1516  0.0000  1.1235  0.2809  1.1516 yes  1.1235  0.00000   0.0000
+cross-pair        0.5663  0.1239  0.7205  0.1188  0.0594  0.1188  no  0.2421  0.00000  -0.0000
+cross-triple      0.6908  0.2040  0.8740  0.2161  0.0720  0.1645  no  0.3631  0.00000   0.0000
+all-cells         1.0139  0.6184  1.1982  0.5610  0.0935  0.3628  no  0.7262  0.00000   0.0000
+
+== control, asymmetric
+candidate             A*       A      nC    Ahat    Ah/H   AhPop  C1  C2mean    C2var  I(E;S^)
+cell              0.1009  0.0628  0.1290  0.0675  0.0675  0.0550  no  0.0902  0.00095  -0.0000
+pair-in-patch     0.2026  0.1295  0.2251  0.1386  0.0693  0.1101  no  0.1804  0.00380  -0.0000
+patch             0.2990  0.2020  0.2990  0.2134  0.0711  0.1663  no  0.2707  0.00854   0.0000
+patch+scaffold    0.7478  0.7478  0.0000  0.7137  0.1784  0.7478 yes  0.7137  0.00000  -0.0000
+cross-pair        0.2017  0.1256  0.2580  0.1350  0.0675  0.1101  no  0.1804  0.00190  -0.0000
+cross-triple      0.3034  0.1923  0.3541  0.2061  0.0687  0.1651  no  0.2707  0.00475  -0.0000
+all-cells         0.5979  0.4041  0.5980  0.4267  0.0711  0.3326  no  0.5413  0.01709   0.0000
+
+Bourrat 2023 (LIT-049): dC over all 203 partitions of the cells
+
+== scaffold lam=0.0
+  h1_mean    dC    min 0.0148 (6 at min; coarsest 05|14|23); identity 0.0300(#44), patches 0.0300(#26), one-block 0.0149(#16), cross-pairs 0.0148(#3)
+                   best non-trivial: 04|13|25 0.0148; 03|15|24 0.0148; 03|14|25 0.0148
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#8), one-block 0.0282(#113), cross-pairs 0.0280(#102)
+                   best non-trivial: 01|2|3|4|5 0.0000; 02|1|3|4|5 0.0000; 0|1|2|34|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.028; 012345 for kappa 0.0285-0.05
+  h1_dist    dC    min 0.0507 (1 at min; coarsest 012345); identity 0.0763(#119), patches 0.0763(#95), one-block 0.0507(#1), cross-pairs 0.0625(#16)
+                   best non-trivial: 05|1234 0.0583; 0134|25 0.0583; 0135|24 0.0583
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h1_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0656(#179), cross-pairs 0.0717(#203)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|1|2|34|5 0.0000; 0|1|2|3|45 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.05
+  h4_mean    dC    min 0.0197 (6 at min; coarsest 05|14|23); identity 0.0284(#44), patches 0.0284(#40), one-block 0.0198(#16), cross-pairs 0.0197(#5)
+                   best non-trivial: 05|14|23 0.0197; 05|13|24 0.0197; 03|15|24 0.0197
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#23), one-block 0.0375(#197), cross-pairs 0.0373(#186)
+                   best non-trivial: 01|2|3|4|5 0.0000; 02|1|3|4|5 0.0000; 0|12|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.037; 012345 for kappa 0.0375-0.05
+  h4_dist    dC    min 0.0347 (1 at min; coarsest 012345); identity 0.0481(#203), patches 0.0481(#179), one-block 0.0347(#1), cross-pairs 0.0378(#16)
+                   best non-trivial: 03|1245 0.0367; 05|1234 0.0367; 0234|15 0.0367
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h4_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0531(#203), cross-pairs 0.0524(#188)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|12|3|4|5 0.0000; 0|1|2|34|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.05
+
+== scaffold lam=0.25
+  h1_mean    dC    min 0.0123 (6 at min; coarsest 05|14|23); identity 0.0247(#44), patches 0.0247(#29), one-block 0.0123(#16), cross-pairs 0.0123(#5)
+                   best non-trivial: 05|14|23 0.0123; 04|15|23 0.0123; 03|15|24 0.0123
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#10), one-block 0.0234(#77), cross-pairs 0.0232(#64)
+                   best non-trivial: 0|1|2|34|5 0.0000; 01|2|3|4|5 0.0000; 012|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.023; 012345 for kappa 0.0235-0.05
+  h1_dist    dC    min 0.0461 (1 at min; coarsest 012345); identity 0.0661(#56), patches 0.0660(#32), one-block 0.0461(#1), cross-pairs 0.0566(#16)
+                   best non-trivial: 0234|15 0.0534; 05|1234 0.0534; 0134|25 0.0534
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h1_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0560(#137), cross-pairs 0.0630(#188)
+                   best non-trivial: 0|1|2|34|5 0.0000; 01|2|3|4|5 0.0000; 02|1|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.05
+  h4_mean    dC    min 0.0175 (6 at min; coarsest 05|14|23); identity 0.0267(#44), patches 0.0267(#26), one-block 0.0176(#16), cross-pairs 0.0175(#4)
+                   best non-trivial: 05|14|23 0.0175; 05|13|24 0.0175; 03|15|24 0.0175
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#21), one-block 0.0334(#152), cross-pairs 0.0332(#142)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|1|2|34|5 0.0000; 0|1|2|35|4 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.033; 012345 for kappa 0.0335-0.05
+  h4_dist    dC    min 0.0324 (1 at min; coarsest 012345); identity 0.0459(#118), patches 0.0459(#111), one-block 0.0324(#1), cross-pairs 0.0355(#12)
+                   best non-trivial: 05|1234 0.0344; 0234|15 0.0344; 0134|25 0.0344
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h4_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0473(#188), cross-pairs 0.0475(#194)
+                   best non-trivial: 01|2|3|4|5 0.0000; 02|1|3|4|5 0.0000; 0|1|2|34|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.047; 012345 for kappa 0.0475-0.05
+
+== scaffold lam=0.5
+  h1_mean    dC    min 0.0093 (6 at min; coarsest 05|14|23); identity 0.0186(#35), patches 0.0186(#17), one-block 0.0093(#16), cross-pairs 0.0093(#5)
+                   best non-trivial: 05|14|23 0.0093; 04|13|25 0.0093; 04|15|23 0.0093
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#20), one-block 0.0177(#77), cross-pairs 0.0176(#64)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|12|3|4|5 0.0000; 02|1|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0175; 012345 for kappa 0.018-0.05
+  h1_dist    dC    min 0.0421 (1 at min; coarsest 012345); identity 0.0535(#41), patches 0.0535(#17), one-block 0.0421(#1), cross-pairs 0.0496(#16)
+                   best non-trivial: 05|1234 0.0476; 0134|25 0.0476; 0135|24 0.0476
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h1_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0480(#98), cross-pairs 0.0532(#152)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|1|2|3|45 0.0000; 0|1|2|34|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.048; 012345 for kappa 0.0485-0.05
+  h4_mean    dC    min 0.0142 (6 at min; coarsest 05|14|23); identity 0.0231(#24), patches 0.0231(#22), one-block 0.0143(#16), cross-pairs 0.0142(#2)
+                   best non-trivial: 04|13|25 0.0142; 03|14|25 0.0142; 05|14|23 0.0142
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#23), one-block 0.0272(#125), cross-pairs 0.0271(#113)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|1|2|345 0.0000; 01|2|3|45 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.027; 012345 for kappa 0.0275-0.05
+  h4_dist    dC    min 0.0299 (1 at min; coarsest 012345); identity 0.0407(#41), patches 0.0407(#17), one-block 0.0299(#1), cross-pairs 0.0323(#14)
+                   best non-trivial: 0135|24 0.0314; 0145|23 0.0314; 0245|13 0.0314
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h4_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0407(#179), cross-pairs 0.0405(#140)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|12|3|4|5 0.0000; 0|1|2|3|45 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0405; 012345 for kappa 0.041-0.05
+
+== scaffold lam=0.75
+  h1_mean    dC    min 0.0055 (6 at min; coarsest 05|14|23); identity 0.0109(#35), patches 0.0109(#17), one-block 0.0055(#16), cross-pairs 0.0055(#6)
+                   best non-trivial: 05|13|24 0.0055; 04|13|25 0.0055; 03|15|24 0.0055
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#19), one-block 0.0106(#41), cross-pairs 0.0105(#30)
+                   best non-trivial: 012|3|4|5 0.0000; 0|12|34|5 0.0000; 0|12|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0105; 012345 for kappa 0.011-0.05
+  h1_dist    dC    min 0.0349 (1 at min; coarsest 012|345); identity 0.0349(#25), patches 0.0349(#1), one-block 0.0364(#26), cross-pairs 0.0377(#32)
+                   best non-trivial: 012|345 0.0349; 012|34|5 0.0349; 012|35|4 0.0349
+                   dC+kappa*k winners: 012|345 for kappa 0.0-0.001; 012345 for kappa 0.0015-0.05
+  h1_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0399(#104), cross-pairs 0.0390(#67)
+                   best non-trivial: 0|12|3|4|5 0.0000; 02|1|3|4|5 0.0000; 0|1|2|3|45 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0395; 012345 for kappa 0.04-0.05
+  h4_mean    dC    min 0.0090 (6 at min; coarsest 05|14|23); identity 0.0158(#35), patches 0.0158(#18), one-block 0.0090(#16), cross-pairs 0.0090(#6)
+                   best non-trivial: 04|13|25 0.0090; 04|15|23 0.0090; 03|15|24 0.0090
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#24), one-block 0.0175(#77), cross-pairs 0.0175(#63)
+                   best non-trivial: 0|1|2|345 0.0000; 0|1|2|34|5 0.0000; 01|2|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0175; 012345 for kappa 0.018-0.05
+  h4_dist    dC    min 0.0257 (6 at min; coarsest 05|14|23); identity 0.0290(#41), patches 0.0290(#20), one-block 0.0257(#7), cross-pairs 0.0257(#6)
+                   best non-trivial: 04|15|23 0.0257; 05|14|23 0.0257; 05|13|24 0.0257
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0309(#125), cross-pairs 0.0292(#103)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|1|2|34|5 0.0000; 0|12|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0305; 012345 for kappa 0.031-0.05
+
+== scaffold lam=0.875
+  h1_mean    dC    min 0.0030 (6 at min; coarsest 05|14|23); identity 0.0061(#35), patches 0.0061(#18), one-block 0.0031(#16), cross-pairs 0.0030(#6)
+                   best non-trivial: 03|15|24 0.0030; 05|13|24 0.0030; 04|15|23 0.0030
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#21), one-block 0.0060(#41), cross-pairs 0.0060(#31)
+                   best non-trivial: 012|3|4|5 0.0000; 0|1|2|345 0.0000; 0|12|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0055; 012345 for kappa 0.006-0.05
+  h1_dist    dC    min 0.0210 (1 at min; coarsest 012|345); identity 0.0210(#25), patches 0.0210(#1), one-block 0.0298(#41), cross-pairs 0.0277(#31)
+                   best non-trivial: 012|345 0.0210; 012|35|4 0.0210; 01|2|345 0.0210
+                   dC+kappa*k winners: 012|345 for kappa 0.0-0.0085; 012345 for kappa 0.009-0.05
+  h1_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0318(#77), cross-pairs 0.0281(#67)
+                   best non-trivial: 0|1|2|34|5 0.0000; 01|2|3|4|5 0.0000; 01|2|34|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0315; 012345 for kappa 0.032-0.05
+  h4_mean    dC    min 0.0052 (6 at min; coarsest 05|14|23); identity 0.0095(#17), patches 0.0095(#20), one-block 0.0052(#16), cross-pairs 0.0052(#2)
+                   best non-trivial: 03|15|24 0.0052; 03|14|25 0.0052; 05|14|23 0.0052
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_mean    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#8), one-block 0.0103(#41), cross-pairs 0.0103(#31)
+                   best non-trivial: 02|1|3|4|5 0.0000; 0|12|3|4|5 0.0000; 01|2|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.01; 012345 for kappa 0.0105-0.05
+  h4_dist    dC    min 0.0186 (25 at min; coarsest 012|345); identity 0.0186(#1), patches 0.0186(#25), one-block 0.0208(#41), cross-pairs 0.0188(#31)
+                   best non-trivial: 01|2|34|5 0.0186; 0|12|34|5 0.0186; 01|2|35|4 0.0186
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.002; 012345 for kappa 0.0025-0.05
+  h4_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0232(#77), cross-pairs 0.0201(#67)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|1|2|34|5 0.0000; 0|12|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.023; 012345 for kappa 0.0235-0.05
+
+== scaffold lam=1.0
+  h1_mean    dC    min 0.0000 (41 at min; coarsest 012345); identity 0.0000(#35), patches 0.0000(#6), one-block 0.0000(#2), cross-pairs 0.0000(#8)
+                   best non-trivial: 012|3|4|5 0.0000; 0|12|345 0.0000; 0|1|2|345 0.0000
+                   dC+kappa*k winners: 41-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_mean    dC_E  min 0.0000 (41 at min; coarsest 012345); identity 0.0000(#1), patches 0.0000(#8), one-block 0.0000(#31), cross-pairs 0.0000(#35)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|1|2|34|5 0.0000; 0|1|2|345 0.0000
+                   dC+kappa*k winners: 41-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_dist    dC    min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#3), patches 0.0000(#25), one-block 0.0195(#41), cross-pairs 0.0133(#26)
+                   best non-trivial: 01|2|3|4|5 0.0000; 01|2|34|5 0.0000; 0|12|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0195; 012345 for kappa 0.02-0.05
+  h1_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0195(#41), cross-pairs 0.0133(#29)
+                   best non-trivial: 01|2|3|4|5 0.0000; 02|1|3|4|5 0.0000; 0|12|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0195; 012345 for kappa 0.02-0.05
+  h4_mean    dC    min 0.0000 (41 at min; coarsest 012345); identity 0.0000(#35), patches 0.0000(#24), one-block 0.0000(#3), cross-pairs 0.0000(#1)
+                   best non-trivial: 03|14|25 0.0000; 03|15|24 0.0000; 05|14|23 0.0000
+                   dC+kappa*k winners: 41-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_mean    dC_E  min 0.0000 (41 at min; coarsest 012345); identity 0.0000(#1), patches 0.0000(#3), one-block 0.0000(#41), cross-pairs 0.0000(#28)
+                   best non-trivial: 0|1|2|34|5 0.0000; 012|345 0.0000; 012|3|45 0.0000
+                   dC+kappa*k winners: 41-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_dist    dC    min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#7), patches 0.0000(#25), one-block 0.0119(#41), cross-pairs 0.0061(#28)
+                   best non-trivial: 01|2|34|5 0.0000; 0|1|2|34|5 0.0000; 01|2|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0115; 012345 for kappa 0.012-0.05
+  h4_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0119(#41), cross-pairs 0.0061(#27)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|12|3|4|5 0.0000; 02|1|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0115; 012345 for kappa 0.012-0.05
+
+== control (common input)
+  h1_mean    dC    min 0.1520 (6 at min; coarsest 05|14|23); identity 0.3023(#91), patches 0.3023(#98), one-block 0.1523(#16), cross-pairs 0.1520(#4)
+                   best non-trivial: 05|13|24 0.1520; 03|15|24 0.1520; 04|13|25 0.1520
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_mean    dC_E  min 0.0000 (203 at min; coarsest 012345); identity 0.0000(#1), patches 0.0000(#29), one-block 0.0000(#72), cross-pairs 0.0000(#75)
+                   best non-trivial: 01|2|3|4|5 0.0000; 02|1|3|4|5 0.0000; 0|12|3|4|5 0.0000
+                   dC+kappa*k winners: 203-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_dist    dC    min 0.4371 (1 at min; coarsest 012345); identity 0.5010(#183), patches 0.5010(#203), one-block 0.4371(#1), cross-pairs 0.4487(#15)
+                   best non-trivial: 05|1234 0.4439; 0234|15 0.4439; 0134|25 0.4439
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h1_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0685(#188), cross-pairs 0.0974(#203)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|12|3|4|5 0.0000; 02|1|3|4|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.05
+  h4_mean    dC    min 0.0593 (6 at min; coarsest 05|14|23); identity 0.1180(#80), patches 0.1180(#95), one-block 0.0595(#16), cross-pairs 0.0593(#4)
+                   best non-trivial: 05|14|23 0.0593; 04|15|23 0.0593; 04|13|25 0.0593
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_mean    dC_E  min 0.0000 (203 at min; coarsest 012345); identity 0.0000(#1), patches 0.0000(#24), one-block 0.0000(#162), cross-pairs 0.0000(#141)
+                   best non-trivial: 0|1|2|345 0.0000; 01|2|35|4 0.0000; 01|2|34|5 0.0000
+                   dC+kappa*k winners: 203-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_dist    dC    min 0.0926 (1 at min; coarsest 012345); identity 0.1402(#203), patches 0.1402(#179), one-block 0.0926(#1), cross-pairs 0.0928(#13)
+                   best non-trivial: 05|1234 0.0927; 0234|15 0.0927; 0134|25 0.0927
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h4_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0009(#179), cross-pairs 0.0010(#202)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|12|3|4|5 0.0000; 0|1|2|34|5 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0005; 012345 for kappa 0.001-0.05
+
+== control, asymmetric
+  h1_mean    dC    min 0.0873 (6 at min; coarsest 05|14|23); identity 0.1709(#81), patches 0.1709(#96), one-block 0.0878(#16), cross-pairs 0.0873(#6)
+                   best non-trivial: 04|15|23 0.0873; 03|15|24 0.0873; 04|13|25 0.0873
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_mean    dC_E  min 0.0000 (203 at min; coarsest 012345); identity 0.0000(#1), patches 0.0000(#33), one-block 0.0000(#203), cross-pairs 0.0000(#13)
+                   best non-trivial: 012|3|4|5 0.0000; 0|1|2|35|4 0.0000; 0|1|2|34|5 0.0000
+                   dC+kappa*k winners: 203-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h1_dist    dC    min 0.2475 (1 at min; coarsest 012345); identity 0.3688(#203), patches 0.3591(#179), one-block 0.2475(#1), cross-pairs 0.2755(#16)
+                   best non-trivial: 05|1234 0.2613; 0234|15 0.2613; 0134|25 0.2613
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h1_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#24), one-block 0.0229(#26), cross-pairs 0.0617(#203)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|1|2|35|4 0.0000; 0|1|2|3|45 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012|345 for kappa 0.0005-0.0225; 012345 for kappa 0.023-0.05
+  h4_mean    dC    min 0.0341 (6 at min; coarsest 05|14|23); identity 0.0667(#84), patches 0.0667(#81), one-block 0.0343(#16), cross-pairs 0.0341(#6)
+                   best non-trivial: 03|15|24 0.0341; 04|13|25 0.0341; 05|14|23 0.0341
+                   dC+kappa*k winners: 6-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_mean    dC_E  min 0.0000 (203 at min; coarsest 012345); identity 0.0000(#1), patches 0.0000(#49), one-block 0.0000(#173), cross-pairs 0.0000(#102)
+                   best non-trivial: 01|2|3|4|5 0.0000; 02|1|3|4|5 0.0000; 0|12|3|4|5 0.0000
+                   dC+kappa*k winners: 203-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+  h4_dist    dC    min 0.0689 (1 at min; coarsest 012345); identity 0.1171(#203), patches 0.1171(#179), one-block 0.0689(#1), cross-pairs 0.0690(#16)
+                   best non-trivial: 0235|14 0.0689; 05|1234 0.0689; 0234|15 0.0689
+                   dC+kappa*k winners: 012345 for kappa 0.0-0.05
+  h4_dist    dC_E  min 0.0000 (25 at min; coarsest 012|345); identity 0.0000(#1), patches 0.0000(#25), one-block 0.0002(#26), cross-pairs 0.0006(#162)
+                   best non-trivial: 01|2|3|4|5 0.0000; 0|1|2|34|5 0.0000; 0|1|2|35|4 0.0000
+                   dC+kappa*k winners: 25-way tie for kappa 0.0-0.0; 012345 for kappa 0.0005-0.05
+
+Sensitivity (Ahat/H and C2 variance at lam 0 -> 1; control)
+  a=0.1 d=0.0: cell 0.070->0.107 var 0.0030->0.0013, patch 0.114->0.212 var 0.0432->0.0000, cross-triple 0.085->0.135 var 0.0151->0.0013, patch+scaffold 0.170->0.229 var 0.0008->0.0000; control cell/pair-in/cross-pair 0.007/0.015/0.007
+  a=0.1 d=0.05: cell 0.066->0.101 var 0.0024->0.0010, patch 0.106->0.196 var 0.0372->0.0000, cross-triple 0.080->0.127 var 0.0123->0.0010, patch+scaffold 0.163->0.217 var 0.0009->0.0000; control cell/pair-in/cross-pair 0.007/0.015/0.007
+  a=0.1 d=0.2: cell 0.056->0.086 var 0.0014->0.0005, patch 0.086->0.161 var 0.0262->0.0001, cross-triple 0.068->0.106 var 0.0075->0.0006, patch+scaffold 0.145->0.190 var 0.0011->0.0001; control cell/pair-in/cross-pair 0.007/0.015/0.007
+  a=0.3 d=0.0: cell 0.152->0.194 var 0.0036->0.0015, patch 0.177->0.258 var 0.0326->0.0000, cross-triple 0.160->0.210 var 0.0157->0.0015, patch+scaffold 0.213->0.263 var 0.0006->0.0000; control cell/pair-in/cross-pair 0.059/0.078/0.059
+  a=0.3 d=0.05: cell 0.145->0.184 var 0.0029->0.0011, patch 0.166->0.240 var 0.0282->0.0000, cross-triple 0.151->0.198 var 0.0129->0.0011, patch+scaffold 0.203->0.250 var 0.0007->0.0000; control cell/pair-in/cross-pair 0.059/0.078/0.059
+  a=0.3 d=0.2: cell 0.122->0.156 var 0.0018->0.0006, patch 0.138->0.201 var 0.0202->0.0001, cross-triple 0.128->0.166 var 0.0082->0.0007, patch+scaffold 0.182->0.220 var 0.0009->0.0001; control cell/pair-in/cross-pair 0.059/0.078/0.059
+  a=0.5 d=0.0: cell 0.272->0.313 var 0.0032->0.0011, patch 0.286->0.350 var 0.0229->0.0000, cross-triple 0.276->0.322 var 0.0132->0.0011, patch+scaffold 0.291->0.332 var 0.0004->0.0000; control cell/pair-in/cross-pair 0.170/0.184/0.170
+  a=0.5 d=0.05: cell 0.257->0.296 var 0.0026->0.0008, patch 0.269->0.329 var 0.0200->0.0000, cross-triple 0.261->0.303 var 0.0110->0.0008, patch+scaffold 0.278->0.316 var 0.0005->0.0000; control cell/pair-in/cross-pair 0.170/0.184/0.170
+  a=0.5 d=0.2: cell 0.217->0.249 var 0.0016->0.0005, patch 0.231->0.281 var 0.0148->0.0001, cross-triple 0.222->0.256 var 0.0073->0.0006, patch+scaffold 0.248->0.280 var 0.0008->0.0001; control cell/pair-in/cross-pair 0.170/0.184/0.170
