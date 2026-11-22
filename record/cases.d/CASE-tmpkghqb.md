@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Audited governance against a router matched on audits, delay and cost, built in numpy: frozen low-rank specialist denoisers after a reversal of expertise, with one arm each for cycles, no common scale, capture, bandit feedback and continued training; governance wins only against a router weaker in a stated respect, and a router given the same context or the same normalization matches or beats it in every arm'
+title: 'Audited governance against a router matched on audits, delay and cost, built in numpy: frozen low-rank specialist denoisers after a reversal of expertise, with one arm each for cycles, no common scale, capture, bandit feedback and continued training; governance wins only against a router weaker in a stated respect, and the best router matches or beats the best governance in every arm'
 version: 1
 history:
 - version: 1
@@ -29,7 +29,7 @@ summary: >-
   [CASE-158](CASE-158.md)'s design, built and run for the first time in the record, with
   the router given the same audit records, the same one-episode delay and
   the same number of probes as governance, and one arm per failure of
-  [QUESTION-271](../questions.d/QUESTION-271.md) plus continued training. 8 arms, 3 gate temperatures, 12
+  [QUESTION-271](../questions.d/QUESTION-271.md) plus continued training. Eight arms, 3 gate temperatures, 12
   paired seeds, held-out truth. Under full information governance beats the
   contextual router at two of three temperatures, but loses at the one both
   do best at, and a router that sees only the region id, as governance's
@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpdmn0v — new; the claim this run grounds, cited for the owner's reading of the defeat condition -->
 
-# CASE-tmpkghqb: Audited governance against a router matched on audits, delay and cost, built in numpy: frozen low-rank specialist denoisers after a reversal of expertise, with one arm each for cycles, no common scale, capture, bandit feedback and continued training; governance wins only against a router weaker in a stated respect, and a router given the same context or the same normalization matches or beats it in every arm
+# CASE-tmpkghqb: Audited governance against a router matched on audits, delay and cost, built in numpy: frozen low-rank specialist denoisers after a reversal of expertise, with one arm each for cycles, no common scale, capture, bandit feedback and continued training; governance wins only against a router weaker in a stated respect, and the best router matches or beats the best governance in every arm
 
 ## What was done
 
@@ -172,12 +172,15 @@ resembled. With continued training it did better than fixed (0.2140 to
 
 [CASE-158](CASE-158.md)'s third prediction holds here in a stronger form than
 [CLAIM-467](../claims.d/CLAIM-467.md) states: not only under full information, but in each arm built
-for a failure of evaluation, a router given the same audits, delay and
-cost matches or beats audited governance once it is given the same
-context (region only) or the same normalization. The arms governance won
-were won against a router weaker in a stated respect: a noisier context, a
-missing normalization, or a floor that hurt it. Each of those is a property
-a router can be built with. Whether the full-information comparison at a
+for a failure of evaluation, the best router given the same audits, delay
+and cost matches or beats the best governance. The comparisons governance
+won were against a router weaker in a stated respect: a noisier context
+(full, capture 50%, training, at low temperatures), a missing
+normalization (scale), or an audit floor that the router does better
+without (bandit). Each is a property a router can be built with or
+without. The one win against a router matched in every respect built here
+is the bandit arm with the floor imposed on both, and there the router
+without the floor does as well. Whether the full-information comparison at a
 shared low temperature meets [CLAIM-467](../claims.d/CLAIM-467.md)'s defeat condition is the owner's
 reading: see [CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md).
 
