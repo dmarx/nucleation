@@ -13,8 +13,8 @@
 | unnormalized | mind | 1 | none | no | 0.25 |
 | unnormalized | mind | 2 | none | no | 0.25 |
 | unnormalized | mind | 3 | 0.08 | no | 0.25 |
-| unnormalized | group | 1 | 0.21 | yes | 0.25 |
-| unnormalized | group | 2 | 0.16 | yes | 0.25 |
+| unnormalized | group | 1 | none | no | 0.25 |
+| unnormalized | group | 2 | 0.22 | yes | 0.25 |
 | unnormalized | group | 3 | 0.13 | no | 0.25 |
 
 ## Verdicts at matched coupling (size-normalized MIB)
@@ -40,4 +40,4 @@ Coupling x between parts (modules of the mind; members of the group), links betw
 | 0.2 | 3 | 0.0427 / 0.0519 -> mind | 0.0398 / 0.0563 / 0.0907 -> group |
 | 0.25 | 1 | 0.0304 / 0.0532 -> mind | 0.0382 / 0.0717 / 0.0978 -> group |
 | 0.25 | 2 | 0.0330 / 0.0480 -> mind | 0.0403 / 0.0569 / 0.1000 -> group |
-| 0.25 | 3 | 0.0525 / -0.0054 -> module | 0.0059 / -0.1701 / -0.1928 -> module |
+| 0.25 | 3 | 0.0525 / -0.0054 -> module | 0.0059 / -0.1701 / -0.1888 -> module |
