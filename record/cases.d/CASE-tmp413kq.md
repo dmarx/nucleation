@@ -41,7 +41,7 @@ summary: >-
   Not run. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmppa01m LIT-tmporf0r LIT-tmpa7f10 LIT-tmpre45d — new; the reading and works registered by the LEAD-062 search -->
+<!-- inactive-ok-file: THEORY-tmppa01m LIT-tmporf0r LIT-tmpre45d — new; the reading and works registered by the LEAD-062 search -->
 <!-- inactive-ok-file: CLAIM-491 — Proposed; the owner's thesis the design tests -->
 
 # CASE-tmp413kq: A proposed study: members of a group are asked to give to its present cause and to a fund for its members fifty years on, while the self's extent toward the group is varied by salience and measured apart from concern for the group's welfare, and a legacy prime is crossed with whether the gift is credited or known to no one
@@ -172,3 +172,14 @@ outcome is concern for present outsiders. Law et al. ([LIT-tmporf0r](../literatu
 [LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [LIT-tmpre45d](../literature.d/LIT-tmpre45d.md)) relate felt connection across time and
 continuity with one's own future self to concern for future generations;
 all are unread, and none is reported to separate caring.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+**Draws a measure and a warning**, no edge ([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)).
+The paper's overlapping-circles item for "future generations of people", an
+adaptation of the future-self item, is a ready measure of continuity toward
+a group's future members, though alone it is a self-extent measure only in
+form, and the paper's fuller scale adds empathy and perspective-taking. Its
+manipulations, writing about one's future self and a framing that
+generations "remain the same over time", did not raise identification; a
+salience arm built on such tasks may not move the self's extent at all.

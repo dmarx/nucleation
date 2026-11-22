@@ -158,3 +158,11 @@ under a definition that already named awareness of awareness.
   full absorption, and the account's test must be architectural.
 - **[TERM-082](../terms.d/TERM-082.md).** The triad splits [TERM-082](../terms.d/TERM-082.md)'s sense 4 into a physical, a
   functional and a phenomenal property.
+
+## Note of 2026-11-22: Metzinger, read
+
+A **precursor**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). The 2021 paper gives the
+same placeholder account of consciousness in brief (pp. 48–49) and builds
+on it a design: systems identifying only with minimal phenomenal experience
+would be conscious and unable to suffer (p. 57). It offers no more evidence
+for the account than the book does.

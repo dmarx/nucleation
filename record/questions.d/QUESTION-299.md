@@ -199,7 +199,7 @@ and Syropoulos and Markowitz were read through other works, and Scheffler
   does not run the thesis's test.
 
 ## Note of 2026-11-22: the thesis's test, searched for
-<!-- inactive-ok-file: LIT-tmporf0r LIT-tmpa7f10 LIT-tmpre45d CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+<!-- inactive-ok-file: LIT-tmporf0r LIT-tmpre45d CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
 
 [LEAD-062](../leads.d/LEAD-062.md) searched Europe PMC and arXiv for a study of whether concern for
 future people varies with a measured continuity between the self and the
@@ -219,3 +219,13 @@ future, apart from caring. None was found.
 - **The design filed** ([CASE-tmp413kq](../cases.d/CASE-tmp413kq.md)) reaches only the future members of
   a group the giver belongs to. Future people in general are a further
   step, which it names as a limit.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+**Descriptive only**, no edge ([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). Its
+responsibility items measure felt obligation ("People living today have an
+obligation to protect future generations, even if it means tightening our
+belts now") and impartial valuation of far-future lives, not what grounds
+the obligation. Its link of future-self continuity to that felt obligation
+is correlational (r = .21), and two pre-registered experiments did not
+reliably move it.

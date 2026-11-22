@@ -147,6 +147,16 @@ Conceptual analysis with inference to the best explanation. The data are the agr
 - Minor: the skim's §6.1 list ("engine governor, a thermostat and a heat-seeking missile") is exact: "an engine with a governor, a cooling system with a thermostat, or a heat-seeking missile". Plant agency is explicitly *not* claimed: "No theoretical commitments—for example, about plant agency—will be undertaken if we take behavior in a broad sense" (§5), where behaviour includes "shingles in a windstorm".
 - agency tag: justified, as a secondary tag. The paper disclaims plant agency, but its operative criterion (self-directed, adaptive self-maintenance that constitutes what "matters" to an entity, set against thermostats and missiles) is the goal-directedness/autonomy demarcation in the tag's blurb, and it applies it to machines. It should not be cited as an account of agency.
 
+## Note of 2026-11-22: Metzinger, read
+
+**A contrast of grounds**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](NOTE-tmpdytsl.md)). This note
+sets sentience as necessary against teleological organisation as sufficient
+(Basl and Sandler 2013) and records the view that phenomenal but not
+affective consciousness suffices (Bradford 2023, Chalmers). Metzinger takes
+the first side, by his "Principle of Pathocentrism" (p. 44), and cites Basl
+for leaving open whether suffering-capable machines are "genuine moral
+patients" (p. 55).
+
 ## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
 
 **Checks to run**, no edge. Bruckner's cases, the self-maintaining car

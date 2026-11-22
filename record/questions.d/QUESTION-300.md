@@ -90,3 +90,11 @@ instruction) apart from concern for a group's welfare, and gives money to
 the group as the outcome. Gifts that follow concern where the criteria
 show no inclusion would be the evidence named here "for a yes"; gifts
 that vanish once the criteria are held fixed, "for a no". Not run.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+**No direct bearing**, no edge ([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). The paper
+treats identification with future generations as one route to concern but
+cannot say whether the concern is self-interested; efficacy toward future
+generations, a route with no self in it, predicts responsibility as
+strongly (r = .58) as identification does (.54).

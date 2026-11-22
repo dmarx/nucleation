@@ -153,3 +153,16 @@ objection lists.
   apart from self-definition, cognitive inclusion and continuity, and with
   salience varied by instruction. The thesis has content if the gift
   follows the criterion with concern held fixed.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+**Consistent with this claim, and an instance of the problem it names**
+([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). The paper's self-extension toward future
+people, "identification with future generations", is measured partly by
+perspective-taking ("It is easy for me to put myself in the shoes of future
+generations of people") and glossed as "empathy towards future generations
+of people" (Table 2), so its identification–responsibility link (r = .54)
+cannot test a self thesis whose extent must come apart from caring. Its
+cleanest datum is experimental: raising continuity with one's own future
+self (d about .4) did not reliably raise concern for future people (null in
+the replication) or identification with them (null in both). No edge.

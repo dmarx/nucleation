@@ -28,6 +28,7 @@ summary: >-
   [QUESTION-301](../questions.d/QUESTION-301.md), [QUESTION-299](../questions.d/QUESTION-299.md) and [NOTE-1280](../notes.d/NOTE-1280.md). Filed by the backlog audit of
   2026-11-19.
 ---
+<!-- inactive-ok-file: THEORY-tmp4qq57 — Proposed; the reading of Syropoulos, Law, Coleman and Young, 2026-11-22 -->
 
 # LEAD-062: Find or design a study that measures the self's extent apart from caring and tests whether concern for future people and for one's legacy follows it, including legacy priming where no one will know
 
@@ -54,7 +55,7 @@ Concern that follows measured continuity apart from caring supports
 alone counts against it.
 
 ## Note of 2026-11-22: searched, one neighbour read, the design specified
-<!-- inactive-ok-file: THEORY-tmppa01m LIT-tmporf0r LIT-tmpa7f10 LIT-tmpre45d CASE-tmp413kq — new; filed by this lead's run on 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmppa01m LIT-tmporf0r LIT-tmpre45d CASE-tmp413kq — new; filed by this lead's run on 2026-11-22 -->
 
 Carried out on 2026-11-22 by a delegated worker.
 
@@ -88,3 +89,15 @@ Carried out on 2026-11-22 by a delegated worker.
 - **What remains**: reading [LIT-tmporf0r](../literature.d/LIT-tmporf0r.md) and [LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md) by another route,
   which is a call for the owner; and running or commissioning the design.
   The lead's status and stage are unchanged.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+[LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md) is read ([NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md); [THEORY-tmp4qq57](../theory.d/THEORY-tmp4qq57.md)) and now Active. It is
+**not the test** this lead asks for. Its measure of the self's extent toward
+future people mixes felt connection, empathy and the overlap of circles, no
+caring measure is held apart from it, and nothing varies whether anyone will
+know. It does supply an overlapping-circles item for "future generations of
+people", used alone in its last experiment, which [CASE-tmp413kq](../cases.d/CASE-tmp413kq.md) could adopt
+as its continuity measure, and two manipulations that failed to move
+identification, a warning for the case's salience arm. The lead's "no study
+separates continuity with future people from caring" stands.

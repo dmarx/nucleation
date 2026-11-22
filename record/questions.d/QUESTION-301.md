@@ -23,6 +23,7 @@ summary: >-
   interests that outlast death (Pitcher), and dependence on a future we
   will not see (Scheffler).
 ---
+<!-- inactive-ok-file: THEORY-tmp4qq57 — Proposed; the reading of Syropoulos, Law, Coleman and Young, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-491 THEORY-464 LIT-1759 LIT-1754 LIT-1740 LIT-1714 LIT-1687 LIT-1777 LIT-1716 LIT-1760 LIT-1724 — Proposed, Deferred or Unavailable; the thesis, claims and works the question is organised around, cited as open -->
 
 # QUESTION-301: Is acting for one's legacy, for how one is remembered or for people who will live after one's death, self-interest on a self extended in time, as collectivism on the owner's thesis is self-interest on a self extended across people?
@@ -163,7 +164,7 @@ with 988 adults.
   anyone will know what one did.
 
 ## Note of 2026-11-22: the test searched for, and designed
-<!-- inactive-ok-file: LIT-tmpa7f10 LIT-tmpre45d CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+<!-- inactive-ok-file: LIT-tmpre45d CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
 
 [LEAD-062](../leads.d/LEAD-062.md) searched Europe PMC and arXiv for the test this question names.
 
@@ -187,3 +188,16 @@ with 988 adults.
   either recorded in the giver's name or made where no one, the
   researchers included, will ever know who gave. It is this question's
   "where no one will know" test. Not run.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+[LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md) is now read ([NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md); [THEORY-tmp4qq57](../theory.d/THEORY-tmp4qq57.md), which `bears_on`
+this question). It gives **weak support at most** for the bridge from
+prudence to legacy. Continuity with one's own future self goes with felt
+responsibility for future generations at r = .21 across studies, and
+manipulating it raised that responsibility in one pre-registered experiment
+(d = 0.24) and not in its direct replication (d = 0.06). Legacy, offspring
+and being remembered are not measured; legacy appears only as prior work.
+With the same group's panel ([LIT-tmpre45d](../literature.d/LIT-tmpre45d.md)), which reports the cross-lagged
+path running from concern to self-continuity, Hershfield's offspring bridge
+([NOTE-1259](../notes.d/NOTE-1259.md)) is not shown. The question stays open.

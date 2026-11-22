@@ -44,7 +44,6 @@ summary: >-
   against the temporal self as the route. Deferred; the abstract's report
   is unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpa7f10 — new; the same group's cross-sectional studies, registered with this -->
 
 # LIT-tmpre45d: A One-Year Longitudinal Investigation of the Association between Self and Other-Oriented Future Concern
 

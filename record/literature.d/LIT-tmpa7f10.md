@@ -1,14 +1,16 @@
 ---
-status: Unfetched
+status: Active
 status_note: >-
-  a lawful copy located and not read, 2026-11-22: the authors' CC BY
-  preprint on PsyArXiv, which Europe PMC lists at
-  https://osf.io/29jeb/download. Not fetched because the brief confined
-  [LEAD-062](../leads.d/LEAD-062.md) to Europe PMC and arXiv, and Europe PMC holds only the
-  abstract. Registered from the [LEAD-062](../leads.d/LEAD-062.md) search (Europe PMC, queries 1,
-  4 and 5).
+  read 2026-11-22 in full ([NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)), from the authors' CC BY
+  preprint, https://osf.io/29jeb/download, which OSF served without a bot
+  check; the file is the manuscript of 21 May 2024. Worth reading as the
+  one study the record holds that measures continuity with one's own
+  future self beside concern for future people, with experiments. Read it
+  knowing that its identification with future generations includes
+  empathy and perspective-taking, and that its experiments did not
+  reliably raise concern.
 title: 'A Future Beyond Ourselves: Can Self-Oriented Prospection Motivate Intergenerational Beneficence?'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -20,6 +22,17 @@ history:
     `published:` date; Crossref was not consulted, since the brief
     confined this lead to Europe PMC and arXiv. A grep of record/literature.d for the DOI, the title and
     the first author on 2026-11-22 found nothing.
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Read in full (NOTE-tmp11fci; THEORY-tmp4qq57, Proposed) in the sweep of
+    the Unfetched works; status Unfetched → Active. The file OSF serves is
+    "CFC, FSC & RFG Manuscript 5-21-24 - Preprint.docx", the manuscript of
+    21 May 2024, which is the version read; `published:` stays 6 September
+    2023, the first posting. Author order corrected from Europe PMC's to the
+    file's: Stylianos Syropoulos and Kyle F. Law as joint first authors,
+    Syropoulos first, then Matthew Coleman and Liane Young; `first_author`
+    is now Syropoulos. The summary is rewritten from the reading.
 tags:
 - future-generations
 - self
@@ -27,7 +40,7 @@ tags:
 date: '2026-11-22'
 published: '2023-09-06'
 doi: '10.31234/osf.io/29jeb'
-first_author: 'Law'
+first_author: 'Syropoulos'
 keywords:
 - 'future self-continuity'
 - 'consideration of future consequences'
@@ -35,38 +48,47 @@ keywords:
 - 'identification with future generations'
 implementations: []
 summary: >-
-  Law, Syropoulos, Coleman and Young (2023), DOI-10.31234/osf.io/29jeb, a
-  PsyArXiv preprint. By the abstract, ten studies (N = 11,261 US
-  participants) link future self-continuity, the overlap people perceive
-  between present and future selves, with feelings of responsibility
-  for, efficacy toward and "identification with future generations".
-  Here for [LEAD-062](../leads.d/LEAD-062.md) and [QUESTION-301](../questions.d/QUESTION-301.md): the bridge Hershfield guessed at
-  between prudence and legacy, measured. Whether identification with
-  future generations is separated from caring for them is unknown.
-  Unfetched; the abstract's report is unverified until read.
+  Syropoulos, Law, Coleman and Young, DOI-10.31234/osf.io/29jeb, PsyArXiv
+  preprint, read in its 2024-05-21 version. Ten US studies find future
+  self-continuity and consideration of future consequences correlated with
+  responsibility for future generations (meta-analytic r = .21 and .54),
+  partly through identification with and efficacy toward them. But the two
+  pre-registered experiments raised future-self continuity without
+  reliably raising responsibility (d = 0.24, then 0.06), and never raised
+  identification, whose measure includes empathy and perspective-taking.
+  For [LEAD-062](../leads.d/LEAD-062.md) and [QUESTION-301](../questions.d/QUESTION-301.md): it does not separate the self's extent
+  from caring.
 ---
 <!-- inactive-ok-file: LIT-tmpre45d — new; the same group's longitudinal follow-up, registered with this -->
+<!-- inactive-ok-file: THEORY-tmp4qq57 — Proposed; this work's reading, filed with it -->
 
 # LIT-tmpa7f10: A Future Beyond Ourselves: Can Self-Oriented Prospection Motivate Intergenerational Beneficence?
 
-K. F. Law, S. Syropoulos, M. B. Coleman and L. Young (2023). PsyArXiv preprint. DOI-10.31234/osf.io/29jeb
+Stylianos Syropoulos, Kyle F. Law, Matthew Coleman and Liane Young (2023; version of 2024-05-21). PsyArXiv preprint. DOI-10.31234/osf.io/29jeb. Syropoulos and Law are joint first authors.
 
 ## Key takeaways
 
-*Not read.* By the abstract: a reanalysis, four primary and six
-supplemental studies and an internal meta-analysis "consistently observe
-a connection between Future Self-Continuity ... and Consideration of
-Future Consequences ... with increased feelings of responsibility for,
-perceived efficacy to impact, and identification with future
-generations". Unverified until read.
+- Future self-continuity correlates with responsibility for future
+  generations at r = .21, consideration of future consequences at .54
+  (internal meta-analysis, Table 5).
+- In the direct replication of the pre-registered experiment, raising
+  future-self continuity did not raise responsibility (d = 0.06, p = .288);
+  "we cannot confidently claim that experimentally manipulating any of the
+  target predictors will result in increases in responsibility for
+  protecting future people".
+- "Identification with future generations" is measured partly by
+  perspective-taking ("It is easy for me to put myself in the shoes of
+  future generations of people") and glossed as "empathy towards future
+  generations of people" (Table 2).
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the [LEAD-062](../leads.d/LEAD-062.md) search. It bears on [QUESTION-301](../questions.d/QUESTION-301.md)'s
-note that Hershfield's guess, that the future self may continue in one's
-offspring, is the untested bridge from prudence to legacy ([NOTE-1259](../notes.d/NOTE-1259.md)). It
-measures continuity with one's own future self, not with future people,
-so it is not the lead's test unless its identification measure is
-separated from caring. The same group's one-year panel ([LIT-tmpre45d](LIT-tmpre45d.md))
-reports that the cross-lagged path runs from concern to self-continuity,
-not the reverse.
+Registered on 2026-11-22 by the [LEAD-062](../leads.d/LEAD-062.md) search and read the same day
+([NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md); [THEORY-tmp4qq57](../theory.d/THEORY-tmp4qq57.md), which bears on [QUESTION-301](../questions.d/QUESTION-301.md)). It is not the
+lead's test: its identification with future generations is not separated
+from caring for them. It bears on [QUESTION-301](../questions.d/QUESTION-301.md)'s note that Hershfield's
+guess is the untested bridge from prudence to legacy ([NOTE-1259](../notes.d/NOTE-1259.md)): continuity
+with one's own future self goes with concern for future people, weakly, and
+manipulating it did not reliably raise that concern. The same group's
+one-year panel ([LIT-tmpre45d](LIT-tmpre45d.md)) reports that the cross-lagged path runs from
+concern to self-continuity, not the reverse.
