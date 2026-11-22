@@ -152,3 +152,10 @@ neither measures whether any interest is overridden. Tavares et al.
 ([LIT-tmpptux6](../literature.d/LIT-tmpptux6.md), Unfetched) report effortless attention mediating between
 momentary states and optimal experience, by its abstract. No choice probe
 or reversal measure taken during a flow episode was found.
+
+## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), nothing new for flow
+
+[LEAD-078](../leads.d/LEAD-078.md) named this claim because it rests on [CLAIM-169](CLAIM-169.md). The readings it
+filed (Khan and Dhar, [LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md); Schuhr, [LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md); Ge et al.,
+[LIT-916](../literature.d/LIT-916.md)) bear on bundling and on mindfulness, not on flow, and leave
+[CLAIM-169](CLAIM-169.md)'s hold as it was. No bearing beyond that; no status change.

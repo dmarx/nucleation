@@ -209,3 +209,38 @@ members are weakly coupled at every instant and strongly connected
 through time-respecting paths, such as storage. It is the same gap seen
 from the side of the block criterion, and neither question is a part of
 the other.
+
+## Note of 2026-11-22: vector coarse variables and a truncation bound, linear Gaussian VAR(1)
+<!-- inactive-ok-file: CASE-tmpi9sds CLAIM-tmplsu2m — new; filed from LEAD-084 -->
+
+[LEAD-084](../leads.d/LEAD-084.md) worked the linear Gaussian VAR(1) with a coarse variable Y = LX
+of any dimension m, observed without noise. [CLAIM-tmplsu2m](../claims.d/CLAIM-tmplsu2m.md) (demonstrated,
+Proposed) offers:
+
+- **The augmentation is the Kalman filter.** Y together with the filter's
+  estimate of the eliminated variables is exactly Markov, with the
+  whole-past error. The fewest linear memory coordinates is
+  k_min = rank Cov(O x̂_{t+1|t} | Y_t) ≤ n − m.
+- **A bound for keeping p lags.** The excess error of predicting Y from
+  its last p values lies between 0 and L A_clᵖ(Π − P∞)A_clᵖᵀLᵀ, where A_cl
+  is the steady filter's closed loop. This is k = m(p − 1) coordinates
+  with error falling as ρ(A_cl)^{2p}.
+- **The rate is the filter's, not the eliminated spectrum's.** The
+  eigenvalues of A_cl are the zeros of Y's minimum-phase spectral factor,
+  the moving-average zeros of [CLAIM-398](../claims.d/CLAIM-398.md) for scalar Y. With one
+  eliminated variable the rate is at most |Ã|, the eliminated dynamics
+  with Y's innovation regressed out, and with weak inward coupling it
+  tends to ρ(Ã). In general neither ρ(A₂₂) nor ρ(Ã) bounds it: a
+  three-variable model with nilpotent eliminated dynamics, and a memory
+  kernel zero beyond lag 2, has rate 0.0994. A contraction factor
+  computed from the filter does bound it.
+- **The augmentation leaves dynamical dependence unchanged:**
+  T(X → (Y, r̂)) = T(X → Y).
+
+[CASE-tmpi9sds](../cases.d/CASE-tmpi9sds.md) is the numerical study. On this question's own example,
+sampled at h = 0.1, the truncation rate is about e^{−1.04t} while the
+memory kernel decays as e^{−0.3t}. The claim bears on this question and is
+not filed as answering it. Two parts remain open: error in terms of the
+eliminated spectrum, which the counterexample shows cannot be had in
+general beyond one eliminated variable, and the ruling on levels. Nonlinear
+classes, observation noise and VAR(p) are untouched.

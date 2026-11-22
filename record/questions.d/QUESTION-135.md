@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpw9b04
 title: 'When does spectral differentiation among learned features correspond to stabilizing coexistence among the processes that implement them, and what besides the feature geometry decides it?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
@@ -18,6 +18,12 @@ history:
     bounds each specialist's recovery rate below by its abundance times
     its niche vector's squared distance from the span of the others, and
     so by abundance times λ_min(A). The question is unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: in LEAD-016's run (CASE-tmpnti0m) a
+    rare specialist's recovery followed its residual direction among
+    learned operator vectors. The question is unchanged.
 tags:
 - representation-learning
 - ecology
@@ -38,6 +44,7 @@ summary: >-
   else, such as supply, task distribution or evaluation opportunities, has
   to be fixed for it to.
 ---
+<!-- inactive-ok-file: CASE-tmpnti0m — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-tmp6kclm CLAIM-tmpdsv4t CASE-tmp5sk3q — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
@@ -159,3 +166,27 @@ holds only while the features are fixed. When they adapt, a component's
 recovery against re-adapted residents can be negative ([CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md)).
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-22: the residual direction in a learning population
+
+In [LEAD-016](../leads.d/LEAD-016.md)'s reduced run of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)), the operators'
+learned parameter vectors play the part of features. At the snapshot,
+the rare specialist's squared distance d² from the span of the other
+operators' normalized vectors was measured.
+
+| condition | d² | recovery from 10⁻³ |
+|---|---|---|
+| no spare operator | 1.0 | positive, every seed |
+| two spares, multiplicative rule | 0.000 | about zero |
+| two spares, gating | 0.18 | negative |
+
+Under the multiplicative rule a spare had co-learned the specialist's job,
+with cosine 0.998. Under gating the spare learned it during the window.
+This fits the note of 2026-11-22's reading of [CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md): a
+component's own residual direction, not the spectrum as a whole, is what
+recovery tracks. Here it is observed in an adaptive population, not proved.
+
+The geometry at the snapshot did not predict the gating case. There the
+spare was still only partly aligned and became redundant during the test.
+What else must be fixed includes the learning that happens while the
+specialist is rare. The question is unchanged and stays Open.

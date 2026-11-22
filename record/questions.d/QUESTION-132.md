@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp0885h
 title: 'Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -39,6 +39,13 @@ history:
     CASE-tmp5sk3q. With residents frozen, recovery is assured under the
     theorem's conditions; against residents that re-adapt it can fail.
     The question is unchanged.
+- version: 7
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-016's run of CASE-117
+    (CASE-tmpnti0m); the recovery exponent at rarity under
+    softmax-gradient routing (CLAIM-tmp1u4m3); refill pre-empts
+    recovery (CLAIM-tmp1jz5w). The question is unchanged.
 tags:
 - complex-systems
 - ecology
@@ -60,6 +67,7 @@ summary: >-
   coexistence and exclusion. Heterogeneous embeddings, unequal routing
   weights or persistent expert identities do not answer it.
 ---
+<!-- inactive-ok-file: CASE-tmpnti0m CLAIM-tmp1u4m3 CLAIM-tmp1jz5w — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-tmp6kclm CLAIM-tmpdsv4t CASE-tmp5sk3q — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: CASE-tmpvn7wm CLAIM-tmpf11gs — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
@@ -369,5 +377,38 @@ is left to the owner ([CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md)).
 Not attempted: asymmetric interactions, delayed adaptation ([THEORY-548](../theory.d/THEORY-548.md)),
 influence-dependent training ([QUESTION-134](QUESTION-134.md)), invasion graphs with
 adaptive traits, and a trainable returning specialist.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-11-22: operators with functions, recovery when rare, and refill
+
+[LEAD-016](../leads.d/LEAD-016.md) ran a reduced version of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)). It used
+linear operators identical but for initialization, with four contexts, one
+rare. Every rule tried differentiated them into one specialist per context,
+the rare one included.
+
+- **The test from a small positive start.** Each specialist was frozen
+  and given share 10⁻³ or 10⁻⁵, with no further intervention. With no
+  spare operator, it recovered under a multiplicative contribution rule
+  at a rate that does not depend on its starting share. It also recovered
+  under ordinary mixture-of-experts gating, but at a rate proportional to
+  that share, and not from 10⁻⁵ within the window.
+- **A caution for this question's λ_i.** [CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md) derives the
+  proportionality. Under any softmax router trained by gradient, the
+  recovery exponent at rarity tends to a value that does not depend on
+  the operator's competence. A balancing loss in the gradient does not
+  change that.
+- **The second outcome, measured.** A usage bias, an imposed balancer
+  outside the gradient, raised an incompetent copy to 0.19 of the rare
+  context. The multiplicative rule drove it out.
+- **With two spare operators.** A spare refilled a removed specialist's
+  niche every time. It also took the niche of a suppressed specialist,
+  which then stayed shut out with its competence intact ([CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)).
+  The rare specialist's recovery was near zero where a spare had
+  co-learned its job (residual direction d² ≈ 0).
+
+[CLAIM-tmpf11gs](../claims.d/CLAIM-tmpf11gs.md)'s two readings return here, now with a functional niche. The
+role is regenerated, but its particular holder is not kept. [CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)
+files the same two readings for the owner.
 
 The question is unchanged and stays Open.

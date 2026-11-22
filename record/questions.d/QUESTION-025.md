@@ -19,6 +19,7 @@ summary: >-
   directions survive that structure is not answered by anything the
   record holds.
 ---
+<!-- inactive-ok-file: CLAIM-tmpe87cm CASE-tmpby7xp — new, filed today by LEAD-147 -->
 <!-- inactive-ok-file: THEORY-201 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-188 — Proposed; cited as partial evidence toward an answer, not as settled -->
 <!-- inactive-ok-file: THEORY-183 CLAIM-119 LIT-267 — Proposed; cited as the open accounts this question joins -->
@@ -184,3 +185,23 @@ The question stays Open.
 ## Note of 2026-10-12: two prose citations typed
 
 [THEORY-196](../theory.d/THEORY-196.md) and [THEORY-189](../theory.d/THEORY-189.md), which this question's body already cites, now carry `answered_by` edges. [THEORY-196](../theory.d/THEORY-196.md) answers the branch on which hierarchy may live in distances rather than directions: a hyperbolic tree embedding is cheap for shallow, bushy trees and costs bits linear in depth. [THEORY-189](../theory.d/THEORY-189.md) answers the lattice half. Entailment cones encode a partial order, but the overlap of two cones is not a cone, so there are no meets or joins. Neither bears on linear directions.
+
+## Note of 2026-11-22: a derivation, and a first measurement
+
+[LEAD-147](../leads.d/LEAD-147.md) filed both limbs. The derivation, [CLAIM-tmpe87cm](../claims.d/CLAIM-tmpe87cm.md), keeps
+multiplicative co-occurrence and allows any implication order among the
+attributes. Every attribute is then still an exact affine readout of the
+full-rank PMI embedding, and the recovered incidence and its concept
+lattice equal the generating ones. So the first step of [LIT-267](../literature.d/LIT-267.md) survives
+implication at full rank. On a balanced tree, the PMI eigenvectors are
+branch contrasts, the tree wavelets of [THEORY-186](../theory.d/THEORY-186.md). Their eigenvalues fall
+strictly with depth for any positive strengths. A truncated embedding
+therefore reads out exactly the attributes above a depth cut and merges
+siblings below it, so the lattice it carries is the hierarchy cut at that
+depth. Along a tree, additivity says no more than that words in the same
+finest group share a PMI row; it constrains the PMI only where attributes
+cross-cut.
+
+The measurement is [CASE-tmpby7xp](../cases.d/CASE-tmpby7xp.md), on text8 with WordNet 3.0 hypernymy.
+Its hierarchy results are in that case. It uses no annotation by a
+language model, which answers [NOTE-240](../notes.d/NOTE-240.md)'s first objection for this test.

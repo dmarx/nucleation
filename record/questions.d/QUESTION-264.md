@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmppa8l7
 title: 'Under what conditions do the organization that determines what counts as meaningful, the organization that determines what becomes effective in action, and the organization that reproduces either one through time coincide, diverge, and reorganize one another?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -13,6 +13,11 @@ history:
     CLAIM-427 is Superseded by ARG-025, which holds it. Reported by
     the synthesis review of 2026-11-11 (seventh round). No other
     change.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    A dated note added: LEAD-077's run of CASE-158's design. The entry
+    is otherwise unchanged.
 tags:
 - social-ontology
 - individuation
@@ -72,3 +77,15 @@ that an account treating the three processes separately does not.
 A redescription of a case in which the boundaries differ. A3: "bringing
 these dimensions together does not yet establish that the integration is
 explanatorily necessary."
+
+## Note of 2026-11-22: what counts and what becomes effective, in a denoiser run
+
+<!-- inactive-ok-file: CASE-tmpkghqb — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+
+In [LEAD-077](../leads.d/LEAD-077.md)'s run ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)), the arm with incommensurable scores
+separates what counts (the units in which each specialist is scored) from
+what becomes effective (whose proposal is used). A router that took the
+units at face value chose by unit and lost 12 of 12; scoring each member
+against its own history realigned the two, whichever mechanism carried
+it. A small instance of the two coming apart and being realigned by a
+change in evaluation, not in authority. The question is unchanged.

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp6neu8
 title: 'What is the time-lagged form of the block criterion, for a collective whose members are weakly coupled at every instant but strongly connected through time-respecting paths of transmission, across generations and through stored artifacts?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -13,6 +13,12 @@ history:
     (CLAIM-157's time-lagged block test) from the side of reduced
     dynamics. Reported by the synthesis review of 2026-11-11
     (seventh round). No other change.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: a lagged, priced block test built and run
+    on CASE-101's populations (CASE-tmprsqvj, CLAIM-tmp2jbb1, LEAD-026).
+    The question is unchanged.
 tags:
 - individuation
 - network-science
@@ -30,6 +36,7 @@ summary: >-
   networks or lagged dynamics that finds such a collective and still
   rejects mere common input.
 ---
+<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # QUESTION-116: What is the time-lagged form of the block criterion, for a collective whose members are weakly coupled at every instant but strongly connected through time-respecting paths of transmission, across generations and through stored artifacts?
 
@@ -74,3 +81,32 @@ variables, and whether a level whose history does the predicting is
 still a level. It cites [CLAIM-157](../claims.d/CLAIM-157.md)'s missing time-lagged block test, which
 is this question. Neither is a part of the other, so they are not
 related by `refines`.
+
+## Note of 2026-11-22: a lagged block test, run on [CASE-101](../cases.d/CASE-101.md)'s populations
+
+[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) builds one candidate form of the criterion this question asks
+for, and runs it on [CASE-101](../cases.d/CASE-101.md)'s populations ([LEAD-026](../leads.d/LEAD-026.md)). The test:
+
+- fits a linear autoregression of window W over the observed variables;
+- prices every group of couplings by [CLAIM-154](../claims.d/CLAIM-154.md)'s rule, with an Occam cost
+  of ln n per coefficient;
+- passes a candidate when every cut inside it is kept and its edge is
+  pruned.
+
+[CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md) states the result.
+
+- **It finds the collective this question describes.** The members of the
+  transmitting population have no synchronous coupling, only coupling at a
+  lag of eight steps. They pass as a block, and the block's support peaks
+  at W = 8, which says over what window.
+- **It rejects common input only while the input is observed.** The
+  commonly driven members fail alone and pass joined to their driver. With
+  the driver unobserved they pass alone.
+- **A one-step model is not blind to the lag.** Fitted to data, it sees the
+  transmission through the members' own persistence. The window decides
+  where the support peaks, not whether the block is seen.
+
+The answer this question asks for must reject common input. This test does
+so only relative to an observed set that contains the input. Whether that
+counts as an answer for the model is the owner's call. The question is
+unchanged and stays Open.

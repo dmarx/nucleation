@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpjwshe
 title: 'Can a population of operators whose demands are jointly infeasible under one functional organization develop a differentiated or compositional repertoire that makes them jointly feasible, without suppressing, weakening or deleting any of those demands?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-22'
@@ -12,6 +12,11 @@ history:
     Note of 2026-11-22 added: LEAD-049's restricted theorem
     (CLAIM-tmp6kclm) read in the persistence-demand sense of CLAIM-554,
     with its limit (CLAIM-tmpdsv4t). The question is unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-016's run (CASE-tmpnti0m) did not
+    measure the compatibility complex. The question is unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -31,6 +36,7 @@ summary: >-
   complex. Apparent relief that comes only from removing a demand or
   redefining success does not count.
 ---
+<!-- inactive-ok-file: CASE-tmpnti0m — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-tmp6kclm CLAIM-tmpdsv4t CASE-tmp5sk3q — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 
 # QUESTION-133: Can a population of operators whose demands are jointly infeasible under one functional organization develop a differentiated or compositional repertoire that makes them jointly feasible, without suppressing, weakening or deleting any of those demands?
@@ -118,5 +124,19 @@ question's own terms is the owner's call. And joint feasibility is not
 kept against re-adaptation. In [CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md)'s instance, losing one
 specialist can tip the system into a lone generalist against which the
 lost demand cannot be met again.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-11-22: not reached by [LEAD-016](../leads.d/LEAD-016.md)'s run
+
+[LEAD-016](../leads.d/LEAD-016.md) lists this question. Its reduced run of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)) has
+four contexts with orthogonal linear targets, which one operator cannot
+meet together. Differentiation into one specialist per context makes the
+four demands jointly met: held-out risk fell from 0.68–1.28 under equal
+shares to 0.010. This is only the persistence-free version of [CASE-115](../cases.d/CASE-115.md)'s
+construction. The demands' acceptance sets were not fixed and checked as
+[CLAIM-347](../claims.d/CLAIM-347.md) requires, and the complex was not computed. Nothing here tests
+the note of 2026-11-03's hypothesis that recurrent frustration drives the
+split.
 
 The question is unchanged and stays Open.
