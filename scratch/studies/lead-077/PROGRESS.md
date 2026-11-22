@@ -14,7 +14,31 @@
 
 ## Done
 
+- Read the lead, CASE-158, QUESTION-271, CLAIM-467 and the other advanced
+  entries' summaries; docs/record.md's CASE fields.
+- model.py, study.py, analyze.py, test_model.py (9 tests pass), README.md.
+- Grid launched 13:02 UTC: 7 arms x 3 gate temperatures x 12 seeds, one
+  JSONL line per (arm, tau, seed) in results/runs.jsonl; resumable.
+
+## Choices made
+
+- Router = per-specialist linear score predictor (ridge, forgetting 0.7) on
+  region id + each specialist's captured energy of the noisy patch; gate
+  softmax(-predicted score). Same audit records, same delay (next episode),
+  same probe count (cost) as governance.
+- Gate temperature swept for both (0.03, 0.1, 0.3) so neither is compared
+  at a setting tuned for the other; also each at its best pre-reversal tau.
+- Cycles arm: duel-only audits on an environment whose pairwise wins cycle
+  (tested). Scale arm: governance standardizes each member against its own
+  history; controls governance_raw and router_std. Bandit: one specialist
+  audited per probe, drawn from the allocator's own allocation; _explore
+  variants with a 10% audit floor. Capture: 50% and 80% of probe slots
+  curated by the incumbent (filtered from 16, entered twice).
+- Not run: CASE-158's grant-reset counterfactual (out of the core arms).
+
 ## Next
 
-- Read the advanced entries and docs/record.md
-- Write the simulator, tests, runner (append-only JSONL, resumable)
+- Finish the grid, analyze, commit results.
+- File CASE (executed-study), CLAIM if warranted, dated notes on CASE-158,
+  QUESTION-271, CLAIM-467, QUESTION-264, QUESTION-089, CLAIM-277, CLAIM-342,
+  CLAIM-286, LEAD-077; changelog fragment.
