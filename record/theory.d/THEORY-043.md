@@ -412,15 +412,15 @@ test (i) an architectural one, applied to a bodily subsystem.
 ## Note of 2026-11-22: the degree, computed for one measure
 
 The promote_when asks for an architectural measure "actually computed for
-both models rather than asserted for one". CASE-tmp5fglr computes one,
+both models rather than asserted for one". [CASE-tmp5fglr](../cases.d/CASE-tmp5fglr.md) computes one,
 autoregressive integrated information with IIT's exclusion rule, by one
 procedure for a linear modular mind and a group of three such minds
-(LEAD-063). It does not put them on different sides as such: in both, the
+([LEAD-063](../leads.d/LEAD-063.md)). It does not put them on different sides as such: in both, the
 whole is the subject only when coupling across its seams outweighs its
 parts' own integration, so it separates "by degree", as "The two ways to
 refuse the upward move" says it would have to, and a loosely coupled
 modular mind is denied unity as a group is. One link can flip the verdict,
 in the manner of Schwitzgebel's single ballot. This is evidence for the
 account's cost of the architectural route, for one measure in linear
-models, and not the criterion that would refute it (CLAIM-tmpfoatc). No
+models, and not the criterion that would refute it ([CLAIM-tmpfoatc](../claims.d/CLAIM-tmpfoatc.md)). No
 status, title or promote_when changes.

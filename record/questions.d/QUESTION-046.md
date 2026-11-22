@@ -99,10 +99,10 @@ Other held entries it bears on (found on recheck):
 
 ## Note of 2026-11-22: one measure and one anti-nesting rule, computed for both models
 
-LEAD-063 was carried out for one measure: autoregressive integrated
+[LEAD-063](../leads.d/LEAD-063.md) was carried out for one measure: autoregressive integrated
 information (Phi_AR) with IIT's exclusion rule, applied by one procedure to a
 linear model of a modular mind (three modules of three units) and to a group
-of three such minds (CASE-tmp5fglr; code and results under
+of three such minds ([CASE-tmp5fglr](../cases.d/CASE-tmp5fglr.md); code and results under
 scratch/studies/lead-063/). In both, the whole is the subject only once
 coupling across its seams passes a threshold, and its parts are excluded
 when it is; below, the parts are the subjects. The group's threshold is
@@ -114,7 +114,7 @@ So for this measure the "same procedure" half of what would answer is met,
 and the "different sides" half is not: the rule separates tightly from
 loosely coupled wholes, by degree, and where a real mind and a real group
 fall is an empirical matter of their seams' coupling, which the record does
-not hold. CLAIM-tmpfoatc states this. The question stays Open: other
+not hold. [CLAIM-tmpfoatc](../claims.d/CLAIM-tmpfoatc.md) states this. The question stays Open: other
 measures (IIT's own Phi, a cluster index, a workspace criterion) and an
 anti-nesting rule justified otherwise are untried. No status, title or
 warrant changes.

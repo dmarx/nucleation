@@ -44,11 +44,11 @@ Done by a delegated lead worker on branch
 claude/lead-063-integration-measure. Measure and rule chosen as the simplest
 that answer: autoregressive integrated information (Phi_AR, Barrett and
 Seth 2011), exact for linear Gaussian networks, with IIT's exclusion rule,
-the anti-nesting rule THEORY-043 names. Models: a modular mind of three
+the anti-nesting rule [THEORY-043](../theory.d/THEORY-043.md) names. Models: a modular mind of three
 modules of three units, and a group of three such minds built the same way
 one level up, so one procedure and one parameter (coupling and bandwidth
-across the seams between parts) cover both. Filed as CASE-tmp5fglr, with
-CLAIM-tmpfoatc and a dated note on QUESTION-046; code, 15 tests, results and
+across the seams between parts) cover both. Filed as [CASE-tmp5fglr](../cases.d/CASE-tmp5fglr.md), with
+[CLAIM-tmpfoatc](../claims.d/CLAIM-tmpfoatc.md) and a dated note on [QUESTION-046](../questions.d/QUESTION-046.md); code, 15 tests, results and
 a rerun recipe under scratch/studies/lead-063/.
 
 Verdicts: in both models the whole is the subject only above a threshold
