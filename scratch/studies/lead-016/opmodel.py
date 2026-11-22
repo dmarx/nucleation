@@ -79,6 +79,7 @@ class State:
     clamp: np.ndarray          # (C, K)
     t: int = 0
     exposure_acc: np.ndarray = field(default=None)  # (C, K) accumulated
+    n_ctx: np.ndarray = field(default=None)         # (C,) samples seen
 
     def copy(self) -> "State":
         return copy.deepcopy(self)
@@ -100,6 +101,7 @@ def init_state(cfg: Config, rng: np.random.Generator) -> State:
         dec=np.full((C, K), np.nan),
         clamp=np.full((C, K), np.nan),
         exposure_acc=np.zeros((C, K)),
+        n_ctx=np.zeros(C),
     )
 
 
@@ -194,6 +196,7 @@ def step(cfg: Config, st: State, beta: np.ndarray, rng: np.random.Generator,
     expo = np.where(np.isfinite(dec), dec, expo)
     expo = np.where(alive, expo, 0.0)
     np.add.at(st.exposure_acc, c, expo)
+    np.add.at(st.n_ctx, c, 1)
     grad = -(expo * err).T @ X                  # (K, d) ascent on -loss
     upd = ~st.frozen & st.alive
     st.theta[upd] += cfg.lr * grad[upd]
