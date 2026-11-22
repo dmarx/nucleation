@@ -91,3 +91,8 @@ the sheaves they are about.
 - That every such failure reveals a hidden capacity. A's guard: "inconsistency
   can also come from modeling errors or an incorrect assumption that two
   observations belong to the same system" ([QUESTION-437](../questions.d/QUESTION-437.md)).
+
+## Note of 2026-11-22: Schultz, Spivak and Vasilakopoulou, skimmed
+<!-- inactive-ok-file: THEORY-tmp1ncgo NOTE-tmp1hzsa — Proposed and Skimmed; filed by LEAD-023 -->
+
+A parallel from Schultz, Spivak and Vasilakopoulou (THEORY-tmp1ncgo; NOTE-tmp1hzsa). They make behaviour contracts sub-presheaves, not sheaves, because a contract with historical context validates pieces whose concatenation it rejects: "any section of length 4 is valid, but some sections of length 8 are not so the gluing of two valid sections is not always valid" (§4.5, footnote 8). This claim gets the same failure of gluing from forgetting a hidden mechanism; theirs comes from a validity condition that looks back in time. Both fit the claim's point that a gluing failure need not show a local disagreement. An analogy, so no edge is written; no status change.

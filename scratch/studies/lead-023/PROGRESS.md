@@ -32,11 +32,11 @@ any of the 15 LITs; none is already read.
 - LIT-2249 Stewart: NOTE-tmp14xdi, THEORY-tmp3va8j; notes on QUESTION-147, THEORY-1065.
 - LIT-2232 Dörfler & Bullo (Skimmed): NOTE-tmpk7qnh, THEORY-tmp94s79 (corroborates CLAIM-tmp7vutq); note on QUESTION-147; CLAIM-tmp7vutq body updated.
 - LIT-2265 Pecora & Carroll: Unavailable (no lawful copy; 1997 Chaos tutorial named as a possible stand-in, not read).
+- LIT-2258 Schultz et al. 2016 (Skimmed): NOTE-tmp1hzsa, THEORY-tmp1ncgo; notes on QUESTION-379, CLAIM-623 (QUESTION-143 note pending, to cover both Schultz works).
 
 ## Next (order chosen by what the claims most need)
 
 
-LIT-2258 Schultz 2016;
 LIT-2238 Bumpus; LIT-2262 Leal; LIT-2259 Bosca; LIT-2235 Schultz & Spivak;
 LIT-2239 Battiston; dated note on LEAD-023.
 
