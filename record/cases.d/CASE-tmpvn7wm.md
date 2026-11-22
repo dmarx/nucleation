@@ -27,9 +27,9 @@ illustrates:
 line:
 - distributed-agency
 summary: >-
-  LEAD-065 asked whether QUESTION-132's candidate case, Ito and Kaneko's
+  [LEAD-065](../leads.d/LEAD-065.md) asked whether [QUESTION-132](../questions.d/QUESTION-132.md)'s candidate case, Ito and Kaneko's
   network of identical logistic maps with normalized, similarity-reinforced
-  weights (LIT-1842, NOTE-1414), refills its core when core units are
+  weights ([LIT-1842](../literature.d/LIT-1842.md), [NOTE-1414](../notes.d/NOTE-1414.md)), refills its core when core units are
   removed. The model was reimplemented at the paper's parameters (N = 100,
   a = 3.97, c = 0.12, δ = 0.1) and grown for 3 × 10⁶ steps in 12 seeds. It
   reproduces a core of 15.6 ± 1.2 units by the paper's snapshot criterion,
@@ -52,11 +52,11 @@ summary: >-
 
 ## What was done
 
-LEAD-065 asks for Ito and Kaneko's network to be reimplemented, its
+[LEAD-065](../leads.d/LEAD-065.md) asks for Ito and Kaneko's network to be reimplemented, its
 core units removed, and a check of whether peripheral units move into the
-core. NOTE-1414 and QUESTION-132's note of 2026-10-29 both name the test.
+core. [NOTE-1414](../notes.d/NOTE-1414.md) and [QUESTION-132](../questions.d/QUESTION-132.md)'s note of 2026-10-29 both name the test.
 
-**The model.** This is eqs. (1)–(2) of LIT-1842, as NOTE-1414 gives
+**The model.** This is eqs. (1)–(2) of [LIT-1842](../literature.d/LIT-1842.md), as [NOTE-1414](../notes.d/NOTE-1414.md) gives
 them. They were checked against arXiv's v1
 (https://arxiv.org/pdf/cond-mat/0108408v1, fetched 2026-11-22).
 
@@ -93,7 +93,7 @@ state, five arms ran for 10⁶ steps:
 - **remove_half_core**: a random half of the core deleted.
 - **suppress_core**: every weight given to a core unit multiplied by
   ε = 10⁻³ and the rows renormalized. Removing a unit is not the recovery
-  test QUESTION-132 asks for, because zero is absorbing. This arm is that
+  test [QUESTION-132](../questions.d/QUESTION-132.md) asks for, because zero is absorbing. This arm is that
   test: the units remain, with small positive influence and no further
   intervention.
 
@@ -149,11 +149,11 @@ steps. The full time course at 6 × 10⁴, 2 × 10⁵, 5 × 10⁵ and 10⁶ step
 
 ## What it can show
 
-The core-periphery split of LIT-1842 is a regime of the dynamics, not
+The core-periphery split of [LIT-1842](../literature.d/LIT-1842.md) is a regime of the dynamics, not
 a frozen arrangement of particular units. Remove its holders and others
-take the role. Make its holders rare and they regain it. By LEAD-065's
+take the role. Make its holders rare and they regain it. By [LEAD-065](../leads.d/LEAD-065.md)'s
 own criterion this classes the system as one whose differentiation
-recovers. NOTE-1414's reading, that "The split looks like the question's third
+recovers. [NOTE-1414](../notes.d/NOTE-1414.md)'s reading, that "The split looks like the question's third
 outcome, entrenched asymmetry" because "membership is absorbing", holds for who stays in
 the core while nothing is disturbed. It does not hold for whether the
 asymmetry depends on its first holders.
@@ -165,15 +165,15 @@ asymmetry depends on its first holders.
   Other points in the desynchronized phase are not tested.
 - **The recovering thing.** What recovers here is a role: some 15 to 18
   units holding attention. It is not a specialist with a niche.
-  QUESTION-132's first outcome asks that each functionally distinct
+  [QUESTION-132](../questions.d/QUESTION-132.md)'s first outcome asks that each functionally distinct
   specialist recover when rare. This model has no function, accuracy or
   context for its units to specialize in, and its periphery units are
   interchangeable. Whether a role refilled by interchangeable units counts
   as stabilizing coexistence, or is a fourth thing, is taken up in
-  CLAIM-tmpf11gs and is the owner's to settle.
+  [CLAIM-tmpf11gs](../claims.d/CLAIM-tmpf11gs.md) and is the owner's to settle.
 - **Periphery rarity.** The recovery of a periphery unit made rare was not
   tested.
-- **Parameters during recovery.** In QUESTION-132's terms, the units' rule is
+- **Parameters during recovery.** In [QUESTION-132](../questions.d/QUESTION-132.md)'s terms, the units' rule is
   fixed and only the weights and states adapt during recovery. A unit has
   no other parameters, so the frozen-versus-trainable distinction does not
   arise.

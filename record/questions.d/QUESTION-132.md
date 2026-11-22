@@ -286,8 +286,8 @@ An analogy only ([NOTE-2164](../notes.d/NOTE-2164.md)): Hessel, Tan and Lee's "c
 
 ## Note of 2026-11-22: the candidate case tested
 
-The note of 2026-10-29 left Ito and Kaneko (LIT-1842) as a candidate
-case and named a cheap test, which LEAD-065 has now run (CASE-tmpvn7wm,
+The note of 2026-10-29 left Ito and Kaneko ([LIT-1842](../literature.d/LIT-1842.md)) as a candidate
+case and named a cheap test, which [LEAD-065](../leads.d/LEAD-065.md) has now run ([CASE-tmpvn7wm](../cases.d/CASE-tmpvn7wm.md),
 12 seeds at the paper's parameter point).
 
 - Delete the whole core, and former periphery units form a new one of
@@ -297,7 +297,7 @@ case and named a cheap test, which LEAD-065 has now run (CASE-tmpvn7wm,
   own members regain it.
 
 So the asymmetry is not held by its first holders' early advantage.
-CLAIM-tmpf11gs files two readings for the owner. In one, this is the first
+[CLAIM-tmpf11gs](../claims.d/CLAIM-tmpf11gs.md) files two readings for the owner. In one, this is the first
 outcome at the level of roles. In the other, it is a fourth outcome the
 question does not name: a differentiation that regenerates around
 interchangeable holders, with no niche for any particular specialist. The

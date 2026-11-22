@@ -225,9 +225,9 @@ it.
 
 ## Note of 2026-11-22: a role refilled by other units
 
-NOTE-1414 offered Ito and Kaneko's core and periphery as a small case for
+[NOTE-1414](../notes.d/NOTE-1414.md) offered Ito and Kaneko's core and periphery as a small case for
 this claim. It added that "the regime does not dissolve once formed,
-which the claim's word 'regime' may not intend." CASE-tmpvn7wm tested
+which the claim's word 'regime' may not intend." [CASE-tmpvn7wm](../cases.d/CASE-tmpvn7wm.md) tested
 this by removing the core. Former periphery units fall into the core role
 and re-form it at its size and structure, so the role is a regime units
 fall into, not a kind of unit. This is one model at one parameter point,

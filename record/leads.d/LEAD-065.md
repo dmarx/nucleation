@@ -53,11 +53,11 @@ arrangement.
 
 ## Note of 2026-11-22: run
 
-The model was reimplemented from NOTE-1414's equations, checked against
+The model was reimplemented from [NOTE-1414](../notes.d/NOTE-1414.md)'s equations, checked against
 arXiv's v1. The removal study was run on 12 seeds at the paper's
 parameter point, with code, tests and results under
-`scratch/studies/lead-065/`. It is filed as CASE-tmpvn7wm, with the claim
-CLAIM-tmpf11gs.
+`scratch/studies/lead-065/`. It is filed as [CASE-tmpvn7wm](../cases.d/CASE-tmpvn7wm.md), with the claim
+[CLAIM-tmpf11gs](../claims.d/CLAIM-tmpf11gs.md).
 
 The periphery refills the core in every seed. With the core deleted, a
 new core of 17.2 ± 0.8 units forms from former periphery units within
@@ -69,7 +69,7 @@ core 10⁶ steps later.
 
 By this lead's criterion, the system is one whose differentiation
 recovers when rare, not a frozen arrangement. The claim files two
-readings of what that means for QUESTION-132, for the owner to choose
+readings of what that means for [QUESTION-132](../questions.d/QUESTION-132.md), for the owner to choose
 between: the first outcome at the level of roles, or a fourth outcome,
 role regeneration by interchangeable holders.
 
