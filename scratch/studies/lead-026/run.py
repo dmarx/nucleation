@@ -120,8 +120,12 @@ def main():
             emit(dict(arm=arm, item="profile", lags=LAGS, rows=prof))
         if (arm, "ahat") not in seen:
             t0 = time.time()
-            rng = np.random.default_rng(SEEDS[arm] + 1000)
-            base = Sim(arm, par, R_INT, rng)
+            # the simulator's noise and the intervention values come from
+            # separate generators: a deep copy of the simulator copies its
+            # generator, so drawing the values from that same stream would
+            # correlate them with the next step's noise
+            base = Sim(arm, par, R_INT, np.random.default_rng(SEEDS[arm] + 1000))
+            rng = np.random.default_rng(SEEDS[arm] + 2000)
             for _ in range(BURN_INT):
                 base.step()
             Cpop = np.cov(base.x.T)
@@ -129,6 +133,7 @@ def main():
             for c in classes():
                 S = c["S"]
                 sim = copy.deepcopy(base)
+                sim.rng = np.random.default_rng([SEEDS[arm], 3000, len(rows)])
                 vals = rng.multivariate_normal(np.zeros(len(S)), Cpop[np.ix_(S, S)], size=R_INT)
                 sim.intervene(S, vals)
                 ah = {}
