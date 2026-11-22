@@ -113,3 +113,19 @@ def test_cue_reliance_separates_training_cues():
     p = lb.train(lb.init(16, 0), XA, yA, epochs=10)
     r = lb.cue_reliance(p, task)
     assert r["acc_A_only"] > 0.8 and r["acc_B_only"] < 0.4
+
+
+def test_full_group_search_removes_rescaled_twin_barrier():
+    task = lb.make_task(0)
+    X, y = lb.sample(task, 400, "both", 5)
+    p = lb.train(lb.init(4, 1), X, y, epochs=5)
+    r = np.random.default_rng(6)
+    q = lb.rescale(lb.permute(p, r.permutation(4), r.permutation(4)),
+                   np.exp(r.uniform(-1, 1, 4)), np.exp(r.uniform(-1, 1, 4)))
+    a, b = lb.full_group_search(p, q, X, y)
+    assert lb.barrier("linear", a, b, None, X, y)["loss_barrier"] < 1e-4
+
+
+def test_llfc_is_one_for_identical_nets(setup):
+    _, X, _, p = setup
+    assert np.allclose(lb.llfc_cos(p, p, X), 1.0)

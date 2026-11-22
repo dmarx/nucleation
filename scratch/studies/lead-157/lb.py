@@ -297,3 +297,42 @@ def cue_reliance(p, task, n=2000, seed=999):
     XA, yA = sample(task, n, "A", seed)
     XB, yB = sample(task, n, "B", seed + 1)
     return {"acc_A_only": 1 - loss_err(p, XA, yA)[1], "acc_B_only": 1 - loss_err(p, XB, yB)[1]}
+
+
+def _mid_loss(pa, pb, X, y):
+    return ce(forward([(a + b) / 2 for a, b in zip(pa, pb)], X), y)
+
+
+def full_group_search(pa, pb, X, y):
+    """Search the full ReLU-MLP group for the linear midpoint: exact best permutation
+    (brute force, on raw and on canonical weights), then per-unit positive rescaling
+    of pb optimised by L-BFGS from there. Small widths only. Returns (pa', pb')."""
+    from scipy.optimize import minimize
+    h = len(pa[1])
+    cands = []
+    for ea, eb in ((pa, pb), (canonical(pa), canonical(pb))):
+        q = brute_force_match(ea, eb, X, y)
+        f = lambda z, ea=ea, q=q: _mid_loss(ea, rescale(q, np.exp(z[:h]), np.exp(z[h:])), X, y)
+        res = minimize(f, np.zeros(2 * h), method="L-BFGS-B",
+                       bounds=[(-3, 3)] * (2 * h))
+        cands.append((res.fun, ea, rescale(q, np.exp(res.x[:h]), np.exp(res.x[h:]))))
+    best = min(cands, key=lambda c: c[0])
+    return best[1], best[2]
+
+
+def llfc_cos(pa, pb, X, t=0.5):
+    """Linear layerwise feature connectivity (THEORY-111's measure): mean cosine
+    between the path point's hidden features and the interpolation of the
+    endpoints' features, per hidden layer."""
+    pt = [(1 - t) * a + t * b for a, b in zip(pa, pb)]
+    _, (_, a1a, _, a2a) = forward(pa, X, keep=True)
+    _, (_, a1b, _, a2b) = forward(pb, X, keep=True)
+    _, (_, a1t, _, a2t) = forward(pt, X, keep=True)
+    out = []
+    for ha, hb, ht in ((a1a, a1b, a1t), (a2a, a2b, a2t)):
+        mix = (1 - t) * ha + t * hb
+        num = (mix * ht).sum(1)
+        den = np.linalg.norm(mix, axis=1) * np.linalg.norm(ht, axis=1)
+        ok = den > 1e-12
+        out.append(float(np.mean(num[ok] / den[ok])) if ok.any() else float("nan"))
+    return out
