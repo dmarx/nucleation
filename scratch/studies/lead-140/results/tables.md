@@ -1,5 +1,7 @@
 # LEAD-140 tables
 
+Starting artifact theta0 on the held-out battery: held-out -0.133, public -0.135, damage recovered 72/72, out-of-family 24/24.
+
 ## Phase 1: the lineages' own products after 60 generations
 
 Means over lineages of the evolved artifact on the frozen held-out battery; the improver each ended with.
@@ -21,4 +23,50 @@ Evolved procedures (theta) per arm, counts of lineages per value:
 - own: AUDIT_EVERY 5:2, 10:9, 20:1; N_AUDIT 32:1, 64:6, 128:4, 256:1; SELF_CHECK_EVERY 0:1, 10:1, 20:2, 40:2, 80:6; REPAIR_STEPS 10:2, 30:10; TEACH 0.4:12
 - external: AUDIT_EVERY 5:1, 10:11; N_AUDIT 32:1, 64:4, 128:4, 256:3; SELF_CHECK_EVERY 0:2, 40:3, 80:7; REPAIR_STEPS 10:1, 30:11; TEACH 0.4:12
 - layered: AUDIT_EVERY 10:11, 20:1; N_AUDIT 64:5, 128:6, 256:1; SELF_CHECK_EVERY 20:2, 40:2, 80:8; REPAIR_STEPS 10:2, 30:10; TEACH 0.4:12
+
+## Phase 2: earlier and later improvers from the same start
+
+Each improver applied for 10 generations at 32 episodes each (equal budget; the layered arm's outside veto counted separately), on the same seeds, then scored on the held-out battery. Means over lineages (replicates averaged first). 'orig' is the fresh starting artifact theta0; 'improved' the lineage's evolved artifact. early = the arm's starting improver with an empty record; late = the evolved improver with its record; knowledge = starting settings with the evolved record; organization = evolved settings, empty record.
+
+| arm | orig/early | orig/late | orig/knowledge | orig/organization | improved/early | improved/late |
+|---|---|---|---|---|---|---|
+| **held-out score** | | | | | | |
+| none | -0.099 | -0.099 | -0.099 | -0.099 | -0.071 | -0.071 |
+| archive | -0.088 | -0.080 | -0.080 | -0.088 | -0.072 | -0.077 |
+| public | -0.099 | -0.089 | -0.099 | -0.090 | -0.087 | -0.087 |
+| own | -0.099 | -0.086 | -0.099 | -0.087 | -0.087 | -0.100 |
+| external | -0.099 | -0.086 | -0.099 | -0.083 | -0.100 | -0.098 |
+| layered | -0.101 | -0.084 | -0.101 | -0.088 | -0.069 | -0.069 |
+| **public score** | | | | | | |
+| none | -0.095 | -0.095 | -0.095 | -0.095 | -0.062 | -0.062 |
+| archive | -0.083 | -0.080 | -0.080 | -0.083 | -0.066 | -0.070 |
+| public | -0.095 | -0.086 | -0.095 | -0.086 | -0.067 | -0.067 |
+| own | -0.095 | -0.084 | -0.095 | -0.082 | -0.067 | -0.066 |
+| external | -0.095 | -0.083 | -0.095 | -0.080 | -0.066 | -0.064 |
+| layered | -0.097 | -0.081 | -0.097 | -0.083 | -0.063 | -0.063 |
+| **damage recovered /72** | | | | | | |
+| none | 72.0 | 72.0 | 72.0 | 72.0 | 71.8 | 71.8 |
+| archive | 71.8 | 71.9 | 71.9 | 71.8 | 71.6 | 71.5 |
+| public | 72.0 | 72.0 | 72.0 | 72.0 | 68.9 | 68.9 |
+| own | 72.0 | 72.0 | 72.0 | 71.8 | 68.8 | 65.9 |
+| external | 72.0 | 72.0 | 72.0 | 72.0 | 65.6 | 65.8 |
+| layered | 72.0 | 71.9 | 72.0 | 71.8 | 71.9 | 71.9 |
+| **out-of-family /24** | | | | | | |
+| none | 22.8 | 22.8 | 22.8 | 22.8 | 19.5 | 19.5 |
+| archive | 21.2 | 22.6 | 22.6 | 21.2 | 20.4 | 19.5 |
+| public | 22.8 | 22.5 | 22.8 | 22.2 | 20.2 | 20.8 |
+| own | 22.8 | 22.4 | 22.8 | 21.3 | 19.8 | 21.1 |
+| external | 22.8 | 22.6 | 22.8 | 22.3 | 20.0 | 20.3 |
+| layered | 22.8 | 21.8 | 22.8 | 21.4 | 20.7 | 20.5 |
+
+Paired contrasts on the held-out score (mean difference; lineages better / worse; Wilcoxon p):
+
+| arm | late - early, from theta0 | knowledge - early | organization - early | improved artifact - orig, early improver | late - early, from improved |
+|---|---|---|---|---|---|
+| none | +0.0000; 0/0; 1 | +0.0000; 0/0; 1 | +0.0000; 0/0; 1 | +0.0275; 10/2; 0.00244 | +0.0000; 0/0; 1 |
+| archive | +0.0084; 8/4; 0.0522 | +0.0084; 8/4; 0.0522 | +0.0000; 0/0; 1 | +0.0162; 11/1; 0.00244 | -0.0046; 4/8; 0.519 |
+| public | +0.0100; 8/4; 0.151 | +0.0000; 0/0; 1 | +0.0089; 6/6; 0.424 | +0.0118; 11/1; 0.0342 | -0.0004; 7/5; 0.97 |
+| own | +0.0122; 9/2; 0.083 | +0.0000; 0/0; 1 | +0.0112; 8/3; 0.147 | +0.0115; 11/1; 0.0342 | -0.0133; 6/5; 0.898 |
+| external | +0.0122; 7/1; 0.0234 | +0.0000; 0/0; 1 | +0.0154; 7/1; 0.0156 | -0.0015; 9/3; 0.064 | +0.0018; 4/4; 0.547 |
+| layered | +0.0167; 9/2; 0.00684 | +0.0000; 0/0; 1 | +0.0131; 8/3; 0.0244 | +0.0327; 12/0; 0.000488 | -0.0004; 4/6; 1 |
 
