@@ -70,3 +70,14 @@ A discriminating prediction: a third system, Liquid Types, whose
 qualifiers are a finite set, should infer refinements without
 annotation over that set and need annotations only beyond it. An outcome
 in which it needs annotations over its own qualifiers goes against this.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; the reading noted here -->
+
+The discriminating prediction is met. Liquid types infer refinements over
+the finite qualifier set Q with no annotation, the restriction to Q being
+what makes inference "efficiently decidable" ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md)). The
+failures the paper reports trace to the qualifiers chosen or to the
+conservative check, not to a need for annotation over Q. One system
+agrees; the claim stays Proposed. The note names the reading as evidence,
+so [THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md) gains a `corroborates` edge to this claim ([ADR-093](../decisions.d/ADR-093.md)).

@@ -19,6 +19,7 @@ source:
 - LIT-tmplw76n
 corroborates:
 - CLAIM-tmpnookt
+- CLAIM-tmpmp7w2
 summary: >-
   Rondon, Kawaguchi & Jhala (2008), [LIT-tmplw76n](../literature.d/LIT-tmplw76n.md), read in [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md) for
   [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). The predicate form of refinement types, made inferable by
