@@ -112,12 +112,12 @@ The claim is unchanged.
 ## Note of 2026-11-22: the transfer to agents, tested
 
 This claim left open whether its move transfers to agents: "treat the
-constraint set as something an organization decides and revises". LEAD-053
-tested that transfer on CASE-036 (CASE-tmp6mcpv). Taking the organization's
+constraint set as something an organization decides and revises". [LEAD-053](../leads.d/LEAD-053.md)
+tested that transfer on [CASE-036](../cases.d/CASE-036.md) ([CASE-tmp6mcpv](../cases.d/CASE-tmp6mcpv.md)). Taking the organization's
 own standard, its emergency criteria met, as K, every state of the
 lock-in's run meets it, so a stipulated K registers nothing: on Northstar
-it is the lock-in's own standard (TERM-020, step 4). For ARG-007's purpose
+it is the lock-in's own standard ([TERM-020](../terms.d/TERM-020.md), step 4). For [ARG-007](../arguments.d/ARG-007.md)'s purpose
 the transfer fails, and the rule proposed instead fixes K by production
-dependence (CLAIM-tmpke0ap). For an argument, where the record's grammar is
+dependence ([CLAIM-tmpke0ap](CLAIM-tmpke0ap.md)). For an argument, where the record's grammar is
 maintained from outside and nothing is locked in by it, this claim is
 untouched. No change.

@@ -42,24 +42,24 @@ A rule meets [ARG-007](../arguments.d/ARG-007.md)'s weakest step.
 
 Done, on the branch claude/lead-053-maintenance-rule:
 
-- **The rule**, CLAIM-tmpke0ap (Proposed): K holds the constraints that
+- **The rule**, [CLAIM-tmpke0ap](../claims.d/CLAIM-tmpke0ap.md) (Proposed): K holds the constraints that
   realize the named capacity and every constraint they depend on for their
-  production (TERM-070), each at the least level at which what depends on
+  production ([TERM-070](../terms.d/TERM-070.md)), each at the least level at which what depends on
   it is still produced, with a union over substitutable routes. Two
   thresholds are ruled out with reasons: the separatrix (K becomes its own
   kernel) and any positive level (never left by decay).
 - **The one choice it leaves**, the agent's boundary, filed as two
-  alternatives for the owner: narrow, CLAIM-tmpnhrot (an outside-produced
-  dependency is a condition), and wide, CLAIM-tmp8onwv (it is a member of
+  alternatives for the owner: narrow, [CLAIM-tmpnhrot](../claims.d/CLAIM-tmpnhrot.md) (an outside-produced
+  dependency is a condition), and wide, [CLAIM-tmp8onwv](../claims.d/CLAIM-tmp8onwv.md) (it is a member of
   K).
-- **The test**, CASE-tmp6mcpv (executed-study), on CASE-036 as a finite toy
-  with a computed viability kernel, and on CASE-111, CASE-112 and
-  CASE-227. On Northstar the operative trajectory leaves K while the
-  regime and its criteria hold; a stipulated K (CLAIM-195's route) sees
+- **The test**, [CASE-tmp6mcpv](../cases.d/CASE-tmp6mcpv.md) (executed-study), on [CASE-036](../cases.d/CASE-036.md) as a finite toy
+  with a computed viability kernel, and on [CASE-111](../cases.d/CASE-111.md), [CASE-112](../cases.d/CASE-112.md) and
+  [CASE-227](../cases.d/CASE-227.md). On Northstar the operative trajectory leaves K while the
+  regime and its criteria hold; a stipulated K ([CLAIM-195](../claims.d/CLAIM-195.md)'s route) sees
   nothing. Script and tests in scratch/studies/lead-053/.
 
 Remaining: the owner's choice between the two readings; and a test on a
-documented case whose dependencies are measured, not stated (CASE-135 or
-CASE-176 are candidates). ARG-007's "What would count" is met if the rule
+documented case whose dependencies are measured, not stated ([CASE-135](../cases.d/CASE-135.md) or
+[CASE-176](../cases.d/CASE-176.md) are candidates). [ARG-007](../arguments.d/ARG-007.md)'s "What would count" is met if the rule
 is adopted, up to the boundary choice. The status and stage are the
 owner's.

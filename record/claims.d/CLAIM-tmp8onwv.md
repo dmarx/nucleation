@@ -23,8 +23,8 @@ rests_on:
 grounds:
 - CASE-tmp6mcpv
 summary: >-
-  The other reading of the one choice the dependence rule (CLAIM-tmpke0ap)
-  leaves, beside CLAIM-tmpnhrot. Filed as alternatives under LEAD-053;
+  The other reading of the one choice the dependence rule ([CLAIM-tmpke0ap](CLAIM-tmpke0ap.md))
+  leaves, beside [CLAIM-tmpnhrot](CLAIM-tmpnhrot.md). Filed as alternatives under [LEAD-053](../leads.d/LEAD-053.md);
   which the will-organization line uses is the owner's call. Outside
   constraints the capacity depends on are members of K, with their own
   dynamics as state variables, and since the agent does not steer them
@@ -40,39 +40,39 @@ summary: >-
 
 ## The claim
 
-The dependence rule (CLAIM-tmpke0ap) leaves one choice: what to do with a
+The dependence rule ([CLAIM-tmpke0ap](CLAIM-tmpke0ap.md)) leaves one choice: what to do with a
 constraint on the capacity's dependence chain that the agent does not
 produce. On this reading it is a member of K like any other. Its level is
 set the same way, by what depends on it, and its dynamics enter the state.
 Because the agent does not steer it, the kernel is the set of states from
 which, whatever the outside constraint does within its range, some choice
 of the agent's keeps the state in K: viability for the agent's controls,
-invariance for the outside ones (THEORY-134's distinction between some
+invariance for the outside ones ([THEORY-134](../theory.d/THEORY-134.md)'s distinction between some
 evolution and every evolution).
 
-Three consequences, from CASE-tmp6mcpv:
+Three consequences, from [CASE-tmp6mcpv](../cases.d/CASE-tmp6mcpv.md):
 
-- **CLAIM-367's network.** The optimizer, scheduler and training
+- **[CLAIM-367](CLAIM-367.md)'s network.** The optimizer, scheduler and training
   controller are members of K for the capacity to transform what becomes
   effective. The network holds that capacity through them, and it is
   precarious with the training process: it lasts as long as the trainer
-  keeps running and is lost when training stops. CLAIM-367, Proposed,
+  keeps running and is lost when training stops. [CLAIM-367](CLAIM-367.md), Proposed,
   says the governance belongs to "a larger system"; on this reading the
   network's K reaches into that system.
-- **CASE-227 with an outside supply.** The supply u is a member of K at
+- **[CASE-227](../cases.d/CASE-227.md) with an outside supply.** The supply u is a member of K at
   the level that stops c's decay (u ≥ 0.0176 at c = 0.6). The mode is
   the system's, and precarious exactly as the supply is.
 - **What it buys.** Dependence on a supply is reported as a property of
   the agent's capacity, not hidden in a fixed condition. That suits the
-  record's cases of capacity lost when support is withdrawn (CLAIM-463's
-  restoration, CASE-176's institute without staff or funds).
+  record's cases of capacity lost when support is withdrawn ([CLAIM-463](CLAIM-463.md)'s
+  restoration, [CASE-176](../cases.d/CASE-176.md)'s institute without staff or funds).
 
 ## What it does not say
 
 - That the agent controls what it depends on. The reading is built for the
   case where it does not.
 - That a system holding a capacity this way governs itself. Holding a
-  capacity through an outside supply is not owning it (TERM-023, "agent-
+  capacity through an outside supply is not owning it ([TERM-023](../terms.d/TERM-023.md), "agent-
   indexed").
-- That it is the right reading. CLAIM-tmpnhrot is the alternative, and the
+- That it is the right reading. [CLAIM-tmpnhrot](CLAIM-tmpnhrot.md) is the alternative, and the
   choice is the owner's.

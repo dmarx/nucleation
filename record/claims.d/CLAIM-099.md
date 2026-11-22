@@ -53,13 +53,13 @@ will-organization ([TERM-023](../terms.d/TERM-023.md)) ([CLAIM-022](CLAIM-022.md
 
 The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](../decisions.d/ADR-058.md)) moved [THEORY-153](../theory.d/THEORY-153.md) from `grounds` to `corroborated_by`. Beer's account is an outside echo of the claim, which [ARG-007](../arguments.d/ARG-007.md) (Active) concludes from [CLAIM-079](CLAIM-079.md) and [CLAIM-025](CLAIM-025.md).
 
-## Note of 2026-11-22: the constraint set chosen by rule, from LEAD-053
+## Note of 2026-11-22: the constraint set chosen by rule, from [LEAD-053](../leads.d/LEAD-053.md)
 
-ARG-007's weakest step, the choice of K, now has a proposed rule,
-CLAIM-tmpke0ap (Proposed): K is fixed by the production dependencies of the
+[ARG-007](../arguments.d/ARG-007.md)'s weakest step, the choice of K, now has a proposed rule,
+[CLAIM-tmpke0ap](CLAIM-tmpke0ap.md) (Proposed): K is fixed by the production dependencies of the
 constraints that realize the capacity to govern among regimes, each at the
-level its dependents need. Tested on CASE-036 in CASE-tmp6mcpv, it gives
+level its dependents need. Tested on [CASE-036](../cases.d/CASE-036.md) in [CASE-tmp6mcpv](../cases.d/CASE-tmp6mcpv.md), it gives
 this claim's separation, the regime of effective action kept while the
 capacity is lost, with K read off the case and not chosen. What the rule
 leaves is the agent's boundary, filed as two readings for the owner,
-CLAIM-tmpnhrot and CLAIM-tmp8onwv. The claim is unchanged.
+[CLAIM-tmpnhrot](CLAIM-tmpnhrot.md) and [CLAIM-tmp8onwv](CLAIM-tmp8onwv.md). The claim is unchanged.

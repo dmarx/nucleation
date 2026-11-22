@@ -21,17 +21,17 @@ line:
 bears_on:
 - QUESTION-128
 summary: >-
-  LEAD-053 asks for a rule choosing ARG-007's maintenance constraints and a
-  test on the record's cases. The rule, CLAIM-tmpke0ap, is applied to
-  CASE-036 (ARG-007's ground) as a finite toy with a computed viability
-  kernel, and analytically to CASE-111, CASE-112 and CASE-227. On
+  [LEAD-053](../leads.d/LEAD-053.md) asks for a rule choosing [ARG-007](../arguments.d/ARG-007.md)'s maintenance constraints and a
+  test on the record's cases. The rule, [CLAIM-tmpke0ap](../claims.d/CLAIM-tmpke0ap.md), is applied to
+  [CASE-036](CASE-036.md) ([ARG-007](../arguments.d/ARG-007.md)'s ground) as a finite toy with a computed viability
+  kernel, and analytically to [CASE-111](CASE-111.md), [CASE-112](CASE-112.md) and [CASE-227](CASE-227.md). On
   Northstar the organization leaves K at the second step while the
   emergency and its criteria hold throughout; with maintenance not
   deferred it keeps K and lifts the emergency; the organization's own
   standard as K registers nothing. On the formal cases K is set by what
   the capacity maintains and the kernel by its own dynamics, so the two
-  stay apart. The boundary choice parts the readings CLAIM-tmpnhrot and
-  CLAIM-tmp8onwv on CLAIM-367's network and CASE-227's outside supply. The
+  stay apart. The boundary choice parts the readings [CLAIM-tmpnhrot](../claims.d/CLAIM-tmpnhrot.md) and
+  [CLAIM-tmp8onwv](../claims.d/CLAIM-tmp8onwv.md) on [CLAIM-367](../claims.d/CLAIM-367.md)'s network and [CASE-227](CASE-227.md)'s outside supply. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
@@ -42,18 +42,18 @@ summary: >-
 
 ## The study
 
-The rule under test is CLAIM-tmpke0ap: K holds the constraints that realize
+The rule under test is [CLAIM-tmpke0ap](../claims.d/CLAIM-tmpke0ap.md): K holds the constraints that realize
 the named capacity and every constraint they depend on for their
 production, each at the least level at which what depends on it is still
 produced, with a union over substitutable routes. The script is
 `scratch/studies/lead-053/maintenance_rule.py`, its tests (8, passing)
 `test_maintenance_rule.py`, its output `results.txt`; the README there
-says how to rerun. The lead names ARG-007 and its training note; the cases
-are those ARG-007 rests on (CASE-036, through CLAIM-025, which CASE-111 and
-CASE-112 ground) and CASE-227, which has the same separation with a
+says how to rerun. The lead names [ARG-007](../arguments.d/ARG-007.md) and its training note; the cases
+are those [ARG-007](../arguments.d/ARG-007.md) rests on ([CASE-036](CASE-036.md), through [CLAIM-025](../claims.d/CLAIM-025.md), which [CASE-111](CASE-111.md) and
+[CASE-112](CASE-112.md) ground) and [CASE-227](CASE-227.md), which has the same separation with a
 maintained capacity.
 
-## CASE-036, Northstar
+## [CASE-036](CASE-036.md), Northstar
 
 A finite toy stipulated for this test, since the case gives no dynamics.
 State (e, P, L): emergency on or off, maintenance practice P from 0 to 4,
@@ -84,7 +84,7 @@ it emits satisfy the emergency criteria").
 
 The operative regime and its governance hold at every step, and the
 capacity is lost at step 2 and never regained. At step 1 the lift was
-permitted and the cautious policy passed it up. That is ARG-007's
+permitted and the cautious policy passed it up. That is [ARG-007](../arguments.d/ARG-007.md)'s
 conclusion in a model where "precarious" is fixed by rule: effective action
 and the capacity to govern among regimes come apart.
 
@@ -95,15 +95,15 @@ and the capacity to govern among regimes come apart.
   state of K the lift is permitted. What the operative policy loses is K,
   not a margin inside it.
 - **The stipulated rival.** Take as K the organization's own standard,
-  the criteria met (CLAIM-195's route, the system fixing its own K,
+  the criteria met ([CLAIM-195](../claims.d/CLAIM-195.md)'s route, the system fixing its own K,
   carried to an agent). Every state of the run meets it, so its kernel
   holds the whole run, and the rival registers nothing. The criteria are
-  what keep the emergency in place (TERM-020, step 4: the effects "satisfy
+  what keep the emergency in place ([TERM-020](../terms.d/TERM-020.md), step 4: the effects "satisfy
   conditions that support continued activation"). A stipulated K is the
-  lock-in's own standard, and cannot do ARG-007's work. It is not filed as
+  lock-in's own standard, and cannot do [ARG-007](../arguments.d/ARG-007.md)'s work. It is not filed as
   a claim.
 
-## CASE-111, the fold
+## [CASE-111](CASE-111.md), the fold
 
 b is the maintaining activity and the capacity; μ the conditions. What b
 maintains, the boundary, is not modelled, so its functional level b_f is
@@ -119,7 +119,7 @@ The two thresholds the rule excludes fail here. At the separatrix, K =
 [b₋, ∞) and K is its own kernel, so nothing is ever precarious. At any
 positive level, K = {b > 0} is never left by the decay toward 0.
 
-## CASE-112, the tilt
+## [CASE-112](CASE-112.md), the tilt
 
 The capacity is revision: switching regime by the agent's own higher-order
 volition, bounded by |h| ≤ h_max. It is exercisable while h_c(μ) =
@@ -131,7 +131,7 @@ off what μ governs, the reach of h, which is step 3 of the rule. An
 entrenchment that raises μ past μ_c removes the capacity while both
 regimes stay stable.
 
-## CASE-227, the decaying capacity
+## [CASE-227](CASE-227.md), the decaying capacity
 
 The capacity c maintains the anti-phase mode, stable iff c > ½. So K =
 (½, ∞), a level set by the mode, not by c's dynamics. c's own production,
@@ -139,19 +139,19 @@ The capacity c maintains the anti-phase mode, stable iff c > ½. So K =
 1.55826, as the case has them. The case's c = 0.6 is in K and outside the
 kernel, and reaches ½ at t = 2.879/ε. This is the rule working as
 intended: K from what the capacity maintains, the kernel from the
-capacity's own dynamics, and the gap between them is CLAIM-079's.
+capacity's own dynamics, and the gap between them is [CLAIM-079](../claims.d/CLAIM-079.md)'s.
 
 ## Where the readings part
 
-The boundary choice the rule leaves (CLAIM-tmpnhrot narrow, CLAIM-tmp8onwv
-wide) makes no difference on CASE-036, CASE-112 or CASE-227 without
+The boundary choice the rule leaves ([CLAIM-tmpnhrot](../claims.d/CLAIM-tmpnhrot.md) narrow, [CLAIM-tmp8onwv](../claims.d/CLAIM-tmp8onwv.md)
+wide) makes no difference on [CASE-036](CASE-036.md), [CASE-112](CASE-112.md) or [CASE-227](CASE-227.md) without
 supply: every dependency there is the agent's own. It parts them on two:
 
-- **CASE-227 with an outside supply u** (A29 §10's arm "c kept by an
+- **[CASE-227](CASE-227.md) with an outside supply u** (A29 §10's arm "c kept by an
   outside controller"). u = 0.02 makes c = 0.6 grow (rate +0.0024).
   Narrow: u is a condition, K is unchanged, and the mode is viable under
   it. Wide: u is a member of K, and the capacity is precarious with u.
-- **CLAIM-367's network.** Narrow: the realizers of the capacity to
+- **[CLAIM-367](../claims.d/CLAIM-367.md)'s network.** Narrow: the realizers of the capacity to
   transform lie outside the network, so it has none to maintain. Wide: it
   holds that capacity through the training process, precariously.
 
@@ -160,7 +160,7 @@ supply: every dependency there is the agent's own. It parts them on two:
 - **That Northstar has these dynamics.** The toy is the test's
   stipulation; the case is fictional and states its mechanisms in words.
   The result is that the rule, given those mechanisms, fixes K and
-  delivers ARG-007's separation, not that any organization behaves so.
+  delivers [ARG-007](../arguments.d/ARG-007.md)'s separation, not that any organization behaves so.
 - **That dependencies are findable in practice.** In every case here they
   were given by the case's text or equation.
 - **Which boundary reading is right.** That is the owner's call.
