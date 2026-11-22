@@ -29,8 +29,7 @@ grounds:
 complements:
 - CLAIM-157
 ---
-<!-- inactive-ok-file: CASE-tmpoeu1o — new; the executed study this claim rests on, filed in the same contribution -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-164 THEORY-198 THEORY-205 — Proposed; the block criterion this claim bounds, its joint-mode unit, and the readings the study operationalizes -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this claim bounds, its joint-mode unit, and the readings the study operationalizes -->
 
 # CLAIM-tmpzdcl1: In a non-lattice coupled-agent system the variable most informative about the far environment across a buffer is generically not the gap-isolated block: it is a boundary mode and the block is the spread collective mode, and they coincide only under a homogeneous boundary or one-way drive
 

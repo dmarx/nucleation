@@ -16,8 +16,7 @@ bears_on:
 illustrates:
 - CLAIM-tmpzdcl1
 ---
-<!-- inactive-ok-file: CLAIM-tmpzdcl1 — new; the finding this study grounds, filed in the same contribution -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-164 THEORY-198 THEORY-205 — Proposed; the block criterion, the joint-mode unit and the readings this study operationalizes -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion, the joint-mode unit and the readings this study operationalizes -->
 
 # CASE-tmpoeu1o: Informative-across-buffer variable versus the gap-isolated block in a non-lattice coupled-agent system
 
