@@ -1,0 +1,209 @@
+code	priority	stage	method	verdict	cost	reason
+LEAD-001	-	idea	conceptual	FEASIBLE	S	Write the set of stipulated/real cases separating stored info, belief, correct output, knowledge, understanding; check against QUESTION-493's candidate answers; file as CASEs
+LEAD-003	-	specified	empirical,historical	PARTIAL	M	Can specify formation event, parent and a platform-growth control and survey lawful datasets; whether Reddit history is lawfully obtainable now (Pushshift-type dumps) is uncertain and may need the owner
+LEAD-004	-	idea	empirical	PARTIAL	M	A toy Bayesian/bandit learner with probe-selection policies after environment change is buildable in numpy; but it presupposes LEAD-006's setting, still idea
+LEAD-005	-	idea	formal	FEASIBLE	M	Pick an open no-feedback predictive-memory result (e.g. Still et al. 2012 thermodynamics of prediction, arXiv), reproduce in a small finite-state model, then add feedback and compare partitions
+LEAD-006	-	idea	reading,empirical	FEASIBLE	L	Reading done; build the gap design at toy scale (grokked vs shortcut learners on f=h(g) matched on stage-1 accuracy, transplant + random-subnetwork controls) with CPU torch from PyPI
+LEAD-007	-	idea	reading	FEASIBLE	S	Register and read Lippl & Lindsey 2024 (arXiv 2310.02396); check whether its regimes show same present capability with different later learning
+LEAD-010	-	specified	empirical	FEASIBLE	L	Pythia-70M-deduped checkpoints are reachable on HuggingFace; 24 CPU fine-tunes + calibration with torch-CPU is possible but slow (many hours); report censored runs
+LEAD-011	-	idea	formal,conceptual	FEASIBLE	S	State conditions (task distribution, costs, horizon, valuation) for a well-defined optimal learning policy and show which fail when learning changes the task distribution
+LEAD-012	-	specified	empirical	NOT	L	Tens to hundreds of 70M fine-tunes beyond CPU budget; presupposes LEAD-010's pilot
+LEAD-013	-	specified	empirical	NOT	L	Fine-tuning a text-to-image model on identities with repeated sampling needs GPU
+LEAD-014	high	specified	empirical	FEASIBLE	M	Replay past filings with delegated instances given source + record at that commit; score accountings against what was filed and later corrections (git history)
+LEAD-015	high	specified	formal	FEASIBLE	M	Derive the two-institution instability condition (linearize symmetric state); best after LEAD-090 writes the one-institution model
+LEAD-016	high	specified	empirical	FEASIBLE	L	Simulate CASE-117's adaptive-operator population with MoE-router baseline in numpy; recovery-when-rare, removal-refill, mechanism-swap at fixed diversity
+LEAD-017	medium	idea	formal,operationalization	FEASIBLE	M	Build A13's three organizations as simulations and a registration measure that does not read the setting
+LEAD-018	medium	idea	reading	FEASIBLE	S	Register and read a selection-based teleosemantic account from open copies (SEP entry; Millikan/Neander author copies); file as citation or objection
+LEAD-019	high	specified	empirical	NOT	L	Needs human receivers in CASE-055; presupposes LEAD-146 and LEAD-162
+LEAD-020	medium	idea	formal	FEASIBLE	M	Build a non-lock-in loop with action fixed and ablate candidates one at a time in simulation
+LEAD-021	medium	specified	empirical	FEASIBLE	L	CASE-254 agent teams diagnosing faults under probe budget, with/without governed record, run with delegated same-family agents at small n
+LEAD-022	high	specified	empirical	NOT	L	Field study in a real workplace
+LEAD-023	medium	idea	reading	FEASIBLE	M	About 12 of 15 works are arXiv or have arXiv versions (sheaves, Kuramoto, higher-order networks); Pecora 1990 PRL and Stewart 2007 likely closed
+LEAD-024	medium	idea	empirical	PARTIAL	S	Drift vs switching fit is trivial once logs exist; CASE-075 holds no source and Twitch Plays Pokemon input logs may not be lawfully available
+LEAD-025	high	idea	reading,historical	PARTIAL	M	About half open (USAID synthesis, Burning Man page, Bainbridge copies, Righetti, Koseska arXiv, possibly Holl/Gross OA) plus episode search; Ostrom, Corbin, Brautigam, Wood, Vallor paywalled
+LEAD-026	medium	specified	empirical,formal	FEASIBLE	M	Simulate CASE-101's three populations and apply QUESTION-115's search and a lagged block criterion to each
+LEAD-027	medium	idea	reading	PARTIAL	S	Trump v. J.G.G. opinion and maybe Sabel are open; Levinson (SSRN 403) needs owner copy; Bancoult on BAILII may bot-check
+LEAD-028	high	specified	empirical	PARTIAL	M	Turns per filed entry and inbound refs are scriptable; drift judged blind needs raters, the ARG-028 choice between LEAD-tmpxq8z2 and LEAD-tmp2h1r1 left to owner
+LEAD-029	high	idea	formal,empirical	FEASIBLE	M	Derive joint prediction with flexibility penalized and run A55 s7's one-model vs separate-models comparison on simulated data
+LEAD-030	medium	specified	empirical	FEASIBLE	M	Simulated engagement laboratory (CASE-296) separating classes inferred, used and preference-reshaping
+LEAD-031	medium	idea	reading	PARTIAL	S	Mellor 2025/Pettit 2023 may be OA; Young 2011 (OUP book) and Williams 1976 likely closed
+LEAD-032	medium	idea	reading	FEASIBLE	S	Europe PMC search for dismantling trials of safety-behaviour removal and individual-level hysteresis data
+LEAD-033	medium	idea	conceptual	FEASIBLE	S	Write each construction and apply the contractualist test
+LEAD-034	medium	idea	empirical	NOT	M	Needs judges' ratings of renderings (human data)
+LEAD-035	medium	idea	empirical	FEASIBLE	M	Train small networks in numpy and measure SNR singular values against (4t/N)^(1/4); register NOTE-772's work if open
+LEAD-036	medium	idea	formal,historical	FEASIBLE	M	Simulate the maintenance-funding loop with and without decoupling
+LEAD-037	high	specified	empirical,formal	PARTIAL	M	State the time-lagged block criterion (feasible); reanalysis depends on Bigand et al.'s mocap data being openly released, and perturbation/after-song arms need new data
+LEAD-038	high	idea	conceptual	FEASIBLE	S	Write the case pair and either name a differing feature or argue none can
+LEAD-039	medium	idea	formal	FEASIBLE	M	Formal search for incomparable optima at finite size beyond held special cases
+LEAD-040	medium	idea	empirical	FEASIBLE	M	Train small Z2-symmetric RNNs on boundary-dependent task (numpy/torch-CPU); compare partitions and wall movement
+LEAD-041	high	idea	conceptual,formal,empirical	FEASIBLE	M	Write the perspectives argument and the procedure; apply to one open record of conduct
+LEAD-042	medium	idea	reading,empirical	PARTIAL	S	Literature search feasible; validating a retrieval measure on priming needs human subjects
+LEAD-043	medium	specified	empirical	FEASIBLE	M	Toy-scale CASE-274 (train, fine-tune away, probes, relearning, interventions) on CPU; LM-scale version would need GPU
+LEAD-044	medium	idea	empirical,historical	FEASIBLE	M	Search open organizational histories/evaluations for equal-budget interventions at different locations
+LEAD-045	high	idea	empirical,formal	FEASIBLE	M	Train one network on unequal-frequency skills under GD vs sign descent/Adam; derive sign-descent onset ratio
+LEAD-046	high	idea	reading,conceptual,empirical	PARTIAL	S	Grice/Strawson readable from open copies; the elicited test needs human judges
+LEAD-047	high	idea	reading,empirical	FEASIBLE	S	Search anxiety/avoidance literature for authority manipulated with threat fixed
+LEAD-048	high	specified	empirical	FEASIBLE	L	Simulate CASE-186's organization with lesionable evidence generation, admission, scoring
+LEAD-049	high	idea	formal	FEASIBLE	M	State model class, derive sufficient conditions for stable differentiated equilibrium and invasion when rare
+LEAD-050	medium	idea	reading	PARTIAL	S	Four 2026 journal articles (Synthese, SAGE) previously Unfetched; retry for OA copies, likely some closed
+LEAD-051	medium	idea	reading,empirical	FEASIBLE	S	Peng 2025 Immunity via Europe PMC REST (author manuscript plausibly out after 12 months); then write the donor-cell comparison as a specified test
+LEAD-052	medium	idea	empirical,formal	FEASIBLE	M	Deep linear / kernel / small nonlinear nets on synthetic trees, phase diagram of acquisition order
+LEAD-053	medium	idea	conceptual,formal	FEASIBLE	S	Propose a rule for choosing maintenance constraints and test on record cases
+LEAD-054	high	idea	reading	FEASIBLE	S	Europe PMC search for experience-sampling studies of in-episode flow affect
+LEAD-055	medium	specified	formal,empirical	FEASIBLE	L	Numerical 1+1D phi^4 kink with coupled Dirac field, withdraw support, vary bound-mode occupation; vortices/mediator later
+LEAD-056	medium	idea	reading	FEASIBLE	S	Search lexical-field literature for add/lose/merge studies
+LEAD-057	high	idea	formal,conceptual	FEASIBLE	M	Pick one model, work the three partitions and their counterfactual predictions
+LEAD-058	high	specified	empirical,reading	FEASIBLE	L	HiddenBench arms with delegated same-family agents at small n; Falbo (LIT-2493) is Active
+LEAD-059	medium	idea	formal	FEASIBLE	S	Write the corollary as a demonstrated claim
+LEAD-060	high	idea	conceptual,empirical	PARTIAL	S	Writing the criterion from CASE-056/CASE-012 is feasible; judges sorting pairs needs humans
+LEAD-061	medium	idea	reading	FEASIBLE	S	Reread Golub & Jackson Prop 2 and Thm 3 (LIT-999, already read once in NOTE-840) for several closed groups
+LEAD-062	high	idea	reading,empirical	FEASIBLE	M	Search for continuity-apart-from-caring studies; failing one, specify Chan's design with concern measure and anonymous legacy arm
+LEAD-063	medium	idea	formal	FEASIBLE	M	Apply one integration measure to a modular-mind model and a group model
+LEAD-064	medium	idea	empirical	PARTIAL	S	Filing the A2-A14 drift as a CASE is feasible now; A21 s7's matched-budget retrieval study is L with same-family agents
+LEAD-065	high	idea	empirical	FEASIBLE	S	Reimplement Ito & Kaneko coupled maps, remove core units, watch refill
+LEAD-066	medium	idea	reading,formal	FEASIBLE	M	Reading half already done (Nadler LIT-1250 read in NOTE-986); attempt NOTE-985's commutator bound
+LEAD-067	medium	idea	formal	FEASIBLE	S	Construct the trivial-holonomy null with three contexts, then a nontrivial case
+LEAD-068	high	specified	empirical,historical	FEASIBLE	M	Simulation arm of CASE-285 with speed varied and oversight fixed; historical matched pairs weaker
+LEAD-069	high	idea	conceptual	FEASIBLE	S	Apply individuation criteria to CASE-259/260's block and eater
+LEAD-070	high	idea	reading	PARTIAL	S	Retry Carver 2003 via Europe PMC; Cacioppo 1994/1997 and Tversky 1969 likely closed
+LEAD-071	medium	idea	reading	PARTIAL	S	Loot-box papers in JEBO/OR/MS/IJIO mostly closed; working-paper versions may exist (SSRN bot-checks)
+LEAD-072	medium	idea	formal	FEASIBLE	M	Derive bias-corrected signalling estimators/test and apply to LIT-851's published counts (if counts are in the paper)
+LEAD-073	medium	idea	empirical	FEASIBLE	M	Forward passes of small open models (GPT-2/Pythia) on CPU to compute NOTE-746's M, N, Gamma_q for reported linear relations
+LEAD-074	high	idea	reading	PARTIAL	M	Mostagir et al. (MIT open copy likely), PNAS 2026 maybe OA; Farrell, Barbieri, Rubel, Kincaid, Wen likely closed
+LEAD-075	medium	specified	formal	FEASIBLE	M	Build the staging-state model and compute bottleneck budget, least time, readiness
+LEAD-076	medium	specified	conceptual,formal	FEASIBLE	M	Constructions both directions plus CASE-153's sentry simulation with hidden state and evidence restriction
+LEAD-077	high	specified	empirical	FEASIBLE	L	CASE-158 denoisers + matched router with one arm per QUESTION-271 failure, numpy
+LEAD-078	medium	idea	reading	FEASIBLE	S	Search for self-predicted bundling and discounting-mediation studies
+LEAD-079	high	idea	empirical	PARTIAL	M	First half done; second coder on ~30% feasible only as a same-family delegate; another owner/assistant family needs an exchange the record may not hold
+LEAD-080	high	specified	formal	FEASIBLE	M	Build A's proposed resource-commitment simulator and run both budget regimes
+LEAD-081	high	specified	empirical,formal	FEASIBLE	M	Build CASE-099 with declared demands and feasible-update oracle; vary influence allocation
+LEAD-082	medium	specified	empirical	FEASIBLE	M	Toy triggered behaviour + safety-style fine-tune + recovery test on CPU; LM-scale needs GPU
+LEAD-083	high	idea	empirical,formal	FEASIBLE	L	Simulate a closed non-block mode (field excitation), perturb, measure compensation/entrainment vs block test
+LEAD-084	medium	idea	formal	FEASIBLE	M	Finite-dimensional Markovian augmentation conditions; Kalman comparison in linear-Gaussian case
+LEAD-085	high	specified	empirical	FEASIBLE	L	CASE-253 with delegated same-family agents equipped with luria, small n
+LEAD-086	medium	specified	empirical	FEASIBLE	L	r/place placement data is downloadable (placedata.reddit.com reachable); survival model of return, recruitment, coalitions
+LEAD-087	medium	specified	operationalization,empirical	FEASIBLE	M	Write the shared-perspective criterion, then simulate CASE-145's populations
+LEAD-088	medium	idea	formal,empirical	PARTIAL	M	Deriving three drive profiles feasible; estimating from data needs a dataset LEAD-078 must find
+LEAD-089	high	idea	formal,conceptual,reading	FEASIBLE	M	Model Northstar control-only vs with will-organization and price the difference; planning/institutional reading limited to open sources
+LEAD-090	medium	specified	formal	FEASIBLE	M	Write CASE-092's model, linearize, compare reduced form with named opinion-dynamics models
+LEAD-091	high	specified	empirical	FEASIBLE	L	CASE-091 arms on synthetic inquiries and MEME tasks with same-family agents
+LEAD-092	medium	idea	reading	PARTIAL	M	Mixed: Iqbal (OpenReview), Bishop (maybe PhilSci) readable; Morwitz, Netanel, Mulgan, Kaschube, Revonsuo mostly closed; Benthall behind SSRN
+LEAD-093	medium	idea	formal	FEASIBLE	M	Extend CASE-190 so the student becomes a teacher, or use Life eaters; measure turnover and outside supply
+LEAD-094	high	idea	reading	FEASIBLE	M	Ott & Antonsen (arXiv 0806.0004) first, then arXiv/Frontiers works; Fenichel and Knobloch, Haken RMP, Nat Rev Neurosci closed
+LEAD-095	high	idea	formal,empirical	FEASIBLE	S	Write the Markov chain, compute committor differences after withdrawal
+LEAD-096	medium	idea	empirical,conceptual	NOT	M	Receivers' report and re-performance tasks need human subjects
+LEAD-097	medium	idea	conceptual,reading	FEASIBLE	S	Write the argument; Kincaid reading optional
+LEAD-098	high	specified	empirical,formal	FEASIBLE	L	Simulate CASE-179 network with three manipulations plus QUESTION-063's displacement/perturbation arms
+LEAD-099	medium	idea	historical	FEASIBLE	S	Read league and club public statements and supporter usage on the web
+LEAD-100	medium	idea	formal	FEASIBLE	M	Define a receiver-restricted order and prove basic results without garbling theorem
+LEAD-101	medium	idea	historical,reading	FEASIBLE	M	Search open histories for sanctions that ended with traceable harm-weighing after
+LEAD-102	medium	specified	empirical	NOT	L	Human pragmatic judgement experiment (CASE-021)
+LEAD-103	medium	idea	formal,operationalization	FEASIBLE	M	Write operational equivalences, derive noncontextual inequality; read Kunjwal & Spekkens 2015 (arXiv)
+LEAD-104	medium	idea	formal	FEASIBLE	S	Modify CLAIM-605's model as CLAIM-721 says and show the trap
+LEAD-105	medium	idea	empirical	FEASIBLE	M	Both interventions on one conventionally trained small network
+LEAD-106	medium	idea	reading	FEASIBLE	S	Search for eye-movement studies after cued recall
+LEAD-107	medium	idea	empirical	FEASIBLE	M	Code restatements in workbench reconstructions; before/after-addressing re-derivation counts (assistant as coder)
+LEAD-108	high	idea	conceptual,formal	FEASIBLE	M	Write the cost model and price cockpit bugs, a filed argument and a LEGO bin with the same terms
+LEAD-109	medium	idea	formal,conceptual	FEASIBLE	S	Construct two self-consistent factorizations or argue uniqueness
+LEAD-110	medium	specified	conceptual	FEASIBLE	M	Work CASE-256 by argument
+LEAD-111	medium	idea	formal,conceptual	FEASIBLE	M	Attempt operational cover construction; else name the operational notion per entry
+LEAD-112	high	idea	reading	FEASIBLE	M	Literature search per evidence kind for access/experience dissociation; register finds
+LEAD-113	medium	specified	empirical	FEASIBLE	L	Extend CASE-101 simulation (LEAD-026) with perspective transplant and continuation criteria
+LEAD-114	medium	idea	empirical	FEASIBLE	M	Train on S3/S4 product, blind irrep search, with group-supplied control
+LEAD-115	medium	idea	empirical	PARTIAL	L	SAEs on a small open model on CPU possible but slow; a meaningful circuit comparison likely needs GPU-scale activations
+LEAD-116	medium	specified	empirical,formal	FEASIBLE	M	Extend CASE-216 annealing toy into CASE-219/220 and score intermediates by committor
+LEAD-117	medium	idea	reading,empirical	PARTIAL	M	Search for matched-compute RL vs best-of-N comparisons feasible; running RL on an open model needs GPU
+LEAD-118	high	idea	reading	FEASIBLE	M	Retry 48 Unfetched works via Europe PMC REST (no email); PNAS, Genome Res, Curr Biol, World Psychiatry likely in PMC; record new refusals
+LEAD-119	high	specified	empirical	FEASIBLE	L	Code a public postmortem corpus (company blogs, danluu list) and independent reviews (NTSB/CSB) by organizational level
+LEAD-120	medium	idea	reading	PARTIAL	S	Cernat 2011 and Wyer 2002 likely closed (retry under LEAD-118); search for A5's order manipulation feasible
+LEAD-121	high	idea	conceptual	FEASIBLE	S	Argue which reading of independent scoring CLAIM-342 means and revise its term (new version)
+LEAD-122	medium	idea	empirical	FEASIBLE	S	Script the share of comparable moves filed by contributor and kind over workbench entries
+LEAD-123	medium	idea	formal	FEASIBLE	S	Three-perspective Condorcet agenda model; outcomes by admission rule
+LEAD-124	high	idea	reading	FEASIBLE	S	Fetch Tatel 2025 (Psych Bull) via Europe PMC or a preprint; read for decay by skill type
+LEAD-125	medium	idea	empirical	PARTIAL	M	Apply Velarde's colouring (LIT-2843) to Li & Webb's (LIT-2830) models; depends on released weights/code, else retrain small models
+LEAD-126	high	idea	reading	FEASIBLE	S	Krickel, Craver, Harinen, Romero via OA/PhilSci copies; Segura blocked on owner
+LEAD-127	medium	idea	reading	PARTIAL	M	Search for intervention studies feasible; the registered basic-needs works mostly paywalled
+LEAD-128	medium	idea	reading,empirical	FEASIBLE	M	Search published fits; else fit effort-cost model to an open (OSF) effort-discounting dataset
+LEAD-129	medium	idea	historical	FEASIBLE	M	Choose matched institutions from open sources and compare revision means
+LEAD-130	high	idea	reading	PARTIAL	S	Berenstain (Ergo, OA) and perhaps Dotson readable; Medina, MacLean closed; Harding, Rubel need owner/library
+LEAD-131	high	idea	conceptual	FEASIBLE	S	Argue whether the duty falls on controllers and declare a sense of organization
+LEAD-132	medium	specified	empirical	PARTIAL	M	Real-money price of a standardized reward across releases from public disclosures/wikis is feasible; high-spender revenue shares are rarely public
+LEAD-133	medium	idea	reading	FEASIBLE	M	Robillard thesis (open), Hart & Moore NBER WP, maybe Berge/Cameron OA; then file the argument CLAIM-728 asks for
+LEAD-134	medium	specified	formal	FEASIBLE	M	Build CASE-114's distributed-control system with centralized self-model; log reports vs causes
+LEAD-135	medium	specified	empirical,formal	FEASIBLE	M	CASE-202 two mechanisms probed at rising budgets; record when verdicts stabilize
+LEAD-136	medium	idea	operationalization,empirical	PARTIAL	S	Writing the four measures feasible; fielding a private survey in a fanbase needs people
+LEAD-137	medium	idea	formal,empirical	FEASIBLE	M	Coupled-agent model: informative-across-buffer variables vs gap-isolated blocks
+LEAD-138	high	idea	reading	FEASIBLE	M	Read the endosymbiont works (mostly PMC/open archive) and check each fact CASE-168..177 take from them
+LEAD-139	medium	idea	empirical	NOT	M	A178 Study B predicts human judgements of trope identity on recasts; needs human raters
+LEAD-140	high	specified	empirical	FEASIBLE	L	CASE-255 on top of CASE-186's simulation (LEAD-048)
+LEAD-141	medium	idea	reading,empirical	FEASIBLE	S	Register and read Axelrod et al. 2015 (PNAS, PMC), search for tests of Metzinger's H1/H3
+LEAD-142	medium	idea	formal	FEASIBLE	M	State the signature and attempt the proof for the directed case
+LEAD-143	medium	idea	reading,empirical	FEASIBLE	L	Search, then measure on open checkpoints (Pythia/ViT) on CPU forward passes
+LEAD-144	high	specified	empirical,formal	FEASIBLE	L	Build simulator with shared-driver null, fit CASE-165's IBP model, predict held-out interventions
+LEAD-145	medium	idea	reading	FEASIBLE	S	Register a standard open treatment of dual control and of value of information (lecture notes/reviews)
+LEAD-146	high	specified	operationalization,conceptual	FEASIBLE	M	Draft the preregistration (baseline, populations, margin with power, prevalences, language pair); fixing margins in CASE-055 is the owner's to approve
+LEAD-147	high	idea	formal,empirical	FEASIBLE	L	Derive PMI spectrum for implication-structured model; measure additivity on an open corpus with WordNet
+LEAD-148	medium	idea	conceptual,reading	PARTIAL	S	Veit 2023 access uncertain (book); argument part feasible
+LEAD-149	medium	specified	empirical	NOT	L	Human judgement experiment (CASE-040)
+LEAD-150	medium	idea	reading	PARTIAL	S	Machado/Coates 2026 may be OA; Johnson 1995 and Williams 1976 likely closed
+LEAD-151	medium	idea	historical	PARTIAL	M	Needs independent threat series; open datasets (e.g. Democratic Emergency Powers, LIT-1485) may serve, uncertain
+LEAD-152	medium	idea	reading	FEASIBLE	S	Herd 2025 (JEP, free), Kong (MDPI OA), Herd & Moynihan (RSF, possibly open), register Frischmann & Benesch 2023 (law review, open)
+LEAD-153	medium	idea	historical	PARTIAL	M	Choosing a pair and comparing from public records feasible; matched outputs and labour terms data uncertain
+LEAD-154	high	specified	empirical	NOT	L	LoRA vs reference conditioning across image-model generations needs GPU
+LEAD-155	medium	idea	empirical	FEASIBLE	L	File one corpus under two apparatuses and compare inquiry trajectories with delegated same-family agents
+LEAD-156	medium	idea	reading	FEASIBLE	M	Search paternal-line/adoption designs; Yehuda 2018 and probably 2016, Pembrey via PMC; Ord book closed
+LEAD-157	medium	idea	empirical	FEASIBLE	M	Permutation alignment and loss barriers across path families for small numpy networks, incl. a shared-mechanism pair
+LEAD-158	medium	idea	reading	FEASIBLE	M	Massimi 2022 is OA; Leffler and others to try; then the constitutivism objection
+LEAD-159	medium	specified	empirical	FEASIBLE	M	CASE-188 agents with slow structure ablated under matched information (simulation; parameters chosen by assistant)
+LEAD-160	medium	specified	empirical	FEASIBLE	L	CASE-187 small gridworld agents (planner, policy, distributed predictor) matched on competence
+LEAD-161	medium	idea	reading	PARTIAL	S	Hatoum 2024 maybe OA; Lynch 2015, Edmondson 1996 closed
+LEAD-162	high	specified	operationalization,empirical	PARTIAL	M	Reading a reliability source, choosing coefficient and writing the footing definition feasible; agreement and known-groups need human judges
+LEAD-163	medium	idea	conceptual	FEASIBLE	S	Argue how CLAIM-615's slot is filled
+LEAD-164	medium	idea	reading,conceptual	FEASIBLE	S	Search the record and literature for one case
+LEAD-165	medium	specified	empirical	NOT	L	Open-model test-time training experiments plus owner's pending ruling on TTT
+LEAD-166	high	costed	reading,empirical	PARTIAL	S	Co-culture literature reading feasible; supply/withdrawal arms are wet-lab
+LEAD-167	high	idea	formal	FEASIBLE	M	Compute both individuality measures on a standard evolutionary-transition model
+LEAD-168	medium	idea	conceptual,formal	FEASIBLE	S	Write the two enforcement arrangements and find their first difference
+LEAD-169	medium	idea	empirical	NOT	M	Russian and English reader test needs human readers
+LEAD-170	medium	specified	empirical	NOT	L	Cross-modal reconstruction chains scored by blind raters; human raters and margins unfixed
+LEAD-171	medium	idea	formal	FEASIBLE	S	Model the threshold version of CLAIM-602's limit
+LEAD-172	high	specified	empirical	FEASIBLE	L	Small transformers on modular addition (torch-CPU), kernel eigenspaces and Fourier coupling, null at equal edge budget
+LEAD-173	high	idea	formal	FEASIBLE	M	Declare target/projection/metric/horizon/budget and work five conditions pairwise
+LEAD-174	medium	idea	operationalization,empirical	PARTIAL	M	Fix metric and assign regimes feasible; kernels from several independent retellers need human retellers/judgements
+LEAD-175	medium	idea	empirical	FEASIBLE	M	Toy-models-of-superposition SGD sweep across lr/batch/init and posterior across n (numpy), building on scratch/formal/tms_critical_sizes_check.py
+LEAD-176	medium	idea	reading	FEASIBLE	M	Read the open-access individuality works (Bourrat, Griesemer, Black, Shavit); Wimsatt book may be closed
+LEAD-177	medium	specified	formal,empirical	FEASIBLE	L	Build CASE-239's forager ladder (CASE-238/240/242) and sensor network revising correspondences
+LEAD-178	medium	idea	formal	FEASIBLE	M	VAR(1) bound on dynamical dependence or a nearly decomposable counterexample family
+LEAD-179	medium	idea	reading	PARTIAL	S	NIST SP 800-53 and SEI guide are open; Schulz-Hardt 2006 (JPSP) likely closed
+LEAD-180	medium	specified	empirical	FEASIBLE	M	CASE-108 four governance architectures with oracle, compromised-evaluator variant (simulation)
+LEAD-181	medium	specified	empirical	FEASIBLE	M	CASE-249 institution simulation with/without penalties; measure inquiry
+LEAD-182	high	idea	reading,empirical	FEASIBLE	M	Literature check for powered CbD tests on pragmatic judgements; else design with signalling estimators and power analysis (running it needs humans)
+LEAD-183	medium	idea	formal,reading	FEASIBLE	M	Write a non-monotone predictor, test out of sample, search origami literature
+LEAD-184	medium	idea	empirical	FEASIBLE	L	Multi-session arguments among delegated same-family agents with only anchoring rate varied
+LEAD-185	medium	specified	historical,empirical	FEASIBLE	M	Code open-source forks/successions (public repos, mailing lists) for community verdicts of identity
+LEAD-186	medium	idea	reading,empirical	PARTIAL	S	IP-Adapter reading (arXiv) feasible; LoRA transfer test needs GPU
+LEAD-187	high	idea	reading,empirical	PARTIAL	S	Iterated-learning literature search feasible; chains with measured priors need human transmitters
+LEAD-188	medium	idea	historical,empirical	FEASIBLE	M	Search interviews/trade press; build CASE-100 network model
+LEAD-189	medium	idea	reading,historical	FEASIBLE	S	SRE book App. D and workbook are open; Tempe prosecution outcome from news; Allspaw blocked by bot check; Dekker 2009 maybe closed
+LEAD-190	medium	specified	formal	FEASIBLE	M	Role-indexed vs scalar grants in LEAD-090's built model; follow LEAD-090
+LEAD-191	medium	idea	formal,empirical	FEASIBLE	M	Reanalyse LIT-844 (arXiv 2412.16806) data by sheaf route and CbD 2.0, if its counts are published
+LEAD-192	medium	idea	reading,formal	FEASIBLE	M	Read Maggioni et al. 2005 diffusion wavelets (open tech report) and attempt the bound
+LEAD-193	medium	idea	empirical	FEASIBLE	L	A16 s12: synthetic stationary/oscillatory system with fixed/refinable/revisable investigator agents (same-family)
+LEAD-194	medium	idea	conceptual	FEASIBLE	S	State the CLAIM-266/CLAIM-517 tension and file an objection or revision
+LEAD-195	medium	idea	conceptual	FEASIBLE	S	Argue whether a symmetry/conservation law meets CLAIM-477's definition
+LEAD-196	medium	idea	reading	FEASIBLE	S	Fetch and read Chesson 1990 (reprint located); registering Chesson 1994 and Servan & Allesina waits on owner
+LEAD-197	medium	specified	empirical	NOT	L	Human skill-learning study
+LEAD-198	medium	specified	empirical,reading	PARTIAL	S	First step, the developmental literature search, is feasible; the crossed study needs children
+LEAD-199	medium	specified	empirical	SKIP	-	Done today
+LEAD-201	medium	idea	empirical,operationalization	SKIP	-	Done today (alternatives filed)
+LEAD-203	medium	underway	reading,formal	NOT	S	Bovier half done; remaining Fenichel 1979 refused by challenge, needs owner copy
+LEAD-204	medium	idea	empirical,operationalization	SKIP	-	Blocked on owner
+LEAD-206	medium	specified	empirical	SKIP	-	Needs human coder
+LEAD-207	medium	idea	empirical,formal	FEASIBLE	L	Specify architecture and hierarchy, then run small CPU networks on a synthetic hierarchy with SGLD learning-coefficient estimates at several beta/gamma
+LEAD-208	low	idea	formal,empirical	FEASIBLE	M	2D Ising MC on L=16..64 with decimated Fisher spectra, transfer-matrix strip predictive information, cluster box-counting
+LEAD-209	-	idea	formal,empirical	SKIP	-	Done today
+LEAD-210	medium	specified	empirical	SKIP	-	Done today
+LEAD-211	-	idea	formal,empirical	SKIP	-	Done today
+LEAD-tmp2h1r1	medium	specified	empirical,operationalization	PARTIAL	M	Family 1 piloted; redo on LEAD-199's population feasible; result needs a non-Claude rater, owner subsample and owner's choice between alternatives
+LEAD-tmptgrc7	-	idea	empirical	SKIP	-	Done today
+LEAD-tmpxq8z2	medium	specified	empirical,operationalization	NOT	-	Needs two outside human raters recruited by owner; alternative awaiting owner's choice
