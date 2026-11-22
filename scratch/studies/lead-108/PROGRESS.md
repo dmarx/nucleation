@@ -22,7 +22,7 @@
 
 1. DONE: model as code, costmodel.py + test_costmodel.py (6 pass).
 2. Price the three cases: price_cases.py -> results.json / results.md.
-3. File CASE (executed-study, documented) for the run; CLAIM (thesis) for the
+3. CASE-tmpo2iur filed (executed-study). CLAIM-tmpeklli created by luria new, to fill.
    result, with the owner's alternatives in the body.
 4. Dated notes on LEAD-108, QUESTION-095, QUESTION-114; changelog fragment.
 
