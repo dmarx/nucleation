@@ -1,0 +1,131 @@
+---
+status: Rejected
+
+title: 'Grossman and Hart''s and Hart and Moore''s models of residual control, read as the economic form of second-order agency, show that the holder decides the contingencies the contract left open and that its discretion is exercised and seen only when one arises'
+
+version: 1
+
+form: source
+
+grounds:
+- THEORY-1985
+- THEORY-1979
+concludes:
+- CLAIM-728
+
+tags:
+- game-theory
+- society-and-governance
+date: '2026-11-22'
+line:
+- dependence-and-domination
+
+---
+
+<!-- inactive-ok-file: CLAIM-728 THEORY-1985 THEORY-1979 — Proposed; the claim this argument concludes and the two readings it starts from -->
+<!-- inactive-ok-file: LIT-2742 NOTE-2052 — Unfetched, Skimmed; Hart and Moore itself unread, entering through its read neighbour -->
+<!-- inactive-ok-file: TERM-124 — Proposed; the record's term for domination, in which the claim is read -->
+
+# ARG-tmpou34o: Grossman and Hart's and Hart and Moore's models of residual control, read as the economic form of second-order agency, show that the holder decides the contingencies the contract left open and that its discretion is exercised and seen only when one arises
+
+This is the argument the note of 2026-11-17 on [CLAIM-728](../claims.d/CLAIM-728.md) asks for, filed
+by LEAD-133 once Hart and Moore could be sought. Hart and Moore (1990),
+[LIT-2742](../literature.d/LIT-2742.md), remains Unfetched (its lawful copies answered rate limits
+and a bot check again on 2026-11-22); it enters here through its read
+neighbour, Hart's Nobel lecture (2016), [THEORY-1979](../theory.d/THEORY-1979.md), [NOTE-2052](../notes.d/NOTE-2052.md), which
+states two of its results and its place in the theory. Grossman and Hart
+(1986), [THEORY-1985](../theory.d/THEORY-1985.md), is read in full.
+
+## What the claim asserts, in three steps
+
+[CLAIM-728](../claims.d/CLAIM-728.md) joins three clauses. The argument tests each against what
+the economic readings hold.
+
+1. **The definition.** The party holding residual rights of control has
+   authority over the uses and decisions the contract did not settle.
+2. **The consequence.** So a relationship fair in every specified term can
+   still leave one party's terms at the other's discretion.
+3. **The visibility.** And that discretion is "exercised, and seen, only
+   when an uncovered contingency arises".
+
+## The inference
+
+The claim reads Grossman and Hart (1986), then Hart and Moore (1990), as
+"almost a direct economic formulation" of the record's second-order agency
+thesis: whoever holds residual control decides what happens in every
+contingency the contract left open, so the allocation of that control is
+where a fair-looking arrangement hides one party's power over the other,
+power felt only when an uncovered contingency perturbs the relationship.
+
+## Critical questions (argument from an expert source)
+
+- **Does the source assert step 1, read in context?** Yes.
+  [THEORY-1985](../theory.d/THEORY-1985.md): residual control is "the right to control all aspects
+  of the asset that have not been explicitly given away by contract"
+  (Grossman and Hart §I.B), extended to employment in §V. [THEORY-1979](../theory.d/THEORY-1979.md):
+  "who has the right to decide about the missing things? We called this
+  right the residual control or decision right" (Hart §2). The definition
+  is squarely the source's, and is recorded as `corroborates` on both
+  readings, which the claim does not rest on.
+
+- **Does the source assert step 2 as stated, "at the other's
+  discretion"?** Only in part, and weaker than the word "discretion"
+  suggests. In Grossman and Hart's model the holder does not decide the
+  uncovered use unilaterally: the parties renegotiate costlessly to the
+  efficient use, and ownership fixes only the split of surplus, "The
+  distribution of ex post surplus ... will be sensitive to ownership
+  rights" (§I.C). That is superior bargaining power, not discretion to set
+  the other's terms. Hart's veto example is the nearest the readings come
+  to genuine unilateral decision, "the owner of the power plant has veto
+  power" (Hart §2); but even there Hart insists the power runs through the
+  assets the other needs and her replaceability, "purchasing the mine
+  would not be worth much if the coal mine manager is indispensable", not
+  through a bare authority over her. So the source supports a hold on the
+  other's terms via ownership of the assets, and tells against reading it
+  as discretion exercised at will over a person.
+
+- **Does the source assert step 3, visibility only at the contingency?**
+  No; it tells against it. On both readings the allocation acts *ex ante*,
+  before any uncovered contingency arises and whether or not one ever
+  does. Grossman and Hart: investment is distorted "in spite of the fact
+  that the noncooperative outcome never occurs!" (§III.A). Hart: "the
+  power plant does anticipate that it will be at the mercy of the coal
+  mine", and acts on that anticipation. The discretion's effect is felt
+  continuously, through anticipated bargaining, not "only when an
+  uncovered contingency arises". Anticipation is not exercise, so the
+  readings do not meet the claim's own defeat condition (discretion
+  "exercised and visible in ordinary operation"); but they locate the
+  working of residual control at a different time from the one step 3
+  names.
+
+- **Does the claim lean on the source for more than it holds?** Yes, at
+  steps 2 and 3. The claim's own "What it does not say" already grants
+  that Grossman and Hart's question is efficiency, not domination; the
+  normative reading is the other assistant's. What this argument adds is
+  that, taken as the source for *how residual control works*, the readings
+  support the definition (step 1) and contradict the timing (step 3): the
+  mechanism is anticipatory and ex ante, and the holder bargains from
+  strength rather than deciding at the contingency.
+
+## Verdict
+
+Rejected as an inference from [THEORY-1985](../theory.d/THEORY-1985.md) and [THEORY-1979](../theory.d/THEORY-1979.md) to
+[CLAIM-728](../claims.d/CLAIM-728.md) as stated. The readings establish the residual-control
+definition (step 1), which is corroboration, not a footing the claim
+rests on; they qualify step 2 (ownership confers bargaining power over the
+assets the other needs, not discretion at will over a person); and they
+tell against step 3, locating the effect of residual control *ex ante*,
+through anticipation, before and apart from any uncovered contingency.
+
+Standing of the conclusion apart from this route (ADR-136): [CLAIM-728](../claims.d/CLAIM-728.md)
+holds it, Proposed, in the record's and the other assistant's voice; its
+step 1 reading of residual control in [TERM-124](../terms.d/TERM-124.md)'s terms is untouched, and
+the economic readings corroborate it. What this argument rejects is only
+the inference that these works show the holder *decides* the contingencies
+and that the discretion is *seen only when one arises*. Whether step 3
+should be revised to admit the ex ante, anticipatory effect the readings
+describe is left to the owner; the note of 2026-11-22 on [CLAIM-728](../claims.d/CLAIM-728.md) sets
+out two ways to do so.
+
+The verdict is the assistant's (Claude, in this session); adopting it is
+the owner's call.

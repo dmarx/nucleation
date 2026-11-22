@@ -40,11 +40,19 @@ dated note + alternatives.
   - LIT-2682 Robillard: UConn Cloudflare (prior), no reachable neighbour.
   - Added "## Search of 2026-11-22" dated notes to all four LITs (status unchanged).
 
-## Next
+## Done (cont. 2)
 
-- File the ARG CLAIM-728 asks for (Grossman&Hart THEORY-1985 + Hart 2016 THEORY-1979
-  -> CLAIM-728; what they carry = residual-control definition; what they do not =
-  unilateral decision + visibility only at the uncovered contingency; effect is ex
-  ante through anticipation). Rejected inference for the claim as stated.
-- Dated note on CLAIM-728 + alternatives on whether to revise the last clause (owner's).
-- Changelog fragment.
+- Filed ARG-tmpou34o (Rejected, form source): THEORY-1985 + THEORY-1979 -> CLAIM-728;
+  readings carry the residual-control definition, qualify clause 2, tell against
+  clause 3 (effect is ex ante through anticipation, not only at the uncovered
+  contingency). Checks pass (frontmatter, no code in title, H1==title).
+- Dated note on CLAIM-728 (held): records the filed ARG; two owner alternatives for
+  revising clause 3 (A widen timing / B keep timing, narrow scope). No status/title change.
+- Dated note on LEAD-133; changelog fragment record/changelog.d/lead-133.md.
+
+## Status: COMPLETE (pending final commit/push + report)
+
+All four works remain Unfetched (no lawful copy reachable today). The lead's
+deliverable argument is filed. Reading the works is blocked on owner-supplied
+copies / allowed hosts. Owner marks LEAD-133 status/stage and chooses the CLAIM-728
+revision alternative.
