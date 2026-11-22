@@ -45,7 +45,10 @@ decoupled controls (full-use money, and the coupled rule's realized mean).
 - B̄ = 1.35: no absorption, but at lam = 0.05 coupled holds k ~0.48 and
   meets 25 % against mean-field fixed point 1.0.
 
+- Filed CASE-tmpuqpww (executed-study) and CLAIM-tmp9mpn0 (thesis,
+  demonstrated); dated notes on QUESTION-386, CLAIM-577, LEAD-036;
+  changelog fragment record/changelog.d/lead-036.md.
+
 ## Next
 
-- File CASE (executed-study), CLAIM, notes on QUESTION-386, CLAIM-577,
-  LEAD-036; changelog fragment.
+- Report to the lead (no pull request opened by the worker).
