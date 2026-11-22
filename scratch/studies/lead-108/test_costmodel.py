@@ -60,3 +60,17 @@ def test_party_split_sums_to_total():
     r = lifetime(s, OnDemand(c=3), [Demands(n=5)])
     assert math.isclose(sum(r["store_by_party"].values()), r["store"])
     assert set(r["store_by_party"]) == {"maker", "others", "user"}
+
+
+def test_erosion_weight_is_chance_of_fallback_plus_checking_share():
+    # d(cost)/d(eps) = c * [(1 - pi) + pi * (sigma * delta + phi)], where phi
+    # is the share of the computing route that checking repeats, so that
+    # v = v0 + phi * c * (1 + eps).
+    c, pi, sigma, delta, phi, v0 = 10.0, 0.7, 0.1, 0.5, 0.2, 1.0
+    a, d = OnDemand(c=c), Demands(n=1, pi=pi)
+    def cost(eps):
+        s = Store(F=0, rho=1, v=v0 + phi * c * (1 + eps), sigma=sigma,
+                  delta=delta, eps=eps)
+        return per_demand_store(s, a, d)
+    slope = (cost(0.3) - cost(0.0)) / 0.3
+    assert math.isclose(slope, c * ((1 - pi) + pi * (sigma * delta + phi)))

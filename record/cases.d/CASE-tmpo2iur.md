@@ -22,6 +22,7 @@ line:
 - realizability
 illustrates:
 - CLAIM-tmpeklli
+- CLAIM-tmpn0u3a
 bears_on:
 - QUESTION-095
 - QUESTION-114
@@ -42,7 +43,7 @@ summary: >-
   case differs, and that is the result CLAIM-tmpeklli states. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpeklli CLAIM-314 CLAIM-647 THEORY-351 — Proposed or new; filed or cited in this run of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmpeklli CLAIM-tmpn0u3a CLAIM-314 THEORY-351 — Proposed or new; filed or cited in this run of 2026-11-22 -->
 
 # CASE-tmpo2iur: One cost model for stored work, run on the cockpit's speed bugs, a filed argument and a LEGO bin: every case is priced with the same terms; at illustrative values the bugs lose at a flat price of work on their four flap calls and win once the approach is at least twice as busy as the moment they are set, and the bin is made at once except for a brick that stands out
 
@@ -146,7 +147,7 @@ each. Three results do not depend on the illustrative values. With π = 1 and
 λ flat, the four flap calls repay the bugs only if F < 4(c − ρ − v), that is,
 only if setting four bugs costs less than the reads it saves; where it does
 not, the bugs pay through λ or B or not at all. Erosion is
-weighted by the chance of falling back, (1 − π) + πσδ, so it matters where
+weighted by the chance of falling back, (1 − π) + πσδ (CLAIM-tmpn0u3a), so it matters where
 predictability is low and not where it is high. A cheap construction at the
 moment of a demand (the found brick) and a construction at a quiet moment
 (the bugs) are the same term, λ_F F.
