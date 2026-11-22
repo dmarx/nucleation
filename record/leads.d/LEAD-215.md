@@ -5,6 +5,22 @@ formerly:
 - LEAD-tmp3xevc
 title: 'Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory'
 version: 4
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Freeman and Pfenning read. The lead's text is
+    unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Davies and Pfenning 2000 read. The lead's text is
+    unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Rondon, Kawaguchi and Jhala read. The lead's text
+    is unchanged.
 stage: underway
 priority: medium
 method:
