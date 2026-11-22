@@ -26,6 +26,7 @@ operationalized_in:
 summary: >-
   Named in [CASE-187](../cases.d/CASE-187.md). Filed by the backlog audit of 2026-11-19.
 ---
+<!-- inactive-ok-file: CASE-tmp6hkf9 CLAIM-tmpq92r4 CLAIM-tmpo59pd CLAIM-519 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-514 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-160: Run the world-model achievements study under matched competence
@@ -45,3 +46,29 @@ Where the record names it:
 Achievements that come apart under matched competence support the
 distinctions of [CLAIM-513](../claims.d/CLAIM-513.md) and [CLAIM-514](../claims.d/CLAIM-514.md); achievements that always come
 together count against them.
+
+## Note of 2026-11-22: run at toy scale
+
+A delegated worker ran CASE-187 as CASE-tmp6hkf9: twenty 8x8 gridworld
+mazes; a planner on a learned transition table, a goal-conditioned value
+learner and a bank of occupancy-predicting demons; goal success matched
+exactly by one shared stream of experience. All four of CASE-187's tests
+were run. Code, tests and results are in `scratch/studies/lead-160/`.
+
+The achievements came apart in three places:
+- read-out query competence went with goal competence, but query
+  competence within each agent's own budget did not (CLAIM-tmpq92r4);
+- a unit-level intervention separated agents that act identically, but a
+  content-level one made the distributed predictor respond as the planner
+  does without a table (CLAIM-tmpo59pd);
+- recovery and damage localization went with the explicit table.
+
+So CLAIM-514's and CLAIM-519's defeated_if clauses are not met in this
+class, and CLAIM-513 is untouched. What remains:
+- scale: function approximation, partial observation, stochastic
+  dynamics;
+- the replay variant;
+- other budgets;
+- the composite goals of Richens et al.
+
+The stage and status are the owner's to change.
