@@ -1,0 +1,13 @@
+tree b=3 D=4, lam = [1.347 0.686 0.274 0.23 ]
+max |eig - closed form| = 1.4210854715202004e-14
+  const   eigenvalue   43.578  multiplicity 1
+  level0  eigenvalue   43.578  multiplicity 2
+  level1  eigenvalue    7.222  multiplicity 6
+  level2  eigenvalue    1.051  multiplicity 18
+  level3  eigenvalue    0.230  multiplicity 54
+full-rank readout exact: True
+  rank   3: exact by depth 1..4: [True, False, False, False]
+  rank   9: exact by depth 1..4: [True, True, False, False]
+  rank  27: exact by depth 1..4: [True, True, True, False]
+  rank  81: exact by depth 1..4: [True, True, True, True]
+general context: rank 40 attributes 40 readout exact: True
