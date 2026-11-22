@@ -31,8 +31,19 @@ entropy. No claim or case states a finite-memory error bound.
 
 ## Done
 
+- augment.py: exact covariances, Riccati recursion, steady filter (reduced
+  DARE, cross-checked against iteration to 5e-13), finite-lag error,
+  fixed-gain bound, Mori frame, reduced filter, k_min, MZ Hankel rank,
+  Krylov dimension, transfer entropy of Y and of the augmented Z.
+- Exploration (session scratchpad): Riccati p-step error equals the p-lag
+  regression error to 1e-15; the bound 0 <= E_p - E_inf <= B_p holds; the
+  Kalman augmentation (Y, k_min coords) is Markov and T(X->Z) = T(X->Y).
+  On 2000 random models rho(A_cl) > rho(A22) (Mori frame) in 51%, and
+  > rho(Atilde) in 3.4% (worst ratio 1.18); Atilde unstable in 28%.
+  No violation with n - m = 1, where |a_cl| <= |atilde| is proved.
+
 ## Next
 
-- Derive and check: exact augmentation (Kalman predictor state), minimal k,
-  finite-memory error bound via the fixed-gain filter, its rate against the
-  eliminated block's spectrum, transfer entropy of the augmented state.
+- run.py + test_augment.py + results; README.
+- File CLAIM (demonstrated), CASE, notes on QUESTION-222 and LEAD-084,
+  changelog.
