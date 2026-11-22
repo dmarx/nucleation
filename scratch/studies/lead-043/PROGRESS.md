@@ -27,7 +27,15 @@
   (stop at the first step meeting the criterion) run for seeds 0 and 2 ->
   results_c.jsonl.
 
+- Step 4: filed CASE-tmprir2y (executed-study), CLAIM-tmp2eemo (the
+  finding), CLAIM-tmpqvkag (matched-world baseline); dated notes on
+  LEAD-043, CASE-274, QUESTION-010, QUESTION-275, CLAIM-697; changelog
+  fragment record/changelog.d/lead-043.md. QUESTION-274 not noted: the run
+  does not bear on it (flagged in the LEAD note as the owner's call).
+
 ## Next
+
+- Report to the lead. (Lines below are the earlier plan, kept for history.)
 
 - Analysis done (summary.md, summary.json). File the CASE, claims, notes on
   LEAD-043, QUESTION-275, QUESTION-010 and QUESTION-274, and the changelog.

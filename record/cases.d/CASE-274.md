@@ -90,3 +90,8 @@ account adds nothing ([CLAIM-698](../claims.d/CLAIM-698.md)).
 
 Synthetic facts in small models. Natural facts have unknown training
 histories, which this design avoids on purpose.
+
+## Note of 2026-11-22: a toy-scale run
+<!-- inactive-ok-file: CASE-tmprir2y — new; the run of LEAD-043 -->
+
+CASE-tmprir2y runs a reduced form of this design for LEAD-043: a two-layer numpy transformer, random facts, matched twin worlds, unlearning, gradient ascent, overwriting and a new task, read by other cues, runner-up answers, probes, reversion of each block's update, coverage and relearning. Of the outcome table, readdressing and interference show clearly, the shift to a higher realization cost shows after overwriting, downstream suppression does not (the update sits early), and loss appears only where gradient ascent damages the whole model. The outcomes are not exclusive: a recovered fact typically shows three signatures. The design's interventions beyond fine-tuning and its response-geometry prediction were not run.
