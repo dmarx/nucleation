@@ -195,3 +195,8 @@ note above already arguing the question.
 A limit from the other side, A100 §11: "The claimant's authority to demand explanations cannot simply be taken as unlimited", given interests "in privacy, finality, protection against harassment, due process, or freedom from unreasonable burdens"; "The required form of answerability must therefore be justified to the parties on both sides of the relationship." The accountability that rises with indispensability must itself be justifiable to those who answer.
 
 No status changes.
+
+## Note of 2026-11-22: the same bearers as the duty of answerability, on one reading
+<!-- inactive-ok-block: CLAIM-tmp7mors CLAIM-tmp8qqi4 CLAIM-624 — new or Proposed; filed or cited for LEAD-131 -->
+
+For LEAD-131. This claim's bearer, "those who control" a sense-1 arrangement, is the bearer CLAIM-tmp7mors gives CLAIM-624's duty of answerability. On that reading the two fall on one set of parties, and this claim says how strongly CLAIM-624's duty binds them as dependence rises, as its note of 2026-11-17 has indispensability intensify what is owed. On the rival reading, CLAIM-tmp8qqi4, CLAIM-624's bearer is an agent-institution and the two coincide only where one controls the arrangement. No status change.

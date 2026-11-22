@@ -140,3 +140,8 @@ not for a collective's judgment.
 - Not A's remedy. A says the answer "cannot consist solely of better
   technologies or better institutions" and needs "a cultural and ethical
   transformation"; that is left with A's broader programme.
+
+## Note of 2026-11-22: whether the erosion breaches the duty of answerability
+<!-- inactive-ok-block: CLAIM-tmp7mors CLAIM-tmp8qqi4 CLAIM-624 — new or Proposed; filed or cited for LEAD-131 -->
+
+For LEAD-131. "Arrangement" here declares no sense; TERM-074's default, sense 1, fits its use, and the "collective" is the party whose governing capacity erodes, not the arrangement. Whether the erosion breaches CLAIM-624's duty waited on that duty's bearer. On CLAIM-tmp7mors, where the duty falls on the arrangement's controllers, the integration passes ADR-075's test once narrowed to the capacities a justified standard's violations need, and adds a deadline to the duty: after CLAIM-605's point of no recovery the breach is complete before any violation is recorded. On CLAIM-tmp8qqi4, it holds only where an agent-institution governs the arrangement. The integration itself is not filed. No status change.
