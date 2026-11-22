@@ -88,7 +88,7 @@ def e2_content_selected_capture():
     rows = []
     for s in range(seeds):
         tr = M.simulate_stochastic(0.5, 0.5, P, T, seed=s)
-        m, a = 2 * tr - 1
+        m, a = (2 * tr - 1).T
         early = m[1:21].mean()
         rows.append(dict(seed=s, early_m=early, a_final=a[-1], m_final_mean=m[-100:].mean()))
     early = np.array([r["early_m"] for r in rows])
