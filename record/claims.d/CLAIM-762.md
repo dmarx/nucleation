@@ -177,3 +177,29 @@ a unique Gibbs density ∝ exp(−U/τ) concentrated on near-minimizers of the
 alignment potential as τ → 0. So what the objective keeps is a spread
 within the class of aligned configurations, not uniformity over the sphere.
 A note, no relation.
+
+## Note of 2026-11-22: the laboratory of genres, run in simulation
+<!-- inactive-ok-file: CASE-tmpw8bs2 CLAIM-tmph4j0u — new; the simulated laboratory of 2026-11-22 and the claim filed from it -->
+
+[LEAD-030](../leads.d/LEAD-030.md) said what would count for this claim's reading: classes that
+reshape preferences only when used. In [CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md) they did
+([CLAIM-tmph4j0u](CLAIM-tmph4j0u.md)): used while users and creators adapted, the inferred
+genres separated further (the gap under randomized exposure from 0.35 to
+0.48) and became stable (ARI 0.84); the same adaptation without them
+eroded the gap (to 0.23). Where exposure alone had made the clusters, use
+with adaptation created a small distinction (0.024) from none.
+
+How it bears on the claim is the owner's to choose; two readings, filed
+as alternatives:
+
+- **(a) Corroboration.** The lead's stated criterion is met, so
+  [CLAIM-tmph4j0u](CLAIM-tmph4j0u.md) gives this claim independent evidence and could carry
+  `corroborates` to it.
+- **(b) Illustration only.** The simulator was built with the mechanism
+  (users drift toward what they engage with, the recommender channels
+  exposure), so the run shows that the laboratory can tell the cases
+  apart, not that classes become units this way; no relation.
+
+The assistant leans to (b): the run tests the instrument, and the claim's
+condition of closure under the system's own operations is met here by
+construction. No relation was added and the claim is unchanged.
