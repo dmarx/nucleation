@@ -10,6 +10,11 @@
 
 ## Done
 
+- fivecond.py: exact defects of P, D, M, A, C for a VAR(p) (companion form).
+- witnesses.py: constructions for every PDMA configuration the entailments
+  allow (VAR(1), VAR(2), and eps > 0 leaks); first run shows each lands in
+  its intended cell.
+
 ## Next
 
 - Declare the regime; write the computation (defects for P, D, M, A, C).
@@ -17,3 +22,18 @@
 - File CASE, CLAIM, notes, changelog.
 
 ## Choices made
+
+- Class: stable stationary linear Gaussian VAR(1) with Sigma > 0 first,
+  then VAR(2) (whose companion form has singular noise).
+- Description: linear coarse-graining Y = LX.
+- Target: an external linear functional Z = GX, one step ahead, not Y's own
+  future (with Y's own future, P is D and M together by definition, A3's
+  warning; reported as the alternative).
+- Projection: Mori's, onto span(Y_t) in L2 of the stationary law.
+- Metric: relative excess MSE of the memoryless reduced model over the
+  optimal predictor from the full past; horizon h = 2 (at h = 1, A is P);
+  tolerance eps = 0 primary, eps = 0.01 alternative.
+- Budget: reduced state dimension m <= b = 2 (in this class every
+  computation is polynomial, so size is the only budget that separates
+  descriptions of one system; a sample budget makes C a parameter of A,
+  CLAIM-401's reading).
