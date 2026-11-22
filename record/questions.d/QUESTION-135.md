@@ -169,7 +169,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-22: the residual direction in a learning population
 
-In LEAD-016's reduced run of CASE-117 (CASE-tmpnti0m), the operators'
+In [LEAD-016](../leads.d/LEAD-016.md)'s reduced run of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)), the operators'
 learned parameter vectors play the part of features. At the snapshot,
 the rare specialist's squared distance d² from the span of the other
 operators' normalized vectors was measured.
@@ -182,7 +182,7 @@ operators' normalized vectors was measured.
 
 Under the multiplicative rule a spare had co-learned the specialist's job,
 with cosine 0.998. Under gating the spare learned it during the window.
-This fits the note of 2026-11-22's reading of CLAIM-tmp6kclm: a
+This fits the note of 2026-11-22's reading of [CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md): a
 component's own residual direction, not the spectrum as a whole, is what
 recovery tracks. Here it is observed in an adaptive population, not proved.
 

@@ -37,11 +37,11 @@ summary: >-
   logits moves a rare operator's logit, the channel through which its own
   performance acts, in proportion to its share. Its log share also moves
   with the residents' drift, which does not depend on it. As the operator
-  becomes rare, its recovery exponent (QUESTION-132's λ_i) tends to a value
+  becomes rare, its recovery exponent ([QUESTION-132](../questions.d/QUESTION-132.md)'s λ_i) tends to a value
   that is the same for a competent and an incompetent operator. That holds
   for ordinary mixture-of-experts gating and for a load-balancing loss
   added to it. A multiplicative contribution rule, Δz_i = η(ℓ̂ − ℓ_i),
-  keeps the operator's own term independent of share. In CASE-tmpnti0m, at
+  keeps the operator's own term independent of share. In [CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md), at
   matched participation, a rare specialist's growth rate fell from 0.010
   to 0.00075 per rare sample as its starting share went from 10⁻² to 10⁻⁵
   under gating, with or without the balancing loss. It stayed at 0.036 to
@@ -90,7 +90,7 @@ time of order 1/π_i.
 
 ## The check
 
-CASE-tmpnti0m ran the three cases at K = 4, where moe, moe_aux and rep match
+[CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md) ran the three cases at K = 4, where moe, moe_aux and rep match
 on participation and performance. The rare specialist was given share ε,
 frozen, with no further intervention. Medians over 6 seeds:
 
@@ -107,14 +107,14 @@ at its share (rate −2 × 10⁻⁵). Under rep it is driven out.
 
 ## What it bears on
 
-- **QUESTION-132.** Its recovery exponent is the test of stabilizing
+- **[QUESTION-132](../questions.d/QUESTION-132.md).** Its recovery exponent is the test of stabilizing
   coexistence. Under softmax-gradient routing, the exponent at rarity
   does not reflect whether the niche is open to the rare operator. A
   positive λ_i in such a system therefore cannot be read as the niche
   being open to it, and a near-zero one cannot be read as closure. The
   exponent has to be measured at a finite share and said so, or the
   influence rule has to be multiplicative in the operator's advantage.
-- **QUESTION-083.** Ordinary mixture-of-experts routing specializes, as
+- **[QUESTION-083](../questions.d/QUESTION-083.md).** Ordinary mixture-of-experts routing specializes, as
   the record already holds. It does not give a rare specialist an
   exponential route back, and neither does balancing in the gradient. A
   bias outside the gradient does, without regard to competence.
@@ -126,6 +126,6 @@ at its share (rate −2 × 10⁻⁵). Under rep it is driven out.
   10⁻² and 10⁻³.
 - It does not say that the multiplicative rule is better overall. It also
   let a spare duplicate the rare specialist when there was room (see
-  CLAIM-tmp1jz5w).
+  [CLAIM-tmp1jz5w](CLAIM-tmp1jz5w.md)).
 - Mixtures that use top-k routing, noise or temperature are not covered,
   beyond what the identity itself implies.

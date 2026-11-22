@@ -265,9 +265,9 @@ read, so that no longer holds. Each narrows what it shows.
 
 The design is unchanged.
 
-## Note of 2026-11-22: a reduced run, by LEAD-016
+## Note of 2026-11-22: a reduced run, by [LEAD-016](../leads.d/LEAD-016.md)
 
-LEAD-016 ran part of this design as CASE-tmpnti0m.
+[LEAD-016](../leads.d/LEAD-016.md) ran part of this design as [CASE-tmpnti0m](CASE-tmpnti0m.md).
 
 **Dimensions run:**
 
@@ -292,7 +292,7 @@ LEAD-016 ran part of this design as CASE-tmpnti0m.
   dynamics:
   - the multiplicative rule's recovery rate does not depend on how rare
     the specialist was made;
-  - the gating rules' rate shrinks with the share, as CLAIM-tmp1u4m3
+  - the gating rules' rate shrinks with the share, as [CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md)
     derives;
   - a usage bias recovers rare operators whether or not they are
     competent.
@@ -304,7 +304,7 @@ LEAD-016 ran part of this design as CASE-tmpnti0m.
 - **Active, dormant and reconstructed.** Frozen and trainable recovery
   did not differ. What returned was the retained capability.
 - **Coupled against decoupled exposure.** Spare capacity decided the
-  outcome, not exposure (CLAIM-tmp1jz5w).
+  outcome, not exposure ([CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)).
 
-The study does not show self-constitution (CLAIM-288). The design is
+The study does not show self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)). The design is
 unchanged.

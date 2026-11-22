@@ -35,9 +35,9 @@ bears_on:
 grounds:
 - CASE-tmpnti0m
 summary: >-
-  QUESTION-134 asks whether influence-dependent training makes a
+  [QUESTION-134](../questions.d/QUESTION-134.md) asks whether influence-dependent training makes a
   marginalized specialist lose its competence, so that it cannot regain
-  influence when its contexts recur. In CASE-tmpnti0m the answer turned
+  influence when its contexts recur. In [CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md) the answer turned
   on something else. The rare specialist's share was clamped at 10⁻³ for
   20,000 steps and then released, under four influence rules and 6 seeds.
   With two spare operators, a spare took the niche and became as
@@ -59,10 +59,10 @@ summary: >-
 
 ## The claim
 
-QUESTION-134 asks for three losses to be kept apart: loss of influence, of
+[QUESTION-134](../questions.d/QUESTION-134.md) asks for three losses to be kept apart: loss of influence, of
 competence and of access. It names a decisive result: a specialist whose
 competence, lost through deprivation, does not return, against a control
-whose access was decoupled. CASE-tmpnti0m separated the three. The
+whose access was decoupled. [CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md) separated the three. The
 decisive result did not appear. What appeared instead:
 
 - **Loss of access is not loss of competence unless maintenance has a
@@ -86,24 +86,24 @@ decisive result did not appear. What appeared instead:
 - **The order is exclusion first, then incompetence.** A specialist
   decoupled during suppression came out with its competence (0.013). Once
   coupled again and shut out, it lost it, reaching 0.76 by the end of the
-  window. QUESTION-134's loop operates, but here it is the consequence of
+  window. [QUESTION-134](../questions.d/QUESTION-134.md)'s loop operates, but here it is the consequence of
   exclusion, not its cause.
 
 ## Two readings for the record's questions
 
 These are alternatives, and the owner chooses.
 
-- **Reading A: role regeneration, QUESTION-132's first outcome at the
+- **Reading A: role regeneration, [QUESTION-132](../questions.d/QUESTION-132.md)'s first outcome at the
   level of roles.** The niche itself is robust. It is refilled after
   removal and kept filled through suppression. Only its holder is
-  exchangeable. This is CLAIM-tmpf11gs's Reading A, carried to a model
+  exchangeable. This is [CLAIM-tmpf11gs](CLAIM-tmpf11gs.md)'s Reading A, carried to a model
   whose operators have functions.
-- **Reading B: a fourth outcome, which QUESTION-132 does not name.** A
+- **Reading B: a fourth outcome, which [QUESTION-132](../questions.d/QUESTION-132.md) does not name.** A
   specialist can be competent, retained and undamaged, and still be
   permanently displaced by an equally competent newcomer. Neither
   "stabilizing coexistence" nor "entrenched asymmetry" describes that. It
-  is CLAIM-tmpf11gs's Reading B, with a functional niche. For
-  QUESTION-134 it means that keeping a specialist's competence, the
+  is [CLAIM-tmpf11gs](CLAIM-tmpf11gs.md)'s Reading B, with a functional niche. For
+  [QUESTION-134](../questions.d/QUESTION-134.md) it means that keeping a specialist's competence, the
   remedy the question's control tests, does not secure its access.
 
 The assistant leans to B for the specialist and to A for the role. The

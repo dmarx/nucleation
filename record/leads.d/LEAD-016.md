@@ -62,8 +62,8 @@ self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)).
 
 ## Note of 2026-11-22: a reduced run, and what remains
 
-A reduced version of CASE-117 was run on a CPU and filed as
-CASE-tmpnti0m. It used four contexts, one of them rare, and linear
+A reduced version of [CASE-117](../cases.d/CASE-117.md) was run on a CPU and filed as
+[CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md). It used four contexts, one of them rare, and linear
 operators that differ only by initialization. Four influence rules were
 compared: ordinary mixture-of-experts gating (the baseline), gating with a
 load-balancing loss, gating with a usage bias, and a multiplicative
@@ -78,23 +78,23 @@ mechanism that decides is not the influence rule alone.
   recovers a rare specialist from 10⁻³. Only the multiplicative rule and
   the usage bias recover it from 10⁻⁵. The multiplicative rule's rate
   does not depend on the starting share. The gating rules' rate falls
-  with it, for the reason CLAIM-tmp1u4m3 derives. The usage bias also
+  with it, for the reason [CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md) derives. The usage bias also
   lifts an incompetent copy.
 - **Refill after removal.** It depends on spare capacity, not on the
   rule. A spare refilled the niche in 6 of 6 seeds under every rule at
   K = 6, and nothing refilled it at K = 4.
-- **QUESTION-134's experiment.** With spare capacity, a suppressed
+- **[QUESTION-134](../questions.d/QUESTION-134.md)'s experiment.** With spare capacity, a suppressed
   specialist is shut out whether or not it kept its competence. Without
   it, the specialist returns even after losing most of its competence
-  (CLAIM-tmp1jz5w).
+  ([CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)).
 
 **What remains of the lead:**
 
-- the CASE-117 conditions not run: learned features, historical-grant
+- the [CASE-117](../cases.d/CASE-117.md) conditions not run: learned features, historical-grant
   influence, an authority-update rule the organization revises, abrupt
   shifts and recurring dormancy, internally maintained exploration;
-- the compatibility-complex measurement for QUESTION-133;
-- any parameter sweep for QUESTION-125;
+- the compatibility-complex measurement for [QUESTION-133](../questions.d/QUESTION-133.md);
+- any parameter sweep for [QUESTION-125](../questions.d/QUESTION-125.md);
 - 12 seeds rather than 6, and longer windows for the slow recoveries;
 - a marginalization the population produces itself, rather than a clamp.
 

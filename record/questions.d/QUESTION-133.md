@@ -127,15 +127,15 @@ lost demand cannot be met again.
 
 The question is unchanged and stays Open.
 
-## Note of 2026-11-22: not reached by LEAD-016's run
+## Note of 2026-11-22: not reached by [LEAD-016](../leads.d/LEAD-016.md)'s run
 
-LEAD-016 lists this question. Its reduced run of CASE-117 (CASE-tmpnti0m) has
+[LEAD-016](../leads.d/LEAD-016.md) lists this question. Its reduced run of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)) has
 four contexts with orthogonal linear targets, which one operator cannot
 meet together. Differentiation into one specialist per context makes the
 four demands jointly met: held-out risk fell from 0.68–1.28 under equal
-shares to 0.010. This is only the persistence-free version of CASE-115's
+shares to 0.010. This is only the persistence-free version of [CASE-115](../cases.d/CASE-115.md)'s
 construction. The demands' acceptance sets were not fixed and checked as
-CLAIM-347 requires, and the complex was not computed. Nothing here tests
+[CLAIM-347](../claims.d/CLAIM-347.md) requires, and the complex was not computed. Nothing here tests
 the note of 2026-11-03's hypothesis that recurrent frustration drives the
 split.
 

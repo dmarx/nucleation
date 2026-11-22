@@ -28,7 +28,7 @@ draws_on:
 line:
 - distributed-agency
 summary: >-
-  LEAD-016 asked for CASE-117 to be run. This is a reduced version on a
+  [LEAD-016](../leads.d/LEAD-016.md) asked for [CASE-117](CASE-117.md) to be run. This is a reduced version on a
   CPU. There are four contexts, one of them rare (p = 0.02), each a linear
   regression with an orthonormal target. K linear operators, identical in
   form and differing only by initialization, mix by context-conditioned
@@ -62,11 +62,11 @@ summary: >-
 
 ## What was done
 
-LEAD-016 asks for CASE-117 to be run. The work was scoped to about an hour
-of CPU on a shared machine. It covers CASE-117's influence-update and
+[LEAD-016](../leads.d/LEAD-016.md) asks for [CASE-117](CASE-117.md) to be run. The work was scoped to about an hour
+of CPU on a shared machine. It covers [CASE-117](CASE-117.md)'s influence-update and
 diversity-mechanism dimensions, its specialist-loss and recovery-opportunity
 dimensions, its frozen-against-trainable recovery measurement, and its
-coupled-against-decoupled exposure comparison (QUESTION-134). It leaves the
+coupled-against-decoupled exposure comparison ([QUESTION-134](../questions.d/QUESTION-134.md)). It leaves the
 rest out (see "What it cannot show").
 
 **The model** (`scratch/studies/lead-016/opmodel.py`, with 12 tests):
@@ -88,7 +88,7 @@ rest out (see "What it cannot show").
     batch usage. This is balancing imposed inside the gradient.
   - **moe_bias**: moe plus a per-operator bias, stepped toward equal
     usage. This is balancing imposed outside the gradient, after
-    auxiliary-loss-free balancing (LIT-1414). Here the bias enters the
+    auxiliary-loss-free balancing ([LIT-1414](../literature.d/LIT-1414.md)). Here the bias enters the
     dense mixing weights, since there is no top-k selection.
   - **rep**: each sample adds η(ℓ̂ − ℓ_i) to Z_ci, the collective's loss
     minus operator i's own. This is a multiplicative, context-sensitive
@@ -100,7 +100,7 @@ rest out (see "What it cannot show").
 - **Competence** is analytic held-out risk on the generating distribution,
   (|θ_i − β_c|² + σ²)/(1 + σ²), relative to predicting zero. No sample the
   loop saw enters it. This is the independent evaluation distribution
-  QUESTION-134 asks for.
+  [QUESTION-134](../questions.d/QUESTION-134.md) asks for.
 
 **Protocol** (`study.py`). Each rule ran with K = 4, one operator per
 context, and K = 6, two spare. There were 6 seeds; the run was cut from 12
@@ -111,7 +111,7 @@ the operator with the largest share in R. From that snapshot, each test ran
 stated:
 
 - **rare** (frozen or trainable): the specialist's share in R set to ε =
-  10⁻², 10⁻³ or 10⁻⁵. This is QUESTION-132's recovery test from a small
+  10⁻², 10⁻³ or 10⁻⁵. This is [QUESTION-132](../questions.d/QUESTION-132.md)'s recovery test from a small
   positive start.
 - **sham**: the same, with the specialist's parameters replaced by a frozen
   copy of a common context's specialist. That copy is as incompetent in R
@@ -121,7 +121,7 @@ stated:
 - **suppress**: the specialist's share in R clamped at 10⁻³ for 20,000
   steps, then released at 10⁻³. There are five variants:
   - exposure coupled to the clamped influence, or decoupled, kept at its
-    pre-suppression level (QUESTION-134's control);
+    pre-suppression level ([QUESTION-134](../questions.d/QUESTION-134.md)'s control);
   - with or without weight decay of 10⁻⁴ a step in the test window, a
     maintenance cost;
   - one coupled-with-decay variant whose parameters are frozen at release.
@@ -158,7 +158,7 @@ usage entropy 1.19. At K = 6 the rules part:
   specialist was made. The time to recover grows only with log(1/ε).
 - **Recovery rate under softmax-gradient gating.** With or without the
   balancing loss, it falls with the share. From 10⁻⁵ the specialist ends
-  the window at 8 × 10⁻⁴. CLAIM-tmp1u4m3 gives the reason: the logit
+  the window at 8 × 10⁻⁴. [CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md) gives the reason: the logit
   gradient of a softmax share is proportional to that share. The
   load-balancing loss changes nothing at this coefficient, because its
   gradient is also proportional to the share.
@@ -176,7 +176,7 @@ usage entropy 1.19. At K = 6 the rules part:
 - **K = 6.** A spare refills it in 6 of 6 seeds under every rule. Risk
   returns to 0.0104, with no cost to the common contexts.
 
-**Suppression (QUESTION-134).** Access is the specialist's mean exposure per
+**Suppression ([QUESTION-134](../questions.d/QUESTION-134.md)).** Access is the specialist's mean exposure per
 rare sample during suppression. Competence is its held-out risk in R,
 starting at 0.0104. Recovery counts are given for moe, moe_aux, moe_bias
 and rep.
@@ -208,7 +208,7 @@ and rep.
   its competence: from 0.013 at release to 0.76 at the end. Loss of
   competence followed the exclusion and did not cause it.
 
-**Residual direction (QUESTION-135).** `residual.py` measures, at the
+**Residual direction ([QUESTION-135](../questions.d/QUESTION-135.md)).** `residual.py` measures, at the
 snapshot, the rare specialist's squared distance d² from the span of the
 other operators' normalized parameter vectors.
 
@@ -219,14 +219,14 @@ other operators' normalized parameter vectors.
 | moe, K = 6 | 0.18 | negative |
 
 So recovery tracks the specialist's own residual direction. That is the
-quantity CLAIM-tmp6kclm's Theorem B puts in its lower bound, n_i d_i², for
+quantity [CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md)'s Theorem B puts in its lower bound, n_i d_i², for
 fixed features. Under rep at K = 6 the spare had already co-learned the
 rare job before the test. Under moe at K = 6 the spare learned it during the window, faster
 than the specialist's share-limited recovery.
 
 ## What it can show
 
-- **Matched participation, different mechanism.** CASE-117's decisive
+- **Matched participation, different mechanism.** [CASE-117](CASE-117.md)'s decisive
   comparison can be made in this class. moe, moe_aux and rep end with the
   same context-conditioned participation, task performance and budget.
   They differ in recovery dynamics:
@@ -236,45 +236,45 @@ than the specialist's share-limited recovery.
   - the usage bias: it recovers what is rare whether or not it is
     competent.
 
-  So the difference CASE-117 names, between imposed balance and recovery
+  So the difference [CASE-117](CASE-117.md) names, between imposed balance and recovery
   that comes from competence, can be measured here. The sham arm is the
   measurement.
 - **Removal and refill.** Spare capacity decides between them. With
   capacity, the role is regenerated and the particular specialist is
-  shut out. This resembles CLAIM-tmpf11gs's Reading B, role regeneration
+  shut out. This resembles [CLAIM-tmpf11gs](../claims.d/CLAIM-tmpf11gs.md)'s Reading B, role regeneration
   by interchangeable holders, now in a model whose operators have
   functions. Without capacity, nothing refills a lost niche, and the
   specialist that held it keeps a claim on it.
-- **QUESTION-134.**
+- **[QUESTION-134](../questions.d/QUESTION-134.md).**
   - The three losses separate. Loss of access did not by itself cost
     competence. With a maintenance cost it did, and decoupling prevented
     that.
-  - The decisive result QUESTION-134 asks for was not found. A specialist
+  - The decisive result [QUESTION-134](../questions.d/QUESTION-134.md) asks for was not found. A specialist
     with competence lost through deprivation that does not return, while a
     decoupled control does, did not appear. Where the specialist failed to
     return, the decoupled control failed too, by pre-emption.
   - Competence loss came after exclusion, through renewed coupling.
-  - These results are filed as CLAIM-tmp1jz5w.
+  - These results are filed as [CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md).
 
 ## What it cannot show
 
-- **Not attempted.** These CASE-117 conditions were not run:
+- **Not attempted.** These [CASE-117](CASE-117.md) conditions were not run:
   - learned features;
-  - historical-grant influence (CLAIM-277);
+  - historical-grant influence ([CLAIM-277](../claims.d/CLAIM-277.md));
   - an authority-update rule the organization revises;
   - abrupt distribution shifts and recurring dormancy;
   - internally maintained exploration;
-  - the compatibility-complex measurement for QUESTION-133;
-  - any parameter sweep for QUESTION-125.
+  - the compatibility-complex measurement for [QUESTION-133](../questions.d/QUESTION-133.md);
+  - any parameter sweep for [QUESTION-125](../questions.d/QUESTION-125.md).
 - **Scope.** There is one model class: linear operators with orthogonal
   targets, so an operator can serve one context well. There is one size,
   d = 8 and C = 4, and there are 6 seeds. A 20,000-step window means that
   "not recovered" is bounded by about 3,200 rare samples. The moe
   recoveries from 10⁻⁵ may come later.
 - **Self-constitution.** Positive results here do not show it. The
-  objectives are the modeller's (CLAIM-288).
+  objectives are the modeller's ([CLAIM-288](../claims.d/CLAIM-288.md)).
 - **Implementation choices.** The moe_bias variant puts its bias into the
-  mixing weights. LIT-1414 puts it into top-k selection only, so this
+  mixing weights. [LIT-1414](../literature.d/LIT-1414.md) puts it into top-k selection only, so this
   variant is an analogue, not a reproduction. The aux coefficient was not
   swept.
 - **Suppression design.** Suppression clamps the share by intervention, so

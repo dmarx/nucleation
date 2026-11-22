@@ -136,8 +136,8 @@ A's [QUESTION-386](QUESTION-386.md) asks whether activity-based budgeting can de
 
 ## Note of 2026-11-22: the three losses separated, in a reduced run
 
-LEAD-016 ran this question's experiment inside a reduced version of
-CASE-117 (CASE-tmpnti0m). A rare-context specialist's influence was
+[LEAD-016](../leads.d/LEAD-016.md) ran this question's experiment inside a reduced version of
+[CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)). A rare-context specialist's influence was
 clamped at 10⁻³ for 20,000 steps and then released. Its training exposure
 was either coupled to its influence or, as the control, kept at its
 pre-suppression level. Its competence was held-out risk on the generating
@@ -158,7 +158,7 @@ So the decisive result this question names did not appear. That result
 would be competence lost through deprivation that does not return, against
 a decoupled control that does. Where the specialist did not return, the
 decoupled control did not either. Competence loss followed the exclusion,
-once exposure was coupled again (0.013 to 0.76). CLAIM-tmp1jz5w files this.
+once exposure was coupled again (0.013 to 0.76). [CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md) files this.
 It also files two readings, for the owner, of what a competent specialist
 permanently displaced by an equally competent newcomer is.
 

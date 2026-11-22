@@ -382,7 +382,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-22: operators with functions, recovery when rare, and refill
 
-LEAD-016 ran a reduced version of CASE-117 (CASE-tmpnti0m). It used
+[LEAD-016](../leads.d/LEAD-016.md) ran a reduced version of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)). It used
 linear operators identical but for initialization, with four contexts, one
 rare. Every rule tried differentiated them into one specialist per context,
 the rare one included.
@@ -393,7 +393,7 @@ the rare one included.
   at a rate that does not depend on its starting share. It also recovered
   under ordinary mixture-of-experts gating, but at a rate proportional to
   that share, and not from 10⁻⁵ within the window.
-- **A caution for this question's λ_i.** CLAIM-tmp1u4m3 derives the
+- **A caution for this question's λ_i.** [CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md) derives the
   proportionality. Under any softmax router trained by gradient, the
   recovery exponent at rarity tends to a value that does not depend on
   the operator's competence. A balancing loss in the gradient does not
@@ -403,12 +403,12 @@ the rare one included.
   context. The multiplicative rule drove it out.
 - **With two spare operators.** A spare refilled a removed specialist's
   niche every time. It also took the niche of a suppressed specialist,
-  which then stayed shut out with its competence intact (CLAIM-tmp1jz5w).
+  which then stayed shut out with its competence intact ([CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)).
   The rare specialist's recovery was near zero where a spare had
   co-learned its job (residual direction d² ≈ 0).
 
-CLAIM-tmpf11gs's two readings return here, now with a functional niche. The
-role is regenerated, but its particular holder is not kept. CLAIM-tmp1jz5w
+[CLAIM-tmpf11gs](../claims.d/CLAIM-tmpf11gs.md)'s two readings return here, now with a functional niche. The
+role is regenerated, but its particular holder is not kept. [CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)
 files the same two readings for the owner.
 
 The question is unchanged and stays Open.

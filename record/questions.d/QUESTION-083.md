@@ -221,8 +221,8 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-22: the mixture-of-experts baseline, run
 
-LEAD-016 ran CASE-117's baseline beside a multiplicative contribution
-rule (CASE-tmpnti0m). It used identical linear operators, four contexts
+[LEAD-016](../leads.d/LEAD-016.md) ran [CASE-117](../cases.d/CASE-117.md)'s baseline beside a multiplicative contribution
+rule ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)). It used identical linear operators, four contexts
 (one rare) and no role primitives. The run bears on the note of 2026-10-18's
 demand that an answer show "more than" ordinary mixtures of experts.
 
@@ -231,12 +231,12 @@ demand that an answer show "more than" ordinary mixtures of experts.
   the rules.
 - **Recovery of a rare specialist.** This separates them. Under the
   baseline, and under balancing in the gradient, a specialist's recovery
-  rate is proportional to its share (CLAIM-tmp1u4m3). Under the
+  rate is proportional to its share ([CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md)). Under the
   multiplicative rule it is not. A usage bias recovers rare operators
   whether or not they are competent.
 - **Reorganization after losing a specialist.** It happened when there
   was spare capacity, and the lost specialist was then not readmitted
-  (CLAIM-tmp1jz5w).
+  ([CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)).
 
 No rule tried revises its own routing standard. So "endogenous revision of
 roles and authority" was not tested. Mutual regulation was not tested

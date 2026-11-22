@@ -106,11 +106,11 @@ The question stays open. No status change.
 ## Note of 2026-11-19: Poole and colleagues, read
 Background ([NOTE-2099](../notes.d/NOTE-2099.md)): in Poole and colleagues' mean-field maps, χ1 = 1 is a bifurcation of the layer map, where the fixed point at correlation 1 loses stability and one below 1 appears (§3). There is no block or gap in their setting, so it supplies only the bifurcation half.
 
-## Note of 2026-11-22: not reached by LEAD-016's run
+## Note of 2026-11-22: not reached by [LEAD-016](../leads.d/LEAD-016.md)'s run
 
-LEAD-016 lists this question. Its reduced run of CASE-117 (CASE-tmpnti0m) ran
+[LEAD-016](../leads.d/LEAD-016.md) lists this question. Its reduced run of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)) ran
 at one parameter point per rule, so it gives no thresholds to compare.
-CASE-117's comparison of representational novelty against dynamical
+[CASE-117](../cases.d/CASE-117.md)'s comparison of representational novelty against dynamical
 stability was not attempted.
 
 The question is unchanged and stays Open.
