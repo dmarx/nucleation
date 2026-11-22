@@ -223,3 +223,13 @@ Prähofer-Spohn, Sasamoto-Spohn, Miettinen. Entries the first search
   the exact 1+1D exponents (p. 1).
 
 No held entry contradicts the reading.
+
+## Step 4: report (2026-11-22)
+
+Status for LIT-2982: **read** (lawful arXiv copy, full text). No
+neighbour needed. Candidate registrations for the filer, catalogue
+metadata only, not read: Takeuchi, Kuroda, Chaté and Sano, arXiv:0706.4151
+and arXiv:0907.4297 (directed percolation in the same system), useful as
+the tuned counterpart for QUESTION-508; Sasamoto and Spohn, PRL 104,
+230602 (2010), cited in the note added in proof. No email address sent
+to any service.
