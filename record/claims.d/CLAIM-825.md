@@ -1,0 +1,148 @@
+---
+number: 825
+status: Proposed
+formerly:
+- CLAIM-tmpj0k4q
+title: 'A model has no single practical dimension: the number of parameter directions a data set resolves grows with the data, as a power of the sample size when the Fisher spectrum falls as a power of rank and as its logarithm when it falls exponentially, so zooming out and demanding precision move effective dimension in opposite directions'
+version: 1
+role: thesis
+warrant: demonstrated
+defeated_if: >-
+  A model whose Fisher information grows in proportion to the number of
+  independent observations, with a fixed eigenbasis, in which the number
+  of eigendirections with nλ_j ≥ 1 does not grow as (nC)^(1/p) for a
+  spectrum λ_j = C j^(−p), or as ln(nC)/a for λ_j = C e^(−aj); or a
+  showing that the resolvability threshold nλ_j ≳ 1 does not track which
+  directions a data set of size n constrains, so the count it gives is not
+  an effective dimension. A model whose Fisher information does not scale
+  with n, or whose eigenbasis turns with the data, is outside the claim.
+tags:
+- information-geometry
+- mathematical-statistics
+- learning-theory
+date: '2026-11-21'
+line:
+- formal-apparatus
+- learned-structure
+grounds:
+- THEORY-774
+- THEORY-777
+uses:
+- TERM-135
+summary: >-
+  A's toy derivation at A21 §5 and the opposition at A21 §7 of the
+  exchange "Rich Get Richer Power Laws": with n observations a direction
+  of Fisher eigenvalue λ_j is resolved roughly when nλ_j ≥ 1, so a
+  power-law spectrum C j^(−p) resolves about (nC)^(1/p) directions and an
+  exponential one about ln(nC)/a; "a model does not necessarily possess
+  one fixed practical dimensionality". Coarse-graining, which the record
+  holds as compressing parameter space ([THEORY-777](../theory.d/THEORY-777.md), [THEORY-742](../theory.d/THEORY-742.md)), moves the
+  count down; more data move it up. The assistant checked both counts.
+  The wording is A's (the other assistant in the exchange "Rich Get Richer
+  Power Laws", A21); adopting it is the owner's call.
+bears_on:
+- QUESTION-517
+---
+<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-777 — Proposed reading, the compression half -->
+<!-- inactive-ok-file: TERM-135 CLAIM-849 — filed with this claim from the same exchange, Proposed -->
+<!-- inactive-ok-file: ARG-147 THEORY-2154 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+
+# CLAIM-825: A model has no single practical dimension: the number of parameter directions a data set resolves grows with the data, as a power of the sample size when the Fisher spectrum falls as a power of rank and as its logarithm when it falls exponentially, so zooming out and demanding precision move effective dimension in opposite directions
+
+## The claim
+
+A21 §5: with n independent observations "the Fisher information
+typically grows approximately in proportion to n", so "under a simple
+normalized noise convention, a rough distinguishability criterion is
+nλ_j ≳ 1". Then
+
+- for λ_j = C j^(−p), the resolved count is d_eff(n) ~ (nC)^(1/p);
+- for λ_j = C e^(−aj), it is d_eff(n) ~ ln(nC)/a.
+
+"**A model does not necessarily possess one fixed practical
+dimensionality. Its effective dimension can depend on observational
+resolution.** With limited data, it may look like a three-parameter
+model. With much more data, previously invisible parameter combinations
+become detectable."
+
+A21 §7 sets this against coarse-graining: "**Zooming out** More
+microscopic distinctions become irrelevant. We may need fewer effective
+parameters … **Demanding more precision** Previously negligible
+differences become detectable." Both can hold of one system: "The number
+of parameters required to specify the statistical law can decrease, while
+the amount of information needed to specify a particular realization
+remains enormous."
+
+## Check
+
+The assistant counted the directions with nλ_j ≥ 1 on a million-term
+spectrum. For λ_j = j^(−2) the count is 10, 31, 100, 316 and 1000 at
+n = 10², 10³, 10⁴, 10⁵, 10⁶, a log–log slope of 0.501 against 1/p = 0.5;
+for λ_j = j^(−3), 4, 10, 21, 46 and 100, slope 0.346 against 0.333 (the
+floor of a small count biases it up). For λ_j = e^(−0.5 j) the count is
+9, 18, 27, 36 and 55 at n = 10², 10⁴, 10⁶, 10⁸ and 10¹², against
+ln n/a = 9.2, 18.4, 27.6, 36.8 and 55.3. (A numpy script of this session,
+not kept; the method is as stated.)
+
+The work cited for the sloppy-model setting, Transtrum and colleagues'
+review ([LIT-2994](../literature.d/LIT-2994.md)), was read on 2026-11-21 and corroborates the
+compression half only ([THEORY-2154](../theory.d/THEORY-2154.md), [ARG-147](../arguments.d/ARG-147.md); see the note below).
+The count above does not depend on it.
+
+## What it does not say
+
+- **Not a general law.** A calls it "a toy calculation, not a general law
+  connecting the Fisher spectrum to the amount of predictive
+  information". It needs Fisher information linear in n and a fixed
+  eigenbasis, which a nonlinear model gives only near a point and a
+  singular model not at all ([THEORY-1253](../theory.d/THEORY-1253.md)). The link to predictive
+  information that A leaves out is [CLAIM-849](CLAIM-849.md).
+- **Not that the spectrum is the same for every experiment.** The
+  spectrum is that of one design ([TERM-135](../terms.d/TERM-135.md), condition 1); the
+  record's cases spread only under coarse observation ([THEORY-774](../theory.d/THEORY-774.md),
+  [THEORY-777](../theory.d/THEORY-777.md)).
+- **Not that a fractal is the same thing.** A21 §5–6 likens the growth to
+  "a fractal at increasing resolution" and reads box-counting dimension as
+  bits gained per doubling of resolution (log₂ 3 ≈ 1.585 for the
+  Sierpiński triangle, which the assistant confirmed). A gives no shared
+  measure across the fractal, parameter and predictive settings, and its
+  table of "complexity as a function of scale" is an analogy, not a
+  result. Which of these dimensions agree is [QUESTION-517](../questions.d/QUESTION-517.md).
+
+## Note of 2026-11-21: Transtrum et al. (2015), Transtrum, Machta & Sethna (2010, 2011) and Bialek, Nemenman & Tishby, read
+
+- **The review** ([NOTE-2242](../notes.d/NOTE-2242.md)) supports the compression half: the
+  hopping model's manifold is a "hyper-blob" after one step and "as time
+  proceeds, the model manifold contracts onto a hyper-ribbon". It says
+  nothing of resolved directions growing with data; its nearest remark is
+  the EGFR figure's cut at eigenvalues below 1. It was in the grounds,
+  unread; it carries less, and corroborates ([ARG-147](../arguments.d/ARG-147.md)).
+- **The 2010 letter** ([NOTE-2240](../notes.d/NOTE-2240.md)) is a parallel: points added within the
+  radius of convergence "supply little new information", each
+  cross-section a constant factor thinner, a geometric fall, which on this
+  claim's terms gives logarithmic growth.
+- **The 2011 paper** ([NOTE-2247](../notes.d/NOTE-2247.md)) gives a count of the same kind in
+  noise rather than n: the expected number of parameters not evaporated at
+  a best fit grows as log(W₀/σ)/|log ∆| for widths W₀∆ⁿ (Eq. 37), and "the
+  errors must be smaller than the narrowest width for there to be no
+  evaporated parameters". Background.
+- **Bialek, Nemenman and Tishby** ([NOTE-2243](../notes.d/NOTE-2243.md)) corroborate the power-law
+  half: with K ∼ N^ν effective parameters each new sample carries
+  ∼ N^(ν−1) bits (§4.5), and in their worked nonparametric case the
+  predictive information is "directly proportional to the number of bins
+  that can be put in the range of x", which grows as √N (§4.6). They warn
+  that "If the number of parameters grows constantly, then the scenario
+  where the data overwhelms all the unknowns is far from certain". Their
+  count is through the density of divergences, not a Fisher threshold
+  nλ ≳ 1.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
+parallel.** The resolved power-law range grows with the numbers of neurons
+and stimuli (Fig. 2g–j); "typically this range extends to approximately
+half the total number of stimuli presented" (SI §3.5), below which the
+eigenvectors are "corrupted by additive noise". That is a resolved
+dimension growing with sample size under a power-law spectrum, measured,
+in a neural code. A parallel, so no relation.

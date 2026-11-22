@@ -30,7 +30,7 @@ tags:
 date: '2026-10-11'
 line: nucleating-argument
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 rests_on:
 - CLAIM-177
 - CLAIM-182
@@ -165,3 +165,17 @@ constant bias with no fixed point, which grows linearly without end. The
 claim reads as the first, and [CLAIM-772](CLAIM-772.md) takes it so; its defeater
 tests direction only, which both kinds have. The shape of displacement
 against the number of restatements would tell them apart ([LEAD-204](../leads.d/LEAD-204.md)).
+
+## Admission
+
+Audited at the synthesis review of 2026-11-21 ([ADR-075](../decisions.d/ADR-075.md), step 5) by a reader briefed neutrally.
+
+**What it adds.** The direction clause adds something to its premises, by the separating-case route. Take restated features for which the assistant has no stock framing: the record's own coinages, its idiosyncratic distinctions, a domain where its prior over phrasings is broad and flat. Every premise holds there: [CLAIM-090](CLAIM-090.md) in general, [THEORY-155](../theory.d/THEORY-155.md)'s theorem as diffusion, [CLAIM-177](CLAIM-177.md), [CLAIM-182](CLAIM-182.md), and [CLAIM-267](CLAIM-267.md), which "does not say drift is random". Restatement error is then unbiased, and by [CLAIM-773](CLAIM-773.md) such a feature drifts undirected. The clause "toward the collaborators' own framings" fails. The case is realistic. Found blind in the record's exchanges, it would meet this claim's own defeater for those items, so it bears on the claim's truth and not only on its separateness.
+
+**What it does not add.** The code clause adds nothing to [CLAIM-182](CLAIM-182.md) with [CLAIM-180](CLAIM-180.md).
+
+**A narrower sentence that passes:** "In the record's exchanges, restatements of uncoded content across sessions move, as judged by blind raters, toward the assistant's default framings rather than undirected." It would leave the shape of the drift (a fixed point, or a constant bias) to [CLAIM-773](CLAIM-773.md) and [LEAD-204](../leads.d/LEAD-204.md).
+
+## Note of 2026-11-21: a misstated premise
+
+The same audit found [CLAIM-002](CLAIM-002.md) misstated. The body says a code "supplies continuity of transmission" and that re-derivation is "identity by similarity alone". In [CLAIM-002](CLAIM-002.md), continuity of transmission ([TERM-084](../terms.d/TERM-084.md)'s second sense, lineage) is what a telephone chain already has: each session reconstructs "from what reaches it", so it descends from the earlier ones. What a code adds is that a later reader can reach and check the original instead of the last retelling. That is [CLAIM-182](CLAIM-182.md)'s addressability, not [CLAIM-002](CLAIM-002.md)'s relation. The title's "a code restores continuity of transmission" should be read as addressability. Two free parameters are also noted: "the collaborators' own framings" (the title includes the owner, the defeater names only the assistant) and "weak channel" (unquantified). No change of status.

@@ -70,6 +70,7 @@ grounds:
 uses:
 - TERM-132
 ---
+<!-- inactive-ok-file: CASE-tmpdcoyb CLAIM-tmpylhdj CLAIM-tmpdsiv5 — Proposed; LEAD-199's study of 2026-11-22 and its two readings -->
 <!-- inactive-ok-file: CLAIM-785 CLAIM-783 TERM-134 — Proposed; filed on 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-184 CLAIM-191 CLAIM-114 — Proposed; open, cited for what each holds -->
 <!-- inactive-ok-file: CLAIM-768 CLAIM-772 CLAIM-779 TERM-132 — Proposed; filed in this contribution of 2026-11-20 -->
@@ -188,3 +189,34 @@ prior is the intersection weighted by enforcement, and lint is its hard
 limit. Version 1's wording, "as constraints accumulate on it", is restored in
 substance there. Nothing here changes.
 
+## Admission
+
+Audited at the synthesis review of 2026-11-21 ([ADR-075](../decisions.d/ADR-075.md), step 5) by a reader briefed neutrally.
+
+**What it adds.** Most of the claim maps its premises. [CLAIM-772](CLAIM-772.md) already places content in the conserved part and form in the contracting part, and [TERM-132](../terms.d/TERM-132.md) already describes the life cycle as features leaving the free part. One sentence adds something: inbound `rests_on` and `grounds` edges that accrue after coding make an entry's title and claim, in effect, conserved. Substantive revisions become rarer after such edges arrive, while status stays free.
+
+**The route, and a risk.** A realistic separating case passes. The premises concern unprompted copying error, and [TERM-132](../terms.d/TERM-132.md) puts deliberate, announced revision outside it. If heavily cited entries draw more audits and revisions, because scrutiny follows citation, substantive revision rises with inbound edges while every premise holds. The record has instances: [CLAIM-478](CLAIM-478.md) was retitled in version 5 while cited, and [CLAIM-772](CLAIM-772.md) was rewritten twice. A rough count over current files gave this:
+
+| Inbound edges | Claims | Share retitled |
+|---|---|---|
+| 0 | 495 | 0.08 |
+| 1–2 | 228 | 0.08 |
+| 3–5 | 53 | 0.17 |
+| 6 or more | 18 | 0.17 |
+
+The count does not control for age or timing. If the pattern holds once those are controlled ([LEAD-199](../leads.d/LEAD-199.md)), it meets this claim's defeater (a), and shows the claim false rather than merely separate.
+
+**A narrower sentence that would survive the scrutiny confound:** per audit or reframing an entry undergoes, the chance of a substantive revision falls as inbound edges accrue, because each edge adds a downstream recheck.
+
+## Note of 2026-11-21: [CLAIM-478](CLAIM-478.md) misstated
+
+The same audit found two misstatements of [CLAIM-478](CLAIM-478.md).
+
+1. The body paraphrases its superseded version 4 ("settle fast relative to others … the window between the two time scales"). Version 5 says "settle faster than others by more than the rates vary among them", which adds that the gap between levels must exceed the spread within them.
+2. The heading "Slowing is what makes an entry a constraint" goes against [CLAIM-478](CLAIM-478.md)'s own "Not that slowness makes a constraint effective". Slowness makes a constraint available, not effective.
+
+Two smaller ones: [CLAIM-195](CLAIM-195.md) names codes, versions and supersession, not "controlled fields"; and [CLAIM-779](CLAIM-779.md)'s rates are carried over without its linear Gaussian model. No change of status.
+
+## Note of 2026-11-22: [LEAD-199](../leads.d/LEAD-199.md)'s count meets defeater (a)
+
+[LEAD-199](../leads.d/LEAD-199.md) was run ([CASE-tmpdcoyb](../cases.d/CASE-tmpdcoyb.md)): over the record's history to 2026-11-22, at matched age, claims with inbound rests_on or grounds edges take substantive revisions about 1.45 times as often as claims with none (Mantel-Haenszel by age, 1.47 [1.22, 1.77]; risk-set matched, 1.62 [1.33, 1.94]), title changes rise too, and the fall in revision rate over a claim's life tracks its age, not its edges. That meets defeater (a) as worded, by the route the admission above foresaw. Two readings are filed, for the owner to choose between: [CLAIM-tmpylhdj](CLAIM-tmpylhdj.md) (this claim is false as it stands) and [CLAIM-tmpdsiv5](CLAIM-tmpdsiv5.md) (the admission's narrower sentence, per audit, which the count cannot test). The status of this claim is left for the owner.

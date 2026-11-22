@@ -43,6 +43,8 @@ summary: >-
   Proportional-limit theorems for one shallow model each; nothing here
   reaches trained deep networks.
 ---
+<!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-106: In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form
 
@@ -165,3 +167,19 @@ peak.
 - **Anthology.** The double-descent curve itself is held there as Belkin
   et al. ([ANTH-LIT-297](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-297.md)), the empirical signature that Liao et al. cite and
   explain for one model.
+
+## Note of 2026-11-22: Dandi and colleagues, read
+
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)):
+**background.** Their baseline is this random-features ridge model, the
+dashed initialization spectrum of their Fig. 1; one maximal-update step
+turns it into a spiked random-features model whose bulk "is modified from
+the unspiked RF spectrum". No relation.
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](THEORY-tmp9ltxi.md)): **background.** At random weights the conjugate kernel is the
+random-features baseline, and the paper gives its outliers when the input
+has spikes; after a few gradient steps at η of order one the trained
+kernel adds one label-aligned outlier beside the untrained bulk law. A
+note, no relation.

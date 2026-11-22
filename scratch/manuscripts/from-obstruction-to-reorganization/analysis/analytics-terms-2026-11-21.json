@@ -1,0 +1,523 @@
+{
+ "computed_at": {
+  "rev": "origin/main",
+  "sha": "56479304e4d850056ed658d411d72844c184b7bb",
+  "short": "56479304e",
+  "date": "2026-11-21T18:20:16+00:00",
+  "subject": "docs: regenerate views [skip ci]"
+ },
+ "run_at": "2026-11-21T18:45:21+00:00",
+ "inputs": {
+  "rev": "origin/main",
+  "census_dir": "scratch/manuscripts/from-obstruction-to-reorganization/analysis/census",
+  "term_changes_rev": "origin/main",
+  "growth_ref": "origin/main",
+  "growth_dates": [
+   "2026-09-25",
+   "2026-10-15",
+   "2026-11-01",
+   "2026-11-19"
+  ]
+ },
+ "values": {
+  "term_change_summary": {
+   "events": 36,
+   "by_kind": {
+    "changed": 26,
+    "removed": 10
+   },
+   "adr_in_unit": 36,
+   "unit_is_commit": 1,
+   "untouched_with_carriers": [
+    "topics:anthology-candidate",
+    "topics:ecology"
+   ],
+   "events_list": [
+    {
+     "date": "2026-10-02",
+     "commit": "6b856b652",
+     "pr": 70,
+     "vocabulary": "topics",
+     "term": "identity",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 41,
+     "carriers_touched": 41
+    },
+    {
+     "date": "2026-10-02",
+     "commit": "9e196e4f4",
+     "pr": 70,
+     "vocabulary": "topics",
+     "term": "identity",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 41,
+     "carriers_touched": 41
+    },
+    {
+     "date": "2026-10-03",
+     "commit": "309687463",
+     "pr": 80,
+     "vocabulary": "topics",
+     "term": "agency",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 79,
+     "carriers_touched": 42
+    },
+    {
+     "date": "2026-10-03",
+     "commit": "309687463",
+     "pr": 80,
+     "vocabulary": "topics",
+     "term": "individuation",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 57,
+     "carriers_touched": 36
+    },
+    {
+     "date": "2026-10-03",
+     "commit": "309687463",
+     "pr": 80,
+     "vocabulary": "topics",
+     "term": "self-and-personhood",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 42,
+     "carriers_touched": 42
+    },
+    {
+     "date": "2026-10-09",
+     "commit": "9ed7192ce",
+     "pr": 111,
+     "vocabulary": "topics",
+     "term": "learning-theory",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 92,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-10-13",
+     "commit": "e5c862888",
+     "pr": 137,
+     "vocabulary": "lit-statuses",
+     "term": "Deferred",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 345,
+     "carriers_touched": 177
+    },
+    {
+     "date": "2026-10-13",
+     "commit": "38a7ccfbc",
+     "pr": 141,
+     "vocabulary": "case-standing",
+     "term": "stipulated",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 35,
+     "carriers_touched": 35
+    },
+    {
+     "date": "2026-10-19",
+     "commit": "84a4e06f9",
+     "pr": 247,
+     "vocabulary": "topics",
+     "term": "anthology-candidate",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 237,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-10-21",
+     "commit": "c58bf0f4f",
+     "pr": null,
+     "vocabulary": "question-statuses",
+     "term": "Answered",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-10-25",
+     "commit": "7a0c6ca9b",
+     "pr": 331,
+     "vocabulary": "lit-statuses",
+     "term": "Unavailable",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 323,
+     "carriers_touched": 35
+    },
+    {
+     "date": "2026-10-27",
+     "commit": "f61c6076e",
+     "pr": 339,
+     "vocabulary": "topics",
+     "term": "ecology",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 50,
+     "carriers_touched": 13
+    },
+    {
+     "date": "2026-10-28",
+     "commit": "67157a67e",
+     "pr": 335,
+     "vocabulary": "topics",
+     "term": "ecology",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 37,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-07",
+     "commit": "8ef81fb31",
+     "pr": 422,
+     "vocabulary": "synthesis-statuses",
+     "term": "Proposed",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 5,
+     "carriers_touched": 5
+    },
+    {
+     "date": "2026-11-07",
+     "commit": "8ef81fb31",
+     "pr": 422,
+     "vocabulary": "synthesis-statuses",
+     "term": "Unadmitted",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-07",
+     "commit": "8235cc101",
+     "pr": 440,
+     "vocabulary": "lines",
+     "term": "nucleating-argument",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 82,
+     "carriers_touched": 44
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-statuses",
+     "term": "Current",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 2,
+     "carriers_touched": 2
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-statuses",
+     "term": "Proposed",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 15,
+     "carriers_touched": 15
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-statuses",
+     "term": "Rejected",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-statuses",
+     "term": "Superseded",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-admission",
+     "term": "admitted",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 12,
+     "carriers_touched": 12
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-admission",
+     "term": "unadmitted",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 5,
+     "carriers_touched": 5
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-routes",
+     "term": "hypothesis",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 9,
+     "carriers_touched": 9
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-routes",
+     "term": "derived",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 3,
+     "carriers_touched": 3
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "e38c08227",
+     "pr": 442,
+     "vocabulary": "synthesis-routes",
+     "term": "integration",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 0,
+     "carriers_touched": 0
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "4723fe658",
+     "pr": 442,
+     "vocabulary": "lines",
+     "term": "nucleating-argument",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 48,
+     "carriers_touched": 5
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "4723fe658",
+     "pr": 442,
+     "vocabulary": "lines",
+     "term": "records-of-inquiry",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 25,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-11-08",
+     "commit": "4723fe658",
+     "pr": 442,
+     "vocabulary": "lines",
+     "term": "record-as-apparatus",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 20,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-11-10",
+     "commit": "d196064da",
+     "pr": 452,
+     "vocabulary": "lines",
+     "term": "readiness",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 85,
+     "carriers_touched": 34
+    },
+    {
+     "date": "2026-11-11",
+     "commit": "eb9e3dadc",
+     "pr": 460,
+     "vocabulary": "lines",
+     "term": "will-organization",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 220,
+     "carriers_touched": 30
+    },
+    {
+     "date": "2026-11-15",
+     "commit": "01651fbc3",
+     "pr": 506,
+     "vocabulary": "lines",
+     "term": "organizational-normativity",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 76,
+     "carriers_touched": 34
+    },
+    {
+     "date": "2026-11-19",
+     "commit": "44c192ec3",
+     "pr": 528,
+     "vocabulary": "arg-forms",
+     "term": "explication",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 1,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-11-19",
+     "commit": "fe0aa5921",
+     "pr": 528,
+     "vocabulary": "arg-forms",
+     "term": "explication",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 1,
+     "carriers_touched": 1
+    },
+    {
+     "date": "2026-11-20",
+     "commit": "4ff25d9be",
+     "pr": 546,
+     "vocabulary": "lead-stages",
+     "term": "specified",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 4,
+     "carriers_touched": 2
+    },
+    {
+     "date": "2026-11-21",
+     "commit": "178b51b0c",
+     "pr": 599,
+     "vocabulary": "works",
+     "term": "luria-nucleating-an-argument",
+     "kind": "removed",
+     "keys": [],
+     "adr_in_unit": true,
+     "carriers": 23,
+     "carriers_touched": 23
+    },
+    {
+     "date": "2026-11-21",
+     "commit": "9fea0d781",
+     "pr": 599,
+     "vocabulary": "lines",
+     "term": "record-as-apparatus",
+     "kind": "changed",
+     "keys": [
+      "blurb"
+     ],
+     "adr_in_unit": true,
+     "carriers": 80,
+     "carriers_touched": 7
+    }
+   ]
+  }
+ }
+}

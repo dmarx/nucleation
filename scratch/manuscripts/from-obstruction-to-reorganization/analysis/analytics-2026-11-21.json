@@ -1,0 +1,737 @@
+{
+ "computed_at": {
+  "rev": "origin/main",
+  "sha": "56479304e4d850056ed658d411d72844c184b7bb",
+  "short": "56479304e",
+  "date": "2026-11-21T18:20:16+00:00",
+  "subject": "docs: regenerate views [skip ci]"
+ },
+ "run_at": "2026-11-21T18:42:41+00:00",
+ "inputs": {
+  "rev": "origin/main",
+  "census_dir": "scratch/manuscripts/from-obstruction-to-reorganization/analysis/census",
+  "term_changes_rev": "origin/main",
+  "growth_ref": "origin/main",
+  "growth_dates": [
+   "2026-09-25",
+   "2026-10-15",
+   "2026-11-01",
+   "2026-11-19",
+   "2026-11-21"
+  ]
+ },
+ "values": {
+  "anthology_candidate_count": 649,
+  "case_kind_by_standing": {
+   "construction": {
+    "documented": 2,
+    "fictional": 51,
+    "stipulated": 38
+   },
+   "executed-study": {
+    "documented": 4,
+    "fictional": 2,
+    "stipulated": 7
+   },
+   "proposed-study": {
+    "fictional": 1,
+    "stipulated": 54
+   },
+   "reported-study": {
+    "documented": 12
+   },
+   "specimen": {
+    "documented": 62,
+    "stipulated": 13
+   },
+   "thought-experiment": {
+    "documented": 1,
+    "fictional": 29,
+    "stipulated": 24
+   }
+  },
+  "claim_warrant_by_status": {
+   "demonstrated": {
+    "Active": 205,
+    "Proposed": 39,
+    "Rejected": 1,
+    "Superseded": 5
+   },
+   "empirical": {
+    "Active": 10,
+    "Proposed": 24,
+    "Superseded": 1
+   },
+   "interpretive": {
+    "Active": 188,
+    "Deferred": 3,
+    "Proposed": 276,
+    "Rejected": 9,
+    "Superseded": 33
+   }
+  },
+  "decision_status_counts": {
+   "Active": 114,
+   "Rejected": 8,
+   "Proposed": 7,
+   "Superseded": 5,
+   "Deferred": 1
+  },
+  "entries_by_scheme": {
+   "ADR": 135,
+   "ARG": 124,
+   "CASE": 300,
+   "CLAIM": 794,
+   "DP": 6,
+   "LEAD": 206,
+   "LIT": 2956,
+   "NOTE": 2236,
+   "POSTMORTEM": 4,
+   "QUESTION": 504,
+   "RETRO": 7,
+   "SYNTHESIS": 118,
+   "TERM": 134,
+   "THEORY": 2147
+  },
+  "entries_by_scheme_status": {
+   "ADR": {
+    "Active": 114,
+    "Rejected": 8,
+    "Proposed": 7,
+    "Superseded": 5,
+    "Deferred": 1
+   },
+   "ARG": {
+    "Proposed": 80,
+    "Rejected": 35,
+    "Active": 8,
+    "Deferred": 1
+   },
+   "CASE": {
+    "Active": 191,
+    "Proposed": 105,
+    "Superseded": 3,
+    "Deferred": 1
+   },
+   "CLAIM": {
+    "Active": 403,
+    "Proposed": 339,
+    "Superseded": 39,
+    "Rejected": 10,
+    "Deferred": 3
+   },
+   "DP": {
+    "Active": 6
+   },
+   "LEAD": {
+    "Open": 200,
+    "Done": 6
+   },
+   "LIT": {
+    "Active": 2133,
+    "Unavailable": 531,
+    "Unfetched": 181,
+    "Deferred": 58,
+    "Proposed": 32,
+    "Rejected": 15,
+    "Superseded": 6
+   },
+   "NOTE": {
+    "Read": 2046,
+    "Skimmed": 150,
+    "Superseded": 40
+   },
+   "POSTMORTEM": {
+    "Superseded": 3,
+    "Draft": 1
+   },
+   "QUESTION": {
+    "Open": 462,
+    "Answered": 35,
+    "Deferred": 6,
+    "Superseded": 1
+   },
+   "RETRO": {
+    "Draft": 7
+   },
+   "SYNTHESIS": {
+    "Proposed": 107,
+    "Superseded": 11
+   },
+   "TERM": {
+    "Active": 84,
+    "Proposed": 37,
+    "Superseded": 11,
+    "Deferred": 2
+   },
+   "THEORY": {
+    "Proposed": 1205,
+    "Active": 935,
+    "Rejected": 5,
+    "Superseded": 2
+   }
+  },
+  "entry_count": 9671,
+  "lead_stage_counts": {
+   "idea": 139,
+   "specified": 59,
+   "underway": 7,
+   "costed": 1
+  },
+  "lit_status_counts": {
+   "Active": 2133,
+   "Unavailable": 531,
+   "Unfetched": 181,
+   "Deferred": 58,
+   "Proposed": 32,
+   "Rejected": 15,
+   "Superseded": 6
+  },
+  "luria_yaml_lines": 2601,
+  "record_file_count": 10661,
+  "repo_file_count": 11813,
+  "scheme_count": 14,
+  "topic_term_count": 69,
+  "vocabulary_count": 20,
+  "vocabulary_term_counts": {
+   "topics": 69,
+   "lit-statuses": 7,
+   "note-statuses": 4,
+   "theory-statuses": 5,
+   "synthesis-statuses": 3,
+   "statuses": 5,
+   "adr-tags": 4,
+   "claim-roles": 5,
+   "claim-warrants": 3,
+   "case-standing": 3,
+   "case-kinds": 6,
+   "arg-forms": 11,
+   "lead-statuses": 4,
+   "lead-stages": 4,
+   "lead-priorities": 3,
+   "lead-methods": 6,
+   "postmortem-statuses": 3,
+   "question-statuses": 5,
+   "lines": 19,
+   "works": 11
+  },
+  "census_agreement": {
+   "n": 30,
+   "fields": {
+    "grammar_change": {
+     "agreement": 0.9666666666666667,
+     "kappa": 0.9230769230769231
+    },
+    "regime": {
+     "agreement": 0.9,
+     "kappa": 0.8392857142857143
+    },
+    "trigger": {
+     "agreement": 0.8666666666666667,
+     "kappa": 0.8070739549839229
+    },
+    "noticer": {
+     "agreement": 0.8666666666666667,
+     "kappa": 0.8243045387994145
+    },
+    "proposer": {
+     "agreement": 0.9,
+     "kappa": 0.847715736040609
+    },
+    "decider": {
+     "agreement": 1.0,
+     "kappa": 1.0
+    },
+    "ratification": {
+     "agreement": 1.0,
+     "kappa": 1.0
+    },
+    "residue": {
+     "agreement": 0.7333333333333333,
+     "kappa": 0.6470588235294117
+    },
+    "outcome": {
+     "agreement": 0.7666666666666667,
+     "kappa": 0.3768545994065284
+    },
+    "level": {
+     "mean_jaccard": 0.7722222222222223
+    },
+    "operation": {
+     "mean_jaccard": 0.7522222222222222
+    },
+    "component": {
+     "mean_jaccard": 0.8833333333333333
+    }
+   }
+  },
+  "census_coverage": {
+   "decisions_in_record": 135,
+   "decisions_coded": 136,
+   "uncoded_count": 0,
+   "uncoded": [],
+   "coded_not_in_record": [
+    "ADR-tmpcb96w"
+   ],
+   "last_coded_date": "2026-11-21"
+  },
+  "census_status_drift": {
+   "changed_count": 34,
+   "changed": {
+    "ADR-068": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-075": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-078": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-079": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-081": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-082": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-083": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-084": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-085": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-086": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-087": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-088": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-089": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-090": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-091": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-092": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-093": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-094": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-095": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-096": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-097": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-098": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-099": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-100": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-101": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-102": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-103": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-104": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-105": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-106": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-109": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-111": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-113": {
+     "coded": "Proposed",
+     "now": "Active"
+    },
+    "ADR-114": {
+     "coded": "Proposed",
+     "now": "Active"
+    }
+   }
+  },
+  "census_summary": {
+   "decisions_coded": 136,
+   "grammar_changes": 91,
+   "regime": {
+    "refine": 63,
+    "revise": 27,
+    "restraint": 1
+   },
+   "component": {
+    "language": 80,
+    "criteria": 17,
+    "observations": 16,
+    "answer_space": 14,
+    "resources": 5,
+    "interventions": 3
+   },
+   "operation": {
+    "add": 80,
+    "remove": 5,
+    "redefine": 12,
+    "decline": 9,
+    "narrow": 10,
+    "rename": 3,
+    "split": 9,
+    "widen": 13,
+    "other": 2,
+    "withdraw": 1
+   },
+   "residue": {
+    "unknown": 5,
+    "false_statement": 4,
+    "forced_category": 45,
+    "prose_only": 20,
+    "prospective": 17
+   },
+   "outcome": {
+    "in_force": 79,
+    "reversed": 4,
+    "superseded": 1,
+    "rejected": 1,
+    "unknown": 6
+   },
+   "by_period": {
+    "regime": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "refine": 37,
+      "restraint": 0,
+      "revise": 6
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "refine": 8,
+      "restraint": 1,
+      "revise": 11
+     },
+     "6-20 Nov": {
+      "n": 28,
+      "refine": 18,
+      "restraint": 0,
+      "revise": 10
+     }
+    },
+    "level": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "field": 5,
+      "line": 3,
+      "lint": 2,
+      "process": 4,
+      "relation": 6,
+      "scheme": 3,
+      "status": 2,
+      "term": 24,
+      "view": 2,
+      "vocabulary": 35
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "field": 3,
+      "line": 1,
+      "lint": 5,
+      "process": 5,
+      "relation": 5,
+      "scheme": 1,
+      "status": 4,
+      "term": 1,
+      "view": 3,
+      "vocabulary": 8
+     },
+     "6-20 Nov": {
+      "n": 28,
+      "field": 8,
+      "line": 7,
+      "lint": 2,
+      "process": 3,
+      "relation": 14,
+      "scheme": 5,
+      "status": 5,
+      "term": 7,
+      "view": 8,
+      "vocabulary": 5
+     }
+    },
+    "trigger": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "assistant_in_session": 1,
+      "external_assistant": 1,
+      "filing_agent": 13,
+      "incident": 1,
+      "owner_request": 24,
+      "review_or_audit": 3,
+      "unknown": 0
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "assistant_in_session": 1,
+      "external_assistant": 3,
+      "filing_agent": 1,
+      "incident": 1,
+      "owner_request": 8,
+      "review_or_audit": 5,
+      "unknown": 1
+     },
+     "6-20 Nov": {
+      "n": 28,
+      "assistant_in_session": 1,
+      "external_assistant": 0,
+      "filing_agent": 3,
+      "incident": 0,
+      "owner_request": 12,
+      "review_or_audit": 12,
+      "unknown": 0
+     }
+    },
+    "noticer": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "assistant": 1,
+      "external_assistant": 0,
+      "filing_agent": 16,
+      "owner": 9,
+      "review_process": 4,
+      "unknown": 13
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "assistant": 3,
+      "external_assistant": 1,
+      "filing_agent": 1,
+      "owner": 10,
+      "review_process": 4,
+      "unknown": 1
+     },
+     "6-20 Nov": {
+      "n": 28,
+      "assistant": 3,
+      "external_assistant": 0,
+      "filing_agent": 3,
+      "owner": 8,
+      "review_process": 13,
+      "unknown": 1
+     }
+    },
+    "proposer": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "assistant": 8,
+      "external_assistant": 1,
+      "filing_agent": 9,
+      "owner": 15,
+      "review_process": 0,
+      "unknown": 10
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "assistant": 9,
+      "external_assistant": 1,
+      "filing_agent": 0,
+      "owner": 8,
+      "review_process": 0,
+      "unknown": 2
+     },
+     "6-20 Nov": {
+      "n": 28,
+      "assistant": 10,
+      "external_assistant": 0,
+      "filing_agent": 1,
+      "owner": 11,
+      "review_process": 2,
+      "unknown": 4
+     }
+    },
+    "ratification": {
+     "25 Sep-15 Oct": {
+      "n": 43,
+      "explicit": 22,
+      "merge_assent": 0,
+      "none_recorded": 17,
+      "standing_permission": 4
+     },
+     "16 Oct-5 Nov": {
+      "n": 20,
+      "explicit": 14,
+      "merge_assent": 3,
+      "none_recorded": 1,
+      "standing_permission": 2
+     },
+     "6-20 Nov": {
+      "n": 28,
+      "explicit": 15,
+      "merge_assent": 1,
+      "none_recorded": 12,
+      "standing_permission": 0
+     }
+    }
+   },
+   "noticer_by_regime": {
+    "review_process / refine": 12,
+    "filing_agent / revise": 2,
+    "filing_agent / refine": 18,
+    "unknown / refine": 14,
+    "owner / revise": 14,
+    "owner / refine": 12,
+    "assistant / refine": 6,
+    "review_process / revise": 9,
+    "external_assistant / refine": 1,
+    "owner / restraint": 1,
+    "unknown / revise": 1,
+    "assistant / revise": 1
+   },
+   "decider": {
+    "owner": 52,
+    "unknown": 31,
+    "assistant": 6,
+    "review_process": 2
+   },
+   "ratification": {
+    "explicit": 51,
+    "none_recorded": 30,
+    "standing_permission": 6,
+    "merge_assent": 4
+   },
+   "migrations_stated": 61,
+   "entries_migrated": 2701,
+   "migration_median": 6,
+   "later_harm": [
+    "ADR-015",
+    "ADR-043",
+    "ADR-047",
+    "ADR-057",
+    "ADR-076",
+    "ADR-077",
+    "ADR-090",
+    "ADR-104",
+    "ADR-107",
+    "ADR-109"
+   ]
+  },
+  "commit_counts": {
+   "all": 3739,
+   "non_merge": 3017,
+   "non_merge_bot": 1071
+  },
+  "growth_snapshots": {
+   "2026-09-25": {
+    "commit": "f5c040c6a",
+    "date": "2026-09-25T22:46:52+00:00",
+    "repo_files": 315,
+    "record_files": 214,
+    "schemes": 5,
+    "vocabularies": 6,
+    "topic_terms": 19,
+    "luria_yaml_lines": 481
+   },
+   "2026-10-15": {
+    "commit": "b84ad2e37",
+    "date": "2026-10-15T20:01:25+00:00",
+    "repo_files": 4072,
+    "record_files": 3419,
+    "schemes": 10,
+    "vocabularies": 14,
+    "topic_terms": 62,
+    "luria_yaml_lines": 1468
+   },
+   "2026-11-01": {
+    "commit": "55cd0d814",
+    "date": "2026-11-01T17:12:06+00:00",
+    "repo_files": 7597,
+    "record_files": 6875,
+    "schemes": 10,
+    "vocabularies": 14,
+    "topic_terms": 67,
+    "luria_yaml_lines": 1736
+   },
+   "2026-11-19": {
+    "commit": "eed84a74e",
+    "date": "2026-11-19T22:19:12+00:00",
+    "repo_files": 11112,
+    "record_files": 10058,
+    "schemes": 12,
+    "vocabularies": 18,
+    "topic_terms": 69,
+    "luria_yaml_lines": 2379
+   },
+   "2026-11-21": {
+    "commit": "56479304e",
+    "date": "2026-11-21T18:20:16+00:00",
+    "repo_files": 11813,
+    "record_files": 10661,
+    "schemes": 14,
+    "vocabularies": 20,
+    "topic_terms": 69,
+    "luria_yaml_lines": 2601
+   }
+  }
+ }
+}

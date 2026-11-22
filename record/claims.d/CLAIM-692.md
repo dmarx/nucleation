@@ -48,8 +48,11 @@ summary: >-
   contextual-emergence step succeeds, citing them. The three readings
   filed for that check hold the reasons, and no claim states them. The
   wording is the assistant's; adopting it is the owner's call.
+bears_on:
+- QUESTION-507
 ---
 <!-- inactive-ok-file: THEORY-1314 — Proposed; Jennings's account, which this claim is about -->
+<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 
 # CLAIM-692: The neural signature Jennings offers for an emergent subject's constraint on its parts, 1/f scaling and phase-amplitude coupling tied to attention, does not discriminate a macro-level constraint from micro-level mechanism: 1/f structure is present in every field recording, a coupling measure can be met by one non-sinusoidal rhythm, and the attention coupling it cites is a correlation with no control of waveform shape
 
@@ -99,3 +102,18 @@ contextual emergence, by denying supervenience, owes.
   boundary argument ([THEORY-1314](../theory.d/THEORY-1314.md)) is untouched here.
 - That the coupling in Szczepanski et al. is an artefact. It is
   uncontrolled for shape, not shown to be shape.
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+**A contrast, and background.** Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read
+in full in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)), the founding
+letter of self-organized criticality, offer 1/f noise as that
+mechanism's signature: "Our picture of 1/f spectra is that it reflects
+the dynamics of a self-organized critical state of minimally stable
+clusters of all length scales" (p. 384). That is the inference from 1/f
+structure to a mechanism which this claim denies for field recordings.
+Their own sandpile spectra are S(ω) ≈ ω^(−1.58) in 2D and ω^(−1.1) in 3D
+(p. 384), with "1/f" in quotation marks in Fig. 3's caption, so even the
+model's "1/f" is a family of exponents. The letter concerns sandpiles and
+physical noise, not neural data, so it neither supports nor tells
+against the claim's three clauses. No edge. Status unchanged.

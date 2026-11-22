@@ -116,3 +116,13 @@ inequalities need nothing about training, the data or the architecture.
 - **[CLAIM-377](../claims.d/CLAIM-377.md)**, the Fisher–NTK spectral identity, is the other exact
   spectral fact the record holds about a model's Fisher. It concerns a
   Gaussian likelihood, not softmax cross-entropy.
+
+## Note of 2026-11-21: Song, Ahn & Yun, read
+
+Background ([NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md)). Song, Ahn and Yun's dominant subspace, the
+training-loss Hessian's top-k eigenspace with k the number of classes, is
+the outlier set this account's class-centre term explains (rank at most
+C); they take k from the class count and do not say what spans it. Their
+finding that training does not progress in that subspace, the gradient's
+alignment with it being noise across a steep valley, is a fact about
+dynamics this account does not address. No relation written.

@@ -80,9 +80,13 @@ extends:
 - THEORY-718
 bounds:
 - CLAIM-384
+bears_on:
+- QUESTION-517
 ---
 <!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named as where the singular theorems are proved, nothing here rests on reading it -->
 <!-- inactive-ok-file: THEORY-079 THEORY-080 — Proposed; an account that presupposes this one and one that extends it, named in Connections -->
+
+<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
 # THEORY-087: The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold; with the prior positive on the optimal set, λ falls below d/2 when that set is infinite or has a point of degenerate curvature, and equals d/2 when it is finitely many points of non-degenerate curvature
 
@@ -288,3 +292,30 @@ For [CASE-152](../cases.d/CASE-152.md)'s model, a fit of λ log n − β log log
 λ, not d/2, and the Gaussian (d/2) log n overcharges it by about
 ½ log n + log log n. The scripts were written by the reviewer, re-run by
 the reviewing session, and are not in the record.
+
+## Note of 2026-11-21: Bialek, Nemenman & Tishby and Lau et al., read
+
+Two parallels.
+
+- **Bialek, Nemenman and Tishby** ([NOTE-2243](../notes.d/NOTE-2243.md)) derive the same (d/2)
+  coefficient as the information the data carry about the parameters,
+  (K/2) log₂ N, "independent even of the prior" (§4.2, Eq. 63), and note that
+  when "the determinant of F is zero" a smaller "phase space dimension"
+  takes K's place (Eq. 64): the regular-model shadow of this reading's
+  λ log n. Their (K/2) log N is the predictive information, which equals
+  the data–parameter information.
+- **Lau et al.** ([NOTE-2239](../notes.d/NOTE-2239.md)) give a local version, Fₙ(B(w*)) = nLₙ(w*) +
+  λ(w*) log n − (m(w*) − 1) log log n + O_P(1) (App. B, Eq. 21), under the
+  added condition that w* is "at least as degenerate as any nearby
+  minimiser", and call the Laplace form "ill-defined for neural networks".
+
+Neither changes the reading; no relation is written.
+
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+A parallel ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md), [THEORY-tmpx26x7](THEORY-tmpx26x7.md)). The review notes that BIC
+and AIC are derived "in the limit of abundant, informative data" (§1), and
+its §5 case against the Jeffreys prior in sloppy models, where "Scaling
+the metric g → M g has no effect at all", is a case of that limit failing
+when many directions are unresolved. It does not mention singular
+learning theory or a learning coefficient. No relation is written.

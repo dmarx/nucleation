@@ -41,6 +41,7 @@ summary: >-
   field-theoretic instance of [CLAIM-593](CLAIM-593.md)'s "Structural isomorphism ⇏ token
   identity". The wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-2969 THEORY-tmpwdka8 — Unfetched or new; Kosterlitz and Thouless and the lecture read in their place, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2022 THEORY-2026 THEORY-2032 THEORY-2038 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2812 — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
@@ -124,3 +125,24 @@ Shankar and colleagues ([THEORY-2032](../theory.d/THEORY-2032.md)), read: in act
 Teo and Kane ([THEORY-2022](../theory.d/THEORY-2022.md)), read, give a spectral-side parallel. For point defects their invariant is an index n = N+ − N−, a net count of zero modes by chirality, which fixes neither which modes there are nor their total number. That is the claim's structure applied to the modes a defect hosts rather than to the defect, so it is a parallel, not evidence for the claim.
 
 No status change.
+
+## Note of 2026-11-22: Kosterlitz's Nobel lecture, read
+
+Read as a stand-in for Kosterlitz and Thouless ([LIT-2969](../literature.d/LIT-2969.md), Unfetched), the
+lecture ([LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), [NOTE-tmp0si2r](../notes.d/NOTE-tmp0si2r.md); the reading is [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md))
+**supports this claim and adds a condition it lacks: protection needs a
+barrier between sectors that grows with system size.** In the 2D planar
+rotor the winding numbers "are numbers defining a particular metastable
+state. Transitions can take place from one metastable state to another
+only if a vortex-antivortex pair is formed", with "an energy barrier
+proportional to the logarithm of the system size" (p. 90). The 2D
+Heisenberg model has a topological invariant N as well, but "the energy
+barrier separating configurations with different values of N is of order
+unity", so "there is no barrier between different topological sectors",
+"which implies that there is no ordered state" (pp. 90–91). A conserved
+charge whose sectors are an O(1) barrier apart protects nothing at finite
+temperature: the sector this claim says the charge protects is protected
+only when crossing it costs more as the system grows. The claim's demonstrations are
+zero-temperature configurations, where any barrier suffices; at finite
+temperature the barrier's scaling decides. [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md) `corroborates`
+the claim. No status change.

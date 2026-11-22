@@ -19,6 +19,7 @@ summary: >-
   that model's dynamics, and whether the central path holds in settings
   the paper did not test. This question holds both.
 ---
+<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # QUESTION-181: Do trained networks follow the continually renormalized gradient flow toward neural collapse under MSE loss, and does the classifier stay near the least-squares classifier of its features outside Han, Papyan and Donoho's settings?
 
@@ -49,3 +50,10 @@ the least-squares classifier stops being negligible with augmentation,
 many classes or imbalance. Further closed-form results in the same
 renormalized model cannot settle it, nor can NC1–NC4 curves alone, which
 any account of collapse predicts.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **a
+contrast, no bearing on the MSE question.** Cross-entropy runs; their
+critique of the unconstrained-feature model applies to the model the
+renormalized flow is derived in. No relation.

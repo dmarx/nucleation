@@ -236,5 +236,18 @@ A second source of relativity, from Carnap ([NOTE-2110](../notes.d/NOTE-2110.md)
 
 ## Note of 2026-11-19: McDermott and colleagues, read
 <!-- inactive-ok-file: THEORY-2072 — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
 McDermott and colleagues ([THEORY-2072](../theory.d/THEORY-2072.md), corroborates; [NOTE-2138](../notes.d/NOTE-2138.md)): a partition sufficient for the pre-training labels serves a later task only as far as that task's labels are constant on its classes (Corollary 1), an instance of sufficiency being relative to the target.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+**Supports, independently** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md); [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md) now
+`corroborates` this claim). Shalizi and Moore's macrostates are the
+sufficient (prescient) partition for a chosen set of observables, and
+"A different set of initial variables will, generally, lead to a
+different set of causal states" (§VI); the hydrodynamic and thermodynamic
+levels "coexist, because they are intended to answer different
+questions — not because one is more objective than the other" (§IV.B).
+That is this claim's relativity, for thermodynamic macrostates. Status
+unchanged.

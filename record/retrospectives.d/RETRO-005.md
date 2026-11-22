@@ -55,7 +55,7 @@ summary: >-
   ruling by ticked box missed; and the nightly Promote still bypassing the
   review point built for it. Six recommendations, none yet a decision.
 ---
-<!-- inactive-ok-file: ADR-116 ADR-127 ADR-124 ADR-120 ADR-108 — Proposed or Active since tonight; the decisions this reviews -->
+<!-- inactive-ok-file: ADR-116 ADR-124 ADR-120 ADR-108 — Proposed or Active since tonight; the decisions this reviews -->
 
 # RETRO-005: The night of 2026-11-21 after the first retrospective: staging and its first promotion, the dialectic regime and the conventions it grew, a local reading of First Contact and an adoption review that adopted 34 decisions; what went right was fitting the tooling to the work and the owner steering by interjection, and what went wrong was a few errors of the assistant's that the regime let travel further before the owner caught them
 

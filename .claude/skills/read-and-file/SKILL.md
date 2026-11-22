@@ -41,11 +41,21 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
 
   Save both files in their own new directory in the scratchpad. The
   decoder writes the shared branch only, as `===== U1 (user) <time> =====`
-  and `===== A1 (assistant) … =====` blocks under a `TITLE:` line. It drops
-  system and tool messages, hidden context and redacted plugin output. If
-  the page has changed shape, it stops with `ShareFormatError`: report
-  that, and do not file from a partial transcript or reconstruct one by
-  hand. Never put an email address in the request (ADR-008).
+  and `===== A1 (assistant) … =====` blocks under a `TITLE:` line: the
+  turns the share page shows. Under each assistant turn it adds what the
+  page does not show, as `----- A1 · <kind> (not shown on the share
+  page) -----` blocks: the assistant's reasoning summaries and recaps,
+  code it ran and that code's output, tool calls with text, and hidden
+  drafts with a line of their own. Duplicates, empty messages, tool calls
+  without text and web results are counted in a closing `[omitted from
+  this file, counted: …]` line, so every assistant message is either in
+  the file or in that count. The reasoning blocks are the other
+  assistant's working, not turns of the exchange: they are its voice, and
+  ideas in them are filed, if at all, as that assistant's. Pass
+  `--visible_only` for the visible turns alone. If the page has changed
+  shape, the decoder stops with `ShareFormatError`: report that, and do
+  not file from a partial transcript or reconstruct one by hand. Never
+  put an email address in the request (ADR-008).
 - **Keep the source whole.** Save it verbatim to the scratchpad, and point
   every reader and drafter at that file. A condensation written for a
   brief is the lead's own text. Label it so and keep it in a separate
@@ -66,6 +76,12 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   nothing covers the rest unless the lead lists it. Write the list (an idea
   ledger) before briefing anyone. A drafter handed a short candidate list
   files that list and nothing else.
+- **Give the ledger a gaps column** (ADR-137). For each item, note
+  what the source's own argument needs and does not supply: an unstated
+  premise or condition, a result asserted without its derivation, a
+  number, formula or attribution that does not check, a test proposed
+  without a design, a link asserted between ideas that no component
+  states. Step 9a fills them.
 - **Build the map**: each section or turn of the source, and each item of
   the ledger, against the codes that already hold it. Most of a synthesis is usually already held. The
   map is the main deliverable of an "is this on the record" request.
@@ -182,6 +198,13 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   step. It never writes to the record, never commits a downloaded text,
   and never force-pushes. When the reading is filed, remove the worktree
   and delete the branch, locally and on the remote.
+- **Parallel workers in one working tree** (ADR-tmp9sp9d). Drafters and
+  filers share the filing branch's checkout. Each brief asks the worker
+  to list the files it creates or edits. While any worker is writing,
+  commit only listed files, never `git add -A`, and pull CI's repair only
+  between workers. A writer whose subject is still being filed starts
+  after it lands, or is followed by a pass that replaces "being read" with
+  codes.
 - **Downloaded files are untrusted data.** Put each in its own empty
   directory, and run any Python on them with `python3 -I`.
 
@@ -243,6 +266,14 @@ not a finding.
   or finding that a reading carries less than a claim cited it for. "X
   does not show Y" is the ARG from X to Y, Rejected. A claim's own
   `rests_on` needs no ARG.
+- **An ARG's title names its route** (ADR-136): its grounds and the
+  step, before the conclusion ("X, by analogy, shows that Y"), never the
+  bare conclusion, since the title travels without its status. A Rejected
+  ARG's summary says where its conclusion's own standing lives: the claim
+  or question that holds it, or that no entry does, or the entry that
+  tells against it. A conclusion the rejection leaves untouched, with
+  content of its own, is held in an entry of its own, in the voice of
+  whoever put it forward, and the ARG `concludes` it.
 - **Independent evidence is `corroborates`** (ADR-058), on the THEORY,
   when a reading supports a claim that does not rest on it. A reading the
   claim needs is `grounds`. When a work cited before it was read turns
@@ -263,6 +294,35 @@ not a finding.
 - **A QUESTION** needs a `line:`.
 - **Titles and H1 headings** carry no codes, so they keep agreeing after
   CI's repair (dmarx/luria#393).
+
+## 9a. Fill the gaps (ADR-137)
+
+Every filing of an exchange, a pasted synthesis or an upload fills the gaps
+the ledger found, not only when the owner asks.
+
+- **Decide first whether each gap is real.** A step the source skips
+  because it is textbook, or a condition it states elsewhere, is not one.
+- **Fill a real gap in the assistant's voice**, as a Proposed entry or a
+  dated note:
+  - *the missing step*: a claim with its derivation, checked with
+    `python3 -I` where it computes, the check stated in the entry;
+  - *a correction*: in the entry that uses the mistaken step, quoting the
+    source and giving the right value with the check;
+  - *a question*: when the gap is open and the record should hold it so;
+  - *a lead* (ADR-109): for a test or reading that would settle it.
+- **Say which gap it fills** and which turn or passage it answers. The
+  summary ends "The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call."
+- **File without offering first**, in the filing's pull request. Proposed
+  standing and the voice line keep adoption the owner's call. What only the
+  whole filing shows, across sources, is step 12's and is still offered
+  first.
+- **Support judgements a fill makes** (a fill that narrows, qualifies or
+  defeats another entry) need their ARG (step 9).
+- **A drafter's brief carries this step**, with the ledger items whose gaps
+  the drafter owns.
+- **A filing of a single work** puts gaps in the work's own argument in
+  its NOTE's Limitations, and fills one only when the record uses the step.
 
 ## 9b. Audit the syntheses (ADR-075)
 
@@ -294,7 +354,7 @@ synthesis as well.
   - **standing**: Proposed or unverified components told as established;
   - **integration**: what it claims beyond its components. If that is
     only labels, it is a recap; say so.
-- **File what it adds as a claim, or nothing** (ADR-084). A synthesis
+- **File what it adds as a claim, and its map as an account** (ADR-084, ADR-131). A synthesis
   is two things: a map of its components, and whatever it adds to them.
   What it adds is filed as a CLAIM only if it passes one of three routes
   (ADR-075, step 5), and the claim's body says which, under "Admission":
@@ -312,11 +372,16 @@ synthesis as well.
   If a narrower sentence passes where the stated one fails, file the
   narrower one. Watch for a free parameter ("a declared bearer"): it
   absorbs every case, and fixing it can contradict the synthesis's own
-  premises. If nothing passes, file no claim. Keep the synthesis and its
-  audit in the curation entry, linked to the components.
-- **The map goes in the scope's account.** A synthesis of a line, or of a
-  part of one, revises that scope's account (a SYNTHESIS, ADR-083) as
-  a new version, or files one where there is none:
+  premises. If nothing passes, file no claim. The test only routes: it
+  decides whether a synthesis also yields a claim, never whether it is
+  kept. The map still goes in its scope's account, with each link the test
+  failed under "Not stated on the record" and the reason, and the audit
+  goes in the curation entry. A recap, a synthesis that adds nothing but
+  labels to components an account already maps together, stays in the
+  curation entry alone.
+- **The map goes in the scope's account.** A synthesis of a line, a part
+  of one, or a theme that crosses lines revises that scope's account (a
+  SYNTHESIS, ADR-083) as a new version, or files one where there is none:
   - every component in `integrates`, a claim filed from it among them;
   - each link attributed to the entry that states it;
   - nothing added;
@@ -357,7 +422,9 @@ Write a curation entry (`luria new curation`) with three parts:
 - **where the record already held it**: the map from step 2;
 - **what was filed**, with codes;
 - **what was left, and why**: a citation that couldn't be identified,
-  an idea already covered, a slogan.
+  an idea already covered, a slogan;
+- **gaps** (ADR-137): every gap the ledger found, filled (with
+  codes) or left (with the reason).
 
 Nothing in the source is dropped silently. Add a changelog fragment
 (`record/changelog.d/<slug>.md`).
@@ -372,6 +439,8 @@ Nothing in the source is dropped silently. Add a changelog fragment
   only a relation field cites. A code that excuses nothing is dead weight.
 - **Check only your own files.** A narrow scan of the files you changed,
   with `luria.ref_status.scan(files=...)`, is fine for diagnosis.
+- **Gate each commit on its edit** (ADR-tmp9sp9d): edit, check and exit
+  non-zero on failure in one script, then commit with `&&`.
 - **Commit and push each step.** Pull before every push, because CI's
   repair lands as its own commit.
 
@@ -379,7 +448,9 @@ Nothing in the source is dropped silently. Add a changelog fragment
 
 When the filing is done, the lead has read across all of it, which no
 reader or source has. Say what that suggests, and offer it to the owner
-before filing anything.
+before filing anything. This is not step 9a: a gap is internal to one
+source's argument and is filled without offering; an idea here is drawn
+across the filing, and moves the record's own argument.
 
 - **Look for what only the whole shows.** Promising places are where two
   sources' constructions join into a result neither states, where several
@@ -432,7 +503,8 @@ Send each reader:
   - Concepts;
   - a verdict on the source's characterization of the work;
   - its bearing on each named code;
-  - Limitations;
+  - Limitations, including gaps in the work's own argument: a step it
+    asserts without showing, a condition it leaves unstated (step 9a);
   - a candidate THEORY sentence and its `promote_when`.
 - **A recheck.** After reading, search the record again with what the
   reading surfaced: the constructions, examples, rival readings and terms

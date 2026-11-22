@@ -96,8 +96,9 @@ the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
                                   # term, arg, adr, dp, changelog, curation, workbench
 
 **The dialectic regime** ([ADR-127](record/decisions.d/ADR-127.md)). The owner switches it on and off
-("dialectic on", "dialectic off"); it is on until switched off, and a new
-session starts off. While it is on, file the argument the exchange develops
+("dialectic on", "dialectic off"); it is on until switched off. Its state is
+the conversation's: a restarted worker or a resumed or summarized
+conversation keeps it, and only a new conversation starts off. While it is on, file the argument the exchange develops
 as you go, without offering first: new entries in the argument schemes
 (those of [ADR-032](record/decisions.d/ADR-032.md), and WORKBENCH and LEAD, and any that join them),
 revisions to what the regime filed, dated notes, Reframings, corrections,
@@ -110,12 +111,14 @@ ADRs and DPs, `luria.yaml`, CI, delegated readings, outside services and
 merges into main still wait for the owner; merge your own pull requests
 into staging when green and ready ([ADR-121](record/decisions.d/ADR-121.md)). When a turn admits several valid readings
 that would be filed differently, file each, marked as alternatives, and say
-which is which; the owner chooses. A go-ahead, switching the regime on
+which is which; the owner chooses. A turn that would end by asking which reading the owner meant files each instead. Think out loud while filing: say what you are filing and why, relay what delegated work finds, and close each batch with an executive summary ([ADR-tmpw70lb](record/decisions.d/ADR-tmpw70lb.md)). A go-ahead, switching the regime on
 included, greenlights everything the message it answers proposed, and adopts
 the lean you stated where it left a choice. When in doubt (harm hard to
 undo, a wide blast radius, something the owner may have missed), stop on
 that item and raise it plainly, CRM style: what, the concern, your
-recommendation, and that you are waiting. A scheduled check-in that finds nothing
+recommendation, and that you are waiting. When a hold the owner set lifts,
+say so, name the step it was holding, and take it in the same turn, unless
+that step waits on the owner anyway ([ADR-132](record/decisions.d/ADR-132.md)). A scheduled check-in that finds nothing
 doubles the next interval, stops after three empty, and says nothing.
 Suggest switching off when going on would be awkward.
 
@@ -145,7 +148,8 @@ into staging ([ADR-116](record/decisions.d/ADR-116.md)). Only that workflow, or 
 main. Whenever staging differs from main, a pull request from staging into main is
 open for the owner's review; the Promotion PR workflow opens it on a push to
 staging ([ADR-125](record/decisions.d/ADR-125.md)). When you merge into staging, add the choices waiting
-on the owner to its description.
+on the owner to its description, in its marked sections, reading it just
+before you write ([ADR-128](record/decisions.d/ADR-128.md)).
 
 **Each logical unit of work gets its own branch, cut from `staging`, and its
 own pull request** ([ADR-071](record/decisions.d/ADR-071.md), as changed by [ADR-116](record/decisions.d/ADR-116.md)): the filing of one source,

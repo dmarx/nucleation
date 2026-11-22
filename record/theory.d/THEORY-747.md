@@ -41,6 +41,7 @@ summary: >-
   memory length shortens as the resolved dynamics speed up, so the memory
   belongs to the cutoff as much as to the flow.
 ---
+<!-- inactive-ok-file: THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-747: In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables' Jacobian
 
@@ -134,3 +135,12 @@ relation to the resolved timescale.
   right, which Smagorinsky does not, by carrying it as a relaxing state
   variable. Eyink and Aluie ([LIT-1239](../literature.d/LIT-1239.md), unread) are the record's
   pending source on how local that transfer is.
+
+## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
+
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](THEORY-tmpc73s5.md)): **background.**
+The paper says its forward-only unique causality among scale-filtered
+fluxes "justifies the success of subgrid-scale modeling in large-eddy
+simulation", since no new information reaches the large scales from the
+small. A claim the record could set against this account's memory
+closures; the paper does not test closures. No relation.

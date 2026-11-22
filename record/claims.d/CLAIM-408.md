@@ -51,6 +51,7 @@ summary: >-
   any reform, or about anyone's intent, and it does not show that a tipped
   allocation outlasts the constraint's return: in this model it does not.
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-470 — Proposed; the entrenchment claims and the reading named for the mechanisms this claim leaves out, nothing here rests on them -->
 
 # CLAIM-408: In ḋ = (α − κ)d − βd³, with d the difference between two parties' shares of authority, α their self-reinforcement and κ a constraint that bears on both alike, the equal allocation is the only equilibrium and is stable for κ > α, and for κ < α it is unstable and the unequal allocations ±√((α − κ)/β) are stable: a constraint that favours neither party can, by weakening, destabilize the equal allocation and make persistent unequal allocations stable, of any size near the threshold (|d*| → 0 as κ → α), without determining which party gains the larger share, and in this model restoring κ > α restores the equal allocation
@@ -177,3 +178,9 @@ Only the first is demonstrated here.
 
 ## Note of 2026-11-19: Wang and Slotine, read
 A parallel from Wang and Slotine ([NOTE-2096](../notes.d/NOTE-2096.md)): the sign of the coupling selects synchrony or anti-synchrony, and "Oscillator-death as a transition state between synchronized and anti-synchronized solutions does not exist except when γ = 0" (§3.3). A differentiation by the sign of coupling, not by a bifurcation of basins; no bearing on the claim's own mechanism.
+
+## Note of 2026-11-22: Yang, read
+
+A parallel in another domain. Yang's probe ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)) obeys the
+same pitchfork normal form, ε̇ = (β − βc)ε − αε³ plus noise, with the
+symmetric state losing stability as β crosses βc. No edge.

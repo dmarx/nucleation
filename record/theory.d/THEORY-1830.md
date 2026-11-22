@@ -36,6 +36,7 @@ summary: >-
   the proposed law, Ẇ ≥ F(P₁, P₂, …) with F unspecified, is a schema whose
   content lies only in its instances.
 ---
+<!-- inactive-ok-file: THEORY-tmp9t69m — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
 # THEORY-1830: On Tu, a biochemical network at equilibrium has a steady state fixed by its free-energy landscape, so changing its rates cannot change where it sits; dissipation lets kinetics set the steady state, and functions such as proofreading, adaptation and synchronization need it, adaptation and synchronization only above a threshold; in a four-state model of adaptation the dissipation rate, speed and accuracy obey Ẇ = c₁V_a ln(c₂A_a) to leading order, and the author proposes, as a law for living systems, that dissipation is bounded below by a function of performance
 
@@ -76,3 +77,11 @@ in proportion to accuracy.
   relation** ([THEORY-1268](THEORY-1268.md)), which prices the precision of a counted
   current as 1/ε², where the ESA relation prices adaptation accuracy as
   ln(1/ε).
+
+## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
+
+**A contrast**, no edge ([LIT-2981](../literature.d/LIT-2981.md), [NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md), [THEORY-tmp9t69m](THEORY-tmp9t69m.md)). The
+uncertainty relation is now proved for every current of a Markov jump
+network, pricing current precision as 1/ε²; Tu's relation prices
+adaptation accuracy logarithmically. Different observables, so the proof
+leaves the difference noted above as it was. Status unchanged.

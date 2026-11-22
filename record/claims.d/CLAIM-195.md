@@ -35,7 +35,7 @@ tags:
 date: '2026-10-11'
 line: nucleating-argument
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 rests_on:
 - CLAIM-079
 complements:

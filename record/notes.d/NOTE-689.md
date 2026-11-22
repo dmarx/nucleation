@@ -35,6 +35,7 @@ summary: >-
   tokens and horizons of a few tens of tokens.
 ---
 <!-- inactive-ok-file: THEORY-201 THEORY-182 THEORY-183 THEORY-186 CLAIM-008 — Proposed, open or Superseded; cited as what this reading bears on or produced -->
+<!-- inactive-ok-file: THEORY-tmpl7rgc — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
 # NOTE-689: Deriving neural scaling laws from language statistics
 
@@ -267,3 +268,27 @@ old envelope, and [LIT-883](../literature.d/LIT-883.md)'s steps are what its ans
 - On hierarchical data with Zipfian rules, whether γ and β come out as
   this record's RHM inference says and the steps smooth into the
   predicted power law.
+
+## Note of 2026-11-21: Baik, Ben Arous and Péché, read
+
+A **contrast**, no edge. The resolvability bound here, a mode resolvable
+above P^(−1/2) by matrix Bernstein and Weyl, is a sufficient condition from
+a worst-case perturbation bound. The BBP threshold it is compared to, now
+read ([LIT-2986](../literature.d/LIT-2986.md), [NOTE-2241](NOTE-2241.md); for real data Baik and Silverstein,
+[LIT-2988](../literature.d/LIT-2988.md)), is sharp in the proportional limit: a spike β is seen
+exactly when β > √(D/N). The two differ in kind, not only in constant.
+
+## Note of 2026-11-22: Crutchfield and Feldman, read
+
+**A parallel, as to classification** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-tmpe86ty](NOTE-tmpe86ty.md);
+[THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md)). Hypothesis 1, H_n − H_∞ ≍ n^(−γ), is Crutchfield and
+Feldman's power-law entropy convergence, with H_n the conditional entropy
+given n tokens, their hµ(n + 1). With γ ≈ 0.27–0.33 < 1 the sum
+E = Σ [hµ(L) − hµ] diverges, growing as n^(1−γ): the token process is
+infinitary (their Def. 2), its excess entropy unbounded. They report
+the same kind of convergence for written texts, with exponents "ranging
+from 0.4 to 0.6" (§VI, others' fits), also below 1. An unbounded
+excess entropy also means that no hidden Markov model with finitely many
+states reproduces the token process exactly, since such a model bounds E
+by the entropy of its states. The step from γ < 1 to divergence is the
+filer's, by summing. No edge.

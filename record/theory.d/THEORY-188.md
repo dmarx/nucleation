@@ -45,6 +45,10 @@ summary: >-
   not show that any real network is hyperbolic, or that hierarchy causes
   heterogeneity.
 ---
+<!-- inactive-ok-file: THEORY-tmpe9367 — Proposed; the reading of Bui et al. filed 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-817 — Proposed; the claim whose aside the note of 2026-11-22 sets against the chapter -->
+<!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; registered and unread -->
 
 # THEORY-188: In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model
 
@@ -148,3 +152,37 @@ in outline, which is what held [THEORY-270](THEORY-270.md) in batch 038; and the
 local-clustering clause has no held source. If promoted, the title should
 name the clustering coefficient and the ζ/α < 1 condition for the global
 one.
+
+## Note of 2026-11-22: Broido and Clauset, read
+
+**Background** ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is
+[THEORY-tmphcnj3](THEORY-tmphcnj3.md)). The CAIDA autonomous-system graphs, the Internet case,
+are among the few networks with strong evidence of a power-law degree
+distribution in their test (half Strong, half Weakest), so the Internet
+degree law this account's source fits is one of the better-supported
+cases. Their verdict on networks in general is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)).
+No edge.
+
+## Note of 2026-11-22: Barabási's chapter, read
+
+**A rival framing** ([LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)). The chapter reads
+optimisation and geometric models as routes that *generate* linear
+preferential attachment: "such rational decisions can lead to preferential
+attachment [22, 23, 24]", where [24] is Papadopoulos and others,
+"Popularity versus similarity in growing networks", and "To date all known
+models and real systems that are scale-free have been found to have
+preferential attachment" (§§5.9, 5.11). [CLAIM-817](../claims.d/CLAIM-817.md)'s aside says this
+account "needs no attachment at all", meaning no attachment rule built
+in. The two speak of different things, the rule given and the attachment
+produced, so neither refutes the other. Whether the static hyperbolic
+model of this account, which has no growth, generates an effective linear
+attachment is not settled by the chapter, which cites the growing
+popularity-similarity model. No edge.
+
+## Note of 2026-11-22: Bui and colleagues, read
+
+No bearing beyond the shared geometry. Bui et al. ([THEORY-tmpe9367](THEORY-tmpe9367.md)) use
+the Lorentz model for embeddings whose radius is read as certainty; the
+random-graph account here uses the hyperbolic disk to generate degree
+distributions and clustering. Recorded so the reading's check of this
+entry is on file.

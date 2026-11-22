@@ -101,6 +101,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
+<!-- inactive-ok-file: THEORY-tmpdfeto NOTE-tmpcjw5n — Proposed or Skimmed; the reading of Toner and Tu (1998), 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-755 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
@@ -113,6 +114,8 @@ bears_on:
 <!-- inactive-ok-file: THEORY-1343 — Proposed; the large-system argument of a reading cited as open -->
 <!-- inactive-ok-file: LIT-1638 LIT-1671 LIT-1632 — Deferred; registered from the same exchange, unread, cited for what they are standardly cited for -->
 <!-- inactive-ok-file: CASE-207 — Proposed or new; entries of 2026-11-05 from the pasted synthesis on constraint architectures, cited as open -->
+<!-- inactive-ok-file: CLAIM-805 — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" -->
+<!-- inactive-ok-file: ARG-125 CLAIM-826 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # CLAIM-478: Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another
 
@@ -498,3 +501,45 @@ scales. [CLAIM-781](CLAIM-781.md) argues that the gap that makes each level, by 
 of its slow variable, is the gap that spaces it in the tree. Support for the
 claim's form in a model; it does not test the claim's defeater (a), which
 asks about the systems the record's individuation claims treat.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
+
+A13 §9 of that exchange gives this claim's spatial counterpart: "Different
+levels become approximately autonomous when the details of smaller scales
+become irrelevant to the behavior of larger ones. Critical systems are
+exceptional because that separation becomes less complete", so
+characteristic scales would explain "*when* relatively independent levels
+of description can emerge and *when* they cannot". The wording is A's (the
+other assistant in that exchange, A13).
+
+What it adds is a window in space beside this claim's window in time:
+with a finite correlation length ξ, blocks much larger than ξ are nearly
+independent and their sums average out, so a block description is closed
+to a good approximation; at a critical point ξ is unbounded and no block
+size gives that window. A does not show the bridge it asserts, that a
+finite ξ makes a system nearly decomposable in Simon's sense
+([THEORY-661](../theory.d/THEORY-661.md)): decay of correlations between blocks is weak
+statistical dependence, and Simon's near-decomposability is weak
+interaction, a statement about rates. [ARG-125](../arguments.d/ARG-125.md) sets out why the reading does
+not carry the bridge. The two meet through dynamic
+scaling, τ ∝ ξ^z, which ties the loss of the spatial window to the loss of
+this claim's temporal one near a continuous transition; slowing there is
+of the collective mode, the case [CLAIM-626](CLAIM-626.md) separates from the others.
+The assistant's reading (Claude, in this session). The exchange's other
+point here, that criticality is not the maximum of complexity, is
+[CLAIM-805](CLAIM-805.md). A17 §5's companion point, that at
+criticality a system becomes harder to separate into levels and easier to
+classify, is [CLAIM-826](CLAIM-826.md). No status change.
+
+## Note of 2026-11-22: Toner and Tu (1998), read
+
+The long paper ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md))
+**supports the claim's first half for a flock, as the 1995 letter did**
+([NOTE-1228](../notes.d/NOTE-1228.md)): the speed fluctuation is slaved to the density gradient,
+δv∥ = −Dρ∂∥δρ, by neglecting ∂tδv∥ "relative to αδv∥" (eqs. 3.1–3.2,
+p. 19), so the fast variable settles into a relation that constrains the
+slow ones. It adds the authors' own word for the slow transverse modes,
+"Goldstone modes" (abstract), which mix with the conserved density to
+make sound: the claim's "organization can make new rate differences",
+by symmetry breaking. [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) `corroborates` the claim. No status
+change.

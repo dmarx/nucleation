@@ -1,0 +1,92 @@
+=== #0 135095b96 CLAIM-274 kind=substantive lenient=True fields=['body'] status=False | Claude | File the proposed survival analysis of the r/place logs as a study case | files=1
+    - It has not been tested. The {+proposed study is [CASE-tmp7b477](../cases.d/CASE-tmp7b477.md). The+} released
+=== #1 6158e8f7a CLAIM-219 kind=substantive lenient=True fields=['title'] status=False | Claude | ADR-061 migration, step 3: group 3 (MIXED claims; what an argument establishes) | files=11
+    title: [-'The headline that translation changes-]{+'A change in the+} global [-structure-]{+compatibility of a fixed scenario+} is either[-about contextuality, which has no case but-] a [-constructed one while-]{+change in contextuality proper, which+} the beh
+    version: [-3-]{+4+}
+    {+- version: 4+}
+    {+  date: '2026-10-28'+}
+    {+  note: >-+}
+    {+    Split under ADR-061. The first horn's verdict, that the headline "has+}
+    {+    no case but a constructed one", moved to ARG-tmpswbhx, from CASE-037 to+}
+    {+    CLAIM-105, Rejected, which this claim now undercuts. CASE-037 moved+}
+    ... 20 more changed lines
+=== #2 345803713 CLAIM-297 kind=substantive lenient=True fields=['body'] status=False | Claude | Endorsement sweep, part 2: conferral and grant in 12 more files (ADR-070) | files=8
+    version: [-5-]{+6+}
+    {+- version: 6+}
+    {+  date: '2026-11-04'+}
+    {+  note: >-+}
+    {+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now+}
+    {+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The+}
+    {+    content is unchanged.+}
+    circuit, A22 §2: frame → retrieval → interpretation → [-endorsement-]{+conferral+} →
+    ... 1 more changed lines
+=== #3 d9ce76c21 CLAIM-340 kind=substantive lenient=True fields=['title'] status=False | Claude | Endorsement sweep, part 3: conferral and grant in 28 more files (ADR-070) | files=16
+    title: 'Scoring operators on predictions committed before the evidence is not by itself Regime B: in the linearized operator model the coupling of interpretation to [-endorsement-]{+conferral+} has the sign of κ′ − κ̄, so commitment removes capture only when t
+    version: [-1-]{+2+}
+    {+history:+}
+    {+- version: 2+}
+    {+  date: '2026-11-04'+}
+    {+  note: >-+}
+    {+    Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now+}
+    {+    reads conferral (TERM-tmplu4ih) or grant (TERM-tmp08c21). The+}
+    ... 2 more changed lines
+=== #4 d7a810d0c CLAIM-322 kind=substantive lenient=True fields=['body'] status=False | Claude | Fix defects reported by the ninth synthesis review (formal-apparatus) | files=38
+    version: [-2-]{+3+}
+    {+- version: 3+}
+    {+  date: '2026-11-11'+}
+    {+  note: >-+}
+    {+    Stale text corrected, from the ninth synthesis review of+}
+    {+    2026-11-11: the body quoted CLAIM-264 as if it still held the+}
+    {+    evidential half, which CLAIM-264's version 2 (2026-10-19)+}
+    {+    removed. The quotation is now attributed to CLAIM-264's+}
+    ... 6 more changed lines
+=== #5 8645f9cf1 CLAIM-142 kind=substantive lenient=True fields=['defeated_if'] status=False | Claude | File the record's replies to the 34 objections | files=76
+    version: {+2+}
+    {+history:+}
+    {+- version: 2+}
+    {+  date: '2026-10-10'+}
+    {+  note: >-+}
+    {+    Restated on 2026-10-10 after CLAIM-tmp6r6t6: version+} 1 {+("a finite+}
+    {+    probe family fixed in advance separates every pair of realizations+}
+    {+    that judges distinguish, on held-out realizations") was met trivially+}
+    ... 11 more changed lines
+=== #6 fd80e2aa4 CLAIM-408 kind=substantive lenient=True fields=['title'] status=False | Claude | Act on the owner's review: narrow the symmetry-breaking claim, rename the captur | files=3
+    title: 'In ḋ = (α − κ)d − βd³, with d the difference between two parties'' shares of authority, α their self-reinforcement and κ a constraint that bears on both alike, the equal allocation is the only equilibrium and is stable for κ > α, and for κ < α it is un
+    version: [-2-]{+3+}
+    {+- version: 3+}
+    {+  date: '2026-10-21'+}
+    {+  note: >-+}
+    {+    Title narrowed at the owner's review of 2026-10-21: "dominate" said more+}
+    {+    than the model gives. Near the bifurcation the stable asymmetry+}
+    {+    ±√((α − κ)/β) is arbitrarily small, so shares of 50.5% and 49.5% are a+}
+    ... 2 more changed lines
+=== #7 d8547993a CLAIM-619 kind=substantive lenient=True fields=['title', 'defeated_if', 'body'] status=False | Claude | WIP: review items 2–5 and 7 in progress | files=3
+    title: 'An organization can be disposed to answer a credible challenge by reducing the capacity for future challenge, classifying the challenge as the problem and restricting the challenger, so that the[-trigger of its correction removes the disposition to cor
+    version: [-1-]{+2+}
+    {+history:+}
+    {+- version: 2+}
+    {+  date: '2026-11-07'+}
+    {+  note: >-+}
+    {+    From A's review of the pull request dmarx/nucleation#422, item 2,+}
+    {+    accepted by the owner as written. The claim no longer equates the+}
+    ... 37 more changed lines
+=== #8 20856a8be CLAIM-348 kind=substantive lenient=True fields=['defeated_if'] status=False | Claude | Fixes from synthesis review 3: CLAIM-348, 592, 410, 191, 128, 214 and 368 | files=7
+    version: [-4-]{+5+}
+    {+- version: 5+}
+    {+  date: '2026-11-07'+}
+    {+  note: >-+}
+    {+    At the third synthesis review of 2026-11-07: the defeater asked for a target-free+}
+    {+    criterion that preserves every judgment in a declared class, which the+}
+    {+    identity description meets as worded. It now asks for a criterion+}
+    {+    choosing a coarse-graining that merges some states, and names the+}
+    ... 3 more changed lines
+=== #9 3c9b9b761 CLAIM-602 kind=substantive lenient=True fields=['title', 'defeated_if', 'body'] status=True | Claude | Status review 25, cluster E: supplied maintenance | files=9
+    status: [-Proposed-]{+Active+}
+    title: "Where an organization's capacity is learned by doing the work it serves, {+and decays with disuse,+} outside supply that does the work first lowers the capacity kept, and the longer it does all of it the longer recovery takes once it stops, while suppl
+    version: {+2+}
+    {+history:+}
+    {+- version: 2+}
+    {+  date: '2026-11-06'+}
+    {+  note: >-+}
+    {+    Promoted at the status review's ruling (the owner delegated+}
+    ... 34 more changed lines

@@ -50,6 +50,7 @@ summary: >-
 answers:
 - QUESTION-181
 ---
+<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-797: Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose
 
@@ -89,3 +90,10 @@ normalization and never measured.
 The promote_when, which is the narrowed entry's former condition.
 [QUESTION-181](../questions.d/QUESTION-181.md) asks it, and [QUESTION-202](../questions.d/QUESTION-202.md) asks the wider question of where
 neural collapse holds at all.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **a contrast
+only.** Cross-entropy training (unhinged loss in its theorem), not MSE, and
+its critique of the unconstrained-feature model applies to the model this
+account's dynamics are derived in. No relation.

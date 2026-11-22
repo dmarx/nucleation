@@ -70,7 +70,7 @@ Where this paper's theory goes beyond these is in four places:
 
 ### 12.1 Evidence and observation points
 
-The evidence is the version-controlled repository, read with its full history: 3,454 commits from the empty initial commit of 7 September 2026. The record's start is its scaffold on 25 September (`af387c07b`).
+The evidence is the version-controlled repository, read with its full history: 3,454 commits from the empty initial commit of 7 September 2026 to 20 November, as first counted (the pipeline counts 3,451 at `09950cdf`, and how the first count was made is not stated), and 3,739 reachable from `main` at `56479304e` on 21 November. The record's start is its scaffold on 25 September (`af387c07b`).
 
 Figures come from four observation points:
 
@@ -80,10 +80,11 @@ Figures come from four observation points:
 | Executed studies inside the record, both run on 27 Oct | CASE-178 (32 days from the scaffold); CASE-180 (50 days from 7 Sep, so 32 days of record) | Rates of grammar change and revision (§§12.6–12.7) |
 | The current record | `main` at `09950cdf`, 20 Nov | Cross-tabulations (§13), census (§13.1), term-change analysis (§15.2), governance counts (§14) |
 | The owner's measurements (U11 of the exchange that produced the first sketch) | Dated snapshots, no hashes | Cross-checked against the snapshots above; they agree to within 1.5% |
+| The record after the promotion of 21 November, recomputed (added 2026-11-21) | `main` at `56479304e`, 18:20 UTC | The 21 November column of §12.5, the counts of §§8.2 and 14.1, the census's coverage and status drift, the term-change audit extended (`analysis/analytics-2026-11-21.json`, `analysis/analytics-terms-2026-11-21.json`) |
 
 ### 12.2 Units
 
-- **Unit of analysis.** For the census, the unit is a **decision record** (ADR-001 to ADR-114). For the history of the grammar, it is a **unit of work**: the pull request a commit came in, or the commit itself where it cannot be tied to one.
+- **Unit of analysis.** For the census, the unit is a **decision record** (ADR-001 to ADR-114; with the fifth batch, ADR-115 to ADR-135 and ADR-tmpcb96w). For the history of the grammar, it is a **unit of work**: the pull request a commit came in, or the commit itself where it cannot be tied to one.
 - **Grammar.** The declarations in `luria.yaml` (schemes, fields, relations, vocabularies and their terms, statuses, lines, `fail_on` patterns and view definitions). Conventions held only in prose, such as CLAUDE.md or the skills, are *conventions*, not grammar.
 - **Misfit.** A move the grammar of the day could not hold faithfully.
 - **Obstruction.** A misfit someone noticed.
@@ -105,6 +106,8 @@ Every decision record was coded against a codebook fixed before any coding began
 
 Four coders (assistant subagents) coded the 114 decisions in four batches. A fifth coded a random sample of 30, seed 20261120, without seeing the first coding. Agreement is reported per field as raw agreement and Cohen's κ, and as mean Jaccard overlap for list-valued fields (§13.1). All five coders were instances of the same model, a limit discussed in §18.
 
+**A fifth batch (added 2026-11-21).** The 22 decisions filed on 21 November, ADR-115 to ADR-135 and the still temporary ADR-tmpcb96w, were coded against the same codebook as `analysis/census/batch-5.json`. One coder coded them: the assistant revising this draft, which took part in the session that produced several of them. No second coder saw them, so the agreement figures of §13.1 do not cover them, and each row's note says so. Statuses are coded as they stood at coding; 34 of the first 114 have changed status since they were coded, which `census.py` now reports.
+
 ### 12.4 Evidential tiers
 
 We separate three kinds of evidence:
@@ -117,16 +120,16 @@ The record is strong on the first, moderate on the second and silent on the thir
 
 ### 12.5 Growth of the record and its grammar
 
-| Measure | 25 Sep | 15 Oct | 1 Nov | 19 Nov |
-|---|---:|---:|---:|---:|
-| Repository files | 315 | 4,072 | 7,597 | 11,112 |
-| Files under `record/` | 214 | 3,419 | 6,875 | 10,058 |
-| Schemes | 5 | 10 | 10 | 12 |
-| Vocabularies | 6 | 14 | 14 | 18 |
-| Topic terms | 19 | 62 | 67 | 69 |
-| `luria.yaml` lines | 481 | 1,468 | 1,736 | 2,379 |
+| Measure | 25 Sep | 15 Oct | 1 Nov | 19 Nov | 21 Nov |
+|---|---:|---:|---:|---:|---:|
+| Repository files | 315 | 4,072 | 7,597 | 11,112 | 11,813 |
+| Files under `record/` | 214 | 3,419 | 6,875 | 10,058 | 10,661 |
+| Schemes | 5 | 10 | 10 | 12 | 14 |
+| Vocabularies | 6 | 14 | 14 | 18 | 20 |
+| Topic terms | 19 | 62 | 67 | 69 | 69 |
+| `luria.yaml` lines | 481 | 1,468 | 1,736 | 2,379 | 2,601 |
 
-Record files grew 47-fold and configuration lines about 5-fold. Lines are a poor proxy for the grammar's content. The grammar grew in steps: five schemes added on 7 October, a plateau to the end of October, then SYNTHESIS and LEAD by 19 November and POSTMORTEM on 20 November.
+The 21 November column was recomputed by the analytics pipeline at `main` `56479304e` (18:20 UTC, after that night's promotion), and the four earlier columns were reproduced exactly at the same run. To 19 November, record files grew 47-fold and configuration lines about 5-fold. Lines are a poor proxy for the grammar's content. The grammar grew in steps: five schemes added on 7 October, a plateau to the end of October, then SYNTHESIS and LEAD by 19 November, POSTMORTEM on 20 November and RETRO on 21 November.
 
 ### 12.6 Grammar change as part of ordinary work
 

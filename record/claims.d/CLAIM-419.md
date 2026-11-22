@@ -29,7 +29,7 @@ history:
 - version: 4
   date: '2026-11-20'
   note: >-
-    Note of 2026-11-20: the decision census (CASE-tmpnkuie) counts the
+    Note of 2026-11-20: the decision census (CASE-300) counts the
     amendments across all 114 decisions, beyond the five this claim cites.
     No change to the claim.
 role: counter
@@ -41,7 +41,7 @@ date: '2026-10-22'
 line:
 - record-as-apparatus
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 objects_to:
 - CLAIM-181
 grounds:
@@ -264,7 +264,7 @@ The claim is unchanged.
 ## Note of 2026-11-20: the amendments counted
 
 
-The decision census ([CASE-tmpnkuie](../cases.d/CASE-tmpnkuie.md)) coded every decision from [ADR-001](../decisions.d/ADR-001.md) to [ADR-114](../decisions.d/ADR-114.md). 88 changed the grammar: 62 by refinement, 25 by revision and 1 by restraint. Two coders agreed at κ 0.84 on that split, over a random 30.
+The decision census ([CASE-300](../cases.d/CASE-300.md)) coded every decision from [ADR-001](../decisions.d/ADR-001.md) to [ADR-114](../decisions.d/ADR-114.md). 88 changed the grammar: 62 by refinement, 25 by revision and 1 by restraint. Two coders agreed at κ 0.84 on that split, over a random 30.
 
 The revisions include changes to what counts as an answer ([ADR-049](../decisions.d/ADR-049.md)), boundaries redrawn between kinds of entry ([ADR-058](../decisions.d/ADR-058.md), [ADR-060](../decisions.d/ADR-060.md), [ADR-061](../decisions.d/ADR-061.md)), and an abstraction withdrawn ([ADR-084](../decisions.d/ADR-084.md)). This bears on the note of 2026-10-27, which contrasted this record's additions with CEGAR's splits. The grammar has also been revised, not only added to.
 

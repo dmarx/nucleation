@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-53 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+56 lines, walked from `objects_to:` and `undercuts_support_of` (`(u:CLAIM)-[:undercuts]->(g:ARG)-[:concludes]->(c:CLAIM)`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -362,3 +362,19 @@
 
 - [CLAIM-729](../record/claims.d/CLAIM-729.md) — The duties to comply with a justified rule, to support a justified institution and to help establish a needed one are distinct and none follows from another, and the third is bounded by whether the needed arrangement can be reached from the present one by permissible, resource-bounded transitions and by whose part it is to contribute *(thesis, Proposed)*
   - [CLAIM-752](../record/claims.d/CLAIM-752.md) — The duties to comply with a justified rule and to support the institution that administers it may be one duty, as Rawls's natural duty treats them, and are not shown distinct until a case separates them *(counter, Proposed)*
+
+## From Forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly: a chain that contracts everywhere except on what its steps copy without error ends keeping exactly the start's value on that conserved part, so it is anchored where the source's features lie in the part and forgets them where they do not; the record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema
+
+- [CLAIM-772](../record/claims.d/CLAIM-772.md) — Forgetting a source and anchoring to it are one contraction, told apart by what each restatement step conserves exactly: a chain that contracts everywhere except on what its steps copy without error ends keeping exactly the start's value on that conserved part, so it is anchored where the source's features lie in the part and forgets them where they do not; the record copies content exactly, by code and verbatim reading, and leaves form to contract onto its schema *(thesis, Proposed)*
+  - [CLAIM-789](../record/claims.d/CLAIM-789.md) — In any inquiry whose sources are revised, copying exactly anchors a copy to the version it was taken from, so the copy keeps what a later revision removed: exact copying conserves staleness as faithfully as content, and what anchors a derived text to a revisable source is a tie to the source that a revision has to pass through, not exactness *(counter, Proposed)*
+  - [CLAIM-793](../record/claims.d/CLAIM-793.md) — Where an inquiry keeps its sources and each step reads the stored source rather than the last restatement of it, re-reading is not a second route beside conservation but conservation on the state enlarged by the source; on that structure an interpretation does not drift but settles on a fixed offset from the source toward the reader's prior, the same at every reading, which no reader sharing that prior can see, and drift is confined to the chains of derived texts *(counter, Proposed)*
+
+## From Rich-get-richer processes and criticality reach power laws by almost opposite routes, the first by reinforcing differences and the second by removing the cutoff that had limited them
+
+- [CLAIM-796](../record/claims.d/CLAIM-796.md) — Rich-get-richer processes and criticality reach power laws by almost opposite routes, the first by reinforcing differences and the second by removing the cutoff that had limited them *(thesis, Proposed)*
+  - [CLAIM-806](../record/claims.d/CLAIM-806.md) — Linear preferential attachment is itself balanced at a boundary, between the stretched-exponential tails of weaker attachment and the condensation of stronger, so rich-get-richer processes and criticality are not opposite routes to a power law: both reach one at a marginal point, and differ in what is balanced *(thesis, Proposed)*
+
+## From Scoring against a null is a case of certifying categories by a model of the effect of using them, the model being the null's account of what the measure shows without the effect
+
+      - [CLAIM-831](../record/claims.d/CLAIM-831.md) — Scoring against a null is a case of certifying categories by a model of the effect of using them, the model being the null's account of what the measure shows without the effect *(supposed, Proposed)*
+        - [CLAIM-851](../record/claims.d/CLAIM-851.md) — Scoring against a null is a fourth route to certifying categories, beside evidence that does not pass through them, a model of the effect of using them, and an intervention *(supposed, Proposed)*

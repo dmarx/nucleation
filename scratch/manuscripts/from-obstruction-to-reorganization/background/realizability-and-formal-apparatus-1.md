@@ -2,6 +2,8 @@
 
 # Digest: realizability, and formal-apparatus part 1
 
+**Update of 2026-11-21.** This digest is a snapshot read on 2026-11-20 and is left as read. Since then the record has gathered the manuscript's principle accounts as a line, `learning-and-inquiry` (ADR-130, Active), over SYNTHESIS-109 to SYNTHESIS-116, with a line account, SYNTHESIS-118 (Proposed). **Statuses changed since:** CLAIM-625, CLAIM-629, CLAIM-635, CLAIM-639, CLAIM-760 and CLAIM-761 are Active. **New material bearing on this digest:** SYNTHESIS-048, version 2 (Proposed), integrates CLAIM-672, CLAIM-770 and CLAIM-781 (all Proposed); the synthesis review of 2026-11-21 found CLAIM-556 adds nothing to its premises and put its retirement to the owner; CLAIM-783 and CLAIM-785 (formerly temporary codes; Proposed) model stored specifications as accrued predicates. Part I §§2.3 and 4.2 use them.
+
 Source region: the `realizability` line, through its accounts SYNTHESIS-043
 (the line), SYNTHESIS-042 (reaching under resources), SYNTHESIS-040
 (budgeted individuation), SYNTHESIS-045 (assembly and productive

@@ -1,0 +1,144 @@
+---
+status: Read
+paper: LIT-2993
+title: "Ghadimi Atigh, van Spengler, Long, Ayoughi, Kasarla and Mettes, Hyperbolic Learning with Supervision from any Granularity, read for how a label's specificity sets the region an embedding is pushed into"
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 by a delegated reader from the publisher's
+    open-access PDF (PMLR's citation_pdf_url,
+    https://raw.githubusercontent.com/mlresearch/v300/main/assets/atigh26a/atigh26a.pdf,
+    15 pp. with checklist and appendix), via pdftotext, with the
+    bibliography from the PMLR landing page
+    (https://proceedings.mlr.press/v300/atigh26a.html). Read in full: §§1–6,
+    Appendix A.1–A.4 and Tables 1–9. Skimmed: the references and the
+    AISTATS checklist. The code repository named in footnote 1 was not
+    fetched. Every quotation the filing leans on rechecked by the filer by
+    script against the text. No email address sent to any service.
+date: '2026-11-22'
+summary: >-
+  Image classification when training labels come at any level of a class
+  tree and evaluation is at the leaves. The tree is embedded once in a
+  Poincaré ball as fixed prototypes; a ResNet50 maps images into the
+  ball and is trained with a cross-entropy over leaf prototypes (a coarse
+  label as a uniform target over its leaves), Ganea's entailment-cone
+  penalty toward the label's cone, and a Busemann pull toward the label's
+  boundary direction. With 95% of CIFAR-100 labels coarsened, leaf
+  accuracy rises from 20.22% for a baseline that discards coarse labels to
+  56.13%, and withheld fine labels on the training set are recovered at
+  69.88%. Nothing about learning dynamics or checkpoints.
+---
+<!-- inactive-ok-file: THEORY-tmpsj6u9 CLAIM-839 CLAIM-816 CLAIM-828 CLAIM-800 ARG-153 ARG-tmpv9jbe — Proposed or new; the reading of this work, the argument filed with it and the entries it bears on -->
+
+# NOTE-tmpyyvdy: Ghadimi Atigh, van Spengler, Long, Ayoughi, Kasarla and Mettes, Hyperbolic Learning with Supervision from any Granularity, read for how a label's specificity sets the region an embedding is pushed into
+
+## Contribution
+
+It extends hyperbolic prototype classification from leaf-only labels to
+labels at any depth of a known tree, without a head per level, and sets a
+benchmark protocol: a fraction ρ of leaf labels each replaced by a
+non-root ancestor drawn uniformly, with ρ up to 0.975. The design rule is
+§1's: "the more specific a sample's label, the more narrowly defined the
+region in the embedding space should be for optimization." The reading is
+[THEORY-tmpsj6u9](../theory.d/THEORY-tmpsj6u9.md).
+
+## Key results
+
+- **Ablation on CIFAR-100** (§5.1, Table 1): "For ρ = 0.95, the baseline
+  is stuck at 20.22%, while our losses progressively improve to 49.25%,
+  50.42%, and 56.13%." Most of the gain is the cross-entropy's, which
+  stops discarding coarse samples. At ρ = 0.5 the Busemann term lowers
+  accuracy (67.57 to 65.80 with all three losses), so it pays only when
+  most labels are coarse.
+- **Against a leaf-only network and Chen et al. 2022** (§5.2, Table 2):
+  on FGVC-Aircraft at ρ = 0.95, 4.14% for the naive network and 62.55% for
+  the method; in the parent-only setting, 15.65% for Chen et al. and
+  65.89%. "we cannot afford to simply ignore samples if we don't like the
+  annotations, we have to make use of them."
+- **Recovering withheld fine labels** (§5.3, Table 3): "reaching 69.88%
+  at ρ = 0.95 and 62.50% at ρ = 0.975, compared to just 20.30% and 12.36%
+  for the baseline."
+- **Euclidean prototypes** (A.4, Table 5): "Hyperbolic prototypes clearly
+  and consistently outperform their Euclidean counterparts (e.g., 59.93
+  vs. 47.8 at ρ = 0.90)".
+- **CUB-200** (A.2, Table 9): small gains in leaf accuracy (21.20 against
+  17.77 at ρ = 0.95), large ones in sibling accuracy (80.12 against 43.65).
+- **Why the Busemann term** (§3.2): "The cross-entropy and entailment
+  losses guide the samples to the correct part of the space, but might be
+  biased towards internal classes if they occur often in the training
+  set." It pulls samples toward the boundary, where "more specific
+  concepts" lie, since "general concepts lie closer to the origin and more
+  specific concepts closer to the boundary".
+
+## Assumptions
+
+- A known, fixed tree; prototypes fixed before the network trains.
+- Coarse labels are correct, only less specific; coarsening is simulated
+  uniformly at random, independent of the image.
+- Some leaf labels always remain; evaluation is only at the leaves.
+- Embedding dimension c − 1; the cone constant K = 0.1; the CIFAR-100
+  Busemann gating thresholds set by hand.
+
+## Concepts
+
+Multi-granular supervision; hyperbolic class prototypes; maximum class
+separation; a distortion-minimizing tree embedding; the entailment cone
+as the region a coarse label licenses; the ideal prototype (a label's
+direction on the boundary) and the Busemann function; depth by radius;
+sibling and cousin accuracy; label completion. §3.2's "Coarse-to-fine"
+names the projection of a label to a boundary direction, not a training
+schedule.
+
+## Connections
+
+The entailment loss is Ganea et al.'s cone and angle penalty ([LIT-866](../literature.d/LIT-866.md)),
+used directly; the prototypes are placed by Sala et al.'s distortion
+objective ([LIT-874](../literature.d/LIT-874.md)), which A.4 also cites for hyperbolic over Euclidean
+geometry. Leaves are first spread by maximum class separation (Kasarla et
+al. 2022, not held).
+
+## Bearing on the record
+
+- **[CLAIM-839](../claims.d/CLAIM-839.md)** (a weak parallel, for its semantic half only). The paper
+  is a working instance of supervision as a region whose narrowness
+  matches the label's specificity: a coarse label confines the embedding
+  to the coarse cone and spreads the target over its leaves. It gives
+  nothing on Blackwell informativeness across checkpoints, on branching,
+  or on restriction over training time; the nesting is semantic, applied
+  to each sample at one time. [ARG-tmpv9jbe](../arguments.d/ARG-tmpv9jbe.md).
+- **[CLAIM-816](../claims.d/CLAIM-816.md)** (weakly supports its worry). The paper relies on depth by
+  radius and adds the Busemann term because the other losses leave
+  samples "biased towards internal classes": the radial range has to be
+  enforced, not had for free. It sets the embedding dimension to c − 1 without
+  remarking on concentration.
+- **[ARG-153](../arguments.d/ARG-153.md)** (parallel). L_entail is purely angular; the radial work is
+  done separately by the Busemann term, the same split between angular
+  and radial structure that [ARG-153](../arguments.d/ARG-153.md) draws.
+- **[CLAIM-828](../claims.d/CLAIM-828.md), [LIT-862](../literature.d/LIT-862.md)** (contrast, by name only). "Coarse-to-fine" here
+  is a false friend: the paper makes no claim about the order in which
+  distinctions are acquired.
+- **[LIT-866](../literature.d/LIT-866.md), [LIT-874](../literature.d/LIT-874.md)** (background; applied).
+- **[CLAIM-800](../claims.d/CLAIM-800.md), [QUESTION-512](../questions.d/QUESTION-512.md), [LEAD-210](../leads.d/LEAD-210.md), [LIT-2957](../literature.d/LIT-2957.md)** (bearings on another
+  filer's files, reported to the lead and not written here): the
+  prototypes are fixed, so [CLAIM-800](../claims.d/CLAIM-800.md)'s boundary term is zero by design;
+  the work asks nothing temporal; Table 3's recovery of withheld fine
+  labels is not a coarse-only setting.
+
+## Limitations
+
+- Coarsening is simulated, uniform over ancestors, not real annotator
+  behaviour.
+- A ResNet50 trained from scratch on small datasets, three runs, no
+  theory.
+- One external baseline (Chen et al. 2022), whose code supports only the
+  parent-only setting.
+- Small leaf-accuracy gains on CUB-200; the Busemann term hurts at low ρ
+  and needs hand-set gating on CIFAR-100.
+- **Table 5's caption and numbers disagree.** The caption says
+  "reclassifying the training set", but its "Ours" figures (59.93, 56.13,
+  50.10 at ρ = 0.90, 0.95, 0.975) are Table 1's test accuracies, not
+  Table 3's training-set reclassification (69.88 at ρ = 0.95). Either the
+  caption or the numbers are mislabelled; the Euclidean comparison's
+  setting is therefore uncertain.

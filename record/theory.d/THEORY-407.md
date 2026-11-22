@@ -20,6 +20,7 @@ summary: >-
   Karlsson–Margulis and Kaimanovich forms should be cited to their
   originals. The hypotheses are ergodic stationary sampling and N → ∞.
 ---
+<!-- inactive-ok-file: NOTE-tmpy4hcs THEORY-tmpocjqv LIT-3005 — Skimmed, Proposed or Unfetched; the reading of Alsmeyer and Mentemeier and the Kesten paper it stands in for, cited in the note of 2026-11-22 -->
 
 <!-- inactive-ok-file: THEORY-325 — Proposed; named in Connections for contrast, not leaned on -->
 
@@ -89,3 +90,15 @@ seen at the boundary. Neither is the case.
 
 ## Note of 2026-11-19: Poole and colleagues, read
 A parallel ([NOTE-2099](../notes.d/NOTE-2099.md)): Poole and colleagues relate the logarithm of χ1 to the Lyapunov exponent of a mean-field average over products of random Jacobians at initialization, the i.i.d. random-product setting this account fits.
+
+## Note of 2026-11-22: Alsmeyer and Mentemeier, skimmed
+
+**Background.** Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md), skimmed in
+[NOTE-tmpy4hcs](../notes.d/NOTE-tmpy4hcs.md); the reading is [THEORY-tmpocjqv](THEORY-tmpocjqv.md)), read as a stand-in for
+Kesten ([LIT-3005](../literature.d/LIT-3005.md)), use the top exponent of this account for the random
+difference equation R_n = M_n R_(n−1) + Q_n: a negative Liapunov
+exponent β := lim n^(−1) log ‖Π_n‖ gives a stationary solution, and the
+power-law tail of that solution has index κ with
+lim n^(−1) log E‖Π_n‖^κ = 0 (Theorem 1.1, p. 2). The tail is a statement
+about moments of the cocycle, not about the a.s. rates this account
+holds. No edge.

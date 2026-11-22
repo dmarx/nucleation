@@ -1,0 +1,3 @@
+### Changed
+
+- Six decisions move to Active at the owner's ruling of 2026-11-21 on the promotion pull request: "adopt the ADRs and the candidate line, then merge". They are [ADR-135](record/decisions.d/ADR-135.md) (the work renamed), [ADR-129](record/decisions.d/ADR-129.md) (cross-line accounts), [ADR-131](record/decisions.d/ADR-131.md) (the claim test routes, not rejects), [ADR-127](record/decisions.d/ADR-127.md) (the dialectic regime, version 4), [ADR-132](record/decisions.d/ADR-132.md) (when a hold lifts) and [ADR-128](record/decisions.d/ADR-128.md) (shared descriptions). Each was applied on staging when it was proposed.

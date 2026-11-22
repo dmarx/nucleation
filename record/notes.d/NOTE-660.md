@@ -271,3 +271,10 @@ dynamics.
   complete, and when, becomes a prediction.
 - The authors' conjecture (Appendix D.3) that next-token prediction needs a
   dynamical theory of learning sparse higher-order tensors.
+
+## Note of 2026-11-21: Baik, Ben Arous and Péché, read
+
+**Background**, no edge. The spiked covariance model the analogy analysis
+borrows is now read as [LIT-2986](../literature.d/LIT-2986.md) ([NOTE-2241](NOTE-2241.md)). Its theorem is for
+complex Gaussian samples and the largest eigenvalue; real data and several
+outliers are Baik and Silverstein's ([LIT-2988](../literature.d/LIT-2988.md)).

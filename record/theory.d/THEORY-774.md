@@ -37,6 +37,8 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed; the same paper's Ising claim, set beside this one -->
 
+<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+
 # THEORY-774: In a one-dimensional lattice hopping model with 2N+1 free hopping probabilities, all particles starting at the origin and the density after t steps observed with fixed Gaussian error, the Fisher metric is exactly t² times the distribution of the difference of two independent (t−1)-step walks, evaluated at the lag between the two hops, so it does not depend on the drift; when the walk is aperiodic with nonzero variance, its k-th largest eigenvalue is of order t^(3/2−k) for k = 0, …, 2N, so successive eigenvalues separate by a factor of order t
 
 ## Source
@@ -152,3 +154,24 @@ eigenvectors are a refinement chain by construction. All three orders
 come from one eigenbasis, as in [THEORY-745](THEORY-745.md), and depend on the
 coordinates: natural-gradient flow would fit every direction at the same
 rate.
+
+## Note of 2026-11-21: Transtrum, Machta & Sethna (2010, 2011) and Transtrum et al. (2015), read
+
+A parallel, and a restatement. The three readings ([NOTE-2240](../notes.d/NOTE-2240.md),
+[NOTE-2247](../notes.d/NOTE-2247.md), [NOTE-2242](../notes.d/NOTE-2242.md)) use the same metric, JᵀJ with unit error,
+in general form. The 2015 review restates this reading's result
+qualitatively: the hopping model's manifold is a "hyper-blob" after one
+step, and "as time proceeds, the model manifold contracts onto a
+hyper-ribbon", the continuum parameters stiff and the rest "increasingly
+sloppy" (§V). It adds no computation. The 2010 letter explains a width
+hierarchy by another route, sampling an analytic function within its
+radius of convergence; here the hierarchy comes from observing at a scale
+coarse relative to the system's own. Both make it a property of the model
+as observed. No relation is written; nothing here changes the reading.
+
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+A restatement ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md), [THEORY-tmpx26x7](THEORY-tmpx26x7.md)). §6.2 repeats the hopping
+model: after one step the manifold "is not a hyper-ribbon, but is
+extended roughly equally in all directions", becoming one under further
+steps. Supports the reading; no relation is written.

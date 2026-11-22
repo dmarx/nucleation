@@ -31,6 +31,7 @@ summary: >-
   optima are soft, and the path of optima through β has phase transitions
   that roughly follow Berlin and Kay's sequence.
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k LIT-tmp2v43c — Proposed or Deferred; the reading of Yang filed 2026-11-22, and Rose, Gurewitz and Fox, registered from it and unread -->
 
 # NOTE-631: Efficient compression in color naming
 
@@ -182,3 +183,12 @@ Rose's.
   stated next step)?
 - Is there a transmission process whose stationary states lie on the IB
   curve, joining this to iterated learning?
+
+## Note of 2026-11-22: Yang, read
+
+A parallel use of Rose's deterministic annealing for the emergence of
+categories. Yang ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)) takes Rose, Gurewitz and Fox's
+critical temperature (registered as [LIT-tmp2v43c](../literature.d/LIT-tmp2v43c.md)) as a critical precision
+for a Gaussian-mixture probe on a network's features and makes it move
+with training; here the annealing path gives the colour-naming
+hierarchy.

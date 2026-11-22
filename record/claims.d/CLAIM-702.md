@@ -126,3 +126,14 @@ No status changes.
 ## Note of 2026-11-18: what holds it back
 
 Cook ([THEORY-1998](../theory.d/THEORY-1998.md)) corroborates the first half, that prevention leaves little trace while its lapse is seen. Nothing in the record shows an organization credited with outcomes its members' compensation produced, so the second half, credit and blame by different principles, rests on A's illustration of the ward alone; a case or reading that traces the credit for a compensated outcome is what is missing.
+
+## Note of 2026-11-22: Merton's Matthew effect, read
+
+**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). Merton documents credit
+allocated by standing rather than by contribution: "eminent scientists get
+disproportionately great credit for their contributions to science while
+relatively unknown scientists tend to get disproportionately little credit
+for comparable contributions" (p. 58), most of all in collaborations. This
+claim's credit following visibility rather than the compensating effort
+is the organizational form of the same misallocation. Merton's evidence is
+"presumptive", laureates' testimony. No edge.

@@ -32,6 +32,7 @@ summary: >-
   it are not fixed, which is [ARG-028](../arguments.d/ARG-028.md)'s open dispute.
 ---
 <!-- inactive-ok-file: CLAIM-773 CLAIM-777 CLAIM-776 CLAIM-782 CLAIM-191 ARG-028 — Proposed; the claims this would test, and the dispute it inherits -->
+<!-- inactive-ok-file: CLAIM-217 CLAIM-206 — Proposed; the two sides of ARG-028's dispute, named in the note of 2026-11-22 -->
 
 # LEAD-204: From the record's exchange history, trace ideas restated across sessions before they were coded, to tell which kind of drift they show (saturating at the collaborators' framings, linear, or undirected), whether ideas further from those framings are lost sooner, and whether drift accrues per restatement or per unit of time
 
@@ -63,3 +64,8 @@ notice.
 The displacement measure, and the raters. Both inherit [ARG-028](../arguments.d/ARG-028.md)'s question,
 whether a measure built in the record's grammar can certify drift, and
 [LEAD-201](LEAD-201.md)'s, who judges against a reference the record did not supply.
+
+## Note of 2026-11-22: two alternative protocols for the judgement this lead leaves open
+
+Filed at the owner's request to triage the manuscript's leads and start on those the assistant could run alone. The judgement left open here is [ARG-028](../arguments.d/ARG-028.md)'s dispute, so it is filed both ways, as alternatives for the owner to choose between: [LEAD-tmpxq8z2](LEAD-tmpxq8z2.md) takes [CLAIM-217](../claims.d/CLAIM-217.md)'s side (outside raters, blind, on a rubric of content units frozen in advance, with a second rater), and [LEAD-tmp2h1r1](LEAD-tmp2h1r1.md) takes [CLAIM-206](../claims.d/CLAIM-206.md)'s (a mechanical retention measure, blind model raters and the owner on a subsample, counting a finding only where all three agree). Either, once chosen, fixes what this lead lists under "Open before it can be specified". The assistant can run the second's mechanical family alone and has piloted it (see [LEAD-tmp2h1r1](LEAD-tmp2h1r1.md)).
+

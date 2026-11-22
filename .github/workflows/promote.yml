@@ -61,7 +61,7 @@ jobs:
         if: steps.ahead.outputs.count != '0'
         uses: dmarx/luria/actions/lint@main
         with:
-          pip-spec: luria==1.10.0
+          pip-spec: luria==1.11.0
       - name: Push the promotion
         if: steps.ahead.outputs.count != '0'
         run: git push origin HEAD:main
@@ -70,7 +70,7 @@ jobs:
         if: steps.ahead.outputs.count != '0'
         uses: dmarx/luria/actions/generate@main
         with:
-          pip-spec: luria==1.10.0
+          pip-spec: luria==1.11.0
           concretize: "true"
 
   lint:
@@ -86,7 +86,7 @@ jobs:
           python-version: "3.12"
       - uses: dmarx/luria/actions/lint@main
         with:
-          pip-spec: luria==1.10.0
+          pip-spec: luria==1.11.0
 
   back-merge:
     # Staging takes main's permanent codes and views. Docs does the same

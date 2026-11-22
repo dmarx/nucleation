@@ -39,6 +39,8 @@ summary: >-
   representational similarity. Exact only from decoupled, balanced
   initial weights with white inputs; random initialisation is simulated.
 ---
+<!-- inactive-ok-file: NOTE-2246 — Skimmed; readings of 2026-11-21 cited in the dated note -->
+<!-- inactive-ok-file: CASE-301 CLAIM-827 — Proposed; entries of 2026-11-21 cited in the dated note -->
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account this reading produced -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-002 — Proposed; accounts this reading bears on -->
 
@@ -315,3 +317,16 @@ to word embeddings of translation-symmetric co-occurrence.
 - How degenerate modes, such as the cos/sin pairs of a ring, behave from
   random initialisation: whether the hidden circle forms at once or one
   axis leads.
+
+## Note of 2026-11-21: Baik, Ben Arous and Péché, read
+
+A **parallel**, with no edge. The two works this note names for the
+coherence threshold are now registered and read: the BBP paper as
+[LIT-2986](../literature.d/LIT-2986.md) ([NOTE-2241](NOTE-2241.md)) and Benaych-Georges and Nadakuditi as
+[LIT-2964](../literature.d/LIT-2964.md) ([NOTE-2246](NOTE-2246.md), §3.1 only). The threshold θ > c^(1/4) cited
+here as their Theorem 2.9 is the one §3.1 states for a Gaussian matrix with
+a non-zero mean. BBP itself proves the covariance form, for complex Gaussian
+samples and the largest eigenvalue; "the BBP transition … in
+Benaych-Georges and Nadakuditi's form" is the right way to put it, since the
+semantic-development model is additive, the model the record's
+[CASE-301](../cases.d/CASE-301.md) and [CLAIM-827](../claims.d/CLAIM-827.md) also turned out to use.

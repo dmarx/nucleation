@@ -2,7 +2,7 @@
 
 # Lines of work
 
-90 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+91 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -640,6 +640,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## information-geometry
 
+### From Why are nonlinear fits so challenging?
+
+- [LIT-2977](../record/literature.d/LIT-2977.md) — Why are nonlinear fits so challenging? *(Active)*
+  - [LIT-3009](../record/literature.d/LIT-3009.md) — The geometry of nonlinear least squares with applications to sloppy models and optimization *(Active)*
+
 ### From Algebraic Geometry and Statistical Learning Theory
 
 - [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Unavailable)*
@@ -852,6 +857,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-700](../record/literature.d/LIT-700.md) — Three kinds of collective attitudes *(Active)*
 
 ## model-comparison
+
+### From Why are nonlinear fits so challenging?
+
+- [LIT-2977](../record/literature.d/LIT-2977.md) — Why are nonlinear fits so challenging? *(Active)*
+  - [LIT-3009](../record/literature.d/LIT-3009.md) — The geometry of nonlinear least squares with applications to sloppy models and optimization *(Active)*
 
 ### From Algebraic Geometry and Statistical Learning Theory
 

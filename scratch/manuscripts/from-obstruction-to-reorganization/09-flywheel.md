@@ -27,14 +27,14 @@ Noticing moved from incidental to institutional. In P10's terms, the recognition
 - ADR-056 piloted a TERM `kind` field and rejected it when five of sixteen terms forced an arbitrary choice. The test was P4's: would the name earn its keep?
 - ADR-053 added `Unfetched` when the situations it separated called for different actions by different people (the owner could fetch them; no search could).
 
-**Stage 4: the apparatus changes.** There were 88 grammar changes: 62 refinements, 25 revisions and 1 restraint (§13.1). The revisions show P2's full range:
+**Stage 4: the apparatus changes.** There were 88 grammar changes to 20 November: 62 refinements, 25 revisions and 1 restraint (§13.1). The 22 decisions of 21 November add three, two of them revisions (ADR-115, ADR-130), and 19 changes of process. The revisions show P2's full range:
 
 - **re-carving** what counts as an answer (ADR-049);
 - **redrawing boundaries** between kinds of entry (ADR-058, ADR-060, ADR-061);
 - **withdrawing an abstraction** that had overreached: an admission route that let accounts assert (ADR-084);
 - **splitting units of inquiry** (ADR-082, ADR-087, ADR-089, ADR-100).
 
-**Stage 5: carry-through.** 2,664 existing entries were migrated by the 58 changes that state a count. Every removed vocabulary term in use was carried through every entry using it (§15.2). The predicted failure occurred exactly where the theory says it would. When only a meaning changed, nothing forced the entries to follow: ADR-048's redefinition of `anthology-candidate` reached none of its 237 entries.
+**Stage 5: carry-through.** 2,664 existing entries were migrated by the 58 changes that state a count. Every removed vocabulary term in use was carried through every entry using it, and every split moved the entries it had to (§15.2). The failure the theory predicts at this stage, when only a meaning changes, is untested: the history holds no such change. An earlier version of this paper counted `anthology-candidate` as one; the owner ruled that the flag did not change meaning. The one carry-through failure found is of another kind, a correction that did not reach a derived summary (§14.5). Since 21 November there is a case to test: ADR-130 narrowed `record-as-apparatus` in place and touched 7 of its 80 carriers, leaving the rest to a later review (§15.2).
 
 **Stage 6: maintenance.** Required fields, `fail_on` patterns, CI on every pull request, skills that write review procedures down, generated worklists (§14.3). The predicted failure also occurred. A correction to a postmortem's body did not reach its summary or the view generated from it (§14.5). In P7's terms, it was a correction recorded but not carried through everything that depends on it.
 
@@ -50,7 +50,9 @@ New distinctions made new misfits visible. Once `warrant` existed, two readings 
 - status reviews from 27 October;
 - synthesis and reading reviews from 7 and 11 November;
 - POSTMORTEM and its triggers on 20 November (ADR-110, ADR-112, both Proposed but applied), revised a day later into RETRO and a narrower POSTMORTEM (ADR-115, §14.4);
-- one complete review-and-revision cycle within two days (§14.4).
+- one complete review-and-revision cycle within two days (§14.4);
+- on 21 November, notes taken during the work for the next retrospective, earmarks the owner can set and a retrospective must answer, an adoption review of the decisions' own statuses, and an audit that treats a cross-line account as a sign of a missing line (ADR-115, ADR-124, ADR-126, ADR-129);
+- an analytics pipeline that recomputes the record's derived figures and reports how far the hand-coded census lags (§12.1).
 
 It also changed its tool. Mechanisms 3 to 5 of ADR-057 became features of luria 1.3.0 on 28 October (luria#382, §14.6). Whether the capacity to judge revisions was kept or eroded is the predicted risk, and it is not measured (§17.1).
 
@@ -80,14 +82,14 @@ The theory and the machinery that tests it were formed together, and each was re
 |---|---|---|
 | P1: a distinction is needed when actions differ | ADR-042, ADR-053, ADR-036; every decision weighs alternatives | Observed in rationale (tier 1) |
 | P2: split, merge, re-carve | 25 revisions, including a withdrawal and a redefinition of what counts as an answer | Observed (tier 2) |
-| P3: no self-certification | Reviews by procedures independent of filing; counter-example: a summary that propagated an error | Observed in design; one failure |
+| P3: no self-certification | Reviews by procedures independent of filing; separate readers for coverage, audits and checks of numbers (21 Nov); counter-example: a summary that propagated an error | Observed in design; one failure |
 | P4: naming is its own decision | Pilots before required fields (ADR-043, ADR-056); the second-occurrence rule | Observed (tier 1) |
 | P5: discrepancy then capacity; absorption first | 63 of 71 misfits absorbed first; new distinctions then served later cases | Observed (tier 2); transfer not formally tested |
 | P6: three ledgers | 2,664 entries migrated; ten later errors; transition costs recorded | Observed (tier 2) |
 | P7: maintenance; support erodes | Procedures built for maintenance; corrections that stopped short; erosion of the owner's capacity unmeasured | Partly observed; the key risk untested |
 | P8: reflexive inquiry, owned criteria | Grammar revised by decision; criteria of revision stayed with the owner; the theory revised by the machinery | Observed (tier 1–2) |
-| P9: anchors and traceable change | Codes, history, retirement by status; removals fully carried through; one redefinition not | Observed (tier 2); one failure |
-| P10: chain of uptake; correctability | Noticing moved into procedures; postmortems review decisions; correctability of the whole not measured | Partly observed |
+| P9: anchors and traceable change | Codes, history, retirement by status; removals and splits fully carried through; one derived summary not | Observed (tier 2); one failure |
+| P10: chain of uptake; correctability | Noticing moved into procedures; retrospectives and postmortems review decisions; failing the test as a claim no longer costs a synthesis its admission (ADR-131); correctability of the whole not measured | Partly observed |
 
 Every entry in the table is tier 1 or tier 2 evidence: what the record says it did, and what its grammar now distinguishes. None is tier 3, evidence that the inquiry is better for it. Section 19 sets out how tier-3 evidence could be obtained.
 
@@ -98,12 +100,30 @@ The night of 2026-11-21 ran the predicted cycle (§7.2) several times over, quic
 1. **Misfit.** Reframes of an entry had no place but history notes; an owner's earmark for the retrospective had no home; 48 decisions were Proposed though applied; a code in a title kept failing CI.
 2. **Noticed.** By the owner in conversation, by CI, and by the assistant reading its own workflow: the noticing was mixed, part incidental and part procedural.
 3. **Diagnosed against a target.** Each was put to the owner, often as alternative readings filed side by side, the owner choosing.
-4. **Changed.** Decisions on reframings (ADR-tmpd4rgx), earmarks (ADR-tmpyzxw8, Active), merging into staging (ADR-tmpq5b9e, Active), the promotion pull request (ADR-tmpwi4rk, Active) and an adoption review (ADR-tmpvmzl6); a guard upstream in luria, refusing a code in a title.
+4. **Changed.** Decisions on reframings (ADR-120, Proposed), earmarks (ADR-126, Active), merging into staging (ADR-121, Active), the promotion pull request (ADR-125, Active) and an adoption review (ADR-124, Proposed); a guard upstream in luria, refusing a code in a title, taken into the record's pin later that day (pull request 601).
 5. **Carried through.** The adoption review's first pass moved 34 decisions to Active; CI's repair then dropped the directives that had excused them, across about 400 files.
 6. **Maintained.** Each change went into CLAUDE.md, a skill or a workflow.
-7. **Serving later cases.** The adoption review is now a procedure for noticing (stage 2), as CLAIM-tmpmtv1b (Proposed) predicts.
-8. **The capacity itself.** The night's retrospective (RETRO-tmp0p4qy) records where the faster cycle let the assistant's own errors travel further before the owner caught them: the cost side of a flywheel that turns quickly.
+7. **Serving later cases.** The adoption review is now a procedure for noticing (stage 2), as CLAIM-792 (Proposed) predicts.
+8. **The capacity itself.** The night's retrospective (RETRO-005) records where the faster cycle let the assistant's own errors travel further before the owner caught them: the cost side of a flywheel that turns quickly.
 
 The same night revised the review mechanism itself. One day after POSTMORTEM was created, it was split into RETRO, a review of how work went, and a narrower POSTMORTEM for what went wrong (ADR-115, Proposed; §14.4). That is stage 4 applied to stage 8: the criteria by which the cycle's own turns are judged were refined after one use, as P8 says reflexive inquiry may do.
 
 This is one night, observed by a participant, and it is the cycle the theory predicts, so it is an illustration, not a test (§18).
+
+### 16.5 A turn of the cycle the next day: lapses the owner caught, becoming rules (added 2026-11-21)
+
+"A turn of the cycle" can be read two ways here, and the day of 21 November shows both. On the first reading, one obstruction runs through every stage, from a lapse to a maintained rule. On the second, the cycle acts on the procedures that run it, so that what changes is how the record files and reviews, not its grammar. The cases below are of the second kind, each followed from a lapse the owner caught to what it became. The stage labels are this draft's.
+
+| Lapse or missing step, and who caught it | Stage 2: noticed | Stage 4: changed | Stage 6: maintained in |
+|---|---|---|---|
+| A filing mapped its source's gaps and did not fill them; the owner asked once for the gaps to be filled | The owner, in the request for the filing of "Rich Get Richer Power Laws" | ADR-tmpcb96w (Proposed): every filing of an exchange, synthesis or upload fills the gaps its source leaves, in the assistant's voice, without offering first | The `read-and-file` skill, step 9a, and the curation entry's "Gaps" section; first application the same filing, some fifty fills and eight corrections of the other assistant's figures (the curation entry's Filled list, 2026-11-21, 18:01, has 53 items under five headings, and one more from the synthesis audit) |
+| The decoder had dropped code output and left reasoning and hidden drafts uncounted | The owner, from a turn count that fell from 96 to 43 | The decoder keeps all assistant content and counts what it leaves out (pull request 608); no decision was filed, since a tool's defect is fixed in the tool | Its tests (17), `--visible_only` for the old output, and the skill's step 1 |
+| The assistant asked which of three senses of "separation" the owner meant, instead of filing all three | The owner: "when you encounter ambiguity … you file all of the available options (within reason)" | Nothing new: the rule existed (ADR-127). The two missing senses were filed as notes, and a devlog note recorded the lapse (2026-11-21, 18:29:55) | The rule as written; the note adds the sign to watch, a question ending "which did you mean?" while the regime is on |
+| After a hold lifted, the assistant reported the state and did not act; the owner asked "you gonna open a new PR on staging or what?" | The owner, then RETRO-007 | ADR-132: when a hold lifts, name the held step and take it | CLAUDE.md's paragraph on the regime |
+| A shared pull-request description was rebuilt by one writer, dropping the choices another had written | The assistant, re-reading before its own edit; then RETRO-007 | ADR-128: marked sections, and a write only if the text is unchanged | The promotion pull request's description |
+
+Three things in the table are this draft's reading, not the record's.
+
+- **The owner is still the main noticer of process lapses.** In four of the five rows the lapse or missing step was caught by the owner, by a count, a request or a question. Review procedures caught grammar misfits in the late period (§15.4); these lapses were in how the assistant worked, which no procedure yet reviews except the retrospective after the fact. That bears on §17.1: the owner's capacity to notice is being exercised, and it is also being relied on.
+- **Not every turn ends in a decision.** The decoder's defect became a tool change, and the third lapse became a note, because the rule it broke already existed. In the cycle's terms, the third is a failure of stage 6, maintenance: a rule held in CLAUDE.md and in ADR-127 was not applied to a turn that was a question rather than a filing. Its own note says the fix is to recognize the sign, not to amend the rule.
+- **The several-readings rule has itself come round the cycle.** ADR-127 gained it from the owner's words on 21 November, before the decision merged ("err on the side of filing all of the alternatives"). Within the day, it produced seven Rejected alternatives and an adopted reading for each of four requests (§13.8). It was applied in the filing of "Rich Get Richer Power Laws", where two of the owner's ideas each got two readings filed as alternatives (U5, U23). And it failed once, on a question, and was caught. That is stages 1 to 7 for one rule within a day, with its first maintenance failure recorded.

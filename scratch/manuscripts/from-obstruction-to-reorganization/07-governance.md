@@ -4,12 +4,12 @@
 
 ### 14.1 Decision records
 
-The record holds 114 decision records: 70 Active, 37 Proposed, 5 Superseded, 1 Deferred and 1 Rejected. Each states its context, decision, alternatives and consequences. Two rules shape how they are used:
+On 20 November the record held 114 decision records: 70 Active, 37 Proposed, 5 Superseded, 1 Deferred and 1 Rejected. On 21 November, after that night's promotion, `main` held 135: 114 Active, 7 Proposed, 8 Rejected, 5 Superseded and 1 Deferred (recomputed, `main` at `56479304e`). A 136th, ADR-tmpcb96w, was Proposed on an open branch. Each states its context, decision, alternatives and consequences. Two rules shape how they are used:
 
 - **ADR-071.** Each logical unit of work gets its own branch and pull request, and a decision travels with its first application. A reviewer therefore judges a rule by what it does.
 - **ADR-072.** The second-occurrence rule applies to process: a decision or principle is written when its occasion recurs.
 
-On 20 November, thirty-seven decisions were still Proposed. The census codes 26 of them as applied, and the remaining 11 as undeterminable from the decision itself. The next night an adoption review (ADR-tmpvmzl6) found 48 decisions Proposed though applied, and its first pass moved 34 to Active. In this record, "Proposed" on a decision often means that the owner has not yet formally adopted it, not that it has not been applied. The census (§13.1) therefore codes ratification separately from status.
+On 20 November, thirty-seven decisions were still Proposed. The census codes 26 of them as applied, and the remaining 11 as undeterminable from the decision itself. The next night an adoption review (ADR-124, itself still Proposed) found 48 decisions Proposed, judged 35 of them applied, and in its first pass moved 34 to Active. The promotion pull request of that evening (599) adopted six more at one ruling ("adopt the ADRs and the candidate line, then merge"), and ADR-130 was filed Active, the owner having ruled before it was written. In this record, "Proposed" on a decision often means that the owner has not yet formally adopted it, not that it has not been applied. The census (§13.1) therefore codes ratification separately from status.
 
 ### 14.2 Reviewing the argument, from October
 
@@ -29,6 +29,8 @@ The outer loop of §9.5 changes the grammar. Before any grammar change was revie
 
 These reviews account for most of the "review procedure" entries in the census's late period (§13.1). Twelve of the 25 grammar changes after 6 November were noticed by a review procedure, not by a person working on content.
 
+**The synthesis review of 21 November and the first cross-line audit (added 2026-11-21).** ADR-129 added a stage to the synthesis review: each account whose scope is a theme across lines is audited as a possible sign of a missing line, by three questions (a question no line holds, recurrence, findability). Its first audit took the eight accounts of this paper's principles (curation entry of 2026-11-21, 08:55). One at a time, seven were bridges, each carrying a question a line already held; only P5's, how a system comes to learn, was held by none. Together, with P1, P3 and the narrowed part of the predicted cycle (CLAIM-794), they answered all three questions yes, and the audit put a candidate line to the owner. The owner adopted it (ADR-130). The synthesis review later that day (curation entry, 14:58) gave each audit to a separate reader briefed neutrally, filed the new line's account (SYNTHESIS-118) and the first account of `flourishing-and-meaning` (SYNTHESIS-117), recorded admission sections on four claims, filed no new claim, and put to the owner the supersession of a claim found to add nothing to its premises (CLAIM-556). After it, every line had an account, and no account was cross-line.
+
 ### 14.3 Compiling norms
 
 DP-3 ("culture must be compiled") names the ladder a norm climbs: prose, then convention, then mechanism, then guarantee. The census's grammar changes are its upper rungs. The record also shows the lower ones:
@@ -40,6 +42,7 @@ DP-3 ("culture must be compiled") names the ladder a norm climbs: prose, then co
   - `fail_on` patterns in the linter, each traceable to a decision (ADR-049, ADR-057, ADR-058, ADR-060, ADR-069, ADR-084);
   - a CI job that repairs and lints every pull request (ADR-054).
 - **Stopping lower down:** ADR-050 stayed at the convention rung, because a mechanism would have fired 395 times.
+- **Climbing in a day (added 2026-11-21).** A code in an entry's title failed CI four times in two days. A postmortem recorded the rule (POSTMORTEM-004), a devlog note found it had failed again because "a rule kept in memory fails the second time a filer is busy", and the next retrospective recommended moving to luria 1.11.0, whose `luria new` refuses such a title (RETRO-007; dmarx/luria#403). The owner said "go" and the pin moved (pull request 601). Prose, convention and mechanism were passed in about a day. ADR-120 and ADR-126 each stop at the convention rung on purpose, naming a field as the next rung if the convention is not kept.
 
 DP-4 ("fire before trusting") was applied at least once: the promotion audit's check was run against a deliberately broken queue before it was relied on.
 
@@ -52,7 +55,14 @@ Two decisions of 20 November, both Proposed, made review of the grammar's change
 - **ADR-112** created POSTMORTEM, which `reviews` decisions and names those its recommendations `prompted`.
 - **ADR-110** set six triggers for one: a schema change in use, a batch of five or more pull requests, a bulk filing, a decision revised soon after landing, a process incident, and the owner's request. Each is counted in use or in sessions, not by the calendar. The owner "expects this to be superseded".
 
-The next night the review mechanism was itself revised (ADR-115, Proposed). A RETRO now reviews how a change or a stretch of work went, including what went right. POSTMORTEM is kept for something that went wrong, and the devlog holds notes taken during the work for the next retrospective. The three postmortems filed on 19 and 20 November became RETRO-002 to RETRO-004, and their old codes are Superseded. The owner's earmarks for a retrospective now become devlog notes the next RETRO must answer (ADR-tmpyzxw8, Active). This is a refinement of the criteria by which the record reviews its own changes, made after one day's use of the first version.
+The next night the review mechanism was itself revised (ADR-115, Proposed). A RETRO now reviews how a change or a stretch of work went, including what went right. POSTMORTEM is kept for something that went wrong, and the devlog holds notes taken during the work for the next retrospective. The three postmortems filed on 19 and 20 November became RETRO-002 to RETRO-004, and their old codes are Superseded. The owner's earmarks for a retrospective now become devlog notes the next RETRO must answer (ADR-126, Active). The census codes ADR-115 as a revision, since it narrowed an existing scheme and reassigned its entries; it was made after one day's use of the first version.
+
+**The review loop in use, 21 November (added 2026-11-21).** By the evening the record held seven RETROs and four POSTMORTEMs (one under the narrowed scheme, POSTMORTEM-004, on a docs-check failure), and ten devlog notes from that day (the last on an open branch), one earmarked by the owner. Two retrospectives show the loop's speed:
+
+- **RETRO-006** reviewed the drafting of this paper and the filing of its principles. Going right: independent readers caught the drafter's errors (9, then 37); the census was fixed before it was run; the owner's challenge widened a frame. Going wrong: the drafter's restatements overreached, all in one direction; integrations were stated as principles before the admission test; no devlog notes were taken. The owner answered four of its six recommendations the same day; the other two, to search accounts' "Not stated" sections before filing a join and to file devlog notes as the work goes, stand without reply. Of the four, two became decisions or versions within hours: whether a restart is a new session (ADR-127, version 3) and the three alternatives on ADR-075's language (ADR-131, ADR-133, ADR-134). One became a tool, the analytics pipeline. One was withdrawn on the owner's question ("don't we get this for free via git blame or git log?").
+- **RETRO-007** reviewed the hour of the owner's rulings: thirteen answers became twelve pull requests. Its five recommendations became, the same day, the luria pin (pull request 601), shared descriptions in marked sections (ADR-128), and holds that lift (ADR-132). Two the owner found too broad ("2 should be narrower"; a skepticism "might be just a response to the word 'any'"), and the retrospective restated them narrower rather than filing them.
+
+A retrospective's recommendation, the owner's ruling inline, and a decision with its first application followed one another within the day. In this draft's reading, that is the shortest loop on the record's process the history shows; the record itself states no such comparison.
 
 **The cycle.**
 
@@ -71,9 +81,9 @@ What moved is mostly definitional. The 53 leads that moved to `specified` were t
 
 ### 14.5 A correction that did not propagate
 
-POSTMORTEM-002 (now RETRO-004) in its first version called the missing converse fields a defect. On reading luria's code, the filer found that luria computes converses by design, and corrected the body the same day. The frontmatter summary was not corrected. It still says the converses "are declared but never written", and the generated postmortem index carries that sentence.
+POSTMORTEM-002 (now RETRO-004) in its first version called the missing converse fields a defect. On reading luria's code, the filer found that luria computes converses by design, and corrected the body the same day. The frontmatter summary was not corrected. It said the converses "are declared but never written", and the generated postmortem index carried that sentence until the owner had it corrected on 2026-11-21 (RETRO-004, version 3).
 
-A correction to an authored text did not reach the compressed representation derived from it. When the review became RETRO-004, the stale summary was carried over unchanged. The record now holds this as the case of a general point about anchoring: an exact copy is anchored to the version it was taken from, so it keeps what a revision of its source removed (CLAIM-tmp0kqq4, Proposed; §5.3). All three reviews, now RETRO-002 to RETRO-004, are Drafts.
+A correction to an authored text did not reach the compressed representation derived from it. When the review became RETRO-004, the stale summary was carried over unchanged. The record now holds this as the case of a general point about anchoring: an exact copy is anchored to the version it was taken from, so it keeps what a revision of its source removed (CLAIM-789, Proposed; §5.3). RETRO-006 names this paper's refreshes as the same hazard: each was a hand-copied update of a derived text, and one carried RETRO-004's stale summary forward until a reader noticed. The analytics pipeline answers part of it for this paper's figures (§12.1); it does not answer it for prose. All three reviews, now RETRO-002 to RETRO-004, are Drafts.
 
 ### 14.6 The fourth loop: changing the tool
 
@@ -87,6 +97,20 @@ Problems found in this record changed luria itself. The record's changelog and d
 - #384 (lint time on this record cut from 614 s to 145 s, luria 1.6.0);
 - #394.
 
-The record's luria pin moved from 0.31 to 1.10 in eight weeks. The design principles run the other way: all six were seeded from luria's, and their origin notes still say so.
+The record's luria pin moved from 0.31 to 1.10 in eight weeks, and to 1.11.0 on 21 November, whose `luria new` refuses a code in a title, the upstream answer (dmarx/luria#403) to a failure this record met four times (pull request 601).
+
+The same loop runs on the record's own intake tools. On 21 November the owner asked why an exchange's assistant turns had fallen from 96 to 43 between two counts. The decoder of shared exchanges (`scratch/tools/chatgpt_share.py`) had dropped visible turns' code and code output, and left reasoning summaries and hidden drafts out without a count. It now keeps all assistant content as labelled blocks and counts what it leaves out, so that on that share every one of 292 assistant and 95 tool messages is in the file or in the closing count (pull request 608; curation entry of 2026-11-21, 18:01). The design principles run the other way: all six were seeded from luria's, and their origin notes still say so.
 
 This is the outermost loop the record shows. A difficulty in the inner loop becomes a grammar change, a grammar change that the tool cannot express becomes a change to the tool, and the tool's changes return as new grammar.
+
+### 14.7 The owner's review point (added 2026-11-21)
+
+On 21 November the place where the owner reviews moved, and was itself governed by decisions:
+
+- **Staging.** Work merges into `staging` through pull requests, and staging is promoted into `main` by a workflow, nightly or on demand, or by the owner (ADR-116, Proposed but applied). Temporary codes stay temporary until the promotion concretizes a batch at once.
+- **Merges into staging.** While the dialectic regime is on, the assistant merges its own pull requests into staging when they are green (ADR-121). The owner chose this reading over a wider one, any pull request into staging (ADR-119, Rejected): other sessions' work still waits for the owner.
+- **The promotion pull request.** A workflow opens one whenever staging's content differs from main's (ADR-125), chosen over the assistant keeping it by convention (ADR-117, Rejected). The owner rules inline in its description, and its sections are kept by named writers, each edit reading the text just before writing (ADR-128), after one writer's rebuild dropped the list of choices waiting on the owner.
+- **Holds.** When a hold the owner set lifts, the assistant names the step it held and takes it, unless the step waits on the owner anyway (ADR-132).
+- **The dialectic regime.** While it is on, the assistant files the argument of the exchange without offering first, reports every filing, and reverts on the owner's word; status changes, decisions, configuration, CI and merges into main still wait (ADR-127). Its state belongs to the conversation, not to the machine running it (version 3).
+
+Read through §9.5, these decisions move the owner's review from every pull request to one point per batch, and replace a handoff before each filing with a report after it. The census codes all of them as process, not grammar. What they change is who must act before a change lands, which is P7's and P10's question: whether the owner's judgment is still exercised where it matters, now that it is exercised less often (§17.1).

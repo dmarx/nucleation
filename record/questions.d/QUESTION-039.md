@@ -28,6 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-279 — Proposed; partial answers filed in the last two days, cited with their limits -->
+<!-- inactive-ok-file: THEORY-tmpr9w2r — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
 # QUESTION-039: What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?
 
@@ -134,3 +135,13 @@ decides whether compositional generalization appears at all. He and
 colleagues ([THEORY-2092](../theory.d/THEORY-2092.md)): grokking unfolds as saturation, then bridge
 recovery, then integration of facts. Driscoll and colleagues
 ([THEORY-2090](../theory.d/THEORY-2090.md)): slow acquisition of motifs, then fast recombination.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+Bears on whether acquisition is one kind of event ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md),
+[THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)). The stages include acquisitions (bigrams, n-grams,
+induction heads, in-context learning), groundwork laid before any visible
+change (§6.2), and simplifications in which the estimated coefficient falls
+(LM3, LR3, LR4; [QUESTION-tmphkb1w](QUESTION-tmphkb1w.md)). So "acquisition" in this paper is
+several kinds of event, timed by one scalar. Written as `bears_on` from the
+reading.

@@ -44,6 +44,9 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim whose second half is the collective arm, cited as open -->
+<!-- inactive-ok-file: CLAIM-841 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws", Proposed -->
+
+<!-- inactive-ok-file: THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
 
 # CLAIM-626: Critical slowing has no single organizational meaning: when a collective mode slows, reduction to it improves; when the mode that restores a collective relation slows, as two detuned phase oscillators near the edge of locking, the reduction fails while the locked state still exists; when the maintenance of the coupling slows, the reduction stays good while the organization nears its fold
 
@@ -98,3 +101,36 @@ export, so that definition (presumably A20 §1) is missing.
 - That the maintenance arm holds without its caveats: [CLAIM-521](CLAIM-521.md)'s
   dissociation is built in when coupling does not feed maintenance, and in
   a finite system the coupling is lost at escape, before the fold.
+
+## Note of 2026-11-21: the exchange "Rich Get Richer Power Laws"
+
+The exchange adds a source of slow large-scale modes that involves no
+transition at all, so the kinds of slowing above are not exhaustive (as
+"What it does not say" already allows). A24 §7: a conserved density obeys
+∂ρ/∂t + ∇·J = 0, and with J = −D∇ρ a mode of wavenumber k relaxes at rate
+Dk², which goes to zero as k → 0. "Not all slow, large-scale fluctuations
+are evidence of proximity to criticality. Some exist because conservation
+laws forbid their rapid disappearance." The transverse velocity of a flock
+is slow for a third reason, a broken continuous symmetry ([THEORY-1085](../theory.d/THEORY-1085.md)).
+
+So an observed slow mode has at least two further readings beside the
+three this claim separates: a conserved quantity spreading, and a
+symmetry-protected soft mode. Neither signals a fold, which is what
+[THEORY-1315](../theory.d/THEORY-1315.md)'s slowing warns of. A12 §6 gives the critical form,
+τ ∝ ξ^z, with A's caveat that "not every transition exhibits
+conventional critical slowing down"; slowing at a fold, [THEORY-1315](../theory.d/THEORY-1315.md)'s
+case, is one eigenvalue going to zero and needs no diverging length.
+[CLAIM-841](CLAIM-841.md) files the general point, that a scale-free or slow
+signature does not by itself indicate a tuned transition. A24 §7 adds
+that conservation also changes a critical point's dynamic universality
+class (Hohenberg and Halperin's classification, named and not held).
+
+## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
+
+A parallel ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md), [THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)). In a branching network read
+out over a finite window, critical slowing is the loss term: slowed
+population fluctuations outlast the readout's window and blur the
+discrimination of inputs, so the optimum sits below the transition. One
+more organizational meaning of slowing, in which it neither helps nor
+breaks a reduction but costs a finite-time observer confidence. No
+relation is written.

@@ -35,7 +35,9 @@ summary: >-
   not say that the material learns: only the linear readout is trained.
 bears_on:
 - QUESTION-388
+- QUESTION-507
 ---
+<!-- inactive-ok-file: THEORY-2158 — Proposed; the reading of 2026-11-21 cited in the dated note -->
 
 # THEORY-1431: A multistable origami metamaterial driven by a fixed sequence of tension and compression can serve as the reservoir of a reservoir computer: a trained linear readout of its sequence of stable configurations classifies inputs better than the same readout of the raw inputs, and a retained buffer of cells carries input history
 
@@ -61,3 +63,13 @@ Liu, Fang, Xu and Wang (2023), [LIT-2026](../literature.d/LIT-2026.md); read in 
 - That the advantage over raw inputs, or the memory result, has been shown
   in hardware.
 - That the gain is large: three points on reduced MNIST.
+
+## Note of 2026-11-21: Dambre, Verstraeten, Schrauwen and Massar, read
+
+A **parallel**, no edge. Dambre and colleagues' capacity measure
+([LIT-2971](../literature.d/LIT-2971.md), read in [NOTE-2244](../notes.d/NOTE-2244.md); [THEORY-2158](THEORY-2158.md)) applies to any driven
+system with a linear readout, this origami reservoir included: for i.i.d.
+input its capacities would sum to at most the number of observed variables,
+and to that number if it has fading memory. The record holds no capacity
+figure for it, so the measure would say how its fixed total is divided
+between memory and nonlinearity, not whether it computes more.

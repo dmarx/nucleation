@@ -25,7 +25,7 @@ date: '2026-10-12'
 line:
 - records-of-inquiry
 works:
-- luria-nucleating-an-argument
+- from-obstruction-to-reorganization
 complements:
 - CLAIM-189
 - CLAIM-295

@@ -6,8 +6,8 @@
 
 **Evidence for experience** — what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish.
 
-1 of 124 ARG documents. Back to the [full index](../README.md).
+1 of 154 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [ARG-018](../../../record/arguments.d/ARG-018.md) v2 | Illusions, reappraisal and interoceptive inference show that experience is constituted by interpretive organization | The owner's examples at U2 of the exchange of 2026-10-21, the rubber hand illusion and CBT, with interoceptive inference added by the record, offered as evidence that experience is constituted by interpretive organization. They are what a production account predicts too. A7's verdict, which [CLAIM-412](../../../record/claims.d/CLAIM-412.md) adopted: "These motivate interpretive construction. They do not, individually or collectively, prove interpretive constitution." | Rejected |
+| [ARG-018](../../../record/arguments.d/ARG-018.md) v3 | Illusions, reappraisal and interoceptive inference show that experience is constituted by interpretive organization | The owner's examples at U2 of the exchange of 2026-10-21, the rubber hand illusion and CBT, with interoceptive inference added by the record, offered as evidence that experience is constituted by interpretive organization. They are what a production account predicts too. A7's verdict, which [CLAIM-412](../../../record/claims.d/CLAIM-412.md) adopted: "These motivate interpretive construction. They do not, individually or collectively, prove interpretive constitution." Standing of the conclusion apart from this route: CLAIM-412, Proposed, holds it, open, and none of the readings the record holds either supports the identity or shows it false. | Rejected |

@@ -6,7 +6,7 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-10 of 205 LEAD documents. Back to the [full index](../README.md).
+11 of 211 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -20,3 +20,4 @@
 | [LEAD-164](../../../record/leads.d/LEAD-164.md) | Find a held case that checks a measured correspondence against evidence the measurement did not itself produce | Named in [CLAIM-510](../../../record/claims.d/CLAIM-510.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-174](../../../record/leads.d/LEAD-174.md) | Estimate per-step kernels from several independent retellers per generation on held-out and perturbed inputs, in a metric fixed beforehand, and predict end-to-end drift | Named in [CLAIM-208](../../../record/claims.d/CLAIM-208.md) and [CLAIM-059](../../../record/claims.d/CLAIM-059.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-193](../../../record/leads.d/LEAD-193.md) | Run the study of investigators starting from an equilibrium-only schema on a synthetic oscillatory system, with three regimes on the same benchmarks | Named in [CLAIM-470](../../../record/claims.d/CLAIM-470.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-206](../../../record/leads.d/LEAD-206.md) | Have a human second coder recode the decision census's random sample of 30 decisions against its fixed codebook, and report agreement with the first coding field by field, to test whether the census's reliability survives a coder who is not an instance of the same model | At the owner's ruling of 2026-11-21 on the promotion pull request ("file that as a lead"). Every coder of the decision census ([CASE-300](../../../record/cases.d/CASE-300.md)) was an instance of one model, so its agreement figures (Cohen's kappa 0.81 to 1.00 on the fields used) may measure shared framing rather than reliability. A human recodes the same seeded sample of 30 decisions against the same codebook, blind to the first coding, and agreement is reported per field against both earlier coders. | Open |

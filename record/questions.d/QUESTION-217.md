@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp8qovh
 title: 'When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -42,6 +42,16 @@ history:
     question's two"; the question separates three orders (refinement,
     relevance, acquisition), so the term adds a fourth. Corrected in
     place. No other change.
+- version: 6
+  date: '2026-11-21'
+  note: >-
+    Note of 2026-11-21 added, from the exchange "Rich Get Richer Power
+    Laws" (A29 §10, A33, A35): first entry into nested entailment cones
+    is a refinement order by construction and cannot stand for the
+    acquisition order (CLAIM-800); and a hypothesis that coarse
+    distinctions settle early in a hierarchy of relaxation times. The
+    owner's U21 is filed as QUESTION-512, which refines this one. The
+    question is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -60,9 +70,13 @@ summary: >-
 refines:
 - QUESTION-039
 ---
+<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-800 THEORY-1558 — new or Proposed; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, and a reading named for comparison -->
+<!-- inactive-ok-file: THEORY-tmpr9w2r — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 # QUESTION-217: When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?
 
 ## Why it is a question
@@ -204,3 +218,46 @@ It adds a fourth order to the question's three: the order in which the space of 
 
 ## Note of 2026-11-19: Chen and colleagues, read
 A qualification by analogy ([NOTE-2165](../notes.d/NOTE-2165.md)): the order in which skills benefit training departs from the task's own dependency order ("the reasoning graph does not necessarily equal the skills graph").
+
+## Note of 2026-11-21: entailment cones, and a hierarchy of relaxation times
+
+The exchange "Rich Get Richer Power Laws" (2026-11-21) came to this question twice.
+
+- **Cones are a refinement order, not an acquisition order.** The owner asked at U21 whether entailment cones help reason about progressive learning ([QUESTION-512](QUESTION-512.md), which refines this question). A35 §5 warns that with C_fine ⊆ C_coarse, first entry into the coarse cone can never come after first entry into the fine one, so "that ordering is imposed by the geometry. It is not evidence that the network learned coarse concepts before fine concepts" ([CLAIM-800](../claims.d/CLAIM-800.md)). In this question's terms, cone first-entry times are a refinement order by construction; the acquisition order still needs a decoder's risk, as T_ℓ(δ) defines it. A35 §6 adds a signature that is not built in: with Y_coarse a function of Y_fine, the chain rule I(Z_t; Y_fine) = I(Z_t; Y_coarse) + I(Z_t; Y_fine | Y_coarse) separates the two levels' information over training, for Shannon information only ([THEORY-846](../theory.d/THEORY-846.md)).
+- **Relaxation times.** A29 §10 proposes, as a hypothesis, that in representation learning the interaction geometry co-evolves with the representation, so "coarse semantic distinctions becoming stable early, while increasingly fine distinctions continue reorganizing later in training", giving "a hierarchy of relaxation times", whose scale-freedom "is an empirical question". This is the acquisition order read as settling time, and [THEORY-1558](../theory.d/THEORY-1558.md)'s demarcation of levels by relaxation rate in another register. It is not filed separately: it adds a measurement (relaxation per level, [LEAD-210](../leads.d/LEAD-210.md)) and no answer.
+
+This answers none of the orders. No status change.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+Supports a coarse-to-fine progression in a single run, as an acquisition
+order ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)): in the two-layer language model
+the stages run bigrams, then n-grams with positional embedding, then
+previous-token heads, then induction heads, which the authors liken to
+Olsson et al.'s progression across depth (§8). Two qualifications bear on
+whether one chain holds. The groundwork for the induction circuit is laid
+in LM2, "in advance of any measurable change in model outputs or attention
+patterns" (§6.2), so the order of acquisition by behaviour and by
+structure can differ; and three stages lower the estimated coefficient,
+simplifications rather than acquisitions ([QUESTION-tmphkb1w](QUESTION-tmphkb1w.md)). Written as
+`bears_on` from the reading. No status change.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
+parallel from neuroscience.** In V1, "Successive PC dimensions encode finer
+stimulus features" (Extended Data Fig. 6), and a linear readout of such a
+code learns coarse features first, "at a speed proportional to the
+eigenvalues" (SI §2.4). It is coarse-to-fine in a fixed code read out by a
+learner, not in a network whose features change, so it leaves the question
+open. No relation.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **background,
+leaves it open, with one data point.** The training labels set a relevance
+order (coarse), yet the representation refines by input structure first:
+"The effect of input distribution emerges earlier in training, while the
+effect of labels appears at a later stage." That is a refinement order in
+distances running ahead of the supervised one; no acquisition order by a
+decoder's risk is measured over time. No relation.
