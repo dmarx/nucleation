@@ -249,14 +249,14 @@ Under [ADR-075](../decisions.d/ADR-075.md)'s admission test, the integration mus
 
 ## Note of 2026-11-22: the last clause, read two ways
 
-For LEAD-163, on CLAIM-615's admission slot. This claim's first defeater,
+For [LEAD-163](../leads.d/LEAD-163.md), on [CLAIM-615](CLAIM-615.md)'s admission slot. This claim's first defeater,
 a maintaining organization replaced by an unrelated one, meets the same
-question as CLAIM-615's admission case: whether a replacement that works
+question as [CLAIM-615](CLAIM-615.md)'s admission case: whether a replacement that works
 from what it finds in the system transmits the system's organization
-through it. Two readings are filed. CLAIM-tmp5koor reads "that
+through it. Two readings are filed. [CLAIM-tmp5koor](CLAIM-tmp5koor.md) reads "that
 organization may lie inside the individual or outside it" as about the
 processes that carry the organization, never the maintainer's own
-organization. CLAIM-tmp68okc keeps it as written, and counts an outside
+organization. [CLAIM-tmp68okc](CLAIM-tmp68okc.md) keeps it as written, and counts an outside
 maintainer's organization insofar as the individual does not carry it
 and a competent unrelated replacement would not supply it. On either,
 the outside controller of the admission case above breaks continuity

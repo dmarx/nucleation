@@ -41,15 +41,15 @@ A closed slot keeps [CLAIM-615](../claims.d/CLAIM-615.md); an open one defeats i
 
 ## Note of 2026-11-22: done in two readings
 
-The slot is which organization CLAIM-615's `defeated_if` means by "that
+The slot is which organization [CLAIM-615](../claims.d/CLAIM-615.md)'s `defeated_if` means by "that
 organization": the relations kept realizable, or the maintainer that keeps
-them. Filed: ARG-tmplptzc, the step both readings share (restoration from
-the thing is transmission through it, by analogy with CLAIM-329), which
+them. Filed: [ARG-tmplptzc](../arguments.d/ARG-tmplptzc.md), the step both readings share (restoration from
+the thing is transmission through it, by analogy with [CLAIM-329](../claims.d/CLAIM-329.md)), which
 makes the car that changes garages a continuation; and two alternatives
-for organization held only by a maintainer, CLAIM-tmp5koor (a channel,
-never what is transmitted) and CLAIM-tmp68okc (transmitted insofar as the
+for organization held only by a maintainer, [CLAIM-tmp5koor](../claims.d/CLAIM-tmp5koor.md) (a channel,
+never what is transmitted) and [CLAIM-tmp68okc](../claims.d/CLAIM-tmp68okc.md) (transmitted insofar as the
 individual does not carry it and a competent replacement would not supply
 it; the assistant's lean). The slot is closed on either. What remains for
-the owner: choosing a reading, and whether CLAIM-615's admission section
+the owner: choosing a reading, and whether [CLAIM-615](../claims.d/CLAIM-615.md)'s admission section
 takes the stipulated replica case in place of the garage, as its note of
 this date proposes.
