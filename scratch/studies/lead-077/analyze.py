@@ -36,7 +36,7 @@ for r in rows:
     if r['arm'] not in arms:
         arms.append(r['arm'])
 best_lines = ['', '## Each method at its best pre-reversal temperature', '',
-              '| arm | pair | tau G | tau R | G post | R post | G wins | p |', '|---|---|---|---|---|---|---|---|']
+              '| arm | pair | tau G | tau R | G pre | R pre | G post | R post | G wins post | p |', '|---|---|---|---|---|---|---|---|---|---|']
 for arm in arms:
     ar = [r for r in rows if r['arm'] == arm]
     taus = sorted({r['tau'] for r in ar})
@@ -53,17 +53,20 @@ for arm in arms:
             rt = sorted([r for r in ar if r['tau'] == t], key=lambda r: r['seed'])
             d = np.array([r[g]['post'] - r[ro]['post'] for r in rt])
             w = int(np.sum(d < 0))
-            out.append(f'- tau {t}: {g} vs {ro}: {g} wins {w}/{len(d)}, mean diff {d.mean():+.4f} '
+            dp = np.array([r[g]['pre'] - r[ro]['pre'] for r in rt])
+            out.append(f'- tau {t}: {g} vs {ro}: pre-reversal diff {dp.mean():+.4f} (G wins {int(np.sum(dp < 0))}); post: {g} wins {w}/{len(d)}, mean diff {d.mean():+.4f} '
                        f'(sd {d.std(ddof=1) if len(d) > 1 else 0:.4f}), sign p = {sign_p(w, len(d)):.3g}')
         # best pre-reversal tau per method
         pre = lambda m, t: np.mean([r[m]['pre'] for r in ar if r['tau'] == t])
         tg = min(taus, key=lambda t: pre(g, t)); tr = min(taus, key=lambda t: pre(ro, t))
         G = {r['seed']: r[g]['post'] for r in ar if r['tau'] == tg}
         Rr = {r['seed']: r[ro]['post'] for r in ar if r['tau'] == tr}
+        Gp = {r['seed']: r[g]['pre'] for r in ar if r['tau'] == tg}
+        Rp = {r['seed']: r[ro]['pre'] for r in ar if r['tau'] == tr}
         seeds = sorted(set(G) & set(Rr))
         d = np.array([G[s] - Rr[s] for s in seeds])
         w = int(np.sum(d < 0))
-        best_lines.append(f'| {arm} | {g} vs {ro} | {tg} | {tr} | {np.mean([G[s] for s in seeds]):.4f} | '
+        best_lines.append(f'| {arm} | {g} vs {ro} | {tg} | {tr} | {np.mean([Gp[s] for s in seeds]):.4f} | {np.mean([Rp[s] for s in seeds]):.4f} | {np.mean([G[s] for s in seeds]):.4f} | '
                           f'{np.mean([Rr[s] for s in seeds]):.4f} | {w}/{len(d)} | {sign_p(w, len(d)):.3g} |')
     out.append('')
 open(os.path.join(HERE, 'results', 'summary.md'), 'w').write('\n'.join(out + best_lines) + '\n')
