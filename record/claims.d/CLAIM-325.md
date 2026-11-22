@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CLAIM-tmpxrlyo
 title: 'The behavioural data the record has read show no contextuality proper: none of the five kinds of data Dzhafarov, Zhang and Kujala re-analyse is contextual, Wang et al. test none of their 90 language systems for it, and no documented test of pragmatic or meaning judgements finds it at adequate power'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note records LEAD-182's search of 2026-11-22 (nothing meets the
+    defeat condition) and what "at adequate power, with its signalling
+    accounted for" costs (CASE-tmpjp6vg). The claim is unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -35,6 +42,7 @@ summary: >-
   absence is [LIT-264](../literature.d/LIT-264.md)'s working hypothesis, not a proof that such data
   cannot exist.
 ---
+<!-- inactive-ok-file: CASE-tmpjp6vg CASE-tmpl2va4 LIT-tmpj8zjs THEORY-tmpdcw35 CLAIM-tmpalxab CLAIM-tmpu482h — new; filed by LEAD-182 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; the headline and its narrowing this premise bears on, open -->
 
 # CLAIM-325: The behavioural data the record has read show no contextuality proper: none of the five kinds of data Dzhafarov, Zhang and Kujala re-analyse is contextual, Wang et al. test none of their 90 language systems for it, and no documented test of pragmatic or meaning judgements finds it at adequate power
@@ -78,3 +86,24 @@ no-signalling forced by the response format.
 - That a contextual result would settle the matter by itself. How much
   contextuality a data set shows depends on how its outcomes are coded
   ([CLAIM-245](CLAIM-245.md)), so the coding has to be fixed in advance.
+
+## Note of 2026-11-22: the search updated, and what adequate power takes
+
+[LEAD-182](../leads.d/LEAD-182.md) searched Europe PMC and arXiv for tests since [CASE-053](../cases.d/CASE-053.md) and found
+none on pragmatic or meaning judgements. The one new CbD test on
+elicited judgements, Bruza, Lee and Hoyte (2025, [LIT-tmpj8zjs](../literature.d/LIT-tmpj8zjs.md)), is on
+face perception, unread, and would not meet this claim's condition,
+which excludes content that is not pragmatic. The reading of Lo,
+Sadrzadeh and Mansfield ([THEORY-tmpdcw35](../theory.d/THEORY-tmpdcw35.md)) is evidence for the claim as
+it stands: their violation is about one standard deviation, and their
+format never elicits the marginals a CbD correction discounts.
+
+The defeat condition's "adequate power, with its signalling accounted
+for" now has numbers ([CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md), [CLAIM-tmpalxab](CLAIM-tmpalxab.md)): power has to be
+computed with the signalling estimated, and a violation of 0.19 then
+needs 1,600 to over 4,000 respondents a context. A design that could
+meet the condition is [CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md). Two cautions for reading a future
+result against it: pooled counterbalancing cells can produce
+contextuality no cell has ([CLAIM-tmpu482h](CLAIM-tmpu482h.md)), and a "noncontextual"
+verdict from a plug-in estimate at a modest sample size is not evidence
+of absence.
