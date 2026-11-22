@@ -14,11 +14,15 @@
 - witnesses.py: constructions for every PDMA configuration the entailments
   allow (VAR(1), VAR(2), and eps > 0 leaks); first run shows each lands in
   its intended cell.
+- run.py, test_fivecond.py (94 pass), results.json/.md, README.md.
+  Result: entailments E1 D=>M (VAR(1) only), E2 P&D&M=>A (all), E3 A=>P
+  (eps = 0) are the only ones: every other configuration has a witness, and
+  3,000 random sparse models per class hit no forbidden cell.
+  Leave-one-out at eps = 0: VAR(1) P no, D yes, M no, A no, C yes;
+  VAR(2) M yes. At eps = 0.01 P becomes realizable.
 
 ## Next
 
-- Declare the regime; write the computation (defects for P, D, M, A, C).
-- Witnesses for every realizable configuration; proofs for the rest.
 - File CASE, CLAIM, notes, changelog.
 
 ## Choices made
