@@ -154,3 +154,8 @@ call. No status changes.
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after [CLAIM-551](CLAIM-551.md) went Active (2026-11-06) and after the [ADR-070](../decisions.d/ADR-070.md) sweep ([ARG-036](../arguments.d/ARG-036.md), [CASE-153](../cases.d/CASE-153.md), [TERM-053](../terms.d/TERM-053.md); 2026-11-04). [CLAIM-551](CLAIM-551.md)'s prediction tells two organizational readings of cognitive dysregulation apart, for one phenomenon. It does not set the shared organizational variables against phenomenon-specific or central-executive models with flexibility penalized, which the defeated_if and [QUESTION-088](../questions.d/QUESTION-088.md)'s test still need.
+
+## Note of 2026-11-22: what holds it back
+
+<!-- inactive-ok-block: CASE-tmp66fkd CLAIM-tmpc4gyx CLAIM-336 — new or Proposed; LEAD-029's study and its finding, and the unification it tests -->
+Rechecked after LEAD-029's run (CASE-tmp66fkd, CLAIM-tmpc4gyx). In a simulated organization whose operators' authority is scored against the interpretation they help make dominant, a model with that loop predicted the effects of held-out compositions of governance interventions and frame changes better than models of matched flexibility whose authority is set only from outside, the nearest the construction has to a central executive; with no loop it gained nothing and its BIC was the worse. That bears on CLAIM-336's joint test, not on this claim's: the construction has operators, frames and interventions but no habit, akrasia, rumination, rigidity or insight, and no model built for any of them. The defeated_if and QUESTION-088's test are still unanswered. No status change.
