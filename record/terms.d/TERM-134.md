@@ -80,3 +80,18 @@ convention, a reviewer's habit).
   which two objects are equivalent. An entry's predicates are one entry's
   tests, accrued over its life, and they say what versions of it are
   allowed, not when two things count as the same.
+
+## Note of 2026-11-22: Freeman and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmp1mruk — Proposed; filed for LEAD-tmp3xevc -->
+
+Freeman and Pfenning's refinement types ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md); [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md)) have a
+descriptor and lack an imposition. An annotation is accepted only when the
+term already has a refinement below it (RESTRICT, p. 8), and nothing moves
+the term: an annotation accepted is a descriptor in this term's sense. The
+refinements available are a finite lattice the programmer declares in
+advance; what the declarations lack cannot be said of a term, and is added
+by a new declaration. That parallels the closed tag vocabulary above, kept
+a matter of descriptors by adding words by decision. The paper's motive is
+the same walk from prose to mechanism: "the programmer is encouraged to
+make explicit the distinctions which currently must remain implicit or
+informal in code comments" (p. 2). Parallels only; the definition stands.
