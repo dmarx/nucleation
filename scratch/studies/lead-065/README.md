@@ -55,4 +55,17 @@ core's members by original index and the sorted W_out profile.
 
 ## Result
 
-See `results/summary.md` and the CASE filed for LEAD-065.
+Results are for 12 seeds, 10⁶ steps after the intervention. The tables
+are in `results/summary.md`, and the case is CASE-tmpvn7wm (with
+CLAIM-tmpf11gs).
+
+- **Reproduction.** The snapshot core is 15.6 ± 1.2 units. There are
+  1.6 ± 2.6 periphery-to-core links (paper: 2), and 532 ± 24
+  core-to-periphery links (paper: 792).
+- **remove_core.** In 12 of 12 seeds, former periphery units form a new
+  core of 17.2 ± 0.8 units. The same-sized remove_periph control has one
+  of 17.0 ± 1.1. The one-way structure is kept.
+- **remove_half_core.** 8.8 ± 0.8 periphery units join the 8.5
+  survivors.
+- **suppress_core.** The old core regains the role, and its members are
+  0.92 ± 0.07 of the core.

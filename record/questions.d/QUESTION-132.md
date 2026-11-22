@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp0885h
 title: 'Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -25,6 +25,12 @@ history:
     invasion graph is acyclic (THEORY-1168); Ito and Kaneko a
     candidate case, not evidence; Chesson 1990 Unfetched and 1994
     Unavailable. The question is unchanged.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-065 run; Ito and Kaneko's core is
+    refilled when removed and recovered when made rare (CASE-tmpvn7wm,
+    CLAIM-tmpf11gs). The question is unchanged.
 tags:
 - complex-systems
 - ecology
@@ -46,6 +52,7 @@ summary: >-
   coexistence and exclusion. Heterogeneous embeddings, unequal routing
   weights or persistent expert identities do not answer it.
 ---
+<!-- inactive-ok-file: CASE-tmpvn7wm CLAIM-tmpf11gs — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; Chesson's stabilizing mechanisms, cited as the source of the first outcome's name, not reached, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1826 LIT-1827 — Unfetched and Unavailable since 2026-10-29; Chesson 1990 and 1994, cited in the note of that date as not read, nothing here rests on them -->
@@ -276,3 +283,24 @@ No status changes.
 
 ## Note of 2026-11-19: Hessel, Tan and Lee, read
 An analogy only ([NOTE-2164](../notes.d/NOTE-2164.md)): Hessel, Tan and Lee's "complementary rather than competitive" spinoffs concern individual users' short-term activity, not recovery when rare or coexistence in the ecological sense.
+
+## Note of 2026-11-22: the candidate case tested
+
+The note of 2026-10-29 left Ito and Kaneko (LIT-1842) as a candidate
+case and named a cheap test, which LEAD-065 has now run (CASE-tmpvn7wm,
+12 seeds at the paper's parameter point).
+
+- Delete the whole core, and former periphery units form a new one of
+  the same size, 17.2 ± 0.8 against 17.0 ± 1.1 in a same-sized control.
+  The new core has the same one-way structure.
+- Cut the core's influence to 10⁻³, with no further intervention, and its
+  own members regain it.
+
+So the asymmetry is not held by its first holders' early advantage.
+CLAIM-tmpf11gs files two readings for the owner. In one, this is the first
+outcome at the level of roles. In the other, it is a fourth outcome the
+question does not name: a differentiation that regenerates around
+interchangeable holders, with no niche for any particular specialist. The
+recovery of a periphery unit made rare was not tested.
+
+The question is unchanged and stays Open.

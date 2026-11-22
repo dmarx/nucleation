@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpgfyls
 title: 'Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-25'
@@ -41,6 +41,11 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 7
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: Ito and Kaneko's core, removed, is refilled
+    from the periphery (CASE-tmpvn7wm). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -75,6 +80,7 @@ summary: >-
 bears_on:
 - QUESTION-083
 ---
+<!-- inactive-ok-file: CASE-tmpvn7wm — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-142 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -216,3 +222,15 @@ Active, no objection is filed, and nothing meets its defeated_if.
 relativity, observed, and now corroborates it. The niche-emergence test
 it disclaims ([QUESTION-083](../questions.d/QUESTION-083.md)) is still unrun; the claim does not depend on
 it.
+
+## Note of 2026-11-22: a role refilled by other units
+
+NOTE-1414 offered Ito and Kaneko's core and periphery as a small case for
+this claim. It added that "the regime does not dissolve once formed,
+which the claim's word 'regime' may not intend." CASE-tmpvn7wm tested
+this by removing the core. Former periphery units fall into the core role
+and re-form it at its size and structure, so the role is a regime units
+fall into, not a kind of unit. This is one model at one parameter point,
+and the case illustrates the claim without grounding it.
+
+The claim is unchanged.
