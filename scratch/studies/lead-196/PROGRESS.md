@@ -51,8 +51,21 @@ QUESTION-083, CASE-118, LEAD-196; curation entry; changelog fragment.
   (B) not settled until 1990 is read, whose "measures of association" may
   differ. Lean A, file both.
 
+## Filed (all pushed)
+
+- LIT-tmp7sngn (Chesson 2011, Active), NOTE-tmp6d961 (Read),
+  THEORY-tmpac7iw, CLAIM-tmpv65bg, ARG-tmpyjmij (all Proposed).
+- LIT-1826 v2 (still Unfetched; status note, history, Standing).
+- Dated notes: LIT-1827, CASE-118 (+draws_on), CLAIM-369, QUESTION-132,
+  QUESTION-083, CLAIM-279, LEAD-196.
+- Curation entry record/curation.d/2026/11/22/235643.md; changelog
+  record/changelog.d/lead-196.md.
+- Narrow ref_status scan of the changed files: no unused excuses, no
+  unexcused new citations.
+
 ## Next
 
-- File LIT (2011), NOTE, THEORY, CLAIM; edit LIT-1826 status note; dated
-  notes on CLAIM-369, QUESTION-132, QUESTION-083, CASE-118, LIT-1827,
-  LEAD-196; curation entry; changelog.
+- Report to the lead. Remaining for the owner: allow web.archive.org (or
+  supply a copy) to read Chesson 1990; a copy of Chesson 1994; choose
+  between the alternatives on CASE-118 and QUESTION-083; the two ideas
+  offered in the curation entry; lead status.
