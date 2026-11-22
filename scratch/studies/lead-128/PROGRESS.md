@@ -62,3 +62,16 @@ noted on the lead as the complementary (payoff) half.
 - Find a concrete lawfully-open effort-discounting dataset (OSF/GitHub).
 - Fit EVC effort-cost model with numpy/scipy; compare to no-cost model;
   show chosen control intensity vs. cost. File as CASE + Proposed CLAIM.
+
+## Dataset located (step)
+
+OSF project vnj8x "Cognitive and Affective Discounting", CC-BY 4.0, public.
+Source article: Scheffel et al., "Need for Cognition is associated with a
+preference for higher task load in effort discounting", Sci Rep 2023,
+PMC10636210, CC BY. COG-ED-style paradigm, 4 n-back levels (1-4), pairwise
+staircase titration of monetary offers. Per-participant files `*_ED.csv`
+(effort-discounting choices), `*_nback.csv`, `*_1vs1.csv`, `*_randomchoice.csv`.
+Downloads to scratchpad lead-128/osf_raw (NOT committed).
+
+Next: read methods / OSF R script to get SV definition and titration
+direction right, then fit softmax EVC cost model + model comparison.
