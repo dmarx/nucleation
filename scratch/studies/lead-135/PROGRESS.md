@@ -40,7 +40,13 @@ D2={001}, one-flip path). Controls per CASE-202: reset vs acted-on copy
   path_L family: stabilization budget = L for L=2..5 (measured, not fixed).
   identical-pair control never distinguishes. 14 pytest tests pass.
 
-## Next
+- (step 3) Filed: CASE-tmpxkvpz (executed-study, Proposed, documented;
+  variant_of CASE-202, illustrates CLAIM-583, bears_on QUESTION-382);
+  CLAIM-tmpco6u9 (finding, Proposed, thesis, demonstrated; corroborates
+  CLAIM-583 + CLAIM-574, grounds CASE-tmpxkvpz, bears_on QUESTION-382, uses
+  TERM-114); changelog fragment record/changelog.d/lead-135.md; dated note on
+  LEAD-135 (status/stage unchanged). Pre-commit checks (yaml, no code in
+  title, H1==title) pass.
 
-- File: CASE (executed-study, Proposed, variant_of CASE-202) + CLAIM
-  (finding, Proposed) + changelog fragment + dated note on LEAD-135.
+## Done — all steps complete. Awaiting owner: adopt the Proposed CASE/CLAIM;
+## mark the lead; whether to add a destructive-probe control (left as a choice).
