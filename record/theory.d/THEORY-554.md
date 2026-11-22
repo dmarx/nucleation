@@ -134,7 +134,7 @@ neither.
 
 ## Note of 2026-11-22: Metzinger, read
 
-**Consonant, no edge** ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger expects that
+**Consonant, no edge** ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-2312](../notes.d/NOTE-2312.md)). Metzinger expects that
 the number of self-conscious machines "may also exceed the overall number
 of humans by far" (p. 44), the premise that lets AI interests outweigh
 human ones here. He argues from it to prevention, a moratorium until 2050,

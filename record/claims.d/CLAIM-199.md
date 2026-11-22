@@ -92,7 +92,7 @@ bears_on:
 - QUESTION-016
 - QUESTION-110
 ---
-<!-- inactive-ok-file: CLAIM-tmp03h8w TERM-tmpjv1xh — new, filed by LEAD-100 on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-944 TERM-150 — new, filed by LEAD-100 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
 <!-- inactive-ok-file: CLAIM-076 — Proposed; the blind-captioner design, cited as open -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the manuscript's thesis, cited as it stood -->
@@ -282,8 +282,8 @@ general converse, which stays Proposed, is not used. Quotations of
 ## Note of 2026-11-22: an order for usable information, with results
 
 "What it does not say" includes "It does not supply an order for usable
-information with results of its own." [LEAD-100](../leads.d/LEAD-100.md) filed one: [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md),
-with results in [CLAIM-tmp03h8w](CLAIM-tmp03h8w.md) (Proposed), which complements this claim.
+information with results of its own." [LEAD-100](../leads.d/LEAD-100.md) filed one: [TERM-150](../terms.d/TERM-150.md),
+with results in [CLAIM-944](CLAIM-944.md) (Proposed), which complements this claim.
 Its result 4 is this claim's ceiling, and its result 3 makes exact the
 gloss that garblings help a receiver "only when they do work the receiver
 cannot": some source gains from a garbling G exactly when the receiver's

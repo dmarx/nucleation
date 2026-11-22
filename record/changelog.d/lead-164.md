@@ -5,6 +5,6 @@
 
 ### Changed
 
-- [CLAIM-510](record/claims.d/CLAIM-510.md): dated note naming three candidate cases (CASE-tmp33vf4, pending [#740](https://github.com/dmarx/nucleation/issues/740); [CASE-tmp69rk8](record/cases.d/CASE-tmp69rk8.md); [CASE-tmp17zl1](record/cases.d/CASE-tmp17zl1.md)) under three readings of its condition; no status change.
+- [CLAIM-510](record/claims.d/CLAIM-510.md): dated note naming three candidate cases ([CASE-tmp33vf4](record/cases.d/CASE-tmp33vf4.md), pending [#740](https://github.com/dmarx/nucleation/issues/740); [CASE-333](record/cases.d/CASE-333.md); [CASE-tmp17zl1](record/cases.d/CASE-tmp17zl1.md)) under three readings of its condition; no status change.
 - [CLAIM-471](record/claims.d/CLAIM-471.md): dated note on the case for the clause version 5 dropped; no status change.
 - [LEAD-164](record/leads.d/LEAD-164.md): dated note saying what was done and what remains; stage unchanged.

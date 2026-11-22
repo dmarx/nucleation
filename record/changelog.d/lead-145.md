@@ -1,14 +1,14 @@
-<!-- inactive-ok-file: THEORY-tmpttshe THEORY-tmpgf28l — Proposed accounts filed in this contribution (LEAD-145) -->
+<!-- inactive-ok-file: THEORY-2261 THEORY-2263 — Proposed accounts filed in this contribution (LEAD-145) -->
 
 ### Added
 
 - [LEAD-145](record/leads.d/LEAD-145.md) carried out: two openly posted standard treatments registered
   and read for the shared observe-and-act budget line. Dual control —
-  [LIT-tmpbta8p](record/literature.d/LIT-tmpbta8p.md) (Meijer and Rantzer, 2026), read in
-  [NOTE-tmpk22nd](record/notes.d/NOTE-tmpk22nd.md), with account [THEORY-tmpttshe](record/theory.d/THEORY-tmpttshe.md)
-  (Proposed). Value of information — [LIT-tmpkun97](record/literature.d/LIT-tmpkun97.md)
-  (Whitmeyer, 2024), read in [NOTE-tmp16xnt](record/notes.d/NOTE-tmp16xnt.md), with account
-  [THEORY-tmpgf28l](record/theory.d/THEORY-tmpgf28l.md) (Proposed). Both accounts bear on
+  [LIT-3129](record/literature.d/LIT-3129.md) (Meijer and Rantzer, 2026), read in
+  [NOTE-2352](record/notes.d/NOTE-2352.md), with account [THEORY-2261](record/theory.d/THEORY-2261.md)
+  (Proposed). Value of information — [LIT-3131](record/literature.d/LIT-3131.md)
+  (Whitmeyer, 2024), read in [NOTE-2354](record/notes.d/NOTE-2354.md), with account
+  [THEORY-2263](record/theory.d/THEORY-2263.md) (Proposed). Both accounts bear on
   [QUESTION-374](record/questions.d/QUESTION-374.md).
 
 ### Changed

@@ -21,7 +21,7 @@ history:
 - version: 5
   date: '2026-11-22'
   note: >-
-    A dated note added: Frischmann and Benesch (LIT-tmpjbd64) registered and read on 2026-11-22 for LEAD-152, NOTE-tmpyjyrt. No change of status or title.
+    A dated note added: Frischmann and Benesch (LIT-3136) registered and read on 2026-11-22 for LEAD-152, NOTE-2359. No change of status or title.
 tags:
 - design-rationale
 - epistemology
@@ -104,6 +104,6 @@ informatization review before new rules are digitized, are the institutional ana
 concern: automation of incorporation outrunning evaluation, and checks placed before it. Relation: bears_on.
 
 ## Note of 2026-11-22: Frischmann and Benesch, read
-<!-- inactive-ok-file: THEORY-tmp2j2zm — new of 2026-11-22, Proposed; the account filed from the reading for LEAD-152 -->
+<!-- inactive-ok-file: THEORY-2267 — new of 2026-11-22, Proposed; the account filed from the reading for LEAD-152 -->
 
-Frischmann and Benesch ([LIT-tmpjbd64](../literature.d/LIT-tmpjbd64.md), [NOTE-tmpyjyrt](../notes.d/NOTE-tmpyjyrt.md), [THEORY-tmp2j2zm](../theory.d/THEORY-tmp2j2zm.md)) report a distinction this question asks for: friction that only adds a cost to passage (a speed bump, a delay) against friction that blocks passage until a condition is shown (a checkpoint, a CAPTCHA), which alone creates a "governance seam" (p. 405 n. 89, quoting Frischmann and Ohm). In the question's terms, a check of the second kind is a point at which an incorporation can still be stopped; a delay is one only if someone uses the time to act. Their measures aim at one person's deliberation, so they say nothing on how a record's checks keep pace with its incorporation. Relation: [THEORY-tmp2j2zm](../theory.d/THEORY-tmp2j2zm.md) `bears_on` this question.
+Frischmann and Benesch ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md), [THEORY-2267](../theory.d/THEORY-2267.md)) report a distinction this question asks for: friction that only adds a cost to passage (a speed bump, a delay) against friction that blocks passage until a condition is shown (a checkpoint, a CAPTCHA), which alone creates a "governance seam" (p. 405 n. 89, quoting Frischmann and Ohm). In the question's terms, a check of the second kind is a point at which an incorporation can still be stopped; a delay is one only if someone uses the time to act. Their measures aim at one person's deliberation, so they say nothing on how a record's checks keep pace with its incorporation. Relation: [THEORY-2267](../theory.d/THEORY-2267.md) `bears_on` this question.

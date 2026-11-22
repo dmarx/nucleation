@@ -55,7 +55,7 @@ summary: >-
   [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-619](../claims.d/CLAIM-619.md), A's, and the owner has endorsed
   neither.
 ---
-<!-- inactive-ok-file: THEORY-tmp4gziy THEORY-1653 — Proposed; the reading of Dorsch, Coeckelbergh and Vierkant, 2026-11-22, and held evidence set beside it -->
+<!-- inactive-ok-file: THEORY-2217 THEORY-1653 — Proposed; the reading of Dorsch, Coeckelbergh and Vierkant, 2026-11-22, and held evidence set beside it -->
 <!-- inactive-ok-file: NOTE-1901 — Skimmed; filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1824 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-652 CLAIM-657 — Proposed; filed from the same exchange -->
@@ -165,7 +165,7 @@ unchanged.
 
 ## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
 
-[LIT-2373](../literature.d/LIT-2373.md) is now read ([NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md); [THEORY-tmp4gziy](../theory.d/THEORY-tmp4gziy.md), which `bears_on` this
+[LIT-2373](../literature.d/LIT-2373.md) is now read ([NOTE-2307](../notes.d/NOTE-2307.md); [THEORY-2217](../theory.d/THEORY-2217.md), which `bears_on` this
 question). It **bears on part 2 and leaves parts 1 and 3 open**.
 
 - **Part 2, what makes it reproductive.** The paper gives a mechanism by

@@ -27,7 +27,7 @@ summary: >-
   second-hand facts from these works. Named in [NOTE-1213](../notes.d/NOTE-1213.md). Filed by the
   backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: THEORY-tmpd9ysz THEORY-tmp4pf2m THEORY-tmpjqe6l NOTE-tmpqvc1g THEORY-tmp15tfp CLAIM-661 — new or Proposed; the readings and the claim the note of 2026-11-22 reports -->
+<!-- inactive-ok-file: THEORY-2230 THEORY-2231 THEORY-2232 NOTE-2323 THEORY-2233 CLAIM-661 — new or Proposed; the readings and the claim the note of 2026-11-22 reports -->
 <!-- inactive-ok-file: CASE-168 CASE-171 CASE-173 CASE-174 CASE-177 LIT-1557 LIT-1563 LIT-1565 LIT-1569 LIT-1572 LIT-1573 LIT-1611 LIT-1612 LIT-1621 LIT-2398 — Proposed, Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-138: Read the endosymbiosis primaries behind the integration question and its cases
@@ -92,14 +92,14 @@ and cell.com, pnas.org, annualreviews.org, bioRxiv and core.ac.uk with
 Cloudflare, so four works were reached through author or repository
 copies:
 
-- [LIT-1567](../literature.d/LIT-1567.md) (Karnkowska 2016), read: [NOTE-tmpzlv8e](../notes.d/NOTE-tmpzlv8e.md), [THEORY-tmpd9ysz](../theory.d/THEORY-tmpd9ysz.md).
+- [LIT-1567](../literature.d/LIT-1567.md) (Karnkowska 2016), read: [NOTE-2320](../notes.d/NOTE-2320.md), [THEORY-2230](../theory.d/THEORY-2230.md).
   [CASE-168](../cases.d/CASE-168.md)'s four facts hold, with refinements.
-- [LIT-1586](../literature.d/LIT-1586.md) (Łukasik 2018), read: [NOTE-tmp8zw3r](../notes.d/NOTE-tmp8zw3r.md), [THEORY-tmp4pf2m](../theory.d/THEORY-tmp4pf2m.md).
-- [LIT-1602](../literature.d/LIT-1602.md) (Campbell 2017), read: [NOTE-tmpzfvzz](../notes.d/NOTE-tmpzfvzz.md), [THEORY-tmpjqe6l](../theory.d/THEORY-tmpjqe6l.md).
+- [LIT-1586](../literature.d/LIT-1586.md) (Łukasik 2018), read: [NOTE-2321](../notes.d/NOTE-2321.md), [THEORY-2231](../theory.d/THEORY-2231.md).
+- [LIT-1602](../literature.d/LIT-1602.md) (Campbell 2017), read: [NOTE-2322](../notes.d/NOTE-2322.md), [THEORY-2232](../theory.d/THEORY-2232.md).
   [CASE-177](../cases.d/CASE-177.md)'s facts from these two hold, except "two to six lineages per
   host", which the paper's own discussion puts beside "5 to 7" and
   which stays unverified.
-- [LIT-2395](../literature.d/LIT-2395.md) (Strand 2026), skimmed: [NOTE-tmpqvc1g](../notes.d/NOTE-tmpqvc1g.md), [THEORY-tmp15tfp](../theory.d/THEORY-tmp15tfp.md),
+- [LIT-2395](../literature.d/LIT-2395.md) (Strand 2026), skimmed: [NOTE-2323](../notes.d/NOTE-2323.md), [THEORY-2233](../theory.d/THEORY-2233.md),
   which corroborates [CLAIM-661](../claims.d/CLAIM-661.md); its example holds, with the
   qualification that some delivered genes are the wasp's.
 

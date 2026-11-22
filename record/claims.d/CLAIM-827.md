@@ -43,10 +43,10 @@ grounds:
 - THEORY-2152
 - THEORY-2149
 ---
-<!-- inactive-ok-file: ARG-tmps8aog THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: ARG-171 THEORY-2171 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-838 CLAIM-799 ARG-153 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2152 THEORY-2149 THEORY-2148 ARG-135 ARG-151 ARG-145 — Proposed; the readings and arguments of 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-827: The occupancy threshold of a cone holding a fixed share of random directions, the BBP threshold and the alignment bifurcation are three different thresholds on one scale of alignment strength: the first at κ of order √D, the second at κ = √D·(D/N)^(1/4), the third at a coupling of order D; only the last is a transition of the system, and in the mean-field alignment model the ordering mode becomes BBP-detectable at coupling D/(1 + √(D/N)), an early warning before the bifurcation at D
 
@@ -198,16 +198,16 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)): **a
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-2260](../notes.d/NOTE-2260.md), [THEORY-2171](../theory.d/THEORY-2171.md)): **a
 parallel.** In their linear model the student converges toward the teacher
 from the first step while the weight spectrum's outlier appears only at a
 critical time: one more case of learning preceding spectral detection,
 with the weight matrix as the estimator. No relation; [CLAIM-799](CLAIM-799.md) carries
-the support ([ARG-tmps8aog](../arguments.d/ARG-tmps8aog.md)).
+the support ([ARG-171](../arguments.d/ARG-171.md)).
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **background.** No new threshold on this claim's scale of alignment
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-2274](../notes.d/NOTE-2274.md), [THEORY-2186](../theory.d/THEORY-2186.md)): **background.** No new threshold on this claim's scale of alignment
 strength, but the BBP threshold compounds with depth: at random weights an
 input spike must pass a BBP-type test at every layer to give an outlier in
 a later one. A note, no relation.

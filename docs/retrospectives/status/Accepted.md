@@ -6,8 +6,13 @@
 
 **Accepted** — the owner accepts its account of what happened and what it recommends.
 
-0 of 8 RETRO documents. Back to the [full index](../README.md).
+1 of 8 RETRO documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [RETRO-008](../../../record/retrospectives.d/RETRO-008.md) v2 | The filing of Rich Get Richer Power Laws and the evening after: an exchange, eight readings, a manuscript refresh and two decisions on how the record files, in five pull requests; what went right was separate readers checking the drafters' work and the owner's corrections becoming rules the same evening, and what went wrong was the assistant settling for one reading, one framing or one file where the owner wanted all of them | At the owner's request ("retro"), on 2026-11-21, after the stretch that began with "update the record to account for this discussion, including attempting to fill in gaps where you identify them" for the exchange "Rich Get Richer Power Laws". The stretch went: - the share decoder fixed (pull request 608); - the exchange filed, with its gaps, its first eight readings and a
+  refresh of the manuscript and its neighbourhood (pull request 609);
+- two decisions on how the record files, gap filling ([ADR-137](../../../record/decisions.d/ADR-137.md),
+  Proposed) and argument titles ([ADR-136](../../../record/decisions.d/ADR-136.md), Active), with a sweep of
+  the record's Rejected arguments (pull requests 611 and 612).
+Going well: separate readers checked the drafters' work, and caught what the drafters' own reports could not (voice drift, missing arguments, misattributed sources, errors in the assistant's own entries). Numerical checks caught errors in the other assistant's turns. Each of the owner's corrections became a rule the same evening. Going wrong: four times the owner caught the assistant settling for less than the record wanted. The decoder dropped content; the assistant asked which reading was meant instead of filing all three; arguments were titled with their conclusions; and a Rejected argument's conclusions were left without an entry. Smaller faults came from the shared working tree and from writing about work still in flight. And, at the owner's earmark, the exchange the regime is named for happened mostly off the page, in briefs, commits and pull requests. Five recommendations follow, the fifth to think out loud in the chat with periodic executive summaries. The review is the assistant's (Claude, in this session); adopting its recommendations is the owner's call. | Accepted |

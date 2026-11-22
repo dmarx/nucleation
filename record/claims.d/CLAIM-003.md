@@ -43,7 +43,7 @@ summary: >-
 answers:
 - QUESTION-061
 ---
-<!-- inactive-ok-file: LIT-tmpblnvk THEORY-tmpb3deq ARG-tmpymket — Proposed or Unfetched; the reading, registration and argument of LEAD-112, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: LIT-3091 THEORY-2229 ARG-202 — Proposed or Unfetched; the reading, registration and argument of LEAD-112, cited in the note of 2026-11-22 -->
 
 # CLAIM-003: A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it
 
@@ -99,13 +99,13 @@ date. Its evidence is unchanged.
 
 ## Note of 2026-11-22: the split brain as evidence for the access half
 
-From [LEAD-112](../leads.d/LEAD-112.md). de Haan et al. 2020 ([LIT-tmpsc6mi](../literature.d/LIT-tmpsc6mi.md), [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md),
-[THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)), read as a stand-in for Pinto et al. 2017 ([LIT-tmpblnvk](../literature.d/LIT-tmpblnvk.md)):
+From [LEAD-112](../leads.d/LEAD-112.md). de Haan et al. 2020 ([LIT-3102](../literature.d/LIT-3102.md), [NOTE-2319](../notes.d/NOTE-2319.md),
+[THEORY-2229](../theory.d/THEORY-2229.md)), read as a stand-in for Pinto et al. 2017 ([LIT-3091](../literature.d/LIT-3091.md)):
 "Perception appears to be more split, while responding remains largely
-unified." [ARG-tmpymket](../arguments.d/ARG-tmpymket.md) argues that this supports the claim's access half,
+unified." [ARG-202](../arguments.d/ARG-202.md) argues that this supports the claim's access half,
 narrowed to a disconnected brain and conditional on the patient being one
 agent, which the review's authors leave open; under the two-agent reading
 it is the claim's own defeater, "access by a different workspace". It says
-nothing on "conscious experience can as well". [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)
+nothing on "conscious experience can as well". [THEORY-2229](../theory.d/THEORY-2229.md)
 `corroborates` the claim, as independent evidence it does not rest on. The
 claim is unchanged.

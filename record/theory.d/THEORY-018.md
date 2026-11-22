@@ -51,7 +51,7 @@ summary: >-
   superposition ([LIT-323](../literature.d/LIT-323.md)) no inner product can make all features orthogonal.
 ---
 <!-- inactive-ok-file: THEORY-1016 — Proposed; the sparse-autoencoder resolution account, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpqy8mq — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: CLAIM-852 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
 # THEORY-018: Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation
 
@@ -176,7 +176,7 @@ unchanged.
 ## Note of 2026-11-21: Xu, and Acharya, Rimal & Dhakal, read
 
 Two readings that measure in the final representation, and that this
-account qualifies ([NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)). Xu's logit distance is,
+account qualifies ([NOTE-2249](../notes.d/NOTE-2249.md), [NOTE-2251](../notes.d/NOTE-2251.md)). Xu's logit distance is,
 up to the vocabulary size, the squared length under Park, Choe and
 Veitch's causal inner product (App. B), and Xu's singular ranking and
 "equal length" depend on the Euclidean inner product on the normalized
@@ -188,5 +188,5 @@ attributable to spectral regularization" (§4), which fits this account's
 thesis that the causal inner product's eigenbasis is stipulated, not
 intrinsic. Their sign flip between activation-side and vocabulary-side
 concept vectors is what Park et al.'s Riesz map predicts under that
-stipulation ([CLAIM-tmpqy8mq](../claims.d/CLAIM-tmpqy8mq.md)). No relation written here; the claim grounds
+stipulation ([CLAIM-852](../claims.d/CLAIM-852.md)). No relation written here; the claim grounds
 on this account.

@@ -2,7 +2,7 @@
 number: 94
 status: Open
 formerly:
-- LEAD-tmpha13d
+- LEAD-094
 title: 'Read the dynamics batch on scale separation and localized structure, with Ott and Antonsen''s reduction as a candidate defeater'
 version: 1
 stage: idea

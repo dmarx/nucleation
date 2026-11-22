@@ -99,7 +99,7 @@ corroborates:
 bounds:
 - CLAIM-273
 ---
-<!-- inactive-ok-file: THEORY-tmpaygr8 THEORY-tmpxypfa — Proposed; the readings of the two stand-ins, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2220 THEORY-2221 — Proposed; the readings of the two stand-ins, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-536 LIT-529 — Unfetched or Unavailable; Biological Autonomy (Unfetched for its chapters; the Introduction is read in NOTE-1437), Deacon and Nicolis & Prigogine are named as the unread works that would bear on this, not leaned on -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
@@ -286,8 +286,8 @@ and 3 ([LIT-536](../literature.d/LIT-536.md)) are unread beyond the Introduction
 
 ## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
 
-The two stand-ins for [LIT-536](../literature.d/LIT-536.md) ([NOTE-tmpnhdly](../notes.d/NOTE-tmpnhdly.md), [THEORY-tmpaygr8](THEORY-tmpaygr8.md);
-[NOTE-tmpefons](../notes.d/NOTE-tmpefons.md), [THEORY-tmpxypfa](THEORY-tmpxypfa.md)) **corroborate where this account draws the
+The two stand-ins for [LIT-536](../literature.d/LIT-536.md) ([NOTE-2311](../notes.d/NOTE-2311.md), [THEORY-2220](THEORY-2220.md);
+[NOTE-2310](../notes.d/NOTE-2310.md), [THEORY-2221](THEORY-2221.md)) **corroborate where this account draws the
 line, answer part of the question its promote_when puts to [LIT-536](../literature.d/LIT-536.md), and
 leave the promote_when's first half undone**.
 

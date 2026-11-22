@@ -435,9 +435,9 @@ Gershman, Blei & Niv (2010), [LIT-2011](../literature.d/LIT-2011.md), read in [N
 
 ## Note of 2026-11-22: Option A run, in one linear family
 
-<!-- inactive-ok-block: CASE-tmpshw39 CLAIM-tmpp56wv — new; this date's study and its finding -->
+<!-- inactive-ok-block: CASE-337 CLAIM-910 — new; this date's study and its finding -->
 The model was fitted for the first time, by [LEAD-144](../leads.d/LEAD-144.md)
-([CASE-tmpshw39](CASE-tmpshw39.md); code under scratch/studies/lead-144/): the finite
+([CASE-337](CASE-337.md); code under scratch/studies/lead-144/): the finite
 beta-Bernoulli allocation at K = 16 and α = 3, with the allocation held
 fixed over the window and AR(1) activations, fitted by collapsed Gibbs
 sampling to a linear simulator that does not assume the prior. Against a
@@ -445,7 +445,7 @@ shared-driver null matched on within-group correlation it found more
 features under the null (11.1 against 8.7) and better aligned with the
 working groups, so its features did not beat the null; and neither reading
 of a feature under intervention (cause of its holders, or realized by them)
-was right in both worlds ([CLAIM-tmpp56wv](../claims.d/CLAIM-tmpp56wv.md)). Item 4 showed in the
+was right in both worlds ([CLAIM-910](../claims.d/CLAIM-910.md)). Item 4 showed in the
 sampler's own test: three planted features came back as fourteen occupied
 columns, with copies, splits and unions among them. The model's relational
 layers, sticky transition and per-member activations were not fitted. The

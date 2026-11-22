@@ -10,8 +10,8 @@ history:
   date: '2026-11-22'
   note: >-
     Revised in place after the readings of 2026-11-22 of Barabási and
-    Albert (NOTE-tmpwgw8e) and Barabási's chapter (NOTE-tmpnpqc8). The
-    ground LIT-3004 moves to its reading THEORY-tmpfrz0k (ARG-tmpmylwc).
+    Albert (NOTE-2272) and Barabási's chapter (NOTE-2270). The
+    ground LIT-3004 moves to its reading THEORY-2180 (ARG-182).
     The Pólya-urn contrast is qualified by Model B, preferential
     attachment among a fixed set of vertices, whose power law is
     transient; the contrast is restated for the stationary tail. Title,
@@ -33,7 +33,7 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 grounds:
-- THEORY-tmpfrz0k
+- THEORY-2180
 - LIT-3007
 summary: >-
   Fills a gap in the exchange "Rich Get Richer Power Laws". A says that
@@ -54,9 +54,9 @@ summary: >-
 bears_on:
 - QUESTION-505
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 TERM-tmpg1vx2 — Proposed; the readings of 2026-11-22 and the term filed as the other alternative -->
-<!-- inactive-ok-file: LIT-tmp7g7aj — Deferred; Simon (1955), registered and unread -->
-<!-- inactive-ok-file: THEORY-tmpfrz0k THEORY-tmpzmy66 THEORY-tmpmsncg THEORY-tmp7rz62 TERM-tmpeguzj ARG-tmpmylwc — Proposed; the readings of 2026-11-22, the term and the argument filed with them -->
+<!-- inactive-ok-file: THEORY-2169 THEORY-2173 THEORY-2172 TERM-144 — Proposed; the readings of 2026-11-22 and the term filed as the other alternative -->
+<!-- inactive-ok-file: LIT-3033 — Deferred; Simon (1955), registered and unread -->
+<!-- inactive-ok-file: THEORY-2180 THEORY-2184 THEORY-2181 THEORY-2178 TERM-145 ARG-182 — Proposed; the readings of 2026-11-22, the term and the argument filed with them -->
 <!-- inactive-ok-file: CLAIM-795 CLAIM-824 CLAIM-817 CLAIM-806 THEORY-2150 ARG-144 — Proposed or new; claims and the question filed with this one from the same exchange -->
 
 # CLAIM-830: The mean-field derivation of the Barabási–Albert power law is the age mechanism in logarithmic time, so what separates linear preferential attachment from Gibrat's lognormal growth is the continual entry of new units and not the proportionality of growth
@@ -76,7 +76,7 @@ makes the power law.
 ## The derivation
 
 A1 §3's mean-field solution is k_i(t) = (t/t_i)^(1/2) (Barabási and
-Albert, [LIT-3004](../literature.d/LIT-3004.md), read in [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md): ∂k_i/∂t = k_i/2t, "Assuming that
+Albert, [LIT-3004](../literature.d/LIT-3004.md), read in [NOTE-2272](../notes.d/NOTE-2272.md): ∂k_i/∂t = k_i/2t, "Assuming that
 we add the vertices at equal time intervals"). Write it in logarithmic time, u = ln t:
 
     k_i = exp((u − u_i)/2) = exp(a_i/2),   a_i = ln(t/t_i).
@@ -110,16 +110,16 @@ Barabási and Albert's Model B is linear attachment among a fixed set of
 vertices: "In model B we start with N vertices and no edges ... While at
 early times the model exhibits power-law scaling, P(k) is not
 stationary", and it ends with all vertices connected (preprint p. 6;
-[NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md)). That qualifies the Pólya-urn contrast above, which is a
+[NOTE-2272](../notes.d/NOTE-2272.md)). That qualifies the Pólya-urn contrast above, which is a
 statement about the long-run spread, and it does not meet the
 `defeated_if`, which asks for a degree tail that is a power law, not a
-passing stage of one ([ARG-tmpmylwc](../arguments.d/ARG-tmpmylwc.md)). Read the contrast as "without entry,
+passing stage of one ([ARG-182](../arguments.d/ARG-182.md)). Read the contrast as "without entry,
 no *stationary* power law".
 
 A further gloss, which is the delegated reader's and not the paper's or
 the chapter's: the chapter says that early on "each new link connects
 previously unconnected nodes. In this stage the model's evolution is
-indistinguishable from the Barabási-Albert model with m=1" ([NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md),
+indistinguishable from the Barabási-Albert model with m=1" ([NOTE-2270](../notes.d/NOTE-2270.md),
 §5.6). Nodes at degree zero (counted as one) being drawn in one by one
 act as entrants, so the transient power law would be entry in effect,
 which fits this claim's thesis. Not checked by simulation here.
@@ -168,8 +168,8 @@ Status unchanged.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
-[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports the entry point implicitly**: every Yule
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-2261](../notes.d/NOTE-2261.md); the reading is
+[THEORY-2169](../theory.d/THEORY-2169.md)) **supports the entry point implicitly**: every Yule
 variant founds a new unit each step and gives α = 2 + (k0 + c)/m (§IV.D,
 pp. 17–19), so entry is built in wherever he gets a power law from
 proportional gains. He does not cast the process in logarithmic time.
@@ -178,10 +178,10 @@ proportional gains. He does not cast the process in logarithmic time.
 
 This note is **alternative (b)** of two, for the owner to choose; it
 stands alone if the owner prefers no term. Alternative (a), the lean, is
-[TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md), which gives the senses of "Gibrat's law" with sources.
+[TERM-144](../terms.d/TERM-144.md), which gives the senses of "Gibrat's law" with sources.
 
 Newman reports that Simon "dubbed this type of “rich-get-richer” process
-the Gibrat principle" ([LIT-2976](../literature.d/LIT-2976.md), p. 18; Simon 1955, [LIT-tmp7g7aj](../literature.d/LIT-tmp7g7aj.md),
+the Gibrat principle" ([LIT-2976](../literature.d/LIT-2976.md), p. 18; Simon 1955, [LIT-3033](../literature.d/LIT-3033.md),
 unread), naming the rule of gains in proportion to size in the very
 setting, with entry, that gives the Yule–Simon power law. This claim's
 title uses "Gibrat's lognormal growth" for proportional growth without
@@ -195,14 +195,14 @@ adopting it is the owner's call.
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-**Background** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md), [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)). At realistic
+**Background** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-2262](../notes.d/NOTE-2262.md), [THEORY-2173](../theory.d/THEORY-2173.md)). At realistic
 sample sizes a lognormal and a power-law tail are "very closely equal"
 (p. 26), so whether entry is at work cannot be read from a fitted
 cross-section; it has to be read from the dynamics. No edge.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-**A parallel** ([LIT-2963](../literature.d/LIT-2963.md), [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md), [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)). Lognormal-like
+**A parallel** ([LIT-2963](../literature.d/LIT-2963.md), [NOTE-2263](../notes.d/NOTE-2263.md), [THEORY-2172](../theory.d/THEORY-2172.md)). Lognormal-like
 degree tails are common (at least as good a fit as the power law for
 88%), and the paper calls for "mechanisms that produce non-scale-free
 structural patterns, e.g., those with degree distributions better fitted
@@ -212,31 +212,31 @@ edge. Status unchanged.
 ## Note of 2026-11-22: Barabási and Albert, and Barabási's chapter, read
 
 **Support for the premise and the age half; the identification left
-open** ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md), [THEORY-tmpfrz0k](../theory.d/THEORY-tmpfrz0k.md); [LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md),
-[THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md)). The premise is the paper's arrival-time derivation at
+open** ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-2272](../notes.d/NOTE-2272.md), [THEORY-2180](../theory.d/THEORY-2180.md); [LIT-2968](../literature.d/LIT-2968.md), [NOTE-2270](../notes.d/NOTE-2270.md),
+[THEORY-2184](../theory.d/THEORY-2184.md)). The premise is the paper's arrival-time derivation at
 equal intervals. The chapter's "hubs are large because they arrived
 earlier, a phenomenon called first-mover advantage" and γ = 1/β + 1 give
 the survival exponent 1/β = 2, the claim's λ/g; its "fails to accurately
 predict the pre-factors" matches the claim's caveat that the age mechanism
 accounts for the exponent and not for one node's degree. Neither casts the
 process in log time; Gibrat appears only in the chapter's bibliography.
-Model B is above. [THEORY-tmpfrz0k](../theory.d/THEORY-tmpfrz0k.md) replaces [LIT-3004](../literature.d/LIT-3004.md) in the grounds and
-[THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md) corroborates ([ARG-tmpmylwc](../arguments.d/ARG-tmpmylwc.md)).
+Model B is above. [THEORY-2180](../theory.d/THEORY-2180.md) replaces [LIT-3004](../literature.d/LIT-3004.md) in the grounds and
+[THEORY-2184](../theory.d/THEORY-2184.md) corroborates ([ARG-182](../arguments.d/ARG-182.md)).
 
 ## Note of 2026-11-22: Krapivsky, Redner and Leyvraz, read
 
 **Supports the role of entry in the solution; leaves the no-entry case
-open** ([LIT-2974](../literature.d/LIT-2974.md), [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md), [THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md)). Their rate equation's
+open** ([LIT-2974](../literature.d/LIT-2974.md), [NOTE-2267](../notes.d/NOTE-2267.md), [THEORY-2181](../theory.d/THEORY-2181.md)). Their rate equation's
 source term is "the continuous introduction of new sites with no incoming
 links", and their joint age and degree solution says "old sites are better
 connected". They never remove entry. No edge.
 
 ## Note of 2026-11-22: Merton, read
 
-**Background** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md), [THEORY-tmp7rz62](../theory.d/THEORY-tmp7rz62.md)). The claim uses
+**Background** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-2268](../notes.d/NOTE-2268.md), [THEORY-2178](../theory.d/THEORY-2178.md)). The claim uses
 "cumulative advantage" in the formal sense, growth in proportion to size;
 Merton's Matthew effect is credit allotted by rank, with cumulative
-advantage "one institutional version" of it. [TERM-tmpeguzj](../terms.d/TERM-tmpeguzj.md) keeps the
+advantage "one institutional version" of it. [TERM-145](../terms.d/TERM-145.md) keeps the
 senses apart. No edge.
 
 ## Note of 2026-11-22: Reed and Hughes, read

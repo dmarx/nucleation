@@ -75,7 +75,7 @@ list of the identifiable creators, distributors and deciders.
 
 ## Note of 2026-11-22: Čater, Čater and Ivašković, read
 
-An **instance, indirect**, no edge ([LIT-1138](../literature.d/LIT-1138.md), [NOTE-tmpu5yr1](../notes.d/NOTE-tmpu5yr1.md)). Its two
+An **instance, indirect**, no edge ([LIT-1138](../literature.d/LIT-1138.md), [NOTE-2305](../notes.d/NOTE-2305.md)). Its two
 surveys of football fans were recruited through 395 fan clubs and club
 representatives (p. 7), which reaches the more organised fans, the biased
 sample of a diffuse population this question worries about. The paper

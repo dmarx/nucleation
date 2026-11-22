@@ -61,7 +61,7 @@ summary: >-
   were filed unread; LIT-1568 and LIT-1570 are read since (NOTE-1212,
   NOTE-1211), and the others are Unfetched or Unavailable.
 ---
-<!-- inactive-ok-file: THEORY-tmp5zzgh — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
+<!-- inactive-ok-file: THEORY-2271 — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: NOTE-1738 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-603 NOTE-1658 THEORY-1351 — new or Proposed; the assistant's claim on specialization and dependency and a reading it cites, cited as open -->
 <!-- inactive-ok-file: LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
@@ -383,14 +383,14 @@ ancestral virus) that QUESTION-277's "alignment of selection" item needs.
 
 ## Note of 2026-11-22: a human case, read
 
-Read for [LEAD-176](../leads.d/LEAD-176.md): Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md),
-[THEORY-tmp5zzgh](../theory.d/THEORY-tmp5zzgh.md)), written as `bears_on`. A fraternal case, not a
+Read for [LEAD-176](../leads.d/LEAD-176.md): Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-2363](../notes.d/NOTE-2363.md),
+[THEORY-2271](../theory.d/THEORY-2271.md)), written as `bears_on`. A fraternal case, not a
 symbiotic one, but the question's routes appear in it: the authors hold
 that Neolithic farmers became members of a new evolutionary individual
 once group traits grew mutually dependent (mutual dependence) and group
 fitness decoupled from individual fitness (alignment of selection), with
 a division of labour (distribution of essential functions). They assert
 the routes together from an archaeological narrative and do not separate
-their effects. The scaffolding group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md),
-[NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md)) adds that in egalitarian transitions one partner can act
+their effects. The scaffolding group's 2024 paper ([LIT-3137](../literature.d/LIT-3137.md),
+[NOTE-2362](../notes.d/NOTE-2362.md)) adds that in egalitarian transitions one partner can act
 as a biotic scaffold for the other. No status change.

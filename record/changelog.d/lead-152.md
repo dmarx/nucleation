@@ -1,10 +1,10 @@
-<!-- inactive-ok-file: THEORY-tmp2j2zm CLAIM-710 CLAIM-711 CLAIM-715 CLAIM-731 TERM-125 LIT-2660 LIT-2676 LIT-2685 LIT-1609 — Proposed, Unfetched or Deferred; the entries LEAD-152's readings filed or bear on -->
+<!-- inactive-ok-file: THEORY-2267 CLAIM-710 CLAIM-711 CLAIM-715 CLAIM-731 TERM-125 LIT-2660 LIT-2676 LIT-2685 LIT-1609 — Proposed, Unfetched or Deferred; the entries LEAD-152's readings filed or bear on -->
 ### Added
 
-- [LIT-tmpjbd64](record/literature.d/LIT-tmpjbd64.md): Frischmann and Benesch (2023), "Friction-In-Design
+- [LIT-3136](record/literature.d/LIT-3136.md): Frischmann and Benesch (2023), "Friction-In-Design
   Regulation as 21st Century Time, Place, and Manner Restriction",
   registered and read for [LEAD-152](record/leads.d/LEAD-152.md) in the journal's open PDF, with its
-  NOTE ([NOTE-tmpyjyrt](record/notes.d/NOTE-tmpyjyrt.md), Read) and THEORY ([THEORY-tmp2j2zm](record/theory.d/THEORY-tmp2j2zm.md), Proposed;
+  NOTE ([NOTE-2359](record/notes.d/NOTE-2359.md), Read) and THEORY ([THEORY-2267](record/theory.d/THEORY-2267.md), Proposed;
   corroborates [CLAIM-715](record/claims.d/CLAIM-715.md), bears on [QUESTION-471](record/questions.d/QUESTION-471.md)).
 
 ### Changed

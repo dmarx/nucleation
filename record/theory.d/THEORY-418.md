@@ -197,7 +197,7 @@ mealybug patchwork as a place to test it, and its reports are unread.
 
 ## Note of 2026-11-22: the companion paper and the scaffolding sources, read
 
-Read for [LEAD-176](../leads.d/LEAD-176.md). **Shavit and Sharon 2023** ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md)),
+Read for [LEAD-176](../leads.d/LEAD-176.md). **Shavit and Sharon 2023** ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-2363](../notes.d/NOTE-2363.md)),
 the worked illustration [LIT-188](../literature.d/LIT-188.md) cites, does not meet the promote_when: it
 assigns Epipalaeolithic bands, the Natufian and the PPNA-PPNB to the three
 stages by fit with a published archaeological synthesis, with no
@@ -207,11 +207,11 @@ Neolithic Revolution fits the ETI criteria". Its description of the PPNB,
 group traits that "can no longer" exist separately and a "point of no
 return", is the entrenchment this account names, asserted, not measured.
 
-**Bourrat 2022** ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md)) bears out [LIT-188](../literature.d/LIT-188.md)'s report of
+**Bourrat 2022** ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-2361](../notes.d/NOTE-2361.md)) bears out [LIT-188](../literature.d/LIT-188.md)'s report of
 it: Darwinian-like collectives with properties imposed by an ecological
 scaffold, Darwinian ones once the properties are endogenized, tested by
 removing the scaffold. **Generative entrenchment**, read in Wimsatt and
-Schank 2004 ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md), [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md)) in place of the unavailable book
+Schank 2004 ([LIT-3138](../literature.d/LIT-3138.md), [NOTE-2365](../notes.d/NOTE-2365.md)) in place of the unavailable book
 ([LIT-1926](../literature.d/LIT-1926.md)), is downstream reach in a causal graph and does not entail the
 organizational closure this account joins to it with "Hence" ([CLAIM-531](../claims.d/CLAIM-531.md)).
 

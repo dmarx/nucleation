@@ -77,9 +77,9 @@ covariances. The bound held in all 80 cases. The ratio T/ε² stayed between
   applies lag by lag and was not written out.
 
 ## Note of 2026-11-22: a lower bound, and the aggregate
-<!-- inactive-ok-file: CLAIM-tmpllgpb — new; filed from LEAD-178 -->
+<!-- inactive-ok-file: CLAIM-980 — new; filed from LEAD-178 -->
 
-[CLAIM-tmpllgpb](CLAIM-tmpllgpb.md) extends this bound to any linear aggregate Y = LX and adds
+[CLAIM-980](CLAIM-980.md) extends this bound to any linear aggregate Y = LX and adds
 a lower bound: T lies between ½ log det(I + G⁻¹ LA Σ_|L AᵀLᵀ) and
 ½ log det(I + G⁻¹ LA Π_|L AᵀLᵀ), with G = LΣLᵀ. With L the projection
 onto a block the upper half is this claim's bound, since

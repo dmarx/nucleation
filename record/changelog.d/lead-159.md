@@ -1,11 +1,11 @@
 ### Added
 
-- [CASE-tmprtp09](record/cases.d/CASE-tmprtp09.md) (Proposed, executed-study, variant of [CASE-188](record/cases.d/CASE-188.md)): [CASE-188](record/cases.d/CASE-188.md)'s
+- [CASE-383](record/cases.d/CASE-383.md) (Proposed, executed-study, variant of [CASE-188](record/cases.d/CASE-188.md)): [CASE-188](record/cases.d/CASE-188.md)'s
   agents, with imposed protection and inertia added, built as a
   two-channel choice task and ablated four ways under matched information,
   carrying out [LEAD-159](record/leads.d/LEAD-159.md). Code, tests and results under
   scratch/studies/lead-159/.
-- [CLAIM-tmpprgb1](record/claims.d/CLAIM-tmpprgb1.md) (Proposed, thesis, demonstrated): a matched-information
+- [CLAIM-982](record/claims.d/CLAIM-982.md) (Proposed, thesis, demonstrated): a matched-information
   ablation tells resolve from mere persistence only by what it removes and
   only in conjunction; a timescale ablation or a yoked control can read
   resolve as inertia.

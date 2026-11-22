@@ -181,8 +181,8 @@ But interventions on state do separate them. From c = 0.01 the controlled system
 
 ## Note of 2026-11-22: a run in which an intervention on state separates the arrangements
 
-<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
-In [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md), a reduced run of [CASE-186](../cases.d/CASE-186.md), zeroing both maintained
+<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 -->
+In [CASE-332](../cases.d/CASE-332.md), a reduced run of [CASE-186](../cases.d/CASE-186.md), zeroing both maintained
 capacities, an intervention on state, separated reciprocal maintenance (0
 of 64 second corrections) from external restoration (64 of 64). Its outside
 service restores at a constant rate and does not supply the internal
@@ -192,8 +192,8 @@ claim is unchanged.
 
 ## Note of 2026-11-22: Bourrat's release test, read
 
-Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md)) and the
-scaffolding group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md)). Consistent
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-2361](../notes.d/NOTE-2361.md)) and the
+scaffolding group's 2024 paper ([LIT-3137](../literature.d/LIT-3137.md), [NOTE-2362](../notes.d/NOTE-2362.md)). Consistent
 with the claim; no edge.
 
 - Bourrat tells imposed from internally produced collective properties

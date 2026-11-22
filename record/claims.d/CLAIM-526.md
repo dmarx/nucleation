@@ -2,7 +2,7 @@
 number: 526
 status: Active
 formerly:
-- CLAIM-tmpg3993
+- CLAIM-526
 title: 'Describing persons and organizations as coexisting levels of one process removes the question of how already-constituted agents add up to a collective, but not the question of levels: whether a collective variable has dynamics of its own, closed against the activity that realizes it, can be decided on a process description that presupposes no agents, is sometimes decided no, and a closed collective variable can be an aggregate that coexists with its realization while keeping none of its members'' distinctions'
 version: 2
 history:

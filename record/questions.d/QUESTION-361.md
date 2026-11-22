@@ -32,7 +32,7 @@ summary: >-
   iterated reconstruction preserves task-relative sufficiency, by adding
   who runs the reconstruction and whether the successor can carry it on.
 ---
-<!-- inactive-ok-file: CASE-tmpy4orj CLAIM-tmppgdad — new, filed under LEAD-093 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-365 CLAIM-957 — new, filed under LEAD-093 on 2026-11-22 -->
 
 # QUESTION-361: Is an organization's recursive production usefully understood as self-distillation, each realization generating a specification of its own effective organization that constrains how its successor is built, and if so, what makes the distillation the organization's own rather than run by an outside optimizer, and what makes a successor a good teacher as well as a faithful student?
 
@@ -109,7 +109,7 @@ realizations is not yet there.
 
 ## Note of 2026-11-22: a construction in which the student becomes a teacher
 
-[CASE-tmpy4orj](../cases.d/CASE-tmpy4orj.md) ([LEAD-093](../leads.d/LEAD-093.md)) supplies the succession that [CASE-190](../cases.d/CASE-190.md) lacks.
+[CASE-365](../cases.d/CASE-365.md) ([LEAD-093](../leads.d/LEAD-093.md)) supplies the succession that [CASE-190](../cases.d/CASE-190.md) lacks.
 Each nucleus formed by a teacher makes teachers.
 
 - **Replacement.** After an outside founding, every outside teacher is
@@ -121,7 +121,7 @@ Each nucleus formed by a teacher makes teachers.
 - **Matched populations.** Populations matched in the number and turnover
   of their students separate on withdrawal by the share that can teach.
   Before withdrawal they differ only in the supply, material and teachers
-  each needs ([CLAIM-tmppgdad](../claims.d/CLAIM-tmppgdad.md)).
+  each needs ([CLAIM-957](../claims.d/CLAIM-957.md)).
 
 Two limits:
 

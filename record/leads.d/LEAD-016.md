@@ -10,7 +10,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: a reduced run of CASE-117 was carried
-    out (CASE-tmpnti0m, CLAIM-tmp1u4m3, CLAIM-tmp1jz5w). Status and
+    out (CASE-341, CLAIM-918, CLAIM-919). Status and
     stage are unchanged; marking the lead Done is the owner's call.
 stage: specified
 priority: high
@@ -32,12 +32,12 @@ advances:
 - QUESTION-083
 operationalized_in:
 - CASE-117
-- CASE-tmpnti0m
+- CASE-341
 summary: >-
   One study bears on six open questions. Named in [CASE-117](../cases.d/CASE-117.md), [QUESTION-133](../questions.d/QUESTION-133.md)
   and [QUESTION-134](../questions.d/QUESTION-134.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmpnti0m CLAIM-tmp1u4m3 CLAIM-tmp1jz5w — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-341 CLAIM-918 CLAIM-919 — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 
 # LEAD-016: Run emergent specialization in a population of identical adaptive operators, holding the final diversity fixed while changing the mechanism that produced it
 
@@ -63,7 +63,7 @@ self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)).
 ## Note of 2026-11-22: a reduced run, and what remains
 
 A reduced version of [CASE-117](../cases.d/CASE-117.md) was run on a CPU and filed as
-[CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md). It used four contexts, one of them rare, and linear
+[CASE-341](../cases.d/CASE-341.md). It used four contexts, one of them rare, and linear
 operators that differ only by initialization. Four influence rules were
 compared: ordinary mixture-of-experts gating (the baseline), gating with a
 load-balancing loss, gating with a usage bias, and a multiplicative
@@ -78,7 +78,7 @@ mechanism that decides is not the influence rule alone.
   recovers a rare specialist from 10⁻³. Only the multiplicative rule and
   the usage bias recover it from 10⁻⁵. The multiplicative rule's rate
   does not depend on the starting share. The gating rules' rate falls
-  with it, for the reason [CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md) derives. The usage bias also
+  with it, for the reason [CLAIM-918](../claims.d/CLAIM-918.md) derives. The usage bias also
   lifts an incompetent copy.
 - **Refill after removal.** It depends on spare capacity, not on the
   rule. A spare refilled the niche in 6 of 6 seeds under every rule at
@@ -86,7 +86,7 @@ mechanism that decides is not the influence rule alone.
 - **[QUESTION-134](../questions.d/QUESTION-134.md)'s experiment.** With spare capacity, a suppressed
   specialist is shut out whether or not it kept its competence. Without
   it, the specialist returns even after losing most of its competence
-  ([CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)).
+  ([CLAIM-919](../claims.d/CLAIM-919.md)).
 
 **What remains of the lead:**
 

@@ -70,9 +70,9 @@ caring.
 
 ## Note of 2026-11-22: Millikan's pushmi-pullyu, read at its source
 
-<!-- inactive-ok-block: THEORY-tmpfugkf — Proposed; Millikan's own statement, filed for LEAD-018 -->
+<!-- inactive-ok-block: THEORY-2234 — Proposed; Millikan's own statement, filed for LEAD-018 -->
 The term this account borrows is now read in Millikan's own words
-([THEORY-tmpfugkf](THEORY-tmpfugkf.md), [NOTE-tmpqexrv](../notes.d/NOTE-tmpqexrv.md), p. 4): "the most primitive and
+([THEORY-2234](THEORY-2234.md), [NOTE-2324](../notes.d/NOTE-2324.md), p. 4): "the most primitive and
 fundamental kind of representation ... faces both ways at once, saying at
 the same time what the case is and what to do about it", as the bee
 dance does. On her account it is a sign whose producer is responsible for

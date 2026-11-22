@@ -6,7 +6,7 @@
 
 **Learning and inquiry** — how a system that draws distinctions comes to learn and to inquire — distinctions relative to a target and a budget, learning as the formation of a maintained capacity, distinction or channel, occasioned and not guaranteed by a discrepancy it cannot resolve, and inquiry as specification that can revise its own language, answers and criteria; kept apart from what a record of inquiry secures (records-of-inquiry) and from the record as its own apparatus (record-as-apparatus).
 
-0 of 142 TERM documents. Back to the [full index](../README.md).
+0 of 156 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

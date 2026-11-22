@@ -38,16 +38,16 @@ Where the record names it:
 Either answers [QUESTION-221](../questions.d/QUESTION-221.md) for the class.
 
 ## Note of 2026-11-22: what was done
-<!-- inactive-ok-file: CASE-tmp2l6id CLAIM-tmpllgpb — new; filed from this lead -->
+<!-- inactive-ok-file: CASE-381 CLAIM-980 — new; filed from this lead -->
 
 Worked on the branch claude/lead-178-var1-dependence
 (scratch/studies/lead-178/). For linear Gaussian VAR(1) at the one-step
 horizon both outcomes the lead names were reached, under a condition on
-the block. [CLAIM-tmpllgpb](../claims.d/CLAIM-tmpllgpb.md) bounds the dynamical dependence of any linear
+the block. [CLAIM-980](../claims.d/CLAIM-980.md) bounds the dynamical dependence of any linear
 aggregate on both sides. For A = A* + εC it is of order ε² when the
 block's aggregate is closed under A* (for the sum, equal column sums),
 with a constant growing as the slow gap closes, and has a positive floor
-as ε → 0 when it is not, whatever the fast gap. [CASE-tmp2l6id](../cases.d/CASE-tmp2l6id.md) is the
+as ε → 0 when it is not, whatever the fast gap. [CASE-381](../cases.d/CASE-381.md) is the
 numerical study.
 
 Choices made: "the block's aggregate" was read as the block sum, as in

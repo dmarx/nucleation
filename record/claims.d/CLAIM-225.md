@@ -69,7 +69,7 @@ summary: >-
 rests_on:
 - CLAIM-270
 ---
-<!-- inactive-ok-file: CLAIM-tmp03h8w TERM-tmpjv1xh — new, filed by LEAD-100 on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-944 TERM-150 — new, filed by LEAD-100 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-087 CLAIM-076 — Proposed; the improvement, legibility and cross-modal claims this objection rests on or cites, open -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: ARG-019 — Proposed; the argument this claim's support verdict moved to, which it undercuts -->
@@ -211,7 +211,7 @@ subject matter. This claim undercuts the argument, and its objection to
 
 "What would answer it" names "A receiver-restricted order, with decision
 rules limited to a stated class ... so it needs its own results."
-[LEAD-100](../leads.d/LEAD-100.md) filed it: [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md), with six results in [CLAIM-tmp03h8w](CLAIM-tmp03h8w.md)
+[LEAD-100](../leads.d/LEAD-100.md) filed it: [TERM-150](../terms.d/TERM-150.md), with six results in [CLAIM-944](CLAIM-944.md)
 (Proposed, demonstrated). Its result 5 confirms that restricting the rules
 loses the garbling theorem: an experiment can be strictly better for a
 restricted receiver than one it is a garbling of. Which rule class real

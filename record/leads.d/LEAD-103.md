@@ -53,8 +53,8 @@ Done under this lead, by a delegated worker.
   stated (OE1, equal probe predictabilities in the four sign patterns; OE2,
   one mixture equivalence among renderings), and the generalized- (preparation-)
   noncontextuality inequality |⟨X⟩| + |⟨Z⟩| ≤ 1 they imply is derived, in
-  [CLAIM-tmp59ejz](../claims.d/CLAIM-tmp59ejz.md) with its study
-  [CASE-tmp7nwhq](../cases.d/CASE-tmp7nwhq.md). It specializes
+  [CLAIM-964](../claims.d/CLAIM-964.md) with its study
+  [CASE-370](../cases.d/CASE-370.md). It specializes
   [THEORY-315](../theory.d/THEORY-315.md) to the pragmatic case and verifies it
   numerically: the bound is returned exactly by linear program on all four
   diamond faces, corroborated for non-deterministic responses, violated by a

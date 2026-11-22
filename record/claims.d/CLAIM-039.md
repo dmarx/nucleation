@@ -54,7 +54,7 @@ uses:
 - TERM-094
 ---
 <!-- inactive-ok-file: CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
-<!-- inactive-ok-file: THEORY-tmpb3deq — Proposed; the reading of LEAD-112 cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2229 — Proposed; the reading of LEAD-112 cited in the note of 2026-11-22 -->
 
 # CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
 
@@ -175,7 +175,7 @@ Rechecked after [LIT-1905](../literature.d/LIT-1905.md) (Massumi) was filed and 
 experience". [LEAD-112](../leads.d/LEAD-112.md) searched for cases where access and experience come
 apart, kind by kind, and found none that separates them: each case read
 follows access and leaves experience undetermined ([QUESTION-048](../questions.d/QUESTION-048.md), note of
-the same date). The nearest is the split brain ([THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)), where
+the same date). The nearest is the split brain ([THEORY-2229](../theory.d/THEORY-2229.md)), where
 response selection stays unified while perception divides and the subject's
 unity is undecided: a functional unity with experience left open, but for
 action control, not affect. No reading bears on functional affect itself,

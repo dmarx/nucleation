@@ -24,7 +24,7 @@ history:
     Reread 2026-11-22 for LEAD-061: Definitions 1-3, Proposition 2,
     Theorems 2-3 and the proofs of Theorem 3, Lemma 1 and Proposition 2.
     A dated note added: Proposition 2's if direction fails with a growing
-    number of closed groups (CLAIM-tmpt226r, CASE-tmpczld2). The reading
+    number of closed groups (CLAIM-914, CASE-340). The reading
     is otherwise unchanged.
 date: '2026-10-14'
 summary: >-
@@ -39,7 +39,7 @@ summary: >-
   in-dispersion guarantee it. How fast consensus is reached is unrelated
   to whether it is right.
 ---
-<!-- inactive-ok-file: CLAIM-tmpt226r CASE-tmpczld2 — Proposed; filed 2026-11-22 by LEAD-061, cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-914 CASE-340 — Proposed; filed 2026-11-22 by LEAD-061, cited in its dated note -->
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this reading sits beside, open -->
 
 # NOTE-840: Golub & Jackson — Naïve Learning in Social Networks and the Wisdom of Crowds
@@ -210,10 +210,10 @@ deviation over all agents. The proof of the "if" direction (p. 141)
 shows convergence along every fixed sequence of agents and treats that as
 sufficient; it does not control the maximum. With ⌊n/k⌋ closed groups of
 k = ⌈√(ln n)⌉ and equal weights, s_1 = 1/k → 0 while some group's
-consensus misses μ with probability tending to 1 ([CASE-tmpczld2](../cases.d/CASE-tmpczld2.md)). The
+consensus misses μ with probability tending to 1 ([CASE-340](../cases.d/CASE-340.md)). The
 "only if" direction is sound. The "if" direction holds when
 s_1·log m → 0, m the number of minimal closed groups, so whenever m is
-bounded ([CLAIM-tmpt226r](../claims.d/CLAIM-tmpt226r.md)). C2 in the claims table should be read with
+bounded ([CLAIM-914](../claims.d/CLAIM-914.md)). C2 in the claims table should be read with
 that proviso. Theorems 1 and 4 use Proposition 2's "if" direction; out-
 dispersion appears to exclude many small closed groups, and whether
 balance with in-dispersion does was not settled. The reading is otherwise

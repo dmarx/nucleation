@@ -447,7 +447,7 @@ No status changes.
 
 ## Note of 2026-11-22: Merton's Matthew effect, read
 
-**A contrast** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). Merton's Matthew effect
+**A contrast** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-2268](../notes.d/NOTE-2268.md)). Merton's Matthew effect
 allocates credit upward, to those already visible and eminent, for a
 given contribution (p. 58). This claim allocates blame to where failure
 becomes visible, often to those with least control. Both misallocate by

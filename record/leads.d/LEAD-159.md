@@ -46,10 +46,10 @@ the ablation reads as inertia.
 
 ## Note of 2026-11-22: run as a constructed model; what remains
 
-<!-- inactive-ok-file: CASE-tmprtp09 CLAIM-tmpprgb1 — new, filed from LEAD-159 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-383 CLAIM-982 — new, filed from LEAD-159 on 2026-11-22 -->
 
 Carried out by the assistant as a simulation (scratch/studies/lead-159/),
-filed as [CASE-tmprtp09](../cases.d/CASE-tmprtp09.md) and [CLAIM-tmpprgb1](../claims.d/CLAIM-tmpprgb1.md). Four agents that choose alike
+filed as [CASE-383](../cases.d/CASE-383.md) and [CLAIM-982](../claims.d/CLAIM-982.md). Four agents that choose alike
 under ordinary conditions (corrigible resolve, entrenchment, imposed
 protection, inertia) were ablated four ways at the onset of a defeater or an
 irrelevant change of matched size, on identical inputs and with the same
@@ -62,6 +62,6 @@ after the structure is left to re-form; revision under a defeater beside
 persistence), both measured; which was meant is the owner's call.
 
 What remains: the run on a trained learner that A40's Study D describes,
-specified as [CLAIM-tmpprgb1](../claims.d/CLAIM-tmpprgb1.md) says (all three tests), and [CASE-188](../cases.d/CASE-188.md)'s
+specified as [CLAIM-982](../claims.d/CLAIM-982.md) says (all three tests), and [CASE-188](../cases.d/CASE-188.md)'s
 legitimacy factor, which these agents cannot carry because none can read
 its commitment's provenance. The stage and status are unchanged.

@@ -180,7 +180,7 @@ model, not an argument for the classification. The claim is unchanged.
 
 ## Note of 2026-11-19: Carnap, read
 <!-- inactive-ok-file: THEORY-2004 — newly filed; the reading of 2026-11-19 -->
-<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
 Carnap's two requirements on a language for inductive logic (§18B) are of
 the two kinds the claim separates ([THEORY-2004](../theory.d/THEORY-2004.md), corroborates).
@@ -195,7 +195,7 @@ unchanged.
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**Qualifies, consistently** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)).
+**Qualifies, consistently** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-2294](../notes.d/NOTE-2294.md), [THEORY-2205](../theory.d/THEORY-2205.md)).
 Shalizi and Moore fuse predictive sufficiency (prescience) and closure
 (the macro process Markov) in one criterion for macrostates; for the
 observed process's own causal states the two coincide by construction

@@ -6,8 +6,9 @@
 
 **Consciousness** — experience and its theories — phenomenal consciousness, its measures and its attribution to animals or machines (group: philosophy).
 
-1 of 154 ARG documents. Back to the [full index](../README.md).
+2 of 217 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-018](../../../record/arguments.d/ARG-018.md) v3 | Illusions, reappraisal and interoceptive inference show that experience is constituted by interpretive organization | The owner's examples at U2 of the exchange of 2026-10-21, the rubber hand illusion and CBT, with interoceptive inference added by the record, offered as evidence that experience is constituted by interpretive organization. They are what a production account predicts too. A7's verdict, which [CLAIM-412](../../../record/claims.d/CLAIM-412.md) adopted: "These motivate interpretive construction. They do not, individually or collectively, prove interpretive constitution." Standing of the conclusion apart from this route: CLAIM-412, Proposed, holds it, open, and none of the readings the record holds either supports the identity or shows it false. | Rejected |
+| [ARG-202](../../../record/arguments.d/ARG-202.md) | The split-brain findings de Haan et al. restate, as evidence from a disconnected brain, show that access to one content can be compartmented within one agent, and leave open whether experience is | Whether the split-brain review ([THEORY-2229](../../../record/theory.d/THEORY-2229.md), read in [NOTE-2319](../../../record/notes.d/NOTE-2319.md)) supports [CLAIM-003](../../../record/claims.d/CLAIM-003.md). It supports the access half, in a disconnected brain: a content's identity reaches some operations and not others while detection and response stay unified, in what most of its authors take to be one agent. It does not reach the experiential half, which the authors hold undecided, and it is not the intact-brain recording [QUESTION-061](../../../record/questions.d/QUESTION-061.md) asks for. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

@@ -151,7 +151,7 @@ edge.
 
 This claim asserts that self-prediction creates the overlap between
 interests that govern a choice at different times. Khan and Dhar
-([LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), read for [LEAD-078](../leads.d/LEAD-078.md)) bear on it as background: people
+([LIT-3113](../literature.d/LIT-3113.md), read for [LEAD-078](../leads.d/LEAD-078.md)) bear on it as background: people
 predict a more virtuous next choice than they make (67% against 36%), and
 a recurring choice not seen as a precedent lowers self-control now.
 Predicting one's later choice is thus something people do and act on, but

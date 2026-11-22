@@ -43,7 +43,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpz762n CLAIM-tmpnc1mf — new; the run and the alternative reading -->
-<!-- inactive-ok-file: CASE-239 CASE-241 CLAIM-648 CLAIM-tmp974nn — Proposed or new; the study design whose defeater is read, and the claim and objection on whose terms the result is read -->
+<!-- inactive-ok-file: CASE-239 CASE-241 CLAIM-648 CLAIM-920 — Proposed or new; the study design whose defeater is read, and the claim and objection on whose terms the result is read -->
 
 # CLAIM-tmphrp1s: That the forager's gains vanish when its energy account is replaced by a matched score does not count against endogenous revision: it shows the learned warnings bound to the condition of the forager's own dissolution, which is what the proposed study's main threat asks for, and the study's second defeater as worded is met by every learner and so cannot tell endogenous criteria from supplied ones
 
@@ -68,7 +68,7 @@ chooses.**
    score does not (0 and 0). The gains are carried by the tie to dissolution,
    which is the bar.
 3. **On the record's terms.** [CLAIM-648](CLAIM-648.md) needs a profile set by the system's
-   own upkeep; the objection [CLAIM-tmp974nn](CLAIM-tmp974nn.md) grants that a profile stabilized
+   own upkeep; the objection [CLAIM-920](CLAIM-920.md) grants that a profile stabilized
    by the system's own past upkeep, through learning, is a norm on the
    selection-based account. The learner's warnings are of that kind: what it
    came to warn on was fixed by what its own energy account did.

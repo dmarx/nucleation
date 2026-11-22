@@ -10,9 +10,9 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note records what the worker for this lead did on
-    2026-11-22: the estimators, interval and test (CLAIM-tmp1o9d0), their
+    2026-11-22: the estimators, interval and test (CLAIM-937), their
     check by enumeration and simulation and the application to LIT-842's
-    printed systems (CASE-tmpl6unn), and why LIT-851 could not be used.
+    printed systems (CASE-359), and why LIT-851 could not be used.
     Status and stage unchanged; marking it done is the owner's.
 stage: idea
 priority: medium
@@ -31,7 +31,7 @@ advances:
 summary: >-
   Named in [CLAIM-235](../claims.d/CLAIM-235.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-tmp1o9d0 CASE-tmpl6unn — new; what LEAD-072 filed on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-937 CASE-359 — new; what LEAD-072 filed on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-072: Build signalling estimators with bias correction and a stated sampling error, or a signalling test with a stated null, and apply them to the published systems with their occurrence counts
@@ -54,7 +54,7 @@ judgement of the published tests be made.
 ## Note of 2026-11-22: what was done, and what remains
 
 The worker for this lead derived the estimators and the test and checked
-them ([CLAIM-tmp1o9d0](../claims.d/CLAIM-tmp1o9d0.md), [CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md); scratch/studies/lead-072).
+them ([CLAIM-937](../claims.d/CLAIM-937.md), [CASE-359](../cases.d/CASE-359.md); scratch/studies/lead-072).
 
 - **No unbiased estimator of Δ exists** at any finite count, since Δ is
   not a polynomial in the probabilities; "bias correction" can only

@@ -241,14 +241,14 @@ names it among its candidate readings, and the relation is now written.
 
 ## Note of 2026-11-22: the etiological side, read
 
-<!-- inactive-ok-block: THEORY-tmpfugkf THEORY-tmpuzicj CLAIM-tmp974nn CLAIM-648 — Proposed; readings and objection filed for LEAD-018, and the claim the objection is to -->
+<!-- inactive-ok-block: THEORY-2234 THEORY-2235 CLAIM-920 CLAIM-648 — Proposed; readings and objection filed for LEAD-018, and the claim the objection is to -->
 This account's case against etiology, the lion's duplicate with no
 functions, is the Swampman objection that the SEP survey of
-teleosemantics reports ([THEORY-tmpuzicj](THEORY-tmpuzicj.md), §4.2). The survey also reports
+teleosemantics reports ([THEORY-2235](THEORY-2235.md), §4.2). The survey also reports
 two replies this entry's text does not meet: that the intuition is false
 of function's real nature (Millikan, Neander), and that it is true but
 irrelevant to a claim about the actual world (Papineau). Millikan's
 "selection through learning", in which a system's parts "maintain their
-current settings" ([THEORY-tmpfugkf](THEORY-tmpfugkf.md)), is the nearest the etiological side
-comes to function from upkeep. A contrast, with no edge: [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md)
+current settings" ([THEORY-2234](THEORY-2234.md)), is the nearest the etiological side
+comes to function from upkeep. A contrast, with no edge: [CLAIM-920](../claims.d/CLAIM-920.md)
 applies the difference to [CLAIM-648](../claims.d/CLAIM-648.md). The status is unchanged.

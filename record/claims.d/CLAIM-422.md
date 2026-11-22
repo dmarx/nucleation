@@ -76,7 +76,7 @@ complements:
 - CLAIM-465
 - CLAIM-587
 ---
-<!-- inactive-ok-file: CASE-tmp4f2jr THEORY-tmppzw1a — new; filed for LEAD-124 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-314 THEORY-2211 — new; filed for LEAD-124 on 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2088 — Unfetched; Tatel and Ackerman (2025), cited from the reading of 2026-11-04 as the article the dissertation precedes -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -198,4 +198,4 @@ instances).
 
 ## Note of 2026-11-22: decay by task type
 
-Supported, unchanged. In the posted data of Tatel & Ackerman's meta-analysis ([CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md)), real-world procedures lose accuracy with disuse more slowly than laboratory tasks, but medical and dental procedures still lose it measurably (0.04 SD a month), so a trained procedure is not a maintained capacity. Corroborated by [THEORY-tmppzw1a](../theory.d/THEORY-tmppzw1a.md). No status change.
+Supported, unchanged. In the posted data of Tatel & Ackerman's meta-analysis ([CASE-314](../cases.d/CASE-314.md)), real-world procedures lose accuracy with disuse more slowly than laboratory tasks, but medical and dental procedures still lose it measurably (0.04 SD a month), so a trained procedure is not a maintained capacity. Corroborated by [THEORY-2211](../theory.d/THEORY-2211.md). No status change.

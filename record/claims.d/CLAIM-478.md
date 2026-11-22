@@ -2,7 +2,7 @@
 number: 478
 status: Proposed
 formerly:
-- CLAIM-tmpmx2ql
+- CLAIM-478
 title: 'Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another'
 version: 5
 history:
@@ -103,7 +103,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-tmpgdriu THEORY-tmpq02z9 THEORY-tmpqdy16 THEORY-tmpkt3xf THEORY-tmpp4w4k THEORY-tmp31kx6 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq THEORY-tmpmvcnr THEORY-tmp0d58z ARG-tmp5xhiv — Proposed or new; the reading of Ott and Antonsen for LEAD-094 and the verdict filed from it -->
-<!-- inactive-ok-file: THEORY-tmpdfeto NOTE-tmpcjw5n — Proposed or Skimmed; the reading of Toner and Tu (1998), 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2199 NOTE-2285 — Proposed or Skimmed; the reading of Toner and Tu (1998), 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-755 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
@@ -535,7 +535,7 @@ classify, is [CLAIM-826](CLAIM-826.md). No status change.
 
 ## Note of 2026-11-22: Toner and Tu (1998), read
 
-The long paper ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md))
+The long paper ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-2285](../notes.d/NOTE-2285.md); the reading is [THEORY-2199](../theory.d/THEORY-2199.md))
 **supports the claim's first half for a flock, as the 1995 letter did**
 ([NOTE-1228](../notes.d/NOTE-1228.md)): the speed fluctuation is slaved to the density gradient,
 δv∥ = −Dρ∂∥δρ, by neglecting ∂tδv∥ "relative to αδv∥" (eqs. 3.1–3.2,
@@ -543,7 +543,7 @@ p. 19), so the fast variable settles into a relation that constrains the
 slow ones. It adds the authors' own word for the slow transverse modes,
 "Goldstone modes" (abstract), which mix with the conserved density to
 make sound: the claim's "organization can make new rate differences",
-by symmetry breaking. [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) `corroborates` the claim. No status
+by symmetry breaking. [THEORY-2199](../theory.d/THEORY-2199.md) `corroborates` the claim. No status
 change.
 
 ## Note of 2026-11-22: Ott and Antonsen, read

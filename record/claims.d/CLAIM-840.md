@@ -41,7 +41,7 @@ summary: >-
   conjecture is the owner's, at U5.
 ---
 <!-- inactive-ok-file: CLAIM-845 CLAIM-829 CASE-303 CASE-305 ARG-136 CLAIM-832 CLAIM-769 — Proposed or new; the readings, cases and claims filed with this one from the same exchange, and a held claim cited as a contrast -->
-<!-- inactive-ok-file: THEORY-tmpczldx — Proposed; the reading of Beck and Cohen, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2176 — Proposed; the reading of Beck and Cohen, 2026-11-22 -->
 
 # CLAIM-840: Where criticality and power laws go together, the distribution often shows, below the transition, a bulk of probability mass separated from a long tail of low mass
 
@@ -92,7 +92,7 @@ A's example bears out.
 
 ## Note of 2026-11-22: Beck and Cohen, read
 
-Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md))
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-2265](../notes.d/NOTE-2265.md); [THEORY-2176](../theory.d/THEORY-2176.md))
 **support "What it does not say"**, a parallel with no edge: their gamma
 superstatistics gives a q-exponential, a Boltzmann bulk with a power-law
 tail (1 + bE)^(−c), with no transition anywhere. Its one knob is the

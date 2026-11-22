@@ -36,7 +36,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: a computed candidate for what must stay
-    causally continuous, from CASE-tmpgfgy2. The question is unchanged.
+    causally continuous, from CASE-320. The question is unchanged.
 tags:
 - individuation
 - social-ontology
@@ -53,7 +53,7 @@ summary: >-
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
 ---
-<!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq — new, filed 2026-11-22 from LEAD-167's computation -->
+<!-- inactive-ok-file: CASE-320 CLAIM-884 — new, filed 2026-11-22 from LEAD-167's computation -->
 <!-- inactive-ok-file: THEORY-1814 THEORY-1819 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
@@ -263,7 +263,7 @@ interests. Filed as `bears_on`. The question is unchanged.
 
 ## Note of 2026-11-22: a computed candidate for the continuity criterion
 
-The bearing of [CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md) on this question is slight. In its model a patch of cells
+The bearing of [CASE-320](../cases.d/CASE-320.md) on this question is slight. In its model a patch of cells
 is now and then refounded from a single cell of the other patch: a similar
 collective produced anew, not the old one continuing. Bourrat's Â counts
 only propagation from the patch's own past, so refounding lowers it. His C2
@@ -273,7 +273,7 @@ outside the patch.
 That is one computable candidate for what must stay causally continuous: the
 channel from the collective's state to its next state, held invariant under
 interventions on the rest. The computation also shows its weakness
-([CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md)). A boundary drawn to take in an external scaffold passes it
+([CLAIM-884](../claims.d/CLAIM-884.md)). A boundary drawn to take in an external scaffold passes it
 before the cells hold the collective together at all.
 
 The question is unchanged and stays Open.

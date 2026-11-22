@@ -27,7 +27,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpw4qgu THEORY-tmp6jdas — Proposed; the readings of 2026-11-22 cited in the note -->
+<!-- inactive-ok-file: THEORY-2173 THEORY-2169 — Proposed; the readings of 2026-11-22 cited in the note -->
 <!-- inactive-ok-file: ARG-127 CLAIM-817 CLAIM-830 CLAIM-803 CLAIM-824 — Rejected, Proposed or new; the argument this question comes from and the candidate mechanisms -->
 
 # QUESTION-506: Does cumulative advantage shape the upper tail of the city-size distribution even where relative city sizes return to their prior paths after a large temporary shock?
@@ -66,8 +66,8 @@ The wording is the assistant's (Claude, in this session); adopting it is the own
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-Their paper ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is
-[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) gives the record's first fitted city tail, and **leaves
+Their paper ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-2262](../notes.d/NOTE-2262.md); the reading is
+[THEORY-2173](../theory.d/THEORY-2173.md)) gives the record's first fitted city tail, and **leaves
 the question open while sharpening it**.
 
 - **The datum.** Data set (m), "The human populations of US cities in the
@@ -93,7 +93,7 @@ the question open while sharpening it**.
   580 of 19,447 cities (3.0%), and it does not bear on Japan or on the
   return to prior paths.
 
-[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md) `bears_on` this question. Newman's review
-([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) calls the Yule process "the most widely accepted theory"
+[THEORY-2173](../theory.d/THEORY-2173.md) `bears_on` this question. Newman's review
+([THEORY-2169](../theory.d/THEORY-2169.md)) calls the Yule process "the most widely accepted theory"
 for city populations (p. 19), a judgement from fit and plausibility which
 this datum does not support over the lognormal.

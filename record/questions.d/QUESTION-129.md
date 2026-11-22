@@ -41,7 +41,7 @@ summary: >-
   it. An answer is a principled constraint on which standpoints have
   authority that does not presuppose a normative standard.
 ---
-<!-- inactive-ok-file: THEORY-tmpdrt3r THEORY-tmptsyn2 THEORY-tmpnit00 CLAIM-tmp8g26d — Proposed; the readings and the objection filed for LEAD-158 -->
+<!-- inactive-ok-file: THEORY-2268 THEORY-2274 THEORY-2272 CLAIM-987 — Proposed; the readings and the objection filed for LEAD-158 -->
 <!-- inactive-ok-file: LIT-1228 — Unfetched; Massimi's book, read through its author's primer -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 
@@ -165,13 +165,13 @@ No status changes.
 Three works [LEAD-158](../leads.d/LEAD-158.md) named are read, and each now `bears_on` this
 question.
 
-- **Leffler** ([THEORY-tmpdrt3r](../theory.d/THEORY-tmpdrt3r.md)): evidence for the "No" on one route. A
+- **Leffler** ([THEORY-2268](../theory.d/THEORY-2268.md)): evidence for the "No" on one route. A
   standard grounded in what an agent or organization is binds only what
   is so constituted; "categoricity as constitution independence" is out
   of reach (p. 21). A criterion of authority between an institution and
   its members (A18 §4) cannot come from their constitutions. Reading (a),
-  [CLAIM-tmp8g26d](../claims.d/CLAIM-tmp8g26d.md), states it for organizations.
-- **Massimi** ([THEORY-tmptsyn2](../theory.d/THEORY-tmptsyn2.md), from her primer; the book, [LIT-1228](../literature.d/LIT-1228.md), is
+  [CLAIM-987](../claims.d/CLAIM-987.md), states it for organizations.
+- **Massimi** ([THEORY-2274](../theory.d/THEORY-2274.md), from her primer; the book, [LIT-1228](../literature.d/LIT-1228.md), is
   still unread): a candidate "Partial" answer, for knowledge. "No
   particular community can sanction the reliability of their own claims
   of knowledge or justify such reliability by their own lights";
@@ -180,7 +180,7 @@ question.
   any one standpoint's constitution, which is why it escapes Leffler's
   relativism. It is about which claims are reliable, not which standards
   bind, and whether it carries over is this question.
-- **Monnier et al.** ([THEORY-tmpnit00](../theory.d/THEORY-tmpnit00.md)): weak. Meta-metrics for
+- **Monnier et al.** ([THEORY-2272](../theory.d/THEORY-2272.md)): weak. Meta-metrics for
   intersectional fairness are a case of standards that are "equally
   legitimate" in context, with the choice handed to domain deliberation;
   no constraint on authority is offered.

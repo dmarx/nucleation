@@ -54,7 +54,7 @@ summary: >-
   what the claim must exclude. The hypothesis is the owner's; the wording
   and its test are A's, and adopting them is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpb4hg0 CLAIM-tmp6rhuv — new; the run of LEAD-172 and its finding, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-331 CLAIM-900 — new; the run of LEAD-172 and its finding, filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2021 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-022 THEORY-1872 THEORY-1895 CLAIM-696 CASE-272 CASE-274 — Proposed or new; the held case and the entries filed with this one -->
 
@@ -139,6 +139,6 @@ No status change.
 
 ## Note of 2026-11-22: a first executed test, in the easiest setting
 
-[LEAD-172](../leads.d/LEAD-172.md)'s reduced run of [CASE-272](../cases.d/CASE-272.md) ([CASE-tmpb4hg0](../cases.d/CASE-tmpb4hg0.md)) is the claim's first executed prospective test. The setting is 25 attention-free networks on addition mod 37. The modes are the task's Fourier characters and the couplings are those its selection rule names. Measured early, their share of the network's input-to-output energy forecasts generalization time under a held-out weight decay. It forecasts better than Fourier sparsity (a feature-level account), test-set performance and the training kernel, fitted on the same arms. It also forecasts better than every random coupling set of the same size, which answers the defeater's worry about artefacts of the chosen basis for this case ([CLAIM-tmp6rhuv](CLAIM-tmp6rhuv.md)).
+[LEAD-172](../leads.d/LEAD-172.md)'s reduced run of [CASE-272](../cases.d/CASE-272.md) ([CASE-331](../cases.d/CASE-331.md)) is the claim's first executed prospective test. The setting is 25 attention-free networks on addition mod 37. The modes are the task's Fourier characters and the couplings are those its selection rule names. Measured early, their share of the network's input-to-output energy forecasts generalization time under a held-out weight decay. It forecasts better than Fourier sparsity (a feature-level account), test-set performance and the training kernel, fitted on the same arms. It also forecasts better than every random coupling set of the same size, which answers the defeater's worry about artefacts of the chosen basis for this case ([CLAIM-900](CLAIM-900.md)).
 
 It does not meet the claim's criterion in full. There is no circuit-attribution, gating or parameter-overlap comparator. There is no transformer. The modes are given by a symmetry, not found. No measure foresaw the runs that failed to generalize. What held the claim back on 2026-11-18 is now partly met, for one task. No status change.

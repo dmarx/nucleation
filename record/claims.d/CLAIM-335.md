@@ -64,7 +64,7 @@ summary: >-
   failure from [CLAIM-333](CLAIM-333.md)'s, prediction against intervention. It leaves
   transfer entropy standing as a predictive quantity.
 ---
-<!-- inactive-ok-file: ARG-tmp94chy THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: ARG-185 THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-335: Transfer entropy measures directed predictive improvement, not information flow: as a conditional mutual information it is the source's unique information about the target's next value plus its synergy with the target's past, so it can credit a source with a bit the source carries only jointly and read zero from sources that jointly fix the target, and conditioning on more series does not remove the synergy
 
@@ -153,8 +153,8 @@ that jointly fix the target". A7 rightly did not commit to a PID measure.
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **supports, by a
-sibling measure** ([THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md) corroborates this claim; [ARG-tmp94chy](../arguments.d/ARG-tmp94chy.md)).
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-2275](../notes.d/NOTE-2275.md), [THEORY-2187](../theory.d/THEORY-2187.md)): **supports, by a
+sibling measure** ([THEORY-2187](../theory.d/THEORY-2187.md) corroborates this claim; [ARG-185](../arguments.d/ARG-185.md)).
 SURD's "causality" is predictive information about a target's future:
 "causal relationships emerge as a result of transitional probabilities
 between states" (p. 12). Yet the paper reads its forward unique terms as

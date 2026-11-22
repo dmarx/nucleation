@@ -9,10 +9,10 @@ history:
 - version: 2
   date: '2026-11-21'
   note: >-
-    After the reading of Hoogland et al. (LIT-2966, NOTE-tmp2pgi8): the
+    After the reading of Hoogland et al. (LIT-2966, NOTE-2248): the
     sentence calling the work unread updated, its ground changed from the
-    work to the reading (THEORY-tmpr9w2r), and a dated note added
-    (ARG-tmpfh555). Title and thesis unchanged.
+    work to the reading (THEORY-2160), and a dated note added
+    (ARG-156). Title and thesis unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -38,9 +38,9 @@ grounds:
 - THEORY-087
 - THEORY-1275
 - THEORY-975
-- THEORY-tmpr9w2r
+- THEORY-2160
 bears_on:
-- QUESTION-tmphkb1w
+- QUESTION-518
 - QUESTION-363
 - QUESTION-217
 - QUESTION-514
@@ -56,9 +56,9 @@ summary: >-
   the exchange "Rich Get Richer Power Laws", A37); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpu0f9k THEORY-tmpm3ux2 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2193 THEORY-2191 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-834 CLAIM-802 ARG-132 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
-<!-- inactive-ok-file: CLAIM-812 THEORY-2157 THEORY-tmpr9w2r ARG-tmpfh555 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: CLAIM-812 THEORY-2157 THEORY-2160 ARG-156 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-823: Alternative reading (b) of the owner's suggestion on singularities: a phase transition in learning is a change in which singular region of parameter space dominates, as the sample size grows, between regions that fit differently and have different learning coefficients, and resolution of singularities is the tool that computes those coefficients
 
@@ -91,7 +91,7 @@ representational development are such switches, or at least leave their
 mark in local learning coefficients. The record holds one reading in
 favour: weight-refined coefficients of attention heads diverge by function
 over training ([THEORY-975](../theory.d/THEORY-975.md)). Hoogland and colleagues ([LIT-2966](../literature.d/LIT-2966.md),
-read 2026-11-21: [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)) report stagewise changes in the
+read 2026-11-21: [THEORY-2160](../theory.d/THEORY-2160.md)) report stagewise changes in the
 coefficient in two small transformers; see the note below.
 
 ## What it does not say
@@ -122,7 +122,7 @@ itself has no dynamical content beyond its Outlook.
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
 Supports the claim's weak half, leaves its strong half untested, and
-qualifies it ([ARG-tmpfh555](../arguments.d/ARG-tmpfh555.md); [NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)).
+qualifies it ([ARG-156](../arguments.d/ARG-156.md); [NOTE-2248](../notes.d/NOTE-2248.md), [THEORY-2160](../theory.d/THEORY-2160.md)).
 
 - **The weak half, supported in two small models.** Plateaus of the
   estimated coefficient divide training of a two-layer attention-only
@@ -139,7 +139,7 @@ qualifies it ([ARG-tmpfh555](../arguments.d/ARG-tmpfh555.md); [NOTE-tmp2pgi8](..
 - **The decreases qualify it.** Three stages lower the estimate (LM3,
   LR3, LR4). A crossover to a richer, higher-λ region, this claim's
   transition, produces increases; the authors call a full account "an open
-  problem" (§8). The decreases are [QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md).
+  problem" (§8). The decreases are [QUESTION-518](../questions.d/QUESTION-518.md).
 - **The estimator.** nβ is 21.7 and 66.7, not n/log n, with γ fixed, so a
   rise can be directions stiffening past the estimator's cut-off as much
   as a change of region ([CLAIM-812](CLAIM-812.md)).
@@ -149,7 +149,7 @@ filing of the other readings of this batch.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, and Yang, read
 
-- **Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)): supports the weak half by the same
+- **Lee et al. ([THEORY-2191](../theory.d/THEORY-2191.md)): supports the weak half by the same
   analogy; leaves the strong half open.** The paper adopts this reading's
   picture, phases competing in a local free energy nL + λ log n with
   first-order transitions between them (A.2), and uses it to predict
@@ -159,6 +159,6 @@ filing of the other readings of this batch.
   adds that at equal loss a "Type-B" transition lowers the LLC (A.2),
   which is the qualification this claim's earlier note records. An
   analogy; no edge.
-- **Yang ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)): contrast.** No crossover in n; a training-time
+- **Yang ([THEORY-2193](../theory.d/THEORY-2193.md)): contrast.** No crossover in n; a training-time
   bifurcation in one parameter of a detached probe, on the dynamical side
   of the transitions this claim keeps apart.

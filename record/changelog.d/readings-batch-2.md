@@ -1,7 +1,7 @@
 ### Added
 
 - The second batch of readings from "Rich Get Richer Power Laws": eight works on singular dynamics, sloppiness and small directions, all read. They are Gutenkunst et al., MBAM, Amari et al. 2006, Wei et al. 2008, Song et al., Xu, "Concepts Whisper" and Hoogland et al.
-  - **New:** a demonstrated inequality ([CLAIM-tmp6odrj](record/claims.d/CLAIM-tmp6odrj.md)), the Park-map claim resting on it, and a question on learning-coefficient decreases.
+  - **New:** a demonstrated inequality ([CLAIM-853](record/claims.d/CLAIM-853.md)), the Park-map claim resting on it, and a question on learning-coefficient decreases.
   - **Registered Deferred:** sixteen works.
   - **The account:** the curation entry of 2026-11-21, second batch of readings.
 

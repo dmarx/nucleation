@@ -11,7 +11,7 @@ history:
   note: >-
     Note of 2026-11-22 added: A13's three organizations were built and a
     registration measure that does not read the setting was run on them
-    (CASE-tmp9e5vf, CLAIM-tmpphfb4). Status and stage are unchanged;
+    (CASE-355, CLAIM-934). Status and stage are unchanged;
     marking the lead Done is the owner's call.
 stage: idea
 priority: medium
@@ -27,11 +27,11 @@ line:
 advances:
 - QUESTION-270
 operationalized_in:
-- CASE-tmp9e5vf
+- CASE-355
 summary: >-
   Named in [QUESTION-270](../questions.d/QUESTION-270.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmp9e5vf CLAIM-tmpphfb4 — new, filed by this lead's run -->
+<!-- inactive-ok-file: CASE-355 CLAIM-934 — new, filed by this lead's run -->
 
 # LEAD-017: Extend the synthetic separation with three organizations of matched behaviour and different endorsement relations, measuring registration apart from the experimenter's setting
 
@@ -53,7 +53,7 @@ Registration measured independently meets the second requirement of
 ## Note of 2026-11-22: the three organizations built, and registration measured
 
 Carried out by the assistant at the coordinator's brief
-(scratch/studies/lead-017/). [CASE-tmp9e5vf](../cases.d/CASE-tmp9e5vf.md) builds three synthetic
+(scratch/studies/lead-017/). [CASE-355](../cases.d/CASE-355.md) builds three synthetic
 organizations calibrated to the same pursuit of an outcome that grows
 unpleasant: one denying uptake to a registered evaluation, one
 accommodating it under a tolerance that compensation widens, one never
@@ -62,7 +62,7 @@ at random and reads the organization's record, holding the outcome, the
 action and the pursuing process's value fixed; it never reads the
 registration setting. On held-out agents it told registered from
 unregistered without error, where behaviour could not, and resisted a
-decoy that fooled a passive reading. That is [CLAIM-tmpphfb4](../claims.d/CLAIM-tmpphfb4.md).
+decoy that fooled a passive reading. That is [CLAIM-934](../claims.d/CLAIM-934.md).
 
 What would count, "registration measured independently", is met within
 the stipulated model. What remains:

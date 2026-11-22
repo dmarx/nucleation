@@ -112,9 +112,9 @@ The second synthesis review found the integration this question asks for already
 
 [LEAD-145](../leads.d/LEAD-145.md) registered and read standard treatments of the two bodies named
 in the curation entry of 2026-11-05 as unregistered: dual control
-([LIT-tmpbta8p](../literature.d/LIT-tmpbta8p.md), Meijer and Rantzer, 2026, in
-[NOTE-tmpk22nd](../notes.d/NOTE-tmpk22nd.md)) and the value of information
-([LIT-tmpkun97](../literature.d/LIT-tmpkun97.md), Whitmeyer, 2024, in [NOTE-tmp16xnt](../notes.d/NOTE-tmp16xnt.md)).
+([LIT-3129](../literature.d/LIT-3129.md), Meijer and Rantzer, 2026, in
+[NOTE-2352](../notes.d/NOTE-2352.md)) and the value of information
+([LIT-3131](../literature.d/LIT-3131.md), Whitmeyer, 2024, in [NOTE-2354](../notes.d/NOTE-2354.md)).
 Both bear on the question's third part, where observing and acting draw on
 one resource.
 

@@ -48,6 +48,7 @@ draws_on:
 - THEORY-850
 - THEORY-837
 ---
+<!-- inactive-ok-file: CASE-tmpd80em CLAIM-tmpz8q70 — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-656 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-1324 — Unavailable; Stigler, named as a source the replies cited that no lawful copy reached -->
 
@@ -152,3 +153,7 @@ not the party the newsroom evaluates, but "the platform or advertising
 market through which the newsroom obtains resources". The newsroom "can
 remain formally independent while gradually adopting the platform's criteria
 of success" ([CLAIM-656](../claims.d/CLAIM-656.md)).
+
+## Note of 2026-11-22: the two-institution loop, derived for one model
+
+"the two-institution loop has not been derived" (What it cannot show) now has one derivation: [LEAD-015](../leads.d/LEAD-015.md)'s [CASE-tmpd80em](CASE-tmpd80em.md) couples two reduced [CASE-092](CASE-092.md) institutions through this case's informational channel (the evaluated party's lean tilting the evidence the evaluator reads) and A21's return channel (the evaluator's reading redistributing resources and authority in the party). [CLAIM-tmpz8q70](../claims.d/CLAIM-tmpz8q70.md) states what follows for this case's two routes: the evidence route and a resource route each close the loop without the other, and an evaluator independent in its procedure is captured all the same. The case is unchanged.

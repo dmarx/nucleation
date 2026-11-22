@@ -2,7 +2,7 @@
 number: 626
 status: Proposed
 formerly:
-- CLAIM-tmpwp3ru
+- CLAIM-626
 title: 'Critical slowing has no single organizational meaning: when a collective mode slows, reduction to it improves; when the mode that restores a collective relation slows, as two detuned phase oscillators near the edge of locking, the reduction fails while the locked state still exists; when the maintenance of the coupling slows, the reduction stays good while the organization nears its fold'
 version: 1
 role: thesis
@@ -46,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim whose second half is the collective arm, cited as open -->
 <!-- inactive-ok-file: CLAIM-841 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws", Proposed -->
 
-<!-- inactive-ok-file: THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2168 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
 
 # CLAIM-626: Critical slowing has no single organizational meaning: when a collective mode slows, reduction to it improves; when the mode that restores a collective relation slows, as two detuned phase oscillators near the edge of locking, the reduction fails while the locked state still exists; when the maintenance of the coupling slows, the reduction stays good while the organization nears its fold
 
@@ -127,7 +127,7 @@ class (Hohenberg and Halperin's classification, named and not held).
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-A parallel ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md), [THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)). In a branching network read
+A parallel ([NOTE-2259](../notes.d/NOTE-2259.md), [THEORY-2168](../theory.d/THEORY-2168.md)). In a branching network read
 out over a finite window, critical slowing is the loss term: slowed
 population fluctuations outlast the readout's window and blur the
 discrimination of inputs, so the optimum sits below the transition. One

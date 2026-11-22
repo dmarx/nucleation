@@ -2,7 +2,7 @@
 number: 327
 status: Proposed
 formerly:
-- CLAIM-tmp11auq
+- CLAIM-327
 title: 'A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective''s dynamics and not only an observer''s average when its members read it, condition what they do on it, and by doing so regenerate it'
 version: 2
 history:

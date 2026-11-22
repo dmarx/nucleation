@@ -10,7 +10,7 @@ history:
   date: '2026-11-22'
   note: >-
     Edited in place on 2026-11-22: sense 1 now says that Broido and
-    Clauset (THEORY-tmphcnj3) test a narrower sense, an exact power law
+    Clauset (THEORY-2172) test a narrower sense, an exact power law
     above k_min, and that the dispute over their verdict turns on it;
     the rank-spectrum bullet names Stringer and others' V1 code
     (LIT-2972) as an instance. The definition is unchanged.
@@ -24,7 +24,7 @@ line:
 complements:
 - TERM-139
 draws_on:
-- THEORY-tmphcnj3
+- THEORY-2172
 summary: >-
   Three things the exchange "Rich Get Richer Power Laws" calls scale-free,
   kept apart: a one-point distribution whose tail is a power law, a law of
@@ -39,9 +39,9 @@ summary: >-
   assistant's. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the reading whose narrower usage this term is set against -->
-<!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; the reply to Broido and Clauset, registered and unread -->
+<!-- inactive-ok-file: THEORY-2179 — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2172 — Proposed; the reading whose narrower usage this term is set against -->
+<!-- inactive-ok-file: LIT-3041 — Deferred; the reply to Broido and Clauset, registered and unread -->
 <!-- inactive-ok-file: CLAIM-846 CLAIM-841 CLAIM-850 CLAIM-810 — filed with this term on 2026-11-21, Proposed -->
 <!-- inactive-ok-file: THEORY-803 — Proposed; the record's one reading of statistical self-similarity, named as an instance -->
 
@@ -59,7 +59,7 @@ is meant must be said, because they come apart.
    P(X > bx | X > x) → b^(−α) whatever x is (A8 §4, A10 §7). This is the
    sense the exchange opened with (A1), and the sense of "scale-free
    network" in its broad form. Broido and Clauset test a narrower one, an
-   exact power law above k_min with no L(x) ([THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)), and the
+   exact power law above k_min with no L(x) ([THEORY-2172](../theory.d/THEORY-2172.md)), and the
    dispute over their verdict turns on the difference (see the note of
    2026-11-22). It says how often large values occur and nothing about how
    values at different places, times or scales are related.
@@ -146,24 +146,24 @@ bullet names [LIT-2972](../literature.d/LIT-2972.md) as an instance. Version 2.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-**A contrast** ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is
-[THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)). The paper's "scale-free network" is a degree
+**A contrast** ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-2263](../notes.d/NOTE-2263.md); the reading is
+[THEORY-2172](../theory.d/THEORY-2172.md)). The paper's "scale-free network" is a degree
 distribution that is exactly Pr(k) ∝ k^(−α) above k_min, with the body
 discarded and no slowly varying correction. That is narrower than sense
-1. Voitalov, van der Hoorn, van der Hofstad and Krioukov ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md),
+1. Voitalov, van der Hoorn, van der Hofstad and Krioukov ([LIT-3041](../literature.d/LIT-3041.md),
 registered, unread) contest the verdict from sense 1 itself: by their
 abstract, they define a power-law distribution as a regularly varying
 one, which "allows the distribution to deviate from a pure power law
 arbitrarily but without affecting the power-law tail exponent", and find
 real scale-free networks "definitely not as rare". So the term should be
 read with its L(x): a claim that networks are, or are not, scale free in
-sense 1 is not settled by a test of an exact power law. [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)
+sense 1 is not settled by a test of an exact power law. [THEORY-2172](../theory.d/THEORY-2172.md)
 is in `draws_on` as the usage this sense is set against.
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
 **An instance of two senses at once.** Bak, Tang and Wiesenfeld
-([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md), [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) report the sandpile as
+([LIT-2992](../literature.d/LIT-2992.md), [NOTE-2269](../notes.d/NOTE-2269.md), [THEORY-2179](../theory.d/THEORY-2179.md)) report the sandpile as
 scale-free in sense 1, a cluster-size distribution D(s) ~ s^(−τ), and in
 sense 3, a spectrum S(ω) ≈ ω^(−1.58) in 2D (pp. 383–384), and derive the
 second from the first through the lifetime distribution, Eq. (2). So a

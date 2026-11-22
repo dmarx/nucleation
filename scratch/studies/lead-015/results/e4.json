@@ -1,0 +1,97 @@
+{
+ "below": {
+  "theta": 0.4,
+  "psi": 1.0,
+  "round_trip": 0.5917159763313612,
+  "condition": false,
+  "reduced_fixed_point": [
+   4.259513273678296e-12,
+   3.8342422114951675e-12,
+   4.518296912881182e-12,
+   8.859991580164573e-12
+  ],
+  "mean_abs_mE": 0.05278506759145843,
+  "mean_abs_mP": 0.05011153378202646,
+  "max_abs_mE": 0.215660091981174,
+  "captured_share": 0.005,
+  "capture_threshold": 0.19020738663252013,
+  "same_sign_share": 0.875,
+  "seconds": 5.806695461273193
+ },
+ "near_below": {
+  "theta": 0.6,
+  "psi": 1.0,
+  "round_trip": 0.8875739644970417,
+  "condition": false,
+  "reduced_fixed_point": [
+   2.089362229389048e-11,
+   1.7194423038642645e-11,
+   1.7302547513077565e-11,
+   3.5732173997796285e-11
+  ],
+  "mean_abs_mE": 0.10881218658184384,
+  "mean_abs_mP": 0.08613886672424519,
+  "max_abs_mE": 0.3460772843466615,
+  "captured_share": 0.155,
+  "capture_threshold": 0.19020738663252013,
+  "same_sign_share": 0.95,
+  "seconds": 5.981916904449463
+ },
+ "above": {
+  "theta": 0.6,
+  "psi": 1.6,
+  "round_trip": 1.420118343195267,
+  "condition": true,
+  "reduced_fixed_point": [
+   0.38041477326504025,
+   0.2952717988601376,
+   0.33573281666492916,
+   0.705038914996996
+  ],
+  "mean_abs_mE": 0.3126468534994412,
+  "mean_abs_mP": 0.2772109401624602,
+  "max_abs_mE": 0.4757579302615575,
+  "captured_share": 0.87,
+  "capture_threshold": 0.19020738663252013,
+  "same_sign_share": 0.985,
+  "seconds": 5.845494270324707
+ },
+ "well_above": {
+  "theta": 0.8,
+  "psi": 2.0,
+  "round_trip": 2.3668639053254448,
+  "condition": true,
+  "reduced_fixed_point": [
+   0.6482237926194971,
+   0.47660256264315903,
+   0.4423337009294763,
+   0.9289007719522605
+  ],
+  "mean_abs_mE": 0.6176755109127843,
+  "mean_abs_mP": 0.4318046265397766,
+  "max_abs_mE": 0.719723332833391,
+  "captured_share": 1.0,
+  "capture_threshold": 0.19020738663252013,
+  "same_sign_share": 1.0,
+  "seconds": 5.969200611114502
+ },
+ "return_cut": {
+  "theta": 0.8,
+  "psi": 0.0,
+  "round_trip": 0.0,
+  "condition": false,
+  "reduced_fixed_point": [
+   1.450886655420602e-12,
+   2.1156255549404297e-12,
+   5.5698850355515304e-14,
+   8.419247120354105e-14
+  ],
+  "mean_abs_mE": 0.03935553068523543,
+  "mean_abs_mP": 0.023005228282259278,
+  "max_abs_mE": 0.17124837654541042,
+  "captured_share": 0.0,
+  "capture_threshold": 0.19020738663252013,
+  "same_sign_share": 0.78,
+  "seconds": 5.8935441970825195
+ }
+}

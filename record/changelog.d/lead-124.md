@@ -1,9 +1,9 @@
 ### Added
 
-- [LIT-tmp6fb6y](record/literature.d/LIT-tmp6fb6y.md), the OSF project holding the coded data and R script of Tatel & Ackerman (2025), registered as a supplement to the unfetched article [LIT-2088](record/literature.d/LIT-2088.md), and read in [NOTE-tmps1muw](record/notes.d/NOTE-tmps1muw.md) ([LEAD-124](record/leads.d/LEAD-124.md)).
-- [CASE-tmp4f2jr](record/cases.d/CASE-tmp4f2jr.md), an executed study: the article's posted data refitted by task type with the authors' specification. It reproduces the abstract's slopes and finds accuracy declining by 0.16 SD a month on laboratory tasks against 0.04 on medical and dental tasks, with every type declining faster over short intervals. Materials are in scratch/studies/lead-124/.
-- [THEORY-tmppzw1a](record/theory.d/THEORY-tmppzw1a.md) (Proposed): Tatel's task-type moderator. Laboratory tasks lose accuracy about three times faster than real-world tasks, and real-world domains differ little.
-- [ARG-tmpbjn5v](record/arguments.d/ARG-tmpbjn5v.md) (Proposed): the task-type split qualifies [CLAIM-558](record/claims.d/CLAIM-558.md)'s disuse premise and does not defeat it.
+- [LIT-3080](record/literature.d/LIT-3080.md), the OSF project holding the coded data and R script of Tatel & Ackerman (2025), registered as a supplement to the unfetched article [LIT-2088](record/literature.d/LIT-2088.md), and read in [NOTE-2301](record/notes.d/NOTE-2301.md) ([LEAD-124](record/leads.d/LEAD-124.md)).
+- [CASE-314](record/cases.d/CASE-314.md), an executed study: the article's posted data refitted by task type with the authors' specification. It reproduces the abstract's slopes and finds accuracy declining by 0.16 SD a month on laboratory tasks against 0.04 on medical and dental tasks, with every type declining faster over short intervals. Materials are in scratch/studies/lead-124/.
+- [THEORY-2211](record/theory.d/THEORY-2211.md) (Proposed): Tatel's task-type moderator. Laboratory tasks lose accuracy about three times faster than real-world tasks, and real-world domains differ little.
+- [ARG-201](record/arguments.d/ARG-201.md) (Proposed): the task-type split qualifies [CLAIM-558](record/claims.d/CLAIM-558.md)'s disuse premise and does not defeat it.
 
 ### Changed
 

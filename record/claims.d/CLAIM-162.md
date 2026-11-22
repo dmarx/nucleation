@@ -69,8 +69,8 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
 <!-- inactive-ok-file: LIT-914 LIT-910 LIT-912 — Unavailable, unread; the flow literature, cited without a reading and named as the weakest footing -->
 <!-- inactive-ok-file: THEORY-067 THEORY-070 — Proposed; the readings this conjecture is set against, with their untested standing stated -->
-<!-- inactive-ok-file: CASE-tmprt0hl CLAIM-tmpwma3v — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmpto8hu THEORY-tmp8q7t4 LIT-tmpptux6 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
+<!-- inactive-ok-file: CASE-382 CLAIM-981 — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2208 THEORY-2207 LIT-3068 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
 
 # CLAIM-162: In flow an activity's immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless
 
@@ -147,9 +147,9 @@ is in the record.
 The second of the two premises above — a fit in which control intensity falls
 with its cost — now has a candidate. Carrying out [LEAD-128](../leads.d/LEAD-128.md), the assistant
 fitted the EVC effort-cost model to cognitive-effort-discounting choices
-([CASE-tmprt0hl](../cases.d/CASE-tmprt0hl.md), finding [CLAIM-tmpwma3v](CLAIM-tmpwma3v.md)): the cost of control rises with
+([CASE-382](../cases.d/CASE-382.md), finding [CLAIM-981](CLAIM-981.md)): the cost of control rises with
 task load and the cost term is required. That intrinsic cost is the one this
-claim says goes unpaid in flow. [CLAIM-tmpwma3v](CLAIM-tmpwma3v.md) corroborates this claim. The
+claim says goes unpaid in flow. [CLAIM-981](CLAIM-981.md) corroborates this claim. The
 fit uses a revealed-choice measure of intensity, not the accumulator
 parameter promote_when (1) names (caveat in the note of 2026-11-22 on
 [THEORY-070](../theory.d/THEORY-070.md)); whether it promotes that ground is the owner's call, and this
@@ -160,17 +160,17 @@ probe within a flow episode) are untouched, so the status is unchanged.
 
 Two experience-sampling studies read for [LEAD-054](../leads.d/LEAD-054.md) bear on this claim only
 as background. Flow is highest where the activity is clearly
-goal-directed ([THEORY-tmp8q7t4](../theory.d/THEORY-tmp8q7t4.md)) and where an outcome matters
-([THEORY-tmpto8hu](../theory.d/THEORY-tmpto8hu.md), outcome importance raising flow at work), which fits an
+goal-directed ([THEORY-2207](../theory.d/THEORY-2207.md)) and where an outcome matters
+([THEORY-2208](../theory.d/THEORY-2208.md), outcome importance raising flow at work), which fits an
 activity's immediate reward and its longer-run value coinciding in flow;
 neither measures whether any interest is overridden. Tavares et al.
-([LIT-tmpptux6](../literature.d/LIT-tmpptux6.md), Unfetched) report effortless attention mediating between
+([LIT-3068](../literature.d/LIT-3068.md), Unfetched) report effortless attention mediating between
 momentary states and optimal experience, by its abstract. No choice probe
 or reversal measure taken during a flow episode was found.
 
 ## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), nothing new for flow
 
 [LEAD-078](../leads.d/LEAD-078.md) named this claim because it rests on [CLAIM-169](CLAIM-169.md). The readings it
-filed (Khan and Dhar, [LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md); Schuhr, [LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md); Ge et al.,
+filed (Khan and Dhar, [LIT-3113](../literature.d/LIT-3113.md); Schuhr, [LIT-3114](../literature.d/LIT-3114.md); Ge et al.,
 [LIT-916](../literature.d/LIT-916.md)) bear on bundling and on mindfulness, not on flow, and leave
 [CLAIM-169](CLAIM-169.md)'s hold as it was. No bearing beyond that; no status change.

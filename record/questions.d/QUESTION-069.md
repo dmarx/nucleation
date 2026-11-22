@@ -17,7 +17,7 @@ summary: >-
   [THEORY-105](../theory.d/THEORY-105.md), [THEORY-107](../theory.d/THEORY-107.md), [THEORY-108](../theory.d/THEORY-108.md), [THEORY-109](../theory.d/THEORY-109.md), [THEORY-110](../theory.d/THEORY-110.md) and
   [THEORY-114](../theory.d/THEORY-114.md) answer it in part; the body gives each one's limit.
 ---
-<!-- inactive-ok-file: CASE-tmphfmrb CLAIM-tmpr7v4j CLAIM-tmpv22hv CLAIM-tmp46m6e — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-385 CLAIM-993 CLAIM-994 CLAIM-992 — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-209 — Proposed; a reading that bears on the regime alternative, open -->
 
 # QUESTION-069: Is the connectedness of trained solutions a property of the solutions, or of the path family searched, the shared history that produced them and the regime they were trained in?
@@ -46,13 +46,13 @@ Phase III runs aligned by permutation, with the barrier measured on several path
 
 ## Note of 2026-11-22: a toy run of what would answer it
 
-[LEAD-157](../leads.d/LEAD-157.md) ran this question's test at toy scale ([CASE-tmphfmrb](../cases.d/CASE-tmphfmrb.md)): numpy MLPs,
+[LEAD-157](../leads.d/LEAD-157.md) ran this question's test at toy scale ([CASE-385](../cases.d/CASE-385.md)): numpy MLPs,
 three path families, four alignments and an exhaustive full-group search at
 width 5. In that toy, connectedness after alignment belongs to width, to the
 group quotiented and to the path family more than to the mechanism
-([CLAIM-tmpr7v4j](../claims.d/CLAIM-tmpr7v4j.md)). Same-cue pairs keep a barrier at width 5. Different-cue
+([CLAIM-993](../claims.d/CLAIM-993.md)). Same-cue pairs keep a barrier at width 5. Different-cue
 pairs connect from width 64. In the one flat, poorly connected grid cell,
 a trained curve removes the barrier the aligned line keeps, and the cell's
 accuracy deficit stays. What this means for [CLAIM-263](../claims.d/CLAIM-263.md) is filed as two
-alternatives, [CLAIM-tmpv22hv](../claims.d/CLAIM-tmpv22hv.md) and [CLAIM-tmp46m6e](../claims.d/CLAIM-tmp46m6e.md). The question stays open:
+alternatives, [CLAIM-994](../claims.d/CLAIM-994.md) and [CLAIM-992](../claims.d/CLAIM-992.md). The question stays open:
 the result is a toy, far from [THEORY-108](../theory.d/THEORY-108.md)'s ResNets.

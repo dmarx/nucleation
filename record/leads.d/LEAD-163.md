@@ -23,7 +23,7 @@ summary: >-
   audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-615 — Proposed; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-tmp5koor CLAIM-tmp68okc ARG-tmplptzc — new; the readings and argument filed for this lead -->
+<!-- inactive-ok-file: CLAIM-983 CLAIM-986 ARG-216 — new; the readings and argument filed for this lead -->
 
 # LEAD-163: Close the open slot in the admission case that would otherwise defeat its claim
 
@@ -43,11 +43,11 @@ A closed slot keeps [CLAIM-615](../claims.d/CLAIM-615.md); an open one defeats i
 
 The slot is which organization [CLAIM-615](../claims.d/CLAIM-615.md)'s `defeated_if` means by "that
 organization": the relations kept realizable, or the maintainer that keeps
-them. Filed: [ARG-tmplptzc](../arguments.d/ARG-tmplptzc.md), the step both readings share (restoration from
+them. Filed: [ARG-216](../arguments.d/ARG-216.md), the step both readings share (restoration from
 the thing is transmission through it, by analogy with [CLAIM-329](../claims.d/CLAIM-329.md)), which
 makes the car that changes garages a continuation; and two alternatives
-for organization held only by a maintainer, [CLAIM-tmp5koor](../claims.d/CLAIM-tmp5koor.md) (a channel,
-never what is transmitted) and [CLAIM-tmp68okc](../claims.d/CLAIM-tmp68okc.md) (transmitted insofar as the
+for organization held only by a maintainer, [CLAIM-983](../claims.d/CLAIM-983.md) (a channel,
+never what is transmitted) and [CLAIM-986](../claims.d/CLAIM-986.md) (transmitted insofar as the
 individual does not carry it and a competent replacement would not supply
 it; the assistant's lean). The slot is closed on either. What remains for
 the owner: choosing a reading, and whether [CLAIM-615](../claims.d/CLAIM-615.md)'s admission section

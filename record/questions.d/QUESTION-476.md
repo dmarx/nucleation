@@ -167,8 +167,8 @@ On 2026-11-18 the owner asked the lead to "consider how blameless culture in mod
 No status changes. The question stays Open: its second half, for engineering postmortems, is unanswered.
 
 ## Note of 2026-11-22: a pilot coding of postmortems
-<!-- inactive-ok-file: CASE-tmp1ya4r CLAIM-tmpst09o — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-335 CLAIM-905 — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
 
-The question's second half, for engineering postmortems, now has a pilot bearing on it: [CASE-tmp1ya4r](../cases.d/CASE-tmp1ya4r.md) and its finding [CLAIM-tmpst09o](../claims.d/CLAIM-tmpst09o.md). In 26 of 30 public postmortems the trace stops at the engineering group's own design or procedure. CSB investigations of chemical accidents mostly carry it to corporate oversight, funding and regulation. That is the second answer listed here, "keeps correction, loses provenance", for published internal reviews. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
+The question's second half, for engineering postmortems, now has a pilot bearing on it: [CASE-335](../cases.d/CASE-335.md) and its finding [CLAIM-905](../claims.d/CLAIM-905.md). In 26 of 30 public postmortems the trace stops at the engineering group's own design or procedure. CSB investigations of chemical accidents mostly carry it to corporate oversight, funding and regulation. That is the second answer listed here, "keeps correction, loses provenance", for published internal reviews. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
 
 No status changes. The question stays Open.

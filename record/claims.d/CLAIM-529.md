@@ -87,7 +87,7 @@ summary: >-
   attitudes. It does not say the paper argues this, and it leaves the
   presupposed lower-level units where the paper leaves them.
 ---
-<!-- inactive-ok-file: THEORY-tmpvjav8 THEORY-tmp54yyf — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
+<!-- inactive-ok-file: THEORY-2270 THEORY-2269 — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose parts this claim sorts -->
 <!-- inactive-ok-file: LIT-1932 LIT-1937 — Unavailable since 2026-11-22, unread; named for what the reading of LIT-188 reports of them -->
 
@@ -185,12 +185,12 @@ This claim counts knockout of interaction types among the first three criteria, 
 
 ## Note of 2026-11-22: the scaffolding works, read
 
-Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md), [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md)),
-the scaffolding group's 2024 statement ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md),
-[THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)) and Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md)).
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-2361](../notes.d/NOTE-2361.md), [THEORY-2270](../theory.d/THEORY-2270.md)),
+the scaffolding group's 2024 statement ([LIT-3137](../literature.d/LIT-3137.md), [NOTE-2362](../notes.d/NOTE-2362.md),
+[THEORY-2269](../theory.d/THEORY-2269.md)) and Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-2363](../notes.d/NOTE-2363.md)).
 
 - **Release from a scaffold, as its source states it** (corroborates;
-  written as `corroborates` on [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md) and [THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)).
+  written as `corroborates` on [THEORY-2270](../theory.d/THEORY-2270.md) and [THEORY-2269](../theory.d/THEORY-2269.md)).
   Item 1's last interaction criterion, whether a grouping's order
   survives release from an outside scaffold, is Bourrat's: collectives
   whose properties survive removal of the scaffold are Darwinian, those

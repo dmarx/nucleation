@@ -9,14 +9,14 @@ history:
 - version: 2
   date: '2026-11-22'
   note: >-
-    After the readings of Bui et al. (LIT-2989, NOTE-tmpvu3vp) and Ghadimi
-    Atigh et al. (LIT-2993, NOTE-tmpyyvdy): the sentence calling them
+    After the readings of Bui et al. (LIT-2989, NOTE-2281) and Ghadimi
+    Atigh et al. (LIT-2993, NOTE-2282): the sentence calling them
     unread replaced in place by what they show, with four qualifications
     on Bui et al.; in the grounds, LIT-2989 replaced by its reading
-    THEORY-tmpe9367 (ARG-tmpf206e) and LIT-2993 removed, its reading
-    corroborating the semantic half only (ARG-tmpv9jbe); dated notes
-    added, including the assistant's norm-growth claim CLAIM-tmpxcy5s
-    (ARG-tmpotmon). Title and thesis unchanged.
+    THEORY-2190 (ARG-192) and LIT-2993 removed, its reading
+    corroborating the semantic half only (ARG-194); dated notes
+    added, including the assistant's norm-growth claim CLAIM-860
+    (ARG-193). Title and thesis unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,7 +41,7 @@ rests_on:
 - CLAIM-199
 grounds:
 - THEORY-189
-- THEORY-tmpe9367
+- THEORY-2190
 summary: >-
   A33 §2, §7 and §10 and A35 §2–§3 and §9 of the exchange "Rich Get Richer
   Power Laws" (2026-11-21), answering the owner's U21 ([QUESTION-512](../questions.d/QUESTION-512.md)): "both
@@ -56,7 +56,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: ARG-153 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmpe9367 THEORY-tmpsj6u9 CLAIM-tmpxcy5s ARG-tmpf206e ARG-tmpv9jbe ARG-tmpotmon CLAIM-816 — Proposed; the readings of Bui et al. and Ghadimi Atigh et al. filed 2026-11-22, the assistant's norm-growth claim, the arguments that say how each bears here, and a claim cited for context -->
+<!-- inactive-ok-file: THEORY-2190 THEORY-2192 CLAIM-860 ARG-192 ARG-194 ARG-193 CLAIM-816 — Proposed; the readings of Bui et al. and Ghadimi Atigh et al. filed 2026-11-22, the assistant's norm-growth claim, the arguments that say how each bears here, and a claim cited for context -->
 
 # CLAIM-839: Progressive learning can be described by two partial orders, semantic entailment among the regions a representation assigns and informational refinement among its checkpoints in Blackwell's sense, neither of which need be a chain: learning is then the construction of an increasingly informative branching order of distinctions, and a narrower region counts as progress only while it stays correct
 
@@ -93,17 +93,17 @@ constrains updated embeddings to earlier cones (Bui and colleagues,
 nearby (Ghadimi Atigh and colleagues, [LIT-2993](../literature.d/LIT-2993.md)).
 
 *Revised 2026-11-22, after reading both:* Bui and colleagues
-([THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md)) do constrain updated embeddings to earlier cones, with
+([THEORY-2190](../theory.d/THEORY-2190.md)) do constrain updated embeddings to earlier cones, with
 four qualifications. The constraint is a soft penalty (a hinge weighted
 0.3), and the paper never reports how many new embeddings lie inside
 their cones. The cones are per item, apexed at the same item's old
 embedding, not cones of concepts. They link two separately trained
 models, the old one frozen, not checkpoints of one run. And the order is
 imposed by design, not observed in learning. What it bears out is A33's
-"soft regularizer" reading ([ARG-tmpf206e](../arguments.d/ARG-tmpf206e.md)). Ghadimi Atigh and colleagues
-([THEORY-tmpsj6u9](../theory.d/THEORY-tmpsj6u9.md)) nest cones semantically, a label's cone containing its
+"soft regularizer" reading ([ARG-192](../arguments.d/ARG-192.md)). Ghadimi Atigh and colleagues
+([THEORY-2192](../theory.d/THEORY-2192.md)) nest cones semantically, a label's cone containing its
 descendants', for each sample at one time, with no temporal restriction;
-they bear on the semantic half only ([ARG-tmpv9jbe](../arguments.d/ARG-tmpv9jbe.md)).
+they bear on the semantic half only ([ARG-194](../arguments.d/ARG-194.md)).
 
 **Narrowing is not progress.** A33 §7: "It could shrink its cone around an
 incorrect interpretation", so A35 §5 measures progress by coverage,
@@ -139,7 +139,7 @@ overlaps are illustrative, as A35 says.
 ## Note of 2026-11-22: Bui, Yang, Chen, Neves, Ju, Ying, Shah and Zhao, read
 
 Supports the restriction half in part, and qualifies it. Read
-([NOTE-tmpvu3vp](../notes.d/NOTE-tmpvu3vp.md), [THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md)), the scheme is exactly A33's fallback,
+([NOTE-2281](../notes.d/NOTE-2281.md), [THEORY-2190](../theory.d/THEORY-2190.md)), the scheme is exactly A33's fallback,
 temporal cone consistency as a soft regularizer, and it works: removing
 the cone term costs most when the architecture changes (CIFAR100 CMC@1
 compatibility 0.937 with it, −0.178 without). The four qualifications
@@ -148,20 +148,20 @@ chain of nested cones, not a branching order, so the claim's branching
 is untouched. And the scheme's narrowing is built in: every point of
 such a cone lies farther from the origin than its apex, so a satisfied
 constraint makes each embedding more "certain" whether or not it is
-correct ([CLAIM-tmpxcy5s](CLAIM-tmpxcy5s.md), the assistant's, checked numerically). That is
+correct ([CLAIM-860](CLAIM-860.md), the assistant's, checked numerically). That is
 a demonstrated case of the rule this claim ends with, that a narrower
-region counts as progress only while it stays correct ([ARG-tmpotmon](../arguments.d/ARG-tmpotmon.md)).
+region counts as progress only while it stays correct ([ARG-193](../arguments.d/ARG-193.md)).
 The Blackwell half is untouched.
 
 ## Note of 2026-11-22: Ghadimi Atigh, van Spengler, Long, Ayoughi, Kasarla and Mettes, read
 
-A weak parallel, for the semantic half only. Read ([NOTE-tmpyyvdy](../notes.d/NOTE-tmpyyvdy.md),
-[THEORY-tmpsj6u9](../theory.d/THEORY-tmpsj6u9.md)), the paper supervises with regions whose narrowness
+A weak parallel, for the semantic half only. Read ([NOTE-2282](../notes.d/NOTE-2282.md),
+[THEORY-2192](../theory.d/THEORY-2192.md)), the paper supervises with regions whose narrowness
 matches the label's specificity: "the more specific a sample's label,
 the more narrowly defined the region in the embedding space should be for
 optimization" (§1). It has no checkpoints, branching or temporal
 restriction, and its "coarse-to-fine" (§3.2) names a label projection,
 not an order of learning. The reading moves from grounds to
-corroborates ([ARG-tmpv9jbe](../arguments.d/ARG-tmpv9jbe.md)). It also shows that cones alone leave
+corroborates ([ARG-194](../arguments.d/ARG-194.md)). It also shows that cones alone leave
 samples "biased towards internal classes", so the radial placement
 needs its own term ([CLAIM-816](CLAIM-816.md)).
