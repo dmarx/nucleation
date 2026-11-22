@@ -30,7 +30,7 @@ draws_on:
 - THEORY-1888
 - THEORY-1870
 summary: >-
-  A toy-scale stand-in for CASE-274's design, for LEAD-043. numpy only, CPU, about
+  A toy-scale stand-in for [CASE-274](CASE-274.md)'s design, for [LEAD-043](../leads.d/LEAD-043.md). numpy only, CPU, about
   two hours of compute on a shared machine. A two-layer transformer
   (d 64, 4 heads, no layer norm, hand-written backward pass) memorizes 256
   random facts under two query templates. 32 target facts are then
@@ -60,7 +60,7 @@ summary: >-
 
 ## A toy-scale stand-in
 
-LEAD-043 asks for CASE-274's study: train, fine-tune a capability away,
+[LEAD-043](../leads.d/LEAD-043.md) asks for [CASE-274](CASE-274.md)'s study: train, fine-tune a capability away,
 and ask with probes, relearning and interventions whether the forgetting
 was loss, readdressing, interference or suppression. Only a CPU was
 available and torch is not installed, so this is a toy: a model of about
@@ -118,7 +118,7 @@ wrong at cue A.
   one-hidden-layer MLP probes fitted on the same model's retained facts.
 - **Weight-delta reversion** (where the change sits): each block's
   fine-tuning update reverted alone, and from a block downward.
-- **Sampling coverage** (CLAIM-697): 1 − (1 − p)^N at cue A for
+- **Sampling coverage** ([CLAIM-697](../claims.d/CLAIM-697.md)): 1 − (1 − p)^N at cue A for
   N = 1, 16, 256, with no selector.
 - **Relearning**: half of the target subjects relearned at the
   fine-tuned cues (with rehearsal); steps to criterion, and the accuracy
@@ -167,13 +167,13 @@ In plain words:
   the runner-up in 31 to 32 percent of facts (6 to 7 percent for the
   twin's) and is learned back in a third of the steps the twin needs.
   Sampling finds it more often than the twin's value (coverage at
-  N = 256: 0.24 to 0.37 against 0.06 to 0.08), so in CLAIM-697's terms it
+  N = 256: 0.24 to 0.37 against 0.06 to 0.08), so in [CLAIM-697](../claims.d/CLAIM-697.md)'s terms it
   has moved to a higher realization cost.
 - **The update that hides a fact sits early.** Reverting one block of
   the first layer restores 41 to 55 percent of the facts in the unlearn
   and overwrite arms; reverting the head restores 0 to 13 percent. What
   the fine-tuning changed is mostly the routing into the memory, not the
-  memory or the read-out. That is not CASE-274's downstream suppression,
+  memory or the read-out. That is not [CASE-274](CASE-274.md)'s downstream suppression,
   which would show as a late revert restoring the fact.
 - **Gradient ascent is the exception.** It drives the targets'
   probability to zero, for most models within 12 to 25 steps, and takes the retained facts
@@ -194,10 +194,10 @@ the twin never held in 28 to 46 percent of its facts, because each
 reader is right by chance about one time in sixteen and they are many.
 A survival test that asks whether any reader recovers the value, without
 a matched world, would have called nearly half of a never-learned table
-"retained". This is what QUESTION-010's note of 2026-11-15 proposed the twin
+"retained". This is what [QUESTION-010](../questions.d/QUESTION-010.md)'s note of 2026-11-15 proposed the twin
 for, and here it was needed. With random facts nothing else implies a
 target value, so a recovery above the twin's rate cannot be the rebuild
-from correlates that THEORY-1888, THEORY-1870 and THEORY-281 warn of.
+from correlates that [THEORY-1888](../theory.d/THEORY-1888.md), [THEORY-1870](../theory.d/THEORY-1870.md) and [THEORY-281](../theory.d/THEORY-281.md) warn of.
 
 ## Its limits
 
@@ -211,12 +211,12 @@ from correlates that THEORY-1888, THEORY-1870 and THEORY-281 warn of.
   fact stored in a subspace that retained facts do not use would be
   missed. The table counts recoveries; it does not classify each fact
   into one outcome, and most recovered facts show several signatures at
-  once, so CASE-274's outcomes are not exclusive classes here.
+  once, so [CASE-274](CASE-274.md)'s outcomes are not exclusive classes here.
 - **Relearning.** Steps to criterion are coarse when the output is flat
   (4 to 9 steps for both worlds after unlearning).
 - **Not run.** Closed-form linear erasure, cue remapping beyond the three
   templates, task-vector merges, RL, the budget axis beyond coverage, and
-  CASE-274's response-geometry prediction (CLAIM-698), which needs a
+  [CASE-274](CASE-274.md)'s response-geometry prediction ([CLAIM-698](../claims.d/CLAIM-698.md)), which needs a
   prediction made before the recovery tests.
 - **Choices that shape the result.** Equal weight on the forget and
   retain losses; one learning rate; the stopping rule. Ascent's collapse

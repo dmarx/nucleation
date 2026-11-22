@@ -32,7 +32,7 @@ grounds:
 bears_on:
 - QUESTION-010
 summary: >-
-  A methodological finding from CASE-tmprir2y. Eleven readers were applied
+  A methodological finding from [CASE-tmprir2y](../cases.d/CASE-tmprir2y.md). Eleven readers were applied
   to every forgotten fact in a toy transformer: another cue, the runner-up
   answer, a logit lens and linear and MLP probes at three layers, and
   reverting each block's update. Read against the matched twin's values,
@@ -40,7 +40,7 @@ summary: >-
   28 to 46 percent of facts, across all nine arms. Each reader alone hits
   by chance about one time in sixteen. Without the twin, a union test would
   have called nearly half of a never-learned table retained. This is what
-  the note of 2026-11-15 on QUESTION-010 proposed the matched worlds for,
+  the note of 2026-11-15 on [QUESTION-010](../questions.d/QUESTION-010.md) proposed the matched worlds for,
   and the run shows the control is needed, not only cheap. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
@@ -51,8 +51,8 @@ summary: >-
 
 ## The claim
 
-CASE-274's outcome table asks, for each apparently forgotten association,
-whether any of several readers finds it. CASE-tmprir2y ran eleven such
+[CASE-274](../cases.d/CASE-274.md)'s outcome table asks, for each apparently forgotten association,
+whether any of several readers finds it. [CASE-tmprir2y](../cases.d/CASE-tmprir2y.md) ran eleven such
 readers on a toy transformer. Against the model's own forgotten values the
 union recovered 87 to 98 percent in the unlearning, overwriting and
 new-task arms; against the twin's values, which the model never held, it
@@ -65,7 +65,7 @@ would have overstated it by a factor of up to two.
 In the toy, random facts make the chance rate known (1/16 per reader). In
 a language model, where a value can be inferred from correlates, the chance
 rate is not known, and the matched world is what supplies it. This is the
-use the note of 2026-11-15 on QUESTION-010 proposed.
+use the note of 2026-11-15 on [QUESTION-010](../questions.d/QUESTION-010.md) proposed.
 
 ## What it does not say
 

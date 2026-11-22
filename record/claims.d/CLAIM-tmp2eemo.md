@@ -37,7 +37,7 @@ bears_on:
 - QUESTION-275
 - QUESTION-010
 summary: >-
-  What the toy-scale run of CASE-tmprir2y finds, stated so that it can fail. In a
+  What the toy-scale run of [CASE-tmprir2y](../cases.d/CASE-tmprir2y.md) finds, stated so that it can fail. In a
   two-layer numpy transformer (4 seeds, a matched twin for each), 87 to
   98 percent of the facts forgotten by unlearning, overwriting or a new
   task are recovered by at least one of eleven readers, against 28 to 46
@@ -57,9 +57,9 @@ summary: >-
 
 ## The claim
 
-CASE-274 names five things apparent forgetting can be: readdressing,
+[CASE-274](../cases.d/CASE-274.md) names five things apparent forgetting can be: readdressing,
 interference, downstream suppression, a higher realization cost, and
-loss. In the toy run of CASE-tmprir2y, with every readout set against a twin
+loss. In the toy run of [CASE-tmprir2y](../cases.d/CASE-tmprir2y.md), with every readout set against a twin
 that never held the value:
 
 - **Readdressing.** Unlearning at cue A leaves 73 percent of facts
@@ -68,14 +68,14 @@ that never held the value:
 - **Interference.** After overwriting, the old value is the runner-up in
   31 to 32 percent of facts (twin 6 to 7), comes back under sampling more
   often (coverage at N = 256: 0.24 to 0.37 against 0.06 to 0.08, a higher
-  realization cost in CLAIM-697's sense), and is relearned in a third to a
+  realization cost in [CLAIM-697](CLAIM-697.md)'s sense), and is relearned in a third to a
   half of the steps.
 - **Where the change sits.** Reverting a single first-layer block's
   update restores 41 to 55 percent of facts in the unlearn and overwrite
   arms; reverting the head restores 0 to 13. Probes on the second layer's
   residual read 18 to 29 percent (twin 3 to 6). The fine-tuning mostly
   changed how a query reaches the stored fact, not the store or the
-  read-out, so this is not CASE-274's downstream suppression.
+  read-out, so this is not [CASE-274](../cases.d/CASE-274.md)'s downstream suppression.
 - **Loss.** Only gradient ascent gives a pattern like loss, and it is
   loss of the model, not of the targets: retained accuracy falls to 8 to
   19 percent. Stopped at its criterion, probes and relearning still find
@@ -88,5 +88,5 @@ It does not say forgetting in language models is readdressing. Memorized
 random facts in two layers are the case most favourable to a surviving
 trace, the templates did not generalize to unseen subjects, and the
 readers recover several signatures for the same fact, so the outcomes are
-not exclusive classes. It does not test CASE-274's response-geometry
+not exclusive classes. It does not test [CASE-274](../cases.d/CASE-274.md)'s response-geometry
 prediction.
