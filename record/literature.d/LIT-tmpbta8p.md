@@ -59,7 +59,6 @@ summary: >-
   which separates problems with log T regret from those needing √T.
 ---
 
-<!-- inactive-ok-file: NOTE-tmpk22nd, THEORY-tmpttshe — the reading and account filed with this LIT in this batch (LEAD-145); not yet in force -->
 
 # LIT-tmpbta8p: Dual Control: On Exploration-Exploitation in Linear Systems
 

@@ -55,7 +55,6 @@ summary: >-
   max-min decision-maker's value of information is concave too (Prop. 3.3).
 ---
 
-<!-- inactive-ok-file: NOTE-tmp16xnt, THEORY-tmpgf28l — the reading and account filed with this LIT in this batch (LEAD-145); not yet in force -->
 
 # LIT-tmpkun97: Call the Dentist! A (Con-)Cavity in the Value of Information
 

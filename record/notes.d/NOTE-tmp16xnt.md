@@ -30,6 +30,8 @@ summary: >-
   constraint is shown to bind.
 ---
 
+<!-- inactive-ok-file: THEORY-853 — Proposed; cited as a neighbour in this reading -->
+
 # NOTE-tmp16xnt: Whitmeyer — a concavity in the value of information
 
 ## Contribution

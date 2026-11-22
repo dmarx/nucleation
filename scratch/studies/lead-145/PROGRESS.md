@@ -25,11 +25,19 @@ Blackwell order). The lead stands.
   docs/record.md fields, LEAD-145, CLAIM-572, QUESTION-374.
 - Cut branch, confirmed step-1.
 
-## Next
+## Status: COMPLETE (pending report)
 
-- Locate lawful open treatment of dual control (prefer survey/lecture notes).
-- Locate lawful open treatment of value of information (prefer survey).
-- Register LIT (Deferred), seek copy, read, file NOTE/THEORY, dated notes.
+Filed, all committed/pushed:
+- Dual control: LIT-tmpbta8p, NOTE-tmpk22nd, THEORY-tmpttshe (Proposed).
+- VoI: LIT-tmpkun97, NOTE-tmp16xnt, THEORY-tmpgf28l (Proposed).
+- Dated notes on CLAIM-572 (x2), QUESTION-374, LEAD-145.
+- Both THEORYs bears_on QUESTION-374.
+- Changelog fragment record/changelog.d/lead-145.md.
+- inactive-ok-file excuses added where Proposed codes cited; ref_status.scan
+  clean (no dangling/lost/unused).
+
+Checked: the Feldbaum (dual control) and Radner-Stiglitz (nonconcavity)
+citations CLAIM-572 flagged as unchecked are now verified via the readings.
 
 ## Works located (both open on arXiv, lawful)
 
