@@ -76,6 +76,7 @@ complements:
 - CLAIM-465
 - CLAIM-587
 ---
+<!-- inactive-ok-file: LIT-tmp6fb6y NOTE-tmps1muw CASE-tmp4f2jr THEORY-tmppzw1a ARG-tmpbjn5v — new; filed for LEAD-124 on 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2088 — Unfetched; Tatel and Ackerman (2025), cited from the reading of 2026-11-04 as the article the dissertation precedes -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -194,3 +195,7 @@ operational procedures, it rarely did so" (p. 45). Its post-crash changes "begin
 deficiencies. An instance of a procedure without the maintained capacity, from an independent
 investigation. Relation: the filer's call (an instance; corroborates if the claim takes
 instances).
+
+## Note of 2026-11-22: decay by task type
+
+Supported, unchanged. In the posted data of Tatel & Ackerman's meta-analysis (CASE-tmp4f2jr), real-world procedures lose accuracy with disuse more slowly than laboratory tasks, but medical and dental procedures still lose it measurably (0.04 SD a month), so a trained procedure is not a maintained capacity. Corroborated by THEORY-tmppzw1a. No status change.

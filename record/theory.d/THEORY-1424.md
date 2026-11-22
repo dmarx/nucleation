@@ -51,6 +51,7 @@ summary: >-
   about organizations. Active as a report of one meta-analysis; whether an
   independent synthesis agrees is open.
 ---
+<!-- inactive-ok-file: LIT-tmp6fb6y NOTE-tmps1muw CASE-tmp4f2jr THEORY-tmppzw1a ARG-tmpbjn5v — new; filed for LEAD-124 on 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2088 — Unfetched; the article the dissertation stands in for -->
 
 # THEORY-1424: Tatel finds that procedural skills with motor components decline roughly linearly with months of infrequent use, by about 0.06 to 0.08 standard deviations a month on average, losing about half of training gains within six to fifteen months, and that accuracy declines more slowly when a performance opportunity, most often an earlier retention test, falls in the interval
@@ -114,3 +115,7 @@ The slopes survive a change of effect-size formula (§5.5), and the author
 judges publication bias not substantial (§5.6). The practice clause is
 narrowed to accuracy, as the earlier note asked. Whether an independent
 synthesis agrees is [QUESTION-433](../questions.d/QUESTION-433.md).
+
+## Note of 2026-11-22: the pooled rate by task type
+
+Narrowed by THEORY-tmppzw1a (Proposed). The pooled accuracy rate of 0.08 SD a month averages laboratory tasks (0.16) and real-world tasks (about 0.05); among the latter, medical and dental tasks decline by 0.04, and sports and military or transport tasks show no measurable decline in the article's posted data (CASE-tmp4f2jr). The refit also finds every type declining faster over short intervals, so the linear slopes depend on each type's mix of intervals. That bears on this reading's "roughly linearly", which is Tatel's and stays as Tatel's. No status change.
