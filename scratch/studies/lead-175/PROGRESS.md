@@ -33,12 +33,15 @@
   runs, prior anchor); results and summaries committed; README "Runs" and
   "Results" written.
 
-## Next
-
-- File: CASE-tmpgqbyq (executed-study, Proposed), CLAIM-tmpg8m7a (frozen
+- Filed: CASE-tmpgqbyq (executed-study, Proposed), CLAIM-tmpg8m7a (frozen
   dead feature, demonstrated), CLAIM-tmp9zqvq (sweep, empirical),
   CLAIM-tmpraadt (posterior critical sizes, empirical); dated notes on
-  QUESTION-363, THEORY-1275, LEAD-175; changelog fragment.
+  QUESTION-363, THEORY-1275, LEAD-175; changelog fragment lead-175.md.
+
+## Next
+
+- Report to the lead. Remaining (not done): finite-dataset posterior;
+  other trainers; the live 5+ route at untried settings.
 
 ## Choices
 
