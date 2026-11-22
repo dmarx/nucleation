@@ -44,7 +44,6 @@ extends:
 - LIT-810
 ---
 <!-- inactive-ok-file: LIT-tmpntsdw — Unfetched; the journal paper this abstract stands in for -->
-<!-- inactive-ok-file: THEORY-159 — Proposed; the account whose test this reading was sought for -->
 
 # LIT-tmpom3sr: Evolution and efficiency in color naming: The case of Nafaanra
 

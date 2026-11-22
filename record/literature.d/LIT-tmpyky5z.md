@@ -46,6 +46,7 @@ summary: >-
   contrasts change.
 ---
 <!-- inactive-ok-file: THEORY-159 — Proposed; the account whose test this reading was sought for -->
+<!-- inactive-ok-file: CLAIM-082 — Proposed; the claim LEAD-056 advances -->
 <!-- inactive-ok-file: LIT-tmpntsdw — Unfetched; the Nafaanra paper whose reading this one cautions -->
 
 # LIT-tmpyky5z: Concepts Are Restructured During Language Contact: The Birth of Blue and Other Color Concepts in Tsimane'-Spanish Bilinguals

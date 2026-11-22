@@ -51,6 +51,7 @@ extends:
 - LIT-810
 ---
 <!-- inactive-ok-file: THEORY-159 — Proposed; the account whose test this work was sought for -->
+<!-- inactive-ok-file: CLAIM-082 — Proposed; the claim LEAD-056 advances -->
 <!-- inactive-ok-file: THEORY-tmp7i21v — Proposed; the neighbour's account, filed in this batch -->
 
 # LIT-tmpntsdw: The evolution of color naming reflects pressure for efficiency: Evidence from the recent past
