@@ -21,9 +21,13 @@
   Leave-one-out at eps = 0: VAR(1) P no, D yes, M no, A no, C yes;
   VAR(2) M yes. At eps = 0.01 P becomes realizable.
 
+- Filed CASE-tmpo5jhq (the study), CLAIM-tmp186gy (the table, external
+  target), CLAIM-tmp9xo66 (alternative: target is Y, P and A collapse into
+  D and M).
+
 ## Next
 
-- File CASE, CLAIM, notes, changelog.
+- Dated notes on LEAD-173 and QUESTION-252; changelog fragment.
 
 ## Choices made
 
