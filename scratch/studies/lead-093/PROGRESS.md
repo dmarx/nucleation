@@ -19,8 +19,10 @@
 
 - Model `closing.py` (produce arm, repair arm, defective nuclei eps, generation-resolved
   version, Gillespie version); 11 tests pass (`test_closing.py`).
-- Experiments `experiments.py` e1-e9, results per item in `results/*.jsonl`. e2 done.
-  e1, e3-e8 running (python PID 31628, wrapper 31626); e9 running (python PID 31790).
+- Experiments `experiments.py` e1-e9, results per item in `results/*.jsonl`. e1-e8 and
+  e4b done (e6 rerun after adding a repair cost `rcost`, default 0, sensitivity 1:
+  first version charged a full unit per repair, which made N non-monotone in sigma and
+  broke the bisection). e9 (Gillespie) running, python PID 31790.
 
 ## Choices made
 

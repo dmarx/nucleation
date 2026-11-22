@@ -160,6 +160,31 @@ def e4():
         emit(name, rec)
 
 
+# E4b: where the loop self-ignites (no founding needed), how much an outside
+# teacher speeds formation: time to half the maintained nucleus count
+def e4b():
+    name = "e4b_speedup"
+    done = done_keys(name)
+    for kT, beta in [(0.02, 0.06), (0.02, 0.1), (0.03, 0.1)]:
+        for sig, tw in [(0.0, 0.0), (0.05, 10.0), (0.05, 40.0), (0.3, 10.0)]:
+            key = f"kT={kT}|beta={beta}|sigma={sig}|tw={tw}"
+            if key in done:
+                continue
+            p = params(kT=kT, beta=beta)
+            cls, st = classify(p)
+            q = params(kT=kT, beta=beta, sigma=sig)
+            t1, Y1 = run(q, y0_empty(p), max(tw, 1e-9), n_eval=max(2, int(tw * 100) + 1))
+            hit1 = Y1[2] >= 0.5 * st[2]
+            if np.any(hit1):
+                th = t1[np.argmax(hit1)]
+            else:
+                t2, Y2 = run(p, Y1[:, -1], 20000.0, n_eval=200001)
+                hit = Y2[2] >= 0.5 * st[2]
+                th = tw + t2[np.argmax(hit)] if np.any(hit) else None
+            emit(name, dict(key=key, kT=kT, beta=beta, cls=cls, sigma=sig, t_w=tw,
+                            N_maint=st[2], t_half=fl(th)))
+
+
 # E5: disturbance the closed loop survives without outside supply
 def e5():
     name = "e5_disturbance"
@@ -221,42 +246,57 @@ def e6():
         q = dict(p)
         q["sigma"] = sig
         y = np.array([5.0, 3.0, 3.0, 0.0, 0.5])
-        _, Y = run(q, y, 4000.0, n_eval=2)
-        _, Y = run(q, Y[:, -1], 4000.0, n_eval=2)
+        _, Y = run(q, y, 6000.0, n_eval=2)
+        _, Y = run(q, Y[:, -1], 6000.0, n_eval=2)
         return Y[:, -1]
 
-    for lam in [0.0, 0.01, 0.05, 0.2]:
-        for rho in [0.0, 0.05, 0.2, 1.0, 5.0]:
-            key = f"lam={lam}|rho={rho}"
-            if key in done:
-                continue
-            p = params(arm="repair", rho=rho, lam=lam, beta=0.0)
-            if lam == 0.0 and rho > 0:
-                # no loss of damaged teachers: total teacher mass is conserved
-                # with sigma = 0, so whether N persists depends on how much
-                # teacher mass there is; report sigma = 0 from a state holding it
-                y = steady(p, 0.0)
-                emit(name, dict(key=key, lam=lam, rho=rho, sigma_needed=0.0,
-                                N_at_sigma0=y[2], teacher_total=y[1] + y[4],
-                                note="sigma=0 run from T+D=3.5"))
-                continue
-            lo, hi = 0.0, 2.0
-            if steady(p, hi)[2] < N_target:
-                emit(name, dict(key=key, lam=lam, rho=rho, sigma_needed=None))
-                continue
-            while hi - lo > 1e-5:
-                mid = 0.5 * (lo + hi)
-                if steady(p, mid)[2] >= N_target:
-                    hi = mid
-                else:
-                    lo = mid
-            y = steady(p, hi)
-            # lifetime after withdrawal: time for N to fall to half
-            t, Y = run(p, y, 5000.0, n_eval=50001)
-            h = np.argmax(Y[2] <= 0.5 * y[2]) if np.any(Y[2] <= 0.5 * y[2]) else None
-            emit(name, dict(key=key, lam=lam, rho=rho, sigma_needed=hi,
-                            T=y[1], D=y[4], lamD=lam * y[4],
-                            t_half_after_withdrawal=fl(t[h]) if h is not None else None))
+    # T needed to hold N_target (material balance as in the produce arm with beta = 0)
+    _, _, T_need = sigma_needed(params(beta=0.0), N_target)
+    for rcost in [0.0, 1.0]:
+        for lam in [0.0, 0.01, 0.05, 0.2]:
+            for rho in [0.0, 0.05, 0.2, 1.0, 5.0]:
+                key = f"rcost={rcost}|lam={lam}|rho={rho}"
+                if key in done:
+                    continue
+                p = params(arm="repair", rho=rho, lam=lam, beta=0.0, rcost=rcost)
+                if lam == 0.0:
+                    # damaged teachers are never lost: T + D is conserved with
+                    # sigma = 0; run from T + D = 3.5 and report what N holds
+                    y = steady(p, 0.0)
+                    emit(name, dict(key=key, rcost=rcost, lam=lam, rho=rho,
+                                    N_at_sigma0=y[2], T=y[1], D=y[4],
+                                    teacher_total=y[1] + y[4],
+                                    note="sigma = 0 from T + D = 3.5; total conserved"))
+                    continue
+                grid = np.concatenate([[0.0], np.geomspace(1e-4, 2.0, 60)])
+                Ns = []
+                first = None
+                for s in grid:
+                    Nn = steady(p, s)[2]
+                    Ns.append(Nn)
+                    if Nn >= N_target:
+                        first = s
+                        break
+                if first is None:
+                    emit(name, dict(key=key, rcost=rcost, lam=lam, rho=rho,
+                                    sigma_needed=None, N_max_on_grid=max(Ns)))
+                    continue
+                lo = grid[max(0, len(Ns) - 2)]
+                hi = first
+                while hi - lo > 1e-6:
+                    mid = 0.5 * (lo + hi)
+                    if steady(p, mid)[2] >= N_target:
+                        hi = mid
+                    else:
+                        lo = mid
+                y = steady(p, hi)
+                formula = (p["kT"] * T_need / (1 + rho * N_target / lam)) if rcost == 0 else None
+                t, Y = run(p, y, 5000.0, n_eval=50001)
+                h = np.argmax(Y[2] <= 0.5 * y[2]) if np.any(Y[2] <= 0.5 * y[2]) else None
+                emit(name, dict(key=key, rcost=rcost, lam=lam, rho=rho, sigma_needed=hi,
+                                sigma_formula=fl(formula), sigma_no_repair=p["kT"] * T_need,
+                                T=y[1], D=y[4], m=y[0],
+                                t_half_after_withdrawal=fl(t[h]) if h is not None else None))
 
 
 # E7: successors matched on structure, differing in teaching

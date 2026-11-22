@@ -24,8 +24,9 @@ Arm "produce" (the main arm):
 
 Arm "repair": nuclei repair damaged teachers instead of making new ones.
   T is damaged at rate kT into D; D is lost at rate lam; a nucleus repairs D
-  back into T at rate rho N D (material cost per repair, one unit).
-  m' = J - delta m - F - rho N D
+  back into T at rate rho N D, at a material cost rcost per repair (0 by
+  default: repair is cheaper than making anew; 1 as a sensitivity check).
+  m' = J - delta m - F - rcost rho N D
   T' = sigma - kT T + rho N D
   D' = kT T - rho N D - lam D
   N' = (1 - eps) F - d N ;  B' = eps F - d B
@@ -40,7 +41,8 @@ from scipy.integrate import solve_ivp
 from scipy.optimize import brentq
 
 BASE = dict(J=1.0, delta=0.1, a0=1e-6, a1=0.1, K=2.0, d=0.1, beta=0.02,
-            kT=0.1, sigma=0.0, eps=0.0, rho=0.0, lam=0.0, arm="produce")
+            kT=0.1, sigma=0.0, eps=0.0, rho=0.0, lam=0.0, rcost=0.0,
+            arm="produce")
 
 
 def params(**kw):
@@ -60,7 +62,7 @@ def rhs(t, y, p, sigma_of_t=None):
         dD = 0.0
     elif p["arm"] == "repair":
         rep = p["rho"] * N * D
-        dm = p["J"] - p["delta"] * m - F - rep
+        dm = p["J"] - p["delta"] * m - F - p["rcost"] * rep
         dT = sig - p["kT"] * T + rep
         dD = p["kT"] * T - rep - p["lam"] * D
     else:
