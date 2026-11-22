@@ -15,10 +15,31 @@
 - Step 1: target not already held (no executed study cites CASE-274;
   CASE-tmpb4hg0 is LEAD-172's modular-addition run, a different design).
 
+- Step 2: numpy transformer, probes, study and analysis scripts; 9 tests
+  pass. Smoke run (seed 0, two arms) worked; settings revised after it
+  (fine-tune lr 1e-3 -> 3e-4, fine-tune past criterion, relearning checked
+  every step).
+- Step 3 (running): seeds 0,1 -> results_a.jsonl; seeds 2,3 ->
+  results_b.jsonl. Pretrained weights cached in the scratchpad only.
+
 ## Next
 
-- Write the model and study script, with tests; smoke-test pace.
+- When the runs finish: analyze.py, then file the CASE, claims, notes on
+  LEAD-043, QUESTION-275, QUESTION-010 and QUESTION-274, and the changelog.
 
 ## Choices
 
-(none yet)
+- No torch: numpy with a hand-written backward pass (gradient-checked).
+- Synthetic facts, 2-layer model, 4 seeds, matched twin per seed (the
+  twin's values give every readout its false-positive baseline).
+- Fine-tune-away method is open in the lead: run three (unlearn to
+  uniform, gradient ascent, overwrite), each at one cue and at two, plus
+  catastrophic forgetting by a new task without rehearsal.
+- Train to criterion, then as many steps again (min 100): forgetting is not
+  read at the boundary where any perturbation restores it.
+- Template C (unseen for the target subjects) did not generalize in the
+  smoke run (0.06-0.16 on targets before fine-tuning), so it cannot test
+  readdressing through an unseen query variant; kept and reported.
+- CASE-274's interventions not run: closed-form linear erasure, cue
+  remapping, targeted parameter edits beyond overwrite, task-vector merge,
+  RL; the budget axis is only coverage from p (no selector).

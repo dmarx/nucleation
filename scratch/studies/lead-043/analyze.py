@@ -52,7 +52,7 @@ def summarize(recs):
         rel = {"own": [], "other": [], "held_own": [], "held_other": [],
                "held0_own": [], "held0_other": []}
         pre = {"A": [], "B": [], "C": []}
-        ft, retain, allold = [], [], []
+        ft, crit, retain, allold = [], [], [], []
         for r in rs:
             cues = r["cues"]
             for wd in "AB":
@@ -73,7 +73,8 @@ def summarize(recs):
                     rel["held0_" + tag].append(float(tr[0, 2]))
                 for t in pre:
                     pre[t].append(r["pre"][wd]["target"][t])
-                ft.append(r["ft_steps"][wd])
+                ft.append(r["ft_steps"][wd]["total"])
+                crit.append(r["ft_steps"][wd]["criterion"])
                 retain.append(post["retain_acc"]["A"])
                 allold.append(post["all_old_acc_A"])
         mask = np.concatenate(mask).astype(bool)
@@ -81,6 +82,7 @@ def summarize(recs):
                "n_forgotten_A": int(mask.sum()),
                "pre_target_acc": {t: float(np.mean(v)) for t, v in pre.items()},
                "ft_steps_median": float(np.median(ft)),
+               "ft_criterion_steps": crit,
                "retain_acc_A": float(np.mean(retain)),
                "all_old_acc_A": float(np.mean(allold)),
                "readouts_on_forgotten": {}, "relearn": {}}

@@ -31,7 +31,7 @@ TEMPLATES = ("A", "B", "C")
 METHODS = ("unlearn", "ascent", "overwrite")
 ARMS = tuple(m + c for m in METHODS for c in ("A", "AB")) + ("newtask",)
 PRE_STEPS, PRE_LR, WD = 600, 3e-3, 0.01
-FT_LR, FT_MAX, RL_LR, RL_MAX = 1e-3, 1500, 1e-3, 600
+FT_LR, FT_MAX, FT_MIN, RL_LR, RL_MAX = 3e-4, 1500, 100, 3e-4, 600
 STAGES = ("emb", "attn0", "mlp0", "attn1", "mlp1")
 
 
@@ -154,8 +154,21 @@ def finetune(p0, arm, w, world):
         stop = lambda q: acc(q, ft, oy) >= 1.0
     else:
         stop = lambda q: acc(q, ft, fy) <= 1.0 / O
-    steps = train(p, tok, tgt, wt, FT_LR, FT_MAX, stop=stop)
-    return p, steps, cues
+    # Train to the arm's criterion, then as many steps again (at least FT_MIN
+    # in all), so that forgetting is not read at its boundary.
+    opt = tt.Adam(p, FT_LR, wd=WD)
+    tgt, wt = tgt.astype(np.float32), wt.astype(np.float32)
+    crit, i = None, 0
+    while i < FT_MAX:
+        i += 1
+        lg, c = tt.forward(p, tok)
+        _, d = tt.loss_grad(lg, tgt, wt)
+        opt.step(p, tt.backward(p, c, d))
+        if crit is None and i % 5 == 0 and stop(p):
+            crit = i
+        if crit is not None and i >= max(2 * crit, FT_MIN):
+            break
+    return p, {"criterion": crit, "total": i}, cues
 
 
 def readouts(p, p0, w, own, other, retain_world):
@@ -231,7 +244,7 @@ def relearn(p_ft, arm, w, world, values, cues):
 
     log(0, p)
     steps = train(p, tok, tgt, wt, RL_LR, RL_MAX, stop=lambda q: acc(q, rt_tok, rt_y) >= 1.0,
-                  every=5, log=log)
+                  every=1, log=log)
     return {"steps": steps, "traj": traj}
 
 
