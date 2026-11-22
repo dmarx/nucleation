@@ -25,6 +25,7 @@ summary: >-
   self-stabilizing oscillation at the Edge of Stability, absent under
   small-step full-batch GD. Progress runs along the valley's flat floor.
 ---
+<!-- inactive-ok-file: TERM-tmpf5ymd — Proposed; filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpthmd7 CLAIM-835 ARG-139 TERM-137 THEORY-078 THEORY-209 LIT-tmplp1by LIT-tmpwa65s — Proposed or new; the account this reading files and the entries it bears on -->
 
 # NOTE-tmpw0eql: Song, Ahn & Yun — Does SGD really happen in tiny subspaces?
@@ -151,3 +152,10 @@ Nothing here is filed as an instruction for machine-learning practice.
   floor at the switch; the distance measurements support it for the runs
   shown, not in general.
 - Generalization only preliminary; no representation measured.
+
+## Note of 2026-11-22: a correction, at the owner's word
+
+An earlier note here says Song, Ahn and Yun "measure only training-loss descent", and the relay behind it treated that as less than learning. The owner corrected both: "training loss falling is evidence that learning is happening. the capabilities are being measurably developed. … that's a measure of the learning that is happening, which is concretely the changes that are happening within the organization of the model's representational space". The relay also read the paper's "bulk subspace" in the owner's sense of "bulk". It is the paper's term for the many low-curvature directions, the bulk by count, where the owner's "bulk" is the dominant directions, the bulk by weight ([TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md)).
+
+Read so, Song et al. bear on the owner's question more than the earlier note said. Projecting each update onto the dominant directions, the bulk by weight, stops training. Projecting onto the rest, the low-curvature directions that carry little of the operator's activity, trains as fast as SGD. So capability develops through the non-dominant directions. What the paper still does not do is follow one direction through training or say which distinctions it comes to carry. The note is the assistant's (Claude, in this session).
+
