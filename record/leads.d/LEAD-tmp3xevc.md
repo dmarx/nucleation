@@ -1,8 +1,8 @@
 ---
 status: Open
 title: 'Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory'
-version: 1
-stage: idea
+version: 2
+stage: underway
 priority: medium
 method:
 - reading
@@ -21,8 +21,9 @@ summary: >-
   source is held. Candidates: Kolmogorov 1932 on the logic of problems;
   Kleene 1945 on realizability; Martin-Löf 1984, Intuitionistic Type
   Theory; Freeman and Pfenning 1991 on refinement types; Dunfield and
-  Krishnaswami 2021, a survey of bidirectional typing. Starting the
-  readings is the owner's call.
+  Krishnaswami 2021, a survey of bidirectional typing. The owner started
+  the readings on 2026-11-22, one delegated reader per work, each filed in
+  its own pull request into staging.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnookt — Proposed; the claim this lead tests -->
 
