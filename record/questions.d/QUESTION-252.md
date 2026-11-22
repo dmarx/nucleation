@@ -233,14 +233,14 @@ ChatGPT (A84) names operative reification as one of two foundational programs: "
 ## Note of 2026-11-22: the table for linear Gaussian VAR(1) and VAR(2)
 <!-- inactive-ok-file: CASE-tmpo5jhq CLAIM-tmp186gy CLAIM-tmp9xo66 — new; filed from LEAD-173 -->
 
-LEAD-173 worked the answer form named here for the first class, with the
-regime declared (CASE-tmpo5jhq). CLAIM-tmp186gy offers the table: three
-entailments, D ⇒ M in VAR(1) only (CLAIM-389), P ∧ D ∧ M ⇒ A in every
+[LEAD-173](../leads.d/LEAD-173.md) worked the answer form named here for the first class, with the
+regime declared ([CASE-tmpo5jhq](../cases.d/CASE-tmpo5jhq.md)). [CLAIM-tmp186gy](../claims.d/CLAIM-tmp186gy.md) offers the table: three
+entailments, D ⇒ M in VAR(1) only ([CLAIM-389](../claims.d/CLAIM-389.md)), P ∧ D ∧ M ⇒ A in every
 regime, and A ⇒ P at zero tolerance, and a witness for each of the other
 configurations, 16 of 32 in VAR(1) and 22 in VAR(2) at ε = 0. As leave-one-out
 results: independence fails alone (the round trip without return of
-CLAIM-389, behind a target that reads an autonomous part of Y), and so does
-tractability; memory closure fails alone only from VAR(2), where CLAIM-389's
+[CLAIM-389](../claims.d/CLAIM-389.md), behind a target that reads an autonomous part of Y), and so does
+tractability; memory closure fails alone only from VAR(2), where [CLAIM-389](../claims.d/CLAIM-389.md)'s
 "impossible in VAR(1)" cell opens; sufficiency only at a positive tolerance;
 fidelity never. The entailment that forbids the last is three-place, so no
 pairwise table shows it.
@@ -248,6 +248,6 @@ pairwise table shows it.
 On the conditions that dissolved into parameters: at h = 1 fidelity is
 sufficiency; whether sufficiency can fail alone turns on ε; whether memory
 can turns on the class. With the target declared as Y's own future,
-sufficiency and fidelity are each D ∧ M (CLAIM-tmp9xo66), A3's collapse.
+sufficiency and fidelity are each D ∧ M ([CLAIM-tmp9xo66](../claims.d/CLAIM-tmp9xo66.md)), A3's collapse.
 Whether these answer the question for this class, and so whether it
 splits, is the owner's call. The question is unchanged and stays Open.

@@ -29,12 +29,12 @@ uses:
 complements:
 - CLAIM-tmp9xo66
 summary: >-
-  LEAD-173's answer to QUESTION-252 for linear Gaussian VAR(1) and VAR(2).
+  [LEAD-173](../leads.d/LEAD-173.md)'s answer to [QUESTION-252](../questions.d/QUESTION-252.md) for linear Gaussian VAR(1) and VAR(2).
   Pairwise only D ⇒ M (VAR(1)) and, at zero tolerance, A ⇒ P hold; the
   entailment that forbids failing A alone is three-place, P ∧ D ∧ M ⇒ A,
   and a pairwise table cannot show it. Tractability, as a dimension
   budget, is independent of everything. Proofs here, constructions in
-  CASE-tmpo5jhq. The wording is the assistant's (Claude, in this session);
+  [CASE-tmpo5jhq](../cases.d/CASE-tmpo5jhq.md). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpo5jhq CLAIM-tmp9xo66 — new; the study this claim rests on and the alternative declaration filed beside it -->
@@ -44,14 +44,14 @@ summary: >-
 ## The claim
 
 The class, the regime and the five conditions are as declared in
-CASE-tmpo5jhq: X a stable stationary linear Gaussian VAR(p) with Σ ≻ 0,
+[CASE-tmpo5jhq](../cases.d/CASE-tmpo5jhq.md): X a stable stationary linear Gaussian VAR(p) with Σ ≻ 0,
 Y_t = LX_t, target Z_{t+1} = GX_{t+1}; P is E[Z_{t+1} | X⁻] = E[Z_{t+1} | Y_t];
 D is E[Y_{t+1} | X⁻] = E[Y_{t+1} | Y⁻]; M is zero Mori memory for the
 projection onto span(Y_t), equivalently E[Y_{t+1} | Y⁻] = ΩY_t; A is that
 the reduced model Ẑ_{t+k} = HΩ^{k−1}Y_t has relative excess error at most
 ε over E[Z_{t+k} | X⁻] for k = 1, …, h, h = 2; C is dim Y ≤ b.
 
-**E1. In VAR(1) with Σ ≻ 0, D ⇒ M.** This is CLAIM-389: D holds iff
+**E1. In VAR(1) with Σ ≻ 0, D ⇒ M.** This is [CLAIM-389](CLAIM-389.md): D holds iff
 the row space of L is invariant under Aᵀ, and then every memory kernel
 vanishes. It fails in VAR(2): an autonomous AR(2) coarse variable is
 dynamically independent and has memory. The proof needs Σ ≻ 0, and the
@@ -69,12 +69,12 @@ form.
 k = 1 is P's defect, since HY_t is the best predictor of Z_{t+1} from Y_t.
 
 **Completeness.** Every configuration of the 32 that E1–E3 do not forbid
-has a witness in CASE-tmpo5jhq: 16 in VAR(1) at ε = 0, 22 at ε = 0.01, 22
+has a witness in [CASE-tmpo5jhq](../cases.d/CASE-tmpo5jhq.md): 16 in VAR(1) at ε = 0, 22 at ε = 0.01, 22
 in VAR(2) at ε = 0 and 30 at ε = 0.01. So these are the only entailments,
 and the table is:
 
 - **Leave-one-out.** Failing D with the other four holding is realizable
-  in every regime: Y = (an autonomous AR(1), CLAIM-389's dependent
+  in every regime: Y = (an autonomous AR(1), [CLAIM-389](CLAIM-389.md)'s dependent
   coordinate), with a target that reads the AR(1) part. Failing C is
   realizable everywhere: pad Y. Failing M is impossible in VAR(1) (E1)
   and realizable in VAR(2): Y = (AR(1), AR(2)). Failing P is impossible
@@ -87,23 +87,23 @@ and the table is:
   return over a pairwise one: the fifth condition fails alone nowhere,
   and no pair shows it.
 
-**What dissolved into parameters** (QUESTION-252's last request). At
+**What dissolved into parameters** ([QUESTION-252](../questions.d/QUESTION-252.md)'s last request). At
 h = 1, A is P, so A is not a separate condition at that horizon; it
 becomes one only from h = 2. At ε = 0 it is stronger than P, at ε > 0
 neither implies the other, so whether P can fail alone is a fact about
 the tolerance, not the system. C, as a dimension budget, interacts with
-nothing; as a sample budget it would be a parameter of A (CLAIM-401).
+nothing; as a sample budget it would be a parameter of A ([CLAIM-401](CLAIM-401.md)).
 And whether M can fail alone is a fact about the model class (VAR(1)
-against VAR(2)), as QUESTION-252 asks.
+against VAR(2)), as [QUESTION-252](../questions.d/QUESTION-252.md) asks.
 
 ## What it does not say
 
 - **Not that the five are independent in general.** Under other
   declarations the table changes. With the target taken to be Y's own
-  future, P and A each collapse into D ∧ M (CLAIM-tmp9xo66). With a
+  future, P and A each collapse into D ∧ M ([CLAIM-tmp9xo66](CLAIM-tmp9xo66.md)). With a
   horizon set that omits k = 1, E3 goes. With A's error measured against
   the realized future, A can fail with P, D and M exact, by noise alone,
-  and E2 goes. Which declaration QUESTION-252 means is the owner's call;
+  and E2 goes. Which declaration [QUESTION-252](../questions.d/QUESTION-252.md) means is the owner's call;
   this claim holds for the one stated.
 - **Not about approximate versions.** P, D and M are exact here and only
   A carries a tolerance. With tolerances on all four, E1–E3 become
@@ -114,4 +114,4 @@ against VAR(2)), as QUESTION-252 asks.
 - **Not that the witnesses are typical.** The witnesses with P exact are
   built with a copy row, and those with D or M failing behind an exact A
   put the failure in a part of Y the target does not read: target-
-  relativity, which is CLAIM-401's point, doing the work.
+  relativity, which is [CLAIM-401](CLAIM-401.md)'s point, doing the work.
