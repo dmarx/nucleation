@@ -24,7 +24,32 @@ the backlog audit and the triage.
 
 ## Done
 
+- LIT-2532 copy sought 2026-11-22: OpenAlex lists the publisher (Wiley,
+  Cloudflare on 2026-11-12, not retried) and UT Tyler ScholarWorks
+  (https://scholarworks.uttyler.edu/cgi/viewcontent.cgi?article=1016&context=mgmt_fac),
+  which served a Cloudflare challenge (HTTP 403); not retried. Europe PMC: no
+  record. NOT READ.
+- Filed CLAIM-tmpq1213 (thesis): the wrong beyond the harm is the defeat of
+  those affected's standing to contest, directed at the conditions of their
+  claims' uptake; holds with expected harm matched; no intending actor; not
+  gaslighting in the senses held.
+- Filed CLAIM-tmpvv7fw (counter): the instrumentalist reduction, objects_to
+  the new claim and CLAIM-614.
+- Filed ARG-tmpl0o7n (existence): two water utilities, matched H, C and
+  expected C, differing in a reproduced complaint taxonomy; concludes the new
+  claim and CLAIM-614.
+
+## Choices made
+
+- Standing to contest is taken as a condition, not derived from the harm
+  being a wrong (CLAIM-738 says that passage needs its own warrant).
+- The unavoidable-projection case is left open, as CLAIM-614 and CLAIM-624
+  leave it; Thomson's infringement/violation split mentioned, not filed.
+- Alternative (owner's): if standing and CLAIM-624's duty are one relation,
+  the new claim restates CLAIM-624 and the ARG should conclude CLAIM-614 and
+  CLAIM-624. Lean: keep the new claim.
+
 ## Next
 
-- Locate a lawful copy of LIT-2532 (OpenAlex lists UT Tyler ScholarWorks, submitted version).
-- Write the argument; file entries.
+- Dated notes on LEAD-097, CLAIM-614, CLAIM-624, QUESTION-441, LIT-2532.
+- Changelog fragment record/changelog.d/lead-097.md.
