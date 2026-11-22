@@ -23,10 +23,15 @@ this study. LEAD-052 is cited only by itself and the curation entry of
 - Run started 2026-11-22 (PID in the session scratchpad, lead-052/run.pid),
   writing results/runs.jsonl one line per item; rerun resumes.
 
+- Run finished: 2699 items in 419 s; compacted (compact.py) to 1.0 MB;
+  summaries at five (delta, tol) settings.
+- README.md with design, derivation (commutation by tree symmetry; kernel
+  T_l exact; deep linear order by c_l g_l) and results.
+
 ## Next
 
-- Finish runs (E1, E2, E3); analyse.py for the phase tables.
-- README with results; CASE, CLAIM, notes, changelog fragment.
+- CASE (executed-study), CLAIM(s), dated notes on QUESTION-217,
+  QUESTION-039, LEAD-052; changelog fragment record/changelog.d/lead-052.md.
 
 ## Choices
 
