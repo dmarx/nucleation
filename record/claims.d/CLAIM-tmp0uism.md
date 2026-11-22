@@ -60,9 +60,8 @@ summary: >-
   CASE-tmpjw1l1. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-440 TERM-076 — Proposed; the claim whose debt this pays and the term it is stated in, cited as open -->
+<!-- inactive-ok-file: CLAIM-440 TERM-076 CLAIM-451 — Proposed; the claim whose debt this pays, the term it is stated in and the narrowing it keeps, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpaibxx CLAIM-tmpkcsp7 CASE-tmpjw1l1 — new on 2026-11-22; the alternative, the procedure and its application filed with this claim for LEAD-041 -->
-<!-- inactive-ok-file: LIT-1453 LIT-1456 — Unavailable, unread; the papers that state the model, read through LIT-1438 -->
 
 # CLAIM-tmp0uism: The evaluative space model's positivity and negativity channels are perspectives in the thin sense goal-conduciveness valence uses: each ranks the options by its own activation, the two rankings contest exactly the approach–avoidance pairs, and each holds an authority over action apart from its activation, in its gain, its offset and the override of higher levels; so the model's neutral point, both channels low, is no contest, where valence is undefined, not neutrality, and its coactivation is contest, which a record of conduct shows as ambivalence only when no candidate ordering, a stable compromise included, accounts for the decisions
 

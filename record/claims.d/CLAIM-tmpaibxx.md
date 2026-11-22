@@ -1,81 +1,82 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected. A conceded one is recorded by its
-# target's revision, and keeps the status its own evidence gives it (ADR-059).
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'inputs'
-
+title: 'The evaluative space model''s two channels are inputs to one evaluator, not perspectives: gain, offset and override parameterize a single response surface that combines them, so no channel holds an authority of its own, the model''s coactivation is one ordering with high input on both sides, and goal-conduciveness valence should cite the model only for the distinction between ambivalence and neutrality, not for split potential'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
-role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed 2026-11-22 by the assistant carrying out LEAD-041, as the
+    alternative to CLAIM-tmp0uism. The two read the same postulates
+    differently; which reading the record adopts is the owner's choice.
+    NOTE-1101's open question, "Whether coactivation is two potential
+    rankings or one ranking with high input on both sides", is the choice.
+role: counter
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
-defeated_if: >-
-  The kind of result or argument that would defeat this.
-
 tags:
-- agency
-
+- emotion-and-affect
+- self-governance
 date: '2026-11-22'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
-- will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# Before filing a counter, ask: does it say the conclusion is false, or that
-# something does not show it? The second is not a claim but an ARG from the
-# premises to the conclusion, Rejected or Proposed (ADR-061).
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+- organizational-affect
+objects_to:
+- CLAIM-tmp0uism
+bears_on:
+- QUESTION-268
+grounds:
+- LIT-1438
+uses:
+- TERM-076
+summary: >-
+  The alternative to CLAIM-tmp0uism, filed so that the owner can choose.
+  On the model's own statement the combined output is a single bipolar
+  predisposition, a fixed function of the two activations, and its gain
+  and offset are parameters of that function. Read so, nothing negotiates:
+  there is one evaluator whose input has two components, and CLAIM-440's
+  split potential remains a reinterpretation of coactivation, as NOTE-1101
+  said. The procedure (CLAIM-tmpkcsp7) is unaffected, since it reads
+  conduct, but what it would call ambivalence in an organism would be
+  noise around a middling net predisposition, not two rankings winning in
+  turn. The wording is the assistant's (Claude, in this session); adopting
+  it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-440 TERM-076 — Proposed; the claim and term whose reading of the model this concerns, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmp0uism CLAIM-tmpkcsp7 — new on 2026-11-22; the reading this is the alternative to, and the procedure, filed together for LEAD-041 -->
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpaibxx: inputs
+# CLAIM-tmpaibxx: The evaluative space model's two channels are inputs to one evaluator, not perspectives: gain, offset and override parameterize a single response surface that combines them, so no channel holds an authority of its own, the model's coactivation is one ordering with high input on both sides, and goal-conduciveness valence should cite the model only for the distinction between ambivalence and neutrality, not for split potential
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+CLAIM-tmp0uism finds TERM-076's three marks in the evaluative space model:
+two rankings, contest, and authority. This reading grants the first two
+and denies the third.
+
+- The model's output is one bipolar predisposition over the evaluative
+  plane, "many-to-one" over the two activations (NOTE-1101). Its gain and
+  offset are the shape of that function. A parameter of the function that
+  combines two inputs is not an authority one input holds against the
+  other: nothing in the model has a channel claim control and be refused
+  it, which is what CLAIM-283 separates.
+- Heterarchical override is a higher level overriding a lower, not one
+  channel overriding the other. It makes levels candidates for
+  perspectives, not channels.
+- So in the model's own terms there is one evaluator with two inputs. A
+  record of an organism's conduct that alternates under coactivation shows
+  noise around a middling net predisposition, and the record cannot tell
+  that from two rankings winning in turn.
+
+What follows for CLAIM-440: its consequence 4 should cite the model for
+the distinction between ambivalence and neutrality, which is the model's
+founding point, and drop it as the source of split potential, which then
+needs another source.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- That the channels are not separable. It grants separability, and that
+  they rank the options differently.
+- That the procedure of CLAIM-tmpkcsp7 fails. The procedure reads conduct;
+  this reading changes what an alternating verdict would mean in an
+  organism, not whether it can be returned.
+- That organizations' channels are inputs too. The dual mandate of
+  CASE-tmpjw1l1 has members and blocs who argue for each channel, which the
+  model's channels lack.
