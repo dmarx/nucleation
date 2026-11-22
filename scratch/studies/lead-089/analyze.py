@@ -11,11 +11,17 @@ import numpy as np
 HERE = os.path.dirname(os.path.abspath(__file__))
 RUNS = os.path.join(HERE, "results", "runs.jsonl")
 OUT = os.path.join(HERE, "results", "summary.json")
-CONTROL = ["C0", "C1", "C2", "C3"]
+RUNS_C4 = os.path.join(HERE, "results", "runs_c4.jsonl")
+CONTROL = ["C0", "C1", "C2", "C3", "C4"]
 
 
 def main():
     rows = [json.loads(l) for l in open(RUNS)]
+    c4 = {(r["world"], r["n"], r["seed"]): r for r in map(json.loads, open(RUNS_C4))}
+    for r in rows:
+        extra = c4[(r["world"], r["n"], r["seed"])]
+        assert abs(extra["truth"]["lp_new"] - r["truth"]["lp_new"]) < 1e-12  # same data
+        r["models"]["C4"] = extra["models"]["C4"]
     groups = defaultdict(list)
     for r in rows:
         groups[(r["world"], r["n"])].append(r)
@@ -42,7 +48,7 @@ def main():
     with open(OUT, "w") as fh:
         json.dump(summary, fh, indent=1)
     print(f"{'world':14s} {'n':>5s} {'lnBF med':>9s} {'[min,max]':>18s} {'WO wins':>7s}  "
-          "regret on unseen arrangements, nats/episode: WO C0 C1 C2 C3")
+          "regret on unseen arrangements, nats/episode: WO C0 C1 C2 C3 C4")
     for e in summary:
         b = e["lnBF_WO_vs_best_control"]
         g = e["lp_new"]

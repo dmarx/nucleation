@@ -28,6 +28,9 @@ C0   controller blind to authority: P(y | x), Dirichlet(1,1,1) per context.
 C1   saturated metacontrol lookup: P(y | x, a), Dirichlet(1,1,1) per cell.
 C2   metacontrol gate: softmax over regimes, values linear in (1, x, a).
 C3   C2 plus every pairwise product within x and between x and a.
+C4   a gate saturated in the context, each authority bit modulating each
+     context separately: one-hot x, and one-hot x times s, j and v (32
+     features), with no product of two authority bits.
 
 Evidence (log marginal likelihood) is exact for C0 and C1, by quadrature for
 WO, and by Laplace's approximation for C2 and C3 (regular, Gaussian prior).
@@ -139,7 +142,16 @@ def c1(n):
 # ---------------------------------------------------------- logistic gates
 
 def features(kind):
-    """Feature matrix Phi[x, a, d] for gate C2 or C3."""
+    """Feature matrix Phi[x, a, d] for gate C2, C3 or C4."""
+    if kind == "C4":
+        Phi = np.zeros((NX, NA, 4 * NX))
+        names = [f"x{x}" for x in range(NX)] + [f"x{x}*{c}" for c in "sjv" for x in range(NX)]
+        for x in range(NX):
+            for a in range(NA):
+                Phi[x, a, x] = 1.0
+                for i, bit in enumerate(bits(a)):
+                    Phi[x, a, NX * (i + 1) + x] = bit
+        return Phi, names
     rows = np.zeros((NX, NA), dtype=object)
     names = None
     for x in range(NX):

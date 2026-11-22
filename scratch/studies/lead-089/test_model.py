@@ -86,3 +86,10 @@ def test_gate_recovers_additive_world():
     le2, _, _ = M.gate_fit(n, Phi)
     le1, _ = M.c1(n)
     assert le2 > le1
+
+
+def test_c4_features():
+    Phi, names = M.features("C4")
+    assert Phi.shape == (8, 8, 32) and len(names) == 32
+    assert np.allclose(Phi[:, :, :8].sum(-1), 1)
+    assert Phi[5, 0b101, 8 + 5] == 1 and Phi[5, 0b101, 16 + 5] == 0
