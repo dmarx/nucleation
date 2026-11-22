@@ -42,9 +42,27 @@ ARG-051, CLAIM-027 as warranted.
   Europe PMC REST fullTextXML returned HTTP 500 for PMC4371998, PMC6206062,
   PMC6388084.
 
+- Step 4: Boayue et al. registered report read from the authors' Stage 2
+  preprint via OSF API (osf.io/dfex3 -> osf.io/download/3rfrs/).
+- Step 5: LITs filed: LIT-tmpquab4 (Axelrod 2015), LIT-tmpg3vlm (Axelrod,
+  Zhu & Qiu 2018), LIT-tmp9cpfz (Boayue et al.), LIT-tmp4vtkl (Fox &
+  Christoff letter, supplement). Codes reserved: NOTE-tmp7gplv, -tmp36b7e,
+  -tmps966y, -tmp58cil; THEORY-tmpgl7zr (2015), -tmprbqew (2018),
+  -tmpseev1 (Boayue); ARG-tmpqszyu (tDCS readings do not show CLAIM-027,
+  Rejected); curation 2026/11/22/170512.md.
+
+## Choices made
+
+- The ARG concludes CLAIM-027 (form evidence, Rejected): the readings do
+  not test H1/H3, so they carry nothing for CLAIM-027. No new claim in
+  Metzinger's voice: THEORY-1300 already holds the H1/H3 account.
+- THEORY rivals between the 2015/2018 effect and Boayue's null; whether
+  Boayue `corrects` Axelrod 2015 is left to the owner.
+
 ## Next
 
-- Read Boayue et al. 2020 (registered report) via OSF preprint if open.
+- Write NOTEs, THEORYs, ARG; dated notes on LEAD-141, ARG-051, CLAIM-027,
+  THEORY-1300, THEORY-1296, QUESTION-367; curation; changelog.
 
 - Register LIT for Axelrod 2015, file NOTE and THEORY.
 - Search for H1/H3 tests.
