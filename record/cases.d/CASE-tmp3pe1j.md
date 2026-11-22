@@ -128,7 +128,7 @@ therefore does not meet [CLAIM-685](../claims.d/CLAIM-685.md)'s defeater — it 
 and not one explained away by evidence — so it *illustrates* the claim without
 bearing its weight.
 
-## Owner's call: how tightly to bind this to CLAIM-685
+## Owner's call: how tightly to bind this to [CLAIM-685](../claims.d/CLAIM-685.md)
 
 The lean filed here is `illustrates: CLAIM-685` plus `bears_on: QUESTION-128`:
 the honest relation for an underpowered illustration, which makes the claim
