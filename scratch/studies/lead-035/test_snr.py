@@ -111,6 +111,17 @@ def test_unprojected_step_is_faster():
     assert np.all(om1 - om0 > 1.1 * eta * snr.han_rate(om0, N, C))
 
 
+def test_plain_ls_gradient_conserves_second_moment():
+    """L_LS is invariant to invertible affine maps of the features, so its
+    gradient G satisfies G H^T = 0 and G 1 = 0: plain gradient flow keeps
+    Sigma_T and the global mean fixed. Without re-whitening, omega can
+    diverge only by Sigma_W turning singular inside a fixed Sigma_T."""
+    H, Y, labels = features(seed=4)
+    G = snr.ls_grad(H, Y)
+    assert np.abs(G @ H.T).max() < 1e-12
+    assert np.abs(G.sum(axis=1)).max() < 1e-12
+
+
 def test_loglog_slope():
     t = np.logspace(1, 5, 20)
     assert snr.loglog_slope(t, 3 * t ** 0.25) == pytest.approx(0.25)
