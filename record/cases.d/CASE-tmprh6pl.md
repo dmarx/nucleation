@@ -1,5 +1,4 @@
 ---
-number: tmprh6pl
 status: Proposed
 formerly:
 - CASE-tmprh6pl
@@ -34,7 +33,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-157 CLAIM-154 CLAIM-170 CLAIM-174 — Proposed (CLAIM-154 Active); the admission test this run enumerates, open -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-170 CLAIM-174 — Proposed (CLAIM-154 Active); the admission test this run enumerates, open -->
 
 # CASE-tmprh6pl: An executed enumeration shows the self-consistent factorizations of a fixed coupling matrix are single-linkage dendrogram cuts, hence a nested chain: over 12000 random families no two crosscut, exact symmetry does not force a tie, and grain is the only multiplicity
 

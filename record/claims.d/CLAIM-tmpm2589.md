@@ -1,5 +1,4 @@
 ---
-number: tmpm2589
 status: Proposed
 formerly:
 - CLAIM-tmpm2589
@@ -87,7 +86,7 @@ nested**. Therefore:
 
 ## What it settles, and what it leaves to the owner
 
-- **LEAD-109.** A fixed level and target *can* carry several self-consistent
+- **[LEAD-109](../leads.d/LEAD-109.md).** A fixed level and target *can* carry several self-consistent
   factorizations (the open part of [CLAIM-168](CLAIM-168.md) and [CLAIM-174](CLAIM-174.md) is
   answered: the fixed-point condition has, in general, more than one
   solution). But the solutions are a nested hierarchy, not a crosscutting

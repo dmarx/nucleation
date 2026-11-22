@@ -1,19 +1,19 @@
 ### Added
 
-- CASE-tmprh6pl (executed-study): a numpy enumeration for LEAD-109 showing
+- [CASE-tmprh6pl](record/cases.d/CASE-tmprh6pl.md) (executed-study): a numpy enumeration for [LEAD-109](record/leads.d/LEAD-109.md) showing
   the self-consistent factorizations of a fixed coupling matrix are
   single-linkage dendrogram cuts, hence a nested chain — no crosscutting
   ties in 12000 random families, no tie forced by exact symmetry, grain the
   only multiplicity. Study under `scratch/studies/lead-109/`.
-- CLAIM-tmpm2589 (thesis, demonstrated, Proposed): at a fixed level and
+- [CLAIM-tmpm2589](record/claims.d/CLAIM-tmpm2589.md) (thesis, demonstrated, Proposed): at a fixed level and
   target the self-consistent factorizations into agents form a nested
   hierarchy about a unique finest partition; crosscutting disagreement is
-  impossible, so CLAIM-170's defeater is not met in the strong sense and
+  impossible, so [CLAIM-170](record/claims.d/CLAIM-170.md)'s defeater is not met in the strong sense and
   only the grain is left open — with three ways to treat that filed as the
   owner's call.
-- TERM-tmpdlwl8: the crosscutting-versus-nested distinction the finding
+- [TERM-tmpdlwl8](record/terms.d/TERM-tmpdlwl8.md): the crosscutting-versus-nested distinction the finding
   turns on.
 
 ### Changed
 
-- LEAD-109: a dated note recording what was done and what remains.
+- [LEAD-109](record/leads.d/LEAD-109.md): a dated note recording what was done and what remains.
