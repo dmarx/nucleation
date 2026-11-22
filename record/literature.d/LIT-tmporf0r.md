@@ -1,0 +1,75 @@
+---
+status: Unfetched
+status_note: >-
+  a lawful copy located and not read, 2026-11-22: the CC BY-NC-ND full
+  text at PubMed Central, PMC12569012, through the Europe PMC REST
+  interface
+  https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12569012/fullTextXML,
+  which answered HTTP 500 (Internal Server Error) three times that day;
+  no other route was tried, since the brief confined LEAD-062 to Europe
+  PMC and arXiv. Registered from the LEAD-062 search (Europe PMC, query
+  2).
+title: 'Mapping prescriptive beliefs on seventh generation stewardship and increasing the temporal scope of intergenerational concern'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed, not read, from the LEAD-062 search of Europe PMC
+    (scratch/studies/lead-062/search.md). Europe PMC gives K. F. Law,
+    S. Syropoulos, L. Young and B. B. O'Connor (initials only),
+    Scientific Reports 15: 37618, first published 28 October 2025, the
+    `published:` date; Crossref was not consulted, since the brief
+    confined this lead to Europe PMC and arXiv. The full-text fetch
+    failed with a server error (ADR-053). A grep of record/literature.d
+    for the DOI, the title and the first author on 2026-11-22 found
+    nothing.
+tags:
+- future-generations
+- moral-psychology
+- altruism
+date: '2026-11-22'
+published: '2025-10-28'
+doi: '10.1038/s41598-025-21466-9'
+first_author: 'Law'
+keywords:
+- 'future generations'
+- 'moral expansiveness'
+- 'intergenerational concern'
+- 'intergenerational discounting'
+- 'decision-making'
+implementations: []
+summary: >-
+  Law, Syropoulos, Young and O'Connor (2025), DOI-10.1038/s41598-025-21466-9.
+  Five preregistered studies (N = 3,876) map how many future generations
+  people think individuals and governments should consider, and report
+  that "targeting the interconnectedness of people across time" widened
+  the horizon of intergenerational concern. Here for LEAD-062: it may
+  manipulate felt connection with future people and measure concern for
+  them, the lead's test, if it also separates caring. Unfetched; the
+  abstract's report is unverified until read.
+---
+<!-- inactive-ok-file: LIT-tmpmox49 — new; read for the same lead -->
+
+# LIT-tmporf0r: Mapping prescriptive beliefs on seventh generation stewardship and increasing the temporal scope of intergenerational concern
+
+K. F. Law, S. Syropoulos, L. Young and B. B. O'Connor (2025). *Scientific Reports* 15: 37618. DOI-10.1038/s41598-025-21466-9
+
+## Key takeaways
+
+*Not read.* By the abstract: five preregistered studies of Americans on
+Prolific map prescriptive beliefs about how many future generations
+decisions should consider, and the intergenerational depth of obligation
+and concern; an intervention "targeting the interconnectedness of people
+across time" expanded the temporal horizon of concern and reduced
+intergenerational discounting. Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-22 by the LEAD-062 search. Of the works the search
+found, this is the likeliest to hold the lead's test: an intervention on
+felt connection across time, with concern for future people as the
+outcome. Whether it measures caring apart from connection is unknown.
+Simić et al. (LIT-tmpmox49), read for the same lead, is the nearest
+work read; it varies a group's continuity, not a connection with future
+people.
