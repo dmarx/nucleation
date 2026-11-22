@@ -237,7 +237,7 @@ A48 §8's "learning oneself into a trap" is an internal case of this model. The 
 
 No status change.
 
-## Note of 2026-11-22: the restriction variant of this model (LEAD-104)
+## Note of 2026-11-22: the restriction variant of this model ([LEAD-104](../leads.d/LEAD-104.md))
 
 Carrying out [LEAD-104](../leads.d/LEAD-104.md), [CASE-tmprcg71](../cases.d/CASE-tmprcg71.md) rebuilds this model with the
 outside support replaced by a restriction that removes the doing, and with

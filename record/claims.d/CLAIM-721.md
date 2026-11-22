@@ -148,7 +148,7 @@ it lasts.
   prevent irreversible harm, and provide time to investigate", so
   "present restraint protects future governability."
 
-## Note of 2026-11-22: the model has been written (LEAD-104)
+## Note of 2026-11-22: the model has been written ([LEAD-104](../leads.d/LEAD-104.md))
 
 The model this claim named and said "no one has written" — [CLAIM-605](CLAIM-605.md)'s
 "with reinstatement made a threshold on capacity" — was written and run
