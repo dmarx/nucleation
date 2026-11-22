@@ -63,9 +63,16 @@ Model decisions (mine, explained in README/CASE): bonds {a,b}=alternative seams,
 seams (Dunn) and unnucleated collapse (DeLuca/Sobczak); invented rates, T scales
 off-rates (CASE-216 echo). Committor = exact linear solve.
 
+- Filed CASE-tmpndpz3 (executed-study, documented; variant_of CASE-219/220/216;
+  illustrates CLAIM-567/566/599; bears_on QUESTION-400; draws_on THEORY-1398)
+  and CLAIM-tmp7stqi (Proposed, thesis, demonstrated; grounds CASE-tmpndpz3;
+  corroborates CLAIM-567/599; uses TERM-117; bears_on QUESTION-400).
+- Dated notes (2026-11-22) on held CASE-219, CASE-220, LEAD-116 (no status/
+  stage/text changes). Changelog fragment record/changelog.d/lead-116.md.
+- All validated (yaml parse, no code in title, H1 matches), 13 tests pass, all
+  commits pushed.
+
 ## Next
 
-- File executed-study CASE (variant_of CASE-219/220/216; illustrates/
-  counterexample_to claims; bears_on questions), a CLAIM for the finding
-  (Proposed, thesis, demonstrated), dated notes on held CASE-219/220/LEAD-116,
-  changelog fragment. Then report.
+- Done. Report to coordinator. Owner marks the lead Done and decides on
+  adopting the wording / promoting the Proposed entries.
