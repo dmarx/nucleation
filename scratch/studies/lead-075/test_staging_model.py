@@ -89,3 +89,15 @@ def test_classify():
     assert classify(1.3, 1.2, 1.1, 0.2, rA, rB) == "only with temporary reserve"
     assert classify(1.3, 1.0, 1.0, 0.3, rA, rB) == "either change or reserve"
     assert classify(1.3, 1.1, 0.95, 0.15, rA, rB) == "change and reserve together"
+
+
+def test_classify_deadline():
+    assert classify(math.inf, math.inf, 1.0, 0.5, 0.7, 0.7, B_untimed=1.0) == "reachable, not by the deadline"
+    assert classify(math.inf, math.inf, 1.0, 0.5, 0.7, 0.7, B_untimed=math.inf) == "statically feasible, unreachable"
+
+
+def test_staging_route_too_slow_for_tight_deadline():
+    # the fastest route that uses the staging architecture takes >= 2.58,
+    # so at tau = 2 admitting it changes nothing
+    assert capacity_for_deadline(P, 2.0, (0, 1)) == pytest.approx(1.3)
+    assert math.isinf(capacity_for_deadline(Params(gap=True), 2.0, (0, 1)))

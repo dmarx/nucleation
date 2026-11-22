@@ -230,18 +230,27 @@ KINDS = (
     "only with temporary reserve",        # K4
     "either change or reserve",
     "change and reserve together",
+    "reachable, not by the deadline",     # B* finite, c_tau infinite
 )
 
 
 def classify(B_home: float, B_all: float, b: float, rho: float,
-             r_A: float, r_B: float) -> str:
-    """The kind of case at budget b and reserve rho, from B* per repertoire."""
+             r_A: float, r_B: float, B_untimed: float | None = None) -> str:
+    """The kind of case at budget b and reserve rho, from B* per repertoire.
+
+    Under a deadline tau, pass c_tau (the least capacity reaching B by tau)
+    for each repertoire in place of B*, and the untimed B* of the larger
+    repertoire as B_untimed, so that a target reachable only too late is
+    not called unreachable.
+    """
     e = 1e-12
     if max(r_A, r_B) > b + e:
         return "not holdable"
     if B_home <= b + e:
         return "reachable as is"
     if not np.isfinite(B_all):
+        if B_untimed is not None and np.isfinite(B_untimed):
+            return "reachable, not by the deadline"
         return "statically feasible, unreachable"
     s = B_all <= b + e
     r = B_home <= b + rho + e
