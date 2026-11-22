@@ -23,10 +23,11 @@
   So no CBO natural rate: u* is a trailing mean (choice, with sensitivity).
 - Downloaded (scratchpad, not committed): H.15 package; Philly Fed
   rucQvMd.xlsx and cpiQvMd.xlsx.
+- procedure.py and test_procedure.py (11 synthetic cases, passing).
 
 ## Next
 
-- Write procedure.py (generic) + tests; fomc.py (build record); run.
+- Write fomc.py (build record from Philly Fed vintages + H.15); run.
 - File CLAIM (argument), alternative CLAIM, CASE (application), notes on
   LEAD-041, QUESTION-268, CLAIM-440; changelog fragment.
 
