@@ -15,7 +15,7 @@ date: '2026-11-22'
 line:
 - readiness
 summary: >-
-  CLAIM-558's first part takes Tatel's pooled rate, 0.08 SD a month for
+  [CLAIM-558](../claims.d/CLAIM-558.md)'s first part takes Tatel's pooled rate, 0.08 SD a month for
   accuracy, as the decay of a procedure seldom used. The pooled rate
   averages laboratory tasks (0.16) and real-world tasks (about 0.05).
   For medical and dental tasks, the nearest to the rare clinical
@@ -29,24 +29,24 @@ summary: >-
   Proposed. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmppzw1a CASE-tmp4f2jr LIT-2088 — new or Unfetched; the reading and refit filed on 2026-11-22, and the unread article -->
+<!-- inactive-ok-file: THEORY-tmppzw1a CASE-tmp4f2jr — new or Unfetched; the reading and refit filed on 2026-11-22, and the unread article -->
 
 # ARG-tmpbjn5v: From the task-type split of Tatel's meta-analysis, whose medical and dental tasks still lose accuracy with disuse at about half the pooled rate, the disuse premise of the claim on capabilities kept for rare events holds for real-world procedures at a lower and decelerating rate, which qualifies the claim and does not defeat it
 
 ## The inference
 
-1. CLAIM-558, part 1: "A learned procedure with a motor component loses
+1. [CLAIM-558](../claims.d/CLAIM-558.md), part 1: "A learned procedure with a motor component loses
    performance with the time since it was last used", stated with the
    pooled accuracy rate, "0.08 per month of infrequent use". Part 3
    generalizes from "high acuity low occurrence (HALO) procedures" in
    clinical practice.
 2. The pooled rate is an average over task types. Laboratory or
    artificial tasks decline by 0.16 SD a month in accuracy, real-world
-   tasks by about 0.05 (THEORY-tmppzw1a).
+   tasks by about 0.05 ([THEORY-tmppzw1a](../theory.d/THEORY-tmppzw1a.md)).
 3. Medical and dental tasks, the real-world domain closest to the claim's
    clinical procedures, decline by 0.043 a month (robust SE 0.012, k = 249,
    27 effect sizes beyond six months, up to 22 months), and by 0.12 within
-   six months (CASE-tmp4f2jr). Mixed measures, which are mostly medical
+   six months ([CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md)). Mixed measures, which are mostly medical
    and dental, decline by 0.045 (0.020).
 4. So for the procedures the claim is about, performance falls with time
    since use, measurably, at about half the pooled rate over a year, and
@@ -78,14 +78,14 @@ summary: >-
   cannot tell them apart (p. 129), and the claim needs neither.
 - **Does the measure measure what it is said to?** Effect sizes compare
   acquisition with a retention test. "Infrequent use" is assumed, not
-  measured, in most studies (NOTE-1560), and real-world participants
+  measured, in most studies ([NOTE-1560](../notes.d/NOTE-1560.md)), and real-world participants
   may use the skill in the interval, which would make real-world decay
   look slower than disuse alone. That bias runs against the claim's rate,
   not its direction.
 
 ## What it changes
 
-Where CLAIM-558 or a later entry cites 0.08 SD a month for a rare
+Where [CLAIM-558](../claims.d/CLAIM-558.md) or a later entry cites 0.08 SD a month for a rare
 real-world procedure, about 0.04 over a year, and faster in the first
 months, is the closer figure from the same meta-analysis. The claim's
 text and status are unchanged; whether to revise its wording is the

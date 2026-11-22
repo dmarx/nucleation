@@ -28,7 +28,7 @@ summary: >-
   over short intervals than over long ones, so the linear rate depends on
   the interval mix.
 ---
-<!-- inactive-ok-file: LIT-2088 LIT-tmp6fb6y CASE-tmp4f2jr THEORY-tmppzw1a ARG-tmpbjn5v — Unfetched or new; the unread article and the entries filed on 2026-11-22 -->
+<!-- inactive-ok-file: LIT-2088 CASE-tmp4f2jr THEORY-tmppzw1a ARG-tmpbjn5v — Unfetched or new; the unread article and the entries filed on 2026-11-22 -->
 
 # NOTE-tmps1muw: Tatel and Ackerman's posted data and analysis script for the meta-analysis of procedural skill decay
 
@@ -60,12 +60,12 @@ and dental tasks show a measurable decline in accuracy.
 
 ## Key results
 
-From the refit, CASE-tmp4f2jr (robust SEs, CR1):
+From the refit, [CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md) (robust SEs, CR1):
 
 - **Main slopes.** Accuracy −0.076 (SE 0.012, k = 824), speed −0.063
   (0.022, k = 266), mixed −0.061 (0.019, k = 178). The abstract: "grew
   stronger by 0.08/month for accuracy-based performance measures and
-  0.06/month for speed-based and mixed performance measures" (LIT-2088,
+  0.06/month for speed-based and mixed performance measures" ([LIT-2088](../literature.d/LIT-2088.md),
   abstract).
 - **Accuracy by domain.** Laboratory −0.164 (0.024, k = 274);
   medical/dental −0.043 (0.012, k = 249); military and transport −0.009
@@ -92,7 +92,7 @@ From the refit, CASE-tmp4f2jr (robust SEs, CR1):
   laboratory, so the two accuracy lines cross near three months (the
   reviewer's arithmetic, (0.522 − 0.125) / (0.164 − 0.043)).
 
-From the dissertation, LIT-2079, for the same moderator:
+From the dissertation, [LIT-2079](../literature.d/LIT-2079.md), for the same moderator:
 
 - **Task type (p. 81).** "The moderating effects are mostly attributed to
   differences between laboratory vs. artificial tasks. Performance on
@@ -121,7 +121,7 @@ From the dissertation, LIT-2079, for the same moderator:
 
 ## Connections
 
-**Against the article it supplies**, LIT-2088, known only from its
+**Against the article it supplies**, [LIT-2088](../literature.d/LIT-2088.md), known only from its
 abstract:
 
 - *Restates:* the slopes, which the refit reproduces to two places.
@@ -131,27 +131,27 @@ abstract:
   the script computes, is not known. The data sheet has 1,273
   independent-samples effect sizes, against the dissertation's 1,281 and
   the abstract's 1,344, which may count paired-samples effect sizes too.
-- *Against the dissertation*, LIT-2079: the same task-type result, now
+- *Against the dissertation*, [LIT-2079](../literature.d/LIT-2079.md): the same task-type result, now
   from the article's data.
 
 ## Bearing on the record
 
-- **QUESTION-433: bears on, does not answer.** The data are the same
+- **[QUESTION-433](../questions.d/QUESTION-433.md): bears on, does not answer.** The data are the same
   authors', so not independent. They qualify the question's premise: the
   "roughly linear" decline is a fit to a decelerating one, and its slope
   is set by the mix of intervals and task types.
-- **CLAIM-558: qualifies part 1, does not defeat it.** For medical and
+- **[CLAIM-558](../claims.d/CLAIM-558.md): qualifies part 1, does not defeat it.** For medical and
   dental tasks, the closest to the rare clinical procedures its third part
   generalizes from, accuracy declines significantly, at about half the
   pooled rate over the full range and faster within six months. Sports and
   military or transport tasks show no measurable decline in accuracy, but
   on intervals of a year at most, so the defeater ("beyond a year") is not
-  met. Filed as ARG-tmpbjn5v.
-- **CLAIM-422: supports, unchanged.** A real-world procedure trained
+  met. Filed as [ARG-tmpbjn5v](../arguments.d/ARG-tmpbjn5v.md).
+- **[CLAIM-422](../claims.d/CLAIM-422.md): supports, unchanged.** A real-world procedure trained
   and not used still loses accuracy measurably.
-- **THEORY-1424: narrows.** Its pooled rate is the average of
+- **[THEORY-1424](../theory.d/THEORY-1424.md): narrows.** Its pooled rate is the average of
   laboratory and real-world rates that differ by a factor of about four.
-  Filed: THEORY-tmppzw1a.
+  Filed: [THEORY-tmppzw1a](../theory.d/THEORY-tmppzw1a.md).
 - No instruction for machine-learning practice.
 
 ## Limitations
@@ -172,5 +172,5 @@ abstract:
 - Does a decelerating model (log or power of the interval) fit better
   than the linear one by task type, and what half-loss times does it give
   for medical and dental tasks?
-- Does the article report the task-type moderator? Reading LIT-2088
+- Does the article report the task-type moderator? Reading [LIT-2088](../literature.d/LIT-2088.md)
   would tell.

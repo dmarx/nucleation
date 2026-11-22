@@ -26,7 +26,7 @@ draws_on:
 bears_on:
 - QUESTION-433
 summary: >-
-  LEAD-124 asked for decay estimates by skill type from Tatel & Ackerman
+  [LEAD-124](../leads.d/LEAD-124.md) asked for decay estimates by skill type from Tatel & Ackerman
   (2025). With the authors' own specification and their posted
   independent-samples data (1,273 effect sizes), the main slopes are
   −0.076, −0.063 and −0.061 SD a month (accuracy, speed, mixed), the
@@ -37,15 +37,15 @@ summary: >-
   medical and dental 0.12. The laboratory–real-world gap holds at every
   cap; every slope shrinks as longer intervals are admitted.
 ---
-<!-- inactive-ok-file: LIT-2088 LIT-tmp6fb6y — Unfetched or new; the unread article and its OSF project, filed on 2026-11-22 -->
+<!-- inactive-ok-file: LIT-2088 — Unfetched or new; the unread article and its OSF project, filed on 2026-11-22 -->
 
 # CASE-tmp4f2jr: Refitting Tatel and Ackerman's posted data by task type reproduces their headline slopes and finds accuracy declining by 0.16 SD a month on laboratory tasks against 0.04 on medical and dental tasks, and not measurably on sports or military and transport tasks, with every type declining faster over short intervals
 
 ## What was done
 
-LEAD-124 asks for Tatel & Ackerman (2025), LIT-2088, to be read for
+[LEAD-124](../leads.d/LEAD-124.md) asks for Tatel & Ackerman (2025), [LIT-2088](../literature.d/LIT-2088.md), to be read for
 "Decay estimates by skill type". The article's APA copy answered with a
-WAF challenge (2026-11-22). Its OSF project, LIT-tmp6fb6y, holds the
+WAF challenge (2026-11-22). Its OSF project, [LIT-tmp6fb6y](../literature.d/LIT-tmp6fb6y.md), holds the
 coded data and the authors' metafor script, so the article's task-type
 models were refitted from those.
 
@@ -64,7 +64,7 @@ months. Code: scratch/studies/lead-124/ (`metareg.py`, tested;
 - Main slopes: accuracy −0.076 (k = 824), speed −0.063 (266), mixed −0.061
   (178). The abstract gives 0.08, 0.06 and 0.06.
 - Accuracy domain interactions: 0.121, 0.155, 0.132, 0.178. The
-  dissertation's Appendix D (LIT-2079, pp. 149–150) gives 0.12, 0.16,
+  dissertation's Appendix D ([LIT-2079](../literature.d/LIT-2079.md), pp. 149–150) gives 0.12, 0.16,
   0.13, 0.18.
 
 ## Results
@@ -107,7 +107,7 @@ is singular.
 ## Limits
 
 The data are the same authors', so this is not the independent synthesis
-QUESTION-433 asks for. The article's own moderator analyses are unread.
+[QUESTION-433](../questions.d/QUESTION-433.md) asks for. The article's own moderator analyses are unread.
 Task type is confounded with complexity, interval range and measure.
 Robust SEs are CR1 without Knapp–Hartung, so p-values are approximate.
 The practice moderator was not split by type.

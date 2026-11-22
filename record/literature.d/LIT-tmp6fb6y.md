@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  analysed 2026-11-22 (NOTE-tmps1muw, Read; CASE-tmp4f2jr) from the OSF
+  analysed 2026-11-22 ([NOTE-tmps1muw](../notes.d/NOTE-tmps1muw.md), Read; [CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md)) from the OSF
   project's own files. Worth holding as the coded data and analysis
-  script of Tatel & Ackerman (2025), LIT-2088, which stands unfetched: it
+  script of Tatel & Ackerman (2025), [LIT-2088](LIT-2088.md), which stands unfetched: it
   lets the article's models be refitted, and its headline slopes are
   reproduced from it. It holds no manuscript, so it stands in for the
   article's data, not its text.
@@ -56,7 +56,7 @@ summary: >-
   (accuracy −0.076, speed −0.063, mixed −0.061 SD a month) and the
   dissertation's task-type interactions.
 ---
-<!-- inactive-ok-file: LIT-2088 NOTE-tmps1muw CASE-tmp4f2jr — Unfetched or new; the article this project supplies, and the entries filed from it on 2026-11-22 -->
+<!-- inactive-ok-file: LIT-2088 CASE-tmp4f2jr — Unfetched or new; the article this project supplies, and the entries filed from it on 2026-11-22 -->
 
 # LIT-tmp6fb6y: Procedural Skill Retention and Decay: A Meta-Analytic Review, data and analysis script
 
@@ -64,7 +64,7 @@ Tatel, C. E. & Ackerman, P. L. (2024–2025). *Procedural Skill Retention & Deca
 
 ## Key takeaways
 
-*From the analysis, NOTE-tmps1muw and CASE-tmp4f2jr.*
+*From the analysis, [NOTE-tmps1muw](../notes.d/NOTE-tmps1muw.md) and [CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md).*
 
 - **The article's data.** 1,273 independent-samples effect sizes (827
   accuracy, 268 speed, 178 mixed), coded by task domain: medical/dental
@@ -82,8 +82,8 @@ Tatel, C. E. & Ackerman, P. L. (2024–2025). *Procedural Skill Retention & Deca
 
 ## Standing in the record
 
-Filed as a supplement to LIT-2088, the article it belongs to, which is
-unread (ADR-114). It is not the article and is not cited for the
+Filed as a supplement to [LIT-2088](LIT-2088.md), the article it belongs to, which is
+unread ([ADR-114](../decisions.d/ADR-114.md)). It is not the article and is not cited for the
 article's text. It is the only access the record has to what the article
-analysed, as distinct from the dissertation, LIT-2079. No instruction for
+analysed, as distinct from the dissertation, [LIT-2079](LIT-2079.md). No instruction for
 machine-learning practice; nothing for the anthology.

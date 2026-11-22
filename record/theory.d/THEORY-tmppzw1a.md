@@ -32,8 +32,8 @@ promote_when: >-
   procedures; or the article is read and reports the task-type moderator
   as the dissertation does.
 summary: >-
-  Tatel (2023), LIT-2079, and the coded data posted for Tatel &
-  Ackerman (2025), LIT-tmp6fb6y. For accuracy the decline is 0.16 SD a
+  Tatel (2023), [LIT-2079](../literature.d/LIT-2079.md), and the coded data posted for Tatel &
+  Ackerman (2025), [LIT-tmp6fb6y](../literature.d/LIT-tmp6fb6y.md). For accuracy the decline is 0.16 SD a
   month on laboratory tasks and about 0.05 on real-world tasks; the
   dissertation finds "less evidence" that real-world domains differ from
   one another, and in the posted data medical and dental tasks decline by
@@ -43,13 +43,13 @@ summary: >-
   and with the range of intervals studied. Proposed: one synthesis, by
   the same author, and the article unread.
 ---
-<!-- inactive-ok-file: LIT-2088 LIT-tmp6fb6y NOTE-tmps1muw CASE-tmp4f2jr — Unfetched or new; the unread article and the entries filed on 2026-11-22 -->
+<!-- inactive-ok-file: LIT-2088 CASE-tmp4f2jr — Unfetched or new; the unread article and the entries filed on 2026-11-22 -->
 
 # THEORY-tmppzw1a: Tatel finds that, with infrequent use, accuracy on laboratory motor tasks declines about three times faster than on real-world tasks, and little evidence that the real-world domains differ, though in the posted data only medical and dental tasks decline measurably
 
 ## The account
 
-THEORY-1424 gives the pooled rate: accuracy declines by about 0.08 SD
+[THEORY-1424](THEORY-1424.md) gives the pooled rate: accuracy declines by about 0.08 SD
 a month of infrequent use. That rate averages tasks that decline at very
 different rates.
 
@@ -65,7 +65,7 @@ different rates.
   (i.e., medical/dental, military/transportation, sports)" (p. 81). Each
   domain's accuracy slope is shallower than the laboratory slope
   (Appendix D: +0.12 to +0.18).
-- **In the posted data** (CASE-tmp4f2jr), each domain's own slope for
+- **In the posted data** ([CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md)), each domain's own slope for
   accuracy: medical and dental −0.043 (robust SE 0.012), miscellaneous
   −0.032 (0.013), military and transport −0.009 (0.024), sports +0.015
   (0.021). Only medical and dental tasks have many intervals beyond six
@@ -84,17 +84,17 @@ different rates.
   declines measurably, and real-world tasks start lower: their losses at
   short intervals are larger.
 - That the decline is linear. In the refit, every type declines faster
-  when only short intervals are fitted (CASE-tmp4f2jr); the linear slopes
+  when only short intervals are fitted ([CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md)); the linear slopes
   are averages over each type's mix of intervals. That finding is the
   refit's, not Tatel's.
 - Anything about the article's own moderator analyses, which are unread
-  (LIT-2088).
+  ([LIT-2088](../literature.d/LIT-2088.md)).
 
 ## Evidence
 
-The dissertation's §5.3.1.1 and Appendices C and D (NOTE-1560, and
-NOTE-tmps1muw for the passages quoted here), and the refit of the
+The dissertation's §5.3.1.1 and Appendices C and D ([NOTE-1560](../notes.d/NOTE-1560.md), and
+[NOTE-tmps1muw](../notes.d/NOTE-tmps1muw.md) for the passages quoted here), and the refit of the
 article's posted data, which reproduces the dissertation's interaction
-terms to two places (NOTE-tmps1muw).
+terms to two places ([NOTE-tmps1muw](../notes.d/NOTE-tmps1muw.md)).
 
 The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
