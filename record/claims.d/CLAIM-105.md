@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpukbg3
 title: 'In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-10'
@@ -54,6 +54,11 @@ history:
     A dated note says what the "signalling estimator with bias correction"
     of the note of 2026-10-29 costs, from LEAD-182's simulation
     (CLAIM-tmpalxab, CASE-tmpjp6vg). The claim is unchanged.
+- version: 6
+  date: '2026-11-22'
+  note: >-
+    A dated note points to the signalling interval LEAD-072 built
+    (CLAIM-tmp1o9d0). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -87,6 +92,7 @@ complements:
 bears_on:
 - QUESTION-004
 ---
+<!-- inactive-ok-file: CLAIM-tmp1o9d0 — new; what LEAD-072 filed on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-tmpalxab CASE-tmpjp6vg CASE-tmpl2va4 — new; filed by LEAD-182 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -239,3 +245,14 @@ chain study testing this condition would need the conservative bound on
 the "kept" side, and samples in the thousands a context. [CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md)
 is the single-scenario design such a study would run on each side of a
 step.
+
+## Note of 2026-11-22: a sampling error for the signalling term
+
+The note of 2026-10-29 says the defeat condition "needs a signalling
+estimator with bias correction and a stated sampling error". [LEAD-072](../leads.d/LEAD-072.md)
+supplies the error for the signalling term ([CLAIM-tmp1o9d0](CLAIM-tmp1o9d0.md)): simultaneous
+Clopper-Pearson intervals on the context marginals bound Δ with coverage
+at least 1 − α at any count, while no estimator of Δ can be unbiased. A
+chain study would carry that interval into the CbD criterion beside a
+bound on the correlation term, as [CLAIM-tmpalxab](CLAIM-tmpalxab.md)'s conservative bound
+does. The claim is unchanged.
