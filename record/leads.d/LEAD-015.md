@@ -28,6 +28,7 @@ summary: >-
   been built. Named in [CLAIM-404](../claims.d/CLAIM-404.md). Filed by the backlog audit of
   2026-11-19.
 ---
+<!-- inactive-ok-file: CASE-tmpz4n6b CLAIM-tmp6f8w8 CLAIM-tmpw3bak — new; filed 2026-11-22 for LEAD-090 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-015: Derive the two-institution version of the symmetry-breaking condition, building the coupled meaning-influence model for two regulators
@@ -47,3 +48,7 @@ Where the record names it:
 A derived condition gives [CLAIM-404](../claims.d/CLAIM-404.md) a worked model and may move its
 warrant to demonstrated. A model in which no such instability exists
 defeats it.
+
+## Note of 2026-11-22: what LEAD-090's build gives this lead
+
+LEAD-090, which this lead presupposes, was carried out as CASE-tmpz4n6b. The one-institution model is now built (scratch/studies/lead-090/model.py), with its mean-field map, its Jacobian, the closed-form threshold gσ² > 2(1 − φ(1 − ε)) (CLAIM-tmp6f8w8), and an exact rewriting as weighted averaging with stubborn sources and agreement-weighted adaptive weights (CLAIM-tmpw3bak). Its fixed points are a Curie–Weiss equation, so a two-institution version would be two such fields coupled, with its symmetric-state condition read from a 4×4 Jacobian of the same kind of entries. What remains is this lead's own step: to say how the regulator's evidence or resources depend on the regulated institution's state (CLAIM-404's closing of the loop between the two) and derive that condition. No status or stage is changed.

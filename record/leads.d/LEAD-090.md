@@ -28,6 +28,7 @@ summary: >-
   authority-grant claims are stated against. Named in [CASE-092](../cases.d/CASE-092.md) and
   [QUESTION-117](../questions.d/QUESTION-117.md). Filed by the backlog audit of 2026-11-19.
 ---
+<!-- inactive-ok-file: CASE-tmpz4n6b CLAIM-tmp6f8w8 CLAIM-tmpw3bak — new; filed 2026-11-22 for LEAD-090 and cited in the note of that date -->
 <!-- inactive-ok-file: CASE-tmpgustv — Proposed; filed today for LEAD-081 -->
 
 # LEAD-090: Build the coupled meaning-influence model with its linearization, and place a reduced form of it inside its predecessor models or find a phenomenon it produces that they cannot
@@ -62,3 +63,7 @@ for [LEAD-081](LEAD-081.md), builds the two-field loop as a simulation with decl
 demands. What is not held is the comparison of a reduced form with the
 opinion-dynamics models [QUESTION-117](../questions.d/QUESTION-117.md) names, at matched complexity. No
 status or stage is changed here.
+
+## Note of 2026-11-22: built, linearized and compared, in CASE-tmpz4n6b
+
+The lead was carried out the same day. CASE-tmpz4n6b writes CASE-092's model as an agent-level simulation and reduces it to its mean field (code and tests in scratch/studies/lead-090/). Its linearization is CASE-099's, with the threshold gσ² > 2(1 − φ(1 − ε)), free of the conferral memory and the meaning rate (CLAIM-tmp6f8w8). The reduced form is exactly a weighted-averaging model with two stubborn sources and weights adapting toward an agreement kernel, smooth bounded confidence on a balanced corpus; against fixed-weight models, DeGroot–Friedkin, Friedkin 2011 and Gaussian bounded confidence it produces authority chosen by the initial interpretation and switched by the evidence with hysteresis (CLAIM-tmpw3bak). Both halves of "What would count" are met, for different predecessors; which one answers QUESTION-117 depends on whether its "adaptive networks" names the class or the read works, set out in CLAIM-tmpw3bak for the owner. What the reduction leaves out (role-indexed authority, turnover, more operators) is not done here. No status or stage is changed.
