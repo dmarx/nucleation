@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprmrt9
 title: "Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right"
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-19'
@@ -39,6 +39,13 @@ history:
     question: the question holds this reading's former promote_when, a
     case outside the model, so the reading is its premise (ADR-060,
     ADR-065). No other change.
+- version: 6
+  date: '2026-11-22'
+  note: >-
+    A dated note added after LEAD-061 reread the source: the
+    several-closed-groups case of QUESTION-184 is settled against the
+    paper's Proposition 2 in its if direction (CLAIM-tmpt226r,
+    CASE-tmpczld2). The reading is unchanged.
 tags:
 - network-science
 - social-science
@@ -57,6 +64,7 @@ bears_on:
 - QUESTION-047
 - QUESTION-184
 ---
+<!-- inactive-ok-file: CLAIM-tmpt226r CASE-tmpczld2 — Proposed; filed 2026-11-22 by LEAD-061, cited in its dated note -->
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this one sits beside, open -->
 
 # THEORY-321: Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right
@@ -180,4 +188,18 @@ class and transient members reaches a consensus, and its influence weights
 are the closed class's. The re-derivation above carries over with s zero
 off that class. The several-closed-groups question in [QUESTION-184](../questions.d/QUESTION-184.md) is
 Golub and Jackson's question of wisdom, which DeGroot does not address.
+The reading is unchanged.
+
+## Note of 2026-11-22: the several-closed-groups case, checked against the source
+
+The note of 2026-10-19 left open whether the maximum over several
+consensus values is covered. Rereading the paper for LEAD-061 shows it
+is not: Theorem 3 normalizes influence on each minimal closed group,
+Definition 3 takes the maximum over all agents, and the proof of
+Proposition 2 controls only fixed sequences of agents. The audit's sketch
+is a counterexample to the "if" direction (CASE-tmpczld2). So the
+narrowing of 2026-10-19 was needed, though "strongly connected" is more
+than needed: the theorem holds as titled for any society with boundedly
+many minimal closed groups, and its "if" direction whenever
+s_1·log m → 0 (CLAIM-tmpt226r). The "only if" direction holds in general.
 The reading is unchanged.

@@ -20,6 +20,7 @@ summary: >-
   model; this question holds it, together with a check of the theorem for
   societies with several closed groups.
 ---
+<!-- inactive-ok-file: CLAIM-tmpt226r CASE-tmpczld2 — Proposed; filed 2026-11-22 by LEAD-061, cited in its dated note -->
 
 # QUESTION-184: Do real groups whose members update by averaging reach a settled estimate that moves away from the truth as the largest influence weight grows, as DeGroot's model predicts?
 
@@ -53,3 +54,17 @@ DeGroot model do not settle it: they only restate the theorem. For the
 narrower matter, reading Golub and Jackson's Proposition 2 and Theorem 3
 with their definitions of influence and wisdom for several closed groups
 settles it.
+
+## Note of 2026-11-22: the narrower matter, settled
+
+LEAD-061 reread Golub and Jackson's Proposition 2 and Theorem 3 with
+their definitions. The definitions do not exclude the audit's sketch:
+influence sums to 1 on each minimal closed group (Theorem 3) and wisdom
+is the convergence of the maximum deviation over all agents
+(Definition 3). With ⌊n/k⌋ closed groups of k = ⌈√(ln n)⌉ and
+Bernoulli(1/2) signals, s_1 → 0 and the probability that some group's
+consensus misses by 1/2 tends to 1 (CASE-tmpczld2). So a vanishing
+largest weight does not suffice with many closed groups; it is still
+necessary, and it suffices when s_1·log m → 0, m the number of closed
+groups, in particular when m is bounded (CLAIM-tmpt226r, offered as the
+answer to this half). The main question, about real groups, is open.

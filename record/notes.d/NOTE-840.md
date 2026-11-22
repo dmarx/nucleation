@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpiqh3w
 paper: LIT-999
 title: 'Golub & Jackson — Naïve Learning in Social Networks and the Wisdom of Crowds'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -18,6 +18,14 @@ history:
     Theorem 1) and C (Theorem 4). The proofs of Lemma 1, Proposition 3
     (via Lemma 5) and Theorem 1 were checked step by step; Theorem 4's
     proof was followed, not checked line by line.
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Reread 2026-11-22 for LEAD-061: Definitions 1-3, Proposition 2,
+    Theorems 2-3 and the proofs of Theorem 3, Lemma 1 and Proposition 2.
+    A dated note added: Proposition 2's if direction fails with a growing
+    number of closed groups (CLAIM-tmpt226r, CASE-tmpczld2). The reading
+    is otherwise unchanged.
 date: '2026-10-14'
 summary: >-
   Agents get independent signals with mean μ and repeatedly replace their
@@ -31,6 +39,7 @@ summary: >-
   in-dispersion guarantee it. How fast consensus is reached is unrelated
   to whether it is right.
 ---
+<!-- inactive-ok-file: CLAIM-tmpt226r CASE-tmpczld2 — Proposed; filed 2026-11-22 by LEAD-061, cited in its dated note -->
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this reading sits beside, open -->
 
 # NOTE-840: Golub & Jackson — Naïve Learning in Social Networks and the Wisdom of Crowds
@@ -183,3 +192,29 @@ Bonacich 1987; PageRank). Speed is left to the authors' homophily paper
 - Whether agents who reweight over time, ignoring insular groups, restore
   wisdom.
 - Whether a small admixture of more rational agents changes the outcome.
+
+## Note of 2026-11-22: Proposition 2 with several closed groups, reread
+
+Reread for LEAD-061 from the same copy (bengolub.net, 38 pages):
+Definitions 1–3, Lemma 1 with footnote 14, Proposition 2, the passage on
+closed groups, Definition 7, Theorems 2–3 and the proofs of Theorem 3,
+Lemma 1 and Proposition 2 (pp. 119–124, 136–141), with the statements of
+Properties 1–3 and the opening of the proofs of Theorems 1 and 4.
+
+The entry under Key results, "Proposition 2 (characterization). A
+sequence of convergent stochastic matrices is wise … iff s_1(n) → 0",
+reports the paper faithfully, but the statement is not true as written
+when the number of closed groups grows. Theorem 3 normalizes influence to
+sum to 1 on each minimal closed group, and Definition 3 takes the maximum
+deviation over all agents. The proof of the "if" direction (p. 141)
+shows convergence along every fixed sequence of agents and treats that as
+sufficient; it does not control the maximum. With ⌊n/k⌋ closed groups of
+k = ⌈√(ln n)⌉ and equal weights, s_1 = 1/k → 0 while some group's
+consensus misses μ with probability tending to 1 (CASE-tmpczld2). The
+"only if" direction is sound. The "if" direction holds when
+s_1·log m → 0, m the number of minimal closed groups, so whenever m is
+bounded (CLAIM-tmpt226r). C2 in the claims table should be read with
+that proviso. Theorems 1 and 4 use Proposition 2's "if" direction; out-
+dispersion appears to exclude many small closed groups, and whether
+balance with in-dispersion does was not settled. The reading is otherwise
+unchanged.

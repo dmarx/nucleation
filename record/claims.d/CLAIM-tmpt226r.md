@@ -36,17 +36,17 @@ grounds:
 - CASE-tmpczld2
 - THEORY-321
 summary: >-
-  Settles the narrower matter of [QUESTION-184](../questions.d/QUESTION-184.md). Golub and Jackson
-  ([LIT-999](../literature.d/LIT-999.md)) normalize influence to sum to 1 on each minimal closed group
+  Settles the narrower matter of QUESTION-184. Golub and Jackson
+  (LIT-999) normalize influence to sum to 1 on each minimal closed group
   (Theorem 3) and define wisdom by the largest deviation over all agents
   (Definition 3), so their definitions do not exclude the audit's sketch,
-  and [CASE-tmpczld2](../cases.d/CASE-tmpczld2.md) shows the sketch works: s_1 → 0 and the society is
+  and CASE-tmpczld2 shows the sketch works: s_1 → 0 and the society is
   not wise. Proposition 2's proof of the "if" direction shows convergence
   along every fixed sequence of agents, which does not control the
   maximum. The "only if" direction holds as stated. The "if" direction
   holds when s_1(n)·log m(n) → 0, m the number of minimal closed groups,
   by Hoeffding's inequality and a union bound, and so whenever m is
-  bounded, including the strongly connected case of [THEORY-321](../theory.d/THEORY-321.md). The
+  bounded, including the strongly connected case of THEORY-321. The
   question's other half, whether real groups behave so, stays open. The
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
@@ -57,7 +57,7 @@ summary: >-
 
 ## The claim
 
-Golub and Jackson's Proposition 2 ([LIT-999](../literature.d/LIT-999.md), p. 124) reads: "If (T(n)) is a
+Golub and Jackson's Proposition 2 (LIT-999, p. 124) reads: "If (T(n)) is a
 sequence of convergent stochastic matrices, then it is wise if and only
 if the associated influence vectors are such that s1(n) → 0." Read with
 the paper's own definitions, it is true in one direction and false in the
@@ -79,7 +79,7 @@ the leader's group B_n has consensus s_B·p_B with variance at least
 this one consensus does not converge to μ in probability. The maximum
 over agents is at least its deviation. This is the paper's own argument.
 
-**If: fails.** [CASE-tmpczld2](../cases.d/CASE-tmpczld2.md): ⌊n/k⌋ closed groups of k = ⌈√(ln n)⌉ with
+**If: fails.** CASE-tmpczld2: ⌊n/k⌋ closed groups of k = ⌈√(ln n)⌉ with
 equal weights and Bernoulli(1/2) signals have s_1 = 1/k → 0, but some
 group's consensus is 0 or 1 with probability 1 − (1 − 2^(1−k))^m → 1.
 
@@ -117,7 +117,7 @@ whole closed group is 0/0.
 
 ## What it does not say
 
-- Not that [THEORY-321](../theory.d/THEORY-321.md) is wrong. Its narrowing to a strongly connected
+- Not that THEORY-321 is wrong. Its narrowing to a strongly connected
   society, made at the audit, is exactly where the characterization is
   safe, and the 2026-10-25 note's extension to one closed class with
   transient members is safe too (m = 1).
@@ -130,4 +130,4 @@ whole closed group is 0/0.
 - Not whether the authors know of this. A web search on 2026-11-22 found
   no erratum; the AEA article page and the authors' pages were not
   checked for one.
-- Nothing about real groups, the other half of [QUESTION-184](../questions.d/QUESTION-184.md).
+- Nothing about real groups, the other half of QUESTION-184.

@@ -28,9 +28,20 @@
   bounded number of closed groups (union bound), or under a Hoeffding-sum
   condition sum_B exp(-2 eps^2 / ||s_B||^2) -> 0.
 
+- Computation done (gj_closed_groups.py, 8 pytest tests pass, results.md):
+  counterexample confirmed exactly and by Monte Carlo; Theorem 3 confirmed on
+  a 3-group matrix with transients; contrasts (3 groups; k = (ln n)^2) wise.
+- Filed CASE-tmpczld2 (executed-study, documented, Proposed) and
+  CLAIM-tmpt226r (thesis, demonstrated, Proposed; answers QUESTION-184).
+- Dated notes on NOTE-840 (v2), LIT-999 (v3), THEORY-321 (v6), QUESTION-184,
+  LEAD-061. Changelog fragment record/changelog.d/lead-061.md.
+- Choices: filed the computation as a CASE (skill: a study run is a CASE)
+  and the result as one CLAIM with `answers: QUESTION-184` (it settles the
+  narrower half exactly). Sufficient condition stated as s_1 log m -> 0
+  (Hoeffding + union bound), not claimed necessary. Web search found no
+  erratum; AEA page and authors' pages not checked.
+
 ## Next
 
-- Script + pytest: exact probabilities for the counterexample; DeGroot
-  iteration on a small several-group T to confirm Theorem 3's normalization;
-  Monte Carlo of max deviation.
-- File notes: NOTE-840, LIT-999, QUESTION-184, THEORY-321, LEAD-061; CLAIM.
+- Report. Open: whether Theorem 4's hypotheses can hold with unboundedly
+  many closed groups; erratum check on the AEA page.
