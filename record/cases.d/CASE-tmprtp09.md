@@ -26,7 +26,7 @@ bears_on:
 - QUESTION-440
 - QUESTION-364
 summary: >-
-  The study LEAD-159 asks for: CASE-188 run with A40 Study D's control, the
+  The study [LEAD-159](../leads.d/LEAD-159.md) asks for: [CASE-188](CASE-188.md) run with A40 Study D's control, the
   slow influence structure ablated with the information and the state
   variables held fixed. Four agents that choose alike under ordinary
   conditions, corrigible resolve (R), entrenchment (E), imposed protection
@@ -49,11 +49,11 @@ summary: >-
 
 ## What was done
 
-LEAD-159 asks to "Run CASE-188 with A40's Study D control: perturb the slow
+[LEAD-159](../leads.d/LEAD-159.md) asks to "Run [CASE-188](CASE-188.md) with A40's Study D control: perturb the slow
 structure while keeping task information and representational capacity
 comparable", and says what would count: "Persistence that falls when the
 slow structure is ablated and returns under corrigible conditions supports
-CLAIM-344; persistence unchanged by the ablation reads as inertia."
+[CLAIM-344](../claims.d/CLAIM-344.md); persistence unchanged by the ablation reads as inertia."
 
 The code, its 9 tests and the results are in scratch/studies/lead-159/
 (resolve_model.py, test_resolve_model.py, run.py, sweep.py; results.jsonl,
@@ -65,7 +65,7 @@ each) ran in about 1.5 minutes on one thread.
 yields an immediate payoff, the locally dominant evaluation, and a long-run
 payoff, which is what the experimenter scores, each with noise of sd 1.
 Under ordinary conditions B is better in the long run by 0.5 and A is more
-tempting now by 0.2. At the onset the experimenter applies one of CASE-188's
+tempting now by 0.2. At the onset the experimenter applies one of [CASE-188](CASE-188.md)'s
 environments: a **defeater**, a step of 1.0 in the long-run difference that
 makes A better; an **irrelevant change**, a step of 1.0 in the immediate
 difference that leaves the long run alone; or **neither**. The two events
@@ -83,12 +83,12 @@ the slow influence structure, are kept.
   squared error; a stays 1, so a defeater always reaches the evaluator.
 - **E, entrenchment.** lam grows and a decays on every trial on which the
   choice agrees with the commitment: enforcement improves "while evidence
-  against it loses its way in" (CASE-188).
+  against it loses its way in" ([CASE-188](CASE-188.md)).
 - **P, imposed protection.** lam fixed at 0.9 from outside; a = 1.
 - **I, inertia.** lam fixed at 0.5, both estimators slow, its choice
   temperature set so that its ordinary choices match.
 
-P and I are added because CLAIM-344's defeated_if names "parameter inertia"
+P and I are added because [CLAIM-344](../claims.d/CLAIM-344.md)'s defeated_if names "parameter inertia"
 and "externally imposed protection" as what the claim must be told from.
 At ages 1000 and 4000 all four choose B on 0.96 to 0.98 of ordinary trials:
 they "decide alike under ordinary conditions". At age 250 R and E have not
@@ -108,7 +108,7 @@ trial for trial, before the onset. "Perturb or ablate" is done four ways:
   run's evidence is cut;
 - **timescale**: every rate slower than the fast estimator's raised to it.
 
-**Choices made, and why.** CASE-188 leaves every parameter to a
+**Choices made, and why.** [CASE-188](CASE-188.md) leaves every parameter to a
 preregistration; the README gives each value and its reason. Three choices
 shape the result.
 
@@ -116,18 +116,18 @@ shape the result.
   matched size and duration are the same signal, and any slow learner looks
   corrigible. The experimenter's specification of which payoff bears on the
   commitment is what keeps the diagnostic from being circular.
-- *Visibility* (CASE-188's third factor) was varied for the intact agents:
+- *Visibility* ([CASE-188](CASE-188.md)'s third factor) was varied for the intact agents:
   full; partial (the long-run payoffs seen on a random quarter of trials,
   independent of the choice, so the information stays matched); routed
   (disconfirming long-run observations admitted with weight 1 − lam). The
   bandit reading of partial, where only the chosen action is seen, was not
   run, because it makes the information depend on the policy and breaks
   the matched-information control.
-- *Legitimacy* (CASE-188's second factor) was not varied. None of these
+- *Legitimacy* ([CASE-188](CASE-188.md)'s second factor) was not varied. None of these
   agents has access to how its commitment was adopted, so a badly adopted
   commitment can enter only as an evidence stream, which collapses it onto
   the environment factor. Varying it needs agents that can read their
-  commitment's provenance. That is a finding for QUESTION-364: a history of
+  commitment's provenance. That is a finding for [QUESTION-364](../questions.d/QUESTION-364.md): a history of
   authorization can count, for the agent, only through something the
   agent's governance can read.
 
@@ -162,14 +162,14 @@ standard error is at most 0.025.
 4. **The timescale ablation misreads both ways.** R and P are unchanged; I
    loses its persistence and switches under both events within 250 trials.
    Read by the lead's criterion, the timescale ablation finds resolve to be
-   inertia and inertia to be resolve. This is CLAIM-344's "mere slowness
+   inertia and inertia to be resolve. This is [CLAIM-344](../claims.d/CLAIM-344.md)'s "mere slowness
    isn't resolve" in the form of a test.
 5. **Selectivity over age separates resolve from entrenchment.** R revises
    under the defeater at every age (median about 90 trials) and never under
    the irrelevant change. E revises at age 250 (median 110 trials), slowly at
    1000 (median 577; 0.04 by 500 trials), never at 4000, while the share of
    the defeater's shift that reaches its evaluator falls 0.99, 0.63, 0.00.
-   That is CASE-188's prediction for entrenchment, "a falling first
+   That is [CASE-188](CASE-188.md)'s prediction for entrenchment, "a falling first
    probability with the second unchanged", and the evidence route shows the
    defeater was observed and not admitted. I is not selective: it switches
    under both events at about the same time (about 365 trials), and looks
@@ -188,13 +188,13 @@ standard error is at most 0.025.
 
 ## What it shows, and what it does not
 
-LEAD-159 reads "persistence unchanged by the ablation" as inertia. The study
+[LEAD-159](../leads.d/LEAD-159.md) reads "persistence unchanged by the ablation" as inertia. The study
 shows that verdict depends on which ablation is meant. A matched-information
 ablation tells resolve from persistence only in conjunction: a lesion to
 rule out inertia, a perturbation the agent is left to recover from to rule
 out imposed protection, and revision under a defeater as the commitment
 ages to rule out entrenchment. A timescale ablation or a yoked control alone
-gives the wrong verdict. CLAIM-tmpprgb1 states this.
+gives the wrong verdict. [CLAIM-tmpprgb1](../claims.d/CLAIM-tmpprgb1.md) states this.
 
 The lead's criterion has two readings of "returns under corrigible
 conditions", and the study measured both. If it means that persistence
@@ -207,6 +207,6 @@ needs both.
 The agents are constructed, so their governance is known; the study shows
 what each test can and cannot tell apart when the answer is known. It is
 not evidence that any trained learner has resolve, and it does not test
-CLAIM-344 against the world. It says how A40's Study D control must be
+[CLAIM-344](../claims.d/CLAIM-344.md) against the world. It says how A40's Study D control must be
 specified for a run on a trained learner to bear on the claim's
 defeated_if.

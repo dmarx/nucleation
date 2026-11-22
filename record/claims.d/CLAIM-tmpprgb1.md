@@ -34,8 +34,8 @@ grounds:
 bears_on:
 - QUESTION-440
 summary: >-
-  CASE-tmprtp09 builds CASE-188's agents, with imposed protection and inertia
-  added from CLAIM-344's defeated_if, and ablates each one's slow structure
+  [CASE-tmprtp09](../cases.d/CASE-tmprtp09.md) builds [CASE-188](../cases.d/CASE-188.md)'s agents, with imposed protection and inertia
+  added from [CLAIM-344](CLAIM-344.md)'s defeated_if, and ablates each one's slow structure
   four ways on identical inputs. A reset makes the persistence of resolve,
   entrenchment and imposed protection fall and leaves inertia's unchanged;
   left free after the reset, resolve re-establishes its structure and
@@ -43,7 +43,7 @@ summary: >-
   changes nothing; raising the slow rates leaves resolve unchanged and
   removes inertia's persistence. Only revision under a defeater as the
   commitment ages separates resolve from entrenchment. So the control
-  CLAIM-344 names as its test, "perturbed or ablated with task information
+  [CLAIM-344](CLAIM-344.md) names as its test, "perturbed or ablated with task information
   and capacity held fixed", has to say which ablation, and needs all three
   tests together. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -54,14 +54,14 @@ summary: >-
 
 ## The claim
 
-CLAIM-344 holds that "mere slowness or persistence is not resolve", and its
+[CLAIM-344](CLAIM-344.md) holds that "mere slowness or persistence is not resolve", and its
 defeated_if names the test: a learner whose preservation and revision of a
 commitment "are unchanged when its slow influence structure is perturbed or
-ablated with task information and capacity held fixed". LEAD-159 reads the
+ablated with task information and capacity held fixed". [LEAD-159](../leads.d/LEAD-159.md) reads the
 outcome the same way: "persistence unchanged by the ablation reads as
 inertia."
 
-CASE-tmprtp09 runs that control on four agents whose governance is known
+[CASE-tmprtp09](../cases.d/CASE-tmprtp09.md) runs that control on four agents whose governance is known
 and who choose alike under ordinary conditions: corrigible resolve,
 entrenchment, imposed protection and inertia. On identical inputs and with
 the same state variables:
@@ -74,7 +74,7 @@ the same state variables:
    persistence and not imposed protection's, which has nothing that
    re-establishes it. It rules out imposed protection: the "active causal
    maintenance" A36 named as the test of regulated retention (quoted in
-   CLAIM-344).
+   [CLAIM-344](CLAIM-344.md)).
 3. **Revision under a defeater as the commitment ages** separates resolve,
    which revises at every age, from entrenchment, which stops revising as
    the defeater stops reaching its evaluator.
@@ -86,7 +86,7 @@ the same state variables:
 
 So "perturbed or ablated" names different tests that give different
 verdicts, and a single matched-information ablation cannot carry
-CLAIM-344's distinction. The three tests together can.
+[CLAIM-344](CLAIM-344.md)'s distinction. The three tests together can.
 
 ## What it does not say
 
@@ -94,17 +94,17 @@ CLAIM-344's distinction. The three tests together can.
   are constructed; the claim is about what the tests can tell apart.
 - It does not say timescale or yoked ablations always misread, only that
   agents matched in information and capacity exist for which they do.
-- It does not settle CLAIM-344. It bears on how the claim's defeated_if
+- It does not settle [CLAIM-344](CLAIM-344.md). It bears on how the claim's defeated_if
   would be applied: a lesion alone could not detect "externally imposed
   protection", which the defeated_if lists.
-- It does not vary the legitimacy of the commitment; CASE-tmprtp09 says why
+- It does not vary the legitimacy of the commitment; [CASE-tmprtp09](../cases.d/CASE-tmprtp09.md) says why
   these agents cannot.
 
 ## Relations
 
-It bears on QUESTION-440, whether authority goes with the slower variable:
+It bears on [QUESTION-440](../questions.d/QUESTION-440.md), whether authority goes with the slower variable:
 in this construction the authority that protects the commitment is a
 maintained level of precedence, and making it fast leaves the protection
 in place while making a slow estimator fast removes inertia's. It speaks to
-CLAIM-344's test, not to whether the claim is true, so the relation is
+[CLAIM-344](CLAIM-344.md)'s test, not to whether the claim is true, so the relation is
 carried in a dated note there.

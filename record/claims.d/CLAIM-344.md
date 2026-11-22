@@ -266,14 +266,14 @@ No status changes.
 
 <!-- inactive-ok-file: CASE-tmprtp09 CLAIM-tmpprgb1 — new, filed from LEAD-159 on 2026-11-22 -->
 
-LEAD-159 ran the control this claim names as its test, on constructed
-agents whose governance is known (CASE-tmprtp09). "Perturbed or ablated"
+[LEAD-159](../leads.d/LEAD-159.md) ran the control this claim names as its test, on constructed
+agents whose governance is known ([CASE-tmprtp09](../cases.d/CASE-tmprtp09.md)). "Perturbed or ablated"
 names tests that disagree. A reset of the slow structure makes persistence
 fall for resolve and for "externally imposed protection" alike, so it
 cannot detect the latter; recovery from the reset separates them. A
 timescale ablation leaves resolve's persistence unchanged and removes
 inertia's, so it reads them the wrong way round; that is "mere slowness
-isn't resolve" as a test. CLAIM-tmpprgb1 states the conjunction a run on a
+isn't resolve" as a test. [CLAIM-tmpprgb1](CLAIM-tmpprgb1.md) states the conjunction a run on a
 trained learner would need. The agents are constructed, so this neither
 supports nor defeats the claim; it bears on how its defeated_if is applied.
 No status changes.
