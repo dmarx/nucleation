@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp1bt6j
 title: 'Beyond what retention, dynamical independence and Ψ are known to track, can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-20'
@@ -65,6 +65,12 @@ history:
     Note of 2026-11-22 added: Bourrat's two measures computed on one
     scaffolding model (CASE-tmpgfgy2, CLAIM-tmptbxbq). The question is
     unchanged.
+- version: 10
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: CASE-101's populations run through the
+    search (CASE-tmprsqvj, CLAIM-tmp2jbb1, LEAD-026). The question is
+    unchanged.
 tags:
 - individuation
 - information-theory
@@ -87,6 +93,7 @@ summary: >-
   part.
 ---
 <!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq LIT-005 LIT-049 — new, filed 2026-11-22 from LEAD-167's computation, and the Proposed papers and reading it bears on -->
+<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # QUESTION-115: Beyond what retention, dynamical independence and Ψ are known to track, can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?
 
@@ -302,5 +309,41 @@ on one minimal ecological-scaffolding model. [CLAIM-tmptbxbq](../claims.d/CLAIM-
   as the best individual under Â, and passes C2 before any endogenisation.
   In a common-input control with no interaction, δC|E passes all 203
   partitions.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-11-22: [CASE-101](../cases.d/CASE-101.md)'s populations run through the search
+
+[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) carries out [LEAD-026](../leads.d/LEAD-026.md). It simulates [CASE-101](../cases.d/CASE-101.md)'s three
+populations, and a fourth in which the institution does not answer to its
+members (C0). All four are matched in turnover and three aggregate
+statistics. They are run through this question's search: information
+measures propose candidates, a block test priced by [CLAIM-154](../claims.d/CLAIM-154.md) decides, and
+the result is reported as a profile. [CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md) states the finding.
+
+- **Boundary.**
+  - The search finds the transmitting population (B) as its members alone.
+  - It finds the institutional population (C) as its members with the
+    institution.
+  - It finds the commonly driven population (A) only joined to its driver.
+    That verdict is the same as C's, and identical to C0's.
+  - With the external variable unobserved, every population's members
+    pass.
+- **Timescale.**
+  - B's block support peaks at a window equal to the transmission lag,
+    eight steps, which recovers it.
+  - Retention conditioned on the environment, A(Δ), survives turnover only
+    in B: 0.20 nats at 64 steps, against zero elsewhere.
+  - For A and C the block verdict is the same at every window, so it gives
+    no timescale.
+- **Where the criteria part.**
+  - Bourrat's interventional retention parts from A(Δ) on B. An
+    intervention on the present leaves the stored norms of the last eight
+    steps in place.
+  - Dynamical independence, read as zero transfer entropy into the
+    candidate, agrees with the block test.
+  - Unpriced, A*, A and Â all pick the largest candidate, an unrelated
+    distractor included.
+- **Not attempted.** Effective information and the macrostate leg.
 
 The question is unchanged and stays Open.
