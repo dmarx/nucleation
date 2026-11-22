@@ -16,6 +16,8 @@ Dated notes on the lead and the entries it advances.
 
 ## Done
 
+- Leffler (LIT-2444): author-posted copy of the published OUP version (CC BY-NC-ND) found on the author's site, https://www.olofleffler.com/uploads/1/2/2/9/122997280/constitutivisms_plight.pdf, read in full 2026-11-22 (23 pp.). PhilArchive (philarchive.org/archive/LEFCPI) gave a Cloudflare challenge (403) on 2026-11-22; not retried.
+
 ## Next
 
 1. Read read-and-file steps 5-9, ADR-074; docs/record.md fields.
