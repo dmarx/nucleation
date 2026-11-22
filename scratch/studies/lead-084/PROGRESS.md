@@ -55,7 +55,13 @@ entropy. No claim or case states a finite-memory error bound.
 
 - Filed CASE-tmpi9sds (executed-study, documented, illustrates the claim).
 
+- Dated notes on QUESTION-222 and LEAD-084; changelog fragment record/changelog.d/lead-084.md.
+
 ## Next
 
-- File CLAIM (demonstrated), CASE, notes on QUESTION-222 and LEAD-084,
-  changelog.
+- Nothing left on this branch but the report. Open for the owner: the
+  ruling on levels; NOTE-1015's variational comparison; a proof that
+  k_min equals the MZ Hankel rank; observation noise, VAR(p), nonlinear.
+- Path note: the brief named scratchpad/lead-084/ for scratch files; the
+  committed study follows the skill (scratch/studies/lead-084/), and
+  transient exploration scripts stayed in the session scratchpad.
