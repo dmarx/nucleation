@@ -25,8 +25,8 @@ draws_on:
 bears_on:
 - QUESTION-184
 summary: >-
-  The audit's sketch for QUESTION-184, checked against Golub and
-  Jackson's definitions (LIT-999, reread 2026-11-22) and computed
+  The audit's sketch for [QUESTION-184](../questions.d/QUESTION-184.md), checked against Golub and
+  Jackson's definitions ([LIT-999](../literature.d/LIT-999.md), reread 2026-11-22) and computed
   exactly. n agents in m = n/k closed groups of k = ⌈√(ln n)⌉, equal
   weights inside each group, independent Bernoulli(1/2) signals. Under
   Theorem 3 every influence weight is 1/k, which tends to 0; under
@@ -97,7 +97,7 @@ That Golub and Jackson's Proposition 2, read with their own Theorem 3
 and Definition 3, is false in its "if" direction for sequences whose
 number of closed groups grows fast enough; the "only if" direction is
 untouched. It is a construction inside the model, so it says nothing
-about real groups, which is the other half of QUESTION-184. The
+about real groups, which is the other half of [QUESTION-184](../questions.d/QUESTION-184.md). The
 contrasts show only that the failure needs the number of groups to grow
 quickly relative to their sizes; the slow onset in the (ln n)² family is
 a reminder that "tends to 0" can need astronomically large societies.

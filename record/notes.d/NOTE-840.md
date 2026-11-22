@@ -195,7 +195,7 @@ Bonacich 1987; PageRank). Speed is left to the authors' homophily paper
 
 ## Note of 2026-11-22: Proposition 2 with several closed groups, reread
 
-Reread for LEAD-061 from the same copy (bengolub.net, 38 pages):
+Reread for [LEAD-061](../leads.d/LEAD-061.md) from the same copy (bengolub.net, 38 pages):
 Definitions 1–3, Lemma 1 with footnote 14, Proposition 2, the passage on
 closed groups, Definition 7, Theorems 2–3 and the proofs of Theorem 3,
 Lemma 1 and Proposition 2 (pp. 119–124, 136–141), with the statements of
@@ -210,10 +210,10 @@ deviation over all agents. The proof of the "if" direction (p. 141)
 shows convergence along every fixed sequence of agents and treats that as
 sufficient; it does not control the maximum. With ⌊n/k⌋ closed groups of
 k = ⌈√(ln n)⌉ and equal weights, s_1 = 1/k → 0 while some group's
-consensus misses μ with probability tending to 1 (CASE-tmpczld2). The
+consensus misses μ with probability tending to 1 ([CASE-tmpczld2](../cases.d/CASE-tmpczld2.md)). The
 "only if" direction is sound. The "if" direction holds when
 s_1·log m → 0, m the number of minimal closed groups, so whenever m is
-bounded (CLAIM-tmpt226r). C2 in the claims table should be read with
+bounded ([CLAIM-tmpt226r](../claims.d/CLAIM-tmpt226r.md)). C2 in the claims table should be read with
 that proviso. Theorems 1 and 4 use Proposition 2's "if" direction; out-
 dispersion appears to exclude many small closed groups, and whether
 balance with in-dispersion does was not settled. The reading is otherwise

@@ -44,9 +44,9 @@ Done by a delegated worker on branch claude/lead-061-golub-jackson. The
 paper was reread from the published version on Benjamin Golub's website
 (Definitions 1–3, Lemma 1, Proposition 2, Theorems 2–3 and their proofs),
 the audit's construction was computed exactly and by simulation
-(scratch/studies/lead-061/), and the result filed as CASE-tmpczld2 and
-CLAIM-tmpt226r, with dated notes on NOTE-840, LIT-999, THEORY-321 and
-QUESTION-184. Result: Proposition 2's "only if" holds; its "if" fails
+(scratch/studies/lead-061/), and the result filed as [CASE-tmpczld2](../cases.d/CASE-tmpczld2.md) and
+[CLAIM-tmpt226r](../claims.d/CLAIM-tmpt226r.md), with dated notes on [NOTE-840](../notes.d/NOTE-840.md), [LIT-999](../literature.d/LIT-999.md), [THEORY-321](../theory.d/THEORY-321.md) and
+[QUESTION-184](../questions.d/QUESTION-184.md). Result: Proposition 2's "only if" holds; its "if" fails
 for many small closed groups and holds when s_1·log m → 0. What remains:
 whether Theorem 4's hypotheses (balance with minimal in-dispersion) can
 hold with unboundedly many closed groups, which would carry the gap into

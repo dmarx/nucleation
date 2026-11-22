@@ -193,13 +193,13 @@ The reading is unchanged.
 ## Note of 2026-11-22: the several-closed-groups case, checked against the source
 
 The note of 2026-10-19 left open whether the maximum over several
-consensus values is covered. Rereading the paper for LEAD-061 shows it
+consensus values is covered. Rereading the paper for [LEAD-061](../leads.d/LEAD-061.md) shows it
 is not: Theorem 3 normalizes influence on each minimal closed group,
 Definition 3 takes the maximum over all agents, and the proof of
 Proposition 2 controls only fixed sequences of agents. The audit's sketch
-is a counterexample to the "if" direction (CASE-tmpczld2). So the
+is a counterexample to the "if" direction ([CASE-tmpczld2](../cases.d/CASE-tmpczld2.md)). So the
 narrowing of 2026-10-19 was needed, though "strongly connected" is more
 than needed: the theorem holds as titled for any society with boundedly
 many minimal closed groups, and its "if" direction whenever
-s_1·log m → 0 (CLAIM-tmpt226r). The "only if" direction holds in general.
+s_1·log m → 0 ([CLAIM-tmpt226r](../claims.d/CLAIM-tmpt226r.md)). The "only if" direction holds in general.
 The reading is unchanged.
