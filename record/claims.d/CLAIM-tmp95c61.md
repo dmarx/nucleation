@@ -35,8 +35,6 @@ complements:
 - CLAIM-342
 bears_on:
 - QUESTION-121
-- CLAIM-340
-- CLAIM-339
 summary: >-
   [LEAD-020](../leads.d/LEAD-020.md)'s run, [CASE-tmp943kt](../cases.d/CASE-tmp943kt.md). A loop built to lock in without anchors,
   with nothing it does able to change the world or its inputs, follows

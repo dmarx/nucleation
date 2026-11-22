@@ -23,9 +23,8 @@ variant_of:
 - CASE-106
 bears_on:
 - QUESTION-121
+illustrates:
 - CLAIM-342
-- CLAIM-340
-- CLAIM-339
 summary: >-
   The run [LEAD-020](../leads.d/LEAD-020.md) asks for, from [QUESTION-121](../questions.d/QUESTION-121.md): "A loop that does not lock in,
   with action held fixed, and a demonstration that removing a given
