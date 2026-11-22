@@ -1,0 +1,81 @@
+---
+status: Active
+status_note: 'read 2026-11-22 (NOTE-tmpfs86b); worth reading as the one large-scale study found by LEAD-056 that measures, word by word, where a rising word''s frequency gain is taken from: its nearest distributional neighbours, or words far from it in semantic space. In five corpora (COHA, DTA, Estonian, Czech, Scottish Twitter) the distance at which neighbours'' losses offset a target''s gain grows with the frequency change of the target''s topic, significant in each corpus and explaining up to 11% of the variance beyond the controls. It measures frequency, not range of use or interpretation, and it is correlational.'
+title: 'Communicative need modulates competition in language change'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered and read on 2026-11-22 by the worker on LEAD-056, from the
+    arXiv PDF of v1 (arXiv:2006.09277v1, 16 June 2020, 30 pages): sections
+    1 to 5 and the Appendix read; the figures read from captions and
+    labels. Identified from the arXiv API (one version, cs.CL; authors
+    Andres Karjus, Richard A. Blythe, Simon Kirby, Kenny Smith). A Crossref
+    search by title and first author found no published version, only the
+    same authors' "Quantifying the dynamics of topical fluctuations in
+    language" (Language Dynamics and Change, 2020), the advection model
+    this paper uses, which was not read. `published:` is the arXiv v1 date
+    (ADR-002). Not checked against the Anthology of the SOTA.
+tags:
+- linguistics
+- social-science
+date: '2026-11-22'
+published: '2020-06-16'
+arxiv: '2006.09277'
+first_author: 'Karjus'
+keywords:
+- 'lexical competition'
+- 'communicative need'
+- 'topical advection'
+- 'diachronic corpora'
+- 'latent semantic analysis'
+- 'language change'
+implementations:
+- 'github.com/andreskarjus (code linked from the paper; not inspected)'
+summary: >-
+  Karjus, Blythe, Kirby and Smith (2020), arXiv:2006.09277. For words
+  that rose sharply in frequency in five diachronic corpora, the
+  "equalization range", the semantic distance out to which the target's
+  nearest neighbours' frequency losses sum to its gain, correlates with
+  "advection", the mean log frequency change of the target's topic words:
+  a word whose topic is stable takes its frequency from near neighbours
+  (airplane from aeroplane), and a word whose topic is rising rises with
+  them (famed, famous). Found by LEAD-056 as the nearest large-scale
+  measurement of what an addition to a field does to its neighbours; it
+  measures frequency only.
+---
+<!-- inactive-ok-file: THEORY-159 — Proposed; the account whose test this reading was sought for -->
+<!-- inactive-ok-file: CLAIM-082 — Proposed; the claim LEAD-056 advances -->
+
+# LIT-tmpfcwau: Communicative need modulates competition in language change
+
+Andres Karjus, Richard A. Blythe, Simon Kirby and Kenny Smith (2020),
+arXiv preprint — arXiv:2006.09277
+
+## Key takeaways
+
+- **Where a rising word's gain comes from.** Frequencies in a period sum to
+  one, so any target's rise is offset by falls elsewhere. Ordering all other
+  words by distributional (LSA) similarity to the target, the equalization
+  range is the normalised distance at which the cumulated falls match the
+  rise. A range of 0 means the nearest neighbour alone gave up the
+  frequency.
+- **The result.** Across COHA, DTA, the Estonian Reference Corpus, SYN2006PUB
+  and a Scottish Twitter corpus (about 270 targets each), the range rises
+  with the target's topic advection, p < 0.05 in every corpus, adding up to
+  11% of variance over the controls (full-model R² 0.17 to 0.25).
+- **What it does not measure.** Range of use or interpretation: a word that
+  loses may "change meaning and continue to survive in another function",
+  which the authors name as uncontrolled.
+
+## Standing in the record
+
+Registered by LEAD-056, which looks for studies in which a term is added
+to, lost from or merged in a language's inventory and the neighbours' use
+is measured against terms outside the field (THEORY-159's promote_when;
+CLAIM-082's defeat condition). This is the nearest study in scale and in
+having a within-field against outside-field comparison built in, since
+the equalization range asks whether a rise is offset near the target or
+far from it. Its measure is frequency, not value or range of use, so it
+does not meet that condition (NOTE-tmpfs86b).
