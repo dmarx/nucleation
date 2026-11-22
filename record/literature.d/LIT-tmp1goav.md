@@ -1,0 +1,36 @@
+---
+status: Deferred
+status_note: filed 2026-11-22, not read. Registered by LEAD-112's search for cases where access and experience
+  come apart (scratch/studies/lead-112/search.md). In PMC (PMC1693736). Not fetched.
+title: Relative blindsight in normal observers and the neural correlate of visual consciousness
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: 'Filed, not read. Identifier, title, authors, venue and date checked on Crossref on 2026-11-22,
+    and the date and copies on the Europe PMC REST API, no email address sent. Not held: no hit for the
+    DOI or the title in record/literature.d. The summary follows the Europe PMC abstract where it describes
+    the work.'
+tags:
+- consciousness
+- neuroscience
+date: '2026-11-22'
+published: '2006-12-05'
+doi: 10.1073/pnas.0607716103
+first_author: Lau
+keywords: []
+implementations: []
+summary: 'Lau & Passingham (2006), PNAS 103(49): 18763-18768. Metacontrast masking with discrimination
+  matched and reported visibility different, contrasted in fMRI: the report-kind design for separating
+  performance from reported awareness. It bears on QUESTION-048''s report kind; whether matched performance
+  is matched access is the question the record would ask of it. Jannati & Di Lollo (2012) argue it is
+  a criterion confound (not registered). Found by LEAD-112''s search (E12). Unverified until read.'
+---
+
+# LIT-tmp1goav: Relative blindsight in normal observers and the neural correlate of visual consciousness
+
+Lau & Passingham (2006), PNAS 103(49): 18763-18768. DOI 10.1073/pnas.0607716103.
+
+## Standing in the record
+
+Registered on 2026-11-22 by LEAD-112's search. Metacontrast masking with discrimination matched and reported visibility different, contrasted in fMRI: the report-kind design for separating performance from reported awareness. It bears on QUESTION-048's report kind; whether matched performance is matched access is the question the record would ask of it. Jannati & Di Lollo (2012) argue it is a criterion confound (not registered). Found by LEAD-112's search (E12). Unverified until read. Not read.

@@ -18,10 +18,36 @@ is logged in search.md. Services: Europe PMC REST, arXiv, OpenAlex, no email.
 
 ## Done
 
+- Read the lead, QUESTION-048, QUESTION-061, CLAIM-039, CLAIM-003, THEORY-091, THEORY-094.
+- Searched Europe PMC (E1-E12) and arXiv (A1-A2); OpenAlex refused with 429 on the
+  first call and was not used again. Log: search.md.
+- Registered ten works as Deferred LITs (identifiers checked on Crossref, dates
+  and copies on Europe PMC; summaries follow the abstracts):
+  - LIT-tmpblnvk Pinto et al. 2017 (split brain) - deficit / architectural
+  - LIT-tmpnsyqi Kapoor et al. 2022 (macaque PFC, no-report rivalry) - no-report, intracranial
+  - LIT-tmp6iss9 Dwarakanath et al. 2023 (PFC bistability) - no-report, intracranial
+  - LIT-tmp5rny4 Brascamp, Blake & Knapen 2015 (inconspicuous rivalry, fMRI) - no-report
+  - LIT-tmpk79hb Canales-Johnson et al. 2023 (EEG, no-report bistable) - no-report
+  - LIT-tmpz7h9h Phillips 2021 (blindsight is degraded conscious vision) - deficit
+  - LIT-tmpp90k6 Persaud et al. 2011 (GY, matched performance) - deficit / report
+  - LIT-tmp1goav Lau & Passingham 2006 (relative blindsight) - report
+  - LIT-tmpw89hi Bayne et al. 2024 (tests for consciousness) - marker
+  - LIT-tmpl6qwr Overgaard et al. 2008 (GR, degraded conscious vision) - deficit
+
+## Choices made
+
+- Read three: Brascamp 2015 (the inconspicuous design THEORY-094's promote_when
+  asks to be read first-hand), Kapoor 2022 (the intracranial no-report recording,
+  open in PMC), Pinto 2017 (the deficit case nearest QUESTION-061 and CLAIM-003;
+  publisher's free PDF). Phillips 2021 left Deferred: it is an argument about
+  blindsight, not a case, and the lead asks for cases first.
+- Read myself (no subagent tool in this worker), so no reader branches.
+
 ## Next
 
-- Read the lead's advanced entries and docs/record.md
-- Search, log queries
-- Register works
-- Read up to 3
-- Dated notes, changelog fragment
+- Read Brascamp 2015 (PMC4603386) via Europe PMC fullTextXML
+- Read Kapoor 2022 (PMC8940963)
+- Read Pinto 2017 (OUP free PDF)
+- NOTE + THEORY per reading, LIT to Active
+- Dated notes on QUESTION-048, QUESTION-061, CLAIM-003, CLAIM-039, THEORY-091,
+  THEORY-094, LEAD-112; changelog fragment
