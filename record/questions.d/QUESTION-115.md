@@ -86,7 +86,7 @@ summary: >-
   and timescales in controlled models and reports where the criteria
   part.
 ---
-<!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq LIT-005 LIT-049 THEORY-607 — new, filed 2026-11-22 from LEAD-167's computation, and the Proposed papers and reading it bears on -->
+<!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq LIT-005 LIT-049 — new, filed 2026-11-22 from LEAD-167's computation, and the Proposed papers and reading it bears on -->
 
 # QUESTION-115: Beyond what retention, dynamical independence and Ψ are known to track, can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?
 
@@ -283,9 +283,9 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-22: Bourrat's two measures computed on one system
 
-CASE-tmpgfgy2 computes Bourrat's interventional measure (Â, with C1 and C2;
-LIT-005) and his coarse-graining measure (δC, with δC|E; LIT-049) exactly
-on one minimal ecological-scaffolding model. CLAIM-tmptbxbq states the result.
+[CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md) computes Bourrat's interventional measure (Â, with C1 and C2;
+[LIT-005](../literature.d/LIT-005.md)) and his coarse-graining measure (δC, with δC|E; [LIT-049](../literature.d/LIT-049.md)) exactly
+on one minimal ecological-scaffolding model. [CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md) states the result.
 
 - **Where they part.** They part on the transition itself. C2's variance
   takes the patch from the least invariant candidate to the most as the

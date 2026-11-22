@@ -35,18 +35,18 @@ grounds:
 
 ## The claim
 
-CASE-tmpgfgy2 computes both of Bourrat's individuality measures exactly on a
+[CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md) computes both of Bourrat's individuality measures exactly on a
 256-state model. In the model, a patch of cells holds together first only
 where an external scaffold is present, and at the end whatever the scaffold
 does. The parameter λ runs that path.
 
-- **C2 tracks endogenisation.** C2 is the 2024 paper's criterion (LIT-005): low variance of
+- **C2 tracks endogenisation.** C2 is the 2024 paper's criterion ([LIT-005](../literature.d/LIT-005.md)): low variance of
   Â under interventions on the environment. The patch's variance falls from
   0.028 to 0 along λ, from the least invariant candidate to the most. This is
   the behaviour Bourrat predicts, and it holds over the parameters tried. Â
   itself rises with λ, and C1 discriminates nothing.
 - **δC|E does not.** δC|E is the 2023 paper's criterion for environmental
-  confounds (LIT-049): the coarse-graining error conditioned on the
+  confounds ([LIT-049](../literature.d/LIT-049.md)): the coarse-graining error conditioned on the
   environment. It is exactly zero for the patch partition at every λ, so it
   is the same before the transition and after.
 - **Neither excludes the counterfeits.**
@@ -59,14 +59,14 @@ does. The parameter λ runs that path.
     the cells keep any heredity of their own.
 
 So on the record's question of where individuality criteria part on one
-system (QUESTION-115), the interventional measure and the coarse-graining
+system ([QUESTION-115](../questions.d/QUESTION-115.md)), the interventional measure and the coarse-graining
 measure part on exactly the transition. The interventional one moves with
 endogenisation, and the coarse-graining one registers only the partition
 the scaffold already imposed. Both are fooled by where the boundary is
 drawn: around the scaffold for Â, and around nothing in particular for
 δC|E.
 
-The result bears on THEORY-607's promote_when, which asks for an
+The result bears on [THEORY-607](../theory.d/THEORY-607.md)'s promote_when, which asks for an
 accuracy-plus-cost objective whose selected grain shifts with the
 transition. Bourrat's own δC|E with a cost term picks the patches from the
 start and so does not shift. An unconditional, distributional variant with

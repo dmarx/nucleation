@@ -263,7 +263,7 @@ interests. Filed as `bears_on`. The question is unchanged.
 
 ## Note of 2026-11-22: a computed candidate for the continuity criterion
 
-The bearing of CASE-tmpgfgy2 on this question is slight. In its model a patch of cells
+The bearing of [CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md) on this question is slight. In its model a patch of cells
 is now and then refounded from a single cell of the other patch: a similar
 collective produced anew, not the old one continuing. Bourrat's Â counts
 only propagation from the patch's own past, so refounding lowers it. His C2
@@ -273,7 +273,7 @@ outside the patch.
 That is one computable candidate for what must stay causally continuous: the
 channel from the collective's state to its next state, held invariant under
 interventions on the rest. The computation also shows its weakness
-(CLAIM-tmptbxbq). A boundary drawn to take in an external scaffold passes it
+([CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md)). A boundary drawn to take in an external scaffold passes it
 before the cells hold the collective together at all.
 
 The question is unchanged and stays Open.

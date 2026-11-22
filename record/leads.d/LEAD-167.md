@@ -55,16 +55,16 @@ procedure.
 **What was done.** Both measures were computed exactly, with numpy, on a
 minimal ecological-scaffolding model of 256 states, with pytest tests:
 
-- Bourrat 2024's Â, C1 and C2 (LIT-005), with Krakauer et al.'s A*, A and
+- Bourrat 2024's Â, C1 and C2 ([LIT-005](../literature.d/LIT-005.md)), with Krakauer et al.'s A*, A and
   nC beside them;
 - Bourrat 2023's δC and δC|E over all 203 partitions of the cells
-  (LIT-049).
+  ([LIT-049](../literature.d/LIT-049.md)).
 
-The study is CASE-tmpgfgy2, and the finding is CLAIM-tmptbxbq. Materials are under
+The study is [CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md), and the finding is [CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md). Materials are under
 scratch/studies/lead-167/.
 
-**Why this model.** The scaffolding scenario is the one LIT-005 names. Black
-et al.'s own model (LIT-1940) is unread and has no exact distribution, so
+**Why this model.** The scaffolding scenario is the one [LIT-005](../literature.d/LIT-005.md) names. Black
+et al.'s own model ([LIT-1940](../literature.d/LIT-1940.md)) is unread and has no exact distribution, so
 only the scenario's skeleton was built. λ, which moves the patch's cohesion
 from the scaffold to the cells, is swept rather than evolved.
 
@@ -79,7 +79,7 @@ structure, and they part on the transition:
 
 **What remains.**
 
-- Black et al.'s own model, once read (LEAD-176).
+- Black et al.'s own model, once read ([LEAD-176](LEAD-176.md)).
 - The transition evolved under collective-level selection, including the
   onset of scaffolding, which this model does not have. Bourrat's sign for
   that onset, I(E1′; Ŝ1) rising, therefore went untested.
@@ -89,8 +89,8 @@ structure, and they part on the transition:
 **The owner's calls.**
 
 - Whether to adopt the CASE and the CLAIM.
-- Whether LIT-005's and LIT-049's Proposed standing changes.
-- Whether the cost-priced distributional variant meets THEORY-607's
+- Whether [LIT-005](../literature.d/LIT-005.md)'s and [LIT-049](../literature.d/LIT-049.md)'s Proposed standing changes.
+- Whether the cost-priced distributional variant meets [THEORY-607](../theory.d/THEORY-607.md)'s
   promote_when.
 
 The lead's status and stage are left for the owner.

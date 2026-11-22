@@ -25,16 +25,16 @@ draws_on:
 - THEORY-424
 - THEORY-607
 summary: >-
-  LEAD-167 asked for Bourrat's two individuality measures to be computed on
+  [LEAD-167](../leads.d/LEAD-167.md) asked for Bourrat's two individuality measures to be computed on
   a model of an evolutionary transition. Both were computed exactly, as the
-  record's readings define them (NOTE-027, NOTE-064), on a minimal
+  record's readings define them ([NOTE-027](../notes.d/NOTE-027.md), [NOTE-064](../notes.d/NOTE-064.md)), on a minimal
   ecological-scaffolding model: six cells in two patches, an external
   scaffold per patch, collective reproduction by recolonisation, and a
   parameter λ that moves the patch's cohesion from the scaffold to the cells.
-  Of the 2024 measure (LIT-005), Â of the patch rises with λ and C2's
+  Of the 2024 measure ([LIT-005](../literature.d/LIT-005.md)), Â of the patch rises with λ and C2's
   variance falls to zero (0.028 to 0.000), from the least invariant
   candidate to the most; C1 passes every candidate at every λ. Of the 2023
-  measure (LIT-049), δC|E is exactly zero for the patch partition and its
+  measure ([LIT-049](../literature.d/LIT-049.md)), δC|E is exactly zero for the patch partition and its
   24 refinements at every λ, so it registers the scaffold's partition before
   any endogenisation and never registers the endogenisation. Both pass
   counterfeits: a candidate that absorbs the external scaffold passes C2 at
@@ -43,7 +43,7 @@ summary: >-
   cell. The wording is the assistant's (Claude, in this session); adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-005 LIT-049 THEORY-607 — Proposed; the measures computed here, and the reading whose promote_when the result bears on -->
+<!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; the measures computed here, and the reading whose promote_when the result bears on -->
 <!-- inactive-ok-file: LIT-1940 — Deferred; Black et al.'s own model, named as not reproduced -->
 <!-- inactive-ok-file: CLAIM-tmptbxbq — new, filed with this case -->
 
@@ -51,21 +51,21 @@ summary: >-
 
 ## What was done
 
-The curation of 2026-09-26 (063703) said that Bourrat's two papers, LIT-005
-and LIT-049, "would be settled by a worked model: an explicit computation
+The curation of 2026-09-26 (063703) said that Bourrat's two papers, [LIT-005](../literature.d/LIT-005.md)
+and [LIT-049](../literature.d/LIT-049.md), "would be settled by a worked model: an explicit computation
 of its individuality measure on a model of an evolutionary transition".
-LEAD-167 asked for that computation. Neither paper computes its measure on
-any system (NOTE-027, NOTE-064).
+[LEAD-167](../leads.d/LEAD-167.md) asked for that computation. Neither paper computes its measure on
+any system ([NOTE-027](../notes.d/NOTE-027.md), [NOTE-064](../notes.d/NOTE-064.md)).
 
 **The measures, from the record's readings.**
 
-- *2024* (NOTE-027). Â = I(S′; Ŝ), computed by NOTE-027's correct route:
+- *2024* ([NOTE-027](../notes.d/NOTE-027.md)). Â = I(S′; Ŝ), computed by [NOTE-027](../notes.d/NOTE-027.md)'s correct route:
   first the do-channel p(s′ | do(s)) = Σ_e p(s′ | s, e) p(e), then its
   mutual information under a stated input distribution for Ŝ. C1 asks for
   Â_S2 / H(Ŝ2) ≥ [Â_S1 / H(Ŝ1)] at θ₀. C2 asks for low variance of
   Â_S2 | do(E2 = e) over the interventions e on E2. Krakauer et al.'s A*,
   A and nC are reported beside them.
-- *2023* (NOTE-064). δC is the gap between the truthful prediction (evolve
+- *2023* ([NOTE-064](../notes.d/NOTE-064.md)). δC is the gap between the truthful prediction (evolve
   the fine state, then average within blocks) and the projected one (average,
   then evolve the coarse state). It is computed in two versions: δC, and
   δC|E, which conditions the projection on the environment and takes the
@@ -90,13 +90,13 @@ any system (NOTE-027, NOTE-064).
   - a distributional δC, the total-variation distance between the two routes'
     predictive distributions;
   - an accuracy-plus-cost objective δC + κ·k, with k the number of blocks.
-    This is NOTE-064's suggested repair, with LIT-049's one-operation-per-entity
+    This is [NOTE-064](../notes.d/NOTE-064.md)'s suggested repair, with [LIT-049](../literature.d/LIT-049.md)'s one-operation-per-entity
     cost.
 
-**The model, and why this one.** LIT-005 names Black et al.'s ecological
+**The model, and why this one.** [LIT-005](../literature.d/LIT-005.md) names Black et al.'s ecological
 scaffolding as its intended setting, and its C2 is defined for that
 scenario. Ecological scaffolding is therefore the most standard choice
-here. Black et al.'s own model (LIT-1940) is unread on the record, and it
+here. Black et al.'s own model ([LIT-1940](../literature.d/LIT-1940.md)) is unread on the record, and it
 is an individual-based simulation with no exact joint distribution. So it is
 not reproduced. What is built is the scenario's skeleton, small enough for
 exact information measures (256 states):
@@ -117,12 +117,12 @@ exact information measures (256 states):
 - At λ = 1 the cells hold it together whatever the scaffold does.
 
 λ is swept as a parameter, not evolved. Two controls are added, in the
-manner of CASE-101's common-input arm: a patch whose cells simply copy their
+manner of [CASE-101](CASE-101.md)'s common-input arm: a patch whose cells simply copy their
 patch's environment, with no interaction. The control is symmetric in one
 version and asymmetric in the other.
 
 Scripts, results and 9 passing tests are under
-scratch/studies/lead-167/. The tests include NOTE-027's XOR counterexample
+scratch/studies/lead-167/. The tests include [NOTE-027](../notes.d/NOTE-027.md)'s XOR counterexample
 (A = 1 bit, Â = 0) and Bourrat's Fig. 2 common cause (A* > 0, Â = 0).
 
 ## Results
@@ -184,14 +184,14 @@ interventions on E)
   and both horizons, in both forms, for the patch partition and its 24
   refinements.
   - So the minimal δC is degenerate: the identity partition is always among
-    the minima, as NOTE-064's C4 says.
+    the minima, as [NOTE-064](../notes.d/NOTE-064.md)'s C4 says.
   - The coarsest zero partition is the two patches at every λ < 1. At
     λ = 1, in the point form, it is the whole population, whose mean is a
     martingale.
   - δC|E registers the scaffold's partition from λ = 0 and is blind to
     endogenisation.
   - In the common-input controls, every one of the 203 partitions has δC|E =
-    0 in the point form. That sharpens NOTE-064's C6: conditioning on the
+    0 in the point form. That sharpens [NOTE-064](../notes.d/NOTE-064.md)'s C6: conditioning on the
     environment does not exclude the ecological case, it passes everything.
 - **Unconditional δC.**
   - The patch partition's error falls along λ, from 0.030 to 0.019 to 0.011
@@ -245,4 +245,4 @@ interventions on E)
 - The distributional δC and the cost objective are extensions. A
   total-variation distance across coarse spaces of different sizes is not
   strictly commensurable.
-- The result is filed as CLAIM-tmptbxbq.
+- The result is filed as [CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md).

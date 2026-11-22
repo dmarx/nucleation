@@ -141,9 +141,9 @@ and the operation count. The account is argued, not tested.
 
 The promote_when asks for one objective, prediction error plus cost,
 computed over candidate partitions, picking out the collectives "with the
-selected grain shifting as the transition proceeds". CASE-tmpgfgy2 computes such an
-objective on a minimal ecological-scaffolding model, and CLAIM-tmptbxbq states the
-result. The cost is δC + κ·k, with LIT-049's one operation per entity per
+selected grain shifting as the transition proceeds". [CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md) computes such an
+objective on a minimal ecological-scaffolding model, and [CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md) states the
+result. The cost is δC + κ·k, with [LIT-049](../literature.d/LIT-049.md)'s one operation per entity per
 step.
 
 - **Bourrat's δC|E with the cost** picks the two patches for small κ at every
