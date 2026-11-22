@@ -101,6 +101,7 @@ summary: >-
 corroborates:
 - CLAIM-600
 ---
+<!-- inactive-ok-file: THEORY-tmpzrqm9 — Proposed; the reading of the 10 Principles, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; cited in the proposed test -->
 <!-- inactive-ok-file: CLAIM-428 — Proposed; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 — filed from the exchange of 2026-11-12, Proposed -->
@@ -367,3 +368,35 @@ has read none of that literature; an organizational version needs matched
 programmes with and without counterpart contributions. No status changes.
 The note is the assistant's (Claude, in this session); adopting it is the
 owner's call.
+
+## Note of 2026-11-22: Harvey, the 10 Principles, read
+
+LIT-2175 is now read from the organization's own page (NOTE-tmpcr2sz;
+THEORY-tmpzrqm9). Two things above change, recorded here rather than in the
+text.
+
+- **"Unavailable" is stale.** The "Generalized" bullet cites LIT-2175 as
+  "Unavailable, read through St John". It was Unfetched, and is now read and
+  Active. The Gifting wording St John quotes is confirmed verbatim: "The
+  value of a gift is unconditional. Gifting does not contemplate a return or
+  an exchange for something of equal value."
+- **A correction to "Gifts sit beside self-reliance".** That bullet reads
+  Radical Self-reliance as self-provision. The principle's whole text is:
+  "Burning Man encourages the individual to discover, exercise and rely on
+  their inner resources." It concerns inner resources, not which material
+  capabilities stay self-provided, and it sets no limit on what may be
+  gifted. Bringing one's own supplies is St John's report of practice, not
+  the principle's wording, and the page's "Leaving No Trace" does not say it
+  either. So the principles themselves draw no line between what is
+  self-provided and what circulates, and the parallel with Mauss's "compter
+  sur soi" is weaker than the bullet states: it rests on practice, not on
+  the principle.
+- **Support for "whether the receiver has any path by which to give".**
+  Participation ("Everyone is invited to work. Everyone is invited to
+  play.") and Radical Self-expression ("It is offered as a gift to others")
+  make every participant a potential giver: the ethos builds in the
+  receiver's path to give. And Decommodification is grounded in gifting
+  ("In order to preserve the spirit of gifting").
+
+The status is unchanged; whether to revise the bullet in a new version is
+the owner's call.

@@ -11,6 +11,7 @@ claude/readings-sweep (PR #649) are not cited.
 - LIT-1996: NOTE-tmp3k6if, THEORY-tmp0vgh7, LIT to Active (v3); "too few studies" corrected by dated note (filed 2026-11-02).
 - LIT-1996 dated notes: THEORY-054, THEORY-1327, NOTE-1500, LIT-1967, THEORY-120, NOTE-448, NOTE-442, LIT-559, NOTE-1513, NOTE-436, NOTE-431, NOTE-441, THEORY-075.
 - LIT-2175: NOTE-tmpcr2sz, THEORY-tmpzrqm9, LIT to Active (v3), url now /about-us/10-principles/.
+- LIT-2175 dated notes: CLAIM-603 (Radical Self-reliance correction; stale "Unavailable"), NOTE-1662, THEORY-1497, THEORY-1546, NOTE-1658, NOTE-1679, LIT-2188.
 
 ## Next
-- LIT-2175 dated notes, LIT-tmpa7f10; curation; changelog.
+- LIT-tmpa7f10; curation; changelog.
