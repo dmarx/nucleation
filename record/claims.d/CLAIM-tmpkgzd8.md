@@ -26,7 +26,7 @@ grounds:
 - CASE-tmpjgjtj
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpie2v3 — Proposed; the sibling finding this one complements, filed in the same batch -->
+<!-- inactive-ok-file: CLAIM-tmpie2v3, CASE-tmpjgjtj — Proposed; the sibling finding this one complements and the study, filed in the same batch -->
 
 # CLAIM-tmpkgzd8: The embedding of a network that has learned a non-abelian group carries the group's irreducibles as a group-Fourier power spectrum concentrated on the faithful ones, with the trivial component near zero and the sign representation smallest, the dominant faithful irreducible varying with the seed
 

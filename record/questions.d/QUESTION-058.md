@@ -19,7 +19,7 @@ summary: >-
   each one's limit.
 ---
 <!-- inactive-ok-file: THEORY-288 — Proposed; partial answers filed today, cited with their limits -->
-<!-- inactive-ok-file: CLAIM-tmpie2v3, CLAIM-tmpkgzd8 — Proposed; the offered answer and its companion, filed 2026-11-22 under LEAD-114 -->
+<!-- inactive-ok-file: CLAIM-tmpie2v3, CLAIM-tmpkgzd8, CASE-tmpjgjtj — Proposed; the offered answer, its companion and the study, filed 2026-11-22 under LEAD-114 -->
 
 # QUESTION-058: When a trained network's representation carries a group's structure, how much of it comes from the task, the architecture, the training set's relations and the symmetry of the update, and how much can be read off the network without supplying the group?
 

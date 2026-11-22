@@ -1,5 +1,5 @@
 ---
-status: Active
+status: Proposed
 title: 'Blind irreducible recovery from a group-composition network trained on S3 and S4'
 version: 1
 standing: documented

@@ -26,6 +26,7 @@ grounds:
 ---
 
 <!-- inactive-ok-file: THEORY-022 — Proposed; cited in prose for the contrast with the abelian case -->
+<!-- inactive-ok-file: CASE-tmpjgjtj — Proposed; the study this claim is grounded in, filed in the same batch -->
 
 # CLAIM-tmpie2v3: A non-abelian group learned from one-hot composition with no matrix representation imposed yields its irreducibles to a blind recovery that is given only the operation the network itself computes, exactly when the network has learned the group, and a group-supplied control recovers the same irreducibles, so the gate is the network's competence and not the method
 

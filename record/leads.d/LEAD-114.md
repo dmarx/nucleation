@@ -21,7 +21,7 @@ summary: >-
   Named in [QUESTION-058](../questions.d/QUESTION-058.md). Filed by the backlog audit of 2026-11-19.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpie2v3, CLAIM-tmpkgzd8 — Proposed; the findings filed under this lead on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmpie2v3, CLAIM-tmpkgzd8, CASE-tmpjgjtj — Proposed; the findings and the study filed under this lead on 2026-11-22 -->
 
 # LEAD-114: Learn a non-abelian task with no matrix representation imposed, and recover its irreducibles from the weights without supplying the group, or show them unrecoverable
 
