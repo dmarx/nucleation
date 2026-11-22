@@ -29,14 +29,14 @@ objects_to:
 uses:
 - TERM-tmp4iqiv
 summary: >-
-  Reading (a) of LEAD-121, an alternative to CLAIM-tmpsjab8, and the
-  assistant's lean. CLAIM-342's independent scoring is the second sense of
-  TERM-tmp4iqiv. Share-dependent advantage, a score that rises with the
-  incumbent's own share (CASE-155's c, CLAIM-408's α, Arthur's increasing
+  Reading (a) of [LEAD-121](../leads.d/LEAD-121.md), an alternative to [CLAIM-tmpsjab8](CLAIM-tmpsjab8.md), and the
+  assistant's lean. [CLAIM-342](CLAIM-342.md)'s independent scoring is the second sense of
+  [TERM-tmp4iqiv](../terms.d/TERM-tmp4iqiv.md). Share-dependent advantage, a score that rises with the
+  incumbent's own share ([CASE-155](../cases.d/CASE-155.md)'s c, [CLAIM-408](CLAIM-408.md)'s α, Arthur's increasing
   returns), then passes through what the loop tests, and a loop in which it
-  outweighs independent evidence is the pooled case CLAIM-342 already
+  outweighs independent evidence is the pooled case [CLAIM-342](CLAIM-342.md) already
   disclaims, not a loop "whose evidence is scored independently". On this
-  reading CLAIM-342 stands, and its wording would name the authority the
+  reading [CLAIM-342](CLAIM-342.md) stands, and its wording would name the authority the
   interpretation holds beside the interpretation. The owner chooses. The
   wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---

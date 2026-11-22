@@ -11,15 +11,15 @@ line:
 - distributed-agency
 - pragmatic-transport
 summary: >-
-  Filed for LEAD-121. The record uses "independent scoring" without a
-  definition, in CLAIM-342 (its title says "interpretation"), CLAIM-330 and
-  CASE-099 (Regime B, γ ≈ 0), CASE-155 ("lowering c, independent scoring")
-  and CLAIM-466. The curation entry of 2026-11-11 (030317) found that
-  whether CLAIM-342's defeater is met turns on which is meant. The term
+  Filed for [LEAD-121](../leads.d/LEAD-121.md). The record uses "independent scoring" without a
+  definition, in [CLAIM-342](../claims.d/CLAIM-342.md) (its title says "interpretation"), [CLAIM-330](../claims.d/CLAIM-330.md) and
+  [CASE-099](../cases.d/CASE-099.md) (Regime B, γ ≈ 0), [CASE-155](../cases.d/CASE-155.md) ("lowering c, independent scoring")
+  and [CLAIM-466](../claims.d/CLAIM-466.md). The curation entry of 2026-11-11 (030317) found that
+  whether [CLAIM-342](../claims.d/CLAIM-342.md)'s defeater is met turns on which is meant. The term
   separates the two senses, so that an entry can say which, and names the
   case on which they differ: share-dependent advantage, independent in the
-  first sense and not in the second. It does not say which CLAIM-342 means;
-  CLAIM-tmp528xy and CLAIM-tmpsjab8 argue the two answers as alternatives.
+  first sense and not in the second. It does not say which [CLAIM-342](../claims.d/CLAIM-342.md) means;
+  [CLAIM-tmp528xy](../claims.d/CLAIM-tmp528xy.md) and [CLAIM-tmpsjab8](../claims.d/CLAIM-tmpsjab8.md) argue the two answers as alternatives.
   The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp528xy CLAIM-tmpsjab8 CASE-tmp7zt9v — new; filed with this term for LEAD-121 -->

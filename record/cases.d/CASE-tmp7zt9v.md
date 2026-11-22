@@ -17,11 +17,11 @@ variant_of:
 illustrates:
 - CLAIM-tmpsjab8
 summary: >-
-  Built for LEAD-121, to separate the two senses of independent scoring in
-  TERM-tmp4iqiv. It is CASE-155 part 4's walk with one change: the
-  interpretation is a second state, as in CASE-099, which authority shapes
+  Built for [LEAD-121](../leads.d/LEAD-121.md), to separate the two senses of independent scoring in
+  [TERM-tmp4iqiv](../terms.d/TERM-tmp4iqiv.md). It is [CASE-155](CASE-155.md) part 4's walk with one change: the
+  interpretation is a second state, as in [CASE-099](CASE-099.md), which authority shapes
   and which the authority score never reads. Scoring is then independent of
-  the interpretation (CASE-099's γ = 0) and not of the loop's state, since
+  the interpretation ([CASE-099](CASE-099.md)'s γ = 0) and not of the loop's state, since
   the score rises with the incumbent's share. Above the threshold
   π* = (1 − h/c)/2 the disfavoured process keeps its authority and the
   interpretation settles on its side against the evidence; with no

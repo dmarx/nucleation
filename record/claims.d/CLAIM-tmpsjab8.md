@@ -30,14 +30,14 @@ objects_to:
 uses:
 - TERM-tmp4iqiv
 summary: >-
-  Reading (b) of LEAD-121, an alternative to CLAIM-tmp528xy. CLAIM-342's
+  Reading (b) of [LEAD-121](../leads.d/LEAD-121.md), an alternative to [CLAIM-tmp528xy](CLAIM-tmp528xy.md). [CLAIM-342](CLAIM-342.md)'s
   title says "interpretation", and the only formal anchor it gives for
-  independent scoring is CLAIM-330's γ ≈ 0, the first sense of
-  TERM-tmp4iqiv. Share-dependent advantage is then independent scoring.
-  CASE-tmp7zt9v is a loop scored independently in that sense whose
+  independent scoring is [CLAIM-330](CLAIM-330.md)'s γ ≈ 0, the first sense of
+  [TERM-tmp4iqiv](../terms.d/TERM-tmp4iqiv.md). Share-dependent advantage is then independent scoring.
+  [CASE-tmp7zt9v](../cases.d/CASE-tmp7zt9v.md) is a loop scored independently in that sense whose
   authority, and with it the interpretation, locks in against the
-  evidence, which meets CLAIM-342's first defeater. The claim stands only
-  narrowed by CLAIM-330's unstated premise that authority does not
+  evidence, which meets [CLAIM-342](CLAIM-342.md)'s first defeater. The claim stands only
+  narrowed by [CLAIM-330](CLAIM-330.md)'s unstated premise that authority does not
   reinforce itself apart from the interpretation (δ < 1). The owner
   chooses. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
