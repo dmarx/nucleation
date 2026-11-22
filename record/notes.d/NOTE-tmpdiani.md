@@ -29,8 +29,8 @@ summary: >-
 ## Contribution
 
 A template filled in: the shape a Google postmortem is meant to take,
-shown on a fictional incident. Chapter 15 of the same book (LIT-2784,
-NOTE-2082) states the norms; this shows what a document written to them
+shown on a fictional incident. Chapter 15 of the same book ([LIT-2784](../literature.d/LIT-2784.md),
+[NOTE-2082](NOTE-2082.md)) states the norms; this shows what a document written to them
 contains.
 
 ## Key results
@@ -78,13 +78,13 @@ Quotations from the web edition (no page numbers).
 
 ## Bearing on the record
 
-- **QUESTION-476** (bears on). The example keeps correction and gives up
+- **[QUESTION-476](../questions.d/QUESTION-476.md)** (bears on). The example keeps correction and gives up
   blame by design: the one mistake in the timeline has no agent, and the
   action items fix systems. It says nothing upstream of the responding
   teams, because the fictional incident has nothing there to say: the
   causes are a bug and a surge. So it shows the template, not where the
   trace stops when an upstream decision was in play.
-- **CLAIM-750** (bears on, weakly; no relation written). Every action item
+- **[CLAIM-750](../claims.d/CLAIM-750.md)** (bears on, weakly; no relation written). Every action item
   is owned by an engineer of the responding teams, which fits the claim's
   prediction that action items "cluster at or below the reviewing team's
   authority". But a fictional incident whose causes are a bug and a surge
@@ -92,9 +92,9 @@ Quotations from the web edition (no page numbers).
   error-budget freeze is the one point at which the example touches a
   decision above the team, and it applies a policy rather than tracing a
   cause to it.
-- **THEORY-2000** (parallel). The example matches the chapter's norm:
+- **[THEORY-2000](../theory.d/THEORY-2000.md)** (parallel). The example matches the chapter's norm:
   causes "without indicting any individual or team".
-- **CLAIM-905 and CASE-335** (background). The pilot coded public
+- **[CLAIM-905](../claims.d/CLAIM-905.md) and [CASE-335](../cases.d/CASE-335.md)** (background). The pilot coded public
   postmortems; this example would code as stopping at the engineering
   group, but it is a teaching document and not in the pilot's population.
 

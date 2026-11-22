@@ -1,7 +1,7 @@
 ---
 status: Unavailable
 status_note: >-
-  registered 2026-11-22 for LEAD-189; not read. No lawful free copy was
+  registered 2026-11-22 for [LEAD-189](../leads.d/LEAD-189.md); not read. No lawful free copy was
   found. OpenAlex lists the work as closed ("oa_status": "closed",
   "any_repository_has_fulltext": false), with two locations: the
   publisher's page (https://doi.org/10.1007/s10111-008-0110-7, paywalled)
@@ -9,7 +9,7 @@ status_note: >-
   (http://hdl.handle.net/10072/37890), which redirected to
   https://research-repository.griffith.edu.au/handle/10072/37890 and
   answered HTTP 500 on 2026-11-22; OpenAlex lists no file there. Not
-  retried. Dekker and Nyce (2013, LIT-2786), read, cites it and stands
+  retried. Dekker and Nyce (2013, [LIT-2786](LIT-2786.md)), read, cites it and stands
   in for the general point only.
 title: 'Just culture: who gets to draw the line?'
 version: 1
@@ -44,7 +44,7 @@ summary: >-
   free copy was found. By its title, it is about who decides where the line
   between acceptable and culpable performance falls, the point Dekker and
   Nyce (2013) make as "who gets to say"; what it argues is unverified until
-  read. It bears on QUESTION-476 and on the mechanism of CLAIM-750.
+  read. It bears on [QUESTION-476](../questions.d/QUESTION-476.md) and on the mechanism of [CLAIM-750](../claims.d/CLAIM-750.md).
 ---
 <!-- inactive-ok-file: CLAIM-750 — Proposed; the claim whose mechanism the paper would bear on -->
 
@@ -58,8 +58,8 @@ Sidney Dekker (2009). "Just culture: who gets to draw the line?". *Cognition, Te
 
 ## Standing in the record
 
-Registered for LEAD-189. It is Unavailable (status note). Dekker and
-Nyce (2013, LIT-2786), read in NOTE-2080, cite it and argue that what
+Registered for [LEAD-189](../leads.d/LEAD-189.md). It is Unavailable (status note). Dekker and
+Nyce (2013, [LIT-2786](LIT-2786.md)), read in [NOTE-2080](../notes.d/NOTE-2080.md), cite it and argue that what
 counts as a just response depends on "who gets to say"; that is the
 nearest held statement of what this paper's title promises, and it stands
 in for the general point only, not for this paper's argument.

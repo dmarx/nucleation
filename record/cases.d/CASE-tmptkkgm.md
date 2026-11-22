@@ -20,15 +20,15 @@ bears_on:
 - QUESTION-476
 summary: >-
   A real Google postmortem, published in the SRE workbook (2018,
-  LIT-tmpujx6j, read in NOTE-tmpf58r7) as the good counterpart of a
+  [LIT-tmpujx6j](../literature.d/LIT-tmpujx6j.md), read in [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md)) as the good counterpart of a
   blameful draft. A manual re-run of a decommission workflow triggered a
   validation bug that sent all satellite machines to diskerase. The
   postmortem blames "No individual or team", traces the failure across
   several teams' systems, lists ""The installer" has limited staffing"
   among what went poorly in recovery, and assigns fourteen action items,
   each to an engineer, none about staffing, priorities or budgets. Filed as
-  a specimen for CLAIM-750, with an alternative reading in its body and an
-  ARG (ARG-tmp117cw). The wording is the assistant's (Claude, in this
+  a specimen for [CLAIM-750](../claims.d/CLAIM-750.md), with an alternative reading in its body and an
+  ARG ([ARG-tmp117cw](../arguments.d/ARG-tmp117cw.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-750 CLAIM-905 CASE-335 — Proposed; the claim this illustrates and the pilot it parallels -->
@@ -38,8 +38,8 @@ summary: >-
 
 ## The case
 
-From chapter 10 of *The Site Reliability Workbook* (LIT-tmpujx6j, read in
-NOTE-tmpf58r7). The chapter says: "This is an actual postmortem. In some
+From chapter 10 of *The Site Reliability Workbook* ([LIT-tmpujx6j](../literature.d/LIT-tmpujx6j.md), read in
+[NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md)). The chapter says: "This is an actual postmortem. In some
 cases, we fictionalized names of individuals and teams."
 
 - **What happened.** "A longstanding input validation bug in the Traffic
@@ -72,9 +72,9 @@ The reading filed, which the filer leans to:
   names a staffing limit as a cause of slow recovery and assigns it no
   action item, while its fourteen action items go to technical fixes. Staffing is set by
   whoever allocates headcount, not by the engineers who own the action
-  items. That fits CLAIM-750's prediction that action items "cluster at or
+  items. That fits [CLAIM-750](../claims.d/CLAIM-750.md)'s prediction that action items "cluster at or
   below the reviewing team's authority", in the exemplar the practice
-  itself holds up as good. ARG-tmp117cw sets out the inference.
+  itself holds up as good. [ARG-tmp117cw](../arguments.d/ARG-tmp117cw.md) sets out the inference.
 - **Depth across, not up.** The postmortem's praised depth is lateral,
   "across multiple teams": it reaches peer systems, not the decisions
   that set their conditions.
@@ -88,7 +88,7 @@ The reading filed, which the filer leans to:
   incident's action plan. On this reading the case shows nothing about
   where the trace stops, and should carry no `illustrates`.
 - **Routed elsewhere.** Google's practice puts questions about priorities
-  in reviews across incidents (CLAIM-tmpauu5r). The staffing limit may
+  in reviews across incidents ([CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md)). The staffing limit may
   have been taken up there, which the chapter does not say.
 
 The filer leans to the first reading, because the staffing limit is the
@@ -101,6 +101,6 @@ owner's call; the `illustrates` link stands or falls with it.
 - One postmortem, chosen as an exemplar, with values redacted and the
   timeline elided. Not a sample.
 - What the installer's staffing was, who set it, or whether it changed.
-- It parallels CASE-335 and CLAIM-905, the pilot's finding that public
+- It parallels [CASE-335](CASE-335.md) and [CLAIM-905](../claims.d/CLAIM-905.md), the pilot's finding that public
   postmortems' traces stop at the engineering group, but is not in that
   pilot's corpus and adds one more instance, not an independent test.

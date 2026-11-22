@@ -21,10 +21,10 @@ bears_on:
 corroborates:
 - CLAIM-751
 summary: >-
-  The Associated Press (2023), LIT-tmpum8to, read in NOTE-tmpeb1f9, with
-  NPR's reports of the declination (2019, LIT-tmp4sapc) and of the charge
-  (2020, LIT-tmpca1pz). The criminal process on the Tempe crash ended at
-  the operator; the company was not charged. It corroborates CLAIM-751's
+  The Associated Press (2023), [LIT-tmpum8to](../literature.d/LIT-tmpum8to.md), read in [NOTE-tmpeb1f9](../notes.d/NOTE-tmpeb1f9.md), with
+  NPR's reports of the declination (2019, [LIT-tmp4sapc](../literature.d/LIT-tmp4sapc.md)) and of the charge
+  (2020, [LIT-tmpca1pz](../literature.d/LIT-tmpca1pz.md)). The criminal process on the Tempe crash ended at
+  the operator; the company was not charged. It corroborates [CLAIM-751](../claims.d/CLAIM-751.md)'s
   contrast between a no-blame investigator, which traced cause to the
   company and the state, and a blame-based process on the same failure,
   which stopped at the operator. The wording is the filer's (Claude, in
@@ -35,9 +35,9 @@ summary: >-
 
 # THEORY-tmpfdyu6: The Associated Press reports that the Tempe operator, charged with negligent homicide, pleaded guilty to endangerment and was sentenced to three years of supervised probation, and that prosecutors had declined to charge Uber as a corporation
 
-The Associated Press (2023), LIT-tmpum8to, read in NOTE-tmpeb1f9; with
-Wamsley (2019, LIT-tmp4sapc, NOTE-tmphxo80) and Wamsley (2020,
-LIT-tmpca1pz, NOTE-tmpi1l0m).
+The Associated Press (2023), [LIT-tmpum8to](../literature.d/LIT-tmpum8to.md), read in [NOTE-tmpeb1f9](../notes.d/NOTE-tmpeb1f9.md); with
+Wamsley (2019, [LIT-tmp4sapc](../literature.d/LIT-tmp4sapc.md), [NOTE-tmphxo80](../notes.d/NOTE-tmphxo80.md)) and Wamsley (2020,
+[LIT-tmpca1pz](../literature.d/LIT-tmpca1pz.md), [NOTE-tmpi1l0m](../notes.d/NOTE-tmpi1l0m.md)).
 
 ## The account
 
@@ -53,15 +53,15 @@ LIT-tmpca1pz, NOTE-tmpi1l0m).
 
 ## Bearing
 
-- **CLAIM-751**: corroborates its contrast. The claim's existence
+- **[CLAIM-751](../claims.d/CLAIM-751.md)**: corroborates its contrast. The claim's existence
   statement rests on the NTSB report; this shows the blame-based process
   on the same failure stopping where the no-blame one did not.
-  CLAIM-tmp20uni files the contrast, and CLAIM-tmp64hmn objects that the
+  [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md) files the contrast, and [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md) objects that the
   contrast is between criminal law and the NTSB, not between blame and
   its absence.
-- **QUESTION-476**: bears on, as the blame-based counterpart of the
+- **[QUESTION-476](../questions.d/QUESTION-476.md)**: bears on, as the blame-based counterpart of the
   blameless practice the question asks about.
-- **CASE-292**: completes the case's "What it cannot show" on
+- **[CASE-292](../cases.d/CASE-292.md)**: completes the case's "What it cannot show" on
   prosecution (dated note there).
 
 ## What it does not show

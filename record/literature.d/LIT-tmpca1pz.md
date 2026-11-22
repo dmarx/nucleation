@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 (NOTE-tmpi1l0m) in full from NPR's site; read beside
-  LIT-tmpum8to as a supplement (ADR-114), for the date and charge of the
+  read 2026-11-22 ([NOTE-tmpi1l0m](../notes.d/NOTE-tmpi1l0m.md)) in full from NPR's site; read beside
+  [LIT-tmpum8to](LIT-tmpum8to.md) as a supplement ([ADR-114](../decisions.d/ADR-114.md)), for the date and charge of the
   prosecution, which the record relies on. A news report; the charging
   document was not read.
 title: 'Backup Driver Of Autonomous Uber SUV Charged With Negligent Homicide In Arizona'
@@ -31,12 +31,12 @@ keywords:
 - 'negligent homicide'
 implementations: []
 summary: >-
-  Laurel Wamsley (2020), NPR, read in NOTE-tmpi1l0m. The operator "has
+  Laurel Wamsley (2020), NPR, read in [NOTE-tmpi1l0m](../notes.d/NOTE-tmpi1l0m.md). The operator "has
   been charged with negligent homicide", "pleaded not guilty", and was
   released with an ankle monitor; the report quotes the NTSB's finding
   that Uber ATG "did not adequately recognize the risk of automation
   complacency", and recalls that a prosecutor had found Uber not
-  criminally liable. It bears on CLAIM-751.
+  criminally liable. It bears on [CLAIM-751](../claims.d/CLAIM-751.md).
 ---
 <!-- inactive-ok-file: CLAIM-751 — Proposed; the claim the reading bears on -->
 
@@ -46,12 +46,12 @@ Laurel Wamsley (2020, 16 September). "Backup Driver Of Autonomous Uber SUV Charg
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpi1l0m).*
+*From the reading ([NOTE-tmpi1l0m](../notes.d/NOTE-tmpi1l0m.md)).*
 
 - In September 2020 the operator was charged with negligent homicide in
   Maricopa County and pleaded not guilty.
 
 ## Standing in the record
 
-A supplement to LIT-tmpum8to (ADR-114), filed because the record relies
+A supplement to [LIT-tmpum8to](LIT-tmpum8to.md) ([ADR-114](../decisions.d/ADR-114.md)), filed because the record relies
 on its date and charge.

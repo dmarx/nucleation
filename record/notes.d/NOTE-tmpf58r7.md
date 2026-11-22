@@ -33,7 +33,7 @@ summary: >-
 
 ## Contribution
 
-Where the SRE book's chapter 15 (LIT-2784) states the norms, this chapter
+Where the SRE book's chapter 15 ([LIT-2784](../literature.d/LIT-2784.md)) states the norms, this chapter
 shows them applied to one real postmortem and says how an organization
 keeps them: by leaders' example, rewards, sharing, and response to signs
 that the culture is failing. It is Google's own account, by its
@@ -129,7 +129,7 @@ Quotations from the web edition (no page numbers; section names given).
 
 ## Bearing on the record
 
-- **QUESTION-476** (bears on). The first half is answered by design as in
+- **[QUESTION-476](../questions.d/QUESTION-476.md)** (bears on). The first half is answered by design as in
   chapter 15, with the gloss that ownership is "accountability, which
   leads to action". On the second half the chapter is the best evidence
   the record has from the practice itself, and it points both ways:
@@ -145,18 +145,18 @@ Quotations from the web edition (no page numbers; section names given).
     organizational leaders", and a vice-president reviews postmortems
     that lack a priority bug. Provenance may be kept, if at all, by
     channels beside the single postmortem.
-- **CLAIM-750** (bears on, both ways). The good postmortem fits the
+- **[CLAIM-750](../claims.d/CLAIM-750.md)** (bears on, both ways). The good postmortem fits the
   prediction: its action items stay at the engineering teams, and the one
   contributing condition above engineering action, staffing, goes without
-  one. CASE-tmptkkgm files it as a specimen. The blameless-language
+  one. [CASE-tmptkkgm](../cases.d/CASE-tmptkkgm.md) files it as a specimen. The blameless-language
   examples fit the mechanism: the norm against "indicting any individual
   or team" also turns questions to managers into questions about process.
   Against the claim as operationalized, the chapter's own channels for
   upstream questions sit outside the postmortem, so a coding of
-  postmortems' action items may miss them: CLAIM-tmpauu5r files that
+  postmortems' action items may miss them: [CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md) files that
   objection. Whether "the installer" staffing lies above the reviewing
   team's authority is not stated: it may be a peer team's.
-- **THEORY-2000** (meets its promote_when). Its `promote_when` asks for a
+- **[THEORY-2000](../theory.d/THEORY-2000.md)** (meets its promote_when). Its `promote_when` asks for a
   reading of the chapter or of "Google's later SRE workbook on the same
   practice" confirming that a blameless postmortem identifies
   contributing causes and follow-up actions without indicting any
@@ -165,12 +165,12 @@ Quotations from the web edition (no page numbers; section names given).
   or team is blamed", and individuals named "may be motivated to cover up
   facts critical to understanding and preventing recurrence". The reading
   is by other authors (one, Lueder, in common), of another book. Promotion
-  is left to the owner (dated note on THEORY-2000).
-- **CLAIM-742** (corroborates, as THEORY-2000 does; written on the
+  is left to the owner (dated note on [THEORY-2000](../theory.d/THEORY-2000.md)).
+- **[CLAIM-742](../claims.d/CLAIM-742.md)** (corroborates, as [THEORY-2000](../theory.d/THEORY-2000.md) does; written on the
   THEORY). "Declaring official ownership results in accountability, which
   leads to action" separates accountability from blame in the practice's
   own words.
-- **CLAIM-905 and CASE-335** (parallel). The pilot's finding, that public
+- **[CLAIM-905](../claims.d/CLAIM-905.md) and [CASE-335](../cases.d/CASE-335.md)** (parallel). The pilot's finding, that public
   postmortems' traces stop at the engineering group, matches the good
   postmortem here, which is not in the pilot's corpus.
 

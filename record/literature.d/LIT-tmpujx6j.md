@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 (NOTE-tmpf58r7) in full from Google's own open edition of
+  read 2026-11-22 ([NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md)) in full from Google's own open edition of
   the book at sre.google, licensed CC BY-NC-ND 4.0; worth reading here as
   Google's later, practical statement of blameless postmortem culture,
   with a real postmortem shown whole and a section on how leaders and
   incentives keep the culture up, which bears on whether a blameless trace
-  reaches decisions above the reviewing team (QUESTION-476, CLAIM-750).
+  reaches decisions above the reviewing team ([QUESTION-476](../questions.d/QUESTION-476.md), [CLAIM-750](../claims.d/CLAIM-750.md)).
 title: 'Postmortem Culture: Learning from Failure (workbook)'
 version: 1
 history:
@@ -44,7 +44,7 @@ implementations: []
 summary: >-
   Daniel Rogers, Murali Suriar, Sue Lueder, Pranjal Deo and Divya Sudhakar
   (2018), "Postmortem Culture: Learning from Failure", chapter 10 of The
-  Site Reliability Workbook, read in NOTE-tmpf58r7. It sets a "bad"
+  Site Reliability Workbook, read in [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md). It sets a "bad"
   postmortem of a real Google outage beside the "good" one actually
   written, and says how leaders keep the culture blameless. Blamelessness
   means the root cause "Focuses on "what" went wrong, not "who" caused the
@@ -54,7 +54,7 @@ summary: >-
   fourteen action items addresses it; a question put to a manager about
   training is rewritten as a process suggestion; a vice-president's
   blameful question is redirected to a generic one. It bears on
-  QUESTION-476 and CLAIM-750 (THEORY-tmpm653d, CASE-tmptkkgm).
+  [QUESTION-476](../questions.d/QUESTION-476.md) and [CLAIM-750](../claims.d/CLAIM-750.md) ([THEORY-tmpm653d](../theory.d/THEORY-tmpm653d.md), [CASE-tmptkkgm](../cases.d/CASE-tmptkkgm.md)).
 ---
 <!-- inactive-ok-file: THEORY-tmpm653d CASE-tmptkkgm — new; the theory and the specimen filed from the reading -->
 <!-- inactive-ok-file: CLAIM-750 — Proposed; the claim the reading bears on -->
@@ -65,7 +65,7 @@ Daniel Rogers, Murali Suriar, Sue Lueder, Pranjal Deo and Divya Sudhakar, with G
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpf58r7).*
+*From the reading ([NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md)).*
 
 - A real Google postmortem (satellite machines sent to diskerase, 2014)
   shown twice: a "bad" version that blames named engineers, and the
@@ -81,6 +81,6 @@ Daniel Rogers, Murali Suriar, Sue Lueder, Pranjal Deo and Divya Sudhakar, with G
 
 ## Standing in the record
 
-Registered for LEAD-189, which named "Google's SRE workbook chapter on
+Registered for [LEAD-189](../leads.d/LEAD-189.md), which named "Google's SRE workbook chapter on
 postmortems". It shows one real blameless postmortem whole, which the
-SRE book's chapter (LIT-2784) does not.
+SRE book's chapter ([LIT-2784](LIT-2784.md)) does not.

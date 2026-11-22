@@ -51,11 +51,11 @@ None beyond the charge.
 
 ## Bearing on the record
 
-- **CLAIM-751** (bears on). The charge came ten months after the NTSB
+- **[CLAIM-751](../claims.d/CLAIM-751.md)** (bears on). The charge came ten months after the NTSB
   adopted its report (19 November 2019), which had named the company's
   safety culture as contributing. The no-blame finding upstream did not
   keep the criminal process from settling on the operator; the statute
-  (THEORY-1999) bars the report only from civil damages suits.
+  ([THEORY-1999](../theory.d/THEORY-1999.md)) bars the report only from civil damages suits.
 
 ## Limitations
 

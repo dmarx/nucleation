@@ -19,15 +19,15 @@ objects_to:
 grounds:
 - THEORY-tmpm653d
 summary: >-
-  The assistant's (Claude, in this session), filed for LEAD-189 on
-  2026-11-22 as an objection to CLAIM-750, from the reading of Google's
-  SRE workbook chapter on postmortem culture (THEORY-tmpm653d). The
+  The assistant's (Claude, in this session), filed for [LEAD-189](../leads.d/LEAD-189.md) on
+  2026-11-22 as an objection to [CLAIM-750](CLAIM-750.md), from the reading of Google's
+  SRE workbook chapter on postmortem culture ([THEORY-tmpm653d](../theory.d/THEORY-tmpm653d.md)). The
   workbook keeps the single postmortem at the level of systems and the
   teams' action items, and puts questions about priorities set above the
   team ("Is feature velocity trumping reliability fixes?") in reviews
   across incidents and of the process. If upstream provenance is kept
-  there, a coding of postmortems one at a time, as CASE-293 proposes and
-  CASE-335 did, would find the trace stopping at the team when the
+  there, a coding of postmortems one at a time, as [CASE-293](../cases.d/CASE-293.md) proposes and
+  [CASE-335](../cases.d/CASE-335.md) did, would find the trace stopping at the team when the
   practice as a whole does not. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
@@ -38,12 +38,12 @@ summary: >-
 
 ## The objection
 
-CLAIM-750 predicts that in postmortems commissioned inside the
+[CLAIM-750](CLAIM-750.md) predicts that in postmortems commissioned inside the
 organization, contributing causes and action items stop at or below the
-commissioning body's authority. Its proposed study (CASE-293) and the
-pilot (CASE-335, CLAIM-905) code postmortems one by one.
+commissioning body's authority. Its proposed study ([CASE-293](../cases.d/CASE-293.md)) and the
+pilot ([CASE-335](../cases.d/CASE-335.md), [CLAIM-905](CLAIM-905.md)) code postmortems one by one.
 
-Google's workbook (THEORY-tmpm653d, NOTE-tmpf58r7) describes a practice
+Google's workbook ([THEORY-tmpm653d](../theory.d/THEORY-tmpm653d.md), [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md)) describes a practice
 in which the single postmortem is not where upstream questions are meant
 to be asked:
 
@@ -64,12 +64,12 @@ to be asked:
 If those channels reach the decisions that set staffing, priorities and
 deadlines, the practice keeps upstream provenance across incidents while
 each postmortem stops at the team. Then a per-postmortem coding would
-confirm CLAIM-750's prediction about documents and miss the practice.
+confirm [CLAIM-750](CLAIM-750.md)'s prediction about documents and miss the practice.
 
 ## What it concedes
 
 - That the single postmortem stops at the team: the workbook's own good
-  postmortem does (CASE-tmptkkgm), and the pilot found the same.
+  postmortem does ([CASE-tmptkkgm](../cases.d/CASE-tmptkkgm.md)), and the pilot found the same.
 - That the workbook gives no evidence that these channels reach above the
   teams. It describes them; it does not say what they found.
 
@@ -77,15 +77,15 @@ confirm CLAIM-750's prediction about documents and miss the practice.
 
 Evidence of what cross-incident reviews produce: whether reviews of
 repeated incidents, or the process review, issue findings or actions
-addressed to the decisions above the teams. If they do, CLAIM-750's
-conditional answer to QUESTION-476 needs restating for the practice
+addressed to the decisions above the teams. If they do, [CLAIM-750](CLAIM-750.md)'s
+conditional answer to [QUESTION-476](../questions.d/QUESTION-476.md) needs restating for the practice
 rather than the document. If they do not, or are not recorded, the
-objection fails and CLAIM-750's unit stands.
+objection fails and [CLAIM-750](CLAIM-750.md)'s unit stands.
 
 ## Where it sits
 
-- An objection to CLAIM-750's operationalization, not to its mechanism,
+- An objection to [CLAIM-750](CLAIM-750.md)'s operationalization, not to its mechanism,
   which the same reading corroborates.
-- It applies to CLAIM-905 and CASE-335 as well, which code single
+- It applies to [CLAIM-905](CLAIM-905.md) and [CASE-335](../cases.d/CASE-335.md) as well, which code single
   postmortems; it does not touch their CSB arm, whose reports are each a
   whole investigation.

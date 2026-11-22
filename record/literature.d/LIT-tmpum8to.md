@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 (NOTE-tmpeb1f9) in full from NPR's site, where it is
+  read 2026-11-22 ([NOTE-tmpeb1f9](../notes.d/NOTE-tmpeb1f9.md)) in full from NPR's site, where it is
   published under the byline "The Associated Press"; worth reading here as
   a reputable report of how the criminal case on the Tempe crash ended:
   the operator alone convicted, the company not charged. It is a news
@@ -39,7 +39,7 @@ keywords:
 - 'negligent homicide'
 implementations: []
 summary: >-
-  The Associated Press (2023), published by NPR, read in NOTE-tmpeb1f9.
+  The Associated Press (2023), published by NPR, read in [NOTE-tmpeb1f9](../notes.d/NOTE-tmpeb1f9.md).
   On 28 July 2023 Rafaela Vasquez, the operator of the Uber test vehicle
   in the Tempe crash, "pleaded guilty Friday to endangerment" and was
   sentenced to "three years of supervised probation"; she "had been
@@ -47,8 +47,8 @@ summary: >-
   undesignated felony". "Prosecutors previously declined to file criminal
   charges against Uber, as a corporation." The defence argued that "Uber
   should share some blame". So the criminal process on the failure the
-  NTSB traced upstream (CASE-292) ended at the operator. It bears on
-  QUESTION-476 and CLAIM-751 (THEORY-tmpfdyu6).
+  NTSB traced upstream ([CASE-292](../cases.d/CASE-292.md)) ended at the operator. It bears on
+  [QUESTION-476](../questions.d/QUESTION-476.md) and [CLAIM-751](../claims.d/CLAIM-751.md) ([THEORY-tmpfdyu6](../theory.d/THEORY-tmpfdyu6.md)).
 ---
 <!-- inactive-ok-file: THEORY-tmpfdyu6 — new; the theory filed from the reading -->
 <!-- inactive-ok-file: CASE-292 CLAIM-751 — Proposed; the case and the claim the reading bears on -->
@@ -59,7 +59,7 @@ The Associated Press (2023, 28 July). "Backup driver of an autonomous Uber plead
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpeb1f9).*
+*From the reading ([NOTE-tmpeb1f9](../notes.d/NOTE-tmpeb1f9.md)).*
 
 - The operator, charged with negligent homicide, pleaded guilty to
   endangerment, an undesignated felony, and was sentenced to three years
@@ -72,7 +72,7 @@ The Associated Press (2023, 28 July). "Backup driver of an autonomous Uber plead
 
 ## Standing in the record
 
-Registered for LEAD-189. It is the record's source for the outcome of the
-prosecution, which the NTSB report (LIT-2664) does not cover. Two earlier
-NPR reports, of the decision not to charge Uber (LIT-tmp4sapc) and of the
-charge against the operator (LIT-tmpca1pz), were read beside it.
+Registered for [LEAD-189](../leads.d/LEAD-189.md). It is the record's source for the outcome of the
+prosecution, which the NTSB report ([LIT-2664](LIT-2664.md)) does not cover. Two earlier
+NPR reports, of the decision not to charge Uber ([LIT-tmp4sapc](LIT-tmp4sapc.md)) and of the
+charge against the operator ([LIT-tmpca1pz](LIT-tmpca1pz.md)), were read beside it.

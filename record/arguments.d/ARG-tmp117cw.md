@@ -15,9 +15,9 @@ date: '2026-11-22'
 line:
 - rightful-power
 summary: >-
-  The support CASE-tmptkkgm gives CLAIM-750, filed for LEAD-189 on
+  The support [CASE-tmptkkgm](../cases.d/CASE-tmptkkgm.md) gives [CLAIM-750](../claims.d/CLAIM-750.md), filed for [LEAD-189](../leads.d/LEAD-189.md) on
   2026-11-22. Contested: the filing doubts it, in an alternative reading
-  in the case and in the objection CLAIM-tmpauu5r. The inference is
+  in the case and in the objection [CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md). The inference is
   weak evidence for the prediction, from one exemplar; both critical
   questions are answered with qualifications. Proposed. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
@@ -29,11 +29,11 @@ summary: >-
 
 ## The inference
 
-1. CLAIM-750 predicts that in postmortems commissioned inside the
+1. [CLAIM-750](../claims.d/CLAIM-750.md) predicts that in postmortems commissioned inside the
    organization, action items "cluster at or below the reviewing team's
    authority", and that the contributing causes rarely exceed the
    commissioning body's.
-2. The workbook's good postmortem (CASE-tmptkkgm) names, among what went
+2. The workbook's good postmortem ([CASE-tmptkkgm](../cases.d/CASE-tmptkkgm.md)) names, among what went
    poorly, ""The installer" has limited staffing". Its fourteen action
    items are all technical, each owned by an engineer, and none addresses
    staffing.
@@ -56,12 +56,12 @@ about lateral reach, not upward, and does not bear on the claim.
 Weakly. The claim predicts a tendency across reviews; one document can
 fit or fail to fit it, not establish it. What makes this one worth
 recording is that it is the exemplar the practice chose: a pattern in the
-model of good practice is not a lapse. CLAIM-tmpauu5r adds a further
+model of good practice is not a lapse. [CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md) adds a further
 doubt, that the practice puts upstream questions in reviews across
 incidents, so the document may be the wrong unit.
 
 ## Verdict
 
 Proposed. It fits the prediction, as one more instance beside the pilot
-(CASE-335), and is not independent of the claim's framing: the filer
+([CASE-335](../cases.d/CASE-335.md)), and is not independent of the claim's framing: the filer
 read the exemplar knowing the prediction.

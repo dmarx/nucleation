@@ -64,11 +64,11 @@ quoted, and what remained open after it.
 
 ## Bearing on the record
 
-- **CLAIM-751** (bears on). With LIT-tmpum8to, it shows that the criminal
+- **[CLAIM-751](../claims.d/CLAIM-751.md)** (bears on). With [LIT-tmpum8to](../literature.d/LIT-tmpum8to.md), it shows that the criminal
   process declined to reach the company. The later reports read mention
   no charge against anyone but the operator; whether managers were ever
   considered is not reported.
-- **CLAIM-tmp64hmn** (supplies the objection). The settlement with the
+- **[CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md)** (supplies the objection). The settlement with the
   family is a liability process that did reach the company, outside the
   criminal law. Its terms are not reported.
 

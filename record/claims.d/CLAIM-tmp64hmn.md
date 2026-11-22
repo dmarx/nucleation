@@ -18,14 +18,14 @@ objects_to:
 grounds:
 - THEORY-tmpfdyu6
 summary: >-
-  The assistant's (Claude, in this session), filed for LEAD-189 on
-  2026-11-22 as the objection to CLAIM-tmp20uni. The criminal process is
+  The assistant's (Claude, in this session), filed for [LEAD-189](../leads.d/LEAD-189.md) on
+  2026-11-22 as the objection to [CLAIM-tmp20uni](CLAIM-tmp20uni.md). The criminal process is
   one of several that assign blame or liability, and the one least suited
   to reaching an organization's decisions; on the same failure, the civil
   side settled with the company and the governor suspended its testing.
   So the Tempe outcome shows where criminal law stopped, not where blame
-  as such stops, and it carries less for CLAIM-751's contrast than
-  CLAIM-tmp20uni's title suggests. The wording is the assistant's (Claude,
+  as such stops, and it carries less for [CLAIM-751](CLAIM-751.md)'s contrast than
+  [CLAIM-tmp20uni](CLAIM-tmp20uni.md)'s title suggests. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp20uni — new; the claim objected to -->
@@ -35,7 +35,7 @@ summary: >-
 
 ## The objection
 
-CLAIM-tmp20uni sets "the criminal process, the process built to assign
+[CLAIM-tmp20uni](CLAIM-tmp20uni.md) sets "the criminal process, the process built to assign
 blame" against the NTSB. Two things weaken the step from that contrast to
 one between blame and its absence.
 
@@ -44,13 +44,13 @@ one between blame and its absence.
    perceive a risk; a corporation's criminal liability needs, in some
    form, conduct attributable to it under rules that differ by
    jurisdiction. The declination said only "no basis for criminal
-   liability for the Uber corporation" (LIT-tmp4sapc). If the obstacle was
+   liability for the Uber corporation" ([LIT-tmp4sapc](../literature.d/LIT-tmp4sapc.md)). If the obstacle was
    legal attribution, the outcome reflects how criminal law assigns
    blame to organizations, not that blame stops at the sharp end.
 2. **Blame and liability reached the company by other routes.** "Herzberg's
    family reached a settlement with the company shortly after the crash"
-   (LIT-tmp4sapc), and "then-Gov. Doug Ducey prohibited the company from
-   continuing its tests of self-driving cars" (LIT-tmpum8to). A
+   ([LIT-tmp4sapc](../literature.d/LIT-tmp4sapc.md)), and "then-Gov. Doug Ducey prohibited the company from
+   continuing its tests of self-driving cars" ([LIT-tmpum8to](../literature.d/LIT-tmpum8to.md)). A
    settlement and a suspension are not findings of fault, but they are
    consequences laid on the company for the failure, by processes that
    do not forbid blame.
@@ -69,14 +69,14 @@ the failure, stopped there.
 - That neither the settlement nor the suspension traced cause upstream in
   the way the NTSB did. They laid consequences on the company without an
   account of which of its decisions failed, as far as the reports read
-  say. That leaves CLAIM-751's point standing: provenance, as opposed to
+  say. That leaves [CLAIM-751](CLAIM-751.md)'s point standing: provenance, as opposed to
   consequence, was carried by the no-blame investigation.
 
 ## Where it sits
 
-- It narrows CLAIM-tmp20uni's reach, not its facts: the alternative
+- It narrows [CLAIM-tmp20uni](CLAIM-tmp20uni.md)'s reach, not its facts: the alternative
   reading of the Tempe outcome. The lean of the filer is that
-  CLAIM-tmp20uni holds as scoped (the criminal process) and that this
+  [CLAIM-tmp20uni](CLAIM-tmp20uni.md) holds as scoped (the criminal process) and that this
   objection is right that it does not generalize to blame as such.
-- It bears on CLAIM-733 through CLAIM-tmp20uni: whether blame carried
+- It bears on [CLAIM-733](CLAIM-733.md) through [CLAIM-tmp20uni](CLAIM-tmp20uni.md): whether blame carried
   provenance upstream here depends on which process counts as blame.

@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 (NOTE-tmphxo80) in full from NPR's site; read beside
-  LIT-tmpum8to as a supplement (ADR-114), for the prosecutor's own words
+  read 2026-11-22 ([NOTE-tmphxo80](../notes.d/NOTE-tmphxo80.md)) in full from NPR's site; read beside
+  [LIT-tmpum8to](LIT-tmpum8to.md) as a supplement ([ADR-114](../decisions.d/ADR-114.md)), for the prosecutor's own words
   in declining to charge Uber, which the record quotes. A news report
   quoting the Yavapai County Attorney's letter; the letter itself was not
   read.
@@ -36,7 +36,7 @@ keywords:
 - 'Yavapai County Attorney'
 implementations: []
 summary: >-
-  Laurel Wamsley (2019), NPR, read in NOTE-tmphxo80. The Yavapai County
+  Laurel Wamsley (2019), NPR, read in [NOTE-tmphxo80](../notes.d/NOTE-tmphxo80.md). The Yavapai County
   Attorney's Office, which took the case from Maricopa County "due to a
   potential conflict of interest", wrote that "there is no basis for
   criminal liability for the Uber corporation arising from this matter",
@@ -45,7 +45,7 @@ summary: >-
   government "could also potentially pursue criminal charges against
   managers or employees of Uber", and that Herzberg's family "reached a
   settlement with the company shortly after the crash". It bears on
-  QUESTION-476 and CLAIM-751, and on the objection CLAIM-tmp64hmn.
+  [QUESTION-476](../questions.d/QUESTION-476.md) and [CLAIM-751](../claims.d/CLAIM-751.md), and on the objection [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp64hmn — new; the objection the reading supplies -->
 <!-- inactive-ok-file: CLAIM-751 — Proposed; the claim the reading bears on -->
@@ -56,7 +56,7 @@ Laurel Wamsley (2019, 6 March). "Uber Not Criminally Liable In Death Of Woman Hi
 
 ## Key takeaways
 
-*From the reading (NOTE-tmphxo80).*
+*From the reading ([NOTE-tmphxo80](../notes.d/NOTE-tmphxo80.md)).*
 
 - The prosecutor found "no basis for criminal liability for the Uber
   corporation".
@@ -65,5 +65,5 @@ Laurel Wamsley (2019, 6 March). "Uber Not Criminally Liable In Death Of Woman Hi
 
 ## Standing in the record
 
-A supplement to LIT-tmpum8to (ADR-114), filed because the record quotes
+A supplement to [LIT-tmpum8to](LIT-tmpum8to.md) ([ADR-114](../decisions.d/ADR-114.md)), filed because the record quotes
 the declination from it.

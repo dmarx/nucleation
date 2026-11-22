@@ -25,15 +25,15 @@ corroborates:
 - CLAIM-742
 - CLAIM-750
 summary: >-
-  Rogers, Suriar, Lueder, Deo and Sudhakar (2018), LIT-tmpujx6j, read in
-  NOTE-tmpf58r7. Google's practical account of postmortem culture, with a
-  real postmortem shown whole. It bears on QUESTION-476 on both halves. It
-  corroborates CLAIM-742, since "Declaring official ownership results in
+  Rogers, Suriar, Lueder, Deo and Sudhakar (2018), [LIT-tmpujx6j](../literature.d/LIT-tmpujx6j.md), read in
+  [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md). Google's practical account of postmortem culture, with a
+  real postmortem shown whole. It bears on [QUESTION-476](../questions.d/QUESTION-476.md) on both halves. It
+  corroborates [CLAIM-742](../claims.d/CLAIM-742.md), since "Declaring official ownership results in
   accountability, which leads to action" separates accountability from
   blame in the practice's own words. It corroborates the mechanism of
-  CLAIM-750, not its prediction: the norm that forbids indicting a team
+  [CLAIM-750](../claims.d/CLAIM-750.md), not its prediction: the norm that forbids indicting a team
   also recasts a question to a manager as a question about process. It
-  also supplies an objection to how CLAIM-750 is tested (CLAIM-tmpauu5r).
+  also supplies an objection to how [CLAIM-750](../claims.d/CLAIM-750.md) is tested ([CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md)).
   The wording is the filer's (Claude, in this session); adopting it is the
   owner's call.
 ---
@@ -42,8 +42,8 @@ summary: >-
 
 # THEORY-tmpm653d: Rogers, Suriar, Lueder, Deo and Sudhakar present Google's blameless postmortem as aimed at what failed and not who, with action items that improve systems rather than people, kept blameless by leaders who recast blameful questions, to managers and from executives, as questions about process, while questions about priorities set above the team are left to reviews of repeated incidents
 
-Rogers, Suriar, Lueder, Deo and Sudhakar (2018), LIT-tmpujx6j, read in
-NOTE-tmpf58r7.
+Rogers, Suriar, Lueder, Deo and Sudhakar (2018), [LIT-tmpujx6j](../literature.d/LIT-tmpujx6j.md), read in
+[NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md).
 
 ## The account
 
@@ -67,17 +67,17 @@ reviews the postmortem process as a whole.
 
 ## Bearing
 
-- **CLAIM-742**: corroborates. Ownership is named as the source of
+- **[CLAIM-742](../claims.d/CLAIM-742.md)**: corroborates. Ownership is named as the source of
   accountability, apart from blame.
-- **CLAIM-750**: corroborates the mechanism only. The norm against
+- **[CLAIM-750](../claims.d/CLAIM-750.md)**: corroborates the mechanism only. The norm against
   indicting a team works on questions to managers as on questions to
   engineers, recasting them as process. The prediction, about where
   action items stop across many reviews, it does not test; its one real
-  postmortem is filed as CASE-tmptkkgm.
-- **QUESTION-476**: bears on. The first half is answered by design; on the
+  postmortem is filed as [CASE-tmptkkgm](../cases.d/CASE-tmptkkgm.md).
+- **[QUESTION-476](../questions.d/QUESTION-476.md)**: bears on. The first half is answered by design; on the
   second, the chapter keeps upstream questions out of the single
   postmortem and puts them, if anywhere, in reviews across incidents.
-- **THEORY-2000**: same practice, same organization; this reading meets
+- **[THEORY-2000](THEORY-2000.md)**: same practice, same organization; this reading meets
   that theory's `promote_when` (dated note there).
 
 ## What it does not show

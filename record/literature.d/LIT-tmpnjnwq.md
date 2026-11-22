@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 (NOTE-tmpdiani) in full from Google's own open edition of
+  read 2026-11-22 ([NOTE-tmpdiani](../notes.d/NOTE-tmpdiani.md)) in full from Google's own open edition of
   the book at sre.google, licensed CC BY-NC-ND 4.0; worth reading here as
   the worked example of a blameless postmortem that the SRE book's
-  postmortem chapter (LIT-2784) points to, which shows what such a
+  postmortem chapter ([LIT-2784](LIT-2784.md)) points to, which shows what such a
   document names as causes and to whom it assigns its action items. It is
   an illustrative, fictional incident, not a report of a real one.
 title: 'Example Postmortem'
@@ -40,13 +40,13 @@ keywords:
 implementations: []
 summary: >-
   Appendix D of Google's Site Reliability Engineering (2016), "Example
-  Postmortem", read in NOTE-tmpdiani: a template postmortem for a fictional
+  Postmortem", read in [NOTE-tmpdiani](../notes.d/NOTE-tmpdiani.md): a template postmortem for a fictional
   66-minute outage of "Shakespeare Search". Its root causes are a resource
   leak and exceptional load; every action item is technical or procedural
   and owned by a named engineer of the responding teams; the one item that
   touches policy applies the error-budget freeze already in force. It
   names no decision above the teams and no person as at fault. It bears on
-  QUESTION-476 (THEORY-tmp9j928), and only weakly on CLAIM-750: a
+  [QUESTION-476](../questions.d/QUESTION-476.md) ([THEORY-tmp9j928](../theory.d/THEORY-tmp9j928.md)), and only weakly on [CLAIM-750](../claims.d/CLAIM-750.md): a
   fictional incident caused by a bug and a surge has no upstream decision
   for a trace to miss.
 ---
@@ -59,7 +59,7 @@ B. Beyer, C. Jones, J. Petoff and N. R. Murphy (eds.) (2016). "Appendix D. Examp
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpdiani).*
+*From the reading ([NOTE-tmpdiani](../notes.d/NOTE-tmpdiani.md)).*
 
 - A complete blameless postmortem in Google's template: summary, impact,
   root causes, trigger, resolution, detection, action items (each with a
@@ -74,6 +74,6 @@ B. Beyer, C. Jones, J. Petoff and N. R. Murphy (eds.) (2016). "Appendix D. Examp
 
 ## Standing in the record
 
-Registered for LEAD-189 as the worked example the SRE chapter
-(LIT-2784) points to. It is fictional and written to teach the template,
+Registered for [LEAD-189](../leads.d/LEAD-189.md) as the worked example the SRE chapter
+([LIT-2784](LIT-2784.md)) points to. It is fictional and written to teach the template,
 so it shows the practice's design, not what real postmortems find.

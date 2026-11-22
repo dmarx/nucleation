@@ -30,7 +30,7 @@ summary: >-
 
 ## Contribution
 
-How the criminal process on the Tempe crash (CASE-292) ended, which the
+How the criminal process on the Tempe crash ([CASE-292](../cases.d/CASE-292.md)) ended, which the
 NTSB report does not cover and the record had not read: who was charged,
 with what, how it was resolved, and who was not charged.
 
@@ -75,27 +75,27 @@ Quotations from the web edition (no page numbers).
 
 ## Bearing on the record
 
-- **CASE-292** (fills what it says it cannot show). The case says that
+- **[CASE-292](../cases.d/CASE-292.md)** (fills what it says it cannot show). The case says that
   "Whether she became a moral crumple zone is a question about
   prosecution and the press". On prosecution, it is answered: of the
   parties the NTSB named, only the operator was criminally charged and
   convicted, and the company was not charged. The press is still unread.
-- **CLAIM-751** (corroborates its contrast; written on THEORY-tmpfdyu6).
+- **[CLAIM-751](../claims.d/CLAIM-751.md)** (corroborates its contrast; written on [THEORY-tmpfdyu6](../theory.d/THEORY-tmpfdyu6.md)).
   The claim's existence statement rests on the NTSB report and does not
   need this. But its title sets blame against "an investigator barred from
   assigning blame", and its defeater asks whether blame-based processes on
   the same failures reach upstream actors the no-blame investigation does
   not. On this failure the criminal process, the most blame-laden process
   there is, stopped at the operator, while the NTSB reached the company
-  and the state. CLAIM-tmp20uni files the contrast.
-- **CLAIM-707** (bears on; no relation written, since the claim is about
+  and the state. [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md) files the contrast.
+- **[CLAIM-707](../claims.d/CLAIM-707.md)** (bears on; no relation written, since the claim is about
   where blame lands and this is one instance of it). The moral crumple
   zone: blame landing on the person nearest the failure. In criminal law,
   it landed there.
-- **QUESTION-476** (bears on, through CLAIM-751). Not a blameless practice;
+- **[QUESTION-476](../questions.d/QUESTION-476.md)** (bears on, through [CLAIM-751](../claims.d/CLAIM-751.md)). Not a blameless practice;
   it is the blame-based process the question's blameless practice is set
   against.
-- **THEORY-1932** (parallel). The NTSB's division of cause, as the report
+- **[THEORY-1932](../theory.d/THEORY-1932.md)** (parallel). The NTSB's division of cause, as the report
   restates it, matches the reading of the report.
 
 ## Limitations
@@ -103,4 +103,4 @@ Quotations from the web edition (no page numbers).
 - A news report, not the court's record: it does not say why prosecutors
   declined to charge Uber, nor why the charge was reduced.
 - It does not report the civil side, except what other reports say
-  (LIT-tmp4sapc: a settlement with the family shortly after the crash).
+  ([LIT-tmp4sapc](../literature.d/LIT-tmp4sapc.md): a settlement with the family shortly after the crash).
