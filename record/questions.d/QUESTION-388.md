@@ -184,8 +184,8 @@ The question is unchanged.
 ## Note of 2026-11-22: a governing rule's change altering later behaviour, in simulation
 
 The test of A50 §12 noted above, "a governing rule's change must alter
-behaviour under controlled later tasks", was met in LEAD-140's simulation
-of CASE-255 (CASE-tmp6btcq; CLAIM-tmp7ggg0). The collective's revised
+behaviour under controlled later tasks", was met in [LEAD-140](../leads.d/LEAD-140.md)'s simulation
+of [CASE-255](../cases.d/CASE-255.md) ([CASE-tmp6btcq](../cases.d/CASE-tmp6btcq.md); [CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md)). The collective's revised
 improvement procedure, applied from a fixed start to held-out tasks, did
 better than the procedure it replaced. But the criterion each revision
 answered to, and the outside veto that kept verification, were fixed by

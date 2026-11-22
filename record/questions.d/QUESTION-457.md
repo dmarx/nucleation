@@ -148,10 +148,10 @@ recursive training loses rare cases, which keeping sources limits; Xue et
 al.'s PAST-Bench ([THEORY-1802](../theory.d/THEORY-1802.md)) is a precursor for inheritance, not
 evidence on improvers. The question is unchanged.
 
-## Note of 2026-11-22: CASE-255 run in reduced form
+## Note of 2026-11-22: [CASE-255](../cases.d/CASE-255.md) run in reduced form
 
-LEAD-140 ran CASE-255 as a simulation (CASE-tmp6btcq;
-CLAIM-tmp7ggg0). A hill-climbing improver tuned CASE-tmpl0ccq's organization,
+[LEAD-140](../leads.d/LEAD-140.md) ran [CASE-255](../cases.d/CASE-255.md) as a simulation ([CASE-tmp6btcq](../cases.d/CASE-tmp6btcq.md);
+[CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md)). A hill-climbing improver tuned [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md)'s organization,
 and in four arms the collective also changed the improver; 12 lineages
 per arm. Against the question's three outcomes, in that construction:
 

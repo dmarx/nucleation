@@ -30,8 +30,8 @@ draws_on:
 - THEORY-1799
 - THEORY-1754
 summary: >-
-  LEAD-140 asked for CASE-255 to be run. A reduced version was
-  simulated on CASE-tmpl0ccq's organization (scratch/studies/lead-140/). The
+  [LEAD-140](../leads.d/LEAD-140.md) asked for [CASE-255](CASE-255.md) to be run. A reduced version was
+  simulated on [CASE-tmpl0ccq](CASE-tmpl0ccq.md)'s organization (scratch/studies/lead-140/). The
   organization's procedures are the artifact; a hill-climbing improver
   with settings and a record of past moves changes them; in four arms the
   collective also changes the improver, judging each change by the public
@@ -53,23 +53,23 @@ summary: >-
   Much follows from the stated rules. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-255 CASE-tmpl0ccq CLAIM-tmpqaqtx CLAIM-tmp7ggg0 — Proposed or new; the design run here, the run it builds on, that run's claim, and the claim filed from this run -->
+<!-- inactive-ok-file: CASE-255 CASE-tmpl0ccq CLAIM-tmp7ggg0 — Proposed or new; the design run here, the run it builds on, that run's claim, and the claim filed from this run -->
 <!-- inactive-ok-file: THEORY-1784 THEORY-1799 THEORY-1754 — filed from the exchange "luria experiment design", Proposed; used for the design and the baseline -->
 
 # CASE-tmp6btcq: A simulation of a collective that improves its own improver over generations: from the same fresh state at the same budget the later improver does better in every arm that may change it, through its settings and not through a record its predecessor cannot read; judged by the public metric, by its own suite or by an outside test of products, some lineages shed the checks that find damage, and with the suite's self-test removed an improver that reads its record of past moves kept verification where one that does not dropped it in 10 of 12 lineages
 
 ## What was done
 
-LEAD-140 asks for CASE-255 to be run: a collective improves its
+[LEAD-140](../leads.d/LEAD-140.md) asks for [CASE-255](CASE-255.md) to be run: a collective improves its
 procedures over generations; an earlier and a later improver are each
 applied to the same fresh state at the same budget; then the collective's
-diagnostic machinery is damaged. This run builds on CASE-tmpl0ccq, whose
+diagnostic machinery is damaged. This run builds on [CASE-tmpl0ccq](CASE-tmpl0ccq.md), whose
 model (`scratch/studies/lead-048/model.py`) it imports and subclasses.
 The construction is in `scratch/studies/lead-140/rsi.py`, documented in
 its docstring. `README.md` there says how to rerun it, `results/tables.md`
 holds every table, and `results/*.jsonl` one line per item.
 
-**The artifact** is the organization of CASE-tmpl0ccq, with reciprocal
+**The artifact** is the organization of [CASE-tmpl0ccq](CASE-tmpl0ccq.md), with reciprocal
 maintenance, protected admission and independent scoring, on a schedule
 shortened to 350 steps: + until 50, − from 50, an injury at 150, a second
 change at 200. Its procedures are five settings, each on a short grid:
@@ -79,9 +79,9 @@ change at 200. Its procedures are five settings, each on a short grid:
 - the repair time;
 - the rate at which the teacher corrects the student.
 
-The starting artifact, θ₀, has CASE-tmpl0ccq's values. An episode's
+The starting artifact, θ₀, has [CASE-tmpl0ccq](CASE-tmpl0ccq.md)'s values. An episode's
 score is throughput, −(wrong actions + 0.2 × fuel) per step, less 0.3
-when the findings are wrong (S1 and S2 of CASE-tmpl0ccq). Without that
+when the findings are wrong (S1 and S2 of [CASE-tmpl0ccq](CASE-tmpl0ccq.md)). Without that
 term a missed out-of-family change would cost nothing, since regime 0
 prefers no action.
 
@@ -103,7 +103,7 @@ that reads it proposes moves by their past effects.
 **The arms**, 12 lineages of 60 generations each:
 - *none*: the starting settings, record not read;
 - *archive*: fixed settings that read the growing record, the
-  THEORY-1799 baseline in which the improver does not improve;
+  [THEORY-1799](../theory.d/THEORY-1799.md) baseline in which the improver does not improve;
 - four *adaptive* arms. Every four generations the collective proposes a
   one-step change to the improver's settings, runs two generations under
   the old and the new settings on the same seeds, and keeps the better.
@@ -144,7 +144,7 @@ recognizing 24/24.
   improver.
 
 Every application uses the same seeds and two replicates. This is
-CASE-255's 2×2 of artifact × improver, with its inheritance arms
+[CASE-255](CASE-255.md)'s 2×2 of artifact × improver, with its inheritance arms
 mapped onto the improver.
 
 **The damage.** Each lineage's late improver was applied to its evolved
@@ -203,7 +203,7 @@ mean difference, lineages better/worse, Wilcoxon p):
 | external | +0.012; 7/1; 0.02 | 0 | +0.015; 7/1; 0.02 | +0.002; 4/4; 0.55 |
 | layered | +0.017; 9/2; 0.007 | 0 | +0.013; 8/3; 0.02 | −0.000; 4/6; 1.0 |
 
-- **An improved improver, in THEORY-1784's sense.** In every adaptive arm
+- **An improved improver, in [THEORY-1784](../theory.d/THEORY-1784.md)'s sense.** In every adaptive arm
   the later improver made more of the same start at the same budget than
   the earlier one. Where it gained, it had more candidates per generation
   (+0.020 a lineage with two candidates, +0.03 with three or five, against
@@ -217,7 +217,7 @@ mean difference, lineages better/worse, Wilcoxon p):
   the gain is all knowledge. A record improves a successor only through a
   procedure that consults it.
 - **From the evolved artifact** the later improver gained nothing over the
-  earlier: the improvement had plateaued, as THEORY-1754's ignition test
+  earlier: the improvement had plateaued, as [THEORY-1754](../theory.d/THEORY-1754.md)'s ignition test
   found a tie.
 - The improved artifact under the early improver beat θ₀ under it
   (+0.012 to +0.033, 10–12 of 12 lineages better) in every arm but
@@ -260,7 +260,7 @@ lineages; lineages whose artifact ended without self-check):
 
 ## What it shows, and what it does not
 
-QUESTION-457's three outcomes, taken in turn for this construction:
+[QUESTION-457](../questions.d/QUESTION-457.md)'s three outcomes, taken in turn for this construction:
 
 - **"Yes"**: a later improver better from the same start, the gain
   surviving a fresh successor that inherits the record, and the collective
@@ -283,7 +283,7 @@ QUESTION-457's three outcomes, taken in turn for this construction:
   verification when the suite's self-test was removed and its damage cases
   silently withdrawn.
 
-On QUESTION-388's test, "a governing rule's change must alter behaviour
+On [QUESTION-388](../questions.d/QUESTION-388.md)'s test, "a governing rule's change must alter behaviour
 under controlled later tasks": the improver's changed settings do, from a
 fixed start on held-out tasks. But the criterion every change answers to,
 and the outside veto, were set by the experimenter, as A43 grants, so this
@@ -308,10 +308,10 @@ What the run does not show:
 - the four-agent team, and any agent that reads or writes prose;
 - the plain-Markdown arm;
 - schema adequacy: the model has no way to add a distinction it lacks;
-- CASE-108's specialist with a poor record;
+- [CASE-108](CASE-108.md)'s specialist with a poor record;
 - a second correction of the improver after a first;
 - longer horizons;
 - outside suites that test the improver's own checks rather than its
   products.
 
-The claim drawn from the run is CLAIM-tmp7ggg0.
+The claim drawn from the run is [CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md).

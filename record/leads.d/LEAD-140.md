@@ -57,7 +57,7 @@ independent self-governance.
 ## Note of 2026-11-22: carried out in reduced form
 
 Done by the assistant as a delegated lead worker, on
-CASE-tmpl0ccq's simulation (scratch/studies/lead-140/), about 64 minutes of
+[CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md)'s simulation (scratch/studies/lead-140/), about 64 minutes of
 CPU. What was run:
 - 6 arms × 12 lineages × 60 generations;
 - the earlier and the later improver, and knowledge-only and
@@ -66,7 +66,7 @@ CPU. What was run:
 - undisclosed lesions of the improver's suite, with a sham and with the
   suite's self-test removed.
 
-Filed as CASE-tmp6btcq and CLAIM-tmp7ggg0. By the lead's "What would
+Filed as [CASE-tmp6btcq](../cases.d/CASE-tmp6btcq.md) and [CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md). By the lead's "What would
 count":
 - the later improver did better from the same start;
 - the advantage did not vanish when diagnosis was damaged where the
@@ -74,7 +74,7 @@ count":
   improver had shed its self-test.
 
 What remains:
-- CASE-255 with agents that keep a prose record;
+- [CASE-255](../cases.d/CASE-255.md) with agents that keep a prose record;
 - the plain-Markdown arm;
 - schema adequacy;
 - the specialist with a poor record;

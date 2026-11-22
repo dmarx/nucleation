@@ -40,8 +40,8 @@ complements:
 uses:
 - TERM-089
 summary: >-
-  From the run of LEAD-140 (CASE-tmp6btcq), a reduced simulation of
-  CASE-255 on CASE-tmpl0ccq's organization. Over 12 lineages per arm, the
+  From the run of [LEAD-140](../leads.d/LEAD-140.md) ([CASE-tmp6btcq](../cases.d/CASE-tmp6btcq.md)), a reduced simulation of
+  [CASE-255](../cases.d/CASE-255.md) on [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md)'s organization. Over 12 lineages per arm, the
   later improver beat the earlier from the same fresh artifact at equal
   budget in every arm that could change the improver. Its evolved settings
   carried the gain; its record, handed to settings that do not read it,
@@ -59,8 +59,8 @@ summary: >-
 
 ## The claim
 
-CASE-tmp6btcq ran CASE-255's design in reduced form. A hill-climbing
-improver changed the procedures of CASE-tmpl0ccq's organization over 60
+[CASE-tmp6btcq](../cases.d/CASE-tmp6btcq.md) ran [CASE-255](../cases.d/CASE-255.md)'s design in reduced form. A hill-climbing
+improver changed the procedures of [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md)'s organization over 60
 generations, and in four arms the collective also changed the improver.
 Three things held across 12 lineages per arm.
 
@@ -102,19 +102,19 @@ Three things held across 12 lineages per arm.
   in twelve and are not significant between the evaluation arrangements.
   The difference with and without reading the record, 10 of 12 against 0
   of 12, is.
-- It does not settle QUESTION-388. The improver's criterion and the
+- It does not settle [QUESTION-388](../questions.d/QUESTION-388.md). The improver's criterion and the
   outside veto were the experimenter's.
 
 ## What it changes
 
-QUESTION-457's "Yes" needed a later improver better from the same start,
+[QUESTION-457](../questions.d/QUESTION-457.md)'s "Yes" needed a later improver better from the same start,
 a gain that survives a fresh successor inheriting the record, and damage to
 the collective's checks found more often than a matched alternative finds
 it. In this construction the first holds. The second holds only when the
 successor inherits a procedure that reads the record. The third holds where
 the improver keeps a self-test of its suite, which unvetoed lineages can
 shed, or reads a record of what verification was worth. With
-CLAIM-tmpqaqtx it locates correctability in self-diagnosis and repair, now
-one level up. With CLAIM-266 it adds a case of probes that cannot certify
+[CLAIM-tmpqaqtx](CLAIM-tmpqaqtx.md) it locates correctability in self-diagnosis and repair, now
+one level up. With [CLAIM-266](CLAIM-266.md) it adds a case of probes that cannot certify
 what an optimized system keeps: a test of products cannot certify that the
 improver making them has kept its checks.

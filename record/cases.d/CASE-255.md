@@ -164,14 +164,14 @@ not a fixed boundary in this case's sense.
 
 ## Note of 2026-11-22: run in reduced form
 
-LEAD-140 ran this design as a simulation (CASE-tmp6btcq; code in
-scratch/studies/lead-140/). It was built on CASE-tmpl0ccq's organization of
-CASE-186, with a hill-climbing improver in place of the four-agent team and
+[LEAD-140](../leads.d/LEAD-140.md) ran this design as a simulation ([CASE-tmp6btcq](CASE-tmp6btcq.md); code in
+scratch/studies/lead-140/). It was built on [CASE-tmpl0ccq](CASE-tmpl0ccq.md)'s organization of
+[CASE-186](CASE-186.md), with a hill-climbing improver in place of the four-agent team and
 a record of past moves in place of a governed record.
 
 The arms, mapped as follows:
 - no retained record: an improver that does not read its record;
-- a fixed improver over a growing record: THEORY-1799's baseline;
+- a fixed improver over a growing record: [THEORY-1799](../theory.d/THEORY-1799.md)'s baseline;
 - four arms in which the improver itself is changed. Each judges a change
   differently: by the public metric (performance-gated), by its own suite,
   by an outside suite, or by its own suite with an outside veto on weakened
@@ -198,4 +198,4 @@ Not run:
 - the specialist with a poor record;
 - a second correction of the improver.
 
-The claim drawn is CLAIM-tmp7ggg0. The case is unchanged.
+The claim drawn is [CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md). The case is unchanged.
