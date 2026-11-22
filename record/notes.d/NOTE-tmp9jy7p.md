@@ -1,0 +1,129 @@
+---
+status: Read
+paper: LIT-tmpogxg7
+title: 'Diotaiuti and colleagues 2026, read for whether any eye-tracking study of PTSD measures context sampling after cued recall'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 for LEAD-106 from PubMed Central's open-access
+    text (PMC13577267, CC BY-NC), fetched as JATS XML through NCBI's
+    E-utilities efetch interface (db=pmc), the repository's documented
+    machine interface (ADR-101), after the Europe PMC REST fullTextXML
+    call returned HTTP 500 twice. Converted to text by script. Read in
+    full: Abstract, Introduction, Methods, Results with Tables 1 and 2,
+    Discussion, Conclusion. The PRISMA figure was read from its text
+    description. The reference list was skipped. Every quotation below
+    rechecked against the downloaded text. No email address sent.
+date: '2026-11-22'
+summary: >-
+  A scoping review of 17 eye-tracking studies of PTSD, 2010 to 2025. The
+  recurrent finding is longer sustained gaze on negative or trauma-related
+  material; initial vigilance is inconsistent; reduced exploration,
+  shorter scanpaths and delayed attention to context rest on one to three
+  studies each. No included study measures gaze after the trauma is
+  recalled, and none follows gaze through treatment; the review names
+  "engagement with corrective, contextual information" in exposure as a
+  hypothetical use. It misses at least two eligible studies, so it checks
+  the lead's search without proving the absence. The reading is
+  [THEORY-tmp8n4s7](../theory.d/THEORY-tmp8n4s7.md).
+---
+<!-- inactive-ok-file: THEORY-tmp8n4s7 — new; this reading -->
+<!-- inactive-ok-file: LIT-tmpgjodp LIT-tmpizs88 — Deferred; eligible studies the review misses, registered for the same lead -->
+
+# NOTE-tmp9jy7p: Diotaiuti and colleagues 2026, read for whether any eye-tracking study of PTSD measures context sampling after cued recall
+
+## Contribution
+
+A map of the eye-tracking literature on PTSD to 2025, organised by
+attentional component (sustained attention, orienting and disengagement,
+inhibitory control, avoidance and exploration, variability). For this
+record its use is negative: it lists what has been measured, and context
+sampling after recall is not among it.
+
+## Key results
+
+1. **Corpus** (Methods; Results): PubMed, PsycINFO and Scopus, 2010 to
+   2025; 132 records, 29 full texts, "17 empirical studies met all
+   inclusion criteria". Search terms covered eye-tracking, attention,
+   vigilance, dwell, scanpath, disengagement and executive control; none
+   named recall, script or imagery.
+2. **Designs** (Table 1): free viewing of images, faces or arrays; dot
+   probe; antisaccade; visual search; a continuous-performance task; an
+   emotion-recognition task. In none is the trauma recalled before or
+   during viewing.
+3. **The recurrent finding** (Discussion): "The comparatively most
+   recurrent pattern was greater sustained allocation of gaze to
+   negatively valenced, threatening, or trauma-related stimuli", sometimes
+   also in trauma-exposed controls.
+4. **Less exploration** (Results; Discussion): Blekic and colleagues
+   (2025) "reported reduced dwell time on emotional targets and shorter
+   scanpaths"; "The PTSD group therefore appeared to sample less visual
+   information". Roy and colleagues (2022) found reduced fixation and
+   saccade rates under load.
+5. **Context** (Results): Zidda and colleagues (2025) "further documented
+   delayed fixation to contextual information relative to trauma-related
+   cues"; the review adds that adaptive threat processing requires
+   integrating cues "with contextual information that may indicate
+   whether danger is current, probable, or no longer present". It is the
+   only study in the corpus with a context measure.
+6. **Measures not process-pure** (Discussion): "Reduced dwell time and
+   shorter scanpaths are not process-pure measures: they may reflect
+   avoidance, reduced interest, faster detection, perceptual narrowing,
+   fatigue, or inefficient visual search."
+7. **Treatment** (Clinical perspectives): eye-tracking "could potentially
+   provide an objective index of whether such activation and engagement
+   with corrective, contextual information occurs during treatment";
+   "These possibilities remain hypothetical because few studies have
+   examined longitudinal change or treatment sensitivity."
+8. **Design** (Limitations): "study designs were predominantly
+   cross-sectional."
+
+## Assumptions
+
+- A scoping review: no risk-of-bias assessment and no pooling, as the
+  authors say.
+- Eligibility admits clinician-diagnosed, probable, subthreshold and
+  symptom-dimensional PTSD; the review keeps them apart in reading but
+  counts them together.
+
+## Concepts
+
+- **Sustained attention against initial vigilance**: the review's main
+  distinction, with the evidence stronger for the first.
+- **Attention bias variability**: trial-to-trial fluctuation of the bias,
+  elevated with trauma exposure generally.
+
+## Bearing on the record
+
+- **[QUESTION-303](../questions.d/QUESTION-303.md)** (a check on absence, not evidence on the answer): if an
+  eye-tracking study of context sampling after cued traumatic recall had
+  appeared by 2025 under these terms, it should be here. None is. With the
+  lead's own searches, this is the basis for saying no study meets the
+  design. The review frames corrective contextual information during
+  exposure as something eye tracking could measure, which is [QUESTION-303](../questions.d/QUESTION-303.md)'s
+  second half, and reports no study that has.
+- **[THEORY-285](../theory.d/THEORY-285.md)** (background): the review's "reduced visual exploration"
+  is the nearest category in the human literature to the model's
+  attenuation, and it rests on two or three studies, none after recall.
+- **[THEORY-912](../theory.d/THEORY-912.md)** (a parallel): De Kleine and colleagues found patients
+  sampling as often as controls on a different task; the eye-tracking
+  literature mapped here likewise gives no consistent reduction in
+  sampling, but heterogeneous patterns.
+
+## Limitations
+
+- **Coverage.** The corpus misses eligible studies the lead's search found
+  in Europe PMC: Milanak and colleagues (2018, [LIT-tmpgjodp](../literature.d/LIT-tmpgjodp.md)), trauma-exposed
+  undergraduates with PTSD symptoms analysed against gaze to background
+  scenes; and Kimble, Cappello and Fleming (2023, [LIT-tmpizs88](../literature.d/LIT-tmpizs88.md)), community
+  trauma survivors viewing ambiguous pictures. Both meet its stated
+  criteria (eye tracking, trauma-exposed samples with PTSD symptoms
+  analysed). So its absence of a recall study is a check, not a proof.
+- **A gap in its argument**: the 2010 lower bound is said to reflect "the
+  distribution of eligible studies identified" after a supplementary
+  check that found none earlier, but the check's terms and results are
+  not given.
+- Its synthesis is narrative; claims of what is "recurrent" are counts of
+  studies, not effect sizes.
