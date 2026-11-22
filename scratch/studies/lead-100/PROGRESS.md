@@ -13,9 +13,19 @@
   (grep: receiver-restricted, restricted order, V-informative). NOTE-1048
   asks for one as an open question; CLAIM-199 says it does not supply one.
 
+- Step 2: formal results worked out and checked numerically
+  (rorder.py, run_checks.py, results.json, tests pass). All checks agree.
+
 ## Next
 
-- Formal work and numerical checks.
 - File TERM / CLAIM(s) / CASE, note on LEAD-100, changelog fragment.
 
 ## Choices
+
+- Definition: receivers on one fixed medium X (a disjoint union covers
+  cross-modal chains); a receiver is a class of rules per action set;
+  order = usable risk no worse for every bounded loss. Chosen because the
+  record's cases (CLAIM-199, CLAIM-087) compare renderings for one reader.
+- The lead's second branch (argue judged access tracks ideal
+  informativeness) is not attempted: it is empirical and CLAIM-199's
+  defeat condition already holds it.
