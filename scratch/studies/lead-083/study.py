@@ -256,7 +256,7 @@ def kuramoto_run(omega, Kmat, T, dt, theta0, detune=None, clamp=None, frozen_tra
     return rec[::rec_every] if rec_every > 1 else rec
 
 
-def setup_uniform(N=200, K=2.5):
+def setup_uniform(N=200, K=1.9):
     from scipy.stats import norm
     omega = norm.ppf((np.arange(N) + 0.5) / N)  # deterministic Gaussian quantiles
     rng = np.random.default_rng(0)

@@ -15,7 +15,16 @@ and dated notes on LEAD-083, QUESTION-218 and CLAIM-157.
 - Read CLAIM-157, QUESTION-218, QUESTION-219, CASE-269, CLAIM-388,
   CLAIM-172, CLAIM-164, CLAIM-154, CASE-tmpfktyl (LEAD-069's study).
 - study.py and test_study.py written; 6 tests pass.
-- Run started (results.jsonl, per item, resumable).
+- Arm A (kink) complete in results.jsonl: spectrum, block test by
+  segment length, compensation at t = 5 and 50 for kink centres 0 and 6,
+  h = 1, 0.5, 0.25. Kink centred between sites (on-site is the PN saddle).
+  Compensation read on the overdamped flow, not by minimization (L-BFGS
+  jumped Peierls-Nabarro wells).
+- Arm B coupling lowered to K = 1.9 (K = 2.5 locked 194 of 200; 1.9 locks
+  156, leaving 44 drifting as the environment).
+- One run was killed by the memory limit (cause not found; reruns go under
+  ulimit -v).
+- CASE-tmpwyp15 and CLAIM-tmpjwc0h created by luria new (templates).
 
 ## Next
 
