@@ -32,7 +32,7 @@ summary: >-
   the owner's. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt CLAIM-783 TERM-tmp94y6v TERM-tmp7s2aa TERM-tmp3mop8 LEAD-tmp3xevc LIT-tmp9cdlq — Proposed, Open or Unavailable; the claim this weighs, the terms it is stated in, the lead, and the unread work -->
+<!-- inactive-ok-file: CLAIM-tmpnookt CLAIM-783 TERM-tmp94y6v TERM-tmp7s2aa TERM-tmp3mop8 LEAD-tmp3xevc LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed, Open or Unavailable; the claim this weighs, the terms it is stated in, the lead, and the unread work -->
 
 # ARG-tmp68y3c: Kleene's realizer as van Oosten states it, by analogy, shows that the record's realization kept with its witness is a realizer, but not that a realization is carried with the evidence that it passes, nor that realizability sits on the proof-relevant side of specification rather than between the two
 

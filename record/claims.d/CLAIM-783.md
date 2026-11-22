@@ -44,6 +44,7 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: CLAIM-772 CLAIM-773 TERM-134 — Proposed; the contraction claims this formalizes for predicates, and the entries filed with it on 2026-11-21 -->
 
 # CLAIM-783: If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step's fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails moves it, to a convention that keeps nothing of the entry on that dimension or to its source, restoring what had drifted; and predicates the entry passes when added never conflict, since the entry witnesses them
@@ -148,3 +149,11 @@ origin is feasible:
   result.
 - Not the rate at which soft enforcement approaches the hard one; 1/λ is
   what the run showed, not a derived rate.
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+A parallel, no edge. Part 6's argument, that descriptors never conflict
+because the entry witnesses them, has the shape of Kleene's existential
+clause (THEORY-tmpqj2d4): the entry, with trivial realizers of the tests it
+passes, realizes "some version passes them all". The reading adds no
+support to a demonstrated result. No status changes.

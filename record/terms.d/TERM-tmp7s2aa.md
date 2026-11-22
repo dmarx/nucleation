@@ -13,6 +13,8 @@ complements:
 - TERM-tmp3mop8
 - TERM-tmp94y6v
 - TERM-134
+draws_on:
+- THEORY-tmpqj2d4
 summary: >-
   Filed at the owner's "consider adding a term (or two) for witness",
   2026-11-22, under the dialectic regime, with [TERM-tmp3mop8](TERM-tmp3mop8.md) (certificate) as its pair.
@@ -26,6 +28,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: TERM-tmp3mop8 TERM-tmp94y6v TERM-134 CLAIM-tmpnookt — Proposed; the pair filed with this and the entries it is stated against -->
 
 # TERM-tmp7s2aa: witness, to a specification: a realization exhibited that passes it, showing by example that what it admits is not empty; the existence half of a proof-relevant answer, apart from the evidence that it passes
@@ -68,3 +71,14 @@ A proof-relevant answer, in the sense of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpn
 - **NP's witness or certificate**: complexity theory uses the two words as
   synonyms for the string a verifier checks. Here they are split: the
   string is the witness, the verifier's accepting run its certificate.
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+The sense this term takes from logic has its formal source in Kleene's
+existential clause, as van Oosten states it (THEORY-tmpqj2d4, read in
+NOTE-tmpajfia for the unread LIT-tmp9cdlq): "n realizes an existential
+statement ∃xφ(x) if and only if n = ⟨m, k⟩ and k realizes φ(m̄)" (p. 5).
+The witness is m, the first component, kept in the realizer. The clause
+also fixes the term's "witness without certificate": for decidable tests
+k is 0, so a Kleene realizer of "some version passes them all" is the
+witness and nothing else. Recorded as `draws_on`. No status changes.

@@ -23,6 +23,7 @@ summary: >-
   ([CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp9cdlq THEORY-tmpqj2d4 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: TERM-tmp7s2aa TERM-tmp94y6v CLAIM-tmpnookt — Proposed; the pair filed with this and the entries it is stated against -->
 
 # TERM-tmp3mop8: certificate, of a realization against a specification: a checkable record that it passes each test, carried with it, so relying on the realization means checking the record rather than redoing the search; the evidence half of a proof-relevant answer
@@ -61,3 +62,20 @@ version.
   interpretive). A certificate is the support itself, for one realization.
 - **NP's certificate**: there a synonym for the witness string; here the
   accepting check of it. See [TERM-tmp7s2aa](TERM-tmp7s2aa.md).
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+A contrast, not support. Kleene's realizer (THEORY-tmpqj2d4, read in
+NOTE-tmpajfia for the unread LIT-tmp9cdlq) has no certificate component:
+realizability "is designed to handle “information” about formulas rather
+than proofs" (van Oosten, p. 4), and Kleene set Heyting's proof
+interpretation aside to build it. A true atomic sentence is realized by 0:
+where the test is decidable and cheap, the realizer carries nothing and the
+test is run again. That is this term's own asymmetry from the other side:
+a certificate earns its place where checking from scratch is expensive,
+not where a test can simply be rerun. The nearest counterparts in the
+realizability literature are glued realizability with P the provable
+sentences, a realizer kept with the fact of provability (p. 6), and the
+proof-to-realizer translation behind soundness. The proof-relevant pair
+(x, p) the definition cites comes from typed realizability and type
+theory, not Kleene 1945. No edge; no status changes.

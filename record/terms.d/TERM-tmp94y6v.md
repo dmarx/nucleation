@@ -23,6 +23,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpqj2d4 CLAIM-487 — Proposed or Unavailable; the reading of Kleene through van Oosten that the dated note of 2026-11-22 cites -->
 <!-- inactive-ok-file: TERM-tmp8b1yl TERM-134 CLAIM-477 CLAIM-783 CLAIM-tmp5rv9x SYNTHESIS-114 — Proposed; the term filed with this, and the entries it is stated against -->
 
 # TERM-tmp94y6v: specification: a set of tests that fixes which realizations count as admissible, the realizations being whatever passes them all; partial when it leaves differences that would matter undecided, and stored when it outlasts the inquiry or design that set it and constrains what follows
@@ -61,3 +62,17 @@ specification of requirements of the second ([CLAIM-tmp5rv9x](../claims.d/CLAIM-
 - **The constraint a specification is realized by.** [CLAIM-477](../claims.d/CLAIM-477.md) holds that
   specifications are themselves realized and maintained by something; that
   maintaining apparatus ([TERM-089](TERM-089.md)) is not the specification.
+
+## Note of 2026-11-22: Kleene, read through van Oosten
+
+An analogy and a word collision, no edge. Kleene's "realizer" (as van
+Oosten states it, THEORY-tmpqj2d4) attaches to a sentence and is
+information about how it holds; this term's "realization" attaches to a
+set of tests and is the object tested. The set of realizers of a sentence
+is a set of admissible realizations in this term's sense, so the shapes
+agree, but a realizer of "some version passes these tests" is the version
+together with its trivial realizers of the tests, not the version alone.
+The record uses "realizer" in a third, functionalist sense as well (a
+system that realizes a function, as in CLAIM-487), and has a
+`realizability` line on resource-bounded realization. A reader meeting
+"realization" here should take this term's sense. No status changes.

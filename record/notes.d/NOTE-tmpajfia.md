@@ -32,7 +32,7 @@ summary: >-
   sentences, a truth definition in the effective topos; and the typed,
   proof-relevant form came with Kreisel in 1959.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt CLAIM-783 TERM-tmp7s2aa TERM-tmp3mop8 TERM-tmp94y6v LEAD-tmp3xevc THEORY-tmpqj2d4 LIT-tmp9cdlq ARG-tmp68y3c — Proposed, Open or Unavailable; the entries this reading bears on, its account, the argument filed from it, and the work it stands in for -->
+<!-- inactive-ok-file: CLAIM-tmpnookt CLAIM-783 CLAIM-487 TERM-tmp7s2aa TERM-tmp3mop8 TERM-tmp94y6v LEAD-tmp3xevc THEORY-tmpqj2d4 LIT-tmp9cdlq ARG-tmp68y3c — Proposed, Open or Unavailable; the entries this reading bears on, its account, the argument filed from it, and the work it stands in for -->
 
 # NOTE-tmpajfia: van Oosten — Realizability: a historical essay
 
