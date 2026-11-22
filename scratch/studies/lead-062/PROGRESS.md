@@ -12,9 +12,28 @@
 
 ## Done
 
+- Read advanced entries (QUESTION-299/300/301, CLAIM-492, NOTE-1280).
+- Search (Europe PMC, arXiv): see search.md. No study meets the lead.
+- Simić et al. 2025 read in full (Europe PMC fullTextXML).
+- Law et al. 2025 Sci Rep: fullTextXML HTTP 500 x3, stopped.
+
 ## Next
 
-- Read advanced entries (QUESTION-299/300/301, CLAIM-492, NOTE-1280).
-- Search.
+- File LIT/NOTE/THEORY for Simić et al. 2025.
+- Register Law et al. 2025 (Unfetched), 2023 (Unfetched), 2026 (Deferred).
+- File the design CASE (proposed-study); set LEAD-062 operationalized_in.
+- Dated notes: CLAIM-492, QUESTION-299/300/301, NOTE-1280, LEAD-062.
+- Changelog fragment.
 
 ## Choices
+
+- Both branches of the lead taken: the studies found do not meet "what
+  would count" (none measures continuity with future people apart from
+  caring with concern for them as outcome, none varies whether anyone
+  will know), so the design CASE is filed as well as the readings.
+- "CASE (operationalization)" is read as kind proposed-study, linked by
+  LEAD-062's `operationalized_in` (the scheme's relation for a lead's
+  study design).
+- Chan (2010) is cited only as Spears and Postmes report it (NOTE-1280);
+  the brief confines services to Europe PMC and arXiv, so it is not
+  verified against Crossref.
