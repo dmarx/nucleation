@@ -174,3 +174,14 @@ bears none of its weight, which rests on the controller construction.
 [CASE-265](../cases.d/CASE-265.md), from A5 §5.3 of the exchange "Explain String Theory", compares two systems. In one, an intact share c produces its own repair capacity r. In the other, an outside controller holds r fixed at the first system's maintained value. The two have the same equilibrium. A offers this as a witness of the claim, "Matching maintained states does not identify where their maintenance is produced", and as to steady states it is one.
 
 But interventions on state do separate them. From c = 0.01 the controlled system recovers and the mutual one collapses (rechecked on filing). The controller is constant, not the claim's state feedback u_ext = P(c). So the case is weaker than the claim's own construction. It shows where the claim's ideal case begins: a controller that ignores the state is caught by perturbing the state, and only one that reproduces the production law needs an intervention on mechanism. The claim's "What it does not say" already allows that imperfect controllers "may leave signatures". This is one, with its mechanism named. No status changes.
+
+## Note of 2026-11-22: a run in which an intervention on state separates the arrangements
+
+<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
+In CASE-tmpl0ccq, a reduced run of CASE-186, zeroing both maintained
+capacities, an intervention on state, separated reciprocal maintenance (0
+of 64 second corrections) from external restoration (64 of 64). Its outside
+service restores at a constant rate and does not supply the internal
+production law as state feedback. It is therefore CASE-265's kind of
+controller, outside this claim's ideal case, and is no counterexample. The
+claim is unchanged.

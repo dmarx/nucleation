@@ -182,3 +182,15 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Bao et al.** ([THEORY-1785](../theory.d/THEORY-1785.md)): **bears on, leaves open**. A reward model trained on expert judgements beats the human agreement floor; the paper itself warns it distils "current taste", not the practice by which criteria change.
 
 The question is unchanged.
+
+## Note of 2026-11-22: capture repeated in a simulated organization, LEAD-048
+
+<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
+CASE-tmpl0ccq repeats CASE-162's crossing in CASE-186's organization. Under
+captured scoring or selective admission the first correction succeeded in
+at most 6 of 64 worlds. Inverse-propensity weighting repaired selective
+admission, in 60 to 64 of 64 worlds. The self-test found a lesion of
+admission against protected commissioning values, but did not find one
+that moved an already selective rate from 0.1 to 0.05. An evaluation
+calibrated on the arrangement it tests inherits that arrangement's capture.
+The question stays Open.

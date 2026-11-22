@@ -19,12 +19,16 @@
   (reference apparatus, tight fuel, 216 cells). Results append per cell to
   results/core{1,2,3}.jsonl; rerun resumes.
 
+- All runs finished (core1 432, core2 1080, core3 216, baselines 108
+  cells; about 10 min CPU). results/tables.md written.
+- Filed CASE-tmpl0ccq (executed-study), CLAIM-tmpqaqtx (Proposed, thesis,
+  demonstrated), dated notes on CASE-186, LEAD-048, CLAIM-414, CLAIM-522,
+  QUESTION-086/285/271/279/016, changelog fragment
+  record/changelog.d/lead-048.md.
+
 ## Next
 
-- When runs finish: `python3 -I analyze.py`, commit results/tables.md.
-- File CASE (executed-study), CLAIM if warranted, dated notes on CASE-186,
-  CLAIM-414, CLAIM-522, QUESTION-086/271/279/285/016, LEAD-048; changelog
-  fragment record/changelog.d/lead-048.md.
+- Report to the lead. Remaining work is listed in the LEAD-048 note.
 
 ## Choices
 

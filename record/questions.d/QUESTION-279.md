@@ -162,3 +162,14 @@ institutional claim that no acceptable remedy exists requires more than
 repeated unsuccessful searches", and adds that a solution sampled but not
 recognized by the institution's evaluator is not a remedy found
 ([CASE-249](../cases.d/CASE-249.md)). [THEORY-1703](../theory.d/THEORY-1703.md) bears on this question.
+
+## Note of 2026-11-22: a remedy unavailable by construction, LEAD-048
+
+<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
+In CASE-tmpl0ccq, once both maintained capacities were destroyed, the
+reciprocal arrangement could not correct again in any world. Its
+production law has a fixed point at zero, so no internal procedure was
+available to find. That is a certificate from the law, not from failed
+searches. Paid external restoration recovered in every world. That no
+remedy exists is relative to the declared boundary. The question stays
+Open.

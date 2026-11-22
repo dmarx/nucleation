@@ -327,3 +327,15 @@ The review's further question, whether the third gives meaning for the
 system itself as opposed to externally specified functionality, is
 [QUESTION-128](QUESTION-128.md)'s. No new question is filed. The proposed study that would
 test the third accomplishment is [CASE-239](../cases.d/CASE-239.md). The question stays Open.
+
+## Note of 2026-11-22: self-testing of an apparatus, LEAD-048
+
+<!-- inactive-ok-block: CASE-tmpl0ccq CLAIM-tmpqaqtx — new; the run of LEAD-048 and the claim drawn from it -->
+In CASE-tmpl0ccq the interventions were the experimenter's: undisclosed
+lesions of evidence generation, admission and scoring, which the system did
+not select. Recovering a second correction needed a self-test of each
+operation on known inputs, a way to stay answerable to what the apparatus
+did not produce, and a producer to rebuild what the test found. Without the
+test no arrangement recovered. The test was stipulated, not evolved,
+and the run does not say what organization would arrive at one. The question
+stays Open.
