@@ -55,3 +55,7 @@
 {"url": "https://blog.github.com/2018-10-30-oct21-post-incident-analysis/", "http": "200", "file": "a25aa4cfb94f.html", "words": 4384, "result": "fetched"}
 {"url": "https://status.cloud.google.com/incidents/X8SNkK2BPyCrc1sveeiu", "http": "200", "file": "227540d9edb7.html", "words": 1020, "result": "fetched"}
 {"url": "https://github.blog/news-insights/company-news/github-availability-report-august-2024/", "http": "200", "file": "d5a17a97b4e6.html", "words": 1896, "result": "fetched"}
+{"url": "https://engineering.heroku.com/blogs/2017-02-15-filesystem-corruption-on-heroku-dynos/", "result": "excluded at coding: rule 3, the URL now serves a blog index, not the postmortem"}
+{"url": "https://web.archive.org/web/20210813020247/https://brew.sh/2018/08/05/security-incident-disclosure/", "http": "000", "file": "fd1e7a9e07ae.html", "result": "excluded: http 000"}
+{"url": "https://web.archive.org/web/20211201033341/https://codeascraft.com/2012/01/23/solr-bittorrent-index-replication/", "http": "000", "file": "f3c05d914f8a.html", "result": "excluded: http 000"}
+{"url": "https://incident.io/blog/intermittent-downtime", "http": "200", "file": "f8672f160f9c.html", "words": 2614, "result": "fetched"}
