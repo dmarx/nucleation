@@ -35,13 +35,12 @@ summary: >-
   this claim says where that sorting stops. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpei9b5 CLAIM-tmpvq4ru TERM-134 TERM-tmp8b1yl TERM-tmp7s2aa — Proposed; the reading and entries this is stated against -->
 
 # CLAIM-tmpo8u76: A predicate about how an entry may change, rather than what it is now, is neither passed nor failed when it is added, since its test is on versions not yet written; so it is neither a descriptor nor an imposition in the sense that predicates are sorted by whether the entry passes them when added, and two such predicates the present entry is consistent with can still conflict over what may be written next
 
 ## The claim
 
-CLAIM-783 sorts a predicate by whether the entry passes it when it is
+[CLAIM-783](CLAIM-783.md) sorts a predicate by whether the entry passes it when it is
 added: a descriptor if it does, an imposition if it does not. Its part 6,
 that descriptors never conflict, takes the entry's present version as the
 witness. That works for a predicate on the present version. A predicate
@@ -61,7 +60,7 @@ satisfies both.
 
 ## Scope
 
-This narrows nothing CLAIM-783 states, since part 6 is about predicates
+This narrows nothing [CLAIM-783](CLAIM-783.md) states, since part 6 is about predicates
 the entry passes when added, and these are not. It names a third kind
 the two-way sorting leaves out, and says that part 6 does not reach it.
 It is an analogy from types to records; no record case is filed.

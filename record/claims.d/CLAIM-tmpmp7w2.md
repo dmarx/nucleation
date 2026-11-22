@@ -30,15 +30,15 @@ summary: >-
   Offered by the Davies and Pfenning reader as something only the two
   readings together show, and filed under the dialectic regime,
   2026-11-22. Freeman and Pfenning declare a finite lattice of refinements
-  and infer everything (THEORY-tmp1mruk); Davies and Pfenning let
+  and infer everything ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md)); Davies and Pfenning let
   refinements combine freely, find inference "most likely undecidable",
-  and have the programmer state types (THEORY-tmpei9b5). Two systems are a
-  contrast, not a test; the Liquid Types reading under LEAD-tmp3xevc, whose
+  and have the programmer state types ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md)). Two systems are a
+  contrast, not a test; the Liquid Types reading under [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md), whose
   qualifiers are a finite set chosen to keep inference decidable, is the
   third. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp1mruk THEORY-tmpei9b5 CLAIM-tmpnookt CLAIM-tmpvq4ru TERM-tmp8b1yl — Proposed; the readings and claims this is stated against -->
+<!-- inactive-ok-file: THEORY-tmp1mruk THEORY-tmpei9b5 — Proposed; the readings and claims this is stated against -->
 
 # CLAIM-tmpmp7w2: Whether a specification can be read off what it specifies or must be stated in advance depends on whether its vocabulary of tests is closed: over a finite declared vocabulary the strongest description an object passes is computable, so describing can be left to inference, while over an open one no strongest description need exist and what the object is to satisfy must be written down
 
@@ -64,7 +64,7 @@ descriptors are filed rather than computed, and why the filer, not the
 tooling, writes them. The record's closed vocabularies (statuses, tags,
 roles, warrants) are the part a tool can check and in principle infer.
 
-## Admission (ADR-075)
+## Admission ([ADR-075](../decisions.d/ADR-075.md))
 
 A discriminating prediction: a third system, Liquid Types, whose
 qualifiers are a finite set, should infer refinements without
