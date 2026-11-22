@@ -28,7 +28,6 @@ summary: >-
   epistemic injustice.
 ---
 <!-- inactive-ok-file: LIT-1228 — Unfetched; the book this primer stands in for -->
-<!-- inactive-ok-file: THEORY-tmptsyn2 — filed from this reading, Proposed -->
 <!-- inactive-ok-file: CLAIM-tmp8g26d — Proposed; reading (a) of the constitutivism test, filed in the same batch -->
 
 # NOTE-tmpcenk3: Massimi (2023) — Perspectival realism, a primer

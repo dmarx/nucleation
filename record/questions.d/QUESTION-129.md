@@ -41,6 +41,8 @@ summary: >-
   it. An answer is a principled constraint on which standpoints have
   authority that does not presuppose a normative standard.
 ---
+<!-- inactive-ok-file: THEORY-tmpdrt3r THEORY-tmptsyn2 THEORY-tmpnit00 CLAIM-tmp8g26d — Proposed; the readings and the objection filed for LEAD-158 -->
+<!-- inactive-ok-file: LIT-1228 — Unfetched; Massimi's book, read through its author's primer -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 
 <!-- inactive-ok-file: QUESTION-007 CLAIM-104 CLAIM-096 — Deferred; set aside with the authenticity line, cited to say what this question meets there -->
@@ -160,8 +162,6 @@ No status changes.
 
 ## Note of 2026-11-22: Leffler, Massimi and Monnier, read
 
-<!-- inactive-ok-block: THEORY-tmpdrt3r THEORY-tmptsyn2 THEORY-tmpnit00 CLAIM-tmp8g26d — Proposed; the readings and the objection filed for LEAD-158 -->
-<!-- inactive-ok-block: LIT-1228 — Unfetched; Massimi's book, read through its author's primer -->
 Three works LEAD-158 named are read, and each now `bears_on` this
 question.
 

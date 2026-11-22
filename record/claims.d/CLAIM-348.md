@@ -81,6 +81,7 @@ summary: >-
 complements:
 - CLAIM-518
 ---
+<!-- inactive-ok-file: THEORY-tmpnit00 — Proposed; the reading of Monnier et al., 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1893 — Skimmed; filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1813 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
@@ -297,7 +298,6 @@ reading says nothing about that kind of target. Status unchanged.
 
 ## Note of 2026-11-22: Monnier et al., read
 
-<!-- inactive-ok-block: THEORY-tmpnit00 — Proposed; the reading of Monnier et al., 2026-11-22 -->
 THEORY-tmpnit00 (Monnier, George, Guyard, Tarnec and Kountouris,
 LIT-2451) now `corroborates` this claim, independently: it is a
 measurement practice the claim does not cite. A single intersectional

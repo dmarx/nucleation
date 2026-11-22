@@ -49,6 +49,7 @@ summary: >-
 answers:
 - QUESTION-007
 ---
+<!-- inactive-ok-file: THEORY-tmpdrt3r — Proposed; the reading of Leffler, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-599 — Unavailable; the book version of the lectures, named as the unread work that would move this -->
 <!-- inactive-ok-file: THEORY-029 THEORY-047 THEORY-054 THEORY-065 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
@@ -175,7 +176,6 @@ that self-report does not isolate.
 
 ## Note of 2026-11-22: Leffler, read
 
-<!-- inactive-ok-block: THEORY-tmpdrt3r — Proposed; the reading of Leffler, 2026-11-22 -->
 Leffler (THEORY-tmpdrt3r, LIT-2444) reconstructs Korsgaard's later
 "plight" inescapability (*Self-Constitution*, 2009) as the one
 inescapability argument that explains why constitutive norms have force,

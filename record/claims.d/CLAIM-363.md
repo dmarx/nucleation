@@ -97,6 +97,7 @@ summary: >-
 complements:
 - CLAIM-405
 ---
+<!-- inactive-ok-file: THEORY-tmpdrt3r THEORY-tmptsyn2 CLAIM-tmprcgr5 CLAIM-tmp8g26d CLAIM-tmpn4gbs — Proposed; readings and the constitutivism test filed for LEAD-158 -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: THEORY-1279 THEORY-1277 — Proposed; Tsoukas and Chia's radial categories and Bencherki and Iliadis's coexisting levels, set beside this claim -->
 
@@ -258,7 +259,6 @@ No status changes.
 
 ## Note of 2026-11-22: Leffler and Massimi, read
 
-<!-- inactive-ok-block: THEORY-tmpdrt3r THEORY-tmptsyn2 CLAIM-tmprcgr5 CLAIM-tmp8g26d CLAIM-tmpn4gbs — Proposed; readings and the constitutivism test filed for LEAD-158 -->
 Two readings filed for LEAD-158 bear on this claim.
 
 - **Leffler** (THEORY-tmpdrt3r) reaches A17's fourth row, "No

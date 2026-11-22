@@ -41,6 +41,7 @@ summary: >-
   as input. The owner's U21 answered with resource-bounded identification
   ([CLAIM-663](../claims.d/CLAIM-663.md), [CLAIM-662](../claims.d/CLAIM-662.md)).
 ---
+<!-- inactive-ok-file: THEORY-tmpnit00 — Proposed; the reading of Monnier et al., 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpam6lh THEORY-1693 — Proposed; the reading of Caliari, 2026-11-22, and Freer and Nosratabadi's beside it -->
 <!-- inactive-ok-file: NOTE-1747 NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->
@@ -252,7 +253,6 @@ Its stand-in, [LIT-2458](../literature.d/LIT-2458.md), is superseded in that rol
 
 ## Note of 2026-11-22: Monnier et al., read
 
-<!-- inactive-ok-block: THEORY-tmpnit00 — Proposed; the reading of Monnier et al., 2026-11-22 -->
 LIT-2451 is read (NOTE-tmprfp2e; THEORY-tmpnit00, which now `bears_on`
 this question) and now Active. It bears on failure mode 1, and corrects
 A's statement of it. A said "a small statistically underrepresented group

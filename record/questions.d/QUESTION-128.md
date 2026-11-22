@@ -44,6 +44,8 @@ summary: >-
   function from the dynamics and tells it from mere contribution to
   persistence, and an account of what a standard needs beyond it.
 ---
+<!-- inactive-ok-file: THEORY-tmpdrt3r CLAIM-tmp8g26d CLAIM-tmprcgr5 CLAIM-tmpn4gbs ARG-tmpxsh8r — Proposed; Leffler's reading and the three readings of the test, filed for LEAD-158 -->
+<!-- inactive-ok-file: THEORY-220 THEORY-071 THEORY-628 CLAIM-648 — Proposed; the record's route to self-generated norms -->
 
 <!-- inactive-ok-file: QUESTION-007 — Deferred; set aside with the authenticity line, and cited to say where the cross-agent half went -->
 
@@ -230,8 +232,6 @@ Open.
 
 ## Note of 2026-11-22: Leffler, read, as the adversarial test
 
-<!-- inactive-ok-block: THEORY-tmpdrt3r CLAIM-tmp8g26d CLAIM-tmprcgr5 CLAIM-tmpn4gbs ARG-tmpxsh8r — Proposed; Leffler's reading and the three readings of the test, filed for LEAD-158 -->
-<!-- inactive-ok-block: THEORY-220 THEORY-071 THEORY-628 CLAIM-648 — Proposed; the record's route to self-generated norms -->
 Leffler's "Constitutivism's plight" (LIT-2444) is read (NOTE-tmp4a8iu;
 THEORY-tmpdrt3r, which now `bears_on` this question). It is the test the
 note of 2026-11-12 flagged. Leffler shows that the one inescapability

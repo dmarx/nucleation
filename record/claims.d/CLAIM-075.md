@@ -33,6 +33,7 @@ complements:
 - CLAIM-523
 - CLAIM-547
 ---
+<!-- inactive-ok-file: THEORY-tmpdrt3r CLAIM-tmpn4gbs — Proposed; Leffler's reading and reading (c) of the constitutivism test, filed for LEAD-158 -->
 <!-- inactive-ok-file: THEORY-1819 THEORY-1814 THEORY-1822 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: LIT-1915 — Unavailable; Letiche and Moriceau, cited from its abstract as a doubt in this claim's direction -->
 
@@ -121,7 +122,6 @@ No status change.
 
 ## Note of 2026-11-22: Leffler, read
 
-<!-- inactive-ok-block: THEORY-tmpdrt3r CLAIM-tmpn4gbs — Proposed; Leffler's reading and reading (c) of the constitutivism test, filed for LEAD-158 -->
 A parallel from the constitutivist side. Leffler (THEORY-tmpdrt3r) shows
 that on the best inescapability account of normative force "exercising
 their shmagency is the plight of shmagents" (p. 19): a constitution's
