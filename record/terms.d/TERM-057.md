@@ -53,6 +53,7 @@ draws_on:
 - THEORY-712
 - THEORY-701
 ---
+<!-- inactive-ok-file: THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # TERM-057: transfer entropy: how much the last l values of a source reduce uncertainty about a target's next value beyond the target's own last k values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity that depends on k, l and any conditioning series, not a measure of information flow and not an intervention effect
 
@@ -110,3 +111,12 @@ to both conditionals. Stated with it, always:
   Geweke's Granger causality is twice the transfer entropy
   ([THEORY-700](../theory.d/THEORY-700.md)). What [CLAIM-333](../claims.d/CLAIM-333.md) says of Granger causality and
   interventions holds for transfer entropy too.
+
+## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
+
+Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **background.**
+SURD's unique and synergistic terms decompose the same kind of conditional
+predictive information this term measures, and the paper benchmarks
+against conditional transfer entropy, which it says "may yield negative
+values" in its multivariate form. Its "leak" measures what the
+conditioning set misses. No relation.

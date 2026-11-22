@@ -67,6 +67,7 @@ bears_on:
 - QUESTION-080
 - QUESTION-202
 ---
+<!-- inactive-ok-file: THEORY-tmp8sxta THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 <!-- inactive-ok-file: THEORY-788 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
@@ -194,3 +195,18 @@ The promotion audit narrowed this entry to what was shown. Under
 [ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, neural collapse as a general law of training past zero error, beyond Papyan, Han and Donoho's protocol, is now filed as
 [THEORY-788](THEORY-788.md), Proposed, which extends this entry and takes it as
 evidence. This entry's title and status are unchanged.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **background,
+consistent.** NC1 and NC2 are reproduced with ResNet-18 on relabelled
+CIFAR-10 (§4, Fig. 3), on the coarse labels. What collapses is the variance
+ratio; the residual keeps finer structure (THEORY-788's note). A note, no
+relation.
+
+## Note of 2026-11-22: Ansuini and colleagues, read
+
+Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **a parallel.** A
+last-hidden-layer intrinsic dimension of about 12 to 25 is compatible with
+collapse toward class means, but the paper does not measure collapse. No
+relation.

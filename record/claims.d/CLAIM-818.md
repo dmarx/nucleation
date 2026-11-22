@@ -39,6 +39,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-798 THEORY-209 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-818: Under gradient flow, embeddings coupled through a shared-parameter kernel relax: the loss falls at the rate of a positive-semidefinite quadratic form in the embedding gradients however the kernel changes during training, so neither the coupling nor its co-evolution with the representation makes the dynamics active, and nonequilibrium behaviour has to come from the optimizer, from noise not matched to the kernel, or from a changing objective
 
@@ -97,3 +98,12 @@ the 100 × 100 matrix K was positive (6.7 × 10⁻⁵).
   coupling changes; it moves downhill.
 - Not that a time-dependent objective, such as contrastive learning with
   fresh negatives each step, is active. That needs its own showing.
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **consistent, a
+parallel at the population level.** One energy functional with an
+equilibrium for one modality, one joint energy for two: so nonequilibrium
+behaviour would have to come from the optimizer or the noise, as this
+claim says. The paper studies the objective, not the flow, so it is a
+parallel and not evidence for the claim's identity. No relation.

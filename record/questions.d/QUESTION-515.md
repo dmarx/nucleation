@@ -23,6 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-799 THEORY-tmpcij35 THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-822 CLAIM-798 CLAIM-818 CLAIM-842 TERM-136 CLAIM-797 CLAIM-838 THEORY-1095 THEORY-2051 THEORY-209 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # QUESTION-515: What follows if the representational manifold a deep network learns, a high-dimensional system, is modelled as an active-matter system?
 
@@ -89,3 +90,13 @@ Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](.
 the question open.** One gradient step and no dynamics; the spiked picture
 of learned features is a theorem there, which supports only the claim that
 the spectral perspective is not merely an analogy ([CLAIM-799](../claims.d/CLAIM-799.md)).
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **background;
+leaves it open.** It gives the "forces" half of A29 §2's particle picture
+an explicit population form for contrastive objectives: an alignment field
+and a partition field that is a mean field through the representation's
+own density. It says nothing on activity or criticality, and places the
+source of any irreversibility outside the objective, which is a joint
+energy even for two modalities (CLAIM-798's note). No relation.

@@ -29,6 +29,7 @@ summary: >-
   base Llama-3.1-8B and Gemma-2-2B, mostly synthetic data.
 ---
 <!-- inactive-ok-file: CLAIM-029 THEORY-264 — Proposed; claims and theory this account bears on, open -->
+<!-- inactive-ok-file: TERM-136 THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-251: In few-shot classification by a base language model, failures from the choice of examples or from relabelled categories leave the class representations separable and fail at the vocabulary readout
 
@@ -89,3 +90,11 @@ No relations are declared.
 - **[THEORY-264](THEORY-264.md)**, from the same reading and [LIT-942](../literature.d/LIT-942.md), holds the
   representation-side finding that demonstrations and instructions act
   differently.
+
+## Note of 2026-11-22: Ansuini and colleagues, read
+
+Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **a parallel.**
+Ansuini and colleagues tie their falling last-layer intrinsic dimension to
+manifold capacity (§4), the apparatus this account holds; this account's
+dimension is a participation ratio, theirs a TwoNN estimate, two of
+TERM-136's senses. No relation.

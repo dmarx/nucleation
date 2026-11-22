@@ -49,6 +49,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: LIT-1252 — Deferred; the paper holding the original proofs, registered unread, cited as the source the reading refers to -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this account is contrasted with, open -->
+<!-- inactive-ok-file: THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 # THEORY-754: If a velocity field's third-order increments obey ‖δu(r)‖₃ ≤ C u_rms (r/L)^σ at every separation r, with 0 < σ < 1, then for a smooth, rapidly decaying filter the space-averaged energy flux across scale ℓ takes at most a fraction of order (ℓ/Δ)^(1−σ) from strain at scales above Δ and of order (δ/ℓ)^(2σ) from stress at scales below δ, measured against u_rms³/L·(ℓ/L)^(3σ−1); so transfer between scales is local in scale, with a power-law decay and no gap
 
 ## Source
@@ -188,3 +189,11 @@ local.
   reading as fractions assumes is consistent only with σ₃ ≤ 1/3, and
   Kolmogorov's 1/3 is the largest exponent at which a cascade can carry
   energy to arbitrarily small scales.
+
+## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
+
+Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **background.** The
+paper's variables are the volume-averaged interscale fluxes Σ̃ = τᵢⱼS̄ᵢⱼ of
+filtered fields, the kind of filtered flux this account bounds, and it finds directed,
+forward dependence among them. It measures prediction among the fluxes,
+not the flux. No relation.

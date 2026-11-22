@@ -64,6 +64,7 @@ summary: >-
   failure from [CLAIM-333](CLAIM-333.md)'s, prediction against intervention. It leaves
   transfer entropy standing as a predictive quantity.
 ---
+<!-- inactive-ok-file: ARG-tmp94chy THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-335: Transfer entropy measures directed predictive improvement, not information flow: as a conditional mutual information it is the source's unique information about the target's next value plus its synergy with the target's past, so it can credit a source with a bit the source carries only jointly and read zero from sources that jointly fix the target, and conditioning on more series does not remove the synergy
 
@@ -149,3 +150,17 @@ T(A, B) = I(X⃗; A′ | A⃗, B⃗) + I(X⃗; B′ | A⃗, B⃗, A′) = 0 + 1 
 So transfer entropy onto a joint target can be positive where it is zero
 onto each component, the dual of this claim's "read zero from sources
 that jointly fix the target". A7 rightly did not commit to a PID measure.
+
+## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
+
+Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **supports, by a
+sibling measure** (THEORY-tmpc73s5 corroborates this claim; ARG-tmp94chy).
+SURD's "causality" is predictive information about a target's future:
+"causal relationships emerge as a result of transitional probabilities
+between states" (p. 12). Yet the paper reads its forward unique terms as
+"the forward energy cascade of causality" and "no new information is
+conveyed from the smaller scales to the larger scales": the slide from
+prediction to flow this claim warns against. SURD is not transfer entropy,
+so nothing here bears on the claim's composition of transfer entropy as
+unique information plus synergy; the paper notes that multivariate
+conditional transfer entropy "may yield negative values".

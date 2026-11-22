@@ -42,6 +42,7 @@ date: '2026-11-21'
 ---
 <!-- inactive-ok-file: THEORY-tmpw4qgu — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-797 CLAIM-800 CLAIM-818 CLAIM-841 CLAIM-803 CLAIM-851 CLAIM-831 — Proposed or new; filed 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-821: Evidence that a system has learned a distinction certifies it only when scored against what the same measure shows with no learning, a null; a measure read without its null cannot certify
 
@@ -69,3 +70,11 @@ they warn that "a large p-value does not necessarily mean the power law
 is the correct distribution for the data". A measure read against its
 null, and a null that cannot certify by itself. No edge. Status
 unchanged.
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **a parallel.** Their
+"uniformity" is a property of the objective's optimum, a Gibbs density;
+a measurement of uniformity in a trained network would still need this
+claim's null, since near-equal distances arise in high dimension with no
+learning. A note, no relation.

@@ -36,6 +36,7 @@ summary: >-
   it, is open.
 ---
 <!-- inactive-ok-file: THEORY-286 — Proposed; the conjecture that training reaches the endpoint, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # QUESTION-202: Does neural collapse hold outside its first protocol, under augmentation, label noise, class imbalance and several seeds per setting, and does gradient descent on cross-entropy provably reach it?
 
@@ -68,3 +69,14 @@ zero error leaves within-class variability of last-layer features flat, or,
 with balanced classes, leaves the centred class means far from
 equiangular. Further runs under the original protocol cannot settle it, nor
 can the theorems, which assume the collapsed end state.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **bears on
+it** (THEORY-tmp8sxta bears_on this question). A new protocol, labels
+merged into super-classes, split at random, or coarsened at random, under
+which the NC metrics still go to zero on the training labels. It also shows
+that NC1 near zero does not settle whether the within-class variation is
+unstructured: the fine classes persist in it for ResNet and DenseNet, not
+for VGG. Single runs, no seeds stated, so it does not reach the question's
+"several seeds per setting".

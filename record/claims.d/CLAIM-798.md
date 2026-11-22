@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmp526xr
 title: "Reading a network's representations as active matter splits into a weak analogy, that embeddings move collectively under optimization and noise through a shared-parameter kernel, and a strong model, that their dynamics carry sustained nonequilibrium currents or persistent orientation-like degrees of freedom not reducible to gradient relaxation; the weak reading follows from gradient flow, the strong one has to be shown, and its flocking observable is alignment of velocities, not clustering of positions"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    After the reading of LIT-2975 (NOTE-tmpll97d, THEORY-tmpvwv5n). The
+    paragraph on contrastive learning is corrected in place: the paper
+    declines A29 §3's attraction–repulsion reading for one modality, has
+    no collapse regime, and its "bifurcation" is between two objectives.
+    LIT-2975 is replaced in the grounds by its reading, as support for the
+    weak reading only (ARG-tmpy3i66). The thesis and status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -28,7 +38,7 @@ complements:
 grounds:
 - THEORY-209
 - THEORY-779
-- LIT-2975
+- THEORY-tmpvwv5n
 summary: >-
   A29 §2–§4 and §11 of the exchange "Rich Get Richer Power Laws"
   (2026-11-21), answering the owner's U18 ([QUESTION-515](../questions.d/QUESTION-515.md)). Under gradient flow,
@@ -40,8 +50,9 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
-<!-- inactive-ok-file: CLAIM-818 THEORY-2033 THEORY-813 THEORY-2012 LIT-2975 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: CLAIM-818 THEORY-2033 THEORY-813 THEORY-2012 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 <!-- inactive-ok-file: ARG-126 THEORY-209 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: ARG-tmpy3i66 THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-798: Reading a network's representations as active matter splits into a weak analogy, that embeddings move collectively under optimization and noise through a shared-parameter kernel, and a strong model, that their dynamics carry sustained nonequilibrium currents or persistent orientation-like degrees of freedom not reducible to gradient relaxation; the weak reading follows from gradient flow, the strong one has to be shown, and its flocking observable is alignment of velocities, not clustering of positions
 
@@ -99,7 +110,16 @@ ladder and the rule for climbing to the second.
   the sphere, with collapse, dispersion and structured regimes; the record
   holds the pieces ([THEORY-2033](../theory.d/THEORY-2033.md), [THEORY-305](../theory.d/THEORY-305.md), [THEORY-2012](../theory.d/THEORY-2012.md)). A29 cites a 2026
   ICML paper for geometry-dependent changes between unimodal and multimodal
-  regimes ([LIT-2975](../literature.d/LIT-2975.md), Deferred: registered, not read).
+  regimes (Cai and colleagues, LIT-2975, read 2026-11-22 as
+  THEORY-tmpvwv5n). **Corrected in place, version 2:** that paper declines
+  the attraction–repulsion reading for one modality: what spreads the
+  embeddings is entropy inside the aligned basin, "not ... a global force
+  opposing alignment", and repulsion appears only between modalities,
+  through a negative symmetric-KL term. It has diffuse and concentrated
+  Gibbs states, not collapse, dispersion and structured regimes, and sets
+  collapsed measures aside. Its "bifurcation" is a difference between the
+  unimodal and the multimodal objective, not a transition in a control
+  parameter. The sphere is its canonical case, not a restriction.
 
 ## Gaps
 
@@ -123,3 +143,20 @@ Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](.
 **consistent with the weak reading.** A32 §6 cites the paper against the
 strong reading, and it bears that out: one gradient step, no dynamics, and
 nothing about active matter. No relation.
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi (LIT-2975) were read (NOTE-tmpll97d; the reading
+is THEORY-tmpvwv5n). **Supports the weak reading only** (ARG-tmpy3i66; the
+correction of version 2 above). The population picture is variational and
+passive: for one modality a strictly convex free energy with "the unique
+Gibbs-form minimizer", the kind of stationary state the strong reading has
+to get past. Its "entropic dispersion" is a fixed term of the objective,
+the cross-entropy against the model's own smoothed density that comes from
+the softmax denominator, not stochastic forcing; τ is the softmax
+temperature, not a noise level. With two modalities there is still one
+joint energy, so the coupling is reciprocal and joint gradient flow falls
+under CLAIM-818. The paper leaves dynamics open ("the geometry of the
+objective rather than the trajectory"): how stochastic optimization
+explores the landscape "remains an important open problem", and the
+optimizer is where the strong reading would have to look.

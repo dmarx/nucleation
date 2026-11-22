@@ -35,6 +35,7 @@ draws_on:
 - THEORY-710
 - THEORY-711
 ---
+<!-- inactive-ok-file: THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # TERM-058: Granger causality: the past of one series improving the prediction of another's next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention
 
@@ -86,3 +87,11 @@ Three things are always relative and should be stated with it:
 - **Granger's own definition** (1969, [LIT-1173](../literature.d/LIT-1173.md)), which the record has
   not read. The citing works agree that it is predictive and relative to
   the relevant information. The record's definition is theirs.
+
+## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
+
+Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **background.** SURD
+is a predictive measure relative to a stated information set, in this
+term's sense, and names its shortfall a "causality leak"; in its
+turbulence case conditional Granger causality does "not support the
+hypothesis of a forward energy cascade". No relation.

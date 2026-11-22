@@ -35,6 +35,7 @@ summary: >-
   overlap or are imbalanced. Erf collapses more than ReLU.
 ---
 <!-- inactive-ok-file: THEORY-212 THEORY-286 — Proposed; the record's statement of collapse, the lazy-versus-rich regime account, the two UFM accounts this reading sets beside, and the theory filed from it -->
+<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # NOTE-774: Kothapalli & Tirer — Can Kernel Methods Explain How the Data Affects Neural Collapse?
 
@@ -221,3 +222,10 @@ reported by Tirer & Bruna, Rangamani et al. and He & Su.
   rescaling.
 - Should collapse be reported relative to the inputs' own NC1?
   Appendix F shows the raw number can mislead.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a parallel.** The
+empirical, feature-learning counterpart of this reading's question of how
+the data affects collapse: under coarse labels the input's fine structure
+survives collapse in ResNet and DenseNet, not in VGG. No relation.

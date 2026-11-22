@@ -86,6 +86,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-802 CLAIM-823 ARG-132 CLAIM-833 ARG-126 ARG-137 ARG-130 ARG-142 — Proposed or Rejected; filed 2026-11-21 after the coverage check -->
 <!-- inactive-ok-file: CLAIM-798 CLAIM-818 CLAIM-842 CLAIM-822 CLAIM-797 CLAIM-847 CLAIM-848 TERM-136 CLAIM-838 CLAIM-799 CASE-301 CLAIM-827 CLAIM-804 CLAIM-839 CLAIM-800 CLAIM-816 ARG-153 CLAIM-834 CLAIM-808 TERM-135 CLAIM-813 CLAIM-812 CASE-302 ARG-138 CLAIM-811 CLAIM-843 CLAIM-844 CLAIM-835 TERM-137 ARG-139 CLAIM-807 CLAIM-828 CLAIM-837 — new and Proposed or Open; components filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: SYNTHESIS-034 SYNTHESIS-030 SYNTHESIS-029 — Proposed or new; accounts this one sits beside -->
+<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # SYNTHESIS-120: In the record, how a high-dimensional representation comes to draw a new distinction is held in parts: concentration of measure sets a null that learning has to beat; geometric separation, decodability and spectral detectability are distinct, and cone occupancy, the BBP threshold and an alignment bifurcation are three thresholds on one scale; coupled embeddings under gradient flow relax rather than act; a factored feature switches on at a threshold quiet but consequential, a parent can gate it, and sample PCA sees it only after a window; entailment and refinement are partial orders; sloppiness and singular strata meet in two places and part in one; and whether stages of learning are transitions among singular strata ordered as the semantic refinements stays open
 
@@ -194,3 +195,14 @@ and the smoothness bound behind [CLAIM-848](../claims.d/CLAIM-848.md)'s particip
 now read; the bound is strict and on the tail only, and [CLAIM-848](../claims.d/CLAIM-848.md) and
 [ARG-130](../arguments.d/ARG-130.md) are corrected in place ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)). The synthesis's use of the
 participation ratio is unaffected.
+
+## Note of 2026-11-22: Ansuini and colleagues, read
+
+Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **qualifies
+how "dimension" is read in this account.** In trained CNNs the
+intrinsic dimension of the representations (TwoNN, far below width) and a
+linear count of their variance (one to two orders larger) diverge, because
+the manifolds are curved; CLAIM-848 has the participation ratio failing to
+track intrinsic dimension from the other side. Where a component here leans
+on low or effective dimension, it should say which of TERM-136's senses it
+means. No component changes.

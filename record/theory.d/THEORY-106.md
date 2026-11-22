@@ -44,6 +44,7 @@ summary: >-
   reaches trained deep networks.
 ---
 <!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-106: In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form
 
@@ -174,3 +175,11 @@ Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](.
 dashed initialization spectrum of their Fig. 1; one maximal-update step
 turns it into a spiked random-features model whose bulk "is modified from
 the unspiked RF spectrum". No relation.
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **background.** At random weights the conjugate kernel is the
+random-features baseline, and the paper gives its outliers when the input
+has spikes; after a few gradient steps at η of order one the trained
+kernel adds one label-aligned outlier beside the untrained bulk law. A
+note, no relation.

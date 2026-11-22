@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - TERM-tmplplcf
 title: 'ambient, intrinsic, effective and spectral dimension (of a learned representation)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    After the reading of LIT-2998 (NOTE-tmptf55k, THEORY-tmpwn1xp). The
+    parenthesis calling the work unread is replaced in place with what the
+    reading found, and a caution on how m is measured is added to the
+    intrinsic sense; the term now draws on the reading. The four senses
+    are unchanged.
 tags:
 - representation-learning
 - mathematics
@@ -16,6 +25,7 @@ line:
 draws_on:
 - THEORY-1272
 - THEORY-301
+- THEORY-tmpwn1xp
 summary: >-
   Four dimensions of a learned representation that the exchange "Rich Get
   Richer Power Laws" (2026-11-21) keeps apart and the record had no word
@@ -28,7 +38,8 @@ summary: >-
   Power Laws", A29 and A30); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
-<!-- inactive-ok-file: CLAIM-847 CLAIM-848 CLAIM-842 CLAIM-797 THEORY-1272 LIT-2998 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: CLAIM-847 CLAIM-848 CLAIM-842 CLAIM-797 THEORY-1272 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # TERM-136: ambient, intrinsic, effective and spectral dimension (of a learned representation)
 
@@ -43,8 +54,15 @@ distribution:
   manifold the representations lie near, as a local estimator measures it.
   A29 §1: trained networks' representations "can have intrinsic dimensions
   far below their layer widths, and … intrinsic dimensionality changes
-  systematically across layers" (Ansuini and colleagues, [LIT-2998](../literature.d/LIT-2998.md),
-  Deferred: registered, not read).
+  systematically across layers" (Ansuini and colleagues, LIT-2998, read
+  2026-11-22 as THEORY-tmpwn1xp: in trained image CNNs an ID orders of
+  magnitude below width, rising then falling with depth). A caution from
+  that reading (changed in place, version 2): m as measured there, by the
+  TwoNN estimator, is one global value per point cloud, depends on the
+  scale probed (checked by subsampling), and is a lower bound above about
+  20. The paper's linear count, PC-ID (the number of principal components
+  for 90% of the variance), is not D_PR below, so its "one or two orders"
+  gap is not a gap between m and D_PR.
 - **Effective dimension D_PR**: the participation ratio of the centred
   covariance Σ, D_PR = (tr Σ)²/tr(Σ²), equal to D when all eigenvalues are
   equal and near k when k equal directions carry the variance. It sets how
@@ -91,3 +109,15 @@ Minkowski) dimension. The fractal sense has no counterpart here; it is
 what a spectrum decaying more slowly than n^(−1−2/d′) for every d′ > d
 gives a code of a d-dimensional stimulus set (Theorem 4). A candidate
 addition if the record comes to use it. Background, so no relation.
+
+## Note of 2026-11-22: Ansuini and colleagues, read
+
+Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k,
+THEORY-tmpwn1xp): **supports the intrinsic sense and its separation from
+D, and qualifies how m is read** (the change of version 2 above). "The ID
+is orders of magnitude smaller than the number of units in each layer"
+(the paper's ED is this term's D), and a linear count is "about one or two
+orders of magnitude larger than the value of the ID computed with TwoNN",
+because the manifolds are curved. The linear count there is a fifth
+notion, a 90%-variance PCA count, beside D_PR. The term draws on the
+reading for its intrinsic sense.

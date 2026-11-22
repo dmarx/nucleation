@@ -61,6 +61,7 @@ extends:
 answers:
 - QUESTION-202
 ---
+<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 <!-- inactive-ok-file: THEORY-286 — Proposed; the imbalanced-class geometry this claim defers to, cited as open -->
 
@@ -106,3 +107,16 @@ protocol, under augmentation, label noise and several seeds, or a
 gradient-descent derivation for cross-entropy. Rejected if standard
 training run well past zero error leaves within-class variability flat or,
 with balanced classes, the means far from equiangular.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **qualifies.**
+On CIFAR-10 relabelled into five super-classes, ResNet-18 and
+DenseNet-121 meet NC1 and NC2 on the coarse labels, but "collapses its
+last-layer features onto their class means" is not literal there: the
+residual within-class variation keeps the original classes, recoverable
+without labels at over 93% by a linear probe, to 1,000 epochs. VGG-18 is
+the case that does collapse fully. So the account's NC metrics can hold
+while the within-class variation it calls collapsed stays structured by
+the input. Single runs on one dataset family, so it does not meet or defeat
+the promote_when. A note, no relation.

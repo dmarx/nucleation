@@ -43,6 +43,7 @@ summary: >-
   A33 and A35); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: ARG-153 CLAIM-827 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-838: On the high-dimensional unit sphere a directional bias of strength κ acts at three scales: of order one it is negligible, of order √D it shifts each cosine by order-one standard deviations and changes the occupancy of a cone holding a fixed share of random directions, and of order D it is needed for an order-one cosine or a cone of fixed angle; so discrimination can change long before visible clustering, and occupancy curves that collapse under κ/√D or κ/D are explained by geometry alone
 
@@ -126,3 +127,11 @@ Computed in this session (python3 -I, scipy):
   thresholds to entailment anyway. What carries over is argued in [ARG-153](../arguments.d/ARG-153.md).
 - How these scales relate to the BBP threshold and to an alignment
   bifurcation is the assistant's [CLAIM-827](CLAIM-827.md).
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **background.** The
+unimodal optimum is a Gibbs law of directional bias of order 1/τ, which is
+this claim's κ; this claim's three scales say when such a bias matters in
+high dimension, which the paper, with experiments on S¹ and S², does not
+address. No relation.

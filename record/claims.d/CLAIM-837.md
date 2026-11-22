@@ -52,6 +52,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-2149 THEORY-2148 THEORY-2152 ARG-151 — Proposed; the readings and argument of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-807 CLAIM-799 CASE-301 TERM-137 CLAIM-828 CLAIM-827 — new and Proposed or Open; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: ARG-tmppbt1o THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-837: In the factored-feature model a feature switches on, and its regularized loss is singular, at the same point s = λ, but sample PCA detects the feature only further on: in the hidden layer once s − λ exceeds σ²√(D/N), and in its contribution to the output once (s − λ)² does, so over a window that narrows as the sample grows the feature is active and improves the fit while it stays inside the noise bulk
 
@@ -205,3 +206,14 @@ ground state", while the weight covariance's aligned outlier appears only
 at t_c (eq. 39). That is this claim's window, a feature active and
 improving the fit before a spectral estimator sees it, in a second model
 and with the weight spectrum as the estimator rather than sample PCA.
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **a parallel.** Their Proposition 35 and Theorem 5 give the same order
+for a gradient-trained two-layer network: a rank-one weight update for any
+step size, an outlier in the weights' singular values only if θ1 >
+γ0^(1/4), and an outlier in the test-data conjugate kernel only if, in
+addition, z′(−1/λ1) > 0. That is this claim's switch-on before detection,
+with the two detections in series as here in the hidden layer and its
+readout. Another model, so a note and no relation; CLAIM-799 takes it as
+evidence (ARG-tmppbt1o).

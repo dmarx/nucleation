@@ -35,6 +35,7 @@ grounds:
 <!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-2149 THEORY-2148 ARG-151 ARG-145 — Proposed; the readings and arguments of 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-804: If learned signal strengths fall as a power law in rank, the number of directions PCA can separate from the noise bulk grows as a power of the sample-to-dimension ratio and of the signal gain, a cascade of detectability thresholds and not a self-organized critical process, and the power law then belongs to the hierarchy of signal strengths, not to the spectrum, whose bulk with a few outliers is no heavy tail
 
@@ -139,3 +140,11 @@ system that relaxes to a state with no length scale, with avalanches of
 all sizes cut off by the system size (pp. 382–383). The PCA cascade has
 none of these: no spatial extent, no avalanches, no relaxation to an
 attractor. The contrast stands. No edge. Status unchanged.
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **a parallel.** A cascade of detectability thresholds, run in depth
+rather than in rank: at random weights the set of spikes that still give
+outliers shrinks layer by layer, Iℓ ⊆ Iℓ−1, each layer adding a BBP-type
+test. No power law in rank, so it does not bear on this claim's count. A
+note, no relation.

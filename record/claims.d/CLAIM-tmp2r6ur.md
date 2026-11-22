@@ -46,6 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpwtoad THEORY-tmpcij35 THEORY-tmphbp5a CLAIM-tmp9atj9 CLAIM-tmpufbx6 ARG-tmpun4nl ARG-tmptvp76 — Proposed or new; the readings of 2026-11-22 and the rival readings filed from them -->
 <!-- inactive-ok-file: THEORY-tmpu3iio ARG-tmpabk16 TERM-tmpf5ymd CLAIM-835 — Proposed or new; the reading, its argument, its test and the term it uses -->
+<!-- inactive-ok-file: LIT-tmp9isrs THEORY-tmp8sxta THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-tmp2r6ur: The most informative signal in a learned spectrum lies in a truncated band: the top directions carry common, weakly discriminating structure, as stop words do in a corpus, the extreme bottom carries low-signal outliers, as rare words do, and once both are cut, the bottom of the retained band holds the most discriminating directions
 
@@ -119,3 +120,34 @@ to part of this claim; the owner chooses.
   and the band): the fine end may be damped for smoothness, and the
   measured floor may be estimator noise rather than low-signal outliers
   bounding a band.
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **leaves the
+claim open; in the paper's own settings the top outliers are the signal,
+against the stop-word half.** Its conjugate-kernel outliers are inherited
+from the input's spikes, which are the class labels or the target
+direction, and after training the test-data kernel's top outlier is
+aligned with the test labels. The paper measures no per-direction
+discrimination and does not discuss the bottom of the spectrum. One
+parallel that would bear on the stop-word half is only cited: for non-odd
+activations the kernel can have top eigenvalues "even when the input K0
+has no spiked structure", "uninformative spike eigenvalues", shown by
+Benigni and Péché and assumed away here (E σ″ = 0). Those are top
+directions that carry no task signal, which is the shape the stop-word
+half needs. Benigni and Péché are registered (LIT-tmp9isrs, Deferred) as
+the reading that might test it directly, for a random one-layer kernel. A
+note, no relation.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a
+weak parallel that runs both ways; no spectral analysis.** Under coarse
+labels the variance-dominant directions of the last layer are the coarse
+class means, and the fine-class signal lives in "the small amount of
+remaining variation". That fits the shape "top common, lower
+discriminating" for a finer distinction. But the top directions are the
+most discriminating for the task the network was trained on, the paper
+does no spectral decomposition, and it has no floor. Not evidence for or
+against the claim; an illustration of where a finer distinction can live.
+A note, no relation.

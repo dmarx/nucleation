@@ -60,6 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2033 THEORY-2043 THEORY-2047 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-296 CLAIM-478 TERM-098 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-762: Collapsing differences that do not matter into equivalence classes is how those classes come to be reified as new distinctions: where a process identifies its microstates by what they do, the classes it keeps, and not the microstates, become the units of further computation and organization; the claim is substantive only where the classes are closed under the system's own operations and are reused
 
@@ -165,3 +166,14 @@ classes left are [CLAIM-581](CLAIM-581.md)'s budgeted classes, nesting into one 
 are reified by collapse. A parallel: it gives the collapse a mechanism in one
 model, and says nothing about this claim's condition that the classes be
 closed under the system's own operations and reused.
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **qualifies the
+Wang and Isola note above.** The finite-dataset tension between perfect
+alignment and uniformity resolves, in the large-batch limit, as basin
+selection by alignment and dispersion by entropy: the unimodal optimum is
+a unique Gibbs density ∝ exp(−U/τ) concentrated on near-minimizers of the
+alignment potential as τ → 0. So what the objective keeps is a spread
+within the class of aligned configurations, not uniformity over the sphere.
+A note, no relation.
