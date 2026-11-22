@@ -197,6 +197,6 @@ A limit from the other side, A100 §11: "The claimant's authority to demand expl
 No status changes.
 
 ## Note of 2026-11-22: the same bearers as the duty of answerability, on one reading
-<!-- inactive-ok-block: CLAIM-tmp7mors CLAIM-tmp8qqi4 CLAIM-624 — new or Proposed; filed or cited for LEAD-131 -->
+<!-- inactive-ok-block: CLAIM-tmp7mors CLAIM-tmp8qqi4 — new or Proposed; filed or cited for LEAD-131 -->
 
-For LEAD-131. This claim's bearer, "those who control" a sense-1 arrangement, is the bearer CLAIM-tmp7mors gives CLAIM-624's duty of answerability. On that reading the two fall on one set of parties, and this claim says how strongly CLAIM-624's duty binds them as dependence rises, as its note of 2026-11-17 has indispensability intensify what is owed. On the rival reading, CLAIM-tmp8qqi4, CLAIM-624's bearer is an agent-institution and the two coincide only where one controls the arrangement. No status change.
+For [LEAD-131](../leads.d/LEAD-131.md). This claim's bearer, "those who control" a sense-1 arrangement, is the bearer [CLAIM-tmp7mors](CLAIM-tmp7mors.md) gives [CLAIM-624](CLAIM-624.md)'s duty of answerability. On that reading the two fall on one set of parties, and this claim says how strongly [CLAIM-624](CLAIM-624.md)'s duty binds them as dependence rises, as its note of 2026-11-17 has indispensability intensify what is owed. On the rival reading, [CLAIM-tmp8qqi4](CLAIM-tmp8qqi4.md), [CLAIM-624](CLAIM-624.md)'s bearer is an agent-institution and the two coincide only where one controls the arrangement. No status change.
