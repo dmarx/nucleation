@@ -19,14 +19,12 @@ line:
 - pragmatic-transport
 - formal-apparatus
 ---
-<!-- inactive-ok-file: CLAIM-209 — Proposed; the thesis this study makes vivid, cited as open, not settled -->
-<!-- inactive-ok-file: CLAIM-tmpc54vj CLAIM-tmpm4oom — Proposed; the two findings filed with this study on 2026-11-22 -->
 
 # CASE-tmp5w2ty: Directed decision signature reduces to a symmetric two-step operator for decisions about the input
 
 ## The case
 
-A small numerical study, by LEAD-142, of the signature QUESTION-052 names for
+A small numerical study, by [LEAD-142](../leads.d/LEAD-142.md), of the signature [QUESTION-052](../questions.d/QUESTION-052.md) names for
 the directed case. The setup is Zhai's conditional-expectation operator
 ([THEORY-239](../theory.d/THEORY-239.md)): for a joint law P⁺(x, a) of an input X and a context A,
 `T: L²(P_A) → L²(P_X)`, `(Tg)(x) = E[g(A) | X = x]`, with singular values

@@ -30,7 +30,7 @@ complements:
 - CLAIM-098
 ---
 <!-- inactive-ok-file: CASE-tmp5w2ty — Proposed; the study that grounds this claim, filed with it on 2026-11-22 -->
-<!-- inactive-ok-file: CLAIM-209 CLAIM-193 — Proposed; the thesis this advances and the linear-case claim it sits beside, cited as open -->
+<!-- inactive-ok-file: CLAIM-209 — Proposed; the thesis this advances and the linear-case claim it sits beside, cited as open -->
 
 # CLAIM-tmpc54vj: For decisions that are functions of the input, the directed signature is the eigenspace of the self-adjoint two-step operator T T*, which is reversible, so directedness adds no obstruction beyond the symmetric case and enters only for decisions about the transport itself
 
