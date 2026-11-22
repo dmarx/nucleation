@@ -141,3 +141,12 @@ account in the top-down cell needs only the proposal. The claim stays
 Proposed: its other ground, [THEORY-067](../theory.d/THEORY-067.md), is Proposed, and the note above
 says what else holds it. The same split for [THEORY-067](../theory.d/THEORY-067.md), a held reading of
 what the précis proposes, would remove that premise as a blocker too.
+
+## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), the bargaining cell
+
+[LEAD-078](../leads.d/LEAD-078.md) named this claim because it places [THEORY-067](../theory.d/THEORY-067.md)'s account in a
+cell. Schuhr ([LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md)) bears on that placement as background: in his
+experiment imposing a link between choices lowered patient choice, while
+leaving the series free raised it, which fits an account with no
+governor above the interests. It does not compare drive profiles across
+the three accounts, which the defeat condition asks for. No change.
