@@ -151,17 +151,22 @@ class Adam:
             self.v[k] = self.b2 * self.v[k] + (1 - self.b2) * g[k] ** 2
             mh = self.m[k] / (1 - self.b1 ** self.t)
             vh = self.v[k] / (1 - self.b2 ** self.t)
+            if not np.any(g[k]) and not np.any(self.m[k]):
+                continue                       # frozen parameter: no decay either
             p[k] -= self.lr * (mh / (np.sqrt(vh) + self.eps) + self.wd * p[k])
 
 
-def train(p, rng, steps, batch_fn, lr, wd=0.0, callback=None, every=None):
-    """batch_fn(rng) -> (ctx, x, y). callback(step, p) at multiples of every."""
+def train(p, rng, steps, batch_fn, lr, wd=0.0, callback=None, every=None, keys=None):
+    """batch_fn(rng) -> (ctx, x, y). callback(step, p) at the steps in every.
+    keys: if given, only these parameters are updated (the rest frozen)."""
     opt = Adam(p, lr, wd)
     if callback is not None:
         callback(0, p)
     for t in range(1, steps + 1):
         ctx, x, y = batch_fn(rng)
         _, g = loss_grad(p, ctx, x, y)
+        if keys is not None:
+            g = {k: (v if k in keys else np.zeros_like(v)) for k, v in g.items()}
         opt.step(p, g)
         if callback is not None and t in every:
             callback(t, p)
@@ -262,3 +267,24 @@ def logit_diff(p, ctx, x, piA, piB, delta1=None):
     logits, _ = forward(p, ctx, x, delta1)
     n = len(x)
     return logits[np.arange(n), piB[x]] - logits[np.arange(n), piA[x]]
+
+
+def fit_delta(p, rng, steps, batch_fn, lr=1e-2):
+    """Elicitation by one shared vector added to h1, fitted by Adam on
+    batch_fn's examples with the weights frozen. Returns the vector."""
+    H = p["b1"].shape[0]
+    delta = np.zeros(H)
+    m = np.zeros(H)
+    v = np.zeros(H)
+    for t in range(1, steps + 1):
+        ctx, x, y = batch_fn(rng)
+        logits, cache = forward(p, ctx, x, delta)
+        pr = softmax(logits)
+        n = len(y)
+        pr[np.arange(n), y] -= 1
+        _, dh1 = backward(p, cache, pr / n)
+        g = dh1.sum(0)
+        m = 0.9 * m + 0.1 * g
+        v = 0.999 * v + 0.001 * g ** 2
+        delta -= lr * (m / (1 - 0.9 ** t)) / (np.sqrt(v / (1 - 0.999 ** t)) + 1e-8)
+    return delta

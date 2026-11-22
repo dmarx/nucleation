@@ -83,3 +83,27 @@ def test_auroc_and_logistic():
 
 def test_coverage():
     assert abs(S.coverage(np.array([0.01]), 100) - 0.634) < 1e-3
+
+
+def test_keys_freeze_other_parameters():
+    rng = np.random.default_rng(6)
+    piA, piB = S.make_maps(rng)
+    p = S.init(rng, 16)
+    q = S.copy(p)
+    S.train(q, rng, 5, S.mixed_batch(piA, piB, 32, "B"), 1e-2, wd=0.1, keys={"W1", "b1", "Ec"})
+    for k in ["W2", "b2", "W3", "b3", "Ex"]:
+        assert np.array_equal(p[k], q[k])
+    assert not np.array_equal(p["W1"], q["W1"])
+
+
+def test_fit_delta_lowers_loss():
+    rng = np.random.default_rng(7)
+    piA, piB = S.make_maps(rng)
+    p = S.init(rng, 32)
+    S.train(p, rng, 300, S.mixed_batch(piA, piB, 128, "A"), 3e-3)
+    fn = S.mixed_batch(piA, piB, 128, "B", ord_frac=0.0)
+    c, x, y = fn(np.random.default_rng(8))
+    d = S.fit_delta(p, np.random.default_rng(9), 100, fn)
+    l0 = -np.log(S.softmax(S.forward(p, c, x)[0])[np.arange(len(y)), y]).mean()
+    l1 = -np.log(S.softmax(S.forward(p, c, x, d)[0])[np.arange(len(y)), y]).mean()
+    assert l1 < l0
