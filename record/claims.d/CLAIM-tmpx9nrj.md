@@ -74,3 +74,18 @@ objection that follows for "optimally".
 It does not say P_D(g) is known. It is relative to a behavioural model
 (A31 §6: the formulation "assumes we can meaningfully estimate the
 relevant costs, outcome probabilities, and fragility risks").
+
+<!-- inactive-ok-file: CLAIM-tmptfpf7 — Proposed; filed in this filing of 2026-11-22 (second share) -->
+
+## Note of 2026-11-22: a third intervention, from the second share
+
+In the second share of the exchange, A34 §6 adds a third intervention to
+the two this claim separates. A regulation can make new histories
+reachable (possibility), or shift probability mass toward acceptable ones
+(realization). It can also "alter the test functions through which we
+determine whether a history is acceptable". A34: "A regulation can
+improve measured outcomes while narrowing the ecosystem's future adaptive
+capabilities." That is a qualification, not a new dimension of this
+claim: a change of test functions changes the demand sets V_j, so it
+changes the compatibility complex's reference set. CLAIM-361 forbids
+calling that relief. The thesis that carries A34 is CLAIM-tmptfpf7.

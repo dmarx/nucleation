@@ -74,6 +74,15 @@ integrates:
 - CLAIM-418
 - CLAIM-554
 - CLAIM-347
+- CLAIM-tmptfpf7
+- TERM-tmpz28l1
+- CLAIM-tmpntzjo
+- CLAIM-tmph25dl
+- CLAIM-tmp2k3c5
+- CLAIM-tmpx8csq
+- CLAIM-tmpbzwmr
+- CLAIM-099
+- CLAIM-577
 bears_on:
 - QUESTION-tmp2elxk
 - QUESTION-tmpn9t5a
@@ -82,7 +91,7 @@ bears_on:
 - QUESTION-504
 summary: >-
   The map of what was filed on 2026-11-22 from the ChatGPT exchange
-  "Explain First Contact RL" (shared 2026-11-22; 17 owner turns). Every
+  "Explain First Contact RL" (two shares of 2026-11-22; 21 owner turns). Every
   owner turn after U1 was a prompt or a proposal, and A answered each with
   a synthesis. The spine is one thesis about selves that A revised six
   times (A13, A15, A22, A24, A26, A29). Each revision answered an owner
@@ -91,14 +100,14 @@ summary: >-
   threads run beside it. The first is First Contact and an adaptive scroll
   interface (U1 to U4). The second is a governed record's effect on
   collaborators, and flow (U8, U9). The third is teams and singularity
-  (U10, U11). The fourth is regulation (U16, U17). The account adds
+  (U10, U11). The fourth is regulation (U16, U17), continued in the second share (U18 to U21) into reorganization readiness and the tension between identity stabilization and adaptability. The account adds
   nothing to its components. The links it reports are each stated by the
   entry named. The links no component states are listed under "Not stated
   on the record". Proposed: the owner sets it Current once the mapping is
   reviewed.
 ---
 
-<!-- inactive-ok-file: CASE-tmptzhse CLAIM-tmpk8ude CLAIM-tmpx7oaj CLAIM-tmpcfo3s ARG-tmpzxz7y TERM-tmpwc4la CLAIM-tmpy4mba CLAIM-tmptsbhv CLAIM-tmp0dyx8 ARG-tmpzj6pc CLAIM-tmp7qzux CLAIM-tmp7pe33 CLAIM-tmptxsin CLAIM-tmp86z76 CLAIM-tmpqr0tn CLAIM-tmpmk036 CLAIM-tmpywoih ARG-tmpymz1j CLAIM-tmpcsh5p CLAIM-tmpm54la CLAIM-tmp7580l CLAIM-tmpl1hgv TERM-tmpxwa7g TERM-tmpm0s7g CLAIM-tmp3xo35 TERM-tmppvlfi CLAIM-tmp37le7 CLAIM-tmp31b3v CLAIM-tmp0ww8w CLAIM-tmphxbli CLAIM-tmpwb6dg CLAIM-tmprbieu CLAIM-tmprq9q5 CLAIM-tmpfza2h CLAIM-tmpgnozg CLAIM-tmp9pgdu CLAIM-tmp6ksyy CLAIM-tmpz67ew CLAIM-tmphjm0q CLAIM-tmplgnjf CLAIM-tmpk4bou CLAIM-tmpx9nrj CLAIM-788 CLAIM-787 CLAIM-181 CLAIM-358 CLAIM-162 CLAIM-711 — Proposed or in progress; filed or cited in the filing of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmptzhse CLAIM-tmpk8ude CLAIM-tmpx7oaj CLAIM-tmpcfo3s ARG-tmpzxz7y TERM-tmpwc4la CLAIM-tmpy4mba CLAIM-tmptsbhv CLAIM-tmp0dyx8 ARG-tmpzj6pc CLAIM-tmp7qzux CLAIM-tmp7pe33 CLAIM-tmptxsin CLAIM-tmp86z76 CLAIM-tmpqr0tn CLAIM-tmpmk036 CLAIM-tmpywoih ARG-tmpymz1j CLAIM-tmpcsh5p CLAIM-tmpm54la CLAIM-tmp7580l CLAIM-tmpl1hgv TERM-tmpxwa7g TERM-tmpm0s7g CLAIM-tmp3xo35 TERM-tmppvlfi CLAIM-tmp37le7 CLAIM-tmp31b3v CLAIM-tmp0ww8w CLAIM-tmphxbli CLAIM-tmpwb6dg CLAIM-tmprbieu CLAIM-tmprq9q5 CLAIM-tmpfza2h CLAIM-tmpgnozg CLAIM-tmp9pgdu CLAIM-tmp6ksyy CLAIM-tmpz67ew CLAIM-tmphjm0q CLAIM-tmplgnjf CLAIM-tmpk4bou CLAIM-tmpx9nrj CLAIM-788 CLAIM-787 CLAIM-181 CLAIM-358 CLAIM-162 CLAIM-711 CLAIM-tmptfpf7 TERM-tmpz28l1 CLAIM-tmpntzjo CLAIM-tmph25dl CLAIM-tmp2k3c5 CLAIM-tmpx8csq CLAIM-tmpbzwmr CLAIM-626 — Proposed or in progress; filed or cited in the filing of 2026-11-22 -->
 
 # SYNTHESIS-tmp4zamw: The argument filed from the exchange Explain First Contact RL, mapped: A's thesis about selves, revised six times at the owner's prompts, moves from a self whose decomposition is relative to affordable tests to unity without singularity, ecological integration and a measure-valued organization; its last version is a recap of the one before; beside it run threads on adaptive interfaces, governed records and flow, teams as pseudo-selves, and regulation as the governance of what is jointly possible
 
@@ -242,6 +251,28 @@ assistant's gap fills are its own, and each says so.
   - [CLAIM-tmpx9nrj](../claims.d/CLAIM-tmpx9nrj.md): possibility and realization are separate dimensions.
   - [QUESTION-tmpn9t5a](../questions.d/QUESTION-tmpn9t5a.md): recovery of a capability from rarity.
 
+**Possibility, reorganization and timescales (U18 to U21, second
+share).**
+- **Governance of possibility.** U18 named A33's phrase. A34's account of
+  it is CLAIM-tmptfpf7: generative, stabilizing and reflexive regulation,
+  resting on CLAIM-tmpk4bou, CLAIM-tmpx9nrj and CLAIM-410.
+- **Reorganization readiness.** U19 quoted A34's "the capacity for viable
+  reorganization when the equilibrium becomes inadequate" and asked for a
+  formal version. A36's is TERM-tmpz28l1, the viability kernel of
+  reorganization readiness. It is built from THEORY-134, CLAIM-079,
+  CLAIM-099, CLAIM-571 and CLAIM-577, whose budget rule is A36's example.
+- **The owner's thesis**, at U20, is CLAIM-tmpntzjo: an inherent tension
+  between identity stabilization and adaptability, with appropriate
+  response depending on the timescale of the demand. It is filed with two
+  readings of "inherent".
+- **A38's answer**, CLAIM-tmph25dl, keeps the tension and denies it is a
+  trade-off on one scale. Its toy bound, vH ≥ 1 − δ − ε, is CLAIM-tmp2k3c5.
+- **Slow modes.** U21 asked how slow modes bear on it. A40 separates a
+  mode's persistence from how hard it is to redirect (CLAIM-tmpx8csq,
+  resting on CLAIM-345, checked). It revises A38's thesis as
+  CLAIM-tmpbzwmr: identity in slow collective modes, adaptability in their
+  selective controllability (with CLAIM-331 and CLAIM-626).
+
 ## The account
 
 On the record's entries, the exchange's argument runs as follows. Each
@@ -285,6 +316,16 @@ link is attributed to the entry that states it.
    frustration among the public demands ([CLAIM-tmpk4bou](../claims.d/CLAIM-tmpk4bou.md)). Possibility and
    realization are separate ([CLAIM-tmpx9nrj](../claims.d/CLAIM-tmpx9nrj.md)), and no optimum exists
    before the commitments are declared ([CLAIM-tmphjm0q](../claims.d/CLAIM-tmphjm0q.md)).
+9. **Regulation as governance of possibility.** It governs which
+   possibilities are attainable, sustainable and revisable
+   (CLAIM-tmptfpf7). What it should maintain is reorganization readiness
+   (TERM-tmpz28l1), whose loss can come from ordinary efficient operation
+   (CLAIM-577). The owner's tension between stabilizing identity and
+   adapting (CLAIM-tmpntzjo) is, on A's account, not one scale: a
+   constraint's adequacy is indexed to the demands' timescales
+   (CLAIM-tmph25dl, CLAIM-tmp2k3c5). Slowness fixes persistence, not
+   redirectability (CLAIM-tmpx8csq), so identity in slow modes needs those
+   modes kept controllable (CLAIM-tmpbzwmr).
 
 ## How the account developed
 
@@ -300,11 +341,15 @@ direction each time:
 - ecology (U12);
 - measures (U13, U14);
 - the representation hypotheses (U15);
-- regulation (U16, U17).
+- regulation (U16, U17);
+- in the second share, governance of possibility (U18), its formal
+  version (U19), identity against adaptability (U20) and slow modes
+  (U21).
 
 A's contribution was the formal constructions and the successive
 versions of the thesis. The owner's own theses are U6's sloppy self,
-U10's team, U13 and U14's measures, and U16's regulation. U8's question
+U10's team, U13 and U14's measures, U16's regulation, and U20's
+tension between identity stabilization and adaptability. U8's question
 is also the owner's.
 
 ## Not stated on the record
