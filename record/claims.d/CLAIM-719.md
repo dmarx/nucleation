@@ -159,8 +159,8 @@ A postmortem's action items are an organization's own statement of what it will 
 No status changes.
 
 ## Note of 2026-11-22: completion not measurable from published documents
-<!-- inactive-ok-file: CASE-tmp1ya4r CLAIM-tmpst09o — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmp1ya4r — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
 
-The pilot of postmortems run for LEAD-119 (CASE-tmp1ya4r) coded action items by level but could not measure completion. None of the 30 public postmortems or the 10 CSB reports coded reports whether its items were carried out. The completion measure of this entry's note of 2026-11-18 needs data from outside the documents, such as the CSB's recommendation status records or an organization's tracker.
+The pilot of postmortems run for [LEAD-119](../leads.d/LEAD-119.md) ([CASE-tmp1ya4r](../cases.d/CASE-tmp1ya4r.md)) coded action items by level but could not measure completion. None of the 30 public postmortems or the 10 CSB reports coded reports whether its items were carried out. The completion measure of this entry's note of 2026-11-18 needs data from outside the documents, such as the CSB's recommendation status records or an organization's tracker.
 
 No status changes.

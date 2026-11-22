@@ -136,8 +136,8 @@ the carrier that reaches there.
   liability, not judgement of practices.
 
 ## Note of 2026-11-22: CSB reports alongside the Tempe report
-<!-- inactive-ok-file: CASE-tmp1ya4r CLAIM-tmpst09o — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmp1ya4r — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
 
-In the pilot CASE-tmp1ya4r, 7 of the 10 most recent CSB investigations, by a body outside the companies it investigates whose findings may not be used in damages suits, trace causes above the site's engineering. Five of them reach corporate governance or oversight, funding, or regulatory gaps, and 9 address recommendations above the team. One, PEMEX Deer Park, stops at site procedures. That is more instances of this claim's existence statement, not a test of its defeater, which needs blame-based processes on the same failures. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
+In the pilot [CASE-tmp1ya4r](../cases.d/CASE-tmp1ya4r.md), 7 of the 10 most recent CSB investigations, by a body outside the companies it investigates whose findings may not be used in damages suits, trace causes above the site's engineering. Five of them reach corporate governance or oversight, funding, or regulatory gaps, and 9 address recommendations above the team. One, PEMEX Deer Park, stops at site procedures. That is more instances of this claim's existence statement, not a test of its defeater, which needs blame-based processes on the same failures. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
 
 No status changes.
