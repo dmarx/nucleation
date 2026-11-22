@@ -51,6 +51,8 @@ entropy. No claim or case states a finite-memory error bound.
   kernel zero after lag 2); scalar MA zeros = closed-loop eigenvalues to
   2e-14; QUESTION-222's example: rate 0.9009 per step (h = 0.1).
 
+- Filed CLAIM-tmplsu2m (demonstrated, bears_on QUESTION-222, complements CLAIM-398).
+
 ## Next
 
 - File CLAIM (demonstrated), CASE, notes on QUESTION-222 and LEAD-084,
