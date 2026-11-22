@@ -168,3 +168,166 @@ is contingent upon the sign of excitatory-inhibitory balance b"; pp.
 of irregular attractors within the disordered region." Random Boolean
 network reservoirs, N up to 10000, varying K and balance b. A later
 qualification of the work's result, not a restatement of it.
+
+## Step 3: verdict, bearings, recheck (2026-11-22)
+
+### Verdict on the exchange's characterization
+
+- LIT-2991's summary ("Randomly connected threshold networks compute best
+  on time series near the transition between ordered and chaotic
+  dynamics") matches the abstract. Fair.
+- Authorship. A's "Bertschinger, Natschläger, and Legenstein" is not a
+  bare error: those three wrote the 2004 NIPS companion (N1). A conflated
+  the two 2004 papers. CLAIM-809's "Misattribution" bullet ("Legenstein is
+  an author of a separate paper with Maass (2007)") should instead, or
+  also, name N1. LIT-2991's status note "he is not one" stays right for
+  the NC paper.
+- CLAIM-809 strand 1 (ordered forgets; chaotic "separates but cannot be
+  read reliably"; near the transition both hold): supported in substance
+  by N1 §3-§4 (fading memory = order; chaos carries "spurious"
+  information about initial conditions; NM-separation subtracts f*, the
+  chaos-driven separation). Note the mechanism: chaos fails because
+  separation is polluted by initial conditions, not because of readout
+  noise.
+
+### Bearing on each named code
+
+- **QUESTION-507: supports one side, leaves the dilemma open.** The
+  abstract's claim ("only near the critical boundary can such networks
+  perform complex computations") is the "distinctive capacity" side, for
+  one class (driven random threshold networks) and one task family
+  (short-memory nonlinear Boolean filters). It does not test the
+  "redistribute a bounded capacity" side: no capacity total, no bound.
+  On **point 1 (which transition)** it adds something the record lacks:
+  the order-chaos line in these networks is defined by K·P_bf = 1 (N1
+  eq. 1), the expected number of nodes a single flipped bit flips in the
+  next step, i.e. a *branching ratio of perturbations (damage)* equal to
+  one. That is a formal bridge between the edge of chaos and branching
+  criticality, but of damage, not of activity: N1 Fig. 1 shows the mean
+  activity a* varying widely along the critical line (0.4 to 0.8). So the
+  two transitions are related by analogy of their order parameter, not
+  identified. (This reading of eq. 1 is the reader's, Claude's; the paper
+  does not draw it.) **Point 2 (measure)**: the measure is memory capacity
+  as summed MI on Boolean tasks, and NM-separation as predictor; one
+  measure family, both peaking at the line. **Point 3 (environment)**:
+  silent; input i.i.d. binary.
+- **CLAIM-809: qualifies (in tension with the headline, consistent with
+  the conditions).** The abstract's "only near the critical boundary"
+  and N1 §7's "general property of input driven dynamical systems" are
+  the universal reading the thesis rejects. But the design is what makes
+  the optimum land at the line: N1 §5 averages over "many different
+  tasks", and says a network "designed for a single task will not show a
+  good performance in this setup". That is a task-averaged optimum, which
+  the thesis allows ("A single task whose optimum sits at the transition
+  does not defeat it"); the paper does not report per-task optima or
+  allocation, so it neither defeats nor supports the redistribution
+  clause. The defeater asks for "every component ... maximized at the
+  transition for every task"; this work does not show per-task or
+  per-component maxima, so it does not meet it. Strand 1 is supported
+  (above). N2 (Calvet et al.) adds that in RBN reservoirs the peak
+  "does not consistently align" with the edge and lies "within the
+  disordered region" for some balances, which supports the thesis's
+  "best distance depends" clause against the work's "only near".
+- **CLAIM-814: parallel/contrast.** Different system (nonlinear,
+  high-dimensional, binary) and a different edge (damage spreading vs a
+  scalar's marginal linear stability). In CLAIM-814 the chaotic side does
+  not exist; in this work the failure past the edge is loss of fading
+  memory, a cost CLAIM-814's linear model cannot show. Nothing in it
+  bears on the scalar derivation.
+- **ARG-148: background/contrast.** ARG-148 notes its case leaves "the
+  trade of linear memory for nonlinear transformation" untouched; this
+  work is the classic case where nonlinear tasks (parity) are the test,
+  so it marks the territory ARG-148 says it does not reach. It does not
+  supply an existence case of redistribution.
+- **THEORY-tmpye6xs (Azizpour et al.): contrast.** Opposite transition
+  type and opposite direction: Azizpour's branching network has its
+  finite-window optimum subcritical; here the optimum sits on the
+  order-chaos line (N1's Fig. 3 shows performance near, and on parts of
+  the line on the chaotic side; read from the figure, not stated). Azizpour
+  itself says the side "will ... depend on both the task and the type of
+  phase transition", citing Toyoizumi & Abbott (LIT-tmpfn6b8) for the
+  chaotic side; this work is a further example on the order-chaos side,
+  with no finite-window analysis.
+
+### Limitations
+
+Body of the NC paper unread: its zero-mean model, its exact tasks,
+figures, network sizes and any caveats it states are not known here;
+everything beyond the abstract is through N1, a generalization by the
+same authors. N1's NM-separation is numerical, not analytic (fn. 4).
+Mean-field (annealed) theory; finite N = 500; tasks need memory of only a
+few steps; one input statistic; "performance near the line" is read from
+interpolated gray-scale images (Fig. 3 caption: "an interpolation between
+the data points").
+
+### Candidate THEORY sentence (for the neighbour N1, which was read)
+
+"Natschläger, Bertschinger and Legenstein show, by an annealed mean-field
+theory and simulation, that randomly connected networks of binary
+threshold gates driven by random binary input have an order-to-chaos line
+where a single input-bit flip propagates to on average one node
+(K·P_bf = 1), that a trained linear readout performs best on delayed
+parity and random Boolean functions of recent inputs, averaged over
+tasks, near that line, and that a separation measure corrected for
+initial-condition and immediate-input separation peaks there; a local
+synaptic-scaling rule drives networks to the line."
+promote_when: "An independent study or replication in driven random
+threshold or Boolean networks finds task-averaged readout performance on
+nonlinear functions of recent inputs maximal near the damage-spreading
+critical line K·P_bf = 1, and the corrected separation measure peaking
+there."
+
+For the unread work, a THEORY should wait for the text; at most its
+abstract's claim, marked unread.
+
+### Recheck (grep after reading)
+
+Terms searched: fading memory, separation property, Derrida, annealed
+approximation, Hamming distance, damage spreading, synaptic scaling,
+self-organized criticality, Bornholdt, Langton, liquid state, echo state,
+Jaeger, parity, random Boolean, Kauffman, order-to-chaos, onset of chaos.
+Held entries the first search missed, with bearing:
+
+- **CLAIM-850** (Proposed; chaos, criticality and cascades are distinct):
+  qualifies. The damage-branching condition K·P_bf = 1 is a case where an
+  order-chaos edge *is* a branching-ratio-one condition, of perturbations;
+  CLAIM-850 should note it as a "particular mechanism" by which chaos
+  onset and a critical branching meet, without activity being critical.
+- **QUESTION-508** (Open; why some systems reach scale invariance
+  untuned): bears via N1 §6, a local synaptic-scaling rule that
+  self-tunes to the edge of chaos, an SOC mechanism by adaptation of a
+  parameter, citing Bornholdt & Röhl (2003).
+- **LIT-1139** (Active; Gross & Blasius, adaptive coevolutionary networks
+  review): its note says "Bornholdt and Rohlf reverses one sentence";
+  same family of self-organization to the edge in threshold networks as
+  N1 §6 (N1 cites Bornholdt & Röhl 2003, PRE 67:066118, not held).
+- **ARG-128** (Proposed): records that Dambre's edge "takes the edge's
+  value as an assumption, citing Langton"; this work (via N1) is the
+  empirical support for that assumption in driven networks, and Langton
+  1990 is its ref. [1] too. Background.
+- **THEORY-2041** (Schoenholz et al.): parallel. Same Derrida-style
+  mean-field of two-trajectory correlation, for deep feedforward nets,
+  depth scale diverging at the order-chaos line; this is its recurrent,
+  input-driven, binary counterpart.
+- **THEORY-2158** (Dambre et al.): contrast. Dambre's bound would say a
+  driven threshold network's total capacity is ≤ N for any (µ, σ²); this
+  work reports a task-family performance, not a total, so the two do not
+  conflict, and the work cannot show that nearness raises the total.
+- **CLAIM-841** (a power law does not indicate criticality): no bearing
+  found beyond the topic.
+
+Not held, cited by N1, possibly worth registering: Langton 1990 (Physica D
+42); Derrida & Pomeau 1986 (Europhys. Lett. 1:45); Derrida 1987 (J. Phys.
+A 20:721); Maass, Natschläger & Markram 2002 (Neural Comput. 14(11));
+Jaeger & Haas 2004 (Science 304:78); Bornholdt & Röhl 2003 (PRE 67:066118);
+the mean-field supplement (unreachable, above).
+
+### Status recommendation for LIT-2991
+
+**Unavailable** (ADR-041): no lawful copy located; paywalled at the
+publisher; OpenAlex and S2 report closed. Caveat for the curation entry:
+igi-web.tugraz.at (TLS reset, 2026-11-22) and web.archive.org ("Blocked
+by egress policy", 2026-11-22) could not be searched, and the TU Graz
+Pure pages showed a Cloudflare challenge; any of them might hold an
+author copy. N1 to be filed as a neighbour (stand-in) with its own LIT,
+NOTE and THEORY (ADR-114); N2 as a supplement if its passage is quoted.
