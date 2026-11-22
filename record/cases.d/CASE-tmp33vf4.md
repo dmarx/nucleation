@@ -81,9 +81,9 @@ true positions, which no arm sees. Late is the last 1,000 of 3,000 steps.
 
 ## What it can show
 
-- **Consistency without accuracy.** Revision by disagreement drives the
-  radius below its pre-jump level and leaves the error where fixed maps leave
-  it. A common shift of every map, with the state shifted back, changes no
+- **Consistency without accuracy.** Revision by disagreement brings the
+  radius back near its level before the jump (0.10 against 0.09) and leaves
+  the error where fixed maps leave it. A common shift of every map, with the state shifted back, changes no
   residual (a test checks it), so disagreement cannot see the part of the drift
   that moves the whole network. This is THEORY-1088's "learning to lie" in a
   sensor network, with no collapse needed: the guards that stop collapse do
