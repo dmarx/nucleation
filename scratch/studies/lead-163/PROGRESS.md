@@ -8,7 +8,11 @@
 
 - Step 1: checked the record. No entry fills the slot (grep for CLAIM-615, "unrelated workshop", "changes garages"); not held.
 
+- Step 2: read premises (CLAIM-611, 329, 593, 280, 522, ARG-075). Slot = whether "that organization" names the relations transmitted or the maintainer; the admission case slides from one to the other.
+- Choice: two defensible fillings, filed as alternatives. (a) CLAIM-tmp5koor: maintainer is a channel, never what is transmitted. (b) CLAIM-tmp68okc: maintainer's organization counts insofar as the thing does not carry it (non-substitutable). Both defuse the car/garage case; they part on organization held only by maintainers (software roadmap). One shared ARG-tmplptzc (analogy from CLAIM-329's newcomers: restoration from the thing is transmission through it) concludes both.
+- Filed CLAIM-tmp5koor.
+
 ## Next
 
-- Read premises (CLAIM-611, 329, 593, 280, 152, ARG-075).
-- File the claim(s), ARG(s), notes on CLAIM-615 and LEAD-163, changelog.
+- File CLAIM-tmp68okc, ARG-tmplptzc.
+- Notes on CLAIM-615, CLAIM-611, LEAD-163; changelog fragment.
