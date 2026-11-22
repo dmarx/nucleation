@@ -52,6 +52,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-100 — Proposed; the accounts this methodological point bears on, named in prose, no relation claimed -->
 <!-- inactive-ok-file: THEORY-098 THEORY-103 — Proposed; filed in the same batch and named in Connections -->
+<!-- inactive-ok-file: THEORY-tmpvkp5f THEORY-tmpbu9we — Proposed; the readings of LEAD-112 cited in the note of 2026-11-22 -->
 
 # THEORY-094: Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does
 
@@ -173,3 +174,27 @@ standard no-report paradigm. Block argues from the situation, not from a
 measurement, that uninstructed subjects form percept-aligned thoughts,
 and Brascamp et al. (2015), the one design he offers, is held only as he
 reports it.
+
+## Note of 2026-11-22: Brascamp et al. and Kapoor et al., read
+
+LEAD-112 read the two works this account's promote_when names first.
+
+- **Brascamp, Blake and Knapen 2015** (LIT-tmp5rny4, NOTE-tmprcujk,
+  THEORY-tmpvkp5f) supports the account's diagnosis for switch-related
+  signals: with switches detected at chance, fronto-parietal switch BOLD
+  matched a response proportional to reportability, "suggesting that no
+  part of these assemblies' BOLD response reflects a neural cause of
+  perceptual switches". It does not meet the promote_when, which asks for
+  "percept-specific prefrontal content" recorded with
+  "electrocorticography or microelectrode arrays".
+- **Kapoor et al. 2022** (LIT-tmpnsyqi, NOTE-tmplluya, THEORY-tmpbu9we),
+  Panagiotaropoulos's group, recorded that content with microelectrode
+  arrays in rivalry without report, but with switches "unreported but
+  clearly occurring". So it is the kind of no-report design this account
+  says leaves post-perceptual cognition in place. It meets neither the
+  promote_when nor the refutation, which needs the content "unchanged when
+  the change is made inconspicuous, at matched sensitivity".
+
+The decisive study would put Brascamp et al.'s display in front of Kapoor
+et al.'s arrays. The search found none (scratch/studies/lead-112/search.md).
+Frässle et al. 2014 is still unread. No status change.

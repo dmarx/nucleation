@@ -47,6 +47,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-090 THEORY-101 — Proposed; accounts that assign a function to felt states, named as where this one bears, no relation claimed -->
 <!-- inactive-ok-file: THEORY-094 THEORY-103 — Proposed; filed in the same batch, named in prose and Connections -->
 <!-- inactive-ok-file: THEORY-100 — Proposed; named in Connections for the same distinction applied to report, no relation claimed -->
+<!-- inactive-ok-file: LIT-tmpz7h9h LIT-tmpl6qwr THEORY-tmpb3deq — Deferred or Proposed; registrations and readings of LEAD-112 cited in the note of 2026-11-22 -->
 
 # THEORY-091: A deficit in which consciousness and a capacity are lost together does not show that the capacity is a function of phenomenal consciousness, since access is lost too and the capacity is one the machinery of access has
 
@@ -157,3 +158,16 @@ either account further.
 - **[THEORY-100](THEORY-100.md)** states, for crows, that a report paradigm cannot
   separate access from phenomenal consciousness. That limit is the
   distinction drawn here, applied to report.
+
+## Note of 2026-11-22: no superblindsight case found, and blindsight itself contested
+
+LEAD-112 searched Europe PMC for the case this account's promote_when
+names. "Superblindsight" returns a 2004 commentary and a philosophy paper
+and nothing empirical (scratch/studies/lead-112/search.md, E1); trained or
+cued blindsight with experience denied did not turn up (E2). Two works
+registered unread argue that blindsight is "qualitatively degraded conscious
+vision" (Phillips 2021, LIT-tmpz7h9h; Overgaard et al. 2008,
+LIT-tmpl6qwr). If they are right, blindsight is not a case where experience
+is missing, and superblindsight would have to start from a deficit not yet
+found. The split brain (THEORY-tmpb3deq) is a deficit of the same pattern:
+access divides, experience is undetermined. No status change.

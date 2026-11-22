@@ -43,6 +43,7 @@ summary: >-
 answers:
 - QUESTION-061
 ---
+<!-- inactive-ok-file: LIT-tmpblnvk THEORY-tmpb3deq ARG-tmpymket — Proposed or Unfetched; the reading, registration and argument of LEAD-112, cited in the note of 2026-11-22 -->
 
 # CLAIM-003: A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it
 
@@ -95,3 +96,16 @@ simultaneously conscious workspaces", limits what the case shows; it is
 not a reason to set the claim aside. So the claim is Proposed again,
 with [QUESTION-061](../questions.d/QUESTION-061.md), which asks its brain half and is Open from the same
 date. Its evidence is unchanged.
+
+## Note of 2026-11-22: the split brain as evidence for the access half
+
+From LEAD-112. de Haan et al. 2020 (LIT-tmpsc6mi, NOTE-tmpbwyy5,
+THEORY-tmpb3deq), read as a stand-in for Pinto et al. 2017 (LIT-tmpblnvk):
+"Perception appears to be more split, while responding remains largely
+unified." ARG-tmpymket argues that this supports the claim's access half,
+narrowed to a disconnected brain and conditional on the patient being one
+agent, which the review's authors leave open; under the two-agent reading
+it is the claim's own defeater, "access by a different workspace". It says
+nothing on "conscious experience can as well". THEORY-tmpb3deq
+`corroborates` the claim, as independent evidence it does not rest on. The
+claim is unchanged.

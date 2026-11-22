@@ -58,6 +58,12 @@ is logged in search.md. Services: Europe PMC REST, arXiv, OpenAlex, no email.
   CLAIM-003).
 - Checks: scratchpad check.py (YAML, title, H1, excuses) and quotes.py (every
   quotation against the downloaded text).
+- Filed de Haan (stand-in): LIT-tmpsc6mi, NOTE-tmpbwyy5, THEORY-tmpb3deq
+  (corroborates CLAIM-003), ARG-tmpymket; LIT-tmpblnvk -> Unfetched.
+- Dated notes of 2026-11-22 on QUESTION-048, QUESTION-061, CLAIM-003,
+  CLAIM-039, THEORY-091, THEORY-094, LEAD-112. Changelog fragment
+  record/changelog.d/lead-112.md. Narrow luria.ref_status scan of the changed
+  files: dangling 0, unused 0, lost 0.
 
 ## Choices made
 
