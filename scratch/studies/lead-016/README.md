@@ -57,7 +57,7 @@ largest share in R. From the snapshot:
 ## Rerun
 
     python3 -m pytest -q test_opmodel.py
-    for r in moe moe_aux moe_bias rep uniform; do python3 -I study.py $r 12 & done; wait
+    for r in moe moe_aux moe_bias rep uniform; do python3 -I study.py $r 6 & done; wait
     python3 -I analyze.py
     python3 -I residual.py   # the R specialist's residual direction (QUESTION-135)
 
