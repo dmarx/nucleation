@@ -33,8 +33,8 @@ bears_on:
 
 ## Source
 
-Frischmann and Benesch (2023), LIT-tmpjbd64, 25 Yale J.L. & Tech. 376;
-read in NOTE-tmpyjyrt.
+Frischmann and Benesch (2023), [LIT-tmpjbd64](../literature.d/LIT-tmpjbd64.md), 25 Yale J.L. & Tech. 376;
+read in [NOTE-tmpyjyrt](../notes.d/NOTE-tmpyjyrt.md).
 
 ## What was actually shown
 
@@ -60,7 +60,7 @@ security warnings) or companies' own reports (WhatsApp, Twitter).
 - That friction opens a point at which anyone other than the person
   passing can intervene. Its friction is chiefly for that person's own
   deliberation; the gates it describes let the party that set them check
-  the person passing, not the reverse. It is not evidence for CLAIM-710's
+  the person passing, not the reverse. It is not evidence for [CLAIM-710](../claims.d/CLAIM-710.md)'s
   procedural friction between parties.
 - That any measure works. The article asks for the research.
 - That the First Amendment test of content neutrality settles which
@@ -68,9 +68,9 @@ security warnings) or companies' own reports (WhatsApp, Twitter).
 
 ## Bearing
 
-Corroborates CLAIM-715's premise (friction aimed at individuals'
+Corroborates [CLAIM-715](../claims.d/CLAIM-715.md)'s premise (friction aimed at individuals'
 thinking leaves the institution's authority untouched): even friction the
 state would impose is imposed on users' deliberation. Bears on
-QUESTION-471 through the seam distinction. Bears without a relation on
-CLAIM-710 and TERM-125, and on THEORY-1937 as the same programme given a
+[QUESTION-471](../questions.d/QUESTION-471.md) through the seam distinction. Bears without a relation on
+[CLAIM-710](../claims.d/CLAIM-710.md) and [TERM-125](../terms.d/TERM-125.md), and on [THEORY-1937](THEORY-1937.md) as the same programme given a
 regulator; see the NOTE.

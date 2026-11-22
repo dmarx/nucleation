@@ -137,7 +137,7 @@ externality); active choosing by default.
 
 ## Connections
 
-- Natali, Naiseh, Cabitza and Frischmann (LIT-2687, NOTE-2033) cite this
+- Natali, Naiseh, Cabitza and Frischmann ([LIT-2687](../literature.d/LIT-2687.md), [NOTE-2033](NOTE-2033.md)) cite this
   article as the regulatory form of designed friction. The two share the
   cognitive aim (deliberation against automatic behaviour); this article
   adds the question of who imposes friction and by what authority, which
@@ -153,7 +153,7 @@ externality); active choosing by default.
 
 ## Bearing on the record
 
-- **CLAIM-710** (the owner's: procedural friction exposes, or perhaps
+- **[CLAIM-710](../claims.d/CLAIM-710.md)** (the owner's: procedural friction exposes, or perhaps
   characterizes, opportunity for intervention). The article's sentence
   "that friction provides opportunity/space for governance" is the owner's
   "exposes" in another vocabulary, stated as a premise, with no evidence.
@@ -169,7 +169,7 @@ externality); active choosing by default.
   party. Whose intervention a gate exposes is a separate question from
   whether it exposes one. Bearing: a parallel and a qualification; no
   relation, the article giving no evidence.
-- **TERM-125** (independent execution gate, distinct from execution
+- **[TERM-125](../terms.d/TERM-125.md)** (independent execution gate, distinct from execution
   impedance and from an intervention opportunity). The speed bump and the
   checkpoint are the term's impedance and gate, and Frischmann and Ohm's
   "governance seam" is a precedent in the literature for the line the term
@@ -178,30 +178,30 @@ externality); active choosing by default.
   could list: friction-in-design, friction "with a functional purpose" set
   by a designer. Whether to cite the seam as the term's precedent is the
   owner's call.
-- **CLAIM-715** (cognitive friction differs from friction that makes the
+- **[CLAIM-715](../claims.d/CLAIM-715.md)** (cognitive friction differs from friction that makes the
   institution answerable). Corroborates its premise from the regulatory
   side. Nearly every measure here acts on the user's deliberation (alerts,
   comprehension checks, delays to "stop and think"); none gives users a
   way to stop or redirect the platform. Even where the state imposes the
-  friction, what it imposes is on users' thinking. THEORY-tmp2j2zm carries
+  friction, what it imposes is on users' thinking. [THEORY-tmp2j2zm](../theory.d/THEORY-tmp2j2zm.md) carries
   `corroborates`.
-- **CLAIM-731** (friction moves from imposing a decision to contesting
+- **[CLAIM-731](../claims.d/CLAIM-731.md)** (friction moves from imposing a decision to contesting
   it). A parallel, not evidence: the iPhone setting, where only the path
   away from the default carries friction, and friction used "to fatigue
   consumers and raise impediments to behaviors that challenge business
   models", are consumer-design cases of the same asymmetry. No relation.
-- **CLAIM-711** (standing constraints set slowly in advance can keep a
+- **[CLAIM-711](../claims.d/CLAIM-711.md)** (standing constraints set slowly in advance can keep a
   process interruptible without delaying it). Background: the
   content-neutral triggers the article proposes (a forward count, a
   border, social-graph distance) are standing rules set in advance; they
-  delay what they catch and leave the rest alone, the shape CLAIM-711
+  delay what they catch and leave the rest alone, the shape [CLAIM-711](../claims.d/CLAIM-711.md)
   describes. The article does not discuss interruptibility. No relation.
-- **QUESTION-471** (which of a record's checks are points at which an
+- **[QUESTION-471](../questions.d/QUESTION-471.md)** (which of a record's checks are points at which an
   incorporation can still be stopped). The seam distinction is the
   question's own: a check that blocks passage until a condition is shown
   is a point of stopping; a cost that slows passage is not. Relation:
-  THEORY-tmp2j2zm `bears_on` QUESTION-471.
-- **THEORY-1937** (Natali et al.): the same cognitive programme, here given
+  [THEORY-tmp2j2zm](../theory.d/THEORY-tmp2j2zm.md) `bears_on` [QUESTION-471](../questions.d/QUESTION-471.md).
+- **[THEORY-1937](../theory.d/THEORY-1937.md)** (Natali et al.): the same cognitive programme, here given
   a regulator.
 
 No instruction for machine-learning practice; nothing for the anthology.

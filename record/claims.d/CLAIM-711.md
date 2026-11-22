@@ -204,4 +204,4 @@ without slowing each decision, as CLAIM-711 says is possible. Relation: corrobor
 
 ## Note of 2026-11-22: Frischmann and Benesch, read
 
-Background, not evidence (LIT-tmpjbd64, NOTE-tmpyjyrt). The content-neutral regulations Frischmann and Benesch sketch are standing rules set in advance, with triggers (a count of forwards, a border, social-graph distance) that delay what they catch and leave the rest alone (pp. 437–42): the shape this claim describes. They justify them by the deliberation they allow, not by interruptibility, and report no test. Relation: none. No status changes.
+Background, not evidence ([LIT-tmpjbd64](../literature.d/LIT-tmpjbd64.md), [NOTE-tmpyjyrt](../notes.d/NOTE-tmpyjyrt.md)). The content-neutral regulations Frischmann and Benesch sketch are standing rules set in advance, with triggers (a count of forwards, a border, social-graph distance) that delay what they catch and leave the rest alone (pp. 437–42): the shape this claim describes. They justify them by the deliberation they allow, not by interruptibility, and report no test. Relation: none. No status changes.

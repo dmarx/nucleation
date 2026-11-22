@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read 2026-11-22 for LEAD-152 in the published PDF on the journal's own
+  Read 2026-11-22 for [LEAD-152](../leads.d/LEAD-152.md) in the published PDF on the journal's own
   site (yjolt.org), 72 pages, in full except Part III.A (the case law on
   time, place and manner), which was skimmed. NOTE and THEORY filed.
 title: 'Friction-In-Design Regulation as 21st Century Time, Place, and Manner Restriction'
@@ -64,10 +64,10 @@ summary: >-
   in passing that "friction provides opportunity/space for governance" and
   points to Frischmann and Ohm's "governance seams", which separate a
   checkpoint that enables governance from a speed bump that does not. That
-  is the distinction TERM-125 draws. It reports
+  is the distinction [TERM-125](../terms.d/TERM-125.md) draws. It reports
   no evidence of its own and asks for research. It bears on
-  CLAIM-710, CLAIM-715
-  and QUESTION-471. Read 2026-11-22.
+  [CLAIM-710](../claims.d/CLAIM-710.md), [CLAIM-715](../claims.d/CLAIM-715.md)
+  and [QUESTION-471](../questions.d/QUESTION-471.md). Read 2026-11-22.
 ---
 <!-- inactive-ok-file: CLAIM-710 CLAIM-715 TERM-125 — Proposed; the entries this reading bears on -->
 <!-- inactive-ok-file: THEORY-tmp2j2zm — new, Proposed; the account filed from the reading of 2026-11-22 -->
@@ -100,8 +100,8 @@ Brett Frischmann and Susan Benesch (2023). *Friction-In-Design Regulation as 21s
 
 ## Standing in the record
 
-Registered and read for LEAD-152, from the
-reading of Natali et al. (NOTE-2033), which
+Registered and read for [LEAD-152](../leads.d/LEAD-152.md), from the
+reading of Natali et al. ([NOTE-2033](../notes.d/NOTE-2033.md)), which
 called it the regulatory form of designed friction and "worth
-registering". See NOTE-tmpyjyrt and
-THEORY-tmp2j2zm.
+registering". See [NOTE-tmpyjyrt](../notes.d/NOTE-tmpyjyrt.md) and
+[THEORY-tmp2j2zm](../theory.d/THEORY-tmp2j2zm.md).
