@@ -175,3 +175,27 @@ leads filed with this one.
 Each work fetched becomes readable, and the reading leads that list it can
 proceed. A work still refused is recorded as such, and the owner can
 supply a copy.
+
+## Note of 2026-11-22: the REST route run
+
+All 48 works were looked up through Europe PMC's REST API alone, with no
+email in any request; the script and its table are in
+`scratch/studies/lead-118/`. None has open full text by that route: 31 are
+held as abstracts only (a PMID, no PMCID), 5 are not in Europe PMC
+(LIT-1485, LIT-1947, LIT-2113, LIT-2384, LIT-2686), and 12 have a PMCID
+whose `fullTextXML` answers HTTP 500 (LIT-180, LIT-1557, LIT-1565,
+LIT-1572, LIT-1573, LIT-1586, LIT-1602, LIT-1611, LIT-1612, LIT-1715,
+LIT-2462, LIT-2812). Those 12 are free to read at PMC but outside the
+open-access subset, which is all the route serves: a control article in the
+subset was served in the same session. Four works have a bioRxiv preprint
+indexed (LIT-1158, LIT-1572, LIT-1602, LIT-2176), refused by the route the
+same way; their bioRxiv PDFs are lawful copies of the preprints, not
+fetched. Each of the 14 refused or preprint-bearing LITs carries a dated
+note. Nothing was read, so no status changed.
+
+What it changes: the REST route ADR-101 admitted does not unblock any of
+the leads that wait on this one (LEAD-051, LEAD-092, LEAD-120, LEAD-124,
+LEAD-138, LEAD-161). What remains is the owner's: supply copies, or decide
+whether a preprint copy may stand in for the published version (LIT-1572
+and LIT-1602 for LEAD-138; LIT-1158; LIT-2176), or whether PMC's own
+interface may be tried again by another route.

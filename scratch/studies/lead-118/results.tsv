@@ -1,0 +1,49 @@
+code	identifier	pmid	pmcid	isOpenAccess	fulltext_http	result	obstacle
+LIT-180	doi:10.1073/pnas.51.5.956	16591178	PMC300191	N	500	obstacle	fullTextXML HTTP 500
+LIT-387	doi:10.1162/neco_a_01521	35896152		N		abstract-only	
+LIT-494	doi:10.1177/1088868317698288	28504021		N		abstract-only	
+LIT-1030	doi:10.1016/j.biosystems.2026.105928	42637075		N		abstract-only	
+LIT-1158	doi:10.1126/science.aam9868	29123069		N		abstract-only	
+LIT-1205	doi:10.1176/appi.psychotherapy.2015.69.2.141	26160620		N		abstract-only	
+LIT-1211	doi:10.1016/j.concog.2026.104003	41637896		N		abstract-only	
+LIT-1224	doi:10.1002/jclp.23735	39056514		N		abstract-only	
+LIT-1445	doi:10.1080/02699930302294	29715724		N		abstract-only	
+LIT-1485	doi:10.1177/2053168019892436					not-found	
+LIT-1557	doi:10.1073/pnas.1118800109	22371600	PMC3325729	N	500	obstacle	fullTextXML HTTP 500
+LIT-1563	doi:10.1016/j.cell.2014.07.047	25175626		N		abstract-only	
+LIT-1565	doi:10.1016/j.cub.2011.06.051	21835622	PMC3169327	N	500	obstacle	fullTextXML HTTP 500
+LIT-1567	doi:10.1016/j.cub.2016.03.053	27185558		N		abstract-only	
+LIT-1569	doi:10.1016/j.cell.2013.05.040	23791183		N		abstract-only	
+LIT-1572	doi:10.1073/pnas.1603910113	27573819	PMC5027413	N	500	obstacle	fullTextXML HTTP 500
+LIT-1573	doi:10.1073/pnas.93.7.2873	8610134	PMC39726	N	500	obstacle	fullTextXML HTTP 500
+LIT-1586	doi:10.1073/pnas.1712321115	29279407	PMC5777040	N	500	obstacle	fullTextXML HTTP 500
+LIT-1602	doi:10.1016/j.cub.2017.10.008	29129532	PMC8879801	N	500	obstacle	fullTextXML HTTP 500
+LIT-1611	doi:10.1101/gr.091785.109	19502381	PMC2720180	N	500	obstacle	fullTextXML HTTP 500
+LIT-1612	doi:10.1073/pnas.1421386112	26286984	PMC4547289	N	500	obstacle	fullTextXML HTTP 500
+LIT-1621	doi:10.1016/j.cub.2008.02.051	18356055		N		abstract-only	
+LIT-1692	doi:10.1016/j.biopsych.2015.08.005	26410355		N		abstract-only	
+LIT-1715	doi:10.1002/wps.20568	30192087	PMC6127768	N	500	obstacle	fullTextXML HTTP 500
+LIT-1764	doi:10.1038/sj.ejhg.5201538	16391557		N		abstract-only	
+LIT-1829	doi:10.1080/00224545.2010.522622	22208111		N		abstract-only	
+LIT-1947	doi:10.1142/S270507852150003X					not-found	
+LIT-2004	doi:10.1146/annurev-psych-081920-042106	33006924		N		abstract-only	
+LIT-2088	doi:10.1037/bul0000481	40455501		N		abstract-only	
+LIT-2113	doi:10.1002/admt.202400707					not-found	
+LIT-2176	doi:10.1111/brv.13025	37844577		N		abstract-only	
+LIT-2227	doi:10.1111/j.1469-7610.1976.tb00381.x	932126		N		abstract-only	
+LIT-2328	doi:10.1073/pnas.2536158123	42814542		N		abstract-only	
+LIT-2351	doi:10.64898/2026.06.05.730225			N		abstract-only	
+LIT-2384	doi:10.25172/smulr.78.3.11					not-found	
+LIT-2391	doi:10.1111/bioe.13423	40317799		N		abstract-only	
+LIT-2395	doi:10.1146/annurev-ento-121423-013425	41056370		N		abstract-only	
+LIT-2396	doi:10.1146/annurev-cellbio-101323-032747	40829786		N		abstract-only	
+LIT-2398	doi:10.1146/annurev-ento-121423-013603	40924998		N		abstract-only	
+LIT-2417	doi:10.1016/j.it.2026.03.015	42067422		N		abstract-only	
+LIT-2439	doi:10.1016/j.nbd.2022.105892	36240949		N		abstract-only	
+LIT-2453	doi:10.1073/pnas.2600684123	42735311		N		abstract-only	
+LIT-2462	doi:10.1016/j.immuni.2025.08.005	40902588	PMC12412910	N	500	obstacle	fullTextXML HTTP 500
+LIT-2466	doi:10.1016/j.jri.2025.104826	41447969		N		abstract-only	
+LIT-2671	doi:10.1177/15248380261462179	42522507		N		abstract-only	
+LIT-2686	doi:10.1177/00018392241236163					not-found	
+LIT-2690	doi:10.1177/15248380261476693	42670680		N		abstract-only	
+LIT-2812	doi:10.1126/science.1194869	21051599	PMC3138194	N	500	obstacle	fullTextXML HTTP 500
