@@ -37,8 +37,10 @@ training input g=0).
   substitution/suppression models; no restriction-loop model exists).
 - Branch cut, PROGRESS pushed.
 
+- Step 3: wrote restriction_trap.py (model + 4 results) + pytest (8 pass).
+  All numbers reproduce. README added.
+
 ## Next
 
-- Write restriction_trap.py (model + demonstration), pytest, run.
-- File: CASE (executed-study), CLAIM (finding), notes on CLAIM-721/605/LEAD-104,
-  changelog fragment.
+- File: CASE (executed-study), CLAIM (finding, Proposed), dated notes on
+  CLAIM-721/605 and LEAD-104, changelog fragment.
