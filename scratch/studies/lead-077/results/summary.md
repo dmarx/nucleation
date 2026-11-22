@@ -87,9 +87,28 @@ Post-reversal held-out MSE (episodes 42–83), mean over seeds; governance (G) a
 
 | tau | n | fixed | oracle | governance | conformity | router |
 |---|---|---|---|---|---|---|
-| 0.03 | 7 | 0.2554 (0.25) | 0.1495 (0.00) | 0.1652 (0.00) | 0.2170 (0.04) | 0.1700 (0.01) |
+| 0.03 | 12 | 0.2484 (0.25) | 0.1472 (0.00) | 0.1619 (0.00) | 0.2156 (0.09) | 0.1676 (0.01) |
+| 0.1 | 12 | 0.2484 (0.25) | 0.1472 (0.00) | 0.1619 (0.00) | 0.2143 (0.06) | 0.1648 (0.01) |
+| 0.3 | 12 | 0.2484 (0.25) | 0.1472 (0.00) | 0.1594 (0.04) | 0.2140 (0.14) | 0.1553 (0.05) |
 
-- tau 0.03: governance vs router: pre-reversal diff -0.0078 (G wins 7); post: governance wins 7/7, mean diff -0.0049 (sd 0.0028), sign p = 0.0156
+- tau 0.03: governance vs router: pre-reversal diff -0.0099 (G wins 12); post: governance wins 12/12, mean diff -0.0057 (sd 0.0025), sign p = 0.000488
+- tau 0.1: governance vs router: pre-reversal diff -0.0073 (G wins 11); post: governance wins 10/12, mean diff -0.0030 (sd 0.0021), sign p = 0.0386
+- tau 0.3: governance vs router: pre-reversal diff -0.0081 (G wins 12); post: governance wins 1/12, mean diff +0.0041 (sd 0.0029), sign p = 0.00635
+
+## full_rr
+
+| tau | n | fixed | oracle | governance | conformity | router | router_region |
+|---|---|---|---|---|---|---|---|
+| 0.03 | 12 | 0.2484 (0.25) | 0.1472 (0.00) | 0.1626 (0.00) | 0.2762 (0.04) | 0.1688 (0.01) | 0.1584 (0.00) |
+| 0.1 | 12 | 0.2484 (0.25) | 0.1472 (0.00) | 0.1625 (0.00) | 0.2767 (0.02) | 0.1660 (0.01) | 0.1575 (0.00) |
+| 0.3 | 12 | 0.2484 (0.25) | 0.1472 (0.00) | 0.1557 (0.03) | 0.2656 (0.02) | 0.1534 (0.05) | 0.1478 (0.04) |
+
+- tau 0.03: governance vs router: pre-reversal diff -0.0101 (G wins 12); post: governance wins 12/12, mean diff -0.0062 (sd 0.0029), sign p = 0.000488
+- tau 0.1: governance vs router: pre-reversal diff -0.0078 (G wins 11); post: governance wins 11/12, mean diff -0.0034 (sd 0.0023), sign p = 0.00635
+- tau 0.3: governance vs router: pre-reversal diff -0.0070 (G wins 12); post: governance wins 1/12, mean diff +0.0023 (sd 0.0022), sign p = 0.00635
+- tau 0.03: governance vs router_region: pre-reversal diff -0.0000 (G wins 12); post: governance wins 0/12, mean diff +0.0042 (sd 0.0017), sign p = 0.000488
+- tau 0.1: governance vs router_region: pre-reversal diff +0.0000 (G wins 0); post: governance wins 0/12, mean diff +0.0050 (sd 0.0017), sign p = 0.000488
+- tau 0.3: governance vs router_region: pre-reversal diff -0.0005 (G wins 12); post: governance wins 0/12, mean diff +0.0079 (sd 0.0015), sign p = 0.000488
 
 
 ## Each method at its best pre-reversal temperature
@@ -105,4 +124,6 @@ Post-reversal held-out MSE (episodes 42–83), mean over seeds; governance (G) a
 | scale | governance vs router_std | 0.1 | 0.3 | 0.1450 | 0.1517 | 0.1609 | 0.1608 | 6/12 | 1 |
 | scale | governance_raw vs router | 0.1 | 0.1 | 0.2346 | 0.2035 | 0.2402 | 0.2118 | 0/12 | 0.000488 |
 | cycles | governance vs router | 0.3 | 0.3 | 0.2100 | 0.1953 | 0.2098 | 0.1949 | 0/12 | 0.000488 |
-| training | governance vs router | 0.03 | 0.03 | 0.1525 | 0.1603 | 0.1652 | 0.1700 | 7/7 | 0.0156 |
+| training | governance vs router | 0.3 | 0.3 | 0.1379 | 0.1459 | 0.1594 | 0.1553 | 1/12 | 0.00635 |
+| full_rr | governance vs router | 0.3 | 0.3 | 0.1374 | 0.1444 | 0.1557 | 0.1534 | 1/12 | 0.00635 |
+| full_rr | governance vs router_region | 0.3 | 0.3 | 0.1374 | 0.1378 | 0.1557 | 0.1478 | 0/12 | 0.000488 |

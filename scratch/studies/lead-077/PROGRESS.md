@@ -20,6 +20,24 @@
 - Grid launched 13:02 UTC: 7 arms x 3 gate temperatures x 12 seeds, one
   JSONL line per (arm, tau, seed) in results/runs.jsonl; resumable.
 
+- Grid complete: 288 items (8 arms x 3 tau x 12 seeds), results/runs.jsonl
+  (curves stripped to stay under 1 MB), results/summary.md. Two runs were
+  killed by a signal from outside (exit 144) and resumed from the file.
+
+## Headline
+
+- Full information: governance beats the contextual router at tau 0.03 and
+  0.1 (12/12, 11/12) but loses at tau 0.3 (1/12), the best pre-reversal tau
+  for both; a router seeing only the region id beats governance 0/12 at
+  every tau. Governance's edge was the contextual router's noisy per-item
+  gate, not anything governance uses.
+- Cycles: router 12/12 (per-item routing). Capture 80%: router 12/12 at
+  every tau. Scale: governance (self-standardized) beats a raw router 12/12
+  but ties a router given the same standardization (6/12). Bandit: naive
+  governance loses; with a 10% audit floor at tau 0.3 it beats the router
+  with the same floor 12/12, but not the router without one. Training: as
+  full, no entrenchment of either.
+
 ## Choices made
 
 - Router = per-specialist linear score predictor (ridge, forgetting 0.7) on
@@ -38,7 +56,6 @@
 
 ## Next
 
-- Finish the grid, analyze, commit results.
 - File CASE (executed-study), CLAIM if warranted, dated notes on CASE-158,
   QUESTION-271, CLAIM-467, QUESTION-264, QUESTION-089, CLAIM-277, CLAIM-342,
   CLAIM-286, LEAD-077; changelog fragment.

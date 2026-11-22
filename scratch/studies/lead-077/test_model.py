@@ -94,4 +94,4 @@ def test_cycles_environment_has_intransitive_duels():
 def test_run_item_smoke():
     rec = study.run_item('bandit', 0, 0.1)
     assert rec['oracle']['post'] < rec['fixed']['post']
-    assert len(rec['curves']['router']) == study.E
+    assert 'curves' not in rec and rec['n_probe_audits'] == study.NPROBE * 4 * study.E

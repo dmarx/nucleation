@@ -203,7 +203,7 @@ def run_item(arm, seed, tau=0.1):
         rec[m] = {'pre': float(c[h - 10:h].mean()), 'post': float(c[h:].mean()),
                   'last10': float(c[-10:].mean()), 'serve_old_post': float(np.mean(serve_old[m])),
                   'serve_old_last10': float(np.mean(serve_old[m][-10:]))}
-    rec['curves'] = {m: [round(x, 5) for x in curve[m]] for m in methods}
+    # per-episode curves are left out of the results file to keep it under 1 MB
     return rec
 
 
