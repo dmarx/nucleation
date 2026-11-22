@@ -169,13 +169,13 @@ No status, title or warrant changes.
 
 Rechecked after [LIT-1905](../literature.d/LIT-1905.md) (Massumi) was filed and read on 2026-10-31. As the note of that date says, Massumi's affect is not a Frijda-style characterization and says nothing about action readiness, so it does not answer [THEORY-101](../theory.d/THEORY-101.md)'s identity of hedonic valence with a felt regulatory state. That objection still holds the claim, as the note of 2026-10-29 states.
 
-## Note of 2026-11-22: what LEAD-112 found for the separation this claim needs
+## Note of 2026-11-22: what [LEAD-112](../leads.d/LEAD-112.md) found for the separation this claim needs
 
-QUESTION-048 says this claim "needs functional affect to come apart from
-experience". LEAD-112 searched for cases where access and experience come
+[QUESTION-048](../questions.d/QUESTION-048.md) says this claim "needs functional affect to come apart from
+experience". [LEAD-112](../leads.d/LEAD-112.md) searched for cases where access and experience come
 apart, kind by kind, and found none that separates them: each case read
-follows access and leaves experience undetermined (QUESTION-048, note of
-the same date). The nearest is the split brain (THEORY-tmpb3deq), where
+follows access and leaves experience undetermined ([QUESTION-048](../questions.d/QUESTION-048.md), note of
+the same date). The nearest is the split brain ([THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)), where
 response selection stays unified while perception divides and the subject's
 unity is undecided: a functional unity with experience left open, but for
 action control, not affect. No reading bears on functional affect itself,

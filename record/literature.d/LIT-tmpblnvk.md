@@ -1,13 +1,13 @@
 ---
 status: Unfetched
 status_note: >-
-  searched 2026-11-22 for LEAD-112. A lawful copy was located and not
+  searched 2026-11-22 for [LEAD-112](../leads.d/LEAD-112.md). A lawful copy was located and not
   read: Europe PMC lists a free PDF from the publisher at
   https://academic.oup.com/brain/article-pdf/140/5/1231/18223376/aww358.pdf,
   which returned HTTP 403 with a Cloudflare "Just a moment..." challenge on
   2026-11-22. Stopped there, not retried. Europe PMC gives no PMC copy.
-  de Haan et al. 2020 (LIT-tmpsc6mi), a review with Pinto among its
-  authors, was read as a stand-in (ADR-114); it restates this work's
+  de Haan et al. 2020 ([LIT-tmpsc6mi](LIT-tmpsc6mi.md)), a review with Pinto among its
+  authors, was read as a stand-in ([ADR-114](../decisions.d/ADR-114.md)); it restates this work's
   results, not its methods or data. A copy from the owner, or the host's
   allowing this client, would return it to reading.
 title: 'Split brain: divided perception but undivided consciousness'
@@ -40,12 +40,12 @@ implementations: []
 summary: >-
   Pinto, Neville, Otten, Corballis, Lamme, de Haan, Foschi & Fabri (2017),
   Brain 140(5): 1231-1237. By the stand-in's account (de Haan et al. 2020,
-  LIT-tmpsc6mi, NOTE-tmpbwyy5), a split-brain patient matched pictures to
+  [LIT-tmpsc6mi](LIT-tmpsc6mi.md), [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md)), a split-brain patient matched pictures to
   sample better for left-field stimuli and to verbal labels better for
   right-field ones, whatever the response type, and reported presence and
   location anywhere in the field with either hand and verbally. It bears
-  on QUESTION-061 and CLAIM-003 as a content available to some operations
-  and not others within one agent, and on QUESTION-048's deficit kind.
+  on [QUESTION-061](../questions.d/QUESTION-061.md) and [CLAIM-003](../claims.d/CLAIM-003.md) as a content available to some operations
+  and not others within one agent, and on [QUESTION-048](../questions.d/QUESTION-048.md)'s deficit kind.
   Unfetched; unverified first-hand.
 ---
 <!-- inactive-ok-file: CLAIM-003 — Proposed; the claim this work bears on -->
@@ -56,9 +56,9 @@ Pinto, Neville, Otten, Corballis, Lamme, de Haan, Foschi & Fabri (2017), Brain 1
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-112's search (E5). The free publisher PDF
+Registered on 2026-11-22 by [LEAD-112](../leads.d/LEAD-112.md)'s search (E5). The free publisher PDF
 was behind a Cloudflare challenge, so it is Unfetched. de Haan et al. 2020
-(LIT-tmpsc6mi) stands in for its results as that review restates them,
+([LIT-tmpsc6mi](LIT-tmpsc6mi.md)) stands in for its results as that review restates them,
 including the finding that identity follows the visual field while response
 type plays no role; it does not stand in for the design, the sample or the
 statistics. The title's claim, perception divided and consciousness

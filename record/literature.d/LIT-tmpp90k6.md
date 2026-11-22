@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: filed 2026-11-22, not read. Registered by LEAD-112's search for cases where access and experience
+status_note: filed 2026-11-22, not read. Registered by [LEAD-112](../leads.d/LEAD-112.md)'s search for cases where access and experience
   come apart (scratch/studies/lead-112/search.md). Marked subscription in Europe PMC; no open copy was
   looked for further in this run.
 title: Awareness-related activity in prefrontal and parietal cortices in blindsight reflects more than
@@ -25,8 +25,8 @@ implementations: []
 summary: 'Persaud, Davidson, Maniscalco, Mobbs, Passingham, Cowey & Lau (2011), NeuroImage 58(2): 605-611.
   Blindsight patient GY, with stimulus strength set so that performance in the blind and the sighted field
   is matched while awareness differs; the awareness contrast is imaged. A deficit case in which performance
-  is held fixed and reported experience varies, which bears on QUESTION-048''s deficit and report kinds
-  and on THEORY-091. Found by LEAD-112''s search (E12). Unverified until read.'
+  is held fixed and reported experience varies, which bears on [QUESTION-048](../questions.d/QUESTION-048.md)''s deficit and report kinds
+  and on [THEORY-091](../theory.d/THEORY-091.md). Found by [LEAD-112](../leads.d/LEAD-112.md)''s search (E12). Unverified until read.'
 ---
 <!-- inactive-ok-file: THEORY-091 — Proposed; the entries this registration bears on, cited from LEAD-112; new registrations of the same search are Deferred -->
 
@@ -36,4 +36,4 @@ Persaud, Davidson, Maniscalco, Mobbs, Passingham, Cowey & Lau (2011), NeuroImage
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-112's search. Blindsight patient GY, with stimulus strength set so that performance in the blind and the sighted field is matched while awareness differs; the awareness contrast is imaged. A deficit case in which performance is held fixed and reported experience varies, which bears on QUESTION-048's deficit and report kinds and on THEORY-091. Found by LEAD-112's search (E12). Unverified until read. Not read.
+Registered on 2026-11-22 by [LEAD-112](../leads.d/LEAD-112.md)'s search. Blindsight patient GY, with stimulus strength set so that performance in the blind and the sighted field is matched while awareness differs; the awareness contrast is imaged. A deficit case in which performance is held fixed and reported experience varies, which bears on [QUESTION-048](../questions.d/QUESTION-048.md)'s deficit and report kinds and on [THEORY-091](../theory.d/THEORY-091.md). Found by [LEAD-112](../leads.d/LEAD-112.md)'s search (E12). Unverified until read. Not read.

@@ -99,9 +99,9 @@ evidence itself, and they belong in "What the record holds".
 
 No status, title or warrant changes.
 
-## Note of 2026-11-22: LEAD-112's search, and three readings
+## Note of 2026-11-22: [LEAD-112](../leads.d/LEAD-112.md)'s search, and three readings
 
-LEAD-112 searched Europe PMC and arXiv for a case of each kind in which
+[LEAD-112](../leads.d/LEAD-112.md) searched Europe PMC and arXiv for a case of each kind in which
 access and experience come apart (scratch/studies/lead-112/search.md;
 OpenAlex refused the first call with a rate limit). Kind by kind:
 
@@ -109,33 +109,33 @@ OpenAlex refused the first call with a rate limit). Kind by kind:
   BBS commentary of 2004 and a philosophy paper (E1), and the training
   literature has no trained access with experience denied (E2). Two
   registered works argue that blindsight is degraded conscious vision
-  rather than vision without experience (Phillips 2021, LIT-tmpz7h9h;
-  Overgaard et al. 2008, LIT-tmpl6qwr), which if right leaves the deficit
+  rather than vision without experience (Phillips 2021, [LIT-tmpz7h9h](../literature.d/LIT-tmpz7h9h.md);
+  Overgaard et al. 2008, [LIT-tmpl6qwr](../literature.d/LIT-tmpl6qwr.md)), which if right leaves the deficit
   kind without even its starting case. The split brain is the nearest
   deficit case found. Read through the review of de Haan et al.
-  (LIT-tmpsc6mi, NOTE-tmpbwyy5, THEORY-tmpb3deq), standing in for Pinto et
-  al. 2017 (LIT-tmpblnvk, Unfetched): access divides, by visual field and
+  ([LIT-tmpsc6mi](../literature.d/LIT-tmpsc6mi.md), [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md), [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)), standing in for Pinto et
+  al. 2017 ([LIT-tmpblnvk](../literature.d/LIT-tmpblnvk.md), Unfetched): access divides, by visual field and
   operation, and "the body of evidence is insufficient" to say whether the
   subject does. It is a deficit that tells about access and not about
-  experience, which is THEORY-091's limit again.
+  experience, which is [THEORY-091](../theory.d/THEORY-091.md)'s limit again.
 - **No-report.** Inconspicuous rivalry and intracranial rivalry exist, but
-  not together. Brascamp, Blake and Knapen (LIT-tmp5rny4, NOTE-tmprcujk,
-  THEORY-tmpvkp5f) made switches unreportable and found fronto-parietal
+  not together. Brascamp, Blake and Knapen ([LIT-tmp5rny4](../literature.d/LIT-tmp5rny4.md), [NOTE-tmprcujk](../notes.d/NOTE-tmprcujk.md),
+  [THEORY-tmpvkp5f](../theory.d/THEORY-tmpvkp5f.md)) made switches unreportable and found fronto-parietal
   switch BOLD shrink with reportability; it is BOLD, and it separates a
   change from noticing the change, not experience from access. Kapoor et
-  al. (LIT-tmpnsyqi, NOTE-tmplluya, THEORY-tmpbu9we) recorded prefrontal
+  al. ([LIT-tmpnsyqi](../literature.d/LIT-tmpnsyqi.md), [NOTE-tmplluya](../notes.d/NOTE-tmplluya.md), [THEORY-tmpbu9we](../theory.d/THEORY-tmpbu9we.md)) recorded prefrontal
   units in rivalry without report and decoded the percept, but the
   switches were "unreported but clearly occurring". No study the search
   found records percept-specific content intracranially with switches
-  unnoticed (E3, E8). Dwarakanath et al. (LIT-tmp6iss9) and
-  Canales-Johnson et al. (LIT-tmpk79hb) are registered, unread.
-- **Report.** Relative blindsight (Lau and Passingham 2006, LIT-tmp1goav)
-  and its patient version (Persaud et al. 2011, LIT-tmpp90k6) hold
+  unnoticed (E3, E8). Dwarakanath et al. ([LIT-tmp6iss9](../literature.d/LIT-tmp6iss9.md)) and
+  Canales-Johnson et al. ([LIT-tmpk79hb](../literature.d/LIT-tmpk79hb.md)) are registered, unread.
+- **Report.** Relative blindsight (Lau and Passingham 2006, [LIT-tmp1goav](../literature.d/LIT-tmp1goav.md))
+  and its patient version (Persaud et al. 2011, [LIT-tmpp90k6](../literature.d/LIT-tmpp90k6.md)) hold
   performance fixed while reported awareness varies; both are registered,
   unread. Matched performance is not matched access, so they would need
   the record's reading before they count.
 - **Marker.** No marker accepted in advance by both sides was found. The
-  nearest is Bayne et al. 2024 (LIT-tmpw89hi), on how tests for
+  nearest is Bayne et al. 2024 ([LIT-tmpw89hi](../literature.d/LIT-tmpw89hi.md)), on how tests for
   consciousness could be validated, registered, unread (E10, E11).
 
 So far, for each kind the search reached, the evidence follows access and

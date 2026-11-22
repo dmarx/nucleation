@@ -35,9 +35,9 @@ summary: >-
   detection, localisation and response selection stay largely unified,
   and "the body of evidence is insufficient" to say whether consciousness
   is split. Registered and read as the stand-in for Pinto et al. 2017
-  (LIT-tmpblnvk), whose results it restates. Read in NOTE-tmpbwyy5; the
-  account is THEORY-tmpb3deq. It bears on QUESTION-061 and CLAIM-003 as a
-  case of access divided within one agent, and on QUESTION-048 as deficit
+  ([LIT-tmpblnvk](LIT-tmpblnvk.md)), whose results it restates. Read in [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md); the
+  account is [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md). It bears on [QUESTION-061](../questions.d/QUESTION-061.md) and [CLAIM-003](../claims.d/CLAIM-003.md) as a
+  case of access divided within one agent, and on [QUESTION-048](../questions.d/QUESTION-048.md) as deficit
   evidence that cannot settle experience.
 ---
 <!-- inactive-ok-file: LIT-tmpblnvk — Unfetched; the work this review stands in for -->
@@ -60,8 +60,8 @@ de Haan et al. (2020), Neuropsychology Review 30(2): 224-233. DOI 10.1007/s11065
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-112 as a stand-in for Pinto et al. 2017
-(LIT-tmpblnvk), which it restates in its "Common Ground" section: the
+Registered on 2026-11-22 by [LEAD-112](../leads.d/LEAD-112.md) as a stand-in for Pinto et al. 2017
+([LIT-tmpblnvk](LIT-tmpblnvk.md)), which it restates in its "Common Ground" section: the
 patient was better at picture matching for left-field stimuli and at verbal
 labelling for right-field ones, whatever the response. It stands in for
 Pinto et al.'s results as summarised, not for their methods or data. It is

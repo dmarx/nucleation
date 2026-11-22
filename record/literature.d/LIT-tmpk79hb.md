@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: filed 2026-11-22, not read. Registered by LEAD-112's search for cases where access and experience
+status_note: filed 2026-11-22, not read. Registered by [LEAD-112](../leads.d/LEAD-112.md)'s search for cases where access and experience
   come apart (scratch/studies/lead-112/search.md). Open access at PLOS Biology and in PMC (PMC10194963);
   bioRxiv preprint doi 10.1101/2021.11.02.466729. Not fetched.
 title: Feedback information transfer in the human brain reflects bistable perception in the absence of
@@ -24,9 +24,9 @@ keywords: []
 implementations: []
 summary: 'Canales-Johnson, Beerendonk, Chennu, Davidson, Ince & van Gaal (2023), PLOS Biology 21(5): e3002120;
   bioRxiv preprint 2021.11.02.466729. Human EEG in bistable perception with and without report, measuring
-  frontal-to-posterior feedback information. A no-report study in the human brain that bears on THEORY-094
-  and QUESTION-048''s no-report kind; scalp EEG, not intracranial. Found by LEAD-112''s search (E8). Unverified
-  until read. `published` is the preprint''s date as Europe PMC gives it (ADR-002).'
+  frontal-to-posterior feedback information. A no-report study in the human brain that bears on [THEORY-094](../theory.d/THEORY-094.md)
+  and [QUESTION-048](../questions.d/QUESTION-048.md)''s no-report kind; scalp EEG, not intracranial. Found by [LEAD-112](../leads.d/LEAD-112.md)''s search (E8). Unverified
+  until read. `published` is the preprint''s date as Europe PMC gives it ([ADR-002](../decisions.d/ADR-002.md)).'
 ---
 <!-- inactive-ok-file: THEORY-094 — Proposed; the entries this registration bears on, cited from LEAD-112; new registrations of the same search are Deferred -->
 
@@ -36,4 +36,4 @@ Canales-Johnson, Beerendonk, Chennu, Davidson, Ince & van Gaal (2023), PLOS Biol
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-112's search. Human EEG in bistable perception with and without report, measuring frontal-to-posterior feedback information. A no-report study in the human brain that bears on THEORY-094 and QUESTION-048's no-report kind; scalp EEG, not intracranial. Found by LEAD-112's search (E8). Unverified until read. `published` is the preprint's date as Europe PMC gives it (ADR-002). Not read.
+Registered on 2026-11-22 by [LEAD-112](../leads.d/LEAD-112.md)'s search. Human EEG in bistable perception with and without report, measuring frontal-to-posterior feedback information. A no-report study in the human brain that bears on [THEORY-094](../theory.d/THEORY-094.md) and [QUESTION-048](../questions.d/QUESTION-048.md)'s no-report kind; scalp EEG, not intracranial. Found by [LEAD-112](../leads.d/LEAD-112.md)'s search (E8). Unverified until read. `published` is the preprint's date as Europe PMC gives it ([ADR-002](../decisions.d/ADR-002.md)). Not read.

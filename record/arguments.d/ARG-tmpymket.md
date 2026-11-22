@@ -14,13 +14,13 @@ date: '2026-11-22'
 line:
 - organizational-affect
 summary: >-
-  Whether the split-brain review (THEORY-tmpb3deq, read in NOTE-tmpbwyy5)
-  supports CLAIM-003. It supports the access half, in a disconnected
+  Whether the split-brain review ([THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md), read in [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md))
+  supports [CLAIM-003](../claims.d/CLAIM-003.md). It supports the access half, in a disconnected
   brain: a content's identity reaches some operations and not others
   while detection and response stay unified, in what most of its authors
   take to be one agent. It does not reach the experiential half, which
   the authors hold undecided, and it is not the intact-brain recording
-  QUESTION-061 asks for. The wording is the assistant's (Claude, in this
+  [QUESTION-061](../questions.d/QUESTION-061.md) asks for. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-003 THEORY-tmpb3deq THEORY-096 — Proposed; the claim argued for, the reading it starts from and the rival account -->
@@ -29,10 +29,10 @@ summary: >-
 
 ## The inference
 
-CLAIM-003 says that "access is compartmented in brains as in
+[CLAIM-003](../claims.d/CLAIM-003.md) says that "access is compartmented in brains as in
 organizations", and is defeated by evidence that access "is uniform across
 subsystems whenever it occurs, so that compartmented access is always
-access by a different workspace". THEORY-tmpb3deq reports that after
+access by a different workspace". [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md) reports that after
 callosotomy the presence and location of a stimulus reach every response,
 while its identity reaches picture matching from one field and verbal
 labelling from the other, whatever the effector. If the patient is one
@@ -49,9 +49,9 @@ others: compartmented access within one agent.
   insufficient"), though detection, localisation and response selection
   are unified, and patients behave as one person. So the support is
   conditional on the one-agent reading.
-- **Does it tell the claim apart from its rivals?** Against THEORY-096's
+- **Does it tell the claim apart from its rivals?** Against [THEORY-096](../theory.d/THEORY-096.md)'s
   uniform broadcast, partly: whichever reading holds, broadcast in the
-  split brain is not uniform for identity. But THEORY-096 is an account of
+  split brain is not uniform for identity. But [THEORY-096](../theory.d/THEORY-096.md) is an account of
   intact brains, and the review reads GNW as predicting two subjects here,
   so the rival can absorb the case as two workspaces. It does not
   discriminate in intact brains.
@@ -63,7 +63,7 @@ others: compartmented access within one agent.
 
 ## Verdict
 
-Supports the access half of CLAIM-003, narrowed to a disconnected brain and
+Supports the access half of [CLAIM-003](../claims.d/CLAIM-003.md), narrowed to a disconnected brain and
 conditional on the one-agent reading. Leaves the experiential half where it
-was. A recording of the kind QUESTION-061 names, in an intact brain, would
+was. A recording of the kind [QUESTION-061](../questions.d/QUESTION-061.md) names, in an intact brain, would
 still be needed.

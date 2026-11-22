@@ -26,9 +26,9 @@ summary: >-
   Whether consciousness is split, it leaves open, and it proposes covert
   parallel responding and ERP markers as tests. For the record it is the
   clearest case found of a content available to some consumers and not
-  others within one agent (QUESTION-061, CLAIM-003), and of deficit
+  others within one agent ([QUESTION-061](../questions.d/QUESTION-061.md), [CLAIM-003](../claims.d/CLAIM-003.md)), and of deficit
   evidence that divides access while leaving experience undetermined
-  (QUESTION-048, THEORY-091).
+  ([QUESTION-048](../questions.d/QUESTION-048.md), [THEORY-091](../theory.d/THEORY-091.md)).
 ---
 <!-- inactive-ok-file: CLAIM-003 CLAIM-039 THEORY-091 THEORY-096 THEORY-298 ARG-tmpymket — Proposed; the entries this reading bears on, its own account and the argument filed with it -->
 
@@ -72,7 +72,7 @@ explanations.
 
 ## Bearing on the record
 
-- **QUESTION-061** (bears; the nearest case found). The identity of a
+- **[QUESTION-061](../questions.d/QUESTION-061.md)** (bears; the nearest case found). The identity of a
   left-field stimulus is available to picture matching, whatever the hand
   or voice, and much less to verbal labelling, and mostly not to
   comparison with a right-field stimulus; its presence and location are
@@ -82,24 +82,24 @@ explanations.
   evidence is behavioural, not the recording the question asks for; and
   differential post-perceptual cognition is not removed, so it is a
   compartment of access, not shown to be one of experience.
-- **CLAIM-003** (supports, narrowed; ARG-tmpymket). The claim's brain half
+- **[CLAIM-003](../claims.d/CLAIM-003.md)** (supports, narrowed; [ARG-tmpymket](../arguments.d/ARG-tmpymket.md)). The claim's brain half
   says access can be compartmented within one agent. Split-brain behaviour
   is a case of that, and the authors' own unresolved question, whether the
   agent is one, is the claim's "within one agent" condition. It supports
   the access half in a lesioned brain only, and it says nothing either way
   on the claim's experiential half, which the authors call undecided.
-- **QUESTION-048** (deficit kind; confirms the limit). The deficit divides
+- **[QUESTION-048](../questions.d/QUESTION-048.md)** (deficit kind; confirms the limit). The deficit divides
   access and leaves experience undetermined, by the authors' consensus.
-  That is THEORY-091's pattern: the deficit tells us about access and not
+  That is [THEORY-091](../theory.d/THEORY-091.md)'s pattern: the deficit tells us about access and not
   about experience. The tests it proposes, parallel covert choices and ERP
   markers, would each need a marker validated without report, which is
-  THEORY-298's problem.
-- **THEORY-096** (contrast). The review reads GNW as predicting a split
+  [THEORY-298](../theory.d/THEORY-298.md)'s problem.
+- **[THEORY-096](../theory.d/THEORY-096.md)** (contrast). The review reads GNW as predicting a split
   subject, since each hemisphere has a prefrontal hub. If subjects stay
   unified while access splits, a workspace account that ties the subject to
   one broadcast is under pressure; the record's account states uniform
   broadcast, and this is a case where broadcast is not uniform.
-- **CLAIM-039** (background). Response selection unified over split
+- **[CLAIM-039](../claims.d/CLAIM-039.md)** (background). Response selection unified over split
   perception is a functional unity with experience undetermined, the kind
   of separation the claim needs, but in a brain and for action control,
   not affect. No edge.

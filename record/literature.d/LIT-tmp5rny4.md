@@ -34,9 +34,9 @@ summary: >-
   Rivalry between dot fields identical except for the eye they reach:
   switches occur, by each observer's alternation statistics, but are
   detected at chance, and the fronto-parietal switch BOLD then shrinks in
-  proportion to reportability, about eightfold. Read in NOTE-tmprcujk; the
-  account is THEORY-tmpvkp5f. It is the inconspicuous-rivalry contrast
-  THEORY-094 names, half of QUESTION-048's "inconspicuous rivalry recorded
+  proportion to reportability, about eightfold. Read in [NOTE-tmprcujk](../notes.d/NOTE-tmprcujk.md); the
+  account is [THEORY-tmpvkp5f](../theory.d/THEORY-tmpvkp5f.md). It is the inconspicuous-rivalry contrast
+  [THEORY-094](../theory.d/THEORY-094.md) names, half of [QUESTION-048](../questions.d/QUESTION-048.md)'s "inconspicuous rivalry recorded
   intracranially": inconspicuous, but BOLD and a switch transient, not
   intracranial and not percept-specific content.
 ---
@@ -57,7 +57,7 @@ Brascamp, Blake & Knapen (2015), Nature Neuroscience 18(11): 1672-1678. DOI 10.1
 
 ## Standing in the record
 
-Registered and read on 2026-11-22 by LEAD-112. THEORY-094's promote_when
+Registered and read on 2026-11-22 by [LEAD-112](../leads.d/LEAD-112.md). [THEORY-094](../theory.d/THEORY-094.md)'s promote_when
 asked for a first-hand reading; this is it. It supports that account's
 diagnosis for switch transients without meeting its promote_when, which
 asks for percept-specific prefrontal content recorded intracranially.

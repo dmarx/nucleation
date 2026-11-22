@@ -26,10 +26,10 @@ summary: >-
   each observer's alternation statistics show, but are detected at
   chance; the fronto-parietal BOLD response to switches then shrinks in
   proportion to their reportability, about eightfold, with no remainder.
-  It is the inconspicuous-rivalry contrast THEORY-094 names, and it
+  It is the inconspicuous-rivalry contrast [THEORY-094](../theory.d/THEORY-094.md) names, and it
   supports that account's diagnosis for switch-related signals. What it
   measured is a switch transient, not percept-specific content, and it is
-  not intracranial, so it does not meet THEORY-094's promote_when.
+  not intracranial, so it does not meet [THEORY-094](../theory.d/THEORY-094.md)'s promote_when.
 ---
 <!-- inactive-ok-file: THEORY-094 — Proposed; the account this reading tests -->
 
@@ -90,7 +90,7 @@ change while the change still happens.
 
 ## Bearing on the record
 
-- **THEORY-094** (supports, qualified). This is the "Brascamp et al.'s fMRI
+- **[THEORY-094](../theory.d/THEORY-094.md)** (supports, qualified). This is the "Brascamp et al.'s fMRI
   contrast" its promote_when calls "one instance". By the authors' own
   results, the fronto-parietal signal no-report designs would pick up at a
   switch scales with noticing it, which is that account's diagnosis. But
@@ -98,19 +98,19 @@ change while the change still happens.
   recorded with "electrocorticography or microelectrode arrays"; this
   study measured a univariate switch transient in BOLD. It does not meet
   the promote_when, and the first-hand reading it asked for is now done.
-- **QUESTION-048** (evidence on the no-report kind). The study removes
+- **[QUESTION-048](../questions.d/QUESTION-048.md)** (evidence on the no-report kind). The study removes
   report and, more, awareness of the switch. It still cannot tell access
   from experience: each dominant field is seen and available throughout,
   and only the change goes unaccessed. Since the two fields are matched in
   every statistic, there may be no experienced change to be unaccessed.
   So it shows that a perceptual selection can occur with no executive
   signature, not that an experience can.
-- **QUESTION-061** (background). The selection happened without reaching
+- **[QUESTION-061](../questions.d/QUESTION-061.md)** (background). The selection happened without reaching
   the regions "dedicated to behavioral responses", so a perceptual event
   was present to one system and, by BOLD, absent from another. It is not
   a content present to one consumer and absent from another; the content
   reached report at every probe.
-- **Kapoor et al.** (LIT-tmpnsyqi, NOTE-tmplluya) cite this design as one of
+- **Kapoor et al.** ([LIT-tmpnsyqi](../literature.d/LIT-tmpnsyqi.md), [NOTE-tmplluya](NOTE-tmplluya.md)) cite this design as one of
   the fMRI studies whose null results they set against their recordings.
   The two disagree about prefrontal cortex because they measure different
   things: this one a switch transient with switches unnoticed, that one
@@ -121,7 +121,7 @@ change while the change still happens.
 - Six observers in the fMRI experiments, two of them authors.
 - BOLD and univariate contrasts in localiser-defined regions; a
   percept-specific population code in prefrontal cortex would not show.
-  Kapoor et al. press this point (NOTE-tmplluya).
+  Kapoor et al. press this point ([NOTE-tmplluya](NOTE-tmplluya.md)).
 - "Undetectable" is not shown (Bayes factor 1.1); the fronto-parietal
   result is a proportionality, not an absence.
 - Gap in the argument: the step from a response proportional to

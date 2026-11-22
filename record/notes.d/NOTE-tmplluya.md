@@ -25,10 +25,10 @@ summary: >-
   percept inferred from the optokinetic nystagmus. Units followed the
   percept, and the content was decoded on single trials at up to 95%,
   generalising between physical and rivalrous alternation. It is the
-  intracranial half of QUESTION-048's "inconspicuous rivalry recorded
+  intracranial half of [QUESTION-048](../questions.d/QUESTION-048.md)'s "inconspicuous rivalry recorded
   intracranially", but its switches were "unreported but clearly
   occurring", so it removes report and not post-perceptual cognition: it
-  is the kind of no-report evidence THEORY-094 says cannot isolate
+  is the kind of no-report evidence [THEORY-094](../theory.d/THEORY-094.md) says cannot isolate
   experience, and it meets neither that account's promote_when nor its
   refutation.
 ---
@@ -92,33 +92,33 @@ input."
 
 ## Bearing on the record
 
-- **THEORY-094** (contrast; the key bearing). This is Panagiotaropoulos's
+- **[THEORY-094](../theory.d/THEORY-094.md)** (contrast; the key bearing). This is Panagiotaropoulos's
   group read first-hand, as that account's promote_when asked. The
   switches were "unreported but clearly occurring spontaneous transitions
   in conscious perception" (Discussion): conspicuous. So the design
   removes report and trained action, not noticing the switch or thinking
-  about the percept, which THEORY-094 says no-report designs leave in
+  about the percept, which [THEORY-094](../theory.d/THEORY-094.md) says no-report designs leave in
   place. Its finding, percept-specific prefrontal content without report,
-  is what THEORY-094 predicts such a design will find either way, so it
+  is what [THEORY-094](../theory.d/THEORY-094.md) predicts such a design will find either way, so it
   neither promotes nor refutes the account. The refutation needs the same
   content "unchanged when the change is made inconspicuous, at matched
   sensitivity". Kapoor et al. have the sensitivity; Brascamp et al.
-  (LIT-tmp5rny4, NOTE-tmprcujk) have the inconspicuous change. No study the
+  ([LIT-tmp5rny4](../literature.d/LIT-tmp5rny4.md), [NOTE-tmprcujk](NOTE-tmprcujk.md)) have the inconspicuous change. No study the
   search found has both (scratch/studies/lead-112/search.md, E3, E8).
-- **QUESTION-048** (evidence on the no-report kind). It shows the content
+- **[QUESTION-048](../questions.d/QUESTION-048.md)** (evidence on the no-report kind). It shows the content
   reaches prefrontal cortex without report. It cannot tell whether that is
   experience or access, since an unreported but noticed percept is
   accessed in the workspace sense. It also extends report-free evidence to
   a non-human primate, which bears on the question's second half only
   within primates.
-- **QUESTION-061** (bears, against a compartment here). The rivalrous
+- **[QUESTION-061](../questions.d/QUESTION-061.md)** (bears, against a compartment here). The rivalrous
   content was present in prefrontal populations as in the temporal lobe
   ("remarkably similar to those observed in the temporal lobe of macaques
   participating in report based BR"), with the suppressed content
   minimally represented. That is uniform presence across these two
   consumers for the dimension tested, direction of motion. It does not
   test a content absent from one consumer and present to another.
-- **THEORY-096** (consistent) and **THEORY-098** (contrast). The result is
+- **[THEORY-096](../theory.d/THEORY-096.md)** (consistent) and **[THEORY-098](../theory.d/THEORY-098.md)** (contrast). The result is
   what the global workspace account expects of a conscious content. Against
   Block's account, it places content in the prefrontal machinery of
   access, but only for noticed contents, which that account also allows to

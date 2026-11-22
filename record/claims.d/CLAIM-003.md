@@ -99,13 +99,13 @@ date. Its evidence is unchanged.
 
 ## Note of 2026-11-22: the split brain as evidence for the access half
 
-From LEAD-112. de Haan et al. 2020 (LIT-tmpsc6mi, NOTE-tmpbwyy5,
-THEORY-tmpb3deq), read as a stand-in for Pinto et al. 2017 (LIT-tmpblnvk):
+From [LEAD-112](../leads.d/LEAD-112.md). de Haan et al. 2020 ([LIT-tmpsc6mi](../literature.d/LIT-tmpsc6mi.md), [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md),
+[THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)), read as a stand-in for Pinto et al. 2017 ([LIT-tmpblnvk](../literature.d/LIT-tmpblnvk.md)):
 "Perception appears to be more split, while responding remains largely
-unified." ARG-tmpymket argues that this supports the claim's access half,
+unified." [ARG-tmpymket](../arguments.d/ARG-tmpymket.md) argues that this supports the claim's access half,
 narrowed to a disconnected brain and conditional on the patient being one
 agent, which the review's authors leave open; under the two-agent reading
 it is the claim's own defeater, "access by a different workspace". It says
-nothing on "conscious experience can as well". THEORY-tmpb3deq
+nothing on "conscious experience can as well". [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)
 `corroborates` the claim, as independent evidence it does not rest on. The
 claim is unchanged.

@@ -59,18 +59,18 @@ scratch/studies/lead-112/):
   in search.md. OpenAlex refused the first call with HTTP 429 and was not
   used again.
 - Registered eleven works: ten found by the search and one stand-in.
-- Read three: Brascamp, Blake and Knapen 2015 (NOTE-tmprcujk); Kapoor et
-  al. 2022 (NOTE-tmplluya); de Haan et al. 2020 (NOTE-tmpbwyy5), as the
+- Read three: Brascamp, Blake and Knapen 2015 ([NOTE-tmprcujk](../notes.d/NOTE-tmprcujk.md)); Kapoor et
+  al. 2022 ([NOTE-tmplluya](../notes.d/NOTE-tmplluya.md)); de Haan et al. 2020 ([NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md)), as the
   stand-in for Pinto et al. 2017, whose free PDF was behind a Cloudflare
-  challenge (LIT-tmpblnvk, Unfetched).
-- Dated notes on QUESTION-048, QUESTION-061, CLAIM-003, CLAIM-039,
-  THEORY-091 and THEORY-094; ARG-tmpymket on the split brain and CLAIM-003.
+  challenge ([LIT-tmpblnvk](../literature.d/LIT-tmpblnvk.md), Unfetched).
+- Dated notes on [QUESTION-048](../questions.d/QUESTION-048.md), [QUESTION-061](../questions.d/QUESTION-061.md), [CLAIM-003](../claims.d/CLAIM-003.md), [CLAIM-039](../claims.d/CLAIM-039.md),
+  [THEORY-091](../theory.d/THEORY-091.md) and [THEORY-094](../theory.d/THEORY-094.md); [ARG-tmpymket](../arguments.d/ARG-tmpymket.md) on the split brain and [CLAIM-003](../claims.d/CLAIM-003.md).
 
 Found: for the deficit, no-report and report kinds the search reached,
 every case follows access and leaves experience undetermined. No
 superblindsight case; inconspicuous rivalry (BOLD) and intracranial
 rivalry (noticed switches) exist only apart; no marker accepted in advance.
-The split brain is the nearest QUESTION-061 case, behavioural and in a
+The split brain is the nearest [QUESTION-061](../questions.d/QUESTION-061.md) case, behavioural and in a
 disconnected brain.
 
 Remains: reading the registered works (Phillips 2021 first, for the

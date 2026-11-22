@@ -161,13 +161,13 @@ either account further.
 
 ## Note of 2026-11-22: no superblindsight case found, and blindsight itself contested
 
-LEAD-112 searched Europe PMC for the case this account's promote_when
+[LEAD-112](../leads.d/LEAD-112.md) searched Europe PMC for the case this account's promote_when
 names. "Superblindsight" returns a 2004 commentary and a philosophy paper
 and nothing empirical (scratch/studies/lead-112/search.md, E1); trained or
 cued blindsight with experience denied did not turn up (E2). Two works
 registered unread argue that blindsight is "qualitatively degraded conscious
-vision" (Phillips 2021, LIT-tmpz7h9h; Overgaard et al. 2008,
-LIT-tmpl6qwr). If they are right, blindsight is not a case where experience
+vision" (Phillips 2021, [LIT-tmpz7h9h](../literature.d/LIT-tmpz7h9h.md); Overgaard et al. 2008,
+[LIT-tmpl6qwr](../literature.d/LIT-tmpl6qwr.md)). If they are right, blindsight is not a case where experience
 is missing, and superblindsight would have to start from a deficit not yet
-found. The split brain (THEORY-tmpb3deq) is a deficit of the same pattern:
+found. The split brain ([THEORY-tmpb3deq](THEORY-tmpb3deq.md)) is a deficit of the same pattern:
 access divides, experience is undetermined. No status change.

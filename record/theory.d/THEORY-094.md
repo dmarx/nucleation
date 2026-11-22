@@ -177,17 +177,17 @@ reports it.
 
 ## Note of 2026-11-22: Brascamp et al. and Kapoor et al., read
 
-LEAD-112 read the two works this account's promote_when names first.
+[LEAD-112](../leads.d/LEAD-112.md) read the two works this account's promote_when names first.
 
-- **Brascamp, Blake and Knapen 2015** (LIT-tmp5rny4, NOTE-tmprcujk,
-  THEORY-tmpvkp5f) supports the account's diagnosis for switch-related
+- **Brascamp, Blake and Knapen 2015** ([LIT-tmp5rny4](../literature.d/LIT-tmp5rny4.md), [NOTE-tmprcujk](../notes.d/NOTE-tmprcujk.md),
+  [THEORY-tmpvkp5f](THEORY-tmpvkp5f.md)) supports the account's diagnosis for switch-related
   signals: with switches detected at chance, fronto-parietal switch BOLD
   matched a response proportional to reportability, "suggesting that no
   part of these assemblies' BOLD response reflects a neural cause of
   perceptual switches". It does not meet the promote_when, which asks for
   "percept-specific prefrontal content" recorded with
   "electrocorticography or microelectrode arrays".
-- **Kapoor et al. 2022** (LIT-tmpnsyqi, NOTE-tmplluya, THEORY-tmpbu9we),
+- **Kapoor et al. 2022** ([LIT-tmpnsyqi](../literature.d/LIT-tmpnsyqi.md), [NOTE-tmplluya](../notes.d/NOTE-tmplluya.md), [THEORY-tmpbu9we](THEORY-tmpbu9we.md)),
   Panagiotaropoulos's group, recorded that content with microelectrode
   arrays in rivalry without report, but with switches "unreported but
   clearly occurring". So it is the kind of no-report design this account

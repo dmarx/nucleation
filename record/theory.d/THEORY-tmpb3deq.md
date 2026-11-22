@@ -22,12 +22,12 @@ bears_on:
 corroborates:
 - CLAIM-003
 summary: >-
-  de Haan et al. (2020), LIT-tmpsc6mi, read in NOTE-tmpbwyy5 as a stand-in
-  for Pinto et al. 2017 (LIT-tmpblnvk). "Perception appears to be more
+  de Haan et al. (2020), [LIT-tmpsc6mi](../literature.d/LIT-tmpsc6mi.md), read in [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md) as a stand-in
+  for Pinto et al. 2017 ([LIT-tmpblnvk](../literature.d/LIT-tmpblnvk.md)). "Perception appears to be more
   split, while responding remains largely unified"; "the body of evidence
   is insufficient" on the subject. It is independent evidence for the
-  access half of CLAIM-003 in a disconnected brain, argued in
-  ARG-tmpymket. Limit: a review, behavioural evidence, a lesioned brain,
+  access half of [CLAIM-003](../claims.d/CLAIM-003.md) in a disconnected brain, argued in
+  [ARG-tmpymket](../arguments.d/ARG-tmpymket.md). Limit: a review, behavioural evidence, a lesioned brain,
   and no removal of post-perceptual cognition. Proposed until confirmed.
 ---
 <!-- inactive-ok-file: LIT-tmpblnvk — Unfetched; the work this review stands in for -->
@@ -35,7 +35,7 @@ summary: >-
 
 # THEORY-tmpb3deq: After callosotomy, perception and attention are largely split between the hemispheres while detection, localisation and response selection stay largely unified, so access to a content can depend on the operation that uses it; whether the subject is split remains undecided on the evidence
 
-de Haan et al. (2020), LIT-tmpsc6mi, read in NOTE-tmpbwyy5.
+de Haan et al. (2020), [LIT-tmpsc6mi](../literature.d/LIT-tmpsc6mi.md), read in [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md).
 
 ## The account
 
@@ -58,8 +58,8 @@ this question".
 
 ## Bearing
 
-QUESTION-061: the nearest case the search found of a content available to
+[QUESTION-061](../questions.d/QUESTION-061.md): the nearest case the search found of a content available to
 some consumers and not others, but behavioural and in a lesioned brain.
-QUESTION-048: a deficit that divides access and leaves experience
-undetermined. CLAIM-003: independent evidence for its access half, argued
-in ARG-tmpymket.
+[QUESTION-048](../questions.d/QUESTION-048.md): a deficit that divides access and leaves experience
+undetermined. [CLAIM-003](../claims.d/CLAIM-003.md): independent evidence for its access half, argued
+in [ARG-tmpymket](../arguments.d/ARG-tmpymket.md).

@@ -37,11 +37,11 @@ summary: >-
   units in two macaques never trained to report, during flash suppression
   and rivalry with the percept read from the optokinetic nystagmus: units
   follow the percept, and it is decoded at up to 95%. Read in
-  NOTE-tmplluya; the account is THEORY-tmpbu9we. The intracranial half of
-  QUESTION-048's "inconspicuous rivalry recorded intracranially", but with
+  [NOTE-tmplluya](../notes.d/NOTE-tmplluya.md); the account is [THEORY-tmpbu9we](../theory.d/THEORY-tmpbu9we.md). The intracranial half of
+  [QUESTION-048](../questions.d/QUESTION-048.md)'s "inconspicuous rivalry recorded intracranially", but with
   switches noticed, so it does not remove the post-perceptual cognition
-  THEORY-094 says no-report designs leave. `published` is the preprint's
-  date (ADR-002).
+  [THEORY-094](../theory.d/THEORY-094.md) says no-report designs leave. `published` is the preprint's
+  date ([ADR-002](../decisions.d/ADR-002.md)).
 ---
 <!-- inactive-ok-file: THEORY-tmpbu9we THEORY-094 — Proposed; the account read from this work and the account it is set against -->
 
@@ -60,7 +60,7 @@ Kapoor et al. (2022), Nature Communications 13: 1535. DOI 10.1038/s41467-022-288
 
 ## Standing in the record
 
-Registered and read on 2026-11-22 by LEAD-112. It is the first-hand
-reading of Panagiotaropoulos's group that THEORY-094's promote_when asked
+Registered and read on 2026-11-22 by [LEAD-112](../leads.d/LEAD-112.md). It is the first-hand
+reading of Panagiotaropoulos's group that [THEORY-094](../theory.d/THEORY-094.md)'s promote_when asked
 for. It neither promotes nor refutes that account, since its switches were
 conspicuous.

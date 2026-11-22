@@ -19,12 +19,12 @@ bears_on:
 - QUESTION-048
 - QUESTION-061
 summary: >-
-  Brascamp, Blake and Knapen (2015), LIT-tmp5rny4, read in NOTE-tmprcujk.
+  Brascamp, Blake and Knapen (2015), [LIT-tmp5rny4](../literature.d/LIT-tmp5rny4.md), read in [NOTE-tmprcujk](../notes.d/NOTE-tmprcujk.md).
   Rivalry between two dot fields identical except for the eye they reach:
   switches occur, by matched alternation statistics, but are detected at
   chance; the fronto-parietal switch response then matches an eighth of
   the conspicuous response, with no causal remainder. It is the
-  inconspicuous contrast THEORY-094 names and supports that account's
+  inconspicuous contrast [THEORY-094](THEORY-094.md) names and supports that account's
   diagnosis for switch transients. Limit: BOLD and a switch transient,
   not percept-specific content, and six observers; it separates a
   perceptual change from awareness of the change, not experience from
@@ -34,7 +34,7 @@ summary: >-
 
 # THEORY-tmpvkp5f: When binocular rivalry switches are made so inconspicuous that observers rarely detect them, fronto-parietal BOLD responses to the switches shrink in proportion to their reportability, so those responses reflect noticing a switch rather than causing it
 
-Brascamp, Blake and Knapen (2015), LIT-tmp5rny4, read in NOTE-tmprcujk.
+Brascamp, Blake and Knapen (2015), [LIT-tmp5rny4](../literature.d/LIT-tmp5rny4.md), read in [NOTE-tmprcujk](../notes.d/NOTE-tmprcujk.md).
 
 ## The account
 
@@ -56,8 +56,8 @@ response matched a prediction from reportability alone.
 
 ## Bearing
 
-On QUESTION-048, the no-report kind: removing awareness of the switch
-removes the executive signal, which supports THEORY-094's diagnosis but
-does not meet its promote_when. On QUESTION-061, background only: a
+On [QUESTION-048](../questions.d/QUESTION-048.md), the no-report kind: removing awareness of the switch
+removes the executive signal, which supports [THEORY-094](THEORY-094.md)'s diagnosis but
+does not meet its promote_when. On [QUESTION-061](../questions.d/QUESTION-061.md), background only: a
 perceptual event absent, by BOLD, from executive regions, with the
 content itself reported at every probe.

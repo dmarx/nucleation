@@ -109,10 +109,10 @@ behaviour does not show several conscious workspaces to [THEORY-096](../theory.d
 
 ## Note of 2026-11-22: the split brain, and prefrontal content without report
 
-From LEAD-112. Two readings bear on this question.
+From [LEAD-112](../leads.d/LEAD-112.md). Two readings bear on this question.
 
-- **The split brain** (de Haan et al. 2020, LIT-tmpsc6mi, NOTE-tmpbwyy5,
-  THEORY-tmpb3deq, standing in for Pinto et al. 2017, LIT-tmpblnvk). After
+- **The split brain** (de Haan et al. 2020, [LIT-tmpsc6mi](../literature.d/LIT-tmpsc6mi.md), [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md),
+  [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md), standing in for Pinto et al. 2017, [LIT-tmpblnvk](../literature.d/LIT-tmpblnvk.md)). After
   callosotomy a stimulus's presence and location reach every response,
   while its identity reaches picture matching from the left field and
   verbal labelling from the right, and "response type did not play any
@@ -120,10 +120,10 @@ From LEAD-112. Two readings bear on this question.
   divided by operation rather than effector. It falls short of "What would
   answer it" three ways: it is behavioural, not a recording; the brain is
   disconnected, not intact; and differential post-perceptual cognition is
-  not removed. It is the nearest case the search found. THEORY-tmpb3deq
+  not removed. It is the nearest case the search found. [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)
   `bears_on` this question.
-- **Prefrontal content without report** (Kapoor et al. 2022, LIT-tmpnsyqi,
-  NOTE-tmplluya, THEORY-tmpbu9we). In rivalry without trained report, the
+- **Prefrontal content without report** (Kapoor et al. 2022, [LIT-tmpnsyqi](../literature.d/LIT-tmpnsyqi.md),
+  [NOTE-tmplluya](../notes.d/NOTE-tmplluya.md), [THEORY-tmpbu9we](../theory.d/THEORY-tmpbu9we.md)). In rivalry without trained report, the
   perceived motion direction was carried in ventrolateral prefrontal cortex
   as in the temporal lobe, with the suppressed direction minimally
   represented: presence in both consumers for the one dimension tested,

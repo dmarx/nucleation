@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: filed 2026-11-22, not read. Registered by LEAD-112's search for cases where access and experience
+status_note: filed 2026-11-22, not read. Registered by [LEAD-112](../leads.d/LEAD-112.md)'s search for cases where access and experience
   come apart (scratch/studies/lead-112/search.md). The Neuron article is marked subscription in Europe
   PMC; the bioRxiv preprint (doi 10.1101/2020.01.29.924928, posted 2020-01-30 by Europe PMC's preprint
   index) is a lawful author copy. Not fetched.
@@ -26,9 +26,9 @@ summary: 'Dwarakanath, Kapoor, Werner, Safavi, Fedorov, Logothetis & Panagiotaro
   111(10): 1666-1683.e4; bioRxiv preprint 2020.01.29.924928. The same group''s macaque prefrontal recordings
   in binocular rivalry, the content inferred from the optokinetic nystagmus rather than from report. By
   the abstract, low-frequency and beta field potentials reflect the updating and the stability of the
-  conscious content. It bears on THEORY-094 and QUESTION-048''s no-report kind as the companion to Kapoor
-  et al. Found by LEAD-112''s search (E6). Unverified until read. `published` is the preprint''s date
-  (ADR-002).'
+  conscious content. It bears on [THEORY-094](../theory.d/THEORY-094.md) and [QUESTION-048](../questions.d/QUESTION-048.md)''s no-report kind as the companion to Kapoor
+  et al. Found by [LEAD-112](../leads.d/LEAD-112.md)''s search (E6). Unverified until read. `published` is the preprint''s date
+  ([ADR-002](../decisions.d/ADR-002.md)).'
 ---
 <!-- inactive-ok-file: THEORY-094 — Proposed; the entries this registration bears on, cited from LEAD-112; new registrations of the same search are Deferred -->
 
@@ -38,4 +38,4 @@ Dwarakanath, Kapoor, Werner, Safavi, Fedorov, Logothetis & Panagiotaropoulos (20
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-112's search. The same group's macaque prefrontal recordings in binocular rivalry, the content inferred from the optokinetic nystagmus rather than from report. By the abstract, low-frequency and beta field potentials reflect the updating and the stability of the conscious content. It bears on THEORY-094 and QUESTION-048's no-report kind as the companion to Kapoor et al. Found by LEAD-112's search (E6). Unverified until read. `published` is the preprint's date (ADR-002). Not read.
+Registered on 2026-11-22 by [LEAD-112](../leads.d/LEAD-112.md)'s search. The same group's macaque prefrontal recordings in binocular rivalry, the content inferred from the optokinetic nystagmus rather than from report. By the abstract, low-frequency and beta field potentials reflect the updating and the stability of the conscious content. It bears on [THEORY-094](../theory.d/THEORY-094.md) and [QUESTION-048](../questions.d/QUESTION-048.md)'s no-report kind as the companion to Kapoor et al. Found by [LEAD-112](../leads.d/LEAD-112.md)'s search (E6). Unverified until read. `published` is the preprint's date ([ADR-002](../decisions.d/ADR-002.md)). Not read.

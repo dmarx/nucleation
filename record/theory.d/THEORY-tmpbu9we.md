@@ -21,19 +21,19 @@ bears_on:
 - QUESTION-061
 summary: >-
   Kapoor, Dwarakanath, Safavi, Werner, Besserve, Panagiotaropoulos and
-  Logothetis (2022), LIT-tmpnsyqi, read in NOTE-tmplluya. 987 prefrontal
+  Logothetis (2022), [LIT-tmpnsyqi](../literature.d/LIT-tmpnsyqi.md), read in [NOTE-tmplluya](../notes.d/NOTE-tmplluya.md). 987 prefrontal
   units in two macaques, percept inferred from the optokinetic nystagmus,
   decoding up to 95%. It is report-free intracranial evidence that the
   content reaches prefrontal cortex. Limit: the switches were noticed
   ("unreported but clearly occurring"), so it does not remove
   post-perceptual cognition, and it neither promotes nor refutes
-  THEORY-094. Proposed until confirmed.
+  [THEORY-094](THEORY-094.md). Proposed until confirmed.
 ---
 <!-- inactive-ok-file: THEORY-094 — Proposed; the account this reading is set against -->
 
 # THEORY-tmpbu9we: In macaques viewing binocular rivalry without any trained report, ventrolateral prefrontal populations carry the perceived direction of motion, decodable on single trials and generalising from physical to rivalrous alternation, with the suppressed direction minimally represented
 
-Kapoor et al. (2022), LIT-tmpnsyqi, read in NOTE-tmplluya.
+Kapoor et al. (2022), [LIT-tmpnsyqi](../literature.d/LIT-tmpnsyqi.md), read in [NOTE-tmplluya](../notes.d/NOTE-tmplluya.md).
 
 ## The account
 
@@ -54,8 +54,8 @@ suppressed stimulus."
 
 ## Bearing
 
-On QUESTION-048, the no-report kind: content in prefrontal cortex without
+On [QUESTION-048](../questions.d/QUESTION-048.md), the no-report kind: content in prefrontal cortex without
 report, which cannot separate experience from access while switches are
-noticed. On QUESTION-061: the content was present in prefrontal
+noticed. On [QUESTION-061](../questions.d/QUESTION-061.md): the content was present in prefrontal
 populations as in the temporal lobe, for the one dimension tested, which
 is no compartment; the design does not look for one.

@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: filed 2026-11-22, not read. Registered by LEAD-112's search for cases where access and experience
+status_note: filed 2026-11-22, not read. Registered by [LEAD-112](../leads.d/LEAD-112.md)'s search for cases where access and experience
   come apart (scratch/studies/lead-112/search.md). In PMC (PMC1693736). Not fetched.
 title: Relative blindsight in normal observers and the neural correlate of visual consciousness
 version: 1
@@ -22,9 +22,9 @@ keywords: []
 implementations: []
 summary: 'Lau & Passingham (2006), PNAS 103(49): 18763-18768. Metacontrast masking with discrimination
   matched and reported visibility different, contrasted in fMRI: the report-kind design for separating
-  performance from reported awareness. It bears on QUESTION-048''s report kind; whether matched performance
+  performance from reported awareness. It bears on [QUESTION-048](../questions.d/QUESTION-048.md)''s report kind; whether matched performance
   is matched access is the question the record would ask of it. Jannati & Di Lollo (2012) argue it is
-  a criterion confound (not registered). Found by LEAD-112''s search (E12). Unverified until read.'
+  a criterion confound (not registered). Found by [LEAD-112](../leads.d/LEAD-112.md)''s search (E12). Unverified until read.'
 ---
 
 # LIT-tmp1goav: Relative blindsight in normal observers and the neural correlate of visual consciousness
@@ -33,4 +33,4 @@ Lau & Passingham (2006), PNAS 103(49): 18763-18768. DOI 10.1073/pnas.0607716103.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-112's search. Metacontrast masking with discrimination matched and reported visibility different, contrasted in fMRI: the report-kind design for separating performance from reported awareness. It bears on QUESTION-048's report kind; whether matched performance is matched access is the question the record would ask of it. Jannati & Di Lollo (2012) argue it is a criterion confound (not registered). Found by LEAD-112's search (E12). Unverified until read. Not read.
+Registered on 2026-11-22 by [LEAD-112](../leads.d/LEAD-112.md)'s search. Metacontrast masking with discrimination matched and reported visibility different, contrasted in fMRI: the report-kind design for separating performance from reported awareness. It bears on [QUESTION-048](../questions.d/QUESTION-048.md)'s report kind; whether matched performance is matched access is the question the record would ask of it. Jannati & Di Lollo (2012) argue it is a criterion confound (not registered). Found by [LEAD-112](../leads.d/LEAD-112.md)'s search (E12). Unverified until read. Not read.
