@@ -26,7 +26,7 @@ bears_on:
 draws_on:
 - THEORY-2054
 summary: >-
-  [CASE-296](CASE-296.md)'s laboratory, run for [LEAD-030](../leads.d/LEAD-030.md) as a numpy simulation: 600 users,
+  CASE-296's laboratory, run for LEAD-030 as a numpy simulation: 600 users,
   400 items, engagement given exposure, classes inferred once from five
   burn-in periods by degree-normalized spectral co-clustering and held
   fixed, then fifteen periods under one of five arms, four seeds each. In
@@ -43,14 +43,14 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-296 CLAIM-762 CLAIM-327 THEORY-2054 — Proposed; the case this study runs, the claims it was filed for, and the reading behind degree correction -->
+<!-- inactive-ok-file: CASE-296 CLAIM-762 THEORY-2054 — Proposed; the case this study runs, the claim it was filed for, and the reading behind degree correction -->
 <!-- inactive-ok-file: CLAIM-tmph4j0u CLAIM-tmpvn59f — new; the claims filed from this study -->
 
 # CASE-tmpw8bs2: A simulated engagement laboratory in two worlds, one with genres planted in preferences and one where exposure alone makes the clusters, and five arms: engagement under randomized exposure stayed flat when the inferred classes steered exposure over fixed preferences, rose when they steered it while users and creators adapted, and fell when the same adaptation ran without them; concentration, fit to raw counts and stability rose with use alone and were highest for the exposure-made clusters
 
 ## The case
 
-Run on 2026-11-22 for [LEAD-030](../leads.d/LEAD-030.md), building the laboratory [CASE-296](CASE-296.md)
+Run on 2026-11-22 for LEAD-030, building the laboratory CASE-296
 specifies, with its closure test and its intervention arm. Code, results
 (scratch/studies/lead-030/results.md, from results.jsonl) and a README
 saying how to rerun are on the branch claude/lead-030-genres-laboratory.
@@ -74,7 +74,9 @@ never read as a dislike: every model below is fitted on exposed pairs.
 burn-in periods under the base policy, by regularized degree-normalized
 spectral co-clustering with K = 6, then held fixed, as CASE-296's
 intervention arm holds the classification fixed. Each audience's target
-genre is the one its degree-corrected block rate is highest for.
+genre is the one its degree-corrected block rate is highest for. Degree
+correction follows Larremore, Clauset and Jacobs (THEORY-2054): without
+it, the model "tends to sort vertices by degree".
 
 **Arms**, fifteen periods each.
 
@@ -170,8 +172,8 @@ beat the factor model fitted on stale data.
    where it was. Use with adaptation moved all of these and the gap
    (0.35 to 0.48), and the true gap moved with it. Adaptation without use
    lowered the gap (to 0.23). So in this model the classes reshape
-   preferences only when used, which is what [LEAD-030](../leads.d/LEAD-030.md) says would count
-   for [CLAIM-762](../claims.d/CLAIM-762.md)'s reading. Filed as [CLAIM-tmph4j0u](../claims.d/CLAIM-tmph4j0u.md).
+   preferences only when used, which is what LEAD-030 says would count
+   for CLAIM-762's reading. Filed as CLAIM-tmph4j0u.
 2. **A's three outcomes all occurred.** The loop *reinforced* planted
    genres (taste, used + adapt). It *created* a small distinction where
    there had been none (exposure, used + adapt: gap 0.024, true gap 0.020,
@@ -184,7 +186,7 @@ beat the factor model fitted on stale data.
    exposure and tested on random exposure, CASE-296's closure test passed
    the planted genres and failed the exposure-made ones, and its control
    partition caught the confound in both forms. Filed as
-   [CLAIM-tmpvn59f](../claims.d/CLAIM-tmpvn59f.md).
+   CLAIM-tmpvn59f.
 4. **The closure defect does not separate the third kind from adaptation
    in general.** It turned negative wherever preferences homogenized within
    classes, with or without use. It registers homogenization within classes;

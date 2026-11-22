@@ -29,7 +29,7 @@ bears_on:
 - QUESTION-028
 - QUESTION-276
 summary: >-
-  From [LEAD-030](../leads.d/LEAD-030.md)'s run of [CASE-296](../cases.d/CASE-296.md)'s laboratory ([CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md)), four seeds
+  From LEAD-030's run of CASE-296's laboratory (CASE-tmpw8bs2), four seeds
   in each arm. With genres planted in preferences, the in-class minus
   out-of-class engagement rate under uniform random exposure was 0.35 at
   the start and 0.36, 0.48 and 0.23 after fifteen periods with the classes
@@ -48,10 +48,10 @@ summary: >-
 
 ## The claim
 
-[CASE-296](../cases.d/CASE-296.md) proposed a laboratory to separate three kinds of class: classes
+CASE-296 proposed a laboratory to separate three kinds of class: classes
 inferred and never used, classes used to steer exposure while preferences
 stay fixed, and classes used while users and creators adapt.
-[CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md) ran it, with a fourth arm the lead's criterion needs:
+CASE-tmpw8bs2 ran it, with a fourth arm the lead's criterion needs:
 the same adaptation with the classes not used.
 
 - **Inferred against used.** At the end, against the unsteered arm,
@@ -74,10 +74,10 @@ the same adaptation with the classes not used.
   [0.015, 0.034], against 0.005 [0.000, 0.012] for adaptation alone.
 
 So in this model the classes reshape preferences only when used, which is
-what [LEAD-030](../leads.d/LEAD-030.md) said would count for [CLAIM-762](CLAIM-762.md)'s reading, and the
+what LEAD-030 said would count for CLAIM-762's reading, and the
 randomized-exposure arm ChatGPT proposed at its review of CASE-296 is
 the measure that shows it. Used with adaptation, the class is in this model
-[CLAIM-327](CLAIM-327.md)'s self-reinforcing collective variable: the platform reads it,
+CLAIM-327's self-reinforcing collective variable: the platform reads it,
 conditions exposure on it, and by doing so regenerates it.
 
 ## What it does not say
@@ -89,5 +89,5 @@ apart where the cases are known, and which measures cannot. It does not
 say how large the effects are on any platform, or that randomized exposure
 of 20 items per user is affordable there. It does not say the reshaped
 classes are real kinds: whether a class confirmed through its own use is
-one is [CLAIM-402](CLAIM-402.md)'s question, and this result is an instance of
+one is CLAIM-402's question, and this result is an instance of
 CLAIM-402's worry, not an answer to it.
