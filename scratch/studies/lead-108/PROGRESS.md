@@ -24,7 +24,8 @@
 2. Price the three cases: price_cases.py -> results.json / results.md.
 3. DONE: CASE-tmpo2iur (executed-study); CLAIM-tmpeklli (thesis, interpretive: the single trade, owner alternatives A/B/C in body); CLAIM-tmpn0u3a (thesis, demonstrated: erosion weight). Test 7 added (erosion weight with checking share phi).
    result, with the owner's alternatives in the body.
-4. Dated notes on LEAD-108, QUESTION-095, QUESTION-114; changelog fragment.
+4. DONE: dated notes on LEAD-108, QUESTION-095, QUESTION-114, CLAIM-303, CLAIM-761; changelog fragment lead-108.md.
+5. Next: report to the lead (no PR opened by the worker).
 
 ## Choices made
 

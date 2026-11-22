@@ -53,3 +53,23 @@ One model that prices all three with the same terms answers [QUESTION-114](../qu
 and states the owner's conjecture in [QUESTION-095](../questions.d/QUESTION-095.md) so that it can fail. A
 case it cannot price without a new term is a counterexample to the single
 trade.
+
+## Note of 2026-11-22: what was done, and what remains
+<!-- inactive-ok-file: CASE-tmpo2iur CLAIM-tmpeklli CLAIM-tmpn0u3a — new; filed by this lead's run of 2026-11-22 -->
+
+The model was written with the four terms named here, CLAIM-303's,
+CLAIM-761's per-demand budget and revision, and CLAIM-760's parties, as code
+with tests (scratch/studies/lead-108/), and the three cases were priced with
+it (CASE-tmpo2iur). No case needed a term the others lack, so the single
+trade survives this test (CLAIM-tmpeklli). The four terms alone would not
+have priced the cockpit: it is carried by the price of work at the moment it
+is done, and by the budget on final approach. Erosion's weight follows from
+the model (CLAIM-tmpn0u3a).
+
+What remains: every cockpit value and part of the filing values are
+illustrative, so the verdicts are about which terms carry each case, not
+about savings. Two strains could still need a term (correlated staleness
+across an approach; a bug's prompting of the demand). Three choices that
+decide the sign of a filing's saving are the owner's (CLAIM-tmpeklli, "Choices
+that are the owner's"). The LEGO case needs use counts and how the owner's
+bins are found. Stage and status are unchanged.

@@ -328,3 +328,17 @@ logarithmic search is measured, not proved ([LIT-1098](../literature.d/LIT-1098.
 Fagin, Lotem and Naor ([LIT-1115](../literature.d/LIT-1115.md), [NOTE-924](../notes.d/NOTE-924.md)) price a conjunctive query over
 feature-sorted lists ([THEORY-363](../theory.d/THEORY-363.md), [THEORY-361](../theory.d/THEORY-361.md)); Fagin 1996 ([LIT-1108](../literature.d/LIT-1108.md)) is
 Unavailable.
+
+## Note of 2026-11-22: the test, run
+<!-- inactive-ok-file: CASE-tmpo2iur CLAIM-tmpeklli — new; filed by LEAD-108's run of 2026-11-22 -->
+
+LEAD-108 built a cost model from the index-selection terms read above
+(construction, upkeep, per-query saving, space as spill onto other queries,
+recognition) and added the price of work by moment, a per-demand budget,
+priced or bounded staleness, erosion and parties. It prices the bugs, a
+filed argument and a LEGO bin with the same terms (CASE-tmpo2iur,
+CLAIM-tmpeklli, Proposed). Pop-out enters through the search cost on demand:
+a brick that stands out is found in about one look and never repays a bin.
+On this test the index-selection model is not the joint model by itself. It
+lacks the moment-priced construction that carries the cockpit, and the
+staleness and erosion terms that carry filing. No status change.

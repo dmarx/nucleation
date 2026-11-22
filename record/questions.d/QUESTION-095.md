@@ -290,3 +290,18 @@ No status change.
 <!-- inactive-ok-file: CLAIM-763 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
 
 ChatGPT (A84) ranks this question high in its triage ([CLAIM-763](../claims.d/CLAIM-763.md)), to be advanced by "Formal and philosophical reconciliation of distributed cognition, caching, and amortized inference". Its next advance without an experiment, for the value of stored work: "Separate operational feasibility, lifetime economic efficiency, and distributed costs", which [CLAIM-761](../claims.d/CLAIM-761.md) and [CLAIM-760](../claims.d/CLAIM-760.md) have begun.
+
+## Note of 2026-11-22: one cost model, priced on three cases
+<!-- inactive-ok-file: CASE-tmpo2iur CLAIM-tmpeklli CLAIM-tmpn0u3a — new; filed by LEAD-108's run of 2026-11-22 -->
+
+LEAD-108 wrote a model with the terms the note of 2026-10-15 asked for, and
+priced the crew's speed bugs, a filed argument and a LEGO bin with it
+(CASE-tmpo2iur). All three are priced without adding a term, and the four
+strategies of that note become regimes of the one trade (CLAIM-tmpeklli,
+Proposed). That states the owner's conjecture so that it can fail: by a case
+whose verdict turns on a quantity none of the terms carries. One term had to
+be added to the note's list for the cockpit: the price of work at the moment
+it is done, with the budget for each demand. The bugs pay by moving work out
+of the busy approach as much as by reuse. Erosion of the alternative weighs
+as the chance of falling back on it, plus the share of it that checking
+repeats (CLAIM-tmpn0u3a, Proposed). No status change.
