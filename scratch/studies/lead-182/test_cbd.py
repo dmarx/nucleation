@@ -104,3 +104,27 @@ def test_wald_se_overstates_spread_near_zero_signalling():
     lo, hi = cbd.wald_bounds(counts, 1.0, (1, 1, 1, -1))
     assert ((hi - lo) / 2).mean() > 1.1 * est.std()
     assert est.mean() < 0.19 - 0.05
+
+
+def test_pooling_label_orders_can_create_contextuality():
+    # Two noncontextual systems with the same correlations and opposite
+    # direct influences: pooled, the influences cancel and the pooled system
+    # is contextual. So counterbalancing cells must be analysed apart.
+    e, h = 0.65, 0.075                     # s_odd = 2.6, Delta = 8h = 0.6
+    signs = (1, 1, 1, -1)
+    P1 = np.array([cbd.cells_from_moments(h, -h, signs[k] * e) for k in range(4)])
+    P2 = np.array([cbd.cells_from_moments(-h, h, signs[k] * e) for k in range(4)])
+    assert cbd.delta_c(P1) == pytest.approx(0.0)
+    assert cbd.delta_c(P2) == pytest.approx(0.0)
+    assert cbd.delta_c(cbd.mixture(P1, P2)) == pytest.approx(0.6)
+
+
+def test_shrink_reduces_signalling_estimate():
+    rng = np.random.default_rng(4)
+    P = cbd.true_system(0.0, 0.0)
+    counts = np.stack([rng.multinomial(400, P[k], size=2000) for k in range(4)], axis=1)
+    _, d0 = cbd.system_moments(counts)
+    _, d1 = cbd.system_moments(counts, shrink=1.0)
+    assert d1.mean() < 0.25 * d0.mean()
+    # the plug-in bias at zero signalling is about 4 * sqrt(2/n) * sqrt(2/pi)
+    assert d0.mean() == pytest.approx(4 * np.sqrt(2 / 400) * np.sqrt(2 / np.pi), rel=0.05)

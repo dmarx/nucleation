@@ -54,27 +54,39 @@ def moments(counts: np.ndarray):
     return m_a, m_b, e
 
 
-def system_moments(counts: np.ndarray):
+def system_moments(counts: np.ndarray, shrink: float = 0.0):
     """For a system (leading axes ..., 4 contexts, 4 cells) return E (...,4) and signalling Delta (...).
 
     Context k measures (q_k, q_{k+1}); so content q appears as the first
     variable of context q and the second variable of context q-1.
+
+    shrink > 0 soft-thresholds each content's |difference| by shrink times
+    its estimated standard error (needs counts, not probabilities). It
+    trades the plug-in's upward bias at zero signalling for a downward one
+    at small signalling; the simulation measures what that costs in size.
     """
     m_a, m_b, e = moments(counts)          # each (..., 4)
     first = m_a                            # <R_q> in context q
     second = np.roll(m_b, 1, axis=-1)      # <R_q> in context q-1
-    delta = np.abs(first - second).sum(axis=-1)
+    d = np.abs(first - second)
+    if shrink:
+        n = np.asarray(counts, dtype=float).sum(axis=-1)
+        se = np.sqrt(np.clip(1 - first ** 2, 0, None) / n
+                     + np.clip(1 - second ** 2, 0, None) / np.roll(n, 1, axis=-1))
+        d = np.clip(d - shrink * se, 0, None)
+    delta = d.sum(axis=-1)
     return e, delta
 
 
-def delta_c(counts: np.ndarray, signs: np.ndarray | None = None) -> np.ndarray:
+def delta_c(counts: np.ndarray, signs: np.ndarray | None = None,
+            shrink: float = 0.0) -> np.ndarray:
     """Delta_C for one or many systems.
 
     signs=None takes s_odd, the maximum over odd sign vectors (the criterion
     as stated). A fixed odd sign vector gives the preregistered statistic,
     which does not pay the upward bias of the maximum.
     """
-    e, delta = system_moments(counts)
+    e, delta = system_moments(counts, shrink)
     if signs is None:
         s = (e[..., None, :] * ODD_SIGNS).sum(axis=-1).max(axis=-1)
     else:
@@ -111,7 +123,7 @@ def true_system(dc: float, signal: float, base: float = 0.0,
 
 
 def bootstrap_bounds(counts: np.ndarray, rng: np.random.Generator, B: int,
-                     alphas, signs=None) -> np.ndarray:
+                     alphas, signs=None, shrink: float = 0.0) -> np.ndarray:
     """Percentile bootstrap quantiles of Delta_C, resampling respondents within each context.
 
     counts: (reps, 4, 4). Returns an array (len(alphas), reps) of quantiles.
@@ -124,7 +136,7 @@ def bootstrap_bounds(counts: np.ndarray, rng: np.random.Generator, B: int,
     for k in range(4):
         # Generator.multinomial broadcasts n and pvals over the leading axes.
         boot[:, :, k, :] = rng.multinomial(n[:, k], phat[:, k, :], size=(B, reps))
-    stats = delta_c(boot, signs)                   # (B, reps)
+    stats = delta_c(boot, signs, shrink)           # (B, reps)
     return np.quantile(stats, np.asarray(alphas), axis=0)
 
 
@@ -155,3 +167,8 @@ def wald_bounds(counts: np.ndarray, z: float, signs) -> tuple[np.ndarray, np.nda
     se = np.sqrt((var_g / n).sum(-1))
     est = delta_c(counts, signs)
     return est - z * se, est + z * se
+
+
+def mixture(P1: np.ndarray, P2: np.ndarray, w: float = 0.5) -> np.ndarray:
+    """The system observed when two subsystems (say, two label orders) are pooled."""
+    return w * P1 + (1 - w) * P2
