@@ -271,7 +271,7 @@ In [LEAD-172](../leads.d/LEAD-172.md)'s reduced run ([CASE-tmpb4hg0](../cases.d/
 
 <!-- inactive-ok-file: CASE-tmp7n58t CLAIM-tmpzujm1 CLAIM-tmp0h57p — new; the study and claims of LEAD-052, filed 2026-11-22 -->
 
-A2's first project, run for LEAD-052 (CASE-tmp7n58t): eight items on a
+A2's first project, run for [LEAD-052](../leads.d/LEAD-052.md) ([CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md)): eight items on a
 depth-3 tree, inputs and targets each given a strength per level, and the
 acquisition time of each level read from the network's own output.
 
@@ -280,7 +280,7 @@ acquisition time of each level read from the network's own output.
   projectors, so kernel flow acquires the levels in the order of its
   per-level eigenvalue, which depends on the input strengths alone; a
   decoupled deep linear network orders them by input strength times target
-  strength (CLAIM-tmpzujm1, demonstrated). Commutation here does not
+  strength ([CLAIM-tmpzujm1](../claims.d/CLAIM-tmpzujm1.md), demonstrated). Commutation here does not
   make acquisition coarse to fine: it makes the order spectral, and
   whether the spectral order is the refinement order is then a fact about
   where the strength sits.
@@ -290,7 +290,7 @@ acquisition time of each level read from the network's own output.
   data can be coarse-first for one and simultaneous or fine-first for the
   other. A small two-layer ReLU network from small scale kept the
   deep linear direction with its spread of times compressed, so much of
-  its map is simultaneous (CLAIM-tmp0h57p, empirical).
+  its map is simultaneous ([CLAIM-tmp0h57p](../claims.d/CLAIM-tmp0h57p.md), empirical).
 
 For these model classes on tree-symmetric data this gives the condition:
 the acquisition order agrees with the refinement order when, and only

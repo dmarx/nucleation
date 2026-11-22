@@ -33,7 +33,7 @@ bears_on:
 grounds:
 - CASE-tmp7n58t
 summary: >-
-  The nonlinear arm of CASE-tmp7n58t. Eight items on a depth-3 tree,
+  The nonlinear arm of [CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md). Eight items on a depth-3 tree,
   inputs and targets with a strength per level, a width-64 two-layer ReLU
   network from initial scale 0.01, three seeds per cell, 130 cells. In no
   cell, at any of five threshold settings, did it acquire the levels in
@@ -55,10 +55,10 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmpzujm1 derives the order for two limiting learners: a kernel
+[CLAIM-tmpzujm1](CLAIM-tmpzujm1.md) derives the order for two limiting learners: a kernel
 reads the input strength of each level only, and a decoupled deep linear
 network the product of input and target strength. This claim places a
-small nonlinear network between them, from CASE-tmp7n58t.
+small nonlinear network between them, from [CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md).
 
 - **Direction.** From small initial scale, the two-layer ReLU network
   never ordered the levels against the deep linear network's order, in
@@ -81,10 +81,10 @@ small nonlinear network between them, from CASE-tmp7n58t.
 
 ## What it bears on
 
-For QUESTION-217, acquisition order in this family is a joint property of
+For [QUESTION-217](../questions.d/QUESTION-217.md), acquisition order in this family is a joint property of
 the strengths and the learner: the same tree gives every phase, and the
 nonlinear network's phase map is the linear one's with its boundaries
-widened into a band of simultaneous acquisition. For QUESTION-039, the
+widened into a band of simultaneous acquisition. For [QUESTION-039](../questions.d/QUESTION-039.md), the
 small network's acquisition times are set mostly by the strongest level,
 which pulls the weaker ones along, a coupling between levels that neither
 limiting learner has.

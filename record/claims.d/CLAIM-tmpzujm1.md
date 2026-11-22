@@ -35,7 +35,7 @@ grounds:
 - THEORY-186
 - THEORY-086
 summary: >-
-  A partial answer to QUESTION-217's request for sufficient conditions,
+  A partial answer to [QUESTION-217](../questions.d/QUESTION-217.md)'s request for sufficient conditions,
   for two learners. Write inputs X = √N H diag(c) R and targets
   Y = √N H diag(g) R′ in the Haar basis H of a binary tree, with level
   strengths c and g. Items then have equal norms and inner products that
@@ -46,10 +46,10 @@ summary: >-
   risk as exp(−2μ_ℓt/N), and μ_ℓ depends on c alone: target strengths
   never enter the order. For a decoupled, balanced deep linear network the
   same data give T_ℓ/T_m → c_m g_m / c_ℓ g_ℓ as the initial scale goes to
-  zero (the THEORY-186 solution with diagonal input covariance). So the
+  zero (the [THEORY-186](../theory.d/THEORY-186.md) solution with diagonal input covariance). So the
   same data can be coarse-first for one learner and simultaneous or
   fine-first for the other, and in neither does the tree's depth set the
-  order. Checked in CASE-tmp7n58t: the exact kernels and a width-2048
+  order. Checked in [CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md): the exact kernels and a width-2048
   network were simultaneous in 79 to 81 of 81 cells with flat inputs,
   and the two-layer linear network matched the product order in all 81.
   The wording is the assistant's (Claude, in this session); adopting it is
@@ -94,10 +94,10 @@ order except through the strengths placed on it.
 
 The derivation is in scratch/studies/lead-052/README.md, and its pieces
 are tested there (commutator below 10⁻¹⁰; exponential level risks to
-machine precision). Step 3 is THEORY-186's solution, extended to a
-diagonal input covariance; THEORY-086 is the kernel-regime account whose
+machine precision). Step 3 is [THEORY-186](../theory.d/THEORY-186.md)'s solution, extended to a
+diagonal input covariance; [THEORY-086](../theory.d/THEORY-086.md) is the kernel-regime account whose
 "eigenspace by eigenspace" step 2 instantiates. The study
-(CASE-tmp7n58t) checks both against trained networks.
+([CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md)) checks both against trained networks.
 
 ## What it does not say
 
@@ -108,6 +108,6 @@ diagonal input covariance; THEORY-086 is the kernel-regime account whose
   first grid), nor about depth three or more, where the study found target
   strength weighed more than input strength.
 - Nothing about finite-width or feature-learning networks; that is
-  CLAIM-tmp0h57p's empirical question.
+  [CLAIM-tmp0h57p](CLAIM-tmp0h57p.md)'s empirical question.
 - It concerns acquisition measured by the network's own output, not by a
   probe on its hidden units.

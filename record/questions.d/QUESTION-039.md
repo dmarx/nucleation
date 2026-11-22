@@ -166,13 +166,13 @@ question is unchanged.
 
 <!-- inactive-ok-file: CASE-tmp7n58t CLAIM-tmpzujm1 CLAIM-tmp0h57p — new; the study and claims of LEAD-052, filed 2026-11-22 -->
 
-LEAD-052 ran a hierarchical task in which each level's input and target
-strength is set separately (CASE-tmp7n58t), from small and order-one scale
+[LEAD-052](../leads.d/LEAD-052.md) ran a hierarchical task in which each level's input and target
+strength is set separately ([CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md)), from small and order-one scale
 and at several widths. What set the order differed by learner: the input
 strengths alone for kernel flow and for a width-2048 network, input times
-target strength for a deep linear network (CLAIM-tmpzujm1), and the same
+target strength for a deep linear network ([CLAIM-tmpzujm1](../claims.d/CLAIM-tmpzujm1.md)), and the same
 product with compressed spread for a small two-layer ReLU network from
 small scale, whose weaker levels follow the strongest soon after it is
-acquired (CLAIM-tmp0h57p). Width moved the network from the second kind
+acquired ([CLAIM-tmp0h57p](../claims.d/CLAIM-tmp0h57p.md)). Width moved the network from the second kind
 to the first between 256 and 1024 in NTK parametrization; initial scale
 did not at width 64. The question is unchanged.

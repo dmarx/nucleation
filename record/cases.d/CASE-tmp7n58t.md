@@ -24,7 +24,7 @@ bears_on:
 - QUESTION-217
 - QUESTION-039
 summary: >-
-  The study LEAD-052 asks for. Eight items on a binary tree of depth 3;
+  The study [LEAD-052](../leads.d/LEAD-052.md) asks for. Eight items on a binary tree of depth 3;
   inputs and targets written in the tree's Haar basis with a strength per
   level, c for inputs and g for targets, set freely and then rotated at
   random, so the tree fixes the distinctions and c and g fix how strong
@@ -42,14 +42,12 @@ summary: >-
   ordered the levels by tree depth as such. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-186 — Proposed; the deep linear solution, used as the method this study checks against -->
-<!-- inactive-ok-file: CLAIM-tmpzujm1 CLAIM-tmp0h57p — new; the claims this study grounds, filed 2026-11-22 -->
 
 # CASE-tmp7n58t: Acquisition order on a known tree with each level's strength set independently, in kernel, deep linear and small ReLU learners
 
 ## What was done
 
-LEAD-052 asks to train on synthetic data with a known tree, with the
+[LEAD-052](../leads.d/LEAD-052.md) asks to train on synthetic data with a known tree, with the
 spectral strength of each level varied independently of the tree, and to
 map when acquisition is coarse-first, fine-first, simultaneous or mixed,
 in deep linear, kernel-regime and small nonlinear networks. Done on
@@ -62,7 +60,7 @@ the derivation and every table, eleven tests, results/runs.jsonl with
   X = √N H diag(c) R_in and Y = √N H diag(g) R_out, so on level ℓ the
   input covariance is c_ℓ² and the input–output correlation has singular
   value c_ℓ g_ℓ.
-- **Measure.** QUESTION-217's T_ℓ(δ), with the network's output as the
+- **Measure.** [QUESTION-217](../questions.d/QUESTION-217.md)'s T_ℓ(δ), with the network's output as the
   decoder: the first time ‖P_ℓ(F − Y)‖²/‖P_ℓY‖² ≤ 0.1. Two levels tie when
   the later time is within 1.25 of the earlier; robustness at δ = 0.5 and
   0.02 and ties at 1.1 and 1.5.

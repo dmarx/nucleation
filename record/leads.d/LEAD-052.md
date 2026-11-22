@@ -53,11 +53,11 @@ kernel flow, NTK-parametrized ReLU networks of width 64 to 4096, deep
 linear networks of two and three layers, and two-layer ReLU networks from
 small and order-one scale, on a depth-3 tree over a grid of target
 strengths and a grid of input against target strengths
-(CASE-tmp7n58t). The theorem the lead hoped for holds for two classes on
-tree-symmetric data (CLAIM-tmpzujm1): kernels order the levels by input
+([CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md)). The theorem the lead hoped for holds for two classes on
+tree-symmetric data ([CLAIM-tmpzujm1](../claims.d/CLAIM-tmpzujm1.md)): kernels order the levels by input
 strength alone, decoupled deep linear networks by input times target
 strength. The small ReLU network keeps the linear direction with a
-compressed spread (CLAIM-tmp0h57p). What remains: data off the tree
+compressed spread ([CLAIM-tmp0h57p](../claims.d/CLAIM-tmp0h57p.md)). What remains: data off the tree
 symmetry, sampled or noisy items, hidden-layer probes as decoders, larger
 trees and networks, and explanations for the ReLU network's compression
 and the three-layer linear network's heavier weighting of target strength.
