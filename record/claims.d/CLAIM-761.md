@@ -154,11 +154,11 @@ question, and A37 itself kept it open.
 ## Note of 2026-11-22: the separation, applied to three cases
 <!-- inactive-ok-file: CASE-tmpo2iur CLAIM-tmpeklli — new; filed by LEAD-108's run of 2026-11-22 -->
 
-LEAD-108's model keeps feasibility, lifetime cost and who pays apart, as
-this claim does, and the three cases show them parting (CASE-tmpo2iur). A
+[LEAD-108](../leads.d/LEAD-108.md)'s model keeps feasibility, lifetime cost and who pays apart, as
+this claim does, and the three cases show them parting ([CASE-tmpo2iur](../cases.d/CASE-tmpo2iur.md)). A
 LEGO bin for a kind held in twenty copies is not needed to meet the
 deadline but still pays over ten uses. The cockpit's bugs make final
 approach feasible whether or not their lifetime saving is positive.
-CLAIM-tmpeklli adds a third route besides reuse and feasibility: a store
+[CLAIM-tmpeklli](CLAIM-tmpeklli.md) adds a third route besides reuse and feasibility: a store
 can pay by moving work to a moment when work is cheaper, with total work
 unchanged. No status change.

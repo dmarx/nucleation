@@ -33,14 +33,14 @@ complements:
 bears_on:
 - QUESTION-095
 summary: >-
-  QUESTION-095's readings named erosion of the alternative as a cost the
-  record's filing account leaves out: Risko and Gilbert, THEORY-343, find
+  [QUESTION-095](../questions.d/QUESTION-095.md)'s readings named erosion of the alternative as a cost the
+  record's filing account leaves out: Risko and Gilbert, [THEORY-343](../theory.d/THEORY-343.md), find
   that offloading wears down the internal route. In the model of
-  CASE-tmpo2iur, a store route falls back on computing when a demand is not
+  [CASE-tmpo2iur](../cases.d/CASE-tmpo2iur.md), a store route falls back on computing when a demand is not
   one the store serves (chance 1 − π) or when a wrong stored result is
   caught (πσδ). If checking repeats a share φ of the computing route, it
   draws on the eroded skill on every served use as well. So erosion ε costs,
-  per demand, εc[(1 − π) + π(σδ + φ)]. It locates where QUESTION-095's
+  per demand, εc[(1 − π) + π(σδ + φ)]. It locates where [QUESTION-095](../questions.d/QUESTION-095.md)'s
   erosion term matters. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -51,7 +51,7 @@ summary: >-
 
 ## The claim
 
-In the model of CASE-tmpo2iur a served demand costs ρ + v + σ[δ(c(1+ε) + R
+In the model of [CASE-tmpo2iur](../cases.d/CASE-tmpo2iur.md) a served demand costs ρ + v + σ[δ(c(1+ε) + R
 + …) + (1 − δ)L] and an unserved one costs miss + c(1+ε) + …, where c(1+ε)
 is computing on demand after erosion ε. Let checking repeat a share φ of
 the computing route, so that v = v₀ + φc(1+ε). Differentiating the expected
@@ -69,13 +69,13 @@ numerically; `test_erosion_raises_fallback_only` checks the case φ = 0.
   with the displayed weight, not recalling a speed (φ near 0). Erosion of
   the crew's memory for speeds weighs about cσδ per read, and in the run an
   erosion of 300% moved the saving from 6.2 to 5.8. Hutchins's point that
-  the bugs do not improve any pilot's memory (NOTE-867) costs little,
+  the bugs do not improve any pilot's memory ([NOTE-867](../notes.d/NOTE-867.md)) costs little,
   because the route that memory serves is almost never taken.
-- **A filed argument.** π is often low and unforecastable (CLAIM-308), and
+- **A filed argument.** π is often low and unforecastable ([CLAIM-308](CLAIM-308.md)), and
   checking that a filed answer is still current partly re-derives it (φ
   well above 0). Erosion then weighs on nearly every use. Whether it bites
   depends on who would reconstruct, which is an owner's choice set out in
-  CLAIM-tmpeklli.
+  [CLAIM-tmpeklli](CLAIM-tmpeklli.md).
 - **A LEGO bin.** The route replaced is search, which does not erode with
   disuse in any way the record has, so ε is about 0 whatever its weight.
 
