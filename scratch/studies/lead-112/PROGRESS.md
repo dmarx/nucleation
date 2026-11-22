@@ -40,6 +40,13 @@ is logged in search.md. Services: Europe PMC REST, arXiv, OpenAlex, no email.
   about 8 times fewer hits; fronto-parietal switch BOLD proportional to
   reportability; the measure is switch-related BOLD, not percept-specific
   content; n=6 in fMRI, two observers authors. NOTE/THEORY not yet written.
+- Kapoor 2022: Europe PMC fullTextXML for PMC8940963 returned HTTP 500 twice
+  (2026-11-22, server error, not a bot check). Read instead from the publisher's
+  open-access article page https://www.nature.com/articles/s41467-022-28897-2
+  (CC BY): abstract, Introduction, Results, Discussion; Methods headings only.
+  Two macaques, 987 units, vlPFC Utah arrays, OKN-inferred BFS and BR; content
+  decoded up to 95% and generalising PA<->BR. Switches were "unreported but
+  clearly occurring": not inconspicuous. NOTE/THEORY not yet written.
 
 ## Choices made
 
