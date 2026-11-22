@@ -83,6 +83,7 @@ class Sim:
             raise ValueError(arm)
         # turnover, the same rate in every arm
         rep = rng.random((R, N)) < p["r"]
+        self.last_rep = rep
         if arm == "A":
             entry = rng.standard_normal((R, N))
         elif arm == "B":
