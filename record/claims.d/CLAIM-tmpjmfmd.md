@@ -39,9 +39,9 @@ grounds:
 complements:
 - CLAIM-tmpupq89
 summary: >-
-  LEAD-087 stated a criterion of shared perspective in advance
-  (TERM-tmpsu4df) and ran CASE-145's populations through it
-  (CASE-tmpez9id). Its cross-member dependence condition asked that
+  [LEAD-087](../leads.d/LEAD-087.md) stated a criterion of shared perspective in advance
+  ([TERM-tmpsu4df](../terms.d/TERM-tmpsu4df.md)) and ran [CASE-145](../cases.d/CASE-145.md)'s populations through it
+  ([CASE-tmpez9id](../cases.d/CASE-tmpez9id.md)). Its cross-member dependence condition asked that
   unperturbed members move by 5% of a deviation some members carry. None
   did, in any arm, by more than 2%, though the deviants were drawn back by
   11% to 55% beyond the world's own pull, and the evidential arm's
@@ -60,14 +60,14 @@ summary: >-
 
 ## The claim
 
-**What the stated criterion found.** In CASE-tmpez9id, a fifth of the
+**What the stated criterion found.** In [CASE-tmpez9id](../cases.d/CASE-tmpez9id.md), a fifth of the
 members had their interpretation of one category moved. In the three
 populations that interact (conformity, enforcement by a referee, and
 checking disagreements against the world), the remaining members moved
 by at most 2% of that deviation over the following 300 rounds, against a
 twin run with the same random numbers. The criterion stated in advance
-(TERM-tmpsu4df) asked for 5%. So no population shares a perspective by
-it, and CASE-145's question, whether a perspective can be present with no
+([TERM-tmpsu4df](../terms.d/TERM-tmpsu4df.md)) asked for 5%. So no population shares a perspective by
+it, and [CASE-145](../cases.d/CASE-145.md)'s question, whether a perspective can be present with no
 collective agent, gets no constructed instance from this study. Nothing
 counts against the category either: the controls failed where they
 should, and conformity did not pass the evidential condition.
@@ -105,5 +105,5 @@ not in how far the majority moves.
   could would measure.
 - Not about populations that exchange states, rules or reasons directly,
   where the others' displacement may be large.
-- CLAIM-tmpupq89 is the companion finding: the rival reading's
+- [CLAIM-tmpupq89](CLAIM-tmpupq89.md) is the companion finding: the rival reading's
   restoration condition is passed by plain conformity.

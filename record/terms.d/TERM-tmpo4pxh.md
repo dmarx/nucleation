@@ -12,8 +12,8 @@ date: '2026-11-22'
 line:
 - distributed-agency
 summary: >-
-  Filed for LEAD-087, before any simulation, as the alternative to
-  TERM-tmpsu4df. Its first two conditions are the same: structural
+  Filed for [LEAD-087](../leads.d/LEAD-087.md), before any simulation, as the alternative to
+  [TERM-tmpsu4df](TERM-tmpsu4df.md). Its first two conditions are the same: structural
   concordance and cross-member dependence both ways. Its third reads A8's
   "the organization within which disagreement has consequences" as
   restoration: a deviation carried by a few members is corrected back to
@@ -29,7 +29,7 @@ summary: >-
 
 ## Definition
 
-Conditions 1 and 2 are TERM-tmpsu4df's, word for word in their
+Conditions 1 and 2 are [TERM-tmpsu4df](TERM-tmpsu4df.md)'s, word for word in their
 measurement: structural concordance beyond members trained on different
 schemas, and cross-member dependence both ways under a perturbation of a
 subset S of members.
@@ -43,7 +43,7 @@ subset S of members.
 
 ## How it is measured
 
-In the measures of TERM-tmpsu4df, for the unwarranted perturbation:
+In the measures of [TERM-tmpsu4df](TERM-tmpsu4df.md), for the unwarranted perturbation:
 recovery g of S must exceed the same population's g with interaction
 removed by ε = 0.05, and the dilution ratio ρ = s_u / g must stay below
 half the averaging benchmark, f/(2(1 − f)), which is 0.125 for f = 0.2.
@@ -51,7 +51,7 @@ half the averaging benchmark, f/(2(1 − f)), which is 0.125 for f = 0.2.
 
 ## How it differs from its rival
 
-TERM-tmpsu4df asks that uptake follow the population's standard of
+[TERM-tmpsu4df](TERM-tmpsu4df.md) asks that uptake follow the population's standard of
 evidence: a warranted deviation spreads, an unwarranted one does not.
 This term asks only that the shared structure be what is defended. A
 population that enforces its norms against all deviation, warranted or
@@ -64,6 +64,6 @@ disagreement consequences. The choice is the owner's.
 
 ## What would settle it
 
-As for TERM-tmpsu4df: if unconditional conformity passes condition 3
+As for [TERM-tmpsu4df](TERM-tmpsu4df.md): if unconditional conformity passes condition 3
 here, or common training or socially learned norms pass condition 2, the
 term fails A4's test, and that counts against the category.

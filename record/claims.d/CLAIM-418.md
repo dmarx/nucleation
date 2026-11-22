@@ -252,17 +252,17 @@ without data.
 
 No status, title or warrant changes.
 
-## Note of 2026-11-22: CASE-145 run, no instance either way
+## Note of 2026-11-22: [CASE-145](../cases.d/CASE-145.md) run, no instance either way
 
-LEAD-087 ran CASE-145 as CASE-tmpez9id, with a criterion of shared
+[LEAD-087](../leads.d/LEAD-087.md) ran [CASE-145](../cases.d/CASE-145.md) as [CASE-tmpez9id](../cases.d/CASE-tmpez9id.md), with a criterion of shared
 perspective stated in advance. No simulated population passed it, so the
 study neither illustrates this claim's separation in the direction the
 case asked for (a perspective with no collective agent) nor counts
 against it. It does show the other direction, by construction: an
 independent population with a vote adapts as a collective agent in
-TERM-044's sense with no shared perspective by the criterion: an
+[TERM-044](../terms.d/TERM-044.md)'s sense with no shared perspective by the criterion: an
 agential boundary drawn where the criterion draws no perspectival one,
-which is part 2's "need not coincide" in the less contested direction. CLAIM-tmpjmfmd says why the criterion found none, and what one that
+which is part 2's "need not coincide" in the less contested direction. [CLAIM-tmpjmfmd](CLAIM-tmpjmfmd.md) says why the criterion found none, and what one that
 could would measure.
 
 The claim is unchanged.

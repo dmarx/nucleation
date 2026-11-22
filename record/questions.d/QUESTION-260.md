@@ -68,14 +68,14 @@ capable of exercising and sometimes changing its agency across a
 plurality of perspectives". That is [CLAIM-424](../claims.d/CLAIM-424.md)'s capacity, offered as
 a criterion, and not yet argued.
 
-## Note of 2026-11-22: no example from CASE-145's run
+## Note of 2026-11-22: no example from [CASE-145](../cases.d/CASE-145.md)'s run
 
-LEAD-087 ran CASE-145 (CASE-tmpez9id) to find a shared perspective with
+[LEAD-087](../leads.d/LEAD-087.md) ran [CASE-145](../cases.d/CASE-145.md) ([CASE-tmpez9id](../cases.d/CASE-tmpez9id.md)) to find a shared perspective with
 no collective agent, after stating what a shared perspective is beyond
-correlated responses, in two rival readings (TERM-tmpsu4df,
-TERM-tmpo4pxh). None of the simulated populations shared one by that
+correlated responses, in two rival readings ([TERM-tmpsu4df](../terms.d/TERM-tmpsu4df.md),
+[TERM-tmpo4pxh](../terms.d/TERM-tmpo4pxh.md)). None of the simulated populations shared one by that
 criterion, so the question gets no example from it. Two things bear on
 how it could: under the evidential reading the populations were ordered
 as predicted but below the stated size, and the reason, members who
 interact only through answers about a shared world move one another
-little, is CLAIM-tmpjmfmd.
+little, is [CLAIM-tmpjmfmd](../claims.d/CLAIM-tmpjmfmd.md).

@@ -149,15 +149,15 @@ The case is unchanged.
 
 ## Note of 2026-11-22: run, after saying in advance what distinguishes a shared perspective
 
-LEAD-087 met A4's condition first. The criterion was filed as two rival
+[LEAD-087](../leads.d/LEAD-087.md) met A4's condition first. The criterion was filed as two rival
 terms and committed, with the study's thresholds and predicted verdicts,
 before any code: structural concordance, cross-member dependence both
 ways under a perturbation of some members, and either evidential
-answerability (TERM-tmpsu4df: a warranted deviation is taken up more than
-an unwarranted one) or restoration (TERM-tmpo4pxh: a deviation is
+answerability ([TERM-tmpsu4df](../terms.d/TERM-tmpsu4df.md): a warranted deviation is taken up more than
+an unwarranted one) or restoration ([TERM-tmpo4pxh](../terms.d/TERM-tmpo4pxh.md): a deviation is
 corrected back rather than averaged in). The owner chooses between them.
 
-The run is CASE-tmpez9id: five populations on one schema (independent,
+The run is [CASE-tmpez9id](CASE-tmpez9id.md): five populations on one schema (independent,
 socially trained then separated, conforming, enforcing by referee,
 checking disagreements against the world), each with and without a vote.
 
@@ -167,10 +167,10 @@ checking disagreements against the world), each with and without a vote.
   unperturbed members take up at most 2% of a deviation (5% was asked).
 - **The evidential condition orders the populations as predicted**, below
   its stated size, and **plain conformity passes the restorative one**,
-  which so fails A4's test (CLAIM-tmpupq89).
+  which so fails A4's test ([CLAIM-tmpupq89](../claims.d/CLAIM-tmpupq89.md)).
 - **The vote gives collective agency in every population, its absence
   none.** So the study shows the agent without the shared perspective,
   by construction, and not the perspective without the agent the case
-  asks about (CLAIM-tmpjmfmd).
+  asks about ([CLAIM-tmpjmfmd](../claims.d/CLAIM-tmpjmfmd.md)).
 
 The design is unchanged.

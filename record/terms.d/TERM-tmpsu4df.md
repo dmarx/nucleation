@@ -12,8 +12,8 @@ date: '2026-11-22'
 line:
 - distributed-agency
 summary: >-
-  Filed for LEAD-087, before any simulation, as the criterion
-  CASE-145's A4 asked for: what "additional relational
+  Filed for [LEAD-087](../leads.d/LEAD-087.md), before any simulation, as the criterion
+  [CASE-145](../cases.d/CASE-145.md)'s A4 asked for: what "additional relational
   organization distinguishes a perspective from" correlated responses or
   socially learned norms. Three conditions, each measured by perturbing
   some members and watching the rest: structural concordance (alike),
@@ -21,7 +21,7 @@ summary: >-
   answerability (a warranted deviation is taken up, an unwarranted one of
   the same size corrected). Common training passes the first and fails
   the second; unconditional conformity passes two and fails the third.
-  TERM-tmpo4pxh is the rival reading of the third condition. The
+  [TERM-tmpo4pxh](TERM-tmpo4pxh.md) is the rival reading of the third condition. The
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
@@ -33,16 +33,16 @@ summary: >-
 
 ## Why it is needed
 
-CASE-145 proposes populations trained alike, some interacting and
+[CASE-145](../cases.d/CASE-145.md) proposes populations trained alike, some interacting and
 some not, with and without a mechanism of collective decision. A4 set
 its condition: "a shared perspective will simply mean correlated
 responses or socially learned norms. The study only helps the theory if
 it specifies, ahead of time, what additional relational organization
 distinguishes a perspective from those simpler phenomena." This term is
 that specification, written and committed before the simulation of
-LEAD-087 was coded.
+[LEAD-087](../leads.d/LEAD-087.md) was coded.
 
-It is TERM-072 sense 1 said of several members. A11: interpretations
+It is [TERM-072](TERM-072.md) sense 1 said of several members. A11: interpretations
 "belong to a common organizational perspective insofar as their
 significance is mutually answerable within an identifiable regime of
 contextual selection, evaluation, and possible revision", and A8:
@@ -59,7 +59,7 @@ three hold.
 1. **Structural concordance.** The members' interpretive structures, the
    relations among their categories and not only their answers, are
    alike beyond what members trained on different schemas show. This
-   follows DeChurch and Mesmer-Magnus (THEORY-1800): structural measures
+   follows DeChurch and Mesmer-Magnus ([THEORY-1800](../theory.d/THEORY-1800.md)): structural measures
    of sharedness track team process where agreement measures do not.
    Necessary, not sufficient: common training gives it.
 2. **Cross-member dependence, both ways.** Perturb the interpretive
@@ -79,7 +79,7 @@ three hold.
    what coordinated feedback in general lacks: a population whose members
    copy one another unconditionally carries both alike, by number.
 
-Condition 3 is where this term and its rival differ. TERM-tmpo4pxh
+Condition 3 is where this term and its rival differ. [TERM-tmpo4pxh](TERM-tmpo4pxh.md)
 reads A8's "disagreement has consequences" as restoration of the shared
 structure (a deviation is corrected back to the organization rather than
 averaged into it), without requiring that the standard be one of
@@ -87,7 +87,7 @@ evidence. Which reading the record adopts is the owner's decision.
 
 ## How it is measured
 
-For the simulation of LEAD-087, stated before it was coded.
+For the simulation of [LEAD-087](../leads.d/LEAD-087.md), stated before it was coded.
 
 - A member's interpretive state is its map from situations to
   categories; its interpretive structure is the matrix of relations
@@ -113,14 +113,14 @@ For the simulation of LEAD-087, stated before it was coded.
 
 - **Not agreement.** Members can disagree on many answers and pass; they
   can agree on all and fail condition 2.
-- **Not a shared mental model.** TERM-119 is a record's publicly
+- **Not a shared mental model.** [TERM-119](TERM-119.md) is a record's publicly
   inspectable state, and a shared mental model is a property of members'
-  heads (NOTE-1804); condition 1 alone is the second.
+  heads ([NOTE-1804](../notes.d/NOTE-1804.md)); condition 1 alone is the second.
 - **Not collective agency.** Nothing here requires a collective decision,
   a collective action or a goal-directed description of the population
-  (TERM-044). That is the point of CASE-145: the two can then be
+  ([TERM-044](TERM-044.md)). That is the point of [CASE-145](../cases.d/CASE-145.md): the two can then be
   measured apart.
-- **Not TERM-126's answerability.** That is a normative relation in which
+- **Not [TERM-126](TERM-126.md)'s answerability.** That is a normative relation in which
   an actor owes a party an answer. Here "answerable" is A8's
   cross-context answerability: a member's interpretation has
   consequences for the others' under a common standard.
@@ -131,6 +131,6 @@ If, in the study, unconditional conformity passes condition 3, or common
 training or socially learned norms pass condition 2, the term does not
 make A4's distinction and, by A4's own rule, that counts against the
 category. If it makes the distinction, adoption is still the owner's
-call, between this reading and TERM-tmpo4pxh. It bears on CLAIM-417's
+call, between this reading and [TERM-tmpo4pxh](TERM-tmpo4pxh.md). It bears on [CLAIM-417](../claims.d/CLAIM-417.md)'s
 defeater, that "organizational perspective" cannot be told from
 coordinated feedback in general.

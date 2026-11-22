@@ -28,7 +28,7 @@ bears_on:
 draws_on:
 - THEORY-1800
 summary: >-
-  CASE-145 run as LEAD-087 asked, after its criterion was stated. Thirty
+  [CASE-145](CASE-145.md) run as [LEAD-087](../leads.d/LEAD-087.md) asked, after its criterion was stated. Thirty
   simulated members learn six category prototypes from one structured
   schema; at test they meet in pairs on stimuli from a shared world, with
   sparse feedback from it matched across arms. Five interaction arms:
@@ -59,7 +59,7 @@ summary: >-
 
 ## What was stated in advance
 
-CASE-145's A4: the study "only helps the theory if it specifies, ahead of
+[CASE-145](CASE-145.md)'s A4: the study "only helps the theory if it specifies, ahead of
 time, what additional relational organization distinguishes a
 perspective from" correlated responses or socially learned norms. The
 criterion was filed first, as two rival terms, and committed with the
@@ -68,15 +68,15 @@ written (scratch/studies/lead-087/README.md, "Stated in advance").
 
 - **Condition 1, structural concordance**: members' category structures
   (distances among their prototypes) correlate beyond members trained on
-  different schemas by 0.3. After DeChurch and Mesmer-Magnus (THEORY-1800).
+  different schemas by 0.3. After DeChurch and Mesmer-Magnus ([THEORY-1800](../theory.d/THEORY-1800.md)).
 - **Condition 2, cross-member dependence both ways**: perturbing a subset
   S (20%) moves the unperturbed U by more than ε = 0.05 of the deviation,
   against a twin run with the same random numbers, and S is drawn back
   more than ε faster than with interaction removed.
 - **Condition 3**, in two readings the owner chooses between.
-  TERM-tmpsu4df, evidential: a warranted deviation is taken up by U more
+  [TERM-tmpsu4df](../terms.d/TERM-tmpsu4df.md), evidential: a warranted deviation is taken up by U more
   than an unwarranted one of the same size, by more than ε.
-  TERM-tmpo4pxh, restorative: the deviation is restored rather than
+  [TERM-tmpo4pxh](../terms.d/TERM-tmpo4pxh.md), restorative: the deviation is restored rather than
   averaged, its dilution ratio under half the averaging benchmark f/(1 − f).
 - **A4's failure rule**, stated with them: if plain conformity passes
   condition 3, or the correlated-response or learned-norm populations
@@ -105,7 +105,7 @@ stimulus, the majority label is enacted through a collective policy
 table that learns from a collective reward no member receives. It does
 not feed back into the members' prototypes, so the perspective measures
 are the same with and without it. Collective agency was tested in
-TERM-044's sense only: the collective contingency flips at round 300,
+[TERM-044](../terms.d/TERM-044.md)'s sense only: the collective contingency flips at round 300,
 and the population's action must adapt (a > 0.25). Without the vote the
 population's action is read as the majority of members' own actions.
 
@@ -149,9 +149,9 @@ members agreed on about 96% of answers in every arm.
 - **Collective agency follows the vote, in every arm.** With it the
   population adapts to the flipped contingency (a ≈ 0.63); without it,
   not at all. The independent population with a vote is a collective
-  agent, in TERM-044's sense, with no shared perspective by the
+  agent, in [TERM-044](../terms.d/TERM-044.md)'s sense, with no shared perspective by the
   criterion: the boundaries come apart in that direction, by
-  construction. The direction LEAD-087 asked for, a perspective with no
+  construction. The direction [LEAD-087](../leads.d/LEAD-087.md) asked for, a perspective with no
   collective agent, is not shown, because no population passed the
   perspective criterion.
 
@@ -180,16 +180,16 @@ rescored here.
   responses and learned norms from interacting populations (conditions 1
   and 2's recovery part), and its evidential condition separates
   evaluation from conformity in direction. It did not find a shared
-  perspective anywhere, so it neither supports CLAIM-418's separation by
-  example nor answers QUESTION-260. By the evidential reading's stated
+  perspective anywhere, so it neither supports [CLAIM-418](../claims.d/CLAIM-418.md)'s separation by
+  example nor answers [QUESTION-260](../questions.d/QUESTION-260.md). By the evidential reading's stated
   rule nothing counts against the category; by the restorative reading's,
   conformity passing condition 3 does.
-- **For CLAIM-417's defeater** (that "organizational perspective" cannot
+- **For [CLAIM-417](../claims.d/CLAIM-417.md)'s defeater** (that "organizational perspective" cannot
   be told from coordinated feedback in general): the evidential reading
   tells them apart in direction and not at the size stated; the
   restorative reading does not tell them apart.
-- **The findings filed from it.** CLAIM-tmpupq89: restoration does not
-  tell evaluation from conformity on answers. CLAIM-tmpjmfmd: the
+- **The findings filed from it.** [CLAIM-tmpupq89](../claims.d/CLAIM-tmpupq89.md): restoration does not
+  tell evaluation from conformity on answers. [CLAIM-tmpjmfmd](../claims.d/CLAIM-tmpjmfmd.md): the
   criterion finds no shared perspective here, and why.
 - **Not real groups.** A stipulated model of one size, one schema, label
   exchange only. It shows what a criterion does on populations whose
