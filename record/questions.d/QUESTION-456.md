@@ -249,3 +249,26 @@ mode 2 and sharpens it**, and leaves the question open.
   this question's concern about governance would also call into question.
 
 Its stand-in, [LIT-2458](../literature.d/LIT-2458.md), is superseded in that role.
+
+## Note of 2026-11-22: Monnier et al., read
+
+<!-- inactive-ok-block: THEORY-tmpnit00 — Proposed; the reading of Monnier et al., 2026-11-22 -->
+LIT-2451 is read (NOTE-tmprfp2e; THEORY-tmpnit00, which now `bears_on`
+this question) and now Active. It bears on failure mode 1, and corrects
+A's statement of it. A said "a small statistically underrepresented group
+can disappear inside" an aggregate. The paper shows something broader:
+any single score over intersectional subgroups needs a meta-metric
+(comparison, aggregation, weighting), the meta-metrics agree only when
+there is no disparity, and they can reverse rankings otherwise; the
+default worst-gap rule scores an isolated victim and a pervasive spread
+alike (§4.1.1). Whether a small group disappears depends on a weighting
+the paper treats as one more normative choice: by sample size it damps
+small groups, inversely it emphasizes them (§3.4.1).
+
+The paper takes the subgroups as given: "The designation of an attribute
+as sensitive is assumed to result from prior normative and societal
+deliberation" (§3.1). So it bears on how identified demands are weighed
+against one another, which the compatibility complex also needs, and not
+on who counts as a claimant. Its guidelines are the second half of A42's
+procedure, justifying the resolution, for one measurement practice. The
+question stays Open.

@@ -227,3 +227,35 @@ survey of teleological theories of content ([THEORY-tmpuzicj](../theory.d/THEORY
 
 Neither text bears on the practical or moral rungs. The question stays
 Open.
+
+## Note of 2026-11-22: Leffler, read, as the adversarial test
+
+<!-- inactive-ok-block: THEORY-tmpdrt3r CLAIM-tmp8g26d CLAIM-tmprcgr5 CLAIM-tmpn4gbs ARG-tmpxsh8r — Proposed; Leffler's reading and the three readings of the test, filed for LEAD-158 -->
+<!-- inactive-ok-block: THEORY-220 THEORY-071 THEORY-628 CLAIM-648 — Proposed; the record's route to self-generated norms -->
+Leffler's "Constitutivism's plight" (LIT-2444) is read (NOTE-tmp4a8iu;
+THEORY-tmpdrt3r, which now `bears_on` this question). It is the test the
+note of 2026-11-12 flagged. Leffler shows that the one inescapability
+argument that explains why constitutive norms have force, Korsgaard's
+"plight" as he reconstructs it, makes that force relative to the
+constitution: "agents with different constitutions have different norms
+applying to them as forceful" (p. 20).
+
+The record's first two rungs take norms from an organization's own
+self-maintenance (THEORY-220, THEORY-071, THEORY-628, CLAIM-648), which is
+constitutivism in Leffler's broad sense; ARG-tmpxsh8r carries his
+argument to organizations. What that does to this question admits three
+readings, filed as alternatives for the owner:
+
+- **(a) CLAIM-tmp8g26d**: the objection "what would count" asks for. The
+  dynamics offer only a constitutive route to force, and it ends in
+  constrained relativism, so this question's "showing that it cannot have
+  it without a premise from outside the dynamics" is had for that route.
+- **(b) CLAIM-tmprcgr5**: it narrows CLAIM-363 to the truth of verdicts,
+  leaving the force of an organization's own standard relative.
+- **(c) CLAIM-tmpn4gbs**: the record never explains force by
+  constitution (CLAIM-075; A16's separation of self-generated normativity
+  from legitimacy), so the test closes a route the record did not take.
+
+The readings agree that the organizational rungs give no authority beyond
+the organization; they differ on whether that is news. The question stays
+Open.

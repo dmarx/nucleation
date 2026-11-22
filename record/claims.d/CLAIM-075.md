@@ -118,3 +118,16 @@ Wardrope's reading of the Land Ethic ([THEORY-1822](../theory.d/THEORY-1822.md))
 ethic in which a community's integrity is itself a value, though not
 inferred from its viability. Filed as `corroborates` from the first two.
 No status change.
+
+## Note of 2026-11-22: Leffler, read
+
+<!-- inactive-ok-block: THEORY-tmpdrt3r CLAIM-tmpn4gbs — Proposed; Leffler's reading and reading (c) of the constitutivism test, filed for LEAD-158 -->
+A parallel from the constitutivist side. Leffler (THEORY-tmpdrt3r) shows
+that on the best inescapability account of normative force "exercising
+their shmagency is the plight of shmagents" (p. 19): a constitution's
+standard binds whatever has that constitution and says nothing on
+whether to have it. That is this claim's viable unjust institution for
+agents. Analogy only; no edge. Reading (c) of the constitutivism test,
+CLAIM-tmpn4gbs, `rests_on` this claim: because the record already keeps
+viability apart from what ought to persist, Leffler's choice point closes
+a route the record did not take. No status change.

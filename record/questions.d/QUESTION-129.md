@@ -157,3 +157,32 @@ It is a position, not an answer. It separates a standard's independence from our
 A's paraphrases of the question drop its relational indexing (A90 III: "a normative theory must justify the standards"), and A83 §12's gloss, "objective success under an assumed norm does not establish the norm's authority", is [CLAIM-075](../claims.d/CLAIM-075.md) rather than this question.
 
 No status changes.
+
+## Note of 2026-11-22: Leffler, Massimi and Monnier, read
+
+<!-- inactive-ok-block: THEORY-tmpdrt3r THEORY-tmptsyn2 THEORY-tmpnit00 CLAIM-tmp8g26d — Proposed; the readings and the objection filed for LEAD-158 -->
+<!-- inactive-ok-block: LIT-1228 — Unfetched; Massimi's book, read through its author's primer -->
+Three works LEAD-158 named are read, and each now `bears_on` this
+question.
+
+- **Leffler** (THEORY-tmpdrt3r): evidence for the "No" on one route. A
+  standard grounded in what an agent or organization is binds only what
+  is so constituted; "categoricity as constitution independence" is out
+  of reach (p. 21). A criterion of authority between an institution and
+  its members (A18 §4) cannot come from their constitutions. Reading (a),
+  CLAIM-tmp8g26d, states it for organizations.
+- **Massimi** (THEORY-tmptsyn2, from her primer; the book, LIT-1228, is
+  still unread): a candidate "Partial" answer, for knowledge. "No
+  particular community can sanction the reliability of their own claims
+  of knowledge or justify such reliability by their own lights";
+  reliability is what survives comparison across communities. That is
+  A22's accountability across standpoints, procedural and not grounded in
+  any one standpoint's constitution, which is why it escapes Leffler's
+  relativism. It is about which claims are reliable, not which standards
+  bind, and whether it carries over is this question.
+- **Monnier et al.** (THEORY-tmpnit00): weak. Meta-metrics for
+  intersectional fairness are a case of standards that are "equally
+  legitimate" in context, with the choice handed to domain deliberation;
+  no constraint on authority is offered.
+
+The question stays Open.

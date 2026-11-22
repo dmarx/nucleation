@@ -294,3 +294,16 @@ levels of description "are intended to answer different questions" and
 that no coarse-graining is preferred by nature (§VI): adequacy fixed by
 the target, for prediction. This claim's target is evaluative; the
 reading says nothing about that kind of target. Status unchanged.
+
+## Note of 2026-11-22: Monnier et al., read
+
+<!-- inactive-ok-block: THEORY-tmpnit00 — Proposed; the reading of Monnier et al., 2026-11-22 -->
+THEORY-tmpnit00 (Monnier, George, Guyard, Tarnec and Kountouris,
+LIT-2451) now `corroborates` this claim, independently: it is a
+measurement practice the claim does not cite. A single intersectional
+fairness score needs a meta-metric; all meta-metrics agree when the
+description shows no disparity and diverge otherwise, so that each of
+seven models on UCI Adult is fairest under some meta-metric. "none of the
+identified profiles is inherently more problematic than another" (§5.1):
+the data cannot choose, and the choice must be justified by the
+conception of fairness, the evaluative target. Status unchanged.
