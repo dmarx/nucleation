@@ -16,6 +16,7 @@ summary: >-
   [THEORY-285](../theory.d/THEORY-285.md)'s moved to [QUESTION-303](QUESTION-303.md). They are the two belief-maintained
   rivals [CLAIM-446](../claims.d/CLAIM-446.md)'s test must hold fixed.
 ---
+<!-- inactive-ok-file: NOTE-tmpexziy NOTE-tmpkouzt — new; LEAD-047's readings of 2026-11-22 -->
 
 # QUESTION-325: Is persistent avoidance in anxiety maintained by an inflated uncertainty estimate about the avoided states, as Brown, Price and Dombrovski propose, or by a pessimistic evaluation of one's own future avoidance, as Zorowitz, Momennejad and Daw propose, rather than by an inflated threat value?
 
@@ -66,3 +67,15 @@ Read in [NOTE-1552](../notes.d/NOTE-1552.md) ([LIT-2016](../literature.d/LIT-201
 ## Note of 2026-11-04: Mathys et al., "Uncertainty in perception and the Hierarchical Gaussian Filter", read
 
 Read in [NOTE-1548](../notes.d/NOTE-1548.md) ([LIT-2015](../literature.d/LIT-2015.md)). The paper qualifies the question indirectly. It supplies the machinery that uncertainty accounts of anxiety fit: learning rates specific to each kind of uncertainty, and response models that include the volatility estimate μ3. Its sensory-uncertainty simulation shows that high input noise drives the volatility estimate down, so misreading noise as change corresponds, under the HGF, to underestimating sensory noise, which inflates μ3. The paper has no anxiety model and no anxious participants. Its Appendix F warns that "there is a fundamental ambiguity between individual differences in coupling (i.e., κ) and individual differences in priors for x3 (i.e., μ(0)3)", so group differences in fitted volatility parameters need one of these fixed before they can be read as evidence here. No status changes.
+
+## Note of 2026-11-22: LEAD-047's search
+
+The search for a study that holds threat belief fixed while
+intervening on defensive authority (LEAD-047, scratch/studies/lead-047/)
+found none that also holds fixed, or measures, the uncertainty estimate
+or the belief about one's own future avoidance. The two nearest designs
+read, Sridhar, Biagi & Wake (2026), NOTE-tmpexziy, and Vestring et al.
+(2026), NOTE-tmpkouzt, measure neither. Vestring et al. read ketamine as
+down-weighting "uncertain threat cues", which is this question's
+uncertainty side in words, but uncertainty is not estimated, so the
+reading does not bear on which rival holds. No status changes.
