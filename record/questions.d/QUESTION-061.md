@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpn1400
 title: 'In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -37,6 +37,14 @@ history:
     gives a reason of its own to stay Deferred. CLAIM-003 is Proposed
     from the same date for the same reason; the summary, the body and
     the directive say so. The question is unchanged. No other change.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added, from LEAD-134: the third quantity this
+    question's note of 2026-10-18 names, self-attribution, is shown
+    separable from true control in a constructed model (CASE-tmpdv5tm).
+    It bears on the third quantity, not on the brain-access question
+    itself. The question is unchanged.
 tags:
 - consciousness
 - neuroscience
@@ -55,6 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-003 — Proposed; the compartmented-access claim this question bears on, its line reopened on 2026-10-23 -->
 <!-- inactive-ok-file: THEORY-240 — Proposed; readings listed with their limits -->
 <!-- inactive-ok-file: LIT-tmpblnvk THEORY-tmpb3deq THEORY-tmpbu9we — Proposed or Unfetched; readings and registrations of LEAD-112, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmpdv5tm CLAIM-tmppxyo3 — the executed study and finding of LEAD-134, cited in the note of 2026-11-22 on the third quantity (new; CLAIM-tmppxyo3 Proposed) -->
 
 # QUESTION-061: In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?
 
@@ -130,3 +139,17 @@ From [LEAD-112](../leads.d/LEAD-112.md). Two readings bear on this question.
   which is no compartment. The design did not look for one.
 
 The question is unchanged.
+
+## Note of 2026-11-22: the third quantity, shown separable in a model
+
+From [LEAD-134](../leads.d/LEAD-134.md). The note of 2026-10-18 added, beside integration and
+access, a third quantity: self-attribution, a system's report of its own unity,
+which "should not" be read off integration or access. [LEAD-134](../leads.d/LEAD-134.md) built and ran
+[CASE-114](../cases.d/CASE-114.md) ([CASE-tmpdv5tm](../cases.d/CASE-tmpdv5tm.md)): in a distributed-control plant, a
+centralized self-model's report of who controls what diverges systematically
+from the true, held-fixed distribution of control, while an accurate self-model
+of the same capacity tracks it. That is a concrete model in which
+self-attribution comes apart from the control it purports to report, which is
+the separability the third quantity asserts. It bears on that quantity, not on
+this question's own subject, which is whether conscious *access* in a brain is
+one exclusive broadcast. The question is unchanged.
