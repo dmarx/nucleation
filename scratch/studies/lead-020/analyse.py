@@ -52,6 +52,19 @@ def main():
                   if full in table else f"\n== {v}")
             singles = {c: st.get(remove(full, c)) for c in CANDS}
             print("  single removals from the full loop:", singles)
+            # rule: with evidence, free iff some scoring anchor (commit, fluency, capture)
+            agree, misses = 0, []
+            for on, s in st.items():
+                if s == "blind":
+                    continue
+                pred = "free" if on & {"commit", "fluency", "capture"} else "locks"
+                if s == pred:
+                    agree += 1
+                else:
+                    misses.append(f"{'+'.join(sorted(on)) or 'none'}={s}"
+                                  f"({table[on]['lockin_mean']:.2f})")
+            print(f"  anchor rule agrees on {agree} of {agree + len(misses)} non-blind loops;"
+                  f" misses: {misses}")
             # removal that makes a free loop lock in
             causes = defaultdict(list)
             minimal = []
@@ -72,6 +85,10 @@ def main():
                     minimal.append((sorted(on), outs))
             print("  removal from a free loop -> locks in (count of free loops):",
                   {c: len(causes[c]) for c in CANDS})
+            for c in ("sense", "capture", "body", "others"):
+                for on in causes[c]:
+                    t = table[remove(on, c)]
+                    print(f"  removing {c} from {'+'.join(sorted(on))} -> locks {t['lockin_mean']:.2f}")
             for on, outs in sorted(minimal):
                 print("  minimal free loop:", "+".join(on), "| removing ->", outs)
             # adding a candidate to a free loop that makes it lock in
