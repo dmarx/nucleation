@@ -1,0 +1,55 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-22, not read. Registered by a targeted Crossref title
+  search for the [LEAD-054](../leads.d/LEAD-054.md) search; Engeser and Baumann ([LIT-tmpu4yh1](LIT-tmpu4yh1.md))
+  report it found flow associated with subsequent positive mood. Semantic
+  Scholar lists no open copy (closed).
+title: 'Flow at work: An experience sampling approach'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed, not read, from the LEAD-054 search, 2026-11-22: not in the
+    Europe PMC result set, found by Crossref title search. Checked against
+    Crossref: Clive J. Fullagar and E. Kevin Kelloway, Journal of
+    Occupational and Organizational Psychology 82(3): 595-615, print
+    September 2009; `published:` is the first of September 2009, the
+    earliest date Crossref gives. A grep of record/literature.d for the
+    DOI, the title and the first author on 2026-11-22 found nothing.
+tags:
+- emotion-and-affect
+- motivation
+date: '2026-11-22'
+published: '2009-09-01'
+doi: '10.1348/096317908x357903'
+first_author: 'Fullagar'
+keywords:
+- 'flow'
+- 'experience sampling'
+- 'work'
+- 'mood'
+implementations: []
+summary: >-
+  Fullagar and Kelloway (2009), DOI-10.1348/096317908x357903. Reported by
+  Engeser and Baumann as finding flow followed by positive mood, the
+  pattern [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit predicts; their own data do not show it.
+  Which of the two holds is the reason to read it. Unverified until read.
+---
+<!-- inactive-ok-file: CLAIM-441 — new or Proposed; the readings that report this work and the claims it bears on -->
+
+# LIT-tmpvw1m3: Flow at work: An experience sampling approach
+
+Clive J. Fullagar and E. Kevin Kelloway (2009). *Journal of Occupational and Organizational Psychology* 82(3): 595-615. DOI-10.1348/096317908x357903
+
+## Key takeaways
+
+*Not read.* As Engeser and Baumann ([LIT-tmpu4yh1](LIT-tmpu4yh1.md), §4) report it: an experience-sampling study with 40 architecture students at their study work, finding "evidence that flow is associated with subsequent positive mood". Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-22 by the [LEAD-054](../leads.d/LEAD-054.md) search for experience-sampling
+studies of flow with affect reported during the episode
+(scratch/studies/lead-054/screening.tsv). It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third
+exit, that flow's positivity comes after the episode and not during it.

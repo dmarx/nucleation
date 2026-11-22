@@ -1,0 +1,10 @@
+EPMC	53	TITLE_ABS:"flow" AND (TITLE_ABS:"experience sampling" OR TITLE_ABS:"ecological momentary") AND (TITLE_ABS:"affect" OR TITLE_ABS:"happiness" OR TITLE_ABS:"emotion" OR TITLE_ABS:"enjoyment" OR TITLE_ABS:"mood")
+EPMC	15	(TITLE_ABS:"flow experience" OR TITLE_ABS:"experience of flow" OR TITLE_ABS:"flow state") AND (TITLE_ABS:"experience sampling" OR TITLE_ABS:"ecological momentary" OR TITLE_ABS:"diary" OR TITLE_ABS:"ESM")
+EPMC	1	TITLE_ABS:"flow" AND TITLE_ABS:"paradox of work"
+EPMC	9	TITLE_ABS:"optimal experience" AND (TITLE_ABS:"experience sampling" OR TITLE_ABS:"ESM")
+EPMC	12	(TITLE_ABS:"flow experience" OR TITLE_ABS:"flow state") AND (TITLE_ABS:"positive affect" OR TITLE_ABS:"valence" OR TITLE_ABS:"pleasantness") AND (TITLE_ABS:"during" OR TITLE_ABS:"momentary" OR TITLE_ABS:"real-time" OR TITLE_ABS:"in situ")
+EPMC-measure	0	TITLE_ABS:"flow" AND (TITLE_ABS:"intrinsic pleasantness" OR TITLE_ABS:"goal conduciveness" OR TITLE_ABS:"goal-conduciveness")
+EPMC-measure	0	(TITLE_ABS:"intrinsic pleasantness") AND (TITLE_ABS:"goal conduciveness" OR TITLE_ABS:"goal-conduciveness") AND (TITLE_ABS:"experience sampling" OR TITLE_ABS:"momentary" OR TITLE_ABS:"absorption" OR TITLE_ABS:"engagement")
+arXiv	0	abs:"flow experience" AND abs:"experience sampling"
+arXiv	2	abs:"flow state" AND (abs:"affect" OR abs:"emotion") AND (abs:"momentary" OR abs:"real-time" OR abs:"in-game")
+unique records: 83

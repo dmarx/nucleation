@@ -1,0 +1,60 @@
+---
+status: Unfetched
+status_note: >-
+  a lawful copy located and not read, 2026-11-22: the publisher's CC BY
+  open-access PDF at
+  https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jora.12522
+  answered 403 with a Cloudflare challenge; not retried. Europe PMC holds
+  no full text. Registered from the [LEAD-054](../leads.d/LEAD-054.md) search (Europe PMC, query 1).
+title: 'Internal and External Factors Underlying Variations in Adolescents’ Daily Optimal Experiences'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed from the LEAD-054 search of Europe PMC, 2026-11-22; a fetch of
+    the open-access PDF met a Cloudflare challenge and was not retried
+    (ADR-053). Checked against Crossref: Dionísia Tavares, Teresa Freire
+    and Susana Faria, Journal of Research on Adolescence 30(1): 266-284,
+    online 27 June 2019, which is the `published:` date. Semantic Scholar
+    marks it open access under CC BY. A grep of record/literature.d for
+    the DOI, the title and the first author on 2026-11-22 found nothing.
+tags:
+- emotion-and-affect
+- motivation
+- well-being
+date: '2026-11-22'
+published: '2019-06-27'
+doi: '10.1111/jora.12522'
+first_author: 'Tavares'
+keywords:
+- 'optimal experience'
+- 'experience sampling'
+- 'positive affect'
+- 'negative affect'
+- 'effortless attention'
+- 'adolescents'
+implementations: []
+summary: >-
+  Tavares, Freire and Faria (2019), DOI-10.1111/jora.12522. An in-episode
+  experience-sampling study relating momentary positive affect to optimal
+  experience; here for [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit and, through effortless
+  attention, [CLAIM-162](../claims.d/CLAIM-162.md). Unfetched; the abstract's report is unverified
+  until read.
+---
+<!-- inactive-ok-file: CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
+
+# LIT-tmpptux6: Internal and External Factors Underlying Variations in Adolescents’ Daily Optimal Experiences
+
+Dionísia Tavares, Teresa Freire and Susana Faria (2019). *Journal of Research on Adolescence* 30(1): 266-284. DOI-10.1111/jora.12522
+
+## Key takeaways
+
+*Not read.* By the abstract: experience sampling of 245 Portuguese adolescents; challenge-skill perception and momentary positive affect were positively, and negative affect negatively, associated with optimal experience, with effortless attention mediating. Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-22 by the [LEAD-054](../leads.d/LEAD-054.md) search for experience-sampling
+studies of flow with affect reported during the episode
+(scratch/studies/lead-054/screening.tsv). It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third
+exit, that flow's positivity comes after the episode and not during it.
