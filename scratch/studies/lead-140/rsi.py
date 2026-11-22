@@ -61,7 +61,7 @@ from dataclasses import dataclass, replace
 
 import numpy as np
 
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)),
+sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)),
                                 "..", "lead-048"))
 from model import Config, Org, run  # noqa: E402
 
