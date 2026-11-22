@@ -119,3 +119,100 @@ X =d AX + B; Kesten–Goldie (Kesten–Grincevičius–Goldie) theorem;
 Cramér-type condition E A^κ = 1 and the tilted measure; implicit renewal
 theory; Grey's B-driven case; max recursion X = AX ∨ B and the maximum of
 a random walk; Lyapunov exponent; Le Page's matrix theorem.
+
+## Step 3: recheck (2026-11-22)
+
+Second grep over record/ with: Lindley, GARCH, Cramér–Lundberg, ruin,
+Gabaix, Sornette, Furstenberg, Lyapunov/Liapunov, perpetuity, reflected
+random walk, Champernowne, max recursion.
+
+- LIT-tmph6kst, Gabaix (1999), "Zipf's Law for Cities: An Explanation",
+  Deferred, registered from Newman for the lower-bound mechanism. Missed
+  by the first search. Bearing: parallel/background. Gabaix's mechanism
+  (Gibrat with a lower reflecting barrier) is of the max form of result
+  5; Kevei does not cite Gabaix, so the link is the reader's.
+- QUESTION-505 (what fixes the exponent): its table row "κ with
+  E[A^κ] = 1" and its "balance" reading are supported; result 6 (the
+  tilted measure Pκ) is the formal sense of "the moment at which
+  multiplicative growth just balances".
+- SYNTHESIS-119 and TERM-tmpg1vx2: both name the additive floor and the
+  reflecting barrier as two floors. Qualifies usefully: both have the
+  same exponent equation (results 1, 5), and the reflecting theorem is
+  Goldie's.
+- THEORY-407 and NOTE-078 (multiplicative ergodic theorem,
+  Furstenberg–Kesten): background for the matrix form (result 8, where a
+  negative Lyapunov exponent β plays the part of E log A < 0). Not about
+  Kesten 1973.
+- CLAIM-803 (demand for dynamics): strengthened by result 4, since a
+  power tail in X can come from B alone.
+- CLAIM-795, CLAIM-830, THEORY-2150: found by the first search; no
+  bearing beyond what CLAIM-824's notes record.
+- GARCH, Lindley, Cramér–Lundberg, ruin: no relevant hits (hits in
+  NOTE-053, NOTE-508 and others are unrelated).
+
+## Verdict on the exchange's characterization
+
+- LIT-3005's summary ("power-law tail when the multipliers contract on
+  average but sometimes exceed one"): faithful, read as E log A < 0 and
+  P(A > 1) > 0 (results 1, 3). "Contract on average" must mean in log
+  terms; E A may exceed 1 (when κ < 1).
+- LIT-3005's status note ("a reflecting or additive term"): the paper is
+  the additive equation. The reflecting (max) form with the same κ is
+  Goldie 1991, Theorem 5.2 (result 5), not Kesten 1973.
+- CLAIM-824's `defeated_if` conditions match Kevei's (2) closely. Gaps:
+  E|B|^κ (B may be signed), non-degeneracy P{Ax + B = x} < 1, and a
+  two-sided tail with c+ + c− > 0, so "Pareto with exponent κ" can hold
+  on one side only. E log A < 0 and P(A > 1) > 0 follow from E A^κ = 1
+  with κ > 0 and A ≢ 1 and are not separate hypotheses (result 3).
+- CLAIM-824's "even when the process contracts on average" understates:
+  log-contraction is required, not merely permitted (result 3).
+- The scalar X = AX + B is called "Kesten" by usual attribution, but
+  Kesten's article is about matrices; the scalar re-proof is Goldie's
+  (result 2).
+
+## Bearing on the named codes
+
+- CLAIM-824: supports the Kesten half (result 1), at second hand, with
+  E[A^κ] = 1 as the exponent equation and the conditions as listed.
+  Qualifies: log-contraction is necessary (3); a power tail can come from
+  B alone (Grey, 4), so a Pareto stationary tail does not by itself show
+  the A-driven mechanism; a reflecting floor gives the same κ by Goldie's
+  max equation (5), which joins the claim's two kinds of floor (its note
+  of 2026-11-21) under one exponent equation. Leaves the lognormal half
+  untouched.
+- ARG-140: supports its verdict that the Kesten half rests on Kesten and
+  that a reflecting minimum is a different construction; adds that the
+  reflecting form has its own theorem with the same condition (Goldie
+  Thm 5.2, via Kevei p. 4), so Mitzenmacher's κ = 1 Champernowne example
+  is an instance of a theorem, not only of the equation.
+
+## Limitations
+
+The original is unread; everything above is the neighbours'
+restatement. Not checked against the paper: whether Kesten states the
+scalar case, his exact hypotheses (Alsmeyer–Mentemeier's "one extra
+condition"), his constants and their positivity. Kevei's paper is a note
+on an extension, so its restatement is brief.
+
+## Candidate THEORY
+
+Sentence: "Kesten's 1973 theorem, as restated by Kevei (2016) and by
+Alsmeyer and Mentemeier (2011), says the stationary solution of the
+random difference equation X = AX + B has a power-law tail,
+P(X > x) ~ c x^(−κ), where κ > 0 solves E[A^κ] = 1, given
+E[A^κ log⁺A] < ∞, E|B|^κ < ∞ and a nonarithmetic log A; the condition
+forces E log A < 0, and Kesten proved it for products of random matrices
+in d dimensions."
+
+promote_when: "A reading of Kesten (1973) itself confirms that it proves
+a tail P(X > x) ~ c x^(−κ), with κ fixed by E[A^κ] = 1 or its matrix
+analogue, for the stationary solution of X = AX + B under these
+hypotheses, and that the result is stated for random matrices in d
+dimensions."
+
+## Report status
+
+Original: Unfetched (Project Euclid, Incapsula WAF, 2026-11-22). Two
+neighbours read (arXiv:1512.07262v2, arXiv:1009.1728v3); each needs its
+own LIT, NOTE and THEORY as a stand-in (ADR-114). No other work read or
+quoted. Nothing written to record/.
