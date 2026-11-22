@@ -24,7 +24,7 @@ bears_on:
 variant_of:
 - CASE-272
 summary: >-
-  A reduced run of the design of CASE-272, for LEAD-172. numpy only, CPU, about
+  A reduced run of the design of [CASE-272](CASE-272.md), for [LEAD-172](../leads.d/LEAD-172.md). numpy only, CPU, about
   20 minutes of compute on a shared machine. 25 networks (p = 37, an
   embedding for each operand summed into 128 ReLU units, then an
   unembedding; full-batch AdamW, lr 0.01): 15 fit arms at weight decay 1.0
@@ -51,7 +51,7 @@ summary: >-
 
 ## What was run
 
-LEAD-172 asks for CASE-272's design, run: train small transformers on
+[LEAD-172](../leads.d/LEAD-172.md) asks for [CASE-272](CASE-272.md)'s design, run: train small transformers on
 modular addition, track the training kernel's eigenspaces and each layer's
 coupling among Fourier modes over checkpoints, fit on early checkpoints,
 predict later change under held-out interventions, and compare with a null
@@ -85,7 +85,7 @@ the data.
   (k, k, −k), k ≠ 0, the selection rule χ_k(a)χ_k(b) = χ_k(a + b). C2 is
   the share of the logits' energy on those triads. It is a global
   coupling, input modes to output modes through the whole network, not
-  CASE-272's per-layer Jacobian M_ℓ(x).
+  [CASE-272](CASE-272.md)'s per-layer Jacobian M_ℓ(x).
 - **Rule coupling in the hidden layer (C1sel).** Of the hidden
   activations' energy on mixed modes χ_k(a)χ_l(b), k, l ≠ 0, the share on
   l = k. The first layer is additive in a and b, so all mixing is made by
@@ -96,13 +96,13 @@ the data.
   which edges differs.
 - **Fourier energy.** The mean over hidden units of the top frequency's
   share of each embedding's spectrum: the sparsity measure of the progress
-  measures literature (THEORY-022).
+  measures literature ([THEORY-022](../theory.d/THEORY-022.md)).
 - **Kernel.** The empirical tangent kernel over all p² inputs, summed over
   classes, in closed form (checked against explicit Jacobians). KA is the
   share of its top-37 eigenspace lying in the span of functions of a + b;
   K_rot, the rotation of that eigenspace between kernel checkpoints
   250 steps apart, is a proxy for the moving-basis term Ω of
-  QUESTION-217's note of 2026-11-15.
+  [QUESTION-217](../questions.d/QUESTION-217.md)'s note of 2026-11-15.
 - **Training loss, test loss and test accuracy** at the same checkpoint.
 
 ## The prospective test
@@ -141,7 +141,7 @@ difference shows only under the held-out intervention.
   intervention.** At both checkpoints the logits' share on the
   selection-rule triads is the best forecast, and every random set of the
   same number of triads does no better than a constant. What carries the
-  forecast is which couplings, not how many: the null that QUESTION-275
+  forecast is which couplings, not how many: the null that [QUESTION-275](../questions.d/QUESTION-275.md)
   asks for is met for this measure in this setting.
 - **It beats Fourier energy, the progress-measure baseline, but not by
   much.** 0.13 against 0.20, on 8 held-out arms from 2 settings.
@@ -168,7 +168,7 @@ difference shows only under the held-out intervention.
 - **Not a transformer.** No attention, one hidden layer, so "each layer's
   coupling" is two measures, not a stack.
 - **One task, one modulus, one width.** The Fourier basis is given by ℤ/37.
-  As CASE-272 says, a positive result here does not show that modes
+  As [CASE-272](CASE-272.md) says, a positive result here does not show that modes
   can be found where no symmetry supplies them.
 - **The target is a time, not an intervention response.** The design also
   asks for held-out Fourier ablations; none was run.
@@ -184,14 +184,14 @@ difference shows only under the held-out intervention.
 
 ## Where it sits
 
-It is the first executed run of CASE-272 and evidence on CLAIM-698's
+It is the first executed run of [CASE-272](CASE-272.md) and evidence on [CLAIM-698](../claims.d/CLAIM-698.md)'s
 criterion: a description in modes the task justifies, and the couplings
 its group selects, forecasts a training response under an unseen
 intervention better than feature-level (Fourier energy) and outcome-level
 accounts fitted on the same arms, and better than couplings chosen at
 random. It is not the matched comparison against circuit-attribution or
-parameter-overlap accounts that CLAIM-698's defeater names, and it
-does not test QUESTION-275's feature-allocation model. What it finds is
-filed as CLAIM-tmp6rhuv.
+parameter-overlap accounts that [CLAIM-698](../claims.d/CLAIM-698.md)'s defeater names, and it
+does not test [QUESTION-275](../questions.d/QUESTION-275.md)'s feature-allocation model. What it finds is
+filed as [CLAIM-tmp6rhuv](../claims.d/CLAIM-tmp6rhuv.md).
 
 Rerun: scratch/studies/lead-172/README.md.

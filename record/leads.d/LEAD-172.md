@@ -58,7 +58,7 @@ an account of the circuit's formation.
 
 ## Note of 2026-11-22: a reduced run, done
 
-A delegated worker ran a reduced form of the study on CPU (numpy; torch is not installed), filed as CASE-tmpb4hg0, with the finding as CLAIM-tmp6rhuv. Scripts, tests, per-step results and the analysis are under scratch/studies/lead-172/.
+A delegated worker ran a reduced form of the study on CPU (numpy; torch is not installed), filed as [CASE-tmpb4hg0](../cases.d/CASE-tmpb4hg0.md), with the finding as [CLAIM-tmp6rhuv](../claims.d/CLAIM-tmp6rhuv.md). Scripts, tests, per-step results and the analysis are under scratch/studies/lead-172/.
 
 Done:
 - 25 attention-free networks on addition mod 37: 15 fit arms at weight decay 1.0 and 10 held-out arms at weight decay 0.5 and 2.0, as the held-out training intervention.
@@ -71,6 +71,6 @@ What remains of the lead:
 - a transformer with attention, which needs torch or a longer hand-written backward pass;
 - held-out Fourier ablations as the predicted response, not only the generalization time;
 - interventions other than weight decay;
-- QUESTION-275's comparators: the feature-allocation model and circuit-only descriptions.
+- [QUESTION-275](../questions.d/QUESTION-275.md)'s comparators: the feature-allocation model and circuit-only descriptions.
 
 The stage and status are the owner's.

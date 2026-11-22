@@ -36,14 +36,14 @@ bears_on:
 corroborates:
 - CLAIM-698
 summary: >-
-  What the run of CASE-tmpb4hg0 finds, stated so that it can fail. At step 250 or 500 of
+  What the run of [CASE-tmpb4hg0](../cases.d/CASE-tmpb4hg0.md) finds, stated so that it can fail. At step 250 or 500 of
   training, the logits' share of Fourier energy on the p − 1 triads
   (k, k, −k) forecast log10 of the generalization step on 8 held-out
   weight-decay arms with RMSE 0.13 to 0.15, against 0.19 to 0.20 for
   Fourier sparsity, 0.24 to 0.40 for test loss and accuracy, 0.19 to 0.35
   for kernel alignment, and a median of 0.34 for 20 random triad sets of
   the same size, none better. It foresaw none of the 5 arms that did not
-  generalize. Evidence for CLAIM-698's criterion in its easiest setting,
+  generalize. Evidence for [CLAIM-698](CLAIM-698.md)'s criterion in its easiest setting,
   where the task's group supplies the modes. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -53,14 +53,14 @@ summary: >-
 
 ## The claim
 
-In the setting of CASE-tmpb4hg0, three things hold.
+In the setting of [CASE-tmpb4hg0](../cases.d/CASE-tmpb4hg0.md), three things hold.
 
 1. **Which couplings matter, not how many.** The selection rule
    χ_k(a)χ_k(b) = χ_k(a + b) names p − 1 couplings from input modes to
    output modes. The network's early share of energy on them forecasts its
    generalization time on held-out arms; random sets of p − 1 couplings
    forecast no better than a constant. This is the null at equal edge
-   budget that QUESTION-275 asks for.
+   budget that [QUESTION-275](../questions.d/QUESTION-275.md) asks for.
 2. **It out-forecasts the feature-level baseline.** Fourier sparsity of
    the embeddings, the progress measure for this task, forecasts less well
    on the same held-out arms (RMSE 0.20 against 0.13 at step 500; C2 lower
@@ -75,8 +75,8 @@ In the setting of CASE-tmpb4hg0, three things hold.
 
 One task, one prime (37), one width, one attention-free architecture,
 one intervention family, 25 runs. The modes are given by the task's group,
-so this is the easy case of CLAIM-698: it does not show that modes can be
-found where no symmetry supplies them (CASE-272's limit). The coupling is
+so this is the easy case of [CLAIM-698](CLAIM-698.md): it does not show that modes can be
+found where no symmetry supplies them ([CASE-272](../cases.d/CASE-272.md)'s limit). The coupling is
 measured on the network's outputs over all inputs, test inputs included;
 it beats the test-set baselines, but it is not a forecast from weights
 alone. No held-out ablation and no circuit-attribution or
@@ -84,9 +84,9 @@ parameter-overlap comparator was run.
 
 ## What it changes
 
-CLAIM-698 had no executed test; this is one, in its easiest setting, and
+[CLAIM-698](CLAIM-698.md) had no executed test; this is one, in its easiest setting, and
 it comes out on the claim's side on two of its comparators (feature-level
 and random couplings) and silent on the others. The training kernel's top
-eigenspace, which CASE-272 also proposed to track, stayed at chance
+eigenspace, which [CASE-272](../cases.d/CASE-272.md) also proposed to track, stayed at chance
 alignment with the task's functions throughout, so in this network the
 coupling description does the work and the kernel description does not.
