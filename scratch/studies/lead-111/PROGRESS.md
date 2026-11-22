@@ -44,7 +44,11 @@ TERM naming the operational notion is needed under either reading (horn 2).
 
 ## Next
 
-- Write numpy study (presheaf functoriality; down-closed sub-cover; model-level
-  selection; theta-dependence/non-injectivity; no-signalling overlap). pytest.
-- File: CASE (construction), TERM (name), two alternative CLAIMs, changelog,
-  dated note on LEAD-111.
+- (done) numpy study + pytest (10 pass): operational_cover.py,
+  test_operational_cover.py, demo_output.txt, README.md.
+- (done) Filed: CASE-tmpqg5fa (construction), TERM-tmpqfgw9 (determinacy cover,
+  Proposed), CLAIM-tmpw4lvx (reading A, corroborates CLAIM-251),
+  CLAIM-tmpyj388 (reading B, objects_to CLAIM-251, corroborates CLAIM-201),
+  changelog fragment, dated note on LEAD-111.
+- All work pushed. Report next; owner decides the reading, the term's adoption,
+  and the rename across CLAIM-201/257/256/125.
