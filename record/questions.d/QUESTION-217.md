@@ -297,3 +297,30 @@ the acquisition order agrees with the refinement order when, and only
 when, the learner's per-level rate falls with depth. It leaves the
 general case open (data off the symmetry, where the levels mix) and the
 relevance order untouched. No status change.
+
+## Note of 2026-11-22: a commutator bound of Conjecture A's kind
+
+<!-- inactive-ok-file: CASE-tmp99n89 CLAIM-tmpo8cwu — new; the study and claim of LEAD-066, filed 2026-11-22 -->
+
+[LEAD-066](../leads.d/LEAD-066.md) gives Conjecture A a formal half ([CLAIM-tmpo8cwu](../claims.d/CLAIM-tmpo8cwu.md), demonstrated;
+checked in [CASE-tmp99n89](../cases.d/CASE-tmp99n89.md)). For a learner whose residual obeys ė = −A e
+with A symmetric positive semidefinite (kernel flow, or any network under
+gradient flow on squared loss, with its tangent kernel), ‖[A, P_ℓ]‖ is
+exactly the coupling between level ℓ and the rest, and level ℓ's relative
+residual stays within ‖[A, P_ℓ]‖/(λ_ℓ s_ℓ) of a flow in which the levels do
+not interact, λ_ℓ being the level's slowest rate and s_ℓ its share of the
+target. So the conjecture's "deviations set by the cross-level coupling and
+the spectral gaps" holds with constants for a fixed operator: each
+acquisition time lies in an interval, and the order of the exactly
+symmetric case survives any perturbation below a threshold proportional
+to the rate gaps. For a moving operator the departure is bounded by A2's
+∫‖[A_t, P_ℓ]‖dt, and more sharply by the same integral damped at the
+level's own rate; in trained two-layer networks only the damped form was
+informative. Two consequences for this question: off exact symmetry the
+target re-enters the kernel order, through s_ℓ; and the order has a
+resolution, since below a risk of about (‖[A, P_ℓ]‖/λ_ℓ s_ℓ)² the slowest
+mode sets every level's time, so a claim of coarse-to-fine acquisition
+must say at what risk. It bounds acquisition against the levels; it does
+not say whether the levels' rates fall with depth, which is where the
+strength sits ([LEAD-052](../leads.d/LEAD-052.md)), and it does not touch the relevance order. No
+status change.
