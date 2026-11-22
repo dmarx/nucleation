@@ -50,3 +50,17 @@ def test_full_model_matches_while_resources_positive():
             assert np.isclose(gfull, chesson_invasion(c, v, K, r, mu, 0, 1), atol=1e-6)
             checked += 1
     assert checked >= 10
+
+
+@pytest.mark.parametrize("seed", range(10))
+def test_letten_form(seed):
+    """Letten, Ke and Fukami's rho = sqrt(a12 a21 / a11 a22) and
+    f2/f1 = sqrt(a11 a12 / a22 a21), on the normalized coefficients
+    a_ij = A_ij / g_i, equal Table 1's rho and kappa_2/kappa_1."""
+    rng = np.random.default_rng(900 + seed)
+    c, v, K, r, mu = random_model(rng, S=2, M=6)
+    s, kappa, rho = chesson_measures(c, v, K, r, mu)
+    A, g = reduced_lv(c, v, K, r, mu)
+    a = A / g[:, None]
+    assert np.isclose(np.sqrt(a[0, 1] * a[1, 0] / (a[0, 0] * a[1, 1])), rho[0, 1])
+    assert np.isclose(np.sqrt(a[0, 0] * a[0, 1] / (a[1, 1] * a[1, 0])), kappa[1] / kappa[0])
