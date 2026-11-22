@@ -67,6 +67,7 @@ summary: >-
   among hidden layers. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-tmp4kae5 THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-2133 THEORY-2135 THEORY-2138 THEORY-2134 THEORY-2139 THEORY-212 — Proposed; readings this claim now rests on -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-781 THEORY-813 THEORY-2077 CLAIM-774 CLAIM-780 — Proposed or Deferred; the claims this applies and the works it rests on until read -->
 
@@ -143,3 +144,13 @@ linear network reverses and compresses the staged hierarchy of learning
   business ([ADR-048](../decisions.d/ADR-048.md)).
 - The readings of 2026-11-21 do not meet defeaters (a) or (b); both are
   stated for trained networks at width-independent times.
+
+## Note of 2026-11-22: Dandi and colleagues, read
+
+Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35):
+**background.** The paper's regime is the maximal-update parametrization's
+step size, η = Θ(d), against Moniri and colleagues' smaller steps
+(LIT-tmp4kae5), and the difference shows in the spectrum: finitely many
+spikes beside the random-features bulk at smaller steps, a reshaped bulk at
+the maximal one. A parametrization allocating rates thus also sets what
+the learned spectrum looks like. A note, no relation.

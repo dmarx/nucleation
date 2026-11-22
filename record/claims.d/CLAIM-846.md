@@ -39,6 +39,7 @@ summary: >-
   wording is A's (the other assistant in the exchange "Rich Get Richer
   Power Laws", A27 §9, A10 §2); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: TERM-142 CLAIM-810 CLAIM-841 CLAIM-840 — filed from the same exchange on 2026-11-21 -->
 
 # CLAIM-846: Scale-free correlations do not need heavy-tailed marginals: a Gaussian field with a power-law spectrum has Gaussian values at every point, so what is scale-free can be a scaling relation rather than a distribution of magnitudes
@@ -110,3 +111,12 @@ Goldstone case as a route to scaling without criticality.
 - That the owner's bulk-and-tail intuition (U5, [CLAIM-840](CLAIM-840.md)) is wrong. It is a claim
   about event-size distributions, sense 1; A27 §9 calls this example a
   refinement of it, not a refutation.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad): **a
+parallel.** In V1 the power-law spectrum "arises from correlations between
+cells rather than from the distribution of firing rates or signal
+variance" (Extended Data Fig. 7): a power-law spectrum without heavy-tailed
+marginals is what the measured code shows, in the spirit of this claim's
+separation of spectrum from marginals. A parallel, so no relation.

@@ -32,6 +32,7 @@ summary: >-
 grounds:
 - THEORY-2149
 ---
+<!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-2149 THEORY-2148 ARG-151 ARG-145 — Proposed; the readings and arguments of 2026-11-21 -->
 
 # CLAIM-804: If learned signal strengths fall as a power law in rank, the number of directions PCA can separate from the noise bulk grows as a power of the sample-to-dimension ratio and of the signal gain, a cascade of detectability thresholds and not a self-organized critical process, and the power law then belongs to the hierarchy of signal strengths, not to the spectrum, whose bulk with a few outliers is no heavy tail
@@ -117,3 +118,12 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
 
 [LIT-2986](../literature.d/LIT-2986.md) leaves `grounds` for [THEORY-2149](../theory.d/THEORY-2149.md) ([ARG-145](../arguments.d/ARG-145.md));
 [THEORY-2148](../theory.d/THEORY-2148.md) corroborates.
+
+## Note of 2026-11-22: Park and colleagues, read
+
+Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a): **a
+parallel.** Their load α = P/D plays the part of this claim's sample
+ratio for the finite-data bulk: "finite-sample fluctuations strongly
+deform the bulk spectrum and suppress signal extraction", and the window in
+which an aligned outlier appears narrows as the load falls (§IV A). No
+relation.

@@ -46,6 +46,7 @@ summary: >-
 bears_on:
 - QUESTION-069
 ---
+<!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-078 — Proposed; named in Connections for what endpoint curvature measures, nothing here rests on them -->
 
 # THEORY-108: Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature
@@ -206,3 +207,12 @@ Gaussian posterior is the wrong shape there. That supports this reading's
 preference for connectivity and output similarity over endpoint
 curvature, from the side of singular learning; it is an argument, not a
 test on this reading's data. No relation is written.
+
+## Note of 2026-11-22: Park and colleagues, read
+
+Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a): **a
+parallel.** Another hyperparameter phase diagram of training with
+statistical-mechanics names, in step size and initial weight scale rather
+than load and temperature; the authors note their names are borrowed, the
+spectral boundary being a BBP threshold and the other "an optimisation
+threshold". They do not cite this work. No relation.

@@ -34,6 +34,7 @@ summary: >-
   assistant in the exchange "Rich Get Richer Power Laws", A29, A30, A32,
   A33 and A35); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-799 CLAIM-800 CLAIM-827 CLAIM-848 CLAIM-838 CLAIM-797 CLAIM-798 THEORY-1136 CLAIM-193 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
 
 # LEAD-210: Track a fixed probe set's representations across training checkpoints at several widths and sample sizes, against isotropic, covariance-matched and shuffled nulls, and time a linear probe's onset against PCA outlier detachment, cone enrichment and collective relaxation, to tell concentration, detectability and collective organization apart
@@ -113,3 +114,12 @@ composite loss of A33 §7, which A33 calls "only a candidate".
 
 A run with the measurements above, reporting which onsets coincide and which
 separate, at two or more widths and probe sizes.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad):
+**background, and a method.** Their cross-validated PCA, which estimates a
+signal spectrum from two repeats with noise variance excluded, is a way to
+fit the exponent this lead asks for without the noise floor biasing the
+tail; their fit range (ranks 11 to 500, the head excluded) is a precedent
+for not fitting from rank 1. A note, no relation.

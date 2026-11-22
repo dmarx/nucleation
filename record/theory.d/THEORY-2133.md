@@ -25,6 +25,7 @@ summary: >-
   the kernel regime as a body slower than the readout by a factor growing
   with width. Proposed until its promote_when is met.
 ---
+<!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-212 THEORY-813 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-775 THEORY-2134 THEORY-2135 THEORY-2139 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
@@ -45,3 +46,11 @@ Nothing about width-growing training times, finite width, or depth (Tensor Progr
 ## Connections
 
 [THEORY-212](THEORY-212.md) (the per-layer, finite-size form); [THEORY-2135](THEORY-2135.md) (Chizat and colleagues on lazy training); [THEORY-2139](THEORY-2139.md) (the spectral condition, an equivalent statement of μP); [THEORY-2134](THEORY-2134.md) (the depth counterpart); [THEORY-813](THEORY-813.md).
+
+## Note of 2026-11-22: Dandi and colleagues, read
+
+Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35):
+**background.** Their step size η = Θ(d) is the maximal-update scaling,
+the regime in which this account says features are learned; their
+one-step theorem, a rank-one spike along the target in the first-layer
+weights, is a concrete instance of what is learned there. No relation.

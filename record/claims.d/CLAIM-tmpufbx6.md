@@ -42,7 +42,7 @@ summary: >-
   argues the transfer. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp2r6ur THEORY-tmpwtoad TERM-tmpf5ymd CLAIM-tmp9atj9 ARG-tmptvp76 ARG-tmpabk16 LEAD-tmptgrc7 — Proposed or new; the owner's claim this rivals, its grounds, the other alternative and the test -->
+<!-- inactive-ok-file: CLAIM-tmp2r6ur THEORY-tmpwtoad TERM-tmpf5ymd CLAIM-tmp9atj9 ARG-tmptvp76 ARG-tmpabk16 — Proposed or new; the owner's claim this rivals, its grounds, the other alternative and the test -->
 
 # CLAIM-tmpufbx6: An alternative to the floor and band of the owner's truncated-band account: the fine end of a learned spectrum may be damped for smoothness and generalization, with discrimination growing steadily toward it, and the floor a measurement finds below it may be estimator noise rather than a class of low-signal outliers bounding a band of highly discriminating directions
 

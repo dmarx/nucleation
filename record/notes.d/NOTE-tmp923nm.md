@@ -33,7 +33,7 @@ summary: >-
   o(n^(−1−2/d)), a strict and asymptotic bound on the tail, and that
   lower-dimensional stimulus ensembles give steeper spectra just above it.
 ---
-<!-- inactive-ok-file: THEORY-tmpwtoad CLAIM-847 CLAIM-848 ARG-130 ARG-tmpbad4y CLAIM-tmp2r6ur CLAIM-tmpufbx6 ARG-tmptvp76 TERM-136 CLAIM-846 CLAIM-825 SYNTHESIS-120 — Proposed or new; the account this reading files and the entries it bears on -->
+<!-- inactive-ok-file: THEORY-tmpwtoad TERM-142 CLAIM-847 CLAIM-848 ARG-130 ARG-tmpbad4y CLAIM-tmp2r6ur CLAIM-tmpufbx6 ARG-tmptvp76 TERM-136 CLAIM-846 CLAIM-825 SYNTHESIS-120 — Proposed or new; the account this reading files and the entries it bears on -->
 
 # NOTE-tmp923nm: Stringer, Pachitariu, Steinmetz, Carandini & Harris — High-dimensional geometry of population responses in visual cortex
 

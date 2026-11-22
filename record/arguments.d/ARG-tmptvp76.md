@@ -25,7 +25,7 @@ summary: >-
   preferable. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpwtoad CLAIM-tmpufbx6 CLAIM-tmp2r6ur ARG-tmpabk16 LEAD-tmptgrc7 — Proposed or new; the reading, the rival claim, the owner's claim it rivals, the support it meets and the test -->
+<!-- inactive-ok-file: THEORY-tmpwtoad CLAIM-tmpufbx6 CLAIM-tmp2r6ur ARG-tmpabk16 — Proposed or new; the reading, the rival claim, the owner's claim it rivals, the support it meets and the test -->
 
 # ARG-tmptvp76: Stringer and colleagues' smoothing account of spectral decay, by analogy from a sensory population code to a learned spectrum, suggests that the fine end is damped for generalization and that the measured floor is estimator noise, a rival to the floor and band of the truncated-band account
 

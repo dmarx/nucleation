@@ -41,7 +41,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp2r6ur THEORY-tmphbp5a TERM-tmpf5ymd CLAIM-tmpufbx6 ARG-tmpun4nl LEAD-tmptgrc7 — Proposed or new; the owner's claim this rivals, its grounds, the other alternative and the test -->
+<!-- inactive-ok-file: CLAIM-tmp2r6ur THEORY-tmphbp5a TERM-tmpf5ymd CLAIM-tmpufbx6 ARG-tmpun4nl — Proposed or new; the owner's claim this rivals, its grounds, the other alternative and the test -->
 
 # CLAIM-tmp9atj9: An alternative to the stop-word half of the owner's truncated-band account: top spectral directions that track the data's leading principal components, its common high-variance structure, may be a mark of under-trained or large-step regimes that learning reorganizes away from, rather than a standing feature of a learned spectrum
 

@@ -49,6 +49,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-2149 THEORY-2148 THEORY-2152 ARG-151 — Proposed; the readings and argument of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-807 CLAIM-799 CASE-301 TERM-137 CLAIM-828 CLAIM-827 — new and Proposed or Open; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
@@ -193,3 +194,14 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
   BBP's edge scale (Theorem 1.1(a)).
 
 [THEORY-2149](../theory.d/THEORY-2149.md) joins `grounds`; [THEORY-2148](../theory.d/THEORY-2148.md) corroborates.
+
+## Note of 2026-11-22: Park and colleagues, read
+
+Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a):
+**independent support in kind**, written as `corroborates` on the reading.
+In their exact linear teacher–student model the teacher is in the weights
+from the first step and "the optimisation always converges to the correct
+ground state", while the weight covariance's aligned outlier appears only
+at t_c (eq. 39). That is this claim's window, a feature active and
+improving the fit before a spectral estimator sees it, in a second model
+and with the weight spectrum as the estimator rather than sample PCA.

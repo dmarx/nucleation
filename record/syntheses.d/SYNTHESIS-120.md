@@ -81,6 +81,7 @@ bears_on:
 - QUESTION-514
 - QUESTION-510
 ---
+<!-- inactive-ok-file: ARG-tmpbad4y THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: TERM-138 — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-802 CLAIM-823 ARG-132 CLAIM-833 ARG-126 ARG-137 ARG-130 ARG-142 — Proposed or Rejected; filed 2026-11-21 after the coverage check -->
 <!-- inactive-ok-file: CLAIM-798 CLAIM-818 CLAIM-842 CLAIM-822 CLAIM-797 CLAIM-847 CLAIM-848 TERM-136 CLAIM-838 CLAIM-799 CASE-301 CLAIM-827 CLAIM-804 CLAIM-839 CLAIM-800 CLAIM-816 ARG-153 CLAIM-834 CLAIM-808 TERM-135 CLAIM-813 CLAIM-812 CASE-302 ARG-138 CLAIM-811 CLAIM-843 CLAIM-844 CLAIM-835 TERM-137 ARG-139 CLAIM-807 CLAIM-828 CLAIM-837 — new and Proposed or Open; components filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
@@ -184,3 +185,12 @@ Integrating sentences of A's syntheses that no entry states, tested at the audit
 - That any trained network has been shown to pass these thresholds in any order. The components are toy models, constructions and proposed studies. [LEAD-210](../leads.d/LEAD-210.md) and [LEAD-207](../leads.d/LEAD-207.md) have not been run.
 - Which of the owner's suggestions the record adopts. Each is Proposed or Open.
 - Anything with standing of its own.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad):
+**background.** The measured spectrum (exponent 1.04 over ranks 11 to 500)
+and the smoothness bound behind CLAIM-848's participation-ratio table are
+now read; the bound is strict and on the tail only, and CLAIM-848 and
+ARG-130 are corrected in place (ARG-tmpbad4y). The synthesis's use of the
+participation ratio is unaffected.

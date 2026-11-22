@@ -27,6 +27,7 @@ summary: >-
   The wording is A's (the other assistant in the exchange "Rich Get Richer
   Power Laws", A29 and A30); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-847 CLAIM-848 CLAIM-842 CLAIM-797 THEORY-1272 LIT-2998 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 
 # TERM-136: ambient, intrinsic, effective and spectral dimension (of a learned representation)
@@ -79,3 +80,14 @@ perturbations grow, decay or persist).
   graph. It shares the name and not the object.
 - [THEORY-301](../theory.d/THEORY-301.md)'s participation ratio is of a kernel difference between two
   representations, the same formula applied to another matrix.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad): **a
+parallel.** The Supplementary Discussion (§2.2) separates four dimensions
+of a population code: ambient, planar (the dimension of the linear span,
+close to this term's linear-span sense), manifold, and fractal (upper
+Minkowski) dimension. The fractal sense has no counterpart here; it is
+what a spectrum decaying more slowly than n^(−1−2/d′) for every d′ > d
+gives a code of a d-dimensional stimulus set (Theorem 4). A candidate
+addition if the record comes to use it. Background, so no relation.

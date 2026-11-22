@@ -25,7 +25,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmphbp5a CLAIM-tmp9atj9 CLAIM-tmp2r6ur LEAD-tmptgrc7 — Proposed or new; the reading, the rival claim, the owner's claim it rivals and the test -->
+<!-- inactive-ok-file: THEORY-tmphbp5a THEORY-tmpcij35 CLAIM-tmp9atj9 CLAIM-tmp2r6ur — Proposed or new; the reading, the rival claim, the owner's claim it rivals and the test -->
 
 # ARG-tmpun4nl: Park and colleagues' Fig. 16, by analogy from an MLP regressor's first-layer weights to a language model's unembedding, suggests that top directions tracking the data's common high-variance structure belong to large-step or under-trained regimes, a rival to the stop-word half of the truncated-band account
 

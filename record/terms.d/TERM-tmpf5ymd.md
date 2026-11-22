@@ -31,7 +31,7 @@ summary: >-
   total in the tail). The term's job is to make an entry say which it
   means. The distinction is the owner's; The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpcij35 THEORY-tmphbp5a CLAIM-799 — Proposed or new; the readings of 2026-11-22 that use the term, and the claim they qualify -->
+<!-- inactive-ok-file: THEORY-tmpcij35 THEORY-tmpthmd7 THEORY-tmphbp5a CLAIM-799 — Proposed or new; the readings of 2026-11-22 that use the term, and the claim they qualify -->
 <!-- inactive-ok-file: TERM-138 CLAIM-832 — Proposed or new; the senses this term separates and the claim that uses it -->
 
 # TERM-tmpf5ymd: bulk, in two senses that come apart: by count, the many members or directions that make up most of a population or spectrum, and by weight, the few that carry most of its mass, density or activity; in a skewed distribution or spectrum the two sit at opposite ends

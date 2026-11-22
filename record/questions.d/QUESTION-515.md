@@ -21,6 +21,7 @@ summary: >-
   and the owner's next turn (U19) adds concentration of measure as the
   baseline any such model has to beat ([CLAIM-822](../claims.d/CLAIM-822.md)).
 ---
+<!-- inactive-ok-file: CLAIM-799 THEORY-tmpcij35 THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-822 CLAIM-798 CLAIM-818 CLAIM-842 TERM-136 CLAIM-797 CLAIM-838 THEORY-1095 THEORY-2051 THEORY-209 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
 
 # QUESTION-515: What follows if the representational manifold a deep network learns, a high-dimensional system, is modelled as an active-matter system?
@@ -72,3 +73,19 @@ single assertion":
 Which dimension governs the collective behaviour is part of the question:
 A29 argues it is the spectral dimension of the interaction geometry, not
 layer width ([CLAIM-842](../claims.d/CLAIM-842.md); the senses are [TERM-136](../terms.d/TERM-136.md)).
+
+## Note of 2026-11-22: Park and colleagues, read
+
+Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a): **leaves
+the question open.** The paper establishes a BBP outlier transition in a
+solvable training model and speaks of "the notion of criticality arising
+during optimisation itself", but says nothing of active matter and leaves
+"the precise universality class of the transition in practical deep
+learning systems" unclear.
+
+## Note of 2026-11-22: Dandi and colleagues, read
+
+Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35): **leaves
+the question open.** One gradient step and no dynamics; the spiked picture
+of learned features is a theorem there, which supports only the claim that
+the spectral perspective is not merely an analogy (CLAIM-799).

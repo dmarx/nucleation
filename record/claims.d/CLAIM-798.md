@@ -39,6 +39,7 @@ summary: >-
   other assistant in the exchange "Rich Get Richer Power Laws", A29);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-818 THEORY-2033 THEORY-813 THEORY-2012 LIT-2975 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 <!-- inactive-ok-file: ARG-126 THEORY-209 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
@@ -115,3 +116,10 @@ ladder and the rule for climbing to the second.
 - Not that representations are active matter, or that they are not.
 - Not that a power-law spectrum or slow modes would show the strong
   reading; A29 §8 and §11 say they would not.
+
+## Note of 2026-11-22: Dandi and colleagues, read
+
+Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35):
+**consistent with the weak reading.** A32 §6 cites the paper against the
+strong reading, and it bears that out: one gradient step, no dynamics, and
+nothing about active matter. No relation.

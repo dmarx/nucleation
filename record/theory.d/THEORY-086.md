@@ -35,6 +35,7 @@ summary: >-
 bears_on:
 - QUESTION-039
 ---
+<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-084 THEORY-080 — Proposed; named in Connections, nothing here rests on them -->
 
 # THEORY-086: In the kernel regime gradient descent fits the target eigenspace by eigenspace of the neural tangent kernel, at rates set by their eigenvalues; on uniform spherical data the eigenspaces are the harmonic degrees, and for fully connected ReLU networks the non-zero eigenvalues decay as k^(−d) at every depth
@@ -140,3 +141,13 @@ theorems, consistent with them.
 
 ## Note of 2026-11-19: Poole and colleagues, read
 A parallel ([NOTE-2099](../notes.d/NOTE-2099.md)): the covariance recursion of Poole and colleagues' mean-field theory is the layerwise kernel recursion behind this account, at initialization; the identification is the reader's, not the paper's.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad): **a
+parallel in a fixed code.** Supplementary Discussion §2.4: a delta-rule
+readout of a fixed population code learns its eigenfunctions "at a speed
+proportional to the eigenvalues", so "a crude representation will be
+learned quickly, but fine details cannot be distinguished without
+extensive training". The same eigenvalue-ordered learning as this
+account's, for a kernel that does not change. No relation.

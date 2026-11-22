@@ -43,6 +43,7 @@ summary: >-
 bears_on:
 - QUESTION-517
 ---
+<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the compression half -->
 <!-- inactive-ok-file: TERM-135 CLAIM-849 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-147 THEORY-2154 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
@@ -135,3 +136,13 @@ The count above does not depend on it.
   where the data overwhelms all the unknowns is far from certain". Their
   count is through the density of divergences, not a Fisher threshold
   nλ ≳ 1.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad): **a
+parallel.** The resolved power-law range grows with the numbers of neurons
+and stimuli (Fig. 2g–j); "typically this range extends to approximately
+half the total number of stimuli presented" (SI §3.5), below which the
+eigenvectors are "corrupted by additive noise". That is a resolved
+dimension growing with sample size under a power-law spectrum, measured,
+in a neural code. A parallel, so no relation.

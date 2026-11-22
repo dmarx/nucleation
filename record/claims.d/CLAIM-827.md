@@ -43,6 +43,7 @@ grounds:
 - THEORY-2152
 - THEORY-2149
 ---
+<!-- inactive-ok-file: ARG-tmps8aog THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-838 CLAIM-799 ARG-153 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2152 THEORY-2149 THEORY-2148 ARG-135 ARG-151 ARG-145 — Proposed; the readings and arguments of 2026-11-21 -->
 
@@ -193,3 +194,12 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
 
 [LIT-2986](../literature.d/LIT-2986.md) leaves `grounds` for [THEORY-2152](../theory.d/THEORY-2152.md) and [THEORY-2149](../theory.d/THEORY-2149.md)
 ([ARG-145](../arguments.d/ARG-145.md)); [THEORY-2148](../theory.d/THEORY-2148.md) corroborates.
+
+## Note of 2026-11-22: Park and colleagues, read
+
+Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a): **a
+parallel.** In their linear model the student converges toward the teacher
+from the first step while the weight spectrum's outlier appears only at a
+critical time: one more case of learning preceding spectral detection,
+with the weight matrix as the estimator. No relation; CLAIM-799 carries
+the support (ARG-tmps8aog).
