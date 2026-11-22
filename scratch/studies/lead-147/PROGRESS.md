@@ -10,11 +10,21 @@
 
 ## Done
 
+- Derivation checked numerically: tree_pmi.py, test_tree_pmi.py (8 pass),
+  derivation_check.txt. Closed-form tree spectrum matches to 1e-14.
+- Data fetched to scratchpad (not committed): NLTK WordNet 3.0 zip from
+  raw.githubusercontent.com/nltk/nltk_data; text8 from mattmahoney.net.
+  nltk.download() refused under the proxy (NLTK's own safety check), so the
+  zip was fetched with curl instead.
+
 ## Next
 
-- Derivation (formal + numeric check)
-- Check NLTK/WordNet and an open corpus
 - Measurement script, test, run
 - File CLAIM, CASE, notes, changelog
 
 ## Choices
+
+- Model: 0/1 attributes closed upward under implication, PMI = X Lam X^T
+  (+ affine); Lam > 0. Tree case worked in closed form (complete b-ary).
+- Corpus: text8 (first 1e8 chars of English Wikipedia, 17M tokens), small
+  enough for CPU.
