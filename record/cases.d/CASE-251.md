@@ -87,15 +87,15 @@ search over the same text.
 
 ## Note of 2026-11-22: a pilot of this design
 
-CASE-tmpssuha ran a four-filing pilot for LEAD-014, on single arXiv
+[CASE-tmpssuha](CASE-tmpssuha.md) ran a four-filing pilot for [LEAD-014](../leads.d/LEAD-014.md), on single arXiv
 readings, because no exchange text is held in the repository. Replays
 from the source and the record at the parent commit recovered 95 of 138
 items the filings held and none of the 6 items their corrections added;
 five of those needed works other than the source. The pilot bears on this
 design in two ways. The ground truth is a lower bound, as said above: the
-replays found items in neither, including an error NOTE-645 still repeats.
+replays found items in neither, including an error [NOTE-645](../notes.d/NOTE-645.md) still repeats.
 And the corrections of single-work readings are of accuracy, not omission
-(CLAIM-tmpj6pb6), so the omission measure should be run on the exchange
+([CLAIM-tmpj6pb6](../claims.d/CLAIM-tmpj6pb6.md)), so the omission measure should be run on the exchange
 episodes listed above, whose sources would have to be saved first. The
 pilot's replays and scoring were by one assistant instance of the same
 model family as the filers. The case is otherwise unchanged.

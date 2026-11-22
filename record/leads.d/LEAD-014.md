@@ -51,7 +51,7 @@ where the record loses information.
 
 ## Note of 2026-11-22: a pilot run, and what remains
 
-A pilot was run (CASE-tmpssuha; materials under scratch/studies/lead-014/).
+A pilot was run ([CASE-tmpssuha](../cases.d/CASE-tmpssuha.md); materials under scratch/studies/lead-014/).
 Four corrected readings of arXiv works were chosen by a rule written
 before outcomes, a codebook was fixed before any replay, and each filing
 was replayed from its source and a checkout of the record at its parent
@@ -59,12 +59,12 @@ commit, then scored. Pooled recall against what the filings held was
 95/138 (0.69); against what later corrections added, 0/6. Five of the six
 correction items needed works other than the source, so for single-work
 readings the corrections measure accuracy, not curation
-(CLAIM-tmpj6pb6). The replays also found items neither the filings nor
+([CLAIM-tmpj6pb6](../claims.d/CLAIM-tmpj6pb6.md)). The replays also found items neither the filings nor
 the corrections hold.
 
 What remains: the study as specified. It needs (1) separate replay agents
 that see only their worktree and source, which the worker that ran the
 pilot could not spawn; (2) a scorer who is not the replayer, ideally not of
-the same model family; (3) the episodes of omission CASE-251 names, which
+the same model family; (3) the episodes of omission [CASE-251](../cases.d/CASE-251.md) names, which
 are exchanges, and so the exchange texts saved in the repository first;
-(4) CASE-251's three arms. The lead's status and stage are unchanged.
+(4) [CASE-251](../cases.d/CASE-251.md)'s three arms. The lead's status and stage are unchanged.

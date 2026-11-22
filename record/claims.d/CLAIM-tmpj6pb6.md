@@ -30,15 +30,15 @@ grounds:
 bears_on:
 - QUESTION-108
 summary: >-
-  From CASE-tmpssuha. Of six items that later corrections added to four
+  From [CASE-tmpssuha](../cases.d/CASE-tmpssuha.md). Of six items that later corrections added to four
   single-work readings, five needed a work other than the source (a later
   appendix, an authors' comment, a journal follow-up, the works a survey
   cited) and the sixth sat in an appendix of the source. A replay from the
   source alone recovered none of them while recovering about two-thirds of
   each filing. For these readings the record's corrections measure the
   accuracy of what was relayed, not the completeness of curation, so
-  CASE-251's measure of omissions has to be run on filings whose
-  corrections are omissions, such as the exchange episodes CASE-251 names,
+  [CASE-251](../cases.d/CASE-251.md)'s measure of omissions has to be run on filings whose
+  corrections are omissions, such as the exchange episodes [CASE-251](../cases.d/CASE-251.md) names,
   which needs their sources held. Four cases, one model family, not
   independent. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -49,22 +49,22 @@ summary: >-
 
 ## The claim
 
-CASE-251 scores an agent's accounting of a source against the filing and
+[CASE-251](../cases.d/CASE-251.md) scores an agent's accounting of a source against the filing and
 its later corrections, and reads what the corrections caught as what
 curation lost. That reading needs the corrections to be of curation: items
 the source holds that the filing left out or misplaced. In the pilot
-CASE-tmpssuha, on four single-work readings, they were not. Five of the
+[CASE-tmpssuha](../cases.d/CASE-tmpssuha.md), on four single-work readings, they were not. Five of the
 six correction items came from reading other works: Lin, Tegmark and
-Rolnick's appendix and Mehta and Schwab's later comment for NOTE-683; the
-journal follow-up's appendix for NOTE-645; Neural Mechanics and Ziyin et
-al. for THEORY-210. The sixth, the direction of Lubana et al.'s proof
-(NOTE-538), is in the source's own appendix. So, for this kind of filing,
+Rolnick's appendix and Mehta and Schwab's later comment for [NOTE-683](../notes.d/NOTE-683.md); the
+journal follow-up's appendix for [NOTE-645](../notes.d/NOTE-645.md); Neural Mechanics and Ziyin et
+al. for [THEORY-210](../theory.d/THEORY-210.md). The sixth, the direction of Lubana et al.'s proof
+([NOTE-538](../notes.d/NOTE-538.md)), is in the source's own appendix. So, for this kind of filing,
 recall against corrections measures whether the replay read further, not
 whether it curated completely.
 
 ## What follows
 
-- CASE-251's omission measure should be run on filings whose later
+- [CASE-251](../cases.d/CASE-251.md)'s omission measure should be run on filings whose later
   corrections registered or filed what the source itself held. The
   episodes it names (the works of an exchange a pass neither registered
   nor left, the arguments a brief left out) are of that kind. They are
@@ -72,7 +72,7 @@ whether it curated completely.
   those sources saved first.
 - Corrections of single-work readings belong to a different measure: how
   often a reading relays a source's claim about other work without
-  checking it. That bears on QUESTION-108's third mechanism, whether the
+  checking it. That bears on [QUESTION-108](../questions.d/QUESTION-108.md)'s third mechanism, whether the
   record makes the operations a reviser needs cheaper: here the operation
   was reading the cited work, and the record did not prompt it.
 
