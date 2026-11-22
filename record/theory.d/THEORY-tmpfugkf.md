@@ -34,6 +34,8 @@ summary: >-
   objection CLAIM-tmp974nn to CLAIM-648. Proposed: one reading, of a
   compressed statement whose account of function is cited, not given.
 ---
+<!-- inactive-ok-file: ARG-tmps4eez CLAIM-tmp974nn — Proposed; filed for LEAD-018 in this batch -->
+<!-- inactive-ok-file: CLAIM-650 CLAIM-648 THEORY-220 — Proposed; held entries this reading bears on, cited with their standing -->
 
 # THEORY-tmpfugkf: On Millikan's biosemantics, a sign has content because a producer and a consumer were shaped by selection or learning to cooperate through it: its content is the affair it must map onto, by a rule, for the consumer to perform its functions in the way that explains that shaping, and it can be true or false only by reference to that history, which natural signs lack
 

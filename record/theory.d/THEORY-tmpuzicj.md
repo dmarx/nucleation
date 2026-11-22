@@ -30,6 +30,8 @@ summary: >-
   survey reports. Read for LEAD-018 beside Millikan's own statement
   (THEORY-tmpfugkf). Proposed.
 ---
+<!-- inactive-ok-file: ARG-tmps4eez CLAIM-tmp974nn THEORY-tmpfugkf — Proposed; filed for LEAD-018 in this batch -->
+<!-- inactive-ok-file: CLAIM-650 CLAIM-648 THEORY-072 THEORY-220 — Proposed; held entries this reading bears on, cited with their standing -->
 
 # THEORY-tmpuzicj: Teleosemantic theories derive the norms by which a representation is correct or in error from functional norms, which they take to be descriptive and, in most versions, etiological: what an item or its type was selected for, by natural selection, learning or another selection process; they divide on whether the consumer's or the producer's function fixes content, and face objections from indeterminacy, from a replica with no history, from attributing representations to all living things, and from sophisticated concepts
 

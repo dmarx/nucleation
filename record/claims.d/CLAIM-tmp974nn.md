@@ -43,6 +43,8 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: THEORY-tmpfugkf THEORY-tmpuzicj — Proposed; filed for LEAD-018 in this batch -->
+<!-- inactive-ok-file: CLAIM-648 THEORY-220 CASE-241 CASE-239 — Proposed; held entries this reading bears on, cited with their standing -->
 
 # CLAIM-tmp974nn: On selection-based teleosemantics, a self-maintaining system's anticipation can be false by a norm of its own only if selection or learning stabilized it; upkeep in the present, with no such history, sets no norm, so the endogenous profile of the owner's debugging case is a norm only for a system whose own past upkeep shaped it
 

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-22 (the author''s pre-print on her University of Connecticut faculty page, linked from her CV), reading in the NOTE filed with it; worth reading as Millikan''s own short statement of biosemantics, the selection-based teleosemantics two claims of the record said they owed. It stands in, by the author''s own account, for the 1989 Journal of Philosophy paper of the same title (doi 10.2307/2027123), whose only copy her CV links is JSTOR''s; that paper was not registered or read.'
+status_note: 'read in full 2026-11-22 (the author''s pre-print on her University of Connecticut faculty page, linked from her CV), in NOTE-tmpqexrv; worth reading as Millikan''s own short statement of biosemantics, the selection-based teleosemantics two claims of the record said they owed. It stands in, by the author''s own account, for the 1989 Journal of Philosophy paper of the same title (doi 10.2307/2027123), whose only copy her CV links is JSTOR''s; that paper was not registered or read.'
 title: 'Biosemantics'
 version: 2
 history:
@@ -62,6 +62,7 @@ summary: >-
   by reference to that history, not to natural signs. Answers Neander's
   hoverfly, the overconfidence case and Pietroski's kimus.
 ---
+<!-- inactive-ok-file: CLAIM-650 CLAIM-648 — Proposed; held entries this reading bears on, cited with their standing -->
 
 # LIT-tmpu3jv7: Biosemantics
 

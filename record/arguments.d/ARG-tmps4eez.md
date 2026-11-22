@@ -28,6 +28,8 @@ summary: >-
   given. Proposed. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpfugkf THEORY-tmpuzicj — Proposed; filed for LEAD-018 in this batch -->
+<!-- inactive-ok-file: CLAIM-650 ARG-082 CASE-243 THEORY-444 — Proposed; held entries this reading bears on, cited with their standing -->
 
 # ARG-tmps4eez: Millikan's biosemantics, read beside the SEP survey, independently corroborates that a false alarm's error cannot lie in its natural meaning, and qualifies the separation of where the error lies from what fixes the norm
 

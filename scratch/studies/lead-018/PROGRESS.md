@@ -31,9 +31,19 @@
     links only JSTOR (printed version) for it; no pre-print listed. Not
     pursued; the 2008 chapter is her own later statement of the same theory.
 
+- SEP entry read (preamble, sections 1-4, notes 9-18).
+- Filed: LIT-tmpu3jv7 / NOTE-tmpqexrv / THEORY-tmpfugkf (Millikan);
+  LIT-tmpppa43 / NOTE-tmp60j0q / THEORY-tmpuzicj (SEP); CLAIM-tmp974nn
+  (objection to CLAIM-648); ARG-tmps4eez (corroboration of CLAIM-650 (a),
+  with qualification); dated notes on CLAIM-650, CLAIM-648, QUESTION-128,
+  LEAD-018, THEORY-220, THEORY-1605; changelog fragment lead-018.md.
+- Excuse directives computed by script for every changed file; frontmatter,
+  title and H1 checked.
+
 ## Next
 
-- Read SEP entry; register two LITs; file NOTEs, THEORYs, dated notes.
+- Nothing left of the part delegated. Lead remains: Neander 2017 and
+  Millikan's derived proper functions for artefacts (LTOBC ch. 2) unread.
 
 ## Choices
 

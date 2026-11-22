@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-22 (the live SEP entry, substantive revision of 26 May 2022), reading in the NOTE filed with it; worth reading as the survey of selection-based teleosemantics: what etiological functions are, the main theories (Dretske, Millikan, Papineau, Neander, Shea, the non-etiological variants) and the four standing objections. Written by two of the theory''s proponents, Neander and Schulte; Neander''s own causal-informational theory is one of those it surveys.'
+status_note: 'read 2026-11-22 (the live SEP entry, substantive revision of 26 May 2022), in NOTE-tmp60j0q; worth reading as the survey of selection-based teleosemantics: what etiological functions are, the main theories (Dretske, Millikan, Papineau, Neander, Shea, the non-etiological variants) and the four standing objections. Written by two of the theory''s proponents, Neander and Schulte; Neander''s own causal-informational theory is one of those it surveys.'
 title: 'Teleological Theories of Mental Content'
 version: 2
 history:
@@ -56,6 +56,7 @@ summary: >-
   standing objections: functional indeterminacy, Swampman, liberalism and
   sophisticated concepts.
 ---
+<!-- inactive-ok-file: CLAIM-650 THEORY-220 — Proposed; held entries this reading bears on, cited with their standing -->
 
 # LIT-tmpppa43: Teleological Theories of Mental Content
 

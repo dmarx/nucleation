@@ -27,6 +27,8 @@ summary: >-
   Swampman, liberalism and sophisticated concepts. Objections and replies
   are reported, not settled.
 ---
+<!-- inactive-ok-file: ARG-tmps4eez CLAIM-tmp974nn — Proposed; filed for LEAD-018 in this batch -->
+<!-- inactive-ok-file: CLAIM-650 CLAIM-648 THEORY-072 THEORY-220 THEORY-444 — Proposed; held entries this reading bears on, cited with their standing -->
 
 # NOTE-tmp60j0q: Neander and Schulte — Teleological Theories of Mental Content (SEP)
 

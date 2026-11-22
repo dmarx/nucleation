@@ -29,6 +29,8 @@ summary: >-
   and falsity need a history of selection. Replies to Neander's hoverfly,
   to systems selected for false belief, and to Pietroski's kimus.
 ---
+<!-- inactive-ok-file: ARG-tmps4eez CLAIM-tmp974nn — Proposed; filed for LEAD-018 in this batch -->
+<!-- inactive-ok-file: CLAIM-650 CLAIM-648 CASE-243 THEORY-220 THEORY-444 — Proposed; held entries this reading bears on, cited with their standing -->
 
 # NOTE-tmpqexrv: Millikan — Biosemantics (2009)
 
