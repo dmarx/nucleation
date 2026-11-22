@@ -182,3 +182,12 @@
 {"key": "kT=0.1|omega=12|run=21", "kT": 0.1, "omega": 12, "run": 21, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 8.262711763381958}
 {"key": "kT=0.1|omega=12|run=22", "kT": 0.1, "omega": 12, "run": 22, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 8.832103729248047}
 {"key": "kT=0.1|omega=12|run=23", "kT": 0.1, "omega": 12, "run": 23, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 9.334608554840088}
+{"key": "kT=0.1|omega=12|run=24", "kT": 0.1, "omega": 12, "run": 24, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 9.406035661697388}
+{"key": "kT=0.1|omega=12|run=25", "kT": 0.1, "omega": 12, "run": 25, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 8.237132787704468}
+{"key": "kT=0.1|omega=12|run=26", "kT": 0.1, "omega": 12, "run": 26, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 9.638115882873535}
+{"key": "kT=0.1|omega=12|run=27", "kT": 0.1, "omega": 12, "run": 27, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 8.537057876586914}
+{"key": "kT=0.1|omega=12|run=28", "kT": 0.1, "omega": 12, "run": 28, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 9.826191186904907}
+{"key": "kT=0.1|omega=12|run=29", "kT": 0.1, "omega": 12, "run": 29, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 7.928254842758179}
+{"key": "kT=0.1|omega=12|run=30", "kT": 0.1, "omega": 12, "run": 30, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 9.3290696144104}
+{"key": "kT=0.1|omega=12|run=31", "kT": 0.1, "omega": 12, "run": 31, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 7.967447519302368}
+{"key": "kT=0.1|omega=12|run=32", "kT": 0.1, "omega": 12, "run": 32, "start": [55, 31, 34], "t_ext": 20000.0, "censored": true, "wall": 7.767812967300415}
