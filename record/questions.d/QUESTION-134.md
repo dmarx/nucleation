@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpn0znj
 title: 'When influence decides access to learning opportunities, does the resulting feedback make a marginalized specialist lose its competence, so that it cannot recover influence even when its former niche becomes relevant again?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-26'
@@ -20,6 +20,13 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: the experiment run in a reduced form
+    (CASE-tmpnti0m, CLAIM-tmp1jz5w); the decisive result did not
+    appear, and pre-emption, not lost competence, kept the specialist
+    out. The question is unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -38,6 +45,7 @@ summary: >-
   test for one mechanism of domination without defining domination as
   holding less authority.
 ---
+<!-- inactive-ok-file: CASE-tmpnti0m CLAIM-tmp1jz5w — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
@@ -125,3 +133,35 @@ unchanged.
 ## Note of 2026-11-04: an institutional neighbour
 
 A's [QUESTION-386](QUESTION-386.md) asks whether activity-based budgeting can defund a rare-event capability into incapacity, with k_{t+1} = (1−δ)k_t + βm_t and B_{t+1} = B̄ + ηM_t. It differs from this question in three ways: the allocation is institutional, the signal is observed utilization, and the capability is deadline-conditioned. The question is unchanged.
+
+## Note of 2026-11-22: the three losses separated, in a reduced run
+
+[LEAD-016](../leads.d/LEAD-016.md) ran this question's experiment inside a reduced version of
+[CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)). A rare-context specialist's influence was
+clamped at 10⁻³ for 20,000 steps and then released. Its training exposure
+was either coupled to its influence or, as the control, kept at its
+pre-suppression level. Its competence was held-out risk on the generating
+distribution, which no training sample entered.
+
+- **Loss of access.** Under coupling, the specialist's exposure fell to
+  0.1–4.5%.
+- **Loss of competence.** It followed loss of access only where
+  maintenance had a cost (weight decay). Without decay, competence was
+  unchanged. With it, coupled access let risk rise from 0.010 to 0.17–0.73,
+  while decoupled access held it at 0.013.
+- **Loss of influence.** This did not depend on competence. With spare
+  operators, a spare took the niche and the specialist stayed shut out,
+  coupled or decoupled, with or without its competence. Without spare
+  operators, it returned every time, even frozen at risk 0.73.
+
+So the decisive result this question names did not appear. That result
+would be competence lost through deprivation that does not return, against
+a decoupled control that does. Where the specialist did not return, the
+decoupled control did not either. Competence loss followed the exclusion,
+once exposure was coupled again (0.013 to 0.76). [CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md) files this.
+It also files two readings, for the owner, of what a competent specialist
+permanently displaced by an equally competent newcomer is.
+
+Limits: one model class without interference between contexts, and a
+clamp in place of a marginalization the population produces. The question
+is unchanged and stays Open.

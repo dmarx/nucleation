@@ -97,6 +97,9 @@ From here on, a stop at any moment must lose at most the step in hand.
 - Estimate the run's time before starting. Give a background run a time
   limit above twice the estimate. If its measured pace says it will not
   finish in time, stop it and restructure it at once.
+- Measure the pace under the real load: a shared machine can run several
+  times slower than a smoke test, so set BLAS threads to 1 and cut seeds
+  early rather than late.
 
 ## 6. Filing
 
