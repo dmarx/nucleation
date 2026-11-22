@@ -36,7 +36,13 @@ Dated notes on the lead and the entries it advances.
 - Filed three readings of the test as alternatives (owner chooses), since the record claims no explanation of force.
 - Bare codes everywhere (no hand-written link targets).
 
+## Done since
+
+- Dated notes on QUESTION-128, QUESTION-129, QUESTION-456, CLAIM-363, CLAIM-348, CLAIM-075, THEORY-075, LIT-2461, LIT-1228, LEAD-158.
+- Curation entry record/curation.d/2026/11/22/172847.md; changelog record/changelog.d/lead-158.md.
+- Narrow luria.ref_status scan of the changed files: no dangling or lost citations; the only unused
+  excuses reported are in the curation entry, whose bare codes the scan does not count (CI repair links them).
+
 ## Next
 
-- Dated notes: QUESTION-128, QUESTION-129, QUESTION-456, CLAIM-363, CLAIM-348, CLAIM-075, THEORY-075, LIT-2461, LEAD-158.
-- Curation entry, changelog fragment, report.
+- Nothing for this worker. Remaining for the lead: Massimi's book (LIT-1228), blocked by bot checks; owner chooses among readings (a)/(b)/(c).
