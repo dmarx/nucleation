@@ -1,0 +1,8 @@
+{"key": "needless_cost|ordinary", "restriction_effect_under_success": [134.189, 131.59595000000002, 136.654075], "restriction_effect_under_independent": [35.065, 32.467800000000004, 37.816075000000005], "interaction": [99.124, 95.4825, 102.82782499999999]}
+{"key": "exit|ordinary", "restriction_effect_under_success": [118.42, 112.73254999999999, 124.22502499999999], "restriction_effect_under_independent": [13.721, 11.65775, 15.827224999999999], "interaction": [104.699, 98.8096, 110.70035]}
+{"key": "needless_cost|audit", "restriction_effect_under_success": [127.212, 123.707125, 130.685075], "restriction_effect_under_independent": [19.931, 18.314775, 21.64005], "interaction": [107.281, 103.61602500000001, 110.892325]}
+{"key": "exit|audit", "restriction_effect_under_success": [190.542, 184.844475, 196.354725], "restriction_effect_under_independent": [12.845, 11.735750000000001, 13.94915], "interaction": [177.697, 171.81437499999998, 183.521075]}
+{"key": "needless_cost|protected", "restriction_effect_under_success": [85.957, 83.828975, 87.9146], "restriction_effect_under_independent": [4.142, 3.527875, 4.783025], "interaction": [81.815, 79.76892500000001, 83.841]}
+{"key": "exit|protected", "restriction_effect_under_success": [146.798, 141.44762500000002, 152.060075], "restriction_effect_under_independent": [6.164, 5.7459750000000005, 6.5791499999999985], "interaction": [140.634, 135.34822499999999, 146.011075]}
+{"key": "correction_effect|audit", "reduction_in_needless_cost": [93.857, 90.285, 97.45459999999999]}
+{"key": "correction_effect|protected", "reduction_in_needless_cost": [67.829, 66.28365000000001, 69.412025]}
