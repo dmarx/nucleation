@@ -62,9 +62,19 @@ entries LEAD-016 advances, on CASE-117 and on LEAD-016.
   the returning specialist is then pre-empted even with its competence
   intact.
 
+- Main run complete (13:30): 6 seeds x {moe, moe_aux, moe_bias, rep},
+  uniform 12 seeds; results/summary.md, results/residual.json.
+- Filed: CASE-tmpnti0m (executed study), CLAIM-tmp1u4m3 (softmax-gradient
+  recovery, demonstrated), CLAIM-tmp1jz5w (spare capacity decides return,
+  empirical, two readings for the owner).
+- Dated notes: LEAD-016 (+ operationalized_in), CASE-117, QUESTION-132,
+  QUESTION-134, QUESTION-083, QUESTION-135, QUESTION-133, QUESTION-125.
+- Changelog fragment record/changelog.d/lead-016.md.
+- run-lead skill: step 5 gains stop-by-PID / scratch-subdirectory /
+  pace-under-load (prompted by the coordinator; this worker had used
+  `pkill -f study.py` earlier, which may have hit another worker's run).
+
 ## Next
 
-- When the run finishes (6 seeds per rule): run analyze.py, commit
-  results/summary.md, then file the CASE (CASE-tmpnti0m created by
-  `luria new case`, template not yet replaced), the CLAIM, dated notes and
-  the changelog fragment.
+- Nothing in scope. Report to the coordinator. Owner decides on status,
+  the two readings in CLAIM-tmp1jz5w, and whether to mark LEAD-016 Done.
