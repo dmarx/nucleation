@@ -53,6 +53,8 @@ entropy. No claim or case states a finite-memory error bound.
 
 - Filed CLAIM-tmplsu2m (demonstrated, bears_on QUESTION-222, complements CLAIM-398).
 
+- Filed CASE-tmpi9sds (executed-study, documented, illustrates the claim).
+
 ## Next
 
 - File CLAIM (demonstrated), CASE, notes on QUESTION-222 and LEAD-084,
