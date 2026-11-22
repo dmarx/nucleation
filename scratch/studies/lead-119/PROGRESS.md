@@ -15,9 +15,11 @@
 
 Internal H>=3 2/30 (7%), A>=3 4/30 (13%); independent H>=3 7/10, A>=3 9/10. The rule fixed in advance reads "prediction holds in the pilot". Confounds: domain (software outages against fatal chemical accidents), one coder, keyword-located reading.
 
+- Filed: CASE-tmp1ya4r (executed-study pilot), CLAIM-tmpst09o (finding, corroborates CLAIM-750); dated notes of 2026-11-22 on LEAD-119, CLAIM-750, CASE-293, QUESTION-476, CLAIM-751, CLAIM-719; changelog fragment record/changelog.d/lead-119.md. Frontmatter, title and H1 checks pass.
+
 ## Next
 
-- File the CASE (executed-study), a CLAIM (pilot finding), dated notes on CLAIM-750, CASE-293, QUESTION-476, CLAIM-751, CLAIM-719 and LEAD-119, changelog fragment.
+- Report to the lead. The pull request is opened by the lead, not this worker.
 
 ## Choices
 

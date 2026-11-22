@@ -48,3 +48,13 @@ Where the record names it:
 Blameless reviews that rarely reach above the team's authority while
 independent ones do support [CLAIM-750](../claims.d/CLAIM-750.md); reviews that trace upstream answer
 [QUESTION-476](../questions.d/QUESTION-476.md) for the practice.
+
+## Note of 2026-11-22: pilot run
+<!-- inactive-ok-file: CASE-tmp1ya4r CLAIM-tmpst09o — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-719 — Proposed; the entry whose completion measure the pilot could not take -->
+
+A pilot was run by a delegated lead worker (the assistant). The codebook, the sampling rule and the decision rule were committed before coding, under scratch/studies/lead-119/. The pilot coded 30 postmortems drawn at random (seed 119) from Dan Luu's public list and the 10 most recent completed Chemical Safety Board investigations, and is filed as CASE-tmp1ya4r. Causes above the engineering team were found in 2 of the 30 postmortems against 7 of the 10 reports, and action items above it in 4 against 9. Its finding is CLAIM-tmpst09o: the direction CLAIM-750 predicts. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
+
+**What remains.** An independent second coder on the same 40 documents, using the committed codebook. An NTSB arm. A design that separates commissioning body from domain: internal and independent reviews of the same incidents, or of one domain. Internal postmortems read end to end rather than by located passages. Completion of action items (CLAIM-719's note), which no document coded reports. The web.archive.org copies on the list could not be reached from the session.
+
+No status or stage changed.

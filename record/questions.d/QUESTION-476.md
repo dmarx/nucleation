@@ -165,3 +165,10 @@ On 2026-11-18 the owner asked the lead to "consider how blameless culture in mod
 - **Cook** gives the premise all of these start from: root-cause attribution reflects "the social, cultural need to blame specific, localized forces or events", so blame itself tends to stop near the event.
 
 No status changes. The question stays Open: its second half, for engineering postmortems, is unanswered.
+
+## Note of 2026-11-22: a pilot coding of postmortems
+<!-- inactive-ok-file: CASE-tmp1ya4r CLAIM-tmpst09o — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
+
+The question's second half, for engineering postmortems, now has a pilot bearing on it: CASE-tmp1ya4r and its finding CLAIM-tmpst09o. In 26 of 30 public postmortems the trace stops at the engineering group's own design or procedure. CSB investigations of chemical accidents mostly carry it to corporate oversight, funding and regulation. That is the second answer listed here, "keeps correction, loses provenance", for published internal reviews. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
+
+No status changes. The question stays Open.
