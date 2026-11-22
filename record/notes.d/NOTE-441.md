@@ -278,3 +278,11 @@ Chirkov et al. 2003 ([NOTE-1513](NOTE-1513.md)) bear out this reading's account.
 moderation by culture" rests on twelve non-significant interactions in samples
 of 94 to 195 students, and its text for vertical collectivism repeats the
 vertical individualism statistics (p. 105 against Table 6).
+
+## Note of 2026-11-22: Howard, Gagné and Bureau, read
+
+**Background**, no edge (LIT-1996, NOTE-tmp3k6if). Where this note draws on
+integration, and on values that "cannot be integrated", the meta-analysis
+adds that integrated regulation has no measure separate from identified
+regulation in the scales to 2016, so claims about integration as distinct
+from endorsement are not yet tested in self-report data.

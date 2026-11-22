@@ -49,6 +49,7 @@ summary: >-
 answers:
 - QUESTION-007
 ---
+<!-- inactive-ok-file: THEORY-tmp0vgh7 — Proposed; the reading of Howard, Gagné and Bureau, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-599 — Unavailable; the book version of the lectures, named as the unread work that would move this -->
 <!-- inactive-ok-file: THEORY-029 THEORY-047 THEORY-054 THEORY-065 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
@@ -162,3 +163,13 @@ will necessarily be sketchy, and sketchily argued" (p. 78).
   identity forbids, with no claim about normativity. SDT's claim that the
   conditions of acquisition fix how a value is held ([THEORY-047](THEORY-047.md)) addresses
   the question these lectures leave open.
+
+## Note of 2026-11-22: Howard, Gagné and Bureau, read
+
+**Background**, no edge (LIT-1996, NOTE-tmp3k6if). This account sets
+beside its own the descriptive counterpart in self-determination theory's
+integrated regulation, a value "brought into congruence with one's other
+values and needs"; the
+meta-analysis finds that regulation not separable from identified
+regulation in measurement (r = .913), so the comparison is with a construct
+that self-report does not isolate.

@@ -241,3 +241,12 @@ introjected guilt can be attained and leave the person no better off.
   free path, which should cost a degree of freedom. One of the two df
   values is a misprint, or the revision changed something else that the
   text does not report.
+
+## Note of 2026-11-22: Howard, Gagné and Bureau, read
+
+**Answers the measurement half of an open question above**, no edge
+(LIT-1996, NOTE-tmp3k6if). "Does integrated regulation, measured
+separately from identified, add anything to the prediction?": across
+validated scales to 2016 it is not measured separately (r = .913 with
+identified, overlapping intervals). Whether a separate measure would add to
+prediction is not tested.

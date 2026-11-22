@@ -66,6 +66,7 @@ summary: >-
 bounds:
 - CLAIM-548
 ---
+<!-- inactive-ok-file: THEORY-tmp0vgh7 — Proposed; the reading of Howard, Gagné and Bureau, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-122 THEORY-119 — Proposed; the rival accounts declared here, the manipulation account named in prose, and the PAP account filed in the same batch -->
 <!-- inactive-ok-file: LIT-575 LIT-695 LIT-693 LIT-690 LIT-684 — Unavailable, unread; Frankfurt's later replies and collection, and the critics' primary texts, named in prose -->
 
@@ -235,3 +236,12 @@ responsibility in those terms.
 ## Note of 2026-11-06: what holds it back
 
 The texts that settle what identification became, [LIT-575](../literature.d/LIT-575.md) and [LIT-695](../literature.d/LIT-695.md), are Unavailable, and the 1994 essay is not filed, so the later criteria are held only by report and the dispute over resigned acceptance between [LIT-291](../literature.d/LIT-291.md) and [LIT-293](../literature.d/LIT-293.md) is unresolved. The record has not run [THEORY-029](THEORY-029.md)'s dilemma against the 1971 text (p. 16), and holds no case its defenders accept of wholehearted, unmanipulated identification without responsibility.
+
+## Note of 2026-11-22: Howard, Gagné and Bureau, read
+
+**Indirect**, no edge (LIT-1996, NOTE-tmp3k6if). Identified regulation, acting
+"in line with personal values", is self-determination theory's nearest
+analogue of endorsement; integrated regulation adds coherence with one's
+other values. The meta-analysis finds the two indistinguishable in
+self-report (r = .913), so the measures cannot tell a coherence account of
+the agent's own motive from an endorsement account like this one.

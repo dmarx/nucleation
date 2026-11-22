@@ -32,6 +32,7 @@ summary: >-
 bears_on:
 - QUESTION-369
 ---
+<!-- inactive-ok-file: THEORY-tmp0vgh7 — Proposed; the reading of Howard, Gagné and Bureau, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-052 THEORY-054 THEORY-049 LIT-1996 — Proposed, Open or Unfetched; neighbours whose promote_when this map bears on, cited as open -->
 
 # THEORY-1327: As Ryan and colleagues' 2022 meta-review maps it, the meta-analytic evidence for self-determination theory is concentrated in cognitive evaluation, organismic integration and basic needs theory, is mostly cross-sectional and heterogeneous, and has gaps: no meta-analysis of relationships motivation theory or of need frustration, one or two of causality orientations and goal contents, and none that separates integrated from identified regulation
@@ -107,3 +108,13 @@ and did not find them.
 - **[QUESTION-369](../questions.d/QUESTION-369.md).** The BPNT evidence the review lists is need
   satisfaction correlated with well-being, the kind the question says
   cannot settle what a need is.
+
+## Note of 2026-11-22: Howard, Gagné and Bureau, read
+
+The meta-review's gap "none that separates integrated from identified
+regulation" is **confirmed from the primary meta-analysis** (LIT-1996,
+NOTE-tmp3k6if): pooled r = .913, overlapping intervals, "practically
+indistinguishable" (p. 28). One qualification of the meta-review's report:
+its "too few studies measuring integration" is not the paper's reason;
+integrated regulation has 84 to 98 samples, and the paper puts the problem
+in the construct and its measures (p. 29).
