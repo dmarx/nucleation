@@ -39,10 +39,21 @@ multiplicity with the CLAIM-154 pricing. Then state the structural result.
   factorization uniqueness found in record/ (grep CLAIM-168/170/174).
 - Branch cut, PROGRESS pushed.
 
-## Next
+- Numerical study written and run: factorization.py, test_factorization.py
+  (10 tests pass), run.py -> results.json. Headline: 0 crosscutting ties in
+  12000 families; symmetric ring forces no tie; watchmaker shows grain
+  multiplicity.
+- Filed CASE-tmprh6pl (executed-study), CLAIM-tmpm2589 (thesis,
+  demonstrated, Proposed; three owner's-call alternatives in its body),
+  TERM-tmpdlwl8 (crosscutting vs nested), changelog lead-109.md, dated note
+  on LEAD-109. Frontmatter/title/H1 checks pass.
 
-- Write the numerical study + pytest under scratch/studies/lead-109/.
-- File CASE (executed-study), CLAIM(s) with alternatives, TERM, changelog.
+## Next (remaining of the lead)
+
+- Directed / time-lagged coupling not modelled (one-way drive, storage
+  route). A demonstration there would strengthen or qualify the result.
+- Tests 2-3 stipulated per-block, not a full Orseau/Kenton computation.
+- Owner: pick among alternatives A/B/C in CLAIM-tmpm2589; set lead stage.
 
 ## Choices made
 
