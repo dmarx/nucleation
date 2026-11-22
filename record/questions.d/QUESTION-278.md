@@ -97,3 +97,9 @@ executive can condition it, parting under a challenge. A9: that "would
 **not yet establish Nucleation's theoretical advantage**, because a
 conventional state-space or game-theoretic model might explain the same
 difference equally well."
+
+## Note of 2026-11-22: one relation tested in a model
+<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-285 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
+
+[CASE-tmp8riid](../cases.d/CASE-tmp8riid.md), a queueing model of [CASE-285](../cases.d/CASE-285.md)'s design, bears on one relation this question asks for: the time an acting institution leaves before its actions are irreversible, against the time the institution that would correct it needs to detect, evaluate and act. With the corrector's authority fixed, correction became less timely as that margin shrank, gradually rather than at a threshold. Of the remedies, those that hold an action until the corrector acts (precommitted limits, automatic suspension) kept correction timely for what they caught; a fixed pause did so only by giving up the speed. [CLAIM-tmpsaql8](../claims.d/CLAIM-tmpsaql8.md) states the result. No status changes.

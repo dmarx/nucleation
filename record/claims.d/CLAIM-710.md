@@ -328,3 +328,14 @@ yet effective. Relation: none.
 <!-- inactive-ok-file: THEORY-1938 — new theory of 2026-11-18, Proposed -->
 
 Bovens and Zouridis 2002, read from the authors' manuscript ([NOTE-2030](../notes.d/NOTE-2030.md), [THEORY-1938](../theory.d/THEORY-1938.md)): it corroborates the claim independently ([THEORY-1938](../theory.d/THEORY-1938.md) carries `corroborates`). Automating a step "demands the standardization and formalization of the preceding steps" (ms p. 9), until officers "merely pressed a button to indicate their acceptance of the computer's decisions", and "Only if the student lodged a formal objection was the application referred for assessment by a living person" (ms p. 10). The places where a case could be weighed or redirected are gone except one the affected person must open; the authors' hardship clauses are attempts to put such places back. The paper does not use the language of friction. No status changes.
+
+## Note of 2026-11-22: [CASE-285](../cases.d/CASE-285.md) run by simulation
+<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-711 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
+
+[CASE-tmp8riid](../cases.d/CASE-tmp8riid.md) carries out [CASE-285](../cases.d/CASE-285.md) in a queueing model. The model has no handoffs or approvals; its "friction" is the time before an action becomes irreversible, and taking that time away, with the overseer unchanged, removed intervention: 0.994 of objectionable actions stopped at the slow speed, 0.396 at ten times it. That is [LEAD-068](../leads.d/LEAD-068.md)'s "what would count" for the "exposes" reading, in stipulated form. Precommitted limits that hold what they catch and delay nothing else won back their coverage with little delay. Two readings of that, which the record leaves to the owner ([TERM-125](../terms.d/TERM-125.md)):
+
+- *if friction is impedance*, the limits are a stipulated process in which interruptibility is kept with no delay to the actions that pass, the kind this claim's defeated_if names against "characterizes"; being stipulated, it shows the arrangement is coherent, which [CLAIM-711](CLAIM-711.md) already argues, not that one exists;
+- *if friction includes a gate the executor cannot pass alone*, the limits are friction relocated, [CLAIM-711](CLAIM-711.md)'s own defeater, and the model supports both readings alike.
+
+[CLAIM-tmpsaql8](CLAIM-tmpsaql8.md) states the result. No status changes.
