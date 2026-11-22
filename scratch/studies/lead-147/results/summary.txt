@@ -21,3 +21,22 @@ HIERARCHY
 cv_depth<=1    attrs=   1 R2_cv=0.0026 permuted=-0.0008
 cv_depth<=2    attrs=  12 R2_cv=0.0154 permuted=-0.0039
 cv_depth<=3    attrs=  68 R2_cv=0.0180 permuted=-0.0171
+cv_depth<=4    attrs= 191 R2_cv=0.0095 permuted=-0.0431
+cv_depth<=5    attrs= 343 R2_cv=-0.0024 permuted=-0.0718
+cv_depth<=6    attrs= 460 R2_cv=-0.0115 permuted=-0.0918
+cv_depth<=7    attrs= 529 R2_cv=-0.0178 permuted=-0.1028
+cv_depth<=8    attrs= 564 R2_cv=-0.0205 permuted=-0.1064
+cv_depth<=9    attrs= 579 R2_cv=-0.0220 permuted=-0.1113
+cv_depth<=10   attrs= 584 R2_cv=-0.0223 permuted=-0.1095
+cv_depth<=11   attrs= 586 R2_cv=-0.0225 permuted=-0.1103
+cv_depth<=12   attrs= 587 R2_cv=-0.0226 permuted=-0.1106
+cv_depth<=13   attrs= 588 R2_cv=-0.0226 permuted=-0.1091
+cv_depth<=14   attrs= 589 R2_cv=-0.0226 permuted=-0.1112
+cv_depth<=15   attrs= 590 R2_cv=-0.0227 permuted=-0.1115
+cv_depth<=99   attrs= 590 R2_cv=-0.0227 permuted=-0.1100
+probe rank  10 balanced acc by depth: d1:0.69(n1) d2:0.70(n11) d3:0.72(n56) d4:0.74(n123) d5:0.73(n152) d6:0.71(n117) d7:0.72(n69) d8:0.74(n35) d9+:0.76(n26)
+   false positives inside the parent: 0.051 vs parent's share of negatives 0.029 (enrichment 1.8x, 583 attributes)
+probe rank  30 balanced acc by depth: d1:0.73(n1) d2:0.74(n11) d3:0.75(n56) d4:0.75(n123) d5:0.75(n152) d6:0.74(n117) d7:0.75(n69) d8:0.75(n35) d9+:0.80(n26)
+   false positives inside the parent: 0.062 vs parent's share of negatives 0.029 (enrichment 2.1x, 583 attributes)
+probe rank 100 balanced acc by depth: d1:0.75(n1) d2:0.77(n11) d3:0.73(n56) d4:0.73(n123) d5:0.72(n145)
+   false positives inside the parent: 0.104 vs parent's share of negatives 0.045 (enrichment 2.3x, 329 attributes)

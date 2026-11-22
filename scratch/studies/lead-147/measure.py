@@ -205,8 +205,8 @@ def stage_alpha(counts, vocab, nltk_data):
     rows, X, depth, parent, names = wordnet_nouns(vocab, nltk_data)
     Y = double_center(spmi(counts["full"])[rows])
     perm = np.random.default_rng(7).permutation(len(X))
-    for dmax in (4, 6, 99):
-        for alpha in (10.0, 100.0, 1000.0):
+    for dmax in (4, 99):  # reduced for time on 2026-11-22
+        for alpha in (100.0, 1000.0):
             key = f"alpha{alpha:g}_depth<={dmax}"
             if key in done:
                 continue
@@ -286,4 +286,8 @@ def main(text8, nltk_data, qpath, cache):
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:5])
+    if len(sys.argv) > 5 and sys.argv[5] == "alpha":  # the stronger-ridge refit alone
+        counts, vocab = stage_counts(sys.argv[1], sys.argv[4])
+        stage_alpha(counts, vocab, sys.argv[2])
+    else:
+        main(*sys.argv[1:5])
