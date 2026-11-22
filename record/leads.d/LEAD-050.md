@@ -23,6 +23,7 @@ summary: >-
   From the record's Deferred and Unfetched works. Filed by the backlog
   audit of 2026-11-19.
 ---
+<!-- inactive-ok-file: THEORY-tmp4gziy — Proposed; the reading of Dorsch, Coeckelbergh and Vierkant, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2373 LIT-2403 LIT-2432 LIT-2448 — Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-050: Read the works on epistemic governance
@@ -48,3 +49,15 @@ Read the works.
 
 A stated wrong of epistemic governance apart from harm bears on
 [QUESTION-441](../questions.d/QUESTION-441.md).
+
+## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
+
+LIT-2373 is read (NOTE-tmpdb4eb; THEORY-tmp4gziy) and now Active. It
+**partly meets "what would count"**. It states a wrong apart from
+misinformation harm, the corruption of the reliability of epistemic agency
+(p. 4), but a wrong done to epistemic agency, not a wrong of epistemic
+governance: no governing body, standard or answerability is named. The
+passage to cite for a governance norm is its contrast between curation
+"guided by ground truth" and curation organised around what the user is
+predicted to expect, which makes arrival "a matter of luck" (pp. 13–14).
+The other three works stay unread.

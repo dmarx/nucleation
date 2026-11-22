@@ -32,6 +32,7 @@ summary: >-
   felt/unfelt levels are proposals. "Felt" here means attended and
   reportable, not phenomenal, and fluency is not offered as affect.
 ---
+<!-- inactive-ok-file: THEORY-tmp4gziy — Proposed; the reading of Dorsch, Coeckelbergh and Vierkant, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-190 — Proposed; the other fluency reading, named in Connections -->
 <!-- inactive-ok-file: THEORY-045 THEORY-057 THEORY-093 THEORY-500 — Proposed; neighbouring accounts named in Connections, not leaned on -->
 
@@ -121,3 +122,14 @@ is unchanged: no generative model with felt and unfelt fluency as variables
 has been built, and none has predicted a new reversal that an experiment then
 found. A split into what Brouillet and Friston propose would still free
 neither [CLAIM-337](../claims.d/CLAIM-337.md) nor [CLAIM-439](../claims.d/CLAIM-439.md).
+
+## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
+
+A **parallel**, no edge (LIT-2373, NOTE-tmpdb4eb). Dorsch and colleagues'
+epistemic-luck argument rests on the premise that "no phenomenological
+difference exists" between metacognitive feelings from reliable processes
+and from systemic biases, so that users "remain reflectively unable to
+determine whether the underlying process tracks truth" (p. 14). This
+account's fluency, an inference whose cause "is internal and not given to
+introspection", is the cognitive-side reason that premise would hold. The
+paper does not cite it.
