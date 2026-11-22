@@ -50,6 +50,7 @@ summary: >-
 answers:
 - QUESTION-181
 ---
+<!-- inactive-ok-file: CASE-tmpjn6f4 CLAIM-tmpcpr7t — new; the study and the claim LEAD-035 filed on 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-797: Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose
@@ -97,3 +98,16 @@ Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d
 only.** Cross-entropy training (unhinged loss in its theorem), not MSE, and
 its critique of the unconstrained-feature model applies to the model this
 account's dynamics are derived in. No relation.
+
+## Note of 2026-11-22: [LEAD-035](../leads.d/LEAD-035.md), the promote_when's refutation met in small models
+
+The promote_when asks for ω_j tracked through MSE training without imposed
+re-whitening, and says the account "is refuted if, near the central path,
+the ω_j spread apart or stall while L⊥_LS stays negligible". In
+[CASE-tmpjn6f4](../cases.d/CASE-tmpjn6f4.md) (numpy, small ReLU networks and unconstrained features, three
+seeds) they spread apart and grow exponentially or as a steep power with
+no weight decay, and stall and settle at finite values with it, while the
+networks stay near the central path; the renormalized flow, run as a
+control, matches the law. Filed as [CLAIM-tmpcpr7t](../claims.d/CLAIM-tmpcpr7t.md). The test is at toy scale,
+not in the networks the account is about, so whether this entry is
+rejected is the owner's call; status unchanged.
