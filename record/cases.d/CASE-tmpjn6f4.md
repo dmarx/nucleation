@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'In small models trained by gradient descent on MSE without re-whitening, the whitened class-separation singular values do not grow as (4t/N)^(1/4): without weight decay they grow exponentially or as a steep power and spread apart while NC1 stalls, and with weight decay they grow, stall and regrow, or collapse in a late instability; Han, Papyan and Donoho''s renormalized flow, run as a control, matches the law to five digits'
+title: 'In small models trained by gradient descent on MSE without re-whitening, the whitened class-separation singular values do not grow as (4t/N)^(1/4): without weight decay they grow exponentially or as a steep power and spread apart while NC1 stalls, and with weight decay they grow, stall, regrow and settle at finite values, or collapse in a late instability; Han, Papyan and Donoho''s renormalized flow, run as a control, matches the law to five digits'
 version: 1
 history:
 - version: 1
@@ -36,14 +36,16 @@ summary: >-
   two ReLU networks, one with batch normalization, grow them with late
   log-log slopes 2.4–3.9 and max/min 2.4–15; NC1 stalls at 0.05–0.42
   throughout. With weight decay 5×10⁻⁴, the plain network's ω_j grow,
-  stall while NC1 falls, and regrow; the batch-normalized one's rise to
+  stall while NC1 falls, regrow, and in a run five times longer settle
+  at finite values (about 200–390, max/min 1.6–1.9); the
+  batch-normalized one's rise to
   about 10⁴ and then fall tenfold in a late loss spike. Toy data and small
   models, so it bears on [QUESTION-181](../questions.d/QUESTION-181.md) by kind, not at the scale Han and
   colleagues measured.
 ---
 <!-- inactive-ok-file: THEORY-797 CLAIM-tmpcpr7t LIT-tmpxyq0h — Proposed, Deferred or new; the proposal this study tests, the claim filed from it, and the work registered beside it -->
 
-# CASE-tmpjn6f4: In small models trained by gradient descent on MSE without re-whitening, the whitened class-separation singular values do not grow as (4t/N)^(1/4): without weight decay they grow exponentially or as a steep power and spread apart while NC1 stalls, and with weight decay they grow, stall and regrow, or collapse in a late instability; Han, Papyan and Donoho's renormalized flow, run as a control, matches the law to five digits
+# CASE-tmpjn6f4: In small models trained by gradient descent on MSE without re-whitening, the whitened class-separation singular values do not grow as (4t/N)^(1/4): without weight decay they grow exponentially or as a steep power and spread apart while NC1 stalls, and with weight decay they grow, stall, regrow and settle at finite values, or collapse in a late instability; Han, Papyan and Donoho's renormalized flow, run as a control, matches the law to five digits
 
 ## What was asked
 
@@ -93,6 +95,7 @@ Late window is the last decade of t; slopes are of log ω_j on log t
 | mlp2, wd 0 | 2.4–3.6 | 1.3–2.0 → 2.6–15 | 0.22–0.42 | steepening; full training accuracy by t ≈ 30 |
 | mlp3bn, wd 0 | 2.4–3.9 | 1.4–1.7 → 2.4–11 | 0.26–0.31 | steepening |
 | mlp2, wd 5×10⁻⁴ | 0.11–0.30 | 1.3–2.0 → 1.1–1.5 | 10⁻⁴–3×10⁻³ | fast growth to ω ≈ 150, a stall from t ≈ 500 to 4000 while NC1 falls tenfold, then regrowth (local slope 0.5–1 at the end) |
+| mlp2, wd 5×10⁻⁴, 10⁶ steps, seed 0 | ≈ 0 over t = 1.3×10⁴ to 5×10⁴ | 1.3 → 1.6–1.9 | 3×10⁻⁴ | as above, then settled: ω_j between 198 and 386 from t ≈ 1.3×10⁴ on, NC1 still falling |
 | mlp3bn, wd 5×10⁻⁴ | −0.2 to −0.6 | 1.4–1.7 → 2.0–4.1 | 10⁻⁶–10⁻⁴ | growth to ω ≈ 10⁴ by t ≈ 4000, then a tenfold fall with a 100-fold rise in L_LS |
 
 The absolute level, against (4t/N)^(1/4) in this time unit, is 40–55 times
@@ -125,8 +128,10 @@ In every un-renormalized setting tried, the ω_j are not (4t/N)^(1/4).
 Without weight decay they grow far faster and spread apart, which is
 [QUESTION-181](../questions.d/QUESTION-181.md)'s and [THEORY-797](../theory.d/THEORY-797.md)'s "no": "near the central path, the ω_j
 spread apart or stall while L⊥_LS stays negligible". With weight decay,
-the setting of Han and colleagues' experiments, ω neither follows the law
-nor settles in 200,000 steps. The closed form describes the renormalized
+the setting of Han and colleagues' experiments, ω does not follow the
+law: in the plain network it settles at finite, unequal values, as a loss
+with a finite minimum would have it, and in the batch-normalized one it
+falls back in a late instability. The closed form describes the renormalized
 flow and, in these models, not gradient descent.
 
 ## Limits
@@ -140,7 +145,8 @@ flow and, in these models, not gradient descent.
   within-class re-whitening of A3 and was not meant to be.
 - With weight decay, 200,000 steps (t = 10⁴) did not settle ω; the
   late-window slopes there average a stall and a regrowth and are not a
-  power-law regime. The batch-normalized runs end in an instability whose
+  power-law regime. Only one seed of one network was run longer (10⁶
+  steps), and it settled. The batch-normalized runs end in an instability whose
   cause was not studied.
 - The direction claim of Corollary 2 (the limit set by the early singular
   vectors) was not measured.

@@ -52,5 +52,8 @@ conditioning of Sigma_W below 1e-13).
     python3 -I run.py mlp3bn --out=results-mlp3bn.jsonl
     python3 -I analyze.py .
 
-`--quick` runs a tenth of the steps. The full set took about XX minutes
-on a shared four-core machine.
+`--quick` runs a tenth of the steps. The full set took about 40 minutes
+of wall time on a shared, heavily loaded four-core machine, with three to
+four processes in parallel (the batch-normalized weight-decay items are
+the slowest, about 12 minutes each). `python3 -I run.py long` adds the one
+10^6-step weight-decay run (`results-long.jsonl`, about 5 minutes).
