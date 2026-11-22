@@ -1,28 +1,12 @@
-<!-- One fragment per contribution, named for its filing moment — `luria new
-     changelog` stamps it, the way the devlog stamps entries. Keep
-     only the headings that apply; delete the rest. Collected into CHANGELOG.md
-     on a cadence, never on every merge (ADR-002).
-
-     No user-facing changes? Replace everything with a single HTML comment
-     saying why. A stub collects to nothing, which keeps "every contribution
-     files a fragment" enforceable without inventing an entry. -->
-
 ### Added
 
--
-
-### Fixed
-
--
+- CASE-tmpb4hg0: the modular-addition checkpoint study of LEAD-172, run
+  (executed-study), with its scripts, tests and results under
+  scratch/studies/lead-172/.
+- CLAIM-tmp6rhuv: what the study finds about selection-rule coupling as an
+  early forecast of generalization, against a null at equal edge budget.
 
 ### Changed
 
--
-
-### Removed
-
--
-
-### Documentation
-
--
+- Dated notes of 2026-11-22 on LEAD-172, QUESTION-275, QUESTION-217,
+  QUESTION-360 and CLAIM-698 saying what the study shows and what it leaves.
