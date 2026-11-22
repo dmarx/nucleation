@@ -83,3 +83,10 @@ defeat it.
 Where blameless tracing stops, by the commissioning body's authority. It
 would not show that blame-based reviews go further, which needs a third
 arm of reviews that assign blame.
+
+## Note of 2026-11-22: piloted
+<!-- inactive-ok-file: CASE-tmp1ya4r — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
+
+A pilot of this design is [CASE-tmp1ya4r](CASE-tmp1ya4r.md) ([LEAD-119](../leads.d/LEAD-119.md)): 30 public postmortems against 10 CSB reports, with the codes of this entry's "Coding" made ordinal in a codebook committed before coding. Of this entry's design problems, it answers none. Selection by publication is untouched. Authority was coded from the text alone. Follow-up is not measured. It adds a fourth problem: the internal and independent corpora differ in domain and severity, so a full run needs reviews of the same incidents, or of one domain. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
+
+No status changes.
