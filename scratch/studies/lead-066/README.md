@@ -162,11 +162,12 @@ with ρ_k = e_{k+1} − (I − hA_k)e_k the step's departure from linearity.
 ## What it implies for the acquisition order
 
 1. **Conjecture A is a theorem for a fixed operator, and its comparison
-   half is one for a moving operator.** "If the learning operator nearly commutes with
-   every P_ℓ and its effective eigenvalues fall as finer distinctions are
-   added, acquisition is nearly coarse to fine, with deviations set by the
-   cross-level coupling and the spectral gaps": Theorem 1 and (★) are that
-   sentence with constants. The deviation in level ℓ is the commutator
+   half is one for a moving operator.** QUESTION-217 records A2's
+   conjecture as "If the learning operator A nearly commutes with every P_ℓ
+   ([A, P_ℓ] ≈ 0) and its effective eigenvalues fall as finer distinctions
+   are added, acquisition is nearly coarse to fine, with deviations set by
+   the cross-level coupling and the spectral gaps". Theorem 1 and (★) are
+   that sentence with constants. The deviation in level ℓ is the commutator
    over the level's own slowest rate, divided by the level's share of the
    target. For a moving operator, Theorem 5 bounds the distance from the
    level-decoupled flow; the order of that flow is then a question about
