@@ -97,3 +97,16 @@ Its first sentence is CLAIM-284 and CLAIM-417 restated in dispositional
 terms. Its second is CLAIM-574 and TERM-116 applied to the parts of a self,
 which no entry did. Its third is true for nested enrichments of the probe
 family and needs the qualification CLAIM-tmp0dyx8 gives otherwise.
+
+## Admission (ADR-075; the assistant's audit, 2026-11-22)
+
+*A separating case.* Its premises are CLAIM-284 and CLAIM-574. Take a
+self realized as hard-wired modules, each maintained by its own
+mechanism and each with its own channel to action. Both premises hold of
+it: it is an organization of coupled dispositions, and nested probe
+families split its classes monotonically. Yet its decomposition into
+perspectives is not regime-relative, since every affordable regime
+either recovers the modules or is wrong about them. So the claim says
+something its premises do not: that selves are not of that kind. This is
+its own `defeated_if`. Its clause that distinctions "may disappear" is
+corrected by CLAIM-tmp0dyx8.

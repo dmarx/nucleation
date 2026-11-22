@@ -134,3 +134,14 @@ the observational rows left test-relative. The record holds the causal
 location for the self-governing sense (CLAIM-284) and the test-relativity
 for distinctions in general (CLAIM-574); it did not hold their joint use
 for the parts of a self, or the plurality of adequate factorizations.
+
+## Admission (ADR-075; the assistant's audit, 2026-11-22)
+
+*A discriminating prediction.* Its premises (CLAIM-284, CLAIM-532,
+CLAIM-574) leave open where a self's unity lies. The claim puts it in the
+causal processes of coordination and maintenance. So it predicts that two
+systems matched in ordinary behaviour, one coordinated by mutual
+regulation and one by a common external driver, come apart under
+interventions on their coupling or on the driver. If they stay
+indistinguishable under rich intervention histories, the claim fails.
+LEAD-144 runs that design.

@@ -35,9 +35,10 @@ summary: >-
   ‖E_μ[φ] − E_ν[φ]‖_*, the dual norm of the difference of mean
   representations (an added constant cancels). A29's example with φ(x) = x:
   ½δ₋₁ + ½δ₁ and δ₀ have one mean, so every affine test agrees on them,
-  while g(x) = x²/(1 + x²) gives ½ and 0. So "which concepts are linearly
-  decodable from individual representations" and "which distributions of
-  states linear expectations can tell apart" are different questions, the
+  while g(x) = x²/(1 + x²) gives ½ and 0. So A29's "Which concepts are linearly
+  decodable from individual representations?" and "Which distributions
+  of organizational states can be distinguished by linear expectations?"
+  are different questions, the
   second much more restrictive unless φ is rich. It is the linear-kernel
   case of the mean-embedding view of MMD. Checked by the assistant
   (Claude, in this session) with python3 -I. The wording is A's (ChatGPT,

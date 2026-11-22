@@ -137,3 +137,17 @@ revised by its users, which CLAIM-469 says Luria's distinctions are.
 - Not that Luria is a self or makes its collaborators one agent; that is
   CLAIM-tmpqr0tn's question, and CLAIM-469 holds that Luria depends on
   external maintainers.
+
+## Admission (ADR-075; the assistant's audit, 2026-11-22)
+
+*A separating case.* Its premises are CLAIM-668 (a record represents
+standing, not belief) and CLAIM-785 (predicates constrain an entry's
+revisions). Take a governed record whose closed vocabulary cannot
+express one collaborator's position, which is CLAIM-181's limit. Both
+premises hold, and yet what can be filed converges because what can be
+said converges. So the claim adds a condition its premises lack:
+synchronization without convergence holds only while the constraint set
+can represent incompatible positions with their standing. That the
+record's distance to its constraint set can vanish while the
+perspectives stay apart is trivial, and it is not what admits the
+claim.

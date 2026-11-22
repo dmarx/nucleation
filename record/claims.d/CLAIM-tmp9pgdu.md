@@ -88,3 +88,14 @@ A26: "Could what we call a singular self be an observer-relative
 concentration or coarse-graining of an underlying continuous distribution
 of perspectival organization, rather than a fundamentally discrete
 entity?"
+
+## Admission (ADR-075; the assistant's audit, 2026-11-22)
+
+*A separating case.* Its premises (CLAIM-tmphxbli, CLAIM-tmpwb6dg,
+CLAIM-tmprq9q5) are constructions that hold of any measure. Take an
+organization whose measure over dispositions is atomic, with its
+perspectives' submeasures mutually singular and stable under every
+affordable probe. Every premise holds, and the claim's comparative
+("better modelled as measure-valued than as a discrete collection") is
+false, since the discrete model loses nothing. So the claim is an
+empirical bet about selves, not a consequence of the mathematics.

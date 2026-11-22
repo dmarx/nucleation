@@ -97,3 +97,18 @@ A29: "The result is not that a continuous measure is a self." And: as
 the test family or budget changes "the resulting observable lattice may
 change, but that is not necessarily the same thing as the organization
 itself changing."
+
+## Admission (ADR-075; the assistant's audit, 2026-11-22)
+
+*No route passes beyond CLAIM-tmp9pgdu.* This version adds an ordering
+of three levels: measure, representation and organization. Its
+separating case is CLAIM-tmp9pgdu's, an organization whose maintained
+dynamics fix discrete perspectives. That the representational level
+does not fix the causal one is held already, in TERM-069 ("Not
+interventional equivalence") and THEORY-698. Read under ADR-075, then,
+it is a recap: CLAIM-tmp9pgdu with labels for the levels, plus
+CLAIM-tmprbieu, CLAIM-tmpfza2h and CLAIM-tmpgnozg. It is kept, Proposed,
+as A29's version of the self thesis, because the account that maps the
+exchange (filed with it) cites it as the last version. Whether to keep
+it as a claim, or to retire it in favour of CLAIM-tmp9pgdu, is put to
+the owner.

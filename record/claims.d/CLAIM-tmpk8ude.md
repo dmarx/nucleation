@@ -95,3 +95,12 @@ changes the user notices between gestures can feel like unpredictability
 rather than lag, which is why A bounds them tightly. Whether bounded slow
 adaptation is perceived as better, not merely as no worse, is the study's
 question (CASE-tmptzhse).
+
+## Admission (ADR-075; the assistant's audit, 2026-11-22)
+
+*A discriminating prediction.* Its premises (CLAIM-711, CLAIM-478) say
+that slow constraints can be enforced fast, and that rate differences
+make structure. They do not say that an adaptive interface's updates,
+made only between gestures, go unperceived as lag. The claim predicts
+that they do. Its `defeated_if` names the study that would tell against
+it, and LEAD-tmplps4n carries it.

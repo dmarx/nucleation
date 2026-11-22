@@ -81,3 +81,13 @@ organization. If replacing members while keeping the record keeps those
 dispositions, the record carries part of what persists, which is
 QUESTION-118's question of what must stay causally continuous when a
 collective replaces its members.
+
+## Admission (ADR-075; the assistant's audit, 2026-11-22)
+
+*A discriminating prediction.* Its premises (CLAIM-469, CLAIM-418) leave
+open whether a record carries part of a team's organization. The
+supposition predicts two things. If a collaborator is replaced while the
+record is kept, the team-level disposition persists. If the record is
+withdrawn while the collaborators are kept, it degrades. LEAD-tmph7m7s
+runs both arms. If neither intervention moves the team-level profile,
+the supposition fails.
