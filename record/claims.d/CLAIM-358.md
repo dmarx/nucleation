@@ -91,6 +91,7 @@ bears_on:
 - QUESTION-054
 - QUESTION-365
 ---
+<!-- inactive-ok-file: CLAIM-tmpmk036 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-1283 — Open or Proposed; the outward route filed as a question, and Massumi's micropolitics set beside this claim -->
 <!-- inactive-ok-file: CLAIM-162 ARG-016 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
@@ -352,3 +353,18 @@ per-encounter cost this claim's amortization presupposes, not the recurrence.
 measure of intensity, not an accumulator parameter) is in the note of
 2026-11-22 on [THEORY-070](../theory.d/THEORY-070.md); whether it promotes that ground is the owner's
 call, so this claim's status is unchanged.
+
+## Note of 2026-11-22: a governed record as amortized arbitration, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+A20 §2 carried this claim from an agent's regimes to collaborators: "the
+effort of doing the task and the effort of governing how the task gets done
+are different costs", and a governed record can move recurrent
+re-establishment of context (what a term means, whether an objection was
+answered, which version is authoritative) into identifiers, statuses and
+checks. A quoted this claim's "The achievement of governance may be to make
+its repeated exercise unnecessary" and called it the strongest connection
+to Luria. A20 §3 then qualified it: a record that settles conflicts by
+enforcement amortizes arbitration by externalizing it, which is not the
+learned local accommodation this claim describes (CLAIM-tmpmk036,
+Proposed). An analogy of a parallel case; no relation is written. The claim
+is unchanged.
