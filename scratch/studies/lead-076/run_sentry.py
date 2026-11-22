@@ -159,13 +159,43 @@ def phase_diagram(p, U):
                 append(path, {"key": key, "cell": cell, "kappa": float(kappa), "eta": eta, **s})
 
 
+def sensitivity(p, U):
+    """The assumed switching hazard h, authority fixed at a trained level,
+    and a second seed set for the headline cells."""
+    path = os.path.join(RES, "sensitivity.jsonl")
+    have = done_keys(path)
+    rows = []
+    for h in (0.002, 0.005, 0.01, 0.02, 0.05):
+        for cell, c in (("independent|restricted|ordinary", Condition(feedback="independent")),
+                        ("success|restricted|ordinary", Condition()),
+                        ("success|restricted|protected", Condition(correction="protected")),
+                        ("habit|restricted|protected", Condition(model="habit", correction="protected")),
+                        ("bayesian", Condition(model="bayes"))):
+            rows.append((f"h={h}|{cell}", replace(p, h=h), c, U))
+    for rs in (False, True):
+        c = Condition(feedback="fixed", restrict=rs)
+        rows.append((f"fixed g=0.95|{'restricted' if rs else 'independent-evidence'}|ordinary",
+                     replace(p, g0=0.95), c, U))
+    U2 = draws(p, N, SEED + 1)
+    for name, c in (("governance", Condition()), ("habit", Condition(model="habit")),
+                    ("protected investigator", Condition(correction="protected")),
+                    ("independent audit", Condition(correction="audit")),
+                    ("independent|restricted|ordinary", Condition(feedback="independent"))):
+        rows.append((f"seed set 2|{name}", p, c, U2))
+    for key, pk, c, UU in rows:
+        if key in have:
+            continue
+        s = summarize(measures(pk, simulate(pk, c, UU)))
+        append(path, {"key": key, "h": pk.h, "g0": pk.g0, "condition": asdict(c), **s})
+
+
 def main():
     os.makedirs(RES, exist_ok=True)
     p = Params()
     with open(os.path.join(RES, "params.json"), "w") as f:
         json.dump({"params": asdict(p), "N": N, "seed": SEED}, f, indent=1)
     U = draws(p, N, SEED)
-    which = sys.argv[1:] or ["first", "factorial", "interventions", "phase"]
+    which = sys.argv[1:] or ["first", "factorial", "interventions", "phase", "sensitivity"]
     if "first" in which:
         first_experiment(p, U)
     if "factorial" in which:
@@ -174,6 +204,8 @@ def main():
         interventions(p, U)
     if "phase" in which:
         phase_diagram(p, U)
+    if "sensitivity" in which:
+        sensitivity(p, U)
 
 
 if __name__ == "__main__":
