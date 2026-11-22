@@ -16,11 +16,24 @@
   for later filings on CLAIM-082, CLAIM-242 and THEORY-159; their latest
   notes (2026-10-30) still say no such study is held.
 
+- Search done; queries in search.md (pushed).
+- Chosen to read: Karjus, Blythe, Kirby and Smith 2020 (arXiv:2006.09277v1,
+  read in full from the arXiv PDF, 2026-11-22); Malik-Moraleda, Mahowald,
+  Conway and Gibson 2023 (read in full from the PMC HTML, PMC10792402;
+  Europe PMC fullTextXML returned 500 (not OA there); the Harvard author-page
+  PDF returned 403 Access Denied, stopped); Zaslavsky et al. 2022 (next).
+
 ## Next
 
-- Search; log queries in search.md.
 - Register candidate works (LIT).
 - Read up to three; file NOTE/THEORY.
 - Dated notes on CLAIM-082, CLAIM-242, THEORY-159, LEAD-056; changelog fragment.
 
 ## Choices
+
+- Three to read, chosen as the nearest to THEORY-159's design: two where a
+  colour term is added or split and the old terms' extensions re-measured
+  (Nafaanra; Tsimane' bilinguals), one large-scale corpus study of what
+  rising words take from their neighbours (Karjus et al.). Registered
+  unread: Ameel et al. 2005, Athanasopoulos 2009, Xu and Kemp 2015,
+  Ryskina et al. 2020.
