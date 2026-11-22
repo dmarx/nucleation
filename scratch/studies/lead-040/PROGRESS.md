@@ -27,10 +27,13 @@
   check_erasure.py / erasure.txt: where an erased anchored wall goes.
   Coordinator asked to resume; branch was already current, nothing lost.
 
+- Filed CASE-tmp2e2a5 (executed-study), CLAIM-tmpwx1cm (Proposed, thesis,
+  empirical), dated notes on QUESTION-491 and LEAD-040, changelog fragment
+  record/changelog.d/lead-040.md. Frontmatter, titles and H1s checked.
+
 ## Next
 
-- Summarize; write README; file CASE, CLAIM if warranted, notes on
-  QUESTION-491 and LEAD-040, changelog fragment.
+- Report to the lead. Nothing else remains on this branch.
 
 ## Choices
 
