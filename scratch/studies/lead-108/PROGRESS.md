@@ -13,6 +13,17 @@
 
 ## Done
 
+- Read CLAUDE.md, run-lead skill, design principles opening, LEAD-108,
+  QUESTION-095, QUESTION-114, CLAIM-761, CLAIM-303, CLAIM-308, CLAIM-307,
+  CLAIM-310, CLAIM-314, CLAIM-630, CLAIM-760, CLAIM-755, CLAIM-647, CASE-094,
+  CASE-088, NOTE-867 (Hutchins), docs/record.md (CLAIM, CASE fields).
+
 ## Next
+
+1. Write the model as code: scratch/studies/lead-108/costmodel.py + tests.
+2. Price the three cases: price_cases.py -> results.json / results.md.
+3. File CASE (executed-study, documented) for the run; CLAIM (thesis) for the
+   result, with the owner's alternatives in the body.
+4. Dated notes on LEAD-108, QUESTION-095, QUESTION-114; changelog fragment.
 
 ## Choices made
