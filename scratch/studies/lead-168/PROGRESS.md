@@ -21,7 +21,19 @@
   'alike in routine' fails where E is deterred in I); D non-execution
   ambiguous in C (QUESTION-279); E structural edge E->F.
 
+- Step 3: filed CASE-tmpwj1k2 (executed study), CLAIM-tmpr54f9 (fixed
+  policies) and CLAIM-tmpx5yyb (anticipation) as alternatives; dated notes on
+  LEAD-168, QUESTION-278, QUESTION-279, CLAIM-462; changelog fragment
+  record/changelog.d/lead-168.md.
+
+## Choices made
+
+- Two readings of "first difference" filed as alternatives (owner's choice):
+  they are compatible results under different agent assumptions.
+- The structural reading (F's rule depends on E's signal) and the
+  QUESTION-279 ambiguity are folded into the case and CLAIM-tmpr54f9, not
+  filed separately.
+
 ## Next
 
-- File CASE (executed study) and CLAIM(s); alternatives where readings part.
-- Dated notes on QUESTION-278, LEAD-168; changelog fragment.
+- Report to the lead. Nothing else pending.
