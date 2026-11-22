@@ -44,12 +44,12 @@ A bound gives [QUESTION-217](../questions.d/QUESTION-217.md) a formal half besid
 
 <!-- inactive-ok-file: CASE-tmp99n89 CLAIM-tmpo8cwu — new; the study and claim of this lead, filed 2026-11-22 -->
 
-The reading half was already done: Nadler and colleagues are LIT-1250,
-read in NOTE-986, which found no bound there (the gap-to-cluster link is
+The reading half was already done: Nadler and colleagues are [LIT-1250](../literature.d/LIT-1250.md),
+read in [NOTE-986](../notes.d/NOTE-986.md), which found no bound there (the gap-to-cluster link is
 heuristic). The formal half was done on 2026-11-22
-(scratch/studies/lead-066/, with twelve tests), building on LEAD-052's
+(scratch/studies/lead-066/, with twelve tests), building on [LEAD-052](LEAD-052.md)'s
 exact case, in which every kernel of inner products and norms commutes
-with the level projectors on tree-symmetric data. CLAIM-tmpo8cwu
+with the level projectors on tree-symmetric data. [CLAIM-tmpo8cwu](../claims.d/CLAIM-tmpo8cwu.md)
 (demonstrated) proves the bound: for a learner whose residual obeys
 ė = −A e with A symmetric positive semidefinite, ‖[A, P_ℓ]‖ is the coupling
 between level ℓ and the rest, and level ℓ's relative residual departs from
@@ -60,7 +60,7 @@ intervals, that the symmetric order survives perturbations below a
 threshold proportional to the rate gaps, that below a risk of about the
 square of that ratio the levels' times converge, and, for a moving
 operator, that A2's ∫‖[A_t, P_ℓ]‖dt bounds the departure, more sharply when
-damped at the level's own rate. CASE-tmp99n89 checks all of it on
+damped at the level's own rate. [CASE-tmp99n89](../cases.d/CASE-tmp99n89.md) checks all of it on
 perturbed tree data, three exact kernels and trained two-layer ReLU
 networks; nothing failed, and the integral form was vacuous in the
 networks while the damped form was not.

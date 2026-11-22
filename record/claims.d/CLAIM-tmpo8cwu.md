@@ -36,7 +36,7 @@ grounds:
 complements:
 - CLAIM-tmpzujm1
 summary: >-
-  The bound NOTE-985 asked for, carried out under LEAD-066. A learner whose
+  The bound [NOTE-985](../notes.d/NOTE-985.md) asked for, carried out under [LEAD-066](../leads.d/LEAD-066.md). A learner whose
   residual obeys ė = −Ae, with A symmetric positive semidefinite (kernel
   gradient flow, or any network under gradient flow on squared loss, with
   A its tangent kernel over n), and levels P_ℓ summing to the identity.
@@ -51,7 +51,7 @@ summary: >-
   mode sets every level's time, so the times converge in ratio. For a
   moving operator the same holds with the commutator integrated against
   the level's own decay, a sharper form of A2's ∫‖[A_t, P_ℓ]‖dt. Checked in
-  CASE-tmp99n89. The wording is the assistant's (Claude, in this session);
+  [CASE-tmp99n89](../cases.d/CASE-tmp99n89.md). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp99n89 — new; the study of LEAD-066, filed 2026-11-22 -->
@@ -66,7 +66,7 @@ each A_t symmetric positive semidefinite: kernel gradient flow on the loss
 (A_t its empirical tangent kernel over n). Let P_0, …, P_L be orthogonal
 projectors with Σ P_ℓ = I: the levels of a hierarchy, for instance the Haar
 spans of a tree's depths. Level ℓ's risk is r_ℓ = ‖P_ℓe‖²/‖P_ℓe(0)‖², and
-its acquisition time T_ℓ(δ) the first time r_ℓ ≤ δ, as QUESTION-217
+its acquisition time T_ℓ(δ) the first time r_ℓ ≤ δ, as [QUESTION-217](../questions.d/QUESTION-217.md)
 defines them with the learner's own output as decoder. Write
 η_ℓ = ‖[A, P_ℓ]‖, λ_ℓ ≤ Λ_ℓ for the extreme eigenvalues of A compressed to
 level ℓ, a = λ_min(A), and s_ℓ = ‖P_ℓe(0)‖/‖e(0)‖.
@@ -105,15 +105,15 @@ The proofs are variation of constants on each level, with the level's own
 block as propagator (it contracts at rate λ_ℓ) and the commutator as the
 only source; the derivations are in scratch/studies/lead-066/README.md.
 
-So A2's Conjecture A, as QUESTION-217 records it ("If the learning operator
+So A2's Conjecture A, as [QUESTION-217](../questions.d/QUESTION-217.md) records it ("If the learning operator
 A nearly commutes with every P_ℓ ([A, P_ℓ] ≈ 0) and its effective
 eigenvalues fall as finer distinctions are added, acquisition is nearly
 coarse to fine, with deviations set by the cross-level coupling and the
 spectral gaps"), holds with constants for a fixed operator, and in its
-comparison half for a moving one. LEAD-052 proved the exact case, every
+comparison half for a moving one. [LEAD-052](../leads.d/LEAD-052.md) proved the exact case, every
 commutator zero on tree-symmetric data; this claim is its perturbation
 theory. Three consequences bear on the question. Off symmetry the target
-re-enters the kernel order, through s_ℓ, which LEAD-052 found absent at
+re-enters the kernel order, through s_ℓ, which [LEAD-052](../leads.d/LEAD-052.md) found absent at
 exact symmetry. The order has a resolution, so a claim of coarse-to-fine
 acquisition must say at what risk. And what breaks the order is the
 operator's distance from the symmetric one measured against the rate gaps,
@@ -122,9 +122,9 @@ not the data's distance as such.
 ## What it rests on
 
 Proof, in scratch/studies/lead-066/README.md, with the standard
-Davis–Kahan sin θ theorem used only for a side remark. THEORY-086, the
+Davis–Kahan sin θ theorem used only for a side remark. [THEORY-086](../theory.d/THEORY-086.md), the
 kernel regime fitted eigenspace by eigenspace, is the exact case's
-dynamics, which part 1 perturbs. CASE-tmp99n89 checks every part
+dynamics, which part 1 perturbs. [CASE-tmp99n89](../cases.d/CASE-tmp99n89.md) checks every part
 numerically; none failed.
 
 ## What it does not say
@@ -142,6 +142,6 @@ numerically; none failed.
   symmetric positive semidefinite operator: cross-entropy, momentum,
   adaptive optimizers.
 - A2's integral form, though true, was vacuous in the trained networks of
-  CASE-tmp99n89 (it allowed relative departures of 0.3 to 1.7); the damped
+  [CASE-tmp99n89](../cases.d/CASE-tmp99n89.md) (it allowed relative departures of 0.3 to 1.7); the damped
   form, which lets a level forget an early coupling at its own rate, is the
   one that informs.

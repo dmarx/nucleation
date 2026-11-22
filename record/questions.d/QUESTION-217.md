@@ -302,8 +302,8 @@ relevance order untouched. No status change.
 
 <!-- inactive-ok-file: CASE-tmp99n89 CLAIM-tmpo8cwu — new; the study and claim of LEAD-066, filed 2026-11-22 -->
 
-LEAD-066 gives Conjecture A a formal half (CLAIM-tmpo8cwu, demonstrated;
-checked in CASE-tmp99n89). For a learner whose residual obeys ė = −A e
+[LEAD-066](../leads.d/LEAD-066.md) gives Conjecture A a formal half ([CLAIM-tmpo8cwu](../claims.d/CLAIM-tmpo8cwu.md), demonstrated;
+checked in [CASE-tmp99n89](../cases.d/CASE-tmp99n89.md)). For a learner whose residual obeys ė = −A e
 with A symmetric positive semidefinite (kernel flow, or any network under
 gradient flow on squared loss, with its tangent kernel), ‖[A, P_ℓ]‖ is
 exactly the coupling between level ℓ and the rest, and level ℓ's relative
@@ -322,5 +322,5 @@ resolution, since below a risk of about (‖[A, P_ℓ]‖/λ_ℓ s_ℓ)² the sl
 mode sets every level's time, so a claim of coarse-to-fine acquisition
 must say at what risk. It bounds acquisition against the levels; it does
 not say whether the levels' rates fall with depth, which is where the
-strength sits (LEAD-052), and it does not touch the relevance order. No
+strength sits ([LEAD-052](../leads.d/LEAD-052.md)), and it does not touch the relevance order. No
 status change.

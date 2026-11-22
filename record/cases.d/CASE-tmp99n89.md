@@ -21,7 +21,7 @@ draws_on:
 bears_on:
 - QUESTION-217
 summary: >-
-  The numerical check of the commutator bound LEAD-066 asks for. Sixteen
+  The numerical check of the commutator bound [LEAD-066](../leads.d/LEAD-066.md) asks for. Sixteen
   items on a binary tree of depth 4, inputs written in the tree's Haar
   basis with a strength per level and then perturbed off the tree
   symmetry by Gaussian noise of relative size 0 to 0.5; scalar targets
@@ -49,7 +49,7 @@ README gives the statements checked and how to rerun.
 
 - **Data.** n = 16 items, the leaves of a binary tree of depth 4. Inputs
   X₀ = √n H diag(c) R, H the Haar basis grouped by level, c_ℓ = ρ^(ℓ−1)
-  with ρ = 0.7 or 0.85, R a random rotation: LEAD-052's construction.
+  with ρ = 0.7 or 0.85, R a random rotation: [LEAD-052](../leads.d/LEAD-052.md)'s construction.
   Perturbed inputs X = X₀ + Δ with ‖Δ‖_F = σ‖X₀‖_F, σ from 0 to 0.5.
   Scalar targets with level strengths flat, falling or rising.
 - **E1, fixed kernels.** Linear, infinite-width two-layer ReLU NTK and
@@ -66,7 +66,7 @@ README gives the statements checked and how to rerun.
 ## What it showed
 
 - **Exact case.** At σ = 0 every commutator was below 6·10⁻¹¹, for all
-  three kernels: LEAD-052's commutation reproduced.
+  three kernels: [LEAD-052](../leads.d/LEAD-052.md)'s commutation reproduced.
 - **The bounds held.** Theorem 1 at every time point of every perturbed
   item (largest observed over bound 0.78); 25,920 of 25,920 acquisition
   times inside their intervals; no certified pair out of order; the
@@ -97,7 +97,7 @@ README gives the statements checked and how to rerun.
 
 It is documented and executed: it shows the bounds hold, and how loose
 they are, on these data, kernels and networks. It cannot show the bounds
-true in general, which is the proof's job (CLAIM-tmpo8cwu), and it does
+true in general, which is the proof's job ([CLAIM-tmpo8cwu](../claims.d/CLAIM-tmpo8cwu.md)), and it does
 not test learners outside squared loss and plain gradient descent, larger
 trees, or data whose deviation from the tree is structured rather than
 Gaussian.
