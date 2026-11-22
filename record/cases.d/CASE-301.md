@@ -32,6 +32,7 @@ draws_on:
 - THEORY-2153
 ---
 <!-- inactive-ok-file: THEORY-2152 THEORY-2153 THEORY-2148 ARG-135 ARG-143 — Proposed; the readings and arguments of 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CASE-301: A two-class Gaussian mixture along a hidden direction, whose same-class cosines vanish with dimension while a readout along the direction stays 84 per cent accurate and PCA recovers the direction only above the BBP threshold
 
@@ -108,3 +109,18 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
 The case `draws_on` [THEORY-2152](../theory.d/THEORY-2152.md) and [THEORY-2153](../theory.d/THEORY-2153.md) for its check of
 the PCA column. The "Deferred: registered, not read" parenthesis above is
 updated.
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **extends the
+construction through L random layers.** Their Corollary 4 takes a
+signal-plus-noise input X = Σθᵢaᵢbᵢᵀ + Z, this case's mixture when the
+bᵢ are class-label vectors, and pushes it through a network with random
+Gaussian weights. The input threshold has this case's form in their
+normalization (noise entries of variance 1/d, γ0 the limit of n/d): a
+spike for θᵢ "if and only if θᵢ > γ0^(1/4) and i ∈ Iℓ", where Iℓ is the set
+that has passed a further BBP-type test at every layer up to ℓ. The
+alignment with the labels is multiplied by a factor below one at each
+layer, so the spectral column of this case can only get worse with depth at
+random weights. The decodability column is not studied there. A note, no
+relation: the case does not use the reading.

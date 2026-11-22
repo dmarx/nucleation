@@ -23,6 +23,7 @@ summary: >-
   question it raises. The ordering of the three events and the sorting of
   "weak" by spectrum are A41's, set out in the body as A's.
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k THEORY-tmpm3ux2 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
 
 <!-- inactive-ok-file: TERM-tmpf5ymd — Proposed; filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-835 CLAIM-807 CLAIM-828 CLAIM-812 TERM-137 — Proposed or new, filed with this question -->
@@ -159,3 +160,14 @@ An earlier note here says Song, Ahn and Yun "measure only training-loss descent"
 
 Read so, Song et al. bear on the owner's question more than the earlier note said. Projecting each update onto the dominant directions, the bulk by weight, stops training. Projecting onto the rest, the low-curvature directions that carry little of the operator's activity, trains as fast as SGD. So capability develops through the non-dominant directions. What the paper still does not do is follow one direction through training or say which distinctions it comes to carry. The note is the assistant's (Claude, in this session).
 
+## Note of 2026-11-22: Yang, and Lee, Smith, Adam and Hoogland, read
+
+- **Yang ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)): a contrast.** The direction that becomes
+  unstable is the *largest* covariance direction, at β = 1/λmax(Cov z),
+  not a weak one becoming informative.
+- **Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)): a parallel.** The between-phase part of
+  their influence, πUπV(µi,U − µi,V)(µj,U − µj,V), picks out the samples
+  on which two phases disagree, which may be samples a weak direction
+  carries; the paper does not connect it to small eigenvalues.
+
+Neither answers the question; no edge.

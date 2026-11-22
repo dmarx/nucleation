@@ -39,6 +39,7 @@ summary: >-
   does not say that random starts follow the solution, which is
   [THEORY-186](THEORY-186.md)'s.
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k THEORY-tmpm3ux2 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-774 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account this core was split from and that extends it, and the depth account set beside it, cited as open -->
 <!-- inactive-ok-file: THEORY-tmpg4aat — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
@@ -112,3 +113,17 @@ long plateau is of another kind: a noise-driven random walk along a line
 of equivalent models, an attracting set with a basin of positive measure,
 left only by fluctuation ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md), [THEORY-tmpg4aat](THEORY-tmpg4aat.md)). Different
 models; no relation is written.
+
+## Note of 2026-11-22: Yang, and Lee, Smith, Adam and Hoogland, read
+
+- **Lee et al. ([THEORY-tmpm3ux2](THEORY-tmpm3ux2.md)): uses it.** Their analytic influence in
+  a deep linear network runs through this reading's closed-form mode
+  strength (their Eq. 30). The filer's check of its derivative in the
+  signal: at s = 1, τ = 1, g₀ = 10⁻³, ∂g_t/∂s rises from 0 to a peak of
+  2.13 at t ≈ 3.77, just after half strength, and settles to 1, because a
+  larger s both raises the endpoint and brings the rise earlier. Their
+  influence peaks follow the hierarchy, which in this model is the order
+  of strengths this reading gives.
+- **Yang ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md)): background.** Cites the saddle-to-saddle
+  plateaus as "reminiscent" of its post-crossing metastability, with no
+  derivation joining them.

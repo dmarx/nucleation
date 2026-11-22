@@ -26,6 +26,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: LIT-369 THEORY-078 — Proposed; a neighbour in the random-matrix reading of trained weights, and the bulk-edge convention this account qualifies, named and not leaned on -->
 <!-- inactive-ok-file: LIT-tmpcvxug — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-420: In trained transformers, zeroing a decile of a weight matrix's singular values does damage that falls monotonically with their size in square matrices, whose random-matrix null reaches zero, but not in rectangular ones, whose null has a positive lower edge: there the smallest decile is never the least damaging and can be among the most
 
@@ -125,3 +126,11 @@ contrast.** Against a random-matrix null, one large step reshapes the
 feature covariance's bulk ("a wider support and longer tails") and adds
 outliers from the feature means; the paper says nothing about the bottom
 of the spectrum. No relation.
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](THEORY-tmp9ltxi.md)): **background.** Their Theorems 2 and 9 are "no outliers" results for
+random-weight conjugate kernels whose input has no spikes, a random-matrix
+null for feature spectra beside this one for weight spectra. Proposition 35
+is the weights' version after a few gradient steps: one outlier, only
+above a threshold. A note, no relation.

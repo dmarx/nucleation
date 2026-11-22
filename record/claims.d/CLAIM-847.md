@@ -50,6 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-848 TERM-136 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-tmpwtoad ARG-tmpbad4y — Proposed or new; the reading of Stringer and colleagues and the argument on its bound, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-847: For a Gaussian representation the relative spread of the squared norm is √(2/D_PR), with D_PR the covariance participation ratio, so concentration is set by effective rather than ambient dimension; under a rank power-law spectrum λ_j ∝ j^−α, D_PR grows as D for α below 1/2, as D/log D at 1/2, as D^(2(1−α)) between 1/2 and 1, as (log D)² at 1, and tends to a constant above 1
 
@@ -131,3 +132,14 @@ tail-sum device of the supplement's Theorem 4. **Adds** the restriction
 above: Corollary 3.1 rules out α ≤ 1 asymptotically for codes keeping
 finite variance with a continuous kernel. [CLAIM-848](CLAIM-848.md)'s use of the bound is
 corrected in place to its strict, tail-only form ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)).
+
+## Note of 2026-11-22: Ansuini and colleagues, read
+
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **background, with
+a pointed control.** The paper does not treat norms. Its covariance-matched
+Gaussian, with "the same second-order moments" as the representations, has
+an intrinsic dimension "two orders of magnitude larger", growing with N:
+second moments, which fix D_PR and with it this claim's norm spread, do not
+fix nearest-neighbour geometry. Consistent with this claim's scope, a
+Gaussian representation, and a warning against carrying it to real
+representations' local geometry. No relation.

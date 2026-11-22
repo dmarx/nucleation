@@ -40,6 +40,7 @@ summary: >-
 bounds:
 - CLAIM-408
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-429 — Proposed; a held reading named for comparison, nothing here rests on it -->
 # THEORY-863: In Arthur's model of two agent types arriving in random order, each adopting whichever of two technologies pays it more, with returns linear in previous adoptions, increasing returns make the adoption difference a random walk with absorbing barriers: one technology takes the whole market with probability one, A with probability Δ_R/(Δ_R + Δ_S) where Δ_R and Δ_S are the gaps at which each type switches, the winner need not be the better technology, and once it has locked in no small change in returns alters later choices; with diminishing returns the barriers reflect and the shares go predictably to one half
 
@@ -128,3 +129,11 @@ fair walk on a finite interval is absorbed.
   symmetric state breaks. After lock-in a small tilt does nothing, as in
   [CASE-112](../cases.d/CASE-112.md)'s hysteresis in h.
 - **[THEORY-429](THEORY-429.md).** North carries increasing returns to institutions.
+
+## Note of 2026-11-22: Yang, read
+
+A contrast with "lottery". Yang's "feature lottery" ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md))
+is not lock-in by increasing returns: the direction each atom takes is
+chosen by "initialization noise and the cubic terms" on a shared,
+degenerate unstable subspace, and then persists by slow angular
+diffusion for a finite window (Prop. 2). Nothing compounds. No edge.

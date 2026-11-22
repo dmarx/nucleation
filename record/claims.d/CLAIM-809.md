@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpask80
 title: 'Nearness to a dynamical transition changes what a system computes well rather than raising every computational ability: memory and separation, sensitivity, reliability and speed pull apart, total capacity is bounded by the number of independent state variables, and the best distance from the transition depends on the task, the integration window and the correlations of the environment'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-22'
@@ -17,6 +17,18 @@ history:
     the transition as the window grows); a section sets its mechanism
     against CLAIM-814's. The title, the thesis and the status are
     unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    Revised in place after the reading of Bertschinger and Natschläger's
+    NIPS companion (LIT-tmpdsowv, Natschläger, Bertschinger & Legenstein
+    2004, NOTE-tmpi5t3r) in place of the unreachable LIT-2991 (now
+    Unavailable), with a passage of Calvet, Reulet & Rouat (LIT-tmpahs2x,
+    NOTE-tmpt3dxa). THEORY-tmps8t83 and LIT-tmpahs2x join the grounds
+    (ARG-tmp2zz6k, ARG-tmps7n0g). Strand 1 now cites what was read; the
+    "Misattribution" bullet names the companion paper, whose authors are
+    the three A named; the section on mechanisms now holds three cases.
+    The title, the thesis and the status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,6 +54,8 @@ answers:
 - QUESTION-507
 grounds:
 - THEORY-tmpye6xs
+- THEORY-tmps8t83
+- LIT-tmpahs2x
 - LIT-2991
 - THEORY-2041
 - THEORY-1431
@@ -56,7 +70,9 @@ summary: >-
   only if the environment has correlations across scales, and large
   cascades help only if they keep inputs distinguishable. Dambre and
   colleagues' paper was read on 2026-11-21 and the finite-window study on
-  2026-11-22 (see the dated notes); the edge-of-chaos paper is unread. A's illustrative mechanism, a memory–noise tradeoff in a scalar
+  2026-11-22 (see the dated notes); the edge-of-chaos paper could not be
+  reached, and its NIPS companion (LIT-tmpdsowv) was read in its place on
+  2026-11-22. A's illustrative mechanism, a memory–noise tradeoff in a scalar
   linear model, does not hold as stated ([CLAIM-814](CLAIM-814.md)), though the
   conclusion survives. The wording is A's (the other assistant in the
   exchange "Rich Get Richer Power Laws", A15); adopting it is the owner's
@@ -68,10 +84,12 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-814 ARG-148 — filed with this claim from the same exchange, Open or Proposed -->
-<!-- inactive-ok-file: LIT-2991 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: LIT-2991 until 2027-05-22 — Unavailable since 2026-11-22, registered 2026-11-21 from the exchange; read through its companion -->
+<!-- inactive-ok-file: THEORY-tmps8t83 ARG-tmp2zz6k ARG-tmps7n0g — Proposed or new; the companion's reading, the supplement and their arguments, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpye6xs ARG-tmp5sgtm LIT-tmpfn6b8 — Proposed, Deferred or new; the finite-window reading, its argument and the work it names, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2158 ARG-128 — Proposed; the reading of Dambre and colleagues and its argument, 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-769 CLAIM-626 — Proposed, bearing on the claim -->
+<!-- inactive-ok-file: NOTE-tmpt3dxa — Skimmed; the passage of Calvet, Reulet and Rouat read 2026-11-22 -->
 
 # CLAIM-809: Nearness to a dynamical transition changes what a system computes well rather than raising every computational ability: memory and separation, sensitivity, reliability and speed pull apart, total capacity is bounded by the number of independent state variables, and the best distance from the transition depends on the task, the integration window and the correlations of the environment
 
@@ -85,7 +103,10 @@ A15 gives five strands, each A's unless a work is named.
    Different input histories produce sufficiently distinguishable internal
    states" (A15 §3). An ordered network forgets; a chaotic one separates
    but cannot be read reliably; near the transition both can hold, the
-   edge-of-chaos result ([LIT-2991](../literature.d/LIT-2991.md), unread).
+   edge-of-chaos result ([LIT-2991](../literature.d/LIT-2991.md), Unavailable; read through its NIPS
+   companion, [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)). There, order is fading memory, and chaos
+   fails because the state "contains “spurious” information about the
+   initial conditions", not because of readout noise.
 2. **A bound on capacity.** "Dambre and colleagues showed that, under
    specified conditions, a reservoir's total information-processing
    capacity is bounded by its number of independent state variables.
@@ -138,10 +159,16 @@ criticality depends on what the system needs to accomplish.**"
   at the edge of linear stability, which A rightly says "resembles
   critical slowing down"; it is not a collective transition. [CLAIM-626](CLAIM-626.md)
   holds that slowing has no single organizational meaning.
-- **Misattribution.** A15 §3 names "Bertschinger, Natschläger, and
-  Legenstein" for the 2004 study. The 2004 Neural Computation paper is by
-  Bertschinger and Natschläger ([LIT-2991](../literature.d/LIT-2991.md)); Legenstein is an author of
-  a separate paper with Maass (2007), not registered.
+- **Misattribution, a conflation.** A15 §3 names "Bertschinger,
+  Natschläger, and Legenstein" for the 2004 study. The 2004 Neural
+  Computation paper is by Bertschinger and Natschläger ([LIT-2991](../literature.d/LIT-2991.md)). The
+  three A names wrote its NIPS 2004 companion, "At the Edge of Chaos:
+  Real-time Computations and Self-Organized Criticality in Recurrent
+  Neural Networks" ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md); the title page orders them Natschläger,
+  Bertschinger, Legenstein), which generalizes the journal paper's model
+  and restates its headline. A ran the two 2004 papers together.
+  Legenstein is also an author of a separate paper with Maass (2007), not
+  registered. Corrected 2026-11-22 (version 3).
 - **Two transitions.** A runs the order-to-chaos transition and branching
   criticality together ([QUESTION-507](../questions.d/QUESTION-507.md), point 1).
 - **Power-law memory's range.** The Γ(α) integral converges for α > 0,
@@ -149,10 +176,11 @@ criticality depends on what the system needs to accomplish.**"
   1/λ_max ≪ t ≪ 1/λ_min; the long-time end, where memory matters, is set
   by the slowest rates. A says only "an intermediate range of times".
 
-## Two mechanisms, opposite directions
+## Three cases, three outcomes
 
-The record now holds two analysed cases, and they move the optimum in
-opposite directions. In [CLAIM-814](CLAIM-814.md)'s scalar reservoir, input and state
+The record now holds three analysed cases (the third added 2026-11-22,
+version 3), and they put the optimum in three places. The first two move
+it in opposite directions. In [CLAIM-814](CLAIM-814.md)'s scalar reservoir, input and state
 noise pass through one filter, so the gain trades nothing against state
 noise; noise added at the readout, after the filter, makes capacity rise
 monotonically toward the transition (a = 1), and [ARG-148](../arguments.d/ARG-148.md) reads the case
@@ -164,8 +192,17 @@ pushed away from the transition, less as T grows. Readout noise favours
 the transition there; unaveraged, critically slowed internal fluctuations
 disfavour it here. Both fit the thesis, that the best distance depends on
 the task and the readout, and neither alone says which way a given system
-goes. Added 2026-11-22 (version 2); the wording is the assistant's
-(Claude, in this session).
+goes. The third case is the edge of chaos itself: in Natschläger,
+Bertschinger and Legenstein's driven threshold networks ([THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)),
+a linear readout does best near the order–chaos line, averaged over many
+nonlinear tasks of recent inputs; the paper reports no per-task optima.
+So readout noise toward the transition ([CLAIM-814](CLAIM-814.md)), subcritical for every
+finite window (Azizpour), and near the order–chaos line on average
+(Bertschinger and colleagues), with Calvet, Reulet and Rouat
+([LIT-tmpahs2x](../literature.d/LIT-tmpahs2x.md)) finding the alignment with the critical region dependent
+on the sign of the excitatory–inhibitory balance. Added 2026-11-22
+(versions 2 and 3); the wording is the assistant's (Claude, in this
+session).
 
 ## What it does not say
 
@@ -240,3 +277,35 @@ stability is not criticality", whose marginal stability is a scalar map
 at a → 1; theirs is a spatial percolation threshold of many marginally
 stable sites, a collective state. The two senses should not be run
 together. No edge. Status unchanged.
+
+## Note of 2026-11-22: Bertschinger and Natschläger, sought; Natschläger, Bertschinger and Legenstein, and Calvet, Reulet and Rouat, read
+
+Bertschinger and Natschläger's Neural Computation paper ([LIT-2991](../literature.d/LIT-2991.md)) could
+not be reached and is now Unavailable; its abstract was read. Its NIPS
+2004 companion was read in its place ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md); the
+reading is [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)), and a passage of Calvet, Reulet and Rouat
+([LIT-tmpahs2x](../literature.d/LIT-tmpahs2x.md), [NOTE-tmpt3dxa](../notes.d/NOTE-tmpt3dxa.md)). The revisions are made in place above
+(version 3).
+
+- **Strand 1: supported** ([ARG-tmp2zz6k](../arguments.d/ARG-tmp2zz6k.md)). Order is fading memory; chaos
+  carries "spurious" information about initial conditions, which the
+  paper's NM-separation subtracts.
+- **The headline qualifies the thesis and does not defeat it.** The
+  abstract's "only near the critical boundary can such networks perform
+  complex computations on time series" is the universal reading the claim
+  rejects. But the companion averages over "many different tasks" and
+  warns that a network "specifically designed for a single task will not
+  show a good performance in this setup"; it reports no per-task optima
+  and no total. The defeater asks for every component maximized at the
+  transition for every task, which is not shown.
+- **"The best distance depends": supported, weakly** ([ARG-tmps7n0g](../arguments.d/ARG-tmps7n0g.md)).
+  Calvet and colleagues find "the edge of chaos, or the critical region,
+  does not consistently align with the peak performance region",
+  depending on the sign of the excitatory–inhibitory balance, and present
+  this as refining the 2004 result.
+- **The attribution** is corrected in place: A's three authors are the
+  companion's.
+- **Silent** on strands 2 to 5.
+
+[THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md) and [LIT-tmpahs2x](../literature.d/LIT-tmpahs2x.md) join the grounds; [LIT-2991](../literature.d/LIT-2991.md) stays there
+as the work the strand names. Status unchanged.

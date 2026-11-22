@@ -33,6 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpcij35 THEORY-tmpthmd7 CLAIM-799 — Proposed or new; the readings of 2026-11-22 that use the term, and the claim they qualify -->
 <!-- inactive-ok-file: TERM-138 CLAIM-832 — Proposed or new; the senses this term separates and the claim that uses it -->
+<!-- inactive-ok-file: LIT-tmp9isrs — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # TERM-tmpf5ymd: bulk, in two senses that come apart: by count, the many members or directions that make up most of a population or spectrum, and by weight, the few that carry most of its mass, density or activity; in a skewed distribution or spectrum the two sit at opposite ends
 
@@ -68,3 +69,21 @@ The distinction is the owner's; The wording is the assistant's (Claude, in this 
   bulk by count, the "random spectral bulk" from which "isolated
   eigenvalues detach", with the informative content in one outlier. No new
   sense.
+
+## Note of 2026-11-22: Wang, Wu and Fan, and Yang, Steinhardt and Hu, read
+
+- **Wang, Wu and Fan** ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md)): an instance of the bulk
+  by count, no new sense: spikes that fail a layer's test "are absorbed
+  into the bulk spectrum", and the outliers, few and largest, are the bulk
+  by weight and here carry the signal. One addition worth a line: the
+  paper names "uninformative spike eigenvalues" (after Benigni and Péché,
+  [LIT-tmp9isrs](../literature.d/LIT-tmp9isrs.md)), outliers that would be the bulk by weight and carry no
+  input structure, and assumes them away. So "the bulk by weight carries
+  the signal" is a property of a setting, not of the sense.
+- **Yang, Steinhardt and Hu** ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md)): background only.
+  The paper uses no spectral language. Read in this term's senses, the
+  fine-class information sits in "the small amount of remaining
+  variation", outside the variance-dominant directions, which are the
+  coarse class means.
+
+Background, so no relation.

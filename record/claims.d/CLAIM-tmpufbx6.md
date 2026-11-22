@@ -43,6 +43,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp2r6ur THEORY-tmpwtoad CLAIM-tmp9atj9 ARG-tmptvp76 ARG-tmpabk16 — Proposed or new; the owner's claim this rivals, its grounds, the other alternative and the test -->
+<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-tmpufbx6: An alternative to the floor and band of the owner's truncated-band account: the fine end of a learned spectrum may be damped for smoothness and generalization, with discrimination growing steadily toward it, and the floor a measurement finds below it may be estimator noise rather than a class of low-signal outliers bounding a band of highly discriminating directions
 
@@ -83,3 +84,14 @@ edge. Not evidence about unembeddings: the source is mouse V1 and a kernel
 argument ([ARG-tmptvp76](../arguments.d/ARG-tmptvp76.md)).
 
 The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **a weak
+parallel.** Whether a spike shows as an outlier depends on the aspect
+ratios n/dℓ: wider layers keep alignment over more layers (Fig. 2(a)) and
+the trained kernel's alignment rises with the sample size (Fig. 3(b)). So
+where a spectrum's resolvable part ends moves with sample and width, as
+this alternative says of a measured floor. But the paper is about top
+outliers, not the bottom of a spectrum, so it does not reach the band. A
+note, no relation.

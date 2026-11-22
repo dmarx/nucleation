@@ -26,6 +26,7 @@ summary: >-
   the coefficient's decreases are unexplained; the estimator is run at one
   fixed nβ and γ per setting.
 ---
+<!-- inactive-ok-file: THEORY-tmpm3ux2 LIT-tmpnwcsg — Proposed or Deferred; the reading of Lee et al. filed 2026-11-22, and Carroll et al., registered from it and unread -->
 
 # THEORY-tmpr9w2r: Hoogland and colleagues find that in a two-layer attention-only language transformer of about 3.4 million parameters and a two-layer in-context linear-regression transformer of about 52 thousand, plateaus in SGLD estimates of the local learning coefficient over log training time divide training into five stages, four or five of which recur in each of five seeds, and most stages coincide with independently measured changes in behaviour or structure; the estimate rises in most stages and falls in three
 
@@ -62,3 +63,15 @@ settings.
 - Not robust to the estimator's settings: nβ (21.7 or 66.7, not
   n/log n) and γ are fixed per setting, and no division under other values
   is reported.
+
+## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
+
+A parallel that extends the method. Lee et al. ([THEORY-tmpm3ux2](THEORY-tmpm3ux2.md)), from
+the same group, use the same localized SGLD at checkpoints, swapping the
+LLC for a per-sample covariance, and match their language-model stages
+to the same structures, induction heads among them. They cite this
+work's TMLR version, with Carroll et al. 2025 ([LIT-tmpnwcsg](../literature.d/LIT-tmpnwcsg.md)), for
+Type-A and Type-B Bayesian transitions, the second an equal-loss
+transition with a falling LLC, which is a name for the decreases this
+reading reports ([QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md)). Neither supports nor contradicts the
+reading's sentence.

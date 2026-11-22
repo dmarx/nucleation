@@ -101,6 +101,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
+<!-- inactive-ok-file: THEORY-tmpdfeto NOTE-tmpcjw5n — Proposed or Skimmed; the reading of Toner and Tu (1998), 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-755 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
@@ -529,3 +530,16 @@ point here, that criticality is not the maximum of complexity, is
 [CLAIM-805](CLAIM-805.md). A17 §5's companion point, that at
 criticality a system becomes harder to separate into levels and easier to
 classify, is [CLAIM-826](CLAIM-826.md). No status change.
+
+## Note of 2026-11-22: Toner and Tu (1998), read
+
+The long paper ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md))
+**supports the claim's first half for a flock, as the 1995 letter did**
+([NOTE-1228](../notes.d/NOTE-1228.md)): the speed fluctuation is slaved to the density gradient,
+δv∥ = −Dρ∂∥δρ, by neglecting ∂tδv∥ "relative to αδv∥" (eqs. 3.1–3.2,
+p. 19), so the fast variable settles into a relation that constrains the
+slow ones. It adds the authors' own word for the slow transverse modes,
+"Goldstone modes" (abstract), which mix with the conserved density to
+make sound: the claim's "organization can make new rate differences",
+by symmetry breaking. [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) `corroborates` the claim. No status
+change.

@@ -51,6 +51,7 @@ summary: >-
   (the other assistant in the exchange "Rich Get Richer Power Laws", A1
   and A3); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpo3w5v THEORY-tmpmoyol — Proposed or new; readings of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 ARG-tmps95tv ARG-tmpmt4gj CLAIM-817 CLAIM-806 — Proposed; the readings of 2026-11-22, their arguments, and neighbouring claims -->
 <!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; registered and unread -->
 <!-- inactive-ok-file: CLAIM-824 CLAIM-830 THEORY-777 THEORY-789 THEORY-2150 ARG-141 CLAIM-795 — Proposed or new; claims and the lead filed with this one, and held readings cited as neighbours -->
@@ -256,3 +257,24 @@ notes hold the detail, and no edge is written here.
   argument that growth and preferential attachment are necessary and
   sufficient for a scale-free network is a **contrast**, a mechanism
   claimed from the distribution's shape.
+
+## Note of 2026-11-22: Kardar, Parisi and Zhang, and Takeuchi and Sano, read
+
+Two readings of 2026-11-22 **support the claim**, one as evidence and one
+as a parallel.
+
+- **Evidence: a shared exponent, different classes.** In one dimension the
+  KPZ interface has the same static roughness exponent as the linear
+  ("ideal") interface, χ = ½, and strip simulations had read the one as
+  the other, "a result of a peculiarity of one-dimensional interfaces";
+  only the dynamics, z = 3/2 against 2, tell the classes apart (Kardar,
+  Parisi and Zhang, [LIT-2978](../literature.d/LIT-2978.md), [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md), p. 891). That is this claim's
+  "a shared power law does not show a shared … universality class", and
+  its "read from the dynamics". [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md) `corroborates` the claim.
+- **Parallel: the class identified beyond the exponents.** Takeuchi and
+  Sano ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md); [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)) go "beyond the scaling
+  laws" (p. 1): the class is fixed by the whole fluctuation distribution
+  and the correlation, and the distribution splits curved from flat
+  fronts (GUE from GOE), which share the exponents. No edge: the two are
+  sub-classes of one universality class, so it is a parallel, not a case
+  of two mechanisms.

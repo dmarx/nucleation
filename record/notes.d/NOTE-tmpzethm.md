@@ -31,7 +31,7 @@ summary: >-
   top principal components only in the large-step regime, which converges
   to a worse minimum.
 ---
-<!-- inactive-ok-file: THEORY-tmphbp5a CLAIM-799 ARG-tmps8aog CLAIM-tmp2r6ur CLAIM-tmp9atj9 ARG-tmpun4nl TERM-tmpf5ymd CLAIM-804 CLAIM-827 CLAIM-837 CLAIM-832 THEORY-108 THEORY-tmpthmd7 LIT-2984 LIT-tmph5ano LIT-tmp810d2 — Proposed, Deferred or new; the account this reading files, the entries it bears on and the works registered from it -->
+<!-- inactive-ok-file: THEORY-tmphbp5a CLAIM-799 ARG-tmps8aog CLAIM-tmp2r6ur CLAIM-tmp9atj9 ARG-tmpun4nl TERM-tmpf5ymd CLAIM-804 CLAIM-827 CLAIM-837 CLAIM-832 THEORY-108 THEORY-tmpthmd7 LIT-tmph5ano LIT-tmp810d2 — Proposed, Deferred or new; the account this reading files, the entries it bears on and the works registered from it -->
 
 # NOTE-tmpzethm: Park, Bocchi, D'Amico, Lucini & Aarts — Spectral phase transitions and trainability in neural network learning dynamics
 

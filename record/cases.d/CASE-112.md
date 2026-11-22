@@ -48,6 +48,7 @@ summary: >-
 draws_on:
 - THEORY-029
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-029 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-465 CLAIM-545 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
@@ -167,3 +168,11 @@ No status changes.
 
 ## Note of 2026-11-19: Wang and Slotine, read
 A parallel from Wang and Slotine ([NOTE-2096](../notes.d/NOTE-2096.md)): which of two collective patterns a coupled pair settles into can be set by the sign of the coupling (§3.3), not only by a tilt between basins.
+
+## Note of 2026-11-22: Yang, read
+
+A parallel. To make its pitchfork escape at all, Yang ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md),
+App. C) adds to the normal form a tilt −γU′(ε) "from the encoder's
+upstream loss component that favors the memorization basin", the h of
+this case, and finds escape times that grow without bound as the tilt's
+weight decay goes to zero. No edge.

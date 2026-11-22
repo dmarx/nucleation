@@ -58,6 +58,7 @@ Anything for ReLU or other unbounded activations, convolutional or residual arch
 
 ## Note of 2026-11-19: Poole and colleagues, read
 <!-- inactive-ok-file: THEORY-2031 — Proposed; cited from the readings of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmps8t83 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 
 The direct ancestor, read ([THEORY-2031](THEORY-2031.md); [NOTE-2099](../notes.d/NOTE-2099.md)). Poole and colleagues derive the length and correlation maps, χ1 and the phase diagram this account rests on, and already note that "correlations typically take about 20 layers to approach the fixed point, while lengths need only 4" (§3), anticipating the two depth scales. They have no gradients, depth scales or trainability, and their emphasis is on the chaotic phase, not on criticality.
 
@@ -80,3 +81,14 @@ the side on which a finite-time optimum lies depends on "the type of
 phase transition", citing for the chaos transition Toyoizumi and Abbott
 ([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered, Deferred), where the supercritical side helps.
 It does not bear on the depth scales shown here. No relation is written.
+
+## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
+
+**A parallel** ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md), [THEORY-tmps8t83](THEORY-tmps8t83.md)). The same
+Derrida-style annealed mean field of two trajectories, following Derrida
+and Pomeau, gives the order-to-chaos line of driven recurrent threshold
+networks, K·P_bf = 1, as this reading gives it for wide random
+feedforward networks; there the input is injected at every step and the
+states are binary. The companion ties the line to readout performance on
+time series, which this reading's depth scales do not address. No
+relation is written.

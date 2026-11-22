@@ -52,6 +52,7 @@ bears_on:
 - QUESTION-223
 ---
 <!-- inactive-ok-file: THEORY-497 — Proposed; cited for what each measure or account computes, not as settled -->
+<!-- inactive-ok-file: THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-343: For three or more parts, no ΦID can use a redundancy function that both satisfies the identity axiom and yields nonnegative atoms, because on the Williams–Beer lattice the two are inconsistent from three sources up; a ΦID verdict on three or more parts therefore rests on which axiom the analyst drops, and should name it
 
@@ -99,3 +100,17 @@ studies that chose differently.
   what one off the Williams–Beer lattice would look like.
 - **That negative atoms are meaningless.** Ince reads them as mechanistic
   redundancy. The claim is only that some axiom has to give.
+
+## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
+
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **leaves it open,
+a contrast.** SURD gets nonnegative components by not using the
+Williams–Beer lattice, with 2^N terms (512 for nine variables against
+"over 10^23" on the lattice, SI §S1.2). Its redundancy, taken per target
+state from the sorted singleton specific informations, has the shape of
+Williams and Beer's I_min; that is this filing's reading of SI step 3, and
+the paper names neither I_min nor the identity axiom. If the reading holds,
+SURD gives up the identity axiom, which is this claim's "name the axiom"
+point, but the paper does not say which axiom it drops: its redundancy is
+"motivated by their consistency with the properties presented ... along
+with the ease of interpretability". No relation.

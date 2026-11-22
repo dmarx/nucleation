@@ -57,6 +57,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-847 TERM-136 CLAIM-822 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-tmpwtoad ARG-tmpbad4y — Proposed or new; the reading of Stringer and colleagues and the argument for its support, 2026-11-22 -->
 <!-- inactive-ok-file: ARG-130 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-848: A rank power-law spectrum with exponent just above 1, at the limit that Stringer's smoothness bound, α > 1 + 2/m on the tail of a smooth code of an m-dimensional stimulus manifold, allows, bounds the participation ratio as width grows, but the bound is approached only at widths exponential in m, so at realistic widths such a code has a participation ratio of about 13 to 29 for m from 10 to 100, and neither the participation ratio nor its growth with width tracks intrinsic dimension or separates the regimes either side of α = 1
 
@@ -167,3 +168,17 @@ form** ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)):
   rapid increase in total variance when α becomes close to 1", a
   discontinuous "phase transition" only as N → ∞. This claim extends it
   from tr Σ to D_PR.
+
+## Note of 2026-11-22: Ansuini and colleagues, read
+
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **a parallel;
+supports the claim's last clause and runs the other way.** This claim has
+the participation ratio failing to track intrinsic dimension from below:
+smooth codes of m = 20 to 100 all give D_PR near 20 to 29 at width 768.
+Ansuini and colleagues find the same decoupling in trained CNNs from above:
+a 90%-variance PCA count "≈ 200" against a TwoNN intrinsic dimension near
+18 in VGG-16's last hidden layer, and a linear count that does not tell
+trained from random networks apart. So a linear count can sit above m
+(curved low-dimensional manifolds) or below it (smooth high-m codes). The
+paper computes no participation ratio, so it neither tests this claim's
+numbers nor contradicts them. A parallel, so no relation.

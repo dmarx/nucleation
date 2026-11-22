@@ -29,6 +29,8 @@ summary: >-
   the flock's centre of mass to each boid. Seth says the measures are
   relative to the predictor and the variables included.
 ---
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: TERM-tmpaztqn — Proposed; the term filed from the reading of Shalizi and Moore, 2026-11-22 -->
 
 # NOTE-935: Seth — Measuring autonomy and emergence via Granger causality
 
@@ -198,3 +200,11 @@ still helps.
   to ΦID's causal decoupling ([NOTE-010](NOTE-010.md)) on the same system?
 - G-autonomy against autonomy as organizational closure (Seth's own,
   §5.1).
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+Connections name "Shalizi and Moore's predictive efficiency" as a rival
+operationalization of emergence. That work is now read ([LIT-2996](../literature.d/LIT-2996.md),
+[NOTE-tmpunt6q](NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)), and its definition, a coarse-graining
+predicted more efficiently by E/Cµ, is held as [TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md), set there
+against Granger emergence. A parallel, no edge.

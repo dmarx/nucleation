@@ -37,6 +37,8 @@ summary: >-
   measuring instrument, as the paper's own logistic-map example shows.
 ---
 <!-- inactive-ok-file: THEORY-157 THEORY-257 — Proposed; readings this note connects to, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: TERM-tmpaztqn — Proposed; the term filed from the reading of Shalizi and Moore, 2026-11-22 -->
 # NOTE-978: Crutchfield and Shalizi — Thermodynamic depth of causal states
 
 ## Contribution
@@ -272,3 +274,11 @@ No instruction for machine-learning practice; nothing for the anthology.
   partition is refined, from non-generating to generating? The paper shows
   two points of that path. The question is [QUESTION-220](../questions.d/QUESTION-220.md)'s, asked of
   the instrument rather than the encoder.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+The bearing above names Shalizi and Moore's causal states as a neighbour.
+That work is now read ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). Its
+argon numbers give macrostate predictive efficiency 0.87 against 0.5 for
+the microstate ([TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md)); its macrostates are the observed
+process's ε-machine, conditioned on the macro past, as said above.

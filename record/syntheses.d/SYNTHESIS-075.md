@@ -53,6 +53,7 @@ integrates:
 <!-- inactive-ok-file: QUESTION-324 QUESTION-288 QUESTION-289 QUESTION-248 — Answered; a component and the questions members answer, cited as answered -->
 <!-- inactive-ok-file: THEORY-787 — Rejected; the account the causal members replace, cited as rejected -->
 <!-- inactive-ok-file: SYNTHESIS-073 SYNTHESIS-088 — Proposed; cited with its standing -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
 # SYNTHESIS-075: An effective description is adequate only relative to a declared regime: sufficiency holds for a target, a model and a family of decisions and can lapse when they change, equivalence under probes or feasible tests is coarser than identity and is evidence of shared structure only to the degree the probes were chosen independently of the comparison, and a coarse-graining keeps a judgment exactly when the judgment is constant on its fibres; the conditions asked of such a description are of different kinds, and which can fail while the others hold is open; in linear Gaussian dynamics memory is a functional of the coarse variable's own law and cannot register the dependence that coupling into it bounds; and a system's causes are at the coarsest description whose interventions are unambiguous, never at one that carries more causal information than the micro
 
@@ -488,3 +489,12 @@ step 5 at this review and not filed:
 - That a macro adds causal information ([CLAIM-497](../claims.d/CLAIM-497.md)), or anything about
   temporal macros ([QUESTION-335](../questions.d/QUESTION-335.md)).
 - Anything with standing of its own.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+**Supports the account's opening clause** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md),
+[THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)): an effective description adequate only for a declared
+target. Shalizi and Moore's macrostates are the causal states of chosen
+observables, and their levels "coexist, because they are intended to
+answer different questions" (§IV.B). It corroborates [CLAIM-152](../claims.d/CLAIM-152.md), one of
+the components. No change to the map is suggested.

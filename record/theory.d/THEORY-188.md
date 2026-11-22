@@ -45,6 +45,7 @@ summary: >-
   not show that any real network is hyperbolic, or that hierarchy causes
   heterogeneity.
 ---
+<!-- inactive-ok-file: THEORY-tmpe9367 — Proposed; the reading of Bui et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-817 — Proposed; the claim whose aside the note of 2026-11-22 sets against the chapter -->
 <!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; registered and unread -->
@@ -177,3 +178,11 @@ produced, so neither refutes the other. Whether the static hyperbolic
 model of this account, which has no growth, generates an effective linear
 attachment is not settled by the chapter, which cites the growing
 popularity-similarity model. No edge.
+
+## Note of 2026-11-22: Bui and colleagues, read
+
+No bearing beyond the shared geometry. Bui et al. ([THEORY-tmpe9367](THEORY-tmpe9367.md)) use
+the Lorentz model for embeddings whose radius is read as certainty; the
+random-graph account here uses the hyperbolic disk to generate degree
+distributions and clustering. Recorded so the reading's check of this
+entry is on file.

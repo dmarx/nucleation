@@ -27,6 +27,7 @@ summary: >-
   within σ² ≲ λ of the training set. N/n → ∞ recovers Gaussian kernel
   regression. Theory matches MNIST, Fashion- and Kannada-MNIST.
 ---
+<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 <!-- inactive-ok-file: THEORY-080 — Proposed; named for its use of the effective number of parameters, with no relation claimed -->
 
@@ -188,3 +189,10 @@ nothing regularizes it.
 ## Corrections
 
 - none (there was no seed)
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): this reading names a deep extension "through Fan and Wang's
+conjugate-kernel spectra"; Wang, Wu and Fan extend that setup (they cite
+Fan and Wang 2020 for deeper networks) to spiked inputs and their outliers.
+Fan and Wang 2020 is not registered. Background, no relation.

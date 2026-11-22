@@ -17,6 +17,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmpr9w2r CLAIM-834 CLAIM-823 CLAIM-802 CLAIM-812 — Proposed or new; the reading that raised the question and the claims it bears on -->
+<!-- inactive-ok-file: THEORY-tmpm3ux2 THEORY-tmpu0f9k LIT-tmpnwcsg — Proposed or Deferred; the readings of Lee et al. and of Yang filed 2026-11-22, and Carroll et al., registered from the first and unread -->
 
 # QUESTION-tmphkb1w: What do decreases of the local learning coefficient during training correspond to, in the model's structure and in the singular-learning account of stages?
 
@@ -61,3 +62,30 @@ to create the degeneracy (by computing the coefficient of the collapsed
 configuration, or by an intervention that removes the collapse and the
 decrease together), with the decrease surviving a variation of nβ and γ
 ([LEAD-207](../leads.d/LEAD-207.md)).
+
+## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
+
+Adds a name and two sources to the first candidate; leaves the question
+open. Lee et al.'s Appendix A.2 ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md), [NOTE-tmp1sot8](../notes.d/NOTE-tmp1sot8.md)): "if
+the two phases agree on the linear term (they have the same minimum
+loss), then the trade-off will be pushed down into lower-order terms,
+and there can be a 'Type-B' transition, in which complexity (as measured
+by the LLC) decreases, in exchange for an increase in lower-order
+terms." That is the candidate "more degeneracy at equal loss", with one
+difference: the paper puts the trade against the lower-order terms of
+the free energy (log log n and beyond), since within nL + λ log n alone
+the lower-λ phase wins at every n when the losses are equal, and a
+transition in n needs a lower-order term pulling the other way. It cites Carroll, Hoogland,
+Farrugia-Roberts and Murfet 2025 ([LIT-tmpnwcsg](../literature.d/LIT-tmpnwcsg.md), registered from this
+reading and unread) and Hoogland et al. 2025, the TMLR version of the
+work that raised this question ([LIT-2966](../literature.d/LIT-2966.md)). The paper measures no LLC
+over training, so it explains no observed decrease. Carroll et al. is
+the next reading for this candidate.
+
+## Note of 2026-11-22: Yang, read
+
+Leaves it open. Yang's probe pitchfork ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)) says nothing of
+learning coefficients. Its reverse traversal, which merges the branches
+back as β falls, ends in a nondegenerate minimum, so it offers no route
+to a decrease; its collapse diagnostics are representational collapse
+in DINO, not the layer-norm collapse of the second candidate. No edge.

@@ -37,6 +37,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-775 CLAIM-478 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
+<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-813: Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces
 
@@ -75,3 +76,11 @@ width. A bearing of use; nothing here tests the reading.
 Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)): **a
 parallel.** Learned structure appears only off the kernel regime: after a
 maximal-update step, not in random features. No relation.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **a parallel.**
+Both concern the data's role in collapse. Yang and colleagues are the
+feature-learning side: the residual variation is structured by the input,
+against the unconstrained-feature model, which "completely ignores the role
+of the input data". No kernel-regime comparison. A note, no relation.

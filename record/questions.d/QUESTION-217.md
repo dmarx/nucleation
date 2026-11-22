@@ -76,6 +76,7 @@ refines:
 <!-- inactive-ok-file: THEORY-186 THEORY-199 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-800 THEORY-1558 — new or Proposed; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, and a reading named for comparison -->
 <!-- inactive-ok-file: THEORY-tmpr9w2r — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 # QUESTION-217: When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?
 
 ## Why it is a question
@@ -250,3 +251,13 @@ code learns coarse features first, "at a speed proportional to the
 eigenvalues" (SI §2.4). It is coarse-to-fine in a fixed code read out by a
 learner, not in a network whose features change, so it leaves the question
 open. No relation.
+
+## Note of 2026-11-22: Yang, Steinhardt and Hu, read
+
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **background,
+leaves it open, with one data point.** The training labels set a relevance
+order (coarse), yet the representation refines by input structure first:
+"The effect of input distribution emerges earlier in training, while the
+effect of labels appears at a later stage." That is a refinement order in
+distances running ahead of the supervised one; no acquisition order by a
+decoder's risk is measured over time. No relation.
