@@ -23,6 +23,7 @@ summary: >-
   top k. A weak instance of a model's rankings of directions disagreeing
   ([CLAIM-835](../claims.d/CLAIM-835.md)), within one metric.
 ---
+<!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-835 TERM-137 THEORY-078 ARG-139 — Proposed or new; the reading this account comes from and the claim it bears on -->
 
 # THEORY-tmpthmd7: Song, Ahn and Yun find that in small-learning-rate SGD on small MLP, CNN and Transformer classifiers the stochastic gradient lies mostly in the span of the training-loss Hessian's top-k eigenvectors, k the number of classes, yet projecting each update onto that span stops the training loss falling while projecting it onto the complement trains as fast as SGD; the alignment comes from gradient noise across a steep valley, or from self-stabilizing oscillation at the Edge of Stability, and vanishes under small-step full-batch gradient descent
@@ -65,3 +66,11 @@ or the alignment survived full-batch descent; none did, in the runs shown.
 sense 3. [THEORY-731](THEORY-731.md) and [THEORY-078](THEORY-078.md) say what spans the dominant subspace.
 [THEORY-082](THEORY-082.md): momentum and Adam raising the bulk step is a change of the
 metric of descent.
+
+## Note of 2026-11-22: Park and colleagues, read
+
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](THEORY-tmphbp5a.md)): **a
+parallel.** Their stationary SGD analysis, Σ = H⁻¹FH⁻¹, puts the largest
+weight fluctuations in the soft, low-curvature Hessian directions (§IV B),
+the directions this account says carry progress. Schematic by the
+authors' word; no relation.

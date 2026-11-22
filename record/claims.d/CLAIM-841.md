@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpsr8r4
 title: 'A power law or a scale-invariant law does not by itself indicate criticality: symmetry, flux, growth, coarsening, geometry and broad relaxation spectra each remove a characteristic scale without a tuned transition'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Edited in place on 2026-11-22 after Broido and Clauset (LIT-2963)
+    was read: the folded-in bullet "Many reported scale-free networks
+    are not" is reworded to what the paper shows, a lack of statistical
+    evidence, and marked as background to the thesis, since the paper
+    never mentions criticality (ARG-tmp38kft). The thesis and status are
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -49,8 +59,10 @@ summary: >-
   wording is A's (the other assistant in the exchange "Rich Get Richer
   Power Laws", A10, A23, A24, A26, A27); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 ARG-tmp38kft — Proposed; the readings of 2026-11-22 and the argument on this claim's network bullet -->
+<!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; the reply disputing Broido and Clauset, registered and unread -->
 <!-- inactive-ok-file: TERM-139 CLAIM-846 — filed with this claim on 2026-11-21 -->
-<!-- inactive-ok-file: LIT-2978 LIT-2982 LIT-2969 LIT-2985 LIT-2970 LIT-2963 LIT-2992 — registered 2026-11-21, Deferred, unread -->
+<!-- inactive-ok-file: LIT-2978 LIT-2982 LIT-2969 LIT-2985 LIT-2970 LIT-2992 — registered 2026-11-21, Deferred, unread -->
 <!-- inactive-ok-file: CLAIM-769 — Proposed; power-law relaxation from a spread of rates -->
 <!-- inactive-ok-file: CLAIM-803 CLAIM-795 — filed from the same exchange on 2026-11-21, Proposed -->
 
@@ -109,9 +121,13 @@ checked numerically in [CLAIM-846](CLAIM-846.md).
   scale-free fluctuations"; and "A symmetry can protect scale-free
   fluctuations, and explicitly breaking that symmetry can introduce a
   characteristic scale" (A27 §6).
-- **Many reported scale-free networks are not** (A10 §6), which A
-  attributes to "rigorous studies", plainly Broido and Clauset
-  ([LIT-2963](../literature.d/LIT-2963.md), unread).
+- **Many networks reported as scale free show little statistical
+  evidence of it** (A10 §6, corrected on 2026-11-22), which A attributes
+  to "rigorous studies", plainly Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md)). A said
+  they "are not"; the paper shows a lack of evidence, many "may in fact
+  be log-normal networks", and its verdict is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)).
+  The paper never mentions criticality, so this bullet is background to
+  the thesis, not a ground of it ([ARG-tmp38kft](../arguments.d/ARG-tmp38kft.md)).
 
 ## What would show criticality instead
 
@@ -157,3 +173,41 @@ distributions.
   a critical point without outside tuning (A24 §4; Bak, Tang and
   Wiesenfeld, [LIT-2992](../literature.d/LIT-2992.md)), and whether a given system takes it is
   [QUESTION-508](../questions.d/QUESTION-508.md).
+
+## Change of 2026-11-22
+
+The bullet "Many reported scale-free networks are not" now reads "Many
+networks reported as scale free show little statistical evidence of it",
+and is marked as background, not a ground ([ARG-tmp38kft](../arguments.d/ARG-tmp38kft.md)). Version 2.
+
+## Note of 2026-11-22: Newman, read
+
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports the distributional half** of the thesis:
+"most experimentally observed power laws are probably not the result of
+phase transitions—a variety of other mechanisms produce power-law
+behaviour as well" (§III.E, p. 12), and tuning "makes the divergence of
+length-scales an unlikely explanation for generic power-law
+distributions" (§IV.E, p. 19). It **leaves open** the routes listed here
+(symmetry, a line of fixed points, KPZ, flux, coarsening), none of which
+is in the review; its own routes (the Yule process, combinations of
+exponentials, inverses, walks, highly optimized tolerance) touch only the
+"cumulative advantage" and "broad relaxation" rows, loosely.
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `corroborates` the claim.
+
+## Note of 2026-11-22: Clauset, Shalizi and Newman, read
+
+A **parallel** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md), [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)). The power law
+with an exponential cutoff is "clearly favored" for fires, flares and
+earthquakes (p. 26), the classic self-organized-criticality cases, and the
+pure power law is "firmly ruled out" for earthquakes (p. 23): the shape
+offered as evidence of criticality often is not a pure power law at all.
+No edge.
+
+## Note of 2026-11-22: Broido and Clauset, read
+
+**No bearing on the thesis; qualifies the folded-in bullet** ([LIT-2963](../literature.d/LIT-2963.md),
+[NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md), [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md); [ARG-tmp38kft](../arguments.d/ARG-tmp38kft.md), Rejected as a route). The
+paper never mentions criticality or any route listed here; it doubts that
+the power law is there at all, before any question of what it indicates.
+It was never in `grounds`, and stays out. Status unchanged.

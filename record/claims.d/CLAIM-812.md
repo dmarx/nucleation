@@ -74,6 +74,8 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-813 CASE-302 CLAIM-825 THEORY-tmpr9w2r — Proposed, new or Deferred; filed with this claim, or works registered from the exchange and not yet read -->
 <!-- inactive-ok-file: ARG-134 THEORY-2155 THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
+<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+
 # CLAIM-812: Sloppiness and singular strata meet in two places and part in one: a sloppy eigenvalue near a stratum measures the squared distance to it, and at a finite sample size a direction too sloppy to resolve contributes to the learning coefficient no more than a flat one; they part in how the coefficient moves with sample size, rising about ½ for each direction resolved in a regular sloppy model toward d/2, and held below d/2 at every size in a singular one
 
 ## The claim
@@ -222,3 +224,15 @@ paper does not test the claim.
 
 Supporting, for the fold-edge half ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)). The manifold boundary approximation follows a geodesic to a boundary of the model manifold where the smallest Fisher eigenvalue goes to zero, and the merging of two terms is among the boundaries it follows. In the sum of exponentials it is the only finite one, the edge where this claim's sloppy eigenvalue goes to zero with the squared distance to the stratum. The method says nothing about the finite-sample half. Filer A reported this bearing (readings batch 2). The note is the assistant's (Claude, in this session).
 
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+A parallel, in Bayesian-prior terms, to the finite-sample half
+([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md), [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)). For the mutual-information-maximizing
+prior, "Along a short dimension (say ≲1 standard deviations) the atoms
+will lie only at the boundaries" (§5.1), and as noise falls dimensions
+"smoothly pass from" the unresolved category to the resolved one: a
+direction too sloppy for the data is treated as a choice among edge
+models, not as a resolved parameter. That is the claim's "counts like a
+flat one at finite n" seen through the prior, not through the learning
+coefficient, and the review does not mention singular learning theory.
+No relation is written.

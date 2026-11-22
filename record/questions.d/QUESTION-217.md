@@ -70,6 +70,7 @@ summary: >-
 refines:
 - QUESTION-039
 ---
+<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -239,3 +240,13 @@ patterns" (§6.2), so the order of acquisition by behaviour and by
 structure can differ; and three stages lower the estimated coefficient,
 simplifications rather than acquisitions ([QUESTION-tmphkb1w](QUESTION-tmphkb1w.md)). Written as
 `bears_on` from the reading. No status change.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
+parallel from neuroscience.** In V1, "Successive PC dimensions encode finer
+stimulus features" (Extended Data Fig. 6), and a linear readout of such a
+code learns coarse features first, "at a speed proportional to the
+eigenvalues" (SI §2.4). It is coarse-to-fine in a fixed code read out by a
+learner, not in a network whose features change, so it leaves the question
+open. No relation.

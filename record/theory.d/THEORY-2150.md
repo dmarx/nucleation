@@ -38,6 +38,8 @@ summary: >-
   Kesten's additive term, and it treats only linear attachment kernels.
   Proposed until the reading is confirmed.
 ---
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: TERM-tmpg1vx2 — Proposed; the term on the name Gibrat -->
 
 # THEORY-2150: Mitzenmacher traces preferential attachment from Yule and Simon to the Web-graph models and Gibrat's multiplicative process to the lognormal, and shows that a lognormal can look straight on a log-log plot and that a lower reflecting barrier or an exponentially distributed observation time turns the multiplicative process's lognormal into a power law
 
@@ -81,3 +83,18 @@ against 2^(−(k−1)); and the stopped-lognormal integral at λ = ½ gives
 - Not that preferential attachment is an age effect. §3 and §7 are kept
   apart.
 - Not a method for telling the two laws apart from data.
+
+## Note of 2026-11-22: Newman; Broido and Clauset, read
+
+**Parallels.** Newman ([LIT-2976](../literature.d/LIT-2976.md), [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md), [THEORY-tmp6jdas](THEORY-tmp6jdas.md)) cites
+this survey as a companion review (his ref. 19). Both have Miller, Yule
+and Simon, and the lognormal against the power law; Newman adds
+percolation, self-organized criticality, highly optimized tolerance,
+coherent noise, inverses and record dynamics; this survey adds
+Mandelbrot's optimization and Reed's double Pareto. Newman reports that
+Simon called the rich-get-richer rule "the Gibrat principle" (p. 18),
+where this survey keeps Gibrat for the multiplicative lineage of the
+lognormal ([TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md)). Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md),
+[THEORY-tmphcnj3](THEORY-tmphcnj3.md)) give the corpus-scale empirical side of the
+lognormal-against-power-law confusion: a lognormal fits at least as well
+as the power law for 88% of degree distributions. No edge.

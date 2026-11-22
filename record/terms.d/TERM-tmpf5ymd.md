@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: "bulk, in two senses that come apart: by count, the many members or directions that make up most of a population or spectrum, and by weight, the few that carry most of its mass, density or activity; in a skewed distribution or spectrum the two sit at opposite ends"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    After the readings of LIT-2983 (NOTE-tmpdac0o) and LIT-2990
+    (NOTE-tmpzethm): Dandi and colleagues' learned-feature spectrum added as
+    a worked case in which the two senses split, and in which the bulk by
+    count is itself what learning changes. Definition unchanged.
 tags:
 - probabilistic-modeling
 - representation-learning
@@ -23,6 +31,7 @@ summary: >-
   total in the tail). The term's job is to make an entry say which it
   means. The distinction is the owner's; The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpcij35 THEORY-tmpthmd7 CLAIM-799 — Proposed or new; the readings of 2026-11-22 that use the term, and the claim they qualify -->
 <!-- inactive-ok-file: TERM-138 CLAIM-832 — Proposed or new; the senses this term separates and the claim that uses it -->
 
 # TERM-tmpf5ymd: bulk, in two senses that come apart: by count, the many members or directions that make up most of a population or spectrum, and by weight, the few that carry most of its mass, density or activity; in a skewed distribution or spectrum the two sit at opposite ends
@@ -41,8 +50,21 @@ In any skewed population the two sit at opposite ends.
 - **The 80-20 rule.** In the owner's words, "the *bulk* of the population does not contribute the *bulk* of the activity".
 - **Spectra.** In a spectrum with a few large eigenvalues, the bulk by count is the many small directions and the bulk by weight is the few large ones.
 
+- **A worked case: learned features after one large step** (added 2026-11-22, version 2). In Dandi and colleagues' feature covariance ([THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)), the few outliers of order d, which come from the features' means and carry the largest eigenvalues, are the bulk by weight; the continuous part, which the paper calls "the 'bulk' of the feature covariance", is the bulk by count. And the bulk by count is itself what learning changes: it "is modified from the unspiked RF spectrum ..., displaying in particular a wider support and longer tails". So here the bulk by count is not unlearned noise.
+
 ## Use
 
 An entry that says "bulk" says which sense it means. Song et al.'s finding, read in these terms, is that training progress runs through the bulk by count, the low-curvature majority, and not through the bulk by weight, the dominant directions. The relay that prompted this term had it the other way round, as its devlog note records.
 
 The distinction is the owner's; The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-22: Dandi and colleagues, and Park and colleagues, read
+
+- **Dandi and colleagues** ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md)): a worked case where
+  the senses split, added above. The paper uses "bulk" by count throughout
+  ("a random bulk", Fig. 1's "Bulk spectrum"), in [TERM-138](TERM-138.md)'s sense 3, and
+  its finding that learning reshapes that bulk qualifies [CLAIM-799](../claims.d/CLAIM-799.md).
+- **Park and colleagues** ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md)): an instance of the
+  bulk by count, the "random spectral bulk" from which "isolated
+  eigenvalues detach", with the informative content in one outlier. No new
+  sense.

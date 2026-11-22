@@ -39,6 +39,7 @@ summary: >-
   both layers, *without* a collapse (Fig. 6, Table 2). That undercuts its
   headline claim that α < 2 "invariably" heralds collapse.
 ---
+<!-- inactive-ok-file: THEORY-tmpw4qgu — Proposed; the readings of 2026-11-22 cited in the notes -->
 
 # NOTE-317: Grokking and Generalization Collapse: Insights from HTSR theory
 
@@ -178,3 +179,16 @@ Measure each layer by the tail exponent of its weight-matrix eigenvalue density.
 - The collapse is from ~0.85 to ~0.45–0.5 test accuracy (Fig. 1 caption: "collapses (to 0.5)"), not to chance (0.1). Training accuracy also dips slightly at the very end of Fig. 1, so "training accuracy stays perfect" (abstract) is approximately, not exactly, what the plot shows.
 - Pre-grokking is not a flat, chance-level plateau here. In Figs. 1 and 4 test accuracy climbs from ~0.13 to ~0.4 between 10² and 10⁵ steps, drawn as a straight segment on the log axis, which suggests sparse logging in that interval. §4.1 places the grokking rise "around 10⁴–10⁵ steps", but the Fig. 1 caption and the shading place it after ~10⁵.
 - The setup (1k MNIST, depth-3 width-200 MLP, MSE on one-hot targets, AdamW, Kaiming-uniform init scaled ×8) is exactly the MNIST grokking recipe of Liu, Michaud & Tegmark's *Omnigrok* ([ANTH-LIT-540](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-540.md)), which the paper does not cite. It cites instead Liu et al.'s NeurIPS 2022 "effective theory" paper as [6] for the weight-norm account.
+
+## Note of 2026-11-22: Clauset, Shalizi and Newman, read
+
+**Method source** ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](NOTE-tmphbwdu.md); the reading is
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)). The spectral-tail fit this note describes, MLE with
+λ_min chosen to minimise the KS distance, is that paper's procedure. Its
+warnings bear on the α the note reports: "a large p-value does not
+necessarily mean the power law is the correct distribution for the data"
+(§4.1, p. 17); the lognormal is seldom excluded (p. 26); and small tails
+cannot reject at all (§4.2). An ESD tail α is often fitted on few
+eigenvalues, so a reported α is a fit within the power-law family, not
+evidence that the tail is a power law. No relation written; the note's
+subject is the HTSR reading, not the fit.

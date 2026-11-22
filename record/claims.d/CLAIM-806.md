@@ -44,6 +44,7 @@ summary: >-
 bears_on:
 - QUESTION-505
 ---
+<!-- inactive-ok-file: THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-796 CLAIM-817 CLAIM-830 CASE-303 — Proposed or new; the claim objected to and the claims and case this rests on, filed from the same exchange -->
 <!-- inactive-ok-file: LIT-2974 — Deferred; registered from this exchange and not read -->
 
@@ -95,3 +96,17 @@ difference in how the scale is removed.
 - Not that the two mechanisms share a universality class or exponent.
 - Not an answer to what fixes the exponents ([QUESTION-505](../questions.d/QUESTION-505.md)), though it
   bears on it.
+
+## Note of 2026-11-22: Clauset, Shalizi and Newman, read
+
+Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) **qualifies the claim's empirical use**. The stretched exponential is
+plausible beside the power law for nine of their data sets, and they
+note "the indistinguishability of power laws and stretched exponentials"
+(p. 26). The sublinear-against-linear distinction the claim draws is a
+model distinction that a finite cross-section often cannot make. No edge.
+
+## Note of 2026-11-22: Broido and Clauset, read
+
+Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)): **background**. The Weibull (stretched exponential) is favoured over
+the power law for 47% of network data sets (Table 1), though the paper
+does not tie this to sublinear attachment. No edge. Status unchanged.

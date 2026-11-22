@@ -39,6 +39,8 @@ summary: >-
 bears_on:
 - QUESTION-505
 ---
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: TERM-tmpg1vx2 — Proposed; the term filed on the name Gibrat -->
 <!-- inactive-ok-file: LIT-3005 — Deferred; registered from this exchange and not read -->
 <!-- inactive-ok-file: CLAIM-830 CLAIM-795 CLAIM-803 THEORY-2150 ARG-140 — Proposed or new; claims filed with this one from the same exchange, and the reading and argument of 2026-11-21 -->
 
@@ -140,3 +142,30 @@ So [LIT-3003](../literature.d/LIT-3003.md) leaves this claim's `grounds` and [TH
 `corroborates` it ([ARG-140](../arguments.d/ARG-140.md)). The Kesten half still rests on Kesten
 ([LIT-3005](../literature.d/LIT-3005.md)), unread, and the "What it does not say" caveat on the
 conditions stands. Status unchanged.
+
+## Note of 2026-11-22: Newman, read
+
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports both halves qualitatively**. Products of random numbers
+give a lognormal that can look straight on log scales over orders of
+magnitude, and "random multiplication processes can also generate perfect
+power-law distributions with only a slight modification: if there is a
+lower bound on the value that the product of a set of numbers is allowed
+to take" (§IV.G, p. 24, citing Sornette and Cont, Sornette, and Gabaix).
+It gives no exponent condition (no E[A^κ] = 1). [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)
+`corroborates` the claim. On the name, see [TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md) and the note of
+this date on [CLAIM-830](CLAIM-830.md).
+
+## Note of 2026-11-22: Clauset, Shalizi and Newman, read
+
+Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) **qualifies the claim's empirical reach**. At realistic n the
+lognormal and the power-law tail are "very closely equal" (p. 26) and the
+lognormal is excluded for one data set of 24, so a floor has to be read
+from the dynamics, not from the fitted cross-section; this is [CLAIM-803](CLAIM-803.md)'s
+demand for dynamics. The US-cities row is in the note of this date on
+[QUESTION-506](../questions.d/QUESTION-506.md). No edge.
+
+## Note of 2026-11-22: Broido and Clauset, read
+
+Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)): **a parallel**. Lognormal-like degree tails are common, and the paper
+names neither Gibrat nor multiplicative growth. No edge. Status
+unchanged.

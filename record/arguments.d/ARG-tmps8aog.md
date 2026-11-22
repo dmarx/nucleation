@@ -1,0 +1,63 @@
+---
+status: Proposed
+title: 'Park and colleagues'' solvable teacher–student model, as an existence case, shows that the signal can be in the weights while the weight spectrum has no outlier, so the outlier''s appearance marks spectral visibility and not acquisition, as the separation of qualities says, against the paper''s own reading of the outlier as the emergence of representations'
+version: 1
+form: existence
+grounds:
+- THEORY-tmphbp5a
+concludes:
+- CLAIM-799
+tags:
+- representation-learning
+- learning-theory
+- mathematical-statistics
+date: '2026-11-22'
+line:
+- learned-structure
+summary: >-
+  In Park and colleagues' linear model ([THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md))
+  W(t) = (1−ε)^t W(0) + (1−(1−ε)^t)W*, so the teacher is in the weights from
+  the first step, the student converges for every step size below one, and
+  the outlier appears only at a critical time. That is [CLAIM-799](../claims.d/CLAIM-799.md)'s "the
+  signal existed below the threshold", with the weight matrix as the
+  estimator. The paper reads the outlier as "the emergence of informative
+  representations", the conflation the claim warns against. The wording
+  is the assistant's (Claude, in this session); adopting it is the owner's
+  call.
+---
+<!-- inactive-ok-file: CLAIM-799 THEORY-tmphbp5a CLAIM-837 — Proposed or new; the claim this argues, the reading it uses and a claim it parallels -->
+
+# ARG-tmps8aog: Park and colleagues' solvable teacher–student model, as an existence case, shows that the signal can be in the weights while the weight spectrum has no outlier, so the outlier's appearance marks spectral visibility and not acquisition, as the separation of qualities says, against the paper's own reading of the outlier as the emergence of representations
+
+## The inference
+
+[CLAIM-799](../claims.d/CLAIM-799.md), from A32 §2: the BBP threshold "is not necessarily the moment
+when the network first learns anything. The signal existed below the
+threshold." Park and colleagues' linear model: the weight covariance is
+σ_t²X̂⊥ + θ_t²ŝ_tŝ_tᵀ, the outlier appears at t_c (eq. 39), and "the critical
+time tc is always positive and finite, implying that the optimisation
+always converges to the correct ground state"; gradient descent "is just an
+interpolation between the initial and the target covariance matrices".
+Before t_c the student is already moving toward the teacher and the loss
+already falling.
+
+## Critical questions
+
+- **Is the case coherent?** Yes: it is exact for a linear rank-1 model
+  under full-batch descent, and the paper's own caveat separates the
+  "spectral phase transition" at εc from εo, "an optimisation threshold".
+- **Does it separate the very things the conclusion says can come apart?**
+  It separates acquisition (the weights' component along the teacher,
+  growing from step one) from spectral detectability (an outlier in the
+  weight spectrum). The estimator here is the weight matrix's own spectrum,
+  N rows by D columns, not PCA on probe samples as in [CLAIM-799](../claims.d/CLAIM-799.md)'s
+  construction, so it is a second instance of the same separation with a
+  different estimator, not the same one. [CLAIM-837](../claims.d/CLAIM-837.md) makes the parallel point
+  for sample PCA of a factored-feature model.
+
+## Verdict
+
+Supports [CLAIM-799](../claims.d/CLAIM-799.md) as an independent existence case. It also shows the
+paper's framing, "the emergence of informative representations is then
+realised by isolated eigenvalues detaching", to read the spectral event as
+the learning event, which [CLAIM-799](../claims.d/CLAIM-799.md) holds apart. Proposed.

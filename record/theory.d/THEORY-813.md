@@ -35,6 +35,7 @@ extends:
 answers:
 - QUESTION-192
 ---
+<!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-775 CLAIM-478 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 
 # THEORY-813: Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces
@@ -68,3 +69,9 @@ readout, in the sense of [CLAIM-478](../claims.d/CLAIM-478.md) (version 5). Feat
 reading says alone produces neural collapse, is then what happens when the
 hidden layers are not slower than the readout by a factor that grows with
 width. A bearing of use; nothing here tests the reading.
+
+## Note of 2026-11-22: Dandi and colleagues, read
+
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)): **a
+parallel.** Learned structure appears only off the kernel regime: after a
+maximal-update step, not in random features. No relation.

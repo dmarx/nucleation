@@ -23,6 +23,7 @@ summary: >-
   bulk, and overlap with the input's principal directions and ablation
   importance disagree for several matrix types.
 ---
+<!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: LIT-369 THEORY-078 — Proposed; a neighbour in the random-matrix reading of trained weights, and the bulk-edge convention this account qualifies, named and not leaned on -->
 <!-- inactive-ok-file: LIT-tmpcvxug — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
@@ -116,3 +117,11 @@ singular values "decline smoothly" with no gap below a bulk, so its effect
 does not rest on an outlier mechanism. Acharya, Rimal and Dhakal also cite
 this account's source, and LASER ([LIT-tmpcvxug](../literature.d/LIT-tmpcvxug.md)), which removes small
 singular components to improve a model. No relation written.
+
+## Note of 2026-11-22: Dandi and colleagues, read
+
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)): **a
+contrast.** Against a random-matrix null, one large step reshapes the
+feature covariance's bulk ("a wider support and longer tails") and adds
+outliers from the feature means; the paper says nothing about the bottom
+of the spectrum. No relation.

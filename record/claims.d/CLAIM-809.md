@@ -4,7 +4,19 @@ status: Proposed
 formerly:
 - CLAIM-tmpask80
 title: 'Nearness to a dynamical transition changes what a system computes well rather than raising every computational ability: memory and separation, sensitivity, reliability and speed pull apart, total capacity is bounded by the number of independent state variables, and the best distance from the transition depends on the task, the integration window and the correlations of the environment'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Revised in place after the reading of LIT-2980 (Azizpour, Priesemann,
+    Zierenberg & Levina 2026, NOTE-tmporpz2). Its reading, THEORY-tmpye6xs,
+    replaces the unread LIT in the grounds (ARG-tmp5sgtm). Strand 3 now
+    states what the paper shows and its narrow scope (one branching
+    transition, one task family, the optimum subcritical and approaching
+    the transition as the window grows); a section sets its mechanism
+    against CLAIM-814's. The title, the thesis and the status are
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,7 +41,7 @@ line:
 answers:
 - QUESTION-507
 grounds:
-- LIT-2980
+- THEORY-tmpye6xs
 - LIT-2991
 - THEORY-2041
 - THEORY-1431
@@ -43,8 +55,8 @@ summary: >-
   tradeoff of sensitivity, reliability and speed; scale-free memory helps
   only if the environment has correlations across scales, and large
   cascades help only if they keep inputs distinguishable. Dambre and
-  colleagues' paper was read on 2026-11-21 (see the dated note); the other
-  works are unread. A's illustrative mechanism, a memory–noise tradeoff in a scalar
+  colleagues' paper was read on 2026-11-21 and the finite-window study on
+  2026-11-22 (see the dated notes); the edge-of-chaos paper is unread. A's illustrative mechanism, a memory–noise tradeoff in a scalar
   linear model, does not hold as stated ([CLAIM-814](CLAIM-814.md)), though the
   conclusion survives. The wording is A's (the other assistant in the
   exchange "Rich Get Richer Power Laws", A15); adopting it is the owner's
@@ -55,7 +67,8 @@ bears_on:
 - QUESTION-507
 ---
 <!-- inactive-ok-file: CLAIM-814 ARG-148 — filed with this claim from the same exchange, Open or Proposed -->
-<!-- inactive-ok-file: LIT-2980 LIT-2991 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: LIT-2991 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpye6xs ARG-tmp5sgtm LIT-tmpfn6b8 — Proposed, Deferred or new; the finite-window reading, its argument and the work it names, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2158 ARG-128 — Proposed; the reading of Dambre and colleagues and its argument, 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-769 CLAIM-626 — Proposed, bearing on the claim -->
 
@@ -81,8 +94,19 @@ A15 gives five strands, each A's unless a work is named.
 3. **Sensitivity, reliability, speed.** Near criticality susceptibility,
    fluctuations and relaxation time all grow, so "exactly critical may not
    be exactly optimal" (A15 §6). A finite integration window moves the
-   best discrimination of inputs away from the critical point
-   ([LIT-2980](../literature.d/LIT-2980.md), unread).
+   best discrimination of inputs away from the critical point. Azizpour
+   and colleagues show it for one system ([THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md), read
+   2026-11-22): in a branching network of stochastic spiking neurons with
+   a leaky readout, "every finite integration time will have an optimal
+   0 < λ < 1", the optimum moving "closer to the critical point" as the
+   window T grows, and the dynamic range peaking at a different λ from the
+   count of discriminable inputs. The scope is narrow: one transition
+   (absorbing-to-active branching, not the edge of chaos), one task family
+   (discriminating stationary input rates), and the shift is to the
+   subcritical side and vanishes as T → ∞. The paper states the thesis's
+   last clause itself, for side as well as distance: "On which side of the
+   transition this optimum lies will, however, depend on both the task and
+   the type of phase transition" ([ARG-tmp5sgtm](../arguments.d/ARG-tmp5sgtm.md)).
 4. **The environment sets the value of multiscale memory.** A superposition
    of exponential relaxations with rates spread as λ^(α−1) gives power-law
    memory without criticality (A15 §4; the record's [CLAIM-769](CLAIM-769.md)), but "the
@@ -124,6 +148,24 @@ criticality depends on what the system needs to accomplish.**"
   1/λ_max ≪ t ≪ 1/λ_min; the long-time end, where memory matters, is set
   by the slowest rates. A says only "an intermediate range of times".
 
+## Two mechanisms, opposite directions
+
+The record now holds two analysed cases, and they move the optimum in
+opposite directions. In [CLAIM-814](CLAIM-814.md)'s scalar reservoir, input and state
+noise pass through one filter, so the gain trades nothing against state
+noise; noise added at the readout, after the filter, makes capacity rise
+monotonically toward the transition (a = 1), and [ARG-148](../arguments.d/ARG-148.md) reads the case
+as redistribution, not gain. In Azizpour and colleagues' network
+([THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)), the obstacle is internal: near λ = 1 the population's
+own fluctuations grow relative to the signal and slow down, and a leaky
+readout of finite window T does not average them out, so the optimum is
+pushed away from the transition, less as T grows. Readout noise favours
+the transition there; unaveraged, critically slowed internal fluctuations
+disfavour it here. Both fit the thesis, that the best distance depends on
+the task and the readout, and neither alone says which way a given system
+goes. Added 2026-11-22 (version 2); the wording is the assistant's
+(Claude, in this session).
+
 ## What it does not say
 
 - Not that nearness to a transition never helps: it can shift capacity
@@ -163,3 +205,24 @@ strand 2** and **qualifies the thesis** ([ARG-128](../arguments.d/ARG-128.md)).
   cannot be met: Theorem 4 bounds every system.
 
 [THEORY-2158](../theory.d/THEORY-2158.md) replaces [LIT-2971](../literature.d/LIT-2971.md) in `grounds`. Status unchanged.
+
+## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
+
+Read in [NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md) ([THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)). It **supports strand 3 and the
+window- and task-dependence of the thesis**, narrowly ([ARG-tmp5sgtm](../arguments.d/ARG-tmp5sgtm.md)); the
+revisions are made in place above (version 2).
+
+- **Window:** subcritical optimum for every finite T, approaching
+  criticality as T grows (pp. 3–4, Fig. 2).
+- **Task, weakly:** the number of discriminable inputs and the dynamic
+  range peak at different λ; both are measures of one task family.
+- **Scope:** branching transition only; the paper cites Toyoizumi and
+  Abbott ([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered, Deferred) for the transition to chaos,
+  where "deviations toward the supercritical side ... are thus beneficial
+  in the presence of noise".
+- **Silent** on strands 1, 2, 4 and 5.
+- **The defeater** is not met: no finite window has its optimum at the
+  transition; the critical optimum returns only as T → ∞.
+- **No Fisher information.** The record does not attribute one to the
+  paper, and the paper does not use it: its measure is ideal-observer
+  overlap error.

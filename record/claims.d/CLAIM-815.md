@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpdusls
 title: 'The exponent 3/2 shared by critical branching cascades and first passage of a random walk comes from one identity, the hitting-time theorem: the chance of total size s, or of first passage at time t, is 1/s or 1/t times a local probability that falls as the inverse square root at balance, so 3/2 = 1 + 1/2'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Edited in place on 2026-11-22 after Newman's review (LIT-2976) was
+    read: the line calling it unread now says what it has, and LIT-2976
+    leaves grounds, since it gives the walk's 3/2 and not the identity
+    (ARG-tmp275n1); THEORY-tmp6jdas corroborates the walk's exponent.
+    The thesis and status are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -22,7 +31,6 @@ line:
 - formal-apparatus
 grounds:
 - CASE-303
-- LIT-2976
 summary: >-
   Fills the gap left by A5 §3 of the exchange "Rich Get Richer Power
   Laws" (2026-11-20). A notes that critical branching and random-walk
@@ -41,7 +49,7 @@ bears_on:
 - QUESTION-505
 ---
 <!-- inactive-ok-file: CASE-303 CLAIM-795 — Proposed or new; the case and catalogue claim filed with this one from the same exchange -->
-<!-- inactive-ok-file: LIT-2976 — Deferred; registered from this exchange and not read -->
+<!-- inactive-ok-file: THEORY-tmp6jdas ARG-tmp275n1 — Proposed; Newman's reading and the argument that it does not carry this claim -->
 
 # CLAIM-815: The exponent 3/2 shared by critical branching cascades and first passage of a random walk comes from one identity, the hitting-time theorem: the chance of total size s, or of first passage at time t, is 1/s or 1/t times a local probability that falls as the inverse square root at balance, so 3/2 = 1 + 1/2
 
@@ -99,7 +107,27 @@ cutoff", and both the power and the cutoff.
   higher dimensions or with heavy-tailed steps.
 - Not that this was read in a source. The theorem is standard (Otter
   1949, Dwass 1969, Kemperman), none of it registered here. Newman's
-  review ([LIT-2976](../literature.d/LIT-2976.md)), A's reference, is unread.
+  review ([LIT-2976](../literature.d/LIT-2976.md)), A's reference, was read on 2026-11-22: it has the
+  walk's 3/2 by generating functions and not the link to branching
+  ([ARG-tmp275n1](../arguments.d/ARG-tmp275n1.md)).
 - On the objection: A gave the exploration picture. What is added is the
   identity that turns it into the exponent, and the cutoff that falls out
   of the same formula.
+
+## Change of 2026-11-22
+
+The line "Newman's review ... is unread" now says what the review has;
+[LIT-2976](../literature.d/LIT-2976.md) leaves `grounds` ([ARG-tmp275n1](../arguments.d/ARG-tmp275n1.md)). Version 2.
+
+## Note of 2026-11-22: Newman, read
+
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **leaves the claim open; a parallel**. §IV.C
+(pp. 15–16) derives the first return of a symmetric ±1 walk to the origin
+by generating functions, f_2n ∝ n^(−3/2): "So the distribution of return
+times follows a power law with exponent α = 3/2." It never mentions a
+branching process, the cycle lemma or Dwass's formula. So it gives one
+half of the coincidence by another route and nothing on the identity,
+which rests on this claim's own derivation and [CASE-303](../cases.d/CASE-303.md).
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `corroborates` the walk's exponent; it is not a ground.
+Status unchanged.

@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmp1dlyp
 title: 'Power laws arise from many mechanisms with no positive feedback: a branching process balanced between extinction and growth, a tuned critical point, first-passage times of a random walk, a mixture of exponential rates, sample-space reduction, steady growth with a spread of ages, and an inverse power of a uniform variable'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Edited in place on 2026-11-22 after Newman's review (LIT-2976) was
+    read: the review is said to ground items 2, 3, 6 and 7 only, item 3
+    notes Newman's first-return derivation, the summary no longer calls
+    all the works unread, and THEORY-tmp6jdas replaces LIT-2976 in
+    grounds (ARG-tmp3ppjy). Newman's further mechanisms are in the note
+    of that date. The thesis and status are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -22,13 +32,13 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 grounds:
-- LIT-2976
 - LIT-2997
 - LIT-3007
 - LIT-2962
 - LIT-2992
 - THEORY-2131
 - CASE-303
+- THEORY-tmp6jdas
 summary: >-
   A's catalogue at A5 of the exchange "Rich Get Richer Power Laws"
   (2026-11-20), answering the owner's U3 ("are there other processes that
@@ -37,13 +47,15 @@ summary: >-
   this session, analytically or by simulation with python3 -I. A's
   unifying theme, "the absence of a characteristic scale", and its
   reasoning's "a hazard proportional to 1/x produces power-law survival"
-  are kept as glosses, not as further claims. The works are registered
-  and unread. The wording is A's (the other assistant in the exchange
+  are kept as glosses, not as further claims. Newman's review, read on
+  2026-11-22, grounds items 2, 3, 6 and 7 and adds four further
+  mechanisms; the other works are registered and unread. The wording is A's (the other assistant in the exchange
   "Rich Get Richer Power Laws", A5); adopting it is the owner's call.
 bears_on:
 - QUESTION-505
 ---
-<!-- inactive-ok-file: LIT-2976 LIT-2997 LIT-3007 LIT-2962 LIT-2992 — Deferred; registered from this exchange and not read -->
+<!-- inactive-ok-file: THEORY-tmp6jdas ARG-tmp3ppjy LIT-tmppzucs LIT-tmp2octb LIT-tmp1db7e LIT-tmpf9hct — Proposed or Deferred; Newman's reading, the argument for it, and the works it names for the further mechanisms, registered and unread -->
+<!-- inactive-ok-file: LIT-2997 LIT-3007 LIT-2962 LIT-2992 — Deferred; registered from this exchange and not read -->
 <!-- inactive-ok-file: THEORY-2131 CASE-303 CLAIM-769 CLAIM-815 CLAIM-824 CLAIM-803 THEORY-2150 — Proposed or new; held readings and claims, and entries filed with this one -->
 
 # CLAIM-795: Power laws arise from many mechanisms with no positive feedback: a branching process balanced between extinction and growth, a tuned critical point, first-passage times of a random walk, a mixture of exponential rates, sample-space reduction, steady growth with a spread of ages, and an inverse power of a uniform variable
@@ -53,7 +65,8 @@ bears_on:
 A5 opens: "there is a surprisingly large family of processes that generate
 power laws, many of which have **nothing to do with rich-get-richer
 dynamics, compounding wealth, or self-organized criticality**." Newman's
-review ([LIT-2976](../literature.d/LIT-2976.md)) is A's general reference.
+review ([LIT-2976](../literature.d/LIT-2976.md)) is A's general reference; read on 2026-11-22, it
+grounds items 2, 3, 6 and 7 only ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md), [ARG-tmp3ppjy](../arguments.d/ARG-tmp3ppjy.md)).
 
 1. **Critical branching** (§1). At R = 1 with finite, nonzero offspring
    variance, P(S = s) ∝ s^(−3/2). Checked for Poisson offspring in
@@ -68,7 +81,9 @@ review ([LIT-2976](../literature.d/LIT-2976.md)) is A's general reference.
    universality theorem". Checked: (1/t)·P(S_t = −1)·t^(3/2) tends to
    sqrt(2/π) = 0.798 (0.797 at t = 1,001), and simulation matches the
    formula (P(T = 11) 0.0210 simulated, 0.0205 exact). Why the 3/2 is
-   shared with item 1 is [CLAIM-815](CLAIM-815.md).
+   shared with item 1 is [CLAIM-815](CLAIM-815.md). Newman (§IV.C) gives the same 3/2
+   for the first return of a symmetric walk to the origin, by generating
+   functions.
 4. **Mixtures** (§4). Exponential waiting times with gamma-distributed
    rates give P(T > t) = (b/(b + t))^a. Checked at a = 1.5, b = 2 by two
    million draws: 0.0680 against 0.0680 at t = 10, 0.00272 against
@@ -145,3 +160,43 @@ Mitzenmacher's review ([LIT-3003](../literature.d/LIT-3003.md), read in [NOTE-22
 The catalogue is A's and does not claim completeness ("What it does not
 say"), so these are additions, not defeaters. [THEORY-2150](../theory.d/THEORY-2150.md)
 `corroborates` this claim. Status unchanged.
+
+## Change of 2026-11-22
+
+Newman's review read: the line calling it A's general reference now says
+it grounds items 2, 3, 6 and 7 only; item 3 notes his first-return
+derivation; the summary is updated; [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) replaces [LIT-2976](../literature.d/LIT-2976.md) in
+`grounds`. Version 2.
+
+## Note of 2026-11-22: Newman, read
+
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **grounds items 2, 3, 6 and 7**, **leaves items 1, 4 and
+5 open**, and **adds four mechanisms** ([ARG-tmp3ppjy](../arguments.d/ARG-tmp3ppjy.md)).
+
+- **Item 2.** Percolation at p_c = 0.5927462, and a coarse-graining
+  argument that the cluster distribution is a power law at the critical
+  point (§IV.E); no value of τ.
+- **Item 3.** "So the distribution of return times follows a power law
+  with exponent α = 3/2" (§IV.C, p. 16), for the first return to the
+  origin, not first passage to a boundary.
+- **Item 6.** Reed and Hughes as a combination of exponentials (§IV.A):
+  y exponential with rate a and x ∝ e^(by) give α = 1 − a/b; with
+  a = −λ, b = g this is the density exponent 1 + λ/g, the item's survival
+  exponent λ/g (checked, python3 -I).
+- **Item 7.** x = 1/y gives p(x) ∝ x^(−2), and x = y^(−γ) gives
+  α = 1 + 1/γ (§IV.B); not the d-ball geometry.
+- **Not in the review**: critical branching (item 1), mixtures of
+  exponential rates (item 4; Newman's "combinations of exponentials" is
+  item 6's mechanism, not a mixture), sample-space reduction (item 5).
+- **Further mechanisms with no rich-get-richer feedback**, which the
+  catalogue lacks: Miller's random typing (§IV.A; [LIT-tmppzucs](../literature.d/LIT-tmppzucs.md), already
+  noted from Mitzenmacher), highly optimized tolerance (§IV.G; Carlson and
+  Doyle, [LIT-tmp2octb](../literature.d/LIT-tmp2octb.md)), coherent noise (§IV.G; Sneppen and Newman,
+  [LIT-tmp1db7e](../literature.d/LIT-tmp1db7e.md)) and record dynamics, waiting times between records with
+  exponent 1 (§IV.G; Sibani and Littlewood, [LIT-tmpf9hct](../literature.d/LIT-tmpf9hct.md)). Highly
+  optimized tolerance involves an optimizer, as Mitzenmacher's
+  optimization does. The catalogue does not claim completeness, so these
+  are additions, not defeaters.
+
+Status unchanged.
