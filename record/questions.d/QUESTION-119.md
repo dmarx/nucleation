@@ -72,3 +72,12 @@ test of whether a visible minority can hold a stance the private majority
 rejects. For effects, A7: whether modelling the propagation network adds
 "a causally meaningful and explanatorily economical structure" over a
 list of the identifiable creators, distributors and deciders.
+
+## Note of 2026-11-22: Čater, Čater and Ivašković, read
+
+An **instance, indirect**, no edge (LIT-1138, NOTE-tmpu5yr1). Its two
+surveys of football fans were recruited through 395 fan clubs and club
+representatives (p. 7), which reaches the more organised fans, the biased
+sample of a diffuse population this question worries about. The paper
+does not discuss it, and it credits no stance to a fanbase, so it is not
+evidence on when the credit is due.
