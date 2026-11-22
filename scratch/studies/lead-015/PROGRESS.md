@@ -11,9 +11,12 @@
 - model.py, test_model.py (14 pass), run.py, README.md (derivation); results e1-e5 in results/.
 - Result: with nonnegative channels and each institution stable alone, the symmetric state is unstable iff (theta + sigma_E omega)(chi + sigma_P psi) > Delta_E Delta_P, Delta_i = (1 - phi'_i) - g_i sigma_i^2/2; rho, delta cancel. General form: round-trip gain rho(G_P C_PE G_E C_EP) > 1. 1802/1802 random sets agree with the nonlinear map.
 
+- Filed CASE-tmpd80em (executed-study), CLAIM-tmp0v3wu (the condition), CLAIM-tmpz8q70 (independence, directional channels), CLAIM-tmp42aba (resources as capacity, the alternative reading).
+- Dated notes on LEAD-015, CLAIM-404, CLAIM-330, CASE-092, CASE-123, QUESTION-100, QUESTION-071; changelog fragment record/changelog.d/lead-015.md.
+
 ## Next
 
-- File CASE (executed-study) and CLAIMs; dated notes on LEAD-015, CLAIM-404, CLAIM-330, CASE-092, QUESTION-100, CASE-tmpz4n6b? (new in staging: only if held); changelog fragment.
+- Nothing; report. The pull request is the lead's to open.
 
 ## Choices
 

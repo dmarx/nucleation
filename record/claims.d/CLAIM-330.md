@@ -54,6 +54,7 @@ summary: >-
 bears_on:
 - QUESTION-124
 ---
+<!-- inactive-ok-file: CASE-tmpd80em CLAIM-tmp0v3wu — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 
@@ -92,3 +93,7 @@ which is A14's "combined meaning–authority mode".
 ## Note of 2026-11-07: a restatement that loosens the conditions, from "Individuation, Possibility, and Disposition"
 
 A45 §VII restates the condition as "Under nonnegative coupling, with \(\alpha,\delta<1\), the symmetric state becomes unstable when" βγ > (1 − α)(1 − δ). The claim needs all four entries nonnegative. The reader's rerun (200,000 random draws) found no mismatch under the claim's conditions, and 33,115 under A45's wording; with α = δ = −0.9 and β = γ = 0.2 the map is unstable (spectral radius 1.1) though βγ = 0.04 < 3.61. A52 §9 states the conditions correctly. The claim stands; A45's restatement is wrong as worded.
+
+## Note of 2026-11-22: the same form, one level up
+
+LEAD-015 derived the two-institution version (CASE-tmpd80em, CLAIM-tmp0v3wu). Coupling two of the built institutions, each stable alone, through nonnegative channels gives a 4×4 Jacobian whose symmetric state is unstable exactly when the round-trip gain of the loop between them exceeds 1: (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, the product of the cross-channel strengths against the product of the institutions' own margins, as βγ > (1 − α)(1 − δ) is the cross product against the fields' margins here. The general form, for nonnegative blocks of any size, is ρ(G_P C_PE G_E C_EP) > 1 with G_i = (I − J_i)⁻¹. The claim is unchanged.

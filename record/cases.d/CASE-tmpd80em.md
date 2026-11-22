@@ -23,12 +23,12 @@ variant_of:
 bears_on:
 - QUESTION-100
 summary: >-
-  The build [LEAD-015](../leads.d/LEAD-015.md) asks for. Two copies of [CASE-tmpz4n6b](CASE-tmpz4n6b.md)'s reduced
+  The build LEAD-015 asks for. Two copies of CASE-tmpz4n6b's reduced
   institution, an evaluator E and an evaluated party P, read the same two
   hypotheses and are coupled through four named channels: the party's
   prevailing interpretation tilts the evidence the evaluator reads (θ) and
   the authority inside it (ω); the evaluator's reading is evidence the party
-  reads (χ) and redistributes authority inside the party (ψ). [CLAIM-404](../claims.d/CLAIM-404.md)'s
+  reads (χ) and redistributes authority inside the party (ψ). CLAIM-404's
   loop, in A21's words, is θ and ψ. Linearized at the symmetric state, the
   4×4 Jacobian is unstable exactly when the round-trip gain
   (θ + σ_E ω)(χ + σ_P ψ)/(Δ_E Δ_P) exceeds 1, Δ_i = (1 − φ′_i) − g_iσ_i²/2
@@ -49,11 +49,11 @@ summary: >-
 
 ## What was done
 
-[LEAD-015](../leads.d/LEAD-015.md) asks to "Extend the model to two regulating institutions and derive the condition under which their symmetric state is unstable, as [CLAIM-330](../claims.d/CLAIM-330.md) does for one." [CLAIM-404](../claims.d/CLAIM-404.md) names what closes the loop: an evaluator "whose evidence or resources the evaluated party affects", and an evaluator's reading that affects "the evaluated party's standing". The code, its 14 tests and the experiments are in scratch/studies/lead-015/ (model.py, test_model.py, run.py; results/*.json; the README holds the derivation and says how to rerun). Everything ran in under a minute on one thread.
+LEAD-015 asks to "Extend the model to two regulating institutions and derive the condition under which their symmetric state is unstable, as CLAIM-330 does for one." CLAIM-404 names what closes the loop: an evaluator "whose evidence or resources the evaluated party affects", and an evaluator's reading that affects "the evaluated party's standing". The code, its 14 tests and the experiments are in scratch/studies/lead-015/ (model.py, test_model.py, run.py; results/*.json; the README holds the derivation and says how to rerun). Everything ran in under a minute on one thread.
 
-**Each institution.** [CASE-tmpz4n6b](CASE-tmpz4n6b.md)'s reduced map, unchanged: meaning m and authority a, with m′ = (1 − ρ)m + ρ(b + σa + φ′m) and a′ = δa + (1 − δ)tanh(gσm/2 + t), φ′ = φ(1 − ε). The one addition is t, an outside tilt of the institution's conferral, zero in [CASE-tmpz4n6b](CASE-tmpz4n6b.md). A test checks that each half of the coupled map is [LEAD-090](../leads.d/LEAD-090.md)'s exact mean field. Both institutions read the same two hypotheses (A might be "the party's practice is sound").
+**Each institution.** CASE-tmpz4n6b's reduced map, unchanged: meaning m and authority a, with m′ = (1 − ρ)m + ρ(b + σa + φ′m) and a′ = δa + (1 − δ)tanh(gσm/2 + t), φ′ = φ(1 − ε). The one addition is t, an outside tilt of the institution's conferral, zero in CASE-tmpz4n6b. A test checks that each half of the coupled map is LEAD-090's exact mean field. Both institutions read the same two hypotheses (A might be "the party's practice is sound").
 
-**The channels, as read from [CLAIM-404](../claims.d/CLAIM-404.md).** Four, each nonnegative in the main result:
+**The channels, as read from CLAIM-404.** Four, each nonnegative in the main result:
 
 - θ, *evidence, party to evaluator*: b_E = θm_P. What the party discloses or generates leans with its own prevailing interpretation; the informational route.
 - ω, *resources, party to evaluator*: t_E = ωm_P. The party's resources favour the evaluator's specialist whose line agrees with the party's.
@@ -62,17 +62,17 @@ summary: >-
 
 A21's chain, "Public interpretation → Political and regulatory decisions → Distribution of resources and authority → Conditions of future media production → Public interpretation", is θ and ψ.
 
-**The derivation.** At the symmetric state the Jacobian is J = [[J_E, C_EP], [C_PE, J_P]], with J_i [CASE-tmpz4n6b](CASE-tmpz4n6b.md)'s 2×2 block and rank-one cross blocks (only meaning crosses). For any nonnegative J whose diagonal blocks are stable, I − J is a nonsingular M-matrix exactly when its Schur complement is, and by Varga's regular-splitting theorem that holds exactly when the round-trip gain ρ(G_P C_PE G_E C_EP) is below 1, G_i = (I − J_i)⁻¹. So the pair leaves symmetry exactly when the round trip exceeds 1. With rank-one channels the round trip is L_E L_P, and det(I − J_i) = ρ_i(1 − δ_i)Δ_i gives
+**The derivation.** At the symmetric state the Jacobian is J = [[J_E, C_EP], [C_PE, J_P]], with J_i CASE-tmpz4n6b's 2×2 block and rank-one cross blocks (only meaning crosses). For any nonnegative J whose diagonal blocks are stable, I − J is a nonsingular M-matrix exactly when its Schur complement is, and by Varga's regular-splitting theorem that holds exactly when the round-trip gain ρ(G_P C_PE G_E C_EP) is below 1, G_i = (I − J_i)⁻¹. So the pair leaves symmetry exactly when the round trip exceeds 1. With rank-one channels the round trip is L_E L_P, and det(I − J_i) = ρ_i(1 − δ_i)Δ_i gives
 
   L_E = (θ + σ_E ω)/Δ_E,  L_P = (χ + σ_P ψ)/Δ_P,  Δ_i = (1 − φ′_i) − g_iσ_i²/2,
 
-where Δ_i > 0 is [CLAIM-tmp6f8w8](../claims.d/CLAIM-tmp6f8w8.md)'s condition that institution i is stable alone. The condition is (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, [CLAIM-330](../claims.d/CLAIM-330.md)'s form one level up. ρ_i and δ_i cancel. The leading eigenvector is positive in all four components. Below threshold, a standing bias b₀ of the party's corpus moves the stationary meanings by m_P* = b₀/(Δ_P(1 − L_E L_P)) and m_E* = L_E b₀/(Δ_P(1 − L_E L_P)).
+where Δ_i > 0 is CLAIM-tmp6f8w8's condition that institution i is stable alone. The condition is (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, CLAIM-330's form one level up. ρ_i and δ_i cancel. The leading eigenvector is positive in all four components. Below threshold, a standing bias b₀ of the party's corpus moves the stationary meanings by m_P* = b₀/(Δ_P(1 − L_E L_P)) and m_E* = L_E b₀/(Δ_P(1 − L_E L_P)).
 
 ## Results
 
 **The condition (tests, e1).** The analytic Jacobian matched finite differences on 200 random parameter sets in both resource readings. The block theorem held on 2,000 random nonnegative block matrices each of sizes 2+2, 3+2, 3+3 and 4+5, and the scalar round trip equalled the matrix one on 300 sets. On 1,802 random parameter sets with each institution stable alone and |λ − 1| ≥ 0.01 (198 nearer the threshold skipped), the nonlinear map left symmetry exactly when the condition held (1,802 of 1,802; 715 unstable). In one unstable case the captured state was the same to 3e-11 for ρ in {0.05, 0.2, 0.8} and δ in {0, 0.5, 0.9}.
 
-**[CLAIM-404](../claims.d/CLAIM-404.md)'s cases (e2).** Both institutions at σ = 0.4, φ = 0.3, ε = 0.2, g = 4, so Δ = 0.44 each and each is stable alone; the state is (m_E, a_E, m_P, a_P).
+**CLAIM-404's cases (e2).** Both institutions at σ = 0.4, φ = 0.3, ε = 0.2, g = 4, so Δ = 0.44 each and each is stable alone; the state is (m_E, a_E, m_P, a_P).
 
 | case | channels | round trip | from a small push |
 |---|---|---|---|
@@ -88,7 +88,7 @@ In every captured case both institutions lean the same way, and from opposite sm
 
 **Amplification below threshold (e3).** With the party's corpus biased by b₀ = 0.02 and θ = 0.4, raising ψ moved the round trip from 0 to 0.95; the evaluator's stationary reading rose from 0.041 to 0.235, matching the linear formula to within 2% up to a round trip of 0.5, after which the nonlinearity held it below the formula (0.235 against 0.83 at 0.95).
 
-**Agent level (e4).** Two of [LEAD-090](../leads.d/LEAD-090.md)'s agent-level institutions (k = 50 items per specialist, one frame a round), coupled through θ and ψ, φ = 0.2 so Δ = 0.52; 200 seeds from exact symmetry, 800 rounds, a run counted captured when |m_E| over its last 200 rounds exceeded 0.19 (half the reduced captured value at round trip 1.42).
+**Agent level (e4).** Two of LEAD-090's agent-level institutions (k = 50 items per specialist, one frame a round), coupled through θ and ψ, φ = 0.2 so Δ = 0.52; 200 seeds from exact symmetry, 800 rounds, a run counted captured when |m_E| over its last 200 rounds exceeded 0.19 (half the reduced captured value at round trip 1.42).
 
 | round trip | captured | mean \|m_E\| | same sign |
 |---|---|---|---|
@@ -100,15 +100,15 @@ In every captured case both institutions lean the same way, and from opposite sm
 
 **Resources as capacity (e5).** If the party's resources scale the evaluator's conferral gain, g_E(1 + ωm_P), rather than tilt it, the channel has no linear term at symmetry: the spectral radius stayed 1.0048 for ω from 0 to 2. It does change the nonlinear map. Above threshold it enlarged the captured reading on the side it favours (m_E from 0.385 to 0.754 at ω = 2) and shrank the other (−0.151). Below threshold (spectral radius 0.996 and 0.987), a start at 0.9 on the favoured side was captured at ω = 2 and ω = 5 respectively, and a start at −0.9 returned to symmetry. With θ = 0 (spectral radius 0.958), ω = 5 with ψ = 2, and ω = 10 with ψ = 1 or 2, were captured from the favoured side only.
 
-**Corrective return channels (e5).** With χ, ψ ≤ 0, the evaluator's reading working against the party's lean, the condition above does not apply. Of 20,000 random draws with each institution stable alone, 2,159 were unstable, 2,158 of them through a complex pair (oscillation) and none through a real eigenvalue above 1, as [CLAIM-340](../claims.d/CLAIM-340.md)'s corrective regime fails by oscillation for one institution.
+**Corrective return channels (e5).** With χ, ψ ≤ 0, the evaluator's reading working against the party's lean, the condition above does not apply. Of 20,000 random draws with each institution stable alone, 2,159 were unstable, 2,158 of them through a complex pair (oscillation) and none through a real eigenvalue above 1, as CLAIM-340's corrective regime fails by oscillation for one institution.
 
 ## What it shows
 
-That the interpretation–authority loop can close between two institutions, each stable alone, at a condition of [CLAIM-330](../claims.d/CLAIM-330.md)'s form: the product of the cross-channel strengths against the product of the institutions' own margins. Each institution's own loop enters only through its margin, so an institution near its own threshold is captured by a weak cross loop, and two with no loop inside either can still be captured by the loop between them. [CLAIM-tmp0v3wu](../claims.d/CLAIM-tmp0v3wu.md) states the condition; [CLAIM-tmpz8q70](../claims.d/CLAIM-tmpz8q70.md) what it says about formal and informational independence; [CLAIM-tmp42aba](../claims.d/CLAIM-tmp42aba.md) the capacity reading of resources.
+That the interpretation–authority loop can close between two institutions, each stable alone, at a condition of CLAIM-330's form: the product of the cross-channel strengths against the product of the institutions' own margins. Each institution's own loop enters only through its margin, so an institution near its own threshold is captured by a weak cross loop, and two with no loop inside either can still be captured by the loop between them. CLAIM-tmp0v3wu states the condition; CLAIM-tmpz8q70 what it says about formal and informational independence; CLAIM-tmp42aba the capacity reading of resources.
 
 ## What it does not show
 
-- That the channels are the right reading of [CLAIM-404](../claims.d/CLAIM-404.md). They are the assistant's; the capacity reading of resources is a second, and they disagree below the threshold.
+- That the channels are the right reading of CLAIM-404. They are the assistant's; the capacity reading of resources is a second, and they disagree below the threshold.
 - Anything about corrective channels beyond the count above; no condition for the oscillatory instability was derived.
 - That the two institutions should share one meaning axis. If the party's interest fixes its corpus bias, the pair has no symmetric state, and what survives is the amplification 1/(1 − L_E L_P).
-- That the numbers bear on any regulator or newsroom. The model is the assistant's reading of [CASE-092](CASE-092.md) and [CLAIM-404](../claims.d/CLAIM-404.md), and its parameters are illustrative.
+- That the numbers bear on any regulator or newsroom. The model is the assistant's reading of CASE-092 and CLAIM-404, and its parameters are illustrative.
