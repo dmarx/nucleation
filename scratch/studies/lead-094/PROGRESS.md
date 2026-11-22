@@ -12,9 +12,31 @@
 
 ## Done
 
+- Step 1: no changelog fragment for lead-094; none of the twelve LITs has a
+  NOTE or THEORY; no duplicate LIT by identifier. All twelve unread.
+- Read Ott and Antonsen 2008 (arXiv:0806.0004v1) in full.
+- Read, as a supplement the verdict needs, Ott and Antonsen 2009, "Long time
+  evolution of phase oscillator systems" (arXiv:0902.2773v2), in full. Not
+  held in the record; to be registered (ADR-114).
+- Computation: `oa_invariance.py` shows the OA family is invariant for
+  first-harmonic coupling only (defect 1e-16 vs 0.1 with a second harmonic).
+
 ## Next
 
-- Step 1: already-held check (changelog fragment, LIT/NOTE/THEORY per work).
-- Read Ott and Antonsen.
+- File OA 2008 and 2009: LITs, NOTEs, THEORYs; verdict claims (alternatives).
+- Then the rest in order: LIT-2241, LIT-2254, LIT-2244, LIT-2257, LIT-2268,
+  LIT-2231, LIT-2252, LIT-2266; try lawful copies for LIT-2255, LIT-1638,
+  LIT-1642.
 
 ## Choices
+
+- No subagent tool is available to this worker, so readings are done by the
+  worker itself, not delegated; the running notes live here instead of
+  per-reader branches (read-and-file step 6, ADR-108).
+- Verdict lean (to file as alternatives): OA's reduction does not meet
+  CLAIM-478's defeater (a) as worded: the closure holds by exact invariance
+  (persistence's limit) in a restricted class (N infinite, first-harmonic
+  coupling, analytic data, Lorentzian for finite dimension). Alternative: it
+  meets (a) within its class, since its attraction (OA 2009) needs only
+  Delta > 0 and no rate ratio, so CLAIM-478 should name invariant-manifold
+  closure as a route needing no rate difference.
