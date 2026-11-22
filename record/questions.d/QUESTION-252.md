@@ -265,12 +265,12 @@ The question stays open.
 
 ## Note of 2026-11-22: Ott and Antonsen, read
 
-A configuration for the question (THEORY-tmpmvcnr, NOTE-tmpd7trg). On Ott
+A configuration for the question ([THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md), [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md)). On Ott
 and Antonsen's invariant manifold the order parameter's law is closed,
 memoryless and exact, while the omitted variables, the distribution's
 other degrees of freedom, have a continuous spectrum of neutral modes:
 they neither decay nor are slaved. So closure and fidelity hold there
 without the omitted variables relaxing. Off the manifold the law is reached
 when frequencies are spread and not when they are identical
-(THEORY-tmp0d58z). The model class is first-harmonic coupling
-(CLAIM-tmpo6ehq). THEORY-tmpmvcnr bears on this question.
+([THEORY-tmp0d58z](../theory.d/THEORY-tmp0d58z.md)). The model class is first-harmonic coupling
+([CLAIM-tmpo6ehq](../claims.d/CLAIM-tmpo6ehq.md)). [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) bears on this question.

@@ -164,12 +164,12 @@ No status, title or warrant changes.
 ## Note of 2026-11-22: Schmietendorf and Müller, read
 
 Two readings from the same journal, notes only. Schmietendorf 2026
-(THEORY-tmpkt3xf) finds that the slaving principle supports by itself a
+([THEORY-tmpkt3xf](../theory.d/THEORY-tmpkt3xf.md)) finds that the slaving principle supports by itself a
 descriptive reading, that few order parameters suffice, and that whether
 the order parameter has causal efficacy of its own is not settled by the
 dynamics: compatible with this claim's point that a closed collective
 variable can be an aggregate coexisting with its realization. Müller 2026
-(THEORY-tmpd9neo) reads enslavement causally for social interaction and
+([THEORY-tmpd9neo](../theory.d/THEORY-tmpd9neo.md)) reads enslavement causally for social interaction and
 offers a test, "bidirectional influences" between order parameters and
 local dynamics; that would bear on this claim's question only by
-intervention, for the reason CLAIM-334 gives.
+intervention, for the reason [CLAIM-334](CLAIM-334.md) gives.

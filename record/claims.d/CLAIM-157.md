@@ -432,17 +432,17 @@ status or title.
 ## Note of 2026-11-22: Ott and Antonsen, read
 
 A parallel, no edge. In Ott and Antonsen's model of communities of
-oscillators (NOTE-tmpd7trg, eq. 15) each community's order parameter
+oscillators ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), eq. 15) each community's order parameter
 obeys a closed equation at any coupling between communities, so closure of
 a community's collective variable does not wait on the community's being
-a weakly coupled block: the nonlinear counterpart of CLAIM-388, and the gap
-between closure and block that QUESTION-218 asks about. The whole
+a weakly coupled block: the nonlinear counterpart of [CLAIM-388](CLAIM-388.md), and the gap
+between closure and block that [QUESTION-218](../questions.d/QUESTION-218.md) asks about. The whole
 population, isolated, passes this criterion trivially. The criterion is
 unchanged.
 
 ## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
 
-Evidence, weak (THEORY-tmpgdriu corroborates this claim). In simulations
+Evidence, weak ([THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md) corroborates this claim). In simulations
 of identical phase-frustrated oscillators on three-layer hierarchically
 modular networks, each lowest-layer module acts as "a single
 macro-oscillator" only while the Laplacian's spectral gap between the

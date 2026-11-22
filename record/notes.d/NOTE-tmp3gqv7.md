@@ -25,7 +25,7 @@ summary: >-
   to those modes reproduces the two-population model only when the gap to
   the fast modes is large; the modules stay coherent, "a single
   macro-oscillator", only while the gap between the lowest two layers
-  exceeds a threshold near 2. The reading is THEORY-tmpgdriu.
+  exceeds a threshold near 2. The reading is [THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpgdriu CLAIM-tmpa694z CLAIM-tmpervl4 — Proposed or new; this reading and the verdict of LEAD-094 it bears on -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 — Proposed; the claims the reading bears on -->
@@ -37,7 +37,7 @@ summary: >-
 A minimal model in which hierarchical modularity, without heterogeneous
 couplings, delays or hubs, produces chimeras and metastability, and an
 account of which states follow which part of the Laplacian spectrum. The
-reading is THEORY-tmpgdriu.
+reading is [THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md).
 
 ## Key results
 
@@ -93,24 +93,24 @@ which discards modes faster than a chosen time.
 
 ## Bearing on the record
 
-- **CLAIM-478** (corroborates). Key result 3 is the claim's first half,
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (corroborates). Key result 3 is the claim's first half,
   with the condition of its version 5: the module becomes a unit, a
   constraint on its members' phases, when the rate gap between levels is
   large against the spread within; when the gap is small the slower modes
   break it up. Simulation, one model family.
-- **The verdict on Ott and Antonsen** (CLAIM-tmpa694z, CLAIM-tmpervl4).
+- **The verdict on Ott and Antonsen** ([CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md), [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md)).
   Key result 4: away from all-to-all coupling, the authors' reduction of a
   network to an Ott–Antonsen-solvable model held only with a large gap
-  between fast and slow modes. Support for CLAIM-tmpa694z's point that the
+  between fast and slow modes. Support for [CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md)'s point that the
   separation-free closure is particular to its class; it does not touch
   the reading of "more persistent".
-- **CLAIM-157** (corroborates, weakly). A module acts as one oscillator
+- **[CLAIM-157](../claims.d/CLAIM-157.md)** (corroborates, weakly). A module acts as one oscillator
   while its spectral gap is large, the gap-isolated block as the unit;
   the paper's threshold is numerical, for one network family.
-- **QUESTION-391** (bears on). The coarse-grained description fails as the
+- **[QUESTION-391](../questions.d/QUESTION-391.md)** (bears on). The coarse-grained description fails as the
   gap closes, because the fast modes come back into the slow dynamics
   (key result 4).
-- **CLAIM-481** (note only). The gaps here are made by the network's
+- **[CLAIM-481](../claims.d/CLAIM-481.md)** (note only). The gaps here are made by the network's
   modular structure under Laplacian-like coupling, as in the claim's
   Laplacian flow.
 

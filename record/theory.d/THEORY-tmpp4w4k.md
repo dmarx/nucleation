@@ -20,9 +20,9 @@ bears_on:
 - QUESTION-281
 summary: >-
   Lee, Koskelo, Gokhale, Li, Fei, Liu, Lin, Dunkel, Skinner and Fakhri
-  (2025), LIT-2268, skimmed in NOTE-tmprzmfk (sections I to III and the
+  (2025), [LIT-2268](../literature.d/LIT-2268.md), skimmed in [NOTE-tmprzmfk](../notes.d/NOTE-tmprzmfk.md) (sections I to III and the
   supplement skimmed past). One experimental system with a model and two
-  analysis tools. It bears on QUESTION-281 as a measured, abrupt passage
+  analysis tools. It bears on [QUESTION-281](../questions.d/QUESTION-281.md) as a measured, abrupt passage
   between collective states under a slowly drifting control parameter.
   Proposed until reproduced independently.
 ---
@@ -34,7 +34,7 @@ summary: >-
 
 Lee and colleagues (2025), "Topological flowscape reveals state
 transitions in nonreciprocal living matter", arXiv 2511.11815, DOI
-10.1103/tq6h-f5ws, LIT-2268, skimmed in NOTE-tmprzmfk.
+10.1103/tq6h-f5ws, [LIT-2268](../literature.d/LIT-2268.md), skimmed in [NOTE-tmprzmfk](../notes.d/NOTE-tmprzmfk.md).
 
 ## The account
 
@@ -51,6 +51,6 @@ motif transitions toward the ordered motif, read as proofreading.
 
 ## Bearing
 
-QUESTION-281: a measured, non-gradual passage between collective
+[QUESTION-281](../questions.d/QUESTION-281.md): a measured, non-gradual passage between collective
 organizations under a slow drift of interactions; the kind of transition
 is not identified.

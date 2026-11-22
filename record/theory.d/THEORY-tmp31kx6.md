@@ -21,11 +21,11 @@ bears_on:
 - QUESTION-281
 summary: >-
   Hancock, Rosas, Luppi, Zhang, Mediano, Cabral, Deco, Kringelbach,
-  Breakspear, Kelso and Turkheimer (2024), LIT-2266, skimmed from the
-  accepted manuscript in NOTE-tmp3om59. A review; the definition and the
+  Breakspear, Kelso and Turkheimer (2024), [LIT-2266](../literature.d/LIT-2266.md), skimmed from the
+  accepted manuscript in [NOTE-tmp3om59](../notes.d/NOTE-tmp3om59.md). A review; the definition and the
   catalogue of routes are its own synthesis of the literature, the
   dwell-time test a proposal with computational support. It bears on
-  QUESTION-281 by separating escape over a barrier by noise from passage
+  [QUESTION-281](../questions.d/QUESTION-281.md) by separating escape over a barrier by noise from passage
   near saddles. Proposed until the definition is confirmed in another
   source.
 ---
@@ -37,8 +37,8 @@ summary: >-
 
 Hancock and colleagues (2024), "Metastability demystified — the
 foundational past, the pragmatic present and the promising future",
-*Nature Reviews Neuroscience* 26(2): 82–100, LIT-2266, skimmed from the
-authors' accepted manuscript in NOTE-tmp3om59.
+*Nature Reviews Neuroscience* 26(2): 82–100, [LIT-2266](../literature.d/LIT-2266.md), skimmed from the
+authors' accepted manuscript in [NOTE-tmp3om59](../notes.d/NOTE-tmp3om59.md).
 
 ## The account
 
@@ -57,6 +57,6 @@ assumptions, gamma-like in metastable models.
 
 ## Bearing
 
-QUESTION-281: two of its transitions, escape over a barrier by noise and
+[QUESTION-281](../questions.d/QUESTION-281.md): two of its transitions, escape over a barrier by noise and
 passage near saddles or a ghost, distinguished in principle and, perhaps,
 in data.

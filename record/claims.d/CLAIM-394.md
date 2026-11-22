@@ -113,10 +113,10 @@ The claim is unchanged.
 
 ## Note of 2026-11-22: a sibling among the exceptions
 
-CLAIM-478's defeater (a) names this claim's reversible case among the
+[CLAIM-478](CLAIM-478.md)'s defeater (a) names this claim's reversible case among the
 exact closures that bear on it only if typical. Ott and Antonsen's
-reduction, read for LEAD-094 (NOTE-tmpd7trg, NOTE-tmp5oph4), is a nonlinear
+reduction, read for [LEAD-094](../leads.d/LEAD-094.md) ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), [NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)), is a nonlinear
 sibling: an exact closure by structure, here first-harmonic coupling
-(CLAIM-tmpo6ehq), in a restricted class. The verdict on it is filed as
-alternatives, CLAIM-tmpa694z and CLAIM-tmpervl4. Nothing here changes this
+([CLAIM-tmpo6ehq](CLAIM-tmpo6ehq.md)), in a restricted class. The verdict on it is filed as
+alternatives, [CLAIM-tmpa694z](CLAIM-tmpa694z.md) and [CLAIM-tmpervl4](CLAIM-tmpervl4.md). Nothing here changes this
 claim.

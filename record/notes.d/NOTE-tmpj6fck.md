@@ -27,7 +27,7 @@ summary: >-
   shift over minutes against leg movements at tens of hertz, with
   heavy-tailed residence times and memory beyond a four-state Markov
   model. Where the gap between fast and slow rates is wide, a fixed-scale
-  operator finds no slow modes. The reading is THEORY-tmpqdy16.
+  operator finds no slow modes. The reading is [THEORY-tmpqdy16](../theory.d/THEORY-tmpqdy16.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpqdy16 — Proposed; this reading's account -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; a claim the reading bears on -->
@@ -38,7 +38,7 @@ summary: >-
 
 A route from raw postural time series to slow, metastable behavioral
 states, by making timescale a coordinate of the state space. The reading
-is THEORY-tmpqdy16.
+is [THEORY-tmpqdy16](../theory.d/THEORY-tmpqdy16.md).
 
 ## Key results
 
@@ -81,19 +81,19 @@ eigenvector; residence time.
 
 ## Bearing on the record
 
-- **QUESTION-281** (bears on). Behavioral states as metastable basins
+- **[QUESTION-281](../questions.d/QUESTION-281.md)** (bears on). Behavioral states as metastable basins
   between which an animal moves over minutes, with residence-time tails
   that suggest slowly modulated barriers; a measured case of distinctions
   that persist and give way, though the paper does not say by which
   transition.
-- **CLAIM-478** (note only). The paper's premise is the claim's shape,
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (note only). The paper's premise is the claim's shape,
   slow internal states organizing fast movement, but it assumes the
   direction of constraint and does not test it. One point is new for the
   claim: the wider the gap between rates, the harder the slow level is to
   see from fast measurements at one resolution (key result 3). The
   separation that makes a level can hide it from a single-scale
   observer.
-- **CLAIM-331** (note only). Slowness as a mark of a level is here an
+- **[CLAIM-331](../claims.d/CLAIM-331.md)** (note only). Slowness as a mark of a level is here an
   operational criterion for finding behavioral levels.
 
 ## Limitations

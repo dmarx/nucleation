@@ -257,5 +257,5 @@ An illustration, no edge. Whether a population of phase oscillators with
 spread frequencies settles onto a low-dimensional state depends on the
 metric: in Ott and Antonsen's frequency-weighted metric it does, for the
 distribution itself it does not, since each harmonic keeps its size while
-dephasing (NOTE-tmp5oph4). Once the metric is fixed the verdict is settled
+dephasing ([NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)). Once the metric is fixed the verdict is settled
 and could have been false, as this claim says of a fixed criterion.

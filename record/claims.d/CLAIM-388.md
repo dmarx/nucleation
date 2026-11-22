@@ -154,11 +154,11 @@ A parallel from Wang and Slotine ([NOTE-2096](../notes.d/NOTE-2096.md)): the syn
 
 ## Note of 2026-11-22: Ott and Antonsen, read
 
-A nonlinear case of this claim (NOTE-tmpd7trg; THEORY-tmpmvcnr
+A nonlinear case of this claim ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md); [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md)
 corroborates it). Under uniform all-to-all phase coupling, where no subset
 of oscillators is a weakly coupled block, the order parameter, a function
 of the whole state, obeys an exactly closed law on an invariant manifold;
-the sequel (NOTE-tmp5oph4) shows the law holds at long times from any
+the sequel ([NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)) shows the law holds at long times from any
 analytic start when frequencies are spread. Two differences: closure there
 is a closed ordinary differential equation for infinitely many
 oscillators, not zero transfer entropy in a finite linear system, and it

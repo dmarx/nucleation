@@ -93,23 +93,23 @@ That bears on [CLAIM-586](../claims.d/CLAIM-586.md): its structurally frustrated
 
 ## Note of 2026-11-22: Ott and Antonsen 2009, read
 
-A sharp case (NOTE-tmp5oph4, THEORY-tmp0d58z). The reduced order-parameter
+A sharp case ([NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md), [THEORY-tmp0d58z](../theory.d/THEORY-tmp0d58z.md)). The reduced order-parameter
 law of Ott and Antonsen attracts whenever the oscillators' frequency
 spread Δ is positive, by phase mixing, and fails at Δ = 0, where motion off
 the manifold persists, chaotic in Josephson arrays (the paper's note 16).
 The suppressed degrees of freedom, the distribution's higher harmonics,
 become dynamically important when the mechanism hiding them from the order
 parameter, dephasing, stops, not because their rates change.
-THEORY-tmp0d58z bears on this question; CLAIM-tmpa694z and CLAIM-tmpervl4
-bear on it through CLAIM-478's defeater (a).
+[THEORY-tmp0d58z](../theory.d/THEORY-tmp0d58z.md) bears on this question; [CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md) and [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md)
+bear on it through [CLAIM-478](../claims.d/CLAIM-478.md)'s defeater (a).
 
 ## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
 
-A second case (THEORY-tmpgdriu). Coarse-graining a hierarchically modular
+A second case ([THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md)). Coarse-graining a hierarchically modular
 oscillator network to its slow Laplacian modes reproduced the
 two-population model only while the gap to the fast modes was large; as
 the gap closed "the contribution from the fast modes should not be
 discarded", and the lowest-layer modules lost coherence. Here the
 suppressed degrees of freedom return as the rate gap closes, unlike Ott and
 Antonsen's case above, where they return when dephasing stops.
-THEORY-tmpgdriu bears on this question.
+[THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md) bears on this question.

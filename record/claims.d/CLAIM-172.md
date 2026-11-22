@@ -236,7 +236,7 @@ A stronger case than this claim's own ([THEORY-2250](../theory.d/THEORY-2250.md)
 ## Note of 2026-11-22: Augustsson and colleagues, read
 
 A parallel, no edge. In Augustsson and colleagues' adaptive network
-(THEORY-tmpq02z9) identical oscillators with no imposed groups split by
+([THEORY-tmpq02z9](../theory.d/THEORY-tmpq02z9.md)) identical oscillators with no imposed groups split by
 themselves into a mutually entrained cluster and a desynchronized group;
 the cluster carries a collective frequency neither group's members have
 alone. It does not test the claim's sufficiency.

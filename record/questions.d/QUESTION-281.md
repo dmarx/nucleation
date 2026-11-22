@@ -357,33 +357,33 @@ on either count. No status change.
 ## Note of 2026-11-22: Ott and Antonsen, read
 
 An instance of the question's first transition with an exact
-low-dimensional description (THEORY-tmpmvcnr, NOTE-tmpd7trg). For the
+low-dimensional description ([THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md), [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md)). For the
 Kuramoto model with Lorentzian frequencies of width Δ, the incoherent
 state's damping rate Δ − K/2 changes sign at Kc = 2Δ, and partial locking
 grows to the amplitude (1 − 2Δ/K)^{1/2} by a closed one-dimensional law;
 with a periodic drive, folds and a limit cycle appear whose bifurcations
 match the full system's. It bears on how a distinction comes into being,
 not on whether creation, stabilization and constitutive role are separate
-achievements. THEORY-tmpmvcnr bears on this question.
+achievements. [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) bears on this question.
 
-## Note of 2026-11-22 (later): the rest of LEAD-094's batch, read
+## Note of 2026-11-22 (later): the rest of [LEAD-094](../leads.d/LEAD-094.md)'s batch, read
 
 Four readings bear on the question (each THEORY bears on it):
 
-- **Augustsson and colleagues 2026** (THEORY-tmpq02z9). A split of
+- **Augustsson and colleagues 2026** ([THEORY-tmpq02z9](../theory.d/THEORY-tmpq02z9.md)). A split of
   identical oscillators into synchronized and desynchronized groups arises
   at a transverse instability of synchrony, keeps its membership through a
   sequence of bifurcations of one group's dynamics, and is remade by
   crisis-like jumps. Here a form's creation and its persistence come
   apart: the membership survives while the dynamics changes.
-- **Hancock and colleagues 2024** (THEORY-tmp31kx6). Escape across a
+- **Hancock and colleagues 2024** ([THEORY-tmp31kx6](../theory.d/THEORY-tmp31kx6.md)). Escape across a
   barrier by noise (multistability) and passage near saddles or a fixed
   point's ghost without noise (metastability) are different transitions,
   perhaps told apart by dwell times, exponential for the first.
-- **Kaur, Jain and Berman 2026** (THEORY-tmpqdy16). Measured behavioral
+- **Kaur, Jain and Berman 2026** ([THEORY-tmpqdy16](../theory.d/THEORY-tmpqdy16.md)). Measured behavioral
   states as metastable basins with heavy-tailed residences, which fit
   neither of Hancock's two cases.
-- **Lee and colleagues 2025** (THEORY-tmpp4w4k). A measured, abrupt passage
+- **Lee and colleagues 2025** ([THEORY-tmpp4w4k](../theory.d/THEORY-tmpp4w4k.md)). A measured, abrupt passage
   between collective states of embryos as a slowly drifting interaction
   crosses a range, with a fall in rate and dissipation at the passage; the
   kind of transition is not named.

@@ -25,7 +25,7 @@ summary: >-
   cluster fraction ρ the desynchronized group passes from stationary to
   breathing to chaotic; each branch ends when some desynchronized units
   join the cluster, a crisis-like jump to a new branch. The landscape is
-  highly multistable and path-dependent. The reading is THEORY-tmpq02z9.
+  highly multistable and path-dependent. The reading is [THEORY-tmpq02z9](../theory.d/THEORY-tmpq02z9.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpq02z9 — Proposed; this reading's account -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; a claim the reading bears on -->
@@ -36,7 +36,7 @@ summary: >-
 
 A minimal adaptive network in which chimera states self-organize, and a
 bifurcation structure that repeats on each branch of fixed cluster
-fraction. The reading is THEORY-tmpq02z9.
+fraction. The reading is [THEORY-tmpq02z9](../theory.d/THEORY-tmpq02z9.md).
 
 ## Key results
 
@@ -80,21 +80,21 @@ crisis-like reorganization.
 
 ## Bearing on the record
 
-- **QUESTION-281** (bears on). A worked case of distinctions coming into
+- **[QUESTION-281](../questions.d/QUESTION-281.md)** (bears on). A worked case of distinctions coming into
   being and passing away: the split into groups arises at a transverse
   instability of synchrony (eq. 9), persists through a sequence of
   bifurcations of the desynchronized group's dynamics, and is remade by
   crisis-like jumps. The group's membership survives changes of its
   dynamics, which bears on the question's separation of a form's creation
   from its stabilization.
-- **CLAIM-478** (note only). The slow weights carry the partition, and
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (note only). The slow weights carry the partition, and
   the fast phases stay organized by it along a branch, which has the
   claim's shape; but the separation is imposed (ε fixed at 0.01), not
   made or varied, so it is not evidence for the mechanism.
-- **CLAIM-172** (note only). The synchronized cluster is a group of
+- **[CLAIM-172](../claims.d/CLAIM-172.md)** (note only). The synchronized cluster is a group of
   mutually entrained peers formed from a population with no imposed
   groups; the claim's sufficiency is not tested.
-- **Ott and Antonsen's reduction** (NOTE-tmpd7trg). The paper's own
+- **Ott and Antonsen's reduction** ([NOTE-tmpd7trg](NOTE-tmpd7trg.md)). The paper's own
   reductions are exact closures on invariant subspaces given by
   permutation symmetry, finite-N, not the Ott–Antonsen manifold.
 

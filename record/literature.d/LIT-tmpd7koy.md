@@ -2,7 +2,7 @@
 status: Active
 status_note: >-
   Read 2026-11-22 from arXiv (0902.2773v2), in full, as a supplement to
-  Ott and Antonsen 2008 (LIT-2248) for LEAD-094 (ADR-114). Its answer to
+  Ott and Antonsen 2008 ([LIT-2248](LIT-2248.md)) for [LEAD-094](../leads.d/LEAD-094.md) ([ADR-114](../decisions.d/ADR-114.md)). Its answer to
   the 2008 paper's open question, whether the reduced manifold attracts, is
   what the verdict on that reduction as a defeater turns on.
 title: 'Long Time Evolution of Phase Oscillator Systems'
@@ -37,7 +37,7 @@ summary: >-
   order parameter obeys the reduced equation; the distribution itself
   need not converge. The proof needs only Δ > 0, no ratio of rates. With
   Δ = 0 there is long-time motion off the manifold. Read in
-  NOTE-tmp5oph4; the reading is THEORY-tmp0d58z.
+  [NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md); the reading is [THEORY-tmp0d58z](../theory.d/THEORY-tmp0d58z.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp0d58z CLAIM-478 — Proposed; this reading's account and the claim it was read for -->
 
@@ -47,7 +47,7 @@ Ott and Antonsen (2009), *Chaos* 19(2): 023117. arXiv 0902.2773. DOI 10.1063/1.3
 
 ## Key takeaways
 
-- The reduced manifold of LIT-2248 is "inertial" for the order parameter:
+- The reduced manifold of [LIT-2248](LIT-2248.md) is "inertial" for the order parameter:
   for frequency spread Δ > 0, "all attractors of the full system lie on
   the reduced manifold, and all attractors of the dynamics on the reduced
   manifold are attractors of the full system" (p. 1).
@@ -59,6 +59,6 @@ Ott and Antonsen (2009), *Chaos* 19(2): 023117. arXiv 0902.2773. DOI 10.1063/1.3
 
 ## Standing in the record
 
-A supplement (ADR-114) to LIT-2248, read for LEAD-094 because the verdict
-on Ott and Antonsen's reduction as a candidate defeater of CLAIM-478 turns
+A supplement ([ADR-114](../decisions.d/ADR-114.md)) to [LIT-2248](LIT-2248.md), read for [LEAD-094](../leads.d/LEAD-094.md) because the verdict
+on Ott and Antonsen's reduction as a candidate defeater of [CLAIM-478](../claims.d/CLAIM-478.md) turns
 on whether the reduction is reached from outside the manifold, and how fast.

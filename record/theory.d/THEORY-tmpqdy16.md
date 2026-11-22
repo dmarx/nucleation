@@ -19,10 +19,10 @@ source:
 bears_on:
 - QUESTION-281
 summary: >-
-  Kaur, Jain and Berman (2026), LIT-2257, skimmed in NOTE-tmpj6fck. A
+  Kaur, Jain and Berman (2026), [LIT-2257](../literature.d/LIT-2257.md), skimmed in [NOTE-tmpj6fck](../notes.d/NOTE-tmpj6fck.md). A
   method validated on a driven Lorenz system and applied to worms and
   flies; the slow states are found, not shown to constrain. It bears on
-  QUESTION-281 as measured metastable states and transitions. Proposed
+  [QUESTION-281](../questions.d/QUESTION-281.md) as measured metastable states and transitions. Proposed
   until reproduced independently.
 ---
 <!-- inactive-ok-file: NOTE-tmpj6fck — Skimmed; the reading this account comes from -->
@@ -32,8 +32,8 @@ summary: >-
 ## Source
 
 Kaur, Jain and Berman (2026), "Using timescale as a state coordinate
-reveals the metastable geometry of behavior", arXiv 2605.24135, LIT-2257,
-skimmed in NOTE-tmpj6fck.
+reveals the metastable geometry of behavior", arXiv 2605.24135, [LIT-2257](../literature.d/LIT-2257.md),
+skimmed in [NOTE-tmpj6fck](../notes.d/NOTE-tmpj6fck.md).
 
 ## The account
 
@@ -49,6 +49,6 @@ and show no collective structure.
 
 ## Bearing
 
-QUESTION-281: measured behavioral states as metastable basins with
+[QUESTION-281](../questions.d/QUESTION-281.md): measured behavioral states as metastable basins with
 heavy-tailed residences, a case of distinctions that persist and give way;
 the transitions themselves are not identified.

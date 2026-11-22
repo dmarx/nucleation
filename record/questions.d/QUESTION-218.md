@@ -144,9 +144,9 @@ no timing to entrain. No status change.
 Evidence on the unit a boundary test should take. Ott and Antonsen's order
 parameter is a function of the whole state, exactly closed on an invariant
 manifold under uniform coupling, where no subset of members is a block
-(THEORY-tmpmvcnr, NOTE-tmpd7trg); in their model of communities of
+([THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md), [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md)); in their model of communities of
 oscillators each community's order parameter closes at any coupling
 between communities, weak or strong. So a test that takes functions of
 the whole state finds closed units that tests on member subsets miss, as
-CLAIM-388 found in a linear model. It does not say whether such a unit is
-one system. THEORY-tmpmvcnr bears on this question.
+[CLAIM-388](../claims.d/CLAIM-388.md) found in a linear model. It does not say whether such a unit is
+one system. [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) bears on this question.

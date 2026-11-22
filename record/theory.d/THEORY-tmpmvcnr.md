@@ -23,12 +23,12 @@ bears_on:
 - QUESTION-281
 - QUESTION-252
 summary: >-
-  Ott and Antonsen (2008), LIT-2248, read in full in NOTE-tmpd7trg. The
+  Ott and Antonsen (2008), [LIT-2248](../literature.d/LIT-2248.md), read in full in [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md). The
   reduction is exact on a restricted class of states and needs no small
-  parameter. It is a nonlinear case of CLAIM-388's closure of a collective
-  variable without a block, and the candidate defeater of CLAIM-478 that
-  LEAD-094 names; the verdict is filed as alternatives (CLAIM-tmpa694z,
-  CLAIM-tmpervl4). Proposed until the invariance and eq. 10 are confirmed
+  parameter. It is a nonlinear case of [CLAIM-388](../claims.d/CLAIM-388.md)'s closure of a collective
+  variable without a block, and the candidate defeater of [CLAIM-478](../claims.d/CLAIM-478.md) that
+  [LEAD-094](../leads.d/LEAD-094.md) names; the verdict is filed as alternatives ([CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md),
+  [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md)). Proposed until the invariance and eq. 10 are confirmed
   independently.
 ---
 <!-- inactive-ok-file: THEORY-tmp0d58z CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq — Proposed or new; the sequel's reading and the verdict filed from this one -->
@@ -39,8 +39,8 @@ summary: >-
 ## Source
 
 Ott and Antonsen (2008), "Low Dimensional Behavior of Large Systems of
-Globally Coupled Oscillators", *Chaos* 18: 037113, LIT-2248, read from the
-arXiv preprint in NOTE-tmpd7trg.
+Globally Coupled Oscillators", *Chaos* 18: 037113, [LIT-2248](../literature.d/LIT-2248.md), read from the
+arXiv preprint in [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md).
 
 ## The account
 
@@ -58,24 +58,24 @@ infinitely many degrees of freedom whose linearization has "a continuous
 spectrum of neutral modes" (p. 9): the order parameter's law is closed
 without those degrees of freedom relaxing. The paper leaves open whether
 the manifold attracts (note 24); the sequel answers it for the order
-parameter (THEORY-tmp0d58z).
+parameter ([THEORY-tmp0d58z](THEORY-tmp0d58z.md)).
 
 ## Conditions
 
 Infinite N, all-to-all coupling, coupling through the first harmonic of
-the phase difference only. CLAIM-tmpo6ehq shows that a second harmonic
+the phase difference only. [CLAIM-tmpo6ehq](../claims.d/CLAIM-tmpo6ehq.md) shows that a second harmonic
 breaks the invariance except at full locking.
 
 ## Bearing
 
-- It corroborates CLAIM-388: a function of the whole state is exactly
+- It corroborates [CLAIM-388](../claims.d/CLAIM-388.md): a function of the whole state is exactly
   closed under uniform coupling, where no subset of units is a block, now
   in a nonlinear model.
-- It bears on QUESTION-218 (the closed variable is a function of the whole
+- It bears on [QUESTION-218](../questions.d/QUESTION-218.md) (the closed variable is a function of the whole
   state, and in the community model one per community at any coupling
-  between them), on QUESTION-281 (the locking onset as an instability with
-  an exact low-dimensional law) and on QUESTION-252 (closure and fidelity
+  between them), on [QUESTION-281](../questions.d/QUESTION-281.md) (the locking onset as an instability with
+  an exact low-dimensional law) and on [QUESTION-252](../questions.d/QUESTION-252.md) (closure and fidelity
   hold on the manifold while the omitted variables neither relax nor are
   slaved).
-- Its bearing on CLAIM-478's defeater (a) is contested; see
-  CLAIM-tmpa694z and CLAIM-tmpervl4.
+- Its bearing on [CLAIM-478](../claims.d/CLAIM-478.md)'s defeater (a) is contested; see
+  [CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md) and [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md).

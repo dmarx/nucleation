@@ -22,17 +22,17 @@ grounds:
 bears_on:
 - QUESTION-252
 summary: >-
-  Fills a gap in Ott and Antonsen 2008 (NOTE-tmpd7trg): the paper uses
+  Fills a gap in Ott and Antonsen 2008 ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md)): the paper uses
   first-harmonic coupling throughout and does not say that the invariance
   needs it, and the verdict on whether its reduction is typical enough to
-  be CLAIM-478's defeater (a) turns on that. Derived and checked
+  be [CLAIM-478](CLAIM-478.md)'s defeater (a) turns on that. Derived and checked
   numerically (scratch/studies/lead-094/oa_invariance.py, with a pytest).
   The result is known in the literature on higher-harmonic coupling, which
   the record does not hold; it is filed here as the record's own check.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpmvcnr CLAIM-478 — Proposed; the reading this fills a gap in and the claim the gap matters for -->
+<!-- inactive-ok-file: CLAIM-478 — Proposed; the reading this fills a gap in and the claim the gap matters for -->
 
 # CLAIM-tmpo6ehq: Ott and Antonsen's family of oscillator distributions, with phase Fourier coefficients αⁿ, stays invariant only when the coupling carries the first harmonic of the phase alone: a second harmonic couples each coefficient to the one two places below, which for the first coefficient is the conjugate α* and for the others is a power of α, so the family is left everywhere except at full locking, |α| = 1
 

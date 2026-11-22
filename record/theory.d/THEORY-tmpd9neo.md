@@ -18,11 +18,11 @@ date: '2026-11-22'
 source:
 - LIT-2252
 summary: >-
-  Müller (2026), LIT-2252, skimmed in NOTE-tmpnfczs. A hypothesis with
+  Müller (2026), [LIT-2252](../literature.d/LIT-2252.md), skimmed in [NOTE-tmpnfczs](../notes.d/NOTE-tmpnfczs.md). A hypothesis with
   stated predictions, supported so far by examples. It reads Haken's
-  enslavement causally, where Schmietendorf (THEORY-tmpkt3xf) cautions
+  enslavement causally, where Schmietendorf ([THEORY-tmpkt3xf](THEORY-tmpkt3xf.md)) cautions
   that the slaving principle supports by itself only a descriptive reading.
-  Notes on CLAIM-526 and CLAIM-327, no edges. Proposed until its
+  Notes on [CLAIM-526](../claims.d/CLAIM-526.md) and [CLAIM-327](../claims.d/CLAIM-327.md), no edges. Proposed until its
   predictions are tested; the promote_when asks for intervention evidence
   for the constraint it names.
 ---
@@ -34,8 +34,8 @@ summary: >-
 
 Müller (2026), "Self-organization and circular causation as synergetic
 foundations of social interaction: a multilayer network perspective",
-*Frontiers in Network Physiology* 6: 1776969, LIT-2252, skimmed in
-NOTE-tmpnfczs.
+*Frontiers in Network Physiology* 6: 1776969, [LIT-2252](../literature.d/LIT-2252.md), skimmed in
+[NOTE-tmpnfczs](../notes.d/NOTE-tmpnfczs.md).
 
 ## The account
 
@@ -51,7 +51,7 @@ coupling, and bidirectional influence across scales.
 
 ## Bearing
 
-On CLAIM-526, its sixth prediction would test whether social order
+On [CLAIM-526](../claims.d/CLAIM-526.md), its sixth prediction would test whether social order
 parameters have dynamics of their own, but only by intervention, not by
-bidirectional dependence (CLAIM-334). On CLAIM-327, its order parameters
+bidirectional dependence ([CLAIM-334](../claims.d/CLAIM-334.md)). On [CLAIM-327](../claims.d/CLAIM-327.md), its order parameters
 constrain only if read and acted on. Notes only.

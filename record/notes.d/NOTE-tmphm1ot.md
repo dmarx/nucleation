@@ -28,7 +28,7 @@ summary: >-
   Bedau's weak emergence makes enslavement reducible, diachronic downward
   causation; Bishop's downward causation through constraints makes it
   irreducible. Synergetics alone settles neither, and the author finds the
-  debate leaning reductionist. The reading is THEORY-tmpkt3xf.
+  debate leaning reductionist. The reading is [THEORY-tmpkt3xf](../theory.d/THEORY-tmpkt3xf.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpkt3xf — Proposed; this reading's account -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-327 — Proposed; claims the reading bears on -->
@@ -39,7 +39,7 @@ summary: >-
 ## Contribution
 
 A map of how enslavement and circular causality can be read
-metaphysically, for a scientific audience. The reading is THEORY-tmpkt3xf.
+metaphysically, for a scientific audience. The reading is [THEORY-tmpkt3xf](../theory.d/THEORY-tmpkt3xf.md).
 
 ## Key results
 
@@ -89,23 +89,23 @@ contextual emergence (Bishop, Ellis).
 
 ## Bearing on the record
 
-- **CLAIM-478** (note only). Key result 1 restates the claim's second
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (note only). Key result 1 restates the claim's second
   half as Haken's: a critical point makes the separation, and the slow
   modes become order parameters. It is a secondary account, so not
   independent evidence. Key result 2 marks a limit the claim should keep
   in view: it calls the settled relation a constraint in Montévil and
   Mossio's sense, which is the descriptive reading plus a time-scale
   condition, not the causal reading Stephan warns against.
-- **CLAIM-526** (note only). The paper's verdict, that whether the order
+- **[CLAIM-526](../claims.d/CLAIM-526.md)** (note only). The paper's verdict, that whether the order
   parameter has causal efficacy of its own is not settled by the
   dynamics, fits the claim's point that a closed collective variable can
   be an aggregate coexisting with its realization.
-- **CLAIM-327** and **CLAIM-334** (note only). The record's own
+- **[CLAIM-327](../claims.d/CLAIM-327.md)** and **[CLAIM-334](../claims.d/CLAIM-334.md)** (note only). The record's own
   conditions for a slow collective variable being part of the dynamics
   (read and acted on) and its caution about macro-to-micro Granger
   causation are finer instruments than the descriptive and causal readings
   the paper contrasts.
-- **Haken 1975** (LIT-2255, unavailable). This paper restates the slaving
+- **Haken 1975** ([LIT-2255](../literature.d/LIT-2255.md), unavailable). This paper restates the slaving
   account in two sentences; it stands in for the review only that far.
 
 ## Limitations

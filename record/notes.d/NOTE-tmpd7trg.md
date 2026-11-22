@@ -23,9 +23,9 @@ summary: >-
   ordinary differential equations, exactly, while the distribution on M
   stays infinite-dimensional, with a continuous spectrum of neutral modes.
   Whether M attracts is left open (note 24). Read for the question whether
-  this is the defeater (a) of CLAIM-478; the reading is THEORY-tmpmvcnr,
-  and the verdict is filed as alternatives, CLAIM-tmpa694z and
-  CLAIM-tmpervl4.
+  this is the defeater (a) of [CLAIM-478](../claims.d/CLAIM-478.md); the reading is [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md),
+  and the verdict is filed as alternatives, [CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md) and
+  [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpmvcnr CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq ARG-tmp5xhiv — Proposed or new; this reading and the entries filed from it -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 CLAIM-626 — Proposed; the entries the reading bears on -->
@@ -37,7 +37,7 @@ summary: >-
 An ansatz that turns the continuum Kuramoto problem, and several of its
 extensions, into a finite set of ordinary differential equations for the
 order parameter, exactly, on a restricted class of states. The reading is
-THEORY-tmpmvcnr.
+[THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md).
 
 ## Key results
 
@@ -82,7 +82,7 @@ THEORY-tmpmvcnr.
    r(t) = 0 for all t built from higher harmonics alone. And (§V, p. 13):
    "can any rigorous results be obtained relevant to whether our
    macroscopic order-parameter attractors obtained by considering f in the
-   manifold M have general validity". The sequel (NOTE-tmp5oph4) answers
+   manifold M have general validity". The sequel ([NOTE-tmp5oph4](NOTE-tmp5oph4.md)) answers
    this for the order parameter.
 
 ## Assumptions
@@ -90,7 +90,7 @@ THEORY-tmpmvcnr.
 - N → ∞; all-to-all coupling; a phase velocity carrying the first
   harmonic of the phase only (sin(θⱼ − θᵢ) and a sinusoidal drive). The
   paper does not say that a second harmonic would break the invariance;
-  CLAIM-tmpo6ehq shows it does.
+  [CLAIM-tmpo6ehq](../claims.d/CLAIM-tmpo6ehq.md) shows it does.
 - α analytic in the lower half ω-plane and decaying there; |α| ≤ 1.
 - Finite dimension needs a rational g(ω); a Gaussian g gives an
   infinite-dimensional reduced system. For the drive problem the authors
@@ -105,37 +105,37 @@ evaluation that makes the frequency integral finite-dimensional.
 
 ## Bearing on the record
 
-- **CLAIM-478, defeater (a).** The reduction is exact and needs no small
+- **[CLAIM-478](../claims.d/CLAIM-478.md), defeater (a).** The reduction is exact and needs no small
   parameter: nothing on M relaxes onto anything (key result 5). What
   makes the order parameter's law closed is the invariance of a family of
   states under the first-harmonic form of the coupling, together with the
   analytic structure of g. Whether that meets (a) depends on whether an
   exact invariance counts as the persistence the defeater requires to be
-  absent; the two readings are filed as alternatives, CLAIM-tmpa694z (not
-  met; leaned to) and CLAIM-tmpervl4 (met within the class), with
-  ARG-tmp5xhiv. Near the threshold the same equations illustrate the
+  absent; the two readings are filed as alternatives, [CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md) (not
+  met; leaned to) and [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md) (met within the class), with
+  [ARG-tmp5xhiv](../arguments.d/ARG-tmp5xhiv.md). Near the threshold the same equations illustrate the
   claim's second half: the collective mode's damping rate 1 − K/2 goes to
   zero at Kc = 2 (key result 4).
-- **CLAIM-388** (corroborates). A nonlinear case of the same shape: under
+- **[CLAIM-388](../claims.d/CLAIM-388.md)** (corroborates). A nonlinear case of the same shape: under
   uniform all-to-all coupling, where no subset of oscillators is a weakly
   coupled block, a function of the whole state, the order parameter, is
   exactly closed on M.
-- **QUESTION-218** (bears on). The closed variable is a function of the
+- **[QUESTION-218](../questions.d/QUESTION-218.md)** (bears on). The closed variable is a function of the
   whole state, not a subset of members; in the community model (eq. 15)
   each community's order parameter closes at any inter-community coupling.
-- **CLAIM-157** (note only). The community order parameters close
+- **[CLAIM-157](../claims.d/CLAIM-157.md)** (note only). The community order parameters close
   whether or not the communities are weakly coupled blocks, a closure the
-  block criterion does not register (as CLAIM-388 found for the linear
+  block criterion does not register (as [CLAIM-388](../claims.d/CLAIM-388.md) found for the linear
   case).
-- **CLAIM-626** and **CLAIM-481** (note only). On M the coupling slows the
+- **[CLAIM-626](../claims.d/CLAIM-626.md)** and **[CLAIM-481](../claims.d/CLAIM-481.md)** (note only). On M the coupling slows the
   collective mode as K → Kc; with the sequel's attraction rate of at least
   the frequency spread, the reduction sits on a separation that the
-  instability makes, which is CLAIM-626's first case.
-- **QUESTION-281** (bears on). The onset of partial locking at Kc is an
+  instability makes, which is [CLAIM-626](../claims.d/CLAIM-626.md)'s first case.
+- **[QUESTION-281](../questions.d/QUESTION-281.md)** (bears on). The onset of partial locking at Kc is an
   instability amplifying small differences, here with an exact
   low-dimensional law; the driven problem adds the folds and limit cycle
   of eq. 14.
-- **QUESTION-252** (bears on). On M the order parameter's law is closed
+- **[QUESTION-252](../questions.d/QUESTION-252.md)** (bears on). On M the order parameter's law is closed
   and memoryless while the omitted variables are neither slaved nor
   decaying; off M the 2008 paper does not say.
 

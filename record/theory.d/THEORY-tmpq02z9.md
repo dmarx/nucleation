@@ -20,9 +20,9 @@ bears_on:
 - QUESTION-281
 summary: >-
   Augustsson, Cestnik, Wolfrum, Bick, Yanchuk and Martens (2026),
-  LIT-2244, read in NOTE-tmp3oxzv (supplement unread). Numerical, with
+  [LIT-2244](../literature.d/LIT-2244.md), read in [NOTE-tmp3oxzv](../notes.d/NOTE-tmp3oxzv.md) (supplement unread). Numerical, with
   exact reductions on invariant cluster subspaces. It bears on
-  QUESTION-281 as a case of a distinction made at an instability, kept
+  [QUESTION-281](../questions.d/QUESTION-281.md) as a case of a distinction made at an instability, kept
   through changes of dynamics, and remade by crises. Proposed until
   reproduced independently.
 ---
@@ -33,7 +33,7 @@ summary: >-
 
 Augustsson, Cestnik, Wolfrum, Bick, Yanchuk and Martens (2026),
 "Self-organizing Chimera States in Adaptive Networks", arXiv 2608.20517,
-LIT-2244, read in NOTE-tmp3oxzv.
+[LIT-2244](../literature.d/LIT-2244.md), read in [NOTE-tmp3oxzv](../notes.d/NOTE-tmp3oxzv.md).
 
 ## The account
 
@@ -51,7 +51,7 @@ The landscape is highly multistable and path-dependent.
 
 ## Bearing
 
-QUESTION-281: the distinction between the groups comes into being at an
+[QUESTION-281](../questions.d/QUESTION-281.md): the distinction between the groups comes into being at an
 instability of synchrony, is kept through bifurcations of one group's
 dynamics, and passes away in jumps. Keeping and making come apart here:
 the membership persists while the dynamics changes, and changes only at

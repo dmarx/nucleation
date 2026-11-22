@@ -25,14 +25,14 @@ corroborates:
 bears_on:
 - QUESTION-391
 summary: >-
-  Caprioglio and Berthouze (2024), LIT-2241, read in NOTE-tmp3gqv7
+  Caprioglio and Berthouze (2024), [LIT-2241](../literature.d/LIT-2241.md), read in [NOTE-tmp3gqv7](../notes.d/NOTE-tmp3gqv7.md)
   (appendices skipped). Numerical, one network family, N = 512. It
-  corroborates CLAIM-478's first half with its version-5 condition, a gap
-  between levels large against the spread within, and CLAIM-157's
-  gap-isolated block as the unit; and it bears on QUESTION-391, since the
+  corroborates [CLAIM-478](../claims.d/CLAIM-478.md)'s first half with its version-5 condition, a gap
+  between levels large against the spread within, and [CLAIM-157](../claims.d/CLAIM-157.md)'s
+  gap-isolated block as the unit; and it bears on [QUESTION-391](../questions.d/QUESTION-391.md), since the
   coarse-grained description fails as the gap closes. It also shows an
   Ott–Antonsen-based reduction of a network holding only with a large gap,
-  which supports CLAIM-tmpa694z. Proposed until reproduced independently.
+  which supports [CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md). Proposed until reproduced independently.
 ---
 <!-- inactive-ok-file: CLAIM-tmpa694z — Proposed; the verdict of LEAD-094 this reading supports -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 — Proposed; the claims this reading corroborates -->
@@ -43,8 +43,8 @@ summary: >-
 
 Caprioglio and Berthouze (2024), "Emergence of metastability in frustrated
 oscillatory networks: the key role of hierarchical modularity", *Frontiers
-in Network Physiology* 4: 1436046, LIT-2241, read from the arXiv preprint
-in NOTE-tmp3gqv7.
+in Network Physiology* 4: 1436046, [LIT-2241](../literature.d/LIT-2241.md), read from the arXiv preprint
+in [NOTE-tmp3gqv7](../notes.d/NOTE-tmp3gqv7.md).
 
 ## The account
 
@@ -63,9 +63,9 @@ resynchronize under the slow modes' influence.
 
 ## Bearing
 
-Evidence for CLAIM-478's first half (a gap between levels makes the
-module a unit that constrains its members) and for CLAIM-157's
-gap-isolated block; on QUESTION-391, the slow description fails when the
+Evidence for [CLAIM-478](../claims.d/CLAIM-478.md)'s first half (a gap between levels makes the
+module a unit that constrains its members) and for [CLAIM-157](../claims.d/CLAIM-157.md)'s
+gap-isolated block; on [QUESTION-391](../questions.d/QUESTION-391.md), the slow description fails when the
 fast modes come back as the gap closes. Its reduction to an Ott–Antonsen
-model held only with a large gap, which bears on the verdict of LEAD-094
-(CLAIM-tmpa694z).
+model held only with a large gap, which bears on the verdict of [LEAD-094](../leads.d/LEAD-094.md)
+([CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md)).

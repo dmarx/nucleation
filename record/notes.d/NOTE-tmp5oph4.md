@@ -23,7 +23,7 @@ summary: >-
   the manifold is inertial in a frequency-weighted metric, not for the
   distribution itself. The decay is phase mixing, bounded below by rate Δ;
   the proof uses no ratio of rates. For Δ = 0 there is long-time motion off
-  the manifold. The reading is THEORY-tmp0d58z.
+  the manifold. The reading is [THEORY-tmp0d58z](../theory.d/THEORY-tmp0d58z.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp0d58z CLAIM-tmpa694z CLAIM-tmpervl4 — Proposed or new; this reading and the verdict filed from it -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim the reading bears on -->
@@ -36,7 +36,7 @@ A proof that the 2008 reduced manifold attracts the order parameter's
 dynamics whenever the oscillators' frequencies are spread, which makes the
 reduction a method for all long-time macroscopic behaviour of the class,
 not only for states prepared on the manifold. The reading is
-THEORY-tmp0d58z.
+[THEORY-tmp0d58z](../theory.d/THEORY-tmp0d58z.md).
 
 ## Key results
 
@@ -95,19 +95,19 @@ manifold relative to a chosen metric.
 
 ## Bearing on the record
 
-- **CLAIM-478, defeater (a).** This is what makes the 2008 reduction a
+- **[CLAIM-478](../claims.d/CLAIM-478.md), defeater (a).** This is what makes the 2008 reduction a
   serious candidate: the closed law is not only exact on M but reached from
   outside it, for every ∆ > 0, with no condition that the approach be
   faster than the dynamics on M. The approach rate is bounded below by ∆,
   and the rates on M are ∆ − K/2 below locking and of order K/2 − ∆ above
-  it (NOTE-tmpd7trg, key result 4), so in the locked regime with K > 4∆
+  it ([NOTE-tmpd7trg](NOTE-tmpd7trg.md), key result 4), so in the locked regime with K > 4∆
   the guaranteed approach is slower than the dynamics it constrains. The
-  verdict is filed as alternatives, CLAIM-tmpa694z and CLAIM-tmpervl4.
-- **QUESTION-391** (bears on). An effective law ceasing to hold because
+  verdict is filed as alternatives, [CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md) and [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md).
+- **[QUESTION-391](../questions.d/QUESTION-391.md)** (bears on). An effective law ceasing to hold because
   suppressed degrees of freedom become important: here it fails as the
   frequency spread goes to zero, when phase mixing stops and motion off
   the manifold persists (key result 7).
-- **CLAIM-405** (note only). Whether the population approaches a
+- **[CLAIM-405](../claims.d/CLAIM-405.md)** (note only). Whether the population approaches a
   low-dimensional state depends on the metric: yes in the
   frequency-weighted metric µ, no for the distribution (key results 4,
   6). Fixing the metric fixes the verdict, as the claim says.

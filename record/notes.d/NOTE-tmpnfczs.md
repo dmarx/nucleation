@@ -29,7 +29,7 @@ summary: >-
   constrain the individuals. It states six falsifiable predictions, from
   emergence of order parameters with coupling to instability under
   excessive coupling and bidirectional influence across scales. Support
-  is by examples. The reading is THEORY-tmpd9neo.
+  is by examples. The reading is [THEORY-tmpd9neo](../theory.d/THEORY-tmpd9neo.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpd9neo — Proposed; this reading's account -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-327 — Proposed; claims the reading bears on -->
@@ -40,7 +40,7 @@ summary: >-
 
 A framework that carries Haken's order parameters and circular causality
 into multilayer network models of social interaction, with stated
-predictions. The reading is THEORY-tmpd9neo.
+predictions. The reading is [THEORY-tmpd9neo](../theory.d/THEORY-tmpd9neo.md).
 
 ## Key results
 
@@ -81,17 +81,17 @@ hyper-brain network.
 
 ## Bearing on the record
 
-- **CLAIM-526** (note only). Prediction 6 is a test of the claim's
+- **[CLAIM-526](../claims.d/CLAIM-526.md)** (note only). Prediction 6 is a test of the claim's
   question, whether a collective variable has dynamics of its own closed
   against its realization; but "bidirectional influences" between an
   order parameter and the signals it is computed from would not settle it,
-  for the reason CLAIM-334 gives for macro-to-micro Granger causation.
-- **CLAIM-327** (note only). The paper's social order parameters
+  for the reason [CLAIM-334](../claims.d/CLAIM-334.md) gives for macro-to-micro Granger causation.
+- **[CLAIM-327](../claims.d/CLAIM-327.md)** (note only). The paper's social order parameters
   constrain individuals only if read and acted on, which is the claim's
   condition; the paper does not separate the cases.
-- **CLAIM-478** (note only). The framework does not use rate separation;
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (note only). The framework does not use rate separation;
   it takes synergetics' order parameters as given.
-- **Schmietendorf 2026** (NOTE-tmphm1ot) is the same journal's caution
+- **Schmietendorf 2026** ([NOTE-tmphm1ot](NOTE-tmphm1ot.md)) is the same journal's caution
   about reading enslavement causally; this paper reads it causally.
 
 ## Limitations

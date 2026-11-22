@@ -294,7 +294,7 @@ The claim is unchanged.
 
 ## Note of 2026-11-22: Kaur, Jain and Berman, read
 
-A parallel, no edge. Kaur, Jain and Berman (THEORY-tmpqdy16) find slow
+A parallel, no edge. Kaur, Jain and Berman ([THEORY-tmpqdy16](../theory.d/THEORY-tmpqdy16.md)) find slow
 behavioral states, which bias fast movement, as metastable basins in a
 transfer operator's slow eigenvectors: slowness as an operational mark of
 a behavioral level. They add a caution: where the gap between fast and

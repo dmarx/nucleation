@@ -139,6 +139,6 @@ relation is written.
 
 A parallel in an exact model, no edge. Near the Kuramoto threshold the
 collective mode slows (damping rate Δ − K/2 → 0) while the approach to Ott
-and Antonsen's reduced manifold stays at least Δ (NOTE-tmpd7trg,
-NOTE-tmp5oph4), so reduction to the order parameter improves as the mode
+and Antonsen's reduced manifold stays at least Δ ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md),
+[NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)), so reduction to the order parameter improves as the mode
 slows: this claim's first case.

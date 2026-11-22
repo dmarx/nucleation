@@ -30,7 +30,7 @@ summary: >-
   enabler: a fixed point's ghost, cycles of saddles with delays or
   asymmetric stimuli, phase-lagged chimeras, chaotic itinerancy. Dwell
   times may tell the two apart: exponential for noise-driven multistability,
-  gamma-like in metastable models. The reading is THEORY-tmp31kx6.
+  gamma-like in metastable models. The reading is [THEORY-tmp31kx6](../theory.d/THEORY-tmp31kx6.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp31kx6 NOTE-tmpj6fck CLAIM-478 — Proposed or Skimmed; this reading's account, a reading set beside it, and a claim it bears on -->
 
@@ -40,7 +40,7 @@ summary: >-
 
 A definition of metastability against multistability, a catalogue of the
 dynamical routes to it, and a proposed test. The reading is
-THEORY-tmp31kx6.
+[THEORY-tmp31kx6](../theory.d/THEORY-tmp31kx6.md).
 
 ## Key results
 
@@ -89,19 +89,19 @@ the Kuramoto order parameter, among others); dwell-time distribution.
 
 ## Bearing on the record
 
-- **QUESTION-281** (bears on). The review separates two of the question's
+- **[QUESTION-281](../questions.d/QUESTION-281.md)** (bears on). The review separates two of the question's
   transitions: escape across a barrier from a stable state by noise
   (multistability), and passage near saddles or a fixed point's ghost
   without noise (metastability), and proposes dwell-time statistics to
   tell them apart in data. A form that dwells near a saddle is
   transient by design; one held in a basin is stable until a fluctuation.
 - **The other readings of this lead.** Caprioglio and Berthouze
-  (NOTE-tmp3gqv7) and Augustsson and colleagues (NOTE-tmp3oxzv) report
+  ([NOTE-tmp3gqv7](NOTE-tmp3gqv7.md)) and Augustsson and colleagues ([NOTE-tmp3oxzv](NOTE-tmp3oxzv.md)) report
   metastable chimeras in Kuramoto-type models, the class the review says
   has not been shown to contain saddles; Kaur and colleagues
-  (NOTE-tmpj6fck) find heavy-tailed, truncated power-law residences, which
+  ([NOTE-tmpj6fck](NOTE-tmpj6fck.md)) find heavy-tailed, truncated power-law residences, which
   are neither the exponential nor the gamma of key result 4.
-- **CLAIM-478** (note only). The slowing near a fixed point's ghost is
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (note only). The slowing near a fixed point's ghost is
   slowing near a former bifurcation, the claim's second-half setting, but
   the review does not tie it to constraint.
 

@@ -549,8 +549,8 @@ change.
 ## Note of 2026-11-22: Ott and Antonsen, read
 
 The candidate this claim's note of 2026-11-07 added to defeater (a), read
-for LEAD-094 with its sequel (NOTE-tmpd7trg, NOTE-tmp5oph4; the readings
-are THEORY-tmpmvcnr and THEORY-tmp0d58z). A18's description checks: the
+for [LEAD-094](../leads.d/LEAD-094.md) with its sequel ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), [NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md); the readings
+are [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) and [THEORY-tmp0d58z](../theory.d/THEORY-tmp0d58z.md)). A18's description checks: the
 reduction is exact on an invariant manifold and needs no small parameter,
 and the sequel shows that the manifold attracts the order parameter
 whenever the oscillators' frequencies are spread, with no condition on
@@ -559,14 +559,14 @@ continuous spectrum of neutral modes.
 
 Whether that meets (a) turns on two things: whether an exact invariance
 counts as the persistence (a) requires to be absent, and whether the class
-is typical. CLAIM-tmpo6ehq shows the invariance needs coupling through the
-first harmonic alone. Filed as alternatives, with ARG-tmp5xhiv:
+is typical. [CLAIM-tmpo6ehq](CLAIM-tmpo6ehq.md) shows the invariance needs coupling through the
+first harmonic alone. Filed as alternatives, with [ARG-tmp5xhiv](../arguments.d/ARG-tmp5xhiv.md):
 
-- CLAIM-tmpa694z (leaned to): not met. The invariance is persistence in
+- [CLAIM-tmpa694z](CLAIM-tmpa694z.md) (leaned to): not met. The invariance is persistence in
   the limit, as this claim's note of 2026-11-02 ruled for exact
   conservation laws, and the class is narrow. The reduction is a worked
   case of "Not that separation is necessary".
-- CLAIM-tmpervl4: met within first-harmonic oscillator populations with
+- [CLAIM-tmpervl4](CLAIM-tmpervl4.md): met within first-harmonic oscillator populations with
   spread frequencies, since the approach to the manifold needs no faster
   rate and the off-manifold parts are averaged out rather than held by
   anything slower. It objects to this claim and would add
@@ -578,33 +578,33 @@ approach to the manifold stays at least Δ, so the instability makes the
 separation. No status change; choosing between the readings is the
 owner's.
 
-## Note of 2026-11-22 (later): the rest of LEAD-094's batch, read
+## Note of 2026-11-22 (later): the rest of [LEAD-094](../leads.d/LEAD-094.md)'s batch, read
 
-Six more of the batch's works were read or skimmed for LEAD-094.
+Six more of the batch's works were read or skimmed for [LEAD-094](../leads.d/LEAD-094.md).
 
-- **Caprioglio and Berthouze 2024** (THEORY-tmpgdriu, corroborates). In
+- **Caprioglio and Berthouze 2024** ([THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md), corroborates). In
   simulations of identical phase-frustrated oscillators on hierarchically
   modular networks, a module stays coherent, "a single macro-oscillator",
   only while the spectral gap between the lowest two layers is large; below
   a threshold the slower modes break it up. That is this claim's first half
   with its version-5 condition, a gap between levels large against the
   spread within. Their reduction of the network to an Ott–Antonsen-solvable
-  model held only with a large gap, which supports CLAIM-tmpa694z.
-- **Augustsson and colleagues 2026** (THEORY-tmpq02z9, a parallel). Slowly
+  model held only with a large gap, which supports [CLAIM-tmpa694z](CLAIM-tmpa694z.md).
+- **Augustsson and colleagues 2026** ([THEORY-tmpq02z9](../theory.d/THEORY-tmpq02z9.md), a parallel). Slowly
   adapting weights carry a self-organized split of identical oscillators,
   and the fast phases keep to it through changes of their own dynamics;
   the separation is imposed, not varied, so it is no test.
-- **Kaur, Jain and Berman 2026** (THEORY-tmpqdy16, a parallel). Slow
+- **Kaur, Jain and Berman 2026** ([THEORY-tmpqdy16](../theory.d/THEORY-tmpqdy16.md), a parallel). Slow
   behavioral states that organize fast movement are found as metastable
   basins; a wide gap between rates hides them from a single-resolution
   analysis. The separation that makes a level can hide it from a
   single-scale observer.
-- **Schmietendorf 2026** (THEORY-tmpkt3xf, a caution on wording). The
+- **Schmietendorf 2026** ([THEORY-tmpkt3xf](../theory.d/THEORY-tmpkt3xf.md), a caution on wording). The
   slaving principle supports by itself only a descriptive reading; this
   claim's "constraint" is Montévil and Mossio's, time-scale relative, and
   should not be read as the causal reading Stephan warns against.
 - **Lee and colleagues 2025** and **Hancock and colleagues 2024**
-  (THEORY-tmpp4w4k, THEORY-tmp31kx6) bear on QUESTION-281 rather than here.
+  ([THEORY-tmpp4w4k](../theory.d/THEORY-tmpp4w4k.md), [THEORY-tmp31kx6](../theory.d/THEORY-tmp31kx6.md)) bear on [QUESTION-281](../questions.d/QUESTION-281.md) rather than here.
 
 Haken 1975 and Yadav and colleagues 2026 have no lawful copy (both
 Unavailable); Fenichel 1979 and Knobloch 2015 stay Unfetched. No status

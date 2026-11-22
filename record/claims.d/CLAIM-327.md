@@ -211,7 +211,7 @@ The wait named on 2026-10-30 is not over. No case in the record shows the second
 
 ## Note of 2026-11-22: Müller, read
 
-A note, no edge. Müller 2026 (THEORY-tmpd9neo) holds that social order
+A note, no edge. Müller 2026 ([THEORY-tmpd9neo](../theory.d/THEORY-tmpd9neo.md)) holds that social order
 parameters, dynamical and structural, constrain the interacting
 individuals. On this claim's condition they do so only where members read
 and act on them; the paper does not separate those cases from

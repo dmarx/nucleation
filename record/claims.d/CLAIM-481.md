@@ -210,11 +210,11 @@ No status change.
 ## Note of 2026-11-22: Ott and Antonsen, read
 
 A parallel, no edge. In the Kuramoto model with Lorentzian frequencies of
-width Δ (NOTE-tmpd7trg, eq. 10) coupling slows the collective mode: its
+width Δ ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), eq. 10) coupling slows the collective mode: its
 damping rate is Δ − K/2 below locking and goes to zero at Kc = 2Δ, while
-the approach to the reduced law is bounded below by Δ (NOTE-tmp5oph4). So
+the approach to the reduced law is bounded below by Δ ([NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)). So
 there coupling makes a separation only near threshold, by bringing a mode
-to an instability, which is CLAIM-478's second half rather than this
+to an instability, which is [CLAIM-478](CLAIM-478.md)'s second half rather than this
 claim's dissipative splitting of collective and relative modes; far from
 threshold it makes none. Consistent with this claim: coupling does not by
 itself separate time scales.
@@ -222,7 +222,7 @@ itself separate time scales.
 ## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
 
 A parallel, no edge. In their hierarchically modular networks
-(THEORY-tmpgdriu) the gaps between time scales come from the Laplacian
+([THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md)) the gaps between time scales come from the Laplacian
 spectrum of the network's modular structure, the mechanism this claim gives
 for a Laplacian flow, and the authors use the gaps to explain which states
 appear in which layer.

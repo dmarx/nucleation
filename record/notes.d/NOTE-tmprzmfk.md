@@ -29,7 +29,7 @@ summary: >-
   the passage is not gradual, with a rate shift that coincides with a drop
   in estimated dissipation, and a bias toward ordered motifs that grows
   with dissipation, which the authors call emergent proofreading. The
-  reading is THEORY-tmpp4w4k.
+  reading is [THEORY-tmpp4w4k](../theory.d/THEORY-tmpp4w4k.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpp4w4k — Proposed; this reading's account -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; a claim the reading bears on -->
@@ -40,7 +40,7 @@ summary: >-
 
 An experimental system with tunable nonreciprocity, a state diagram, and
 two analysis tools for structure and for transitions between structures.
-The reading is THEORY-tmpp4w4k.
+The reading is [THEORY-tmpp4w4k](../theory.d/THEORY-tmpp4w4k.md).
 
 ## Key results
 
@@ -78,12 +78,12 @@ entropy production rate; proofreading.
 
 ## Bearing on the record
 
-- **QUESTION-281** (bears on). A measured passage between collective
+- **[QUESTION-281](../questions.d/QUESTION-281.md)** (bears on). A measured passage between collective
   states, made by a slowly drifting control parameter (development lowers
   nonreciprocity), that is abrupt rather than gradual and changes rate
   with dissipation. It names no bifurcation; the kind of transition is
   left open.
-- **CLAIM-478** (note only). The drifting control parameter is slow
+- **[CLAIM-478](../claims.d/CLAIM-478.md)** (note only). The drifting control parameter is slow
   against the collective's rearrangements, which is the setting of the
   claim's first half, but the paper does not use the separation.
 
