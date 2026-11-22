@@ -25,7 +25,7 @@ summary: >-
   next week's takes most of the rise away. A series lowers self-control
   unless it is seen as a precedent.
 ---
-<!-- inactive-ok-file: THEORY-067 CLAIM-169 CLAIM-198 CLAIM-156 LIT-tmpk7imr LIT-tmpj7m62 THEORY-tmp353ez — Proposed, Unavailable or new; the account and claims this reading bears on, the study it borrows from, and the companion reading -->
+<!-- inactive-ok-file: THEORY-067 CLAIM-169 CLAIM-198 CLAIM-156 — Proposed; the account and claims this reading bears on -->
 
 # NOTE-tmpq33n0: Khan and Dhar — The effect of future choices on self-control
 

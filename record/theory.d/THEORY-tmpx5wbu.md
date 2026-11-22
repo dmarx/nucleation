@@ -27,7 +27,6 @@ summary: >-
   humans without an imposed bundle; not for bundling by self-prediction,
   since every decision in the series is made at once.
 ---
-<!-- inactive-ok-file: THEORY-067 — Proposed; the account this reading bears on -->
 
 # THEORY-tmpx5wbu: Schuhr finds in a laboratory experiment with real money that intertemporal choices presented as a free series of two or three paired decisions, chosen at once, are more patient in their first choices than the same choices presented singly, and that forcing the paired decisions to match lowers patient choice, which he reads as reward bundling done by the chooser rather than imposed
 

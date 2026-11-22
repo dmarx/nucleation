@@ -44,7 +44,7 @@ summary: >-
   Unread; what is said of it is the abstract's and its readers' report,
   unverified until read.
 ---
-<!-- inactive-ok-file: THEORY-067 — Proposed; the account whose promotion condition names this study -->
+<!-- inactive-ok-file: THEORY-067 CLAIM-156 — Proposed; the account whose promotion condition names this study, and a claim that cited it -->
 
 # LIT-tmpk7imr: Making choices in anticipation of similar future choices can increase self-control
 

@@ -27,7 +27,7 @@ summary: >-
   differ between arms at any time; nothing lasted to follow-up. No
   mediation analysis.
 ---
-<!-- inactive-ok-file: CLAIM-156 CLAIM-169 LIT-906 THEORY-tmpbidvo ARG-tmpc8jqe — Proposed, Unavailable or new; the claim this reading bears on, its premise, the earlier study it is set beside, and the entries filed from it -->
+<!-- inactive-ok-file: CLAIM-156 LIT-906 ARG-tmpc8jqe — Proposed, Unavailable or new; the claim this reading bears on, the earlier study it is set beside, and the judgement filed from it -->
 
 # NOTE-tmp1yxz6: Ge, Xie, Sun, Fan, Zhang and Liu — Brief online mindfulness training and impulsivity
 

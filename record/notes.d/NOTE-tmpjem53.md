@@ -28,7 +28,7 @@ summary: >-
   chosen at once, so this is bundling by presentation, not by
   self-prediction across time.
 ---
-<!-- inactive-ok-file: THEORY-067 CLAIM-169 LIT-tmpk7imr LIT-tmpgi12m THEORY-tmpx5wbu — Proposed, Unavailable or new; the account and claim this reading bears on, the study it criticises and the companion reading -->
+<!-- inactive-ok-file: THEORY-067 CLAIM-169 LIT-tmpqbo3w — Proposed or Unavailable; the account and claim this reading bears on, and the related study it does not cite -->
 
 # NOTE-tmpjem53: Schuhr — An experiment on reward bundling
 
