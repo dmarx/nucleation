@@ -31,8 +31,8 @@ bears_on:
 - QUESTION-483
 - QUESTION-481
 summary: >-
-  For LEAD-033: the contractualist test applied to each construction of
-  CASE-tmpmcgjj as stated. C1 (grounds withheld): a courier can reject a
+  For [LEAD-033](../leads.d/LEAD-033.md): the contractualist test applied to each construction of
+  [CASE-tmpmcgjj](../cases.d/CASE-tmpmcgjj.md) as stated. C1 (grounds withheld): a courier can reject a
   principle that lets an institution end their work on grounds it
   withholds, since they cannot otherwise detect its errors. C2 (review
   controlled by the decider): they can reject a principle letting the
@@ -44,7 +44,7 @@ summary: >-
   will the rules others plan their lives around can be rejected on
   reasons of assurance. In each the reason is personal and the test ranks
   allocations of power by it without presupposing one, so the
-  constructions as stated support the supplement answer to QUESTION-483,
+  constructions as stated support the supplement answer to [QUESTION-483](../questions.d/QUESTION-483.md),
   as A106 §20 expected. Moral standing, being owed justification at all,
   is presupposed here as by any theory and is not counted as an import.
   The wording is the assistant's (Claude, in this session); adopting it
@@ -57,18 +57,18 @@ summary: >-
 
 ## What is tested
 
-QUESTION-483's supplement answer holds if every matched construction A102
+[QUESTION-483](../questions.d/QUESTION-483.md)'s supplement answer holds if every matched construction A102
 §12 proposes "is explained by principles persons could not reasonably
 reject, with no principle of standing or authority imported". The
-constructions are written out in CASE-tmpmcgjj, C1 to C4, the fourth
-being the one QUESTION-481 asks for. The test is THEORY-1971's:
+constructions are written out in [CASE-tmpmcgjj](../cases.d/CASE-tmpmcgjj.md), C1 to C4, the fourth
+being the one [QUESTION-481](../questions.d/QUESTION-481.md) asks for. The test is [THEORY-1971](../theory.d/THEORY-1971.md)'s:
 principles judged by individuals' reasons for objecting to a principle and
 its alternatives.
 
 "Importing a principle of standing" is read as importing a principle that
 fixes who holds a normative power (to decide, to review, to revise) which
 the test does not itself derive. It is not read as presupposing moral
-standing in TERM-083's sense, being owed justification at all: every
+standing in [TERM-083](../terms.d/TERM-083.md)'s sense, being owed justification at all: every
 theory presupposes whom it is answerable to, and on that reading every
 construction would import trivially and the test would decide nothing.
 This choice is the assistant's and is made so that the test can come out
@@ -94,7 +94,7 @@ decisions, does not answer this, because principles are judged ex ante,
 under the uncertainty in which they will govern. The alternative of W2
 costs the platform little. Here the test ranks two allocations of the
 review power by personal reasons and presupposes neither, as Scanlon
-says contractualism explains powers and not only claims (THEORY-1967).
+says contractualism explains powers and not only claims ([THEORY-1967](../theory.d/THEORY-1967.md)).
 Explained.
 
 **C3, eroded alternatives.** The test compares a principle with its
@@ -104,13 +104,13 @@ others' options by acts within its own sphere, and then to justify its
 terms by the narrowness, can be reasonably rejected on the courier's
 reasons of control over their own working life and of vulnerability; the
 platform's reason, its competitive advantage, does not outweigh them.
-CLAIM-747's point that the baseline is a product of the relationship is
+[CLAIM-747](CLAIM-747.md)'s point that the baseline is a product of the relationship is
 pressure against applying the test to the terms in year five against
 year-five options, and the test as stated does not do that: it applies to
-principles for the whole process, as CLAIM-741 requires that rights
+principles for the whole process, as [CLAIM-741](CLAIM-741.md) requires that rights
 protecting a choice constrain policies, not histories. Whether each act
 fell within the platform's sphere is itself settled by reasonable
-rejection on CLAIM-749's own account of a protected sphere. Explained.
+rejection on [CLAIM-749](CLAIM-749.md)'s own account of a protected sphere. Explained.
 
 **C4, rules revisable at will.** A principle letting one party amend at
 will, on notice, the rules others have arranged their working lives
@@ -128,4 +128,4 @@ expected ("a sophisticated contractualist can still recognize" the
 difference). They do not favour it by much: in each pair the
 explanation runs through what a holder of the power might do with it,
 so the constructions never isolate who holds a power from how it would
-be used. CLAIM-tmpduscr takes up the variants that do.
+be used. [CLAIM-tmpduscr](CLAIM-tmpduscr.md) takes up the variants that do.

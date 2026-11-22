@@ -30,8 +30,8 @@ bears_on:
 - QUESTION-483
 - QUESTION-481
 summary: >-
-  For LEAD-033, one of three alternatives on CLAIM-tmpduscr's variants
-  C2* and C4*, with CLAIM-tmpz92ao (a) and CLAIM-tmpn0ocj (b). With the
+  For [LEAD-033](../leads.d/LEAD-033.md), one of three alternatives on [CLAIM-tmpduscr](CLAIM-tmpduscr.md)'s variants
+  C2* and C4*, with [CLAIM-tmpz92ao](CLAIM-tmpz92ao.md) (a) and [CLAIM-tmpn0ocj](CLAIM-tmpn0ocj.md) (b). With the
   platform known to amend as the couriers would, the only complaint left
   is that the couriers do not hold the power. That is a complaint only if
   they are owed it: a reason "not to be under another's sole say" ranks
@@ -40,9 +40,9 @@ summary: >-
   theirs only given a prior principle that those governed by the rules
   are the ones who should hold the power to revise them. Reasonable
   rejection gets the verdict right by presupposing that principle, which
-  is QUESTION-483's "more than a supplement" answer in the multi-level
-  form Wenar gave it (THEORY-1988), and a candidate standing rule for
-  QUESTION-481. The wording is the assistant's (Claude, in this session);
+  is [QUESTION-483](../questions.d/QUESTION-483.md)'s "more than a supplement" answer in the multi-level
+  form Wenar gave it ([THEORY-1988](../theory.d/THEORY-1988.md)), and a candidate standing rule for
+  [QUESTION-481](../questions.d/QUESTION-481.md). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpmcgjj CLAIM-tmp72lji CLAIM-tmpduscr CLAIM-tmpz92ao CLAIM-tmpn0ocj — new, filed for LEAD-033 -->
@@ -52,11 +52,11 @@ summary: >-
 
 ## The reading
 
-**This is one of three alternatives.** The others are CLAIM-tmpz92ao,
-reading (a), and CLAIM-tmpn0ocj, reading (b). The choice is the owner's;
+**This is one of three alternatives.** The others are [CLAIM-tmpz92ao](CLAIM-tmpz92ao.md),
+reading (a), and [CLAIM-tmpn0ocj](CLAIM-tmpn0ocj.md), reading (b). The choice is the owner's;
 the assistant leans to (b).
 
-In C4* of CASE-tmpmcgjj nothing the platform does with the power to
+In C4* of [CASE-tmpmcgjj](../cases.d/CASE-tmpmcgjj.md) nothing the platform does with the power to
 revise differs from what the couriers would do with it. The only
 remaining complaint is that the couriers do not hold it. Reading (b)
 says the complaint is a personal reason of status, not to be under
@@ -71,23 +71,23 @@ each allocation that excludes them. To prefer the couriers' share,
 reasonable rejection needs a further judgment: that those whose working
 lives the rules govern are the ones owed a share of the power to revise
 them. That judgment fixes who holds a power; it is a principle of
-standing in the sense CLAIM-tmp72lji uses. The test does not derive it.
+standing in the sense [CLAIM-tmp72lji](CLAIM-tmp72lji.md) uses. The test does not derive it.
 It is the reason's precondition, so the test reaches the right verdict
 by importing it.
 
 ## What it gives the record
 
-This is QUESTION-483's "more than a supplement" answer: a case in which
+This is [QUESTION-483](../questions.d/QUESTION-483.md)'s "more than a supplement" answer: a case in which
 the legitimacy of an allocation of normative powers is fixed (W4 over
 W4′) and reasonable rejection gets it right only by presupposing who has
 standing. It is the form Wenar gave the objection, that contractualism
 "must be a multi-level theory", of authority over as well as of owing
-to (THEORY-1988). Scanlon's reply explains a promisee's power of release
-(THEORY-1967), but there the holder is fixed by the transaction: the
+to ([THEORY-1988](../theory.d/THEORY-1988.md)). Scanlon's reply explains a promisee's power of release
+([THEORY-1967](../theory.d/THEORY-1967.md)), but there the holder is fixed by the transaction: the
 promise is made to the promisee. For the power to revise an arrangement's
-rules there is no such transaction, which is what QUESTION-481 asks
+rules there is no such transaction, which is what [QUESTION-481](../questions.d/QUESTION-481.md) asks
 about; this reading offers its answer as a standing rule (those whose
-lives the rules govern), and CLAIM-720 marks its limit, that no
+lives the rules govern), and [CLAIM-720](CLAIM-720.md) marks its limit, that no
 allocation so fixed confers authority to extinguish a member's standing.
 
 ## What it must answer

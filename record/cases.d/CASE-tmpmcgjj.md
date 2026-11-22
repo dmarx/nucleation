@@ -18,11 +18,11 @@ bears_on:
 draws_on:
 - THEORY-1971
 summary: >-
-  For LEAD-033. The three matched constructions A102 §12 of the exchange
-  "Assess Depp Heard Abuse" proposes, as QUESTION-483 relays them
+  For [LEAD-033](../leads.d/LEAD-033.md). The three matched constructions A102 §12 of the exchange
+  "Assess Depp Heard Abuse" proposes, as [QUESTION-483](../questions.d/QUESTION-483.md) relays them
   (identical principles with different capacities to formulate
   objections; first-order authority fixed with control of review varied;
-  two regimes, one eroding alternatives), and the one QUESTION-481 asks
+  two regimes, one eroding alternatives), and the one [QUESTION-481](../questions.d/QUESTION-481.md) asks
   for (an arrangement that acts and corrects well while no one subject to
   it can change its governing rules, matched with one that differs only
   in that capacity), written out on one stipulated courier platform so
@@ -52,13 +52,13 @@ same couriers are deactivated, the same appeals are filed, and every
 decision that was correct under R stays, every one that was not is
 reversed. A pair differs in one stated respect and nothing else.
 
-The test applied to each pair is reasonable rejection as THEORY-1971
+The test applied to each pair is reasonable rejection as [THEORY-1971](../theory.d/THEORY-1971.md)
 states it: an arrangement is wrong to the extent that it is disallowed by
 every set of principles for it that no one could reasonably reject, judged
 by individuals' reasons for objecting to a principle and its
 alternatives. Whether the test explains a pair's difference "without
 importing principles of standing or authority" (A102 §12, relayed in
-QUESTION-483) is asked of each.
+[QUESTION-483](../questions.d/QUESTION-483.md)) is asked of each.
 
 ## C1: identical principles, different capacities to formulate objections
 
@@ -72,7 +72,7 @@ QUESTION-483) is asked of each.
 The courier in W1′ has the same right to appeal and the same reasons
 against a wrong decision, but cannot formulate the objection that a given
 delivery was not late, since they cannot tell which deliveries counted.
-This is A102 §2's split, held as a note on CLAIM-523, between reasons
+This is A102 §2's split, held as a note on [CLAIM-523](../claims.d/CLAIM-523.md), between reasons
 a person has and reasons the person can formulate.
 
 ## C2: first-order authority fixed, control of review varied
@@ -113,7 +113,7 @@ the body that reviews decisions over them and in W2′ they do not.
   offer.
 
 The terms in year five are identical. W3′'s narrowness of alternatives is
-a product of the relationship the terms govern, as CLAIM-747 has it.
+a product of the relationship the terms govern, as [CLAIM-747](../claims.d/CLAIM-747.md) has it.
 
 ## C4: the power to revise the governing rules
 
@@ -125,7 +125,7 @@ Both worlds review as W2 does, and both act and correct well.
   thirty days' notice; couriers have no say.
 
 On the stipulated history neither platform ever amends R. This is
-QUESTION-481's requested construction: an arrangement that acts and
+[QUESTION-481](../questions.d/QUESTION-481.md)'s requested construction: an arrangement that acts and
 corrects well while no one subject to it can change its governing rules
 (W4′), matched with one that differs only in that capacity (W4).
 

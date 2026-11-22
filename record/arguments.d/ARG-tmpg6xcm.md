@@ -17,17 +17,17 @@ line:
 - rightful-power
 - organizational-normativity
 summary: >-
-  For LEAD-033: the support CLAIM-tmp72lji's verdicts rest on. The test
-  (THEORY-1971) is applied to C1 to C4 of CASE-tmpmcgjj; in each, a
+  For [LEAD-033](../leads.d/LEAD-033.md): the support [CLAIM-tmp72lji](../claims.d/CLAIM-tmp72lji.md)'s verdicts rest on. The test
+  ([THEORY-1971](../theory.d/THEORY-1971.md)) is applied to C1 to C4 of [CASE-tmpmcgjj](../cases.d/CASE-tmpmcgjj.md); in each, a
   principle permitting the worse member is rejected on a reason about
   what its holder might do to the objector, and the test ranks the
   allocations of power by that reason without presupposing one, as
-  Scanlon says it explains powers (THEORY-1967). The two critical
+  Scanlon says it explains powers ([THEORY-1967](../theory.d/THEORY-1967.md)). The two critical
   questions of a formal application are answered: the mapping holds
   because each pair varies only a feature that changes individuals'
   reasons, and the test's assumption that only personal reasons count is
   met. The inference does not reach the variants C2* and C4*, where those
-  reasons are stipulated away (CLAIM-tmpduscr). The wording is the
+  reasons are stipulated away ([CLAIM-tmpduscr](../claims.d/CLAIM-tmpduscr.md)). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpmcgjj CLAIM-tmp72lji CLAIM-tmpduscr — new, filed for LEAD-033 -->
@@ -37,14 +37,14 @@ summary: >-
 
 ## The inference
 
-The test, as THEORY-1971 reports it: an act or arrangement is wrong when
+The test, as [THEORY-1971](../theory.d/THEORY-1971.md) reports it: an act or arrangement is wrong when
 every set of principles no one could reasonably reject disallows it,
 judged by individuals' reasons for objecting to a principle and its
 alternatives, and only by reasons about what happens to individuals. The
-constructions are C1 to C4 of CASE-tmpmcgjj. For each pair, the inference
+constructions are C1 to C4 of [CASE-tmpmcgjj](../cases.d/CASE-tmpmcgjj.md). For each pair, the inference
 names the principle permitting the worse member, the objector's reason,
 the other side's reason, and whether a principle permitting the better
-member survives; CLAIM-tmp72lji sets out each verdict.
+member survives; [CLAIM-tmp72lji](../claims.d/CLAIM-tmp72lji.md) sets out each verdict.
 
 | Pair | Principle rejected | Objector's reason | Other side's reason | Allocation presupposed? |
 |---|---|---|---|---|
@@ -71,11 +71,11 @@ member survives; CLAIM-tmp72lji sets out each verdict.
   reason depends on the objector's already being owed a share of a
   power. The assumption that the class of those to whom justification is
   owed is given (moral standing) is made, as it is by any theory, and
-  CLAIM-tmp72lji says why it is not counted as an import.
+  [CLAIM-tmp72lji](../claims.d/CLAIM-tmp72lji.md) says why it is not counted as an import.
 
 ## Scope
 
 The inference stops where its second answer stops. In C2* and C4* the
 protective reasons are stipulated away, and whether what remains is an
-admissible reason is the question CLAIM-tmpduscr sets and three
+admissible reason is the question [CLAIM-tmpduscr](../claims.d/CLAIM-tmpduscr.md) sets and three
 alternatives answer. This argument supports nothing about them.
