@@ -68,4 +68,5 @@
   THEORY-tmpjqe6l), CASE-177 note, LIT-1586/1602 notes.
 - Done: LIT-2395 skimmed (NOTE-tmpqvc1g, THEORY-tmp15tfp, corroborates
   CLAIM-661), CLAIM-661 note, LIT-2395 note.
-- Next: notes on CASE-171/173/174 (unverified); LEAD-138 note; changelog.
+- Done: notes on CASE-171/173/174 (unverified), on the ten unreached LITs, LEAD-138 note, changelog.
+- Next: report.

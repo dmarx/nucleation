@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpoa9h4
 title: 'Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont''s genome reduced to a seventh of E. coli''s'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -21,6 +21,10 @@ history:
     complete envelope loss"); THEORY-1051 ("That turns the case into a
     measurement"). First application of draws_on (ADR-095). No other
     change.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added for LEAD-138: its primary sources were not reached, so the facts it takes from them stay unverified. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -43,6 +47,7 @@ draws_on:
 - THEORY-1051
 ---
 <!-- inactive-ok-file: LIT-1573 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: LIT-1611 — Unfetched; tried for LEAD-138 and not reached, cited in the note of 2026-11-22 -->
 
 # CASE-173: Aphids and Buchnera: an obligate nutritional symbiosis in which neither partner reproduces alone, and the symbiont's genome reduced to a seventh of E. coli's
 
@@ -140,3 +145,16 @@ stands. Six corrections:
 
 Campbell et al. ([LIT-1590](../literature.d/LIT-1590.md), Table 1) cite 886 to 8,223 *Buchnera* cells per
 aphid egg across three aphid species, from earlier work.
+
+## Note of 2026-11-22: Moran 1996 not reached (LEAD-138)
+
+LEAD-138 tried LIT-1573 and did not reach it (PMC behind a reCAPTCHA,
+Europe PMC's full-text service and NCBI's E-utilities without its text,
+pnas.org behind Cloudflare, the Moran lab page failing TLS; LIT-1573's
+note of this date). So the case's account of *Buchnera*'s fast,
+A+T-biased evolution under Muller's ratchet with mutational bias stays
+**unverified**, and the drift attribution still rests on that unread
+work alone, as the note of 2026-10-27 (batch 2) said. LIT-1611 (Kuo et
+al. 2009), the general drift-and-genome-size work the lead also names,
+was not reached either. Held facts from LIT-1596 and LIT-1560 are
+unchanged. No status changes.

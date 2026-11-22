@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpir76a
 title: 'Mealybugs, Tremblaya and Moranella: a bacterium inside a bacterium inside an insect, amino-acid pathways patched together from three genomes and genes transferred from other bacteria, and an inner symbiont replaced several times while the transferred genes stayed'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -28,6 +28,10 @@ history:
     begin to go (THEORY-1049)"); THEORY-418 ("THEORY-418's test of whether
     complementation alone gives closure"). First application of draws_on
     (ADR-095). No other change.
+- version: 6
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added for LEAD-138: its primary sources were not reached, so the facts it takes from them stay unverified. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -112,3 +116,17 @@ transport and translation on [THEORY-1049](../theory.d/THEORY-1049.md)'s account
 into *Tremblaya*, or into any symbiont below 200 kb, has been shown. The
 nearest case the review names is *Nardonella* (0.20–0.23 Mbp), where
 import is unconfirmed.
+
+## Note of 2026-11-22: its sources not reached (LEAD-138)
+
+LEAD-138 tried all three works the case rests on, LIT-1565, LIT-1569
+and LIT-1572, and reached none (PMC behind a reCAPTCHA, Europe PMC's
+full-text service without them, cell.com and pnas.org behind
+Cloudflare, bioRxiv rate-limited; the routes are in each LIT's note of
+this date). So every fact the case takes from them is still
+**unverified**: the interspersed amino-acid pathways (LIT-1565);
+*Tremblaya*'s 139 kb, the "at least 22" transferred genes, none from
+*Tremblaya*, and the six lineages (LIT-1569); the single *Tremblaya*
+infection and repeated replacement of its inner symbiont, with the
+transferred genes stable (LIT-1572). Nothing read for the lead
+contradicts them. No status changes.

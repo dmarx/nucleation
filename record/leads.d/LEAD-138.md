@@ -27,6 +27,7 @@ summary: >-
   second-hand facts from these works. Named in [NOTE-1213](../notes.d/NOTE-1213.md). Filed by the
   backlog audit of 2026-11-19.
 ---
+<!-- inactive-ok-file: NOTE-tmpzlv8e THEORY-tmpd9ysz NOTE-tmp8zw3r THEORY-tmp4pf2m NOTE-tmpzfvzz THEORY-tmpjqe6l NOTE-tmpqvc1g THEORY-tmp15tfp CLAIM-661 — new or Proposed; the readings and the claim the note of 2026-11-22 reports -->
 <!-- inactive-ok-file: CASE-168 CASE-171 CASE-173 CASE-174 CASE-177 LIT-1557 LIT-1563 LIT-1565 LIT-1567 LIT-1569 LIT-1572 LIT-1573 LIT-1586 LIT-1602 LIT-1611 LIT-1612 LIT-1621 LIT-2395 LIT-2398 — Proposed, Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-138: Read the endosymbiosis primaries behind the integration question and its cases
@@ -79,3 +80,33 @@ Where the record names it:
 
 Facts confirmed first-hand let the cases bear on [QUESTION-277](../questions.d/QUESTION-277.md) at full
 weight; facts that differ are corrected in the cases.
+
+## Note of 2026-11-22: carried out in part
+
+A lead worker tried every work listed, by Europe PMC's REST full-text
+route (ADR-101), PMC, NCBI's E-utilities, bioRxiv and Europe PMC's
+preprint records, publishers' free copies, OpenAlex and Semantic
+Scholar's listed locations, and author, lab and institutional pages,
+with no email address in any request. PMC answered with a reCAPTCHA,
+and cell.com, pnas.org, annualreviews.org, bioRxiv and core.ac.uk with
+Cloudflare, so four works were reached through author or repository
+copies:
+
+- LIT-1567 (Karnkowska 2016), read: NOTE-tmpzlv8e, THEORY-tmpd9ysz.
+  CASE-168's four facts hold, with refinements.
+- LIT-1586 (Łukasik 2018), read: NOTE-tmp8zw3r, THEORY-tmp4pf2m.
+- LIT-1602 (Campbell 2017), read: NOTE-tmpzfvzz, THEORY-tmpjqe6l.
+  CASE-177's facts from these two hold, except "two to six lineages per
+  host", which the paper's own discussion puts beside "5 to 7" and
+  which stays unverified.
+- LIT-2395 (Strand 2026), skimmed: NOTE-tmpqvc1g, THEORY-tmp15tfp,
+  which corroborates CLAIM-661; its example holds, with the
+  qualification that some delivered genes are the wasp's.
+
+What remains: LIT-1557, LIT-1563, LIT-1565, LIT-1569, LIT-1572,
+LIT-1573, LIT-1611, LIT-1612, LIT-1621 and LIT-2398, not reached; each
+has a dated note naming the routes tried. CASE-171, CASE-173 and
+CASE-174 rest wholly on unreached works and carry notes saying their
+facts stay unverified. A copy the owner supplies, or the PMC pages
+opened in a browser, would let the rest be read. The status and stage
+are the owner's.

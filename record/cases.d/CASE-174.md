@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpowpq1
 title: 'Paulinella chromatophora: a photosynthetic organelle in the making, from an endosymbiosis independent of the plastids'', its genome reduced to about a third of its coding capacity, and hundreds of host proteins imported into it, most encoded by the host''s own genes rather than transferred from the symbiont'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -27,6 +27,10 @@ history:
     Bears on QUESTION-277, now that a case can carry `bears_on`
     (ADR-092); added as that decision's demonstration. Its text cites the question: "This is the route the mealybug (CASE-171) and aphid (CASE-173) cases do not take (QUESTION-277)." No line changes
     (ADR-085). No other change.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added for LEAD-138: its primary sources were not reached, so the facts it takes from them stay unverified. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -104,3 +108,17 @@ case takes from its unread sources:
   N-terminal targeting peptide on long proteins. About 20% of long imported
   proteins serve the chromatophore's DNA replication and gene expression,
   which gives the host control of both (C).
+
+## Note of 2026-11-22: its primary sources not reached (LEAD-138)
+
+LEAD-138 tried LIT-1621 and LIT-1557 and reached neither (cell.com
+and pnas.org behind Cloudflare, PMC behind a reCAPTCHA, Europe PMC's
+full-text service without them; each LIT's note of this date). So the
+facts the case takes from them stay **unverified**: the 1.02 Mb genome
+with 867 protein-coding genes, 26% of a free-living relative's, and the
+missing pathways (LIT-1621); the 60-million-year estimate, "more than
+thirty" transferred genes, and three imported photosystem I subunits
+via the Golgi (LIT-1557). The review LIT-1560 already corrects or
+qualifies most of them (the note of 2026-10-27, batch 2); the one
+still open is "three" subunits against the review's two, PsaE and
+PsaK. No status changes.
