@@ -136,3 +136,7 @@ Across A32 to A37 of the exchange "Individuation, Possibility, and Disposition" 
 ## Note of 2026-11-22: the failures recur in a seventh exchange, in a different mix
 
 In the exchange "Rich Get Richer Power Laws", coded move by move ([CASE-tmpzi1u3](../cases.d/CASE-tmpzi1u3.md)), the identity failures this claim describes recur, but mostly as re-derivation without back-reference (33 instances in 23 items); silent redefinition occurs once ("hyperribbon" at A41), a case changes identity once, and in the argument phase every change of hypothesis is announced and argued, unlike the will and translation exchanges.
+
+## Note of 2026-11-22: the aggregate counterpart, a filing-disposition census
+
+This claim records one observed case where attribution mattered (the owner, not the assistant, reintroduced a rejected analogy). [CASE-tmpkge6r](../cases.d/CASE-tmpkge6r.md), run for [LEAD-122](../leads.d/LEAD-122.md), is the aggregate counterpart over the workbench reconstructions: across the entries that label their moves, owner-attributed moves are filed at a higher rate (0.70 block, 0.67 span-only) than assistant-attributed ones (0.57 / 0.41). The census shows the asymmetry is visible but cannot hold content fixed, and kind of move confounds contributor, so it does not establish that attribution rather than content drives the gap. No status changes.
