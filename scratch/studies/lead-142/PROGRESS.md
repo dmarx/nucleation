@@ -31,14 +31,20 @@ owner's choices as alternatives.
 - Confirmed target not already held.
 - Pushed branch with this file.
 
+- numpy study written and run (directed_signature.py, 7 pytest, results.json):
+  (i) reduction verified; (ii) THEORY-239 three-state + tie reproduced;
+  (iii) nonlinear readout recovers stable target outside span + span-relative
+  sufficiency; (iv) direction decision unserved by functions of x.
+- Filed CASE-tmp5w2ty (executed-study, Proposed), CLAIM-tmpc54vj (reduction),
+  CLAIM-tmpm4oom (beyond-linear limits), changelog lead-142.md, dated notes on
+  CLAIM-209, QUESTION-052, LEAD-142. Pre-commit checks pass.
+
 ## Next
 
-- numpy study: non-reversible chains; verify (i) top-d left singular span =
-  top-d eigenspace of self-adjoint TT* on L2(P_X); (ii) the linear tie
-  (THEORY-239) reproduced; (iii) a nonlinear-sufficiency gap; (iv) a
-  direction counterexample: two directed laws sharing TT* but differing in
-  direction, so no x-function distinguishes them.
-- File CASE (executed-study), CLAIM(s) (Proposed), changelog, dated notes.
+- Done; awaiting owner. Remaining of the lead: nonlinear input-decision case
+  (= symmetric case), a signature for transport-direction decisions, and the
+  held-out empirical test CLAIM-209's second disjunct needs. Owner marks the
+  lead's status/stage.
 
 ## Choices made
 
