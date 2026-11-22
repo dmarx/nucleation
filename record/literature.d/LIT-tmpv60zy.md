@@ -1,76 +1,72 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Unfetched | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041). `Unfetched` is one whose lawful free copy was
-# located at an exact address that this client could not fetch; the status
-# note gives the address and the obstacle (ADR-053).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpv60zy:` heading.
 title: 'Biological regulation: controlling the system from within'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered as a stand-in for LIT-536 (ADR-114), whose chapters have no
+    lawful copy; it is a work in its own right, not filed under LIT-536's
+    code and not presented as the book. Found by the reader for LIT-536 in
+    the sweep of 2026-11-22 through HAL's search API. Not held before: no
+    hit in record/ for the DOI, the HAL id or the title. Citation checked
+    against Crossref on 2026-11-22 (no email address sent, ADR-008):
+    Leonardo Bich, Matteo Mossio, Kepa Ruiz-Mirazo and Alvaro Moreno,
+    Biology & Philosophy 31(2):237–265, published online 6 August 2015,
+    which is the `published:` date (ADR-002); the issue is dated March
+    2016. Read in full the same day in NOTE-tmpefons.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- philosophy-of-biology
+- control-theory
+- complex-systems
 date: '2026-11-22'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2015-08-06'
+doi: '10.1007/s10539-015-9497-8'
+first_author: 'Bich'
+keywords:
+- 'regulation'
+- 'second-order control'
+- 'organisational closure'
+- 'dynamical decoupling'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Bich, Mossio, Ruiz-Mirazo and Moreno (2016), Biology & Philosophy
+  31:237–265. Regulation is second-order control: a subsystem the organism
+  produces but which is dynamically decoupled from its constitutive regime,
+  triggered by perturbations, and which shifts that regime between viable
+  states. Feedback, network robustness and homeostasis belong instead to
+  the constitutive regime, the closure. A stand-in, in part, for LIT-536,
+  on what organisms add to closure.
 ---
+<!-- inactive-ok-file: LIT-536 — Unfetched; the book this work stands in for, in part -->
+<!-- inactive-ok-file: THEORY-tmpxypfa THEORY-072 — Proposed; this work's reading, filed with it, and the account it bears on -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpv60zy: Biological regulation: controlling the system from within
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Bich, L., Mossio, M., Ruiz-Mirazo, K., Moreno, A. (2016). Biological
+regulation: controlling the system from within. *Biology & Philosophy*,
+31(2), 237–265. doi:10.1007/s10539-015-9497-8. HAL hal-01185296 (authors'
+version, CC BY-NC 4.0).
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+- "regulation consists in a specific form of second-order control, exerted
+  over the core (constitutive) regime of production and maintenance of the
+  components" (pdf p. 2).
+- Feedback "depends, in its basic instances, on the action of only one
+  constraint"; "Organisational closure, instead, consists in a circular
+  generative relation among constraints, and implies the mutual dependence
+  of several constraints" (pdf p. 14, footnote).
+- A regulator operates "at a different dynamical scale and under different
+  stoichiometric requirements than C", the constitutive regime (pdf p. 17).
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Read in full in NOTE-tmpefons; its account is THEORY-tmpxypfa (Proposed).
+Registered as a stand-in for LIT-536, whose chapters have no lawful copy.
+It stands in **only in part**: it gives the constraint definition with time
+scales that chapter 1 uses, and what organisms add to closure, regulation,
+which is how the book's Introduction separates organisms from ecosystems.
+It does not apply the requirements to colonies or ecosystems, so it is no
+stand-in for chapter 6. It bears on THEORY-072, CLAIM-395 and NOTE-148.

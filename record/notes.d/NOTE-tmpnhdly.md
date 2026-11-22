@@ -13,7 +13,7 @@ history:
     https://shs.hal.science/halshs-00792436/document, file
     Mossio_Moreno_organisms_HPLS_FinalVersion.pdf, deposited 19 September
     2018 under HAL's authorisation licence; the authors' final version,
-    not the journal's typeset text, 17 pages with the HAL cover. HTTP 200
+    not the journal's typeset text, 16 pages with the HAL cover. HTTP 200
     on 2026-11-22, no bot page. Pages cited are the deposit's PDF pages.
     Read in full; references skimmed. The filer rechecked every quote
     below.
