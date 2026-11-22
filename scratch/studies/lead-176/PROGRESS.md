@@ -36,8 +36,22 @@ Unavailable with address, obstacle, date; neighbour for a closed book.
     course (Bechtel's Models and Prediction Workshop) page,
     https://mechanism.ucsd.edu/bill/ModelsAndPrediction/papers/wimsatt.Mod-evol-pardx-89POSTfin.pdf.
 
+- Filed (all pushed): Bourrat LIT-1927 Active, NOTE-tmp1shj8, THEORY-tmpvjav8;
+  Black LIT-1940 Unfetched + neighbour LIT-tmp6nn9d/NOTE-tmpculbo/THEORY-tmp54yyf;
+  Shavit LIT-1935 Active, NOTE-tmpots55, THEORY-tmp5zzgh;
+  Wimsatt LIT-1926 Unavailable + neighbour LIT-tmpjv6ez/NOTE-tmpkxkqj/THEORY-tmpk0h4i;
+  Griesemer LIT-1932, LIT-1937 Unavailable + neighbour SEP LIT-tmp460ih/NOTE-tmp7ylue (Skimmed)/THEORY-tmpi08qh.
+- Dated notes: CLAIM-194, 529, 531, 522, 184, 185; QUESTION-398, 284, 093, 277; THEORY-418; LEAD-176.
+- Stale excuses for LIT-1927/1935 removed (LEAD-176, NOTE-1628, CLAIM-529, CLAIM-531, LIT-2001, LIT-2003).
+- Changelog fragment record/changelog.d/lead-176.md.
+
+## Choices made
+
+- The distantreader.org cache of Griesemer 2000 was not fetched: its standing
+  under ADR-074 is unclear (a text-mining project's cache, provenance page 404).
+  Left to the owner; LIT-1932 stays Unavailable meanwhile.
+- No curation entry: single-work readings; bearings are in the NOTEs and dated notes.
+
 ## Next
 
-- File Bourrat (LIT-1927 Active, NOTE, THEORY, dated notes), commit.
-- File Shavit, Black (Unfetched) + neighbour, Griesemer x2 (Unavailable), Wimsatt + neighbour.
-- Dated note on LEAD-176, changelog fragment.
+- Nothing; report.
