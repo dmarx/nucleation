@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - TERM-tmp91lqy
 title: 'independent execution gate, of a process: a step past which the process cannot continue unless a condition holds that its executor does not control (a person''s approval, an elapsed notice period, a check another party runs or a limit another party set), whether or not the step delays it; distinct from execution impedance (added time or cost) and from an intervention opportunity (a point at which another party can bring an objection that changes the process), and not settled as a sense of procedural friction'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-11-16'
@@ -56,6 +56,10 @@ history:
     compared with this term and judged distinct, an entitlement of an
     affected party and not a property of a step; a sentence on the
     difference added. No change of status or title.
+- version: 11
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Frischmann and Benesch (LIT-tmpjbd64) registered and read on 2026-11-22 for LEAD-152, NOTE-tmpyjyrt. No change of status or title.
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -202,3 +206,12 @@ might offer. The term is unchanged. Relation: none.
 §2.2's superior's signature and ex ante legal review are clean instances of friction in this term's sense:
 steps the executor cannot pass alone. Their disappearance in system-level bureaucracy is the term's case of
 friction removed. The term is unchanged. Relation: none.
+
+## Note of 2026-11-22: Frischmann and Benesch, read
+
+Frischmann and Benesch ([LIT-tmpjbd64](../literature.d/LIT-tmpjbd64.md), [NOTE-tmpyjyrt](../notes.d/NOTE-tmpyjyrt.md)) report, from Frischmann and Ohm's "Governance Seams", the line this term draws. A sobriety checkpoint "requires a complete stop. It is mandatory (not a nudge)", and drivers "must demonstrate that they are sober" before passing (p. 404); CAPTCHAs and passwords "are more like checkpoints ... than speed bumps" (p. 405), and only they create a "governance seam", where speed bumps "do not involve a seam or enable governance" (p. 405 n. 89). The speed bump is this term's execution impedance; the checkpoint is an independent execution gate. Two things follow, both the owner's call:
+
+- *a precedent*: the term could cite the seam as the literature's form of its distinction, and list friction-in-design, "friction with a functional purpose" that a designer or regulator sets (p. 417), as a neighbouring sense covering both impedance and gate;
+- *which side it names*: as quoted, the seam is where the party that set the gate governs the person passing. That fits the term's gate, not its intervention opportunity, which is a point at which another party can object; adopting "governance seam" as a synonym for either would blur the two.
+
+Relation: none (a parallel; the term does not yet draw on the reading). No status changes.
