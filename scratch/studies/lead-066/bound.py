@@ -85,6 +85,15 @@ def k_rbf(X, s=1.0):
     return np.exp(-(q[:, None] + q[None, :] - 2 * G) / (2 * s ** 2))
 
 
+def rbf_bandwidth(X0):
+    """s with 2 s^2 = mean squared distance between distinct items (of X0 / sqrt(d))."""
+    G = gram(X0)
+    q = np.diag(G)
+    D2 = q[:, None] + q[None, :] - 2 * G
+    n = len(q)
+    return np.sqrt(D2.sum() / (n * (n - 1)) / 2)
+
+
 KERNELS = {"linear": k_linear, "relu_ntk": k_relu_ntk, "rbf": k_rbf}
 
 
@@ -145,6 +154,8 @@ def acquisition_time(flow, P, delta, tmax, ngrid=4000):
     if j == 0:
         return 0.0
     f = lambda t: np.linalg.norm(P @ flow(t)[:, 0]) ** 2 / base - delta
+    if f(ts[j - 1]) * f(ts[j]) > 0:          # rounding at the grid point; take it
+        return float(ts[j])
     return brentq(f, ts[j - 1], ts[j], xtol=1e-14 * ts[j], rtol=1e-12)
 
 
