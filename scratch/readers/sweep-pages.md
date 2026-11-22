@@ -33,3 +33,22 @@ restricted, (c) obstacle.
   (bibliographic description only), share type "otwarte czasopismo" (open
   journal, open 6 months after publication). The item has no bundles or
   bitstreams. Metadata only.
+
+## LIT-1639 (Cervera, van der Schaft, Baños 2007, Automatica)
+
+- (c), copy located: the RUG Pure record lists
+  https://research.rug.nl/files/2818803/2007AutomaticaCervera.pdf,
+  labelled "Final publisher's version, 366 KB" (title and authors on the
+  record match the LIT). The file request returned HTTP 403 with a
+  Cloudflare "Just a moment..." challenge. Stopped. 2026-11-22. Pure's web
+  service needs an API key, so no documented open route was tried.
+
+## LIT-1764 (Pembrey et al. 2006, EJHG)
+
+- (b) Bristol Pure record: metadata only; "Access to Document" gives the
+  DOI and a nature.com abstract link. No file.
+
+## LIT-1862 (Contrast effects in stereotype formation, JESP 2002)
+
+- (b) VU Pure record: metadata only; "Access to Document" gives the DOI
+  and an old ScienceDirect link. No file.
