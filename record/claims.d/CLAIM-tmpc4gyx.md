@@ -108,6 +108,7 @@ With no loop, the joint model gained nothing and its BIC was the worse.
   well?" is answered no only for data with the loop.
 - That the joint model wins when misspecified by as much. With the score
   −|aᵢ − x| in the generator its error was about half the best separate
-  model's, against a fifth to a thirtieth with the score it assumes.
+  model's; with the score it assumes, between about a half (damped, D1)
+  and a thirtieth (amplifying, D2).
 - Anything about CLAIM-286's phenomena (habit, rumination, rigidity,
   akrasia, insight) or models built for them; the construction has none.
