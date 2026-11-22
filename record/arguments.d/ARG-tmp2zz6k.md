@@ -76,6 +76,6 @@ for many different tasks."
 Supports strand 1; qualifies the thesis without defeating it. The
 record's cases now run three ways: CLAIM-814 (readout noise pushes the
 optimum toward the transition), Azizpour and colleagues (THEORY-tmpye6xs,
-subcritical for every finite window), and this one (on the order–chaos
+subcritical for every finite window), and this one (near the order–chaos
 line, task-averaged). Calvet, Reulet and Rouat add that the alignment
 depends on the system (ARG-tmps7n0g). Proposed.

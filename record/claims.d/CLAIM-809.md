@@ -194,10 +194,10 @@ disfavour it here. Both fit the thesis, that the best distance depends on
 the task and the readout, and neither alone says which way a given system
 goes. The third case is the edge of chaos itself: in Natschläger,
 Bertschinger and Legenstein's driven threshold networks (THEORY-tmps8t83),
-a linear readout does best on the order–chaos line, averaged over many
+a linear readout does best near the order–chaos line, averaged over many
 nonlinear tasks of recent inputs; the paper reports no per-task optima.
 So readout noise toward the transition (CLAIM-814), subcritical for every
-finite window (Azizpour), and on the order–chaos line on average
+finite window (Azizpour), and near the order–chaos line on average
 (Bertschinger and colleagues), with Calvet, Reulet and Rouat
 (LIT-tmpahs2x) finding the alignment with the critical region dependent
 on the sign of the excitatory–inhibitory balance. Added 2026-11-22
