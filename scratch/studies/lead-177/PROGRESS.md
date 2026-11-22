@@ -20,9 +20,14 @@ cite CASE-239 as not yet run.
 
 ## Done
 
+- forager.py, ladder.py, network.py built; 18 pytest tests pass.
+- Runs complete: results/forager.jsonl (1,760), ladder.jsonl (2,400),
+  network.jsonl (360); summaries in results/*_summary.md.
+- Choices made: see README.md.
+
 ## Next
 
-- Design and build the ladder (ladder.py)
-- Build the forager (forager.py) and sensor network (network.py)
-- Tests, runs, results
-- File CASE, claims, notes, changelog
+- File: CASE (executed-study) for the ladder + forager; CASE for the network;
+  CLAIM on criterion revision; two alternative CLAIMs on CASE-239's second
+  defeater; CLAIM on the network's anchor; dated notes on LEAD-177, CASE-239,
+  QUESTION-285, QUESTION-128, CLAIM-342; changelog fragment.
