@@ -297,22 +297,31 @@ def underdetermined_family(rng, phis):
 
     The null construction in R^3, except that A and B share ONE commitment.
     Procrustes is then not determined: if R fits, so does R composed with
-    any rotation about A's representation of the shared commitment. Every
+    any rotation about A's representation of the shared commitment (and,
+    in O(3), a reflected family besides; the SO(3) family is enough). Every
     member of that family fits the overlap exactly, and the holonomy runs
     over a whole range as the free angle does. Returns the family's
     residuals and holonomy deviations, and the fit's `determined` flag.
     """
-    ctx, g, W = null_construction(3, 3, rng)
+    frames = {}
+    for c in LOOP:  # proper rotations, so the SO(3) family contains the true frame change
+        q = random_orthogonal(3, rng)
+        frames[c] = q if np.linalg.det(q) > 0 else -q
+    ctx, g, W = null_construction(3, 3, rng, frames=frames)
     for c in ("A", "B"):
         for n in ("ab1", "ab2"):
             del ctx[c][n]
     T, info = derive_transports(ctx)
-    u = ctx["A"]["ab0"]
+    u, w = ctx["A"]["ab0"], ctx["B"]["ab0"]
     X, Y = stack(ctx, "A", ["ab0"]), stack(ctx, "B", ["ab0"])
+    # one exact fit in SO(3): the rotation in the plane of u and w taking u to w
+    axis = np.cross(u, w)
+    ang = np.arctan2(np.linalg.norm(axis), u @ w)
+    R0 = rotation_about(axis, ang)
     rows = []
     for phi in phis:
         Tphi = dict(T)
-        R = T[("B", "A")] @ rotation_about(u, phi)
+        R = R0 @ rotation_about(u, phi)
         Tphi[("B", "A")], Tphi[("A", "B")] = R, R.T
         rows.append((float(phi), float(np.linalg.norm(R @ X - Y)), deviation(holonomy(Tphi))))
     return info[("B", "A")]["determined"], rows
