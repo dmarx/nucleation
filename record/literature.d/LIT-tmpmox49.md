@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmpirf1e); worth reading as the one
-  experiment the LEAD-062 search found that varies a temporal continuity
+  read in full 2026-11-22 ([NOTE-tmpirf1e](../notes.d/NOTE-tmpirf1e.md)); worth reading as the one
+  experiment the [LEAD-062](../leads.d/LEAD-062.md) search found that varies a temporal continuity
   of a self-relevant entity, the national group's sameness fifty years
   on, while measuring identification separately, and finds the
   manipulation's mediated effects confined to high identifiers.
@@ -49,18 +49,17 @@ summary: >-
   intentions appeared only with political orientation as a covariate.
   The mediated effects held for high but not low national identifiers,
   though identification correlated only .14 with FCC similarity. Here
-  for LEAD-062 and CLAIM-492: a temporal continuity that comes apart
+  for [LEAD-062](../leads.d/LEAD-062.md) and [CLAIM-492](../claims.d/CLAIM-492.md): a temporal continuity that comes apart
   from attachment and moves attitudes only among the attached. Its
   outcome is concern for present outgroup members, not for future
   people.
 ---
-<!-- inactive-ok-file: NOTE-tmpirf1e — new; the reading of this work, filed for LEAD-062 -->
 
 # LIT-tmpmox49: Our ways will not change: Future collective continuity increases present prosocial considerations
 
 Andrej Simić, Simona Sacchi and Marco Perugini (2025). *British Journal of Social Psychology* 64(1): e12847. DOI-10.1111/bjso.12847
 
-Read in full in NOTE-tmpirf1e.
+Read in full in [NOTE-tmpirf1e](../notes.d/NOTE-tmpirf1e.md).
 
 ## Key takeaways
 
@@ -78,9 +77,9 @@ Read in full in NOTE-tmpirf1e.
 
 ## Standing in the record
 
-Registered and read on 2026-11-22 by the LEAD-062 search for studies
+Registered and read on 2026-11-22 by the [LEAD-062](../leads.d/LEAD-062.md) search for studies
 that measure the self's extent in time apart from caring. It is a
 neighbour of that test, not the test: the continuity is the group's, not
 a continuity between the self and future people, and the concern
-measured is for present immigrants. It bears on CLAIM-492 and
-QUESTION-301.
+measured is for present immigrants. It bears on [CLAIM-492](../claims.d/CLAIM-492.md) and
+[QUESTION-301](../questions.d/QUESTION-301.md).

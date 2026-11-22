@@ -23,7 +23,7 @@ source:
 - LIT-tmpmox49
 summary: >-
   Simić, Sacchi and Perugini (2025), three Italian studies, the third a
-  preregistered experiment (N = 252), read in full (NOTE-tmpirf1e).
+  preregistered experiment (N = 252), read in full ([NOTE-tmpirf1e](../notes.d/NOTE-tmpirf1e.md)).
   The continuity is the group's with its own future, measured with
   future-self-continuity items; it correlated .14 with national
   attachment. The effects on prejudice and collective action needed a
@@ -31,14 +31,13 @@ summary: >-
   attachment came from an analysis that left it. Nothing here concerns
   future people or legacy.
 ---
-<!-- inactive-ok-file: LIT-tmpmox49 NOTE-tmpirf1e — new; the work and its reading, filed for LEAD-062 -->
 
 # THEORY-tmppa01m: Simić, Sacchi and Perugini report that expecting one's national group to stay the same in the future lowers fear for its future and, through that, prejudice and anxiety toward immigrants, among those strongly attached to the group and not among the weakly attached
 
 ## Source
 
-Simić, Sacchi and Perugini (2025), LIT-tmpmox49, read in
-NOTE-tmpirf1e.
+Simić, Sacchi and Perugini (2025), [LIT-tmpmox49](../literature.d/LIT-tmpmox49.md), read in
+[NOTE-tmpirf1e](../notes.d/NOTE-tmpirf1e.md).
 
 ## The account
 

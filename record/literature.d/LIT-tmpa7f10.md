@@ -4,8 +4,8 @@ status_note: >-
   a lawful copy located and not read, 2026-11-22: the authors' CC BY
   preprint on PsyArXiv, which Europe PMC lists at
   https://osf.io/29jeb/download. Not fetched because the brief confined
-  LEAD-062 to Europe PMC and arXiv, and Europe PMC holds only the
-  abstract. Registered from the LEAD-062 search (Europe PMC, queries 1,
+  [LEAD-062](../leads.d/LEAD-062.md) to Europe PMC and arXiv, and Europe PMC holds only the
+  abstract. Registered from the [LEAD-062](../leads.d/LEAD-062.md) search (Europe PMC, queries 1,
   4 and 5).
 title: 'A Future Beyond Ourselves: Can Self-Oriented Prospection Motivate Intergenerational Beneficence?'
 version: 1
@@ -40,7 +40,7 @@ summary: >-
   participants) link future self-continuity, the overlap people perceive
   between present and future selves, with feelings of responsibility
   for, efficacy toward and "identification with future generations".
-  Here for LEAD-062 and QUESTION-301: the bridge Hershfield guessed at
+  Here for [LEAD-062](../leads.d/LEAD-062.md) and [QUESTION-301](../questions.d/QUESTION-301.md): the bridge Hershfield guessed at
   between prudence and legacy, measured. Whether identification with
   future generations is separated from caring for them is unknown.
   Unfetched; the abstract's report is unverified until read.
@@ -62,11 +62,11 @@ generations". Unverified until read.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-062 search. It bears on QUESTION-301's
+Registered on 2026-11-22 by the [LEAD-062](../leads.d/LEAD-062.md) search. It bears on [QUESTION-301](../questions.d/QUESTION-301.md)'s
 note that Hershfield's guess, that the future self may continue in one's
-offspring, is the untested bridge from prudence to legacy (NOTE-1259). It
+offspring, is the untested bridge from prudence to legacy ([NOTE-1259](../notes.d/NOTE-1259.md)). It
 measures continuity with one's own future self, not with future people,
 so it is not the lead's test unless its identification measure is
-separated from caring. The same group's one-year panel (LIT-tmpre45d)
+separated from caring. The same group's one-year panel ([LIT-tmpre45d](LIT-tmpre45d.md))
 reports that the cross-lagged path runs from concern to self-continuity,
 not the reverse.

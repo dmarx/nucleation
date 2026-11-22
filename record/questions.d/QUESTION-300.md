@@ -84,7 +84,7 @@ mentioned:
 ## Note of 2026-11-22: a design that could give a yes or a no
 <!-- inactive-ok-file: CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
 
-CASE-tmp413kq, filed by LEAD-062, measures the criteria this question
+[CASE-tmp413kq](../cases.d/CASE-tmp413kq.md), filed by [LEAD-062](../leads.d/LEAD-062.md), measures the criteria this question
 names as candidates (self-definition, cognitive inclusion, salience by
 instruction) apart from concern for a group's welfare, and gives money to
 the group as the outcome. Gifts that follow concern where the criteria

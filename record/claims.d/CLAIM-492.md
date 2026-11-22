@@ -135,10 +135,10 @@ objection lists.
   by definition. The same triviality, one level down.
 
 ## Note of 2026-11-22: Simić, Sacchi and Perugini, read; a design filed
-<!-- inactive-ok-file: LIT-tmpmox49 NOTE-tmpirf1e CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
 
 - **A continuity criterion that came apart from caring, and worked only
-  with it** (Simić et al., LIT-tmpmox49, NOTE-tmpirf1e). The expected
+  with it** (Simić et al., [LIT-tmpmox49](../literature.d/LIT-tmpmox49.md), [NOTE-tmpirf1e](../notes.d/NOTE-tmpirf1e.md)). The expected
   sameness of one's nation fifty years on correlated .14 with national
   attachment, and a manipulation moved it (d = 0.90). Its mediated
   effects on prejudice and collective action held for high identifiers
@@ -148,8 +148,8 @@ objection lists.
   and the moderation analysis left the preregistration. A bearing on what
   the claim asks for, neither support nor a limit; no edge, no status
   change.
-- **The test this claim calls for, specified** (CASE-tmp413kq). It is
-  Chan's design (NOTE-1280) with concern for the group's welfare measured
+- **The test this claim calls for, specified** ([CASE-tmp413kq](../cases.d/CASE-tmp413kq.md)). It is
+  Chan's design ([NOTE-1280](../notes.d/NOTE-1280.md)) with concern for the group's welfare measured
   apart from self-definition, cognitive inclusion and continuity, and with
   salience varied by instruction. The thesis has content if the gift
   follows the criterion with concern held fixed.

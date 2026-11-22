@@ -1,10 +1,10 @@
 ---
 status: Deferred
 status_note: >-
-  registered 2026-11-22 from the LEAD-062 search (Europe PMC, query 1),
+  registered 2026-11-22 from the [LEAD-062](../leads.d/LEAD-062.md) search (Europe PMC, query 1),
   which found the abstract only; Europe PMC lists no full-text address
   beyond the DOI. A PsyArXiv preprint under CC BY, so an open copy
-  likely exists on OSF; not sought, since the brief confined LEAD-062 to
+  likely exists on OSF; not sought, since the brief confined [LEAD-062](../leads.d/LEAD-062.md) to
   Europe PMC and arXiv.
 title: 'A One-Year Longitudinal Investigation of the Association between Self and Other-Oriented Future Concern'
 version: 1
@@ -39,7 +39,7 @@ summary: >-
   PsyArXiv preprint. By the abstract, a four-wave panel over a year (N =
   2,090 at baseline) found that concern for future generations predicted
   later continuity with one's own future self, and not the reverse. Here
-  for LEAD-062 and QUESTION-301: if it holds, continuity with one's own
+  for [LEAD-062](../leads.d/LEAD-062.md) and [QUESTION-301](../questions.d/QUESTION-301.md): if it holds, continuity with one's own
   future self does not lead to concern for future people, which tells
   against the temporal self as the route. Deferred; the abstract's report
   is unverified until read.
@@ -61,10 +61,10 @@ pathway was not supported." Unverified until read.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-062 search. It is the only work found
+Registered on 2026-11-22 by the [LEAD-062](../leads.d/LEAD-062.md) search. It is the only work found
 that orders continuity and concern in time. It measures continuity with
 one's own future self, not with future people or a legacy, and does not
 separate caring; so it is not the lead's test. Its reported direction,
 concern before continuity, would count against reading concern for future
-people as prudence on a self extended in time (QUESTION-301), and fits
-LIT-tmpa7f10 only if that work's correlations run the same way.
+people as prudence on a self extended in time ([QUESTION-301](../questions.d/QUESTION-301.md)), and fits
+[LIT-tmpa7f10](LIT-tmpa7f10.md) only if that work's correlations run the same way.

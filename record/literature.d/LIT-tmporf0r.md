@@ -6,8 +6,8 @@ status_note: >-
   interface
   https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12569012/fullTextXML,
   which answered HTTP 500 (Internal Server Error) three times that day;
-  no other route was tried, since the brief confined LEAD-062 to Europe
-  PMC and arXiv. Registered from the LEAD-062 search (Europe PMC, query
+  no other route was tried, since the brief confined [LEAD-062](../leads.d/LEAD-062.md) to Europe
+  PMC and arXiv. Registered from the [LEAD-062](../leads.d/LEAD-062.md) search (Europe PMC, query
   2).
 title: 'Mapping prescriptive beliefs on seventh generation stewardship and increasing the temporal scope of intergenerational concern'
 version: 1
@@ -44,12 +44,11 @@ summary: >-
   Five preregistered studies (N = 3,876) map how many future generations
   people think individuals and governments should consider, and report
   that "targeting the interconnectedness of people across time" widened
-  the horizon of intergenerational concern. Here for LEAD-062: it may
+  the horizon of intergenerational concern. Here for [LEAD-062](../leads.d/LEAD-062.md): it may
   manipulate felt connection with future people and measure concern for
   them, the lead's test, if it also separates caring. Unfetched; the
   abstract's report is unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpmox49 — new; read for the same lead -->
 
 # LIT-tmporf0r: Mapping prescriptive beliefs on seventh generation stewardship and increasing the temporal scope of intergenerational concern
 
@@ -66,10 +65,10 @@ intergenerational discounting. Unverified until read.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-062 search. Of the works the search
+Registered on 2026-11-22 by the [LEAD-062](../leads.d/LEAD-062.md) search. Of the works the search
 found, this is the likeliest to hold the lead's test: an intervention on
 felt connection across time, with concern for future people as the
 outcome. Whether it measures caring apart from connection is unknown.
-Simić et al. (LIT-tmpmox49), read for the same lead, is the nearest
+Simić et al. ([LIT-tmpmox49](LIT-tmpmox49.md)), read for the same lead, is the nearest
 work read; it varies a group's continuity, not a connection with future
 people.
