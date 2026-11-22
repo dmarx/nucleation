@@ -54,7 +54,7 @@ summary: >-
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-274 CASE-271 CLAIM-697 THEORY-1888 THEORY-1870 CLAIM-tmp2eemo CLAIM-tmpqvkag — Proposed or new; the design this run reduces, the construction and claims it bears on, the erasure readings it draws on, and the claims filed from it -->
+<!-- inactive-ok-file: CASE-274 CLAIM-697 CLAIM-698 THEORY-1888 THEORY-1870 — Proposed; the design this run reduces, the claims it bears on, and the erasure readings it draws on -->
 
 # CASE-tmprir2y: A toy-scale forgetting study run on CPU: in a two-layer transformer that memorized random subject–relation–object facts, facts fine-tuned away by unlearning, overwriting or an unrelated new task stay recoverable, by an untrained cue, a probe, the runner-up answer, reverting one block's update or relearning the other half, at rates well above a matched twin's, while gradient ascent wrecks the whole model; and the union of these readers also recovers a fact the twin never held in a quarter to nearly half of cases
 
