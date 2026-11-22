@@ -1,0 +1,244 @@
+---
+status: Read
+paper: LIT-tmplw76n
+title: 'Rondon, Kawaguchi and Jhala — Liquid Types'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 for LEAD-tmp3xevc from the authors' copy,
+    https://ranjitjhala.github.io/static/liquid_types.pdf, linked as "PLDI
+    2008" from Ranjit Jhala's research page: an author's copy on a faculty
+    page, lawful under ADR-074. Eleven pages, all read, including Figure 2
+    (syntax), Figure 3 (the checking rules), Figure 4 (the inference
+    algorithm) and Table 1; the references were checked only for the works
+    the text leans on. The copy carries no page numbers; pages below are
+    the proceedings' (159 to 169), the copy's page n being 158 + n. Text
+    extracted with pdftotext and every quotation checked against it, page
+    by page, by script; extraction artifacts (a split "DSOLVE", "⊢" read
+    as a backquote, Q⋆ as "Q?") are normalized in the quotations below.
+    Read directly by the filer, not delegated; no running-notes branch
+    (ADR-108 is Proposed, and this session cannot delete remote branches).
+    The proofs of Theorems 1 and 2 are in a technical report the paper
+    cites ([24]), not read.
+date: '2026-11-22'
+summary: >-
+  Liquid types are dependent types {ν : B | φ} whose predicates, wherever
+  a type must be inferred, are conjunctions of logical qualifiers from a
+  finite set the programmer supplies. Inference runs Hindley-Milner,
+  generates subtyping constraints over templates, and weakens an
+  assignment of every qualifier to the strongest conjunction the
+  constraints allow, under a conservative implication check in a
+  decidable logic. Checking and inference are decidable; a program with no
+  liquid type is reported, and nothing in the program is changed.
+---
+<!-- inactive-ok-file: THEORY-tmp1mruk ARG-tmptph3p ARG-tmp5r67s CLAIM-tmp764wb CLAIM-tmpnookt CLAIM-783 CLAIM-tmpmk056 CLAIM-181 TERM-134 TERM-tmp7s2aa TERM-tmp8b1yl TERM-tmp3mop8 THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; this reading's account, what was filed from it, and the entries it bears on -->
+
+# NOTE-tmpnd1kd: Rondon, Kawaguchi and Jhala — Liquid Types
+
+## Contribution
+
+A way to get dependent types for ML without writing them. The programmer
+supplies a small set of logical qualifiers, predicates such as 0 ≤ ν or
+ν < len ⋆; the system infers, for every expression already well-typed in
+ML, a dependent type whose refinements are conjunctions of those
+qualifiers, strong enough to prove array accesses safe. The algorithm is
+Hindley-Milner inference joined to predicate abstraction, the
+loop-invariant technique of software model checkers. DSOLVE implements it
+for OCaml and is run on the DML array benchmarks and a bit-vector library.
+
+## Key results
+
+1. **The predicate form (§2, p. 160).** "our system allows base
+   refinements of the form {ν : B | e}, where ν is a special value variable
+   not appearing in the program, B is a base type and e is a boolean-valued
+   expression constraining the value variable"; "Intuitively, the base
+   refinement predicate specifies the set of values c of the base type B
+   such that the predicate [c/ν]e evaluates to true." These build
+   dependent function types x : T1 → T2. Constants carry exact types: + is
+   x : int → y : int → {ν : int | ν = x + y} (§3.1, p. 163).
+2. **Qualifiers and the liquid restriction (§1, p. 159; §2, p. 160;
+   §3.3, p. 164).** A qualifier is a boolean predicate over program
+   variables, ν and a placeholder ⋆; Q⋆ is every instance of Q with the
+   placeholder filled by a variable. "A liquid type over Q is a dependent
+   type where the refinement predicates are conjunctions of qualifiers
+   from Q⋆." The rules require liquid types at λ, if, let and polymorphic
+   instantiation: "By forcing the types to be liquid, we bound the space of
+   possible solutions, thus making inference efficiently decidable." Types
+   given in advance, of constants and interface specifications, are not
+   restricted.
+3. **Decidability, three ways (§1, pp. 159–160).** "In our system, type
+   checking and inference are decidable for three reasons": a
+   conservative subtyping, reduced to implications checked in the
+   decidable logic EUFA; "an expression has a valid liquid type derivation
+   only if it has a valid ML type derivation", each type refining its ML
+   type; and the liquid restriction, so "inference becomes decidable, as
+   the space of possible types is bounded". "As the refinement predicates
+   contain arbitrary terms, exact implication checking is undecidable"
+   (p. 163); the embedding "is conservative, i.e., the validity of the
+   embedded implication implies the [...] exact requirement" (p. 164).
+4. **Conjunction only (§3.3, p. 164).** At a conditional the branches are
+   made subtypes of a fresh liquid type, not joined, because "with a join
+   operator, input type contravariance would introduce disjunctions into
+   the dependent type which would have unpleasant algorithmic
+   consequences". An intersection of function types can be recovered with
+   qualifiers containing implications (§4.4, p. 167).
+5. **Inference is weakening to the strongest (§2, p. 160; §4.3,
+   p. 166; Figure 4).** Constraints are solved "using predicate
+   abstraction to find, for each κ, the strongest conjunction of
+   qualifiers from Q⋆ that satisfies all the constraints". Solve starts
+   from "a trivial assignment, in which each liquid type variable is
+   assigned the conjunction of all logical qualifiers" and Weaken removes
+   qualifiers whose implication fails. "We can prove that if a set of
+   constraints has a solution over Q then it has a unique minimum solution
+   w.r.t. ≤", where ≤ orders assignments by containment of qualifier
+   sets, and "Solve returns the same output regardless of the order in
+   which the constraints are processed" (p. 166). The program is never
+   changed; only the assignment moves.
+6. **Strongest, relative to use (§4.4, p. 167).** The system is
+   monomorphic in liquid variables, so "the types we obtain for function
+   inputs are the strongest liquid supertype of all the arguments passed
+   into the function". With Q = {0 ≤ ν, 0 ≥ ν} and no calls, neg gets
+   {0 ≤ ν ∧ 0 ≥ ν} → {0 ≤ ν ∧ 0 ≥ ν}, "which is useless but sound"; called
+   with arbitrary arguments it gets int → int.
+7. **Soundness and the inference theorem (§3.2, p. 163; §4.3, p. 166).**
+   Theorem 1: a liquid derivation implies one in an exact, undecidable
+   system, which has preservation and progress, so "evaluation does not
+   get 'stuck'". Theorem 2: Infer terminates; if it returns S then
+   Γ ⊢_Q e : S; "If Infer(Γ, e, Q) = Failure then there is no S s.t.
+   Γ ⊢_Q e : S." Proofs: "We omit the details due to lack of space — the
+   formalization and proofs can be found in [24]" (p. 163).
+8. **What happens on failure (§1, p. 160; §5, p. 167; §7, p. 169).**
+   "there may be safe programs which cannot be well-typed in our system
+   due either to an inappropriate choice of qualifiers or the
+   conservativeness of our notion of subtyping. In the former case, we can
+   use the readable results of the inference to manually add more
+   qualifiers, and in the latter case we can use the results of the
+   inference to insert a minimal set of run-time checks". DSOLVE "outputs
+   the dependent types inferred for the program expressions and the set
+   of applications of primitive operations that could not statically be
+   proven safe (ideally empty)". As future work: "error reporting
+   techniques that help the programmer determine whether there is either
+   an error in her program, the set of qualifiers is insufficient, or, the
+   conservativeness of the system is to blame", perhaps to "lazily extract
+   new qualifiers from the counterexample", citing CEGAR.
+9. **Results (§5, pp. 167–168; Table 1).** Over QBC, a fixed set of
+   ordering qualifiers, DSOLVE proves array safety for most DML benchmarks
+   with no annotation, and "reduces the amount of manual annotation
+   required for proving safety from 31% of program text to under 1%"
+   (abstract). On the BITV library it verifies 58 of 65 functions, with
+   extra qualifiers, trusted assumptions "(which are akin to dynamic
+   checks)" and interface specifications, and finds a bounds error in
+   blit; after the programmer's fix "DSOLVE successfully typechecks the
+   fixed version" (p. 168). Inferred types are written to .annot files
+   "as documentation" (p. 167).
+10. **Placement (§6, p. 169).** "The notion of type refinements was
+    introduced in [14]" (Freeman and Pfenning) "with refinements limited
+    to restrictions on the structure of algebraic datatypes, for which
+    inference is decidable"; DML(C) has decidable checking and undecidable
+    inference; "Liquid types can be viewed as a controlled way to extend
+    the language of types using simple predicates over a decidable logic,
+    such that both checking and inference remain decidable."
+
+## Assumptions
+
+A core λ-calculus with ML polymorphism, base types int and bool and an
+integer-array type; let rec as fix; variables bound once (α-renaming);
+programs A-normalized so intermediate results have names. No refinements
+on type variables or recursive datatypes, no imperative features (both
+named as future work). Whole-program inference: a library needs interface
+specifications for its entry points. The decidable logic is EUFA, and
+everything outside it is an uninterpreted function.
+
+## Concepts
+
+Dependent (refinement) type {ν : B | e}; value variable ν; logical
+qualifier; placeholder ⋆ and Q⋆; liquid type; liquid restriction; Shape
+(erasure to the ML type); template and liquid type variable κ; pending
+substitution; well-formedness and subtyping constraints; Split; Solve and
+Weaken (iterative weakening); minimum solution; EUFA embedding;
+path sensitivity through guards in Γ; QBC; DSOLVE.
+
+## Bearing on the record
+
+The lead's four questions, answered in turn.
+
+- **(a) Is {ν : B | φ}, φ a conjunction of qualifiers, the descriptor's
+  form?** The form {ν : B | e} is the paper's own, with e any boolean
+  expression (result 1): the {x : A | φ(x)} that CLAIM-tmpnookt writes,
+  with B a base type rather than any type. A liquid type is the subclass
+  in which φ is a conjunction from a finite qualifier set, and the paper
+  requires it only where a type must be inferred (result 2); types given
+  in advance may carry any predicate, but are checked only as far as a
+  conservative implication check in a decidable logic can go (result 3).
+  So for a record two limits separate: a predicate can be held as a
+  descriptor whenever the entry passes it, but a descriptor can be found
+  mechanically only from a vocabulary fixed in advance, closed under
+  conjunction and not disjunction (result 4); and a descriptor checked by
+  a conservative procedure can be true and still fail to check. Against
+  Freeman and Pfenning (THEORY-tmp1mruk), the finite declared vocabulary
+  survives, now of predicates instead of datatype refinements
+  (ARG-tmprmcn5).
+- **(b) Is the inferred type the strongest descriptor available, and is
+  inference informative update?** The strongest conjunction from Q⋆ that
+  satisfies the constraints and that the conservative check can verify,
+  unique (result 5). Not the strongest true description: a qualifier the
+  term satisfies can be lost to the check or to the conjunctive form. And
+  for a function's inputs it is relative to the calls in the program, the
+  strongest supertype of the arguments that reach it (result 6); with no
+  calls it is the strongest the qualifiers can say, true of no argument
+  given, "useless but sound". Inference is informative update in
+  TERM-tmp8b1yl's sense: the algorithm starts from a description too
+  strong and weakens it until the program passes, and never moves the
+  program; when a candidate description fails, the description gives way.
+- **(c) What happens to a program whose refinement fails?** It is
+  rejected, Infer returning Failure, and DSOLVE lists the operations it
+  could not prove safe; nothing in the program moves (results 7, 8). The
+  failure does not show that the program fails the type: the paper names
+  three causes it cannot tell apart, the program, the qualifier set and
+  the checker. The remedies it names are all outside the checker: the
+  programmer adds qualifiers (the vocabulary moves), run-time checks are
+  inserted, after Flanagan's hybrid type checking, which this paper
+  proposes and does not do (the program moves, by a tool other than this
+  one), or the programmer fixes the program (blit). This widens
+  CLAIM-tmp764wb from Freeman and Pfenning's system to the predicate form
+  (CLAIM-tmpcmt21), and leaves CLAIM-tmpnookt's checking as requirement
+  without support here (ARG-tmp246r1).
+- **(d) Does the system carry evidence?** No. Typing is proof-irrelevant,
+  as in Freeman and Pfenning: validity checks by the solver are made and
+  not kept; the derivation is not stored; the inferred types are printed
+  "as documentation" (result 9). An inferred assignment would make a
+  certificate in TERM-tmp3mop8's sense, each constraint then a single
+  validity check rather than a search, but the paper neither keeps one
+  for rechecking nor says so; that reading is the filer's.
+- **CLAIM-783** (parallel). The unique minimum solution has the shape of
+  part 6, descriptors never conflict: qualifiers each implied for the
+  values reaching a point can be conjoined, so the union of solutions is
+  a solution. The paper asserts the uniqueness and does not prove it here.
+- **TERM-134 and CLAIM-181** (parallel). The qualifier set is a closed
+  vocabulary, extended by the programmer when inference fails, as the
+  record adds a topic by decision and amends its grammar for a move it
+  cannot hold.
+- **TERM-tmp7s2aa** (parallel). With no argument flowing in, the inferred
+  input type is the strongest available and witnessed by nothing; the
+  witness the record relies on is what rules this out.
+- **THEORY-1094** (parallel). CEGAR, which the paper cites as the route
+  to new qualifiers, refines an abstraction by adding the predicates a
+  spurious counterexample shows missing; here a failed type would add
+  qualifiers.
+
+## Limitations
+
+The proofs of both theorems, and of the unique minimum solution, are
+omitted to a technical report; the minimum's uniqueness rests on solutions
+being closed under union, which the paper does not state. "Failure"
+conflates three causes, which the paper says it cannot yet tell apart.
+The strongest type is strongest only relative to the qualifier set, the
+conservative check and, for inputs, the program's calls; the paper's own
+neg example shows a strongest input type that describes no argument
+given. Run-time check insertion is proposed, not implemented. The
+evaluation is of annotation burden on benchmarks chosen from DML, with
+timings from a prototype; no comparison of false alarms is given.
+Refinements of type variables and recursive datatypes, which Freeman and
+Pfenning had for datatypes, are missing.
