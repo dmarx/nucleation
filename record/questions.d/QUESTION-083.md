@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp2y4xi
 title: 'Beyond stable, differentiated authority, which one update rule can produce, can processes that share it come to hold mutually regulated authority with specialized niches, without any governance role being coded in, when some competences show only in rare contexts?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -33,6 +33,12 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 6
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-016's reduced run of CASE-117
+    (CASE-tmpnti0m, CLAIM-tmp1u4m3, CLAIM-tmp1jz5w). The question is
+    unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -46,6 +52,7 @@ summary: >-
   model with no role primitives, and whether durable differentiated
   authority forms.
 ---
+<!-- inactive-ok-file: CASE-tmpnti0m CLAIM-tmp1u4m3 CLAIM-tmp1jz5w — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; cited as the reading the synthesis recommended, not reached, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1826 LIT-1827 — Unfetched and Unavailable since 2026-10-29; Chesson 1990 and 1994, cited in the note of that date as not read, nothing here rests on them -->
@@ -211,3 +218,26 @@ and stays Open.
   criterion gets stronger standing is still unmet.
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-22: the mixture-of-experts baseline, run
+
+LEAD-016 ran CASE-117's baseline beside a multiplicative contribution
+rule (CASE-tmpnti0m). It used identical linear operators, four contexts
+(one rare) and no role primitives. The run bears on the note of 2026-10-18's
+demand that an answer show "more than" ordinary mixtures of experts.
+
+- **Niches, including one for a rare context.** These form under every
+  rule tried, the baseline included. Specialization is not what separates
+  the rules.
+- **Recovery of a rare specialist.** This separates them. Under the
+  baseline, and under balancing in the gradient, a specialist's recovery
+  rate is proportional to its share (CLAIM-tmp1u4m3). Under the
+  multiplicative rule it is not. A usage bias recovers rare operators
+  whether or not they are competent.
+- **Reorganization after losing a specialist.** It happened when there
+  was spare capacity, and the lost specialist was then not readmitted
+  (CLAIM-tmp1jz5w).
+
+No rule tried revises its own routing standard. So "endogenous revision of
+roles and authority" was not tested. Mutual regulation was not tested
+either. The question is unchanged and stays Open.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmprbebk
 title: 'Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, grant-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-23'
@@ -41,6 +41,11 @@ history:
     tell a functional niche from the mere frequency of its contexts");
     and THEORY-132 ("resilience is not speed of return (THEORY-132)").
     First application of draws_on (ADR-095). No other change.
+- version: 7
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: a reduced run of this design
+    (CASE-tmpnti0m, by LEAD-016). The design is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -71,6 +76,7 @@ draws_on:
 - THEORY-239
 - THEORY-132
 ---
+<!-- inactive-ok-file: CASE-tmpnti0m CLAIM-tmp1u4m3 CLAIM-tmp1jz5w — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-362 CLAIM-367 THEORY-514 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
@@ -258,3 +264,47 @@ read, so that no longer holds. Each narrows what it shows.
   modelled.
 
 The design is unchanged.
+
+## Note of 2026-11-22: a reduced run, by LEAD-016
+
+LEAD-016 ran part of this design as CASE-tmpnti0m.
+
+**Dimensions run:**
+
+- feature adaptation: fixed features only;
+- influence update: uniform, and context-sensitive contribution
+  (multiplicative);
+- diversity mechanism: none (mixture-of-experts gating), and fixed usage
+  balancing in two forms, inside the gradient and as a usage bias;
+- competence exposure: coupled, and decoupled for the suppressed
+  specialist;
+- specialist loss: temporary suppression and complete removal;
+- recovery opportunity: only the small positive start;
+- recovery measured with parameters frozen and trainable;
+- environment: stationary only.
+
+**Findings for its decisive comparisons:**
+
+- **Same participation, different mechanism.** This can be matched. With
+  one operator per context, gating, gating with a balancing loss, and the
+  multiplicative rule end with the same context-conditioned
+  participation, performance and budget. They differ in recovery
+  dynamics:
+  - the multiplicative rule's recovery rate does not depend on how rare
+    the specialist was made;
+  - the gating rules' rate shrinks with the share, as CLAIM-tmp1u4m3
+    derives;
+  - a usage bias recovers rare operators whether or not they are
+    competent.
+
+  The "main threat to inference" (imposed balance passing for endogenous
+  recovery) was measured directly. An incompetent copy made rare was
+  lifted to 0.19 of the rare context by the usage bias and driven out by
+  the multiplicative rule.
+- **Active, dormant and reconstructed.** Frozen and trainable recovery
+  did not differ. What returned was the retained capability.
+- **Coupled against decoupled exposure.** Spare capacity decided the
+  outcome, not exposure (CLAIM-tmp1jz5w).
+
+The study does not show self-constitution (CLAIM-288). The design is
+unchanged.

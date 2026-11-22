@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpk2ozr
 title: 'When a candidate block gains or loses the gap that isolates it as a parameter varies, does the change in its identifiable boundary coincide with a bifurcation of its dynamics, and what does each way of their coming apart show?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-016's run (CASE-tmpnti0m) ran no
+    parameter sweep and does not bear on it. The question is
+    unchanged.
 tags:
 - individuation
 - complex-systems
@@ -23,6 +30,7 @@ summary: >-
   with the behaviour unchanged, with what each shows about regime,
   individual and function.
 ---
+<!-- inactive-ok-file: CASE-tmpnti0m — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: THEORY-2014 THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2787 — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
@@ -97,3 +105,12 @@ The question stays open. No status change.
 
 ## Note of 2026-11-19: Poole and colleagues, read
 Background ([NOTE-2099](../notes.d/NOTE-2099.md)): in Poole and colleagues' mean-field maps, χ1 = 1 is a bifurcation of the layer map, where the fixed point at correlation 1 loses stability and one below 1 appears (§3). There is no block or gap in their setting, so it supplies only the bifurcation half.
+
+## Note of 2026-11-22: not reached by LEAD-016's run
+
+LEAD-016 lists this question. Its reduced run of CASE-117 (CASE-tmpnti0m) ran
+at one parameter point per rule, so it gives no thresholds to compare.
+CASE-117's comparison of representational novelty against dynamical
+stability was not attempted.
+
+The question is unchanged and stays Open.
