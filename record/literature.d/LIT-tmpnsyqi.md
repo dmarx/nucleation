@@ -1,11 +1,7 @@
 ---
-status: Deferred
-status_note: filed 2026-11-22, not read. Registered by LEAD-112's search for cases where access and experience
-  come apart (scratch/studies/lead-112/search.md). Open access in PMC (PMC8940963); the bioRxiv preprint
-  (doi 10.1101/2020.01.28.921841, posted 2020-01-28) is also listed. Not yet fetched.
-title: Decoding internally generated transitions of conscious contents in the prefrontal cortex without
-  subjective reports
-version: 1
+status: Active
+title: Decoding internally generated transitions of conscious contents in the prefrontal cortex without subjective reports
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -13,6 +9,13 @@ history:
     and the date and copies on the Europe PMC REST API, no email address sent. Not held: no hit for the
     DOI or the title in record/literature.d. The summary follows the Europe PMC abstract where it describes
     the work.'
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Read the same day for LEAD-112, in NOTE-tmplluya. The Europe PMC REST
+    full-text route for PMC8940963 returned HTTP 500 twice, so it was read
+    from the publisher's open-access page (CC BY). Deferred to Active;
+    summary rewritten from the reading. The account is THEORY-tmpbu9we.
 tags:
 - consciousness
 - neuroscience
@@ -20,22 +23,44 @@ date: '2026-11-22'
 published: '2020-01-28'
 doi: 10.1038/s41467-022-28897-2
 first_author: Kapoor
-keywords: []
+keywords:
+- binocular rivalry
+- prefrontal cortex
+- no-report
+- decoding
+- macaque
 implementations: []
-summary: 'Kapoor, Dwarakanath, Safavi, Werner, Besserve, Panagiotaropoulos & Logothetis (2022), Nature
-  Communications 13: 1535; bioRxiv preprint 2020.01.28.921841. Macaque lateral prefrontal ensembles recorded
-  with microelectrode arrays during binocular flash suppression and rivalry without report. The intracranial
-  half of QUESTION-048''s "inconspicuous rivalry recorded intracranially", and the study THEORY-094 needs
-  read first-hand (Panagiotaropoulos''s group). Found by LEAD-112''s search (E6). Whether the switches
-  were inconspicuous is unverified until read. `published` is the preprint''s date, the earliest exact
-  date the sources give (ADR-002).'
+summary: >-
+  Kapoor, Dwarakanath, Safavi, Werner, Besserve, Panagiotaropoulos &
+  Logothetis (2022), Nature Communications 13: 1535; bioRxiv preprint
+  2020.01.28.921841. Utah-array recordings of 987 ventrolateral prefrontal
+  units in two macaques never trained to report, during flash suppression
+  and rivalry with the percept read from the optokinetic nystagmus: units
+  follow the percept, and it is decoded at up to 95%. Read in
+  NOTE-tmplluya; the account is THEORY-tmpbu9we. The intracranial half of
+  QUESTION-048's "inconspicuous rivalry recorded intracranially", but with
+  switches noticed, so it does not remove the post-perceptual cognition
+  THEORY-094 says no-report designs leave. `published` is the preprint's
+  date (ADR-002).
 ---
-<!-- inactive-ok-file: THEORY-094 — Proposed; the entries this registration bears on, cited from LEAD-112; new registrations of the same search are Deferred -->
+<!-- inactive-ok-file: THEORY-tmpbu9we THEORY-094 — Proposed; the account read from this work and the account it is set against -->
 
 # LIT-tmpnsyqi: Decoding internally generated transitions of conscious contents in the prefrontal cortex without subjective reports
 
-Kapoor, Dwarakanath, Safavi, Werner, Besserve, Panagiotaropoulos & Logothetis (2022), Nature Communications 13: 1535; bioRxiv preprint 2020.01.28.921841. DOI 10.1038/s41467-022-28897-2.
+Kapoor et al. (2022), Nature Communications 13: 1535. DOI 10.1038/s41467-022-28897-2.
+
+## Key takeaways
+
+- Without trained report, ventrolateral prefrontal units follow the
+  OKN-inferred percept in flash suppression and rivalry.
+- The percept is decoded on single trials, with decoders that generalise
+  between physical and rivalrous alternation.
+- The transitions were unreported but noticed; the design removes report,
+  not post-perceptual cognition.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-112's search. Macaque lateral prefrontal ensembles recorded with microelectrode arrays during binocular flash suppression and rivalry without report. The intracranial half of QUESTION-048's "inconspicuous rivalry recorded intracranially", and the study THEORY-094 needs read first-hand (Panagiotaropoulos's group). Found by LEAD-112's search (E6). Whether the switches were inconspicuous is unverified until read. `published` is the preprint's date, the earliest exact date the sources give (ADR-002). Not read.
+Registered and read on 2026-11-22 by LEAD-112. It is the first-hand
+reading of Panagiotaropoulos's group that THEORY-094's promote_when asked
+for. It neither promotes nor refutes that account, since its switches were
+conspicuous.

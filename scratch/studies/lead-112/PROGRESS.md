@@ -47,6 +47,17 @@ is logged in search.md. Services: Europe PMC REST, arXiv, OpenAlex, no email.
   Two macaques, 987 units, vlPFC Utah arrays, OKN-inferred BFS and BR; content
   decoded up to 95% and generalising PA<->BR. Switches were "unreported but
   clearly occurring": not inconspicuous. NOTE/THEORY not yet written.
+- Filed Brascamp: NOTE-tmprcujk, THEORY-tmpvkp5f, LIT-tmp5rny4 -> Active.
+- Filed Kapoor: NOTE-tmplluya, THEORY-tmpbu9we, LIT-tmpnsyqi -> Active.
+- Pinto 2017: the OUP PDF https://academic.oup.com/brain/article-pdf/140/5/1231/18223376/aww358.pdf
+  returned 403 with a Cloudflare "Just a moment..." challenge, 2026-11-22.
+  Stopped; LIT-tmpblnvk to go Unfetched. Neighbour read instead: de Haan et al.
+  2020, Neuropsychology Review 30: 224-233 (Pinto a co-author), PMC7305066 via
+  Europe PMC fullTextXML, read in full. Registered as LIT-tmpsc6mi (stand-in,
+  ADR-114). Scaffolded NOTE-tmpbwyy5, THEORY-tmpb3deq, ARG-tmpymket (to
+  CLAIM-003).
+- Checks: scratchpad check.py (YAML, title, H1, excuses) and quotes.py (every
+  quotation against the downloaded text).
 
 ## Choices made
 
