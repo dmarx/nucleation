@@ -40,7 +40,7 @@ summary: >-
   cuts. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpjp6vg CLAIM-tmpu482h CASE-tmpl2va4 — new; the simulation this claim rests on, its companion and the design that applies it -->
+<!-- inactive-ok-file: CASE-tmpjp6vg CLAIM-tmpu482h CASE-tmpl2va4 LIT-tmp43x53 — new; the simulation this claim rests on, its companion, the design that applies it and a study cited as an example -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the claim whose defeat condition asks for this estimator -->
 <!-- inactive-ok-file: LEAD-182 — Open; the lead this was found for -->
 
