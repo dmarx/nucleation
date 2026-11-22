@@ -66,5 +66,6 @@
 - Done: LIT-1567 read: NOTE-tmpzlv8e, THEORY-tmpd9ysz, note on CASE-168, note on LIT-1567.
 - Done: LIT-1586 (NOTE-tmp8zw3r, THEORY-tmp4pf2m), LIT-1602 (NOTE-tmpzfvzz,
   THEORY-tmpjqe6l), CASE-177 note, LIT-1586/1602 notes.
-- Next: LIT-2395 (NOTE-tmpqvc1g, THEORY-tmp15tfp),
-  CLAIM-661 note; notes on CASE-171/173/174 (unverified); LEAD-138 note; changelog.
+- Done: LIT-2395 skimmed (NOTE-tmpqvc1g, THEORY-tmp15tfp, corroborates
+  CLAIM-661), CLAIM-661 note, LIT-2395 note.
+- Next: notes on CASE-171/173/174 (unverified); LEAD-138 note; changelog.
