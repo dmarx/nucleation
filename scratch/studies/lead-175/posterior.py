@@ -105,7 +105,11 @@ def main():
     ap.add_argument("--nleap", type=int, default=8)
     ap.add_argument("--classify-every", type=int, default=5)
     ap.add_argument("--seed", type=int, default=0)
+    ap.add_argument("--ladder", default="20,10000,44", help="lo,hi,count of the geometric ladder of n")
     a = ap.parse_args()
+    global LADDER
+    lo, hi, cnt = a.ladder.split(",")
+    LADDER = np.geomspace(float(lo), float(hi), int(cnt))
     region = label_to_code(a.region) if a.region else None
     stfile = a.out + ".STATE.npz"
     nb = 0
