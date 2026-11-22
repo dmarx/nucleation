@@ -43,3 +43,20 @@ Where the record names it:
 
 A match extends the lattice result [QUESTION-065](../questions.d/QUESTION-065.md) starts from; a divergence
 in a local system answers it the other way and bounds [CLAIM-157](../claims.d/CLAIM-157.md).
+
+## Note of 2026-11-22: carried out
+
+Run as a delegated lead. A non-lattice coupled-agent system was built (a
+linear Gaussian VAR(1) on communities laid on a path, random within) and the
+two variables were computed and compared across 960 systems
+([CASE-tmpoeu1o](../cases.d/CASE-tmpoeu1o.md)): the variable most informative about the far environment
+across a buffer (top canonical correlation) and [CLAIM-157](../claims.d/CLAIM-157.md)'s gap-isolated
+block (the leading mode of the region's dynamics). They coincide on a
+lattice-like homogeneous boundary (overlap 0.99) and generically diverge off
+it (overlap mean 0.74, down to 0.19): the informative variable is a boundary
+mode, the block the spread collective mode. The finding is [CLAIM-tmpzdcl1](../claims.d/CLAIM-tmpzdcl1.md),
+which answers [QUESTION-065](../questions.d/QUESTION-065.md) the divergence way and bounds [CLAIM-157](../claims.d/CLAIM-157.md). What
+remains: the uniqueness part of [QUESTION-065](../questions.d/QUESTION-065.md) is untouched, and the finding
+is shown for one model family with one reading of informativeness
+(equal-time); a conditional-information or time-lagged reading, or a nonlinear
+system, is left open. Status and stage unchanged; the owner marks the lead.
