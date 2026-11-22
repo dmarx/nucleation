@@ -1,0 +1,153 @@
+---
+status: Read
+paper: LIT-tmpmkmjq
+title: 'Zidda and colleagues 2025, read for whether people with PTSD sample context less than trauma-exposed controls'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 for LEAD-106 from the open-access full text
+    (PMC12065850, CC BY-NC-ND) served by the Europe PMC REST API
+    (fullTextXML), converted to text by script. Read in full: Abstract,
+    Introduction, Results, Discussion, Methods. Skipped: the supplement
+    (acquisition details, stimulus tables, the non-traumatic-cue analyses)
+    and the figures, which were not in the XML as images. Every quotation
+    below rechecked against the downloaded text. Read by the lead worker
+    itself. No email address sent.
+date: '2026-11-22'
+summary: >-
+  Twenty people with PTSD and twenty trauma-exposed controls freely viewed
+  pictures in which a cue specific to their own trauma type was set in a
+  neutral background, under EEG and eye tracking. Both groups looked at the
+  cue first and equally fast; the PTSD group took longer to make a first
+  fixation on the background, and later recognised rearranged cue–context
+  pairs worse. The delay to the context, with the earliest visual potential,
+  predicted that memory. Delayed first looks at an uninformative context
+  under a trauma cue, against trauma-exposed controls: the nearest the
+  literature found comes to the first half of QUESTION-303, and it is not
+  that design. The reading is THEORY-tmp1ov9x.
+---
+<!-- inactive-ok-file: THEORY-tmp1ov9x CLAIM-tmpcug8h CLAIM-tmpc7tmg ARG-tmpc0892 — new; this reading, and the verdict and its argument filed from it -->
+<!-- inactive-ok-file: THEORY-1179 — Proposed; the wide reading of the model whose promote_when this does not meet -->
+<!-- inactive-ok-file: LIT-tmp5bqfy LIT-tmpgjodp LIT-tmpizs88 — Deferred; other gaze studies registered for the same lead -->
+
+# NOTE-tmpoybvl: Zidda and colleagues 2025, read for whether people with PTSD sample context less than trauma-exposed controls
+
+## Contribution
+
+The first study, as far as the authors and a 2026 scoping review know, to
+measure where people with PTSD look when a trauma cue competes with its
+surrounding context, against trauma-exposed controls without PTSD. It adds
+that the difference is in reaching the context, not in reaching the cue,
+and ties that delay to a later failure of cue–context binding in memory.
+
+## Key results
+
+1. **Design** (Methods, Procedure): "Thirty traumatic cues per trauma type
+   (car accident, aggression, rape, hospital, fire, suicide and war) were
+   embedded in neutral contexts", shown for 6 s each in free viewing.
+   "Each participant saw only the traumatic images related to their
+   specific trauma." The cue was a traced area of interest, and
+   "Everything outside the AOI would be then considered to be the
+   context."
+2. **The gaze result** (Results, eye-tracking; PTSD n = 19, controls
+   n = 18): a stimulus-type by group interaction in time to first
+   fixation, F(1,35) = 5.121, p = .030. "the PTSD group had a
+   significantly longer latency for looking to the context than the NPTSD
+   group (F(1,35) = 6.220, p = .018), whereas there was no significant
+   group difference in the latency to fixation of the cue (F(1,35) =
+   0.441, p = .511)." The cue-to-context interval was also longer in PTSD
+   (t(36) = 2.496, p = .017).
+3. **A general slowing beside it** (same section): "individuals diagnosed
+   with PTSD showed significantly longer latencies to first fixation on
+   the images compared to individuals in the NPTSD group, regardless of
+   whether the stimuli were cues or contexts" (F(1,35) = 4.278, p = .046).
+4. **Memory** (Results, memory test; n = 19 each): a memory-type by group
+   interaction, F(1,36) = 4.956, p = .032: the PTSD group did worse on
+   rearranged pairs ("association") relative to consistent ones ("item").
+5. **Gaze predicts memory** (Results, regression): adding latency to the
+   context to the C1 peaks raised the explained variance in association
+   memory by ΔR² = 0.196 (p = .004); latency to the cue added nothing.
+6. **Early vision** (Results, ERP; n = 16 each): the C1 peak at about
+   40 ms was positive in PTSD and negative in controls, F(1,30) = 4.939,
+   p = .034.
+7. **Non-trauma cues**: across all three groups, "There was no
+   significant effect that survived follow-up tests".
+8. **The authors' reading** (Conclusion): "individuals who did not develop
+   PTSD processed the context more extensively and displayed a balanced
+   attentional distribution between cues and contexts."
+
+## Assumptions
+
+- Time to first fixation on the background indexes how much the context
+  is processed. No dwell time, fixation count or coverage of the context
+  is reported, so "more extensively" in the conclusion goes beyond the
+  gaze measure reported.
+- The background is "neutral": it carries no information about whether
+  the cue is dangerous here. Nothing in the design makes looking at it
+  informative.
+- Cue location is mostly the lower part of the picture (Introduction),
+  which the C1 polarity argument relies on.
+- Groups: PTSD by CAPS (DSM-IV); controls had a criterion-A trauma at
+  least 3 months before; no participant was medicated. Duration of PTSD is
+  not reported, so "persistent" in QUESTION-303's sense is not
+  established.
+
+## Concepts
+
+- **Cue–context competition**: a salient trauma-related element and its
+  surround compete for early processing; PTSD is read as cue-dominant.
+- **Item against association memory**: recognising a picture whole
+  against detecting a recombined cue and context, the latter taken as
+  hippocampal, relational memory.
+
+## Bearing on the record
+
+- **QUESTION-303** (evidence, partial): the first kind of evidence the
+  question asks for is context sampling in PTSD against matched
+  trauma-exposed controls, measured by eye movements, after cued
+  traumatic recall, toward disambiguating periphery. This study has the
+  groups, the gaze measure and a trauma-specific cue. It lacks three
+  things: no recall was cued and no recall-against-none contrast was run;
+  the context does not disambiguate; and only the latency of the first
+  look was measured, not how much the context was sampled. Its direction,
+  later sampling of the context in PTSD with no difference for the cue,
+  is the direction the account predicts, and the general slowing (result
+  3) qualifies even that. Whether it counts as evidence for the question
+  at all is filed as alternatives: CLAIM-tmpcug8h (leaned to: weak,
+  indirect support for the first half), CLAIM-tmpc7tmg (it does not bear
+  as evidence), with ARG-tmpc0892.
+- **THEORY-285** (a parallel in people, not a test): the model's
+  attenuation policy withholds peripheral observations that would
+  disambiguate. Delayed looking at an uninformative background is the
+  behaviour's form without its function.
+- **THEORY-1179**: its `promote_when` is not met by this study, for the
+  same three reasons.
+- **QUESTION-045** (background): the lock-in reading needs behaviour that
+  blocks disconfirmation; this shows a gaze bias, not that the bias blocks
+  anything.
+- **Contrasting studies registered beside it**, not read: Blekic and
+  colleagues (LIT-tmp5bqfy) report shorter scanpaths in PTSD than in
+  trauma-exposed controls in visual search; Milanak and colleagues
+  (LIT-tmpgjodp) report more time on emotional backgrounds with more
+  symptoms; Kimble, Cappello and Fleming (LIT-tmpizs88) report more
+  scanning of ambiguous pictures with more hypervigilance.
+
+## Limitations
+
+- Small groups (19 and 18 for gaze), and the authors' own power analysis
+  assumed effects larger than they found: "the observed effect sizes for
+  the interaction effects were somewhat lower than anticipated".
+- Three outliers "were replaced by the mean", and non-normal data were
+  log-transformed; no robustness check without the replacement is
+  reported.
+- A gap in the argument: the conclusion that controls "processed the
+  context more extensively" is drawn from first-fixation latency alone.
+  A later first look is compatible with as much total sampling.
+- The group slowing to all regions (result 3) is not separated from the
+  context-specific delay beyond the interaction test.
+- Trauma types were mixed, with different stimulus sets for each, and the
+  groups' trauma types, while not significantly different, were not
+  matched one to one.
+- The data are not public.
