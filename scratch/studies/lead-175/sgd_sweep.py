@@ -14,14 +14,14 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
 import tms
 
-INITS = ("4gon", "5gon", "6gon", "prior")
+INITS = ("4gon", "5gon", "6gon", "prior", "5pgon")
 
 
 def init_params(kind, seed):
     """Paper's init: the 4-gon (l = 1, b = 0; two zero columns with bias 0) plus
     N(0, 0.01^2) noise on every parameter (Chen et al. §5). '5gon' and '6gon':
     those critical points (sixth column of the 5-gon zero, bias -0.1) plus the same
-    noise; '6gon' is a stability control. 'prior': a draw from N(0, 1) on all 18
+    noise; '6gon' is a stability control; '5pgon' is the 5+-gon plus the noise. 'prior': a draw from N(0, 1) on all 18
     parameters, the prior Chen et al. sample under."""
     rng = np.random.default_rng([7, INITS.index(kind), seed])
     if kind == "prior":
@@ -30,6 +30,8 @@ def init_params(kind, seed):
         W, b = tms.kgon(4, 1.0, 0.0, [0.0, 0.0])
     elif kind == "5gon":
         W, b = tms.kgon(5, 1.17046, -0.28230, [-0.1])
+    elif kind == "5pgon":                               # the 5+-gon: sixth column zero, bias 1/12
+        W, b = tms.CRIT["5+"]
     else:
         W, b = tms.CRIT["6"]
     return W + rng.normal(scale=0.01, size=W.shape), b + rng.normal(scale=0.01, size=b.shape)
@@ -95,7 +97,7 @@ def main():
     ap.add_argument("--ns", default="300,500,700,1000,2000")
     ap.add_argument("--batches", default="100,20,5")
     ap.add_argument("--lrs", default="0.001,0.005,0.02,0.05")
-    ap.add_argument("--inits", default=",".join(INITS))
+    ap.add_argument("--inits", default="4gon,5gon,6gon,prior")
     ap.add_argument("--seeds", type=int, default=6)
     a = ap.parse_args()
     ns = [int(x) for x in a.ns.split(",")]; Bs = [int(x) for x in a.batches.split(",")]

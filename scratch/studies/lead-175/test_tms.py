@@ -76,6 +76,23 @@ def test_classifier_on_critical_points():
     assert tms.label(k[0], s[0], m[0]) == "5+"
 
 
+@pytest.mark.parametrize("lr,B", [(0.005, 20), (0.1, 1), (0.05, 5)])
+def test_dead_column_of_the_5gon_is_frozen_under_sgd(lr, B):
+    """From the perturbed 5-gon, every per-sample gradient in the dead sixth
+    column (W_6, b_6) is exactly zero, so SGD at any rate and batch leaves it
+    where it started: the sixth feature can never be revived."""
+    import sgd_sweep as S
+    rng = np.random.default_rng(0)
+    W0, b0 = S.init_params("5gon", 0)
+    W, b = W0[None].copy(), b0[None].copy()
+    for _ in range(3000):
+        idx = rng.integers(0, 6, size=(1, B)); mu = rng.random((1, B))
+        _, gW, gb = tms.batch_loss_grad(W, b, idx, mu)
+        assert np.all(gW[0, :, 5] == 0) and gb[0, 5] == 0
+        W -= lr * gW; b -= lr * gb
+    assert np.array_equal(W[0, :, 5], W0[:, 5]) and b[0, 5] == b0[5]
+
+
 def test_posterior_energy_gradient_and_codes():
     import posterior as P
     rng = np.random.default_rng(5)
