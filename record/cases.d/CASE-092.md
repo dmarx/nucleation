@@ -159,4 +159,4 @@ The model is built and run as [CASE-363](CASE-363.md), for [LEAD-090](../leads.d
 
 ## Note of 2026-11-22: two institutions
 
-LEAD-015 coupled two of the reduced institutions of the build above, an evaluator and an evaluated party, as CASE-tmpd80em, and derived the pair's symmetry-breaking condition (CLAIM-tmp0v3wu). The design is unchanged.
+[LEAD-015](../leads.d/LEAD-015.md) coupled two of the reduced institutions of the build above, an evaluator and an evaluated party, as [CASE-tmpd80em](CASE-tmpd80em.md), and derived the pair's symmetry-breaking condition ([CLAIM-tmp0v3wu](../claims.d/CLAIM-tmp0v3wu.md)). The design is unchanged.

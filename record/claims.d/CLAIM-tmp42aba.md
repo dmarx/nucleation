@@ -31,10 +31,10 @@ grounds:
 bears_on:
 - QUESTION-100
 summary: >-
-  The capacity reading of CLAIM-404's "resources", beside CLAIM-tmpz8q70's
+  The capacity reading of [CLAIM-404](CLAIM-404.md)'s "resources", beside [CLAIM-tmpz8q70](CLAIM-tmpz8q70.md)'s
   directional one. With the party's lean scaling the evaluator's conferral
   gain, g_E(1 + ω m_P), the channel's first-order term vanishes at
-  symmetry, so CLAIM-tmp0v3wu's condition is unchanged (spectral radius 1.0048
+  symmetry, so [CLAIM-tmp0v3wu](CLAIM-tmp0v3wu.md)'s condition is unchanged (spectral radius 1.0048
   for ω from 0 to 2). Above threshold it enlarges the captured reading on
   its side (0.385 to 0.754) and shrinks the other (−0.151). Below threshold
   (spectral radius 0.987 to 0.996), and with θ = 0 (0.958), a start at 0.9
@@ -49,23 +49,23 @@ summary: >-
 
 ## The claim
 
-CLAIM-404's evaluator is one "whose evidence or resources the evaluated party affects". CASE-tmpd80em reads "resources" two ways, and they are filed as alternatives.
+[CLAIM-404](CLAIM-404.md)'s evaluator is one "whose evidence or resources the evaluated party affects". [CASE-tmpd80em](../cases.d/CASE-tmpd80em.md) reads "resources" two ways, and they are filed as alternatives.
 
-- **Direction** (CLAIM-tmpz8q70): the party's resources favour the evaluator's specialist whose line agrees with the party's, an additive tilt ω m_P of the evaluator's conferral. It has a first-order term, enters the round trip as σ_E ω, and alone can destabilize symmetry.
+- **Direction** ([CLAIM-tmpz8q70](CLAIM-tmpz8q70.md)): the party's resources favour the evaluator's specialist whose line agrees with the party's, an additive tilt ω m_P of the evaluator's conferral. It has a first-order term, enters the round trip as σ_E ω, and alone can destabilize symmetry.
 - **Capacity** (this claim): the party's resources set how strongly the evaluator's conferral answers agreement, g_E(1 + ω m_P), as funding might buy an evaluator more of the scoring that drives its authority. At symmetry the term is ω m_P · m_E, second order, so it drops from the Jacobian.
 
-Under the capacity reading, in CASE-tmpd80em:
+Under the capacity reading, in [CASE-tmpd80em](../cases.d/CASE-tmpd80em.md):
 
 1. *The linear condition is unchanged.* With θ = 0.6, ψ = 1, the spectral radius was 1.0048 at ω = 0, 0.5, 1 and 2.
 2. *Beyond it, the resources pick a side.* The captured reading on the side the party's lean favours grew from 0.385 to 0.754 as ω went from 0 to 2; on the other side it shrank to −0.151.
 3. *Below it, capture from a push, one-sided.* At θ = 0.4, ψ = 1 (spectral radius 0.996) with ω = 2, and at θ = 0.3, ψ = 0.8 (0.987) with ω = 5, a start at 0.9 on the favoured side was captured (m_E = 0.431 and 0.556) and a start at −0.9 returned to symmetry.
 4. *Even with the evidence independent.* With θ = 0 (spectral radius 0.958), ω = 5 with ψ = 2 and ω = 10 with ψ = 1 or 2 were captured from the favoured side only.
 
-So under this reading the symmetric state's stability is not the whole of the risk. An evaluator can pass CLAIM-tmp0v3wu's test and still hold a captured state on the side the party's resources favour, reached by a shock rather than by drift.
+So under this reading the symmetric state's stability is not the whole of the risk. An evaluator can pass [CLAIM-tmp0v3wu](CLAIM-tmp0v3wu.md)'s test and still hold a captured state on the side the party's resources favour, reached by a shock rather than by drift.
 
 ## Which reading
 
-The two are not rival results: each is true of its model. They differ in what CLAIM-404's "resources" means, and so in which one its worked model is. The assistant leans to the directional reading for LEAD-015's condition, since the lead asks for the symmetry-breaking condition and only that reading has a linear term, and to keeping this one as the limit of that condition: the local test can miss a one-sided capture. Choosing, or keeping both, is the owner's call.
+The two are not rival results: each is true of its model. They differ in what [CLAIM-404](CLAIM-404.md)'s "resources" means, and so in which one its worked model is. The assistant leans to the directional reading for [LEAD-015](../leads.d/LEAD-015.md)'s condition, since the lead asks for the symmetry-breaking condition and only that reading has a linear term, and to keeping this one as the limit of that condition: the local test can miss a one-sided capture. Choosing, or keeping both, is the owner's call.
 
 ## What it does not say
 
