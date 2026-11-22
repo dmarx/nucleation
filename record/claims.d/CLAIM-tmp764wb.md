@@ -77,3 +77,17 @@ performative update, and it is outside the type system.
   annotation the code does not yet meet, and then changes the code, is
   using the type as a requirement; the claim is that the checker's part
   in that is the same as in describing.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 CLAIM-tmpvq4ru ARG-tmp7pf1t — Proposed; filed from the reading for LEAD-tmp3xevc -->
+
+This claim left open whether checking moves a term in a bidirectional
+system. Davies and Pfenning's checker (THEORY-tmpei9b5; NOTE-tmpaiy4v) is
+one, and in it too no rule moves a term: ascriptions are erased, subtyping
+is inclusion, and the fix to a failing term is left to the programmer,
+(pp. 2, 6–7, 10). CLAIM-tmpvq4ru files that, as a complement of this
+claim for the bidirectional case. The second half of this claim, that
+whether an annotation describes or requires is settled by whether the term
+already passes, the paper neither confirms nor defeats: it never says
+whether a met ascription was written before its term. ARG-tmp7pf1t files
+this claim's reading and the opposing one as alternatives. No change.

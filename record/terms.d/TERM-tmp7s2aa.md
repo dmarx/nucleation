@@ -81,3 +81,18 @@ value, not anything that has the type. The definition's "a realization
 exhibited" already says so. The system carries no certificate: that a
 term has a refinement is a derivation found and not kept, a witness
 without certificate in the sense above ([ARG-tmptph3p](../arguments.d/ARG-tmptph3p.md)). No change.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 THEORY-tmp1mruk CLAIM-783 — Proposed; filed for LEAD-tmp3xevc -->
+
+Davies and Pfenning's value restriction (THEORY-tmpei9b5; NOTE-tmpaiy4v)
+gives this term's "a realization exhibited" a second reason, beside
+Freeman and Pfenning's divergence (THEORY-tmp1mruk). With effects, a term
+that has A and has B need not have A ∧ B: running it may allocate a cell
+that each derivation types differently, so "the introduction rule for
+intersections is restricted to values" (p. 3; proof, p. 6). A value
+witnesses each test it passes and their conjunction; a computation still
+to be run does not. That is the condition CLAIM-783's witness argument
+already meets, the entry being a version, and it marks where the argument
+would stop: at tests about what is still to be done to the thing. No
+change to the definition.
