@@ -1,0 +1,11 @@
+pi* = 0.6
+c=1.0 pi0=0.55: pi_final=0.0000 m_final=-1.5000
+c=1.0 pi0=0.59: pi_final=0.0000 m_final=-1.5000
+c=1.0 pi0=0.61: pi_final=1.0000 m_final=+0.5000
+c=1.0 pi0=0.65: pi_final=1.0000 m_final=+0.5000
+c=1.0 pi0=0.9: pi_final=1.0000 m_final=+0.5000
+c=0.0 pi0=0.55: pi_final=0.0000 m_final=-1.5000
+c=0.0 pi0=0.59: pi_final=0.0000 m_final=-1.5000
+c=0.0 pi0=0.61: pi_final=0.0000 m_final=-1.5000
+c=0.0 pi0=0.65: pi_final=0.0000 m_final=-1.5000
+c=0.0 pi0=0.9: pi_final=0.0000 m_final=-1.5000
