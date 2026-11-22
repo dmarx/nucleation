@@ -14,5 +14,7 @@ LIT-2373, LIT-2363 (sweep-b), 2026-11-22.
 - LIT-2373: NOTE-tmpdb4eb, THEORY-tmp4gziy, LIT to Active (v4), citation 208:164; dated notes on QUESTION-441, LEAD-050, THEORY-1653, THEORY-662.
 - LIT-2363: NOTE-tmphq6zm, THEORY-tmpam6lh, LIT to Active (v3); dated notes on QUESTION-456, LIT-2458, NOTE-1746, LEAD-158, THEORY-1693, CLAIM-482.
 
+- Curation entry record/curation.d/2026/11/22/113444.md; changelog fragment record/changelog.d/readings-sweep-ab.md.
+
 ## Next
-- Curation entry, changelog fragment.
+- Nothing: the batch is filed. Report to the caller.
