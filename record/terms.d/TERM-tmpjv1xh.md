@@ -28,6 +28,7 @@ summary: >-
   CLAIM-199 said it did not supply. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmp03h8w CASE-tmphabte — new, filed with this term -->
 
 # TERM-tmpjv1xh: Receiver-restricted informativeness order
 
@@ -76,10 +77,13 @@ attainable with α", read through the achievable sets).
 
 ## What would settle it
 
-The definition is the assistant's choice of three that the lead left open.
+The definition makes three choices the lead left open, as the assistant's.
 Comparing on one medium (rather than a family of rule classes, one per
 medium) is chosen because the disjoint union makes the two the same. All
 full-support priors are quantified because the order is the same for each
 (CLAIM-tmp03h8w, result 2), so the choice costs nothing. Rules may be
 randomised, since a receiver's usable risk is the same over its rules as
 over their mixtures.
+
+The results that make it worth adopting are CLAIM-tmp03h8w's, checked
+numerically in CASE-tmphabte.
