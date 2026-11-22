@@ -67,12 +67,12 @@ Krishnaswami reading.
 <!-- inactive-ok-file: THEORY-tmpei9b5 ARG-tmp7pf1t ARG-tmpdq64g CLAIM-tmpvq4ru — Proposed or Rejected; filed from this reading -->
 
 Davies and Pfenning (2000), added to the readings at the owner's request,
-is read: LIT-tmp57uqz, NOTE-tmpaiy4v, THEORY-tmpei9b5, with ARG-tmp7pf1t,
-ARG-tmpdq64g and CLAIM-tmpvq4ru (pull request "Read Davies and Pfenning
+is read: [LIT-tmp57uqz](../literature.d/LIT-tmp57uqz.md), [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md), [THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md), with [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md),
+[ARG-tmpdq64g](../arguments.d/ARG-tmpdq64g.md) and [CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md) (pull request "Read Davies and Pfenning
 2000"). In the paper that introduced bidirectional refinement checking,
 the checked type is the programmer's, given in advance, and a failing term
 is the one to change; synthesis mostly passes on declared types; and no
 rule moves a term, so the elaboration clause has nothing in this system to
 map to. The value restriction gives the witness a second reason to be a
 value. Whether a met ascription is a requirement is left to the owner, as
-two alternatives in ARG-tmp7pf1t.
+two alternatives in [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md).

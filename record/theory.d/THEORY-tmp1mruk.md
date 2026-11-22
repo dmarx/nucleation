@@ -81,7 +81,7 @@ with σ and τ has σ ∧ τ, inhabited by its value.
 <!-- inactive-ok-file: THEORY-tmpei9b5 — Proposed; filed for LEAD-tmp3xevc -->
 
 A contrast from the same line of work. Davies and Pfenning
-(THEORY-tmpei9b5; NOTE-tmpaiy4v), citing this paper as [7], drop its
+([THEORY-tmpei9b5](THEORY-tmpei9b5.md); [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)), citing this paper as [7], drop its
 requirement that intersected types refine one simple type (p. 1), show
 general intersections unsound with references unless introduction is
 restricted to values (p. 3), and replace inference, "most likely

@@ -30,7 +30,7 @@ summary: >-
   against and passed down to subterms, synthesized where they can be read
   off, and erased. No rule changes a term or inserts a coercion.
 ---
-<!-- inactive-ok-file: THEORY-tmpei9b5 ARG-tmp7pf1t ARG-tmpdq64g CLAIM-tmpvq4ru CLAIM-tmpnookt CLAIM-tmp764wb CLAIM-tmpmk056 CLAIM-783 TERM-134 TERM-tmp7s2aa TERM-tmp8b1yl TERM-tmp3mop8 THEORY-tmp1mruk — Proposed or Rejected; this reading's account, what was filed from it, and the entries it bears on -->
+<!-- inactive-ok-file: ARG-tmp7pf1t ARG-tmpdq64g CLAIM-tmpvq4ru CLAIM-tmpnookt CLAIM-tmp764wb CLAIM-tmpmk056 CLAIM-783 TERM-134 TERM-tmp7s2aa TERM-tmp8b1yl TERM-tmp3mop8 THEORY-tmp1mruk — Proposed or Rejected; this reading's account, what was filed from it, and the entries it bears on -->
 
 # NOTE-tmpaiy4v: Davies and Pfenning — Intersection Types and Computational Effects
 
@@ -177,10 +177,10 @@ The brief's four questions, then the other bearings.
   to the reader" (result 10); the ascription stands. In that case the
   checked type is world to word. Whether an ascription the term already
   meets (inc) is a requirement or a description the paper does not say;
-  both of the record's readings fit it, TERM-tmp8b1yl's that the term as
+  both of the record's readings fit it, [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)'s that the term as
   it stands settles it, and the parallel reading of Dunfield and
   Krishnaswami (pull request 707) that a met requirement is still one
-  (ARG-tmp7pf1t). One thing the paper adds: an ascription is both, by
+  ([ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md)). One thing the paper adds: an ascription is both, by
   site. It is checked against its term and then "yields A as the
   synthesized type" (p. 6) for every use, where it is relied on without
   looking at the term. And most synthesized types are such declared
@@ -194,9 +194,9 @@ The brief's four questions, then the other bearings.
   non-value to meet the value restriction, which "only alters the
   semantics of the program when effects are involved" (p. 5), and lifting
   a local function so it can be annotated (result 9). So the paper extends
-  CLAIM-tmp764wb from Freeman and Pfenning's inference to a bidirectional
-  system (CLAIM-tmpvq4ru), and gives no support to CLAIM-tmpnookt's clause
-  that the performative case is elaboration or coercion (ARG-tmpdq64g):
+  [CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md) from Freeman and Pfenning's inference to a bidirectional
+  system ([CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md)), and gives no support to [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s clause
+  that the performative case is elaboration or coercion ([ARG-tmpdq64g](../arguments.d/ARG-tmpdq64g.md)):
   in the system that introduced bidirectional refinement checking there is
   none. It does not refute the clause in general: the authors say a
   coercive interpretation would be easy (p. 2), and that would be one.
@@ -204,14 +204,14 @@ The brief's four questions, then the other bearings.
   only in part: the checked type is given in advance and a failure is laid
   on the term, but the synthesized type is mostly not read off the term.
 - **(c) The value restriction and the witness.** It bears on
-  TERM-tmp7s2aa's caution that the witness must be a value, by a second
+  [TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md)'s caution that the witness must be a value, by a second
   route. Freeman and Pfenning's reason was termination: a diverging term
   can have the empty refinement. Here it is effects: a term that has A and
   has B need not have A ∧ B unless it is a value, because running it may
   allocate a cell that each derivation types differently (result 3). The
   witness argument, that whatever passes each of two tests passes both,
   holds for a value and fails for a computation still to run. A parallel
-  for CLAIM-783, which argues that descriptors never conflict because the
+  for [CLAIM-783](../claims.d/CLAIM-783.md), which argues that descriptors never conflict because the
   entry witnesses them: the entry there is a version, a value, so the
   argument stands; the paper marks where it would stop, at predicates
   about what is still to be done to the entry. The cell's own type shows
@@ -226,20 +226,20 @@ The brief's four questions, then the other bearings.
   is what cannot be read off: a function's several properties (its
   intersection), and an invariant strong enough for recursion, since a
   weaker true ascription for inc "would have been insufficient" (result
-  10). This is the contrast with Freeman and Pfenning (THEORY-tmp1mruk),
+  10). This is the contrast with Freeman and Pfenning ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md)),
   whose inference was decidable because the refinements were a finite
   lattice declared in advance and only refinements of one type were
   intersected: there the distinctions are stated once, as declarations,
   and read off each term; here, with the restriction dropped, they are
   stated per function and checked.
-- **CLAIM-tmpmk056** (contrast). Again informative update only, inside
+- **[CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md)** (contrast). Again informative update only, inside
   the system; performative update is the programmer's. The η-expansion
   case adds that the change can alter behaviour.
-- **TERM-tmp3mop8** (parallel). Types "may, but need not be carried at
+- **[TERM-tmp3mop8](../terms.d/TERM-tmp3mop8.md)** (parallel). Types "may, but need not be carried at
   runtime" (p. 2) and are erased by compilation (Theorem 7): the checker
   produces no certificate kept with the term. A checked term is a witness
   whose derivation is discarded.
-- **TERM-134** (parallel). With the vocabulary of refinements open, as
+- **[TERM-134](../terms.d/TERM-134.md)** (parallel). With the vocabulary of refinements open, as
   here, they cannot be inferred and must be written; with it closed and
   declared, as in Freeman and Pfenning, they can be. The record's closed
   topics vocabulary is the second kind.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmpaiy4v) from the authors' copy on Frank
+  read in full 2026-11-22 ([NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)) from the authors' copy on Frank
   Pfenning's faculty page at Carnegie Mellon, the published text with the
   ACM permission notice, paginated 1 to 11; worth reading as the paper that
   introduced bidirectional checking for intersection and refinement types,
@@ -52,8 +52,8 @@ summary: >-
   principal types do not exist, the authors give a bidirectional checker:
   the programmer ascribes types, chiefly to function definitions, terms are
   checked against them or have types synthesized, and ascriptions are
-  erased, with no coercion inserted. Read in NOTE-tmpaiy4v for
-  LEAD-tmp3xevc's test of CLAIM-tmpnookt; the reading is THEORY-tmpei9b5.
+  erased, with no coercion inserted. Read in [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md) for
+  [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)'s test of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md); the reading is [THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpei9b5 ARG-tmp7pf1t ARG-tmpdq64g CLAIM-tmpvq4ru CLAIM-tmpnookt — Proposed or Rejected; this work's reading, the arguments and counter filed from it, and the claim it tests -->
 
@@ -87,8 +87,8 @@ on Functional Programming (ICFP '00), Montreal, pp. 198–208. ACM Press. DOI
 
 ## Standing in the record
 
-Filed by LEAD-tmp3xevc to test, in a bidirectional system, CLAIM-tmpnookt's
+Filed by [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md) to test, in a bidirectional system, [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s
 correspondence of the direction of fit with synthesis against checking and
 its clause that the move fitting a term to a type is elaboration or
-coercion. It bears out the first narrowly (ARG-tmp7pf1t) and gives no
-support to the second (ARG-tmpdq64g, CLAIM-tmpvq4ru).
+coercion. It bears out the first narrowly ([ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md)) and gives no
+support to the second ([ARG-tmpdq64g](../arguments.d/ARG-tmpdq64g.md), [CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md)).

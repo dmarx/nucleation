@@ -171,8 +171,8 @@ change.
 A parallel, not evidence. Part 6's argument, that predicates the entry
 passes when added never conflict since the entry witnesses them, is the
 rule of intersection introduction, and Davies and Pfenning
-(THEORY-tmpei9b5; NOTE-tmpaiy4v) show the rule fails for anything but a
-value once there are effects (p. 3, p. 6; TERM-tmp7s2aa). The entry here
+([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md); [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)) show the rule fails for anything but a
+value once there are effects (p. 3, p. 6; [TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md)). The entry here
 is a version, a value, so part 6 stands. The paper's counterexample marks
 the limit: a cell typed nat ref ∧ pos ref is correctly described by both
 types now, but a ref type also governs future writes, and the two

@@ -89,10 +89,10 @@ pass a type it fails, lies with the programmer, outside the system
 <!-- inactive-ok-file: THEORY-tmpei9b5 CLAIM-tmpvq4ru — Proposed; filed for LEAD-tmp3xevc -->
 
 A contrast, again, from Davies and Pfenning's bidirectional checker
-(THEORY-tmpei9b5; NOTE-tmpaiy4v): informative update only inside the
+([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md); [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)): informative update only inside the
 system, checking accepting or rejecting and ascriptions erased; the
 performative update that makes a failing term pass is the programmer's
-(CLAIM-tmpvq4ru). One addition: such an edit can change behaviour.
+([CLAIM-tmpvq4ru](CLAIM-tmpvq4ru.md)). One addition: such an edit can change behaviour.
 η-expanding a non-value to meet the value restriction "only alters the
 semantics of the program when effects are involved" (p. 5), which is to
 say it does then. No change.

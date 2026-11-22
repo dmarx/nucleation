@@ -65,7 +65,7 @@ version.
 ## Note of 2026-11-22: Davies and Pfenning, read
 <!-- inactive-ok-file: THEORY-tmpei9b5 — Proposed; filed for LEAD-tmp3xevc -->
 
-A parallel. In Davies and Pfenning's checker (THEORY-tmpei9b5;
-NOTE-tmpaiy4v) types "may, but need not be carried at runtime" (p. 2), and
+A parallel. In Davies and Pfenning's checker ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md);
+[NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)) types "may, but need not be carried at runtime" (p. 2), and
 ascriptions are erased (p. 7): the checking derivation is found and then
 discarded, a witness kept without its certificate. No change.

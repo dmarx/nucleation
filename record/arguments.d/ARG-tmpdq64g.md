@@ -17,24 +17,24 @@ line:
 - formal-apparatus
 - record-as-apparatus
 summary: >-
-  Rejected as a route: in Davies and Pfenning's checker (THEORY-tmpei9b5)
+  Rejected as a route: in Davies and Pfenning's checker ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md))
   ascriptions are erased, subtyping is inclusion and no rule inserts or
   changes anything, so the move that makes a failing term pass is the
   programmer's edit, outside the system. Standing of the conclusion apart
-  from this route: CLAIM-tmpnookt holds the clause, from the assistant's
-  knowledge; CLAIM-tmpvq4ru tells against it for this system; no reading on
+  from this route: [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) holds the clause, from the assistant's
+  knowledge; [CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md) tells against it for this system; no reading on
   the record yet tests it against a system that elaborates. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: THEORY-tmpei9b5 CLAIM-tmpnookt CLAIM-tmpvq4ru CLAIM-tmpmk056 CLAIM-tmp764wb TERM-tmp8b1yl — Proposed; the reading, the claim this is about, the counter filed from the reading, and the entries it is stated against -->
+<!-- inactive-ok-file: THEORY-tmpei9b5 CLAIM-tmpnookt CLAIM-tmpvq4ru CLAIM-tmpmk056 — Proposed; the reading, the claim this is about, the counter filed from the reading, and the entries it is stated against -->
 
 # ARG-tmpdq64g: Davies and Pfenning's bidirectional refinement checking, by analogy, shows that the move that fits a term to a type it is checked against is elaboration or coercion
 
 ## The inference
 
-CLAIM-tmpnookt's clause: checking only accepts or rejects, and "the
-performative update that moves the term to fit (CLAIM-tmpmk056) is
+[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s clause: checking only accepts or rejects, and "the
+performative update that moves the term to fit ([CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md)) is
 elaboration or coercion". Davies and Pfenning's is a bidirectional
 refinement checker in which a term is checked against a type the
 programmer gives; if a move that fits a term is anywhere in such a system,
@@ -60,6 +60,6 @@ the analogy would carry it to the record's performative update.
 
 ## Verdict
 
-Rejected as a route to the clause. CLAIM-tmpvq4ru files what the paper
-does show; the clause stays with CLAIM-tmpnookt, untested by any reading
+Rejected as a route to the clause. [CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md) files what the paper
+does show; the clause stays with [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md), untested by any reading
 of an elaborating system.

@@ -21,14 +21,14 @@ source:
 corroborates:
 - CLAIM-tmpnookt
 summary: >-
-  Davies & Pfenning (2000), LIT-tmp57uqz, read in NOTE-tmpaiy4v for
-  LEAD-tmp3xevc. The paper that introduced bidirectional checking for
+  Davies & Pfenning (2000), [LIT-tmp57uqz](../literature.d/LIT-tmp57uqz.md), read in [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md) for
+  [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). The paper that introduced bidirectional checking for
   intersection and refinement types. For the record it is the test, in a
-  system where checking is a mode of its own, of CLAIM-tmpnookt's
+  system where checking is a mode of its own, of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s
   correspondence of the direction of fit with synthesis against checking,
-  which it bears out narrowly (ARG-tmp7pf1t), and of its clause that the
+  which it bears out narrowly ([ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md)), and of its clause that the
   move fitting a term to a type is elaboration or coercion, which it does
-  not (ARG-tmpdq64g, CLAIM-tmpvq4ru). Proposed until its theorems are
+  not ([ARG-tmpdq64g](../arguments.d/ARG-tmpdq64g.md), [CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md)). Proposed until its theorems are
   checked independently and its checker implemented as described.
 ---
 <!-- inactive-ok-file: ARG-tmp7pf1t ARG-tmpdq64g CLAIM-tmpvq4ru CLAIM-tmpnookt CLAIM-tmp764wb CLAIM-783 TERM-tmp7s2aa THEORY-tmp1mruk — Proposed or Rejected; the arguments and counter filed from this reading, and the entries it bears on -->
@@ -37,7 +37,7 @@ summary: >-
 
 ## Source
 
-Davies & Pfenning (2000), LIT-tmp57uqz, read in NOTE-tmpaiy4v from the
+Davies & Pfenning (2000), [LIT-tmp57uqz](../literature.d/LIT-tmp57uqz.md), read in [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md) from the
 authors' copy (pages 1 to 11).
 
 ## The account
@@ -75,14 +75,14 @@ description or a requirement.
 
 ## Bearing
 
-It corroborates CLAIM-tmpnookt in one correspondence, narrowed: checking
+It corroborates [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) in one correspondence, narrowed: checking
 holds a term to a type given in advance by the programmer, and a term that
 fails is the one to change, while synthesis mostly reports declared types
-rather than reading a type off the term (ARG-tmp7pf1t). It gives no
+rather than reading a type off the term ([ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md)). It gives no
 support to the clause that the move fitting a term to a type is elaboration
-or coercion (ARG-tmpdq64g) and grounds the counter that the move is the
-programmer's (CLAIM-tmpvq4ru), which extends CLAIM-tmp764wb to a
-bidirectional system. Its value restriction gives TERM-tmp7s2aa's caution,
+or coercion ([ARG-tmpdq64g](../arguments.d/ARG-tmpdq64g.md)) and grounds the counter that the move is the
+programmer's ([CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md)), which extends [CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md) to a
+bidirectional system. Its value restriction gives [TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md)'s caution,
 that a witness is a value, a second reason beside Freeman and Pfenning's
-(THEORY-tmp1mruk): effects, not only divergence; and it marks where
-CLAIM-783's witness argument would stop.
+([THEORY-tmp1mruk](THEORY-tmp1mruk.md)): effects, not only divergence; and it marks where
+[CLAIM-783](../claims.d/CLAIM-783.md)'s witness argument would stop.

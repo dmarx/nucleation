@@ -30,12 +30,12 @@ complements:
 uses:
 - TERM-tmp8b1yl
 summary: >-
-  Filed from the reading of Davies and Pfenning (THEORY-tmpei9b5,
-  NOTE-tmpaiy4v) for LEAD-tmp3xevc. It objects to one clause of
-  CLAIM-tmpnookt, that the performative case which moves a term to fit a
+  Filed from the reading of Davies and Pfenning ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md),
+  [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)) for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). It objects to one clause of
+  [CLAIM-tmpnookt](CLAIM-tmpnookt.md), that the performative case which moves a term to fit a
   type is elaboration or coercion, for the system that introduced
   bidirectional refinement checking: there no rule moves a term, and the
-  move is the programmer's. It carries CLAIM-tmp764wb's finding about
+  move is the programmer's. It carries [CLAIM-tmp764wb](CLAIM-tmp764wb.md)'s finding about
   Freeman and Pfenning's inference over to a system in which checking is a
   mode of its own. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
@@ -46,14 +46,14 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmpnookt reads the direction of fit (TERM-tmp8b1yl) as bidirectional
+[CLAIM-tmpnookt](CLAIM-tmpnookt.md) reads the direction of fit ([TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)) as bidirectional
 typing's split, and adds: "Checking only accepts or rejects; the
-performative update that moves the term to fit (CLAIM-tmpmk056) is
+performative update that moves the term to fit ([CLAIM-tmpmk056](CLAIM-tmpmk056.md)) is
 elaboration or coercion, which inserts what the term needs to inhabit the
-type." CLAIM-tmp764wb found no such move in Freeman and Pfenning's system,
+type." [CLAIM-tmp764wb](CLAIM-tmp764wb.md) found no such move in Freeman and Pfenning's system,
 but that system infers and is not bidirectional.
 
-Davies and Pfenning's is bidirectional (THEORY-tmpei9b5): it "distinguishes
+Davies and Pfenning's is bidirectional ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md)): it "distinguishes
 terms for which a type can be synthesized from terms which can be checked
 against a given type" (p. 6). In it:
 
@@ -71,7 +71,7 @@ against a given type" (p. 6). In it:
   lifting local function definitions" (p. 7).
 
 So in the system that introduced bidirectional refinement checking, the
-checking mode is world to word in where its type comes from (ARG-tmp7pf1t),
+checking mode is world to word in where its type comes from ([ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md)),
 but the update that makes a failing term fit is not in the system. It is
 the programmer's edit, outside the checker, and it can change what the
 program does.
@@ -81,7 +81,7 @@ program does.
 - Not that elaboration or coercion never fits a term to a type. The
   authors call a coercive interpretation of subtyping an easy extension
   (p. 2), and later systems elaborate; the claim is about this one.
-- Not that the clause of CLAIM-tmpnookt fails on its own terms, which is
+- Not that the clause of [CLAIM-tmpnookt](CLAIM-tmpnookt.md) fails on its own terms, which is
   that claim's `defeated_if` (b): it names a mechanism this paper lacks,
   and a reading of an elaborating system is its test.
 - Not that the programmer's edit is unprincipled. The checker says where

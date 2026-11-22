@@ -17,8 +17,8 @@ line:
 - formal-apparatus
 - record-as-apparatus
 summary: >-
-  The route by which the reading of Davies and Pfenning (THEORY-tmpei9b5)
-  bears on CLAIM-tmpnookt's correspondence of the direction of fit with
+  The route by which the reading of Davies and Pfenning ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md))
+  bears on [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence of the direction of fit with
   bidirectional typing's split. It holds for the checking side, narrowed:
   the checked type is the programmer's, given in advance, and a term that
   fails it is the one to change. It does not hold as stated for the
@@ -34,7 +34,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpnookt: inference "reads a type off a term (the type is written to
+[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md): inference "reads a type off a term (the type is written to
 fit the term: word to world, a descriptor)", and checking "holds a term to
 a type given in advance (world to word, a requirement)". Davies and
 Pfenning's checker has the two modes: synthesis, Γ ⊢ I ↑ A, and checking,
@@ -49,7 +49,7 @@ Pfenning's checker has the two modes: synthesis, Γ ⊢ I ↑ A, and checking,
   domain, each case branch against the type of the whole (Figure 3).
 - **Is a failure laid on the term?** Yes. double fails its ascription;
   the ascription stands and the term is to be fixed (p. 10). In that case
-  the checked type is world to word in TERM-tmp8b1yl's sense on any
+  the checked type is world to word in [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)'s sense on any
   reading.
 - **Is the synthesized type written to fit the term?** Mostly not. An
   ascription "checks C against A and then yields A as the synthesized
@@ -63,7 +63,7 @@ Pfenning's checker has the two modes: synthesis, Γ ⊢ I ↑ A, and checking,
   passes its ascription, and nothing tells whether the type was written
   before the code. Two readings, filed here as alternatives for the
   owner:
-  - *Alternative 1, with CLAIM-tmp764wb and TERM-tmp8b1yl's criterion*:
+  - *Alternative 1, with [CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md) and [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)'s criterion*:
     the term as it stands settles the direction, so a met ascription is a
     descriptor, and only a failing one (double) is world to word. Then the
     modes do not divide the directions; checking is where the world-to-word
@@ -82,7 +82,7 @@ Pfenning's checker has the two modes: synthesis, Γ ⊢ I ↑ A, and checking,
 
 ## Verdict
 
-Supports CLAIM-tmpnookt's correspondence for the checking side, narrowed
+Supports [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence for the checking side, narrowed
 to where the checked type comes from, and does not support it for the
 synthesis side as stated. Proposed: which alternative holds is the owner's
 call.
