@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CASE-tmpa087v
 title: 'Monocercomonoides: a eukaryote that lost its mitochondrion entirely after the organelle''s essential jobs were removed in steps, its Fe–S cluster assembly taken over by a bacterial-type SUF system that its relatives share and its glycine cleavage system lost, and kept canonical eukaryotic complexity'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-27'
@@ -16,6 +16,10 @@ history:
     Bears on QUESTION-277, now that a case can carry `bears_on`
     (ADR-092); added as that decision's demonstration. Its text cites the question: As A2 put it, "losing genetic information is not equivalent to losing function, losing autonomy, or increasing integration" (QUESTION-277). No line changes
     (ADR-085). No other change.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added for LEAD-138: LIT-1567 read; its four facts hold, with refinements. No other change.
 standing: documented
 kind: specimen
 tags:
@@ -31,6 +35,7 @@ summary: >-
 bears_on:
 - QUESTION-277
 ---
+<!-- inactive-ok-file: NOTE-tmpzlv8e THEORY-tmpd9ysz — new, filed for LEAD-138; the reading the note of 2026-11-22 reports -->
 <!-- inactive-ok-file: LIT-1567 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
 
 # CASE-168: Monocercomonoides: a eukaryote that lost its mitochondrion entirely after the organelle's essential jobs were removed in steps, its Fe–S cluster assembly taken over by a bacterial-type SUF system that its relatives share and its glycine cleavage system lost, and kept canonical eukaryotic complexity
@@ -90,3 +95,36 @@ correct the previous title's "one indispensable job":
 - **A substituted dependence.** The organism is a gut commensal that
   salvages its nucleotides. It lost an internal partner and depends on a
   host gut instead. This inference is the record's, not the paper's.
+
+## Note of 2026-11-22: LIT-1567 read (LEAD-138)
+
+Karnkowska et al. 2016 (LIT-1567) is now read in NOTE-tmpzlv8e
+(THEORY-tmpd9ysz), from the in-press article on the first author's
+institutional site. The case took four facts from its abstract.
+
+- **Held.** The genome "lacks all hallmark mitochondrial proteins"
+  (none of the import machinery, carriers, ISC, cardiolipin synthase or
+  ERMES; Golgi proteins found as a control). The ISC pathway, "thought
+  to be conserved in virtually all eukaryotic cells", is replaced by a
+  cytosolic SUF system "acquired by lateral gene transfer from
+  bacteria". The loss is secondary. It is "the first example of a
+  eukaryote lacking any form of a mitochondrion".
+- **Refined.** The secondary-loss argument rests on the free-living
+  sister lineage *Paratrimastix* keeping mitochondrial homologues, and
+  on all oxymonads being obligate animal symbionts, as much as on
+  phylogeny. The SUF acquisition belongs to the ancestor shared with
+  *Paratrimastix*, and the paper's own model (Figure 4) puts the loss
+  of the organelle in a later step. That agrees with the correction
+  LIT-1574 already made to the title.
+- **The authors' caveat.** They "cannot exclude the possibility that a
+  mitochondrion exists ... whose protein composition has been altered
+  entirely", though no evidence points to one.
+- **The substituted dependence.** "All known oxymonads are obligate
+  animal symbionts" is now a premise from the paper. The inference
+  drawn from it, that a host gut stands in for the lost internal
+  partner, remains the record's.
+- **Unverified.** Nothing the case takes from LIT-1567 is left
+  unchecked. The supplementary tables that list the searches were not
+  read.
+
+No status changes.

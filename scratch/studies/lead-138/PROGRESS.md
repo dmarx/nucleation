@@ -52,3 +52,18 @@
 - LIT-2395 Strand 2025/2026: NSF Public Access Repository,
   https://par.nsf.gov/servlets/purl/10652100 (publisher PDF, 2026 vol. 71:209-28)
 - core.ac.uk download: Cloudflare. Stopped.
+
+## Filing
+
+- Choice: lead workers change no held status (run-lead step 6), so the read
+  LITs stay Unfetched with a dated note; promotion to Active is the owner's.
+- Choice: readings done by this worker directly, not by delegated readers
+  (one worker, four short papers).
+- Copies NOT reached, added 2026-11-22: mccutcheonlab.org (TLS: certificate
+  name mismatch), web.biosci.utexas.edu/moran (TLS: incomplete chain),
+  typeset.io PDF for LIT-1611 (refused by this session's permission
+  system), core.ac.uk (Cloudflare).
+- Done: LIT-1567 read: NOTE-tmpzlv8e, THEORY-tmpd9ysz, note on CASE-168, note on LIT-1567.
+- Next: LIT-1586 (NOTE-tmp8zw3r, THEORY-tmp4pf2m), LIT-1602 (NOTE-tmpzfvzz,
+  THEORY-tmpjqe6l), CASE-177 note; LIT-2395 (NOTE-tmpqvc1g, THEORY-tmp15tfp),
+  CLAIM-661 note; notes on CASE-171/173/174 (unverified); LEAD-138 note; changelog.
