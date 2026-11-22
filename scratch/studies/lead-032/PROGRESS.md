@@ -50,9 +50,26 @@ early-warning review). QUESTION-045 has no later filing answering it.
     investigate hysteresis in empirical psychological time series, so
     far." Needs the control variable observed crossing both thresholds.
 
+- Third read: Smit et al. 2025 (37 people, not 41) from the PsyArXiv
+  preprint; Groningen's copy showed a Cloudflare challenge. A second
+  PMC fetch (after the shared scratchpad's dl/ vanished) met a reCAPTCHA.
+- Filed: 9 LITs (3 Active read, 5 Deferred, 1 Unfetched), 3 NOTEs, 3
+  THEORYs; dated notes on QUESTION-045, THEORY-058, TERM-020, CLAIM-446,
+  LEAD-032; curation 2026/11/22/133829; changelog lead-032.md; README.
+
+## Choices made
+
+- Three reads: the most recent dismantling RCT with an open copy
+  (Meckes), the one hysteresis method paper (HysTAR), and the larger
+  individual CSD replication (Smit) over the single-patient Wichers 2016,
+  because it gives sensitivity/specificity. Meulders was the first choice
+  and is Unfetched.
+- Registered only works the notes cite; the rest stay in search.md.
+- Whether Smit meets THEORY-058's promote_when route 1 is left to the
+  owner; no status changed.
+
 ## Next
 
-- Third read: Smit et al. 2025 (CSD across 41 tapering individuals) or
-  Wichers 2016; then register LITs, file NOTEs/THEORYs.
-- Notes on QUESTION-045, LEAD-032, others
-- Changelog fragment
+- Nothing for this worker. Remaining for the lead: read Meulders when
+  Lirias answers; Salkovskis 1999 and Powers 2004 if a lawful copy turns
+  up. The lead opens the pull request.
