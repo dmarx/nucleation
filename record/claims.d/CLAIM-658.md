@@ -47,6 +47,7 @@ summary: >-
   mechanism, [CLAIM-653](CLAIM-653.md), rests on it. The wording is A's; adopting it
   is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpkdnvu — Proposed; the reading of Ivern and Carbonell, 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1747 NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-653 — filed from the same exchange, Proposed -->
@@ -159,3 +160,12 @@ engagement feeding adoption and rankings, is consistent with the claim only
 if that indirect revenue is counted in "marginal revenue response"; they do
 not estimate it. So in this one game, revenue weight did not simply set the
 design.
+
+## Note of 2026-11-22: Ivern and Carbonell, read
+
+A **weak bearing**, no edge (LIT-2447, NOTE-tmpzok4t). The review reports
+no spending distribution and no design history. Its catalogue includes
+"Dynamic LB odds, pricing, or offers based on player behavior" (Table 2):
+where design is personalized, a revenue-optimal design can be set group by
+group rather than once for everyone, which bears on this claim's second
+half without testing it.

@@ -23,6 +23,7 @@ summary: >-
   From the record's Deferred and Unfetched works. Filed by the backlog
   audit of 2026-11-19.
 ---
+<!-- inactive-ok-file: THEORY-tmpkdnvu CASE-248 — Proposed; the reading of Ivern and Carbonell, 2026-11-22, and the case it bears on -->
 <!-- inactive-ok-file: CLAIM-653 CLAIM-658 LIT-2370 LIT-2374 LIT-2381 LIT-2447 LIT-2452 LIT-2469 — Deferred, Proposed, Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-071: Read the inputs to the loot-box study
@@ -49,3 +50,11 @@ which [CLAIM-653](../claims.d/CLAIM-653.md) and [CLAIM-658](../claims.d/CLAIM-65
 ## What would count
 
 Published spending distributions test [CLAIM-658](../claims.d/CLAIM-658.md)'s premise directly.
+
+## Note of 2026-11-22: Ivern and Carbonell, read
+
+LIT-2447 is read (NOTE-tmpzok4t; THEORY-tmpkdnvu) and now Active. It
+confirms CASE-248's design variables and reports no spending distribution,
+so it does not test CLAIM-658's premise. Its included study [61] is
+LIT-2370 (Cordes, Dertwinkel-Kalt and Werner 2024, the same title and DOI
+in its reference list), which stays Unfetched. The other works stay unread.

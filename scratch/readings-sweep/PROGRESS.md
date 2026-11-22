@@ -23,6 +23,7 @@ LIT-2373, LIT-2363 (sweep-b), 2026-11-22.
 
 ## Filed
 - LIT-2447: NOTE-tmpzok4t, THEORY-tmpkdnvu, LIT to Active (v3), citation 13:64. Cordes [61] = LIT-2370.
+- LIT-2447 dated notes: CASE-248, CLAIM-653, CLAIM-658, CASE-250, LEAD-071, LIT-1465, LIT-2421, LIT-2418, LIT-2467, LIT-2401, LIT-2381, LIT-2370.
 
 ## Next
-- LIT-2447 dated notes; LIT-2328 / LIT-2474 notes; LIT-536 and two neighbours; curation; changelog.
+- LIT-2328 / LIT-2474 notes; LIT-536 and two neighbours; curation; changelog.

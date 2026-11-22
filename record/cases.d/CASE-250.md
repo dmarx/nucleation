@@ -31,6 +31,7 @@ summary: >-
   volitional efficacy. Not run. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpkdnvu — Proposed; the reading of Ivern and Carbonell, 2026-11-22 -->
 
 # CASE-250: A proposed study: whether a recommender's objective with interface friction, or a game's monetization design, raises engagement or revenue by lowering the efficacy of commitments its users keep endorsing, measured against goals and budgets elicited apart from any choice
 
@@ -82,3 +83,13 @@ From the reading in [NOTE-1735](../notes.d/NOTE-1735.md) ([LIT-2421](../literatu
 checked by the filer: this paper supplies a candidate inventory of game
 mechanics for that study's treatment variables (no spending limits, pay to
 skip, daily rewards); it does not measure efficacy of commitments.
+
+## Note of 2026-11-22: Ivern and Carbonell, read
+
+**Instances**, no edge (LIT-2447, NOTE-tmpzok4t). The review's
+Self-Regulation Obstacles category, design "decreasing friction for spending
+or restricting selfimposed limits", includes "LBs purchasing process lacks
+confirmation steps", "LB spending or opening limits cannot be set by the
+player or parents" and "LB-related notifications or offers cannot be turned
+off" (Table 2). These are the designs this case would test against users'
+endorsed budgets. The review measures no effect of them.
