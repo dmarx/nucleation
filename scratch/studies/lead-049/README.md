@@ -25,7 +25,10 @@ u(θ) = (a(θ), a(1 − θ))). Integration is RK4 in (log n, θ), with dt = 0.02
   exactly, by support enumeration. Then 30 are simulated: the −i
   community, then reinvasion from 10⁻⁶.
 - **part2**: Theorems A and C. Gaussian niches (m = 12, b = 1, c = 0.2),
-  k = 2–6, w ∈ {0.08, 0.12, 0.2}, 3 seeds. All operators start at
+  k = 2–6, w ∈ {0.08, 0.12, 0.2}. There are 3 seeds for k = 2, 3 and
+  1 seed for k ≥ 4: seeds differ only in the 10⁻³ starting noise, and
+  the CPU was shared. Results are appended to `results/part2_runs.jsonl`,
+  and the run resumes. All operators start at
   θ = 0.5 + 10⁻³ noise, and the run lasts T = 400. At the endpoint the
   script checks Theorem A, comparing the numerical Jacobian with −D H.
   Then, for each survivor i: the frozen recovery rate and its bound; the
@@ -45,5 +48,7 @@ u(θ) = (a(θ), a(1 − θ))). Integration is RK4 in (log n, θ), with dt = 0.02
     python3 -I study.py part3                  # ~5 min (4 processes)
     python3 -I study.py part2                  # ~15–30 min (4 processes)
     python3 -I generalist_check.py
+    python3 -I condC_check.py                  # Theorem C's full hypothesis (part 2's
+                                               # `condC` field omits stationarity)
 
 Results are written to `results/` (JSON; the `*_log.txt` files are stdout).
