@@ -55,3 +55,25 @@ is behind SSRN and needs the owner.
 
 A test of constitutive relevance that the record can apply decides where
 [CLAIM-522](../claims.d/CLAIM-522.md) locates maintenance.
+
+## Note of 2026-11-22: none of the four works reached
+
+A worker sought lawful copies of Krickel (LIT-1925), Craver, Glennan and
+Povich (LIT-1931), Harinen (LIT-1938) and Romero (LIT-1933); Segura
+(LIT-1030) was left, as it waits on the owner. None was reached. Every
+free copy is on PhilArchive or PhilSci-Archive: PhilArchive and
+PhilPapers now answer with a Cloudflare challenge, and PhilSci-Archive
+with a firewall rejection, and neither was pursued. OpenAlex lists no
+other open copy, the authors' pages link only to those archives, and the
+CiteSeerX copies of Harinen redirect to a Wayback capture that resets the
+connection. Each LIT carries a dated note with the addresses and
+obstacles. Nothing was read, so no NOTE, THEORY or ARG was filed and
+CLAIM-522, CLAIM-528, CLAIM-480, CLAIM-526 and QUESTION-086 are
+unchanged.
+
+What remains is the whole lead, and it now waits on the owner for every
+work, not only Segura: browser downloads of the four archive copies
+(the addresses are in each LIT), or the publishers' texts. If the owner
+can supply only some, Craver, Glennan and Povich first, since its
+"causal betweenness" thesis is what the lead's test for CLAIM-522 turns
+on; then Krickel, for CLAIM-528's time scale.
