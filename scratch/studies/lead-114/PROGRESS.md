@@ -43,8 +43,29 @@ network, not from us.
   target not already held. Env: numpy 2.5.3, scipy 1.18.1, pytest 9.1.1, no
   torch -> numpy only.
 
+- Step 2-4: wrote groups.py, model.py, reptheory.py, test_lead114.py (10
+  tests pass), run.py. Ran pipeline (9 items, ~75s), results.jsonl written.
+- Bug found and fixed: recover_irreps sorted dims/char but returned blocks
+  unsorted, so per-irrep fractions were misaligned (fixed: blocks reordered;
+  guard test test_blocks_align_with_sorted_dims added; pipeline re-run).
+
+## Results (corrected)
+
+- Blind recovery of the irreducibles SUCCEEDS whenever the net learned the
+  group (its argmax operation is a valid group): full character table + dims
+  recovered from the net's own operation, no group supplied, matching the
+  group-supplied control to ~1e-14. S4-grok -> [1,1,2,3,3]; S3-fit -> [1,1,2].
+- Control's diagnostic fires: S3-mem (25% holdout, memorises, test_acc~0) ->
+  reconstructed operation is NOT a group -> blind recovery refuses. The limit
+  is the network, not the method.
+- Weights carry the irreps as their group-Fourier power spectrum: trivial
+  (constant) ~0; faithful irreps dominate (S3 ~78% on the 2-dim standard;
+  S4 ~78% on the two 3-dim irreps); sign rep smallest. Dominant non-trivial
+  irrep is seed-dependent (approximate universality).
+- Scope: recovery is up to isomorphism (characters/dims/isotypic projectors);
+  explicit per-element matrices only up to a basis within each isotypic block.
+
 ## Next
 
-- Write groups.py (abstract tables + one-hot data), model.py (train), commit.
-- reptheory.py (Peter-Weyl + characters + isotypic projection), tests.
-- run pipeline, persist results JSONL, then file CASE/CLAIM/changelog.
+- File CASE (executed-study), CLAIM(s), changelog fragment, dated note on
+  LEAD-114 and QUESTION-058. Commit and push each.

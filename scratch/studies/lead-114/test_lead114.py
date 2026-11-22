@@ -46,6 +46,22 @@ def test_recover_sn_dims(n, expected):
     assert np.any(np.all(np.abs(chi - 1.0) < 1e-5, axis=1))
 
 
+def test_blocks_align_with_sorted_dims():
+    # block i must have dimension dims[i]**2 and the trivial row (all ones)
+    # must sit at the block whose basis contains the constant function.
+    _, C = groups.symmetric_group(4)
+    r = rt.recover_irreps(C, seed=3)
+    for i, B in enumerate(r["blocks"]):
+        assert B.shape[1] == r["dims"][i] ** 2
+    chi = np.array(r["character_table"])
+    triv_rows = np.where(np.all(np.abs(chi - 1.0) < 1e-5, axis=1))[0]
+    assert len(triv_rows) == 1
+    ti = int(triv_rows[0])
+    ones = np.ones(C.shape[0]) / np.sqrt(C.shape[0])
+    B = r["blocks"][ti]
+    assert abs(np.sum(np.abs(B.conj().T @ ones) ** 2) - 1.0) < 1e-8
+
+
 def test_recover_z5_all_onedim():
     _, C = groups.cyclic_group(5)
     r = rt.recover_irreps(C, seed=2)

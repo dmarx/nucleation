@@ -132,6 +132,9 @@ def recover_irreps(cayley, seed=0, tol=1e-6):
     order = np.argsort(dims, kind="stable")
     dims = dims[order]
     char = np.array(char_rows)[order]
+    # Reorder the isotypic blocks to match the sorted dims/character rows, so
+    # callers can align a per-irrep spectrum to dims[i] and character_table[i].
+    blocks = [blocks[i] for i in order]
     # imaginary parts should be ~0 for real/quaternionic; keep real part but
     # report max imaginary for honesty.
     max_im = float(np.max(np.abs(char.imag))) if char.size else 0.0
