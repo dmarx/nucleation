@@ -25,6 +25,7 @@ summary: >-
   QUESTION-281 as measured metastable states and transitions. Proposed
   until reproduced independently.
 ---
+<!-- inactive-ok-file: NOTE-tmpj6fck — Skimmed; the reading this account comes from -->
 
 # THEORY-tmpqdy16: Kaur, Jain and Berman report that representing animal posture across many time resolutions at once lets a transfer operator recover slow metastable behavioral states, one linear arm per basin around a central hub in its slow eigenvectors, which in flies persist for minutes against leg movements at tens of hertz and show heavy-tailed residences; where the gap between fast and slow rates is wide, a single-resolution operator finds no slow modes at all
 
