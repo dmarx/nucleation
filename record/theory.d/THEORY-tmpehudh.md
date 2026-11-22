@@ -73,3 +73,20 @@ well inside the lattice size.
   relaxed pile, from 50 × 50 lattices, coarse-grained, with no error
   estimate. The record's reproduction (CLAIM-tmpfwwrf) finds an apparent
   τ near 1.05–1.1 for the toppling count under slow drive.
+
+## Note of 2026-11-22: the record's reproduction
+
+CLAIM-tmpfwwrf reproduces the 2-D sandpile under slow drive at L = 16,
+32, 64 and 128: a power-law bulk (apparent τ ≈ 1.05 to 1.10) whose cutoff
+grows with lattice size (⟨s²⟩/⟨s⟩ from 92 to 15,822, roughly L^2.5), from
+an empty start, with no parameter tuned, and with the mean avalanche size
+checked against Dhar's exact value. That **meets this THEORY's
+`promote_when` for two dimensions** (ARG-tmpb6zg7): "a reproduction in
+the record confirms ... that the avalanche-size distribution is a power
+law whose cutoff grows with lattice size, reached from generic initial
+conditions with no tuned parameter". Two caveats for the owner: one
+starting configuration was tried, not several, and the 3-D half of the
+title (τ ≈ 1.35, ω^(−1.1)) is untested. The reproduction is independent
+of the reading that filed this THEORY, so by step 8 it could be promoted;
+it is left Proposed for the owner.
+
