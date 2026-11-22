@@ -14,9 +14,14 @@
   Nearest: CLAIM-462 (Active), CLAIM-414 (method), TERM-069 (probe family),
   CLAIM-tmpsaql8 / CASE-tmp8riid (timing margin).
 
+- Step 2: model.py, study.py, test_model.py (7 pass), README, results.
+  Readings: A fixed policies (first difference at enforcement, only on an
+  adverse order E withholds); B delay (timing first, outcome only past the
+  deadline); C anticipation (moves to ruling, then to the action itself, so
+  'alike in routine' fails where E is deterred in I); D non-execution
+  ambiguous in C (QUESTION-279); E structural edge E->F.
+
 ## Next
 
-- Write the model (stated rules + finite transition systems), a script that
-  finds the shortest distinguishing probe under each reading, and tests.
 - File CASE (executed study) and CLAIM(s); alternatives where readings part.
 - Dated notes on QUESTION-278, LEAD-168; changelog fragment.
