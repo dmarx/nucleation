@@ -15,10 +15,32 @@ what it implies for the acquisition order; check numerically with numpy.
 
 ## Done
 
+1. Step 1 check: no entry holds a commutator bound (grep of claims, cases,
+   theories, workbench for "commutator"; LEAD-066 named only in itself and
+   the curation entry of 2026-11-19). NOTE-986 (Nadler) gives no bound.
+2. Derivation in README.md: Lemma 0, Theorem 1 (time-uniform level-wise
+   deviation eta_l/lambda_l), Corollaries 2 (acquisition-time intervals and
+   the order criterion), 3 (data perturbation), 4 (resolution limit),
+   Theorem 5 (moving operator, damped and integral forms; discrete form).
+3. Code and tests (12 pass); runs E1 (810 kernel items), E2 (20, sharpness),
+   E4 (54 trained networks), about three minutes; analysis; E1 compacted to
+   788 KB (full copy in the session scratchpad, lead-066/E1_full.jsonl).
+4. README results section.
+
 ## Next
 
-1. Derivation (README.md).
-2. Numerics: `bound.py`, tests, `run.py`, results.
-3. File CLAIM (demonstrated) and CASE (executed-study); dated notes on LEAD-066 and QUESTION-217; changelog fragment.
+5. File CLAIM (demonstrated) and CASE (executed-study); dated notes on
+   LEAD-066 and QUESTION-217; changelog fragment.
 
 ## Choices
+
+- The comparison flow is the pinching D = sum P A P (the same operator with
+  cross-level couplings deleted), not the kernel of the nearest symmetric
+  data: it needs no baseline, and covers moving operators. The symmetric
+  baseline enters only in Corollaries 2 and 3.
+- Level risk and T_l(delta) exactly as QUESTION-217 and LEAD-052 define them
+  (the network's own output as decoder).
+- LEAD-052's CLAIM-tmpzujm1 is not yet on staging, so it is not cited by
+  code from this branch (a temporary code from an unmerged branch would not
+  resolve); LEAD-052 is cited instead. Once it merges, a `rests_on` or
+  `complements` link is the lead's to add.
