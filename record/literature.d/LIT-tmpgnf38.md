@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmpmkrpn) from the scan the Göttingen State and
+  read in full 2026-11-22 ([NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)) from the scan the Göttingen State and
   University Library's digitization centre (GDZ) serves for research use;
   worth reading as the source of the reading of intuitionistic logic as a
   calculus of problems, and for the distinction it keeps, and says Heyting
@@ -53,16 +53,16 @@ keywords:
 implementations: []
 summary: >-
   Kolmogorov (as Kolmogoroff, 1932), Mathematische Zeitschrift 35, read in
-  NOTE-tmpmkrpn. Beside the logic of theoretical statements there is a calculus of
+  [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md). Beside the logic of theoretical statements there is a calculus of
   problems (Aufgabenrechnung), whose formulas are problems and whose rules
   systematize schemes of solution; it needs no intuitionist assumptions
   and "nach der Form" coincides with Heyting's intuitionistic logic. In §2
   he argues that the objects of intuitionistic logic are really problems,
   not statements. Problems, unlike proved statements, have no notion of
-  correctness. The reading tests CLAIM-tmpnookt's correspondence of a
-  question with a problem (THEORY-tmpdsft8, ARG-tmp6sdu6).
+  correctness. The reading tests [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence of a
+  question with a problem ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), [ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpmkrpn THEORY-tmpdsft8 ARG-tmp6sdu6 CLAIM-tmpnookt LEAD-tmp3xevc — new or Proposed; the reading of 2026-11-22, its theory and argument, and the claim and lead it was read for -->
+<!-- inactive-ok-file: THEORY-tmpdsft8 ARG-tmp6sdu6 CLAIM-tmpnookt — new or Proposed; the reading of 2026-11-22, its theory and argument, and the claim and lead it was read for -->
 
 # LIT-tmpgnf38: Zur Deutung der intuitionistischen Logik
 
@@ -73,7 +73,7 @@ Works of A. N. Kolmogorov*, Vol. I (1991), not consulted here.
 
 ## Key takeaways
 
-*From the reading (NOTE-tmpmkrpn).*
+*From the reading ([NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)).*
 
 - Problems are not defined but explained by examples (p. 59); a problem is
   solved, not true, and "für die Aufgaben hat man keinen dieser Richtigkeit
@@ -89,6 +89,6 @@ Works of A. N. Kolmogorov*, Vol. I (1991), not consulted here.
 
 ## Standing in the record
 
-Registered and read for LEAD-tmp3xevc, to test CLAIM-tmpnookt's reading of
-a question (CLAIM-470) as a problem. The record held no reading of the BHK
+Registered and read for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md), to test [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s reading of
+a question ([CLAIM-470](../claims.d/CLAIM-470.md)) as a problem. The record held no reading of the BHK
 interpretation before this one.

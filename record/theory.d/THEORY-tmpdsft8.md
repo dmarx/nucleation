@@ -21,15 +21,15 @@ source:
 corroborates:
 - CLAIM-tmpnookt
 summary: >-
-  Kolmogorov (1932), LIT-tmpgnf38, read in NOTE-tmpmkrpn from the GDZ scan. A problem is
+  Kolmogorov (1932), [LIT-tmpgnf38](../literature.d/LIT-tmpgnf38.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md) from the GDZ scan. A problem is
   explained by examples (p. 59), is solved and not true (p. 61, n. 8), and,
   fully stated, carries its permitted means (p. 59, n. 2); a ⊃ b reduces
   b's solution to a's, ¬a derives a contradiction from a supposed solution
   of a. The calculus coincides in form with Heyting's (pp. 58, 63) and does
   not solve a ∨ ¬a. §2: an existence statement is a problem plus its
   solution, and a problem's sense is independent of the state of our
-  knowledge (p. 65). It corroborates CLAIM-tmpnookt's correspondence of a
-  question with a problem, narrowed (ARG-tmp6sdu6), and corrects its attribution:
+  knowledge (p. 65). It corroborates [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence of a
+  question with a problem, narrowed ([ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md)), and corrects its attribution:
   Kolmogorov keeps statements and problems apart. The wording is the
   filer's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -37,7 +37,7 @@ summary: >-
 
 # THEORY-tmpdsft8: Kolmogorov holds that beside the logic of theoretical statements there is a calculus of problems, whose formulas are problems to be solved and not statements to be proved, with no notion of correctness, and whose connectives are operations on problems; that it coincides in form with Heyting's intuitionistic logic without needing intuitionist assumptions; and that intuitionistic logic's objects are really problems, since a general statement's negation and an existence statement have determinate sense only as a problem with its solution
 
-Kolmogorov (1932), LIT-tmpgnf38; read in NOTE-tmpmkrpn.
+Kolmogorov (1932), [LIT-tmpgnf38](../literature.d/LIT-tmpgnf38.md); read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md).
 
 ## The account
 

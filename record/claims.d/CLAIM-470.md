@@ -267,16 +267,16 @@ The claim is unchanged.
 ## Note of 2026-11-22: Kolmogorov, read
 <!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 CLAIM-tmpnookt — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
 
-Kolmogorov 1932 (THEORY-tmpdsft8, read in NOTE-tmpmkrpn): a parallel and a contrast, cited
+Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)): a parallel and a contrast, cited
 as neither ground nor corroboration. **Parallel**: a problem, like this
 claim's question, asserts nothing and fixes what would count as solving it;
 and "Um ganz präzis zu sein, sollte man natürlich bei der Formulierung
 dieser Aufgabe die erlaubten Konstruktionsmittel angeben" (p. 59, n. 2),
-which puts in the problem what this claim and TERM-095 put in the inquiry.
+which puts in the problem what this claim and [TERM-095](../terms.d/TERM-095.md) put in the inquiry.
 **Contrast**: the problem of finding an element "hat wirklich einen
 bestimmten, von dem Zustand unserer Kenntnisse unabhängigen Sinn" (p. 65),
 and a problem whose supposition is impossible counts as solved by the proof
 of that (p. 59). The calculus has no counterpart of the last clause: where
 the bifurcation example replaces a question with no adequate answer,
-Kolmogorov closes the case as a solution. Weighed for CLAIM-tmpnookt in
-ARG-tmp6sdu6. The claim is unchanged.
+Kolmogorov closes the case as a solution. Weighed for [CLAIM-tmpnookt](CLAIM-tmpnookt.md) in
+[ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md). The claim is unchanged.

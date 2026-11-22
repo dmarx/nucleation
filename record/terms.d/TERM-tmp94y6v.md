@@ -65,8 +65,8 @@ specification of requirements of the second ([CLAIM-tmp5rv9x](../claims.d/CLAIM-
 ## Note of 2026-11-22: Kolmogorov, read
 <!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
 
-Kolmogorov 1932 (THEORY-tmpdsft8, read in NOTE-tmpmkrpn): a parallel, no edge. A problem
+Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)): a parallel, no edge. A problem
 with many solutions is a partial specification of them, and a problem
 whose supposition is impossible, "inhaltslos" (p. 59), is one no
 realization passes; Kolmogorov counts the proof of that as its solution.
-How far a question is such a problem is weighed in ARG-tmp6sdu6. Unchanged.
+How far a question is such a problem is weighed in [ARG-tmp6sdu6](../arguments.d/ARG-tmp6sdu6.md). Unchanged.

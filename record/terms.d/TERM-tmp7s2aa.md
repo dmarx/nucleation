@@ -74,7 +74,7 @@ A proof-relevant answer, in the sense of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpn
 ## Note of 2026-11-22: Kolmogorov, read
 <!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
 
-Kolmogorov 1932 (THEORY-tmpdsft8, read in NOTE-tmpmkrpn) gives the witness's sense for
+Kolmogorov 1932 ([THEORY-tmpdsft8](../theory.d/THEORY-tmpdsft8.md), read in [NOTE-tmpmkrpn](../notes.d/NOTE-tmpmkrpn.md)) gives the witness's sense for
 existence. Brouwer's existence statement splits into "das objektive Element
 (die Aufgabe) und das subjektive (ihre Lösung)" (p. 65): the problem "in
 der Menge K ein Element mit der Eigenschaft A zu finden", and its solution,
