@@ -17,6 +17,8 @@ Dated notes on the lead and the entries it advances.
 ## Done
 
 - Leffler (LIT-2444): author-posted copy of the published OUP version (CC BY-NC-ND) found on the author's site, https://www.olofleffler.com/uploads/1/2/2/9/122997280/constitutivisms_plight.pdf, read in full 2026-11-22 (23 pp.). PhilArchive (philarchive.org/archive/LEFCPI) gave a Cloudflare challenge (403) on 2026-11-22; not retried.
+- Massimi (LIT-1228): no new route to the book. Edinburgh, OAPEN and Oxford Academic were stopped on 2026-10-29 and not retried (same hosts). perspectivalrealism.org: empty directory listing. CORE API: HTTP 429, stopped. Neighbour read: Massimi 2023 primer, Annals NYAS doi:10.1111/nyas.14981, PhilSci-Archive preprint https://philsci-archive.pitt.edu/id/eprint/21856/ (8 pp., read in full).
+- Monnier (LIT-2451): author-posted published version (CC BY) at https://tfjgeorge.github.io/assets/pdf/FAccT2026_Beyond_Base_Metric.pdf (co-author Thomas George's site); reading.
 
 ## Next
 
