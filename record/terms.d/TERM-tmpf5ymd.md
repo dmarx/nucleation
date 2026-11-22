@@ -19,11 +19,11 @@ summary: >-
   bulk is the few that carry most of the mass or activity: the owner's
   sense, the top eigenvalues of an operator. In a skewed population or
   spectrum the two sit at opposite ends, as the 80-20 rule says and as
-  CLAIM-806 holds for heavy tails (most events small by count, most of the
+  CLAIM-832 holds for heavy tails (most events small by count, most of the
   total in the tail). The term's job is to make an entry say which it
   means. The distinction is the owner's; The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-138 CLAIM-806 CLAIM-tmp2r6ur — Proposed or new; the senses this term separates and the claim that uses it -->
+<!-- inactive-ok-file: TERM-138 CLAIM-832 CLAIM-tmp2r6ur — Proposed or new; the senses this term separates and the claim that uses it -->
 
 # TERM-tmpf5ymd: bulk, in two senses that come apart: by count, the many members or directions that make up most of a population or spectrum, and by weight, the few that carry most of its mass, density or activity; in a skewed distribution or spectrum the two sit at opposite ends
 
@@ -37,7 +37,7 @@ summary: >-
 ## How they come apart
 
 In any skewed population the two sit at opposite ends.
-- **Heavy tails.** Most events are small by count, and most of the total lies in the rare large ones (CLAIM-806).
+- **Heavy tails.** Most events are small by count, and most of the total lies in the rare large ones (CLAIM-832).
 - **The 80-20 rule.** In the owner's words, "the *bulk* of the population does not contribute the *bulk* of the activity".
 - **Spectra.** In a spectrum with a few large eigenvalues, the bulk by count is the many small directions and the bulk by weight is the few large ones.
 
