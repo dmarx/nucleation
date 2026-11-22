@@ -113,6 +113,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-1441 LIT-1453 LIT-1456 LIT-1445 — Unavailable or Deferred, unread; the papers that state the accounts read here through later work by the same authors, and the one to read next -->
 <!-- inactive-ok-file: CLAIM-039 THEORY-055 THEORY-056 THEORY-101 TERM-076 — Proposed; the claims, readings and term this claim rests on or is stated in, cited as open; it is Proposed with them -->
 <!-- ref::uses-file: TERM-094 — Frijda's appraisal "eliciting action readiness with control precedence", read as a claim to authority over action, is TERM-094's sense -->
+<!-- inactive-ok-file: CLAIM-tmpiyf8w THEORY-tmpto8hu THEORY-tmp8q7t4 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
 
 # CLAIM-440: An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
 
@@ -412,3 +413,17 @@ clause 3 has not argued ([CLAIM-468](CLAIM-468.md)). If it cannot be argued, cla
 narrowed to negative valence or dropped. And the premise [CLAIM-039](CLAIM-039.md) is held
 by [THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a felt state, which no
 claim in the record answers.
+
+## Note of 2026-11-22: the flow objection, after in-episode reports (LEAD-054)
+
+CLAIM-441's third exit, that flow's positivity comes only after the
+episode, would have left "no contest, no valence" standing for flow. The
+two experience-sampling studies read for LEAD-054 (THEORY-tmpto8hu,
+THEORY-tmp8q7t4) find the positivity at the same signal and not after it,
+so that exit is not supported (CLAIM-tmpiyf8w), and the objection presses
+through exits 1, 2 and 4. A parallel, with no edge: Rheinberg et al.
+explain post hoc why salient goals lower happiness by a gap between the
+present state and the goal in view, a sign read off a reference, which is
+this claim's shape; they say it fails to explain why the effect is absent
+at work. Outcome importance, including worry about failing, lowers valence
+in Engeser and Baumann. Neither measures progress along an ordering.

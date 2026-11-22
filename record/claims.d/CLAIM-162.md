@@ -69,6 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
 <!-- inactive-ok-file: LIT-914 LIT-910 LIT-912 — Unavailable, unread; the flow literature, cited without a reading and named as the weakest footing -->
 <!-- inactive-ok-file: THEORY-067 THEORY-070 — Proposed; the readings this conjecture is set against, with their untested standing stated -->
+<!-- inactive-ok-file: THEORY-tmpto8hu THEORY-tmp8q7t4 LIT-tmpptux6 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
 
 # CLAIM-162: In flow an activity's immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless
 
@@ -139,3 +140,15 @@ intrinsic cost of override going unpaid, not by dACC's place as specifier,
 so [THEORY-1110](../theory.d/THEORY-1110.md)'s proposal would not carry it. No choice probe or reversal
 measure taken during a flow episode, which its defeat condition asks for,
 is in the record.
+
+## Note of 2026-11-22: experience-sampling studies of flow (LEAD-054), background
+
+Two experience-sampling studies read for LEAD-054 bear on this claim only
+as background. Flow is highest where the activity is clearly
+goal-directed (THEORY-tmp8q7t4) and where an outcome matters
+(THEORY-tmpto8hu, outcome importance raising flow at work), which fits an
+activity's immediate reward and its longer-run value coinciding in flow;
+neither measures whether any interest is overridden. Tavares et al.
+(LIT-tmpptux6, Unfetched) report effortless attention mediating between
+momentary states and optimal experience, by its abstract. No choice probe
+or reversal measure taken during a flow episode was found.

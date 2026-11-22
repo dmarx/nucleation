@@ -1,0 +1,53 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-11-22, not read. Registered from the LEAD-054 search (Europe
+  PMC, query 4). Semantic Scholar lists no open copy (closed).
+title: 'Optimal Experience Among Teachers: New Insights Into the Work Paradox'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed, not read, from the LEAD-054 search of Europe PMC, 2026-11-22.
+    Checked against Crossref: Marta Bassi and Antonella Delle Fave, The
+    Journal of Psychology 146(5): 533-557, September 2012; `published:` is
+    the first of September 2012. A grep of record/literature.d for the
+    DOI, the title and the first author on 2026-11-22 found nothing.
+tags:
+- motivation
+- emotion-and-affect
+date: '2026-11-22'
+published: '2012-09-01'
+doi: '10.1080/00223980.2012.656156'
+first_author: 'Bassi'
+keywords:
+- 'optimal experience'
+- 'work paradox'
+- 'teachers'
+- 'self-determination'
+- 'experience sampling'
+implementations: []
+summary: >-
+  Bassi and Delle Fave (2012), DOI-10.1080/00223980.2012.656156. An
+  experience-sampling study of the work paradox among teachers, cited by
+  Engeser and Baumann for flow as an ingredient of a happy life "without
+  necessarily being a state of happiness"; here for CLAIM-441's third
+  exit. Unverified until read.
+---
+<!-- inactive-ok-file: LIT-tmpu5vec LIT-tmpu4yh1 CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
+
+# LIT-tmp6uhtn: Optimal Experience Among Teachers: New Insights Into the Work Paradox
+
+Marta Bassi and Antonella Delle Fave (2012). *The Journal of Psychology* 146(5): 533-557. DOI-10.1080/00223980.2012.656156
+
+## Key takeaways
+
+*Not read.* By the abstract: 14 teachers sampled by ESM for a working week, and 184 by questionnaire; work-related optimal experience went with both autonomous and controlled regulation. It states the work paradox as individuals perceiving work "as an opportunity for flow or optimal experience, but not as desirable and pleasant". Unverified until read.
+
+## Standing in the record
+
+Registered on 2026-11-22 by the LEAD-054 search for experience-sampling
+studies of flow with affect reported during the episode
+(scratch/studies/lead-054/screening.tsv). It bears on CLAIM-441's third
+exit, that flow's positivity comes after the episode and not during it.
