@@ -71,3 +71,14 @@ Family 1 in full, and family 2 with Claude raters only, marked as not counting u
 ## What would count against it
 
 Families that never agree beyond chance on the pilot: then the judgement is not one any probe family shares, and LEAD-201's distinction cannot be drawn this way.
+
+## Pilot of family 1, 2026-11-22
+
+Run by the assistant the day the lead was filed (script and output kept in the session scratchpad, `lead201pilot/pilot.py` and `results.txt`, not in the repository). Material: entries filed from the exchange "Rich Get Richer Power Laws" whose text names an owner's turn ("the owner's, at U<n>" and variants), 28 entries against 27 owner turns of the verbatim transcript; for each, recall of the turn's content words (stopwords removed, words of three or more letters) in the entry's first git version and its current one, with and without text inside double quotes; baseline, the same recall against 20 shuffled turns per entry.
+
+- **Baseline.** Recall of a shuffled turn in an entry's unquoted text: median 0.000, 95th percentile 0.333.
+- **First against current.** Unquoted recall moved by +0.045 on average from first to current version, upward, because dated notes add text; no entry fell.
+- **What it measured.** On this material the measure registers quotation, not retention: the owner's turns are short (often under ten content words, so recall jumps between 0 and 1), owner-voice entries quote the turn by rule, and the entries are days old with no substantive rewording to detect. The matcher also picked up entries that only mention an owner's turn (the other assistant's claims about it), which are not owner-voice entries.
+
+So the pilot does not meet this lead's "what would count against it" (it tests no agreement between families), but it shows family 1 cannot carry the judgement as specified. Before family 1 is run in earnest it needs: the population of LEAD-199 (entries with substantive revisions over a longer history), selection by a voice marker rather than by text match, and scoring by content unit (the rubric families 2 and 3 use) rather than by word set.
+
