@@ -54,7 +54,7 @@ def measure_pair(a, b, full_group=False):
         if al == "am":
             out["feature_corr_am"] = lb.feature_corr(pa, pb, Xal)
     if full_group:
-        pa, pb = lb.full_group_search(a, b, Xal, YTR[:2000])
+        pa, pb = lb.full_group_search(a, b, XTR[:1000], YTR[:1000])
         out["paths"]["fullgroup/linear"] = bar("linear", pa, pb, None)
         out["paths"]["fullgroup/linear"]["llfc_cos"] = lb.llfc_cos(pa, pb, XT)
         out["feature_corr_fullgroup"] = lb.feature_corr(pa, pb, Xal)

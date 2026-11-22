@@ -180,15 +180,14 @@ def feature_corr(pa, pb, X):
 
 
 def brute_force_match(pa, pb, X, y):
-    """Exact best permutation pair for the linear midpoint loss (small widths only)."""
+    """Exact best permutation pair for the mean linear-path loss at t = 1/4, 1/2, 3/4
+    (small widths only)."""
     h = len(pa[1])
     best, arg = np.inf, None
     perms = [np.array(q) for q in itertools.permutations(range(h))]
     for p1 in perms:
         for p2 in perms:
-            q = permute(pb, p1, p2)
-            mid = [(a + b) / 2 for a, b in zip(pa, q)]
-            L = ce(forward(mid, X), y)
+            L = _path_loss(pa, permute(pb, p1, p2), X, y)
             if L < best:
                 best, arg = L, (p1, p2)
     return permute(pb, *arg)
@@ -299,20 +298,24 @@ def cue_reliance(p, task, n=2000, seed=999):
     return {"acc_A_only": 1 - loss_err(p, XA, yA)[1], "acc_B_only": 1 - loss_err(p, XB, yB)[1]}
 
 
-def _mid_loss(pa, pb, X, y):
-    return ce(forward([(a + b) / 2 for a, b in zip(pa, pb)], X), y)
+def _path_loss(pa, pb, X, y, ts=(0.25, 0.5, 0.75)):
+    """Mean loss at interior points of the linear path (endpoint losses are fixed
+    under the group, so this is the barrier objective up to a constant)."""
+    return float(np.mean([ce(forward([(1 - t) * a + t * b for a, b in zip(pa, pb)], X), y)
+                          for t in ts]))
 
 
 def full_group_search(pa, pb, X, y):
-    """Search the full ReLU-MLP group for the linear midpoint: exact best permutation
-    (brute force, on raw and on canonical weights), then per-unit positive rescaling
-    of pb optimised by L-BFGS from there. Small widths only. Returns (pa', pb')."""
+    """Search the full ReLU-MLP group for the linear path: exact best permutation pair
+    (brute force over all h!^2, on raw and on canonical weights) for the mean loss
+    at t = 1/4, 1/2, 3/4, then per-unit positive rescaling of pb optimised by
+    L-BFGS from there. Small widths only. Returns (pa', pb')."""
     from scipy.optimize import minimize
     h = len(pa[1])
     cands = []
     for ea, eb in ((pa, pb), (canonical(pa), canonical(pb))):
         q = brute_force_match(ea, eb, X, y)
-        f = lambda z, ea=ea, q=q: _mid_loss(ea, rescale(q, np.exp(z[:h]), np.exp(z[h:])), X, y)
+        f = lambda z, ea=ea, q=q: _path_loss(ea, rescale(q, np.exp(z[:h]), np.exp(z[h:])), X, y)
         res = minimize(f, np.zeros(2 * h), method="L-BFGS-B",
                        bounds=[(-3, 3)] * (2 * h))
         cands.append((res.fun, ea, rescale(q, np.exp(res.x[:h]), np.exp(res.x[h:]))))
