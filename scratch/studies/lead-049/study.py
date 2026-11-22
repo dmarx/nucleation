@@ -181,7 +181,12 @@ def part2():
         all_frozen_above_bound=bool(all(x["lam_frozen"] >= x["bound"] - 1e-9 for x in rems)),
         n_adapted_positive=int(sum(x["lam_adapted"] > 0 for x in rems)),
         min_lam_adapted=float(min(x["lam_adapted"] for x in rems)),
-        median_adapted_over_frozen=float(np.median([x["lam_adapted"] / x["lam_frozen"] for x in rems])),
+        median_adapted_over_frozen=float(np.median([x["lam_adapted"] / x["lam_frozen"] for x in rems
+                                                    if x["lam_frozen"] > 1e-9])),
+        # runs meeting theorem A at a converged endpoint with distinct traits
+        clean_runs=[f"k={rec['k']},w={rec['w']},s={rec['seed']}" for rec in recs
+                    if rec["theorem_A"]["holds"] and rec["grad_norm_free"] < 1e-8
+                    and rec["gram_min_eig"] > 1e-6],
         n_condC=int(sum(x["condC"] for x in rems)),
         n_recovered_half=int(sum(x["recovered_fraction"] > 0.5 for x in rems)),
         max_abs_L_return_gap=float(max(abs(x["L_return_gap"]) for x in rems)),

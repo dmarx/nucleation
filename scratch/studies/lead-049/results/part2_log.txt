@@ -50,3 +50,18 @@ Traceback (most recent call last):
   File "/usr/local/lib/python3.13/multiprocessing/pool.py", line 873, in next
     raise value
 numpy.linalg.LinAlgError: Array must not contain infs or NaNs
+part2 done 4 0.2 0
+part2 done 5 0.2 0
+part2 done 5 0.08 0
+part2 done 5 0.12 0
+part2 done 6 0.08 0
+part2 done 6 0.12 0
+part2 done 6 0.2 0
+Traceback (most recent call last):
+  File "/home/user/nucleation/.claude/worktrees/agent-ac8edc50a8228f2e4/scratch/studies/lead-049/study.py", line 242, in <module>
+    print(json.dumps(part2(), indent=1), flush=True)
+                     ~~~~~^^
+  File "/home/user/nucleation/.claude/worktrees/agent-ac8edc50a8228f2e4/scratch/studies/lead-049/study.py", line 184, in part2
+    median_adapted_over_frozen=float(np.median([x["lam_adapted"] / x["lam_frozen"] for x in rems])),
+                                                ~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+ZeroDivisionError: float division by zero
