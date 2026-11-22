@@ -93,6 +93,7 @@ summary: >-
   dilemma. The literatures support components of the mechanism; none
   shows a single self-confirming loop behind every protective policy.
 ---
+<!-- inactive-ok-file: CLAIM-446 — Proposed or new; the premise and LEAD-047's readings of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
 <!-- inactive-ok-file: ARG-064 — filed from the same exchange, Proposed -->
@@ -245,3 +246,11 @@ observers' judgement, is filed as [CLAIM-726](CLAIM-726.md), which rests on this
 claim for the loop.
 
 No status changes.
+
+## Note of 2026-11-22: [LEAD-047](../leads.d/LEAD-047.md)'s search
+
+The search for an individual-level test of this claim's premise
+[CLAIM-446](CLAIM-446.md) found no study that intervenes on defensive authority with
+threat belief held fixed ([LEAD-047](../leads.d/LEAD-047.md), scratch/studies/lead-047/; readings
+[NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md) and [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md)). The premise's distinctive part stays
+untested. No status changes.

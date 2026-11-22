@@ -1,0 +1,13 @@
+Europe PMC failed at Q6_safety_behaviour: HTTP 503; not retried
+Europe PMC failed at Q8_aac_drug_lesion: HTTP 503; not retried
+467 unique works
+Q1_instructed europepmc 142 142
+Q2_aac_intervention europepmc 20 20
+Q3_costly europepmc 39 39
+Q4_response_prevention europepmc 31 31
+Q5_dissociation europepmc 230 230
+Q7_defusion europepmc 61 61
+Q6_safety_behaviour europepmc HTTP 503 0
+Q8_aac_drug_lesion europepmc HTTP 503 0
+Q9_instruction_dissociation europepmc 170 170
+done
