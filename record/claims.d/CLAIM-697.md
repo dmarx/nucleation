@@ -58,6 +58,8 @@ summary: >-
   kept: the budget selects affordable compositions, but it does not fix
   the primitive operations or the system's boundary. The idea is the
   owner's; the wording is A's, and adopting it is the owner's call.
+grounds:
+- CASE-tmp2zo3t
 ---
 <!-- inactive-ok-file: CLAIM-754 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-576 TERM-118 — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
