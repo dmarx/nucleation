@@ -70,6 +70,7 @@ summary: >-
 refines:
 - QUESTION-039
 ---
+<!-- inactive-ok-file: CASE-tmpb4hg0 — new; the run of LEAD-172, filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
@@ -261,3 +262,7 @@ order (coarse), yet the representation refines by input structure first:
 effect of labels appears at a later stage." That is a refinement order in
 distances running ahead of the supervised one; no acquisition order by a
 decoder's risk is measured over time. No relation.
+
+## Note of 2026-11-22: the kernel's modes in the modular-addition run
+
+In [LEAD-172](../leads.d/LEAD-172.md)'s reduced run ([CASE-tmpb4hg0](../cases.d/CASE-tmpb4hg0.md)) the moving-basis term was tracked by proxy: the rotation of the empirical tangent kernel's top eigenspace between checkpoints 250 steps apart. It forecast nothing about when the network generalizes. The top eigenspace stayed at chance alignment with the functions the task needs (functions of a + b) throughout, even after generalization, while the input-to-output Fourier coupling did forecast. In this network, then, acquisition is not visible as the kernel's leading modes turning toward the target. It is one network and one kernel, the class-summed trace kernel. It answers none of the four orders. No status change.
