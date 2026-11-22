@@ -1,0 +1,359 @@
+{
+ "spec": "C",
+ "decision": "real",
+ "windows": "w4",
+ "n_quarters": 242,
+ "n_contested": 43,
+ "departure_rate_uncontested": 0.6149425287356322,
+ "departure_profile": [
+  0.3850574712643678,
+  0.28160919540229884,
+  0.3333333333333333
+ ],
+ "reference_course": {
+  "inflation": null,
+  "employment": null
+ },
+ "alternation": {
+  "observed": 5,
+  "null_mean": 4.67,
+  "p_more": 0.6047904191616766,
+  "p_fewer": 0.7584830339321357
+ },
+ "persistence_resumption": {
+  "inflation": {
+   "longest_run": 0,
+   "resumptions": []
+  },
+  "employment": {
+   "longest_run": 0,
+   "resumptions": []
+  },
+  "inertia": {
+   "longest_run": 0,
+   "resumptions": []
+  }
+ },
+ "per_window": [
+  {
+   "window": "1966-1969",
+   "quarters": 15,
+   "contested": 0,
+   "wins": 0,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "no contest",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "1970-1973",
+   "quarters": 16,
+   "contested": 6,
+   "wins": 12,
+   "reversal": 0.333,
+   "p_ambivalence": 0.365,
+   "alignment": {
+    "inflation": 0.417,
+    "employment": 0.583,
+    "inertia": 0.417
+   },
+   "p_lead": 0.448,
+   "best_class": [
+    "cut > hike > hold"
+   ],
+   "by_context": {
+    "normal": [
+     "cut > hike > hold"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "employment",
+   "sign": null
+  },
+  {
+   "window": "1974-1977",
+   "quarters": 16,
+   "contested": 6,
+   "wins": 12,
+   "reversal": 0.25,
+   "p_ambivalence": 0.164,
+   "alignment": {
+    "inflation": 0.5,
+    "employment": 0.5,
+    "inertia": 0.25
+   },
+   "p_lead": null,
+   "best_class": [
+    "cut > hike > hold",
+    "hike > cut > hold"
+   ],
+   "by_context": {
+    "normal": [
+     "cut > hike > hold",
+     "hike > cut > hold"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "tied",
+   "sign": null
+  },
+  {
+   "window": "1978-1981",
+   "quarters": 16,
+   "contested": 4,
+   "wins": 8,
+   "reversal": 0.25,
+   "p_ambivalence": 0.113,
+   "alignment": {
+    "inflation": 0.5,
+    "employment": 0.5,
+    "inertia": 0.25
+   },
+   "p_lead": null,
+   "best_class": [
+    "cut > hike > hold",
+    "hike > cut > hold"
+   ],
+   "by_context": {
+    "normal": [
+     "cut > hike > hold",
+     "hike > cut > hold"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "tied",
+   "sign": null
+  },
+  {
+   "window": "1982-1985",
+   "quarters": 16,
+   "contested": 6,
+   "wins": 12,
+   "reversal": 0.333,
+   "p_ambivalence": 0.703,
+   "alignment": {
+    "inflation": 0.667,
+    "employment": 0.333,
+    "inertia": 0.583
+   },
+   "p_lead": 0.459,
+   "best_class": [
+    "hike > hold > cut"
+   ],
+   "by_context": {
+    "normal": [
+     "hike > hold > cut"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "inflation",
+   "sign": null
+  },
+  {
+   "window": "1986-1989",
+   "quarters": 16,
+   "contested": 0,
+   "wins": 0,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "no contest",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "1990-1993",
+   "quarters": 16,
+   "contested": 7,
+   "wins": 14,
+   "reversal": 0.429,
+   "p_ambivalence": 0.403,
+   "alignment": {
+    "inflation": 0.429,
+    "employment": 0.571,
+    "inertia": 0.5
+   },
+   "p_lead": 0.545,
+   "best_class": [
+    "cut > hike > hold",
+    "cut > hold > hike"
+   ],
+   "by_context": {
+    "normal": [
+     "cut > hike > hold",
+     "cut > hold > hike"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "employment",
+   "sign": null
+  },
+  {
+   "window": "1994-1997",
+   "quarters": 16,
+   "contested": 0,
+   "wins": 0,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "no contest",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "1998-2001",
+   "quarters": 16,
+   "contested": 1,
+   "wins": 2,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "too few contests",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "2002-2005",
+   "quarters": 16,
+   "contested": 0,
+   "wins": 0,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "no contest",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "2006-2009",
+   "quarters": 16,
+   "contested": 2,
+   "wins": 4,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "too few contests",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "2010-2013",
+   "quarters": 16,
+   "contested": 5,
+   "wins": 5,
+   "reversal": 0.4,
+   "p_ambivalence": 0.612,
+   "alignment": {
+    "inflation": 0.4,
+    "employment": 0.6,
+    "inertia": 0.6
+   },
+   "p_lead": null,
+   "best_class": [
+    "hold > hike"
+   ],
+   "by_context": {
+    "zlb": [
+     "hold > hike"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "tied",
+   "sign": null
+  },
+  {
+   "window": "2014-2017",
+   "quarters": 16,
+   "contested": 5,
+   "wins": 5,
+   "reversal": 0.4,
+   "p_ambivalence": 0.612,
+   "alignment": {
+    "inflation": 0.6,
+    "employment": 0.4,
+    "inertia": 0.4
+   },
+   "p_lead": 0.328,
+   "best_class": [
+    "cut > hike > hold",
+    "hike > cut > hold",
+    "hike > hold > cut"
+   ],
+   "by_context": {
+    "zlb": [
+     "cut > hike > hold",
+     "hike > cut > hold",
+     "hike > hold > cut"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "inflation",
+   "sign": null
+  },
+  {
+   "window": "2018-2021",
+   "quarters": 16,
+   "contested": 0,
+   "wins": 0,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "no contest",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "2022-2025",
+   "quarters": 16,
+   "contested": 1,
+   "wins": 2,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "too few contests",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "2026-2029",
+   "quarters": 3,
+   "contested": 0,
+   "wins": 0,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "no contest",
+   "leading": null,
+   "sign": null
+  }
+ ]
+}

@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmp0st1e
 title: 'Contextuality tests on human meaning and judgement data: a held null, and positive results that miss pragmatic content or power'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note adds what LEAD-182's search of 2026-11-22 found since this
+    case was filed, and corrects its rough sample-size figure for free
+    answers (CASE-tmpjp6vg). The case is unchanged.
 standing: documented
 kind: reported-study
 tags:
@@ -28,6 +35,7 @@ reported_in:
 - LIT-264
 - NOTE-235
 ---
+<!-- inactive-ok-file: CASE-tmpjp6vg CASE-tmpl2va4 LIT-tmpj8zjs LIT-tmptblig LIT-tmp43x53 CLAIM-tmpalxab — new; filed by LEAD-182 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing this case is filed for, open, and cited as open -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-037 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
@@ -204,3 +212,24 @@ contextual pragmatic data are documented holds under those notions. It
 says nothing about preparation contextuality, which none of the tests
 looks for. [CLAIM-201](../claims.d/CLAIM-201.md)'s concession and [CLAIM-219](../claims.d/CLAIM-219.md)'s "in no
 behavioural data set" (now held as [CLAIM-325](../claims.d/CLAIM-325.md)) are scoped the same way.
+
+## Note of 2026-11-22: the search updated, and the 650 corrected
+
+[LEAD-182](../leads.d/LEAD-182.md)'s literature check (Europe PMC and arXiv; OpenAlex refused)
+found no CbD test on pragmatic or meaning judgements since this case. It
+found one new CbD test on elicited judgements, Bruza, Lee and Hoyte
+(2025, [LIT-tmpj8zjs](../literature.d/LIT-tmpj8zjs.md)), on telling real from AI-generated faces, which by
+its abstract finds nine of twenty trials contextual. It was not read
+(Unfetched). If it holds, it is a second positive off content beside
+Snow Queen (now [LIT-tmp43x53](../literature.d/LIT-tmp43x53.md)), and this case's finding for pragmatic
+content stands. Wang and Sadrzadeh (2024, [LIT-tmptblig](../literature.d/LIT-tmptblig.md)) measure
+signalling on BERT's probabilities, not on judgements.
+
+The rough figure under "What would close the gap", about 650 valid
+responses a context, assumed no signalling to estimate, as Lo et al.'s
+format ensures. With free answers the signalling must be estimated, and
+its estimate is biased upward when true signalling is small
+([CLAIM-tmpalxab](../claims.d/CLAIM-tmpalxab.md)). The simulation ([CASE-tmpjp6vg](CASE-tmpjp6vg.md)) puts power 0.80 for a
+0.19 violation near 1,600 a context when items signal by 0.3 or more,
+and above 4,000 when they barely signal. The design that would close the
+gap is [CASE-tmpl2va4](CASE-tmpl2va4.md).

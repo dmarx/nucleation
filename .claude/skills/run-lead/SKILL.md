@@ -22,6 +22,11 @@ it.
   file in full. Then read every entry the lead's `advances` names, and the
   cases, claims and questions it cites. Read docs/record.md for the
   required fields of any kind you file.
+- Before filing what the lead asks for, check that the record does not
+  already hold it: grep the claims and questions the lead cites, and the
+  entry that named it, for a later filing. A lead can outlive its target
+  (LEAD-059's corollary was already CLAIM-629). If it is held, file no
+  second code (ADR-072); add the dated note on the lead and report.
 - First command: `git fetch origin staging && git checkout -b <your-branch> origin/staging`.
 
 ## 2. Push the branch at once
@@ -84,6 +89,11 @@ From here on, a stop at any moment must lose at most the step in hand.
 - While it runs, commit and push its results file at least every ten
   minutes. A small loop that copies, commits and pushes, then sleeps 600
   seconds until the process exits, does this from a second worktree.
+- Several workers share one machine. Stop a process only by the PID you
+  started (save it, for example `echo $! > run.pid`), never with `pkill` or
+  `killall` by name or pattern, which kills other workers' runs. Keep your
+  files in a subdirectory of the scratchpad named after your lead, not in
+  its root.
 - Estimate the run's time before starting. Give a background run a time
   limit above twice the estimate. If its measured pace says it will not
   finish in time, stop it and restructure it at once.
@@ -111,7 +121,11 @@ From here on, a stop at any moment must lose at most the step in hand.
   call."
 - **Held entries** (filed before the current batch) get only dated notes
   ("## Note of YYYY-MM-DD: ...") and relation fields.
-  - Never change a status, a title or a held entry's text.
+  - Never change a status, a title or a held entry's text, with one
+    exception: a LIT you have read moves as read-and-file step 8 says, to
+    Active with a new history version, status note and summary, or stays
+    Unfetched or Unavailable with the obstacle recorded. Filing the reading
+    is that step, not a status change for the owner.
   - Add a dated note on the lead itself saying what was done and what
     remains.
   - Do NOT change the lead's status or stage; the owner marks it Done.

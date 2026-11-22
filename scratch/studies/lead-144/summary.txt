@@ -1,0 +1,32 @@
+dropped seeds (coupled world not stationary): [5]
+
+## coupled (n = 7 seeds)
+  true within-group corr 0.303; true cut change -0.286; true |spill| h=1 0.0175
+  pulse_rmse_heldout: F-raw/exo 0.040±0.001; F-raw/con 0.055±0.015; F-self 0.040±0.001; R 0.015±0.001; FR 0.016±0.002; FR-oracle 0.015±0.001; R-int 0.023±0.003
+  cut_mae: F-raw/exo 0.286±0.024; F-raw/con 0.240±0.048; F-self 0.286±0.024; R 0.035±0.022; FR 0.030±0.010; FR-oracle 0.039±0.023; R-int 0.042±0.016
+  pred_cut_mean: F-raw/exo 0.000±0.000; F-raw/con -0.046±0.034; F-self 0.000±0.000; R -0.258±0.017; FR -0.274±0.027; FR-oracle -0.253±0.017; R-int -0.264±0.046
+  r2_onestep: F-raw 0.177±0.048; F-self 0.328±0.039; R 0.368±0.044; FR 0.365±0.044
+  n_features: F-raw 8.714±1.976; F-self 4.286±1.976; FR 3.571±1.272
+  group_jaccard: F-raw 0.444±0.073; F-self 0.179±0.071; FR 0.189±0.028
+  offdiag_abs_mean: R 0.017±0.000; FR 0.018±0.000; FR-oracle 0.018±0.000; R-int 0.018±0.000; truth 0.017±0.000
+
+## driver (n = 7 seeds)
+  true within-group corr 0.303; true cut change +0.000; true |spill| h=1 0.0000
+  pulse_rmse_heldout: F-raw/exo 0.000±0.000; F-raw/con 0.050±0.017; F-self 0.000±0.000; R 0.037±0.005; FR 0.037±0.005; FR-oracle 0.013±0.002; R-int 0.049±0.006
+  cut_mae: F-raw/exo 0.000±0.000; F-raw/con 0.250±0.066; F-self 0.000±0.000; R 0.183±0.030; FR 0.207±0.029; FR-oracle 0.006±0.001; R-int 0.149±0.025
+  pred_cut_mean: F-raw/exo 0.000±0.000; F-raw/con -0.249±0.067; F-self 0.000±0.000; R -0.183±0.030; FR -0.207±0.029; FR-oracle -0.002±0.001; R-int -0.149±0.025
+  r2_onestep: F-raw 0.239±0.032; F-self 0.423±0.038; R 0.438±0.043; FR 0.435±0.044
+  n_features: F-raw 11.143±2.610; F-self 6.714±1.113; FR 7.571±1.618
+  group_jaccard: F-raw 0.719±0.099; F-self 0.751±0.129; FR 0.723±0.127
+  offdiag_abs_mean: R 0.014±0.001; FR 0.014±0.001; FR-oracle 0.007±0.000; R-int 0.014±0.001; truth 0.000±0.000
+
+## mixed (n = 7 seeds)
+  true within-group corr 0.303; true cut change -0.137; true |spill| h=1 0.0087
+  pulse_rmse_heldout: F-raw/exo 0.015±0.001; F-raw/con 0.039±0.009; F-self 0.015±0.001; R 0.028±0.004; FR 0.028±0.003; FR-oracle 0.013±0.001; R-int 0.036±0.002
+  cut_mae: F-raw/exo 0.137±0.005; F-raw/con 0.108±0.022; F-self 0.137±0.005; R 0.107±0.040; FR 0.120±0.036; FR-oracle 0.077±0.006; R-int 0.050±0.010
+  pred_cut_mean: F-raw/exo 0.000±0.000; F-raw/con -0.185±0.062; F-self 0.000±0.000; R -0.245±0.044; FR -0.257±0.040; FR-oracle -0.060±0.003; R-int -0.179±0.012
+  r2_onestep: F-raw 0.232±0.032; F-self 0.401±0.035; R 0.430±0.039; FR 0.427±0.039
+  n_features: F-raw 10.143±1.345; F-self 6.286±2.138; FR 5.429±1.718
+  group_jaccard: F-raw 0.634±0.058; F-self 0.395±0.073; FR 0.412±0.083
+  offdiag_abs_mean: R 0.016±0.001; FR 0.016±0.000; FR-oracle 0.011±0.000; R-int 0.015±0.000; truth 0.009±0.000
+

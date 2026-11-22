@@ -313,3 +313,28 @@ leaves the case's question open.
   diagnostic machinery; nothing read tests the second correction.
 
 The case is unchanged.
+
+## Note of 2026-11-22: run in reduced form ([LEAD-048](../leads.d/LEAD-048.md))
+
+<!-- inactive-ok-block: CASE-tmpl0ccq CLAIM-tmpqaqtx — new; the run of LEAD-048 and the claim drawn from it -->
+[LEAD-048](../leads.d/LEAD-048.md) ran this design in reduced form as [CASE-tmpl0ccq](CASE-tmpl0ccq.md), and [CLAIM-tmpqaqtx](../claims.d/CLAIM-tmpqaqtx.md)
+is drawn from it. The run kept the world, partial monitoring, the
+separately lesionable generate, admit and score operations, the three
+maintenance arrangements, paid external restoration, the teacher and erased
+student, the out-of-family arm, sham and lesion branches and the
+matched-first-stage branch, with 64 matched worlds per cell. It left out
+the router baseline, the full-feedback condition, and the non-reference
+arms under scarce fuel.
+
+The primary endpoints separated the arrangements under injury and not under
+the sham. After any one lesioned operation, the second correction succeeded
+in 64 of 64 worlds for reciprocal and external maintenance and in none
+without production, provided the apparatus tested itself. With no
+self-test it succeeded in none. Destroying both capacities separated
+reciprocal from external maintenance. The first stage selected nothing,
+since S1 was 61 to 64 of 64 in every reference cell. The capture arms
+repeat [CASE-162](CASE-162.md).
+
+The design gives "Familiar reversals are caught and out-of-family change
+is missed" as one way the accounts could come apart. The run does not test
+it, because the adequacy test is supplied. The case is unchanged.
