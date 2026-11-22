@@ -46,13 +46,13 @@ Register and read, under the read-and-file skill:
   inference against checking match the direction of fit, and where does
   elaboration sit?
 - Rondon, Kawaguchi and Jhala (2008), Liquid Types: the predicate form
-  {x : A | φ(x)} that CLAIM-tmpnookt actually writes, which Freeman and
+  {x : A | φ(x)} that [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) actually writes, which Freeman and
   Pfenning's finite lattice of refinements is not. Added 2026-11-22 at
   the owner's request, on the Freeman and Pfenning reader's suggestion.
 - Davies and Pfenning (2000), on intersection types and computational
   effects: bidirectional refinement checking, the sharp test of the
   direction-of-fit correspondence that Freeman and Pfenning leave
-  untested (CLAIM-tmp764wb). Added the same day for the same reason.
+  untested ([CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)). Added the same day for the same reason.
 
 ## What would count
 
