@@ -9,7 +9,7 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-057 as a
     delegated lead worker. Script, tests and results under
     scratch/studies/lead-057/.
-standing: stipulated
+standing: documented
 kind: executed-study
 tags:
 - individuation
@@ -40,7 +40,7 @@ summary: >-
   the pair it couples. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpy1gmq CLAIM-157 CLAIM-476 — new or Proposed; the claim this case grounds and neighbours cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpy1gmq CLAIM-157 — new or Proposed; the claim this case grounds and neighbours cited as open -->
 
 # CASE-tmp06fbt: In a four-unit linear model with a beam-like apparatus, a fixed partition, the partition recovered from the dynamics in force and the apparatus's own partition come apart under five interventions; the apparatus's partition differs from the recovered one only where the apparatus is in place and its coupling is weaker than the units' own, and there it predicts worse
 
