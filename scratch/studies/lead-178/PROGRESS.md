@@ -11,10 +11,23 @@
 
 ## Done
 
+- Step 1: target not held. CLAIM-390 bounds a block's full state only;
+  CLAIM-386 is the deterministic one-step defect; QUESTION-221 says the
+  aggregate's dependence is still open. No later filing found.
+- dd.py + test_dd.py (57 pass); run.py -> results.jsonl (850 items);
+  summarize.py -> results.md. Sandwich holds on all 600 items.
+
 ## Next
 
-- Step 1: check target not held.
-- Derive / compute.
 - File CLAIM + CASE, dated notes, changelog.
 
 ## Choices
+
+- Aggregate = block sum (CLAIM-386's Q), but the theorem is for any linear
+  L, so the left-Perron-weighted aggregate is covered too (leftvec part).
+- Horizon: Barnett-Seth one-step dependence given the whole past; longer
+  horizons not done.
+- Result: sandwich ½logdet(I+G⁻¹LA Σ_|L AᵀLᵀ) <= T <= same with Π_|L.
+  Closed at eps=0 (L A* = B L): T = Θ(eps²), upper constant ~ 1/gap.
+  Not closed: floor > 0 as eps -> 0, not removed by the fast gap.
+  Simon scaling gap ∝ eps: T = Θ(eps).
