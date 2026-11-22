@@ -118,6 +118,10 @@ class RLS:
         k = Pphi / (self.lam + phi @ Pphi)
         self.w = self.w + k * (target - self.w @ phi)
         self.P = (self.P - np.outer(k, Pphi)) / self.lam
+        # guard against covariance wind-up under poor excitation
+        tr = np.trace(self.P)
+        if tr > self.delta * len(self.w):
+            self.P *= self.delta * len(self.w) / tr
 
     def add_feature(self, f: int):
         if f in self.feats:
@@ -197,7 +201,7 @@ class Arm:
     def record_visit(self, x, value, immediate, t):
         pass
 
-    def record_step(self, x, y, t):
+    def record_step(self, x, y, t, failed=False):
         pass
 
     def attended(self):
@@ -208,7 +212,8 @@ class Oracle(Arm):
     name = "oracle"
 
     def decide(self, x, t, scenario):
-        return "enter" if self.w.true_net(x, scenario, t) > 0 else "skip"
+        # the learners' rule (enter unless a loss is predicted), with the truth
+        return "enter" if self.w.true_net(x, scenario, t) >= 0 else "skip"
 
     def warns(self, x):  # evaluated by the runner with scenario/time
         return False
@@ -242,7 +247,9 @@ class Designer(Arm):
 
 
 class Learner(Arm):
-    """CASE-239 arm 1, and with freeze=True arm 5.
+    """CASE-239 arm 1; with freeze='all' arm 5 (features, tau and probe
+    policy fixed from t_change); with freeze='features' only the attended
+    features are fixed (a decomposition of arm 5, added here).
 
     target: 'energy' (the visit's net energy account over the horizon H,
     including the share of later upkeep above resting), 'score' (immediate
@@ -260,7 +267,8 @@ class Learner(Arm):
         self.freeze, self.target = freeze, target
         self.eps, self.margin = eps, margin
         self.test_every, self.window, self.z_add = test_every, window, z_add
-        self.frozen = False
+        self.frozen = False                     # features fixed
+        self.frozen_all = False                 # tau and probe policy fixed too
         self.buf = deque(maxlen=window)         # (x, value residual)
         self.ybuf = deque(maxlen=window)        # (x, yield residual)
         self.resid_sd = 1.0                     # running sd of yield residuals
@@ -269,7 +277,8 @@ class Learner(Arm):
         self.probe_on = False
         self.n_records = 0
         self.added: list[tuple[int, int]] = []  # (t, feature)
-        self.name = ("frozen" if freeze else "learner") + "-" + rule
+        self.name = {None: "learner", False: "learner", "all": "frozen",
+                     True: "frozen", "features": "featfrozen"}[freeze] + "-" + rule
         if target != "energy":
             self.name = target + "-" + rule
         self._arb = np.array([2.0, -1.0, 1.5, -2.0, 0.5])
@@ -284,6 +293,7 @@ class Learner(Arm):
     def maybe_freeze(self, t):
         if self.freeze and not self.frozen and t >= self.w.t_change:
             self.frozen = True
+            self.frozen_all = self.freeze in ("all", True)
 
     def decide(self, x, t, scenario):
         self.maybe_freeze(t)
@@ -313,10 +323,10 @@ class Learner(Arm):
         r = y - self.Y.predict(x)
         self.ybuf.append((x, r))
 
-    def record_step(self, x, y, t):
+    def record_step(self, x, y, t, failed=False):
         pred = self.Y.predict(x)
         r = y - pred
-        if not self.frozen:
+        if not self.frozen_all and not failed:
             self.resid_sd = math.sqrt(0.98 * self.resid_sd ** 2 + 0.02 * min(r * r, 25.0))
             self.tau = max(3.0 * self.resid_sd, 0.5)
         self.ybuf.append((x, r))
@@ -333,9 +343,10 @@ class Learner(Arm):
         self.V.update(x, tgt)
         self.recent_fail.append(1 if failed else 0)
         self.n_records += 1
-        if not self.frozen:
+        if not self.frozen_all:
             # probe policy: probe while recent failures are frequent
             self.probe_on = sum(self.recent_fail) >= 3
+        if not self.frozen:
             if self.n_records % self.test_every == 0:
                 self._revise_features(t)
 
@@ -363,7 +374,8 @@ class Learner(Arm):
 
 
 ARMS = ["oracle", "designer", "selfset", "learner-rls", "frozen-rls",
-        "learner-tab", "frozen-tab", "score-rls", "arbitrary-rls"]
+        "featfrozen-rls", "learner-tab", "frozen-tab", "featfrozen-tab",
+        "score-rls", "arbitrary-rls"]
 SCENARIOS = ["none", "delayed", "newfeat", "silent"]
 
 
@@ -378,7 +390,9 @@ def make_arm(name, world, rng):
     if kind == "learner":
         return Learner(world, rng, rule=rule)
     if kind == "frozen":
-        return Learner(world, rng, rule=rule, freeze=True)
+        return Learner(world, rng, rule=rule, freeze="all")
+    if kind == "featfrozen":
+        return Learner(world, rng, rule=rule, freeze="features")
     return Learner(world, rng, rule=rule, target=kind)
 
 
@@ -473,8 +487,8 @@ def run(arm_name: str, scenario: str, seed: int, world: World = World(),
                 c = step(y, t)
                 net += y - world.c0
                 fail = arm.fail_step(x, y, c, t)
-                if arm.learning and not fail:
-                    arm.record_step(x, y, t)
+                if arm.learning:
+                    arm.record_step(x, y, t, failed=fail)
                 t += 1
                 if E <= 0:
                     break
