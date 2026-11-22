@@ -61,6 +61,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: TERM-129 CLAIM-714 — filed from the same exchange, Proposed or new -->
+<!-- inactive-ok-file: CASE-tmprcg71 CLAIM-tmpn5wpc — new; the model and finding of LEAD-104, note of 2026-11-22 -->
 
 # CLAIM-721: Where competence is kept by use and lost with disuse, and a restriction is to be lifted when competence is shown, a restriction justified by a lack of competence lowers the competence it waits for, so that unless the restricting party supplies a route to practice or training, the restriction produces the evidence for its own continuation
 
@@ -146,3 +147,22 @@ it lasts.
   temporary suspension of a risky automated system may preserve evidence,
   prevent irreversible harm, and provide time to investigate", so
   "present restraint protects future governability."
+
+## Note of 2026-11-22: the model has been written ([LEAD-104](../leads.d/LEAD-104.md))
+
+The model this claim named and said "no one has written" — [CLAIM-605](CLAIM-605.md)'s
+"with reinstatement made a threshold on capacity" — was written and run
+carrying out [LEAD-104](../leads.d/LEAD-104.md). It is [CASE-tmprcg71](../cases.d/CASE-tmprcg71.md), an executed study, and its
+finding is [CLAIM-tmpn5wpc](CLAIM-tmpn5wpc.md). Making reinstatement a threshold C_r on capacity
+closes this claim's loop in the model: with no route a party restricted
+below C_r decays monotonically, never reaches C_r, and is never
+reinstated, so the restriction manufactures the evidence that extends it;
+the trap has a recoverability deadline past which release no longer helps;
+and it is escaped only by a practice route above a critical fraction (which
+cannot ignite a party below threshold) or a training route that adds
+capacity directly and ignites from zero, which is this claim's "route to
+practice **or training**" told apart. Each of the three conditions in the
+title is shown necessary. [CLAIM-tmpn5wpc](CLAIM-tmpn5wpc.md) corroborates this claim with a
+formal demonstration; it does not rest on the model, which reads no real
+institution. Whether the demonstration moves this claim's warrant from
+interpretive to demonstrated is the owner's call. No status change.
