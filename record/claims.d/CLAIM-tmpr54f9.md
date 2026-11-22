@@ -42,8 +42,8 @@ bears_on:
 - QUESTION-278
 - QUESTION-279
 summary: >-
-  One of two alternative readings of where CASE-tmpwj1k2's arrangements
-  first differ, filed for LEAD-168; the other is CLAIM-tmpx5yyb. With
+  One of two alternative readings of where [CASE-tmpwj1k2](../cases.d/CASE-tmpwj1k2.md)'s arrangements
+  first differ, filed for [LEAD-168](../leads.d/LEAD-168.md); the other is [CLAIM-tmpx5yyb](CLAIM-tmpx5yyb.md). With
   every agent on a fixed policy, enumerating all 32 probes, the
   conditioned and the independent arrangement agree under every routine
   probe and every probe with an acquiescent executive, and part only on
@@ -60,7 +60,7 @@ summary: >-
 
 ## The claim
 
-In CASE-tmpwj1k2 the two arrangements share every rule but the enforcer's:
+In [CASE-tmpwj1k2](../cases.d/CASE-tmpwj1k2.md) the two arrangements share every rule but the enforcer's:
 in I it executes a corrective order whenever it is able, in C only when
 the executive's signal permits. With fixed policies (the reviewer rules by
 law; the executive's disposition is given), three things follow, each
@@ -68,7 +68,7 @@ checked by enumeration.
 
 1. **Equivalence under routine probes.** Under any probe family without an
    adverse order, or with an acquiescent executive, I and C are
-   observationally equivalent in TERM-069's sense. Passive observation of
+   observationally equivalent in [TERM-069](../terms.d/TERM-069.md)'s sense. Passive observation of
    a conditioned arrangement whose executive has never opposed an order
    cannot tell it from an independent one.
 2. **One separating probe, three conditions jointly.** The traces part only
@@ -82,24 +82,24 @@ checked by enumeration.
 
 ## Why it matters
 
-As a reading of LEAD-168's "first difference", this puts it where
-QUESTION-278 put A9's "missing rung" on CLAIM-403's ladder: after uptake,
+As a reading of [LEAD-168](../leads.d/LEAD-168.md)'s "first difference", this puts it where
+[QUESTION-278](../questions.d/QUESTION-278.md) put A9's "missing rung" on [CLAIM-403](CLAIM-403.md)'s ladder: after uptake,
 at effective execution. The arrangements are alike in everything a court
-can see up to its own judgement. It corroborates CLAIM-462: the
+can see up to its own judgement. It corroborates [CLAIM-462](CLAIM-462.md): the
 executive's capacity for effective action is the same in I and C while the
 arrangement's capacity to correct it is not, and only a probe of the
-correction shows which. Point 2 makes CLAIM-414's method precise here: the
+correction shows which. Point 2 makes [CLAIM-414](CLAIM-414.md)'s method precise here: the
 separating intervention must be an adverse order *and* must meet a
 withholding disposition, so an arrangement can pass any number of
-challenges and stay untested. Point 3's hold is CLAIM-tmpsaql8's timing
+challenges and stay untested. Point 3's hold is [CLAIM-tmpsaql8](CLAIM-tmpsaql8.md)'s timing
 margin seen from the enforcer: conditioning that only delays is invisible
 in outcomes until it outruns the slack.
 
-For QUESTION-279: in C a non-execution is ambiguous between the
+For [QUESTION-279](../questions.d/QUESTION-279.md): in C a non-execution is ambiguous between the
 enforcer's inability and the executive's withholding, and the posterior on
 withholding rises as the enforcer's capacity becomes more reliable
-(CASE-tmpwj1k2, part D). The executive's report "the order cannot be
-executed" is then not independent evidence of inability, as CLAIM-342
+([CASE-tmpwj1k2](../cases.d/CASE-tmpwj1k2.md), part D). The executive's report "the order cannot be
+executed" is then not independent evidence of inability, as [CLAIM-342](CLAIM-342.md)
 requires of evidence that tests a party's own account.
 
 ## What it does not say
@@ -107,7 +107,7 @@ requires of evidence that tests a party's own account.
 - That the result is deep. Once the enforcer's rule names the executive's
   signal, some probe must separate the arrangements; what is shown is
   which probe, the joint condition, and that it parts after the ruling.
-- Anything about agents who anticipate enforcement; CLAIM-tmpx5yyb, the
+- Anything about agents who anticipate enforcement; [CLAIM-tmpx5yyb](CLAIM-tmpx5yyb.md), the
   alternative reading, shows the first difference then moves earlier.
 - Anything about real institutions, or that a conventional model could not
   state the same; A9 expected one could.

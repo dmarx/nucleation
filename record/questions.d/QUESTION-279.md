@@ -174,14 +174,14 @@ searches. Paid external restoration recovered in every world. That no
 remedy exists is relative to the declared boundary. The question stays
 Open.
 
-## Note of 2026-11-22: a non-execution under conditioned enforcement, LEAD-168
+## Note of 2026-11-22: a non-execution under conditioned enforcement, [LEAD-168](../leads.d/LEAD-168.md)
 <!-- inactive-ok-file: CASE-tmpwj1k2 CLAIM-tmpr54f9 — new; LEAD-168's executed study and the reading that states this point -->
 
-In CASE-tmpwj1k2's arrangement in which the executive can condition
+In [CASE-tmpwj1k2](../cases.d/CASE-tmpwj1k2.md)'s arrangement in which the executive can condition
 enforcement, an order not executed is ambiguous between the enforcer's
 inability and the executive's withholding; the posterior on withholding,
 qw / (1 − q + qw), rises as the enforcer's capacity becomes more reliable,
-and is zero where enforcement is independent (CLAIM-tmpr54f9). So "the
+and is zero where enforcement is independent ([CLAIM-tmpr54f9](../claims.d/CLAIM-tmpr54f9.md)). So "the
 order cannot be executed", reported where the party controls the
 enforcer, is a statement whose certifier is the party, the case this
 question's second point raises. It does not say what would certify that

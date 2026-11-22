@@ -25,7 +25,7 @@ bears_on:
 - QUESTION-278
 - QUESTION-279
 summary: >-
-  A9's minimal construction for QUESTION-278, built and run for LEAD-168: an
+  A9's minimal construction for [QUESTION-278](../questions.d/QUESTION-278.md), built and run for [LEAD-168](../leads.d/LEAD-168.md): an
   executive E, a reviewer R and an enforcer F; one episode of act,
   challenge, ruling, enforcement and outcome. In arrangement I, F executes
   a corrective order whenever it is able; in C, only if E's signal
@@ -50,11 +50,11 @@ summary: >-
 
 ## The case
 
-QUESTION-278 records A9's proposal: "an executive, a reviewer and an
+[QUESTION-278](../questions.d/QUESTION-278.md) records A9's proposal: "an executive, a reviewer and an
 enforcer, in two arrangements alike in routine operation, one in which
 enforcement of corrective orders is independent of the executive and one in
 which the executive can condition it, parting under a challenge."
-LEAD-168 asked for the construction and for where the two first differ.
+[LEAD-168](../leads.d/LEAD-168.md) asked for the construction and for where the two first differ.
 The assistant wrote it in `scratch/studies/lead-168/model.py`.
 
 **One episode** has five observable stages:
@@ -118,19 +118,19 @@ pass).
 ## What it can show
 
 That in this construction the arrangements are observationally equivalent
-(TERM-069) under every routine probe family, that the first observable
+([TERM-069](../terms.d/TERM-069.md)) under every routine probe family, that the first observable
 difference under fixed policies is at execution and needs three things
 together (an order, the order adverse to E, E disposed to withhold), and
 that anticipation moves it earlier, as far as the routine itself. It
-exhibits CLAIM-414's pattern, matched ordinary trajectories and a specified
-intervention that separates them, for enforcement, and CLAIM-462's: E's
+exhibits [CLAIM-414](../claims.d/CLAIM-414.md)'s pattern, matched ordinary trajectories and a specified
+intervention that separates them, for enforcement, and [CLAIM-462](../claims.d/CLAIM-462.md)'s: E's
 capacity for effective action is the same in both while the arrangement's
 capacity to correct it differs. The hold variant meets the timing margin of
-CASE-tmp8riid and CLAIM-tmpsaql8: conditioning that only delays is
+[CASE-tmp8riid](CASE-tmp8riid.md) and [CLAIM-tmpsaql8](../claims.d/CLAIM-tmpsaql8.md): conditioning that only delays is
 harmless until the delay passes the deadline.
 
-The two claims filed from it, CLAIM-tmpr54f9 (fixed policies) and
-CLAIM-tmpx5yyb (anticipation), are alternative readings of which
+The two claims filed from it, [CLAIM-tmpr54f9](../claims.d/CLAIM-tmpr54f9.md) (fixed policies) and
+[CLAIM-tmpx5yyb](../claims.d/CLAIM-tmpx5yyb.md) (anticipation), are alternative readings of which
 difference is "the first"; the owner chooses which the record takes as
 the lead's answer.
 

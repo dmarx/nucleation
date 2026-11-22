@@ -43,15 +43,15 @@ corroborates:
 bears_on:
 - QUESTION-278
 summary: >-
-  One of two alternative readings of where CASE-tmpwj1k2's arrangements
-  first differ, filed for LEAD-168; the other is CLAIM-tmpr54f9. Solved
+  One of two alternative readings of where [CASE-tmpwj1k2](../cases.d/CASE-tmpwj1k2.md)'s arrangements
+  first differ, filed for [LEAD-168](../leads.d/LEAD-168.md); the other is [CLAIM-tmpr54f9](CLAIM-tmpr54f9.md). Solved
   by backward induction, the first difference moves earlier as
   anticipation deepens: to the ruling where the reviewer would rather
   abstain than issue an order it expects to go unenforced, and to the
   executive's act where the executive anticipates too, exactly where
   (1 − p)g ≤ pc. There the conditioned arrangement shows contestable
   acts the independent one deters, before any challenge, so the premise
-  of QUESTION-278's construction, two arrangements alike in routine,
+  of [QUESTION-278](../questions.d/QUESTION-278.md)'s construction, two arrangements alike in routine,
   holds only where independent enforcement would not have deterred the
   act. The wording is the assistant's (Claude, in this session); adopting
   it is the owner's call.
@@ -62,7 +62,7 @@ summary: >-
 
 ## The claim
 
-CASE-tmpwj1k2's part C gives the agents payoffs and solves each arrangement
+[CASE-tmpwj1k2](../cases.d/CASE-tmpwj1k2.md)'s part C gives the agents payoffs and solves each arrangement
 by backward induction: the executive gains g while a contestable act
 stands, loses c if it is reversed and kw if it withholds an order; the act
 is challenged with probability p; the reviewer loses u by letting an
@@ -89,14 +89,14 @@ routine, as what the executive dares to do.
 
 ## Why it matters
 
-As a reading of LEAD-168's "first difference", this one says the
+As a reading of [LEAD-168](../leads.d/LEAD-168.md)'s "first difference", this one says the
 difference A9 placed under challenge can come before the challenge, as a
 shift in the distribution of the executive's acts; it is the ex ante face
-of CLAIM-464, an actor arranging what correction would cost before it
-acts. It corroborates CLAIM-462 from the other side: what the arrangement
+of [CLAIM-464](CLAIM-464.md), an actor arranging what correction would cost before it
+acts. It corroborates [CLAIM-462](CLAIM-462.md) from the other side: what the arrangement
 can correct shapes what is done in it, so a loss of correctability can
 show up as bolder effective action rather than as anything visible in
-correction. And it marks a limit on CLAIM-414's method for this question:
+correction. And it marks a limit on [CLAIM-414](CLAIM-414.md)'s method for this question:
 matched routine trajectories are available only for agents who do not
 anticipate, or where deterrence does not bind.
 
