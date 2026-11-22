@@ -55,14 +55,14 @@ tracks search or information alone defeats the governance-induced reading.
 
 ## Note of 2026-11-22: what was done, and what remains
 
-Done: CASE-099 was built with declared demands, a feasible-update oracle (exact Φ_r, checked against CLAIM-365's dual) and an allocation oracle. Only the conferral rule was varied, with the update map (search) and the gradients (information) the same under every rule. The study ran on 200 paired satisfiable instances and 100 structural ones, with optimizer and information controls, a sweep of the conferral parameters, and the best fixed weighting in hindsight. It is filed as CASE-tmpgustv with CLAIM-tmpifr7i. The code is under scratch/studies/lead-081/.
+Done: [CASE-099](../cases.d/CASE-099.md) was built with declared demands, a feasible-update oracle (exact Φ_r, checked against [CLAIM-365](../claims.d/CLAIM-365.md)'s dual) and an allocation oracle. Only the conferral rule was varied, with the update map (search) and the gradients (information) the same under every rule. The study ran on 200 paired satisfiable instances and 100 structural ones, with optimizer and information controls, a sweep of the conferral parameters, and the best fixed weighting in hindsight. It is filed as [CASE-tmpgustv](../cases.d/CASE-tmpgustv.md) with [CLAIM-tmpifr7i](../claims.d/CLAIM-tmpifr7i.md). The code is under scratch/studies/lead-081/.
 
-Result against "what would count": frustration changed with the allocation while search and information were fixed, 0.95 under Regime A against 0.05 under Regime B. It did not track step size, noise or conditioning alone. Noise raised it under every rule, but the gap between the rules survived. That is the shape that supports CLAIM-500 and CLAIM-357. However, a fixed weighting chosen in hindsight did as well as Regime B, and CLAIM-500's defeater counts a fixed weighting rule as an optimizer mechanism. Whether the result supports CLAIM-500 is filed as two readings in CLAIM-tmpifr7i for the owner.
+Result against "what would count": frustration changed with the allocation while search and information were fixed, 0.95 under Regime A against 0.05 under Regime B. It did not track step size, noise or conditioning alone. Noise raised it under every rule, but the gap between the rules survived. That is the shape that supports [CLAIM-500](../claims.d/CLAIM-500.md) and [CLAIM-357](../claims.d/CLAIM-357.md). However, a fixed weighting chosen in hindsight did as well as Regime B, and [CLAIM-500](../claims.d/CLAIM-500.md)'s defeater counts a fixed weighting rule as an optimizer mechanism. Whether the result supports [CLAIM-500](../claims.d/CLAIM-500.md) is filed as two readings in [CLAIM-tmpifr7i](../claims.d/CLAIM-tmpifr7i.md) for the owner.
 
 Remains:
 - Another update map (search).
 - More demands and dimensions.
-- QUESTION-124's persistence condition stated in the parameters, and a non-Euclidean (modular) geometry.
+- [QUESTION-124](../questions.d/QUESTION-124.md)'s persistence condition stated in the parameters, and a non-Euclidean (modular) geometry.
 - A non-local oracle, since the one-step oracle misclassified the structural instances under capture.
 
 Status and stage are the owner's.

@@ -103,7 +103,7 @@ been run.
 
 ## Note of 2026-11-22: the discriminating experiment run
 
-The experiment of the notes of 2026-10-30 and 2026-11-06 has been run for LEAD-081 as CASE-tmpgustv. With search and information held fixed, changing only the conferral rule took realized violations of satisfiable demands from 0.95 of steps to 0.05. No change of step size, curvature or noise did as much, and those that helped did so by stopping capture. But the captured state is a fixed weighting, and the best fixed weighting chosen in hindsight did as well as the independent-evidence rule. This claim's defeater counts "a fixed weighting rule" as an optimizer mechanism, so CLAIM-tmpifr7i files the result with two readings, and the owner chooses:
+The experiment of the notes of 2026-10-30 and 2026-11-06 has been run for [LEAD-081](../leads.d/LEAD-081.md) as [CASE-tmpgustv](../cases.d/CASE-tmpgustv.md). With search and information held fixed, changing only the conferral rule took realized violations of satisfiable demands from 0.95 of steps to 0.05. No change of step size, curvature or noise did as much, and those that helped did so by stopping capture. But the captured state is a fixed weighting, and the best fixed weighting chosen in hindsight did as well as the independent-evidence rule. This claim's defeater counts "a fixed weighting rule" as an optimizer mechanism, so [CLAIM-tmpifr7i](CLAIM-tmpifr7i.md) files the result with two readings, and the owner chooses:
 
 - It supports this claim. A weighting is an allocation, and only a change in how conferral is earned found the right one.
 - It leaves the stronger form unsupported. Once capture is complete, every observed failure is a fixed-weighting failure.
