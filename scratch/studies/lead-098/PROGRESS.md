@@ -12,8 +12,18 @@
 
 ## Done
 
+- Read the lead, CASE-179, QUESTION-063, ARG-072, CLAIM-616, CASE-225 and the summaries of QUESTION-319/282/283/035, CLAIM-474/471.
+- sim.py (Stuart-Landau network with connection maps, Heun integrator, readouts, linear-response fit, sheaf Kron reduction) and test_sim.py (7 tests pass).
+
 ## Next
 
 - Read CASE-179, QUESTION-063, ARG-072, QUESTION-035/319/282/283, CLAIM-474/471/616.
 
 ## Choices
+
+- "Three manipulations" read as CASE-179's three (coupling, maps, revision), run as its
+  regime table; A12's three arms (forcing withdrawal, suppression, adaptive capacity
+  knockout) run as well, since the lead names both.
+- Units: Stuart-Landau oscillators; maps: U(1) phase offsets on a ring of 8 with one
+  chord (two independent cycles); higher-dimensional stalks: linear cellular sheaves
+  reduced by Kron reduction (Schur complement).
