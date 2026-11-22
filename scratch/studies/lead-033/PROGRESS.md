@@ -16,10 +16,11 @@
 - CLAIM-tmpduscr filed: only C2*/C4* discriminate; verdict turns on status reasons; QUESTION-484 consequence. Lean (b).
 - Codes reserved by luria new (templates, not yet committed): CLAIM-tmpz92ao (alt a), CLAIM-tmpn0ocj (alt b), CLAIM-tmpxbgny (alt c), ARG-tmpg6xcm (formal-application concluding CLAIM-tmp72lji).
 
+- Alternatives filed: CLAIM-tmpz92ao (a, no residual wrong), CLAIM-tmpn0ocj (b, status reason; lean), CLAIM-tmpxbgny (c, imported standing, Wenar form). CASE C2*/C4* clarified: the holder keeps the power and is known never to misuse it (a binding device would hand the power over by proxy).
+
 ## Next
 
 - ARG-tmpg6xcm (formal-application) concluding CLAIM-tmp72lji.
-- Three alternative CLAIMs for C2*/C4* (owner's call): (a) no residual wrong; (b) residual wrong explained by status reasons (Scanlon 2013 style); (c) residual wrong needs imported standing (Wenar style).
 - Dated notes on QUESTION-483, 484, 481, LEAD-033; changelog fragment record/changelog.d/lead-033.md.
 
 ## Choices made

@@ -93,7 +93,8 @@ Add to both worlds: deactivation decisions are computed mechanically from
 tamper-evident delivery logs by a procedure independently audited as
 applying R without error, and this is common knowledge; the panel in
 either world has never had a decision to reverse and is known never to
-need to. Whatever reason a courier had in C2 to want review out of the
+need to. The dispatch office keeps its power over the panel in W2′; it is
+known never to need it. Whatever reason a courier had in C2 to want review out of the
 dispatch office's control as protection against error, bias or
 retaliation is gone. What remains is that in W2 couriers share control of
 the body that reviews decisions over them and in W2′ they do not.
@@ -130,9 +131,13 @@ corrects well while no one subject to it can change its governing rules
 
 ## C4*: C4 with the protective reasons stipulated away
 
-Add to W4′: the platform's amendments are known, by a verified commitment
-everyone can inspect, always to be exactly the amendments the couriers'
-vote in W4 would pass, on the same schedule. Whatever reason a courier had
+Add to W4′: the platform is known, as a matter of its settled and verified
+disposition and as common knowledge, always to make exactly the
+amendments the couriers' vote in W4 would pass, on the same schedule.
+Nothing binds it to: it keeps the power to amend otherwise and is known
+never to use it so. (A binding device that made its amendments follow the
+vote would give the couriers the power by proxy and erase the
+difference.) Whatever reason a courier had
 in C4 to want a say as protection against unwelcome or unannounced change
 is gone; the two worlds produce the same rules at the same times under
 every contingency. What remains is that in W4 the couriers hold a share of
