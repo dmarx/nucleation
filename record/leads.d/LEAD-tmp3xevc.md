@@ -1,7 +1,7 @@
 ---
 status: Open
 title: 'Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory'
-version: 2
+version: 3
 stage: underway
 priority: medium
 method:
@@ -45,6 +45,14 @@ Register and read, under the read-and-file skill:
 - Dunfield and Krishnaswami (2021), a survey of bidirectional typing: does
   inference against checking match the direction of fit, and where does
   elaboration sit?
+- Rondon, Kawaguchi and Jhala (2008), Liquid Types: the predicate form
+  {x : A | φ(x)} that CLAIM-tmpnookt actually writes, which Freeman and
+  Pfenning's finite lattice of refinements is not. Added 2026-11-22 at
+  the owner's request, on the Freeman and Pfenning reader's suggestion.
+- Davies and Pfenning (2000), on intersection types and computational
+  effects: bidirectional refinement checking, the sharp test of the
+  direction-of-fit correspondence that Freeman and Pfenning leave
+  untested (CLAIM-tmp764wb). Added the same day for the same reason.
 
 ## What would count
 
