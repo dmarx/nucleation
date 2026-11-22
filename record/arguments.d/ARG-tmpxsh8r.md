@@ -15,10 +15,10 @@ date: '2026-11-22'
 line:
 - organizational-normativity
 summary: >-
-  The inference that carries Leffler's result ([THEORY-tmpdrt3r](../theory.d/THEORY-tmpdrt3r.md)), stated for
+  The inference that carries Leffler's result (THEORY-tmpdrt3r), stated for
   agents, to the self-maintaining organizations of the record's account.
-  It concludes reading (a), [CLAIM-tmp8g26d](../claims.d/CLAIM-tmp8g26d.md); readings (b) and (c),
-  [CLAIM-tmprcgr5](../claims.d/CLAIM-tmprcgr5.md) and [CLAIM-tmpn4gbs](../claims.d/CLAIM-tmpn4gbs.md), use the same analogy and
+  It concludes reading (a), CLAIM-tmp8g26d; readings (b) and (c),
+  CLAIM-tmprcgr5 and CLAIM-tmpn4gbs, use the same analogy and
   differ on what it does to the record. Proposed: the analogy holds in the
   respect the conclusion needs, with one difference marked below. The
   wording is the assistant's (Claude, in this session); adopting it is the
@@ -36,10 +36,10 @@ summary: >-
    agency fully, absent external limits, then the explanation passes
    invariance, ought-implies-can, ought-implies-can-fail and
    criticizability, and the force is relative to the agent's
-   constitution ([THEORY-tmpdrt3r](../theory.d/THEORY-tmpdrt3r.md)).
+   constitution (THEORY-tmpdrt3r).
 2. A self-maintaining organization, on the record's account, has a
    constitution that fixes what counts as its success and failure
-   ([THEORY-220](../theory.d/THEORY-220.md), [THEORY-628](../theory.d/THEORY-628.md), [CLAIM-648](../claims.d/CLAIM-648.md)), and while it persists it is
+   (THEORY-220, THEORY-628, CLAIM-648), and while it persists it is
    continuously positioned to go on maintaining itself, well or badly,
    unless something outside it stops it.
 3. So an explanation of the force of its norms by that position has the
@@ -66,7 +66,7 @@ summary: >-
   relativity, which follows from the standard's being set by the
   constitution whoever meets it. Second, for an organization failure can
   end it, and Leffler's agent who fails remains an agent. Di Paolo's
-  graded norm ([THEORY-628](../theory.d/THEORY-628.md)) is what keeps failure short of dissolution, so
+  graded norm (THEORY-628) is what keeps failure short of dissolution, so
   the analogy holds only for adaptive organizations, which is where the
   record's account places norms anyway.
 - **What transfers, and what does not?** The relativity of force
