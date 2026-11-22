@@ -266,3 +266,34 @@ decoder's risk is measured over time. No relation.
 ## Note of 2026-11-22: the kernel's modes in the modular-addition run
 
 In [LEAD-172](../leads.d/LEAD-172.md)'s reduced run ([CASE-tmpb4hg0](../cases.d/CASE-tmpb4hg0.md)) the moving-basis term was tracked by proxy: the rotation of the empirical tangent kernel's top eigenspace between checkpoints 250 steps apart. It forecast nothing about when the network generalizes. The top eigenspace stayed at chance alignment with the functions the task needs (functions of a + b) throughout, even after generalization, while the input-to-output Fourier coupling did forecast. In this network, then, acquisition is not visible as the kernel's leading modes turning toward the target. It is one network and one kernel, the class-summed trace kernel. It answers none of the four orders. No status change.
+
+## Note of 2026-11-22: the tree with strengths set per level, run
+
+<!-- inactive-ok-file: CASE-tmp7n58t CLAIM-tmpzujm1 CLAIM-tmp0h57p — new; the study and claims of LEAD-052, filed 2026-11-22 -->
+
+A2's first project, run for [LEAD-052](../leads.d/LEAD-052.md) ([CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md)): eight items on a
+depth-3 tree, inputs and targets each given a strength per level, and the
+acquisition time of each level read from the network's own output.
+
+- **Conjecture A's condition, by symmetry.** With tree-symmetric inputs
+  every kernel of inner products and norms commutes exactly with the level
+  projectors, so kernel flow acquires the levels in the order of its
+  per-level eigenvalue, which depends on the input strengths alone; a
+  decoupled deep linear network orders them by input strength times target
+  strength ([CLAIM-tmpzujm1](../claims.d/CLAIM-tmpzujm1.md), demonstrated). Commutation here does not
+  make acquisition coarse to fine: it makes the order spectral, and
+  whether the spectral order is the refinement order is then a fact about
+  where the strength sits.
+- **The phase map.** Each phase appeared for each learner that depends on
+  strength, and tree depth set no order by itself. The kernel and
+  deep linear learners' boundaries lie on different surfaces, so the same
+  data can be coarse-first for one and simultaneous or fine-first for the
+  other. A small two-layer ReLU network from small scale kept the
+  deep linear direction with its spread of times compressed, so much of
+  its map is simultaneous ([CLAIM-tmp0h57p](../claims.d/CLAIM-tmp0h57p.md), empirical).
+
+For these model classes on tree-symmetric data this gives the condition:
+the acquisition order agrees with the refinement order when, and only
+when, the learner's per-level rate falls with depth. It leaves the
+general case open (data off the symmetry, where the levels mix) and the
+relevance order untouched. No status change.
