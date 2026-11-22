@@ -197,8 +197,8 @@ def kernel_measures(params, p, Q, U_prev, m):
 
 # ---------- training ----------
 
-def run(name, frac, wd, seed, lr=3e-3, max_steps=30000, every=100, kevery=500,
-        stop_after=1500, p=P, n=HIDDEN):
+def run(name, frac, wd, seed, lr=1e-2, max_steps=15000, every=50, kevery=250,
+        stop_after=500, p=P, n=HIDDEN):
     os.makedirs(RESULTS, exist_ok=True)
     os.makedirs(STATE_DIR, exist_ok=True)
     out = os.path.join(RESULTS, name + ".jsonl.gz")
@@ -278,8 +278,9 @@ def run(name, frac, wd, seed, lr=3e-3, max_steps=30000, every=100, kevery=500,
 
 
 # Training arms (fit set) and the held-out intervention arms.
-FIT = [(f, 1.0, s) for f in (0.3, 0.4, 0.5, 0.6) for s in (0, 1, 2)]
-HELDOUT = [(f, wd, s) for wd in (0.5, 2.0) for f in (0.4, 0.5) for s in (0, 1)]
+FIT = [(f, 1.0, s) for f in (0.4, 0.5, 0.6) for s in (0, 1, 2)]
+HELDOUT = ([(f, 0.5, s) for f in (0.5, 0.6) for s in (0, 1)]
+           + [(0.5, 2.0, s) for s in (0, 1)])
 
 
 def arm_name(f, wd, s):
