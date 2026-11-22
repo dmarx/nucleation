@@ -25,11 +25,11 @@ bears_on:
 - QUESTION-128
 summary: >-
   An alternative reading, filed for the owner to choose between it and
-  CLAIM-tmphrp1s. CASE-239 names, as one outcome that would count against
+  [CLAIM-tmphrp1s](CLAIM-tmphrp1s.md). [CASE-239](../cases.d/CASE-239.md) names, as one outcome that would count against
   endogenous revision, that the learner's "gains vanish when the viability
   variable is replaced by any other variable the designer could have chosen,
   so that what it tracks is whatever it was told to keep". In the run
-  (CASE-tmpz762n) they do: a learner whose target is the visit's immediate
+  ([CASE-tmpz762n](../cases.d/CASE-tmpz762n.md)) they do: a learner whose target is the visit's immediate
   intake, equal to its energy account in training, survives none of 40 seeds
   under either delayed cost, against 35 and 40 for the energy-account learner;
   a learner given an arbitrary score survives none of the three changes. Taken at its word, the
@@ -44,16 +44,16 @@ summary: >-
 
 ## The claim
 
-**One of two alternative readings; the other is CLAIM-tmphrp1s. The owner
+**One of two alternative readings; the other is [CLAIM-tmphrp1s](CLAIM-tmphrp1s.md). The owner
 chooses.**
 
-CASE-239, "What would count against endogenous revision": "Or its gains
+[CASE-239](../cases.d/CASE-239.md), "What would count against endogenous revision": "Or its gains
 vanish when the viability variable is replaced by any other variable the
 designer could have chosen, so that what it tracks is whatever it was told to
 keep. Either outcome means it revises estimates and not criteria, or that its
 criteria are the designer's in another form."
 
-The run replaced the learner's target twice (CASE-tmpz762n):
+The run replaced the learner's target twice ([CASE-tmpz762n](../cases.d/CASE-tmpz762n.md)):
 - with a score the designer could well have chosen, the visit's immediate net
   intake, which equals the energy account in training and omits upkeep
   raised later: survival 0 of 40 under the delayed cost and under the new
@@ -64,7 +64,7 @@ The run replaced the learner's target twice (CASE-tmpz762n):
 
 So the gains vanish, and on the defeater's own terms the learner's criteria
 are whatever variable it was given. The first defeater is not met (the
-learner beats arm 5 where a new feature is needed; CLAIM-tmppa4rs), so this
+learner beats arm 5 where a new feature is needed; [CLAIM-tmppa4rs](CLAIM-tmppa4rs.md)), so this
 reading says the forager revises criteria and that the criteria are still
 the designer's: the revision is endogenous in mechanism and exogenous in
 standard.

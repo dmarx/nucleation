@@ -27,8 +27,8 @@ bears_on:
 - QUESTION-285
 - QUESTION-282
 summary: >-
-  The top rung LEAD-177 asked for: a sensor network revising its
-  correspondences, as QUESTION-285's answer 3 proposes for Robinson's networks,
+  The top rung [LEAD-177](../leads.d/LEAD-177.md) asked for: a sensor network revising its
+  correspondences, as [QUESTION-285](../questions.d/QUESTION-285.md)'s answer 3 proposes for Robinson's networks,
   whose correspondences are fixed. Four sensors report a moving target through
   maps that drift (a slow walk of every bias and, at step 500, a jump and a
   rotation of one sensor). The apparatus fuses by least squares and reports its
@@ -40,7 +40,7 @@ summary: >-
   give less (0.095 and 0.24). The beacon as one more revisable map: 0.30.
   Beacons admitted only when they agree with the current maps: 59 of 300
   admitted, error 0.37; with a looser threshold, 260 admitted and error 0.045.
-  The run makes QUESTION-285's structural condition concrete in one
+  The run makes [QUESTION-285](../questions.d/QUESTION-285.md)'s structural condition concrete in one
   construction. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -50,19 +50,19 @@ summary: >-
 
 ## What was done
 
-QUESTION-285 asks, for the top rung, for "a structural condition on G, the
+[QUESTION-285](../questions.d/QUESTION-285.md) asks, for the top rung, for "a structural condition on G, the
 part of the apparatus its own revisions cannot reach, under which revision
 improves prediction on interventions the system did not choose, and without
 which it does not", and proposes Robinson's distributed sensor networks
-(NOTE-1221) as the test bed "once their correspondences are allowed to be
-revised". LEAD-177 asks for that network as the ladder's top rung; the lower
-rungs are CASE-tmpz762n. Code and results: scratch/studies/lead-177/
+([NOTE-1221](../notes.d/NOTE-1221.md)) as the test bed "once their correspondences are allowed to be
+revised". [LEAD-177](../leads.d/LEAD-177.md) asks for that network as the ladder's top rung; the lower
+rungs are [CASE-tmpz762n](CASE-tmpz762n.md). Code and results: scratch/studies/lead-177/
 (`network.py`, `results/network_summary.md`).
 
 A target moves in a 6 × 6 box. Four sensors report o_i = A_i z + b_i + noise
 (sd 0.05). The apparatus holds correspondences (Â_i, b̂_i), starting correct,
 fuses by least squares (the nearest global section) and computes its
-consistency radius, the largest residual (THEORY-1077). The true maps drift:
+consistency radius, the largest residual ([THEORY-1077](../theory.d/THEORY-1077.md)). The true maps drift:
 every bias walks (sd 0.004 a step), and at step 500 one sensor's bias jumps by
 (1.0, −0.6) and its gain rotates by 20°. Error is measured on the target's
 true positions, which no arm sees. Late is the last 1,000 of 3,000 steps.
@@ -85,7 +85,7 @@ true positions, which no arm sees. Late is the last 1,000 of 3,000 steps.
   radius back near its level before the jump (0.10 against 0.09) and leaves
   the error where fixed maps leave it. A common shift of every map, with the state shifted back, changes no
   residual (a test checks it), so disagreement cannot see the part of the drift
-  that moves the whole network. This is THEORY-1088's "learning to lie" in a
+  that moves the whole network. This is [THEORY-1088](../theory.d/THEORY-1088.md)'s "learning to lie" in a
   sensor network, with no collapse needed: the guards that stop collapse do
   not make the apparatus answerable.
 - **The condition, in one construction.** Revision improves prediction on
@@ -94,11 +94,11 @@ true positions, which no arm sees. Late is the last 1,000 of 3,000 steps.
   (every event is used). Make the beacon's map revisable and much of the gain
   goes (0.30); let the apparatus refuse events it disagrees with and, once
   the drift exceeds the threshold, it refuses them all and keeps a large
-  radius it no longer acts on (0.37). That is CLAIM-342's condition, evidence
+  radius it no longer acts on (0.37). That is [CLAIM-342](../claims.d/CLAIM-342.md)'s condition, evidence
   whose arrival or scoring does not pass through the interpretation it tests,
-  with each half of it removed in turn. It is CLAIM-tmpvqmwc.
+  with each half of it removed in turn. It is [CLAIM-tmpvqmwc](../claims.d/CLAIM-tmpvqmwc.md).
 - **The fixed network's radius is a detector, not a repair.** It rises to
-  1.16 and flags the drift, as in Robinson's paper (NOTE-1221), and nothing
+  1.16 and flags the drift, as in Robinson's paper ([NOTE-1221](../notes.d/NOTE-1221.md)), and nothing
   acts on it.
 
 ## What it cannot show

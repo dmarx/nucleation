@@ -34,8 +34,8 @@ bears_on:
 - QUESTION-285
 - QUESTION-128
 summary: >-
-  LEAD-177 asked for CASE-239's forager to be built, with its smaller
-  relatives (CASE-238, CASE-240, CASE-242) adding one feature each, so that
+  [LEAD-177](../leads.d/LEAD-177.md) asked for [CASE-239](CASE-239.md)'s forager to be built, with its smaller
+  relatives ([CASE-238](CASE-238.md), [CASE-240](CASE-240.md), [CASE-242](CASE-242.md)) adding one feature each, so that
   the systems share their sensory correlations and differ in memory, use and
   revision. Built in numpy (scratch/studies/lead-177/). In one alarm world,
   four rungs read the same sensor channel (identical mutual information with
@@ -45,7 +45,7 @@ summary: >-
   it at the first try in 91 or 92 of 100 runs; a fault that appears only in
   heat escapes all three, and a fourth rung that reviews its record of real
   fires adds a test in heat (94 of 100 runs) and names the relay (93). In
-  CASE-239's forager, over 40 seeds and two learning rules, a delayed cost on
+  [CASE-239](CASE-239.md)'s forager, over 40 seeds and two learning rules, a delayed cost on
   a feature never attended to kills the arm that may not revise which
   features count in most seeds (survival 13 and 24 of 40) and not the learner
   (40 and 38), while a delayed cost on an attended feature is met by
@@ -63,18 +63,18 @@ summary: >-
 
 ## What was done
 
-LEAD-177 asks for "systems with identical sensory correlations but different
-memory persistence, downstream use and adaptive capacity" (QUESTION-285,
-answer 2), starting with CASE-239's forager, with CASE-238, CASE-240 and
-CASE-242 as the lower rungs. Two constructions were built and run; the top
-rung, a sensor network revising its correspondences, is CASE-tmp33vf4.
+[LEAD-177](../leads.d/LEAD-177.md) asks for "systems with identical sensory correlations but different
+memory persistence, downstream use and adaptive capacity" ([QUESTION-285](../questions.d/QUESTION-285.md),
+answer 2), starting with [CASE-239](CASE-239.md)'s forager, with [CASE-238](CASE-238.md), [CASE-240](CASE-240.md) and
+[CASE-242](CASE-242.md) as the lower rungs. Two constructions were built and run; the top
+rung, a sensor network revising its correspondences, is [CASE-tmp33vf4](CASE-tmp33vf4.md).
 Code, tests (18, passing) and per-run results: scratch/studies/lead-177/
 (`ladder.py`, `forager.py`, `results/ladder_summary.md`,
 `results/forager_summary.md`).
 
 ### The alarm world: four rungs on one channel
 
-CASE-242's chain (injector, sensor, relay, actuator), one fault per episode
+[CASE-242](CASE-242.md)'s chain (injector, sensor, relay, actuator), one fault per episode
 of 6,000 steps from step 500, fires at random, the ambient hot in daytime
 blocks, two irrelevant ambient features (humid, weekend), 2% readout error on
 every test and probe; 100 seeds per cell. Every rung reads the same passive
@@ -83,9 +83,9 @@ identical across the rungs in every seed and fault (0 to 0.26 bits by seed).
 
 | rung | what it adds | kept |
 |---|---|---|
-| R0 relay (CASE-238) | the sensor's all-clear current holds the valve shut; a spring opens it | nothing |
-| R1 tester (CASE-240) | a test at night, an expected response, a retest on silence, a flag; switches to a backup chain | an interval, an expectation, a flag |
-| R2 diagnoser (CASE-242) | on a flag, four probes and a likelihood match to the catalog; replaces the part named | a catalog |
+| R0 relay ([CASE-238](CASE-238.md)) | the sensor's all-clear current holds the valve shut; a spring opens it | nothing |
+| R1 tester ([CASE-240](CASE-240.md)) | a test at night, an expected response, a retest on silence, a flag; switches to a backup chain | an interval, an expectation, a flag |
+| R2 diagnoser ([CASE-242](CASE-242.md)) | on a flag, four probes and a likelihood match to the catalog; replaces the part named | a catalog |
 | R3 reviser | a record of real fires with their ambient features; when failures concentrate on a value (Fisher exact, p < 0.01, at least three) it adds a test under that condition | a history; its test schedule revisable |
 
 | fault | R0 | R1 | R2 | R3 |
@@ -96,11 +96,11 @@ identical across the rungs in every seed and fault (0 to 0.26 bits by seed).
 | none | | false registration 2/100 | no part named | no condition added |
 
 Without the retest, the single test at 2% error registered a fault falsely in
-68 of 100 fault-free runs; CASE-242's likelihood ratio of 49 is evidence,
-not entailment (CLAIM-649), and the retest is CASE-240's "additional
+68 of 100 fault-free runs; [CASE-242](CASE-242.md)'s likelihood ratio of 49 is evidence,
+not entailment ([CLAIM-649](../claims.d/CLAIM-649.md)), and the retest is [CASE-240](CASE-240.md)'s "additional
 interventions". R3 added no condition in any other fault.
 
-### The forager (CASE-239)
+### The forager ([CASE-239](CASE-239.md))
 
 A forager with energy E (start 100, store 500) pays upkeep 1 a step and
 dissolves at E ≤ 0. One patch a step, five binary features; skip, probe (0.3
@@ -118,9 +118,9 @@ attends to. It starts attending to none, adds a feature when its residuals
 differ by that feature (|z| > 4), sets its failure threshold from its own
 residuals, and probes while recent visits fail. It skips a patch it predicts
 a loss on. Two learning rules: recursive least squares with forgetting, and a
-forgetting table over the attended features. Arms: the learner; CASE-239's
+forgetting table over the attended features. Arms: the learner; [CASE-239](CASE-239.md)'s
 arm 5, frozen from the change in its features, threshold and probe policy; a
-features-only freeze (added here, to split arm 5); CASE-241's self-set and
+features-only freeze (added here, to split arm 5); [CASE-241](CASE-241.md)'s self-set and
 designer's profiles; the oracle, told the true value after the change; and
 two replacements of the learner's target, a score equal to the energy account
 in training (immediate intake, no later upkeep) and an arbitrary linear score.
@@ -147,7 +147,7 @@ Survival after the change, of 40 (RLS / table where there are two):
   the features-only freeze are identical, and arm 5 differs only by its
   frozen threshold (RLS) or not at all (table). Re-estimating suffices.
 - **Silent.** Every arm that registers a shortfall in the visit survives: the
-  absence is registered at the first silent step (CASE-241's S3). The
+  absence is registered at the first silent step ([CASE-241](CASE-241.md)'s S3). The
   learners added the silence feature (40 and 38 of 40) and probed (95 and 126
   probes on average); that paid against arm 5 under RLS (39 of 40 seeds) and
   cost under the table (lost in 38 of 40). The self-set profile, which never
@@ -156,45 +156,45 @@ Survival after the change, of 40 (RLS / table where there are two):
   account and the runs are identical; where one is, the score-target learner
   dies in every seed. The arbitrary target dies under every change, and its
   learner attends to the features of the score it was given.
-- **Which features the learner came to warn on** (CASE-239's third control):
+- **Which features the learner came to warn on** ([CASE-239](CASE-239.md)'s third control):
   at the change, red, warm and neighbour in every RLS run and in 36 of 40
   table runs (the other four also attended one irrelevant feature); after
   it, the feature the change made relevant.
 
 ## What it can show
 
-- **Rungs that come apart on one channel** (QUESTION-285, answer 2). With the
+- **Rungs that come apart on one channel** ([QUESTION-285](../questions.d/QUESTION-285.md), answer 2). With the
   sensory correlation held identical, each organization adds a behaviour the
   one below lacks: acting on an absence (R0, nothing kept), registering a
   bounded non-response (R1, an interval, an expectation and a retained flag,
-  which is CLAIM-651's condition; R0 has the consequence without the
-  registration, which is CASE-238's point), placing the fault (R2), and
+  which is [CLAIM-651](../claims.d/CLAIM-651.md)'s condition; R0 has the consequence without the
+  registration, which is [CASE-238](CASE-238.md)'s point), placing the fault (R2), and
   finding a fault outside the catalog (R3). The relay's physical fail-safe
   copes with the heat fault that defeats R1 and R2, by flooding: it acts on
   an absence and does not diagnose one.
-- **Revising criteria, separated from revising estimates** (CASE-239's first
+- **Revising criteria, separated from revising estimates** ([CASE-239](CASE-239.md)'s first
   test). The learner beats arm 5 on the change that needs a new feature, under
   both rules, and does not on the change that needs only new weights. The
   features-only freeze shows the gain is the feature, not the threshold or the
-  probes. This is CLAIM-tmppa4rs.
-- **CASE-239's second test**, read two ways (CLAIM-tmpnc1mf and
-  CLAIM-tmphrp1s, alternatives for the owner): the gains vanish when the
+  probes. This is [CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md).
+- **[CASE-239](CASE-239.md)'s second test**, read two ways ([CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md) and
+  [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md), alternatives for the owner): the gains vanish when the
   energy account is replaced, which the case's wording counts against
   endogenous revision, and which also shows the criteria bound to the
   condition of the forager's dissolution, as the case's "main threat" asks.
 
 ## What it cannot show
 
-- That the norm is the forager's own in Bickhard's sense (THEORY-220): the
+- That the norm is the forager's own in Bickhard's sense ([THEORY-220](../theory.d/THEORY-220.md)): the
   modeller wrote the energy variable, the dissolution condition, the learning
   rules and the list of features a criterion can be built from, as Kolchinsky
-  and Wolpert concede of theirs (THEORY-1646). On the selection-based reading
-  (CLAIM-tmp974nn) the learned warnings are stabilized by the forager's own
+  and Wolpert concede of theirs ([THEORY-1646](../theory.d/THEORY-1646.md)). On the selection-based reading
+  ([CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md)) the learned warnings are stabilized by the forager's own
   past upkeep, which that objection grants; whether that makes them its own is
-  QUESTION-128's and is not settled here.
+  [QUESTION-128](../questions.d/QUESTION-128.md)'s and is not settled here.
 - Invention of a new question. R3 and the learner choose among features they
   already sense; neither makes a probe or a variable it lacked (A10's caveat
-  in CASE-242; QUESTION-285's out-of-family distinction).
+  in [CASE-242](CASE-242.md); [QUESTION-285](../questions.d/QUESTION-285.md)'s out-of-family distinction).
 - Anything about real fire systems, or about learners other than the two
   rules run. The delayed and new-feature changes have the same size by
   design, so their contrast isolates attention and not difficulty. Survival

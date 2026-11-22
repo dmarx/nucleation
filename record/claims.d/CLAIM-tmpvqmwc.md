@@ -35,7 +35,7 @@ bears_on:
 - QUESTION-285
 - QUESTION-282
 summary: >-
-  From LEAD-177's top rung (CASE-tmp33vf4): four sensors, drifting maps, 40
+  From [LEAD-177](../leads.d/LEAD-177.md)'s top rung ([CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md)): four sensors, drifting maps, 40
   seeds. Revised by disagreement alone, the network's consistency radius
   returns to normal (0.10) while its error on the target's true positions
   stays where fixed maps leave it (0.40, below fixed in 19 of 40 seeds).
@@ -44,8 +44,8 @@ summary: >-
   (0.044, 40 of 40). With the beacon's own map revisable the error is 0.30;
   with the right to refuse beacons that disagree with the current maps, the
   network refuses them all once the drift passes the threshold (error 0.37).
-  This is QUESTION-285's structural condition on G in one construction, and
-  independent evidence for CLAIM-342. The wording is the assistant's
+  This is [QUESTION-285](../questions.d/QUESTION-285.md)'s structural condition on G in one construction, and
+  independent evidence for [CLAIM-342](CLAIM-342.md). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp33vf4 — new; the run this claim is drawn from -->
@@ -54,9 +54,9 @@ summary: >-
 
 ## The claim
 
-QUESTION-285 asks what part of an apparatus its own revisions G must not
+[QUESTION-285](../questions.d/QUESTION-285.md) asks what part of an apparatus its own revisions G must not
 reach, if revision is to improve prediction on interventions the system did
-not choose. In the network of CASE-tmp33vf4 the answer has two parts, and
+not choose. In the network of [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) the answer has two parts, and
 removing either loses the gain:
 
 1. **What G cannot rewrite.** The beacon's position and the map of its
@@ -72,11 +72,11 @@ common shift of every map changes no residual, so the part of the drift that
 moves the whole network is invisible to it. With fixed maps the radius flags
 the drift (1.16) and nothing repairs it.
 
-This corroborates CLAIM-342, that what keeps a judgement–observation loop
+This corroborates [CLAIM-342](CLAIM-342.md), that what keeps a judgement–observation loop
 from confirming itself is evidence whose arrival or scoring does not pass
 through the interpretation it tests: the writable beacon is the arrival
 passing through it, the refusing network the scoring. It complements
-CLAIM-471, which separates measurement that estimates correspondences from
+[CLAIM-471](CLAIM-471.md), which separates measurement that estimates correspondences from
 adaptation that revises them; here adaptation is answerable only when tied to
 an estimate it does not control.
 
