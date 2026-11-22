@@ -37,7 +37,7 @@ complements:
 uses:
 - TERM-115
 summary: >-
-  From the executed study CASE-tmp17sbe, LEAD-075's run of A's staging
+  From the executed study [CASE-tmp17sbe](../cases.d/CASE-tmp17sbe.md), [LEAD-075](../leads.d/LEAD-075.md)'s run of A's staging
   experiment. Admitting a staging architecture is one intervention; in
   the model it creates reachability when a crease constraint disconnects
   the home space, and when the home space is connected it lowers the
@@ -48,7 +48,7 @@ summary: >-
   them. The staging route saves capacity and costs time (at least 2.58
   against 1 in the base model), so at a deadline of 2 the architectural
   remedy is gone and a case reachable only through it becomes one
-  reachable only with the reserve, or not in time. For QUESTION-392:
+  reachable only with the reserve, or not in time. For [QUESTION-392](../questions.d/QUESTION-392.md):
   whether an intervention creates a capability or cheapens one is fixed
   here by the home architecture and the contingency's deadline, not by
   the kind of intervention. The wording is the assistant's (Claude, in
@@ -60,9 +60,9 @@ summary: >-
 
 ## The claim
 
-The model is CASE-tmp17sbe's, which is CASE-198's made a graph. A state
+The model is [CASE-tmp17sbe](../cases.d/CASE-tmp17sbe.md)'s, which is [CASE-198](../cases.d/CASE-198.md)'s made a graph. A state
 is (q, z): q ∈ [0, 1] and z the home architecture or a staging one. One
-capacity must be held at every moment (CLAIM-571's scope). Holding q
+capacity must be held at every moment ([CLAIM-571](CLAIM-571.md)'s scope). Holding q
 costs r0(q) = h0 + β0 q(1 − q) under home and r1(q) = h1 + β1 q(1 − q)
 under staging, with β0, β1 ≥ 0; switching z at q peaks at
 max(r0(q), r1(q)) + s and is allowed at every q. A = (0, home) and
@@ -85,14 +85,14 @@ across a stretch around q = 1/2.
    otherwise does nothing. The study confirms the formula in all 960
    settings of its sweep: 480 with the crease, all made reachable; 211
    without it lowered, 269 unchanged. In the base numbers
-   (CASE-198), 1.3 falls to 1.0.
+   ([CASE-198](../cases.d/CASE-198.md)), 1.3 falls to 1.0.
 
 2. **A budget or a reserve moves neither threshold.** B* and the least
    time T*(b) are functions of the architecture alone; a budget or a
    temporary reserve changes only whether the capacity b, or b + ρ,
    meets them. So neither ever makes an unreachable B reachable, which
-   is CLAIM-568's "added actuation can … not join disconnected
-   configurations" and CLAIM-586's budget bound, for transitions.
+   is [CLAIM-568](CLAIM-568.md)'s "added actuation can … not join disconnected
+   configurations" and [CLAIM-586](CLAIM-586.md)'s budget bound, for transitions.
 
 3. **A deadline can take the architectural remedy away.** In the base
    model a route through the staging architecture takes at least 2.58
@@ -101,12 +101,12 @@ across a stretch around q = 1/2.
    with or without the staging architecture: the cases the study classed
    "only through an architectural change" become "only with a temporary
    reserve" or "too expensive", and, with the crease, "reachable, but not
-   by the deadline". Readiness in TERM-115's sense follows: at deadlines
+   by the deadline". Readiness in [TERM-115](../terms.d/TERM-115.md)'s sense follows: at deadlines
    of 2 or less, admitting the staging architecture leaves it unchanged
    at every budget; at 3 or more, it shifts the readiness curve 0.3
    lower in budget.
 
-**What it bears on.** QUESTION-392 asks when an intervention creates a
+**What it bears on.** [QUESTION-392](../questions.d/QUESTION-392.md) asks when an intervention creates a
 capability rather than makes one cheaper, faster or more reliable to
 reach. In this model the answer is not a property of the intervention.
 The one intervention does each according to whether the home space is
@@ -122,7 +122,7 @@ never creates reachability.
 - **That "creates" is absolute.** Reachability is created relative to the
   home architecture. Relative to the declared space of (q, z) pairs, the
   path was always there, and admitting it lowered B* from infinity.
-  QUESTION-392's warning that the verdict turns on the declared space
+  [QUESTION-392](../questions.d/QUESTION-392.md)'s warning that the verdict turns on the declared space
   holds here exactly.
 - **Anything about real organizations, several resources, or costs that
   accumulate.**

@@ -23,10 +23,10 @@ variant_of:
 bears_on:
 - QUESTION-392
 summary: >-
-  LEAD-075 asked for A's staging experiment of QUESTION-392: states A and B
+  [LEAD-075](../leads.d/LEAD-075.md) asked for A's staging experiment of [QUESTION-392](../questions.d/QUESTION-392.md): states A and B
   with a staging state C, measuring the bottleneck budget B*(A,B) of
-  CLAIM-571, the least time T*(A,B;b) at budget b and the readiness of
-  TERM-115. It was run on CASE-198's model, a configuration q on [0, 1]
+  [CLAIM-571](../claims.d/CLAIM-571.md), the least time T*(A,B;b) at budget b and the readiness of
+  [TERM-115](../terms.d/TERM-115.md). It was run on [CASE-198](CASE-198.md)'s model, a configuration q on [0, 1]
   under a home or a staging architecture, with its numbers, over budget,
   reserve, deadline and the model's parameters; numpy, 14 pytest tests.
   With the staging architecture admitted, B* falls from 1.3 to 1.0, and
@@ -51,17 +51,17 @@ summary: >-
 
 ## What was done
 
-QUESTION-392 records A's proposed experiment: states A and B and a
-staging state C, measuring the bottleneck budget B*(A,B) of CLAIM-571,
+[QUESTION-392](../questions.d/QUESTION-392.md) records A's proposed experiment: states A and B and a
+staging state C, measuring the bottleneck budget B*(A,B) of [CLAIM-571](../claims.d/CLAIM-571.md),
 the least time T*(A,B;b) at budget b, and the readiness R^π(A→B;b,z) in
-TERM-115's sense, so as to produce cases "where B is statically feasible
+[TERM-115](../terms.d/TERM-115.md)'s sense, so as to produce cases "where B is statically feasible
 but unreachable, reachable but too expensive, reachable only through an
 architectural change, or reachable only when temporary reserve capacity is
-available." LEAD-075 asked for it to be run. It was run on a computer, in
+available." [LEAD-075](../leads.d/LEAD-075.md) asked for it to be run. It was run on a computer, in
 numpy, with 14 pytest tests (scratch/studies/lead-075/, whose README says
 how to rerun it in about three minutes).
 
-**The model.** CASE-198's, made a graph. A state is (q, z), q on a
+**The model.** [CASE-198](CASE-198.md)'s, made a graph. A state is (q, z), q on a
 grid of 201 points on [0, 1] and z the home architecture or the staging one;
 A = (0, home), B = (1, home), and the staging state C is any (q, staging).
 One capacity. Holding costs r0(q) = 0.7 + 2.4q(1 − q) under home and
@@ -91,15 +91,15 @@ but unreachable (no path, both ends holdable). Under a deadline, c_τ
 replaces B*, and "reachable, but not by the deadline" is its own kind.
 
 The choices the lead left open, each with its reason, are in the README:
-C read as a staging architecture, as CASE-198 reads it; the
-disconnection made by a crease constraint, CLAIM-568's geometric kind;
+C read as a staging architecture, as [CASE-198](CASE-198.md) reads it; the
+disconnection made by a crease constraint, [CLAIM-568](../claims.d/CLAIM-568.md)'s geometric kind;
 time depending only on the route, not on headroom; z in R^π read as the
 repertoire of architectures the policy may use.
 
 ## Results
 
-**Bottleneck budgets.** B*(home) = 1.3 (CASE-233), B*(staging
-admitted) = 1.0 (CASE-198), both reproduced. With the crease constraint,
+**Bottleneck budgets.** B*(home) = 1.3 ([CASE-233](CASE-233.md)), B*(staging
+admitted) = 1.0 ([CASE-198](CASE-198.md)), both reproduced. With the crease constraint,
 B*(home) is infinite and B*(staging admitted) is 1.0. With switching only
 on q ≤ 0.4 and the crease, both are infinite. With the dearer staging
 architecture, 1.3 and 1.2.
@@ -163,14 +163,14 @@ or T*; it changes only whether the capacity meets them.
 
 - **That A's four kinds are all realized**, with two compound kinds
   beside them, in one small model, so none of them is empty
-  (LEAD-075's "what would count"). What separates them is two thresholds
+  ([LEAD-075](../leads.d/LEAD-075.md)'s "what would count"). What separates them is two thresholds
   per repertoire set against the budget and the budget plus the reserve.
 - **That the same intervention is capability-creating in one setting and
   cost-lowering in another.** Admitting the staging architecture creates
   reachability where the home space is disconnected and lowers the
   bottleneck where it is connected. Whether it creates a capability is
   read off the home architecture, not off the intervention
-  (CLAIM-tmpmvt0a).
+  ([CLAIM-tmpmvt0a](../claims.d/CLAIM-tmpmvt0a.md)).
 - **That the kind of a case depends on the contingency's deadline.** The
   architectural remedy saves capacity and costs time, so a tight deadline
   turns "only through the architectural change" into "only with the
@@ -188,4 +188,4 @@ or T*; it changes only whether the capacity meets them.
   start.
 - **Policies that are not the best for their repertoire.** Readiness was
   computed only for the policy that takes the fastest admissible route;
-  TERM-115 is about the policy actually followed.
+  [TERM-115](../terms.d/TERM-115.md) is about the policy actually followed.
