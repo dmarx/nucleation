@@ -24,7 +24,28 @@ is cited, not refiled.
 
 ## Done
 
+- sim.py, test_sim.py (12 pass), README.md; grid run (80 configurations,
+  2,000 runs each, under 10 s): results.jsonl, results.txt.
+
+## Choices made
+
+See README "Choices left open". Key: quarter periods; m = max(0, B - h);
+commitment ramp 0.4..0.8; rarity swept at fixed eta*lam = 0.52; two
+decoupled controls (full-use money, and the coupled rule's realized mean).
+
+## Results in brief (B̄ = 1.2, k_base 0.25 < k_lo 0.4)
+
+- coupled: absorbed in 100 % of runs at lam <= 0.1/quarter (median quarter
+  19-25), 93 % at 0.25, 39 % at 1, 0.7 % at 4 (W = 1); W = 4 slightly less.
+- decoupled_full: never; k = 0.9, met 0.90 at every lam.
+- coupled_nocov: no absorption, but mean k 0.53-0.89, lower when rarer
+  (lumpy budgets wasted at the cap).
+- decoupled_equal: the coupled run's money, spread evenly, does not save it
+  where that money sustains k < k_lo.
+- B̄ = 1.35: no absorption, but at lam = 0.05 coupled holds k ~0.48 and
+  meets 25 % against mean-field fixed point 1.0.
+
 ## Next
 
-- Write sim.py and test_sim.py; run; write README and results.
-- File CASE, CLAIM (if warranted), notes, changelog fragment.
+- File CASE (executed-study), CLAIM, notes on QUESTION-386, CLAIM-577,
+  LEAD-036; changelog fragment.

@@ -180,17 +180,21 @@ def simulate(p: Params, rule: str, seed: int, B_fixed: float | None = None,
     return out
 
 
-def summarize(p: Params, res) -> dict:
+def summarize(p: Params, res, rule: str = "coupled") -> dict:
     k_path, B_path = res["k_path"], res["B_path"]
     kT = k_path[-1]
     below = k_path < p.k_lo
-    # absorbed: below k_lo at the end, and k_base < k_lo, so it cannot return
-    absorbed = (kT < p.k_lo) & (p.k_base < p.k_lo)
+    # absorbed ("lost"): only the coupled rule with coverage feedback has an
+    # absorbing state, reached once k < k_lo when k_base < k_lo (never
+    # committed again, budget Bbar for good). Other rules report only
+    # below_lo_end.
+    absorbing = rule == "coupled" and p.k_base < p.k_lo
+    absorbed = (kT < p.k_lo) & absorbing
     first_below = np.where(below.any(axis=0), below.argmax(axis=0), -1)
     fb = first_below[absorbed]
     tot_occ = res["occ"].sum(); tot_late = res["occ_late"].sum()
     return {
-        "lost": float(absorbed.mean()),
+        "lost": float(absorbed.mean()) if absorbing else None,
         "below_lo_end": float((kT < p.k_lo).mean()),
         "lost_quarter_q": [float(x) for x in np.percentile(fb, [25, 50, 75])] if fb.size else None,
         "k_end_mean": float(kT.mean()),
@@ -235,7 +239,7 @@ def run_grid(path: str, base: Params = Params()):
                 if rule == "decoupled_equal":
                     B_fixed = done[key_of({**d, "rule": "coupled"})]["B_mean"]
                 res = simulate(p, rule, SEED, B_fixed=B_fixed)
-                d.update(summarize(p, res))
+                d.update(summarize(p, res, rule))
                 d["params"] = asdict(p)
                 d["fixed_points"] = fixed_points(p) if rule == "coupled" else None
                 f.write(json.dumps(d) + "\n"); f.flush()
@@ -251,7 +255,7 @@ def table(done: dict) -> str:
                      f"(coupled) {fixed_points(p)}; without coverage feedback "
                      f"{fixed_points(p, coverage=False)}")
     lines.append("")
-    hdr = (f"{'lam':>5} {'W':>2} {'Bbar':>5} {'rule':<16} {'lost':>6} {'lostQ(25,50,75)':>20} "
+    hdr = (f"{'lam':>5} {'W':>2} {'Bbar':>5} {'rule':<16} {'lost':>6} {'below':>6} {'lostQ(25,50,75)':>16} "
            f"{'k_end':>6} {'met':>6} {'met2':>6} {'commit':>6} {'B_mean':>6}")
     lines.append(hdr)
     for Bbar, W, lam in itertools.product(BBARS, WS, LAMS):
@@ -259,8 +263,9 @@ def table(done: dict) -> str:
             d = done[key_of({"lam": lam, "W": W, "Bbar": Bbar, "rule": rule})]
             lq = d["lost_quarter_q"]
             lqs = ",".join(f"{x:.0f}" for x in lq) if lq else ""
+            lost = "-" if d["lost"] is None else f"{d['lost']:.3f}"
             lines.append(
-                f"{lam:>5} {W:>2} {Bbar:>5} {rule:<16} {d['lost']:>6.3f} {lqs:>20} "
+                f"{lam:>5} {W:>2} {Bbar:>5} {rule:<16} {lost:>6} {d['below_lo_end']:>6.3f} {lqs:>16} "
                 f"{d['k_end_mean']:>6.3f} {d['met_share']:>6.3f} {d['met_share_late']:>6.3f} "
                 f"{d['committed_share']:>6.3f} {d['B_mean']:>6.3f}")
         lines.append("")
