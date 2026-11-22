@@ -406,3 +406,24 @@ kept and its edge is pruned. Three results bear on this claim.
   direction, and it clears the price only at windows of up to four steps.
 
 The claim is unchanged.
+
+## Note of 2026-11-22: locality does not hand the block its target off a lattice
+
+[LEAD-137](../leads.d/LEAD-137.md) ran [QUESTION-065](../questions.d/QUESTION-065.md)'s comparison in a non-lattice coupled-agent
+system ([CASE-tmpoeu1o](../cases.d/CASE-tmpoeu1o.md), [CLAIM-tmpzdcl1](CLAIM-tmpzdcl1.md)): a linear Gaussian VAR(1) on
+communities laid on a path, random within. The variable a region keeps as
+most informative about its far environment across a buffer (the top
+canonical-correlation direction) and this claim's gap-isolated block (the
+leading mode of the region's own dynamics, point 3's projector) coincide on a
+lattice-like homogeneous boundary (overlap 0.99, the result [QUESTION-065](../questions.d/QUESTION-065.md)
+starts from) but generically diverge off it (overlap mean 0.74, down to 0.19;
+symmetric coupling mean 0.53). The informative variable is a boundary mode,
+concentrated on the few nodes bridging to the environment; the block is the
+collective mode spread over the region. They agree only under a homogeneous
+boundary or one-way drive. Strong modularity does not help: the region clears
+this claim's block test by two to three orders of magnitude throughout, and
+its mode is still not the informative variable. So locality does not on its
+own supply the block criterion's target; the lattice match is a property of
+the lattice's homogeneous boundary. This bounds the claim without objecting to
+it: the block test still names the block it is defined to name. No change of
+status or title.

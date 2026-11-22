@@ -39,9 +39,14 @@ QUESTION-065's lattice result; divergence in a local system bounds CLAIM-157.
   Mechanism: u_info is a border mode (0.89 mass on 24% border nodes); u_block
   is the spread collective mode.
 
-## Next
-- File CASE (executed-study, documented), CLAIM (Proposed thesis), dated notes
-  on CLAIM-157, QUESTION-065, LEAD-137, changelog fragment.
+## Filed (done)
+- CASE-tmpoeu1o (executed-study, documented): the study.
+- CLAIM-tmpzdcl1 (Proposed, thesis, demonstrated): the finding; answers
+  QUESTION-065, complements CLAIM-157, grounds CASE-tmpoeu1o.
+- Dated notes on CLAIM-157, QUESTION-065, LEAD-137 (no status/title/stage
+  changes).
+- Changelog fragment record/changelog.d/lead-137.md.
+- All work committed and pushed. Report delivered.
 
 ## Choices made
 - Model: linear Gaussian VAR(1) on a modular graph (communities on a path,
