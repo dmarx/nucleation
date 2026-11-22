@@ -117,8 +117,8 @@ if logZ:
             ca, cb = cnt.sum(0)[:, labels.index(a)], cnt.sum(0)[:, labels.index(b)]
             for r in range(len(lad)):
                 if ca[r] >= 50 and cb[r] >= 50:
-                    ti = np.interp(np.log(lad[r]), np.log(ladR), logZ[b] - logZ[a])
-                    val.append((f"{a}->{b}", round(float(lad[r]), 1), round(float(np.log(cb[r] / ca[r])), 3), round(float(ti), 3)))
+                    tiv = np.interp(np.log(lad[r]), np.log(ladR), logZ[b] - logZ[a])
+                    val.append((f"{a}->{b}", round(float(lad[r]), 1), round(float(np.log(cb[r] / ca[r])), 3), round(float(tiv), 3)))
     out["ti_vs_pt"] = val
     if val:
         d = np.array([v[2] - v[3] for v in val])
