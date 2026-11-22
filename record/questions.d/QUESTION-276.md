@@ -230,3 +230,23 @@ Körding et al. (2007), [LIT-2010](../literature.d/LIT-2010.md), read in [NOTE-1
 ## Note of 2026-11-04: Collins, Cavanagh and Frank, "Human EEG Uncovers Latent Generalizable Rule Structure", read
 
 [LIT-2007](../literature.d/LIT-2007.md), read in [NOTE-1550](../notes.d/NOTE-1550.md), qualifies this question. It corroborates a latent structure, the task-set organization each participant built incidentally, through several observables at once: behavioural transfer, lateral-prefrontal switch potentials stratified by the structure, and a classifier trained on a separate task, two of which covary with later generalization. It also shows the limit. The latent assignment itself comes from a behavioural switch-cost proxy, the indices agree with each other only marginally (ρ = 0.33, p = 0.068), and the sample is Collins and Frank's (2013) Experiment 2, so the corroboration is within one dataset. It leaves open whether observables that are independent in this sense can tell a constructed structure from a common cause. No status changes.
+
+## Note of 2026-11-22: the feature prior against a matched shared-driver null, run
+
+<!-- inactive-ok-block: CASE-tmpshw39 CLAIM-tmpp56wv — new; this date's study and its finding -->
+[LEAD-144](../leads.d/LEAD-144.md) ran conditions (ii) and (iii) in one linear family
+([CASE-tmpshw39](../cases.d/CASE-tmpshw39.md)), with the communication relations and without the
+authorization ones. With a shared driver tuned to give the same
+within-group correlation as members' coupling, the feature allocation
+under [CASE-165](../cases.d/CASE-165.md)'s prior found the groups under both, more readily under
+the driver, and did not add to the communication graph in predicting
+held-out cuts and pulses. It also found a difficulty the question does not
+state: the "equally flexible model given the communication and
+authorization relations and no modes" is itself confounded by a persistent
+driver, and invents coupling where there is none (a predicted cut effect
+of −0.18 where the truth is 0). Adding the features left that error;
+observing the driver removed it. So beating the relational baseline is not
+sufficient for (iii) where a common cause may be present
+([CLAIM-tmpp56wv](../claims.d/CLAIM-tmpp56wv.md), Proposed). It is a negative answer for this family
+only; a joint state-space fit, nonlinear coupling and team records remain.
+No status changes.

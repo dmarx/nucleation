@@ -12,16 +12,17 @@
 ## Done
 
 - Read lead, QUESTION-276, CASE-165, CASE-166 (opening).
-- study.py (simulator, Gibbs sampler for CASE-165's finite beta-Bernoulli
-  model, relational VAR, factor-augmented VAR, oracle, interventional arm),
-  test_study.py (4 tests pass), README.md.
-- Core run launched: `python3 -I study.py results.jsonl 8` (resumable).
+- study.py, test_study.py (4 tests pass), summarize.py, README.md.
+- Core run: seeds 0-7 x {coupled, driver, mixed}; seed 5 dropped (coupled
+  world not stationary). results.jsonl, summary.txt.
+- Filed CASE-tmpshw39 (executed-study), CLAIM-tmpp56wv (Proposed, thesis,
+  empirical), dated notes on CASE-165, QUESTION-276, LEAD-144 (plus
+  operationalized_in), changelog fragment lead-144.md.
 
 ## Next
 
-- summarize.py; commit results.
-- File CASE (executed-study), CLAIM if warranted, notes on CASE-165,
-  QUESTION-276, LEAD-144; changelog fragment.
+- Report. (Optional further arm, not run: joint state-space fit of features
+  as latent persistent drivers beside the graph.)
 
 ## Choices
 
@@ -34,5 +35,6 @@
 - The feature model alone has no intervention semantics; two readings are
   run as alternatives: 'exo' (features cause members) and 'con' (features
   are realized by holders). The owner's to choose between, if either.
-- FR as a factor-augmented VAR after an alternating fit gave the same
-  result in trial; FAVAR kept.
+- FR as a factor-augmented VAR; an alternating fit gave the same result in
+  trial.
+- Seed 5 dropped by a stationarity rule, applied in summarize.py.
