@@ -150,7 +150,7 @@ In the pilot [CASE-335](../cases.d/CASE-335.md), 7 of the 10 most recent CSB inv
 No status changes.
 
 ## Note of 2026-11-22: the Tempe prosecution, read: the blame-based process on the same failure stopped at the operator
-<!-- inactive-ok-file: THEORY-tmpfdyu6 CLAIM-tmp20uni CLAIM-tmp64hmn ARG-tmpql8m1 — new; filed for LEAD-189 on 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpfdyu6 CLAIM-tmp20uni CLAIM-tmp64hmn ARG-tmpql8m1 — new; filed by the lead run on 2026-11-22 -->
 
 Read for LEAD-189 on 2026-11-22: the AP's report of the plea, with NPR's reports of the declination and the charge (THEORY-tmpfdyu6; NOTE-tmpeb1f9, NOTE-tmphxo80, NOTE-tmpi1l0m). The theory now `corroborates` this claim. This claim's "What it does not say" had left "prosecution and press" unread.
 

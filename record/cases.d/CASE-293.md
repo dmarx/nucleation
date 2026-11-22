@@ -99,6 +99,6 @@ A pilot of this design is [CASE-335](CASE-335.md) ([LEAD-119](../leads.d/LEAD-11
 No status changes.
 
 ## Note of 2026-11-22: an objection to the study's unit
-<!-- inactive-ok-file: CLAIM-tmpauu5r THEORY-tmpm653d CASE-tmptkkgm CLAIM-750 — new or Proposed; filed for LEAD-189 on 2026-11-22, and the claim the study would test -->
+<!-- inactive-ok-file: CLAIM-tmpauu5r THEORY-tmpm653d CASE-tmptkkgm CLAIM-750 — new or Proposed; filed by the lead run on 2026-11-22, and the claim the study would test -->
 
 CLAIM-tmpauu5r, filed from Google's SRE workbook (THEORY-tmpm653d), objects that a single postmortem is the wrong unit for CLAIM-750's prediction: the workbook routes questions about priorities set above the team to reviews of repeated incidents and to a process review with "organizational leaders". A design that codes postmortems one by one would miss upstream provenance kept there. A variant that samples cross-incident reviews, or follows a postmortem's named but unactioned conditions (as in CASE-tmptkkgm) into later reviews, would meet it. No status changes.

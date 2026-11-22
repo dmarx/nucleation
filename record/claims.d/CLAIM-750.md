@@ -147,7 +147,7 @@ The first coded corpus bearing on this claim's prediction is [CASE-335](../cases
 No status changes.
 
 ## Note of 2026-11-22: the SRE workbook read: the mechanism corroborated, an exemplar that fits, and an objection to the unit
-<!-- inactive-ok-file: THEORY-tmpm653d THEORY-tmp9j928 CASE-tmptkkgm ARG-tmp117cw CLAIM-tmpauu5r — new; filed for LEAD-189 on 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpm653d THEORY-tmp9j928 CASE-tmptkkgm ARG-tmp117cw CLAIM-tmpauu5r — new; filed by the lead run on 2026-11-22 -->
 
 Read for LEAD-189 on 2026-11-22: Google's SRE workbook chapter on postmortem culture (THEORY-tmpm653d, NOTE-tmpf58r7), which now `corroborates` this claim, and the SRE book's example postmortem (THEORY-tmp9j928, NOTE-tmpdiani).
 

@@ -460,6 +460,6 @@ position rather than by contribution; they run in opposite directions,
 credit to the top and blame to the bottom. No edge.
 
 ## Note of 2026-11-22: the Tempe prosecution, read
-<!-- inactive-ok-file: CLAIM-tmp20uni CLAIM-tmp64hmn THEORY-tmpfdyu6 CASE-292 — new or Proposed; filed for LEAD-189 on 2026-11-22, and the case whose gap it fills -->
+<!-- inactive-ok-file: CLAIM-tmp20uni CLAIM-tmp64hmn THEORY-tmpfdyu6 CASE-292 — new or Proposed; filed by the lead run on 2026-11-22, and the case whose gap it fills -->
 
 CASE-292 left open whether blame landed on the Tempe operator. In the criminal law it did: she alone was charged and convicted, and prosecutors found "no basis for criminal liability for the Uber corporation" (THEORY-tmpfdyu6). CLAIM-tmp20uni, filed for LEAD-189, `corroborates` this claim: control over the conditions of action lay with the company (CASE-292), and the criminal law's blame lay where the failure became visible. The operator's own fault, which the NTSB found and this claim allows, does not change that. A civil settlement and the state's suspension of Uber's testing reached the company by other routes (CLAIM-tmp64hmn). No status changes.

@@ -137,7 +137,7 @@ So the case shows, for [QUESTION-476](../questions.d/QUESTION-476.md), a no-blam
 No status changes.
 
 ## Note of 2026-11-22: the prosecution, read
-<!-- inactive-ok-file: THEORY-tmpfdyu6 CLAIM-tmp20uni CLAIM-tmp64hmn — new; filed for LEAD-189 on 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpfdyu6 CLAIM-tmp20uni CLAIM-tmp64hmn — new; filed by the lead run on 2026-11-22 -->
 
 This case's "What it cannot show" left "prosecution and the press" unread. The prosecution is now read (THEORY-tmpfdyu6; NOTE-tmpeb1f9, NOTE-tmphxo80, NOTE-tmpi1l0m). The Yavapai County Attorney, acting for Maricopa County "due to a potential conflict of interest", found "no basis for criminal liability for the Uber corporation" (March 2019). The operator was charged with negligent homicide (September 2020) and on 28 July 2023 pleaded guilty to endangerment, an undesignated felony, and was sentenced to three years of supervised probation. In court her defence argued that "Uber should share some blame"; the prosecutor, that she "had one job and one job only". The family settled with Uber shortly after the crash, and the governor prohibited Uber from continuing its tests in Arizona.
 
