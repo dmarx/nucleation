@@ -3,6 +3,10 @@ ends in, or ever reaches, the 6-gon, by n, batch size and learning rate.
 Usage: python3 -I analyze_sgd.py results/sgd_*.jsonl"""
 import json, sys
 from collections import Counter, defaultdict
+import os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import numpy as np
+import tms
 
 rows = []
 for p in sys.argv[1:]:
@@ -47,5 +51,21 @@ for ep in sorted({d['epochs'] for d in rows}):
     print("\nby init and lr, pooled over n and B (non-6 inits):")
     for k, ds in sorted(summary([d for d in R if d["init"] != "6gon"], ["init", "lr"]).items()):
         print(k, f"{sum(is6(d['final']) for d in ds)}/{len(ds)}")
+    # frozen features: columns whose population gradient (W_i, b_i) is exactly
+    # zero, i.e. every per-sample gradient vanishes (a dead ReLU feature)
+    fro = Counter(); n_end = Counter()
+    for d in R:
+        if not d["alive"] or is6(d["final"]):
+            continue
+        W = np.array(d["W"]); b = np.array(d["b"])
+        _, gW, gb = tms.pop_loss(W, b, grad=True)
+        k, s, m = tms.classify(W[None], b[None])
+        z = int(((np.abs(gW).max(0) == 0) & (gb == 0)).sum())
+        # output silenced: z_i = mu W_k.W_i + b_i <= 0 for every input k and mu in [0, 1]
+        G = W.T @ W
+        sil = int((np.maximum(G.max(0), 0) + b <= 0).sum())
+        fro[(d["final"], z, sil)] += 1; n_end[d["final"]] += 1
+    print("\nnon-6 finals: (label, columns frozen outright, outputs silenced): runs")
+    print(dict(sorted(fro.items())))
     dv = [d for d in R if not d["alive"]]
     print("\ndiverged:", len(dv), dict(Counter((d["lr"], d["batch"]) for d in dv)))
