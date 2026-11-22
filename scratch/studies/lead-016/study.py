@@ -101,9 +101,10 @@ def track(cfg, st, beta, i, T, rng, ctx_p=None):
     return traj
 
 
-def growth(traj, eps):
-    """Initial recovery exponent per R-sample, time to share 0.5, final share."""
-    n = np.array([t[0] for t in traj], float)
+def growth(traj, eps, n0=0.0):
+    """Initial recovery exponent per R-sample, time to share 0.5, final share.
+    R-sample counts are taken from n0, the count when the window opened."""
+    n = np.array([t[0] for t in traj], float) - n0
     s = np.array([t[1] for t in traj], float)
     x = np.concatenate([[0.0], n])
     ly = np.log(np.concatenate([[eps], np.maximum(s, 1e-300)]))
@@ -121,7 +122,10 @@ def arm_rare(cfg, d, seed, i, eps, freeze, sham=False):
     beta, st = restore(cfg, d, seed)
     rng = np.random.default_rng(10_000 + seed)
     if sham:
-        st.theta[i] = rng.standard_normal(cfg.d) * cfg.init_scale / np.sqrt(cfg.d)
+        # an operator as incompetent in R as the residents: a copy of the
+        # specialist of context 0
+        j = int(np.argmax(shares(cfg, st)[0]))
+        st.theta[i] = st.theta[j].copy()
     st.Z[R, i] = logit_for_share(st.Z[R], st.b, st.alive, i, eps)
     st.frozen[i] = freeze
     u0 = float(usage(cfg, shares(cfg, st))[i])
@@ -146,7 +150,7 @@ def arm_remove(cfg, d, seed, i):
             "final": snapshot_metrics(cfg, st, beta)}
 
 
-def arm_suppress(cfg, d, seed, i, coupled, eps=1e-3):
+def arm_suppress(cfg, d, seed, i, coupled, eps=1e-3, freeze_release=False):
     """Clamp i's share in R at eps for TS steps, then release with no further
     intervention. Decoupled: i's exposure in R stays at its pre-suppression
     value throughout suppression (QUESTION-134's control)."""
@@ -168,8 +172,10 @@ def arm_suppress(cfg, d, seed, i, coupled, eps=1e-3):
     st.clamp[R, i] = np.nan
     st.dec[R, i] = np.nan
     st.Z[R, i] = logit_for_share(st.Z[R], st.b, st.alive, i, eps)
+    st.frozen[i] = freeze_release
+    n_rel = float(st.n_ctx[R])
     traj_r = track(cfg, st, beta, i, TREC, rng)
-    g = growth(traj_r, eps)
+    g = growth(traj_r, eps, n_rel)
     g.update({"own_risk_R_before": risk_before, "own_risk_R_at_release": risk_mid,
               "own_risk_R_final": float(own_risk(cfg, st, beta)[i, R]),
               "access_during": access, "holder_at_release": holder_mid,
@@ -190,6 +196,8 @@ ARMS = [
     ("suppress_decoupled_wd0", lambda c, d, s, i: arm_suppress(c, d, s, i, False)),
     ("suppress_coupled_wd", lambda c, d, s, i: arm_suppress(c, d, s, i, True), WD),
     ("suppress_decoupled_wd", lambda c, d, s, i: arm_suppress(c, d, s, i, False), WD),
+    ("suppress_coupled_wd_frozen",
+     lambda c, d, s, i: arm_suppress(c, d, s, i, True, freeze_release=True), WD),
 ]
 
 

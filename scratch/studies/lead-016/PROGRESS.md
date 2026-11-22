@@ -42,7 +42,16 @@ entries LEAD-016 advances, on CASE-117 and on LEAD-016.
   distinct specialist for the rare context, ~4-5 s per run.
 - study.py written (resumable JSONL per rule).
 
+- Smoke test (1 seed) passed; fixed the R-sample offset in the release
+  window, and made the sham an operator as incompetent in R as the
+  residents (a copy of context 0's specialist); added a frozen-at-release
+  suppression arm.
+- Main run launched 2026-11-22: 12 seeds x {moe, moe_aux, moe_bias, rep}
+  (+ uniform), four processes, estimate 20 min, limit 60 min. Results
+  append to results/runs_<rule>.jsonl; rerun `python3 -I study.py RULE 12`
+  resumes.
+
 ## Next
 
-- Smoke test study.py, then run 12 seeds x 4 rules (+ uniform) in background.
+- When the run finishes: analyze.py, README.
 - analyze.py, README, then filing.
