@@ -27,8 +27,14 @@ def late(traj, decades=1.0):
     return [r for r, k in zip(traj, keep) if k]
 
 
+def measurable(traj):
+    """Rows where omega is within double precision. Runs stop at the first
+    mark past it, and that row (sometimes omega ~ 1e150) is dropped."""
+    return [r for r in traj if r["L_LS"] >= 1e-10 and r["sw_cond"] >= 1e-12]
+
+
 def summarize(row):
-    traj = row["traj"]
+    traj = measurable(row["traj"])
     N = row["N"]
     w = late(traj)
     t = np.array([r["t"] for r in w])
@@ -49,7 +55,7 @@ def summarize(row):
     out = {
         "id": row["id"], "model": row["model"], "seed": row["seed"],
         "steps": end["step"], "t_end": end["t"],
-        "stopped_early": end["step"] < row["cfg"]["steps"],
+        "stopped_early": row["traj"][-1]["step"] < row["cfg"]["steps"],
         "window_t": [float(t[0]), float(t[-1])],
         "loglog_slopes": slopes,
         "exp_rates": exp_rate,
