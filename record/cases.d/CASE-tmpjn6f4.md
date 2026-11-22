@@ -131,7 +131,13 @@ spread apart or stall while L⊥_LS stays negligible". With weight decay,
 the setting of Han and colleagues' experiments, ω does not follow the
 law: in the plain network it settles at finite, unequal values, as a loss
 with a finite minimum would have it, and in the batch-normalized one it
-falls back in a late instability. The closed form describes the renormalized
+falls back in a late instability.
+
+The finding is filed as [CLAIM-tmpcpr7t](../claims.d/CLAIM-tmpcpr7t.md). Mixon, Parshall and Pi
+([LIT-tmpxyq0h](../literature.d/LIT-tmpxyq0h.md)), registered by the same lead and not read, analyse
+unrenormalized squared-error gradient flow on unconstrained features near
+zero initialization; reading it would say whether the exponential growth
+seen here is known there. The closed form describes the renormalized
 flow and, in these models, not gradient descent.
 
 ## Limits
