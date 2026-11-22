@@ -161,3 +161,29 @@ with 988 adults.
   against 0.097, in the supplement's two-mediator model).
 - **The question's test is still untried.** No condition varies whether
   anyone will know what one did.
+
+## Note of 2026-11-22: the test searched for, and designed
+<!-- inactive-ok-file: LIT-tmpmox49 LIT-tmpa7f10 LIT-tmpre45d CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+
+LEAD-062 searched Europe PMC and arXiv for the test this question names.
+
+- **No study separates continuity with future people from caring.**
+- **Nearest, read** (Simić et al., LIT-tmpmox49). A group's expected
+  sameness fifty years on, measured with future-self-continuity items,
+  lowered fear for the group's future and, among the attached only,
+  hostility to outsiders. It is a parallel, a temporal extent of a
+  collective self, and says nothing of legacy or future people.
+- **On the bridge from prudence to legacy, unread.** Law et al. 2023
+  (LIT-tmpa7f10) report, by the abstract, that future-self continuity goes
+  with responsibility for and identification with future generations,
+  across ten studies. Their one-year panel (LIT-tmpre45d) reports that
+  concern for future generations predicted later self-continuity and not
+  the reverse. If that holds, continuity with one's own future self does
+  not lead to concern for future people, and Hershfield's guess (NOTE-1259)
+  that the future self continues in one's offspring gets no support from
+  the ordering. Both are unverified until read.
+- **The anonymity arm, designed** (CASE-tmp413kq). A legacy prime is
+  crossed with a gift to the group's members fifty years on that is
+  either recorded in the giver's name or made where no one, the
+  researchers included, will ever know who gave. It is this question's
+  "where no one will know" test. Not run.

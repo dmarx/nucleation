@@ -28,7 +28,7 @@ summary: >-
   that comes apart from caring moved attitudes only among those who
   cared.
 ---
-<!-- inactive-ok-file: LIT-tmpmox49 THEORY-tmppa01m CASE-tmp413kq — new; the work read, its reading and the design filed with it for LEAD-062 -->
+<!-- inactive-ok-file: CASE-tmp413kq — new; the design filed with this reading for LEAD-062 -->
 <!-- inactive-ok-file: CLAIM-491 — Proposed; the owner's thesis the reading bears on -->
 
 # NOTE-tmpirf1e: Our ways will not change: Future collective continuity increases present prosocial considerations

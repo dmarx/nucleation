@@ -14,20 +14,20 @@
 
 - Read advanced entries (QUESTION-299/300/301, CLAIM-492, NOTE-1280).
 - Search (Europe PMC, arXiv): see search.md. No study meets the lead.
-- Simić et al. 2025 read in full (Europe PMC fullTextXML).
-- Law et al. 2025 Sci Rep: fullTextXML HTTP 500 x3, stopped.
-
-- Filed Simić et al. 2025: LIT-tmpmox49 (Active), NOTE-tmpirf1e (Read),
-  THEORY-tmppa01m (Proposed).
-- Scaffolded (empty, uncommitted until filled): LIT-tmporf0r (Law 2025),
-  LIT-tmpa7f10 (Law 2023), LIT-tmpre45d (Law 2026), CASE-tmp413kq (design).
+- Simić et al. 2025 read in full (Europe PMC fullTextXML): LIT-tmpmox49
+  (Active), NOTE-tmpirf1e (Read), THEORY-tmppa01m (Proposed).
+- Law et al. 2025 Sci Rep: fullTextXML HTTP 500 x3, stopped:
+  LIT-tmporf0r (Unfetched). Law et al. 2023: LIT-tmpa7f10 (Unfetched, OSF
+  outside routes). Law et al. 2026: LIT-tmpre45d (Deferred).
+- Design: CASE-tmp413kq (proposed-study, stipulated); LEAD-062
+  `operationalized_in` it.
+- Dated notes: LEAD-062, CLAIM-492, QUESTION-299, QUESTION-300,
+  QUESTION-301, NOTE-1280.
+- Changelog fragment record/changelog.d/lead-062.md.
 
 ## Next
 
-- Register Law et al. 2025 (Unfetched), 2023 (Unfetched), 2026 (Deferred).
-- File the design CASE (proposed-study); set LEAD-062 operationalized_in.
-- Dated notes: CLAIM-492, QUESTION-299/300/301, NOTE-1280, LEAD-062.
-- Changelog fragment.
+- Nothing on this branch. Report to the lead; the lead opens the PR.
 
 ## Choices
 
@@ -40,4 +40,9 @@
   study design).
 - Chan (2010) is cited only as Spears and Postmes report it (NOTE-1280);
   the brief confines services to Europe PMC and arXiv, so it is not
-  verified against Crossref.
+  verified against Crossref and gets no LIT.
+- Simić et al.'s bearing on CLAIM-492 gets a dated note and no edge: it
+  neither corroborates nor bounds the claim. The THEORY bears on no
+  question for the same reason.
+- Author names on the three Law LITs are given as Europe PMC gives them,
+  initials only.

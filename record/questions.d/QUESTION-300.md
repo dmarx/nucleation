@@ -80,3 +80,13 @@ mentioned:
   action when that criterion shows no extension of the self to the other.
 - **For a no:** evidence that every such motivation disappears when the
   extension is controlled.
+
+## Note of 2026-11-22: a design that could give a yes or a no
+<!-- inactive-ok-file: CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+
+CASE-tmp413kq, filed by LEAD-062, measures the criteria this question
+names as candidates (self-definition, cognitive inclusion, salience by
+instruction) apart from concern for a group's welfare, and gives money to
+the group as the outcome. Gifts that follow concern where the criteria
+show no inclusion would be the evidence named here "for a yes"; gifts
+that vanish once the criteria are held fixed, "for a no". Not run.
