@@ -1,0 +1,111 @@
+---
+status: Read
+paper: LIT-2245
+title: 'Ko — Common noise-induced group-level synchronization between uncoupled groups of oscillators'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 for LEAD-023 from the arXiv copy (2605.29529v1,
+    22 pages), the body in full and Appendix A; Appendices B (type I
+    response curve) and C (system size) skimmed through their figures'
+    captions. Quotations checked by script against the downloaded text.
+date: '2026-11-22'
+summary: >-
+  Two groups of phase oscillators, with no coupling between them, each
+  receiving a common noise plus independent local noise: when the two
+  groups share the same common noise their complex order parameters
+  synchronize from any initial state, identical or not, coupled within or
+  not, down to an intra-group noise correlation of about 0.1. Proved for
+  uncoupled groups in the large-N limit by an overlap argument on phase
+  densities; numerical only with intra-group coupling, which can hinder it.
+---
+
+# NOTE-tmpw116e: Ko — Common noise-induced group-level synchronization between uncoupled groups of oscillators
+
+## Contribution
+
+Noise-induced synchronization lifted from single oscillators to groups.
+Two statistically equivalent groups (the same distribution of natural
+frequencies) that are not coupled to each other synchronize their
+collective oscillations, the complex Kuramoto order parameters Z₁ and Z₂,
+when both receive the same common noise, even though within each group
+the local noise keeps the degree of synchrony R fluctuating widely and
+far from 1.
+
+## Key results
+
+1. **The result (abstract).** "the complex order parameters representing
+   the collective oscillations of the groups synchronize when the groups
+   are driven by the same common noise."
+2. **Robust to weak shared drive (§III.B, Fig. 2e–f).** For uncoupled
+   identical oscillators the two groups stay synchronized at the group
+   level "persisting down to cin ≈ 0.1", where cin is the correlation
+   among the noise inputs within a group. With larger frequency spread
+   (σω = 0.1) the range shrinks to cin ≳ 0.3 (§III.C, Fig. 3h).
+3. **Coupling within a group can hinder it (§III.D–E).** "Larger
+   coupling strength helps intra-group synchronization and reduces its
+   fluctuations but can hinder group-level synchronization." Stronger
+   noise restores it.
+4. **The within-group order parameter fluctuates (§III.B).** For
+   intermediate cin the standard deviation of R is comparable to its mean:
+   "the fluctuations in the degree of synchronization are as large as the
+   mean degree of synchronization itself".
+5. **Analysis (§IV).** A discrete-time map for the phase density, from
+   the Euler–Maruyama step, reproduces the simulations. Equal densities
+   are invariant under a shared common noise: "First, we confirm that
+   group-level synchronization represents an invariant state of the
+   system. Note that this does not mean the state is stable." For
+   uncoupled groups the overlap of the two densities, min(f₁, f₂), never
+   decreases and grows to 1, which gives convergence for N → ∞.
+6. **The coupled case is open (§IV).** "Analytically explaining this
+   group-level synchronization in the presence of intragroup coupling
+   remains an open challenge for future research."
+7. **Conclusion (§V).** "when statistically equivalent groups share the
+   same common noise, their collective oscillations become synchronized
+   across the groups in the absence of inter-group coupling, regardless of
+   their initial states."
+
+## Assumptions
+
+Phase-reduced oscillators under weak additive white noise (Itô SDE with
+the noise-induced drift term), sinusoidal coupling all-to-all within a
+group, no coupling between groups, a type II (or, in Appendix B, type I)
+phase response curve. The two groups receive exactly the same common
+component (dξ₁c = dξ₂c) and have the same frequency distribution. N = 1000
+in simulation; the proof takes N → ∞.
+
+## Concepts
+
+Common and local noise; group-level synchronization (synchrony of the
+complex order parameters, measured by |Z₁ − Z₂| and by a Pearson
+correlation of their real parts); phase density evolution map; overlap
+and discrepancy densities.
+
+## Bearing on the record
+
+- **QUESTION-063.** It confirms, in a model, A's citation at A12: synchrony
+  between the collective variables of two groups can be wholly exogenous,
+  with no coupling between them, and from a weak shared component. A
+  between-group correlation of order parameters is therefore no evidence
+  of coupling between the groups unless a shared drive is excluded or
+  recorded. It also gives a twist the question did not state: coupling
+  inside each group makes the drive-induced synchrony between groups
+  weaker, so stronger internal organization can lower the very
+  correlation an observer might read as coupling.
+- **CLAIM-172** (contrast). Each group's collective variable here is
+  synchronized with the other's without any entrainment between them, so
+  matching collective variables is not the claim's mark; the claim's own
+  last bullet, that direction and coupling need an intervention to read,
+  is the guard this case calls for.
+- **CASE-179.** It is the row "common drive, no reciprocal coupling" of
+  that study, at the level of groups.
+
+## Limitations
+
+A single model family; equal common noise to both groups is the key
+condition, and the paper does not ask what a partly shared or delayed
+drive does. The convergence proof covers only uncoupled groups at infinite
+N. No intervention is studied, so it says nothing about how to tell this
+case from coupling in data.

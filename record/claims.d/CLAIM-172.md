@@ -216,3 +216,8 @@ From the reading in [NOTE-1728](../notes.d/NOTE-1728.md) ([LIT-2348](../literatu
 checked by the filer: - Main's **[CLAIM-165](CLAIM-165.md)**, **CLAIM-172** and others use
 "extended self" in a different (cognitive/agential) sense: a homonym the
 filer should not conflate.
+
+## Note of 2026-11-22: Ko, read
+<!-- inactive-ok-file: THEORY-tmp8cdhs — Proposed; filed by LEAD-023 -->
+
+A contrast, from Ko (THEORY-tmp8cdhs; NOTE-tmpw116e). Two groups with no coupling between them come to have synchronized collective variables (their complex order parameters) under a shared common noise alone. Matching collective variables are therefore not this claim's mark: no member of either group shifts the other's timing. That is what the claim's last bullet already says, that mutuality has to be read by intervening on one member, not from observed co-variation. Supports that bullet; no status change.
