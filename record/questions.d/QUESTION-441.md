@@ -185,3 +185,21 @@ question). It **bears on part 2 and leaves parts 1 and 3 open**.
 The mechanism is avowedly untested ("not yet directly tested empirically",
 p. 9), and held evidence ([THEORY-1653](../theory.d/THEORY-1653.md)) cuts against its motivating link to
 affective polarization. The question stays open.
+
+## Note of 2026-11-22: part 1, an answer from the claimant's side, for LEAD-097
+<!-- inactive-ok-block: CLAIM-tmpq1213 CLAIM-tmpvv7fw ARG-tmpl0o7n CLAIM-723 CLAIM-876 CLAIM-877 LIT-2532 — new, Proposed or Unfetched; filed for LEAD-097, the held form of the wrong, the bearer readings, and the review not read -->
+
+CLAIM-tmpq1213, which `bears_on` this question, offers an answer to **part
+1**: the counter-normativity, where those affected have standing to contest
+the harm with the organization, is the defeat of that standing, a wrong
+directed at the conditions under which their claims can count and not at
+the interests the harm sets back. ARG-tmpl0o7n argues that it does not
+reduce to the harm's continuation, from a construction with actual and
+expected harm matched; CLAIM-tmpvv7fw is the instrumentalist objection it
+answers. It complements CLAIM-624's answer, the same wrong from the duty's
+side, and carries CLAIM-723's form of wrong from foreclosure by timing to
+foreclosure by representation. On **part 2** it adds only that reproduction
+makes the defeat the organization's, through its self-maintenance; on
+**part 3** it adds nothing (CLAIM-876 and CLAIM-877 hold the bearer
+readings). The gaslighting review proposed as a boundary test (LIT-2532)
+was not read. The question stays open.

@@ -49,7 +49,12 @@ the backlog audit and the triage.
   the new claim restates CLAIM-624 and the ARG should conclude CLAIM-614 and
   CLAIM-624. Lean: keep the new claim.
 
+- Dated notes (2026-11-22) on LEAD-097, CLAIM-614 (with a proposed
+  Reframing, not applied), CLAIM-624, QUESTION-441, LIT-2532.
+- Changelog fragment record/changelog.d/lead-097.md.
+
 ## Next
 
-- Dated notes on LEAD-097, CLAIM-614, CLAIM-624, QUESTION-441, LIT-2532.
-- Changelog fragment record/changelog.d/lead-097.md.
+- Nothing for the worker. The owner: choose whether CLAIM-tmpq1213 stands as
+  its own thesis or restates CLAIM-624; the CLAIM-614 Reframing; whether
+  CLAIM-tmpvv7fw is answered; a copy of LIT-2532. Lead stays Open.
