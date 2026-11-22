@@ -142,3 +142,40 @@ insufficient". Candidates:
 - That "fire" is non-natural meaning in Grice's full sense, which needs
   an intention to be recognized by an audience. The claim needs only
   that "fire" fails the factivity test.
+
+## Note of 2026-11-22: Millikan and the SEP survey, read
+
+<!-- inactive-ok-block: THEORY-tmpfugkf THEORY-tmpuzicj ARG-tmps4eez — Proposed; readings and the argument filed for LEAD-018 -->
+The selection-history candidate for question (b), which this claim
+called "unread here", is now read: Millikan's own statement of
+biosemantics (THEORY-tmpfugkf, read in NOTE-tmpqexrv) and the SEP survey
+of teleological theories of content (THEORY-tmpuzicj, read in
+NOTE-tmp60j0q), for LEAD-018. What they do here:
+
+- **Corroboration of (a).** Millikan, independently of Grice: "The terms
+  'true' versus 'false' ... do not apply to natural signs"
+  (NOTE-tmpqexrv, p. 9). So the steam alarm's factive content is not in
+  error, and the error needs a content of another kind. THEORY-tmpfugkf
+  now `corroborates` this claim; the support judgement is ARG-tmps4eez.
+- **A qualification of the split.** On the same account a sign has a
+  content that can be false only "by reference to function", and the
+  survey says that explaining content and explaining error "are not
+  separate tasks" (§3). So (a) is answered apart from (b) only where the
+  source is given, as CASE-243's stipulation gives it. For the
+  non-designed systems this claim leaves open, (a) is open with (b).
+  Recorded in ARG-tmps4eez; the claim's text is unchanged.
+- **(b) for selection history.** The candidate is a family that
+  disagrees with itself: content fixed by what the consumer needs
+  (Millikan) or by what the producer was selected to respond to
+  (Neander). On the frog they give "frog food" and "small, dark, moving
+  thing" (NOTE-tmp60j0q, §§3.2, 3.4), so selection history alone does not
+  say which content a non-designed alarm's error is relative to.
+- **The designed alarm.** Neither text says a designer's intention fixes
+  an artefact's content; the survey sets artefacts aside (§2). The
+  claim's answer for CASE-243 still rests on the case's stipulation.
+- **A parallel, no edge.** Millikan's magnetosome, pointed towards
+  oxygen by a bar magnet, is "not broken or malfunctioning", yet what it
+  says is false because its conditions are not Normal (NOTE-tmpqexrv,
+  pp. 7-8): the steam alarm's structure.
+
+The status is unchanged.
