@@ -72,7 +72,7 @@ A proof-relevant answer, in the sense of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpn
 ## Note of 2026-11-22: Freeman and Pfenning, read
 <!-- inactive-ok-file: THEORY-tmp1mruk ARG-tmptph3p — Proposed; filed for LEAD-tmp3xevc -->
 
-Freeman and Pfenning's refinement types (THEORY-tmp1mruk; NOTE-tmpew427) use the
+Freeman and Pfenning's refinement types ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md); [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md)) use the
 witness argument without the word: a term that has σ and τ has σ ∧ τ, and
 its value inhabits it (p. 3). They sharpen one condition. Their soundness
 theorem holds only "if e evaluates to v" (p. 7), and a term that does not
@@ -80,4 +80,4 @@ terminate can have ⊥, the empty refinement, so a witness is a realized
 value, not anything that has the type. The definition's "a realization
 exhibited" already says so. The system carries no certificate: that a
 term has a refinement is a derivation found and not kept, a witness
-without certificate in the sense above (ARG-tmptph3p). No change.
+without certificate in the sense above ([ARG-tmptph3p](../arguments.d/ARG-tmptph3p.md)). No change.

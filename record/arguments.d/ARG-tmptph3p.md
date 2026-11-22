@@ -20,8 +20,8 @@ line:
 - formal-apparatus
 - record-as-apparatus
 summary: >-
-  The route by which the reading of Freeman and Pfenning (THEORY-tmp1mruk) bears
-  on CLAIM-tmpnookt's correspondence of a descriptor with a refinement the
+  The route by which the reading of Freeman and Pfenning ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md)) bears
+  on [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence of a descriptor with a refinement the
   entry provably inhabits. It holds for refinement and for intersection,
   narrowed in three ways: the refinements are a finite lattice declared in
   advance, not arbitrary predicates; a refinement is of a type, not of one
@@ -35,18 +35,18 @@ summary: >-
 
 ## The inference
 
-Source domain, THEORY-tmp1mruk: a refinement is a subtype of an ML type,
+Source domain, [THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md): a refinement is a subtype of an ML type,
 "subtypes which one can think of as subsets" (p. 1), given only to
 programs already well-typed in ML. An annotation (e : D′) is accepted when
 the inferred D satisfies D ≤ D′ (p. 8). "An expression has type σ ∧ τ if it
 has both type σ and type τ" (p. 3), and ?e ∧ std is ?e (p. 5), while ?e
 and stdpos meet only at ⊥.
 
-Target, CLAIM-tmpnookt with CLAIM-783 and TERM-134: an entry's
+Target, [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) with [CLAIM-783](../claims.d/CLAIM-783.md) and [TERM-134](../terms.d/TERM-134.md): an entry's
 specification is a set of tests; a descriptor is a test the entry passes
 when it is added; descriptors never conflict because the entry passes
-them all (CLAIM-783, part 6), the entry being their witness
-(TERM-tmp7s2aa).
+them all ([CLAIM-783](../claims.d/CLAIM-783.md), part 6), the entry being their witness
+([TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md)).
 
 Mapping: ML type to the coarse specification; term's value to the entry's
 version; accepted annotation to descriptor; ∧ to the intersection of
@@ -59,7 +59,7 @@ admissible sets; ⊥ to the empty set an imposition can produce.
   only narrows a specification the entry meets; and RESTRICT accepts an
   annotation only when the term already passes it and changes nothing, as
   adding a descriptor moves nothing. A term with σ and τ has σ ∧ τ and, if
-  it evaluates, its value inhabits it: the witness argument of CLAIM-783.
+  it evaluates, its value inhabits it: the witness argument of [CLAIM-783](../claims.d/CLAIM-783.md).
 - **Are there differences that defeat it?** Three that narrow it. The
   refinements are a finite lattice the programmer declares, closed under
   ∧ and ∨, and some subsets cannot be declared (p. 2); the record's

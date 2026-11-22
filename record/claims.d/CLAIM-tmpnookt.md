@@ -111,12 +111,12 @@ types computed from other types.
 ## Note of 2026-11-22: Freeman and Pfenning, read
 <!-- inactive-ok-file: THEORY-tmp1mruk ARG-tmptph3p ARG-tmp5r67s CLAIM-tmp764wb — Proposed or Rejected; filed from the reading for LEAD-tmp3xevc -->
 
-Freeman and Pfenning 1991 (THEORY-tmp1mruk, corroborates; NOTE-tmpew427; LIT-tmp858eb), the
-first of LEAD-tmp3xevc's readings to bear on two of this claim's
+Freeman and Pfenning 1991 ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md), corroborates; [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md); [LIT-tmp858eb](../literature.d/LIT-tmp858eb.md)), the
+first of [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)'s readings to bear on two of this claim's
 correspondences.
 
 - **A descriptor as a refinement the entry inhabits: borne out, narrowed**
-  (ARG-tmptph3p). Their refinements are subsets of a type the term already has,
+  ([ARG-tmptph3p](../arguments.d/ARG-tmptph3p.md)). Their refinements are subsets of a type the term already has,
   and an annotation is accepted only when the term's inferred refinement
   already lies below it (RESTRICT, p. 8), moving nothing; a term with σ and
   τ has σ ∧ τ (p. 3), inhabited by its value. Three narrowings: the
@@ -126,7 +126,7 @@ correspondences.
   so "provably inhabits" means only that a derivation exists. The paper
   gives no support to the proof-relevant reading.
 - **The direction of fit as inferring against checking: not borne out
-  here** (ARG-tmp5r67s, Rejected as a route; CLAIM-tmp764wb, a counter). In their
+  here** ([ARG-tmp5r67s](../arguments.d/ARG-tmp5r67s.md), Rejected as a route; [CLAIM-tmp764wb](CLAIM-tmp764wb.md), a counter). In their
   system checking an annotation is word to world, as inference is, and no
   rule moves a term. The paper is not bidirectional, so this leaves the
   correspondence untested rather than refuted; the reading of Dunfield and

@@ -54,8 +54,8 @@ source, with the claim revised or defeated accordingly.
 ## Note of 2026-11-22: Freeman and Pfenning, read
 <!-- inactive-ok-file: THEORY-tmp1mruk ARG-tmptph3p ARG-tmp5r67s CLAIM-tmp764wb — Proposed or Rejected; filed from this reading -->
 
-The fourth item, Freeman and Pfenning (1991), is read: LIT-tmp858eb, NOTE-tmpew427,
-THEORY-tmp1mruk, with ARG-tmptph3p, ARG-tmp5r67s and CLAIM-tmp764wb (pull request "Read Freeman and
+The fourth item, Freeman and Pfenning (1991), is read: [LIT-tmp858eb](../literature.d/LIT-tmp858eb.md), [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md),
+[THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md), with [ARG-tmptph3p](../arguments.d/ARG-tmptph3p.md), [ARG-tmp5r67s](../arguments.d/ARG-tmp5r67s.md) and [CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md) (pull request "Read Freeman and
 Pfenning 1991"). A descriptor's narrowing is a refinement in their sense,
 narrowed to a finite declared lattice and without carried evidence; their
 intersection matches the witness argument, the witness being a value;

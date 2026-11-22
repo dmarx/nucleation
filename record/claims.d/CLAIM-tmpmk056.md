@@ -77,10 +77,10 @@ imposition fits the entry to the predicate (world to word).
 ## Note of 2026-11-22: Freeman and Pfenning, read
 <!-- inactive-ok-file: THEORY-tmp1mruk CLAIM-tmp764wb — Proposed; filed for LEAD-tmp3xevc -->
 
-A contrast, from Freeman and Pfenning's refinement types (THEORY-tmp1mruk;
-NOTE-tmpew427): a type system with informative update only. Inference and
+A contrast, from Freeman and Pfenning's refinement types ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md);
+[NOTE-tmpew427](../notes.d/NOTE-tmpew427.md)): a type system with informative update only. Inference and
 accepted annotations narrow what a term may be taken to have, and "we do
 not extend the language of programs for ML (only the language of types)"
 (p. 1): no rule moves a term. Performative update, changing a term to
 pass a type it fails, lies with the programmer, outside the system
-(CLAIM-tmp764wb). No change.
+([CLAIM-tmp764wb](CLAIM-tmp764wb.md)). No change.

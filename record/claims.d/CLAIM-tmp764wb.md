@@ -28,9 +28,9 @@ uses:
 - TERM-tmp8b1yl
 - TERM-134
 summary: >-
-  Filed from the reading of Freeman and Pfenning (THEORY-tmp1mruk, NOTE-tmpew427) for
-  LEAD-tmp3xevc, answering its question of what is inferred and what is
-  checked. It objects to one correspondence of CLAIM-tmpnookt, the
+  Filed from the reading of Freeman and Pfenning ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md), [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md)) for
+  [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md), answering its question of what is inferred and what is
+  checked. It objects to one correspondence of [CLAIM-tmpnookt](CLAIM-tmpnookt.md), the
   direction of fit as bidirectional typing's split between inferring a type
   and checking a term against one given, for the one refinement system the
   record has read: there checking is word to world, as inference is. The
@@ -43,17 +43,17 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmpnookt reads the direction of fit (TERM-tmp8b1yl) as the split in
+[CLAIM-tmpnookt](CLAIM-tmpnookt.md) reads the direction of fit ([TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)) as the split in
 bidirectional typing: inference reads a type off a term (word to world, a
 descriptor), checking holds a term to a type given in advance (world to
 word, a requirement), and the move that makes a term fit is elaboration.
 
-In Freeman and Pfenning's system (THEORY-tmp1mruk), refinement types "will be
+In Freeman and Pfenning's system ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md)), refinement types "will be
 inferred and printed by type inference, or can be used by the programmer
 to annotate expressions" (p. 3). The only rule for an annotation is
 RESTRICT (Figure 2, p. 8): (e : D′) has type D′ when e has the inferred
 type D and D ≤ D′. So an annotation is accepted exactly when the term
-already passes it, which makes it a descriptor (TERM-134). A term that
+already passes it, which makes it a descriptor ([TERM-134](../terms.d/TERM-134.md)). A term that
 fails has no derivation at that type. No rule changes a term: "we do not
 extend the language of programs for ML (only the language of types)"
 (p. 1). The change that would make the term pass is the programmer's,
@@ -62,9 +62,9 @@ outside the system.
 So in this system both modes ask the same thing, whether the term as it
 stands fits a type, and differ only in who wrote the type. Whether an
 annotation is a description or a requirement is settled by the term when
-the annotation is written, which is TERM-tmp8b1yl's own criterion, and
+the annotation is written, which is [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)'s own criterion, and
 not by the mode. Requirement, the world-to-word direction, appears only
-when the term fails and someone changes it; that is CLAIM-tmpmk056's
+when the term fails and someone changes it; that is [CLAIM-tmpmk056](CLAIM-tmpmk056.md)'s
 performative update, and it is outside the type system.
 
 ## What it does not say
@@ -72,7 +72,7 @@ performative update, and it is outside the type system.
 - Not that the correspondence fails for bidirectional systems. This paper
   is not one; whether checking there does anything that would count as
   fitting a term to a type is for the lead's reading of Dunfield and
-  Krishnaswami (LEAD-tmp3xevc).
+  Krishnaswami ([LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)).
 - Not that type checking never imposes. A programmer who writes an
   annotation the code does not yet meet, and then changes the code, is
   using the type as a requirement; the claim is that the checker's part

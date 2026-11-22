@@ -65,8 +65,8 @@ specification of requirements of the second ([CLAIM-tmp5rv9x](../claims.d/CLAIM-
 ## Note of 2026-11-22: Freeman and Pfenning, read
 <!-- inactive-ok-file: THEORY-tmp1mruk — Proposed; filed for LEAD-tmp3xevc -->
 
-A parallel, from Freeman and Pfenning's refinement types (THEORY-tmp1mruk;
-NOTE-tmpew427). An ML type with its declared refinements is a specification in
+A parallel, from Freeman and Pfenning's refinement types ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md);
+[NOTE-tmpew427](../notes.d/NOTE-tmpew427.md)). An ML type with its declared refinements is a specification in
 this term's sense, layered: the ML type admits a set of values, each
 refinement a subset, and a term's principal refinement is the narrowest
 the declarations can say of it. The declarations are stored

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmpew427) from the authors' preprint on Frank
+  read in full 2026-11-22 ([NOTE-tmpew427](../notes.d/NOTE-tmpew427.md)) from the authors' preprint on Frank
   Pfenning's faculty page at Carnegie Mellon, not the version of record;
   worth reading as the paper that introduced refinement types, the record's
   first reading of a type system in which a type is narrowed by subtypes
@@ -46,8 +46,8 @@ summary: >-
   lattice for each datatype, and refinement types are inferred by abstract
   interpretation over it, given only to programs already well-typed in ML.
   The language of programs is unchanged; an annotation is accepted only
-  when the inferred refinement lies below it. Read in NOTE-tmpew427 for
-  LEAD-tmp3xevc's test of CLAIM-tmpnookt; the reading is THEORY-tmp1mruk.
+  when the inferred refinement lies below it. Read in [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md) for
+  [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)'s test of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md); the reading is [THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp1mruk ARG-tmptph3p ARG-tmp5r67s CLAIM-tmp764wb CLAIM-tmpnookt — Proposed or Rejected; this work's reading, the arguments and counter filed from it, and the claim it tests -->
 
@@ -78,8 +78,8 @@ Design and Implementation (PLDI '91), Toronto, pp. 268–277. ACM Press. DOI
 
 ## Standing in the record
 
-Filed by LEAD-tmp3xevc to test CLAIM-tmpnookt's correspondence of a
+Filed by [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md) to test [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence of a
 descriptor with a refinement the entry inhabits, and of the direction of
 fit with inferring against checking. It bears out the first, narrowed to a
 finite, declared lattice and without carried evidence, and does not bear
-out the second (ARG-tmptph3p, ARG-tmp5r67s, CLAIM-tmp764wb).
+out the second ([ARG-tmptph3p](../arguments.d/ARG-tmptph3p.md), [ARG-tmp5r67s](../arguments.d/ARG-tmp5r67s.md), [CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)).

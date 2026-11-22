@@ -29,7 +29,7 @@ summary: >-
   when the inferred refinement already lies below them. Soundness is
   stated and its proof omitted.
 ---
-<!-- inactive-ok-file: THEORY-tmp1mruk ARG-tmptph3p ARG-tmp5r67s CLAIM-tmp764wb CLAIM-tmpnookt CLAIM-783 CLAIM-tmpmk056 TERM-134 TERM-tmp7s2aa TERM-tmp8b1yl — Proposed or Rejected; this reading's account, what was filed from it, and the entries it bears on -->
+<!-- inactive-ok-file: ARG-tmp5r67s CLAIM-tmp764wb CLAIM-tmpnookt CLAIM-783 CLAIM-tmpmk056 TERM-134 TERM-tmp7s2aa TERM-tmp8b1yl — Proposed or Rejected; this reading's account, what was filed from it, and the entries it bears on -->
 
 # NOTE-tmpew427: Freeman and Pfenning — Refinement Types for ML
 
@@ -129,20 +129,20 @@ The lead's three questions, answered in turn.
   1), and the one rule by which a programmer states a refinement of a term,
   RESTRICT, accepts it only when the term's inferred refinement already
   lies below it, and moves nothing (result 7). So an annotation accepted is
-  a descriptor in TERM-134's sense: the term passes it when it is added. In
+  a descriptor in [TERM-134](../terms.d/TERM-134.md)'s sense: the term passes it when it is added. In
   the record's terms, the ML type is the coarse specification, the
   principal refinement the narrowest the declared lattice can say of the
   term, and any refinement between the two is a descriptor it passes. Three
   narrowings. The refinements are a finite lattice declared in advance,
   not any predicate (result 2): the form {x : A | φ(x)}, with φ arbitrary,
-  that CLAIM-tmpnookt writes is predicate subtyping, not this paper's. A
+  that [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) writes is predicate subtyping, not this paper's. A
   refinement is of a type, not of one term: the descriptor's being written
   from one entry has no counterpart. And nothing is carried with the term:
   that it has a refinement is a derivation the system finds and does not
   store, so "provably inhabits" holds only in the sense that a derivation
   exists.
 - **(b) Their intersection, and when it is empty.** It matches
-  CLAIM-783's part 6 and TERM-tmp7s2aa: a term that has σ and τ has σ ∧ τ
+  [CLAIM-783](../claims.d/CLAIM-783.md)'s part 6 and [TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md): a term that has σ and τ has σ ∧ τ
   (result 3), and if it evaluates to a value, that value is in both, so
   the intersection is not empty; the paper's own e : ?e ∧ std is the case.
   Intersections can be empty, ⊥, as ?e ∧ stdpos is (result 4), and no
@@ -156,16 +156,16 @@ The lead's three questions, answered in turn.
   Checked: an annotation, against the inferred type, by D ≤ D′. Both ask
   whether the term as it stands fits; neither moves it, and a term that
   fails an annotation has no such type, to be changed by the programmer.
-  So this paper does not bear out CLAIM-tmpnookt's identification of the
-  direction of fit with inferring against checking (ARG-tmp5r67s, CLAIM-tmp764wb). It
+  So this paper does not bear out [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s identification of the
+  direction of fit with inferring against checking ([ARG-tmp5r67s](../arguments.d/ARG-tmp5r67s.md), [CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)). It
   is not a bidirectional system, and the lead's reading of Dunfield and
   Krishnaswami is the test of that correspondence; what it shows is that a
   type given in advance and checked can be word to world
-  (TERM-tmp8b1yl's point that the thing as it stands sets the direction).
-- **CLAIM-tmpmk056** (contrast). The system has informative update only:
+  ([TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)'s point that the thing as it stands sets the direction).
+- **[CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md)** (contrast). The system has informative update only:
   narrowing by inference and by accepted annotations. Performative update,
   moving the term, lies outside it, with the programmer.
-- **TERM-134** (parallel). The finite, declared lattice is a closed
+- **[TERM-134](../terms.d/TERM-134.md)** (parallel). The finite, declared lattice is a closed
   vocabulary: a distinction the declarations lack cannot be inferred, and
   is added by a new declaration, as the record adds a topic by decision.
   The paper's motive is the record's walk from prose to mechanism: "the

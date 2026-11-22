@@ -19,12 +19,12 @@ source:
 corroborates:
 - CLAIM-tmpnookt
 summary: >-
-  Freeman & Pfenning (1991), LIT-tmp858eb, read in NOTE-tmpew427 for LEAD-tmp3xevc. The
+  Freeman & Pfenning (1991), [LIT-tmp858eb](../literature.d/LIT-tmp858eb.md), read in [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md) for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). The
   paper that introduced refinement types. For the record it is the reading
-  on which CLAIM-tmpnookt's correspondence of a descriptor with a
-  refinement the entry inhabits can be tested (ARG-tmptph3p), and on which its
+  on which [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence of a descriptor with a
+  refinement the entry inhabits can be tested ([ARG-tmptph3p](../arguments.d/ARG-tmptph3p.md)), and on which its
   correspondence of the direction of fit with inferring against checking
-  is found unsupported (ARG-tmp5r67s, CLAIM-tmp764wb). Proposed until the soundness
+  is found unsupported ([ARG-tmp5r67s](../arguments.d/ARG-tmp5r67s.md), [CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)). Proposed until the soundness
   theorem it states has a proof and the inference it describes an
   implementation.
 ---
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Freeman & Pfenning (1991), LIT-tmp858eb, read in NOTE-tmpew427 from the authors'
+Freeman & Pfenning (1991), [LIT-tmp858eb](../literature.d/LIT-tmp858eb.md), read in [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md) from the authors'
 preprint (pages 1 to 10).
 
 ## The account
@@ -69,10 +69,10 @@ it inferred.
 
 ## Bearing
 
-It corroborates CLAIM-tmpnookt in one correspondence only, a descriptor as
+It corroborates [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) in one correspondence only, a descriptor as
 a refinement its entry inhabits, narrowed to a finite declared lattice and
-without carried evidence (ARG-tmptph3p). It does not support the correspondence
-of the direction of fit with inference against checking (ARG-tmp5r67s), and
-grounds the counter that checking an annotation moves nothing (CLAIM-tmp764wb).
-It parallels CLAIM-783's result that descriptors cannot conflict: a term
+without carried evidence ([ARG-tmptph3p](../arguments.d/ARG-tmptph3p.md)). It does not support the correspondence
+of the direction of fit with inference against checking ([ARG-tmp5r67s](../arguments.d/ARG-tmp5r67s.md)), and
+grounds the counter that checking an annotation moves nothing ([CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)).
+It parallels [CLAIM-783](../claims.d/CLAIM-783.md)'s result that descriptors cannot conflict: a term
 with σ and τ has σ ∧ τ, inhabited by its value.

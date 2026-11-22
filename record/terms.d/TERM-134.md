@@ -84,7 +84,7 @@ convention, a reviewer's habit).
 ## Note of 2026-11-22: Freeman and Pfenning, read
 <!-- inactive-ok-file: THEORY-tmp1mruk — Proposed; filed for LEAD-tmp3xevc -->
 
-Freeman and Pfenning's refinement types (THEORY-tmp1mruk; NOTE-tmpew427) have a
+Freeman and Pfenning's refinement types ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md); [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md)) have a
 descriptor and lack an imposition. An annotation is accepted only when the
 term already has a refinement below it (RESTRICT, p. 8), and nothing moves
 the term: an annotation accepted is a descriptor in this term's sense. The

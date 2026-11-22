@@ -153,8 +153,8 @@ origin is feasible:
 <!-- inactive-ok-file: THEORY-tmp1mruk — Proposed; filed for LEAD-tmp3xevc -->
 
 A parallel in another formalism, not evidence: the result here is
-demonstrated. In Freeman and Pfenning's refinement types (THEORY-tmp1mruk;
-NOTE-tmpew427), "an expression has type σ ∧ τ if it has both type σ and type τ"
+demonstrated. In Freeman and Pfenning's refinement types ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md);
+[NOTE-tmpew427](../notes.d/NOTE-tmpew427.md)), "an expression has type σ ∧ τ if it has both type σ and type τ"
 (p. 3), so refinements a term already has never conflict, the term's value
 inhabiting their intersection, as part 6 has it; and ?e ∧ std is ?e
 (p. 5), the intersection the term already sat in. Their intersections can
