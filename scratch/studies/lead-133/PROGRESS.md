@@ -30,9 +30,21 @@ dated note + alternatives.
   the four LITs. Confirmed no direct NOTE for any of the four works.
 - Cut branch.
 
+## Done (cont.)
+
+- Route-checked all four works (2026-11-22). All remain Unfetched:
+  - LIT-2742 Hart&Moore: new DASH bitstream URL from OpenAlex -> HTTP 429
+    (CloudFront, retry-after 900). Not retried.
+  - LIT-2732 Berge, LIT-2686 Cameron: OpenAlex any_repository_has_fulltext=false;
+    only SAGE publisher copy (Cloudflare-blocked). No untried route.
+  - LIT-2682 Robillard: UConn Cloudflare (prior), no reachable neighbour.
+  - Added "## Search of 2026-11-22" dated notes to all four LITs (status unchanged).
+
 ## Next
 
-- Attempt fresh lawful-copy fetches of the four works (untried routes only).
-- File readings or Unfetched updates.
-- File the ARG CLAIM-728 asks for + dated note on CLAIM-728.
+- File the ARG CLAIM-728 asks for (Grossman&Hart THEORY-1985 + Hart 2016 THEORY-1979
+  -> CLAIM-728; what they carry = residual-control definition; what they do not =
+  unilateral decision + visibility only at the uncovered contingency; effect is ex
+  ante through anticipation). Rejected inference for the claim as stated.
+- Dated note on CLAIM-728 + alternatives on whether to revise the last clause (owner's).
 - Changelog fragment.
