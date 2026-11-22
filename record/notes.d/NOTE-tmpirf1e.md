@@ -114,7 +114,7 @@ mediation models).
 
 ## Bearing on the record
 
-- **[LEAD-062](../leads.d/LEAD-062.md): a neighbour of the test, not the test.** It is the one
+- **LEAD-062: a neighbour of the test, not the test.** It is the one
   experiment the lead's search found that varies a continuity in time
   while measuring identification separately. But three things differ from
   what the lead asks.
@@ -124,7 +124,7 @@ mediation models).
     concern for the group's future, which continuity lowers.
   - Identification here is attachment and glorification, which is closer
     to caring than to the self's extent.
-- **[CLAIM-492](../claims.d/CLAIM-492.md): a continuity criterion that comes apart from caring,
+- **CLAIM-492: a continuity criterion that comes apart from caring,
   and whose effect depends on it.** FCC similarity correlated .14 with
   attachment and could be moved by manipulation, so it is a criterion of
   a temporal extent that can diverge from caring. But it moved attitudes
@@ -135,11 +135,11 @@ mediation models).
   preregistration. It bears on what the claim asks for without
   supporting or bounding the claim, so it gets a dated note and no
   edge; no status changes.
-- **[QUESTION-301](../questions.d/QUESTION-301.md) and [QUESTION-299](../questions.d/QUESTION-299.md): parallel.** A group's expected
+- **QUESTION-301 and QUESTION-299: parallel.** A group's expected
   sameness is the collective analogue of Hershfield's future self. Nothing
   here concerns future people, legacy or obligation. An analogy only; no
   edge.
-- **[CLAIM-491](../claims.d/CLAIM-491.md): a contrast in mechanism.** The extended-self reading
+- **CLAIM-491: a contrast in mechanism.** The extended-self reading
   would expect continuity to raise care for what continues. Here it lowered
   fear for the group and, through that, hostility to outsiders. The
   authors' own gloss is strategic: openness may be "a pathway to protect
