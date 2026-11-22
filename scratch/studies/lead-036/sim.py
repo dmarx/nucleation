@@ -119,6 +119,31 @@ def fixed_points(p: Params, coverage: bool = True, n: int = 200001):
     return merged
 
 
+def n_star(p: Params) -> int:
+    """Uncommitted quarters that take competence from 1 to below k_lo at the
+    base budget alone (requires k_base < k_lo)."""
+    assert p.k_base < p.k_lo
+    k, n = 1.0, 0
+    while k >= p.k_lo:
+        k = min(1.0, (1 - p.delta) * k + p.beta * max(0.0, p.Bbar - p.h))
+        n += 1
+    return n
+
+
+def loss_lower_bound(p: Params) -> float:
+    """A lower bound on the chance the coupled rule is absorbed within T.
+
+    A run of n* + W - 1 quarters with no occasion at all leaves the budget at
+    Bbar for at least n* quarters (the window empties after W - 1) and, since
+    competence never exceeds 1, takes it below k_lo whatever came before; the
+    capability is then absorbed. Counting only disjoint blocks of that length
+    gives 1 - (1 - exp(-lam L))^floor(T / L), L = n* + W - 1. It does not
+    depend on eta: no payment per use buys competence above the cap.
+    """
+    L = n_star(p) + p.W - 1
+    return 1.0 - (1.0 - np.exp(-p.lam * L)) ** (p.T // L)
+
+
 def simulate(p: Params, rule: str, seed: int, B_fixed: float | None = None,
              record_paths: bool = False):
     """Run p.runs independent histories under one budget rule, vectorized.
@@ -242,6 +267,8 @@ def run_grid(path: str, base: Params = Params()):
                 d.update(summarize(p, res, rule))
                 d["params"] = asdict(p)
                 d["fixed_points"] = fixed_points(p) if rule == "coupled" else None
+                d["loss_lower_bound"] = (loss_lower_bound(p)
+                                         if rule == "coupled" and p.k_base < p.k_lo else None)
                 f.write(json.dumps(d) + "\n"); f.flush()
                 done[key_of(d)] = d
     return done
@@ -251,6 +278,10 @@ def table(done: dict) -> str:
     lines = []
     for Bbar in BBARS:
         p = replace(Params(), Bbar=Bbar)
+        if p.k_base < p.k_lo:
+            lines.append(f"Bbar = {Bbar}: n* = {n_star(p)} quarters; lower bound on loss within T, "
+                         + ", ".join(f"lam={lam} W={W}: {loss_lower_bound(replace(p, lam=lam, W=W)):.3f}"
+                                     for W in WS for lam in LAMS))
         lines.append(f"Bbar = {Bbar}: k_base = {p.k_base:.3f}; mean-field fixed points "
                      f"(coupled) {fixed_points(p)}; without coverage feedback "
                      f"{fixed_points(p, coverage=False)}")

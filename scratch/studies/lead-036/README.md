@@ -7,15 +7,18 @@ decoupled from it (2026-11-22). Filed as a CASE and a CLAIM (temporary codes
 as filed; see the changelog fragment `record/changelog.d/lead-036.md`).
 
 - `sim.py`: the model (stated in its docstring), the four budget rules, the
-  mean-field fixed points, the summary measures and the run grid.
-- `test_sim.py`: 12 tests: the commitment ramp; the steady competence under
+  mean-field fixed points, the lower bound on absorption, the summary measures and the run grid.
+- `test_sim.py`: 17 tests: the commitment ramp; the steady competence under
   a fixed budget; the decoupled rule converging to it and ignoring
   occasions; A's budget rule with W = 1 and W = 4 recomputed from the
   record of commitments; the absorbing state (k < k_lo and k_base < k_lo:
   nothing committed, B = B̄ for good, k → k_base); no absorption when
   k_base > k_lo; the mean-field fixed points (three at B̄ = 1.2, one at
   1.35, one without coverage feedback); the mean budget without coverage
-  feedback; common occasions across rules; the grid resuming.
+  feedback; common occasions across rules; the grid resuming; n*, the
+  uncommitted quarters that take competence from 1 below k_lo; and the
+  lower bound on absorption (`loss_lower_bound`) against 2,000 runs at four
+  settings.
 - `results.jsonl` (one configuration a line, with its parameters),
   `results.txt` (the table).
 

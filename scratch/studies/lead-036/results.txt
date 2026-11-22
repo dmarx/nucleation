@@ -1,3 +1,4 @@
+Bbar = 1.2: n* = 20 quarters; lower bound on loss within T, lam=0.05 W=1: 0.936, lam=0.1 W=1: 0.582, lam=0.25 W=1: 0.040, lam=1.0 W=1: 0.000, lam=4.0 W=1: 0.000, lam=0.05 W=4: 0.851, lam=0.1 W=4: 0.410, lam=0.25 W=4: 0.016, lam=1.0 W=4: 0.000, lam=4.0 W=4: 0.000
 Bbar = 1.2: k_base = 0.250; mean-field fixed points (coupled) [(0.24999999999999994, 'stable'), (0.64, 'unstable'), (0.8999999999999999, 'stable')]; without coverage feedback [(0.8999999999999999, 'stable')]
 Bbar = 1.35: k_base = 0.438; mean-field fixed points (coupled) [(1.0, 'stable')]; without coverage feedback [(1.0, 'stable')]
 

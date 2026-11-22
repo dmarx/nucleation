@@ -24,7 +24,7 @@ is cited, not refiled.
 
 ## Done
 
-- sim.py, test_sim.py (12 pass), README.md; grid run (80 configurations,
+- sim.py, test_sim.py (17 pass, with n* and the absorption lower bound), README.md; grid run (80 configurations,
   2,000 runs each, under 10 s): results.jsonl, results.txt.
 
 ## Choices made

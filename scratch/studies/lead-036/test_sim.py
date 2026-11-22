@@ -118,3 +118,24 @@ def test_grid_resumes(tmp_path, monkeypatch):
     eq = [x for x in d if x["rule"] == "decoupled_equal"][0]
     co = [x for x in d if x["rule"] == "coupled"][0]
     assert eq["B_fixed"] == pytest.approx(co["B_mean"])
+
+
+def test_n_star():
+    p = Params()
+    n = sim.n_star(p)
+    k = 1.0
+    for _ in range(n):
+        k = 0.92 * k + 0.1 * 0.2
+    assert k < p.k_lo
+    k = 1.0
+    for _ in range(n - 1):
+        k = 0.92 * k + 0.1 * 0.2
+    assert k >= p.k_lo
+
+
+@pytest.mark.parametrize("lam,W", [(0.05, 1), (0.1, 1), (0.1, 4), (0.25, 4)])
+def test_loss_bound_holds(lam, W):
+    p = replace(Params(), lam=lam, W=W, runs=2000)
+    res = sim.simulate(p, "coupled", seed=11)
+    lost = sim.summarize(p, res, "coupled")["lost"]
+    assert lost >= sim.loss_lower_bound(p) - 3 * np.sqrt(0.25 / p.runs)
