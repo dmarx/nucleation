@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpji66i
 title: 'The line''s proposed quantities have no finite-data estimators: plug-in signalling from one or a few occurrences per context is positive in expectation when the true marginals agree, so the contextual fraction is undefined on raw tables, and deficiency over text-valued renderings has no estimator'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-10'
@@ -24,6 +24,11 @@ history:
     evidence that signalling is typical of language data rests on plug-in
     estimates from one or a few occurrences, which signal even when the
     true marginals agree'. The body is unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note says what LEAD-072 built against 'What would answer it'
+    (CLAIM-tmp1o9d0, CASE-tmpl6unn). The claim is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -54,6 +59,7 @@ summary: >-
   estimator. It does not say signalling is rare in pragmatic judgements,
   where order effects are themselves signalling.
 ---
+<!-- inactive-ok-file: CLAIM-tmp1o9d0 CASE-tmpl6unn — new; what LEAD-072 filed on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its separation of corpus from elicitation and its two routes to signalling, open -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that makes deficiency computable, cited as open -->
@@ -151,3 +157,26 @@ gave up. This claim keeps the estimator result, which is about the subject
 matter, and undercuts that argument in place of objecting to [CLAIM-125](CLAIM-125.md).
 Its objection to [CLAIM-105](CLAIM-105.md) stays, since it is about the contextual
 fraction.
+
+## Note of 2026-11-22: estimators and a test, but no counts
+
+"What would answer it" asks first for "estimators with bias correction
+and a stated sampling error, or a test for signalling with a stated null
+hypothesis, applied to LIT-851's systems with their occurrence counts".
+LEAD-072 built both halves of the first part (CLAIM-tmp1o9d0). No
+estimator of Δ can be unbiased at finite counts, so bias correction
+reduces rather than removes the bias; a simultaneous Clopper-Pearson
+interval for Δ is valid at every count; and Bonferroni over per-content
+Fisher tests tests the null that no content signals. The worked case
+above is sharper than stated: with one occurrence a context, no valid 5%
+test can tell a Δ̂ of 2 or 4 from no signalling at all, and the interval
+for Δ is about [0, 4].
+
+The application is not made. LIT-851 prints no counts (NOTE-654), and its
+copy was behind a Cloudflare challenge on 2026-11-22. On LIT-842's three
+printed binary systems, with the least counts their fractions allow
+(CASE-tmpl6unn), the coach/boxer × lap/file system signals beyond
+sampling error by the guaranteed interval, adopt/boxer by the exact test
+only, and throw/pitcher by neither. Whether this claim's title, "have no
+finite-data estimators", should now be narrowed for signalling is the
+owner's call; this note leaves it as it stands.
