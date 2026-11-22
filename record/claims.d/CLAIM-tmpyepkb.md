@@ -32,8 +32,8 @@ bears_on:
 grounds:
 - THEORY-253
 summary: >-
-  The derivation QUESTION-193 asks for, in the mean-field limit. For the
-  Geometry model of THEORY-253, loss Σ p_i u_i² with u_i = 1 − θ·t_i, a
+  The derivation [QUESTION-193](../questions.d/QUESTION-193.md) asks for, in the mean-field limit. For the
+  Geometry model of [THEORY-253](../theory.d/THEORY-253.md), loss Σ p_i u_i² with u_i = 1 − θ·t_i, a
   sign step with t_i generic to the coordinates and d large gives
   du_j/dt = −c p_j u_j / ‖p∘u‖₂, c = η√(2d/π): gradient flow with its clock
   divided by the gradient norm. So the path in skill space is gradient
@@ -44,7 +44,7 @@ summary: >-
   2.11 for two skills at ε = 0.1 and 2 as ε → 0. With coordinate-aligned
   tasks every skill moves at the same rate; for the Hadamard rotation the
   first phase is exact. The derived ratios match simulation within 2%
-  (CASE-tmpd2k95), which checks the derivation and does not warrant it.
+  ([CASE-tmpd2k95](../cases.d/CASE-tmpd2k95.md)), which checks the derivation and does not warrant it.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
@@ -54,7 +54,7 @@ summary: >-
 
 ## The claim
 
-Take the Geometry model of THEORY-253: loss ℓ(θ) = Σ_i p_i u_i², with
+Take the Geometry model of [THEORY-253](../theory.d/THEORY-253.md): loss ℓ(θ) = Σ_i p_i u_i², with
 residual u_i = 1 − s_i, skill level s_i = θ·t_i and orthonormal t_i in R^d.
 A skill counts as learned at u_i = ε.
 
@@ -99,25 +99,25 @@ The full working is in scratch/studies/lead-045/README.md.
 - **Not a theorem with error bounds.** The concentration step is a
   law-of-large-numbers argument, not a bound uniform over the trajectory,
   and orthonormal t_i are not exactly independent Gaussians. The agreement
-  with simulation, to within 2% at d = 1000 (CASE-tmpd2k95), checks it.
+  with simulation, to within 2% at d = 1000 ([CASE-tmpd2k95](../cases.d/CASE-tmpd2k95.md)), checks it.
 - **Not the end of training**, where sign descent oscillates at the step
   size, and not small d with arbitrary rotations, where only the Hadamard
   case was worked.
 - **Not about networks.** Skills that share parameters interact, which the
-  model excludes; what one network did is CLAIM-tmpmop4m.
+  model excludes; what one network did is [CLAIM-tmpmop4m](CLAIM-tmpmop4m.md).
 - **Not Adam at default settings.** Adam with β₁ = β₂ = 0 is sign descent;
   at the default β its ratios lie between sign descent's and gradient
   descent's and are not derived here.
 
 ## What it changes
 
-THEORY-253 records the Domino effect as simulation with a fitted
+[THEORY-253](../theory.d/THEORY-253.md) records the Domino effect as simulation with a fitted
 Resource model, du_i/dt = −η_eff p_i u_i/(Σ_j p_j u_j + N₀). This derives a
 model of the same family from the optimizer, with the ℓ₂ norm in place of
 the ℓ₁ norm and no fitted constant, and the derived form fits the
 simulation better at intermediate frequencies. It also says what the
 sequence is: a re-timing of gradient descent's path, not a different path.
 The paper's mechanism, sign(g₁ + g₂) ≈ sign(g₁) when ‖g₁‖ ≫ ‖g₂‖, is the
-dominance case of item 2. It answers the first limb of QUESTION-193 for
+dominance case of item 2. It answers the first limb of [QUESTION-193](../questions.d/QUESTION-193.md) for
 generic high-dimensional misalignment, at the level of rigour stated above,
-and leaves its second limb to CLAIM-tmpmop4m.
+and leaves its second limb to [CLAIM-tmpmop4m](CLAIM-tmpmop4m.md).

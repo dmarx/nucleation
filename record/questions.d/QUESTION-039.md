@@ -147,15 +147,15 @@ several kinds of event, timed by one scalar. Written as `bears_on` from the
 reading.
 
 
-## Note of 2026-11-22: the optimizer swap, run (LEAD-045)
+## Note of 2026-11-22: the optimizer swap, run ([LEAD-045](../leads.d/LEAD-045.md))
 
 <!-- inactive-ok-file: CASE-tmpd2k95 CLAIM-tmpyepkb CLAIM-tmpmop4m — new; the study and claims of LEAD-045, filed 2026-11-22 -->
 
 The test this question proposes, the same skills under gradient descent and
-under sign descent, was run (CASE-tmpd2k95). In the Geometry model, sign
+under sign descent, was run ([CASE-tmpd2k95](../cases.d/CASE-tmpd2k95.md)). In the Geometry model, sign
 descent re-times gradient descent's own path by the gradient norm
-(CLAIM-tmpyepkb): the optimizer sets when each skill arrives, not the
-order or the path. In one small ReLU network (CLAIM-tmpmop4m), the delay
+([CLAIM-tmpyepkb](../claims.d/CLAIM-tmpyepkb.md)): the optimizer sets when each skill arrives, not the
+order or the path. In one small ReLU network ([CLAIM-tmpmop4m](../claims.d/CLAIM-tmpmop4m.md)), the delay
 from the optimizer appeared at order-one scale, and the delay from small
 initialization appeared under gradient descent at scale 0.01 and weakened
 under sign descent: two mechanisms that answer to different interventions.

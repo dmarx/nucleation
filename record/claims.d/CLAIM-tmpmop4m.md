@@ -33,15 +33,15 @@ bears_on:
 grounds:
 - CASE-tmpd2k95
 summary: >-
-  The second limb of QUESTION-193, run once in a small setting
-  (CASE-tmpd2k95): one-hot skill code plus x ~ N(0, I₈), skill i's target
+  The second limb of [QUESTION-193](../questions.d/QUESTION-193.md), run once in a small setting
+  ([CASE-tmpd2k95](../cases.d/CASE-tmpd2k95.md)): one-hot skill code plus x ~ N(0, I₈), skill i's target
   a_i·x, frequencies 0.70, 0.18, 0.08, 0.04, a width-64 two-layer ReLU
   network with zero initial output, three seeds per arm. At order-one
   scale, the weaker skills' level at half their own learning time, over
   0.9, was 0.71 under gradient descent (0.76 is an exponential curve) and
   0.47 under sign descent, 0.43 under Adam; skill 4's learning time
   relative to skill 1's fell from about 23 to about 5.5. That is the
-  direction the Geometry model predicts (CLAIM-tmpyepkb), not its form:
+  direction the Geometry model predicts ([CLAIM-tmpyepkb](CLAIM-tmpyepkb.md)), not its form:
   the derived ratio is 2.24, skills 2 to 4 were not delayed in frequency
   order, and the skills interfered through shared hidden units. From scale
   0.01, gradient descent gave the strongest delay of all (0.11), the
@@ -55,7 +55,7 @@ summary: >-
 
 ## The claim
 
-In the network of CASE-tmpd2k95, with only the optimizer changed:
+In the network of [CASE-tmpd2k95](../cases.d/CASE-tmpd2k95.md), with only the optimizer changed:
 
 | | delay, skills 2–4 (level at half own learning time / 0.9) | t_learned/t_1, skill 4 |
 |---|---|---|
@@ -75,14 +75,14 @@ reached theirs close together, between steps 112 and 178.
 - **The optimizer arm.** At order-one scale, where gradient descent shows
   no plateau, swapping in sign descent or Adam delays the weaker skills and
   bunches their learning after the strongest. In the sense of
-  QUESTION-193's second limb, onsets that were simultaneous became
+  [QUESTION-193](../questions.d/QUESTION-193.md)'s second limb, onsets that were simultaneous became
   later, and the spread of completion times was compressed the way the
-  derivation (CLAIM-tmpyepkb) says it is.
+  derivation ([CLAIM-tmpyepkb](CLAIM-tmpyepkb.md)) says it is.
 - **The two mechanisms separated.** From small scale, gradient descent
   delays the weaker skills more than any other arm, and switching it to
   sign descent reduces the delay. So the delay from small initialization
-  (THEORY-229, THEORY-187) and the delay from the optimizer
-  (THEORY-253) responded to different interventions, as QUESTION-039's
+  ([THEORY-229](../theory.d/THEORY-229.md), [THEORY-187](../theory.d/THEORY-187.md)) and the delay from the optimizer
+  ([THEORY-253](../theory.d/THEORY-253.md)) responded to different interventions, as [QUESTION-039](../questions.d/QUESTION-039.md)'s
   proposed test requires.
 
 ## What it does not show
@@ -99,7 +99,7 @@ reached theirs close together, between steps 112 and 178.
   one step size per optimizer (with one check at a third of the step for
   sign descent, which gave 4.5 for skill 4). Not a stochastic batch, a
   larger network or a hierarchical task.
-- **Not about real training.** It bears on the wider reading THEORY-783,
+- **Not about real training.** It bears on the wider reading [THEORY-783](../theory.d/THEORY-783.md),
   that sign-like optimizers are one source of sequential onset in trained
   networks, as one small instance, without testing it on a network anyone
   trains for use.

@@ -27,8 +27,8 @@ bears_on:
 illustrates:
 - CLAIM-tmpyepkb
 summary: >-
-  The study LEAD-045 asks for, in two parts. First, the Geometry model of
-  THEORY-253 (loss Σ p_i (1 − θ·t_i)², orthonormal random t_i, d = 1000)
+  The study [LEAD-045](../leads.d/LEAD-045.md) asks for, in two parts. First, the Geometry model of
+  [THEORY-253](../theory.d/THEORY-253.md) (loss Σ p_i (1 − θ·t_i)², orthonormal random t_i, d = 1000)
   under gradient descent, sign descent and Adam, set against an ODE derived
   for sign descent in the mean-field limit: the derived onset ratios match
   the simulation to within 2% at every frequency tried, two to five
@@ -52,7 +52,7 @@ summary: >-
 
 ## What was done
 
-LEAD-045 asks to train one network on independent skills of unequal
+[LEAD-045](../leads.d/LEAD-045.md) asks to train one network on independent skills of unequal
 frequency under gradient descent and under sign descent (or Adam), and to
 derive, for sign descent, the delayed onset of each weaker skill and the
 ratio of onset times. Both were done on 2026-11-22, with numpy on CPU; the
@@ -60,7 +60,7 @@ code, its twelve tests, the full derivation and every number are in
 scratch/studies/lead-045/ (README.md; results/). A skill counts as learned
 at level 0.9.
 
-**The derivation** (CLAIM-tmpyepkb). In the Geometry model, with the
+**The derivation** ([CLAIM-tmpyepkb](../claims.d/CLAIM-tmpyepkb.md)). In the Geometry model, with the
 task vectors generic with respect to the coordinates and d large, a sign
 step moves skill j by η Σ_k t_jk sign(Σ_i p_i u_i t_ik), and the Gaussian
 identity E[X sign Z] = √(2/π) Cov(X, Z)/σ_Z gives
@@ -82,10 +82,10 @@ within 0.08 of the simulated ones (README). On the paper's rotated
 quadratic, sign descent with the Hadamard rotation holds x₂ to x₄ exactly
 still until x₁ = 0.111 at step 444, as derived, and the half-times 251, 730,
 1172 and 1731 reproduce the record's earlier run (note of 2026-10-19 on
-THEORY-253); with R = I all four fall together. Adam with β₁ = β₂ = 0
+[THEORY-253](../theory.d/THEORY-253.md)); with R = I all four fall together. Adam with β₁ = β₂ = 0
 matches sign descent to four figures.
 
-**The network** (CLAIM-tmpmop4m). Input: the one-hot code of skill i
+**The network** ([CLAIM-tmpmop4m](../claims.d/CLAIM-tmpmop4m.md)). Input: the one-hot code of skill i
 and x ~ N(0, I₈); skill i's target a_i·x with the a_i orthonormal;
 p = 0.70, 0.18, 0.08, 0.04; 4096 examples, full batch; a two-layer ReLU
 network of width 64 whose output is zero at the start (antisymmetric
@@ -114,13 +114,13 @@ being learned.
 
 It is documented: the runs happened and are rerunnable in about five
 minutes. In the Geometry model it shows that the derived ODE describes sign
-descent quantitatively, so the Domino effect of THEORY-253 has a
+descent quantitatively, so the Domino effect of [THEORY-253](../theory.d/THEORY-253.md) has a
 derivation, and what kind of thing it is: a change of clock along gradient
 descent's own path. In the network it shows, for one architecture and
 three seeds, that swapping only the optimizer at order-one scale moves the
 weaker skills' onsets later and compresses their spread, and that from
 small scale gradient descent alone delays them, the mechanism of
-THEORY-229 and THEORY-187. It bears on the wider reading THEORY-783
+[THEORY-229](../theory.d/THEORY-229.md) and [THEORY-187](../theory.d/THEORY-187.md). It bears on the wider reading [THEORY-783](../theory.d/THEORY-783.md)
 as one small instance.
 
 It cannot show that larger or stochastically trained networks behave so,

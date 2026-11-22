@@ -57,12 +57,12 @@ changes separate the gradient-flow steps from the Domino steps, answering
 <!-- inactive-ok-file: CASE-tmpd2k95 CLAIM-tmpyepkb CLAIM-tmpmop4m — new; the study and claims of LEAD-045, filed 2026-11-22 -->
 
 Done on 2026-11-22 (scratch/studies/lead-045/, with tests): the derivation
-for sign descent (CLAIM-tmpyepkb: the delayed onset of each weaker
+for sign descent ([CLAIM-tmpyepkb](../claims.d/CLAIM-tmpyepkb.md): the delayed onset of each weaker
 skill and t_n/t_1 → (n − ε)/(1 − ε), checked against simulation within
 2%), and one trained network on independent skills of unequal frequency
 under gradient descent, sign descent and Adam from order-one and small
-scale (CLAIM-tmpmop4m: the optimizer swap delays the weaker skills and
+scale ([CLAIM-tmpmop4m](../claims.d/CLAIM-tmpmop4m.md): the optimizer swap delays the weaker skills and
 compresses their spread, without the clean Domino form). Study:
-CASE-tmpd2k95. What remains: the hierarchical task from small and
+[CASE-tmpd2k95](../cases.d/CASE-tmpd2k95.md). What remains: the hierarchical task from small and
 order-one scale; more seeds, a stochastic batch and a larger network for
 the second claim; and error bounds for the derivation's concentration step.
