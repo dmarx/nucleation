@@ -95,7 +95,7 @@ codes the record does not yet use (ADR-072).
 |---|---|---|---|---|
 | de Jong, Ryan, van der Maas et al. 2023, PsyArXiv, 10.31234/osf.io/zrcft | HysTAR model: a method for detecting hysteresis in single-person time series | the method (b) needs, with demonstration | PsyArXiv, CC BY | registered, read |
 | Wichers, Groot, Psychosystems, ESM Group & EWS Group 2016, Psychother Psychosom, 10.1159/000441458 | one patient, 239 days of experience sampling while tapering an antidepressant; critical slowing down before a shift | nearest individual data; a tipping-point sign, not hysteresis | open (publisher, CC BY-NC-ND) | registered |
-| Smit, Helmich, Bringmann, Oldehinkel, Wichers & Snippe 2025, Clin Psychol Sci, 10.1177/21677026241305136 | 41 individuals tapering antidepressants, critical slowing down before transitions | nearest individual data, replicated across persons; not hysteresis | open (CC BY) | registered |
+| Smit, Helmich, Bringmann, Oldehinkel, Wichers & Snippe 2025, Clin Psychol Sci, 10.1177/21677026241305136 | 37 formerly depressed individuals tapering antidepressants, critical slowing down before transitions | nearest individual data, replicated across persons; not hysteresis | open (CC BY) | registered |
 | Wichers, Smit & Snippe 2020, J Person-Oriented Res, PMC7842626 | confirmatory single-subject replication | as above | PMC | in this log only |
 | Helmich et al. 2021 TRANS-ID protocol; Curtiss et al. 2023; Bos et al. 2022 (bipolar); Schreuder et al. 2022 | early-warning-signal studies | not hysteresis | various | in this log only |
 | Cramer et al. 2016 (network model of depression, simulated hysteresis) | simulation | not individual data | not in these hits | not pursued |
