@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Checking LEAD-049''s restricted theorem numerically: the recovery bound holds in 7,981 random removals, with equality whenever no other component goes extinct; Gaussian-niche operators started almost identical differentiate to equilibria meeting the stability conditions; and in a two-resource trade-off a removed specialist fails to return exactly where the lone resident leaves its corner for a generalist that takes more than its share'
+title: 'Checking a restricted theorem on differentiated, recoverable specialists numerically: the recovery bound holds in 7,981 random removals, with equality whenever no other component goes extinct; Gaussian-niche operators started almost identical differentiate to equilibria meeting the stability conditions; and in a two-resource trade-off a removed specialist fails to return exactly where the lone resident leaves its corner for a generalist that takes more than its share'
 version: 1
 history:
 - version: 1
@@ -46,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp6kclm CLAIM-tmpdsv4t — new, filed with this case by LEAD-049 -->
 
-# CASE-tmp5sk3q: Checking LEAD-049's restricted theorem numerically: the recovery bound holds in 7,981 random removals, with equality whenever no other component goes extinct; Gaussian-niche operators started almost identical differentiate to equilibria meeting the stability conditions; and in a two-resource trade-off a removed specialist fails to return exactly where the lone resident leaves its corner for a generalist that takes more than its share
+# CASE-tmp5sk3q: Checking a restricted theorem on differentiated, recoverable specialists numerically: the recovery bound holds in 7,981 random removals, with equality whenever no other component goes extinct; Gaussian-niche operators started almost identical differentiate to equilibria meeting the stability conditions; and in a two-resource trade-off a removed specialist fails to return exactly where the lone resident leaves its corner for a generalist that takes more than its share
 
 ## What was done
 
