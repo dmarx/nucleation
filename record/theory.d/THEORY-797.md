@@ -99,15 +99,15 @@ only.** Cross-entropy training (unhinged loss in its theorem), not MSE, and
 its critique of the unconstrained-feature model applies to the model this
 account's dynamics are derived in. No relation.
 
-## Note of 2026-11-22: LEAD-035, the promote_when's refutation met in small models
+## Note of 2026-11-22: [LEAD-035](../leads.d/LEAD-035.md), the promote_when's refutation met in small models
 
 The promote_when asks for ω_j tracked through MSE training without imposed
 re-whitening, and says the account "is refuted if, near the central path,
 the ω_j spread apart or stall while L⊥_LS stays negligible". In
-CASE-tmpjn6f4 (numpy, small ReLU networks and unconstrained features, three
+[CASE-tmpjn6f4](../cases.d/CASE-tmpjn6f4.md) (numpy, small ReLU networks and unconstrained features, three
 seeds) they spread apart and grow exponentially or as a steep power with
 no weight decay, and stall and settle at finite values with it, while the
 networks stay near the central path; the renormalized flow, run as a
-control, matches the law. Filed as CLAIM-tmpcpr7t. The test is at toy scale,
+control, matches the law. Filed as [CLAIM-tmpcpr7t](../claims.d/CLAIM-tmpcpr7t.md). The test is at toy scale,
 not in the networks the account is about, so whether this entry is
 rejected is the owner's call; status unchanged.

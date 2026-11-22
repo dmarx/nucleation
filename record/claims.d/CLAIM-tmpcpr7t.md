@@ -36,8 +36,8 @@ defeated_if: >-
 summary: >-
   Han, Papyan and Donoho derive ω_j ~ (4t/N)^(1/4), with ratios tending to
   1, for unconstrained features re-whitened after every step
-  (THEORY-278); THEORY-797 proposes that trained networks follow those
-  dynamics. In CASE-tmpjn6f4 the renormalized flow reproduces the law
+  ([THEORY-278](../theory.d/THEORY-278.md)); [THEORY-797](../theory.d/THEORY-797.md) proposes that trained networks follow those
+  dynamics. In [CASE-tmpjn6f4](../cases.d/CASE-tmpjn6f4.md) the renormalized flow reproduces the law
   exactly, and nothing trained without the re-whitening does. Without
   weight decay, unconstrained features and two small ReLU networks grow
   ω_j exponentially or with log-log slopes of 2.4 to 5.5 and spread them
@@ -45,7 +45,7 @@ summary: >-
   diverge only by Σ_W turning singular along the readout directions. With
   weight decay, ω_j grow, stall, regrow and settle at finite, unequal
   values, or fall back in an instability. So on this evidence the law is a
-  property of the renormalization A3, and QUESTION-181's answer is "no"
+  property of the renormalization A3, and [QUESTION-181](../questions.d/QUESTION-181.md)'s answer is "no"
   for small models; at the scale of Han and colleagues' networks it is
   untested. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -56,7 +56,7 @@ summary: >-
 
 ## The claim
 
-The quarter-power law of LIT-974's Corollary 1 is a property of the
+The quarter-power law of [LIT-974](../literature.d/LIT-974.md)'s Corollary 1 is a property of the
 continually renormalized flow, not of gradient descent on MSE. Dropping the
 renormalization, and nothing else, changes the growth of ω_j from a
 quarter power to an exponential and makes them spread apart; adding
@@ -66,11 +66,11 @@ decay makes ω_j settle at finite values instead.
 
 ## Grounds
 
-- CASE-tmpjn6f4: three unconstrained-features dynamics and two small
+- [CASE-tmpjn6f4](../cases.d/CASE-tmpjn6f4.md): three unconstrained-features dynamics and two small
   networks, weight decay 0 and 5×10⁻⁴, three seeds, numpy. The control
   reproduces Proposition 2 to 4×10⁻⁵, which shows the measurement and the
   time unit are right.
-- THEORY-278: the law and its assumptions, A3 among them.
+- [THEORY-278](../theory.d/THEORY-278.md): the law and its assumptions, A3 among them.
 - The reason, shown in the study's tests: the least-squares loss is
   invariant to affine maps of the features, so plain gradient flow
   conserves Σ_T, and separation in whitened coordinates can grow only by

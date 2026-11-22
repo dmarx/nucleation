@@ -59,9 +59,9 @@ contrast, no bearing on the MSE question.** Cross-entropy runs; their
 critique of the unconstrained-feature model applies to the model the
 renormalized flow is derived in. No relation.
 
-## Note of 2026-11-22: LEAD-035, the singular values measured in small models
+## Note of 2026-11-22: [LEAD-035](../leads.d/LEAD-035.md), the singular values measured in small models
 
-CASE-tmpjn6f4 tracked ω_j of Σ_W^(−1/2)M̃ through MSE training without
+[CASE-tmpjn6f4](../cases.d/CASE-tmpjn6f4.md) tracked ω_j of Σ_W^(−1/2)M̃ through MSE training without
 imposed re-whitening, three seeds per setting, in numpy: unconstrained
 features (least-squares classifier, and joint descent) and two small ReLU
 networks, one with batch normalization, weight decay 0 and 5×10⁻⁴, on a
@@ -72,7 +72,7 @@ slopes 2.4–5.5) and spread apart while NC1 stalls, with the networks near
 the central path; with weight decay they grow, stall, regrow and settle
 at finite, unequal values, or fall back in a late instability. That is
 this question's "no" ("the ω_j spread apart or stall while L⊥_LS stays
-negligible") for small models on toy data, filed as CLAIM-tmpcpr7t. It does
+negligible") for small models on toy data, filed as [CLAIM-tmpcpr7t](../claims.d/CLAIM-tmpcpr7t.md). It does
 not reach the architectures, data or optimizer of Han and colleagues, and
 the central-path half of the question (augmentation, many classes,
 imbalance) was not tested.

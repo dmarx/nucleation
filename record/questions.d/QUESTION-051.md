@@ -55,15 +55,15 @@ The derivation for cross-entropy asked for below is still open: the held derivat
 
 A derivation showing why gradient descent on cross-entropy reaches collapse. Alongside it, a layer-by-layer measurement relating the degree of collapse to the loss of readability for held-out tasks, with the layer not chosen on test data.
 
-## Note of 2026-11-22: LEAD-035, the closed-form dynamics tested against training
+## Note of 2026-11-22: [LEAD-035](../leads.d/LEAD-035.md), the closed-form dynamics tested against training
 
 For the first half ("why training reaches this structure"), the record's
-one derivation of collapse dynamics (THEORY-278, MSE, renormalized flow)
+one derivation of collapse dynamics ([THEORY-278](../theory.d/THEORY-278.md), MSE, renormalized flow)
 was tested against gradient descent without the renormalization in small
-models (CASE-tmpjn6f4). Its quarter-power law and the equalization of the
+models ([CASE-tmpjn6f4](../cases.d/CASE-tmpjn6f4.md)). Its quarter-power law and the equalization of the
 singular values do not appear: without weight decay, separation in
 whitened coordinates grows exponentially while NC1 stalls, and with it the
-values settle at finite levels. Filed as CLAIM-tmpcpr7t. The derivation
+values settle at finite levels. Filed as [CLAIM-tmpcpr7t](../claims.d/CLAIM-tmpcpr7t.md). The derivation
 therefore explains collapse only in its own modified flow, on this
 evidence; the question's call for a derivation of why gradient descent
 reaches collapse stays open.
