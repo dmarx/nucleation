@@ -294,6 +294,10 @@ not a finding.
 - **A QUESTION** needs a `line:`.
 - **Titles and H1 headings** carry no codes, so they keep agreeing after
   CI's repair (dmarx/luria#393).
+- **The H1 repeats the title word for word**, as `# CODE: title` with the
+  entry's own code, never a shortened heading. `luria lint` fails the
+  pull request otherwise. Before pushing, check only your own files:
+  `luria.lint.check_title` with `luria.adr_index.read_document`.
 
 ## 9a. Fill the gaps (ADR-137)
 
