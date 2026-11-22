@@ -104,7 +104,11 @@ From here on, a stop at any moment must lose at most the step in hand.
   call."
 - **Held entries** (filed before the current batch) get only dated notes
   ("## Note of YYYY-MM-DD: ...") and relation fields.
-  - Never change a status, a title or a held entry's text.
+  - Never change a status, a title or a held entry's text, with one
+    exception: a LIT you have read moves as read-and-file step 8 says, to
+    Active with a new history version, status note and summary, or stays
+    Unfetched or Unavailable with the obstacle recorded. Filing the reading
+    is that step, not a status change for the owner.
   - Add a dated note on the lead itself saying what was done and what
     remains.
   - Do NOT change the lead's status or stage; the owner marks it Done.
