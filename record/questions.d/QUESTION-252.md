@@ -2,7 +2,7 @@
 number: 252
 status: Open
 formerly:
-- QUESTION-tmp1nqby
+- QUESTION-252
 title: 'For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, and which such configurations are impossible in which model classes?'
 version: 6
 history:
@@ -59,6 +59,7 @@ summary: >-
   ([CLAIM-401](../claims.d/CLAIM-401.md)); that part is QUESTION-324, Answered. The same form as [QUESTION-093](QUESTION-093.md) and [QUESTION-115](QUESTION-115.md), on a new
   list.
 ---
+<!-- inactive-ok-file: THEORY-tmpmvcnr THEORY-tmp0d58z CLAIM-tmpo6ehq — Proposed; the readings of Ott and Antonsen, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-396 — Proposed; record precedents and partial witnesses, cited as open -->
 <!-- inactive-ok-file: LIT-1837 — Unavailable since 2026-10-29; Pfante et al., cited in the note of that date as not reached, nothing here rests on it -->
 
@@ -261,3 +262,15 @@ Widder and Schilling ([THEORY-2249](../theory.d/THEORY-2249.md), bears_on; [NOTE
 2. **Sufficiency is not shown by having a closed equation.** For Mori's projection an exact generalized Langevin equation always exists and "does not reveal any non-trivial structure of the dynamics" (§III.A); fitted with Gaussian forces it reproduces only the autocorrelation put in (§III.C). A description can therefore meet a formal closure while carrying no predictive content beyond its inputs, which is a reason to keep predictive sufficiency and memory closure apart, as the question does.
 
 The question stays open.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+A configuration for the question ([THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md), [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md)). On Ott
+and Antonsen's invariant manifold the order parameter's law is closed,
+memoryless and exact, while the omitted variables, the distribution's
+other degrees of freedom, have a continuous spectrum of neutral modes:
+they neither decay nor are slaved. So closure and fidelity hold there
+without the omitted variables relaxing. Off the manifold the law is reached
+when frequencies are spread and not when they are identical
+([THEORY-tmp0d58z](../theory.d/THEORY-tmp0d58z.md)). The model class is first-harmonic coupling
+([CLAIM-tmpo6ehq](../claims.d/CLAIM-tmpo6ehq.md)). [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) bears on this question.

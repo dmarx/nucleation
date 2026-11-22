@@ -2,7 +2,7 @@
 number: 478
 status: Proposed
 formerly:
-- CLAIM-tmpmx2ql
+- CLAIM-478
 title: 'Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another'
 version: 5
 history:
@@ -101,6 +101,8 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
+<!-- inactive-ok-file: THEORY-tmpgdriu THEORY-tmpq02z9 THEORY-tmpqdy16 THEORY-tmpkt3xf THEORY-tmpp4w4k THEORY-tmp31kx6 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq THEORY-tmpmvcnr THEORY-tmp0d58z ARG-tmp5xhiv — Proposed or new; the reading of Ott and Antonsen for LEAD-094 and the verdict filed from it -->
 <!-- inactive-ok-file: THEORY-2199 NOTE-2285 — Proposed or Skimmed; the reading of Toner and Tu (1998), 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
@@ -542,4 +544,68 @@ slow ones. It adds the authors' own word for the slow transverse modes,
 "Goldstone modes" (abstract), which mix with the conserved density to
 make sound: the claim's "organization can make new rate differences",
 by symmetry breaking. [THEORY-2199](../theory.d/THEORY-2199.md) `corroborates` the claim. No status
+change.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+The candidate this claim's note of 2026-11-07 added to defeater (a), read
+for [LEAD-094](../leads.d/LEAD-094.md) with its sequel ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), [NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md); the readings
+are [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) and [THEORY-tmp0d58z](../theory.d/THEORY-tmp0d58z.md)). A18's description checks: the
+reduction is exact on an invariant manifold and needs no small parameter,
+and the sequel shows that the manifold attracts the order parameter
+whenever the oscillators' frequencies are spread, with no condition on
+rates. On the manifold nothing relaxes; the distribution keeps a
+continuous spectrum of neutral modes.
+
+Whether that meets (a) turns on two things: whether an exact invariance
+counts as the persistence (a) requires to be absent, and whether the class
+is typical. [CLAIM-tmpo6ehq](CLAIM-tmpo6ehq.md) shows the invariance needs coupling through the
+first harmonic alone. Filed as alternatives, with [ARG-tmp5xhiv](../arguments.d/ARG-tmp5xhiv.md):
+
+- [CLAIM-tmpa694z](CLAIM-tmpa694z.md) (leaned to): not met. The invariance is persistence in
+  the limit, as this claim's note of 2026-11-02 ruled for exact
+  conservation laws, and the class is narrow. The reduction is a worked
+  case of "Not that separation is necessary".
+- [CLAIM-tmpervl4](CLAIM-tmpervl4.md): met within first-harmonic oscillator populations with
+  spread frequencies, since the approach to the manifold needs no faster
+  rate and the off-manifold parts are averaged out rather than held by
+  anything slower. It objects to this claim and would add
+  invariant-manifold closure by phase mixing to "Not one mechanism".
+
+Either way, near the locking threshold the same equations show the second
+half: the collective mode's damping rate Δ − K/2 goes to zero while the
+approach to the manifold stays at least Δ, so the instability makes the
+separation. No status change; choosing between the readings is the
+owner's.
+
+## Note of 2026-11-22 (later): the rest of [LEAD-094](../leads.d/LEAD-094.md)'s batch, read
+
+Six more of the batch's works were read or skimmed for [LEAD-094](../leads.d/LEAD-094.md).
+
+- **Caprioglio and Berthouze 2024** ([THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md), corroborates). In
+  simulations of identical phase-frustrated oscillators on hierarchically
+  modular networks, a module stays coherent, "a single macro-oscillator",
+  only while the spectral gap between the lowest two layers is large; below
+  a threshold the slower modes break it up. That is this claim's first half
+  with its version-5 condition, a gap between levels large against the
+  spread within. Their reduction of the network to an Ott–Antonsen-solvable
+  model held only with a large gap, which supports [CLAIM-tmpa694z](CLAIM-tmpa694z.md).
+- **Augustsson and colleagues 2026** ([THEORY-tmpq02z9](../theory.d/THEORY-tmpq02z9.md), a parallel). Slowly
+  adapting weights carry a self-organized split of identical oscillators,
+  and the fast phases keep to it through changes of their own dynamics;
+  the separation is imposed, not varied, so it is no test.
+- **Kaur, Jain and Berman 2026** ([THEORY-tmpqdy16](../theory.d/THEORY-tmpqdy16.md), a parallel). Slow
+  behavioral states that organize fast movement are found as metastable
+  basins; a wide gap between rates hides them from a single-resolution
+  analysis. The separation that makes a level can hide it from a
+  single-scale observer.
+- **Schmietendorf 2026** ([THEORY-tmpkt3xf](../theory.d/THEORY-tmpkt3xf.md), a caution on wording). The
+  slaving principle supports by itself only a descriptive reading; this
+  claim's "constraint" is Montévil and Mossio's, time-scale relative, and
+  should not be read as the causal reading Stephan warns against.
+- **Lee and colleagues 2025** and **Hancock and colleagues 2024**
+  ([THEORY-tmpp4w4k](../theory.d/THEORY-tmpp4w4k.md), [THEORY-tmp31kx6](../theory.d/THEORY-tmp31kx6.md)) bear on [QUESTION-281](../questions.d/QUESTION-281.md) rather than here.
+
+Haken 1975 and Yadav and colleagues 2026 have no lawful copy (both
+Unavailable); Fenichel 1979 and Knobloch 2015 stay Unfetched. No status
 change.
