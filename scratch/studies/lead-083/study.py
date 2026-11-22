@@ -108,7 +108,9 @@ class Kink:
         return phi
 
     def ground(self, X0=0.0):
-        return self.relax(np.tanh((self.x - X0) / np.sqrt(2)))
+        # centred between sites: the on-site kink is the Peierls-Nabarro saddle
+        Xc = X0 + self.h / 2
+        return self.relax(np.tanh((self.x - Xc) / np.sqrt(2)))
 
     def hessian(self, phi):
         h = self.h
@@ -158,31 +160,34 @@ def run_A(kind, h, X0):
         W = gen.copy()
         np.fill_diagonal(W, 0.0)
         n = k.n
-        best = None
-        rows = []
+        Xk = k.fit(phi)[1]
+        bylen = {}
         for a in range(n):
             for b in range(a + 2, n + 1):
                 if b - a == n:
                     continue
                 r = block_test(W, np.arange(a, b), gen)
-                contains = k.x[a] <= 0 <= k.x[b - 1]
-                rows.append((r["rho"], r["entrywise"], b - a, contains, float(k.x[a]), float(k.x[b - 1])))
-                if best is None or r["rho"] > best[0]:
-                    best = (r["rho"], b - a, float(k.x[a]), float(k.x[b - 1]))
-        cont = [r for r in rows if r[3]]
-        bc = max(cont, key=lambda r: r[0])
-        return dict(n_sites=n, n_segments=len(rows), max_rho=best[0], max_rho_len=best[1],
-                    max_rho_span=[best[2], best[3]],
-                    max_rho_containing_kink=bc[0], its_span=[bc[4], bc[5]],
-                    entrywise_all=sorted(set(round(r[1], 6) for r in rows)),
-                    eps=1 / h ** 2)
+                contains = k.x[a] - h / 2 <= Xk <= k.x[b - 1] + h / 2
+                far = min(abs(k.x[a] - Xk), abs(k.x[b - 1] - Xk)) > 5 and not contains
+                Lseg = round((b - a) * h, 6)
+                e = bylen.setdefault(Lseg, dict(kink=-1.0, far=-1.0, ent=set()))
+                if contains:
+                    e["kink"] = max(e["kink"], r["rho"])
+                if far:
+                    e["far"] = max(e["far"], r["rho"])
+                e["ent"].add(round(r["entrywise"], 6))
+        table = {str(L): dict(max_rho_containing_kink=v["kink"], max_rho_far_vacuum=v["far"],
+                              entrywise=sorted(v["ent"]))
+                 for L, v in sorted(bylen.items()) if L in (2 * h, 1.0, 2.0, 3.0, 4.0, 6.0, 8.0, 12.0)}
+        return dict(n_sites=n, kink_X=Xk, eps=1 / h ** 2, by_length=table)
     if kind == "A-compensation":
         phi0 = k.ground(X0)
         d0, Xb = k.fit(phi0)
         a = 0.3
         out = []
         # every site within 10 of the kink centre, and a few far ones
-        idx = [i for i in range(k.n) if abs(k.x[i] - X0) <= 8.0]
+        step = max(1, int(round(0.5 / h)))
+        idx = [i for i in range(0, k.n, step) if abs(k.x[i] - X0) <= 6.0]
         for j in idx:
             for sgn in (+1, -1):
                 val = np.clip(phi0[j] + sgn * a, -1.5, 1.5)
