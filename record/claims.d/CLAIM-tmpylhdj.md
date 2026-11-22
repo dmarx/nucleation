@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Inbound rests_on and grounds edges do not move a claim's text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so CLAIM-778's defeater (a) is met and the claim is false as it stands'
+title: 'Inbound rests_on and grounds edges do not move a claim''s text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so CLAIM-778''s defeater (a) is met and the claim is false as it stands'
 version: 1
 history:
 - version: 1

@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'The record's history from 2026-10-07 to 2026-11-22, counted at matched age, shows claims with inbound rests_on or grounds edges taking substantive revisions about 1.45 times as often as claims with none, and the fall in revision rate over an entry's life tracking its age, not its edges'
+title: 'The record''s history from 2026-10-07 to 2026-11-22, counted at matched age, shows claims with inbound rests_on or grounds edges taking substantive revisions about 1.45 times as often as claims with none, and the fall in revision rate over an entry''s life tracking its age, not its edges'
 version: 1
 history:
 - version: 1
