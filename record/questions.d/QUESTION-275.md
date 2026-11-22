@@ -47,6 +47,7 @@ summary: >-
   conventional baselines at matched complexity. Nothing here says that a
   circuit is a perspective.
 ---
+<!-- inactive-ok-file: CASE-tmpb4hg0 CLAIM-tmp6rhuv — new; the run of LEAD-172 and its finding, filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 <!-- inactive-ok-file: CLAIM-367 CLAIM-427 CLAIM-278 CLAIM-263 CLAIM-286 THEORY-783 THEORY-039 — Proposed; the claims and readings the question is framed by or re-derives, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-967 THEORY-1004 THEORY-1001 THEORY-997 — Proposed; readings of the same day, cited with their limits -->
@@ -347,3 +348,9 @@ It separates five routes to the same gain in accuracy:
 - redundant pathways reorganizing.
 
 Only the third and fourth are missed by a feature-only model. That makes them this question's discriminating case. A's experiments are [CASE-272](../cases.d/CASE-272.md) (a Fourier circuit, where the modes are given) and [CASE-274](../cases.d/CASE-274.md). The question's own baselines, feature-only, circuit-only and state-space models fitted to early checkpoints, are the right comparators. Not run. No status change.
+
+## Note of 2026-11-22: the modular-addition run, reduced
+
+LEAD-172's reduced run (CASE-tmpb4hg0) gives this question the null it asked for, in CASE-272's setting. Early in training, the network's share of input-to-output Fourier energy on the couplings the selection rule names forecasts generalization time under a held-out weight decay. It beats Fourier sparsity, test-set performance and the training kernel. Random sets of the same number of couplings forecast no better than a constant (CLAIM-tmp6rhuv).
+
+It is not the comparison the question sets. The network has no attention. The predicted change is a time, not a held-out ablation. The comparators are a feature-level measure and outcome measures, not the feature-allocation model and circuit-only descriptions fitted to the same checkpoints. What it rules out, for this case, is a coupling description that succeeds only by its number of edges. The question stays open. No status change.

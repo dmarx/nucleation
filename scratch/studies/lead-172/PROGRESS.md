@@ -40,14 +40,13 @@
   draws at both checkpoints (null median 0.34). No measure foresaw the 5
   censored arms. C2 crosses 0.5 at or after T_gen, not before.
 
+- Filed CASE-tmpb4hg0 (executed-study), CLAIM-tmp6rhuv (thesis,
+  empirical), changelog fragment, and dated notes of 2026-11-22 on
+  LEAD-172, QUESTION-275, QUESTION-217, QUESTION-360, CLAIM-698.
+
 ## Next
 
-- analyze.py: features at memorization step T_mem, single-feature linear
-  forecasts of log T_gen fitted on fit arms, scored on held-out arms;
-  null couplings at equal edge budget (20 random off-rule sets of p-1).
-- File CASE (record/cases.d/CASE-tmpb4hg0.md, scaffolded), CLAIM
-  (record/claims.d/CLAIM-tmp6rhuv.md, scaffolded; remove if not
-  warranted), notes, changelog (record/changelog.d/lead-172.md).
+- Report to the lead. Nothing else pending in this worker's scope.
 
 ## Choices
 
