@@ -30,17 +30,17 @@ corroborates:
 complements:
 - CLAIM-386
 summary: >-
-  Derived for LEAD-178 and checked with numpy from exact stationary
+  Derived for [LEAD-178](../leads.d/LEAD-178.md) and checked with numpy from exact stationary
   covariances (scratch/studies/lead-178/, 57 pytest checks; the study is
-  CASE-tmp2l6id). For linear Gaussian VAR(1) at the Barnett–Seth one-step
-  horizon it gives both results QUESTION-221 allows: a bound of order ε²
+  [CASE-tmp2l6id](../cases.d/CASE-tmp2l6id.md)). For linear Gaussian VAR(1) at the Barnett–Seth one-step
+  horizon it gives both results [QUESTION-221](../questions.d/QUESTION-221.md) allows: a bound of order ε²
   when the block's aggregate is closed under the block's own dynamics, and
   a nearly decomposable family with a floor when it is not. The longer
   horizon the question also asks for is not covered, so it bears on the
   question rather than answering it.
-  The bound's upper half, for a block's full state, is CLAIM-390's; the
+  The bound's upper half, for a block's full state, is [CLAIM-390](CLAIM-390.md)'s; the
   lower half and the aggregate are new. The closure condition for the sum
-  is CLAIM-386's equal column sums. The wording is the assistant's
+  is [CLAIM-386](CLAIM-386.md)'s equal column sums. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose quantity this bounds, nothing here rests on its being settled -->
@@ -54,8 +54,8 @@ summary: >-
 **Setting.** X_t = AX_{t−1} + e_t, A stable, e_t ~ N(0, Σ) independent,
 Σ ≻ 0, and an aggregate Y = LX with L of full row rank m, observed
 without noise. Dynamical dependence is the transfer entropy
-T(X → Y) = ½ log det Var(Y_t | Y⁻) / det Var(Y_t | X⁻) (THEORY-257,
-THEORY-733), and Var(Y_t | X⁻) = G := LΣLᵀ. Write Π for the stationary
+T(X → Y) = ½ log det Var(Y_t | Y⁻) / det Var(Y_t | X⁻) ([THEORY-257](../theory.d/THEORY-257.md),
+[THEORY-733](../theory.d/THEORY-733.md)), and Var(Y_t | X⁻) = G := LΣLᵀ. Write Π for the stationary
 covariance, Π_|L = Π − ΠLᵀ(LΠLᵀ)⁻¹LΠ = Cov(X | LX), and
 Σ_|L = Σ − ΣLᵀG⁻¹LΣ = Cov(e | Le).
 
@@ -64,7 +64,7 @@ E[Y_t | Y⁻] = LA E[X_{t−1} | Y⁻] and
 
 Var(Y_t | Y⁻) = G + LA P AᵀLᵀ, P := Cov(X_{t−1} | Y_{t−1}, Y_{t−2}, …),
 
-the steady error of the noise-free Kalman filter (CLAIM-tmplsu2m's filter).
+the steady error of the noise-free Kalman filter ([CLAIM-tmplsu2m](CLAIM-tmplsu2m.md)'s filter).
 
 **2. The sandwich.** Conditioning on more cannot enlarge a Gaussian
 conditional covariance. Adding X_{t−2}, X_{t−3}, … to the conditioning
@@ -74,19 +74,19 @@ Cov(X_{t−1} | Y_{t−1}). So Σ_|L ⪯ P ⪯ Π_|L, and since log det is monot
 ½ log det(I + G⁻¹ LA Σ_|L AᵀLᵀ) ≤ T(X → Y) ≤ ½ log det(I + G⁻¹ LA Π_|L AᵀLᵀ).
 
 The upper bound is the dependence measured with one lag of Y. With L the
-projection onto a block it is CLAIM-390's bound.
+projection onto a block it is [CLAIM-390](CLAIM-390.md)'s bound.
 
 **3. Only the closure defect enters.** LΣ_|L = 0 and LΠ_|L = 0, so LA can
 be replaced in both bounds by D = LA − BL for any m × m matrix B. The null
 space of Σ_|L is the span of Lᵀ, so the lower bound is zero iff
-LA = BL for some B. That re-derives THEORY-733's condition for VAR(1):
+LA = BL for some B. That re-derives [THEORY-733](../theory.d/THEORY-733.md)'s condition for VAR(1):
 T = 0 iff Y is closed, and otherwise T is at least the lower bound.
 
 **4. Nearly decomposable systems.** Let A = A* + εC with A* block-diagonal
 and stable, and let L be supported on one block I.
 
 - *Closed at ε = 0* (LA*_I = BL; for the plain sum, every column of A*_I
-  has the same sum, CLAIM-386's condition; for weights w, w a left
+  has the same sum, [CLAIM-386](CLAIM-386.md)'s condition; for weights w, w a left
   eigenvector of A*_I). Then D = εLC and
 
   ½ log det(I + ε² G⁻¹ LC Σ_|L CᵀLᵀ) ≤ T ≤ ½ log det(I + ε² G⁻¹ LC Π_|L(ε) CᵀLᵀ).
@@ -112,7 +112,7 @@ and stable, and let L be supported on one block I.
   of the slow mode; the transient that Simon and Ando's argument waits
   out never ends.
 
-**The check** (CASE-tmp2l6id). The sandwich held on all 600 items. With
+**The check** ([CASE-tmp2l6id](../cases.d/CASE-tmp2l6id.md)). The sandwich held on all 600 items. With
 equal column sums, T was zero to 10⁻¹⁶ at ε = 0 and T/ε² settled between
 0.026 and 0.59 by ε = 0.025, inside its two constants. With unequal sums,
 T at ε = 0 was between 6.7 × 10⁻⁴ and 0.034 nats, and T(ε) − T(0) was
@@ -126,7 +126,7 @@ bound held on 250 items, with T at most 0.14 of it.
 
 - **Not beyond one step.** The horizon is Barnett and Seth's: one step,
   given the whole past. A dependence over a longer horizon, which
-  QUESTION-221 also asks for, was not bounded.
+  [QUESTION-221](../questions.d/QUESTION-221.md) also asks for, was not bounded.
 - **Not that a block's sum is the wrong aggregate.** The floor is a
   property of the sum over a block with unequal column sums. The same
   block aggregated by its left Perron vector is closed, and its
@@ -138,5 +138,5 @@ bound held on 250 items, with T at most 0.14 of it.
 - **Not a uniform rate in the gap.** The ε² constant grows as the slow
   gap closes; the measured growth was slower than 1/gap over the range
   run, and the scalar bound's 1/(1 − ρ²) is not shown tight.
-- **Not beyond linear Gaussian VAR(1).** Markov chains (NOTE-1030's open
+- **Not beyond linear Gaussian VAR(1).** Markov chains ([NOTE-1030](../notes.d/NOTE-1030.md)'s open
   target) and nonlinear systems are untouched.

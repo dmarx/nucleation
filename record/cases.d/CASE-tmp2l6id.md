@@ -17,11 +17,11 @@ line:
 - distributed-agency
 - formal-apparatus
 summary: >-
-  Run on 2026-11-22 for LEAD-178 (scratch/studies/lead-178/, on the branch
+  Run on 2026-11-22 for [LEAD-178](../leads.d/LEAD-178.md) (scratch/studies/lead-178/, on the branch
   claude/lead-178-var1-dependence). Every number comes from exact
   stationary covariances and the steady noise-free Kalman filter, with
   numpy; nothing is simulated, and 57 pytest checks pass. It checks
-  CLAIM-tmpllgpb's two-sided bound and its consequences for nearly
+  [CLAIM-tmpllgpb](../claims.d/CLAIM-tmpllgpb.md)'s two-sided bound and its consequences for nearly
   decomposable systems. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
