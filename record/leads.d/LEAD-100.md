@@ -44,19 +44,19 @@ An order with results settles [ARG-019](../arguments.d/ARG-019.md).
 ## Note of 2026-11-22: the order defined and its results proved
 
 Carried out by a delegated worker on branch claude/lead-100-receiver-order.
-The first of the lead's two routes was taken. TERM-tmpjv1xh defines the
+The first of the lead's two routes was taken. [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md) defines the
 receiver-restricted order (usable risk over a stated rule class, every
-bounded loss, every full-support prior). CLAIM-tmp03h8w proves six results
+bounded loss, every full-support prior). [CLAIM-tmp03h8w](../claims.d/CLAIM-tmp03h8w.md) proves six results
 without the garbling theorem: a preorder; decided by inclusion of
 achievable sets and prior-free; a garbling never hurts a receiver exactly
 when the receiver can apply it itself, so the respected garblings form a
 monoid; Blackwell's ceiling; no garbling converse in general, with a strict
 reversal; and Blackwell's order, converse included, for receivers that read
-through one code. CASE-tmphabte checks them numerically
+through one code. [CASE-tmphabte](../cases.d/CASE-tmphabte.md) checks them numerically
 (scratch/studies/lead-100/).
 
 What remains: the second route (an argument that judged access tracks
-ideal informativeness) was not attempted; it is empirical and CLAIM-199's
+ideal informativeness) was not attempted; it is empirical and [CLAIM-199](../claims.d/CLAIM-199.md)'s
 defeat condition holds it. No approximate (deficiency) version was
-attempted. Whether the result settles ARG-019 is the owner's call (its note
+attempted. Whether the result settles [ARG-019](../arguments.d/ARG-019.md) is the owner's call (its note
 of this date). The status and stage are unchanged.

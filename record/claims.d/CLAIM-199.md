@@ -282,8 +282,8 @@ general converse, which stays Proposed, is not used. Quotations of
 ## Note of 2026-11-22: an order for usable information, with results
 
 "What it does not say" includes "It does not supply an order for usable
-information with results of its own." LEAD-100 filed one: TERM-tmpjv1xh,
-with results in CLAIM-tmp03h8w (Proposed), which complements this claim.
+information with results of its own." [LEAD-100](../leads.d/LEAD-100.md) filed one: [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md),
+with results in [CLAIM-tmp03h8w](CLAIM-tmp03h8w.md) (Proposed), which complements this claim.
 Its result 4 is this claim's ceiling, and its result 3 makes exact the
 gloss that garblings help a receiver "only when they do work the receiver
 cannot": some source gains from a garbling G exactly when the receiver's

@@ -211,7 +211,7 @@ subject matter. This claim undercuts the argument, and its objection to
 
 "What would answer it" names "A receiver-restricted order, with decision
 rules limited to a stated class ... so it needs its own results."
-LEAD-100 filed it: TERM-tmpjv1xh, with six results in CLAIM-tmp03h8w
+[LEAD-100](../leads.d/LEAD-100.md) filed it: [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md), with six results in [CLAIM-tmp03h8w](CLAIM-tmp03h8w.md)
 (Proposed, demonstrated). Its result 5 confirms that restricting the rules
 loses the garbling theorem: an experiment can be strictly better for a
 restricted receiver than one it is a garbling of. Which rule class real

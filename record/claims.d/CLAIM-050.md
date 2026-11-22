@@ -178,8 +178,8 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: the ceiling from the receiver's side
 
-LEAD-100 filed a receiver-restricted order, TERM-tmpjv1xh, with results in
-CLAIM-tmp03h8w (Proposed). This claim's ceiling is that order's result 4:
+[LEAD-100](../leads.d/LEAD-100.md) filed a receiver-restricted order, [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md), with results in
+[CLAIM-tmp03h8w](CLAIM-tmp03h8w.md) (Proposed). This claim's ceiling is that order's result 4:
 no receiver does better with a garbling than the unrestricted receiver does
 with the source. Restricted to this claim's family Q, the order keeps its
 preorder, respected-garbling and ceiling results. No status, title or

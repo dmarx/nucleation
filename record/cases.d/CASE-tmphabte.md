@@ -21,10 +21,10 @@ illustrates:
 - CLAIM-tmp03h8w
 - CLAIM-199
 summary: >-
-  The six results of CLAIM-tmp03h8w were checked by exact computation with
+  The six results of [CLAIM-tmp03h8w](../claims.d/CLAIM-tmp03h8w.md) were checked by exact computation with
   linear programs (scipy's HiGHS) on finite experiments, in
   scratch/studies/lead-100/ (rorder.py, run_checks.py, results.json, about
-  25 seconds on one thread). Two constructions reproduce CLAIM-199's
+  25 seconds on one thread). Two constructions reproduce [CLAIM-199](../claims.d/CLAIM-199.md)'s
   exclusive-or example on a common medium and result 5's strict reversal.
   Four batches of random instances (300, 300, 500 and 200) found no
   disagreement with results 2, 3, 4 and 6. The checks illustrate the proofs
@@ -45,7 +45,7 @@ second linear program returns a separating loss. Seeds are fixed
 
 ## Constructions
 
-- **E1, CLAIM-199's exclusive-or on one medium.** Θ = {0,1}, medium
+- **E1, [CLAIM-199](../claims.d/CLAIM-199.md)'s exclusive-or on one medium.** Θ = {0,1}, medium
   {0,1}², source x₁ a fair coin and x₂ = θ ⊕ x₁, rendering the garbling
   (x₁, x₂) ↦ (x₁ ⊕ x₂, 0). The one-coordinate receiver's risk for guessing
   θ under 0–1 loss is 0.5 with the source and 0 with the rendering; the

@@ -35,14 +35,14 @@ complements:
 bears_on:
 - QUESTION-110
 summary: >-
-  LEAD-100 asked for a receiver-restricted order with its own results, the
-  first of the two answers CLAIM-225 names and ARG-019 says would settle it.
-  TERM-tmpjv1xh defines it: experiments are compared by the best risk the
+  [LEAD-100](../leads.d/LEAD-100.md) asked for a receiver-restricted order with its own results, the
+  first of the two answers [CLAIM-225](CLAIM-225.md) names and [ARG-019](../arguments.d/ARG-019.md) says would settle it.
+  [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md) defines it: experiments are compared by the best risk the
   receiver's rule class attains, over every bounded loss and full-support
   prior. Six results are proved by elementary means, the only tools being
-  associativity of kernels, Blackwell's easy direction (THEORY-1096) and
+  associativity of kernels, Blackwell's easy direction ([THEORY-1096](../theory.d/THEORY-1096.md)) and
   separation of a point from a compact convex set. Result 3 makes exact
-  CLAIM-199's gloss that a garbling helps a receiver "only when they do
+  [CLAIM-199](CLAIM-199.md)'s gloss that a garbling helps a receiver "only when they do
   work the receiver cannot". Result 5 is what restricting the rules costs.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
@@ -53,14 +53,14 @@ summary: >-
 
 ## Setting
 
-As in TERM-tmpjv1xh: finite situations Θ with a full-support prior π, a
+As in [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md): finite situations Θ with a full-support prior π, a
 finite medium X, experiments P(x | θ), a receiver R giving for each finite
 action set A a nonempty rule set R_A with closed convex hull R̄_A, usable
 risk V_R(P; L, π), achievable sets Ach_{R,A}(P) = { Pδ : δ in R̄_A }, and
 the order P ⪰_R P'. Kernels compose as matrices: Pδ is the kernel from
 situations to actions that P followed by δ realises, and PG is P garbled by
 a kernel G on X. A garbling into another medium is a kernel on the
-disjoint union. The numerical checks of what follows are CASE-tmphabte.
+disjoint union. The numerical checks of what follows are [CASE-tmphabte](../cases.d/CASE-tmphabte.md).
 
 The risk of δ with P is the linear functional
 ℓ_{L,π}(Pδ) = Σ_θ π(θ) Σ_a (Pδ)(θ, a) L(θ, a), so
@@ -72,7 +72,7 @@ is compact.
 
 **1. A preorder.** ⪰_R is reflexive and transitive, being defined by
 inequalities between numbers for each (A, L, π). It is not antisymmetric:
-CLAIM-199's source and its exclusive-or are equivalent for the unrestricted
+[CLAIM-199](CLAIM-199.md)'s source and its exclusive-or are equivalent for the unrestricted
 receiver.
 
 **2. The achievable-set criterion, and prior-freedom.** Fix A and a
@@ -89,7 +89,7 @@ possible since π has full support. Then V_R(P'; L, π) ≤ ℓ_{L,π}(M') <
 V_R(P; L, π). The criterion does not mention π. ∎
 
 This is the receiver's counterpart of Blackwell's definition by attainable
-risk vectors (THEORY-1096), and it is proved by a separation argument,
+risk vectors ([THEORY-1096](../theory.d/THEORY-1096.md)), and it is proved by a separation argument,
 not by the garbling theorem.
 
 **3. The garblings a receiver respects.** Say R respects a garbling G on X
@@ -113,19 +113,19 @@ so G₁G₂δ = G₁(G₂δ) is in R̄_A. ∎
 
 So a rendering made without the situation can raise some receiver's usable
 risk on some source exactly when it is a garbling the receiver cannot carry
-out itself. This makes exact CLAIM-199's gloss that garblings "help a
+out itself. This makes exact [CLAIM-199](CLAIM-199.md)'s gloss that garblings "help a
 receiver only when they do work the receiver cannot": the gain is possible
 for G exactly when G is outside Mon(R). It does not say the gain occurs for
-a given source, nor who gains most (CASE-062's reversal is untouched).
+a given source, nor who gains most ([CASE-062](../cases.d/CASE-062.md)'s reversal is untouched).
 
 **4. The ceiling.** If P' = PK for any kernel K, then for every receiver R,
 every L and π, V_R(P'; L, π) ≥ V_all(P; L, π), the unrestricted receiver's
 risk with P.
 
 *Proof.* V_R(P') ≥ V_all(P') since R̄_A is within all rules, and V_all(P')
-≥ V_all(P) by Blackwell's easy direction (THEORY-1096). ∎
+≥ V_all(P) by Blackwell's easy direction ([THEORY-1096](../theory.d/THEORY-1096.md)). ∎
 
-This is CLAIM-199's ceiling, now a result about the order: Blackwell's
+This is [CLAIM-199](CLAIM-199.md)'s ceiling, now a result about the order: Blackwell's
 order bounds ⪰_R from outside without deciding it.
 
 **5. No garbling theorem.** There are a receiver R and experiments P, P'
@@ -136,7 +136,7 @@ of nested receiver classes are not nested.
 
 *Construction.* Θ = {0, 1} uniform, medium X = {0, 1}², and R the receiver
 whose rules read one coordinate (the union of the two classes that factor
-through a coordinate). P' is CLAIM-199's source: x₁ a fair coin and
+through a coordinate). P' is [CLAIM-199](CLAIM-199.md)'s source: x₁ a fair coin and
 x₂ = θ ⊕ x₁. P reports x₁ = θ with probability 0.9 and draws x₂ as an
 independent fair coin. Under R each coordinate of P' is independent of θ,
 so Ach_{R,A}(P') holds only kernels constant in θ, all of which R attains
@@ -165,22 +165,22 @@ receivers, and the union loses the converse.
 
 ## What it changes
 
-- CLAIM-225's first answer is supplied: "A receiver-restricted order, with
+- [CLAIM-225](CLAIM-225.md)'s first answer is supplied: "A receiver-restricted order, with
   decision rules limited to a stated class ... so it needs its own
   results." It has them, and result 5 shows that the loss of Blackwell's
   garbling theorem is real, not a gap in the proofs.
-- ARG-019's open point moves. The order the line's receiver standard needs
+- [ARG-019](../arguments.d/ARG-019.md)'s open point moves. The order the line's receiver standard needs
   now exists with results; what is missing is which rule class real
-  receivers have, which CLAIM-199 already says it does not say. Whether
-  this settles ARG-019 is the owner's call; its dated note of 2026-11-22
+  receivers have, which [CLAIM-199](CLAIM-199.md) already says it does not say. Whether
+  this settles [ARG-019](../arguments.d/ARG-019.md) is the owner's call; its dated note of 2026-11-22
   sets out the readings.
-- CLAIM-087's improvement, if it occurs, is a garbling outside Mon(R) for
+- [CLAIM-087](CLAIM-087.md)'s improvement, if it occurs, is a garbling outside Mon(R) for
   the receivers' class (result 3), bounded by result 4.
-- CLAIM-050's ceiling is result 4 seen from the receiver's side, and its
+- [CLAIM-050](CLAIM-050.md)'s ceiling is result 4 seen from the receiver's side, and its
   family Q gives ⪰_{R,Q}, for which results 1, 3(a), 3(c) and 4 hold as
   stated. Result 2 holds for Q only when Q contains every loss on an action
   set, and results 3(b) and 6 use such losses.
-- CLAIM-455's task-relativity concerns one task at a time; this order
+- [CLAIM-455](CLAIM-455.md)'s task-relativity concerns one task at a time; this order
   quantifies over every task, so it complements that claim and does not
   replace it.
 
@@ -189,8 +189,8 @@ receivers, and the union loses the converse.
 - It does not say which rule class any real receiver has, or that the
   classes of result 6 fit readers.
 - It gives no approximate version (a receiver-restricted deficiency), and
-  no cost of recovery, so QUESTION-110 stays open.
+  no cost of recovery, so [QUESTION-110](../questions.d/QUESTION-110.md) stays open.
 - The results are for finite media and full-support priors. Results 1, 3(a)
-  and 4 carry over to general spaces with THEORY-1096's measure-theoretic
+  and 4 carry over to general spaces with [THEORY-1096](../theory.d/THEORY-1096.md)'s measure-theoretic
   care; results 2, 3(b) and 6 use finite-dimensional separation and were
   not checked beyond it.
