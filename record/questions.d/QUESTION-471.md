@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp9n1ac
 title: 'How can a record of inquiry that automates the incorporation of new material keep the speed of incorporation from outrunning its capacity to evaluate what it incorporates, and which of its checks are points at which an incorporation can still be stopped rather than reviewed after it has taken effect?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-16'
@@ -18,6 +18,10 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: Bovens and Zouridis (LIT-2661) read on 2026-11-16, NOTE-2030. No change of status or title.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Frischmann and Benesch (LIT-tmpjbd64) registered and read on 2026-11-22 for LEAD-152, NOTE-tmpyjyrt. No change of status or title.
 tags:
 - design-rationale
 - epistemology
@@ -98,3 +102,8 @@ The poster's problem, frictionless interfaces inviting uncritical acceptance of 
 §7's observation that the move to system-level bureaucracy was insidious and never debated, and §6.1's
 informatization review before new rules are digitized, are the institutional analogue of this question's
 concern: automation of incorporation outrunning evaluation, and checks placed before it. Relation: bears_on.
+
+## Note of 2026-11-22: Frischmann and Benesch, read
+<!-- inactive-ok-file: THEORY-tmp2j2zm — new of 2026-11-22, Proposed; the account filed from the reading for LEAD-152 -->
+
+Frischmann and Benesch (LIT-tmpjbd64, NOTE-tmpyjyrt, THEORY-tmp2j2zm) report a distinction this question asks for: friction that only adds a cost to passage (a speed bump, a delay) against friction that blocks passage until a condition is shown (a checkpoint, a CAPTCHA), which alone creates a "governance seam" (p. 405 n. 89, quoting Frischmann and Ohm). In the question's terms, a check of the second kind is a point at which an incorporation can still be stopped; a delay is one only if someone uses the time to act. Their measures aim at one person's deliberation, so they say nothing on how a record's checks keep pace with its incorporation. Relation: THEORY-tmp2j2zm `bears_on` this question.

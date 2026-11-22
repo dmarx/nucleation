@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmp238zy
 status: Proposed
 title: 'Friction that makes the people in a process think before accepting an output differs from friction that makes the institution answerable to their objections, so a system can make individuals think harder while leaving the institution''s authority untouched, and the added scrutiny can then serve as evidence that the individuals owned decisions whose conditions they could not change'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -16,6 +16,10 @@ history:
     agentic A.I. (2026), read in part, states as regulatory doctrine
     that an approval step is oversight only with authority to reject,
     which corroborates the claim.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Frischmann and Benesch (LIT-tmpjbd64) registered and read on 2026-11-22 for LEAD-152, NOTE-tmpyjyrt. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -139,3 +143,8 @@ Natali, Naiseh, Cabitza and Frischmann 2025, read ([NOTE-2033](../notes.d/NOTE-2
 <!-- inactive-ok-file: THEORY-1931 — new reading (Skimmed) and theory of 2026-11-18, Proposed -->
 
 HKMA 2026, read in part ([NOTE-2018](../notes.d/NOTE-2018.md), [THEORY-1931](../theory.d/THEORY-1931.md)): a regulator separates scrutiny from authority to act on it, which corroborates the claim independently ([THEORY-1931](../theory.d/THEORY-1931.md) carries `corroborates`). "A formal approval step is not, by itself, meaningful human oversight. Approval is meaningful only where the approver sees the substance of the action, has the authority and practical ability to challenge or reject it, regards rejection as a legitimate outcome, and has sufficient time to make an informed decision before the action takes effect" (p. 37). It also refuses to let sign-off move accountability: "A move from individual human approval towards monitoring-based oversight should not reduce the AI's accountability" (p. 27; "AI" there means the authorized bank). The answerability it secures is the bank's to the regulator and customers; customers may request review but cannot suspend. A non-binding discussion paper. No status changes.
+
+## Note of 2026-11-22: Frischmann and Benesch, read
+<!-- inactive-ok-file: THEORY-tmp2j2zm — new of 2026-11-22, Proposed; the account filed from the reading for LEAD-152 -->
+
+Frischmann and Benesch (LIT-tmpjbd64, NOTE-tmpyjyrt) corroborate the premise from the regulatory side. They propose that the state require friction of platforms, and the friction they would require acts almost entirely on users' thinking: delays that give time to "stop and think" (p. 388), alerts, comprehension checks and prompts before sharing (pp. 442–43). None gives users a way to stop or redirect the platform; who decides enters only as the last parameter of their framework, "Governance" (p. 402), meaning who deploys the friction. So the cognitive friction this claim separates from answerability is what even state-imposed friction-in-design would supply. THEORY-tmp2j2zm carries `corroborates`. No status changes.
