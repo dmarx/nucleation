@@ -115,7 +115,7 @@ intermediates is measured.
 
 No status changes.
 
-## Note of 2026-11-22: run, as the stochastic-assembly half of CASE-tmpndpz3
+## Note of 2026-11-22: run, as the stochastic-assembly half of [CASE-tmpndpz3](CASE-tmpndpz3.md)
 
 Carried out under [LEAD-116](../leads.d/LEAD-116.md). [CASE-tmpndpz3](CASE-tmpndpz3.md) builds a stochastic
 assembly Markov chain of the kind this study proposes, with a target held
