@@ -1,6 +1,6 @@
 # LEAD-048 tables
 
-1060 cells of 64 seeds.
+1728 cells of 64 seeds.
 
 ## Reference apparatus by injury
 
@@ -82,7 +82,7 @@ Natural branch: S1∧S2 / 64 (S2|S1 in brackets); matched branch: S2 / 64.
 | G_partial | 64 [64/64] | 64 | 64 [64/64] | 64 | 64 [64/64] | 64 | 64 [64/64] | 64 | 0 [0/64] | 0 | 0 [0/63] | 0 |
 | producer_interrupt | 64 [64/64] | 64 | 64 [64/64] | 64 | 64 [64/64] | 64 | 64 [64/64] | 64 | 64 [64/64] | 64 | 52 [52/64] | 63 |
 | internal_producer | 64 [64/64] | 64 | 62 [62/64] | 60 | 64 [64/64] | 64 | 64 [64/64] | 64 | 64 [64/64] | 64 | 56 [56/64] | 61 |
-| double | 0 [0/64] | 0 | 0 [0/64] | 0 | 64 [64/64] | 64 | 64 [64/64] | 64 | 0 [0/63] | 0 | 0 [0/64] | · |
+| double | 0 [0/64] | 0 | 0 [0/64] | 0 | 64 [64/64] | 64 | 64 [64/64] | 64 | 0 [0/63] | 0 | 0 [0/64] | 0 |
 
 ### admission protected, scoring independent, self-check off, fuel tight
 
@@ -116,16 +116,16 @@ S1 / 64; S1∧S2 / 64; matched-branch S2 / 64 (in-family, out-of-family).
 | reciprocal | selective | ipw | 63 | 63 | 63 | 64 | 64 |
 | external | protected | independent | 64 | 64 | 64 | 64 | 64 |
 | external | protected | captured | 6 | 0 | 0 | 11 | 0 |
-| external | protected | ipw | · | · | · | · | · |
-| external | selective | independent | · | · | · | · | · |
-| external | selective | captured | · | · | · | · | · |
-| external | selective | ipw | · | · | · | · | · |
+| external | protected | ipw | 64 | 64 | 64 | 64 | 64 |
+| external | selective | independent | 0 | 0 | 0 | 1 | 0 |
+| external | selective | captured | 0 | 0 | 0 | 0 | 0 |
+| external | selective | ipw | 64 | 64 | 64 | 62 | 63 |
 | none | protected | independent | 63 | 63 | 53 | 64 | 63 |
-| none | protected | captured | · | · | · | · | · |
-| none | protected | ipw | · | · | · | · | · |
-| none | selective | independent | · | · | · | · | · |
-| none | selective | captured | · | · | · | · | · |
-| none | selective | ipw | · | · | · | · | · |
+| none | protected | captured | 1 | 1 | 0 | 11 | 0 |
+| none | protected | ipw | 64 | 64 | 56 | 64 | 61 |
+| none | selective | independent | 1 | 0 | 0 | 2 | 0 |
+| none | selective | captured | 0 | 0 | 0 | 0 | 0 |
+| none | selective | ipw | 60 | 59 | 50 | 60 | 60 |
 
 ### Self-flagging of a damaged apparatus (matched branch, in-family, ample fuel)
 
@@ -141,16 +141,16 @@ Flagged its own apparatus before acting on its output / 64; median delay in step
 | reciprocal | selective | ipw | 64 (0.0) | 0 (None) | 64 (0.0) |
 | external | protected | independent | 64 (0.0) | 64 (0.0) | 64 (0.0) |
 | external | protected | captured | 64 (0.0) | 64 (0.0) | 64 (0.0) |
-| external | protected | ipw | · | · | · |
-| external | selective | independent | · | · | · |
-| external | selective | captured | · | · | · |
-| external | selective | ipw | · | · | · |
+| external | protected | ipw | 64 (0.0) | 64 (0.0) | 64 (0.0) |
+| external | selective | independent | 64 (0.0) | 0 (None) | 64 (0.0) |
+| external | selective | captured | 64 (0.0) | 0 (None) | 64 (0.0) |
+| external | selective | ipw | 64 (0.0) | 0 (None) | 64 (0.0) |
 | none | protected | independent | 64 (0.0) | 64 (0.0) | 64 (0.0) |
-| none | protected | captured | · | · | · |
-| none | protected | ipw | · | · | · |
-| none | selective | independent | · | · | · |
-| none | selective | captured | · | · | · |
-| none | selective | ipw | · | · | · |
+| none | protected | captured | 64 (0.0) | 64 (0.0) | 64 (0.0) |
+| none | protected | ipw | 64 (0.0) | 64 (0.0) | 64 (0.0) |
+| none | selective | independent | 64 (0.0) | 0 (None) | 64 (0.0) |
+| none | selective | captured | 64 (0.0) | 0 (None) | 64 (0.0) |
+| none | selective | ipw | 64 (0.0) | 0 (None) | 64 (0.0) |
 
 ### Secondary, reference apparatus, matched branch, in-family, self-check on
 
