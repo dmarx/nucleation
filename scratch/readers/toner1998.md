@@ -145,3 +145,158 @@ dynamical renormalization group; roughness, anisotropy and dynamic
 exponents χ, ζ, z; pseudo-Galilean invariance; sound modes with
 anisotropic speeds; giant density fluctuations (divergent structure
 factor); hyperdiffusion; fixed line; easy-plane anisotropy.
+
+## Step 3: verdict on the exchange's characterization
+
+As held in LIT-2970's summary, CLAIM-841's table row and THEORY-1085's
+note of 2026-11-21 (A26 §4, A27 §7):
+
+- "active self-propelled particles in two dimensions can have true
+  long-range order": **correct** (result 1), with the qualification that
+  it is shown for the posited continuum model, and its exactness rests on
+  result 5's steps.
+- "with giant number fluctuations", "ΔN ∝ ⟨N⟩^φ with φ > ½": **right in
+  substance, not in form.** The paper predicts density fluctuations
+  "infinitely bigger than those in a fluid or an ideal gas" as a
+  structure factor Cρ(q) that diverges as q → 0 (result 6). It never
+  writes ΔN ∝ ⟨N⟩^φ, an exponent φ, or the phrase "giant number
+  fluctuations" (searched). The ΔN form is a later restatement, not read
+  here; do not cite LIT-2970 for that formula.
+- "some initially predicted exponents differ from those obtained in
+  large-scale simulations": **not in this paper.** It calls the d = 2
+  exponents "exact and universal" and reports "good agreement" (result 14).
+  Any revision is later work, not read.
+- "In certain active systems, scaling is a property of the phase itself":
+  **supported**, and more sharply than the exchange put it: the paper
+  separates ordered-phase scaling from the order–disorder fixed point
+  (result 10).
+- The paper never uses the words "active matter" (searched); "flocks",
+  "self-propelled organisms".
+
+## Bearing on the named codes
+
+- **CLAIM-841** (power law ≠ criticality): **supports** its "ordered active
+  matter" row. Anomalous scaling (χ, ζ, z; divergent Cρ(q)) holds through
+  the ordered phase, "the low temperature fixed point", distinct from the
+  transition's fixed point (result 10, p. 64). Also supports the
+  folded-in "A symmetry can protect scale-free fluctuations, and
+  explicitly breaking that symmetry can introduce a characteristic scale"
+  (A27 §6): the compass "mass" (result 11, p. 63). And it qualifies the
+  "Line of fixed points (2D XY)" row: a fixed line need not mean
+  quasi-long-range order (result 12, p. 52, offered only as one of three
+  possibilities). Correct the row's formula and citation as above.
+- **THEORY-1085** (1995 reading, Active): **supports** and extends. The
+  slaving of δv∥ (eqs. 3.1–3.2, p. 19: δv∥ = −Dρ ∂∥δρ, by neglecting
+  ∂tδv∥ "relative to αδv∥") matches its "eliminated degree of freedom".
+  **Correction to its "What this does not say":** the 1998 paper does use
+  "Goldstone modes" (result 7). The paper's universality claim is still
+  posited, not derived from a rule (p. 18), as THEORY-1085 says of 1995.
+- **THEORY-1095** (1995, Proposed; not named in the brief, found by grep):
+  **qualifies.** Its two unproved steps (a cubic vertex staying
+  irrelevant; z < 2 "on physical grounds") are not the 1998 argument; no
+  "cubic" found. The 1998 d = 2 argument (result 5) needs instead: L–T
+  cross terms negligible, the "highly probable" flow to the type II fixed
+  point, and only λ1, λ2, σ2 among nonlinearities. Reader's observation,
+  not the paper's: eq. (5.8) gives γn = n + (1 − n)d/2 = 1 for every n in
+  d = 2, so every σn(δρ)^n pressure term is relevant by power counting
+  there; they are ⊥ gradients, so the unrenormalization of ∆ and D∥
+  survives, but the type I/II analysis treats σ2 alone. THEORY-1095's
+  promote_when stands; it should cite the 1998 argument too.
+- **CLAIM-842** (Mermin–Wagner on a learned graph, supposed): **parallel /
+  contrast, and qualifies its scope.** The paper's linear theory has
+  exactly CLAIM-842's divergence ("diverges logarithmically in the
+  infra-red" in d = 2, p. 27), and the nonlinear, non-equilibrium theory
+  removes it (results 1–3). So the d ≤ 2 criterion is a theorem of the
+  Gaussian, equilibrium-like premise, not of the geometry alone; this
+  backs CLAIM-842's own "Equilibrium" caveat with a worked case where
+  relaxing it reverses the conclusion. The mechanism (convective
+  transport that changes who interacts with whom) has no stated analogue
+  in a training process.
+- **CLAIM-798** (active-matter reading of representations): **supports**
+  its last clause, that the flocking observable is velocity alignment: the
+  order parameter is ⟨v⟩, "precisely analogous to the order parameter ⟨s⟩
+  in a ferromagnetic system" (p. 6, eqs. 1.1–1.2). Also background for its
+  "strong model": what makes a flock non-equilibrium here is self-
+  propulsion through a medium, no Galilean invariance, no momentum
+  conservation (result 13), and convection. Bears on nothing about
+  networks.
+- **QUESTION-515**: **background.** Names what an active-matter model
+  would have to carry over (rotation-invariant self-propulsion, a
+  conserved density, convection); says nothing about representations.
+
+## Recheck (grep for what the reading surfaced)
+
+Searched record/ for Goldstone, hyperdiffus*, Mermin, Galilean, dynamical
+renormali*, fixed line / line of fixed points, structure factor,
+self-propelled, sound mode, upper critical dimension. Entries the first
+search (by the brief's codes) missed:
+
+- **THEORY-1095** (Proposed): qualifies, as above.
+- **QUESTION-508** (Open; why scale invariance without tuning): **bears
+  on, partial answer for flocks.** The paper's answer is symmetry plus
+  conservation: rotation invariance forbids a mass for v⊥ (a compass
+  restores one, p. 63), and number conservation makes δρ slow; the RG
+  fixed point is reached without tuning, deep in the ordered phase
+  (p. 64). Matches A's "Symmetry removes the restoring term" bullet.
+- **LEAD-209** (Open; protocol incl. response to a symmetry-breaking
+  field): **supports** the row "a small symmetry-breaking field μ ... opens
+  a gap" for the flock case (p. 63), and supplies measurable observables
+  (Cρ(q), Cρ(q, ω) peak widths and heights, w²(t); §VII, pp. 62–70).
+- **CLAIM-478** (Proposed; rate differences make constraints): **supports**,
+  via the δv∥ slaving (p. 19), as THEORY-1085 already records for 1995.
+- **CLAIM-846** (Proposed; scale-free correlations without heavy-tailed
+  marginals): **parallel.** The flock's scale-free content is in
+  correlation functions and structure factors, not in a distribution.
+- **TERM-139** (relevant/irrelevant/marginal): background; the paper uses
+  the terms in exactly that sense (pp. 18, 29).
+- LIT-1670 / NOTE-1228 (the 1995 PRL): the predecessor; the 1998 paper
+  says "in d = 2, the results of [4] are sound" (p. 11).
+- No hit for "structure factor" or "upper critical dimension". Not
+  relevant on inspection: LIT-2789 / NOTE-2134 (topological active
+  matter, no Toner–Tu passage), LIT-638 / THEORY-088 (cortical waves).
+
+## Limitations
+
+- The equations are posited from symmetry, not derived from Vicsek's or
+  any rule; the bridge is the universality hypothesis.
+- d = 2 exactness rests on argued, not computed, steps (result 5); d > 2
+  is undetermined by the authors' own account (p. 12).
+- Simulations of 1998 are cited ([12]) but not shown; the paper does not
+  report disagreement, and later revisions are outside it.
+- Scaling functions fv, fρ, f± not calculated ("alas", pp. 7, 9).
+- Bulk only: no open boundaries, no transition, no defects (§VIII).
+- Reader's limits: §V.B's algebra and §VI skimmed; figures not viewed.
+
+## Candidate THEORY
+
+Sentence: "In Toner and Tu's continuum theory of flocking, the ordered
+phase of a rotation-invariant, number-conserving flock without Galilean
+invariance has anomalous scaling throughout the phase, not only at its
+transition: below four dimensions convective nonlinearities replace
+diffusive transport, so that the long-range orientational order the
+linearized theory loses in two dimensions, as at equilibrium, survives,
+with exponents z = 6/5, ζ = 3/5, χ = −1/5 argued to be exact there, and
+density fluctuations whose structure factor diverges as q → 0, unlike
+any equilibrium fluid's; an explicit preferred direction removes the
+anomalous fluctuations."
+
+promote_when: "A controlled calculation or finite-size simulation of a
+Vicsek-class model in d = 2, well below the order–disorder transition,
+showing (a) ⟨|v⊥|²⟩ bounded as the system grows and (b) Cρ(q) growing
+without bound as q → 0 in the ordered phase; the exactness of the three
+exponents is not required for promotion and should be held separately
+(cf. THEORY-1095)."
+
+(Alternative, if the filer prefers to keep the 1995 readings narrow: file
+only the d = 2 argument of result 5 as a revision note on THEORY-1095 and
+the density-fluctuation and ordered-phase-vs-transition results as this
+work's THEORY.)
+
+## Copies located (final)
+
+- https://arxiv.org/pdf/cond-mat/9804180 — arXiv preprint, PDF, read
+  2026-11-22, no obstacle. Lawful (arXiv).
+- doi:10.1103/PhysRevE.58.4828 — publisher version, not sought.
+No neighbours were needed or read. No other work was read or quoted;
+refs [4], [5], [12] are named from the paper's bibliography only.
+No email address was sent anywhere.
