@@ -19,12 +19,12 @@ illustrates:
 draws_on:
 - THEORY-753
 summary: >-
-  Run on 2026-11-22 for LEAD-039 (scratch/studies/lead-039/, on the branch
+  Run on 2026-11-22 for [LEAD-039](../leads.d/LEAD-039.md) (scratch/studies/lead-039/, on the branch
   claude/lead-039-ib-nesting), with numpy and scipy; six pytest checks
-  pass, one of them reproducing CLAIM-392's optima and failed hull test.
-  It checks CLAIM-tmp8xj7x on random two-row sources, measures how often
+  pass, one of them reproducing [CLAIM-392](../claims.d/CLAIM-392.md)'s optima and failed hull test.
+  It checks [CLAIM-tmp8xj7x](../claims.d/CLAIM-tmp8xj7x.md) on random two-row sources, measures how often
   three-row sources fail to nest, and checks the tensorization step of
-  CLAIM-tmplxbtx. The optima are exact on the grid and not certified
+  [CLAIM-tmplxbtx](../claims.d/CLAIM-tmplxbtx.md). The optima are exact on the grid and not certified
   unique, so the failure counts are evidence, not proofs. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
@@ -36,14 +36,14 @@ summary: >-
 ## The case
 
 **Method.** A Lagrangian optimum at β is a decomposition of p(X) on the
-lower convex envelope of F_β(r) = H(κᵀr) − H(r)/β (THEORY-753, step 5).
+lower convex envelope of F_β(r) = H(κᵀr) − H(r)/β ([THEORY-753](../theory.d/THEORY-753.md), step 5).
 On a grid of the simplex of X, the envelope is the lower hull of the lifted
 grid points (scipy's Qhull; a monotone chain in one dimension), and the
 facet containing p(X) gives the decoder points. Nesting between two optima
-is THEORY-753's hull test, here the L1 distance of the coarse decoder
-points from the fine hull, by linear programming. On CLAIM-387's source,
+is [THEORY-753](../theory.d/THEORY-753.md)'s hull test, here the L1 distance of the coarse decoder
+points from the fine hull, by linear programming. On [CLAIM-387](../claims.d/CLAIM-387.md)'s source,
 reduced to its three distinct rows, the grid of spacing 1/240 reproduces
-CLAIM-392's figures (I(X; T) = 0.546 and 0.952 bits, I(T; Y) = 0.097 and
+[CLAIM-392](../claims.d/CLAIM-392.md)'s figures (I(X; T) = 0.546 and 0.952 bits, I(T; Y) = 0.097 and
 0.139 bits at β = 8 and 12) and its failed test.
 
 **Results** (scratch/studies/lead-039/results.md):
@@ -54,7 +54,7 @@ CLAIM-392's figures (I(X; T) = 0.546 and 0.952 bits, I(T; Y) = 0.097 and
    The decoder interval at each β contained the one before it on every
    source, with largest violation 0 (tolerance two grid steps). On average
    27.7 of the 40 values of β had a nontrivial optimum. This is what
-   CLAIM-tmp8xj7x predicts. The concavity of φ on which it rests held on
+   [CLAIM-tmp8xj7x](../claims.d/CLAIM-tmp8xj7x.md) predicts. The concavity of φ on which it rests held on
    200 random channels of two to six outputs, in the test suite.
 2. **Three distinct rows (S2).** 150 random sources, p(X) from
    Dirichlet(2), rows from Dirichlet(0.7), half with binary Y and half
@@ -78,7 +78,7 @@ CLAIM-392's figures (I(X; T) = 0.546 and 0.952 bits, I(T; Y) = 0.097 and
    of 1/40 of the three-dimensional simplex. The grid envelope at p(X)
    minus the sum of the factors' envelopes (each on a grid of 1/4000)
    ranged from −2 × 10⁻¹⁶ to 1.9 × 10⁻³: never below, as the
-   tensorization in CLAIM-tmplxbtx requires, and within the coarse grid's
+   tensorization in [CLAIM-tmplxbtx](../claims.d/CLAIM-tmplxbtx.md) requires, and within the coarse grid's
    error above.
 
 ## What it shows and does not
@@ -88,11 +88,11 @@ CLAIM-392's figures (I(X; T) = 0.546 and 0.952 bits, I(T; Y) = 0.097 and
 - **Failure with three rows is common, not exotic.** Between a fifth and
   a third of random three-row sources showed a clear failure between
   consecutive budgets on this coarse grid of β, mostly at nearby budgets,
-  as CLAIM-392's reader found. This is why the structural condition stops
+  as [CLAIM-392](../claims.d/CLAIM-392.md)'s reader found. This is why the structural condition stops
   at two rows or products.
 - **Not certified.** The optima are grid-exact, not proved globally
-  unique as CLAIM-392's are, and a failure below about 0.01 is within grid
+  unique as [CLAIM-392](../claims.d/CLAIM-392.md)'s are, and a failure below about 0.01 is within grid
   error. A source counted as never failing was checked only at 16 values
   of β.
 - The size of the loss in the failing sources was not computed.
-  CLAIM-tmpzohh5 bounds it.
+  [CLAIM-tmpzohh5](../claims.d/CLAIM-tmpzohh5.md) bounds it.

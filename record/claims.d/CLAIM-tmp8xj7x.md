@@ -28,13 +28,13 @@ grounds:
 complements:
 - CLAIM-tmplxbtx
 summary: >-
-  Derived for LEAD-039 and checked numerically (scratch/studies/lead-039/;
-  the study is CASE-tmpo9u3y). It widens the binary case of THEORY-757
+  Derived for [LEAD-039](../leads.d/LEAD-039.md) and checked numerically (scratch/studies/lead-039/;
+  the study is [CASE-tmpo9u3y](../cases.d/CASE-tmpo9u3y.md)). It widens the binary case of [THEORY-757](../theory.d/THEORY-757.md)
   from X and Y both binary to any source whose causal partition has two
   cells, with Y of any finite size: the one step of that proof that used
   binary Y, that F_β is non-convex on a single interval, holds because a
   sum of harmonic-mean terms is concave. It is a structural condition on
-  P(X, Y) of the kind QUESTION-220 asks for, and CLAIM-387's source shows
+  P(X, Y) of the kind [QUESTION-220](../questions.d/QUESTION-220.md) asks for, and [CLAIM-387](CLAIM-387.md)'s source shows
   it is sharp in the number of distinct rows: three rows with binary Y can
   fail. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -46,7 +46,7 @@ summary: >-
 ## The claim
 
 **Setting.** X and Y finite, p(x) > 0. Bottlenecks, decoder points and
-(λ₁, λ₂)-refinability are as in THEORY-753. Suppose the rows p(·|x) take
+(λ₁, λ₂)-refinability are as in [THEORY-753](../theory.d/THEORY-753.md). Suppose the rows p(·|x) take
 exactly two distinct values a ≠ b in Δ_Y. (One value means I(X; Y) = 0 and
 every bottleneck is trivial.) Y may have any finite number of values.
 
@@ -59,12 +59,12 @@ X → T₂ → T₁.
 **0. Reduce to binary X.** Let C ∈ {0, 1} be the cell of x (C = 1 where
 p(·|x) = b), with P(C = 1) = p ∈ (0, 1). Averaging an encoder's rows within
 each cell leaves the law of (T, Y) unchanged and does not raise I(X; T)
-(THEORY-743, step 1). So the information curve of (X, Y) is that of (C, Y),
+([THEORY-743](../theory.d/THEORY-743.md), step 1). So the information curve of (X, Y) is that of (C, Y),
 and an encoder of C, composed with x ↦ C(x), is an encoder of X with the
 same two informations. A chain C → T₂ → T₁ for (C, Y) composes to
 X → T₂ → T₁. It is enough to prove the theorem for (C, Y).
 
-**1. The curvature of F_β.** As in THEORY-757, write r = P(C = 1) for a
+**1. The curvature of F_β.** As in [THEORY-757](../theory.d/THEORY-757.md), write r = P(C = 1) for a
 point of Δ_C = [0, 1], s(r) = (1 − r)a + rb ∈ Δ_Y, Δ = b − a, and
 F_β(r) = H(s(r)) − h(r)/β in nats. Let Y⁺ = {y : Δ_y ≠ 0}; for y ∈ Y⁺,
 s_y(r) > 0 on (0, 1). Then on (0, 1)
@@ -86,14 +86,14 @@ m = Σ_{a_y = b_y} a_y the mass the rows share, φ ≡ 1 − m. Then F_{β} with
 H(Y|T) − (1 − m)H(C|T) = H(Y) − (1 − m)H(C), that is,
 I(Y; T) = (1 − m) I(C; T): Y is C erased with probability m. Every encoder
 of C at budget λ ≤ H(C) with I(C; T) = λ is a bottleneck, and the erasures
-of C (THEORY-757, case 1) nest at every pair of budgets.
+of C ([THEORY-757](../theory.d/THEORY-757.md), case 1) nest at every pair of budgets.
 
 **3. Otherwise the non-convex region is one interval.** If φ is not affine
 it is not constant, so for each β the set {φ = 1/β} is finite and
 J_β = {φ > 1/β}, the set where F_β″ < 0, is an open interval, possibly
 empty, as a strict upper level set of a concave function. F_β″ ≥ 0 off J_β
 with finitely many zeros, so F_β is strictly convex on each interval
-disjoint from J_β. These are exactly the facts that THEORY-757's steps c
+disjoint from J_β. These are exactly the facts that [THEORY-757](../theory.d/THEORY-757.md)'s steps c
 and d draw from its quadratic g. Its steps c to f then go through
 unchanged:
 - the set P(β) where F_β exceeds its lower convex envelope is a single open
@@ -105,38 +105,38 @@ unchanged:
 
 **4. Budgets.** For 0 < λ < H(C) the information curve has a supporting
 line of slope 1/β at λ, any bottleneck at λ minimizes the Lagrangian at β,
-and λ₁ < λ₂ gives β₁ ≤ β₂ (THEORY-757, step a). By step 3 the minimizer at
+and λ₁ < λ₂ gives β₁ ≤ β₂ ([THEORY-757](../theory.d/THEORY-757.md), step a). By step 3 the minimizer at
 β is unique, so the bottleneck at λ is the canonical optimum at β, and
 [u_{β₁}, v_{β₁}] ⊆ [u_{β₂}, v_{β₂}]. The fine decoder points are two distinct
-points, hence affinely independent, so THEORY-753 step 4 gives the chain.
+points, hence affinely independent, so [THEORY-753](../theory.d/THEORY-753.md) step 4 gives the chain.
 If λ₁ = 0, the trivial encoder is a garbling of anything. If λ₂ ≥ H(C),
 take T₂ = C, which attains I(C; Y), and any bottleneck T₁ of (C, Y) at λ₁:
 it is an encoder of C, hence a garbling of T₂. ∎
 
 ## What it adds, and what it does not say
 
-- **Beyond THEORY-757.** That entry's case 2 needs X and Y both binary.
+- **Beyond [THEORY-757](../theory.d/THEORY-757.md).** That entry's case 2 needs X and Y both binary.
   Here Y is any finite alphabet, and X any finite alphabet whose rows of
   p(Y|x) take two values. The binary case is the instance |Y| = 2, where
-  φ's concavity is THEORY-757's quadratic g. Whether Charvin, Catenacci
+  φ's concavity is [THEORY-757](../theory.d/THEORY-757.md)'s quadratic g. Whether Charvin, Catenacci
   Volpi and Polani or later work already state this extension was not
-  checked: the record's reading of the paper (NOTE-981) gives only the
+  checked: the record's reading of the paper ([NOTE-981](../notes.d/NOTE-981.md)) gives only the
   binary case.
-- **Sharp in the number of rows.** CLAIM-392's source has three distinct
+- **Sharp in the number of rows.** [CLAIM-392](CLAIM-392.md)'s source has three distinct
   rows and binary Y, and its optima at β = 8 and 12 do not nest. So no
   condition on the size of Y alone, and no bound above two on the number
-  of rows, suffices. CASE-tmpo9u3y finds failures common among random
+  of rows, suffices. [CASE-tmpo9u3y](../cases.d/CASE-tmpo9u3y.md) finds failures common among random
   three-row sources (uncertified).
 - **Why two rows is special.** With two cells the decoder points live on a
   line through p(C), and the hull of an optimum is an interval around p(C)
   that can only grow. With three cells the decoder points live in a plane,
   and the non-convex region growing (step 3's last point, which holds in
   any dimension) does not stop the segment or triangle through p(X) from
-  rotating, which is how CASE-tmpo9u3y's failures look.
-- **Not more than two stages.** As in THEORY-757, the chain is proved for
+  rotating, which is how [CASE-tmpo9u3y](../cases.d/CASE-tmpo9u3y.md)'s failures look.
+- **Not more than two stages.** As in [THEORY-757](../theory.d/THEORY-757.md), the chain is proved for
   pairs; composing the garblings along an increasing sequence of budgets
   gives any number of stages, since each fine optimum here is the unique
   canonical one.
-- **Products.** CLAIM-tmplxbtx shows refinability at every pair of budgets
+- **Products.** [CLAIM-tmplxbtx](CLAIM-tmplxbtx.md) shows refinability at every pair of budgets
   survives independent products, so sources built from independent
   two-row and function pairs nest too, with any number of distinct rows.

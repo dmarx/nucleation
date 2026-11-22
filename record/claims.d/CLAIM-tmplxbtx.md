@@ -26,10 +26,10 @@ grounds:
 complements:
 - CLAIM-tmp8xj7x
 summary: >-
-  Derived for LEAD-039, with the tensorization checked on grid envelopes
-  of twelve random products (CASE-tmpo9u3y). Combined with CLAIM-tmp8xj7x
-  and THEORY-757, it gives a structural condition on P(X, Y) of the kind
-  QUESTION-220 asks for: a source that is, after merging inputs with equal
+  Derived for [LEAD-039](../leads.d/LEAD-039.md), with the tensorization checked on grid envelopes
+  of twelve random products ([CASE-tmpo9u3y](../cases.d/CASE-tmpo9u3y.md)). Combined with [CLAIM-tmp8xj7x](CLAIM-tmp8xj7x.md)
+  and [THEORY-757](../theory.d/THEORY-757.md), it gives a structural condition on P(X, Y) of the kind
+  [QUESTION-220](../questions.d/QUESTION-220.md) asks for: a source that is, after merging inputs with equal
   p(Y|x), an independent product of pairs each of which has two distinct
   rows or has Y a function of X, is refinable at every pair of budgets,
   with any number of distinct rows. The wording is the assistant's
@@ -44,7 +44,7 @@ summary: >-
 **Setting.** (X₁, Y₁) and (X₂, Y₂) are finite pairs, independent of each
 other, with X = (X₁, X₂) and Y = (Y₁, Y₂). I, I₁ and I₂ are the information
 curves: I(λ) is the largest I(Y; T) over encoders T → X → Y with
-I(X; T) ≤ λ. Bottlenecks and refinability are as in THEORY-753. "Refinable
+I(X; T) ≤ λ. Bottlenecks and refinability are as in [THEORY-753](../theory.d/THEORY-753.md). "Refinable
 at every pair of budgets" means (λ, λ′)-refinable for all 0 ≤ λ ≤ λ′.
 
 **Theorem.** If each pair is refinable at every pair of budgets, so is the
@@ -82,22 +82,22 @@ which is λ − λ₁(λ), is nondecreasing too.
 
 **3. Refinability.** Let λ ≤ λ′, with splits (λ₁, λ₂) ≤ (λ₁′, λ₂′) from
 step 2. By hypothesis there are bottlenecks Tᵢ at λᵢ and Tᵢ′ at λᵢ′ of pair
-i, and channels ηᵢ with q(Tᵢ | Xᵢ) = ηᵢ ∘ q(Tᵢ′ | Xᵢ) (THEORY-753, steps 1
+i, and channels ηᵢ with q(Tᵢ | Xᵢ) = ηᵢ ∘ q(Tᵢ′ | Xᵢ) ([THEORY-753](../theory.d/THEORY-753.md), steps 1
 and 2; for λᵢ = λᵢ′ take Tᵢ = Tᵢ′ and ηᵢ the identity). The product
 encoders T = (T₁, T₂) and T′ = (T₁′, T₂′) are bottlenecks of the product at
-λ and λ′ by step 1, and q(T | X) = (η₁ ⊗ η₂) ∘ q(T′ | X). By THEORY-753 the
+λ and λ′ by step 1, and q(T | X) = (η₁ ⊗ η₂) ∘ q(T′ | X). By [THEORY-753](../theory.d/THEORY-753.md) the
 product is (λ, λ′)-refinable. ∎
 
 ## What follows
 
 - **A structural condition on P(X, Y).** Call a pair *elementary* if p(Y|x)
-  takes at most two distinct values (CLAIM-tmp8xj7x, with THEORY-757's
-  binary case inside it) or Y is a function of X (THEORY-757, case 1).
+  takes at most two distinct values ([CLAIM-tmp8xj7x](CLAIM-tmp8xj7x.md), with [THEORY-757](../theory.d/THEORY-757.md)'s
+  binary case inside it) or Y is a function of X ([THEORY-757](../theory.d/THEORY-757.md), case 1).
   Every source that is, after merging inputs with equal p(Y|x)
-  (THEORY-743, step 1), an independent product of elementary pairs, up to
+  ([THEORY-743](../theory.d/THEORY-743.md), step 1), an independent product of elementary pairs, up to
   relabelling, is refinable at every pair of budgets. Two independent
   noisy binary channels already give four distinct rows and four outputs,
-  outside both THEORY-757 and CLAIM-tmp8xj7x.
+  outside both [THEORY-757](../theory.d/THEORY-757.md) and [CLAIM-tmp8xj7x](CLAIM-tmp8xj7x.md).
 - **Independent noise.** Adding an input coordinate independent of
   everything, or an output coordinate independent of everything, is the
   product with a pair of zero information, which is trivially refinable.
@@ -107,7 +107,7 @@ product is (λ, λ′)-refinable. ∎
 - **Not a characterization.** The condition is sufficient. Sources that
   are not products of elementary pairs may nest; whether one with three
   distinct rows and no product structure always fails, or sometimes nests
-  at every pair, is open (CASE-tmpo9u3y found sources of both kinds on a
+  at every pair, is open ([CASE-tmpo9u3y](../cases.d/CASE-tmpo9u3y.md) found sources of both kinds on a
   coarse grid of budgets, uncertified).
 - **Not the converse.** It is not shown that a product with a
   non-refinable factor fails to nest, though it is likely: the

@@ -139,22 +139,22 @@ criterion, stays here, since its transfer to the bottleneck is unproved.
 ## Note of 2026-11-22: two-row sources and their independent products nest
 <!-- inactive-ok-file: CLAIM-tmp8xj7x CLAIM-tmplxbtx CLAIM-tmpzohh5 CASE-tmpo9u3y — new; filed from LEAD-039 -->
 
-LEAD-039 offers a structural condition beyond THEORY-757's special cases,
+[LEAD-039](../leads.d/LEAD-039.md) offers a structural condition beyond [THEORY-757](../theory.d/THEORY-757.md)'s special cases,
 with proofs (all Proposed):
 
 - **Two distinct rows.** If p(Y|x) takes at most two distinct values, the
   bottleneck is refinable at every pair of budgets, whatever the size of Y
-  (CLAIM-tmp8xj7x). CLAIM-392's source shows three rows can fail.
+  ([CLAIM-tmp8xj7x](../claims.d/CLAIM-tmp8xj7x.md)). [CLAIM-392](../claims.d/CLAIM-392.md)'s source shows three rows can fail.
 - **Independent products.** Refinability at every pair of budgets
-  survives independent products (CLAIM-tmplxbtx). So a source that is,
+  survives independent products ([CLAIM-tmplxbtx](../claims.d/CLAIM-tmplxbtx.md)). So a source that is,
   after merging inputs with equal p(Y|x), an independent product of
   two-row pairs and pairs with Y a function of X, nests at every pair.
 - **The loss.** Forcing nesting by erasing a fine bottleneck costs at most
-  the chord gap I(λ₁) − (λ₁/λ₂) I(λ₂) (CLAIM-tmpzohh5), small for nearby
+  the chord gap I(λ₁) − (λ₁/λ₂) I(λ₂) ([CLAIM-tmpzohh5](../claims.d/CLAIM-tmpzohh5.md)), small for nearby
   budgets. Its exact size is still open.
-- **Evidence.** CASE-tmpo9u3y found no exception to either theorem, and
+- **Evidence.** [CASE-tmpo9u3y](../cases.d/CASE-tmpo9u3y.md) found no exception to either theorem, and
   clear failures in a fifth to a third of random three-row sources, on a
   grid and uncertified.
 
-Still open: a necessary condition, the exact loss, and THEORY-163's colour
+Still open: a necessary condition, the exact loss, and [THEORY-163](../theory.d/THEORY-163.md)'s colour
 hierarchy.

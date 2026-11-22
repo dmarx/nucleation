@@ -21,13 +21,13 @@ bears_on:
 grounds:
 - THEORY-753
 summary: >-
-  Derived for LEAD-039, on the part of QUESTION-220 that asks how much is
+  Derived for [LEAD-039](../leads.d/LEAD-039.md), on the part of [QUESTION-220](../questions.d/QUESTION-220.md) that asks how much is
   lost by forcing nesting when it fails. It generalizes the single
-  computation of NOTE-980, which erased CLAIM-387's β = 12 optimum down to
+  computation of [NOTE-980](../notes.d/NOTE-980.md), which erased [CLAIM-387](CLAIM-387.md)'s β = 12 optimum down to
   the β = 8 rate and kept 0.079 bits about Y against the optimum's 0.097.
   The bound is zero exactly where the curve is linear between the two
   budgets and shrinks to zero as the budgets approach, which fits
-  CLAIM-392's report that failures cluster at nearby budgets and cost
+  [CLAIM-392](CLAIM-392.md)'s report that failures cluster at nearby budgets and cost
   little. It bounds the loss; it does not give its size. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
@@ -38,13 +38,13 @@ summary: >-
 ## The claim
 
 **Setting.** X and Y finite, I the information curve, bottlenecks as in
-THEORY-753. For budgets 0 < λ₁ < λ₂, define the *cost of forcing nesting*
+[THEORY-753](../theory.d/THEORY-753.md). For budgets 0 < λ₁ < λ₂, define the *cost of forcing nesting*
 as
 
   L(λ₁, λ₂) = I(λ₁) − sup { I(Y; T₁) : T₁ = η ∘ T₂ for some bottleneck T₂
   at λ₂ and channel η, with I(X; T₁) ≤ λ₁ }.
 
-It is zero when the problem is (λ₁, λ₂)-refinable (THEORY-753, step 2).
+It is zero when the problem is (λ₁, λ₂)-refinable ([THEORY-753](../theory.d/THEORY-753.md), step 2).
 
 **Bound.** Let λ₂′ = I(X; T₂) ≤ λ₂ for a bottleneck T₂ at λ₂. Then
 
@@ -64,13 +64,13 @@ every T₁ in the set is feasible at λ₁. ∎
 - **It is the chord gap.** By concavity of I with I(0) = 0, the bound is
   non-negative, zero where I is linear on [0, λ₂], and tends to zero as
   λ₁ → λ₂ by continuity of I. Failures of nesting between nearby budgets,
-  the kind CLAIM-392's reader found most often, can therefore cost only a
+  the kind [CLAIM-392](CLAIM-392.md)'s reader found most often, can therefore cost only a
   little in I(Y; T).
-- **On CLAIM-387's source** (β = 8 against 12) the bound is
-  0.097 − (0.546/0.952) × 0.139 ≈ 0.017 bits, NOTE-980's figure: about
+- **On [CLAIM-387](CLAIM-387.md)'s source** (β = 8 against 12) the bound is
+  0.097 − (0.546/0.952) × 0.139 ≈ 0.017 bits, [NOTE-980](../notes.d/NOTE-980.md)'s figure: about
   18% of the coarse optimum's relevant information. The true cost may be
   much smaller, since a better garbling than an erasure may exist.
-  CLAIM-392's 4.7 × 10⁻³ bits is in a different measure (unique
+  [CLAIM-392](CLAIM-392.md)'s 4.7 × 10⁻³ bits is in a different measure (unique
   information) and is not compared here.
 - **Not the size of the loss.** It is an upper bound, from one family of
   garblings. Computing L exactly means optimizing over channels from a
