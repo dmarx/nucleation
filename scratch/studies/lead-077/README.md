@@ -40,6 +40,7 @@ proposals per region; the content each region needs changes halfway through
 | capture50, capture80 | 3, capture | that share of probe slots is chosen by the region's incumbent (the allocator's own top specialist) from 16 candidates, as the one most favourable to it, and entered twice |
 | scale | 2, no common scale | specialist k's score is reported as a_k · mse^γ_k (a = 0.1, 0.46, 2.15, 10; γ = 1, 0.5, 2, 1); governance scores each member against its own history (standardized); controls: `governance_raw`, and `router_std` given the same standardization |
 | cycles | 1, cycles | 3 specialists, each strong on one subtype and weak on the next; regions mix subtypes 0.4/0.3/0.3, so pairwise wins cycle (checked in the tests); audits are duels between two random specialists, win or loss only |
+| full_rr | none (check) | the full arm again, adding `router_region`, a router that sees only the region id and σ, as governance's grants do |
 | training | entrenchment loop | after each episode each specialist's covariance moves (rate 0.1) toward the content of the regions it was granted, in proportion to the grant, and its operator is refitted |
 
 The gate temperature τ ∈ {0.03, 0.1, 0.3} is swept for both, and
@@ -52,4 +53,4 @@ reversal. 12 paired seeds per (arm, τ).
     python3 -I analyze.py      # writes results/summary.md
     python3 -m pytest -q test_model.py
 
-The whole grid (7 arms × 3 τ × 12 seeds) takes about 7 minutes on one CPU.
+The whole grid (8 arms × 3 τ × 12 seeds) took about 20 minutes on a loaded machine. `full_rr` was added after the first seven arms had run, to test where governance's steady-state edge over the contextual router came from.

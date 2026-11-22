@@ -23,7 +23,8 @@ from model import (SIGMAS, World, fit_operator, denoise, run_chain,  # noqa: E40
 OUT = os.path.join(HERE, 'results', 'runs.jsonl')
 E, B, NPROBE = 84, 8, 8
 TAUS = [0.03, 0.1, 0.3]
-ARMS = ['full', 'bandit', 'capture50', 'capture80', 'scale', 'cycles', 'training']
+ARMS = ['full', 'bandit', 'capture50', 'capture80', 'scale', 'cycles', 'training', 'full_rr']
+# full_rr: the full arm again, adding a router that sees only the region id (no per-item context)
 SEEDS = list(range(12))
 
 
@@ -63,6 +64,11 @@ def probe_scores(ops, X, Y, sig):
     return np.stack(out, 1)
 
 
+def sel(m, F, R):
+    """The region-only router sees the region id and sigma only."""
+    return np.hstack([F[:, :R], F[:, -1:]]) if m == 'router_region' else F
+
+
 def run_item(arm, seed, tau=0.1):
     env_rng = np.random.default_rng([seed, 0])
     w, ops0, K, pre, post = make_env(arm, env_rng)
@@ -72,6 +78,8 @@ def run_item(arm, seed, tau=0.1):
     cap = {'capture50': 0.5, 'capture80': 0.8}.get(arm, 0.0)
 
     methods = ['fixed', 'oracle', 'governance', 'conformity', 'router']
+    if arm == 'full_rr':
+        methods += ['router_region']
     if arm == 'scale':
         methods += ['governance_raw', 'router_std']
     if arm == 'bandit':
@@ -82,7 +90,7 @@ def run_item(arm, seed, tau=0.1):
         state[m] = dict(ops=[(V.copy(), l.copy()) for V, l in ops0],
                         C=[(V * l) @ V.T for V, l in ops0],
                         gov=Governance(R, K, tau=tau, standardize=(m == 'governance' and arm == 'scale')),
-                        router=Router(d, K, tau=tau), hist=[[] for _ in range(K)])
+                        router=Router(R + 1 if m == 'router_region' else d, K, tau=tau), hist=[[] for _ in range(K)])
     curve = {m: [] for m in methods}
     serve_old = {m: [] for m in methods}  # weight on each region's pre-reversal specialist, after reversal
     t0 = time.time()
@@ -109,7 +117,7 @@ def run_item(arm, seed, tau=0.1):
             elif m == 'oracle':
                 fn = lambda r, Y, s, mixes=mixes: np.tile(np.eye(K)[int(np.argmax(mixes[r]))], (len(Y), 1))
             elif m.startswith('router'):
-                fn = lambda r, Y, s, router=router, ops=ops: router.gate(router_features(ops, Y, r, R, s))
+                fn = lambda r, Y, s, router=router, ops=ops, m=m: router.gate(sel(m, router_features(ops, Y, r, R, s), R))
             else:
                 fn = lambda r, Y, s, gov=gov: np.tile(gov.g[r], (len(Y), 1))
             xhat = run_chain(ops, X0, np.random.default_rng([seed, 3, e]), fn)
@@ -134,6 +142,7 @@ def run_item(arm, seed, tau=0.1):
                     Xp, Yp, sg = probes[r]
                     F = router_features(ops, Yp, r, R, 0.0)
                     F[:, -1] = sg ** 2
+                    F = sel(m, F, R)
                     Sall = probe_scores(ops, Xp, Yp, sg)
                     if m.startswith('router'):
                         incumbent = int(np.argmax(router.gate(F).mean(0)))

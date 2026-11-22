@@ -15,6 +15,7 @@ import numpy as np
 HERE = os.path.dirname(os.path.abspath(__file__))
 rows = [json.loads(l) for l in open(os.path.join(HERE, 'results', 'runs.jsonl'))]
 PAIRS = {'scale': [('governance', 'router'), ('governance', 'router_std'), ('governance_raw', 'router')],
+         'full_rr': [('governance', 'router'), ('governance', 'router_region')],
          'bandit': [('governance', 'router'), ('governance_explore', 'router_explore')]}
 
 
