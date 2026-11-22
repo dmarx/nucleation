@@ -16,8 +16,9 @@
 
 - Read CLAIM-510, CLAIM-471, CASE-tmp33vf4, CLAIM-tmpvqmwc, CASE-tmp69rk8.
 - Read Riedel et al. (arXiv copy, in scratchpad lead-164/): §1, §2 opening, §4, §5.
-- LIT-tmp37bkp written.
+- LIT-tmp37bkp, NOTE-tmp2d035, THEORY-tmp5gcq1, CASE-tmp17zl1 written; quotes rechecked by script.
+- Dated notes on CLAIM-510 (three readings, lean B), CLAIM-471, LEAD-164; changelog fragment lead-164.md.
 
 ## Next
 
-- NOTE-tmp2d035, THEORY-tmp5gcq1, CASE-tmp17zl1; dated notes on CLAIM-510, CLAIM-471, LEAD-164; changelog fragment.
+- Report. The lead's owner opens the pull request. CASE-tmp33vf4 citations depend on #740 merging.
