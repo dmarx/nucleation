@@ -79,15 +79,15 @@ groups, same overlap, same within-group correlation (0.303 in each).
 **The models**, fitted to 600 days of observation, each scored on 150
 further days (one-step fit) and on interventions:
 
-- *F-raw*: CASE-165's model on the activity: a finite beta-Bernoulli
+- *F-raw*: [CASE-165](CASE-165.md)'s model on the activity: a finite beta-Bernoulli
   allocation (π_k ~ Beta(α/K, 1), K = 16, α = 3), Gaussian loadings, member
   noise, fitted by collapsed Gibbs sampling (400 sweeps, the best joint
   likelihood in the second half kept), with each feature's activation then
   given an AR(1). No relations. The allocation is held fixed over the
-  window, which is CASE-165's sticky transition with its stay-probability
+  window, which is [CASE-165](CASE-165.md)'s sticky transition with its stay-probability
   near 1.
 - *F-self*: the same features plus each member's own AR term, the private
-  map of CASE-165's u.
+  map of [CASE-165](CASE-165.md)'s u.
 - *R*: a VAR(1) restricted to C and self, with no modes. This is the
   question's "communication ... relations and no modes".
 - *FR*: R with features: the allocation found on the innovations of each
@@ -199,7 +199,7 @@ it is not enough; in a driver world it is wrong too.
   joint state-space fit, with the features as latent persistent drivers
   smoothed over time beside the graph's coupling, was not run, and is the
   natural next arm: the oracle shows the ceiling it would aim at.
-- That the full dynamic model of CASE-165 (a sticky allocation that moves,
+- That the full dynamic model of [CASE-165](CASE-165.md) (a sticky allocation that moves,
   per-member activations, social and team terms in the transition) would
   behave like the static allocation fitted here.
 - That any firm's members hold such features.

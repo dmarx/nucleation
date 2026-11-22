@@ -70,7 +70,7 @@ alternatives, since the model itself fixes neither.
 <!-- inactive-ok-block: CASE-166 — Proposed; cited for the design a nonlinear simulator would follow -->
 What remains: a joint state-space fit with the features as persistent
 latent drivers beside the graph (the arm most likely to defeat the claim);
-a nonlinear simulator with team records and authorization, as CASE-165
-§7–8 and [CASE-166](../cases.d/CASE-166.md) describe; and the dynamic parts of CASE-165 (sticky
+a nonlinear simulator with team records and authorization, as [CASE-165](../cases.d/CASE-165.md)
+§7–8 and [CASE-166](../cases.d/CASE-166.md) describe; and the dynamic parts of [CASE-165](../cases.d/CASE-165.md) (sticky
 allocation, per-member activations, social and team terms). Status and
 stage are the owner's.
