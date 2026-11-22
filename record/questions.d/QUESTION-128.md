@@ -44,7 +44,6 @@ summary: >-
   function from the dynamics and tells it from mere contribution to
   persistence, and an account of what a standard needs beyond it.
 ---
-<!-- inactive-ok-file: LIT-2444 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 
 <!-- inactive-ok-file: QUESTION-007 — Deferred; set aside with the authenticity line, and cited to say where the cross-agent half went -->
 

@@ -31,7 +31,7 @@ summary: >-
   none of the views as true. It is the adversarial test LEAD-158 asked
   for; its application to organizations is ARG-tmpxsh8r.
 ---
-<!-- inactive-ok-file: NOTE-tmp4a8iu ARG-tmpxsh8r — filed from this reading, Proposed or new -->
+<!-- inactive-ok-file: ARG-tmpxsh8r — filed from this reading, Proposed or new -->
 
 # THEORY-tmpdrt3r: Leffler (2024) argues that of four inescapability proposals only Korsgaard's plight inescapability, reinterpreted as an agent's being continuously positioned to exercise its agency fully absent external limits, captures four necessary features of normative force, and that it then makes force relative to each agent's constitution, so that agents constituted differently, corporate agents included, are bound by different norms
 

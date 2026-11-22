@@ -24,7 +24,7 @@ summary: >-
   Named in [QUESTION-128](../questions.d/QUESTION-128.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: THEORY-tmpam6lh — Proposed; the reading of Caliari, 2026-11-22 -->
-<!-- inactive-ok-file: LIT-1228 LIT-2444 LIT-2451 — Unfetched; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-1228 — Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-158: Read the works on the objectivity of relational norms, with Leffler on constitutivism as the adversarial test
 

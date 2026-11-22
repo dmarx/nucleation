@@ -30,7 +30,6 @@ summary: >-
   by prior deliberation, so it bears on how identified demands are
   weighed, not on who counts.
 ---
-<!-- inactive-ok-file: NOTE-tmprfp2e — filed from this reading -->
 
 # THEORY-tmpnit00: Monnier, George, Guyard, Tarnec and Kountouris (2026) show that turning intersectional subgroup fairness measurements into one score requires a meta-metric, a choice of comparison, aggregation and weighting, and that different meta-metrics, which agree only when there is no disparity, can reverse the fairness ranking of the same distributions and models, increasingly so as subgroups multiply, so that the choice encodes which pattern of disadvantage counts as worse and needs its own justification
 
