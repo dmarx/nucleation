@@ -297,3 +297,9 @@ statement is [CLAIM-731](CLAIM-731.md) (execution friction against contestation
 friction); the timescale statement is [CLAIM-730](CLAIM-730.md).
 
 No status changes.
+
+## Note of 2026-11-22: separation by timing alone, in a model
+<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-285 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
+
+CASE-tmp8riid runs CASE-285's design. With the overseer's authority, information and reviewers fixed, raising only how soon the acting institution's actions become irreversible raised its benefit per action (0.025 to 0.572 in the model's measure) while the share of objectionable actions stopped in time fell from 0.994 to 0.396; the overseer was less busy as it lost effect, since it skips what is already beyond stopping. That is this claim's capacity to act and capacity to be corrected coming apart by timing alone, shown possible in a construction. CLAIM-tmpsaql8, which states the result, carries `corroborates` to this claim. No status changes.

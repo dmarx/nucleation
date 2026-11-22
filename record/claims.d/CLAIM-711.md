@@ -191,3 +191,9 @@ the facts and rules of each decision (p. 1305), "testing suites" run before laun
 changes (p. 1310), open code and IT review boards. They keep automated decisions open to correction
 without slowing each decision, as CLAIM-711 says is possible. Relation: corroborates CLAIM-711
 (as an institutional proposal, not a demonstration that it works).
+
+## Note of 2026-11-22: precommitted limits in CASE-285's model
+<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-285 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
+
+CASE-tmp8riid runs CASE-285's design. Its precommitted limits are this claim's arrangement in a model: set before action, enforced at once, escalating what they catch. They kept the fast process interruptible without delaying the actions they let pass, and exactly in proportion to their coverage: outside what they foresaw nothing was won back, unless the overseer detected it in time by the ordinary route. That is the dependence this claim's defeated_if names ("interruptibility is kept only for the transitions foreseen"), made explicit; the model stipulates coverage and cannot say how much real limits foresee. CLAIM-tmpsaql8 states the result. No status changes.
