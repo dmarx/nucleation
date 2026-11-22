@@ -84,3 +84,8 @@ Read at the owner's request to look to aid and development for theory on how aid
 - **A model of the cost.** In [CLAIM-602](../claims.d/CLAIM-602.md), funding that pays for the work rather than for the organization doing it selects substitution, which lowers the capacity kept.
 
 No status changes.
+
+## Note of 2026-11-22: practice as utilization
+
+<!-- inactive-ok-block: CASE-tmpvnozj CLAIM-tmpocsw4 — new; LEAD-080's study and its corollary -->
+In LEAD-080's run of A's readiness simulator (CASE-tmpvnozj), a budget set to the last month's peak defunded a rarely needed heavy rescue squad within months unless something mobilized it every month; a monthly drill did, and kept it funded in every run (CLAIM-tmpocsw4). In that model, whether the loop this question describes runs turns on whether practice and cancelled dispatches count as the observed activity. Full carry-over kept the squad funded but not qualified: without drills, at two reports a month, its skill fell and needs met fell from 0.92 to 0.59, so funding and maintenance are separate conditions. No status changes.
