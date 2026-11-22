@@ -59,8 +59,11 @@ largest share in R. From the snapshot:
     python3 -m pytest -q test_opmodel.py
     for r in moe moe_aux moe_bias rep uniform; do python3 -I study.py $r 12 & done; wait
     python3 -I analyze.py
+    python3 -I residual.py   # the R specialist's residual direction (QUESTION-135)
 
 Each arm appends one JSON line to `results/runs_<rule>.jsonl`; a restart
 skips finished (rule, K, seed, arm) keys and rebuilds arms from the stored
 snapshot. `results/summary.md` holds the tables. About 20 minutes on four
-cores.
+free cores; the run of 2026-11-22 shared its machine with other workers,
+took 30 minutes, and was cut from 12 seeds to 6 (seeds 0-5; `uniform` has
+12, differentiation only).
