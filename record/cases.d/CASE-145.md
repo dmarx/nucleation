@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmp5xarm
 title: 'Perspective without collective agency: populations given the same structured norms, categories or interpretive training, some interacting and some acquiring similar dispositions independently, with and without any mechanism for collective decision or coordinated intervention'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -30,6 +30,12 @@ history:
     (ADR-092); added as that decision's demonstration. Its text
     names the question, as its version history records. No line changes
     (ADR-085). No other change.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: run by LEAD-087 after a criterion was
+    stated in advance (TERM-tmpsu4df, TERM-tmpo4pxh); the executed
+    study is CASE-tmpez9id. The design is unchanged. No other change.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -55,6 +61,7 @@ summary: >-
 bears_on:
 - QUESTION-260
 ---
+<!-- inactive-ok-file: TERM-tmpsu4df TERM-tmpo4pxh CASE-tmpez9id CLAIM-tmpupq89 CLAIM-tmpjmfmd — new, filed by LEAD-087's run -->
 <!-- inactive-ok-file: LIT-2330 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1800 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
@@ -139,3 +146,31 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **DeChurch and Mesmer-Magnus** ([THEORY-1800](../theory.d/THEORY-1800.md)): **supports a measurement constraint on the design and qualifies "shared interpretation" as an outcome.** The case's own risk is that a shared perspective "will simply mean correlated responses". DeChurch and Mesmer-Magnus show that agreement-style and rating-scale measures of sharedness (closest to "correlated responses") do not predict team process, while structural similarity does. So a test of CASE-145 should measure the structure of agents' interpretations (relations among categories), not only agreement on responses, if it wants a sharedness measure that tracks interaction. It does not bear on the collective-agency half of the case.
 
 The case is unchanged.
+
+## Note of 2026-11-22: run, after saying in advance what distinguishes a shared perspective
+
+[LEAD-087](../leads.d/LEAD-087.md) met A4's condition first. The criterion was filed as two rival
+terms and committed, with the study's thresholds and predicted verdicts,
+before any code: structural concordance, cross-member dependence both
+ways under a perturbation of some members, and either evidential
+answerability ([TERM-tmpsu4df](../terms.d/TERM-tmpsu4df.md): a warranted deviation is taken up more than
+an unwarranted one) or restoration ([TERM-tmpo4pxh](../terms.d/TERM-tmpo4pxh.md): a deviation is
+corrected back rather than averaged in). The owner chooses between them.
+
+The run is [CASE-tmpez9id](CASE-tmpez9id.md): five populations on one schema (independent,
+socially trained then separated, conforming, enforcing by referee,
+checking disagreements against the world), each with and without a vote.
+
+- **No population shares a perspective by the criterion as stated.** The
+  controls for correlated responses and learned norms fail cross-member
+  dependence, as intended; so do the interacting populations, whose
+  unperturbed members take up at most 2% of a deviation (5% was asked).
+- **The evidential condition orders the populations as predicted**, below
+  its stated size, and **plain conformity passes the restorative one**,
+  which so fails A4's test ([CLAIM-tmpupq89](../claims.d/CLAIM-tmpupq89.md)).
+- **The vote gives collective agency in every population, its absence
+  none.** So the study shows the agent without the shared perspective,
+  by construction, and not the perspective without the agent the case
+  asks about ([CLAIM-tmpjmfmd](../claims.d/CLAIM-tmpjmfmd.md)).
+
+The design is unchanged.

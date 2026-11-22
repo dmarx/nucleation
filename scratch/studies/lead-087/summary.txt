@@ -1,0 +1,76 @@
+seeds: 20; eps=0.05, margin=0.3, rho_max=0.125
+
+== independent
+  concordance          +0.985 [+0.983, +0.988]
+  agreement            +0.960 [+0.949, +0.971]
+  concordance_margin   +0.545 [+0.525, +0.566]
+  s_u                  +0.000 [+0.000, +0.000]
+  s_w                  +0.000 [+0.000, +0.000]
+  g_u                  +0.108 [+0.092, +0.124]
+  g_w                  +0.108 [+0.092, +0.124]
+  recovery_vs_indep    +0.000 [+0.000, +0.000]
+  sigma                +0.000 [+0.000, +0.000]
+  rho                  +0.000 [+0.000, +0.000]
+  agency_vote          +0.639 [+0.579, +0.699]
+  agency_none          +0.013 [+0.002, +0.024]
+  verdict {'C1': 'pass', 'C2': 'fail', 'C3_evidential': 'fail', 'C3_restorative': 'fail', 'CA_vote': 'pass', 'CA_none': 'fail'}
+
+== learned-cut
+  concordance          +0.989 [+0.988, +0.991]
+  agreement            +0.965 [+0.955, +0.975]
+  concordance_margin   +0.549 [+0.529, +0.569]
+  s_u                  +0.000 [+0.000, +0.000]
+  s_w                  +0.000 [+0.000, +0.000]
+  g_u                  +0.108 [+0.092, +0.124]
+  g_w                  +0.108 [+0.092, +0.124]
+  recovery_vs_indep    +0.000 [-0.000, +0.000]
+  sigma                +0.000 [+0.000, +0.000]
+  rho                  +0.000 [+0.000, +0.000]
+  agency_vote          +0.641 [+0.580, +0.701]
+  agency_none          +0.013 [+0.003, +0.024]
+  verdict {'C1': 'pass', 'C2': 'fail', 'C3_evidential': 'fail', 'C3_restorative': 'fail', 'CA_vote': 'pass', 'CA_none': 'fail'}
+
+== conform
+  concordance          +0.989 [+0.987, +0.991]
+  agreement            +0.968 [+0.959, +0.977]
+  concordance_margin   +0.549 [+0.528, +0.569]
+  s_u                  +0.015 [+0.003, +0.028]
+  s_w                  +0.019 [+0.010, +0.029]
+  g_u                  +0.658 [+0.644, +0.671]
+  g_w                  +0.640 [+0.626, +0.654]
+  recovery_vs_indep    +0.550 [+0.529, +0.570]
+  sigma                +0.004 [-0.003, +0.011]
+  rho                  +0.024 [+0.004, +0.045]
+  agency_vote          +0.637 [+0.577, +0.696]
+  agency_none          +0.007 [-0.002, +0.017]
+  verdict {'C1': 'pass', 'C2': 'fail', 'C3_evidential': 'fail', 'C3_restorative': 'pass', 'CA_vote': 'pass', 'CA_none': 'fail'}
+
+== enforce
+  concordance          +0.986 [+0.984, +0.989]
+  agreement            +0.962 [+0.952, +0.973]
+  concordance_margin   +0.546 [+0.526, +0.567]
+  s_u                  +0.009 [+0.001, +0.017]
+  s_w                  +0.015 [+0.008, +0.022]
+  g_u                  +0.248 [+0.205, +0.291]
+  g_w                  +0.180 [+0.138, +0.222]
+  recovery_vs_indep    +0.140 [+0.102, +0.178]
+  sigma                +0.006 [+0.001, +0.010]
+  rho                  +0.031 [+0.013, +0.049]
+  agency_vote          +0.634 [+0.575, +0.693]
+  agency_none          +0.012 [+0.001, +0.024]
+  verdict {'C1': 'pass', 'C2': 'fail', 'C3_evidential': 'fail', 'C3_restorative': 'pass', 'CA_vote': 'pass', 'CA_none': 'fail'}
+
+== evidential
+  concordance          +0.985 [+0.983, +0.988]
+  agreement            +0.957 [+0.945, +0.969]
+  concordance_margin   +0.545 [+0.525, +0.566]
+  s_u                  -0.009 [-0.015, -0.003]
+  s_w                  +0.017 [+0.007, +0.026]
+  g_u                  +0.215 [+0.174, +0.256]
+  g_w                  +0.118 [+0.081, +0.155]
+  recovery_vs_indep    +0.107 [+0.067, +0.147]
+  sigma                +0.025 [+0.017, +0.033]
+  rho                  -0.030 [-0.054, -0.007]
+  agency_vote          +0.634 [+0.574, +0.693]
+  agency_none          +0.008 [-0.005, +0.020]
+  verdict {'C1': 'pass', 'C2': 'fail', 'C3_evidential': 'fail', 'C3_restorative': 'pass', 'CA_vote': 'pass', 'CA_none': 'fail'}
