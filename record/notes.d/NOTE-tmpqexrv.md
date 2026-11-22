@@ -140,44 +140,44 @@ representing, is like" (pp. 3-4).
 
 ## Connections
 
-- **The SEP survey** (LIT-tmpppa43, read in NOTE-tmp60j0q) places this
+- **The SEP survey** ([LIT-tmpppa43](../literature.d/LIT-tmpppa43.md), read in [NOTE-tmp60j0q](NOTE-tmp60j0q.md)) places this
   chapter as one of Millikan's "compressed versions" of the theory
   ("2009" in its §3.2), reads her as consumer-based, and notes she rejects
   that reading and stresses the producer's side in later work. This
   chapter's hoverfly reply, through the producer's function, is the
   later emphasis the survey describes.
-- **Pushmi-pullyu.** THEORY-1605 (Salice and Miyazono) uses the term for
+- **Pushmi-pullyu.** [THEORY-1605](../theory.d/THEORY-1605.md) (Salice and Miyazono) uses the term for
   self-transformation in group identification. This chapter is the
   record's first reading of the term at its source.
 - **Grice.** Millikan's "natural signs" that cannot be true or false
-  parallel Grice's factive natural meaning (THEORY-444), arrived at
+  parallel Grice's factive natural meaning ([THEORY-444](../theory.d/THEORY-444.md)), arrived at
   independently; the chapter does not cite Grice.
-- **Bickhard** (THEORY-220) argues against etiology from a lion's
+- **Bickhard** ([THEORY-220](../theory.d/THEORY-220.md)) argues against etiology from a lion's
   duplicate. This chapter does not discuss Swampman; the survey's §4.2
   reports Millikan's reply (the intuition is false of the real nature).
 
 ## Bearing on the record
 
-- **CLAIM-650.** The selection-history candidate for its question (b),
+- **[CLAIM-650](../claims.d/CLAIM-650.md).** The selection-history candidate for its question (b),
   which it named as "unread here". On question (a) the chapter agrees,
   independently of Grice, that natural signs are not true or false, so a
   false alarm needs a content that is not natural information. It also
   qualifies the split: for Millikan a sign has a content that can be
   false only if some function fixes it, so (a) is not settled apart from
-  (b) except where, as in CASE-243, the source is stipulated. The
-  support judgement is ARG-tmps4eez.
-- **CLAIM-648.** An objection. On this account a norm by which a sign or
+  (b) except where, as in [CASE-243](../cases.d/CASE-243.md), the source is stipulated. The
+  support judgement is [ARG-tmps4eez](../arguments.d/ARG-tmps4eez.md).
+- **[CLAIM-648](../claims.d/CLAIM-648.md).** An objection. On this account a norm by which a sign or
   anticipation is false needs a history of selection or learning;
-  present upkeep alone fixes none. That is filed as CLAIM-tmp974nn.
+  present upkeep alone fixes none. That is filed as [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md).
   Millikan's "selection through learning", in which producer and
   consumer "maintain their current settings" (p. 5), is the place where
   her account comes closest to an organizational one.
-- **QUESTION-128.** Evidence on its third rung (representational norms),
+- **[QUESTION-128](../questions.d/QUESTION-128.md).** Evidence on its third rung (representational norms),
   from the etiological side: representational norms from the
   dynamics of selection, not from present organization. It does not
   touch practical or moral authority.
 - **The steam alarm and the magnetosome.** The bar-magnet case is the
-  same structure as CASE-243's steam: a mechanism working "perfectly
+  same structure as [CASE-243](../cases.d/CASE-243.md)'s steam: a mechanism working "perfectly
   properly" that fails to perform its function because its conditions
   are not Normal. A parallel, noted here, with no edge.
 
@@ -201,4 +201,4 @@ representing, is like" (pp. 3-4).
 
 - Whether "selection through learning" that maintains a system's current
   settings differs, in any case that matters, from organizational
-  self-maintenance. CLAIM-tmp974nn states where they would part.
+  self-maintenance. [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md) states where they would part.

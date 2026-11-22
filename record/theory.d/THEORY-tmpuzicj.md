@@ -24,11 +24,11 @@ bears_on:
 - QUESTION-128
 summary: >-
   Neander and Schulte (2004; rev. 2022), SEP, "Teleological Theories of
-  Mental Content", LIT-tmpppa43, read in NOTE-tmp60j0q. A survey by two
+  Mental Content", [LIT-tmpppa43](../literature.d/LIT-tmpppa43.md), read in [NOTE-tmp60j0q](../notes.d/NOTE-tmp60j0q.md). A survey by two
   proponents, one of whom is surveyed. It reports the field's shape and
   its objections and settles little; the title asserts only what the
-  survey reports. Read for LEAD-018 beside Millikan's own statement
-  (THEORY-tmpfugkf). Proposed.
+  survey reports. Read for [LEAD-018](../leads.d/LEAD-018.md) beside Millikan's own statement
+  ([THEORY-tmpfugkf](THEORY-tmpfugkf.md)). Proposed.
 ---
 <!-- inactive-ok-file: ARG-tmps4eez CLAIM-tmp974nn THEORY-tmpfugkf — Proposed; filed for LEAD-018 in this batch -->
 <!-- inactive-ok-file: CLAIM-650 CLAIM-648 THEORY-072 THEORY-220 — Proposed; held entries this reading bears on, cited with their standing -->
@@ -39,8 +39,8 @@ summary: >-
 
 Karen Neander and Peter Schulte, "Teleological Theories of Mental
 Content", *Stanford Encyclopedia of Philosophy* (first published 2004,
-substantive revision 26 May 2022), LIT-tmpppa43, read in full in
-NOTE-tmp60j0q.
+substantive revision 26 May 2022), [LIT-tmpppa43](../literature.d/LIT-tmpppa43.md), read in full in
+[NOTE-tmp60j0q](../notes.d/NOTE-tmp60j0q.md).
 
 ## What was actually shown
 
@@ -68,20 +68,20 @@ report it:
 
 - That any of the theories is right; the survey reports and leaves open.
 - Anything about artefacts, which it sets aside (§2).
-- Anything about organizational accounts of function (THEORY-072,
-  THEORY-220), which it does not discuss.
+- Anything about organizational accounts of function ([THEORY-072](THEORY-072.md),
+  [THEORY-220](THEORY-220.md)), which it does not discuss.
 
 ## Connections
 
-- **THEORY-tmpfugkf** is Millikan's own statement of the theory the
+- **[THEORY-tmpfugkf](THEORY-tmpfugkf.md)** is Millikan's own statement of the theory the
   survey treats at most length.
-- **CLAIM-650.** The survey shows that "selection history", one of the
+- **[CLAIM-650](../claims.d/CLAIM-650.md).** The survey shows that "selection history", one of the
   claim's candidates for question (b), is a family that disagrees with
   itself about content. Its remark that error and content "are not
-  separate tasks" (§3) is the second premise of ARG-tmps4eez.
-- **CLAIM-648.** The Swampman objection, in its general form, grounds
-  CLAIM-tmp974nn; Shea's survival-stabilization and the non-etiological
+  separate tasks" (§3) is the second premise of [ARG-tmps4eez](../arguments.d/ARG-tmps4eez.md).
+- **[CLAIM-648](../claims.d/CLAIM-648.md).** The Swampman objection, in its general form, grounds
+  [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md); Shea's survival-stabilization and the non-etiological
   variants are the routes by which the objection could be met.
-- **QUESTION-128.** Bears on its third rung, and states from the
+- **[QUESTION-128](../questions.d/QUESTION-128.md).** Bears on its third rung, and states from the
   etiological side the question's separation of functional norms from
   normative authority (§2).

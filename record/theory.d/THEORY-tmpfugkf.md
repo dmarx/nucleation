@@ -25,13 +25,13 @@ bears_on:
 corroborates:
 - CLAIM-650
 summary: >-
-  Millikan (2009), "Biosemantics", LIT-tmpu3jv7, read in NOTE-tmpqexrv
+  Millikan (2009), "Biosemantics", [LIT-tmpu3jv7](../literature.d/LIT-tmpu3jv7.md), read in [NOTE-tmpqexrv](../notes.d/NOTE-tmpqexrv.md)
   from her pre-print. Her own short statement of the selection-based
-  teleosemantics the record said it owed (LEAD-018). Teleology explains
+  teleosemantics the record said it owed ([LEAD-018](../leads.d/LEAD-018.md)). Teleology explains
   how a representation can be false; a mapping theory with producer and
-  consumer explains what it represents. Corroborates CLAIM-650 on its
-  question (a), with a qualification argued in ARG-tmps4eez; grounds the
-  objection CLAIM-tmp974nn to CLAIM-648. Proposed: one reading, of a
+  consumer explains what it represents. Corroborates [CLAIM-650](../claims.d/CLAIM-650.md) on its
+  question (a), with a qualification argued in [ARG-tmps4eez](../arguments.d/ARG-tmps4eez.md); grounds the
+  objection [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md) to [CLAIM-648](../claims.d/CLAIM-648.md). Proposed: one reading, of a
   compressed statement whose account of function is cited, not given.
 ---
 <!-- inactive-ok-file: ARG-tmps4eez CLAIM-tmp974nn — Proposed; filed for LEAD-018 in this batch -->
@@ -42,8 +42,8 @@ summary: >-
 ## Source
 
 Ruth Garrett Millikan (2009; pre-print 2008), "Biosemantics", *Oxford
-Handbook of Philosophy of Mind*, pp. 394-406, LIT-tmpu3jv7, read in full
-in NOTE-tmpqexrv from the author's pre-print. Page numbers are the
+Handbook of Philosophy of Mind*, pp. 394-406, [LIT-tmpu3jv7](../literature.d/LIT-tmpu3jv7.md), read in full
+in [NOTE-tmpqexrv](../notes.d/NOTE-tmpqexrv.md) from the author's pre-print. Page numbers are the
 pre-print's.
 
 ## What was actually shown
@@ -78,27 +78,27 @@ current settings (selection through learning)" (p. 5).
   given.
 - Artefacts are not discussed; whether a designed signal's content is
   fixed by its designer is not in this chapter.
-- The objections the SEP survey reports (LIT-tmpppa43, NOTE-tmp60j0q):
+- The objections the SEP survey reports ([LIT-tmpppa43](../literature.d/LIT-tmpppa43.md), [NOTE-tmp60j0q](../notes.d/NOTE-tmp60j0q.md)):
   indeterminacy, Swampman and liberalism are answered there only in
   summary, and the survey reads her as consumer-based where she says she
   is not.
 
 ## Connections
 
-- **CLAIM-650.** Corroborated on question (a): natural signs cannot be
+- **[CLAIM-650](../claims.d/CLAIM-650.md).** Corroborated on question (a): natural signs cannot be
   false, so a false alarm needs a content fixed by something else. The
   same reading qualifies the claim's separation of (a) from (b);
-  ARG-tmps4eez.
-- **CLAIM-648.** The objection CLAIM-tmp974nn rests on this account:
+  [ARG-tmps4eez](../arguments.d/ARG-tmps4eez.md).
+- **[CLAIM-648](../claims.d/CLAIM-648.md).** The objection [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md) rests on this account:
   a norm by which a system's sign is false needs a history of selection
   or learning, not present upkeep alone.
-- **QUESTION-128.** Bears on its representational rung, from the
+- **[QUESTION-128](../questions.d/QUESTION-128.md).** Bears on its representational rung, from the
   etiological side.
-- **THEORY-220** (Bickhard) is the organizational account this one is
+- **[THEORY-220](THEORY-220.md)** (Bickhard) is the organizational account this one is
   set against in the record. They differ on whether a system with no
   history can have a function. Whether they cannot both be right is not
   settled here (pluralists about function would keep both), so no
   `rivals` edge is written; the difference is the subject of
-  CLAIM-tmp974nn.
-- **THEORY-1605** uses Millikan's term "pushmi-pullyu"; this is its
+  [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md).
+- **[THEORY-1605](THEORY-1605.md)** uses Millikan's term "pushmi-pullyu"; this is its
   source's own statement.

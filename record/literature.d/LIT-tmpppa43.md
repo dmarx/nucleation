@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-22 (the live SEP entry, substantive revision of 26 May 2022), in NOTE-tmp60j0q; worth reading as the survey of selection-based teleosemantics: what etiological functions are, the main theories (Dretske, Millikan, Papineau, Neander, Shea, the non-etiological variants) and the four standing objections. Written by two of the theory''s proponents, Neander and Schulte; Neander''s own causal-informational theory is one of those it surveys.'
+status_note: 'read 2026-11-22 (the live SEP entry, substantive revision of 26 May 2022), in [NOTE-tmp60j0q](../notes.d/NOTE-tmp60j0q.md); worth reading as the survey of selection-based teleosemantics: what etiological functions are, the main theories (Dretske, Millikan, Papineau, Neander, Shea, the non-etiological variants) and the four standing objections. Written by two of the theory''s proponents, Neander and Schulte; Neander''s own causal-informational theory is one of those it surveys.'
 title: 'Teleological Theories of Mental Content'
 version: 2
 history:
@@ -90,9 +90,9 @@ substantive revision 26 May 2022 —
 
 ## Standing in the record
 
-Registered and read for LEAD-018, beside Millikan's own statement. It is
+Registered and read for [LEAD-018](../leads.d/LEAD-018.md), beside Millikan's own statement. It is
 the record's survey of the selection-based route to a norm of content,
-the route CLAIM-650 names as "selection history" and the record had not
+the route [CLAIM-650](../claims.d/CLAIM-650.md) names as "selection history" and the record had not
 read. Its §2 also places the systemic and goal-contribution theories of
 function, and its §4.2 reports the Swampman objection that Bickhard's
-account (THEORY-220) turns against etiology.
+account ([THEORY-220](../theory.d/THEORY-220.md)) turns against etiology.

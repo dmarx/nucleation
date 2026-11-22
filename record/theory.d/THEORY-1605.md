@@ -72,7 +72,7 @@ caring.
 
 <!-- inactive-ok-block: THEORY-tmpfugkf — Proposed; Millikan's own statement, filed for LEAD-018 -->
 The term this account borrows is now read in Millikan's own words
-(THEORY-tmpfugkf, NOTE-tmpqexrv, p. 4): "the most primitive and
+([THEORY-tmpfugkf](THEORY-tmpfugkf.md), [NOTE-tmpqexrv](../notes.d/NOTE-tmpqexrv.md), p. 4): "the most primitive and
 fundamental kind of representation ... faces both ways at once, saying at
 the same time what the case is and what to do about it", as the bee
 dance does. On her account it is a sign whose producer is responsible for

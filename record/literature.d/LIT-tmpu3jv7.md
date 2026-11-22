@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-11-22 (the author''s pre-print on her University of Connecticut faculty page, linked from her CV), in NOTE-tmpqexrv; worth reading as Millikan''s own short statement of biosemantics, the selection-based teleosemantics two claims of the record said they owed. It stands in, by the author''s own account, for the 1989 Journal of Philosophy paper of the same title (doi 10.2307/2027123), whose only copy her CV links is JSTOR''s; that paper was not registered or read.'
+status_note: 'read in full 2026-11-22 (the author''s pre-print on her University of Connecticut faculty page, linked from her CV), in [NOTE-tmpqexrv](../notes.d/NOTE-tmpqexrv.md); worth reading as Millikan''s own short statement of biosemantics, the selection-based teleosemantics two claims of the record said they owed. It stands in, by the author''s own account, for the 1989 Journal of Philosophy paper of the same title (doi 10.2307/2027123), whose only copy her CV links is JSTOR''s; that paper was not registered or read.'
 title: 'Biosemantics'
 version: 2
 history:
@@ -97,9 +97,9 @@ author's pre-print on her faculty page.
 
 ## Standing in the record
 
-Registered and read for LEAD-018. CLAIM-650 names "selection history" as
+Registered and read for [LEAD-018](../leads.d/LEAD-018.md). [CLAIM-650](../claims.d/CLAIM-650.md) names "selection history" as
 one candidate source of the norm for a non-factive content and said the
-reading was owed; CLAIM-648 and QUESTION-128 take up the organizational
+reading was owed; [CLAIM-648](../claims.d/CLAIM-648.md) and [QUESTION-128](../questions.d/QUESTION-128.md) take up the organizational
 rival. This chapter is the selection-based account in its author's
 words. The SEP survey filed with it places it among the other
 teleosemantic theories and reports the objections.

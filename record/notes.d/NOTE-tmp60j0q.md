@@ -132,44 +132,44 @@ possibility of malfunction" (§2). The authors place both kinds of norm
 
 ## Connections
 
-- **Millikan's own statement** (LIT-tmpu3jv7, NOTE-tmpqexrv) is the
+- **Millikan's own statement** ([LIT-tmpu3jv7](../literature.d/LIT-tmpu3jv7.md), [NOTE-tmpqexrv](NOTE-tmpqexrv.md)) is the
   "2009" compressed version the survey cites. Her chapter's replies to
   Neander and Pietroski are those §3.2 summarizes.
 - **Organizational functions.** The survey does not discuss the
-  organizational account of Mossio, Saborido and Moreno (THEORY-072) or
-  Bickhard's (THEORY-220). Its nearest neighbours are Shea's
+  organizational account of Mossio, Saborido and Moreno ([THEORY-072](../theory.d/THEORY-072.md)) or
+  Bickhard's ([THEORY-220](../theory.d/THEORY-220.md)). Its nearest neighbours are Shea's
   stabilization by "contributed to the survival of S" and Piccinini's
   goal-contribution functions, both of which tie function to present or
   recent contribution to persistence.
 - **Grice.** §1 cites Grice 1957 for misrepresentation as a mark of
   representation; §3.1's factive "indication" is Grice's natural meaning
-  (THEORY-444) under Dretske's name.
+  ([THEORY-444](../theory.d/THEORY-444.md)) under Dretske's name.
 
 ## Bearing on the record
 
-- **CLAIM-650.** It confirms that "selection history" is a developed
+- **[CLAIM-650](../claims.d/CLAIM-650.md).** It confirms that "selection history" is a developed
   family of answers to question (b), and splits it: consumer-based and
   producer-based theories assign different contents, so selection
   history alone does not settle which content the norm attaches to. The
   claim's text names selection history as a candidate and leaves it
   open; nothing here closes it. Its §3 also says error and content "are
   not separate tasks", which is a second qualification of the claim's
-  (a)/(b) split, recorded in ARG-tmps4eez.
-- **CLAIM-648.** The Swampman objection is the general form of
-  CLAIM-tmp974nn: on etiological accounts, a system whose norms are set
+  (a)/(b) split, recorded in [ARG-tmps4eez](../arguments.d/ARG-tmps4eez.md).
+- **[CLAIM-648](../claims.d/CLAIM-648.md).** The Swampman objection is the general form of
+  [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md): on etiological accounts, a system whose norms are set
   only by its present upkeep has none. Shea's inclusion of past
   contributions to survival, and the non-etiological variants, are the
   routes by which a teleosemanticist could grant the claim. A reported
   objection and two reported escape routes, cited in the objection's
   grounds.
-- **QUESTION-128.** Evidence on the representational rung, and a caution
+- **[QUESTION-128](../questions.d/QUESTION-128.md).** Evidence on the representational rung, and a caution
   on the rest: the survey's authors hold that functional norms are
   descriptive and yield no ought without further premises (§2). That is
   the question's own separation between system-relative norms and
   normative authority, stated from the etiological side.
-- **THEORY-220.** Bickhard's case against etiology (the lion's
+- **[THEORY-220](../theory.d/THEORY-220.md).** Bickhard's case against etiology (the lion's
   duplicate) is the Swampman objection; the survey reports two replies
-  that THEORY-220's text does not meet. A note on THEORY-220 records it.
+  that [THEORY-220](../theory.d/THEORY-220.md)'s text does not meet. A note on [THEORY-220](../theory.d/THEORY-220.md) records it.
 
 ## Limitations
 
@@ -188,4 +188,4 @@ possibility of malfunction" (§2). The authors place both kinds of norm
 - Whether maintenance selection, learning by differential retention, or
   Shea's survival-stabilization makes etiological function and
   organizational function coincide for a self-maintaining system with a
-  history. CLAIM-tmp974nn names the case where they come apart.
+  history. [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md) names the case where they come apart.

@@ -204,17 +204,17 @@ relationships have moral authority". The question is unchanged.
 
 ## Note of 2026-11-22: Millikan and the SEP survey, read
 
-<!-- inactive-ok-block: THEORY-tmpfugkf THEORY-tmpuzicj CLAIM-tmp974nn CLAIM-648 — Proposed; readings and objection filed for LEAD-018, and the claim the objection is to -->
+<!-- inactive-ok-block: THEORY-tmpfugkf THEORY-tmpuzicj — Proposed; readings and objection filed for LEAD-018, and the claim the objection is to -->
 The selection-based route to the third rung, representational norms,
-is now read: Millikan's biosemantics (THEORY-tmpfugkf) and the SEP
-survey of teleological theories of content (THEORY-tmpuzicj), both now
+is now read: Millikan's biosemantics ([THEORY-tmpfugkf](../theory.d/THEORY-tmpfugkf.md)) and the SEP
+survey of teleological theories of content ([THEORY-tmpuzicj](../theory.d/THEORY-tmpuzicj.md)), both now
 `bears_on` this question. They bear on it in three ways:
 
 - **A rival to deriving norms from present organization.** On these
   accounts the norm by which a representation is false comes from a
   history of selection, learning included, not from what an
-  organization now needs. CLAIM-tmp974nn states the consequence for
-  CLAIM-648.
+  organization now needs. [CLAIM-tmp974nn](../claims.d/CLAIM-tmp974nn.md) states the consequence for
+  [CLAIM-648](../claims.d/CLAIM-648.md).
 - **The same separation of rungs.** The survey's authors hold that
   functional norms are descriptive and that "no ought-claim follows from
   a function ascription without the addition of further premises" (§2).
