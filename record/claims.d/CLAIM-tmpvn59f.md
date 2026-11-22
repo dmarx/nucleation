@@ -28,7 +28,7 @@ bears_on:
 - QUESTION-113
 - QUESTION-276
 summary: >-
-  From the run of CASE-296's laboratory for LEAD-030 (CASE-tmpw8bs2). Clusters
+  From the run of [CASE-296](../cases.d/CASE-296.md)'s laboratory for [LEAD-030](../leads.d/LEAD-030.md) ([CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md)). Clusters
   that exposure alone made were recovered exactly, fitted raw counts better
   than planted genres (9.6 against 3.7 millinats per cell over the
   degree-only model) and were perfectly stable (ARI 1.00 against 0.49);
@@ -46,10 +46,10 @@ summary: >-
 
 ## The claim
 
-QUESTION-028 asks for a criterion, stated before the data, that a
-compressible category could fail. QUESTION-113 lists persistence under
+[QUESTION-028](../questions.d/QUESTION-028.md) asks for a criterion, stated before the data, that a
+compressible category could fail. [QUESTION-113](../questions.d/QUESTION-113.md) lists persistence under
 refinement among the criteria for a category worth naming. In
-CASE-tmpw8bs2, two of the obvious candidates rank the classes the wrong
+[CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md), two of the obvious candidates rank the classes the wrong
 way.
 
 - **Fit.** A degree-corrected block model on raw engagement counts gained
@@ -61,7 +61,7 @@ way.
   clusters matched the first inference with ARI 1.00; the planted genres,
   unused, with 0.49, and with 0.89 once the platform steered by them.
 
-CASE-296's closure test does better on two conditions. Conditioned on
+[CASE-296](../cases.d/CASE-296.md)'s closure test does better on two conditions. Conditioned on
 exposure (fitted on exposed pairs only, so that a missing engagement is
 not a dislike) and scored on randomized exposure, the planted genres kept
 0.86 [0.79, 0.93] of an item-level model's held-out gain over the degree
@@ -72,11 +72,11 @@ better than the exposure partition (9.6 against 9.6). So the control
 partition is the part of the test that cannot be dropped.
 
 The criterion this suggests for engagement categories is a version of
-QUESTION-028's "independently generalizable": the category must keep its
+[QUESTION-028](../questions.d/QUESTION-028.md)'s "independently generalizable": the category must keep its
 predictive share when exposure is changed by the analyst, and must beat a
 partition built from exposure alone. It is necessary in this model, not
 shown sufficient: classes reshaped by their own use pass it too
-(CLAIM-tmph4j0u), which is CLAIM-402's caution.
+([CLAIM-tmph4j0u](CLAIM-tmph4j0u.md)), which is [CLAIM-402](CLAIM-402.md)'s caution.
 
 ## What it does not say
 

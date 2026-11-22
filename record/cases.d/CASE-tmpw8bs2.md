@@ -26,7 +26,7 @@ bears_on:
 draws_on:
 - THEORY-2054
 summary: >-
-  CASE-296's laboratory, run for LEAD-030 as a numpy simulation: 600 users,
+  [CASE-296](CASE-296.md)'s laboratory, run for [LEAD-030](../leads.d/LEAD-030.md) as a numpy simulation: 600 users,
   400 items, engagement given exposure, classes inferred once from five
   burn-in periods by degree-normalized spectral co-clustering and held
   fixed, then fifteen periods under one of five arms, four seeds each. In
@@ -50,7 +50,7 @@ summary: >-
 
 ## The case
 
-Run on 2026-11-22 for LEAD-030, building the laboratory CASE-296
+Run on 2026-11-22 for [LEAD-030](../leads.d/LEAD-030.md), building the laboratory [CASE-296](CASE-296.md)
 specifies, with its closure test and its intervention arm. Code, results
 (scratch/studies/lead-030/results.md, from results.jsonl) and a README
 saying how to rerun are on the branch claude/lead-030-genres-laboratory.
@@ -65,17 +65,17 @@ never read as a dislike: every model below is fitted on exposed pairs.
 - **World "taste".** Vectors drawn around six centres (between-centre sd
   0.6, within 0.3): genres and audiences exist in the preferences.
   Exposure is weighted by popularity and otherwise unstructured.
-- **World "exposure"** (CASE-296's negative control). Vectors with the
+- **World "exposure"** ([CASE-296](CASE-296.md)'s negative control). Vectors with the
   same spread and no clusters; exposure is channelled through six
   communities, weight 0.08 outside one's own, as a language or a
   promotion slot would.
 
 **Classes.** Inferred once, from the raw engagement counts of five
 burn-in periods under the base policy, by regularized degree-normalized
-spectral co-clustering with K = 6, then held fixed, as CASE-296's
+spectral co-clustering with K = 6, then held fixed, as [CASE-296](CASE-296.md)'s
 intervention arm holds the classification fixed. Each audience's target
 genre is the one its degree-corrected block rate is highest for. Degree
-correction follows Larremore, Clauset and Jacobs (THEORY-2054): without
+correction follows Larremore, Clauset and Jacobs ([THEORY-2054](../theory.d/THEORY-2054.md)): without
 it, the model "tends to sort vertices by degree".
 
 **Arms**, fifteen periods each.
@@ -84,7 +84,7 @@ it, the model "tends to sort vertices by degree".
 2. *Inferred + adapt*: the base policy; users move 10% a period toward
    the mean of the items they engaged with, and creators replace the 3%
    least-engaged items by noisy copies of engaged ones. This arm is not in
-   CASE-296. It is the control the lead's criterion needs, "reshape
+   [CASE-296](CASE-296.md). It is the control the lead's criterion needs, "reshape
    preferences only when used".
 3. *Used*: exposure weighted 20:1 toward the user's target genre;
    preferences fixed.
@@ -99,7 +99,7 @@ it, the model "tends to sort vertices by degree".
 - *Random-exposure gap* (the intervention arm): each user is shown 20
   items uniformly at random, which changes nothing; in-class minus
   out-of-class engagement rate.
-- *Closure* (CASE-296's test, the assistant's): a degree-corrected class
+- *Closure* ([CASE-296](CASE-296.md)'s test, the assistant's): a degree-corrected class
   logistic model against a rank-8 ridge factor model, both fitted to the
   last five periods plus a second random probe, scored on held-out random
   exposure. The score is the share of the factor model's gain over the
@@ -172,8 +172,8 @@ beat the factor model fitted on stale data.
    where it was. Use with adaptation moved all of these and the gap
    (0.35 to 0.48), and the true gap moved with it. Adaptation without use
    lowered the gap (to 0.23). So in this model the classes reshape
-   preferences only when used, which is what LEAD-030 says would count
-   for CLAIM-762's reading. Filed as CLAIM-tmph4j0u.
+   preferences only when used, which is what [LEAD-030](../leads.d/LEAD-030.md) says would count
+   for [CLAIM-762](../claims.d/CLAIM-762.md)'s reading. Filed as [CLAIM-tmph4j0u](../claims.d/CLAIM-tmph4j0u.md).
 2. **A's three outcomes all occurred.** The loop *reinforced* planted
    genres (taste, used + adapt). It *created* a small distinction where
    there had been none (exposure, used + adapt: gap 0.024, true gap 0.020,
@@ -183,10 +183,10 @@ beat the factor model fitted on stale data.
 3. **Fit and stability favour the wrong classes.** The exposure-made
    clusters fitted raw counts better than planted genres and were perfectly
    stable; planted genres were stable (0.89) only when used. Conditioned on
-   exposure and tested on random exposure, CASE-296's closure test passed
+   exposure and tested on random exposure, [CASE-296](CASE-296.md)'s closure test passed
    the planted genres and failed the exposure-made ones, and its control
    partition caught the confound in both forms. Filed as
-   CLAIM-tmpvn59f.
+   [CLAIM-tmpvn59f](../claims.d/CLAIM-tmpvn59f.md).
 4. **The closure defect does not separate the third kind from adaptation
    in general.** It turned negative wherever preferences homogenized within
    classes, with or without use. It registers homogenization within classes;
@@ -198,7 +198,7 @@ The mechanisms were written into the simulator: users who drift toward
 what they engage with, and a recommender that channels exposure. The
 laboratory shows that the measures can tell the cases apart when the
 cases are known, not that real genres are reshaped. It cannot show what
-the owner's earlier analysis of real data showed (CASE-296). Creation was
+the owner's earlier analysis of real data showed ([CASE-296](CASE-296.md)). Creation was
 small in fifteen periods and was not run longer. Classes were inferred
 once with K fixed at the planted number; re-inference during the run,
 choice of K, and A27 §5's self-supervised arm were not run. "The cost of

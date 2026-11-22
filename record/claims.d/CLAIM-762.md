@@ -181,9 +181,9 @@ A note, no relation.
 ## Note of 2026-11-22: the laboratory of genres, run in simulation
 <!-- inactive-ok-file: CASE-tmpw8bs2 CLAIM-tmph4j0u — new; the simulated laboratory of 2026-11-22 and the claim filed from it -->
 
-LEAD-030 said what would count for this claim's reading: classes that
-reshape preferences only when used. In CASE-tmpw8bs2 they did
-(CLAIM-tmph4j0u): used while users and creators adapted, the inferred
+[LEAD-030](../leads.d/LEAD-030.md) said what would count for this claim's reading: classes that
+reshape preferences only when used. In [CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md) they did
+([CLAIM-tmph4j0u](CLAIM-tmph4j0u.md)): used while users and creators adapted, the inferred
 genres separated further (the gap under randomized exposure from 0.35 to
 0.48) and became stable (ARI 0.84); the same adaptation without them
 eroded the gap (to 0.23). Where exposure alone had made the clusters, use
@@ -193,7 +193,7 @@ How it bears on the claim is the owner's to choose; two readings, filed
 as alternatives:
 
 - **(a) Corroboration.** The lead's stated criterion is met, so
-  CLAIM-tmph4j0u gives this claim independent evidence and could carry
+  [CLAIM-tmph4j0u](CLAIM-tmph4j0u.md) gives this claim independent evidence and could carry
   `corroborates` to it.
 - **(b) Illustration only.** The simulator was built with the mechanism
   (users drift toward what they engage with, the recommender channels

@@ -50,9 +50,9 @@ Classes that reshape preferences only when used supports the reading of
 
 Run by the assistant as a delegated lead worker, as a numpy simulation
 (scratch/studies/lead-030/, branch claude/lead-030-genres-laboratory),
-filed as CASE-tmpw8bs2, with CLAIM-tmph4j0u and CLAIM-tmpvn59f. Two
+filed as [CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md), with [CLAIM-tmph4j0u](../claims.d/CLAIM-tmph4j0u.md) and [CLAIM-tmpvn59f](../claims.d/CLAIM-tmpvn59f.md). Two
 worlds (genres planted in preferences; clusters made by exposure alone,
-CASE-296's negative control) and five arms: the three of CASE-296, plus
+[CASE-296](../cases.d/CASE-296.md)'s negative control) and five arms: the three of [CASE-296](../cases.d/CASE-296.md), plus
 adaptation without use, which the criterion under "What would count"
 needs, and a popularity loop. In this model the classes reshape
 preferences only when used: the gap in engagement under randomized exposure

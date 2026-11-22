@@ -147,14 +147,14 @@ ChatGPT (A80) proposed a laboratory version in three conditions: descriptive cat
 ## Note of 2026-11-22: the laboratory, run in simulation
 <!-- inactive-ok-file: CASE-tmpw8bs2 CLAIM-tmph4j0u CLAIM-tmpvn59f — new; the run of this case's laboratory and the claims filed from it -->
 
-LEAD-030 ran this laboratory as a simulation (CASE-tmpw8bs2). Its closure
+[LEAD-030](../leads.d/LEAD-030.md) ran this laboratory as a simulation ([CASE-tmpw8bs2](CASE-tmpw8bs2.md)). Its closure
 test, conditioned on exposure and scored on randomized exposure, kept 0.86
 of an item-level model's gain for genres planted in preferences and −0.01
 for clusters made by exposure alone, equal to both controls; not
 conditioned on exposure, the exposure-made clusters fitted better, and the
-control partition still caught them (CLAIM-tmpvn59f). The intervention arm
+control partition still caught them ([CLAIM-tmpvn59f](../claims.d/CLAIM-tmpvn59f.md)). The intervention arm
 separated the three kinds of class where nothing else did
-(CLAIM-tmph4j0u), and A's three outcomes all occurred: reinforcement,
+([CLAIM-tmph4j0u](../claims.d/CLAIM-tmph4j0u.md)), and A's three outcomes all occurred: reinforcement,
 a small creation, and erasure under a popularity loop. The closure defect
 turned negative under any adaptation, used or not, so it cannot stand in
 for the intervention arm. The case is unchanged.
