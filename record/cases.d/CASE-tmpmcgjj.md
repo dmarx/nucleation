@@ -33,7 +33,7 @@ summary: >-
   The constructions are the assistant's (Claude, in this session);
   adopting them is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-1971 — Proposed; the SEP entry's statement of the test, used as the test applied -->
+<!-- inactive-ok-file: THEORY-1971 CLAIM-747 — Proposed; the SEP entry's statement of the test, used as the test applied, and the claim the third construction instantiates -->
 
 # CASE-tmpmcgjj: Matched constructions on one courier platform that vary only the capacity to formulate objections, control of review, the erosion of alternatives or the power to revise the rules, with variants that stipulate the protective reasons away
 
@@ -52,13 +52,13 @@ same couriers are deactivated, the same appeals are filed, and every
 decision that was correct under R stays, every one that was not is
 reversed. A pair differs in one stated respect and nothing else.
 
-The test applied to each pair is reasonable rejection as [THEORY-1971](../theory.d/THEORY-1971.md)
+The test applied to each pair is reasonable rejection as THEORY-1971
 states it: an arrangement is wrong to the extent that it is disallowed by
 every set of principles for it that no one could reasonably reject, judged
 by individuals' reasons for objecting to a principle and its
 alternatives. Whether the test explains a pair's difference "without
 importing principles of standing or authority" (A102 §12, relayed in
-[QUESTION-483](../questions.d/QUESTION-483.md)) is asked of each.
+QUESTION-483) is asked of each.
 
 ## C1: identical principles, different capacities to formulate objections
 
@@ -72,7 +72,7 @@ importing principles of standing or authority" (A102 §12, relayed in
 The courier in W1′ has the same right to appeal and the same reasons
 against a wrong decision, but cannot formulate the objection that a given
 delivery was not late, since they cannot tell which deliveries counted.
-This is A102 §2's split, held as a note on [CLAIM-523](../claims.d/CLAIM-523.md), between reasons
+This is A102 §2's split, held as a note on CLAIM-523, between reasons
 a person has and reasons the person can formulate.
 
 ## C2: first-order authority fixed, control of review varied
@@ -112,7 +112,7 @@ the body that reviews decisions over them and in W2′ they do not.
   offer.
 
 The terms in year five are identical. W3′'s narrowness of alternatives is
-a product of the relationship the terms govern, as [CLAIM-747](../claims.d/CLAIM-747.md) has it.
+a product of the relationship the terms govern, as CLAIM-747 has it.
 
 ## C4: the power to revise the governing rules
 
@@ -124,7 +124,7 @@ Both worlds review as W2 does, and both act and correct well.
   thirty days' notice; couriers have no say.
 
 On the stipulated history neither platform ever amends R. This is
-[QUESTION-481](../questions.d/QUESTION-481.md)'s requested construction: an arrangement that acts and
+QUESTION-481's requested construction: an arrangement that acts and
 corrects well while no one subject to it can change its governing rules
 (W4′), matched with one that differs only in that capacity (W4).
 

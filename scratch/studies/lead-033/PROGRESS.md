@@ -12,10 +12,13 @@
 - Tried the exchange share (chatgpt.com/share/6afcb46d-...) once on 2026-11-22 for A102 §12's verbatim text: HTTP 503. Not retried. Working from QUESTION-483's relay.
 - CASE-tmpmcgjj filed: constructions C1-C4 on one courier platform, plus variants C2* and C4* that stipulate protective reasons away.
 
+- CLAIM-tmp72lji filed: C1-C4 as stated explained by protective personal reasons -> supplement-only.
+- CLAIM-tmpduscr filed: only C2*/C4* discriminate; verdict turns on status reasons; QUESTION-484 consequence. Lean (b).
+- Codes reserved by luria new (templates, not yet committed): CLAIM-tmpz92ao (alt a), CLAIM-tmpn0ocj (alt b), CLAIM-tmpxbgny (alt c), ARG-tmpg6xcm (formal-application concluding CLAIM-tmp72lji).
+
 ## Next
 
-- CLAIM (thesis): C1-C4 as stated are explained by reasonable rejection through protective personal reasons, no normative-power standing imported -> supplement-only. ARG (formal-application) concluding it.
-- CLAIM (thesis): only C2*/C4* discriminate; the verdict there turns on whether status reasons are admitted; protective explanation makes verdicts depend on reliability/feasibility (QUESTION-484).
+- ARG-tmpg6xcm (formal-application) concluding CLAIM-tmp72lji.
 - Three alternative CLAIMs for C2*/C4* (owner's call): (a) no residual wrong; (b) residual wrong explained by status reasons (Scanlon 2013 style); (c) residual wrong needs imported standing (Wenar style).
 - Dated notes on QUESTION-483, 484, 481, LEAD-033; changelog fragment record/changelog.d/lead-033.md.
 
