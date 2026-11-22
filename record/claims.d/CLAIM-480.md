@@ -282,3 +282,8 @@ A12 §6 of the exchange (2026-11-06 to 07) cites Wang and Tang 2019, "Emergence 
 <!-- inactive-ok-file: THEORY-tmp2gc2a — Proposed; filed by LEAD-023 -->
 
 The note of 2026-11-07 asked whether Wang and Tang say what A cited them for. They do (THEORY-tmp2gc2a; NOTE-tmpe2mdk; LIT-2256): cells at rest, each adapting to a shared signal that it also releases, oscillate together once "N α1 R̃a (ωo )R̃s (ωo ) = 1", and in their yeast model the coupled population "continues to oscillate" where "an isolated cell exits from the oscillatory regime into the adaptive regime". A parallel to this claim, dynamical where its chain is static: the composition has a capacity no part has, at a threshold set jointly by the parts' responses. It is not an instance of eliminating an interior into a boundary constraint, so no edge is written. No status change.
+
+## Note of 2026-11-22: Battiston and colleagues, skimmed
+<!-- inactive-ok-file: THEORY-tmpmnv43 NOTE-tmpejuy1 — Proposed and Skimmed; filed by LEAD-023 -->
+
+A parallel to this claim's last clause, from Battiston and colleagues' review (THEORY-tmpmnv43; NOTE-tmpejuy1, skimmed; LIT-2239). Eliminating the amplitudes of pairwise-coupled oscillators by a phase reduction carried to higher order yields effective triplet and quadruplet phase interactions: "even when the coupling terms in Gi are pairwise, one may expect nonpairwise interactions to enter the phase dynamics at higher-order expansions", capturing influence of k on i "via j" (§III B). That is a dynamical case of a reduction producing a constraint of a new arity, as this claim's sheaf case does. The review reports it from others, so no edge is written; no status change.

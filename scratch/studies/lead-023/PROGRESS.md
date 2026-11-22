@@ -37,12 +37,13 @@ any of the 15 LITs; none is already read.
 - LIT-2259 Bosca & Ghrist (Skimmed): NOTE-tmpd2cps, THEORY-tmp0xz8p; notes on THEORY-1088, QUESTION-282.
 - LIT-2262 Leal et al. (Skimmed): NOTE-tmp9h46q, THEORY-tmpzt77d; note on QUESTION-282.
 - Excuse lines (inactive-ok-file) added to NOTEs and LITs citing Proposed or Skimmed codes.
+- LIT-2239 Battiston et al. (Skimmed): NOTE-tmpejuy1, THEORY-tmpmnv43; notes on CLAIM-480, CLAIM-153.
 
 ## Next (order chosen by what the claims most need)
 
 
 LIT-2235 Schultz & Spivak;
-LIT-2239 Battiston; dated note on LEAD-023.
+dated note on LEAD-023.
 
 ## Choices
 

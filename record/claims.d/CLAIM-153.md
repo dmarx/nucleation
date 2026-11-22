@@ -121,3 +121,8 @@ Bačić and colleagues (THEORY-tmpcdxvd; NOTE-tmp7pvg9; LIT-2253) generalize the
 <!-- inactive-ok-file: THEORY-tmpnlu47 — Proposed; filed by LEAD-023 -->
 
 Manik, Timme and Witthaut (THEORY-tmpnlu47; NOTE-tmpftn2t; LIT-2267) give the graph case of the Bačić reading above. They split phase locking as this claim splits coherence: a linear local condition (flow conservation at each node) whose solutions differ by cycle flows, and a global condition, "the phase differences over every simple cycle ... must add up to an integer multiple of 2π". Their rings with four or fewer nodes have one stable locked state, which corroborates CLAIM-tmp7vutq's threshold. Their "geometric frustration" (Definition 8: conserved flows exist, consistent phases do not) has no offsets on the couplings and is a third sense beside this claim's monodromy and TERM-060's; it is not this claim's obstruction. No status change.
+
+## Note of 2026-11-22: Battiston and colleagues, skimmed
+<!-- inactive-ok-file: NOTE-tmpejuy1 — Skimmed; filed by LEAD-023 -->
+
+Background from Battiston and colleagues' review (NOTE-tmpejuy1, skimmed; LIT-2239). Its higher-order counterpart of this claim's frustrated energy is the simplicial Sakaguchi–Kuramoto model, where "Frustration may also be introduced ... by adding phase lags"; and in the topological Kuramoto model synchronization lives on the harmonic modes localized on the complex's holes. Nothing in it tests this claim; no status change.
