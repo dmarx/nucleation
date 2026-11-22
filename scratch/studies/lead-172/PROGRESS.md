@@ -28,6 +28,18 @@
   and 8 held-out-intervention arms (wd 0.5 and 2.0, frac 0.4/0.5, seeds
   0-1), 4 shards in parallel; estimate ~13 min, limit 30 min.
 
+- All 25 arms done by 13:16 (10 added at 13:15: fit seeds 3-5 at frac
+  0.5/0.6; held-out wd 0.5 seeds 2-3). f40 (wd 1.0) and wd 2.0 arms did
+  not generalize within 15000 steps (censored). Results recompressed to
+  one gzip stream per arm after completion (1.2 MB).
+- analyze.py run: analysis_te250.json, analysis_te500.json,
+  analysis_stdout.txt. Headline: logit selection-rule coupling C2 at step
+  250/500 forecasts log10 T_gen on held-out weight-decay arms with RMSE
+  0.154/0.130 (constant 0.345; Fourier energy 0.192/0.197; test acc
+  0.276/0.247; kernel alignment 0.186/0.350); beats all 20 equal-edge null
+  draws at both checkpoints (null median 0.34). No measure foresaw the 5
+  censored arms. C2 crosses 0.5 at or after T_gen, not before.
+
 ## Next
 
 - analyze.py: features at memorization step T_mem, single-feature linear

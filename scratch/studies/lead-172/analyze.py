@@ -134,6 +134,17 @@ def main(t_e):
                      "slope": float(coef[1]),
                      "spearman_all": spearman(x_all, np.r_[y_fit, y_ho])}
     real = [k for k in scores if "null" not in k]
+    # Paired bootstrap over held-out arms: how often C2's held-out RMSE is
+    # below each other measure's.
+    rng = np.random.default_rng(0)
+    preds = {}
+    for k in real:
+        x_fit = np.array([a["features"][k] for a in fit])
+        preds[k], _ = fit_predict(x_fit, y_fit, np.array([a["features"][k] for a in ho]))
+    idx = rng.integers(0, len(ho), (2000, len(ho)))
+    rm = {k: np.sqrt(((preds[k][idx] - y_ho[idx]) ** 2).mean(1)) for k in real}
+    for k in real:
+        scores[k]["boot_C2_better"] = float((rm["C2"] < rm[k]).mean()) if k != "C2" else None
     # Censored arms (no generalization within the step cap): does each
     # forecast, fitted on the fit arms, put them beyond the slowest observed?
     cens = [a for a in arms if a["t_gen"] is None and "features" in a]
@@ -174,9 +185,9 @@ def main(t_e):
     print("constant heldout rmse", const)
     for k in sorted(real, key=lambda k: scores[k]["heldout_rmse"]):
         s = scores[k]
-        print("%-15s heldout %.3f  loo %.3f  rho %.2f  censored>slowest %s/%s" % (
+        print("%-15s heldout %.3f  loo %.3f  rho %.2f  censored>slowest %s/%s  P(C2 better) %s" % (
             k, s["heldout_rmse"], s["fit_loo_rmse"], s["spearman_all"],
-            s.get("censored_beyond_slowest"), s.get("n_censored")))
+            s.get("censored_beyond_slowest"), s.get("n_censored"), s.get("boot_C2_better")))
     print("null C1", out["null_C1"], "C1sel beaten by", out["rank_C1sel_among_nulls"])
     print("null C2", out["null_C2"], "C2 beaten by", out["rank_C2_among_nulls"])
     for a in ok:

@@ -1,0 +1,66 @@
+== early checkpoint t_e = 250 ; min T_gen 850
+arms 25 grokked 20 fit 12 heldout 8
+constant heldout rmse 0.34502503424190617
+C2              heldout 0.154  loo 0.052  rho -0.94  censored>slowest 0/5  P(C2 better) None
+C1sel           heldout 0.176  loo 0.066  rho -0.84  censored>slowest 0/5  P(C2 better) 0.722
+KA              heldout 0.186  loo 0.092  rho -0.91  censored>slowest 0/5  P(C2 better) 0.982
+fourier_energy  heldout 0.192  loo 0.071  rho -0.83  censored>slowest 0/5  P(C2 better) 0.9355
+test_acc        heldout 0.276  loo 0.099  rho -0.71  censored>slowest 0/5  P(C2 better) 1.0
+test_loss       heldout 0.397  loo 0.070  rho 0.77  censored>slowest 0/5  P(C2 better) 0.9925
+K_rot           heldout 0.639  loo 0.205  rho -0.22  censored>slowest 0/5  P(C2 better) 1.0
+train_loss      heldout 2.514  loo 0.143  rho -0.70  censored>slowest 0/5  P(C2 better) 1.0
+null C1 {'heldout_rmse_median': 0.2727695303716905, 'heldout_rmse_min': 0.1972931541544282, 'fit_loo_rmse_median': 0.15264181562666893, 'n': 20} C1sel beaten by 0
+null C2 {'heldout_rmse_median': 0.3448247874872671, 'heldout_rmse_min': 0.3305362396078688, 'fit_loo_rmse_median': 0.20518567936369406, 'n': 20} C2 beaten by 0
+f50_wd050_s0 T_mem 100 T_C2half None T_KAhalf None T_gen 2600
+f50_wd050_s1 T_mem 50 T_C2half None T_KAhalf None T_gen 7550
+f50_wd050_s2 T_mem 100 T_C2half None T_KAhalf None T_gen 4100
+f50_wd050_s3 T_mem 50 T_C2half None T_KAhalf None T_gen 3450
+f50_wd100_s0 T_mem 100 T_C2half None T_KAhalf None T_gen 2050
+f50_wd100_s1 T_mem 100 T_C2half None T_KAhalf None T_gen 2050
+f50_wd100_s2 T_mem 100 T_C2half None T_KAhalf None T_gen 2000
+f50_wd100_s3 T_mem 100 T_C2half None T_KAhalf None T_gen 2100
+f50_wd100_s4 T_mem 100 T_C2half None T_KAhalf None T_gen 2000
+f50_wd100_s5 T_mem 100 T_C2half None T_KAhalf None T_gen 2450
+f60_wd050_s0 T_mem 100 T_C2half 1300 T_KAhalf None T_gen 1250
+f60_wd050_s1 T_mem 100 T_C2half 1500 T_KAhalf None T_gen 1450
+f60_wd050_s2 T_mem 100 T_C2half 1350 T_KAhalf None T_gen 1350
+f60_wd050_s3 T_mem 100 T_C2half 1300 T_KAhalf None T_gen 1300
+f60_wd100_s0 T_mem 100 T_C2half 1050 T_KAhalf None T_gen 900
+f60_wd100_s1 T_mem 100 T_C2half 1300 T_KAhalf None T_gen 1150
+f60_wd100_s2 T_mem 100 T_C2half 1100 T_KAhalf None T_gen 1000
+f60_wd100_s3 T_mem 100 T_C2half 950 T_KAhalf None T_gen 850
+f60_wd100_s4 T_mem 100 T_C2half 1100 T_KAhalf None T_gen 950
+f60_wd100_s5 T_mem 100 T_C2half 1150 T_KAhalf None T_gen 1000
+== early checkpoint t_e = 500 ; min T_gen 850
+arms 25 grokked 20 fit 12 heldout 8
+constant heldout rmse 0.34502503424190617
+C2              heldout 0.130  loo 0.060  rho -0.92  censored>slowest 0/5  P(C2 better) None
+C1sel           heldout 0.195  loo 0.070  rho -0.80  censored>slowest 1/5  P(C2 better) 0.952
+fourier_energy  heldout 0.197  loo 0.056  rho -0.78  censored>slowest 0/5  P(C2 better) 0.9955
+test_loss       heldout 0.243  loo 0.066  rho 0.76  censored>slowest 0/5  P(C2 better) 0.989
+test_acc        heldout 0.247  loo 0.055  rho -0.86  censored>slowest 0/5  P(C2 better) 0.9995
+KA              heldout 0.350  loo 0.215  rho -0.12  censored>slowest 0/5  P(C2 better) 0.998
+K_rot           heldout 0.511  loo 0.093  rho -0.73  censored>slowest 0/5  P(C2 better) 0.9995
+train_loss      heldout 3.974  loo 0.169  rho -0.08  censored>slowest 2/5  P(C2 better) 1.0
+null C1 {'heldout_rmse_median': 0.2638598628255324, 'heldout_rmse_min': 0.18769640166984178, 'fit_loo_rmse_median': 0.16164362638006205, 'n': 20} C1sel beaten by 6
+null C2 {'heldout_rmse_median': 0.3430296487233744, 'heldout_rmse_min': 0.290460125355404, 'fit_loo_rmse_median': 0.20155463609275395, 'n': 20} C2 beaten by 0
+f50_wd050_s0 T_mem 100 T_C2half None T_KAhalf None T_gen 2600
+f50_wd050_s1 T_mem 50 T_C2half None T_KAhalf None T_gen 7550
+f50_wd050_s2 T_mem 100 T_C2half None T_KAhalf None T_gen 4100
+f50_wd050_s3 T_mem 50 T_C2half None T_KAhalf None T_gen 3450
+f50_wd100_s0 T_mem 100 T_C2half None T_KAhalf None T_gen 2050
+f50_wd100_s1 T_mem 100 T_C2half None T_KAhalf None T_gen 2050
+f50_wd100_s2 T_mem 100 T_C2half None T_KAhalf None T_gen 2000
+f50_wd100_s3 T_mem 100 T_C2half None T_KAhalf None T_gen 2100
+f50_wd100_s4 T_mem 100 T_C2half None T_KAhalf None T_gen 2000
+f50_wd100_s5 T_mem 100 T_C2half None T_KAhalf None T_gen 2450
+f60_wd050_s0 T_mem 100 T_C2half 1300 T_KAhalf None T_gen 1250
+f60_wd050_s1 T_mem 100 T_C2half 1500 T_KAhalf None T_gen 1450
+f60_wd050_s2 T_mem 100 T_C2half 1350 T_KAhalf None T_gen 1350
+f60_wd050_s3 T_mem 100 T_C2half 1300 T_KAhalf None T_gen 1300
+f60_wd100_s0 T_mem 100 T_C2half 1050 T_KAhalf None T_gen 900
+f60_wd100_s1 T_mem 100 T_C2half 1300 T_KAhalf None T_gen 1150
+f60_wd100_s2 T_mem 100 T_C2half 1100 T_KAhalf None T_gen 1000
+f60_wd100_s3 T_mem 100 T_C2half 950 T_KAhalf None T_gen 850
+f60_wd100_s4 T_mem 100 T_C2half 1100 T_KAhalf None T_gen 950
+f60_wd100_s5 T_mem 100 T_C2half 1150 T_KAhalf None T_gen 1000
