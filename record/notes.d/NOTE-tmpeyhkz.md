@@ -18,7 +18,7 @@ history:
     classifier (NOTE-1763 records the 2026-11-12 reCAPTCHA/Cloudflare/403).
 date: '2026-11-22'
 summary: >-
-  The paper behind THEORY-1658, read for LEAD-051. In mice, a conditional
+  The paper behind [THEORY-1658](../theory.d/THEORY-1658.md), read for [LEAD-051](../leads.d/LEAD-051.md). In mice, a conditional
   depletion platform (maternal-only Cre-driven diphtheria-toxin receptor)
   shows noninherited-maternal-antigen (NIMA) tolerance is sustained only by
   maternal microchimeric cells co-expressing LysM, CD11c and Vav1, and that
@@ -103,31 +103,31 @@ persistence are separately regulated.
 
 Extends the laboratory's antibody-based MMc-depletion work (refs 29, 30 in the
 paper) by making depletion cell-lineage-specific and conditional. Within the
-record it is the paper behind the press post read in NOTE-1763 (LIT-2428) and
-the finer, same-laboratory result flagged in NOTE-1728 (Kinder et al.,
-LIT-2348).
+record it is the paper behind the press post read in [NOTE-1763](NOTE-1763.md) ([LIT-2428](../literature.d/LIT-2428.md)) and
+the finer, same-laboratory result flagged in [NOTE-1728](NOTE-1728.md) (Kinder et al.,
+[LIT-2348](../literature.d/LIT-2348.md)).
 
 ## Bearing on the record
 
-- **THEORY-1658** (the account, Proposed): the reading confirms both halves of
+- **[THEORY-1658](../theory.d/THEORY-1658.md)** (the account, Proposed): the reading confirms both halves of
   its promote_when verbatim — depletion of LysM+ CD11c+ (Vav1+) MMc abolishes
   NIMA-specific tolerance (Figures 3-5) and "does not diminish overall MMc
   levels, dissociating NIMA-specific tolerance from MMc persistence" (abstract;
-  Figure 7). Promotion and whether to add LIT-2462 as the account's source are
+  Figure 7). Promotion and whether to add [LIT-2462](../literature.d/LIT-2462.md) as the account's source are
   the owner's call: this reading is not independent of the press post that
-  filed THEORY-1658 (read-and-file step 8), since both report the same study.
-- **CLAIM-659** (microchimerism bears on graded individuality): supports the
+  filed [THEORY-1658](../theory.d/THEORY-1658.md) (read-and-file step 8), since both report the same study.
+- **[CLAIM-659](../claims.d/CLAIM-659.md)** (microchimerism bears on graded individuality): supports the
   premise it leans on — foreign-origin cells doing regulatory work in a host,
   established by intervention, not mere coexistence. The Discussion's closing
   line is apt: individuals are "constitutively chimeric ... phenotypically
   distinct microchimeric cells that defy our current immunological framework
   defining antigens based on binary self versus non-self distinction". Leaves
-  gradedness of individuality untouched, as ARG-090 already holds.
-- **CLAIM-530** and **QUESTION-086**: the reading supplies the concrete handles
+  gradedness of individuality untouched, as [ARG-090](../arguments.d/ARG-090.md) already holds.
+- **[CLAIM-530](../claims.d/CLAIM-530.md)** and **[QUESTION-086](../questions.d/QUESTION-086.md)**: the reading supplies the concrete handles
   (identified tolerogenic subset, DTR/DT depletion, Treg and fetal-wastage
   readouts, the "ongoing stimulation" requirement, and autonomous persistence)
   that let the own-cell-vs-donor-cell comparison be specified; it is written up
-  as CASE-tmpmkc5v.
+  as [CASE-tmpmkc5v](../cases.d/CASE-tmpmkc5v.md).
 
 ## Limitations
 
@@ -149,4 +149,4 @@ LIT-2348).
 - Whether a once-supplied, matched tolerogenic cell population (a donor source
   of the same function) sustains tolerance and responds to the same depletion
   and stimulation interventions as the host's own MMc — the comparison
-  CASE-tmpmkc5v specifies.
+  [CASE-tmpmkc5v](../cases.d/CASE-tmpmkc5v.md) specifies.
