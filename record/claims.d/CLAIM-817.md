@@ -62,7 +62,6 @@ summary: >-
   the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmphcnj3 THEORY-tmpmsncg THEORY-tmpfrz0k THEORY-tmpzmy66 THEORY-tmp7rz62 TERM-tmpeguzj ARG-tmpqxprw ARG-tmp3q9cy ARG-tmpaf6km — Proposed or Rejected; the readings of 2026-11-22 cited in the notes, the term and the arguments filed with them -->
-<!-- inactive-ok-file: LIT-3007 — Deferred when cited; Reed and Hughes, read in this round by another filer -->
 <!-- inactive-ok-file: CLAIM-830 CLAIM-806 CLAIM-803 CLAIM-184 CLAIM-677 THEORY-1927 THEORY-188 — Proposed or new; claims filed from the same exchange and held entries cited as neighbours -->
 <!-- inactive-ok-file: ARG-127 ARG-149 THEORY-2150 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 

@@ -59,7 +59,6 @@ bears_on:
 <!-- inactive-ok-file: THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-796 CLAIM-817 CLAIM-830 CASE-303 — Proposed or new; the claim objected to and the claims and case this rests on, filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmpmsncg THEORY-tmpzmy66 ARG-tmpqxprw — Proposed; the readings of 2026-11-22 and the argument that says how they bear -->
-<!-- inactive-ok-file: LIT-3007 — Deferred when cited; Reed and Hughes, read in this round by another filer -->
 
 # CLAIM-806: Linear preferential attachment is itself balanced at a boundary, between the stretched-exponential tails of weaker attachment and the condensation of stronger, so rich-get-richer processes and criticality are not opposite routes to a power law: both reach one at a marginal point, and differ in what is balanced
 

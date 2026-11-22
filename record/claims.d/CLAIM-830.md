@@ -56,7 +56,6 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 TERM-tmpg1vx2 — Proposed; the readings of 2026-11-22 and the term filed as the other alternative -->
 <!-- inactive-ok-file: LIT-tmp7g7aj — Deferred; Simon (1955), registered and unread -->
-<!-- inactive-ok-file: LIT-3007 — Deferred; registered from this exchange and not read when cited -->
 <!-- inactive-ok-file: THEORY-tmpfrz0k THEORY-tmpzmy66 THEORY-tmpmsncg THEORY-tmp7rz62 TERM-tmpeguzj ARG-tmpmylwc — Proposed; the readings of 2026-11-22, the term and the argument filed with them -->
 <!-- inactive-ok-file: CLAIM-795 CLAIM-824 CLAIM-817 CLAIM-806 THEORY-2150 ARG-144 — Proposed or new; claims and the question filed with this one from the same exchange -->
 
