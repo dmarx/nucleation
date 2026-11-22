@@ -26,6 +26,7 @@ summary: >-
   improver and correctability is A's, and adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: CASE-tmp6btcq CLAIM-tmp7ggg0 CASE-tmpl0ccq — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2287 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: LIT-2488 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CASE-255 — filed from the same exchange, Proposed -->
@@ -146,3 +147,31 @@ only the source; Shumailov et al. ([THEORY-1734](../theory.d/THEORY-1734.md)) a 
 recursive training loses rare cases, which keeping sources limits; Xue et
 al.'s PAST-Bench ([THEORY-1802](../theory.d/THEORY-1802.md)) is a precursor for inheritance, not
 evidence on improvers. The question is unchanged.
+
+## Note of 2026-11-22: CASE-255 run in reduced form
+
+LEAD-140 ran CASE-255 as a simulation (CASE-tmp6btcq;
+CLAIM-tmp7ggg0). A hill-climbing improver tuned CASE-tmpl0ccq's organization,
+and in four arms the collective also changed the improver; 12 lineages
+per arm. Against the question's three outcomes, in that construction:
+
+- **Yes, in part.** The later improver did better than the earlier from
+  the same fresh state at the same budget in every arm that could change
+  it, by 0.010 to 0.017 on the held-out score (p = 0.02 with an outside
+  suite, 0.007 with an outside veto, 0.08 and 0.15 in the other two).
+  The gain survived a successor that
+  inherits the improver's settings. It did not survive one that inherits
+  only the record and no procedure for reading it. The collective detected
+  damage to its suite at once where its improver kept a self-test.
+- **No, with a product gain**, in single lineages. Where changes to the
+  improver were judged by the public metric, its own suite, or an outside
+  test of products, 1 or 2 lineages in 12 shed the artifact's self-check
+  at no visible public cost, and 2 to 5 shed the improver's self-test.
+- **The different answer**, twice. An outside veto on weakening
+  verification kept every artifact's self-check while having the largest
+  improver gain. And with the suite's self-test removed, a record of past
+  moves kept verification that a record-blind improver lost in 10 of 12
+  lineages.
+
+It is a construction, not a collective of agents, and the experimenter set
+every criterion. The question stays open.
