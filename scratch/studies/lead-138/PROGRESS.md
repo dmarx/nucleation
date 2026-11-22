@@ -38,3 +38,17 @@
 - ASEP (asep.lib.cas.cz) records for LIT-1567, 1569, 1572: metadata only, no file.
 - Lund LUP record for LIT-1567: no file link found.
 - SciSpace (LIT-1573): abstract only.
+
+## Copies reached (2026-11-22, in scratchpad, not committed)
+
+- LIT-1567 Karnkowska 2016: in-press article PDF on the University of Warsaw
+  Faculty of Biology site (first author's institution):
+  https://www.biol.uw.edu.pl/wp-content/uploads/sites/19/2020/10/A_Karnkowska_A_Eukaryote_without_a_Mitochondrial_Organelle_160516.pdf
+- LIT-1586 Łukasik 2017/2018 PNAS: Symbiosis Evolution Group (Łukasik lab),
+  Jagiellonian University, publications page:
+  https://symbio.eko.uj.edu.pl/documents/25031683/26786549/2018_Lukasik_et_al_PNAS.pdf/6cddb8b9-6273-03e8-bab0-a957ec180c1d
+- LIT-1602 Campbell 2017 Curr Biol: same lab page:
+  https://symbio.eko.uj.edu.pl/documents/25031683/26786549/2017_Campbell_et_al_CurrBiol.pdf/1e83749e-750d-5fa5-6594-ec1a9b904fc2
+- LIT-2395 Strand 2025/2026: NSF Public Access Repository,
+  https://par.nsf.gov/servlets/purl/10652100 (publisher PDF, 2026 vol. 71:209-28)
+- core.ac.uk download: Cloudflare. Stopped.
