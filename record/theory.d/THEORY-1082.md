@@ -93,4 +93,4 @@ holonomy, or none for a flat one; the spanning-tree argument rules out both.
 ## Note of 2026-11-22: Bačić, Schaub, Kurths and Witthaut, read
 <!-- inactive-ok-file: THEORY-tmpcdxvd — Proposed; filed by LEAD-023 -->
 
-A parallel (THEORY-tmpcdxvd; NOTE-tmp7pvg9). This account's compatibility condition, phase around every cycle 0 mod 2π, is the linear and frustrated form of the nonlinear voltage law Bačić and colleagues derive for the Kuramoto model on cell complexes without offsets, where the cycle sums of inverse sines equal 2πz. No change to this account.
+A parallel ([THEORY-tmpcdxvd](THEORY-tmpcdxvd.md); [NOTE-tmp7pvg9](../notes.d/NOTE-tmp7pvg9.md)). This account's compatibility condition, phase around every cycle 0 mod 2π, is the linear and frustrated form of the nonlinear voltage law Bačić and colleagues derive for the Kuramoto model on cell complexes without offsets, where the cycle sums of inverse sines equal 2πz. No change to this account.

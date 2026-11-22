@@ -17,7 +17,7 @@ source:
 bears_on:
 - QUESTION-252
 summary: >-
-  From the reading of LIT-2250 in NOTE-tmp2mtul, for LEAD-023. A's citation
+  From the reading of [LIT-2250](../literature.d/LIT-2250.md) in [NOTE-tmp2mtul](../notes.d/NOTE-tmp2mtul.md), for [LEAD-023](../leads.d/LEAD-023.md). A's citation
   at A18, that memory terms depend on the projection and are not one
   physical timescale, is borne out and sharpened: memory is coupling.
   Proposed until its promote_when is met.
@@ -27,7 +27,7 @@ summary: >-
 
 ## Source
 
-Widder and Schilling (2026), LIT-2250, read in NOTE-tmp2mtul.
+Widder and Schilling (2026), [LIT-2250](../literature.d/LIT-2250.md), read in [NOTE-tmp2mtul](../notes.d/NOTE-tmp2mtul.md).
 
 ## What was actually shown
 

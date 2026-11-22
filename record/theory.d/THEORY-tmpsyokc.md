@@ -18,7 +18,7 @@ bears_on:
 - QUESTION-063
 - QUESTION-147
 summary: >-
-  From the reading of LIT-2230 in NOTE-tmp5rss0, for LEAD-023. A
+  From the reading of [LIT-2230](../literature.d/LIT-2230.md) in [NOTE-tmp5rss0](../notes.d/NOTE-tmp5rss0.md), for [LEAD-023](../leads.d/LEAD-023.md). A
   demonstration that a pattern of synchrony, clusters included, can be
   imposed by a one-way common drive on units that are not coupled to one
   another. Proposed until its promote_when is met.
@@ -28,8 +28,8 @@ summary: >-
 
 ## Source
 
-Ocampo-Espindola, Singhal, Li and Kiss (2024), LIT-2230, read in
-NOTE-tmp5rss0.
+Ocampo-Espindola, Singhal, Li and Kiss (2024), [LIT-2230](../literature.d/LIT-2230.md), read in
+[NOTE-tmp5rss0](../notes.d/NOTE-tmp5rss0.md).
 
 ## What was actually shown
 

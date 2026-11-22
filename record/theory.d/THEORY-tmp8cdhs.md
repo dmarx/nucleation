@@ -17,7 +17,7 @@ source:
 bears_on:
 - QUESTION-063
 summary: >-
-  From the reading of LIT-2245 in NOTE-tmpw116e, for LEAD-023. A model in
+  From the reading of [LIT-2245](../literature.d/LIT-2245.md) in [NOTE-tmpw116e](../notes.d/NOTE-tmpw116e.md), for [LEAD-023](../leads.d/LEAD-023.md). A model in
   which synchrony between the collective variables of two groups is wholly
   exogenous. It does not say how to tell such synchrony from coupling in
   data. Proposed until its promote_when is met.
@@ -27,7 +27,7 @@ summary: >-
 
 ## Source
 
-Ko (2026), LIT-2245, read in NOTE-tmpw116e.
+Ko (2026), [LIT-2245](../literature.d/LIT-2245.md), read in [NOTE-tmpw116e](../notes.d/NOTE-tmpw116e.md).
 
 ## What was actually shown
 

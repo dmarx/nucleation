@@ -15,7 +15,7 @@ date: '2026-11-22'
 source:
 - LIT-2253
 summary: >-
-  From the reading of LIT-2253 in NOTE-tmp7pvg9, for LEAD-023. The
+  From the reading of [LIT-2253](../literature.d/LIT-2253.md) in [NOTE-tmp7pvg9](../notes.d/NOTE-tmp7pvg9.md), for [LEAD-023](../leads.d/LEAD-023.md). The
   unfrustrated, higher-order counterpart of the record's cycle-consistency
   results. Proposed until its promote_when is met.
 ---
@@ -24,7 +24,7 @@ summary: >-
 
 ## Source
 
-Bačić, Schaub, Kurths and Witthaut (2026), LIT-2253, read in NOTE-tmp7pvg9.
+Bačić, Schaub, Kurths and Witthaut (2026), [LIT-2253](../literature.d/LIT-2253.md), read in [NOTE-tmp7pvg9](../notes.d/NOTE-tmp7pvg9.md).
 
 ## What was actually shown
 

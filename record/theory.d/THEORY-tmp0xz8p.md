@@ -19,8 +19,8 @@ extends:
 bears_on:
 - QUESTION-282
 summary: >-
-  From the skimmed reading of LIT-2259 in NOTE-tmpd2cps, for LEAD-023.
-  Extends Hansen and Ghrist's account (THEORY-1088) with selective rigidity
+  From the skimmed reading of [LIT-2259](../literature.d/LIT-2259.md) in [NOTE-tmpd2cps](../notes.d/NOTE-tmpd2cps.md), for [LEAD-023](../leads.d/LEAD-023.md).
+  Extends Hansen and Ghrist's account ([THEORY-1088](THEORY-1088.md)) with selective rigidity
   and rate bounds. Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: NOTE-tmpd2cps — Skimmed; the reading this account comes from -->
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Bosca and Ghrist (2026), LIT-2259, skimmed in NOTE-tmpd2cps.
+Bosca and Ghrist (2026), [LIT-2259](../literature.d/LIT-2259.md), skimmed in [NOTE-tmpd2cps](../notes.d/NOTE-tmpd2cps.md).
 
 ## What was actually shown
 

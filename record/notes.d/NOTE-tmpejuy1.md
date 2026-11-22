@@ -68,11 +68,11 @@ Hodge Laplacian and harmonic modes; Dirac operator; multistability.
 
 ## Bearing on the record
 
-- **CLAIM-153** (background). The frustrated simplicial model with phase
+- **[CLAIM-153](../claims.d/CLAIM-153.md)** (background). The frustrated simplicial model with phase
   lags, which the review names, is the higher-order form of this claim's
   frustrated XY energy; harmonic modes on holes are where the cycle
-  conditions of Bačić and colleagues (THEORY-tmpcdxvd) live.
-- **CLAIM-480** (a parallel). Its last clause, that a reduced constraint
+  conditions of Bačić and colleagues ([THEORY-tmpcdxvd](../theory.d/THEORY-tmpcdxvd.md)) live.
+- **[CLAIM-480](../claims.d/CLAIM-480.md)** (a parallel). Its last clause, that a reduced constraint
   can relate three boundary values where every relation among the parts is
   pairwise, has a dynamical counterpart here: eliminating amplitudes by
   phase reduction turns pairwise physical coupling into effective triplet

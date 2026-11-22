@@ -15,7 +15,7 @@ date: '2026-11-22'
 source:
 - LIT-2256
 summary: >-
-  From the reading of LIT-2256 in NOTE-tmpe2mdk, for LEAD-023. A dynamical
+  From the reading of [LIT-2256](../literature.d/LIT-2256.md) in [NOTE-tmpe2mdk](../notes.d/NOTE-tmpe2mdk.md), for [LEAD-023](../leads.d/LEAD-023.md). A dynamical
   case of a capacity the composition has and no part has. Proposed until
   its promote_when is met.
 ---
@@ -24,7 +24,7 @@ summary: >-
 
 ## Source
 
-Wang and Tang (2019), LIT-2256, read in NOTE-tmpe2mdk.
+Wang and Tang (2019), [LIT-2256](../literature.d/LIT-2256.md), read in [NOTE-tmpe2mdk](../notes.d/NOTE-tmpe2mdk.md).
 
 ## What was actually shown
 

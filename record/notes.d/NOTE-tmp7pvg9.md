@@ -80,19 +80,19 @@ vector; normal phase-locked state; structural cascade of multistability.
 
 ## Bearing on the record
 
-- **CLAIM-153.** The same cycle-sum condition the record uses, "the
+- **[CLAIM-153](../claims.d/CLAIM-153.md).** The same cycle-sum condition the record uses, "the
   accumulated phase differences around each independent cycle must be
   equal to an integer multiple of 2π", generalized to cell complexes, as A
   said. It is the unfrustrated case: the couplings carry no offsets, so
-  the monodromy of CLAIM-153 is zero and every obstruction there is
+  the monodromy of [CLAIM-153](../claims.d/CLAIM-153.md) is zero and every obstruction there is
   absent. What it adds is that zero monodromy does not make the coherent
   configuration the only stable one: on a cycle of five or more units,
-  stable twisted states with nonzero winding coexist with it. CLAIM-tmp7vutq
-  draws the consequence for CLAIM-153's energy readout.
-- **THEORY-1082.** Its compatibility condition (phase around every cycle
+  stable twisted states with nonzero winding coexist with it. [CLAIM-tmp7vutq](../claims.d/CLAIM-tmp7vutq.md)
+  draws the consequence for [CLAIM-153](../claims.d/CLAIM-153.md)'s energy readout.
+- **[THEORY-1082](../theory.d/THEORY-1082.md).** Its compatibility condition (phase around every cycle
   zero mod 2π) is the linear, offset version of this paper's voltage law;
   this paper is the nonlinear one with winding and without offsets.
-- **QUESTION-282** (background). The cycle parameters here are amounts of
+- **[QUESTION-282](../questions.d/QUESTION-282.md)** (background). The cycle parameters here are amounts of
   circulating flow inside a fixed structure, not changes of the structure.
 
 ## Limitations

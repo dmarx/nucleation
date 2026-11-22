@@ -18,7 +18,7 @@ source:
 bears_on:
 - QUESTION-379
 summary: >-
-  From the skimmed reading of LIT-2235 in NOTE-tmp43jkl, for LEAD-023. A
+  From the skimmed reading of [LIT-2235](../literature.d/LIT-2235.md) in [NOTE-tmp43jkl](../notes.d/NOTE-tmp43jkl.md), for [LEAD-023](../leads.d/LEAD-023.md). A
   coherent behavior type need not be any ODE's solution set; composition
   of contracts eliminates latent variables. Proposed until its
   promote_when is met.
@@ -29,7 +29,7 @@ summary: >-
 
 ## Source
 
-Schultz and Spivak (2017), LIT-2235, skimmed in NOTE-tmp43jkl.
+Schultz and Spivak (2017), [LIT-2235](../literature.d/LIT-2235.md), skimmed in [NOTE-tmp43jkl](../notes.d/NOTE-tmp43jkl.md).
 
 ## What was actually shown
 

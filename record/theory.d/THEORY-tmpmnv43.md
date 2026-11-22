@@ -14,7 +14,7 @@ date: '2026-11-22'
 source:
 - LIT-2239
 summary: >-
-  From the skimmed reading of LIT-2239 in NOTE-tmpejuy1, for LEAD-023. The
+  From the skimmed reading of [LIT-2239](../literature.d/LIT-2239.md) in [NOTE-tmpejuy1](../notes.d/NOTE-tmpejuy1.md), for [LEAD-023](../leads.d/LEAD-023.md). The
   review's account of where higher-order interactions come from; it reports
   others' derivations. Proposed until its promote_when is met.
 ---
@@ -25,7 +25,7 @@ summary: >-
 ## Source
 
 Battiston, Bick, Lucas, Millán, Skardal and Zhang (2026; arXiv 2025),
-LIT-2239, skimmed in NOTE-tmpejuy1.
+[LIT-2239](../literature.d/LIT-2239.md), skimmed in [NOTE-tmpejuy1](../notes.d/NOTE-tmpejuy1.md).
 
 ## What was actually shown
 

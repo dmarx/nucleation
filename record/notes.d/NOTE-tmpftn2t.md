@@ -86,18 +86,18 @@ exist, with no offsets on the couplings.
 
 ## Bearing on the record
 
-- **CLAIM-153 and CLAIM-tmp7vutq.** The graph case of the bound of five:
+- **[CLAIM-153](../claims.d/CLAIM-153.md) and [CLAIM-tmp7vutq](../claims.d/CLAIM-tmp7vutq.md).** The graph case of the bound of five:
   a ring with four or fewer nodes has one stable locked state, and the
-  twisted states of the unfrustrated ring are the windings CLAIM-tmp7vutq
+  twisted states of the unfrustrated ring are the windings [CLAIM-tmp7vutq](../claims.d/CLAIM-tmp7vutq.md)
   uses. Their split into a linear local condition and a global cycle
-  condition is the same split CLAIM-153 makes between local consistency
+  condition is the same split [CLAIM-153](../claims.d/CLAIM-153.md) makes between local consistency
   and monodromy.
-- **QUESTION-282.** Two parallels, not answers: strengthening one link,
+- **[QUESTION-282](../questions.d/QUESTION-282.md).** Two parallels, not answers: strengthening one link,
   a change of the coupling structure from outside, can remove every
   locked state (Braess), and fusing two motifs can create or destroy
   locked states that neither had. Both are changes of the operator made by
   the modeller, not by interaction.
-- **TERM-060** (a homonym to keep apart). "Geometric frustration" here is
+- **[TERM-060](../terms.d/TERM-060.md)** (a homonym to keep apart). "Geometric frustration" here is
   conserved flows with no consistent phases, a third sense beside the
   record's two.
 

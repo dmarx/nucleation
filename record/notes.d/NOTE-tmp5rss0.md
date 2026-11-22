@@ -79,20 +79,20 @@ state.
 
 ## Bearing on the record
 
-- **CLAIM-167.** A clear one-way drive: the signal is open-loop and fixed
+- **[CLAIM-167](../claims.d/CLAIM-167.md).** A clear one-way drive: the signal is open-loop and fixed
   in advance, so nothing the oscillators do changes it. It makes units
   that are not coupled to one another hold a designed phase pattern, a
   combined form, in the claim's sense, relative to a target that needs the
   drive and the units, with the drive at the top of the architecture.
-- **CLAIM-172** (a contrast with its version-5 sharpening). Selective
+- **[CLAIM-172](../claims.d/CLAIM-172.md)** (a contrast with its version-5 sharpening). Selective
   synchrony, some units together and others apart, is here made wholly by
   a common drive, with no couplings for it to match. So selective
   synchrony alone, without knowing the couplings, does not mark peers.
-- **QUESTION-063.** A synchrony pattern, clusters included, can be the
+- **[QUESTION-063](../questions.d/QUESTION-063.md).** A synchrony pattern, clusters included, can be the
   signature of a shared drive acting through units' different phase
   responses, not of coupling. Telling them apart needs the drive recorded
   or manipulated, as the question says.
-- **QUESTION-147.** Clusters here are set by the drive and by each unit's
+- **[QUESTION-147](../questions.d/QUESTION-147.md).** Clusters here are set by the drive and by each unit's
   PRC, not by symmetry orbits of a graph: an observed cluster pattern
   that matches no orbit may be driven rather than coupled.
 

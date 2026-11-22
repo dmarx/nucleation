@@ -30,7 +30,7 @@ summary: >-
 
 ## Contribution
 
-An invitation to the theory of narratives (LIT-2238) through three
+An invitation to the theory of narratives ([LIT-2238](../literature.d/LIT-2238.md)) through three
 vignettes: rigidity classes of the persistence–accumulation adjunction,
 structured decompositions of narratives, and temporal cellular sheaves for
 switching multi-agent systems.
@@ -69,16 +69,16 @@ cellular sheaf.
 
 ## Bearing on the record
 
-- **QUESTION-282.** A temporal cellular sheaf records a correspondence
+- **[QUESTION-282](../questions.d/QUESTION-282.md).** A temporal cellular sheaf records a correspondence
   structure (the sheaf's maps) that changes over time, and what persists
   across the changes. The changes are given switching, not made by the
   agents' interactions, and the dynamics are future work, so it offers a
   way to describe change of the operator, not a condition for it.
-- **THEORY-1088** (a parallel). The discourse sheaf's maps change here by
+- **[THEORY-1088](../theory.d/THEORY-1088.md)** (a parallel). The discourse sheaf's maps change here by
   exogenous switching rather than by learning; the chapter does not cite
   the learning dynamics.
-- **QUESTION-379** (background). The same narrative language as
-  NOTE-tmpgeiy5; nothing on realizability.
+- **[QUESTION-379](../questions.d/QUESTION-379.md)** (background). The same narrative language as
+  [NOTE-tmpgeiy5](NOTE-tmpgeiy5.md); nothing on realizability.
 
 ## Limitations
 

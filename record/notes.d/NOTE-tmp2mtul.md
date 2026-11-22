@@ -82,7 +82,7 @@ bounded perturbation; invariant (subspace) semigroup.
 
 ## Bearing on the record
 
-- **QUESTION-252.** Two points for its list. First, memory closure is
+- **[QUESTION-252](../questions.d/QUESTION-252.md).** Two points for its list. First, memory closure is
   relative to the declared projection, and what the convolution term
   measures is coupling between the kept and omitted subspaces, not a
   timescale: it vanishes exactly when the omitted subspace is invariant,
@@ -91,7 +91,7 @@ bounded perturbation; invariant (subspace) semigroup.
   generalized Langevin equation for one observable always exists for
   Mori's projection, so having one is no evidence that a description is
   predictively sufficient; its predictive content is what was fitted in.
-- **The Mori–Zwanzig works the record holds** (LIT-1259, LIT-1307). Their
+- **The Mori–Zwanzig works the record holds** ([LIT-1259](../literature.d/LIT-1259.md), [LIT-1307](../literature.d/LIT-1307.md)). Their
   nonlinear, Zwanzig-type derivations rest on the identity this paper
   says is unproved for unbounded PL; a closure model built that way is a
   heuristic, which the record should keep in mind where it relies on them.

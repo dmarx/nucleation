@@ -79,20 +79,20 @@ graph; algebraic connectivity; cutset and cycle space; critical coupling.
 
 ## Bearing on the record
 
-- **CLAIM-tmp7vutq.** That every local minimum is global is the survey's
+- **[CLAIM-tmp7vutq](../claims.d/CLAIM-tmp7vutq.md).** That every local minimum is global is the survey's
   S¹-synchronizing property, held by complete and acyclic graphs; a cycle
   of five or more is not, and the "strictly less than five" boundary for
   tightness on small cycles is the same threshold. The claim restates a
-  known fact of this literature for CLAIM-153's energy.
-- **CLAIM-153.** Its energy has phase offsets on the couplings, the
+  known fact of this literature for [CLAIM-153](../claims.d/CLAIM-153.md)'s energy.
+- **[CLAIM-153](../claims.d/CLAIM-153.md).** Its energy has phase offsets on the couplings, the
   frustrated case the survey lists among those where its methods "fail or
   lead to overly conservative results". The record's frustrated results
-  (THEORY-1082, LIT-1668) sit outside the survey's main theorems.
-- **QUESTION-147.** Symmetric cluster patterns are locally stable on
+  ([THEORY-1082](../theory.d/THEORY-1082.md), [LIT-1668](../literature.d/LIT-1668.md)) sit outside the survey's main theorems.
+- **[QUESTION-147](../questions.d/QUESTION-147.md).** Symmetric cluster patterns are locally stable on
   circulant graphs (Theorem 5.4), a symmetry-based case of the stability
   prediction the question asks to test, with the warning that other stable
   states may coexist.
-- **CLAIM-172** (background). Synchrony here is coupling-made and
+- **[CLAIM-172](../claims.d/CLAIM-172.md)** (background). Synchrony here is coupling-made and
   peer-to-peer; the survey does not treat external drive.
 
 ## Limitations

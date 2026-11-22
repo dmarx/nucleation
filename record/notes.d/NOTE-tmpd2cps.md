@@ -78,13 +78,13 @@ stagnation; rhetorical accommodation.
 
 ## Bearing on the record
 
-- **THEORY-1088.** It confirms the account (learning to lie, the
+- **[THEORY-1088](../theory.d/THEORY-1088.md).** It confirms the account (learning to lie, the
   conserved blocks) and extends it: selective rigidity, the structure flow
-  as diffusion on a sheaf of its own, and rate bounds. As THEORY-1088 says,
+  as diffusion on a sheaf of its own, and rate bounds. As [THEORY-1088](../theory.d/THEORY-1088.md) says,
   nothing in either flow checks an expression against the opinion it
   expresses; the stagnation bound makes that sharper: with β ≫ α
   agreement is reached with beliefs almost unchanged.
-- **QUESTION-282.** A model in which interaction changes the correspondence
+- **[QUESTION-282](../questions.d/QUESTION-282.md).** A model in which interaction changes the correspondence
   structure (the restriction maps) and not only the states, with a
   quantitative condition, the rate ratio β/α, under which the structure is
   what changes. The adaptation rule is the modeller's gradient flow, so it

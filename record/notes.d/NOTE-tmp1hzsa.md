@@ -77,18 +77,18 @@ synchronous time (interval with a phase); safety contract (sub-presheaf).
 
 ## Bearing on the record
 
-- **QUESTION-379.** A partial, compositional answer to one sub-question:
+- **[QUESTION-379](../questions.d/QUESTION-379.md).** A partial, compositional answer to one sub-question:
   which properties a realizable system keeps under interconnection.
   Totality and determinism, the conditions that a behaviour exists and is
   unique for each input, are preserved by any wiring, feedback included,
   once outputs are inertial. It does not say when an arbitrary family of
   observations is represented by a machine, nor anything about resources.
-- **CLAIM-623** (a parallel). Footnote 8 is the same shape from another
+- **[CLAIM-623](../claims.d/CLAIM-623.md)** (a parallel). Footnote 8 is the same shape from another
   direction: once validity depends on history, valid behaviours form a
   presheaf that is not a sheaf, two valid pieces gluing to an invalid
-  whole. CLAIM-623 gets the same failure from forgetting a hidden
+  whole. [CLAIM-623](../claims.d/CLAIM-623.md) gets the same failure from forgetting a hidden
   mechanism.
-- **QUESTION-143** (no bearing on its iff). These are sheaves over time
+- **[QUESTION-143](../questions.d/QUESTION-143.md)** (no bearing on its iff). These are sheaves over time
   intervals, not over the lowerset topology on input histories, so they
   neither prove nor test Gogioso and Pinzani's Theorem 2.34.
 

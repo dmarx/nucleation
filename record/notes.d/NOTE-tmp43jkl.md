@@ -70,16 +70,16 @@ interface, port map, machine, behavior contract; latent variables.
 
 ## Bearing on the record
 
-- **QUESTION-379.** Two points. A family of behaviors can be coherent, a
+- **[QUESTION-379](../questions.d/QUESTION-379.md).** Two points. A family of behaviors can be coherent, a
   perfectly good behavior type, and still be the solution set of no system
   in a given class (ODEs): a representability gap of the kind the question
   asks about, relative to a class of realizers. And compliance checked on
   short windows does not compose, the question's local-to-global gap in
   time. Neither touches resources.
-- **CLAIM-480** (a parallel). The strongest contract of a composite is
+- **[CLAIM-480](../claims.d/CLAIM-480.md)** (a parallel). The strongest contract of a composite is
   the components' conjunction with the latent variables existentially
   eliminated, the logical form of this claim's interior elimination.
-- **QUESTION-143** (no bearing on its iff). Sheaves over time windows, not
+- **[QUESTION-143](../questions.d/QUESTION-143.md)** (no bearing on its iff). Sheaves over time windows, not
   over causal input histories.
 
 ## Limitations

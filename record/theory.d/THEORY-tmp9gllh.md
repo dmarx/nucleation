@@ -15,7 +15,7 @@ source:
 bears_on:
 - QUESTION-379
 summary: >-
-  From the skimmed reading of LIT-2238 in NOTE-tmpgeiy5, for LEAD-023. A
+  From the skimmed reading of [LIT-2238](../literature.d/LIT-2238.md) in [NOTE-tmpgeiy5](../notes.d/NOTE-tmpgeiy5.md), for [LEAD-023](../leads.d/LEAD-023.md). A
   language for temporal observation with gluing built in; the link to
   generating dynamics is left open by the authors. Proposed until its
   promote_when is met.
@@ -27,7 +27,7 @@ summary: >-
 ## Source
 
 Bumpus, Fairbanks, Karvonen, Leal and Simard (2026; arXiv 2024),
-LIT-2238, skimmed in NOTE-tmpgeiy5.
+[LIT-2238](../literature.d/LIT-2238.md), skimmed in [NOTE-tmpgeiy5](../notes.d/NOTE-tmpgeiy5.md).
 
 ## What was actually shown
 

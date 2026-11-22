@@ -18,7 +18,7 @@ extends:
 bears_on:
 - QUESTION-147
 summary: >-
-  From the reading of LIT-2249 in NOTE-tmp14xdi, for LEAD-023. Structure
+  From the reading of [LIT-2249](../literature.d/LIT-2249.md) in [NOTE-tmp14xdi](../notes.d/NOTE-tmp14xdi.md), for [LEAD-023](../leads.d/LEAD-023.md). Structure
   on the candidates for robust synchrony; nothing on which of them attract.
   Proposed until its promote_when is met.
 ---
@@ -27,7 +27,7 @@ summary: >-
 
 ## Source
 
-Stewart (2007), LIT-2249, read in NOTE-tmp14xdi.
+Stewart (2007), [LIT-2249](../literature.d/LIT-2249.md), read in [NOTE-tmp14xdi](../notes.d/NOTE-tmp14xdi.md).
 
 ## What was actually shown
 

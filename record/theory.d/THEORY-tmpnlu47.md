@@ -20,17 +20,17 @@ corroborates:
 bears_on:
 - QUESTION-282
 summary: >-
-  From the reading of LIT-2267 in NOTE-tmpftn2t, for LEAD-023. The graph
-  case of Bačić and colleagues' cell-complex result (THEORY-tmpcdxvd), by
+  From the reading of [LIT-2267](../literature.d/LIT-2267.md) in [NOTE-tmpftn2t](../notes.d/NOTE-tmpftn2t.md), for [LEAD-023](../leads.d/LEAD-023.md). The graph
+  case of Bačić and colleagues' cell-complex result ([THEORY-tmpcdxvd](THEORY-tmpcdxvd.md)), by
   an overlapping group. Proposed until its promote_when is met.
 ---
-<!-- inactive-ok-file: CLAIM-tmp7vutq THEORY-tmpcdxvd — Proposed; filed by LEAD-023 -->
+<!-- inactive-ok-file: THEORY-tmpcdxvd — Proposed; filed by LEAD-023 -->
 
 # THEORY-tmpnlu47: Manik, Timme and Witthaut show that the phase-locked states of Kuramoto and power-grid oscillator networks are the conserved edge flows that also meet the cycle condition, phase differences around every cycle summing to 2π times an integer, so locked states differing by cycle flows coexist, a ring of four or fewer nodes has only one stable such state, and raising one edge's capacity can destroy phase locking
 
 ## Source
 
-Manik, Timme and Witthaut (2017), LIT-2267, read in NOTE-tmpftn2t.
+Manik, Timme and Witthaut (2017), [LIT-2267](../literature.d/LIT-2267.md), read in [NOTE-tmpftn2t](../notes.d/NOTE-tmpftn2t.md).
 
 ## What was actually shown
 
@@ -43,4 +43,4 @@ four-node Braess example and fused motifs where per-cycle counts fail.
 
 Anything about frustration by offsets on the couplings, about basins, or
 about networks whose cycles share edges in general. "Geometric frustration"
-here is the authors' sense, not the record's (TERM-060).
+here is the authors' sense, not the record's ([TERM-060](../terms.d/TERM-060.md)).

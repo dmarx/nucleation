@@ -85,7 +85,7 @@ and discrepancy densities.
 
 ## Bearing on the record
 
-- **QUESTION-063.** It confirms, in a model, A's citation at A12: synchrony
+- **[QUESTION-063](../questions.d/QUESTION-063.md).** It confirms, in a model, A's citation at A12: synchrony
   between the collective variables of two groups can be wholly exogenous,
   with no coupling between them, and from a weak shared component. A
   between-group correlation of order parameters is therefore no evidence
@@ -94,12 +94,12 @@ and discrepancy densities.
   inside each group makes the drive-induced synchrony between groups
   weaker, so stronger internal organization can lower the very
   correlation an observer might read as coupling.
-- **CLAIM-172** (contrast). Each group's collective variable here is
+- **[CLAIM-172](../claims.d/CLAIM-172.md)** (contrast). Each group's collective variable here is
   synchronized with the other's without any entrainment between them, so
   matching collective variables is not the claim's mark; the claim's own
   last bullet, that direction and coupling need an intervention to read,
   is the guard this case calls for.
-- **CASE-179.** It is the row "common drive, no reciprocal coupling" of
+- **[CASE-179](../cases.d/CASE-179.md).** It is the row "common drive, no reciprocal coupling" of
   that study, at the level of groups.
 
 ## Limitations

@@ -20,17 +20,17 @@ corroborates:
 bears_on:
 - QUESTION-147
 summary: >-
-  From the skimmed reading of LIT-2232 in NOTE-tmpk7qnh, for LEAD-023. The
+  From the skimmed reading of [LIT-2232](../literature.d/LIT-2232.md) in [NOTE-tmpk7qnh](../notes.d/NOTE-tmpk7qnh.md), for [LEAD-023](../leads.d/LEAD-023.md). The
   survey's landscape and cycle-space results, and its own list of what its
   methods do not cover. Proposed until its promote_when is met.
 ---
-<!-- inactive-ok-file: NOTE-tmpk7qnh CLAIM-tmp7vutq — Skimmed reading and Proposed claim, filed by LEAD-023 -->
+<!-- inactive-ok-file: NOTE-tmpk7qnh — Skimmed reading and Proposed claim, filed by LEAD-023 -->
 
 # THEORY-tmp94s79: Dörfler and Bullo survey synchronization of Kuramoto-type phase oscillators on networks: for identical oscillators on S¹-synchronizing graphs, complete and acyclic ones among them, the synchronized state is the only stable equilibrium; fixed points of heterogeneous networks are written through auxiliary edge variables whose homogeneous part lies in the cycle space; and the main analysis methods fail or become conservative for phase-shifted, directed or clustered cases
 
 ## Source
 
-Dörfler and Bullo (2014), LIT-2232, skimmed in NOTE-tmpk7qnh.
+Dörfler and Bullo (2014), [LIT-2232](../literature.d/LIT-2232.md), skimmed in [NOTE-tmpk7qnh](../notes.d/NOTE-tmpk7qnh.md).
 
 ## What was actually shown
 

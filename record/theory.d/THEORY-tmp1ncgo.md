@@ -18,7 +18,7 @@ source:
 bears_on:
 - QUESTION-379
 summary: >-
-  From the skimmed reading of LIT-2258 in NOTE-tmp1hzsa, for LEAD-023.
+  From the skimmed reading of [LIT-2258](../literature.d/LIT-2258.md) in [NOTE-tmp1hzsa](../notes.d/NOTE-tmp1hzsa.md), for [LEAD-023](../leads.d/LEAD-023.md).
   Composition preserves the conditions of realizability the paper defines;
   history-dependent validity does not glue. Proposed until its
   promote_when is met.
@@ -29,8 +29,8 @@ summary: >-
 
 ## Source
 
-Schultz, Spivak and Vasilakopoulou (2019; arXiv 2016), LIT-2258, skimmed
-in NOTE-tmp1hzsa.
+Schultz, Spivak and Vasilakopoulou (2019; arXiv 2016), [LIT-2258](../literature.d/LIT-2258.md), skimmed
+in [NOTE-tmp1hzsa](../notes.d/NOTE-tmp1hzsa.md).
 
 ## What was actually shown
 

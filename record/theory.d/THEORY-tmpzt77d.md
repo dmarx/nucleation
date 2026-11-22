@@ -16,7 +16,7 @@ source:
 bears_on:
 - QUESTION-282
 summary: >-
-  From the skimmed reading of LIT-2262 in NOTE-tmp9h46q, for LEAD-023. A
+  From the skimmed reading of [LIT-2262](../literature.d/LIT-2262.md) in [NOTE-tmp9h46q](../notes.d/NOTE-tmp9h46q.md), for [LEAD-023](../leads.d/LEAD-023.md). A
   way to describe a changing correspondence structure over time; the change
   is given, not generated. Proposed until its promote_when is met.
 ---
@@ -26,8 +26,8 @@ summary: >-
 
 ## Source
 
-Leal, Bumpus, Nickel, García, Fairbanks and Dixon (2026), LIT-2262,
-skimmed in NOTE-tmp9h46q.
+Leal, Bumpus, Nickel, García, Fairbanks and Dixon (2026), [LIT-2262](../literature.d/LIT-2262.md),
+skimmed in [NOTE-tmp9h46q](../notes.d/NOTE-tmp9h46q.md).
 
 ## What was actually shown
 

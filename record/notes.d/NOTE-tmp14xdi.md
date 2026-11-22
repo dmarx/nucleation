@@ -74,17 +74,17 @@ input tree; quotient network.
 
 ## Bearing on the record
 
-- **QUESTION-147.** The question compares observed clusters with orbits
+- **[QUESTION-147](../questions.d/QUESTION-147.md).** The question compares observed clusters with orbits
   computed in advance. The lattice is the full menu of candidates computed
-  from structure alone, wider than the orbits (THEORY-1065), with a top
+  from structure alone, wider than the orbits ([THEORY-1065](../theory.d/THEORY-1065.md)), with a top
   element computable in polynomial time. As A said at A20 §2, which of its
   elements are realized as attractors is a separate matter: the paper says
   nothing on stability, so it supplies the candidates and not the
   prediction of which desynchronizes where.
-- **THEORY-1065.** Extends its account: the balanced partitions are not a
+- **[THEORY-1065](../theory.d/THEORY-1065.md).** Extends its account: the balanced partitions are not a
   loose collection but a complete lattice, whose meet is not intersection.
   It confirms that the invariance carries no claim about attraction.
-- **THEORY-2014** (background). Gili and colleagues' use of coarsest
+- **[THEORY-2014](../theory.d/THEORY-2014.md)** (background). Gili and colleagues' use of coarsest
   balanced colourings rests on this paper's top element.
 
 ## Limitations

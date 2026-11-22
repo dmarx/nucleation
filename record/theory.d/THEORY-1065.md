@@ -131,4 +131,4 @@ An analogy across two dynamics ([NOTE-2127](../notes.d/NOTE-2127.md)): in weight
 ## Note of 2026-11-22: Stewart, read
 <!-- inactive-ok-file: THEORY-tmp3va8j — Proposed; filed by LEAD-023 -->
 
-Stewart (THEORY-tmp3va8j, which extends this account; NOTE-tmp14xdi) proves that the balanced partitions this account describes form a complete lattice under refinement, whose meet is not intersection: two balanced colourings can have an unbalanced common refinement (Example 5·5). The lattice's top, the coarsest balanced partition, is unique and computable. It confirms this account's last clause: invariance, not attraction. No change to this account.
+Stewart ([THEORY-tmp3va8j](THEORY-tmp3va8j.md), which extends this account; [NOTE-tmp14xdi](../notes.d/NOTE-tmp14xdi.md)) proves that the balanced partitions this account describes form a complete lattice under refinement, whose meet is not intersection: two balanced colourings can have an unbalanced common refinement (Example 5·5). The lattice's top, the coarsest balanced partition, is unique and computable. It confirms this account's last clause: invariance, not attraction. No change to this account.

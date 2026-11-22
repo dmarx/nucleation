@@ -69,13 +69,13 @@ change of base; temporalization of a static property.
 
 ## Bearing on the record
 
-- **QUESTION-379.** It supplies a language for the question's "coherent
+- **[QUESTION-379](../questions.d/QUESTION-379.md).** It supplies a language for the question's "coherent
   family of local observations" over time, with the gluing built in, and
   a precise form of underdetermination: snapshots without the relations
   between times fix no temporal object. It does not ask when a narrative
   is the record of some realizable dynamics: that is its desideratum D5,
   left to future work, which is the question's step.
-- **LIT-2262** (Leal et al.) applies this framework; read in the same lead.
+- **[LIT-2262](../literature.d/LIT-2262.md)** (Leal et al.) applies this framework; read in the same lead.
 
 ## Limitations
 

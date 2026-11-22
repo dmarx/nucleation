@@ -76,11 +76,11 @@ energy flow.
 
 ## Bearing on the record
 
-- **CLAIM-480.** A dynamical case of its thesis, as A said and the note of
+- **[CLAIM-480](../claims.d/CLAIM-480.md).** A dynamical case of its thesis, as A said and the note of
   2026-11-07 asked to verify: the composition (cells plus medium) has a
   capacity, sustained oscillation, that no cell has alone and the medium
   does not have, past a threshold set jointly by cell and medium response.
-- **CLAIM-172.** A combined form whose collective variable (the signal's
+- **[CLAIM-172](../claims.d/CLAIM-172.md).** A combined form whose collective variable (the signal's
   oscillation) does not exist before coupling: each cell both senses and
   shifts the shared signal, so the coupling is mutual through the medium.
   It is a stronger case than entrainment of pre-existing oscillators,

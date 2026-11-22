@@ -208,4 +208,4 @@ The study is still proposed. No status change.
 ## Note of 2026-11-22: Ko, read
 <!-- inactive-ok-file: THEORY-tmp8cdhs — Proposed; filed by LEAD-023 -->
 
-Ko (THEORY-tmp8cdhs; NOTE-tmpw116e) gives this design's row "common drive, no reciprocal coupling" at the level of groups: uncoupled groups sharing one common noise synchronize their order parameters, and coupling within each group weakens that. A reference model for the row, not a change to the design.
+Ko ([THEORY-tmp8cdhs](../theory.d/THEORY-tmp8cdhs.md); [NOTE-tmpw116e](../notes.d/NOTE-tmpw116e.md)) gives this design's row "common drive, no reciprocal coupling" at the level of groups: uncoupled groups sharing one common noise synchronize their order parameters, and coupling within each group weakens that. A reference model for the row, not a change to the design.
