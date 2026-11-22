@@ -197,3 +197,25 @@ and Syropoulos and Markowitz were read through other works, and Scheffler
   person born today raised it most, and an impersonal longtermist text
   least. Nothing in the study measures how far the self extends, so it
   does not run the thesis's test.
+
+## Note of 2026-11-22: the thesis's test, searched for
+<!-- inactive-ok-file: LIT-tmporf0r LIT-tmpa7f10 LIT-tmpre45d CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+
+[LEAD-062](../leads.d/LEAD-062.md) searched Europe PMC and arXiv for a study of whether concern for
+future people varies with a measured continuity between the self and the
+future, apart from caring. None was found.
+
+- **Three candidates were registered, not read**, all by Law, Syropoulos
+  and colleagues.
+  - [LIT-tmporf0r](../literature.d/LIT-tmporf0r.md) reports, by its abstract, that targeting "the
+    interconnectedness of people across time" widened how many generations
+    people think decisions should consider.
+  - [LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md) links future-self continuity to responsibility for future
+    generations.
+  - [LIT-tmpre45d](../literature.d/LIT-tmpre45d.md) finds, over a year, that concern comes before
+    self-continuity.
+
+  None is reported to measure caring apart from connection.
+- **The design filed** ([CASE-tmp413kq](../cases.d/CASE-tmp413kq.md)) reaches only the future members of
+  a group the giver belongs to. Future people in general are a further
+  step, which it names as a limit.
