@@ -46,7 +46,7 @@ uses:
 - TERM-078
 - TERM-076
 summary: >-
-  QUESTION-268 asks for a procedure that, applied to a record of conduct,
+  [QUESTION-268](../questions.d/QUESTION-268.md) asks for a procedure that, applied to a record of conduct,
   returns which ranking prevails and how strongly, separates ambivalence
   from neutrality on a case, and says whether it measures actual or
   dispositional potential. Its body drafts seven steps. This claim
@@ -57,12 +57,12 @@ summary: >-
   beyond the record's own noise; a lead must survive resampling, and
   otherwise the verdict is indeterminate, a state the question did
   not name; and how many contests a window needs is computed from that
-  noise (about 16 to 24 at the FOMC's). Applied in CASE-tmpjw1l1. The
+  noise (about 16 to 24 at the FOMC's). Applied in [CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md). The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-440 TERM-076 CLAIM-451 THEORY-252 — Proposed; the claim and term whose measure this specifies, the narrowing it keeps and the dilemma it answers for this measure, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmp0uism CASE-tmpjw1l1 — new on 2026-11-22; the argument and the application filed with this claim for LEAD-041 -->
+<!-- inactive-ok-file: CLAIM-440 CLAIM-451 THEORY-252 — Proposed; the claim and term whose measure this specifies, the narrowing it keeps and the dilemma it answers for this measure, cited as open -->
+<!-- inactive-ok-file: CASE-tmpjw1l1 — new on 2026-11-22; the argument and the application filed with this claim for LEAD-041 -->
 
 # CLAIM-tmpkcsp7: A record of conduct returns, for each window, one of six verdicts, no contest, too few contests, indeterminate, prevails, split by context or ambivalent, and across windows persistence, resumption and alternation, when contest is read from the perspectives' rankings measured apart from the decisions, alignment is scored for each candidate ordering including a compromise, ambivalence is a misfit to every candidate larger than the record's own departures on uncontested decisions would produce, and prevalence is a lead over every rival that survives resampling; it measures actual potential, the conflicts won, not dispositional potential
 
@@ -77,16 +77,16 @@ The code is scratch/studies/lead-041/procedure.py.
 1. **Contest from rankings.** A pair is contested in an episode when two
    perspectives rank it strictly and oppositely. A perspective indifferent
    between the two contests nothing. A decision decides only the contested
-   pairs that contain the option chosen (QUESTION-268, step 1; CLAIM-434,
+   pairs that contain the option chosen ([QUESTION-268](../questions.d/QUESTION-268.md), step 1; [CLAIM-434](CLAIM-434.md),
    part 5: never net).
 2. **No contest is its own verdict.** A window with no contested episode
    returns "no contest"; one with fewer than a stated minimum (four here)
-   returns "too few contests". Neither is neutrality (CLAIM-440,
+   returns "too few contests". Neither is neutrality ([CLAIM-440](CLAIM-440.md),
    consequence 1).
 3. **Fit.** The least reversal fraction of the window's wins and the class
-   of best-fitting orderings, by brute force over the options (TERM-077).
+   of best-fitting orderings, by brute force over the options ([TERM-077](../terms.d/TERM-077.md)).
 4. **Alignment per candidate.** For each candidate, the share of the wins
-   its best member agrees with (QUESTION-268, step 4). The leading
+   its best member agrees with ([QUESTION-268](../questions.d/QUESTION-268.md), step 4). The leading
    candidate is the one with the highest share.
 5. **Ambivalence.** The null is that some candidate prevails with the
    record's own noise: on episodes where nothing is contested and the
@@ -99,7 +99,7 @@ The code is scratch/studies/lead-041/procedure.py.
    0.05: no candidate, at the record's noise, would leave so much
    unaccounted for.
 6. **Split.** If the best classes of two contexts in the window share no
-   ordering, "split by context" (QUESTION-268, step 6: a change in the
+   ordering, "split by context" ([QUESTION-268](../questions.d/QUESTION-268.md), step 6: a change in the
    options available is not ambivalence).
 7. **Prevalence.** Otherwise the leading candidate "prevails" if its
    alignment exceeds every rival's in 95% of bootstrap resamples of the
@@ -111,7 +111,7 @@ The code is scratch/studies/lead-041/procedure.py.
    negative. Only here is neutrality returned.
 9. **Across windows.** Persistence is a run of windows the same candidate
    prevails in; resumption, a run of at least two, then other verdicts,
-   then a return, read off the record, not inferred (TERM-078).
+   then a return, read off the record, not inferred ([TERM-078](../terms.d/TERM-078.md)).
    Alternation of the leading candidate is tested against permutations of
    decisions among episodes of identical contest structure.
 
@@ -127,10 +127,10 @@ regime change (fewer switches than chance) and stop–go (more).
 Every quantity is computed from conflicts actually decided in a window.
 A perspective that would win contests never posed contributes nothing.
 So the procedure measures actual potential, and the counterfactual eraser
-(THEORY-252) does not apply to what it returns, which is QUESTION-268's
+([THEORY-252](../theory.d/THEORY-252.md)) does not apply to what it returns, which is [QUESTION-268](../questions.d/QUESTION-268.md)'s
 second half answered for this measure. Whether actual and dispositional
 potential agree is not answered: that needs interventions that pose the
-contests (step 5 of QUESTION-268), which a record of conduct alone does
+contests (step 5 of [QUESTION-268](../questions.d/QUESTION-268.md)), which a record of conduct alone does
 not supply.
 
 ## What a window needs
@@ -149,8 +149,8 @@ procedure.
 - That its thresholds (band, minimum contests, α, windows) are the right
   ones. They are choices, stated in the README, and the application varies
   the ones it can.
-- That a prevailing ordering is the organization's. CLAIM-448 applies: the
+- That a prevailing ordering is the organization's. [CLAIM-448](CLAIM-448.md) applies: the
   verdict is about the admitted contests.
-- That alternation is all ambivalence (CLAIM-451).
+- That alternation is all ambivalence ([CLAIM-451](CLAIM-451.md)).
 - That the Hodge decomposition is used. It is not; margins here are not
-  intensities (QUESTION-268, step 7).
+  intensities ([QUESTION-268](../questions.d/QUESTION-268.md), step 7).

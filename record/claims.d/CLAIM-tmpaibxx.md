@@ -28,13 +28,13 @@ grounds:
 uses:
 - TERM-076
 summary: >-
-  The alternative to CLAIM-tmp0uism, filed so that the owner can choose.
+  The alternative to [CLAIM-tmp0uism](CLAIM-tmp0uism.md), filed so that the owner can choose.
   On the model's own statement the combined output is a single bipolar
   predisposition, a fixed function of the two activations, and its gain
   and offset are parameters of that function. Read so, nothing negotiates:
-  there is one evaluator whose input has two components, and CLAIM-440's
-  split potential remains a reinterpretation of coactivation, as NOTE-1101
-  said. The procedure (CLAIM-tmpkcsp7) is unaffected, since it reads
+  there is one evaluator whose input has two components, and [CLAIM-440](CLAIM-440.md)'s
+  split potential remains a reinterpretation of coactivation, as [NOTE-1101](../notes.d/NOTE-1101.md)
+  said. The procedure ([CLAIM-tmpkcsp7](CLAIM-tmpkcsp7.md)) is unaffected, since it reads
   conduct, but what it would call ambivalence in an organism would be
   noise around a middling net predisposition, not two rankings winning in
   turn. The wording is the assistant's (Claude, in this session); adopting
@@ -47,16 +47,16 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmp0uism finds TERM-076's three marks in the evaluative space model:
+[CLAIM-tmp0uism](CLAIM-tmp0uism.md) finds [TERM-076](../terms.d/TERM-076.md)'s three marks in the evaluative space model:
 two rankings, contest, and authority. This reading grants the first two
 and denies the third.
 
 - The model's output is one bipolar predisposition over the evaluative
-  plane, "many-to-one" over the two activations (NOTE-1101). Its gain and
+  plane, "many-to-one" over the two activations ([NOTE-1101](../notes.d/NOTE-1101.md)). Its gain and
   offset are the shape of that function. A parameter of the function that
   combines two inputs is not an authority one input holds against the
   other: nothing in the model has a channel claim control and be refused
-  it, which is what CLAIM-283 separates.
+  it, which is what [CLAIM-283](CLAIM-283.md) separates.
 - Heterarchical override is a higher level overriding a lower, not one
   channel overriding the other. It makes levels candidates for
   perspectives, not channels.
@@ -65,7 +65,7 @@ and denies the third.
   noise around a middling net predisposition, and the record cannot tell
   that from two rankings winning in turn.
 
-What follows for CLAIM-440: its consequence 4 should cite the model for
+What follows for [CLAIM-440](CLAIM-440.md): its consequence 4 should cite the model for
 the distinction between ambivalence and neutrality, which is the model's
 founding point, and drop it as the source of split potential, which then
 needs another source.
@@ -74,9 +74,9 @@ needs another source.
 
 - That the channels are not separable. It grants separability, and that
   they rank the options differently.
-- That the procedure of CLAIM-tmpkcsp7 fails. The procedure reads conduct;
+- That the procedure of [CLAIM-tmpkcsp7](CLAIM-tmpkcsp7.md) fails. The procedure reads conduct;
   this reading changes what an alternating verdict would mean in an
   organism, not whether it can be returned.
 - That organizations' channels are inputs too. The dual mandate of
-  CASE-tmpjw1l1 has members and blocs who argue for each channel, which the
+  [CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md) has members and blocs who argue for each channel, which the
   model's channels lack.

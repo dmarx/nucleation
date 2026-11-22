@@ -26,7 +26,7 @@ bears_on:
 illustrates:
 - CLAIM-tmp0uism
 summary: >-
-  LEAD-041 asked for the procedure of QUESTION-268 to be applied to one
+  [LEAD-041](../leads.d/LEAD-041.md) asked for the procedure of [QUESTION-268](../questions.d/QUESTION-268.md) to be applied to one
   record of conduct. The record chosen is the FOMC's: public, kept in time
   for sixty years, with two statutory channels that mirror the evaluative
   space model's two, whose rankings can be computed from real-time data
@@ -44,17 +44,16 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp0uism CLAIM-tmpkcsp7 CLAIM-tmpaibxx — new on 2026-11-22; the argument, the procedure and the alternative reading filed with this case for LEAD-041 -->
-<!-- inactive-ok-file: CLAIM-440 — Proposed; the claim whose measure this applies, cited as open -->
 
 # CASE-tmpjw1l1: The Federal Open Market Committee's policy-rate decisions, 1966–2026, read with the dual mandate's inflation and employment channels as perspectives ranking cut, hold and hike from what was known at the time: the channels contest about a quarter of quarters, nearly all in stagflation; a channel's lead is shown in one window only, on four contests, a compromise of holding prevails in two, ambivalence is shown only for Burns's tenure and 1980–81 and only under some readings, and no persistence or resumption can be read
 
 ## Why this record
 
-LEAD-041 leaves the record open. Wells Fargo (CASE-151), QUESTION-268's
+[LEAD-041](../leads.d/LEAD-041.md) leaves the record open. Wells Fargo ([CASE-151](CASE-151.md)), [QUESTION-268](../questions.d/QUESTION-268.md)'s
 example, is a narrative investigation; turning it into a record of
 contests would mean coding decisions the report describes, with the
 perspectives' rankings read off the same text as the decisions, which is
-what CLAIM-tmp0uism says a record must avoid. The FOMC's record was chosen
+what [CLAIM-tmp0uism](../claims.d/CLAIM-tmp0uism.md) says a record must avoid. The FOMC's record was chosen
 because:
 
 - it is public and lawfully readable (US federal statistics, served by the
@@ -65,7 +64,7 @@ because:
   Volcker's disinflation);
 - its two perspectives are named by statute, an inflation channel and an
   employment channel, the organizational twin of the evaluative space
-  model's two (CLAIM-tmp0uism), and each ranks the options from data
+  model's two ([CLAIM-tmp0uism](../claims.d/CLAIM-tmp0uism.md)), and each ranks the options from data
   available at the time, apart from the decision;
 - its contests have a natural form: the two channels disagree exactly when
   inflation is above its reference and unemployment above its own, or
@@ -115,7 +114,7 @@ scratch/studies/lead-041/results/summary.md.
    2016–17 or 2014–17 (A, nominal) and in 1994–97 (B, nominal), with
    alignment 0.9 to 1.0. At the zero lower bound the employment channel
    and inertia are tied (cut is not available, and both rank hold above
-   hike): a class the record cannot narrow, as QUESTION-268's step 5 says
+   hike): a class the record cannot narrow, as [QUESTION-268](../questions.d/QUESTION-268.md)'s step 5 says
    only an intervention could.
 4. **Ambivalence is shown twice, weakly.** The Burns tenure, under A with
    nominal decisions (25 contests; alignment 0.48 inflation, 0.52
@@ -145,12 +144,12 @@ scratch/studies/lead-041/results/summary.md.
 ## What it can show
 
 That the procedure runs on a real organization's record and keeps apart
-what QUESTION-268 asks it to: no contest (most of the record), a
+what [QUESTION-268](../questions.d/QUESTION-268.md) asks it to: no contest (most of the record), a
 prevailing compromise (the middling output that is not ambivalence), and
 ambivalence (alternation no candidate absorbs), and that it adds a state
 the question did not name, contested but indeterminate, which is where
 most of this record falls. That the dual mandate's channels meet
-CLAIM-tmp0uism's three marks in an organization: they rank the options
+[CLAIM-tmp0uism](../claims.d/CLAIM-tmp0uism.md)'s three marks in an organization: they rank the options
 apart, contest in stagflation, and are granted authority by a committee
 that could follow either. And that the record's noise, not the procedure,
 binds.
@@ -168,10 +167,10 @@ binds.
   reserves, so the funds rate's moves were less directly decisions.
 - Anything about what the committee contested beyond the funds rate:
   balance-sheet policy and guidance at the zero lower bound are not in
-  the record (CLAIM-448: the verdict is about the admitted contests).
+  the record ([CLAIM-448](../claims.d/CLAIM-448.md): the verdict is about the admitted contests).
 - Felt ambivalence, or anything about organisms. The evaluative space
-  model's channels are argued to be perspectives in CLAIM-tmp0uism, and an
-  alternative reading denies it (CLAIM-tmpaibxx); this case concerns an
+  model's channels are argued to be perspectives in [CLAIM-tmp0uism](../claims.d/CLAIM-tmp0uism.md), and an
+  alternative reading denies it ([CLAIM-tmpaibxx](../claims.d/CLAIM-tmpaibxx.md)); this case concerns an
   organization's.
 - Dispositional potential. Every verdict is from conflicts actually
   decided.

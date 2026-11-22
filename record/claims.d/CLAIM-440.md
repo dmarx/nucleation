@@ -429,17 +429,17 @@ this claim's shape; they say it fails to explain why the effect is absent
 at work. Outcome importance, including worry about failing, lowers valence
 in Engeser and Baumann. Neither measures progress along an ordering.
 
-## Note of 2026-11-22: the two debts of consequence 4 (LEAD-041)
+## Note of 2026-11-22: the two debts of consequence 4 ([LEAD-041](../leads.d/LEAD-041.md))
 
 The first debt, an argument that the evaluative space model's two
-channels are perspectives in this sense, is offered as CLAIM-tmp0uism,
-with its alternative CLAIM-tmpaibxx (one evaluator with two inputs); the
+channels are perspectives in this sense, is offered as [CLAIM-tmp0uism](CLAIM-tmp0uism.md),
+with its alternative [CLAIM-tmpaibxx](CLAIM-tmpaibxx.md) (one evaluator with two inputs); the
 owner chooses. On the first reading the model's neutral point, both
 channels low, is this claim's consequence 1, no contest, not its
 neutrality, so the record must keep three states apart where consequence 4
 names two. The second debt, a record of which perspective's ranking each
-decision followed, is met for one organization (CASE-tmpjw1l1, by the
-procedure CLAIM-tmpkcsp7). That record does not meet the fourth defeater:
+decision followed, is met for one organization ([CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md), by the
+procedure [CLAIM-tmpkcsp7](CLAIM-tmpkcsp7.md)). That record does not meet the fourth defeater:
 it tells ambivalence from a prevailing compromise and from no contest, but
 with too few contests per window to tell much else. The claim is
 unchanged.

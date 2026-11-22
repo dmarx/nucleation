@@ -19,7 +19,7 @@ summary: >-
   whether the measured (actual) and the dispositional readings agree,
   which bears on the counterfactual eraser ([THEORY-252](../theory.d/THEORY-252.md)).
 ---
-<!-- inactive-ok-file: CLAIM-tmp0uism CLAIM-tmpaibxx CLAIM-tmpkcsp7 CASE-tmpjw1l1 — new on 2026-11-22; LEAD-041's argument, alternative, procedure and application, cited in the dated note -->
+<!-- inactive-ok-file: CLAIM-tmpkcsp7 CASE-tmpjw1l1 — new on 2026-11-22; LEAD-041's argument, alternative, procedure and application, cited in the dated note -->
 <!-- inactive-ok-file: TERM-076 — the demonstrated claim and term filed with this batch -->
 <!-- inactive-ok-file: CLAIM-433 — Proposed; the reply filed with this batch, cited as open -->
 <!-- inactive-ok-file: LIT-1469 — Unavailable, abstract only; DynAffect, named for its attractor-strength parameter -->
@@ -200,18 +200,18 @@ conflicts it wins against the others.
 
 A47 §6 separates three questions: "What does the system currently manifest?" "What would it manifest across relevant circumstances?" "What mechanisms give it those dispositions, and how are they maintained?" It adds: "The third cannot always be inferred from the first two." The first two restate this question's second half, whether potential measured on conflicts won agrees with potential read as a disposition. No answer is added; it stays open.
 
-## Note of 2026-11-22: the procedure specified and applied (LEAD-041)
+## Note of 2026-11-22: the procedure specified and applied ([LEAD-041](../leads.d/LEAD-041.md))
 
-CLAIM-tmpkcsp7 offers an answer: the seven steps above as code, with five
+[CLAIM-tmpkcsp7](../claims.d/CLAIM-tmpkcsp7.md) offers an answer: the seven steps above as code, with five
 additions a real record needed. Contest is read from the perspectives'
 rankings, never from the choices; a compromise is scored as a candidate,
 so a middling output that prevails is not taken for ambivalence;
 ambivalence is a misfit to every candidate beyond the record's own noise
 on uncontested decisions; a lead must survive resampling, and otherwise
 the window is indeterminate, a state this question did not name; and the
-procedure measures actual potential, so the eraser (THEORY-252) does not
+procedure measures actual potential, so the eraser ([THEORY-252](../theory.d/THEORY-252.md)) does not
 reach it, while whether actual and dispositional potential agree stays
-open. Applied to the FOMC (CASE-tmpjw1l1), it separates ambivalence from
+open. Applied to the FOMC ([CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md)), it separates ambivalence from
 a prevailing compromise and from no contest; it returns neutrality only
 once, on four contests. The question stays open: the case its "What would
 count" asks for exists, but thinly, and only for an organization.

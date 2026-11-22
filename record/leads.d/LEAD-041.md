@@ -53,16 +53,16 @@ A procedure that separates ambivalence from neutrality on a case answers
 
 The argument, the procedure and one application are filed.
 
-- **The argument.** CLAIM-tmp0uism: the evaluative space model's channels
-  are perspectives in TERM-076's thin sense (a ranking each, contest on
+- **The argument.** [CLAIM-tmp0uism](../claims.d/CLAIM-tmp0uism.md): the evaluative space model's channels
+  are perspectives in [TERM-076](../terms.d/TERM-076.md)'s thin sense (a ranking each, contest on
   approach–avoidance pairs, authority in gain, offset and override), so the
   model's neutral point is no contest and its "middling expression" splits
   into a prevailing compromise and ambivalence. The alternative, that the
-  channels are inputs to one evaluator, is CLAIM-tmpaibxx; the choice is
+  channels are inputs to one evaluator, is [CLAIM-tmpaibxx](../claims.d/CLAIM-tmpaibxx.md); the choice is
   the owner's.
-- **The procedure.** CLAIM-tmpkcsp7, answering QUESTION-268, as code with
+- **The procedure.** [CLAIM-tmpkcsp7](../claims.d/CLAIM-tmpkcsp7.md), answering [QUESTION-268](../questions.d/QUESTION-268.md), as code with
   tests (scratch/studies/lead-041/).
-- **The application.** CASE-tmpjw1l1, the FOMC's policy-rate record
+- **The application.** [CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md), the FOMC's policy-rate record
   1966–2026 with the dual mandate's channels as perspectives. The record
   separates no contest, indeterminacy, a prevailing compromise and
   ambivalence; it shows ambivalence only weakly (Burns, 1980–81), no

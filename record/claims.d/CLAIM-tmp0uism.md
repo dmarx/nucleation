@@ -46,18 +46,18 @@ uses:
 - TERM-077
 - TERM-072
 summary: >-
-  CLAIM-440's consequence 4 reads ambivalence as split potential and owes
+  [CLAIM-440](CLAIM-440.md)'s consequence 4 reads ambivalence as split potential and owes
   "an argument that the model's two channels are perspectives in this
-  sense". NOTE-1101 put the debt: the evaluative space model combines the
+  sense". [NOTE-1101](../notes.d/NOTE-1101.md) put the debt: the evaluative space model combines the
   channels into one output and does not describe them as perspectives that
-  win conflicts. The argument here meets TERM-076's three requirements, a
+  win conflicts. The argument here meets [TERM-076](../terms.d/TERM-076.md)'s three requirements, a
   ranking, contest and an authority, from the model's own postulates as
-  Norris et al. (LIT-1438) restate them, and draws two consequences: the
-  model's neutral point is CLAIM-440's "no contest, no valence", and its
+  Norris et al. ([LIT-1438](../literature.d/LIT-1438.md)) restate them, and draws two consequences: the
+  model's neutral point is [CLAIM-440](CLAIM-440.md)'s "no contest, no valence", and its
   "middling expression" splits, in a record of conduct, into a compromise
   that prevails and an alternation that is ambivalence. It answers the
-  first of the two debts; the second, the record, is CLAIM-tmpkcsp7 and
-  CASE-tmpjw1l1. The wording is the assistant's (Claude, in this session);
+  first of the two debts; the second, the record, is [CLAIM-tmpkcsp7](CLAIM-tmpkcsp7.md) and
+  [CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-440 TERM-076 CLAIM-451 — Proposed; the claim whose debt this pays, the term it is stated in and the narrowing it keeps, cited as open -->
@@ -67,15 +67,15 @@ summary: >-
 
 ## The claim
 
-TERM-076 asks three things of a perspective: that it rank the options the
+[TERM-076](../terms.d/TERM-076.md) asks three things of a perspective: that it rank the options the
 system faces, that its ranking can disagree with another's on a pair (a
 contest), and that it hold an authority the system's dynamics set, so that
 which ranking wins is the negotiation's outcome and not given by the
-rankings (CLAIM-283: the precedence a motive claims and the authority it is
-granted differ). It does not ask for sense 1 of TERM-072, a regime of
+rankings ([CLAIM-283](CLAIM-283.md): the precedence a motive claims and the authority it is
+granted differ). It does not ask for sense 1 of [TERM-072](../terms.d/TERM-072.md), a regime of
 mutually conditioned interpretation; this claim is about the thin sense
 only. The evaluative space model, as Norris, Gollan, Berntson and
-Cacioppo restate it (LIT-1438, NOTE-1101), meets each.
+Cacioppo restate it ([LIT-1438](../literature.d/LIT-1438.md), [NOTE-1101](../notes.d/NOTE-1101.md)), meets each.
 
 1. **Two rankings.** The model's channels are separable positive and
    negative systems with distinct activation functions. Each induces a
@@ -83,7 +83,7 @@ Cacioppo restate it (LIT-1438, NOTE-1101), meets each.
    their appetitive activation, negativity by their aversive activation,
    reversed (less aversive is better). The model's evidence for
    separability (uncorrelated positive and negative affect, distinct
-   substrates and transmitters; NOTE-1101, C1) is evidence that these are
+   substrates and transmitters; [NOTE-1101](../notes.d/NOTE-1101.md), C1) is evidence that these are
    two rankings and not one read twice.
 2. **Contest is approach–avoidance conflict.** The two rankings disagree on
    a pair exactly when the option that activates positivity more also
@@ -91,24 +91,24 @@ Cacioppo restate it (LIT-1438, NOTE-1101), meets each.
    withdrawal, the coactivated case. In reciprocal activation the rankings
    agree and nothing is contested; in uncoupled activation one channel is
    indifferent and contests nothing. So the model's three modes of
-   activation are, in TERM-076's terms, agreement, one-sided preference and
+   activation are, in [TERM-076](../terms.d/TERM-076.md)'s terms, agreement, one-sided preference and
    contest, and the model's own mark of ambivalence, approach–avoidance
    conflict, is contest by definition.
 3. **Authority apart from activation.** Which channel's ranking decides is
    not fixed by the activations. The model gives negativity a higher gain
    and positivity a higher intercept, lets both recalibrate with context,
    and makes evaluation heterarchical, with higher levels able to override
-   lower (NOTE-1101). Gain, offset and override are what the negotiation
+   lower ([NOTE-1101](../notes.d/NOTE-1101.md)). Gain, offset and override are what the negotiation
    grants each channel, and they vary across individuals, contexts and
-   levels while the activations stay put. That is CLAIM-283's granted
+   levels while the activations stay put. That is [CLAIM-283](CLAIM-283.md)'s granted
    authority.
 
-Two consequences follow, and both change how CLAIM-440's consequence 4
+Two consequences follow, and both change how [CLAIM-440](CLAIM-440.md)'s consequence 4
 reads the model.
 
 - **The model's neutral point is no contest.** Both channels low: neither
-  ranks the pair strictly, nothing is contested, and on CLAIM-440's
-  consequence 1 valence is undefined there, not neutral. CLAIM-440's
+  ranks the pair strictly, nothing is contested, and on [CLAIM-440](CLAIM-440.md)'s
+  consequence 1 valence is undefined there, not neutral. [CLAIM-440](CLAIM-440.md)'s
   neutrality is something else: an ordering prevails among contested
   pairs and the system keeps to its reference course along it. The model
   and the claim therefore do not disagree about where neutrality is; they
@@ -118,36 +118,36 @@ reads the model.
   "the same middling expression on the affective response surface" as
   neutrality. Read in a record of conduct, a middling output under contest
   is one of two things. Either the system takes the compromise each time
-  (in the policy case of CASE-tmpjw1l1, hold), and then a third ordering,
+  (in the policy case of [CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md), hold), and then a third ordering,
   compromise on top, accounts for every decision and prevails; or it takes
   one channel's top and then the other's, and then no candidate accounts
-  for the decisions, which is ambivalence as CLAIM-440 reads it: the same
-  pair's outcome reversing. The procedure of CLAIM-tmpkcsp7 tells these
+  for the decisions, which is ambivalence as [CLAIM-440](CLAIM-440.md) reads it: the same
+  pair's outcome reversing. The procedure of [CLAIM-tmpkcsp7](CLAIM-tmpkcsp7.md) tells these
   apart, and tells both from no contest, provided the channels' rankings
   are measured apart from the decisions, as the model's own warning
-  requires (NOTE-1101: a record of choices alone cannot tell ambivalent
+  requires ([NOTE-1101](../notes.d/NOTE-1101.md): a record of choices alone cannot tell ambivalent
   from neutral). Its synthetic cases show each verdict
   (scratch/studies/lead-041/test_procedure.py).
 
 So split potential is not the model's coactivation restated, as
-NOTE-1101 said. It is what coactivation becomes when the channels are read
+[NOTE-1101](../notes.d/NOTE-1101.md) said. It is what coactivation becomes when the channels are read
 as perspectives and the record is read in time: either a compromise
 ordering prevails, and the system is not ambivalent in its conduct whatever
-it feels, or the decisions alternate and it is. CLAIM-451's narrowing
+it feels, or the decisions alternate and it is. [CLAIM-451](CLAIM-451.md)'s narrowing
 stands: ambivalence felt with one ordering prevailing in conduct is the
 first case, and this claim says nothing against it.
 
 ## What it does not say
 
-- That the channels are organizational perspectives in TERM-072's sense 1,
-  or represented or phenomenal ones. They meet TERM-076's thin sense:
+- That the channels are organizational perspectives in [TERM-072](../terms.d/TERM-072.md)'s sense 1,
+  or represented or phenomenal ones. They meet [TERM-076](../terms.d/TERM-076.md)'s thin sense:
   ranking, contest, authority.
 - That the model's asymmetries (negativity bias, positivity offset) follow
   from anything here. They are read as authorities, not predicted.
 - That ambivalence is alternation. Alternation is how ambivalence shows in
-  conduct; CLAIM-451's felt ambivalence under a prevailing ordering is not
+  conduct; [CLAIM-451](CLAIM-451.md)'s felt ambivalence under a prevailing ordering is not
   excluded.
 - That any organism's record has been read this way. The one application
-  so far is an organization's (CASE-tmpjw1l1), whose two channels are the
+  so far is an organization's ([CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md)), whose two channels are the
   dual mandate's; no record of an animal's or person's conduct with both
   channels measured has been read.
