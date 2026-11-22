@@ -41,12 +41,12 @@ summary: >-
   as input. The owner's U21 answered with resource-bounded identification
   ([CLAIM-663](../claims.d/CLAIM-663.md), [CLAIM-662](../claims.d/CLAIM-662.md)).
 ---
+<!-- inactive-ok-file: THEORY-tmpnit00 — Proposed; the reading of Monnier et al., 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpam6lh THEORY-1693 — Proposed; the reading of Caliari, 2026-11-22, and Freer and Nosratabadi's beside it -->
 <!-- inactive-ok-file: NOTE-1747 NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-663 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
-<!-- inactive-ok-file: LIT-2451 — Deferred; registered from the same exchange, unread -->
 
 # QUESTION-456: How can the set of demands an organization's compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization's own governance?
 
@@ -250,3 +250,25 @@ mode 2 and sharpens it**, and leaves the question open.
   this question's concern about governance would also call into question.
 
 Its stand-in, [LIT-2458](../literature.d/LIT-2458.md), is superseded in that role.
+
+## Note of 2026-11-22: Monnier et al., read
+
+[LIT-2451](../literature.d/LIT-2451.md) is read ([NOTE-tmprfp2e](../notes.d/NOTE-tmprfp2e.md); [THEORY-tmpnit00](../theory.d/THEORY-tmpnit00.md), which now `bears_on`
+this question) and now Active. It bears on failure mode 1, and corrects
+A's statement of it. A said "a small statistically underrepresented group
+can disappear inside" an aggregate. The paper shows something broader:
+any single score over intersectional subgroups needs a meta-metric
+(comparison, aggregation, weighting), the meta-metrics agree only when
+there is no disparity, and they can reverse rankings otherwise; the
+default worst-gap rule scores an isolated victim and a pervasive spread
+alike (§4.1.1). Whether a small group disappears depends on a weighting
+the paper treats as one more normative choice: by sample size it damps
+small groups, inversely it emphasizes them (§3.4.1).
+
+The paper takes the subgroups as given: "The designation of an attribute
+as sensitive is assumed to result from prior normative and societal
+deliberation" (§3.1). So it bears on how identified demands are weighed
+against one another, which the compatibility complex also needs, and not
+on who counts as a claimant. Its guidelines are the second half of A42's
+procedure, justifying the resolution, for one measurement practice. The
+question stays Open.

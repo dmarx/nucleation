@@ -58,6 +58,7 @@ summary: >-
 bears_on:
 - QUESTION-036
 ---
+<!-- inactive-ok-file: CASE-tmphfmrb CLAIM-tmpv22hv CLAIM-tmp46m6e — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-263 — Proposed; the general forms of this claim's premises, filed under ADR-040, open -->
 
 # CLAIM-187: Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison
@@ -132,3 +133,14 @@ realizations, which the summary already calls the claim's weak point. The
 claim also needed only the relativity of observational equivalence to
 probes, so its `rests_on` names [CLAIM-264](CLAIM-264.md), the general form, in place
 of [CLAIM-142](CLAIM-142.md). The body's citation of [CLAIM-142](CLAIM-142.md) stands.
+
+## Note of 2026-11-22: its premise tested in a toy
+
+[CLAIM-263](CLAIM-263.md), the premise this claim rests on, was tested at toy scale by
+[LEAD-157](../leads.d/LEAD-157.md) ([CASE-tmphfmrb](../cases.d/CASE-tmphfmrb.md)). Read at the grain of input attributes, the toy
+meets its defeater, and so this claim's carry-over loses its measured
+template ([CLAIM-tmpv22hv](CLAIM-tmpv22hv.md)). Read at the grain of features, the protocol
+stands with two added preconditions, a connected control and a probe that
+separates the mechanisms ([CLAIM-tmp46m6e](CLAIM-tmp46m6e.md)). Either precondition would also
+have to be posed for communicative realizations. The owner chooses between
+the readings. The claim is unchanged.

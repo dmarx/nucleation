@@ -1,0 +1,29 @@
+{
+  "n_configs": 60,
+  "localization_acc": {
+    "accurate": 0.9401388888888889,
+    "centralized": 0.21416666666666667
+  },
+  "mass_on_true_cause": {
+    "accurate": 0.5607455586030808,
+    "centralized": 0.21944444444428013
+  },
+  "max_aggregate_recon_err": {
+    "accurate": 0.0,
+    "centralized": 1.7763568394002505e-15
+  },
+  "closed_loop_final_err": {
+    "accurate": 0.008083333333333333,
+    "centralized": 0.013466666666666665
+  },
+  "closed_loop_cumulative_err": {
+    "accurate": 0.166775,
+    "centralized": 0.21736666666666668
+  },
+  "innocent_gain_loss_frac": {
+    "accurate": 0.3443990105674828,
+    "centralized": 0.4613848859051005
+  },
+  "accurate_wins_cumulative_err": "54/60",
+  "accurate_wins_innocent_loss": "60/60"
+}

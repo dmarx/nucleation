@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwpvbz
 title: 'A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-11-16'
@@ -38,6 +38,10 @@ history:
     Joins the work capability-restraint-relational-freedom
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §10 states its proposition. No other change.
+- version: 8
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Frischmann and Benesch (LIT-tmpjbd64) registered and read on 2026-11-22 for LEAD-152, NOTE-tmpyjyrt. No change of status or title.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -197,3 +201,7 @@ without slowing each decision, as CLAIM-711 says is possible. Relation: corrobor
 <!-- inactive-ok-file: CASE-285 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
 
 [CASE-tmp8riid](../cases.d/CASE-tmp8riid.md) runs [CASE-285](../cases.d/CASE-285.md)'s design. Its precommitted limits are this claim's arrangement in a model: set before action, enforced at once, escalating what they catch. They kept the fast process interruptible without delaying the actions they let pass, and exactly in proportion to their coverage: outside what they foresaw nothing was won back, unless the overseer detected it in time by the ordinary route. That is the dependence this claim's defeated_if names ("interruptibility is kept only for the transitions foreseen"), made explicit; the model stipulates coverage and cannot say how much real limits foresee. [CLAIM-tmpsaql8](CLAIM-tmpsaql8.md) states the result. No status changes.
+
+## Note of 2026-11-22: Frischmann and Benesch, read
+
+Background, not evidence ([LIT-tmpjbd64](../literature.d/LIT-tmpjbd64.md), [NOTE-tmpyjyrt](../notes.d/NOTE-tmpyjyrt.md)). The content-neutral regulations Frischmann and Benesch sketch are standing rules set in advance, with triggers (a count of forwards, a border, social-graph distance) that delay what they catch and leave the rest alone (pp. 437–42): the shape this claim describes. They justify them by the deliberation they allow, not by interruptibility, and report no test. Relation: none. No status changes.

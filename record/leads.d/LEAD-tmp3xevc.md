@@ -1,7 +1,7 @@
 ---
 status: Open
 title: 'Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory'
-version: 3
+version: 4
 stage: underway
 priority: medium
 method:
@@ -53,6 +53,11 @@ Register and read, under the read-and-file skill:
   effects: bidirectional refinement checking, the sharp test of the
   direction-of-fit correspondence that Freeman and Pfenning leave
   untested ([CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)). Added the same day for the same reason.
+- Proposed, not started (the owner's call): Flanagan (2006), Hybrid Type
+  Checking, which inserts run-time checks where static checking cannot
+  decide. It is the nearest case of the elaboration [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) names, which
+  none of the three refinement systems read shows. Suggested by the Liquid
+  Types reader.
 
 ## What would count
 
@@ -70,3 +75,34 @@ intersection matches the witness argument, the witness being a value;
 and in their system checking an annotation is word to world, as inference
 is, so the bidirectional correspondence is left to the Dunfield and
 Krishnaswami reading.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 ARG-tmp7pf1t ARG-tmpdq64g CLAIM-tmpvq4ru — Proposed or Rejected; filed from this reading -->
+
+Davies and Pfenning (2000), added to the readings at the owner's request,
+is read: [LIT-tmp57uqz](../literature.d/LIT-tmp57uqz.md), [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md), [THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md), with [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md),
+[ARG-tmpdq64g](../arguments.d/ARG-tmpdq64g.md) and [CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md) (pull request "Read Davies and Pfenning
+2000"). In the paper that introduced bidirectional refinement checking,
+the checked type is the programmer's, given in advance, and a failing term
+is the one to change; synthesis mostly passes on declared types; and no
+rule moves a term, so the elaboration clause has nothing in this system to
+map to. The value restriction gives the witness a second reason to be a
+value. Whether a met ascription is a requirement is left to the owner, as
+two alternatives in [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md).
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; filed from this reading -->
+
+Read beyond the five candidates, at the owner's request after the Freeman
+and Pfenning reading: Rondon, Kawaguchi and Jhala 2008, "Liquid Types"
+([LIT-tmplw76n](../literature.d/LIT-tmplw76n.md), [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md), [THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md), with [ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md),
+[ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md) and [CLAIM-tmpcmt21](../claims.d/CLAIM-tmpcmt21.md); pull request "Read Rondon, Kawaguchi and
+Jhala 2008"). The descriptor as a refinement inhabited holds in the
+predicate form, narrowed: inferable descriptors are conjunctions from a
+finite qualifier set, checking is conservative, and no evidence is
+carried. Inference is informative update, the strongest conjunction the
+qualifiers and the check allow; checking moves nothing, and a failure may
+lie in the program, the qualifiers or the checker. A reading the lead
+might add: Flanagan 2006, "Hybrid Type Checking", which inserts the
+run-time checks this paper proposes, the nearest case of the elaboration
+[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) names. Offered, not added to the list here.

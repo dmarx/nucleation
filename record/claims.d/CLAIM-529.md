@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbij2b
 title: 'An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate''s interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members'' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, individuating it by a different relation, unavailable where members have no such attitudes'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,10 @@ history:
     says does not defeat it, and no entry argues that declaring a
     candidate presupposes the unit. Warrant and defeated_if are
     unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -83,8 +87,9 @@ summary: >-
   attitudes. It does not say the paper argues this, and it leaves the
   presupposed lower-level units where the paper leaves them.
 ---
+<!-- inactive-ok-file: THEORY-tmpvjav8 THEORY-tmp54yyf — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose parts this claim sorts -->
-<!-- inactive-ok-file: LIT-1927 LIT-1932 LIT-1937 — Deferred: registered 2026-11-01, unread; named for what the reading of LIT-188 reports of them -->
+<!-- inactive-ok-file: LIT-1932 LIT-1937 — Unavailable since 2026-11-22, unread; named for what the reading of LIT-188 reports of them -->
 
 # CLAIM-529: An organization can be individuated without presupposing it as a declared candidate whose verdict can come out false: criteria stated on the candidate's interactions (whether benefit can be booked per member, which interactions the others depend on, what removing an interaction type does, whether its order survives release from an outside scaffold) apply to a grouping not yet assumed to be a unit, while criteria stated as members' attitudes toward the group (a goal about it, belonging, identity) make it partly constituted by being taken as one, individuating it by a different relation, unavailable where members have no such attitudes
 
@@ -177,3 +182,35 @@ kinds, and only one kind avoids the circle.
 ## Note of 2026-11-07: what knockout can test, from the third synthesis review
 
 This claim counts knockout of interaction types among the first three criteria, which it says "test constitutive individuation". Knockout is an intervention. By [CLAIM-528](CLAIM-528.md) and [THEORY-1288](../theory.d/THEORY-1288.md), intervention data can show that an organization depends on an interaction type. It cannot show whether the organization consists in that interaction or is produced through it. So the claim holds as stated only if [TERM-088](../terms.d/TERM-088.md)'s "helps fix" is read as neutral between consisting in and being produced through, and this note records that reading. If [TERM-088](../terms.d/TERM-088.md)'s constitutive sense is meant to exclude causal production, knockout tests dependence, not constitution, and the claim's item should be narrowed. No status change.
+
+## Note of 2026-11-22: the scaffolding works, read
+
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md), [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md)),
+the scaffolding group's 2024 statement ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md),
+[THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)) and Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md)).
+
+- **Release from a scaffold, as its source states it** (corroborates;
+  written as `corroborates` on [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md) and [THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)).
+  Item 1's last interaction criterion, whether a grouping's order
+  survives release from an outside scaffold, is Bourrat's: collectives
+  whose properties survive removal of the scaffold are Darwinian, those
+  that collapse were Darwinian-like. In his model the candidate (the
+  patch's cells) is declared in advance, the criterion is stated on the
+  cells' traits and the collectives' response, and the verdict comes out
+  false for large propagule timescales or patch sizes (§6.3). The 2024
+  paper states it the same way: a transition has "only truly occurred if
+  a return to an independent mode of existence for cells is hindered upon
+  the removal of the scaffolding conditions". Both fit the claim's
+  "declared candidate whose verdict can come out false".
+- **A qualification to item 2**: in Bourrat's model the release lifts
+  only the migration ban. The patches, their capacity and the periodic
+  propagule generations stay outside and stay on, so "survives release"
+  is relative to which part of the scaffold is released.
+- **Both routes in one case** (a parallel): Shavit and Sharon explain
+  why the Neolithic farmer does not revert by interaction criteria (group
+  fitness decoupled from individual fitness, division of labour) and by
+  attitude criteria ("personal internalization of groupthink or
+  group-identity", a canonical group signature) side by side, without
+  separating them. An illustration of the claim's contrast, not a test.
+
+Nothing here meets the claim's defeated_if. No status change.

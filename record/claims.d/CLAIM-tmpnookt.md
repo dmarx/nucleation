@@ -135,3 +135,70 @@ correspondences.
 Neither reaches this claim's `defeated_if` (b), which asks for a
 correspondence that fails on its own terms: the first holds narrowed, and
 the second was not tested by this paper. No change to the claim's status.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 ARG-tmp7pf1t ARG-tmpdq64g CLAIM-tmpvq4ru — Proposed or Rejected; filed from the reading for LEAD-tmp3xevc -->
+
+Davies and Pfenning 2000 ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md), corroborates; [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md);
+[LIT-tmp57uqz](../literature.d/LIT-tmp57uqz.md)), the paper that introduced bidirectional checking for
+refinement types, and so the test the Freeman and Pfenning reading left
+open for the bullet "The direction of fit is bidirectional typing".
+
+- **Checking holds a term to a type given in advance: borne out,
+  narrowed** ([ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md)). The checked type is the programmer's
+  ascription, passed down to subterms (pp. 6–8), and a term that fails it
+  is the one to change: double fails, and "We leave the simple fix to the
+  reader" (p. 10). Whether an ascription the term already meets is a
+  requirement the paper does not say; [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md) sets out the two
+  readings as alternatives for the owner.
+- **Inference reads a type off the term: narrowed.** Most synthesized
+  types are declared ones: an ascription "checks C against A and then
+  yields A as the synthesized type" (p. 6), and variables synthesize what
+  the context declares. Only constants are typed from their shape. The
+  same ascription is a requirement on its term and a description to its
+  uses.
+- **The performative case is elaboration or coercion: not borne out
+  here** ([ARG-tmpdq64g](../arguments.d/ARG-tmpdq64g.md), Rejected as a route; [CLAIM-tmpvq4ru](CLAIM-tmpvq4ru.md), a counter).
+  Ascriptions are erased, subtyping is inclusion, "We avoid coercions"
+  (p. 2), and the moves that make a failing term pass, the fix, an
+  η-expansion, a lifted definition, are the programmer's. A coercive
+  extension is called easy (p. 2), so this leaves the clause untested
+  against an elaborating system rather than refuted.
+
+Defeat condition (b) is not met: one correspondence holds narrowed, and
+the elaboration clause names a mechanism this system lacks rather than one
+that fails. No change to the claim's status.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; filed from the reading for LEAD-tmp3xevc -->
+
+Rondon, Kawaguchi and Jhala 2008 ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md), corroborates;
+[NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md); [LIT-tmplw76n](../literature.d/LIT-tmplw76n.md)), the predicate form of refinement types,
+read after Freeman and Pfenning's turned out to be a declared lattice.
+
+- **A descriptor as a refinement the entry inhabits: borne out in the
+  form written here, narrowed** ([ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md)). Their base refinement
+  {ν : B | e}, e any boolean expression, is "the set of values c of the
+  base type B such that the predicate [c/ν]e evaluates to true" (p. 160):
+  this claim's {x : A | φ(x)}. Inference only weakens a description until
+  the program passes it, and the program never moves. Three narrowings:
+  where a type is inferred, φ must be a conjunction of qualifiers from a
+  finite set given in advance, no disjunction, which is what keeps
+  inference decidable; a type given in advance can carry any predicate but
+  is checked by a conservative implication check, so a predicate the term
+  passes can fail to check; and nothing is carried with the term, so
+  "provably inhabits" means only that the check succeeded.
+- **The direction of fit as inferring against checking: half borne
+  out** ([ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md), Rejected as a route; [CLAIM-tmpcmt21](CLAIM-tmpcmt21.md), a counter).
+  Inference is informative update. Checking against a type given in
+  advance moves nothing, a program that fails is reported, and the failure
+  may lie in the qualifier set or the checker rather than the program. The
+  run-time checks the paper proposes inserting, by Flanagan's hybrid type
+  checking, would be the elaboration this claim names; the paper does not
+  do it, and the record has not read Flanagan.
+- **Proof relevance: no support.** Derivations and solver checks are not
+  kept; inferred types are printed "as documentation" (p. 167).
+
+Neither reaches this claim's `defeated_if` (b): the first correspondence
+holds narrowed, and the second is still untested on a bidirectional
+system. No change to the claim's status.

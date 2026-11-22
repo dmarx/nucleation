@@ -103,3 +103,19 @@ difference equally well."
 <!-- inactive-ok-file: CASE-285 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
 
 [CASE-tmp8riid](../cases.d/CASE-tmp8riid.md), a queueing model of [CASE-285](../cases.d/CASE-285.md)'s design, bears on one relation this question asks for: the time an acting institution leaves before its actions are irreversible, against the time the institution that would correct it needs to detect, evaluate and act. With the corrector's authority fixed, correction became less timely as that margin shrank, gradually rather than at a threshold. Of the remedies, those that hold an action until the corrector acts (precommitted limits, automatic suspension) kept correction timely for what they caught; a fixed pause did so only by giving up the speed. [CLAIM-tmpsaql8](../claims.d/CLAIM-tmpsaql8.md) states the result. No status changes.
+
+## Note of 2026-11-22: A9's construction built, [LEAD-168](../leads.d/LEAD-168.md)
+<!-- inactive-ok-file: CASE-tmpwj1k2 CLAIM-tmpr54f9 CLAIM-tmpx5yyb — new; LEAD-168's executed study and its two alternative readings -->
+
+[CASE-tmpwj1k2](../cases.d/CASE-tmpwj1k2.md) builds the executive, reviewer and enforcer this question
+proposes, in two arrangements differing only in whether the executive's
+signal gates execution. Two readings of where they first part, filed as
+alternatives: with fixed policies, at execution, after identical rulings,
+and only on an adverse order the executive withholds ([CLAIM-tmpr54f9](../claims.d/CLAIM-tmpr54f9.md)), the
+rung after uptake; with anticipation, earlier, at the ruling or at the
+executive's act, so that two arrangements alike in routine exist only
+where independent enforcement would not deter the act ([CLAIM-tmpx5yyb](../claims.d/CLAIM-tmpx5yyb.md)).
+One relation the question asks for is thus stated and checkable: whether
+the enforcer's execution of an order depends on the signal of the party
+it corrects. The case is a stipulated model, itself a conventional one.
+The question stays Open.

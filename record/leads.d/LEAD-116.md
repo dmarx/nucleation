@@ -46,3 +46,25 @@ Where the record names it:
 
 Committors that order the intermediates as [CLAIM-567](../claims.d/CLAIM-567.md) predicts support it;
 a different order bears on [QUESTION-400](../questions.d/QUESTION-400.md).
+
+## Note of 2026-11-22: run
+
+Carried out by the assistant. [CASE-tmpndpz3](../cases.d/CASE-tmpndpz3.md) (executed-study) builds a
+stochastic assembly Markov chain with two alternative seams nucleating a shared
+body into two valid folds, an incompatible-seam trap and an unnucleated
+collapse, and scores the intermediates by committor. [CLAIM-tmp7stqi](../claims.d/CLAIM-tmp7stqi.md) states
+the finding: the committor measures an intermediate's future, not its assembled
+extent, and two separately productive nuclei can combine into a trap. The
+committors order the intermediates as [CLAIM-567](../claims.d/CLAIM-567.md) predicts (a small nucleus
+above a more assembled trap), supporting it; allocation of a fixed stock selects
+the realised form, bearing on [QUESTION-400](../questions.d/QUESTION-400.md); and the non-monotone V is an
+assembly-dynamics instance for [CLAIM-599](../claims.d/CLAIM-599.md). Dated notes added to
+[CASE-219](../cases.d/CASE-219.md) and [CASE-220](../cases.d/CASE-220.md). Code under scratch/studies/lead-116/.
+
+What remains: the model is stipulated with invented rates, so it shows the
+logic, not its size in any real system; the regeneration property of
+[CLAIM-566](../claims.d/CLAIM-566.md) is not in the design; and whether the committor ranking holds the
+same shape across a parameter sweep was not surveyed (the default parameters
+were chosen to show the mechanisms). The status and stage are the owner's.
+
+No status or stage changes.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmprrjrd
 title: 'A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -39,6 +39,10 @@ history:
   note: >-
     Note of 2026-11-22 added: an instance in population form, from
     CASE-tmprsqvj (CLAIM-tmp2jbb1). The claim is unchanged.
+- version: 6
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 role: counter
 warrant: interpretive
 tags:
@@ -72,6 +76,7 @@ complements:
 - CLAIM-530
 - CLAIM-531
 ---
+<!-- inactive-ok-file: LIT-1940 — Unfetched since 2026-11-22; the model LEAD-176's readings restate, cited in its dated note -->
 <!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # CLAIM-194: A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs
@@ -178,3 +183,34 @@ differs only in the direction of that feedback, and the price removes it
 beyond four steps. This is the claim's beam and membrane, with the imposed
 boundary indistinguishable from a common input. [CLAIM-tmp2jbb1](CLAIM-tmp2jbb1.md)
 corroborates this claim. The claim is unchanged.
+
+## Note of 2026-11-22: Bourrat 2022 and Bourrat et al. 2024, read
+
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat's endogenization paper ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md))
+and the scaffolding group's 2024 statement ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md)),
+the second standing in for Black, Bourrat and Rainey ([LIT-1940](../literature.d/LIT-1940.md), Unfetched).
+A parallel, not evidence for the claim's argument; no edge.
+
+- **The same distinction, drawn in biology.** Bourrat's "Darwinian-like"
+  collectives get their properties from "external (that is, ecological)
+  individuating mechanisms"; "Darwinian" ones from internal mechanisms
+  (§2, Table 1). Black et al.'s patch collectives have real interaction
+  among their members, through the patch's resources, and still have
+  their boundary and bottleneck "purely external to the collective"
+  (§4). A criterion that read interaction strength would pass them, as
+  the claim says a gap criterion passes the beam.
+- **Bourrat tells them apart by an intervention, not a coupling
+  measure**: lift the scaffold and see whether the collective's
+  properties survive. That is the kind of test [CLAIM-522](CLAIM-522.md) says separates
+  the two. In his model it lifts one part of the scaffold only, the
+  migration ban, relative to a candidate (the patch) declared in advance.
+- **The 2024 paper complicates the dichotomy.** Its constructive route
+  has cells make the scaffold, which first acts on them as an imposed
+  boundary and is later taken into the collective, and it holds that "a
+  boundary shift between what is considered internal and external
+  occurs during the emergence of new levels of individuality". A
+  produced boundary can act as an imposed one before it is endogenized.
+  The claim's distinction stands, but which side a boundary is on can
+  change over a transition.
+
+No status change.

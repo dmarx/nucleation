@@ -77,3 +77,32 @@ performative update, and it is outside the type system.
   annotation the code does not yet meet, and then changes the code, is
   using the type as a requirement; the claim is that the checker's part
   in that is the same as in describing.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 CLAIM-tmpvq4ru ARG-tmp7pf1t — Proposed; filed from the reading for LEAD-tmp3xevc -->
+
+This claim left open whether checking moves a term in a bidirectional
+system. Davies and Pfenning's checker ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md); [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)) is
+one, and in it too no rule moves a term: ascriptions are erased, subtyping
+is inclusion, and the fix to a failing term is left to the programmer
+(pp. 2, 6–7, 10). [CLAIM-tmpvq4ru](CLAIM-tmpvq4ru.md) files that, as a complement of this
+claim for the bidirectional case. The second half of this claim, that
+whether an annotation describes or requires is settled by whether the term
+already passes, the paper neither confirms nor defeats: it never says
+whether a met ascription was written before its term. [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md) files
+this claim's reading and the opposing one as alternatives. No change.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 CLAIM-tmpcmt21 — Proposed; filed from the reading for LEAD-tmp3xevc -->
+
+A second system where the same holds (parallel; this claim is about
+Freeman and Pfenning's system, so the reading is not evidence for it and
+takes no edge). In liquid types ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)), a
+predicate refinement system whose paper cites Freeman and Pfenning as the
+origin of refinements (p. 169), types given in advance are checked
+through the same subtyping constraints as inferred ones, a program with no
+type gets Failure (Theorem 2, p. 166), and no rule changes a program.
+[CLAIM-tmpcmt21](CLAIM-tmpcmt21.md) widens this claim to that system and adds what it could not
+say: there a failure to check need not be the term's, since the qualifier
+set or the conservative checker may be at fault (p. 160). The claim
+stands.

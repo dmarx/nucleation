@@ -1,0 +1,175 @@
+---
+status: Read
+paper: LIT-2451
+title: 'Monnier et al. (2026) — Beyond Base Metric: meta-metrics in intersectional fairness'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 for LEAD-158. Copy: the published version (FAccT
+    '26, CC BY 4.0, 17 pages) as co-author Thomas George posts it on his
+    own site, https://tfjgeorge.github.io/assets/pdf/FAccT2026_Beyond_Base_Metric.pdf,
+    which answered one GET with HTTP 200, application/pdf (ADR-074: an
+    author's own upload). The ACM Digital Library copy had given a
+    Cloudflare challenge on 2026-11-12 and was not retried. Checked
+    against the copy: authors Jeanne Monnier (EURECOM and Orange Research),
+    Thomas George, Frédéric Guyard, Christèle Tarnec (Orange Research) and
+    Marios Kountouris (EURECOM and University of Granada); DOI
+    10.1145/3805689.3812417. Read §§1–6 in full; the figures' numeric
+    content was read from the text, since the rankings in Figures 2 and 3
+    did not survive text extraction; the references skimmed. Every quote
+    below was rechecked against the downloaded text by the filer.
+date: '2026-11-22'
+summary: >-
+  In intersectional fairness a base metric gives one benefit per subgroup,
+  and a single score needs a meta-metric: a comparison (one-vs-all or
+  one-vs-mean, difference or ratio), an aggregation (Lq norms, ordered
+  weighted averaging, threshold indicators, or mutual information) and an
+  optional weighting. All agree when there is no disparity and diverge
+  otherwise: on synthetic profiles every pair is ranked both ways by some
+  pair of meta-metrics, and on UCI Adult each of seven models is fairest
+  under some meta-metric. The choice encodes which pattern of disadvantage
+  is worse and needs explicit justification.
+---
+<!-- inactive-ok-file: THEORY-tmpnit00 — filed from this reading, Proposed -->
+
+# NOTE-tmprfp2e: Monnier et al. (2026) — Beyond Base Metric: meta-metrics in intersectional fairness
+
+## Contribution
+
+A taxonomy of the step that turns per-subgroup fairness measurements into
+one score, which the literature mostly takes as the worst-case gap by
+default, with evidence that the choice changes verdicts and guidelines
+for choosing by the pattern of disparity one most wants to avoid.
+
+## Key results
+
+1. **The step (abstract).** Aggregating subgroup measures "requires
+   selecting a meta-metric, and different choices can produce divergent
+   or even conflicting fairness assessments." The term and the base/meta
+   split are Lum et al.'s (§1).
+2. **The default (§1).** "the meta-metrics in use largely follow the same
+   paradigm: the worst subgroup-level disparity."
+3. **Agreement only at zero (§1).** "Although all meta-metrics coincide
+   under conditions of complete fairness with respect to the chosen base
+   metric, they diverge in the more realistic cases in which disparities
+   persist."
+4. **Taxonomy (§3, Table 1).** m = f_a ∘ f_w ∘ f_c: comparison f_c
+   (one-vs-all pairwise gaps or one-vs-mean, by difference or ratio), an
+   optional weighting f_w (by sample size, inversely to it, or by
+   distance between subgroups in attribute space), and aggregation f_a
+   (L_q norms, OWA, the ε-threshold indicator, or mutual information,
+   which skips the comparison step).
+5. **Weighting is normative (§3.4.1).** Weighting by sample size damps
+   noisy small groups; weighting inversely emphasizes "less visible and
+   more vulnerable" ones. "These contrasting choices illustrate how
+   weighting schemes encode normative priorities and must be selected
+   with care."
+6. **Who counts is taken as given (§3.1).** "The designation of an
+   attribute as sensitive is assumed to result from prior normative and
+   societal deliberation."
+7. **Synthetic profiles (§4.1.1, Fig. 2).** Four unequal profiles share
+   the extremes 0.1 and 0.9; under max(Δ one-vs-all) "all four profiles
+   receive the same fairness score". The orange profile is ranked best by
+   L2 and worst by the threshold indicator, and "for every pair of
+   distribution profiles, there exists at least one meta-metric that ranks
+   the pair in one order and another that ranks them in the opposite
+   order".
+8. **Real data (§4.1.2).** Seven scikit-learn models with default
+   hyperparameters on UCI Adult, equal opportunity, ten Sex × Race
+   subgroups: "each model is designated as the fairest by at least one
+   meta-metric"; the RBF SVC is fairest by mutual information and L∞ and
+   most biased by every threshold indicator.
+9. **Divergence grows with subgroups (§4.2).** Over 1000 random
+   distributions, Kendall's τ between meta-metric rankings is 0.73–0.87
+   for four subgroups and 0.49–0.79 for eight, falling in general as
+   subgroups go from 2 to 20 (Fig. 5).
+10. **Patterns (§§4.3, 5.1).** The isolated subgroup (one group far from
+    the rest), blocks of subgroups, and a continuous spread are each
+    penalized by different meta-metrics. "Importantly, none of the
+    identified profiles is inherently more problematic than another. As
+    with many ethical questions, the assessment of fairness is inherently
+    context-dependent."
+11. **Cases (§5.2).** COMPAS with predictive equality suggests ind_ε
+    (one-vs-all, high ε), against an isolated large risk of wrongful
+    detention; Adult with statistical parity suggests L1 (one-vs-all),
+    against a pervasive spread. "A full justification of such choices
+    requires domain-specific and social science expertise and lies beyond
+    the scope of this work."
+12. **Conclusion (§6).** "meta-metric selection should be treated as a
+    substantive design decision that requires explicit justification."
+
+## Assumptions
+
+- Group fairness, binary classification, one base metric at a time
+  (equal opportunity in the illustrations).
+- The sensitive attributes and hence the subgroups are fixed beforehand
+  by "prior normative and societal deliberation".
+- A single scalar score is needed in practice (model selection,
+  auditing, compliance).
+- The synthetic profiles are chosen as extreme cases; the random
+  distributions are uniform draws of subgroup benefits, not data.
+
+## Concepts
+
+Base metric; benefit; meta-metric; comparison type (one-vs-all,
+one-vs-mean; difference, ratio); aggregation (L_q norm, OWA, ε-threshold
+indicator, mutual information); weighting (sample size, inverse sample
+size, subgroup distance); isolated-subgroup, block and continuous-spread
+patterns; fairness gerrymandering.
+
+## Connections
+
+The base/meta split is Lum, Zhang and Bower (FAccT 2022), whose concern is
+estimation error for small subgroups. Himmelreich et al. (2025) state
+desiderata for intersectional metrics; this paper offers selection
+guidelines instead. The authors' MIFair ([LIT-2461](../literature.d/LIT-2461.md)), read in this work's
+place on 2026-11-12, is the mutual-information meta-metric of §3.3.4
+developed into a training framework; it does not carry the taxonomy or the
+guidelines, as the reader then said.
+
+## Bearing on the record
+
+- **[QUESTION-456](../questions.d/QUESTION-456.md)**, failure mode 1 ("Who is represented"): supports and
+  corrects A's account (dated note there). A said "a small statistically
+  underrepresented group can disappear inside" an aggregate. The paper
+  shows something broader and something narrower. Broader: any aggregate
+  ranks patterns of disadvantage by a normative choice, and the default
+  worst-case rule cannot tell an isolated victim from systemic
+  inequality (result 7). Narrower: whether a small group disappears
+  depends on the weighting chosen, and the paper offers weighting that
+  emphasizes it (result 5). It takes the identification of the subgroups
+  as given (result 6), so it bears on how demands are weighed once
+  identified, not on who counts as a claimant.
+- **[CLAIM-348](../claims.d/CLAIM-348.md)**: independent evidence, in a measurement practice the
+  claim does not cite (`corroborates` on [THEORY-tmpnit00](../theory.d/THEORY-tmpnit00.md); dated note
+  there). All meta-metrics agree when the description shows no disparity
+  and diverge otherwise, and the data cannot choose among them: the
+  evaluative target, a conception of fairness, has to.
+- **[QUESTION-129](../questions.d/QUESTION-129.md)**: weak. The paper is a case of standards that are
+  "equally legitimate" in context (result 10), the "Partial" answer's
+  shape, with the choice among them handed to domain deliberation. It
+  offers no constraint on which standpoint has authority.
+- **[LEAD-158](../leads.d/LEAD-158.md)**: the lead listed it among works on the objectivity of
+  relational norms; its bearing there is through [QUESTION-456](../questions.d/QUESTION-456.md), not
+  constitutivism.
+- **An instruction for machine-learning practice**: choose and justify
+  the meta-metric of an intersectional fairness evaluation by the pattern
+  of disparity the application most needs to avoid, rather than default
+  to the worst-case gap. That belongs to the Anthology of the SOTA, so the
+  LIT now carries the `anthology-candidate` flag.
+
+## Limitations
+
+- **Binary outcomes and group fairness only**; individual and causal
+  fairness are outside.
+- **The divergence evidence is from uniform random distributions and one
+  dataset** with default-hyperparameter models; how often real model
+  comparisons flip is not estimated.
+- **Statistical uncertainty is set aside**: the estimation problem Lum et
+  al. raise for small subgroups is mentioned, not combined with the
+  choice of meta-metric.
+- **The guidelines stop at matching patterns to concerns**; which concern
+  should govern is left to "domain-specific and social science
+  expertise".

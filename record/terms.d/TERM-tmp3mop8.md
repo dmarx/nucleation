@@ -61,3 +61,25 @@ version.
   interpretive). A certificate is the support itself, for one realization.
 - **NP's certificate**: there a synonym for the witness string; here the
   accepting check of it. See [TERM-tmp7s2aa](TERM-tmp7s2aa.md).
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel. In Davies and Pfenning's checker ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md);
+[NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)) types "may, but need not be carried at runtime" (p. 2), and
+ascriptions are erased (p. 7): the checking derivation is found and then
+discarded, a witness kept without its certificate. No change.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+A contrast (no edge). Liquid types ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) are
+proof-irrelevant, as Freeman and Pfenning's are: the solver's validity
+checks are made and not kept, no derivation is stored, and DSOLVE writes
+the inferred types to .annot files "as documentation" (p. 167). Still, an
+inferred assignment has this term's shape. Given the types, each
+subtyping constraint is one validity check, while finding them is the
+iterative-weakening search, so the assignment could be rechecked cheaply
+and not rebuilt. The paper neither keeps it for that nor says so; the
+reading is the filer's. Program verification's loop invariants, which
+predicate abstraction finds, are certificates in that sense.

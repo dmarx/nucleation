@@ -49,6 +49,7 @@ summary: >-
 answers:
 - QUESTION-007
 ---
+<!-- inactive-ok-file: THEORY-tmpdrt3r — Proposed; the reading of Leffler, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-599 — Unavailable; the book version of the lectures, named as the unread work that would move this -->
 <!-- inactive-ok-file: THEORY-029 THEORY-047 THEORY-054 THEORY-065 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
@@ -172,3 +173,18 @@ values and needs"; the
 meta-analysis finds that regulation not separable from identified
 regulation in measurement (r = .913), so the comparison is with a construct
 that self-report does not isolate.
+
+## Note of 2026-11-22: Leffler, read
+
+Leffler ([THEORY-tmpdrt3r](THEORY-tmpdrt3r.md), [LIT-2444](../literature.d/LIT-2444.md)) reconstructs Korsgaard's later
+"plight" inescapability (*Self-Constitution*, 2009) as the one
+inescapability argument that explains why constitutive norms have force,
+and argues that it entails relativism: it explains why an agent's own
+commitments bind that agent, and cannot reach "categoricity as
+constitution independence" (p. 21). That bears against this account's
+second step, from valuing any practical identity to valuing humanity,
+if the step is read as resting on inescapability: Leffler's §VII says the
+step to norms that bind every agent whatever its constitution is exactly
+what inescapability cannot supply. He cites *Sources of Normativity*
+but does not examine its argument from practical identity to humanity,
+so this is an objection to one reading of the step, not a refutation. No status change.

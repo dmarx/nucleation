@@ -43,6 +43,7 @@ summary: >-
   "Deliberately" also does work: inhibition can be wholly subpersonal.
 ---
 <!-- inactive-ok-file: ARG-051 CLAIM-355 THEORY-064 — Proposed or Open; the question, inference and neighbours this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmpgl7zr THEORY-tmprbqew THEORY-tmpseev1 — new in this filing and Proposed or Rejected; the readings of LEAD-141, cited as open -->
 
 # THEORY-1300: In mind-wandering the capacity for veto over one's own mental processes is kept and its representation in the self-model is lost, and on Metzinger's principle a capacity can be deliberately exercised only while it is so represented; the loss of M-autonomy is then the loss of a condition of the capacity's efficacy, not of the capacity
 
@@ -129,3 +130,16 @@ and from the phenomenology of the return.
 ## Note of 2026-11-06: what holds it back
 
 Metzinger's H1 and H3, blocking and restoring the epistemic agent model's introspective availability with an externally cued measure of the ability held fixed, are untested, and his own 2017 chapter ([NOTE-1496](../notes.d/NOTE-1496.md)) says the data cannot decide whether the representation constitutes, enables or only accompanies control.
+
+## Note of 2026-11-22: Axelrod and colleagues do not meet the promote_when
+
+The promote_when asks for "an intervention on the self-model's
+representation of the capacity alone, with the capacity checked
+independently". The study Metzinger cites first for H1, Axelrod et al.
+(2015), [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md) ([THEORY-tmpgl7zr](THEORY-tmpgl7zr.md)), is not one: anodal frontal
+stimulation raised reported mind-wandering with no measure of the
+representation. The first author's replication measured meta-awareness and
+found it unchanged while mind-wandering rose ([THEORY-tmprbqew](THEORY-tmprbqew.md)), and a
+pre-registered replication found no effect ([THEORY-tmpseev1](THEORY-tmpseev1.md)). A
+contrast, not evidence for or against this account: no edge. A search of
+2026-11-22 ([LEAD-141](../leads.d/LEAD-141.md)) found no study that meets the promote_when.

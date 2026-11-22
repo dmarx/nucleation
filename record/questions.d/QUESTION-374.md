@@ -107,3 +107,35 @@ No status changes.
 ## Note of 2026-11-07: a shared budget for agreement, from the second synthesis review
 
 The second synthesis review found the integration this question asks for already held by [CLAIM-592](../claims.d/CLAIM-592.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-572](../claims.d/CLAIM-572.md) and [CLAIM-594](../claims.d/CLAIM-594.md), and added one corollary, noted on [CLAIM-572](../claims.d/CLAIM-572.md): on [CASE-206](../cases.d/CASE-206.md)'s vertex, a non-trivial agreement between the observer's and the system's partitions needs a shared budget of 4.125, more than the cheapest readiness (1.866) and more than full observation (4). Whether the module of the meet O_o ∧ A_a, monotone in opposite senses in the two budgets, decomposes into intervals is a further question the review did not settle.
+
+## Note of 2026-11-22: dual control and value of information read, for [LEAD-145](../leads.d/LEAD-145.md)
+
+[LEAD-145](../leads.d/LEAD-145.md) registered and read standard treatments of the two bodies named
+in the curation entry of 2026-11-05 as unregistered: dual control
+([LIT-tmpbta8p](../literature.d/LIT-tmpbta8p.md), Meijer and Rantzer, 2026, in
+[NOTE-tmpk22nd](../notes.d/NOTE-tmpk22nd.md)) and the value of information
+([LIT-tmpkun97](../literature.d/LIT-tmpkun97.md), Whitmeyer, 2024, in [NOTE-tmp16xnt](../notes.d/NOTE-tmp16xnt.md)).
+Both bear on the question's third part, where observing and acting draw on
+one resource.
+
+- **Dual control is the limiting case the shared-budget trade points
+  toward.** There observing and acting are not two draws on one budget but
+  the *same* action: a control action both regulates and informs
+  (Feldbaum's dual effect; Bar-Shalom and Tse, 1974). So it is the extreme
+  of the question's last part — the budgets are fused, not merely
+  bounded — and the converse of the separable case
+  [CLAIM-572](../claims.d/CLAIM-572.md) treats. The review's lesson that the optimal policy can
+  itself destroy the identifiability it needs (forcing exploration away
+  from optimality) is a mechanism for why spending performance to learn is
+  sometimes unavoidable.
+- **The value of information gives the observing side a structure.**
+  Whitmeyer shows the value of information is concave in its amount under
+  efficient acquisition but generically nonconcave when the experiments are
+  fixed or chosen badly. This is a candidate structural fact for the trade
+  the question poses: the shape of the observe/act frontier depends on
+  whether the observer can choose the most informative probe of each
+  amount, or is committed to a schedule.
+
+The structure of the whole two-budget family remains open; these readings
+register the literature the question's third part leans on. No status
+changes.

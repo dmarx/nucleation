@@ -44,7 +44,8 @@ summary: >-
   function from the dynamics and tells it from mere contribution to
   persistence, and an account of what a standard needs beyond it.
 ---
-<!-- inactive-ok-file: LIT-2444 — Deferred; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: THEORY-tmpdrt3r CLAIM-tmp8g26d CLAIM-tmprcgr5 CLAIM-tmpn4gbs ARG-tmpxsh8r — Proposed; Leffler's reading and the three readings of the test, filed for LEAD-158 -->
+<!-- inactive-ok-file: THEORY-220 THEORY-071 THEORY-628 CLAIM-648 — Proposed; the record's route to self-generated norms -->
 
 <!-- inactive-ok-file: QUESTION-007 — Deferred; set aside with the authenticity line, and cited to say where the cross-agent half went -->
 
@@ -139,7 +140,7 @@ derivation." The relational form of the judgments at every rung is
 ## Note of 2026-11-12: the designer's norm in the alarm cases, from "Meaning Transmission Explained"
 
 <!-- inactive-ok-block: CASE-243 CASE-240 CLAIM-649 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-block: THEORY-220 THEORY-628 THEORY-217 — Proposed; readings cited with their standing -->
+<!-- inactive-ok-block: THEORY-217 — Proposed; readings cited with their standing -->
 The owner's smoke detector ([CASE-243](../cases.d/CASE-243.md)) and debugging test
 ([CASE-240](../cases.d/CASE-240.md)), from the exchange "Meaning Transmission Explained" (https://chatgpt.com/share/6af517f7-cb48-83ea-8395-df7d52333dc7, 2026-11-07), are the
 plainest cases on the record of a norm of function and failure that is
@@ -227,6 +228,36 @@ survey of teleological theories of content ([THEORY-tmpuzicj](../theory.d/THEORY
   bear on the same test.
 
 Neither text bears on the practical or moral rungs. The question stays
+Open.
+
+## Note of 2026-11-22: Leffler, read, as the adversarial test
+
+Leffler's "Constitutivism's plight" ([LIT-2444](../literature.d/LIT-2444.md)) is read ([NOTE-tmp4a8iu](../notes.d/NOTE-tmp4a8iu.md);
+[THEORY-tmpdrt3r](../theory.d/THEORY-tmpdrt3r.md), which now `bears_on` this question). It is the test the
+note of 2026-11-12 flagged. Leffler shows that the one inescapability
+argument that explains why constitutive norms have force, Korsgaard's
+"plight" as he reconstructs it, makes that force relative to the
+constitution: "agents with different constitutions have different norms
+applying to them as forceful" (p. 20).
+
+The record's first two rungs take norms from an organization's own
+self-maintenance ([THEORY-220](../theory.d/THEORY-220.md), [THEORY-071](../theory.d/THEORY-071.md), [THEORY-628](../theory.d/THEORY-628.md), [CLAIM-648](../claims.d/CLAIM-648.md)), which is
+constitutivism in Leffler's broad sense; [ARG-tmpxsh8r](../arguments.d/ARG-tmpxsh8r.md) carries his
+argument to organizations. What that does to this question admits three
+readings, filed as alternatives for the owner:
+
+- **(a) [CLAIM-tmp8g26d](../claims.d/CLAIM-tmp8g26d.md)**: the objection "what would count" asks for. The
+  dynamics offer only a constitutive route to force, and it ends in
+  constrained relativism, so this question's "showing that it cannot have
+  it without a premise from outside the dynamics" is had for that route.
+- **(b) [CLAIM-tmprcgr5](../claims.d/CLAIM-tmprcgr5.md)**: it narrows [CLAIM-363](../claims.d/CLAIM-363.md) to the truth of verdicts,
+  leaving the force of an organization's own standard relative.
+- **(c) [CLAIM-tmpn4gbs](../claims.d/CLAIM-tmpn4gbs.md)**: the record never explains force by
+  constitution ([CLAIM-075](../claims.d/CLAIM-075.md); A16's separation of self-generated normativity
+  from legitimacy), so the test closes a route the record did not take.
+
+The readings agree that the organizational rungs give no authority beyond
+the organization; they differ on whether that is news. The question stays
 Open.
 
 ## Note of 2026-11-22: the forager run, [LEAD-177](../leads.d/LEAD-177.md)

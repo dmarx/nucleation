@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmph28l6
 status: Proposed
 title: 'The cost of imposing a decision and the cost of questioning, suspending or reversing it are separate, so an institution can lower the first while the second stays the same or rises, gaining power over those its decisions affect with no change in its formal authority: friction moves from the exercise of power to its contestation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -12,6 +12,10 @@ history:
     Citron (2008) read; automation lowers the cost of deciding while
     challenge comes to need costly decoding of the system, which
     corroborates the claim.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    A dated note added: Frischmann and Benesch (LIT-tmpjbd64) registered and read on 2026-11-22 for LEAD-152, NOTE-tmpyjyrt. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -137,3 +141,7 @@ just distribution of friction.**"
 <!-- inactive-ok-file: THEORY-1947 — new theory of 2026-11-18, Proposed -->
 
 Citron 2008, read ([NOTE-2003](../notes.d/NOTE-2003.md), [THEORY-1947](../theory.d/THEORY-1947.md)): it corroborates the claim independently ([THEORY-1947](../theory.d/THEORY-1947.md) carries `corroborates`). Automated systems make deciding cheap while challenging a decision comes to need "the high fixed cost of deciphering a computer system's logic" (abstract), and the procedural calculus undervalues the challenge: "any Mathews analysis that focuses on a single adjudication will capture all of the costs of improved process but only a tiny fraction of its benefits" (p. 1285). Review is weakened too: "encoded policy tends to receive even more powerful deference than that provided under Chevron" (p. 1299). US administrative law, 2008 rules engines. No status changes.
+
+## Note of 2026-11-22: Frischmann and Benesch, read
+
+A parallel in consumer design, not evidence ([LIT-tmpjbd64](../literature.d/LIT-tmpjbd64.md), [NOTE-tmpyjyrt](../notes.d/NOTE-tmpyjyrt.md)). Frischmann and Benesch describe friction placed only on the path away from what a company wants: the iPhone location setting is "A slippery slide in one direction and a steep climb in the other" (p. 410, quoting Frischmann 2021), and "Friction-in-design can be used strategically to fatigue consumers and raise impediments to behaviors that challenge business models" (p. 412). That is this claim's asymmetry, cheap to impose and costly to undo, in an interface rather than in an institution's decisions. Relation: none (an analogy). No status changes.
