@@ -37,8 +37,17 @@ question (perspective vs common-cause coactivity); TERM-072's defeater
 - Criterion written and committed before any simulation (TERM-tmpsu4df,
   TERM-tmpo4pxh, README pre-registration).
 
+- model.py, study.py, summarize.py, test_model.py (6 tests pass).
+- Pre-registered run, 20 seeds x 5 arms: results.jsonl, summary.txt.
+  Verdict: C1 passes everywhere; C2 fails everywhere (spillover to U at
+  most 0.019 < 0.05, though recovery beats the independent arm in all
+  three interacting arms); evidential sigma = 0.025 [0.017, 0.033] > 0 but
+  < 0.05; conform passes the restorative C3 (rho = 0.024), so by the rule
+  stated in advance the restorative reading fails A4's test. CA: vote
+  0.63, none 0.01 in every arm.
+
 ## Next
 
-- Code model.py, measures, tests; smoke run; full run (results.jsonl).
+- Post-hoc diagnostics, labelled as such (why spillover is small).
 - File CASE (executed-study), CLAIM if warranted, notes on CASE-145,
   CLAIM-418, QUESTION-260, LEAD-087; changelog fragment.
