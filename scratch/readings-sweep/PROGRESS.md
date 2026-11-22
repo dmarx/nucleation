@@ -10,7 +10,8 @@ LIT-2373, LIT-2363 (sweep-b), 2026-11-22.
 - Dated notes (LIT-1983, neighbour): QUESTION-369, LEAD-127, NOTE-440, NOTE-1502, THEORY-052, NOTE-1530, NOTE-1515.
 - LIT-1980: stays Unfetched; status note, history v3, stand-in paragraph, dated note.
 - LIT-1138: NOTE-tmpu5yr1, THEORY-tmpbo3a8, LIT to Active (v3), pagination corrected; dated notes on CASE-104, QUESTION-119, NOTE-1253, NOTE-566, NOTE-1262, NOTE-1278, NOTE-1315.
+- LIT-1874: NOTE-tmpf00ch, THEORY-tmpyc2wm, LIT to Active (v2); dated notes on CLAIM-271, THEORY-131, THEORY-139, LIT-1429, LIT-1432, LEAD-092, QUESTION-265, CLAIM-431, CLAIM-432, NOTE-1094, QUESTION-049, THEORY-137.
 
 ## Next
-- LIT-1874, LIT-2373, LIT-2363.
+- LIT-2373, LIT-2363.
 - Curation entry, changelog fragment.

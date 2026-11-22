@@ -62,3 +62,15 @@ The note above says [THEORY-139](../theory.d/THEORY-139.md) carries an `answered
 tracking side. [THEORY-139](../theory.d/THEORY-139.md)'s edge to this question is `bears_on`: it states
 Pettit's side of the tension, and no case on the record yet meets the
 test "What would count as an answer" sets. The question is Open.
+
+## Note of 2026-11-22: Mulgan, read
+
+A **weaker bearing**, no edge (LIT-1874, NOTE-tmpf00ch). Mulgan separates
+realist, pragmatist and interpretivist methods for corporate agency and two
+senses of "recognise", acknowledging an agent and deciding to treat a group
+as one (p. 907). He reads List and Pettit's moral condition as pragmatist,
+restricting moral agency to reliable groups because that serves human
+interests (pp. 906–907): on this question's terms, an attribution chosen
+for what it does to corporations. He notes that corporate groups can lay
+their workings open "if they have sufficient incentive" (footnote 11). It
+gives no case of either kind the question asks for.

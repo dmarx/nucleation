@@ -141,3 +141,14 @@ state it lacked then built the structure that made the attribution true,
 beyond what the penalty alone explains. It could be narrowed to what
 Tollefsen argues, keeping the wide form as a Proposed THEORY under
 [ADR-047](../decisions.d/ADR-047.md)'s kind 1, if a claim comes to need only that.
+
+## Note of 2026-11-22: Mulgan, read
+
+A **parallel**, no edge (LIT-1874, NOTE-tmpf00ch). Mulgan's pragmatist
+method, on which recognising a corporate group as a moral agent is decided
+by what the recognition does (pp. 906–907), and his requirement that a new
+corporate group "must first demonstrate that it will be morally reliable"
+(p. 910), are a normative version of this account's regulative
+attribution: recognition held back until the institution builds what
+earns it. He offers it as a proposal for future practice, not as a
+description of how attributions now work.

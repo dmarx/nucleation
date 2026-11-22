@@ -41,6 +41,7 @@ summary: >-
 answers:
 - QUESTION-009
 ---
+<!-- inactive-ok-file: THEORY-tmpyc2wm — Proposed; the reading of Mulgan, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit's account, named for comparison -->
 
 # THEORY-131: A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
@@ -124,3 +125,17 @@ meet the promote_when's first half. There conduct persisted through some
 own rules, so on French's criterion it was not a corporate intentional
 act. The classic objection, Velasquez's ([LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](../literature.d/LIT-1432.md)), is
 registered and unread, so it is unanswered.
+
+## Note of 2026-11-22: Mulgan, read
+
+LIT-1874 (NOTE-tmpf00ch) **bears on this account's moral-personhood half,
+and does not meet the promote_when**. Mulgan counts French 1979 among those
+who "explicitly distance themselves from full moral personhood in my sense"
+(p. 904), with French 1984 as a possible exception (footnote 5). Mulgan's
+"moral person" is stipulated more strongly than French's (the status of a
+human being, with analogous rights, p. 903), so on Mulgan's taxonomy the
+conclusion this title states would be moral agency, a moderate
+collectivism. The two uses of "moral person" differ, and the title's
+"full-fledged moral person" is French's. On Velasquez's objection, Mulgan
+reports his premises, not his argument, so it stays unanswered. The status
+is unchanged.
