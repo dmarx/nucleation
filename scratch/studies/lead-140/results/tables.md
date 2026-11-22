@@ -70,3 +70,52 @@ Paired contrasts on the held-out score (mean difference; lineages better / worse
 | external | +0.0122; 7/1; 0.0234 | +0.0000; 0/0; 1 | +0.0154; 7/1; 0.0156 | -0.0015; 9/3; 0.064 | +0.0018; 4/4; 0.547 |
 | layered | +0.0167; 9/2; 0.00684 | +0.0000; 0/0; 1 | +0.0131; 8/3; 0.0244 | +0.0327; 12/0; 0.000488 | -0.0004; 4/6; 1 |
 
+## Phase 3: damage to the improver's diagnostic machinery
+
+The later improver applied to the lineage's evolved artifact for 10 generations with its suite lesioned from the start: generate (damage and out-of-family cases silently replaced by ordinary ones), admit (failed damage and out-of-family episodes dropped from the score), score (a bonus to the incumbent), obsolete (the successor inherits the starting settings and an empty record); _nocanary removes the suite's self-test. Means over lineages.
+
+| arm | damage | flagged | flagged at gen 0 | held-out | public | damage /72 | oof /24 | self-check off |
+|---|---|---|---|---|---|---|---|---|
+| none | sham | 0/12 | 0 | -0.067 | -0.058 | 72.0 | 19.4 | 0 |
+| none | generate | 12/12 | 12 | -0.071 | -0.064 | 71.8 | 20.2 | 0 |
+| none | admit | 12/12 | 12 | -0.071 | -0.064 | 71.8 | 20.2 | 0 |
+| none | score | 0/12 | 0 | -0.069 | -0.062 | 71.8 | 20.4 | 0 |
+| none | obsolete | 0/12 | 0 | -0.067 | -0.058 | 72.0 | 19.4 | 0 |
+| none | generate_nocanary | 0/12 | 0 | -0.351 | -0.053 | 12.0 | 19.2 | 10 |
+| none | admit_nocanary | 0/12 | 0 | -0.325 | -0.056 | 17.8 | 17.6 | 9 |
+| archive | sham | 0/12 | 0 | -0.073 | -0.065 | 71.5 | 19.2 | 0 |
+| archive | generate | 12/12 | 12 | -0.077 | -0.071 | 71.5 | 20.0 | 0 |
+| archive | admit | 12/12 | 12 | -0.077 | -0.071 | 71.5 | 20.0 | 0 |
+| archive | score | 0/12 | 0 | -0.074 | -0.068 | 71.5 | 19.6 | 0 |
+| archive | obsolete | 0/12 | 0 | -0.068 | -0.062 | 72.0 | 20.3 | 0 |
+| archive | generate_nocanary | 0/12 | 0 | -0.074 | -0.066 | 71.5 | 18.5 | 0 |
+| archive | admit_nocanary | 0/12 | 0 | -0.074 | -0.066 | 71.5 | 18.5 | 0 |
+| public | sham | 0/12 | 0 | -0.128 | -0.065 | 60.0 | 21.6 | 2 |
+| public | generate | 7/12 | 7 | -0.163 | -0.067 | 54.0 | 20.0 | 3 |
+| public | admit | 7/12 | 7 | -0.163 | -0.067 | 54.0 | 20.0 | 3 |
+| public | score | 0/12 | 0 | -0.100 | -0.065 | 66.0 | 20.8 | 1 |
+| public | obsolete | 0/12 | 0 | -0.068 | -0.062 | 72.0 | 20.2 | 0 |
+| public | generate_nocanary | 0/12 | 0 | -0.158 | -0.062 | 54.0 | 19.9 | 3 |
+| public | admit_nocanary | 0/12 | 0 | -0.187 | -0.062 | 48.0 | 19.9 | 4 |
+| own | sham | 0/12 | 0 | -0.102 | -0.066 | 65.8 | 20.7 | 1 |
+| own | generate | 6/12 | 6 | -0.135 | -0.067 | 60.0 | 19.8 | 2 |
+| own | admit | 6/12 | 6 | -0.134 | -0.067 | 60.0 | 19.8 | 2 |
+| own | score | 0/12 | 0 | -0.103 | -0.066 | 65.8 | 20.1 | 1 |
+| own | obsolete | 0/12 | 0 | -0.068 | -0.062 | 72.0 | 20.1 | 0 |
+| own | generate_nocanary | 0/12 | 0 | -0.158 | -0.062 | 54.0 | 19.8 | 3 |
+| own | admit_nocanary | 0/12 | 0 | -0.129 | -0.062 | 60.0 | 19.8 | 2 |
+| external | sham | 0/12 | 0 | -0.098 | -0.066 | 66.0 | 20.4 | 1 |
+| external | generate | 8/12 | 8 | -0.155 | -0.064 | 54.0 | 19.8 | 3 |
+| external | admit | 9/12 | 8 | -0.126 | -0.064 | 60.0 | 19.8 | 2 |
+| external | score | 0/12 | 0 | -0.098 | -0.065 | 66.0 | 21.5 | 1 |
+| external | obsolete | 0/12 | 0 | -0.069 | -0.060 | 71.8 | 19.6 | 0 |
+| external | generate_nocanary | 0/12 | 0 | -0.237 | -0.060 | 36.0 | 19.5 | 6 |
+| external | admit_nocanary | 0/12 | 0 | -0.237 | -0.060 | 36.0 | 19.4 | 6 |
+| layered | sham | 0/12 | 0 | -0.075 | -0.067 | 71.2 | 19.1 | 0 |
+| layered | generate | 10/12 | 10 | -0.071 | -0.064 | 72.0 | 20.2 | 0 |
+| layered | admit | 10/12 | 10 | -0.071 | -0.064 | 72.0 | 20.2 | 0 |
+| layered | score | 0/12 | 0 | -0.070 | -0.066 | 72.0 | 21.8 | 0 |
+| layered | obsolete | 0/12 | 0 | -0.067 | -0.059 | 72.0 | 19.7 | 0 |
+| layered | generate_nocanary | 0/12 | 0 | -0.068 | -0.061 | 71.8 | 19.4 | 0 |
+| layered | admit_nocanary | 0/12 | 0 | -0.072 | -0.062 | 71.2 | 17.9 | 0 |
+
