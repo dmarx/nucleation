@@ -21,9 +21,16 @@
 - Computation: `oa_invariance.py` shows the OA family is invariant for
   first-harmonic coupling only (defect 1e-16 vs 0.1 with a second harmonic).
 
+- Filed OA (commit 6b4e6d198): LIT-2248 Active (v2); LIT-tmpd7koy (supplement,
+  Active); NOTE-tmpd7trg, NOTE-tmp5oph4 (Read); THEORY-tmpmvcnr,
+  THEORY-tmp0d58z; CLAIM-tmpo6ehq (demonstrated); verdict alternatives
+  CLAIM-tmpa694z (leaned to) and CLAIM-tmpervl4; ARG-tmp5xhiv.
+- Dated notes (commit 9e4bbb037) on CLAIM-478, CLAIM-388, CLAIM-394,
+  CLAIM-157, CLAIM-481, CLAIM-626, CLAIM-405, QUESTION-218, -252, -281, -391.
+  Removed LIT-2248 from LEAD-094's excuse and from curation 2026/11/07/015133.
+
 ## Next
 
-- File OA 2008 and 2009: LITs, NOTEs, THEORYs; verdict claims (alternatives).
 - Then the rest in order: LIT-2241, LIT-2254, LIT-2244, LIT-2257, LIT-2268,
   LIT-2231, LIT-2252, LIT-2266; try lawful copies for LIT-2255, LIT-1638,
   LIT-1642.
