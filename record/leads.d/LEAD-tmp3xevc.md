@@ -16,7 +16,7 @@ line:
 advances:
 - CLAIM-tmpnookt
 summary: >-
-  Filed beside CLAIM-tmpnookt under the dialectic regime, 2026-11-22. That claim
+  Filed beside [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) under the dialectic regime, 2026-11-22. That claim
   relates specification to type theory from the assistant's knowledge; no
   source is held. Candidates: Kolmogorov 1932 on the logic of problems;
   Kleene 1945 on realizability; Martin-Löf 1984, Intuitionistic Type
@@ -47,5 +47,5 @@ Register and read, under the read-and-file skill:
 
 ## What would count
 
-Each correspondence in CLAIM-tmpnookt confirmed, narrowed or refuted against its
+Each correspondence in [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) confirmed, narrowed or refuted against its
 source, with the claim revised or defeated accordingly.

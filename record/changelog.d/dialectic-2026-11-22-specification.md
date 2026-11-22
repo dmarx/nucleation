@@ -5,8 +5,8 @@
   [CLAIM-tmp5rv9x](record/claims.d/CLAIM-tmp5rv9x.md) (interpretive): inquiry and engineering differ by the
   direction of fit of their predicates, not in kind. Filed under the
   dialectic regime.
-- TERM-tmp94y6v (specification) and TERM-tmp8b1yl (direction of fit), Proposed, at the owner's
+- [TERM-tmp94y6v](record/terms.d/TERM-tmp94y6v.md) (specification) and [TERM-tmp8b1yl](record/terms.d/TERM-tmp8b1yl.md) (direction of fit), Proposed, at the owner's
   question whether a term would help.
-- CLAIM-tmpnookt (interpretive): specification is model-theoretic in the record and
-  proof-relevant in type theory, with the correspondences stated; LEAD-tmp3xevc
+- [CLAIM-tmpnookt](record/claims.d/CLAIM-tmpnookt.md) (interpretive): specification is model-theoretic in the record and
+  proof-relevant in type theory, with the correspondences stated; [LEAD-tmp3xevc](record/leads.d/LEAD-tmp3xevc.md)
   to read the sources.
