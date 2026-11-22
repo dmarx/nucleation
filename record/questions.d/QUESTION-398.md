@@ -149,3 +149,15 @@ No status changes.
 - **A withdrawal rule in use.** Cognitive tutors move a learner on once the estimated probability that a skill is learned passes 0.95, and post-tests without the tutor check persistence (Koedinger and Aleven, [NOTE-1708](../notes.d/NOTE-1708.md)).
 
 No status changes.
+
+## Note of 2026-11-22: the measure computed in a model
+<!-- inactive-ok-file: CASE-tmplsvee CLAIM-tmp5hyz1 — new; the executed study and claim of LEAD-095, filed 2026-11-22 -->
+
+Carrying out [LEAD-095](../leads.d/LEAD-095.md), the assistant computed D(s) exactly in a small assembly chain in which a scaffold forms and holds a nucleus and is withdrawn for good at chosen states ([CASE-tmplsvee](../cases.d/CASE-tmplsvee.md)).
+
+- **A's expectation met, in one mechanism.** Where bound units stabilize the nucleus and it speeds their binding, D falls below 0.05 a quarter of the way through, with the chance of completing after withdrawal already 0.88.
+- **Not met in others.** Where they do not stabilize it, D stays at 0.10 or more to the last unit. Where the nucleus is only a needed part, D can rise with progress.
+- **The rival.** Withdrawal at a clock time shows D falling to zero in every mechanism, because runs finish. Withdrawing at unfinished states excludes "the system merely completed before withdrawal".
+- **An answer in such models** ([CLAIM-tmp5hyz1](../claims.d/CLAIM-tmp5hyz1.md)). D(s) is the expected integral, along the supported path, of the support's rate changes times the unsupported committor's differences across them. For a held nucleus that is its fragility times its worth. So the organization becomes independent of the support before completion only where what it has built holds the nucleus or no longer needs it.
+
+No status changes.

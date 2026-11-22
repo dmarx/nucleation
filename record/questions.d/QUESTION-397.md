@@ -130,3 +130,15 @@ later dynamics, not a more advanced start. Zhang, Lepori and Pavlick
 ([THEORY-2087](../theory.d/THEORY-2087.md)) separate a reusable component from a random subset that
 helps only as a better initialization. Analogies to this question's
 assembly setting.
+
+## Note of 2026-11-22: the two effects switched on separately in a model
+<!-- inactive-ok-file: CASE-tmplsvee — new; the executed study of LEAD-095, filed 2026-11-22 -->
+
+[LEAD-095](../leads.d/LEAD-095.md)'s chain ([CASE-tmplsvee](../cases.d/CASE-tmplsvee.md)) has the nucleus's state effect (the target needs it) and its rate effect (it triples the binding of the other units) as separate switches.
+
+- **Both raise the committor at matched progress.** Near completion they are close, 0.184 for the state effect alone against 0.196 for both, while Δk is 0 against 2.
+- **The interaction contrast is near zero.**
+- **Only the downstream binding rate tells them apart.** This is [CLAIM-596](../claims.d/CLAIM-596.md)'s point at matched intermediate states rather than in yields.
+- **The profile of A's withdrawal measure D(s) across states does not reliably tell them apart either.** In a random sweep it fell in 83 % of parameter sets with the rate effect, and with the state effect alone it rose in 42 % and fell in 9 %.
+
+A model with invented rates. No status changes.

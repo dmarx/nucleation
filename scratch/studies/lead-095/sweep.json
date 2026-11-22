@@ -1,0 +1,26 @@
+{
+ "n_draws": 2000,
+ "seed": 20261122,
+ "share": {
+  "neither": {
+   "rising": 0.4175,
+   "falling": 0.092,
+   "ends_lower": 0.3685
+  },
+  "rate only": {
+   "rising": 0.007,
+   "falling": 0.8275,
+   "ends_lower": 0.966
+  },
+  "feedback only": {
+   "rising": 0.0595,
+   "falling": 0.5445,
+   "ends_lower": 0.827
+  },
+  "feedback+rate": {
+   "rising": 0.0,
+   "falling": 0.9825,
+   "ends_lower": 0.999
+  }
+ }
+}
