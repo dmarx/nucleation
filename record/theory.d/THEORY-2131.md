@@ -57,11 +57,11 @@ Neither work draws the connection. The account is unchanged.
 
 ## Note of 2026-11-22: Beck and Cohen, read
 
-Beck and Cohen (LIT-2962, read in NOTE-tmpj8ro5; THEORY-tmpczldx)
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](THEORY-tmpczldx.md))
 **corroborate the mathematics**: the same integral, "the Laplace transform
 of the probability density f(β)" (p. 3), with the same gamma and uniform
 results, derived independently in physics for a fluctuating inverse
 temperature. They say nothing of discounting, so this account's
 `promote_when`, which asks for Sozou, is not met. The assistant's
-CLAIM-tmpf9qt9 adds the general condition: the asymptotic hyperbola needs
+[CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md) adds the general condition: the asymptotic hyperbola needs
 only a positive density at zero hazard. The account is unchanged.

@@ -36,7 +36,7 @@ Registered on 2026-11-22 while filing Newman's review, as a gap the filing found
 
 **A parallel.** Gabaix's mechanism, Gibrat growth with a lower reflecting
 barrier, is of the max form X = AX ∨ B, for which Goldie's Theorem 5.2,
-as Kevei restates it (LIT-tmpk12vu, NOTE-tmpv02cb, THEORY-tmpsmrhx, p. 4),
+as Kevei restates it ([LIT-tmpk12vu](LIT-tmpk12vu.md), [NOTE-tmpv02cb](../notes.d/NOTE-tmpv02cb.md), [THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md), p. 4),
 gives P{X > x} ∼ c x^(−κ) with κ solving EA^κ = 1. Zipf's exponent 1
 would then be the case κ = 1, E[A] = 1. Kevei does not cite Gabaix; the
 link is the filer's. This work stays Deferred.

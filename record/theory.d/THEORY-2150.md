@@ -102,16 +102,16 @@ as the power law for 88% of degree distributions. No edge.
 
 ## Note of 2026-11-22: Reed and Hughes; Corominas-Murtra, Hanel and Thurner, read
 
-- **Reed and Hughes** (LIT-3007, read in NOTE-tmpbic9d; THEORY-tmphwf0q),
+- **Reed and Hughes** ([LIT-3007](../literature.d/LIT-3007.md), read in [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](THEORY-tmphwf0q.md)),
   the source §7 reports, **corroborate** the account's double Pareto: their
   eq. 9 at zero log drift (μ = ½σ²) gives exponents ±√(2ν)/σ, §7's √(2λ) with
   unit variance. Reed and Hughes cite Mitzenmacher for the lognormal file
   size model. This account's `promote_when` asks for a second reading of
   Mitzenmacher's own text, so it is not met.
-- **Corominas-Murtra, Hanel and Thurner** (LIT-2997, read in
-  NOTE-tmpyqqhq; THEORY-tmpcfn5g): a **parallel**, with no edge. Their
+- **Corominas-Murtra, Hanel and Thurner** ([LIT-2997](../literature.d/LIT-2997.md), read in
+  [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md); [THEORY-tmpcfn5g](THEORY-tmpcfn5g.md)): a **parallel**, with no edge. Their
   noisy sample-space reduction has frequency survival exponent 1/λ, λ the
   share of nested steps; §3's attachment with a uniform share α has
   survival exponent 1/(1 − α). In both a mix of a structured and a uniform
-  choice sets the exponent, by the same formula (QUESTION-505's note of
+  choice sets the exponent, by the same formula ([QUESTION-505](../questions.d/QUESTION-505.md)'s note of
   this date). They cite this work for "other mechanisms".

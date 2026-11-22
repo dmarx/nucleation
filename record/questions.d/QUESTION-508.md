@@ -87,10 +87,10 @@ direction left to tune.
   kind; ordinary negative feedback gives a finite relaxation time instead.
   These conditions are the later framing of self-organized criticality
   (A24 §4's), not the founding letter's: Bak, Tang and Wiesenfeld
-  (LIT-2992) state none of slow drive, time-scale separation or
+  ([LIT-2992](../literature.d/LIT-2992.md)) state none of slow drive, time-scale separation or
   conservation as a condition (see the next item).
 - **Relaxation that stops at marginal stability** (Bak, Tang and
-  Wiesenfeld, LIT-2992, p. 382; THEORY-tmpehudh). A pile relaxed from a
+  Wiesenfeld, [LIT-2992](../literature.d/LIT-2992.md), p. 382; [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)). A pile relaxed from a
   strongly unstable start stops at the first stable state, and "The
   system will become stable precisely at the point when the network of
   minimally stable states has been broken down to the level where the
@@ -125,15 +125,15 @@ critical point) narrows the question and is filed as a claim that
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
-Bak, Tang and Wiesenfeld (LIT-2992, read in full in NOTE-tmpnl00y; the
-reading is THEORY-tmpehudh) **give one partial answer and leave the
+Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read in full in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the
+reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) **give one partial answer and leave the
 general question open.** Their answer, now listed above, is a
 stopping-at-marginal-stability argument by analogy with percolation, not
 A24 §4's feedback balance, and it adds a condition the list lacked,
 d ≥ 2. Their protocol is relaxation from z ≫ K, then probing with local
 perturbations; the slow-drive, time-scale and conservation conditions
 the question attributes to SOC come from later work. The record's
-reproduction of the sandpile under slow drive (CLAIM-tmpfwwrf) shows a
+reproduction of the sandpile under slow drive ([CLAIM-tmpfwwrf](../claims.d/CLAIM-tmpfwwrf.md)) shows a
 cutoff growing with lattice size and nothing tuned, which is the
-phenomenon the question asks about, not its explanation. THEORY-tmpehudh
+phenomenon the question asks about, not its explanation. [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)
 `bears_on` this question. Version 2.

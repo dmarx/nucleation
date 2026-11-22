@@ -129,7 +129,7 @@ code is in [CASE-303](../cases.d/CASE-303.md).
 
 ## Note of 2026-11-22: Beck and Cohen, read
 
-Beck and Cohen (LIT-2962, read in NOTE-tmpj8ro5; THEORY-tmpczldx)
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md))
 **support this reading's contrast with a mixture**, a parallel with no
 edge. "A fixed mixture has no such parameter": in superstatistics the only
 knob is the variance of the fluctuating parameter (q), which fattens the

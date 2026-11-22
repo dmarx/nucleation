@@ -15,8 +15,8 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Whether Barabási and Albert (LIT-3004, NOTE-tmpwgw8e) and the chapter
-  (LIT-2968, NOTE-tmpnpqc8) carry CLAIM-830. They carry its premise, the
+  Whether Barabási and Albert ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md)) and the chapter
+  ([LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)) carry [CLAIM-830](../claims.d/CLAIM-830.md). They carry its premise, the
   arrival-time derivation at equal intervals, and its age reading: "hubs
   are large because they arrived earlier", with γ = 1/β + 1, so the
   survival exponent 1/β = 2 is the claim's λ/g. Neither casts the process
@@ -33,7 +33,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-830. Grounds: THEORY-tmpfrz0k (the premise) and THEORY-tmpzmy66
+[CLAIM-830](../claims.d/CLAIM-830.md). Grounds: [THEORY-tmpfrz0k](../theory.d/THEORY-tmpfrz0k.md) (the premise) and [THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md)
 (the age reading and the caveat).
 
 ## Critical questions (source)
@@ -73,6 +73,6 @@ defeat it:
 
 ## Verdict
 
-Support for the premise and the age half; THEORY-tmpfrz0k replaces
-LIT-3004 in the grounds, and THEORY-tmpzmy66 corroborates. Model B
-qualifies the Pólya-urn contrast, corrected in place on CLAIM-830.
+Support for the premise and the age half; [THEORY-tmpfrz0k](../theory.d/THEORY-tmpfrz0k.md) replaces
+[LIT-3004](../literature.d/LIT-3004.md) in the grounds, and [THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md) corroborates. Model B
+qualifies the Pólya-urn contrast, corrected in place on [CLAIM-830](../claims.d/CLAIM-830.md).

@@ -163,7 +163,7 @@ is in `draws_on` as the usage this sense is set against.
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
 **An instance of two senses at once.** Bak, Tang and Wiesenfeld
-(LIT-2992, NOTE-tmpnl00y, THEORY-tmpehudh) report the sandpile as
+([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md), [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) report the sandpile as
 scale-free in sense 1, a cluster-size distribution D(s) ~ s^(−τ), and in
 sense 3, a spectrum S(ω) ≈ ω^(−1.58) in 2D (pp. 383–384), and derive the
 second from the first through the lifetime distribution, Eq. (2). So a

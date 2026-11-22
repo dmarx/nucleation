@@ -87,7 +87,7 @@ explicitly does not.
 
 **Background.** Self-organized criticality is one of the paper's
 candidate amplifiers of irruptions (§5.2.2). Its founding letter
-(LIT-2992, read in NOTE-tmpnl00y; the reading is THEORY-tmpehudh) says
+([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the reading is [THEORY-tmpehudh](THEORY-tmpehudh.md)) says
 how such a state amplifies: "A perturbation can lead to anything from a
 shift of a single pendulum to an avalanche, depending on where the
 perturbation is applied" (p. 382). The amplification is undirected,

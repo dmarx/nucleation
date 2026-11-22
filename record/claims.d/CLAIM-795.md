@@ -64,7 +64,7 @@ summary: >-
   2026-11-22, grounds items 2, 3, 6 and 7 and adds four further
   mechanisms. Beck and Cohen, Corominas-Murtra, Hanel and Thurner, and
   Reed and Hughes, read on 2026-11-22, ground items 4, 5 and 6, item 4
-  only for spreads with power-law weight at zero rate (CLAIM-tmpf9qt9).
+  only for spreads with power-law weight at zero rate ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md)).
   Bak, Tang and Wiesenfeld's reading bears on the sandpile (note of
   2026-11-22). The wording is A's (the other assistant in the exchange
   "Rich Get Richer Power Laws", A5); adopting it is the owner's call.
@@ -108,18 +108,18 @@ grounds items 2, 3, 6 and 7 only ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.
    adds superstatistics (Beck, [LIT-2962](../literature.d/LIT-2962.md)) and the warning that "If a
    dataset displays a power law, that does not necessarily mean any
    individual entity follows power-law dynamics". See the note of
-   2026-11-21 on [CLAIM-769](CLAIM-769.md). Beck and Cohen, read (THEORY-tmpczldx), give the
+   2026-11-21 on [CLAIM-769](CLAIM-769.md). Beck and Cohen, read ([THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)), give the
    formula as their eq. 13 with energy for time, (1 + bE)^(−c), the
    exponent the gamma's shape. Only some spreads give a power law: their
    uniform density bounded away from zero keeps an exponential tail, and
    the tail is a power exactly when the spread has power-law weight at
-   zero rate (CLAIM-tmpf9qt9, the assistant's; ARG-tmpa8ghr).
+   zero rate ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md), the assistant's; [ARG-tmpa8ghr](../arguments.d/ARG-tmpa8ghr.md)).
 5. **Sample-space reduction** (§5). A walk that jumps uniformly to a lower
    state until it reaches 1 visits state k with probability 1/k, Zipf's
    law (Corominas-Murtra, Hanel and Thurner, [LIT-2997](../literature.d/LIT-2997.md), unnamed by
    A). Checked over 200,000 runs from 100: 0.499, 0.199, 0.101 and 0.0201
    at k = 2, 5, 10 and 50. Their eq. 1 proves it by induction for exactly
-   this uniform process (THEORY-tmpcfn5g; ARG-tmpcx0it). The exponent is
+   this uniform process ([THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md); [ARG-tmpcx0it](../arguments.d/ARG-tmpcx0it.md)). The exponent is
    tunable: mixing each nested step with probability 1 − λ with a uniform
    jump over all states gives occupation ∝ k^(−λ), frequency exponent
    (1 + λ)/λ. Their abstract's "necessarily lead to Zipf's law" is wider
@@ -128,7 +128,7 @@ grounds items 2, 3, 6 and 7 only ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.
    exponential ages with rate λ give P(S > s) = (s/S_0)^(−λ/g) (Reed,
    [LIT-3007](../literature.d/LIT-3007.md)). Checked at λ = 1, g = 0.5: 0.0101 against 0.0100 at
    s = 10. "Even **identical growth rates** can coexist with highly
-   unequal sizes." Reed and Hughes, read (THEORY-tmphwf0q; ARG-tmpadlas):
+   unequal sizes." Reed and Hughes, read ([THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md); [ARG-tmpadlas](../arguments.d/ARG-tmpadlas.md)):
    the formula is their deterministic "simple case" (p. 1), not their
    result. With noisy growth (geometric Brownian motion of drift μ and
    volatility σ, killed at rate ν) the law is a double Pareto, its upper
@@ -237,31 +237,31 @@ Status unchanged.
 ## Change of 2026-11-22: Beck and Cohen, Corominas-Murtra, Hanel and Thurner, Reed and Hughes, read
 
 Items 4, 5 and 6 name their readings: item 4 with the condition on the
-spread (CLAIM-tmpf9qt9), item 5 with the tunable family and the limit of
+spread ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md)), item 5 with the tunable family and the limit of
 the proof, item 6 as Reed and Hughes's deterministic case with their
-double Pareto beside it. THEORY-tmpczldx, THEORY-tmpcfn5g and THEORY-tmphwf0q
-replace LIT-2962, LIT-2997 and LIT-3007 in `grounds` (ARG-tmpa8ghr,
-ARG-tmpcx0it, ARG-tmpadlas). The summary is updated. Version 3.
+double Pareto beside it. [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md), [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md) and [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)
+replace [LIT-2962](../literature.d/LIT-2962.md), [LIT-2997](../literature.d/LIT-2997.md) and [LIT-3007](../literature.d/LIT-3007.md) in `grounds` ([ARG-tmpa8ghr](../arguments.d/ARG-tmpa8ghr.md),
+[ARG-tmpcx0it](../arguments.d/ARG-tmpcx0it.md), [ARG-tmpadlas](../arguments.d/ARG-tmpadlas.md)). The summary is updated. Version 3.
 
 ## Note of 2026-11-22: Beck and Cohen; Corominas-Murtra, Hanel and Thurner; Reed and Hughes, read
 
-- **Beck and Cohen** (LIT-2962, read in NOTE-tmpj8ro5; THEORY-tmpczldx)
+- **Beck and Cohen** ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md))
   **ground item 4, with a qualification.** Their eq. 13 is the item's
   gamma formula; their uniform and two-level densities keep exponential
   tails, and the large-E behaviour "strongly depends on the function
   f(β)" (p. 7). A spread gives a power law exactly when it has power-law
   weight at zero rate, and a lognormal spread gives a tail between every
-  power and every exponential (CLAIM-tmpf9qt9, the assistant's, checked
+  power and every exponential ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md), the assistant's, checked
   by quadrature). The item's `defeated_if` names a gamma spread, so the
   thesis stands; the label "a mixture of exponential rates" reads wider
   than what holds. The caution A quotes fits: each cell is ordinary
   Boltzmann–Gibbs, and only the average departs.
-- **Corominas-Murtra, Hanel and Thurner** (LIT-2997, read in
-  NOTE-tmpyqqhq; THEORY-tmpcfn5g) **ground item 5** exactly, by their
+- **Corominas-Murtra, Hanel and Thurner** ([LIT-2997](../literature.d/LIT-2997.md), read in
+  [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md); [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md)) **ground item 5** exactly, by their
   induction proof (eq. 1), and add the family k^(−λ). "History-dependent"
   in their title means state-dependent: the walk is a Markov chain with no
   reinforcement, which is the item's "no positive feedback".
-- **Reed and Hughes** (LIT-3007, read in NOTE-tmpbic9d; THEORY-tmphwf0q)
+- **Reed and Hughes** ([LIT-3007](../literature.d/LIT-3007.md), read in [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md))
   **ground item 6** as their deterministic case, and **qualify** it: the
   exponent is a bare ratio λ/g only without noise. They also give a second
   branching route, a supercritical Galton–Watson process killed
@@ -274,17 +274,17 @@ Status unchanged.
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
-The reading of Bak, Tang and Wiesenfeld (LIT-2992, read in NOTE-tmpnl00y;
-the reading is THEORY-tmpehudh), filed in a parallel filing of this date,
+The reading of Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md);
+the reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)), filed in a parallel filing of this date,
 **supports the sandpile addition** (A3) with a
 **caution**: its chain reaction is "ever amplifying", so this claim's "no
 positive feedback" holds for the sandpile only in the rich-get-richer
 sense, that no unit's gain grows with its size; the avalanche itself
 amplifies. None of its exponents is 3/2, so it does not join item 1's or
-item 3's shared exponent (CLAIM-815): its cluster exponents are about
+item 3's shared exponent ([CLAIM-815](CLAIM-815.md)): its cluster exponents are about
 0.98 in two dimensions and 1.35 in three. The quotation was rechecked by
 this filer against that reading's download (first page, of noise spreading "to
-the neighbors in a chain reaction, ever amplifying"). LIT-2992 stays in
-`grounds`; whether THEORY-tmpehudh should replace it is left to that
+the neighbors in a chain reaction, ever amplifying"). [LIT-2992](../literature.d/LIT-2992.md) stays in
+`grounds`; whether [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md) should replace it is left to that
 filing. Status unchanged.
 

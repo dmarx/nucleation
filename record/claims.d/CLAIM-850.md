@@ -171,8 +171,8 @@ three are distinct properties; no relation is written.
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
-**Background.** Bak, Tang and Wiesenfeld (LIT-2992, NOTE-tmpnl00y,
-THEORY-tmpehudh) call their critical state one of "minimally stable"
+**Background.** Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md),
+[THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) call their critical state one of "minimally stable"
 clusters that have stopped percolating (p. 382). That is not the
 "marginal stability" of the note above, the loss of linear stability of
 one fixed point: theirs is spatially extended and is, on their account,

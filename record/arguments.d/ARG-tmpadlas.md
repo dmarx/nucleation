@@ -14,8 +14,8 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Whether Reed and Hughes (LIT-3007), read in NOTE-tmpbic9d, carry
-  CLAIM-795's item 6, a common growth rate g and exponential ages with
+  Whether Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md)), read in [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md), carry
+  [CLAIM-795](../claims.d/CLAIM-795.md)'s item 6, a common growth rate g and exponential ages with
   rate λ giving P(S > s) = (s/S_0)^(−λ/g). The formula is the paper's
   "simple case of deterministic exponential growth" (p. 1), so the item
   is supported as stated. The paper's result is wider: with geometric
@@ -31,7 +31,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-795, item 6. THEORY-tmphwf0q: the killed-process results.
+[CLAIM-795](../claims.d/CLAIM-795.md), item 6. [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md): the killed-process results.
 
 ## Critical questions (source)
 
@@ -55,6 +55,6 @@ case.
 
 ## Verdict
 
-Support for item 6. THEORY-tmphwf0q replaces LIT-3007 in CLAIM-795's
-`grounds`, beside Newman's restatement (THEORY-tmp6jdas, ARG-tmp3ppjy).
-Mitzenmacher's zero-drift double Pareto (THEORY-2150) agrees with eq. 9.
+Support for item 6. [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md) replaces [LIT-3007](../literature.d/LIT-3007.md) in [CLAIM-795](../claims.d/CLAIM-795.md)'s
+`grounds`, beside Newman's restatement ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md), [ARG-tmp3ppjy](ARG-tmp3ppjy.md)).
+Mitzenmacher's zero-drift double Pareto ([THEORY-2150](../theory.d/THEORY-2150.md)) agrees with eq. 9.

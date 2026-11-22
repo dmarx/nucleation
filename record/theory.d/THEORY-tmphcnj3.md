@@ -78,7 +78,7 @@ under its own definition, and stand or fall as a measurement under it.
 
 ## Note of 2026-11-22: Barabási and Albert, and Barabási's chapter, read
 
-**A contrast** (LIT-3004, NOTE-tmpwgw8e; LIT-2968, NOTE-tmpnpqc8). The
+**A contrast** ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md); [LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)). The
 premise this account's test qualifies is, read, Barabási and Albert's "a
 generic property of many complex networks", from four networks with
 slopes drawn by eye and no fit; the chapter keeps it as a "necessary and

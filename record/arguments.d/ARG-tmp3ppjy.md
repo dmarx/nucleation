@@ -61,9 +61,9 @@ The review has no branching process, no mixture of exponential rates (its
 "combinations of exponentials" is an exponential of an exponentially
 distributed variable, item 6's mechanism) and no sample-space reduction.
 Those rest on [CASE-303](../cases.d/CASE-303.md), [THEORY-2131](../theory.d/THEORY-2131.md) and [LIT-2962](../literature.d/LIT-2962.md), and [LIT-2997](../literature.d/LIT-2997.md);
-since 2026-11-22 the last two through their readings, THEORY-tmpczldx
+since 2026-11-22 the last two through their readings, [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)
 (item 4, only for spreads with power-law weight at zero rate;
-ARG-tmpa8ghr) and THEORY-tmpcfn5g (item 5; ARG-tmpcx0it).
+[ARG-tmpa8ghr](ARG-tmpa8ghr.md)) and [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md) (item 5; [ARG-tmpcx0it](ARG-tmpcx0it.md)).
 
 **Does the claim lean on the reading for more than it holds?** It did, in
 calling the review the general reference for all seven. Corrected in the
@@ -78,11 +78,11 @@ noise and record dynamics are additions, recorded in the claim.
 ## Change of 2026-11-22
 
 The routing of items 4 and 5 names the readings filed this day,
-THEORY-tmpczldx and THEORY-tmpcfn5g, in place of the then unread works.
+[THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md) and [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md), in place of the then unread works.
 Corominas-Murtra, Hanel and Thurner cite Newman only for the
 rank-to-frequency exponent relation, not for sample-space reduction,
 which confirms the finding on item 5. Beck and Cohen's construction is not
 Newman's "combinations of exponentials", which confirms the finding on
 item 4. Item 6, which this argument gives to Newman, is now also carried
-by Reed and Hughes's own text (ARG-tmpadlas). Version 2.
+by Reed and Hughes's own text ([ARG-tmpadlas](ARG-tmpadlas.md)). Version 2.
 

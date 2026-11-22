@@ -18,9 +18,9 @@ date: '2026-11-22'
 source:
 - LIT-3002
 summary: >-
-  Merton (1968), LIT-3002, read in a scan of the AAAS reprint in
-  NOTE-tmp4eogg. The source of the name the record's cumulative-advantage
-  claims use (CLAIM-817), and of the sense TERM-tmpeguzj keeps apart from
+  Merton (1968), [LIT-3002](../literature.d/LIT-3002.md), read in a scan of the AAAS reprint in
+  [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md). The source of the name the record's cumulative-advantage
+  claims use ([CLAIM-817](../claims.d/CLAIM-817.md)), and of the sense [TERM-tmpeguzj](../terms.d/TERM-tmpeguzj.md) keeps apart from
   the formal one. The sharp edge: the Matthew effect proper is credit for
   a given contribution allotted by rank, not growth in proportion to
   size; Merton states no proportional rule, credits the growth
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Merton (1968), "The Matthew Effect in Science", Science 159(3810), 56–63,
-LIT-3002, read in a scan of the reprint in NOTE-tmp4eogg.
+[LIT-3002](../literature.d/LIT-3002.md), read in a scan of the reprint in [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md).
 
 ## What was actually shown
 

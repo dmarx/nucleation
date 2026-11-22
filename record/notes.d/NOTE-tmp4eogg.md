@@ -47,7 +47,7 @@ Matthew effect" (with the "41st chair" and the "Ecclesiasticus
 component"), separates its effect on careers (an inequity) from its effect
 on the communication system (possibly functional), and states testable
 hypotheses: citation counts for unequal-rank multiple discoveries,
-readership by rank. The reading is THEORY-tmp7rz62.
+readership by rank. The reading is [THEORY-tmp7rz62](../theory.d/THEORY-tmp7rz62.md).
 
 ## Key results
 
@@ -85,7 +85,7 @@ Page numbers are Science's (PDF page n is p. 55 + n).
   outstanding scientist "may have greater stimulus value", and "This
   principle represents a special application of the self-fulfilling
   prophecy (42)". Note 42 cites Merton's 1948 essay in the Antioch Review
-  (LIT-1398). On p. 62 the pattern is "a self-confirming process", and
+  ([LIT-1398](../literature.d/LIT-1398.md)). On p. 62 the pattern is "a self-confirming process", and
   "Like other self-fulfilling prophecies, this one becomes dysfunctional
   under certain conditions".
 - **Dysfunction** (p. 62): "When the Matthew effect is thus transformed
@@ -117,31 +117,31 @@ cumulative advantage.
 
 ## Bearing on the record
 
-- **CLAIM-817** (background for the name; qualifies its naming clause).
+- **[CLAIM-817](../claims.d/CLAIM-817.md)** (background for the name; qualifies its naming clause).
   It supports that "Matthew effect" is Merton's name and that he ties it
   to cumulative advantage and "the rich get richer". It does not support
   that the four names "name one feedback": the Matthew effect proper is
   credit for a given contribution allotted by rank, and the essay's own
   mechanisms include a fixed number of top places and a ratchet, neither
   of which is attachment in proportion to size. It states no proportional
-  rule; the implication for growth it credits to Price. ARG-tmpaf6km.
-- **TERM-tmpeguzj** (draws on it). The senses of "Matthew effect", filed
+  rule; the implication for growth it credits to Price. [ARG-tmpaf6km](../arguments.d/ARG-tmpaf6km.md).
+- **[TERM-tmpeguzj](../terms.d/TERM-tmpeguzj.md)** (draws on it). The senses of "Matthew effect", filed
   with this reading.
-- **NOTE-tmpa7yd2**, **TERM-tmpg1vx2** (qualified the same way). Newman
+- **[NOTE-tmpa7yd2](NOTE-tmpa7yd2.md)**, **[TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md)** (qualified the same way). Newman
   lists "Matthew effect" among the names of the Yule process; that is the
   formal sense, which the essay does not state.
-- **LIT-1398**, **NOTE-1409**, **CASE-141**, **CLAIM-402** (supports, a
+- **[LIT-1398](../literature.d/LIT-1398.md)**, **[NOTE-1409](NOTE-1409.md)**, **[CASE-141](../cases.d/CASE-141.md)**, **[CLAIM-402](../claims.d/CLAIM-402.md)** (supports, a
   link the record did not draw). Merton calls the communication side of
   the Matthew effect "a special application of the self-fulfilling
   prophecy", citing the 1948 essay in note 42.
-- **LIT-1330** (parallel). Status-confirming loops in institutions, there
+- **[LIT-1330](../literature.d/LIT-1330.md)** (parallel). Status-confirming loops in institutions, there
   through rankings.
-- **CLAIM-702**, **CLAIM-707**, **THEORY-1928** (parallel and contrast).
+- **[CLAIM-702](../claims.d/CLAIM-702.md)**, **[CLAIM-707](../claims.d/CLAIM-707.md)**, **[THEORY-1928](../theory.d/THEORY-1928.md)** (parallel and contrast).
   Credit and blame allocated by position or visibility rather than
   contribution; Merton's credit-by-rank is the mirror of blame falling on
   the most visible.
-- **CLAIM-830**, **CLAIM-803**, **CLAIM-841**, **ARG-127**,
-  **SYNTHESIS-119** (background). They use "cumulative advantage" in the
+- **[CLAIM-830](../claims.d/CLAIM-830.md)**, **[CLAIM-803](../claims.d/CLAIM-803.md)**, **[CLAIM-841](../claims.d/CLAIM-841.md)**, **[ARG-127](../arguments.d/ARG-127.md)**,
+  **[SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)** (background). They use "cumulative advantage" in the
   formal sense. Merton's university example is an instance of
   concentration, not evidence on a tail.
 

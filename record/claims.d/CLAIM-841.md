@@ -181,13 +181,13 @@ distributions.
   a tuned transition.
 - That self-organized criticality is ruled out. It is a route that ends at
   a critical point without outside tuning (A24 §4; Bak, Tang and
-  Wiesenfeld, LIT-2992: "an attractor reached by starting far from
+  Wiesenfeld, [LIT-2992](../literature.d/LIT-2992.md): "an attractor reached by starting far from
   equilibrium", p. 381), and whether a given system takes it is
-  QUESTION-508. The founding letter is itself an instance of the
+  [QUESTION-508](../questions.d/QUESTION-508.md). The founding letter is itself an instance of the
   inference this claim doubts: "The fact that the curve is linear over
   two decades indicates that the system is at a critical point" (p. 383).
   The finite-size cutoff it asserts, which the record reproduces
-  (CLAIM-tmpfwwrf), is the stronger of its two kinds of evidence, though
+  ([CLAIM-tmpfwwrf](CLAIM-tmpfwwrf.md)), is the stronger of its two kinds of evidence, though
   by the list below it is one discriminating observation among several,
   not a proof.
 
@@ -231,14 +231,14 @@ It was never in `grounds`, and stays out. Status unchanged.
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
-Bak, Tang and Wiesenfeld (LIT-2992, read in full in NOTE-tmpnl00y; the
-reading is THEORY-tmpehudh) **support the "What it does not say" bullet
+Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read in full in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the
+reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) **support the "What it does not say" bullet
 on self-organized criticality**: "The critical point in the dynamical
 systems studied here is an attractor reached by starting far from
 equilibrium: The scaling properties of the attractor are insensitive to
 the parameters of the model" (p. 381), and "There are no parameters since
-a shift in K simply shifts z" (p. 382). THEORY-tmpehudh `corroborates`
-the claim (ARG-tmp1zu0m).
+a shift in K simply shifts z" (p. 382). [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md) `corroborates`
+the claim ([ARG-tmp1zu0m](../arguments.d/ARG-tmp1zu0m.md)).
 
 **A historical contrast, not a defeater**, on two counts. The letter
 infers criticality from the shape of one distribution: "The fact that the

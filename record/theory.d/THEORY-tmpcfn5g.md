@@ -23,8 +23,8 @@ source:
 bears_on:
 - QUESTION-505
 summary: >-
-  Corominas-Murtra, Hanel and Thurner (2015), LIT-2997, read in
-  NOTE-tmpyqqhq. Sample-space reduction as a route to Zipf's law, with the
+  Corominas-Murtra, Hanel and Thurner (2015), [LIT-2997](../literature.d/LIT-2997.md), read in
+  [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md). Sample-space reduction as a route to Zipf's law, with the
   exponent as the share of nested steps. Proved for uniform jumps only;
   a Markov chain with no reinforcement. Proposed until the derivation is
   checked independently.
@@ -35,7 +35,7 @@ summary: >-
 
 ## Source
 
-Corominas-Murtra, Hanel and Thurner (2015), LIT-2997, read in NOTE-tmpyqqhq
+Corominas-Murtra, Hanel and Thurner (2015), [LIT-2997](../literature.d/LIT-2997.md), read in [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md)
 from arXiv v3.
 
 ## What was actually shown
@@ -61,8 +61,8 @@ exponent (1 + λ)/λ. The reader's stationary-vector check gives slopes
 
 ## Connections
 
-Item 5 of CLAIM-795. A mix of a structured and a uniform choice sets the
+Item 5 of [CLAIM-795](../claims.d/CLAIM-795.md). A mix of a structured and a uniform choice sets the
 exponent here as in Mitzenmacher's attachment with a uniform share
-(THEORY-2150). A rival feedback-free route to Zipf in words is Miller's
-random typing (LIT-tmppzucs). The account `bears_on` QUESTION-505. It is
-not in `corroborates` on CLAIM-795: the claim's item 5 grounds on it.
+([THEORY-2150](THEORY-2150.md)). A rival feedback-free route to Zipf in words is Miller's
+random typing ([LIT-tmppzucs](../literature.d/LIT-tmppzucs.md)). The account `bears_on` [QUESTION-505](../questions.d/QUESTION-505.md). It is
+not in `corroborates` on [CLAIM-795](../claims.d/CLAIM-795.md): the claim's item 5 grounds on it.

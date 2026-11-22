@@ -18,15 +18,15 @@ bears_on:
 corroborates:
 - CLAIM-841
 summary: >-
-  Bak, Tang and Wiesenfeld (1987), LIT-2992, read in full in
-  NOTE-tmpnl00y. The founding letter of self-organized criticality: a
+  Bak, Tang and Wiesenfeld (1987), [LIT-2992](../literature.d/LIT-2992.md), read in full in
+  [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md). The founding letter of self-organized criticality: a
   critical point "reached by starting far from equilibrium", with the
   percolation-of-minimal-stability heuristic, the sandpile automaton, and
   power laws judged by eye over two decades. It states no slow-drive,
-  time-scale or conservation condition. It corroborates CLAIM-841's
+  time-scale or conservation condition. It corroborates [CLAIM-841](../claims.d/CLAIM-841.md)'s
   bullet that SOC reaches a critical point without outside tuning
-  (ARG-tmp1zu0m), and its finite-size cutoff, asserted without data, is
-  reproduced in CLAIM-tmpfwwrf (ARG-tmpb6zg7). Proposed until the reading
+  ([ARG-tmp1zu0m](../arguments.d/ARG-tmp1zu0m.md)), and its finite-size cutoff, asserted without data, is
+  reproduced in [CLAIM-tmpfwwrf](../claims.d/CLAIM-tmpfwwrf.md) ([ARG-tmpb6zg7](../arguments.d/ARG-tmpb6zg7.md)). Proposed until the reading
   is confirmed.
 ---
 <!-- inactive-ok-file: CLAIM-803 — Proposed; the claim that holds the shape-only inference insufficient -->
@@ -38,7 +38,7 @@ summary: >-
 
 Bak, Tang and Wiesenfeld (1987), "Self-Organized Criticality: An
 Explanation of 1/f Noise", Physical Review Letters 59, 381–384,
-LIT-2992, read in full from a course copy in NOTE-tmpnl00y.
+[LIT-2992](../literature.d/LIT-2992.md), read in full from a course copy in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md).
 
 ## The account
 
@@ -65,23 +65,23 @@ well inside the lattice size.
 ## What it does not license
 
 - That a straight log-log line shows criticality: the paper infers it so
-  (p. 383), and the record holds the inference insufficient (CLAIM-841,
-  CLAIM-803).
+  (p. 383), and the record holds the inference insufficient ([CLAIM-841](../claims.d/CLAIM-841.md),
+  [CLAIM-803](../claims.d/CLAIM-803.md)).
 - That slow drive, separated time scales or conservation are the
   conditions for SOC: the paper names none of them.
 - Its exponents: τ ≈ 0.98 counts affected sites after a probe of the
   relaxed pile, from 50 × 50 lattices, coarse-grained, with no error
-  estimate. The record's reproduction (CLAIM-tmpfwwrf) finds an apparent
+  estimate. The record's reproduction ([CLAIM-tmpfwwrf](../claims.d/CLAIM-tmpfwwrf.md)) finds an apparent
   τ near 1.05–1.1 for the toppling count under slow drive.
 
 ## Note of 2026-11-22: the record's reproduction
 
-CLAIM-tmpfwwrf reproduces the 2-D sandpile under slow drive at L = 16,
+[CLAIM-tmpfwwrf](../claims.d/CLAIM-tmpfwwrf.md) reproduces the 2-D sandpile under slow drive at L = 16,
 32, 64 and 128: a power-law bulk (apparent τ ≈ 1.05 to 1.10) whose cutoff
 grows with lattice size (⟨s²⟩/⟨s⟩ from 92 to 15,822, roughly L^2.5), from
 an empty start, with no parameter tuned, and with the mean avalanche size
 checked against Dhar's exact value. That **meets this THEORY's
-`promote_when` for two dimensions** (ARG-tmpb6zg7): "a reproduction in
+`promote_when` for two dimensions** ([ARG-tmpb6zg7](../arguments.d/ARG-tmpb6zg7.md)): "a reproduction in
 the record confirms ... that the avalanche-size distribution is a power
 law whose cutoff grows with lattice size, reached from generic initial
 conditions with no tuned parameter". Two caveats for the owner: one

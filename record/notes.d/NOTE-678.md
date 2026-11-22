@@ -225,9 +225,9 @@ The reading is the source of [THEORY-193](../theory.d/THEORY-193.md).
 
 **Background.** This note's "the standard master-equation treatment of
 growing networks (Dorogovtsev and Mendes; Krapivsky, Redner and Leyvraz)"
-is now read on the Krapivsky side (LIT-2974, NOTE-tmp2z733), and the
+is now read on the Krapivsky side ([LIT-2974](../literature.d/LIT-2974.md), [NOTE-tmp2z733](NOTE-tmp2z733.md)), and the
 Dorogovtsev, Mendes and Samukhin letter is registered unread
-(LIT-tmphxpqu). Barabási's chapter (LIT-2968, NOTE-tmpnpqc8) frames
+([LIT-tmphxpqu](../literature.d/LIT-tmphxpqu.md)). Barabási's chapter ([LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](NOTE-tmpnpqc8.md)) frames
 geometric and optimisation models as generating linear preferential
 attachment, a rival framing of the record's hyperbolic route recorded on
-THEORY-188. No edge.
+[THEORY-188](../theory.d/THEORY-188.md). No edge.

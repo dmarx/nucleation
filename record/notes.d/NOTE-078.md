@@ -173,9 +173,9 @@ The methods are:
 ## Note of 2026-11-22: Alsmeyer and Mentemeier, skimmed
 
 **Background.** The multiplicative ergodic theorem these notes expound
-supplies the Liapunov exponent that Alsmeyer and Mentemeier (LIT-tmpt282z,
-NOTE-tmpy4hcs, THEORY-tmpocjqv) require to be negative for the random
+supplies the Liapunov exponent that Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md),
+[NOTE-tmpy4hcs](NOTE-tmpy4hcs.md), [THEORY-tmpocjqv](../theory.d/THEORY-tmpocjqv.md)) require to be negative for the random
 difference equation R_n = M_n R_(n−1) + Q_n, the matrix form of Kesten's
-1973 theorem (LIT-3005). Kesten's paper and Furstenberg and Kesten's are
+1973 theorem ([LIT-3005](../literature.d/LIT-3005.md)). Kesten's paper and Furstenberg and Kesten's are
 the same author's two results on products of random matrices: the rate,
 and the tail of the stationary solution.

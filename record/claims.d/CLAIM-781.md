@@ -159,8 +159,8 @@ The synthesis review of 2026-11-21, auditing [QUESTION-281](../questions.d/QUEST
 
 ## Note of 2026-11-22: Beck and Cohen, read
 
-A **parallel**, with no edge. Beck and Cohen's superstatistics (LIT-2962,
-read in NOTE-tmpj8ro5) rests on a separation of time scales: the inverse
+A **parallel**, with no edge. Beck and Cohen's superstatistics ([LIT-2962](../literature.d/LIT-2962.md),
+read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md)) rests on a separation of time scales: the inverse
 temperature changes on a scale "much larger than the relaxation time that
 the single cells need to reach local equilibrium" (p. 2), so the fast
 level equilibrates and the slow one supplies the spread that is averaged

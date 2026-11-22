@@ -109,41 +109,41 @@ superstatistics.
 
 ## Bearing on the record
 
-- **CLAIM-795, item 4: grounds it, with a qualification.** Eq. 13 is item
+- **[CLAIM-795](../claims.d/CLAIM-795.md), item 4: grounds it, with a qualification.** Eq. 13 is item
   4's formula with energy for time and inverse temperature for rate:
   ∫ gamma(β) e^(−βE) dβ = (1 + bE)^(−c), the survival (b′/(b′ + t))^a
   with a = c, b′ = 1/b. The paper does not treat waiting times, and its
   non-gamma cases show that a spread gives a power law only with weight
-  near β = 0. The assistant's CLAIM-tmpf9qt9 states that condition and
-  checks it. ARG-tmpa8ghr argues the support.
-- **CLAIM-769: supports its second half by parallel.** Eq. 2 is
-  THEORY-2131's s(t) = ∫p(λ)e^(−λt)dλ; the uniform with a = 0 and the gamma
-  cases are THEORY-2131's. The exact hyperbola is c = 1, which Beck marks
+  near β = 0. The assistant's [CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md) states that condition and
+  checks it. [ARG-tmpa8ghr](../arguments.d/ARG-tmpa8ghr.md) argues the support.
+- **[CLAIM-769](../claims.d/CLAIM-769.md): supports its second half by parallel.** Eq. 2 is
+  [THEORY-2131](../theory.d/THEORY-2131.md)'s s(t) = ∫p(λ)e^(−λt)dλ; the uniform with a = 0 and the gamma
+  cases are [THEORY-2131](../theory.d/THEORY-2131.md)'s. The exact hyperbola is c = 1, which Beck marks
   non-normalizable with ρ(E) = 1 ("normalizable for c > 1"). Beck's
-  time-scale separation parallels CLAIM-781's separation of rates. Nothing
-  on rate trees or discounting. THEORY-tmpczldx `corroborates` CLAIM-769.
-- **THEORY-2131: corroborates the mathematics**, the same integral and the
+  time-scale separation parallels [CLAIM-781](../claims.d/CLAIM-781.md)'s separation of rates. Nothing
+  on rate trees or discounting. [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md) `corroborates` [CLAIM-769](../claims.d/CLAIM-769.md).
+- **[THEORY-2131](../theory.d/THEORY-2131.md): corroborates the mathematics**, the same integral and the
   same gamma and uniform results, derived in physics, not Sozou's reading
   of discounting; its `promote_when` asks for Sozou and is not met.
-- **ARG-tmp3ppjy: qualifies its routing.** Item 4 now rests on this
-  reading as well as on THEORY-2131.
-- **NOTE-tmpa7yd2: consistent.** Newman's "combinations of exponentials"
+- **[ARG-tmp3ppjy](../arguments.d/ARG-tmp3ppjy.md): qualifies its routing.** Item 4 now rests on this
+  reading as well as on [THEORY-2131](../theory.d/THEORY-2131.md).
+- **[NOTE-tmpa7yd2](NOTE-tmpa7yd2.md): consistent.** Newman's "combinations of exponentials"
   is not this construction.
-- **QUESTION-505: supports one row and adds a reading.** The gamma
+- **[QUESTION-505](../questions.d/QUESTION-505.md): supports one row and adds a reading.** The gamma
   mixture's exponent is its shape c, half the number of squared Gaussian
   degrees of freedom summed into β (eq. 12), and type-B averaging shifts it
   (c → c + ½ for E = ½u²).
-- **CLAIM-841** (filer C's file): supports its "broad relaxation spectra"
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (filer C's file): supports its "broad relaxation spectra"
   row as a further instance with no transition; Beck's flagship
   application is turbulence, a separate row, so the two rows can be one
   system read twice. Reported, not noted there.
-- **LEAD-209: qualifies its table.** The turbulence and mixture columns are
+- **[LEAD-209](../leads.d/LEAD-209.md): qualifies its table.** The turbulence and mixture columns are
   not exclusive in Beck's account, and the third-order term g(q) is a
   discriminating observable the table lacks.
-- **CLAIM-840 and CLAIM-829: support their "what it does not say"**: a
+- **[CLAIM-840](../claims.d/CLAIM-840.md) and [CLAIM-829](../claims.d/CLAIM-829.md): support their "what it does not say"**: a
   q-exponential bulk and tail with no transition; the only knob is the
   variance.
-- **CLAIM-803: supports in kind**; g(q) separates superstatistics from one
+- **[CLAIM-803](../claims.d/CLAIM-803.md): supports in kind**; g(q) separates superstatistics from one
   another, not mixtures from feedback.
 
 ## Limitations
@@ -155,5 +155,5 @@ superstatistics.
   the words "power law", "tail" or "heavy" (grep of the text).
 - Read as arXiv v2, not the journal text.
 - A gap the record uses: which densities give a power-law tail. Filled by
-  the assistant in CLAIM-tmpf9qt9 (weight at β = 0, by the Tauberian
+  the assistant in [CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md) (weight at β = 0, by the Tauberian
   correspondence), checked numerically.

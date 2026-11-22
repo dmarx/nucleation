@@ -92,7 +92,7 @@ A's example bears out.
 
 ## Note of 2026-11-22: Beck and Cohen, read
 
-Beck and Cohen (LIT-2962, read in NOTE-tmpj8ro5; THEORY-tmpczldx)
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md))
 **support "What it does not say"**, a parallel with no edge: their gamma
 superstatistics gives a q-exponential, a Boltzmann bulk with a power-law
 tail (1 + bE)^(−c), with no transition anywhere. Its one knob is the

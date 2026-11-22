@@ -122,25 +122,25 @@ spreads. The claim is unchanged.
 
 ## Note of 2026-11-22: Beck and Cohen, read
 
-Beck and Cohen (LIT-2962, read in NOTE-tmpj8ro5; the reading is
-THEORY-tmpczldx) **support the second half by parallel**, independently of
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); the reading is
+[THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)) **support the second half by parallel**, independently of
 Sozou. Their effective Boltzmann factor, B(E) = ∫f(β)e^(−βE)dβ, is
-THEORY-2131's s(t) = ∫p(λ)e^(−λt)dλ, derived in physics; their uniform
-density from zero gives (1 − e^(−bE))/(bE), THEORY-2131's uniform prior, and
+[THEORY-2131](../theory.d/THEORY-2131.md)'s s(t) = ∫p(λ)e^(−λt)dλ, derived in physics; their uniform
+density from zero gives (1 − e^(−bE))/(bE), [THEORY-2131](../theory.d/THEORY-2131.md)'s uniform prior, and
 their gamma density (1 + bE)^(−c). The exact hyperbola is their c = 1, which
 they mark non-normalizable with a flat density of states ("normalizable
 for c > 1", p. 6), the same divergence as ∫dt/(1 + kt). Their assumption
 that the parameter changes on a time scale "much larger than the
 relaxation time that the single cells need to reach local equilibrium"
-(p. 2) parallels the rate separation of CLAIM-781 on which the tree half
-leans. Nothing on rate trees or discounting. THEORY-tmpczldx
+(p. 2) parallels the rate separation of [CLAIM-781](CLAIM-781.md) on which the tree half
+leans. Nothing on rate trees or discounting. [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)
 `corroborates` this claim.
 
-**A refinement, the assistant's** (CLAIM-tmpf9qt9, checked by quadrature):
+**A refinement, the assistant's** ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md), checked by quadrature):
 the claim's "the exact hyperbola needs a particular spread" holds for the
 exact form at every t, but the asymptotic exponent one needs only a
 positive, finite density at zero rate. A uniform prior from zero, or a
 half-normal one, gives the same 1/(kt) tail as Sozou's exponential prior;
 an exponent other than one comes from weight β^(c−1) at zero rate, and a
-spread bounded away from zero gives no power at all. CLAIM-tmpf9qt9
+spread bounded away from zero gives no power at all. [CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md)
 `complements` this claim. The claim is unchanged.

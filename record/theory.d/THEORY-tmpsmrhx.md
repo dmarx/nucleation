@@ -18,26 +18,26 @@ date: '2026-11-22'
 source:
 - LIT-tmpk12vu
 summary: >-
-  Kevei (2016), LIT-tmpk12vu, skimmed in NOTE-tmpv02cb as a stand-in for
-  Kesten (1973), LIT-3005. Its introduction states the one-dimensional
+  Kevei (2016), [LIT-tmpk12vu](../literature.d/LIT-tmpk12vu.md), skimmed in [NOTE-tmpv02cb](../notes.d/NOTE-tmpv02cb.md) as a stand-in for
+  Kesten (1973), [LIT-3005](../literature.d/LIT-3005.md). Its introduction states the one-dimensional
   theorem with Kesten's hypotheses, its two-sided tail (c+ + c− > 0, so a
   tail may sit on one side only), the fact that EA^κ = 1 forces
   log-contraction, Grey's result that with EA^κ < 1 a regularly varying
   tail can come from B alone, and Goldie's Theorem 5.2 for the max form.
-  It is the record's ground for CLAIM-824's Kesten half, at second hand.
+  It is the record's ground for [CLAIM-824](../claims.d/CLAIM-824.md)'s Kesten half, at second hand.
   Proposed until the reading is confirmed.
 ---
 <!-- inactive-ok-file: NOTE-tmpv02cb — Skimmed; the reading this THEORY records -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this reading stands in for -->
-<!-- inactive-ok-file: LIT-tmpn76uh CLAIM-824 — Deferred or Proposed; Goldie, registered from this reading, and the claim it grounds -->
+<!-- inactive-ok-file: CLAIM-824 — Deferred or Proposed; Goldie, registered from this reading, and the claim it grounds -->
 
 # THEORY-tmpsmrhx: Kevei restates the Kesten–Grincevičius–Goldie theorem: the stationary solution of X = AX + B has a two-sided Pareto-like tail with index κ solving EA^κ = 1, given EA^κ log⁺A < ∞, a nonarithmetic log A, E|B|^κ < ∞ and non-degeneracy, a condition that forces E log A < 0; and, after Goldie, the max equation X = AX ∨ B has the same tail index
 
 ## Source
 
 Kevei (2016), "A note on the Kesten–Grincevičius–Goldie theorem",
-Electronic Communications in Probability 21, LIT-tmpk12vu, skimmed from
-the arXiv v2 in NOTE-tmpv02cb (§1 in full; proofs skipped).
+Electronic Communications in Probability 21, [LIT-tmpk12vu](../literature.d/LIT-tmpk12vu.md), skimmed from
+the arXiv v2 in [NOTE-tmpv02cb](../notes.d/NOTE-tmpv02cb.md) (§1 in full; proofs skipped).
 
 ## The account
 

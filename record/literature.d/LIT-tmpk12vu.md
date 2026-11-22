@@ -39,7 +39,7 @@ summary: >-
   EA^κ log⁺A < ∞, log A is nonarithmetic and E|B|^κ < ∞; the paper
   extends it to EA^κ log⁺A = ∞, where a nonconstant slowly varying
   factor appears. Its introduction is the record's restatement of
-  Kesten (1973), LIT-3005, which it stands in for in one dimension, and
+  Kesten (1973), [LIT-3005](LIT-3005.md), which it stands in for in one dimension, and
   of Goldie's reflecting form X = AX ∨ B with the same κ.
 ---
 <!-- inactive-ok-file: NOTE-tmpv02cb THEORY-tmpsmrhx — Skimmed or Proposed; this work's reading -->
@@ -64,8 +64,8 @@ arXiv 1512.07262. DOI 10.1214/16-ECP9.
 
 ## Standing in the record
 
-Registered as a stand-in for Kesten (1973), LIT-3005, which is Unfetched
-(ADR-114). It restates Kesten's theorem in one dimension, Goldie's
+Registered as a stand-in for Kesten (1973), [LIT-3005](LIT-3005.md), which is Unfetched
+([ADR-114](../decisions.d/ADR-114.md)). It restates Kesten's theorem in one dimension, Goldie's
 re-proof and his max form; it does not restate Kesten's matrix theorem
-(for that, Alsmeyer and Mentemeier, LIT-tmpt282z). Goldie (1991),
-LIT-tmpn76uh, is registered from it.
+(for that, Alsmeyer and Mentemeier, [LIT-tmpt282z](LIT-tmpt282z.md)). Goldie (1991),
+[LIT-tmpn76uh](LIT-tmpn76uh.md), is registered from it.

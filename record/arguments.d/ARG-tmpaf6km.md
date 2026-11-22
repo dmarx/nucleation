@@ -14,11 +14,11 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  CLAIM-817's summary said "Rich-get-richer, cumulative advantage, the
+  [CLAIM-817](../claims.d/CLAIM-817.md)'s summary said "Rich-get-richer, cumulative advantage, the
   Matthew effect and preferential attachment name one feedback", and it
-  listed Merton's essay (LIT-3002) in its grounds for A1's "sometimes
+  listed Merton's essay ([LIT-3002](../literature.d/LIT-3002.md)) in its grounds for A1's "sometimes
   called the Matthew effect, after sociologist Robert K. Merton". Read
-  (NOTE-tmp4eogg), the essay gives the name and ties it to cumulative
+  ([NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)), the essay gives the name and ties it to cumulative
   advantage ("the rich get richer"), but its Matthew effect is credit for
   a given contribution allotted by rank, with a fixed number of top places
   and a ratchet among its mechanisms, and it states no rule of growth in
@@ -26,8 +26,8 @@ summary: >-
   leaves the claim's grounds, and the naming clause is corrected there.
   Standing of the conclusion apart from this route: the identity holds
   only in the formal sense of "Matthew effect", which Newman's review
-  lists among the names of the Yule process (NOTE-tmpa7yd2), and
-  TERM-tmpeguzj separates the two senses; CLAIM-817's thesis on the
+  lists among the names of the Yule process ([NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md)), and
+  [TERM-tmpeguzj](../terms.d/TERM-tmpeguzj.md) separates the two senses; [CLAIM-817](../claims.d/CLAIM-817.md)'s thesis on the
   kernel and entry does not depend on the naming. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -37,8 +37,8 @@ summary: >-
 
 ## The inference
 
-CLAIM-817, its naming clause ("One feedback, several names"). Ground:
-THEORY-tmp7rz62.
+[CLAIM-817](../claims.d/CLAIM-817.md), its naming clause ("One feedback, several names"). Ground:
+[THEORY-tmp7rz62](../theory.d/THEORY-tmp7rz62.md).
 
 ## Critical questions (source)
 
@@ -62,10 +62,10 @@ advantage is "one institutional version", not a synonym.
 
 **Does the claim lean on the reading for more than it holds?** It did, by
 listing the essay in its grounds next to "name one feedback". The essay
-grounds the attribution of the word, which takes no edge (ADR-095).
+grounds the attribution of the word, which takes no edge ([ADR-095](../decisions.d/ADR-095.md)).
 
 ## Verdict
 
-Rejected as a route to the identity. LIT-3002 leaves CLAIM-817's grounds;
-the claim's naming clause is corrected in place, and TERM-tmpeguzj holds
+Rejected as a route to the identity. [LIT-3002](../literature.d/LIT-3002.md) leaves [CLAIM-817](../claims.d/CLAIM-817.md)'s grounds;
+the claim's naming clause is corrected in place, and [TERM-tmpeguzj](../terms.d/TERM-tmpeguzj.md) holds
 the two senses.

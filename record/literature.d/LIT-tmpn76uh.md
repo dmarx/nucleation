@@ -4,7 +4,7 @@ status_note: >-
   registered 2026-11-22, not read. Goldie's re-proof of the
   one-dimensional Kesten theorem by implicit renewal theory, and his
   Theorem 5.2 on the max equation X = AX ∨ B, which the record now
-  relies on through Kevei's restatement (LIT-tmpk12vu). No reading was
+  relies on through Kevei's restatement ([LIT-tmpk12vu](LIT-tmpk12vu.md)). No reading was
   attempted; a lawful copy has not been sought.
 title: 'Implicit renewal theory and tails of solutions of random equations'
 version: 1
@@ -34,7 +34,7 @@ summary: >-
   dimension by implicit renewal theory, and (Theorem 5.2, as Kevei
   restates it) gives the same tail, with the same κ solving EA^κ = 1,
   for the reflecting equation X = AX ∨ B. Here for the reflecting floor
-  of CLAIM-824. Unverified until read.
+  of [CLAIM-824](../claims.d/CLAIM-824.md). Unverified until read.
 ---
 <!-- inactive-ok-file: LIT-3005 — Unfetched; Kesten, for whom Kevei was read -->
 <!-- inactive-ok-file: CLAIM-824 — Proposed; the claim this work's max theorem bears on -->
@@ -46,7 +46,7 @@ Goldie (1991). The Annals of Applied Probability 1(1), 126–166. DOI
 
 ## Standing in the record
 
-Registered on 2026-11-22 from Kevei's note (LIT-tmpk12vu), read as a
-stand-in for Kesten (LIT-3005). The record relies on its Theorem 5.2, the
+Registered on 2026-11-22 from Kevei's note ([LIT-tmpk12vu](LIT-tmpk12vu.md)), read as a
+stand-in for Kesten ([LIT-3005](LIT-3005.md)). The record relies on its Theorem 5.2, the
 max form X = AX ∨ B, through Kevei's restatement, for the reflecting
-floor of CLAIM-824. Not read.
+floor of [CLAIM-824](../claims.d/CLAIM-824.md). Not read.

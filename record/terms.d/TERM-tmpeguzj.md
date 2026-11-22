@@ -13,17 +13,17 @@ draws_on:
 - THEORY-tmp7rz62
 - THEORY-tmp6jdas
 summary: >-
-  Fills a gap the reading of Merton's essay (LIT-3002, NOTE-tmp4eogg)
+  Fills a gap the reading of Merton's essay ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md))
   found: the record, after A in the exchange "Rich Get Richer Power Laws"
-  and after Newman's list of the Yule process's names (NOTE-tmpa7yd2),
+  and after Newman's list of the Yule process's names ([NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md)),
   uses "Matthew effect" as a synonym of preferential attachment, while
   Merton's Matthew effect is credit for a given contribution allotted by
   the contributor's standing. The term names both senses and says which
-  is meant. It is the same kind of split as TERM-tmpg1vx2, a name for a
+  is meant. It is the same kind of split as [TERM-tmpg1vx2](TERM-tmpg1vx2.md), a name for a
   rule used for different things. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmpg1vx2 CLAIM-817 THEORY-tmp7rz62 THEORY-tmp6jdas — Proposed; the term this one parallels, the claim that uses the name and the readings its senses come from -->
+<!-- inactive-ok-file: TERM-tmpg1vx2 CLAIM-817 — Proposed; the term this one parallels, the claim that uses the name and the readings its senses come from -->
 
 # TERM-tmpeguzj: Matthew effect: Merton's sense, recognition for a given contribution allotted by the contributor's standing, kept apart from the formal sense, growth in proportion to current size
 
@@ -38,7 +38,7 @@ meant.
    increments of recognition for particular scientific contributions to
    scientists of considerable repute and the withholding of such
    recognition from scientists who have not yet made their mark"
-   (LIT-3002, p. 58; NOTE-tmp4eogg). The contribution is held fixed and
+   ([LIT-3002](../literature.d/LIT-3002.md), p. 58; [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). The contribution is held fixed and
    the reward varies with rank. Its mechanisms, in Merton, include a fixed
    number of places at the summit, a ratchet that keeps the eminent from
    falling back, and greater visibility, which he calls "a special
@@ -48,7 +48,7 @@ meant.
    gain is proportional to what it holds (or to that plus a constant).
    Newman lists "Matthew effect" among the names of this rule, the Yule
    process, beside "cumulative advantage" and "preferential attachment"
-   (LIT-2976, p. 18; NOTE-tmpa7yd2). Its unit is a holding, and its claim
+   ([LIT-2976](../literature.d/LIT-2976.md), p. 18; [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md)). Its unit is a holding, and its claim
    is about a rate.
 
 ## How the senses connect
@@ -69,10 +69,10 @@ concentration of other shapes.
 - **Not a halo effect.** Merton: "This greater visibility is not merely
   the result of a halo effect" (p. 60).
 - **Not a claim about any distribution.** Neither sense, by itself, says
-  what tail results; that needs the kernel and entry (CLAIM-817).
+  what tail results; that needs the kernel and entry ([CLAIM-817](../claims.d/CLAIM-817.md)).
 
 ## The same kind of split
 
-TERM-tmpg1vx2 does the same for "Gibrat": one name for a rule, used for
+[TERM-tmpg1vx2](TERM-tmpg1vx2.md) does the same for "Gibrat": one name for a rule, used for
 different outcomes or settings. Here the split is between an attribution
 effect and a growth rule; there it is between the outcomes of one rule.

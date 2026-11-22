@@ -109,8 +109,8 @@ distributions this case computes.
 
 ## Note of 2026-11-22: Reed and Hughes, read
 
-A **contrast**, with no edge. Reed and Hughes (LIT-3007, read in
-NOTE-tmpbic9d; THEORY-tmphwf0q) get a power law from a *supercritical*
+A **contrast**, with no edge. Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md), read in
+[NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)) get a power law from a *supercritical*
 branching process killed at a geometric generation, exponent 1 + κ with
 κ = ln[1/(1 − p)]/ln μ, where this case's s^(−3/2) needs the process
 exactly critical. The case is unchanged.

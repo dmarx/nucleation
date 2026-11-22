@@ -231,7 +231,7 @@ revisions are made in place above (version 2).
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
 **Background, by contrast of senses.** Bak, Tang and Wiesenfeld
-(LIT-2992, read in NOTE-tmpnl00y; the reading is THEORY-tmpehudh) build
+([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) build
 criticality out of minimal stability: the pile stops "precisely at the
 point when the network of minimally stable states has been broken down
 to the level where the noise signal cannot be communicated through

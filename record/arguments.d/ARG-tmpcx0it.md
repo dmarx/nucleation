@@ -14,8 +14,8 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Whether Corominas-Murtra, Hanel and Thurner (LIT-2997), read in
-  NOTE-tmpyqqhq, carry CLAIM-795's item 5. Their eq. 1, proved by
+  Whether Corominas-Murtra, Hanel and Thurner ([LIT-2997](../literature.d/LIT-2997.md)), read in
+  [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md), carry [CLAIM-795](../claims.d/CLAIM-795.md)'s item 5. Their eq. 1, proved by
   induction, is the item exactly: a walk jumping uniformly to a lower
   state visits state k with probability 1/k, with no multiplicative,
   preferential or critical process. The item gains the tunable family
@@ -30,8 +30,8 @@ summary: >-
 
 ## The inference
 
-CLAIM-795, item 5: a walk that jumps uniformly to a lower state until it
-reaches 1 visits state k with probability 1/k. THEORY-tmpcfn5g: the proof
+[CLAIM-795](../claims.d/CLAIM-795.md), item 5: a walk that jumps uniformly to a lower state until it
+reaches 1 visits state k with probability 1/k. [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md): the proof
 and the noisy family.
 
 ## Critical questions (source)
@@ -56,6 +56,6 @@ frequency exponent (1 + λ)/λ ≥ 2, which the item now notes.
 
 ## Verdict
 
-Support for item 5. THEORY-tmpcfn5g replaces LIT-2997 in CLAIM-795's
+Support for item 5. [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md) replaces [LIT-2997](../literature.d/LIT-2997.md) in [CLAIM-795](../claims.d/CLAIM-795.md)'s
 `grounds`; the item no longer rests on the claim's own check alone.
-ARG-tmp3ppjy's finding that Newman does not carry item 5 stands.
+[ARG-tmp3ppjy](ARG-tmp3ppjy.md)'s finding that Newman does not carry item 5 stands.

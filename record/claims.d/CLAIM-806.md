@@ -70,8 +70,8 @@ A8 §8 ([CLAIM-796](CLAIM-796.md)) sets "advantage feeds on advantage" against
 regimes". But A's own table at A1 §4 puts rich-get-richer at such a
 boundary. With attachment ∝ k^α, α < 1 gives a stretched-exponential
 tail, α > 1 condensation onto one unit, and only α = 1 a power law
-(Krapivsky, Redner and Leyvraz, LIT-2974, read on 2026-11-22 in
-NOTE-tmp2z733, who call γ = 1 "the borderline case"). The assistant's
+(Krapivsky, Redner and Leyvraz, [LIT-2974](../literature.d/LIT-2974.md), read on 2026-11-22 in
+[NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md), who call γ = 1 "the borderline case"). The assistant's
 simulations ([CLAIM-817](CLAIM-817.md)) show both sides. At α = 0.5 the largest of
 100,000 nodes has degree 42. At α = 1.5 one node holds 99,354 links and the
 next 12. A power law appears only at the boundary, just as a cascade's
@@ -92,9 +92,9 @@ parallel runs further:
 Barabási's chapter reports attachment exponents measured from network
 snapshots: "For the Internet and citation networks we have α ≈ 1", and
 "For the co-authorship and the actor network the best fit provides
-α=0.9±0.1" (NOTE-tmpnpqc8, §5.7). By that measure real systems sit at or
+α=0.9±0.1" ([NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md), §5.7). By that measure real systems sit at or
 just below the boundary. The measurement conditions on degree alone, so
-fitness and age are confounded (CLAIM-803), and below the boundary
+fitness and age are confounded ([CLAIM-803](CLAIM-803.md)), and below the boundary
 Krapivsky, Redner and Leyvraz warn that for 0.8 ≲ γ ≲ 1 a stretched
 exponential and a power law are hard to tell apart up to k = 1000: the
 boundary is sharp in the model and blurred in data.
@@ -142,24 +142,24 @@ does not tie this to sublinear attachment. No edge. Status unchanged.
 
 ## Note of 2026-11-22: Krapivsky, Redner and Leyvraz, read
 
-Krapivsky, Redner and Leyvraz (LIT-2974, NOTE-tmp2z733; the reading is
-THEORY-tmpmsncg) **support the marginality** and qualify the table, as
+Krapivsky, Redner and Leyvraz ([LIT-2974](../literature.d/LIT-2974.md), [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md); the reading is
+[THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md)) **support the marginality** and qualify the table, as
 corrected in place above. γ = 1 is "the borderline case", γ > 1 "akin to
 gelation", and no γ ≠ 1 tail is a power law, so the `defeated_if` is not
-met. THEORY-tmpmsncg replaces LIT-2974 in the grounds (ARG-tmpqxprw).
+met. [THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md) replaces [LIT-2974](../literature.d/LIT-2974.md) in the grounds ([ARG-tmpqxprw](../arguments.d/ARG-tmpqxprw.md)).
 
 ## Note of 2026-11-22: Barabási and Albert, and Barabási's chapter, read
 
-**Support** (LIT-3004, NOTE-tmpwgw8e; LIT-2968, NOTE-tmpnpqc8). Barabási
+**Support** ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md); [LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)). Barabási
 and Albert: "scaling is present only for α = 1" (preprint p. 7). The
 chapter gives the regimes on both sides and "Π(k) needs to depend strictly
 linearly on the degrees for the resulting network to have a pure power
 law" (§5.8), and the measured exponents above. Neither draws the analogy
-to criticality. THEORY-tmpzmy66 corroborates the claim.
+to criticality. [THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md) corroborates the claim.
 
 ## Note of 2026-11-22: Reed and Hughes, read
 
-Reed and Hughes (LIT-3007), as read in this round by another filer:
+Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md)), as read in this round by another filer:
 **a contrast**. Their killed birth-and-death process changes form at
 λ = δ: a power law above, a stretched exponential at the balance point,
 and a geometric factor times a power below. There, balance kills the power

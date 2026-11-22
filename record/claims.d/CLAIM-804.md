@@ -133,7 +133,7 @@ relation.
 
 **Background.** The claim contrasts its cascade of detectability
 thresholds with "a self-organized critical process". Bak, Tang and
-Wiesenfeld (LIT-2992, NOTE-tmpnl00y, THEORY-tmpehudh), now read, fix what
+Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md), [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)), now read, fix what
 the contrast term meant at its origin: a spatially extended threshold
 system that relaxes to a state with no length scale, with avalanches of
 all sizes cut off by the system size (pp. 382–383). The PCA cascade has

@@ -2,8 +2,8 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered from the readings of Krapivsky,
-  Redner and Leyvraz (NOTE-tmp2z733, their reference 20, overlapping
-  results) and of Barabási's Network Science chapter 5 (NOTE-tmpnpqc8,
+  Redner and Leyvraz ([NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md), their reference 20, overlapping
+  results) and of Barabási's Network Science chapter 5 ([NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md),
   its reference 12, credited with the exact degree distribution of the
   Barabási–Albert model). No reading was attempted; a lawful copy has
   not been sought.
@@ -46,8 +46,8 @@ arXiv cond-mat/0004434; DOI 10.1103/PhysRevLett.85.4633.
 ## Standing in the record
 
 Registered on 2026-11-22 from the readings of Krapivsky, Redner and
-Leyvraz (LIT-2974, NOTE-tmp2z733), who cite it as their reference 20 for
-overlapping results, and of Barabási's chapter (LIT-2968, NOTE-tmpnpqc8),
+Leyvraz ([LIT-2974](LIT-2974.md), [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md)), who cite it as their reference 20 for
+overlapping results, and of Barabási's chapter ([LIT-2968](LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)),
 which credits it with the exact degree distribution
 2m(m+1)/[k(k+1)(k+2)]. The record relies on it only as that attribution.
 Not read.

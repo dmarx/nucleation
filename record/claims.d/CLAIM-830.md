@@ -76,7 +76,7 @@ makes the power law.
 ## The derivation
 
 A1 §3's mean-field solution is k_i(t) = (t/t_i)^(1/2) (Barabási and
-Albert, LIT-3004, read in NOTE-tmpwgw8e: ∂k_i/∂t = k_i/2t, "Assuming that
+Albert, [LIT-3004](../literature.d/LIT-3004.md), read in [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md): ∂k_i/∂t = k_i/2t, "Assuming that
 we add the vertices at equal time intervals"). Write it in logarithmic time, u = ln t:
 
     k_i = exp((u − u_i)/2) = exp(a_i/2),   a_i = ln(t/t_i).
@@ -110,16 +110,16 @@ Barabási and Albert's Model B is linear attachment among a fixed set of
 vertices: "In model B we start with N vertices and no edges ... While at
 early times the model exhibits power-law scaling, P(k) is not
 stationary", and it ends with all vertices connected (preprint p. 6;
-NOTE-tmpwgw8e). That qualifies the Pólya-urn contrast above, which is a
+[NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md)). That qualifies the Pólya-urn contrast above, which is a
 statement about the long-run spread, and it does not meet the
 `defeated_if`, which asks for a degree tail that is a power law, not a
-passing stage of one (ARG-tmpmylwc). Read the contrast as "without entry,
+passing stage of one ([ARG-tmpmylwc](../arguments.d/ARG-tmpmylwc.md)). Read the contrast as "without entry,
 no *stationary* power law".
 
 A further gloss, which is the delegated reader's and not the paper's or
 the chapter's: the chapter says that early on "each new link connects
 previously unconnected nodes. In this stage the model's evolution is
-indistinguishable from the Barabási-Albert model with m=1" (NOTE-tmpnpqc8,
+indistinguishable from the Barabási-Albert model with m=1" ([NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md),
 §5.6). Nodes at degree zero (counted as one) being drawn in one by one
 act as entrants, so the transient power law would be entry in effect,
 which fits this claim's thesis. Not checked by simulation here.
@@ -212,42 +212,42 @@ edge. Status unchanged.
 ## Note of 2026-11-22: Barabási and Albert, and Barabási's chapter, read
 
 **Support for the premise and the age half; the identification left
-open** (LIT-3004, NOTE-tmpwgw8e, THEORY-tmpfrz0k; LIT-2968, NOTE-tmpnpqc8,
-THEORY-tmpzmy66). The premise is the paper's arrival-time derivation at
+open** ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md), [THEORY-tmpfrz0k](../theory.d/THEORY-tmpfrz0k.md); [LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md),
+[THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md)). The premise is the paper's arrival-time derivation at
 equal intervals. The chapter's "hubs are large because they arrived
 earlier, a phenomenon called first-mover advantage" and γ = 1/β + 1 give
 the survival exponent 1/β = 2, the claim's λ/g; its "fails to accurately
 predict the pre-factors" matches the claim's caveat that the age mechanism
 accounts for the exponent and not for one node's degree. Neither casts the
 process in log time; Gibrat appears only in the chapter's bibliography.
-Model B is above. THEORY-tmpfrz0k replaces LIT-3004 in the grounds and
-THEORY-tmpzmy66 corroborates (ARG-tmpmylwc).
+Model B is above. [THEORY-tmpfrz0k](../theory.d/THEORY-tmpfrz0k.md) replaces [LIT-3004](../literature.d/LIT-3004.md) in the grounds and
+[THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md) corroborates ([ARG-tmpmylwc](../arguments.d/ARG-tmpmylwc.md)).
 
 ## Note of 2026-11-22: Krapivsky, Redner and Leyvraz, read
 
 **Supports the role of entry in the solution; leaves the no-entry case
-open** (LIT-2974, NOTE-tmp2z733, THEORY-tmpmsncg). Their rate equation's
+open** ([LIT-2974](../literature.d/LIT-2974.md), [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md), [THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md)). Their rate equation's
 source term is "the continuous introduction of new sites with no incoming
 links", and their joint age and degree solution says "old sites are better
 connected". They never remove entry. No edge.
 
 ## Note of 2026-11-22: Merton, read
 
-**Background** (LIT-3002, NOTE-tmp4eogg, THEORY-tmp7rz62). The claim uses
+**Background** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md), [THEORY-tmp7rz62](../theory.d/THEORY-tmp7rz62.md)). The claim uses
 "cumulative advantage" in the formal sense, growth in proportion to size;
 Merton's Matthew effect is credit allotted by rank, with cumulative
-advantage "one institutional version" of it. TERM-tmpeguzj keeps the
+advantage "one institutional version" of it. [TERM-tmpeguzj](../terms.d/TERM-tmpeguzj.md) keeps the
 senses apart. No edge.
 
 ## Note of 2026-11-22: Reed and Hughes, read
 
-Reed and Hughes (LIT-3007), as read in this round by another filer,
+Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md)), as read in this round by another filer,
 **support the age half and the role of entry**: exponential ages from
 entry into a population "growing at a fixed rate", and Yule's power law
 built from new genera entering as species do, which is this claim's
 thesis that entry turns proportional growth into a Pareto tail. They never
 mention preferential attachment, Barabási–Albert or logarithmic time, so
-the identification stays this claim's own. LIT-3007 stays in the grounds
+the identification stays this claim's own. [LIT-3007](../literature.d/LIT-3007.md) stays in the grounds
 for Reed's formula; the reading's own THEORY, filed by the other filer,
 may replace it there.
 

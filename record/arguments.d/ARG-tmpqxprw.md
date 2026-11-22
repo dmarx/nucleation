@@ -15,9 +15,9 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Whether Krapivsky, Redner and Leyvraz (LIT-2974), read in NOTE-tmp2z733,
-  carry the kernel regimes that CLAIM-817's title states and CLAIM-806's
-  objection builds on, which ARG-149 said rest on this work while it was
+  Whether Krapivsky, Redner and Leyvraz ([LIT-2974](../literature.d/LIT-2974.md)), read in [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md),
+  carry the kernel regimes that [CLAIM-817](../claims.d/CLAIM-817.md)'s title states and [CLAIM-806](../claims.d/CLAIM-806.md)'s
+  objection builds on, which [ARG-149](ARG-149.md) said rest on this work while it was
   unread. They do: "A power law distribution N_k ∼ k^−ν arises only for
   γ = 1", with a stretched exponential below and a single "gel" site
   above. They qualify both claims in directions each allows: the power law
@@ -33,8 +33,8 @@ summary: >-
 
 ## The inference
 
-CLAIM-817 (the regimes in its title) and CLAIM-806 (linear attachment as
-a marginal point). Ground: THEORY-tmpmsncg. The same premise bears on both
+[CLAIM-817](../claims.d/CLAIM-817.md) (the regimes in its title) and [CLAIM-806](../claims.d/CLAIM-806.md) (linear attachment as
+a marginal point). Ground: [THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md). The same premise bears on both
 in the same way, so one verdict is filed once.
 
 ## Critical questions (source)
@@ -50,10 +50,10 @@ condensation, which the filing's run at α = 1.5 (one node with 49.7% of
 the 2t edge ends) matches.
 
 **Is it said within the scope the claims need?** For the kernel half of
-CLAIM-817, and for CLAIM-806's two sides. Not for CLAIM-817's "together
+[CLAIM-817](../claims.d/CLAIM-817.md), and for [CLAIM-806](../claims.d/CLAIM-806.md)'s two sides. Not for [CLAIM-817](../claims.d/CLAIM-817.md)'s "together
 with continual entry": the rate equation always has a source term for
 "the continuous introduction of new sites", and the no-entry case is never
-run. That half rests on CLAIM-830. CLAIM-806's analogy to criticality is
+run. That half rests on [CLAIM-830](../claims.d/CLAIM-830.md). [CLAIM-806](../claims.d/CLAIM-806.md)'s analogy to criticality is
 the claim's own; the paper calls γ = 1 "the borderline case" and γ > 1
 "akin to gelation", nothing more.
 
@@ -62,8 +62,8 @@ qualifications, both within what the claims allow.
 
 - The power law at the boundary is k^(−3) only for A_k = k. An
   asymptotically linear kernel gives "ν = 1 + µ/a∞", tunable "to any value
-  larger than 2" (p. 2). CLAIM-817's `defeated_if` already exempts a
-  shifted linear kernel; CLAIM-806's "the boundary is a line in a larger
+  larger than 2" (p. 2). [CLAIM-817](../claims.d/CLAIM-817.md)'s `defeated_if` already exempts a
+  shifted linear kernel; [CLAIM-806](../claims.d/CLAIM-806.md)'s "the boundary is a line in a larger
   space of kernels" is right, and its "standard result, not checked here"
   is now checked.
 - The superlinear side is not one regime but a cascade: "for
@@ -76,5 +76,5 @@ measurement, not on the model's regimes.
 
 ## Verdict
 
-Support. THEORY-tmpmsncg replaces LIT-2974 in the grounds of CLAIM-817
-and CLAIM-806, completing what ARG-149 deferred to this work.
+Support. [THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md) replaces [LIT-2974](../literature.d/LIT-2974.md) in the grounds of [CLAIM-817](../claims.d/CLAIM-817.md)
+and [CLAIM-806](../claims.d/CLAIM-806.md), completing what [ARG-149](ARG-149.md) deferred to this work.

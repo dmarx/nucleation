@@ -106,11 +106,11 @@ nothing on its scaling with system size. The lead's step is still open.
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read; the sandpile run
 
 **A precedent, and a first worked case.** Bak, Tang and Wiesenfeld
-(LIT-2992, read in NOTE-tmpnl00y; the reading is THEORY-tmpehudh)
+([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md))
 already use this lead's size test, in words only: "The falloff at the
 largest cluster sizes is due to finite-size effects, as we checked by
 comparing simulations for different array sizes" (p. 383), with no data
-shown. The record's reproduction, CLAIM-tmpfwwrf, supplies the data for
+shown. The record's reproduction, [CLAIM-tmpfwwrf](../claims.d/CLAIM-tmpfwwrf.md), supplies the data for
 the 2-D sandpile: ⟨s²⟩/⟨s⟩ = 92, 467, 2,607 and 15,822 at L = 16, 32, 64
 and 128, a cutoff growing roughly as L^2.5, with local exponents still
 rising (2.34, 2.48, 2.60). Two lessons for the lead: the cutoff exponent

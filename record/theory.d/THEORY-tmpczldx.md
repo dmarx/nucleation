@@ -27,11 +27,11 @@ corroborates:
 bears_on:
 - QUESTION-505
 summary: >-
-  Beck and Cohen (2003), LIT-2962, read in NOTE-tmpj8ro5. A letter:
+  Beck and Cohen (2003), [LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md). A letter:
   the mixture-of-exponentials construction in physics, with a gamma density
   giving the Tsallis form exactly and a universality result at small
   variance. It never says "power law"; which densities give one is the
-  assistant's CLAIM-tmpf9qt9. Proposed until the published text or a second
+  assistant's [CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md). Proposed until the published text or a second
   source confirms it.
 ---
 <!-- inactive-ok-file: CLAIM-795 CLAIM-769 CLAIM-tmpf9qt9 THEORY-2131 — Proposed or new; this account's reading and the entries it bears on -->
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-Beck and Cohen (2003), LIT-2962, read in NOTE-tmpj8ro5 from arXiv v2.
+Beck and Cohen (2003), [LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md) from arXiv v2.
 
 ## What was actually shown
 
@@ -62,7 +62,7 @@ depends on the function f(β))" (p. 7).
 
 - Not that a spread of rates gives a power law: only the gamma case does
   among the closed forms, and a uniform f bounded away from zero keeps an
-  exponential tail (eq. 5). The general condition is CLAIM-tmpf9qt9's, the
+  exponential tail (eq. 5). The general condition is [CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md)'s, the
   assistant's.
 - Not what f(β) is for any system: it is "a priori unknown" (p. 3); the
   applications are cited, not shown.
@@ -72,6 +72,6 @@ depends on the function f(β))" (p. 7).
 
 ## Connections
 
-THEORY-2131 has the same integral as discounting under an unknown hazard,
-with the same gamma and uniform results; CLAIM-769 and CLAIM-795 (item 4)
-use it. It `corroborates` CLAIM-769; CLAIM-795's item 4 grounds on it.
+[THEORY-2131](THEORY-2131.md) has the same integral as discounting under an unknown hazard,
+with the same gamma and uniform results; [CLAIM-769](../claims.d/CLAIM-769.md) and [CLAIM-795](../claims.d/CLAIM-795.md) (item 4)
+use it. It `corroborates` [CLAIM-769](../claims.d/CLAIM-769.md); [CLAIM-795](../claims.d/CLAIM-795.md)'s item 4 grounds on it.

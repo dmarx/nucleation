@@ -24,15 +24,15 @@ corroborates:
 - CLAIM-806
 - CLAIM-830
 summary: >-
-  Barabási (2016), LIT-2968, read in the author's web edition in
-  NOTE-tmpnpqc8. A secondary source for the kernel regimes of CLAIM-817
-  and CLAIM-806 beside THEORY-tmpmsncg, and the record's source for the
+  Barabási (2016), [LIT-2968](../literature.d/LIT-2968.md), read in the author's web edition in
+  [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md). A secondary source for the kernel regimes of [CLAIM-817](../claims.d/CLAIM-817.md)
+  and [CLAIM-806](../claims.d/CLAIM-806.md) beside [THEORY-tmpmsncg](THEORY-tmpmsncg.md), and the record's source for the
   measured attachment exponents (α ≈ 1 for the Internet and citations,
   0.9 ± 0.1 for co-authorship and actors). The sharp edge: its claim that
   preferential attachment is "necessary and sufficient", and that "all
   known models and real systems that are scale-free" have it, is a
   framing that reads geometric and optimisation models as generating
-  attachment, which the record does not adopt (CLAIM-817, THEORY-188).
+  attachment, which the record does not adopt ([CLAIM-817](../claims.d/CLAIM-817.md), [THEORY-188](THEORY-188.md)).
 ---
 <!-- inactive-ok-file: CLAIM-817 CLAIM-806 THEORY-tmpmsncg THEORY-188 — Proposed; the claims this reading bears on and the readings beside it -->
 
@@ -41,8 +41,8 @@ summary: >-
 ## Source
 
 Barabási (2016), *Network Science*, Chapter 5, "The Barabási-Albert
-Model", LIT-2968, read in the web edition on the author's site in
-NOTE-tmpnpqc8.
+Model", [LIT-2968](../literature.d/LIT-2968.md), read in the web edition on the author's site in
+[NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md).
 
 ## What was actually shown
 

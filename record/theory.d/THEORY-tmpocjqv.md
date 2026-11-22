@@ -17,8 +17,8 @@ date: '2026-11-22'
 source:
 - LIT-tmpt282z
 summary: >-
-  Alsmeyer and Mentemeier (2012), LIT-tmpt282z, skimmed (introduction
-  only) in NOTE-tmpy4hcs as a stand-in for Kesten (1973), LIT-3005. Their
+  Alsmeyer and Mentemeier (2012), [LIT-tmpt282z](../literature.d/LIT-tmpt282z.md), skimmed (introduction
+  only) in [NOTE-tmpy4hcs](../notes.d/NOTE-tmpy4hcs.md) as a stand-in for Kesten (1973), [LIT-3005](../literature.d/LIT-3005.md). Their
   Theorem 1.1 is the matrix form of the Kesten tail; their Remark 1
   attributes the statement to Kesten "with one extra condition". The
   record's second-hand access to Kesten's matrix theorem. Proposed until
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Alsmeyer and Mentemeier (2012), LIT-tmpt282z, abstract and §1 read from
-the arXiv v3 in NOTE-tmpy4hcs.
+Alsmeyer and Mentemeier (2012), [LIT-tmpt282z](../literature.d/LIT-tmpt282z.md), abstract and §1 read from
+the arXiv v3 in [NOTE-tmpy4hcs](../notes.d/NOTE-tmpy4hcs.md).
 
 ## The account
 

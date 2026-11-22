@@ -164,13 +164,13 @@ No edge.
 
 ## Note of 2026-11-22: Barabási's chapter, read
 
-**A rival framing** (LIT-2968, NOTE-tmpnpqc8). The chapter reads
+**A rival framing** ([LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)). The chapter reads
 optimisation and geometric models as routes that *generate* linear
 preferential attachment: "such rational decisions can lead to preferential
 attachment [22, 23, 24]", where [24] is Papadopoulos and others,
 "Popularity versus similarity in growing networks", and "To date all known
 models and real systems that are scale-free have been found to have
-preferential attachment" (§§5.9, 5.11). CLAIM-817's aside says this
+preferential attachment" (§§5.9, 5.11). [CLAIM-817](../claims.d/CLAIM-817.md)'s aside says this
 account "needs no attachment at all", meaning no attachment rule built
 in. The two speak of different things, the rule given and the attachment
 produced, so neither refutes the other. Whether the static hyperbolic

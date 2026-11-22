@@ -22,9 +22,9 @@ source:
 bears_on:
 - QUESTION-505
 summary: >-
-  Krapivsky, Redner & Leyvraz (2000), LIT-2974, read in NOTE-tmp2z733.
+  Krapivsky, Redner & Leyvraz (2000), [LIT-2974](../literature.d/LIT-2974.md), read in [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md).
   The record's source for the regimes of the attachment kernel, which
-  CLAIM-817 and CLAIM-806 state and ARG-tmpqxprw takes them from. The
+  [CLAIM-817](../claims.d/CLAIM-817.md) and [CLAIM-806](../claims.d/CLAIM-806.md) state and [ARG-tmpqxprw](../arguments.d/ARG-tmpqxprw.md) takes them from. The
   sharp edge: the power law is the borderline case, k^(−3) only for
   A_k = k exactly, and the authors themselves say that for 0.8 ≲ γ ≲ 1 a
   stretched exponential and a power law are hard to tell apart up to
@@ -37,8 +37,8 @@ summary: >-
 ## Source
 
 Krapivsky, Redner & Leyvraz (2000), "Connectivity of Growing Random
-Networks", Physical Review Letters 85, 4629, LIT-2974, read in the arXiv
-preprint in NOTE-tmp2z733.
+Networks", Physical Review Letters 85, 4629, [LIT-2974](../literature.d/LIT-2974.md), read in the arXiv
+preprint in [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md).
 
 ## What was actually shown
 

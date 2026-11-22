@@ -135,8 +135,8 @@ Status unchanged.
 
 ## Note of 2026-11-22: Reed and Hughes, read
 
-A **contrast**, with no edge. Reed and Hughes (LIT-3007, read in
-NOTE-tmpbic9d; THEORY-tmphwf0q) give a second branching route to a power
+A **contrast**, with no edge. Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md), read in
+[NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)) give a second branching route to a power
 law: a supercritical Galton–Watson process (mean offspring μ > 1) killed
 at a geometric generation, with P(X̄ = m) ∼ R(m)m^(−1−κ),
 κ = ln[(1 − p)^(−1)]/ln μ, and log-periodic oscillations in R(m) (pp. 3–4).

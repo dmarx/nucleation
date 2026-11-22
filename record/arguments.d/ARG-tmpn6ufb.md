@@ -15,14 +15,14 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  CLAIM-824 grounded its Kesten half on Kesten (LIT-3005), unread and now
-  Unfetched. Kevei's note (THEORY-tmpsmrhx) states the theorem with its
+  [CLAIM-824](../claims.d/CLAIM-824.md) grounded its Kesten half on Kesten ([LIT-3005](../literature.d/LIT-3005.md)), unread and now
+  Unfetched. Kevei's note ([THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md)) states the theorem with its
   hypotheses and attributes it to Kesten; Alsmeyer and Mentemeier
-  (THEORY-tmpocjqv) give the matrix form and attribute its statement to
+  ([THEORY-tmpocjqv](../theory.d/THEORY-tmpocjqv.md)) give the matrix form and attribute its statement to
   Kesten. Read as sources, they carry the claim's Kesten half at second
   hand, with E|B|^κ, non-degeneracy and a two-sided tail the claim had
   not stated, and with E log A < 0 forced rather than permitted. So
-  THEORY-tmpsmrhx replaces LIT-3005 in the claim's grounds. The wording
+  [THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md) replaces [LIT-3005](../literature.d/LIT-3005.md) in the claim's grounds. The wording
   is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
@@ -34,9 +34,9 @@ summary: >-
 
 ## The inference
 
-CLAIM-824's second half: W' = AW + B gives a stationary tail
-P(W > x) ∝ x^(−κ) with E[A^κ] = 1. THEORY-tmpsmrhx (Kevei) states that
-theorem and attributes it to Kesten; THEORY-tmpocjqv (Alsmeyer and
+[CLAIM-824](../claims.d/CLAIM-824.md)'s second half: W' = AW + B gives a stationary tail
+P(W > x) ∝ x^(−κ) with E[A^κ] = 1. [THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md) (Kevei) states that
+theorem and attributes it to Kesten; [THEORY-tmpocjqv](../theory.d/THEORY-tmpocjqv.md) (Alsmeyer and
 Mentemeier) states its matrix form and attributes the statement to
 Kesten. If they say it, in context and within scope, the claim's Kesten
 half is grounded at second hand.
@@ -64,7 +64,7 @@ Mentemeier re-prove the matrix form. Both name Kesten as the source of
 the statement. Neither quotes Kesten's own hypotheses, and Alsmeyer and
 Mentemeier say his matrix statement carried "one extra condition". So the
 attribution of the scalar statement to Kesten is the usual one, and the
-scalar proof the record relies on is Goldie's (LIT-tmpn76uh), as Kevei
+scalar proof the record relies on is Goldie's ([LIT-tmpn76uh](../literature.d/LIT-tmpn76uh.md)), as Kevei
 says: "Later Goldie [18] simplified the proof of the same result in the
 one-dimensional case".
 
@@ -75,8 +75,8 @@ E[A^κ] < 1, which is now in the claim's "What it does not say".
 
 ## Verdict
 
-THEORY-tmpsmrhx grounds CLAIM-824's Kesten half at second hand, and
-replaces LIT-3005 in its `grounds`; THEORY-tmpocjqv stands behind the
+[THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md) grounds [CLAIM-824](../claims.d/CLAIM-824.md)'s Kesten half at second hand, and
+replaces [LIT-3005](../literature.d/LIT-3005.md) in its `grounds`; [THEORY-tmpocjqv](../theory.d/THEORY-tmpocjqv.md) stands behind the
 attribution to Kesten in d dimensions. The claim's status is unchanged.
 A reading of Kesten (1973) itself would check what he proved against what
 the neighbours report.

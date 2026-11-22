@@ -47,8 +47,8 @@ summary: >-
   slower than any exponential; support bounded away from zero, as in Beck's
   uniform case, keeps an exponential tail at the support's lower end. Each
   case checked by quadrature. It fills the gap left by Beck and Cohen's
-  "it strongly depends on the function f(β)" (p. 7), which CLAIM-795's
-  item 4 and CLAIM-769 lean on. The wording is the assistant's (Claude, in
+  "it strongly depends on the function f(β)" (p. 7), which [CLAIM-795](CLAIM-795.md)'s
+  item 4 and [CLAIM-769](CLAIM-769.md) lean on. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-tmpczldx THEORY-2131 CLAIM-769 CLAIM-795 CLAIM-803 ARG-tmpa8ghr — Proposed or new; the readings this claim is checked against, the claims it qualifies, and the argument that says how -->
@@ -57,15 +57,15 @@ summary: >-
 
 ## The gap it fills
 
-Beck and Cohen (THEORY-tmpczldx) give B(E) = ∫ f(β) e^(−βE) dβ in closed form
+Beck and Cohen ([THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)) give B(E) = ∫ f(β) e^(−βE) dβ in closed form
 for a gamma f (a power-law tail, (1 + bE)^(−c)) and a uniform f (an
 exponential tail when a > 0), and say only that "the large-E behavior is
 different for all superstatistics (it strongly depends on the function
-f(β))" (p. 7). CLAIM-795's item 4 says a "mixture of exponential rates"
-gives a power law, and CLAIM-769 that a spread of rates gives
+f(β))" (p. 7). [CLAIM-795](CLAIM-795.md)'s item 4 says a "mixture of exponential rates"
+gives a power law, and [CLAIM-769](CLAIM-769.md) that a spread of rates gives
 slower-than-exponential decay. Neither says which spreads. The same
 integral is a waiting time's survival with a random rate, P(T > t) =
-E[e^(−βt)], and THEORY-2131's discount function.
+E[e^(−βt)], and [THEORY-2131](../theory.d/THEORY-2131.md)'s discount function.
 
 ## The claim
 
@@ -92,7 +92,7 @@ E[e^(−βt)], and THEORY-2131's discount function.
    zero rate.** c = 1 is f(0) = K finite and positive, which gives
    B(E) ~ K/E. An exponential prior gives the exact 1/(1 + kt) at every t;
    a half-normal or a uniform on [0, b] gives the same tail, 1/(bE) for the
-   uniform (THEORY-2131's uniform case).
+   uniform ([THEORY-2131](../theory.d/THEORY-2131.md)'s uniform case).
 
 ## The check (python3 -I, by the assistant, 2026-11-22)
 
@@ -124,14 +124,14 @@ u ∈ [−60, 8], with log-sum-exp; local log-log slopes between decades of E.
 - Not that the population's heterogeneity must be large: what matters is
   the weight near zero rate, a few very slow members.
 - Not that a tail falling faster than any power is distinguishable from a
-  power law in finite data; the lognormal's slope steepens slowly (CLAIM-803's
+  power law in finite data; the lognormal's slope steepens slowly ([CLAIM-803](CLAIM-803.md)'s
   point).
 
 ## Bearing
 
-It qualifies CLAIM-795's item 4, which holds for a gamma spread and any
+It qualifies [CLAIM-795](CLAIM-795.md)'s item 4, which holds for a gamma spread and any
 spread with power-law weight at zero rate, not for every spread
-(ARG-tmpa8ghr). It refines CLAIM-769's "the exact hyperbola needs a
+([ARG-tmpa8ghr](../arguments.d/ARG-tmpa8ghr.md)). It refines [CLAIM-769](CLAIM-769.md)'s "the exact hyperbola needs a
 particular spread": the asymptotic exponent one needs only a positive,
-finite density at zero rate. For QUESTION-505 it says what sets the
+finite density at zero rate. For [QUESTION-505](../questions.d/QUESTION-505.md) it says what sets the
 mixture row's exponent: the index of the spread's weight at zero rate.

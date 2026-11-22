@@ -30,7 +30,7 @@ summary: >-
   exponents are slopes drawn on log–log plots, with no fit or test.
 ---
 <!-- inactive-ok-file: ARG-149 — Proposed; the argument whose gap this reading fills -->
-<!-- inactive-ok-file: CLAIM-817 CLAIM-830 CLAIM-803 SYNTHESIS-119 THEORY-tmpfrz0k THEORY-tmpzmy66 THEORY-tmphcnj3 ARG-tmp3q9cy ARG-tmpmylwc — Proposed or new; the reading of this work, the arguments filed with it and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-817 CLAIM-830 CLAIM-803 SYNTHESIS-119 THEORY-tmpfrz0k THEORY-tmphcnj3 ARG-tmp3q9cy ARG-tmpmylwc — Proposed or new; the reading of this work, the arguments filed with it and the entries it bears on -->
 
 # NOTE-tmpwgw8e: Barabási and Albert, Emergence of Scaling in Random Networks, read for growth and preferential attachment as the origin of power-law degree tails
 
@@ -39,8 +39,8 @@ summary: >-
 Growth plus preferential attachment, named as the generic mechanism of
 scale-free degree distributions; the mean-field derivation of γ = 3 from
 arrival times; and an argument that removes one ingredient at a time
-(Models A and B) to show both are needed. The reading is THEORY-tmpfrz0k.
-The book chapter that restates it is read in NOTE-tmpnpqc8.
+(Models A and B) to show both are needed. The reading is [THEORY-tmpfrz0k](../theory.d/THEORY-tmpfrz0k.md).
+The book chapter that restates it is read in [NOTE-tmpnpqc8](NOTE-tmpnpqc8.md).
 
 ## Key results
 
@@ -98,38 +98,38 @@ nonlinear kernel k^α.
 
 ## Bearing on the record
 
-- **CLAIM-817** (supports both halves at the base case). Model B shows
+- **[CLAIM-817](../claims.d/CLAIM-817.md)** (supports both halves at the base case). Model B shows
   growth is needed, Model A that preference is, and "scaling is present
   only for α = 1" that the kernel must be linear. This is the lawful
   source for A3's "preferential attachment alone does not guarantee this
-  result", which Mitzenmacher's review did not carry (ARG-149);
-  ARG-tmp3q9cy. The regimes for α ≠ 1 are Krapivsky, Redner and Leyvraz's
-  (NOTE-tmp2z733). "irrespective of the nature and the origin of this
+  result", which Mitzenmacher's review did not carry ([ARG-149](../arguments.d/ARG-149.md));
+  [ARG-tmp3q9cy](../arguments.d/ARG-tmp3q9cy.md). The regimes for α ≠ 1 are Krapivsky, Redner and Leyvraz's
+  ([NOTE-tmp2z733](NOTE-tmp2z733.md)). "irrespective of the nature and the origin of this
   visibility" supports "unequal outcomes need no unequal ability". The
   base case as the claim states it matches pp. 6 to 7, dropping the
   factor m, which is harmless at m = 1; 3 is the mean-field exponent and
   the simulated one is 2.9 ± 0.1.
-- **CLAIM-830** (supports the premise; qualifies one contrast). The
+- **[CLAIM-830](../claims.d/CLAIM-830.md)** (supports the premise; qualifies one contrast). The
   premise is the arrival-time derivation at equal intervals. The paper
   casts nothing in log time and does not mention Gibrat. Model B is a
   fixed-N model with preferential attachment that "at early times ...
   exhibits power-law scaling" before ending as a complete graph. That
   qualifies the claim's Pólya-urn contrast but does not meet its
   `defeated_if`, since the tail is transient and not stationary.
-  ARG-tmpmylwc.
-- **QUESTION-505** (bears on it, leaves it open). γ = 3 is "independent of
+  [ARG-tmpmylwc](../arguments.d/ARG-tmpmylwc.md).
+- **[QUESTION-505](../questions.d/QUESTION-505.md)** (bears on it, leaves it open). γ = 3 is "independent of
   m". γ(p) = 3 − p is stated without derivation and is not obviously a
   ratio of rates: a row the question's partial pattern must fit or set
   aside.
-- **NOTE-tmpleyjh**, **THEORY-tmphcnj3** (contrast). The generality claim
+- **[NOTE-tmpleyjh](NOTE-tmpleyjh.md)**, **[THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)** (contrast). The generality claim
   rests on four networks with slopes drawn by eye. It is the premise
   Broido and Clauset test and most networks fail. The power grid (γ ≃ 4,
   scaling "less prominent") is the kind of infrastructure network they
   class Not Scale Free; whether they class this power grid was not
   checked.
-- **CLAIM-803**, **SYNTHESIS-119** (contrast). "a generic property of many
+- **[CLAIM-803](../claims.d/CLAIM-803.md)**, **[SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)** (contrast). "a generic property of many
   complex networks", inferred from the shape of four tails, is the
-  inference from a power law to its mechanism that CLAIM-803 rejects.
+  inference from a power law to its mechanism that [CLAIM-803](../claims.d/CLAIM-803.md) rejects.
 
 ## Limitations
 

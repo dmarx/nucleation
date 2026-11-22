@@ -200,22 +200,22 @@ cited unread works.
 Three works the account's routes cited unread are now read; they enter
 through the claims they ground, and the account's map is unchanged.
 
-- **Mixtures of exponential rates**: Beck and Cohen (LIT-2962,
-  THEORY-tmpczldx) ground CLAIM-795's item 4 for a gamma spread; a spread
+- **Mixtures of exponential rates**: Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md),
+  [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)) ground [CLAIM-795](../claims.d/CLAIM-795.md)'s item 4 for a gamma spread; a spread
   gives a power law only with power-law weight at zero rate
-  (CLAIM-tmpf9qt9, the assistant's), which narrows the route as the account
+  ([CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md), the assistant's), which narrows the route as the account
   states it.
 - **Sample-space reduction**: Corominas-Murtra, Hanel and Thurner
-  (LIT-2997, THEORY-tmpcfn5g) ground item 5 for the uniform process they
+  ([LIT-2997](../literature.d/LIT-2997.md), [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md)) ground item 5 for the uniform process they
   prove, and give the tunable family.
-- **Growth with a spread of ages**: Reed and Hughes (LIT-3007,
-  THEORY-tmphwf0q) ground item 6 and **support** the link noted from
+- **Growth with a spread of ages**: Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md),
+  [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)) ground item 6 and **support** the link noted from
   Mitzenmacher, that an exponentially distributed observation time turns
   Gibrat's lognormal into a power law: their eq. 9 is that double Pareto.
 
-Relayed from the parallel reading of Barabási's chapter (LIT-2968): its
+Relayed from the parallel reading of Barabási's chapter ([LIT-2968](../literature.d/LIT-2968.md)): its
 §5.11 argues that growth and preferential attachment are necessary and
 sufficient for a scale-free network, a **contrast** with this account's
-first thesis, the same contrast noted on CLAIM-803. The "What it does not
+first thesis, the same contrast noted on [CLAIM-803](../claims.d/CLAIM-803.md). The "What it does not
 say" line calling the works registered and unread now holds for fewer of
 them.

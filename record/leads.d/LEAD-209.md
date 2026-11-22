@@ -71,7 +71,7 @@ variance warning.
 
 | Observation | Tuned criticality | Symmetry (Goldstone, XY) | Flux (turbulence) | Growth (KPZ) | Mixture or heterogeneity |
 |---|---|---|---|---|---|
-| cutoff as the control parameter moves | grows on approach | none in the phase | set by injection and dissipation scales | none needed | fixed by the spread's lowest rate; none if the spread has power-law weight at zero rate (CLAIM-tmpf9qt9) |
+| cutoff as the control parameter moves | grows on approach | none in the phase | set by injection and dissipation scales | none needed | fixed by the spread's lowest rate; none if the spread has power-law weight at zero rate ([CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md)) |
 | cutoff with system size L | ∝ L^D, with collapse s^(−τ) f(s/L^D) | ∝ L | fixed by viscous scale | W ∝ L^α | independent of L |
 | dynamic exponent z, from C(r, t) = r^(−2Δ) F(t/r^z) | model's z | 1 or 2 by mode | from flux scaling | 3/2 in 1D | none |
 | net probability currents, path-space KL(forward ‖ reversed) | zero for an equilibrium point (Ising), nonzero for an absorbing-state one (directed percolation) | zero at equilibrium | nonzero | nonzero | either |
@@ -83,8 +83,8 @@ variance warning.
 superstatistics is turbulence: the heavy tails of velocity differences
 are modelled as an average over the fluctuating energy dissipation rate
 ("In the turbulence applications ... the fluctuating intensive quantity
-is related to the energy dissipation rate of the flow", LIT-2962, p. 9;
-THEORY-tmpczldx). So one system can be read under the flux column and the
+is related to the energy dissipation rate of the flow", [LIT-2962](../literature.d/LIT-2962.md), p. 9;
+[THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)). So one system can be read under the flux column and the
 mixture column at once, and the protocol should score that as a joint
 answer, not a miss. Their third-order term is the row added above: at
 small variance every superstatistics has the same first correction, and
@@ -123,12 +123,12 @@ step.
 
 ## Change of 2026-11-22: Beck and Cohen, read
 
-Beck and Cohen (LIT-2962, read in NOTE-tmpj8ro5; THEORY-tmpczldx)
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md))
 **qualify the table**: a row for the third-order term g(q), a discriminating
 observable the table lacked; the mixture column's cutoff cell restated
 (a spread with power-law weight at zero rate has no cutoff; one bounded
 away from zero has an exponential cutoff at its lowest rate,
-CLAIM-tmpf9qt9); and the paragraph above on the flux and mixture columns.
+[CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md)); and the paragraph above on the flux and mixture columns.
 The trial's "exponential mixture over a gamma spread of rates" is their
 eq. 13, (1 + bE)^(−c). Version 2.
 

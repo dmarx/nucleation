@@ -26,7 +26,7 @@ bears_on:
 corroborates:
 - CLAIM-841
 summary: >-
-  A reproduction, filling the gap that Bak, Tang and Wiesenfeld (LIT-2992)
+  A reproduction, filling the gap that Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md))
   assert their cutoff is finite-size "as we checked by comparing
   simulations for different array sizes" (p. 383) and show no data. The
   2-D sandpile, slowly driven, at L = 16, 32, 64 and 128: the mean
@@ -36,22 +36,22 @@ summary: >-
   complementary distribution falls below 10^(−4) as L^2.58; the
   log-binned slope below the cutoff gives τ ≈ 1.05, 1.07, 1.10 at L = 32,
   64, 128, and the scaling relation τ = 2 − 2/D gives 1.19. Nothing was
-  tuned. It meets the promote_when of THEORY-tmpehudh for the 2-D case.
+  tuned. It meets the promote_when of [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md) for the 2-D case.
   The wording is the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpehudh ARG-tmpb6zg7 CLAIM-841 CLAIM-803 — Proposed or new; the reading this reproduction checks, the argument filed with it, and the claims it bears on -->
+<!-- inactive-ok-file: THEORY-tmpehudh CLAIM-841 CLAIM-803 — Proposed or new; the reading this reproduction checks, the argument filed with it, and the claims it bears on -->
 
 # CLAIM-tmpfwwrf: In the two-dimensional Bak–Tang–Wiesenfeld sandpile, driven one grain at a time with open boundaries and nothing tuned, the avalanche-size distribution is a power law whose cutoff grows with lattice size, roughly as L^2.5 between L = 16 and 128, with an apparent exponent near 1.1 that drifts upward with L
 
 ## The gap it fills
 
-Bak, Tang and Wiesenfeld (LIT-2992, NOTE-tmpnl00y) read criticality off a
+Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md)) read criticality off a
 straight log-log line over two decades on a 50 × 50 lattice and say "The
 falloff at the largest cluster sizes is due to finite-size effects, as we
 checked by comparing simulations for different array sizes" (p. 383),
-with no data for the comparison. That check is the one LEAD-211 and
-CLAIM-803 treat as the dynamical test of a critical power law. This claim
+with no data for the comparison. That check is the one [LEAD-211](../leads.d/LEAD-211.md) and
+[CLAIM-803](CLAIM-803.md) treat as the dynamical test of a critical power law. This claim
 runs it.
 
 ## The run (the assistant's, with python3 -I and numpy)
@@ -110,11 +110,11 @@ all grains. τ is the slope of the log-binned density over
   probe of a pile relaxed from z ≫ K; this counts topplings under slow
   drive, a different observable and protocol.
 - Not that the sandpile is critical in every sense. A cutoff growing with
-  system size is one discriminating observation among those CLAIM-841
+  system size is one discriminating observation among those [CLAIM-841](CLAIM-841.md)
   lists; no data collapse, no response to a control parameter
   and no second observable was tested here.
 - Not the asymptotic exponents, which these sizes cannot give. The upward
   drift of both τ and D shows corrections to scaling at work; the record
   holds no reading on the sandpile's exponents beyond the letter.
 - Not anything about real systems. A model shows a cutoff that grows with
-  size; whether a physical avalanche record does is LEAD-211's question.
+  size; whether a physical avalanche record does is [LEAD-211](../leads.d/LEAD-211.md)'s question.

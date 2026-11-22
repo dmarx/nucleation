@@ -30,7 +30,7 @@ summary: >-
   that generate linear attachment, with the claim that "all known models
   and real systems that are scale-free" have preferential attachment.
 ---
-<!-- inactive-ok-file: CLAIM-817 CLAIM-806 CLAIM-830 CLAIM-803 CLAIM-795 SYNTHESIS-119 THEORY-188 THEORY-tmpzmy66 THEORY-tmpmsncg THEORY-tmphcnj3 ARG-tmp3q9cy ARG-tmpmylwc — Proposed or new; the reading of this work, the arguments filed with it and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-817 CLAIM-806 CLAIM-830 CLAIM-803 CLAIM-795 SYNTHESIS-119 THEORY-188 THEORY-tmpzmy66 THEORY-tmphcnj3 ARG-tmp3q9cy ARG-tmpmylwc — Proposed or new; the reading of this work, the arguments filed with it and the entries it bears on -->
 <!-- inactive-ok-file: LIT-tmphxpqu — Deferred; Dorogovtsev, Mendes and Samukhin, registered and unread -->
 
 # NOTE-tmpnpqc8: Barabási, Network Science, Chapter 5, The Barabási-Albert Model, read for the model's derivations, the regimes of nonlinear attachment and where linear attachment comes from
@@ -42,7 +42,7 @@ A textbook account that puts the Barabási–Albert model's derivations
 function, the nonlinear-kernel regimes and the mechanisms that generate
 linear attachment in one place, and argues that preferential attachment is
 necessary and sufficient for a scale-free network. The reading is
-THEORY-tmpzmy66. The paper it builds on is read in NOTE-tmpwgw8e.
+[THEORY-tmpzmy66](../theory.d/THEORY-tmpzmy66.md). The paper it builds on is read in [NOTE-tmpwgw8e](NOTE-tmpwgw8e.md).
 
 ## Key results
 
@@ -59,7 +59,7 @@ Section numbers are the web edition's.
   theory predicts the correct degree exponent, it fails to accurately
   predict the pre-factors"; p_k = 2m(m+1)/[k(k+1)(k+2)], from
   p_m = 2/(m+2) and p_k = p_{k−1}(k−1)/(k+2). Credited to Dorogovtsev,
-  Mendes and Samukhin [12] (LIT-tmphxpqu), Krapivsky, Redner and Leyvraz
+  Mendes and Samukhin [12] ([LIT-tmphxpqu](../literature.d/LIT-tmphxpqu.md)), Krapivsky, Redner and Leyvraz
   [13] and Bollobás and others [10]. Checked with python3 -I, exactly in
   fractions for m = 1, 2, 3: the closed form satisfies the start and the
   recursion, and its partial sums are 1 − m(m+1)/[(K+1)(K+2)], which tend
@@ -127,35 +127,35 @@ the copying model; optimisation; "luck or reason".
 
 ## Bearing on the record
 
-- **CLAIM-817** (supports the whole title; a rival framing of one aside).
+- **[CLAIM-817](../claims.d/CLAIM-817.md)** (supports the whole title; a rival framing of one aside).
   §5.6 shows that both ingredients are needed, §5.8 gives the regimes and
   "Π(k) needs to depend strictly linearly". The chapter's regimes are
   Krapivsky, Redner and Leyvraz's, credited as such; it is a secondary
-  source beside NOTE-tmp2z733. For α > 1 it backs the claim's
+  source beside [NOTE-tmp2z733](NOTE-tmp2z733.md). For α > 1 it backs the claim's
   condensation (no stationary p_k, k_max ∼ t), though it is looser than
   the paper on how many hubs ("a few super-hubs"). The claim's aside that
-  hyperbolic geometry (THEORY-188) "needs no attachment at all" meets a
+  hyperbolic geometry ([THEORY-188](../theory.d/THEORY-188.md)) "needs no attachment at all" meets a
   rival framing: §§5.9 and 5.11 read optimisation and geometric models,
   Papadopoulos and others among them, as *generating* linear attachment,
   and say all known scale-free models have it. A contrast, not a
-  refutation. ARG-tmp3q9cy.
-- **CLAIM-806** (supports; adds the empirical side). The regimes on both
+  refutation. [ARG-tmp3q9cy](../arguments.d/ARG-tmp3q9cy.md).
+- **[CLAIM-806](../claims.d/CLAIM-806.md)** (supports; adds the empirical side). The regimes on both
   sides of α = 1; the measured α ≈ 1 for citations and the Internet and
   0.9 ± 0.1 for co-authorship and actors place real systems at or just
   below the boundary, by this measure. The chapter draws no analogy to
   criticality.
-- **CLAIM-830** (supports the premise, the age reading and the caveat;
+- **[CLAIM-830](../claims.d/CLAIM-830.md)** (supports the premise, the age reading and the caveat;
   qualifies the urn contrast). "hubs are large because they arrived
   earlier", and γ = 1/β + 1, so the survival exponent 1/β = 2 is the
   claim's λ/g. "fails to accurately predict the pre-factors" matches the
   claim's "accounts for the exponent ... not for any one node's degree".
   No log time and no comparison with Gibrat (Gibrat [4] appears only in
-  the bibliography). Model B, as under NOTE-tmpwgw8e. ARG-tmpmylwc.
-- **QUESTION-505** (supports the partial pattern). (5.10) makes
+  the bibliography). Model B, as under [NOTE-tmpwgw8e](NOTE-tmpwgw8e.md). [ARG-tmpmylwc](../arguments.d/ARG-tmpmylwc.md).
+- **[QUESTION-505](../questions.d/QUESTION-505.md)** (supports the partial pattern). (5.10) makes
   γ − 1 = 1/β; directed copying's γ = (2 − p)/(1 − p) is the formula
   already noted from Mitzenmacher; an attractiveness A shifts the
   exponent, as Newman's k + c does.
-- **NOTE-tmpleyjh**, **THEORY-tmphcnj3** (a parallel and a contrast).
+- **[NOTE-tmpleyjh](NOTE-tmpleyjh.md)**, **[THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)** (a parallel and a contrast).
   Parallel: sublinear attachment as a reason real degree distributions
   deviate, with a stretched exponential "a better fit"; Broido and Clauset
   test a Weibull. The measured α fits their keeping attachment for
@@ -163,15 +163,15 @@ the copying model; optimisation; "luck or reason".
   "all known ... scale-free" against their "relatively weak evidence"
   about mechanism; and the chapter's real exponents of 2 to 5 beside
   their median near 2.
-- **CLAIM-803**, **SYNTHESIS-119** (a parallel and a contrast). §5.7 is the
+- **[CLAIM-803](../claims.d/CLAIM-803.md)**, **[SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)** (a parallel and a contrast). §5.7 is the
   "twice the degree, twice the links" test, conditioned only on degree, so
   the confound of fitness and age goes unaddressed; "necessary and
-  sufficient" is the inference CLAIM-803 rejects.
-- **THEORY-188**, **NOTE-678**, **LIT-865** (a rival framing; see
-  CLAIM-817 above).
-- **LIT-2974** (restated). The chapter reproduces the α ≤ 1 derivation and
+  sufficient" is the inference [CLAIM-803](../claims.d/CLAIM-803.md) rejects.
+- **[THEORY-188](../theory.d/THEORY-188.md)**, **[NOTE-678](NOTE-678.md)**, **[LIT-865](../literature.d/LIT-865.md)** (a rival framing; see
+  [CLAIM-817](../claims.d/CLAIM-817.md) above).
+- **[LIT-2974](../literature.d/LIT-2974.md)** (restated). The chapter reproduces the α ≤ 1 derivation and
   states the α > 1 regimes without derivation.
-- **CLAIM-795**, Pólya-urn entries (background). Image 5.17's "they were
+- **[CLAIM-795](../claims.d/CLAIM-795.md)**, Pólya-urn entries (background). Image 5.17's "they were
   both right" on Simon and Mandelbrot; Eggenberger and Pólya (1923) in the
   bibliography.
 

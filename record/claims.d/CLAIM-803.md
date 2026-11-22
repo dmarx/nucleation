@@ -213,27 +213,27 @@ takes from it. [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md) joins `grounds`
 
 ## Note of 2026-11-22: Beck and Cohen; Corominas-Murtra, Hanel and Thurner; Reed and Hughes, read
 
-- **Corominas-Murtra, Hanel and Thurner** (LIT-2997, NOTE-tmpyqqhq;
-  THEORY-tmpcfn5g) **support the first clause**: a further route to Zipf's
+- **Corominas-Murtra, Hanel and Thurner** ([LIT-2997](../literature.d/LIT-2997.md), [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md);
+  [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md)) **support the first clause**: a further route to Zipf's
   law in word frequencies, beside preferential attachment, Mandelbrot's
-  optimization and Miller's random typing (LIT-tmppzucs), with no feedback.
+  optimization and Miller's random typing ([LIT-tmppzucs](../literature.d/LIT-tmppzucs.md)), with no feedback.
   Their own word example is an instance of what this claim warns against:
   λ = 0.9 is read off a fitted rank slope (p. 4, Fig. 4), with no
   independent measure of nestedness.
-- **Reed and Hughes** (LIT-3007, NOTE-tmpbic9d; THEORY-tmphwf0q):
+- **Reed and Hughes** ([LIT-3007](../literature.d/LIT-3007.md), [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)):
   **background, illustrating the claim**. One mechanism is offered for six
   domains, against self-organized criticality and highly optimized
   tolerance, on log-log plots alone, with no fit or test against the
   lognormal.
-- **Beck and Cohen** (LIT-2962, NOTE-tmpj8ro5; THEORY-tmpczldx) **support
+- **Beck and Cohen** ([LIT-2962](../literature.d/LIT-2962.md), [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)) **support
   it in kind**: their discriminant, the third-order term g(q) of the
   small-variance expansion (p. 9), separates one superstatistics from
-  another, not a mixture from a feedback. The assistant's CLAIM-tmpf9qt9
+  another, not a mixture from a feedback. The assistant's [CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md)
   adds a caution on the fitting step: a lognormal spread of rates gives a
   tail whose log-log slope steepens only slowly (about −2.6 to −10.4 per
   decade over four decades), which a finite sample may read as a power law.
 
-No edge: these are cases of the claim, and it rests on CLAIM-795, which
+No edge: these are cases of the claim, and it rests on [CLAIM-795](CLAIM-795.md), which
 these readings ground.
 
 ## Note of 2026-11-22: readings filed in parallel
@@ -241,17 +241,17 @@ these readings ground.
 Bearings relayed from the readings filed in parallel this day; their
 notes hold the detail, and no edge is written here.
 
-- **Krapivsky, Redner and Leyvraz** (LIT-2974) **support** the first
+- **Krapivsky, Redner and Leyvraz** ([LIT-2974](../literature.d/LIT-2974.md)) **support** the first
   clause: for degree exponents 0.8 ≲ γ ≲ 1 a power law and a stretched
   exponential cannot be told apart up to k = 1000, and their fit to the
   ISI citation data fits both.
-- **Bak, Tang and Wiesenfeld** (LIT-2992) are a **contrast**: they read a
+- **Bak, Tang and Wiesenfeld** ([LIT-2992](../literature.d/LIT-2992.md)) are a **contrast**: they read a
   mechanism off a straight log-log line, the inference this claim denies.
-- **Kesten, read through neighbours** (LIT-3005) **supports** it: Grey's
+- **Kesten, read through neighbours** ([LIT-3005](../literature.d/LIT-3005.md)) **supports** it: Grey's
   result that a power tail of the stationary law may come from the additive
   term B alone, so the same tail need not come from the multiplicative
   balance.
-- **Barabási's chapter** (LIT-2968): its §5.7 test of attachment from
+- **Barabási's chapter** ([LIT-2968](../literature.d/LIT-2968.md)): its §5.7 test of attachment from
   growth data **parallels** this claim's attachment test; its §5.11
   argument that growth and preferential attachment are necessary and
   sufficient for a scale-free network is a **contrast**, a mechanism

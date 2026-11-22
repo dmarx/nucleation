@@ -26,12 +26,12 @@ summary: >-
   E log A < 0, gives Grey's B-driven alternative, and restates Goldie's
   Theorem 5.2 for the max form X = AX ∨ B with the same κ. The paper's
   own result, a slowly varying correction when EA^κ log⁺A = ∞, is not
-  what the record uses. Read as a stand-in for Kesten (LIT-3005).
+  what the record uses. Read as a stand-in for Kesten ([LIT-3005](../literature.d/LIT-3005.md)).
 ---
 <!-- inactive-ok-file: NOTE-tmpy4hcs — Skimmed; the companion stand-in reading for Kesten -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this reading stands in for -->
 <!-- inactive-ok-file: LIT-tmpn76uh — Deferred; Goldie (1991), registered from this reading -->
-<!-- inactive-ok-file: CLAIM-824 ARG-140 TERM-tmpg1vx2 SYNTHESIS-119 LIT-tmph6kst THEORY-tmpsmrhx THEORY-tmpocjqv ARG-tmpn6ufb CLAIM-803 — Proposed, Deferred or new; the entries this reading bears on, its own reading and the argument filed with it -->
+<!-- inactive-ok-file: CLAIM-824 ARG-140 TERM-tmpg1vx2 SYNTHESIS-119 LIT-tmph6kst THEORY-tmpsmrhx ARG-tmpn6ufb CLAIM-803 — Proposed, Deferred or new; the entries this reading bears on, its own reading and the argument filed with it -->
 
 # NOTE-tmpv02cb: Kevei, skimmed for the hypotheses of the Kesten–Grincevičius–Goldie theorem and its reflecting form, as a stand-in for Kesten
 
@@ -42,7 +42,7 @@ case EA^κ log⁺A = ∞, where the tail becomes P{X > x} ∼ c x^(−κ) ℓ(x)
 "ℓ is a nonconstant slowly varying function" (abstract). What the record
 uses is its introduction, which restates the classical theorem, its
 history and its max-equation variant with care. The reading is
-THEORY-tmpsmrhx.
+[THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md).
 
 ## Key results
 
@@ -93,32 +93,32 @@ a negative-drift random walk.
 
 ## Connections
 
-- **What it restates of Kesten (LIT-3005)**: the one-dimensional
+- **What it restates of Kesten ([LIT-3005](../literature.d/LIT-3005.md))**: the one-dimensional
   statement and its hypotheses (results 1, 7), with the attribution that
   Kesten's own proof is d-dimensional (result 2). It does not restate the
   matrix theorem, Kesten's exact hypotheses or his constants; for the
-  matrix form see NOTE-tmpy4hcs (Alsmeyer and Mentemeier), at second hand.
+  matrix form see [NOTE-tmpy4hcs](NOTE-tmpy4hcs.md) (Alsmeyer and Mentemeier), at second hand.
 - **What it adds that is not Kesten's**: Goldie's max form (result 6) and
   Grey's B-driven case (result 4). Goldie (1991) is registered as
-  LIT-tmpn76uh.
+  [LIT-tmpn76uh](../literature.d/LIT-tmpn76uh.md).
 
 ## Bearing on the record
 
-- **CLAIM-824** (Proposed): grounds the claim's Kesten half at second
+- **[CLAIM-824](../claims.d/CLAIM-824.md)** (Proposed): grounds the claim's Kesten half at second
   hand, and corrects its conditions: E|B|^κ, not E[B^κ]; non-degeneracy;
   a two-sided tail that may sit on one side only; E log A < 0 and
   P(A > 1) > 0 follow from EA^κ = 1 and are not separate hypotheses; and
   "even when the process contracts on average" understates, since
   log-contraction is required (results 1, 3, 7). The reflecting floor
   has the same exponent equation (result 6), and a Pareto tail in X can
-  come from B alone (result 4). ARG-tmpn6ufb.
-- **ARG-140** (Proposed): Mitzenmacher's κ = 1 Champernowne example is an
+  come from B alone (result 4). [ARG-tmpn6ufb](../arguments.d/ARG-tmpn6ufb.md).
+- **[ARG-140](../arguments.d/ARG-140.md)** (Proposed): Mitzenmacher's κ = 1 Champernowne example is an
   instance of Goldie's max theorem (result 6), not only of the equation.
-- **TERM-tmpg1vx2, SYNTHESIS-119, QUESTION-505, CLAIM-803** (filer notes
+- **[TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md), [SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md), [QUESTION-505](../questions.d/QUESTION-505.md), [CLAIM-803](../claims.d/CLAIM-803.md)** (filer notes
   elsewhere): the two floors share one exponent equation; the tilted
   measure is the formal sense of "growth just balances"; B-driven tails
   sharpen the demand for dynamics.
-- **LIT-tmph6kst** (Gabaix, Deferred): a parallel; Gabaix's lower
+- **[LIT-tmph6kst](../literature.d/LIT-tmph6kst.md)** (Gabaix, Deferred): a parallel; Gabaix's lower
   reflecting barrier is of the max form. Kevei does not cite Gabaix.
 
 ## Limitations

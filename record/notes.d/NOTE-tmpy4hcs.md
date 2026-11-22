@@ -38,7 +38,7 @@ A shorter proof, by Markov renewal theory and Harris recurrence, of the
 multidimensional tail theorem for random difference equations with
 regular matrices: "A rather long proof of this result, originally stated
 by Kesten at the end of his famous article [12], was given by LePage [15]"
-(abstract). The reading is THEORY-tmpocjqv.
+(abstract). The reading is [THEORY-tmpocjqv](../theory.d/THEORY-tmpocjqv.md).
 
 ## Key results
 
@@ -67,20 +67,20 @@ theorem.
 
 ## Connections
 
-- **What it restates of Kesten (LIT-3005)**: only that Kesten stated a
+- **What it restates of Kesten ([LIT-3005](../literature.d/LIT-3005.md))**: only that Kesten stated a
   matrix tail theorem of this kind "with one extra condition" (Remark 1),
   and, in a passage the filer found by search in the skipped §5, that
   "Kesten [12] imposes an additional assumption involving so-called
   feasible matrices" (p. 14). It does not give Kesten's hypotheses, and it
-  does not restate the one-dimensional case; for that see NOTE-tmpv02cb
+  does not restate the one-dimensional case; for that see [NOTE-tmpv02cb](NOTE-tmpv02cb.md)
   (Kevei).
-- **THEORY-407, NOTE-078** (Furstenberg–Kesten, the multiplicative
+- **[THEORY-407](../theory.d/THEORY-407.md), [NOTE-078](NOTE-078.md)** (Furstenberg–Kesten, the multiplicative
   ergodic theorem): background. The negative Liapunov exponent β here
   plays the part of E log A < 0.
 
 ## Bearing on the record
 
-- **CLAIM-824** (Proposed): background to its Kesten attribution. Kesten's
+- **[CLAIM-824](../claims.d/CLAIM-824.md)** (Proposed): background to its Kesten attribution. Kesten's
   1973 theorem is a matrix theorem; the scalar X = AX + B the claim uses
   is its one-dimensional case, re-proved by Goldie.
 

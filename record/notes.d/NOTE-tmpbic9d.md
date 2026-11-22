@@ -100,33 +100,33 @@ birth-death point; log-periodic oscillation; Yule process; rank-size plot.
 
 ## Bearing on the record
 
-- **CLAIM-795, item 6: grounds it, and qualifies its framing.** Result 1
+- **[CLAIM-795](../claims.d/CLAIM-795.md), item 6: grounds it, and qualifies its framing.** Result 1
   is item 6 exactly, with ν = λ and μ = g. It is the paper's opening
   illustration, not its result: with noise the upper exponent is the
   positive root of the quadratic, not ν/μ (the limit σ → 0), and a lower
   power tail appears. "Even identical growth rates can coexist with highly
   unequal sizes" is A's gloss, true of the deterministic case and not said
-  by the paper. ARG-tmpadlas argues the support.
-- **CLAIM-795, item 1, CLAIM-815, CASE-303: a contrast.** The killed
+  by the paper. [ARG-tmpadlas](../arguments.d/ARG-tmpadlas.md) argues the support.
+- **[CLAIM-795](../claims.d/CLAIM-795.md), item 1, [CLAIM-815](../claims.d/CLAIM-815.md), [CASE-303](../cases.d/CASE-303.md): a contrast.** The killed
   supercritical Galton–Watson process is a second branching route, with
   exponent 1 + κ, unrelated to the critical s^(−3/2).
-- **QUESTION-505: qualifies the partial pattern.** Only the deterministic
+- **[QUESTION-505](../questions.d/QUESTION-505.md): qualifies the partial pattern.** Only the deterministic
   case is a bare ratio of rates. With noise α solves a quadratic in μ, σ²
   and ν; at zero log drift α = √(2ν)/σ, a ratio under a square root. The
   birth-death ν/(λ − δ) and the branching ln[1/(1 − p)]/ln μ fit the
   pattern.
-- **SYNTHESIS-119: supports** its link that an exponentially distributed
+- **[SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md): supports** its link that an exponentially distributed
   observation time turns Gibrat's lognormal into a power law (eq. 9).
-- **CLAIM-803: background, illustrating it**: one mechanism offered for
+- **[CLAIM-803](../claims.d/CLAIM-803.md): background, illustrating it**: one mechanism offered for
   six domains, on log-log plots alone.
-- **THEORY-2150, NOTE-tmpa7yd2: consistent.** Mitzenmacher's zero-drift
+- **[THEORY-2150](../theory.d/THEORY-2150.md), [NOTE-tmpa7yd2](NOTE-tmpa7yd2.md): consistent.** Mitzenmacher's zero-drift
   double Pareto is eq. 9 at μ = ½σ²; Newman's α = 1 − a/b is result 1's
   density exponent. Newman's reading covers the deterministic case only.
-- **Filer A's and C's files** (reported, not noted): CLAIM-824 (Gibrat
+- **Filer A's and C's files** (reported, not noted): [CLAIM-824](../claims.d/CLAIM-824.md) (Gibrat
   plus a random observation time is that claim's bullet; supports),
-  CLAIM-830 (result 3 and Yule's entry of genera support the age half and
-  the role of entry, not the identification with attachment), CLAIM-817
-  (parallel: entry in a non-network setting), CLAIM-806 (contrast: balance
+  [CLAIM-830](../claims.d/CLAIM-830.md) (result 3 and Yule's entry of genera support the age half and
+  the role of entry, not the identification with attachment), [CLAIM-817](../claims.d/CLAIM-817.md)
+  (parallel: entry in a non-network setting), [CLAIM-806](../claims.d/CLAIM-806.md) (contrast: balance
   at λ = δ kills the power law here).
 
 ## Limitations

@@ -62,8 +62,8 @@ preferential attachment can subsequently support cascading events."
 
 ## Note of 2026-11-22: Krapivsky, Redner and Leyvraz, and Barabási, read
 
-**A contrast** (LIT-2974, NOTE-tmp2z733; LIT-2968, NOTE-tmpnpqc8). The
-objection to this claim, CLAIM-806, says linear attachment is itself
+**A contrast** ([LIT-2974](../literature.d/LIT-2974.md), [NOTE-tmp2z733](../notes.d/NOTE-tmp2z733.md); [LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)). The
+objection to this claim, [CLAIM-806](CLAIM-806.md), says linear attachment is itself
 balanced at a boundary. The readings give it support in their own words:
 Krapivsky, Redner and Leyvraz call γ = 1 "the borderline case" and γ > 1
 "akin to gelation", and the chapter says "Π(k) needs to depend strictly

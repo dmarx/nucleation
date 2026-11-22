@@ -34,8 +34,8 @@ Registered on 2026-11-22 while filing Newman's review ([LIT-2976](LIT-2976.md)),
 
 ## Note of 2026-11-22: Corominas-Murtra, Hanel and Thurner, read
 
-A **rival route** to the same law (LIT-2997, read in NOTE-tmpyqqhq;
-THEORY-tmpcfn5g): sample-space reduction, like random typing, gives Zipf's
+A **rival route** to the same law ([LIT-2997](LIT-2997.md), read in [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md);
+[THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md)): sample-space reduction, like random typing, gives Zipf's
 law in word frequencies with no feedback, by nested choices in sentence
 formation rather than random letters and spaces. The paper does not cite
 or compare Miller. Both can hold of different texts; neither excludes the

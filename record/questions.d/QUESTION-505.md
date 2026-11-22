@@ -119,29 +119,29 @@ and 34% below 2, against the Barabási–Albert 3. [THEORY-tmphcnj3](../theory.d
 
 Three readings **bear on the question**, and each fits the partial
 pattern as a root of a balance, though not always as a ratio.
-THEORY-tmpczldx, THEORY-tmpcfn5g and THEORY-tmphwf0q `bear_on` it.
+[THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md), [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md) and [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md) `bear_on` it.
 
-- **The gamma-mixture row** (Beck and Cohen, LIT-2962, NOTE-tmpj8ro5). The
+- **The gamma-mixture row** (Beck and Cohen, [LIT-2962](../literature.d/LIT-2962.md), [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md)). The
   exponent is the gamma's shape c, which Beck reads as half the number of
   squared Gaussian degrees of freedom summed into the fluctuating parameter
   (eq. 12, p. 5), so the exponent counts the fluctuating environment's
   degrees of freedom. Averaging normalized densities instead of Boltzmann
   factors (type B) shifts it, c → c + ½ for E = ½u² (p. 9). The assistant's
-  CLAIM-tmpf9qt9 generalizes the row: for any mixture of exponentials the
+  [CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md) generalizes the row: for any mixture of exponentials the
   exponent is the index of the spread's weight at zero rate (f ~ β^(c−1)
   gives c), and a spread without such weight gives no exponent at all.
 - **A candidate row, noisy sample-space reduction** (Corominas-Murtra,
-  Hanel and Thurner, LIT-2997, NOTE-tmpyqqhq): rank exponent λ, frequency
+  Hanel and Thurner, [LIT-2997](../literature.d/LIT-2997.md), [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md)): rank exponent λ, frequency
   survival exponent 1/λ, where λ is the share of nested steps among all
   steps. In ratio form, p(i + 1)/p(i) = (1 + λ/i)^(−1), a hazard λ/i in rank.
   **The assistant's observation**: this is the same formula as
   Mitzenmacher's preferential attachment with a uniform share α
-  (THEORY-2150), whose density exponent (2 − α)/(1 − α) is a survival
+  ([THEORY-2150](../theory.d/THEORY-2150.md)), whose density exponent (2 − α)/(1 − α) is a survival
   exponent 1/(1 − α); and the Barabási chapter's directed copying,
   γ = (2 − p)/(1 − p), is the same again. In all three the survival
   exponent is one over the share of the structured choice, the rest being
   uniform (checked: (2 − a)/(1 − a) − 1 = 1/(1 − a) at a = 0.2, 0.5, 0.9).
-- **The Reed row qualified** (Reed and Hughes, LIT-3007, NOTE-tmpbic9d).
+- **The Reed row qualified** (Reed and Hughes, [LIT-3007](../literature.d/LIT-3007.md), [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md)).
   Only deterministic growth gives the bare ratio ν/μ. With noise the upper
   exponent α is the positive root of ½σ²s² + (μ − ½σ²)s − ν = 0, √(2ν)/σ at
   zero log drift. **The assistant's reading**: the left side is the growth
@@ -156,15 +156,15 @@ THEORY-tmpczldx, THEORY-tmpcfn5g and THEORY-tmphwf0q `bear_on` it.
 Bearings relayed from the readings filed in parallel this day (their
 notes hold the detail; no edge is written here):
 
-- **Krapivsky, Redner and Leyvraz** (LIT-2974): ν = 1 + μ/a∞ for an
+- **Krapivsky, Redner and Leyvraz** ([LIT-2974](../literature.d/LIT-2974.md)): ν = 1 + μ/a∞ for an
   asymptotically linear kernel, but μ depends on the whole kernel, so the
   exponent is not set by the large-degree behaviour alone. Evidence that
   some exponents are roots of a global condition, not local ratios.
-- **Barabási's chapter** (LIT-2968): γ − 1 = 1/β, the survival exponent the
+- **Barabási's chapter** ([LIT-2968](../literature.d/LIT-2968.md)): γ − 1 = 1/β, the survival exponent the
   reciprocal of the growth exponent of a node's degree; directed copying
   γ = (2 − p)/(1 − p), above.
-- **Barabási and Albert** (LIT-3004): γ(p) = 3 − p is stated without
+- **Barabási and Albert** ([LIT-3004](../literature.d/LIT-3004.md)): γ(p) = 3 − p is stated without
   derivation; a candidate row to fit to the pattern or set aside until
   derived.
-- **Kesten, read through neighbours** (LIT-3005): κ from E[A^κ] = 1
+- **Kesten, read through neighbours** ([LIT-3005](../literature.d/LIT-3005.md)): κ from E[A^κ] = 1
   supports the Kesten row.

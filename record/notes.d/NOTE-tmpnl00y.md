@@ -32,7 +32,7 @@ summary: >-
   mechanism" of 1/f noise and fractals. Slow drive, separated time scales
   and conservation are not stated as conditions.
 ---
-<!-- inactive-ok-file: THEORY-tmpehudh CLAIM-841 CLAIM-795 CLAIM-803 CLAIM-809 CLAIM-850 CLAIM-804 CLAIM-815 CASE-303 SYNTHESIS-119 TERM-142 CLAIM-tmpfwwrf ARG-tmp1zu0m ARG-tmpb6zg7 — Proposed or new; the entries this reading bears on, its own reading, the reproduction and the arguments filed with it -->
+<!-- inactive-ok-file: THEORY-tmpehudh CLAIM-841 CLAIM-795 CLAIM-803 CLAIM-809 CLAIM-850 CLAIM-804 SYNTHESIS-119 TERM-142 CLAIM-tmpfwwrf ARG-tmp1zu0m — Proposed or new; the entries this reading bears on, its own reading, the reproduction and the arguments filed with it -->
 
 # NOTE-tmpnl00y: Bak, Tang and Wiesenfeld, read for the sandpile and the claim that criticality is an attractor reached without tuning
 
@@ -41,7 +41,7 @@ summary: >-
 It names and proposes self-organized criticality: a critical point that is
 an attractor of the dynamics, reached with no tuned parameter. It gives the
 minimal-stability and percolation heuristic for why, and introduces the
-sandpile automaton as the model. The reading is THEORY-tmpehudh.
+sandpile automaton as the model. The reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md).
 
 ## Key results
 
@@ -122,26 +122,26 @@ cutoff; 1/f noise; universality (left open).
 
 ## Bearing on the record
 
-- **QUESTION-508**: one partial answer, relaxation stopping at marginal
+- **[QUESTION-508](../questions.d/QUESTION-508.md)**: one partial answer, relaxation stopping at marginal
   stability by analogy with percolation, needing d ≥ 2; the slow-drive,
   time-scale and conservation conditions the question lists are the later
   framing, not this paper's.
-- **CLAIM-841**: supports its bullet that SOC reaches a critical point
+- **[CLAIM-841](../claims.d/CLAIM-841.md)**: supports its bullet that SOC reaches a critical point
   without outside tuning (result 1); contrasts with its thesis, since the
   paper infers criticality from a straight log-log line (result 8) and
-  makes SOC the common mechanism of turbulence too (result 2). ARG-tmp1zu0m.
-- **CLAIM-692**: a contrast; the paper offers 1/f as SOC's signature
+  makes SOC the common mechanism of turbulence too (result 2). [ARG-tmp1zu0m](../arguments.d/ARG-tmp1zu0m.md).
+- **[CLAIM-692](../claims.d/CLAIM-692.md)**: a contrast; the paper offers 1/f as SOC's signature
   (result 11), though its own spectra are f^(−1.58) and f^(−1.1).
-- **LEAD-211**: a precedent; the finite-size check is asserted (result 9)
-  and not shown. The record's reproduction, CLAIM-tmpfwwrf, shows it.
-- **CLAIM-795, CLAIM-803, LEAD-209, SYNTHESIS-119** (notes left to the
+- **[LEAD-211](../leads.d/LEAD-211.md)**: a precedent; the finite-size check is asserted (result 9)
+  and not shown. The record's reproduction, [CLAIM-tmpfwwrf](../claims.d/CLAIM-tmpfwwrf.md), shows it.
+- **[CLAIM-795](../claims.d/CLAIM-795.md), [CLAIM-803](../claims.d/CLAIM-803.md), [LEAD-209](../leads.d/LEAD-209.md), [SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)** (notes left to the
   filers holding them): τ ≈ 0.98 and 1.35 without any rich-get-richer
   rule; the paper reads mechanism from the distribution's shape, which
-  CLAIM-803 warns against, and runs one dynamical check.
-- **CLAIM-809, CLAIM-850**: background; their "marginal stability" is a
+  [CLAIM-803](../claims.d/CLAIM-803.md) warns against, and runs one dynamical check.
+- **[CLAIM-809](../claims.d/CLAIM-809.md), [CLAIM-850](../claims.d/CLAIM-850.md)**: background; their "marginal stability" is a
   scalar map near a → 1, BTW's "minimally stable" a spatial percolation
   threshold.
-- **CLAIM-804, THEORY-1348, TERM-142**: background, and TERM-142's sense
+- **[CLAIM-804](../claims.d/CLAIM-804.md), [THEORY-1348](../theory.d/THEORY-1348.md), [TERM-142](../terms.d/TERM-142.md)**: background, and [TERM-142](../terms.d/TERM-142.md)'s sense
   of "scale-free" spans both a heavy-tailed marginal and a spectrum, as
   this paper's results do.
 

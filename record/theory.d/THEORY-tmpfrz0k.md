@@ -20,13 +20,13 @@ source:
 bears_on:
 - QUESTION-505
 summary: >-
-  Barabási & Albert (1999), LIT-3004, read in the arXiv preprint in
-  NOTE-tmpwgw8e. The record's source for the base case of CLAIM-817 and
-  the premise of CLAIM-830, and for A3's sentence that attachment alone
-  does not guarantee a power law (ARG-tmp3q9cy). The sharp edge: the
+  Barabási & Albert (1999), [LIT-3004](../literature.d/LIT-3004.md), read in the arXiv preprint in
+  [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md). The record's source for the base case of [CLAIM-817](../claims.d/CLAIM-817.md) and
+  the premise of [CLAIM-830](../claims.d/CLAIM-830.md), and for A3's sentence that attachment alone
+  does not guarantee a power law ([ARG-tmp3q9cy](../arguments.d/ARG-tmp3q9cy.md)). The sharp edge: the
   proposal that the mechanism is generic rests on four networks whose
   slopes were drawn by eye, the premise Broido and Clauset test
-  (THEORY-tmphcnj3). Proposed until the print text and a replication
+  ([THEORY-tmphcnj3](THEORY-tmphcnj3.md)). Proposed until the print text and a replication
   confirm it.
 ---
 <!-- inactive-ok-file: THEORY-tmpmsncg THEORY-tmpzmy66 — Proposed; the readings beside this one -->
@@ -37,8 +37,8 @@ summary: >-
 ## Source
 
 Barabási & Albert (1999), "Emergence of Scaling in Random Networks",
-Science 286, 509, LIT-3004, read in the arXiv preprint (cond-mat/9910332)
-in NOTE-tmpwgw8e.
+Science 286, 509, [LIT-3004](../literature.d/LIT-3004.md), read in the arXiv preprint (cond-mat/9910332)
+in [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md).
 
 ## What was actually shown
 
@@ -63,7 +63,7 @@ in this model.
   or test, and the model gives 3.
 - Not a derivation of the nonlinear-kernel regimes; that is one sentence
   on simulations, and the regimes are Krapivsky, Redner and Leyvraz's
-  (THEORY-tmpmsncg).
+  ([THEORY-tmpmsncg](THEORY-tmpmsncg.md)).
 - Not that Model B never shows a power law: it does, transiently.
 - Not that 3 is exact for the stochastic model; the exact distribution
-  (2m(m+1)/[k(k+1)(k+2)]) is later work (THEORY-tmpzmy66).
+  (2m(m+1)/[k(k+1)(k+2)]) is later work ([THEORY-tmpzmy66](THEORY-tmpzmy66.md)).

@@ -45,8 +45,8 @@ summary: >-
   A's, from A3 §2 and §4 of the exchange "Rich Get Richer Power Laws"
   (2026-11-20). W_{t+1} = A_t W_t gives log W as a sum, hence a lognormal
   by the central limit theorem, with every unit facing the same returns.
-  Adding B_t (W_{t+1} = A_t W_t + B_t, Kesten, LIT-3005, known through
-  Kevei's restatement, THEORY-tmpsmrhx) gives P(W > x) ∝ x^(−κ) with
+  Adding B_t (W_{t+1} = A_t W_t + B_t, Kesten, [LIT-3005](../literature.d/LIT-3005.md), known through
+  Kevei's restatement, [THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md)) gives P(W > x) ∝ x^(−κ) with
   E[A^κ] = 1, which forces E[log A] < 0, so "a process with an overall
   stabilizing tendency can still generate extreme outcomes". Checked by
   simulation in this session: with log A ~ N(−0.05, 0.3²), κ = 1.111 and
@@ -81,8 +81,8 @@ fixed time, rather than a true power-law tail."
 With an additive term, W_{t+1} = A_t W_t + B_t, "Under suitable conditions,
 including an overall tendency toward contraction but occasional growth
 multipliers greater than one", the stationary law has P(W > x) ∝ x^(−κ)
-with "**E[A^κ] = 1**" (Kesten, LIT-3005; the theorem as Kevei restates it is
-THEORY-tmpsmrhx). "Rare sequences of favorable
+with "**E[A^κ] = 1**" (Kesten, [LIT-3005](../literature.d/LIT-3005.md); the theorem as Kevei restates it is
+[THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md)). "Rare sequences of favorable
 multipliers compound into exceptionally large values."
 
 The record holds geometric Brownian motion and its time-average growth
@@ -200,8 +200,8 @@ unchanged.
 
 ## Change of 2026-11-22
 
-After Kesten (LIT-3005) was found Unfetched and Kevei (LIT-tmpk12vu) and
-Alsmeyer and Mentemeier (LIT-tmpt282z) were read in its place:
+After Kesten ([LIT-3005](../literature.d/LIT-3005.md)) was found Unfetched and Kevei ([LIT-tmpk12vu](../literature.d/LIT-tmpk12vu.md)) and
+Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md)) were read in its place:
 
 - **`defeated_if`** now carries the theorem's conditions as Kevei states
   them (p. 1): E|B|^κ rather than E[B^κ], since B may be signed;
@@ -217,15 +217,15 @@ Alsmeyer and Mentemeier (LIT-tmpt282z) were read in its place:
   logarithm". E[A] itself is at least one whenever κ ≤ 1 (by Jensen,
   E[A] ≥ E[A^κ]^(1/κ) = 1); in the checked example above κ = 1.111 and
   E[A] = e^(−0.05 + 0.045) = 0.995.
-- **`grounds`** swaps LIT-3005, unread, for THEORY-tmpsmrhx, Kevei's
-  restatement (ARG-tmpn6ufb). Version 2. The thesis and status are
+- **`grounds`** swaps [LIT-3005](../literature.d/LIT-3005.md), unread, for [THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md), Kevei's
+  restatement ([ARG-tmpn6ufb](../arguments.d/ARG-tmpn6ufb.md)). Version 2. The thesis and status are
   unchanged.
 
 ## Note of 2026-11-22: Kevei; Alsmeyer and Mentemeier, read in Kesten's place
 
-Kevei (LIT-tmpk12vu, skimmed in NOTE-tmpv02cb; the reading is
-THEORY-tmpsmrhx) and Alsmeyer and Mentemeier (LIT-tmpt282z, NOTE-tmpy4hcs,
-THEORY-tmpocjqv) were read because Kesten's paper is behind a WAF
+Kevei ([LIT-tmpk12vu](../literature.d/LIT-tmpk12vu.md), skimmed in [NOTE-tmpv02cb](../notes.d/NOTE-tmpv02cb.md); the reading is
+[THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md)) and Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md), [NOTE-tmpy4hcs](../notes.d/NOTE-tmpy4hcs.md),
+[THEORY-tmpocjqv](../theory.d/THEORY-tmpocjqv.md)) were read because Kesten's paper is behind a WAF
 challenge.
 
 - **Supports the Kesten half, at second hand.** Kesten "proved that if
@@ -238,15 +238,15 @@ challenge.
 - **Joins the two floors under one exponent equation.** The note of
   2026-11-21 above separates an additive floor (Kesten's B) from a
   reflecting minimum (Mitzenmacher's). The reflecting form X = AX ∨ B
-  has its own theorem, Goldie's Theorem 5.2 (LIT-tmpn76uh), with the same
+  has its own theorem, Goldie's Theorem 5.2 ([LIT-tmpn76uh](../literature.d/LIT-tmpn76uh.md)), with the same
   conditions and the same κ: "P{X > x} ∼ cx−κ with some c ≥ 0, and c > 0
   if and only if P{B > 0} > 0" (Kevei, p. 4). So the claim's two kinds of
   floor give the same exponent; what differs is only the construction.
   The section "Not mutually exclusive, made concrete" holds for both.
 - **Qualifies: a Pareto tail can come from B alone** (Grey, via Kevei,
-  p. 2), now in "What it does not say". This sharpens CLAIM-803's demand
+  p. 2), now in "What it does not say". This sharpens [CLAIM-803](CLAIM-803.md)'s demand
   for dynamics: the stationary tail does not name its source.
 - **Leaves the lognormal half untouched.**
 
-THEORY-tmpsmrhx is added to `grounds` and LIT-3005 removed
-(ARG-tmpn6ufb). Status unchanged.
+[THEORY-tmpsmrhx](../theory.d/THEORY-tmpsmrhx.md) is added to `grounds` and [LIT-3005](../literature.d/LIT-3005.md) removed
+([ARG-tmpn6ufb](../arguments.d/ARG-tmpn6ufb.md)). Status unchanged.

@@ -25,7 +25,7 @@ source:
 bears_on:
 - QUESTION-505
 summary: >-
-  Reed and Hughes (2002), LIT-3007, read in NOTE-tmpbic9d. Killing
+  Reed and Hughes (2002), [LIT-3007](../literature.d/LIT-3007.md), read in [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md). Killing
   exponential growth at a random time gives power-law tails; with noise
   the law is a double Pareto whose exponents solve a quadratic. Support for
   its applications is visual. Proposed until the general double Pareto is
@@ -37,7 +37,7 @@ summary: >-
 
 ## Source
 
-Reed and Hughes (2002), LIT-3007, read in NOTE-tmpbic9d from the published
+Reed and Hughes (2002), [LIT-3007](../literature.d/LIT-3007.md), read in [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md) from the published
 version on the first author's faculty page.
 
 ## What was actually shown
@@ -64,7 +64,7 @@ Galton–Watson processes, with proofs elsewhere.
 
 ## Connections
 
-Item 6 of CLAIM-795; SYNTHESIS-119's random observation time; CLAIM-824's
-Gibrat-plus-random-time route (filer A's file). Mitzenmacher (THEORY-2150)
-reports it and derives the zero-drift case. It `bears_on` QUESTION-505. It
-is not in `corroborates` on CLAIM-795: the claim's item 6 grounds on it.
+Item 6 of [CLAIM-795](../claims.d/CLAIM-795.md); [SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)'s random observation time; [CLAIM-824](../claims.d/CLAIM-824.md)'s
+Gibrat-plus-random-time route (filer A's file). Mitzenmacher ([THEORY-2150](THEORY-2150.md))
+reports it and derives the zero-drift case. It `bears_on` [QUESTION-505](../questions.d/QUESTION-505.md). It
+is not in `corroborates` on [CLAIM-795](../claims.d/CLAIM-795.md): the claim's item 6 grounds on it.

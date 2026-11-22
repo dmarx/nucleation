@@ -38,7 +38,7 @@ degree-dependent attachment kernels in a growing tree. It shows that a
 power-law degree distribution is the borderline case of linear attachment,
 flanked by stretched exponentials below and condensation onto one site
 ("gelation") above, and that within the linear case the exponent is set by
-the kernel's details, not fixed at 3. The reading is THEORY-tmpmsncg.
+the kernel's details, not fixed at 3. The reading is [THEORY-tmpmsncg](../theory.d/THEORY-tmpmsncg.md).
 
 ## Key results
 
@@ -118,48 +118,48 @@ popular site k_max; the age-and-connectivity distribution c_k(t, a).
 
 Reference 20 is Dorogovtsev, Mendes and Samukhin (cond-mat/0004434,
 Physical Review Letters 85, 4633), with overlapping results for the linear
-case, registered here as LIT-tmphxpqu and unread. Reference 16, Redner's
+case, registered here as [LIT-tmphxpqu](../literature.d/LIT-tmphxpqu.md) and unread. Reference 16, Redner's
 citation data, is not held.
 
 ## Bearing on the record
 
-- **CLAIM-817** (supports the kernel half; leaves open the entry half).
+- **[CLAIM-817](../claims.d/CLAIM-817.md)** (supports the kernel half; leaves open the entry half).
   The claim's four regimes are the paper's, derived exactly, and "A power
   law distribution N_k ∼ k^−ν arises only for γ = 1". The exchange's last
   row ("potentially winner-take-all") is too weak: the paper says "winner
   take all" without hedging, and the claim's correction, condensation onto
   one node, is the paper's. The paper always has entry, so the claim's
   "together with continual entry" is not tested here. The `grounds` entry
-  ARG-149 said the regimes rest on; ARG-tmpqxprw.
-- **CLAIM-806** (supports the marginality; qualifies the table). The paper
+  [ARG-149](../arguments.d/ARG-149.md) said the regimes rest on; [ARG-tmpqxprw](../arguments.d/ARG-tmpqxprw.md).
+- **[CLAIM-806](../claims.d/CLAIM-806.md)** (supports the marginality; qualifies the table). The paper
   calls γ = 1 "the borderline case" and γ > 1 "akin to gelation". The
   table's "k^(−3)" holds only for A_k = k; the borderline is the class of
   asymptotically linear kernels, with ν anywhere above 2, which is the
   claim's "line in a larger space of kernels" with the exponent now checked
   (ν = 1 + μ/a∞). Above the boundary is a cascade of transitions, not a
   single regime. Its `defeated_if` is not met: no γ ≠ 1 tail is a power
-  law. ARG-tmpqxprw.
-- **CLAIM-796** (contrast). The claim CLAIM-806 objects to; "the
+  law. [ARG-tmpqxprw](../arguments.d/ARG-tmpqxprw.md).
+- **[CLAIM-796](../claims.d/CLAIM-796.md)** (contrast). The claim [CLAIM-806](../claims.d/CLAIM-806.md) objects to; "the
   borderline case" is evidence for the objection.
-- **ARG-149** (supports its verdict). The argument says the kernel regimes
+- **[ARG-149](../arguments.d/ARG-149.md)** (supports its verdict). The argument says the kernel regimes
   rest on this work; read, they do.
-- **NOTE-2237** (parallel). Mitzenmacher's mixing model moves the exponent
+- **[NOTE-2237](NOTE-2237.md)** (parallel). Mitzenmacher's mixing model moves the exponent
   by mixing uniform with linear attachment, c_j ∼ j^(−(2−α)/(1−α)); this
   paper's asymptotically linear kernel moves ν the same way. Two routes to
   one fact, a non-universal exponent within linear attachment.
-- **CLAIM-830** (supports the role of entry in the solution; leaves the
+- **[CLAIM-830](../claims.d/CLAIM-830.md)** (supports the role of entry in the solution; leaves the
   no-entry case open). The source term is "the continuous introduction of
   new sites", and "old sites are better connected" fits the age mechanism.
-- **CLAIM-803** (supports one clause). The indistinguishability remark and
+- **[CLAIM-803](../claims.d/CLAIM-803.md)** (supports one clause). The indistinguishability remark and
   the ISI fit that fits both a stretched exponential and a power law are
   instances of "a power law does not identify its mechanism".
-- **QUESTION-505** (bears on it). ν − 1 = μ/a∞ is another ratio, the
+- **[QUESTION-505](../questions.d/QUESTION-505.md)** (bears on it). ν − 1 = μ/a∞ is another ratio, the
   normalisation's growth rate over the kernel's asymptotic slope, and one
   the kernel tunes; also a counterweight, since μ depends on the whole
   kernel (Eq. 8), not on two named rates.
-- **SYNTHESIS-119** (background). Its cumulative-advantage line rests on
-  CLAIM-817, which this reading grounds.
-- **NOTE-678**, **THEORY-188** (background). NOTE-678 names "the standard
+- **[SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)** (background). Its cumulative-advantage line rests on
+  [CLAIM-817](../claims.d/CLAIM-817.md), which this reading grounds.
+- **[NOTE-678](NOTE-678.md)**, **[THEORY-188](../theory.d/THEORY-188.md)** (background). [NOTE-678](NOTE-678.md) names "the standard
   master-equation treatment of growing networks" of this paper; no new
   bearing.
 

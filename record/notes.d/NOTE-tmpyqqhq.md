@@ -96,33 +96,33 @@ ratio λ as a degree of nestedness; rank against frequency exponent,
 
 ## Bearing on the record
 
-- **CLAIM-795, item 5: grounds it.** Eq. 1 and its proof are item 5's
+- **[CLAIM-795](../claims.d/CLAIM-795.md), item 5: grounds it.** Eq. 1 and its proof are item 5's
   construction exactly, and the abstract places it outside
   "multiplicative, preferential, or self-organised critical processes",
   the claim's "no positive feedback". The `defeated_if` names the uniform
   process, the case proved. Item 5 no longer rests on the claim's own
   check alone. It gains the tunable family p(i) ∝ i^(−λ). The abstract's
-  "necessarily lead to Zipf's law" outruns the proof. ARG-tmpcx0it argues
+  "necessarily lead to Zipf's law" outruns the proof. [ARG-tmpcx0it](../arguments.d/ARG-tmpcx0it.md) argues
   the support.
-- **ARG-tmp3ppjy: leaves its verdict standing; fills the gap it names.**
+- **[ARG-tmp3ppjy](../arguments.d/ARG-tmp3ppjy.md): leaves its verdict standing; fills the gap it names.**
   Newman is cited here only for the rank-to-frequency relation.
-- **NOTE-tmpa7yd2, THEORY-tmp6jdas: consistent background.**
-- **QUESTION-505: fits the partial pattern, a candidate row.** The rank
+- **[NOTE-tmpa7yd2](NOTE-tmpa7yd2.md), [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md): consistent background.**
+- **[QUESTION-505](../questions.d/QUESTION-505.md): fits the partial pattern, a candidate row.** The rank
   exponent is λ, the share of nested steps; the frequency survival
   exponent 1/λ. This parallels Mitzenmacher's preferential attachment with
-  a uniform share (THEORY-2150): in both a mix of a structured and a
+  a uniform share ([THEORY-2150](../theory.d/THEORY-2150.md)): in both a mix of a structured and a
   uniform choice sets the exponent.
-- **CLAIM-803: supports the first clause**, a further route to Zipf in
+- **[CLAIM-803](../claims.d/CLAIM-803.md): supports the first clause**, a further route to Zipf in
   word frequencies beside attachment, optimization and random typing; the
   paper's word example is what the claim warns against (λ read off a
   fitted slope).
-- **LIT-tmppzucs (Miller): a rival route**, both feedback-free routes to
+- **[LIT-tmppzucs](../literature.d/LIT-tmppzucs.md) (Miller): a rival route**, both feedback-free routes to
   Zipf in word frequencies; the paper does not compare them.
-- **SYNTHESIS-119**: its "sample-space reduction" route now has a read
+- **[SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)**: its "sample-space reduction" route now has a read
   source.
-- Background: Clauset, Shalizi and Newman (LIT-2987) supply the fitting
-  method of Fig. 3; Bak, Tang and Wiesenfeld (LIT-2992) are the SOC route
-  it is offered against; Mitzenmacher (LIT-3003) closes its list of other
+- Background: Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md)) supply the fitting
+  method of Fig. 3; Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md)) are the SOC route
+  it is offered against; Mitzenmacher ([LIT-3003](../literature.d/LIT-3003.md)) closes its list of other
   mechanisms.
 
 ## Limitations

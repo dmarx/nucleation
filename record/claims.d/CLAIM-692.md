@@ -105,8 +105,8 @@ contextual emergence, by denying supervenience, owes.
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
-**A contrast, and background.** Bak, Tang and Wiesenfeld (LIT-2992, read
-in full in NOTE-tmpnl00y; the reading is THEORY-tmpehudh), the founding
+**A contrast, and background.** Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read
+in full in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)), the founding
 letter of self-organized criticality, offer 1/f noise as that
 mechanism's signature: "Our picture of 1/f spectra is that it reflects
 the dynamics of a self-organized critical state of minimally stable

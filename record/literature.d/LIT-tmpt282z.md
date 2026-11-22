@@ -61,7 +61,7 @@ Applications 18(8), 1305–1332. arXiv 1009.1728.
 
 ## Standing in the record
 
-Registered as a stand-in for Kesten (1973), LIT-3005, which is Unfetched
-(ADR-114). It gives the matrix theorem only at second hand, through the
+Registered as a stand-in for Kesten (1973), [LIT-3005](LIT-3005.md), which is Unfetched
+([ADR-114](../decisions.d/ADR-114.md)). It gives the matrix theorem only at second hand, through the
 authors' Theorem 1.1 and Remark 1; it does not restate Kesten's own
 hypotheses.

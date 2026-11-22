@@ -84,10 +84,10 @@ as his only way into the work. The case is unchanged.
 
 ## Note of 2026-11-22: Merton's Matthew effect, read
 
-**A parallel** (LIT-3002, NOTE-tmp4eogg). The case's mechanism, a label
+**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). The case's mechanism, a label
 confirmed through others' treatment, has a positive mirror in Merton's own
 later work: an eminent scientist's work gets more attention and so more
 recognition, which Merton calls "a special application of the
-self-fulfilling prophecy" (p. 61), citing the 1948 essay (LIT-1398) in
+self-fulfilling prophecy" (p. 61), citing the 1948 essay ([LIT-1398](../literature.d/LIT-1398.md)) in
 his note 42. The label there is eminence, not disruptiveness, and it
 works the same way. The case is unchanged.
