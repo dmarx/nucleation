@@ -40,6 +40,7 @@ draws_on:
 - THEORY-126
 - THEORY-127
 ---
+<!-- inactive-ok-file: THEORY-tmpbo3a8 — Proposed; the reading of Čater, Čater and Ivašković, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-126 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
 
 <!-- inactive-ok-file: THEORY-125 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -82,3 +83,17 @@ Huebner's stronger sense ([THEORY-125](../theory.d/THEORY-125.md)). A4's discrim
 measure private attitudes, public expression, perceived norms and media
 description over time, and test whether a visible minority holds a stance
 the private majority rejects.
+
+## Note of 2026-11-22: Čater, Čater and Ivašković, read
+
+[LIT-1138](../literature.d/LIT-1138.md), registered for this case, is now read ([NOTE-tmpu5yr1](../notes.d/NOTE-tmpu5yr1.md);
+[THEORY-tmpbo3a8](../theory.d/THEORY-tmpbo3a8.md)). It **bears on reading 1 only, and cuts against using it
+for the case's separation of allegiance from judgment**. It measures
+individual fans, not a fanbase's stance, so it says nothing of the shared
+emotional orientation, the norm of opposition or the corporate judgment
+(readings 2–4), and nothing of preference falsification or a vocal
+minority: public expression is measured only as intended word-of-mouth. At
+the individual level, strong identifiers oppose the club's hypothetical
+move less (Table 2), so in this sample allegiance and judgment of the
+decision are not held apart. The "change" it measures is imagined, in the
+same sitting. No relation is written.

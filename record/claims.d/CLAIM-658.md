@@ -159,3 +159,12 @@ engagement feeding adoption and rankings, is consistent with the claim only
 if that indirect revenue is counted in "marginal revenue response"; they do
 not estimate it. So in this one game, revenue weight did not simply set the
 design.
+
+## Note of 2026-11-22: Ivern and Carbonell, read
+
+A **weak bearing**, no edge ([LIT-2447](../literature.d/LIT-2447.md), [NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md)). The review reports
+no spending distribution and no design history. Its catalogue includes
+"Dynamic LB odds, pricing, or offers based on player behavior" (Table 2):
+where design is personalized, a revenue-optimal design can be set group by
+group rather than once for everyone, which bears on this claim's second
+half without testing it.

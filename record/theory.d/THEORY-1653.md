@@ -34,3 +34,15 @@ Gauthier, Hodler, Widmer and Zhuravskaya (2026) find in a seven-week field exper
 ## Evidence
 
 The reading in [NOTE-1742](../notes.d/NOTE-1742.md); its key results are quoted there with locations.
+
+## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
+
+A **contrast**, no edge ([LIT-2373](../literature.d/LIT-2373.md), [NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md)). Dorsch and colleagues
+motivate their mechanism by rising affective polarization and attribute it
+to engagement-optimized curation (§2, pp. 11–12), without citing
+experimental evidence. In this field experiment, switching users to the
+algorithmic feed shifted views and follows but "neither switch changed
+partisanship or affective polarization". That is held evidence against the
+paper's motivating link, though not against its mechanism, which concerns
+confidence in rejecting opponents and is not what this experiment
+measured.

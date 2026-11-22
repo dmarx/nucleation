@@ -138,3 +138,15 @@ agent at all, Velasquez's ([LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](.
 [CASE-151](../cases.d/CASE-151.md) bears on the second half, but only once and in the record's
 reading. Firing members did not stop the conduct; after sanction the
 corporation abolished the sales goals and centralized risk.
+
+## Note of 2026-11-22: Mulgan, read
+
+[LIT-1874](../literature.d/LIT-1874.md) ([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md)) **supports this account's restraint and adds a
+reading of it**. Mulgan classes List and Pettit as moralised collectivists
+who stop short of "full moral personhood in my sense" (p. 904), and reads
+their moral condition as "clearly pragmatist": moral agency restricted to
+reliable groups because that serves human interests, "not because this
+tracks some underlying metaphysical reality" (pp. 906–907). He cites Kusch's
+objection that their view permits enslaving corporations (footnote 6),
+which the record does not hold. It does not meet the promote_when, and
+Velasquez's objection is reported, not answered. The status is unchanged.

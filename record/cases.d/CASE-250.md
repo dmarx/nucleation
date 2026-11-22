@@ -82,3 +82,13 @@ From the reading in [NOTE-1735](../notes.d/NOTE-1735.md) ([LIT-2421](../literatu
 checked by the filer: this paper supplies a candidate inventory of game
 mechanics for that study's treatment variables (no spending limits, pay to
 skip, daily rewards); it does not measure efficacy of commitments.
+
+## Note of 2026-11-22: Ivern and Carbonell, read
+
+**Instances**, no edge ([LIT-2447](../literature.d/LIT-2447.md), [NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md)). The review's
+Self-Regulation Obstacles category, design "decreasing friction for spending
+or restricting selfimposed limits", includes "LBs purchasing process lacks
+confirmation steps", "LB spending or opening limits cannot be set by the
+player or parents" and "LB-related notifications or offers cannot be turned
+off" (Table 2). These are the designs this case would test against users'
+endorsed budgets. The review measures no effect of them.

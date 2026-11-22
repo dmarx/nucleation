@@ -144,3 +144,13 @@ careful that "it is not a general theorem that every feedback cycle requires
 separated timescales". That is this claim's content, stated as an
 interpretation; [CLAIM-478](CLAIM-478.md), filed from the same exchange, names it among
 what it does not say. Nothing here changes.
+
+## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
+
+**Consistent**, no edge. Bich and colleagues ([NOTE-tmpefons](../notes.d/NOTE-tmpefons.md)) say a loop of
+processes on one constraint is feedback, not closure: feedback "depends, in
+its basic instances, on the action of only one constraint", while closure
+"implies the mutual dependence of several constraints" (pdf p. 14). Mossio
+and Moreno ([NOTE-tmpnhdly](../notes.d/NOTE-tmpnhdly.md)) put the flame on the single-constraint side (pdf
+p. 7). Both state the authors' side of this claim's lower bound informally;
+neither derives it.

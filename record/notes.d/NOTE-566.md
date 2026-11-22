@@ -136,3 +136,12 @@ argument.
 What determines the floor and ceiling levels for a given organization, and
 whether members who are locked in, with exit made costly, voice more or
 simply comply.
+
+## Note of 2026-11-22: Čater, Čater and Ivašković, read
+
+A **parallel**, no edge. [LIT-1138](../literature.d/LIT-1138.md) ([NOTE-tmpu5yr1](NOTE-tmpu5yr1.md)) asks how much of fans'
+commitment survives a club decision they oppose, which is Hirschman's
+question of loyalty under deterioration, without citing it. It measures
+imagined commitment, word-of-mouth and attendance change and no voice, so
+it cannot say whether opposing fans would stay and object rather than
+leave.
