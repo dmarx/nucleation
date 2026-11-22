@@ -122,29 +122,97 @@ def departure_rate(eps: Sequence[Episode]) -> Optional[float]:
     return None if n == 0 else dep / n
 
 
-def simulate_reversal(eps: Sequence[Episode], order: Sequence[str], eps_rate: float,
+def departure_profile(eps: Sequence[Episode]) -> Optional[List[float]]:
+    """On episodes where nothing is contested and every perspective that
+    ranks strictly ranks the options alike, the share of decisions that
+    took the common ranking's first, second, ... option. This keeps the
+    record's own pattern of departures: mostly to the compromise, or as
+    often to the opposite extreme. None if there are no such episodes."""
+    counts: Dict[int, int] = {}
+    for e in eps:
+        if is_contested(e):
+            continue
+        strict_r = [r for r in e.rankings.values() if len({r[o] for o in e.options}) > 1]
+        if not strict_r:
+            continue
+        r = strict_r[0]
+        order = sorted(e.options, key=lambda o: -r[o])
+        k = order.index(e.decision)
+        counts[k] = counts.get(k, 0) + 1
+    if not counts:
+        return None
+    m = max(counts) + 1
+    tot = sum(counts.values())
+    return [counts.get(k, 0) / tot for k in range(m)]
+
+
+def _profile(eps_rate, m):
+    """A departure profile over m positions: a list is used as given
+    (truncated and renormalized); a float e means 1 - e on the first and e
+    spread evenly over the rest."""
+    if isinstance(eps_rate, (list, tuple)):
+        q = list(eps_rate[:m]) + [0.0] * max(0, m - len(eps_rate))
+    else:
+        q = [1 - eps_rate] + [eps_rate / (m - 1)] * (m - 1) if m > 1 else [1.0]
+    s = sum(q)
+    return [x / s for x in q] if s > 0 else [1.0] + [0.0] * (m - 1)
+
+
+def simulate_reversal(eps: Sequence[Episode], order: Sequence[str], eps_rate,
                       rng: np.random.Generator, n_sim: int = 2000) -> np.ndarray:
     """Least reversal fractions of records that keep the window's episodes,
-    options and contests, and draw each decision from `order` (its best
-    available option) with probability 1 - eps_rate, else uniformly among
-    the other options available."""
+    options and contests, and draw each decision by its position in `order`
+    among the options available, with the departure profile `eps_rate`
+    (a list by position, or a float for even departures)."""
     pos = {o: i for i, o in enumerate(order)}
     opts = sorted({o for e in eps for o in e.options})
+    contested = [e for e in eps if is_contested(e)]
+    ranked = [sorted(e.options, key=lambda o: pos[o]) for e in contested]
+    probs = [_profile(eps_rate, len(r)) for r in ranked]
     out = np.empty(n_sim)
     for k in range(n_sim):
         ws = []
-        for e in eps:
-            if not is_contested(e):
-                continue
-            top = min(e.options, key=lambda o: pos[o])
-            if rng.random() < eps_rate and len(e.options) > 1:
-                others = [o for o in e.options if o != top]
-                d = others[rng.integers(len(others))]
-            else:
-                d = top
+        for e, r, q in zip(contested, ranked, probs):
+            d = r[rng.choice(len(r), p=q)]
             ws.extend(wins(Episode(e.t, e.window, e.options, e.rankings, d, e.context)))
         out[k] = fit(ws, opts)[0] if ws else 0.0
     return out
+
+
+def misfit(ws, named) -> float:
+    """1 - the best named candidate's alignment: how much of the record no
+    perspective's ordering, and no named candidate such as inertia,
+    accounts for."""
+    return 1.0 - max(candidate_alignment(ws, named).values())
+
+
+def ambivalence_test(eps: Sequence[Episode], named, eps_rate, rng: np.random.Generator,
+                     n_sim: int = 2000) -> float:
+    """Step 6, within a window. The null is that some named candidate
+    prevails, with departures as the record makes them where nothing is
+    contested (eps_rate: a profile by position, or a float). For each
+    ordering of each candidate, simulate the window's contested episodes
+    and compare the misfit to the best named candidate. Returns the largest
+    p-value over the candidates' orderings: small only when no candidate
+    with the record's own noise would leave so much unaccounted for."""
+    contested = [e for e in eps if is_contested(e)]
+    ws = [w for e in contested for w in wins(e)]
+    t_obs = misfit(ws, named)
+    pmax = 0.0
+    for cls in named.values():
+        for order in cls:
+            pos = {o: i for i, o in enumerate(order)}
+            ranked = [sorted(e.options, key=lambda o: pos[o]) for e in contested]
+            probs = [_profile(eps_rate, len(r)) for r in ranked]
+            ge = 0
+            for _ in range(n_sim):
+                sw = []
+                for e, r, q in zip(contested, ranked, probs):
+                    d = r[rng.choice(len(r), p=q)]
+                    sw.extend(wins(Episode(e.t, e.window, e.options, e.rankings, d, e.context)))
+                ge += misfit(sw, named) >= t_obs - 1e-12
+            pmax = max(pmax, (ge + 1) / (n_sim + 1))
+    return pmax
 
 
 # ---------------------------------------------------------------- per window
@@ -157,9 +225,10 @@ class WindowResult:
     n_wins: int
     reversal: float = float("nan")
     best_class: List[Tuple[str, ...]] = field(default_factory=list)
-    p_excess_reversal: float = float("nan")
+    p_ambivalence: float = float("nan")
     perspective_agreement: Dict[str, float] = field(default_factory=dict)
     candidate_alignment: Dict[str, float] = field(default_factory=dict)
+    p_lead: float = float("nan")
     by_context: Dict[str, List[Tuple[str, ...]]] = field(default_factory=dict)
     verdict: str = ""
     leading: Optional[str] = None
@@ -201,14 +270,17 @@ def analyse_window(label: str, eps: Sequence[Episode], named: Dict[str, Sequence
     for c in sorted({e.context for e in contested}):
         wc = [w for e in contested if e.context == c for w in wins(e)]
         res.by_context[c] = fit(wc, opts)[1]
-    sims = simulate_reversal(eps, res.best_class[0], eps_rate, rng, n_sim)
-    res.p_excess_reversal = float((np.sum(sims >= res.reversal - 1e-12) + 1) / (n_sim + 1))
     res.candidate_alignment = candidate_alignment(ws, named)
+    res.p_ambivalence = ambivalence_test(eps, named, eps_rate, rng, n_sim)
     res.leading = leading_perspective(res.candidate_alignment)
-    if res.p_excess_reversal < alpha:
+    if res.leading not in (None, "tied"):
+        res.p_lead = prevalence_test(contested, named, res.leading, rng)
+    if res.p_ambivalence < alpha:
         res.verdict = "ambivalent"
     elif len(res.by_context) > 1 and _disjoint_classes(res.by_context):
         res.verdict = "split by context"
+    elif not (res.p_lead < alpha):
+        res.verdict = "indeterminate"
     else:
         res.verdict = "prevails"
         if progress is not None and res.leading is not None:
@@ -217,6 +289,35 @@ def analyse_window(label: str, eps: Sequence[Episode], named: Dict[str, Sequence
                 d = p - reference
                 res.sign = "neutral" if abs(d) <= tol else ("positive" if d > 0 else "negative")
     return res
+
+
+def prevalence_test(contested: Sequence[Episode], named, lead: str,
+                    rng: np.random.Generator, n_boot: int = 2000) -> float:
+    """Bootstrap over contested episodes: the share of resamples in which
+    the leading candidate's alignment does not exceed every rival's. Small
+    values mean the lead is shown, not just observed."""
+    ws_by = [wins(e) for e in contested]
+    best = {n: max(cls, key=lambda o: agreement(o, [w for x in ws_by for w in x]))
+            for n, cls in named.items()}
+    agree = {n: np.array([sum(_above(best[n], w, l) for w, l in x) for x in ws_by])
+             for n in named}
+    tot = np.array([len(x) for x in ws_by])
+    k = len(contested)
+    fails = 0
+    for _ in range(n_boot):
+        idx = rng.integers(k, size=k)
+        T = tot[idx].sum()
+        if T == 0:
+            fails += 1
+            continue
+        a = {n: agree[n][idx].sum() / T for n in named}
+        if any(a[n] >= a[lead] for n in named if n != lead):
+            fails += 1
+    return fails / n_boot
+
+
+def _above(order, w, l):
+    return order.index(w) < order.index(l)
 
 
 def _persp_agreement(contested: Sequence[Episode], p: str) -> float:

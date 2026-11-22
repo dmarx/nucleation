@@ -132,3 +132,10 @@ def test_alternation_test_detects_stop_go_and_regimes():
     out = P.alternation_test(eps, wins, NAMED, r, n_perm=200)
     assert out["observed"] == 7
     assert out["p_more"] < 0.05
+
+
+def test_indeterminate_when_lead_not_shown():
+    decs = ["hike", "cut", "hike", "hold", "cut", "hike"]
+    eps = [ep(t, "w", d) for t, d in enumerate(decs)]
+    r = P.analyse_window("w", eps, NAMED, 0.9, rng())
+    assert r.verdict == "indeterminate"

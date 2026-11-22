@@ -23,11 +23,16 @@
   So no CBO natural rate: u* is a trailing mean (choice, with sensitivity).
 - Downloaded (scratchpad, not committed): H.15 package; Philly Fed
   rucQvMd.xlsx and cpiQvMd.xlsx.
-- procedure.py and test_procedure.py (11 synthetic cases, passing).
+- procedure.py and test_procedure.py (12 synthetic cases, passing).
+- fomc.py run: 18 specifications, results/ and results/summary.md;
+  power.py: results/power.txt. README.md says how to rerun.
+- Findings: contests in 43-72 of 243 quarters, mostly 1970-83; most
+  contested windows indeterminate; ambivalence shown only in Burns tenure
+  (A nominal) and 1980-81 (C nominal); inertia prevails 1994-97 / 2014-17;
+  no channel persists over two windows, so no resumption to read.
 
 ## Next
 
-- Write fomc.py (build record from Philly Fed vintages + H.15); run.
 - File CLAIM (argument), alternative CLAIM, CASE (application), notes on
   LEAD-041, QUESTION-268, CLAIM-440; changelog fragment.
 
