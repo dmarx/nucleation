@@ -105,3 +105,36 @@ restricted, (c) obstacle.
   labelled "Proof, 1.73 MB, Licence: CC BY" (the publisher's typeset
   open-access article). The file request returned HTTP 403 with a
   Cloudflare "Just a moment..." challenge. Stopped. 2026-11-22.
+
+## LIT-2432 (Errando 2026, Journalism)
+
+- (b) The given biblio.vub.ac.be address redirects to the VUB library
+  catalogue's search start page (VUBIS/Iguana, JavaScript-only, no record
+  shown). The same UUID on the VUB Pure portal,
+  https://researchportal.vub.be/en/publications/7614c139-5645-411d-b810-b9b40f6bef1a,
+  is the record (title matches; author Aina Errando): metadata only,
+  "Access to Document" gives the DOI alone. No file.
+
+## LIT-2452 (Pape, Helmers, Iaria, Wagner, Runge 2025, IJIO)
+
+- (b) Bristol Pure record (title and authors match): metadata only.
+  "Access to Document" gives the DOI, "Licence: CC BY". No file on the
+  page; the CC BY publisher version is behind the DOI, not tried here.
+
+## LIT-2625 (Hsu, Zhen, Stone, Joannopoulos, Soljačić 2016, Nat Rev Mater)
+
+- (c), copy located: the OSTI record (and OSTI's documented API,
+  https://www.osti.gov/api/v1/records/1557734) lists an "Accepted
+  Manuscript (DOE)", fulltext https://www.osti.gov/servlets/purl/1557734.
+  Title and authors match. That address redirects to
+  https://dspace.mit.edu/bitstreams/2170bf2f-dea3-4b1d-8f6c-4f5243d84880/download,
+  which answered HTTP 429 "Web Firewall ... protection has temporarily
+  kicked in". Stopped; not retried. 2026-11-22.
+
+## LIT-2787 (Topological defects propagate information in deep neural networks)
+
+- (c) https://openreview.net/forum?id=fM5s2Tqe0t redirects to
+  https://openreview.net/challenge?redirect=... ("Verifying your
+  browser"). Its documented API, https://api2.openreview.net/notes?id=fM5s2Tqe0t,
+  answered HTTP 403 ChallengeRequiredError. Stopped; the /pdf address on
+  the same host was not tried. 2026-11-22.
