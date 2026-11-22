@@ -44,3 +44,23 @@ Where the record names it:
 
 Classes that reshape preferences only when used supports the reading of
 [CLAIM-762](../claims.d/CLAIM-762.md) the case was filed for.
+
+## Note of 2026-11-22: the laboratory run
+<!-- inactive-ok-file: CASE-tmpw8bs2 CLAIM-tmph4j0u CLAIM-tmpvn59f — new; the study run for this lead and the claims filed from it -->
+
+Run by the assistant as a delegated lead worker, as a numpy simulation
+(scratch/studies/lead-030/, branch claude/lead-030-genres-laboratory),
+filed as CASE-tmpw8bs2, with CLAIM-tmph4j0u and CLAIM-tmpvn59f. Two
+worlds (genres planted in preferences; clusters made by exposure alone,
+CASE-296's negative control) and five arms: the three of CASE-296, plus
+adaptation without use, which the criterion under "What would count"
+needs, and a popularity loop. In this model the classes reshape
+preferences only when used: the gap in engagement under randomized exposure
+stayed at 0.35 when they steered exposure over fixed preferences, rose to
+0.48 when users and creators adapted, and fell to 0.23 under the same
+adaptation without them. Concentration, fit to raw counts and stability
+registered use, not reshaping, and favoured the exposure-made clusters.
+
+What remains: re-inference of the classes during the run, the choice of
+K, A27 §5's self-supervised arm, a longer run of the creation outcome,
+and any run on real engagement data, which this lead does not reach.

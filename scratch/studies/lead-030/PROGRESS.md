@@ -24,12 +24,17 @@
   inference ARI about 0.27 against the planted genres; 0.60 with 5 burn-in
   periods gives about 0.5. Item-level factor model: ridge 2, rank 8 (ridge
   10 or more shrinks to the degree model; 0.3 overfits).
-- Step 3 (running): 2 worlds x 5 arms x seeds 0-3, two processes.
+- Step 3: 2 worlds x 5 arms x seeds 0-3 done (40 runs, about 30 min);
+  results.md written.
+- Step 4: filed CASE-tmpw8bs2 (executed study), CLAIM-tmph4j0u (the
+  separation), CLAIM-tmpvn59f (fit and stability as criteria); dated notes
+  on LEAD-030, CASE-296, QUESTION-028, CLAIM-762 (alternatives (a)
+  corroborates / (b) illustration only, leaning (b)); changelog fragment.
 
 ## Next
 
-- Summarise results (summarise.py -> results.md), then file CASE, CLAIM(s),
-  notes and changelog.
+- Nothing left in the lead's scope; report. Not run: re-inference during
+  the run, choice of K, A27 §5's self-supervised arm, longer creation runs.
 
 ## Choices
 
