@@ -34,6 +34,13 @@ is logged in search.md. Services: Europe PMC REST, arXiv, OpenAlex, no email.
   - LIT-tmpw89hi Bayne et al. 2024 (tests for consciousness) - marker
   - LIT-tmpl6qwr Overgaard et al. 2008 (GR, degraded conscious vision) - deficit
 
+- Read Brascamp 2015 (Europe PMC fullTextXML of PMC4603386, 2026-11-22):
+  abstract, Introduction, Results, Discussion, Online Methods to Task;
+  Supplementary not read. Same-colour rivalry switches detected at chance (d'),
+  about 8 times fewer hits; fronto-parietal switch BOLD proportional to
+  reportability; the measure is switch-related BOLD, not percept-specific
+  content; n=6 in fMRI, two observers authors. NOTE/THEORY not yet written.
+
 ## Choices made
 
 - Read three: Brascamp 2015 (the inconspicuous design THEORY-094's promote_when
