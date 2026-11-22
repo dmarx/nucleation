@@ -18,8 +18,9 @@ Derive (a) a bias-corrected estimator of CbD signalling Δ = Σ_q |⟨R_q^c⟩ �
 - Step 1 (held check): LEAD-182's CLAIM-tmpalxab / CASE-tmpjp6vg quantify the plug-in bias and say a bias-corrected estimator "was not built"; nothing in record/ builds one. Target not held.
 - sig.py + test_sig.py (9 pass); exact.jsonl (56 cells); floor.md; apply.md.
 - CLAIM-tmp1o9d0 written (bare codes).
-- mc.py running (PID in scratchpad lead-072/mc.pid), resumable.
+- mc.jsonl complete (36 cells); summary.md written.
+- CASE-tmpl6unn written; dated notes on LEAD-072, CLAIM-235, CLAIM-105, CLAIM-125; changelog fragment lead-072.md. Frontmatter/title/H1 checks pass.
 
 ## Next
 
-- Finish mc.jsonl; summary.md; CASE-tmpl6unn (executed-study); dated notes on LEAD-072, CLAIM-235, CLAIM-105; changelog fragment lead-072.md.
+- Nothing on the branch. The lead opens the PR. Remaining for the lead: LIT-851's per-system occurrence counts (from the authors, or Wang's thesis, UCL eprint 10193159, behind the same Cloudflare challenge), then apply.py on them.

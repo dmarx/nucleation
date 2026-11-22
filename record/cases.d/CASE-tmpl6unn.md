@@ -88,7 +88,11 @@ rejection rate was at most 0.034 at the 5% level. It never rejected at
 two or three occurrences a context, as the floor requires. Power is
 low at corpus-like counts: for true Δ = 0.4 it was 0.06 at ten
 occurrences, 0.19 at thirty and 0.72 at a hundred; for true Δ = 1, 0.14
-at ten. [MC-TAIL]
+at ten, 0.47 at thirty and 0.97 at a hundred; for true Δ = 2, 0.61 at
+ten. Certifying the level LIT-851 uses to rule a rank-2 system out of
+contextuality, Δ ≥ 2, is harder still: the box's lower bound reached 2
+only for true Δ = 3, in 1% of replications at thirty occurrences and
+86% at a hundred, and never for true Δ = 2 or less.
 
 **4. The floor.** The least worst-case null probability of any table is
 nⁿmᵐ/(n+m)ⁿ⁺ᵐ in every case up to 40. At 5% a content needs at least
