@@ -45,6 +45,7 @@ summary: >-
   not show that any real network is hyperbolic, or that hierarchy causes
   heterogeneity.
 ---
+<!-- inactive-ok-file: CLAIM-817 — Proposed; the claim whose aside the note of 2026-11-22 sets against the chapter -->
 <!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; registered and unread -->
 
@@ -160,3 +161,19 @@ distribution in their test (half Strong, half Weakest), so the Internet
 degree law this account's source fits is one of the better-supported
 cases. Their verdict on networks in general is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)).
 No edge.
+
+## Note of 2026-11-22: Barabási's chapter, read
+
+**A rival framing** ([LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)). The chapter reads
+optimisation and geometric models as routes that *generate* linear
+preferential attachment: "such rational decisions can lead to preferential
+attachment [22, 23, 24]", where [24] is Papadopoulos and others,
+"Popularity versus similarity in growing networks", and "To date all known
+models and real systems that are scale-free have been found to have
+preferential attachment" (§§5.9, 5.11). [CLAIM-817](../claims.d/CLAIM-817.md)'s aside says this
+account "needs no attachment at all", meaning no attachment rule built
+in. The two speak of different things, the rule given and the attachment
+produced, so neither refutes the other. Whether the static hyperbolic
+model of this account, which has no growth, generates an effective linear
+attachment is not settled by the chapter, which cites the growing
+popularity-similarity model. No edge.

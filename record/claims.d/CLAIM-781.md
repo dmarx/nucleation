@@ -156,3 +156,13 @@ between levels, the rates still make a tree, but not that hierarchy's.
 ## Note of 2026-11-21: defeater (b) at finite rates
 
 The synthesis review of 2026-11-21, auditing [QUESTION-281](../questions.d/QUESTION-281.md), found defeater (b) met as worded by any class freshly created at finite ε. Just past a barrier crossing ([CLAIM-770](CLAIM-770.md)), a class of the tree does not yet pass [CLAIM-157](CLAIM-157.md)'s gap test, because its closure margin is near one. The defeater should be read in the separated regime, where the rate ratio exceeds the threshold [QUESTION-500](../questions.d/QUESTION-500.md) asks about. A class within that window of a crossing is not a counterexample. No change of status.
+
+## Note of 2026-11-22: Beck and Cohen, read
+
+A **parallel**, with no edge. Beck and Cohen's superstatistics ([LIT-2962](../literature.d/LIT-2962.md),
+read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md)) rests on a separation of time scales: the inverse
+temperature changes on a scale "much larger than the relaxation time that
+the single cells need to reach local equilibrium" (p. 2), so the fast
+level equilibrates and the slow one supplies the spread that is averaged
+over. That is this claim's separation of rates between levels, in physics,
+with two levels and no tree. The claim is unchanged.

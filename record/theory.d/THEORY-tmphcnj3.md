@@ -75,3 +75,14 @@ under its own definition, and stand or fall as a measurement under it.
 - Not anything about criticality.
 - Not a dynamical test of mechanism; it asks for one "that goes beyond
   static degree distributions" and names none.
+
+## Note of 2026-11-22: Barabási and Albert, and Barabási's chapter, read
+
+**A contrast** ([LIT-3004](../literature.d/LIT-3004.md), [NOTE-tmpwgw8e](../notes.d/NOTE-tmpwgw8e.md); [LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](../notes.d/NOTE-tmpnpqc8.md)). The
+premise this account's test qualifies is, read, Barabási and Albert's "a
+generic property of many complex networks", from four networks with
+slopes drawn by eye and no fit; the chapter keeps it as a "necessary and
+sufficient argument". The power grid in Barabási and Albert (γ ≃ 4, its
+scaling "less prominent") is the kind of infrastructure network this
+paper classes Not Scale Free; whether it classes that data set was not
+checked. No edge.

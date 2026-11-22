@@ -50,6 +50,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CASE-303 CLAIM-795 — Proposed or new; the case and catalogue claim filed with this one from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmp6jdas ARG-tmp275n1 — Proposed; Newman's reading and the argument that it does not carry this claim -->
+<!-- inactive-ok-file: THEORY-tmphwf0q — Proposed; the reading of Reed and Hughes, 2026-11-22 -->
 
 # CLAIM-815: The exponent 3/2 shared by critical branching cascades and first passage of a random walk comes from one identity, the hitting-time theorem: the chance of total size s, or of first passage at time t, is 1/s or 1/t times a local probability that falls as the inverse square root at balance, so 3/2 = 1 + 1/2
 
@@ -131,3 +132,14 @@ half of the coincidence by another route and nothing on the identity,
 which rests on this claim's own derivation and [CASE-303](../cases.d/CASE-303.md).
 [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `corroborates` the walk's exponent; it is not a ground.
 Status unchanged.
+
+## Note of 2026-11-22: Reed and Hughes, read
+
+A **contrast**, with no edge. Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md), read in
+[NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)) give a second branching route to a power
+law: a supercritical Galton–Watson process (mean offspring μ > 1) killed
+at a geometric generation, with P(X̄ = m) ∼ R(m)m^(−1−κ),
+κ = ln[(1 − p)^(−1)]/ln μ, and log-periodic oscillations in R(m) (pp. 3–4).
+Its exponent is a ratio of log-rates and has nothing to do with the
+critical 3/2 or the hitting-time identity this claim holds. The claim is
+unchanged.

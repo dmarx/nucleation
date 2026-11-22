@@ -66,6 +66,7 @@ rests_on:
 bears_on:
 - QUESTION-507
 ---
+<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-814 ARG-148 — filed with this claim from the same exchange, Open or Proposed -->
 <!-- inactive-ok-file: LIT-2991 — Deferred, registered 2026-11-21 from the exchange, unread -->
 <!-- inactive-ok-file: THEORY-tmpye6xs ARG-tmp5sgtm LIT-tmpfn6b8 — Proposed, Deferred or new; the finite-window reading, its argument and the work it names, 2026-11-22 -->
@@ -226,3 +227,16 @@ revisions are made in place above (version 2).
 - **No Fisher information.** The record does not attribute one to the
   paper, and the paper does not use it: its measure is ideal-observer
   overlap error.
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+**Background, by contrast of senses.** Bak, Tang and Wiesenfeld
+([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) build
+criticality out of minimal stability: the pile stops "precisely at the
+point when the network of minimally stable states has been broken down
+to the level where the noise signal cannot be communicated through
+infinite distances" (p. 382). That does not touch the bullet "Marginal
+stability is not criticality", whose marginal stability is a scalar map
+at a → 1; theirs is a spatial percolation threshold of many marginally
+stable sites, a collective state. The two senses should not be run
+together. No edge. Status unchanged.

@@ -32,6 +32,7 @@ summary: >-
   equal-length assumption; it is not measured or proved. A fitness on faces
   gives a simulated transition to growth in one direction.
 ---
+<!-- inactive-ok-file: LIT-tmphxpqu — Deferred; Dorogovtsev, Mendes and Samukhin, registered on 2026-11-22 and unread -->
 <!-- inactive-ok-file: THEORY-188 THEORY-196 — Proposed or Open; cited as the accounts this reading bears on -->
 
 # NOTE-678: Emergent Hyperbolic Network Geometry
@@ -219,3 +220,14 @@ The reading is the source of [THEORY-193](../theory.d/THEORY-193.md).
   of bounded distortion, and how does the distortion scale with d and s?
 - Is the fitness transition the face-level analogue of Bose–Einstein
   condensation in the fitness model, and what is its order?
+
+## Note of 2026-11-22: Krapivsky, Redner and Leyvraz, and Barabási's chapter, read
+
+**Background.** This note's "the standard master-equation treatment of
+growing networks (Dorogovtsev and Mendes; Krapivsky, Redner and Leyvraz)"
+is now read on the Krapivsky side ([LIT-2974](../literature.d/LIT-2974.md), [NOTE-tmp2z733](NOTE-tmp2z733.md)), and the
+Dorogovtsev, Mendes and Samukhin letter is registered unread
+([LIT-tmphxpqu](../literature.d/LIT-tmphxpqu.md)). Barabási's chapter ([LIT-2968](../literature.d/LIT-2968.md), [NOTE-tmpnpqc8](NOTE-tmpnpqc8.md)) frames
+geometric and optimisation models as generating linear preferential
+attachment, a rival framing of the record's hyperbolic route recorded on
+[THEORY-188](../theory.d/THEORY-188.md). No edge.

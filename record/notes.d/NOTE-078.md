@@ -35,6 +35,7 @@ summary: >-
   tracking proof does not apply as claimed. The main theorems are standard
   and not in doubt.
 ---
+<!-- inactive-ok-file: NOTE-tmpy4hcs THEORY-tmpocjqv LIT-3005 — Skimmed, Proposed or Unfetched; the reading of Alsmeyer and Mentemeier and the Kesten paper it stands in for, cited in the note of 2026-11-22 -->
 
 # NOTE-078: Filip, Notes on the Multiplicative Ergodic Theorem
 
@@ -168,3 +169,13 @@ The methods are:
   - §4.4.7 has an index shift (g_{Tω}⋯g_{Tⁿω} for g_ω⋯g_{T^{n−1}ω}).
   - In §4.5 the subadditivity derivation of D is written "assuming t ≤ s", where the displayed step then points the wrong way. The correct one-line proof is D(t+s) = t·D(t+s)/(t+s) + s·D(t+s)/(t+s) ≤ D(t) + D(s).
   - In Lemma 5.1.5 the modulus is applied as g(d(y, y′)/2R) against the definition's g(d/R).
+
+## Note of 2026-11-22: Alsmeyer and Mentemeier, skimmed
+
+**Background.** The multiplicative ergodic theorem these notes expound
+supplies the Liapunov exponent that Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md),
+[NOTE-tmpy4hcs](NOTE-tmpy4hcs.md), [THEORY-tmpocjqv](../theory.d/THEORY-tmpocjqv.md)) require to be negative for the random
+difference equation R_n = M_n R_(n−1) + Q_n, the matrix form of Kesten's
+1973 theorem ([LIT-3005](../literature.d/LIT-3005.md)). Kesten's paper and Furstenberg and Kesten's are
+the same author's two results on products of random matrices: the rate,
+and the tail of the stationary solution.

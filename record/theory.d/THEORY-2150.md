@@ -40,6 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: TERM-tmpg1vx2 — Proposed; the term on the name Gibrat -->
+<!-- inactive-ok-file: THEORY-tmphwf0q THEORY-tmpcfn5g — Proposed; the readings of 2026-11-22 -->
 
 # THEORY-2150: Mitzenmacher traces preferential attachment from Yule and Simon to the Web-graph models and Gibrat's multiplicative process to the lognormal, and shows that a lognormal can look straight on a log-log plot and that a lower reflecting barrier or an exponentially distributed observation time turns the multiplicative process's lognormal into a power law
 
@@ -98,3 +99,19 @@ lognormal ([TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md)). Broido and Clauset ([L
 [THEORY-tmphcnj3](THEORY-tmphcnj3.md)) give the corpus-scale empirical side of the
 lognormal-against-power-law confusion: a lognormal fits at least as well
 as the power law for 88% of degree distributions. No edge.
+
+## Note of 2026-11-22: Reed and Hughes; Corominas-Murtra, Hanel and Thurner, read
+
+- **Reed and Hughes** ([LIT-3007](../literature.d/LIT-3007.md), read in [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](THEORY-tmphwf0q.md)),
+  the source §7 reports, **corroborate** the account's double Pareto: their
+  eq. 9 at zero log drift (μ = ½σ²) gives exponents ±√(2ν)/σ, §7's √(2λ) with
+  unit variance. Reed and Hughes cite Mitzenmacher for the lognormal file
+  size model. This account's `promote_when` asks for a second reading of
+  Mitzenmacher's own text, so it is not met.
+- **Corominas-Murtra, Hanel and Thurner** ([LIT-2997](../literature.d/LIT-2997.md), read in
+  [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md); [THEORY-tmpcfn5g](THEORY-tmpcfn5g.md)): a **parallel**, with no edge. Their
+  noisy sample-space reduction has frequency survival exponent 1/λ, λ the
+  share of nested steps; §3's attachment with a uniform share α has
+  survival exponent 1/(1 − α). In both a mix of a structured and a uniform
+  choice sets the exponent, by the same formula ([QUESTION-505](../questions.d/QUESTION-505.md)'s note of
+  this date). They cite this work for "other mechanisms".

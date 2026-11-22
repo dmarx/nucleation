@@ -32,8 +32,9 @@ summary: >-
   hitting-time identity, and ranks the Yule process and criticality as
   the two most important.
 ---
+<!-- inactive-ok-file: TERM-tmpeguzj — Proposed; the term filed with the reading of Merton -->
 <!-- inactive-ok-file: CLAIM-795 CLAIM-815 CLAIM-803 CLAIM-841 CLAIM-817 CLAIM-830 CLAIM-824 CLAIM-769 THEORY-2131 THEORY-2150 THEORY-tmp6jdas ARG-tmp3ppjy ARG-tmp275n1 TERM-tmpg1vx2 — Proposed; the entries this reading bears on, its own reading and the arguments and term filed with it -->
-<!-- inactive-ok-file: LIT-3007 LIT-2992 LIT-2997 LIT-2962 LIT-tmp7g7aj LIT-tmppzucs LIT-tmp2octb LIT-tmp1db7e LIT-tmpf9hct — Deferred; works this reading names, registered and unread -->
+<!-- inactive-ok-file: LIT-tmp7g7aj LIT-tmppzucs LIT-tmp2octb LIT-tmp1db7e LIT-tmpf9hct — Deferred; works this reading names, registered and unread -->
 
 # NOTE-tmpa7yd2: Newman, Power laws, Pareto distributions and Zipf's law, read for how power laws are measured and the many mechanisms that make them
 
@@ -211,3 +212,12 @@ Newman illustrates with the forest-fire model instead.
   exponentially distributed variable, not a mixture of exponential rates;
   the review has no rate-mixture or superstatistics mechanism, so it does
   not carry [CLAIM-795](../claims.d/CLAIM-795.md)'s item 4.
+
+## Note of 2026-11-22: Merton, read
+
+**Qualifies one listing** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](NOTE-tmp4eogg.md)). Newman lists the
+Matthew effect among the names of the Yule process (p. 18). That is the
+formal sense. Merton's Matthew effect is credit for a given contribution
+allotted by rank, and he states no rule of growth in proportion to size;
+cumulative advantage is "one institutional version" of it, with the
+growth implication credited to Price. [TERM-tmpeguzj](../terms.d/TERM-tmpeguzj.md) holds the two senses.

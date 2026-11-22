@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpsr8r4
 title: 'A power law or a scale-invariant law does not by itself indicate criticality: symmetry, flux, growth, coarsening, geometry and broad relaxation spectra each remove a characteristic scale without a tuned transition'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-22'
@@ -15,6 +15,15 @@ history:
     evidence, and marked as background to the thesis, since the paper
     never mentions criticality (ARG-tmp38kft). The thesis and status are
     unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    Edited in place on 2026-11-22 after Bak, Tang and Wiesenfeld
+    (LIT-2992) was read (NOTE-tmpnl00y, THEORY-tmpehudh): the
+    self-organized-criticality bullet under "What it does not say" now
+    quotes the letter, and notes that it infers criticality from a
+    straight log-log line. THEORY-tmpehudh corroborates the claim
+    (ARG-tmp1zu0m). The thesis and status are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -62,7 +71,8 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 ARG-tmp38kft — Proposed; the readings of 2026-11-22 and the argument on this claim's network bullet -->
 <!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; the reply disputing Broido and Clauset, registered and unread -->
 <!-- inactive-ok-file: TERM-139 CLAIM-846 — filed with this claim on 2026-11-21 -->
-<!-- inactive-ok-file: LIT-2978 LIT-2982 LIT-2969 LIT-2985 LIT-2970 LIT-2992 — registered 2026-11-21, Deferred, unread -->
+<!-- inactive-ok-file: LIT-2978 LIT-2982 LIT-2969 LIT-2985 LIT-2970 — registered 2026-11-21, Deferred, unread -->
+<!-- inactive-ok-file: THEORY-tmpehudh ARG-tmp1zu0m CLAIM-tmpfwwrf — Proposed or new; the reading of Bak, Tang and Wiesenfeld, the argument on this claim and the record's sandpile reproduction -->
 <!-- inactive-ok-file: CLAIM-769 — Proposed; power-law relaxation from a spread of rates -->
 <!-- inactive-ok-file: CLAIM-803 CLAIM-795 — filed from the same exchange on 2026-11-21, Proposed -->
 
@@ -171,8 +181,15 @@ distributions.
   a tuned transition.
 - That self-organized criticality is ruled out. It is a route that ends at
   a critical point without outside tuning (A24 §4; Bak, Tang and
-  Wiesenfeld, [LIT-2992](../literature.d/LIT-2992.md)), and whether a given system takes it is
-  [QUESTION-508](../questions.d/QUESTION-508.md).
+  Wiesenfeld, [LIT-2992](../literature.d/LIT-2992.md): "an attractor reached by starting far from
+  equilibrium", p. 381), and whether a given system takes it is
+  [QUESTION-508](../questions.d/QUESTION-508.md). The founding letter is itself an instance of the
+  inference this claim doubts: "The fact that the curve is linear over
+  two decades indicates that the system is at a critical point" (p. 383).
+  The finite-size cutoff it asserts, which the record reproduces
+  ([CLAIM-tmpfwwrf](CLAIM-tmpfwwrf.md)), is the stronger of its two kinds of evidence, though
+  by the list below it is one discriminating observation among several,
+  not a proof.
 
 ## Change of 2026-11-22
 
@@ -211,3 +228,26 @@ No edge.
 paper never mentions criticality or any route listed here; it doubts that
 the power law is there at all, before any question of what it indicates.
 It was never in `grounds`, and stays out. Status unchanged.
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read in full in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the
+reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) **support the "What it does not say" bullet
+on self-organized criticality**: "The critical point in the dynamical
+systems studied here is an attractor reached by starting far from
+equilibrium: The scaling properties of the attractor are insensitive to
+the parameters of the model" (p. 381), and "There are no parameters since
+a shift in K simply shifts z" (p. 382). [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md) `corroborates`
+the claim ([ARG-tmp1zu0m](../arguments.d/ARG-tmp1zu0m.md)).
+
+**A historical contrast, not a defeater**, on two counts. The letter
+infers criticality from the shape of one distribution: "The fact that the
+curve is linear over two decades indicates that the system is at a
+critical point with a scaling distribution of clusters" (p. 383), the
+inference this claim's "What would show criticality instead" holds
+insufficient; it backs it only with the finite-size remark, asserted
+without data. And it proposes SOC as "the common underlying mechanism"
+behind 1/f noise, fractals and turbulence (p. 381), where the table above
+treats turbulence as a separate flux route. The letter offers a
+conjecture and simulations, not an argument that the other routes fail,
+so the thesis stands. Version 3.

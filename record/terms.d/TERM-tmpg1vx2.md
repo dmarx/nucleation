@@ -24,6 +24,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: TERM-tmpeguzj — Proposed; the term filed with the reading of Merton -->
 <!-- inactive-ok-file: CLAIM-824 CLAIM-830 THEORY-2150 — Proposed; the claims that use the name and the readings its senses come from -->
 <!-- inactive-ok-file: LIT-tmp7g7aj — Deferred; Simon (1955), registered and unread -->
 
@@ -71,3 +72,14 @@ the same rule gives three:
 - **Not the empirical "Gibrat's law" of firm or city growth** as a finding
   that growth rates are independent of size; that is a claim about data,
   which this term does not adjudicate and the record holds no reading of.
+
+## Note of 2026-11-22: Merton, read, and the Matthew effect
+
+Newman's list that this term starts from ([LIT-2976](../literature.d/LIT-2976.md), p. 18) also gives
+"Matthew effect" as a name of the Yule process. Read, Merton ([LIT-3002](../literature.d/LIT-3002.md),
+[NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)) uses it for something else: credit for a given contribution
+allotted by the contributor's standing, with cumulative advantage "one
+institutional version" of it. [TERM-tmpeguzj](TERM-tmpeguzj.md) separates the two senses. It
+is the same kind of split as this term's: a name for a rule of
+proportional gains that the sources also use for something narrower or
+different, so that a claim using the name has to say which is meant.

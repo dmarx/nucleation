@@ -86,6 +86,7 @@ bears_on:
 <!-- inactive-ok-file: CLAIM-769 CLAIM-626 CLAIM-478 THEORY-777 THEORY-2041 — Proposed; held components, cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-088 SYNTHESIS-075 SYNTHESIS-084 — Proposed or new; accounts this one sits beside -->
 <!-- inactive-ok-file: THEORY-2150 — Proposed; the reading of 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmpczldx THEORY-tmpcfn5g THEORY-tmphwf0q CLAIM-tmpf9qt9 — Proposed; the readings of 2026-11-22 and the assistant's condition on the spread -->
 
 # SYNTHESIS-119: In the record, a power law does not identify its mechanism: many routes produce one, each read from its dynamics, criticality among them; chaos, criticality and a cascade through scales come apart, as do scale invariance, dependence across scales and a heavy-tailed marginal; the owner's bulk-and-tail conjecture is held in two readings, of which only a separation of scales fits a continuous transition approached from below; and what survives a change of scale is counted by several effective dimensions whose agreement is open
 
@@ -193,3 +194,28 @@ not identify its mechanism.
 
 The account's map is unchanged; the three readings now stand where it
 cited unread works.
+
+## Note of 2026-11-22: Beck and Cohen; Corominas-Murtra, Hanel and Thurner; Reed and Hughes, read
+
+Three works the account's routes cited unread are now read; they enter
+through the claims they ground, and the account's map is unchanged.
+
+- **Mixtures of exponential rates**: Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md),
+  [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)) ground [CLAIM-795](../claims.d/CLAIM-795.md)'s item 4 for a gamma spread; a spread
+  gives a power law only with power-law weight at zero rate
+  ([CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md), the assistant's), which narrows the route as the account
+  states it.
+- **Sample-space reduction**: Corominas-Murtra, Hanel and Thurner
+  ([LIT-2997](../literature.d/LIT-2997.md), [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md)) ground item 5 for the uniform process they
+  prove, and give the tunable family.
+- **Growth with a spread of ages**: Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md),
+  [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)) ground item 6 and **support** the link noted from
+  Mitzenmacher, that an exponentially distributed observation time turns
+  Gibrat's lognormal into a power law: their eq. 9 is that double Pareto.
+
+Relayed from the parallel reading of Barabási's chapter ([LIT-2968](../literature.d/LIT-2968.md)): its
+§5.11 argues that growth and preferential attachment are necessary and
+sufficient for a scale-free network, a **contrast** with this account's
+first thesis, the same contrast noted on [CLAIM-803](../claims.d/CLAIM-803.md). The "What it does not
+say" line calling the works registered and unread now holds for fewer of
+them.

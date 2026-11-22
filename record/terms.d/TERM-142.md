@@ -39,6 +39,7 @@ summary: >-
   assistant's. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the reading whose narrower usage this term is set against -->
 <!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; the reply to Broido and Clauset, registered and unread -->
 <!-- inactive-ok-file: CLAIM-846 CLAIM-841 CLAIM-850 CLAIM-810 — filed with this term on 2026-11-21, Proposed -->
@@ -158,3 +159,13 @@ real scale-free networks "definitely not as rare". So the term should be
 read with its L(x): a claim that networks are, or are not, scale free in
 sense 1 is not settled by a test of an exact power law. [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)
 is in `draws_on` as the usage this sense is set against.
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+**An instance of two senses at once.** Bak, Tang and Wiesenfeld
+([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md), [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) report the sandpile as
+scale-free in sense 1, a cluster-size distribution D(s) ~ s^(−τ), and in
+sense 3, a spectrum S(ω) ≈ ω^(−1.58) in 2D (pp. 383–384), and derive the
+second from the first through the lifetime distribution, Eq. (2). So a
+model can be scale-free in two senses linked by a stated relation; the
+term's senses are distinct, not exclusive. An illustration, no edge.

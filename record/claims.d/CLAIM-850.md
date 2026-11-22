@@ -48,6 +48,7 @@ summary: >-
   record had no claim relating them. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: TERM-142 TERM-139 CLAIM-810 CLAIM-846 ARG-129 — filed with this claim on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2041 — Proposed; the order-to-chaos transition in random deep networks -->
 <!-- inactive-ok-file: THEORY-2158 CLAIM-809 — Proposed; the reading of 2026-11-21 and the claim it bears on -->
@@ -167,3 +168,15 @@ bifurcation" as transitions whose optimal side can differ, citing
 Toyoizumi and Abbott ([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered, Deferred) for the chaos
 side. It treats branching criticality only, and does not show that the
 three are distinct properties; no relation is written.
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+**Background.** Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md),
+[THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) call their critical state one of "minimally stable"
+clusters that have stopped percolating (p. 382). That is not the
+"marginal stability" of the note above, the loss of linear stability of
+one fixed point: theirs is spatially extended and is, on their account,
+critical. The claim's separation of chaos, criticality and cascade is
+untouched; the letter's conjecture that SOC underlies turbulence too
+(p. 381) runs criticality and cascade together without argument. No
+edge. Status unchanged.

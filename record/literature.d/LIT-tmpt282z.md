@@ -1,0 +1,67 @@
+---
+status: Active
+title: 'Tail behavior of stationary solutions of random difference equations: the case of regular matrices'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered on 2026-11-22 as a stand-in for Kesten (1973), LIT-3005,
+    whose lawful copy at Project Euclid was stopped by a WAF challenge
+    (ADR-114). Read in part the same day in NOTE-tmpy4hcs by a delegated
+    reader from arXiv (arxiv.org/pdf/1009.1728v3, v3 of 11 February
+    2011, the authors' preprint, 27 pp.); the reading is
+    THEORY-tmpocjqv. Bibliography from the arXiv API (v1 submitted
+    9 September 2010; journal reference Journal of Difference Equations
+    and Applications 18(8), 1305–1332, 2012) and Crossref (DOI
+    10.1080/10236198.2011.571383, where the title reads "behaviour"), no
+    email address sent. Not held before: no hit for the arXiv id,
+    Alsmeyer or Mentemeier in record/.
+tags:
+- probabilistic-modeling
+- mathematics
+date: '2026-11-22'
+published: '2010-09-09'
+arxiv: '1009.1728'
+doi: '10.1080/10236198.2011.571383'
+first_author: 'Alsmeyer'
+keywords:
+- 'Markov renewal theory'
+- 'implicit renewal theory'
+- 'Harris recurrence'
+- 'stochastic difference equations'
+implementations: []
+summary: >-
+  Alsmeyer & Mentemeier (2012), Tail behavior of stationary solutions of
+  random difference equations: the case of regular matrices, Journal of
+  Difference Equations and Applications 18(8), 1305–1332; arXiv
+  1009.1728. For R_n = M_n R_(n−1) + Q_n with invertible d × d matrices
+  and a negative Liapunov exponent, under (A1)–(A7), there is a unique
+  κ with lim n^(−1) log E‖Π_n‖^κ = 0 and lim t^κ P(xR > t) = K(x) > 0
+  for every direction x. A shorter proof of the result that, in their
+  words, Kesten (1973) stated "at the end of his famous article" and Le
+  Page proved; here as the record's second-hand access to Kesten's
+  matrix theorem.
+---
+<!-- inactive-ok-file: NOTE-tmpy4hcs THEORY-tmpocjqv — Skimmed or Proposed; this work's reading -->
+<!-- inactive-ok-file: LIT-3005 — Unfetched; the original this work stands in for -->
+
+# LIT-tmpt282z: Tail behavior of stationary solutions of random difference equations: the case of regular matrices
+
+Alsmeyer and Mentemeier (2012). Journal of Difference Equations and
+Applications 18(8), 1305–1332. arXiv 1009.1728.
+
+## Key takeaways
+
+- Theorem 1.1 (p. 2): the matrix form of the Kesten tail, with κ fixed by
+  the growth rate of E‖Π_n‖^κ and a positive, continuous limit K(x) in
+  every direction.
+- Remark 1 (p. 3): the result, "with one extra condition", was stated by
+  Kesten at the end of his 1973 article and proved by Le Page.
+
+## Standing in the record
+
+Registered as a stand-in for Kesten (1973), [LIT-3005](LIT-3005.md), which is Unfetched
+([ADR-114](../decisions.d/ADR-114.md)). It gives the matrix theorem only at second hand, through the
+authors' Theorem 1.1 and Remark 1; it does not restate Kesten's own
+hypotheses.

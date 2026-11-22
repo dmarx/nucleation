@@ -22,6 +22,7 @@ summary: >-
   Miller (1957), Some effects of intermittent silence, American Journal of Psychology 70, 311–314, DOI 10.2307/1419346. Random typing: letters and a space struck at random give a power law in word frequencies by rank, as Newman ([LIT-2976](LIT-2976.md), §IV.A) and Mitzenmacher ([LIT-3003](LIT-3003.md), §6) report it. Here for random typing as a mechanism with no rich-get-richer feedback, which [CLAIM-795](../claims.d/CLAIM-795.md)'s catalogue lacks. Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-795 — Proposed; the catalogue claim this work would extend -->
+<!-- inactive-ok-file: THEORY-tmpcfn5g — Proposed; the reading of Corominas-Murtra, Hanel and Thurner, 2026-11-22 -->
 
 # LIT-tmppzucs: Some Effects of Intermittent Silence
 
@@ -30,3 +31,12 @@ Miller (1957), Some effects of intermittent silence, American Journal of Psychol
 ## Standing in the record
 
 Registered on 2026-11-22 while filing Newman's review ([LIT-2976](LIT-2976.md)), which names it. The record relies on it for random typing as a mechanism with no rich-get-richer feedback, which [CLAIM-795](../claims.d/CLAIM-795.md)'s catalogue lacks. Not read.
+
+## Note of 2026-11-22: Corominas-Murtra, Hanel and Thurner, read
+
+A **rival route** to the same law ([LIT-2997](LIT-2997.md), read in [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md);
+[THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md)): sample-space reduction, like random typing, gives Zipf's
+law in word frequencies with no feedback, by nested choices in sentence
+formation rather than random letters and spaces. The paper does not cite
+or compare Miller. Both can hold of different texts; neither excludes the
+other, so no `rivals` is written.
