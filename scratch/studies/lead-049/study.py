@@ -130,8 +130,11 @@ def part2_one(args):
         n_ad, th_ad = M.simulate(nic, b, c, n, th, EPS, T=400, dt=DT, alive=keep)
         th_probe = th_ad.copy(); th_probe[i] = th[i]
         lam_ad = float(M.growth(nic, b, c, n_ad, th_probe)[i])
-        # cond C: the frozen -i community meets theorem A for the -i system
-        cC = M.theorem_A_check(nic, b, c[keep], nt[keep], th[keep], EPS)
+        # Theorem C's full hypothesis is computed by condC_check.py. This field omits
+        # stationarity; it is kept for the runs already written.
+        present = keep & (nt > 1e-12)
+        cC = (M.theorem_A_check(nic, b, c[present], nt[present], th[present], EPS)
+              if present.sum() == keep.sum() else {"holds": False})
         # reinvasion from 1e-6 with full adaptive dynamics
         n0 = n_ad.copy(); n0[i] = 1e-6
         n_back, th_back = M.simulate(nic, b, c, n0, th_probe, EPS, T=800, dt=DT)
