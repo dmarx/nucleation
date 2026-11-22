@@ -93,6 +93,7 @@ summary: >-
   dilemma. The literatures support components of the mechanism; none
   shows a single self-confirming loop behind every protective policy.
 ---
+<!-- inactive-ok-file: CASE-tmpxmuri CLAIM-tmpqp1h6 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed or new; the premise and LEAD-047's readings of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-677 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
@@ -254,3 +255,22 @@ The search for an individual-level test of this claim's premise
 threat belief held fixed ([LEAD-047](../leads.d/LEAD-047.md), scratch/studies/lead-047/; readings
 [NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md) and [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md)). The premise's distinctive part stays
 untested. No status changes.
+
+## Note of 2026-11-22: a sentry that restricts its own evidence, from [LEAD-076](../leads.d/LEAD-076.md)
+
+[LEAD-076](../leads.d/LEAD-076.md) ran [CASE-153](../cases.d/CASE-153.md)'s sentry with hidden state and evidence restriction
+([CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md)). In the model, a protective regime whose authority is
+rewarded by its apparent success, and which can block the inspection that
+would judge it, maintains itself through 400 safe steps. In 43 % of runs
+the belief is never corrected. It still protects when danger returns. An
+intervention that insulates the evaluation changes exit: an audit lets
+66 % of runs leave, and independent reinforcement lets every run leave.
+So the model does not meet this claim's second defeater.
+
+Restriction alone, under independent evaluation, maintains the regime
+only with a strong sentry (κ ≥ 2.75), or when the agent assumes the world
+almost never changes. This supports the claim's evidence clause as
+possible within a model, nothing more ([ARG-025](../arguments.d/ARG-025.md)). [CLAIM-tmpqp1h6](CLAIM-tmpqp1h6.md) holds the
+finding.
+
+No status change.
