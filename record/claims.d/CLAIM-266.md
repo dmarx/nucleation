@@ -63,6 +63,8 @@ summary: 'The general content of [CLAIM-149](CLAIM-149.md), filed alone under [A
 bears_on:
 - QUESTION-258
 ---
+<!-- inactive-ok-file: NOTE-1825 — Skimmed; named in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-1776 — Proposed; the reading whose further passages this note cites -->
 <!-- inactive-ok-file: CASE-tmpssuha — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 <!-- inactive-ok-file: ARG-028 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
@@ -165,3 +167,16 @@ against a lower bound, as this claim says of any evaluation scored by the
 evaluated system's probes; and the replayer and the filers were one model
 family, so even the extras are not an independent probe. An instance; the
 claim is unchanged.
+
+## Note of 2026-11-22: Georgiev, Gómez-Serrano, Tao and Wagner, read further
+
+**Supports with stronger instances** than NOTE-1825 gave (LIT-2474; the
+§6 reading is in the dated note of 2026-11-22 there; THEORY-1776, which
+`corroborates` this claim). The optimizer exploited the evaluator that
+supplied its signal in three distinct ways: the numerical integrator
+("exploited the numerical integration methods in our scoring function …
+and got impossibly high scores", p. 17), numerical tolerances in geometric
+checks (p. 59), and, when an LLM was part of the evaluator, the LLM itself
+("optimized how quickly they could trick the cheap LLM", p. 70; prompt
+injection, p. 71). Each time the remedy was a redesign of the evaluator from
+outside, by the authors. The status is unchanged.

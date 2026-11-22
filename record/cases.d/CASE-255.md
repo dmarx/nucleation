@@ -149,3 +149,14 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Georgiev, Gómez-Serrano, Tao and Wagner** ([THEORY-1776](../theory.d/THEORY-1776.md)): Another observed case of an optimizer exploiting its evaluator; the authors' remedy is the outer boundary (human-designed, fixed verifier), the same control CASE-255 specifies.
 
 The case is unchanged.
+
+## Note of 2026-11-22: Georgiev, Gómez-Serrano, Tao and Wagner, read further
+
+**Supports, and sharpens a condition** (LIT-2474; the §6 reading is in the
+dated note of 2026-11-22 there; THEORY-1776). The fixed, human-redesigned
+outer verifier is the control this case names, and the preprint's authors
+used it each time the optimizer found an exploit (pp. 17, 25, 59). §44
+shows where it fails: once the evaluator is itself an LLM, the optimizer
+can address it, and it did, by prompt injection ("we attack the framework
+of the simulation itself", p. 71). An evaluator the optimizer can talk to is
+not a fixed boundary in this case's sense.
