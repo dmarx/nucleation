@@ -135,6 +135,7 @@ summary: >-
 bears_on:
 - QUESTION-228
 ---
+<!-- inactive-ok-file: CASE-tmpokq28 CLAIM-tmp92xul — new; LEAD-089's study and finding -->
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-168 CLAIM-170 — Proposed; the premise, the objection answered and the thesis made testable, open -->
@@ -281,3 +282,13 @@ candidate it rejects may still earn a name.
 Its first condition is [CLAIM-157](CLAIM-157.md), which is Proposed, and the necessary half
 of that criterion is unanswered ([CLAIM-157](CLAIM-157.md)'s note of 2026-10-29). With
 [CLAIM-194](CLAIM-194.md) and [CLAIM-393](CLAIM-393.md) written in, nothing else on file holds it back.
+
+## Note of 2026-11-22: test 4 priced on training data alone
+
+In [CASE-tmpokq28](../cases.d/CASE-tmpokq28.md), test 4 was run as log evidence. A will-organization model
+whose relations compose otherwise than the world's passes it by 10 to 82
+nats on the arrangements seen in training. It then mispredicts the
+combinations never seen, worse than an additive control gate
+([CLAIM-tmp92xul](CLAIM-tmp92xul.md)). Test 4's "describes it better" therefore needs to be scored on
+held-out interventions, not on observations under the arrangements already
+seen. Reported for the owner; the tests are unchanged.
