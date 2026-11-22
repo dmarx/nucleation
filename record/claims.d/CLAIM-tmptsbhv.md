@@ -47,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-861 CLAIM-820 TERM-140 CLAIM-835 CLAIM-813 — Proposed; sloppiness relative to observables, parameter and behavioural complexity, the term, metric-relative smallness and sloppiness against singularity, cited 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-tmpy4mba — new; the alternative reading, filed in the same batch of 2026-11-22 -->
 
-# CLAIM-tmptsbhv: A self considered as a sloppy mess of connected perspectives (technical reading)
+# CLAIM-tmptsbhv: A self may be considered as a sloppy mess of connected perspectives in the technical sense of sloppy: an organization of many coupled degrees of freedom whose responses to the affordable probes depend on a few stiff combinations of them and barely on the rest, so that it can be richly differentiated within and still appear low-dimensional, and which of its differences show depends on the probes
 
 ## The claim
 

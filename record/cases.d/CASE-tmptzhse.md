@@ -34,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-788 CLAIM-787 CLAIM-tmpx7oaj — Proposed or Open; the First Contact entries and rate claims this case uses -->
 
-# CASE-tmptzhse: A smart touch-scroll interface as a testbed for First Contact's co-adaptation
+# CASE-tmptzhse: A smart touch-scroll interface as a testbed for First Contact's co-adaptation: the owner's proposal that a scroll interface learn the user's expected gain, momentum and braking from how they scroll, without knowing what they are looking for, under the owner's constraint that inference latency not add to perceptual latency; with A's designs, a fast deterministic scrolling loop beside a slow learning loop, one adaptive parameter first, and a staged comparison of correction statistics against the mutual-information score
 
 ## The case
 

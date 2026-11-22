@@ -29,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmptzhse CLAIM-tmpk8ude CLAIM-711 CLAIM-478 — Proposed; the case and claim filed with this argument on 2026-11-22 -->
 
-# ARG-tmpzxz7y: Learned scroll parameters, by analogy, as stored work that expands what is realizable
+# ARG-tmpzxz7y: Learned scroll parameters, cached so that later gestures need no fresh inference, show by analogy that a stabilized constraint expands what is realizable within a fixed per-task budget
 
 ## The inference
 

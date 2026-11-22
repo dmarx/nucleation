@@ -38,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-118 TERM-116 CLAIM-052 — Proposed entries this definition is assembled from or sits beside, cited 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-tmp7qzux — new; the companion claim filed in the same batch of 2026-11-22 -->
 
-# TERM-tmpwc4la: dispositional address
+# TERM-tmpwc4la: dispositional address, of a perspective under a declared probe family: the map from each admissible probe or intervention q to the law of the observed response, q ↦ P(Y | p, do(q)), taken up to observational equivalence under that family, so that a perspective is located by what it is disposed to do under the tests run and not by a label or a reconstruction of its goals; relative to the family, and so to the budget that affords it
 
 ## Definition
 

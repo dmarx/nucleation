@@ -39,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmphjm0q — Proposed; filed in this filing of 2026-11-22 -->
 
-# Possibility and realization are separate dimensions of a regulatory regime: its compatibility complex says which sets of public demands some attainable history meets, the probability of meeting them under a model of participants' behaviour says how reliably the regime selects such a history, and a regime can improve either without the other
+# CLAIM-tmpx9nrj: Possibility and realization are separate dimensions of a regulatory regime: its compatibility complex says which sets of public demands some attainable history meets, the probability of meeting them under a model of participants' behaviour says how reliably the regime selects such a history, and a regime can improve either without the other
 
 ## The claim
 

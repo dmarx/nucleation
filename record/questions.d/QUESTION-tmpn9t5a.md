@@ -23,7 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpz67ew LIT-1219 — Proposed or Unavailable; cited in this filing of 2026-11-22 -->
 
-# Can a regulation work in an industrial ecosystem as a stabilizing mechanism does in coexistence theory, so that a capability reduced to rarity recovers when demand for it returns without continuing support, and what separates that from regulation that holds visible diversity in place or that protects incumbent firms?
+# QUESTION-tmpn9t5a: Can a regulation work in an industrial ecosystem as a stabilizing mechanism does in coexistence theory, so that a capability reduced to rarity recovers when demand for it returns without continuing support, and what separates that from regulation that holds visible diversity in place or that protects incumbent firms?
 
 A33 §4 contrasts two regulatory responses to an incumbent that controls
 essential infrastructure. One subsidizes entrants to equalize their

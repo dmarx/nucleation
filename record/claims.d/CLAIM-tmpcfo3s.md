@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2147 — Proposed; the First Contact reading -->
 
-# CLAIM-tmpcfo3s: First Contact's score is information under realized commands; empowerment is the channel's capacity
+# CLAIM-tmpcfo3s: First Contact's score is information under the user's realized commands, empowerment the capacity of the same kind of channel maximized over commands; the score is at most the capacity, so an interface can offer high capacity, precise control in principle, through commands its user does not or cannot produce, and the score, unlike empowerment, registers that shortfall
 
 ## The contrast
 

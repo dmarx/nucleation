@@ -40,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpz67ew CLAIM-tmpx9nrj CLAIM-785 — Proposed or Open; filed or cited in this filing of 2026-11-22 -->
 
-# A demand specification is not a regulation: regulations are constraints on conduct meant to induce constraints on outcomes, and a regime succeeds only if its conduct constraints make the demanded outcomes reliable under the participants' responses, so a rule can be perfectly enforced and fail its purpose
+# CLAIM-tmplgnjf: A demand specification is not a regulation: regulations are constraints on conduct meant to induce constraints on outcomes, and a regime succeeds only if its conduct constraints make the demanded outcomes reliable under the participants' responses, so a rule can be perfectly enforced and fail its purpose
 
 ## The claim
 

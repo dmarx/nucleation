@@ -47,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmp7pe33 — new; the conjecture this corrects and its revision, filed in the same batch of 2026-11-22 -->
 
-# CLAIM-tmp0dyx8: When a distinction among a self's perspectives can disappear
+# CLAIM-tmp0dyx8: A distinction among a self's perspectives cannot disappear as a probe regime is enriched along a nested family: it can disappear only when the regime changes otherwise, by dropping or replacing probes, coarsening what is recorded or shortening the horizon, which are changes of regime under which it is relative and not false, or when the organization itself changes, in which case it was a fact about the earlier organization and is not relative to any regime
 
 ## The claim
 

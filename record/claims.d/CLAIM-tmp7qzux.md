@@ -54,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-tmpwc4la — new; the term filed in the same batch of 2026-11-22 -->
 
-# CLAIM-tmp7qzux: The observational partitions a family of affordable probes induces are not the lattice of possible decompositions
+# CLAIM-tmp7qzux: The observational partitions a family of affordable probes induces are not the lattice of possible decompositions: the map from probe subsets to partitions sends a union of families to the common refinement of their partitions, but an intersection of families to a partition that can be strictly coarser than the finest common coarsening, so its image is closed under meets and not under joins, and with m probes it has at most 2^m members against the Bell number of partitions of the configurations
 
 ## The claim
 

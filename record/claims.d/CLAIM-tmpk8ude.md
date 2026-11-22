@@ -41,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-711 CLAIM-478 CLAIM-787 CASE-tmptzhse — Proposed; the claims this applies and the case it answers -->
 
-# CLAIM-tmpk8ude: An adaptive interface need not trade inference latency against perceptual latency
+# CLAIM-tmpk8ude: An adaptive interface need not trade inference latency against perceptual latency: if its learning runs off the input and rendering path and changes the interface's parameters only between actions, adaptation can take seconds while each response stays as fast as fixed physics; three timescales then come apart, the response, the adaptation and the evaluative horizon at which one can tell whether a command helped, and only the first is bounded by perception
 
 ## The claim
 

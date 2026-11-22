@@ -31,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpx7oaj CLAIM-tmpk8ude CLAIM-788 CASE-tmptzhse — Proposed; the claims this would test and the case holding its design -->
 
-# LEAD-tmplps4n: Run a staged smart-scroll study and compare the correction optimum with the score optimum
+# LEAD-tmplps4n: Run a staged smart-scroll study: instrument default scrolling, adapt one friction parameter from correction statistics, then optimize a First Contact score over gesture windows, and ask whether the friction that minimizes corrections is the friction that maximizes the score
 
 ## What to do
 

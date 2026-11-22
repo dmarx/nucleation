@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-788 CASE-tmptzhse — Proposed or Open; the entries this would test and the case holding its design -->
 
-# LEAD-tmp4eo5e: Separate interface improvement from user accommodation in an adaptive scroll interface
+# LEAD-tmp4eo5e: Separate interface improvement from user accommodation in an adaptive scroll interface: cross user experience with a fixed or updated mapping, freeze the mapping at intervals, test transfer to unfamiliar documents, and restore standard scrolling for a while to see what the user can do unassisted
 
 ## What to do
 

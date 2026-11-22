@@ -34,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmptzhse — Proposed; the reading and the case this fills a gap in -->
 
-# CLAIM-tmpx7oaj: Command-to-displacement information at fixed behaviour does not prefer a comfortable scroll gain
+# CLAIM-tmpx7oaj: With the user's commands held fixed, the information between a scroll gesture and the displacement it produces under a gain k does not prefer a comfortable gain: it is the same for every nonzero gain when the mapping is noiseless (infinite for a continuous command), and it rises with the size of the gain when the displacement carries additive Gaussian noise or is quantized to pixels; so any interior optimum a First Contact score finds over gain must come from how the user's commands change with the gain
 
 ## The derivation
 
