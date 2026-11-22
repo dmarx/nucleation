@@ -197,6 +197,25 @@ def stage_hier(counts, vocab, nltk_data):
             append(path, rec)
 
 
+def stage_alpha(counts, vocab, nltk_data):
+    """The additive fit again with stronger ridge penalties (alpha = 1 overfits
+    as attributes are added), at three depth cuts, against one permutation."""
+    path = os.path.join(RES, "hierarchy_alpha.jsonl")
+    done = done_keys(path)
+    rows, X, depth, parent, names = wordnet_nouns(vocab, nltk_data)
+    Y = double_center(spmi(counts["full"])[rows])
+    perm = np.random.default_rng(7).permutation(len(X))
+    for dmax in (4, 6, 99):
+        for alpha in (10.0, 100.0, 1000.0):
+            key = f"alpha{alpha:g}_depth<={dmax}"
+            if key in done:
+                continue
+            m = depth <= dmax
+            append(path, {"key": key, "alpha": alpha, "n_attrs": int(m.sum()),
+                          "r2_cv": float(cv_r2(X[:, m], Y, alpha=alpha)),
+                          "r2_cv_permuted": float(cv_r2(X[perm][:, m], Y, alpha=alpha))})
+
+
 def read_analogies(path, idx):
     fams, cur = {}, None
     for line in open(path):
@@ -215,6 +234,8 @@ def stage_analogy(counts, vocab, qpath):
     done = done_keys(path)
     idx = {w: i for i, w in enumerate(vocab)}
     fams = read_analogies(qpath, idx)
+    if set(fams) <= done:
+        return
     P = {k: spmi(v) for k, v in counts.items()}
     P = {k: v - v.mean(1, keepdims=True) for k, v in P.items()}  # drop word biases
     E, _ = embed(P["full"], 300)
@@ -260,6 +281,8 @@ def main(text8, nltk_data, qpath, cache):
     print(f"analogy {time.time()-t:.0f}s", flush=True)
     stage_hier(counts, vocab, nltk_data)
     print(f"hier {time.time()-t:.0f}s", flush=True)
+    stage_alpha(counts, vocab, nltk_data)
+    print(f"alpha {time.time()-t:.0f}s", flush=True)
 
 
 if __name__ == "__main__":

@@ -23,6 +23,16 @@
   strings); fixed with Counter + int32 ids; relaunched 13:09 UTC,
   limit 25 min, counts done in 22 s.
 
+- Analogy stage done (results/analogy.jsonl): interaction share 0.21-0.30
+  vs null 0.33; Spearman(acc, interaction) = -0.83 across 14 families.
+- Notes filed on QUESTION-025 and QUESTION-178.
+- Hierarchy stage running (PID 12079). alpha=1 ridge overfits as
+  attributes are added; stage_alpha (stronger ridge) added to measure.py,
+  to run after (rerun skips done keys; analogy SVD skipped when done).
+- Coordinator: nine workers share the machine. Stop only own PIDs; keep
+  scratch files in scratchpad/lead-147/ (moving dl/, cache147/, run147.log
+  there after PID 12079 exits).
+
 ## Next
 
 - Measurement script, test, run
