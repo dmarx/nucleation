@@ -39,17 +39,17 @@ complements:
 uses:
 - TERM-070
 summary: >-
-  Alternative 1 of two (leaned to) for [LEAD-195](../leads.d/LEAD-195.md)'s first question:
-  does a symmetry or conservation law meet [CLAIM-477](CLAIM-477.md)'s definition, that the
+  Alternative 1 of two (leaned to) for LEAD-195's first question:
+  does a symmetry or conservation law meet CLAIM-477's definition, that the
   constraints which partly fix what an entity is "are themselves realized
   and maintained by something"? Split by whether the law is effective. An
   effective one does, and the record holds a worked case with the realizer
-  named ([THEORY-158](../theory.d/THEORY-158.md)). A fundamental one does not in the sense
-  [TERM-070](../terms.d/TERM-070.md) gives "maintained", so it is the candidate for defeater (b);
+  named (THEORY-158). A fundamental one does not in the sense
+  TERM-070 gives "maintained", so it is the candidate for defeater (b);
   but (b) is stated as a result, and being fundamental is not something a
   result shows, so the candidate is a condition on the claim's scope, not a
-  defeat. Alternative 2 is [CLAIM-tmph783a](CLAIM-tmph783a.md). The possibility-fact half is
-  [CLAIM-tmpr0sfe](CLAIM-tmpr0sfe.md). The wording is the assistant's (Claude, in this
+  defeat. Alternative 2 is CLAIM-tmph783a. The possibility-fact half is
+  CLAIM-tmpr0sfe. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmph783a CLAIM-tmpr0sfe CLAIM-tmp6sa56 — new; the alternatives and the possibility-fact rulings filed with this claim for LEAD-195 -->
@@ -59,7 +59,7 @@ summary: >-
 
 ## The question
 
-[CLAIM-477](CLAIM-477.md) holds that what an entity is, is partly fixed by the
+CLAIM-477 holds that what an entity is, is partly fixed by the
 constraints on the configurations it can enter, and that "those
 constraints are themselves realized and maintained by something". Its
 defeater (b) is "A constraint that does individuating work while realized
@@ -67,12 +67,12 @@ by nothing, a specification prior to every realization, which would make
 constraints prior without qualification for the kinds it individuates."
 Its notes of 2026-10-27, 2026-10-29, 2026-10-30 and 2026-11-06 name a
 symmetry or conservation law as the candidate and leave it unruled, and
-[QUESTION-450](../questions.d/QUESTION-450.md) states it on its own. [LEAD-195](../leads.d/LEAD-195.md) asks for the ruling.
+QUESTION-450 states it on its own. LEAD-195 asks for the ruling.
 
 ## What the definition asks
 
 The claim uses "realized and maintained" in a thick sense, and says so.
-Its read prior art is closure of constraints ([TERM-070](../terms.d/TERM-070.md)): a constraint
+Its read prior art is closure of constraints (TERM-070): a constraint
 acts on a process at a time scale at which its relevant aspects are
 conserved, and is produced by processes at another. A10 §7's
 role-relativity, which the claim quotes, says the same across levels:
@@ -94,7 +94,7 @@ thick sense is the one to rule under.
 A symmetry or conservation law is a constraint in the claim's sense. It
 restricts which configurations and transitions are admissible, and it
 individuates kinds: Wigner's classification makes a particle kind an
-irreducible representation of the Poincaré group ([CLAIM-134](CLAIM-134.md)'s partial
+irreducible representation of the Poincaré group (CLAIM-134's partial
 reply). So the only question is whether it is realized and maintained.
 
 ## An effective symmetry or conservation law meets it
@@ -102,7 +102,7 @@ reply). So the only question is whether it is realized and maintained.
 The record holds a case with the realizer named. In a finite Markov
 process an observable is conserved, its mean and variance alike in every
 state, exactly when it is constant on each connected component of the
-transition graph ([THEORY-158](../theory.d/THEORY-158.md), Baez and Fong, re-derived here). Which
+transition graph (THEORY-158, Baez and Fong, re-derived here). Which
 quantities are conserved is then fixed by which transitions the dynamics
 realizes. Add one transition between two components and a conservation
 law is gone; it holds exactly as long as the barrier between components
@@ -112,18 +112,18 @@ persisting.
 
 Two further cases are of the same kind.
 
-- **Yang and Abanin** ([THEORY-1323](../theory.d/THEORY-1323.md), read in [NOTE-1534](../notes.d/NOTE-1534.md)): under weak noise
+- **Yang and Abanin** (THEORY-1323, read in NOTE-1534): under weak noise
   the conserved sector is what an observable comes to over a window set
-  by the noise and the system's chaos. [CLAIM-478](CLAIM-478.md)'s note of 2026-11-02
+  by the noise and the system's chaos. CLAIM-478's note of 2026-11-02
   ruled that "an exact conservation law is the limit of slowness". The
   limit is reached as the noise that would break the law goes to zero, so
   how far the law holds is set by the dynamics realizing it.
-- **[CLAIM-480](CLAIM-480.md)**: the boundary coupling a composite leaves when its
+- **CLAIM-480**: the boundary coupling a composite leaves when its
   interior is eliminated is a constraint realized by the interior and
   changing with it.
 
 And the record holds one historical case. Parity invariance was taken as
-a principle and "refuted in just that way" ([THEORY-1078](../theory.d/THEORY-1078.md), the paper's
+a principle and "refuted in just that way" (THEORY-1078, the paper's
 footnote 1). Where parity holds, it holds of some interactions and not
 others, which is how an effective constraint behaves.
 
@@ -138,7 +138,7 @@ of the current fundamental theories, if it is final.
   realizes it moves the question to the geometry, which nothing is known
   to maintain either.
 - **Maintained by nothing.** It is conserved at every time scale and
-  produced at none, so it meets the first half of [TERM-070](../terms.d/TERM-070.md)'s condition
+  produced at none, so it meets the first half of TERM-070's condition
   and not the second.
 
 So the claim's recursion does not reach a fundamental law, and such a law
@@ -161,7 +161,7 @@ So no symmetry or conservation law meets defeater (b) as things stand,
 and none could by physics alone. The candidate is not dismissed. It
 becomes a condition on the claim's scope, which the claim should state.
 
-## What it changes in [CLAIM-477](CLAIM-477.md)
+## What it changes in CLAIM-477
 
 A revision, proposed in a dated note there and not applied. "What it
 does not say" would gain one bullet: the recursion is claimed for
@@ -181,19 +181,19 @@ fixed by a fundamental law.
   one is.
 - **That a fundamental law is realized by its instances.** It says the
   claim should not depend on whether it is.
-- **That an effective law is less real.** [CLAIM-477](CLAIM-477.md)'s realized
+- **That an effective law is less real.** CLAIM-477's realized
   constraints are real constraints, and so is an effective conservation
   law.
 - **Anything about identity.** Wigner's classification fixes kinds, not
-  which member is which ([CLAIM-134](CLAIM-134.md)). Defeater (b) counts kinds, so this
+  which member is which (CLAIM-134). Defeater (b) counts kinds, so this
   does not affect the ruling.
 
 ## Alternative
 
-[CLAIM-tmph783a](CLAIM-tmph783a.md) reads the record's physics at face value: the
+CLAIM-tmph783a reads the record's physics at face value: the
 symmetries of the current fundamental theories are fundamental, so (b) is
-met now for elementary particle kinds, and [CLAIM-477](CLAIM-477.md) holds only above
+met now for elementary particle kinds, and CLAIM-477 holds only above
 them. The two differ on whether a defeater about laws may be met by the
 best current theory or needs a result. Choosing is the owner's. The
-possibility-fact rulings, [CLAIM-tmpr0sfe](CLAIM-tmpr0sfe.md) and [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md), can be
+possibility-fact rulings, CLAIM-tmpr0sfe and CLAIM-tmp6sa56, can be
 combined with either.

@@ -1,81 +1,125 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected. A conceded one is recorded by its
-# target's revision, and keeps the status its own evidence gives it (ADR-059).
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'dm-thesis'
-
+title: 'A possibility fact in Deutsch and Marletto''s sense is not a further candidate for the relata–realization frame''s second defeater: it is a fact about the laws, so it meets the frame''s definition exactly as far as the laws it is a fact about do; and its own definition, that the laws set no limit short of perfection on how well a task could be performed and the ability to perform it retained, states the frame''s realized and maintained constraint in modal form, as the admissibility of realizations, not as a constraint realized by nothing'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  Any of three. (i) A case in which a constructor-theoretic possibility
+  fact differs while every law, principles included, is held fixed, so that
+  possibility is not a fact about the laws. (ii) The owner's reading of
+  CLAIM-477's "maintained by something" as requiring an actual maintainer,
+  on which modal maintainability is not maintenance and the exact property
+  that makes a substrate an information medium is realized by no actual
+  thing; that is the reading of CLAIM-tmp6sa56. (iii) An argument that the
+  retention clause in the definition of a possible task is not a condition
+  on maintenance in TERM-070's sense. Not defeated by there being no
+  perfect constructor, which this claim grants.
 tags:
-- agency
-
+- metaphysics
+- individuation
+- quantum-foundations
 date: '2026-11-22'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
-- will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# Before filing a counter, ask: does it say the conclusion is false, or that
-# something does not show it? The second is not a claim but an ARG from the
-# premises to the conclusion, Rejected or Proposed (ADR-061).
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+- distributed-agency
+- pragmatic-transport
+answers:
+- QUESTION-450
+bears_on:
+- QUESTION-284
+grounds:
+- THEORY-1078
+- THEORY-1066
+objects_to:
+- CLAIM-tmp6sa56
+complements:
+- CLAIM-tmpfbofs
+uses:
+- TERM-070
+summary: >-
+  Alternative 1 of two (leaned to) for LEAD-195's second question: does a
+  possibility fact in Deutsch and Marletto's sense meet CLAIM-477's
+  definition? It is not a candidate of its own. Possibility is defined by
+  what the laws allow, so the ruling on laws decides it (CLAIM-tmpfbofs or
+  CLAIM-tmph783a). And the definition of a possible task asks that the
+  laws allow constructors to be built and to keep their ability, which is
+  the frame's "realized and maintained" made modal. Alternative 2 is
+  CLAIM-tmp6sa56. The wording is the assistant's (Claude, in this
+  session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpfbofs CLAIM-tmph783a CLAIM-tmp6sa56 — new; the symmetry rulings and the alternative filed with this claim for LEAD-195 -->
+<!-- inactive-ok-file: CLAIM-477 — Proposed; the frame whose definition is at issue -->
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
+# CLAIM-tmpr0sfe: A possibility fact in Deutsch and Marletto's sense is not a further candidate for the relata–realization frame's second defeater: it is a fact about the laws, so it meets the frame's definition exactly as far as the laws it is a fact about do; and its own definition, that the laws set no limit short of perfection on how well a task could be performed and the ability to perform it retained, states the frame's realized and maintained constraint in modal form, as the admissibility of realizations, not as a constraint realized by nothing
 
-# CLAIM-tmpr0sfe: dm-thesis
+## The question
 
-## The claim
+CLAIM-477's note of 2026-10-27 on constructor theory found that "the
+possibility facts doing the work are realized by no particular thing",
+while constructors, the realized part, are only ever approximate. It
+asked "whether a law of possibility counts as something that realizes a
+constraint". QUESTION-450 and LEAD-195 ask the same.
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+## The ruling
+
+1. **A possibility fact is a fact about the laws.** A task is possible "if
+   the laws of nature impose no limit, short of perfection, on how
+   accurately *A* could be performed, nor on how well things that are
+   capable of approximately performing it could retain their ability to
+   do so again" (THEORY-1078, §2). The reading's own gloss: the paper
+   "treats possibilities as facts about the laws". What constrains is the
+   impossibility of tasks, which is a law. A possibility is where the laws
+   set no limit. So a possibility fact adds no constraint the laws do not
+   already impose, and it meets CLAIM-477's definition exactly as far as
+   those laws do. That is the symmetry ruling: CLAIM-tmpfbofs (leaned to)
+   or CLAIM-tmph783a.
+2. **The definition has the frame's recursion in it.** The clause "nor on
+   how well things that are capable of approximately performing it could
+   retain their ability to do so again" is a condition on maintenance.
+   The paper's subsidiary theories must measure a constructor's accuracy
+   "(including its own maintenance)". So "T is possible" says that
+   realizers of T can be built and can keep their ability to any accuracy
+   short of perfection. That is what CLAIM-477 calls a constraint realized
+   and maintained by something, stated as what the laws admit, without
+   requiring one actual realizer. It does not describe a constraint
+   realized by nothing. It describes the conditions under which a
+   constraint can be realized.
+3. **The frame's individuation is modal too.** CLAIM-477 fixes an entity
+   partly by "the constraints on the configurations of entities and
+   relations it *can* enter". An information medium is fixed by which
+   tasks on it are possible: permutation and cloning (THEORY-1066). Both
+   individuate by admissibility. That the possibility needs no actual
+   constructor is the same as the frame's admissibility needing no actual
+   configuration. So it does not set constructor theory against the frame.
+4. **The exactness belongs to the laws.** Instantiating information is "an
+   exact, intrinsic property of the substrate" (§4), and every constructor
+   is approximate ("No perfect constructors exist in nature", §2). The
+   exactness comes from the laws setting no limit, not from any
+   constructor. So an exact individuating property realized by no exact
+   constructor is again a question about laws.
+
+## What it adds
+
+Constructor theory's own role-relativity sits with the frame's: "Loops
+are excluded, because a substrate on a loop is a constructor" (§2), as
+A10 §7's "Constraint at level n ≈ realized organization at level n−1".
+Whether something constrains or is constrained depends on its place in a
+network of tasks.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That constructor theory is true.** Its principle I, that every law can
+  be stated as possible and impossible tasks, is the programme's
+  conjecture (THEORY-1078, "What this does not say").
+- **Anything about defeater (a).** THEORY-1066 notes that "intrinsic" here
+  is a modal property referring to no specific other substrate, "not a
+  relational constitution". Whether that bears on CLAIM-477's defeater (a),
+  the intrinsic horn, is a separate question this claim does not rule on.
+
+## Alternative
+
+CLAIM-tmp6sa56 reads it the other way. If principle I holds, the laws are
+possibility facts, and so reducing possibility to the laws reduces it to
+itself. A modal maintainability is not maintenance. The exact property is
+then a constraint realized by no actual thing, and (b) is met for
+constructor-theoretic kinds. Choosing is the owner's.
