@@ -107,3 +107,13 @@ What would settle it:
 - **Revision** if one of them needs a component the tuple lacks. One
   candidate is a record of past findings, which [CLAIM-470](../claims.d/CLAIM-470.md)'s stabilizing
   clause may need apart from Σ.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov 1932 (THEORY-tmpdsft8, read in NOTE-tmpmkrpn) puts the permitted means of
+construction in the formulation of a problem (p. 59, n. 2), where this term
+keeps the admissible interventions 𝓘 apart from the answer space A. A
+problem fully stated is nearer to (A, 𝓘) than to A alone. A contrast in
+where the means are placed, not an objection: the term's split is what
+lets one question be pursued by inquiries with different means. Unchanged.

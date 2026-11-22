@@ -50,3 +50,14 @@ Register and read, under the read-and-file skill:
 
 Each correspondence in [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) confirmed, narrowed or refuted against its
 source, with the claim revised or defeated accordingly.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 ARG-tmp6sdu6 — Proposed; the reading of 2026-11-22 and its argument -->
+
+The first item is done: Kolmogorov 1932 read in full from the GDZ scan
+(LIT-tmpgnf38, NOTE-tmpmkrpn, THEORY-tmpdsft8), and its bearing on CLAIM-tmpnookt's question as
+problem argued in ARG-tmp6sdu6: confirmed in what it asserts, narrowed (a question
+with an answer space is a disjunction of problems; nothing in the calculus
+revises a problem), widened (a problem carries its permitted means), and
+one attribution corrected. The other four readings remain. Status and
+stage unchanged.

@@ -61,3 +61,13 @@ version.
   interpretive). A certificate is the support itself, for one realization.
 - **NP's certificate**: there a synonym for the witness string; here the
   accepting check of it. See [TERM-tmp7s2aa](TERM-tmp7s2aa.md).
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov 1932 (THEORY-tmpdsft8, read in NOTE-tmpmkrpn): a parallel, no edge. Logical
+and mathematical problems have "die spezielle Eigenschaft der
+Allgemeingültigkeit ihrer Lösungen" (p. 61): a solution can be presented
+so that it must be recognized as correct by any able hearer. That is what a
+certificate is for, but Kolmogorov makes it a property of the domain, of "einigermaßen idealen Charakter",
+not a record kept with the solution. Unchanged.

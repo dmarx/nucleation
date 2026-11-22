@@ -13,6 +13,8 @@ complements:
 - TERM-tmp3mop8
 - TERM-tmp94y6v
 - TERM-134
+draws_on:
+- THEORY-tmpdsft8
 summary: >-
   Filed at the owner's "consider adding a term (or two) for witness",
   2026-11-22, under the dialectic regime, with [TERM-tmp3mop8](TERM-tmp3mop8.md) (certificate) as its pair.
@@ -68,3 +70,15 @@ A proof-relevant answer, in the sense of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpn
 - **NP's witness or certificate**: complexity theory uses the two words as
   synonyms for the string a verifier checks. Here they are split: the
   string is the witness, the verifier's accepting run its certificate.
+
+## Note of 2026-11-22: Kolmogorov, read
+<!-- inactive-ok-block: THEORY-tmpdsft8 — Proposed; the reading of 2026-11-22, its argument and the claim it was read for -->
+
+Kolmogorov 1932 (THEORY-tmpdsft8, read in NOTE-tmpmkrpn) gives the witness's sense for
+existence. Brouwer's existence statement splits into "das objektive Element
+(die Aufgabe) und das subjektive (ihre Lösung)" (p. 65): the problem "in
+der Menge K ein Element mit der Eigenschaft A zu finden", and its solution,
+the element found. Nothing is left over to be an existence statement
+proper. The witness is that element; Kolmogorov adds that its having been
+found is a subjective fact (p. 61), which the term's "exhibited" keeps. The
+term now `draws_on` the reading. Unchanged otherwise.
