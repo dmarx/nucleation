@@ -35,6 +35,8 @@ summary: >-
   required".
 ---
 
+<!-- inactive-ok-file: NOTE-tmporpz2 THEORY-tmpye6xs LIT-tmpcc25u — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
+
 # NOTE-054: Brain states across spacetime via whole-brain models
 
 ## Contribution
@@ -123,3 +125,19 @@ This is a programme review from the Deco/Kringelbach/Cabral group. Most modellin
 - **The dossier's §5 heading "Theory" misses that the depression claim there is also theoretical.** The entropic-brain hypothesis *posits* diminished entropy in depression (§5), and the review offers the DMN/FPN "coming to control most of cognition" as "one possibility".
 - **Figure cross-references in §6a are mislabelled.** The text cites "figure 4c" for connectome-harmonic repertoire broadening and "figure 4b" for signal complexity. The caption has these the other way round: (b) repertoire, (c) LZ complexity. References [59] and [60] also carry each other's DOIs.
 - **§4 is one paragraph stating a hypothesis.** That the psychedelic and depressive states "can be approached from a theoretical perspective combining" neuroimaging and whole-brain models is proposed there, and nothing later tests it.
+
+## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg & Levina, read
+
+A qualification of an assumption this reading records, not of the review
+read here. The Assumptions list "The brain operates near criticality,
+where dynamic range and information capacity are maximal", cited from
+power-law observations. Azizpour and colleagues (LIT-2980, NOTE-tmporpz2,
+THEORY-tmpye6xs) take the dynamic-range maximum at criticality from
+Kinouchi and Copelli (LIT-tmpcc25u, registered, Deferred) and show that,
+in a branching network read out by a leaky integrator, it holds only for
+infinite integration time: "a finite T results in a substantial reduction
+of the dynamic range in the vicinity of the critical point", and every
+finite window has a subcritical optimum that approaches criticality as
+the window grows. One model, one task family; it does not touch
+"information capacity" or metastability. The note is the assistant's
+(Claude, in this session).

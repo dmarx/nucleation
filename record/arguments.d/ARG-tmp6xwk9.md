@@ -1,57 +1,76 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
-title: 'a1'
-
+title: "The 2023 review by Quinn, Abbott, Transtrum, Machta and Sethna, as evidence, supports the claim that parameter and behavioural complexity come apart in sloppy models, with the qualification that sloppiness yields a simple description only relative to the precision demanded of the predictions"
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+form: evidence
+grounds:
+- THEORY-tmpx26x7
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-820
+uses:
+- TERM-135
+- TERM-140
 tags:
-- agency
+- information-geometry
+- model-comparison
 date: '2026-11-22'
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
 line:
-- will-organization
-
+- formal-apparatus
+- learned-structure
+summary: >-
+  CLAIM-820 grounded LIT-2958 unread. Read (NOTE-tmp3keyy), the review
+  states consequence 1 and the relativity to observables nearly in the
+  claim's words, and answers the defeater's reparametrization clause with
+  widths and the rates-set-to-one test. It adds a qualification the claim
+  lacked: a sloppy model is low-dimensional only where many widths fall
+  below the precision demanded (ΛCDM is sloppy and fully determined). The
+  reading replaces the LIT in the claim's grounds. The wording is the
+  assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-820 THEORY-tmpx26x7 THEORY-2154 NOTE-tmp3keyy — Proposed or new; the claim, the reading and the terms the inference is stated in -->
 
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
-
-# ARG-tmp6xwk9: a1
+# ARG-tmp6xwk9: The 2023 review by Quinn, Abbott, Transtrum, Machta and Sethna, as evidence, supports the claim that parameter and behavioural complexity come apart in sloppy models, with the qualification that sloppiness yields a simple description only relative to the precision demanded of the predictions
 
 ## The inference
 
-How the premises yield the conclusion.
+CLAIM-820: when predictions depend on a few stiff combinations, a model
+can be hard to fit and still predictive, and simplicity belongs to how a
+system responds to observation. THEORY-tmpx26x7: "predictions are
+independent of all but a few parameter combinations, which is unfortunate
+if you want to deduce the parameters from collective behavior, but
+fortunate if you want to test the predictions of the model before the
+parameters are fully measured" (§8); "sloppiness is a property both of the
+scientific model and the predictions of interest" (§8.2).
 
 ## Critical questions
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+- **Is the evidence what the claim needs?** For consequence 1, a review's
+  restatement of the programme's results, independent of the claim but
+  not of the 2015 review (THEORY-2154) it already rests on. It adds no new
+  data; it adds the review's own statements of scope.
+- **Is it relative to what is observed, as the claim says?** Yes: the
+  Ising model "is not sloppy ... unless one only cares about long length
+  and time scales", and a systems-biology model "is not sloppy if one
+  designs experiments to measure one parameter at a time" (§8.2).
+- **Does it meet the claim's defeater?** The reparametrization clause is
+  answered by widths, "independent of the way we define the coordinate
+  system" (§2), and by the rates-set-to-one test, "The cost Hessian
+  remains sloppy" (§3).
+- **Does it carry less than the claim says?** In one respect. The claim
+  moves from "sloppy" to "behaviourally simple". The review does not: "A
+  sloppy model will have an effective low-dimensional description if many
+  of its widths are small compared to the precision of the predictions
+  demanded. This need not be the case", ΛCDM being "sloppy ... because the
+  experiments are so precise that all parameters are well determined from
+  the data" (§2). So the coming-apart holds relative to the observables
+  and to the precision demanded of them; the claim names the first and not
+  the second.
+- **Does it say why?** No single account: the explanations in physics and
+  in least squares "seem completely different" (§8.2).
+
+## Verdict
+
+Supports CLAIM-820, qualified: sloppiness alone does not give low
+behavioural dimension; it does so only relative to the precision
+demanded. Proposed. The qualification is added to the claim in place
+(version 3).

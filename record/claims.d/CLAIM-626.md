@@ -46,6 +46,8 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim whose second half is the collective arm, cited as open -->
 <!-- inactive-ok-file: CLAIM-841 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws", Proposed -->
 
+<!-- inactive-ok-file: NOTE-tmporpz2 THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+
 # CLAIM-626: Critical slowing has no single organizational meaning: when a collective mode slows, reduction to it improves; when the mode that restores a collective relation slows, as two detuned phase oscillators near the edge of locking, the reduction fails while the locked state still exists; when the maintenance of the coupling slows, the reduction stays good while the organization nears its fold
 
 ## The claim
@@ -123,3 +125,12 @@ signature does not by itself indicate a tuned transition. A24 §7 adds
 that conservation also changes a critical point's dynamic universality
 class (Hohenberg and Halperin's classification, named and not held).
 
+## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
+
+A parallel (NOTE-tmporpz2, THEORY-tmpye6xs). In a branching network read
+out over a finite window, critical slowing is the loss term: slowed
+population fluctuations outlast the readout's window and blur the
+discrimination of inputs, so the optimum sits below the transition. One
+more organizational meaning of slowing, in which it neither helps nor
+breaks a reduction but costs a finite-time observer confidence. No
+relation is written.

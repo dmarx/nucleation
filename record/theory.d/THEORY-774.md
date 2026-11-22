@@ -37,6 +37,8 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed; the same paper's Ising claim, set beside this one -->
 
+<!-- inactive-ok-file: NOTE-tmp3keyy THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+
 # THEORY-774: In a one-dimensional lattice hopping model with 2N+1 free hopping probabilities, all particles starting at the origin and the density after t steps observed with fixed Gaussian error, the Fisher metric is exactly t² times the distribution of the difference of two independent (t−1)-step walks, evaluated at the lag between the two hops, so it does not depend on the drift; when the walk is aperiodic with nonzero variance, its k-th largest eigenvalue is of order t^(3/2−k) for k = 0, …, 2N, so successive eigenvalues separate by a factor of order t
 
 ## Source
@@ -166,3 +168,10 @@ hierarchy by another route, sampling an analytic function within its
 radius of convergence; here the hierarchy comes from observing at a scale
 coarse relative to the system's own. Both make it a property of the model
 as observed. No relation is written; nothing here changes the reading.
+
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+A restatement (NOTE-tmp3keyy, THEORY-tmpx26x7). §6.2 repeats the hopping
+model: after one step the manifold "is not a hyper-ribbon, but is
+extended roughly equally in all directions", becoming one under further
+steps. Supports the reading; no relation is written.

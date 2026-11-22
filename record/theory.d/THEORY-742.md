@@ -52,6 +52,8 @@ bears_on:
 - QUESTION-217
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed; the numerics behind Eq. 21, cited for what they are -->
+<!-- inactive-ok-file: NOTE-tmp3keyy THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+
 # THEORY-742: For a Boltzmann distribution linear in its couplings, observed through any coarse-graining map, the Fisher information the coarse data lose about the bare couplings is the expected conditional covariance of the energy operators given the coarse state; when the renormalized Hamiltonian stays in the family, the parameter map is linear and the additive constant of the step is analytic, that loss is the constant's Hessian, so the singular part of the metric passes unchanged to the coarse data. In the hopping model of diffusion at its Gaussian fixed point, keeping every n-th position of a trajectory of fixed duration multiplies the metric by n^(1−μ) in the μ-th Hermite coordinate: the drift's information is kept exactly, the variance's falls as 1/n, and higher shape parameters' faster
 
 ## Source
@@ -194,3 +196,10 @@ succeed (§V; [NOTE-2242](../notes.d/NOTE-2242.md)), which this reading makes ex
 Boltzmann families as a conditional covariance. The review gives no
 computation and does not treat the information a coarse-graining loses.
 No relation is written.
+
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+A restatement (NOTE-tmp3keyy, THEORY-tmpx26x7). §6.1 gives the metric flow
+of Raju, Machta and Sethna, d log(ds²)/db = −D + 2y_i for irrelevant
+directions, with "the microscopic metric does not contract" along relevant
+ones. Nothing beyond this reading's source; no relation is written.

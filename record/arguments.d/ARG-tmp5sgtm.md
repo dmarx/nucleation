@@ -1,57 +1,72 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
-title: 'a2'
-
+title: "Azizpour and colleagues' branching network with a finite-time leaky readout, as evidence, supports the claim that the best distance from a dynamical transition depends on the integration window and the task, for one transition and one task family"
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+form: evidence
+grounds:
+- THEORY-tmpye6xs
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-809
 tags:
-- agency
+- complex-systems
+- neuroscience
+- information-theory
 date: '2026-11-22'
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
 line:
-- will-organization
-
+- formal-apparatus
+- learned-structure
+summary: >-
+  CLAIM-809 grounded LIT-2980 unread for strand 3. Read (NOTE-tmporpz2),
+  the paper shows every finite readout window giving a subcritical optimum
+  that approaches criticality as the window grows, with different optima
+  for two discriminability measures: support for the window- and
+  task-dependence of the thesis, in one transition (branching) and one task
+  family (rate discrimination). It does not touch strands 1, 2, 4 and 5,
+  and does not meet the defeater. The reading replaces the LIT in the
+  claim's grounds. The wording is the assistant's (Claude, in this
+  session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-809 CLAIM-814 ARG-148 THEORY-tmpye6xs NOTE-tmporpz2 LIT-tmpfn6b8 — Proposed, Deferred or new; the claim, the reading and the entries it is set against -->
 
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
-
-# ARG-tmp5sgtm: a2
+# ARG-tmp5sgtm: Azizpour and colleagues' branching network with a finite-time leaky readout, as evidence, supports the claim that the best distance from a dynamical transition depends on the integration window and the task, for one transition and one task family
 
 ## The inference
 
-How the premises yield the conclusion.
+CLAIM-809, strand 3 and its last clause: "A finite integration window
+moves the best discrimination of inputs away from the critical point",
+and "the best distance from the transition depends on the task, the
+integration window and the correlations of the environment".
+THEORY-tmpye6xs: "every finite integration time will have an optimal
+0 < λ < 1"; "With increasing timescale T, the maximum λ* moves closer to
+the critical point"; the dynamic range's maximum "is, however, different
+from the maximum of n_d".
 
 ## Critical questions
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+- **Is the evidence what the claim needs?** For the window: yes, a
+  systematic dependence of the optimum on T, with the critical optimum
+  recovered only as T → ∞. For the task: weakly, as two measures of one
+  task family (rate discrimination) peaking at different λ; no memory,
+  nonlinear or temporal task is tried.
+- **How far does it reach?** One transition, absorbing-to-active
+  branching, and the paper says the side of the optimum depends "on both
+  the task and the type of phase transition", citing the chaos transition,
+  where the supercritical side helps (LIT-tmpfn6b8). That is the claim's
+  own last clause, stated independently, not shown.
+- **Does it meet the defeater?** No. The defeater needs every component
+  maximized at the transition for every finite window; here no finite
+  window has its optimum there.
+- **Is the mechanism the one the record holds?** It is not CLAIM-814's,
+  and runs the other way. In the scalar reservoir, input and state noise
+  share one filter, and readout noise added after the filter makes
+  capacity rise toward a = 1. Here the obstacle is internal: critically
+  slowed population fluctuations, grown relative to the signal near λ = 1,
+  that a window of length T does not average out. So the two exactly
+  analysed cases the record holds push the optimum in opposite directions
+  for different reasons, which is what the thesis predicts and ARG-148's
+  "redistribute, not raise" reading allows.
+
+## Verdict
+
+Supports CLAIM-809's window- and task-dependence, narrowly: one
+transition, one task family. Silent on strands 1, 2, 4 and 5. Proposed.

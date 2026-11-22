@@ -22,6 +22,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-163 LIT-1028 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
+<!-- inactive-ok-file: NOTE-tmporpz2 THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+
 # QUESTION-091: Does the allocation of influence among an organization's processes regulate how far cascades of activity propagate, holding different subsystems at different distances from criticality, as a branching ratio would show?
 
 ## Why it is a question
@@ -74,3 +76,17 @@ framing. The status is unchanged.
   parameter; an order parameter would be a collective variable of the
   state, such as the event rate, and the paper proves nothing about
   transitions.
+
+## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
+
+A parallel from neural networks, at the same transition (NOTE-tmporpz2,
+THEORY-tmpye6xs, which `bears_on` this question). In a random network
+whose branching parameter λ is its largest eigenvalue, the best distance
+from criticality for discriminating inputs is set by the readout's
+integration window: subcritical for every finite window, approaching
+λ = 1 as the window grows. The authors draw the control reading this
+question asks about for organizations: "living systems need to adjust
+their state ... depending on the specific processing tasks" (p. 4). It is
+evidence that a subsystem's best distance from criticality can depend on
+how it is read out; it says nothing about the allocation of influence
+that the question puts as the regulator.

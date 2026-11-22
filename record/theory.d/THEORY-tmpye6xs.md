@@ -1,73 +1,81 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
+title: 'Azizpour, Priesemann, Zierenberg and Levina show, analytically in the limits and by simulation between them, that in a random network of stochastic spiking neurons with a branching (absorbing-to-active) transition at λ = 1, a leaky readout with finite integration time T makes both the number of ε-discriminable input rates and a fluctuation-aware dynamic range peak at a subcritical λ* < 1, at different λ* for the two measures, with λ* approaching the critical point as T grows, because critically slowed population fluctuations not averaged out within T blur the readout'
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpye6xs:` heading; the lint checks
-# that the two agree.
-title: 'x2'
-
+  An independent study, a replication with the authors' released code or
+  another model with an absorbing-to-active transition and a finite-time
+  readout, finds discriminability of input rates maximal at a subcritical
+  coupling that moves toward the critical point as the readout's
+  integration time grows.
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- neuroscience
 - complex-systems
-
+- information-theory
 date: '2026-11-22'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-2980
+bears_on:
+- QUESTION-507
+- QUESTION-091
+summary: >-
+  Azizpour and colleagues, LIT-2980, read in NOTE-tmporpz2. "Criticality
+  maximizes dynamic range" (Kinouchi and Copelli, LIT-tmpcc25u) becomes
+  "only for infinite integration time": every finite readout window has a
+  subcritical optimum, different for the two measures. One transition
+  (branching), one task family (discriminating stationary input rates);
+  the paper itself says the side of the optimum depends on the task and
+  the transition. Grounds CLAIM-809's window- and task-dependence
+  (ARG-tmp5sgtm).
 ---
+<!-- inactive-ok-file: LIT-tmpcc25u LIT-tmpfn6b8 NOTE-tmporpz2 ARG-tmp5sgtm CLAIM-809 CLAIM-814 — Proposed, Deferred or new; the reading, the works it names and the claims it bears on -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpye6xs: x2
+# THEORY-tmpye6xs: Azizpour, Priesemann, Zierenberg and Levina show, analytically in the limits and by simulation between them, that in a random network of stochastic spiking neurons with a branching (absorbing-to-active) transition at λ = 1, a leaky readout with finite integration time T makes both the number of ε-discriminable input rates and a fluctuation-aware dynamic range peak at a subcritical λ* < 1, at different λ* for the two measures, with λ* approaching the critical point as T grows, because critically slowed population fluctuations not averaged out within T blur the readout
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Azizpour, Priesemann, Zierenberg and Levina, "Finite integration time can
+shift optimal sensitivity away from criticality", LIT-2980, read from the
+arXiv v1 PDF of 2602.09491 in NOTE-tmporpz2.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+- N = 10⁴ binary stochastic neurons, w_ij = λ/K_i, Poisson input at rate
+  h on a fraction μ = 0.2, a leaky-integrator readout of timescale T on a
+  fraction ν = 0.2 plus Gaussian noise σ = 10⁻².
+- Limits solved: T → ∞ (mean field) and T → 0 (Fokker–Planck after a
+  Kramers–Moyal expansion); finite T by simulation with Beta fits
+  interpolated by a small neural network.
+- "n_d exhibits a maximum at a T-dependent subcritical λ < 1 ... every
+  finite integration time will have an optimal 0 < λ < 1, while for
+  infinite integration time, n_d is bound by the Gaussian noise of the
+  readout" (p. 3); the dynamic range "develops a T-dependent maximum,
+  which is, however, different from the maximum of n_d"; "With increasing
+  timescale T, the maximum λ* moves closer to the critical point" (Fig. 2).
+- Mechanism (p. 4): fluctuations near the transition "can smear out the
+  signal if they are aligned with the readout".
+
+What could have failed: at finite T the measures could have peaked at
+λ = 1, or the optimum could have moved away from 1 as T grew; neither did.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- Not that subcritical is best for every transition or task: "On which
+  side of the transition this optimum lies will, however, depend on both
+  the task and the type of phase transition" (p. 4), and at the transition
+  to chaos the paper cites the supercritical side as beneficial
+  (Toyoizumi and Abbott, LIT-tmpfn6b8).
+- Nothing on memory, nonlinear computation or temporal patterns: the
+  task is discriminating stationary input rates.
+- Not Fisher information: the measure is the ideal-observer overlap
+  error between output distributions.
+- No uncertainty on λ* is given; the biological mapping (τ ≈ 10–100 ms or
+  50–500 ms) depends on the assumed timestep.
+
+## Connections
+
+Grounds CLAIM-809's window- and task-dependence (ARG-tmp5sgtm). Contrast
+with CLAIM-814: there readout noise pushes the optimum toward the
+transition; here unaveraged internal fluctuations push it away. Bears on
+QUESTION-507 (point 2, which measure) and QUESTION-091 (distance from
+criticality set by the readout).

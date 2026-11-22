@@ -36,6 +36,8 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-813 — a Proposed claim filed with this case, and Deferred works registered from the exchange and not yet read -->
 <!-- inactive-ok-file: THEORY-2155 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
+<!-- inactive-ok-file: NOTE-tmp3keyy THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+
 # CASE-302: Two mechanisms that merge: in F(a, b) = (a + b, ab), and in a sum of two exponentials with rates u ± v, the predictions depend on the difference v only through v², so the smaller Fisher eigenvalue falls as v² and is zero on the stratum a = b, where the model image has a smooth fold edge, the learning coefficient at a true point on the edge is 3/4 against 1 inside, and a smooth prior pushed into prediction space diverges at the edge as the inverse square root of the distance
 
 ## The construction
@@ -135,3 +137,12 @@ boundary approximation follows is where "two terms merge together"
 ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), para. 12), the case's stratum. It is the only kind of
 boundary in that model at finite parameter values. The letter does not
 compute how the eigenvalue goes to zero there.
+
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+Supports (NOTE-tmp3keyy, THEORY-tmpx26x7). The review's two-exponential
+example, the case's second model, has a manifold that "folds on itself"
+at equal rates, a boundary at finite parameter values, and the review
+counts such folds among the "fold lines, corners, and other singularites"
+that make the model manifold "not strictly a manifold" (§2). It does not
+compute how the eigenvalue goes to zero there. No relation is written.

@@ -30,6 +30,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-829 CLAIM-832 CLAIM-845 CLAIM-815 — Proposed or new; the claims filed with this case from the same exchange -->
 
+<!-- inactive-ok-file: NOTE-tmporpz2 THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+
 # CASE-303: Cascade sizes of a Poisson branching process below and at criticality
 
 ## The model
@@ -94,3 +96,12 @@ It is the mean-field cascade. Spatial avalanches in low dimensions have
 other exponents (A's s^(−3/2) is the Galton–Watson value, which A states
 "for a standard branching process with finite, nonzero offspring
 variance"), so the 37% and the 3/2 are Poisson- and mean-field-specific.
+
+## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
+
+Background (NOTE-tmporpz2, THEORY-tmpye6xs). The paper's network is a
+branching process of this case's kind driven by Poisson input, with the
+absorbing-to-active transition at λ = 1; it uses the subcritical regime
+for computation, finding the best discrimination of inputs there for
+every finite readout window. Nothing in it bears on the cascade-size
+distributions this case computes.

@@ -1,121 +1,187 @@
 ---
-# Don't copy this file by hand — run `luria new note`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A NOTE is a READING of a paper: what it contains, what it assumes, what it
-# proves, and how strongly. It is not the paper's standing in this record
-# — that is the LIT note's job, and the two are allowed to disagree
-# (ANTH-ADR-025).
-
-# Read | Skimmed | Unread | Superseded, from statuses.yaml beside this file.
-# This says HOW DEEPLY THE PAPER WAS READ, not whether it is any good.
-# Be honest here. `Skimmed` is a useful, respectable status and is
-# deliberately not in force: it is not enough to source a practice from,
-# and the whole scheme exists because the record could not previously tell
-# a read paper from an unread one.
-status: Skimmed
-
-# REQUIRED. The LIT code this is a reading of. The bibliography — title,
-# authors, year, arxiv — lives there and is NOT repeated here.
-paper: LIT-000
-
-# Repeat the paper's short name as the body's `# NOTE-xxx:` heading; the
-# lint checks that the two agree.
+status: Read
+paper: LIT-2958
 title: 'Quinn, Abbott, Transtrum, Machta & Sethna — Information geometry for multiparameter models: New perspectives on the origin of simplicity'
-
 version: 1
-
-# There is deliberately no `tags:` line here either, for the same reason and a
-# stronger one. A reading's topics are DERIVED from the paper named in `paper:`
-# above — a note and its paper are the same paper, so a second copy of its
-# subject is a second copy free to disagree, and four of them were
-# (ANTH-ADR-038). Retag the LIT note; the reading follows.
-
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    From the arXiv e-print of 2111.07176 (LaTeX source of the version dated
+    2022-09-22, author's manuscript), fetched 2026-11-22 from arxiv.org
+    without obstacle. Read in full as LaTeX: abstract, §1, §2
+    (ModelManifolds.tex, SloppyExamples.tex), §3 Hyperribbon bounds, §4
+    Effective theories and MBAM, §5 Priors, §6 RG, §7 Minkowski embeddings,
+    §8 Future directions and Conclusions. Figures not viewed as images;
+    every caption read. Reference list consulted only for cited keys. The
+    published Rep. Prog. Phys. text was not compared. Section numbers are
+    the manuscript's; the source has no page numbers. Read by a reader
+    subagent; filed by a second one, which rechecked every quote used here
+    against the .tex files. No email address sent.
 date: '2026-11-22'
-
-# There is deliberately no `published:` line here. A reading's publication date
-# is DERIVED from the paper named in `paper:` above, and writing it down is a
-# lint violation — the value has one home and this is not it.
-
-# What the index table shows. One or two sentences: the finding, not the
-# subject area. Prose, so bare codes get linked by `luria link --fix`.
+summary: >-
+  A review of the Sethna-group programme. Many multiparameter models have
+  Fisher eigenvalues and model-manifold widths that are hierarchical,
+  roughly equally spaced in log over several decades: sloppy models,
+  hyperribbon manifolds. The ubiquity is "an empirical fact", bounded
+  rigorously only for least-squares models smooth in their control
+  variable; a hyperribbon gives a low-dimensional description only where
+  many widths fall below the precision demanded; and the explanations for
+  hyperribbons in renormalizable physics and in least-squares fitting
+  "seem completely different".
 ---
+<!-- inactive-ok-file: THEORY-tmpx26x7 ARG-tmp6xwk9 LIT-tmpmksrk TERM-135 TERM-140 CLAIM-820 CLAIM-812 CLAIM-813 CLAIM-825 CASE-302 THEORY-777 — Proposed, Deferred or new; the account this reading files, the work it names and the entries it bears on -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
-
-# NOTE-xxx: <paper short name>
+# NOTE-tmp3keyy: Quinn, Abbott, Transtrum, Machta & Sethna — Information geometry for multiparameter models: New perspectives on the origin of simplicity
 
 ## Contribution
 
-Two to four sentences. What did this add that did not exist before? Not what
-field it is in — what is true after it that was not true before.
+Mainly synthesis of the programme: model manifolds, the hyperribbon,
+bounds from approximation theory, effective theories at manifold
+boundaries and the manifold boundary approximation method (MBAM), priors,
+the renormalization group as metric flow, and Minkowski embeddings
+(InPCA, isKL). New by the paper's own account: the projected, "adaptive
+slab-and-spike" prior ("not published elsewhere", §1), and the statement
+that emergence in physics and in least-squares models, both hyperribbons,
+have explanations that "seem completely different" (§8.2).
 
 ## Key insight
 
-One paragraph. The single mental model this paper installs: the thing to
-remember if everything else is forgotten.
+Sloppiness is a joint fact about a model and the questions put to it. A
+model is sloppy when its sensitivities and its prediction widths are both
+hierarchical; it is effectively low-dimensional only when many widths fall
+below the precision one demands; and it is sloppy at all only for some
+observables (the Ising model for long scales, a systems-biology model for
+collective behaviour, not for one-parameter-at-a-time experiments).
 
 ## Assumptions
 
-The formal conditions the main results require. State them as conditions,
-with the expressions where they have them.
-
-- `L`-smooth gradients: ‖∇f(x) − ∇f(y)‖ ≤ L‖x − y‖
-- Bounded stochastic variance: E[‖g − ∇f‖²] ≤ σ²
-- IID data across workers, or the heterogeneity bound if not
-
-Where a paper's setting is narrower than its title suggests, say so here
-rather than letting a reader assume it transfers.
+- Gaussian-noise least squares for §3's rigour; predictions analytic, or
+  with bounded derivatives, in one experimental control (several only in a
+  supplement of the 2019 paper).
+- Widths measured from a central point along the metric's
+  eigendirections.
+- Reduced models where parameters run to limits (boundaries), with
+  interior singular points mentioned once.
+- Priors shown on sums of exponentials only.
 
 ## Key results
 
-Theorem-level, with the **exact expressions**. `O(1/√(nK))` is more useful
-than "converges at the same rate as centralized". Give the regime each holds
-in.
-
-- **Theorem 1** — statement. *Holds when:* the parameter regime.
-
-## Claims
-
-Only a `Read` note may fill this in. `strength` is about the *support*, not
-about how much you believe it.
-
-| id | claim | strength | support |
-|---|---|---|---|
-| C1 | plain English | strong / moderate / weak | Theorem 2 / experiment in §5 / informal argument |
-
-## Method
-
-*(Omit this section entirely for empirical or survey papers.)*
-
-The algorithm, its steps, and its components.
+- **Joint definition** (§2): "We call a model sloppy, and the model
+  manifold a hyperribbon, if the parameter-space eigenvalues and
+  prediction-space widths are hierarchical: roughly equally spaced in log,
+  spanning several decades."
+- **Sloppy is not low-dimensional** (§2): "A sloppy model will have an
+  effective low-dimensional description if many of its widths are small
+  compared to the precision of the predictions demanded. This need not be
+  the case"; the ΛCDM model of the cosmic microwave background "is sloppy
+  ... because the experiments are so precise that all parameters are well
+  determined from the data."
+- **Spectrum not intrinsic, widths are** (§2): rescaling parameters
+  changes "the FIM and hence the spectrum of eigenvalues"; geodesic length
+  "is independent of the way we define the coordinate system".
+- **Ubiquity is empirical** (§1): "it is an empirical fact that, for a
+  great many models from various branches of science, this manifold has a
+  characteristic shape we term a hyperribbon."
+- **The bound** (§3, restating Quinn, Wilber, Townsend and Sethna 2019,
+  LIT-tmpmksrk): "rigorous bounds ... for the special case of a
+  multiparameter nonlinear least-squares model"; "The proof relies on the
+  smoothness of the predictions as the experimental controls ... are
+  varied." With Taylor coefficients |a_k| ≤ 1, the manifold lies within
+  ε_N = T^N/(1−T) of a hyper-parallelepiped skewed by the Vandermonde
+  matrix; in the Chebyshev version it "is constrained by a hyper-ellipsoid
+  whose j-th largest principal axis length is bounded by a power law
+  ρ^{-j}", the same paragraph then saying the widths "follow a geometric
+  decay". ρ^(−j) is geometric in j; "power law" is a loose usage.
+- **Neither separation of scales nor structural non-identifiability**
+  (§3): separation of scales "certainly will generate a large range of
+  eigenvalues, but do[es] not explain why eigenvalues span many decades
+  uniformly"; with all rate constants set to one, "The cost Hessian remains
+  sloppy"; structural non-identifiability "would give eigenvalues of the
+  metric exactly equal to zero", while sloppiness is "practical
+  identifiability".
+- **Boundaries and singularities** (§2 footnote; §4): the model manifold
+  "is not strictly a manifold"; a two-exponential manifold "folds on
+  itself" at equal rates; "model manifolds may have singular models that
+  are not strictly boundaries, such as a the tip of a cone. These
+  singularities often correspond to useful reduced models."
+- **MBAM** (§4): "We do not necessarily require the true value of the
+  perturbation parameter to be small. Rather, the true parameter value may
+  be large provided the data to be explained do not constrain its value."
+  Equivalent to balanced truncation for linear time-invariant systems.
+- **Priors** (§5): for Jeffreys, "Scaling the metric g → M g has no effect
+  at all"; in a 26-parameter sum of exponentials its posterior is centred
+  "20 standard deviations away from the data"; for the optimal
+  (mutual-information) prior, along a dimension of about one standard
+  deviation or less, "the atoms will lie only at the boundaries"; as noise
+  falls, dimensions "smoothly pass from" the unresolved to the resolved
+  category.
+- **RG** (§6): for irrelevant directions d log(ds²)/db = −D + 2y_i, while
+  along relevant ones "the microscopic metric does not contract"; the
+  hopping model after one step "is not a hyper-ribbon".
+- **Relative to the question** (§8.2): "sloppiness is a property both of
+  the scientific model and the predictions of interest. The Ising model is
+  not sloppy, and has no beautiful emergent theory, unless one only cares
+  about long length and time scales. And a systems biology model is not
+  sloppy if one designs experiments to measure one parameter at a time";
+  "Perhaps it is caring about the answers to the right questions that
+  makes science possible?"
+- **Two explanations, not one** (§8.2): both kinds of emergence "form
+  hyperribbons, but our explanations for the two seem completely
+  different".
+- **Networks** (§8): "We have speculated about the relationship between
+  sloppiness and large machine learning models"; work in progress only.
+- **Overfitting** (§1): a reduced model may be preferred "but not because
+  the fuller model will overfit."
 
 ## Concepts
 
-Terms as *this paper* defines them, which is not always as the field uses
-them.
-
-- **term** — precise definition as used here.
+- **Sloppy / hyperribbon**: both eigenvalues and widths hierarchical,
+  "roughly equally spaced in log".
+- **Practical vs structural identifiability**: small nonzero vs zero
+  eigenvalues.
+- **Model manifold, boundary cell complex, MBAM, balanced truncation.**
+- **Optimal prior, NML, adaptive slab-and-spike prior; InPCA; isKL.**
 
 ## Connections
 
-How this builds on prior work, in prose. Machine-readable lineage —
-`extends:`, `corrects:`, `compared_against:` — is declared on the LIT and
-must not be duplicated here.
+§3 restates LIT-tmpmksrk (registered from this reading, Deferred). §6
+restates Machta and colleagues 2013 (LIT-1299) and Raju, Machta and Sethna
+2018 (THEORY-742), and its metric flow matches THEORY-777's b^(2y−d); the
+hopping model is THEORY-774's. The earlier papers of the programme the
+record holds are LIT-2977, LIT-3009, LIT-2994 and LIT-2999.
 
 ## Bearing on the record
 
-Which THEORY documents this reading supports, contradicts, or should
-produce. Name the codes. If a document cites this paper for something the
-paper does not say, this is where that gets written down. If the paper
-carries an instruction for machine-learning practice, it belongs in the
-Anthology of the SOTA, and this is where that is noted.
+Filed as THEORY-tmpx26x7. Dated notes of 2026-11-22 on each entry below.
+
+- **TERM-135**: supports the definition and condition 1; adds the
+  rigorous bound for smooth least-squares models and the review's own
+  interior singularities ("tip of a cone"). Made in place there.
+- **TERM-140**: supports chart and design relativity and the separation
+  from structural non-identifiability; the review's "sloppy" needs widths
+  as well as eigenvalues; "roughly equally spaced in log" is a fixed-step
+  reading beside the term's density reading. Made in place there.
+- **CLAIM-820**: supports, with the qualification that sloppiness gives a
+  low-dimensional description only relative to the precision demanded
+  (ARG-tmp6xwk9). The reading replaces LIT-2958 in its grounds.
+- **QUESTION-517**: the ΛCDM case and the Ising sentence make each
+  effective dimension relative to a question and a precision.
+- **CLAIM-813**: corroborates (practical vs structural identifiability).
+- **CLAIM-812**: parallel, in prior terms. **CASE-302**: supports (the
+  fold). **THEORY-742, THEORY-774, THEORY-777, LIT-1299**: restated, no
+  change. **THEORY-087, THEORY-081**: parallel. **CLAIM-825** (filer B's):
+  qualitative support, reported to the lead.
+
+Nothing here is filed as an instruction for machine-learning practice.
 
 ## Limitations
 
-What the paper does not establish, including what its own authors say it
-does not.
-
-## Open questions
-
-What it leaves open, and what result would close it.
+- A review: §3's theorem is restated, not proved; the multi-control case
+  is in the 2019 paper's supplement; the spectra and widths figures come
+  from earlier papers.
+- The new prior is shown only on sums of exponentials; the
+  mutual-information comparison is an estimate.
+- "Power law ρ^{-j}" misnames geometric decay.
+- Network content is speculation; interior singular sets get one
+  sentence.

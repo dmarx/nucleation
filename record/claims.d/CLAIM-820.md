@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpficzj
 title: "A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-21'
@@ -13,6 +13,16 @@ history:
     (NOTE-tmphbnqd). The survey's reading, THEORY-tmpks8pd, replaces the
     unread LIT in the grounds (ARG-tmpddl7x); the reduction method's
     reading corroborates. The claim and its status are unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    After the reading of LIT-2958 (Quinn, Abbott, Transtrum, Machta &
+    Sethna 2023, NOTE-tmp3keyy). Its reading, THEORY-tmpx26x7, replaces the
+    unread LIT in the grounds (ARG-tmp6xwk9). Added, under "What it does
+    not say": the review's qualification that sloppiness gives a
+    low-dimensional description only relative to the precision demanded
+    (ΛCDM). The sentence calling the survey and the 2023 review unread is
+    corrected. The title and the status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -42,7 +52,7 @@ grounds:
 - THEORY-742
 - THEORY-tmpks8pd
 - THEORY-2154
-- LIT-2958
+- THEORY-tmpx26x7
 - LIT-1299
 uses:
 - TERM-135
@@ -61,7 +71,7 @@ summary: >-
   Richer Power Laws", A19); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, one of the two worked cases -->
-<!-- inactive-ok-file: LIT-2958 — Deferred, registered 2026-11-21 from the exchange, unread -->
+<!-- inactive-ok-file: THEORY-tmpx26x7 ARG-tmp6xwk9 NOTE-tmp3keyy — Proposed or new; the 2023 review's reading and its argument, 2026-11-22 -->
 <!-- inactive-ok-file: TERM-135 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-075 — Proposed account, cited for the target-relativity this claim sits beside -->
 <!-- inactive-ok-file: ARG-142 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
@@ -111,14 +121,26 @@ own" ([LIT-1299](../literature.d/LIT-1299.md), as read in its note). The breadth
 systems biology models, rests on Gutenkunst and colleagues
 ([LIT-2999](../literature.d/LIT-2999.md)) and the reviews ([LIT-2994](../literature.d/LIT-2994.md), [LIT-2958](../literature.d/LIT-2958.md)). The 2015
 review was read on 2026-11-21 and grounds the claim through
-[THEORY-2154](../theory.d/THEORY-2154.md) (see the note below); the survey and the 2023 review are
-Deferred and unread, so the claim stays interpretive and Proposed.
+[THEORY-2154](../theory.d/THEORY-2154.md) (see the note below); the survey was read the same day
+([THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md)) and the 2023 review on 2026-11-22 (THEORY-tmpx26x7).
+The claim stays interpretive and Proposed.
 
 It sits beside [CLAIM-401](CLAIM-401.md) and [SYNTHESIS-075](../syntheses.d/SYNTHESIS-075.md): adequacy relative to a
 declared target. Sloppiness is the parametric face of that relativity:
 which directions are stiff depends on which observables are fitted.
 
 ## What it does not say
+
+- **Not that sloppiness alone makes behaviour simple.** Behavioural
+  complexity is counted against a precision. The 2023 review: "A sloppy
+  model will have an effective low-dimensional description if many of its
+  widths are small compared to the precision of the predictions demanded.
+  This need not be the case"; the ΛCDM model of the cosmic microwave
+  background "is sloppy ... because the experiments are so precise that
+  all parameters are well determined from the data" (LIT-2958, §2;
+  THEORY-tmpx26x7; ARG-tmp6xwk9). So the two complexities come apart
+  relative to the observables fitted and to the precision demanded of
+  them, not under sloppiness as such. Added 2026-11-22 (version 3).
 
 - **Not that the sloppy directions do not matter.** They matter for
   other observables; the claim is relative to the experiment
@@ -214,3 +236,36 @@ Read in [NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.m
   the claim's own terms: "such models have more complexity in their
   description than in their predictions" (para. 6), and the EGFR model's
   48 parameters reduce to 12 with nearly the same predictions.
+
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+Read in NOTE-tmp3keyy (THEORY-tmpx26x7). **Supports the claim, with one
+qualification** (ARG-tmp6xwk9); the reading replaces LIT-2958 in the
+grounds.
+
+- **Consequence 1:** "predictions are independent of all but a few
+  parameter combinations, which is unfortunate if you want to deduce the
+  parameters from collective behavior, but fortunate if you want to test
+  the predictions of the model before the parameters are fully measured"
+  (§8).
+- **Consequence 3 and the relativity to observables**, nearly in the
+  claim's words: "sloppiness is a property both of the scientific model
+  and the predictions of interest. The Ising model is not sloppy ...
+  unless one only cares about long length and time scales" (§8.2).
+- **Qualification:** low behavioural dimension needs widths small against
+  the precision demanded; ΛCDM is sloppy and fully determined (§2). Made
+  in place under "What it does not say" (version 3).
+- **The second clause of defeated_if** is answered again by the widths,
+  which are coordinate-free (§2), and by the rates-set-to-one test, "The
+  cost Hessian remains sloppy" (§3).
+- **Why it happens: no single account.** The review's explanations for
+  physics (coarse-graining) and for least squares (smoothness) "seem
+  completely different" (§8.2); the claim says that the complexities come
+  apart, not why, and is unaffected.
+- **Neural networks:** "We have speculated about the relationship between
+  sloppiness and large machine learning models" (§8). Consistent with
+  "Not, yet, that it holds for neural networks".
+- **A point the claim does not make:** new parameters "can therefore be
+  added without harming model predictions", and a reduced model may be
+  preferred "but not because the fuller model will overfit" (§1). Noted,
+  not adopted.

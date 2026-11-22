@@ -30,4 +30,4 @@ Quinn, Wilber, Townsend & Sethna (2019). Phys. Rev. Lett. 122, 158302; arXiv 180
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of the 2023 review by Quinn, Abbott, Transtrum, Machta and Sethna (LIT-2958, NOTE-tmp3keyy), whose §3 reviews "rigorous bounds on the manifold of possible predictions for the special case of a multiparameter nonlinear least-squares model" from this paper. It is the record's source for the hyperribbon bound (TERM-135) beyond the 2011 ratio-test heuristic, and the paper whose reading would meet the review THEORY's promote_when. Not read.
+Registered on 2026-11-22 from the reading of the 2023 review by Quinn, Abbott, Transtrum, Machta and Sethna (LIT-2958, NOTE-tmp3keyy), whose §3 reviews "rigorous bounds on the manifold of possible predictions for the special case of a multiparameter nonlinear least-squares model" from this paper. It is the record's source for the hyperribbon bound (TERM-135) beyond the 2011 ratio-test heuristic, and the paper whose reading would meet the promote_when of the review's reading, THEORY-tmpx26x7. Not read.

@@ -1,121 +1,156 @@
 ---
-# Don't copy this file by hand — run `luria new note`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A NOTE is a READING of a paper: what it contains, what it assumes, what it
-# proves, and how strongly. It is not the paper's standing in this record
-# — that is the LIT note's job, and the two are allowed to disagree
-# (ANTH-ADR-025).
-
-# Read | Skimmed | Unread | Superseded, from statuses.yaml beside this file.
-# This says HOW DEEPLY THE PAPER WAS READ, not whether it is any good.
-# Be honest here. `Skimmed` is a useful, respectable status and is
-# deliberately not in force: it is not enough to source a practice from,
-# and the whole scheme exists because the record could not previously tell
-# a read paper from an unread one.
-status: Skimmed
-
-# REQUIRED. The LIT code this is a reading of. The bibliography — title,
-# authors, year, arxiv — lives there and is NOT repeated here.
-paper: LIT-000
-
-# Repeat the paper's short name as the body's `# NOTE-xxx:` heading; the
-# lint checks that the two agree.
+status: Read
+paper: LIT-2980
 title: 'Azizpour, Priesemann, Zierenberg & Levina — Finite integration time can shift optimal sensitivity away from criticality'
-
 version: 1
-
-# There is deliberately no `tags:` line here either, for the same reason and a
-# stronger one. A reading's topics are DERIVED from the paper named in `paper:`
-# above — a note and its paper are the same paper, so a second copy of its
-# subject is a second copy free to disagree, and four of them were
-# (ANTH-ADR-038). Retag the LIT note; the reading follows.
-
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    From the arXiv v1 PDF of 2602.09491 (11 pp., dated February 11, 2026;
+    the authors' manuscript), fetched 2026-11-22 from arxiv.org without
+    obstacle. Read in full: main text pp. 1–4, Methods pp. 5–7, references
+    pp. 7–9, Supplementary Information pp. 10–11 (Fig. S1, Kramers–Moyal
+    recap). Text extracted with pdftotext; figures read from captions and
+    axis labels only. The Communications Physics version
+    (doi:10.1038/s42005-026-02584-w) was not compared; the authors' code
+    repository was not fetched. Read by a reader subagent; filed by a
+    second one, which rechecked every quote used here against the
+    extracted text. No email address sent.
 date: '2026-11-22'
-
-# There is deliberately no `published:` line here. A reading's publication date
-# is DERIVED from the paper named in `paper:` above, and writing it down is a
-# lint violation — the value has one home and this is not it.
-
-# What the index table shows. One or two sentences: the finding, not the
-# subject area. Prose, so bare codes get linked by `luria link --fix`.
+summary: >-
+  In a random branching network of stochastic spiking neurons read out by
+  a leaky integrator, the number of discriminable input rates and a
+  fluctuation-aware dynamic range both peak below the critical point for
+  every finite integration time T, at different couplings for the two
+  measures, and the optimum approaches criticality as T grows: the
+  dynamic-range maximum at criticality holds only for infinite T.
 ---
+<!-- inactive-ok-file: THEORY-tmpye6xs ARG-tmp5sgtm LIT-tmpcc25u LIT-tmpfn6b8 CLAIM-809 CLAIM-814 ARG-148 CLAIM-850 CLAIM-626 CASE-303 THEORY-2041 — Proposed, Deferred or new; the account this reading files, the works it names and the entries it bears on -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
-
-# NOTE-xxx: <paper short name>
+# NOTE-tmporpz2: Azizpour, Priesemann, Zierenberg & Levina — Finite integration time can shift optimal sensitivity away from criticality
 
 ## Contribution
 
-Two to four sentences. What did this add that did not exist before? Not what
-field it is in — what is true after it that was not true before.
+A worked trade-off, λ* = argmax {G(λ) − γL(λ)} (Eq. 1), for one system:
+the gain is the sensitivity critical systems are known for (Kinouchi and
+Copelli's dynamic range, ref. 11, LIT-tmpcc25u), the loss the confidence
+lost to correlated critical fluctuations within a finite readout window.
+It turns "criticality maximizes dynamic range" into "only in the limit of
+infinite integration time".
 
 ## Key insight
 
-One paragraph. The single mental model this paper installs: the thing to
-remember if everything else is forgotten.
+A leaky readout averages over its window. Near the transition the
+network's own fluctuations slow down and outlast the window, so they are
+not averaged out and blur the distinction between inputs. The longer the
+window, the closer to criticality one can afford to sit.
 
 ## Assumptions
 
-The formal conditions the main results require. State them as conditions,
-with the expressions where they have them.
-
-- `L`-smooth gradients: ‖∇f(x) − ∇f(y)‖ ≤ L‖x − y‖
-- Bounded stochastic variance: E[‖g − ∇f‖²] ≤ σ²
-- IID data across workers, or the heterogeneity bound if not
-
-Where a paper's setting is narrower than its title suggests, say so here
-rather than letting a reader assume it transfers.
+- Excitatory-only random network, N = 10⁴, w_ij = λ/K_i, so λ is the
+  largest eigenvalue and the branching parameter; transition at λ_c = 1
+  for h → 0 (absorbing-to-active).
+- Stationary Poisson input at rate h on μ = 0.2 of the units; the task is
+  discriminating input rates, not temporal patterns, memory or nonlinear
+  functions.
+- Ideal observer, equal priors; error is the overlap of output
+  distributions (Eq. 3). No Fisher information.
+- Readout: leaky integrator of timescale T on ν = 0.2 of the units plus
+  Gaussian noise σ = 10⁻².
+- Mean-field and second-order Kramers–Moyal approximations in the limits;
+  finite-T distributions approximated as Beta, interpolated by a neural
+  network; a greedy, non-unique packing for the set of discriminable
+  inputs.
 
 ## Key results
 
-Theorem-level, with the **exact expressions**. `O(1/√(nK))` is more useful
-than "converges at the same rate as centralized". Give the regime each holds
-in.
-
-- **Theorem 1** — statement. *Holds when:* the parameter regime.
-
-## Claims
-
-Only a `Read` note may fill this in. `strength` is about the *support*, not
-about how much you believe it.
-
-| id | claim | strength | support |
-|---|---|---|---|
-| C1 | plain English | strong / moderate / weak | Theorem 2 / experiment in §5 / informal argument |
-
-## Method
-
-*(Omit this section entirely for empirical or survey papers.)*
-
-The algorithm, its steps, and its components.
+- **Subcritical optimum** (p. 3, Fig. 2a): "n_d exhibits a maximum at a
+  T-dependent subcritical λ < 1, above which it decays for λ → 1";
+  "every finite integration time will have an optimal 0 < λ < 1, while for
+  infinite integration time, n_d is bound by the Gaussian noise of the
+  readout."
+- **Dynamic range likewise, elsewhere** (p. 3, Fig. 2b): "a finite T
+  results in a substantial reduction of the dynamic range in the vicinity
+  of the critical point"; it "develops a T-dependent maximum, which is,
+  however, different from the maximum of n_d".
+- **Direction** (Fig. 2 caption): "With increasing timescale T, the
+  maximum λ* moves closer to the critical point"; abstract: "a safety
+  margin from the precise critical point for all finite integration
+  times".
+- **Monotone in T** (p. 4): "both measures of discriminability increase
+  monotonically with T"; "For finite T, the optimal balance is achieved by
+  subcritical networks."
+- **Mechanism** (p. 4): fluctuations near the transition "can smear out
+  the signal if they are aligned with the readout ... this implies a
+  trade-off between sensitivity and discriminability."
+- **Scope disclaimed** (p. 4): "On which side of the transition this
+  optimum lies will, however, depend on both the task and the type of
+  phase transition, e.g., absorbing-to-active, transition to chaos, or a
+  bifurcation"; for chaos, "deviations toward the supercritical side,
+  deeper into the chaotic regime, allow for slower integration times and
+  are thus beneficial in the presence of noise" (ref. 40, Toyoizumi and
+  Abbott, LIT-tmpfn6b8).
+- **Reservoirs** (p. 4): "an instantaneous readout would require a larger
+  distance to criticality for optimal discriminability. However, leaky
+  readout units could allow the reservoir to be tuned closer to
+  criticality".
+- **Timescales** (p. 4): τ ≈ −Δt/ln λ gives "τ ≈ 10 − 100 ms, assuming a
+  timestep Δt = 1 ms, or ... τ ≈ 50 − 500 ms for a timestep Δt = 5 ms",
+  "consistent with empirical evidence of cortical timescales in the range
+  of 50 ms − 1 s".
 
 ## Concepts
 
-Terms as *this paper* defines them, which is not always as the field uses
-them.
-
-- **term** — precise definition as used here.
+- **Branching parameter λ**; **absorbing-to-active transition**.
+- **Dynamic range** (10%–90%) and its ε-generalization Δ(ε).
+- **ε-discriminable inputs, n_d**: inputs whose output distributions
+  overlap by less than ε.
+- **Integration time T** of the leaky readout.
+- **Reverberating regime** (ref. 21, Wilting and colleagues): subcritical,
+  near-critical.
 
 ## Connections
 
-How this builds on prior work, in prose. Machine-readable lineage —
-`extends:`, `corrects:`, `compared_against:` — is declared on the LIT and
-must not be duplicated here.
+The gain is Kinouchi and Copelli's (LIT-tmpcc25u, registered from this
+reading); the chaos-side counterpart is Toyoizumi and Abbott's
+(LIT-tmpfn6b8, registered). The branching regime is CASE-303's; the
+speed–accuracy framing parallels the two-alternative decision models
+LIT-569 and LIT-576.
 
 ## Bearing on the record
 
-Which THEORY documents this reading supports, contradicts, or should
-produce. Name the codes. If a document cites this paper for something the
-paper does not say, this is where that gets written down. If the paper
-carries an instruction for machine-learning practice, it belongs in the
-Anthology of the SOTA, and this is where that is noted.
+Filed as THEORY-tmpye6xs. Dated notes of 2026-11-22 on each entry below.
+
+- **CLAIM-809**: supports strand 3 and the window- and task-dependence of
+  the thesis's last clause, for one transition and one task family
+  (ARG-tmp5sgtm); the reading replaces LIT-2980 in its grounds. Revised in
+  place.
+- **QUESTION-507**: point 2 (which measure) gets a case; point 1 (which
+  transition) is the paper's own caveat; point 3 is untouched.
+- **CLAIM-814, ARG-148**: contrast. There readout noise, passing through
+  no filter the signal does not share, pushes the optimum toward a = 1;
+  here critically slowed internal fluctuations the window cannot average
+  push it away.
+- **NOTE-054**: qualifies its cited "dynamic range ... maximal" at
+  criticality: in this model, only for infinite integration time.
+- **QUESTION-091**: parallel, same transition. **CLAIM-850**: weak
+  support, by the paper's statement that transition type matters.
+  **CLAIM-626**: parallel, slowing as the loss. **CASE-303**: background.
+  **THEORY-2041**: contrast, a different transition.
+
+Nothing here is filed as an instruction for machine-learning practice.
 
 ## Limitations
 
-What the paper does not establish, including what its own authors say it
-does not.
-
-## Open questions
-
-What it leaves open, and what result would close it.
+- One model class and one task family; generality is expected ("We
+  expect", p. 4), not shown.
+- Intermediate T rests on Beta fits and a neural-network interpolator;
+  with ν = 0.2 the numerics sit less well between the analytic bounds than
+  with full readout (Fig. S1: "in this case the numerical results
+  interpolate better").
+- n_d depends on a greedy packing, Δ on ε and σ "tuned to recover the
+  typical 10%-90% bounds"; no uncertainty on λ* is given.
+- The biological mapping hangs on the assumed timestep.
+- Only arXiv v1 read; the journal version may differ, and the arXiv copy
+  names no journal.

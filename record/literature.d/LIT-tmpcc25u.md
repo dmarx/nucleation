@@ -30,4 +30,4 @@ Kinouchi & Copelli (2006). Nature Physics 2, 348–351; arXiv q-bio/0601037.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of Azizpour, Priesemann, Zierenberg and Levina (LIT-2980, NOTE-tmporpz2), who take its dynamic-range maximum at criticality as the gain in their trade-off and show that with a finite readout window the maximum moves to a subcritical coupling. NOTE-054 records the same maximum as a cited assumption of a whole-brain review. Not read.
+Registered on 2026-11-22 from the reading of Azizpour, Priesemann, Zierenberg and Levina (LIT-2980, NOTE-tmporpz2), who take its dynamic-range maximum at criticality as the gain in their trade-off and show that with a finite readout window the maximum moves to a subcritical coupling. NOTE-054 records the same maximum as a cited assumption of a whole-brain review, and CLAIM-809 cites the finite-window qualification. Not read.

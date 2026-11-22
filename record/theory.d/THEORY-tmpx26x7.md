@@ -1,73 +1,81 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
+title: 'Quinn, Abbott, Transtrum, Machta and Sethna call a model sloppy, and its model manifold a hyperribbon, when its Fisher eigenvalues and geodesic widths are both hierarchical, roughly evenly spaced in log over several decades; they present the ubiquity of this shape as empirical, bound it rigorously only for least-squares models smooth in their control variables, hold that it gives a low-dimensional description only where many widths fall below the precision demanded, and say that its explanations in renormalizable physics and in least-squares fitting seem completely different'
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpx26x7:` heading; the lint checks
-# that the two agree.
-title: 'x1'
-
+  Quinn, Wilber, Townsend and Sethna 2019 (LIT-tmpmksrk) is read and
+  confirms that the model manifold of a least-squares model meeting the
+  review's smoothness condition lies within a hyperellipsoid whose j-th
+  axis is bounded by ρ^(−j).
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- information-geometry
+- model-comparison
 - complex-systems
-
 date: '2026-11-22'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-2958
+corroborates:
+- CLAIM-813
+bears_on:
+- QUESTION-517
+summary: >-
+  The 2023 review of the sloppy-model programme, LIT-2958, read in
+  NOTE-tmp3keyy. Its sharp edges: "sloppy" needs widths as well as
+  eigenvalues to be hierarchical; ΛCDM is sloppy and yet fully determined,
+  because sloppiness is low-dimensional only against a demanded precision;
+  the rigorous bound is for smooth least-squares models, restated from the
+  2019 paper (LIT-tmpmksrk, Deferred); and the review offers no single
+  account of why simple effective theories exist. It grounds CLAIM-820
+  (ARG-tmp6xwk9) and is drawn on by TERM-135 and TERM-140.
 ---
+<!-- inactive-ok-file: LIT-tmpmksrk NOTE-tmp3keyy ARG-tmp6xwk9 CLAIM-820 CLAIM-813 TERM-135 TERM-140 THEORY-777 — Proposed, Deferred or new; the reading, the work it restates and the entries it bears on -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpx26x7: x1
+# THEORY-tmpx26x7: Quinn, Abbott, Transtrum, Machta and Sethna call a model sloppy, and its model manifold a hyperribbon, when its Fisher eigenvalues and geodesic widths are both hierarchical, roughly evenly spaced in log over several decades; they present the ubiquity of this shape as empirical, bound it rigorously only for least-squares models smooth in their control variables, hold that it gives a low-dimensional description only where many widths fall below the precision demanded, and say that its explanations in renormalizable physics and in least-squares fitting seem completely different
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Quinn, Abbott, Transtrum, Machta and Sethna, "Information geometry for
+multiparameter models: New perspectives on the origin of simplicity",
+Rep. Prog. Phys. (2023), LIT-2958, read from the arXiv e-print 2111.07176
+in NOTE-tmp3keyy.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+- The definition (§2): "We call a model sloppy, and the model manifold a
+  hyperribbon, if the parameter-space eigenvalues and prediction-space
+  widths are hierarchical: roughly equally spaced in log, spanning several
+  decades."
+- Empirical ubiquity (§1, "an empirical fact"), from spectra and widths of
+  earlier papers.
+- A rigorous bound restated, not proved (§3), "for the special case of a
+  multiparameter nonlinear least-squares model", resting on "the
+  smoothness of the predictions as the experimental controls ... are
+  varied": within ε_N of a Vandermonde-skewed parallelepiped, or inside a
+  hyperellipsoid with j-th axis bounded by ρ^(−j) (geometric decay, though
+  the text calls it "a power law").
+- Sloppy is not low-dimensional (§2): only "if many of its widths are
+  small compared to the precision of the predictions demanded"; the ΛCDM
+  model is sloppy and "all parameters are well determined from the data".
+- Two explanations (§8.2): coarse-graining in physics and smoothness in
+  least squares; "our explanations for the two seem completely different".
+
+What could have failed: the rates-set-to-one test (§3) could have removed
+the spread, making it an artefact of separated scales; it did not ("The
+cost Hessian remains sloppy").
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- Not that simple effective theories have one explanation: the review
+  says the opposite.
+- Not that a sloppy model is low-dimensional, nor that large neural
+  networks are sloppy ("We have speculated", §8).
+- Not a bound for general probabilistic models: "we do not yet have an
+  explanation for this in general, except for ... exponential families"
+  (§8.2).
+
+## Connections
+
+Grounds CLAIM-820, with the precision qualification (ARG-tmp6xwk9).
+Corroborates CLAIM-813 (practical vs structural identifiability). Bears on
+QUESTION-517. Drawn on by TERM-135 and TERM-140. Restates LIT-1299,
+THEORY-742, THEORY-774 and THEORY-777 in §6.

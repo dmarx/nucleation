@@ -42,6 +42,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-079 — Proposed; named in Connections, no relation leans on them -->
 
+<!-- inactive-ok-file: NOTE-tmp3keyy THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+
 # THEORY-081: The evidence of any model formed from a full model by changing only its prior is the full evidence times the full posterior expectation of the prior ratio, so the Savage–Dickey ratio is its point-mass case and choosing which parameters to keep is evidence maximisation over the prior
 
 ## Source
@@ -172,3 +174,13 @@ optimisation switches it off.
   the posterior width over the prior width, which is MacKay's Occam factor
   for φ up to a constant. Wagenmakers et al. give the same automatic
   Occam's razor in their §2.2.1, citing MacKay ([NOTE-484](../notes.d/NOTE-484.md)).
+
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+A parallel only (NOTE-tmp3keyy, THEORY-tmpx26x7). The review's priors for
+sloppy models put point masses on nested boundary models: the optimal
+prior's atoms "lie only at the boundaries" along short dimensions, and its
+adaptive slab-and-spike prior projects weight onto them (§5). These are
+prior changes of the kind this reading treats, the Savage–Dickey point
+mass among them; the review does not compute evidences this way. No
+relation is written.
