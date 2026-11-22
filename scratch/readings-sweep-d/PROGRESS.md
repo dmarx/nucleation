@@ -1,0 +1,12 @@
+# Readings sweep, batch D: filer's progress
+
+LIT-1947 (Metzinger), LIT-1996 (Howard, Gagné & Bureau), LIT-2175 (Burning
+Man's 10 Principles), LIT-tmpa7f10 (Syropoulos, Law et al.), 2026-11-22.
+Branch claude/readings-sweep-d, cut from staging. Codes from
+claude/readings-sweep (PR #649) are not cited.
+
+## Filed
+- LIT-1947: NOTE-tmpdytsl, THEORY-tmpxzn3p, LIT to Active (v2), licence CC BY 4.0, moratorium until 2050.
+
+## Next
+- LIT-1947, LIT-1996, LIT-2175, LIT-tmpa7f10; curation; changelog.
