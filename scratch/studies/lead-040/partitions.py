@@ -9,8 +9,8 @@ phi = h . v with v the network's order direction.
    state is not a domain state. The field is discretized to three levels;
    a past light cone of depth 2 (9 cells, plus the phase of the run) is
    grouped by its empirical conditional distribution over future light cones
-   of depth 2 (8 cells). A past is a domain state when its future cone is
-   uniform and ordered with probability >= DOMAIN_P; pasts seen fewer than
+   of depth 2 (8 cells). A past is a domain state when each time row of its future cone
+   is uniform and ordered with probability >= DOMAIN_P; pasts seen fewer than
    MIN_COUNT times are unresolved and counted as structure.
 3. local transfer entropy (after Lizier): te(i, t) = sum over the two
    neighbours j of log2 p(x_i(t+1) | x_i(t), x_i(t-1), x_j(t)) /
@@ -92,9 +92,14 @@ def past_future_codes(D, phase):
             fut_cols.append(P[ts + t_off][:, :, 2 + di:2 + di + n])
     past = _encode(past_cols) * 2 + phase[ts][:, None, None]
     fut = _encode(fut_cols)
-    uniform = np.zeros(fut.shape, bool)
-    for lev in (0, 2):
-        uniform |= np.all(np.stack([c == lev for c in fut_cols]), axis=0)
+    # a domain-like future: each time row of the cone is uniform and ordered
+    # (rows may differ, so a period-2 alternation in time still counts)
+    uniform = np.ones(fut.shape, bool)
+    for row in (fut_cols[:3], fut_cols[3:]):
+        row_u = np.zeros(fut.shape, bool)
+        for lev in (0, 2):
+            row_u |= np.all(np.stack([c == lev for c in row]), axis=0)
+        uniform &= row_u
     return ts, past, fut, uniform
 
 

@@ -20,6 +20,34 @@
 
 ## Next
 
-- Design the task and model; write code and tests.
+- Wait for results.jsonl (resumable: rerun run.py, done ids are skipped).
+- Summarize; write README; file CASE, CLAIM if warranted, notes on
+  QUESTION-491 and LEAD-040, changelog fragment.
 
 ## Choices
+
+- Lattice: 1D, N=32 sites, hidden d=4 (4 seeds) and d=8 (2 seeds); update
+  tanh(Ws h_i + Wn(h_{i-1}+h_{i+1}) + u x_i), no bias, so Z2-equivariant.
+- Task: noisy +-1 domain input (0-4 walls, domains >= 3) for 8 steps, then
+  bulk input off for 12 steps with end sites clamped (boundary conditions);
+  target m^2 (m = mean of input signs), read out as (mean a.h)^2 (Z2-even).
+  Chosen so that moving a wall changes the answer (the lead's "what would
+  count").
+- Partitions on slices t=4, 8 (input phase), 12, 16 (free phase):
+  walls = sign change of the order field; coherent structures = local
+  causal state not a domain state (3-level field, past cone depth 2, future
+  depth 2, domain = each future row uniform w.p. >= 0.9); local TE from
+  both neighbours, history 2, > 0.5 bit; operative = flipping h_i -> -h_i
+  moves the prediction by > 0.002.
+- Interchange (THEORY-2003): move one wall by 2 sites by splicing the
+  source run (same noise, wall moved) on the window, at t=4 and t=8;
+  control window of equal width away from walls.
+- Controls (THEORY-1002): frozen random networks (scale 0.5 and 1.5),
+  readout trained only.
+- Closed vs anchored: minority domain of length 1-8 vs single wall forced
+  by opposite boundary inputs, run 200 free steps; shrink a pair by
+  interchange; erase the anchored wall by writing a uniform state.
+- Experiment E (spectrum around a wall) not attempted: outside the lead.
+- Model, partitions, experiments and tests written (11 tests pass); smoke
+  run of one item took 8 s. Full run started 2026-11-22 (10 items, about a
+  minute each; time limit 40 min), writing results.jsonl item by item.

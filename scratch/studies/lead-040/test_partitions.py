@@ -53,3 +53,12 @@ def test_static_wall_is_structure():
     # a future cone of radius 2 reaches the wall from sites 3..6 only
     assert not structure[:, :, 2].any()
     assert not structure[:, :, 7].any()
+
+
+def test_temporally_alternating_domain_is_domain():
+    T, B, n = 10, 50, 8
+    D = np.full((T + 1, B, n), 2, dtype=np.int64)
+    D[::2] = 0
+    phase = np.zeros(T + 1, dtype=np.int64)
+    ts, structure, _ = Pt.causal_state_structure(D, phase)
+    assert not structure[:, :, 2:-2].any()
