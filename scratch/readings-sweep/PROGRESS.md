@@ -18,3 +18,11 @@ LIT-2373, LIT-2363 (sweep-b), 2026-11-22.
 
 ## Next
 - Nothing: the batch is filed. Report to the caller.
+
+# Batch C (LIT-2447, LIT-2328, LIT-536)
+
+## Filed
+- LIT-2447: NOTE-tmpzok4t, THEORY-tmpkdnvu, LIT to Active (v3), citation 13:64. Cordes [61] = LIT-2370.
+
+## Next
+- LIT-2447 dated notes; LIT-2328 / LIT-2474 notes; LIT-536 and two neighbours; curation; changelog.
