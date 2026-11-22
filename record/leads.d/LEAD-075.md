@@ -42,3 +42,8 @@ Where the record names it:
 
 Cases of all four kinds answer [QUESTION-392](../questions.d/QUESTION-392.md) by construction; kinds that
 cannot occur narrow it.
+
+## Note of 2026-11-22: carried out
+<!-- inactive-ok-file: CASE-tmp17sbe CLAIM-tmpmvt0a — new; the executed study of this lead and the claim filed from it -->
+
+Run by a delegated worker on branch claude/lead-075-staging-state. The model (CASE-198's, with states (q, z), one capacity, a crease constraint as a variant, crossing and switching times, a background load and a temporary reserve for readiness), its 14 pytest tests and its results are under scratch/studies/lead-075/, whose README states each modelling choice the lead left open and the reason for it. Filed: CASE-tmp17sbe (executed-study) and CLAIM-tmpmvt0a (demonstrated thesis). All four kinds of case occur, each on an open region of budget and reserve, so "what would count" is met: no kind is ruled out. What remains: readiness under policies other than the fastest admissible one (TERM-115's actual policy), several resources, and a staging architecture faster than the home one. The stage and status are the owner's to set.
