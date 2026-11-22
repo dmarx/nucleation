@@ -135,4 +135,4 @@ Across A32 to A37 of the exchange "Individuation, Possibility, and Disposition" 
 
 ## Note of 2026-11-22: the failures recur in a seventh exchange, in a different mix
 
-In the exchange "Rich Get Richer Power Laws", coded move by move (CASE-tmpzi1u3), the identity failures this claim describes recur, but mostly as re-derivation without back-reference (33 instances in 23 items); silent redefinition occurs once ("hyperribbon" at A41), a case changes identity once, and in the argument phase every change of hypothesis is announced and argued, unlike the will and translation exchanges.
+In the exchange "Rich Get Richer Power Laws", coded move by move ([CASE-tmpzi1u3](../cases.d/CASE-tmpzi1u3.md)), the identity failures this claim describes recur, but mostly as re-derivation without back-reference (33 instances in 23 items); silent redefinition occurs once ("hyperribbon" at A41), a case changes identity once, and in the argument phase every change of hypothesis is announced and argued, unlike the will and translation exchanges.

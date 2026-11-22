@@ -45,4 +45,4 @@ through it [CLAIM-176](../claims.d/CLAIM-176.md); a different one bounds it to t
 
 ## Note of 2026-11-22: the first half done
 
-Done for a second exchange of the same owner and assistant family: CASE-tmpzi1u3 (the exchange "Rich Get Richer Power Laws", 43 identity failures against 5 structure failures under a codebook fixed before coding; materials under scratch/studies/lead-079/). The half with another owner or another assistant family is still open, and the result has one AI coder and no agreement figure, so a second coder on about 30% of turns is the next step. The lead stays Open.
+Done for a second exchange of the same owner and assistant family: [CASE-tmpzi1u3](../cases.d/CASE-tmpzi1u3.md) (the exchange "Rich Get Richer Power Laws", 43 identity failures against 5 structure failures under a codebook fixed before coding; materials under scratch/studies/lead-079/). The half with another owner or another assistant family is still open, and the result has one AI coder and no agreement figure, so a second coder on about 30% of turns is the next step. The lead stays Open.
