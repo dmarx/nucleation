@@ -80,3 +80,12 @@ confirmed in people with context sampling measured directly, or an
 exposure-matched contrast in which restoring sampling produces lasting
 change and a precision-lowering drug does not. More simulations cannot
 settle it.
+
+## Note of 2026-11-22: the promote_when is not met
+<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 — new; filed for LEAD-106 -->
+
+LEAD-106 found no study of either kind this entry's promote_when asks
+for. The nearest, THEORY-tmp1ov9x, has trauma-exposed controls and eye
+tracking but no cued recall, no disambiguating periphery and only a
+latency measure; THEORY-tmp8n4s7 finds no eye-tracking study of PTSD
+after recall. The entry stays Proposed.

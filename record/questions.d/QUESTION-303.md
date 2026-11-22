@@ -50,3 +50,38 @@ account is refuted if people with persistent PTSD sample disambiguating
 context as much as resilient controls and still keep the harmful-context
 belief. More simulations with other parameters cannot settle it, and nor
 can symptom improvement alone.
+
+## Note of 2026-11-22: LEAD-106 searched; no study yet answers either half
+<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 CLAIM-tmpcug8h CLAIM-tmpc7tmg ARG-tmpc0892 — new; filed for LEAD-106 -->
+<!-- inactive-ok-block: LIT-tmp5bqfy LIT-tmpocdt2 LIT-tmpizs88 LIT-tmpgjodp LIT-tmp4oubb LIT-tmpg13ib — Deferred; registered for LEAD-106, not read -->
+
+LEAD-106 searched Europe PMC for both kinds of evidence this question
+names. **Neither has been collected.** No study measures context sampling
+after cued traumatic recall in PTSD against trauma-exposed controls, and
+the 2026 scoping review of eye tracking in PTSD (THEORY-tmp8n4s7) includes
+none after recall. No trial runs the same exposure with and without
+restored context sampling.
+
+**The nearest, first half** (THEORY-tmp1ov9x, read): with a cue specific
+to each participant's trauma set in a neutral background, people with PTSD
+first fixated the background later than trauma-exposed controls and the
+cue as fast. It lacks the recall manipulation, disambiguating periphery
+and a measure of how much is sampled. Whether it counts as evidence here
+is filed as alternatives: CLAIM-tmpcug8h, leaned to, reads it as weak,
+indirect support for the predicted direction, with ARG-tmpc0892;
+CLAIM-tmpc7tmg reads it as no evidence, since the background carried no
+information to withhold. Unread studies of how widely people scan point
+both ways: shorter scanpaths in PTSD in visual search (LIT-tmp5bqfy), but
+more scanning of ambiguous scenes with hypervigilance (LIT-tmpocdt2,
+LIT-tmpizs88) and more gaze to emotional backgrounds with symptoms
+(LIT-tmpgjodp).
+
+**The nearest, second half** (registered, not read): the EMDR protocol
+with an external visual focus beat the same protocol without one, pre to
+post (LIT-tmp4oubb); the component is not context sampling and lasting
+change is not reported in the abstract. Stimulus-discrimination training
+before analogue trauma films reduced intrusions against suppression
+(LIT-tmpg13ib); it has no matched exposure.
+
+The refutation condition, equal sampling with the belief kept, is untested.
+The question stays Open.

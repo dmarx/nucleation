@@ -126,3 +126,17 @@ Within the chosen parameters, neither happened.
 - **[THEORY-053](THEORY-053.md)** says only change in the theorised process, ahead of the
   outcome, bears on a theory of change. The drug arm is a modelled
   instance of outcome without process, and it relapses.
+
+## Note of 2026-11-22: the human literature LEAD-106 found
+<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 CLAIM-tmpcug8h CLAIM-tmpc7tmg — new; filed for LEAD-106 -->
+
+No study has tested the model's prediction, peripheral against focal
+attenuation after cued recall. The nearest (THEORY-tmp1ov9x) is a parallel
+in people, not a test: under a trauma-specific cue, people with PTSD
+reached the neutral surround later than trauma-exposed controls. The
+surround there disambiguated nothing, so it shows the attenuation's form
+without its function; the alternatives on whether it counts are
+CLAIM-tmpcug8h and CLAIM-tmpc7tmg. The scoping review (THEORY-tmp8n4s7)
+finds gaze patterns in PTSD heterogeneous, with reduced exploration in a
+few studies only. This reading's title asserts only what the simulations
+showed, and is unaffected.
