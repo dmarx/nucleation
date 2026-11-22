@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CASE-tmpw9202
 title: 'A proposed study of postmortems: code each for the highest organizational level named among its contributing causes and for whether any action item targets a decision above the reviewing team''s authority, and compare reviews commissioned inside the organization with independent investigations, to test whether a blameless trace stops at the authority of the body that commissions it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note added: an objection to the study's unit, filed for
+    LEAD-189 from the SRE workbook chapter. No change of status or
+    title.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -90,3 +97,8 @@ arm of reviews that assign blame.
 A pilot of this design is [CASE-335](CASE-335.md) ([LEAD-119](../leads.d/LEAD-119.md)): 30 public postmortems against 10 CSB reports, with the codes of this entry's "Coding" made ordinal in a codebook committed before coding. Of this entry's design problems, it answers none. Selection by publication is untouched. Authority was coded from the text alone. Follow-up is not measured. It adds a fourth problem: the internal and independent corpora differ in domain and severity, so a full run needs reviews of the same incidents, or of one domain. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
 
 No status changes.
+
+## Note of 2026-11-22: an objection to the study's unit
+<!-- inactive-ok-file: CLAIM-tmpauu5r THEORY-tmpm653d CASE-tmptkkgm — new or Proposed; filed by the lead run on 2026-11-22, and the claim the study would test -->
+
+[CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md), filed from Google's SRE workbook ([THEORY-tmpm653d](../theory.d/THEORY-tmpm653d.md)), objects that a single postmortem is the wrong unit for [CLAIM-750](../claims.d/CLAIM-750.md)'s prediction: the workbook routes questions about priorities set above the team to reviews of repeated incidents and to a process review with "organizational leaders". A design that codes postmortems one by one would miss upstream provenance kept there. A variant that samples cross-incident reviews, or follows a postmortem's named but unactioned conditions (as in [CASE-tmptkkgm](CASE-tmptkkgm.md)) into later reviews, would meet it. No status changes.
