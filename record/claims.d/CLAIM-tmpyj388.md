@@ -31,7 +31,7 @@ complements:
 bears_on:
 - QUESTION-005
 ---
-<!-- inactive-ok-file: CLAIM-251 CLAIM-201 CLAIM-257 — Proposed; the counter this reading objects to, the thesis it corroborates, and the measure that uses the operational sense -->
+<!-- inactive-ok-file: CLAIM-251 CLAIM-201 — Proposed; the counter this reading objects to, the thesis it corroborates, and the measure that uses the operational sense -->
 <!-- inactive-ok-file: CLAIM-tmpw4lvx TERM-tmpqfgw9 CASE-tmpqg5fa — new in this contribution; the alternative reading, the term this claim uses, and the construction it rests on -->
 
 # CLAIM-tmpyj388: Reading the determinable questions as the operational domain, the operational cover is a genuine down-closed sub-cover of the scenario with inherited restriction maps, and determinacy selecting that sub-site is the sheaf-theoretic link the objection asked for, so a change of determinate-answerability is a change of operational domain and "cover" is used correctly

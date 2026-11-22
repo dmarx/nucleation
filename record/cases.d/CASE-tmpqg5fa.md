@@ -17,7 +17,7 @@ bears_on:
 - QUESTION-005
 ---
 <!-- inactive-ok-file: CLAIM-201 CLAIM-251 — Proposed; the thesis and its counter this construction is built to adjudicate -->
-<!-- inactive-ok-file: CLAIM-tmpw4lvx CLAIM-tmpyj388 TERM-tmpqfgw9 — new in this contribution; the two alternative readings this case grounds and the term it uses -->
+<!-- inactive-ok-file: CLAIM-tmpw4lvx CLAIM-tmpyj388 — new in this contribution; the two alternative readings this case grounds and the term it uses -->
 
 # CASE-tmpqg5fa: The operational cover as the determinacy sub-cover of a measurement scenario
 

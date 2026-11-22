@@ -13,7 +13,7 @@ line:
 draws_on:
 - THEORY-012
 ---
-<!-- inactive-ok-file: CLAIM-201 CLAIM-257 CLAIM-251 — Proposed; the entries that use "cover" in this operational sense, and the counter that asked for a separate name -->
+<!-- inactive-ok-file: CLAIM-201 CLAIM-251 — Proposed; the entries that use "cover" in this operational sense, and the counter that asked for a separate name -->
 
 # TERM-tmpqfgw9: determinacy cover, of a receiver population at a threshold: the questions it answers determinately, as a thresholded functional of the empirical model
 
@@ -34,8 +34,8 @@ maps inherited from the event presheaf ℰ ([CASE-tmpqg5fa](../cases.d/CASE-tmpq
 
 This term exists to do the job [CLAIM-251](../claims.d/CLAIM-251.md) asked for: give the operational
 notion its own name, so that an entry using "cover" can say whether it means
-this or the sheaf-theoretic cover. [CLAIM-201](../claims.d/CLAIM-201.md), [CLAIM-257](../claims.d/CLAIM-257.md), CLAIM-256 and
-CLAIM-125 use "cover" in this operational sense.
+this or the sheaf-theoretic cover. [CLAIM-201](../claims.d/CLAIM-201.md), [CLAIM-257](../claims.d/CLAIM-257.md), [CLAIM-256](../claims.d/CLAIM-256.md) and
+[CLAIM-125](../claims.d/CLAIM-125.md) use "cover" in this operational sense.
 
 ## What it is not
 

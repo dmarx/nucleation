@@ -70,4 +70,4 @@ cover and given its own name, and the two findings pull opposite ways on
 What remains: the owner chooses between the two readings (which settles
 [CLAIM-251](../claims.d/CLAIM-251.md)), adopts or declines [TERM-tmpqfgw9](../terms.d/TERM-tmpqfgw9.md), and decides
 whether to rename "cover" to the term across [CLAIM-201](../claims.d/CLAIM-201.md), [CLAIM-257](../claims.d/CLAIM-257.md),
-CLAIM-256 and CLAIM-125. The lead's status and stage are left for the owner.
+[CLAIM-256](../claims.d/CLAIM-256.md) and [CLAIM-125](../claims.d/CLAIM-125.md). The lead's status and stage are left for the owner.

@@ -29,7 +29,7 @@ complements:
 bears_on:
 - QUESTION-005
 ---
-<!-- inactive-ok-file: CLAIM-251 CLAIM-201 CLAIM-257 — Proposed; the counter this reading corroborates, the thesis whose "cover" it would rename, and the measure that uses the operational sense -->
+<!-- inactive-ok-file: CLAIM-251 CLAIM-201 — Proposed; the counter this reading corroborates, the thesis whose "cover" it would rename, and the measure that uses the operational sense -->
 <!-- inactive-ok-file: CLAIM-tmpyj388 TERM-tmpqfgw9 CASE-tmpqg5fa — new in this contribution; the alternative reading, the term this claim uses, and the construction it rests on -->
 
 # CLAIM-tmpw4lvx: Reading the full set of askable questions as the fixed scenario, the operational cover is a thresholded determinacy functional of the empirical model, not a cover: a change in which questions a population answers determinately is a change of model on a fixed cover, so the operational notion earns its own name (the determinacy cover) and the sheaf cover is kept apart
@@ -50,7 +50,7 @@ is a change of empirical model on a fixed cover, not a change of cover. This is
 exactly [CLAIM-251](CLAIM-251.md)'s position, and this claim corroborates it with the
 explicit construction: the operational notion is not by itself a cover in the
 sheaf sense, and it earns its own name ([TERM-tmpqfgw9](../terms.d/TERM-tmpqfgw9.md)) so that
-[CLAIM-201](CLAIM-201.md), [CLAIM-257](CLAIM-257.md), CLAIM-256 and CLAIM-125 can say which sense of
+[CLAIM-201](CLAIM-201.md), [CLAIM-257](CLAIM-257.md), [CLAIM-256](CLAIM-256.md) and [CLAIM-125](CLAIM-125.md) can say which sense of
 "cover" they mean.
 
 The construction does supply the induced sub-site of determinable measurements
