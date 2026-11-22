@@ -73,7 +73,7 @@ corroborates:
 <!-- ref::uses-file: TERM-050 — stated in "intrapersonal synchronization"; the body applies the term without naming it -->
 <!-- inactive-ok-file: ARG-005 CLAIM-162 CLAIM-169 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-591 — Unavailable; IFS, named as the contrast with ACT's self as context, not leaned on -->
-<!-- inactive-ok-file: LIT-906 LIT-916 — Unavailable, unread beyond abstract summaries; the direct evidence, cited as the weakest footing and as the fork the claim turns on -->
+<!-- inactive-ok-file: LIT-906 — Unavailable, unread beyond abstract summaries; the direct evidence, cited as the weakest footing and as the fork the claim turns on -->
 <!-- inactive-ok-file: THEORY-044 THEORY-051 THEORY-064 THEORY-067 — Proposed; the readings this conjecture sets its mechanism beside, with their weak standing stated -->
 
 # CLAIM-156: Mindfulness integrates a population of interests by changing which of them may act, and not only by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and that step needs no change in the discount curves
