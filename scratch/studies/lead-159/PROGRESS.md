@@ -22,8 +22,8 @@
 
 ## Next
 
-- File: executed-study CASE (variant_of CASE-188), a CLAIM (demonstrated),
-  dated notes on LEAD-159, CASE-188, CLAIM-344; changelog fragment.
+- Nothing: report to the lead. (Filed: CASE-tmprtp09, CLAIM-tmpprgb1, dated
+  notes on LEAD-159, CASE-188, CLAIM-344, changelog fragment lead-159.md.)
 
 ## Choices
 

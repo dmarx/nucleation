@@ -261,3 +261,19 @@ A95 §7 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 A97 V says this distinction "is central to Nucleation's Active CLAIM-344". That overstates it. The claim keeps "the capacity to revise" and says "mere slowness or persistence is not resolve"; it does not say what makes a revision warranted, which its summary leaves to [QUESTION-087](../questions.d/QUESTION-087.md). Fidelity to the reasons is a candidate for that standard, not something the claim holds. The three senses of commitment the exchange separates (practical, promissory, institutional) are carried in [CLAIM-738](CLAIM-738.md); this claim's resolve is the practical one.
 
 No status changes.
+
+## Note of 2026-11-22: the defeated_if's control, run on constructed agents
+
+<!-- inactive-ok-file: CASE-tmprtp09 CLAIM-tmpprgb1 — new, filed from LEAD-159 on 2026-11-22 -->
+
+LEAD-159 ran the control this claim names as its test, on constructed
+agents whose governance is known (CASE-tmprtp09). "Perturbed or ablated"
+names tests that disagree. A reset of the slow structure makes persistence
+fall for resolve and for "externally imposed protection" alike, so it
+cannot detect the latter; recovery from the reset separates them. A
+timescale ablation leaves resolve's persistence unchanged and removes
+inertia's, so it reads them the wrong way round; that is "mere slowness
+isn't resolve" as a test. CLAIM-tmpprgb1 states the conjunction a run on a
+trained learner would need. The agents are constructed, so this neither
+supports nor defeats the claim; it bears on how its defeated_if is applied.
+No status changes.
