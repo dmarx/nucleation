@@ -118,3 +118,8 @@ Refines [QUESTION-483](QUESTION-483.md): it asks a sharper part of that question
 one kind of organizational fact, what an arrangement can feasibly
 realize, enters reasonable rejection as a reason, which is how the
 supplement answer would work for feasibility.
+
+## Note of 2026-11-22: a pair that differs only in the decider's reliability (LEAD-033)
+<!-- inactive-ok-file: CASE-tmpmcgjj CLAIM-tmpduscr CLAIM-tmpz92ao CLAIM-tmpn0ocj CLAIM-tmpxbgny — new, filed for LEAD-033 -->
+
+Working QUESTION-483's matched constructions for LEAD-033 produced a pair this question can use. C2 and C2* of CASE-tmpmcgjj have the same parties, interests and rule; in C2 the platform's decider can err, in C2* it is known not to. On the protective explanation of the contractualist verdict, review out of the decider's control is required in C2 and not in C2*: the same people get different verdicts at two levels of what the arrangement can reliably realize, which is the "dependence shown" this question asks for (CLAIM-tmpduscr). That holds on reading (a) of the variants (CLAIM-tmpz92ao); on readings (b) and (c) (CLAIM-tmpn0ocj, CLAIM-tmpxbgny) the verdict survives the change, and feasibility bears only on how much rides on the principle. Which reading holds is the owner's call. No status changes.

@@ -115,3 +115,8 @@ majority that has authority to reform, as A85 §8's limit says.
   no one subject to it can change its governing rules (A90 XII's
   examples: a platform whose appeal rules can be revised arbitrarily),
   matched with one that differs only in that capacity.
+
+## Note of 2026-11-22: the requested construction, written and tested (LEAD-033)
+<!-- inactive-ok-file: CASE-tmpmcgjj CLAIM-tmp72lji CLAIM-tmpduscr CLAIM-tmpn0ocj CLAIM-tmpxbgny — new, filed for LEAD-033 -->
+
+The construction this question asks for is C4 of CASE-tmpmcgjj, filed for LEAD-033: a courier platform that acts and corrects well, in which only the platform may amend the rules (W4′), matched with one in which amendment needs a two-thirds vote of the couriers and the platform's consent (W4). Reasonable rejection explains the difference on the couriers' reasons of assurance, with no principle of who holds the power imported (CLAIM-tmp72lji). A variant, C4*, in which the platform is known always to amend as the couriers would vote, isolates the allocation, and there the question's "standing rule" part is what is at stake (CLAIM-tmpduscr): reading (c) (CLAIM-tmpxbgny) offers as a standing rule that those whose lives the rules govern are owed a share of the power to revise them, which it says reasonable rejection cannot supply; reading (b) (CLAIM-tmpn0ocj) says reasonable rejection selects them by weighing reasons of status. Neither gives a procedure condition or a boundary. No status changes.

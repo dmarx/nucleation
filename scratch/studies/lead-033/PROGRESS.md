@@ -20,9 +20,11 @@
 
 - ARG-tmpg6xcm (formal-application) filed, concluding CLAIM-tmp72lji.
 
+- Dated notes of 2026-11-22 on QUESTION-483, 484, 481, LEAD-033; changelog fragment record/changelog.d/lead-033.md.
+
 ## Next
 
-- Dated notes on QUESTION-483, 484, 481, LEAD-033; changelog fragment record/changelog.d/lead-033.md.
+- Report. Nothing else remains for the worker; the owner chooses among (a), (b), (c), and the lead (not the worker) opens the PR into staging.
 
 ## Choices made
 

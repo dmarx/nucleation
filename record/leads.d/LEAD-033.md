@@ -41,3 +41,8 @@ Where the record names it:
 
 A construction it cannot explain answers [QUESTION-483](../questions.d/QUESTION-483.md) against the
 contractualist reading.
+
+## Note of 2026-11-22: carried out on branch claude/lead-033-contractualist
+<!-- inactive-ok-file: CASE-tmpmcgjj CLAIM-tmp72lji CLAIM-tmpduscr CLAIM-tmpz92ao CLAIM-tmpn0ocj CLAIM-tmpxbgny ARG-tmpg6xcm — new, filed for this lead -->
+
+Done: the four constructions (A102 §12's three as QUESTION-483 relays them, and QUESTION-481's) are written in CASE-tmpmcgjj, with two variants, C2* and C4*, that stipulate away what a power's holder would do with it. The test applied to each as stated explains it without importing a principle of who holds a power (CLAIM-tmp72lji, ARG-tmpg6xcm), so no stated construction answers QUESTION-483 against the contractualist reading. The variants discriminate (CLAIM-tmpduscr), and their verdict is filed as three alternatives for the owner (CLAIM-tmpz92ao, CLAIM-tmpn0ocj, CLAIM-tmpxbgny); reading (c), if adopted, is the construction this lead's "What would count" names. Remains: the owner's choice among the three readings; A102 §12's verbatim text was not checked, since the exchange's share page returned HTTP 503 on 2026-11-22, so the constructions follow QUESTION-483's relay of it. Status and stage unchanged.
