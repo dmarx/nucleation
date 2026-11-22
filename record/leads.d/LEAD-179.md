@@ -48,6 +48,6 @@ Safeguards that cost honest dissent test [CLAIM-359](../claims.d/CLAIM-359.md)'s
 ## Note of 2026-11-22: the two skims already held
 
 The lead audit of this date found the two skims the lead asks for already
-done on 2026-10-29: NOTE-1375 for LIT-1206 and NOTE-1355 for LIT-1216,
-both Skimmed. LIT-1409 is still Unfetched and unread, so that part
+done on 2026-10-29: [NOTE-1375](../notes.d/NOTE-1375.md) for [LIT-1206](../literature.d/LIT-1206.md) and [NOTE-1355](../notes.d/NOTE-1355.md) for [LIT-1216](../literature.d/LIT-1216.md),
+both Skimmed. [LIT-1409](../literature.d/LIT-1409.md) is still Unfetched and unread, so that part
 remains. No status or stage is changed here.

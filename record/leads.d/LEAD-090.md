@@ -52,13 +52,13 @@ matched complexity answers [QUESTION-117](../questions.d/QUESTION-117.md) for th
 places it inside one of them answers it the other way and weakens what
 [CLAIM-297](../claims.d/CLAIM-297.md) adds.
 
-## Note of 2026-11-22: the linearization already held, by CASE-099 and CLAIM-330
+## Note of 2026-11-22: the linearization already held, by [CASE-099](../cases.d/CASE-099.md) and [CLAIM-330](../claims.d/CLAIM-330.md)
 
 The lead audit of this date found part of the lead already held.
-CASE-092's model reduced and linearized about its symmetric state is
-CASE-099 (Active, 2026-10-16), and the instability condition it gives,
-βγ > (1 − α)(1 − δ), is CLAIM-330 (Active). CASE-tmpgustv, filed today
-for LEAD-081, builds the two-field loop as a simulation with declared
+[CASE-092](../cases.d/CASE-092.md)'s model reduced and linearized about its symmetric state is
+[CASE-099](../cases.d/CASE-099.md) (Active, 2026-10-16), and the instability condition it gives,
+βγ > (1 − α)(1 − δ), is [CLAIM-330](../claims.d/CLAIM-330.md) (Active). [CASE-tmpgustv](../cases.d/CASE-tmpgustv.md), filed today
+for [LEAD-081](LEAD-081.md), builds the two-field loop as a simulation with declared
 demands. What is not held is the comparison of a reduced form with the
-opinion-dynamics models QUESTION-117 names, at matched complexity. No
+opinion-dynamics models [QUESTION-117](../questions.d/QUESTION-117.md) names, at matched complexity. No
 status or stage is changed here.

@@ -51,9 +51,9 @@ Evidence that friction protects against fast action supports [CLAIM-710](../clai
 
 ## Note of 2026-11-22: one work already read as far as a lawful copy allows
 
-The lead audit of this date found LIT-1609 already read as far as a
-lawful copy allows: NOTE-1382 (Skimmed, 2026-10-29) reads the free
+The lead audit of this date found [LIT-1609](../literature.d/LIT-1609.md) already read as far as a
+lawful copy allows: [NOTE-1382](../notes.d/NOTE-1382.md) (Skimmed, 2026-10-29) reads the free
 introduction, and no lawful copy of the whole book was found. The other
 three works are Unfetched, and Frischmann and Benesch (2023), named in
-NOTE-2033, is not registered; LIT-2687 is the Natali et al. poster that
+[NOTE-2033](../notes.d/NOTE-2033.md), is not registered; [LIT-2687](../literature.d/LIT-2687.md) is the Natali et al. poster that
 names it. No status or stage is changed here.

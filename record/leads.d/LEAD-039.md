@@ -36,14 +36,14 @@ Where the record names it:
 
 A condition or a counterexample answers [QUESTION-220](../questions.d/QUESTION-220.md).
 
-## Note of 2026-11-22: half already held, by CLAIM-387 and CLAIM-392
+## Note of 2026-11-22: half already held, by [CLAIM-387](../claims.d/CLAIM-387.md) and [CLAIM-392](../claims.d/CLAIM-392.md)
 
 The lead audit of this date found the lead's second disjunct already
 held. Incomparable information-bottleneck optima at finite beta are
-CLAIM-387 (Active) for deterministic encoders and CLAIM-392 (Active) for
-stochastic ones, and QUESTION-244 (Answered) records them. QUESTION-220
+[CLAIM-387](../claims.d/CLAIM-387.md) (Active) for deterministic encoders and [CLAIM-392](../claims.d/CLAIM-392.md) (Active) for
+stochastic ones, and [QUESTION-244](../questions.d/QUESTION-244.md) (Answered) records them. [QUESTION-220](../questions.d/QUESTION-220.md)
 was split on 2026-10-21 and again on 2026-10-27 so that it keeps only the
-structural condition on P(X, Y) beyond THEORY-757's special cases, the
-size of the loss, and THEORY-163's colour hierarchy; so a counterexample
+structural condition on P(X, Y) beyond [THEORY-757](../theory.d/THEORY-757.md)'s special cases, the
+size of the loss, and [THEORY-163](../theory.d/THEORY-163.md)'s colour hierarchy; so a counterexample
 no longer answers it, though "What would count" above says it does. The
 structural condition is not held. No status or stage is changed here.
