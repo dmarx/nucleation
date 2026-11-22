@@ -58,7 +58,7 @@ complements:
 - CLAIM-278
 - CLAIM-021
 ---
-<!-- inactive-ok-file: CASE-tmpokq28 CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
+<!-- inactive-ok-file: CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
 <!-- inactive-ok-file: CLAIM-487 — Proposed; the gain claim this objects to, open -->
 
 # CLAIM-024: Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie's interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it

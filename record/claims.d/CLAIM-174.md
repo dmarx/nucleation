@@ -135,7 +135,7 @@ summary: >-
 bears_on:
 - QUESTION-228
 ---
-<!-- inactive-ok-file: CASE-tmpokq28 CLAIM-tmp92xul — new; LEAD-089's study and finding -->
+<!-- inactive-ok-file: CLAIM-tmp92xul — new; LEAD-089's study and finding -->
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-168 CLAIM-170 — Proposed; the premise, the objection answered and the thesis made testable, open -->

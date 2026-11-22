@@ -16,7 +16,7 @@ summary: >-
   and [CLAIM-174](../claims.d/CLAIM-174.md). [THEORY-048](../theory.d/THEORY-048.md) answers it in part; the body gives each one's
   limit.
 ---
-<!-- inactive-ok-file: CASE-tmpokq28 CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
+<!-- inactive-ok-file: CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
 
 # QUESTION-056: When the mechanisms composing a will-organization are described by control theory and executive-control research, does that description implement the will-organization account or replace it, and what result would show the agent-level description had become idle?
 

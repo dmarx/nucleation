@@ -34,7 +34,7 @@ summary: >-
   target of its own. [CLAIM-021](CLAIM-021.md) concedes the mechanisms; this is what is
   left to show: that one description across realizers earns its keep.
 ---
-<!-- inactive-ok-file: CASE-tmpokq28 CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
+<!-- inactive-ok-file: CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
 
 # CLAIM-487: Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not
 

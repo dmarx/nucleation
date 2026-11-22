@@ -43,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-174 CLAIM-487 — Proposed; the test this prices and the gain it bears on, open -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; its surviving case is one of the worlds -->
 <!-- inactive-ok-file: ARG-025 — Proposed; its third grade is the standard cited -->
-<!-- inactive-ok-file: CASE-tmpokq28 CLAIM-tmp773u9 — new; the study and the reading filed with this claim -->
+<!-- inactive-ok-file: CLAIM-tmp773u9 — new; the study and the reading filed with this claim -->
 
 # CLAIM-tmp92xul: In a model of Northstar in which authority composes by relations of precedence, jurisdiction, suspension and override, a will-organization over the regimes beats control models that see the arrangement of authority only as an input by more than its Occam cost, and its gain is prediction of combined changes of authority from changes made one at a time, which no log-additive control gate reaches with any amount of such data; priced on the training arrangements alone, the same test also passes a will-organization whose relations compose otherwise than it says
 

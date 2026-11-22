@@ -49,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-076 THEORY-1809 THEORY-1787 — Proposed; held readings of what Bratman, Polski and Ostrom, and Basurto et al. propose, used for what the theories say, not for whether it is true -->
 <!-- inactive-ok-file: THEORY-048 — Proposed; Kendler's implement-or-replace relation, which QUESTION-056 already applies -->
 <!-- inactive-ok-file: LIT-488 — Unavailable; Bratman's account of shared agency, not read, named as the reading that could change the planning verdict -->
-<!-- inactive-ok-file: CLAIM-tmp92xul CASE-tmpokq28 — new; the finding and the study this reads -->
+<!-- inactive-ok-file: CLAIM-tmp92xul — new; the finding and the study this reads -->
 
 # CLAIM-tmp773u9: Set beside the Northstar model, control theory's regulation and executive control give the control-only models, which miss the difference, so against them the will-organization variables are implemented and not replaced; planning theory, holding the plan fixed as the case does, gives no difference at all; institutional theory already writes the relations as rules-in-use, so for an organization the difference is one an existing theory gives, and what is left of the explanatory-gain claim is that one description serves across realizers, which a model of one realizer cannot test
 
@@ -132,6 +132,6 @@ variables, and nothing here does it.
   bears against [CLAIM-487](CLAIM-487.md)'s uniqueness. The lead's wording looks
   inverted, and this claim reads it that way.
 - **That the readings were re-read for this.** Each is used as the record
-  holds it. Polski and Ostrom's chapter was only skimmed, and THEORY-1809,
-  THEORY-1787 and THEORY-076 are Proposed readings of what the authors
+  holds it. Polski and Ostrom's chapter was only skimmed, and [THEORY-1809](../theory.d/THEORY-1809.md),
+  [THEORY-1787](../theory.d/THEORY-1787.md) and [THEORY-076](../theory.d/THEORY-076.md) are Proposed readings of what the authors
   propose.

@@ -29,7 +29,7 @@ summary: >-
   Named in [QUESTION-056](../questions.d/QUESTION-056.md) and [CLAIM-024](../claims.d/CLAIM-024.md). Filed by the backlog audit of
   2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmpokq28 CLAIM-tmp92xul CLAIM-tmp773u9 — new; this lead's study, finding and reading -->
+<!-- inactive-ok-file: CLAIM-tmp92xul CLAIM-tmp773u9 — new; this lead's study, finding and reading -->
 <!-- inactive-ok-file: LIT-488 — Unavailable; the reading that could change the planning verdict -->
 <!-- inactive-ok-file: CLAIM-024 CLAIM-174 CLAIM-487 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
