@@ -1,0 +1,115 @@
+---
+status: Skimmed
+paper: LIT-tmp37bkp
+title: 'Riedel et al., skimmed for satellite clock comparisons checked against a fibre link and against each other'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read in part on 2026-11-22 by the assistant, carrying out LEAD-164 as
+    a delegated lead worker, from arXiv (arxiv.org/pdf/1910.06736v1): the
+    abstract, §1, the opening of §2 and its TWSTFT passage (pp. 2–4), §4
+    and §5 with tables 4–6 and figures 5, 7 and 8 (pp. 11–16). Skipped:
+    the clock and link set-ups in detail, the data analysis (§3) and the
+    statistical appendix, so Skimmed. Page numbers are the arXiv
+    preprint's. Every quotation rechecked by script against the downloaded
+    text. No email address sent.
+date: '2026-11-22'
+summary: >-
+  A 26-day campaign compared optical and fountain clocks at four European
+  institutes over two satellite links at once, TWSTFT and GPS PPP. Read for
+  one thing: the frequency difference between two remote clocks, which the
+  satellite link estimates by signal exchange, is checked against evidence
+  that link did not produce, a second satellite technique the authors call
+  "completely independent" and, for LNE-SYRTE and PTB, an optical-fibre
+  comparison of the same clocks, one run simultaneously. They agree within
+  the combined uncertainties. The reading is THEORY-tmp5gcq1 and the case
+  CASE-tmp17zl1.
+---
+<!-- inactive-ok-file: THEORY-tmp5gcq1 CASE-tmp17zl1 — new; this reading's account and the case taken from it -->
+<!-- inactive-ok-file: CLAIM-510 — Proposed; the claim this reading bears on -->
+
+# NOTE-tmp2d035: Riedel et al., skimmed for satellite clock comparisons checked against a fibre link and against each other
+
+## Contribution
+
+Five optical clocks and six caesium or rubidium fountains at INRIM,
+LNE-SYRTE, NPL and PTB were compared remotely for 26 days, "by using both
+broadband TWSTFT and GPS PPP" (p. 2). For the record it is a working
+instance of a measured correspondence between remote local standards
+checked against evidence that the measurement producing it did not
+produce. The reading is [THEORY-tmp5gcq1](../theory.d/THEORY-tmp5gcq1.md); the case is [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md).
+
+## Key results
+
+1. **Why compare at all** (p. 2): comparisons of standards in different
+   laboratories "are necessary to provide consistency checks of the
+   performance and accuracy of the various clocks".
+2. **The measurement** (pp. 2–4). At each institute a hydrogen maser is
+   measured against the local clocks and serves as the reference for the
+   satellite equipment; the link compares the masers. TWSTFT is "the
+   bidirectional exchange of pseudo-random code signals modulated onto a
+   microwave carrier between two remote ground stations over a
+   satellite", which "results in a compensation of the overall transit
+   times" (p. 4). The relativistic redshift of each clock is corrected
+   from its gravity potential, by the GNSS/geoid approach (p. 3).
+3. **Two techniques against each other** (p. 11, optical clocks): "Both
+   satellite link techniques lead to results that are compatible within a
+   confidence level of 68 %." Fountains (p. 13): "good agreement between
+   TWSTFT and GPS PPP satellite link techniques".
+4. **Satellite against fibre** (p. 12): "the results for Sr(LNE-SYRTE) –
+   Sr(PTB) agree with the result of a comparison between these clocks via
+   optical fibres (0.47 ± 0.5 × 10−16 ), carried out simultaneously with
+   our measurement campaign [20]". For the fountains (p. 13): "The results
+   for the comparisons between LNE-SYRTE and PTB agree with the frequency
+   differences measured via optical fibre [16]."
+5. **Their own reading of the independence** (p. 13): "the two exploited
+   satellite link techniques are complementary as they may be considered
+   as completely independent. This offers the possibility to find
+   undiscovered or study obscured systematic effects in both techniques".
+6. **What the comparisons found** (pp. 12–13): the Sr(NPL)-related pairs
+   showed an offset "independent of the link technique", which later
+   self-comparisons at NPL traced to "another uncharacterised systematic
+   frequency shift" in that clock.
+
+## Assumptions
+
+- The satellite and fibre comparisons share the clocks, and the
+  redshift corrections come from one geodetic determination (p. 3); what
+  differs is the channel that carries the comparison.
+- The fibre results are taken from other papers (refs [16] and [20], Guéna
+  et al. 2017 and Lisdat et al. 2016), not re-derived.
+- Agreement is judged within stated combined uncertainties, so the check
+  is only as strong as those budgets.
+
+## Concepts
+
+- **Link technique as channel.** TWSTFT, GPS PPP and optical fibre are
+  three channels estimating the same remote frequency difference, with
+  different paths, hardware and error models.
+
+## Bearing on the record
+
+- **[CLAIM-510](../claims.d/CLAIM-510.md)**, evidence. Each satellite link estimates a
+  correspondence between remote local standards (their frequency
+  difference) by signal exchange, and the estimate is checked against a
+  fibre comparison and a second satellite technique, neither of which
+  took part in producing it. That is CLAIM-510's own example, clock offsets
+  by signal exchange checked against a reference that took no part,
+  nearly exactly; the reference is a separate channel to the same remote
+  clock, not a co-located clock. See CLAIM-510's note of this date.
+- **[CLAIM-143](../claims.d/CLAIM-143.md)**, an instance. Its proviso asks for correspondences
+  "independently validated"; here validation is by an independent channel,
+  and it is how a disagreement (the NPL offset) was assigned to a clock
+  rather than to a link. No relation written; the bearing is in this note.
+- **[CLAIM-342](../claims.d/CLAIM-342.md)**, a parallel. The fibre result arrives through a
+  channel the satellite estimate does not pass through. No relation.
+
+## Limitations
+
+- Skimmed. The uncertainty budgets that decide "agree" were not checked.
+- Only one clock pair (LNE-SYRTE and PTB) has a fibre comparison; the
+  other pairs are checked only technique against technique.
+- The three channels share the clocks and the redshift correction, so the
+  check tests the links, not the clocks' own systematics or the geodesy.
