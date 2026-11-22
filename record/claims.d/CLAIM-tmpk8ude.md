@@ -34,8 +34,8 @@ summary: >-
   or even seconds without creating perceptual input lag, provided it never
   blocks the rendering or input path"; and A8's further distinction
   between computational latency and the evaluative horizon, First
-  Contact's Δ. It applies CLAIM-711 (slow constraints, fast enforcement)
-  and CLAIM-478 (rates separate into constraint and realization) to an
+  Contact's Δ. It applies [CLAIM-711](CLAIM-711.md) (slow constraints, fast enforcement)
+  and [CLAIM-478](CLAIM-478.md) (rates separate into constraint and realization) to an
   interface. The wording is A's (ChatGPT, in the exchange of 2026-11-22);
   adopting it is the owner's call.
 ---
@@ -71,19 +71,19 @@ third:
 | adaptation, between gestures or sessions | the rate at which evidence about the mapping accrues |
 | evaluative horizon | how long after a command one must watch to know whether it helped, First Contact's Δ |
 
-The third is CLAIM-787's subject: the horizon at which command-to-outcome
+The third is [CLAIM-787](CLAIM-787.md)'s subject: the horizon at which command-to-outcome
 information tracks success is a level of a rate hierarchy. The first two
 are this claim's. None need coincide.
 
 ## What it rests on
 
-CLAIM-711: a process can be kept open to a slow governing process without
+[CLAIM-711](CLAIM-711.md): a process can be kept open to a slow governing process without
 being delayed, if limits are set slowly in advance and enforced by
 mechanisms faster than the process. Here the slow process sets the
-parameters and the fast loop enforces them. CLAIM-478: where some degrees
+parameters and the fast loop enforces them. [CLAIM-478](CLAIM-478.md): where some degrees
 of freedom settle faster than others, the slow ones act as constraints on
 the fast over the window between the rates; the learned parameters are
-such a constraint on the gesture. A8 adds a link to CLAIM-761, the learned
+such a constraint on the gesture. A8 adds a link to [CLAIM-761](CLAIM-761.md), the learned
 parameters as stored work ("amortized sensorimotor coordination"); that is
 noted there as an analogy.
 
@@ -94,13 +94,13 @@ learning on the main thread can still delay input (A5), and parameter
 changes the user notices between gestures can feel like unpredictability
 rather than lag, which is why A bounds them tightly. Whether bounded slow
 adaptation is perceived as better, not merely as no worse, is the study's
-question (CASE-tmptzhse).
+question ([CASE-tmptzhse](../cases.d/CASE-tmptzhse.md)).
 
-## Admission (ADR-075; the assistant's audit, 2026-11-22)
+## Admission ([ADR-075](../decisions.d/ADR-075.md); the assistant's audit, 2026-11-22)
 
-*A discriminating prediction.* Its premises (CLAIM-711, CLAIM-478) say
+*A discriminating prediction.* Its premises ([CLAIM-711](CLAIM-711.md), [CLAIM-478](CLAIM-478.md)) say
 that slow constraints can be enforced fast, and that rate differences
 make structure. They do not say that an adaptive interface's updates,
 made only between gestures, go unperceived as lag. The claim predicts
 that they do. Its `defeated_if` names the study that would tell against
-it, and LEAD-tmplps4n carries it.
+it, and [LEAD-tmplps4n](../leads.d/LEAD-tmplps4n.md) carries it.

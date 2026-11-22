@@ -39,12 +39,12 @@ summary: >-
   change), and concludes "a good coordination system should minimize the
   first kind without suppressing the second"; hence "an interesting
   distinction between flow as a state and flow-regulation as an
-  organizational capability". It sits beside CLAIM-710 and CLAIM-711 on
+  organizational capability". It sits beside [CLAIM-710](CLAIM-710.md) and [CLAIM-711](CLAIM-711.md) on
   procedural friction and interruptibility, and adds which friction a
   record should keep. The wording is A's (ChatGPT, in the exchange of
   2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-710 CLAIM-711 CLAIM-tmpmk036 CLAIM-162 CLAIM-181 — Proposed; neighbours and the claim filed beside this one -->
+<!-- inactive-ok-file: CLAIM-710 CLAIM-711 CLAIM-162 CLAIM-181 — Proposed; neighbours and the claim filed beside this one -->
 
 # CLAIM-tmpcsh5p: For an adaptive inquiry the achievement is not flow as a state but flow-regulation as an organizational capability: to enter, sustain, interrupt and recover fluent coordination without losing the history of what was learned, so that a coordination system should remove the interruptions that rediscover what was settled while keeping those that expose an unaddressed objection or an inadequate premise
 
@@ -53,7 +53,7 @@ summary: >-
 A20 §6 of the exchange "Explain First Contact RL"
 (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3). A record
 that removes coordination overhead can also make it too easy to continue
-smoothly past a consequential mismatch; CLAIM-181's danger is that
+smoothly past a consequential mismatch; [CLAIM-181](CLAIM-181.md)'s danger is that
 unfamiliar distinctions get forced into existing categories. "Luria must
 sometimes make it harder to continue smoothly when continuing would conceal
 a consequential mismatch." A's table:
@@ -76,14 +76,14 @@ between fluent coordination and deliberate reorganization when the existing
 constraints become inadequate", "to enter, sustain, interrupt, and recover
 fluent coordination without losing the history of what has been learned."
 A said this "identifies something the original Nucleation account of flow
-doesn't yet fully capture": CLAIM-162 describes the state, not its
+doesn't yet fully capture": [CLAIM-162](CLAIM-162.md) describes the state, not its
 regulation.
 
 ## Its relation to the record
 
-CLAIM-710 holds that procedural friction is where an opportunity to
+[CLAIM-710](CLAIM-710.md) holds that procedural friction is where an opportunity to
 intervene is exposed, so removing friction can remove those points;
-CLAIM-711 that standing constraints set slowly and enforced fast keep a
+[CLAIM-711](CLAIM-711.md) that standing constraints set slowly and enforced fast keep a
 frictionless process interruptible. This claim says which friction a record
 should remove and which it should keep, sorted by what the interruption is
 about. A20 ties it back to the account of a self: a self of overlapping
@@ -100,7 +100,7 @@ of them by address. An objection that matches a held entry (by code or by
 search) is the first kind and can be routed to it; one that matches nothing
 is a candidate for the second, and the cost of letting it interrupt is
 bounded by how often that happens. Formatting repair is the first kind by
-construction, which is why this record leaves it to CI (ADR-054). This
+construction, which is why this record leaves it to CI ([ADR-054](../decisions.d/ADR-054.md)). This
 sorting fails where an objection is held under another name, which is the
 case step 2 of the read-and-file skill exists for. The wording of this
 paragraph is the assistant's (Claude, in this session); adopting it is the

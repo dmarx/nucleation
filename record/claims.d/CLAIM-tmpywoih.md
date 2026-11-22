@@ -27,8 +27,8 @@ summary: >-
   the valuable act of preserving a coherent inquiry ... less opposed".
   Conditional, by A's own words: "If filing an idea is tedious, or if the
   grammar distorts the idea, Luria may actually widen the gap." It rests
-  on CLAIM-162, which is Proposed and objected to by ARG-016; the
-  analogy that carries it is ARG-tmpymz1j. A20 §7 adds that no reported
+  on [CLAIM-162](CLAIM-162.md), which is Proposed and objected to by [ARG-016](../arguments.d/ARG-016.md); the
+  analogy that carries it is [ARG-tmpymz1j](../arguments.d/ARG-tmpymz1j.md). A20 §7 adds that no reported
   state of flow is shown by coordination. The wording is A's (ChatGPT, in
   the exchange of 2026-11-22); adopting it is the owner's call.
 ---
@@ -39,7 +39,7 @@ summary: >-
 ## The supposition
 
 A20 §4 of the exchange "Explain First Contact RL"
-(https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3). CLAIM-162
+(https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3). [CLAIM-162](CLAIM-162.md)
 says that in flow an activity's immediate reward and its longer-run value
 coincide, so no interest has to be overridden. In research the two come
 apart in a recognizable way: the immediate reward of a new idea arrives
@@ -52,8 +52,8 @@ structure consequential at the moment of contribution:
 - a changed assumption shows its downstream consequences;
 - a contributor builds on existing work without reconstructing its history.
 
-That is, on CLAIM-162's account, a move towards valuational concordance
-(TERM-050), and so towards a condition for flow. CLAIM-tmpmk036's route is
+That is, on [CLAIM-162](CLAIM-162.md)'s account, a move towards valuational concordance
+([TERM-050](../terms.d/TERM-050.md)), and so towards a condition for flow. [CLAIM-tmpmk036](CLAIM-tmpmk036.md)'s route is
 the other one, practical synchronization.
 
 ## Its conditions
@@ -65,9 +65,9 @@ that supports flow" against "administration that interrupts it".
 
 ## Why supposed
 
-Two things hold it back. CLAIM-162 is itself Proposed, and ARG-016 objects
+Two things hold it back. [CLAIM-162](CLAIM-162.md) is itself Proposed, and [ARG-016](../arguments.d/ARG-016.md) objects
 that the synchronization of interests it invokes has no demonstrated
 dynamical mechanism. And A20 §7: coordinated, uninterrupted collaboration
-does not show that any collaborator experiences flow; CLAIM-872's
+does not show that any collaborator experiences flow; [CLAIM-872](CLAIM-872.md)'s
 experience-sampling evidence bears on flow and affect, not on this.
-LEAD-tmponn7c measures experienced flow separately from coordination.
+[LEAD-tmponn7c](../leads.d/LEAD-tmponn7c.md) measures experienced flow separately from coordination.

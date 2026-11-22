@@ -286,5 +286,5 @@ collaborator while retaining Luria" and see whether an organizational
 disposition persists beyond a particular participant, and to keep the
 collaborators while withdrawing the record. That is this question for one
 replacement at a time, with the record as a candidate for what must stay
-causally continuous (CLAIM-tmpqr0tn, Proposed). The design is
-LEAD-tmph7m7s. The question is unchanged.
+causally continuous ([CLAIM-tmpqr0tn](../claims.d/CLAIM-tmpqr0tn.md), Proposed). The design is
+[LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md). The question is unchanged.

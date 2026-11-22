@@ -70,26 +70,26 @@ A29 §9's table:
 
 The components:
 
-- **Measure level.** The measure-valued self (CLAIM-tmp9pgdu) and its
-  graded predicate lattice (CLAIM-tmpfza2h).
+- **Measure level.** The measure-valued self ([CLAIM-tmp9pgdu](CLAIM-tmp9pgdu.md)) and its
+  graded predicate lattice ([CLAIM-tmpfza2h](CLAIM-tmpfza2h.md)).
 - **Representational level.** Linear tests see distributions only
-  through mean representations (CLAIM-tmprbieu); thresholded linear
+  through mean representations ([CLAIM-tmprbieu](CLAIM-tmprbieu.md)); thresholded linear
   probes always yield a complete concept lattice, so its existence shows
-  nothing and its shape is what counts (THEORY-698, LIT-267); meets of
-  linear tests are not linear tests (CLAIM-tmpgnozg). A29 kept linear
+  nothing and its shape is what counts ([THEORY-698](../theory.d/THEORY-698.md), [LIT-267](../literature.d/LIT-267.md)); meets of
+  linear tests are not linear tests ([CLAIM-tmpgnozg](CLAIM-tmpgnozg.md)). A29 kept linear
   decodability apart from linear causal controllability, the record's
   measurement and intervention readings of the linear representation
-  hypothesis (LIT-304).
-- **Resource relativity.** A29 read CLAIM-902 as "an elegant model of
+  hypothesis ([LIT-304](../literature.d/LIT-304.md)).
+- **Resource relativity.** A29 read [CLAIM-902](CLAIM-902.md) as "an elegant model of
   resource-relative perspectival individuation": a full-rank PMI
   embedding reads every attribute exactly even under implication, and a
   rank-truncated one keeps only shallow branches, with deeper siblings
-  merged. It reported CASE-344 correctly as not confirming the predicted
+  merged. It reported [CASE-344](../cases.d/CASE-344.md) correctly as not confirming the predicted
   loss by depth in text8 ("a model theorem, not yet an established
   general description of language models").
 - **Organizational level.** An interventional distinguishability
-  pseudometric over interventions and tests (CLAIM-tmpwb6dg), the
-  distance-valued form of a governance-response profile (TERM-067).
+  pseudometric over interventions and tests ([CLAIM-tmpwb6dg](CLAIM-tmpwb6dg.md)), the
+  distance-valued form of a governance-response profile ([TERM-067](../terms.d/TERM-067.md)).
 
 ## What it does not say
 
@@ -98,17 +98,17 @@ the test family or budget changes "the resulting observable lattice may
 change, but that is not necessarily the same thing as the organization
 itself changing."
 
-## Admission (ADR-075; the assistant's audit, 2026-11-22)
+## Admission ([ADR-075](../decisions.d/ADR-075.md); the assistant's audit, 2026-11-22)
 
-*No route passes beyond CLAIM-tmp9pgdu.* This version adds an ordering
+*No route passes beyond [CLAIM-tmp9pgdu](CLAIM-tmp9pgdu.md).* This version adds an ordering
 of three levels: measure, representation and organization. Its
-separating case is CLAIM-tmp9pgdu's, an organization whose maintained
+separating case is [CLAIM-tmp9pgdu](CLAIM-tmp9pgdu.md)'s, an organization whose maintained
 dynamics fix discrete perspectives. That the representational level
-does not fix the causal one is held already, in TERM-069 ("Not
-interventional equivalence") and THEORY-698. Read under ADR-075, then,
-it is a recap: CLAIM-tmp9pgdu with labels for the levels, plus
-CLAIM-tmprbieu, CLAIM-tmpfza2h and CLAIM-tmpgnozg. It is kept, Proposed,
+does not fix the causal one is held already, in [TERM-069](../terms.d/TERM-069.md) ("Not
+interventional equivalence") and [THEORY-698](../theory.d/THEORY-698.md). Read under [ADR-075](../decisions.d/ADR-075.md), then,
+it is a recap: [CLAIM-tmp9pgdu](CLAIM-tmp9pgdu.md) with labels for the levels, plus
+[CLAIM-tmprbieu](CLAIM-tmprbieu.md), [CLAIM-tmpfza2h](CLAIM-tmpfza2h.md) and [CLAIM-tmpgnozg](CLAIM-tmpgnozg.md). It is kept, Proposed,
 as A29's version of the self thesis, because the account that maps the
 exchange (filed with it) cites it as the last version. Whether to keep
-it as a claim, or to retire it in favour of CLAIM-tmp9pgdu, is put to
+it as a claim, or to retire it in favour of [CLAIM-tmp9pgdu](CLAIM-tmp9pgdu.md), is put to
 the owner.

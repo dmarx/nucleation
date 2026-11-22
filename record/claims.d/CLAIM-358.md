@@ -365,6 +365,6 @@ checks. A quoted this claim's "The achievement of governance may be to make
 its repeated exercise unnecessary" and called it the strongest connection
 to Luria. A20 §3 then qualified it: a record that settles conflicts by
 enforcement amortizes arbitration by externalizing it, which is not the
-learned local accommodation this claim describes (CLAIM-tmpmk036,
+learned local accommodation this claim describes ([CLAIM-tmpmk036](CLAIM-tmpmk036.md),
 Proposed). An analogy of a parallel case; no relation is written. The claim
 is unchanged.

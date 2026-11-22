@@ -44,7 +44,6 @@ summary: >-
   except the proof and the identity, which are the assistant's; adopting
   them is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwb6dg — Proposed; the construction this rests on, filed with it on 2026-11-22 -->
 
 # CLAIM-tmprq9q5: Perspectives given as graded participation functions on a common measure overlap by the integral of their pointwise minimum, which is zero exactly when the measures they carve out are mutually singular and, for probability densities, equals one minus their total-variation distance, so separation of perspectives comes by degrees and need not be a partition
 

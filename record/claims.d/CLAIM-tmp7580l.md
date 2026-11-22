@@ -19,10 +19,10 @@ rests_on:
 - CLAIM-418
 summary: >-
   A21 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22),
-  answering the owner's U10 (CLAIM-tmpm54la): "The collaborators are
+  answering the owner's U10 ([CLAIM-tmpm54la](CLAIM-tmpm54la.md)): "The collaborators are
   necessarily distinguishable as persons; their perspectives are not
   necessarily separable in every observational or causal sense." The
-  first half is CLAIM-418's, applied to a team: perspectival and agential
+  first half is [CLAIM-418](CLAIM-418.md)'s, applied to a team: perspectival and agential
   boundaries need not coincide. A29 §6 later gave it a measure-theoretic
   form, checked here: tagging each member's distribution with the
   member's identity makes any two members' measures mutually singular,
@@ -41,14 +41,14 @@ summary: >-
 A21 of the exchange "Explain First Contact RL"
 (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3), on the
 owner's "a team as a pseudo-self where the perspectives are necessarily
-separable" (CLAIM-tmpm54la):
+separable" ([CLAIM-tmpm54la](CLAIM-tmpm54la.md)):
 
 > I'd sharpen one word: **The collaborators are necessarily
 > distinguishable as persons; their perspectives are not necessarily
 > separable in every observational or causal sense.**
 
 "A single person might realize several organizational perspectives. A
-single perspective might span multiple people." That is CLAIM-418, which
+single perspective might span multiple people." That is [CLAIM-418](CLAIM-418.md), which
 holds that several agents can share a perspective and one agent can act
 through several. A's example: two researchers share a way of interpreting
 experimental evidence while differing in their approach to institutional
@@ -85,15 +85,15 @@ a model of the first half of A's point (one perspective across members). It
 does not model the second half, one member realizing several perspectives,
 which needs a member's measure decomposed into parts, and the parts need
 not be singular either. And identical distributions are not yet a shared
-perspective in the record's organizational sense: CLAIM-454 holds that a
+perspective in the record's organizational sense: [CLAIM-454](CLAIM-454.md) holds that a
 recovered latent feature is at most a constituent of a perspective, and
-TERM-148 asks for mutual dependence and restoration of deviations, not
+[TERM-148](../terms.d/TERM-148.md) asks for mutual dependence and restoration of deviations, not
 likeness. So the measure model shows that carrier separation does not
 separate perspectives; it does not show that equal distributions make one.
 
 ## What it grants
 
 The weaker reading of U10, that a team's perspectives can be addressed one
-member at a time, A grants and builds on (CLAIM-tmpl1hgv): "The team gives
+member at a time, A grants and builds on ([CLAIM-tmpl1hgv](CLAIM-tmpl1hgv.md)): "The team gives
 us separable sites of intervention, not necessarily separable units of
 perspective."

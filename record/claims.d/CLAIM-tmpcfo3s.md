@@ -28,7 +28,7 @@ summary: >-
   could transmit under a suitable action distribution; MIMI's I(X; (S, S′))
   measures information under the user's actual behaviour, so "a physics
   model may permit very precise positioning in principle, but require
-  gestures that are awkward or difficult to reproduce". NOTE-2236 records
+  gestures that are awkward or difficult to reproduce". [NOTE-2236](../notes.d/NOTE-2236.md) records
   the contrast as influence without intuitiveness; this states its formal
   reason. The inequality is textbook. The wording is A's (ChatGPT, in the
   exchange of 2026-11-22); adopting it is the owner's call.
@@ -39,9 +39,9 @@ summary: >-
 
 ## The contrast
 
-Empowerment (THEORY-1344) is the channel capacity from an agent's next n
+Empowerment ([THEORY-1344](../theory.d/THEORY-1344.md)) is the channel capacity from an agent's next n
 actions to its sensor n steps later: C = max over p(a) of I(A; S′). It is
-a property of the channel. First Contact's score (THEORY-2147) is
+a property of the channel. First Contact's score ([THEORY-2147](../theory.d/THEORY-2147.md)) is
 I(x_t; (s_t, s_{t+Δ})) estimated from the commands the user actually
 issues under the interface, a property of the channel *and* the user's
 behaviour on it.
@@ -54,7 +54,7 @@ interface's capacity the user's behaviour does not use.
 
 ## What it adds
 
-NOTE-2236 records that the paper cites empowerment as an objective for
+[NOTE-2236](../notes.d/NOTE-2236.md) records that the paper cites empowerment as an objective for
 assistants that preserve a user's ability to reach states, and that MIMI
 "differs in scoring intuitiveness as well as influence". The inequality
 says where the intuitiveness enters: an interface can raise capacity, by

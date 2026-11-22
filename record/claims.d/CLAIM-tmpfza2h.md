@@ -37,7 +37,7 @@ summary: >-
   exact in Birkhoff's sense, since v(p) = ∫p dμ is a strictly positive
   valuation and d_μ = v(p ∨ q) − v(p ∧ q); and every complete lattice,
   the non-distributive M₃ among them, is the concept lattice of some
-  incidence. Xiong's soft meet and join (min and max of profiles, NOTE-240) are this
+  incidence. Xiong's soft meet and join (min and max of profiles, [NOTE-240](../notes.d/NOTE-240.md)) are this
   lattice's operations, unremarked by A29. The wording is A's (ChatGPT, in the exchange of 2026-11-22),
   except the fill, which is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -54,7 +54,7 @@ predicates. Under pointwise minimum and maximum P_μ is a lattice, and
 d_μ(p, q) = ∫|p − q| dμ is a metric on it (A29 §4). A29: "The
 graded-function lattice is distributive under pointwise minimum and
 maximum. Formal concept lattices need not be distributive." The
-thresholded construction of Xiong (LIT-267, THEORY-698) and this one "are
+thresholded construction of Xiong ([LIT-267](../literature.d/LIT-267.md), [THEORY-698](../theory.d/THEORY-698.md)) and this one "are
 not the same lattice".
 
 ## Proof and fill (the assistant's)
@@ -67,7 +67,7 @@ not the same lattice".
   and strictly monotone on a.e.-classes. Then
   v(p ∨ q) − v(p ∧ q) = ∫(max − min) dμ = ∫|p − q| dμ = d_μ(p, q), so
   (P_μ, d_μ) is a metric lattice in Birkhoff's sense, not by analogy. The
-  overlap of CLAIM-tmprq9q5 is v(p ∧ q).
+  overlap of [CLAIM-tmprq9q5](CLAIM-tmprq9q5.md) is v(p ∧ q).
 - **Concept lattices.** Every complete lattice L is the concept lattice
   of the context (L, L, ≤) (the basic theorem of formal concept analysis),
   so concept lattices include M₃, where a ∧ (b ∨ c) = a and
@@ -83,7 +83,7 @@ and max − min = |p − q| hold to rounding; the M₃ computation gives a and
 
 Xiong's paper has a soft algebra beside the thresholded one: the meet and
 join profiles of two concepts are the pointwise min and max of their
-attribute-projection profiles (Eq. 6; NOTE-240, claim C4, which finds that
+attribute-projection profiles (Eq. 6; [NOTE-240](../notes.d/NOTE-240.md), claim C4, which finds that
 under the paper's Eq. 5 the min profile behaves as an upper bound of A,
 not a lower one). A29's graded lattice is that operation taken over a
 measure, with its distributivity and metric stated. A29 did not say so.

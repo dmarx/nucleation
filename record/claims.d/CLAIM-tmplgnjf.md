@@ -26,7 +26,7 @@ bears_on:
 - QUESTION-tmpn9t5a
 summary: >-
   A31 §1 to §3 of the exchange "Explain First Contact RL" (ChatGPT,
-  2026-11-22), answering the owner's thesis CLAIM-tmpz67ew. Four layers
+  2026-11-22), answering the owner's thesis [CLAIM-tmpz67ew](CLAIM-tmpz67ew.md). Four layers
   are kept apart: the demand specification, the regulatory design, the
   ecosystem's dynamics under it and the outcomes. A demand may be stated
   on outcomes, as an expectation, a tail or a probability bound on
@@ -62,7 +62,7 @@ P_g(Γ_H ∈ V_j) ≥ 1 − ε_j for each j. "This makes regulation a problem of
 steering the distribution of possible futures, rather than specifying one
 ideal future."
 
-A33 §6 carries selective stabilization (CLAIM-785, about an entry's
+A33 §6 carries selective stabilization ([CLAIM-785](CLAIM-785.md), about an entry's
 predicates) to regulation by analogy: constrain the dimensions in which
 deviation does unacceptable harm and leave free those that support
 experimentation and differentiation. An outcome constraint leaves the
@@ -77,5 +77,5 @@ constraints, or that enforcement is code validation: A31 §8 says "Legal
 interpretation, discretion, political legitimacy, and contested
 interests cannot be collapsed into automated consistency checking." The
 reliability requirement presupposes a model of participants' behaviour;
-CLAIM-tmpx9nrj separates what that model says from what is possible at
+[CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md) separates what that model says from what is possible at
 all.

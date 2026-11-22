@@ -31,7 +31,7 @@ complements:
 - CLAIM-269
 summary: >-
   A29 §2 of the exchange "Explain First Contact RL" (2026-11-22). With
-  tests f_w(x) = wᵀφ(x), ‖w‖ ≤ 1, the pseudometric of CLAIM-tmpwb6dg is
+  tests f_w(x) = wᵀφ(x), ‖w‖ ≤ 1, the pseudometric of [CLAIM-tmpwb6dg](CLAIM-tmpwb6dg.md) is
   ‖E_μ[φ] − E_ν[φ]‖_*, the dual norm of the difference of mean
   representations (an added constant cancels). A29's example with φ(x) = x:
   ½δ₋₁ + ½δ₁ and δ₀ have one mean, so every affine test agrees on them,
@@ -72,11 +72,11 @@ while possessing very different internal distributions." That linear
 probes decode a concept from each representation is one claim; that
 linear expectations tell apart distributions of states is another, and
 the second fails whenever two distributions share a mean representation.
-CLAIM-269 states the counterpart for representations (a regularized
+[CLAIM-269](CLAIM-269.md) states the counterpart for representations (a regularized
 linear readout separates only representations differing in normalized
 kernel); this is the counterpart for distributions of a fixed
 representation. It does not tell against the linear representation
-hypothesis (LIT-304), which concerns single representations.
+hypothesis ([LIT-304](../literature.d/LIT-304.md)), which concerns single representations.
 
 ## Check
 

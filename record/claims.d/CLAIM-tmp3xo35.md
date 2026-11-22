@@ -41,11 +41,11 @@ summary: >-
   2026-11-22), the "sharper hypothesis" after the owner's U11: "Self-like
   organizational unity does not require perspectival singularity". Its
   two non-implications are stated with the configurations of
-  TERM-tmpm0s7g: an integrated plurality is integrated and not
+  [TERM-tmpm0s7g](../terms.d/TERM-tmpm0s7g.md): an integrated plurality is integrated and not
   organizationally singular; a unique governing perspective "does not
-  establish a unique subject of experience". It sits beside CLAIM-261
-  (acting as one does not need synchronized interests), CLAIM-355 and
-  CLAIM-417, and adds the separation of unity, a property of relations,
+  establish a unique subject of experience". It sits beside [CLAIM-261](CLAIM-261.md)
+  (acting as one does not need synchronized interests), [CLAIM-355](CLAIM-355.md) and
+  [CLAIM-417](CLAIM-417.md), and adds the separation of unity, a property of relations,
   from singularity, a property of one perspective. A's question, kept:
   "Does a self need to be one perspective, or does it need to be one
   organization within which multiple perspectives can become mutually
@@ -69,7 +69,7 @@ to maintain and revise coordination across differences"):
 > attribute to a self, even when no unique overarching perspective can be
 > identified.**
 
-With TERM-tmpm0s7g's senses and TERM-tmpxwa7g's integration, A22 states two
+With [TERM-tmpm0s7g](../terms.d/TERM-tmpm0s7g.md)'s senses and [TERM-tmpxwa7g](../terms.d/TERM-tmpxwa7g.md)'s integration, A22 states two
 non-implications:
 
 - **Integrated(S) does not imply Sing_org(S).** "A team or a person can
@@ -79,27 +79,27 @@ non-implications:
   and no unique p*.
 - **Sing_org(S) does not imply Sing_phen(S).** "A unique governing
   perspective does not establish a unique subject of experience." This is
-  TERM-072's separation of organizational from phenomenal perspective.
+  [TERM-072](../terms.d/TERM-072.md)'s separation of organizational from phenomenal perspective.
 
 And a further one, A22 §6: singularity is not indivisibility. "A person can
 have independently manipulable processes without ceasing to be a person. A
 team can have individually addressable members while possessing
 irreducible team-level dynamics." The test is "whether the organization has
 causal properties that depend on how the distinguishable parts are
-related", which is CLAIM-tmpl1hgv.
+related", which is [CLAIM-tmpl1hgv](CLAIM-tmpl1hgv.md).
 
 ## What is held already, and what this adds
 
-CLAIM-261 holds that a human agent acts as one while its interests stay
-divided; CLAIM-355 that the binding of appraisal, readiness and governance
+[CLAIM-261](CLAIM-261.md) holds that a human agent acts as one while its interests stay
+divided; [CLAIM-355](CLAIM-355.md) that the binding of appraisal, readiness and governance
 into one response can be real while its single owner is a representational
-construction; CLAIM-417 that the record's senses of "self" are better
+construction; [CLAIM-417](CLAIM-417.md) that the record's senses of "self" are better
 explained by organizational perspectives. None of them separates unity from
 singularity as two predicates on the same structure, so that a team and a
 person can be compared on each without presupposing either. That is what
 this claim adds. Its warrant is interpretive: the first non-implication is
 shown only by a configuration A drew, not by a system shown to be
-integrated and lack a p*. CLAIM-tmpl1hgv's interventions (LEAD-tmph7m7s)
+integrated and lack a p*. [CLAIM-tmpl1hgv](CLAIM-tmpl1hgv.md)'s interventions ([LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md))
 are a route to one.
 
 ## Its admission
@@ -108,5 +108,5 @@ A's synthesis in A22 is what this claim files; the lead audits the
 exchange's account of a self across turns (A13 to A29). The route that
 admits it is a discriminating prediction: integrated pluralities with no
 greatest perspective should show self-like persistence and governance under
-LEAD-tmph7m7s's interventions, which the rival view, that self-like unity
+[LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md)'s interventions, which the rival view, that self-like unity
 needs one sovereign perspective, denies.

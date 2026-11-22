@@ -15,15 +15,15 @@ line:
 - will-organization
 summary: >-
   A8 §4 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
-  cites CLAIM-761 for the smart-scroll case: the learned mapping "becomes a
+  cites [CLAIM-761](../claims.d/CLAIM-761.md) for the smart-scroll case: the learned mapping "becomes a
   stable, reusable constraint" and future interactions "become easier
   without fresh inference", "amortized sensorimotor coordination". As
-  support for CLAIM-761's thesis, capability expansion within a fixed
+  support for [CLAIM-761](../claims.d/CLAIM-761.md)'s thesis, capability expansion within a fixed
   budget, the analogy fails: scrolling is feasible at every parameter
   value, so the stored mapping lowers the cost of later gestures without
-  changing which are realizable. Rejected as support. CLAIM-761's
-  standing lives in CLAIM-761 itself, Active, unchanged; the weaker point,
-  that cached parameters amortize the cost of learning, is CLAIM-tmpk8ude's
+  changing which are realizable. Rejected as support. [CLAIM-761](../claims.d/CLAIM-761.md)'s
+  standing lives in [CLAIM-761](../claims.d/CLAIM-761.md) itself, Active, unchanged; the weaker point,
+  that cached parameters amortize the cost of learning, is [CLAIM-tmpk8ude](../claims.d/CLAIM-tmpk8ude.md)'s
   (A's) and needs no further entry. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
@@ -33,16 +33,16 @@ summary: >-
 
 ## The inference
 
-Premise (CASE-tmptzhse, A8 §4): an adaptive scroll interface learns, off
+Premise ([CASE-tmptzhse](../cases.d/CASE-tmptzhse.md), A8 §4): an adaptive scroll interface learns, off
 the critical path, a friction setting that it then applies with no
-inference; later gestures need fewer corrections. Conclusion (CLAIM-761):
+inference; later gestures need fewer corrections. Conclusion ([CLAIM-761](../claims.d/CLAIM-761.md)):
 a stabilized constraint can be stored work that, by replacing later work
 with cheaper operations, changes which activities are realizable within a
 fixed per-task budget.
 
 ## Critical questions
 
-1. **Are the two alike in the respect that matters?** CLAIM-761's step is
+1. **Are the two alike in the respect that matters?** [CLAIM-761](../claims.d/CLAIM-761.md)'s step is
    from amortization to capability: a task becomes feasible when its least
    per-task cost, the stored constraint's retrieval included, falls within
    a budget it exceeded before. In the scroll case no budget is named that
@@ -56,7 +56,7 @@ fixed per-task budget.
    proposed does not state one.
 3. **Is the analogy needed?** No: what A8 wants from it, that learning can
    run slowly while its product is applied instantly, is held by
-   CLAIM-tmpk8ude on CLAIM-711 and CLAIM-478.
+   [CLAIM-tmpk8ude](../claims.d/CLAIM-tmpk8ude.md) on [CLAIM-711](../claims.d/CLAIM-711.md) and [CLAIM-478](../claims.d/CLAIM-478.md).
 
-Verdict: Rejected as support for CLAIM-761. The case may still illustrate
+Verdict: Rejected as support for [CLAIM-761](../claims.d/CLAIM-761.md). The case may still illustrate
 amortization of the learning's cost.

@@ -30,7 +30,7 @@ summary: >-
   adopting it is the owner's call. The case is filed as a proposed study,
   not a question, because the owner put forward a design to be tried and a
   constraint on it, and the record's questions about First Contact are
-  already held (QUESTION-504, QUESTION-404).
+  already held ([QUESTION-504](../questions.d/QUESTION-504.md), [QUESTION-404](../questions.d/QUESTION-404.md)).
 ---
 <!-- inactive-ok-file: CLAIM-788 CLAIM-787 CLAIM-tmpx7oaj — Proposed or Open; the First Contact entries and rate claims this case uses -->
 
@@ -38,7 +38,7 @@ summary: >-
 
 ## The case
 
-**The owner's proposal** (U2). First Contact (LIT-2956; NOTE-2236) fits an
+**The owner's proposal** (U2). First Contact ([LIT-2956](../literature.d/LIT-2956.md); [NOTE-2236](../notes.d/NOTE-2236.md)) fits an
 interface by the mutual information between a user's command and the state
 change it induces, with no knowledge of the user's task, while the user
 adapts too. A touch-scroll interface is a natural place to use that:
@@ -107,27 +107,27 @@ brakes, reversal cancels momentum) whose thresholds could later be learned
 It is stipulated: nothing here has been run. Its standing is that of a
 design that would test several held entries in a cheap, repeatable setting.
 
-- **CLAIM-788**'s channel reading and its defeater (a), transfer: part 4's
+- **[CLAIM-788](../claims.d/CLAIM-788.md)**'s channel reading and its defeater (a), transfer: part 4's
   unfamiliar-document test is the test First Contact does not run
-  (NOTE-2236).
-- **CLAIM-787**'s horizon: A8 distinguishes the computational latency of
+  ([NOTE-2236](../notes.d/NOTE-2236.md)).
+- **[CLAIM-787](../claims.d/CLAIM-787.md)**'s horizon: A8 distinguishes the computational latency of
   evaluating a policy from the evaluative horizon at which one can tell
   whether a command helped; the first is part 1's, the second is First
   Contact's Δ, and they need not coincide. Strong inertial braking can
   shorten a flick and still make positioning easier, the scroll analogue
   of the lander inversion ("less immediate movement ⇏ less effective
   control"), though too much braking frustrates.
-- **CLAIM-535**: a quick reverse swipe can mean overshoot, rereading or
+- **[CLAIM-535](../claims.d/CLAIM-535.md)**: a quick reverse swipe can mean overshoot, rereading or
   searching back, circumstances the controller cannot tell apart from the
   gesture and that call for different adjustments; A8 concludes the
   interface should stay task-agnostic and learn from patterns over many
   gestures rather than decode intent per gesture.
-- **QUESTION-504**: part 4's removal arm asks whether adaptive scrolling
+- **[QUESTION-504](../questions.d/QUESTION-504.md)**: part 4's removal arm asks whether adaptive scrolling
   improves assisted performance while training the user to depend on its
   dynamics.
 - **What a raw score can see**: with the user's commands held fixed, the
   command-to-displacement information does not prefer a comfortable gain
-  (CLAIM-tmpx7oaj); part 3's comparison is where that matters.
+  ([CLAIM-tmpx7oaj](../claims.d/CLAIM-tmpx7oaj.md)); part 3's comparison is where that matters.
 
 It cannot show anything about First Contact's own domains, and the time
 ranges in part 4 and the constants in part 2 are A's engineering choices,

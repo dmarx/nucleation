@@ -41,14 +41,14 @@ summary: >-
   consequential, and capable of reorganizing their relationships in
   response to changing conditions." It applies the record's coexistence
   results (niche differentiation as relief of structural frustration,
-  CLAIM-554; recovery when rare, QUESTION-132; coexistence without
-  cooperation, CLAIM-546; a composite operation that makes three pairwise
-  satisfiable demands jointly satisfiable, CASE-119) to a self and to a
+  [CLAIM-554](CLAIM-554.md); recovery when rare, [QUESTION-132](../questions.d/QUESTION-132.md); coexistence without
+  cooperation, [CLAIM-546](CLAIM-546.md); a composite operation that makes three pairwise
+  satisfiable demands jointly satisfiable, [CASE-119](../cases.d/CASE-119.md)) to a self and to a
   team. One version of the cross-section self thesis of this exchange. The
   wording is A's (ChatGPT, in the exchange of 2026-11-22); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmppvlfi CLAIM-362 — Proposed; the term this claim is stated in, filed with it on 2026-11-22, and the non-domination criterion it cites -->
+<!-- inactive-ok-file: CLAIM-362 — Proposed; the term this claim is stated in, filed with it on 2026-11-22, and the non-domination criterion it cites -->
 
 # CLAIM-tmp37le7: A self-like organization need not be unified by convergence on a single perspective: it can be unified ecologically, by a historically maintained regime in which differentiated perspectives stay viable, mutually consequential and able to reorganize their relations
 
@@ -78,14 +78,14 @@ singularity, is the relevant form of unity for some kinds of selfhood".
 A24's gloss on the fourth row: "A healthy plurality is not merely one in
 which every constituent currently exists. It is one in which constituents
 retain the capacity to become consequential again." That is held as
-CLAIM-362's continued access to consequential roles and QUESTION-132's
+[CLAIM-362](CLAIM-362.md)'s continued access to consequential roles and [QUESTION-132](../questions.d/QUESTION-132.md)'s
 recovery when rare.
 
 A24 illustrated with the two-species model ṅ₁ = n₁(1 − n₁ − ρn₂), the
 rare type's growth 1 − ρ > 0 for ρ < 1: coexistence "because each is
 limited more strongly by its own abundance than by the other's". That is
-held, with its proof, in CLAIM-369; A24 flagged that normalized shares of
-authority behave differently from abundances, as CLAIM-369 does.
+held, with its proof, in [CLAIM-369](CLAIM-369.md); A24 flagged that normalized shares of
+authority behave differently from abundances, as [CLAIM-369](CLAIM-369.md) does.
 
 ## Suppression and reorganization
 
@@ -94,8 +94,8 @@ weaken one constituent's requirement until the others are compatible")
 and ecological reorganization ("change the available roles, resources,
 or interactions so that the original requirements become jointly
 achievable"). Only the second is relief of structural frustration
-(CLAIM-554), and relief is judged against the original demands
-(CLAIM-361). Held.
+([CLAIM-554](CLAIM-554.md)), and relief is judged against the original demands
+([CLAIM-361](CLAIM-361.md)). Held.
 
 ## What it does not say
 

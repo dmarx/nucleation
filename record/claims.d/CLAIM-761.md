@@ -167,13 +167,13 @@ unchanged. No status change.
 <!-- inactive-ok-file: CASE-tmptzhse CLAIM-tmpk8ude ARG-tmpzxz7y — Proposed or Rejected; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
 
 A8 §4 of that exchange reads the parameters an adaptive scroll interface
-learns (CASE-tmptzhse) through this claim: repeated interaction exposes a
+learns ([CASE-tmptzhse](../cases.d/CASE-tmptzhse.md)) through this claim: repeated interaction exposes a
 mismatch, the interface learns a mapping, the mapping becomes a stable
 constraint, and later interactions are easier "without fresh inference",
 "a small piece of **amortized sensorimotor coordination**". A11 §5 says the
 same of the cached controller. This is an analogy, so no edge: the claim's
 step needs a fixed per-task budget whose feasible set the stored constraint
 enlarges, and a scroll interface works without it at any parameter value,
-so the reading is of cost lowered, not of capability expanded (ARG-tmpzxz7y, Rejected as support). The
+so the reading is of cost lowered, not of capability expanded ([ARG-tmpzxz7y](../arguments.d/ARG-tmpzxz7y.md), Rejected as support). The
 separation of fast loop and slow learning that the analogy rests on is
-CLAIM-tmpk8ude (A's). No status change.
+[CLAIM-tmpk8ude](CLAIM-tmpk8ude.md) (A's). No status change.

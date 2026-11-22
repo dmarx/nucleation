@@ -20,8 +20,8 @@ summary: >-
   organizational singularity as a unique greatest element of an
   integration order on the effective perspectives. Unity, by contrast,
   is a property of the relations that maintain coherent activity across
-  a plurality (TERM-tmpxwa7g's integration). The organizational and
-  phenomenal senses follow TERM-072's. The filer's correction is in the
+  a plurality ([TERM-tmpxwa7g](TERM-tmpxwa7g.md)'s integration). The organizational and
+  phenomenal senses follow [TERM-072](TERM-072.md)'s. The filer's correction is in the
   body: the order must be antisymmetric for "unique greatest" to say what
   A means. The wording is A's (ChatGPT, in the exchange of 2026-11-22);
   adopting it is the owner's call.
@@ -87,16 +87,16 @@ plural organization (overlapping regimes, no encompassing one); an
 integrated plurality (shared governance, no unique P*: "The enclosing
 boundary in the third case represents coordination, not an additional
 perspective"). "A system could be organizationally unified without being
-organizationally singular." CLAIM-tmp3xo35 states what follows.
+organizationally singular." [CLAIM-tmp3xo35](../claims.d/CLAIM-tmp3xo35.md) states what follows.
 
 ## Neighbours
 
-- TERM-072 separates organizational, represented and phenomenal
+- [TERM-072](TERM-072.md) separates organizational, represented and phenomenal
   perspectives; the second and third senses here are counted in its first
   and third.
-- CLAIM-355: in a distributed agent the binding into one response can be
+- [CLAIM-355](../claims.d/CLAIM-355.md): in a distributed agent the binding into one response can be
   real while its single owner is a representational construction. That is
   unity without organizational singularity at the represented level.
-- CLAIM-417: what the record explained by "self" is better explained by
+- [CLAIM-417](../claims.d/CLAIM-417.md): what the record explained by "self" is better explained by
   organizational perspectives, with carriers, lineage and representations
   kept apart.

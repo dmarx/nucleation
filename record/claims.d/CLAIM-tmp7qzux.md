@@ -61,7 +61,7 @@ summary: >-
 Let Ω be a set of configurations (candidate organizations of a self, in
 A15's use), 𝒬 a set of admissible probes, and for each q a response law
 D_z(q) fixed for each z in Ω. For Q ⊆ 𝒬 write z ∼_Q z′ when D_z(q) = D_z′(q)
-for all q ∈ Q, and π(Q) for the partition into its classes (TERM-069's
+for all q ∈ Q, and π(Q) for the partition into its classes ([TERM-069](../terms.d/TERM-069.md)'s
 observational equivalence).
 
 1. **Unions give meets.** z ∼_{Q1∪Q2} z′ exactly when z ∼_{Q1} z′ and
@@ -96,8 +96,8 @@ for eight probes).
 
 ## What it does not say
 
-It holds probes and configurations fixed, as CLAIM-574 does. When a probe
-changes what it probes, the families are of probe sequences (TERM-069, the
-term TERM-tmpwc4la), and the order is over those. It says nothing about
+It holds probes and configurations fixed, as [CLAIM-574](CLAIM-574.md) does. When a probe
+changes what it probes, the families are of probe sequences ([TERM-069](../terms.d/TERM-069.md), the
+term [TERM-tmpwc4la](../terms.d/TERM-tmpwc4la.md)), and the order is over those. It says nothing about
 which of the visible partitions, if any, is a decomposition into
-perspectives: that is the further, causal question (CLAIM-454, QUESTION-393).
+perspectives: that is the further, causal question ([CLAIM-454](CLAIM-454.md), [QUESTION-393](../questions.d/QUESTION-393.md)).

@@ -329,6 +329,6 @@ differ: technological development or open reconsideration of priorities;
 better incentives, information or enforcement; improvement without any
 violation. A's gloss of the third case is looser than the claim, which
 compares the actual update's worst residual with the best achievable
-(minimax regret), not performance under an objective. CLAIM-tmpx9nrj
+(minimax regret), not performance under an objective. [CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md)
 carries the split between possibility and realization from one update to
 a distribution over histories. No status change.

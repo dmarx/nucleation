@@ -47,7 +47,7 @@ summary: >-
   A's (ChatGPT, in the exchange of 2026-11-22); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: TERM-tmppvlfi CLAIM-tmp37le7 TERM-tmpm0s7g CLAIM-tmp3xo35 — Proposed; the term this is stated in and the claim it rests on, filed with it on 2026-11-22 -->
+<!-- inactive-ok-file: TERM-tmppvlfi TERM-tmpm0s7g CLAIM-tmp3xo35 — Proposed; the term this is stated in and the claim it rests on, filed with it on 2026-11-22 -->
 
 # CLAIM-tmp31b3v: Harmonious integration and organizational singularity are independent: a correctable plurality with no overarching perspective is harmonious and not singular, and a unified organization that silences its internal differences is singular and not harmonious
 
@@ -62,9 +62,9 @@ plurality without possessing one overarching perspective." And "a
 tightly unified organization can still suppress valuable internal
 differences, become brittle, or perpetuate destructive governance."
 
-Sing_org(S) is A22's organizational singularity, TERM-tmpm0s7g, filed
+Sing_org(S) is A22's organizational singularity, [TERM-tmpm0s7g](../terms.d/TERM-tmpm0s7g.md), filed
 from U11 in this filing (its sister claim, that integration does not
-entail it, is CLAIM-tmp3xo35): there is exactly one effective perspective within which every
+entail it, is [CLAIM-tmp3xo35](CLAIM-tmp3xo35.md)): there is exactly one effective perspective within which every
 other effective perspective is integrated.
 
 ## The two cases
@@ -78,7 +78,7 @@ other effective perspective is integrated.
   perspective.
 - **Singularity without harmony.** One perspective integrates every
   other, and does so by making the others quiet: viability holds,
-  correctability fails (TERM-tmppvlfi, "What it is not").
+  correctability fails ([TERM-tmppvlfi](../terms.d/TERM-tmppvlfi.md), "What it is not").
 
 ## What it does not say
 

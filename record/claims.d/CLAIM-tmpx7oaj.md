@@ -32,7 +32,7 @@ summary: >-
   scrolling, not indifference. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-2147 CASE-tmptzhse — Proposed; the reading and the case this fills a gap in -->
+<!-- inactive-ok-file: CASE-tmptzhse — Proposed; the reading and the case this fills a gap in -->
 
 # CLAIM-tmpx7oaj: Command-to-displacement information at fixed behaviour does not prefer a comfortable scroll gain
 
@@ -66,11 +66,11 @@ In no case does the score at fixed behaviour have an interior maximum in k.
 
 A First Contact score over scroll gain can single out a comfortable gain
 only through the premise the paper rests on, that "the more intuitive the
-interface, the less noisy the user's commands" (NOTE-2236, §1): the
+interface, the less noisy the user's commands" ([NOTE-2236](../notes.d/NOTE-2236.md), §1): the
 command distribution must itself depend on k. A4 saw this ("the human's
 behavior changes in response to the mapping"). What A4 did not say is that
 with a realistic display the raw score is biased toward high gain. A study
-of the scroll case (CASE-tmptzhse) should therefore estimate the score
+of the scroll case ([CASE-tmptzhse](../cases.d/CASE-tmptzhse.md)) should therefore estimate the score
 over the user's realized gestures under each gain, not compute it from the
 physics, and should read an interior optimum as evidence about the user,
 not about the mapping. The same holds for momentum and friction parameters

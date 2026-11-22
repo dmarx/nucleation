@@ -40,12 +40,12 @@ summary: >-
 
 The plan is A33 §9's testbed. It would test three entries at once.
 
-- **QUESTION-tmpn9t5a.** Does the access-changing regime give a rare
+- **[QUESTION-tmpn9t5a](../questions.d/QUESTION-tmpn9t5a.md).** Does the access-changing regime give a rare
   capability positive growth when demand for it returns, where the
   uniform constraint does not?
-- **CLAIM-tmpx9nrj.** Can the regimes be found to move the complex and
+- **[CLAIM-tmpx9nrj](../claims.d/CLAIM-tmpx9nrj.md).** Can the regimes be found to move the complex and
   the probability of meeting the demands independently?
-- **CLAIM-tmpk4bou.** If the uniform conduct constraint is a pure hard
+- **[CLAIM-tmpk4bou](../claims.d/CLAIM-tmpk4bou.md).** If the uniform conduct constraint is a pure hard
   constraint on fixed dynamics, its complex must not exceed the
   baseline's. Any enlargement has to come from the access change.
 

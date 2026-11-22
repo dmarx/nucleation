@@ -28,9 +28,9 @@ bears_on:
 uses:
 - TERM-069
 summary: >-
-  CLAIM-tmp7pe33 ends: "Distinctions made under one such regime may
+  [CLAIM-tmp7pe33](CLAIM-tmp7pe33.md) ends: "Distinctions made under one such regime may
   disappear or reorganize under another without thereby becoming unreal or
-  false." CLAIM-574 shows that along nested probe families distinctions
+  false." [CLAIM-574](CLAIM-574.md) shows that along nested probe families distinctions
   only grow, so the "may disappear" holds only for a change of regime that
   is not an enrichment. A15 §2 states this guardrail ("Adding probes to a
   nested family cannot make an established distinction disappear when the
@@ -45,13 +45,13 @@ summary: >-
   is false of the later one. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp7pe33 CLAIM-tmptxsin — new; the conjecture this corrects and its revision, filed in the same batch of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmp7pe33 — new; the conjecture this corrects and its revision, filed in the same batch of 2026-11-22 -->
 
 # CLAIM-tmp0dyx8: When a distinction among a self's perspectives can disappear
 
 ## The claim
 
-Hold the configurations and their response laws fixed. By CLAIM-574, if
+Hold the configurations and their response laws fixed. By [CLAIM-574](CLAIM-574.md), if
 Q1 ⊆ Q2 then every pair Q1 separates, Q2 separates. So a distinction drawn
 under one regime disappears under another only if one of these holds:
 
@@ -60,7 +60,7 @@ under one regime disappears under another only if one of these holds:
    unaffordable by a smaller budget.
 2. **What is recorded is coarsened.** The responses are compressed or
    summarized before they are compared (an averaged score in place of the
-   law of each probe; CLAIM-574's last clause is that an averaged
+   law of each probe; [CLAIM-574](CLAIM-574.md)'s last clause is that an averaged
    distortion does not inherit the monotonicity). This is a case of 1, the
    summary being a different and poorer probe.
 3. **The horizon is shortened.** A probe whose outcome is read over a
@@ -69,7 +69,7 @@ under one regime disappears under another only if one of these holds:
    one probed earlier, as when probing alters what it probes.
 
 In 1 to 3 the distinction is hidden, and is still true of the organization:
-it is relative to the regime and not false, as CLAIM-tmp7pe33 says. In 4 it
+it is relative to the regime and not false, as [CLAIM-tmp7pe33](CLAIM-tmp7pe33.md) says. In 4 it
 is gone, and its having held is a fact about the earlier organization, not
 relative to any regime. The conjecture's sentence is right for 1 to 3 and
 mislabels 4.
@@ -81,11 +81,11 @@ even help constitute" the perspective it measures. That is case 4. A theory
 that calls every vanished distinction regime-relative cannot tell a self
 whose parts were only out of view from a self whose parts merged, which is
 the difference A15 §6 needs between continuity of lineage and continuity of
-repertoire (CLAIM-287, CLAIM-421).
+repertoire ([CLAIM-287](CLAIM-287.md), [CLAIM-421](CLAIM-421.md)).
 
 ## The derivation
 
-CLAIM-574's lemma: a natural isomorphism of profiles on a probe family
+[CLAIM-574](CLAIM-574.md)'s lemma: a natural isomorphism of profiles on a probe family
 restricts to one on every subfamily, so equivalence under Q2 implies
 equivalence under every Q1 ⊆ Q2; contrapositively, a pair told apart under
 Q1 is told apart under Q2. Cases 2 and 3 replace a probe q by f∘q for a

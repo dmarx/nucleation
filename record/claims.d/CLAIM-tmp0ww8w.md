@@ -41,7 +41,7 @@ summary: >-
   commitments a proposed revision threatens." The tension: "A schema can
   stabilize an ecology of perspectives—or turn it into a monoculture", so
   "the structure can itself be revised by the perspectives whose activity
-  it organizes" is the critical feature. It reads CLAIM-181 (a record's
+  it organizes" is the critical feature. It reads [CLAIM-181](CLAIM-181.md) (a record's
   grammar can force novel contributions into existing forms) as the
   monoculture failure, and the record as niche construction in the
   biologist's sense. The wording is A's (ChatGPT, in the exchange of
@@ -54,7 +54,7 @@ summary: >-
 ## The claim
 
 A24 §5. A record kept by several collaborators (its shared epistemic
-state, TERM-119) is part of the environment their specializations develop
+state, [TERM-119](../terms.d/TERM-119.md)) is part of the environment their specializations develop
 in. Different dispositions need different conditions to stay effective:
 the critic, addressable objections; the synthesizer, inspectable
 relations; the introducer of a concept, a route to change the
@@ -65,7 +65,7 @@ dispositions."
 
 The risk is the converse. "If the record recognizes only familiar kinds
 of contribution, it can reinforce the established epistemic species while
-excluding novel ones." That is CLAIM-181's grammar failure stated
+excluding novel ones." That is [CLAIM-181](CLAIM-181.md)'s grammar failure stated
 ecologically. So the condition A24 named: the structure must be
 revisable "by the perspectives whose activity it organizes".
 
@@ -73,12 +73,12 @@ revisable "by the perspectives whose activity it organizes".
 
 That this record, or Luria, meets the condition; that is an empirical
 question about its decisions and their history. Nor that niche
-construction makes the collaborators one perspective (TERM-tmppvlfi,
+construction makes the collaborators one perspective ([TERM-tmppvlfi](../terms.d/TERM-tmppvlfi.md),
 "Agreement").
 
 ## Held nearby
 
 The biological sense of niche construction is in the record's readings
-(THEORY-446, THEORY-612); CLAIM-181 holds the grammar failure; ADRs
+([THEORY-446](../theory.d/THEORY-446.md), [THEORY-612](../theory.d/THEORY-612.md)); [CLAIM-181](CLAIM-181.md) holds the grammar failure; ADRs
 adding words to the closed topic vocabulary by decision are the record's
 own route for revising its structure.

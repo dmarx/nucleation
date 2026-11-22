@@ -183,12 +183,12 @@ claim's own (A20 §4, which A called "more speculative"), a record that makes
 the inquiry's longer-run structure consequential at the moment of
 contribution brings a contributor's immediate reward and the inquiry's
 longer-run value closer, a condition for flow, unless filing is tedious or
-the grammar distorts the idea: CLAIM-tmpywoih (Proposed), argued by
-ARG-tmpymz1j (Proposed, by analogy, with this claim's warrant and ARG-016's
+the grammar distorts the idea: [CLAIM-tmpywoih](CLAIM-tmpywoih.md) (Proposed), argued by
+[ARG-tmpymz1j](../arguments.d/ARG-tmpymz1j.md) (Proposed, by analogy, with this claim's warrant and [ARG-016](../arguments.d/ARG-016.md)'s
 objection carried along). On the other, practical synchronization
-(TERM-061), collaborators coordinate without agreeing: CLAIM-tmpmk036.
+([TERM-061](../terms.d/TERM-061.md)), collaborators coordinate without agreeing: [CLAIM-tmpmk036](CLAIM-tmpmk036.md).
 A20 §7 kept the phenomenological limit: uninterrupted coordination does not
 show that anyone experiences flow. And A20's closing proposition says what
 this claim does not describe: flow-regulation, the capacity to enter,
-sustain, interrupt and recover fluent coordination (CLAIM-tmpcsh5p,
+sustain, interrupt and recover fluent coordination ([CLAIM-tmpcsh5p](CLAIM-tmpcsh5p.md),
 Proposed). The claim is unchanged.

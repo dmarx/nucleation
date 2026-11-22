@@ -32,12 +32,12 @@ summary: >-
   organization of their differences to develop." Filed as supposed: A
   itself kept "whether that organization amounts to a collective
   perspective, rather than a shared coordination scaffold" as "a further
-  causal and empirical question", and kept CLAIM-469's point that Luria
-  is not self-maintaining. The test is LEAD-tmph7m7s's withdrawal arm.
+  causal and empirical question", and kept [CLAIM-469](CLAIM-469.md)'s point that Luria
+  is not self-maintaining. The test is [LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md)'s withdrawal arm.
   The wording is A's (ChatGPT, in the exchange of 2026-11-22); adopting
   it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-119 CLAIM-tmp86z76 CLAIM-181 — Proposed; the term the claim is stated in and claims filed or held beside it -->
+<!-- inactive-ok-file: TERM-119 CLAIM-181 — Proposed; the term the claim is stated in and claims filed or held beside it -->
 
 # CLAIM-tmpqr0tn: A team's historically sustained organization of differing perspectives can be partly realized in a shared governed record: the record keeps which distinctions persist, which contributions become consequential and which changes oblige revision, so the organization of the collaborators and the record, not the record alone, may be the bearer of a collective perspective, and the record becomes adaptively significant when the collaborators' differences can revise its own distinctions
 
@@ -51,16 +51,16 @@ the organization that lets distinct collaborators work together can be
 "externalized into a durable, revisable structure", and that structure is
 "not merely a common information store. It is an arrangement that governs
 which distinctions persist, which contributions become consequential, and
-which changes create obligations for further revision." That is TERM-119's
+which changes create obligations for further revision." That is [TERM-119](../terms.d/TERM-119.md)'s
 shared epistemic state.
 
 A's question: "Could a collective's historically sustained organization of
 perspectives be partly realized through a shared governed record?" A
 answers "yes, as a plausible organizational mechanism", and blocks two
 slides: not that Luria is a self, and not that the collaborators become
-one agent. CLAIM-469 holds that Luria differentiates, keeps, enforces and
+one agent. [CLAIM-469](CLAIM-469.md) holds that Luria differentiates, keeps, enforces and
 revises the record's objects but depends on its maintainers; the bearer, if
-there is one, is "the human–tool–collaborator organization". CLAIM-418
+there is one, is "the human–tool–collaborator organization". [CLAIM-418](CLAIM-418.md)
 lets a perspective be shared by several agents without making them one.
 
 The conjecture's last sentence is the one A said it would develop: "The
@@ -69,25 +69,25 @@ can also induce revisions of the very distinctions and constraints through
 which they coordinate." A record that only stabilizes preserves an existing
 organization; one whose grammar its users can revise lets them find where
 the organization cannot express what they meet. That is the condition
-CLAIM-181 makes necessary, and CLAIM-469's third function (its
+[CLAIM-181](CLAIM-181.md) makes necessary, and [CLAIM-469](CLAIM-469.md)'s third function (its
 distinctions are revised through the record's own use).
 
 ## Why supposed
 
 It is stated as a possibility and A filed its own test. If withdrawing the
 record from a team leaves its team-level dispositions unchanged (the second
-arm of LEAD-tmph7m7s), the record was a convenience, not part of the
+arm of [LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md)), the record was a convenience, not part of the
 organization. If replacing members while keeping the record keeps those
 dispositions, the record carries part of what persists, which is
-QUESTION-118's question of what must stay causally continuous when a
+[QUESTION-118](../questions.d/QUESTION-118.md)'s question of what must stay causally continuous when a
 collective replaces its members.
 
-## Admission (ADR-075; the assistant's audit, 2026-11-22)
+## Admission ([ADR-075](../decisions.d/ADR-075.md); the assistant's audit, 2026-11-22)
 
-*A discriminating prediction.* Its premises (CLAIM-469, CLAIM-418) leave
+*A discriminating prediction.* Its premises ([CLAIM-469](CLAIM-469.md), [CLAIM-418](CLAIM-418.md)) leave
 open whether a record carries part of a team's organization. The
 supposition predicts two things. If a collaborator is replaced while the
 record is kept, the team-level disposition persists. If the record is
-withdrawn while the collaborators are kept, it degrades. LEAD-tmph7m7s
+withdrawn while the collaborators are kept, it degrades. [LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md)
 runs both arms. If neither intervention moves the team-level profile,
 the supposition fails.

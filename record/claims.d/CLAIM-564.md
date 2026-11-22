@@ -167,5 +167,5 @@ objectives." A's conclusion is that regulation should "distinguish
 constraints that express public commitments from constraints that merely
 reflect current industrial capabilities". This is an application, and it
 is A's. The claim gives the mechanism, and the regulatory reading is
-interpretive. The owner's thesis it bears on is CLAIM-tmpz67ew. No status
+interpretive. The owner's thesis it bears on is [CLAIM-tmpz67ew](CLAIM-tmpz67ew.md). No status
 change.

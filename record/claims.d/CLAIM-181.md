@@ -271,8 +271,8 @@ failures of the vocabulary exposed; warranted disagreement kept) from
 pathological convergence (differences collapsed into one formulation;
 revision made prohibitively hard; the vocabulary treated as exhaustive;
 agreement rewarded as evidence of correctness). It adds that compiling
-norms into mechanisms (DP-3) makes the risk "especially consequential".
-CLAIM-tmp86z76 (Proposed) takes this claim as the limit of its thesis that
-a governed record synchronizes without convergence, and CLAIM-tmpcsh5p
+norms into mechanisms ([DP-3](../../docs/design-principles.md#dp-3)) makes the risk "especially consequential".
+[CLAIM-tmp86z76](CLAIM-tmp86z76.md) (Proposed) takes this claim as the limit of its thesis that
+a governed record synchronizes without convergence, and [CLAIM-tmpcsh5p](CLAIM-tmpcsh5p.md)
 (Proposed) as the reason a record must keep the interruptions that change
 its grammar. The claim is unchanged.

@@ -31,9 +31,9 @@ uses:
 - TERM-061
 summary: >-
   A20 §1 to §3 of the exchange "Explain First Contact RL" (ChatGPT,
-  2026-11-22), relating the record's flow account to Luria. TERM-050's
-  valuational concordance and TERM-061's practical synchronization are
-  separate dimensions (A's two-by-two); CLAIM-358 says learned local
+  2026-11-22), relating the record's flow account to Luria. [TERM-050](../terms.d/TERM-050.md)'s
+  valuational concordance and [TERM-061](../terms.d/TERM-061.md)'s practical synchronization are
+  separate dimensions (A's two-by-two); [CLAIM-358](CLAIM-358.md) says learned local
   accommodation amortizes recurrent arbitration. A asks whether a record
   whose validators enforce the rules is "itself performing the
   arbitration", answers "Yes, at least partly", and separates a third
@@ -44,7 +44,7 @@ summary: >-
   hypothesis, not implied. The wording is A's (ChatGPT, in the exchange
   of 2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-358 CLAIM-711 CLAIM-162 CLAIM-tmpywoih CLAIM-tmpcsh5p — Proposed; neighbours and the claims filed beside this one -->
+<!-- inactive-ok-file: CLAIM-358 CLAIM-711 — Proposed; neighbours and the claims filed beside this one -->
 
 # CLAIM-tmpmk036: Repeated arbitration can fall away from a collaboration by three different mechanisms, valuational concordance, learned practical coordination and externalized governance, and a governed record is directly only the third: rules and infrastructure that settle recurring conflicts automatically do not show that the collaborators have learned to coordinate, though they may be a stage on the way to it
 
@@ -53,8 +53,8 @@ summary: >-
 A20 of the exchange "Explain First Contact RL"
 (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3), after the
 owner's U9 ("relate to Nucleation's account of 'flow' state"). A starts
-from the record's two senses: TERM-050 (intrapersonal synchronization,
-which TERM-050 itself calls valuational concordance) and TERM-061
+from the record's two senses: [TERM-050](../terms.d/TERM-050.md) (intrapersonal synchronization,
+which [TERM-050](../terms.d/TERM-050.md) itself calls valuational concordance) and [TERM-061](../terms.d/TERM-061.md)
 (practical synchronization), and lays them out as independent:
 
 | | concordance absent | concordance present |
@@ -66,7 +66,7 @@ which TERM-050 itself calls valuational concordance) and TERM-061
 than one producing valuational concordance." Collaborators can disagree
 about theories and priorities and still develop an argument together.
 
-CLAIM-358 supplies the cost: "the effort of doing the task and the effort
+[CLAIM-358](CLAIM-358.md) supplies the cost: "the effort of doing the task and the effort
 of governing how the task gets done are different costs", and A quotes its
 "The achievement of governance may be to make its repeated exercise
 unnecessary." Without a shared record, collaborators keep re-establishing
@@ -81,19 +81,19 @@ the record is doing some of the arbitration. So there are three mechanisms
 by which repeated arbitration falls away:
 
 - **valuational concordance**: the collaborators want the same course
-  over the horizon (TERM-050);
+  over the horizon ([TERM-050](../terms.d/TERM-050.md));
 - **learned practical coordination**: they have learned ways to
   accommodate their differences without recurrent higher-level
-  intervention (TERM-061, CLAIM-358);
+  intervention ([TERM-061](../terms.d/TERM-061.md), [CLAIM-358](CLAIM-358.md));
 - **externalized governance**: they rely on rules and infrastructure that
   enforce constraints automatically, so fresh deliberation is not needed.
 
 A governed record is directly the third. "A collaborator who makes every
 decision by appealing to a rigid schema has not necessarily learned to
-coordinate with the others." The relation to TERM-061 is the point at
+coordinate with the others." The relation to [TERM-061](../terms.d/TERM-061.md) is the point at
 issue: that term excludes "recurrent overriding arbitration by a higher
 level", and a validator is plausibly such a level, set beforehand and
-enforced fast, as in CLAIM-711.
+enforced fast, as in [CLAIM-711](CLAIM-711.md).
 
 ## The developmental hypothesis
 
@@ -101,7 +101,7 @@ A offers, as a hypothesis: repeated explicit arbitration, then stable
 external constraints, then learned local coordination, once collaborators
 have internalized the record's distinctions, "analogous to learning a motor
 skill". "That final transition must be measured. It is not guaranteed by
-the existence of the record." A test is LEAD-tmponn7c: withdraw the record
+the existence of the record." A test is [LEAD-tmponn7c](../leads.d/LEAD-tmponn7c.md): withdraw the record
 after a period of use and see whether coordination survives.
 
 ## Where the gap is

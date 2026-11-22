@@ -35,7 +35,7 @@ summary: >-
 
 ## What to do
 
-The design is part 3 of CASE-tmptzhse.
+The design is part 3 of [CASE-tmptzhse](../cases.d/CASE-tmptzhse.md).
 
 1. **Passive.** Record touch and scroll traces under default physics with
    known targets; test whether reversals, pauses and repeated gestures
@@ -44,18 +44,18 @@ The design is part 3 of CASE-tmptzhse.
    correction statistics, between gestures only, off the UI thread.
 3. **The score.** Optimize an estimate of First Contact's score over
    gesture windows, the estimate taken from realized gestures under each
-   setting, not computed from the physics (CLAIM-tmpx7oaj).
+   setting, not computed from the physics ([CLAIM-tmpx7oaj](../claims.d/CLAIM-tmpx7oaj.md)).
 4. **Compare** the friction each stage settles on, and both against fixed
    physics, on target acquisition, corrections and rated predictability.
 
 ## What it would move
 
-- **CLAIM-tmpx7oaj**: an interior optimum of the score over friction is
+- **[CLAIM-tmpx7oaj](../claims.d/CLAIM-tmpx7oaj.md)**: an interior optimum of the score over friction is
   evidence that the user's commands depend on the setting; no optimum, or
   a drift to the extreme, is what the claim predicts at fixed behaviour.
-- **CLAIM-tmpk8ude**: stage 2 is its direct test, adaptation with no
+- **[CLAIM-tmpk8ude](../claims.d/CLAIM-tmpk8ude.md)**: stage 2 is its direct test, adaptation with no
   perceptual cost.
-- **CLAIM-788**: whether command-to-outcome information picks out a usable
+- **[CLAIM-788](../claims.d/CLAIM-788.md)**: whether command-to-outcome information picks out a usable
   channel in a continuous motor task, as it did for a cursor rotation.
 
 ## Cost

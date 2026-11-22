@@ -23,18 +23,18 @@ operationalized_in:
 summary: >-
   From A8 §2C and §3B of the exchange "Explain First Contact RL" (ChatGPT,
   2026-11-22). First Contact assumes the user adapts and does not measure
-  it, and runs no transfer test (NOTE-2236); A proposes a design that does
+  it, and runs no transfer test ([NOTE-2236](../notes.d/NOTE-2236.md)); A proposes a design that does
   both in the smart-scroll setting, with an arm that removes the
   adaptation. The wording is A's (ChatGPT, in the exchange of 2026-11-22);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-788 QUESTION-504 CASE-tmptzhse — Proposed or Open; the entries this would test and the case holding its design -->
+<!-- inactive-ok-file: CLAIM-788 CASE-tmptzhse — Proposed or Open; the entries this would test and the case holding its design -->
 
 # LEAD-tmp4eo5e: Separate interface improvement from user accommodation in an adaptive scroll interface
 
 ## What to do
 
-The design is part 4 of CASE-tmptzhse. A's conditions:
+The design is part 4 of [CASE-tmptzhse](../cases.d/CASE-tmptzhse.md). A's conditions:
 
 | Condition | User experience | Scroll mapping |
 |---|---|---|
@@ -51,9 +51,9 @@ block, with performance compared against the learning-only group.
 
 ## What it would move
 
-- **CLAIM-788** defeater (a): a mapping that helps on its training
+- **[CLAIM-788](../claims.d/CLAIM-788.md)** defeater (a): a mapping that helps on its training
   documents and not on new ones would have learned the content, not formed
   a channel.
-- **CLAIM-532**: the transfer test is its test of a maintained capacity.
-- **QUESTION-504**: lower unassisted performance after co-adaptation, at
+- **[CLAIM-532](../claims.d/CLAIM-532.md)**: the transfer test is its test of a maintained capacity.
+- **[QUESTION-504](../questions.d/QUESTION-504.md)**: lower unassisted performance after co-adaptation, at
   equal assisted performance, would be erosion the score cannot see.

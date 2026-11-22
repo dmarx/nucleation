@@ -50,14 +50,14 @@ Measures, each kept separate, from A18 §8 and A20 §8:
 
 | Measure | Operational form | Tests |
 |---|---|---|
-| stability | rate of silent redefinition or unacknowledged loss of prior conclusions | CLAIM-tmp86z76 |
-| synchronization | accuracy of collaborators' understanding of the current record after changes (CLAIM-668's misreading rate) | CLAIM-tmp86z76 |
-| convergence | change in the similarity of independently elicited beliefs | CLAIM-tmp86z76 |
-| plurality | retention of independently justified alternative interpretations | CLAIM-tmp86z76 |
-| governance overhead | how often collaborators stop to reconstruct context or re-arbitrate a settled distinction | CLAIM-tmpmk036 |
-| experienced flow | reported absorption and effortless attention | CLAIM-tmpywoih |
-| corrective capacity | whether, when a central premise fails mid-study, later collaborators find what must be reconsidered, a dissenter keeps a valid objection, and the vocabulary changes when the evidence demands | CLAIM-tmpcsh5p |
-| adaptive capacity | introducing and using a distinction the original grammar lacked | CLAIM-tmpcsh5p |
+| stability | rate of silent redefinition or unacknowledged loss of prior conclusions | [CLAIM-tmp86z76](../claims.d/CLAIM-tmp86z76.md) |
+| synchronization | accuracy of collaborators' understanding of the current record after changes ([CLAIM-668](../claims.d/CLAIM-668.md)'s misreading rate) | [CLAIM-tmp86z76](../claims.d/CLAIM-tmp86z76.md) |
+| convergence | change in the similarity of independently elicited beliefs | [CLAIM-tmp86z76](../claims.d/CLAIM-tmp86z76.md) |
+| plurality | retention of independently justified alternative interpretations | [CLAIM-tmp86z76](../claims.d/CLAIM-tmp86z76.md) |
+| governance overhead | how often collaborators stop to reconstruct context or re-arbitrate a settled distinction | [CLAIM-tmpmk036](../claims.d/CLAIM-tmpmk036.md) |
+| experienced flow | reported absorption and effortless attention | [CLAIM-tmpywoih](../claims.d/CLAIM-tmpywoih.md) |
+| corrective capacity | whether, when a central premise fails mid-study, later collaborators find what must be reconsidered, a dissenter keeps a valid objection, and the vocabulary changes when the evidence demands | [CLAIM-tmpcsh5p](../claims.d/CLAIM-tmpcsh5p.md) |
+| adaptive capacity | introducing and using a distinction the original grammar lacked | [CLAIM-tmpcsh5p](../claims.d/CLAIM-tmpcsh5p.md) |
 
 The intervention A18 called "particularly revealing": change an earlier
 assumption halfway through.
@@ -65,7 +65,7 @@ assumption halfway through.
 ## An arm added in filing
 
 Withdraw the governed record after a period of use and continue in the
-transcript condition. CLAIM-tmpmk036 separates learned coordination from
+transcript condition. [CLAIM-tmpmk036](../claims.d/CLAIM-tmpmk036.md) separates learned coordination from
 externalized governance by what survives withdrawal: learned accommodation
 should keep re-arbitration low for the conflicts it was learned on;
 externalized governance should not. (The assistant's; Claude, in this
@@ -73,7 +73,7 @@ session.)
 
 ## What would count
 
-For CLAIM-tmp86z76: stability and synchronization better under the governed
+For [CLAIM-tmp86z76](../claims.d/CLAIM-tmp86z76.md): stability and synchronization better under the governed
 record with belief convergence no greater. Against it: convergence greater
 under the governed record and traced to its vocabulary rather than to shared
 evidence. Experienced flow must be measured, not inferred from coordination

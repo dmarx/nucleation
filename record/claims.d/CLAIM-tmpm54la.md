@@ -36,8 +36,8 @@ summary: >-
   already divided. Two readings are filed in the condition, because the
   turn admits both: the perspectives are separable because their
   carriers are, or separable in every sense. A21 accepted the name and
-  the first reading and objected to the second (CLAIM-tmp7580l); its
-  narrower restatement is CLAIM-tmpl1hgv.
+  the first reading and objected to the second ([CLAIM-tmp7580l](CLAIM-tmp7580l.md)); its
+  narrower restatement is [CLAIM-tmpl1hgv](CLAIM-tmpl1hgv.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp7580l CLAIM-tmpl1hgv TERM-tmpxwa7g — Proposed; the objection, the restatement and the term filed from the same turn -->
 
@@ -67,12 +67,12 @@ infer.
   model".
 - **Separable in every sense.** The team's perspectives are separable
   observationally, causally and organizationally, as its members are.
-  A21 objects to this reading (CLAIM-tmp7580l), from CLAIM-418.
+  A21 objects to this reading ([CLAIM-tmp7580l](CLAIM-tmp7580l.md)), from [CLAIM-418](CLAIM-418.md).
 
 The owner did not say which was meant. Both are kept in the condition; the
 owner chooses.
 
-The name is the owner's. A21 defined it (TERM-tmpxwa7g): a
+The name is the owner's. A21 defined it ([TERM-tmpxwa7g](../terms.d/TERM-tmpxwa7g.md)): a
 multi-perspectival organization that reproduces some of the integration,
 persistence and adaptive governance associated with selves, while leaving
 open whether it has one subject of experience.

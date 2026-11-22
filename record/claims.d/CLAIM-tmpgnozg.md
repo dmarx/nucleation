@@ -37,9 +37,9 @@ summary: >-
   the lattice representation hypothesis if one interprets it as claiming
   that lattice composition is itself implemented by linear operations."
   The first half is demonstrated. The assistant checked the condition:
-  Xiong (LIT-267, read in THEORY-698) takes the meet as a half-space
+  Xiong ([LIT-267](../literature.d/LIT-267.md), read in [THEORY-698](../theory.d/THEORY-698.md)) takes the meet as a half-space
   intersection, a polyhedral cone and not one direction, and the join as a
-  union of cones "approximated by the conic hull", which THEORY-698
+  union of cones "approximated by the conic hull", which [THEORY-698](../theory.d/THEORY-698.md)
   already finds is not a lattice join as written. So the hypothesis as
   stated does not claim linear composition, and the observation is no
   objection to it; it does say why a single-direction join would fail.
@@ -58,7 +58,7 @@ functional dominates the other everywhere. On x = (1, 0), (0, 1), (1, 1)
 with w₁ = (1, −1), w₂ = (−1, 1) the maximum takes 1, 1, 0, where
 linearity would need 2 at (1, 1). The same holds for the minimum. So a
 family of linear tests is not a sublattice of the graded predicate
-lattice (CLAIM-tmpfza2h), and thresholding does not help: the meet of two
+lattice ([CLAIM-tmpfza2h](CLAIM-tmpfza2h.md)), and thresholding does not help: the meet of two
 half-space predicates is an intersection of half-spaces, generally not a
 half-space.
 
@@ -67,20 +67,20 @@ half-space.
 A29 made the objection conditional on reading the hypothesis as "lattice
 composition is itself implemented by linear operations". Xiong's paper
 does not claim that. Its geometric meet is half-space intersection and
-its join is a union of cones approximated by their conic hull (LIT-267;
-THEORY-698, which notes that the join so defined is not a lattice join).
+its join is a union of cones approximated by their conic hull ([LIT-267](../literature.d/LIT-267.md);
+[THEORY-698](../theory.d/THEORY-698.md), which notes that the join so defined is not a lattice join).
 Its soft algebra takes meets and joins as pointwise min and max of
-profiles (Eq. 6; NOTE-240), which are not linear either. The concepts
+profiles (Eq. 6; [NOTE-240](../notes.d/NOTE-240.md)), which are not linear either. The concepts
 have linear directions; their meets do not, and the paper does not say
 they do. So the observation is no objection to the paper as
-written. It is a reason, beside THEORY-698's, that no single-direction
+written. It is a reason, beside [THEORY-698](../theory.d/THEORY-698.md)'s, that no single-direction
 join can be a lattice join of half-space concepts.
 
 ## Bearing
 
 A29 drew the lesson for perspectives: "A lattice of perspectives may be
 induced by our tests without being a uniquely existing decomposition of
-the underlying organization" (§3), from THEORY-698's point that every
+the underlying organization" (§3), from [THEORY-698](../theory.d/THEORY-698.md)'s point that every
 incidence relation has a complete concept lattice. That part is held.
 
 ## Check

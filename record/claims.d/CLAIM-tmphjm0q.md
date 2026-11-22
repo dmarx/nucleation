@@ -28,7 +28,7 @@ rests_on:
 summary: >-
   A31 §6 and A33 §8 of the exchange "Explain First Contact RL" (ChatGPT,
   2026-11-22), against the "optimally" of the owner's thesis
-  CLAIM-tmpz67ew. A31 §6: "There is no objective-free optimum"; its own
+  [CLAIM-tmpz67ew](CLAIM-tmpz67ew.md). A31 §6: "There is no objective-free optimum"; its own
   candidate regime is "one possible specification, not a universally
   correct social welfare function." A33 §8: the profile Q(g) is
   "intentionally not a scalar objective"; "Some demands may be
@@ -55,7 +55,7 @@ justified conversion from, say, a reduction in ecological risk to a
 particular quantity of industrial profit or from increased competition
 to diminished worker protection." A33 also credits the record with a
 "preference for compatibility complexes and partial orders over
-prematurely imposed scalar objectives". That is CLAIM-347's first
+prematurely imposed scalar objectives". That is [CLAIM-347](CLAIM-347.md)'s first
 clause, that frustration "is an ordinal fact before it is a quantity".
 
 So the owner's "optimally" holds only relative to declared commitments.
@@ -64,7 +64,7 @@ no other dominates.
 
 ## Note of 2026-11-22: why the possibility dimension alone is already partial (the assistant's)
 
-CLAIM-347 says reorganizations that relieve different conflicts are
+[CLAIM-347](CLAIM-347.md) says reorganizations that relieve different conflicts are
 incomparable. Two regimes whose complexes each contain a face the other
 lacks are unordered under inclusion, so even before realization,
 resilience and cost are added, the regimes need not have a best element.

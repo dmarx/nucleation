@@ -121,7 +121,7 @@ its first promotion, a requirement nobody had stated ([CASE-299](../cases.d/CASE
 ## Note of 2026-11-22: regulation as a case, from the exchange "Explain First Contact RL"
 
 A33 §1 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
-maps public regulation onto the inquiry tuple of TERM-095. The language
+maps public regulation onto the inquiry tuple of [TERM-095](../terms.d/TERM-095.md). The language
 is legal categories, technical standards and accounting definitions. The
 answer space is the acceptable industrial arrangements. The interventions
 are rules, incentives, enforcement and infrastructure changes. The
@@ -132,7 +132,7 @@ enforcement budgets. It turns on this claim's distinguishing clause: "Its
 interventions partly create the industrial arrangements that will
 subsequently be evaluated." Regulation becomes reflexive "when experience
 leads to revision of the categories, standards, or demands being used",
-and specifying is itself bounded (CLAIM-475). On A's reading, regulation
+and specifying is itself bounded ([CLAIM-475](CLAIM-475.md)). On A's reading, regulation
 is engineering whose realizations are an ecosystem's arrangements rather
 than an artefact. This is a case of the claim, offered by A, and not
 evidence for it. No status change.

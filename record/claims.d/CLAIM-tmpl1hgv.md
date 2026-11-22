@@ -38,12 +38,12 @@ summary: >-
   perspective. That is precisely why it is such a useful pseudo-self."
   The team-level profile D_T(q, h) "need not be reconstructible from the
   independent response profiles of the collaborators". It bears on
-  QUESTION-276 (identifying overlapping perspectives from members'
-  activity) and QUESTION-118 (what persists through member replacement).
-  The interventions are LEAD-tmph7m7s. The wording is A's (ChatGPT, in
+  [QUESTION-276](../questions.d/QUESTION-276.md) (identifying overlapping perspectives from members'
+  activity) and [QUESTION-118](../questions.d/QUESTION-118.md) (what persists through member replacement).
+  The interventions are [LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md). The wording is A's (ChatGPT, in
   the exchange of 2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp7580l CLAIM-tmpm54la TERM-tmpxwa7g CLAIM-tmpqr0tn — Proposed; claims and the term filed from the same turns -->
+<!-- inactive-ok-file: CLAIM-tmp7580l CLAIM-tmpqr0tn — Proposed; claims and the term filed from the same turns -->
 
 # CLAIM-tmpl1hgv: What a team's separable members supply is separable sites of intervention, not separable units of perspective: they make a team an experimental model of self-like organization, since members can be questioned, given evidence, denied access, replaced or removed one at a time, while the team's own dispositions may depend on relations among them that no member's isolated profile records
 
@@ -60,7 +60,7 @@ experimental advantage: we can distinguish changes occurring within a
 collaborator from changes arising through collaboration."
 
 The partition into members is not a partition into perspectives
-(CLAIM-tmp7580l), and that is the point: "the team's boundaries are
+([CLAIM-tmp7580l](CLAIM-tmp7580l.md)), and that is the point: "the team's boundaries are
 accessible enough for us to intervene on its constituents, while its
 collective organization remains something to be explained."
 
@@ -71,7 +71,7 @@ not be reconstructible from the independent response profiles of the
 collaborators. Its behavior may depend on the relational organization that
 exists only when they interact." The record may be one mechanism by which
 that organization persists across interruptions and turnover
-(CLAIM-tmpqr0tn).
+([CLAIM-tmpqr0tn](CLAIM-tmpqr0tn.md)).
 
 ## How a team can answer dissent
 
@@ -105,5 +105,5 @@ profile no isolated profile predicts; given each member's response
 conditional on the other's messages, it is predicted. So the claim is that
 team-level dispositions are not fixed by isolated profiles, and the
 interventions that tell the difference are on the channels between
-members (LEAD-tmph7m7s). The wording of this paragraph is the assistant's
+members ([LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md)). The wording of this paragraph is the assistant's
 (Claude, in this session); adopting it is the owner's call.

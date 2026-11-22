@@ -32,7 +32,7 @@ summary: >-
   2026-11-22); the outcome coding and the channel arm are the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpl1hgv CLAIM-tmpqr0tn CLAIM-tmpm54la — Proposed; the claims this lead tests -->
+<!-- inactive-ok-file: CLAIM-tmpl1hgv CLAIM-tmpqr0tn — Proposed; the claims this lead tests -->
 
 # LEAD-tmph7m7s: Intervene on a record-keeping team's members and record one at a time, replacing a member while keeping the record, withdrawing the record while keeping the members, and giving one member justified dissent, to see whether team-level dispositions persist and how the team answers the dissent
 
@@ -44,11 +44,11 @@ collaborators' private judgements before interaction, then:
 
 | Intervention | What it tests |
 |---|---|
-| replace one collaborator while retaining the record | whether an organizational disposition persists beyond a particular participant (QUESTION-118) |
-| keep the collaborators but withdraw the record | whether the record is causally important to sustained coordination (CLAIM-tmpqr0tn) |
+| replace one collaborator while retaining the record | whether an organizational disposition persists beyond a particular participant ([QUESTION-118](../questions.d/QUESTION-118.md)) |
+| keep the collaborators but withdraw the record | whether the record is causally important to sustained coordination ([CLAIM-tmpqr0tn](../claims.d/CLAIM-tmpqr0tn.md)) |
 | introduce justified dissent in one collaborator | whether the organization can revise its distinctions without sacrificing coordination |
 
-Code the dissent arm's outcome by CLAIM-tmpl1hgv's four responses:
+Code the dissent arm's outcome by [CLAIM-tmpl1hgv](../claims.d/CLAIM-tmpl1hgv.md)'s four responses:
 fragmentation, conformity, centralized arbitration, adaptive integration.
 
 ## An arm added in filing
@@ -56,10 +56,10 @@ fragmentation, conformity, centralized arbitration, adaptive integration.
 Cut or narrow one channel between two members (deny one of them access to a
 part of the shared record, as A29 §8 suggested) and compare the team's
 response with the members' responses measured in isolation. That is where
-CLAIM-tmpl1hgv says team-level dispositions part from isolated profiles.
+[CLAIM-tmpl1hgv](../claims.d/CLAIM-tmpl1hgv.md) says team-level dispositions part from isolated profiles.
 (The assistant's; Claude, in this session.)
 
-## Its relation to LEAD-tmponn7c
+## Its relation to [LEAD-tmponn7c](LEAD-tmponn7c.md)
 
 That lead compares conditions across teams; this one intervenes within a
 team. The withdrawal arm is shared and can be run once.

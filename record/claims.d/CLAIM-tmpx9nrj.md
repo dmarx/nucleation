@@ -32,7 +32,7 @@ summary: >-
   realized outcomes without expanding the compatibility complex", and "a
   technology-enabling regulation may expand the compatibility complex
   without causing firms to adopt the newly available solutions."
-  CLAIM-357 holds the deterministic half, structural infeasibility
+  [CLAIM-357](CLAIM-357.md) holds the deterministic half, structural infeasibility
   against realized violation; this adds a distribution over histories
   induced by participants' responses. The wording is A's (ChatGPT, in
   the exchange of 2026-11-22); adopting it is the owner's call.
@@ -46,7 +46,7 @@ summary: >-
 Let μ_g be the distribution over industrial histories that regime g
 induces under a model of participants' behaviour and disturbances, and
 P_D(g) = μ_g(⋂_{j∈D} V_j). Then C(g; D), the compatibility complex
-(CLAIM-347), and P_D(g) measure different things.
+([CLAIM-347](CLAIM-347.md)), and P_D(g) measure different things.
 
 **Construction.** Two attainable histories, h₁ meeting every demand and
 h₂ meeting none. If participants choose h₂, D is a face of the complex
@@ -57,7 +57,7 @@ makes a new history h₃ attainable, meeting a set of demands that no
 earlier history met, enlarges the complex. If no participant adopts h₃,
 P_D is unchanged: possibility improved without realization.
 
-CLAIM-357 separates structural infeasibility from realized violation for
+[CLAIM-357](CLAIM-357.md) separates structural infeasibility from realized violation for
 one actual update. This separates the attainable set from a distribution
 over it, which is where strategic response enters (A31 §2: "It is not
 enough for a desirable outcome to be possible").
@@ -66,7 +66,7 @@ enough for a desirable outcome to be possible").
 
 A33 §8 joins the two to resilience R(g), accountability and revisability
 A(g), and cost into a profile, Q(g) = (C(g; D), P_D(g), R(g), A(g),
-−C(g)), "intentionally not a scalar objective". CLAIM-tmphjm0q holds the
+−C(g)), "intentionally not a scalar objective". [CLAIM-tmphjm0q](CLAIM-tmphjm0q.md) holds the
 objection that follows for "optimally".
 
 ## What it does not say

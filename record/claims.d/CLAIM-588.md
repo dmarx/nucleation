@@ -173,5 +173,5 @@ shutdown regime might instead make the hazardous system safer under
 disturbances." Its discipline: "Don't confuse making an undesirable
 arrangement more stable with changing the conditions that made it
 undesirable." The relief case needs the regulation to change the
-dynamics, which CLAIM-tmpk4bou derives. The illustration is A's. No status
+dynamics, which [CLAIM-tmpk4bou](CLAIM-tmpk4bou.md) derives. The illustration is A's. No status
 change.

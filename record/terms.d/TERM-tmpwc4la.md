@@ -23,11 +23,11 @@ summary: >-
   The owner's U5 asked after "Nucleation's account of addressing a
   perspective on a lattice by its dispositions (qua test functions)". The
   record holds the pieces and had no entry that puts them together for a
-  perspective: dispositions (TERM-118), a profile of response kernels under
-  declared interventions (TERM-067), observational equivalence under a
-  probe family (TERM-069), the observational relational profile at a budget
-  (TERM-116), and the result that the distinctions such profiles draw only
-  grow along nested probe families (CLAIM-574). A11 assembled them as
+  perspective: dispositions ([TERM-118](TERM-118.md)), a profile of response kernels under
+  declared interventions ([TERM-067](TERM-067.md)), observational equivalence under a
+  probe family ([TERM-069](TERM-069.md)), the observational relational profile at a budget
+  ([TERM-116](TERM-116.md)), and the result that the distinctions such profiles draw only
+  grow along nested probe families ([CLAIM-574](../claims.d/CLAIM-574.md)). A11 assembled them as
   D_p: q ↦ P(Y | p, do(q)) and said itself that "This isn't a claim that
   Nucleation has formally identified perspectives with these functions.
   It's an operational construction from its existing account." Filed as a
@@ -42,41 +42,41 @@ summary: >-
 
 ## Definition
 
-Fix a perspective p (in the organizational sense of TERM-072), an admissible
+Fix a perspective p (in the organizational sense of [TERM-072](TERM-072.md)), an admissible
 family Q of probes or interventions, and an observable response Y. The
 **dispositional address** of p under Q is the map
 
   D_p : q ↦ P(Y | p, do(q)),  q ∈ Q,
 
-taken up to observational equivalence under Q (TERM-069): p and p′ have the
+taken up to observational equivalence under Q ([TERM-069](TERM-069.md)): p and p′ have the
 same address under Q when D_p(q) = D_p′(q) for every q in Q. The subsets of
 the admissible probes, ordered by inclusion, index a family of such
 addresses, one per resolution; along a nested chain of families the
-addresses only split (CLAIM-574). This is the lattice in the owner's U5:
+addresses only split ([CLAIM-574](../claims.d/CLAIM-574.md)). This is the lattice in the owner's U5:
 a lattice of probe families, and through it an ordered family of
-observational partitions, not a lattice of perspectives (see CLAIM-tmp7qzux
+observational partitions, not a lattice of perspectives (see [CLAIM-tmp7qzux](../claims.d/CLAIM-tmp7qzux.md)
 for how far the two come apart).
 
 When probing changes what is probed, so that p_{t+1} = F(p_t, q_t, Y_t)
 (A11 §6, A13 §4), the address is of probe sequences, with their order kept,
 not of single probes: the joint law across a sequence can separate what
-each probe's marginal leaves equal (TERM-069's last clause, CLAIM-052).
+each probe's marginal leaves equal ([TERM-069](TERM-069.md)'s last clause, [CLAIM-052](../claims.d/CLAIM-052.md)).
 
 ## What it is not
 
 - **Not an identity criterion.** Equal addresses under every affordable
   family leave open whether p and p′ are one perspective: observational
   equivalence is coarser than identity unless the family is rich enough
-  (CLAIM-264). Telling apart is descriptive individuation only (TERM-088).
+  ([CLAIM-264](../claims.d/CLAIM-264.md)). Telling apart is descriptive individuation only ([TERM-088](TERM-088.md)).
 - **Not the perspective.** A response profile can separate two perspectives
-  without settling what organizes either (CLAIM-454, CLAIM-135; A11 §6:
+  without settling what organizes either ([CLAIM-454](../claims.d/CLAIM-454.md), [CLAIM-135](../claims.d/CLAIM-135.md); A11 §6:
   "identifying a perspective isn't constituting one"). A disposition read
-  from responses can be masked, mimicked or finked (TERM-118).
-- **Not TERM-067's profile.** That one is of a state, for interventions on
+  from responses can be masked, mimicked or finked ([TERM-118](TERM-118.md)).
+- **Not [TERM-067](TERM-067.md)'s profile.** That one is of a state, for interventions on
   the mechanisms that govern efficacy, and its point is sufficiency of a
   description; this one is of a perspective, for any declared family, and
   its point is location.
-- **Not TERM-116's observational profile** exactly. That one records what the
+- **Not [TERM-116](TERM-116.md)'s observational profile** exactly. That one records what the
   affordable tests tell a configuration from, with a minimum distinguishing
   budget; this one records the response laws themselves. The two agree on
   which pairs are told apart.

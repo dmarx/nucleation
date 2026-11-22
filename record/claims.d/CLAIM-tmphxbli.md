@@ -37,14 +37,14 @@ summary: >-
   "continuous predicates ==> test functions -> measures ==> continuous
   mess of selves", corrected at U14 when A25 read "measure" as a score: "I
   meant "measure" in the measure theoretic sense. a metric." The thesis
-  extends TERM-134, a predicate read as an indicator test, from yes-or-no
+  extends [TERM-134](../terms.d/TERM-134.md), a predicate read as an indicator test, from yes-or-no
   to graded tests, and U6's "self as a literal sloppy mess of connected
-  perspectives" to a continuum. A26 worked it out (CLAIM-tmpwb6dg) and
+  perspectives" to a continuum. A26 worked it out ([CLAIM-tmpwb6dg](CLAIM-tmpwb6dg.md)) and
   noted that a measure and a metric are different objects that the tests
   connect; the assistant's fill there says how. The owner's wording;
   stated as a thesis here, adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-134 CLAIM-tmpwb6dg CLAIM-tmprq9q5 CLAIM-tmp9pgdu — Proposed; the term this extends and the entries filed with it on 2026-11-22 -->
+<!-- inactive-ok-file: TERM-134 CLAIM-tmpwb6dg CLAIM-tmprq9q5 — Proposed; the term this extends and the entries filed with it on 2026-11-22 -->
 
 # CLAIM-tmphxbli: Continuous predicates are test functions, test functions determine measures, and so a self can be a continuous mess rather than a countable collection of perspectives
 
@@ -56,25 +56,25 @@ measure theoretic sense. a metric."
 
 Read in the record's terms:
 
-1. A predicate on an entry is an indicator test (TERM-134). A continuous
+1. A predicate on an entry is an indicator test ([TERM-134](../terms.d/TERM-134.md)). A continuous
    predicate is a graded test, a function into the reals.
 2. A family of such tests, with what an organization does under each, is
    its response profile; under conditions, the profile is a measure on the
-   space the tests are defined on (CLAIM-tmpwb6dg).
+   space the tests are defined on ([CLAIM-tmpwb6dg](CLAIM-tmpwb6dg.md)).
 3. Measures need not be atomic or mutually singular, so the perspectives
    of a self need not be a countable set of separated parts. They can
-   overlap by degrees (CLAIM-tmprq9q5): a "continuous mess of selves".
+   overlap by degrees ([CLAIM-tmprq9q5](CLAIM-tmprq9q5.md)): a "continuous mess of selves".
 
 ## What it does not say
 
 It does not say that every self is continuous, that a measure is a self,
 or that a measure over observed behaviour settles how a self is organized
-(two organizations can share one observational law; TERM-069).
+(two organizations can share one observational law; [TERM-069](../terms.d/TERM-069.md)).
 
 ## The word "metric"
 
 U14 calls the measure "a metric". A measure assigns mass to sets; a
 metric assigns distances to pairs. The tests supply both: a measure for
 each organization, and between measures a pseudometric, the largest
-disagreement of any test (CLAIM-tmpwb6dg). Which one the owner meant is
+disagreement of any test ([CLAIM-tmpwb6dg](CLAIM-tmpwb6dg.md)). Which one the owner meant is
 the owner's to say; A26 took both.

@@ -156,7 +156,7 @@ No status changes.
 <!-- inactive-ok-file: CASE-tmptzhse — Proposed; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
 
 A8 §3A of that exchange applies this claim to an adaptive scroll interface
-(CASE-tmptzhse, which illustrates it): a quick reverse swipe can mean
+([CASE-tmptzhse](../cases.d/CASE-tmptzhse.md), which illustrates it): a quick reverse swipe can mean
 overshoot, deliberate rereading or searching back, circumstances the
 interface cannot tell apart from the gesture and that call for different
 adjustments (more friction, or none). "The system cannot solve missing

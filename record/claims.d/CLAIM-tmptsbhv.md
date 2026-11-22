@@ -37,11 +37,11 @@ summary: >-
   richly differentiated in its underlying organization but appear
   low-dimensional under the tests available to us". The record holds the
   general result: a model's parameter complexity and behavioural complexity
-  come apart (CLAIM-820), and sloppiness, like coarse-graining, is defined
+  come apart ([CLAIM-820](CLAIM-820.md)), and sloppiness, like coarse-graining, is defined
   only relative to a chosen set of observables and a demanded precision
-  (CLAIM-861; TERM-140 for the term, with A13's own caveat that a messy
+  ([CLAIM-861](CLAIM-861.md); [TERM-140](../terms.d/TERM-140.md) for the term, with A13's own caveat that a messy
   network is not thereby sloppy). This entry applies it to the self, which
-  no entry did. It is the alternative to CLAIM-tmpy4mba; the owner chooses.
+  no entry did. It is the alternative to [CLAIM-tmpy4mba](CLAIM-tmpy4mba.md); the owner chooses.
   The owner's proposal, in the reading A13 gave it.
 ---
 <!-- inactive-ok-file: CLAIM-861 CLAIM-820 TERM-140 CLAIM-835 CLAIM-813 — Proposed; sloppiness relative to observables, parameter and behavioural complexity, the term, metric-relative smallness and sloppiness against singularity, cited 2026-11-22 -->
@@ -58,14 +58,14 @@ give an observable f_q(z) = E[Y | do(q), z]. For a probe family Q, with
 J_Q(z) = ∂F_Q/∂z and Gaussian observation noise of covariance Σ, the local
 Fisher information is G_Q(z) = J_Q(z)ᵀ Σ⁻¹ J_Q(z) (A13 §3). The self is
 sloppy, under Q, where that spectrum spreads over many decades with no gap
-(TERM-140). Then:
+([TERM-140](../terms.d/TERM-140.md)). Then:
 
 - a few combinations of the organization's degrees of freedom fix most of
   what the probes see, and most combinations change it little against noise;
 - directions in the kernel of J_Q are invisible to the probes at first
   order;
 - a different family has a different G_Q, so which differences are stiff
-  is relative to the probes (CLAIM-861).
+  is relative to the probes ([CLAIM-861](CLAIM-861.md)).
 
 So a self can have "many internal degrees of freedom while exhibiting
 comparatively few distinguishable patterns of agency" (A15 §3), and "a
@@ -76,9 +76,9 @@ internal multiplicity".
 
 - A model is sloppy only if its Fisher spectrum has the right spread of
   small but nonzero eigenvalues; "a messy network alone doesn't establish
-  that" (A13 §3; TERM-140, CLAIM-813 on sloppiness against singularity).
+  that" (A13 §3; [TERM-140](../terms.d/TERM-140.md), [CLAIM-813](CLAIM-813.md) on sloppiness against singularity).
 - A small Fisher eigenvalue is not an unimportant disposition: smallness
-  under one metric is not smallness under another (A15 §3; CLAIM-835).
+  under one metric is not smallness under another (A15 §3; [CLAIM-835](CLAIM-835.md)).
 - The measurable directions are observation-relative; the organization's
   structure is not thereby observer-created (A15 §3).
 
@@ -86,5 +86,5 @@ internal multiplicity".
 
 Whether any self-like organization the record can probe is sloppy is
 empirical: fit a model of coupled processes to responses under a declared
-probe family and read the spectrum. QUESTION-517 asks whether a system's
+probe family and read the spectrum. [QUESTION-517](../questions.d/QUESTION-517.md) asks whether a system's
 effective dimensions agree across such measures.

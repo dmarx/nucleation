@@ -22,7 +22,7 @@ summary: >-
   rewards "closer to Nucleation's valuational concordance account of
   flow". Filed because the support is contested: the analogy transfers
   the structure (two rewards at two delays that could cross) but not
-  CLAIM-162's own warrant, which ARG-016 already finds thin. Proposed,
+  [CLAIM-162](../claims.d/CLAIM-162.md)'s own warrant, which [ARG-016](ARG-016.md) already finds thin. Proposed,
   with each critical question answered in the body. The wording of the
   inference is A's (ChatGPT, in the exchange of 2026-11-22); the
   questions and answers are the assistant's (Claude, in this session);
@@ -34,30 +34,30 @@ summary: >-
 
 ## The inference
 
-CLAIM-162: in flow an activity's immediate reward and longer-run value
+[CLAIM-162](../claims.d/CLAIM-162.md): in flow an activity's immediate reward and longer-run value
 coincide, so no interest has to be overridden. A20 §4 of the exchange
 "Explain First Contact RL"
 (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3): in
 inquiry, the immediate reward of producing an idea and the longer-run value
 of a coherent argument can cross; a governed record that makes the
 structure consequential when the idea is filed narrows the crossing. So the
-record supports flow in collaborative inquiry (CLAIM-tmpywoih).
+record supports flow in collaborative inquiry ([CLAIM-tmpywoih](../claims.d/CLAIM-tmpywoih.md)).
 
 ## Critical questions
 
 - **Are the two cases alike in the respect that matters?** In part. Both
   have two valuations of one act at two delays that can rank it
-  differently. But CLAIM-162 is about one agent's interests; here the
+  differently. But [CLAIM-162](../claims.d/CLAIM-162.md) is about one agent's interests; here the
   longer-run value is the inquiry's, held partly by other collaborators. A
   record that aligns a contributor's reward with the inquiry's value aligns
   it with something the contributor may not value at all. The analogy holds
   only for a contributor who already values the inquiry's coherence.
 - **Does the property transfer?** The coincidence of rewards transfers as a
-  structure. CLAIM-162's claim that coincidence is what flow is does not
-  transfer with it; it is whatever warrant CLAIM-162 has, and ARG-016 finds
+  structure. [CLAIM-162](../claims.d/CLAIM-162.md)'s claim that coincidence is what flow is does not
+  transfer with it; it is whatever warrant [CLAIM-162](../claims.d/CLAIM-162.md) has, and [ARG-016](ARG-016.md) finds
   that the synchronization reading has no mechanism.
 - **Is there a relevant difference that defeats it?** One: the record's own
-  cost. Filing is an immediate cost the agent in CLAIM-162 does not pay. A
+  cost. Filing is an immediate cost the agent in [CLAIM-162](../claims.d/CLAIM-162.md) does not pay. A
   names it ("administration that interrupts it"), so the conclusion is
   conditional on that cost being small.
 - **Is there a counter-analogy?** Bureaucratic process, where forms make
@@ -68,5 +68,5 @@ record supports flow in collaborative inquiry (CLAIM-tmpywoih).
 ## Verdict
 
 Proposed: a conditional analogy whose premise is itself Proposed and
-objected to. It supports CLAIM-tmpywoih only as far as CLAIM-162 holds and
+objected to. It supports [CLAIM-tmpywoih](../claims.d/CLAIM-tmpywoih.md) only as far as [CLAIM-162](../claims.d/CLAIM-162.md) holds and
 the filing cost is small.

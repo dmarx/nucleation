@@ -31,7 +31,7 @@ summary: >-
   what is feasible", but "a regulation may restrict immediate choices
   while expanding the ecosystem's longer-term repertoire of jointly
   viable configurations"; A33 §8 calls this developmental regulation. It
-  is CLAIM-582 carried to the compatibility complex of CLAIM-347. The
+  is [CLAIM-582](CLAIM-582.md) carried to the compatibility complex of [CLAIM-347](CLAIM-347.md). The
   derivation is given below, and A31 §4's reform criterion, a strict
   enlargement of the complex for the same demands, follows from it. The
   idea is A's; the derivation and wording are the assistant's (Claude, in
@@ -46,13 +46,13 @@ summary: >-
 Let D be the declared public demands, each an acceptance set A_j of
 histories, and R(g) the histories attainable under regime g. The
 compatibility complex is C(g; D) = {J ⊆ D : R(g) ∩ ⋂_{j∈J} A_j ≠ ∅}
-(CLAIM-347; A33 §2 writes it so). Relief is a strict enlargement of the
-complex for the same demands (CLAIM-347), judged against a fixed
-reference set of them (CLAIM-361).
+([CLAIM-347](CLAIM-347.md); A33 §2 writes it so). Relief is a strict enlargement of the
+complex for the same demands ([CLAIM-347](CLAIM-347.md)), judged against a fixed
+reference set of them ([CLAIM-361](CLAIM-361.md)).
 
 **Derivation.** If g′ adds only hard constraints to g under a fixed
 dynamical model, every history admissible under g′ is admissible under
-g (CLAIM-582), so R(g′) ⊆ R(g). Then for each J, R(g′) ∩ ⋂_{j∈J} A_j ⊆
+g ([CLAIM-582](CLAIM-582.md)), so R(g′) ⊆ R(g). Then for each J, R(g′) ∩ ⋂_{j∈J} A_j ⊆
 R(g) ∩ ⋂_{j∈J} A_j, so every face of C(g′; D) is a face of C(g; D):
 C(g′; D) ⊆ C(g; D). No strict enlargement is possible, so no relief. A
 regime that relieves frustration among the original demands has
@@ -70,18 +70,18 @@ sets): no instance had C(g′) ⊄ C(g).
 
 - **Abandoning a demand is not relief.** If the regime improves only
   because a demand was dropped, the complex has been computed for a
-  different D (CLAIM-347, CLAIM-361). A31 §4: "if the only change is that
+  different D ([CLAIM-347](CLAIM-347.md), [CLAIM-361](CLAIM-361.md)). A31 §4: "if the only change is that
   the regulator abandoned an inconvenient demand, the new regime hasn't
   relieved frustration under the original specification."
 - **Incentives at fixed dynamics move realization, not possibility.** A
   tax or subsidy that changes which admissible history participants
   choose, without changing what is admissible, leaves C(g; D) where it
   was and changes how reliably a jointly acceptable history is realized
-  (CLAIM-tmpx9nrj).
+  ([CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md)).
 - **A hard constraint can still be worth having at fixed dynamics.** It
   can improve a property required of every admissible path, as
-  CLAIM-582 says, and it can redistribute an unavoidable mismatch
-  (CLAIM-588).
+  [CLAIM-582](CLAIM-582.md) says, and it can redistribute an unavoidable mismatch
+  ([CLAIM-588](CLAIM-588.md)).
 
 ## What it does not say
 
@@ -89,4 +89,4 @@ It does not say that a regulation which changes the dynamics thereby
 relieves anything. The new technology must actually enlarge R(g), and
 participants must adopt it, which is the separate question of
 realization. Nor does it say that relief is the only aim of regulation
-(CLAIM-588's three design targets).
+([CLAIM-588](CLAIM-588.md)'s three design targets).

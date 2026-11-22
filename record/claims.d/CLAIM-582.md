@@ -190,7 +190,7 @@ The reading of Raussen ([NOTE-1581](../notes.d/NOTE-1581.md)), filed beside the 
 A31 §4 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
 states this claim of regulation: adding a hard constraint "cannot expand
 what is feasible" when everything else is fixed, though real regulation
-often changes the dynamics. CLAIM-tmpk4bou rests on this claim and derives
+often changes the dynamics. [CLAIM-tmpk4bou](CLAIM-tmpk4bou.md) rests on this claim and derives
 the consequence for the compatibility complex of public demands. A pure
 hard constraint on fixed dynamics can only shrink the complex, so relief
 of the original demands needs a change of model. No status change.

@@ -27,13 +27,13 @@ summary: >-
   (ChatGPT, 2026-11-22): "regulations as constraints which operationalize
   a demand specification to optimally steer harmonious governance across
   an industrial ecosystem". It carries the record's account of demands
-  and their compatibility (CLAIM-347, CLAIM-554) from an organization to
+  and their compatibility ([CLAIM-347](CLAIM-347.md), [CLAIM-554](CLAIM-554.md)) from an organization to
   an industrial ecosystem governed from outside it. A31 and A33 worked it
   out; what they added is filed separately, in A's voice: the
   demand–regulation distinction and conduct against outcome constraints
-  (CLAIM-tmplgnjf), the fixed-dynamics limit on relief (CLAIM-tmpk4bou),
-  possibility against realization (CLAIM-tmpx9nrj) and the objection that
-  there is no scalar optimum (CLAIM-tmphjm0q). The section on readings of
+  ([CLAIM-tmplgnjf](CLAIM-tmplgnjf.md)), the fixed-dynamics limit on relief ([CLAIM-tmpk4bou](CLAIM-tmpk4bou.md)),
+  possibility against realization ([CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md)) and the objection that
+  there is no scalar optimum ([CLAIM-tmphjm0q](CLAIM-tmphjm0q.md)). The section on readings of
   "optimally" is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
@@ -50,20 +50,20 @@ industrial ecosystem".
 Read against the record, its terms are these.
 
 - **Demand specification.** A set of demands, each an acceptance set on
-  the histories the ecosystem can realize, as in CLAIM-347. A31 §2 writes
+  the histories the ecosystem can realize, as in [CLAIM-347](CLAIM-347.md). A31 §2 writes
   them as sets V_j of histories over a horizon H.
 - **Operationalize.** A demand states what must hold, and a regulation is
   the enforceable conduct constraint that is meant to bring it about.
-  CLAIM-tmplgnjf holds A's account of the gap between the two.
+  [CLAIM-tmplgnjf](CLAIM-tmplgnjf.md) holds A's account of the gap between the two.
 - **Steer.** A regulation acts on the ecosystem's dynamics and on its
-  participants' admissible actions. CLAIM-tmpk4bou says what a regulation
+  participants' admissible actions. [CLAIM-tmpk4bou](CLAIM-tmpk4bou.md) says what a regulation
   can and cannot do at fixed dynamics.
 - **Harmonious governance.** In the record's terms, a plurality whose
-  constituents' demands are jointly satisfiable (CLAIM-347, CLAIM-554),
-  with coexistence not taken for cooperation (CLAIM-546), and viability
-  not taken for legitimacy (CLAIM-075). The exchange's own definition of
+  constituents' demands are jointly satisfiable ([CLAIM-347](CLAIM-347.md), [CLAIM-554](CLAIM-554.md)),
+  with coexistence not taken for cooperation ([CLAIM-546](CLAIM-546.md)), and viability
+  not taken for legitimacy ([CLAIM-075](CLAIM-075.md)). The exchange's own definition of
   harmony (A24, viability, accommodation and correctability) is
-  TERM-tmppvlfi, filed from U12 in the same batch.
+  [TERM-tmppvlfi](../terms.d/TERM-tmppvlfi.md), filed from U12 in the same batch.
 - **Industrial ecosystem.** The record has no term for it. A31 and A33
   read it as a plurality of separately addressable firms, workers,
   communities and technologies, governed from outside by a regulator who
@@ -72,7 +72,7 @@ Read against the record, its terms are these.
 ## Readings of "optimally" (the assistant's)
 
 The thesis says "optimally", and the record's account of demands makes
-that word need a gloss. Under CLAIM-347, reorganizations that relieve
+that word need a gloss. Under [CLAIM-347](CLAIM-347.md), reorganizations that relieve
 different conflicts are incomparable, so regimes ordered by their
 compatibility complexes form only a partial order, and an optimum need
 not exist where maximal regimes do. There are two readings.
@@ -86,16 +86,16 @@ not exist where maximal regimes do. There are two readings.
 
 The first presupposes a commitment that the specification has to state.
 The second is weaker and may not single out a regime. The objection
-CLAIM-tmphjm0q argues for the second.
+[CLAIM-tmphjm0q](CLAIM-tmphjm0q.md) argues for the second.
 
 ## What it does not say
 
 It does not say who sets the demand specification, or what makes it
 legitimate. A33 §7 calls that the hardest problem. The record's pieces
-of an answer are CLAIM-075 (viability does not establish what ought to
-persist), THEORY-859 (capture through the evaluative framework),
-CLAIM-403 (admission, recognition, credibility, uptake and revision of
-standards come apart) and CLAIM-342 (only evidence that does not pass
+of an answer are [CLAIM-075](CLAIM-075.md) (viability does not establish what ought to
+persist), [THEORY-859](../theory.d/THEORY-859.md) (capture through the evaluative framework),
+[CLAIM-403](CLAIM-403.md) (admission, recognition, credibility, uptake and revision of
+standards come apart) and [CLAIM-342](CLAIM-342.md) (only evidence that does not pass
 through the interpretation it tests keeps a loop from confirming
 itself). It does not say that a regulation's success is compliance with
-it (CLAIM-tmplgnjf).
+it ([CLAIM-tmplgnjf](CLAIM-tmplgnjf.md)).

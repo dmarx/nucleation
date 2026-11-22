@@ -170,10 +170,10 @@ cut. derivation_check.txt holds one run.
 A parallel, and a fair report. A29 of the exchange (ChatGPT, after the
 owner's U15) stated this claim correctly, full-rank embeddings reading
 every attribute exactly under implication and truncation merging deeper
-siblings, and reported CASE-344 correctly as not showing the predicted
+siblings, and reported [CASE-344](../cases.d/CASE-344.md) correctly as not showing the predicted
 loss by WordNet depth. It read the truncation as "an elegant model of
 resource-relative perspectival individuation": rank is a budget on the
 readout family, and raising it refines the partition of words into
-indistinguishable groups, as CLAIM-574's nested probe families do. The
-mapping is A's, filed in CLAIM-tmp6ksyy (Proposed); this note writes no
+indistinguishable groups, as [CLAIM-574](CLAIM-574.md)'s nested probe families do. The
+mapping is A's, filed in [CLAIM-tmp6ksyy](CLAIM-tmp6ksyy.md) (Proposed); this note writes no
 relation, since CLAIM-902 is an illustration there, not a premise.

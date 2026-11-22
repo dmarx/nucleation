@@ -34,7 +34,7 @@ rests_on:
 summary: >-
   A26 §6 of the exchange "Explain First Contact RL" (2026-11-22), A's
   revision of its self conjecture after the owner's U13–U14
-  (CLAIM-tmphxbli): "A self may be better modeled as a historically
+  ([CLAIM-tmphxbli](CLAIM-tmphxbli.md)): "A self may be better modeled as a historically
   evolving, measure-valued organization of dispositions than as a discrete
   collection of constituent perspectives. Perspectives arise as partially
   overlapping, intervention-dependent structures within this
@@ -60,11 +60,11 @@ summary: >-
 A26 §6, quoted in the summary. Its three parts rest on:
 
 - the owner's chain from continuous predicates to measures
-  (CLAIM-tmphxbli);
+  ([CLAIM-tmphxbli](CLAIM-tmphxbli.md));
 - the construction of measures and of the test family's pseudometric,
-  which makes separability relative to the tests (CLAIM-tmpwb6dg);
+  which makes separability relative to the tests ([CLAIM-tmpwb6dg](CLAIM-tmpwb6dg.md));
 - graded perspectives whose overlap is zero only at mutual singularity
-  (CLAIM-tmprq9q5), so that a self need not be a partition, and the
+  ([CLAIM-tmprq9q5](CLAIM-tmprq9q5.md)), so that a self need not be a partition, and the
   measure may be nonatomic, with "no privileged discrete components at
   all" (A26 §4).
 
@@ -78,7 +78,7 @@ historical form is what "historically evolving" carries.
 A26's own limit: a measure over observable histories, however complete,
 does not establish organizational unity or a subject; "causal and
 governance interventions are still needed to distinguish alternative
-organizations that produce the same observational law" (TERM-069, "Not
+organizations that produce the same observational law" ([TERM-069](../terms.d/TERM-069.md), "Not
 interventional equivalence"). The unity clause, maintained causal
 relations, is asserted here and argued elsewhere in the exchange (A15).
 
@@ -89,10 +89,10 @@ concentration or coarse-graining of an underlying continuous distribution
 of perspectival organization, rather than a fundamentally discrete
 entity?"
 
-## Admission (ADR-075; the assistant's audit, 2026-11-22)
+## Admission ([ADR-075](../decisions.d/ADR-075.md); the assistant's audit, 2026-11-22)
 
-*A separating case.* Its premises (CLAIM-tmphxbli, CLAIM-tmpwb6dg,
-CLAIM-tmprq9q5) are constructions that hold of any measure. Take an
+*A separating case.* Its premises ([CLAIM-tmphxbli](CLAIM-tmphxbli.md), [CLAIM-tmpwb6dg](CLAIM-tmpwb6dg.md),
+[CLAIM-tmprq9q5](CLAIM-tmprq9q5.md)) are constructions that hold of any measure. Take an
 organization whose measure over dispositions is atomic, with its
 perspectives' submeasures mutually singular and stable under every
 affordable probe. Every premise holds, and the claim's comparative

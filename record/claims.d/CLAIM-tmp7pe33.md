@@ -41,16 +41,16 @@ uses:
 - TERM-069
 summary: >-
   A13 §6's conjecture, stated after the owner's U6 asked to "consider a
-  'self' as a literal sloppy mess of connected perspectives" (CLAIM-tmpy4mba,
-  CLAIM-tmptsbhv). It joins two things the record holds: a self as a
-  historically continuous organization of processes (CLAIM-284, with
-  CLAIM-417's perspectives for the self's senses), and the
-  regime-relativity of distinctions drawn by probe families (CLAIM-574:
+  'self' as a literal sloppy mess of connected perspectives" ([CLAIM-tmpy4mba](CLAIM-tmpy4mba.md),
+  [CLAIM-tmptsbhv](CLAIM-tmptsbhv.md)). It joins two things the record holds: a self as a
+  historically continuous organization of processes ([CLAIM-284](CLAIM-284.md), with
+  [CLAIM-417](CLAIM-417.md)'s perspectives for the self's senses), and the
+  regime-relativity of distinctions drawn by probe families ([CLAIM-574](CLAIM-574.md):
   "an equivalence a richer regime breaks was relative to its regime, not
   false"). What it adds is the application of the second to the parts of
   the first: which perspectives a self has is itself an observational
-  partition. Its third sentence overstates what CLAIM-574 allows
-  (CLAIM-tmp0dyx8), and A15 revised the whole (CLAIM-tmptxsin). The wording
+  partition. Its third sentence overstates what [CLAIM-574](CLAIM-574.md) allows
+  ([CLAIM-tmp0dyx8](CLAIM-tmp0dyx8.md)), and A15 revised the whole ([CLAIM-tmptxsin](CLAIM-tmptxsin.md)). The wording
   is A's (ChatGPT, in the exchange of 2026-11-22); adopting it is the
   owner's call.
 ---
@@ -71,36 +71,36 @@ unreal or false."
 
 A13 qualifies it at once: "this gives us a candidate *operational account*
 of the self, not yet a sufficient criterion for which coupled organizations
-count as selves." And it names a tension with CLAIM-622: perspectives can
+count as selves." And it names a tension with [CLAIM-622](CLAIM-622.md): perspectives can
 draw incomparable distinctions, each adequate to its own policy, so "we
 shouldn't presume that ever-finer separation is always an improvement."
 
 ## Where it comes from in the exchange
 
 - A11 §2: "The address of a perspective is thus relative to the tests we can
-  afford to perform" (TERM-tmpwc4la, CLAIM-574, TERM-116).
+  afford to perform" ([TERM-tmpwc4la](../terms.d/TERM-tmpwc4la.md), [CLAIM-574](CLAIM-574.md), [TERM-116](../terms.d/TERM-116.md)).
 - The owner's U6: "therefore, so is our ability to form distinctions
   relevant to distinguishing (perhaps 'separating' is Nucleation's sense?)
-  perspectives." It is: TERM-138's separation of classes.
+  perspectives." It is: [TERM-138](../terms.d/TERM-138.md)'s separation of classes.
 - A13 §§2–4: the self as (P, C, G), candidate perspectival organizations,
   coupling and governance, with no privileged decomposition; the Fisher
   geometry of a probe family, under which "a self can be richly
   differentiated in its underlying organization but appear low-dimensional
-  under the tests available to us" (held as CLAIM-820 and CLAIM-861 for
+  under the tests available to us" (held as [CLAIM-820](CLAIM-820.md) and [CLAIM-861](CLAIM-861.md) for
   models in general); and the distinction between separating, individuating
-  and constituting perspectives (TERM-088's descriptive, dynamical and
+  and constituting perspectives ([TERM-088](../terms.d/TERM-088.md)'s descriptive, dynamical and
   constitutive individuation).
 
 ## Standing
 
-Its first sentence is CLAIM-284 and CLAIM-417 restated in dispositional
-terms. Its second is CLAIM-574 and TERM-116 applied to the parts of a self,
+Its first sentence is [CLAIM-284](CLAIM-284.md) and [CLAIM-417](CLAIM-417.md) restated in dispositional
+terms. Its second is [CLAIM-574](CLAIM-574.md) and [TERM-116](../terms.d/TERM-116.md) applied to the parts of a self,
 which no entry did. Its third is true for nested enrichments of the probe
-family and needs the qualification CLAIM-tmp0dyx8 gives otherwise.
+family and needs the qualification [CLAIM-tmp0dyx8](CLAIM-tmp0dyx8.md) gives otherwise.
 
-## Admission (ADR-075; the assistant's audit, 2026-11-22)
+## Admission ([ADR-075](../decisions.d/ADR-075.md); the assistant's audit, 2026-11-22)
 
-*A separating case.* Its premises are CLAIM-284 and CLAIM-574. Take a
+*A separating case.* Its premises are [CLAIM-284](CLAIM-284.md) and [CLAIM-574](CLAIM-574.md). Take a
 self realized as hard-wired modules, each maintained by its own
 mechanism and each with its own channel to action. Both premises hold of
 it: it is an organization of coupled dispositions, and nested probe
@@ -109,4 +109,4 @@ perspectives is not regime-relative, since every affordable regime
 either recovers the modules or is wrong about them. So the claim says
 something its premises do not: that selves are not of that kind. This is
 its own `defeated_if`. Its clause that distinctions "may disappear" is
-corrected by CLAIM-tmp0dyx8.
+corrected by [CLAIM-tmp0dyx8](CLAIM-tmp0dyx8.md).

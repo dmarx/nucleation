@@ -11,11 +11,11 @@ line:
 - distributed-agency
 summary: >-
   A33 §4 and §9 of the exchange "Explain First Contact RL" (ChatGPT,
-  2026-11-22), after the owner's thesis on regulation (CLAIM-tmpz67ew).
-  It is the industrial counterpart of QUESTION-371, which asks it of
+  2026-11-22), after the owner's thesis on regulation ([CLAIM-tmpz67ew](../claims.d/CLAIM-tmpz67ew.md)).
+  It is the industrial counterpart of [QUESTION-371](QUESTION-371.md), which asks it of
   moral norms among cooperating groups, and uses the same distinction of
-  Chesson's (LIT-1219, unread) between equalizing and stabilizing
-  mechanisms. Two cautions come from A33: QUESTION-132 separates
+  Chesson's ([LIT-1219](../literature.d/LIT-1219.md), unread) between equalizing and stabilizing
+  mechanisms. Two cautions come from A33: [QUESTION-132](QUESTION-132.md) separates
   self-sustaining recovery from diversity held in place from outside, and
   "preserving the viability of useful capabilities is not the same as
   protecting every existing business." The wording is A's (ChatGPT, in
@@ -32,7 +32,7 @@ to the infrastructure, which "might change the underlying competitive
 dynamics rather than compensating for their consequences". The second
 resembles a stabilizing mechanism: each type limits itself more than it
 limits others, so a type reduced to rarity can increase again
-(QUESTION-371). A33 §4's diagnostic is "whether a specialized producer can
+([QUESTION-371](QUESTION-371.md)). A33 §4's diagnostic is "whether a specialized producer can
 regain viable participation when demand for its capability returns", and
 its target is "recoverability of capabilities, rather than persistence of
 particular firms."
@@ -48,14 +48,14 @@ Three things are not settled.
   that hold it.
 - **Stabilizing or held in place.** Stabilization by changed dynamics has
   to be told apart from diversity kept by continuing external support.
-  QUESTION-132 asks the same of adaptive operators.
+  [QUESTION-132](QUESTION-132.md) asks the same of adaptive operators.
 - **Stable is not good.** Stable coexistence can keep an exploitative
-  relation (CLAIM-546), so recovery when rare is not by itself harmony.
+  relation ([CLAIM-546](../claims.d/CLAIM-546.md)), so recovery when rare is not by itself harmony.
 
 ## What would count as an answer
 
 A model of heterogeneous producers with an infrastructure bottleneck, or
 a study of real regulatory regimes. It would show, for a declared
 capability, that regulation of access gives it positive growth when rare
-and that equal subsidies do not, or the reverse. The lead LEAD-tmpy0jkr
+and that equal subsidies do not, or the reverse. The lead [LEAD-tmpy0jkr](../leads.d/LEAD-tmpy0jkr.md)
 states such a model.
