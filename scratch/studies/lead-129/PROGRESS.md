@@ -38,9 +38,16 @@ not a powered test. State selection rule and matching explicitly.
   CLAIM-342, docs/record.md CASE contract, example executed-study CASE.
 - (step 1) Confirmed target not already held (searched record/cases.d, claims.d).
 
-## Next
+- (step 2) Verified load-bearing facts against public pages (WHATWG FAQ, 2019
+  W3C-WHATWG MOU, Unicode stability + reporting, Gregorian reform). No obstacle.
+- (step 3) Built pairs.json, summarize.py (python3 -I), test_summarize.py (4
+  pass), README.md. All three matched gaps positive; extreme = 857 yr.
+- (step 4) Filed CASE-tmp3pe1j (executed-study, documented, Proposed):
+  illustrates CLAIM-685, bears_on QUESTION-128. Owner's call on the illustrates
+  link surfaced in the case and the lead note.
+- (step 5) Dated note on LEAD-129 (status/stage untouched); changelog fragment
+  record/changelog.d/lead-129.md.
 
-- Select matched institution pairs from public documents.
-- Record the comparison (scratch/studies/lead-129/).
-- File CASE (executed-study). File alternatives where the choice is the owner's.
-- Changelog fragment. Dated note on the lead.
+## Done — complete
+
+Everything pushed. No PR opened (lead opens it). Nothing left blocked.
