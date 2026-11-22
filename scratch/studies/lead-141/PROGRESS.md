@@ -59,10 +59,13 @@ ARG-051, CLAIM-027 as warranted.
 - THEORY rivals between the 2015/2018 effect and Boayue's null; whether
   Boayue `corrects` Axelrod 2015 is left to the owner.
 
+- Step 6: NOTEs, THEORYs, ARG-tmpqszyu (Rejected), dated notes on LEAD-141,
+  ARG-051, CLAIM-027, THEORY-1300, THEORY-1296, QUESTION-367; curation
+  entry 2026/11/22/170512.md; changelog fragment lead-141.md. All files
+  checked (YAML, no code in title, H1 matches, quotes against sources,
+  inactive-ok excuses).
+
 ## Next
 
-- Write NOTEs, THEORYs, ARG; dated notes on LEAD-141, ARG-051, CLAIM-027,
-  THEORY-1300, THEORY-1296, QUESTION-367; curation; changelog.
-
-- Register LIT for Axelrod 2015, file NOTE and THEORY.
-- Search for H1/H3 tests.
+- Nothing; report to the lead. Owner's choices listed in the curation
+  entry.
