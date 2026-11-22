@@ -142,3 +142,8 @@ action is one more way a loop selects its own evidence.
 Its concession is in this counter's text as filed on 2026-10-16: the
 section "Conceded" narrows it from a self-confirming minimum without action
 to the loss of one route for unselected evidence.
+
+## Note of 2026-11-22: anchors without action, in a simulation
+<!-- inactive-ok-block: CASE-tmp943kt CLAIM-tmp95c61 — new; filed for LEAD-020 -->
+
+[CASE-tmp943kt](../cases.d/CASE-tmp943kt.md) ([LEAD-020](../leads.d/LEAD-020.md)) builds a judgement–observation loop with no action, which locks in when nothing anchors it. Commitment before evidence, processing signals or exogenous capture anchors it, with no action at all ([CLAIM-tmp95c61](CLAIM-tmp95c61.md)). This counts against the anchor needing action only so far as a mind has such mechanisms, which the model stipulates. It is silent on the contingency between intention and outcome that this claim's empirical form concerns. No status changes.

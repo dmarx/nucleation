@@ -346,3 +346,8 @@ Auditing only the proposals heeded starved the unheeded until a 10% floor
 on auditing, evidence whose arrival does not depend on the allocation,
 restored them. An illustration in one model class. The claim is
 unchanged.
+
+## Note of 2026-11-22: simulated with action held fixed
+<!-- inactive-ok-block: CASE-tmp943kt CLAIM-tmp95c61 TERM-tmp4iqiv — new; filed for LEAD-020 -->
+
+[CASE-tmp943kt](../cases.d/CASE-tmp943kt.md) ([LEAD-020](../leads.d/LEAD-020.md)) simulates this claim's thesis in one mind with action held fixed. The loop stays out of lock-in when something scores or weights it that its authority does not set: commitment before evidence, processing signals or exogenous capture. Evidence that arrives unselected but is attended through the loop's authority keeps it sighted without anchoring it. So of "arrival or scoring", in that model only scoring anchors, plus arrival that carries its own weight past attention, as capture does. This claim's caveat about pooling appeared too. Capture of the sensory channel failed (lock-in 0.77) when an attended body channel outweighed it. In [TERM-tmp4iqiv](../terms.d/TERM-tmp4iqiv.md)'s terms, these anchors are not independent of the loop's state in either sense: the committed score reads the evidence as attended, and capture compares the input with the interpretation. What they share is that the loop's authority does not set their weight. [CLAIM-tmp95c61](CLAIM-tmp95c61.md) states the finding. No status changes.
