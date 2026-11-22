@@ -28,12 +28,12 @@ summary: >-
   Offered by the Liquid Types reader and filed under the dialectic regime,
   2026-11-22. Rondon, Kawaguchi and Jhala trace a failed check to "an
   inappropriate choice of qualifiers or the conservativeness of our
-  notion of subtyping" as well as to the program (THEORY-tmp01mu6;
-  CLAIM-tmpcmt21 for their system). This carries that three-way ambiguity
+  notion of subtyping" as well as to the program ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md);
+  [CLAIM-tmpcmt21](CLAIM-tmpcmt21.md) for their system). This carries that three-way ambiguity
   to the record's own checks. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp01mu6 CLAIM-tmpcmt21 CLAIM-tmpmp7w2 TERM-tmp3mop8 TERM-tmp8b1yl — Proposed; the reading and entries this is stated against -->
+<!-- inactive-ok-file: THEORY-tmp01mu6 CLAIM-tmpcmt21 CLAIM-tmpmp7w2 — Proposed; the reading and entries this is stated against -->
 
 # CLAIM-tmpym9ng: The record's own checks, lint, docs-check and review, are conservative: each passes only what it can show passes, so a failed check does not by itself say the entry is at fault; the fault may lie in the entry, in the vocabulary the check can express, or in the check, and telling them apart is a separate step
 
@@ -56,10 +56,10 @@ record's checks have the same shape:
 
 So a failed check is evidence about three things, not one, and the move
 that makes it pass is outside the check, as in all three systems read
-for LEAD-tmp3xevc: fix the entry, extend the vocabulary by decision, or
+for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md): fix the entry, extend the vocabulary by decision, or
 repair the check.
 
 ## Bearing
 
-CLAIM-tmpmp7w2 says a closed vocabulary is what lets a check infer; this
+[CLAIM-tmpmp7w2](CLAIM-tmpmp7w2.md) says a closed vocabulary is what lets a check infer; this
 says the same closure is a source of failures that are not the entry's.

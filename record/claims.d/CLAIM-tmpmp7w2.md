@@ -76,8 +76,8 @@ in which it needs annotations over its own qualifiers goes against this.
 
 The discriminating prediction is met. Liquid types infer refinements over
 the finite qualifier set Q with no annotation, the restriction to Q being
-what makes inference "efficiently decidable" (THEORY-tmp01mu6). The
+what makes inference "efficiently decidable" ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md)). The
 failures the paper reports trace to the qualifiers chosen or to the
 conservative check, not to a need for annotation over Q. One system
 agrees; the claim stays Proposed. The note names the reading as evidence,
-so THEORY-tmp01mu6 gains a `corroborates` edge to this claim (ADR-093).
+so [THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md) gains a `corroborates` edge to this claim ([ADR-093](../decisions.d/ADR-093.md)).

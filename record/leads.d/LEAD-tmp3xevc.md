@@ -55,7 +55,7 @@ Register and read, under the read-and-file skill:
   untested ([CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)). Added the same day for the same reason.
 - Proposed, not started (the owner's call): Flanagan (2006), Hybrid Type
   Checking, which inserts run-time checks where static checking cannot
-  decide. It is the nearest case of the elaboration CLAIM-tmpnookt names, which
+  decide. It is the nearest case of the elaboration [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) names, which
   none of the three refinement systems read shows. Suggested by the Liquid
   Types reader.
 
