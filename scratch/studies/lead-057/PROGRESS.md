@@ -11,6 +11,6 @@ Model chosen: four-unit linear Gaussian VAR(1), two intrinsic pairs {0,1},{2,3};
 - CLAIM-tmpy1gmq (Proposed thesis, interpretive): the dilemma for the apparatus-dependent account.
 
 ## Next
-- Dated notes on QUESTION-284 and LEAD-057.
-- Changelog fragment record/changelog.d/lead-057.md.
+- (done) Dated notes on QUESTION-284 and LEAD-057; operationalized_in on LEAD-057.
+- (done) Changelog fragment record/changelog.d/lead-057.md.
 - Report.

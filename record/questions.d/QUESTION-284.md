@@ -20,6 +20,7 @@ summary: >-
   answer says, for a stated kind, what evidence would tell constitution
   from characterization and from ordinary causal modification.
 ---
+<!-- inactive-ok-file: CASE-tmp06fbt CLAIM-tmpy1gmq — new; the study and claim filed for LEAD-057 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-157 — Proposed or Open; the partial answers and neighbouring questions, cited as open -->
 
@@ -170,3 +171,7 @@ The answers on the record address three different relations, all called constitu
 - **Dependence on an arrangement or apparatus:** this question's second half, "detected, maintained, constituted", and [CLAIM-476](../claims.d/CLAIM-476.md).
 
 The question already flags the gap between the second and its own relation: "The form of the evidential problem carries over; that it is the same problem has not been shown." The third synthesis review found no integration of the answers because the sense of "constitute" absorbs every case. An answer should say which of the three it is about.
+
+## Note of 2026-11-22: the three partitions on one model
+
+LEAD-057 ran A5's test on one model (CASE-tmp06fbt): four linear units in two pairs, with a beam-like apparatus that cross-pairs them, each partition scored by whether its blocks can be forecast from their own past. The fixed and the recovered partitions make different counterfactual predictions whenever an intervention moves the coupling, and measurement decides between them. The apparatus-dependent partition differs from the recovered one only if it tracks the apparatus rather than the dynamics the apparatus produces, and then it predicts worse wherever the apparatus is in place without dominating the coupling; tracking the dynamics, it predicts exactly what causal modification and discovery predict, and with the apparatus given states of its own the recovered partition puts it inside the unit. CLAIM-tmpy1gmq reads this as the outcome this question foresaw for the third of the three relations of the note of 2026-11-07: no evidence tells constitution by an apparatus from causal modification. It says nothing of the other two relations. The question is unchanged and stays Open.
