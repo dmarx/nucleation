@@ -31,6 +31,25 @@ Blackwell order). The lead stands.
 - Locate lawful open treatment of value of information (prefer survey).
 - Register LIT (Deferred), seek copy, read, file NOTE/THEORY, dated notes.
 
+## Works located (both open on arXiv, lawful)
+
+- Dual control: Meijer & Rantzer, "Dual Control: On Exploration-Exploitation
+  in Linear Systems", arXiv 2608.20073v1, to appear Annual Review of Control,
+  Robotics, and Autonomous Systems 2027. A review of four directions
+  (bandits, self-tuning regulators, regret-minimizing, minimax dual). Downloaded
+  to scratchpad/lead-145/dualcontrol/.
+- Value of information: Whitmeyer, "Call the Dentist! A (Con-)Cavity in the
+  Value of Information", arXiv 2404.01190. Directly on concavity/nonconcavity
+  of VoI, engaging Radner-Stiglitz; maps onto CLAIM-572 point 4. Downloaded to
+  scratchpad/lead-145/voi/.
+
 ## Choices made
 
-- (pending) which specific works to register as the "standard treatment".
+- Dual control treatment = Meijer & Rantzer review (openly posted, review,
+  Feldbaum exploration-exploitation sense). Clear best fit.
+- VoI treatment = Whitmeyer "Call the Dentist!" (open arXiv, (non)concavity of
+  VoI = the exact mechanism CLAIM-572 point 4 is "of that family" of). Alternatives
+  the owner could prefer, noted for the report: Cowles d1498 "The Demand for
+  Information: More Heat Than Light" (open, derives the nonconcavity); Chade &
+  Schlee 2002 JET working paper (open at UdeSA repo). Whitmeyer chosen as the
+  cleanest open review-style treatment squarely on concavity.
