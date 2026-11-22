@@ -218,8 +218,10 @@ other operators' normalized parameter vectors.
 | rep, K = 6 | 0.000 | 6 × 10⁻⁵, neutral |
 | moe, K = 6 | 0.18 | negative |
 
-Under rep at K = 6 the spare had already co-learned the rare job before the
-test. Under moe at K = 6 the spare learned it during the window, faster
+So recovery tracks the specialist's own residual direction. That is the
+quantity CLAIM-tmp6kclm's Theorem B puts in its lower bound, n_i d_i², for
+fixed features. Under rep at K = 6 the spare had already co-learned the
+rare job before the test. Under moe at K = 6 the spare learned it during the window, faster
 than the specialist's share-limited recovery.
 
 ## What it can show

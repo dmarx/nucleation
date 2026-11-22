@@ -53,7 +53,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpnti0m — new, filed with this claim -->
-<!-- inactive-ok-file: CLAIM-tmpf11gs CLAIM-tmpdsv4t — Proposed, filed 2026-11-22 by LEAD-065 and LEAD-049, cited for comparison; nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-tmpf11gs — Proposed, filed 2026-11-22 by LEAD-065, cited for comparison; nothing here rests on it -->
 
 # CLAIM-tmp1jz5w: In a population of adaptive operators whose training follows influence, whether a rare-context specialist that loses its influence regains it is decided by whether spare capacity can take its niche in the meantime, not by whether it keeps its competence: with spare operators its niche is refilled and it stays shut out even with its competence intact, and without them nothing refills its niche and it returns even with its competence mostly lost
 
