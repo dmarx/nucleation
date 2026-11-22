@@ -29,18 +29,18 @@ complements:
 summary: >-
   Filed under the dialectic regime on 2026-11-22, answering the owner's
   "tell me about our current account of specification". The join is
-  between Krifka's performative updates (LIT-835, read in THEORY-162) and
-  the record's predicates as constraints (CLAIM-783, TERM-134). The
+  between Krifka's performative updates ([LIT-835](../literature.d/LIT-835.md), read in [THEORY-162](../theory.d/THEORY-162.md)) and
+  the record's predicates as constraints ([CLAIM-783](CLAIM-783.md), [TERM-134](../terms.d/TERM-134.md)). The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-783 TERM-134 THEORY-162 CLAIM-tmp5rv9x — Proposed; the claims, term and reading this joins, and the claim filed with it -->
+<!-- inactive-ok-file: CLAIM-783 TERM-134 THEORY-162 — Proposed; the claims, term and reading this joins, and the claim filed with it -->
 
 # CLAIM-tmpmk056: A descriptor and an imposition are an informative and a performative update: adding a predicate an entry already passes restricts the admissible versions to those where it holds, which is informative update, and enforcing one it fails moves each version to a nearest version where it holds, which is performative update when minimal change is read as nearness in a metric; so the record's two kinds of predicate are the two directions of fit
 
 ## The claim
 
-Krifka (LIT-835) formalizes the difference between describing and bringing
+Krifka ([LIT-835](../literature.d/LIT-835.md)) formalizes the difference between describing and bringing
 about. Over a context set c of indices:
 
 - **informative update** restricts c to the indices where φ holds,
@@ -50,7 +50,7 @@ about. Over a context set c of indices:
   throughout c.
 
 The record's reading notes that this is Searle's direction of fit made
-formal. CLAIM-783 (part 5) and TERM-134 sort an entry's predicates the same
+formal. [CLAIM-783](CLAIM-783.md) (part 5) and [TERM-134](../terms.d/TERM-134.md) sort an entry's predicates the same
 way, by whether the entry passes a predicate when it is added:
 
 - a **descriptor**, one the entry passes, restricts the admissible versions
@@ -69,7 +69,7 @@ imposition fits the entry to the predicate (world to word).
 
 - Not that every similarity ordering is a metric. Where minimal change is
   only a preorder, performative update is a selection of minimal elements,
-  and CLAIM-783's convex projection results (fixed points, the soft limit)
+  and [CLAIM-783](CLAIM-783.md)'s convex projection results (fixed points, the soft limit)
   need not carry over; the identification of the two kinds does.
 - Not that a filer always knows which kind a predicate is. That is decided
   by the entry as it stands when the predicate is added.
