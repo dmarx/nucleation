@@ -34,6 +34,8 @@ summary: >-
   authors present the result as a property of the world's languages. This
   THEORY holds that general claim.
 ---
+<!-- inactive-ok-file: THEORY-tmp7i21v — Proposed; the Nafaanra reading filed by LEAD-056 -->
+<!-- inactive-ok-file: LIT-tmpntsdw — Unfetched; the Nafaanra paper, not reached -->
 
 # THEORY-791: The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and differences in one trade-off parameter place each language along it, as Zaslavsky, Kemp, Regier and Tishby propose
 
@@ -68,3 +70,15 @@ driven to the bound by a pressure for efficient compression: the paper
 gives no process that would take a language there, and its "evolution"
 is a path through optima, not a dynamics ([NOTE-631](../notes.d/NOTE-631.md)). That reading would
 be a separate thesis. Rotations are one family of alternatives only.
+
+## Note of 2026-11-22: the Nafaanra resurvey, read through its abstract
+
+The same authors' Nafaanra resurvey (THEORY-tmp7i21v; the abstract
+LIT-tmpom3sr, the journal paper LIT-tmpntsdw unread) reports one
+language's system near the bound at two dates, three terms in 1978 and
+seven in 2017. That is evidence for this entry's claim that languages lie
+near the bound, now at two points of one history, and the first data this
+record holds on a language changing rather than on optima compared. It is
+an abstract without figures, and Malik-Moraleda et al. (LIT-tmpyky5z)
+propose contact with English as a cause beside efficiency. A parallel, no
+relation written; the status is unchanged.

@@ -23,11 +23,17 @@
   Europe PMC fullTextXML returned 500 (not OA there); the Harvard author-page
   PDF returned 403 Access Denied, stopped); Zaslavsky et al. 2022 (next).
 
+- Zaslavsky et al. 2022 (doi:10.1093/jole/lzac001): bioRxiv PDF 429
+  (Cloudflare 1015), eScholarship PDF 202 empty (challenge), OUP page
+  Cloudflare challenge; none retried. LIT filed Unfetched. Its CogSci 2019
+  abstract on the Regier lab page read in its place (ADR-114).
+- Filed: 8 LITs (3 read + 1 stand-in Active, 1 Unfetched, 4 Deferred);
+  3 NOTEs; 3 THEORYs; ARG-tmpcpvnb; dated notes on THEORY-159, CLAIM-082,
+  CLAIM-242, THEORY-791, LEAD-056; changelog fragment lead-056.md.
+
 ## Next
 
-- Register candidate works (LIT).
-- Read up to three; file NOTE/THEORY.
-- Dated notes on CLAIM-082, CLAIM-242, THEORY-159, LEAD-056; changelog fragment.
+- Report to the lead. Nothing else remains on this branch.
 
 ## Choices
 
@@ -37,3 +43,8 @@
   rising words take from their neighbours (Karjus et al.). Registered
   unread: Ameel et al. 2005, Athanasopoulos 2009, Xu and Kemp 2015,
   Ryskina et al. 2020.
+- The two colour readings corroborate CLAIM-082 (relation on the THEORYs)
+  with an ARG saying it is corroboration, not a test. Karjus et al. gets
+  no relation: frequency is not range of use.
+- No curation entry: run-lead's filing list does not ask for one; the
+  map and the left-overs are in search.md and the LEAD-056 note.

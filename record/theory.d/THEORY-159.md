@@ -29,6 +29,10 @@ summary: >-
   positive fact and the relation between signs opposition. The support is
   argument by example.
 ---
+<!-- inactive-ok-file: THEORY-tmp7i21v, THEORY-tmplzcav, THEORY-tmpqveji — Proposed; readings filed by LEAD-056, cited for what they show -->
+<!-- inactive-ok-file: LIT-tmpntsdw — Unfetched; the Nafaanra paper, not reached -->
+<!-- inactive-ok-file: LIT-tmp7ifjq, LIT-tmpvrfq6, LIT-tmpzl83q, LIT-tmpzfual — Deferred; registered by LEAD-056, unread -->
+<!-- inactive-ok-file: ARG-tmpcpvnb — Proposed; the support judgement filed by LEAD-056 -->
 
 # THEORY-159: In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
 
@@ -109,3 +113,37 @@ not split. [CLAIM-242](../claims.d/CLAIM-242.md) needs only the proposal: value 
 values do not cross between languages. The split is due when [CLAIM-242](../claims.d/CLAIM-242.md) is
 otherwise promotable. [CLAIM-242](../claims.d/CLAIM-242.md) then grounds on the split and drops this
 entry from its grounds.
+
+## Note of 2026-11-22: LEAD-056's search, and three readings
+
+LEAD-056 searched for the study this entry's promote_when asks for (log in
+scratch/studies/lead-056/search.md). None was found that changes a
+language's inventory and measures the neighbours' use against terms
+outside the field. Three readings come nearest, and none meets it.
+
+- **Nafaanra** (THEORY-tmp7i21v, from the abstract LIT-tmpom3sr; the
+  journal paper LIT-tmpntsdw was not reached): colour terms added between
+  1978 and 2017, and the three older terms "now name smaller categories".
+  An addition with the neighbours yielding, stated without figures and
+  with no outside-field control; contact with English is a rival cause.
+- **Tsimane' bilinguals** (THEORY-tmplzcav, LIT-tmpyky5z): with the colour
+  field's contrasts multiplied, every studied term but purple narrows and
+  neighbouring terms overlap less. A split of a shared category rather
+  than an addition of a word, measured against monolingual speakers, not
+  against terms outside the field, and driven from outside the language
+  state (Spanish, or culture).
+- **Karjus et al.** (THEORY-tmpqveji, LIT-tmpfcwau): across five corpora a
+  rising word's frequency gain is offset by its near neighbours' losses
+  when its topic is stable, by distant words' when its topic is rising.
+  The near-against-far comparison is the outside-field control the
+  promote_when wants, but the response is frequency, not use or
+  interpretation.
+
+The first two show the shape this account predicts (ARG-tmpcpvnb), but in
+colour a new term must take its region from the old ones on almost any
+account, so without terms outside the field they do not discriminate.
+Registered unread as further candidates: LIT-tmp7ifjq (bilingual container
+naming converging), LIT-tmpvrfq6 (Greek blues), LIT-tmpzl83q (near-synonyms
+differentiating or changing in parallel, against control pairs) and
+LIT-tmpzfual (where neologisms arise). The promote_when stays unmet; the
+status is unchanged.

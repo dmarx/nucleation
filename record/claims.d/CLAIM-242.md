@@ -62,6 +62,7 @@ summary: >-
   ([THEORY-172](../theory.d/THEORY-172.md)) and Bergen, Goodman and Levy's finding ([LIT-809](../literature.d/LIT-809.md)). Saussure
   becomes precedent, not premise. A proposal, not a refutation.
 ---
+<!-- inactive-ok-file: THEORY-tmplzcav — Proposed; a reading filed by LEAD-056, named for a contrast -->
 <!-- inactive-ok-file: CLAIM-254 — Superseded; the objection this claim answered, now ARG-033 -->
 <!-- inactive-ok-file: CLAIM-082 — Proposed; the premise restated here, cited as open -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded; the thesis that rested on the premise, cited for the objection's terms -->
@@ -157,3 +158,14 @@ account, [THEORY-785](../theory.d/THEORY-785.md), is Proposed. No comparison in 
 renderings that keep a source's contrast with its alternatives keep its
 judged stance or footing more often than renderings that change it, which
 is its defeat condition.
+
+## Note of 2026-11-22: LEAD-056, nothing for this claim's condition
+
+LEAD-056 advances this claim through THEORY-159, its premise. Its readings
+leave this claim where it was. The Tsimane' bilinguals (THEORY-tmplzcav)
+show a field's contrasts crossing from one language into another inside
+one speaker, a contrast with this claim's "values do not cross between
+languages", which concerns two language states and their speakers, not a
+bilingual's two lexicons; it is a contrast, not evidence, and no relation
+is written. None of the readings compares renderings, which is the defeat
+condition.
