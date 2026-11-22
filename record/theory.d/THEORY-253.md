@@ -209,3 +209,18 @@ works read on 2026-10-26 for that question bear on it.
   earlier.
 
 Status and title are unchanged.
+
+
+## Note of 2026-11-22: a derivation of the Domino effect (LEAD-045)
+
+<!-- inactive-ok-file: CASE-tmpd2k95 CLAIM-tmpyepkb CLAIM-tmpmop4m — new; the study and claims of LEAD-045, filed 2026-11-22 -->
+
+Under "Not proved": CLAIM-tmpyepkb (Proposed) derives, for task vectors
+generic to the coordinates and many dimensions, du_i/dt = −c p_i u_i/‖p∘u‖₂
+for sign descent in this model. It is a Resource model with the ℓ₂ norm in
+place of Σ_j p_j u_j + N₀ and no fitted constant, and it matches the
+simulation better at intermediate frequencies (t₂/t₁ 1.748 against 1.756
+simulated and 1.688 for the ℓ₁ form, at p₁ = 0.9). It conserves
+u_i^(1/p_i) = C, so the path is gradient descent's and only the clock
+differs. The two-task, five-task and rotated-quadratic runs are in
+CASE-tmpd2k95. Status and title are unchanged.

@@ -88,3 +88,31 @@ both optimizers would not answer the question either way. And the paper's
 own §5 trained with AdamW, outside its theorem, with no gradient-descent
 run for contrast. Neither the induction-heads paper nor the other works
 read with it varies the optimizer. The question is unchanged.
+
+
+## Note of 2026-11-22: both limbs run (LEAD-045)
+
+<!-- inactive-ok-file: CASE-tmpd2k95 CLAIM-tmpyepkb CLAIM-tmpmop4m — new; the study and claims of LEAD-045, filed 2026-11-22 -->
+
+LEAD-045 was carried out (CASE-tmpd2k95; scratch/studies/lead-045/).
+
+- **First limb, derived in the mean-field limit** (CLAIM-tmpyepkb,
+  demonstrated, Proposed). For task vectors generic to the coordinates and
+  many dimensions, sign descent on the Geometry model follows
+  du_j/dt = −c p_j u_j/‖p∘u‖₂: gradient descent's path with its clock
+  divided by the gradient norm. Each weaker skill accelerates while a
+  stronger one remains, and t_n/t_1 → (n − ε)/(1 − ε), so t₂/t₁ → 2 as the
+  threshold tightens. With coordinate-aligned tasks all move together; for
+  the Hadamard rotation the first phase is exact. The derived ratios match
+  simulation within 2%. Not a theorem with error bounds: the step over
+  coordinates is a law-of-large-numbers argument.
+- **Second limb, one small network** (CLAIM-tmpmop4m, empirical,
+  Proposed). In a width-64 ReLU network on four independent skills, at
+  order-one scale, changing only gradient descent to sign descent or Adam
+  delayed the weaker skills (level at half their learning time 0.71 against
+  0.47 and 0.43) and cut skill 4's learning time relative to skill 1's from
+  about 23 to about 5.5. The clean Domino sequence did not appear, and the
+  skills interfered through shared units.
+
+Whether these answer the question, or the first limb only, is the owner's
+call. The question is unchanged.
