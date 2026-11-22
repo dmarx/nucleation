@@ -30,7 +30,7 @@ grounds:
 bears_on:
 - QUESTION-069
 summary: >-
-  What CASE-tmphfmrb measured, stated as a finding. In two-hidden-layer
+  What [CASE-tmphfmrb](../cases.d/CASE-tmphfmrb.md) measured, stated as a finding. In two-hidden-layer
   ReLU MLPs on a two-cue task, the barrier left after alignment falls with
   width for every kind of pair. At width 5, pairs that rely on the same
   cue keep barriers (0 to 0.65 in loss) that overlap those of pairs relying
@@ -54,7 +54,7 @@ summary: >-
 
 ## The claim
 
-In CASE-tmphfmrb's toy, four things set the barrier left between two
+In [CASE-tmphfmrb](../cases.d/CASE-tmphfmrb.md)'s toy, four things set the barrier left between two
 trained networks:
 
 1. **Width.** For every kind of pair (two nets relying on cue A, two on cue
@@ -66,8 +66,8 @@ trained networks:
    on.
 3. **The group.** Two copies of one function, rescaled per unit, keep a
    barrier of 0.19 to 0.59 under permutations alone, and none once
-   rescaling is quotiented. CLAIM-263's step 1, "the group must be the full
-   one", holds for ReLU MLPs as it holds for transformers (THEORY-112).
+   rescaling is quotiented. [CLAIM-263](CLAIM-263.md)'s step 1, "the group must be the full
+   one", holds for ReLU MLPs as it holds for transformers ([THEORY-112](../theory.d/THEORY-112.md)).
 4. **The path family.** A trained Bezier curve or polychain joins aligned
    endpoints, same cue or not, from width 8. The straight line does not.
    In the load-by-temperature grid's one flat, poorly connected cell,
@@ -79,20 +79,20 @@ test that uses no barrier.
 
 ## What it answers in part
 
-QUESTION-069 asks whether the connectedness of trained solutions belongs
+[QUESTION-069](../questions.d/QUESTION-069.md) asks whether the connectedness of trained solutions belongs
 to the solutions, or to the path family, the history and the regime. In
 this toy it belongs to width (capacity), to the group quotiented and to
 the path family. The cue relied on matters less. That is evidence for the
-question's alternatives, at a scale far from THEORY-108's or
-THEORY-112's.
+question's alternatives, at a scale far from [THEORY-108](../theory.d/THEORY-108.md)'s or
+[THEORY-112](../theory.d/THEORY-112.md)'s.
 
 ## What it does not say
 
 - It does not say the same holds for convolutional networks, transformers
   or real data. The defeater names the rerun that would test it.
-- It does not decide what the result does to CLAIM-263. That depends on
+- It does not decide what the result does to [CLAIM-263](CLAIM-263.md). That depends on
   what "share a mechanism" means there, and the two readings are filed
-  as alternatives: CLAIM-tmpv22hv (defeated) and CLAIM-tmp46m6e (narrowed
+  as alternatives: [CLAIM-tmpv22hv](CLAIM-tmpv22hv.md) (defeated) and [CLAIM-tmp46m6e](CLAIM-tmp46m6e.md) (narrowed
   to preconditions).
 - It measures barriers on inputs where the two cues agree. A probe on
   which they conflict was not run.

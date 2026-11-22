@@ -46,13 +46,13 @@ Phase III runs aligned by permutation, with the barrier measured on several path
 
 ## Note of 2026-11-22: a toy run of what would answer it
 
-LEAD-157 ran this question's test at toy scale (CASE-tmphfmrb): numpy MLPs,
+[LEAD-157](../leads.d/LEAD-157.md) ran this question's test at toy scale ([CASE-tmphfmrb](../cases.d/CASE-tmphfmrb.md)): numpy MLPs,
 three path families, four alignments and an exhaustive full-group search at
 width 5. In that toy, connectedness after alignment belongs to width, to the
 group quotiented and to the path family more than to the mechanism
-(CLAIM-tmpr7v4j). Same-cue pairs keep a barrier at width 5. Different-cue
+([CLAIM-tmpr7v4j](../claims.d/CLAIM-tmpr7v4j.md)). Same-cue pairs keep a barrier at width 5. Different-cue
 pairs connect from width 64. In the one flat, poorly connected grid cell,
 a trained curve removes the barrier the aligned line keeps, and the cell's
-accuracy deficit stays. What this means for CLAIM-263 is filed as two
-alternatives, CLAIM-tmpv22hv and CLAIM-tmp46m6e. The question stays open:
-the result is a toy, far from THEORY-108's ResNets.
+accuracy deficit stays. What this means for [CLAIM-263](../claims.d/CLAIM-263.md) is filed as two
+alternatives, [CLAIM-tmpv22hv](../claims.d/CLAIM-tmpv22hv.md) and [CLAIM-tmp46m6e](../claims.d/CLAIM-tmp46m6e.md). The question stays open:
+the result is a toy, far from [THEORY-108](../theory.d/THEORY-108.md)'s ResNets.

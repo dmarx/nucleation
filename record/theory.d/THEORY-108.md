@@ -46,7 +46,7 @@ summary: >-
 bears_on:
 - QUESTION-069
 ---
-<!-- inactive-ok-file: CASE-tmphfmrb CLAIM-tmpr7v4j CLAIM-tmpv22hv CLAIM-tmp46m6e — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmphfmrb — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-078 — Proposed; named in Connections for what endpoint curvature measures, nothing here rests on them -->
 
@@ -220,7 +220,7 @@ threshold". They do not cite this work. No relation.
 
 ## Note of 2026-11-22: a toy analogue of the aligned phase-III test
 
-LEAD-157 ran a small analogue of this reading's grid (CASE-tmphfmrb): numpy
+[LEAD-157](../leads.d/LEAD-157.md) ran a small analogue of this reading's grid ([CASE-tmphfmrb](../cases.d/CASE-tmphfmrb.md)): numpy
 MLPs, widths 4 to 64 against batch sizes 256, 32 and 8, with the top
 Hessian eigenvalue as the local measure. One cell came out flat and poorly
 connected on an unaligned Bezier curve (width 6, batch 8; 0.068 training

@@ -163,16 +163,16 @@ cases plot raw loss that the endpoint's forgetting largely explains.
 
 ## Note of 2026-11-22: a toy test of the defeater
 
-LEAD-157's toy study (CASE-tmphfmrb, numpy MLPs) built pairs whose shared
+[LEAD-157](../leads.d/LEAD-157.md)'s toy study ([CASE-tmphfmrb](../cases.d/CASE-tmphfmrb.md), numpy MLPs) built pairs whose shared
 or different mechanism is known by a cue-reliance test that uses no
 barrier. At width 5, pairs that rely on the same cue stay separated after
 an exhaustive search over permutations and rescalings. At widths 64 and
 256, pairs relying on different cues connect after activation matching
-(CLAIM-tmpr7v4j). Step 1 is borne out in miniature: an exact copy rescaled
+([CLAIM-tmpr7v4j](CLAIM-tmpr7v4j.md)). Step 1 is borne out in miniature: an exact copy rescaled
 per unit is separated under permutations and joined once rescaling is
 quotiented. Whether the rest meets this claim's defeater depends on reading
 "share a mechanism" at the grain of input attributes or at the grain of
 features. The two readings are filed as alternatives for the owner:
-CLAIM-tmpv22hv objects to this claim, and CLAIM-tmp46m6e narrows it to
+[CLAIM-tmpv22hv](CLAIM-tmpv22hv.md) objects to this claim, and [CLAIM-tmp46m6e](CLAIM-tmp46m6e.md) narrows it to
 where a same-mechanism control connects and the probe separates the
 mechanisms. The claim is unchanged.

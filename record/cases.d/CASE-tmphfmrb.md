@@ -28,7 +28,7 @@ draws_on:
 - THEORY-109
 - THEORY-113
 summary: >-
-  LEAD-157's design run at toy scale on CPU. Two-hidden-layer ReLU MLPs are
+  [LEAD-157](../leads.d/LEAD-157.md)'s design run at toy scale on CPU. Two-hidden-layer ReLU MLPs are
   trained in numpy on a task with two redundant cues, A and B. A test that
   uses no barrier says which cue each net relies on: its accuracy when only
   A, or only B, carries the label. Pairs are aligned four ways (none,
@@ -56,9 +56,9 @@ summary: >-
 
 ## What was done
 
-LEAD-157 asks for the barrier between permutation-aligned networks on
+[LEAD-157](../leads.d/LEAD-157.md) asks for the barrier between permutation-aligned networks on
 several path families, and for a pair known to share a mechanism, tested
-for whether alignment always removes its barrier (QUESTION-069's "what
+for whether alignment always removes its barrier ([QUESTION-069](../questions.d/QUESTION-069.md)'s "what
 would answer it"). Only a CPU and numpy were available, so this is a
 **toy-scale stand-in**. The networks are two-hidden-layer ReLU MLPs with
 hand-written backpropagation, not image classifiers or transformers.
@@ -71,7 +71,7 @@ hand-written backpropagation, not image classifiers or transformers.
   cue A carries the label and when only cue B does. A-trained nets score
   0.87–0.91 on A-only and chance (0.25) on B-only. B-trained nets score the
   reverse (0.93–0.97). So a pair of A-nets shares "the input attributes
-  relied on" (CLAIM-263's defeater). An A-net and a B-net do not.
+  relied on" ([CLAIM-263](../claims.d/CLAIM-263.md)'s defeater). An A-net and a B-net do not.
 - **Pairs (experiment e1; 4 pairs a cell; widths 5, 8, 16, 64, 256).**
   `sameA`, `sameB`: two seeds on the same single-cue data. `both`: two seeds
   on `both` (their mechanism is measured, not built: each leans on B, 0.76
@@ -87,13 +87,13 @@ hand-written backpropagation, not image classifiers or transformers.
   normalised weights.
 - **Path families.** The straight line, a quadratic Bezier curve with a
   trained control point, and a one-bend polychain with a trained bend
-  (THEORY-109's families), each run on the unaligned and the aligned
+  ([THEORY-109](../theory.d/THEORY-109.md)'s families), each run on the unaligned and the aligned
   endpoints.
 - **Barrier.** The largest excess, over 25 points, of the path's loss above
   the straight interpolation of the endpoint losses. It is measured in
   cross-entropy and in 0-1 error, on a held-out both-cue set, which every
   net in every pair fits.
-- **Load by temperature (experiment e2).** A small analogue of THEORY-108's
+- **Load by temperature (experiment e2).** A small analogue of [THEORY-108](../theory.d/THEORY-108.md)'s
   grid: widths 4–64 against batch sizes 256, 32 and 8 at one learning rate,
   three pairs a cell, all on `both`. Flatness is the top Hessian
   eigenvalue. The classification was fixed before reading the results:
@@ -153,30 +153,30 @@ hand-written backpropagation, not image classifiers or transformers.
 1. **Alignment does not always remove the barrier between networks that
    share a mechanism.** That holds at narrow width with an exhaustive
    permutation search, and with any permutation search where a symmetry
-   outside the permutations is present. This is the case QUESTION-069 asked
+   outside the permutations is present. This is the case [QUESTION-069](../questions.d/QUESTION-069.md) asked
    for, at toy scale.
 2. **In this toy the barrier tracks width and feature correspondence, not
    which input attribute is relied on.** Different-cue pairs connect once
    the networks are wide, and same-cue pairs stay apart when narrow.
 3. **The verdict depends on the instrument.** The same aligned endpoints are
    separated on the straight line and joined on a trained curve. That is
-   QUESTION-069's alternative, that connectedness belongs partly to the
+   [QUESTION-069](../questions.d/QUESTION-069.md)'s alternative, that connectedness belongs partly to the
    path family searched.
 
-What this does to CLAIM-263's step 2 (THEORY-116's direction, which
-CLAIM-187 carries further) turns on what "share a mechanism" means in its
-defeater, which the record leaves open. CLAIM-tmpr7v4j states the finding.
-CLAIM-tmpv22hv and CLAIM-tmp46m6e are the two readings, filed as
+What this does to [CLAIM-263](../claims.d/CLAIM-263.md)'s step 2 ([THEORY-116](../theory.d/THEORY-116.md)'s direction, which
+[CLAIM-187](../claims.d/CLAIM-187.md) carries further) turns on what "share a mechanism" means in its
+defeater, which the record leaves open. [CLAIM-tmpr7v4j](../claims.d/CLAIM-tmpr7v4j.md) states the finding.
+[CLAIM-tmpv22hv](../claims.d/CLAIM-tmpv22hv.md) and [CLAIM-tmp46m6e](../claims.d/CLAIM-tmp46m6e.md) are the two readings, filed as
 alternatives for the owner.
 
 ## What it cannot show
 
 - It is a toy: one synthetic task, MLPs of width 256 at most, numpy SGD,
   four pairs a cell. It says nothing directly about ResNets, ViTs or
-  language models, where THEORY-112's measurements live.
+  language models, where [THEORY-112](../theory.d/THEORY-112.md)'s measurements live.
 - The barrier is measured on both-cue data, where the two cues agree. A
   probe on which the cues conflict could separate the A-net from the B-net
-  where this one does not (CLAIM-142's caution). That was not run.
+  where this one does not ([CLAIM-142](../claims.d/CLAIM-142.md)'s caution). That was not run.
 - The exhaustive search covers only width 5, and its rescaling step is a
   local optimum. At other widths, alignment is by heuristic matching, so
   a barrier left there may be a failure of the search.

@@ -48,7 +48,7 @@ defeats the reading that a surviving barrier marks a different mechanism
 
 ## Note of 2026-11-22: run at toy scale
 
-Run by a delegated lead worker at toy scale on CPU, as CASE-tmphfmrb. Small
+Run by a delegated lead worker at toy scale on CPU, as [CASE-tmphfmrb](../cases.d/CASE-tmphfmrb.md). Small
 two-hidden-layer ReLU MLPs were trained in numpy on a two-cue task, with a
 cue-reliance test that uses no barrier saying which cue each net relies on.
 Pairs were aligned four ways, and at width 5 by an exhaustive search over
@@ -59,9 +59,9 @@ scratch/studies/lead-157/. By this lead's criterion, alignment does not
 always remove the barrier between networks that share a mechanism: at
 width 5, same-cue pairs keep barriers even under the full group, and an
 exact rescaled copy keeps one under permutations alone. Also, different-cue
-pairs connect at width 64 and above. CLAIM-tmpr7v4j states the finding.
-Whether it defeats CLAIM-263 depends on the grain of "mechanism", so it is
-filed as two alternatives for the owner: CLAIM-tmpv22hv (defeated) and
-CLAIM-tmp46m6e (narrowed to preconditions). What remains is a probe on
-which the two cues disagree, a rerun at a scale where THEORY-112's
+pairs connect at width 64 and above. [CLAIM-tmpr7v4j](../claims.d/CLAIM-tmpr7v4j.md) states the finding.
+Whether it defeats [CLAIM-263](../claims.d/CLAIM-263.md) depends on the grain of "mechanism", so it is
+filed as two alternatives for the owner: [CLAIM-tmpv22hv](../claims.d/CLAIM-tmpv22hv.md) (defeated) and
+[CLAIM-tmp46m6e](../claims.d/CLAIM-tmp46m6e.md) (narrowed to preconditions). What remains is a probe on
+which the two cues disagree, a rerun at a scale where [THEORY-112](../theory.d/THEORY-112.md)'s
 measurements live, and Yang et al.'s actual phase III.
