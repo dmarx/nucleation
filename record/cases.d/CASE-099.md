@@ -40,6 +40,7 @@ summary: >-
 bears_on:
 - QUESTION-124
 ---
+<!-- inactive-ok-file: CASE-tmpgustv, CLAIM-tmpifr7i, CLAIM-500 — Proposed or new; cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 
@@ -114,3 +115,7 @@ evaluated", is not new: it is Regime B against the γ arrow here, and
 [CLAIM-342](../claims.d/CLAIM-342.md)'s and [CLAIM-297](../claims.d/CLAIM-297.md)'s thesis. A39 called it "the best candidate for
 an early discriminating experiment". A40's Study C restates it. Not run.
 The dynamics it would need are [QUESTION-124](../questions.d/QUESTION-124.md)'s.
+
+## Note of 2026-11-22: the extension built and run
+
+The extension of the note of 2026-10-18 has been built and run, for LEAD-081, as CASE-tmpgustv (scratch/studies/lead-081/). Three declared demands, CLAIM-365's local requirements, an exact oracle for Φ and an allocation oracle were added to this case's loop. The update map plays β, and Regime A's agreement score plays γ. On 200 satisfiable instances, changing only the conferral rule moved the share of steps with a satisfiable demand unmet from 0.95 (Regime A) to 0.05 (Regime B). The captured allocation behaved as a fixed weighting. Capture set in between γ = 1 and γ = 2 at every memory tried. This is not checked against this case's threshold βγ > (1 − α)(1 − δ), because no linearization of the built model was derived. In the built rule the conferral step is scaled by 1 − δ, which would cancel memory out of the threshold, and the sweep fits that only roughly. CLAIM-tmpifr7i states the finding, with two readings for CLAIM-500. No status changes.
