@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 (NOTE-tmpmrw49) from the PsyArXiv preprint (CC BY);
+  read 2026-11-22 ([NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md)) from the PsyArXiv preprint (CC BY);
   worth reading as the method by which hysteresis could be detected in
   one person's time series: two switching thresholds, one for each
   direction, against a single one. Its psychopathology case is simulated;
@@ -54,10 +54,10 @@ summary: >-
   regimes differ in mean and the series is long. It recovers hysteresis
   (thresholds −0.30 and 0.55) in data simulated from Cramer et al.'s
   depression symptom network, and in one empirical speed–accuracy data
-  set. It reports no empirical psychopathology series. For QUESTION-045
+  set. It reports no empirical psychopathology series. For [QUESTION-045](../questions.d/QUESTION-045.md)
   it is the method "individual data showing hysteresis" would need, and
   evidence that such data had not been analysed with it. Read in
-  NOTE-tmpmrw49; the reading is THEORY-tmpan7c6.
+  [NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md); the reading is [THEORY-tmpan7c6](../theory.d/THEORY-tmpan7c6.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpan7c6 — new; this work's reading -->
 
@@ -86,5 +86,5 @@ DOI 10.31234/osf.io/zrcft. R package: hystar.
 
 ## Standing in the record
 
-Filed by LEAD-032 for the second thing QUESTION-045 would accept,
+Filed by [LEAD-032](../leads.d/LEAD-032.md) for the second thing [QUESTION-045](../questions.d/QUESTION-045.md) would accept,
 "individual data showing hysteresis". It supplies the test, not the data.

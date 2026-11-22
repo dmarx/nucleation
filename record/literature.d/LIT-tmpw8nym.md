@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered from the literature search of
-  LEAD-032 (scratch/studies/lead-032/search.md, queries D1 and D4).
+  [LEAD-032](../leads.d/LEAD-032.md) (scratch/studies/lead-032/search.md, queries D1 and D4).
   OpenAlex listed no open copy on 2026-11-22; the publisher's version is
   closed. No further search was made.
 title: 'A randomized controlled trial of the judicious use of safety behaviors during exposure therapy'
@@ -32,8 +32,8 @@ summary: >-
   at post-treatment and one-month follow-up: "There were no significant
   group differences in treatment outcome or treatment
   acceptability/tolerability" (abstract, via Europe PMC; unverified until
-  read). A multi-session test of the design QUESTION-045 names, with a
-  null result; Meckes et al. (LIT-tmpds717) report that it lowered threat
+  read). A multi-session test of the design [QUESTION-045](../questions.d/QUESTION-045.md) names, with a
+  null result; Meckes et al. ([LIT-tmpds717](LIT-tmpds717.md)) report that it lowered threat
   expectancy without interfering with fear reduction.
 ---
 
@@ -44,8 +44,8 @@ Behaviour Research and Therapy 112, 28–35. DOI 10.1016/j.brat.2018.11.010.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-032's search. With Meckes et al.
-(LIT-tmpds717), the two trials in the search that compare the same
+Registered on 2026-11-22 by [LEAD-032](../leads.d/LEAD-032.md)'s search. With Meckes et al.
+([LIT-tmpds717](LIT-tmpds717.md)), the two trials in the search that compare the same
 exposure with and without a safety behaviour over follow-up. Both found
 no difference in outcome. In both, Meckes et al. report, the safety
 behaviour was the experimenter's ("participants were asked to select from

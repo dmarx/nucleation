@@ -26,7 +26,7 @@ summary: >-
   appeared in about a sixth. It is within-person evidence that some
   transitions into depression follow the destabilization a tipping point
   predicts, with low sensitivity; it does not test hysteresis. The
-  reading is THEORY-tmp6agnf.
+  reading is [THEORY-tmp6agnf](../theory.d/THEORY-tmp6agnf.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp6agnf THEORY-058 LIT-tmpdpj4x THEORY-tmpan7c6 — new, Proposed or Deferred; this reading, the account whose promote_when it bears on, the single-patient study it replicates, and the hysteresis method read beside it -->
 
@@ -36,9 +36,9 @@ summary: >-
 
 The first test across many people of whether critical slowing down
 precedes recurrence of depression within the person, after two
-single-patient studies (Wichers et al. 2016, LIT-tmpdpj4x; Wichers, Smit
+single-patient studies (Wichers et al. 2016, [LIT-tmpdpj4x](../literature.d/LIT-tmpdpj4x.md); Wichers, Smit
 & Snippe 2020). It estimates sensitivity and specificity, which one
-patient cannot give. The reading is THEORY-tmp6agnf.
+patient cannot give. The reading is [THEORY-tmp6agnf](../theory.d/THEORY-tmp6agnf.md).
 
 ## Key results
 
@@ -105,7 +105,7 @@ patient cannot give. The reading is THEORY-tmp6agnf.
 
 ## Bearing on the record
 
-- **THEORY-058 (its promote_when, route 1; meets the critical-slowing
+- **[THEORY-058](../theory.d/THEORY-058.md) (its promote_when, route 1; meets the critical-slowing
   half in part).** The route asks for "Individual time-series data ...
   showing the signatures of an alternative stable state: critical slowing
   down (rising autocorrelation and variance among symptoms) before onset
@@ -118,13 +118,13 @@ patient cannot give. The reading is THEORY-tmp6agnf.
   and the group difference holds for variance, not for autocorrelation.
   Whether this meets the route is the owner's call; no status is changed
   here.
-- **QUESTION-045 (evidence on the first half of its premise; does not
+- **[QUESTION-045](../questions.d/QUESTION-045.md) (evidence on the first half of its premise; does not
   answer).** The question's lock-in is a regime that "outlasts its
   trigger". This study shows within-person destabilization before entry
   into depression in some people; it says nothing about the persistence
   after entry that hysteresis would be, nor about a maintaining link. It
   is individual data, of the nearer kind.
-- **LIT-tmpzu3i3 / THEORY-tmpan7c6 (contrast).** Critical slowing is the
+- **[LIT-tmpzu3i3](../literature.d/LIT-tmpzu3i3.md) / [THEORY-tmpan7c6](../theory.d/THEORY-tmpan7c6.md) (contrast).** Critical slowing is the
   sign of approaching a threshold; hysteresis is the asymmetry of the
   thresholds. The tapering design has a candidate control variable, the
   dose, which falls one way only, so it could not show a return path.

@@ -20,10 +20,10 @@ summary: >-
   exposure with experimenter-supplied rubber boots faded after 20
   minutes, kept throughout, or not used. No arm differed in outcome at
   post-treatment or one month. The boots raised approach during exposure
-  and acceptability after it. For QUESTION-045 it is exposure held fixed
+  and acceptability after it. For [QUESTION-045](../questions.d/QUESTION-045.md) it is exposure held fixed
   with a safety behaviour cut or kept, and no lasting difference, with
   the caveat that the safety behaviour was supplied, not the person's own.
-  The reading is THEORY-tmpai05z.
+  The reading is [THEORY-tmpai05z](../theory.d/THEORY-tmpai05z.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpai05z LIT-tmpgjzit LIT-tmpw8nym LIT-tmp83n75 LIT-tmplsgie THEORY-058 CLAIM-446 — new, Unfetched, Deferred or Proposed; this reading, the meta-analysis and trials it cites, and the account and claim it bears on -->
 
@@ -36,7 +36,7 @@ behaviour faded, the same exposure with it kept throughout, and the same
 exposure without it, as the "judicious use" account requires. It also
 tests two moderators: how far the safety behaviour lowered the person's
 threat expectancy, and distress intolerance. The reading is
-THEORY-tmpai05z.
+[THEORY-tmpai05z](../theory.d/THEORY-tmpai05z.md).
 
 ## Key results
 
@@ -84,13 +84,13 @@ THEORY-tmpai05z.
   a single session of exposure generally did not hinder exposure therapy
   outcomes", and "fading SBs did not improve long-term therapy outcomes."
 - **The literature, as the authors report it (Introduction).** Meulders
-  et al. 2016 (LIT-tmpgjzit, not read): "a meta-analysis of 20
+  et al. 2016 ([LIT-tmpgjzit](../literature.d/LIT-tmpgjzit.md), not read): "a meta-analysis of 20
   experiments", with effects "moderately to highly heterogeneous"; "In
   both cases, the direction of the overall effect favored fewer safety
   behaviors, but neither effect was statistically significant." Blakey et
-  al. 2019 (LIT-tmpw8nym, not read): safety behaviours "reduced threat
+  al. 2019 ([LIT-tmpw8nym](../literature.d/LIT-tmpw8nym.md), not read): safety behaviours "reduced threat
   expectancy but did not interfere with anxiety reduction". Powers et al.
-  2004 (LIT-tmp83n75) and Sloan and Telch 2002 are cited on the other
+  2004 ([LIT-tmp83n75](../literature.d/LIT-tmp83n75.md)) and Sloan and Telch 2002 are cited on the other
   side.
 
 ## Assumptions
@@ -113,13 +113,13 @@ THEORY-tmpai05z.
   in exposure to make approach tolerable, then faded.
 - **Faded / unfaded / no safety behaviour**: the three arms; "unfaded" is
   the safety behaviour kept for the whole session.
-- **Expectancy violation**: the inhibitory-learning account (LIT-1500)
+- **Expectancy violation**: the inhibitory-learning account ([LIT-1500](../literature.d/LIT-1500.md))
   on which a safety behaviour harms exposure by lowering the expectancy
   that the outcome could violate.
 
 ## Bearing on the record
 
-- **QUESTION-045 (evidence on the experiment it asks for; against, with a
+- **[QUESTION-045](../questions.d/QUESTION-045.md) (evidence on the experiment it asks for; against, with a
   limit).** The design holds exposure fixed and varies only the safety
   behaviour, and the question asks for "lasting change that the same
   exposure without the cut does not" produce. Here the arms did not
@@ -130,21 +130,21 @@ THEORY-tmpai05z.
   person. The authors name this first among their limitations
   ("experimenter-selected SBs may impact exposure differently than an
   established SB selected by the participant"). Salkovskis et al. 1999
-  (LIT-tmplsgie) is the registered trial that cut patients' own safety
+  ([LIT-tmplsgie](../literature.d/LIT-tmplsgie.md)) is the registered trial that cut patients' own safety
   behaviours, over a two-day outcome.
-- **THEORY-058 (its promote_when, route 2; does not meet it).** The route
+- **[THEORY-058](../theory.d/THEORY-058.md) (its promote_when, route 2; does not meet it).** The route
   asks for experiments that cut a maintaining link with exposure held
   constant "and produce lasting remission that the same exposure without
   the cut does not". This one finds no such difference, and for the
   reason above it is not a test of a maintaining link. It neither meets
   nor refutes the route.
-- **LIT-1491 / THEORY-903 (contrast).** The record holds the meta-analysis
+- **[LIT-1491](../literature.d/LIT-1491.md) / [THEORY-903](../theory.d/THEORY-903.md) (contrast).** The record holds the meta-analysis
   of safety-behaviour manipulations outside exposure (reduction lowered
   symptoms, d = 0.43, about 0.31 corrected). This trial is the
   within-exposure half, where the effect is null; together they say that
   safety behaviours moved symptoms on their own in that literature, but
   that adding one to exposure did not blunt it here.
-- **CLAIM-446 (background, no edge).** The claim's test holds the
+- **[CLAIM-446](../claims.d/CLAIM-446.md) (background, no edge).** The claim's test holds the
   represented threat fixed and changes the defensive process's evidence
   access. The boots changed approach without changing threat expectancy
   on average, and outcomes did not differ; that is a manipulation of

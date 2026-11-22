@@ -20,8 +20,8 @@ source:
 bears_on:
 - QUESTION-045
 summary: >-
-  de Jong et al. (2023), LIT-tmpzu3i3, read in NOTE-tmpmrw49. The test
-  QUESTION-045's "individual data showing hysteresis" would need, with
+  de Jong et al. (2023), [LIT-tmpzu3i3](../literature.d/LIT-tmpzu3i3.md), read in [NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md). The test
+  [QUESTION-045](../questions.d/QUESTION-045.md)'s "individual data showing hysteresis" would need, with
   its conditions: a measured driver crossing an upper and then a lower
   threshold. Its depression case is simulated, and it reports no
   empirical psychopathology series. Proposed until its simulation results
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-de Jong, Ryan, van der Maas & Hamaker (2023), LIT-tmpzu3i3, read in
-NOTE-tmpmrw49.
+de Jong, Ryan, van der Maas & Hamaker (2023), [LIT-tmpzu3i3](../literature.d/LIT-tmpzu3i3.md), read in
+[NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md).
 
 ## The account
 
@@ -57,7 +57,7 @@ hysteresis without describing its mechanism.
 
 ## Bearing
 
-- QUESTION-045: makes the second kind of answer testable and states its
+- [QUESTION-045](../questions.d/QUESTION-045.md): makes the second kind of answer testable and states its
   conditions; it is not that answer.
-- THEORY-058: supplies the test route 1 of its promote_when names; its
+- [THEORY-058](THEORY-058.md): supplies the test route 1 of its promote_when names; its
   depression evidence is simulation, which the route excludes.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmprmzur) from the NIH author manuscript
+  read in full 2026-11-22 ([NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md)) from the NIH author manuscript
   in PubMed Central, not the version of record; worth reading as the most
   recent randomized test of exposure held fixed with a safety behaviour
   faded, kept or never offered, with a one-month follow-up. Outcomes did
@@ -49,10 +49,10 @@ summary: >-
   trial and acceptability after treatment. Moderation, partly against the
   authors' hypotheses: fading did worse at follow-up on disgust when the
   boots had lowered threat expectancy, and keeping them helped the more
-  distress-intolerant. For QUESTION-045, exposure held fixed with a
+  distress-intolerant. For [QUESTION-045](../questions.d/QUESTION-045.md), exposure held fixed with a
   safety behaviour cut or kept, and no lasting difference; but the
   safety behaviour is supplied, not the person's own maintaining link.
-  Read in NOTE-tmprmzur; the reading is THEORY-tmpai05z.
+  Read in [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md); the reading is [THEORY-tmpai05z](../theory.d/THEORY-tmpai05z.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpai05z — new; this work's reading -->
 
@@ -79,7 +79,7 @@ ClinicalTrials.gov, NCT04470882.
 
 ## Standing in the record
 
-Filed by LEAD-032 for QUESTION-045's experiment. It holds exposure fixed
+Filed by [LEAD-032](../leads.d/LEAD-032.md) for [QUESTION-045](../questions.d/QUESTION-045.md)'s experiment. It holds exposure fixed
 and varies only the safety behaviour, with a follow-up, and finds no
 lasting difference. It does not cut the person's own maintaining link:
 the safety behaviour is new to the participant and supplied by the

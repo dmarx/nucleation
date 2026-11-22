@@ -69,8 +69,8 @@ without citing it.
 
 The note of 2026-10-18 sets out ż = μz − z³ + h, in which a regime driven
 up by h stays up after h returns and leaves only when h falls below a
-lower value. De Jong et al. (2023), LIT-tmpzu3i3, read in NOTE-tmpmrw49
-(THEORY-tmpan7c6), give the discrete form that can be estimated from one
+lower value. De Jong et al. (2023), [LIT-tmpzu3i3](../literature.d/LIT-tmpzu3i3.md), read in [NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md)
+([THEORY-tmpan7c6](../theory.d/THEORY-tmpan7c6.md)), give the discrete form that can be estimated from one
 person's series: an outcome switches regime when a measured control
 variable crosses r1 and back only below r0 < r1. That is the same
 asymmetry, with r1 and r0 the two fold values of h. The bearing is a
@@ -79,4 +79,4 @@ it reports no empirical psychological series analysed this way. It does
 say what data would show this term's "reduces the capacity to leave it"
 at the individual scale: a measured driver that falls back past the
 level that brought the regime on, with the regime holding. Found by
-LEAD-032 for QUESTION-045.
+[LEAD-032](../leads.d/LEAD-032.md) for [QUESTION-045](../questions.d/QUESTION-045.md).

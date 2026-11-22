@@ -459,8 +459,8 @@ the claim; no relation written. No status changes.
 
 ## Note of 2026-11-22: a safety behaviour added with threat expectancy unchanged
 
-LEAD-032 read Meckes et al. (2025), LIT-tmpds717, NOTE-tmprmzur
-(THEORY-tmpai05z). Spider-fearful adults had one exposure with
+[LEAD-032](../leads.d/LEAD-032.md) read Meckes et al. (2025), [LIT-tmpds717](../literature.d/LIT-tmpds717.md), [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md)
+([THEORY-tmpai05z](../theory.d/THEORY-tmpai05z.md)). Spider-fearful adults had one exposure with
 experimenter-supplied boots faded, kept or absent. On average the boots
 did not change threat expectancy ("there were no between-group
 differences in the level of change in threat expectancy"), raised

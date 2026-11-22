@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered from the literature search of
-  LEAD-032 (scratch/studies/lead-032/search.md, query D4_sb_disorders).
+  [LEAD-032](../leads.d/LEAD-032.md) (scratch/studies/lead-032/search.md, query D4_sb_disorders).
   OpenAlex listed no open copy on 2026-11-22: the publisher's version is
   closed, and the University of Manchester's Research Explorer entry is a
   record without a file. No further search was made.
@@ -32,7 +32,7 @@ summary: >-
   test "within two days", those who stopped showed "a significantly
   greater decrease in catastrophic beliefs and anxiety" (abstract, via
   Europe PMC; unverified until read). The patient's own maintaining
-  behaviour cut with exposure held fixed, the design QUESTION-045 names,
+  behaviour cut with exposure held fixed, the design [QUESTION-045](../questions.d/QUESTION-045.md) names,
   over minutes and with a two-day outcome, not lasting change.
 ---
 
@@ -43,8 +43,8 @@ and Therapy 37(6), 559–574. DOI 10.1016/S0005-7967(98)00153-3.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-032's search. Of the trials the search
-found, it comes nearest to QUESTION-045's experiment, because the safety
+Registered on 2026-11-22 by [LEAD-032](../leads.d/LEAD-032.md)'s search. Of the trials the search
+found, it comes nearest to [QUESTION-045](../questions.d/QUESTION-045.md)'s experiment, because the safety
 behaviour cut is the patient's own, not one supplied by the
-experimenter, as in Meckes et al. (LIT-tmpds717). Not read; no open copy
+experimenter, as in Meckes et al. ([LIT-tmpds717](LIT-tmpds717.md)). Not read; no open copy
 found.

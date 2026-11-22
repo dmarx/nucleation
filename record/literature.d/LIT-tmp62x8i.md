@@ -2,8 +2,8 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered from the literature search of
-  LEAD-032 (scratch/studies/lead-032/search.md) as the first experiment
-  of the design QUESTION-045 names. No open copy was looked for: the
+  [LEAD-032](../leads.d/LEAD-032.md) (scratch/studies/lead-032/search.md) as the first experiment
+  of the design [QUESTION-045](../questions.d/QUESTION-045.md) names. No open copy was looked for: the
   search's open-access checks stopped when OpenAlex refused this client
   for want of an email address, which was not sent.
 title: 'Social phobia: The role of in-situation safety behaviors in maintaining anxiety and negative beliefs'
@@ -31,8 +31,8 @@ summary: >-
   Therapy 26(1), 153–161. The founding experiment of the safety-behaviour
   account of social phobia: one session of exposure given with and
   without the patient's in-situation safety behaviours, the design
-  QUESTION-045 names, with no follow-up as far as the record knows
-  (unverified until read). Cited by LIT-1491's reading (NOTE-1128).
+  [QUESTION-045](../questions.d/QUESTION-045.md) names, with no follow-up as far as the record knows
+  (unverified until read). Cited by [LIT-1491](LIT-1491.md)'s reading ([NOTE-1128](../notes.d/NOTE-1128.md)).
 ---
 <!-- inactive-ok-file: THEORY-058 — Proposed; the account whose maintaining loop this experiment founded -->
 
@@ -43,8 +43,8 @@ Therapy 26(1), 153–161. DOI 10.1016/S0005-7894(05)80088-7.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-032's search. The first experiment that
+Registered on 2026-11-22 by [LEAD-032](../leads.d/LEAD-032.md)'s search. The first experiment that
 cut the safety behaviour while holding exposure fixed, in social phobia,
-and the origin of the account the record holds as THEORY-058's second
+and the origin of the account the record holds as [THEORY-058](../theory.d/THEORY-058.md)'s second
 strand (Salkovskis's maintaining loop). Not read; what it found is
 unverified here.

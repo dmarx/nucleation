@@ -188,12 +188,12 @@ patient is why it is Proposed.
 
 ## Note of 2026-11-22: three readings against both routes of promote_when
 
-LEAD-032's search (scratch/studies/lead-032/search.md) looked for both
+[LEAD-032](../leads.d/LEAD-032.md)'s search (scratch/studies/lead-032/search.md) looked for both
 kinds of result this account's promote_when names. Three works were read.
 
 - **Route 1, individual time series: critical slowing, in part; no
-  hysteresis.** Smit et al. (2025), LIT-tmpuur53, NOTE-tmpptg2p
-  (THEORY-tmp6agnf), is individual data of the kind the route names: 37
+  hysteresis.** Smit et al. (2025), [LIT-tmpuur53](../literature.d/LIT-tmpuur53.md), [NOTE-tmpptg2p](../notes.d/NOTE-tmpptg2p.md)
+  ([THEORY-tmp6agnf](THEORY-tmp6agnf.md)), is individual data of the kind the route names: 37
   people in remission tapering antidepressants, five affect ratings a day
   for four months, with a preregistered within-person test. Rising
   variance or autocorrelation preceded recurrence in 32.9% of those who
@@ -206,19 +206,19 @@ kinds of result this account's promote_when names. Three works were read.
   transition, not on the persistence after it that this account's title
   is about. Whether it meets the route is the owner's call; the reading
   is independent of the works that filed this account. For hysteresis,
-  de Jong et al. (2023), LIT-tmpzu3i3, NOTE-tmpmrw49 (THEORY-tmpan7c6),
+  de Jong et al. (2023), [LIT-tmpzu3i3](../literature.d/LIT-tmpzu3i3.md), [NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md) ([THEORY-tmpan7c6](THEORY-tmpan7c6.md)),
   supply the test the route describes, a measured trigger whose upward
   and downward switching thresholds differ, and report that it "has not
   been used to investigate hysteresis in empirical psychological time
   series, so far". Their depression case is simulated from Cramer et
   al.'s network, which the route says would not settle it.
 - **Route 2, cutting a maintaining link with exposure fixed: not met.**
-  Meckes et al. (2025), LIT-tmpds717, NOTE-tmprmzur (THEORY-tmpai05z):
+  Meckes et al. (2025), [LIT-tmpds717](../literature.d/LIT-tmpds717.md), [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md) ([THEORY-tmpai05z](THEORY-tmpai05z.md)):
   the same exposure with an experimenter-supplied safety behaviour faded,
   kept or absent made no detectable difference at one month. Blakey et
-  al. (2019), LIT-tmpw8nym, registered, reports the same over four
+  al. (2019), [LIT-tmpw8nym](../literature.d/LIT-tmpw8nym.md), registered, reports the same over four
   sessions. Neither cuts the person's own maintaining link, so neither
   refutes the route; the trials that did (Salkovskis et al. 1999,
-  LIT-tmplsgie; Wells et al. 1995, LIT-tmp62x8i) measured over days.
+  [LIT-tmplsgie](../literature.d/LIT-tmplsgie.md); Wells et al. 1995, [LIT-tmp62x8i](../literature.d/LIT-tmp62x8i.md)) measured over days.
 
 No status change.

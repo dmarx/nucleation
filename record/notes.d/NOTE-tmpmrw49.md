@@ -21,9 +21,9 @@ summary: >-
   one person's series of a control variable and an outcome, and shows by
   simulation when the test works. Its psychopathology case is data
   simulated from a depression symptom network; it says no empirical
-  psychological series had been analysed with it. For QUESTION-045 it
+  psychological series had been analysed with it. For [QUESTION-045](../questions.d/QUESTION-045.md) it
   makes "individual data showing hysteresis" testable and shows the data
-  were not yet in hand. The reading is THEORY-tmpan7c6.
+  were not yet in hand. The reading is [THEORY-tmpan7c6](../theory.d/THEORY-tmpan7c6.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpan7c6 THEORY-058 — new or Proposed; this reading, and the account whose promote_when names hysteresis -->
 
@@ -35,7 +35,7 @@ Brings the hysteretic threshold autoregressive model of econometrics
 (Zhu et al. 2014; Li et al. 2015) into psychology, with an R package
 (hystar), so that hysteresis can be tested in intensive longitudinal data
 from one person rather than fitted, as the cusp catastrophe model usually
-is, to cross-sectional data. The reading is THEORY-tmpan7c6.
+is, to cross-sectional data. The reading is [THEORY-tmpan7c6](../theory.d/THEORY-tmpan7c6.md).
 
 ## Key results
 
@@ -101,7 +101,7 @@ is, to cross-sectional data. The reading is THEORY-tmpan7c6.
 
 ## Bearing on the record
 
-- **QUESTION-045 (sharpens what would answer it; no answer).** The
+- **[QUESTION-045](../questions.d/QUESTION-045.md) (sharpens what would answer it; no answer).** The
   question accepts "individual data showing hysteresis". This paper says
   what such data must be: one person's series in which a measured driver
   (a stressor, perceived threat) rises past a level that switches them
@@ -111,18 +111,18 @@ is, to cross-sectional data. The reading is THEORY-tmpan7c6.
   the hysteresis zone. The paper also reports that no empirical
   psychological series had been analysed this way. So the second route of
   the question is open for want of data, not of method.
-- **THEORY-058 (its promote_when, route 1; not met, the test supplied).**
+- **[THEORY-058](../theory.d/THEORY-058.md) (its promote_when, route 1; not met, the test supplied).**
   The route asks for hysteresis "in which symptoms stay up after the
   measured trigger has returned to its earlier level". This is a test for
   exactly that, and its only depression case is a simulation, which the
   route says "would not settle it". It does not meet the route.
-- **TERM-020 (the hysteresis form in its note of 2026-10-18; parallel).**
+- **[TERM-020](../terms.d/TERM-020.md) (the hysteresis form in its note of 2026-10-18; parallel).**
   The note sets out ż = μz − z³ + h, which leaves its upper state only
   when h falls below a lower value than the one that brought it in. The
   HysTAR model is the discrete, estimable counterpart: r1 and r0 are the
   two values of the driver h. It gives the record a way to test the
   form on data, not support for it.
-- **LIT-tmpuur53 (read beside it, contrast).** Critical slowing down,
+- **[LIT-tmpuur53](../literature.d/LIT-tmpuur53.md) (read beside it, contrast).** Critical slowing down,
   which Smit et al. test, is a sign of approaching a tipping point;
   hysteresis is the persistence after it. A series can show either
   without the other.

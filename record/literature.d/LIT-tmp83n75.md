@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered from the literature search of
-  LEAD-032 (scratch/studies/lead-032/search.md, query D4_sb_disorders).
+  [LEAD-032](../leads.d/LEAD-032.md) (scratch/studies/lead-032/search.md, query D4_sb_disorders).
   OpenAlex listed no open copy on 2026-11-22: the publisher's version is
   closed, and the Radboud Repository (hdl.handle.net/2066/161771) and
   CiteSeerX entries are marked not open. Neither was fetched.
@@ -35,7 +35,7 @@ summary: >-
   is the perception of the availability of safety aids as opposed to
   their actual use that exerts a disruptive effect" (abstract, via Europe
   PMC; unverified until read). The strongest positive result of the
-  design QUESTION-045 names that the search found; the safety aid is the
+  design [QUESTION-045](../questions.d/QUESTION-045.md) names that the search found; the safety aid is the
   experimenter's, not the person's own.
 ---
 
@@ -46,9 +46,9 @@ Psychology 72(3), 448–454. DOI 10.1037/0022-006X.72.3.448.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-032's search. Exposure is held fixed
+Registered on 2026-11-22 by [LEAD-032](../leads.d/LEAD-032.md)'s search. Exposure is held fixed
 across three arms that differ only in a safety aid offered or used, and
 the arm without it did much better at post-treatment, per the abstract.
-For QUESTION-045 it is the best-known positive case; Sy et al. (2011,
+For [QUESTION-045](../questions.d/QUESTION-045.md) it is the best-known positive case; Sy et al. (2011,
 10.1016/j.brat.2011.02.005, not registered) report a failure to
 replicate the deleterious effect in claustrophobia. Not read.

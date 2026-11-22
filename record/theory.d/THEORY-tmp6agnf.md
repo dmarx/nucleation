@@ -19,8 +19,8 @@ source:
 bears_on:
 - QUESTION-045
 summary: >-
-  Smit et al. (2025), LIT-tmpuur53, read from its preprint in
-  NOTE-tmpptg2p. Within-person evidence, across 37 people, of the
+  Smit et al. (2025), [LIT-tmpuur53](../literature.d/LIT-tmpuur53.md), read from its preprint in
+  [NOTE-tmpptg2p](../notes.d/NOTE-tmpptg2p.md). Within-person evidence, across 37 people, of the
   destabilization a tipping point predicts before entry into depression,
   in a minority of those who relapsed. Proposed until replicated in
   another sample; it is not evidence of hysteresis.
@@ -32,7 +32,7 @@ summary: >-
 ## Source
 
 Smit, Helmich, Bringmann, Oldehinkel, Wichers & Snippe (2025),
-LIT-tmpuur53, read from the authors' 2022 preprint in NOTE-tmpptg2p.
+[LIT-tmpuur53](../literature.d/LIT-tmpuur53.md), read from the authors' 2022 preprint in [NOTE-tmpptg2p](../notes.d/NOTE-tmpptg2p.md).
 
 ## The account
 
@@ -50,7 +50,7 @@ recurrence, too insensitive for clinical use, and add that its absence in
 most relapses "may indicate that in the majority of patients, the
 recurrence of depressive symptoms is not a critical transition". It
 replicates across people the single-patient findings of Wichers et al.
-2016 (LIT-tmpdpj4x) and 2020.
+2016 ([LIT-tmpdpj4x](../literature.d/LIT-tmpdpj4x.md)) and 2020.
 
 ## What it does not show
 
@@ -61,8 +61,8 @@ does.
 
 ## Bearing
 
-- QUESTION-045: individual data of the nearer kind, on entry into the
+- [QUESTION-045](../questions.d/QUESTION-045.md): individual data of the nearer kind, on entry into the
   regime, not its persistence.
-- THEORY-058: individual data of the kind route 1 of its promote_when
+- [THEORY-058](THEORY-058.md): individual data of the kind route 1 of its promote_when
   names, in affect rather than symptoms and in a minority of relapses;
   whether that meets the route is the owner's call.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 (NOTE-tmpptg2p) from the authors' PsyArXiv preprint of
+  read 2026-11-22 ([NOTE-tmpptg2p](../notes.d/NOTE-tmpptg2p.md)) from the authors' PsyArXiv preprint of
   July 2022, not the version of record (CC BY, Clinical Psychological
   Science, which the Groningen repository's challenge kept from this
   client); worth reading as the first replicated-single-subject test of
@@ -57,12 +57,12 @@ summary: >-
   in negative affect preceded recurrence in about a third of those who
   relapsed (32.9% across 17 preregistered settings) and appeared in about
   a sixth of those who did not (16.2%); the group difference was
-  significant for variance and not for autocorrelation. For QUESTION-045
-  and THEORY-058, the first individual-level evidence across many people
+  significant for variance and not for autocorrelation. For [QUESTION-045](../questions.d/QUESTION-045.md)
+  and [THEORY-058](../theory.d/THEORY-058.md), the first individual-level evidence across many people
   that a transition into depression is preceded, in some, by the
   destabilization a tipping point predicts; it does not test hysteresis,
-  and its sensitivity is low. Read in NOTE-tmpptg2p; the reading is
-  THEORY-tmp6agnf.
+  and its sensitivity is low. Read in [NOTE-tmpptg2p](../notes.d/NOTE-tmpptg2p.md); the reading is
+  [THEORY-tmp6agnf](../theory.d/THEORY-tmp6agnf.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp6agnf THEORY-058 LIT-tmpdpj4x — new, Proposed or Deferred; this work's reading, the account whose promote_when it bears on, and the single-patient study it replicates -->
 
@@ -90,9 +90,9 @@ Read from the authors' 2022 preprint (osf.io/u6vdg).
 
 ## Standing in the record
 
-Filed by LEAD-032 for QUESTION-045's "individual data". It is the nearest
+Filed by [LEAD-032](../leads.d/LEAD-032.md) for [QUESTION-045](../questions.d/QUESTION-045.md)'s "individual data". It is the nearest
 the search found: within-person dynamics before a transition into
 depression, in many people. It shows a tipping-point sign in a minority,
 not hysteresis, and nothing about what keeps the depressed state up once
 entered. It replicates across 37 people the single-patient study of
-Wichers et al. 2016 (LIT-tmpdpj4x).
+Wichers et al. 2016 ([LIT-tmpdpj4x](LIT-tmpdpj4x.md)).

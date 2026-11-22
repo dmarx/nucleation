@@ -19,9 +19,9 @@ source:
 bears_on:
 - QUESTION-045
 summary: >-
-  Meckes et al. (2025), LIT-tmpds717, read in NOTE-tmprmzur. A
+  Meckes et al. (2025), [LIT-tmpds717](../literature.d/LIT-tmpds717.md), read in [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md). A
   randomized test of exposure held fixed with a safety behaviour cut or
-  kept, the design QUESTION-045 names, with a null on outcome at one
+  kept, the design [QUESTION-045](../questions.d/QUESTION-045.md) names, with a null on outcome at one
   month. Proposed until replicated beyond one session and one small
   sample; it says nothing about cutting a person's own maintaining
   safety behaviour.
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Meckes, Cole, Gee & Lancaster (2025), LIT-tmpds717, read in
-NOTE-tmprmzur.
+Meckes, Cole, Gee & Lancaster (2025), [LIT-tmpds717](../literature.d/LIT-tmpds717.md), read in
+[NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md).
 
 ## The account
 
@@ -47,22 +47,22 @@ treatment less acceptable afterwards. The authors conclude that "using
 (vs. not using) SBs during a single session of exposure generally did not
 hinder exposure therapy outcomes" and that "fading SBs did not improve
 long-term therapy outcomes". They place it beside Blakey et al. 2019
-(LIT-tmpw8nym), a four-session trial with the same null.
+([LIT-tmpw8nym](../literature.d/LIT-tmpw8nym.md)), a four-session trial with the same null.
 
 ## What it does not show
 
 That cutting a person's own, established safety behaviour makes no
 difference. The boots were new to every participant, and the authors say
 an established safety behaviour "selected by the participant" may act
-differently. Salkovskis et al. 1999 (LIT-tmplsgie) cut patients' own
+differently. Salkovskis et al. 1999 ([LIT-tmplsgie](../literature.d/LIT-tmplsgie.md)) cut patients' own
 safety behaviours and reported a difference two days later. Nor does it
 show equivalence: the null is a non-significant interaction in a sample
 powered for a medium effect.
 
 ## Bearing
 
-- QUESTION-045: evidence on its experiment, null at one month, for a
+- [QUESTION-045](../questions.d/QUESTION-045.md): evidence on its experiment, null at one month, for a
   supplied safety behaviour.
-- THEORY-058: does not meet route 2 of its promote_when, which asks for
+- [THEORY-058](THEORY-058.md): does not meet route 2 of its promote_when, which asks for
   lasting remission produced by the cut; for the reason above it does not
   refute it either.

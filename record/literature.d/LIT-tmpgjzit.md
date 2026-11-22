@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  filed 2026-11-22 by the literature search of LEAD-032
+  filed 2026-11-22 by the literature search of [LEAD-032](../leads.d/LEAD-032.md)
   (scratch/studies/lead-032/search.md, query D2_sb_reviews), not read. A
   lawful copy was located: the authors' accepted manuscript in KU Leuven's
   institutional repository Lirias,
@@ -36,12 +36,12 @@ implementations: []
 summary: >-
   Meulders, Van Daele, Volders & Vlaeyen (2016), Clinical Psychology Review
   45, 144–156. The meta-analysis of exposure given with and without safety
-  behaviour, the synthesis LEAD-032 asks for. As Meckes et al. (2025,
-  LIT-tmpds717) report it, unverified until read: 20 experiments in two
+  behaviour, the synthesis [LEAD-032](../leads.d/LEAD-032.md) asks for. As Meckes et al. (2025,
+  [LIT-tmpds717](LIT-tmpds717.md)) report it, unverified until read: 20 experiments in two
   sets, those that added safety behaviours to exposure and those that
   eliminated them, with the overall effect favouring fewer safety
   behaviours in both and significant in neither, and moderate to high
-  heterogeneity. Bears on QUESTION-045 and THEORY-058's second
+  heterogeneity. Bears on [QUESTION-045](../questions.d/QUESTION-045.md) and [THEORY-058](../theory.d/THEORY-058.md)'s second
   promote_when route.
 ---
 <!-- inactive-ok-file: THEORY-058 — Proposed; the account whose promote_when names this design -->
@@ -53,11 +53,11 @@ Meulders, Van Daele, Volders & Vlaeyen (2016), Clinical Psychology Review
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-032's search as the meta-analysis of
-the design QUESTION-045 names: the same exposure with the safety
+Registered on 2026-11-22 by [LEAD-032](../leads.d/LEAD-032.md)'s search as the meta-analysis of
+the design [QUESTION-045](../questions.d/QUESTION-045.md) names: the same exposure with the safety
 behaviour cut and with it kept. The record already cited it unregistered
-(NOTE-1128 for LIT-1491, THEORY-901, THEORY-903). Its result is known here
-only second-hand, from Meckes et al. (LIT-tmpds717, introduction): "a
+([NOTE-1128](../notes.d/NOTE-1128.md) for [LIT-1491](LIT-1491.md), [THEORY-901](../theory.d/THEORY-901.md), [THEORY-903](../theory.d/THEORY-903.md)). Its result is known here
+only second-hand, from Meckes et al. ([LIT-tmpds717](LIT-tmpds717.md), introduction): "a
 meta-analysis of 20 experiments found that the effects of safety
 behaviors on exposure therapy were moderately to highly heterogeneous",
 and "In both cases, the direction of the overall effect favored fewer

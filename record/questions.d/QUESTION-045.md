@@ -141,26 +141,26 @@ used as a stratifier, and its interaction with treatment is reported only
 as not significant. That is the nearest the trial comes to this question,
 and it is no evidence either way. The question is unchanged.
 
-## Note of 2026-11-22: the literature search of LEAD-032
+## Note of 2026-11-22: the literature search of [LEAD-032](../leads.d/LEAD-032.md)
 
-LEAD-032 searched Europe PMC for both things this question would accept
+[LEAD-032](../leads.d/LEAD-032.md) searched Europe PMC for both things this question would accept
 (scratch/studies/lead-032/search.md). Neither was found in the form
 asked for; what was found narrows both.
 
 **The experiment.** Trials that hold exposure fixed and vary only a
 safety behaviour exist, and the record now holds the main ones. The two
 with a follow-up, read or registered, found no lasting difference.
-Meckes et al. (2025), LIT-tmpds717, read in NOTE-tmprmzur
-(THEORY-tmpai05z): one 30-minute exposure for spider fear with
+Meckes et al. (2025), [LIT-tmpds717](../literature.d/LIT-tmpds717.md), read in [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md)
+([THEORY-tmpai05z](../theory.d/THEORY-tmpai05z.md)): one 30-minute exposure for spider fear with
 experimenter-supplied boots faded, kept or never worn; "no significant
 time × SB condition interactions across phobia-related outcomes" at
-post-treatment or one month. Blakey et al. (2019), LIT-tmpw8nym, four
+post-treatment or one month. Blakey et al. (2019), [LIT-tmpw8nym](../literature.d/LIT-tmpw8nym.md), four
 sessions, the same null by its abstract. The meta-analysis, Meulders et
-al. (2016), LIT-tmpgjzit, is Unfetched; as Meckes et al. report it,
+al. (2016), [LIT-tmpgjzit](../literature.d/LIT-tmpgjzit.md), is Unfetched; as Meckes et al. report it,
 effects in 20 experiments favoured fewer safety behaviours and were not
-significant. On the other side, Powers et al. (2004), LIT-tmp83n75,
+significant. On the other side, Powers et al. (2004), [LIT-tmp83n75](../literature.d/LIT-tmp83n75.md),
 reports a large post-treatment advantage for exposure without a safety
-aid, and Salkovskis et al. (1999), LIT-tmplsgie, a two-day advantage for
+aid, and Salkovskis et al. (1999), [LIT-tmplsgie](../literature.d/LIT-tmplsgie.md), a two-day advantage for
 patients who dropped their own safety behaviours.
 
 The limit is the one this question turns on. In every trial with a
@@ -168,13 +168,13 @@ follow-up the safety behaviour was supplied by the experimenter and new
 to the participant, so they test whether adding a safety behaviour
 blunts exposure, not whether cutting the person's own maintaining link
 frees them. The trials that cut patients' own safety behaviours
-(Salkovskis et al. 1999; Wells et al. 1995, LIT-tmp62x8i) measured over
+(Salkovskis et al. 1999; Wells et al. 1995, [LIT-tmp62x8i](../literature.d/LIT-tmp62x8i.md)) measured over
 days, not lasting change. The experiment asked for, the person's own
 safety behaviour cut with exposure fixed and a follow-up of months,
 was not found.
 
 **Individual data showing hysteresis.** None was found. De Jong et al.
-(2023), LIT-tmpzu3i3, read in NOTE-tmpmrw49 (THEORY-tmpan7c6), give the
+(2023), [LIT-tmpzu3i3](../literature.d/LIT-tmpzu3i3.md), read in [NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md) ([THEORY-tmpan7c6](../theory.d/THEORY-tmpan7c6.md)), give the
 test: two switching thresholds of a measured driver, one for each
 direction, estimated from one person's series. Their depression case is
 simulated, and they report the model "has not been used to investigate
@@ -182,8 +182,8 @@ hysteresis in empirical psychological time series, so far". The test
 needs the trigger measured, and seen to fall back past the level that
 brought the disorder on; that is what "outlasts its trigger" would mean
 in data. The nearest individual data are of the other signature, the
-approach to a tipping point. Smit et al. (2025), LIT-tmpuur53, read in
-NOTE-tmpptg2p (THEORY-tmp6agnf): in 37 people tapering antidepressants,
+approach to a tipping point. Smit et al. (2025), [LIT-tmpuur53](../literature.d/LIT-tmpuur53.md), read in
+[NOTE-tmpptg2p](../notes.d/NOTE-tmpptg2p.md) ([THEORY-tmp6agnf](../theory.d/THEORY-tmp6agnf.md)): in 37 people tapering antidepressants,
 rising variance or autocorrelation in momentary affect preceded
 recurrence in about a third of those who relapsed and appeared in about
 a sixth of those who did not. That bears on entry into the regime, not
