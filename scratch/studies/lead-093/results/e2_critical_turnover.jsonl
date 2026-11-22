@@ -1,0 +1,20 @@
+{"key": "beta=0.005", "param": "beta", "value": 0.005, "kT_crit": 0.06130746021866798}
+{"key": "beta=0.01", "param": "beta", "value": 0.01, "kT_crit": 0.11111917749047279}
+{"key": "beta=0.02", "param": "beta", "value": 0.02, "kT_crit": 0.19131644740700718}
+{"key": "beta=0.04", "param": "beta", "value": 0.04, "kT_crit": 0.31168920382857324}
+{"key": "beta=0.08", "param": "beta", "value": 0.08, "kT_crit": 0.48342381492257114}
+{"key": "eps=0.0", "param": "eps", "value": 0.0, "kT_crit": 0.19131644740700718}
+{"key": "eps=0.1", "param": "eps", "value": 0.1, "kT_crit": 0.17678316459059712}
+{"key": "eps=0.2", "param": "eps", "value": 0.2, "kT_crit": 0.16159098401665686}
+{"key": "eps=0.3", "param": "eps", "value": 0.3, "kT_crit": 0.14565530940890317}
+{"key": "eps=0.4", "param": "eps", "value": 0.4, "kT_crit": 0.1288736720383167}
+{"key": "eps=0.5", "param": "eps", "value": 0.5, "kT_crit": 0.11111917749047279}
+{"key": "J=0.7", "param": "J", "value": 0.7, "kT_crit": 0.10194941774010657}
+{"key": "J=0.8", "param": "J", "value": 0.8, "kT_crit": 0.12926448300480844}
+{"key": "J=1.0", "param": "J", "value": 1.0, "kT_crit": 0.19131644740700718}
+{"key": "J=1.5", "param": "J", "value": 1.5, "kT_crit": 0.38437349036335944}
+{"key": "J=2.0", "param": "J", "value": 2.0, "kT_crit": 0.6236475045979024}
+{"key": "J=4.0", "param": "J", "value": 4.0, "kT_crit": 1.9372891637682914}
+{"key": "crit_eps_at_base", "param": "eps", "crit": 0.5596559572219849}
+{"key": "crit_J_at_base", "param": "J", "crit": 0.6924740934371946}
+{"key": "crit_beta_at_base", "param": "beta", "crit": 0.00880716094970703}

@@ -17,6 +17,27 @@
   CASE-265 (mutual maintenance c<->r on standing supply), CASE-tmplsvee (scaffold forms
   a nucleus, withdrawn), CASE-tmpfktyl (Life block and eater repair), CLAIM-604.
 
+- Model `closing.py` (produce arm, repair arm, defective nuclei eps, generation-resolved
+  version, Gillespie version); 11 tests pass (`test_closing.py`).
+- Experiments `experiments.py` e1-e9, results per item in `results/*.jsonl`. e2 done.
+  e1, e3-e8 running (python PID 31628, wrapper 31626); e9 running (python PID 31790).
+
+## Choices made
+
+- Built a new kinetic model rather than literally extending CASE-190's equations or
+  using Life eaters: CASE-190's equations are not all stated in the record (A18's
+  fuel demand is missing), and the Life eater repairs only the strike it is shaped
+  for (CASE-tmpfktyl) and has no turnover rate to vary. The model closes CASE-190's
+  three named gaps (two-way coupling, succession, a non-stipulated teacher).
+- Base parameters J=1, delta=0.1, a0=1e-6, a1=0.1, K=2, d=0.1, beta=0.02, kT=0.1:
+  chosen so the base point is bistable (founding needed) with a margin of about 2
+  in turnover before closure is lost. Illustrative, invented.
+- Formation is cooperative in the teacher (Hill 2) so that a founding is needed
+  (nucleation); with linear templating the loop self-ignites from any seed.
+- "Closed" = a stable maintained state exists with sigma = 0 and N >= 50x the
+  spontaneous background; "closed at time t" = withdrawing sigma at t for good leaves
+  the nucleus maintained.
+
 ## Next
 
-- Read neighbours, design model, write code + tests, run, file.
+- Collect results, write README, file CASE + CLAIMs + notes.
