@@ -31,12 +31,34 @@ open effort-discounting dataset with numpy/scipy, file as a CASE
 - Step 1: confirmed target not held.
 - Branch cut from origin/staging; PROGRESS.md pushed.
 
+## Search done (Europe PMC)
+
+Closest published EVC accumulator fits found (open):
+- Leng, Yee, Ritz, Shenhav 2021, PLOS Comp Biol, PMC8746743, CC BY — EVC
+  model fit to Stroop; incentives adjust drift rate (accumulator) and
+  threshold. Shows intensity RISING with payoff — the payoff half of
+  THEORY-070 promote_when (1), not the cost half.
+- Masís Obando, Musslick, Cohen 2025, PNAS, PMC12595486, CC BY-NC-ND — more
+  control when task is learnable (benefit side), not cost side.
+- Grahek, Leng, Musslick, Shenhav 2026, Psych Review, PMC13023295 — NOT open
+  access; stop.
+
+None plainly reports a fit in which control intensity FALLS as the cost of
+control rises, model-compared against a no-cost model, on verifiable open
+data. The direct match to "intensity falls with cost" is effort discounting,
+which the lead suggests.
+
+## Choice made (route)
+
+Route: make the fit myself on an open effort-discounting dataset, as the lead
+provides for ("Otherwise fit ... yourself"). Reason: no found published fit
+delivers the cost-side direction as its demonstrated, model-compared result;
+effort discounting is where chosen control intensity falling with its cost is
+the measured result, and the lead names it. The found incentive-side fits are
+noted on the lead as the complementary (payoff) half.
+
 ## Next
 
-- Search Europe PMC + arXiv for a published EVC fit where control intensity
-  falls with cost.
-- Decide: read-and-file a found fit, or fit it myself to an open dataset.
-
-## Choices made
-
-- (pending) which route — reading vs. own fit — recorded here as decided.
+- Find a concrete lawfully-open effort-discounting dataset (OSF/GitHub).
+- Fit EVC effort-cost model with numpy/scipy; compare to no-cost model;
+  show chosen control intensity vs. cost. File as CASE + Proposed CLAIM.
