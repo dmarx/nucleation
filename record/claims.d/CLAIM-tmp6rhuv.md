@@ -1,81 +1,92 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected. A conceded one is recorded by its
-# target's revision, and keeps the status its own evidence gives it (ADR-059).
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Modular addition coupling forecast'
-
+title: 'In small networks trained on addition modulo a prime, the share of the network''s input-output Fourier energy on the couplings the group''s selection rule names, measured early in training, forecasts when the network generalizes under a training intervention it was not fitted on, better than Fourier sparsity, test-set performance and the training kernel, and better than the same number of couplings chosen at random; it does not foresee whether the network generalizes at all'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed 2026-11-22 by the assistant from the run of LEAD-172
+    (CASE-tmpb4hg0), as a delegated worker.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
-warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
+warrant: empirical
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A rerun of the same comparison, with the same two-parameter forecasts
+  fitted on one setting of a training intervention and scored on settings
+  it was not fitted on, finds the selection-rule coupling no better than
+  Fourier sparsity or test loss, or no better than random coupling sets of
+  the same size, on held-out arms; or finds that its advantage disappears
+  in a transformer with attention, at another prime or width, or under
+  another intervention family (data fraction, learning rate, optimizer);
+  or finds that the advantage comes from the measure reading test-set
+  outputs, in that a weights-only form of the same coupling loses it. A
+  forecast that fails only on runs that never generalize does not defeat
+  the claim, which excludes them.
 tags:
-- agency
-
+- representation-learning
+- learning-theory
+- anthology-candidate
 date: '2026-11-22'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
-- will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# Before filing a counter, ask: does it say the conclusion is false, or that
-# something does not show it? The second is not a claim but an ARG from the
-# premises to the conclusion, Rejected or Proposed (ADR-061).
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+- learned-structure
+grounds:
+- CASE-tmpb4hg0
+bears_on:
+- QUESTION-275
+corroborates:
+- CLAIM-698
+summary: >-
+  What the run of CASE-tmpb4hg0 finds, stated so that it can fail. At step 250 or 500 of
+  training, the logits' share of Fourier energy on the p − 1 triads
+  (k, k, −k) forecast log10 of the generalization step on 8 held-out
+  weight-decay arms with RMSE 0.13 to 0.15, against 0.19 to 0.20 for
+  Fourier sparsity, 0.24 to 0.40 for test loss and accuracy, 0.19 to 0.35
+  for kernel alignment, and a median of 0.34 for 20 random triad sets of
+  the same size, none better. It foresaw none of the 5 arms that did not
+  generalize. Evidence for CLAIM-698's criterion in its easiest setting,
+  where the task's group supplies the modes. The wording is the
+  assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpb4hg0 CLAIM-698 CASE-272 — new or Proposed; the run this claim reports, the thesis it bears on and the design it reduces -->
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmp6rhuv: Modular addition coupling forecast
+# CLAIM-tmp6rhuv: In small networks trained on addition modulo a prime, the share of the network's input-output Fourier energy on the couplings the group's selection rule names, measured early in training, forecasts when the network generalizes under a training intervention it was not fitted on, better than Fourier sparsity, test-set performance and the training kernel, and better than the same number of couplings chosen at random; it does not foresee whether the network generalizes at all
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+In the setting of CASE-tmpb4hg0, three things hold.
 
-## What it does not say
+1. **Which couplings matter, not how many.** The selection rule
+   χ_k(a)χ_k(b) = χ_k(a + b) names p − 1 couplings from input modes to
+   output modes. The network's early share of energy on them forecasts its
+   generalization time on held-out arms; random sets of p − 1 couplings
+   forecast no better than a constant. This is the null at equal edge
+   budget that QUESTION-275 asks for.
+2. **It out-forecasts the feature-level baseline.** Fourier sparsity of
+   the embeddings, the progress measure for this task, forecasts less well
+   on the same held-out arms (RMSE 0.20 against 0.13 at step 500; C2 lower
+   in 99.6% of paired bootstrap resamples). On the fit arms themselves the
+   two are level, so the difference appears only under the intervention
+   the forecasts were not fitted on.
+3. **It forecasts timing, not completion.** Under weight decay 2.0 the
+   coupling was high early, and test accuracy rose early, stalled below
+   0.95 and never reached it. The claim covers runs that generalize.
 
-The stronger reading it invites and does not support.
+## Why it is empirical and narrow
+
+One task, one prime (37), one width, one attention-free architecture,
+one intervention family, 25 runs. The modes are given by the task's group,
+so this is the easy case of CLAIM-698: it does not show that modes can be
+found where no symmetry supplies them (CASE-272's limit). The coupling is
+measured on the network's outputs over all inputs, test inputs included;
+it beats the test-set baselines, but it is not a forecast from weights
+alone. No held-out ablation and no circuit-attribution or
+parameter-overlap comparator was run.
+
+## What it changes
+
+CLAIM-698 had no executed test; this is one, in its easiest setting, and
+it comes out on the claim's side on two of its comparators (feature-level
+and random couplings) and silent on the others. The training kernel's top
+eigenspace, which CASE-272 also proposed to track, stayed at chance
+alignment with the task's functions throughout, so in this network the
+coupling description does the work and the kernel description does not.
