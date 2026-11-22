@@ -216,3 +216,74 @@ exponents for these mechanisms (α = 1 − a/b, α = 1 + 1/γ, 3/2 for first
 return, α = 2 + (k0 + c)/m for the general Yule process) and confirms that
 least-squares slopes are biased where the maximum-likelihood estimate is
 not.
+
+## Step 3: recheck (2026-11-22)
+
+Grepped record/ for Yule, Simon, Miller/random typing, Reed and Hughes,
+highly optimized tolerance, coherent noise/Sneppen, record dynamics/Sibani,
+Drossel/forest fire, 80/20/Lorenz, MLE exponent/x_min/Hill, gambler's ruin/
+first return, percolation, Zipf, Pareto, reflecting boundary/Kesten,
+lognormal, Gibrat, Matthew effect/cumulative advantage, scale-free,
+Sornette. Only CLAIM-795, CLAIM-815 and LIT-2976 cite LIT-2976. Held
+entries the first search missed, with bearing:
+
+- CLAIM-817 (cumulative advantage gives a power law only with linear
+  attachment plus continual entry): **supports** the linear-plus-entry
+  half. Newman's Yule process founds one new genus per step (entry) and
+  attaches in proportion to k (or k + c), giving α = 2 + (k0 + c)/m
+  (§IV.D, pp. 17-19). Leaves open sublinear and superlinear kernels.
+- CLAIM-830 (what separates linear attachment from Gibrat growth is entry):
+  **supports** the entry point implicitly (entry is built into every Yule
+  variant Newman gives) and gives a **terminological contrast** worth
+  noting: Newman, after Simon, calls the rich-get-richer rule itself "the
+  Gibrat principle" (p. 18), the very name CLAIM-830 reserves for
+  lognormal proportional growth.
+- CLAIM-824 (multiplicative growth gives a lognormal; with a floor, a power
+  law): **supports** both halves qualitatively (§IV.G, p. 24, quote in
+  result 11, citing refs 67-69). Gives no exponent condition (no
+  E[A^κ] = 1).
+- QUESTION-505 (what fixes the exponent): **supports** the "partial
+  pattern" table. Newman's exponents are each a ratio: α = 1 − a/b
+  (rates), α = 1 + 1/γ (a power), survival exponent (m + k0 + c)/m for
+  Yule, the walk's 1/2 survival exponent, and for Miller
+  α − 1 = ln m/(ln m − ln(1 − q_s)). Candidate rows for the table: inverse
+  powers (1/γ) and random typing.
+- LIT-3007 (Reed and Hughes, Deferred): Newman restates its mechanism
+  (§IV.A, p. 14, his ref. 43) in two sentences; a neighbour description,
+  not a stand-in for reading it.
+- LIT-2987 (Clauset, Shalizi and Newman, Deferred): Newman 2005 is its
+  predecessor; the MLE of Eq. 5 is the same estimator, without x_min
+  selection or tests.
+- LIT-3003 / THEORY-2150 (Mitzenmacher, read): Newman cites it as a
+  companion review (ref. 19); both have Miller, Yule/Simon, lognormal
+  versus power law. Newman adds percolation, SOC, HOT, coherent noise,
+  inverses, record dynamics; Mitzenmacher adds Mandelbrot's optimization
+  and the double Pareto. Parallel.
+- LIT-2992 (Bak, Tang and Wiesenfeld, Deferred): cited by Newman for SOC
+  (ref. 57); he illustrates SOC with the forest-fire model instead.
+- LEAD-211 (track the cutoff): **background**. Newman notes finite-size
+  cutoffs at criticality (footnote 6, p. 6; Fig. 14) and the forest-fire
+  cutoff at the lattice size (p. 22), without using the cutoff as a test.
+- CLAIM-769 / THEORY-2131 (mixtures of rates): **leaves open**; not in the
+  review.
+- THEORY-863 / NOTE-1052 (Arthur's adoption walk with absorbing barriers,
+  gambler's ruin): parallel only; Newman's gambler's ruin is the lifetime,
+  Arthur's the absorption probability.
+- NOTE-1394 (Bak-Sneppen) and NOTE-124 (Drossel as a philosopher): name
+  hits only, no bearing.
+
+## Step 4: report
+
+Read in full from arXiv. No obstacle met; no other copy needed; no
+neighbour read (the work itself was reached). No outside service received
+an email address (arXiv PDF and arXiv API, no contact parameters). Other
+works quoted: none; the journal reference and DOI come from the arXiv API.
+
+Filer's points:
+1. LIT-2976 status: read (arXiv v3), so Deferred can move to Read with a
+   NOTE and the THEORY above.
+2. Correct LIT-2976's "mixtures" and "first passage" (see the verdict).
+3. CLAIM-795: Newman grounds items 2, 3, 6, 7 only; consider naming that in
+   the body. CLAIM-815's "is unread" line goes stale.
+4. CLAIM-830 might note Newman/Simon's use of "Gibrat principle" for
+   attachment.
