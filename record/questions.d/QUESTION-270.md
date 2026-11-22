@@ -275,10 +275,10 @@ No status changes.
 
 <!-- inactive-ok-file: CASE-tmp9e5vf CLAIM-tmpphfb4 — new, filed by LEAD-017 -->
 
-LEAD-017 built the three organizations of the note of 2026-11-04, read as
+[LEAD-017](../leads.d/LEAD-017.md) built the three organizations of the note of 2026-11-04, read as
 denied uptake, deliberate accommodation under a tolerance widened by
 compensation, and evaluative isolation, with pursuit calibrated to 0.6 in
-each and liking declining progressively (CASE-tmp9e5vf). Registration
+each and liking declining progressively ([CASE-tmp9e5vf](../cases.d/CASE-tmp9e5vf.md)). Registration
 is a gain the generator sets and the analyst never reads. The measure
 perturbs the consummatory evaluation at random and asks whether the
 organization's record, mixed and noisy, responds beyond the outcome, the
@@ -292,7 +292,7 @@ action and the pursuing process's learned value.
   perturbation in 2%. A record with no covariates for the outcome decoded
   the assay in 24% of unregistered agents.
 - An evaluation that steers pursuit directly, bypassing the record, was
-  read as unregistered with authority: CLAIM-403's rungs taken in the
+  read as unregistered with authority: [CLAIM-403](../claims.d/CLAIM-403.md)'s rungs taken in the
   other order.
 - Weak registration was missed in 60% of agents. The endorsement relation
   was told apart only weakly, by a probe of pursuit (43% of accommodating
@@ -300,8 +300,8 @@ action and the pursuing process's learned value.
 
 So the second requirement under "What would answer it", registration
 measured apart from the experimenter's setting, is met within a
-stipulated synthetic class (CLAIM-tmpphfb4). The measure needs the other
+stipulated synthetic class ([CLAIM-tmpphfb4](../claims.d/CLAIM-tmpphfb4.md)). The measure needs the other
 routes into the record named, and a probe of the evaluating process. No
 world's authority shapes its evidence, and the epistemic instance is not
-touched. No Active claim or reading answers the question (ADR-049),
+touched. No Active claim or reading answers the question ([ADR-049](../decisions.d/ADR-049.md)),
 and nothing is split from it. The question is unchanged.

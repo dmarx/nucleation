@@ -21,9 +21,9 @@ bears_on:
 line:
 - will-organization
 summary: >-
-  LEAD-017 asked for A13's three organizations of matched behaviour and
+  [LEAD-017](../leads.d/LEAD-017.md) asked for A13's three organizations of matched behaviour and
   different endorsement relations, and a measure of registration that does
-  not read the experimenter's setting (QUESTION-270's second
+  not read the experimenter's setting ([QUESTION-270](../questions.d/QUESTION-270.md)'s second
   requirement). In small numpy simulations an outcome's hedonic value
   declines progressively from +1 to −0.8. A consummatory process H
   evaluates it, and pursuit P keeps choosing it at a calibrated rate of 0.6
@@ -52,7 +52,7 @@ summary: >-
 
 ## The case
 
-QUESTION-270's note of 2026-10-26 (later) found that the lab's v2.7
+[QUESTION-270](../questions.d/QUESTION-270.md)'s note of 2026-10-26 (later) found that the lab's v2.7
 sets registration and authority at each step, so "registration is not
 measured apart from the experimenter's setting". Its note of 2026-11-04
 records A13's proposed case, "three organizations with matched behavior
@@ -185,7 +185,7 @@ identically.
   accommodation from denial barely above chance.
 - The tolerance is revised by a fixed rule of compensation, not learned by
   H, and no organization's authority shapes its evidence. The epistemic
-  instance of QUESTION-270 is not touched.
+  instance of [QUESTION-270](../questions.d/QUESTION-270.md) is not touched.
 
 ## Alternatives
 
@@ -205,8 +205,8 @@ not on the record.
 
 ## Related
 
-- CLAIM-tmpphfb4, the finding.
-- CLAIM-403: recognition and uptake as separable rungs. The direct-
+- [CLAIM-tmpphfb4](../claims.d/CLAIM-tmpphfb4.md), the finding.
+- [CLAIM-403](../claims.d/CLAIM-403.md): recognition and uptake as separable rungs. The direct-
   authority world is the converse case, influence without registration.
-- CLAIM-552: a tolerance as a criterion for conferring influence,
+- [CLAIM-552](../claims.d/CLAIM-552.md): a tolerance as a criterion for conferring influence,
   which the accommodating organization implements for H over P.

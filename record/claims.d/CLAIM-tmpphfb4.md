@@ -33,9 +33,9 @@ bears_on:
 grounds:
 - CASE-tmp9e5vf
 summary: >-
-  QUESTION-270's second requirement is that an organization's
+  [QUESTION-270](../questions.d/QUESTION-270.md)'s second requirement is that an organization's
   registration of an evaluation be measured apart from the experimenter's
-  setting. In CASE-tmp9e5vf it was. The measure perturbs the evaluating
+  setting. In [CASE-tmp9e5vf](../cases.d/CASE-tmp9e5vf.md) it was. The measure perturbs the evaluating
   process at random and asks whether the organization's record responds,
   with the outcome, the action and the pursuing process's learned value
   held fixed. On held-out agents it told registered from unregistered
@@ -52,16 +52,16 @@ summary: >-
 
 ## The claim
 
-Registration, in CLAIM-403's ladder, sits between access and uptake: the
+Registration, in [CLAIM-403](CLAIM-403.md)'s ladder, sits between access and uptake: the
 organization holds the evaluation in what its processes and reports read
-from. QUESTION-270 asks for it to be measured "separately (its
+from. [QUESTION-270](../questions.d/QUESTION-270.md) asks for it to be measured "separately (its
 self-model, its record, its reports)", and its note of 2026-10-26 (later)
 found that the constructions so far set it instead.
 
 The claim is that registration is measurable as a dependence: the
 record's response to the evaluation itself, holding fixed what else could
 bring the same information in. Two conditions do the work, and
-CASE-tmp9e5vf shows each is needed.
+[CASE-tmp9e5vf](../cases.d/CASE-tmp9e5vf.md) shows each is needed.
 
 - **Hold the other routes fixed.** The record carries the outcome, which
   drives the evaluation. Without covariates for it, the record decodes the
