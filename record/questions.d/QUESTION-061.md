@@ -63,7 +63,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-003 — Proposed; the compartmented-access claim this question bears on, its line reopened on 2026-10-23 -->
 <!-- inactive-ok-file: THEORY-240 — Proposed; readings listed with their limits -->
 <!-- inactive-ok-file: LIT-tmpblnvk THEORY-tmpb3deq THEORY-tmpbu9we — Proposed or Unfetched; readings and registrations of LEAD-112, cited in the note of 2026-11-22 -->
-<!-- inactive-ok-file: CASE-tmpdv5tm CLAIM-tmppxyo3 — the executed study and finding of LEAD-134, cited in the note of 2026-11-22 on the third quantity (new; CLAIM-tmppxyo3 Proposed) -->
+<!-- inactive-ok-file: CASE-tmpdv5tm — the executed study of LEAD-134, cited in the note of 2026-11-22 on the third quantity (new) -->
 
 # QUESTION-061: In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?
 

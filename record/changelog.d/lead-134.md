@@ -1,6 +1,6 @@
 ### Added
 
-- CASE-tmpdv5tm (Active, executed-study, variant_of CASE-114), the build
+- CASE-tmpdv5tm (Proposed, executed-study, variant_of CASE-114), the build
   LEAD-134 asks for: CASE-114's "imagined owner" in numpy, with an accurate
   and a centralized self-model matched in parameter count and both
   reconstructing the aggregate outcome exactly, so the centralized model is

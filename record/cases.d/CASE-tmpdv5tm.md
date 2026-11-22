@@ -1,5 +1,5 @@
 ---
-status: Active
+status: Proposed
 title: 'The imagined owner, built and run: a distributed-control plant whose self-model is either accurate about the division of labour or attributes control to one centralized owner; with the two self-models matched in parameters and reconstructing the aggregate outcome exactly, the centralized one still names the wrong component as the cause on about four errors in five, spreads blame toward the owner''s global command, and, driving governance, strips more legitimate gain from innocent components to cut the same errors'
 version: 1
 history:
