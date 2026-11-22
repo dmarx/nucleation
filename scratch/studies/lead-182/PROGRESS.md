@@ -9,25 +9,23 @@
 2. If none: write the design: signalling-robust estimators, outcome coding fixed in advance, power analysis by simulation (the lead's method includes `empirical`; the study itself is not run).
 3. File: a CASE (proposed-study) for the design, a CASE (executed-study) for the power simulation, readings per read-and-file 5-9, a dated note on LEAD-182, a changelog fragment.
 
-## Done
+## Done (all pushed)
 
 - search.md: Europe PMC and arXiv searched; OpenAlex refused (rate limit, no key; stopped). No powered CbD test on pragmatic judgements found.
-- Read Lo, Sadrzadeh and Mansfield 2023 (arXiv 2308.16498): LIT-tmpgkx6w, NOTE-tmplr2g0, THEORY-tmpdcw35.
-- Bruza, Lee and Hoyte 2025 (faces, CbD): Europe PMC fullTextXML returned HTTP 500, MDPI PDF 403, PMC page reCAPTCHA. Stopped; to file as Unfetched (LIT-tmpj8zjs).
-- cbd.py (estimators), test_cbd.py (14 tests pass), power.py (grid, JSONL resume).
-- Full power run started 2026-11-22 (184 cells, 800 reps, 799 bootstrap resamples; ~4 s a cell).
+- Read Lo, Sadrzadeh and Mansfield 2023: LIT-tmpgkx6w, NOTE-tmplr2g0, THEORY-tmpdcw35 (corroborates CLAIM-325, bears_on QUESTION-001).
+- Registered LIT-tmpj8zjs (Bruza 2025, Unfetched: Europe PMC 500, MDPI 403, PMC reCAPTCHA), LIT-tmp43x53 (Snow Queen, Deferred), LIT-tmptblig (garden-path, Deferred).
+- cbd.py, test_cbd.py (15 pass), power.py -> results.jsonl (184 cells), absence.py -> absence.jsonl (144 cells), summary.md, README.md.
+- CASE-tmpjp6vg (executed-study), CASE-tmpl2va4 (proposed-study), CLAIM-tmpalxab (plug-in signalling bias), CLAIM-tmpu482h (pooling creates CbD contextuality).
+- Dated notes: LEAD-182 (+ operationalized_in CASE-tmpl2va4), CASE-053, CLAIM-325, CLAIM-009, CLAIM-105.
+- Changelog fragment record/changelog.d/lead-182.md.
 
 ## Choices made
 
-- Rank-4 cyclic (Bell-CHSH) layout, between subjects, two free binary answers per respondent: keeps Lo et al.'s layout but elicits each pronoun's answer, so signalling is observed and discounted, not designed away.
-- Statistic: CbD Delta_C with the odd sign pattern fixed in advance (alternatives simulated: maximum over patterns; one-SE soft-thresholded signalling; Wald).
-- Inference: percentile bootstrap within contexts, one-sided 0.05; eight items Bonferroni as a variant.
-- Not registered: Dzhafarov and Cervantes 2026 (levels of joint distributions; a cyclic system's contexts are pairs, so it adds nothing to this design).
+- Rank-4 cyclic layout, between subjects, two free binary answers: signalling observed, not designed away.
+- Statistic: CbD Delta_C, odd sign pattern fixed from a pilot. Detection by the plug-in statistic (valid, conservative); absence only by the Bonferroni bound (plug-in and soft-thresholded absence are invalid in simulation).
+- Soft-thresholded statistic rejected (size up to 0.62).
+- Reads: one of three allowed (the others were not reachable or not needed).
 
 ## Next
 
-- Register LIT-tmpj8zjs (Bruza, Unfetched), LIT-tmp43x53 (Snow Queen, Deferred), LIT-tmptblig (garden-path, Deferred).
-- When the run ends: summarise results (summary.md), README.md.
-- File CASE-tmpl2va4 (proposed-study design), CASE-tmpjp6vg (executed-study power simulation), CLAIM-tmpu482h (pooling counterbalanced cells can create CbD contextuality), CLAIM-tmpalxab (plug-in signalling bias and the sample size it costs).
-- Dated notes: LEAD-182 (+ operationalized_in), CASE-053, CLAIM-325, CLAIM-009, CLAIM-105.
-- Changelog fragment record/changelog.d/lead-182.md.
+- Report to the lead (no PR; the lead opens it).

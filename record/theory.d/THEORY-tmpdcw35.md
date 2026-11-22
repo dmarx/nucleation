@@ -16,6 +16,10 @@ tags:
 date: '2026-11-22'
 source:
 - LIT-tmpgkx6w
+corroborates:
+- CLAIM-325
+bears_on:
+- QUESTION-001
 summary: >-
   Lo, Sadrzadeh and Mansfield (2023), LIT-tmpgkx6w, read in NOTE-tmplr2g0.
   The construction is theirs; that the response format leaves the marginals

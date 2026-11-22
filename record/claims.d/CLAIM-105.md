@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpukbg3
 title: 'In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-10'
@@ -48,6 +48,12 @@ history:
     changes counted beyond sampling error. 'What the reading of the
     contextual fraction implies' gives the undefinedness. No other
     change.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    A dated note says what the "signalling estimator with bias correction"
+    of the note of 2026-10-29 costs, from LEAD-182's simulation
+    (CLAIM-tmpalxab, CASE-tmpjp6vg). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -81,6 +87,7 @@ complements:
 bears_on:
 - QUESTION-004
 ---
+<!-- inactive-ok-file: CLAIM-tmpalxab CASE-tmpjp6vg CASE-tmpl2va4 — new; filed by LEAD-182 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -217,3 +224,18 @@ changes beyond sampling error, which needs a signalling estimator with bias
 correction and a stated sampling error, and [CLAIM-235](CLAIM-235.md) finds none in the
 line. [CASE-053](../cases.d/CASE-053.md) documents that no adequately powered CbD test on pragmatic
 judgements has been run.
+
+## Note of 2026-11-22: what the signalling estimator costs
+
+The defeat condition counts changes in CbD contextuality "beyond
+sampling error", and the note of 2026-10-29 says that needs a signalling
+estimator with bias correction. LEAD-182's simulation (CASE-tmpjp6vg)
+finds the plug-in estimator biased upward when true signalling is small,
+by about 4·√(2/π)·√(2/n) when there is none, and the bias cuts opposite
+ways for the two verdicts (CLAIM-tmpalxab). A test that a step created
+contextuality can use it and stay valid; a test that a step left
+contextuality unchanged cannot, and needs a conservative bound. So a
+chain study testing this condition would need the conservative bound on
+the "kept" side, and samples in the thousands a context. CASE-tmpl2va4
+is the single-scenario design such a study would run on each side of a
+step.

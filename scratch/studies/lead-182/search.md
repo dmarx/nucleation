@@ -53,5 +53,17 @@ No powered CbD test on human pragmatic judgements was found. Since CASE-053:
 - one method paper, Dzhafarov and Cervantes 2026, on degrees of
   contextuality.
 
+Registered: LIT-tmpgkx6w (Lo et al. 2023, read), LIT-tmpj8zjs (Bruza et
+al. 2025), LIT-tmp43x53 (Snow Queen, which CASE-053 had read but the record
+held no entry for), LIT-tmptblig (garden-path). Not registered:
+Dzhafarov and Cervantes 2026 (2603.26692), on contextuality at levels of
+joint distributions; a cyclic system's contexts are pairs, so it adds
+nothing to this design. Aerts et al. 2026 and its reply, on word
+statistics; Kumar et al. 2026 and Lo et al. 2024, on language models.
+
+Copies sought for Bruza et al. (2026-11-22), each tried once:
+Europe PMC `PMC12386047/fullTextXML` returned an HTTP 500 error page; the
+MDPI PDF returned 403; the PMC article page served a reCAPTCHA. Stopped.
+
 The check is limited: OpenAlex was refused, so the coverage of journals
 outside Europe PMC's index and arXiv rests on CASE-053's earlier search.
