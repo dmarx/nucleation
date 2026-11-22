@@ -10,9 +10,10 @@ import sys
 
 import numpy as np
 
-import bound as B
-
 HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)   # python3 -I leaves the script's directory off the path
+import bound as B  # noqa: E402
+
 RES = os.path.join(HERE, "results")
 os.makedirs(RES, exist_ok=True)
 DELTAS = [0.3, 0.1, 0.03, 0.01, 1e-3, 1e-4, 1e-6, 1e-9, 1e-12]
