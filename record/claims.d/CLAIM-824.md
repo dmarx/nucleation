@@ -39,6 +39,8 @@ summary: >-
 bears_on:
 - QUESTION-505
 ---
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: TERM-tmpg1vx2 — Proposed; the term filed on the name Gibrat -->
 <!-- inactive-ok-file: LIT-3005 — Deferred; registered from this exchange and not read -->
 <!-- inactive-ok-file: CLAIM-830 CLAIM-795 CLAIM-803 THEORY-2150 ARG-140 — Proposed or new; claims filed with this one from the same exchange, and the reading and argument of 2026-11-21 -->
 
@@ -140,3 +142,30 @@ So [LIT-3003](../literature.d/LIT-3003.md) leaves this claim's `grounds` and [TH
 `corroborates` it ([ARG-140](../arguments.d/ARG-140.md)). The Kesten half still rests on Kesten
 ([LIT-3005](../literature.d/LIT-3005.md)), unread, and the "What it does not say" caveat on the
 conditions stands. Status unchanged.
+
+## Note of 2026-11-22: Newman, read
+
+Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is THEORY-tmp6jdas) **supports both halves qualitatively**. Products of random numbers
+give a lognormal that can look straight on log scales over orders of
+magnitude, and "random multiplication processes can also generate perfect
+power-law distributions with only a slight modification: if there is a
+lower bound on the value that the product of a set of numbers is allowed
+to take" (§IV.G, p. 24, citing Sornette and Cont, Sornette, and Gabaix).
+It gives no exponent condition (no E[A^κ] = 1). THEORY-tmp6jdas
+`corroborates` the claim. On the name, see TERM-tmpg1vx2 and the note of
+this date on CLAIM-830.
+
+## Note of 2026-11-22: Clauset, Shalizi and Newman, read
+
+Clauset, Shalizi and Newman (LIT-2987, read in NOTE-tmphbwdu; the reading is THEORY-tmpw4qgu) **qualifies the claim's empirical reach**. At realistic n the
+lognormal and the power-law tail are "very closely equal" (p. 26) and the
+lognormal is excluded for one data set of 24, so a floor has to be read
+from the dynamics, not from the fitted cross-section; this is CLAIM-803's
+demand for dynamics. The US-cities row is in the note of this date on
+QUESTION-506. No edge.
+
+## Note of 2026-11-22: Broido and Clauset, read
+
+Broido and Clauset (LIT-2963, read in NOTE-tmpleyjh; the reading is THEORY-tmphcnj3): **a parallel**. Lognormal-like degree tails are common, and the paper
+names neither Gibrat nor multiplicative growth. No edge. Status
+unchanged.

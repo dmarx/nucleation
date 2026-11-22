@@ -32,6 +32,7 @@ summary: >-
   mechanism is known. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-829 CLAIM-803 CLAIM-846 CLAIM-850 — filed from the same exchange on 2026-11-21, Proposed or Open -->
 
 # LEAD-209: Write and try a protocol that reads which mechanism maintains an observed power law from how its cutoff, its rescaled distributions, its dynamics and its response to a symmetry-breaking field behave
@@ -88,3 +89,13 @@ told apart by any row, that pair goes into [CLAIM-841](../claims.d/CLAIM-841.md)
 **Cost.** A few days of simulation and writing; no outside data. The
 trajectory-level rows answer A24 §10's proposal of a "universality of
 histories" for these cases only.
+
+## Note of 2026-11-22: Clauset, Shalizi and Newman, read
+
+**Method** (LIT-2987, NOTE-tmphbwdu, THEORY-tmpw4qgu). The protocol's
+first step can use their nested likelihood-ratio test of a pure power law
+against one with an exponential cutoff (§5.2, Tables 6.2–6.3), which
+detects a cutoff in one sample; the cutoff form is "clearly favored" for
+fires, flares, earthquakes and web hits (p. 26). The paper has nothing on
+how a cutoff scales with system size, which is the protocol's own
+step.

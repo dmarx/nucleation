@@ -40,6 +40,7 @@ summary: >-
   alternatives, [CLAIM-851](CLAIM-851.md) and [CLAIM-831](CLAIM-831.md). The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 date: '2026-11-21'
 ---
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-797 CLAIM-800 CLAIM-818 CLAIM-841 CLAIM-803 CLAIM-851 CLAIM-831 — Proposed or new; filed 2026-11-21 -->
 
 # CLAIM-821: Evidence that a system has learned a distinction certifies it only when scored against what the same measure shows with no learning, a null; a measure read without its null cannot certify
@@ -58,3 +59,13 @@ date: '2026-11-21'
 **Admission ([ADR-075](../decisions.d/ADR-075.md)).** The claim's premises are claims, so it passes only if it adds something. It passes by a *separating case*. Take a measure whose every premise holds, for example a high-dimensional representation whose measured distances are nearly equal. Read without a null, that is taken as evidence of learned uniformity. With the null, it is what any random embedding of that width shows. [CLAIM-402](CLAIM-402.md) holds and is silent: the evidence did not pass through the system's categories. [CLAIM-797](CLAIM-797.md) holds and is silent on certification. The claim says the reading certifies nothing, which neither premise says.
 
 The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-22: Clauset, Shalizi and Newman, read
+
+Clauset, Shalizi and Newman (LIT-2987, read in NOTE-tmphbwdu; the reading is THEORY-tmpw4qgu): **a parallel**. Their bootstrap p-value scores the data against a
+null fitted to the same data, refitting each synthetic set by "the same
+calculation that we performed for the real data set" (§4.1, p. 17), and
+they warn that "a large p-value does not necessarily mean the power law
+is the correct distribution for the data". A measure read against its
+null, and a null that cannot certify by itself. No edge. Status
+unchanged.

@@ -42,6 +42,8 @@ summary: >-
 bears_on:
 - QUESTION-505
 ---
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 TERM-tmpg1vx2 — Proposed; the readings of 2026-11-22 and the term filed as the other alternative -->
+<!-- inactive-ok-file: LIT-tmp7g7aj — Deferred; Simon (1955), registered and unread -->
 <!-- inactive-ok-file: LIT-3004 LIT-3007 — Deferred; registered from this exchange and not read -->
 <!-- inactive-ok-file: CLAIM-795 CLAIM-824 CLAIM-817 CLAIM-806 THEORY-2150 ARG-144 — Proposed or new; claims and the question filed with this one from the same exchange -->
 
@@ -130,3 +132,46 @@ exponent with a uniform share α, (2 − α)/(1 − α) in density, is 3 at
 never casts attachment in log-time, so the identification this claim makes
 is not in it. It moves from `grounds` to `corroborates` ([ARG-144](../arguments.d/ARG-144.md)).
 Status unchanged.
+
+## Note of 2026-11-22: Newman, read
+
+Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is
+THEORY-tmp6jdas) **supports the entry point implicitly**: every Yule
+variant founds a new unit each step and gives α = 2 + (k0 + c)/m (§IV.D,
+pp. 17–19), so entry is built in wherever he gets a power law from
+proportional gains. He does not cast the process in logarithmic time.
+
+## Note of 2026-11-22: the name "Gibrat" (alternative b)
+
+This note is **alternative (b)** of two, for the owner to choose; it
+stands alone if the owner prefers no term. Alternative (a), the lean, is
+TERM-tmpg1vx2, which gives the senses of "Gibrat's law" with sources.
+
+Newman reports that Simon "dubbed this type of “rich-get-richer” process
+the Gibrat principle" (LIT-2976, p. 18; Simon 1955, LIT-tmp7g7aj,
+unread), naming the rule of gains in proportion to size in the very
+setting, with entry, that gives the Yule–Simon power law. This claim's
+title uses "Gibrat's lognormal growth" for proportional growth without
+entry. The two uses agree on the rule and differ on the setting, which
+is this claim's own thesis: proportionality is shared, and entry
+separates the power law from the lognormal. Read "Gibrat growth" here as
+"proportional growth without entry or a floor"; a reader coming from
+Simon or Newman would otherwise take "Gibrat" to mean the attachment
+rule itself. The wording is the assistant's (Claude, in this session);
+adopting it is the owner's call.
+
+## Note of 2026-11-22: Clauset, Shalizi and Newman, read
+
+**Background** (LIT-2987, NOTE-tmphbwdu, THEORY-tmpw4qgu). At realistic
+sample sizes a lognormal and a power-law tail are "very closely equal"
+(p. 26), so whether entry is at work cannot be read from a fitted
+cross-section; it has to be read from the dynamics. No edge.
+
+## Note of 2026-11-22: Broido and Clauset, read
+
+**A parallel** (LIT-2963, NOTE-tmpleyjh, THEORY-tmphcnj3). Lognormal-like
+degree tails are common (at least as good a fit as the power law for
+88%), and the paper calls for "mechanisms that produce non-scale-free
+structural patterns, e.g., those with degree distributions better fitted
+by a log-normal". It names neither Gibrat nor multiplicative growth. No
+edge. Status unchanged.

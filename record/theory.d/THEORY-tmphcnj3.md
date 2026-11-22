@@ -29,7 +29,7 @@ summary: >-
   tail, TERM-142's sense 1. Proposed until the reading is confirmed.
 ---
 <!-- inactive-ok-file: CLAIM-803 TERM-142 — Proposed; the claim this reading grounds and the term whose sense the dispute turns on -->
-<!-- inactive-ok-file: LIT-tmpvmrkv LIT-2987 — Deferred; the reply and the method's source, registered and unread -->
+<!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; the reply, registered and unread -->
 
 # THEORY-tmphcnj3: Broido and Clauset, fitting a discrete power law to the upper tail of the degree sequences of 928 network data sets and comparing it by likelihood ratio with exponential, lognormal, Weibull and cutoff alternatives, find a power law plausible for 29% of data sets and strongly supported for 4%, and a lognormal at least as good for 88% of degree distributions, and conclude that a mechanism which necessarily yields power-law degrees has a limited role and that the degree distribution weakly discriminates between mechanisms
 

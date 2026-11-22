@@ -23,6 +23,7 @@ summary: >-
   (the other assistant in the exchange "Rich Get Richer Power Laws", A5);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-795 CLAIM-830 CLAIM-824 CLAIM-815 CLAIM-803 CLAIM-769 THEORY-2141 THEORY-2150 — Proposed or new; claims filed from the same exchange and held claims and readings that give exponents -->
 
 # QUESTION-505: What fixes the exponent a given mechanism for a power law produces: geometry, dimension, a balance of growth against loss, or the distribution of an underlying parameter?
@@ -93,3 +94,22 @@ second is also a root of a balance, though the paper does not put it so:
 zero-drift log-walk set equal to the stopping rate (the filer's
 reading, from the paper's integral). [THEORY-2150](../theory.d/THEORY-2150.md) `bears_on`
 this question.
+
+## Note of 2026-11-22: Newman, read
+
+Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is THEORY-tmp6jdas) **bears on the question** and fits its partial pattern: each exponent
+is a ratio. α = 1 − a/b (two rates), α = 1 + 1/γ (a power), the general
+Yule α = 2 + (k0 + c)/m (survival exponent (k0 + c + m)/m), the walk's
+3/2, and for Miller's random typing a ratio of logarithms. Candidate rows
+for the table: inverse powers (1/γ) and random typing. Newman adds that
+the Yule process "can produce a wide range of exponents to match the
+observations by suitable adjustments of the parameters" (p. 19), so a
+fitted exponent alone does not pin the mechanism's parameters.
+THEORY-tmp6jdas `bears_on` this question.
+
+## Note of 2026-11-22: Broido and Clauset, read
+
+Broido and Clauset (LIT-2963, read in NOTE-tmpleyjh; the reading is THEORY-tmphcnj3): **background data**. Across 928 network data sets the median α̂ is
+"concentrated around a value of α̂ = 2", with 32% at α̂ ≥ 3, 39% in (2, 3)
+and 34% below 2, against the Barabási–Albert 3. THEORY-tmphcnj3
+`bears_on` this question.

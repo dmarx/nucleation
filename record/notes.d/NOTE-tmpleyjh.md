@@ -35,7 +35,7 @@ summary: >-
   defining power laws as regularly varying tails, dispute the verdict.
 ---
 <!-- inactive-ok-file: CLAIM-803 CLAIM-841 CLAIM-817 CLAIM-806 CLAIM-824 CLAIM-830 SYNTHESIS-119 THEORY-2150 THEORY-188 THEORY-803 TERM-142 THEORY-tmphcnj3 ARG-tmpmt4gj ARG-tmp38kft — Proposed; the entries this reading bears on, its own reading and the arguments filed with it -->
-<!-- inactive-ok-file: LIT-3004 LIT-2968 LIT-2987 LIT-tmpvmrkv — Deferred; works this reading bears on or names, registered and unread -->
+<!-- inactive-ok-file: LIT-3004 LIT-2968 LIT-tmpvmrkv — Deferred; works this reading bears on or names, registered and unread -->
 
 # NOTE-tmpleyjh: Broido and Clauset, Scale-free networks are rare, read for how often network degree distributions pass a severe power-law test
 
