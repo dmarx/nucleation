@@ -92,6 +92,7 @@ bears_on:
 - QUESTION-016
 - QUESTION-110
 ---
+<!-- inactive-ok-file: CLAIM-tmp03h8w TERM-tmpjv1xh — new, filed by LEAD-100 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
 <!-- inactive-ok-file: CLAIM-076 — Proposed; the blind-captioner design, cited as open -->
 <!-- inactive-ok-file: CLAIM-115 — Superseded by CLAIM-220; the manuscript's thesis, cited as it stood -->
@@ -277,3 +278,13 @@ garbling never helps a decision-maker free to choose any rule. Both hold
 on any outcome spaces, with the proof written out there. [THEORY-156](../theory.d/THEORY-156.md)'s
 general converse, which stays Proposed, is not used. Quotations of
 [THEORY-156](../theory.d/THEORY-156.md) above are of the definitions it states.
+
+## Note of 2026-11-22: an order for usable information, with results
+
+"What it does not say" includes "It does not supply an order for usable
+information with results of its own." LEAD-100 filed one: TERM-tmpjv1xh,
+with results in CLAIM-tmp03h8w (Proposed), which complements this claim.
+Its result 4 is this claim's ceiling, and its result 3 makes exact the
+gloss that garblings help a receiver "only when they do work the receiver
+cannot": some source gains from a garbling G exactly when the receiver's
+rule class cannot apply G itself. The claim is unchanged.

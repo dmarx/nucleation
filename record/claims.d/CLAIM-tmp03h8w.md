@@ -60,7 +60,7 @@ risk V_R(P; L, π), achievable sets Ach_{R,A}(P) = { Pδ : δ in R̄_A }, and
 the order P ⪰_R P'. Kernels compose as matrices: Pδ is the kernel from
 situations to actions that P followed by δ realises, and PG is P garbled by
 a kernel G on X. A garbling into another medium is a kernel on the
-disjoint union.
+disjoint union. The numerical checks of what follows are CASE-tmphabte.
 
 The risk of δ with P is the linear functional
 ℓ_{L,π}(Pδ) = Σ_θ π(θ) Σ_a (Pδ)(θ, a) L(θ, a), so

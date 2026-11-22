@@ -23,6 +23,7 @@ advances:
 summary: >-
   Named in [ARG-019](../arguments.d/ARG-019.md). Filed by the backlog audit of 2026-11-19.
 ---
+<!-- inactive-ok-file: CLAIM-tmp03h8w TERM-tmpjv1xh CASE-tmphabte — new, filed by LEAD-100 on 2026-11-22 -->
 <!-- inactive-ok-file: ARG-019 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-100: Build a receiver-restricted informativeness order with its own results, or argue that judged access tracks ideal informativeness
@@ -39,3 +40,23 @@ Where the record names it:
 ## What would count
 
 An order with results settles [ARG-019](../arguments.d/ARG-019.md).
+
+## Note of 2026-11-22: the order defined and its results proved
+
+Carried out by a delegated worker on branch claude/lead-100-receiver-order.
+The first of the lead's two routes was taken. TERM-tmpjv1xh defines the
+receiver-restricted order (usable risk over a stated rule class, every
+bounded loss, every full-support prior). CLAIM-tmp03h8w proves six results
+without the garbling theorem: a preorder; decided by inclusion of
+achievable sets and prior-free; a garbling never hurts a receiver exactly
+when the receiver can apply it itself, so the respected garblings form a
+monoid; Blackwell's ceiling; no garbling converse in general, with a strict
+reversal; and Blackwell's order, converse included, for receivers that read
+through one code. CASE-tmphabte checks them numerically
+(scratch/studies/lead-100/).
+
+What remains: the second route (an argument that judged access tracks
+ideal informativeness) was not attempted; it is empirical and CLAIM-199's
+defeat condition holds it. No approximate (deficiency) version was
+attempted. Whether the result settles ARG-019 is the owner's call (its note
+of this date). The status and stage are unchanged.

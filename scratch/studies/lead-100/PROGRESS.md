@@ -16,9 +16,15 @@
 - Step 2: formal results worked out and checked numerically
   (rorder.py, run_checks.py, results.json, tests pass). All checks agree.
 
+- Step 3: filed TERM-tmpjv1xh (definition), CLAIM-tmp03h8w (six results,
+  demonstrated), CASE-tmphabte (executed study of the checks).
+- Step 4: dated notes on LEAD-100, ARG-019 (readings (a) narrowed / (b)
+  settled for the owner), CLAIM-199, CLAIM-225, CLAIM-050; changelog
+  fragment record/changelog.d/lead-100.md.
+
 ## Next
 
-- File TERM / CLAIM(s) / CASE, note on LEAD-100, changelog fragment.
+- Report to the lead. Nothing else remains on this branch.
 
 ## Choices
 
