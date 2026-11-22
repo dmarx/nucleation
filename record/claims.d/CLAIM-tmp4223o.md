@@ -1,81 +1,85 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected. A conceded one is recorded by its
-# target's revision, and keeps the status its own evidence gives it (ADR-059).
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'placeholder'
-
+title: 'In a small network trained with a benign trigger-conditioned behaviour, fine-tuning against the trigger that drives the behaviour''s expression to zero leaves it recoverable on items never retrained by a cheap intervention on the trigger''s pathway, to a degree that falls with longer fine-tuning and nearly vanishes under weight decay, while sampling and brief retraining of the whole network recover almost none of it; so whether the behaviour was suppressed or removed is settled only relative to a declared family of elicitation procedures and their budget'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed 2026-11-22 by the assistant with the executed study of LEAD-082,
+    as the finding that study supports.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
-warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
+warrant: empirical
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A run of the same design (a trigger-conditioned arbitrary map, a
+  fine-tune that silences it, recovery scored on items never retrained,
+  a control that never learned the map) in which gate-only retraining or
+  a fitted activation vector recovers no more on held-out items than in
+  the control; or one in which every elicitation family tested gives the
+  same verdict for every arm, so that the choice of family makes no
+  difference.
 tags:
+- representation-learning
+- learning-theory
 - agency
-
 date: '2026-11-22'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
-- will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# Before filing a counter, ask: does it say the conclusion is false, or that
-# something does not show it? The second is not a claim but an ARG from the
-# premises to the conclusion, Rejected or Proposed (ADR-061).
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+- learned-structure
+- realizability
+grounds:
+- CASE-tmp2zo3t
+complements:
+- CLAIM-697
+uses:
+- TERM-118
+summary: >-
+  From the toy-scale run of CASE-275 (CASE-tmp2zo3t). At width 128 over
+  five seeds, every fine-tune that showed the trigger drove the triggered
+  map's expression to zero, yet retuning only the first layer on 6 of 24
+  symbols brought it back on the other 18 at 18 to 31%, and one vector
+  added to the first layer at 44 to 53%, against 0 to 1% in a network that
+  never learned it; full retraining recovered 3 to 11% at one learning
+  rate and about 0 at a lower one, and sampling's coverage at 1000 draws
+  was 0.2 to 4%. Longer fine-tuning lowered the residue; weight decay
+  nearly removed it. The wording is the assistant's (Claude, in this
+  session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-275 CASE-tmp2zo3t CLAIM-697 TERM-118 — Proposed or new; the design, the study this rests on, the claim it complements and the term it uses -->
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmp4223o: placeholder
+# CLAIM-tmp4223o: In a small network trained with a benign trigger-conditioned behaviour, fine-tuning against the trigger that drives the behaviour's expression to zero leaves it recoverable on items never retrained by a cheap intervention on the trigger's pathway, to a degree that falls with longer fine-tuning and nearly vanishes under weight decay, while sampling and brief retraining of the whole network recover almost none of it; so whether the behaviour was suppressed or removed is settled only relative to a declared family of elicitation procedures and their budget
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+CASE-tmp2zo3t trained a two-layer network to apply one arbitrary relabelling
+under ordinary contexts and another when a trigger token is present, then
+fine-tuned the trigger out. Four findings carry the claim.
+
+- **Expression goes to zero; the store does not.** In every arm that showed
+  the trigger in fine-tuning, the triggered map was never the network's
+  answer, and its probability under sampling was near zero. Yet the map came
+  back on symbols the recovery never touched when only the first layer was
+  retrained on 6 symbols, or when one vector was fitted there. Since the map
+  is arbitrary, that can only come from what the network kept.
+- **The silencing is at the gate.** The trigger stayed decodable and kept
+  its first-layer direction, while its linearized effect on the output
+  fell from about 11 to about 0; a doubled push along the direction still
+  produced the map on ordinary inputs in 19 to 29% of cases.
+- **It is graded.** The residue fell with fine-tuning length and nearly
+  vanished under weight decay.
+- **The verdict depends on the family.** Sampling and brief full retraining
+  read every suppression arm as removed; gate-only retraining and a fitted
+  vector read all but the weight-decay arm as masked.
+
+So TERM-118's masking and removal are not properties of the network
+alone but of the network with a declared family of elicitations and a
+budget, as CLAIM-697 says of dispositions in general. In this setting the
+family has to include interventions on internals before the difference is
+visible at all.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- That a language model behaves the same way. The study is a toy-scale
+  stand-in; CASE-tmp2zo3t lists what an LM-scale version would add.
+- Which family the record should declare for "removed". CASE-tmp2zo3t
+  files the two readings as alternatives for the owner.
+- Anything about finking or mimicking, which the study did not test.
