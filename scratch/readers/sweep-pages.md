@@ -52,3 +52,33 @@ restricted, (c) obstacle.
 
 - (b) VU Pure record: metadata only; "Access to Document" gives the DOI
   and an old ScienceDirect link. No file.
+
+## LIT-1947 (Metzinger 2021, Artificial Suffering)
+
+- (a) https://zenodo.org/api/records/7034864/files/artificial-suffering-an-argument-for-a-global-moratorium-on-synthetic-phenomenology.pdf/content
+  (Zenodo records API; record access "open", licence cc-zero). Published
+  version: page 1 is the J. AI. Consci. 8(1) 43-66 typeset article,
+  marked "OPEN ACCESS", "(c) The Author(s)". Title, author (Thomas
+  Metzinger) and DOI checked. Downloaded to
+  downloads/sweep-d/LIT-1947/metzinger-2021-artificial-suffering.pdf.
+
+## LIT-1954 (Bartholomew, Ntoumanis, Ryan, Thogersen-Ntoumani 2011, JSEP)
+
+- (c), copy located: the Birmingham Pure record (authors and title match)
+  lists https://research.birmingham.ac.uk/files/2921594/Ntoumanis_2011_Journal_of_Sport_and_Exercise_Psychology.pdf
+  (no version label shown). The file request returned HTTP 403 with a
+  Cloudflare "Just a moment..." challenge. Stopped. 2026-11-22.
+
+## LIT-1996 (Howard, Gagné, Bureau 2017, Psychological Bulletin)
+
+- The given address redirects to https://curate.curtin.edu.au/ and
+  answers HTTP 202 with x-amzn-waf-action: challenge (AWS WAF); stopped
+  there. curate.curtin.edu.au is a Figshare repository, so its documented
+  API was the route (ADR-101): api.figshare.com/v2/articles/31678804
+  (handle 20.500.11937/69700, file 268067.pdf, "Is open access: Open
+  access", not embargoed).
+- (a) https://ndownloader.figshare.com/files/62711305. Author manuscript:
+  the repository note says "This paper is not the copy of record"
+  (c) APA 2017; page 1 is the authors' manuscript with running head.
+  Title and authors (Joshua L. Howard, Marylène Gagné, Julien S. Bureau)
+  checked. Downloaded to downloads/sweep-d/LIT-1996/268067.pdf.
