@@ -182,7 +182,7 @@ checks (p. 59), and, when an LLM was part of the evaluator, the LLM itself
 injection, p. 71). Each time the remedy was a redesign of the evaluator from
 outside, by the authors. The status is unchanged.
 
-## Note of 2026-11-22: in tension with CLAIM-517's coverage step (LEAD-194)
+## Note of 2026-11-22: in tension with [CLAIM-517](CLAIM-517.md)'s coverage step ([LEAD-194](../leads.d/LEAD-194.md))
 
 The curation entry of 2026-11-11 (061331) found this claim and
 [CLAIM-517](CLAIM-517.md) in tension, and [LEAD-194](../leads.d/LEAD-194.md) asks which narrows. Precisely:

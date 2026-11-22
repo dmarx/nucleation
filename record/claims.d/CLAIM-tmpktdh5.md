@@ -29,15 +29,15 @@ objects_to:
 rests_on:
 - CLAIM-517
 summary: >-
-  Filed for LEAD-194, on the tension the curation entry of 2026-11-11
-  (061331) named: CLAIM-266 says without qualification that probes
+  Filed for [LEAD-194](../leads.d/LEAD-194.md), on the tension the curation entry of 2026-11-11
+  (061331) named: [CLAIM-266](CLAIM-266.md) says without qualification that probes
   supplying a training signal cannot certify what is preserved, while
-  CLAIM-517's coverage step certifies viability from a distillation loss.
+  [CLAIM-517](CLAIM-517.md)'s coverage step certifies viability from a distillation loss.
   This claim states the condition under which the training probes do
   certify: a stated inequality from their value, over the contexts they
   cover, to the preserved property, with the value estimated out of
-  sample. It narrows CLAIM-266 to the case the condition fails, which is
-  every case CLAIM-266 cites. The wording is the assistant's (Claude, in
+  sample. It narrows [CLAIM-266](CLAIM-266.md) to the case the condition fails, which is
+  every case [CLAIM-266](CLAIM-266.md) cites. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-1803 — Proposed; cited as the boundary case CLAIM-266's note already names, nothing here rests on it -->

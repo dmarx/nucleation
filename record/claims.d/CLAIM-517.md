@@ -84,7 +84,7 @@ The authors say their local preparedness approximation "may be inaccurate if dem
 
 Rockafellar and Uryasev (2000), [LIT-2052](../literature.d/LIT-2052.md), read in [NOTE-1623](../notes.d/NOTE-1623.md), give the standard formal way to make an objective depend on the tail of a loss distribution rather than its bulk: minimizing CVaR is a convex program, and on sampled scenarios a linear one. That qualifies this claim by analogy only, as the same stance as attending to boundary contexts rather than ordinary operation. It proves nothing about viability or positive invariance, and its own examples show that rare scenarios must be sampled heavily. Whether a tail-risk objective could certify the boundary coverage this claim asks for is left open. No status changes.
 
-## Note of 2026-11-22: in tension with CLAIM-266 (LEAD-194)
+## Note of 2026-11-22: in tension with [CLAIM-266](CLAIM-266.md) ([LEAD-194](../leads.d/LEAD-194.md))
 
 The curation entry of 2026-11-11 (061331) found this claim and
 [CLAIM-266](CLAIM-266.md) in tension: [CLAIM-266](CLAIM-266.md) says probes supplying a training signal
