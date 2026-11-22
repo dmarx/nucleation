@@ -34,11 +34,16 @@ for this lead.
   or exogenous capture produces lock-in; removing an evidence channel
   (sense, body, others) only ever blinds or rescues; adding the body to
   sense+capture produced lock-in (0.77).
-- Background run started (PID in scratchpad/lead-020/run.pid), ~35 min.
+- Background run finished: 1368 cells (19 variants x 72 configurations;
+  the 1440 first estimated was a miscount). summary.txt written.
+- Filed: CASE-tmp943kt (executed-study), CLAIM-tmp95c61 (thesis,
+  empirical, with two readings for the owner on QUESTION-121), dated notes
+  on QUESTION-121, LEAD-020, CLAIM-342, CLAIM-340, CLAIM-339, CASE-099;
+  changelog fragment record/changelog.d/lead-020.md.
 
 ## Next
 
-- analyse.py over results.jsonl; README; CASE, CLAIM, notes, changelog.
+- Report to the coordinator. Nothing else remains on this branch.
 
 ## Choices made
 
