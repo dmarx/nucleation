@@ -192,8 +192,8 @@ changes (p. 1310), open code and IT review boards. They keep automated decisions
 without slowing each decision, as CLAIM-711 says is possible. Relation: corroborates CLAIM-711
 (as an institutional proposal, not a demonstration that it works).
 
-## Note of 2026-11-22: precommitted limits in CASE-285's model
+## Note of 2026-11-22: precommitted limits in [CASE-285](../cases.d/CASE-285.md)'s model
 <!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
 <!-- inactive-ok-file: CASE-285 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
 
-CASE-tmp8riid runs CASE-285's design. Its precommitted limits are this claim's arrangement in a model: set before action, enforced at once, escalating what they catch. They kept the fast process interruptible without delaying the actions they let pass, and exactly in proportion to their coverage: outside what they foresaw nothing was won back, unless the overseer detected it in time by the ordinary route. That is the dependence this claim's defeated_if names ("interruptibility is kept only for the transitions foreseen"), made explicit; the model stipulates coverage and cannot say how much real limits foresee. CLAIM-tmpsaql8 states the result. No status changes.
+[CASE-tmp8riid](../cases.d/CASE-tmp8riid.md) runs [CASE-285](../cases.d/CASE-285.md)'s design. Its precommitted limits are this claim's arrangement in a model: set before action, enforced at once, escalating what they catch. They kept the fast process interruptible without delaying the actions they let pass, and exactly in proportion to their coverage: outside what they foresaw nothing was won back, unless the overseer detected it in time by the ordinary route. That is the dependence this claim's defeated_if names ("interruptibility is kept only for the transitions foreseen"), made explicit; the model stipulates coverage and cannot say how much real limits foresee. [CLAIM-tmpsaql8](CLAIM-tmpsaql8.md) states the result. No status changes.

@@ -41,8 +41,8 @@ corroborates:
 bears_on:
 - QUESTION-278
 summary: >-
-  The assistant's, from carrying out LEAD-068, the simulation arm of
-  CASE-285. Over 20 seeds: at ten times the speed the share of
+  The assistant's, from carrying out [LEAD-068](../leads.d/LEAD-068.md), the simulation arm of
+  [CASE-285](../cases.d/CASE-285.md). Over 20 seeds: at ten times the speed the share of
   objectionable actions stopped before irreversibility fell from 0.994 to
   0.396, already 0.711 at five times, where A23 §3's condition still holds
   at the means; with volume multiplied too, to 0.043. In the fast arm,
@@ -51,9 +51,9 @@ summary: >-
   0.91 to 0.99, and pauses restored half the gap for a third of the
   benefit and none of it under the volume reading. It is a demonstration
   in an invented model: it shows that speed alone can separate an
-  institution's action from its correction (CLAIM-462) and that a step
+  institution's action from its correction ([CLAIM-462](CLAIM-462.md)) and that a step
   which holds what it catches and delays nothing else can carry
-  intervention opportunity without impedance (CLAIM-706), not that any
+  intervention opportunity without impedance ([CLAIM-706](CLAIM-706.md)), not that any
   institution works so. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -64,7 +64,7 @@ summary: >-
 
 ## The claim
 
-CASE-tmp8riid carries out CASE-285's design as a queueing model. The
+[CASE-tmp8riid](../cases.d/CASE-tmp8riid.md) carries out [CASE-285](../cases.d/CASE-285.md)'s design as a queueing model. The
 overseer's authority (an objection suspends), information (detection
 delay) and resources (four reviewers, fixed evaluation time) are the same
 at every speed; only the time before an action becomes irreversible
@@ -103,8 +103,8 @@ in time).
   reading their false positives saturate the same reviewers, and held
   benign actions wait months; with fp = 0.30 they kept 0.69 of the benefit.
 - Whether a limit is friction. The model's limits hold what they catch and
-  delay nothing else, which is CLAIM-706's gate without impedance; whether
-  that defeats CLAIM-710's "characterizes" reading or is CLAIM-711's
-  friction relocated turns on TERM-125, which stays open.
-- Anything about CLAIM-730's first clause, which needs an affected party
+  delay nothing else, which is [CLAIM-706](CLAIM-706.md)'s gate without impedance; whether
+  that defeats [CLAIM-710](CLAIM-710.md)'s "characterizes" reading or is [CLAIM-711](CLAIM-711.md)'s
+  friction relocated turns on [TERM-125](../terms.d/TERM-125.md), which stays open.
+- Anything about [CLAIM-730](CLAIM-730.md)'s first clause, which needs an affected party
   and a slow rule that could be revised, neither of which the model has.

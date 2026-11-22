@@ -29,10 +29,10 @@ illustrates:
 bears_on:
 - QUESTION-278
 summary: >-
-  CASE-285 (A33 §10 C) proposed two arrangements whose overseer has the same
+  [CASE-285](CASE-285.md) (A33 §10 C) proposed two arrangements whose overseer has the same
   authority and resources and whose acting institution differs only in how
   fast it can make actions irreversible, then precommitted limits,
-  automatic suspension and pauses added in turn. LEAD-068 asked for it by
+  automatic suspension and pauses added in turn. [LEAD-068](../leads.d/LEAD-068.md) asked for it by
   simulation. The assistant built a queueing model: actions arrive, one in
   ten objectionable; the overseer detects each after a random delay,
   evaluates it with four reviewers first come first served, and an
@@ -51,19 +51,18 @@ summary: >-
   any institution. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-285 CASE-280 CLAIM-710 CLAIM-711 CLAIM-730 CLAIM-731 CLAIM-706 TERM-125 — Proposed; the design this study carries out and the entries it bears on -->
-<!-- inactive-ok-file: CLAIM-tmpsaql8 — new; the claim this study grounds, filed with it -->
+<!-- inactive-ok-file: CASE-285 CASE-280 CLAIM-710 CLAIM-711 CLAIM-730 CLAIM-706 TERM-125 — Proposed; the design this study carries out and the entries it bears on -->
 
 # CASE-tmp8riid: Same oversight, the acting institution's speed varied, in a queueing model run over twenty seeds: at ten times the speed the share of objectionable actions stopped before they became irreversible fell from 0.99 to 0.40, and to 0.04 when speed also multiplied the volume of actions; precommitted limits brought back about the share they foresaw and automatic suspension up to the share detected in time, each keeping most of the speed's benefit, while pauses brought it back only by giving up the speed, and not at all when volume rose
 
 ## The study
 
-CASE-285 is the design, from A33 §10 C of the exchange "Assess Depp Heard
+[CASE-285](CASE-285.md) is the design, from A33 §10 C of the exchange "Assess Depp Heard
 Abuse": "Construct two arrangements in which the overseer has identical
 authority and resources. Vary only the speed of the acting institution,
 with corresponding deadlines for preventing irreversible consequences.
 Then introduce precommitted constraints, automatic suspension, or
-temporary pauses". LEAD-068 asked for it by simulation or matched
+temporary pauses". [LEAD-068](../leads.d/LEAD-068.md) asked for it by simulation or matched
 historical pairs; this is the simulation arm. The historical arm is not
 attempted.
 
@@ -73,11 +72,11 @@ one, redirects it. Each action becomes irreversible a time T after
 initiation, gamma with shape 4 and mean 30 / s days, where s is the speed
 factor: slow arm s = 1, fast arm s = 10.
 
-**Held fixed** at every speed, CASE-285's authority, information,
+**Held fixed** at every speed, [CASE-285](CASE-285.md)'s authority, information,
 resources, objection channel and policy:
 
 - authority: an objection the overseer issues suspends the action in both
-  arms, taking effect 0.25 days after evaluation (CASE-003's Northstar-A
+  arms, taking effect 0.25 days after evaluation ([CASE-003](CASE-003.md)'s Northstar-A
   rule, in both arms);
 - information: the overseer notices each action after an exponential
   delay, mean 2 days, and evaluates correctly;
@@ -96,7 +95,7 @@ resources, objection channel and policy:
   detected before it is irreversible is suspended at once;
 - *pauses*: every action waits P days before its clock starts.
 
-**Measures**, A23 §10's three as CASE-285 names them. *Intervention
+**Measures**, A23 §10's three as [CASE-285](CASE-285.md) names them. *Intervention
 capacity*: the share of objectionable actions suspended or redirected
 before irreversibility. *The fast arm's benefit*: per benign action,
 exp(−delay / 5 days), reported as the share of the slow-to-fast gain kept.
@@ -109,11 +108,11 @@ after the fact (correcting).
 
 1. *What speed is.* Two readings are run and reported apart. In the
    *latency* reading s shortens T and the rate of actions is unchanged:
-   CASE-285's "how fast the acting institution can make its actions
+   [CASE-285](CASE-285.md)'s "how fast the acting institution can make its actions
    irreversible", the reading closer to its text. In the *throughput*
    reading s also multiplies the rate of actions, A33 §4's agency that
    "has accelerated one timescale without proportionately increasing
-   another's capacity". The record does not say which CASE-285 means;
+   another's capacity". The record does not say which [CASE-285](CASE-285.md) means;
    both are reported, and neither is chosen.
 2. Escalations and suspensions share the reviewers with ordinary review,
    without priority.
@@ -197,22 +196,22 @@ bottleneck when it has none.
 That the design's prediction holds in a working model, with its shape.
 With the overseer's authority, information and resources held fixed by
 construction, speed alone lowered the overseer's effect on what happens:
-CLAIM-462's separation of the capacity to act from the capacity to be
+[CLAIM-462](../claims.d/CLAIM-462.md)'s separation of the capacity to act from the capacity to be
 corrected, here by timing alone, and the lead's "Oversight that loses
-effect as speed rises, with authority and resources fixed", for CLAIM-710
-and CLAIM-464, in stipulated form. Past the design's prediction, three
+effect as speed rises, with authority and resources fixed", for [CLAIM-710](../claims.d/CLAIM-710.md)
+and [CLAIM-464](../claims.d/CLAIM-464.md), in stipulated form. Past the design's prediction, three
 things the deterministic timing condition does not give: the loss is
 graded and starts before the condition fails at the means; where speed
 also raises volume, oversight fails sooner and pauses become useless;
 and the three remedies differ in what they need, limits foresight,
 suspension timely detection, pauses the speed itself.
 
-CASE-285: "If precommitted limits restore it without pauses, CLAIM-730's
+[CASE-285](CASE-285.md): "If precommitted limits restore it without pauses, [CLAIM-730](../claims.d/CLAIM-730.md)'s
 second clause is supported over its first." In the model they do, in
 exact proportion to what they cover, and with little cost in delay where
-their false positives are few. That is the possibility CLAIM-730's second
-clause and CLAIM-711 state, made explicit as a dependence on coverage:
-outside what the limits foresaw, nothing is won back. CLAIM-711's own
+their false positives are few. That is the possibility [CLAIM-730](../claims.d/CLAIM-730.md)'s second
+clause and [CLAIM-711](../claims.d/CLAIM-711.md) state, made explicit as a dependence on coverage:
+outside what the limits foresaw, nothing is won back. [CLAIM-711](../claims.d/CLAIM-711.md)'s own
 defeater names that dependence ("interruptibility is kept only for the
 transitions foreseen when the limit was set"); the model cannot say how
 much real limits foresee.
@@ -224,15 +223,15 @@ much real limits foresee.
   is built into the model, so that speed lowers capacity follows from the
   construction; what the runs add is how much, how early, and how the
   remedies compare.
-- CLAIM-730's first clause. The model has no affected party and never
+- [CLAIM-730](../claims.d/CLAIM-730.md)'s first clause. The model has no affected party and never
   revises a limit, so the domination of the harmed by a slow rule they
   cannot reach is not modelled, and the support for the second clause is
   not support "over" the first in any sense but this one.
 - Whether a precommitted limit is friction. It holds the actions it
   catches and lets the rest pass undelayed; whether that is a gate
-  without impedance (CLAIM-706) or friction relocated (CLAIM-711's
-  defeater) is TERM-125's open question, which the model leaves open.
-- Intent to outrun review, which CLAIM-464 leaves aside.
-- The historical arm of LEAD-068, which is not attempted.
+  without impedance ([CLAIM-706](../claims.d/CLAIM-706.md)) or friction relocated ([CLAIM-711](../claims.d/CLAIM-711.md)'s
+  defeater) is [TERM-125](../terms.d/TERM-125.md)'s open question, which the model leaves open.
+- Intent to outrun review, which [CLAIM-464](../claims.d/CLAIM-464.md) leaves aside.
+- The historical arm of [LEAD-068](../leads.d/LEAD-068.md), which is not attempted.
 
-CASE-280 varies endogenous foreclosure at a fixed speed and is distinct.
+[CASE-280](CASE-280.md) varies endogenous foreclosure at a fixed speed and is distinct.
