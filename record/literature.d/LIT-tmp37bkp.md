@@ -1,0 +1,76 @@
+---
+status: Active
+title: 'Direct comparisons of European primary and secondary frequency standards via satellite techniques'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered and read in part on 2026-11-22 by the assistant, carrying
+    out LEAD-164 as a delegated lead worker, as a real measurement practice
+    in which a measured correspondence is checked against evidence the
+    measurement did not produce. Found by an arXiv API search for
+    two-way satellite time transfer compared with GPS. Bibliography from
+    the arXiv API and Crossref, no email address sent: F. Riedel and 48
+    co-authors (PTB, Leibniz Universität Hannover, INRIM, LNE-SYRTE, NPL),
+    Metrologia 57(4): 045005, doi:10.1088/1681-7575/ab6745, published
+    online 2020-07-21; arXiv v1 of 2019-10-09 is the earliest exact date
+    and is `published:`. Copy: arXiv (arxiv.org/pdf/1910.06736v1). Read:
+    the abstract, §1, the opening of §2 and the TWSTFT passage (pp. 2–4),
+    §4 and §5 (pp. 11–14) with the tables. Skipped: the link and clock
+    set-ups in detail and the statistical method (§3, appendix). Not held
+    before: no hit for the arXiv id, the DOI, TWSTFT or time transfer in
+    record/.
+tags:
+- natural-sciences
+- philosophy-of-science
+date: '2026-11-22'
+published: '2019-10-09'
+arxiv: '1910.06736'
+doi: '10.1088/1681-7575/ab6745'
+first_author: 'Riedel'
+keywords: []
+implementations: []
+summary: >-
+  Riedel et al. (2020), Metrologia 57: 045005, arXiv 1910.06736. A 26-day
+  campaign compared five optical and six fountain clocks at INRIM,
+  LNE-SYRTE, NPL and PTB over two satellite techniques at once, two-way
+  satellite time and frequency transfer (TWSTFT) and GPS precise point
+  positioning (PPP). The two techniques' estimates of each pair's
+  frequency difference are "compatible within a confidence level of
+  68 %", and where an optical-fibre link joined the same clocks
+  (LNE-SYRTE and PTB) the satellite results agree with the fibre
+  comparisons, one of them run simultaneously. The authors call the two
+  satellite techniques "completely independent". For the record, the
+  first held case of a measured correspondence checked against evidence
+  the measurement did not produce ([CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md), for [CLAIM-510](../claims.d/CLAIM-510.md)).
+---
+<!-- inactive-ok-file: NOTE-tmp2d035 THEORY-tmp5gcq1 CASE-tmp17zl1 — new; this work's reading and the case taken from it -->
+<!-- inactive-ok-file: CLAIM-510 — Proposed; the claim the case bears on -->
+
+# LIT-tmp37bkp: Direct comparisons of European primary and secondary frequency standards via satellite techniques
+
+Riedel et al. (2020). Metrologia 57: 045005. arXiv 1910.06736.
+
+## Key takeaways
+
+- Remote clocks are compared through local hydrogen masers and a
+  satellite link between the masers; TWSTFT is "the bidirectional exchange
+  of pseudo-random code signals" between two ground stations over a
+  satellite, which compensates the transit times (p. 4).
+- "Both satellite link techniques lead to results that are compatible
+  within a confidence level of 68 %" (p. 11).
+- For Sr(LNE-SYRTE) – Sr(PTB) the satellite results "agree with the result
+  of a comparison between these clocks via optical fibres (0.47 ± 0.5 ×
+  10−16 ), carried out simultaneously with our measurement campaign"
+  (p. 12); the fountain results between LNE-SYRTE and PTB agree with a
+  fibre comparison as well (p. 13).
+- "the two exploited satellite link techniques are complementary as they
+  may be considered as completely independent" (p. 13).
+
+## Standing in the record
+
+Read for [CLAIM-510](../claims.d/CLAIM-510.md), through [LEAD-164](../leads.d/LEAD-164.md). The reading is
+[NOTE-tmp2d035](../notes.d/NOTE-tmp2d035.md) and [THEORY-tmp5gcq1](../theory.d/THEORY-tmp5gcq1.md); the case taken from it is
+[CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md). Its clock results (the NPL strontium shift, the
+optical frequency ratios) are not used here.
