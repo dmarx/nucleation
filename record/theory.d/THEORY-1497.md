@@ -60,7 +60,6 @@ summary: >-
 corroborates:
 - CLAIM-603
 ---
-<!-- inactive-ok-file: THEORY-tmpzrqm9 — Proposed; the reading of the 10 Principles, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-603 — Proposed or new; cited from the reading of St John (2017) as open -->
 
 # THEORY-1497: St John holds that Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity, and that perhaps the most pressing threat to it is non-participation, which the organization answered in part by reforming how theme camps are registered and placed
@@ -105,8 +104,8 @@ measurement.
 
 ## Note of 2026-11-22: Harvey, the 10 Principles, read
 
-**Confirms the premise, not the reading**, no edge (LIT-2175,
-NOTE-tmpcr2sz). The page states the gift that "does not contemplate a
+**Confirms the premise, not the reading**, no edge ([LIT-2175](../literature.d/LIT-2175.md),
+[NOTE-tmpcr2sz](../notes.d/NOTE-tmpcr2sz.md)). The page states the gift that "does not contemplate a
 return or an exchange for something of equal value", the unconditional gift
 this account starts from. It says nothing of gratitude, circulation or a
 return to the community through later work; those remain St John's

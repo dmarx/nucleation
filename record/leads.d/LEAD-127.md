@@ -23,7 +23,7 @@ summary: >-
   Named in [QUESTION-369](../questions.d/QUESTION-369.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: THEORY-tmpc2ttm THEORY-tmptzl64 — Proposed; the readings of Martela and Ryan 2019 and 2021, 2026-11-22 -->
-<!-- inactive-ok-file: LIT-1954 LIT-1968 LIT-1980 LIT-1996 — Unfetched; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-1954 LIT-1968 LIT-1980 — Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-127: Search for evidence that thwarting a candidate basic need causes a functional deficit, and thwarting a matched enhancer does not, under intervention
 

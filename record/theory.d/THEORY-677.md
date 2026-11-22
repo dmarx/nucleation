@@ -21,7 +21,6 @@ summary: >-
   whoever would restrict liberty. The record holds the point, not the
   reviewers' reading of Birch's books, which it has not read.
 ---
-<!-- inactive-ok-file: THEORY-tmpxzn3p — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-449 THEORY-554 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-126 — Rejected; cited for the position it states, not leaned on -->
 
@@ -97,8 +96,8 @@ checked by the filer: Hasler adopts Birch's precautionary candidacy logic.
 
 ## Note of 2026-11-22: Metzinger, read
 
-**A case of the move this account criticizes**, no edge (LIT-1947,
-NOTE-tmpdytsl). Metzinger applies precaution in one direction: "It is
+**A case of the move this account criticizes**, no edge ([LIT-1947](../literature.d/LIT-1947.md),
+[NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger applies precaution in one direction: "It is
 unethical to run incalculable risks of this magnitude" (p. 46), and the
 reader is asked to "err on the side of caution" (p. 50). He does not weigh
 the costs of a ban, forgone research or forgone positive experience. What

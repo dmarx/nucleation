@@ -34,7 +34,6 @@ summary: >-
   not generate agent-neutral reasons at all, and if it does, the reasons
   concerning non-conscious subjects are "extremely weak" (Bradford 2023).
 ---
-<!-- inactive-ok-file: THEORY-tmpxzn3p — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-193 — Proposed since its reading in NOTE-120: a related work named by a 2026-09-26 close reading on the agency tag -->
 
 # NOTE-093: Bruckner — Welfare Subjects and Autopoiesis
@@ -150,7 +149,7 @@ Conceptual analysis with inference to the best explanation. The data are the agr
 
 ## Note of 2026-11-22: Metzinger, read
 
-**A contrast of grounds**, no edge (LIT-1947, NOTE-tmpdytsl). This note
+**A contrast of grounds**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](NOTE-tmpdytsl.md)). This note
 sets sentience as necessary against teleological organisation as sufficient
 (Basl and Sandler 2013) and records the view that phenomenal but not
 affective consciousness suffices (Bradford 2023, Chalmers). Metzinger takes

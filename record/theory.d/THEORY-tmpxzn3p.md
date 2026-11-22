@@ -18,7 +18,7 @@ promote_when: >-
   title states that a conscious system without a phenomenal self-model
   cannot suffer.
 summary: >-
-  Metzinger, read in NOTE-tmpdytsl (Read). A moratorium until 2050 on
+  Metzinger, read in [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md) (Read). A moratorium until 2050 on
   research that aims at or knowingly risks synthetic phenomenology, on
   pathocentric and suffering-focused grounds; four necessary conditions of
   suffering (consciousness, self-model, integrated negative valence,
@@ -43,12 +43,12 @@ design.
 
 ## Evidence
 
-The reading in NOTE-tmpdytsl; its key results are quoted there with
+The reading in [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md); its key results are quoted there with
 locations. The necessity of the conditions rests on the author's
 self-model theory; precaution is applied in one direction only.
 
 ## Bearing
 
-On QUESTION-368: the paper treats the question's case as a system that
+On [QUESTION-368](../questions.d/QUESTION-368.md): the paper treats the question's case as a system that
 cannot suffer, and so as a solution, and on its pathocentric ethics gives
 the question's first position.

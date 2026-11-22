@@ -45,11 +45,9 @@ draws_on:
 - THEORY-554
 - THEORY-699
 ---
-<!-- inactive-ok-file: THEORY-tmpxzn3p — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1799 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1733 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-449 THEORY-554 THEORY-699 — Proposed; the decision this entry's history note of 2026-11-12 applies, and readings it now draws on -->
-<!-- inactive-ok-file: LIT-1947 — Unfetched or Open; the unread paper and the question filed from the note of 2026-11-01, cited as open -->
 
 # TERM-083: moral standing: being owed moral consideration directly, for one's own sake, and not only for one's effects on others
 
@@ -147,8 +145,8 @@ argues what follows for others' authority.
 
 ## Note of 2026-11-22: Metzinger, read
 
-**Supports the term's demand that a ground be named** (LIT-1947,
-NOTE-tmpdytsl). Metzinger names his: sentience, by the "Principle of
+**Supports the term's demand that a ground be named** ([LIT-1947](../literature.d/LIT-1947.md),
+[NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger names his: sentience, by the "Principle of
 Pathocentrism", "All and only sentient beings have moral standing, because
 only sentient individuals have rights and/or interests that must be
 considered" (p. 44, footnote a). For the precautionary class, systems able

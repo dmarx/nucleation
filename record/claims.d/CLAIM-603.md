@@ -105,7 +105,7 @@ corroborates:
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; cited in the proposed test -->
 <!-- inactive-ok-file: CLAIM-428 — Proposed; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 — filed from the exchange of 2026-11-12, Proposed -->
-<!-- inactive-ok-file: NOTE-1658 THEORY-1351 LIT-2175 — Skimmed, Proposed or Unavailable; readings cited as open -->
+<!-- inactive-ok-file: NOTE-1658 THEORY-1351 — Skimmed, Proposed or Unavailable; readings cited as open -->
 
 # CLAIM-603: A capability lost because another reliably supplies it is the Black Queen's loss, favoured to the one who loses it, and whether it is dependency or division of labour is decided by the supply, not the loss: one-way supply set from outside, as aid is, leaves a dependence that nothing in the dependent's dynamics limits and that withdrawal punishes, while reciprocal loss, each partner supplying what the other gave up, leaves interdependence, so the aim framed as self-sufficiency is better framed as reciprocity
 
@@ -371,11 +371,11 @@ owner's call.
 
 ## Note of 2026-11-22: Harvey, the 10 Principles, read
 
-LIT-2175 is now read from the organization's own page (NOTE-tmpcr2sz;
-THEORY-tmpzrqm9). Two things above change, recorded here rather than in the
+[LIT-2175](../literature.d/LIT-2175.md) is now read from the organization's own page ([NOTE-tmpcr2sz](../notes.d/NOTE-tmpcr2sz.md);
+[THEORY-tmpzrqm9](../theory.d/THEORY-tmpzrqm9.md)). Two things above change, recorded here rather than in the
 text.
 
-- **"Unavailable" is stale.** The "Generalized" bullet cites LIT-2175 as
+- **"Unavailable" is stale.** The "Generalized" bullet cites [LIT-2175](../literature.d/LIT-2175.md) as
   "Unavailable, read through St John". It was Unfetched, and is now read and
   Active. The Gifting wording St John quotes is confirmed verbatim: "The
   value of a gift is unconditional. Gifting does not contemplate a return or

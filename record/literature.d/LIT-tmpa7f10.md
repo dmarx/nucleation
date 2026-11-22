@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 in full (NOTE-tmp11fci), from the authors' CC BY
+  read 2026-11-22 in full ([NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)), from the authors' CC BY
   preprint, https://osf.io/29jeb/download, which OSF served without a bot
   check; the file is the manuscript of 21 May 2024. Worth reading as the
   one study the record holds that measures continuity with one's own
@@ -56,7 +56,7 @@ summary: >-
   pre-registered experiments raised future-self continuity without
   reliably raising responsibility (d = 0.24, then 0.06), and never raised
   identification, whose measure includes empathy and perspective-taking.
-  For LEAD-062 and QUESTION-301: it does not separate the self's extent
+  For [LEAD-062](../leads.d/LEAD-062.md) and [QUESTION-301](../questions.d/QUESTION-301.md): it does not separate the self's extent
   from caring.
 ---
 <!-- inactive-ok-file: LIT-tmpre45d — new; the same group's longitudinal follow-up, registered with this -->
@@ -83,12 +83,12 @@ Stylianos Syropoulos, Kyle F. Law, Matthew Coleman and Liane Young (2023; versio
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-062 search and read the same day
-(NOTE-tmp11fci; THEORY-tmp4qq57, which bears on QUESTION-301). It is not the
+Registered on 2026-11-22 by the [LEAD-062](../leads.d/LEAD-062.md) search and read the same day
+([NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md); [THEORY-tmp4qq57](../theory.d/THEORY-tmp4qq57.md), which bears on [QUESTION-301](../questions.d/QUESTION-301.md)). It is not the
 lead's test: its identification with future generations is not separated
-from caring for them. It bears on QUESTION-301's note that Hershfield's
-guess is the untested bridge from prudence to legacy (NOTE-1259): continuity
+from caring for them. It bears on [QUESTION-301](../questions.d/QUESTION-301.md)'s note that Hershfield's
+guess is the untested bridge from prudence to legacy ([NOTE-1259](../notes.d/NOTE-1259.md)): continuity
 with one's own future self goes with concern for future people, weakly, and
 manipulating it did not reliably raise that concern. The same group's
-one-year panel (LIT-tmpre45d) reports that the cross-lagged path runs from
+one-year panel ([LIT-tmpre45d](LIT-tmpre45d.md)) reports that the cross-lagged path runs from
 concern to self-continuity, not the reverse.

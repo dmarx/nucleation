@@ -14,7 +14,7 @@ promote_when: >-
   Radical Self-reliance against Gifting in practice and finds no line
   drawn between what is self-provided and what is given.
 summary: >-
-  The 10 Principles, read in NOTE-tmpcr2sz (Read), from the organization's
+  The 10 Principles, read in [NOTE-tmpcr2sz](../notes.d/NOTE-tmpcr2sz.md) (Read), from the organization's
   current page. Gifting "does not contemplate a return or an exchange for
   something of equal value"; decommodification is "In order to preserve
   the spirit of gifting"; Radical Self-reliance is only "discover,
@@ -35,6 +35,6 @@ ethos draws no line between what is self-provided and what is given.
 
 ## Evidence
 
-The reading in NOTE-tmpcr2sz; the principles are quoted there in full where
+The reading in [NOTE-tmpcr2sz](../notes.d/NOTE-tmpcr2sz.md); the principles are quoted there in full where
 the record uses them. The page is current and undated, so the 2004 wording
 is not established.

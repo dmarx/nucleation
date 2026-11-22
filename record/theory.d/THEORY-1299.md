@@ -53,7 +53,6 @@ bears_on:
 - QUESTION-254
 - QUESTION-368
 ---
-<!-- inactive-ok-file: THEORY-tmpxzn3p — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1499 — Skimmed; the partial reading of the 2024 book, the 2020 paper being read in full -->
 <!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-882 CLAIM-412 TERM-082 — Proposed or Open; the readings, questions, claims and terms this account bears on, cited as open -->
 
@@ -162,7 +161,7 @@ under a definition that already named awareness of awareness.
 
 ## Note of 2026-11-22: Metzinger, read
 
-A **precursor**, no edge (LIT-1947, NOTE-tmpdytsl). The 2021 paper gives the
+A **precursor**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). The 2021 paper gives the
 same placeholder account of consciousness in brief (pp. 48–49) and builds
 on it a design: systems identifying only with minimal phenomenal experience
 would be conscious and unable to suffer (p. 57). It offers no more evidence

@@ -72,7 +72,7 @@ corroborates:
 - CLAIM-356
 ---
 <!-- inactive-ok-file: THEORY-tmp0vgh7 — Proposed; the reading of Howard, Gagné and Bureau, 2026-11-22 -->
-<!-- inactive-ok-file: LIT-1973 LIT-1996 THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: LIT-1973 THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
@@ -209,7 +209,7 @@ The status is unchanged.
 
 ## Note of 2026-11-22: Howard, Gagné and Bureau, read
 
-LIT-1996 is now read first-hand (NOTE-tmp3k6if; THEORY-tmp0vgh7), so this
+[LIT-1996](../literature.d/LIT-1996.md) is now read first-hand ([NOTE-tmp3k6if](../notes.d/NOTE-tmp3k6if.md); [THEORY-tmp0vgh7](THEORY-tmp0vgh7.md)), so this
 account's notes need no longer rely on Ryan et al.'s report of it. It
 **bears on the promote_when's first clause, against it as things stand**:
 across the 13 validated scales to 2016, integrated regulation correlates

@@ -38,7 +38,7 @@ summary: >-
 ## Contribution
 
 The organization's own statement of its ethos, and the primary source for
-the wording that secondary accounts such as St John's (LIT-2188) quote.
+the wording that secondary accounts such as St John's ([LIT-2188](../literature.d/LIT-2188.md)) quote.
 
 ## Key results
 
@@ -101,15 +101,15 @@ Regional Network.
   Self-expression", in a different order from St John's. The Gifting
   wording is confirmed verbatim. The current address is
   https://burningman.org/about-us/10-principles/.
-- **CLAIM-603**: corrects its reading of Radical Self-reliance as
+- **[CLAIM-603](../claims.d/CLAIM-603.md)**: corrects its reading of Radical Self-reliance as
   self-provision; supports its point that the receiver has a path by which
   to give.
-- **NOTE-1662**: answers its open question on how Radical Self-reliance is
+- **[NOTE-1662](NOTE-1662.md)**: answers its open question on how Radical Self-reliance is
   worded.
-- **THEORY-1497**, **THEORY-1546**: confirm their premise, the
+- **[THEORY-1497](../theory.d/THEORY-1497.md)**, **[THEORY-1546](../theory.d/THEORY-1546.md)**: confirm their premise, the
   unconditional gift; the rest is St John's reading.
-- **LIT-2188**: its stand-in role is over.
-- **NOTE-1658**, **NOTE-1679**: the "not reached" mentions are now stale.
+- **[LIT-2188](../literature.d/LIT-2188.md)**: its stand-in role is over.
+- **[NOTE-1658](NOTE-1658.md)**, **[NOTE-1679](NOTE-1679.md)**: the "not reached" mentions are now stale.
 - **No instruction for machine-learning practice.**
 
 ## Limitations

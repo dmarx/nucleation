@@ -30,7 +30,6 @@ summary: >-
   it is true is this entry's question, under the condition [THEORY-1497](THEORY-1497.md)
   carried, word for word.
 ---
-<!-- inactive-ok-file: THEORY-tmpzrqm9 — Proposed; the reading of the 10 Principles, 2026-11-22 -->
 
 # THEORY-1546: Burning Man's gifting carries no obligation on the recipient to reciprocate, yet sustains circulation through gratitude that recipients return to the community in later labour, a generalized rather than bilateral reciprocity; non-participation is the most pressing threat to it, and the organization answered it in part by reforming how theme camps are registered and placed
 
@@ -47,8 +46,8 @@ nothing counted. Nothing beyond that reading is held here.
 
 ## Note of 2026-11-22: Harvey, the 10 Principles, read
 
-**Confirms the premise, not the reading**, no edge (LIT-2175,
-NOTE-tmpcr2sz). The principles state the unconditional gift and make
+**Confirms the premise, not the reading**, no edge ([LIT-2175](../literature.d/LIT-2175.md),
+[NOTE-tmpcr2sz](../notes.d/NOTE-tmpcr2sz.md)). The principles state the unconditional gift and make
 participation and self-expression gifts open to everyone ("Everyone is
 invited to work"), which fits a generalized reciprocity. They say nothing
 of gratitude, of non-participation as a threat, or of how the organization

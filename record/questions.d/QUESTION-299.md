@@ -36,7 +36,6 @@ summary: >-
   judgement reaches the far future only when prompted. Which ground holds
   decides whether the owner's thesis has a counterexample here.
 ---
-<!-- inactive-ok-file: THEORY-tmp4qq57 — Proposed; the reading of Syropoulos, Law, Coleman and Young, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-491 LIT-469 LIT-1754 LIT-1716 LIT-1724 LIT-1769 LIT-1712 LIT-1741 LIT-1747 LIT-1678 — Open, Proposed, Deferred or Unavailable; the questions, thesis and works the question is organised around, cited as open -->
 
 # QUESTION-299: What, if anything, do the living owe people who will live in the far future, and does that obligation rest on the good of those people, on an impersonal good, or on what the living themselves value?
@@ -200,7 +199,7 @@ and Syropoulos and Markowitz were read through other works, and Scheffler
   does not run the thesis's test.
 
 ## Note of 2026-11-22: the thesis's test, searched for
-<!-- inactive-ok-file: LIT-tmporf0r LIT-tmpa7f10 LIT-tmpre45d CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+<!-- inactive-ok-file: LIT-tmporf0r LIT-tmpre45d CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
 
 [LEAD-062](../leads.d/LEAD-062.md) searched Europe PMC and arXiv for a study of whether concern for
 future people varies with a measured continuity between the self and the
@@ -223,7 +222,7 @@ future, apart from caring. None was found.
 
 ## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
 
-**Descriptive only**, no edge (LIT-tmpa7f10, NOTE-tmp11fci). Its
+**Descriptive only**, no edge ([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). Its
 responsibility items measure felt obligation ("People living today have an
 obligation to protect future generations, even if it means tightening our
 belts now") and impartial valuation of far-future lives, not what grounds

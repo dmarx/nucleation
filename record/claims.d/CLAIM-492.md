@@ -48,7 +48,6 @@ summary: >-
   and predicts that motivation follows that criterion and not caring
   alone.
 ---
-<!-- inactive-ok-file: THEORY-tmp4qq57 — Proposed; the reading of Syropoulos, Law, Coleman and Young, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-491 THEORY-1114 — Proposed, Open or Deferred; the thesis objected to, its question, an unread work and a reading named as an example -->
 <!-- inactive-ok-file: LIT-1683 — Unavailable; Sober and Wilson, named for the objection's lineage and read at second hand in Stich (NOTE-1282), nothing here rests on it -->
 
@@ -158,7 +157,7 @@ objection lists.
 ## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
 
 **Consistent with this claim, and an instance of the problem it names**
-(LIT-tmpa7f10, NOTE-tmp11fci). The paper's self-extension toward future
+([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). The paper's self-extension toward future
 people, "identification with future generations", is measured partly by
 perspective-taking ("It is easy for me to put myself in the shoes of future
 generations of people") and glossed as "empathy towards future generations

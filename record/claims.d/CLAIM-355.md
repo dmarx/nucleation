@@ -137,7 +137,6 @@ bears_on:
 rests_on:
 - CLAIM-039
 ---
-<!-- inactive-ok-file: THEORY-tmpxzn3p — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-439 — Proposed; the other self-model QUESTION-442 links, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 — Proposed; the organizational-affect line, reopened by the owner on 2026-10-23: the claim this one rests on, and a claim cited for a note -->
@@ -446,7 +445,7 @@ Rechecked after the Metzinger readings of 2026-11-01 ([LIT-1941](../literature.d
 ## Note of 2026-11-22: Metzinger, read
 
 An **earlier, design-oriented use of the same concepts**, no edge
-(LIT-1947, NOTE-tmpdytsl). Metzinger's "unit of identification" (pp. 56–57)
+([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger's "unit of identification" (pp. 56–57)
 is what a system identifies with, and he proposes building conscious
 systems with none, or with only a non-egoic one, so that suffering cannot
 be attributed to a self. That treats the self-model as a construction that

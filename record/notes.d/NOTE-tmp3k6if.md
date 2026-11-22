@@ -101,20 +101,20 @@ heterogeneity.
   regulation as a distinct factor" is right, with two refinements: the
   paper runs no factor analysis but finds integrated regulation's
   correlations and intervals indistinguishable from identified
-  regulation's, and it leaves open a small second dimension. LIT-1996's
+  regulation's, and it leaves open a small second dimension. [LIT-1996](../literature.d/LIT-1996.md)'s
   history gloss, "partly because too few studies measured integration", is
   not the paper's reason: integrated regulation has k = 84–98 samples, and
   the paper puts the problem in the construct and its measures.
-- **THEORY-054**: first-hand evidence on its first promote_when clause: no
+- **[THEORY-054](../theory.d/THEORY-054.md)**: first-hand evidence on its first promote_when clause: no
   validated scale to 2016 separates integrated from identified regulation.
   It supports the graded half and undercuts the "by integration" half as
   measured.
-- **THEORY-1327**, **NOTE-1500** and **LIT-1967**: the meta-review's report
+- **[THEORY-1327](../theory.d/THEORY-1327.md)**, **[NOTE-1500](NOTE-1500.md)** and **[LIT-1967](../literature.d/LIT-1967.md)**: the meta-review's report
   is confirmed.
-- **THEORY-120**: identified regulation is the analogue of endorsement, so
+- **[THEORY-120](../theory.d/THEORY-120.md)**: identified regulation is the analogue of endorsement, so
   the data cannot tell a coherence account from an endorsement account.
-- **NOTE-448**, **NOTE-442** / **LIT-559**, **NOTE-1513**, **NOTE-436**,
-  **NOTE-431**, **NOTE-441**, **THEORY-075**: dated notes on each.
+- **[NOTE-448](NOTE-448.md)**, **[NOTE-442](NOTE-442.md)** / **[LIT-559](../literature.d/LIT-559.md)**, **[NOTE-1513](NOTE-1513.md)**, **[NOTE-436](NOTE-436.md)**,
+  **[NOTE-431](NOTE-431.md)**, **[NOTE-441](NOTE-441.md)**, **[THEORY-075](../theory.d/THEORY-075.md)**: dated notes on each.
 - **No bearing on needs or their thwarting**: the paper studies the
   structure of regulations, with need satisfaction only as background
   (p. 6).

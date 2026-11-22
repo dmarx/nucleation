@@ -34,7 +34,7 @@ summary: >-
   identification with future generations never rises.
 ---
 <!-- inactive-ok-file: CASE-tmp413kq — Proposed; the case this reading bears on -->
-<!-- inactive-ok-file: LIT-tmpre45d LIT-1741 — Deferred or Unavailable; the same group's works, named -->
+<!-- inactive-ok-file: LIT-1741 — Deferred or Unavailable; the same group's works, named -->
 
 # NOTE-tmp11fci: Syropoulos, Law, Coleman and Young — A Future Beyond Ourselves
 
@@ -100,16 +100,16 @@ efficacy; construal level theory; present bias.
   Syropoulos first, then Coleman and Young. The version read is the
   2024-05-21 manuscript. Sample totals disagree in the text (11,261 in the
   abstract and Table 1; 9570 in the limitations).
-- **LEAD-062 / CASE-tmp413kq**: not the test the lead asks for; supplies an
+- **[LEAD-062](../leads.d/LEAD-062.md) / [CASE-tmp413kq](../cases.d/CASE-tmp413kq.md)**: not the test the lead asks for; supplies an
   off-the-shelf circles item for future generations, and two manipulations
   that failed as identification inductions.
-- **CLAIM-492**: an instance of the problem it names.
-- **QUESTION-301**, **QUESTION-299**, **QUESTION-300**: dated notes on each.
-- **LIT-1713 / NOTE-1293 / THEORY-1579**: the same group's RFG work; the RFG
+- **[CLAIM-492](../claims.d/CLAIM-492.md)**: an instance of the problem it names.
+- **[QUESTION-301](../questions.d/QUESTION-301.md)**, **[QUESTION-299](../questions.d/QUESTION-299.md)**, **[QUESTION-300](../questions.d/QUESTION-300.md)**: dated notes on each.
+- **[LIT-1713](../literature.d/LIT-1713.md) / [NOTE-1293](NOTE-1293.md) / [THEORY-1579](../theory.d/THEORY-1579.md)**: the same group's RFG work; the RFG
   scale here is Syropoulos et al. 2020 (the gratitude and stewardship
-  paper), which the record does not hold; it is not LIT-1741.
-- **LIT-1702 / NOTE-1259** (Hershfield): the source of the FSC construct.
-- **NOTE-1274**: its doubt about what the overlapping-circles measure
+  paper), which the record does not hold; it is not [LIT-1741](../literature.d/LIT-1741.md).
+- **[LIT-1702](../literature.d/LIT-1702.md) / [NOTE-1259](NOTE-1259.md)** (Hershfield): the source of the FSC construct.
+- **[NOTE-1274](NOTE-1274.md)**: its doubt about what the overlapping-circles measure
   measures bears on this paper's identification item.
 - **No instruction for machine-learning practice.**
 

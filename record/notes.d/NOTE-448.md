@@ -245,7 +245,7 @@ introjected guilt can be attained and leave the person no better off.
 ## Note of 2026-11-22: Howard, Gagné and Bureau, read
 
 **Answers the measurement half of an open question above**, no edge
-(LIT-1996, NOTE-tmp3k6if). "Does integrated regulation, measured
+([LIT-1996](../literature.d/LIT-1996.md), [NOTE-tmp3k6if](NOTE-tmp3k6if.md)). "Does integrated regulation, measured
 separately from identified, add anything to the prediction?": across
 validated scales to 2016 it is not measured separately (r = .913 with
 identified, overlapping intervals). Whether a separate measure would add to

@@ -14,7 +14,7 @@ promote_when: >-
   integrated from identified regulation; or the published version of
   record is checked and its tables give the same pooled correlations.
 summary: >-
-  Howard, Gagné and Bureau, read in NOTE-tmp3k6if (Read). Pooled
+  Howard, Gagné and Bureau, read in [NOTE-tmp3k6if](../notes.d/NOTE-tmp3k6if.md) (Read). Pooled
   correlations among the motivation types from 486 samples and 13 scales
   form a simplex that one dimension explains (99.75%), with unexplained
   heterogeneity near 99%. Integrated regulation correlates .913 with
@@ -37,12 +37,12 @@ intrinsic motivation from each other.
 
 ## Evidence
 
-The reading in NOTE-tmp3k6if; its key results are quoted there with
+The reading in [NOTE-tmp3k6if](../notes.d/NOTE-tmp3k6if.md); its key results are quoted there with
 locations, from the authors' manuscript. The structure is of self-report
 correlations, disattenuated, with near-total unexplained heterogeneity.
 
 ## Bearing
 
-On THEORY-054's first promote_when clause, which asks for a measure of
+On [THEORY-054](THEORY-054.md)'s first promote_when clause, which asks for a measure of
 integrated regulation separable from identified regulation: across the
 validated scales to 2016 there is none.

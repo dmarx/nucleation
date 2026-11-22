@@ -281,7 +281,7 @@ vertical individualism statistics (p. 105 against Table 6).
 
 ## Note of 2026-11-22: Howard, Gagné and Bureau, read
 
-**Background**, no edge (LIT-1996, NOTE-tmp3k6if). Where this note draws on
+**Background**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-tmp3k6if](NOTE-tmp3k6if.md)). Where this note draws on
 integration, and on values that "cannot be integrated", the meta-analysis
 adds that integrated regulation has no measure separate from identified
 regulation in the scales to 2016, so claims about integration as distinct

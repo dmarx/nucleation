@@ -34,7 +34,6 @@ summary: >-
 bears_on:
 - QUESTION-299
 ---
-<!-- inactive-ok-file: THEORY-tmp4qq57 — Proposed; the reading of Syropoulos, Law, Coleman and Young, 2026-11-22 -->
 
 # THEORY-1579: Syropoulos et al. report that felt responsibility to future generations is endorsed by most people in Europe and the US, is nearly unrelated to ideology and demographics and half as tied to conservatism as responsibility for climate, predicts self-reported proenvironmentalism, and was raised a little by each of five brief interventions, most by a letter to a person born today and least by a longtermist text
 
@@ -77,7 +76,7 @@ The reading bears on what predicts concern for future generations.
 
 ## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
 
-**Consonant**, no edge (LIT-tmpa7f10, NOTE-tmp11fci). The paper's samples
+**Consonant**, no edge ([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). The paper's samples
 also endorse responsibility to future generations widely; it adds that the
 felt responsibility goes with one's own prospection, and that writing tasks
 raising that prospection do not reliably raise it.

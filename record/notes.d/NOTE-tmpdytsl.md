@@ -125,22 +125,22 @@ artificial moral agent; Kantian self-model; moral injury.
   alternative ending. The licence is CC BY 4.0. And the paper confirms what
   "Standing in the record" inferred from the restatement: a self, not
   consciousness as such, is necessary for suffering (p. 55).
-- **QUESTION-368**: bears directly. The paper anticipates the case and
+- **[QUESTION-368](../questions.d/QUESTION-368.md)**: bears directly. The paper anticipates the case and
   offers it as ethics by design, a system unable to suffer, not as a moral
   patient; its stated ethics, pathocentrism, gives the question's first
   position if "sentient" means able to suffer; it leaves open whether even
   suffering-capable systems are "genuine moral patients". A second variant
   of the case appears on p. 51: a self without preferences, in "choiceless
   awareness".
-- **TERM-083**: names its ground, sentience; uses "moral object" and "object
+- **[TERM-083](../terms.d/TERM-083.md)**: names its ground, sentience; uses "moral object" and "object
   of ethical consideration" for the precautionary class.
-- **THEORY-677**: a case of one-directional precaution.
-- **THEORY-554**: consonant on numbers (p. 44); argues prevention, not
+- **[THEORY-677](../theory.d/THEORY-677.md)**: a case of one-directional precaution.
+- **[THEORY-554](../theory.d/THEORY-554.md)**: consonant on numbers (p. 44); argues prevention, not
   weighing.
-- **LIT-1943 / NOTE-1499 / THEORY-1299**: the 2024 book's placeholder theory
+- **[LIT-1943](../literature.d/LIT-1943.md) / [NOTE-1499](NOTE-1499.md) / [THEORY-1299](../theory.d/THEORY-1299.md)**: the 2024 book's placeholder theory
   of consciousness and its non-egoic self-model are already here.
-- **NOTE-093**, **THEORY-699**, **LIT-465**, **LIT-1941**, **LIT-1944**,
-  **CLAIM-355**: dated notes on each.
+- **[NOTE-093](NOTE-093.md)**, **[THEORY-699](../theory.d/THEORY-699.md)**, **[LIT-465](../literature.d/LIT-465.md)**, **[LIT-1941](../literature.d/LIT-1941.md)**, **[LIT-1944](../literature.d/LIT-1944.md)**,
+  **[CLAIM-355](../claims.d/CLAIM-355.md)**: dated notes on each.
 - **No instruction for machine-learning practice.**
 
 ## Limitations

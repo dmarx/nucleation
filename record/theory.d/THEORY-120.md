@@ -66,7 +66,6 @@ summary: >-
 bounds:
 - CLAIM-548
 ---
-<!-- inactive-ok-file: THEORY-tmp0vgh7 — Proposed; the reading of Howard, Gagné and Bureau, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-122 THEORY-119 — Proposed; the rival accounts declared here, the manipulation account named in prose, and the PAP account filed in the same batch -->
 <!-- inactive-ok-file: LIT-575 LIT-695 LIT-693 LIT-690 LIT-684 — Unavailable, unread; Frankfurt's later replies and collection, and the critics' primary texts, named in prose -->
 
@@ -239,7 +238,7 @@ The texts that settle what identification became, [LIT-575](../literature.d/LIT-
 
 ## Note of 2026-11-22: Howard, Gagné and Bureau, read
 
-**Indirect**, no edge (LIT-1996, NOTE-tmp3k6if). Identified regulation, acting
+**Indirect**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-tmp3k6if](../notes.d/NOTE-tmp3k6if.md)). Identified regulation, acting
 "in line with personal values", is self-determination theory's nearest
 analogue of endorsement; integrated regulation adds coherence with one's
 other values. The meta-analysis finds the two indistinguishable in
