@@ -27,6 +27,9 @@ summary: >-
   persistence.
 ---
 
+<!-- inactive-ok-file: THEORY-1658 CLAIM-659 ARG-090 — Proposed; the account, claim and argument this reading bears on -->
+<!-- inactive-ok-file: CASE-tmpmkc5v — new; the comparison specified from this reading in the same change -->
+
 # NOTE-tmpeyhkz: Peng et al. Immunity 2025 on NIMA tolerance sustained by LysM CD11c maternal microchimeric cells
 
 ## Contribution

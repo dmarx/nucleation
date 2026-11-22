@@ -32,9 +32,8 @@ summary: >-
   given later from a donor. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-530 — Active, needs no excuse; CLAIM-659 THEORY-1658 LIT-2462 NOTE-tmpeyhkz CASE-189 CLAIM-522 TERM-100 QUESTION-086 cited in prose -->
-<!-- inactive-ok-file: THEORY-1658 — Proposed; the account read from LIT-2462 -->
-<!-- inactive-ok-file: LIT-2462 — read for this case (NOTE-tmpeyhkz); status set to Active in this same change -->
+
+<!-- inactive-ok-file: NOTE-tmpeyhkz — new; the reading of LIT-2462 this case draws on, filed in the same change -->
 
 # CASE-tmpmkc5v: A proposed comparison of own-maternal-cell NIMA tolerance against donor-supplied matched tolerogenic cells: supply the same tolerogenic function from inside the host's own persisting lineage or from an outside donor transfer, apply the same depletion and restoration interventions to each, and ask whether any intervention short of removing the cells tells the internally maintained producer from the externally supplied one
 

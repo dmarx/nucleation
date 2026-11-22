@@ -20,10 +20,14 @@
   403/permission-refused. Confirms both halves of THEORY-1658's promote_when.
 
 ## Next
-- File NOTE for LIT-2462 (Read); update LIT-2462 -> Active, summary + history v2.
-- File the comparison CASE (proposed-study) with what would count.
-- Dated notes: THEORY-1658 (promote_when met), CLAIM-530, CLAIM-659,
-  QUESTION-086, LEAD-051. Changelog fragment.
+- DONE: NOTE-tmpeyhkz filed; LIT-2462 -> Active; CASE-tmpmkc5v filed; dated
+  notes on THEORY-1658/CLAIM-530/CLAIM-659/QUESTION-086/LEAD-051; changelog.
+- DONE: trimmed now-stale `inactive-ok-file: LIT-2462` excuses (LIT now Active)
+  across LEAD-051/118, NOTE-1763, QUESTION-086, CLAIM-530, ARG-090, curation
+  022649, LIT-2415/2428, THEORY-1658; added `— new` excuses for NOTE-tmpeyhkz /
+  CASE-tmpmkc5v where cited in prose.
+- Remaining: report. (Do NOT change lead status/stage; owner decides promotion
+  of THEORY-1658 and the lead's "what would count" tension.)
 
 ## Choices made
 - CASE kind = proposed-study, standing = stipulated (matches CASE-290 etc.).

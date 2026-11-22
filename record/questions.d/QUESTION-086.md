@@ -38,8 +38,8 @@ summary: >-
   that separates the pair, or an argument that none can short of the
   removal.
 ---
-<!-- inactive-ok-file: LIT-2462 — Unfetched; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CASE-tmpmkc5v NOTE-tmpeyhkz — new; the comparison case and the reading of LIT-2462, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: LIT-1030 THEORY-071 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-086: Can two systems with matching behaviour and persistence be told apart by whether their own processes generate and revise the constraints that keep them going, and by what intervention?
@@ -246,3 +246,21 @@ behave alike under a sham injury are told apart by interventions:
 Stopping the producer and destroying the internal producer did not separate
 them within the horizon run. [CLAIM-tmpqaqtx](../claims.d/CLAIM-tmpqaqtx.md) states the pattern for that
 construction. The question stays Open.
+
+## Note of 2026-11-22: the maternal-microchimerism comparison specified as a case
+
+The proposed test of the note of 2026-11-12 is now specified, for LEAD-051,
+after reading Peng et al. (LIT-2462, NOTE-tmpeyhkz). CASE-tmpmkc5v states it as
+a matched pair: NIMA tolerance sustained by the offspring's own persisting
+LysM+ CD11c+ Vav1+ maternal microchimeric cells (Arm A), against the same
+tolerogenic function supplied later from a donor transfer (Arm B), with the
+paper's own handles -- the identified tolerogenic subset, the diphtheria-toxin-
+receptor depletion, the FOXP3+ Treg and fetal-wastage readouts. The design
+carries this question's "by what intervention": if disabling, restoring and
+challenging the tolerance move identically in both arms, the manipulations
+cannot separate internal producer from external supply (supporting CLAIM-530);
+the candidate separating intervention short of removal is the maintenance-
+provenance probe (TERM-100) -- withdraw re-supply and ask whether the host
+renews the cells and the tolerance with them. The case does not answer the
+question, and its "internal" is stipulated by which cells are the host's own,
+so A10's problem of scale is untouched. The question is unchanged.

@@ -85,8 +85,8 @@ summary: >-
   produces, is a candidate that [CLAIM-522](CLAIM-522.md)'s one-variable model cannot
   express.
 ---
-<!-- inactive-ok-file: LIT-2462 — Unfetched; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
+<!-- inactive-ok-file: CASE-tmpmkc5v NOTE-tmpeyhkz — new; the comparison case and the reading of LIT-2462, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: LIT-832 LIT-1930 LIT-1931 LIT-1929 — Unavailable, Unfetched, Open or Proposed; the unread texts that state the criterion, the questions this bears on, and a proposed account of production, cited as open -->
 
 # CLAIM-530: Where maintenance is realized is a question of constitutive relevance only through its parthood condition: an internal producer and an outside controller supplying the same production law as state feedback meet mutual manipulability's two manipulability conditions identically, since disabling or stimulating either changes the maintained capacities and intervening on the capacities changes the activity of either, so what puts one inside and the other outside is parthood, a boundary the experiments presuppose and do not find
@@ -190,3 +190,19 @@ experiments would leave inside against outside to the parthood clause, as
 this claim says. Supports the claim's scope; no status change. The wording
 is the assistant's (Claude, in this session); adopting it is the owner's
 call.
+
+## Note of 2026-11-22: the parthood clause specified as a case, for LEAD-051
+
+The pointer in the note of 2026-11-12 is now a specified design. Having read
+Peng et al. (LIT-2462, NOTE-tmpeyhkz), CASE-tmpmkc5v builds the own-cell-vs-
+donor-cell pair with the paper's handles and applies the manipulability
+interventions to each arm. Its reading of this claim: if disabling, restoring
+and challenging NIMA tolerance move identically whether the tolerogenic cells
+are the host's own persisting maternal microchimeric lineage or a matched
+donor transfer, then mutual manipulability's two manipulability conditions
+hold alike for both, and only the stipulated boundary (own lineage inside,
+donor outside) separates them -- this claim applied to a single cell
+population. The case illustrates the claim; being unrun, it does not ground
+it. No status change. A tension the owner should resolve is recorded in the
+case: LEAD-051's one-line "what would count" reads the opposite labelling of
+support from the owner-accepted QUESTION-086 note on which this claim turns.
