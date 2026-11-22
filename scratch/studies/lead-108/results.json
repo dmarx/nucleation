@@ -1,0 +1,486 @@
+{
+ "cockpit": {
+  "scenarios": [
+   {
+    "scenario": "cockpit: calls only, phase-priced",
+    "store": 11.762,
+    "on_demand": 18.0,
+    "saving": 6.238,
+    "store_by_party": {
+     "user": 11.762
+    },
+    "on_demand_by_party": {
+     "user": 18.0
+    },
+    "availability_store": [
+     0.99
+    ],
+    "availability_on_demand": [
+     0.0
+    ],
+    "break_even_n": [
+     2.248
+    ],
+    "undetected_wrong_store": 0.001,
+    "undetected_wrong_on_demand": 0.02,
+    "notes": "4 reads at high load; construction at low load",
+    "error_bound": 0.005,
+    "store_meets_bound": true,
+    "on_demand_meets_bound": false
+   },
+   {
+    "scenario": "cockpit: calls only, flat price",
+    "store": 9.254,
+    "on_demand": 6.0,
+    "saving": -3.254,
+    "store_by_party": {
+     "user": 9.254
+    },
+    "on_demand_by_party": {
+     "user": 6.0
+    },
+    "availability_store": [
+     0.9988
+    ],
+    "availability_on_demand": [
+     0.98
+    ],
+    "break_even_n": [
+     6.743
+    ],
+    "undetected_wrong_store": 0.001,
+    "undetected_wrong_on_demand": 0.02,
+    "notes": "same work, no load difference and no budget: reuse alone",
+    "error_bound": 0.005,
+    "store_meets_bound": true,
+    "on_demand_meets_bound": false
+   },
+   {
+    "scenario": "cockpit: calls and monitoring, phase-priced",
+    "store": 30.572,
+    "on_demand": 108.0,
+    "saving": 77.428,
+    "store_by_party": {
+     "user": 30.572
+    },
+    "on_demand_by_party": {
+     "user": 108.0
+    },
+    "availability_store": [
+     0.99
+    ],
+    "availability_on_demand": [
+     0.0
+    ],
+    "break_even_n": [
+     2.248
+    ],
+    "undetected_wrong_store": 0.001,
+    "undetected_wrong_on_demand": 0.02,
+    "notes": "24 reads in the approach",
+    "error_bound": 0.005,
+    "store_meets_bound": true,
+    "on_demand_meets_bound": false
+   },
+   {
+    "scenario": "cockpit: booklet's share counted (boundary widened)",
+    "store": 11.962,
+    "on_demand": 18.0,
+    "saving": 6.038,
+    "store_by_party": {
+     "crew": 8.2,
+     "user": 3.762
+    },
+    "on_demand_by_party": {
+     "user": 18.0
+    },
+    "availability_store": [
+     0.99
+    ],
+    "availability_on_demand": [
+     0.0
+    ],
+    "break_even_n": [
+     2.304
+    ],
+    "undetected_wrong_store": 0.001,
+    "undetected_wrong_on_demand": 0.02,
+    "notes": "card booklet: 2000 units spread over 10,000 approaches (illustrative), paid by the maker, folded into F",
+    "error_bound": 0.005,
+    "store_meets_bound": true,
+    "on_demand_meets_bound": false
+   }
+  ],
+  "sweep_load_ratio": [
+   {
+    "lam_high/lam_low": 1.0,
+    "n": 4,
+    "saving": -3.254
+   },
+   {
+    "lam_high/lam_low": 1.0,
+    "n": 24,
+    "saving": 20.476
+   },
+   {
+    "lam_high/lam_low": 1.5,
+    "n": 4,
+    "saving": -0.881
+   },
+   {
+    "lam_high/lam_low": 1.5,
+    "n": 24,
+    "saving": 34.714
+   },
+   {
+    "lam_high/lam_low": 2.0,
+    "n": 4,
+    "saving": 1.492
+   },
+   {
+    "lam_high/lam_low": 2.0,
+    "n": 24,
+    "saving": 48.952
+   },
+   {
+    "lam_high/lam_low": 3.0,
+    "n": 4,
+    "saving": 6.238
+   },
+   {
+    "lam_high/lam_low": 3.0,
+    "n": 24,
+    "saving": 77.428
+   },
+   {
+    "lam_high/lam_low": 5.0,
+    "n": 4,
+    "saving": 15.73
+   },
+   {
+    "lam_high/lam_low": 5.0,
+    "n": 24,
+    "saving": 134.38
+   }
+  ],
+  "sweep_erosion": [
+   {
+    "eps": 0.0,
+    "saving": 6.238
+   },
+   {
+    "eps": 0.5,
+    "saving": 6.157
+   },
+   {
+    "eps": 1.0,
+    "saving": 6.076
+   },
+   {
+    "eps": 3.0,
+    "saving": 5.752
+   }
+  ]
+ },
+ "filing": {
+  "scenarios": [
+   {
+    "scenario": "filing: CASE-088 as filed",
+    "store": 34.0,
+    "on_demand": 45.0,
+    "saving": 11.0,
+    "store_by_party": {
+     "user": 34.0
+    },
+    "on_demand_by_party": {
+     "user": 45.0
+    },
+    "availability_store": [
+     1.0
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     2.083
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "reduces to CLAIM-303: F + n(c_a + u) < n c_r"
+   },
+   {
+    "scenario": "filing: staleness priced",
+    "store": 46.0,
+    "on_demand": 45.0,
+    "saving": -1.0,
+    "store_by_party": {
+     "user": 46.0
+    },
+    "on_demand_by_party": {
+     "user": 45.0
+    },
+    "availability_store": [
+     0.95
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     3.125
+    ],
+    "undetected_wrong_store": 0.05,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "illustrative: 1 use in 10 finds it out of date; checking catches half; an undetected stale answer costs 4 reconstructions; revision 5"
+   },
+   {
+    "scenario": "filing: staleness bound instead of priced",
+    "store": 48.7,
+    "on_demand": 45.0,
+    "saving": -3.7,
+    "store_by_party": {
+     "user": 48.7
+    },
+    "on_demand_by_party": {
+     "user": 45.0
+    },
+    "availability_store": [
+     0.995
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     3.521
+    ],
+    "undetected_wrong_store": 0.005,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "the bound regime: checking raised from 2 to 5 to catch 95%",
+    "error_bound": 0.01,
+    "store_meets_bound": true,
+    "on_demand_meets_bound": true
+   },
+   {
+    "scenario": "filing: in a large store",
+    "store": 45.0,
+    "on_demand": 45.0,
+    "saving": 0.0,
+    "store_by_party": {
+     "user": 45.0
+    },
+    "on_demand_by_party": {
+     "user": 45.0
+    },
+    "availability_store": [
+     1.0
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     3.0
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "illustrative: recognition by search adds 2 per use (CLAIM-314); upkeep 2 (lint, link repair, CI); each filing adds 0.01 to each of 300 other reuses"
+   },
+   {
+    "scenario": "filing: owner's review counted at its price (alt A2)",
+    "store": 49.0,
+    "on_demand": 45.0,
+    "saving": -4.0,
+    "store_by_party": {
+     "user": 49.0
+    },
+    "on_demand_by_party": {
+     "user": 45.0
+    },
+    "availability_store": [
+     1.0
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     3.333
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "illustrative: 5 of the 25 units are the owner's review, priced at 4x the session's work"
+   },
+   {
+    "scenario": "filing: session's work only (alt A1)",
+    "store": 29.0,
+    "on_demand": 45.0,
+    "saving": 16.0,
+    "store_by_party": {
+     "user": 29.0
+    },
+    "on_demand_by_party": {
+     "user": 45.0
+    },
+    "availability_store": [
+     1.0
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     1.667
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "the owner's review left outside the boundary"
+   },
+   {
+    "scenario": "filing: owner reconstructs, erosion counted (alt B2)",
+    "store": 51.55,
+    "on_demand": 45.0,
+    "saving": -6.55,
+    "store_by_party": {
+     "user": 51.55
+    },
+    "on_demand_by_party": {
+     "user": 45.0
+    },
+    "availability_store": [
+     1.0
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     4.065
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "illustrative: 3 in 10 uses are not served by the filing; the owner's own reconstruction has become 50% dearer"
+   },
+   {
+    "scenario": "filing: fresh session reconstructs (alt B1)",
+    "store": 44.8,
+    "on_demand": 45.0,
+    "saving": 0.2,
+    "store_by_party": {
+     "user": 44.8
+    },
+    "on_demand_by_party": {
+     "user": 45.0
+    },
+    "availability_store": [
+     1.0
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     2.976
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "a session has no internal route to erode"
+   }
+  ],
+  "claim_308_ratio_without_forecast": 1.8
+ },
+ "lego": {
+  "scenarios": [
+   {
+    "scenario": "lego: one copy, similar to binmates, labelled bins",
+    "store": 76.5,
+    "on_demand": 1000.0,
+    "saving": 923.5,
+    "store_by_party": {
+     "user": 76.5
+    },
+    "on_demand_by_party": {
+     "user": 1000.0
+    },
+    "availability_store": [
+     0.95
+    ],
+    "availability_on_demand": [
+     0.0
+    ],
+    "break_even_n": [
+     0.065
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "10 uses over the horizon (illustrative)"
+   },
+   {
+    "scenario": "lego: twenty copies, labelled bins",
+    "store": 31.262,
+    "on_demand": 95.238,
+    "saving": 63.976,
+    "store_by_party": {
+     "user": 31.262
+    },
+    "on_demand_by_party": {
+     "user": 95.238
+    },
+    "availability_store": [
+     1.0
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     0.857
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "10 uses over the horizon (illustrative)"
+   },
+   {
+    "scenario": "lego: black brick among white (pop-out)",
+    "store": 27.0,
+    "on_demand": 10.0,
+    "saving": -17.0,
+    "store_by_party": {
+     "user": 27.0
+    },
+    "on_demand_by_party": {
+     "user": 10.0
+    },
+    "availability_store": [
+     1.0
+    ],
+    "availability_on_demand": [
+     1.0
+    ],
+    "break_even_n": [
+     null
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "feature search, about one look (CLAIM-310 part 3)"
+   },
+   {
+    "scenario": "lego: one copy, bins found by scanning",
+    "store": 176.5,
+    "on_demand": 1000.0,
+    "saving": 823.5,
+    "store_by_party": {
+     "user": 176.5
+    },
+    "on_demand_by_party": {
+     "user": 1000.0
+    },
+    "availability_store": [
+     0.95
+    ],
+    "availability_on_demand": [
+     0.0
+    ],
+    "break_even_n": [
+     1.14
+    ],
+    "undetected_wrong_store": 0.0,
+    "undetected_wrong_on_demand": 0.0,
+    "notes": "one more bin adds half a bin-look to each of 200 other searches (CLAIM-310's k/2)"
+   }
+  ],
+  "file_at_once": "F = 5 is less than one search's overpayment (100 - 2), so CLAIM-308's rule makes the bin at the first find, as CASE-094 does"
+ }
+}
