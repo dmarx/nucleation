@@ -1,0 +1,13 @@
+philarchive.org
+philpapers.org
+philsci-archive.pitt.edu
+doi.apa.org
+psycnet.apa.org
+onlinelibrary.wiley.com
+projecteuclid.org
+iopscience.iop.org
+www.ncbi.nlm.nih.gov
+pmc.ncbi.nlm.nih.gov
+web.archive.org
+www.biorxiv.org
+igi-web.tugraz.at

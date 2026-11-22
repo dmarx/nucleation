@@ -5,7 +5,7 @@ Phase 1 (discover): OpenAlex, Unpaywall (email noreply@anthropic.com, ADR-008),
 Europe PMC search, the NCBI ID converter. Phase 2 (probe): one GET per candidate
 copy, no retries; a host that returns a challenge is not contacted again in the run.
 
-Run: python3 -I sweep.py <unfetched.tsv> <out_dir>
+Run: python3 -I sweep.py <unfetched.tsv> <out_dir> [seed_hosts.txt]  (resumable)
 """
 from __future__ import annotations
 
@@ -73,7 +73,7 @@ def candidates(openalex: dict | None, unpaywall: dict | None) -> list[dict]:
     return out
 
 
-def get(url: str, limit: int = 65536, timeout: int = 30) -> tuple[int | None, str, bytes, str]:
+def get(url: str, limit: int = 65536, timeout: int = 15) -> tuple[int | None, str, bytes, str]:
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "*/*"})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
@@ -145,13 +145,23 @@ def probe_all(cands: list[dict], challenged: set[str], max_per_work: int = 6) ->
     return res
 
 
-def main(tsv: str, out_dir: str) -> None:
+def main(tsv: str, out_dir: str, seed_hosts: str = "") -> None:
+    """Append one JSON line per work to results.jsonl; resume by skipping codes already written.
+
+    seed_hosts: optional file of hosts known to challenge (one per line); they are not contacted.
+    """
     out = Path(out_dir)
     out.mkdir(parents=True, exist_ok=True)
     rows = list(csv.DictReader(open(tsv), delimiter="\t"))
-    challenged: set[str] = set()
-    results = []
+    jl = out / "results.jsonl"
+    done = {json.loads(l)["code"] for l in jl.read_text().splitlines() if l.strip()} if jl.exists() else set()
+    hosts_file = out / "challenged_hosts.json"
+    challenged: set[str] = set(json.loads(hosts_file.read_text())) if hosts_file.exists() else set()
+    if seed_hosts:
+        challenged |= {h.strip() for h in Path(seed_hosts).read_text().splitlines() if h.strip()}
     for i, row in enumerate(rows):
+        if row["code"] in done:
+            continue
         rec = {"code": row["code"], "doi": row["doi"], "url": row["url"], "title": row["title"]}
         if row["doi"]:
             rec.update(discover(row["doi"]))
@@ -164,11 +174,11 @@ def main(tsv: str, out_dir: str) -> None:
             rec.update({"candidates": [{"url": row["url"], "kind": "recorded", "version": "",
                                          "via": "record", "host": urllib.parse.urlparse(row["url"]).netloc}]})
         rec["probes"] = probe_all(rec["candidates"], challenged)
-        results.append(rec)
+        with jl.open("a") as f:
+            f.write(json.dumps(rec) + "\n")
+        hosts_file.write_text(json.dumps(sorted(challenged), indent=1))
         print(i, row["code"], [p["result"] for p in rec["probes"]], flush=True)
-    (out / "results.json").write_text(json.dumps(results, indent=1))
-    (out / "challenged_hosts.json").write_text(json.dumps(sorted(challenged), indent=1))
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:3])
+    main(*sys.argv[1:4])
