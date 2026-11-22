@@ -1,76 +1,66 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Unfetched | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041). `Unfetched` is one whose lawful free copy was
-# located at an exact address that this client could not fetch; the status
-# note gives the address and the obstacle (ADR-053).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpt282z:` heading.
 title: 'Tail behavior of stationary solutions of random difference equations: the case of regular matrices'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered on 2026-11-22 as a stand-in for Kesten (1973), LIT-3005,
+    whose lawful copy at Project Euclid was stopped by a WAF challenge
+    (ADR-114). Read in part the same day in NOTE-tmpy4hcs by a delegated
+    reader from arXiv (arxiv.org/pdf/1009.1728v3, v3 of 11 February
+    2011, the authors' preprint, 27 pp.); the reading is
+    THEORY-tmpocjqv. Bibliography from the arXiv API (v1 submitted
+    9 September 2010; journal reference Journal of Difference Equations
+    and Applications 18(8), 1305–1332, 2012) and Crossref (DOI
+    10.1080/10236198.2011.571383, where the title reads "behaviour"), no
+    email address sent. Not held before: no hit for the arXiv id,
+    Alsmeyer or Mentemeier in record/.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- probabilistic-modeling
+- mathematics
 date: '2026-11-22'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2010-09-09'
+arxiv: '1009.1728'
+doi: '10.1080/10236198.2011.571383'
+first_author: 'Alsmeyer'
+keywords:
+- 'Markov renewal theory'
+- 'implicit renewal theory'
+- 'Harris recurrence'
+- 'stochastic difference equations'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Alsmeyer & Mentemeier (2012), Tail behavior of stationary solutions of
+  random difference equations: the case of regular matrices, Journal of
+  Difference Equations and Applications 18(8), 1305–1332; arXiv
+  1009.1728. For R_n = M_n R_(n−1) + Q_n with invertible d × d matrices
+  and a negative Liapunov exponent, under (A1)–(A7), there is a unique
+  κ with lim n^(−1) log E‖Π_n‖^κ = 0 and lim t^κ P(xR > t) = K(x) > 0
+  for every direction x. A shorter proof of the result that, in their
+  words, Kesten (1973) stated "at the end of his famous article" and Le
+  Page proved; here as the record's second-hand access to Kesten's
+  matrix theorem.
 ---
+<!-- inactive-ok-file: LIT-3005 — Unfetched; the original this work stands in for -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpt282z: Tail behavior of stationary solutions of random difference equations: the case of regular matrices
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Alsmeyer and Mentemeier (2012). Journal of Difference Equations and
+Applications 18(8), 1305–1332. arXiv 1009.1728.
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+- Theorem 1.1 (p. 2): the matrix form of the Kesten tail, with κ fixed by
+  the growth rate of E‖Π_n‖^κ and a positive, continuous limit K(x) in
+  every direction.
+- Remark 1 (p. 3): the result, "with one extra condition", was stated by
+  Kesten at the end of his 1973 article and proved by Le Page.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Registered as a stand-in for Kesten (1973), LIT-3005, which is Unfetched
+(ADR-114). It gives the matrix theorem only at second hand, through the
+authors' Theorem 1.1 and Remark 1; it does not restate Kesten's own
+hypotheses.

@@ -1,76 +1,70 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Unfetched | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041). `Unfetched` is one whose lawful free copy was
-# located at an exact address that this client could not fetch; the status
-# note gives the address and the obstacle (ADR-053).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpk12vu:` heading.
 title: 'A note on the Kesten–Grincevičius–Goldie theorem'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered on 2026-11-22 as a stand-in for Kesten (1973), LIT-3005,
+    whose lawful copy at Project Euclid was stopped by a WAF challenge
+    (ADR-114). Read the same day in NOTE-tmpv02cb by a delegated reader
+    from arXiv (arxiv.org/pdf/1512.07262v2, v2 of 22 July 2016, the
+    author's preprint, 17 pp.); the reading is THEORY-tmpsmrhx.
+    Bibliography from the arXiv API (v1 submitted 22 December 2015) and
+    Crossref (Electronic Communications in Probability 21 (2016), 1–12,
+    DOI 10.1214/16-ECP9), no email address sent. Not held before: no hit
+    for the arXiv id, the DOI, Kevei or Grincevičius in record/.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- probabilistic-modeling
+- mathematics
 date: '2026-11-22'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2015-12-22'
+arxiv: '1512.07262'
+doi: '10.1214/16-ECP9'
+first_author: 'Kevei'
+keywords:
+- 'Perpetuity equation'
+- 'Stochastic difference equation'
+- 'Strong renewal theorem'
+- 'Exponential functional'
+- 'Maximum of random walk'
+- 'Implicit renewal theorem'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Kevei (2016), A note on the Kesten–Grincevičius–Goldie theorem,
+  Electronic Communications in Probability 21, 1–12; arXiv 1512.07262.
+  For the perpetuity X = AX + B, the theorem says P{X > x} ∼ c+ x^(−κ)
+  (and P{X < −x} ∼ c− x^(−κ), c+ + c− > 0) when EA^κ = 1,
+  EA^κ log⁺A < ∞, log A is nonarithmetic and E|B|^κ < ∞; the paper
+  extends it to EA^κ log⁺A = ∞, where a nonconstant slowly varying
+  factor appears. Its introduction is the record's restatement of
+  Kesten (1973), LIT-3005, which it stands in for in one dimension, and
+  of Goldie's reflecting form X = AX ∨ B with the same κ.
 ---
+<!-- inactive-ok-file: LIT-3005 — Unfetched; the original this work stands in for -->
+<!-- inactive-ok-file: LIT-tmpn76uh — Deferred; Goldie (1991), registered with this reading -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpk12vu: A note on the Kesten–Grincevičius–Goldie theorem
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Kevei (2016). Electronic Communications in Probability 21, 1–12.
+arXiv 1512.07262. DOI 10.1214/16-ECP9.
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+- States the one-dimensional Kesten–Grincevičius–Goldie theorem with its
+  hypotheses, and the two-sided Pareto-like tail it gives (p. 1).
+- EA^κ = 1 with A ≢ 1 forces E log A < 0 (p. 6), and P{A > 1} > 0 is
+  what makes the tail polynomial rather than exponential (p. 2).
+- Grey: with EA^κ < 1 a regularly varying tail can come from B alone
+  (p. 2).
+- Goldie's Theorem 5.2: the max form X = AX ∨ B has P{X > x} ∼ c x^(−κ)
+  under the same conditions, c > 0 iff P{B > 0} > 0 (p. 4).
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Registered as a stand-in for Kesten (1973), LIT-3005, which is Unfetched
+(ADR-114). It restates Kesten's theorem in one dimension, Goldie's
+re-proof and his max form; it does not restate Kesten's matrix theorem
+(for that, Alsmeyer and Mentemeier, LIT-tmpt282z). Goldie (1991),
+LIT-tmpn76uh, is registered from it.

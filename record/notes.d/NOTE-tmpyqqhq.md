@@ -1,121 +1,139 @@
 ---
-# Don't copy this file by hand — run `luria new note`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A NOTE is a READING of a paper: what it contains, what it assumes, what it
-# proves, and how strongly. It is not the paper's standing in this record
-# — that is the LIT note's job, and the two are allowed to disagree
-# (ANTH-ADR-025).
-
-# Read | Skimmed | Unread | Superseded, from statuses.yaml beside this file.
-# This says HOW DEEPLY THE PAPER WAS READ, not whether it is any good.
-# Be honest here. `Skimmed` is a useful, respectable status and is
-# deliberately not in force: it is not enough to source a practice from,
-# and the whole scheme exists because the record could not previously tell
-# a read paper from an unread one.
-status: Skimmed
-
-# REQUIRED. The LIT code this is a reading of. The bibliography — title,
-# authors, year, arxiv — lives there and is NOT repeated here.
-paper: 'X'
-
-# Repeat the paper's short name as the body's `# NOTE-xxx:` heading; the
-# lint checks that the two agree.
+status: Read
+paper: LIT-2997
 title: 'Corominas-Murtra, Hanel and Thurner, Understanding scaling through history-dependent processes with collapsing sample space, read for the Zipf law of nested sample spaces'
-
 version: 1
-
-# There is deliberately no `tags:` line here either, for the same reason and a
-# stronger one. A reading's topics are DERIVED from the paper named in `paper:`
-# above — a note and its paper are the same paper, so a second copy of its
-# subject is a second copy free to disagree, and four of them were
-# (ANTH-ADR-038). Retag the LIT note; the reading follows.
-
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 by a delegated reader from arXiv 1407.2775v3
+    (https://arxiv.org/pdf/1407.2775, the authors' manuscript, stamped
+    15 Apr 2015, 6 pages): abstract, introduction, Results (eqs. 1–7, the
+    noisy mixture, convergence), the three examples, Discussion, figure
+    captions 1–5 and references. Skimmed: the plotted data, which cannot
+    be read from the text. The PNAS text (Europe PMC, PMCID PMC4418853)
+    was located and not compared. Every quotation below rechecked by the
+    filer by script against the extracted text. The reader checked the
+    1/i law by simulation and the i^(−λ) asymptotic from the stationary
+    vector, with python3 -I.
 date: '2026-11-22'
-
-# There is deliberately no `published:` line here. A reading's publication date
-# is DERIVED from the paper named in `paper:` above, and writing it down is a
-# lint violation — the value has one home and this is not it.
-
-# What the index table shows. One or two sentences: the finding, not the
-# subject area. Prose, so bare codes get linked by `luria link --fix`.
+summary: >-
+  A process whose reachable states shrink, nested, as it runs (from i,
+  jump uniformly below i) visits state i with probability exactly 1/i,
+  Zipf's law; mixing with uniform jumps gives i^(−λ), the exponent the share
+  of nested steps. Proved for uniform jumps only; no reinforcement.
 ---
+<!-- inactive-ok-file: CLAIM-795 CLAIM-803 QUESTION-505 SYNTHESIS-119 THEORY-tmpcfn5g ARG-tmpcx0it ARG-tmp3ppjy NOTE-tmpa7yd2 THEORY-tmp6jdas THEORY-2150 LIT-tmppzucs — Proposed, Deferred or new; the entries this reading bears on, its own reading and argument -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
-
-# NOTE-xxx: <paper short name>
+# NOTE-tmpyqqhq: Corominas-Murtra, Hanel and Thurner, Understanding scaling through history-dependent processes with collapsing sample space, read for the Zipf law of nested sample spaces
 
 ## Contribution
 
-Two to four sentences. What did this add that did not exist before? Not what
-field it is in — what is true after it that was not true before.
-
-## Key insight
-
-One paragraph. The single mental model this paper installs: the thing to
-remember if everything else is forgotten.
-
-## Assumptions
-
-The formal conditions the main results require. State them as conditions,
-with the expressions where they have them.
-
-- `L`-smooth gradients: ‖∇f(x) − ∇f(y)‖ ≤ L‖x − y‖
-- Bounded stochastic variance: E[‖g − ∇f‖²] ≤ σ²
-- IID data across workers, or the heterogeneity bound if not
-
-Where a paper's setting is narrower than its title suggests, say so here
-rather than letting a reader assume it transfers.
+A self-contained route to Zipf's law and to power-law rank distributions,
+with the exponent read as a degree of nestedness, offered "without the
+recourse to multiplicative, preferential, or self-organised critical
+processes" (abstract).
 
 ## Key results
 
-Theorem-level, with the **exact expressions**. `O(1/√(nK))` is more useful
-than "converges at the same rate as centralized". Give the regime each holds
-in.
+- **Exact Zipf for the strict process** (p. 2, eq. 1). Throw die N, get K,
+  throw die K − 1, and so on to 1: the probability of visiting site i
+  "can easily be shown to follow an exact Zipf's law, PN(i) = 1/i", by
+  induction on N. Since "any sequence generated by φ is strictly
+  decreasing and contains any particular site i at most once", visiting
+  and occupation probabilities are proportional: "an exact Zipf's law in
+  the (rank ordered) occupation probabilities".
+- **Nestedness** (p. 3): Ω₁ ⊂ Ω₂ ⊂ … ⊂ Ω_N. "This nested structure of
+  sample-space is the defining property of SSR processes. This type of
+  nesting breaks the left-right symmetry of the iid stochastic process."
+- **Noisy SSR** (pp. 3–4, eqs. 2–6). Φ(λ) = λφ + (1 − λ)φ_R, made
+  stationary by restarting at N: p(i)/p(1) = Π_{j<i}(1 + λ/j)^(−1) ∼ i^(−λ),
+  "an asymptotically exact power-law with exponent λ" (p. 4). The
+  abstract's "exact power-laws" is asymptotic in the text.
+- **Frequency exponent** (p. 4): α = (1 + λ)/λ, citing Newman (LIT-2976)
+  for the rank-to-frequency relation, so α ∈ [2, ∞); exponents between 2
+  and 3 "relates to a mixing ratio of λ > 0.5".
+- **Simulation** (Fig. 3a): maximum-likelihood fits 0.999, 0.699, 0.499 for
+  λ = 1, 0.7, 0.5; convergence to the limit ∼ T^(−1/2), fitted (Fig. 3b).
+- **Words** (p. 4, Fig. 4): The Origin of Species has a first rank exponent
+  of about 0.9, which "corresponds to a mixing parameter λ = 0.9"; the
+  caption reads this as about 90% of consecutive word pairs for which
+  sample space "is strictly reducing".
+- **Networks** (p. 5): node occupation is Zipf "irrespective of the value
+  of" the exit probability, on a complete directed network with return.
+- **Fragmentation** (pp. 5–6): breaking the fragment holding a marked
+  endpoint "is obviously a continuous version of the SSR process".
+- **Discussion** (p. 6): Zipf "emerges as a simple consequence of breaking
+  a directional symmetry in stochastic processes", "a self-contained,
+  independent alternative to multiplicative, preferential, self-organised
+  criticality, and other mechanisms".
 
-- **Theorem 1** — statement. *Holds when:* the parameter regime.
+Checks by the reader (python3 -I): the stationary vector of eq. 4's matrix
+at N = 2,000 gives log-log slopes −1.0000, −0.7022, −0.5027 between i = 10
+and 1,000 for λ = 1, 0.7, 0.5, and p(1000)/p(1) = 0.0072183 at λ = 0.7
+against Γ(1 + λ)·i^(−λ) = 0.0072176; a simulation of the strict process
+from N = 100 (200,000 runs) gives 0.4997, 0.2000, 0.1001, 0.0199, 0.0103 at
+i = 2, 5, 10, 50, 100. The filer rechecked α = (1 + λ)/λ = 2.11 at λ = 0.9.
 
-## Claims
+## Assumptions
 
-Only a `Read` note may fill this in. `strength` is about the *support*, not
-about how much you believe it.
-
-| id | claim | strength | support |
-|---|---|---|---|
-| C1 | plain English | strong / moderate / weak | Theorem 2 / experiment in §5 / informal argument |
-
-## Method
-
-*(Omit this section entirely for empirical or survey papers.)*
-
-The algorithm, its steps, and its components.
+- Jumps uniform over the reduced space {1, …, i − 1}; the 1/i law is
+  proved only for this case.
+- Noise uniform over all N states and independent of the state.
+- Stationarity by restart at the top; one-dimensional, totally ordered
+  states.
+- "History-dependent" in the title means state-dependent: the strict
+  process is a Markov chain, P(j | i) = 1/(i − 1), with no memory beyond
+  the current state and no reinforcement.
 
 ## Concepts
 
-Terms as *this paper* defines them, which is not always as the field uses
-them.
-
-- **term** — precise definition as used here.
-
-## Connections
-
-How this builds on prior work, in prose. Machine-readable lineage —
-`extends:`, `corrects:`, `compared_against:` — is declared on the LIT and
-must not be duplicated here.
+Sample-space-reducing (SSR) process; nestedness of sample space; visiting
+against occupation probability; directional symmetry breaking; the mixing
+ratio λ as a degree of nestedness; rank against frequency exponent,
+α = 1 + 1/λ; fragmentation as a continuous SSR.
 
 ## Bearing on the record
 
-Which THEORY documents this reading supports, contradicts, or should
-produce. Name the codes. If a document cites this paper for something the
-paper does not say, this is where that gets written down. If the paper
-carries an instruction for machine-learning practice, it belongs in the
-Anthology of the SOTA, and this is where that is noted.
+- **CLAIM-795, item 5: grounds it.** Eq. 1 and its proof are item 5's
+  construction exactly, and the abstract places it outside
+  "multiplicative, preferential, or self-organised critical processes",
+  the claim's "no positive feedback". The `defeated_if` names the uniform
+  process, the case proved. Item 5 no longer rests on the claim's own
+  check alone. It gains the tunable family p(i) ∝ i^(−λ). The abstract's
+  "necessarily lead to Zipf's law" outruns the proof. ARG-tmpcx0it argues
+  the support.
+- **ARG-tmp3ppjy: leaves its verdict standing; fills the gap it names.**
+  Newman is cited here only for the rank-to-frequency relation.
+- **NOTE-tmpa7yd2, THEORY-tmp6jdas: consistent background.**
+- **QUESTION-505: fits the partial pattern, a candidate row.** The rank
+  exponent is λ, the share of nested steps; the frequency survival
+  exponent 1/λ. This parallels Mitzenmacher's preferential attachment with
+  a uniform share (THEORY-2150): in both a mix of a structured and a
+  uniform choice sets the exponent.
+- **CLAIM-803: supports the first clause**, a further route to Zipf in
+  word frequencies beside attachment, optimization and random typing; the
+  paper's word example is what the claim warns against (λ read off a
+  fitted slope).
+- **LIT-tmppzucs (Miller): a rival route**, both feedback-free routes to
+  Zipf in word frequencies; the paper does not compare them.
+- **SYNTHESIS-119**: its "sample-space reduction" route now has a read
+  source.
+- Background: Clauset, Shalizi and Newman (LIT-2987) supply the fitting
+  method of Fig. 3; Bak, Tang and Wiesenfeld (LIT-2992) are the SOC route
+  it is offered against; Mitzenmacher (LIT-3003) closes its list of other
+  mechanisms.
 
 ## Limitations
 
-What the paper does not establish, including what its own authors say it
-does not.
-
-## Open questions
-
-What it leaves open, and what result would close it.
+- The 1/i law is for uniform jumps on a totally ordered set; robustness to
+  other jump weights is not shown.
+- The word example fits the exponent and reads λ from it, with no
+  independent measure of nestedness: a fit, not a test of the mechanism.
+  The detailed model is said to be in arXiv 1407.4610 (not read).
+- The network example is on a complete directed network only; generality
+  is "conjecture" (p. 6). The fragmentation link is for one marked
+  fragment, not the full size distribution.
+- Convergence exponents are fitted, not derived. Typos: "pend = 0.3" for
+  the exit probability (p. 5).

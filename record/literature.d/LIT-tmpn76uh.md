@@ -1,76 +1,51 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Unfetched | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041). `Unfetched` is one whose lawful free copy was
-# located at an exact address that this client could not fetch; the status
-# note gives the address and the obstacle (ADR-053).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpn76uh:` heading.
+status: Deferred
+status_note: >-
+  registered 2026-11-22, not read. Goldie's re-proof of the
+  one-dimensional Kesten theorem by implicit renewal theory, and his
+  Theorem 5.2 on the max equation X = AX ∨ B, which the record now
+  relies on through Kevei's restatement (LIT-tmpk12vu). No reading was
+  attempted; a lawful copy has not been sought.
 title: 'Implicit renewal theory and tails of solutions of random equations'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered, not read, from Kevei (LIT-tmpk12vu, reference [18]),
+    read as a stand-in for Kesten (LIT-3005). Identifier checked on
+    Crossref on 2026-11-22, no email address sent: The Annals of Applied
+    Probability 1(1), 126–166, issued 1 February 1991, DOI
+    10.1214/aoap/1177005985. Not held: no hit for the DOI, the title or
+    Goldie in record/literature.d.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- probabilistic-modeling
+- mathematics
 date: '2026-11-22'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
+published: '1991-02-01'
+doi: '10.1214/aoap/1177005985'
+first_author: 'Goldie'
 keywords: []
-
-# Optional. Models or codebases known to use this work.
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Goldie (1991), Implicit renewal theory and tails of solutions of random
+  equations, The Annals of Applied Probability 1(1), 126–166, DOI
+  10.1214/aoap/1177005985. Re-proves Kesten's tail for X = AX + B in one
+  dimension by implicit renewal theory, and (Theorem 5.2, as Kevei
+  restates it) gives the same tail, with the same κ solving EA^κ = 1,
+  for the reflecting equation X = AX ∨ B. Here for the reflecting floor
+  of CLAIM-824. Unverified until read.
 ---
+<!-- inactive-ok-file: CLAIM-824 — Proposed; the claim this work's max theorem bears on -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpn76uh: Implicit renewal theory and tails of solutions of random equations
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
-
-## Key takeaways
-
-- What it establishes, in claims rather than topics.
+Goldie (1991). The Annals of Applied Probability 1(1), 126–166. DOI
+10.1214/aoap/1177005985.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Registered on 2026-11-22 from Kevei's note (LIT-tmpk12vu), read as a
+stand-in for Kesten (LIT-3005). The record relies on its Theorem 5.2, the
+max form X = AX ∨ B, through Kevei's restatement, for the reflecting
+floor of CLAIM-824. Not read.
