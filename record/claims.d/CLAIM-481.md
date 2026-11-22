@@ -205,3 +205,15 @@ Wang and Slotine ([THEORY-2044](../theory.d/THEORY-2044.md), corroborates; [NOTE
 - **Selective contraction.** Partial contraction erases differences transverse to a manifold and keeps what lies along it: "the common phase of the steady states is determined by the initial conditions" (p. 7). It needs no rate comparison between within-class and between-class variation. The point the earlier note left open now has its source.
 
 No status change.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+A parallel, no edge. In the Kuramoto model with Lorentzian frequencies of
+width Δ (NOTE-tmpd7trg, eq. 10) coupling slows the collective mode: its
+damping rate is Δ − K/2 below locking and goes to zero at Kc = 2Δ, while
+the approach to the reduced law is bounded below by Δ (NOTE-tmp5oph4). So
+there coupling makes a separation only near threshold, by bringing a mode
+to an instability, which is CLAIM-478's second half rather than this
+claim's dissipative splitting of collective and relative modes; far from
+threshold it makes none. Consistent with this claim: coupling does not by
+itself separate time scales.

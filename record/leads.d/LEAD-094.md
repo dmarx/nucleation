@@ -25,7 +25,7 @@ summary: >-
   A central claim, a named defeater, and mostly free sources never tried.
   Named in [CLAIM-478](../claims.d/CLAIM-478.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-478 LIT-1638 LIT-1642 LIT-2231 LIT-2241 LIT-2244 LIT-2248 LIT-2252 LIT-2254 LIT-2255 LIT-2257 LIT-2266 LIT-2268 — Deferred, Proposed, Unfetched; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-478 LIT-1638 LIT-1642 LIT-2231 LIT-2241 LIT-2244 LIT-2252 LIT-2254 LIT-2255 LIT-2257 LIT-2266 LIT-2268 — Deferred, Proposed, Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-094: Read the dynamics batch on scale separation and localized structure, with Ott and Antonsen's reduction as a candidate defeater
 

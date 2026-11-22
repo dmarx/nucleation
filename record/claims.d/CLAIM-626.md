@@ -134,3 +134,11 @@ discrimination of inputs, so the optimum sits below the transition. One
 more organizational meaning of slowing, in which it neither helps nor
 breaks a reduction but costs a finite-time observer confidence. No
 relation is written.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+A parallel in an exact model, no edge. Near the Kuramoto threshold the
+collective mode slows (damping rate Δ − K/2 → 0) while the approach to Ott
+and Antonsen's reduced manifold stays at least Δ (NOTE-tmpd7trg,
+NOTE-tmp5oph4), so reduction to the order parameter improves as the mode
+slows: this claim's first case.

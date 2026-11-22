@@ -101,6 +101,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
+<!-- inactive-ok-file: CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq THEORY-tmpmvcnr THEORY-tmp0d58z ARG-tmp5xhiv — Proposed or new; the reading of Ott and Antonsen for LEAD-094 and the verdict filed from it -->
 <!-- inactive-ok-file: THEORY-tmpdfeto NOTE-tmpcjw5n — Proposed or Skimmed; the reading of Toner and Tu (1998), 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
@@ -543,3 +544,35 @@ slow ones. It adds the authors' own word for the slow transverse modes,
 make sound: the claim's "organization can make new rate differences",
 by symmetry breaking. [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) `corroborates` the claim. No status
 change.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+The candidate this claim's note of 2026-11-07 added to defeater (a), read
+for LEAD-094 with its sequel (NOTE-tmpd7trg, NOTE-tmp5oph4; the readings
+are THEORY-tmpmvcnr and THEORY-tmp0d58z). A18's description checks: the
+reduction is exact on an invariant manifold and needs no small parameter,
+and the sequel shows that the manifold attracts the order parameter
+whenever the oscillators' frequencies are spread, with no condition on
+rates. On the manifold nothing relaxes; the distribution keeps a
+continuous spectrum of neutral modes.
+
+Whether that meets (a) turns on two things: whether an exact invariance
+counts as the persistence (a) requires to be absent, and whether the class
+is typical. CLAIM-tmpo6ehq shows the invariance needs coupling through the
+first harmonic alone. Filed as alternatives, with ARG-tmp5xhiv:
+
+- CLAIM-tmpa694z (leaned to): not met. The invariance is persistence in
+  the limit, as this claim's note of 2026-11-02 ruled for exact
+  conservation laws, and the class is narrow. The reduction is a worked
+  case of "Not that separation is necessary".
+- CLAIM-tmpervl4: met within first-harmonic oscillator populations with
+  spread frequencies, since the approach to the manifold needs no faster
+  rate and the off-manifold parts are averaged out rather than held by
+  anything slower. It objects to this claim and would add
+  invariant-manifold closure by phase mixing to "Not one mechanism".
+
+Either way, near the locking threshold the same equations show the second
+half: the collective mode's damping rate Δ − K/2 goes to zero while the
+approach to the manifold stays at least Δ, so the instability makes the
+separation. No status change; choosing between the readings is the
+owner's.

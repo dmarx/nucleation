@@ -31,6 +31,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
+<!-- inactive-ok-file: THEORY-tmpmvcnr — Proposed; the reading of Ott and Antonsen 2008, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 CLAIM-tmpszhd7 CLAIM-tmpb80wu — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2038 THEORY-2041 — Proposed; cited in this filing of 2026-11-19 -->
@@ -351,3 +352,15 @@ blocks in run 1 are on the same cells, two of them live throughout, so
 they are two blocks only when counted as shape instances. A soup transient
 in [CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) that loses all four cells is created and not stabilized
 on either count. No status change.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+An instance of the question's first transition with an exact
+low-dimensional description (THEORY-tmpmvcnr, NOTE-tmpd7trg). For the
+Kuramoto model with Lorentzian frequencies of width Δ, the incoherent
+state's damping rate Δ − K/2 changes sign at Kc = 2Δ, and partial locking
+grows to the amplitude (1 − 2Δ/K)^{1/2} by a closed one-dimensional law;
+with a periodic drive, folds and a limit cycle appear whose bifurcations
+match the full system's. It bears on how a distinction comes into being,
+not on whether creation, stabilization and constitutive role are separate
+achievements. THEORY-tmpmvcnr bears on this question.

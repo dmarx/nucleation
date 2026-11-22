@@ -427,3 +427,14 @@ own supply the block criterion's target; the lattice match is a property of
 the lattice's homogeneous boundary. This bounds the claim without objecting to
 it: the block test still names the block it is defined to name. No change of
 status or title.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+A parallel, no edge. In Ott and Antonsen's model of communities of
+oscillators (NOTE-tmpd7trg, eq. 15) each community's order parameter
+obeys a closed equation at any coupling between communities, so closure of
+a community's collective variable does not wait on the community's being
+a weakly coupled block: the nonlinear counterpart of CLAIM-388, and the gap
+between closure and block that QUESTION-218 asks about. The whole
+population, isolated, passes this criterion trivially. The criterion is
+unchanged.

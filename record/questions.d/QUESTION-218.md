@@ -31,6 +31,7 @@ summary: >-
   the two come apart; [CASE-120](../cases.d/CASE-120.md) is the construction. The question is
   which of them the record's "one system" should track.
 ---
+<!-- inactive-ok-file: THEORY-tmpmvcnr — Proposed; the reading of Ott and Antonsen 2008, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-tmpwyp15 CLAIM-tmpjwc0h — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -137,3 +138,15 @@ set of 156 scores as they do. [CLAIM-tmpjwc0h](../claims.d/CLAIM-tmpjwc0h.md) st
 measurement this question's answer asks for, in two models at one setting
 each. It does not say the marks suffice for one system, and the kink has
 no timing to entrain. No status change.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+Evidence on the unit a boundary test should take. Ott and Antonsen's order
+parameter is a function of the whole state, exactly closed on an invariant
+manifold under uniform coupling, where no subset of members is a block
+(THEORY-tmpmvcnr, NOTE-tmpd7trg); in their model of communities of
+oscillators each community's order parameter closes at any coupling
+between communities, weak or strong. So a test that takes functions of
+the whole state finds closed units that tests on member subsets miss, as
+CLAIM-388 found in a linear model. It does not say whether such a unit is
+one system. THEORY-tmpmvcnr bears on this question.
