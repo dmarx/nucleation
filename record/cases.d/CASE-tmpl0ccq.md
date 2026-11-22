@@ -28,9 +28,8 @@ bears_on:
 - QUESTION-016
 illustrates:
 - CLAIM-414
-- CLAIM-522
 summary: >-
-  [LEAD-048](../leads.d/LEAD-048.md) asked for [CASE-186](CASE-186.md) to be run. A reduced version was
+  LEAD-048 asked for CASE-186 to be run. A reduced version was
   simulated (scratch/studies/lead-048/): a hidden regime + then −, then
   either + again or 0, outside the organization's family; partial
   monitoring; an audit whose generate, admit and score operations are
@@ -40,14 +39,14 @@ summary: >-
   service, or not at all; finite fuel; a self-test of each operation on
   known inputs; 1,836 cells of 64 matched worlds, natural and
   matched-first-stage branches. With protected admission and independent
-  scoring, every arrangement corrects the first reversal (63 or 64 of 64).
+  scoring, every arrangement corrects the first reversal (61 to 64 of 64).
   After an undisclosed lesion of one operation the second correction
   succeeds in 64 of 64 worlds for reciprocal and external maintenance and
   0 of 64 without production when the self-test runs, and in 0 of 64 for
   every arrangement when it does not; which operation is lesioned makes no
   difference. Partial loss of A or G separates production from none (64
   against 0); destroying both separates reciprocal (0) from external (64),
-  [CASE-161](CASE-161.md)'s finding again. The capture arms repeat [CASE-162](CASE-162.md). Much of
+  CASE-161's finding again. The capture arms repeat CASE-162. Much of
   this follows from the rules the model states; what the run adds is that
   they compose as stated. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
@@ -58,17 +57,17 @@ summary: >-
 
 ## What was done
 
-[LEAD-048](../leads.d/LEAD-048.md) asks for [CASE-186](CASE-186.md) to be run: an organization corrects once after
+LEAD-048 asks for CASE-186 to be run: an organization corrects once after
 a regime reversal, its diagnostic and copying machinery is injured, and a
 second challenge follows, in-family or out of the hypothesis family, with
 evidence generation, admission and scoring lesioned one at a time. The
 model is `scratch/studies/lead-048/model.py`, documented in its docstring;
 `README.md` there says how to rerun it, `results/tables.md` holds every
 table, and `results/*.jsonl` one line per cell. It is written to be reused
-by [LEAD-140](../leads.d/LEAD-140.md): `Config`, `Org` and `run` import, and a mechanism changes by
+by LEAD-140: `Config`, `Org` and `run` import, and a mechanism changes by
 subclassing `Org`.
 
-**The world** is [CASE-186](CASE-186.md)'s: P(Y=1 | a=1) is 0.75, 0.25 and 0.5 in +, − and
+**The world** is CASE-186's: P(Y=1 | a=1) is 0.75, 0.25 and 0.5 in +, − and
 0. It is + until step 100 and − from 100; at step 400 it becomes + again
 (in-family) or 0 (out of family). Monitoring is partial: only audits
 inform. Audit draws are fixed per world and step, so arms sharing a seed
@@ -147,8 +146,8 @@ The unmaintained arrangement has no producer to stop or destroy, so its
 last two rows differ from its sham only by the draws of admission and
 copying.
 
-S1 was 63 or 64 of 64 in every reference cell, so P(S2 | S1) equals
-P(S1 ∧ S2) to within one world, and the matched branch agrees with the
+S1 was 61 to 64 of 64 in every reference cell, so P(S2 | S1) equals
+P(S1 ∧ S2) to within three worlds, and the matched branch agrees with the
 natural one. Selection at the first stage does not arise here.
 
 **Without the self-test**, the three component lesions give 0 of 64 in
@@ -191,13 +190,13 @@ branch, which restores the fuel, all passed.
 
 ## What it shows, and what it does not
 
-[CASE-186](CASE-186.md)'s readings, taken in turn:
+CASE-186's readings, taken in turn:
 
 - **"The first correction succeeds and the second fails, in the
   matched-first-stage branch."** Found for the unmaintained arrangement
   after any lesion of an operation or a capacity. Found for reciprocal
   maintenance after the double lesion, which leaves the reciprocal law at
-  its fixed point at zero, as in [CASE-161](CASE-161.md).
+  its fixed point at zero, as in CASE-161.
 - **"Internal and external restoration are alike normally but diverge
   after producer-specific lesions."** Found only for the double lesion.
   Interrupting the producer did nothing at this wear rate. Destroying the
@@ -205,8 +204,8 @@ branch, which restores the fuel, all passed.
   correction by step 699, with A at 0.66; a longer horizon would. The
   double lesion is an intervention on state. It separates the two because
   the outside service here restores at a constant rate and does not supply
-  the internal law as state feedback, which is [CASE-265](CASE-265.md)'s case, not
-  [CLAIM-522](../claims.d/CLAIM-522.md)'s ideal one. Nothing here bears against [CLAIM-522](../claims.d/CLAIM-522.md).
+  the internal law as state feedback, which is CASE-265's case, not
+  CLAIM-522's ideal one. Nothing here bears against CLAIM-522.
 - **"Protecting admission fixes capture and maintenance does not matter."**
   True under the sham. False under injury, where maintenance decides the
   second correction.
@@ -214,7 +213,7 @@ branch, which restores the fuel, all passed.
   Not found where the apparatus is maintained, because the adequacy test is
   built in. The run does not test the spontaneous recognition of an
   inadequate family.
-- **[LEAD-048](../leads.d/LEAD-048.md)'s test**, "a second correction that fails when one component is
+- **LEAD-048's test**, "a second correction that fails when one component is
   lesioned and survives the others". Not found. Every component lesion is
   fatal without the self-test and survivable with it wherever a producer
   rebuilds. What the lesions separate is the capacity to diagnose and
@@ -227,7 +226,7 @@ Most of this follows from rules the model states. The self-test detects a
 changed operation; repair needs a producer; protection lapses with G. What
 the run adds is that these rules compose as stated across the arms,
 counted on matched worlds. It is a construction checked by computation,
-not evidence about any real organization. It illustrates [CLAIM-414](../claims.d/CLAIM-414.md): under
+not evidence about any real organization. It illustrates CLAIM-414: under
 the sham every maintained arrangement corrects alike, and the injuries
 expose differences that the matched ordinary trajectories conceal.
 
@@ -239,3 +238,5 @@ expose differences that the matched ordinary trajectories conceal.
 - self-test schedules that do not coincide with the injury.
 
 LEAD-140 can run these on the same code.
+
+The claim drawn from the run is CLAIM-tmpqaqtx.
