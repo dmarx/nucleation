@@ -34,8 +34,13 @@ D2={001}, one-flip path). Controls per CASE-202: reset vs acted-on copy
 - (step 1) Confirmed not already held: no executed-study cites CASE-202 or
   CLAIM-583; CASE-202 is a proposed-study, nothing operationalizes it yet.
 
+- (step 2) prober.py + results.jsonl + test_prober.py written and run.
+  RESULT: seed pair (CLAIM-583) stabilizes at budget 1 (indistinguishable
+  at 0, distinguishable from 1 on); same complex; control clean; monotone.
+  path_L family: stabilization budget = L for L=2..5 (measured, not fixed).
+  identical-pair control never distinguishes. 14 pytest tests pass.
+
 ## Next
 
-- Write prober.py (numpy), run on seed pair + path family, write results jsonl.
-- Write test_prober.py, run pytest.
-- File: CASE (executed-study) + CLAIM (finding) + changelog + dated note on LEAD-135.
+- File: CASE (executed-study, Proposed, variant_of CASE-202) + CLAIM
+  (finding, Proposed) + changelog fragment + dated note on LEAD-135.
