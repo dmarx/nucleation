@@ -131,7 +131,7 @@ A4 of the exchange "Explain String Theory" offers a soliton as "a candidate indi
 
 So of the soliton cases only the dissipative one bears on this question, and only once its throughput is measured.
 
-## Note of 2026-11-22: LEAD-083 ran no flux arm
+## Note of 2026-11-22: [LEAD-083](../leads.d/LEAD-083.md) ran no flux arm
 
 [LEAD-083](../leads.d/LEAD-083.md) named this question, but its study ([CASE-tmpwyp15](../cases.d/CASE-tmpwyp15.md)) ran only a
 field excitation and a collective mode. Its protocol, compensation under
