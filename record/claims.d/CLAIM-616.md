@@ -51,6 +51,7 @@ summary: >-
   owner's. The qualification is A's, tied to the record by the reader;
   the wording is A's; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmp69rk8 CLAIM-tmpo7igy — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; cited as the earlier objection this claim is distinguished from -->
 <!-- inactive-ok-file: ARG-016 — Proposed; cited as the argument that superseded CLAIM-163 -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited for its domination clause, as A12's qualification parallels it -->
@@ -103,3 +104,7 @@ oscillation, and adaptive capacities.
   transition".
 - That the oscillator results transfer to organizations without a
   mapping argued case by case.
+
+## Note of 2026-11-22: the first project run, from [LEAD-098](../leads.d/LEAD-098.md)
+
+[LEAD-098](../leads.d/LEAD-098.md) ran the first project this claim names, [CASE-179](../cases.d/CASE-179.md)'s study with A12's three arms, as [CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md). The arms could have come out otherwise and showed what the output alone did not: under a drive, coupled and uncoupled, self-sustained and damped networks all locked, and only withdrawal told them apart; a suppressed network recovered after a short suppression and not after a long one, once a reciprocally maintained capacity had decayed; a unit whose capacity was knocked out kept oscillating, carried by its neighbours, until decoupling showed the loss. Displacing one member's drive separated common drive from coupling ([CLAIM-tmpo7igy](CLAIM-tmpo7igy.md)). The defeat condition asks for an arm that could come out otherwise; whether these meet it is the owner's call. No status change.

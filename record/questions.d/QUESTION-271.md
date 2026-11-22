@@ -214,3 +214,15 @@ For this model class the procedures that helped (self-standardization, an
 audit floor) are properties of the evaluation, which either mechanism can
 use ([CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md)). α-Rank, Nash averaging and unknown propensities were not
 tried. The question is unchanged.
+
+## Note of 2026-11-22: capture repeated in a simulated organization, [LEAD-048](../leads.d/LEAD-048.md)
+
+<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
+[CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md) repeats [CASE-162](../cases.d/CASE-162.md)'s crossing in [CASE-186](../cases.d/CASE-186.md)'s organization. Under
+captured scoring or selective admission the first correction succeeded in
+at most 6 of 64 worlds. Inverse-propensity weighting repaired selective
+admission, in 60 to 64 of 64 worlds. The self-test found a lesion of
+admission against protected commissioning values, but did not find one
+that moved an already selective rate from 0.1 to 0.05. An evaluation
+calibrated on the arrangement it tests inherits that arrangement's capture.
+The question stays Open.

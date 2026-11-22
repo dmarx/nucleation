@@ -264,3 +264,14 @@ each responds to a challenge. That is an instance of this claim and of
 [SYNTHESIS-023](../syntheses.d/SYNTHESIS-023.md)'s point that non-domination can be read only under
 intervention or dissent. A23 §8's "collective feasibility" against
 "constituent accessibility" is the same distinction. Not filed. No change.
+
+## Note of 2026-11-22: the matched ordinary trajectories of a damaged organization
+
+<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
+[CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md), a reduced run of [CASE-186](../cases.d/CASE-186.md), illustrates this claim in a
+larger system. Under a sham injury, reciprocal, external and absent
+maintenance all corrected two regime changes in 63 or 64 of 64 matched
+worlds in-family, and differed only out of family. Under injury they came
+apart. Lesions of single operations and partial losses of either capacity
+separated production from none, and the double lesion separated reciprocal
+from external maintenance. The claim is unchanged.

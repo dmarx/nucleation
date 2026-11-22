@@ -22,6 +22,11 @@ it.
   file in full. Then read every entry the lead's `advances` names, and the
   cases, claims and questions it cites. Read docs/record.md for the
   required fields of any kind you file.
+- Before filing what the lead asks for, check that the record does not
+  already hold it: grep the claims and questions the lead cites, and the
+  entry that named it, for a later filing. A lead can outlive its target
+  (LEAD-059's corollary was already CLAIM-629). If it is held, file no
+  second code (ADR-072); add the dated note on the lead and report.
 - First command: `git fetch origin staging && git checkout -b <your-branch> origin/staging`.
 
 ## 2. Push the branch at once
@@ -104,7 +109,11 @@ From here on, a stop at any moment must lose at most the step in hand.
   call."
 - **Held entries** (filed before the current batch) get only dated notes
   ("## Note of YYYY-MM-DD: ...") and relation fields.
-  - Never change a status, a title or a held entry's text.
+  - Never change a status, a title or a held entry's text, with one
+    exception: a LIT you have read moves as read-and-file step 8 says, to
+    Active with a new history version, status note and summary, or stays
+    Unfetched or Unavailable with the obstacle recorded. Filing the reading
+    is that step, not a status change for the owner.
   - Add a dated note on the lead itself saying what was done and what
     remains.
   - Do NOT change the lead's status or stage; the owner marks it Done.
