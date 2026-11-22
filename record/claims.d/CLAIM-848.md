@@ -3,8 +3,21 @@ number: 848
 status: Proposed
 formerly:
 - CLAIM-tmpym2vz
-title: "A rank power-law spectrum with exponent just above 1, as Stringer's smoothness bound α ≥ 1 + 2/m requires of a smooth code of an m-dimensional stimulus manifold, bounds the participation ratio as width grows, but the bound is approached only at widths exponential in m, so at realistic widths such a code has a participation ratio of about 13 to 29 for m from 10 to 100, and neither the participation ratio nor its growth with width tracks intrinsic dimension or separates the regimes either side of α = 1"
-version: 1
+title: "A rank power-law spectrum with exponent just above 1, at the limit that Stringer's smoothness bound, α > 1 + 2/m on the tail of a smooth code of an m-dimensional stimulus manifold, allows, bounds the participation ratio as width grows, but the bound is approached only at widths exponential in m, so at realistic widths such a code has a participation ratio of about 13 to 29 for m from 10 to 100, and neither the participation ratio nor its growth with width tracks intrinsic dimension or separates the regimes either side of α = 1"
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    After the reading of LIT-2972 (NOTE-tmp923nm, THEORY-tmpwtoad). Corrected
+    in place: Stringer's bound is strict for smooth codes (λ_n =
+    o(n^(−1−2/d)), Supplementary Theorem 5), so a spectrum exactly at
+    α = 1 + 2/m is the limit of smooth codes, not a smooth code; and it
+    constrains only the tail, so the table is for pure power laws from rank
+    1, not every code the bound allows. Title and the derivation's
+    paragraph changed to say so; the table's numbers rechecked and
+    unchanged; LIT-2972 replaced in the grounds by its reading
+    (ARG-tmpbad4y). The status is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -28,22 +41,24 @@ bears_on:
 uses:
 - TERM-136
 grounds:
-- LIT-2972
+- THEORY-tmpwtoad
 summary: >-
   Fills a gap the ledger of the exchange "Rich Get Richer Power Laws"
   flagged (A30 §5, answering the owner's U19): how the participation
   ratio behaves under λ_j ∝ j^(−α) on either side of α = 1 as width grows,
   where the power-law thread meets concentration. A30's regimes are right
   asymptotically, but near α = 1 they separate only at astronomical widths;
-  with Stringer's smoothness bound, smooth codes of high-dimensional
-  manifolds all show a participation ratio of a few tens at real widths.
+  pure power laws at the limit of Stringer's smoothness bound, which is
+  strict and on the tail only (ARG-tmpbad4y), show for high-dimensional
+  manifolds a participation ratio of a few tens at real widths.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-847 TERM-136 CLAIM-822 LIT-2972 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read -->
+<!-- inactive-ok-file: CLAIM-847 TERM-136 CLAIM-822 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmpwtoad ARG-tmpbad4y — Proposed or new; the reading of Stringer and colleagues and the argument for its support, 2026-11-22 -->
 <!-- inactive-ok-file: ARG-130 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
-# CLAIM-848: A rank power-law spectrum with exponent just above 1, as Stringer's smoothness bound α ≥ 1 + 2/m requires of a smooth code of an m-dimensional stimulus manifold, bounds the participation ratio as width grows, but the bound is approached only at widths exponential in m, so at realistic widths such a code has a participation ratio of about 13 to 29 for m from 10 to 100, and neither the participation ratio nor its growth with width tracks intrinsic dimension or separates the regimes either side of α = 1
+# CLAIM-848: A rank power-law spectrum with exponent just above 1, at the limit that Stringer's smoothness bound, α > 1 + 2/m on the tail of a smooth code of an m-dimensional stimulus manifold, allows, bounds the participation ratio as width grows, but the bound is approached only at widths exponential in m, so at realistic widths such a code has a participation ratio of about 13 to 29 for m from 10 to 100, and neither the participation ratio nor its growth with width tracks intrinsic dimension or separates the regimes either side of α = 1
 
 ## The claim
 
@@ -66,9 +81,16 @@ is real but unreachable, and just below it the D^(2(1−α)) growth is too slow
 to see; both look like the (log D)² of α = 1.
 
 **With Stringer's bound.** A29 §7 cites Stringer and colleagues
-([LIT-2972](../literature.d/LIT-2972.md), Deferred: registered, not read) for a smoothness bound: a
-differentiable code of an m-dimensional stimulus manifold has
-α ≥ α_c = 1 + 2/m. At α = α_c, 1/(α − 1) = m/2, so the participation ratio is
+(LIT-2972, read 2026-11-22 as THEORY-tmpwtoad) for a smoothness bound. As
+the supplement proves it (Theorem 5), a code with finite expected
+derivative on an m-dimensional stimulus manifold has eigenvalues
+λ_n = o(n^(−1−2/m)): strictly, and only in the tail. A pure power law at
+α_c = 1 + 2/m is therefore the limit of smooth codes, not a smooth code
+(the border case of the supplement's Example 2), and a smooth code may
+have any head. The table below is for that limiting case, a pure power law
+from rank 1; codes strictly inside the bound have smaller ratios (at
+α_c + 0.05 and width 768: 11.0, 16.0 and 22.7 for m = 10, 20 and 100). At
+α = α_c, 1/(α − 1) = m/2, so the participation ratio is
 bounded in width with limit ζ(1 + 2/m)²/ζ(2 + 4/m), but is approached only at
 widths exponential in m. Computed in this session (python3 -I, scipy, with
 Hurwitz zeta for the partial sums, checked against direct summation):
@@ -85,7 +107,7 @@ Hurwitz zeta for the partial sums, checked against direct summation):
 Three consequences:
 
 1. **The participation ratio does not track intrinsic dimension.** At width
-   768, codes at Stringer's bound for manifolds of intrinsic dimension 10 to
+   768, codes at the limit of Stringer's bound for manifolds of intrinsic dimension 10 to
    100 have D_PR between 13 and 29; from m = 20 to m = 100 it moves from 20 to
    29. Reading D_PR as an estimate of m ([TERM-136](../terms.d/TERM-136.md)) fails for m above about 10.
 2. **Width does not sharpen the shell much.** For such codes the relative
@@ -111,5 +133,37 @@ out how this qualifies [CLAIM-847](CLAIM-847.md).
   bound on α for smooth codes; a steeper spectrum saturates sooner.
 - Not anything about non-Gaussian norms or spectra that are not pure power
   laws, for which D_PR must be computed from the measured eigenvalues.
-- That Stringer's bound is as A29 states it is unverified here: the work is
-  registered and not read.
+- Not that the bound fixes D_PR. It constrains the tail only: with the
+  tail at α_c and the top ten eigenvalues set equal to the tenth, the ratio
+  at width 768 is 89, 112 and 137 for m = 10, 20 and 100; with the top
+  eigenvalue ten times larger it is 1.8 to 2.5 (`python3 -I`,
+  ARG-tmpbad4y).
+
+*Changed 2026-11-22, version 2:* the bound is stated as the reading gives
+it, strict and on the tail; the sentence that called it unverified is
+replaced by the reading; LIT-2972 leaves the grounds for THEORY-tmpwtoad.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues (LIT-2972) were read (NOTE-tmp923nm; the reading
+is THEORY-tmpwtoad). The reading **supports the premise in corrected
+form** (ARG-tmpbad4y):
+
+- **Strict.** Supplementary Theorem 5: "If the expected derivative
+  magnitude of φ is finite ... then λn = o(n−1−2/d)". "α ≥" is the
+  weaker fractal bound of Theorem 4 in its limit. The table's row for each
+  m is the limit of smooth codes.
+- **Tail only.** The theorems hold as n → ∞ in an infinite-neuron limit,
+  and Stringer's own fit skips ranks 1 to 10.
+- **Rechecked** with `python3 -I` (direct sums against Hurwitz-zeta partial
+  sums): every entry of the table reproduces (19.85 at m = 20 rounds to
+  19.9). Stringer's measured exponents give D_PR at width 768 of 26.1
+  (α = 1.04), 5.5 (1.49), 4.0 (1.65) and 1.3 (3.43).
+- **Scope.** The arguments "apply only when the number of neurons in the
+  population is substantially greater than the manifold dimension of the
+  stimulus set" (SI §3.5); about 10m neurons on Stringer's heuristic, so
+  the m = 100 row lies at the edge of where the bound is claimed.
+- SI §3.5 makes this claim's point about the trace itself: "we observe a
+  rapid increase in total variance when α becomes close to 1", a
+  discontinuous "phase transition" only as N → ∞. This claim extends it
+  from tr Σ to D_PR.
