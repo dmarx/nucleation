@@ -48,5 +48,10 @@ for r in sorted({d["rank"] for d in probes}):
         base = np.mean([d["neg_in_parent"] for d in g])
         out.append(f"   false positives inside the parent: {fp:.3f} vs parent's share of negatives {base:.3f} "
                    f"(enrichment {fp / base:.1f}x, {len(g)} attributes)")
+pa = os.path.join(R, "hierarchy_alpha.jsonl")
+if os.path.exists(pa):
+    for l in open(pa):
+        d = json.loads(l)
+        out.append(f"refit {d['key']:22s} attrs={d['n_attrs']:4d} R2_cv={d['r2_cv']:.4f} permuted={d['r2_cv_permuted']:.4f}")
 open(os.path.join(R, "summary.txt"), "w").write("\n".join(out) + "\n")
 print("\n".join(out))

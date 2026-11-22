@@ -40,3 +40,7 @@ probe rank  30 balanced acc by depth: d1:0.73(n1) d2:0.74(n11) d3:0.75(n56) d4:0
    false positives inside the parent: 0.062 vs parent's share of negatives 0.029 (enrichment 2.1x, 583 attributes)
 probe rank 100 balanced acc by depth: d1:0.75(n1) d2:0.77(n11) d3:0.73(n56) d4:0.73(n123) d5:0.72(n145)
    false positives inside the parent: 0.104 vs parent's share of negatives 0.045 (enrichment 2.3x, 329 attributes)
+refit alpha100_depth<=4      attrs= 191 R2_cv=0.0274 permuted=-0.0046
+refit alpha1000_depth<=4     attrs= 191 R2_cv=0.0147 permuted=-0.0011
+refit alpha100_depth<=99     attrs= 590 R2_cv=0.0347 permuted=-0.0063
+refit alpha1000_depth<=99    attrs= 590 R2_cv=0.0169 permuted=-0.0012

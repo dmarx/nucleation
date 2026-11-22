@@ -33,10 +33,16 @@
   scratch files in scratchpad/lead-147/ (moving dl/, cache147/, run147.log
   there after PID 12079 exits).
 
+- Run 2 resumed probes; stopped by own PID at 336/590 rank-100 probes
+  (machine contention). Reduced ridge refit done (alpha 100: R2_cv 0.035
+  vs permuted -0.006, all attributes).
+- CASE-tmpby7xp filed; LEAD-147 note and changelog fragment filed.
+- Scratch files moved to scratchpad/lead-147/.
+
 ## Next
 
-- Measurement script, test, run
-- File CASE, notes on QUESTION-025, QUESTION-178, LEAD-147, changelog
+- Report. Optional later: finish rank-100/300 probes (rerun resumes),
+  frequency control, intervention arm.
 
 ## Choices
 

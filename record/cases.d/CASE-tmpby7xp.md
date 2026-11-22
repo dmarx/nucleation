@@ -35,9 +35,10 @@ summary: >-
   and within 13 of 14 families the least-interacting third of quadruples
   completes more often than the most-interacting third (0.59 against
   0.31). Hierarchy: 4 315 nouns with 590 WordNet ancestor attributes. A
-  held-out-word additive fit explains at most about 2% of the
-  double-centred PMI variance (split-half reliability 0.58). It beats the
-  same attributes on permuted words at every depth. Linear probes on
+  held-out-word additive fit explains about 3.5% of the double-centred PMI
+  variance, about 6% of its reliable part (split-half reliability 0.58),
+  against about −0.6% for the same attributes on permuted words. Deeper
+  attributes add to it. Linear probes on
   low-rank embeddings reach balanced accuracy of about 0.70–0.80, with no
   fall by WordNet depth. Their false positives fall inside the attribute's
   parent about twice as often as chance. No language-model annotation
@@ -121,21 +122,22 @@ tests were run.
 
 **Hierarchy.** The full numbers are in results/summary.txt.
 
-- **The additive fit explains little.** It explains at most 1.8% of the
-  double-centred PMI variance, at depth ≤ 3, with ridge penalty 1. The
-  split-half reliability of the PMI is 0.58, so most of the reliable
-  variation is not carried by these attributes. With more attributes and
-  this penalty, the fit overfits: held-out R² turns negative. It stays
-  above the permuted-word fit at every depth, by 0.003 at depth 1 and
-  0.09 with all attributes. The stronger-penalty refits are in
-  results/hierarchy_alpha.jsonl (ALPHA-RESULT).
+- **The additive fit explains little.** With ridge penalty 100 and all
+  590 attributes, it explains 3.5% of the double-centred PMI variance on
+  held-out words. The same attributes on permuted words give −0.6%. The
+  attributes to depth 4 alone give 2.7%. With penalty 1000 the figures
+  are 1.7% and 1.5%. The split-half reliability of the PMI is 0.58, so
+  the attributes carry about 6% of the reliable variation: a real but
+  small part. With penalty 1, the fit overfits as attributes are added,
+  peaking at 1.8% at depth 3, but stays above the permuted fit at every
+  depth (results/hierarchy.jsonl and results/hierarchy_alpha.jsonl).
 - **The probes do not lose deep attributes.** Balanced accuracy is about
   0.70–0.77 at rank 10 and 0.73–0.80 at rank 30, at every WordNet depth.
   The derivation's prediction, that a truncated embedding loses deep
   attributes first, is not seen with depth indexed this way.
 - **Errors concentrate a little under the parent.** The share of false
-  positives inside the parent is 1.8× (rank 10), 2.1× (rank 30) and about
-  2.2× (rank 100, partial) the parent's share of negatives. Most false
+  positives inside the parent is 1.8× (rank 10), 2.1× (rank 30) and 2.3×
+  (rank 100, partial) the parent's share of negatives. Most false
   positives, about 90%, still fall outside it.
 
 ## What it shows, and what it cannot
@@ -159,6 +161,7 @@ tests were run.
   - word frequency, which bears on both the interaction and completion,
     is not controlled;
   - the noun filter keeps a word's dominant sense only.
-- Rank-300 probes were dropped for time. The rank-100 probes cover the
-  attributes listed in results/hierarchy.jsonl (PROBE-COVERAGE). The
-  intervention QUESTION-178 also names was not attempted.
+- The machine was shared with other runs, so two things were cut for
+  time. The rank-300 probes were dropped. The rank-100 probes were
+  stopped after 336 of 590 attributes, those of WordNet depth 1 to 5.
+  The intervention QUESTION-178 also names was not attempted.

@@ -32,7 +32,9 @@ Counts are cached in CACHE_DIR. Results are appended item by item to
 `results/analogy.jsonl` (one line per analogy family) and
 `results/hierarchy.jsonl` (summary, one line per nested-depth fit, and one
 line per rank and attribute). A rerun skips the keys already written.
-`test_measure.py` tests the counting, the 2 × 2 decomposition and the
+`python3 -I measure.py ... CACHE_DIR alpha` runs the stronger-ridge refit
+(`results/hierarchy_alpha.jsonl`) alone. `python3 -I summarize.py` writes
+`results/summary.txt`. `test_measure.py` tests the counting, the 2 × 2 decomposition and the
 cross-validated fit.
 
 Choices:
@@ -60,3 +62,12 @@ Choices:
   (P_a − P_b − P_c + P_d)/2. The interaction is noise-corrected from the
   half-corpora. Completion is 3CosAdd on a rank-300 SVD embedding of the
   target rows, searched over all 10 000 targets.
+
+Cut for time on 2026-11-22, with nine workers sharing the machine:
+
+- The rank-300 probes were dropped.
+- The rank-100 probes stopped after 336 of 590 attributes (depths 1 to 5).
+- The ridge refit was run at penalties 100 and 1000, at depth ≤ 4 and
+  with all attributes.
+
+A rerun of measure.py resumes the probes where they stopped.
