@@ -58,6 +58,7 @@ complements:
 - CLAIM-278
 - CLAIM-021
 ---
+<!-- inactive-ok-file: CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
 <!-- inactive-ok-file: CLAIM-487 — Proposed; the gain claim this objects to, open -->
 
 # CLAIM-024: Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie's interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it
@@ -125,3 +126,18 @@ notes above, was revised after the note of 2026-10-29. Its revision (version
 says, so the wait is unchanged: [QUESTION-056](../questions.d/QUESTION-056.md)'s comparison is unrun, and
 planning theory, control theory's regulation and institutional theory are
 still not set beside the account.
+
+## Note of 2026-11-22: the comparison made for Northstar
+
+[LEAD-089](../leads.d/LEAD-089.md) made [QUESTION-056](../questions.d/QUESTION-056.md)'s comparison ([CASE-tmpokq28](../cases.d/CASE-tmpokq28.md), [CLAIM-tmp92xul](CLAIM-tmp92xul.md)) and
+set the three unplaced fronts beside it ([CLAIM-tmp773u9](CLAIM-tmp773u9.md), Proposed):
+
+- **Control theory's regulation and executive control.** These give
+  control-only models. They miss the unseen combinations of changes in
+  authority that the will-organization model predicts.
+- **Planning theory.** With the plan held fixed, as in [CASE-003](../cases.d/CASE-003.md), it gives
+  no difference.
+- **Institutional theory.** It already writes the four relations as
+  rules-in-use. On that front this objection holds for an organization.
+
+No status changes.
