@@ -12,10 +12,23 @@
 - Step 1: checked the target is not held (grep of record/ for
   QUESTION-270, A13, "registration", "unliked pursuit": no later filing).
 
+- Read CLAIM-552, CLAIM-437, CLAIM-403 and QUESTION-270's notes. A13's
+  full text is not on the record; its three organizations are read from
+  the note of 2026-11-04 (see Choices).
+- Model, measures, 8 passing tests; study run (10 s); results/summary.json.
+
 ## Next
 
-- Read CLAIM-552, CLAIM-437, TERM-053, CASE-129.
-- Design, code, tests, run, file a CASE and a CLAIM, notes on
-  QUESTION-270 and LEAD-017, changelog fragment.
+- File a CASE (executed-study) and a CLAIM; dated notes on QUESTION-270
+  and LEAD-017; changelog fragment record/changelog.d/lead-017.md.
 
 ## Choices
+
+- A13's three: denied uptake (unliked pursuit), deliberate accommodation
+  with a tolerance revised by reciprocal compensation (tolerated hardship),
+  evaluative isolation (unregistered). Alternative reading filed in the
+  CASE for the owner.
+- Registration = the record's dependence on H's evaluation holding the
+  outcome, action and P's value fixed; measured by randomized perturbation
+  of H (not of g), with a passive variant.
+- Progressive devaluation (steps 20-140), not a one-step drop.
