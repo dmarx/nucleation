@@ -73,12 +73,12 @@ be a separate thesis. Rotations are one family of alternatives only.
 
 ## Note of 2026-11-22: the Nafaanra resurvey, read through its abstract
 
-The same authors' Nafaanra resurvey (THEORY-tmp7i21v; the abstract
-LIT-tmpom3sr, the journal paper LIT-tmpntsdw unread) reports one
+The same authors' Nafaanra resurvey ([THEORY-tmp7i21v](THEORY-tmp7i21v.md); the abstract
+[LIT-tmpom3sr](../literature.d/LIT-tmpom3sr.md), the journal paper [LIT-tmpntsdw](../literature.d/LIT-tmpntsdw.md) unread) reports one
 language's system near the bound at two dates, three terms in 1978 and
 seven in 2017. That is evidence for this entry's claim that languages lie
 near the bound, now at two points of one history, and the first data this
 record holds on a language changing rather than on optima compared. It is
-an abstract without figures, and Malik-Moraleda et al. (LIT-tmpyky5z)
+an abstract without figures, and Malik-Moraleda et al. ([LIT-tmpyky5z](../literature.d/LIT-tmpyky5z.md))
 propose contact with English as a cause beside efficiency. A parallel, no
 relation written; the status is unchanged.

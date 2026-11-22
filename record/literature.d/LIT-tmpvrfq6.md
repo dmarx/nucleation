@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-22 by the worker on LEAD-056 from a web search; not read. Repository records at Lancaster (eprints.lancs.ac.uk/id/eprint/71170) and Reading (centaur.reading.ac.uk/33173) were listed in the search results and not opened.'
+status_note: 'Registered 2026-11-22 by the worker on [LEAD-056](../leads.d/LEAD-056.md) from a web search; not read. Repository records at Lancaster (eprints.lancs.ac.uk/id/eprint/71170) and Reading (centaur.reading.ac.uk/33173) were listed in the search results and not opened.'
 title: 'Cognitive representation of colour in bilinguals: The case of Greek blues'
 version: 1
 history:
@@ -29,7 +29,7 @@ summary: >-
   Unverified until read: Greek-English bilinguals, whose Greek splits
   blue into ble and ghalazio, shift their category prototypes toward
   English with proficiency and time in the English-speaking country.
-  Registered by LEAD-056 as a case of a field's terms shifting with
+  Registered by [LEAD-056](../leads.d/LEAD-056.md) as a case of a field's terms shifting with
   exposure to a language that lacks one of their contrasts (a merge-like
   pressure), measured against monolinguals; no terms outside the field
   as a control is reported.
@@ -48,6 +48,6 @@ Panos Athanasopoulos (2009), *Bilingualism: Language and Cognition* 12(1),
 
 ## Standing in the record
 
-Registered by LEAD-056 (THEORY-159's promote_when). Malik-Moraleda et al.
-(LIT-tmpyky5z) cite it, with its Japanese sequel, as an earlier and smaller
+Registered by [LEAD-056](../leads.d/LEAD-056.md) ([THEORY-159](../theory.d/THEORY-159.md)'s promote_when). Malik-Moraleda et al.
+([LIT-tmpyky5z](LIT-tmpyky5z.md)) cite it, with its Japanese sequel, as an earlier and smaller
 effect of the same kind. Not read in this batch.

@@ -17,8 +17,8 @@ date: '2026-11-22'
 source:
 - LIT-tmpfcwau
 summary: >-
-  Karjus, Blythe, Kirby and Smith (2020), LIT-tmpfcwau, read in full in
-  NOTE-tmpfs86b. The equalization range (how far out in LSA space the
+  Karjus, Blythe, Kirby and Smith (2020), [LIT-tmpfcwau](../literature.d/LIT-tmpfcwau.md), read in full in
+  [NOTE-tmpfs86b](../notes.d/NOTE-tmpfs86b.md). The equalization range (how far out in LSA space the
   neighbours' frequency losses sum to a rising word's gain) correlates
   with topical advection (the mean log frequency change of the word's top
   context words) in COHA, DTA, Estonian, Czech and Scottish Twitter
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Andres Karjus, Richard A. Blythe, Simon Kirby and Kenny Smith (2020),
-LIT-tmpfcwau (arXiv:2006.09277), read in full in NOTE-tmpfs86b.
+[LIT-tmpfcwau](../literature.d/LIT-tmpfcwau.md) (arXiv:2006.09277), read in full in [NOTE-tmpfs86b](../notes.d/NOTE-tmpfs86b.md).
 
 ## What was actually shown
 
@@ -64,7 +64,7 @@ COHA show a smaller association of the same sign.
   neighbour within a generation is "almost non-existent".
 - **Not a test of a structuralist account.** The neighbourhood is
   distributional, collapsing synonyms, antonyms, hyponyms and associates;
-  it is not a lexical field, and THEORY-159's promote_when, which asks
+  it is not a lexical field, and [THEORY-159](THEORY-159.md)'s promote_when, which asks
   for the neighbours' use and interpretation against terms outside the
   field, is not met by it.
 - **Not that topic frequency is communicative need.** That identification

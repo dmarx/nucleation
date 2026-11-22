@@ -114,36 +114,36 @@ values do not cross between languages. The split is due when [CLAIM-242](../clai
 otherwise promotable. [CLAIM-242](../claims.d/CLAIM-242.md) then grounds on the split and drops this
 entry from its grounds.
 
-## Note of 2026-11-22: LEAD-056's search, and three readings
+## Note of 2026-11-22: [LEAD-056](../leads.d/LEAD-056.md)'s search, and three readings
 
-LEAD-056 searched for the study this entry's promote_when asks for (log in
+[LEAD-056](../leads.d/LEAD-056.md) searched for the study this entry's promote_when asks for (log in
 scratch/studies/lead-056/search.md). None was found that changes a
 language's inventory and measures the neighbours' use against terms
 outside the field. Three readings come nearest, and none meets it.
 
-- **Nafaanra** (THEORY-tmp7i21v, from the abstract LIT-tmpom3sr; the
-  journal paper LIT-tmpntsdw was not reached): colour terms added between
+- **Nafaanra** ([THEORY-tmp7i21v](THEORY-tmp7i21v.md), from the abstract [LIT-tmpom3sr](../literature.d/LIT-tmpom3sr.md); the
+  journal paper [LIT-tmpntsdw](../literature.d/LIT-tmpntsdw.md) was not reached): colour terms added between
   1978 and 2017, and the three older terms "now name smaller categories".
   An addition with the neighbours yielding, stated without figures and
   with no outside-field control; contact with English is a rival cause.
-- **Tsimane' bilinguals** (THEORY-tmplzcav, LIT-tmpyky5z): with the colour
+- **Tsimane' bilinguals** ([THEORY-tmplzcav](THEORY-tmplzcav.md), [LIT-tmpyky5z](../literature.d/LIT-tmpyky5z.md)): with the colour
   field's contrasts multiplied, every studied term but purple narrows and
   neighbouring terms overlap less. A split of a shared category rather
   than an addition of a word, measured against monolingual speakers, not
   against terms outside the field, and driven from outside the language
   state (Spanish, or culture).
-- **Karjus et al.** (THEORY-tmpqveji, LIT-tmpfcwau): across five corpora a
+- **Karjus et al.** ([THEORY-tmpqveji](THEORY-tmpqveji.md), [LIT-tmpfcwau](../literature.d/LIT-tmpfcwau.md)): across five corpora a
   rising word's frequency gain is offset by its near neighbours' losses
   when its topic is stable, by distant words' when its topic is rising.
   The near-against-far comparison is the outside-field control the
   promote_when wants, but the response is frequency, not use or
   interpretation.
 
-The first two show the shape this account predicts (ARG-tmpcpvnb), but in
+The first two show the shape this account predicts ([ARG-tmpcpvnb](../arguments.d/ARG-tmpcpvnb.md)), but in
 colour a new term must take its region from the old ones on almost any
 account, so without terms outside the field they do not discriminate.
-Registered unread as further candidates: LIT-tmp7ifjq (bilingual container
-naming converging), LIT-tmpvrfq6 (Greek blues), LIT-tmpzl83q (near-synonyms
+Registered unread as further candidates: [LIT-tmp7ifjq](../literature.d/LIT-tmp7ifjq.md) (bilingual container
+naming converging), [LIT-tmpvrfq6](../literature.d/LIT-tmpvrfq6.md) (Greek blues), [LIT-tmpzl83q](../literature.d/LIT-tmpzl83q.md) (near-synonyms
 differentiating or changing in parallel, against control pairs) and
-LIT-tmpzfual (where neologisms arise). The promote_when stays unmet; the
+[LIT-tmpzfual](../literature.d/LIT-tmpzfual.md) (where neologisms arise). The promote_when stays unmet; the
 status is unchanged.

@@ -96,7 +96,7 @@ larger effect.
 
 ## Bearing on the record
 
-- **THEORY-159, promote_when.** Partly of the kind asked for: the
+- **[THEORY-159](../theory.d/THEORY-159.md), promote_when.** Partly of the kind asked for: the
   neighbouring terms' use is measured, and every studied term but one
   (purple) shifts, with neighbour overlap falling, when the field's
   contrasts change. Three things fall short. The inventory of Tsimane'
@@ -108,18 +108,18 @@ larger effect.
   language (Spanish boundaries, or a more colour-talking culture), while
   the account concerns relations "inside a language state". Bearing:
   evidence of the shape the account predicts, without its control.
-- **CLAIM-082.** The pattern is what the claim's value account predicts
+- **[CLAIM-082](../claims.d/CLAIM-082.md).** The pattern is what the claim's value account predicts
   and the opposite of its defeat condition's second clause: no term's
   range stays fixed while its neighbours' contrasts change, except
   itsidyeisi, whose neighbours' overlap with it (red-purple) also fell.
   Its warrant is interpretive, so this is corroboration of the shape, not
-  a test (ARG-tmpcpvnb, Proposed).
-- **CLAIM-242.** A contrast only: the bilinguals' Tsimane' terms take
+  a test ([ARG-tmpcpvnb](../arguments.d/ARG-tmpcpvnb.md), Proposed).
+- **[CLAIM-242](../claims.d/CLAIM-242.md).** A contrast only: the bilinguals' Tsimane' terms take
   contrasts from Spanish, which is something crossing between languages,
   but it crosses in one speaker, not between speakers' utterances; it says
   nothing about transport of an utterance's contrast with its
   alternatives. No relation written.
-- **THEORY-163 (Zaslavsky et al. 2018).** Consistent background: the
+- **[THEORY-163](../theory.d/THEORY-163.md) (Zaslavsky et al. 2018).** Consistent background: the
   surprisal analysis is an efficiency measure of the same family.
 
 ## Limitations

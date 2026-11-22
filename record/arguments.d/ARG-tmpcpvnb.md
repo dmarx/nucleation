@@ -15,14 +15,14 @@ date: '2026-11-22'
 line:
 - pragmatic-transport
 summary: >-
-  Filed by the worker on LEAD-056 with the readings of Malik-Moraleda et
+  Filed by the worker on [LEAD-056](../leads.d/LEAD-056.md) with the readings of Malik-Moraleda et
   al. 2023 and of the Nafaanra abstract (Zaslavsky et al. 2019). In both,
   when a colour field gains contrasts, the older terms cover less of it:
-  the outcome CLAIM-082's value account predicts and the opposite of its
+  the outcome [CLAIM-082](../claims.d/CLAIM-082.md)'s value account predicts and the opposite of its
   defeat condition's second clause. Both lack terms outside the field as a
   control, and both admit a cause from outside the language state
   (contact, culture), so the readings corroborate the claim's shape and
-  do not test it; THEORY-159's promote_when stays unmet. Proposed. The
+  do not test it; [THEORY-159](../theory.d/THEORY-159.md)'s promote_when stays unmet. Proposed. The
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
@@ -35,21 +35,21 @@ summary: >-
 
 ## The inference
 
-CLAIM-082's defeat condition, second clause: "a term whose range of use
+[CLAIM-082](../claims.d/CLAIM-082.md)'s defeat condition, second clause: "a term whose range of use
 and interpretation stays fixed when a coexisting term of its field is
 added, lost or merged, against terms outside the field as a control". The
-account it defends, THEORY-159, predicts the converse: when a field gains
+account it defends, [THEORY-159](../theory.d/THEORY-159.md), predicts the converse: when a field gains
 a term or a contrast, the neighbouring terms' range shrinks to yield it.
 
-- THEORY-tmp7i21v (Nafaanra): three terms in 1978, seven later; the three
+- [THEORY-tmp7i21v](../theory.d/THEORY-tmp7i21v.md) (Nafaanra): three terms in 1978, seven later; the three
   older terms "now name smaller categories".
-- THEORY-tmplzcav (Tsimane' bilinguals): with the field's contrasts
+- [THEORY-tmplzcav](../theory.d/THEORY-tmplzcav.md) (Tsimane' bilinguals): with the field's contrasts
   multiplied, every studied term's extension shrinks and neighbouring
   terms overlap less, except purple, which does not differ between groups.
 
 Each is an instance of the predicted shape, in different languages and
 by different routes (terms added; one shared category split). Neither is
-an instance of the defeat condition. So they corroborate CLAIM-082: the
+an instance of the defeat condition. So they corroborate [CLAIM-082](../claims.d/CLAIM-082.md): the
 claim would be in more trouble had the older terms kept their ranges.
 
 ## Critical questions
@@ -66,18 +66,18 @@ claim would be in more trouble had the older terms kept their ranges.
 - **Does it tell the hypothesis apart from its rivals?** No. Contact
   (Spanish or English boundaries borrowed into native words) and a more
   colour-talking culture explain both results, and the Tsimane' authors
-  name both. THEORY-159 concerns relations "inside a language state"; a
+  name both. [THEORY-159](../theory.d/THEORY-159.md) concerns relations "inside a language state"; a
   change imported from another language is consistent with it but not a
   test of it.
 - **Does the measure measure what it is said to?** For Tsimane',
   extensions over 84 Munsell chips measure range of reference, which is
   part of "range of use and interpretation" but not all of it, and not
   value. For Nafaanra, the abstract gives no measure at all; the journal
-  paper (LIT-tmpntsdw) is unread.
+  paper ([LIT-tmpntsdw](../literature.d/LIT-tmpntsdw.md)) is unread.
 
 ## Verdict
 
 Proposed as corroboration, not as a test: the readings are evidence of
 the kind the defeat condition looks for, on its non-defeating side,
-without the control that would make them discriminate. THEORY-159's
-promote_when and CLAIM-082's status are unchanged.
+without the control that would make them discriminate. [THEORY-159](../theory.d/THEORY-159.md)'s
+promote_when and [CLAIM-082](../claims.d/CLAIM-082.md)'s status are unchanged.

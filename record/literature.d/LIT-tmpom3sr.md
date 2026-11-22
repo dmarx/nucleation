@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-22 (NOTE-tmpimci6), a one-page abstract read in full; worth reading only as the short public statement of the Nafaanra result, standing in for the unread journal paper (LIT-tmpntsdw): the 1978 World Color Survey system had three terms, a 2017 resurvey in the same village found seven, the three older terms now name smaller categories, and the later system lies near the information-bottleneck bound like the earlier. It gives no figures, method or speaker numbers.'
+status_note: 'read 2026-11-22 ([NOTE-tmpimci6](../notes.d/NOTE-tmpimci6.md)), a one-page abstract read in full; worth reading only as the short public statement of the Nafaanra result, standing in for the unread journal paper ([LIT-tmpntsdw](LIT-tmpntsdw.md)): the 1978 World Color Survey system had three terms, a 2017 resurvey in the same village found seven, the three older terms now name smaller categories, and the later system lies near the information-bottleneck bound like the earlier. It gives no figures, method or speaker numbers.'
 title: 'Evolution and efficiency in color naming: The case of Nafaanra'
 version: 1
 history:
@@ -39,7 +39,7 @@ summary: >-
   terms from 1978 are still used but they now name smaller categories",
   with new terms for roughly yellow, green, blue and purple. Both systems
   lie near the information-bottleneck bound, "unlikely without pressure
-  for efficiency". Read as a stand-in for the journal paper LIT-tmpntsdw.
+  for efficiency". Read as a stand-in for the journal paper [LIT-tmpntsdw](LIT-tmpntsdw.md).
 extends:
 - LIT-810
 ---
@@ -56,14 +56,14 @@ Science Society* — lab copy at lclab.berkeley.edu
 - **The change.** Three terms in 1978, seven in 2017, in the same village;
   the older three now name smaller categories.
 - **The efficiency reading.** Both systems near the information-bottleneck
-  bound of LIT-810; the authors call this the first direct evidence that
+  bound of [LIT-810](LIT-810.md); the authors call this the first direct evidence that
   colour naming evolves under pressure for efficiency, and leave language
   contact as a question for future research.
 
 ## Standing in the record
 
-A stand-in for LIT-tmpntsdw, as far as the abstract goes: the inventory
+A stand-in for [LIT-tmpntsdw](LIT-tmpntsdw.md), as far as the abstract goes: the inventory
 change and the shrinking of the old categories, stated without figures.
-It is the nearest natural case LEAD-056 found of terms added to a field
+It is the nearest natural case [LEAD-056](../leads.d/LEAD-056.md) found of terms added to a field
 with the older terms' range re-measured, and it has no control set of
-terms outside the field (NOTE-tmpimci6).
+terms outside the field ([NOTE-tmpimci6](../notes.d/NOTE-tmpimci6.md)).

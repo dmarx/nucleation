@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-22 by the worker on LEAD-056 from a web search; not read. A copy on the third author''s Lehigh page (https://www.lehigh.edu/~bcm0/bcm0/published_pdfs/bilingual naming JML2005.pdf) was listed in the search results and not fetched.'
+status_note: 'Registered 2026-11-22 by the worker on [LEAD-056](../leads.d/LEAD-056.md) from a web search; not read. A copy on the third author''s Lehigh page (https://www.lehigh.edu/~bcm0/bcm0/published_pdfs/bilingual naming JML2005.pdf) was listed in the search results and not fetched.'
 title: 'How bilinguals solve the naming problem'
 version: 1
 history:
@@ -30,7 +30,7 @@ summary: >-
   household containers converge on one pattern across their two languages
   (one-pattern rather than two-pattern), centres and boundaries alike,
   against Dutch and French monolinguals; a 2017 preregistered replication
-  by White, Malt and Storms is reported to agree. Registered by LEAD-056 as
+  by White, Malt and Storms is reported to agree. Registered by [LEAD-056](../leads.d/LEAD-056.md) as
   a merge-like reorganisation of a lexical field within the speaker, with
   monolinguals as the control; it has no terms outside the field as a
   control.
@@ -50,7 +50,7 @@ Eef Ameel, Gert Storms, Barbara C. Malt and Steven A. Sloman (2005),
 
 ## Standing in the record
 
-Registered by LEAD-056 (THEORY-159's promote_when): a field's terms in
+Registered by [LEAD-056](../leads.d/LEAD-056.md) ([THEORY-159](../theory.d/THEORY-159.md)'s promote_when): a field's terms in
 each of a bilingual's languages shift toward the other's, measured against
 monolingual speakers. It bears on the account if the shifts are read as
 the terms of one field yielding space to a neighbour's contrasts, and it

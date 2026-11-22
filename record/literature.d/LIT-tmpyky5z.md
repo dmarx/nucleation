@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-22 (NOTE-tmpkl6ez); worth reading as a measured case of a colour field restructuring within one language under contact: 30 adult Tsimane''-Spanish bilinguals, against 71 Tsimane'' monolinguals, use their Tsimane'' colour terms for fewer chips and with less overlap between neighbouring terms, and split shandyes and yụshñus, used for one green-blue category by monolinguals, into green and blue, without borrowing Spanish terms. Cross-sectional, colour only, with no terms outside the field as a control, and the bilinguals also live in a more industrialised town, which the authors name as a possible cause.'
+status_note: 'read 2026-11-22 ([NOTE-tmpkl6ez](../notes.d/NOTE-tmpkl6ez.md)); worth reading as a measured case of a colour field restructuring within one language under contact: 30 adult Tsimane''-Spanish bilinguals, against 71 Tsimane'' monolinguals, use their Tsimane'' colour terms for fewer chips and with less overlap between neighbouring terms, and split shandyes and yụshñus, used for one green-blue category by monolinguals, into green and blue, without borrowing Spanish terms. Cross-sectional, colour only, with no terms outside the field as a control, and the bilinguals also live in a more industrialised town, which the authors name as a possible cause.'
 title: 'Concepts Are Restructured During Language Contact: The Birth of Blue and Other Color Concepts in Tsimane''-Spanish Bilinguals'
 version: 1
 history:
@@ -42,7 +42,7 @@ summary: >-
   more consistent (average surprisal 4.42 against 5.16), each covers fewer
   chips, neighbouring pairs overlap less, and the monolinguals' shared
   green-blue pair splits into green and blue; no Spanish term is borrowed.
-  Registered by LEAD-056 as a case of a field's terms shifting when its
+  Registered by [LEAD-056](../leads.d/LEAD-056.md) as a case of a field's terms shifting when its
   contrasts change.
 ---
 <!-- inactive-ok-file: THEORY-159 — Proposed; the account whose test this reading was sought for -->
@@ -73,10 +73,10 @@ doi:10.1177/09567976231199742
 
 ## Standing in the record
 
-Registered by LEAD-056 for THEORY-159's promote_when and CLAIM-082's
+Registered by [LEAD-056](../leads.d/LEAD-056.md) for [THEORY-159](../theory.d/THEORY-159.md)'s promote_when and [CLAIM-082](../claims.d/CLAIM-082.md)'s
 defeat condition. It shows a field's terms shifting together when the
 field's contrasts change, which is the shape the account predicts, but
 with no change in the inventory of Tsimane' words, no terms outside the
 field as a control, and a cultural confound the authors name
-(NOTE-tmpkl6ez). It also cautions that the Nafaanra change
-(LIT-tmpntsdw) may be bilingualism with English rather than efficiency.
+([NOTE-tmpkl6ez](../notes.d/NOTE-tmpkl6ez.md)). It also cautions that the Nafaanra change
+([LIT-tmpntsdw](LIT-tmpntsdw.md)) may be bilingualism with English rather than efficiency.

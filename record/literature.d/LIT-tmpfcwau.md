@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-11-22 (NOTE-tmpfs86b); worth reading as the one large-scale study found by LEAD-056 that measures, word by word, where a rising word''s frequency gain is taken from: its nearest distributional neighbours, or words far from it in semantic space. In five corpora (COHA, DTA, Estonian, Czech, Scottish Twitter) the distance at which neighbours'' losses offset a target''s gain grows with the frequency change of the target''s topic, significant in each corpus and explaining up to 11% of the variance beyond the controls. It measures frequency, not range of use or interpretation, and it is correlational.'
+status_note: 'read 2026-11-22 ([NOTE-tmpfs86b](../notes.d/NOTE-tmpfs86b.md)); worth reading as the one large-scale study found by [LEAD-056](../leads.d/LEAD-056.md) that measures, word by word, where a rising word''s frequency gain is taken from: its nearest distributional neighbours, or words far from it in semantic space. In five corpora (COHA, DTA, Estonian, Czech, Scottish Twitter) the distance at which neighbours'' losses offset a target''s gain grows with the frequency change of the target''s topic, significant in each corpus and explaining up to 11% of the variance beyond the controls. It measures frequency, not range of use or interpretation, and it is correlational.'
 title: 'Communicative need modulates competition in language change'
 version: 1
 history:
@@ -41,7 +41,7 @@ summary: >-
   "advection", the mean log frequency change of the target's topic words:
   a word whose topic is stable takes its frequency from near neighbours
   (airplane from aeroplane), and a word whose topic is rising rises with
-  them (famed, famous). Found by LEAD-056 as the nearest large-scale
+  them (famed, famous). Found by [LEAD-056](../leads.d/LEAD-056.md) as the nearest large-scale
   measurement of what an addition to a field does to its neighbours; it
   measures frequency only.
 ---
@@ -71,11 +71,11 @@ arXiv preprint — arXiv:2006.09277
 
 ## Standing in the record
 
-Registered by LEAD-056, which looks for studies in which a term is added
+Registered by [LEAD-056](../leads.d/LEAD-056.md), which looks for studies in which a term is added
 to, lost from or merged in a language's inventory and the neighbours' use
-is measured against terms outside the field (THEORY-159's promote_when;
-CLAIM-082's defeat condition). This is the nearest study in scale and in
+is measured against terms outside the field ([THEORY-159](../theory.d/THEORY-159.md)'s promote_when;
+[CLAIM-082](../claims.d/CLAIM-082.md)'s defeat condition). This is the nearest study in scale and in
 having a within-field against outside-field comparison built in, since
 the equalization range asks whether a rise is offset near the target or
 far from it. Its measure is frequency, not value or range of use, so it
-does not meet that condition (NOTE-tmpfs86b).
+does not meet that condition ([NOTE-tmpfs86b](../notes.d/NOTE-tmpfs86b.md)).

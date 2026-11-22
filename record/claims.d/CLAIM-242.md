@@ -159,10 +159,10 @@ renderings that keep a source's contrast with its alternatives keep its
 judged stance or footing more often than renderings that change it, which
 is its defeat condition.
 
-## Note of 2026-11-22: LEAD-056, nothing for this claim's condition
+## Note of 2026-11-22: [LEAD-056](../leads.d/LEAD-056.md), nothing for this claim's condition
 
-LEAD-056 advances this claim through THEORY-159, its premise. Its readings
-leave this claim where it was. The Tsimane' bilinguals (THEORY-tmplzcav)
+[LEAD-056](../leads.d/LEAD-056.md) advances this claim through [THEORY-159](../theory.d/THEORY-159.md), its premise. Its readings
+leave this claim where it was. The Tsimane' bilinguals ([THEORY-tmplzcav](../theory.d/THEORY-tmplzcav.md))
 show a field's contrasts crossing from one language into another inside
 one speaker, a contrast with this claim's "values do not cross between
 languages", which concerns two language states and their speakers, not a

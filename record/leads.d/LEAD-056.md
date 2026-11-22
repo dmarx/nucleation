@@ -58,19 +58,19 @@ scratch/studies/lead-056/search.md, the steps in PROGRESS.md beside it.
   old terms re-measured, contact-driven restructuring measured against
   monolingual speakers, and corpus studies of what a rising word takes
   from its neighbours, measured in frequency.
-- **Read.** Karjus, Blythe, Kirby and Smith 2020 (LIT-tmpfcwau,
-  NOTE-tmpfs86b, THEORY-tmpqveji); Malik-Moraleda et al. 2023
-  (LIT-tmpyky5z, NOTE-tmpkl6ez, THEORY-tmplzcav); the Nafaanra CogSci
-  abstract (LIT-tmpom3sr, NOTE-tmpimci6, THEORY-tmp7i21v), standing in
-  for the journal paper LIT-tmpntsdw, whose bioRxiv, eScholarship and
+- **Read.** Karjus, Blythe, Kirby and Smith 2020 ([LIT-tmpfcwau](../literature.d/LIT-tmpfcwau.md),
+  [NOTE-tmpfs86b](../notes.d/NOTE-tmpfs86b.md), [THEORY-tmpqveji](../theory.d/THEORY-tmpqveji.md)); Malik-Moraleda et al. 2023
+  ([LIT-tmpyky5z](../literature.d/LIT-tmpyky5z.md), [NOTE-tmpkl6ez](../notes.d/NOTE-tmpkl6ez.md), [THEORY-tmplzcav](../theory.d/THEORY-tmplzcav.md)); the Nafaanra CogSci
+  abstract ([LIT-tmpom3sr](../literature.d/LIT-tmpom3sr.md), [NOTE-tmpimci6](../notes.d/NOTE-tmpimci6.md), [THEORY-tmp7i21v](../theory.d/THEORY-tmp7i21v.md)), standing in
+  for the journal paper [LIT-tmpntsdw](../literature.d/LIT-tmpntsdw.md), whose bioRxiv, eScholarship and
   publisher copies all returned a rate limit or challenge.
-- **Registered, unread.** LIT-tmp7ifjq, LIT-tmpvrfq6, LIT-tmpzl83q,
-  LIT-tmpzfual.
-- **Filed.** ARG-tmpcpvnb, Proposed: the two colour readings corroborate
-  CLAIM-082 without testing it. Dated notes on THEORY-159, CLAIM-082,
-  CLAIM-242 and THEORY-791.
-- **What remains.** Reading LIT-tmpntsdw when a copy is reachable, and
-  LIT-tmpzl83q, whose control pairs are the nearest existing design. The
+- **Registered, unread.** [LIT-tmp7ifjq](../literature.d/LIT-tmp7ifjq.md), [LIT-tmpvrfq6](../literature.d/LIT-tmpvrfq6.md), [LIT-tmpzl83q](../literature.d/LIT-tmpzl83q.md),
+  [LIT-tmpzfual](../literature.d/LIT-tmpzfual.md).
+- **Filed.** [ARG-tmpcpvnb](../arguments.d/ARG-tmpcpvnb.md), Proposed: the two colour readings corroborate
+  [CLAIM-082](../claims.d/CLAIM-082.md) without testing it. Dated notes on [THEORY-159](../theory.d/THEORY-159.md), [CLAIM-082](../claims.d/CLAIM-082.md),
+  [CLAIM-242](../claims.d/CLAIM-242.md) and [THEORY-791](../theory.d/THEORY-791.md).
+- **What remains.** Reading [LIT-tmpntsdw](../literature.d/LIT-tmpntsdw.md) when a copy is reachable, and
+  [LIT-tmpzl83q](../literature.d/LIT-tmpzl83q.md), whose control pairs are the nearest existing design. The
   study itself may not exist; if so, the lead's yield is a design: a
   diachronic corpus with a dated lexical addition, loss or merger, the
   neighbours' range of use (collocates or sense distributions, not

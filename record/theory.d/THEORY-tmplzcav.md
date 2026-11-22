@@ -20,8 +20,8 @@ source:
 corroborates:
 - CLAIM-082
 summary: >-
-  Malik-Moraleda, Mahowald, Conway and Gibson (2023), LIT-tmpyky5z, read
-  in NOTE-tmpkl6ez (supplement unread). Against 71 monolinguals, 30
+  Malik-Moraleda, Mahowald, Conway and Gibson (2023), [LIT-tmpyky5z](../literature.d/LIT-tmpyky5z.md), read
+  in [NOTE-tmpkl6ez](../notes.d/NOTE-tmpkl6ez.md) (supplement unread). Against 71 monolinguals, 30
   bilinguals' Tsimane' colour terms have lower average surprisal (4.42
   against 5.16), cover fewer chips, and overlap less with their
   neighbours; shandyes and yụshñus, one green-blue category for
@@ -37,8 +37,8 @@ summary: >-
 ## Source
 
 Saima Malik-Moraleda, Kyle Mahowald, Bevil R. Conway and Edward Gibson
-(2023), LIT-tmpyky5z, *Psychological Science* 34(12), 1350–1362; read in
-NOTE-tmpkl6ez from the PubMed Central copy, supplement unread.
+(2023), [LIT-tmpyky5z](../literature.d/LIT-tmpyky5z.md), *Psychological Science* 34(12), 1350–1362; read in
+[NOTE-tmpkl6ez](../notes.d/NOTE-tmpkl6ez.md) from the PubMed Central copy, supplement unread.
 
 ## What was actually shown
 
@@ -71,4 +71,4 @@ Spanish words.
 - **Not about perception.** The authors say the study concerns naming.
 - **Not a test of value by contrast.** No terms outside the colour field
   were measured, so a general sharpening of naming is not excluded; see
-  ARG-tmpcpvnb for what it gives CLAIM-082.
+  [ARG-tmpcpvnb](../arguments.d/ARG-tmpcpvnb.md) for what it gives [CLAIM-082](../claims.d/CLAIM-082.md).

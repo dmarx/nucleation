@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-22 by the worker on LEAD-056 from a web search; not read. The arXiv copy (arXiv:2001.07740) is lawful and was not fetched.'
+status_note: 'Registered 2026-11-22 by the worker on [LEAD-056](../leads.d/LEAD-056.md) from a web search; not read. The arXiv copy (arXiv:2001.07740) is lawful and was not fetched.'
 title: 'Where New Words Are Born: Distributional Semantic Analysis of Neologisms and Their Semantic Neighborhoods'
 version: 1
 history:
@@ -32,7 +32,7 @@ summary: >-
   Unverified until read: neologisms arise in sparser regions of an
   embedding space, and in regions whose neighbours are growing in
   frequency, compared with control words matched on frequency and other
-  factors. Registered by LEAD-056 as a study of where terms are added to
+  factors. Registered by [LEAD-056](../leads.d/LEAD-056.md) as a study of where terms are added to
   the lexicon relative to their neighbours; it does not report whether the
   neighbours' use shifts after the addition.
 ---
@@ -50,7 +50,7 @@ and Yulia Tsvetkov (2020) — arXiv:2001.07740
 
 ## Standing in the record
 
-Registered by LEAD-056 (THEORY-159's promote_when). It concerns where an
+Registered by [LEAD-056](../leads.d/LEAD-056.md) ([THEORY-159](../theory.d/THEORY-159.md)'s promote_when). It concerns where an
 addition happens, not what it does to the neighbours afterwards, so it is
 background to the lead's design, with a matched-control method the design
 could borrow. Not read in this batch.

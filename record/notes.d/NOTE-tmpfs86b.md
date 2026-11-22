@@ -89,7 +89,7 @@ in rising topics do not.
 
 ## Bearing on the record
 
-- **THEORY-159 (Saussure's value), promote_when.** The nearest study found
+- **[THEORY-159](../theory.d/THEORY-159.md) (Saussure's value), promote_when.** The nearest study found
   in scale and design: an addition (a word that newly enters or spreads)
   and a measure of whether the response falls on the word's near
   neighbours or on words far from it, which is a within-field against
@@ -102,12 +102,12 @@ in rising topics do not.
   dependence on topic advection says the neighbours yield only when the
   topic is stable. Bearing: evidence of the kind asked for, on the wrong
   quantity.
-- **CLAIM-082.** Its defeat condition's second clause asks for "a term whose
+- **[CLAIM-082](../claims.d/CLAIM-082.md).** Its defeat condition's second clause asks for "a term whose
   range of use and interpretation stays fixed when a coexisting term of its
   field is added". famed and famous rising together is not that: both
   frequencies rose, and whether famous's range narrowed is not measured.
   Neither supports nor meets the defeat condition. A parallel only.
-- **CLAIM-242.** No bearing beyond background: the paper is about
+- **[CLAIM-242](../claims.d/CLAIM-242.md).** No bearing beyond background: the paper is about
   frequency in corpora, not utterance contrast.
 
 ## Limitations

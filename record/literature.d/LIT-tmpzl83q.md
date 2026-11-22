@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'Registered 2026-11-22 by the worker on LEAD-056 from a web search; not read. The eScholarship PDF (https://escholarship.org/content/qt6301h6rd/qt6301h6rd.pdf) was listed in the search results and not fetched; another eScholarship PDF returned a challenge the same day.'
+status_note: 'Registered 2026-11-22 by the worker on [LEAD-056](../leads.d/LEAD-056.md) from a web search; not read. The eScholarship PDF (https://escholarship.org/content/qt6301h6rd/qt6301h6rd.pdf) was listed in the search results and not fetched; another eScholarship PDF returned a challenge the same day.'
 title: 'A Computational Evaluation of Two Laws of Semantic Change'
 version: 1
 history:
@@ -33,9 +33,9 @@ summary: >-
   English, measuring each word's change by its nearest neighbours, with
   control pairs; parallel change is reported to dominate. A 2023 paper
   (arXiv:2305.19143) is reported to criticise its method. Registered by
-  LEAD-056: differentiation is what a contrast account predicts for two
+  [LEAD-056](../leads.d/LEAD-056.md): differentiation is what a contrast account predicts for two
   terms that share a field, and the control pairs are the outside-field
-  comparison THEORY-159 asks for, though no term is added or lost.
+  comparison [THEORY-159](../theory.d/THEORY-159.md) asks for, though no term is added or lost.
 ---
 <!-- inactive-ok-file: THEORY-159 — Proposed; the account whose test this work was sought for -->
 
@@ -51,7 +51,7 @@ the Cognitive Science Society* — escholarship.org/uc/item/6301h6rd
 
 ## Standing in the record
 
-Registered by LEAD-056 (THEORY-159's promote_when). Not an addition, loss
+Registered by [LEAD-056](../leads.d/LEAD-056.md) ([THEORY-159](../theory.d/THEORY-159.md)'s promote_when). Not an addition, loss
 or merger, but a measure of whether neighbours in a field move together or
 apart, against pairs outside it. If parallel change dominates, terms that
 share a field do not visibly push each other apart, which bears on how a

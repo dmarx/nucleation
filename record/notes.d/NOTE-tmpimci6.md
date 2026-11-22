@@ -54,28 +54,28 @@ categories shrunk, with the system staying near the efficiency bound.
   comparable means. The abstract does not say how; a search snippet of the
   later preprint describes the later study as free-response naming, which
   is unverified here.
-- The efficiency measure and need distribution are LIT-810's (NOTE-631).
+- The efficiency measure and need distribution are [LIT-810](../literature.d/LIT-810.md)'s ([NOTE-631](NOTE-631.md)).
 
 ## Concepts
 
 - **Information-bottleneck efficiency**: the trade-off between a lexicon's
-  complexity and its accuracy, with a theoretical bound (THEORY-163).
+  complexity and its accuracy, with a theoretical bound ([THEORY-163](../theory.d/THEORY-163.md)).
 
 ## Bearing on the record
 
-- **THEORY-159, promote_when.** The nearest natural case found: terms
+- **[THEORY-159](../theory.d/THEORY-159.md), promote_when.** The nearest natural case found: terms
   added to one language's inventory, and the neighbouring older terms'
   extensions re-measured, and they "name smaller categories", which is
   the neighbours yielding space. It does not meet the promote_when: the
   abstract gives no measure, and there is no set of terms outside the
   colour field as a control, so a general shift in how the community
   names (or in how the two surveys elicited names) is not excluded.
-  Malik-Moraleda et al. (LIT-tmpyky5z) add that contact with English may
+  Malik-Moraleda et al. ([LIT-tmpyky5z](../literature.d/LIT-tmpyky5z.md)) add that contact with English may
   explain the change. Bearing: evidence of the shape, without the control
   and, here, without the data.
-- **CLAIM-082.** As for THEORY-159: the shape its value account predicts
-  (ARG-tmpcpvnb).
-- **THEORY-163.** Extends it from synchronic comparison to one language's
+- **[CLAIM-082](../claims.d/CLAIM-082.md).** As for [THEORY-159](../theory.d/THEORY-159.md): the shape its value account predicts
+  ([ARG-tmpcpvnb](../arguments.d/ARG-tmpcpvnb.md)).
+- **[THEORY-163](../theory.d/THEORY-163.md).** Extends it from synchronic comparison to one language's
   history, and reports the same near-optimality.
 
 ## Limitations

@@ -197,20 +197,20 @@ only proposed. It waits on a study that adds, loses or merges a term in a
 language's inventory and measures the neighbouring terms' use against
 terms outside the field.
 
-## Note of 2026-11-22: LEAD-056, three readings
+## Note of 2026-11-22: [LEAD-056](../leads.d/LEAD-056.md), three readings
 
-LEAD-056 looked for the study this claim waits on and did not find it
-(THEORY-159's note of this date). Two readings are instances of the shape
+[LEAD-056](../leads.d/LEAD-056.md) looked for the study this claim waits on and did not find it
+([THEORY-159](../theory.d/THEORY-159.md)'s note of this date). Two readings are instances of the shape
 the claim predicts, on the non-defeating side of its defeat condition: in
 Nafaanra, colour terms added between 1978 and 2017 left the three older
-terms naming "smaller categories" (THEORY-tmp7i21v, an abstract standing
+terms naming "smaller categories" ([THEORY-tmp7i21v](../theory.d/THEORY-tmp7i21v.md), an abstract standing
 in for an unread paper); in Tsimane'-Spanish bilinguals, the colour terms
 narrow and overlap less as the field's contrasts multiply
-(THEORY-tmplzcav). Both now corroborate this claim, and ARG-tmpcpvnb,
+([THEORY-tmplzcav](../theory.d/THEORY-tmplzcav.md)). Both now corroborate this claim, and [ARG-tmpcpvnb](../arguments.d/ARG-tmpcpvnb.md),
 Proposed, says why only as corroboration: neither measures terms outside
 the field, both admit causes from outside the language state, and in a
 continuous space like colour a referential account predicts the same
-shrinkage. Karjus et al. (THEORY-tmpqveji) has the outside-field
+shrinkage. Karjus et al. ([THEORY-tmpqveji](../theory.d/THEORY-tmpqveji.md)) has the outside-field
 comparison but measures frequency; famed and famous rising together is
 not a term whose range stays fixed, since range was not measured, so it
 is a parallel and meets neither clause. The status is unchanged.
