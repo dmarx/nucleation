@@ -26,9 +26,14 @@ and dated notes on LEAD-083, QUESTION-218 and CLAIM-157.
   ulimit -v).
 - CASE-tmpwyp15 and CLAIM-tmpjwc0h created by luria new (templates).
 
+- All arms complete (results.jsonl, 18 items). summarize.py prints the tables.
+- Filed: CASE-tmpwyp15 (executed-study), CLAIM-tmpjwc0h (thesis,
+  demonstrated), dated notes on LEAD-083, QUESTION-218, QUESTION-219,
+  CLAIM-157; changelog fragment record/changelog.d/lead-083.md.
+
 ## Next
 
-- Read results; write README; file CASE, CLAIM, notes, changelog.
+- Report. Nothing else on this branch; the lead worker's parent opens the PR.
 
 ## Choices
 

@@ -42,6 +42,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the criterion the study tests -->
+<!-- inactive-ok-file: CASE-tmpwyp15 — new; the study this claim states -->
 
 # CLAIM-tmpjwc0h: Compensation under a sustained load does not need a block: in a phi4 lattice kink and in the locked cluster of a uniformly coupled Kuramoto population the other members undo nearly all of a load's damage to the form, as in a two-block control, while the block test on members gives the kink a ratio that falls as the square of the lattice spacing and gives the cluster, on its coupling constants, the score of every set of its size
 

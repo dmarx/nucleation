@@ -21,6 +21,7 @@ summary: >-
   dissipative structures ([THEORY-072](../theory.d/THEORY-072.md), [THEORY-532](../theory.d/THEORY-532.md), [CLAIM-273](../claims.d/CLAIM-273.md), [QUESTION-085](QUESTION-085.md))
   but has not set flux beside its block and closure tests.
 ---
+<!-- inactive-ok-file: CASE-tmpwyp15 — new; LEAD-083's study of 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-974 THEORY-763 THEORY-776 NOTE-1022 THEORY-772 NOTE-1027 THEORY-821 — Skimmed or Proposed; the negative half of Onsager, cited as open -->
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-072 THEORY-257 THEORY-532 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -129,3 +130,12 @@ A4 of the exchange "Explain String Theory" offers a soliton as "a candidate indi
 - a topological one is protected as a member of its sector, not as a particular pattern ([CLAIM-694](../claims.d/CLAIM-694.md)).
 
 So of the soliton cases only the dissipative one bears on this question, and only once its throughput is measured.
+
+## Note of 2026-11-22: LEAD-083 ran no flux arm
+
+[LEAD-083](../leads.d/LEAD-083.md) named this question, but its study ([CASE-tmpwyp15](../cases.d/CASE-tmpwyp15.md)) ran only a
+field excitation and a collective mode. Its protocol, compensation under
+a sustained load read with the other members free and frozen, would carry
+over to a flux pattern once a task variable for the throughput is
+declared, which A5's precondition, a balance law for a transferred
+quantity, would supply. No status change.
