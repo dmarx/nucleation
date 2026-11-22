@@ -119,3 +119,30 @@ defeater (a) is excluded by design, not tested. User adaptation is assumed
   information flowing from the state to the user (the perception term),
   which ties the channel to the user's adaptation as well as the
   interface's.
+
+## Note of 2026-11-22: a scroll interface as a second testbed, from the exchange "Explain First Contact RL"
+<!-- inactive-ok-file: CASE-tmptzhse LEAD-tmplps4n LEAD-tmp4eo5e CLAIM-tmpx7oaj CLAIM-tmpcfo3s — Proposed or Open; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
+
+The owner proposed (U2, U3) a smart touch-scroll interface that would use
+First Contact's co-adaptation to learn the user's expected gain, momentum
+and braking without knowing what they are looking for, under the
+constraint that inference add no perceptual latency; it is filed as a
+proposed study, CASE-tmptzhse, which illustrates this claim. A8 of that
+exchange found this claim and CLAIM-787 and treated them as "the starting
+point, not as new discoveries". What the exchange adds for this claim:
+
+- **A transfer test in a cheap setting.** A mapping learned on one
+  document should help on unfamiliar documents (LEAD-tmp4eo5e). That is
+  this claim's defeater (a) run where it can be run, which First Contact
+  does not (NOTE-2236).
+- **What the measure can and cannot see.** At fixed commands, command-to-
+  displacement information does not prefer a comfortable gain and, with
+  pixel quantization, rises with gain (CLAIM-tmpx7oaj, the assistant's
+  gap fill). So the channel reading's measure picks out a usable channel
+  only through the user's behaviour, which is the paper's premise and
+  which a scroll study can test (LEAD-tmplps4n). And the score is
+  information under realized commands, bounded by the capacity empowerment
+  measures (CLAIM-tmpcfo3s, A's): a channel the user cannot drive scores
+  low however much it could carry.
+
+No status change.

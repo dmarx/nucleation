@@ -44,3 +44,15 @@ same assisted score and then removes it: lower unassisted performance in the
 assisted group, with equal assisted scores, would show erosion invisible to
 the score. A design that keeps the user's capacity, for instance assistance
 withdrawn as skill grows, would be the repair to test beside it.
+
+## Note of 2026-11-22: a removal arm in a scroll study, from the exchange "Explain First Contact RL"
+<!-- inactive-ok-file: CASE-tmptzhse LEAD-tmp4eo5e — Proposed or Open; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
+
+A8 §3B of that exchange applies this question to an adaptive scroll
+interface: a high score "measures the human-machine system *with the
+assistance present*" and "cannot necessarily tell us which participant
+supplies the capability", so a study should measure performance with
+adaptation on and after temporarily restoring standard scrolling. That
+arm is in LEAD-tmp4eo5e, on the design of CASE-tmptzhse. It is a cheaper
+instance of the study this question names, not a different one, and scroll
+skill may decay less than landing skill, so a null there would answer less.
