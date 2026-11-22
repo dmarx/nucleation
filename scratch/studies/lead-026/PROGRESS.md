@@ -36,10 +36,29 @@ couple), unfiled.
   passes when every internal cut is kept and its edge is pruned.
 - Arm B's transmission is at lag L = 8 only (no synchronous coupling).
 
+## Incidents
+
+- The first run's intervention values were drawn from the same RNG
+  stream that the deep-copied simulator then used for its noise, which
+  inflated Ahat at lag 1 for some candidates (up to 7.5 nats). Fixed in
+  run.py (separate generators); the faulty Ahat lines were deleted and
+  recomputed.
+- The PID saved with `echo $!` was a wrapper's; the first run went on
+  writing after the stop. Found by `ps` and /proc/PID/cwd and stopped by
+  its own PIDs (25089, 25090). Its buggy B Ahat line is to be deleted and
+  recomputed. The skill's step 5 now says to check the saved PID.
+
 ## Done
 
 - Step 1 check; branch pushed.
-- model.py, calibrate.py, calibration.json (done), measures.py (draft).
+- model.py, calibrate.py, calibration.json (done), measures.py.
+- test_lead026.py: 10 tests pass.
+- run.py running (PID 26074); A and B observational items done, A Ahat
+  recomputed.
+- Early results: A: block = members + driver, members alone rejected
+  while the driver is observed, passed when it is hidden. B: members a
+  block at every window, W = 1 included (seen through persistence); its
+  internal ln BF jumps at W = 8 = L.
 
 ## Next
 
