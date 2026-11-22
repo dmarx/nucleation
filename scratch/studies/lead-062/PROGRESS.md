@@ -17,9 +17,13 @@
 - Simić et al. 2025 read in full (Europe PMC fullTextXML).
 - Law et al. 2025 Sci Rep: fullTextXML HTTP 500 x3, stopped.
 
+- Filed Simić et al. 2025: LIT-tmpmox49 (Active), NOTE-tmpirf1e (Read),
+  THEORY-tmppa01m (Proposed).
+- Scaffolded (empty, uncommitted until filled): LIT-tmporf0r (Law 2025),
+  LIT-tmpa7f10 (Law 2023), LIT-tmpre45d (Law 2026), CASE-tmp413kq (design).
+
 ## Next
 
-- File LIT/NOTE/THEORY for Simić et al. 2025.
 - Register Law et al. 2025 (Unfetched), 2023 (Unfetched), 2026 (Deferred).
 - File the design CASE (proposed-study); set LEAD-062 operationalized_in.
 - Dated notes: CLAIM-492, QUESTION-299/300/301, NOTE-1280, LEAD-062.
