@@ -288,8 +288,8 @@ claim does not say.
 
 ## Note of 2026-11-22: Mulgan, read
 
-A **third position** beside this claim (LIT-1874, NOTE-tmpf00ch;
-THEORY-tmpyc2wm). Mulgan assigns psychopathy to a corporate group
+A **third position** beside this claim ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md);
+[THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md)). Mulgan assigns psychopathy to a corporate group
 structurally, as the absence of any mechanism for moral reasons (p. 910),
 not functionally through affect, and draws the opposite consequence: such a
 group is not a moral agent and "has no moral standing at all", where this

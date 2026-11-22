@@ -25,7 +25,6 @@ summary: >-
   attention. The standard choice-under-limited-attention model (Masatlioglu
   et al. 2012, "generic CLA") recovers almost nothing.
 ---
-<!-- inactive-ok-file: THEORY-tmpam6lh — Proposed; the reading of Caliari, 2026-11-22 -->
 
 # THEORY-1693: Freer and Nosratabadi (2026) show that under the standard limited-attention model choices reveal almost no preferences, while assuming that a decision-maker compares at least two alternatives restores about a third of the full-attention revealed preferences at almost no loss of descriptive fit
 
@@ -39,7 +38,7 @@ The reading in [NOTE-1797](../notes.d/NOTE-1797.md); its key results are quoted 
 
 ## Note of 2026-11-22: Caliari, read
 
-A **parallel from the data side**, no edge (LIT-2363, NOTE-tmphq6zm). This
+A **parallel from the data side**, no edge ([LIT-2363](../literature.d/LIT-2363.md), [NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md)). This
 account shows from theory that under the standard limited-attention model
 choices reveal almost no preferences. Caliari's experiment applies the
 Masatlioglu et al. method to 145 participants, and it "uniquely identifies

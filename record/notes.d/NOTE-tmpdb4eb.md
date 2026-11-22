@@ -117,25 +117,25 @@ arrogance and humility; deliberative AI.
   leaves out that the argument is avowedly untested and conditional, and
   that its target is the strong, isolation form of the filter-bubble
   hypothesis, not Nguyen's echo chambers, which it extends.
-- **QUESTION-441**: bears on part 2 (what makes it reproductive) and leaves
+- **[QUESTION-441](../questions.d/QUESTION-441.md)**: bears on part 2 (what makes it reproductive) and leaves
   parts 1 and 3 open. The paper gives a mechanism by which a system
   reproduces the conditions under which its harm is not legible to those
   it harms: miscalibration undetectable from within, and an optimization
   that resets the standard by which users would judge it. But the bearer is
   "AI", "algorithms" or "engagement architectures", never an organization as
   agent, and no wrong of the organization is stated.
-- **LEAD-050**: partly met. It states a wrong apart from misinformation
+- **[LEAD-050](../leads.d/LEAD-050.md)**: partly met. It states a wrong apart from misinformation
   harm, the corruption of epistemic agency, but a wrong done to epistemic
   agency, not a wrong of governance. Its contrast between curation
   answerable to ground truth and curation answerable to predicted
   expectation (pp. 13–14) is the nearest it comes to a governance norm.
-- **THEORY-1653** (Gauthier et al.'s field experiment on X): held evidence
+- **[THEORY-1653](../theory.d/THEORY-1653.md)** (Gauthier et al.'s field experiment on X): held evidence
   against the paper's motivating link from algorithmic curation to
   affective polarization, which the paper does not cite.
-- **THEORY-662** (fluency as an inference whose cause is not given to
+- **[THEORY-662](../theory.d/THEORY-662.md)** (fluency as an inference whose cause is not given to
   introspection): support, from the cognitive side, for the paper's
   reflective-luck premise.
-- ADR-098's `philosophy-of-technology` tag is confirmed: the paper is about
+- [ADR-098](../decisions.d/ADR-098.md)'s `philosophy-of-technology` tag is confirmed: the paper is about
   design that steers its users.
 - "echo chamber", "epistemic friction", "Pol.is", "epistemic luck" and
   "intellectual humility" are held nowhere else in the record.
@@ -152,7 +152,7 @@ arrogance and humility; deliberative AI.
   rejecting opponents rather than in their claims is argued from the
   absence of convergence, which has rival explanations.
 - **Corroboration is weak**, and experimental evidence such as
-  THEORY-1653's is not engaged.
+  [THEORY-1653](../theory.d/THEORY-1653.md)'s is not engaged.
 - **No agent of the wrong** is named, which limits its use for
-  QUESTION-441's third part.
+  [QUESTION-441](../questions.d/QUESTION-441.md)'s third part.
 - **Remedies are untested.**

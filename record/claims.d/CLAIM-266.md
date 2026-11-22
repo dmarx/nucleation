@@ -68,7 +68,7 @@ bears_on:
 <!-- inactive-ok-file: CASE-tmpssuha — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 <!-- inactive-ok-file: ARG-028 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-1730 THEORY-1733 THEORY-1738 THEORY-1743 THEORY-1754 THEORY-1757 THEORY-1759 THEORY-1760 THEORY-1769 THEORY-1770 THEORY-1772 THEORY-1776 THEORY-1782 THEORY-1784 THEORY-1785 THEORY-1794 THEORY-1799 THEORY-1801 THEORY-1803 THEORY-1804 THEORY-1811 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1730 THEORY-1733 THEORY-1738 THEORY-1743 THEORY-1754 THEORY-1757 THEORY-1759 THEORY-1760 THEORY-1769 THEORY-1770 THEORY-1772 THEORY-1782 THEORY-1784 THEORY-1785 THEORY-1794 THEORY-1799 THEORY-1801 THEORY-1803 THEORY-1804 THEORY-1811 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-266: A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it
 
@@ -170,8 +170,8 @@ claim is unchanged.
 
 ## Note of 2026-11-22: Georgiev, Gómez-Serrano, Tao and Wagner, read further
 
-**Supports with stronger instances** than NOTE-1825 gave (LIT-2474; the
-§6 reading is in the dated note of 2026-11-22 there; THEORY-1776, which
+**Supports with stronger instances** than [NOTE-1825](../notes.d/NOTE-1825.md) gave ([LIT-2474](../literature.d/LIT-2474.md); the
+§6 reading is in the dated note of 2026-11-22 there; [THEORY-1776](../theory.d/THEORY-1776.md), which
 `corroborates` this claim). The optimizer exploited the evaluator that
 supplied its signal in three distinct ways: the numerical integrator
 ("exploited the numerical integration methods in our scoring function …

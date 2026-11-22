@@ -134,20 +134,20 @@ attention filter.
   reference-point models are outside. "Recovering" is also stronger than
   shown: in Risk the expected false-positive rate for the top alternative
   is 39%.
-- **QUESTION-456**, failure mode 2: supports and sharpens it (dated note
+- **[QUESTION-456](../questions.d/QUESTION-456.md)**, failure mode 2: supports and sharpens it (dated note
   there). Any rule from choices to preferences embeds a model of
   behaviour; the rule is reliable only when choice frequency is monotone in
   preference, which selective attention breaks; and the threshold for
   breaking an indifference is the analyst's normative choice.
-- **LIT-2458** (Caliari and Petri), the neighbour read in this work's place:
+- **[LIT-2458](../literature.d/LIT-2458.md)** (Caliari and Petri), the neighbour read in this work's place:
   superseded as a stand-in, since the target is now read. The two agree in
   theme at different levels.
-- **THEORY-1693** (Freer and Nosratabadi): the same finding from the data
+- **[THEORY-1693](../theory.d/THEORY-1693.md)** (Freer and Nosratabadi): the same finding from the data
   side, that under the standard limited-attention model choices reveal
   almost nothing (result 14).
-- **CLAIM-482**: a different notion of revealed preference, not a rival
+- **[CLAIM-482](../claims.d/CLAIM-482.md)**: a different notion of revealed preference, not a rival
   (dated note there).
-- **LEAD-158**: weak bearing (dated note there).
+- **[LEAD-158](../leads.d/LEAD-158.md)**: weak bearing (dated note there).
 - **No instruction for machine-learning practice.**
 
 ## Limitations

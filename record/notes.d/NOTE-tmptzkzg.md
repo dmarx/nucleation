@@ -114,36 +114,36 @@ validity; full mediation; suppression effect.
 
 ## Bearing on the record
 
-- **On the record's characterization.** NOTE-440's second-hand account is
+- **On the record's characterization.** [NOTE-440](NOTE-440.md)'s second-hand account is
   right in substance, with two corrections (filed as a dated note on
-  NOTE-440): the paper's term is "basic wellness enhancer", and the classing
+  [NOTE-440](NOTE-440.md)): the paper's term is "basic wellness enhancer", and the classing
   is a tentative proposal the authors call premature, not a verdict. The
   LIT's "frustration adds no variance" is right for Studies 2–3. The
-  search-result abstract in LIT-1983's history (version 2) is confirmed.
-- **QUESTION-369**: a worked instance of the question's circularity, not an
+  search-result abstract in [LIT-1983](../literature.d/LIT-1983.md)'s history (version 2) is confirmed.
+- **[QUESTION-369](../questions.d/QUESTION-369.md)**: a worked instance of the question's circularity, not an
   answer. Need-hood is decided by incremental self-reported ill-being, and
   the three needs win partly by entry order. Footnote 2 shows the null rests
   on controlling competence frustration, which correlates .81 with
   beneficence frustration, so "adds no variance" cannot tell "derived from
   competence" from "shares measurement with competence". The paper names
   the remedy the question asks for, manipulation, and does not attempt it;
-  NOTE-tmpqf55c (the authors' 2021 experiments) does.
-- **LEAD-127**: correlational, with no functional deficit; it does not meet
+  [NOTE-tmpqf55c](NOTE-tmpqf55c.md) (the authors' 2021 experiments) does.
+- **[LEAD-127](../leads.d/LEAD-127.md)**: correlational, with no functional deficit; it does not meet
   "what would count".
-- **NOTE-1502** (Sheldon et al.): consistent; there too competence carried
+- **[NOTE-1502](NOTE-1502.md)** (Sheldon et al.): consistent; there too competence carried
   the unique variance, and here competence frustration absorbs beneficence
   frustration.
-- **THEORY-052**: corroborates its premise that each of the three
+- **[THEORY-052](../theory.d/THEORY-052.md)**: corroborates its premise that each of the three
   frustrations predicts ill-being, on cross-sectional self-report of the
   kind its promote_when excludes. Not promotion evidence.
-- **NOTE-1530** and **NOTE-1515**: the negatively keyed, reverse-scored
+- **[NOTE-1530](NOTE-1530.md)** and **[NOTE-1515](NOTE-1515.md)**: the negatively keyed, reverse-scored
   frustration items and a null that turns on a .81 correlation between two
   frustration scales are the measurement worries those notes hold.
 - **No instruction for machine-learning practice.**
 
 ## Limitations
 
-- Cross-sectional, self-report, MTurk, US only, as the authors say. LIT-1980
+- Cross-sectional, self-report, MTurk, US only, as the authors say. [LIT-1980](../literature.d/LIT-1980.md)
   is registered as a Central European test.
 - **Entry order is asserted, not argued.** Beneficence is entered last, so
   shared variance is credited to the three needs by design, and mediation

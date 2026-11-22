@@ -36,7 +36,7 @@ summary: >-
   produces but which is dynamically decoupled from its constitutive regime,
   triggered by perturbations, and which shifts that regime between viable
   states. Feedback, network robustness and homeostasis belong instead to
-  the constitutive regime, the closure. A stand-in, in part, for LIT-536,
+  the constitutive regime, the closure. A stand-in, in part, for [LIT-536](LIT-536.md),
   on what organisms add to closure.
 ---
 <!-- inactive-ok-file: LIT-536 — Unfetched; the book this work stands in for, in part -->
@@ -63,10 +63,10 @@ version, CC BY-NC 4.0).
 
 ## Standing in the record
 
-Read in full in NOTE-tmpefons; its account is THEORY-tmpxypfa (Proposed).
-Registered as a stand-in for LIT-536, whose chapters have no lawful copy.
+Read in full in [NOTE-tmpefons](../notes.d/NOTE-tmpefons.md); its account is [THEORY-tmpxypfa](../theory.d/THEORY-tmpxypfa.md) (Proposed).
+Registered as a stand-in for [LIT-536](LIT-536.md), whose chapters have no lawful copy.
 It stands in **only in part**: it gives the constraint definition with time
 scales that chapter 1 uses, and what organisms add to closure, regulation,
 which is how the book's Introduction separates organisms from ecosystems.
 It does not apply the requirements to colonies or ecosystems, so it is no
-stand-in for chapter 6. It bears on THEORY-072, CLAIM-395 and NOTE-148.
+stand-in for chapter 6. It bears on [THEORY-072](../theory.d/THEORY-072.md), [CLAIM-395](../claims.d/CLAIM-395.md) and [NOTE-148](../notes.d/NOTE-148.md).

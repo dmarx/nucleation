@@ -205,8 +205,8 @@ they surface when other needs are frustrated (pp. 5, 7).
 
 ## Note of 2026-11-22: Martela and Ryan (2019), read
 
-LIT-1983, which this reading reports second-hand, is now read in full
-(NOTE-tmptzkzg). The account above is **right in substance, with two
+[LIT-1983](../literature.d/LIT-1983.md), which this reading reports second-hand, is now read in full
+([NOTE-tmptzkzg](NOTE-tmptzkzg.md)). The account above is **right in substance, with two
 corrections**, recorded here rather than in the text above:
 
 - **The term.** Martela and Ryan's own term is "basic wellness enhancer"
@@ -219,6 +219,6 @@ corrections**, recorded here rather than in the text above:
   enhancer" (p. 130).
 
 The limitation above, "Beneficence is the one candidate rejected, on one
-study", is accurate: LIT-1983 is that study, and it rejects tentatively. Its
+study", is accurate: [LIT-1983](../literature.d/LIT-1983.md) is that study, and it rejects tentatively. Its
 null depends on controlling competence frustration (r = .81), which bears
 on this note's "frustration not unique".

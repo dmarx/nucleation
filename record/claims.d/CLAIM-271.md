@@ -154,8 +154,8 @@ premise.
 
 ## Note of 2026-11-22: Mulgan, read
 
-LIT-1874, registered for the wait this claim records, is now read
-(NOTE-tmpf00ch; THEORY-tmpyc2wm). It **bears only indirectly and does not
+[LIT-1874](../literature.d/LIT-1874.md), registered for the wait this claim records, is now read
+([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md); [THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md)). It **bears only indirectly and does not
 lift the hold**. Mulgan endorses, after List and Pettit, the ontological
 step that a committee can act on a belief "even though none of its members
 either do X or believe Y" (p. 903), which is this claim's step 3, and says

@@ -132,8 +132,8 @@ harms once the external sanction is lifted, is a test nobody has run.
 
 ## Note of 2026-11-22: Mulgan, read
 
-A **rival framing, not a counterexample** (LIT-1874, NOTE-tmpf00ch;
-THEORY-tmpyc2wm). Mulgan does not try to tell remorse from prudence. He
+A **rival framing, not a counterexample** ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md);
+[THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md)). Mulgan does not try to tell remorse from prudence. He
 calls a corporate group psychopathic when its structure lacks any mechanism
 for recognising and responding to moral reasons (p. 910), and makes moral
 agency depend on a reliable disposition to respond "appropriately" to them

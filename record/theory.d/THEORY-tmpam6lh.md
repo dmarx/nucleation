@@ -20,7 +20,7 @@ promote_when: >-
   Responsiveness again reducing expected false positives relative to the
   Pareto relation.
 summary: >-
-  Caliari, read in NOTE-tmphq6zm (Read). An axiom on welfare methods,
+  Caliari, read in [NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md) (Read). An axiom on welfare methods,
   Informational Responsiveness, with neutrality, choice non-negativeness
   and Connection, characterizes weighted count refinements of the
   Bernheim–Rangel Pareto relation, correct for preference-monotonic choice
@@ -44,13 +44,13 @@ frequency and preference come apart, lie outside the guarantee.
 
 ## Evidence
 
-The reading in NOTE-tmphq6zm; its key results are quoted there with
+The reading in [NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md); its key results are quoted there with
 locations. The theorems assume aligned data, while the experiment has one
 observation per menu, and its benchmark is a stated, non-incentivized
 ranking.
 
 ## Bearing
 
-On QUESTION-456's failure mode 2: inferring a demand from behaviour always
+On [QUESTION-456](../questions.d/QUESTION-456.md)'s failure mode 2: inferring a demand from behaviour always
 imports a model of how the behaviour was produced, and the inference fails
 exactly where selective attention separates choice from preference.

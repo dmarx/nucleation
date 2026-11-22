@@ -30,7 +30,7 @@ summary: >-
   cases.
 ---
 <!-- inactive-ok-file: LIT-536 — Unfetched; the book this work stands in for, in part -->
-<!-- inactive-ok-file: THEORY-072 THEORY-tmpaygr8 — Proposed; the accounts this reading bears on -->
+<!-- inactive-ok-file: THEORY-072 — Proposed; the accounts this reading bears on -->
 
 # NOTE-tmpefons: Bich, Mossio, Ruiz-Mirazo and Moreno (2016) — Biological regulation
 
@@ -85,22 +85,22 @@ homeostasis.
 
 ## Bearing on the record
 
-- **Connections: how far it stands in for LIT-536.** It restates chapter 1's
+- **Connections: how far it stands in for [LIT-536](../literature.d/LIT-536.md).** It restates chapter 1's
   constraint definition with its time scale and adds what organisms have
   beyond closure. It does not apply this to colonies or ecosystems, so it
   is no stand-in for chapter 6, and it has nothing on chapter 3.
-- **THEORY-072**: the authors keep differentiation between subsystems at
+- **[THEORY-072](../theory.d/THEORY-072.md)**: the authors keep differentiation between subsystems at
   distinct time scales as a condition beyond closure (requirement 2), while
   the only time scale inside closure is the one that makes something a
   constraint relative to a process (result 2).
-- **CLAIM-395**: consistent; a single-constraint loop is feedback, not
+- **[CLAIM-395](../claims.d/CLAIM-395.md)**: consistent; a single-constraint loop is feedback, not
   closure (result 4).
-- **NOTE-148** (Baedke): Baedke's added criterion, that organisms can leave
+- **[NOTE-148](NOTE-148.md)** (Baedke): Baedke's added criterion, that organisms can leave
   one closure regime for another and control the passage, is close to this
   paper's regulation, which shifts the constitutive regime between viable
   states; whether colonies or ecosystems meet the requirements is not
   argued.
-- **NOTE-093** (Bruckner): the five requirements are a check to run on its
+- **[NOTE-093](NOTE-093.md)** (Bruckner): the five requirements are a check to run on its
   self-maintaining car and its bacteria.
 - **No instruction for machine-learning practice.**
 

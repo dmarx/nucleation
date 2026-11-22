@@ -41,7 +41,6 @@ summary: >-
 answers:
 - QUESTION-009
 ---
-<!-- inactive-ok-file: THEORY-tmpyc2wm — Proposed; the reading of Mulgan, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit's account, named for comparison -->
 
 # THEORY-131: A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
@@ -128,7 +127,7 @@ registered and unread, so it is unanswered.
 
 ## Note of 2026-11-22: Mulgan, read
 
-LIT-1874 (NOTE-tmpf00ch) **bears on this account's moral-personhood half,
+[LIT-1874](../literature.d/LIT-1874.md) ([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md)) **bears on this account's moral-personhood half,
 and does not meet the promote_when**. Mulgan counts French 1979 among those
 who "explicitly distance themselves from full moral personhood in my sense"
 (p. 904), with French 1984 as a possible exception (footnote 5). Mulgan's

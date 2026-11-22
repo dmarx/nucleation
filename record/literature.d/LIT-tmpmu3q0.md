@@ -38,7 +38,7 @@ summary: >-
   through organisational closure, the direct mutual dependence of several
   constraints. Closure is necessary for an organism but not sufficient: it
   also needs templates and control between parts working at sufficiently
-  different time scales. A stand-in, in part, for LIT-536's chapters on
+  different time scales. A stand-in, in part, for [LIT-536](LIT-536.md)'s chapters on
   closure.
 ---
 <!-- inactive-ok-file: LIT-536 — Unfetched; the book this work stands in for, in part -->
@@ -64,9 +64,9 @@ HAL halshs-00792436 (authors' final version).
 
 ## Standing in the record
 
-Read in full in NOTE-tmpnhdly; its account is THEORY-tmpaygr8 (Proposed).
-Registered as a stand-in for LIT-536 (Moreno and Mossio, Biological
+Read in full in [NOTE-tmpnhdly](../notes.d/NOTE-tmpnhdly.md); its account is [THEORY-tmpaygr8](../theory.d/THEORY-tmpaygr8.md) (Proposed).
+Registered as a stand-in for [LIT-536](LIT-536.md) (Moreno and Mossio, Biological
 Autonomy), whose chapters have no lawful copy. It stands in **only in
 part**: it is the authors' earlier statement of chapter 1's closure, and
 touches chapter 3's teleology only in passing; it shows none of the book's
-own arguments. It bears on THEORY-072 and CLAIM-395.
+own arguments. It bears on [THEORY-072](../theory.d/THEORY-072.md) and [CLAIM-395](../claims.d/CLAIM-395.md).

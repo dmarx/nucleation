@@ -44,7 +44,7 @@ summary: >-
   well-being; negative impact raised felt beneficence frustration but not
   negative affect, anxiety or depression, and in the meta-analysis it also
   raised meaning, vitality and positive affect. A stand-in, in part, for
-  LIT-1980.
+  [LIT-1980](LIT-1980.md).
 ---
 <!-- inactive-ok-file: LIT-1980 — Unfetched; the work this one stands in for, in part -->
 <!-- inactive-ok-file: THEORY-tmptzl64 — Proposed; this work's reading, filed with it -->
@@ -71,12 +71,12 @@ Evidence from three experiments. *Journal of Research in Personality*, 93,
 
 ## Standing in the record
 
-Read in full in NOTE-tmpqf55c, with its account in THEORY-tmptzl64,
-Proposed. Registered as a stand-in for LIT-1980 (Lubics et al. 2026, a
+Read in full in [NOTE-tmpqf55c](../notes.d/NOTE-tmpqf55c.md), with its account in [THEORY-tmptzl64](../theory.d/THEORY-tmptzl64.md),
+Proposed. Registered as a stand-in for [LIT-1980](LIT-1980.md) (Lubics et al. 2026, a
 Central European test of beneficence satisfaction and frustration), which
 could not be fetched. It stands in **only in part**: it tests the same
-construct and the same criterion, by the authors LIT-1980 tests against,
-and it is experimental where LIT-1983 is cross-sectional; it carries
-nothing of LIT-1980's sample, design or results. It is also the
-experimental follow-up LIT-1983 asked for ("manipulating beneficence
-frustration", LIT-1983 p. 130), and it bears on QUESTION-369 and LEAD-127.
+construct and the same criterion, by the authors [LIT-1980](LIT-1980.md) tests against,
+and it is experimental where [LIT-1983](LIT-1983.md) is cross-sectional; it carries
+nothing of [LIT-1980](LIT-1980.md)'s sample, design or results. It is also the
+experimental follow-up [LIT-1983](LIT-1983.md) asked for ("manipulating beneficence
+frustration", [LIT-1983](LIT-1983.md) p. 130), and it bears on [QUESTION-369](../questions.d/QUESTION-369.md) and [LEAD-127](../leads.d/LEAD-127.md).

@@ -24,7 +24,6 @@ summary: >-
   YouGov recruited active US X users; 6,043 completed the pre-survey and
   4,965 the post-survey.
 ---
-<!-- inactive-ok-file: THEORY-tmp4gziy — Proposed; the reading of Dorsch, Coeckelbergh and Vierkant, 2026-11-22 -->
 
 # THEORY-1653: Gauthier, Hodler, Widmer and Zhuravskaya (2026) find in a seven-week field experiment on X in 2023 that switching active US users from a chronological to the algorithmic feed shifted their policy priorities and views on current political events in a conservative direction and led them to follow more conservative activist accounts, while switching users from the algorithmic to the chronological feed had no comparable effect, and neither switch changed partisanship or affective polarization.
 
@@ -38,7 +37,7 @@ The reading in [NOTE-1742](../notes.d/NOTE-1742.md); its key results are quoted 
 
 ## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
 
-A **contrast**, no edge (LIT-2373, NOTE-tmpdb4eb). Dorsch and colleagues
+A **contrast**, no edge ([LIT-2373](../literature.d/LIT-2373.md), [NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md)). Dorsch and colleagues
 motivate their mechanism by rising affective polarization and attribute it
 to engagement-optimized curation (§2, pp. 11–12), without citing
 experimental evidence. In this field experiment, switching users to the

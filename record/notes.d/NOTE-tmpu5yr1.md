@@ -116,22 +116,22 @@ shame.
   the authors' reading, which their reported signs do not plainly carry
   (see Limitations). The issue pages 263–282 are right for the issue; this
   copy is online-first.
-- **CASE-104**: individual-level evidence only, so it bears on the case's
+- **[CASE-104](../cases.d/CASE-104.md)**: individual-level evidence only, so it bears on the case's
   first, aggregate reading and on whether allegiance is held apart from
   judgment of the club's decision. In this sample it is not: strong
   identifiers oppose the decision less. It has nothing on the shared,
   normative or corporate readings, and nothing on public expression.
-- **QUESTION-119**: an instance of the sampling the question worries about;
+- **[QUESTION-119](../questions.d/QUESTION-119.md)**: an instance of the sampling the question worries about;
   recruitment through fan clubs reaches the more organised fans. The paper
   does not discuss it.
-- **NOTE-1253** said this work tests social identity theory's
+- **[NOTE-1253](NOTE-1253.md)** said this work tests social identity theory's
   low-status-strategy reading of loyal-while-judging fans. It does not: it
   uses the theory only for a three-component measure of identification
   (corrected by a dated note there).
-- **Neighbours not cited by the paper:** NOTE-566 (Hirschman: staying while
-  objecting), NOTE-1262 (Leach et al.'s better-validated decomposition of
-  identification), NOTE-1278 (the self-esteem hypothesis, which the paper's
-  "evaluative" dimension is equated with), NOTE-1315 (a different triad of
+- **Neighbours not cited by the paper:** [NOTE-566](NOTE-566.md) (Hirschman: staying while
+  objecting), [NOTE-1262](NOTE-1262.md) (Leach et al.'s better-validated decomposition of
+  identification), [NOTE-1278](NOTE-1278.md) (the self-esteem hypothesis, which the paper's
+  "evaluative" dimension is equated with), [NOTE-1315](NOTE-1315.md) (a different triad of
   components). Dated notes on each.
 - **No instruction for machine-learning practice.**
 

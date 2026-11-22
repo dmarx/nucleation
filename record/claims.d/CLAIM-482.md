@@ -112,13 +112,13 @@ The full reading ([NOTE-1576](../notes.d/NOTE-1576.md) v2) confirms what the not
 
 ## Note of 2026-11-22: Caliari, read
 
-A **different notion of revealed preference, not a rival** (LIT-2363,
-NOTE-tmphq6zm; THEORY-tmpam6lh). Caliari's welfare methods elicit a
+A **different notion of revealed preference, not a rival** ([LIT-2363](../literature.d/LIT-2363.md),
+[NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md); [THEORY-tmpam6lh](../theory.d/THEORY-tmpam6lh.md)). Caliari's welfare methods elicit a
 preference from a record that violates WARP, that is, from a cycling
 record, at a stated risk of false positives and under the assumption that
 choice frequency is monotone in the preference. That is not an ordering
 that every winning move climbs, which is what this claim says exists
-exactly when the wins never cycle (CLAIM-434); Caliari's relation is the
+exactly when the wins never cycle ([CLAIM-434](CLAIM-434.md)); Caliari's relation is the
 analyst's best estimate of an underlying welfare preference, not a
 redescription that rationalizes the record. The two can both be right. It
 offers a **parallel** to this claim's second half, an analogy and no edge:

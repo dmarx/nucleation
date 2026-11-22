@@ -152,8 +152,8 @@ The case is unchanged.
 
 ## Note of 2026-11-22: Georgiev, Gómez-Serrano, Tao and Wagner, read further
 
-**Supports, and sharpens a condition** (LIT-2474; the §6 reading is in the
-dated note of 2026-11-22 there; THEORY-1776). The fixed, human-redesigned
+**Supports, and sharpens a condition** ([LIT-2474](../literature.d/LIT-2474.md); the §6 reading is in the
+dated note of 2026-11-22 there; [THEORY-1776](../theory.d/THEORY-1776.md)). The fixed, human-redesigned
 outer verifier is the control this case names, and the preprint's authors
 used it each time the optimizer found an exploit (pp. 17, 25, 59). §44
 shows where it fails: once the evaluator is itself an LLM, the optimizer

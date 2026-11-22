@@ -38,7 +38,6 @@ summary: >-
   cases, anglerfish, sea slug and jumping ant, and is asserted, not shown,
   to hold of organisms only (p. 40).
 ---
-<!-- inactive-ok-file: THEORY-tmpaygr8 THEORY-tmpxypfa — Proposed; the readings of the two stand-ins, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
@@ -169,9 +168,9 @@ Arguments and positions, with locations:
 ## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
 
 A **partial answer from Mossio's side**, no edge. Mossio and Moreno
-(NOTE-tmpnhdly) concede that closure "underdetermines, in itself, the whole
+([NOTE-tmpnhdly](NOTE-tmpnhdly.md)) concede that closure "underdetermines, in itself, the whole
 set of requirements" of an organism (pdf p. 13), and Bich and colleagues
-(NOTE-tmpefons) name what is added: regulation, control by a dynamically
+([NOTE-tmpefons](NOTE-tmpefons.md)) name what is added: regulation, control by a dynamically
 decoupled subsystem that shifts the constitutive regime between viable
 states. That is close to Baedke's own stronger criterion, that organisms can
 give up one closure regime for another and control the passage. Neither

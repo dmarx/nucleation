@@ -32,7 +32,6 @@ summary: >-
   felt/unfelt levels are proposals. "Felt" here means attended and
   reportable, not phenomenal, and fluency is not offered as affect.
 ---
-<!-- inactive-ok-file: THEORY-tmp4gziy — Proposed; the reading of Dorsch, Coeckelbergh and Vierkant, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-190 — Proposed; the other fluency reading, named in Connections -->
 <!-- inactive-ok-file: THEORY-045 THEORY-057 THEORY-093 THEORY-500 — Proposed; neighbouring accounts named in Connections, not leaned on -->
 
@@ -125,7 +124,7 @@ neither [CLAIM-337](../claims.d/CLAIM-337.md) nor [CLAIM-439](../claims.d/CLAIM-
 
 ## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
 
-A **parallel**, no edge (LIT-2373, NOTE-tmpdb4eb). Dorsch and colleagues'
+A **parallel**, no edge ([LIT-2373](../literature.d/LIT-2373.md), [NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md)). Dorsch and colleagues'
 epistemic-luck argument rests on the premise that "no phenomenological
 difference exists" between metacognitive feelings from reliable processes
 and from systemic biases, so that users "remain reflectively unable to

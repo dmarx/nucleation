@@ -121,27 +121,27 @@ digital future; inhuman corporate future; Moral Turing Test.
   corporate agency is **partly met**: Mulgan reports Velasquez's position in
   several places, but by parenthetical citation and paraphrase, with no
   quotation and no reconstruction of the argument.
-- **How far it stands in for Velasquez (LIT-1429, LIT-1432): in part.** It
+- **How far it stands in for Velasquez ([LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](../literature.d/LIT-1432.md)): in part.** It
   is a secondary report by an opponent, enough to say what Velasquez holds
   and which premises he relies on (biological embodiment, Searle's
   account of consciousness), not enough to assess the argument or to count
-  it answered. Beyond the record's gloss in QUESTION-265, it attributes to
+  it answered. Beyond the record's gloss in [QUESTION-265](../questions.d/QUESTION-265.md), it attributes to
   Velasquez the individualism/collectivism frame, the bitten bullet on
   the responsibility gap, the slippery-slope argument against moderate
   collectivism, the Searlean premise and a realist method.
-- **CLAIM-271**: indirect. Mulgan endorses, after List and Pettit, that a
+- **[CLAIM-271](../claims.d/CLAIM-271.md)**: indirect. Mulgan endorses, after List and Pettit, that a
   committee can act on a belief "even though none of its members either do
   X or believe Y" (p. 903); he says nothing of polling.
-- **THEORY-131** (French) and **THEORY-139** (Pettit): Mulgan reads both as
+- **[THEORY-131](../theory.d/THEORY-131.md)** (French) and **[THEORY-139](../theory.d/THEORY-139.md)** (Pettit): Mulgan reads both as
   short of "full moral personhood in my sense", and List and Pettit as
   pragmatist moralised collectivists.
-- **QUESTION-265**, **CLAIM-431**, **CLAIM-432**: a third position on
+- **[QUESTION-265](../questions.d/QUESTION-265.md)**, **[CLAIM-431](../claims.d/CLAIM-431.md)**, **[CLAIM-432](../claims.d/CLAIM-432.md)**: a third position on
   corporate psychopathy, structural absence of any mechanism for moral
   reasons, which on Mulgan's view removes moral agency rather than grounding
   blame.
-- **QUESTION-049** and **THEORY-137**: the realist, pragmatist and
+- **[QUESTION-049](../questions.d/QUESTION-049.md)** and **[THEORY-137](../theory.d/THEORY-137.md)**: the realist, pragmatist and
   interpretivist methods bear on whether attributions track or shape.
-- Dated notes on each, and on LIT-1429, LIT-1432, LEAD-092 and NOTE-1094.
+- Dated notes on each, and on [LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](../literature.d/LIT-1432.md), [LEAD-092](../leads.d/LEAD-092.md) and [NOTE-1094](NOTE-1094.md).
 - "temporally robust", "broken future", "Moral Turing Test" and "extreme
   collectivism" are held nowhere else in the record.
 - **No instruction for machine-learning practice.**
@@ -151,7 +151,7 @@ digital future; inhuman corporate future; Moral Turing Test.
 - **The Velasquez citation does not check out.** Footnote 4 cites
   "Velasquez (2003), p. 38", but the reference list gives Velasquez 2003 as
   "Business ethics quarterly, 13, 545–546" (p. 916), and the record's
-  LIT-1432 gives the article as 13(4):531–562. A page 38 cannot be in it.
+  [LIT-1432](../literature.d/LIT-1432.md) gives the article as 13(4):531–562. A page 38 cannot be in it.
   The record should not quote "p. 38" as Velasquez's.
 - **Predictions stand in for arguments.** The case against individualism is
   that future philosophers "will" find it less credible; Mulgan concedes

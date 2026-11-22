@@ -37,7 +37,7 @@ summary: >-
   by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: THEORY-tmpyc2wm — Proposed; the reading of Mulgan, 2026-11-22 -->
-<!-- inactive-ok-file: CLAIM-271 CLAIM-355 CLAIM-415 CLAIM-426 CLAIM-606 CLAIM-694 LIT-1031 LIT-1189 LIT-1211 LIT-1286 LIT-1394 LIT-1835 LIT-1858 LIT-1874 LIT-1987 LIT-2787 LIT-2812 NOTE-1080 — Proposed, Skimmed, Unfetched; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: CLAIM-271 CLAIM-355 CLAIM-415 CLAIM-426 CLAIM-606 CLAIM-694 LIT-1031 LIT-1189 LIT-1211 LIT-1286 LIT-1394 LIT-1835 LIT-1858 LIT-1987 LIT-2787 LIT-2812 NOTE-1080 — Proposed, Skimmed, Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-092: Read the single unread works under central entries
 
@@ -83,9 +83,9 @@ Each reading confirms or corrects what its entry takes from the work.
 
 ## Note of 2026-11-22: Mulgan, read
 
-The lead's item "Mulgan for CLAIM-271" is done: LIT-1874 is read in full
-(NOTE-tmpf00ch; THEORY-tmpyc2wm) and is now Active. It confirms the LIT's
+The lead's item "Mulgan for [CLAIM-271](../claims.d/CLAIM-271.md)" is done: [LIT-1874](../literature.d/LIT-1874.md) is read in full
+([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md); [THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md)) and is now Active. It confirms the LIT's
 account and corrects the expectation that Mulgan could stand in for
 Velasquez: he reports Velasquez's position and premises, not his argument,
-so CLAIM-271's hold on Velasquez remains. The lead's other items are
+so [CLAIM-271](../claims.d/CLAIM-271.md)'s hold on Velasquez remains. The lead's other items are
 untouched.

@@ -57,7 +57,6 @@ bears_on:
 - QUESTION-049
 - QUESTION-070
 ---
-<!-- inactive-ok-file: THEORY-tmpyc2wm — Proposed; the reading of Mulgan, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-536 — Proposed; the authors' replies and the realization-insensitivity account, named in Connections, not leaned on -->
 <!-- inactive-ok-file: LIT-742 — Unavailable, unread; Responsibility Incorporated, named as the paper the 2017 chapter restates -->
 
@@ -142,7 +141,7 @@ corporation abolished the sales goals and centralized risk.
 
 ## Note of 2026-11-22: Mulgan, read
 
-LIT-1874 (NOTE-tmpf00ch) **supports this account's restraint and adds a
+[LIT-1874](../literature.d/LIT-1874.md) ([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md)) **supports this account's restraint and adds a
 reading of it**. Mulgan classes List and Pettit as moralised collectivists
 who stop short of "full moral personhood in my sense" (p. 904), and reads
 their moral condition as "clearly pragmatist": moral agency restricted to

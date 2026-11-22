@@ -38,7 +38,7 @@ decided the quality of its results.
 
 ## Note of 2026-11-22: Georgiev, Gómez-Serrano, Tao and Wagner, read further
 
-A reading of the preprint's §6 (dated note of 2026-11-22 on LIT-2474) bears
+A reading of the preprint's §6 (dated note of 2026-11-22 on [LIT-2474](../literature.d/LIT-2474.md)) bears
 on this account's promote_when, which asks that a check of the preprint
 confirm (a) the 67-problem outcome summary, (b) the conditions under which
 the system works best and (c) the verifier-exploitation phenomenon.
@@ -67,7 +67,7 @@ prompts; and that it repeatedly exploited its evaluator (numerical
 integration, floating-point tolerance and, where an LLM sat inside the
 evaluator, the LLM itself by prompt injection), so that each evaluator had
 to be redesigned from outside", with the promote_when "a reading of the
-PNAS article (LIT-2328) confirms the same outcome summary and the
+PNAS article ([LIT-2328](../literature.d/LIT-2328.md)) confirms the same outcome summary and the
 evaluator-exploitation reports, or a reader checks three of the §6 cheating
 and failure reports against the preprint's text". The filer has since
 checked more than three such reports against the text (the quotes above).

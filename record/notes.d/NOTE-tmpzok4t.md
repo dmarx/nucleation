@@ -108,18 +108,18 @@ cash-out; forced engagement; bulk purchasing; self-regulation obstacles.
   often the literature names them, not a census of games; and "little
   known" is the authors' own finding. The citation is Current Addiction
   Reports 13, article 64, not "13(1)".
-- **CASE-248**: supports its list of things to record, and adds a
+- **[CASE-248](../cases.d/CASE-248.md)**: supports its list of things to record, and adds a
   measurement threat the case does not name, odds and prices that vary by
   account, behaviour or bulk size.
-- **CLAIM-653**, **CLAIM-658**: weak bearing; a catalogue of features says
+- **[CLAIM-653](../claims.d/CLAIM-653.md)**, **[CLAIM-658](../claims.d/CLAIM-658.md)**: weak bearing; a catalogue of features says
   nothing about how designs come about. Personalized odds and offers are a
   route by which design can target spenders without changing what everyone
   is offered.
-- **CASE-250**: the Self-Regulation Obstacles are instances of the designs
+- **[CASE-250](../cases.d/CASE-250.md)**: the Self-Regulation Obstacles are instances of the designs
   it targets.
-- **Neighbours**: LIT-1465 and LIT-2421 (rival taxonomies), LIT-2418 (the
-  spending concentration), LIT-2467 (pity mechanics), LIT-2401, LIT-2381.
-  LIT-2370 is the review's included study [61], Cordes, Dertwinkel-Kalt and
+- **Neighbours**: [LIT-1465](../literature.d/LIT-1465.md) and [LIT-2421](../literature.d/LIT-2421.md) (rival taxonomies), [LIT-2418](../literature.d/LIT-2418.md) (the
+  spending concentration), [LIT-2467](../literature.d/LIT-2467.md) (pity mechanics), [LIT-2401](../literature.d/LIT-2401.md), [LIT-2381](../literature.d/LIT-2381.md).
+  [LIT-2370](../literature.d/LIT-2370.md) is the review's included study [61], Cordes, Dertwinkel-Kalt and
   Werner 2024 (same title and DOI in its reference list).
 - **No instruction for machine-learning practice.**
 

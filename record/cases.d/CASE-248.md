@@ -48,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-1747 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1778 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-653 CLAIM-655 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-2452 LIT-2447 LIT-2370 LIT-2381 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-2452 LIT-2370 LIT-2381 — Deferred; registered from the same exchange, unread -->
 
 # CASE-248: A proposed study: loot-box economies as a measurable test of whether a minority's spending selects the design of a shared product, tracking the real-money cost of a standardized reward across a game's releases against the economic weight of its high spenders, and the spread of designs across games
 
@@ -155,7 +155,7 @@ proposes to track.
 
 ## Note of 2026-11-22: Ivern and Carbonell, read
 
-LIT-2447 is now read (NOTE-tmpzok4t; THEORY-tmpkdnvu). It **supports the
+[LIT-2447](../literature.d/LIT-2447.md) is now read ([NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md); [THEORY-tmpkdnvu](../theory.d/THEORY-tmpkdnvu.md)). It **supports the
 case's list of what to record and sharpens it with a threat the case does
 not name**. "Ivern and Carbonell count 136 design features" is right; the
 136 are features the literature treats as problematic, ranked by how often

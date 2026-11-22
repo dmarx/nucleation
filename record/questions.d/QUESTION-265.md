@@ -83,8 +83,8 @@ bad.
 
 ## Note of 2026-11-22: Mulgan, read
 
-LIT-1874 (NOTE-tmpf00ch; THEORY-tmpyc2wm, which `bears_on` this question)
-gives **a third position** beside CLAIM-431 and CLAIM-432. Mulgan, after
+[LIT-1874](../literature.d/LIT-1874.md) ([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md); [THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md), which `bears_on` this question)
+gives **a third position** beside [CLAIM-431](../claims.d/CLAIM-431.md) and [CLAIM-432](../claims.d/CLAIM-432.md). Mulgan, after
 Bakan, says many for-profit enterprises "are closer to psychopaths than to
 normally functioning human adults" (p. 906): they act and plan but feel no
 empathy. A group whose management structure has no mechanism for

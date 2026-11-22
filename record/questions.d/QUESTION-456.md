@@ -46,7 +46,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-663 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
-<!-- inactive-ok-file: LIT-2451 LIT-2363 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-2451 — Deferred; registered from the same exchange, unread -->
 
 # QUESTION-456: How can the set of demands an organization's compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization's own governance?
 
@@ -225,8 +225,8 @@ No status changes.
 
 ## Note of 2026-11-22: Caliari, read
 
-LIT-2363, cited here for failure mode 2, is now read (NOTE-tmphq6zm;
-THEORY-tmpam6lh, which `bears_on` this question). It **supports failure
+[LIT-2363](../literature.d/LIT-2363.md), cited here for failure mode 2, is now read ([NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md);
+[THEORY-tmpam6lh](../theory.d/THEORY-tmpam6lh.md), which `bears_on` this question). It **supports failure
 mode 2 and sharpens it**, and leaves the question open.
 
 - **Inference imports a model.** Every welfare method is "implicitly
@@ -240,7 +240,7 @@ mode 2 and sharpens it**, and leaves the question open.
   choice probabilities and the underlying deterministic preference"
   (footnote 8), and under the attention model the welfare relation
   "uniquely identifies the best alternative only for 1 out of 145
-  participants" (Appendix D). With Freer and Nosratabadi (THEORY-1693),
+  participants" (Appendix D). With Freer and Nosratabadi ([THEORY-1693](../theory.d/THEORY-1693.md)),
   the record now holds this from theory and from data.
 - **The analyst's choice enters the inferred set.** How many observations
   break an indifference "is a decision variable for the researcher"
@@ -249,4 +249,4 @@ mode 2 and sharpens it**, and leaves the question open.
   inferring party. Its benchmark is the subjects' own stated ranking, which
   this question's concern about governance would also call into question.
 
-Its stand-in, LIT-2458, is superseded in that role.
+Its stand-in, [LIT-2458](../literature.d/LIT-2458.md), is superseded in that role.

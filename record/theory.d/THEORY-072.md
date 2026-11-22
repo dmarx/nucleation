@@ -286,9 +286,9 @@ and 3 ([LIT-536](../literature.d/LIT-536.md)) are unread beyond the Introduction
 
 ## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
 
-The two stand-ins for LIT-536 (NOTE-tmpnhdly, THEORY-tmpaygr8;
-NOTE-tmpefons, THEORY-tmpxypfa) **corroborate where this account draws the
-line, answer part of the question its promote_when puts to LIT-536, and
+The two stand-ins for [LIT-536](../literature.d/LIT-536.md) ([NOTE-tmpnhdly](../notes.d/NOTE-tmpnhdly.md), [THEORY-tmpaygr8](THEORY-tmpaygr8.md);
+[NOTE-tmpefons](../notes.d/NOTE-tmpefons.md), [THEORY-tmpxypfa](THEORY-tmpxypfa.md)) **corroborate where this account draws the
+line, answer part of the question its promote_when puts to [LIT-536](../literature.d/LIT-536.md), and
 leave the promote_when's first half undone**.
 
 - **The flame.** Mossio and Moreno place it as self-maintenance through "a

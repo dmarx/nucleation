@@ -17,12 +17,12 @@ promote_when: >-
   sufficient is borne out by a system with closure that lacks templates or
   control and is not counted an organism.
 summary: >-
-  Mossio and Moreno, read in NOTE-tmpnhdly (Read). A flame is
+  Mossio and Moreno, read in [NOTE-tmpnhdly](../notes.d/NOTE-tmpnhdly.md) (Read). A flame is
   far-from-equilibrium self-maintenance through one constraint; an organism
   has organisational closure, a set of constraints each maintaining another
   that maintains it. Closure is partial, holds among constraints not
   processes, and is direct. It is necessary for an organism, not
-  sufficient. A stand-in, in part, for LIT-536.
+  sufficient. A stand-in, in part, for [LIT-536](../literature.d/LIT-536.md).
 ---
 <!-- inactive-ok-file: LIT-536 — Unfetched; the book this reading stands in for, in part -->
 <!-- inactive-ok-file: THEORY-072 — Proposed; the account this one bears on -->
@@ -40,13 +40,13 @@ sufficiently different time scales.
 
 ## Evidence
 
-The reading in NOTE-tmpnhdly; its key results are quoted there with
+The reading in [NOTE-tmpnhdly](../notes.d/NOTE-tmpnhdly.md); its key results are quoted there with
 locations. The flame's single constraint is asserted, not analysed; the wick
 and wax pool are not considered.
 
 ## Bearing
 
-On THEORY-072, which draws the same line and asks whether the authors fold
+On [THEORY-072](THEORY-072.md), which draws the same line and asks whether the authors fold
 differentiation into closure: here the multiplicity of constraints is part
 of closure, and time-scale differentiation is a further condition, for
 control.

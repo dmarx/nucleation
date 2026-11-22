@@ -34,7 +34,7 @@ summary: >-
   well-being measure". A3 did not know the record had raised it.
 ---
 <!-- inactive-ok-file: THEORY-tmpc2ttm THEORY-tmptzl64 — Proposed; the readings of Martela and Ryan 2019 and 2021, 2026-11-22 -->
-<!-- inactive-ok-file: LIT-1980 LIT-1983 THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: LIT-1980 THEORY-052 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # QUESTION-369: What would show that an experience is a basic psychological need, something an organism's functioning requires, rather than something that reliably raises reported well-being, when self-determination theory identifies needs by their effects on well-being and treats well-being as the presence of need satisfaction?
 
@@ -115,7 +115,7 @@ The filing of the exchange "Analyze technological civilization trap" put on this
 
 ## Note of 2026-11-22: Martela and Ryan (2019), read
 
-LIT-1983 is now read in full (NOTE-tmptzkzg; its account is THEORY-tmpc2ttm,
+[LIT-1983](../literature.d/LIT-1983.md) is now read in full ([NOTE-tmptzkzg](../notes.d/NOTE-tmptzkzg.md); its account is [THEORY-tmpc2ttm](../theory.d/THEORY-tmpc2ttm.md),
 which `bears_on` this question), so beneficence is no longer held only
 second-hand. It is **a worked instance of this question's circularity, not
 an answer**. Need-hood is decided by incremental self-reported ill-being,
@@ -133,14 +133,14 @@ question stays open.
 
 ## Note of 2026-11-22: Martela and Ryan (2021), read
 
-Read as a stand-in, in part, for LIT-1980 (LIT-tmp14tuh, NOTE-tmpqf55c;
-THEORY-tmptzl64, which `bears_on` this question). It **supplies the
+Read as a stand-in, in part, for [LIT-1980](../literature.d/LIT-1980.md) ([LIT-tmp14tuh](../literature.d/LIT-tmp14tuh.md), [NOTE-tmpqf55c](../notes.d/NOTE-tmpqf55c.md);
+[THEORY-tmptzl64](../theory.d/THEORY-tmptzl64.md), which `bears_on` this question). It **supplies the
 "intervention rather than correlation" this question asks for, for one
 candidate need, and leaves the question open**. Three preregistered
 experiments randomise a small gain or loss to a charity: the loss raises
 felt beneficence frustration (d = 0.84) and leaves negative affect, anxiety
 and depression unmoved, while the gain raises well-being. That fits the
 wellness-enhancer reading without the entry-order and collinearity
-objections to LIT-1983. But the outcomes are immediate self-reports and no
+objections to [LIT-1983](../literature.d/LIT-1983.md). But the outcomes are immediate self-reports and no
 functional deficit is measured, so it does not leave the well-being route.
-LIT-1980 itself is still Unfetched.
+[LIT-1980](../literature.d/LIT-1980.md) itself is still Unfetched.

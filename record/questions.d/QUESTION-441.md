@@ -165,7 +165,7 @@ unchanged.
 
 ## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
 
-LIT-2373 is now read (NOTE-tmpdb4eb; THEORY-tmp4gziy, which `bears_on` this
+[LIT-2373](../literature.d/LIT-2373.md) is now read ([NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md); [THEORY-tmp4gziy](../theory.d/THEORY-tmp4gziy.md), which `bears_on` this
 question). It **bears on part 2 and leaves parts 1 and 3 open**.
 
 - **Part 2, what makes it reproductive.** The paper gives a mechanism by
@@ -183,5 +183,5 @@ question). It **bears on part 2 and leaves parts 1 and 3 open**.
   treated as an agent.
 
 The mechanism is avowedly untested ("not yet directly tested empirically",
-p. 9), and held evidence (THEORY-1653) cuts against its motivating link to
+p. 9), and held evidence ([THEORY-1653](../theory.d/THEORY-1653.md)) cuts against its motivating link to
 affective polarization. The question stays open.

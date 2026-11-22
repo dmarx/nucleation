@@ -47,7 +47,6 @@ summary: >-
   mechanism, [CLAIM-653](CLAIM-653.md), rests on it. The wording is A's; adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpkdnvu — Proposed; the reading of Ivern and Carbonell, 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1747 NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-653 — filed from the same exchange, Proposed -->
@@ -163,7 +162,7 @@ design.
 
 ## Note of 2026-11-22: Ivern and Carbonell, read
 
-A **weak bearing**, no edge (LIT-2447, NOTE-tmpzok4t). The review reports
+A **weak bearing**, no edge ([LIT-2447](../literature.d/LIT-2447.md), [NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md)). The review reports
 no spending distribution and no design history. Its catalogue includes
 "Dynamic LB odds, pricing, or offers based on player behavior" (Table 2):
 where design is personalized, a revenue-optimal design can be set group by

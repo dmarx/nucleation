@@ -88,20 +88,20 @@ adaptive control; time-scale separation.
 
 ## Bearing on the record
 
-- **Connections: how far it stands in for LIT-536.** It restates the core of
+- **Connections: how far it stands in for [LIT-536](../literature.d/LIT-536.md).** It restates the core of
   chapter 1, the distinction between single-constraint self-maintenance and
   closure, and the river-bed and water-cycle verdicts; on chapter 3,
   teleology, only result 3. It does not show the book's own arguments, and
   carries nothing of chapter 6 (levels).
-- **THEORY-072**: the authors place the flame as single-constraint
+- **[THEORY-072](../theory.d/THEORY-072.md)**: the authors place the flame as single-constraint
   self-maintenance, which is the line this account draws, by verdict, not by
   the constraint-by-constraint analysis its promote_when asks for (the wick
   and the wax pool are not examined). Multiplicity of constraints is part of
   closure; time-scale differentiation between parts appears as a further
   condition, for control (result 8).
-- **CLAIM-395**: consistent; a single constraint acting on its own boundary
+- **[CLAIM-395](../claims.d/CLAIM-395.md)**: consistent; a single constraint acting on its own boundary
   conditions is not closure.
-- **NOTE-1443**: the earlier source of the river-bed and water-cycle
+- **[NOTE-1443](NOTE-1443.md)**: the earlier source of the river-bed and water-cycle
   arguments it records, with the same verdict.
 - **No instruction for machine-learning practice.**
 
@@ -113,4 +113,4 @@ adaptive control; time-scale separation.
 - Time scales enter only for control, not in the definition of closure.
 - Teleology is grounded in self-maintenance, which a flame has, so on this
   paper's own grounding the flame is not yet excluded; the book's
-  Introduction moves the grounding to closure (NOTE-1437).
+  Introduction moves the grounding to closure ([NOTE-1437](NOTE-1437.md)).

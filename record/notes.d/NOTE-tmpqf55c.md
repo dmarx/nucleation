@@ -94,28 +94,28 @@ impact; dosage; compensation; asymmetry of enhancement and harm.
 
 ## Bearing on the record
 
-- **Connections: how far it stands in for LIT-1980.** It restates none of
-  LIT-1980's results, since nothing of LIT-1980 was reached. What it carries
-  is the question LIT-1980 is registered for, whether beneficence is a need
+- **Connections: how far it stands in for [LIT-1980](../literature.d/LIT-1980.md).** It restates none of
+  [LIT-1980](../literature.d/LIT-1980.md)'s results, since nothing of [LIT-1980](../literature.d/LIT-1980.md) was reached. What it carries
+  is the question [LIT-1980](../literature.d/LIT-1980.md) is registered for, whether beneficence is a need
   by the frustration criterion, tested on the same construct, by the authors
-  LIT-1980 is said to test against. It does not carry LIT-1980's Central
+  [LIT-1980](../literature.d/LIT-1980.md) is said to test against. It does not carry [LIT-1980](../literature.d/LIT-1980.md)'s Central
   European sample, its correlational design or its findings.
-- **LIT-1983** (Martela and Ryan 2019, read in the same batch): the same
+- **[LIT-1983](../literature.d/LIT-1983.md)** (Martela and Ryan 2019, read in the same batch): the same
   authors' experimental follow-up, agreeing in direction. Being randomised,
   with no competence-frustration control, it is free of the entry-order and
-  collinearity objections to LIT-1983's null, so on that point its null is
+  collinearity objections to [LIT-1983](../literature.d/LIT-1983.md)'s null, so on that point its null is
   the stronger.
-- **QUESTION-369**: the nearest the record now holds to the "intervention
+- **[QUESTION-369](../questions.d/QUESTION-369.md)**: the nearest the record now holds to the "intervention
   rather than correlation" that the question's answer calls for, for one
   candidate need. The manipulation moves felt frustration and leaves
-  ill-being unmoved, which fits LIT-1983's "wellness enhancer" reading. Its
+  ill-being unmoved, which fits [LIT-1983](../literature.d/LIT-1983.md)'s "wellness enhancer" reading. Its
   outcomes are still self-reported well-being and ill-being, so it does not
   leave the well-being route the question doubts.
-- **LEAD-127**: an intervention study, but it measures no functional
+- **[LEAD-127](../leads.d/LEAD-127.md)**: an intervention study, but it measures no functional
   deficit and thwarts no matched established need for contrast. The
   thwarting is manipulated; the deficit is not functional. It half-meets
   "what would count".
-- **THEORY-052** and CLAIM-368: no bearing; the three established needs
+- **[THEORY-052](../theory.d/THEORY-052.md)** and [CLAIM-368](../claims.d/CLAIM-368.md): no bearing; the three established needs
   are not measured.
 - **No instruction for machine-learning practice.**
 

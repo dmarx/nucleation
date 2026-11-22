@@ -86,8 +86,8 @@ the private majority rejects.
 
 ## Note of 2026-11-22: Čater, Čater and Ivašković, read
 
-LIT-1138, registered for this case, is now read (NOTE-tmpu5yr1;
-THEORY-tmpbo3a8). It **bears on reading 1 only, and cuts against using it
+[LIT-1138](../literature.d/LIT-1138.md), registered for this case, is now read ([NOTE-tmpu5yr1](../notes.d/NOTE-tmpu5yr1.md);
+[THEORY-tmpbo3a8](../theory.d/THEORY-tmpbo3a8.md)). It **bears on reading 1 only, and cuts against using it
 for the case's separation of allegiance from judgment**. It measures
 individual fans, not a fanbase's stance, so it says nothing of the shared
 emotional orientation, the norm of opposition or the corporate judgment

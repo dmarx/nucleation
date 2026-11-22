@@ -15,12 +15,12 @@ promote_when: >-
   five requirements to tell regulation from feedback or network robustness,
   with a verdict reached either way.
 summary: >-
-  Bich, Mossio, Ruiz-Mirazo and Moreno, read in NOTE-tmpefons (Read).
+  Bich, Mossio, Ruiz-Mirazo and Moreno, read in [NOTE-tmpefons](../notes.d/NOTE-tmpefons.md) (Read).
   Regulation is control exerted over the constitutive regime by a subsystem
   produced by it but dynamically decoupled from it, triggered by
   perturbations, that shifts the regime between viable states. Feedback
   depends on one constraint; closure is the mutual dependence of several.
-  A stand-in, in part, for LIT-536.
+  A stand-in, in part, for [LIT-536](../literature.d/LIT-536.md).
 ---
 <!-- inactive-ok-file: LIT-536 — Unfetched; the book this reading stands in for, in part -->
 <!-- inactive-ok-file: THEORY-072 — Proposed; the account this one bears on -->
@@ -37,11 +37,11 @@ and homeostasis belong instead to the constitutive regime, the closure.
 
 ## Evidence
 
-The reading in NOTE-tmpefons; its key results are quoted there with
+The reading in [NOTE-tmpefons](../notes.d/NOTE-tmpefons.md); its key results are quoted there with
 locations. Its cases are prokaryotic (chemotaxis, the lac operon), and
 "dynamically decoupled" has no measure of how distinct the scales must be.
 
 ## Bearing
 
-On THEORY-072: differentiation at distinct time scales, on this account, is
+On [THEORY-072](THEORY-072.md): differentiation at distinct time scales, on this account, is
 a condition organisms meet beyond closure, not part of it.

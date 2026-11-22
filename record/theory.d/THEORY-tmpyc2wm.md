@@ -20,7 +20,7 @@ promote_when: >-
   specification of how a corporate group's moral reliability would be
   assessed, applied to at least one actual group.
 summary: >-
-  Mulgan, read in NOTE-tmpf00ch (Read). He sorts accounts of corporate
+  Mulgan, read in [NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md) (Read). He sorts accounts of corporate
   agency into individualism and minimal, moderate and extreme collectivism,
   adds a "moralised" reliability condition, and argues from two imagined
   futures, broken and digital, that only moralised extreme collectivism is
@@ -46,15 +46,15 @@ groups.
 
 ## Evidence
 
-The reading in NOTE-tmpf00ch; its key results are quoted there with
+The reading in [NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md); its key results are quoted there with
 locations. The argument is from predicted future belief, which Mulgan
 grants "may not persuade realists" (p. 914), and the reliability condition
-is named, not operationalised. It reports Velasquez (LIT-1429, LIT-1432)
+is named, not operationalised. It reports Velasquez ([LIT-1429](../literature.d/LIT-1429.md), [LIT-1432](../literature.d/LIT-1432.md))
 by citation and paraphrase only.
 
 ## Bearing
 
-On QUESTION-265, as a third position beside CLAIM-431 and CLAIM-432:
+On [QUESTION-265](../questions.d/QUESTION-265.md), as a third position beside [CLAIM-431](../claims.d/CLAIM-431.md) and [CLAIM-432](../claims.d/CLAIM-432.md):
 "psychopathic" said of a corporate group as the structural absence of a
 mechanism for moral reasons, which removes moral agency rather than
 grounding blame.

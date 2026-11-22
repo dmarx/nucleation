@@ -33,7 +33,7 @@ where an efficient evaluator with graded scores and a program skeleton are avail
 
 ## Note of 2026-11-22: Georgiev, Gómez-Serrano, Tao and Wagner, read further
 
-A **contrast**, no edge (LIT-2474; dated note of 2026-11-22 there). The
+A **contrast**, no edge ([LIT-2474](../literature.d/LIT-2474.md); dated note of 2026-11-22 there). The
 AlphaEvolve preprint presents FunSearch as its predecessor (Table 1, p. 3).
 FunSearch's evaluator is the target itself, a fixed program; AlphaEvolve's
 evaluators are often discretized stand-ins for continuous targets, and that

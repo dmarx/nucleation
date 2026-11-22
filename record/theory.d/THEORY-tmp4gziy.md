@@ -18,7 +18,7 @@ promote_when: >-
   matched content chosen by the users themselves or served
   chronologically.
 summary: >-
-  Dorsch, Coeckelbergh and Vierkant, read in NOTE-tmpdb4eb (Read). A
+  Dorsch, Coeckelbergh and Vierkant, read in [NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md) (Read). A
   theoretical paper, avowedly untested: since users of social media meet
   cross-cutting views, the harm of engagement optimization is not isolation
   but a recalibration of the metacognitive cues by which users judge their
@@ -42,14 +42,14 @@ from within.
 
 ## Evidence
 
-The reading in NOTE-tmpdb4eb; its key results are quoted there with
+The reading in [NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md); its key results are quoted there with
 locations. The authors call the claim "not yet directly tested empirically"
 (p. 9). Held evidence cuts against its motivating link to affective
-polarization (THEORY-1653); THEORY-662 supports its premise that fluency's
+polarization ([THEORY-1653](THEORY-1653.md)); [THEORY-662](THEORY-662.md) supports its premise that fluency's
 cause is not given to introspection.
 
 ## Bearing
 
-On QUESTION-441's second part: a mechanism by which a system reproduces the
+On [QUESTION-441](../questions.d/QUESTION-441.md)'s second part: a mechanism by which a system reproduces the
 conditions under which its harm is not legible to those it harms. It names
 no organization as the bearer.

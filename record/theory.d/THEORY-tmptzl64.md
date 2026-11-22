@@ -18,12 +18,12 @@ promote_when: >-
   independent sample outside US online panels, with the stakes and the
   instruction varied so that the harm cannot be laid on the experimenter.
 summary: >-
-  Martela and Ryan, read in NOTE-tmpqf55c (Read). Three preregistered MTurk
+  Martela and Ryan, read in [NOTE-tmpqf55c](../notes.d/NOTE-tmpqf55c.md) (Read). Three preregistered MTurk
   experiments randomise a small gain or loss to the Red Cross within a
   key-pressing task. The loss is noticed, raising beneficence frustration
   (meta-analytic d = 0.84), but negative affect, anxiety and depression do
   not rise; the gain raises well-being. Registered as a stand-in, in part,
-  for LIT-1980.
+  for [LIT-1980](../literature.d/LIT-1980.md).
 ---
 <!-- inactive-ok-file: LIT-1980 — Unfetched; the work this reading stands in for, in part -->
 
@@ -36,18 +36,18 @@ small, instructed negative impact on a charity raises felt beneficence
 frustration but not self-reported ill-being, while an equal positive impact
 raises well-being. They read this as an asymmetry: the same "dosage" that
 raises well-being when positive does not raise ill-being when negative,
-consistent with LIT-1983's proposal that beneficence is a basic wellness
+consistent with [LIT-1983](../literature.d/LIT-1983.md)'s proposal that beneficence is a basic wellness
 enhancer rather than a basic need.
 
 ## Evidence
 
-The reading in NOTE-tmpqf55c; its key results are quoted there with
+The reading in [NOTE-tmpqf55c](../notes.d/NOTE-tmpqf55c.md); its key results are quoted there with
 locations. The asymmetry's "same dosage" is asserted rather than shown,
 since the manipulation checks move satisfaction more than frustration, and
 the outcomes are all immediate self-reports.
 
 ## Bearing
 
-On QUESTION-369, as evidence from an intervention, which the question asks
+On [QUESTION-369](../questions.d/QUESTION-369.md), as evidence from an intervention, which the question asks
 for, on one candidate need; it stays on the well-being route the question
 doubts, since its outcomes are self-reported well-being and ill-being.

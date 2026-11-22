@@ -24,7 +24,7 @@ summary: >-
   Named in [QUESTION-128](../questions.d/QUESTION-128.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: THEORY-tmpam6lh — Proposed; the reading of Caliari, 2026-11-22 -->
-<!-- inactive-ok-file: LIT-1228 LIT-2363 LIT-2444 LIT-2451 — Unfetched; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-1228 LIT-2444 LIT-2451 — Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-158: Read the works on the objectivity of relational norms, with Leffler on constitutivism as the adversarial test
 
@@ -54,8 +54,8 @@ organizational norms cannot answer bears on [QUESTION-128](../questions.d/QUESTI
 
 ## Note of 2026-11-22: Caliari, read
 
-LIT-2363 is read (NOTE-tmphq6zm; THEORY-tmpam6lh) and now Active. Its
-bearing on QUESTION-128 is **weak**: the only route is that whether an
+[LIT-2363](../literature.d/LIT-2363.md) is read ([NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md); [THEORY-tmpam6lh](../theory.d/THEORY-tmpam6lh.md)) and now Active. Its
+bearing on [QUESTION-128](../questions.d/QUESTION-128.md) is **weak**: the only route is that whether an
 inconsistent agent's choices fix its preference depends on a threshold the
 observer sets (§2.3.1), so what the agent prefers is partly
 observer-relative when its choices conflict. It says nothing about

@@ -65,7 +65,7 @@ test "What would count as an answer" sets. The question is Open.
 
 ## Note of 2026-11-22: Mulgan, read
 
-A **weaker bearing**, no edge (LIT-1874, NOTE-tmpf00ch). Mulgan separates
+A **weaker bearing**, no edge ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md)). Mulgan separates
 realist, pragmatist and interpretivist methods for corporate agency and two
 senses of "recognise", acknowledging an agent and deciding to treat a group
 as one (p. 907). He reads List and Pettit's moral condition as pragmatist,

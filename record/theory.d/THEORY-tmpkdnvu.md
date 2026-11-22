@@ -14,7 +14,7 @@ promote_when: >-
   or game-content study is found that uses the checklist or reports the
   same leading features and the same gap in evidence on their effects.
 summary: >-
-  Ivern and Carbonell, read in NOTE-tmpzok4t (Read). A PRISMA-ScR scoping
+  Ivern and Carbonell, read in [NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md) (Read). A PRISMA-ScR scoping
   review: 72 studies, 136 features in 22 subcategories and 6 categories,
   grouped by the problem they cause players and ranked by how often the
   literature names them. The authors find the impact and interaction of
@@ -36,11 +36,11 @@ monetization systems, rather than a single design element" (p. 18).
 
 ## Evidence
 
-The reading in NOTE-tmpzok4t; its key results are quoted there with
+The reading in [NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md); its key results are quoted there with
 locations. The counts are of studies naming a feature, not of games or of
 harm, and the journal and conference counts on p. 4 do not sum to 72.
 
 ## Bearing
 
-On CASE-248, as the list of design variables its study must record,
+On [CASE-248](../cases.d/CASE-248.md), as the list of design variables its study must record,
 including odds and prices that vary by player.

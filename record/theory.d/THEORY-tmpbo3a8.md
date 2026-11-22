@@ -17,7 +17,7 @@ promote_when: >-
   loyalty change. The reported moderation is not part of what promotion
   asserts.
 summary: >-
-  Čater, Čater and Ivašković, read in NOTE-tmpu5yr1 (Read). Two
+  Čater, Čater and Ivašković, read in [NOTE-tmpu5yr1](../notes.d/NOTE-tmpu5yr1.md) (Read). Two
   cross-sectional surveys (N = 172, 184) of fans recruited through fan
   clubs rate their commitment and loyalty now and, at once, if their club
   joined a Super League. All three identity dimensions predict a smaller
@@ -41,7 +41,7 @@ opposition weakening each buffer.
 
 ## Evidence
 
-The reading in NOTE-tmpu5yr1; its key results are quoted there with
+The reading in [NOTE-tmpu5yr1](../notes.d/NOTE-tmpu5yr1.md); its key results are quoted there with
 locations. The "change" is a same-sitting difference between actual and
 imagined answers. The moderation's direction is reported, not endorsed
 here: the simple slopes as the paper codes them run the other way from its
