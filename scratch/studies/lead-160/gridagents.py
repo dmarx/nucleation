@@ -352,6 +352,32 @@ class Demons:
         core = np.linalg.inv(np.eye(2) - GAMMA_D * V.T @ MU)
         return Mpi + GAMMA_D * MU @ core @ VM
 
+    def global_edit_block(self, s, a, t):
+        """Propagate a blocked passage through every demon without a transition table.
+
+        Mpi' = Mpi + dMpi (Woodbury). Each demon M[x,b] = e_x + gamma Mpi[n] for its
+        unknown successor n, and the rows of Mpi[n] it needs (columns s and t) are read
+        off the demon itself: Mpi[n, j] = (M[x,b,j] - [x == j]) / gamma.
+        """
+        S = self.S
+        Mpi = self.occupancy()
+        V = np.zeros((S, 2))
+        V[s, 0], V[t, 0] = 1.0 / A, -1.0 / A
+        V[t, 1], V[s, 1] = 1.0 / A, -1.0 / A
+        U_cols = Mpi[:, [s, t]]                      # Mpi U
+        core = np.linalg.inv(np.eye(2) - GAMMA_D * V.T @ U_cols)
+        right = core @ (V.T @ Mpi)                   # (2, S)
+        succ_cols = self.Msr[:, :, [s, t]].copy()    # (S, A, 2)
+        succ_cols[s, :, 0] -= 1.0
+        succ_cols[t, :, 1] -= 1.0
+        succ_cols /= GAMMA_D                         # Mpi[n(x,b), [s,t]]
+        self.Msr += GAMMA_D * GAMMA_D * np.einsum("xbk,kj->xbj", succ_cols, right)
+        Mpi_new = Mpi + GAMMA_D * U_cols @ right
+        for (u, b) in ((s, a), (t, OPP[a])):
+            e = np.zeros(S)
+            e[u] = 1.0
+            self.Msr[u, b] = e + GAMMA_D * Mpi_new[u]
+
 
 AGENTS = (Planner, Policy, Demons)
 

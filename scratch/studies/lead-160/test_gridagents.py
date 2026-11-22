@@ -123,6 +123,24 @@ def test_policy_value_reads_distance(world):
     assert 1 + np.log(V[x, g]) / np.log(ga.GAMMA_P) == pytest.approx(d[x, g])
 
 
+def test_demons_global_edit_equals_retraining(world):
+    m, trans, agents, _ = world
+    for s, dd in m.passages():
+        m2 = m.copy()
+        m2.block(s, dd)
+        if np.isfinite(ga.all_pairs_dist(m2.T)).all():
+            break
+    t = m.T[s, dd]
+    D = ga.Demons(m.S)
+    D.Msr = agents["D"].Msr.copy()
+    D.global_edit_block(s, dd, t)
+    D2 = ga.Demons(m.S)
+    D2.train(np.array([(x, a, m2.T[x, a]) for x in range(m.S) for a in range(ga.A)]))
+    np.testing.assert_allclose(D.Msr, D2.Msr, rtol=1e-7, atol=1e-13)
+    succ, _, _ = ga.competence(m2.T, D.values(), ga.all_pairs_dist(m2.T))
+    assert succ == 1.0
+
+
 def test_error_signals(world):
     m, _, agents, _ = world
     s, a = m.passages()[0]
