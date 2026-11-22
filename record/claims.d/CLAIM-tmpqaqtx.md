@@ -36,8 +36,8 @@ complements:
 uses:
 - TERM-100
 summary: >-
-  From the run of LEAD-048 (CASE-tmpl0ccq), a reduced simulation of
-  CASE-186. With the self-test, reciprocal and external maintenance
+  From the run of [LEAD-048](../leads.d/LEAD-048.md) ([CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md)), a reduced simulation of
+  [CASE-186](../cases.d/CASE-186.md). With the self-test, reciprocal and external maintenance
   recover a second correction after any one operation is lesioned, in 64 of
   64 matched worlds, and the unmaintained arrangement in none. Without it,
   no arrangement recovers. Generate, admit and score give the same counts.
@@ -53,7 +53,7 @@ summary: >-
 
 ## The claim
 
-CASE-tmpl0ccq ran CASE-186's organization in reduced form, on 64 matched worlds
+[CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md) ran [CASE-186](../cases.d/CASE-186.md)'s organization in reduced form, on 64 matched worlds
 per cell. The organization corrected the first reversal alike under every
 maintenance arrangement. Its audit apparatus was then damaged before a
 second change, in-family or out of family.
@@ -84,17 +84,17 @@ second change, in-family or out of family.
   Here each lesion is total for the second correction and the self-test
   finds each at once. With partial lesions or weaker tests they could come
   apart.
-- It does not bear against CLAIM-522. The outside service here restores at
+- It does not bear against [CLAIM-522](CLAIM-522.md). The outside service here restores at
   a constant rate and does not supply the internal law as state feedback,
-  so an intervention on state can find it out, as in CASE-265.
+  so an intervention on state can find it out, as in [CASE-265](../cases.d/CASE-265.md).
 - It does not test the recognition of an inadequate hypothesis family. The
-  adequacy test is built in, as CASE-186 stipulates.
+  adequacy test is built in, as [CASE-186](../cases.d/CASE-186.md) stipulates.
 
 ## What it changes
 
-LEAD-048 said that "a second correction that fails when one component is
+[LEAD-048](../leads.d/LEAD-048.md) said that "a second correction that fails when one component is
 lesioned and survives the others locates where maintenance is realized".
 In this construction no component does that. What locates maintenance is
 the double lesion, and the differences between arrangements under injury
-are of the kind CLAIM-414 describes: matched under the sham, exposed by
+are of the kind [CLAIM-414](CLAIM-414.md) describes: matched under the sham, exposed by
 the intervention.

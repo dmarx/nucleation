@@ -232,10 +232,10 @@ renewed with them. That is this question asked of a single cell population.
 The wording is the assistant's (Claude, in this session); adopting it is the
 owner's call.
 
-## Note of 2026-11-22: a simulated organization, LEAD-048
+## Note of 2026-11-22: a simulated organization, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-tmpl0ccq CLAIM-tmpqaqtx — new; the run of LEAD-048 and the claim drawn from it -->
-CASE-tmpl0ccq ran CASE-186's organization in reduced form. Systems that
+<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 and the claim drawn from it -->
+[CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md) ran [CASE-186](../cases.d/CASE-186.md)'s organization in reduced form. Systems that
 behave alike under a sham injury are told apart by interventions:
 - lesions of single audit operations, or partial losses of a maintained
   capacity, separate those whose processes regenerate the capacities from
@@ -244,5 +244,5 @@ behave alike under a sham injury are told apart by interventions:
   restoration.
 
 Stopping the producer and destroying the internal producer did not separate
-them within the horizon run. CLAIM-tmpqaqtx states the pattern for that
+them within the horizon run. [CLAIM-tmpqaqtx](../claims.d/CLAIM-tmpqaqtx.md) states the pattern for that
 construction. The question stays Open.

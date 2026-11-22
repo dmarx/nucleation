@@ -178,10 +178,10 @@ But interventions on state do separate them. From c = 0.01 the controlled system
 ## Note of 2026-11-22: a run in which an intervention on state separates the arrangements
 
 <!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
-In CASE-tmpl0ccq, a reduced run of CASE-186, zeroing both maintained
+In [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md), a reduced run of [CASE-186](../cases.d/CASE-186.md), zeroing both maintained
 capacities, an intervention on state, separated reciprocal maintenance (0
 of 64 second corrections) from external restoration (64 of 64). Its outside
 service restores at a constant rate and does not supply the internal
-production law as state feedback. It is therefore CASE-265's kind of
+production law as state feedback. It is therefore [CASE-265](../cases.d/CASE-265.md)'s kind of
 controller, outside this claim's ideal case, and is no counterexample. The
 claim is unchanged.
