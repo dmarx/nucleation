@@ -52,6 +52,7 @@ rests_on:
 - CLAIM-635
 - CLAIM-772
 ---
+<!-- inactive-ok-file: CASE-tmpdcoyb — Proposed; LEAD-199's study of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-189 CLAIM-190 ARG-028 CLAIM-068 — Proposed or Superseded; cited for what each holds, as open -->
 <!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-779 — Proposed; filed in this contribution of 2026-11-20 -->
 
@@ -96,3 +97,7 @@ retention rather than to drift.
   it separates four cases: settled and retained (conserved), settled and not
   retained (contracted), unsettled and retained, unsettled and not retained
   (still copied with error).
+
+## Note of 2026-11-22: the revision count alone
+
+[LEAD-199](../leads.d/LEAD-199.md)'s count ([CASE-tmpdcoyb](../cases.d/CASE-tmpdcoyb.md)) found no settling with inbound edges at all: cited claims are revised more often at matched age, and entries settle with age. So the case this claim warned about, settling that the count cannot attribute to contraction or conservation, did not arise in the form expected; what settles is age, and what the count measures may be attention (148 of 303 revisions after a first edge fall within a day of it). This claim's point stands: retention against the originating turn ([LEAD-201](../leads.d/LEAD-201.md)) is still the measure that would tell the mechanisms apart.

@@ -1,0 +1,50 @@
+=== #0 2911cd23c CLAIM-001 kind=nonsubstantive lenient=False fields=[] status=False | Claude | Correct every stale inactive-ok directive and remove the obsolete ones | files=57
+    <!-- inactive-ok-file: CLAIM-100 — [-Proposed;-]{+Superseded;+} open, and cited as open: the claim, argument or reading is under test, not settled -->
+=== #1 dedf5db53 CLAIM-657 kind=nonsubstantive lenient=False fields=[] status=False | David Marx | The exchange "About Plantation Paradise" filed: the owner's question on a whole' | files=17
+    {+<!-- inactive-ok-file: NOTE-tmp62vov — Skimmed; filed 2026-11-12 -->+}
+    {+<!-- inactive-ok-file: THEORY-tmp2zfsi — Proposed, filed 2026-11-12 -->+}
+    {+## Note of 2026-11-12: Fuentes, skimmed+}
+    {+Fuentes ([THEORY-tmp2zfsi](../theory.d/THEORY-tmp2zfsi.md), [NOTE-tmp62vov](../notes.d/NOTE-tmp62vov.md)) corroborates this claim's first+}
+    {+route, historically: enslaved women survive in the colonial record only as+}
+    {+"alleged criminals, enslaved prostitutes, tortured runaways, and victims of+}
+    {+such violence that they were obscured from historical view", selective+}
+    {+disappearance produced by the institution's own recording, with no censor.+}
+    ... 3 more changed lines
+=== #2 93be85d8d CLAIM-102 kind=nonsubstantive lenient=False fields=[] status=False | Claude | Classify every CLAIM's warrant; the required field now holds | files=289
+    {+warrant: interpretive+}
+=== #3 bc1568164 CLAIM-011 kind=nonsubstantive lenient=False fields=[] status=False | Claude | File 34 objections to the pragmatic-transport argument as CLAIMs | files=86
+    {+- CLAIM-tmpt76qw+}
+=== #4 2561ce665 CLAIM-589 kind=nonsubstantive lenient=False fields=[] status=True | Claude | Status review 27, cluster O: demonstrated claims grounded on readings | files=2
+    status: [-Proposed-]{+Active+}
+    version: [-1-]{+2+}
+    {+history:+}
+    {+- version: 2+}
+    {+  date: '2026-11-06'+}
+    {+  note: >-+}
+    {+    Promoted at the status review's ruling (the owner delegated these+}
+    {+    rulings; ADR-057). THEORY-1390 moved from grounds to corroborated_by+}
+    ... 7 more changed lines
+=== #5 9689b138e CLAIM-502 kind=nonsubstantive lenient=False fields=[] status=False | Claude | Explain the uses relations the lint found unexplained: a statement directive per | files=43
+    {+<!-- ref::uses-file: TERM-101 — the grants E_kj along whose paths leave-one-out delegation carries authority are TERM-101's grant -->+}
+    {+<!-- ref::uses-file: TERM-103 — a grant raising "the authority of every operator its grantee reaches" while leaving its own unchanged is conferral in TERM-103's sense, carried beyond one hop -->+}
+=== #6 a508ca154 CLAIM-122 kind=nonsubstantive lenient=False fields=[] status=False | Claude | Carry out the first pass's rulings: ADR-057 Active, CLAIM-089 answered, inquiry  | files=6
+    <!-- inactive-ok-file: CLAIM-089 — [-Proposed; open, and cited as open:-]{+Rejected;+} the [-claim, argument or reading is under test, not settled-]{+objection this answered in part, answered in full on 2026-10-27+} -->
+=== #7 81834e657 CLAIM-560 kind=nonsubstantive lenient=False fields=[] status=False | Claude | Write the other side of 291 symmetric relations held by one side only | files=158
+    {+- CLAIM-583+}
+=== #8 012552e92 CLAIM-478 kind=nonsubstantive lenient=False fields=[] status=False | Claude | Notes, workbench, curation and changelog for U15–U23 | files=5
+    {+<!-- inactive-ok-file: CLAIM-tmpfw510 CLAIM-tmpywecm CLAIM-tmpose3y CLAIM-tmpdjt64 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->+}
+    {+## Note of 2026-10-27 (U15–U23): coupling, spectra and evolving gluing+}
+    {+The owner's U20 conjectured that "coupling inertial frames necessarily induces+}
+    {+scale separation", with low confidence. It is filed as CLAIM-tmpfw510 and+}
+    {+Rejected on filing. CLAIM-tmpywecm is the counterexample: conservatively+}
+    {+coupled oscillators split into normal modes without separating or damping+}
+    {+them. It is also a mechanism for this claim's second half, that organization+}
+    {+makes separations. When coupling dissipates relative differences, as in a+}
+    ... 18 more changed lines
+=== #9 49e7a8251 CLAIM-117 kind=nonsubstantive lenient=False fields=[] status=False | David Marx | ADR-tmp53l4u: store each directed relation on one side and derive its converse ( | files=331
+    [-objected_by:-]
+    [-- CLAIM-011-]
+    [-- CLAIM-253-]
+    [-illustrated_by:-]
+    [-- CASE-022-]
+    [-- CASE-017-]
