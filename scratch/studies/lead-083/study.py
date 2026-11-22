@@ -107,6 +107,19 @@ class Kink:
         phi[free] = r.x
         return phi
 
+    def flow(self, phi0, clamp, clamp_val, T):
+        """Overdamped dynamics for time T with sites `clamp` held (explicit Euler)."""
+        h = self.h
+        dt = 0.2 * h * h
+        phi = phi0.copy()
+        phi[clamp] = clamp_val
+        for _ in range(int(round(T / dt))):
+            p = np.concatenate(([-1.0], phi, [1.0]))
+            lap = (p[2:] - 2 * p[1:-1] + p[:-2]) / h ** 2
+            phi = phi + dt * (lap + phi - phi ** 3)
+            phi[clamp] = clamp_val
+        return phi
+
     def ground(self, X0=0.0):
         # centred between sites: the on-site kink is the Peierls-Nabarro saddle
         Xc = X0 + self.h / 2
@@ -123,12 +136,12 @@ class Kink:
         """Distance of phi to the declared family tanh((x - X)/w0) over X,
         with w0 = sqrt(2) the continuum width. Returns (d, X)."""
         best = (np.inf, 0.0)
-        for X in np.linspace(-5, 5, 2001):
+        for X in np.linspace(-15, 15, 3001):
             d = np.sqrt(self.h * np.sum((phi - np.tanh((self.x - X) / np.sqrt(2))) ** 2))
             if d < best[0]:
                 best = (d, X)
         X0 = best[1]
-        for X in np.linspace(X0 - 0.01, X0 + 0.01, 201):
+        for X in np.linspace(X0 - 0.01, X0 + 0.01, 101):
             d = np.sqrt(self.h * np.sum((phi - np.tanh((self.x - X) / np.sqrt(2))) ** 2))
             if d < best[0]:
                 best = (d, X)
@@ -193,15 +206,16 @@ def run_A(kind, h, X0):
                 val = np.clip(phi0[j] + sgn * a, -1.5, 1.5)
                 frozen = phi0.copy()
                 frozen[j] = val
-                free = k.relax(phi0, clamp=[j], clamp_val=val)
                 dF, XF = k.fit(frozen)
-                dR, XR = k.fit(free)
-                # task variable T = -distance to the declared family
-                kap = kappa(-d0, -dR, -dF)
-                moved = np.delete(np.abs(free - phi0), j)
-                out.append(dict(site=float(k.x[j]), sign=sgn, kappa=kap, d_base=d0,
-                                d_frozen=dF, d_free=dR, X_shift_free=XR - Xb,
-                                X_shift_frozen=XF - Xb, max_other_change=float(moved.max())))
+                row = dict(site=float(k.x[j]), sign=sgn, d_base=d0, d_frozen=dF)
+                for T in (5.0, 50.0):
+                    free = k.flow(phi0, [j], val, T)
+                    dR, XR = k.fit(free)
+                    moved = np.delete(np.abs(free - phi0), j)
+                    # task variable T = -distance to the declared family
+                    row[f"T{int(T)}"] = dict(kappa=kappa(-d0, -dR, -dF), d_free=dR,
+                                            X_shift=XR - Xb, max_other_change=float(moved.max()))
+                out.append(row)
         return dict(X0=X0, X_fit=Xb, rows=out)
 
 
