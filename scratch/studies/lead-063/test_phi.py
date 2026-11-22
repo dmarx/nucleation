@@ -99,15 +99,20 @@ def test_main_complex_tight_mind_is_whole():
     assert sub == list(range(9))
 
 
-def test_block_mib_is_not_beaten_by_random_cuts():
-    """The group's MIB is searched along module seams; random cuts that
-    split modules should not score lower (size-normalized)."""
-    A, members, mods = group(c=0.15, width_c=3, g=0.1, width_g=3)
+@pytest.mark.parametrize("normalize", [True, False])
+@pytest.mark.parametrize("g,width", [(0.1, 3), (0.2, 1)])
+def test_large_mib_is_not_beaten_by_random_cuts(normalize, g, width):
+    """The group's MIB is searched along module seams and single-unit cuts;
+    random cuts should not score lower."""
+    from phi import large_splits
+    A, members, mods = group(c=0.15, width_c=3, g=g, width_g=width)
     S = stationary_cov(A)
     Gm = A @ S
     whole = list(range(27))
-    _, (a, b) = Phi(S, Gm, whole, block_bipartitions(mods))
-    best = phi_split(S, Gm, [a, b]) / min(len(a), len(b))
+    score = (lambda a, b: phi_split(S, Gm, [a, b]) / min(len(a), len(b))) if normalize \
+        else (lambda a, b: phi_split(S, Gm, [a, b]))
+    _, (a, b) = Phi(S, Gm, whole, large_splits(whole, mods), normalize=normalize)
+    best = score(a, b)
     rng = np.random.default_rng(2)
     for _ in range(200):
         mask = rng.random(27) < rng.uniform(0.1, 0.5)
@@ -115,4 +120,4 @@ def test_block_mib_is_not_beaten_by_random_cuts():
             continue
         a2 = [u for u in whole if mask[u]]
         b2 = [u for u in whole if not mask[u]]
-        assert phi_split(S, Gm, [a2, b2]) / min(len(a2), len(b2)) >= best - 1e-12
+        assert score(a2, b2) >= best - 1e-12

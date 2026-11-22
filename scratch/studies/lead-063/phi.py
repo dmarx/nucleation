@@ -83,6 +83,15 @@ def block_bipartitions(blocks):
         yield a, b
 
 
+def large_splits(units, blocks):
+    """Candidate cuts for a system too large for exhaustive search: every
+    cut along block seams, and every single unit against the rest (the cut
+    an unnormalized MIB tends to pick)."""
+    yield from block_bipartitions(blocks)
+    for u in units:
+        yield [u], [v for v in units if v != u]
+
+
 def Phi(Sigma, Gamma, units, splits=None, normalize=True):
     """Phi_AR of `units` at its MIB, size-normalized unless normalize=False.
     Returns (Phi, mib). `splits` defaults to every bipartition."""
@@ -168,7 +177,7 @@ def analyse(A, levels, normalize=True):
                 val, mib = Phi(Sigma, Gamma, cand, normalize=normalize)
             else:
                 val, mib = Phi(Sigma, Gamma, cand,
-                               block_bipartitions(blocks_of(cand)),
+                               large_splits(cand, blocks_of(cand)),
                                normalize=normalize)
             vals.append(val)
         out[name] = vals

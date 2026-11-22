@@ -7,7 +7,15 @@
 | size-normalized | mind | 1 | 0.13 | yes | 0.25 |
 | size-normalized | mind | 2 | 0.09 | yes | 0.25 |
 | size-normalized | mind | 3 | 0.08 | no | 0.25 |
-| size-normalized | group | 1 | none | no | 0.13 |
+| size-normalized | group | 1 | 0.21 | yes | 0.25 |
+| size-normalized | group | 2 | 0.16 | yes | 0.25 |
+| size-normalized | group | 3 | 0.13 | no | 0.25 |
+| unnormalized | mind | 1 | none | no | 0.25 |
+| unnormalized | mind | 2 | none | no | 0.25 |
+| unnormalized | mind | 3 | 0.08 | no | 0.25 |
+| unnormalized | group | 1 | 0.21 | yes | 0.25 |
+| unnormalized | group | 2 | 0.16 | yes | 0.25 |
+| unnormalized | group | 3 | 0.13 | no | 0.25 |
 
 ## Verdicts at matched coupling (size-normalized MIB)
 
@@ -16,20 +24,20 @@ Coupling x between parts (modules of the mind; members of the group), links betw
 | coupling | width | mind: Phi module / mind -> winner | group: Phi module / member / group -> winner |
 |---:|---:|---|---|
 | 0.0 | 1 | 0.0282 / 0.0000 -> module | 0.0353 / 0.0720 / 0.0000 -> member |
-| 0.0 | 2 | 0.0282 / 0.0000 -> module | not run |
-| 0.0 | 3 | 0.0282 / 0.0000 -> module | not run |
+| 0.0 | 2 | 0.0282 / 0.0000 -> module | 0.0353 / 0.0720 / 0.0000 -> member |
+| 0.0 | 3 | 0.0282 / 0.0000 -> module | 0.0353 / 0.0720 / 0.0000 -> member |
 | 0.05 | 1 | 0.0283 / 0.0049 -> module | 0.0353 / 0.0720 / 0.0047 -> member |
-| 0.05 | 2 | 0.0284 / 0.0095 -> module | not run |
-| 0.05 | 3 | 0.0288 / 0.0138 -> module | not run |
+| 0.05 | 2 | 0.0284 / 0.0095 -> module | 0.0354 / 0.0720 / 0.0087 -> member |
+| 0.05 | 3 | 0.0288 / 0.0138 -> module | 0.0354 / 0.0719 / 0.0121 -> member |
 | 0.1 | 1 | 0.0285 / 0.0193 -> module | 0.0356 / 0.0720 / 0.0184 -> member |
-| 0.1 | 2 | 0.0288 / 0.0375 -> mind | not run |
-| 0.1 | 3 | 0.0310 / 0.0545 -> mind | not run |
-| 0.15 | 1 | 0.0289 / 0.0557 -> mind | not run |
-| 0.15 | 2 | 0.0297 / 0.0782 -> mind | not run |
-| 0.15 | 3 | 0.0353 / 0.0720 -> mind | not run |
-| 0.2 | 1 | 0.0295 / 0.0548 -> mind | not run |
-| 0.2 | 2 | 0.0310 / 0.0693 -> mind | not run |
-| 0.2 | 3 | 0.0427 / 0.0519 -> mind | not run |
-| 0.25 | 1 | 0.0304 / 0.0532 -> mind | not run |
-| 0.25 | 2 | 0.0330 / 0.0480 -> mind | not run |
-| 0.25 | 3 | 0.0525 / -0.0054 -> module | not run |
+| 0.1 | 2 | 0.0288 / 0.0375 -> mind | 0.0358 / 0.0719 / 0.0336 -> member |
+| 0.1 | 3 | 0.0310 / 0.0545 -> mind | 0.0360 / 0.0714 / 0.0450 -> member |
+| 0.15 | 1 | 0.0289 / 0.0557 -> mind | 0.0362 / 0.0721 / 0.0405 -> member |
+| 0.15 | 2 | 0.0297 / 0.0782 -> mind | 0.0366 / 0.0715 / 0.0708 -> member |
+| 0.15 | 3 | 0.0353 / 0.0720 -> mind | 0.0373 / 0.0689 / 0.0869 -> group |
+| 0.2 | 1 | 0.0295 / 0.0548 -> mind | 0.0370 / 0.0721 / 0.0689 -> member |
+| 0.2 | 2 | 0.0310 / 0.0693 -> mind | 0.0380 / 0.0691 / 0.1088 -> group |
+| 0.2 | 3 | 0.0427 / 0.0519 -> mind | 0.0398 / 0.0563 / 0.0907 -> group |
+| 0.25 | 1 | 0.0304 / 0.0532 -> mind | 0.0382 / 0.0717 / 0.0978 -> group |
+| 0.25 | 2 | 0.0330 / 0.0480 -> mind | 0.0403 / 0.0569 / 0.1000 -> group |
+| 0.25 | 3 | 0.0525 / -0.0054 -> module | 0.0059 / -0.1701 / -0.1928 -> module |
