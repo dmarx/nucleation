@@ -172,3 +172,30 @@ def wald_bounds(counts: np.ndarray, z: float, signs) -> tuple[np.ndarray, np.nda
 def mixture(P1: np.ndarray, P2: np.ndarray, w: float = 0.5) -> np.ndarray:
     """The system observed when two subsystems (say, two label orders) are pooled."""
     return w * P1 + (1 - w) * P2
+
+
+def absence_upper_bound(counts: np.ndarray, signs, alpha: float = 0.05) -> np.ndarray:
+    """A conservative upper confidence bound for Delta_C, valid by construction.
+
+    Bonferroni over two parts: an upper bound for sigma . E at alpha/2
+    (normal approximation, the E_k independent across contexts), and a
+    lower bound for the signalling, each content's |d| at least
+    max(0, |d_hat| - z se) at alpha/8 apiece (since ||d_hat| - |d|| <= |d_hat - d|).
+    With probability about 1 - alpha the true Delta_C is below the result,
+    whatever the true signalling; the plug-in and soft-thresholded bounds
+    have no such guarantee (summary.md). Absence is shown when it is below 0.
+    """
+    from statistics import NormalDist
+    counts = np.asarray(counts, dtype=float)
+    signs = np.asarray(signs, dtype=float)
+    n = counts.sum(axis=-1)
+    m_a, m_b, e = moments(counts)
+    z1 = NormalDist().inv_cdf(1 - alpha / 2)
+    z2 = NormalDist().inv_cdf(1 - alpha / 8)
+    se_e = np.sqrt((np.clip(1 - e ** 2, 0, None) / n).sum(axis=-1))
+    upper_s = (signs * e).sum(axis=-1) + z1 * se_e
+    first, second = m_a, np.roll(m_b, 1, axis=-1)
+    se_d = np.sqrt(np.clip(1 - first ** 2, 0, None) / n
+                   + np.clip(1 - second ** 2, 0, None) / np.roll(n, 1, axis=-1))
+    lower_delta = np.clip(np.abs(first - second) - z2 * se_d, 0, None).sum(axis=-1)
+    return upper_s - 2.0 - lower_delta

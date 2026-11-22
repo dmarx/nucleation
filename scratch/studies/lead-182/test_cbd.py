@@ -128,3 +128,11 @@ def test_shrink_reduces_signalling_estimate():
     assert d1.mean() < 0.25 * d0.mean()
     # the plug-in bias at zero signalling is about 4 * sqrt(2/n) * sqrt(2/pi)
     assert d0.mean() == pytest.approx(4 * np.sqrt(2 / 400) * np.sqrt(2 / np.pi), rel=0.05)
+
+
+def test_absence_bound_is_conservative_on_the_boundary():
+    rng = np.random.default_rng(5)
+    for sig in (0.0, 0.3, 0.6):
+        P = cbd.true_system(0.0, sig)
+        counts = np.stack([rng.multinomial(400, P[k], size=3000) for k in range(4)], axis=1)
+        assert (cbd.absence_upper_bound(counts, (1, 1, 1, -1)) < 0).mean() < 0.05
