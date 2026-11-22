@@ -87,3 +87,15 @@ outside the procedure.
   the concrete system and the fixed property, which is the kind of change
   [CLAIM-470](../claims.d/CLAIM-470.md)'s defeater (a) describes, and not the revision its last
   clause asserts.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+A later use proposed (no edge). Rondon, Kawaguchi and Jhala
+(THEORY-tmp01mu6; NOTE-tmpnd1kd) cite this procedure as the route to
+better errors for liquid types: "devise a notion of type counterexample"
+and check whether it is feasible, "or if not, to lazily extract new
+qualifiers from the counterexample" (p. 169). The refinement step would
+then add predicates to the type system's vocabulary, as here it splits
+the abstraction's classes, with the program held fixed as the concrete
+system is here. Proposed in the paper, not done.

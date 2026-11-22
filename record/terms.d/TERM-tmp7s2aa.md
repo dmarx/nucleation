@@ -81,3 +81,15 @@ value, not anything that has the type. The definition's "a realization
 exhibited" already says so. The system carries no certificate: that a
 term has a refinement is a derivation found and not kept, a witness
 without certificate in the sense above ([ARG-tmptph3p](../arguments.d/ARG-tmptph3p.md)). No change.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel, from the other side (no edge). Liquid inference
+(THEORY-tmp01mu6; NOTE-tmpnd1kd) types a function's inputs as the
+strongest supertype of the arguments the program passes. With no calls,
+its neg example gets {0 ≤ ν ∧ 0 ≥ ν} → {0 ≤ ν ∧ 0 ≥ ν}, "useless but
+sound" (p. 167): the strongest description the qualifiers state, true of
+no argument ever given. A description with nothing to witness it can be
+as strong as the vocabulary allows. The record's descriptors are written
+from an entry that exists, which is what this term's witness rules out.

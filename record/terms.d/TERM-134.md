@@ -95,3 +95,16 @@ a matter of descriptors by adding words by decision. The paper's motive is
 the same walk from prose to mechanism: "the programmer is encouraged to
 make explicit the distinctions which currently must remain implicit or
 informal in code comments" (p. 2). Parallels only; the definition stands.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel (no edge). In liquid types (THEORY-tmp01mu6; NOTE-tmpnd1kd)
+the descriptors that can be inferred are conjunctions from a finite set
+of qualifiers the programmer supplies. A property the set cannot state is
+not inferred, and the paper's remedy is "to manually add more qualifiers"
+(p. 160), as the record adds a missing topic by decision rather than
+using the nearest wrong one. The set is closed under conjunction and not
+disjunction (p. 164). Unlike Freeman and Pfenning's declared lattice, the
+vocabulary is of predicates, the record's own kind of test. The
+definition stands.

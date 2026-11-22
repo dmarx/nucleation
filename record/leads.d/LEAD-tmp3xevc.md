@@ -62,3 +62,20 @@ intersection matches the witness argument, the witness being a value;
 and in their system checking an annotation is word to world, as inference
 is, so the bidirectional correspondence is left to the Dunfield and
 Krishnaswami reading.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; filed from this reading -->
+
+Read beyond the five candidates, at the owner's request after the Freeman
+and Pfenning reading: Rondon, Kawaguchi and Jhala 2008, "Liquid Types"
+(LIT-tmplw76n, NOTE-tmpnd1kd, THEORY-tmp01mu6, with ARG-tmprmcn5,
+ARG-tmp246r1 and CLAIM-tmpcmt21; pull request "Read Rondon, Kawaguchi and
+Jhala 2008"). The descriptor as a refinement inhabited holds in the
+predicate form, narrowed: inferable descriptors are conjunctions from a
+finite qualifier set, checking is conservative, and no evidence is
+carried. Inference is informative update, the strongest conjunction the
+qualifiers and the check allow; checking moves nothing, and a failure may
+lie in the program, the qualifiers or the checker. A reading the lead
+might add: Flanagan 2006, "Hybrid Type Checking", which inserts the
+run-time checks this paper proposes, the nearest case of the elaboration
+CLAIM-tmpnookt names. Offered, not added to the list here.

@@ -76,3 +76,18 @@ of the direction of fit with inference against checking ([ARG-tmp5r67s](../argum
 grounds the counter that checking an annotation moves nothing ([CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)).
 It parallels [CLAIM-783](../claims.d/CLAIM-783.md)'s result that descriptors cannot conflict: a term
 with σ and τ has σ ∧ τ, inhabited by its value.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+The later account (no edge). Rondon, Kawaguchi and Jhala 2008
+(THEORY-tmp01mu6; NOTE-tmpnd1kd) cite this paper as where "The notion of
+type refinements was introduced", "with refinements limited to
+restrictions on the structure of algebraic datatypes, for which inference
+is decidable" (p. 169). Their liquid types keep what made inference
+decidable here, a finite vocabulary fixed in advance and refinements only
+of programs already well-typed in ML. They change the vocabulary from
+declared datatype refinements to logical qualifiers, conjoined, over base
+types and functions, checked in a decidable logic. They also lack what
+this account has: refinements of recursive datatypes. Not a rival and not
+a correction; each is right of its own system.

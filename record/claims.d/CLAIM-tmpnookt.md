@@ -135,3 +135,37 @@ correspondences.
 Neither reaches this claim's `defeated_if` (b), which asks for a
 correspondence that fails on its own terms: the first holds narrowed, and
 the second was not tested by this paper. No change to the claim's status.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 CLAIM-tmp764wb — Proposed or Rejected; filed from the reading for LEAD-tmp3xevc -->
+
+Rondon, Kawaguchi and Jhala 2008 (THEORY-tmp01mu6, corroborates;
+NOTE-tmpnd1kd; LIT-tmplw76n), the predicate form of refinement types,
+read after Freeman and Pfenning's turned out to be a declared lattice.
+
+- **A descriptor as a refinement the entry inhabits: borne out in the
+  form written here, narrowed** (ARG-tmprmcn5). Their base refinement
+  {ν : B | e}, e any boolean expression, is "the set of values c of the
+  base type B such that the predicate [c/ν]e evaluates to true" (p. 160):
+  this claim's {x : A | φ(x)}. Inference only weakens a description until
+  the program passes it, and the program never moves. Three narrowings:
+  where a type is inferred, φ must be a conjunction of qualifiers from a
+  finite set given in advance, no disjunction, which is what keeps
+  inference decidable; a type given in advance can carry any predicate but
+  is checked by a conservative implication check, so a predicate the term
+  passes can fail to check; and nothing is carried with the term, so
+  "provably inhabits" means only that the check succeeded.
+- **The direction of fit as inferring against checking: half borne
+  out** (ARG-tmp246r1, Rejected as a route; CLAIM-tmpcmt21, a counter).
+  Inference is informative update. Checking against a type given in
+  advance moves nothing, a program that fails is reported, and the failure
+  may lie in the qualifier set or the checker rather than the program. The
+  run-time checks the paper proposes inserting, by Flanagan's hybrid type
+  checking, would be the elaboration this claim names; the paper does not
+  do it, and the record has not read Flanagan.
+- **Proof relevance: no support.** Derivations and solver checks are not
+  kept; inferred types are printed "as documentation" (p. 167).
+
+Neither reaches this claim's `defeated_if` (b): the first correspondence
+holds narrowed, and the second is still untested on a bidirectional
+system. No change to the claim's status.

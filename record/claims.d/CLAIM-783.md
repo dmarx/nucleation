@@ -164,3 +164,17 @@ witness must be a realized version. A term whose evaluation does not
 terminate can have ⊥ (soundness holds only "if e evaluates to v", p. 7);
 the record's entries are versions, so the part stands as written. No
 change.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel to parts 1 and 6 (no edge). In liquid types (THEORY-tmp01mu6;
+NOTE-tmpnd1kd) inference finds "the strongest conjunction of qualifiers
+from Q⋆ that satisfies all the constraints" (p. 160), and "if a set of
+constraints has a solution over Q then it has a unique minimum solution"
+(p. 166). The paper does not prove it here. The reason has this claim's
+shape: qualifiers each true of every value reaching a point can be
+conjoined, so solutions are closed under union. That is part 6 said of
+types: descriptors true of the same values never conflict. Adding a
+qualifier to a solution's conjunction only shrinks the set it admits, as
+in part 1. Parallels only; the derivation here is unaffected.
