@@ -48,9 +48,16 @@ term 0.39, work 0.26, theory 0.0. The owner > assistant filing-rate gap is
 robust to the attribution window, but is NOT content-matched (QUESTION-072
 part 1's "content held fixed" is not met) and kind confounds contributor.
 
+## Done (filing)
+
+- [x] README.md written.
+- [x] Filed CASE-tmpkge6r (executed-study, documented, Proposed) bears_on
+      QUESTION-072.
+- [x] Dated note of 2026-11-22 on LEAD-122 (done + what remains) and on
+      CLAIM-177 (aggregate counterpart). No status/stage change.
+- [x] Changelog fragment record/changelog.d/lead-122.md.
+- [x] Pre-commit checks pass (FM parses, no code in title, H1 matches).
+
 ## Next
 
-- [ ] Write README.md.
-- [ ] File CASE (executed-study, documented) bears_on QUESTION-072; dated
-      note on LEAD-122 and on CLAIM-177; changelog fragment.
-- [ ] Report.
+- [ ] Final commit + push; report.
