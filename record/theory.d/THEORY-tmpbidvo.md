@@ -17,13 +17,13 @@ date: '2026-11-22'
 source:
 - LIT-916
 summary: >-
-  Ge et al. (2024), LIT-916, read in NOTE-tmp1yxz6 for LEAD-078. In 70
+  Ge et al. (2024), [LIT-916](../literature.d/LIT-916.md), read in [NOTE-tmp1yxz6](../notes.d/NOTE-tmp1yxz6.md) for [LEAD-078](../leads.d/LEAD-078.md). In 70
   students low in trait mindfulness, monitor-and-acceptance training sped
   conflict and inhibition responses at post-test, left accuracy and delay
   discounting unchanged, and had no effect at follow-up. A dissociation of
   speed from discounting, not a test of whether discounting mediates a
-  change in self-control: ARG-tmpc8jqe holds that it does not show
-  CLAIM-156's route.
+  change in self-control: [ARG-tmpc8jqe](../arguments.d/ARG-tmpc8jqe.md) holds that it does not show
+  [CLAIM-156](../claims.d/CLAIM-156.md)'s route.
 ---
 <!-- inactive-ok-file: CLAIM-156 ARG-tmpc8jqe — Proposed or new; the claim this reading bears on and the judgement filed from it -->
 
@@ -32,7 +32,7 @@ summary: >-
 ## Source
 
 Ge, Xie, Sun, Fan, Zhang and Liu (2024), *Mindfulness* 16: 448-464,
-LIT-916, read in NOTE-tmp1yxz6.
+[LIT-916](../literature.d/LIT-916.md), read in [NOTE-tmp1yxz6](../notes.d/NOTE-tmp1yxz6.md).
 
 ## What was actually shown
 

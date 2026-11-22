@@ -4,8 +4,8 @@ status_note: >-
   no lawful copy found, 2026-11-22. OpenAlex marks it closed with no
   repository copy; web searches for the title with "pdf" found only APA
   PsycNet and database records. Known from its abstract, from Ainslie's
-  précis (LIT-586, NOTE-443), from Rung and Madden (NOTE-1440), and from
-  Khan and Dhar (LIT-tmpgi12m) and Schuhr (LIT-tmpj7m62), who report its
+  précis ([LIT-586](LIT-586.md), [NOTE-443](../notes.d/NOTE-443.md)), from Rung and Madden ([NOTE-1440](../notes.d/NOTE-1440.md)), and from
+  Khan and Dhar ([LIT-tmpgi12m](LIT-tmpgi12m.md)) and Schuhr ([LIT-tmpj7m62](LIT-tmpj7m62.md)), who report its
   design.
 title: 'Making choices in anticipation of similar future choices can increase self-control'
 version: 1
@@ -36,7 +36,7 @@ keywords:
 - 'suggested condition'
 implementations: []
 summary: >-
-  Kirby and Guastello (2001). The study THEORY-067's first promotion
+  Kirby and Guastello (2001). The study [THEORY-067](../theory.d/THEORY-067.md)'s first promotion
   condition names: a series of smaller-sooner/larger-later choices, either
   imposed as a bundle or suggested by telling participants that the
   present choice is the best indication of how they will choose every
@@ -56,15 +56,15 @@ Kris N. Kirby and Barbarose Guastello (2001). *Journal of Experimental Psycholog
 (n = 60) and with food (n = 34); participants who chose a smaller sooner
 reward were offered the same pair as the first of five such choices over
 several weeks, either imposed as one choice for the series or with the
-suggestion that the present choice predicts the rest. Schuhr (LIT-tmpj7m62)
+suggestion that the present choice predicts the rest. Schuhr ([LIT-tmpj7m62](LIT-tmpj7m62.md))
 quotes the suggestion as "the choice you make now is the best indication
 of how you will choose every time" (p. 159) and criticises it as telling
 subjects, as a fact, something not established. Khan and Dhar
-(LIT-tmpgi12m) used the same procedure to manipulate optimism about the
+([LIT-tmpgi12m](LIT-tmpgi12m.md)) used the same procedure to manipulate optimism about the
 future choice. Unverified until read.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-078. It is the only direct test of
-bundling by self-prediction the précis cites, and THEORY-067's
+Registered on 2026-11-22 by [LEAD-078](../leads.d/LEAD-078.md). It is the only direct test of
+bundling by self-prediction the précis cites, and [THEORY-067](../theory.d/THEORY-067.md)'s
 `promote_when` names it.

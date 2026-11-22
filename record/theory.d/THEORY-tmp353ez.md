@@ -21,12 +21,12 @@ source:
 bears_on:
 - QUESTION-034
 summary: >-
-  Khan and Dhar (2007), LIT-tmpgi12m, read in NOTE-tmpq33n0 for LEAD-078.
+  Khan and Dhar (2007), [LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), read in [NOTE-tmpq33n0](../notes.d/NOTE-tmpq33n0.md) for [LEAD-078](../leads.d/LEAD-078.md).
   A recurring choice is a licence unless it is seen as a precedent: the
   vice share rises from 46.6-57.5% in isolation to 70-90% when the same
   choice is announced for next week, and falls to 53% when the chooser is
   told this choice is the best indicator of the next. It bears on
-  THEORY-067's first promotion condition, in part, and on QUESTION-034's
+  [THEORY-067](THEORY-067.md)'s first promotion condition, in part, and on [QUESTION-034](../questions.d/QUESTION-034.md)'s
   bargaining route.
 ---
 <!-- inactive-ok-file: THEORY-067 — Proposed; the account whose promotion condition this reading partly meets -->
@@ -36,7 +36,7 @@ summary: >-
 ## Source
 
 Khan and Dhar (2007), *Journal of Experimental Psychology: General*
-136(2): 277-288, LIT-tmpgi12m, read in NOTE-tmpq33n0.
+136(2): 277-288, [LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), read in [NOTE-tmpq33n0](../notes.d/NOTE-tmpq33n0.md).
 
 ## What was actually shown
 

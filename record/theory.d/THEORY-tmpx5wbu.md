@@ -19,8 +19,8 @@ date: '2026-11-22'
 source:
 - LIT-tmpj7m62
 summary: >-
-  Schuhr (2015), LIT-tmpj7m62, read in part in NOTE-tmpjem53 for
-  LEAD-078. In eight one-session treatments of about thirty students each,
+  Schuhr (2015), [LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md), read in part in [NOTE-tmpjem53](../notes.d/NOTE-tmpjem53.md) for
+  [LEAD-078](../leads.d/LEAD-078.md). In eight one-session treatments of about thirty students each,
   a free series of decisions raised the mixture probability of exponential
   discounting by 0.307 (p = 0.019), forcing the decisions together lowered
   it by 0.330, and stake size did not explain it. Evidence for bundling in
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Alexander Schuhr (2015), doctoral thesis, University of Cape Town,
-LIT-tmpj7m62, read in part in NOTE-tmpjem53.
+[LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md), read in part in [NOTE-tmpjem53](../notes.d/NOTE-tmpjem53.md).
 
 ## What was actually shown
 

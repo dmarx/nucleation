@@ -99,7 +99,7 @@ does, not something the design imposes.
 
 ## Bearing on the record
 
-- **THEORY-067.** Corroborates the bundling half of the account in humans
+- **[THEORY-067](../theory.d/THEORY-067.md).** Corroborates the bundling half of the account in humans
   with real money: a series of choices, not imposed as one, raises the
   weight on patient choice. It does not meet `promote_when` (1): the
   decisions in a row are made at the same moment, so nothing is predicted
@@ -107,13 +107,13 @@ does, not something the design imposes.
   all paid, against one). It is evidence for bundling, not for bundling by
   self-prediction.
 - **Imposed bundles.** That forcing lowered patient choice cuts against
-  reading the imposed-bundle studies (Rung and Madden, NOTE-1440) as the
+  reading the imposed-bundle studies (Rung and Madden, [NOTE-1440](NOTE-1440.md)) as the
   mechanism's best evidence.
-- **Khan and Dhar (NOTE-tmpq33n0).** The contrast is in when the later
+- **Khan and Dhar ([NOTE-tmpq33n0](NOTE-tmpq33n0.md)).** The contrast is in when the later
   choice is made. Here it is made now, beside the first, and patience
   rises; there it is left to a later self, and optimism lowers it. A
-  dated note on THEORY-067 sets the two side by side.
-- **CLAIM-169.** Indirect: more support for bundling, the mechanism the
+  dated note on [THEORY-067](../theory.d/THEORY-067.md) sets the two side by side.
+- **[CLAIM-169](../claims.d/CLAIM-169.md).** Indirect: more support for bundling, the mechanism the
   claim waits on, but not for self-prediction.
 
 ## Limitations
@@ -124,7 +124,7 @@ does, not something the design imposes.
   on the pooled bundling treatments and the mixture model's assumptions.
 - The thesis says "no attempt has been made" to test bundling in humans
   by experimental economics' standards and does not cite Hofmeyr et al.
-  (LIT-tmpqbo3w), a UCT study by Ross's group with Ainslie, which tested
+  ([LIT-tmpqbo3w](../literature.d/LIT-tmpqbo3w.md)), a UCT study by Ross's group with Ainslie, which tested
   suggested and forced bundling with real money.
 - Why forcing lowers patient choice is not shown; the thesis reads it as
   confirming that the bundling is the chooser's, which is one reading.

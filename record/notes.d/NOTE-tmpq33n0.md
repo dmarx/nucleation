@@ -100,7 +100,7 @@ licenses the vice now; predicted consistency removes the licence.
 
 ## Bearing on the record
 
-- **THEORY-067, `promote_when` (1).** The link study varies only whether
+- **[THEORY-067](../theory.d/THEORY-067.md), `promote_when` (1).** The link study varies only whether
   the present choice is presented as a precedent for the next one, with
   the rewards and the choice set unchanged, and choice shifts toward the
   virtue (90% to 53% vice). That is the direction the condition asks for,
@@ -112,15 +112,15 @@ licenses the vice now; predicted consistency removes the licence.
 - **What the paper adds that the précis does not.** Without a perceived
   link, a series lowers self-control: the chooser treats the present
   choice as an exception and predicts virtue later. On Ainslie's account
-  that is a short-range interest finding an exception (NOTE-443, §6.1),
+  that is a short-range interest finding an exception ([NOTE-443](NOTE-443.md), §6.1),
   so the finding is
-  compatible with THEORY-067, and it says the precedent has to be
+  compatible with [THEORY-067](../theory.d/THEORY-067.md), and it says the precedent has to be
   perceived, not given by the series.
-- **CLAIM-169 and CLAIM-198.** Both wait on the mechanism (bundling by
+- **[CLAIM-169](../claims.d/CLAIM-169.md) and [CLAIM-198](../claims.d/CLAIM-198.md).** Both wait on the mechanism (bundling by
   self-prediction). This reading is evidence that perceived precedent
   moves present choice; it does not show that the person's own
-  prediction does, which is what CLAIM-198 asserts.
-- **CLAIM-156.** No bearing on discounting or mindfulness.
+  prediction does, which is what [CLAIM-198](../claims.d/CLAIM-198.md) asserts.
+- **[CLAIM-156](../claims.d/CLAIM-156.md).** No bearing on discounting or mindfulness.
 
 ## Limitations
 

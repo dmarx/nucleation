@@ -40,10 +40,10 @@ summary: >-
   non-smokers made four smaller-sooner/larger-later choices two weeks
   apart, as independent decisions, with a suggestion to think of them as
   a series, or with the first choice imposed on all. By the abstract and
-  Rung and Madden's report (NOTE-1440), smokers chose larger-later more
+  Rung and Madden's report ([NOTE-1440](../notes.d/NOTE-1440.md)), smokers chose larger-later more
   when the choices were bundled, prompted or required, and non-smokers did
   not. The suggested condition is the nearest the literature comes to
-  THEORY-067's first promotion condition with money. Unread; unverified
+  [THEORY-067](../theory.d/THEORY-067.md)'s first promotion condition with money. Unread; unverified
   until read.
 ---
 <!-- inactive-ok-file: THEORY-067 — Proposed; the account this study bears on -->
@@ -63,7 +63,7 @@ suggested condition alone moved smokers, and by how much, is unread.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-078. If its suggested condition moved
+Registered on 2026-11-22 by [LEAD-078](../leads.d/LEAD-078.md). If its suggested condition moved
 smokers without an imposed bundle, it is the closest evidence the search
-found for THEORY-067's first promotion condition; it stays a lead until a
+found for [THEORY-067](../theory.d/THEORY-067.md)'s first promotion condition; it stays a lead until a
 copy is found.

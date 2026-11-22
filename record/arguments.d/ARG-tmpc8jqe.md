@@ -14,17 +14,17 @@ date: '2026-11-22'
 line:
 - will-organization
 summary: >-
-  CLAIM-156 cited Ge et al. (LIT-916), unread, as evidence on the test
+  [CLAIM-156](../claims.d/CLAIM-156.md) cited Ge et al. ([LIT-916](../literature.d/LIT-916.md)), unread, as evidence on the test
   that tells its routes apart: some impulsive behaviours reduced,
-  discounting not improved. Read (NOTE-tmp1yxz6), the behaviours that
+  discounting not improved. Read ([NOTE-tmp1yxz6](../notes.d/NOTE-tmp1yxz6.md)), the behaviours that
   changed are reaction times on the Stroop and Go/No-go tasks, with
   accuracy at ceiling and unchanged, and no choice under temptation was
   measured; nothing was tested as a mediator. Faster responding is not
   shown to be better self-control, so the trial does not show the route.
-  Rejected as evidence for CLAIM-156; the reading takes no edge to it.
-  Standing of the conclusion apart from this route: CLAIM-156 stays
-  Proposed, held in the claim itself, with its premise CLAIM-169 waiting
-  on THEORY-067's mechanism and no study read that tests discounting as a
+  Rejected as evidence for [CLAIM-156](../claims.d/CLAIM-156.md); the reading takes no edge to it.
+  Standing of the conclusion apart from this route: [CLAIM-156](../claims.d/CLAIM-156.md) stays
+  Proposed, held in the claim itself, with its premise [CLAIM-169](../claims.d/CLAIM-169.md) waiting
+  on [THEORY-067](../theory.d/THEORY-067.md)'s mechanism and no study read that tests discounting as a
   mediator. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -34,9 +34,9 @@ summary: >-
 
 ## The inference
 
-As CLAIM-156 set it up: the claim's first test is whether choice under
+As [CLAIM-156](../claims.d/CLAIM-156.md) set it up: the claim's first test is whether choice under
 temptation and response inhibition improve after practice by more than
-any change in discounting carries. Ge et al. (THEORY-tmpbidvo) report a
+any change in discounting carries. Ge et al. ([THEORY-tmpbidvo](../theory.d/THEORY-tmpbidvo.md)) report a
 change in inhibition-task performance and none in discounting. If
 self-control improved and discounting did not move, the improvement was
 not carried by discounting, which is what the claim predicts and its
@@ -67,7 +67,7 @@ defeat condition denies.
 
 ## Verdict
 
-Rejected as evidence for CLAIM-156. The trial is filed as a reading with
+Rejected as evidence for [CLAIM-156](../claims.d/CLAIM-156.md). The trial is filed as a reading with
 a dated note on the claim, and takes no edge to it. What would carry the
 weight is a trial that measures discounting and a self-control outcome in
 which the tempting option is withheld (choice under temptation, No-go

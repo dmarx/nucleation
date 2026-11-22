@@ -236,15 +236,15 @@ and rats. Those bundles are imposed, a choice made for a whole series, which
 2026-10-29, [CLAIM-159](../claims.d/CLAIM-159.md) on [THEORY-1117](THEORY-1117.md) and [CLAIM-344](../claims.d/CLAIM-344.md) with this reading as
 corroboration, and neither bears on whether the mechanism holds.
 
-## Note of 2026-11-22: LEAD-078, bundling by self-prediction
+## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), bundling by self-prediction
 
-LEAD-078 searched for evidence on `promote_when` (1): changing only
+[LEAD-078](../leads.d/LEAD-078.md) searched for evidence on `promote_when` (1): changing only
 whether a single choice is perceived as a precedent for later ones, with
 the rewards and the choice set unchanged
 (scratch/studies/lead-078/search.md). Two works were read and two
 registered unread.
 
-- **Khan and Dhar (LIT-tmpgi12m, THEORY-tmp353ez), read: meets (1) in
+- **Khan and Dhar ([LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), [THEORY-tmp353ez](THEORY-tmp353ez.md)), read: meets (1) in
   part.** Knowing that the same choice recurs, with nothing said about how
   the choices relate, *raised* the vice share (70-90% against 46.6-57.5%
   in isolation) and the share taking smaller sooner money (64.5% against
@@ -260,10 +260,10 @@ registered unread.
   dated money.
 - **What it adds to the account.** A series that is not perceived as a
   precedent lowers self-control: the present choice becomes the exception
-  the précis says short-range interests look for (NOTE-443, §6.1). So
+  the précis says short-range interests look for ([NOTE-443](../notes.d/NOTE-443.md), §6.1). So
   the account needs the precedent to be perceived; the series alone is
   not enough, and can cut the other way.
-- **Schuhr (LIT-tmpj7m62, THEORY-tmpx5wbu), read in part: bundling,
+- **Schuhr ([LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md), [THEORY-tmpx5wbu](THEORY-tmpx5wbu.md)), read in part: bundling,
   not self-prediction.** In a real-money experiment designed with Ainslie,
   a free series of paired decisions, chosen at once, made first choices
   more patient and raised the mixture weight on exponential discounting by
@@ -278,8 +278,8 @@ registered unread.
   what matters is whether the present choice is taken to predict the
   later ones. It is the assistant's reading across two studies, not a
   result of either.
-- **Registered, unread.** Kirby and Guastello (LIT-tmpk7imr), the study
-  (1) names, and Hofmeyr, Ainslie, Charlton and Ross (LIT-tmpqbo3w), whose
+- **Registered, unread.** Kirby and Guastello ([LIT-tmpk7imr](../literature.d/LIT-tmpk7imr.md)), the study
+  (1) names, and Hofmeyr, Ainslie, Charlton and Ross ([LIT-tmpqbo3w](../literature.d/LIT-tmpqbo3w.md)), whose
   suggested-series condition is the closest design with money found, are
   both Unavailable: no lawful copy was found.
 

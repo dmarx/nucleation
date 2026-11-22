@@ -197,19 +197,19 @@ No status, title or warrant changes.
 
 Rechecked after Metzinger's [LIT-1941](../literature.d/LIT-1941.md) and [LIT-1942](../literature.d/LIT-1942.md) were read on 2026-11-01. They describe meditation as cultivating a veto over trains of thought and measure neither discounting nor choice under temptation. The wait of the note of 2026-10-30 stands: [CLAIM-169](CLAIM-169.md) is Proposed until [THEORY-067](../theory.d/THEORY-067.md)'s bundling by self-prediction is tested, and no study read asks whether discounting mediates a change in self-control after practice.
 
-## Note of 2026-11-22: LEAD-078, Ge et al. read; no mediation study found
+## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), Ge et al. read; no mediation study found
 
-- **Ge et al. (LIT-916), now read (NOTE-tmp1yxz6, THEORY-tmpbidvo).**
+- **Ge et al. ([LIT-916](../literature.d/LIT-916.md)), now read ([NOTE-tmp1yxz6](../notes.d/NOTE-tmp1yxz6.md), [THEORY-tmpbidvo](../theory.d/THEORY-tmpbidvo.md)).**
   A week of monitor-and-acceptance training shortened Stroop and Go/No-go
   reaction times at post-test, with accuracy above 95% and unchanged, and
   left delay discounting unchanged in every arm; nothing lasted two weeks.
   The dissociation is the pattern this claim predicts, but the outcomes
   that moved are response speeds, not withheld responses or choice under
-  temptation, and no mediation was tested. ARG-tmpc8jqe holds that the
+  temptation, and no mediation was tested. [ARG-tmpc8jqe](../arguments.d/ARG-tmpc8jqe.md) holds that the
   trial does not show this claim's route (Rejected); it takes no edge.
   The body's summary of it ("some impulsive behaviours reduced, discounting
   not improved") is accurate to the abstract.
-- **The search for a mediation test.** LEAD-078's search
+- **The search for a mediation test.** [LEAD-078](../leads.d/LEAD-078.md)'s search
   (scratch/studies/lead-078/search.md, queries 3, 4, 7, 8) found no
   intervention study that measures discounting and a self-control outcome
   before and after mindfulness practice and tests discounting as a
@@ -220,8 +220,8 @@ Rechecked after Metzinger's [LIT-1941](../literature.d/LIT-1941.md) and [LIT-194
   mindful-eating trial, Shead et al. 2020, Elices et al. 2016, Yao et al.
   2017), none registered here. The gap the note of 2026-11-06 names
   stands.
-- **The premise.** CLAIM-169 still waits on THEORY-067's mechanism; the
-  bundling readings of LEAD-078 do not release it (dated note on
-  CLAIM-169 of the same day).
+- **The premise.** [CLAIM-169](CLAIM-169.md) still waits on [THEORY-067](../theory.d/THEORY-067.md)'s mechanism; the
+  bundling readings of [LEAD-078](../leads.d/LEAD-078.md) do not release it (dated note on
+  [CLAIM-169](CLAIM-169.md) of the same day).
 
 No status, title or warrant change.

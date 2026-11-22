@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE, LEAD-078 reading), from a copy of the
+  read in full 2026-11-22 (NOTE, [LEAD-078](../leads.d/LEAD-078.md) reading), from a copy of the
   published article on a faculty site's media store
   (https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/48/2019/06/WhereThereisaWayIsThereaWill.pdf;
-  ADR-074). Five experiments and two further studies: telling people that
+  [ADR-074](../decisions.d/ADR-074.md)). Five experiments and two further studies: telling people that
   the same choice will recur raises the share choosing the vice, or the
   smaller sooner money, now; telling them that this choice is the best
   indicator of their next one takes most of that rise away.
@@ -41,15 +41,15 @@ keywords:
 - 'precedent'
 implementations: []
 summary: >-
-  Khan and Dhar (2007). The nearest test the LEAD-078 search found of
+  Khan and Dhar (2007). The nearest test the [LEAD-078](../leads.d/LEAD-078.md) search found of
   bundling by self-prediction with the rewards and the choice set held
   fixed. Knowing that the same choice recurs, with nothing said about how
   the choices relate, lowers self-control now (vice shares of 70-90%
   against 46.6-57.5% in isolation), through optimism about the next
   choice and less anticipated guilt. Telling people that today's choice is
   the best indicator of next week's brings the vice share from 90% back
-  to 53%, near the isolated 46.6%. It bears on THEORY-067's first
-  promotion condition and on CLAIM-169.
+  to 53%, near the isolated 46.6%. It bears on [THEORY-067](../theory.d/THEORY-067.md)'s first
+  promotion condition and on [CLAIM-169](../claims.d/CLAIM-169.md).
 ---
 <!-- inactive-ok-file: THEORY-067 CLAIM-169 — Proposed; the account and the claim this reading bears on -->
 
@@ -73,7 +73,7 @@ Uzma Khan and Ravi Dhar (2007). *Journal of Experimental Psychology: General* 13
 
 ## Standing in the record
 
-Read on 2026-11-22 for LEAD-078, as a test of bundling by
-self-prediction (THEORY-067's first promotion condition) that leaves the
+Read on 2026-11-22 for [LEAD-078](../leads.d/LEAD-078.md), as a test of bundling by
+self-prediction ([THEORY-067](../theory.d/THEORY-067.md)'s first promotion condition) that leaves the
 rewards and the choice set unchanged. Not held in the anthology as far as
 this record knows.

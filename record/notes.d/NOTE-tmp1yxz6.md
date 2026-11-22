@@ -100,7 +100,7 @@ discount curve.
 
 ## Bearing on the record
 
-- **CLAIM-156.** The claim's first test asks whether choice under
+- **[CLAIM-156](../claims.d/CLAIM-156.md).** The claim's first test asks whether choice under
   temptation and response inhibition improve by more than any change in
   discounting carries. Here discounting did not change and Stroop and
   Go/No-go reaction times did, so nothing that changed could have been
@@ -108,14 +108,14 @@ discount curve.
   changed measures are speeds with accuracy at ceiling: a shorter Go
   reaction time is not a better inhibition of a dominant response, and
   no measure of choice under temptation was taken. So the study does not
-  show the claim's route; ARG-tmpc8jqe records the judgement, Rejected.
+  show the claim's route; [ARG-tmpc8jqe](../arguments.d/ARG-tmpc8jqe.md) records the judgement, Rejected.
   The record's earlier summary ("some impulsive behaviours reduced,
   discounting not improved") is accurate to the abstract.
-- **LIT-906 (Dixon et al.).** Dixon et al. report discounting lowered by
+- **[LIT-906](../literature.d/LIT-906.md) (Dixon et al.).** Dixon et al. report discounting lowered by
   five minutes of mindful breathing; this trial, with a week of practice,
   finds no change. The two disagree on the flow route, unread on one side.
 - **No mediation test.** The trial does not ask whether discounting
-  mediates anything, so the gap CLAIM-156 and LEAD-078 name stays open.
+  mediates anything, so the gap [CLAIM-156](../claims.d/CLAIM-156.md) and [LEAD-078](../leads.d/LEAD-078.md) name stays open.
 
 ## Limitations
 

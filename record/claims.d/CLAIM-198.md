@@ -147,11 +147,11 @@ edge.
 
 *Drawn by the assistant and filed at the owner's request.*
 
-## Note of 2026-11-22: LEAD-078, background
+## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), background
 
 This claim asserts that self-prediction creates the overlap between
 interests that govern a choice at different times. Khan and Dhar
-(LIT-tmpgi12m, read for LEAD-078) bear on it as background: people
+([LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), read for [LEAD-078](../leads.d/LEAD-078.md)) bear on it as background: people
 predict a more virtuous next choice than they make (67% against 36%), and
 a recurring choice not seen as a precedent lowers self-control now.
 Predicting one's later choice is thus something people do and act on, but

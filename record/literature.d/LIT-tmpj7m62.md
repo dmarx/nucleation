@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-22 (NOTE, LEAD-078 reading), from the University
+  read in part 2026-11-22 (NOTE, [LEAD-078](../leads.d/LEAD-078.md) reading), from the University
   of Cape Town's institutional repository (OpenUCT, handle 11427/15696,
-  file thesis_com_2015_schuhr_alexander.pdf; ADR-074). A doctoral thesis
+  file thesis_com_2015_schuhr_alexander.pdf; [ADR-074](../decisions.d/ADR-074.md)). A doctoral thesis
   reporting a laboratory experiment with real money, one session per
   treatment: choices presented as a series of two or three paired
   decisions, free or forced, were more patient than the same choices
@@ -45,7 +45,7 @@ summary: >-
   with no constraint between them, were more often larger-later than the
   same choices presented singly, and a mixture model put 31 points more
   probability on exponential discounting with bundling. Forcing the
-  decisions to match lowered that probability. It bears on THEORY-067's
+  decisions to match lowered that probability. It bears on [THEORY-067](../theory.d/THEORY-067.md)'s
   bundling, but its series is chosen all at once, so it is not a test of
   bundling by self-prediction across time.
 ---
@@ -69,6 +69,6 @@ Alexander Schuhr (2015). Doctoral thesis, School of Economics, University of Cap
 
 ## Standing in the record
 
-Read on 2026-11-22 for LEAD-078, as the human experiment on bundling that
+Read on 2026-11-22 for [LEAD-078](../leads.d/LEAD-078.md), as the human experiment on bundling that
 Ainslie helped design. It does not vary perceived precedent across time,
-so it does not meet THEORY-067's first promotion condition.
+so it does not meet [THEORY-067](../theory.d/THEORY-067.md)'s first promotion condition.

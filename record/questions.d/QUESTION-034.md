@@ -89,14 +89,14 @@ self-control: every route does that.
 
 [THEORY-044](../theory.d/THEORY-044.md) now carries an `answered_by` edge. In ACT's self-as-context perspective, content and process are both contacted but "neither obtain absolute control" over the decision. That supports this question's second option, a change in which interest may act. It is the reading [CLAIM-156](../claims.d/CLAIM-156.md) already relies on.
 
-## Note of 2026-11-22: LEAD-078, bargaining needs a perceived precedent
+## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), bargaining needs a perceived precedent
 
-Khan and Dhar (LIT-tmpgi12m, THEORY-tmp353ez), read for LEAD-078, bear
+Khan and Dhar ([LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), [THEORY-tmp353ez](../theory.d/THEORY-tmp353ez.md)), read for [LEAD-078](../leads.d/LEAD-078.md), bear
 on the bargaining route: a recurring choice that is not seen as a
 precedent lowers self-control now, through optimism about the next
 choice, and an asserted precedent restores it to about the isolated
 level. If interests act as one by bargaining, the precedent has to be
 perceived, and a series alone can divide them further. Ge et al.
-(LIT-916, read) bear on the route of a change in which interests may act
+([LIT-916](../literature.d/LIT-916.md), read) bear on the route of a change in which interests may act
 only weakly: faster responses after mindfulness training with discounting
-unchanged, not shown to be self-control (ARG-tmpc8jqe).
+unchanged, not shown to be self-control ([ARG-tmpc8jqe](../arguments.d/ARG-tmpc8jqe.md)).

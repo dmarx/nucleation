@@ -49,20 +49,20 @@ Done on branch claude/lead-078-bundling
 (scratch/studies/lead-078/search.md and PROGRESS.md).
 
 - **Searched** both kinds of study (twelve queries, logged).
-- **Read** three works: Khan and Dhar 2007 (LIT-tmpgi12m, NOTE-tmpq33n0,
-  THEORY-tmp353ez), Schuhr 2015 (LIT-tmpj7m62, NOTE-tmpjem53,
-  THEORY-tmpx5wbu) and Ge et al. 2024 (LIT-916, now Active; NOTE-tmp1yxz6,
-  THEORY-tmpbidvo, ARG-tmpc8jqe).
-- **Registered** two unread: Kirby and Guastello 2001 (LIT-tmpk7imr) and
-  Hofmeyr et al. 2011 (LIT-tmpqbo3w), both Unavailable.
+- **Read** three works: Khan and Dhar 2007 ([LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), [NOTE-tmpq33n0](../notes.d/NOTE-tmpq33n0.md),
+  [THEORY-tmp353ez](../theory.d/THEORY-tmp353ez.md)), Schuhr 2015 ([LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md), [NOTE-tmpjem53](../notes.d/NOTE-tmpjem53.md),
+  [THEORY-tmpx5wbu](../theory.d/THEORY-tmpx5wbu.md)) and Ge et al. 2024 ([LIT-916](../literature.d/LIT-916.md), now Active; [NOTE-tmp1yxz6](../notes.d/NOTE-tmp1yxz6.md),
+  [THEORY-tmpbidvo](../theory.d/THEORY-tmpbidvo.md), [ARG-tmpc8jqe](../arguments.d/ARG-tmpc8jqe.md)).
+- **Registered** two unread: Kirby and Guastello 2001 ([LIT-tmpk7imr](../literature.d/LIT-tmpk7imr.md)) and
+  Hofmeyr et al. 2011 ([LIT-tmpqbo3w](../literature.d/LIT-tmpqbo3w.md)), both Unavailable.
 - **Result, self-predicted bundling.** One direct manipulation of
   perceived precedent found (Khan and Dhar's link study): it moves choice
   toward the virtue, back to about the isolated rate, with the precedent
-  asserted by the experimenter. THEORY-067's `promote_when` (1) is met in
-  part, not fully; dated notes on THEORY-067 and CLAIM-169.
+  asserted by the experimenter. [THEORY-067](../theory.d/THEORY-067.md)'s `promote_when` (1) is met in
+  part, not fully; dated notes on [THEORY-067](../theory.d/THEORY-067.md) and [CLAIM-169](../claims.d/CLAIM-169.md).
 - **Result, discounting as mediator.** No study found that tests it. Ge
   et al. dissociate faster responding from unchanged discounting and do
-  not show CLAIM-156's route; dated note on CLAIM-156.
+  not show [CLAIM-156](../claims.d/CLAIM-156.md)'s route; dated note on [CLAIM-156](../claims.d/CLAIM-156.md).
 
 **What remains.** A copy of Kirby and Guastello and of Hofmeyr et al.;
 a study in which the chooser's own prediction, not an instruction, makes
