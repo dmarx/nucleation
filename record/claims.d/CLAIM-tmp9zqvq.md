@@ -26,10 +26,10 @@ grounds:
 complements:
 - CLAIM-tmpg8m7a
 summary: >-
-  The SGD half of LEAD-175, run in CASE-tmpgqbyq. It answers the part of
-  QUESTION-363 that asked whether "inaccessible" and "not reached in 4,500
+  The SGD half of [LEAD-175](../leads.d/LEAD-175.md), run in [CASE-tmpgqbyq](../cases.d/CASE-tmpgqbyq.md). It answers the part of
+  [QUESTION-363](../questions.d/QUESTION-363.md) that asked whether "inaccessible" and "not reached in 4,500
   epochs at one setting" could be told apart for Chen et al.'s 5 → 6
-  (THEORY-1275). The sweep has 1,008 runs not started at the 6-gon: n
+  ([THEORY-1275](../theory.d/THEORY-1275.md)). The sweep has 1,008 runs not started at the 6-gon: n
   from 300 to 2,000, batch 1 to 100, rates 0.001 to 0.2, four
   initialisations, up to 45,000 epochs. None reached the 6-gon. Higher
   noise removed features instead of adding them. The wording is the
@@ -41,9 +41,9 @@ summary: >-
 
 ## The claim
 
-THEORY-1275 left the missing 5 → 6 between two readings: the 6-gon is
+[THEORY-1275](../theory.d/THEORY-1275.md) left the missing 5 → 6 between two readings: the 6-gon is
 inaccessible to SGD, or it was not reached in 4,500 epochs at the paper's
-one setting (batch 20, rate 0.005). The sweep in CASE-tmpgqbyq varied
+one setting (batch 20, rate 0.005). The sweep in [CASE-tmpgqbyq](../cases.d/CASE-tmpgqbyq.md) varied
 every quantity that reading named:
 
 - n = 300 and 500, below 600, and 700, 1,000 and 2,000, above it;
@@ -58,7 +58,7 @@ their live column, ending at the 5-gon or, at rate 0.2, at a 4-gon.
 
 The two routes to the 6-gon differ:
 
-- **Through the 5-gon** the move is closed, by CLAIM-tmpg8m7a: the
+- **Through the 5-gon** the move is closed, by [CLAIM-tmpg8m7a](CLAIM-tmpg8m7a.md): the
   dropped feature gets no gradient from any sample.
 - **Through the 5⁺-gon**, whose sixth column is alive with a positive
   bias, the move is open in principle. In 56 runs at batch 20 and 100,
@@ -67,7 +67,7 @@ The two routes to the 6-gon differ:
 So, for this model and this trainer, the gap between the posterior,
 dominated by the 6-gon at the training sample size, and SGD's endpoint
 comes from accessibility, not from time or temperature within the ranges
-tried. One of QUESTION-363's three candidates, "the accessibility of
+tried. One of [QUESTION-363](../questions.d/QUESTION-363.md)'s three candidates, "the accessibility of
 regions and the barriers between them", is the one that acts here. On
 the 5-gon route there is no barrier to cross at all: the noise is zero in
 the coordinates the crossing needs.

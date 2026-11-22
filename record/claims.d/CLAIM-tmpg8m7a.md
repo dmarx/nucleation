@@ -23,9 +23,9 @@ grounds:
 complements:
 - CLAIM-tmp9zqvq
 summary: >-
-  Derived for LEAD-175 and checked in its study (CASE-tmpgqbyq). It is
+  Derived for [LEAD-175](../leads.d/LEAD-175.md) and checked in its study ([CASE-tmpgqbyq](../cases.d/CASE-tmpgqbyq.md)). It is
   the mechanism behind the missing 5 → 6 in Chen et al.'s toy model
-  (THEORY-1275): at the 5-gon the sixth column is zero and its bias
+  ([THEORY-1275](../theory.d/THEORY-1275.md)): at the 5-gon the sixth column is zero and its bias
   negative, so the sixth output is zero for every input and the sixth
   input reaches no output. SGD's noise, a sum of per-sample gradients, is
   then zero in those coordinates, and they stay where they are. The
@@ -80,10 +80,10 @@ whatever its rate, batch size or length.
 
 - **That the 6-gon is closed to SGD from every start.** A feature still
   alive, such as the positive-bias column of the 5⁺-gon, is not covered.
-  That route is CLAIM-tmp9zqvq's, and it is empirical.
+  That route is [CLAIM-tmp9zqvq](CLAIM-tmp9zqvq.md)'s, and it is empirical.
 - **Anything about other trainers.** Weight decay, injected Langevin noise
   and momentum with a nonzero initial velocity in those coordinates are
   not plain SGD. The first two act on the frozen coordinates directly.
 - **That the noise is a temperature.** It says where SGD's noise is not a
-  temperature in Dong's sense (THEORY-1353): it vanishes identically on a
+  temperature in Dong's sense ([THEORY-1353](../theory.d/THEORY-1353.md)): it vanishes identically on a
   set where the posterior's does not.

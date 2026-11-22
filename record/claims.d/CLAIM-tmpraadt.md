@@ -23,14 +23,14 @@ grounds:
 - CASE-tmpgqbyq
 - THEORY-1275
 summary: >-
-  The posterior half of LEAD-175, run in CASE-tmpgqbyq. It is the
+  The posterior half of [LEAD-175](../leads.d/LEAD-175.md), run in [CASE-tmpgqbyq](../cases.d/CASE-tmpgqbyq.md). It is the
   "posterior sampling across n that confirms the chain's critical sample
-  sizes" that QUESTION-363's note of 2026-11-06 asked for. Tempering and
+  sizes" that [QUESTION-363](../questions.d/QUESTION-363.md)'s note of 2026-11-06 asked for. Tempering and
   region-confined sampling with thermodynamic integration agree to 0.13
   nats and reproduce Table 1's learning coefficients. The formula's
   critical sizes for the chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ (190, 370, 1,600–2,500)
   are not found. Their rising order survives only trivially, with the
-  first two steps already settled at the prior. THEORY-1275's statement
+  first two steps already settled at the prior. [THEORY-1275](../theory.d/THEORY-1275.md)'s statement
   that the posterior favours the 6-gon at n = 1,000 holds on either scale.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
@@ -41,13 +41,13 @@ summary: >-
 
 ## The claim
 
-THEORY-1275 computed the Bayesian antecedents of the training chain
+[THEORY-1275](../theory.d/THEORY-1275.md) computed the Bayesian antecedents of the training chain
 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ from Chen et al.'s formula
 f_α(n) = nL_α + λ_α log n + c_α. It used Table 1's L, Table K.1's λ̂ and
 Table C.2's constants c_α, which are the prior's −log φ at each critical
 point alone. It found n ≈ 190, 370 and 1,600–2,500, rising with training.
 
-**What sampling finds.** CASE-tmpgqbyq sampled the target of that formula,
+**What sampling finds.** [CASE-tmpgqbyq](../cases.d/CASE-tmpgqbyq.md) sampled the target of that formula,
 exp(−nL)·N(0, I), with L the population loss. Each region's free energy
 was obtained by thermodynamic integration from the prior. Its log-odds
 agree with a parallel-tempering run's occupancy to 0.13 nats rms, and the
@@ -70,14 +70,14 @@ only one of the four steps the paper checked by sampling. The formula's
 
 **What it changes.**
 
-- **The posterior's favourite.** THEORY-1275's "the posterior at n = 1,000
+- **The posterior's favourite.** [THEORY-1275](../theory.d/THEORY-1275.md)'s "the posterior at n = 1,000
   favours the 6-gon" stands on either scale: the 6-gon holds 96% of the
   mass by n = 480 on the formula's scale.
-- **The rising order.** THEORY-1275's antecedent sizes, and the rising
+- **The rising order.** [THEORY-1275](../theory.d/THEORY-1275.md)'s antecedent sizes, and the rising
   order they show, rest on the formula with prior-only constants. Sampling
   keeps the order only in the weak sense that the first two steps come
   first, at the prior. The order's support is therefore weaker than
-  THEORY-1275 says. Its note of 2026-11-06 already found the order
+  [THEORY-1275](../theory.d/THEORY-1275.md) says. Its note of 2026-11-06 already found the order
   fragile under the λ̂ spread.
 
 ## What it does not say

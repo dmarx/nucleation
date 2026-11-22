@@ -25,12 +25,12 @@ reported_in:
 draws_on:
 - THEORY-1353
 summary: >-
-  LEAD-175 asked for the two tests QUESTION-363's note of 2026-11-06 moved
-  there from THEORY-1275: SGD at n = 1,000 and on both sides of n ≈ 600
+  [LEAD-175](../leads.d/LEAD-175.md) asked for the two tests [QUESTION-363](../questions.d/QUESTION-363.md)'s note of 2026-11-06 moved
+  there from [THEORY-1275](../theory.d/THEORY-1275.md): SGD at n = 1,000 and on both sides of n ≈ 600
   across rates, batch sizes and initialisations, to see whether the 6-gon
   is reached; and posterior sampling across n to check the critical sample
   sizes the free-energy formula gives for the chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺.
-  In the model of Chen et al. (LIT-1894), in numpy: no SGD run reached the
+  In the model of Chen et al. ([LIT-1894](../literature.d/LIT-1894.md)), in numpy: no SGD run reached the
   6-gon. The 5-gon's dropped feature gets an exactly zero gradient from
   every sample, so SGD cannot move it at any setting. The 5⁺-gon is a
   live local minimum that SGD does not leave in 45,000 epochs. Sampling
@@ -49,7 +49,7 @@ summary: >-
 
 ## What was done
 
-The model is Chen et al.'s (LIT-1894, as read in THEORY-1275). It has
+The model is Chen et al.'s ([LIT-1894](../literature.d/LIT-1894.md), as read in [THEORY-1275](../theory.d/THEORY-1275.md)). It has
 c = 6 features and r = 2 hidden dimensions, in the high-sparsity limit:
 x = μe_i, with i uniform and μ ~ U[0, 1]. The network is
 f(x) = ReLU(WᵀWx + b), with loss ‖x − f(x)‖². Table 1's L carries no
@@ -164,12 +164,12 @@ size and time, by construction and not by a barrier.
 is "not reached", not shown closed.
 
 **The noise.** SGD's noise is zero exactly where the posterior's prior
-acts. This bears on QUESTION-363's "effective temperature": the
+acts. This bears on [QUESTION-363](../questions.d/QUESTION-363.md)'s "effective temperature": the
 stationary accounts' temperature does not reach directions in which
-every sample's gradient vanishes, as Dong's test of isotropy (THEORY-1353)
+every sample's gradient vanishes, as Dong's test of isotropy ([THEORY-1353](../theory.d/THEORY-1353.md))
 would lead one to expect.
 
-**The posterior side.** The critical sizes THEORY-1275 computed from the
+**The posterior side.** The critical sizes [THEORY-1275](../theory.d/THEORY-1275.md) computed from the
 formula are not what sampling finds, apart from 5 → 6 on Chen et al.'s
 own scale. The chain's first two steps have no crossing in the range
 where SGD trains. The regions are ordered 4⁺⁺⁻ < 4⁺ < 5 in the posterior
@@ -194,6 +194,6 @@ from n ≈ 1, and 5⁺ overtakes 5 at n ≈ 780 in the formula's units.
 
 ## Filed from it
 
-- CLAIM-tmpg8m7a: the dropped feature's frozen gradient.
-- CLAIM-tmp9zqvq: the sweep's result for QUESTION-363.
-- CLAIM-tmpraadt: the posterior's critical sizes.
+- [CLAIM-tmpg8m7a](../claims.d/CLAIM-tmpg8m7a.md): the dropped feature's frozen gradient.
+- [CLAIM-tmp9zqvq](../claims.d/CLAIM-tmp9zqvq.md): the sweep's result for [QUESTION-363](../questions.d/QUESTION-363.md).
+- [CLAIM-tmpraadt](../claims.d/CLAIM-tmpraadt.md): the posterior's critical sizes.

@@ -42,13 +42,13 @@ for [QUESTION-363](../questions.d/QUESTION-363.md).
 
 Done by a delegated worker on branch claude/lead-175-superposition-sweep
 (scratch/studies/lead-175/). The SGD sweep and posterior sampling across
-n are filed as CASE-tmpgqbyq. The claims filed from it:
+n are filed as [CASE-tmpgqbyq](../cases.d/CASE-tmpgqbyq.md). The claims filed from it:
 
-- CLAIM-tmpg8m7a: the 5-gon's dropped feature gets no gradient under
+- [CLAIM-tmpg8m7a](../claims.d/CLAIM-tmpg8m7a.md): the 5-gon's dropped feature gets no gradient under
   SGD;
-- CLAIM-tmp9zqvq: the 6-gon is not reached at any setting tried;
+- [CLAIM-tmp9zqvq](../claims.d/CLAIM-tmp9zqvq.md): the 6-gon is not reached at any setting tried;
   "inaccessible", for this model;
-- CLAIM-tmpraadt: the posterior's critical sizes differ from the
+- [CLAIM-tmpraadt](../claims.d/CLAIM-tmpraadt.md): the posterior's critical sizes differ from the
   formula's, and there is a factor-½ difference of scale in Chen et al.
 
 **What remains:**
