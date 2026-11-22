@@ -26,10 +26,11 @@ any of the 15 LITs; none is already read.
 - LIT-2245 Ko: NOTE-tmpw116e, THEORY-tmp8cdhs; notes on QUESTION-063, CLAIM-172, CASE-179.
 - LIT-2230 Ocampo-Espindola: NOTE-tmp5rss0, THEORY-tmpsyokc; notes on CLAIM-167, CLAIM-172, QUESTION-063, QUESTION-147.
 - LIT-2253 Bačić: NOTE-tmp7pvg9, THEORY-tmpcdxvd, CLAIM-tmp7vutq (twisted local minima; twisted.py + test_twisted.py, result twisted_result.txt); notes on CLAIM-153, THEORY-1082.
+- LIT-2267 Manik: NOTE-tmpftn2t, THEORY-tmpnlu47 (corroborates CLAIM-tmp7vutq); notes on CLAIM-153, QUESTION-282.
 
 ## Next (order chosen by what the claims most need)
 
-LIT-2267 Manik; LIT-2250 Widder;
+LIT-2250 Widder;
 LIT-2256 Wang & Tang; LIT-2249 Stewart; LIT-2232 Dörfler; LIT-2258 Schultz 2016;
 LIT-2238 Bumpus; LIT-2262 Leal; LIT-2259 Bosca; LIT-2235 Schultz & Spivak;
 LIT-2239 Battiston; LIT-2265 Pecora (Unavailable); dated note on LEAD-023.
