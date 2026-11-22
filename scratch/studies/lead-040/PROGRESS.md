@@ -23,9 +23,12 @@
   definition; restarted 2026-11-22 from scratch (10 items, about a minute
   each, time limit 40 min), writing results.jsonl item by item.
 
+- Full run done: results.jsonl holds all ten items; params/ holds weights.
+  check_erasure.py / erasure.txt: where an erased anchored wall goes.
+  Coordinator asked to resume; branch was already current, nothing lost.
+
 ## Next
 
-- Wait for results.jsonl (resumable: rerun run.py, done ids are skipped).
 - Summarize; write README; file CASE, CLAIM if warranted, notes on
   QUESTION-491 and LEAD-040, changelog fragment.
 
