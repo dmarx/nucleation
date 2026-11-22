@@ -14,6 +14,7 @@ claude/readings-sweep (PR #649) are not cited.
 - LIT-2175 dated notes: CLAIM-603 (Radical Self-reliance correction; stale "Unavailable"), NOTE-1662, THEORY-1497, THEORY-1546, NOTE-1658, NOTE-1679, LIT-2188.
 - LIT-tmpa7f10: NOTE-tmp11fci, THEORY-tmp4qq57, LIT to Active (v2), author order (Syropoulos first, joint with Law), version 2024-05-21.
 - LIT-tmpa7f10 dated notes: CLAIM-492, QUESTION-299, QUESTION-300, QUESTION-301, LEAD-062, CASE-tmp413kq, LIT-1713, NOTE-1293, THEORY-1579, LIT-1702, NOTE-1259, NOTE-1274.
+- Curation record/curation.d/2026/11/22/115943.md; changelog record/changelog.d/readings-sweep-d.md.
 
 ## Next
-- Curation; changelog.
+- Nothing: batch D is filed. Report to the caller.
