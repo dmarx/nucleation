@@ -27,6 +27,7 @@ summary: >-
   [CLAIM-768](../claims.d/CLAIM-768.md) it cannot by itself say whether exact copying or contraction
   did the settling, which is what [LEAD-201](LEAD-201.md) adds.
 ---
+<!-- inactive-ok-file: CASE-tmpdcoyb CLAIM-tmpylhdj CLAIM-tmpdsiv5 — Proposed; LEAD-199's study of 2026-11-22 and its two readings -->
 <!-- inactive-ok-file: CLAIM-778 CLAIM-768 — Proposed or Open; filed in this contribution of 2026-11-20 -->
 <!-- inactive-ok-file: ARG-028 — Proposed; its inbound-reference measure is the one reused here -->
 
@@ -67,3 +68,7 @@ positive result goes with [LEAD-201](LEAD-201.md) before it is read as support.
 A script over `git log`, an afternoon, once the history is unshallowed. The
 classification of a commit as substantive is the part to check by hand on a
 sample.
+
+## Note of 2026-11-22: run
+
+Run as specified (CASE-tmpdcoyb; scripts, data and hand-checks under scratch/studies/lead-199/). At matched age, cited claims are revised more often than uncited ones, which meets CLAIM-778's defeater (a); readings filed as CLAIM-tmpylhdj and CLAIM-tmpdsiv5. The lead stays Open for the owner to mark Done; what remains, by CLAIM-768, is LEAD-201's retention measure, and for CLAIM-tmpdsiv5 a count of audits.
