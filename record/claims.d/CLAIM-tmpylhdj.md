@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Inbound rests_on and grounds edges do not move a claim''s text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so CLAIM-778''s defeater (a) is met and the claim is false as it stands'
+title: 'Inbound rests_on and grounds edges do not move a claim''s text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so the settling claim''s defeater (a) is met and that claim is false as it stands'
 version: 1
 history:
 - version: 1
@@ -41,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpdcoyb CLAIM-772 CLAIM-778 CLAIM-tmpdsiv5 — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
 
-# CLAIM-tmpylhdj: Inbound rests_on and grounds edges do not move a claim's text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so [CLAIM-778](CLAIM-778.md)'s defeater (a) is met and the claim is false as it stands
+# CLAIM-tmpylhdj: Inbound rests_on and grounds edges do not move a claim's text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so the settling claim's defeater (a) is met and that claim is false as it stands
 
 **One of two readings of [CASE-tmpdcoyb](../cases.d/CASE-tmpdcoyb.md); the other is [CLAIM-tmpdsiv5](CLAIM-tmpdsiv5.md).** This is the reading that takes [CLAIM-778](CLAIM-778.md) at its word. Its defeater (a) was stated in advance, and the count meets it: at matched age, cited claims are revised more, not less. [CLAIM-778](CLAIM-778.md)'s admission foresaw the route ("If heavily cited entries draw more audits and revisions, because scrutiny follows citation, substantive revision rises with inbound edges while every premise holds") and said a result like this "shows the claim false rather than merely separate".
 
