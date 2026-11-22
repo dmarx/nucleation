@@ -74,9 +74,13 @@
   dated notes on THEORY-067, CLAIM-169, CLAIM-156, CLAIM-162, CLAIM-159,
   CLAIM-198, QUESTION-034, LEAD-078; changelog fragment lead-078.md.
 
+- Excuses checked with a rough scan of the changed files (unused and
+  missing `inactive-ok-file` codes); fixed in the new entries.
+
 ## Next
 
-- Report to the lead. No pull request (the lead opens it).
+- Report to the lead (done when this commit lands). No pull request (the
+  lead opens it).
 
 ## Choices made
 
