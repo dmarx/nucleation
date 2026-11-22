@@ -13,4 +13,5 @@
 ### Changed
 
 - LIT-2245, LIT-2230, LIT-2253, LIT-2267, LIT-2250, LIT-2256, LIT-2249 and LIT-2232 moved to Active on their readings.
+- LIT-2265 (Pecora and Carroll 1990) recorded Unavailable: no lawful copy found.
 - Dated notes of 2026-11-22 on QUESTION-063, QUESTION-147, CLAIM-153, CLAIM-167, CLAIM-172, CASE-179, THEORY-1082, QUESTION-282, QUESTION-252, CLAIM-480 and THEORY-1065.
