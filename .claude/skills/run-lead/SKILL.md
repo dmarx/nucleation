@@ -89,6 +89,11 @@ From here on, a stop at any moment must lose at most the step in hand.
 - While it runs, commit and push its results file at least every ten
   minutes. A small loop that copies, commits and pushes, then sleeps 600
   seconds until the process exits, does this from a second worktree.
+- Several workers share one machine. Stop a process only by the PID you
+  started (save it, for example `echo $! > run.pid`), never with `pkill` or
+  `killall` by name or pattern, which kills other workers' runs. Keep your
+  files in a subdirectory of the scratchpad named after your lead, not in
+  its root.
 - Estimate the run's time before starting. Give a background run a time
   limit above twice the estimate. If its measured pace says it will not
   finish in time, stop it and restructure it at once.
