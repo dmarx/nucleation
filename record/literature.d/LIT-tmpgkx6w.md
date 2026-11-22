@@ -1,0 +1,80 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-11-22 from the arXiv PDF (2308.16498v1) for LEAD-182;
+  worth reading as the one test of contextuality on human judgements with
+  pragmatic content, a coreference story whose two pronouns are resolved by
+  world knowledge under two pairs of words, laid out as a Bell-CHSH
+  scenario. Read it knowing that its no-signalling is made by the response
+  format (each respondent picks two of four readings, and answers that
+  break the A/B symmetry, 62 of 410, are discarded), so the marginals are
+  never observed; that its violation, 0.192, has a bootstrap standard
+  deviation of 0.176 at about 87 valid responses a context; and that the
+  story's English was faulty when the data were collected.
+title: 'Generalised Winograd Schema and its Contextuality'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed and read for LEAD-182, 2026-11-22. CASE-053 cites it and read it
+    directly on 2026-10-10, but the record held no LIT for it: a grep of
+    record/literature.d for the arXiv id, the DOI and the title found it
+    only as a mention inside LIT-842. Checked against Crossref (Kin Ian
+    Lo, Mehrnoosh Sadrzadeh and Shane Mansfield, Electronic Proceedings in
+    Theoretical Computer Science 384: 187-202, QPL 2023, online 30 August
+    2023, CC BY) and the arXiv listing (v1 submitted 31 August 2023, the
+    only version). `published:` is the earliest full date, Crossref's 30
+    August 2023 (ADR-002). No email address sent. Read in the arXiv PDF,
+    text layer extracted; all sections and the references.
+tags:
+- contextuality
+- pragmatics
+- linguistics
+- quantum-foundations
+date: '2026-11-22'
+published: '2023-08-30'
+arxiv: '2308.16498'
+doi: '10.4204/EPTCS.384.11'
+first_author: 'Lo'
+keywords:
+- 'Winograd Schema Challenge'
+- 'coreference ambiguity'
+- 'sheaf-theoretic contextuality'
+- 'Contextuality-by-Default'
+- 'Bell-CHSH inequality'
+- 'crowdsourcing'
+implementations: []
+summary: >-
+  Lo, Sadrzadeh and Mansfield (2023), EPTCS 384: 187-202. Two Winograd
+  schemas joined in one story give four observables, (pronoun, word), in a
+  Bell-CHSH layout; 410 Mechanical Turk responses (348 valid) give a model
+  that violates the Bell-CHSH inequality by 0.192, standard deviation
+  0.176, positive in 87% of bootstrap resamples. No-signalling holds by
+  construction: the story is symmetric in A and B and respondents choose
+  two of four symmetric readings. It is the design ancestor of the study
+  LEAD-182 drafts.
+---
+<!-- inactive-ok-file: LEAD-182 — Open; the lead this reading was made for -->
+
+# LIT-tmpgkx6w: Generalised Winograd Schema and its Contextuality
+
+Kin Ian Lo, Mehrnoosh Sadrzadeh and Shane Mansfield (2023). *Electronic
+Proceedings in Theoretical Computer Science* 384: 187-202 (QPL 2023).
+DOI-10.4204/EPTCS.384.11, ARXIV-2308.16498.
+
+## Key takeaways
+
+- An original Winograd schema is two contexts with no overlap, so it
+  cannot be contextual (§4.1); two schemas joined, with two pronouns and
+  two pairs of words, make a Bell-CHSH scenario (§4.2, Definition 2).
+- On human judgements of one such story the violation is 0.192 with a
+  bootstrap standard deviation of 0.176 (§4.4, Table 1, Figure 3).
+- Signalling is excluded by construction, not tested: the outcomes are
+  symmetric and the response format makes them so (§4.3, §4.4).
+
+## Standing in the record
+
+Read in NOTE-tmplr2g0. The record had cited it through CASE-053 since
+2026-10-10 without an entry of its own. It is the nearest published
+test to what LEAD-182 asks for, and the design CASE-tmpl2va4 revises.
