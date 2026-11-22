@@ -15,6 +15,26 @@
 
 ## Next
 
-- Locate copies (Europe PMC REST) for each work.
+- Search author, lab and institutional copies (web search).
 
 ## Choices
+
+## Access log (2026-11-22)
+
+- Europe PMC REST fullTextXML (ADR-101): HTTP 500 (not in the open-access
+  subset) for PMC3325729, PMC3169327, PMC5027413, PMC39726, PMC5777040,
+  PMC8879801, PMC2720180, PMC4547289, and the preprint records PPR30232
+  (Husnik 2016 bioRxiv 042267) and PPR21684 (Campbell 2017 bioRxiv 199760).
+  No PMCID for LIT-1563, 1567, 1569, 1621, 2395, 2398.
+- NCBI E-utilities efetch db=pmc: "publisher ... does not allow downloading
+  of the full text in XML form" (PMC39726, PMC3325729).
+- pmc.ncbi.nlm.nih.gov/articles/PMC3325729/: reCAPTCHA challenge page. Stopped at PMC.
+- biorxiv.org 042267.full.pdf: HTTP 429, Cloudflare error 1015. Stopped at bioRxiv.
+- pnas.org/doi/pdf/10.1073/pnas.93.7.2873: Cloudflare "Just a moment". Stopped.
+- cell.com/article/S0960982216302639/pdf: Cloudflare. Stopped.
+- genome.cshlp.org/content/19/8/1450.full.pdf: "Access denied". Stopped.
+- annualreviews.org/doi/pdf/10.1146/annurev-ento-121423-013425: Cloudflare. Stopped.
+- repositorio.uchile.cl (LIT-1586 submitted version): "Verificando acceso" bot check. Stopped.
+- ASEP (asep.lib.cas.cz) records for LIT-1567, 1569, 1572: metadata only, no file.
+- Lund LUP record for LIT-1567: no file link found.
+- SciSpace (LIT-1573): abstract only.
