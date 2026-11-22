@@ -40,6 +40,19 @@ Where the record names it:
 
 Filing it answers part of [QUESTION-127](../questions.d/QUESTION-127.md).
 
+## Note of 2026-11-22: already held, as [CLAIM-629](../claims.d/CLAIM-629.md)
+
+The lead audit of this date found the corollary already filed. [CLAIM-629](../claims.d/CLAIM-629.md)
+(Active, demonstrated), dated 2026-11-07 and filed by the same review
+whose curation entry (082259) lists it as left, is the corollary: whether
+several objectives share a strict descent direction is constant on the
+orbits of a function-preserving symmetry, and the Euclidean frustration
+residual is constant where the symmetry's derivative is orthogonal. At its
+promotion on 2026-11-20 the part of [QUESTION-127](../questions.d/QUESTION-127.md) it answers was split off
+under [ADR-049](../decisions.d/ADR-049.md) as its own question, which it answers. What the lead asks
+is held; whether to mark it Done is the owner's. No status or stage is
+changed here.
+
 ## Note of 2026-11-22: already held, by [CLAIM-629](../claims.d/CLAIM-629.md)
 
 A lead worker took this lead up and found that the corollary it names is
