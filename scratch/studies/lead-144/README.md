@@ -16,3 +16,7 @@ Rerun (CPU, about 20 s per item; resumes from `results.jsonl`):
     python3 -I summarize.py results.jsonl
 
 `results.jsonl` holds one line per (world, seed), appended as each finishes.
+The run of 2026-11-22 used seeds 0-7; seed 5 is dropped by `summarize.py`
+because its coupled world is not stationary. `summary.txt` is its output.
+With OMP_NUM_THREADS=1, worlds can run as separate processes
+(`study.py results.jsonl 8 mixed`).
