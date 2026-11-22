@@ -4,7 +4,19 @@ status: Proposed
 formerly:
 - CLAIM-tmpu6t8z
 title: "If a representation's collective deformations have a local Gaussian elastic energy on an interaction graph of spectral dimension d_s, their long-wavelength fluctuations diverge for d_s at or below 2, so whether conventional order survives is set by the spectral dimension of the interaction geometry, not by layer width"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Edited in place on 2026-11-22 after Mermin and Wagner (LIT-2985) was
+    found Unavailable and read through three neighbours, Kosterlitz and
+    Thouless (LIT-2969) through two, and Toner and Tu (LIT-2970) read: the
+    graph version is held in the literature as Cassi's theorem (1992),
+    after Hattori, Hattori and Watanabe (1987), both registered; a section
+    states the conditions the theorem needs and its exceptions, and the
+    worked case where non-equilibrium terms remove the 2D logarithm
+    (ARG-tmpx5evn). The claim stays supposed; its status is unchanged.
 role: supposed
 warrant: demonstrated
 tags:
@@ -22,6 +34,10 @@ grounds:
 - THEORY-2047
 - THEORY-2051
 - LIT-2985
+- THEORY-tmp1nvjs
+- THEORY-tmp85ij4
+- LIT-tmpu2kk5
+- LIT-tmp309tx
 summary: >-
   A29 §6 of the exchange "Rich Get Richer Power Laws" (2026-11-21):
   equipartition over the Laplace modes of an interaction graph whose
@@ -29,10 +45,15 @@ summary: >-
   deformation diverge at small λ for d_s ≤ 2, the lower critical dimension
   of the Mermin–Wagner theorem read on a learned manifold. Supposed: every
   premise (a local elastic energy, equilibrium fluctuations, a chosen
-  graph) is assumed, not derived from training. The wording is A's (the
+  graph) is assumed, not derived from training. Read through neighbours
+  on 2026-11-22, the graph version is a theorem for spin models in
+  equilibrium (Cassi 1992, after Hattori, Hattori and Watanabe 1987),
+  with conditions and exceptions this claim's premises do not meet. The
+  wording is A's (the
   other assistant in the exchange "Rich Get Richer Power Laws", A29);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp1nvjs THEORY-tmp85ij4 THEORY-tmpqma2p THEORY-tmpdfeto NOTE-tmpurjns ARG-tmpx5evn LIT-tmpu2kk5 LIT-tmp309tx — Proposed, Skimmed, Deferred or new; the readings of 2026-11-22, the works registered from them and the argument on this claim -->
 <!-- inactive-ok-file: TERM-136 CLAIM-798 THEORY-2047 THEORY-2051 THEORY-1272 LIT-2985 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 
 # CLAIM-842: If a representation's collective deformations have a local Gaussian elastic energy on an interaction graph of spectral dimension d_s, their long-wavelength fluctuations diverge for d_s at or below 2, so whether conventional order survives is set by the spectral dimension of the interaction geometry, not by layer width
@@ -51,8 +72,9 @@ d_s of the interaction geometry ([TERM-136](../terms.d/TERM-136.md)), then
 
 which diverges at the lower limit for d_s ≤ 2, logarithmically at d_s = 2.
 "That's the same lower-critical-dimensional phenomenon we encountered in the
-XY model": the Mermin–Wagner theorem ([LIT-2985](../literature.d/LIT-2985.md), Deferred: registered,
-not read), read on the learned interaction graph.
+XY model": the Mermin–Wagner theorem (LIT-2985, Unavailable, read
+through neighbours), read on the learned interaction graph. The reading
+on a graph is not Mermin and Wagner's own result but Cassi's (below).
 
 The conclusion A29 draws: "A high ambient dimension does not tell us whether
 the representation has these fluctuation properties." A 4,096-wide layer
@@ -92,3 +114,61 @@ caveats, made sharper):
 embedding; [THEORY-2051](../theory.d/THEORY-2051.md) holds a symmetry-broken phase with Goldstone-type
 behaviour in equivariant deep networks at initialisation. Neither holds the
 fluctuation criterion.
+
+## Where the theorem is held, and its limits
+
+*Added 2026-11-22, after the neighbours of Mermin and Wagner were read
+(ARG-tmpx5evn).*
+
+**The graph version exists.** As Gelfert and Nolting report it
+(LIT-tmpbgf6y, THEORY-tmp1nvjs, §3.4), Cassi (1992, LIT-tmpu2kk5) applied
+Hattori, Hattori and Watanabe's Gaussian field theory on general
+networks (1987, LIT-tmp309tx) to show that on fractal and disordered
+lattices "whose spectral dimension is less or equal to 2", "at finite
+temperature no spontaneous magnetization can exist for the classical
+O(n) and the ferromagnetic (quantum) Heisenberg model", from "the
+infrared divergencies displayed by the corresponding Gaussian models".
+Hattori et al.'s premise, that "the only geometrical structure that spins
+can feel is the one given by the Hamiltonian", is A29's point that the
+governing dimension is the interaction graph's. Nachtergaele's proof
+(LIT-tmp25uib, THEORY-tmp85ij4) needs no translation invariance. Both
+originals are registered and unread; the record holds them at second
+hand.
+
+**What the theorem needs** (Halperin, LIT-tmp3zns2, THEORY-tmpqma2p,
+which `bounds` this claim):
+
+- a continuous symmetry of the Hamiltonian whose generator is a sum of
+  local generators: orientational order in a 2D crystal escapes, since
+  "the generator of these rotations cannot be written as an unweighted
+  sum of local operators" (§II). The first caveat above, no identified
+  symmetry, is this condition unmet;
+- equilibrium: the inequality "follows directly from the quantum version
+  of the fluctuation dissipation theorem" (§III). The second caveat is
+  this condition unmet;
+- finite second moments of the couplings: ferromagnetic couplings falling
+  "slower than 1/r⁴" can restore order (§II). On an interaction graph,
+  long edges are the analogue.
+
+**Where the Gaussian divergence is not the answer.**
+
+- In tethered membranes the Gaussian fluctuations of the normal diverge,
+  but nonlinear coupling renormalizes the bending constant, "which
+  removes the divergence" (Halperin §II): order survives where the
+  Gaussian criterion predicts its loss.
+- In Toner and Tu's flock (LIT-2970, THEORY-tmpdfeto, which `bounds` this
+  claim) the linear theory has this claim's divergence, logarithmic in
+  d = 2, and the non-equilibrium convective terms remove it, giving true
+  long-range order. Relaxing the equilibrium premise can reverse the
+  conclusion.
+- At d_s = 2 exactly, the XY case shows that what survives can be
+  algebraic order, decided by defects that no Gaussian elastic energy
+  contains: the spin-wave energy alone "is perfectly analytic" and has no
+  transition (Drouin-Touchette, NOTE-tmpurjns). A learned-manifold
+  analogue would need its defects identified.
+
+So the criterion's mathematics is a held theorem for spin models with a
+continuous symmetry in equilibrium; its application to a trained
+representation remains supposed, for the reasons in "Why it is only
+supposed".
+

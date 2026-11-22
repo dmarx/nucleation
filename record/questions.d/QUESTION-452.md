@@ -23,6 +23,7 @@ summary: >-
   slowly. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp9t69m — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
 # QUESTION-452: Does keeping a maintained organization precise cost dissipation in proportion to the precision, so that how exactly a self-maintaining structure holds its state is bounded by what it spends, and does that bound separate organizations that persist from structures that merely last?
 
@@ -86,3 +87,27 @@ Tu's review ([LIT-2547](../literature.d/LIT-2547.md), [NOTE-1904](../notes.d/NOT
 - **The discrimination the question asks for, in a sharper form than precision.** An equilibrium network holds its steady state at no cost, but that state follows the input. What dissipation buys is a state held independent of changing conditions, and below a threshold of driving that cannot be had at all. On this showing, a structure that merely lasts can be precise; what it cannot do without dissipation is hold its state against changing conditions.
 
 The mapping of [CLAIM-604](../claims.d/CLAIM-604.md)'s or [CLAIM-516](../claims.d/CLAIM-516.md)'s organizations onto such a network is still missing. The question stays open.
+
+## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
+
+**Qualifies the first item of "What would count as an answer", and leaves
+the question open** (LIT-2981, NOTE-tmpri2np; THEORY-tmp9t69m, which
+`bears_on` this question).
+
+- **The price holds for any current.** The relation is now proved for
+  every linear combination of edge currents of a Markov jump network with
+  reversible transitions and local detailed balance, far from equilibrium
+  included, and as a bound on the whole rate function, so on rare
+  fluctuations as well as the variance. If an organization's maintenance
+  is such a current, its precision has the price.
+- **Maintenance is not shown to be a current.** The paper says nothing on
+  that, and nothing on occupations, how exactly a state is held, which is
+  this question's second worry ("Why it is open here"). The mapping of
+  CLAIM-604's or CLAIM-516's organizations onto such a network is still
+  missing.
+- **No cheap precision by design.** "With a fixed energy budget, it is
+  impossible to surpass the linear-response bound, no matter how complex
+  the design": adding cycles to a network cannot buy current precision
+  below the bound, which an answer can use.
+
+The question stays open.

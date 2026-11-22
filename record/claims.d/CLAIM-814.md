@@ -44,6 +44,7 @@ grounds:
 <!-- inactive-ok-file: THEORY-2158 ARG-146 — Proposed; the reading of Dambre and colleagues and its argument, 2026-11-21 -->
 
 <!-- inactive-ok-file: THEORY-tmpye6xs CLAIM-809 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmps8t83 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 
 # CLAIM-814: In the scalar linear reservoir x(t+1) = a x(t) + u(t) + η(t), the gain a does not trade memory against noise: the state's signal-to-noise ratio and its total linear memory capacity s²/(s²+σ²) do not depend on a, which only spreads that capacity over lags; recalling the input k steps back is best at a = √(k/(k+1)), and noise added at the readout makes capacity rise monotonically toward a = 1
 
@@ -153,3 +154,15 @@ optimum is then subcritical and approaches the transition only as
 T → ∞. The two cases move the optimum in opposite directions for
 different reasons; [CLAIM-809](CLAIM-809.md) now says so (version 2). No relation is
 written. The note is the assistant's (Claude, in this session).
+
+## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
+
+**A contrast**, no edge (LIT-tmpdsowv, read in NOTE-tmpi5t3r in place of
+Bertschinger and Natschläger, LIT-2991; THEORY-tmps8t83). The system is
+nonlinear, high-dimensional and binary, and its edge is damage spreading,
+not the marginal linear stability of a scalar map. In this claim's model
+there is no chaotic side; there, what is lost past the edge is fading
+memory, the state carrying "spurious" information about initial
+conditions, a cost a linear model cannot show. Nothing in the reading
+bears on the scalar derivation. CLAIM-809 now sets the three cases side by
+side (version 3). The note is the assistant's (Claude, in this session).

@@ -23,6 +23,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-163 LIT-1028 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 <!-- inactive-ok-file: THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmps8t83 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 
 # QUESTION-091: Does the allocation of influence among an organization's processes regulate how far cascades of activity propagate, holding different subsystems at different distances from criticality, as a branching ratio would show?
 
@@ -90,3 +91,17 @@ their state ... depending on the specific processing tasks" (p. 4). It is
 evidence that a subsystem's best distance from criticality can depend on
 how it is read out; it says nothing about the allocation of influence
 that the question puts as the regulator.
+
+## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
+
+**A parallel, with a distinction of what branches** (LIT-tmpdsowv,
+NOTE-tmpi5t3r, THEORY-tmps8t83, read in place of Bertschinger and
+Natschläger, LIT-2991). In driven threshold networks the order–chaos line
+is K·P_bf = 1, a branching ratio of one for perturbations, not for
+activity (the reader's and the filer's inference from Eq. 1, not the
+paper's); this question's branching ratio is of activity. A system can
+sit at one and not the other, so a measured ratio must say which it
+counts. The paper's §6 also gives a local rule, each node scaling its
+weights from its own margin, that holds a network at the damage line, a
+mechanism of self-placement the question could set beside the allocation
+of influence; it is a parallel, not evidence about organizations.

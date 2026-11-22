@@ -35,6 +35,7 @@ bears_on:
 ---
 
 <!-- inactive-ok-file: THEORY-412 THEORY-671 — Proposed; named as accounts these theorems are background to or contrasted with, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmp9t69m — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
 # THEORY-431: For classical systems with Markovian, microscopically reversible dynamics, the entropy production of a trajectory obeys an exact finite-time symmetry against the time-reversed process, P_F(+ω)/P_R(−ω) = e^ω, wherever ω is odd under reversal; Jarzynski's work equality and the mean second law follow as corollaries, and the symmetry constrains fluctuations, not which steady state a system selects
 
@@ -143,3 +144,11 @@ noise that is "not affected by the presence of a time-dependent force"
   p(σ) = e^{τσ/k_B} p(−σ), from an inferred path measure, not from a
   dynamics. It explains the theorem if real path statistics are
   maximum-entropy, and does not show that they are ([NOTE-426](../notes.d/NOTE-426.md)).
+
+## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
+
+**A parallel**, no edge (LIT-2981, NOTE-tmpri2np, THEORY-tmp9t69m). The
+proof's quadratic bound on the current rate function is saturated at
+j = −j^π as well as at j^π, "as our bound also satisfies the fluctuation
+theorem for currents": the bound respects the symmetry these theorems
+state. Status unchanged.

@@ -36,6 +36,7 @@ summary: >-
   not shown.
 ---
 <!-- inactive-ok-file: CLAIM-849 TERM-141 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: THEORY-tmpl7rgc — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
 # THEORY-2151: Bialek, Nemenman and Tishby: the predictive information of a stationary series is the subextensive part of its entropy; when the data come from a model with K parameters drawn once from a prior it grows as (K/2) log N, with K replaced by a smaller dimension when the parameterization is degenerate, and when the density of models at small divergence from the target has an essential singularity exp(−B/D^μ) it grows, in the annealed approximation, as N^(μ/(μ+1)), as N^(1/2) for a smooth density under a field-theory prior
 
@@ -82,3 +83,16 @@ or the basis; it does not, in the annealed calculation.
   from learning with no transition.
 - **Its value for a finite future.** I_pred(T, T) is a case of Eq. 6, not
   the headline quantity; for S₁ = cT^μ it is (2 − 2^μ)cT^μ.
+
+## Note of 2026-11-22: Crutchfield and Feldman, read
+
+**A parallel, with a stated contrast**, no edge (LIT-3010, read in
+NOTE-tmpe86ty; THEORY-tmpl7rgc). Crutchfield and Feldman treat excess
+entropy and this paper's predictive information as one quantity (their
+alias list), report its Ising exponents, and say its parameter-count
+result "holds in a slightly different context than ours": an observer
+learning a distribution by successive sampling, not one reading block
+histograms. They add that logarithmic growth of the excess entropy also
+comes from the Thue–Morse sequence, which has no parameter at all
+(TERM-141, version 2). They do not take up the assertion that predictive
+information diverges at critical points. Status unchanged.

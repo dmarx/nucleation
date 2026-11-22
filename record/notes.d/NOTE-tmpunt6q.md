@@ -1,0 +1,160 @@
+---
+status: Read
+paper: LIT-2996
+title: 'Shalizi & Moore — What Is a Macrostate? Subjective Observations and Objective Dynamics'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    From the arXiv PDF of cond-mat/0303625 (v1 of 29 March 2003, the only
+    version; the authors' deposit), fetched 2026-11-22 without obstacle,
+    text extracted with pdftotext. Read in full: abstract, §§I–VI,
+    footnotes 1–7, Appendices A–C; the reference list skimmed. The PDF's
+    dateline reads "Begun 10 July 2000; last revised November 26, 2024";
+    arXiv lists only v1, and its record gives the journal reference
+    Foundations of Physics 55, 2 (2025), doi 10.1007/s10701-024-00814-1
+    (online 20 December 2024, confirmed on doi.org), so the 2024 date
+    likely marks the journal revision. The journal text was not compared.
+    Read by a reader subagent; filed by a second one, which rechecked every
+    quote used here against the extracted text and recomputed the argon
+    efficiencies. No email address sent.
+date: '2026-11-22'
+summary: >-
+  Macrostates are the causal states of the process an observer's chosen
+  observables define: subjective in the observables, objective in the
+  partition the dynamics then fix. One causal description emerges from
+  another when it is a coarse-graining that is predicted more
+  efficiently, E/Cµ.
+---
+<!-- inactive-ok-file: THEORY-tmpttfgp TERM-tmpaztqn CLAIM-tmp3ima1 THEORY-257 THEORY-tmpx26x7 TERM-140 CLAIM-820 SYNTHESIS-075 — Proposed or new; the account this reading files, the term and claim filed from it, and the entries it bears on -->
+
+# NOTE-tmpunt6q: Shalizi & Moore — What Is a Macrostate? Subjective Observations and Objective Dynamics
+
+## Contribution
+
+1. Macrostates identified with the causal states of the observed
+   process, so that choosing them is observer-relative at the input (the
+   observables) and fixed by the dynamics after it.
+2. A four-way classification of the causal partition against the
+   observed one (equal, finer, coarser, incomparable), with physical
+   examples of the first three.
+3. A definition of emergence between two sets of causal variables: one a
+   coarse-graining of the other, and predicted more efficiently (higher
+   E/Cµ); the opposite is Crutchfield's "submergence".
+4. Coexisting levels of description explained as answers to different
+   questions.
+
+## Key results
+
+- **Abstract**: "We argue that they are both; more specifically, that
+  the set of macrostates forms the unique maximal partition of phase space
+  which 1) is consistent with our observations (a subjective fact about
+  our ability to observe the system) and 2) obeys a Markov process (an
+  objective fact about the system's dynamics)." §I words it "a unique
+  coarsest such refinement", and §III.C's construction can also coarsen.
+- **§II** (cited, not proved): "the causal states form the coarsest
+  possible prescient partition", and the least complex one.
+- **§III.A**: observables already causal (an ideal gas's P, V, T near
+  equilibrium).
+- **§III.B**: causal finer than observed (hysteresis; spin glasses, "An
+  Apparent Counterexample", remedied by taking the occupancy probabilities
+  of metastable minima as macrovariables).
+- **§III.C**: causal coarser than observed (irrelevant or "unphysical"
+  distinctions, such as the nematic director's n = −n; variables that wash
+  out over long observation intervals).
+- **§III.D**: "In the causal states we have arrived, so to speak, at
+  objective explanations of subjective quantities."
+- **§IV**: "the Markov property does not generally survive coarsening the
+  states", but a coarse measurement can be its own causal states, giving
+  two levels of description.
+- **§IV.A, argon** (from Shalizi 2001, §11.2.3): the internal energy's
+  entropy is 33.3 bits, its entropy rate 4.4 bits per ms, so E = 28.9
+  bits; the microstate is its own causal state, Cµ = 6.6·10²⁰ bits, with
+  E = 3.3·10²⁰ bits at 1 ns. Efficiency E/Cµ: "the macrostates can be
+  predicted with much higher efficiency (0.87) than the microstates
+  (0.5)" (recomputed: 28.9/33.3 = 0.868, 3.3/6.6 = 0.5). At matched time
+  resolution the macro efficiency would be "essentially one", the micro
+  at the macro time-scale "essentially zero". "This leads us to define a
+  relation of “emergence” between two sets of causal variables if (1) one
+  is a coarse-graining of the other and (2) the coarse-grained variables
+  can be predicted more efficiently." The reverse case, a coarse-graining
+  less efficiently predictable, is what "J. P. Crutchfield (personal
+  communication) has designated “submergence”".
+- **§IV.B**: the hydrodynamic and thermodynamic descriptions "coexist,
+  because they are intended to answer different questions — not because
+  one is more objective than the other." Local causal states generally
+  form a Markov random field (fn. 6: "Whether they always form a Markov
+  random field is currently an open question").
+- **§IV.C**: lattice-gas modelling as tacit practice, "to throw away as
+  much detail as possible, while retaining information relevant to
+  certain aspects of the large-scale dynamics".
+- **§V**: not explained: why good macrovariables are extensive or
+  reusable, and why a stochastic treatment is legitimate.
+- **§VI**: "A different set of initial variables will, generally, lead to
+  a different set of causal states"; "for every question we ask It, Nature
+  has a definite answer; but Nature has no preferred questions."
+
+## Assumptions
+
+Markov microdynamics on phase space, possibly stochastic, with no hidden
+variables; discrete time; exact, noiseless observations (fn. 2);
+stationary observed process with conditional laws known exactly; the
+stochastic treatment of coarse observations assumed (§V).
+
+## Concepts
+
+Causal state; causal equivalence; prescient partition; statistical
+complexity Cµ; predictive information E; entropy rate hµ; predictive
+efficiency E/Cµ; emergence and submergence; observed and causal
+partitions; minimal factor partition; local causal states; levels of
+description.
+
+## Bearing on the record
+
+- **LIT-2996**: its registered summary, macrostates "fixed by the dynamics
+  rather than by the observer", is wrong as stated; the thesis is "both".
+  Corrected there.
+- **TERM-062**: supports its target-relativity (§VI).
+- **THEORY-756**: supports; the same Shalizi–Crutchfield optimality,
+  restated (§II).
+- **THEORY-257**: contrast. Dynamical independence fixes macrovariables
+  "by the dynamics rather than by a chosen query"; for Shalizi and Moore
+  the dynamics fix macrostates only given a query, the observables, and
+  they condition on the macro past, not the micro past.
+- **THEORY-820**: contrast; Markov in its own past, not informational
+  closure relative to the micro past.
+- **CLAIM-401**: qualifies; prescience and Markov closure are fused in one
+  criterion, relative to one chosen projection.
+- **CLAIM-152, CLAIM-348, SYNTHESIS-075**: support for adequacy relative
+  to a target (§IV.B, §VI).
+- **NOTE-935, NOTE-791, NOTE-978**: they name Shalizi and Moore's
+  predictive efficiency or causal states; the record held no entry for
+  the efficiency definition of emergence, now TERM-tmpaztqn.
+- **TERM-140, CLAIM-820**: parallels by another mechanism (coarse-graining
+  of states, not stiff parameter combinations); TERM-140 only background.
+- **QUESTION-517**: one datum on the predictive-state side, which moves
+  with observation and time step; no dimension is computed.
+- **QUESTION-218, TERM-068**: background (G as a unit of classes of
+  histories; closure as "Markov in its own past"); reported to the lead.
+
+Filed from this reading: TERM-tmpaztqn (the emergence relation) and,
+with Quinn and colleagues, CLAIM-tmp3ima1 (alternative a, the assistant's).
+
+## Limitations
+
+- Argument and examples; the theorems are cited or elementary, and the
+  argon numbers come from the thesis.
+- The filer's and reader's observation, not the paper's: §III says each
+  causal state "corresponds to a region of phase space", well defined when
+  a microstate fixes its own past observations (deterministic, invertible
+  dynamics). For stochastic dynamics, which the paper allows, it need not.
+- §IV.B calls the hydrodynamic–thermodynamic relation "generally one of
+  emergence", then says "Similarly, the hydrodynamic level itself emerges
+  from the thermodynamic one", which by its own definition cannot hold
+  both ways; likely a slip. Its "two points" run to "Third".
+- "Unique maximal" (abstract) against "unique coarsest such refinement"
+  (§I) against a construction that may coarsen (§III.C): the uniqueness
+  is asserted, the characterization loose.
+- The emergence verdict's dependence on the time step is acknowledged and
+  not formalized.

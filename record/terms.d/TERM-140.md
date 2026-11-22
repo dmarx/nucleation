@@ -104,6 +104,8 @@ summary: >-
 <!-- inactive-ok-file: ARG-133 CASE-302 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-tmpks8pd THEORY-tmpbobud ARG-tmpewh6z — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 <!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the 2023 review's reading, filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmp3ima1 — Proposed; alternative (a), filed 2026-11-22 from the readings of Quinn and colleagues and of Shalizi and Moore -->
 
 # TERM-140: sloppy, of a parametric model at a point and for an observation design: its Fisher information spectrum, in a declared chart, spreads evenly over many decades with no gap that separates the parameter combinations that matter from those that do not, along eigenvectors skewed from the bare parameter axes; a graded property, distinct from ill-conditioning and from singularity
 
@@ -259,3 +261,12 @@ above (version 4).
   is not yet low effective dimension.
 
 The note is the assistant's (Claude, in this session).
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+**Background, with a parallel**, no edge (LIT-2996, NOTE-tmpunt6q,
+THEORY-tmpttfgp). Shalizi and Moore reduce states by prediction, not
+parameters by sensitivity, and use no Fisher information. Their macrostate
+is relative to the observables chosen, as sloppiness here is relative to
+a design; CLAIM-tmp3ima1 (alternative a, Proposed) states the shared
+shape. Status unchanged.

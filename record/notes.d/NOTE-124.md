@@ -41,6 +41,7 @@ summary: >-
   and argues that strong-emergence claims from molecular structure are
   weak.
 ---
+<!-- inactive-ok-file: LIT-2969 — new or Unfetched; Kosterlitz's lecture, read 2026-11-22 for Kosterlitz and Thouless -->
 
 # NOTE-124: McKenzie — Emergence from physics to computer science
 
@@ -145,3 +146,18 @@ The book is cited by Rizi ([LIT-150](../literature.d/LIT-150.md), x30), whose co
 - Missing link: this work is cited by Rizi ([LIT-150](../literature.d/LIT-150.md), ref. 133).
 - metaphysics tag: justified. See Connections.
 - primary topic: philosophy-of-science. The book's organising theses are about scientific explanation, method, theory reduction and scientific strategy: effective theories versus toy models, and "the perspective taken about emergence … matters for scientific strategy". Only §§1.4, 22 and parts of §15 argue ontology directly. `complex-systems`, the current lead, is the best alternative. `metaphysics` should stay as a tag.
+
+## Note of 2026-11-22: Kosterlitz's Nobel lecture, read
+
+**Background, no edge.** This reading cites BKT and the hexatic phase
+among the few states of matter predicted before they were found. The
+lecture (LIT-tmp3k6np, NOTE-tmp0si2r), read as a stand-in for Kosterlitz
+and Thouless (LIT-2969, Unfetched), bears that out: the helium-film data
+confirming the universal jump were "obtained and plotted before the
+authors were aware of our theoretical prediction" (p. 94), and the
+hexatic phase, with "algebraic orientational order", came from a
+correction to the 1973 paper's melting treatment, which "was an
+unfortunate error" (p. 95). It also qualifies the case's use: the
+prediction began from an effective model (a Coulomb gas of vortices),
+consistent with McKenzie's "None started with a microscopic Hamiltonian
+for a material with a specific chemical composition" (p. 19).

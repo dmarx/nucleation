@@ -39,8 +39,10 @@ summary: >-
 draws_on:
 - THEORY-756
 - THEORY-820
+- THEORY-tmpttfgp
 ---
 <!-- inactive-ok-file: THEORY-2028 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
 # TERM-062: causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target
 
@@ -92,3 +94,16 @@ sense 1).
 Rupe and Crutchfield ([THEORY-2028](../theory.d/THEORY-2028.md)), read: supports the TERM and adds a choice of source and target beside the ε- and υ-machines. The source is the past lightcone at a spacetime point and the target its future lightcone; two past lightcones are equivalent when they give the same distribution over future lightcones. The resulting local causal states are "minimal sufficient statistics for optimal local prediction". They confirm that causal states are not interventional: the states "do not detect direct causal relationships".
 
 No status change.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+**Supports the term's target-relativity**, as an early statement of it
+(LIT-2996, read in NOTE-tmpunt6q; THEORY-tmpttfgp, which this term now
+`draws_on`). Shalizi and Moore use the ε-machine case, the observed
+process's own pasts for its own future (§II), and read the causal states
+of a chosen observable as its macrostates: "A different set of initial
+variables will, generally, lead to a different set of causal states"
+(§VI). Their observation function is the term's "declared target", and
+the paper's thesis, that macrostates are both subjective (the
+observables) and objective (the partition the dynamics then fix), is the
+term's relativity stated for thermodynamics. Status unchanged.

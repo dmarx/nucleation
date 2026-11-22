@@ -26,6 +26,7 @@ draws_on:
 - THEORY-1272
 - THEORY-301
 - THEORY-tmpwn1xp
+- THEORY-tmp1nvjs
 summary: >-
   Four dimensions of a learned representation that the exchange "Rich Get
   Richer Power Laws" (2026-11-21) keeps apart and the record had no word
@@ -37,6 +38,7 @@ summary: >-
   The wording is A's (the other assistant in the exchange "Rich Get Richer
   Power Laws", A29 and A30); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmp1nvjs NOTE-tmppfzap LIT-tmp309tx LIT-tmpu2kk5 LIT-2985 — new, Skimmed, Deferred or Unavailable; the Mermin–Wagner neighbours and the works registered from them, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-847 CLAIM-848 CLAIM-842 CLAIM-797 THEORY-1272 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 <!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
@@ -121,3 +123,19 @@ orders of magnitude larger than the value of the ID computed with TwoNN",
 because the manifolds are curved. The linear count there is a fifth
 notion, a 90%-variance PCA count, beside D_PR. The term draws on the
 reading for its intrinsic sense.
+
+## Note of 2026-11-22: where the spectral dimension of a network comes from
+
+Gelfert and Nolting (LIT-tmpbgf6y, NOTE-tmppfzap; THEORY-tmp1nvjs),
+read as a stand-in for Mermin and Wagner (LIT-2985, Unavailable), report
+the origin of this term's fourth sense for networks: Hattori, Hattori and
+Watanabe (1987, LIT-tmp309tx, registered, unread) ask "Why do the spins
+on the lattice 'know' this natural embedding into Euclidean space that
+should govern their critical phenomena?", since "the only geometrical
+structure that spins can feel is the one given by the Hamiltonian", and
+define the spectral dimension of general networks through a Gaussian
+field theory on them. Cassi (1992, LIT-tmpu2kk5) then shows that spectral
+dimension at most 2 excludes spontaneous magnetization (§3.4). So the
+term's "spectral dimension d_s of the graph through which they interact"
+is that literature's, and CLAIM-842's criterion is a theorem there for
+spin models in equilibrium. THEORY-tmp1nvjs is `draws_on`.

@@ -76,6 +76,8 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-075 — Proposed account, cited for the target-relativity this claim sits beside -->
 <!-- inactive-ok-file: ARG-142 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 <!-- inactive-ok-file: ARG-150 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-tmpks8pd THEORY-tmpt1tw7 ARG-tmpddl7x — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmp3ima1 — Proposed; alternative (a), filed 2026-11-22 from the readings of Quinn and colleagues and of Shalizi and Moore -->
 
 # CLAIM-820: A model's parameter complexity and its behavioural complexity come apart: when its predictions depend on a few stiff combinations of parameters and barely on the rest, it can be hard to fit and still predictive, so simplicity can belong to how a system responds to observation rather than to its mechanism
 
@@ -269,3 +271,15 @@ grounds.
   added without harming model predictions", and a reduced model may be
   preferred "but not because the fuller model will overfit" (§1). Noted,
   not adopted.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+**A parallel, in information terms**, no edge (LIT-2996, NOTE-tmpunt6q,
+THEORY-tmpttfgp). Argon's microstate has Cµ = 6.6·10²⁰ bits against a
+33.3-bit macrostate that is predicted more efficiently (0.87 against
+0.5, §IV.A), and "Nature has no preferred questions" (§VI). That supports
+clause 3, simplicity as a response to observation, by another mechanism:
+coarse-graining of states rather than stiff combinations of parameters.
+No bearing on clause 1 (fitting). CLAIM-tmp3ima1 (alternative a, Proposed)
+widens this claim's relativity to coarse-graining and emergence. Status
+unchanged.

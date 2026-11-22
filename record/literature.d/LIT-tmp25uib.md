@@ -1,0 +1,61 @@
+---
+status: Active
+title: 'The Mermin-Wagner Theorem'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered on 2026-11-22 as a stand-in for Mermin and Wagner (1966),
+    LIT-2985, for which no lawful copy was found (ADR-114). Read in full
+    the same day in NOTE-tmpl5lm3 by a delegated reader: course notes for
+    MAT266, Mathematical Statistical Mechanics and Quantum Field Theory,
+    UC Davis, Winter 2006, 6 pp., on the author's faculty page
+    (www.math.ucdavis.edu/~bxn/mermin-wagner.pdf), a lawful copy
+    (ADR-074). The reading is THEORY-tmp85ij4. The notes carry no day, so
+    the date is the first of the year. Not held before: no hit for
+    Nachtergaele in record/.
+tags:
+- mathematics
+- natural-sciences
+date: '2026-11-22'
+published: '2006-01-01'
+url: 'https://www.math.ucdavis.edu/~bxn/mermin-wagner.pdf'
+first_author: 'Nachtergaele'
+keywords: []
+implementations: []
+summary: >-
+  Nachtergaele (2006), The Mermin-Wagner Theorem, course notes, UC Davis
+  MAT266. An operator-algebraic proof, by energy-entropy balance on KMS
+  states, that a continuous symmetry is not broken at finite temperature
+  in d ≤ 2 for quantum spin systems with interactions of finite second
+  moment, sup_x Σ_y |x − y|²|J(x, y)| < ∞. It does not need translation
+  invariance: the argument works for inhomogeneous systems with spins of
+  different magnitudes. A rotation is interpolated to zero at infinity at
+  bounded energy cost, which d = 2 just allows.
+---
+<!-- inactive-ok-file: THEORY-tmp85ij4 — new; this work's reading -->
+<!-- inactive-ok-file: LIT-2985 — Unavailable; the original this work stands in for -->
+
+# LIT-tmp25uib: The Mermin-Wagner Theorem
+
+Nachtergaele (2006). Course notes, MAT266, UC Davis.
+https://www.math.ucdavis.edu/~bxn/mermin-wagner.pdf
+
+## Key takeaways
+
+- "The original theorem, a special case of what we will prove here, says
+  that no spontaneaous breaking of any continuous symmetry occurs at
+  finite temperatures (β < ∞) in dimensions d ≤ 2" (p. 1; the typo is the
+  notes').
+- Proposition 2.2 needs only a finite second moment of the couplings, and
+  "Translation invariance is not required" (p. 5).
+
+## Standing in the record
+
+Registered as a stand-in for Mermin and Wagner (1966), LIT-2985, which is
+Unavailable (ADR-114). It stands in for the statement only: its proof is
+not Mermin and Wagner's. Its first sentence glosses the 1966 result more
+broadly than the paper's own model (Halperin, LIT-tmp3zns2). That it needs
+no translation invariance bears on CLAIM-842, whose interaction graphs are
+irregular.

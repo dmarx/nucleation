@@ -29,6 +29,7 @@ bears_on:
 - QUESTION-452
 ---
 <!-- inactive-ok-file: THEORY-671 — Proposed; named as a principle this bound does not bear out -->
+<!-- inactive-ok-file: THEORY-tmp9t69m — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
 # THEORY-1268: In a nonequilibrium steady state of a thermodynamically consistent Markov jump network, the entropy produced while a current is counted, times the squared relative uncertainty of that count, is at least 2k_B, independent of the counting time, so a current precise to ε costs at least 2k_BT/ε² of dissipation; the 2015 letter proves this within linear response and for single-cycle networks at any affinity, and for many-cycle networks far from equilibrium shows it numerically and states it as a conjecture
 
@@ -92,3 +93,23 @@ sampled networks did.
 ## Note of 2026-11-15: Tu, read
 
 Tu's review ([LIT-2547](../literature.d/LIT-2547.md), [NOTE-1904](../notes.d/NOTE-1904.md)) gives a second, model-specific price on precision, for a different quantity. This entry prices the precision of a counted current: relative uncertainty ε costs at least 2k_BT/ε². Tu's energy–speed–accuracy relation, Ẇ = c₁V_a ln(c₂A_a), prices the accuracy of an adapted steady state against changing input: at fixed speed, accuracy 1/ε costs only logarithmically. The two do not conflict, since they bound different quantities, but the review does not mention this entry's relation. It bears on [QUESTION-452](../questions.d/QUESTION-452.md), where the question is which of the two is the price of keeping an organization's state. The entry is unchanged.
+
+## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
+
+**Supports and completes this account** (LIT-2981, read in NOTE-tmpri2np;
+the reading is THEORY-tmp9t69m). "What this does not say" reads "That the
+general case is proved here. Proofs for general networks came later and
+are not held." The record now holds that proof: for any ergodic Markov
+jump network with reversible transitions and local detailed balance, and
+any current that is a linear combination of edge currents, "we have a
+general proof of the conjectured thermodynamic uncertainty relation",
+ε²_d Σ^π ≥ 2 (Eq. 8), from a bound on the whole rate function, and "these
+uncertainty relations are tightest in linear response and when d ∝ F, as
+predicted by Barato and Seifert". The conjecture stated here for
+many-cycle networks far from equilibrium is therefore a theorem. This
+entry's title, that the 2015 letter "states it as a conjecture", stays
+true of the letter; its scope is unchanged, and so are the limits it
+lists (long-time currents, reversible steps, not occupations, not an
+extremum principle), which the proof shares. The filer reran a check on
+the four-state network of the proof's Fig. 2: min ε²_d Σ^π = 2.34 over
+300 currents, at d = F. Status unchanged.

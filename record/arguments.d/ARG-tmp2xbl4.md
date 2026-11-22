@@ -1,0 +1,78 @@
+---
+status: Proposed
+title: "Kardar, Parisi and Zhang's letter, with Le Doussal's hindsight and Takeuchi and Sano's experiment, read as sources, support the KPZ row of the claim that a power law does not by itself indicate criticality, for d ≤ 2 only, and show that untuned scaling is not generic in experiment"
+version: 1
+form: source
+grounds:
+- THEORY-tmpo3w5v
+- THEORY-tmpdcfxq
+- THEORY-tmpmoyol
+concludes:
+- CLAIM-841
+tags:
+- complex-systems
+- natural-sciences
+date: '2026-11-22'
+line:
+- formal-apparatus
+summary: >-
+  CLAIM-841's KPZ row read "W(L, t) = L^α F(t/L^z), α = ½, z = 3/2 in 1D,
+  generically", untuned, citing LIT-2978 and LIT-2982 unread. Read, KPZ
+  supports it for d ≤ 2: any λ ≠ 0 flows to the KPZ fixed point, and only
+  the mean velocity is removed, by a change of frame. Above two
+  dimensions a small λ is irrelevant and a tuned intermediate fixed point
+  separates two scale-invariant phases (KPZ p. 892; Le Doussal p. 4). And
+  Takeuchi and Sano find the class in experiment only where growth is
+  local and quenched disorder absent, "only two experiments among dozens"
+  having found the exponents. The readings ground the row, scoped to
+  d ≤ 2 and with "generically" read as "in theory and simulation"; the
+  thesis stands. The wording is the assistant's (Claude, in this
+  session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: THEORY-tmpo3w5v THEORY-tmpdcfxq THEORY-tmpmoyol — Proposed; the readings this argument starts from -->
+<!-- inactive-ok-file: CLAIM-841 — Proposed; the claim it concludes -->
+
+# ARG-tmp2xbl4: Kardar, Parisi and Zhang's letter, with Le Doussal's hindsight and Takeuchi and Sano's experiment, read as sources, support the KPZ row of the claim that a power law does not by itself indicate criticality, for d ≤ 2 only, and show that untuned scaling is not generic in experiment
+
+## The inference
+
+CLAIM-841's KPZ row holds that a growing interface is scale invariant
+without a tuned transition, "generically". THEORY-tmpo3w5v,
+THEORY-tmpdcfxq and THEORY-tmpmoyol, read as sources, would carry it.
+
+## Critical questions (source)
+
+**Does the work say this, read in context?** For d = 1, yes: λ is
+relevant and z = 3/2, χ = ½ "are actually exact" (KPZ, p. 891), for any
+λ ≠ 0; the only quantity removed is the mean velocity, "removed by choice
+of an appropriate moving coordinate system" (p. 889), a frame, not a
+tuning. In d = 2 λ is marginally relevant and still flows to strong
+coupling. In d ≥ 3, no: λ "is irrelevant, and an asymptotically ideal
+smooth surface is expected with z = 2", with "the possibility of a phase
+transition to different scaling for strong enough couplings" (p. 892);
+Le Doussal: "an intermediate fixed point, at g = g* ≃ d − 2, which
+separates a weak noise phase where the nonlinearity is irrelevant, and the
+strong noise phase" (p. 4). That threshold is a tuned point, though both
+phases it separates are scale invariant, so the thesis survives and the
+row's "generically" holds for d ≤ 2.
+
+**Is it said within the scope the claim needs?** The KPZ letter never
+speaks of criticality or tuning; that no parameter is tuned is the
+record's reading of its flow. Takeuchi and Sano drive their system
+"sufficiently larger than the DSM1-DSM2 threshold" (p. 2) and report the
+result robust across voltages, which is untuned; but they open from
+experiments being "widely diverse and mostly far from the KPZ values",
+"only two experiments among dozens" finding them (p. 1), and credit their
+success to "strictly local processes" and no quenched disorder (p. 4).
+So in experiment untuned is not generic: the route removes the scale
+without tuning only where those conditions hold.
+
+**Is the source in a position to know?** The letter founds the class; its
+one-loop RG is exact only in d = 1, and its d = 2 hope failed (Le
+Doussal). The experiment is one system, one geometry, short times.
+
+## Verdict
+
+THEORY-tmpo3w5v and THEORY-tmpmoyol join CLAIM-841's `grounds` for the
+KPZ row, scoped to d ≤ 2; THEORY-tmpdcfxq grounds the scope. The row is
+reworded in place. The thesis is unaffected.

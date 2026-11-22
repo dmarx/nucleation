@@ -29,6 +29,7 @@ summary: >-
   ([ARG-tmp5sgtm](../arguments.d/ARG-tmp5sgtm.md)).
 ---
 <!-- inactive-ok-file: LIT-tmpcc25u LIT-tmpfn6b8 ARG-tmp5sgtm CLAIM-809 CLAIM-814 — Proposed, Deferred or new; the reading, the works it names and the claims it bears on -->
+<!-- inactive-ok-file: THEORY-tmps8t83 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 
 # THEORY-tmpye6xs: Azizpour, Priesemann, Zierenberg and Levina show, analytically in the limits and by simulation between them, that in a random network of stochastic spiking neurons with a branching (absorbing-to-active) transition at λ = 1, a leaky readout with finite integration time T makes both the number of ε-discriminable input rates and a fluctuation-aware dynamic range peak at a subcritical λ* < 1, at different λ* for the two measures, with λ* approaching the critical point as T grows, because critically slowed population fluctuations not averaged out within T blur the readout
 
@@ -79,3 +80,15 @@ with [CLAIM-814](../claims.d/CLAIM-814.md): there readout noise pushes the optim
 transition; here unaveraged internal fluctuations push it away. Bears on
 [QUESTION-507](../questions.d/QUESTION-507.md) (point 2, which measure) and [QUESTION-091](../questions.d/QUESTION-091.md) (distance from
 criticality set by the readout).
+
+## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
+
+**A contrast** (LIT-tmpdsowv, NOTE-tmpi5t3r, THEORY-tmps8t83, read in
+place of LIT-2991). Opposite transition and opposite outcome: here a
+branching network's finite-window optimum is subcritical; there, in
+driven threshold networks, task-averaged readout performance is highest
+near the order–chaos line. This reading's own remark,
+that the side "will ... depend on both the task and the type of phase
+transition", is borne out by the pair, as a further example on the
+order–chaos side; the companion has no finite-window analysis. No
+relation is written.

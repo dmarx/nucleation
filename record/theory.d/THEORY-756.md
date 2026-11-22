@@ -43,6 +43,8 @@ bears_on:
 - QUESTION-517
 ---
 <!-- inactive-ok-file: THEORY-157 — Proposed; named as the general sufficiency result this is an instance of, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: TERM-tmpaztqn — Proposed; the term filed from the reading of Shalizi and Moore, 2026-11-22 -->
 # THEORY-756: The growth rate of thermodynamic depth is the entropy rate of whichever macrostate process it is computed over, so the choice of macrostates sets it anywhere from zero up; among partitions of a stationary process's past that predict every finite stretch of the future as well as the whole past does, the causal states are the coarsest, so they have the least entropy and the least entropy rate
 
 ## Source
@@ -133,3 +135,13 @@ state process is Markov.
   the two regimes in the refinement order.
 - **[QUESTION-217](../questions.d/QUESTION-217.md).** Among fully predictive states, the refinement
   order is monotone in both entropy and entropy rate.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+**Supports, as a restatement** (LIT-2996, NOTE-tmpunt6q,
+THEORY-tmpttfgp). Shalizi and Moore §II restate the Shalizi–Crutchfield
+result this account uses: "the causal states form the coarsest possible
+prescient partition", and the least complex. Their emergence relation
+(TERM-tmpaztqn, now filed) compares E/Cµ across two such partitions;
+this account's bound E ≤ Cµ keeps that efficiency in [0, 1]. Status
+unchanged.

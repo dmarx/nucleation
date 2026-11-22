@@ -107,6 +107,7 @@ summary: >-
   and by whether an outflow is measured. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-2969 THEORY-tmpwdka8 — Unfetched or new; Kosterlitz and Thouless and the lecture read in their place, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2010 THEORY-2022 THEORY-2032 THEORY-2040 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2787 — Unfetched; cited in this filing of 2026-11-19 -->
@@ -236,4 +237,19 @@ Shankar and colleagues ([THEORY-2032](../theory.d/THEORY-2032.md)), read, descri
 
 Omidvar and colleagues ([THEORY-2010](../theory.d/THEORY-2010.md)), read: their stored bits persist by bistability under a standing compression, and the "topological" of their title refers to the band polarization at the wall, not to a conserved charge of the wall. That is a further case for the note of 2026-11-15, and a reason to tie the word "topological" to a stated invariant. It qualifies the claim.
 
+No status change.
+
+## Note of 2026-11-22: Kosterlitz's Nobel lecture, read
+
+A **parallel**, from the same passage as CLAIM-694's note of this date
+(LIT-tmp3k6np, NOTE-tmp0si2r, THEORY-tmpwdka8; a stand-in for
+Kosterlitz and Thouless, LIT-2969, Unfetched). The topological row's
+"what holds it", "a charge fixed by the field at its boundary", holds at
+finite temperature only where the barrier between sectors grows with
+system size: ∝ ln L for the planar rotor's winding sectors, "of order
+unity" for the 2D Heisenberg model's invariant, which therefore protects
+no ordered state (pp. 90–91). The vortices of that case also show the
+row's "how it ends": a vortex ends by meeting an antivortex, and the BKT
+transition is the temperature at which free pairs unbind. No edge; the
+claim's table is about isolated structures, the lecture about a phase.
 No status change.

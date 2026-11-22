@@ -34,6 +34,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2151 THEORY-2155 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 <!-- inactive-ok-file: THEORY-tmpx26x7 CLAIM-820 TERM-140 TERM-135 — Proposed or new; the 2023 review's reading and the entries that hold the relativity it states -->
+<!-- inactive-ok-file: THEORY-tmpttfgp THEORY-tmpl7rgc CLAIM-tmp3ima1 TERM-tmpaztqn — Proposed or new; the readings of Shalizi and Moore and of Crutchfield and Feldman, 2026-11-22, and the claim and term filed from them -->
 
 # QUESTION-517: Do the effective dimensions of one system, the number of its stiff Fisher directions at a given resolution, the dimension of its predictive states, the number of its relevant renormalization-group directions and its fractal dimension, agree, and when do they come apart?
 
@@ -145,3 +146,54 @@ The review's further suggestion, "Perhaps it is caring about the answers
 to the right questions that makes science possible?", is a speculation
 with no argument behind it, and stays in the reading. The note is the
 assistant's (Claude, in this session).
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+Read in NOTE-tmpunt6q (THEORY-tmpttfgp, which `bears_on` this question).
+It **leaves the question open and supplies one datum on the
+predictive-state side**. The paper reports entropies, not a dimension,
+and they move with the observation and the time step: argon's
+macrostate predictive efficiency E/Cµ is 0.87 at a 1 ms step, "essentially
+one" at matched resolution, and the microstate's "essentially zero" at
+the macro time-scale (§IV.A). That fits this question's own remark,
+after CLAIM-825, that such a dimension is "a function of resolution, not
+a number". No comparison with Fisher or
+renormalization-group counts is made.
+
+**Whether the relativity of these dimensions needs an entry of its own:
+two alternatives, filed both; the owner chooses.**
+
+- **(a) The lean: yes, as a claim.** CLAIM-tmp3ima1 (Proposed, the
+  assistant's): coarse-graining, sloppiness and emergence are each defined
+  relative to a chosen set of observables and a demanded precision, and
+  the dynamics fix the rest, on Quinn and colleagues (THEORY-tmpx26x7: the
+  Ising sentence of §8.2 and ΛCDM) and Shalizi and Moore ("Nature has no
+  preferred questions"). It widens what the record held for sloppiness to
+  the macrostates and the emergence relation the question's
+  predictive-state dimension depends on.
+- **(b) No: this note is the alternative.** The previous filer's view,
+  recorded in the note of 2026-11-22 on Quinn and colleagues above: the
+  question-relativity is already held in TERM-140 ("Relative to a
+  design"), TERM-135 (condition 1) and CLAIM-820 (relative to the
+  observables fitted and to the precision demanded), and needs no entry;
+  for this question it means only that "What would answer it" must name
+  the observables and the precision as well as the observation scheme.
+  On this reading Shalizi and Moore add a parallel for causal states,
+  already target-relative in TERM-062, and no new claim.
+
+Either way, an answer must name, for each of the four dimensions, the
+observables and the precision it is computed at. The note is the
+assistant's (Claude, in this session).
+
+## Note of 2026-11-22: Crutchfield and Feldman, read
+
+Read in NOTE-tmpe86ty (THEORY-tmpl7rgc). **Background, with a caution for
+the predictive-state dimension.** The excess entropy and its finite-L
+estimates are defined there; "unlike in one dimension where the various
+expressions for the excess entropy are equivalent, they yield different
+results when extended to two dimensions" (§VIII). So a predictive-state
+dimension for a two-dimensional system, such as LEAD-208's Ising lattice,
+must say which definition it uses. The paper also warns that an observer
+who stops at a finite block length converts unseen memory into apparent
+randomness (Props. 13–15), which bears on any finite-window estimate of
+predictive information.

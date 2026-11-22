@@ -16,6 +16,8 @@ complements:
 - TERM-142
 draws_on:
 - THEORY-777
+- THEORY-tmpo3w5v
+- THEORY-tmpaojie
 summary: >-
   The classification the record already uses without stating it
   ([THEORY-777](../theory.d/THEORY-777.md), [THEORY-789](../theory.d/THEORY-789.md), [QUESTION-205](../questions.d/QUESTION-205.md), [QUESTION-232](../questions.d/QUESTION-232.md), [SYNTHESIS-084](../syntheses.d/SYNTHESIS-084.md) speak
@@ -30,6 +32,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: THEORY-tmpo3w5v THEORY-tmpdcfxq THEORY-tmpaojie NOTE-tmpurjns — Proposed, Skimmed or new; readings of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-777 THEORY-789 SYNTHESIS-084 — Proposed; the record's existing uses of "relevant" that this term states -->
 <!-- inactive-ok-file: TERM-142 CLAIM-850 ARG-129 — filed with this term on 2026-11-21 -->
 
@@ -115,3 +118,26 @@ mention.
   is fixed by the fixed point it is measured at; one perturbation can be
   relevant at one fixed point and irrelevant at another
   ([QUESTION-508](../questions.d/QUESTION-508.md)).
+
+## Note of 2026-11-22: two textbook cases, read
+
+Two readings of 2026-11-22 give the term's sense in cases the Examples
+lack; both are `draws_on`.
+
+- **A coupling whose relevance turns on dimension.** In the KPZ equation
+  (Kardar, Parisi and Zhang, LIT-2978, NOTE-tmpf6isj; THEORY-tmpo3w5v)
+  the nonlinearity λ is relevant in d = 1, "marginally relevant, and
+  grows under rescaling" in d = 2, and "irrelevant" when small for d ≥ 3
+  (pp. 891–892), from dλ̄/dl = ((2 − d)/2)λ̄ + K_d((2d − 3)/4d)λ̄³. Above
+  two dimensions a fixed point at finite coupling separates the two
+  basins (Le Doussal, THEORY-tmpdcfxq): one perturbation, three verdicts,
+  by dimension.
+- **A line of fixed points.** In the 2D XY model (Drouin-Touchette,
+  LIT-tmp6hh1r, NOTE-tmpurjns; THEORY-tmpaojie) the vortex fugacity y is
+  irrelevant below T_KT and relevant above, and the stiffness K is
+  marginal along the line, "a line of fixed points at which y0 = 0"
+  (§3.3), so the phase is a family of fixed points, each with no relevant
+  direction.
+
+Toner and Tu (LIT-2970) and Takeuchi and Sano (LIT-2982) use the words in
+this sense too; background only.

@@ -81,6 +81,7 @@ bears_on:
 - QUESTION-514
 - QUESTION-510
 ---
+<!-- inactive-ok-file: LIT-2985 LIT-tmpu2kk5 LIT-tmp309tx THEORY-tmp1nvjs THEORY-tmpqma2p THEORY-tmpdfeto ARG-tmpx5evn — Unavailable, Deferred, Proposed or new; the Mermin–Wagner neighbours and their argument, 2026-11-22 -->
 <!-- inactive-ok-file: ARG-tmpbad4y THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: TERM-138 — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-802 CLAIM-823 ARG-132 CLAIM-833 ARG-126 ARG-137 ARG-130 ARG-142 — Proposed or Rejected; filed 2026-11-21 after the coverage check -->
@@ -206,3 +207,18 @@ the manifolds are curved; CLAIM-848 has the participation ratio failing to
 track intrinsic dimension from the other side. Where a component here leans
 on low or effective dimension, it should say which of TERM-136's senses it
 means. No component changes.
+
+## Note of 2026-11-22: the Mermin–Wagner neighbours, read
+
+The "When order survives" bullet maps CLAIM-842 as A's supposition. Read
+through three neighbours of Mermin and Wagner (LIT-2985, Unavailable),
+the supposition's mathematics is held in the literature as Cassi's
+theorem (1992, LIT-tmpu2kk5, after Hattori, Hattori and Watanabe 1987,
+LIT-tmp309tx, both registered and unread, known through Gelfert and
+Nolting, THEORY-tmp1nvjs) for spin models with a continuous symmetry in
+equilibrium; its limits are Halperin's (THEORY-tmpqma2p), and Toner and
+Tu's flock (THEORY-tmpdfeto) is a case where breaking equilibrium removes
+the divergence. CLAIM-842 now says so (version 2; ARG-tmpx5evn). The
+bullet still maps the claim faithfully; when the account is next
+revised it should say that the criterion is a theorem elsewhere and a
+supposition here. No status change.

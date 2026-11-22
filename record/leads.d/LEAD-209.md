@@ -4,7 +4,7 @@ status: Open
 formerly:
 - LEAD-tmpng7or
 title: 'Write and try a protocol that reads which mechanism maintains an observed power law from how its cutoff, its rescaled distributions, its dynamics and its response to a symmetry-breaking field behave'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-22'
@@ -14,6 +14,17 @@ history:
     the mixture column's cutoff cell restated by CLAIM-tmpf9qt9, and a
     paragraph saying that the turbulence and mixture columns are not
     exclusive. The plan and status are unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    Edited in place on 2026-11-22 after Takeuchi and Sano (LIT-2982),
+    Kardar, Parisi and Zhang (LIT-2978) and Toner and Tu (LIT-2970) were
+    read, and Kosterlitz and Thouless (LIT-2969) through neighbours: the
+    KPZ column's skewness cell corrected from increments to the height; a
+    row for the parameter-free skewness and kurtosis of the height (GUE
+    against GOE against Gaussian); a row for a finite interaction range
+    (a penetration depth λ) beside the symmetry-breaking field; the
+    flock's observables named. The plan and status are unchanged.
 stage: idea
 method:
 - formal
@@ -43,6 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpw4qgu THEORY-tmpczldx CLAIM-tmpf9qt9 — Proposed; the readings of 2026-11-22 cited in the notes and the table, and the assistant's condition on the spread -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-829 CLAIM-803 CLAIM-846 CLAIM-850 — filed from the same exchange on 2026-11-21, Proposed or Open -->
+<!-- inactive-ok-file: THEORY-tmpmoyol THEORY-tmpo3w5v THEORY-tmpdfeto THEORY-tmpwdka8 NOTE-tmpcjw5n CLAIM-tmpvq33w LIT-2969 — Proposed, Skimmed, Unfetched or new; the readings of 2026-11-22 and the claim filed from them -->
 
 # LEAD-209: Write and try a protocol that reads which mechanism maintains an observed power law from how its cutoff, its rescaled distributions, its dynamics and its response to a symmetry-breaking field behave
 
@@ -75,8 +87,10 @@ variance warning.
 | cutoff with system size L | ∝ L^D, with collapse s^(−τ) f(s/L^D) | ∝ L | fixed by viscous scale | W ∝ L^α | independent of L |
 | dynamic exponent z, from C(r, t) = r^(−2Δ) F(t/r^z) | model's z | 1 or 2 by mode | from flux scaling | 3/2 in 1D | none |
 | net probability currents, path-space KL(forward ‖ reversed) | zero for an equilibrium point (Ising), nonzero for an absorbing-state one (directed percolation) | zero at equilibrium | nonzero | nonzero | either |
-| a small symmetry-breaking field μ | shifts the point | opens a gap, ξ ∼ √ρ_s/μ | no effect expected | depends | no effect |
-| odd-order statistics of increments | zero in a Z₂-symmetric equilibrium model | zero (Gaussian) | nonzero (4/5 law) | nonzero skewness | either |
+| a small symmetry-breaking field μ | shifts the point | opens a gap, ξ ∼ √ρ_s/μ; for a flock, a "compass" gives a "mass" (Toner and Tu, p. 63) | no effect expected | depends | no effect |
+| a finite interaction range (a cutoff length λ on the coupling, e.g. a penetration depth) | depends | ends the 2D XY phase: beyond λ vortices are free at any T > 0 (Kosterlitz's lecture, p. 98) | not worked out | not worked out | no effect |
+| odd-order statistics of increments | zero in a Z₂-symmetric equilibrium model | zero (Gaussian) | nonzero (4/5 law) | not measured in the KPZ readings; the nonzero skewness they report is of the height, next row | either |
+| skewness and kurtosis of the rescaled height, which need no fitted parameter | not worked out | zero (Gaussian) | not worked out | GUE Tracy-Widom, about 0.2241 and 0.09345, for a curved front; GOE for a flat one; Gaussian excluded (Takeuchi and Sano, p. 3) | not worked out |
 | third-order term g(q) of the small-variance expansion of the log distribution (Beck and Cohen, eqs. 26–30) | not worked out | not worked out | the spread's, where the flux is read as superstatistics | not worked out | tells the spread apart: 0 uniform, −⅓(q − 1)² gamma, −⅙(q³ − 3q + 2) lognormal |
 
 **The columns are not exclusive.** Beck and Cohen's own application of
@@ -94,10 +108,19 @@ The table is a first draft from A's turns and the assistant's checks in
 [CLAIM-846](../claims.d/CLAIM-846.md) and [CLAIM-850](../claims.d/CLAIM-850.md); writing the protocol includes
 checking each cell.
 
+The KPZ column's dynamic exponent and cutoff cells are what Kardar,
+Parisi and Zhang and Takeuchi and Sano give (z = 3/2, W ∝ L^α, α = ½), for
+d = 1; above two dimensions a weak nonlinearity flows to the smooth phase
+(z = 2), so the column is for d ≤ 2. The flock's observables, for the
+symmetry column, are the density structure factor Cρ(q), diverging as
+q → 0, the widths and heights of the peaks of Cρ(q, ω), and a tagged
+bird's hyperdiffusive w²(t) ∝ t^(4/3) in d = 2 (Toner and Tu, §VII).
+
 **Trial.** Simulate one system per column where the answer is known:
 critical branching at several R and sizes; the Gaussian spin-wave field
 with and without μ; the linear shell cascade of [CLAIM-850](../claims.d/CLAIM-850.md) and, if
-affordable, a shell model of turbulence; a 1D KPZ discretization; an
+affordable, a shell model of turbulence; a 1D KPZ discretization, scored against the exponents and the
+GUE/GOE skewness and kurtosis; an
 exponential mixture over a gamma spread of rates. Apply the protocol blind
 to each and score how often it names the mechanism. Then add a
 dragon-king case (one mechanism for the bulk, another for the top
@@ -131,4 +154,35 @@ away from zero has an exponential cutoff at its lowest rate,
 [CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md)); and the paragraph above on the flux and mixture columns.
 The trial's "exponential mixture over a gamma spread of rates" is their
 eq. 13, (1 + bE)^(−c). Version 2.
+
+## Change of 2026-11-22: the KPZ and symmetry columns, after reading
+
+- **Skewness of the height, not of increments.** The KPZ cell "nonzero
+  skewness" in the increments row was near the mark but misplaced: what
+  Takeuchi and Sano measure (LIT-2982, NOTE-tmpbmox1; THEORY-tmpmoyol) is
+  the skewness of the height itself, the local radius, about 0.2241, with
+  kurtosis about 0.09345, quantities "which do not depend on the
+  parameter estimates" (p. 3). The cell now says so, and a row of its
+  own carries them: they tell GUE (curved fronts) from GOE (flat) and
+  from Gaussian, so they read the geometry as well as the class.
+- **A finite interaction range**, beside the symmetry-breaking field: a
+  second kind of scale-introducing perturbation. In a charged
+  superconducting film a finite penetration depth "limits the range of
+  the logarithmic interaction between vortices", so "the vortices are
+  always free at any T > 0" (Kosterlitz's lecture, LIT-tmp3k6np, p. 98;
+  THEORY-tmpwdka8). It ends the untuned XY phase without breaking the
+  symmetry. CLAIM-tmpvq33w states the shape the two rows share.
+- **The flock's field response.** Toner and Tu (LIT-2970, NOTE-tmpcjw5n;
+  THEORY-tmpdfeto) support the field row for flocks: a compass
+  "will introduce a "mass" that makes any fluctuation away from the
+  pre-picked direction of flock motion decay rapidly" (p. 63).
+
+Version 3.
+
+## Note of 2026-11-22: Kardar, Parisi and Zhang, read
+
+KPZ (LIT-2978, NOTE-tmpf6isj; THEORY-tmpo3w5v) **supports the KPZ
+column's z and W cells** for d = 1, exact there, and scopes the column to
+d ≤ 2. It has nothing on skewness, currents or a cutoff. A trial on a 1D
+discretization should recover z = 3/2 and the growth exponent ⅓.
 

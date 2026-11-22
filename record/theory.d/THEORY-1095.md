@@ -31,6 +31,7 @@ summary: >-
   with z < 2, which is expected "on physical grounds". The change-of-
   neighbours mechanism is a heuristic. Proposed for those two steps.
 ---
+<!-- inactive-ok-file: THEORY-tmpdfeto NOTE-tmpcjw5n — Proposed or Skimmed; the reading of the long paper, 2026-11-22 -->
 
 # THEORY-1095: In Toner and Tu's hydrodynamic model of a flock, true long-range orientational order survives in two dimensions, where the Mermin–Wagner theorem forbids it at equilibrium and the model's own linearized theory loses it, because the convective coupling of the velocity field to its own transport, relevant below four dimensions, keeps the transverse velocity fluctuations bounded; the authors' heuristic is that motion keeps changing each member's neighbours, so originally distant members come to interact
 
@@ -88,3 +89,42 @@ interaction which stabilizes the ordered phase" (p. 3).
   asserted, not derived from a microscopic rule.
 - **Anything about the transition into order**, which is left open
   (pp. 9–10).
+
+## Note of 2026-11-22: Toner and Tu (1998), read
+
+The long paper (LIT-2970, read in NOTE-tmpcjw5n; the reading is
+THEORY-tmpdfeto) **keeps the conclusion and changes the argument.** Its
+d = 2 exponents are again z = 6/5, ζ = 3/5, χ = −1/5, "exact and universal
+for all flocks with the simple symmetries we discussed" (eq. 1.20, p. 10),
+and the 1995 results are "sound" in d = 2 (p. 11). But the two unproved
+steps this reading names, the cubic vertex staying irrelevant and z < 2
+"on physical grounds", are the 1995 letter's; the word "cubic" does not
+occur in the 1998 text. The 1998 argument (§V.C, pp. 46–50) rests instead
+on:
+
+- **every relevant vertex ∝ q⊥** in d = 2 (the longitudinal–transverse
+  cross terms dropped as irrelevant because their frequency peaks do not
+  overlap, the longitudinal–longitudinal term a total derivative), so ∆,
+  D∥ and Dρ are not renormalized (eqs. 5.74–5.75);
+- **pseudo-Galilean invariance**: at λ₁ = λρ the equations have "an exact
+  symmetry which we call pseudo-Galilean invariance" (eqs. 5.76–5.77), so
+  λ₁ is not renormalized there;
+- **mass conservation**, exact, which with the above gives χ = 1 − z at a
+  "type II" fixed point (eq. 5.79);
+- **a flow to that fixed point** for all flocks, which the authors do not
+  prove: "We consider it highly probable that this is, in fact, the case"
+  (p. 48); then "So all models in d = 2 must have the canonical exponents"
+  (p. 50).
+
+The reader's own observation, not the paper's: eq. (5.8) gives
+γₙ = n + (1 − n)d/2, which is 1 for every n in d = 2, so every pressure
+term σₙ(δρ)ⁿ is relevant there by power counting (checked: n + (1 − n) =
+1). They are ⊥ gradients, so the non-renormalization of ∆ and D∥
+survives, but the type I/II analysis treats σ₂ alone.
+
+So the `promote_when` stands and is not met: the 1998 argument avoids the
+cubic vertex but has its own unproved step, a flow called "highly
+probable", and it is an argument, not the controlled calculation or
+finite-size scaling the condition asks for. THEORY-tmpdfeto holds the
+long paper's account; the exactness stays this entry's question. No
+status change.

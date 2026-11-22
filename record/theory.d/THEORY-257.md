@@ -68,6 +68,8 @@ bounds:
 - CLAIM-397
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the locality accounts on QUESTION-065 and the boundary claims this account bears on, open -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmp3ima1 — Proposed; alternative (a), filed 2026-11-22 from the readings of Quinn and colleagues and of Shalizi and Moore -->
 
 # THEORY-257: Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many
 
@@ -187,3 +189,20 @@ full in [NOTE-791](../notes.d/NOTE-791.md) (arXiv:2106.06511v2).
   subtracts exactly the one-step dynamical dependence, which bounds this
   account's history-conditioned dependence from above. So Ψ's decoupling
   term vanishing implies dynamical independence, but not conversely.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+**A contrast** (LIT-2996, NOTE-tmpunt6q, THEORY-tmpttfgp). This entry
+says dynamical independence "fixes emergent macroscopic variables by the
+dynamics rather than by a chosen query". Shalizi and Moore, whom
+Barnett and Seth name among their rivals (NOTE-791), hold the opposite for macrostates: the
+dynamics fix them only given a query, the observables, "our choices about
+what to predict"; "Nature has no preferred questions" (§VI). The two also
+condition on different pasts: dynamical independence on the microscopic
+history, Shalizi and Moore's causal states on the observed process's own
+past. The phrase "rather than by a chosen query" holds within a chosen
+class of coarse-grainings (here, linear projections of a VAR); whether
+the choice of that class is itself a query is what the contrast leaves
+for this account to answer. CLAIM-tmp3ima1 (alternative a, Proposed) sets
+the two side by side. No relation is written: the two can both be right,
+so `rivals` does not apply. Status unchanged.

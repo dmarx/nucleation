@@ -21,6 +21,7 @@ summary: >-
   and the owner's next turn (U19) adds concentration of measure as the
   baseline any such model has to beat ([CLAIM-822](../claims.d/CLAIM-822.md)).
 ---
+<!-- inactive-ok-file: NOTE-tmpcjw5n LIT-tmpu2kk5 — Skimmed, Deferred or new; readings of 2026-11-22 and Cassi, registered -->
 <!-- inactive-ok-file: CLAIM-799 THEORY-tmpcij35 THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-822 CLAIM-798 CLAIM-818 CLAIM-842 TERM-136 CLAIM-797 CLAIM-838 THEORY-1095 THEORY-2051 THEORY-209 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
 <!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
@@ -100,3 +101,21 @@ and a partition field that is a mean field through the representation's
 own density. It says nothing on activity or criticality, and places the
 source of any irreversibility outside the objective, which is a joint
 energy even for two modalities (CLAIM-798's note). No relation.
+
+## Note of 2026-11-22: Toner and Tu (1998), and the Mermin–Wagner neighbours, read
+
+**Background, no edge.** Toner and Tu's long paper (LIT-2970,
+NOTE-tmpcjw5n) names what an active-matter model of a representation
+would have to carry over before its results transfer: self-propulsion
+through a medium that singles out a frame (no Galilean invariance, no
+momentum conservation), rotation invariance, a conserved density, and
+convective transport that changes who interacts with whom; it is these,
+out of equilibrium, that remove the 2D logarithm and give true order. It
+says nothing of representations. And the criterion of CLAIM-842, which
+"What would count as an answer" cites, is now held in the literature as a
+theorem for spin models in equilibrium (Cassi, LIT-tmpu2kk5, through
+Gelfert and Nolting, LIT-tmpbgf6y), with conditions (a local continuous
+symmetry, equilibrium, finite second moments) an active-matter reading
+would break: the flock is the worked case where breaking equilibrium
+reverses the conclusion (CLAIM-842's section of 2026-11-22). No status
+change.

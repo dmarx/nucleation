@@ -53,6 +53,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2041 — Proposed; the order-to-chaos transition in random deep networks -->
 <!-- inactive-ok-file: THEORY-2158 CLAIM-809 — Proposed; the reading of 2026-11-21 and the claim it bears on -->
 
+<!-- inactive-ok-file: THEORY-tmps8t83 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpye6xs LIT-tmpfn6b8 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
 
 # CLAIM-850: Chaos, criticality and a cascade through scales are distinct properties, and each can occur without either of the others; they meet only through particular mechanisms, such as the period-doubling accumulation point, which is critical in the renormalization-group sense and not chaotic
@@ -180,3 +181,19 @@ critical. The claim's separation of chaos, criticality and cascade is
 untouched; the letter's conjecture that SOC underlies turbulence too
 (p. 381) runs criticality and cascade together without argument. No
 edge. Status unchanged.
+
+## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
+
+**Qualifies "Where they meet": a further mechanism**, no edge. In driven
+random threshold networks (LIT-tmpdsowv, read in NOTE-tmpi5t3r in place
+of Bertschinger and Natschläger, LIT-2991; THEORY-tmps8t83), the
+order-to-chaos line is K·P_bf = 1: one flipped node flips on average one
+node at the next step. The onset of chaos there is a branching ratio of
+one, of perturbations, not of activity, which "can vary considerably"
+across the parameter plane. So the order–chaos edge and a critical
+branching condition meet by mechanism, as this claim says they must,
+without the network's activity being critical in the sense of a
+diverging correlation of activity. The reading of Eq. 1 as a branching
+ratio is the reader's and the filer's inference, not the paper's. It is
+a damage-spreading (annealed mean-field) edge of a driven map, the same
+kind as THEORY-2041's. Status unchanged.

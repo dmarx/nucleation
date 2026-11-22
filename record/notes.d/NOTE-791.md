@@ -35,6 +35,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the partial answers to QUESTION-065 and the boundary claims this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account filed from this reading -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: TERM-tmpaztqn — Proposed; the term filed from the reading of Shalizi and Moore, 2026-11-22 -->
 
 # NOTE-791: Barnett and Seth — Dynamical independence
 
@@ -280,3 +282,11 @@ uniform prior over states) and Millidge's query-driven abstractions.
   multiplicity a property of the systems?
 - How does the portrait change when the system/environment boundary is
   moved? This is the input the paper takes as given.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+Connections name "Shalizi and Moore's causal states" among the rivals.
+That work is now read (LIT-2996, NOTE-tmpunt6q, THEORY-tmpttfgp). A
+contrast: Shalizi and Moore condition on the macro process's own past and
+start from a chosen observable; dynamical independence conditions on the
+micro past. Their emergence relation is TERM-tmpaztqn.
