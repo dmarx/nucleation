@@ -27,8 +27,8 @@ illustrates:
 bears_on:
 - QUESTION-131
 summary: >-
-  LEAD-076 asked for CASE-153's full design, with hidden state and the
-  restriction of evidence, which CASE-157's run and the toy in CASE-153's
+  [LEAD-076](../leads.d/LEAD-076.md) asked for [CASE-153](CASE-153.md)'s full design, with hidden state and the
+  restriction of evidence, which [CASE-157](CASE-157.md)'s run and the toy in [CASE-153](CASE-153.md)'s
   note of 2026-11-04 did not have. A hidden world is dangerous for 150
   steps, safe for 400 and dangerous for 100. Each step the agent inspects
   (accuracy 0.9, cost 0.05) or shelters (no observation), then protects
@@ -42,7 +42,7 @@ summary: >-
   needless protection more under success feedback than under independent
   evaluation. An independent audit lets 66 % of runs leave. A protected
   investigator corrects the belief within a median 6 steps, yet protection
-  outlasts it in 87 % of runs, the regime CASE-153 asked for. Every regime
+  outlasts it in 87 % of runs, the regime [CASE-153](CASE-153.md) asked for. Every regime
   still protects when danger returns. The case's own check comes out
   against the authority state: under success feedback its update is the
   habit of protecting, and a habit of matched memory reproduces the
@@ -59,9 +59,9 @@ summary: >-
 
 ## The study
 
-LEAD-076 asked for the full design of CASE-153, "with hidden state and the
-restriction of evidence". CASE-157's run covered two axes with binary
-decisions. In the toy in CASE-153's note of 2026-11-04, "The evidence is
+[LEAD-076](../leads.d/LEAD-076.md) asked for the full design of [CASE-153](CASE-153.md), "with hidden state and the
+restriction of evidence". [CASE-157](CASE-157.md)'s run covered two axes with binary
+decisions. In the toy in [CASE-153](CASE-153.md)'s note of 2026-11-04, "The evidence is
 exogenous". Here the sentry can block the evidence used to judge it.
 
 **World and agent.** The hidden state x is dangerous for 150 steps, safe
@@ -70,7 +70,7 @@ assumes a switching hazard h = 0.02. Each step it makes two decisions.
 
 - *Evidence.* It inspects, which reads x with accuracy 0.9 at cost 0.05,
   or shelters, which yields nothing. Inspection is physically safe, as in
-  CASE-153's first version.
+  [CASE-153](CASE-153.md)'s first version.
 - *Posture.* It protects, at cost 1 whatever the state, or engages, at
   cost 5 if the state is dangerous. The posture decision is the
   assistant's addition. Without it, needless protection has no price and
@@ -85,7 +85,7 @@ assumes a switching hazard h = 0.02. Each step it makes two decisions.
 VOI is the myopic value of one inspection for the next posture, and b is
 the belief in danger. The defaults are κ = 1.5 and η = 0.02.
 
-**Feedback F**, CASE-153's manipulation that matters:
+**Feedback F**, [CASE-153](CASE-153.md)'s manipulation that matters:
 
 - *independent*: F is the evaluator's belief in danger. Without an audit,
   that belief is formed from the agent's own observations.
@@ -139,7 +139,7 @@ every table.
 | protected investigator | 100 % (median 6 steps) | 4.5 % | censored | 87 % | 328 | 0.5 % |
 | habit, protected investigator | 100 % | 4.5 % | censored | 88 % | 322 | 0.5 % |
 
-**The regime CASE-153 asked for.** "A regime in which corrective evidence
+**The regime [CASE-153](CASE-153.md) asked for.** "A regime in which corrective evidence
 would suffice to change the appraisal but the governance structure keeps
 it from becoming consequential." The protected investigator produces it:
 the belief is corrected within a median 6 steps, and protection outlasts
@@ -163,7 +163,7 @@ safe phase:
   17 to 30 steps. Fixed authority at 0.2 never persists. At a trained
   0.95, no run leaves, with or without restriction.
 
-**CLAIM-446's four interventions**, 50 steps after the switch, in the
+**[CLAIM-446](../claims.d/CLAIM-446.md)'s four interventions**, 50 steps after the switch, in the
 success-and-restricted cell:
 
 | model | none | belief corrected | authority reset | evidence access restored | reinforcement made independent |
@@ -212,20 +212,20 @@ fully corrected belief (b = 0) that needs κ ≥ 1.83. At b = 0.05 it needs
 ## What it shows
 
 - **Within the model, the stipulated coupling produces all four regimes
-  CASE-153 named** (evidence-tracking, revisable, inertial and
+  [CASE-153](CASE-153.md) named** (evidence-tracking, revisable, inertial and
   self-confirming), with boundaries in the sentry's strength that the
   table locates. Restriction moves a regime from inertial to
   self-confirming. Success feedback is what makes the trained state stable
   at all. A regime whose interventions shift the evidence used to judge it
-  maintains itself, as CLAIM-445 says, here within a stipulated model.
+  maintains itself, as [CLAIM-445](../claims.d/CLAIM-445.md) says, here within a stipulated model.
 - **Thwarting without structural frustration, in motion.** The sentry's
   demand (no harm) and the investigator's (diagnostic evidence) are met
   together by protecting and inspecting, so the pair is jointly
   satisfiable. Yet with authority the sentry blocks inspection, and
   silencing its block (the protected investigator) gets the
   investigator's demand met. This is construction C6 of
-  CLAIM-tmpmcrb7, run.
-- **CASE-153's check on its own extra state comes out mostly against it.**
+  [CLAIM-tmpmcrb7](../claims.d/CLAIM-tmpmcrb7.md), run.
+- **[CASE-153](CASE-153.md)'s check on its own extra state comes out mostly against it.**
   "If a Bayesian learner with matched information costs, or a habit model
   with matched memory, reproduces every intervention response, the extra
   authority state has not earned its place. That outcome is to be
@@ -235,18 +235,18 @@ fully corrected belief (b = 0) that needs κ ≥ 1.83. At b = 0.05 it needs
     does not.
   - The habit reproduces every response it can receive. Only the audit and
     reinforcement made independent tell the two apart, and both act on an
-    evaluator that a habit has no place for. CLAIM-tmpqp1h6 states this,
-    and what it does and does not do to CLAIM-446's and CLAIM-443's
+    evaluator that a habit has no place for. [CLAIM-tmpqp1h6](../claims.d/CLAIM-tmpqp1h6.md) states this,
+    and what it does and does not do to [CLAIM-446](../claims.d/CLAIM-446.md)'s and [CLAIM-443](../claims.d/CLAIM-443.md)'s
     defeaters.
 
 ## What it cannot show
 
-- That anxiety, or any institution, realizes the mechanism (ARG-025's
+- That anxiety, or any institution, realizes the mechanism ([ARG-025](../arguments.d/ARG-025.md)'s
   grades of evidence). The values are the assistant's. The posture
   decision, myopic VOI and the form of success feedback are choices the
   case left open (README, "Choices the case left open").
 - That a governance account beats a habit account anywhere outside this
   model.
-- The second version of CASE-153, where inspection itself is risky. There
+- The second version of [CASE-153](CASE-153.md), where inspection itself is risky. There
   the sentry's and investigator's demands would be structurally frustrated
   in danger. It was not run.

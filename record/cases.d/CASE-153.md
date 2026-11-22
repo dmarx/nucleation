@@ -211,11 +211,11 @@ No status change.
 
 ## Note of 2026-11-22: run in full
 
-LEAD-076 ran the design with hidden state and the sentry's restriction of
-evidence. The run is CASE-tmpxmuri, with code in
+[LEAD-076](../leads.d/LEAD-076.md) ran the design with hidden state and the sentry's restriction of
+evidence. The run is [CASE-tmpxmuri](CASE-tmpxmuri.md), with code in
 scratch/studies/lead-076/. It covers the five-condition first experiment
 and the factorial, with both correction rights and fixed authority as a
-third feedback level. It also runs the four interventions of CLAIM-446's
+third feedback level. It also runs the four interventions of [CLAIM-446](../claims.d/CLAIM-446.md)'s
 test, a phase diagram over κ and η, and checks of sensitivity.
 
 - **The regime the case asked for appears.** With a protected
@@ -229,8 +229,8 @@ test, a phase diagram over κ and η, and checks of sensitivity.
   the extra authority state has not earned its place." Under success
   feedback the authority update is the habit trace, and the matched habit
   reproduces every intervention it can receive. Only the audit and
-  reinforcement made independent tell them apart. CLAIM-tmpqp1h6 states
+  reinforcement made independent tell them apart. [CLAIM-tmpqp1h6](../claims.d/CLAIM-tmpqp1h6.md) states
   this and sets out two readings for the owner.
 
 The design left the reward structure open. The run adds a posture decision
-(protect or engage), as CASE-tmpxmuri says. The case is unchanged.
+(protect or engage), as [CASE-tmpxmuri](CASE-tmpxmuri.md) says. The case is unchanged.

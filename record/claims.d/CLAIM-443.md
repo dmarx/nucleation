@@ -183,16 +183,16 @@ unrun; Friston et al.'s devaluation run is the cached arm alone.
 
 Stern et al.'s creased sheet ([NOTE-1615](../notes.d/NOTE-1615.md)), from the pasted synthesis on constraint architectures, is an analogy in form: crease stiffnesses change by a local update whose sign an external supervisor sets by whether the response was right, and the trained sheet generalizes to inputs it never saw. That resembles the claim's reward-modulated Hebbian bias, in a physical substrate and in simulation only. It leaves the claim's subject untouched: nothing in it is governance among processes, and it says nothing of whether earlier training replaces later computation, which is what amortization needs. No status changes.
 
-## Note of 2026-11-22: a matched habit in the sentry, from LEAD-076
+## Note of 2026-11-22: a matched habit in the sentry, from [LEAD-076](../leads.d/LEAD-076.md)
 
-In CASE-tmpxmuri (LEAD-076), a learned authority over protection and
+In [CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md) ([LEAD-076](../leads.d/LEAD-076.md)), a learned authority over protection and
 evidence, reinforced by the apparent success of protection, is compared
 with a cached habit of matched memory. They agree under every intervention
 the habit can receive, including the change in what is appropriate: the
 switch from danger to safety. They part only under interventions on the
 evaluation. This bears on this claim's defeater, "a cached action policy
 reproduces every response to intervention that the learned authority
-prior predicts". The two readings are set out in CLAIM-tmpqp1h6. It also
+prior predicts". The two readings are set out in [CLAIM-tmpqp1h6](CLAIM-tmpqp1h6.md). It also
 illustrates "Naive Hebbian learning entrenches": under success feedback
 the trained authority is self-confirming above a sentry strength of about
 1.25–1.5.

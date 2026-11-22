@@ -472,10 +472,10 @@ neither which process governs inquiry nor what evidence it can reach:
 every arm approached the same spider. Background only; no relation
 written. No status change.
 
-## Note of 2026-11-22: the test run in a model, from LEAD-076
+## Note of 2026-11-22: the test run in a model, from [LEAD-076](../leads.d/LEAD-076.md)
 
-LEAD-076 ran this claim's four interventions in CASE-153's sentry
-(CASE-tmpxmuri; CLAIM-tmpqp1h6). In the model, the decisive case appears:
+[LEAD-076](../leads.d/LEAD-076.md) ran this claim's four interventions in [CASE-153](../cases.d/CASE-153.md)'s sentry
+([CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md); [CLAIM-tmpqp1h6](CLAIM-tmpqp1h6.md)). In the model, the decisive case appears:
 the trained defense keeps governing after belief correction (0 % of runs
 leave), and becomes revisable when evidence access is restored (78 %) or
 authority is rewarded on independent evidence (100 %).
@@ -487,7 +487,7 @@ trace. Only reinforcement correction, and an independent audit, separate
 the two. Whether that meets this claim's defeater ("a habit model with
 matched memory reproduces under every intervention the claim
 distinguishes") depends on whether an outcome-gated habit can receive
-reinforcement correction. CLAIM-tmpqp1h6 sets out both readings for the
+reinforcement correction. [CLAIM-tmpqp1h6](CLAIM-tmpqp1h6.md) sets out both readings for the
 owner.
 
-The run is a stipulated model (ARG-025's grades). No status change.
+The run is a stipulated model ([ARG-025](../arguments.d/ARG-025.md)'s grades). No status change.

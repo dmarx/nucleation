@@ -57,21 +57,21 @@ Both parts were done on branch claude/lead-076-sentry, with code, tests
 and results in scratch/studies/lead-076/.
 
 - **Constructions in each direction**, with thwarting tested by silencing
-  a process: CLAIM-tmpmcrb7 (demonstrated). Part of the
+  a process: [CLAIM-tmpmcrb7](../claims.d/CLAIM-tmpmcrb7.md) (demonstrated). Part of the
   frustration-without-thwarting direction was already held, in
-  CLAIM-631's item 3, and is reproduced there, not filed again.
-- **CASE-153's full design**, with hidden state and evidence restriction:
-  CASE-tmpxmuri (executed study). The finding, including the matched habit
-  that reproduces every intervention it can receive, is CLAIM-tmpqp1h6.
-- **Dated notes** on CASE-153, QUESTION-131, CLAIM-446, CLAIM-443 and
-  CLAIM-445.
+  [CLAIM-631](../claims.d/CLAIM-631.md)'s item 3, and is reproduced there, not filed again.
+- **[CASE-153](../cases.d/CASE-153.md)'s full design**, with hidden state and evidence restriction:
+  [CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md) (executed study). The finding, including the matched habit
+  that reproduces every intervention it can receive, is [CLAIM-tmpqp1h6](../claims.d/CLAIM-tmpqp1h6.md).
+- **Dated notes** on [CASE-153](../cases.d/CASE-153.md), [QUESTION-131](../questions.d/QUESTION-131.md), [CLAIM-446](../claims.d/CLAIM-446.md), [CLAIM-443](../claims.d/CLAIM-443.md) and
+  [CLAIM-445](../claims.d/CLAIM-445.md).
 
 What remains:
 
-- CASE-153's second version, where inspection is physically risky, so
+- [CASE-153](../cases.d/CASE-153.md)'s second version, where inspection is physically risky, so
   that the sentry's and investigator's demands are structurally
   frustrated in danger. It was not run.
-- Which reading of the habit comparison holds (CLAIM-tmpqp1h6), and
-  whether a constraint can thwart (CLAIM-tmpmcrb7). Both are the owner's.
+- Which reading of the habit comparison holds ([CLAIM-tmpqp1h6](../claims.d/CLAIM-tmpqp1h6.md)), and
+  whether a constraint can thwart ([CLAIM-tmpmcrb7](../claims.d/CLAIM-tmpmcrb7.md)). Both are the owner's.
 
 The lead's status and stage are the owner's to change.

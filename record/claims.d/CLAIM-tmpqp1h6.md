@@ -33,10 +33,10 @@ grounds:
 bears_on:
 - QUESTION-131
 summary: >-
-  CASE-153 set its own check: "if a Bayesian learner with matched
+  [CASE-153](../cases.d/CASE-153.md) set its own check: "if a Bayesian learner with matched
   information costs, or a habit model with matched memory, reproduces
   every intervention response, the extra authority state has not earned
-  its place." Run in CASE-tmpxmuri, the Bayesian with matched cost does not
+  its place." Run in [CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md), the Bayesian with matched cost does not
   reproduce the responses. The habit reproduces every intervention it can
   receive, because under success feedback the authority update is the
   habit trace. What separates them is an evaluator that can be audited or
@@ -44,7 +44,7 @@ summary: >-
   place only as far as its evaluation can be reached from outside. The
   claim also records the factorial's interaction and the regimes,
   including protection outlasting a corrected belief, and what this does
-  to CLAIM-446's, CLAIM-443's and CLAIM-445's defeaters. Two readings of
+  to [CLAIM-446](CLAIM-446.md)'s, [CLAIM-443](CLAIM-443.md)'s and [CLAIM-445](CLAIM-445.md)'s defeaters. Two readings of
   the habit comparison are set out for the owner. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -54,7 +54,7 @@ summary: >-
 
 ## The claim
 
-All figures are CASE-tmpxmuri's: 1000 paired seeds, κ = 1.5, η = 0.02.
+All figures are [CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md)'s: 1000 paired seeds, κ = 1.5, η = 0.02.
 
 1. **The same law.** Under success feedback, F = 1 whenever the agent
    protects. So, apart from the rare steps on which the agent engages and
@@ -79,7 +79,7 @@ All figures are CASE-tmpxmuri's: 1000 paired seeds, κ = 1.5, η = 0.02.
    correction ends its protection at once.
 3. **Inertia and self-confirmation.**
    - Without restriction, success feedback above the boundary leaves the
-     belief corrected and protection on. That is CLAIM-446's "the regime
+     belief corrected and protection on. That is [CLAIM-446](CLAIM-446.md)'s "the regime
      can outlast a corrected belief" (inertial).
    - With restriction, the belief itself is not corrected in 43 % of runs
      (self-confirming). Restriction adds 134 [132, 137] units of needless
@@ -93,17 +93,17 @@ All figures are CASE-tmpxmuri's: 1000 paired seeds, κ = 1.5, η = 0.02.
 
 ## Two readings of the habit comparison, for the owner
 
-CLAIM-446's defeater includes "persistent avoidance that ... a habit model
+[CLAIM-446](CLAIM-446.md)'s defeater includes "persistent avoidance that ... a habit model
 with matched memory reproduces under every intervention the claim
 distinguishes (belief correction, authority correction, evidence-access
-correction, reinforcement correction)". CLAIM-443's includes "a cached
+correction, reinforcement correction)". [CLAIM-443](CLAIM-443.md)'s includes "a cached
 action policy reproduces every response to intervention that the learned
 authority prior predicts".
 
 - **Reading A: not met.** The habit cannot receive reinforcement
   correction or an audit, so it does not reproduce "every intervention".
   The authority state earns its place in the model through exactly those
-  two responses. The decisive pattern CLAIM-446's test names appears: "a
+  two responses. The decisive pattern [CLAIM-446](CLAIM-446.md)'s test names appears: "a
   trained defense that keeps governing after belief correction and
   becomes revisable after a manipulation restoring independent evidence".
 - **Reading B: met in substance.** A habit gated by the outcome, F = 1 on
@@ -114,26 +114,26 @@ authority prior predicts".
   is what the reinforcement signal is computed from, and whether
   something outside can reach it.
 
-Which reading holds is a question about what CLAIM-446 and CLAIM-443 mean
+Which reading holds is a question about what [CLAIM-446](CLAIM-446.md) and [CLAIM-443](CLAIM-443.md) mean
 by authority and by a habit. That is the owner's, and nothing here
 changes their status.
 
 ## What it bears on
 
-- **CLAIM-445.** Within the model, a protective regime whose interventions
+- **[CLAIM-445](CLAIM-445.md).** Within the model, a protective regime whose interventions
   shift the evidence used to judge it maintains itself (the
   success-and-restricted cell), and insulating the evaluation (an audit,
   or independent reinforcement) changes exit. So the model does not meet
-  CLAIM-445's second defeater, "an intervention that insulates the
+  [CLAIM-445](CLAIM-445.md)'s second defeater, "an intervention that insulates the
   evaluation of necessity from the protective regime and leaves exit from
   protection unchanged". Restriction under independent evaluation
   maintains the regime only at a stronger sentry (κ ≥ 2.75), or when the
   agent assumes the world almost never changes (h = 0.002: a median 301
   steps).
-- **QUESTION-131.** The sentry and the investigator are jointly
+- **[QUESTION-131](../questions.d/QUESTION-131.md).** The sentry and the investigator are jointly
   satisfiable (protect and inspect), and the sentry thwarts the
-  investigator. This is CLAIM-tmpmcrb7's item 4 in motion.
-- **ARG-025's grades.** A stipulated model; nothing about anxiety or
+  investigator. This is [CLAIM-tmpmcrb7](CLAIM-tmpmcrb7.md)'s item 4 in motion.
+- **[ARG-025](../arguments.d/ARG-025.md)'s grades.** A stipulated model; nothing about anxiety or
   institutions follows.
 
 ## What it does not say

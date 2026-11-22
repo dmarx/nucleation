@@ -223,12 +223,12 @@ Candidate account 3 is developed in [CLAIM-554](../claims.d/CLAIM-554.md).
 
 The question stays open.
 
-## Note of 2026-11-22: constructions in each direction, from LEAD-076
+## Note of 2026-11-22: constructions in each direction, from [LEAD-076](../leads.d/LEAD-076.md)
 
-LEAD-076 built the constructions this question asks for
+[LEAD-076](../leads.d/LEAD-076.md) built the constructions this question asks for
 ("Constructions that separate the two in each direction would show how
 independent they are"). Thwarting is tested by silencing a process, a
-counterfactual intervention. They are filed as CLAIM-tmpmcrb7
+counterfactual intervention. They are filed as [CLAIM-tmpmcrb7](../claims.d/CLAIM-tmpmcrb7.md)
 (demonstrated; scratch/studies/lead-076/frustration.py).
 
 - **Under a resolution that seeks joint satisfaction**, a member is
@@ -240,9 +240,9 @@ counterfactual intervention. They are filed as CLAIM-tmpmcrb7
   larger organization.
 - **Thwarting where joint satisfaction is attainable needs a resolution
   that weighs authority or preference.** This is governance-induced
-  frustration (CLAIM-357), shown counterfactually. CASE-153's sentry is
-  an instance, run in CASE-tmpxmuri.
-- **Frustration without thwarting** can be unvoiced (CLAIM-631's item 3)
+  frustration ([CLAIM-357](../claims.d/CLAIM-357.md)), shown counterfactually. [CASE-153](../cases.d/CASE-153.md)'s sentry is
+  an instance, run in [CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md).
+- **Frustration without thwarting** can be unvoiced ([CLAIM-631](../claims.d/CLAIM-631.md)'s item 3)
   or causally idle. In the idle case an unmet member acts, and no process
   is a but-for cause.
 
@@ -250,6 +250,6 @@ Whether the first and second parts of "What would answer it" are answered
 is the owner's call. The third part, what evidence attributes either
 condition to a bearer, is answered only for the silencing test. Whether
 a constraint can be the thwarter is left open; it is named in
-CLAIM-tmpmcrb7's defeater.
+[CLAIM-tmpmcrb7](../claims.d/CLAIM-tmpmcrb7.md)'s defeater.
 
 The question stays open.

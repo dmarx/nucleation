@@ -256,10 +256,10 @@ threat belief held fixed ([LEAD-047](../leads.d/LEAD-047.md), scratch/studies/le
 [NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md) and [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md)). The premise's distinctive part stays
 untested. No status changes.
 
-## Note of 2026-11-22: a sentry that restricts its own evidence, from LEAD-076
+## Note of 2026-11-22: a sentry that restricts its own evidence, from [LEAD-076](../leads.d/LEAD-076.md)
 
-LEAD-076 ran CASE-153's sentry with hidden state and evidence restriction
-(CASE-tmpxmuri). In the model, a protective regime whose authority is
+[LEAD-076](../leads.d/LEAD-076.md) ran [CASE-153](../cases.d/CASE-153.md)'s sentry with hidden state and evidence restriction
+([CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md)). In the model, a protective regime whose authority is
 rewarded by its apparent success, and which can block the inspection that
 would judge it, maintains itself through 400 safe steps. In 43 % of runs
 the belief is never corrected. It still protects when danger returns. An
@@ -270,7 +270,7 @@ So the model does not meet this claim's second defeater.
 Restriction alone, under independent evaluation, maintains the regime
 only with a strong sentry (κ ≥ 2.75), or when the agent assumes the world
 almost never changes. This supports the claim's evidence clause as
-possible within a model, nothing more (ARG-025). CLAIM-tmpqp1h6 holds the
+possible within a model, nothing more ([ARG-025](../arguments.d/ARG-025.md)). [CLAIM-tmpqp1h6](CLAIM-tmpqp1h6.md) holds the
 finding.
 
 No status change.
