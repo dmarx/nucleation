@@ -9,10 +9,11 @@
 - NOTE-tmp14xdi and THEORY-tmp3va8j: Stewart 2007 read; balanced equivalence relations form a complete lattice with a computable coarsest element.
 - NOTE-tmpk7qnh (Skimmed) and THEORY-tmp94s79: Dörfler and Bullo 2014 skimmed; S¹-synchronizing graphs, the cycle-space fixed-point equations, and the cases the survey's methods do not cover.
 - NOTE-tmp1hzsa (Skimmed) and THEORY-tmp1ncgo: Schultz, Spivak and Vasilakopoulou 2016 skimmed; machines as spans of interval sheaves, with totality and determinism preserved by every wiring.
+- NOTE-tmpgeiy5 (Skimmed) and THEORY-tmp9gllh: Bumpus et al. 2024 skimmed; narratives as sheaves on time intervals.
 - CLAIM-tmp7vutq: on five or more contexts with zero monodromy the XY energy has twisted local minima of positive energy, so CLAIM-153's readout holds for the global minimum only (Proposed, thesis, demonstrated; check in scratch/studies/lead-023/twisted.py).
 
 ### Changed
 
-- LIT-2245, LIT-2230, LIT-2253, LIT-2267, LIT-2250, LIT-2256, LIT-2249, LIT-2232 and LIT-2258 moved to Active on their readings.
+- LIT-2245, LIT-2230, LIT-2253, LIT-2267, LIT-2250, LIT-2256, LIT-2249, LIT-2232, LIT-2258 and LIT-2238 moved to Active on their readings.
 - LIT-2265 (Pecora and Carroll 1990) recorded Unavailable: no lawful copy found.
 - Dated notes of 2026-11-22 on QUESTION-063, QUESTION-147, CLAIM-153, CLAIM-167, CLAIM-172, CASE-179, THEORY-1082, QUESTION-282, QUESTION-252, CLAIM-480, THEORY-1065, QUESTION-379 and CLAIM-623.
