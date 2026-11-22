@@ -37,7 +37,7 @@ summary: >-
   "optimally" is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmplgnjf CLAIM-tmpk4bou CLAIM-tmpx9nrj CLAIM-tmphjm0q THEORY-859 — Proposed; filed or cited in this filing of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmplgnjf CLAIM-tmpk4bou CLAIM-tmpx9nrj CLAIM-tmphjm0q THEORY-859 TERM-tmppvlfi — Proposed; filed or cited in this filing of 2026-11-22 -->
 
 # Regulations are constraints that operationalize a demand specification, chosen so as to steer an industrial ecosystem optimally toward harmonious governance
 
@@ -62,8 +62,8 @@ Read against the record, its terms are these.
   constituents' demands are jointly satisfiable (CLAIM-347, CLAIM-554),
   with coexistence not taken for cooperation (CLAIM-546), and viability
   not taken for legitimacy (CLAIM-075). The exchange's own definition of
-  harmony (A24, viability, accommodation and correctability) is filed
-  from U12 in the same batch.
+  harmony (A24, viability, accommodation and correctability) is
+  TERM-tmppvlfi, filed from U12 in the same batch.
 - **Industrial ecosystem.** The record has no term for it. A31 and A33
   read it as a plurality of separately addressable firms, workers,
   communities and technologies, governed from outside by a regulator who
