@@ -25,9 +25,12 @@
   target), CLAIM-tmp9xo66 (alternative: target is Y, P and A collapse into
   D and M).
 
+- Dated notes on LEAD-173 and QUESTION-252; changelog fragment
+  record/changelog.d/lead-173.md.
+
 ## Next
 
-- Dated notes on LEAD-173 and QUESTION-252; changelog fragment.
+- Nothing left on the branch; report to the lead (it opens the pull request).
 
 ## Choices made
 
