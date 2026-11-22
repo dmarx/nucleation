@@ -10,6 +10,6 @@
 - [CLAIM-tmpnookt](record/claims.d/CLAIM-tmpnookt.md) (interpretive): specification is model-theoretic in the record and
   proof-relevant in type theory, with the correspondences stated; [LEAD-tmp3xevc](record/leads.d/LEAD-tmp3xevc.md)
   to read the sources.
-- TERM-tmp7s2aa (witness) and TERM-tmp3mop8 (certificate), Proposed, at the owner's
+- [TERM-tmp7s2aa](record/terms.d/TERM-tmp7s2aa.md) (witness) and [TERM-tmp3mop8](record/terms.d/TERM-tmp3mop8.md) (certificate), Proposed, at the owner's
   suggestion of a term for witness: the existence and the evidence halves
   of a proof-relevant answer.
