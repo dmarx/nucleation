@@ -1,0 +1,54 @@
+D(1,n) = q_supported - q_withdrawn, withdrawal with nucleus present; n = 0..7
+  feedback+rate   0.085  0.068  0.049  0.032  0.019  0.011  0.005  0.002 | first n with D<0.05: 2
+  feedback only   0.047  0.047  0.046  0.046  0.044  0.040  0.032  0.020 | first n with D<0.05: 0
+  rate only       0.349  0.342  0.328  0.306  0.275  0.233  0.177  0.102 | first n with D<0.05: None
+  neither         0.128  0.130  0.136  0.148  0.166  0.192  0.217  0.202 | first n with D<0.05: None
+q_supported(1,n):
+  feedback+rate   0.912  0.918  0.927  0.938  0.950  0.962  0.974  0.987
+  feedback only   0.255  0.260  0.273  0.297  0.341  0.412  0.527  0.711
+  rate only       0.912  0.918  0.927  0.938  0.950  0.962  0.974  0.987
+  neither         0.255  0.260  0.273  0.297  0.341  0.412  0.527  0.711
+q_withdrawn(1,n):
+  feedback+rate   0.827  0.850  0.879  0.906  0.930  0.951  0.969  0.985
+  feedback only   0.208  0.213  0.226  0.252  0.297  0.372  0.495  0.691
+  rate only       0.563  0.576  0.600  0.632  0.674  0.728  0.797  0.885
+  neither         0.127  0.130  0.137  0.150  0.174  0.220  0.310  0.508
+Delta_N unsupported = q0(1,n) - q0(0,n):
+  feedback+rate   0.052  0.070  0.089  0.104  0.115  0.121  0.127  0.132
+  feedback only   0.001  0.002  0.006  0.013  0.030  0.062  0.127  0.255
+  rate only       0.029  0.038  0.050  0.066  0.085  0.110  0.144  0.196
+  neither         0.000  0.000  0.001  0.002  0.005  0.017  0.057  0.184
+decomposition identity, max error: 2.3869795029440866e-15
+Withdrawal by clock time from (0,0):  t, Y(t), completed, state-matched, D_time
+  neither
+    t=    0  Y=0.1271  completed=0.0000  matched=0.1271  D_time=0.1277
+    t=    1  Y=0.1273  completed=0.0000  matched=0.1273  D_time=0.1275
+    t=    2  Y=0.1278  completed=0.0002  matched=0.1276  D_time=0.1270
+    t=    5  Y=0.1322  completed=0.0065  matched=0.1257  D_time=0.1226
+    t=   10  Y=0.1457  completed=0.0323  matched=0.1134  D_time=0.1091
+    t=   20  Y=0.1719  completed=0.0855  matched=0.0864  D_time=0.0829
+    t=   40  Y=0.2074  completed=0.1579  matched=0.0495  D_time=0.0474
+    t=   80  Y=0.2393  completed=0.2231  matched=0.0162  D_time=0.0155
+    t=  160  Y=0.2532  completed=0.2514  matched=0.0017  D_time=0.0016
+  feedback+rate
+    t=    0  Y=0.7754  completed=0.0000  matched=0.7754  D_time=0.1340
+    t=    1  Y=0.8562  completed=0.0030  matched=0.8532  D_time=0.0532
+    t=    2  Y=0.8773  completed=0.0734  matched=0.8039  D_time=0.0321
+    t=    5  Y=0.9015  completed=0.5863  matched=0.3152  D_time=0.0079
+    t=   10  Y=0.9086  completed=0.8731  matched=0.0355  D_time=0.0008
+    t=   20  Y=0.9094  completed=0.9090  matched=0.0004  D_time=0.0000
+    t=   40  Y=0.9094  completed=0.9094  matched=0.0000  D_time=0.0000
+    t=   80  Y=0.9094  completed=0.9094  matched=0.0000  D_time=0.0000
+    t=  160  Y=0.9094  completed=0.9094  matched=0.0000  D_time=0.0000
+Factorial (theta = 1, unsupported): Delta_N(n) at n = 0..7, Delta k
+  state=0 rate=0 -0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000 | dk=0.0
+  state=0 rate=1  0.031  0.040  0.053  0.067  0.080  0.091  0.092  0.072 | dk=2.0
+  state=1 rate=0  0.000  0.000  0.001  0.002  0.005  0.017  0.057  0.184 | dk=0.0
+  state=1 rate=1  0.029  0.038  0.050  0.066  0.085  0.110  0.144  0.196 | dk=2.0
+  interaction_contrast_DeltaN_n0 -0.0024
+  interaction_contrast_DeltaN_n4 -0.0004
+D(1,n) with the state effect off:
+  feedback+rate   0.082  0.065  0.046  0.030  0.018  0.010  0.005  0.002 | first n with D<0.05: 2
+  feedback only   0.000  0.000  0.000  0.000  0.000  0.000  0.000  0.000 | first n with D<0.05: 0
+  rate only       0.280  0.271  0.255  0.231  0.198  0.157  0.106  0.051 | first n with D<0.05: None
+  neither        -0.000 -0.000 -0.000 -0.000 -0.000 -0.000 -0.000  0.000 | first n with D<0.05: 0

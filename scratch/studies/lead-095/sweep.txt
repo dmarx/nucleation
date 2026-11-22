@@ -1,0 +1,4 @@
+neither        rising 0.417  falling 0.092  ends lower 0.368
+rate only      rising 0.007  falling 0.828  ends lower 0.966
+feedback only  rising 0.059  falling 0.544  ends lower 0.827
+feedback+rate  rising 0.000  falling 0.983  ends lower 0.999
