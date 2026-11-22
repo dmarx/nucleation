@@ -40,9 +40,8 @@ summary: >-
   cuts. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpjp6vg CLAIM-tmpu482h CASE-tmpl2va4 LIT-tmp43x53 — new; the simulation this claim rests on, its companion, the design that applies it and a study cited as an example -->
+<!-- inactive-ok-file: CASE-tmpjp6vg LIT-tmp43x53 — new; the simulation this claim rests on and a study cited as an example -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the claim whose defeat condition asks for this estimator -->
-<!-- inactive-ok-file: LEAD-182 — Open; the lead this was found for -->
 
 # CLAIM-tmpalxab: In a Contextuality-by-Default test on free binary answers, estimated signalling is biased upward when true signalling is small, so a detection test that uses it stays valid at a large cost in power, and an absence verdict needs a bound that credits only the signalling a confidence bound guarantees
 

@@ -36,7 +36,6 @@ summary: >-
   and CASE-tmpl2va4 analyses each cell apart. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LEAD-182 — Open; the lead whose design this construction constrains -->
 <!-- inactive-ok-file: CASE-tmpl2va4 — new; the design that applies this claim -->
 
 # CLAIM-tmpu482h: Under Contextuality-by-Default, pooling two noncontextual systems whose direct influences point opposite ways can give a contextual system, because pooling averages the correlations but cancels the signalling, so a test must analyse each counterbalancing cell as its own system

@@ -51,7 +51,6 @@ summary: >-
   bears on CLAIM-325's scope and on CASE-053, not on its defeat condition.
   Unverified until read.
 ---
-<!-- inactive-ok-file: LEAD-182 — Open; the lead whose search found this work -->
 
 # LIT-tmpj8zjs: Are Human Judgments of Real and Fake Faces Quantum-like Contextual?
 

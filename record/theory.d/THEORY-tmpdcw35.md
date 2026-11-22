@@ -26,7 +26,6 @@ summary: >-
   unobserved, so the test cannot see direct influences, is the reading's.
   The violation and its spread were recomputed from the paper's Table 1.
 ---
-<!-- inactive-ok-file: LEAD-182 — Open; the lead this reading was made for -->
 
 # THEORY-tmpdcw35: Two Winograd schemas joined in one story make a Bell-CHSH scenario over pronoun-and-word observables, and the one instance judged by crowd workers violates the inequality by about one standard deviation, with no-signalling imposed by an A/B-symmetric story and a response format that never elicits the pronouns' marginals
 

@@ -28,7 +28,6 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: LEAD-182 — Open; the lead this simulation was run for -->
 <!-- inactive-ok-file: THEORY-tmpdcw35 CLAIM-tmpalxab CASE-tmpl2va4 — new; the reading, the finding and the design this run belongs to -->
 
 # CASE-tmpjp6vg: A power simulation of a Contextuality-by-Default test on a four-context cyclic system with free binary answers: the plug-in signalling estimate keeps detection valid but costs most power when true signalling is small, a violation the size of Lo et al.'s then needs over 2,500 respondents a context, and no absence verdict that leans on estimated signalling is valid

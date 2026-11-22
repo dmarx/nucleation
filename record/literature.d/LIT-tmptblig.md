@@ -46,7 +46,6 @@ summary: >-
   language data signal. Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the claim about signalling in language data this work bears on -->
-<!-- inactive-ok-file: LEAD-182 — Open; the lead whose search found this work -->
 
 # LIT-tmptblig: Causality and signalling of garden-path sentences
 

@@ -43,7 +43,7 @@ summary: >-
   hundred respondents a context, on instructed matching, not pragmatic
   content. Unverified here until read.
 ---
-<!-- inactive-ok-file: LEAD-182 — Open; the lead that registered this work -->
+<!-- inactive-ok-file: CASE-tmpl2va4 CASE-tmpjp6vg — new and Proposed; the design that draws on this study and the simulation that bears on it -->
 
 # LIT-tmp43x53: Snow Queen is Evil and Beautiful: Experimental Evidence for Probabilistic Contextuality in Human Choices
 

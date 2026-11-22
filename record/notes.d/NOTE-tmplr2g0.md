@@ -23,7 +23,8 @@ summary: >-
   format enforces A/B symmetry, so the test cannot see the direct
   influences that free answers would show.
 ---
-<!-- inactive-ok-file: LEAD-182 — Open; the lead this reading was made for -->
+<!-- inactive-ok-file: CASE-tmpl2va4 CASE-tmpjp6vg — new and Proposed; the design and simulation this reading feeds -->
+<!-- inactive-ok-file: CLAIM-009 — Proposed; open, the claim this reading bears on -->
 
 # NOTE-tmplr2g0: Generalised Winograd Schema and its Contextuality
 

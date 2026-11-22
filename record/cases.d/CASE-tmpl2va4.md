@@ -33,7 +33,6 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: LEAD-182 — Open; the lead this design would carry out -->
 <!-- inactive-ok-file: THEORY-tmpdcw35 CLAIM-tmpu482h CLAIM-tmpalxab CASE-tmpjp6vg — new; the reading, findings and simulation this design rests on -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-105 — Proposed; the claims this study would test, open -->
 

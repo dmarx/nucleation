@@ -55,7 +55,7 @@ summary: >-
   two of four symmetric readings. It is the design ancestor of the study
   LEAD-182 drafts.
 ---
-<!-- inactive-ok-file: LEAD-182 — Open; the lead this reading was made for -->
+<!-- inactive-ok-file: CASE-tmpl2va4 — new and Proposed; the design that revises this study -->
 
 # LIT-tmpgkx6w: Generalised Winograd Schema and its Contextuality
 
