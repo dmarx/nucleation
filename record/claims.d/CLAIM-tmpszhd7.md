@@ -29,19 +29,19 @@ objects_to:
 bears_on:
 - QUESTION-281
 summary: >-
-  Reading (a) of LEAD-069's two readings. The other is CLAIM-tmpb80wu.
-  QUESTION-281 asks for "a form the record individuates" without saying in
-  which sense. Read with TERM-088, whose dynamical sense asks only that a
+  Reading (a) of [LEAD-069](../leads.d/LEAD-069.md)'s two readings. The other is [CLAIM-tmpb80wu](CLAIM-tmpb80wu.md).
+  [QUESTION-281](../questions.d/QUESTION-281.md) asks for "a form the record individuates" without saying in
+  which sense. Read with [TERM-088](../terms.d/TERM-088.md), whose dynamical sense asks only that a
   form persist under specified dynamics and perturbations, both forms
   qualify. The block persists alone, under each single deletion and in
   the gun. The eater persists alone, under its glider strike and across
   the gun's stream. Both are tracked exactly, and the block's cells fix its
-  extent among themselves (CASE-tmpfktyl). With CLAIM-405, those are
-  verdicts that could have been false. Then QUESTION-281 has a formal
-  answer, given one more choice. CASE-260's run 1 shows creation without
+  extent among themselves ([CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md)). With [CLAIM-405](CLAIM-405.md), those are
+  verdicts that could have been false. Then [QUESTION-281](../questions.d/QUESTION-281.md) has a formal
+  answer, given one more choice. [CASE-260](../cases.d/CASE-260.md)'s run 1 shows creation without
   stabilization only if blocks are counted as shape instances. Counted by
   cell continuity, its two blocks are one, and the soup transient of
-  CASE-tmpfktyl does the work instead. The owner chooses between the
+  [CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) does the work instead. The owner chooses between the
   readings. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -50,20 +50,20 @@ summary: >-
 
 # CLAIM-tmpszhd7: Taken in the descriptive and dynamical senses of individuation, relative to stated perturbations, the record individuates the Game of Life block and eater, so the Life constructions meet the first half of what would answer the achievement question for a formal system, provided a transient block is counted by the continuity of its cells
 
-**Reading (a), an alternative to CLAIM-tmpb80wu.**
+**Reading (a), an alternative to [CLAIM-tmpb80wu](CLAIM-tmpb80wu.md).**
 
 ## The claim
 
-QUESTION-281 asks, "for a stated system with a form the record
+[QUESTION-281](../questions.d/QUESTION-281.md) asks, "for a stated system with a form the record
 individuates", for the transition that made the form, the mechanism that
 stabilized it and the change that would end it, each shown separately. The
-question is about stabilization and loss, which are persistence. TERM-088's
+question is about stabilization and loss, which are persistence. [TERM-088](../terms.d/TERM-088.md)'s
 dynamical sense is the sense about persistence: "its organization persists
 under specified dynamics and perturbations, with robust identity and
-boundaries". CLAIM-405 says such a verdict is well defined once the
+boundaries". [CLAIM-405](CLAIM-405.md) says such a verdict is well defined once the
 criterion is fixed, and can then be false.
 
-With the criterion fixed as in CASE-tmpfktyl (the cell lattice; single
+With the criterion fixed as in [CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) (the cell lattice; single
 flips within distance 3, pair deletions, the glider strike, the gun's
 cycle; the form's own cells as target):
 
@@ -71,38 +71,38 @@ cycle; the form's own cells as target):
   exactly trackable. It persists alone, returns from each of its four
   single deletions in one generation, and persists in the gun under the
   shuttle's strike, keeping at least two of its cells live throughout. It
-  is also constitutively individuated in TERM-088's sense: a block cell's
+  is also constitutively individuated in [TERM-088](../terms.d/TERM-088.md)'s sense: a block cell's
   live neighbours are the other three, and any three make the fourth.
 - **The eater** is individuated descriptively and dynamically. It
-  persists alone, returns from the glider strike of CASE-259 in all four
+  persists alone, returns from the glider strike of [CASE-259](../cases.d/CASE-259.md) in all four
   phases, and persists across the gun's stream, keeping at least six of
   its seven cells live. Its constitutive individuation is partial, since
   no six of its cells regrow the seventh.
 - **Neither** is organizationally autonomous, and neither persists
   through a single birth on its border. Dynamical individuation is
   relative to a family of perturbations, and these families are narrow.
-  TERM-088 asks that the family be specified, not that it be wide.
+  [TERM-088](../terms.d/TERM-088.md) asks that the family be specified, not that it be wide.
 
 So both are forms the record individuates, in the senses stated, and
-CASE-260 and CASE-259 meet the first half of "What would count as an
+[CASE-260](../cases.d/CASE-260.md) and [CASE-259](../cases.d/CASE-259.md) meet the first half of "What would count as an
 answer". Creation is a glider collision. Stabilization is a fixed point,
-or repair in a role (CLAIM-672). The change that ends it is a strike or a
+or repair in a role ([CLAIM-672](CLAIM-672.md)). The change that ends it is a strike or a
 border birth.
 
 ## The proviso: counting tokens
 
-The second half asks for two achievements to come apart. CASE-260's
+The second half asks for two achievements to come apart. [CASE-260](../cases.d/CASE-260.md)'s
 "creation without stabilization" is its run 1, where an exact block at
 t = 20 is "gone" at t = 22 and another forms by t = 27. Those two blocks are
 on the same four cells, and two of the cells are live at every generation
-from t = 19 to 29 (CASE-tmpfktyl, result 4). That gives two readings of the
+from t = 19 to 29 ([CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md), result 4). That gives two readings of the
 proviso:
 
-- **Counted as shape instances**, the run has two blocks, and CASE-260's
+- **Counted as shape instances**, the run has two blocks, and [CASE-260](../cases.d/CASE-260.md)'s
   separation stands as filed.
 - **Counted by the continuity of the cells that carry it**, the
-  transmission criterion of CLAIM-615, the run has one block, damaged and
-  repaired. The separation then rests on CASE-tmpfktyl's soup transient
+  transmission criterion of [CLAIM-615](CLAIM-615.md), the run has one block, damaged and
+  repaired. The separation then rests on [CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md)'s soup transient
   instead. An isolated block at t = 28 in seed 1 has no cell live at
   t = 30 and never returns. That is created and not stabilized on either
   count.
@@ -112,14 +112,14 @@ settled here.
 
 ## How it differs from reading (b)
 
-Reading (b), CLAIM-tmpb80wu, takes "individuates" to mean CLAIM-157's one
-system, the record's answer to QUESTION-035, and finds that the block
-fails it (CLAIM-tmp3twn6). On this reading CLAIM-157 is a criterion of
-when a combined form is one system for a target. QUESTION-281's first half
-needs a form that persists, and TERM-088 separates that from being one
+Reading (b), [CLAIM-tmpb80wu](CLAIM-tmpb80wu.md), takes "individuates" to mean [CLAIM-157](CLAIM-157.md)'s one
+system, the record's answer to [QUESTION-035](../questions.d/QUESTION-035.md), and finds that the block
+fails it ([CLAIM-tmp3twn6](CLAIM-tmp3twn6.md)). On this reading [CLAIM-157](CLAIM-157.md) is a criterion of
+when a combined form is one system for a target. [QUESTION-281](../questions.d/QUESTION-281.md)'s first half
+needs a form that persists, and [TERM-088](../terms.d/TERM-088.md) separates that from being one
 system.
 
-**What would favour it.** QUESTION-281's own framing. Its gloss, A14's
+**What would favour it.** [QUESTION-281](../questions.d/QUESTION-281.md)'s own framing. Its gloss, A14's
 "an attracting pattern does not automatically become an independent
 individual", puts individuality at the third achievement, the constitutive
 role, not the first. That suggests its first half asks only for a form

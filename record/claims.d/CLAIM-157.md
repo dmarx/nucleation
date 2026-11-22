@@ -128,7 +128,7 @@ bears_on:
 - QUESTION-218
 - QUESTION-219
 ---
-<!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 CLAIM-tmpszhd7 CLAIM-tmpb80wu — new; LEAD-069's study and claims of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: LIT-1642 — the question the pressures are filed in (Open) and its sources, registered unread (Deferred) -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
@@ -343,12 +343,12 @@ are blocks of states is a difference the note does not settle.
 
 ## Note of 2026-11-22: a Life form that compensates and fails the test
 
-CASE-tmpfktyl applied this claim's test to Conway's Game of Life, reading
+[CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) applied this claim's test to Conway's Game of Life, reading
 interaction as sensitivity to one flipped cell. The lone block's inside
 coupling is zero at every horizon, and its border's is 0.42 to 0.75. In
 Gosper's gun the figures are 0.06 and 0.38. Each block cell tolerates the
 loss of any one other, and any three regrow the fourth, so a deletion
-changes nothing a generation later (CLAIM-tmp3twn6). That is a form whose
+changes nothing a generation later ([CLAIM-tmp3twn6](CLAIM-tmp3twn6.md)). That is a form whose
 members compensate and that does not clear the test, the kind this
 claim's `defeated_if` names. It is one case, in a discrete rule, with one
 reading of coupling, not the systematic failure the clause asks for. The

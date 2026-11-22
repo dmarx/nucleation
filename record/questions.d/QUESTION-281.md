@@ -336,18 +336,18 @@ creation, stabilization and constitutive role are separate achievements.
 
 ## Note of 2026-11-22: whether the record individuates the block and the eater
 
-LEAD-069 applied the record's individuation criteria to the Life forms
-(CASE-tmpfktyl). The verdicts are determinate once a criterion is fixed,
-and they split by criterion. In TERM-088's descriptive and dynamical
+[LEAD-069](../leads.d/LEAD-069.md) applied the record's individuation criteria to the Life forms
+([CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md)). The verdicts are determinate once a criterion is fixed,
+and they split by criterion. In [TERM-088](../terms.d/TERM-088.md)'s descriptive and dynamical
 senses, relative to stated perturbations, both the block and the eater are
-individuated. On CLAIM-157's test of one system, the block is not
-(CLAIM-tmp3twn6), and the eater is only at one generation. This question
+individuated. On [CLAIM-157](../claims.d/CLAIM-157.md)'s test of one system, the block is not
+([CLAIM-tmp3twn6](../claims.d/CLAIM-tmp3twn6.md)), and the eater is only at one generation. This question
 does not say which sense its first half means, so two readings are filed.
-Reading (a), CLAIM-tmpszhd7: the first half is met for Life. Reading (b),
-CLAIM-tmpb80wu: it is not. The owner chooses.
+Reading (a), [CLAIM-tmpszhd7](../claims.d/CLAIM-tmpszhd7.md): the first half is met for Life. Reading (b),
+[CLAIM-tmpb80wu](../claims.d/CLAIM-tmpb80wu.md): it is not. The owner chooses.
 
-On reading (a), a token proviso applies to the second half. CASE-260's two
+On reading (a), a token proviso applies to the second half. [CASE-260](../cases.d/CASE-260.md)'s two
 blocks in run 1 are on the same cells, two of them live throughout, so
 they are two blocks only when counted as shape instances. A soup transient
-in CASE-tmpfktyl that loses all four cells is created and not stabilized
+in [CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) that loses all four cells is created and not stabilized
 on either count. No status change.

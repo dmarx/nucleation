@@ -45,29 +45,29 @@ need a different substrate.
 
 ## Note of 2026-11-22: the criteria applied, with two readings
 
-Done as a conceptual step with computation. CASE-tmpfktyl applies each of
+Done as a conceptual step with computation. [CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) applies each of
 the record's individuation criteria to the block and the eater in Life,
 with code and tests under scratch/studies/lead-069/. Once the criterion is
-fixed (CLAIM-405), the verdicts are determinate. Both forms are
+fixed ([CLAIM-405](../claims.d/CLAIM-405.md)), the verdicts are determinate. Both forms are
 individuated descriptively, and dynamically for stated perturbation
 families: single deletions for the block, the glider strike for the eater,
 and the gun's cycle for both. Neither is organizationally autonomous. The
 block also has constitutive individuation, the eater only partly. On
-CLAIM-157's gap-isolated block test, the block fails, since coupling
-inside it read as single-flip sensitivity is zero (CLAIM-tmp3twn6), and
+[CLAIM-157](../claims.d/CLAIM-157.md)'s gap-isolated block test, the block fails, since coupling
+inside it read as single-flip sensitivity is zero ([CLAIM-tmp3twn6](../claims.d/CLAIM-tmp3twn6.md)), and
 the eater passes only at one generation below an unset threshold.
 
-Which criterion QUESTION-281's "a form the record individuates" means is
+Which criterion [QUESTION-281](../questions.d/QUESTION-281.md)'s "a form the record individuates" means is
 not fixed by the record, so the answer is filed as two alternatives.
-CLAIM-tmpszhd7, reading (a), takes TERM-088's dynamical sense: the
-constructions meet the first half. CLAIM-tmpb80wu, reading (b), takes
-CLAIM-157's one system: they do not, and need another substrate or
+[CLAIM-tmpszhd7](../claims.d/CLAIM-tmpszhd7.md), reading (a), takes [TERM-088](../terms.d/TERM-088.md)'s dynamical sense: the
+constructions meet the first half. [CLAIM-tmpb80wu](../claims.d/CLAIM-tmpb80wu.md), reading (b), takes
+[CLAIM-157](../claims.d/CLAIM-157.md)'s one system: they do not, and need another substrate or
 criterion. Choosing between them is the owner's call.
 
-The study also found that the two blocks of CASE-260's run 1 share their
+The study also found that the two blocks of [CASE-260](../cases.d/CASE-260.md)'s run 1 share their
 four cells, two of them live throughout. Counted by cell continuity they
 are one block, damaged and repaired. A soup transient that loses every
 cell gives the cleaner case of creation without stabilization. What
 remains: the owner's choice of reading; under reading (b), a substrate
-with an interaction matrix where a localized form passes CLAIM-157. The
+with an interaction matrix where a localized form passes [CLAIM-157](../claims.d/CLAIM-157.md). The
 lead's status and stage are left to the owner.

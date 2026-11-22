@@ -15,7 +15,7 @@ bears_on:
 - QUESTION-281
 - QUESTION-035
 summary: >-
-  LEAD-069's study. The block and eater 1 of CASE-260 and CASE-259 are run
+  [LEAD-069](../leads.d/LEAD-069.md)'s study. The block and eater 1 of [CASE-260](CASE-260.md) and [CASE-259](CASE-259.md) are run
   in Conway's Game of Life against each individuation criterion the record
   holds. Both are fixed points. The block returns from each of its four
   single deletions and from no birth on its border or pair of deletions.
@@ -23,7 +23,7 @@ summary: >-
   strike in its lane, in all four phases. Coupling read as sensitivity to
   one flipped cell is zero inside the block at every horizon and large
   from its border, in the gun too. The eater's inside coupling beats its
-  border's at one generation and not at five. In CASE-260's collision, the
+  border's at one generation and not at five. In [CASE-260](CASE-260.md)'s collision, the
   block that is destroyed and the block that lasts occupy the same four
   cells, two of them live throughout. Random soups give the cleaner
   transient: an isolated block with all four cells dead two generations
@@ -31,32 +31,32 @@ summary: >-
   wording are the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-259 CASE-260 CLAIM-157 CLAIM-615 CLAIM-672 CLAIM-694 ARG-101 — Proposed; the constructions studied and the claims whose criteria are applied -->
+<!-- inactive-ok-file: CASE-259 CASE-260 CLAIM-157 CLAIM-615 CLAIM-694 — Proposed; the constructions studied and the claims whose criteria are applied -->
 
 # CASE-tmpfktyl: The record's individuation criteria applied to the Game of Life block and eater, by computation: the block repairs any one lost cell and nothing else, the eater only the glider strike it is shaped for, single-flip coupling inside the block is zero while a birth on its border kills it, and the two blocks of the earlier two-glider collision share two cells throughout
 
 ## The case
 
-**What was asked.** LEAD-069: does the record individuate the block of
-CASE-260 and the eater of CASE-259? QUESTION-281's answer asks for "a form
+**What was asked.** [LEAD-069](../leads.d/LEAD-069.md): does the record individuate the block of
+[CASE-260](CASE-260.md) and the eater of [CASE-259](CASE-259.md)? [QUESTION-281](../questions.d/QUESTION-281.md)'s answer asks for "a form
 the record individuates", and its note of 2026-11-14 says the record "has
 not said whether a block is one".
 
-**The criteria the record holds.** CLAIM-405 (Active): an individuation is
+**The criteria the record holds.** [CLAIM-405](../claims.d/CLAIM-405.md) (Active): an individuation is
 well defined only once its criterion is fixed, "the target it serves, the
-transformations its unity must survive, the scale". TERM-088 (Active)
+transformations its unity must survive, the scale". [TERM-088](../terms.d/TERM-088.md) (Active)
 separates four senses: descriptive, dynamical, constitutive and
-organizational autonomy. CLAIM-157 (Proposed) is the record's answer to
-QUESTION-035, when a combined form is one system: a nearly decomposable
+organizational autonomy. [CLAIM-157](../claims.d/CLAIM-157.md) (Proposed) is the record's answer to
+[QUESTION-035](../questions.d/QUESTION-035.md), when a combined form is one system: a nearly decomposable
 block whose gap beats the Occam factor. Bearing on token identity are
-CLAIM-615 (Proposed; identity over time by causal transmission) and
-CLAIM-694 (Proposed; a conserved type does not fix tokens). CLAIM-194
+[CLAIM-615](../claims.d/CLAIM-615.md) (Proposed; identity over time by causal transmission) and
+[CLAIM-694](../claims.d/CLAIM-694.md) (Proposed; a conserved type does not fix tokens). [CLAIM-194](../claims.d/CLAIM-194.md)
 (Active) says a coupling test cannot tell a boundary a form makes from one
 imposed on it.
 
 **The criterion fixed here.** Scale: the cell lattice. Transformations:
 every single-cell flip of the form and of every cell within Chebyshev
-distance 3 of it; every pair of deletions; the glider strike of CASE-259;
+distance 3 of it; every pair of deletions; the glider strike of [CASE-259](CASE-259.md);
 the gun's own cycle. Target: the form's own cells over the next 200
 generations. A form "returns" if the lattice is exactly the form again.
 
@@ -66,7 +66,7 @@ run on 2026-11-22. Code, tests and outputs are in
 nine tests pass). Coupling is read as sensitivity: the fraction of ordered
 pairs of cells (j, i), i ≠ j, for which flipping j changes i k generations
 later. That is the nearest a Boolean rule has to the interaction matrix
-CLAIM-157 compares, inside the candidate block against across its edge.
+[CLAIM-157](../claims.d/CLAIM-157.md) compares, inside the candidate block against across its edge.
 
 ## Results
 
@@ -80,7 +80,7 @@ CLAIM-157 compares, inside the candidate block against across its edge.
 | one birth at distance 2: returns | 4 of 20 | 11 of 28 |
 | one birth at distance 3: returns | 28 of 28 | 36 of 36 |
 | two of its own cells deleted: returns | 0 of 6 | 0 of 21 |
-| CASE-259's glider strike: returns | no, annihilated (CASE-259) | yes, in all 4 phases |
+| [CASE-259](CASE-259.md)'s glider strike: returns | no, annihilated ([CASE-259](CASE-259.md)) | yes, in all 4 phases |
 
 A distance-3 birth is a lone cell that dies at once, so it tests nothing.
 The block's one repair is the rule's: any three of its cells give the
@@ -113,11 +113,11 @@ each other's loss and do not tolerate an incursion.
 two of its four cells live, and at most three of its border cells are live
 at once. The eater across the gun's stream keeps at least six of its seven
 cells live from t = 300 to 600. Gliders away from the gun: 2, 6, 9 and 12
-at t = 100 to 400 (CASE-260 has 5 at t = 200; the difference is one glider
+at t = 100 to 400 ([CASE-260](CASE-260.md) has 5 at t = 200; the difference is one glider
 at the edge of the box counted).
 
-**4. Which block is which, in CASE-260's collision.** Followed cell by cell
-(the cells of CASE-260's frame; the block at (6,1), (6,2), (7,1), (7,2)):
+**4. Which block is which, in [CASE-260](CASE-260.md)'s collision.** Followed cell by cell
+(the cells of [CASE-260](CASE-260.md)'s frame; the block at (6,1), (6,2), (7,1), (7,2)):
 
 | t | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26–29 |
 |---|---|---|---|---|---|---|---|---|
@@ -127,8 +127,8 @@ at the edge of the box counted).
 The block of t = 20, "destroyed at t = 22", and the block that lasts from
 t = 26 are on the same four cells, and (6,1) and (6,2) are live at every
 generation from t = 19 to 29. Counted as exact blocks with dead borders,
-there are two instances, as CASE-260 says. Counted by continuity of the
-cells that carry it, in CLAIM-615's sense of transmission, there is one
+there are two instances, as [CASE-260](CASE-260.md) says. Counted by continuity of the
+cells that carry it, in [CLAIM-615](../claims.d/CLAIM-615.md)'s sense of transmission, there is one
 block, damaged at t = 22 and restored by t = 26, the gun's mechanism in
 little.
 
@@ -151,36 +151,36 @@ ooo.o.
 
 ## The criteria, one by one
 
-- **Fixing the criterion (CLAIM-405).** Done above. Every verdict below is
+- **Fixing the criterion ([CLAIM-405](../claims.d/CLAIM-405.md)).** Done above. Every verdict below is
   relative to that scale, those transformations and that target.
-- **Descriptive (TERM-088).** Met by both. Each is an exact pattern that
+- **Descriptive ([TERM-088](../terms.d/TERM-088.md)).** Met by both. Each is an exact pattern that
   any inquiry can find and follow from generation to generation.
-- **Dynamical (TERM-088), "persists under specified dynamics and
+- **Dynamical ([TERM-088](../terms.d/TERM-088.md)), "persists under specified dynamics and
   perturbations, with robust identity and boundaries".** Met by both for
   stated families and failed for others. The block persists alone and
   under single deletions, and in the gun under the shuttle's strike. The
   eater persists alone, under its glider strike, and across the gun's
   stream. Neither persists through one birth on its border. Whether that
-  is "robust" depends on which family the criterion names. TERM-088 asks
+  is "robust" depends on which family the criterion names. [TERM-088](../terms.d/TERM-088.md) asks
   only that it be specified.
-- **Constitutive (TERM-088), "its relational organization helps fix its
+- **Constitutive ([TERM-088](../terms.d/TERM-088.md)), "its relational organization helps fix its
   identity and boundary".** Met by the block in a strict form. A block
   cell's live neighbours are the other three, any two of them keep it
   alive, and any three make the fourth. So the 2 × 2 extent is fixed by
   the cells' relations to each other under the rule. For the eater, partly: its cells fix its shape as a still life, but
   no six of them regrow the seventh, and its regrowth after the strike
   needs the glider's cells. In Life the rule is given exactly, so the
-  relations can be read off it, and CLAIM-528's limit, that interventions
+  relations can be read off it, and [CLAIM-528](../claims.d/CLAIM-528.md)'s limit, that interventions
   alone cannot show a constitutive dependence, does not apply.
-- **Boundary (CLAIM-194).** Nothing in Life imposes a boundary. The block
+- **Boundary ([CLAIM-194](../claims.d/CLAIM-194.md)).** Nothing in Life imposes a boundary. The block
   does not make its dead border either. Its cells give each border cell
   one or two live neighbours, never three, so the border stays dead only
   while nothing outside adds the missing count.
-- **Organizational autonomy (TERM-088, TERM-070).** Not met by either alone.
+- **Organizational autonomy ([TERM-088](../terms.d/TERM-088.md), [TERM-070](../terms.d/TERM-070.md)).** Not met by either alone.
   Neither maintains a constraint distinct from the states it acts on. In
   the gun, whether the block-and-shuttle loop is closure of constraints is
-  left open, as CASE-260 leaves it.
-- **One system by the gap-isolated block (CLAIM-157).** With coupling read
+  left open, as [CASE-260](CASE-260.md) leaves it.
+- **One system by the gap-isolated block ([CLAIM-157](../claims.d/CLAIM-157.md)).** With coupling read
   as above, the lone block fails at every horizon and for every threshold.
   Its inside coupling is zero and its border's is not. The gun's block
   fails too. The eater's inside coupling is about 3.5 times its border's
@@ -189,9 +189,9 @@ ooo.o.
   longer horizons. τ is not set for Life. Read instead on realized
   interaction in an empty surround, nothing interacts at all. Every region
   then passes, so the test does not discriminate.
-- **Token identity (CLAIM-615, CLAIM-694).** The block is a type and its
+- **Token identity ([CLAIM-615](../claims.d/CLAIM-615.md), [CLAIM-694](../claims.d/CLAIM-694.md)).** The block is a type and its
   instances are tokens. The token count depends on the criterion. Shape
-  instances count CASE-260's run 1 as two blocks. Cell continuity counts
+  instances count [CASE-260](CASE-260.md)'s run 1 as two blocks. Cell continuity counts
   it as one. The soup transient of result 5 is one created, unstabilized
   token on either count.
 
@@ -201,17 +201,17 @@ Within Life, every number here is a fact anyone can recompute. They fix
 which criteria the block and eater meet once a criterion is fixed. They
 also show that two of the record's criteria come apart on the block. The
 property that keeps it in being under deletion, its cells' tolerance of one
-another's loss, is the property that makes CLAIM-157's test read zero
+another's loss, is the property that makes [CLAIM-157](../claims.d/CLAIM-157.md)'s test read zero
 coupling inside it.
 
 ## What it cannot show
 
-- **Which criterion QUESTION-281 means.** That is a reading of the
+- **Which criterion [QUESTION-281](../questions.d/QUESTION-281.md) means.** That is a reading of the
   question, which the claims filed with this case give as alternatives.
-- **That sensitivity is the right reading of CLAIM-157's interaction
+- **That sensitivity is the right reading of [CLAIM-157](../claims.d/CLAIM-157.md)'s interaction
   matrix for a Boolean rule.** It is the nearest analogue, not the only
   one. A coarse variable such as "block present" would need its own
   model.
 - **Anything outside Life.**
 - **Why "documented".** Every fact is a computation any reader can
-  repeat, as in CASE-260 and CASE-259.
+  repeat, as in [CASE-260](CASE-260.md) and [CASE-259](CASE-259.md).

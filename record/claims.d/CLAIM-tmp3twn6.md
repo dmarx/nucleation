@@ -25,7 +25,7 @@ bears_on:
 - QUESTION-035
 - QUESTION-281
 summary: >-
-  From LEAD-069's study. CLAIM-157 names a form one system when the
+  From [LEAD-069](../leads.d/LEAD-069.md)'s study. [CLAIM-157](CLAIM-157.md) names a form one system when the
   coupling inside it beats the coupling across its edge by more than an
   Occam threshold. In Life, read as the fraction of cell pairs for which
   flipping one changes the other k generations later, the lone block has
@@ -35,24 +35,24 @@ summary: >-
   generation (0.24 against 0.07) and not at five. The block's members are
   coupled so that each tolerates the loss of any one other and the lost
   cell regrows, so a single deletion changes nothing a generation later.
-  It is one measured case of the kind CLAIM-157's defeated_if names, a
+  It is one measured case of the kind [CLAIM-157](CLAIM-157.md)'s defeated_if names, a
   form whose members compensate that does not clear the test. One case in
   a discrete rule is not the systematic failure that clause asks for. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmpszhd7 CLAIM-tmpb80wu — new; the study this claim reports and the two readings filed with it -->
-<!-- inactive-ok-file: CLAIM-157 CASE-259 CASE-260 — Proposed; the criterion tested and the constructions it is tested on -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the criterion tested and the constructions it is tested on -->
 
 # CLAIM-tmp3twn6: Read as sensitivity to one flipped cell, the coupling inside a Game of Life block is zero at every horizon while a single birth on its border destroys it, so the gap-isolated block test does not pick out the block, alone or in the gun; the property that keeps the block in being, its cells' tolerance of one another's loss, is what reads as no coupling
 
 ## The claim
 
-CLAIM-157's test compares interaction inside a candidate block with
+[CLAIM-157](CLAIM-157.md)'s test compares interaction inside a candidate block with
 interaction across its edge. Life is a Boolean rule with no interaction
 matrix, so the nearest reading is sensitivity. Flip cell j, run k
 generations, and ask whether cell i differs from the unflipped run. Over
-the block's four cells and its twelve-cell border (CASE-tmpfktyl):
+the block's four cells and its twelve-cell border ([CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md)):
 
 | | inside | border to block | block to border |
 |---|---|---|---|
@@ -83,21 +83,21 @@ single deletions returns, which is why a deletion shows up.
 
 ## What it bears on
 
-- **CLAIM-157's `defeated_if`.** It names "forms that do compensate and
+- **[CLAIM-157](CLAIM-157.md)'s `defeated_if`.** It names "forms that do compensate and
   entrain but never clear" the threshold. The block's cells compensate:
   any three restore the fourth. It does not clear the test. That is one
   measured case of that kind, in a formal rule, with coupling read one
   way. The clause asks for systematic cases for the same target. Whether
   this case counts, or shows only that sensitivity is the wrong reading of
   coupling for a self-repairing form, is the owner's to judge.
-- **QUESTION-281.** If its "a form the record individuates" means
-  CLAIM-157's one system, this is why the block does not meet it
-  (CLAIM-tmpb80wu).
+- **[QUESTION-281](../questions.d/QUESTION-281.md).** If its "a form the record individuates" means
+  [CLAIM-157](CLAIM-157.md)'s one system, this is why the block does not meet it
+  ([CLAIM-tmpb80wu](CLAIM-tmpb80wu.md)).
 
 ## What it does not say
 
-- **That the block is not an individual.** TERM-088's other senses give
-  other verdicts (CLAIM-tmpszhd7).
+- **That the block is not an individual.** [TERM-088](../terms.d/TERM-088.md)'s other senses give
+  other verdicts ([CLAIM-tmpszhd7](CLAIM-tmpszhd7.md)).
 - **That no reading of coupling isolates it.** A model of a coarse
   variable, such as whether a block is present, is not built here.
 - **Anything about linear systems.** The masking comes from Life's
