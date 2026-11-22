@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 11
+version: 12
 history:
 - version: 2
   date: '2026-10-11'
@@ -80,6 +80,12 @@ history:
   note: >-
     A dated note: CLAIM-781 reads the gap-isolated block
     as a class of the tree of time scales. No change of status or title.
+- version: 12
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: the time-lagged, priced block test run on
+    CASE-101's populations (CASE-tmprsqvj, CLAIM-tmp2jbb1). The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -137,6 +143,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-257 THEORY-268 THEORY-254 — Proposed; readings of 2026-10-14 set beside the criterion, open -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; cited as the answered objection, not as standing -->
 <!-- inactive-ok-file: LIT-902 — cited for the compensation test (unread) and the extended-mind case; not leaned on beyond what is said -->
+<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # CLAIM-157: Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
@@ -375,3 +382,27 @@ interaction as realized and on τ. Two models at one setting each are not
 the systematic failure the clause asks for. Point 3's unit, a mode, is
 what both cases have; it is found here by a gap in the whole system's
 eigenbasis, not by grouping members. No change of status or title.
+
+## Note of 2026-11-22: the time-lagged block test, run
+
+The time-lagged version that "is not built" (on Otto's notebook, above)
+was built for LEAD-026 and run on CASE-101's simulated populations
+(CASE-tmprsqvj, CLAIM-tmp2jbb1). It fits a linear autoregression over a
+window of W steps and prices each group of couplings by CLAIM-154's rule,
+at ln n per coefficient. A candidate passes when every cut inside it is
+kept and its edge is pruned. Three results bear on this claim.
+
+- **Lagged coupling.** A population coupled only at a lag of eight steps
+  passes, and its support peaks at W = 8. The claim's "a block test on
+  synchronous dynamics will not see it" holds for the true one-step
+  coupling, which is zero there. It does not hold for a one-step model
+  fitted to data, which sees the lag through the members' own persistence.
+- **Observed set.** A population correlated only by a common input fails
+  alone while the input is observed, and passes once it is not. The verdict
+  is relative to the observed set as well as to the target.
+- **Membership.** A commonly driven population and an institutionally
+  maintained one each pass only with their external variable, as one-way
+  drive passes here. The institution's response to its members gives the
+  direction, and it clears the price only at windows of up to four steps.
+
+The claim is unchanged.

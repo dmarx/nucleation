@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpl1tu6
 title: 'Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-23'
@@ -25,6 +25,11 @@ history:
     ("arm A, common input, is where A* fails, as Bourrat argued and
     THEORY-424 holds"). First application of draws_on (ADR-095).
     No other change.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: run as CASE-tmprsqvj (LEAD-026,
+    CLAIM-tmp2jbb1). The proposal is unchanged.
 standing: fictional
 kind: proposed-study
 tags:
@@ -46,6 +51,7 @@ draws_on:
 - THEORY-424
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
+<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # CASE-101: Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members
 
@@ -111,3 +117,26 @@ zero only if the common input is among the environment's variables. All
 three of Krakauer et al.'s measures are relative to the split between
 system and environment, so the study should state which variables it
 puts in E for each arm. The proposal is otherwise unchanged.
+
+## Note of 2026-11-22: run
+
+The proposal has been run, so its "Not run" and "nothing is run" no longer
+hold. CASE-tmprsqvj carries out LEAD-026 and simulates the three arms,
+matched in turnover and three aggregate statistics. It adds a fourth arm,
+C0, whose institution does not answer to its members. As the note of
+2026-10-29 asks, it states E for each arm: the rest of the observed
+variables, with each measure also run with the external variable hidden.
+CLAIM-tmp2jbb1 states the finding.
+
+- **Where the criteria disagree.**
+  - Retention conditioned on E separates arm B.
+  - Bourrat's interventional retention does not, because intervening on
+    the present misses B's stored norms.
+  - The block test finds B with its transmission lag. It gives A and C the
+    same membership, each joined to its external variable.
+  - Nothing computed tells A from C0.
+- **A11 §9's negative result holds in part.** The temporal measures
+  separate the historical arm, B. They do not separate an institution from
+  a common input.
+
+Effective information was not computed. The proposal is unchanged.
