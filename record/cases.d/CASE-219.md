@@ -114,3 +114,21 @@ sequence, not availability or arrangement of components, and neither time of ass
 intermediates is measured.
 
 No status changes.
+
+## Note of 2026-11-22: run, as the stochastic-assembly half of CASE-tmpndpz3
+
+Carried out under [LEAD-116](../leads.d/LEAD-116.md). [CASE-tmpndpz3](CASE-tmpndpz3.md) builds a stochastic
+assembly Markov chain of the kind this study proposes, with a target held
+fixed and the availability of components varied at fixed total stock, and
+scores its intermediates by committor. It realises several of this study's
+measurements in the model: the probability of assembly (the committor from the
+empty state), early intermediates (every partial structure, ranked by
+committor), and whether an early intermediate raises or lowers the chance of
+success (the committor difference, positive for a seam, negative for the
+incompatible pair). It shows both of A's outcomes in one allocation sweep at
+fixed total: a small early allocation to one seam raises the chance of global
+organization, and an even split across the two seams, or over-allocation to
+them, traps. Feasibility, assembly and persistence are kept apart, as in A's
+design; regeneration is not in it. The model is stipulated with invented rates.
+
+No status changes.
