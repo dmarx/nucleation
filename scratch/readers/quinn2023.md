@@ -224,3 +224,67 @@ promote_when: Quinn, Wilber, Townsend and Sethna 2019 (Phys. Rev. Lett.
 the manifold of a least-squares model meeting the review's smoothness
 condition lies within a hyperellipsoid whose j-th axis is bounded by
 ρ^(−j).
+
+## Step 3: recheck (2026-11-22)
+
+Searched record/ again for: Jeffreys / reference / optimal / maximum-
+information prior, NML, slab-and-spike, Bhattacharyya, InPCA, isKL,
+Teoh, Raju, Mattingly, Abbott & Machta, structural / practical
+identifiability, separation of scales, balanced truncation, Hasse, cone
+tip, Vandermonde / Chebyshev, and the review's cited arXiv ids. Held
+entries the first search (on the exchange's words) missed:
+
+- **LIT-1299 (Machta et al. 2013, Science) and LIT-1254 / NOTE-972 /
+  THEORY-742 (Raju, Machta & Sethna 2018).** §6 restates both: the metric
+  flow equation (Raju's) and Fig. 12 (Machta's Ising decimation). Bearing:
+  the review is a restatement; supports, nothing new.
+- **THEORY-777, THEORY-774.** §6.1's d log(ds²)/db = −D + 2y_i matches
+  THEORY-777's b^(2y−d); §6.2's hopping model ("not a hyper-ribbon" after
+  one step) matches THEORY-774. Supports.
+- **CASE-302 (finite fold line).** §2: the two-exponential manifold "folds
+  on itself about θ₁ = θ₂", a boundary. Supports.
+- **CLAIM-825 (resolved dimension grows with data).** §5: "As the noise is
+  decreased, dimensions will smoothly pass from the former category into
+  the latter"; Jeffreys ignores this because it is invariant to M.
+  Supports, qualitatively (no growth law).
+- **CLAIM-812 (a direction too sloppy to resolve counts like a flat one at
+  finite n).** §5.1: along a dimension ≲1 s.d. the optimal prior's atoms
+  "lie only at the boundaries"; the adaptive prior puts "almost all the
+  weight ... on the edges" along sloppy directions. Parallel / supports,
+  in Bayesian-prior terms.
+- **CLAIM-813 (sloppy ≠ singular).** §3 separates practical from
+  structural non-identifiability, the latter giving "eigenvalues of the
+  metric exactly equal to zero". Supports.
+- **THEORY-087 (Bayesian complexity penalty d/2 log n vs λ log n).** §1:
+  BIC/AIC "are formally derived in the limit of abundant, informative
+  data"; §5's case against Jeffreys is that limit's failure in sloppy
+  models. Parallel; the review does not mention singular learning theory.
+- **THEORY-081 (prior change, Savage-Dickey as point mass).** §5's
+  schematic p_∥(θ)∏δ(θ_μ) and the slab-and-spike prior are point masses on
+  nested (boundary) models. Parallel only.
+- **QUESTION-517 (which effective dimension).** Result 2 (ΛCDM sloppy yet
+  fully determined) is one more case where "sloppy" and "low effective
+  dimension" part. Bears on, leaves open.
+- **Deferred LITs the review cites:** LIT-tmptm9ww (Transtrum, Hart & Qiu,
+  information topology, 1409.6203; §4.1 "Similar boundary complexes" and
+  §8.5 "our theories of information topology"), LIT-tmpiy8ed (Transtrum
+  2016, gray-box, 1605.08705; §4.1), LIT-tmpqtxyr (Transtrum & Qiu 2016,
+  bridging; §1), LIT-tmpv6k3o (MBAM and balanced truncation, 1901.02569;
+  §4.2 restates its result, though its own key is not among those checked).
+  Background; none read here.
+- **Not held, cited and relied on by the review** (candidates for
+  registration if the filer wants them): Quinn, Wilber, Townsend & Sethna
+  2019, PRL 122 158302 (the §3 bound); Mattingly, Transtrum, Abbott &
+  Machta 2018, "Maximizing the information learned from finite data
+  selects a simple model"; Abbott & Machta, "Far from Asymptopia",
+  arXiv 2205.03343; Quinn et al. 2019, InPCA (PNAS); Teoh et al. 2020,
+  isKL. Searched by title fragment and id in record/literature.d: no hit.
+- Not relevant on inspection: grep hits for Mattingly (NOTE-1276, a
+  different Mattingly), isKL / Teoh (multi-token-prediction entries),
+  Bhattacharyya and PHATE (other contexts). NOTE-1481 (LaMont & Wiggins)
+  discusses Jeffreys and reference priors; parallel, not checked in depth.
+
+## Step 4: report
+
+Neighbours: none needed; the work itself was read in full from arXiv.
+No other work was read or quoted. No bot check, paywall or refusal met.
