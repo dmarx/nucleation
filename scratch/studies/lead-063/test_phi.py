@@ -85,6 +85,20 @@ def test_uncoupled_group_splits_into_members():
     assert exclusion_winner(r) == "member"
 
 
+def test_main_complex_disconnected_is_a_module():
+    from phi import main_complex
+    A, mods = modular_mind(m=2, n=3, c=0.0)
+    val, sub = main_complex(A)
+    assert sub in mods
+
+
+def test_main_complex_tight_mind_is_whole():
+    from phi import main_complex
+    A, mods = modular_mind(c=0.1, width=3)
+    val, sub = main_complex(A)
+    assert sub == list(range(9))
+
+
 def test_block_mib_is_not_beaten_by_random_cuts():
     """The group's MIB is searched along module seams; random cuts that
     split modules should not score lower (size-normalized)."""

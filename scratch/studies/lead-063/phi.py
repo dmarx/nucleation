@@ -187,6 +187,23 @@ def mind_levels(A, modules):
     return {"module": (modules, None), "mind": ([whole], lambda c: modules)}
 
 
+def main_complex(A, normalize=True):
+    """Exhaustive IIT-style exclusion over every subset of >= 2 units (small
+    systems only): the subset of maximal Phi. Returns (Phi, subset)."""
+    n = A.shape[0]
+    if n > 12:
+        raise ValueError("exhaustive search is for at most 12 units")
+    Sigma = stationary_cov(A)
+    Gamma = A @ Sigma
+    best = None
+    for r in range(2, n + 1):
+        for sub in itertools.combinations(range(n), r):
+            val, _ = Phi(Sigma, Gamma, list(sub), normalize=normalize)
+            if best is None or val > best[0] + 1e-12:
+                best = (val, list(sub))
+    return best
+
+
 def group_levels(members, modules):
     whole = [u for mem in members for u in mem]
     mods_of = lambda cand: [m for m in modules if m[0] in cand]
