@@ -4,13 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpw9b04
 title: 'When does spectral differentiation among learned features correspond to stabilizing coexistence among the processes that implement them, and what besides the feature geometry decides it?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the readings of Mehta et al. and
     Chizat and Bach. The question is unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-049's Theorem B (CLAIM-tmp6kclm)
+    bounds each specialist's recovery rate below by its abundance times
+    its niche vector's squared distance from the span of the others, and
+    so by abundance times λ_min(A). The question is unchanged.
 tags:
 - representation-learning
 - ecology
@@ -31,6 +38,7 @@ summary: >-
   else, such as supply, task distribution or evaluation opportunities, has
   to be fixed for it to.
 ---
+<!-- inactive-ok-file: CLAIM-tmp6kclm CLAIM-tmpdsv4t CASE-tmp5sk3q — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # QUESTION-135: When does spectral differentiation among learned features correspond to stabilizing coexistence among the processes that implement them, and what besides the feature geometry decides it?
@@ -124,3 +132,30 @@ holds only for this linear model.
 persistence demands.
 
 No status changes.
+
+## Note of 2026-11-22: a k-component spectral bound on recovery
+
+LEAD-049 proved a k-component version of CASE-118's identity
+(CLAIM-tmp6kclm, Theorem B). It holds in CLAIM-369's class at fixed
+features, with the Gram matrix A positive definite and an interior
+equilibrium n*. A specialist i is removed and reintroduced rare against
+the others' re-equilibrated community. Its recovery growth satisfies
+
+  λ_i ≥ n*_i / (A⁻¹)_ii = n*_i d_i² ≥ n*_i λ_min(A).
+
+Here d_i is the distance of i's feature vector from the span of the
+others'. Equality holds in the first inequality when no other component
+goes extinct in i's absence. CASE-tmp5sk3q's 7,981 random cases meet the
+bound everywhere. In the 1,666 with a secondary extinction it is strict.
+
+For this question the result sharpens CASE-118's finding. What predicts
+a component's recovery is not the spectrum as a whole. It is the
+component's own residual direction, d_i², the Schur complement of A at i,
+weighted by its abundance. λ_min(A) is only the worst case over
+components. The abundance n* = A⁻¹r carries the supply, which is the
+"what else" the question asks for. In this class the answer is exact:
+feature geometry (d_i) and supply (n*_i) together set recovery. That
+holds only while the features are fixed. When they adapt, a component's
+recovery against re-adapted residents can be negative (CLAIM-tmpdsv4t).
+
+The question is unchanged and stays Open.

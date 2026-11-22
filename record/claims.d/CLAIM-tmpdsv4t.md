@@ -98,7 +98,7 @@ condition once residents re-adapt. The record's two measurements, frozen
 and trainable, part here. Against frozen residents the specialist
 recovers at B − c. Against a resident that has had time to generalize it
 declines, at −c/5. Below c/B = 2/3 a lone resident does start to move
-(item 3). [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md) finds that it then ends at the generalist and that
+(item 3). CASE-tmp5sk3q finds that it then ends at the generalist and that
 the removed specialist then fails to return. Above 2/3 the resident stays
 put and the specialist returns. The generalist state remains, but removal
 does not lead to it.
