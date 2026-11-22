@@ -2,7 +2,7 @@
 
 ### Added
 
-- LEAD-145 carried out: two openly posted standard treatments registered
+- [LEAD-145](record/leads.d/LEAD-145.md) carried out: two openly posted standard treatments registered
   and read for the shared observe-and-act budget line. Dual control —
   [LIT-tmpbta8p](record/literature.d/LIT-tmpbta8p.md) (Meijer and Rantzer, 2026), read in
   [NOTE-tmpk22nd](record/notes.d/NOTE-tmpk22nd.md), with account [THEORY-tmpttshe](record/theory.d/THEORY-tmpttshe.md)

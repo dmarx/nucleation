@@ -119,8 +119,8 @@ approach does not (§4.3, §5).
   citation unchecked. This review checks it: Feldbaum, A. A. (1960/1963),
   "Dual control theory", is correctly the origin of the term and of the
   probing/caution duality. The dual-control case is the one where the
-  observing and acting budgets of CLAIM-572 are not separable — the same
-  action does both — so it is the natural complement of CLAIM-572's
+  observing and acting budgets of [CLAIM-572](../claims.d/CLAIM-572.md) are not separable — the same
+  action does both — so it is the natural complement of [CLAIM-572](../claims.d/CLAIM-572.md)'s
   separated-budget model, not a rival to it. A dated note records this.
 - **[QUESTION-374](../questions.d/QUESTION-374.md).** The question's third part asks where observing
   and acting draw on one resource; dual control is the limiting case in
@@ -146,5 +146,5 @@ approach does not (§4.3, §5).
   and reinforcement-learning literatures are only pointed to.
 - The non-convexity that forces input randomization (Figure 3) is a
   property of the minimax value iteration, not the same object as
-  CLAIM-572's non-concavity of the observe/act budget frontier; the two
+  [CLAIM-572](../claims.d/CLAIM-572.md)'s non-concavity of the observe/act budget frontier; the two
   should not be conflated.

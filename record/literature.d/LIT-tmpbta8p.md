@@ -82,7 +82,7 @@ Meijer, T. J. & Rantzer, A. (2026). Dual control: On exploration–exploitation 
 
 ## Standing in the record
 
-Registered and read under LEAD-145 as a standard treatment of dual control,
+Registered and read under [LEAD-145](../leads.d/LEAD-145.md) as a standard treatment of dual control,
 the case [CLAIM-572](../claims.d/CLAIM-572.md) names and excludes ("in dual control (Feldbaum) an
 action also observes; that case is excluded"). The reading
 ([NOTE-tmpk22nd](../notes.d/NOTE-tmpk22nd.md)) confirms the Feldbaum attribution.

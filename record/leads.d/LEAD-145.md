@@ -57,7 +57,7 @@ not stand in). Registered and read two openly posted standard treatments:
   2404.01190), read in [NOTE-tmp16xnt](../notes.d/NOTE-tmp16xnt.md); account [THEORY-tmpgf28l](../theory.d/THEORY-tmpgf28l.md).
 
 Both accounts `bears_on` [QUESTION-374](../questions.d/QUESTION-374.md); dated notes filed on it and on
-[CLAIM-572](../claims.d/CLAIM-572.md). The two citations CLAIM-572 flags as unchecked (Feldbaum
+[CLAIM-572](../claims.d/CLAIM-572.md). The two citations [CLAIM-572](../claims.d/CLAIM-572.md) flags as unchecked (Feldbaum
 dual control; Radner–Stiglitz nonconcavity) are now checked through these
 readings. The owner's calls left open are recorded in the report:
 alternative VoI treatments (Cowles d1498; Chade & Schlee 2002), promotion

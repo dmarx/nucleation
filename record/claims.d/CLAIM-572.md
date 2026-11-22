@@ -211,9 +211,9 @@ Settles ([THEORY-2045](../theory.d/THEORY-2045.md)), skimmed, reports that stopp
 
 No status change.
 
-## Note of 2026-11-22: dual control read (Meijer and Rantzer), for LEAD-145
+## Note of 2026-11-22: dual control read (Meijer and Rantzer), for [LEAD-145](../leads.d/LEAD-145.md)
 
-LEAD-145 registered and read a standard treatment of dual control,
+[LEAD-145](../leads.d/LEAD-145.md) registered and read a standard treatment of dual control,
 [LIT-tmpbta8p](../literature.d/LIT-tmpbta8p.md) (Meijer and Rantzer, 2026), read in
 [NOTE-tmpk22nd](../notes.d/NOTE-tmpk22nd.md). This checks the citation this claim's "What it does
 not say" flags as unchecked ("In dual control (Feldbaum) an action also
@@ -229,9 +229,9 @@ cognate to this claim's: there too, a system must sometimes spend
 performance to learn. Context and a checked citation, not evidence; the
 claim's theorem stands in its own model. No status change.
 
-## Note of 2026-11-22: value of information read (Whitmeyer), for LEAD-145
+## Note of 2026-11-22: value of information read (Whitmeyer), for [LEAD-145](../leads.d/LEAD-145.md)
 
-LEAD-145 also registered and read a standard treatment of the value of
+[LEAD-145](../leads.d/LEAD-145.md) also registered and read a standard treatment of the value of
 information, [LIT-tmpkun97](../literature.d/LIT-tmpkun97.md) (Whitmeyer, 2024), read in
 [NOTE-tmp16xnt](../notes.d/NOTE-tmp16xnt.md). This checks the other unchecked citation: the
 nonconcavity "is usually credited to Radner and Stiglitz". Checked: Radner,

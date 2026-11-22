@@ -75,7 +75,7 @@ Whitmeyer, M. (2024). Call the Dentist! A (Con-)Cavity in the Value of Informati
 
 ## Standing in the record
 
-Registered and read under LEAD-145 as a standard treatment of the value of
+Registered and read under [LEAD-145](../leads.d/LEAD-145.md) as a standard treatment of the value of
 information. It verifies the Radner–Stiglitz nonconcavity that
 [CLAIM-572](../claims.d/CLAIM-572.md) names as an unchecked citation, and reframes it: the
 nonconcavity is a property of the chosen quantification, not of the value

@@ -118,7 +118,7 @@ priors.
   result's reach rather than contradicting it. A dated note on the claim
   records this; it is context, not independent proof of the claim's own
   theorem, which stands in its own model.
-- **The unchecked citation.** CLAIM-572's "What it does not say" says the
+- **The unchecked citation.** [CLAIM-572](../claims.d/CLAIM-572.md)'s "What it does not say" says the
   nonconcavity "is usually credited to Radner and Stiglitz … and the
   citation is unchecked." Checked: Radner, R. & Stiglitz, J. (1984), "A
   nonconcavity in the value of information", Bayesian Models in Economic
@@ -145,4 +145,4 @@ priors.
   no algorithm and no worked numerical example.
 - "Efficient" acquisition assumes the decision-maker can choose the best
   experiment of each amount; when the available experiments are fixed (as
-  in CLAIM-572's probe order) the efficient frontier is not attainable.
+  in [CLAIM-572](../claims.d/CLAIM-572.md)'s probe order) the efficient frontier is not attainable.

@@ -108,9 +108,9 @@ No status changes.
 
 The second synthesis review found the integration this question asks for already held by [CLAIM-592](../claims.d/CLAIM-592.md), [CLAIM-570](../claims.d/CLAIM-570.md), [CLAIM-572](../claims.d/CLAIM-572.md) and [CLAIM-594](../claims.d/CLAIM-594.md), and added one corollary, noted on [CLAIM-572](../claims.d/CLAIM-572.md): on [CASE-206](../cases.d/CASE-206.md)'s vertex, a non-trivial agreement between the observer's and the system's partitions needs a shared budget of 4.125, more than the cheapest readiness (1.866) and more than full observation (4). Whether the module of the meet O_o ∧ A_a, monotone in opposite senses in the two budgets, decomposes into intervals is a further question the review did not settle.
 
-## Note of 2026-11-22: dual control and value of information read, for LEAD-145
+## Note of 2026-11-22: dual control and value of information read, for [LEAD-145](../leads.d/LEAD-145.md)
 
-LEAD-145 registered and read standard treatments of the two bodies named
+[LEAD-145](../leads.d/LEAD-145.md) registered and read standard treatments of the two bodies named
 in the curation entry of 2026-11-05 as unregistered: dual control
 ([LIT-tmpbta8p](../literature.d/LIT-tmpbta8p.md), Meijer and Rantzer, 2026, in
 [NOTE-tmpk22nd](../notes.d/NOTE-tmpk22nd.md)) and the value of information
