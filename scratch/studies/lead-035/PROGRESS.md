@@ -43,11 +43,12 @@
   mixture in R^20, 50 per class. numpy only, full-batch GD.
 - "The work NOTE-772 names": NOTE-772 names many works; the one that
   bears on whether gradient descent without renormalization follows the
-  omega dynamics is Mixon, Murray and Villar (2020), squared loss, gradient
+  omega dynamics is Mixon, Parshall and Pi (2020, arXiv:2011.11619; authors checked on
+  the arXiv API), squared loss, gradient
   flow on unconstrained features. Register that.
 
 ## Next
 
-- Register Mixon, Murray and Villar (LIT, Deferred).
+- Registered Mixon, Parshall and Pi as LIT-tmpxyq0h (Deferred).
 - Copy results in, analyze, write README.
 - File CASE, CLAIM, dated notes, changelog.
