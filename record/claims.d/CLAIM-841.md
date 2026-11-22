@@ -186,8 +186,10 @@ distributions.
   QUESTION-508. The founding letter is itself an instance of the
   inference this claim doubts: "The fact that the curve is linear over
   two decades indicates that the system is at a critical point" (p. 383).
-  Its criticality is better shown by the finite-size cutoff it asserts
-  and the record reproduces (CLAIM-tmpfwwrf).
+  The finite-size cutoff it asserts, which the record reproduces
+  (CLAIM-tmpfwwrf), is the stronger of its two kinds of evidence, though
+  by the list below it is one discriminating observation among several,
+  not a proof.
 
 ## Change of 2026-11-22
 

@@ -1,57 +1,71 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
-status: Proposed
-
+status: Rejected
 title: "Merton's essay, read as a source for the claim that rich-get-richer, cumulative advantage, the Matthew effect and preferential attachment name one feedback, gives the name and its link to cumulative advantage but not linear attachment, so it does not carry that identity"
-
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+form: source
+grounds:
+- THEORY-tmp7rz62
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-817
 tags:
-- agency
+- social-science
+- network-science
 date: '2026-11-22'
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
 line:
-- will-organization
-
+- formal-apparatus
+summary: >-
+  CLAIM-817's summary said "Rich-get-richer, cumulative advantage, the
+  Matthew effect and preferential attachment name one feedback", and it
+  listed Merton's essay (LIT-3002) in its grounds for A1's "sometimes
+  called the Matthew effect, after sociologist Robert K. Merton". Read
+  (NOTE-tmp4eogg), the essay gives the name and ties it to cumulative
+  advantage ("the rich get richer"), but its Matthew effect is credit for
+  a given contribution allotted by rank, with a fixed number of top places
+  and a ratchet among its mechanisms, and it states no rule of growth in
+  proportion to size. Rejected as a route to the identity; the essay
+  leaves the claim's grounds, and the naming clause is corrected there.
+  Standing of the conclusion apart from this route: the identity holds
+  only in the formal sense of "Matthew effect", which Newman's review
+  lists among the names of the Yule process (NOTE-tmpa7yd2), and
+  TERM-tmpeguzj separates the two senses; CLAIM-817's thesis on the
+  kernel and entry does not depend on the naming. The wording is the
+  assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: CLAIM-817 THEORY-tmp7rz62 TERM-tmpeguzj — Proposed; the claim, the reading this argument rejects as a route, and the term that holds the senses -->
 
 # ARG-tmpaf6km: Merton's essay, read as a source for the claim that rich-get-richer, cumulative advantage, the Matthew effect and preferential attachment name one feedback, gives the name and its link to cumulative advantage but not linear attachment, so it does not carry that identity
 
 ## The inference
 
-How the premises yield the conclusion.
+CLAIM-817, its naming clause ("One feedback, several names"). Ground:
+THEORY-tmp7rz62.
 
-## Critical questions
+## Critical questions (source)
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+**Does the work say this, read in context?** In part. It says the name:
+"the Matthew effect consists in the accruing of greater increments of
+recognition for particular scientific contributions to scientists of
+considerable repute" (p. 58). It says the link: "One institutional version
+of the Matthew effect ... is expressed in the principle of cumulative
+advantage ... the rich get richer at a rate that makes the poor become
+relatively poorer" (p. 62). It does not say that the effect is growth in
+proportion to size: the recognition is for a *given* contribution, and the
+mechanisms named are "a fixed number of places available at the summit of
+recognition" and a "ratchet effect" (p. 57), visibility and the
+self-fulfilling prophecy (p. 61). No rate, model or distribution appears;
+the growth implication is credited to Price (note 46).
+
+**Is it said within the scope the claim needs?** The claim's identity is
+the formal one: one feedback, implemented by preferential attachment. The
+essay's Matthew effect is an attribution effect, of which cumulative
+advantage is "one institutional version", not a synonym.
+
+**Does the claim lean on the reading for more than it holds?** It did, by
+listing the essay in its grounds next to "name one feedback". The essay
+grounds the attribution of the word, which takes no edge (ADR-095).
+
+## Verdict
+
+Rejected as a route to the identity. LIT-3002 leaves CLAIM-817's grounds;
+the claim's naming clause is corrected in place, and TERM-tmpeguzj holds
+the two senses.

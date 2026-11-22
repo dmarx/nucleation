@@ -127,3 +127,14 @@ ratio for the finite-data bulk: "finite-sample fluctuations strongly
 deform the bulk spectrum and suppress signal extraction", and the window in
 which an aligned outlier appears narrows as the load falls (§IV A). No
 relation.
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+**Background.** The claim contrasts its cascade of detectability
+thresholds with "a self-organized critical process". Bak, Tang and
+Wiesenfeld (LIT-2992, NOTE-tmpnl00y, THEORY-tmpehudh), now read, fix what
+the contrast term meant at its origin: a spatially extended threshold
+system that relaxes to a state with no length scale, with avalanches of
+all sizes cut off by the system size (pp. 382–383). The PCA cascade has
+none of these: no spatial extent, no avalanches, no relaxation to an
+attractor. The contrast stands. No edge. Status unchanged.

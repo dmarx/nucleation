@@ -1,57 +1,67 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
-title: 'a2'
-
+title: "Bak, Tang and Wiesenfeld's letter, read as a source, corroborates the claim that a power law does not by itself indicate criticality, through its bullet that self-organized criticality reaches a critical point without outside tuning, while the letter itself infers criticality from a straight log-log line"
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+form: source
+grounds:
+- THEORY-tmpehudh
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-841
 tags:
-- agency
+- complex-systems
+- natural-sciences
 date: '2026-11-22'
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
 line:
-- will-organization
-
+- formal-apparatus
+summary: >-
+  CLAIM-841 cites Bak, Tang and Wiesenfeld (LIT-2992) in its "What it
+  does not say" for self-organized criticality as a route to a critical
+  point without outside tuning. Read, the letter says so plainly
+  (p. 381). It supports that bullet, not the thesis: on the thesis it is
+  a historical contrast, inferring criticality from a straight log-log
+  line over two decades and offering SOC as the common mechanism of
+  scaling. So THEORY-tmpehudh corroborates the claim and does not ground
+  its thesis. The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-841 THEORY-tmpehudh CLAIM-tmpfwwrf — Proposed or new; the claim, the reading this argument joins, and the record's reproduction of the sandpile -->
 
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
-
-# ARG-tmp1zu0m: a2
+# ARG-tmp1zu0m: Bak, Tang and Wiesenfeld's letter, read as a source, corroborates the claim that a power law does not by itself indicate criticality, through its bullet that self-organized criticality reaches a critical point without outside tuning, while the letter itself infers criticality from a straight log-log line
 
 ## The inference
 
-How the premises yield the conclusion.
+CLAIM-841 holds that a power law does not by itself indicate a tuned
+transition, and grants, under "What it does not say", that SOC is a route
+ending at a critical point without outside tuning. THEORY-tmpehudh, read
+as a source, would carry that bullet.
 
-## Critical questions
+## Critical questions (source)
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+**Does the work say this, read in context?** Yes: "The criticality in our
+theory is fundamentally different from the critical point at phase
+transitions in equilibrium statistical mechanics which can be reached
+only by tuning of a parameter, for instance the temperature. The critical
+point in the dynamical systems studied here is an attractor reached by
+starting far from equilibrium" (p. 381); and of the automaton, "There are
+no parameters since a shift in K simply shifts z" (p. 382).
+
+**Is it said within the scope the claim needs?** For the bullet, yes. For
+the thesis, no: the letter does not argue that any other route removes a
+scale without tuning. It argues the reverse direction, that SOC is "the
+common underlying mechanism" of 1/f noise, fractals and turbulence
+(p. 381), and it reads criticality off one distribution: "The fact that
+the curve is linear over two decades indicates that the system is at a
+critical point" (p. 383). That is the inference CLAIM-841 doubts. It is a
+contrast in method, not a defeater: the letter does not show that the
+other routes fail.
+
+**Is the source in a position to know?** It is the founding statement of
+the idea, so for what SOC was proposed to be it is the authority. Its
+evidence is simulations on small lattices, coarse-grained, judged by eye,
+with a finite-size check asserted without data (p. 383). The record's
+reproduction (CLAIM-tmpfwwrf) supplies that check.
+
+## Verdict
+
+THEORY-tmpehudh `corroborates` CLAIM-841 through the SOC bullet; it is
+not added to `grounds`. The claim's thesis is unaffected.

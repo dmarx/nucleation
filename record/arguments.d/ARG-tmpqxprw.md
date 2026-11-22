@@ -1,57 +1,80 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
 title: "Krapivsky, Redner and Leyvraz's exact solution of the growing-tree rate equations, read as a source, carries the kernel regimes and shows the linear case to be a borderline with a tunable exponent, so it grounds the regimes in the cumulative-advantage claim and the marginality objection"
-
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+form: source
+grounds:
+- THEORY-tmpmsncg
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-817
+- CLAIM-806
 tags:
-- agency
+- network-science
+- probabilistic-modeling
 date: '2026-11-22'
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
 line:
-- will-organization
-
+- formal-apparatus
+summary: >-
+  Whether Krapivsky, Redner and Leyvraz (LIT-2974), read in NOTE-tmp2z733,
+  carry the kernel regimes that CLAIM-817's title states and CLAIM-806's
+  objection builds on, which ARG-149 said rest on this work while it was
+  unread. They do: "A power law distribution N_k ∼ k^−ν arises only for
+  γ = 1", with a stretched exponential below and a single "gel" site
+  above. They qualify both claims in directions each allows: the power law
+  is k^(−3) only for A_k = k, the linear case is a family with
+  ν = 1 + μ/a∞ anywhere above 2, and the superlinear side is a cascade of
+  transitions. The paper always has entry, so the need for entry is not
+  tested here. The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call.
 ---
-
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: CLAIM-817 CLAIM-806 CLAIM-830 ARG-149 THEORY-tmpmsncg — Proposed; the claims and the reading this argument joins, and the argument it completes -->
 
 # ARG-tmpqxprw: Krapivsky, Redner and Leyvraz's exact solution of the growing-tree rate equations, read as a source, carries the kernel regimes and shows the linear case to be a borderline with a tunable exponent, so it grounds the regimes in the cumulative-advantage claim and the marginality objection
 
 ## The inference
 
-How the premises yield the conclusion.
+CLAIM-817 (the regimes in its title) and CLAIM-806 (linear attachment as
+a marginal point). Ground: THEORY-tmpmsncg. The same premise bears on both
+in the same way, so one verdict is filed once.
 
-## Critical questions
+## Critical questions (source)
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+**Does the work say this, read in context?** Yes. Abstract: "For γ < 1,
+the number of sites with k links, N_k, varies as stretched exponential.
+For γ > 1, a single site connects to nearly all other sites. In the
+borderline case A_k ∼ k, the power law N_k ∼ k^−ν is found". p. 1: "A
+power law distribution N_k ∼ k^−ν arises only for γ = 1." γ = 0 gives
+n_k = 2^(−k) (p. 2). For γ > 1, "the remaining t links must all connect
+to a single site which has t connections" (p. 3), the claim's
+condensation, which the filing's run at α = 1.5 (one node with 49.7% of
+the 2t edge ends) matches.
+
+**Is it said within the scope the claims need?** For the kernel half of
+CLAIM-817, and for CLAIM-806's two sides. Not for CLAIM-817's "together
+with continual entry": the rate equation always has a source term for
+"the continuous introduction of new sites", and the no-entry case is never
+run. That half rests on CLAIM-830. CLAIM-806's analogy to criticality is
+the claim's own; the paper calls γ = 1 "the borderline case" and γ > 1
+"akin to gelation", nothing more.
+
+**Does a claim lean on the reading for more than it holds?** Two
+qualifications, both within what the claims allow.
+
+- The power law at the boundary is k^(−3) only for A_k = k. An
+  asymptotically linear kernel gives "ν = 1 + µ/a∞", tunable "to any value
+  larger than 2" (p. 2). CLAIM-817's `defeated_if` already exempts a
+  shifted linear kernel; CLAIM-806's "the boundary is a line in a larger
+  space of kernels" is right, and its "standard result, not checked here"
+  is now checked.
+- The superlinear side is not one regime but a cascade: "for
+  (m+1)/m < γ < m/(m−1), the number of sites with more than m links is
+  finite" (p. 3). γ = 3/2, the filing's run, is itself a transition point.
+
+The paper's own warning, that for 0.8 ≲ γ ≲ 1 a stretched exponential
+and a power law are hard to tell apart up to k = 1000, bears on
+measurement, not on the model's regimes.
+
+## Verdict
+
+Support. THEORY-tmpmsncg replaces LIT-2974 in the grounds of CLAIM-817
+and CLAIM-806, completing what ARG-149 deferred to this work.

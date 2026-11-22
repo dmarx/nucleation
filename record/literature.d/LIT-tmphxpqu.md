@@ -1,76 +1,53 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Unfetched | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041). `Unfetched` is one whose lawful free copy was
-# located at an exact address that this client could not fetch; the status
-# note gives the address and the obstacle (ADR-053).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmphxpqu:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-11-22, not read. Registered from the readings of Krapivsky,
+  Redner and Leyvraz (NOTE-tmp2z733, their reference 20, overlapping
+  results) and of Barabási's Network Science chapter 5 (NOTE-tmpnpqc8,
+  its reference 12, credited with the exact degree distribution of the
+  Barabási–Albert model). No reading was attempted; a lawful copy has
+  not been sought.
 title: "Structure of Growing Networks: Exact Solution of the Barabasi--Albert's Model"
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed, not read. Identifier checked on the arXiv API on 2026-11-22
+    (cond-mat/0004434v1, submitted 2000-04-26; journal ref Phys. Rev.
+    Lett. 85, 4633 (2000); DOI 10.1103/PhysRevLett.85.4633, which
+    resolves at doi.org), no email address sent. Not held: no hit for the
+    arXiv id, the DOI, the title or Dorogovtsev in record/literature.d.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- network-science
+- complex-systems
 date: '2026-11-22'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
 published: '2000-04-26'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
+arxiv: 'cond-mat/0004434'
+doi: '10.1103/PhysRevLett.85.4633'
+first_author: 'Dorogovtsev'
 keywords: []
-
-# Optional. Models or codebases known to use this work.
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Dorogovtsev, Mendes & Samukhin (2000), Structure of Growing Networks:
+  Exact Solution of the Barabasi--Albert's Model, Physical Review Letters
+  85, 4633; arXiv cond-mat/0004434. Here as the work the Network Science
+  chapter credits, with Krapivsky, Redner and Leyvraz and with Bollobás
+  and others, for the exact degree distribution of linear attachment,
+  and that Krapivsky, Redner and Leyvraz cite for overlapping results.
+  Unverified until read.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmphxpqu: Structure of Growing Networks: Exact Solution of the Barabasi--Albert's Model
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
-
-## Key takeaways
-
-- What it establishes, in claims rather than topics.
+Dorogovtsev, Mendes & Samukhin (2000). Physical Review Letters 85, 4633.
+arXiv cond-mat/0004434; DOI 10.1103/PhysRevLett.85.4633.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Registered on 2026-11-22 from the readings of Krapivsky, Redner and
+Leyvraz (LIT-2974, NOTE-tmp2z733), who cite it as their reference 20 for
+overlapping results, and of Barabási's chapter (LIT-2968, NOTE-tmpnpqc8),
+which credits it with the exact degree distribution
+2m(m+1)/[k(k+1)(k+2)]. The record relies on it only as that attribution.
+Not read.

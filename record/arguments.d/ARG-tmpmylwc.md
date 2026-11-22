@@ -1,57 +1,78 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
 title: "Barabási and Albert's mean-field derivation and the chapter's first-mover reading, read as sources, carry the age half of the claim that entry separates linear attachment from Gibrat growth, while Model B's transient power law without growth qualifies its Pólya-urn contrast without defeating it"
-
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+form: source
+grounds:
+- THEORY-tmpfrz0k
+- THEORY-tmpzmy66
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-830
 tags:
-- agency
+- network-science
+- probabilistic-modeling
 date: '2026-11-22'
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
 line:
-- will-organization
-
+- formal-apparatus
+summary: >-
+  Whether Barabási and Albert (LIT-3004, NOTE-tmpwgw8e) and the chapter
+  (LIT-2968, NOTE-tmpnpqc8) carry CLAIM-830. They carry its premise, the
+  arrival-time derivation at equal intervals, and its age reading: "hubs
+  are large because they arrived earlier", with γ = 1/β + 1, so the
+  survival exponent 1/β = 2 is the claim's λ/g. Neither casts the process
+  in log time or compares it with Gibrat, so the identification is the
+  claim's own. Model B, preferential attachment among a fixed set of
+  vertices, shows power-law scaling at early times; that qualifies the
+  claim's contrast with a Pólya urn but does not meet its defeated_if,
+  since the tail is transient. The wording is the assistant's (Claude, in
+  this session); adopting it is the owner's call.
 ---
-
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: CLAIM-830 THEORY-tmpfrz0k THEORY-tmpzmy66 — Proposed; the claim and the readings this argument joins -->
 
 # ARG-tmpmylwc: Barabási and Albert's mean-field derivation and the chapter's first-mover reading, read as sources, carry the age half of the claim that entry separates linear attachment from Gibrat growth, while Model B's transient power law without growth qualifies its Pólya-urn contrast without defeating it
 
 ## The inference
 
-How the premises yield the conclusion.
+CLAIM-830. Grounds: THEORY-tmpfrz0k (the premise) and THEORY-tmpzmy66
+(the age reading and the caveat).
 
-## Critical questions
+## Critical questions (source)
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+**Does the work say this, read in context?** The premise, yes:
+∂k_i/∂t = k_i/2t, k_i = m(t/t_i)^0.5, "Assuming that we add the vertices
+at equal time intervals" (preprint pp. 6 to 7). The age reading, yes: "The
+earlier node i was added, the higher is its degree ki(t). Hence, hubs are
+large because they arrived earlier, a phenomenon called first-mover
+advantage" (chapter §5.4), and (5.10) "links the degree exponent" to the
+dynamical exponent. The caveat, yes: the continuum theory "fails to
+accurately predict the pre-factors" (§5.5), as the claim's "accounts for
+the exponent ... not for any one node's degree". The identification with
+Gibrat growth in log time, no: neither source mentions log time, and
+Gibrat appears only in the chapter's bibliography.
+
+**Is it said within the scope the claim needs?** For the premise and the
+age half. Not for the identification, which stays the claim's derivation.
+
+**Is there a counter-instance?** Model B. "In model B we start with N
+vertices and no edges ... While at early times the model exhibits
+power-law scaling, P(k) is not stationary", and it ends with all vertices
+connected (preprint p. 6). That is linear attachment without entry
+showing a power law, which the claim's `defeated_if` names. It does not
+defeat it:
+
+- the tail is transient, and the claim's contrast (and its `defeated_if`)
+  concern the long-run tail; "stationary" should be written into the
+  contrast;
+- the early phase is not a Pólya urn among equals. Nodes start at degree
+  zero, counted as one, and the chapter says that early on "each new link
+  connects previously unconnected nodes. In this stage the model's
+  evolution is indistinguishable from the Barabási-Albert model with m=1"
+  (§5.6). *On the delegated reader's gloss, not the chapter's or the
+  paper's*, those previously unconnected nodes act as entrants, so the
+  transient power law is entry in effect and fits the claim's thesis.
+
+## Verdict
+
+Support for the premise and the age half; THEORY-tmpfrz0k replaces
+LIT-3004 in the grounds, and THEORY-tmpzmy66 corroborates. Model B
+qualifies the Pólya-urn contrast, corrected in place on CLAIM-830.

@@ -81,3 +81,13 @@ explicitly does not.
   to separate motivated unpredictability from other unpredictability.
 - That attunement makes underdetermined behaviour the agent's own. That is
   the paper's further, unestablished claim ([THEORY-1321](THEORY-1321.md)).
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+**Background.** Self-organized criticality is one of the paper's
+candidate amplifiers of irruptions (§5.2.2). Its founding letter
+(LIT-2992, read in NOTE-tmpnl00y; the reading is THEORY-tmpehudh) says
+how such a state amplifies: "A perturbation can lead to anything from a
+shift of a single pendulum to an avalanche, depending on where the
+perturbation is applied" (p. 382). The amplification is undirected,
+which fits the account's §5.2.3. No edge.

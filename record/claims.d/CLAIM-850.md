@@ -167,3 +167,15 @@ bifurcation" as transitions whose optimal side can differ, citing
 Toyoizumi and Abbott ([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered, Deferred) for the chaos
 side. It treats branching criticality only, and does not show that the
 three are distinct properties; no relation is written.
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+**Background.** Bak, Tang and Wiesenfeld (LIT-2992, NOTE-tmpnl00y,
+THEORY-tmpehudh) call their critical state one of "minimally stable"
+clusters that have stopped percolating (p. 382). That is not the
+"marginal stability" of the note above, the loss of linear stability of
+one fixed point: theirs is spatially extended and is, on their account,
+critical. The claim's separation of chaos, criticality and cascade is
+untouched; the letter's conjecture that SOC underlies turbulence too
+(p. 381) runs criticality and cascade together without argument. No
+edge. Status unchanged.

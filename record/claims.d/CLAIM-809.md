@@ -226,3 +226,16 @@ revisions are made in place above (version 2).
 - **No Fisher information.** The record does not attribute one to the
   paper, and the paper does not use it: its measure is ideal-observer
   overlap error.
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+**Background, by contrast of senses.** Bak, Tang and Wiesenfeld
+(LIT-2992, read in NOTE-tmpnl00y; the reading is THEORY-tmpehudh) build
+criticality out of minimal stability: the pile stops "precisely at the
+point when the network of minimally stable states has been broken down
+to the level where the noise signal cannot be communicated through
+infinite distances" (p. 382). That does not touch the bullet "Marginal
+stability is not criticality", whose marginal stability is a scalar map
+at a → 1; theirs is a spatial percolation threshold of many marginally
+stable sites, a collective state. The two senses should not be run
+together. No edge. Status unchanged.
