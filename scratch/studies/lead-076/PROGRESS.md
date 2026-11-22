@@ -59,7 +59,13 @@
 - Habit vs authority reading of CLAIM-446's defeater: both filed as
   alternatives in the sentry claim's body; the owner's call.
 
+- Filed: CASE-tmpxmuri, CLAIM-tmpmcrb7, CLAIM-tmpqp1h6; dated notes on
+  CASE-153, QUESTION-131, CLAIM-446, CLAIM-443, CLAIM-445, LEAD-076 (no
+  note on CLAIM-631: the new claim `complements` it instead); excuses for
+  new or Proposed codes; changelog fragment record/changelog.d/lead-076.md.
+  Frontmatter, title and H1 checks pass.
+
 ## Next
 
-- Write CASE-tmpxmuri, the two claims, dated notes (CASE-153, QUESTION-131,
-  CLAIM-446, CLAIM-443, CLAIM-445, CLAIM-631, LEAD-076), changelog fragment.
+- Nothing on this branch. Report. Not run: CASE-153's second version
+  (risky inspection).

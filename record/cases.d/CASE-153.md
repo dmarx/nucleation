@@ -52,6 +52,7 @@ summary: >-
   [CASE-092](CASE-092.md) and [CASE-099](CASE-099.md). At U18 the owner pointed to [CASE-124](CASE-124.md) as the better
   core, and the exchange moved there ([CASE-156](CASE-156.md)). Not run.
 ---
+<!-- inactive-ok-file: CASE-tmpxmuri CLAIM-tmpqp1h6 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
 <!-- inactive-ok-file: THEORY-2016 THEORY-2029 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-564 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: ARG-025 — Proposed; the argument that holds the grades of evidence CLAIM-427 set out, cited for the grading -->
@@ -207,3 +208,29 @@ Friston and colleagues ([THEORY-2016](../theory.d/THEORY-2016.md)), read, supply
 Smith, Friston and Whyte ([THEORY-2029](../theory.d/THEORY-2029.md)), skimmed, give the case's skeleton without the sentry: a hidden binary context, a hint that reveals it at a cost (the payout halves) and a direct choice. Information-seeking declines as the context prior is learned and returns after unexpected losses (their Fig. 10). Its scripts and its section on fitting and recoverability are a ready base for the Bayesian baseline and for estimating a κ-like parameter. It supports the design's baselines and leaves the blocking of inspection, the case's subject, open.
 
 No status change.
+
+## Note of 2026-11-22: run in full
+
+LEAD-076 ran the design with hidden state and the sentry's restriction of
+evidence. The run is CASE-tmpxmuri, with code in
+scratch/studies/lead-076/. It covers the five-condition first experiment
+and the factorial, with both correction rights and fixed authority as a
+third feedback level. It also runs the four interventions of CLAIM-446's
+test, a phase diagram over κ and η, and checks of sensitivity.
+
+- **The regime the case asked for appears.** With a protected
+  investigator the belief is corrected within a median 6 steps, and
+  protection outlasts it in 87 % of runs.
+- **Restriction and success feedback interact**, by 99 [95, 103] units of
+  needless protection. Neither correction right removes that.
+- **The system still protects** when danger returns.
+- **The case's own check mostly fails the authority state.** "If ... a
+  habit model with matched memory reproduces every intervention response,
+  the extra authority state has not earned its place." Under success
+  feedback the authority update is the habit trace, and the matched habit
+  reproduces every intervention it can receive. Only the audit and
+  reinforcement made independent tell them apart. CLAIM-tmpqp1h6 states
+  this and sets out two readings for the owner.
+
+The design left the reward structure open. The run adds a posture decision
+(protect or engage), as CASE-tmpxmuri says. The case is unchanged.

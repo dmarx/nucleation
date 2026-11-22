@@ -1,81 +1,147 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected. A conceded one is recorded by its
-# target's revision, and keeps the status its own evidence gives it (ADR-059).
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'placeholder sentry claim'
-
+title: 'In the simulated self-protecting sentry, authority rewarded by the apparent success of protection follows the same law as a habit of protecting, so a habit of matched memory reproduces its response to belief correction, to resetting authority and to restored evidence access, and only interventions on the evaluation, an independent audit or authority rewarded on independent evidence, tell the two apart; with them protection outlasts a corrected belief, restricting the evidence turns that inertia into self-confirmation, and neither an audit nor a protected investigator removes the interaction between success feedback and restriction'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed 2026-11-22 by the assistant, carrying out LEAD-076, from the run
+    in CASE-tmpxmuri (scratch/studies/lead-076/).
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
-warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
+warrant: empirical
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A rerun of the model as filed (scratch/studies/lead-076/) in which the
+  matched habit and the success-rewarded authority part under belief
+  correction, authority or habit reset, or restored evidence access, by
+  more than seed noise; or in which the interaction between success
+  feedback and evidence restriction on needless protection is not
+  positive, or is removed by the audit or the protected investigator, at
+  the filed parameters. A different model or parameterization that
+  behaves otherwise narrows the claim; it does not defeat it, since the
+  claim is about this model.
 tags:
-- agency
-
+- self-governance
+- psychopathology-and-treatment
+- learning-and-conditioning
 date: '2026-11-22'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
+- distributed-agency
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# Before filing a counter, ask: does it say the conclusion is false, or that
-# something does not show it? The second is not a claim but an ARG from the
-# premises to the conclusion, Rejected or Proposed (ADR-061).
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+grounds:
+- CASE-tmpxmuri
+bears_on:
+- QUESTION-131
+summary: >-
+  CASE-153 set its own check: "if a Bayesian learner with matched
+  information costs, or a habit model with matched memory, reproduces
+  every intervention response, the extra authority state has not earned
+  its place." Run in CASE-tmpxmuri, the Bayesian with matched cost does not
+  reproduce the responses. The habit reproduces every intervention it can
+  receive, because under success feedback the authority update is the
+  habit trace. What separates them is an evaluator that can be audited or
+  made to reward on independent evidence, so the authority state earns its
+  place only as far as its evaluation can be reached from outside. The
+  claim also records the factorial's interaction and the regimes,
+  including protection outlasting a corrected belief, and what this does
+  to CLAIM-446's, CLAIM-443's and CLAIM-445's defeaters. Two readings of
+  the habit comparison are set out for the owner. The wording is the
+  assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-445 CLAIM-446 ARG-025 CASE-tmpxmuri CLAIM-tmpmcrb7 — Proposed or new; the claims whose defeaters this bears on, the grading cited, the study this rests on and the constructions filed with it -->
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpqp1h6: placeholder sentry claim
+# CLAIM-tmpqp1h6: In the simulated self-protecting sentry, authority rewarded by the apparent success of protection follows the same law as a habit of protecting, so a habit of matched memory reproduces its response to belief correction, to resetting authority and to restored evidence access, and only interventions on the evaluation, an independent audit or authority rewarded on independent evidence, tell the two apart; with them protection outlasts a corrected belief, restricting the evidence turns that inertia into self-confirmation, and neither an audit nor a protected investigator removes the interaction between success feedback and restriction
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+All figures are CASE-tmpxmuri's: 1000 paired seeds, κ = 1.5, η = 0.02.
+
+1. **The same law.** Under success feedback, F = 1 whenever the agent
+   protects. So, apart from the rare steps on which the agent engages and
+   is harmed, g ← (1 − η) g + η · 1[protect]. That is the habit trace of
+   protecting. Run side by side they agree:
+
+   | condition | governance | habit |
+   |---|---|---|
+   | no intervention | 0 % leave protection | 0 % |
+   | belief corrected | 0 % | 0 % |
+   | authority (habits) reset | 88 % | 88 % |
+   | evidence access restored | 78 % | 78 % |
+   | protected investigator | 4.5 %, outlasts 87 % | 4.5 %, outlasts 88 % |
+
+   The governance model's own success-and-restricted row and the habit's
+   are equal to the unit in needless cost (396).
+2. **What tells them apart.** An independent audit reaching the evaluator
+   lets 66 % of runs leave. Rewarding authority on the evaluator's belief
+   instead of on success, 50 steps after the switch, lets every run leave
+   (median 44 steps). Neither intervention has anything to act on in a
+   habit. The Bayesian with inspection cost 0.3 differs from both: belief
+   correction ends its protection at once.
+3. **Inertia and self-confirmation.**
+   - Without restriction, success feedback above the boundary leaves the
+     belief corrected and protection on. That is CLAIM-446's "the regime
+     can outlast a corrected belief" (inertial).
+   - With restriction, the belief itself is not corrected in 43 % of runs
+     (self-confirming). Restriction adds 134 [132, 137] units of needless
+     protection under success feedback and 35 [32, 38] under independent
+     evaluation, an interaction of 99 [95, 103].
+   - With an audit the interaction is 107 [104, 111]; with a protected
+     investigator, 82 [80, 84]. Each correction right lowers the cost of
+     the worst cell but removes neither the persistence nor the
+     interaction.
+   - Protection when danger returns is kept throughout.
+
+## Two readings of the habit comparison, for the owner
+
+CLAIM-446's defeater includes "persistent avoidance that ... a habit model
+with matched memory reproduces under every intervention the claim
+distinguishes (belief correction, authority correction, evidence-access
+correction, reinforcement correction)". CLAIM-443's includes "a cached
+action policy reproduces every response to intervention that the learned
+authority prior predicts".
+
+- **Reading A: not met.** The habit cannot receive reinforcement
+  correction or an audit, so it does not reproduce "every intervention".
+  The authority state earns its place in the model through exactly those
+  two responses. The decisive pattern CLAIM-446's test names appears: "a
+  trained defense that keeps governing after belief correction and
+  becomes revisable after a manipulation restoring independent evidence".
+- **Reading B: met in substance.** A habit gated by the outcome, F = 1 on
+  protection, is the success-rewarded authority. "Reinforcement
+  correction" applied to that habit is the reinforcement made
+  independent, and an audit is a change in what reinforces it. On this
+  reading the extra state adds nothing in this model; what does the work
+  is what the reinforcement signal is computed from, and whether
+  something outside can reach it.
+
+Which reading holds is a question about what CLAIM-446 and CLAIM-443 mean
+by authority and by a habit. That is the owner's, and nothing here
+changes their status.
+
+## What it bears on
+
+- **CLAIM-445.** Within the model, a protective regime whose interventions
+  shift the evidence used to judge it maintains itself (the
+  success-and-restricted cell), and insulating the evaluation (an audit,
+  or independent reinforcement) changes exit. So the model does not meet
+  CLAIM-445's second defeater, "an intervention that insulates the
+  evaluation of necessity from the protective regime and leaves exit from
+  protection unchanged". Restriction under independent evaluation
+  maintains the regime only at a stronger sentry (κ ≥ 2.75), or when the
+  agent assumes the world almost never changes (h = 0.002: a median 301
+  steps).
+- **QUESTION-131.** The sentry and the investigator are jointly
+  satisfiable (protect and inspect), and the sentry thwarts the
+  investigator. This is CLAIM-tmpmcrb7's item 4 in motion.
+- **ARG-025's grades.** A stipulated model; nothing about anxiety or
+  institutions follows.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- That the result holds outside the model or its region of parameters.
+  The boundary sits near κ = 1.25–1.5, and the default κ = 1.5 is at its
+  edge. The protected investigator's persistence falls from 96 % of runs
+  not leaving at h = 0.02 to 0.5 % at h = 0.002.
+- That any authority state is a habit. The equivalence is for feedback by
+  apparent success. Under independent evaluation authority does not
+  follow behaviour, and the models part.

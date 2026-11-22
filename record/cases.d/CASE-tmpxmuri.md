@@ -53,7 +53,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-445 CLAIM-446 CLAIM-631 ARG-025 CLAIM-tmpmcrb7 CLAIM-tmpqp1h6 — Proposed or new; the claims this run bears on, the grading of evidence it cites, and the claims filed with it -->
+<!-- inactive-ok-file: CLAIM-445 CLAIM-446 ARG-025 CLAIM-tmpmcrb7 CLAIM-tmpqp1h6 — Proposed or new; the claims this run bears on, the grading of evidence it cites, and the claims filed with it -->
 
 # CASE-tmpxmuri: The self-protecting sentry run: in a hidden world trained in danger and then safe, a sentry whose authority is rewarded by the apparent success of protection keeps protection on through 400 safe steps wherever it is strong enough, while still protecting when danger returns; restricting inspection turns protection that outlasts a corrected belief into protection that keeps the belief from being corrected; an independent audit shifts the boundary and a protected investigator corrects the belief without ending protection; and a habit of matched memory reproduces every intervention it can receive
 
@@ -216,7 +216,8 @@ fully corrected belief (b = 0) that needs κ ≥ 1.83. At b = 0.05 it needs
   self-confirming), with boundaries in the sentry's strength that the
   table locates. Restriction moves a regime from inertial to
   self-confirming. Success feedback is what makes the trained state stable
-  at all.
+  at all. A regime whose interventions shift the evidence used to judge it
+  maintains itself, as CLAIM-445 says, here within a stipulated model.
 - **Thwarting without structural frustration, in motion.** The sentry's
   demand (no harm) and the investigator's (diagnostic evidence) are met
   together by protecting and inspecting, so the pair is jointly

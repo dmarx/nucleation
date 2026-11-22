@@ -28,6 +28,7 @@ summary: >-
   Named in [QUESTION-131](../questions.d/QUESTION-131.md) and [CASE-153](../cases.d/CASE-153.md). Filed by the backlog audit of
   2026-11-19.
 ---
+<!-- inactive-ok-file: CLAIM-tmpmcrb7 CASE-tmpxmuri CLAIM-tmpqp1h6 CLAIM-631 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date; CLAIM-631 Proposed -->
 <!-- inactive-ok-file: CLAIM-445 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-076: Separate structural frustration from operative thwarting in each direction, and run the self-protecting sentry in full with hidden state and evidence restriction
@@ -49,3 +50,28 @@ Where the record names it:
 Constructions in both directions answer [QUESTION-131](../questions.d/QUESTION-131.md) by showing the two
 independent. A sentry that restricts its own evidence and maintains itself
 supports [CLAIM-445](../claims.d/CLAIM-445.md).
+
+## Note of 2026-11-22: carried out
+
+Both parts were done on branch claude/lead-076-sentry, with code, tests
+and results in scratch/studies/lead-076/.
+
+- **Constructions in each direction**, with thwarting tested by silencing
+  a process: CLAIM-tmpmcrb7 (demonstrated). Part of the
+  frustration-without-thwarting direction was already held, in
+  CLAIM-631's item 3, and is reproduced there, not filed again.
+- **CASE-153's full design**, with hidden state and evidence restriction:
+  CASE-tmpxmuri (executed study). The finding, including the matched habit
+  that reproduces every intervention it can receive, is CLAIM-tmpqp1h6.
+- **Dated notes** on CASE-153, QUESTION-131, CLAIM-446, CLAIM-443 and
+  CLAIM-445.
+
+What remains:
+
+- CASE-153's second version, where inspection is physically risky, so
+  that the sentry's and investigator's demands are structurally
+  frustrated in danger. It was not run.
+- Which reading of the habit comparison holds (CLAIM-tmpqp1h6), and
+  whether a constraint can thwart (CLAIM-tmpmcrb7). Both are the owner's.
+
+The lead's status and stage are the owner's to change.

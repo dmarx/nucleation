@@ -139,6 +139,7 @@ summary: >-
 bears_on:
 - QUESTION-325
 ---
+<!-- inactive-ok-file: CASE-tmpxmuri CLAIM-tmpqp1h6 ARG-025 — new or Proposed; filed by LEAD-076 on 2026-11-22 and cited in its note of that date, ARG-025 for the grading -->
 <!-- inactive-ok-file: LIT-tmpgnizl LIT-tmp8xv0w LIT-tmppvr66 — new or Deferred; LEAD-047's search of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
 
@@ -455,3 +456,23 @@ or in authority. Several registered works ([LIT-tmpgnizl](../literature.d/LIT-tm
 belief, which fits the claim's "the regime can outlast a corrected
 belief" without testing why. Neither reading is evidence for or against
 the claim; no relation written. No status changes.
+
+## Note of 2026-11-22: the test run in a model, from LEAD-076
+
+LEAD-076 ran this claim's four interventions in CASE-153's sentry
+(CASE-tmpxmuri; CLAIM-tmpqp1h6). In the model, the decisive case appears:
+the trained defense keeps governing after belief correction (0 % of runs
+leave), and becomes revisable when evidence access is restored (78 %) or
+authority is rewarded on independent evidence (100 %).
+
+A habit of matched memory reproduces the responses to belief correction,
+authority reset and evidence access exactly. The reason is that with
+reinforcement by apparent success the authority update is the habit
+trace. Only reinforcement correction, and an independent audit, separate
+the two. Whether that meets this claim's defeater ("a habit model with
+matched memory reproduces under every intervention the claim
+distinguishes") depends on whether an outcome-gated habit can receive
+reinforcement correction. CLAIM-tmpqp1h6 sets out both readings for the
+owner.
+
+The run is a stipulated model (ARG-025's grades). No status change.
