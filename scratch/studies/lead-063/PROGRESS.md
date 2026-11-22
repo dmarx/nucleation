@@ -14,9 +14,35 @@
   measure for a modular mind and a group; QUESTION-046 stays Open, its notes
   (2026-11-01, 2026-11-12) say no measure is computed; THEORY-043's
   promote_when still asks for it.
+- phi.py (measure, models, exclusion verdict), test_phi.py (10 pass).
+- run.py launched (sweep -> results.jsonl, resumable; PID in scratchpad
+  lead-063/run.pid).
 
 ## Next
 
-- Choose measure and models; write code + tests; run; file.
+- Commit results.jsonl; summarise (summarise.py); README.
+- File CASE, CLAIM (if warranted), notes on QUESTION-046, THEORY-043?
+  (no: lead advances only QUESTION-046; THEORY-043 is a held account —
+  a dated note there is allowed and its promote_when names this exactly),
+  LEAD-063; changelog fragment.
 
 ## Choices
+
+- Measure: Barrett & Seth's Phi_AR (whole-minus-parts self-information of a
+  linear Gaussian VAR(1)), at the size-normalized minimum information
+  bipartition. Why: the simplest integration measure that is exact in
+  closed form for a model, so nothing is sampled; it is the Phi the
+  record's THEORY-043 names, in its tractable Gaussian form.
+- Anti-nesting rule: IIT's exclusion postulate (of nested candidates, the
+  one with the larger Phi is the subject). Why: it is the anti-nesting rule
+  THEORY-043 names; it needs Phi at every level, so applying it computes
+  the measure for both models.
+- Models: modular mind = 3 modules x 3 units, dense inside (w=0.12),
+  `width` reciprocal links of weight c between each pair of modules.
+  Group = 3 members, each that modular mind (c=0.15, width 3, a unified
+  mind by the rule), linked member to member by `width` links of weight g.
+  Why: the group is the same construction one level up, so one procedure
+  and one parameter (coupling x bandwidth between parts) cover both.
+- Group MIB searched over cuts along module seams (255), checked against
+  200 random cuts by test.
+- Sensitivity: unnormalized MIB as well.
