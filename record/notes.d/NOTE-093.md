@@ -146,3 +146,14 @@ Conceptual analysis with inference to the best explanation. The data are the agr
 - **§8 argues by schema, and the conclusion is asserted.** The skim's gloss, that autopoiesis grounds welfare "from entities that were, will be, or would have been sentient", is right about the cases (A)–(C): the fetus, the coma patient, the person with a severe congenital neurological disorder. But the argument only shows that a sentience view extended to hypothetical sentience has abandoned sentience as the unifier. That autopoiesis is the unifier is introduced as "My suggestion, of course" (§8). No rival unifier is considered, such as being a living organism of a sentient kind, or Wood's "infrastructure of rational nature" (reported in [LIT-146](../literature.d/LIT-146.md) §1.3.1), which has the same potential/past/counterfactual structure.
 - Minor: the skim's §6.1 list ("engine governor, a thermostat and a heat-seeking missile") is exact: "an engine with a governor, a cooling system with a thermostat, or a heat-seeking missile". Plant agency is explicitly *not* claimed: "No theoretical commitments—for example, about plant agency—will be undertaken if we take behavior in a broad sense" (§5), where behaviour includes "shingles in a windstorm".
 - agency tag: justified, as a secondary tag. The paper disclaims plant agency, but its operative criterion (self-directed, adaptive self-maintenance that constitutes what "matters" to an entity, set against thermostats and missiles) is the goal-directedness/autonomy demarcation in the tag's blurb, and it applies it to machines. It should not be cited as an account of agency.
+
+## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
+
+**Checks to run**, no edge. Bruckner's cases, the self-maintaining car
+("Tessler"), bacteria and the flame, can be checked against Mossio and
+Moreno's working definition of closure (NOTE-tmpnhdly, pdf pp. 7–8) and
+against Bich and colleagues' five requirements for regulation
+(NOTE-tmpefons, pdf pp. 17–18). On the second, a car that recharges itself
+and calls a tow truck when perturbed has something like a regulator
+triggered by perturbations; whether its constitutive regime is a closure is
+the first check. Neither paper discusses such cases.

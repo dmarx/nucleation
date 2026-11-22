@@ -38,6 +38,7 @@ summary: >-
   cases, anglerfish, sea slug and jumping ant, and is asserted, not shown,
   to hold of organisms only (p. 40).
 ---
+<!-- inactive-ok-file: THEORY-tmpaygr8 THEORY-tmpxypfa — Proposed; the readings of the two stand-ins, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
@@ -164,3 +165,16 @@ Arguments and positions, with locations:
 - The skim leaves out that "Parthood" is one of the concepts Figure 1 places in the organizational dimension of the nexus (p. 5). It also leaves out that the only new ontological verdicts in §4.3 are about part–whole cases: an ant colony "is not an organism" (p. 43), and ruminant microbes are distinct organisms, not parts of a holobiont individual (p. 49).
 - The skim's open question asked whether the overcomer criterion "really picks out organisms uniquely". The answer is that it is not shown. Uniqueness is asserted ("I suggest that not all living systems … are able to actively tinker in this way … Only organisms can", pp. 39–40), and the one contrast case (colony vs ant, p. 43) assumes that the colony is not an organism instead of deriving it.
 - The dossier gives §4 as pp. 24–52 and §4.3 as "pp. 38ff". The exact span of §4.3 is pp. 38–52, and §4.2 is pp. 28–38. This is a clarification; nothing contradicts the dossier.
+
+## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
+
+A **partial answer from Mossio's side**, no edge. Mossio and Moreno
+(NOTE-tmpnhdly) concede that closure "underdetermines, in itself, the whole
+set of requirements" of an organism (pdf p. 13), and Bich and colleagues
+(NOTE-tmpefons) name what is added: regulation, control by a dynamically
+decoupled subsystem that shifts the constitutive regime between viable
+states. That is close to Baedke's own stronger criterion, that organisms can
+give up one closure regime for another and control the passage. Neither
+paper argues whether colonies, holobionts or ecosystems have regulation;
+Bich and colleagues leave it open (pdf p. 6), so the objection that closure
+is too permissive is so far met only by assertion.

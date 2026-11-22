@@ -99,6 +99,7 @@ corroborates:
 bounds:
 - CLAIM-273
 ---
+<!-- inactive-ok-file: THEORY-tmpaygr8 THEORY-tmpxypfa — Proposed; the readings of the two stand-ins, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-536 LIT-529 — Unfetched or Unavailable; Biological Autonomy (Unfetched for its chapters; the Introduction is read in NOTE-1437), Deacon and Nicolis & Prigogine are named as the unread works that would bear on this, not leaned on -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
@@ -282,3 +283,32 @@ Bich ([NOTE-1443](../notes.d/NOTE-1443.md)) answer the promote_when's question a
 view, folding the division of labour into closure, but deny dissipative
 structures closure without analysing one; Biological Autonomy's chapters 1
 and 3 ([LIT-536](../literature.d/LIT-536.md)) are unread beyond the Introduction ([NOTE-1437](../notes.d/NOTE-1437.md)).
+
+## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
+
+The two stand-ins for LIT-536 (NOTE-tmpnhdly, THEORY-tmpaygr8;
+NOTE-tmpefons, THEORY-tmpxypfa) **corroborate where this account draws the
+line, answer part of the question its promote_when puts to LIT-536, and
+leave the promote_when's first half undone**.
+
+- **The flame.** Mossio and Moreno place it as self-maintenance through "a
+  single constraint acting on its own boundary conditions", against
+  closure, "the mutual dependence between a set of constraints" (pdf p. 7).
+  That is their verdict, not the constraint-by-constraint analysis the
+  promote_when asks for: the wick and the molten wax pool are not examined.
+- **Closure and differentiation.** Across the two papers the authors fold
+  the multiplicity of constraints into closure ("implies the mutual
+  dependence of several constraints", Bich et al., pdf p. 14), but keep
+  differentiation between subsystems at distinct time scales as a further
+  condition: control between "modules whose characteristic time scales are
+  sufficiently different" (Mossio and Moreno, pdf p. 13), and regulation by
+  a subsystem operating "at a different dynamical scale and under different
+  stoichiometric requirements" (Bich et al., pdf p. 17). The only time scale
+  inside closure is the one that makes something a constraint relative to
+  a process (Bich et al., pdf p. 9). This account's "several distinct
+  constraints that produce one another at different time scales" thus joins
+  two conditions the authors keep apart.
+
+A reading of the book's chapters 1 and 3 is still what the promote_when
+names. The status is unchanged; how to word the account in the light of
+this is the owner's call.
