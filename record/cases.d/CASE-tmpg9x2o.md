@@ -22,7 +22,7 @@ illustrates:
 bears_on:
 - QUESTION-130
 summary: >-
-  The numerical side of LEAD-067: the construction of CLAIM-tmpmov06 run in
+  The numerical side of [LEAD-067](../leads.d/LEAD-067.md): the construction of [CLAIM-tmpmov06](../claims.d/CLAIM-tmpmov06.md) run in
   numpy (seed 20261122). In the null (one configuration, three random O(d)
   frames, 1000 draws at each of three sizes), the largest ‖H − I‖ is
   2.2e-14. In the planar case, the holonomy angle equals the sum of the
@@ -41,7 +41,7 @@ summary: >-
 
 ## The case
 
-LEAD-067 asks for A19 §8's finite construction for QUESTION-130: three overlapping contexts, the comparisons each overlap shares, transport derived from them, and the loop's holonomy, starting with the null. CLAIM-tmpmov06 states and proves the construction. This case is its numerical run (scratch/studies/lead-067/: `transport.py`, `test_transport.py` with 18 passing tests, `run_study.py`, `results.json`, and a README saying how to rerun).
+[LEAD-067](../leads.d/LEAD-067.md) asks for A19 §8's finite construction for [QUESTION-130](../questions.d/QUESTION-130.md): three overlapping contexts, the comparisons each overlap shares, transport derived from them, and the loop's holonomy, starting with the null. [CLAIM-tmpmov06](../claims.d/CLAIM-tmpmov06.md) states and proves the construction. This case is its numerical run (scratch/studies/lead-067/: `transport.py`, `test_transport.py` with 18 passing tests, `run_study.py`, `results.json`, and a README saying how to rerun).
 
 Context c holds vectors in ℝᵈ for the commitments it holds. The transport between two contexts is the orthogonal Procrustes fit on the commitments they share, and it is flagged undetermined when the fit is not unique. The holonomy is H = T_AC T_CB T_BA. Five runs, seed 20261122:
 
@@ -55,9 +55,9 @@ Context c holds vectors in ℝᵈ for the commitments it holds. The transport be
 
 ## What it can show
 
-It is documented as a computation. It shows that the constructions of CLAIM-tmpmov06 behave as the proof says, and it supplies two things the proof does not.
+It is documented as a computation. It shows that the constructions of [CLAIM-tmpmov06](../claims.d/CLAIM-tmpmov06.md) behave as the proof says, and it supplies two things the proof does not.
 
 - **A noise null.** A measured holonomy is evidence against the null only beyond the null's spread, which is about 2.4σ at ten anchors per overlap. With few anchors, orientation flips have to be checked separately, by det H and by whether each fit is determined.
-- **A nontrivial holonomy that is derived and not chosen, of the kind QUESTION-130's note of 2026-10-29 sets aside.** In the curved-chart run the holonomy is forced by the charts and equals the area the loop encloses. But the curvature belongs to the representation, linear charts of a space of normalized profiles, and not to anything evaluated. It is the Sengupta reading's lesson (NOTE-1350) again, now between contexts.
+- **A nontrivial holonomy that is derived and not chosen, of the kind [QUESTION-130](../questions.d/QUESTION-130.md)'s note of 2026-10-29 sets aside.** In the curved-chart run the holonomy is forced by the charts and equals the area the loop encloses. But the curvature belongs to the representation, linear charts of a space of normalized profiles, and not to anything evaluated. It is the Sengupta reading's lesson ([NOTE-1350](../notes.d/NOTE-1350.md)) again, now between contexts.
 
-It cannot show that any real evaluative contexts carry representations like these. The planar case's nonzero angle sum is constructed, not measured. Whether real contexts' comparisons ever fail to close, and whether they do so beyond the noise null, is the open part of QUESTION-130.
+It cannot show that any real evaluative contexts carry representations like these. The planar case's nonzero angle sum is constructed, not measured. Whether real contexts' comparisons ever fail to close, and whether they do so beyond the noise null, is the open part of [QUESTION-130](../questions.d/QUESTION-130.md).

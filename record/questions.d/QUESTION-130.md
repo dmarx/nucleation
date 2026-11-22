@@ -199,17 +199,17 @@ A in the continuation of the exchange "Explain String Theory" (A7) suggests that
 
 Without the third, an arbitrary transport manufactures arbitrary holonomy. That is the question's own caution, given a worked case. No status change.
 
-## Note of 2026-11-22: the finite construction, built (LEAD-067)
+## Note of 2026-11-22: the finite construction, built ([LEAD-067](../leads.d/LEAD-067.md))
 
-LEAD-067 built A19 §8's construction. The claim is CLAIM-tmpmov06 (Proposed, demonstrated), and the numerical run is CASE-tmpg9x2o.
+[LEAD-067](../leads.d/LEAD-067.md) built A19 §8's construction. The claim is [CLAIM-tmpmov06](../claims.d/CLAIM-tmpmov06.md) (Proposed, demonstrated), and the numerical run is [CASE-tmpg9x2o](../cases.d/CASE-tmpg9x2o.md).
 
 Each of three contexts holds vectors for its commitments in its own frame, and a change of frame is orthogonal, so it preserves the comparisons the context makes. The transport between two contexts is the orthogonal fit on the commitments they share. It counts as derived only when that fit is unique, which needs the shared commitments to span the space.
 
 - **The null is met by construction.** Contexts that represent one configuration in different frames have derived transports equal to the frame changes, and their holonomy is I. In 3000 simulated draws the largest ‖H − I‖ is 2e-14. Perspectival plurality does not imply curvature.
 - **Holonomy is a gluing test.** When every overlap fits exactly and is determined, the holonomy is trivial exactly when the three contexts' representations are one configuration up to frames. A nontrivial holonomy is then a gauge-invariant discrepancy among the contexts' own comparisons. It shows as a comparison that depends on the route by which it was imported.
 - **It occurs without a chosen transport.** In the plane, the holonomy is the sum of an angle each context holds internally. Local linear charts of a curved space of normalized profiles give the enclosed area. That curvature belongs to the representation, which is this note's 2026-10-29 lesson again.
-- **This question's first objection, made exact.** An overlap that does not determine its fit leaves a family of exact fits, whose holonomies range from near 0 to 2.8. That is LIT-038's arbitrariness.
+- **This question's first objection, made exact.** An overlap that does not determine its fit leaves a family of exact fits, whose holonomies range from near 0 to 2.8. That is [LIT-038](../literature.d/LIT-038.md)'s arbitrariness.
 
 What stays open is whether any real evaluative contexts carry such representations, with spanning overlaps, and whether their comparisons fail to close beyond the noise null the case supplies.
 
-The first part of the question, as its own text frames it, is answered by construction. Splitting it into an Answered child and a narrowed Open parent (ADR-049) is the owner's call. The question is unchanged and stays Open.
+The first part of the question, as its own text frames it, is answered by construction. Splitting it into an Answered child and a narrowed Open parent ([ADR-049](../decisions.d/ADR-049.md)) is the owner's call. The question is unchanged and stays Open.
