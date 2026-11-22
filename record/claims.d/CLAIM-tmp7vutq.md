@@ -29,7 +29,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpcdxvd THEORY-tmpnlu47 — Proposed; the readings this claim rests on, filed with it -->
+<!-- inactive-ok-file: THEORY-tmpcdxvd THEORY-tmpnlu47 THEORY-tmp94s79 — Proposed; the readings this claim rests on, filed with it -->
 
 # CLAIM-tmp7vutq: On a cycle of five or more contexts with zero monodromy, the XY energy has stable twisted local minima of positive energy, so a local minimization of it can report an obstruction that is not there; on three or four contexts every local minimum is a global one
 
@@ -51,7 +51,13 @@ This is Bačić and colleagues' bound of five (THEORY-tmpcdxvd), from the
 phase-budget argument "at least five contributions are required to realize
 nontrivial winding", read off for the energy CLAIM-153 uses. Manik, Timme and Witthaut
 (THEORY-tmpnlu47) give the graph case directly: "ring networks RN with N ≤
-4 do not have multiple stable fixed points".
+4 do not have multiple stable fixed points", which is what makes the l ≤ 4
+half hold for every stable state, not only the twisted ones. In Dörfler and
+Bullo's survey (THEORY-tmp94s79) the property at stake is a graph's being
+S¹-synchronizing, every critical point other than synchrony unstable, which
+complete and acyclic graphs have; a cycle of five or more does not. The
+claim is therefore a known fact of the synchronization literature, stated
+for CLAIM-153's energy and its readout.
 
 **Check** (scratch/studies/lead-023/twisted.py, with its test). Gradient
 descent on D from 60 random starts with zero offsets ended at energy 0

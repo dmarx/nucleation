@@ -30,11 +30,12 @@ any of the 15 LITs; none is already read.
 - LIT-2250 Widder: NOTE-tmp2mtul, THEORY-tmpo4sos; note on QUESTION-252.
 - LIT-2256 Wang & Tang: NOTE-tmpe2mdk, THEORY-tmp2gc2a; notes on CLAIM-480, CLAIM-172.
 - LIT-2249 Stewart: NOTE-tmp14xdi, THEORY-tmp3va8j; notes on QUESTION-147, THEORY-1065.
+- LIT-2232 Dörfler & Bullo (Skimmed): NOTE-tmpk7qnh, THEORY-tmp94s79 (corroborates CLAIM-tmp7vutq); note on QUESTION-147; CLAIM-tmp7vutq body updated.
 
 ## Next (order chosen by what the claims most need)
 
 
-LIT-2232 Dörfler; LIT-2258 Schultz 2016;
+LIT-2258 Schultz 2016;
 LIT-2238 Bumpus; LIT-2262 Leal; LIT-2259 Bosca; LIT-2235 Schultz & Spivak;
 LIT-2239 Battiston; LIT-2265 Pecora (Unavailable); dated note on LEAD-023.
 

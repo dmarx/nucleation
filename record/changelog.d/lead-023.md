@@ -7,9 +7,10 @@
 - NOTE-tmp2mtul and THEORY-tmpo4sos: Widder and Schilling 2026 read; the Mori–Zwanzig memory term is a coupling term, and the formalism is rigorous only for bounded PL.
 - NOTE-tmpe2mdk and THEORY-tmp2gc2a: Wang and Tang 2019 read; quiescent adaptive cells oscillate together through a shared signal past a density threshold.
 - NOTE-tmp14xdi and THEORY-tmp3va8j: Stewart 2007 read; balanced equivalence relations form a complete lattice with a computable coarsest element.
+- NOTE-tmpk7qnh (Skimmed) and THEORY-tmp94s79: Dörfler and Bullo 2014 skimmed; S¹-synchronizing graphs, the cycle-space fixed-point equations, and the cases the survey's methods do not cover.
 - CLAIM-tmp7vutq: on five or more contexts with zero monodromy the XY energy has twisted local minima of positive energy, so CLAIM-153's readout holds for the global minimum only (Proposed, thesis, demonstrated; check in scratch/studies/lead-023/twisted.py).
 
 ### Changed
 
-- LIT-2245, LIT-2230, LIT-2253, LIT-2267, LIT-2250, LIT-2256 and LIT-2249 moved to Active on their readings.
+- LIT-2245, LIT-2230, LIT-2253, LIT-2267, LIT-2250, LIT-2256, LIT-2249 and LIT-2232 moved to Active on their readings.
 - Dated notes of 2026-11-22 on QUESTION-063, QUESTION-147, CLAIM-153, CLAIM-167, CLAIM-172, CASE-179, THEORY-1082, QUESTION-282, QUESTION-252, CLAIM-480 and THEORY-1065.

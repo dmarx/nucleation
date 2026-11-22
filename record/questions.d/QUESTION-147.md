@@ -80,3 +80,8 @@ A caution for the comparison this question asks for (THEORY-tmpsyokc, bears_on; 
 <!-- inactive-ok-file: THEORY-tmp3va8j — Proposed; filed by LEAD-023 -->
 
 Stewart (THEORY-tmp3va8j, bears_on; NOTE-tmp14xdi; LIT-2249), the work A cited at A20 §2. The balanced partitions of a network form a complete lattice under refinement, with a unique coarsest element computable in polynomial time. For this question that is the full set of cluster patterns computable in advance from structure, wider than the symmetry orbits. It supplies candidates only: the paper proves nothing on stability, so the question's second part, whether each cluster desynchronizes where its own block predicts, is untouched. The question stays open.
+
+## Note of 2026-11-22: Dörfler and Bullo, skimmed
+<!-- inactive-ok-file: THEORY-tmp94s79 NOTE-tmpk7qnh — Proposed and Skimmed; filed by LEAD-023 -->
+
+Dörfler and Bullo (THEORY-tmp94s79, bears_on; NOTE-tmpk7qnh, skimmed). On circulant graphs, symmetric cluster patterns of identical oscillators are locally stable under suitable coupling (Theorem 5.4), a symmetry-based case of the stability prediction this question asks to test in a second system; the survey adds that "the dynamics (35) may feature also other stable equilibria", so a predicted cluster may be one of several attractors. It reports no experiment. The question stays open.
