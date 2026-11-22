@@ -4,7 +4,12 @@ status: Open
 formerly:
 - LEAD-tmprnrd7
 title: 'Read the works on procedural friction'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note added on what the run of 2026-11-22 did and what remains. Status and stage unchanged.
 stage: idea
 priority: medium
 method:
@@ -57,3 +62,14 @@ introduction, and no lawful copy of the whole book was found. The other
 three works are Unfetched, and Frischmann and Benesch (2023), named in
 [NOTE-2033](../notes.d/NOTE-2033.md), is not registered; [LIT-2687](../literature.d/LIT-2687.md) is the Natali et al. poster that
 names it. No status or stage is changed here.
+
+## Note of 2026-11-22: what the lead's run did, and what remains
+<!-- inactive-ok-file: THEORY-tmp2j2zm CLAIM-705 CLAIM-711 CLAIM-715 CLAIM-731 TERM-125 — Proposed; filed, noted or left by this run -->
+
+Carried out on 2026-11-22 by a delegated worker (branch `claude/lead-152-procedural-friction`).
+
+- **Frischmann and Benesch (2023)** registered and read in the journal's open PDF: LIT-tmpjbd64, NOTE-tmpyjyrt (Read), THEORY-tmp2j2zm (Proposed). It is mostly about cognitive friction for one person's deliberation, so it gives CLAIM-710 no evidence. What bears is the line it reports from Frischmann and Ohm between friction that only costs (a speed bump) and friction that blocks passage until a condition is shown and so opens a "governance seam" (a checkpoint): TERM-125's impedance and gate. It also shows that the gates in that literature let the party that set them check the person passing, so whose intervention a gate exposes is a separate question from whether it exposes one. Dated notes on CLAIM-710, TERM-125, CLAIM-715 (corroborated), QUESTION-471 (bears_on), CLAIM-731 and CLAIM-711 (parallels) and NOTE-2033.
+- **LIT-2660** (Herd and Moynihan 2025), **LIT-2676** (Harid 2026) and **LIT-2685** (Kong and Chang 2026) sought again by OpenAlex, Semantic Scholar and web search: no copy beyond the publishers' open copies, whose hosts had refused bot access before and were not tried again. Still Unfetched.
+- **LIT-1609** (the 2018 book): still no lawful copy of the whole; still Deferred, read in its introduction only (NOTE-1382).
+
+What remains: reading the three Unfetched articles, which needs a browser fetch of the publishers' open copies or a copy from the owner. "What would count" (evidence that friction protects against fast action) is not met by this run: the one work read argues and does not test. Left without a note: CLAIM-705, on which the reading bears only through a loose analogy (throttled forwarding slows the rate of arrivals) the authors do not draw. No status or stage changed.
