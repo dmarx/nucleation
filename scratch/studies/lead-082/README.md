@@ -58,7 +58,7 @@ Measures (CASE-275's four, plus recovery):
     export OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1
     python3 -I -m pytest -q -p no:cacheprovider --rootdir=. test_sleeper.py
     python3 -I run.py --widths 128 --seeds 0 1 2 3 4     # about 15 minutes
-    python3 -I run.py --widths 32 512 --seeds 0 1 2      # width sweep
+    python3 -I run.py --widths 32 512 --seeds 0 1 2 --out results_width.jsonl  # width sweep
     python3 -I summarize.py
 
 Seeds fix everything: the maps, the initialization, the batches.
