@@ -245,7 +245,7 @@ Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian ([LIT-2688](../lit
 
 ## Note of 2026-11-22: the entrenchment loop in a denoiser run
 
-<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmpkghqb — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
 [LEAD-077](../leads.d/LEAD-077.md) ran [CASE-158](../cases.d/CASE-158.md)'s arm in which specialists keep training on
 the regions they are granted ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)). Neither audited governance nor a

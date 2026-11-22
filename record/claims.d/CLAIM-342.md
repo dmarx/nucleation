@@ -336,7 +336,7 @@ Both readings are defensible and are filed as alternatives. [CLAIM-tmp528xy](CLA
 
 ## Note of 2026-11-22: evidence that passes through the incumbent, in a denoiser run
 
-<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmpkghqb — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
 In [LEAD-077](../leads.d/LEAD-077.md)'s run of [CASE-158](../cases.d/CASE-158.md)'s design ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)), probes curated by the
 region's incumbent, evidence whose arrival passes through the

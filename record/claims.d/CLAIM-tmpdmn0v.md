@@ -74,9 +74,9 @@ to or taken from a router. That answers [ARG-036](../arguments.d/ARG-036.md)'s f
 against the line here: nothing run tells audited governance apart from a
 router given the same evaluation.
 
-## Two readings of CLAIM-467's defeat condition
+## Two readings of [CLAIM-467](CLAIM-467.md)'s defeat condition
 
-[CLAIM-467](CLAIM-467.md) is defeated by "a run of CASE-158's design, with the router given
+[CLAIM-467](CLAIM-467.md) is defeated by "a run of [CASE-158](../cases.d/CASE-158.md)'s design, with the router given
 the same audit delay and cost, in which audited governance has lower
 held-out error than the router under full-information, independent
 audits". This run has one: at a shared temperature of 0.03 governance beat

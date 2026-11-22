@@ -105,7 +105,7 @@ vocabulary and not prediction, stands for this model class until one does.
   condition of every future arm.
 - **Anything about organizations.** Specialist denoisers in a lab.
 
-## Note of 2026-11-22: a run of CASE-158's design with the router matched
+## Note of 2026-11-22: a run of [CASE-158](../cases.d/CASE-158.md)'s design with the router matched
 
 <!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
