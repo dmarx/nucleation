@@ -15,12 +15,20 @@
 - Read CLAUDE.md, run-lead + read-and-file skills, design principles.
 - Read LEAD-051, QUESTION-086, CLAIM-530, CLAIM-659, THEORY-1658, LIT-2462,
   NOTE-1763. Confirmed: paper not read; comparison only in prose notes.
+- **Paper READ** on 2026-11-22 via NCBI E-utilities efetch (db=pmc, author
+  manuscript, full body) after EPMC fullTextXML 500, PMC OA 404, publisher
+  403/permission-refused. Confirms both halves of THEORY-1658's promote_when.
 
 ## Next
-- Attempt lawful fetch of LIT-2462 (arXiv/bioRxiv n/a; Europe PMC REST
-  fullTextXML; PMC; author/lab pages; OpenAlex locations).
-- File NOTE+THEORY if read, else re-record Unfetched with address/obstacle/date.
-- File the comparison CASE (proposed-study), changelog fragment, dated notes.
+- File NOTE for LIT-2462 (Read); update LIT-2462 -> Active, summary + history v2.
+- File the comparison CASE (proposed-study) with what would count.
+- Dated notes: THEORY-1658 (promote_when met), CLAIM-530, CLAIM-659,
+  QUESTION-086, LEAD-051. Changelog fragment.
 
 ## Choices made
 - CASE kind = proposed-study, standing = stipulated (matches CASE-290 etc.).
+- No new THEORY: THEORY-1658 already holds the account (ADR-072); dated note
+  instead, promotion/re-sourcing left to owner (reading not independent of the
+  press post that filed it, read-and-file step 8).
+- FLAG for owner: LEAD-051's one-line "what would count" reads opposite to the
+  owner-accepted QUESTION-086 note of 2026-11-12; CASE follows the note.
