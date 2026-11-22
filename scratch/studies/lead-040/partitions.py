@@ -1,10 +1,10 @@
 """The four candidate partitions of a trained network's hidden field
 (QUESTION-491), and the interventions that move walls.
 
-All partitions are site masks on a time slice t of the field phi(t, b, i),
-phi = h . v with v the network's order direction.
+All partitions are site masks on a time slice t. Partitions 2 and 3 use the
+scalar field phi(t, b, i) = h . v(t), v(t) the leading direction at time t.
 
-1. walls: site i is marked if the sign of phi changes between i and a neighbour.
+1. walls: site i is marked if h_i . h_j < 0 for a neighbour j.
 2. coherent structures (after Rupe and Crutchfield): sites whose local causal
    state is not a domain state. The field is discretized to three levels;
    a past light cone of depth 2 (9 cells, plus the phase of the run) is
@@ -37,22 +37,49 @@ def order_direction(hs_final):
     return v
 
 
-def field(hs, v):
-    return hs @ v  # (T+1, B, N)
+def field(hs, v=None):
+    """phi(t) = h(t) . v(t), with v(t) the leading direction of the hidden
+    states at time t (over samples and sites), its sign aligned with v(t-1).
+    A time-dependent direction is needed because trained networks oscillate
+    in the free phase: a fixed axis sees the whole field pass through zero."""
+    if v is not None:
+        return hs @ v
+    phi = np.zeros(hs.shape[:-1])
+    prev = None
+    for t in range(hs.shape[0]):
+        h = hs[t].reshape(-1, hs.shape[-1])
+        if not np.any(h):
+            continue
+        vt = np.linalg.svd(h, full_matrices=False)[2][0]
+        if prev is not None and vt @ prev < 0:
+            vt = -vt
+        phi[t] = hs[t] @ vt
+        prev = vt
+    return phi
 
 
-def wall_mask(phi_t):
-    sg = np.sign(phi_t)
-    diff = sg[:, 1:] != sg[:, :-1]
-    m = np.zeros(phi_t.shape, bool)
+def wall_bonds(h_t):
+    """(B, N-1) bool: bond (i, i+1) is a wall when neighbouring hidden states
+    point to opposite sides, h_i . h_{i+1} < 0. Z2-invariant and independent
+    of any order direction."""
+    return np.einsum("bnd,bnd->bn", h_t[:, 1:], h_t[:, :-1]) < 0
+
+
+def wall_mask(h_t):
+    """Site mask: a site is marked when either of its bonds is a wall."""
+    diff = wall_bonds(h_t)
+    m = np.zeros(h_t.shape[:2], bool)
     m[:, 1:] |= diff
     m[:, :-1] |= diff
     return m
 
 
-def wall_positions(phi_t):
-    sg = np.sign(phi_t)
-    return [list(np.nonzero(sg[b, 1:] != sg[b, :-1])[0] + 1) for b in range(sg.shape[0])]
+def wall_positions(h_t, lo=1, hi=None):
+    """Wall positions p (wall between sites p-1 and p), restricted to
+    lo <= p <= hi, from neighbour dot products."""
+    wb = wall_bonds(h_t)
+    hi = h_t.shape[1] - 1 if hi is None else hi
+    return [[int(p) for p in np.nonzero(wb[b])[0] + 1 if lo <= p <= hi] for b in range(wb.shape[0])]
 
 
 def discretize(phi, theta):
@@ -174,13 +201,13 @@ def _log_ratio(target, cond):
 
 def operative_mask(P, x, hs, t0, tau=TAU):
     """Flip each site's hidden state at time t0 and rerun. Returns
-    (mask (B, N), dy (B, N), persisted (B, N))."""
+    (mask (B, N), dy (B, N), persisted (B, N)); persisted means the final
+    wall bonds differ from the unperturbed run's."""
     T, B, n = x.shape
     yb, _ = Z.readout(P, hs[-1])
-    sb = np.sign(hs[-1] @ order_direction(hs[-1]))
+    wb = wall_bonds(hs[-1])
     dy = np.zeros((B, n))
     persisted = np.zeros((B, n), bool)
-    v = order_direction(hs[-1])
     for i in range(n):
         h = hs[t0].copy()
         h[:, i] = -h[:, i]
@@ -188,7 +215,7 @@ def operative_mask(P, x, hs, t0, tau=TAU):
             h = Z.step(P, h, x[t])
         yi, _ = Z.readout(P, h)
         dy[:, i] = np.abs(yi - yb)
-        persisted[:, i] = np.any(np.sign(h @ v) != sb, axis=1)
+        persisted[:, i] = np.any(wall_bonds(h) != wb, axis=1)
     return dy > tau, dy, persisted
 
 

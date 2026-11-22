@@ -5,8 +5,22 @@ import partitions as Pt
 
 def test_wall_mask_and_positions():
     phi = np.array([[1.0, 1.0, -1.0, -1.0, 1.0]])
-    assert Pt.wall_mask(phi).tolist() == [[False, True, True, True, True]]
-    assert Pt.wall_positions(phi) == [[2, 4]]
+    h = phi[..., None] * np.array([0.6, 0.8])
+    assert Pt.wall_mask(h).tolist() == [[False, True, True, True, True]]
+    assert Pt.wall_positions(h) == [[2, 4]]
+    assert Pt.wall_positions(h, lo=3) == [[4]]
+
+
+def test_field_follows_a_rotating_direction():
+    T, B, n = 6, 3, 5
+    sg = np.sign(np.arange(n) - 2.5)
+    hs = np.zeros((T, B, n, 2))
+    for t in range(T):
+        ang = 0.4 * t
+        hs[t] = sg[None, :, None] * np.array([np.cos(ang), np.sin(ang)])
+    phi = Pt.field(hs)
+    assert np.allclose(np.abs(phi), 1.0)
+    assert np.all(np.sign(phi[1:]) == np.sign(phi[1]))
 
 
 def test_near_tolerance():

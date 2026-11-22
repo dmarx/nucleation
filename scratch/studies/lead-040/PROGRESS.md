@@ -18,6 +18,11 @@
   QUESTION-491 with a result; CLAIM-763 only ranks the question; LEAD-092 and
   LEAD-118 are readings.
 
+- Model, partitions, experiments and tests written (12 tests pass).
+- First full run stopped (by PID) after one item to fix the wall
+  definition; restarted 2026-11-22 from scratch (10 items, about a minute
+  each, time limit 40 min), writing results.jsonl item by item.
+
 ## Next
 
 - Wait for results.jsonl (resumable: rerun run.py, done ids are skipped).
@@ -48,6 +53,9 @@
   by opposite boundary inputs, run 200 free steps; shrink a pair by
   interchange; erase the anchored wall by writing a uniform state.
 - Experiment E (spectrum around a wall) not attempted: outside the lead.
-- Model, partitions, experiments and tests written (11 tests pass); smoke
-  run of one item took 8 s. Full run started 2026-11-22 (10 items, about a
-  minute each; time limit 40 min), writing results.jsonl item by item.
+- Walls are defined by neighbour dot products h_i . h_{i+1} < 0, and the
+  scalar field for causal states and TE uses a per-time leading direction:
+  the first full item showed the trained network oscillating in the free
+  phase (the bulk flips sign about every 6 steps), so a fixed axis saw the
+  whole field pass through zero. Wall counts in the closed/anchored tests
+  use interior bonds 3..N-3 (boundary layers at the clamped ends excluded).
