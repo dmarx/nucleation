@@ -52,8 +52,8 @@ belief. More simulations with other parameters cannot settle it, and nor
 can symptom improvement alone.
 
 ## Note of 2026-11-22: LEAD-106 searched; no study yet answers either half
-<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 CLAIM-tmpcug8h CLAIM-tmpc7tmg ARG-tmpc0892 — new; filed for LEAD-106 -->
-<!-- inactive-ok-block: LIT-tmp5bqfy LIT-tmpocdt2 LIT-tmpizs88 LIT-tmpgjodp LIT-tmp4oubb LIT-tmpg13ib — Deferred; registered for LEAD-106, not read -->
+<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 CLAIM-tmpcug8h CLAIM-tmpc7tmg ARG-tmpc0892 — new; filed by the lead search of 2026-11-22 -->
+<!-- inactive-ok-block: LIT-tmp5bqfy LIT-tmpocdt2 LIT-tmpizs88 LIT-tmpgjodp LIT-tmp4oubb LIT-tmpg13ib — Deferred; registered by the lead search of 2026-11-22, not read -->
 
 LEAD-106 searched Europe PMC for both kinds of evidence this question
 names. **Neither has been collected.** No study measures context sampling

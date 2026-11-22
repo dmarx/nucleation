@@ -106,7 +106,7 @@ controls, with any difference confined to avoidance rates.
   less from the outcomes.
 
 ## Note of 2026-11-22: a parallel from the eye-tracking literature
-<!-- inactive-ok-block: THEORY-tmp8n4s7 THEORY-tmp1ov9x — new; filed for LEAD-106 -->
+<!-- inactive-ok-block: THEORY-tmp8n4s7 THEORY-tmp1ov9x — new; filed by the lead search of 2026-11-22 -->
 
 A parallel, not evidence on this reading. The 2026 scoping review of eye
 tracking in PTSD (THEORY-tmp8n4s7) likewise finds no consistent reduction

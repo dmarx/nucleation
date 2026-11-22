@@ -193,7 +193,7 @@ The question is unchanged and stays Open. Both its routes are now
 specified more exactly, and neither has been run.
 
 ## Note of 2026-11-22: Zidda and colleagues, read for LEAD-106
-<!-- inactive-ok-block: THEORY-tmp1ov9x — new; the reading filed for LEAD-106 -->
+<!-- inactive-ok-block: THEORY-tmp1ov9x — new; the reading filed by the lead search of 2026-11-22 -->
 
 Background, not evidence for the lock-in. THEORY-tmp1ov9x reports a gaze
 bias in PTSD, against trauma-exposed controls, toward a trauma cue and

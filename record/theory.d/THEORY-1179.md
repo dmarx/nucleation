@@ -82,7 +82,7 @@ change and a precision-lowering drug does not. More simulations cannot
 settle it.
 
 ## Note of 2026-11-22: the promote_when is not met
-<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 — new; filed for LEAD-106 -->
+<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 — new; filed by the lead search of 2026-11-22 -->
 
 LEAD-106 found no study of either kind this entry's promote_when asks
 for. The nearest, THEORY-tmp1ov9x, has trauma-exposed controls and eye

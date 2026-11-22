@@ -128,7 +128,7 @@ Within the chosen parameters, neither happened.
   instance of outcome without process, and it relapses.
 
 ## Note of 2026-11-22: the human literature LEAD-106 found
-<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 CLAIM-tmpcug8h CLAIM-tmpc7tmg — new; filed for LEAD-106 -->
+<!-- inactive-ok-block: THEORY-tmp1ov9x THEORY-tmp8n4s7 CLAIM-tmpcug8h CLAIM-tmpc7tmg — new; filed by the lead search of 2026-11-22 -->
 
 No study has tested the model's prediction, peripheral against focal
 attenuation after cued recall. The nearest (THEORY-tmp1ov9x) is a parallel
