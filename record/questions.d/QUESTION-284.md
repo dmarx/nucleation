@@ -29,6 +29,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-321 CLAIM-887 — new; the study and claim filed for LEAD-057 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-157 — Proposed or Open; the partial answers and neighbouring questions, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpfbofs CLAIM-tmph783a CLAIM-tmpr0sfe CLAIM-tmp6sa56 — new; LEAD-195's rulings on symmetries, conservation laws and possibility facts, 2026-11-22 -->
 
 # QUESTION-284: In any domain, when do the constraints on an entity's relations only characterize an entity individuated without them, and when do they partly constitute its identity, its boundary or what it can do; and are a boundary a process detects, one it maintains and one it constitutes three different things?
 
@@ -194,3 +195,19 @@ first act on them as an outside scaffold and later be counted as part of
 the collective, so whether a constraint characterizes or constitutes the
 collective can change during a transition. Neither offers a criterion
 for when it has. No status change.
+
+## Note of 2026-11-22: whether the constraints that individuate kinds are realized
+
+LEAD-195's rulings (CLAIM-tmpfbofs and CLAIM-tmph783a on symmetries and
+conservation laws, CLAIM-tmpr0sfe and CLAIM-tmp6sa56 on Deutsch and
+Marletto's possibility facts) answer QUESTION-450, not this question, and
+bear on it here. In the three relations of the note of 2026-11-07, they
+concern the first, TERM-088's constitutive individuation. They also concern
+a constraint that fixes a kind, not an individual. On the leaned-to
+readings, a symmetry that individuates a kind is a realized constraint
+when it is effective. It is then a candidate for this question's
+"constitute", since its holding depends on an organization the kind's
+members belong to. A fundamental symmetry, if any is, fixes its kinds
+without being realized, so for those kinds the question has no
+constitutive answer to give. Neither reading supplies the criterion this
+question asks for. The question is unchanged and stays Open.
