@@ -162,16 +162,16 @@ No status changes.
 
 ## Note of 2026-11-22: Leffler, Massimi and Monnier, read
 
-Three works LEAD-158 named are read, and each now `bears_on` this
+Three works [LEAD-158](../leads.d/LEAD-158.md) named are read, and each now `bears_on` this
 question.
 
-- **Leffler** (THEORY-tmpdrt3r): evidence for the "No" on one route. A
+- **Leffler** ([THEORY-tmpdrt3r](../theory.d/THEORY-tmpdrt3r.md)): evidence for the "No" on one route. A
   standard grounded in what an agent or organization is binds only what
   is so constituted; "categoricity as constitution independence" is out
   of reach (p. 21). A criterion of authority between an institution and
   its members (A18 §4) cannot come from their constitutions. Reading (a),
-  CLAIM-tmp8g26d, states it for organizations.
-- **Massimi** (THEORY-tmptsyn2, from her primer; the book, LIT-1228, is
+  [CLAIM-tmp8g26d](../claims.d/CLAIM-tmp8g26d.md), states it for organizations.
+- **Massimi** ([THEORY-tmptsyn2](../theory.d/THEORY-tmptsyn2.md), from her primer; the book, [LIT-1228](../literature.d/LIT-1228.md), is
   still unread): a candidate "Partial" answer, for knowledge. "No
   particular community can sanction the reliability of their own claims
   of knowledge or justify such reliability by their own lights";
@@ -180,7 +180,7 @@ question.
   any one standpoint's constitution, which is why it escapes Leffler's
   relativism. It is about which claims are reliable, not which standards
   bind, and whether it carries over is this question.
-- **Monnier et al.** (THEORY-tmpnit00): weak. Meta-metrics for
+- **Monnier et al.** ([THEORY-tmpnit00](../theory.d/THEORY-tmpnit00.md)): weak. Meta-metrics for
   intersectional fairness are a case of standards that are "equally
   legitimate" in context, with the choice handed to domain deliberation;
   no constraint on authority is offered.

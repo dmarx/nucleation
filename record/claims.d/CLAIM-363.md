@@ -259,21 +259,21 @@ No status changes.
 
 ## Note of 2026-11-22: Leffler and Massimi, read
 
-Two readings filed for LEAD-158 bear on this claim.
+Two readings filed for [LEAD-158](../leads.d/LEAD-158.md) bear on this claim.
 
-- **Leffler** (THEORY-tmpdrt3r) reaches A17's fourth row, "No
+- **Leffler** ([THEORY-tmpdrt3r](../theory.d/THEORY-tmpdrt3r.md)) reaches A17's fourth row, "No
   context-transcending standard can adjudicate between standpoints", by
   a route that grants the first three: on plight inescapability a
   standard fixed by an agent's constitution is one the agent can fail,
   and a verdict on its failure is not relative, yet the standard's force
   is. The claim neither holds nor denies the fourth row, so the paper
   does not defeat it. Reading (b) of the constitutivism test,
-  CLAIM-tmprcgr5, `objects_to` this claim: where the organization's own
+  [CLAIM-tmprcgr5](CLAIM-tmprcgr5.md), `objects_to` this claim: where the organization's own
   constitution fixes the standard, "does not by itself make it relative"
-  holds for truth and not for force. Readings (a) and (c), CLAIM-tmp8g26d
-  and CLAIM-tmpn4gbs, leave the claim as it is. Which reading to adopt is
+  holds for truth and not for force. Readings (a) and (c), [CLAIM-tmp8g26d](CLAIM-tmp8g26d.md)
+  and [CLAIM-tmpn4gbs](CLAIM-tmpn4gbs.md), leave the claim as it is. Which reading to adopt is
   the owner's.
-- **Massimi** (THEORY-tmptsyn2): the claim's two parts for scientific
+- **Massimi** ([THEORY-tmptsyn2](../theory.d/THEORY-tmptsyn2.md)): the claim's two parts for scientific
   knowledge. Phenomena are "indexed to a particular domain (depending on
   the context of inquiry)", and the knowledge is still realist. A
   parallel; no edge.

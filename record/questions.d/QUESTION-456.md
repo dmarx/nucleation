@@ -253,7 +253,7 @@ Its stand-in, [LIT-2458](../literature.d/LIT-2458.md), is superseded in that rol
 
 ## Note of 2026-11-22: Monnier et al., read
 
-LIT-2451 is read (NOTE-tmprfp2e; THEORY-tmpnit00, which now `bears_on`
+[LIT-2451](../literature.d/LIT-2451.md) is read ([NOTE-tmprfp2e](../notes.d/NOTE-tmprfp2e.md); [THEORY-tmpnit00](../theory.d/THEORY-tmpnit00.md), which now `bears_on`
 this question) and now Active. It bears on failure mode 1, and corrects
 A's statement of it. A said "a small statistically underrepresented group
 can disappear inside" an aggregate. The paper shows something broader:

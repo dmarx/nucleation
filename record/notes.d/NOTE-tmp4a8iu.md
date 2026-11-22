@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-117 — Unavailable; Enoch's shmagency objection, named as the argument this paper builds on, not leaned on -->
 <!-- inactive-ok-file: THEORY-075 THEORY-220 THEORY-628 THEORY-071 CLAIM-648 — Proposed; the readings and claim the test is applied to -->
-<!-- inactive-ok-file: THEORY-tmpdrt3r CLAIM-tmp8g26d CLAIM-tmprcgr5 CLAIM-tmpn4gbs ARG-tmpxsh8r — filed from this reading, Proposed -->
+<!-- inactive-ok-file: CLAIM-tmp8g26d CLAIM-tmprcgr5 CLAIM-tmpn4gbs ARG-tmpxsh8r — filed from this reading, Proposed -->
 
 # NOTE-tmp4a8iu: Leffler (2024) — Constitutivism's plight: inescapability, normativity, and relativism
 
@@ -140,10 +140,10 @@ as applicability, invariance, convergence and constitution independence.
 
 ## Connections
 
-The paper builds on Enoch's shmagency objection (LIT-117, Unavailable,
+The paper builds on Enoch's shmagency objection ([LIT-117](../literature.d/LIT-117.md), Unavailable,
 unread here) and Ferrero's replies, and reinterprets Korsgaard's
 *Self-Constitution* (2009). The record's reading of Korsgaard,
-THEORY-075, is of the *Sources of Normativity* argument, whose step to
+[THEORY-075](../theory.d/THEORY-075.md), is of the *Sources of Normativity* argument, whose step to
 humanity is what Leffler's §VII says plight inescapability cannot supply
 (constitution independence). Leffler's earlier "Agent-Switching, Plight
 Inescapability, and Corporate Agency" (Analytic Philosophy, 2025) applies
@@ -152,32 +152,32 @@ paper mentions corporate agents only in passing.
 
 ## Bearing on the record
 
-- **QUESTION-128** and **QUESTION-129**: the adversarial test
-  LEAD-158 asked for. The record's route to norms of function and
-  failure (THEORY-220, THEORY-071, THEORY-628, CLAIM-648) is
+- **[QUESTION-128](../questions.d/QUESTION-128.md)** and **[QUESTION-129](../questions.d/QUESTION-129.md)**: the adversarial test
+  [LEAD-158](../leads.d/LEAD-158.md) asked for. The record's route to norms of function and
+  failure ([THEORY-220](../theory.d/THEORY-220.md), [THEORY-071](../theory.d/THEORY-071.md), [THEORY-628](../theory.d/THEORY-628.md), [CLAIM-648](../claims.d/CLAIM-648.md)) is
   structurally constitutivist: an organization's norms are set by what
   its own self-maintenance requires. Leffler shows that the best
   constitutivist account of why such norms bind makes them bind only the
   organization so constituted. Three readings of what this does to the
-  record are filed as alternatives: CLAIM-tmp8g26d (a, the record
-  cannot pass the test from the dynamics alone), CLAIM-tmprcgr5 (b, it
-  narrows CLAIM-363 to truth rather than force) and CLAIM-tmpn4gbs
+  record are filed as alternatives: [CLAIM-tmp8g26d](../claims.d/CLAIM-tmp8g26d.md) (a, the record
+  cannot pass the test from the dynamics alone), [CLAIM-tmprcgr5](../claims.d/CLAIM-tmprcgr5.md) (b, it
+  narrows [CLAIM-363](../claims.d/CLAIM-363.md) to truth rather than force) and [CLAIM-tmpn4gbs](../claims.d/CLAIM-tmpn4gbs.md)
   (c, the record never took the route). The inference from agents to
-  organizations is ARG-tmpxsh8r.
-- **CLAIM-363**: Leffler's relativism is A17's fourth row, "No
+  organizations is [ARG-tmpxsh8r](../arguments.d/ARG-tmpxsh8r.md).
+- **[CLAIM-363](../claims.d/CLAIM-363.md)**: Leffler's relativism is A17's fourth row, "No
   context-transcending standard can adjudicate between standpoints",
   reached by a route that grants the first three. The claim neither holds
   nor denies that row, so the paper does not defeat it; reading (b) is
   the one on which it narrows it (dated note there).
-- **THEORY-075** (Korsgaard): an objection to the step from practical
+- **[THEORY-075](../theory.d/THEORY-075.md)** (Korsgaard): an objection to the step from practical
   identity to humanity, on the reconstruction of her own later "plight"
   (dated note there).
-- **CLAIM-075**: a parallel. Leffler's "exercising their shmagency is
+- **[CLAIM-075](../claims.d/CLAIM-075.md)**: a parallel. Leffler's "exercising their shmagency is
   the plight of shmagents" is the agent-level form of "An unjust
   institution may be highly viable": a constitution's own standard binds
   whatever has that constitution, and says nothing on whether to have it.
   Analogy only; no edge (dated note there).
-- **TERM-059**: categoricity as constitution independence is one precise
+- **[TERM-059](../terms.d/TERM-059.md)**: categoricity as constitution independence is one precise
   form of the term's unestablished second half, that admissible standards
   are themselves constrained.
 - **No instruction for machine-learning practice.**

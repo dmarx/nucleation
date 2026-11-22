@@ -122,12 +122,12 @@ No status change.
 
 ## Note of 2026-11-22: Leffler, read
 
-A parallel from the constitutivist side. Leffler (THEORY-tmpdrt3r) shows
+A parallel from the constitutivist side. Leffler ([THEORY-tmpdrt3r](../theory.d/THEORY-tmpdrt3r.md)) shows
 that on the best inescapability account of normative force "exercising
 their shmagency is the plight of shmagents" (p. 19): a constitution's
 standard binds whatever has that constitution and says nothing on
 whether to have it. That is this claim's viable unjust institution for
 agents. Analogy only; no edge. Reading (c) of the constitutivism test,
-CLAIM-tmpn4gbs, `rests_on` this claim: because the record already keeps
+[CLAIM-tmpn4gbs](CLAIM-tmpn4gbs.md), `rests_on` this claim: because the record already keeps
 viability apart from what ought to persist, Leffler's choice point closes
 a route the record did not take. No status change.

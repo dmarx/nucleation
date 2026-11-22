@@ -176,7 +176,7 @@ that self-report does not isolate.
 
 ## Note of 2026-11-22: Leffler, read
 
-Leffler (THEORY-tmpdrt3r, LIT-2444) reconstructs Korsgaard's later
+Leffler ([THEORY-tmpdrt3r](THEORY-tmpdrt3r.md), [LIT-2444](../literature.d/LIT-2444.md)) reconstructs Korsgaard's later
 "plight" inescapability (*Self-Constitution*, 2009) as the one
 inescapability argument that explains why constitutive norms have force,
 and argues that it entails relativism: it explains why an agent's own

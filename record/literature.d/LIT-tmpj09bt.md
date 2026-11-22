@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 (NOTE-tmpcenk3, Read, in full) from the author's
+  read 2026-11-22 ([NOTE-tmpcenk3](../notes.d/NOTE-tmpcenk3.md), Read, in full) from the author's
   preprint on PhilSci-Archive, https://philsci-archive.pitt.edu/id/eprint/21856/.
-  Registered as a stand-in for LIT-1228, Massimi's Perspectival Realism,
+  Registered as a stand-in for [LIT-1228](LIT-1228.md), Massimi's Perspectival Realism,
   which could not be fetched: an eight-page summary of the book by its
   author. Read it as the book's map, not as its argument.
 title: 'Epistemic communities and their situated practices: Perspectival realism—a primer'
@@ -36,7 +36,7 @@ keywords:
 implementations: []
 summary: >-
   Massimi (2023), Annals of the New York Academy of Sciences 1523: 5–10.
-  Read. The author's primer of Perspectival Realism (LIT-1228): scientific
+  Read. The author's primer of Perspectival Realism ([LIT-1228](LIT-1228.md)): scientific
   knowledge is situated in the practices of epistemic communities, yet
   reliable, because perspectives intersect and historically interlace and
   "No particular community can sanction the reliability of their own
@@ -64,7 +64,7 @@ Michela Massimi (2023). "Epistemic communities and their situated practices: Per
 
 ## Standing in the record
 
-A stand-in for LIT-1228, registered 2026-11-22 for LEAD-158. It restates
+A stand-in for [LIT-1228](LIT-1228.md), registered 2026-11-22 for [LEAD-158](../leads.d/LEAD-158.md). It restates
 the book's map (perspectives, intersecting and interlacing, inferential
 blueprints, modally robust phenomena, natural kinds with a human face,
 epistemic severing) and none of its arguments; how far it stands in is

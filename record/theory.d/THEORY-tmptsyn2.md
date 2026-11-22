@@ -18,8 +18,8 @@ source:
 bears_on:
 - QUESTION-129
 summary: >-
-  Massimi's perspectival realism, read in NOTE-tmpcenk3 from her primer,
-  a stand-in for the book LIT-1228. On QUESTION-129 it offers a
+  Massimi's perspectival realism, read in [NOTE-tmpcenk3](../notes.d/NOTE-tmpcenk3.md) from her primer,
+  a stand-in for the book [LIT-1228](../literature.d/LIT-1228.md). On [QUESTION-129](../questions.d/QUESTION-129.md) it offers a
   procedural constraint on admissible perspectives, no
   self-certification and comparison across communities, for knowledge
   claims; whether it carries to normative standards is the question's.
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Massimi (2023), LIT-tmpj09bt, read in NOTE-tmpcenk3; a summary of
-Massimi (2022), LIT-1228, unread.
+Massimi (2023), [LIT-tmpj09bt](../literature.d/LIT-tmpj09bt.md), read in [NOTE-tmpcenk3](../notes.d/NOTE-tmpcenk3.md); a summary of
+Massimi (2022), [LIT-1228](../literature.d/LIT-1228.md), unread.
 
 ## The account
 

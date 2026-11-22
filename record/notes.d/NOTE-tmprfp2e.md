@@ -124,14 +124,14 @@ patterns; fairness gerrymandering.
 The base/meta split is Lum, Zhang and Bower (FAccT 2022), whose concern is
 estimation error for small subgroups. Himmelreich et al. (2025) state
 desiderata for intersectional metrics; this paper offers selection
-guidelines instead. The authors' MIFair (LIT-2461), read in this work's
+guidelines instead. The authors' MIFair ([LIT-2461](../literature.d/LIT-2461.md)), read in this work's
 place on 2026-11-12, is the mutual-information meta-metric of §3.3.4
 developed into a training framework; it does not carry the taxonomy or the
 guidelines, as the reader then said.
 
 ## Bearing on the record
 
-- **QUESTION-456**, failure mode 1 ("Who is represented"): supports and
+- **[QUESTION-456](../questions.d/QUESTION-456.md)**, failure mode 1 ("Who is represented"): supports and
   corrects A's account (dated note there). A said "a small statistically
   underrepresented group can disappear inside" an aggregate. The paper
   shows something broader and something narrower. Broader: any aggregate
@@ -142,17 +142,17 @@ guidelines, as the reader then said.
   emphasizes it (result 5). It takes the identification of the subgroups
   as given (result 6), so it bears on how demands are weighed once
   identified, not on who counts as a claimant.
-- **CLAIM-348**: independent evidence, in a measurement practice the
-  claim does not cite (`corroborates` on THEORY-tmpnit00; dated note
+- **[CLAIM-348](../claims.d/CLAIM-348.md)**: independent evidence, in a measurement practice the
+  claim does not cite (`corroborates` on [THEORY-tmpnit00](../theory.d/THEORY-tmpnit00.md); dated note
   there). All meta-metrics agree when the description shows no disparity
   and diverge otherwise, and the data cannot choose among them: the
   evaluative target, a conception of fairness, has to.
-- **QUESTION-129**: weak. The paper is a case of standards that are
+- **[QUESTION-129](../questions.d/QUESTION-129.md)**: weak. The paper is a case of standards that are
   "equally legitimate" in context (result 10), the "Partial" answer's
   shape, with the choice among them handed to domain deliberation. It
   offers no constraint on which standpoint has authority.
-- **LEAD-158**: the lead listed it among works on the objectivity of
-  relational norms; its bearing there is through QUESTION-456, not
+- **[LEAD-158](../leads.d/LEAD-158.md)**: the lead listed it among works on the objectivity of
+  relational norms; its bearing there is through [QUESTION-456](../questions.d/QUESTION-456.md), not
   constitutivism.
 - **An instruction for machine-learning practice**: choose and justify
   the meta-metric of an intersectional fairness evaluation by the pattern

@@ -35,7 +35,7 @@ summary: >-
 ## Contribution
 
 A short statement, by its author, of the view of Perspectival Realism
-(LIT-1228), written against the "follow the science" politics of the
+([LIT-1228](../literature.d/LIT-1228.md)), written against the "follow the science" politics of the
 pandemic: an image of science as situated and collective that is still
 realist, offered as an antidote to both deference to "Science" and
 distrust of experts.
@@ -94,7 +94,7 @@ scientific cosmopolitanism.
 
 ## Connections
 
-How far it stands in for LIT-1228. It restates the book's theses and its
+How far it stands in for [LIT-1228](../literature.d/LIT-1228.md). It restates the book's theses and its
 vocabulary (perspective, intersection, interlacing, inferential
 blueprints, modally robust phenomena, natural kinds with a human face,
 severing and trademarking), with pointers to chapters 5, 10 and 11. It
@@ -107,7 +107,7 @@ states and the book would have to argue.
 
 ## Bearing on the record
 
-- **QUESTION-129**: a candidate for the "Partial" answer, in the domain of
+- **[QUESTION-129](../questions.d/QUESTION-129.md)**: a candidate for the "Partial" answer, in the domain of
   knowledge (dated note there). Massimi's constraint on admissible
   perspectives is procedural: no community certifies itself, and
   reliability is what survives comparison across communities. That is
@@ -117,16 +117,16 @@ states and the book would have to argue.
   epistemic: it says which claims are reliable, not which standards bind.
   Whether it carries to normative standards is the question's, not the
   primer's.
-- **CLAIM-363**: a parallel, in epistemology. Knowledge "indexed to a
+- **[CLAIM-363](../claims.d/CLAIM-363.md)**: a parallel, in epistemology. Knowledge "indexed to a
   particular domain (depending on the context of inquiry)" and still not
   arbitrary is the claim's two parts for scientific claims. Analogy only;
   no edge (dated note there).
-- **QUESTION-456**: a parallel. Epistemic severing, excluding a
+- **[QUESTION-456](../questions.d/QUESTION-456.md)**: a parallel. Epistemic severing, excluding a
   community's contribution from the account of how knowledge was made,
   "implicit and structural rather than intentional", is the knowledge-side
   form of a demand set shaped by the governance that should be judged
   against it. Analogy only; no note.
-- **The constitutivism test (CLAIM-tmp8g26d)**: Massimi's "no
+- **The constitutivism test ([CLAIM-tmp8g26d](../claims.d/CLAIM-tmp8g26d.md))**: Massimi's "no
   self-certification" is the epistemic counterpart of the premise reading
   (a) says the dynamics cannot supply: a standard that binds a community
   from outside its own lights. She supplies it by procedure, not by

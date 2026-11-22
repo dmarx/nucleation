@@ -22,7 +22,7 @@ bears_on:
 corroborates:
 - CLAIM-348
 summary: >-
-  Monnier et al., read in NOTE-tmprfp2e (Read). A taxonomy of
+  Monnier et al., read in [NOTE-tmprfp2e](../notes.d/NOTE-tmprfp2e.md) (Read). A taxonomy of
   meta-metrics, m = f_a ∘ f_w ∘ f_c (comparison, weighting, aggregation),
   with synthetic and UCI Adult evidence that they reverse fairness
   rankings, and guidelines that match meta-metrics to the disparity
@@ -35,7 +35,7 @@ summary: >-
 
 ## Source
 
-Monnier et al. (2026), LIT-2451, read in NOTE-tmprfp2e.
+Monnier et al. (2026), [LIT-2451](../literature.d/LIT-2451.md), read in [NOTE-tmprfp2e](../notes.d/NOTE-tmprfp2e.md).
 
 ## The account
 

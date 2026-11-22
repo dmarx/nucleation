@@ -27,14 +27,14 @@ grounds:
 - THEORY-tmpdrt3r
 summary: >-
   One of three readings, filed as alternatives, of how Leffler's
-  adversarial test (THEORY-tmpdrt3r), carried to organizations by
-  ARG-tmpxsh8r, comes out for the record; (b) is CLAIM-tmprcgr5
-  and (c) CLAIM-tmpn4gbs. On this reading it is the objection LEAD-158's
+  adversarial test ([THEORY-tmpdrt3r](../theory.d/THEORY-tmpdrt3r.md)), carried to organizations by
+  [ARG-tmpxsh8r](../arguments.d/ARG-tmpxsh8r.md), comes out for the record; (b) is [CLAIM-tmprcgr5](CLAIM-tmprcgr5.md)
+  and (c) [CLAIM-tmpn4gbs](CLAIM-tmpn4gbs.md). On this reading it is the objection [LEAD-158](../leads.d/LEAD-158.md)'s
   "what would count" names: the constitutive route to the force of
   organizational norms, the only route the dynamics offer, ends in
-  constrained relativism, so QUESTION-128's "showing that it cannot
+  constrained relativism, so [QUESTION-128](../questions.d/QUESTION-128.md)'s "showing that it cannot
   have it without a premise from outside the dynamics" is met for that
-  route and QUESTION-129's "No" gains an argument. It objects to no
+  route and [QUESTION-129](../questions.d/QUESTION-129.md)'s "No" gains an argument. It objects to no
   held claim, since the record claims neither half of the route. The
   wording is the assistant's (Claude, in this session); adopting it, or
   one of the other readings, is the owner's call.
@@ -46,11 +46,11 @@ summary: >-
 
 ## The claim
 
-The record's first two rungs (QUESTION-128) take an organization's
+The record's first two rungs ([QUESTION-128](../questions.d/QUESTION-128.md)) take an organization's
 norms of function and failure from its own self-maintenance: Bickhard's
-function (THEORY-220), self-generated normativity as a condition of agency
-(THEORY-071), Di Paolo's adaptivity (THEORY-628), and the
-expected-response profile "set by its own upkeep" of CLAIM-648. That is
+function ([THEORY-220](../theory.d/THEORY-220.md)), self-generated normativity as a condition of agency
+([THEORY-071](../theory.d/THEORY-071.md)), Di Paolo's adaptivity ([THEORY-628](../theory.d/THEORY-628.md)), and the
+expected-response profile "set by its own upkeep" of [CLAIM-648](CLAIM-648.md). That is
 constitutivism in Leffler's broad sense: norms implicit in what a thing
 is, here a self-maintaining organization rather than an agent.
 
@@ -58,32 +58,32 @@ Suppose the account goes on to say why such norms bind the organization.
 The only resource its dynamics offer is that the organization is always
 positioned to go on maintaining itself, well or badly, until it fails:
 Leffler's plight, with self-maintenance in place of agency. By his
-argument (ARG-tmpxsh8r carries it over) that explanation passes his four
+argument ([ARG-tmpxsh8r](../arguments.d/ARG-tmpxsh8r.md) carries it over) that explanation passes his four
 tests of force, and then "the standard of success ... is set by the
 features and commitments of whatever agency one has". An institution and
 its members are differently constituted. In A18 §4's case
-(QUESTION-129) the institution's norms bind the institution, and
+([QUESTION-129](../questions.d/QUESTION-129.md)) the institution's norms bind the institution, and
 suppressing dissent can be the thing to do by them; the members' norms
 bind the members. Nothing in either constitution binds the other, so the
 account by this route cannot rule between them. To rule, it needs a
 premise its dynamics do not supply: a standard binding "independently of
-how they are constituted", which is what QUESTION-129 asks for.
+how they are constituted", which is what [QUESTION-129](../questions.d/QUESTION-129.md) asks for.
 
-So the route ends where QUESTION-129's "No" places it, in the
+So the route ends where [QUESTION-129](../questions.d/QUESTION-129.md)'s "No" places it, in the
 constrained relativism of Wong's challenge, and the "showing" that
-QUESTION-128 asks for is had for this route: on it, organizational norms
+[QUESTION-128](../questions.d/QUESTION-128.md) asks for is had for this route: on it, organizational norms
 have authority for no one but the organization constituted by them.
 
 ## What it does not say
 
 - It does not deny that organizations have norms of their own, or that
-  verdicts under them can be false (CLAIM-363, CLAIM-648); the test
+  verdicts under them can be false ([CLAIM-363](CLAIM-363.md), [CLAIM-648](CLAIM-648.md)); the test
   grants both.
 - It does not say no premise could close the gap, only that none comes
   from the dynamics. A22's accountability across affected standpoints, or an
-  independent-rights theory (QUESTION-486), would be such a premise.
+  independent-rights theory ([QUESTION-486](../questions.d/QUESTION-486.md)), would be such a premise.
 - It does not say the record has taken this route; reading (c),
-  CLAIM-tmpn4gbs, says it has not.
+  [CLAIM-tmpn4gbs](CLAIM-tmpn4gbs.md), says it has not.
 - It inherits Leffler's premise that constitutions vary. Between an
   institution and its members that premise is safe; between two
   organizations of one design it may not be.

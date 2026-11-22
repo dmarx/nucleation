@@ -298,8 +298,8 @@ reading says nothing about that kind of target. Status unchanged.
 
 ## Note of 2026-11-22: Monnier et al., read
 
-THEORY-tmpnit00 (Monnier, George, Guyard, Tarnec and Kountouris,
-LIT-2451) now `corroborates` this claim, independently: it is a
+[THEORY-tmpnit00](../theory.d/THEORY-tmpnit00.md) (Monnier, George, Guyard, Tarnec and Kountouris,
+[LIT-2451](../literature.d/LIT-2451.md)) now `corroborates` this claim, independently: it is a
 measurement practice the claim does not cite. A single intersectional
 fairness score needs a meta-metric; all meta-metrics agree when the
 description shows no disparity and diverge otherwise, so that each of

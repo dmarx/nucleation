@@ -22,14 +22,14 @@ bears_on:
 - QUESTION-128
 - QUESTION-129
 summary: >-
-  Leffler, read in NOTE-tmp4a8iu (Read). Tested against invariance under
+  Leffler, read in [NOTE-tmp4a8iu](../notes.d/NOTE-tmp4a8iu.md) (Read). Tested against invariance under
   desire change, ought-implies-can, ought-implies-can-fail and
   criticizability, only a reconstructed plight inescapability explains the
   force of norms constitutive of agency, and it makes that force relative
   to the agent's constitution: categoricity as constitution independence
   is out of its reach. The author calls the paper exploratory and defends
-  none of the views as true. It is the adversarial test LEAD-158 asked
-  for; its application to organizations is ARG-tmpxsh8r.
+  none of the views as true. It is the adversarial test [LEAD-158](../leads.d/LEAD-158.md) asked
+  for; its application to organizations is [ARG-tmpxsh8r](../arguments.d/ARG-tmpxsh8r.md).
 ---
 <!-- inactive-ok-file: ARG-tmpxsh8r — filed from this reading, Proposed or new -->
 
@@ -37,7 +37,7 @@ summary: >-
 
 ## Source
 
-Leffler (2024), LIT-2444, read in NOTE-tmp4a8iu.
+Leffler (2024), [LIT-2444](../literature.d/LIT-2444.md), read in [NOTE-tmp4a8iu](../notes.d/NOTE-tmp4a8iu.md).
 
 ## The account
 
@@ -87,4 +87,4 @@ briefly, that constitutions vary between and within kinds of agent.
 - It says nothing about organizations that are not agents. Its corporate
   agents are an example of varying constitution, one sentence long. That
   it carries to the record's self-maintaining organizations is the
-  record's inference, ARG-tmpxsh8r, not the paper's.
+  record's inference, [ARG-tmpxsh8r](../arguments.d/ARG-tmpxsh8r.md), not the paper's.
