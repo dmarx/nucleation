@@ -77,8 +77,8 @@ def main():
 
     L += ["## Recovery when rare (R specialist set to share ε in R, no further intervention, 20,000 steps ≈ 3,200 R samples)", "",
           "λ is the initial growth rate of log share per R sample; 'recovered' is final share > 0.5.", "",
-          "| rule | K | arm | λ per R sample | R samples to share 0.5 | recovered | final share |",
-          "|---|---|---|---|---|---|---|"]
+          "| rule | K | arm | λ per R sample | R samples to share 0.5 | recovered | final share | R held at end by another operator, competent (own risk < 0.1) |",
+          "|---|---|---|---|---|---|---|---|"]
     for rule in rules:
         for K in (4, 6):
             for arm in ("rare_frozen_e2", "rare_frozen_e3", "rare_frozen_e5", "rare_train_e3",
@@ -89,7 +89,8 @@ def main():
                 L.append(f"| {rule} | {K} | {arm} | {ms([r['lam_cond'] for r in rs])} | "
                          f"{ms([r['nR_to_half'] for r in rs], '{:.0f}')} | "
                          f"{frac(r['final_share'] > 0.5 for r in rs)} | "
-                         f"{ms([r['final_share'] for r in rs])} |")
+                         f"{ms([r['final_share'] for r in rs])} | "
+                         f"{frac(r['traj'][-1][4] != r['spec'] and r['traj'][-1][3] < 0.1 for r in rs)} |")
                 out[f"{rule}/{K}/{arm}"] = {
                     "lam": float(np.median([r["lam_cond"] for r in rs])),
                     "recovered": int(sum(r["final_share"] > 0.5 for r in rs)), "n": len(rs)}
