@@ -31,7 +31,7 @@ summary: >-
   its applications is visual. Proposed until the general double Pareto is
   derived independently.
 ---
-<!-- inactive-ok-file: NOTE-tmpbic9d CLAIM-795 THEORY-2150 QUESTION-505 SYNTHESIS-119 CLAIM-824 — Proposed or new; this account's reading and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-795 THEORY-2150 SYNTHESIS-119 CLAIM-824 — Proposed or new; this account's reading and the entries it bears on -->
 
 # THEORY-tmphwf0q: Reed and Hughes show that a process growing exponentially in expectation and killed at a time with constant hazard has a power-law tail, a single Pareto for deterministic growth and a double Pareto set by a quadratic for geometric Brownian motion
 

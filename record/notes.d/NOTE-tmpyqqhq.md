@@ -24,7 +24,7 @@ summary: >-
   Zipf's law; mixing with uniform jumps gives i^(−λ), the exponent the share
   of nested steps. Proved for uniform jumps only; no reinforcement.
 ---
-<!-- inactive-ok-file: CLAIM-795 CLAIM-803 QUESTION-505 SYNTHESIS-119 THEORY-tmpcfn5g ARG-tmpcx0it ARG-tmp3ppjy NOTE-tmpa7yd2 THEORY-tmp6jdas THEORY-2150 LIT-tmppzucs — Proposed, Deferred or new; the entries this reading bears on, its own reading and argument -->
+<!-- inactive-ok-file: CLAIM-795 CLAIM-803 SYNTHESIS-119 ARG-tmpcx0it ARG-tmp3ppjy THEORY-tmp6jdas THEORY-2150 LIT-tmppzucs — Proposed, Deferred or new; the entries this reading bears on, its own reading and argument -->
 
 # NOTE-tmpyqqhq: Corominas-Murtra, Hanel and Thurner, Understanding scaling through history-dependent processes with collapsing sample space, read for the Zipf law of nested sample spaces
 

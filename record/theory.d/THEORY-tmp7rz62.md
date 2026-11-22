@@ -1,73 +1,68 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmp7rz62:` heading; the lint checks
-# that the two agree.
+  A study that holds the contribution fixed (matched multiple
+  discoveries, or papers whose authorship is varied or concealed) finds
+  that more eminent authors receive more citation, credit or acceptance
+  for the same work, and a reading of the essay's text (or the print
+  version) confirms that it treats cumulative advantage as one
+  institutional version of that effect and gives no model of either. Not
+  met by evidence that citations or resources are concentrated, which
+  does not hold the contribution fixed.
 title: "Merton names the Matthew effect, the accrual of disproportionate recognition for a given scientific contribution to scientists already eminent and its withholding from those not yet known, an inequity for careers that may raise the visibility of eminent scientists' work in science's communication system, and treats cumulative advantage, in which the rich get richer, as one institutional version of it, giving no model of either"
-
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- social-science
 - complex-systems
-
 date: '2026-11-22'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-3002
+summary: >-
+  Merton (1968), LIT-3002, read in a scan of the AAAS reprint in
+  NOTE-tmp4eogg. The source of the name the record's cumulative-advantage
+  claims use (CLAIM-817), and of the sense TERM-tmpeguzj keeps apart from
+  the formal one. The sharp edge: the Matthew effect proper is credit for
+  a given contribution allotted by rank, not growth in proportion to
+  size; Merton states no proportional rule, credits the growth
+  implication to Price, and calls the communication side "a special
+  application of the self-fulfilling prophecy". Proposed until a study
+  that holds contribution fixed confirms the effect.
 ---
-
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: CLAIM-817 TERM-tmpeguzj — Proposed; the claim that uses the name and the term that separates its senses -->
 
 # THEORY-tmp7rz62: Merton names the Matthew effect, the accrual of disproportionate recognition for a given scientific contribution to scientists already eminent and its withholding from those not yet known, an inequity for careers that may raise the visibility of eminent scientists' work in science's communication system, and treats cumulative advantage, in which the rich get richer, as one institutional version of it, giving no model of either
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Merton (1968), "The Matthew Effect in Science", Science 159(3810), 56–63,
+LIT-3002, read in a scan of the reprint in NOTE-tmp4eogg.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+Laureates' testimony, "presumptive" evidence, that "eminent scientists get
+disproportionately great credit for their contributions to science while
+relatively unknown scientists tend to get disproportionately little credit
+for comparable contributions" (p. 58), chiefly in collaborations and
+multiple discoveries. A hypothesis that a contribution "will have greater
+visibility ... when it is introduced by a scientist of high rank" (p. 59),
+with the Coles' visibility scores as tangential support. The mechanisms
+named include "a fixed number of places available at the summit of
+recognition", a "ratchet effect" (p. 57), the conversion of recognition
+into resources, and "a special application of the self-fulfilling
+prophecy" (p. 61). Cumulative advantage is "One institutional version of
+the Matthew effect", where "the rich get richer at a rate that makes the
+poor become relatively poorer" (p. 62).
+
+What could have come out otherwise: the essay sets out tests (citations
+for unequal-rank multiple discoveries; readership by rank) that it does
+not run.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- Not that recognition grows in proportion to recognition held. No rate,
+  model or distribution appears; the implication for growth is credited
+  to Price (note 46).
+- Not that the effect is a halo: "This greater visibility is not merely
+  the result of a halo effect" (p. 60).
+- Not that the effect is wholly dysfunctional: it may serve the
+  communication system while it wrongs careers.

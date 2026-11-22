@@ -34,7 +34,7 @@ summary: >-
   assistant's CLAIM-tmpf9qt9. Proposed until the published text or a second
   source confirms it.
 ---
-<!-- inactive-ok-file: NOTE-tmpj8ro5 CLAIM-795 CLAIM-769 CLAIM-tmpf9qt9 THEORY-2131 QUESTION-505 — Proposed or new; this account's reading and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-795 CLAIM-769 CLAIM-tmpf9qt9 THEORY-2131 — Proposed or new; this account's reading and the entries it bears on -->
 
 # THEORY-tmpczldx: Beck and Cohen define superstatistics as the Laplace transform of a slowly fluctuating inverse temperature's density, show that a gamma density gives Tsallis's q-exponential and that every superstatistics shares the same first correction at small variance, and leave the large-energy behaviour to the density
 

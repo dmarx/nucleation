@@ -1,57 +1,69 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
-title: 'x'
-
+title: "Beck and Cohen's gamma superstatistics, as a source, with the assistant's condition on the spread, carries item 4 of the catalogue of feedback-free power-law mechanisms for spreads of rates with power-law weight at zero rate, not for every spread"
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
+form: source
 rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+- CLAIM-tmpf9qt9
+grounds:
+- THEORY-tmpczldx
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-795
 tags:
-- agency
+- probabilistic-modeling
+- thermodynamics
 date: '2026-11-22'
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
 line:
-- will-organization
-
+- formal-apparatus
+summary: >-
+  Whether Beck and Cohen (LIT-2962), read in NOTE-tmpj8ro5, carry CLAIM-795's
+  item 4, a "mixture of exponential rates" giving a power law. Their eq. 13
+  is the item's formula with energy for time: a gamma spread gives
+  (1 + bE)^(−c). But their uniform and two-level spreads keep exponential
+  tails, and they say the large-E behaviour "strongly depends on the
+  function f(β)". With CLAIM-tmpf9qt9 (power-law weight at zero rate is
+  necessary and sufficient), the reading carries the item for the gamma
+  spread its `defeated_if` names and for any spread with that weight, not
+  for mixtures as such. The wording is the assistant's (Claude, in this
+  session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-795 CLAIM-tmpf9qt9 THEORY-tmpczldx THEORY-2131 ARG-tmp3ppjy — Proposed or new; the claim, the readings and the condition this argument joins -->
 
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
-
-# ARG-tmpa8ghr: x
+# ARG-tmpa8ghr: Beck and Cohen's gamma superstatistics, as a source, with the assistant's condition on the spread, carries item 4 of the catalogue of feedback-free power-law mechanisms for spreads of rates with power-law weight at zero rate, not for every spread
 
 ## The inference
 
-How the premises yield the conclusion.
+CLAIM-795, item 4: exponential waiting times with gamma-distributed rates
+give P(T > t) = (b/(b + t))^a, and mixtures are a route to power laws with
+no positive feedback. THEORY-tmpczldx: B(E) = ∫ f(β) e^(−βE) dβ, with the
+closed forms. CLAIM-tmpf9qt9: which f give a power-law B.
 
-## Critical questions
+## Critical questions (source)
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+**Does the work say this, read in context?** For the gamma case, yes:
+eq. 13, B = (1 + bE)^(−c), is item 4's survival with a = c and the scale
+inverted, and the paper's c is the gamma's shape, "the effective number of
+degrees of freedom" over two (p. 5). The paper does not discuss waiting
+times or use the words "power law"; the mapping of energy to time and
+inverse temperature to rate is the integral's, not the paper's.
+
+**Is it said within the scope the claim needs?** Not for "a mixture of
+exponential rates" in general. Beck's uniform density on [a, a + b] keeps
+an exponential tail (eq. 5), and the paper's main result is that the
+densities agree only at small variance. CLAIM-tmpf9qt9 states the
+condition, power-law weight at zero rate, and checks it. Item 4's
+`defeated_if` already names "a gamma spread of rates", so the thesis is
+not defeated; its label "a mixture of exponential rates" reads wider than
+what holds.
+
+**Does the claim lean on the reading for more than it holds?** A's
+"heterogeneity across a population alone yields a power law" (as the LIT
+first summarized it) did; the claim's item 4, read with its `defeated_if`,
+does not.
+
+## Verdict
+
+Support for item 4 as stated with its gamma spread, and for any spread
+with power-law weight at zero rate. THEORY-tmpczldx replaces LIT-2962 in
+CLAIM-795's `grounds`, beside THEORY-2131. Newman's route (ARG-tmp3ppjy) is
+unaffected.

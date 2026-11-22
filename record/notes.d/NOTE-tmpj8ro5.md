@@ -25,7 +25,7 @@ summary: >-
   and at large energy. It never says "power law"; only some densities give
   one.
 ---
-<!-- inactive-ok-file: CLAIM-795 CLAIM-769 CLAIM-781 CLAIM-840 CLAIM-829 CLAIM-803 CLAIM-841 THEORY-2131 THEORY-tmpczldx CLAIM-tmpf9qt9 ARG-tmpa8ghr ARG-tmp3ppjy NOTE-tmpa7yd2 — Proposed or new; the entries this reading bears on, its own reading, and the claim and argument filed with it -->
+<!-- inactive-ok-file: CLAIM-795 CLAIM-769 CLAIM-781 CLAIM-840 CLAIM-829 CLAIM-803 CLAIM-841 THEORY-2131 THEORY-tmpczldx CLAIM-tmpf9qt9 ARG-tmpa8ghr ARG-tmp3ppjy — Proposed or new; the entries this reading bears on, its own reading, and the claim and argument filed with it -->
 
 # NOTE-tmpj8ro5: Beck and Cohen, Superstatistics, read for how a spread of an intensive parameter turns Boltzmann factors into other statistics
 

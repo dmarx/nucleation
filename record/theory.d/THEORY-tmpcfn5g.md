@@ -29,7 +29,7 @@ summary: >-
   a Markov chain with no reinforcement. Proposed until the derivation is
   checked independently.
 ---
-<!-- inactive-ok-file: NOTE-tmpyqqhq CLAIM-795 THEORY-2150 QUESTION-505 LIT-tmppzucs — Proposed, Deferred or new; this account's reading and the entries it bears on -->
+<!-- inactive-ok-file: CLAIM-795 THEORY-2150 LIT-tmppzucs — Proposed, Deferred or new; this account's reading and the entries it bears on -->
 
 # THEORY-tmpcfn5g: Corominas-Murtra, Hanel and Thurner prove that a process jumping uniformly to a lower state visits state i with probability exactly 1 over i, and that mixing its nested steps with uniform jumps gives occupation falling as i to the minus lambda
 

@@ -1,57 +1,61 @@
 ---
-# Don't copy this file by hand — run `luria new arg`. An ARG holds what the
-# record says about support between its entries: that these premises do, or
-# do not, establish this conclusion (ADR-061). File one when the record
-# argues a support relation, doubts one, concedes one fails, or needs one as
-# a second line. "X does not show Y" is the ARG from X to Y, Rejected, with
-# the failing critical question answered in the body. A claim's own
-# `rests_on` still needs no ARG (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the
-# INFERENCE holds, which is not whether its conclusion is true.
 status: Proposed
-
-title: 'y'
-
+title: "Corominas-Murtra, Hanel and Thurner's induction proof, as a source, carries item 5 of the catalogue of feedback-free power-law mechanisms, the 1 over k visiting law of the uniform sample-space-reducing walk, though not their abstract's claim that such processes necessarily give Zipf's law"
 version: 1
-
-# analogy | contrast | existence | formal-application | generalization |
-# abduction | cause-to-effect | reductio. The form's critical questions are
-# in luria.yaml; answer each in the body, or expect an objection.
-form: analogy
-
-# Premises: the record's own claims in `rests_on`, readings, cases and works
-# in `grounds`. At least one of the two.
-rests_on:
-- CLAIM-000
-# grounds:
-# - THEORY-000
-# The thesis or theses the inference arrives at: several when the same
-# premises bear on each in the same way, so the verdict is filed once.
+form: source
+grounds:
+- THEORY-tmpcfn5g
 concludes:
-- CLAIM-000
-# The TERMs the inference is stated in, and the manuscripts it is argued in.
-# uses: [TERM-000]
-# works: [organization-of-will]
-
+- CLAIM-795
 tags:
-- agency
+- probabilistic-modeling
+- complex-systems
 date: '2026-11-22'
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml, primary first.
 line:
-- will-organization
-
+- formal-apparatus
+summary: >-
+  Whether Corominas-Murtra, Hanel and Thurner (LIT-2997), read in
+  NOTE-tmpyqqhq, carry CLAIM-795's item 5. Their eq. 1, proved by
+  induction, is the item exactly: a walk jumping uniformly to a lower
+  state visits state k with probability 1/k, with no multiplicative,
+  preferential or critical process. The item gains the tunable family
+  i^(−λ). The abstract's "necessarily lead to Zipf's law" outruns the
+  proof, which covers uniform jumps; the item claims only the uniform
+  case. The wording is the assistant's (Claude, in this session); adopting
+  it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-795 THEORY-tmpcfn5g ARG-tmp3ppjy — Proposed or new; the claim and the reading this argument joins -->
 
-<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
-
-# ARG-tmpcx0it: y
+# ARG-tmpcx0it: Corominas-Murtra, Hanel and Thurner's induction proof, as a source, carries item 5 of the catalogue of feedback-free power-law mechanisms, the 1 over k visiting law of the uniform sample-space-reducing walk, though not their abstract's claim that such processes necessarily give Zipf's law
 
 ## The inference
 
-How the premises yield the conclusion.
+CLAIM-795, item 5: a walk that jumps uniformly to a lower state until it
+reaches 1 visits state k with probability 1/k. THEORY-tmpcfn5g: the proof
+and the noisy family.
 
-## Critical questions
+## Critical questions (source)
 
-Each question the form raises, and its answer. For an analogy: the respect
-in which the cases are alike, what transfers, and what does not.
+**Does the work say this, read in context?** Yes. The visiting
+probability "can easily be shown to follow an exact Zipf's law,
+PN(i) = 1/i" (p. 2, eq. 1), proved by induction on N, and the process is
+offered "without the recourse to multiplicative, preferential, or
+self-organised critical processes" (abstract). The reader's simulation
+and the claim's own both match.
+
+**Is it said within the scope the claim needs?** Yes, for the uniform
+process, which is the case item 5 states and its `defeated_if` names.
+Not for sample-space reduction in general: the abstract's "necessarily"
+is wider than the proof. The claim's label, "sample-space reduction",
+should be read as the uniform case.
+
+**Does the claim lean on the reading for more than it holds?** No. It
+holds less than the reading offers: the noisy mixture gives
+p(i) ∝ i^(−λ), so the route reaches any rank exponent in (0, 1] and any
+frequency exponent (1 + λ)/λ ≥ 2, which the item now notes.
+
+## Verdict
+
+Support for item 5. THEORY-tmpcfn5g replaces LIT-2997 in CLAIM-795's
+`grounds`; the item no longer rests on the claim's own check alone.
+ARG-tmp3ppjy's finding that Newman does not carry item 5 stands.

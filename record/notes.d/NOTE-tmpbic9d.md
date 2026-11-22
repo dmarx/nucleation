@@ -27,7 +27,7 @@ summary: >-
   and analogues for multiplicative, birth-and-death and branching
   processes. Support for the applications is visual.
 ---
-<!-- inactive-ok-file: CLAIM-795 CLAIM-803 CLAIM-815 CASE-303 QUESTION-505 SYNTHESIS-119 THEORY-tmphwf0q ARG-tmpadlas NOTE-tmpa7yd2 THEORY-2150 CLAIM-824 CLAIM-830 CLAIM-817 CLAIM-806 — Proposed or new; the entries this reading bears on, its own reading and argument -->
+<!-- inactive-ok-file: CLAIM-795 CLAIM-803 CLAIM-815 CASE-303 SYNTHESIS-119 ARG-tmpadlas THEORY-2150 CLAIM-824 CLAIM-830 CLAIM-817 CLAIM-806 — Proposed or new; the entries this reading bears on, its own reading and argument -->
 
 # NOTE-tmpbic9d: Reed and Hughes, From gene families and genera to incomes and internet file sizes, read for power laws from exponential growth killed at a random time
 
