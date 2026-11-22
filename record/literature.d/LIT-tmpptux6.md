@@ -5,7 +5,7 @@ status_note: >-
   open-access PDF at
   https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jora.12522
   answered 403 with a Cloudflare challenge; not retried. Europe PMC holds
-  no full text. Registered from the LEAD-054 search (Europe PMC, query 1).
+  no full text. Registered from the [LEAD-054](../leads.d/LEAD-054.md) search (Europe PMC, query 1).
 title: 'Internal and External Factors Underlying Variations in Adolescents’ Daily Optimal Experiences'
 version: 1
 history:
@@ -38,11 +38,11 @@ implementations: []
 summary: >-
   Tavares, Freire and Faria (2019), DOI-10.1111/jora.12522. An in-episode
   experience-sampling study relating momentary positive affect to optimal
-  experience; here for CLAIM-441's third exit and, through effortless
-  attention, CLAIM-162. Unfetched; the abstract's report is unverified
+  experience; here for [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit and, through effortless
+  attention, [CLAIM-162](../claims.d/CLAIM-162.md). Unfetched; the abstract's report is unverified
   until read.
 ---
-<!-- inactive-ok-file: LIT-tmpu5vec LIT-tmpu4yh1 CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
 
 # LIT-tmpptux6: Internal and External Factors Underlying Variations in Adolescents’ Daily Optimal Experiences
 
@@ -54,7 +54,7 @@ Dionísia Tavares, Teresa Freire and Susana Faria (2019). *Journal of Research o
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-054 search for experience-sampling
+Registered on 2026-11-22 by the [LEAD-054](../leads.d/LEAD-054.md) search for experience-sampling
 studies of flow with affect reported during the episode
-(scratch/studies/lead-054/screening.tsv). It bears on CLAIM-441's third
+(scratch/studies/lead-054/screening.tsv). It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third
 exit, that flow's positivity comes after the episode and not during it.

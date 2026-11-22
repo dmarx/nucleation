@@ -20,24 +20,24 @@ source:
 corroborates:
 - CLAIM-441
 summary: >-
-  Engeser and Baumann (2014), LIT-tmpu4yh1, read in NOTE-tmpoe2pz. The
+  Engeser and Baumann (2014), [LIT-tmpu4yh1](../literature.d/LIT-tmpu4yh1.md), read in [NOTE-tmpoe2pz](../notes.d/NOTE-tmpoe2pz.md). The
   more direct of the record's two read in-episode studies of flow and
-  affect, both found by LEAD-054. Within persons flow correlates .31 with
+  affect, both found by [LEAD-054](../leads.d/LEAD-054.md). Within persons flow correlates .31 with
   valence and .59 with positive activation at the same signal, and does
-  not raise valence at the next. It corroborates CLAIM-441's premise that
+  not raise valence at the next. It corroborates [CLAIM-441](../claims.d/CLAIM-441.md)'s premise that
   flow is positive during the episode, against the third exit that the
   positivity comes after it. The sharp edges: a continuous flow score with
   no enjoyment item, a two-hour lag, and a sample it appears to share with
   Rheinberg et al.
 ---
-<!-- inactive-ok-file: LIT-tmpu4yh1 NOTE-tmpoe2pz THEORY-tmp8q7t4 LIT-tmpvw1m3 CLAIM-441 CLAIM-440 CLAIM-tmpiyf8w — new or Proposed; the work, its reading, the companion reading, the unread contrary study and the claims it bears on -->
+<!-- inactive-ok-file: THEORY-tmp8q7t4 LIT-tmpvw1m3 CLAIM-441 — new or Proposed; the work, its reading, the companion reading, the unread contrary study and the claims it bears on -->
 
 # THEORY-tmpto8hu: Engeser and Baumann find by experience sampling of 100 employees that flow goes with positive activation and, moderately, with valence at the same signal, that flow at one signal does not predict valence at the next once concurrent flow and prior valence are controlled, that leisure has better valence and less negative activation than work though flow is highest at work, and that perceived outcome importance raises flow and lowers valence
 
 ## Source
 
 Stefan Engeser and Nicola Baumann (2014), *Journal of Happiness Studies*
-17(1): 105-124, LIT-tmpu4yh1, read in NOTE-tmpoe2pz.
+17(1): 105-124, [LIT-tmpu4yh1](../literature.d/LIT-tmpu4yh1.md), read in [NOTE-tmpoe2pz](../notes.d/NOTE-tmpoe2pz.md).
 
 ## What was actually shown
 
@@ -59,10 +59,10 @@ no effect on subsequent valence" (§4).
 
 ## Where it bears
 
-On CLAIM-441's third exit (NOTE-tmpoe2pz, "Bearing on the record"):
+On [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit ([NOTE-tmpoe2pz](../notes.d/NOTE-tmpoe2pz.md), "Bearing on the record"):
 exit 3 predicts the positivity after the episode; these data find it at
 the same signal and not at the next. So the exit is not supported here,
 and the claim's first defeated_if clause is not met. The qualifications
 are the continuous measure, the two-hour lag, the unread contrary finding
-of Fullagar and Kelloway (LIT-tmpvw1m3), and the shared sample with
-Rheinberg et al. (THEORY-tmp8q7t4).
+of Fullagar and Kelloway ([LIT-tmpvw1m3](../literature.d/LIT-tmpvw1m3.md)), and the shared sample with
+Rheinberg et al. ([THEORY-tmp8q7t4](THEORY-tmp8q7t4.md)).

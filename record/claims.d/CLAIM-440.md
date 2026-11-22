@@ -414,13 +414,13 @@ narrowed to negative valence or dropped. And the premise [CLAIM-039](CLAIM-039.m
 by [THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a felt state, which no
 claim in the record answers.
 
-## Note of 2026-11-22: the flow objection, after in-episode reports (LEAD-054)
+## Note of 2026-11-22: the flow objection, after in-episode reports ([LEAD-054](../leads.d/LEAD-054.md))
 
-CLAIM-441's third exit, that flow's positivity comes only after the
+[CLAIM-441](CLAIM-441.md)'s third exit, that flow's positivity comes only after the
 episode, would have left "no contest, no valence" standing for flow. The
-two experience-sampling studies read for LEAD-054 (THEORY-tmpto8hu,
-THEORY-tmp8q7t4) find the positivity at the same signal and not after it,
-so that exit is not supported (CLAIM-tmpiyf8w), and the objection presses
+two experience-sampling studies read for [LEAD-054](../leads.d/LEAD-054.md) ([THEORY-tmpto8hu](../theory.d/THEORY-tmpto8hu.md),
+[THEORY-tmp8q7t4](../theory.d/THEORY-tmp8q7t4.md)) find the positivity at the same signal and not after it,
+so that exit is not supported ([CLAIM-tmpiyf8w](CLAIM-tmpiyf8w.md)), and the objection presses
 through exits 1, 2 and 4. A parallel, with no edge: Rheinberg et al.
 explain post hoc why salient goals lower happiness by a gap between the
 present state and the goal in view, a sign read off a reference, which is

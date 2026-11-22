@@ -27,7 +27,7 @@ summary: >-
   unchanged at work and lowers it in leisure; the authors read the paradox
   of work as partly an effect of how often work is goal-directed.
 ---
-<!-- inactive-ok-file: LIT-tmpu5vec LIT-tmpu4yh1 LIT-tmps1x50 LIT-tmp6jvaq THEORY-tmp8q7t4 CLAIM-441 CLAIM-440 CLAIM-162 CLAIM-433 CLAIM-tmpiyf8w TERM-076 — new or Proposed; the work, its companion reading and the claims it bears on -->
+<!-- inactive-ok-file: LIT-tmps1x50 LIT-tmp6jvaq CLAIM-441 CLAIM-440 CLAIM-162 CLAIM-433 TERM-076 — new or Proposed; the work, its companion reading and the claims it bears on -->
 
 # NOTE-tmp2n8he: Rheinberg, Manig, Kliegl, Engeser and Vollmeyer — Flow at work, happiness in leisure
 
@@ -119,34 +119,34 @@ lifts flow; it does not lift happiness, and in leisure it lowers it.
 
 ## Connections
 
-It replicates Csikszentmihalyi and LeFevre (1989; LIT-tmp6jvaq) and
-Schallberger and Pfister (2001; LIT-tmps1x50) with the FKS in place of the
+It replicates Csikszentmihalyi and LeFevre (1989; [LIT-tmp6jvaq](../literature.d/LIT-tmp6jvaq.md)) and
+Schallberger and Pfister (2001; [LIT-tmps1x50](../literature.d/LIT-tmps1x50.md)) with the FKS in place of the
 quadrant model, which it criticizes for equating one component of flow
 with the whole and for counting above-average demand as flow. Engeser and
-Baumann (LIT-tmpu4yh1) report what appears to be the same Potsdam sample
+Baumann ([LIT-tmpu4yh1](../literature.d/LIT-tmpu4yh1.md)) report what appears to be the same Potsdam sample
 with the full PANAVA and a lagged analysis.
 
 ## Bearing on the record
 
-- **CLAIM-441, exit 3** (the positivity comes after the episode). Flow and
+- **[CLAIM-441](../claims.d/CLAIM-441.md), exit 3** (the positivity comes after the episode). Flow and
   happiness are rated at the same signal and correlate positively across
   reports, so on these data some of flow's positivity is in the episode.
   The data do not show that a flow episode is felt as positive: the
   correlation is pooled over all activities, flow is a continuous score
   with no enjoyment item, and work, where flow is highest, is where
   happiness is lower. Evidence against exit 3 as the whole story, with
-  Engeser and Baumann's lagged test (NOTE-tmpoe2pz) the stronger part.
-- **CLAIM-441, exit 1 and CLAIM-433** (which valence). No measure here
+  Engeser and Baumann's lagged test ([NOTE-tmpoe2pz](NOTE-tmpoe2pz.md)) the stronger part.
+- **[CLAIM-441](../claims.d/CLAIM-441.md), exit 1 and [CLAIM-433](../claims.d/CLAIM-433.md)** (which valence). No measure here
   separates intrinsic pleasantness from goal-conduciveness valence, and the
   happiness/satisfaction items are general valence. That goal-directedness
   raises flow and not happiness says flow's positivity, such as it is, is
   not carried by goal salience. It does not say what carries it.
-- **CLAIM-440 and TERM-076** (sign as running ahead of or behind a
+- **[CLAIM-440](../claims.d/CLAIM-440.md) and [TERM-076](../terms.d/TERM-076.md)** (sign as running ahead of or behind a
   reference course). A parallel only: the authors' post hoc gap between
   the present state and the goal in view is a sign-from-a-reference reading
   of why salient goals lower happiness, and they say it fails for work.
   No edge.
-- **CLAIM-162** (no interest overridden in flow). Background: flow is
+- **[CLAIM-162](../claims.d/CLAIM-162.md)** (no interest overridden in flow). Background: flow is
   highest where the activity is clearly goal-directed, which fits a
   coincidence of immediate and longer-run value, but nothing here measures
   override.
@@ -156,6 +156,6 @@ with the full PANAVA and a lagged analysis.
 The flow-happiness correlation is a pooled correlation over reports, not
 an analysis of flow episodes. Flow is a continuous FKS score, so high
 scores are absorption and fluency, not Csikszentmihalyi's discrete
-enjoyable state (the measurement point Abuhamdeh makes, NOTE-1429). Paper
+enjoyable state (the measurement point Abuhamdeh makes, [NOTE-1429](NOTE-1429.md)). Paper
 forms; the sample lacks unskilled and industrial workers (§3.1); 70%
 women.

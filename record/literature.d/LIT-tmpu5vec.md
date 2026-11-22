@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmp2n8he), from the version of record
+  read in full 2026-11-22 ([NOTE-tmp2n8he](../notes.d/NOTE-tmp2n8he.md)), from the version of record
   self-archived by the University of Potsdam (publish.UP, docId 1785,
   "Zweitveröffentlichungen", publication type self-archiving). An
   experience-sampling study of 101 employees (4,603 reports) with the
@@ -57,10 +57,10 @@ summary: >-
   single reports flow and happiness correlate weakly positively (r = .36
   raw). Goal-directedness raises flow at work and in leisure but leaves
   happiness unchanged at work and lowers it in leisure. Here as one of the
-  record's two read in-episode studies of flow and affect, for CLAIM-441's
+  record's two read in-episode studies of flow and affect, for [CLAIM-441](../claims.d/CLAIM-441.md)'s
   third exit.
 ---
-<!-- inactive-ok-file: NOTE-tmp2n8he THEORY-tmp8q7t4 LIT-tmpu4yh1 LIT-tmps1x50 LIT-tmp6jvaq CLAIM-441 CLAIM-440 CLAIM-tmpiyf8w — new or Proposed; this reading, the works beside it and the claims it bears on -->
+<!-- inactive-ok-file: LIT-tmps1x50 LIT-tmp6jvaq CLAIM-441 CLAIM-440 — new or Proposed; this reading, the works beside it and the claims it bears on -->
 
 # LIT-tmpu5vec: Flow bei der Arbeit, doch Glück in der Freizeit
 
@@ -84,8 +84,8 @@ Organisationspsychologie* 51(3): 105-115. DOI-10.1026/0932-4089.51.3.105
 ## Standing in the record
 
 The first of two in-episode studies of flow and affect the record has read
-(LEAD-054), with Engeser and Baumann (LIT-tmpu4yh1), which reports what
-appears to be the same Potsdam sample. It bears on CLAIM-441's third exit
-and, through its goal-directedness result, on CLAIM-440. It reports
-Schallberger and Pfister (LIT-tmps1x50) and Csikszentmihalyi and LeFevre
-(LIT-tmp6jvaq).
+([LEAD-054](../leads.d/LEAD-054.md)), with Engeser and Baumann ([LIT-tmpu4yh1](LIT-tmpu4yh1.md)), which reports what
+appears to be the same Potsdam sample. It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit
+and, through its goal-directedness result, on [CLAIM-440](../claims.d/CLAIM-440.md). It reports
+Schallberger and Pfister ([LIT-tmps1x50](LIT-tmps1x50.md)) and Csikszentmihalyi and LeFevre
+([LIT-tmp6jvaq](LIT-tmp6jvaq.md)).

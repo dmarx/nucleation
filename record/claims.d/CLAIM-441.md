@@ -61,7 +61,7 @@ summary: >-
   until one is shown.
 ---
 <!-- inactive-ok-file: LIT-914 — Unavailable, unread; the flow literature, cited for the report this objection rests on and named as its weakest footing -->
-<!-- inactive-ok-file: CLAIM-tmpiyf8w THEORY-tmpto8hu THEORY-tmp8q7t4 NOTE-tmpoe2pz NOTE-tmp2n8he LIT-tmpu4yh1 LIT-tmpu5vec LIT-tmpvw1m3 LIT-tmpptux6 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
+<!-- inactive-ok-file: CLAIM-tmpiyf8w THEORY-tmpto8hu THEORY-tmp8q7t4 LIT-tmpvw1m3 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
 
 # CLAIM-441: Flow tells against the potential account's condition that valence is undefined where no pair is contested: on the record's own account of flow nothing is overridden because an activity's immediate reward and its longer-run value coincide, yet flow is reported as positive, so either flow's positivity is intrinsic pleasantness and not goal-conduciveness valence, or flow keeps contested pairs its processes settle among themselves, or the positivity comes after the episode and not during it, or the condition is wrong
 
@@ -144,25 +144,25 @@ in-episode reports, and Abuhamdeh's review names no such study; whether
 flow's enjoyment is intrinsic pleasantness rather than goal-conduciveness
 valence needs a measure that separates them.
 
-## Note of 2026-11-22: in-episode reports, found and read (LEAD-054)
+## Note of 2026-11-22: in-episode reports, found and read ([LEAD-054](../leads.d/LEAD-054.md))
 
 The in-episode reports this claim asked for exist. A search of Europe PMC
 and arXiv, with Crossref title searches, found ten experience-sampling
 studies that report flow and affect at the same signal
 (scratch/studies/lead-054/screening.tsv); the record held none. Two were
-read. Engeser and Baumann (THEORY-tmpto8hu, NOTE-tmpoe2pz): within persons
+read. Engeser and Baumann ([THEORY-tmpto8hu](../theory.d/THEORY-tmpto8hu.md), [NOTE-tmpoe2pz](../notes.d/NOTE-tmpoe2pz.md)): within persons
 flow correlates .31 with valence and .59 with positive activation at the
 same signal, and flow at one signal does not predict valence at the next
 once concurrent flow and prior valence are controlled. Rheinberg et al.
-(THEORY-tmp8q7t4, NOTE-tmp2n8he): flow and happiness/satisfaction at the
+([THEORY-tmp8q7t4](../theory.d/THEORY-tmp8q7t4.md), [NOTE-tmp2n8he](../notes.d/NOTE-tmp2n8he.md)): flow and happiness/satisfaction at the
 signal correlate .36. So on the record's data the positivity that goes
 with flow is in the episode, and exit 3 is not supported
-(CLAIM-tmpiyf8w); the first clause of the defeated_if is not met. Both
+([CLAIM-tmpiyf8w](CLAIM-tmpiyf8w.md)); the first clause of the defeated_if is not met. Both
 readings are written as corroborating this claim. Three qualifications:
 the flow score is continuous with no enjoyment item, so these are not
 reports that flow episodes feel good; the lag is about two hours; and the
 two studies appear to share one sample. Fullagar and Kelloway
-(LIT-tmpvw1m3), unread, are reported to find flow followed by positive
+([LIT-tmpvw1m3](../literature.d/LIT-tmpvw1m3.md)), unread, are reported to find flow followed by positive
 mood. On exit 1, no measure separating intrinsic pleasantness from
 goal-conduciveness valence was found; the readings show flow going more
 with positive activation than with valence, and goal-directedness and

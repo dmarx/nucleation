@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-22, not read. Registered from the LEAD-054 search (Europe
+  filed 2026-11-22, not read. Registered from the [LEAD-054](../leads.d/LEAD-054.md) search (Europe
   PMC, query 1). Semantic Scholar lists no open copy (closed); no lawful
   copy was sought further.
 title: 'The Effect of Perceived Challenges and Skills on the Quality of Subjective Experience'
@@ -35,10 +35,10 @@ summary: >-
   Moneta and Csikszentmihalyi (1996),
   DOI-10.1111/j.1467-6494.1996.tb00512.x. An in-episode
   experience-sampling test of whether challenge-skill balance raises
-  momentary happiness, among other dimensions; here for CLAIM-441's third
+  momentary happiness, among other dimensions; here for [CLAIM-441](../claims.d/CLAIM-441.md)'s third
   exit. The abstract's report is unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpu5vec LIT-tmpu4yh1 CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-441 — new or Proposed; the readings that report this work and the claims it bears on -->
 
 # LIT-tmp9d4ht: The Effect of Perceived Challenges and Skills on the Quality of Subjective Experience
 
@@ -50,7 +50,7 @@ Giovanni B. Moneta and Mihaly Csikszentmihalyi (1996). *Journal of Personality* 
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-054 search for experience-sampling
+Registered on 2026-11-22 by the [LEAD-054](../leads.d/LEAD-054.md) search for experience-sampling
 studies of flow with affect reported during the episode
-(scratch/studies/lead-054/screening.tsv). It bears on CLAIM-441's third
+(scratch/studies/lead-054/screening.tsv). It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third
 exit, that flow's positivity comes after the episode and not during it.

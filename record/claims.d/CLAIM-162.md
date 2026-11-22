@@ -141,14 +141,14 @@ so [THEORY-1110](../theory.d/THEORY-1110.md)'s proposal would not carry it. No c
 measure taken during a flow episode, which its defeat condition asks for,
 is in the record.
 
-## Note of 2026-11-22: experience-sampling studies of flow (LEAD-054), background
+## Note of 2026-11-22: experience-sampling studies of flow ([LEAD-054](../leads.d/LEAD-054.md)), background
 
-Two experience-sampling studies read for LEAD-054 bear on this claim only
+Two experience-sampling studies read for [LEAD-054](../leads.d/LEAD-054.md) bear on this claim only
 as background. Flow is highest where the activity is clearly
-goal-directed (THEORY-tmp8q7t4) and where an outcome matters
-(THEORY-tmpto8hu, outcome importance raising flow at work), which fits an
+goal-directed ([THEORY-tmp8q7t4](../theory.d/THEORY-tmp8q7t4.md)) and where an outcome matters
+([THEORY-tmpto8hu](../theory.d/THEORY-tmpto8hu.md), outcome importance raising flow at work), which fits an
 activity's immediate reward and its longer-run value coinciding in flow;
 neither measures whether any interest is overridden. Tavares et al.
-(LIT-tmpptux6, Unfetched) report effortless attention mediating between
+([LIT-tmpptux6](../literature.d/LIT-tmpptux6.md), Unfetched) report effortless attention mediating between
 momentary states and optimal experience, by its abstract. No choice probe
 or reversal measure taken during a flow episode was found.

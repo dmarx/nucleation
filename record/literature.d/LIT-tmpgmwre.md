@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-22, not read. Registered from the LEAD-054 search (Europe
+  filed 2026-11-22, not read. Registered from the [LEAD-054](../leads.d/LEAD-054.md) search (Europe
   PMC, query 1, which indexes PsyArXiv). A PsyArXiv preprint; not fetched,
   since the lead read only the two most decisive works.
 title: 'Lead yourself to the zone and be happy: the effect of self-leadership development on flow and happiness'
@@ -35,10 +35,10 @@ implementations: []
 summary: >-
   Vargas et al. (2025), DOI-10.31234/osf.io/wfa4h_v1, a preprint.
   Experience-sampled situational flow and happiness at work; here for
-  CLAIM-441's third exit. Whether it reports the momentary flow-happiness
+  [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit. Whether it reports the momentary flow-happiness
   relation is unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpu5vec LIT-tmpu4yh1 CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-441 — new or Proposed; the readings that report this work and the claims it bears on -->
 
 # LIT-tmpgmwre: Lead yourself to the zone and be happy: the effect of self-leadership development on flow and happiness
 
@@ -50,7 +50,7 @@ Ricardo J. Vargas et al. (2025). PsyArXiv preprint. DOI-10.31234/osf.io/wfa4h_v1
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-054 search for experience-sampling
+Registered on 2026-11-22 by the [LEAD-054](../leads.d/LEAD-054.md) search for experience-sampling
 studies of flow with affect reported during the episode
-(scratch/studies/lead-054/screening.tsv). It bears on CLAIM-441's third
+(scratch/studies/lead-054/screening.tsv). It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third
 exit, that flow's positivity comes after the episode and not during it.

@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered from the reading of Rheinberg et
-  al. (LIT-tmpu5vec), which reports it, for the LEAD-054 search. No copy
+  al. ([LIT-tmpu5vec](LIT-tmpu5vec.md)), which reports it, for the [LEAD-054](../leads.d/LEAD-054.md) search. No copy
   was sought.
 title: 'Flow-Erleben in Arbeit und Freizeit'
 version: 1
@@ -37,11 +37,11 @@ implementations: []
 summary: >-
   Schallberger and Pfister (2001), DOI-10.1026//0932-4089.45.4.176. The
   replication that put the paradox of work in terms of happiness: more
-  flow at work, more happiness in leisure. Here for CLAIM-441's third
-  exit; reported by Rheinberg et al. (LIT-tmpu5vec) and unverified until
+  flow at work, more happiness in leisure. Here for [CLAIM-441](../claims.d/CLAIM-441.md)'s third
+  exit; reported by Rheinberg et al. ([LIT-tmpu5vec](LIT-tmpu5vec.md)) and unverified until
   read.
 ---
-<!-- inactive-ok-file: LIT-tmpu5vec LIT-tmpu4yh1 CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-441 — new or Proposed; the readings that report this work and the claims it bears on -->
 
 # LIT-tmps1x50: Flow-Erleben in Arbeit und Freizeit
 
@@ -49,11 +49,11 @@ Schallberger and Pfister (2001). *Zeitschrift für Arbeits- und Organisationspsy
 
 ## Key takeaways
 
-*Not read.* As Rheinberg et al. (LIT-tmpu5vec, §1.1-1.2) report it: Swiss employees sampled by ESM reported flow more often at work than in leisure, but happiness and satisfaction were stronger in leisure; and with the quadrant model the excess of flow at work goes largely back to above-average demands at work (73.4% against 36.2% of signals). Unverified until read.
+*Not read.* As Rheinberg et al. ([LIT-tmpu5vec](LIT-tmpu5vec.md), §1.1-1.2) report it: Swiss employees sampled by ESM reported flow more often at work than in leisure, but happiness and satisfaction were stronger in leisure; and with the quadrant model the excess of flow at work goes largely back to above-average demands at work (73.4% against 36.2% of signals). Unverified until read.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-054 search for experience-sampling
+Registered on 2026-11-22 by the [LEAD-054](../leads.d/LEAD-054.md) search for experience-sampling
 studies of flow with affect reported during the episode
-(scratch/studies/lead-054/screening.tsv). It bears on CLAIM-441's third
+(scratch/studies/lead-054/screening.tsv). It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third
 exit, that flow's positivity comes after the episode and not during it.

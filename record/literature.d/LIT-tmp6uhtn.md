@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-22, not read. Registered from the LEAD-054 search (Europe
+  filed 2026-11-22, not read. Registered from the [LEAD-054](../leads.d/LEAD-054.md) search (Europe
   PMC, query 4). Semantic Scholar lists no open copy (closed).
 title: 'Optimal Experience Among Teachers: New Insights Into the Work Paradox'
 version: 1
@@ -32,10 +32,10 @@ summary: >-
   Bassi and Delle Fave (2012), DOI-10.1080/00223980.2012.656156. An
   experience-sampling study of the work paradox among teachers, cited by
   Engeser and Baumann for flow as an ingredient of a happy life "without
-  necessarily being a state of happiness"; here for CLAIM-441's third
+  necessarily being a state of happiness"; here for [CLAIM-441](../claims.d/CLAIM-441.md)'s third
   exit. Unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpu5vec LIT-tmpu4yh1 CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-441 — new or Proposed; the readings that report this work and the claims it bears on -->
 
 # LIT-tmp6uhtn: Optimal Experience Among Teachers: New Insights Into the Work Paradox
 
@@ -47,7 +47,7 @@ Marta Bassi and Antonella Delle Fave (2012). *The Journal of Psychology* 146(5):
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-054 search for experience-sampling
+Registered on 2026-11-22 by the [LEAD-054](../leads.d/LEAD-054.md) search for experience-sampling
 studies of flow with affect reported during the episode
-(scratch/studies/lead-054/screening.tsv). It bears on CLAIM-441's third
+(scratch/studies/lead-054/screening.tsv). It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third
 exit, that flow's positivity comes after the episode and not during it.

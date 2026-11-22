@@ -25,8 +25,8 @@ grounds:
 - THEORY-tmpto8hu
 - THEORY-tmp8q7t4
 summary: >-
-  The assistant's, from the LEAD-054 search and its two readings
-  (THEORY-tmpto8hu, THEORY-tmp8q7t4). CLAIM-441 objects to CLAIM-440 that
+  The assistant's, from the [LEAD-054](../leads.d/LEAD-054.md) search and its two readings
+  ([THEORY-tmpto8hu](../theory.d/THEORY-tmpto8hu.md), [THEORY-tmp8q7t4](../theory.d/THEORY-tmp8q7t4.md)). [CLAIM-441](CLAIM-441.md) objects to [CLAIM-440](CLAIM-440.md) that
   flow is positive where nothing is contested, and its third exit is that
   the positivity comes only afterwards. The only in-episode data the record
   holds find flow and valence together at the signal and no lagged effect,
@@ -41,21 +41,21 @@ summary: >-
 
 ## The claim
 
-CLAIM-441 objects to CLAIM-440's condition that valence is undefined
+[CLAIM-441](CLAIM-441.md) objects to [CLAIM-440](CLAIM-440.md)'s condition that valence is undefined
 where nothing is contested: flow leaves nothing contested and is reported
 as positive. Its third exit is that the positivity is retrospective, so
 that during the episode valence is undefined, as the condition predicts.
 That exit predicts valence no higher with flow at the moment and higher
 afterwards.
 
-The two experience-sampling studies read for LEAD-054 find the reverse.
-Engeser and Baumann (THEORY-tmpto8hu): within persons flow correlates .31
+The two experience-sampling studies read for [LEAD-054](../leads.d/LEAD-054.md) find the reverse.
+Engeser and Baumann ([THEORY-tmpto8hu](../theory.d/THEORY-tmpto8hu.md)): within persons flow correlates .31
 with valence and .59 with positive activation at the same signal, and with
 concurrent flow and prior valence controlled, flow at one signal does not
-predict valence at the next. Rheinberg et al. (THEORY-tmp8q7t4): flow and
+predict valence at the next. Rheinberg et al. ([THEORY-tmp8q7t4](../theory.d/THEORY-tmp8q7t4.md)): flow and
 happiness/satisfaction at the same signal correlate .36 raw, .30 within
 person. So whatever positivity goes with flow is there during the episode,
-and the exit is not supported by the record's data. CLAIM-441 stands with
+and the exit is not supported by the record's data. [CLAIM-441](CLAIM-441.md) stands with
 exits 1, 2 and 4 open.
 
 ## What it does not say
@@ -63,20 +63,20 @@ exits 1, 2 and 4 open.
 - That flow episodes are felt as positive. The data are correlations of a
   continuous flow score, with no enjoyment item, over all sampled moments.
   High scores are absorption and fluency; whether a discrete flow episode
-  in Csikszentmihalyi's sense (NOTE-1429) feels good is not tested. Flow is
+  in Csikszentmihalyi's sense ([NOTE-1429](../notes.d/NOTE-1429.md)) feels good is not tested. Flow is
   highest at work, where valence is lower than in leisure.
 - Which valence it is. The valence measured is general pleasure. Flow goes
   more with positive activation than with valence, and goal-directedness
   and outcome importance raise flow while leaving valence flat or lowering
   it. That fits exit 1, intrinsic pleasantness and not goal-conduciveness
-  valence (CLAIM-433), without showing it. The LEAD-054 search found no
+  valence ([CLAIM-433](CLAIM-433.md)), without showing it. The [LEAD-054](../leads.d/LEAD-054.md) search found no
   measure separating the two in flow.
 - That nothing follows flow. The lag is about two hours; a positivity
-  within minutes is unseen. Fullagar and Kelloway (LIT-tmpvw1m3), unread,
+  within minutes is unseen. Fullagar and Kelloway ([LIT-tmpvw1m3](../literature.d/LIT-tmpvw1m3.md)), unread,
   are reported to find flow followed by positive mood.
 
 ## Its weakness
 
 The two studies appear to report one Potsdam sample, so they are one
 piece of evidence, not two. The unread studies the search registered
-(Tavares et al., LIT-tmpptux6, among them) could add independent samples.
+(Tavares et al., [LIT-tmpptux6](../literature.d/LIT-tmpptux6.md), among them) could add independent samples.

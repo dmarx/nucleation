@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-22, not read. Registered from the LEAD-054 search (Europe
+  filed 2026-11-22, not read. Registered from the [LEAD-054](../leads.d/LEAD-054.md) search (Europe
   PMC, query 1). Semantic Scholar lists an author's manuscript in the UWE
   Bristol repository (uwe-repository.worktribe.com, item 865262); it was
   not fetched, since the lead read only the two most decisive works.
@@ -33,10 +33,10 @@ implementations: []
 summary: >-
   Holt (2017), DOI-10.1177/1757913917739041. In-episode experience
   sampling of artists in which art-making goes with both hedonic tone and
-  flow; here for CLAIM-441's third exit. Whether it relates flow and
+  flow; here for [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit. Whether it relates flow and
   hedonic tone directly is unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpu5vec LIT-tmpu4yh1 CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-441 — new or Proposed; the readings that report this work and the claims it bears on -->
 
 # LIT-tmp84fnw: Using the experience-sampling method to examine the psychological mechanisms by which participatory art improves wellbeing
 
@@ -48,7 +48,7 @@ Nicola J. Holt (2017). *Perspectives in Public Health* 138(1): 55-65. DOI-10.117
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-054 search for experience-sampling
+Registered on 2026-11-22 by the [LEAD-054](../leads.d/LEAD-054.md) search for experience-sampling
 studies of flow with affect reported during the episode
-(scratch/studies/lead-054/screening.tsv). It bears on CLAIM-441's third
+(scratch/studies/lead-054/screening.tsv). It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third
 exit, that flow's positivity comes after the episode and not during it.

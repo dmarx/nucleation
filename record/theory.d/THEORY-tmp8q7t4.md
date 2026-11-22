@@ -21,24 +21,24 @@ source:
 corroborates:
 - CLAIM-441
 summary: >-
-  Rheinberg et al. (2007), LIT-tmpu5vec, read in NOTE-tmp2n8he. One of the
+  Rheinberg et al. (2007), [LIT-tmpu5vec](../literature.d/LIT-tmpu5vec.md), read in [NOTE-tmp2n8he](../notes.d/NOTE-tmp2n8he.md). One of the
   record's two read in-episode studies of flow and affect, both found by
-  LEAD-054. Flow and happiness/satisfaction rated at each signal correlate
+  [LEAD-054](../leads.d/LEAD-054.md). Flow and happiness/satisfaction rated at each signal correlate
   r = .36 raw, .30 within-person, so some of flow's positivity is reported
-  during the episode; it corroborates CLAIM-441's premise that flow is
+  during the episode; it corroborates [CLAIM-441](../claims.d/CLAIM-441.md)'s premise that flow is
   reported as positive, against its third exit, weakly, since the
   correlation is pooled and flow is a continuous score. The sharp edge is
   the dissociation: goal-directedness lifts flow and not happiness.
 ---
-<!-- inactive-ok-file: LIT-tmpu5vec NOTE-tmp2n8he THEORY-tmpto8hu CLAIM-441 CLAIM-440 CLAIM-tmpiyf8w — new or Proposed; the work, its reading, the companion reading and the claims it bears on -->
+<!-- inactive-ok-file: THEORY-tmpto8hu CLAIM-441 — new or Proposed; the work, its reading, the companion reading and the claims it bears on -->
 
 # THEORY-tmp8q7t4: Rheinberg, Manig, Kliegl, Engeser and Vollmeyer find by experience sampling of 101 employees, with flow measured by all its components, that flow is higher at work and happiness/satisfaction higher in leisure, that across single reports the two correlate weakly positively, and that goal-directedness of the current activity raises flow in both contexts while leaving happiness unchanged at work and lowering it in leisure; they read the paradox of work as partly an effect of how often work is goal-directed
 
 ## Source
 
 Rheinberg, Manig, Kliegl, Engeser and Vollmeyer (2007), *Zeitschrift für
-Arbeits- und Organisationspsychologie* 51(3): 105-115, LIT-tmpu5vec, read
-in NOTE-tmp2n8he.
+Arbeits- und Organisationspsychologie* 51(3): 105-115, [LIT-tmpu5vec](../literature.d/LIT-tmpu5vec.md), read
+in [NOTE-tmp2n8he](../notes.d/NOTE-tmp2n8he.md).
 
 ## What was actually shown
 
@@ -63,9 +63,9 @@ why the effect is absent at work.
 
 ## Where it bears
 
-On CLAIM-441's third exit (NOTE-tmp2n8he, "Bearing on the record"): flow
+On [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit ([NOTE-tmp2n8he](../notes.d/NOTE-tmp2n8he.md), "Bearing on the record"): flow
 and happiness are reported together at the signal, so the record's only
 in-episode data put some of flow's positivity in the episode. Weak
 evidence, since the correlation is pooled over all activities and the
-flow score has no enjoyment item. Engeser and Baumann (THEORY-tmpto8hu)
+flow score has no enjoyment item. Engeser and Baumann ([THEORY-tmpto8hu](THEORY-tmpto8hu.md))
 test the lag directly, on what appears to be the same sample.

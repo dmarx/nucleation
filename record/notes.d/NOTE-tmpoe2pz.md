@@ -24,7 +24,7 @@ summary: >-
   activation than work, which the authors take to explain the paradox of
   work; outcome importance raises flow and lowers valence.
 ---
-<!-- inactive-ok-file: LIT-tmpu4yh1 LIT-tmpu5vec LIT-tmpvw1m3 LIT-tmp6uhtn THEORY-tmpto8hu CLAIM-441 CLAIM-440 CLAIM-162 CLAIM-433 CLAIM-tmpiyf8w TERM-076 — new or Proposed; the work, its companion reading and the claims it bears on -->
+<!-- inactive-ok-file: LIT-tmpvw1m3 LIT-tmp6uhtn CLAIM-441 CLAIM-440 CLAIM-162 CLAIM-433 TERM-076 — new or Proposed; the work, its companion reading and the claims it bears on -->
 
 # NOTE-tmpoe2pz: Engeser and Baumann — Fluctuation of flow and affect in everyday life
 
@@ -110,21 +110,21 @@ afterwards that the next signal picks up.
 
 ## Connections
 
-It replicates Csikszentmihalyi and LeFevre (1989; LIT-tmp6jvaq) with a
+It replicates Csikszentmihalyi and LeFevre (1989; [LIT-tmp6jvaq](../literature.d/LIT-tmp6jvaq.md)) with a
 direct flow measure, takes up Schallberger and Pfister's (2001;
-LIT-tmps1x50) affective explanation, and cites Rheinberg et al. (2007;
-LIT-tmpu5vec) for goals. The two papers' samples match in source, size,
+[LIT-tmps1x50](../literature.d/LIT-tmps1x50.md)) affective explanation, and cites Rheinberg et al. (2007;
+[LIT-tmpu5vec](../literature.d/LIT-tmpu5vec.md)) for goals. The two papers' samples match in source, size,
 pay, age range and sex ratio, so it appears to report the same data with a
 fuller affect measure; the paper does not say so. It cites Fullagar and
-Kelloway (2009; LIT-tmpvw1m3) for "evidence that flow is associated with
+Kelloway (2009; [LIT-tmpvw1m3](../literature.d/LIT-tmpvw1m3.md)) for "evidence that flow is associated with
 subsequent positive mood", the opposite of its own lagged result, and
-Bassi and Delle Fave (2012; LIT-tmp6uhtn) and Csikszentmihalyi (1996) for
+Bassi and Delle Fave (2012; [LIT-tmp6uhtn](../literature.d/LIT-tmp6uhtn.md)) and Csikszentmihalyi (1996) for
 flow as an ingredient of a happy life "without necessarily being a state
 of happiness" (§1.4).
 
 ## Bearing on the record
 
-- **CLAIM-441, exit 3** (the positivity comes after the episode). This is
+- **[CLAIM-441](../claims.d/CLAIM-441.md), exit 3** (the positivity comes after the episode). This is
   the most direct test the record holds. Exit 3 predicts valence undefined
   or neutral during flow and positive afterwards. Here valence goes with
   flow at the same signal and is not raised at the next once that is
@@ -136,17 +136,17 @@ of happiness" (§1.4).
   episodes feel good, and a two-hour lag cannot see a positivity that
   follows within minutes. Fullagar and Kelloway's contrary finding is
   unread.
-- **CLAIM-441, exit 1 and CLAIM-433** (which valence). Valence here is
+- **[CLAIM-441](../claims.d/CLAIM-441.md), exit 1 and [CLAIM-433](../claims.d/CLAIM-433.md)** (which valence). Valence here is
   general pleasure-displeasure, so it does not separate intrinsic
   pleasantness from goal-conduciveness. Flow goes more with positive
   activation (.59) than with valence (.31), and outcome importance, the
   nearest thing here to stakes on a goal, raises flow and lowers valence.
   So flow's positivity is not carried by what is at stake. That is
   consistent with exit 1 and does not show it.
-- **CLAIM-440 and TERM-076.** A parallel: outcome importance includes worry
+- **[CLAIM-440](../claims.d/CLAIM-440.md) and [TERM-076](../terms.d/TERM-076.md).** A parallel: outcome importance includes worry
   about failing, and its lowering valence fits a sign read off threat to a
   course. No edge; nothing here measures progress.
-- **CLAIM-162.** Background: outcome importance raises flow at work, so in
+- **[CLAIM-162](../claims.d/CLAIM-162.md).** Background: outcome importance raises flow at work, so in
   flow at work the longer-run stake is present, not absent. Nothing here
   measures whether any interest is overridden.
 
@@ -154,7 +154,7 @@ of happiness" (§1.4).
 
 Correlational and pooled over activities; no isolation of flow episodes.
 Flow is a continuous score with no enjoyment item, so "flow" here is
-nearer Abuhamdeh's task involvement (NOTE-1429) than his discrete
+nearer Abuhamdeh's task involvement ([NOTE-1429](NOTE-1429.md)) than his discrete
 enjoyable flow. The lag is about two hours. The leisure transitions are
 small (n = 45 into passive and 85 into active leisure). Likely the same
 sample as Rheinberg et al., so the two are not independent.

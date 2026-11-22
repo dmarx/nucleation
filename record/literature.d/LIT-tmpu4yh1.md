@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmpoe2pz), from the published PDF posted
+  read in full 2026-11-22 ([NOTE-tmpoe2pz](../notes.d/NOTE-tmpoe2pz.md)), from the published PDF posted
   on the authors' department pages at the University of Trier. An
   experience-sampling study of 100 employees (4,504 reports) with the Flow
   Short Scale and the PANAVA affect scales at each signal. Within persons,
@@ -52,9 +52,9 @@ summary: >-
   concurrent flow and prior valence are controlled, so the positivity it
   goes with is concurrent, not subsequent. Perceived outcome importance
   raises flow and lowers valence. Here as one of the record's two read
-  in-episode studies of flow and affect, for CLAIM-441's third exit.
+  in-episode studies of flow and affect, for [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit.
 ---
-<!-- inactive-ok-file: NOTE-tmpoe2pz THEORY-tmpto8hu LIT-tmpu5vec LIT-tmpvw1m3 LIT-tmp6uhtn CLAIM-441 CLAIM-440 CLAIM-tmpiyf8w — new or Proposed; this reading, the works beside it and the claims it bears on -->
+<!-- inactive-ok-file: LIT-tmpvw1m3 CLAIM-441 — new or Proposed; this reading, the works beside it and the claims it bears on -->
 
 # LIT-tmpu4yh1: Fluctuation of Flow and Affect in Everyday Life: A Second Look at the Paradox of Work
 
@@ -79,7 +79,7 @@ Stefan Engeser and Nicola Baumann (2014). *Journal of Happiness Studies*
 ## Standing in the record
 
 The second of two in-episode studies of flow and affect the record has
-read (LEAD-054), with Rheinberg et al. (LIT-tmpu5vec), whose Potsdam
+read ([LEAD-054](../leads.d/LEAD-054.md)), with Rheinberg et al. ([LIT-tmpu5vec](LIT-tmpu5vec.md)), whose Potsdam
 sample it appears to share. Its lagged analysis is the most direct test
-the record holds of CLAIM-441's third exit. It reports Fullagar and
-Kelloway (LIT-tmpvw1m3), with the opposite lagged finding.
+the record holds of [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit. It reports Fullagar and
+Kelloway ([LIT-tmpvw1m3](LIT-tmpvw1m3.md)), with the opposite lagged finding.

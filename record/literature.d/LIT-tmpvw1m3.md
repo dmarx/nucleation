@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered by a targeted Crossref title
-  search for the LEAD-054 search; Engeser and Baumann (LIT-tmpu4yh1)
+  search for the [LEAD-054](../leads.d/LEAD-054.md) search; Engeser and Baumann ([LIT-tmpu4yh1](LIT-tmpu4yh1.md))
   report it found flow associated with subsequent positive mood. Semantic
   Scholar lists no open copy (closed).
 title: 'Flow at work: An experience sampling approach'
@@ -34,10 +34,10 @@ implementations: []
 summary: >-
   Fullagar and Kelloway (2009), DOI-10.1348/096317908x357903. Reported by
   Engeser and Baumann as finding flow followed by positive mood, the
-  pattern CLAIM-441's third exit predicts; their own data do not show it.
+  pattern [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit predicts; their own data do not show it.
   Which of the two holds is the reason to read it. Unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpu5vec LIT-tmpu4yh1 CLAIM-441 CLAIM-162 — new or Proposed; the readings that report this work and the claims it bears on -->
+<!-- inactive-ok-file: CLAIM-441 — new or Proposed; the readings that report this work and the claims it bears on -->
 
 # LIT-tmpvw1m3: Flow at work: An experience sampling approach
 
@@ -45,11 +45,11 @@ Clive J. Fullagar and E. Kevin Kelloway (2009). *Journal of Occupational and Org
 
 ## Key takeaways
 
-*Not read.* As Engeser and Baumann (LIT-tmpu4yh1, §4) report it: an experience-sampling study with 40 architecture students at their study work, finding "evidence that flow is associated with subsequent positive mood". Unverified until read.
+*Not read.* As Engeser and Baumann ([LIT-tmpu4yh1](LIT-tmpu4yh1.md), §4) report it: an experience-sampling study with 40 architecture students at their study work, finding "evidence that flow is associated with subsequent positive mood". Unverified until read.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by the LEAD-054 search for experience-sampling
+Registered on 2026-11-22 by the [LEAD-054](../leads.d/LEAD-054.md) search for experience-sampling
 studies of flow with affect reported during the episode
-(scratch/studies/lead-054/screening.tsv). It bears on CLAIM-441's third
+(scratch/studies/lead-054/screening.tsv). It bears on [CLAIM-441](../claims.d/CLAIM-441.md)'s third
 exit, that flow's positivity comes after the episode and not during it.
