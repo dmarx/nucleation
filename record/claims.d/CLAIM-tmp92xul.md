@@ -40,7 +40,7 @@ summary: >-
   test 4 must be priced on held-out interventions. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-174 CLAIM-487 CLAIM-024 — Proposed; the test this prices, the gain and the objection it bears on, open -->
+<!-- inactive-ok-file: CLAIM-174 CLAIM-487 — Proposed; the test this prices and the gain it bears on, open -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; its surviving case is one of the worlds -->
 <!-- inactive-ok-file: ARG-025 — Proposed; its third grade is the standard cited -->
 <!-- inactive-ok-file: CASE-tmpokq28 CLAIM-tmp773u9 — new; the study and the reading filed with this claim -->

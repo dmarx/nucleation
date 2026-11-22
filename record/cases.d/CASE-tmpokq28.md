@@ -37,7 +37,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-174 CLAIM-024 CLAIM-487 — Proposed; the test this prices, the objection and the gain it bears on, open -->
+<!-- inactive-ok-file: CLAIM-174 CLAIM-487 — Proposed; the test this prices and the gain it bears on, open -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; its surviving case is one of the worlds -->
 <!-- inactive-ok-file: ARG-025 — Proposed; its intervention grade is what the test is scored against -->
 <!-- inactive-ok-file: CASE-166 — Proposed; the earlier Northstar simulation, reported and not reproduced, set beside this one -->

@@ -45,7 +45,7 @@ summary: >-
   institutional one. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-024 CLAIM-487 CLAIM-174 — Proposed; the objection, the gain and the admission test this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-024 CLAIM-487 — Proposed; the objection and the gain this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-076 THEORY-1809 THEORY-1787 — Proposed; held readings of what Bratman, Polski and Ostrom, and Basurto et al. propose, used for what the theories say, not for whether it is true -->
 <!-- inactive-ok-file: THEORY-048 — Proposed; Kendler's implement-or-replace relation, which QUESTION-056 already applies -->
 <!-- inactive-ok-file: LIT-488 — Unavailable; Bratman's account of shared agency, not read, named as the reading that could change the planning verdict -->
@@ -132,5 +132,6 @@ variables, and nothing here does it.
   bears against [CLAIM-487](CLAIM-487.md)'s uniqueness. The lead's wording looks
   inverted, and this claim reads it that way.
 - **That the readings were re-read for this.** Each is used as the record
-  holds it. NOTE-1842 is Skimmed, and THEORY-1809, THEORY-1787 and
-  THEORY-076 are Proposed readings of what the authors propose.
+  holds it. Polski and Ostrom's chapter was only skimmed, and THEORY-1809,
+  THEORY-1787 and THEORY-076 are Proposed readings of what the authors
+  propose.
