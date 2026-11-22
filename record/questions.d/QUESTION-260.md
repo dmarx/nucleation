@@ -4,7 +4,13 @@ status: Open
 formerly:
 - QUESTION-tmpmzijj
 title: 'Under what conditions is an organizational perspective constitutive of an agent''s practical organization, rather than one of the perspectives that influence the agent, and can a perspective be agentic in its own right under the record''s competing criteria of agency?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-087's run of CASE-145
+    (CASE-tmpez9id) gives no example. No other change.
 tags:
 - agency
 - individuation
@@ -20,6 +26,7 @@ summary: >-
   constraint the agent works through? It refines [QUESTION-093](QUESTION-093.md), which asks
   what a coalition of processes needs before it is a higher-level agent.
 ---
+<!-- inactive-ok-file: TERM-tmpsu4df TERM-tmpo4pxh CASE-tmpez9id CLAIM-tmpjmfmd — new, filed by LEAD-087's run -->
 <!-- inactive-ok-file: TERM-063 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-260: Under what conditions is an organizational perspective constitutive of an agent's practical organization, rather than one of the perspectives that influence the agent, and can a perspective be agentic in its own right under the record's competing criteria of agency?
@@ -60,3 +67,15 @@ an entity that possesses one privileged perspective, but an organization
 capable of exercising and sometimes changing its agency across a
 plurality of perspectives". That is [CLAIM-424](../claims.d/CLAIM-424.md)'s capacity, offered as
 a criterion, and not yet argued.
+
+## Note of 2026-11-22: no example from CASE-145's run
+
+LEAD-087 ran CASE-145 (CASE-tmpez9id) to find a shared perspective with
+no collective agent, after stating what a shared perspective is beyond
+correlated responses, in two rival readings (TERM-tmpsu4df,
+TERM-tmpo4pxh). None of the simulated populations shared one by that
+criterion, so the question gets no example from it. Two things bear on
+how it could: under the evidential reading the populations were ordered
+as predicted but below the stated size, and the reason, members who
+interact only through answers about a shared world move one another
+little, is CLAIM-tmpjmfmd.

@@ -88,4 +88,27 @@ beside it.
 
 ## How to rerun
 
-(filled in once the code exists)
+From this directory, with BLAS threads set to 1:
+
+    OMP_NUM_THREADS=1 python3 -I -m pytest -q -p no:cacheprovider test_model.py
+    OMP_NUM_THREADS=1 python3 -I study.py 20      # results.jsonl, about 20 s
+    python3 -I summarize.py > summary.txt          # the verdict stated in advance
+    OMP_NUM_THREADS=1 python3 -I diagnostics.py 20 # post hoc, diagnostics.jsonl
+    python3 -I summarize_diag.py > summary_diag.txt
+
+study.py and diagnostics.py append one line per (seed, arm) and skip
+lines already written.
+
+## Result (see CASE-tmpez9id)
+
+C1 passes in every arm. C2 fails in every arm: unperturbed members move
+by at most 0.019 of the deviation (threshold 0.05), though S's recovery
+beats the independent arm by 0.11-0.55 in the interacting arms.
+Evidential sigma 0.025 [0.017, 0.033], below 0.05, ahead of conform
+paired. Conform passes the restorative C3 (rho 0.024), so that reading
+fails A4's test by the rule stated above. CA: vote about 0.63 in every
+arm, none about 0.01. Departures from the predictions: conform, enforce
+and evidential were predicted to pass C2; evidential to pass C3
+(evidential); conform to fail C3 (restorative). Also: the signed max in
+C2 misses dependence of negative sign (evidential s_u < 0); with |s| it
+still fails.

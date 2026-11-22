@@ -55,9 +55,13 @@ question (perspective vs common-cause coactivity); TERM-072's defeater
   max in C2 as stated misses dependence of that sign; with |s| it still
   fails.
 
+- Filed CASE-tmpez9id (executed-study, variant_of CASE-145),
+  CLAIM-tmpupq89, CLAIM-tmpjmfmd; dated notes on CASE-145, CLAIM-418,
+  QUESTION-260, LEAD-087 (operationalized_in CASE-tmpez9id); changelog
+  fragment lead-087.md.
+
 ## Next
 
-- File CASE (executed-study, variant_of CASE-145), CLAIMs, notes on
-  CASE-145, CLAIM-418, QUESTION-260, LEAD-087, changelog.
+- Report to the coordinator. Nothing else in hand.
 - File CASE (executed-study), CLAIM if warranted, notes on CASE-145,
   CLAIM-418, QUESTION-260, LEAD-087; changelog fragment.
