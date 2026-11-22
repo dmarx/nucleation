@@ -76,9 +76,7 @@ is logged in search.md. Services: Europe PMC REST, arXiv, OpenAlex, no email.
 
 ## Next
 
-- Read Brascamp 2015 (PMC4603386) via Europe PMC fullTextXML
-- Read Kapoor 2022 (PMC8940963)
-- Read Pinto 2017 (OUP free PDF)
-- NOTE + THEORY per reading, LIT to Active
-- Dated notes on QUESTION-048, QUESTION-061, CLAIM-003, CLAIM-039, THEORY-091,
-  THEORY-094, LEAD-112; changelog fragment
+- All steps in scope are done; the report goes to the lead.
+- For a later worker: read Phillips 2021 (PsyArXiv gdk6m) first, then the other
+  Deferred registrations; Pinto 2017 needs the owner's copy; Frässle 2014 unread;
+  a wider search (OpenAlex, citation chasing from Brascamp 2015).
