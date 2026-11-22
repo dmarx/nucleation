@@ -40,8 +40,15 @@ CLAIM-263, CLAIM-187, QUESTION-312 and curation entries mention it).
 - Step 1 check (not held).
 - lb.py + test_lb.py (13 pass); run.py (e1, e2), results_e*.jsonl written
   per item, resumable.
+- e1 (100 pairs) and e2 (45 pairs) complete; summary.md generated. A first
+  run was stopped and discarded after the full-group search was changed
+  from midpoint-only to t = 1/4, 1/2, 3/4.
+- Filed: CASE-tmphfmrb (executed study), CLAIM-tmpr7v4j (finding),
+  CLAIM-tmpv22hv / CLAIM-tmp46m6e (alternative readings for the owner);
+  dated notes on LEAD-157, QUESTION-069, CLAIM-263, CLAIM-187, THEORY-108;
+  changelog fragment record/changelog.d/lead-157.md.
 
 ## Next
 
-- Finish e1/e2 runs (started 17:10 UTC); analyse; file CASE, CLAIM(s),
-  dated notes on CLAIM-263, CLAIM-187, QUESTION-069, LEAD-157; changelog.
+- Nothing in this lead's toy scope. Remaining: a probe on which the two cues
+  disagree; a rerun at real scale; Yang et al.'s actual phase III.

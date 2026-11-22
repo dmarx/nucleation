@@ -46,6 +46,7 @@ summary: >-
 bears_on:
 - QUESTION-069
 ---
+<!-- inactive-ok-file: CASE-tmphfmrb CLAIM-tmpr7v4j CLAIM-tmpv22hv CLAIM-tmp46m6e — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-078 — Proposed; named in Connections for what endpoint curvature measures, nothing here rests on them -->
 
@@ -216,3 +217,17 @@ statistical-mechanics names, in step size and initial weight scale rather
 than load and temperature; the authors note their names are borrowed, the
 spectral boundary being a BBP threshold and the other "an optimisation
 threshold". They do not cite this work. No relation.
+
+## Note of 2026-11-22: a toy analogue of the aligned phase-III test
+
+LEAD-157 ran a small analogue of this reading's grid (CASE-tmphfmrb): numpy
+MLPs, widths 4 to 64 against batch sizes 256, 32 and 8, with the top
+Hessian eigenvalue as the local measure. One cell came out flat and poorly
+connected on an unaligned Bezier curve (width 6, batch 8; 0.068 training
+error). After permutation alignment the curve's barrier fell to 0.003,
+while the aligned straight line kept 0.067. The cell's test error (0.013)
+stayed above the flat, connected cells' (0.002 to 0.004). That is the
+pattern this reading's promote_when names as refuting, "connected once
+aligned while their accuracy deficit stays", but only on a fitted curve,
+and in a toy with one cell, far from the second group's measurement on
+another architecture that promote_when asks for. No status change.
