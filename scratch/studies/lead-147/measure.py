@@ -169,7 +169,7 @@ def stage_hier(counts, vocab, nltk_data):
                       "r2_cv_permuted": [float(v) for v in nulls]})
     # linear probes on a spectral embedding of the noun PMI rows
     E300, _ = embed(Y, 300)
-    for r in (10, 30, 100, 300):
+    for r in (10, 30, 100):  # rank 300 dropped for time on 2026-11-22
         E = E300[:, :r]
         A = np.hstack([E, np.ones((len(E), 1))])
         for j in range(X.shape[1]):
