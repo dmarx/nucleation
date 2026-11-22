@@ -21,10 +21,10 @@ summary: >-
   and the owner's next turn (U19) adds concentration of measure as the
   baseline any such model has to beat ([CLAIM-822](../claims.d/CLAIM-822.md)).
 ---
-<!-- inactive-ok-file: NOTE-tmpcjw5n LIT-tmpu2kk5 — Skimmed, Deferred or new; readings of 2026-11-22 and Cassi, registered -->
-<!-- inactive-ok-file: CLAIM-799 THEORY-tmpcij35 THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: NOTE-2285 LIT-3061 — Skimmed, Deferred or new; readings of 2026-11-22 and Cassi, registered -->
+<!-- inactive-ok-file: CLAIM-799 THEORY-2170 THEORY-2171 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CLAIM-822 CLAIM-798 CLAIM-818 CLAIM-842 TERM-136 CLAIM-797 CLAIM-838 THEORY-1095 THEORY-2051 THEORY-209 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
-<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # QUESTION-515: What follows if the representational manifold a deep network learns, a high-dimensional system, is modelled as an active-matter system?
 
@@ -78,7 +78,7 @@ layer width ([CLAIM-842](../claims.d/CLAIM-842.md); the senses are [TERM-136](..
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)): **leaves
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-2260](../notes.d/NOTE-2260.md), [THEORY-2171](../theory.d/THEORY-2171.md)): **leaves
 the question open.** The paper establishes a BBP outlier transition in a
 solvable training model and speaks of "the notion of criticality arising
 during optimisation itself", but says nothing of active matter and leaves
@@ -87,14 +87,14 @@ learning systems" unclear.
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)): **leaves
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-2258](../notes.d/NOTE-2258.md), [THEORY-2170](../theory.d/THEORY-2170.md)): **leaves
 the question open.** One gradient step and no dynamics; the spiked picture
 of learned features is a theorem there, which supports only the claim that
 the spectral perspective is not merely an analogy ([CLAIM-799](../claims.d/CLAIM-799.md)).
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **background;
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-2277](../notes.d/NOTE-2277.md), [THEORY-2188](../theory.d/THEORY-2188.md)): **background;
 leaves it open.** It gives the "forces" half of A29 §2's particle picture
 an explicit population form for contrastive objectives: an alignment field
 and a partition field that is a mean field through the representation's
@@ -105,7 +105,7 @@ energy even for two modalities ([CLAIM-798](../claims.d/CLAIM-798.md)'s note). N
 ## Note of 2026-11-22: Toner and Tu (1998), and the Mermin–Wagner neighbours, read
 
 **Background, no edge.** Toner and Tu's long paper ([LIT-2970](../literature.d/LIT-2970.md),
-[NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md)) names what an active-matter model of a representation
+[NOTE-2285](../notes.d/NOTE-2285.md)) names what an active-matter model of a representation
 would have to carry over before its results transfer: self-propulsion
 through a medium that singles out a frame (no Galilean invariance, no
 momentum conservation), rotation invariance, a conserved density, and
@@ -113,8 +113,8 @@ convective transport that changes who interacts with whom; it is these,
 out of equilibrium, that remove the 2D logarithm and give true order. It
 says nothing of representations. And the criterion of [CLAIM-842](../claims.d/CLAIM-842.md), which
 "What would count as an answer" cites, is now held in the literature as a
-theorem for spin models in equilibrium (Cassi, [LIT-tmpu2kk5](../literature.d/LIT-tmpu2kk5.md), through
-Gelfert and Nolting, [LIT-tmpbgf6y](../literature.d/LIT-tmpbgf6y.md)), with conditions (a local continuous
+theorem for spin models in equilibrium (Cassi, [LIT-3061](../literature.d/LIT-3061.md), through
+Gelfert and Nolting, [LIT-3057](../literature.d/LIT-3057.md)), with conditions (a local continuous
 symmetry, equilibrium, finite second moments) an active-matter reading
 would break: the flock is the worked case where breaking equilibrium
 reverses the conclusion ([CLAIM-842](../claims.d/CLAIM-842.md)'s section of 2026-11-22). No status

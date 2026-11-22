@@ -1,7 +1,7 @@
 ### Added
 
 - CASE-tmpd80em (Proposed, executed-study), the build LEAD-015 asks for: two
-  of CASE-tmpz4n6b's reduced meaning–influence institutions, an evaluator and
+  of CASE-363's reduced meaning–influence institutions, an evaluator and
   an evaluated party, coupled through the evidence and resources the party
   supplies and the standing and evidence the evaluator's reading confers,
   linearized at symmetry and checked against the nonlinear map and the

@@ -48,7 +48,7 @@ summary: >-
   necessary, and whether the others come apart, is open, and r/place
   ([CASE-079](../cases.d/CASE-079.md)) offers coalitions on which to test it.
 ---
-<!-- inactive-ok-file: THEORY-tmpk0h4i THEORY-tmpi08qh — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
+<!-- inactive-ok-file: THEORY-2273 THEORY-2275 — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-174 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-170 QUESTION-009 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
@@ -142,12 +142,12 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: entrenchment and reproducers, read
 
-Read for [LEAD-176](../leads.d/LEAD-176.md). Wimsatt and Schank 2004 ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md),
-[THEORY-tmpk0h4i](../theory.d/THEORY-tmpk0h4i.md)) define generative entrenchment as downstream reach in a
+Read for [LEAD-176](../leads.d/LEAD-176.md). Wimsatt and Schank 2004 ([LIT-3138](../literature.d/LIT-3138.md),
+[THEORY-2273](../theory.d/THEORY-2273.md)) define generative entrenchment as downstream reach in a
 causal graph that may contain cycles, so entrenchment can hold without
 organizational closure, which supports [CLAIM-531](../claims.d/CLAIM-531.md)'s answer to the closure
-part of this question. Wilkins and Bourrat's SEP entry ([LIT-tmp460ih](../literature.d/LIT-tmp460ih.md),
-[THEORY-tmpi08qh](../theory.d/THEORY-tmpi08qh.md)) reports Griesemer's reproducer as fixing no level in
+part of this question. Wilkins and Bourrat's SEP entry ([LIT-3140](../literature.d/LIT-3140.md),
+[THEORY-2275](../theory.d/THEORY-2275.md)) reports Griesemer's reproducer as fixing no level in
 advance, a unit picked out by development and material overlap rather
 than by individuality, which bears on whether a coalition can be
 identified as a candidate before it is an individual. Both are written

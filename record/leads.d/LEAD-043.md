@@ -48,9 +48,9 @@ over loss, bearing on [CLAIM-697](../claims.d/CLAIM-697.md); true loss supports 
 capability is overwritten.
 
 ## Note of 2026-11-22: a toy-scale run, done
-<!-- inactive-ok-file: CASE-tmprir2y CLAIM-tmp2eemo CLAIM-tmpqvkag CLAIM-698 — new or Proposed; the run of this lead, the claims filed from it, and the claim the design's untested prediction is for -->
+<!-- inactive-ok-file: CASE-371 CLAIM-966 CLAIM-967 CLAIM-698 — new or Proposed; the run of this lead, the claims filed from it, and the claim the design's untested prediction is for -->
 
-A delegated worker ran a toy-scale stand-in for [CASE-274](../cases.d/CASE-274.md) on CPU (numpy; torch is not installed), filed as [CASE-tmprir2y](../cases.d/CASE-tmprir2y.md), with the findings as [CLAIM-tmp2eemo](../claims.d/CLAIM-tmp2eemo.md) (what the forgetting was) and [CLAIM-tmpqvkag](../claims.d/CLAIM-tmpqvkag.md) (why the matched world is needed). Scripts, tests, per-item results and the analysis are under scratch/studies/lead-043/.
+A delegated worker ran a toy-scale stand-in for [CASE-274](../cases.d/CASE-274.md) on CPU (numpy; torch is not installed), filed as [CASE-371](../cases.d/CASE-371.md), with the findings as [CLAIM-966](../claims.d/CLAIM-966.md) (what the forgetting was) and [CLAIM-967](../claims.d/CLAIM-967.md) (why the matched world is needed). Scripts, tests, per-item results and the analysis are under scratch/studies/lead-043/.
 
 Done:
 - A two-layer transformer memorized 256 random facts under two query templates; 32 were fine-tuned away in nine arms (unlearning to uniform, gradient ascent and overwriting, each at one cue and at two; ascent also stopped at its criterion; an unrelated new task without rehearsal), 4 seeds (2 for early ascent), each with a twin trained on a world that differs only in the target values.

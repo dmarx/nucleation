@@ -54,9 +54,9 @@ the others locates where maintenance is realized, for [CLAIM-522](../claims.d/CL
 
 ## Note of 2026-11-22: carried out in reduced form
 
-<!-- inactive-ok-block: CASE-tmpl0ccq CLAIM-tmpqaqtx — new; the run of LEAD-048 and the claim drawn from it -->
-Carried out by a delegated worker on 2026-11-22. [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md) is the run
-and [CLAIM-tmpqaqtx](../claims.d/CLAIM-tmpqaqtx.md) the claim drawn from it. The code, tests and results are
+<!-- inactive-ok-block: CASE-332 CLAIM-901 — new; the run of LEAD-048 and the claim drawn from it -->
+Carried out by a delegated worker on 2026-11-22. [CASE-332](../cases.d/CASE-332.md) is the run
+and [CLAIM-901](../claims.d/CLAIM-901.md) the claim drawn from it. The code, tests and results are
 in scratch/studies/lead-048/, written for reuse by [LEAD-140](LEAD-140.md).
 
 **Done.** The reference apparatus was run in every combination of

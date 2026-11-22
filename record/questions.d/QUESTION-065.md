@@ -46,7 +46,7 @@ A result for a system that is not a lattice, such as coupled agents. It would sh
 
 [LEAD-137](../leads.d/LEAD-137.md) built the coupled-agent system this question calls for — a
 linear Gaussian VAR(1) on communities laid on a path, random within, so not a
-lattice — and compared the two variables ([CASE-tmpoeu1o](../cases.d/CASE-tmpoeu1o.md), [CLAIM-tmpzdcl1](../claims.d/CLAIM-tmpzdcl1.md)).
+lattice — and compared the two variables ([CASE-375](../cases.d/CASE-375.md), [CLAIM-970](../claims.d/CLAIM-970.md)).
 The answer is the second branch, divergence, for the generic case. The
 variable most informative about the far environment across a buffer and
 [CLAIM-157](../claims.d/CLAIM-157.md)'s gap-isolated block coincide on a lattice-like homogeneous

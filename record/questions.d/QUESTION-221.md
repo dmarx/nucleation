@@ -124,10 +124,10 @@ non-implication as stated. It is one of the cells [QUESTION-252](QUESTION-252.md
 to be filled.
 
 ## Note of 2026-11-22: the aggregate's dependence, linear Gaussian VAR(1), one step
-<!-- inactive-ok-file: CASE-tmp2l6id CLAIM-tmpllgpb — new; filed from LEAD-178 -->
+<!-- inactive-ok-file: CASE-381 CLAIM-980 — new; filed from LEAD-178 -->
 
 [LEAD-178](../leads.d/LEAD-178.md) worked the aggregate's dynamical dependence itself, which this
-question had left open. [CLAIM-tmpllgpb](../claims.d/CLAIM-tmpllgpb.md) (demonstrated, Proposed) offers:
+question had left open. [CLAIM-980](../claims.d/CLAIM-980.md) (demonstrated, Proposed) offers:
 
 - **A two-sided bound for any linear aggregate Y = LX.** With G = LΣLᵀ,
   T lies between ½ log det(I + G⁻¹ LA Σ_|L AᵀLᵀ) and the same with the
@@ -144,7 +144,7 @@ question had left open. [CLAIM-tmpllgpb](../claims.d/CLAIM-tmpllgpb.md) (demonst
   a nearly decomposable family whose dependence stays bounded away from
   zero.
 
-[CASE-tmp2l6id](../cases.d/CASE-tmp2l6id.md) is the study (600 items, exact covariances). The claim
+[CASE-381](../cases.d/CASE-381.md) is the study (600 items, exact covariances). The claim
 bears on this question and is not filed as answering it: the longer
 horizon this question also asks for was not bounded. Whether the class
 part is split off as Answered under [ADR-049](../decisions.d/ADR-049.md) is the owner's call. Markov

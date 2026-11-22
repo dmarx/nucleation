@@ -56,5 +56,5 @@ exact.
 Background, by contrast. Off the decoupled set in a two-layer nonlinear
 network, Wei and colleagues find plateaus of a kind the depth law does not
 describe: a noise-driven walk along a line of models with coinciding
-hidden units, with no derived duration ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md)). It does not bear
+hidden units, with no derived duration ([NOTE-2254](../notes.d/NOTE-2254.md)). It does not bear
 on depth.

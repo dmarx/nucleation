@@ -29,23 +29,23 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: LEAD-065 run; Ito and Kaneko's core is
-    refilled when removed and recovered when made rare (CASE-tmpvn7wm,
-    CLAIM-tmpf11gs). The question is unchanged.
+    refilled when removed and recovered when made rare (CASE-313,
+    CLAIM-875). The question is unchanged.
 - version: 6
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: LEAD-049's restricted theorem
-    (CLAIM-tmp6kclm) and counterexample (CLAIM-tmpdsv4t), checked in
-    CASE-tmp5sk3q. With residents frozen, recovery is assured under the
+    (CLAIM-885) and counterexample (CLAIM-886), checked in
+    CASE-322. With residents frozen, recovery is assured under the
     theorem's conditions; against residents that re-adapt it can fail.
     The question is unchanged.
 - version: 7
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: LEAD-016's run of CASE-117
-    (CASE-tmpnti0m); the recovery exponent at rarity under
-    softmax-gradient routing (CLAIM-tmp1u4m3); refill pre-empts
-    recovery (CLAIM-tmp1jz5w). The question is unchanged.
+    (CASE-341); the recovery exponent at rarity under
+    softmax-gradient routing (CLAIM-918); refill pre-empts
+    recovery (CLAIM-919). The question is unchanged.
 tags:
 - complex-systems
 - ecology
@@ -67,9 +67,9 @@ summary: >-
   coexistence and exclusion. Heterogeneous embeddings, unequal routing
   weights or persistent expert identities do not answer it.
 ---
-<!-- inactive-ok-file: CASE-tmpnti0m CLAIM-tmp1u4m3 CLAIM-tmp1jz5w — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
-<!-- inactive-ok-file: CLAIM-tmp6kclm CLAIM-tmpdsv4t CASE-tmp5sk3q — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
-<!-- inactive-ok-file: CASE-tmpvn7wm CLAIM-tmpf11gs — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-341 CLAIM-918 CLAIM-919 — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
+<!-- inactive-ok-file: CLAIM-885 CLAIM-886 CASE-322 — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-313 CLAIM-875 — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; Chesson's stabilizing mechanisms, cited as the source of the first outcome's name, not reached, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1826 LIT-1827 — Unfetched and Unavailable since 2026-10-29; Chesson 1990 and 1994, cited in the note of that date as not read, nothing here rests on them -->
@@ -304,7 +304,7 @@ An analogy only ([NOTE-2164](../notes.d/NOTE-2164.md)): Hessel, Tan and Lee's "c
 ## Note of 2026-11-22: the candidate case tested
 
 The note of 2026-10-29 left Ito and Kaneko ([LIT-1842](../literature.d/LIT-1842.md)) as a candidate
-case and named a cheap test, which [LEAD-065](../leads.d/LEAD-065.md) has now run ([CASE-tmpvn7wm](../cases.d/CASE-tmpvn7wm.md),
+case and named a cheap test, which [LEAD-065](../leads.d/LEAD-065.md) has now run ([CASE-313](../cases.d/CASE-313.md),
 12 seeds at the paper's parameter point).
 
 - Delete the whole core, and former periphery units form a new one of
@@ -314,7 +314,7 @@ case and named a cheap test, which [LEAD-065](../leads.d/LEAD-065.md) has now ru
   own members regain it.
 
 So the asymmetry is not held by its first holders' early advantage.
-[CLAIM-tmpf11gs](../claims.d/CLAIM-tmpf11gs.md) files two readings for the owner. In one, this is the first
+[CLAIM-875](../claims.d/CLAIM-875.md) files two readings for the owner. In one, this is the first
 outcome at the level of roles. In the other, it is a fourth outcome the
 question does not name: a differentiation that regenerates around
 interchangeable holders, with no niche for any particular specialist. The
@@ -333,13 +333,13 @@ up to their traits. The whole system is a gradient flow of [CLAIM-369](../claims
 objective L.
 
 - **Sufficient conditions for a stable differentiated equilibrium**
-  ([CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md), Theorem A). Each trait is interior and stationary, or
+  ([CLAIM-885](../claims.d/CLAIM-885.md), Theorem A). Each trait is interior and stationary, or
   held at its bound by a strictly outward gradient. The Hessian of L on the
   free coordinates is positive definite. That Hessian contains the Gram
   matrix, so the specialists' niche vectors must be linearly independent.
   An equilibrium in which two present operators share a trait is never
   asymptotically stable. Exactly identical operators stay identical. In
-  [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)'s Gaussian-niche runs, operators started 10⁻³ apart
+  [CASE-322](../cases.d/CASE-322.md)'s Gaussian-niche runs, operators started 10⁻³ apart
   differentiate to equilibria meeting these conditions whenever the
   niche space has room for them all (22 of 27 runs). With too many, some
   pair up on near-identical traits.
@@ -349,11 +349,11 @@ objective L.
   that community is unique at fixed traits.
 - **Recovery against re-adapted residents** (Theorem C). It is positive if
   the frozen −i community itself meets Theorem A. Otherwise it can fail.
-  [CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md) gives a two-resource trade-off in which a stable pair of
+  [CLAIM-886](../claims.d/CLAIM-886.md) gives a two-resource trade-off in which a stable pair of
   specialists coexists with a stable lone generalist. A specialist
   returning against that generalist has growth −c/5. A lone resident
   leaves its corner for the vacated resource whenever c/B < a'(0)/a'(1),
-  and in [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)'s runs it then ends at the generalist. In the
+  and in [CASE-322](../cases.d/CASE-322.md)'s runs it then ends at the generalist. In the
   Gaussian-niche runs the condition never held, since residents always
   moved into the vacancy. Recovery stayed positive, but at a median 0.29
   of the frozen rate.
@@ -372,7 +372,7 @@ measurements part: frozen residents give positive recovery, re-adapted
 ones negative. Its third outcome appears in an unexpected form, an
 alternative stable state of one generalist that removal can tip the
 system into. Whether that is "entrenched asymmetry" or a further outcome
-is left to the owner ([CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md)).
+is left to the owner ([CLAIM-886](../claims.d/CLAIM-886.md)).
 
 Not attempted: asymmetric interactions, delayed adaptation ([THEORY-548](../theory.d/THEORY-548.md)),
 influence-dependent training ([QUESTION-134](QUESTION-134.md)), invasion graphs with
@@ -382,7 +382,7 @@ The question is unchanged and stays Open.
 
 ## Note of 2026-11-22: operators with functions, recovery when rare, and refill
 
-[LEAD-016](../leads.d/LEAD-016.md) ran a reduced version of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)). It used
+[LEAD-016](../leads.d/LEAD-016.md) ran a reduced version of [CASE-117](../cases.d/CASE-117.md) ([CASE-341](../cases.d/CASE-341.md)). It used
 linear operators identical but for initialization, with four contexts, one
 rare. Every rule tried differentiated them into one specialist per context,
 the rare one included.
@@ -393,7 +393,7 @@ the rare one included.
   at a rate that does not depend on its starting share. It also recovered
   under ordinary mixture-of-experts gating, but at a rate proportional to
   that share, and not from 10⁻⁵ within the window.
-- **A caution for this question's λ_i.** [CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md) derives the
+- **A caution for this question's λ_i.** [CLAIM-918](../claims.d/CLAIM-918.md) derives the
   proportionality. Under any softmax router trained by gradient, the
   recovery exponent at rarity tends to a value that does not depend on
   the operator's competence. A balancing loss in the gradient does not
@@ -403,12 +403,12 @@ the rare one included.
   context. The multiplicative rule drove it out.
 - **With two spare operators.** A spare refilled a removed specialist's
   niche every time. It also took the niche of a suppressed specialist,
-  which then stayed shut out with its competence intact ([CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)).
+  which then stayed shut out with its competence intact ([CLAIM-919](../claims.d/CLAIM-919.md)).
   The rare specialist's recovery was near zero where a spare had
   co-learned its job (residual direction d² ≈ 0).
 
-[CLAIM-tmpf11gs](../claims.d/CLAIM-tmpf11gs.md)'s two readings return here, now with a functional niche. The
-role is regenerated, but its particular holder is not kept. [CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)
+[CLAIM-875](../claims.d/CLAIM-875.md)'s two readings return here, now with a functional niche. The
+role is regenerated, but its particular holder is not kept. [CLAIM-919](../claims.d/CLAIM-919.md)
 files the same two readings for the owner.
 
 The question is unchanged and stays Open.

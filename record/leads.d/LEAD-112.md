@@ -26,7 +26,7 @@ summary: >-
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-003 CLAIM-039 — Proposed; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: LIT-tmpblnvk — Unfetched; the work whose copy was refused, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: LIT-3091 — Unfetched; the work whose copy was refused, cited in the note of 2026-11-22 -->
 
 # LEAD-112: Find cases where access and experience come apart and each kind of evidence follows one of them: superblindsight, inconspicuous rivalry recorded intracranially, a marker accepted in advance
 
@@ -59,12 +59,12 @@ scratch/studies/lead-112/):
   in search.md. OpenAlex refused the first call with HTTP 429 and was not
   used again.
 - Registered eleven works: ten found by the search and one stand-in.
-- Read three: Brascamp, Blake and Knapen 2015 ([NOTE-tmprcujk](../notes.d/NOTE-tmprcujk.md)); Kapoor et
-  al. 2022 ([NOTE-tmplluya](../notes.d/NOTE-tmplluya.md)); de Haan et al. 2020 ([NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md)), as the
+- Read three: Brascamp, Blake and Knapen 2015 ([NOTE-2317](../notes.d/NOTE-2317.md)); Kapoor et
+  al. 2022 ([NOTE-2318](../notes.d/NOTE-2318.md)); de Haan et al. 2020 ([NOTE-2319](../notes.d/NOTE-2319.md)), as the
   stand-in for Pinto et al. 2017, whose free PDF was behind a Cloudflare
-  challenge ([LIT-tmpblnvk](../literature.d/LIT-tmpblnvk.md), Unfetched).
+  challenge ([LIT-3091](../literature.d/LIT-3091.md), Unfetched).
 - Dated notes on [QUESTION-048](../questions.d/QUESTION-048.md), [QUESTION-061](../questions.d/QUESTION-061.md), [CLAIM-003](../claims.d/CLAIM-003.md), [CLAIM-039](../claims.d/CLAIM-039.md),
-  [THEORY-091](../theory.d/THEORY-091.md) and [THEORY-094](../theory.d/THEORY-094.md); [ARG-tmpymket](../arguments.d/ARG-tmpymket.md) on the split brain and [CLAIM-003](../claims.d/CLAIM-003.md).
+  [THEORY-091](../theory.d/THEORY-091.md) and [THEORY-094](../theory.d/THEORY-094.md); [ARG-202](../arguments.d/ARG-202.md) on the split brain and [CLAIM-003](../claims.d/CLAIM-003.md).
 
 Found: for the deficit, no-report and report kinds the search reached,
 every case follows access and leaves experience undetermined. No

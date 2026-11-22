@@ -16,8 +16,8 @@ complements:
 - TERM-142
 draws_on:
 - THEORY-777
-- THEORY-tmpo3w5v
-- THEORY-tmpaojie
+- THEORY-2202
+- THEORY-2197
 summary: >-
   The classification the record already uses without stating it
   ([THEORY-777](../theory.d/THEORY-777.md), [THEORY-789](../theory.d/THEORY-789.md), [QUESTION-205](../questions.d/QUESTION-205.md), [QUESTION-232](../questions.d/QUESTION-232.md), [SYNTHESIS-084](../syntheses.d/SYNTHESIS-084.md) speak
@@ -32,7 +32,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: THEORY-tmpo3w5v THEORY-tmpdcfxq THEORY-tmpaojie NOTE-tmpurjns — Proposed, Skimmed or new; readings of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2202 THEORY-2198 THEORY-2197 NOTE-2295 — Proposed, Skimmed or new; readings of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-777 THEORY-789 SYNTHESIS-084 — Proposed; the record's existing uses of "relevant" that this term states -->
 <!-- inactive-ok-file: TERM-142 CLAIM-850 ARG-129 — filed with this term on 2026-11-21 -->
 
@@ -125,15 +125,15 @@ Two readings of 2026-11-22 give the term's sense in cases the Examples
 lack; both are `draws_on`.
 
 - **A coupling whose relevance turns on dimension.** In the KPZ equation
-  (Kardar, Parisi and Zhang, [LIT-2978](../literature.d/LIT-2978.md), [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md); [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md))
+  (Kardar, Parisi and Zhang, [LIT-2978](../literature.d/LIT-2978.md), [NOTE-2287](../notes.d/NOTE-2287.md); [THEORY-2202](../theory.d/THEORY-2202.md))
   the nonlinearity λ is relevant in d = 1, "marginally relevant, and
   grows under rescaling" in d = 2, and "irrelevant" when small for d ≥ 3
   (pp. 891–892), from dλ̄/dl = ((2 − d)/2)λ̄ + K_d((2d − 3)/4d)λ̄³. Above
   two dimensions a fixed point at finite coupling separates the two
-  basins (Le Doussal, [THEORY-tmpdcfxq](../theory.d/THEORY-tmpdcfxq.md)): one perturbation, three verdicts,
+  basins (Le Doussal, [THEORY-2198](../theory.d/THEORY-2198.md)): one perturbation, three verdicts,
   by dimension.
 - **A line of fixed points.** In the 2D XY model (Drouin-Touchette,
-  [LIT-tmp6hh1r](../literature.d/LIT-tmp6hh1r.md), [NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md); [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md)) the vortex fugacity y is
+  [LIT-3055](../literature.d/LIT-3055.md), [NOTE-2295](../notes.d/NOTE-2295.md); [THEORY-2197](../theory.d/THEORY-2197.md)) the vortex fugacity y is
   irrelevant below T_KT and relevant above, and the stiffness K is
   marginal along the line, "a line of fixed points at which y0 = 0"
   (§3.3), so the phase is a family of fixed points, each with no relevant

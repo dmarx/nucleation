@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-22'
   note: >-
-    After the reading of LIT-2972 (NOTE-tmp923nm, THEORY-tmpwtoad), which
+    After the reading of LIT-2972 (NOTE-2257, THEORY-2174), which
     confirms the attribution. Added in place: Stringer's Corollary 3.1
     rules out α ≤ 1 asymptotically for a code with a continuous kernel
     that keeps finite variance, so the rows α ≤ 1 describe codes whose
@@ -36,7 +36,7 @@ bears_on:
 uses:
 - TERM-136
 grounds:
-- THEORY-tmpwtoad
+- THEORY-2174
 summary: >-
   A30 §5 of the exchange "Rich Get Richer Power Laws" (2026-11-21), with
   the power-law spectrum of A29 §7: the Gaussian annulus generalizes to
@@ -49,8 +49,8 @@ summary: >-
   A29 and A30); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-848 TERM-136 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmpwtoad ARG-tmpbad4y — Proposed or new; the reading of Stringer and colleagues and the argument on its bound, 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2174 ARG-169 — Proposed or new; the reading of Stringer and colleagues and the argument on its bound, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-847: For a Gaussian representation the relative spread of the squared norm is √(2/D_PR), with D_PR the covariance participation ratio, so concentration is set by effective rather than ambient dimension; under a rank power-law spectrum λ_j ∝ j^−α, D_PR grows as D for α below 1/2, as D/log D at 1/2, as D^(2(1−α)) between 1/2 and 1, as (log D)² at 1, and tends to a constant above 1
 
@@ -68,7 +68,7 @@ layer gives D_PR ≈ 20 ([TERM-136](../terms.d/TERM-136.md)).
 
 **Power-law spectra set how it scales.** A29 §7 recalls covariance spectra
 λ_j ∝ j^(−α), observed in neural population responses (Stringer and
-colleagues, [LIT-2972](../literature.d/LIT-2972.md), read 2026-11-22 as [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)), with residual
+colleagues, [LIT-2972](../literature.d/LIT-2972.md), read 2026-11-22 as [THEORY-2174](../theory.d/THEORY-2174.md)), with residual
 variance beyond rank k ∝ k^(1−α) for α > 1. A30 §5 then gives, for
 D_PR = (Σ_(j≤D) j^(−α))²/Σ_(j≤D) j^(−2α):
 
@@ -124,18 +124,18 @@ of Stringer updated to the reading.
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md)) were read ([NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md),
-[THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)). **Supports the attribution, as background.** The
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md)) were read ([NOTE-2257](../notes.d/NOTE-2257.md),
+[THEORY-2174](../theory.d/THEORY-2174.md)). **Supports the attribution, as background.** The
 spectrum is a power law with exponent "just above 1 (1.04±0.02 SE ...)",
 fitted over ranks 11 to 500, and the residual variance k^(1−α) is the
 tail-sum device of the supplement's Theorem 4. **Adds** the restriction
 above: Corollary 3.1 rules out α ≤ 1 asymptotically for codes keeping
 finite variance with a continuous kernel. [CLAIM-848](CLAIM-848.md)'s use of the bound is
-corrected in place to its strict, tail-only form ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)).
+corrected in place to its strict, tail-only form ([ARG-169](../arguments.d/ARG-169.md)).
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **background, with
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-2278](../notes.d/NOTE-2278.md), [THEORY-2189](../theory.d/THEORY-2189.md)): **background, with
 a pointed control.** The paper does not treat norms. Its covariance-matched
 Gaussian, with "the same second-order moments" as the representations, has
 an intrinsic dimension "two orders of magnitude larger", growing with N:

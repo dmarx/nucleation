@@ -104,11 +104,11 @@ has the same structure inside a self-maintaining system:
 
 ## Note of 2026-11-22: Millikan and the SEP survey, read
 
-<!-- inactive-ok-block: THEORY-tmpfugkf THEORY-tmpuzicj CLAIM-tmp974nn CASE-239 — Proposed; readings and the objection filed for LEAD-018, and the proposed study this claim does not yet cite -->
+<!-- inactive-ok-block: THEORY-2234 THEORY-2235 CLAIM-920 CASE-239 — Proposed; readings and the objection filed for LEAD-018, and the proposed study this claim does not yet cite -->
 For [LEAD-018](../leads.d/LEAD-018.md) the record read the selection-based alternative to this
-claim's organizational route: Millikan's biosemantics ([THEORY-tmpfugkf](../theory.d/THEORY-tmpfugkf.md))
-and the SEP survey ([THEORY-tmpuzicj](../theory.d/THEORY-tmpuzicj.md)). It conflicts with this claim, and
-the objection is filed as [CLAIM-tmp974nn](CLAIM-tmp974nn.md) (`objects_to` this claim). In
+claim's organizational route: Millikan's biosemantics ([THEORY-2234](../theory.d/THEORY-2234.md))
+and the SEP survey ([THEORY-2235](../theory.d/THEORY-2235.md)). It conflicts with this claim, and
+the objection is filed as [CLAIM-920](CLAIM-920.md) (`objects_to` this claim). In
 brief: on the etiological accounts, an anticipation is false by a norm
 of the system's own only if selection or learning stabilized it, and a
 system with no history has none (the Swampman case). That agrees with
@@ -118,3 +118,13 @@ forager, whose profile its modeller wrote, has its modeller's norm on
 that account, which is this claim's own defeater; [CASE-239](../cases.d/CASE-239.md)'s learner
 would have its own. The accounts come apart only for a self-maintaining
 system with no history. The status is unchanged.
+
+## Note of 2026-11-22: the learner of [CASE-239](../cases.d/CASE-239.md), run
+
+<!-- inactive-ok-block: CASE-tmpz762n CLAIM-tmphrp1s CLAIM-tmpnc1mf CASE-239 — new or Proposed; the design, its run and the two readings of its control -->
+The learner [CASE-239](../cases.d/CASE-239.md) proposed was run ([CASE-tmpz762n](../cases.d/CASE-tmpz762n.md)). Its warnings were set
+by its own energy account, with upkeep and dissolution the modeller's, and
+were stabilized by its own past upkeep through learning, the history the
+objection to this claim asks for. Whether that makes the profile its own, or
+the designer's in another form, is filed as two alternatives
+([CLAIM-tmphrp1s](CLAIM-tmphrp1s.md), [CLAIM-tmpnc1mf](CLAIM-tmpnc1mf.md)); the claim is unchanged.

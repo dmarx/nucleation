@@ -35,8 +35,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the partial answers to QUESTION-065 and the boundary claims this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account filed from this reading -->
-<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
-<!-- inactive-ok-file: TERM-tmpaztqn — Proposed; the term filed from the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: TERM-146 — Proposed; the term filed from the reading of Shalizi and Moore, 2026-11-22 -->
 
 # NOTE-791: Barnett and Seth — Dynamical independence
 
@@ -286,7 +286,7 @@ uniform prior over states) and Millidge's query-driven abstractions.
 ## Note of 2026-11-22: Shalizi and Moore, read
 
 Connections name "Shalizi and Moore's causal states" among the rivals.
-That work is now read ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). A
+That work is now read ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-2294](NOTE-2294.md), [THEORY-2205](../theory.d/THEORY-2205.md)). A
 contrast: Shalizi and Moore condition on the macro process's own past and
 start from a chosen observable; dynamical independence conditions on the
-micro past. Their emergence relation is [TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md).
+micro past. Their emergence relation is [TERM-146](../terms.d/TERM-146.md).

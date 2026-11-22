@@ -6,8 +6,8 @@
 
 **Psychopathology and treatment** — what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021).
 
-0 of 154 ARG documents. Back to the [full index](../README.md).
+1 of 217 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-206](../../../record/arguments.d/ARG-206.md) | Ge and colleagues' brief-mindfulness trial, read as evidence, shows by faster Stroop and Go/No-go responses with delay discounting unchanged that mindfulness improves self-control by a step that needs no change in the discount curves | [CLAIM-156](../../../record/claims.d/CLAIM-156.md) cited Ge et al. ([LIT-916](../../../record/literature.d/LIT-916.md)), unread, as evidence on the test that tells its routes apart: some impulsive behaviours reduced, discounting not improved. Read ([NOTE-2331](../../../record/notes.d/NOTE-2331.md)), the behaviours that changed are reaction times on the Stroop and Go/No-go tasks, with accuracy at ceiling and unchanged, and no choice under temptation was measured; nothing was tested as a mediator. Faster responding is not shown to be better self-control, so the trial does not show the route. Rejected as evidence for [CLAIM-156](../../../record/claims.d/CLAIM-156.md); the reading takes no edge to it. Standing of the conclusion apart from this route: [CLAIM-156](../../../record/claims.d/CLAIM-156.md) stays Proposed, held in the claim itself, with its premise [CLAIM-169](../../../record/claims.d/CLAIM-169.md) waiting on [THEORY-067](../../../record/theory.d/THEORY-067.md)'s mechanism and no study read that tests discounting as a mediator. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Rejected |

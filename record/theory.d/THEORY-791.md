@@ -34,8 +34,8 @@ summary: >-
   authors present the result as a property of the world's languages. This
   THEORY holds that general claim.
 ---
-<!-- inactive-ok-file: THEORY-tmp7i21v — Proposed; the Nafaanra reading filed by LEAD-056 -->
-<!-- inactive-ok-file: LIT-tmpntsdw — Unfetched; the Nafaanra paper, not reached -->
+<!-- inactive-ok-file: THEORY-2238 — Proposed; the Nafaanra reading filed by LEAD-056 -->
+<!-- inactive-ok-file: LIT-3106 — Unfetched; the Nafaanra paper, not reached -->
 
 # THEORY-791: The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and differences in one trade-off parameter place each language along it, as Zaslavsky, Kemp, Regier and Tishby propose
 
@@ -73,12 +73,12 @@ be a separate thesis. Rotations are one family of alternatives only.
 
 ## Note of 2026-11-22: the Nafaanra resurvey, read through its abstract
 
-The same authors' Nafaanra resurvey ([THEORY-tmp7i21v](THEORY-tmp7i21v.md); the abstract
-[LIT-tmpom3sr](../literature.d/LIT-tmpom3sr.md), the journal paper [LIT-tmpntsdw](../literature.d/LIT-tmpntsdw.md) unread) reports one
+The same authors' Nafaanra resurvey ([THEORY-2238](THEORY-2238.md); the abstract
+[LIT-3107](../literature.d/LIT-3107.md), the journal paper [LIT-3106](../literature.d/LIT-3106.md) unread) reports one
 language's system near the bound at two dates, three terms in 1978 and
 seven in 2017. That is evidence for this entry's claim that languages lie
 near the bound, now at two points of one history, and the first data this
 record holds on a language changing rather than on optima compared. It is
-an abstract without figures, and Malik-Moraleda et al. ([LIT-tmpyky5z](../literature.d/LIT-tmpyky5z.md))
+an abstract without figures, and Malik-Moraleda et al. ([LIT-3108](../literature.d/LIT-3108.md))
 propose contact with English as a cause beside efficiency. A parallel, no
 relation written; the status is unchanged.

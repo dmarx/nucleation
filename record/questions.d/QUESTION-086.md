@@ -39,7 +39,7 @@ summary: >-
   removal.
 ---
 <!-- inactive-ok-file: THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
-<!-- inactive-ok-file: CASE-tmpmkc5v — new; the comparison case and the reading of LIT-2462, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-356 — new; the comparison case and the reading of LIT-2462, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: LIT-1030 THEORY-071 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-086: Can two systems with matching behaviour and persistence be told apart by whether their own processes generate and revise the constraints that keep them going, and by what intervention?
@@ -234,8 +234,8 @@ owner's call.
 
 ## Note of 2026-11-22: a simulated organization, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 and the claim drawn from it -->
-[CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md) ran [CASE-186](../cases.d/CASE-186.md)'s organization in reduced form. Systems that
+<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 and the claim drawn from it -->
+[CASE-332](../cases.d/CASE-332.md) ran [CASE-186](../cases.d/CASE-186.md)'s organization in reduced form. Systems that
 behave alike under a sham injury are told apart by interventions:
 - lesions of single audit operations, or partial losses of a maintained
   capacity, separate those whose processes regenerate the capacities from
@@ -244,13 +244,13 @@ behave alike under a sham injury are told apart by interventions:
   restoration.
 
 Stopping the producer and destroying the internal producer did not separate
-them within the horizon run. [CLAIM-tmpqaqtx](../claims.d/CLAIM-tmpqaqtx.md) states the pattern for that
+them within the horizon run. [CLAIM-901](../claims.d/CLAIM-901.md) states the pattern for that
 construction. The question stays Open.
 
 ## Note of 2026-11-22: the maternal-microchimerism comparison specified as a case
 
 The proposed test of the note of 2026-11-12 is now specified, for [LEAD-051](../leads.d/LEAD-051.md),
-after reading Peng et al. ([LIT-2462](../literature.d/LIT-2462.md), [NOTE-tmpeyhkz](../notes.d/NOTE-tmpeyhkz.md)). [CASE-tmpmkc5v](../cases.d/CASE-tmpmkc5v.md) states it as
+after reading Peng et al. ([LIT-2462](../literature.d/LIT-2462.md), [NOTE-2337](../notes.d/NOTE-2337.md)). [CASE-356](../cases.d/CASE-356.md) states it as
 a matched pair: NIMA tolerance sustained by the offspring's own persisting
 LysM+ CD11c+ Vav1+ maternal microchimeric cells (Arm A), against the same
 tolerogenic function supplied later from a donor transfer (Arm B), with the

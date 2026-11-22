@@ -1,8 +1,8 @@
 ### Added
 
-- The reading of Leffler's "Constitutivism's plight" ([NOTE-tmp4a8iu](record/notes.d/NOTE-tmp4a8iu.md), [THEORY-tmpdrt3r](record/theory.d/THEORY-tmpdrt3r.md)) for [LEAD-158](record/leads.d/LEAD-158.md), and the adversarial test it asks for: an analogy carrying it to self-maintaining organizations ([ARG-tmpxsh8r](record/arguments.d/ARG-tmpxsh8r.md)) and three alternative readings of what it does to the record's organizational account ([CLAIM-tmp8g26d](record/claims.d/CLAIM-tmp8g26d.md), [CLAIM-tmprcgr5](record/claims.d/CLAIM-tmprcgr5.md), [CLAIM-tmpn4gbs](record/claims.d/CLAIM-tmpn4gbs.md)), left for the owner to choose.
-- The reading of Monnier et al.'s "Beyond Base Metric" ([NOTE-tmprfp2e](record/notes.d/NOTE-tmprfp2e.md), [THEORY-tmpnit00](record/theory.d/THEORY-tmpnit00.md)), which corroborates [CLAIM-348](record/claims.d/CLAIM-348.md) and corrects A's statement of [QUESTION-456](record/questions.d/QUESTION-456.md)'s first failure mode.
-- Massimi's primer of Perspectival Realism ([LIT-tmpj09bt](record/literature.d/LIT-tmpj09bt.md), [NOTE-tmpcenk3](record/notes.d/NOTE-tmpcenk3.md), [THEORY-tmptsyn2](record/theory.d/THEORY-tmptsyn2.md)), read as a neighbour of the book.
+- The reading of Leffler's "Constitutivism's plight" ([NOTE-2360](record/notes.d/NOTE-2360.md), [THEORY-2268](record/theory.d/THEORY-2268.md)) for [LEAD-158](record/leads.d/LEAD-158.md), and the adversarial test it asks for: an analogy carrying it to self-maintaining organizations ([ARG-217](record/arguments.d/ARG-217.md)) and three alternative readings of what it does to the record's organizational account ([CLAIM-987](record/claims.d/CLAIM-987.md), [CLAIM-989](record/claims.d/CLAIM-989.md), [CLAIM-988](record/claims.d/CLAIM-988.md)), left for the owner to choose.
+- The reading of Monnier et al.'s "Beyond Base Metric" ([NOTE-2364](record/notes.d/NOTE-2364.md), [THEORY-2272](record/theory.d/THEORY-2272.md)), which corroborates [CLAIM-348](record/claims.d/CLAIM-348.md) and corrects A's statement of [QUESTION-456](record/questions.d/QUESTION-456.md)'s first failure mode.
+- Massimi's primer of Perspectival Realism ([LIT-3139](record/literature.d/LIT-3139.md), [NOTE-2366](record/notes.d/NOTE-2366.md), [THEORY-2274](record/theory.d/THEORY-2274.md)), read as a neighbour of the book.
 
 ### Changed
 

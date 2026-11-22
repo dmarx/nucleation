@@ -37,7 +37,7 @@ summary: >-
   calling a world model an explanatory attribution is too weak. The bound
   was re-derived and checked against an adversarial agent.
 ---
-<!-- inactive-ok-file: CASE-tmp6hkf9 CLAIM-tmpq92r4 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-384 CLAIM-991 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 
 # CLAIM-513: Across a family of goals, a world model is not an optional explanation of competent behaviour: in a fully observed, finite, communicating, stationary environment, a goal-conditioned policy within a factor 1 − δ of optimal on every composite goal of depth n fixes every transition probability to within √(2P(1 − P)/((n − 1)(1 − δ))), so observers reading the same policy must ascribe the same world model; what it leaves open is whether a predictive component is realized inside the agent, since a lookup table over histories and goals has the same policy
 
@@ -91,13 +91,13 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: recoverability in a toy run
 
-In [CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md), at full coverage, a transition table could be read out
+In [CASE-384](../cases.d/CASE-384.md), at full coverage, a transition table could be read out
 exactly from all three agents: a planner, a goal-conditioned value learner
 and a bank of occupancy predictors. The read-out from the value learner
 is the reach-goal shadow of this claim's composite-goal extraction. The
 next state is the goal valued 1, which is trivial for tabular reach
 goals. The run does not test the theorem. It shows the gap the claim
 leaves open: what is recoverable did not fix what each agent could answer
-within its own computation ([CLAIM-tmpq92r4](CLAIM-tmpq92r4.md)).
+within its own computation ([CLAIM-991](CLAIM-991.md)).
 
 No status, title or warrant changes.

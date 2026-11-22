@@ -1,9 +1,9 @@
 ### Added
 
-- [NOTE-tmpzlv8e](record/notes.d/NOTE-tmpzlv8e.md) and [THEORY-tmpd9ysz](record/theory.d/THEORY-tmpd9ysz.md): Karnkowska et al. 2016 ([LIT-1567](record/literature.d/LIT-1567.md)) read, from an author-institution copy; Monocercomonoides has no hallmark mitochondrial protein and makes Fe–S clusters with a cytosolic SUF system of bacterial origin.
-- [NOTE-tmp8zw3r](record/notes.d/NOTE-tmp8zw3r.md) and [THEORY-tmp4pf2m](record/theory.d/THEORY-tmp4pf2m.md): Łukasik et al. 2018 ([LIT-1586](record/literature.d/LIT-1586.md)) read; Hodgkinia split at least six times in Tettigades.
-- [NOTE-tmpzfvzz](record/notes.d/NOTE-tmpzfvzz.md) and [THEORY-tmpjqe6l](record/theory.d/THEORY-tmpjqe6l.md): Campbell et al. 2017 ([LIT-1602](record/literature.d/LIT-1602.md)) read; every Magicicada holds at least twenty Hodgkinia circles, with idiosyncratic structure and dosage.
-- [NOTE-tmpqvc1g](record/notes.d/NOTE-tmpqvc1g.md) and [THEORY-tmp15tfp](record/theory.d/THEORY-tmp15tfp.md): Strand, Coffman and Burke 2026 ([LIT-2395](record/literature.d/LIT-2395.md)) skimmed; bracoviruses as domesticated endogenized viruses (corroborates [CLAIM-661](record/claims.d/CLAIM-661.md)).
+- [NOTE-2320](record/notes.d/NOTE-2320.md) and [THEORY-2230](record/theory.d/THEORY-2230.md): Karnkowska et al. 2016 ([LIT-1567](record/literature.d/LIT-1567.md)) read, from an author-institution copy; Monocercomonoides has no hallmark mitochondrial protein and makes Fe–S clusters with a cytosolic SUF system of bacterial origin.
+- [NOTE-2321](record/notes.d/NOTE-2321.md) and [THEORY-2231](record/theory.d/THEORY-2231.md): Łukasik et al. 2018 ([LIT-1586](record/literature.d/LIT-1586.md)) read; Hodgkinia split at least six times in Tettigades.
+- [NOTE-2322](record/notes.d/NOTE-2322.md) and [THEORY-2232](record/theory.d/THEORY-2232.md): Campbell et al. 2017 ([LIT-1602](record/literature.d/LIT-1602.md)) read; every Magicicada holds at least twenty Hodgkinia circles, with idiosyncratic structure and dosage.
+- [NOTE-2323](record/notes.d/NOTE-2323.md) and [THEORY-2233](record/theory.d/THEORY-2233.md): Strand, Coffman and Burke 2026 ([LIT-2395](record/literature.d/LIT-2395.md)) skimmed; bracoviruses as domesticated endogenized viruses (corroborates [CLAIM-661](record/claims.d/CLAIM-661.md)).
 
 ### Changed
 

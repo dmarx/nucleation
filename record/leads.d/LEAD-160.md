@@ -26,7 +26,7 @@ operationalized_in:
 summary: >-
   Named in [CASE-187](../cases.d/CASE-187.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmp6hkf9 CLAIM-tmpq92r4 CLAIM-tmpo59pd CLAIM-519 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-384 CLAIM-991 CLAIM-990 CLAIM-519 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-514 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-160: Run the world-model achievements study under matched competence
@@ -49,7 +49,7 @@ together count against them.
 
 ## Note of 2026-11-22: run at toy scale
 
-A delegated worker ran [CASE-187](../cases.d/CASE-187.md) as [CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md): twenty 8x8 gridworld
+A delegated worker ran [CASE-187](../cases.d/CASE-187.md) as [CASE-384](../cases.d/CASE-384.md): twenty 8x8 gridworld
 mazes; a planner on a learned transition table, a goal-conditioned value
 learner and a bank of occupancy-predicting demons; goal success matched
 exactly by one shared stream of experience. All four of [CASE-187](../cases.d/CASE-187.md)'s tests
@@ -57,10 +57,10 @@ were run. Code, tests and results are in `scratch/studies/lead-160/`.
 
 The achievements came apart in three places:
 - read-out query competence went with goal competence, but query
-  competence within each agent's own budget did not ([CLAIM-tmpq92r4](../claims.d/CLAIM-tmpq92r4.md));
+  competence within each agent's own budget did not ([CLAIM-991](../claims.d/CLAIM-991.md));
 - a unit-level intervention separated agents that act identically, but a
   content-level one made the distributed predictor respond as the planner
-  does without a table ([CLAIM-tmpo59pd](../claims.d/CLAIM-tmpo59pd.md));
+  does without a table ([CLAIM-990](../claims.d/CLAIM-990.md));
 - recovery and damage localization went with the explicit table.
 
 So [CLAIM-514](../claims.d/CLAIM-514.md)'s and [CLAIM-519](../claims.d/CLAIM-519.md)'s defeated_if clauses are not met in this

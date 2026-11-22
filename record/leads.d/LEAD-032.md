@@ -20,7 +20,7 @@ advances:
 summary: >-
   Named in [QUESTION-045](../questions.d/QUESTION-045.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: LIT-tmpgjzit LIT-tmp62x8i LIT-tmplsgie LIT-tmp83n75 LIT-tmpw8nym LIT-tmpdpj4x THEORY-tmpai05z THEORY-tmpan7c6 THEORY-tmp6agnf THEORY-058 CLAIM-446 — new, Proposed, Deferred or Unfetched; the works and readings of the search of 2026-11-22, and the account and claim it noted -->
+<!-- inactive-ok-file: LIT-3120 LIT-3117 LIT-3121 LIT-3118 LIT-3122 LIT-3119 THEORY-2242 THEORY-2243 THEORY-2244 THEORY-058 CLAIM-446 — new, Proposed, Deferred or Unfetched; the works and readings of the search of 2026-11-22, and the account and claim it noted -->
 
 # LEAD-032: Search the treatment literature for dismantling trials that cut a maintaining link with exposure held fixed, or for individual data showing hysteresis
 
@@ -50,23 +50,23 @@ checks, refused this client for want of an email address, which was not
 sent.
 
 **Dismantling trials.** Found and registered: the meta-analysis,
-Meulders et al. 2016 ([LIT-tmpgjzit](../literature.d/LIT-tmpgjzit.md), Unfetched: the accepted manuscript on
+Meulders et al. 2016 ([LIT-3120](../literature.d/LIT-3120.md), Unfetched: the accepted manuscript on
 KU Leuven's Lirias was located and the fetch was reset), and the trials
-Wells et al. 1995 ([LIT-tmp62x8i](../literature.d/LIT-tmp62x8i.md)), Salkovskis et al. 1999 ([LIT-tmplsgie](../literature.d/LIT-tmplsgie.md)),
-Powers et al. 2004 ([LIT-tmp83n75](../literature.d/LIT-tmp83n75.md)) and Blakey et al. 2019 ([LIT-tmpw8nym](../literature.d/LIT-tmpw8nym.md)),
-all Deferred. Read: Meckes et al. 2025 ([LIT-tmpds717](../literature.d/LIT-tmpds717.md), [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md),
-[THEORY-tmpai05z](../theory.d/THEORY-tmpai05z.md)), the same exposure with a supplied safety behaviour
+Wells et al. 1995 ([LIT-3117](../literature.d/LIT-3117.md)), Salkovskis et al. 1999 ([LIT-3121](../literature.d/LIT-3121.md)),
+Powers et al. 2004 ([LIT-3118](../literature.d/LIT-3118.md)) and Blakey et al. 2019 ([LIT-3122](../literature.d/LIT-3122.md)),
+all Deferred. Read: Meckes et al. 2025 ([LIT-3123](../literature.d/LIT-3123.md), [NOTE-2332](../notes.d/NOTE-2332.md),
+[THEORY-2242](../theory.d/THEORY-2242.md)), the same exposure with a supplied safety behaviour
 faded, kept or absent, and no difference at one month. No trial found
 cuts the person's own maintaining safety behaviour with exposure fixed
 and follows up for months: those that cut patients' own measured over
 days, and those with a follow-up supplied the safety behaviour.
 
 **Individual hysteresis.** None found. Read: de Jong et al. 2023
-([LIT-tmpzu3i3](../literature.d/LIT-tmpzu3i3.md), [NOTE-tmpmrw49](../notes.d/NOTE-tmpmrw49.md), [THEORY-tmpan7c6](../theory.d/THEORY-tmpan7c6.md)), the HysTAR test, with
-no empirical psychopathology series; and Smit et al. 2025 ([LIT-tmpuur53](../literature.d/LIT-tmpuur53.md),
-[NOTE-tmpptg2p](../notes.d/NOTE-tmpptg2p.md), [THEORY-tmp6agnf](../theory.d/THEORY-tmp6agnf.md)), critical slowing before recurrence in
+([LIT-3124](../literature.d/LIT-3124.md), [NOTE-2333](../notes.d/NOTE-2333.md), [THEORY-2243](../theory.d/THEORY-2243.md)), the HysTAR test, with
+no empirical psychopathology series; and Smit et al. 2025 ([LIT-3125](../literature.d/LIT-3125.md),
+[NOTE-2334](../notes.d/NOTE-2334.md), [THEORY-2244](../theory.d/THEORY-2244.md)), critical slowing before recurrence in
 about a third of 37 people tapering antidepressants, a tipping-point
-sign, not hysteresis. Wichers et al. 2016 ([LIT-tmpdpj4x](../literature.d/LIT-tmpdpj4x.md)), the
+sign, not hysteresis. Wichers et al. 2016 ([LIT-3119](../literature.d/LIT-3119.md)), the
 single-patient study it replicates, is registered, Deferred.
 
 Dated notes went on [QUESTION-045](../questions.d/QUESTION-045.md), [THEORY-058](../theory.d/THEORY-058.md), [TERM-020](../terms.d/TERM-020.md) and [CLAIM-446](../claims.d/CLAIM-446.md).

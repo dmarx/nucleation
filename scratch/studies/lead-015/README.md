@@ -1,6 +1,6 @@
 # LEAD-015: the two-institution symmetry-breaking condition
 
-Two of LEAD-090's reduced CASE-092 institutions (CASE-tmpz4n6b), an evaluator
+Two of LEAD-090's reduced CASE-092 institutions (CASE-363), an evaluator
 E and an evaluated party P, coupled through named channels, linearized at
 the symmetric state, and the condition for its instability derived and
 checked. Filed as an executed-study CASE with claims (see the changelog
@@ -43,7 +43,7 @@ production -> Public interpretation") is theta and psi.
 ## Derivation
 
 At x = (m_E, a_E, m_P, a_P) = 0 the Jacobian is J = [[J_E, C_EP], [C_PE, J_P]],
-J_i = [[alpha_i, beta_i], [gamma_i, delta_i]] with CASE-tmpz4n6b's entries
+J_i = [[alpha_i, beta_i], [gamma_i, delta_i]] with CASE-363's entries
 (alpha = 1 - rho(1 - phi'), beta = rho sigma, gamma = (1 - delta) g sigma / 2),
 C_EP = u_E e1^T, u_E = (rho_E theta, (1 - delta_E) omega)^T, and
 C_PE = u_P e1^T, u_P = (rho_P chi, (1 - delta_P) psi)^T.
@@ -61,13 +61,13 @@ C_PE = u_P e1^T, u_P = (rho_P chi, (1 - delta_P) psi)^T.
    D_E = det(I - J_E) = rho_E (1 - delta_E) Delta_E, Delta_E = (1 - phi'_E) - g_E sigma_E^2 / 2,
    so **L_E = (theta + sigma_E omega) / Delta_E**, and likewise
    **L_P = (chi + sigma_P psi) / Delta_P**. Delta_i > 0 is exactly
-   CLAIM-tmp6f8w8's condition that institution i is stable alone.
+   CLAIM-947's condition that institution i is stable alone.
 3. **The condition.** The symmetric state of the pair is unstable iff
 
        (theta + sigma_E omega)(chi + sigma_P psi) > Delta_E Delta_P.
 
    It has CLAIM-330's form (a cross product against the product of the
-   margins), one level up. rho_i and delta_i cancel, as in CLAIM-tmp6f8w8.
+   margins), one level up. rho_i and delta_i cancel, as in CLAIM-947.
    The leading eigenvector is positive in every component: the two
    institutions' meanings and authorities lean together.
 4. **Below threshold** a standing bias b0_P of the party's corpus moves the

@@ -73,8 +73,8 @@ The search for a study that holds threat belief fixed while
 intervening on defensive authority ([LEAD-047](../leads.d/LEAD-047.md), scratch/studies/lead-047/)
 found none that also holds fixed, or measures, the uncertainty estimate
 or the belief about one's own future avoidance. The two nearest designs
-read, Sridhar, Biagi & Wake (2026), [NOTE-tmpexziy](../notes.d/NOTE-tmpexziy.md), and Vestring et al.
-(2026), [NOTE-tmpkouzt](../notes.d/NOTE-tmpkouzt.md), measure neither. Vestring et al. read ketamine as
+read, Sridhar, Biagi & Wake (2026), [NOTE-2299](../notes.d/NOTE-2299.md), and Vestring et al.
+(2026), [NOTE-2300](../notes.d/NOTE-2300.md), measure neither. Vestring et al. read ketamine as
 down-weighting "uncertain threat cues", which is this question's
 uncertainty side in words, but uncertainty is not estimated, so the
 reading does not bear on which rival holds. No status changes.

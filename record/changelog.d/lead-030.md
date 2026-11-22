@@ -1,8 +1,8 @@
 ### Added
 
-- [CASE-tmpw8bs2](record/cases.d/CASE-tmpw8bs2.md): [CASE-296](record/cases.d/CASE-296.md)'s laboratory of genres, run as a numpy simulation for [LEAD-030](record/leads.d/LEAD-030.md) (executed-study, documented): two worlds, genres planted in preferences and clusters made by exposure alone, and five arms, four seeds each. Code under scratch/studies/lead-030/.
-- [CLAIM-tmph4j0u](record/claims.d/CLAIM-tmph4j0u.md): in the simulated network, only engagement under randomized exposure tells classes inferred, used and reshaping apart; the classes reshape preferences only when used (Proposed, thesis, empirical).
-- [CLAIM-tmpvn59f](record/claims.d/CLAIM-tmpvn59f.md): fit to engagement data and stability favour exposure-made and used classes over planted genres, so neither warrants an engagement category as a kind; the closure test conditioned on exposure and scored on randomized exposure, with an exposure control partition, separates them (Proposed, thesis, empirical).
+- [CASE-367](record/cases.d/CASE-367.md): [CASE-296](record/cases.d/CASE-296.md)'s laboratory of genres, run as a numpy simulation for [LEAD-030](record/leads.d/LEAD-030.md) (executed-study, documented): two worlds, genres planted in preferences and clusters made by exposure alone, and five arms, four seeds each. Code under scratch/studies/lead-030/.
+- [CLAIM-954](record/claims.d/CLAIM-954.md): in the simulated network, only engagement under randomized exposure tells classes inferred, used and reshaping apart; the classes reshape preferences only when used (Proposed, thesis, empirical).
+- [CLAIM-955](record/claims.d/CLAIM-955.md): fit to engagement data and stability favour exposure-made and used classes over planted genres, so neither warrants an engagement category as a kind; the closure test conditioned on exposure and scored on randomized exposure, with an exposure control partition, separates them (Proposed, thesis, empirical).
 
 ### Changed
 

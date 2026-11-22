@@ -6,7 +6,7 @@
 
 **Organizational affect** — affective states as properties of organized systems, read through Frijda — the line the will paper grew out of.
 
-8 of 211 LEAD documents. Back to the [full index](../README.md).
+8 of 215 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -16,5 +16,5 @@
 | [LEAD-101](../../../record/leads.d/LEAD-101.md) | Test whether corporations changed only by sanction keep weighing others' harms once the sanction is lifted, with reputation and benefit held fixed | Named in [CLAIM-431](../../../record/claims.d/CLAIM-431.md) and [SYNTHESIS-018](../../../record/syntheses.d/SYNTHESIS-018.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-112](../../../record/leads.d/LEAD-112.md) | Find cases where access and experience come apart and each kind of evidence follows one of them: superblindsight, inconspicuous rivalry recorded intracranially, a marker accepted in advance | Two claims on the organizational-affect line depend on the answer. Named in [QUESTION-048](../../../record/questions.d/QUESTION-048.md) and [QUESTION-061](../../../record/questions.d/QUESTION-061.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-123](../../../record/leads.d/LEAD-123.md) | Build the three-perspective agenda model with a latent Condorcet cycle, in which a chair or a legibility regime controls which pairwise contests enter the record | Named in [CLAIM-448](../../../record/claims.d/CLAIM-448.md). Filed by the backlog audit of 2026-11-19. | Open |
-| [LEAD-134](../../../record/leads.d/LEAD-134.md) | Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what | Named in [CLAIM-355](../../../record/claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-134](../../../record/leads.d/LEAD-134.md) v2 | Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what | Named in [CLAIM-355](../../../record/claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-148](../../../record/leads.d/LEAD-148.md) | Show whether action readiness with control precedence can be had without hedonic valence, reading Veit first-hand | Named in [CLAIM-039](../../../record/claims.d/CLAIM-039.md). Filed by the backlog audit of 2026-11-19. | Open |

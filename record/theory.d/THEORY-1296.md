@@ -53,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1300 ARG-051 — Proposed or Open; companion reading, question and inference, cited as open -->
 <!-- inactive-ok-file: THEORY-882 CLAIM-484 — Proposed; the PP account and the claim this one is set beside, cited as open -->
-<!-- inactive-ok-file: THEORY-tmprbqew — new in this filing and Proposed or Rejected; the reading of LEAD-141, cited as open -->
+<!-- inactive-ok-file: THEORY-2265 — new in this filing and Proposed or Rejected; the reading of LEAD-141, cited as open -->
 
 # THEORY-1296: Deliberate thought selects and sustains candidates from a stream of unintended thoughts that mind-wandering generates, and whether the conscious model of oneself as a knower that accompanies the selection causes it, enables it or only accompanies it is undecided by current evidence
 
@@ -139,11 +139,11 @@ No result shows that deliberate thought's contents are drawn from the mind-wande
 
 The body says the chapter cites Axelrod et al. (2015) and Broadway et al.
 (2015) as "early examples of relevant studies" for H1, "not read here".
-Axelrod et al. is now [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md), read in [NOTE-tmp7gplv](../notes.d/NOTE-tmp7gplv.md). It changes the
+Axelrod et al. is now [LIT-3135](../literature.d/LIT-3135.md), read in [NOTE-2357](../notes.d/NOTE-2357.md). It changes the
 amount of reported mind-wandering by stimulation and does not manipulate
 or measure the epistemic agent model, so it does not bear on this
 account's open clause; its replication with a meta-awareness probe found
-mind-wandering raised and meta-awareness unchanged ([THEORY-tmprbqew](THEORY-tmprbqew.md)).
+mind-wandering raised and meta-awareness unchanged ([THEORY-2265](THEORY-2265.md)).
 Broadway et al. is a one-page commentary on it (PNAS 112(11): 3182–3183),
 not read. The selection clause is not touched: no study read records which
 candidate thought deliberate thought took up.

@@ -39,8 +39,8 @@ summary: >-
   wording is A's (the other assistant in the exchange "Rich Get Richer
   Power Laws", A27 §9, A10 §2); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: NOTE-tmpurjns NOTE-tmpcjw5n — new or Skimmed; readings of 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: NOTE-2295 NOTE-2285 — new or Skimmed; readings of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2174 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: TERM-142 CLAIM-810 CLAIM-841 CLAIM-840 — filed from the same exchange on 2026-11-21 -->
 
 # CLAIM-846: Scale-free correlations do not need heavy-tailed marginals: a Gaussian field with a power-law spectrum has Gaussian values at every point, so what is scale-free can be a scaling relation rather than a distribution of magnitudes
@@ -115,7 +115,7 @@ Goldstone case as a route to scaling without criticality.
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-2257](../notes.d/NOTE-2257.md), [THEORY-2174](../theory.d/THEORY-2174.md)): **a
 parallel.** In V1 the power-law spectrum "arises from correlations between
 cells rather than from the distribution of firing rates or signal
 variance" (Extended Data Fig. 7): a power-law spectrum without heavy-tailed
@@ -125,11 +125,11 @@ separation of spectrum from marginals. A parallel, so no relation.
 ## Note of 2026-11-22: Toner and Tu (1998), Halperin and Drouin-Touchette, read
 
 **Parallels, no edge.** Three readings of 2026-11-22 carry this claim's
-point in their own cases. Halperin ([LIT-tmp3zns2](../literature.d/LIT-tmp3zns2.md), [NOTE-tmpuwmny](../notes.d/NOTE-tmpuwmny.md), eqs. 2–3)
-and Drouin-Touchette ([LIT-tmp6hh1r](../literature.d/LIT-tmp6hh1r.md), [NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md), §2.2, eq. 18) give the
+point in their own cases. Halperin ([LIT-3054](../literature.d/LIT-3054.md), [NOTE-2296](../notes.d/NOTE-2296.md), eqs. 2–3)
+and Drouin-Touchette ([LIT-3055](../literature.d/LIT-3055.md), [NOTE-2295](../notes.d/NOTE-2295.md), §2.2, eq. 18) give the
 Gaussian spin-wave computation this claim checks numerically: phase
 variance ∝ ln r and correlations ∝ r^(−T/2πρ_s), with Gaussian angles at
-every point. Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md)) put a flock's
+every point. Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-2285](../notes.d/NOTE-2285.md)) put a flock's
 scale-free content in correlation functions and a density structure
 factor that diverges as q → 0, not in a distribution of magnitudes.
 And Drouin-Touchette add a limit of the Gaussian route this claim does

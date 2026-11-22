@@ -134,7 +134,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed; the later theses that rest on this one -->
 <!-- inactive-ok-file: CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-tmp5koor CLAIM-tmp68okc ARG-tmplptzc — new; the two readings that fill the admission slot, and the argument they share (LEAD-163) -->
+<!-- inactive-ok-file: CLAIM-983 CLAIM-986 ARG-216 — new; the two readings that fill the admission slot, and the argument they share (LEAD-163) -->
 
 # CLAIM-615: An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
 
@@ -273,18 +273,18 @@ workshop's maintaining organization transmitted" to "nothing of that
 organization was transmitted". The slot is which organization "that
 organization" names.
 
-Both readings filed close it by one shared step, [ARG-tmplptzc](../arguments.d/ARG-tmplptzc.md): a new
+Both readings filed close it by one shared step, [ARG-216](../arguments.d/ARG-216.md): a new
 maintainer that restores the thing from what it finds in it transmits the
 thing's organization through the thing, as [CLAIM-329](CLAIM-329.md)'s newcomers take a
 collective's organization from the collective. So the car continues, and
 the case is not a defeater. They part on organization held only by a
 maintainer:
 
-- **Reading (a), [CLAIM-tmp5koor](CLAIM-tmp5koor.md):** a maintainer is a channel, never what
+- **Reading (a), [CLAIM-983](CLAIM-983.md):** a maintainer is a channel, never what
   is transmitted. Layer 4 is read by its words, "the transmitting
   organization". It reads [CLAIM-611](CLAIM-611.md)'s "inside the individual or outside
   it" as about the processes, which is a cost.
-- **Reading (b), [CLAIM-tmp68okc](CLAIM-tmp68okc.md):** an outside maintainer's organization is
+- **Reading (b), [CLAIM-986](CLAIM-986.md):** an outside maintainer's organization is
   transmitted insofar as the individual does not carry it and a competent
   unrelated replacement would not supply it. It keeps [CLAIM-611](CLAIM-611.md)'s words,
   and lets [CASE-223](../cases.d/CASE-223.md) find a parting where participants say "it's not the

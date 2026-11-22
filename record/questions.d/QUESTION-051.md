@@ -26,7 +26,7 @@ summary: >-
   [THEORY-083](../theory.d/THEORY-083.md), [THEORY-104](../theory.d/THEORY-104.md) and [THEORY-085](../theory.d/THEORY-085.md) answer it in part; the body gives
   each one's limit.
 ---
-<!-- inactive-ok-file: CASE-tmpjn6f4 CLAIM-tmpcpr7t — new; the study and the claim LEAD-035 filed on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-352 CLAIM-933 — new; the study and the claim LEAD-035 filed on 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-286 — Proposed; partial answers filed today, cited with their limits -->
 
 # QUESTION-051: What structure does training for one classification task leave in a network's last layers, and what does that structure cost for decisions and distributions the network was not trained on?
@@ -60,10 +60,10 @@ A derivation showing why gradient descent on cross-entropy reaches collapse. Alo
 For the first half ("why training reaches this structure"), the record's
 one derivation of collapse dynamics ([THEORY-278](../theory.d/THEORY-278.md), MSE, renormalized flow)
 was tested against gradient descent without the renormalization in small
-models ([CASE-tmpjn6f4](../cases.d/CASE-tmpjn6f4.md)). Its quarter-power law and the equalization of the
+models ([CASE-352](../cases.d/CASE-352.md)). Its quarter-power law and the equalization of the
 singular values do not appear: without weight decay, separation in
 whitened coordinates grows exponentially while NC1 stalls, and with it the
-values settle at finite levels. Filed as [CLAIM-tmpcpr7t](../claims.d/CLAIM-tmpcpr7t.md). The derivation
+values settle at finite levels. Filed as [CLAIM-933](../claims.d/CLAIM-933.md). The derivation
 therefore explains collapse only in its own modified flow, on this
 evidence; the question's call for a derivation of why gradient descent
 reaches collapse stays open.

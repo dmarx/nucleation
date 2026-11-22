@@ -9,9 +9,9 @@ history:
 - version: 2
   date: '2026-11-22'
   note: >-
-    After the reading of Yang (LIT-2961, NOTE-tmpg5q4t): the sentence
+    After the reading of Yang (LIT-2961, NOTE-2280): the sentence
     calling the work unread updated, LIT-2961 removed from the grounds
-    (ARG-tmp31laj, Rejected: a parallel, not evidence), and a dated note
+    (ARG-190, Rejected: a parallel, not evidence), and a dated note
     added. Title and thesis unchanged.
 role: thesis
 warrant: demonstrated
@@ -53,8 +53,8 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-180 CLAIM-828 — Proposed or new -->
-<!-- inactive-ok-file: THEORY-tmpu0f9k ARG-tmp31laj THEORY-1429 — Proposed or Rejected; the reading of Yang filed 2026-11-22, the argument that takes it out of the grounds, and Kuehn's classification cited in the note -->
-<!-- inactive-ok-file: THEORY-tmpg4aat — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
+<!-- inactive-ok-file: THEORY-2193 ARG-190 THEORY-1429 — Proposed or Rejected; the reading of Yang filed 2026-11-22, the argument that takes it out of the grounds, and Kuehn's classification cited in the note -->
+<!-- inactive-ok-file: THEORY-2164 — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
 
 # CLAIM-807: A factored feature under weight decay, ŷ = abφ, switches on at a sharp threshold: its strength is q* = (s − λ)₊, the origin loses stability through a pitchfork in the parameters at s = λ, relaxation there is algebraic and the local coefficient of the regularized loss dips from 1 to 3/4, and just above threshold the feature's variance is of order ε² while its gain in fit is of order ε, so a newly active feature is quiet but consequential
 
@@ -141,14 +141,14 @@ plateau-time law without weight decay ([THEORY-740](../theory.d/THEORY-740.md)).
 A contrast. This claim has an algebraic relaxation at a threshold. Wei
 and colleagues' plateaus near overlap singularities have none: the paper
 derives orbits, not time courses, and its long plateau is a noise-driven
-walk along a line of equivalent models ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md), [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md)).
+walk along a line of equivalent models ([NOTE-2254](../notes.d/NOTE-2254.md), [THEORY-2164](../theory.d/THEORY-2164.md)).
 The two mechanisms of slow learning near a singular set are different
 and the claim does not depend on theirs.
 
 ## Note of 2026-11-22: Yang, read
 
 A parallel, and a second instance of this claim's caveat; nothing on the
-local coefficient. Yang's probe ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md), [NOTE-tmpg5q4t](../notes.d/NOTE-tmpg5q4t.md)) loses
+local coefficient. Yang's probe ([THEORY-2193](../theory.d/THEORY-2193.md), [NOTE-2280](../notes.d/NOTE-2280.md)) loses
 its collapsed state through a supercritical pitchfork with the same
 normal form, ε̇ = (β − βc)ε − αε³, and growth from the noise "on a
 characteristic timescale that scales as 1/(β − βc)", which is this
@@ -158,7 +158,7 @@ anti-symmetric w", not fixed by the linear analysis, just as the sign of
 a = b is not fixed here. So the caveat that the pitchfork is in the
 parameters, not the predictor, holds there too.
 
-It does not ground the claim ([ARG-tmp31laj](../arguments.d/ARG-tmp31laj.md), Rejected; [LIT-2961](../literature.d/LIT-2961.md) leaves the
+It does not ground the claim ([ARG-190](../arguments.d/ARG-190.md), Rejected; [LIT-2961](../literature.d/LIT-2961.md) leaves the
 grounds). Its bifurcation parameter is a detached probe's precision, not
 a signal against weight decay; the paper says nothing of learning
 coefficients, so the dip from 1 to 3/4 has no counterpart there; and its

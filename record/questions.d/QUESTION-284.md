@@ -25,8 +25,8 @@ summary: >-
   answer says, for a stated kind, what evidence would tell constitution
   from characterization and from ordinary causal modification.
 ---
-<!-- inactive-ok-file: THEORY-tmpvjav8 THEORY-tmp54yyf — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
-<!-- inactive-ok-file: CASE-tmp06fbt CLAIM-tmpy1gmq — new; the study and claim filed for LEAD-057 on 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2270 THEORY-2269 — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
+<!-- inactive-ok-file: CASE-321 CLAIM-887 — new; the study and claim filed for LEAD-057 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-157 — Proposed or Open; the partial answers and neighbouring questions, cited as open -->
 
@@ -180,12 +180,12 @@ The question already flags the gap between the second and its own relation: "The
 
 ## Note of 2026-11-22: the three partitions on one model
 
-[LEAD-057](../leads.d/LEAD-057.md) ran A5's test on one model ([CASE-tmp06fbt](../cases.d/CASE-tmp06fbt.md)): four linear units in two pairs, with a beam-like apparatus that cross-pairs them, each partition scored by whether its blocks can be forecast from their own past. The fixed and the recovered partitions make different counterfactual predictions whenever an intervention moves the coupling, and measurement decides between them. The apparatus-dependent partition differs from the recovered one only if it tracks the apparatus rather than the dynamics the apparatus produces, and then it predicts worse wherever the apparatus is in place without dominating the coupling; tracking the dynamics, it predicts exactly what causal modification and discovery predict, and with the apparatus given states of its own the recovered partition puts it inside the unit. [CLAIM-tmpy1gmq](../claims.d/CLAIM-tmpy1gmq.md) reads this as the outcome this question foresaw for the third of the three relations of the note of 2026-11-07: no evidence tells constitution by an apparatus from causal modification. It says nothing of the other two relations. The question is unchanged and stays Open.
+[LEAD-057](../leads.d/LEAD-057.md) ran A5's test on one model ([CASE-321](../cases.d/CASE-321.md)): four linear units in two pairs, with a beam-like apparatus that cross-pairs them, each partition scored by whether its blocks can be forecast from their own past. The fixed and the recovered partitions make different counterfactual predictions whenever an intervention moves the coupling, and measurement decides between them. The apparatus-dependent partition differs from the recovered one only if it tracks the apparatus rather than the dynamics the apparatus produces, and then it predicts worse wherever the apparatus is in place without dominating the coupling; tracking the dynamics, it predicts exactly what causal modification and discovery predict, and with the apparatus given states of its own the recovered partition puts it inside the unit. [CLAIM-887](../claims.d/CLAIM-887.md) reads this as the outcome this question foresaw for the third of the three relations of the note of 2026-11-07: no evidence tells constitution by an apparatus from causal modification. It says nothing of the other two relations. The question is unchanged and stays Open.
 
 ## Note of 2026-11-22: imposed and endogenized boundaries, read
 
-Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md)) and the
-scaffolding group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)), written
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [THEORY-2270](../theory.d/THEORY-2270.md)) and the
+scaffolding group's 2024 paper ([LIT-3137](../literature.d/LIT-3137.md), [THEORY-2269](../theory.d/THEORY-2269.md)), written
 as `bears_on` on both. They separate a boundary imposed on a collective
 by its environment (Darwinian-like) from one its members' own traits
 maintain (Darwinian), and test the difference by removing the imposing

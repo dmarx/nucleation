@@ -59,7 +59,7 @@ summary: >-
   the primitive operations or the system's boundary. The idea is the
   owner's; the wording is A's, and adopting it is the owner's call.
 grounds:
-- CASE-tmp2zo3t
+- CASE-357
 ---
 <!-- inactive-ok-file: CLAIM-754 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-576 TERM-118 — Proposed or new; the claim this extends, the term it uses, and the claim filed beside it -->
@@ -146,6 +146,6 @@ the term's finking row. Its own demonstration is re-derived and its sense
 is now named, so once [TERM-118](../terms.d/TERM-118.md) is adopted nothing else holds it.
 
 ## Note of 2026-11-22: coverage after forgetting, in a toy
-<!-- inactive-ok-file: CASE-tmprir2y — new; the run of LEAD-043 -->
+<!-- inactive-ok-file: CASE-371 — new; the run of LEAD-043 -->
 
-[LEAD-043](../leads.d/LEAD-043.md)'s toy run ([CASE-tmprir2y](../cases.d/CASE-tmprir2y.md)) shows both sides of the coverage formula after a fact is fine-tuned away. After overwriting, the old value's probability stays above that of a value the model never held (0.002 to 0.004 against under 0.001), and coverage at N = 256 is 0.24 to 0.37 against 0.06 to 0.08: the fact has moved to a higher realization cost. After unlearning toward a uniform output, p is 1/16 for the true value and the never-held value alike, and coverage at N = 256 is 1.00 for both. There coverage reflects the size of the output space, not retention: the claim's point that coverage is not delivery, and that without a selector it says nothing.
+[LEAD-043](../leads.d/LEAD-043.md)'s toy run ([CASE-371](../cases.d/CASE-371.md)) shows both sides of the coverage formula after a fact is fine-tuned away. After overwriting, the old value's probability stays above that of a value the model never held (0.002 to 0.004 against under 0.001), and coverage at N = 256 is 0.24 to 0.37 against 0.06 to 0.08: the fact has moved to a higher realization cost. After unlearning toward a uniform output, p is 1/16 for the true value and the never-held value alike, and coverage at N = 256 is 1.00 for both. There coverage reflects the size of the output space, not retention: the claim's point that coverage is not delivery, and that without a selector it says nothing.

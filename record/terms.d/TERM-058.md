@@ -35,7 +35,7 @@ draws_on:
 - THEORY-710
 - THEORY-711
 ---
-<!-- inactive-ok-file: THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # TERM-058: Granger causality: the past of one series improving the prediction of another's next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention
 
@@ -90,7 +90,7 @@ Three things are always relative and should be stated with it:
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **background.** SURD
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-2275](../notes.d/NOTE-2275.md), [THEORY-2187](../theory.d/THEORY-2187.md)): **background.** SURD
 is a predictive measure relative to a stated information set, in this
 term's sense, and names its shortfall a "causality leak"; in its
 turbulence case conditional Granger causality does "not support the

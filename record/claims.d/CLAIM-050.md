@@ -92,7 +92,7 @@ complements:
 - CLAIM-496
 - CLAIM-525
 ---
-<!-- inactive-ok-file: CLAIM-tmp03h8w TERM-tmpjv1xh — new, filed by LEAD-100 on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-944 TERM-150 — new, filed by LEAD-100 on 2026-11-22 -->
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency", which the claim restates through Blackwell's order of experiments; the body names fidelity only in its prior-art comparison -->
 <!-- inactive-ok-file: LIT-778 LIT-767 — Unavailable; quoted as the manuscript's steps, which moved to CLAIM-488 -->
 <!-- inactive-ok-file: CLAIM-212 — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
@@ -178,8 +178,8 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: the ceiling from the receiver's side
 
-[LEAD-100](../leads.d/LEAD-100.md) filed a receiver-restricted order, [TERM-tmpjv1xh](../terms.d/TERM-tmpjv1xh.md), with results in
-[CLAIM-tmp03h8w](CLAIM-tmp03h8w.md) (Proposed). This claim's ceiling is that order's result 4:
+[LEAD-100](../leads.d/LEAD-100.md) filed a receiver-restricted order, [TERM-150](../terms.d/TERM-150.md), with results in
+[CLAIM-944](CLAIM-944.md) (Proposed). This claim's ceiling is that order's result 4:
 no receiver does better with a garbling than the unrestricted receiver does
 with the source. Restricted to this claim's family Q, the order keeps its
 preorder, respected-garbling and ceiling results. No status, title or

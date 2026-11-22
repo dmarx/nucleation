@@ -31,7 +31,7 @@ summary: >-
   the two come apart; [CASE-120](../cases.d/CASE-120.md) is the construction. The question is
   which of them the record's "one system" should track.
 ---
-<!-- inactive-ok-file: CASE-tmpwyp15 CLAIM-tmpjwc0h — new; LEAD-083's study and claim of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-334 CLAIM-904 — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-218: Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?
@@ -124,7 +124,7 @@ A parallel ([NOTE-2096](../notes.d/NOTE-2096.md)): in Wang and Slotine's network
 
 ## Note of 2026-11-22: the independent marks measured in two closed modes
 
-[CASE-tmpwyp15](../cases.d/CASE-tmpwyp15.md) measured compensation and entrainment in two
+[CASE-334](../cases.d/CASE-334.md) measured compensation and entrainment in two
 closure-without-block cases. In a φ⁴ lattice kink, the sites within about
 1.5 units of the centre undo a sustained load's damage to the kink
 (κ = 1.00 at the core), and the set that does so moves with the kink: a
@@ -133,7 +133,7 @@ grouping of sites is set off by coupling, and the block ratio of a
 segment holding the kink falls as the square of the lattice spacing. In
 a uniformly coupled Kuramoto population, the 156 locked oscillators of
 200 compensate (0.97) and entrain (0.91), and on coupling constants every
-set of 156 scores as they do. [CLAIM-tmpjwc0h](../claims.d/CLAIM-tmpjwc0h.md) states it. That is the
+set of 156 scores as they do. [CLAIM-904](../claims.d/CLAIM-904.md) states it. That is the
 measurement this question's answer asks for, in two models at one setting
 each. It does not say the marks suffice for one system, and the kink has
 no timing to entrain. No status change.

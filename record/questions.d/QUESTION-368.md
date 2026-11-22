@@ -25,7 +25,7 @@ summary: >-
   argued position on that ground, or a showing that the case is
   incoherent.
 ---
-<!-- inactive-ok-file: THEORY-tmpxzn3p — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2222 — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1299 — Unfetched, Open or Proposed; cited as open -->
 <!-- inactive-ok-file: TERM-083 TERM-082 THEORY-554 THEORY-699 THEORY-449 — Proposed; the term and readings this question draws on, cited as open -->
 
@@ -86,8 +86,8 @@ dissolves. The empirical side, whether such states occur, is
 
 ## Note of 2026-11-22: Metzinger, read
 
-[LIT-1947](../literature.d/LIT-1947.md), cited above as unread, is now read in full ([NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md);
-[THEORY-tmpxzn3p](../theory.d/THEORY-tmpxzn3p.md), which `bears_on` this question). It **bears directly and
+[LIT-1947](../literature.d/LIT-1947.md), cited above as unread, is now read in full ([NOTE-2312](../notes.d/NOTE-2312.md);
+[THEORY-2222](../theory.d/THEORY-2222.md), which `bears_on` this question). It **bears directly and
 leaves the question open**.
 
 - **It anticipates the case, as a solution.** Systems that "identify only

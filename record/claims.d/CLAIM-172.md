@@ -218,16 +218,16 @@ checked by the filer: - Main's **[CLAIM-165](CLAIM-165.md)**, **CLAIM-172** and 
 filer should not conflate.
 
 ## Note of 2026-11-22: Ko, read
-<!-- inactive-ok-file: THEORY-tmp8cdhs — Proposed; filed by LEAD-023 -->
+<!-- inactive-ok-file: THEORY-2245 — Proposed; filed by LEAD-023 -->
 
-A contrast, from Ko ([THEORY-tmp8cdhs](../theory.d/THEORY-tmp8cdhs.md); [NOTE-tmpw116e](../notes.d/NOTE-tmpw116e.md)). Two groups with no coupling between them come to have synchronized collective variables (their complex order parameters) under a shared common noise alone. Matching collective variables are therefore not this claim's mark: no member of either group shifts the other's timing. That is what the claim's last bullet already says, that mutuality has to be read by intervening on one member, not from observed co-variation. Supports that bullet; no status change.
+A contrast, from Ko ([THEORY-2245](../theory.d/THEORY-2245.md); [NOTE-2335](../notes.d/NOTE-2335.md)). Two groups with no coupling between them come to have synchronized collective variables (their complex order parameters) under a shared common noise alone. Matching collective variables are therefore not this claim's mark: no member of either group shifts the other's timing. That is what the claim's last bullet already says, that mutuality has to be read by intervening on one member, not from observed co-variation. Supports that bullet; no status change.
 
 ## Note of 2026-11-22: Ocampo-Espindola, Singhal, Li and Kiss, read
-<!-- inactive-ok-file: THEORY-tmpsyokc — Proposed; filed by LEAD-023 -->
+<!-- inactive-ok-file: THEORY-2246 — Proposed; filed by LEAD-023 -->
 
-A contrast with version 5's sharpening, that synchrony matched to the strong couplings is the mark ([THEORY-tmpsyokc](../theory.d/THEORY-tmpsyokc.md); [NOTE-tmp5rss0](../notes.d/NOTE-tmp5rss0.md)). Here selective synchrony, some units in phase and others apart, is made entirely by one common drive acting through the units' different phase responses, with no coupling among them. Selective synchrony without the couplings known therefore marks nothing about peers; the match to couplings is the part that carries weight. Qualifies how the sharpening is read; no status change.
+A contrast with version 5's sharpening, that synchrony matched to the strong couplings is the mark ([THEORY-2246](../theory.d/THEORY-2246.md); [NOTE-2336](../notes.d/NOTE-2336.md)). Here selective synchrony, some units in phase and others apart, is made entirely by one common drive acting through the units' different phase responses, with no coupling among them. Selective synchrony without the couplings known therefore marks nothing about peers; the match to couplings is the part that carries weight. Qualifies how the sharpening is read; no status change.
 
 ## Note of 2026-11-22: Wang and Tang, read
-<!-- inactive-ok-file: THEORY-tmp2gc2a — Proposed; filed by LEAD-023 -->
+<!-- inactive-ok-file: THEORY-2250 — Proposed; filed by LEAD-023 -->
 
-A stronger case than this claim's own ([THEORY-tmp2gc2a](../theory.d/THEORY-tmp2gc2a.md); [NOTE-tmpe2mdk](../notes.d/NOTE-tmpe2mdk.md)). In Wang and Tang's dynamical quorum sensing each cell both senses and shifts a shared signal, so the coupling is mutual through the medium, and the pair's collective variable, the signal's oscillation, does not exist before coupling: the cells are quiescent alone. The claim's HKB cases coordinate oscillators that already exist. This one shows mutual coupling creating the collective variable, which fits the claim's mark and widens its examples. Supports; no status change.
+A stronger case than this claim's own ([THEORY-2250](../theory.d/THEORY-2250.md); [NOTE-2341](../notes.d/NOTE-2341.md)). In Wang and Tang's dynamical quorum sensing each cell both senses and shifts a shared signal, so the coupling is mutual through the medium, and the pair's collective variable, the signal's oscillation, does not exist before coupling: the cells are quiescent alone. The claim's HKB cases coordinate oscillators that already exist. This one shows mutual coupling creating the collective variable, which fits the claim's mark and widens its examples. Supports; no status change.

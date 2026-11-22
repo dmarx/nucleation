@@ -206,7 +206,7 @@ they surface when other needs are frustrated (pp. 5, 7).
 ## Note of 2026-11-22: Martela and Ryan (2019), read
 
 [LIT-1983](../literature.d/LIT-1983.md), which this reading reports second-hand, is now read in full
-([NOTE-tmptzkzg](NOTE-tmptzkzg.md)). The account above is **right in substance, with two
+([NOTE-2304](NOTE-2304.md)). The account above is **right in substance, with two
 corrections**, recorded here rather than in the text above:
 
 - **The term.** Martela and Ryan's own term is "basic wellness enhancer"

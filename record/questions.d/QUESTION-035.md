@@ -36,7 +36,7 @@ summary: >-
   constitutes one system, and makes the target explicit, as
   [CLAIM-152](../claims.d/CLAIM-152.md) requires.
 ---
-<!-- inactive-ok-file: CASE-tmp69rk8 CLAIM-tmpo7igy — filed from LEAD-098's run of 2026-11-22, new -->
+<!-- inactive-ok-file: CASE-333 CLAIM-903 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: CLAIM-659 THEORY-1654 THEORY-1658 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: LIT-902 — Unavailable, unread; named as the source of the compensation test -->
 <!-- inactive-ok-file: CLAIM-161 — Proposed; one of the candidate tests, open -->
@@ -142,4 +142,4 @@ held entries it bears on (found on recheck):
 
 ## Note of 2026-11-22: which tests see a shared drive, from [LEAD-098](../leads.d/LEAD-098.md)
 
-[CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md) put this question's candidate tests to a shared drive and to coupling in a simulated oscillator network. Mutual entrainment read from timing and gluing pass both alike; mutual entrainment by intervention and conserved coherence after the drive is withdrawn tell them apart. Near-decomposability by a coupling strength fitted from fluctuations sees it only in degree, with a spurious gain, unless the drive is recorded. Reciprocal compensation was not operationalized separately. [CLAIM-tmpo7igy](../claims.d/CLAIM-tmpo7igy.md). Leaves the question open.
+[CASE-333](../cases.d/CASE-333.md) put this question's candidate tests to a shared drive and to coupling in a simulated oscillator network. Mutual entrainment read from timing and gluing pass both alike; mutual entrainment by intervention and conserved coherence after the drive is withdrawn tell them apart. Near-decomposability by a coupling strength fitted from fluctuations sees it only in degree, with a spurious gain, unless the drive is recorded. Reciprocal compensation was not operationalized separately. [CLAIM-903](../claims.d/CLAIM-903.md). Leaves the question open.

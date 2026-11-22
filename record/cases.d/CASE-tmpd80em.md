@@ -19,11 +19,11 @@ date: '2026-11-22'
 line:
 - distributed-agency
 variant_of:
-- CASE-tmpz4n6b
+- CASE-363
 bears_on:
 - QUESTION-100
 summary: >-
-  The build LEAD-015 asks for. Two copies of CASE-tmpz4n6b's reduced
+  The build LEAD-015 asks for. Two copies of CASE-363's reduced
   institution, an evaluator E and an evaluated party P, read the same two
   hypotheses and are coupled through four named channels: the party's
   prevailing interpretation tilts the evidence the evaluator reads (θ) and
@@ -42,7 +42,7 @@ summary: >-
   construction; the numbers are of this model. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpz4n6b CLAIM-tmp6f8w8 — new; LEAD-090's build and its threshold, filed 2026-11-22, of which this is the two-institution variant -->
+<!-- inactive-ok-file: CASE-363 CLAIM-947 — new; LEAD-090's build and its threshold, filed 2026-11-22, of which this is the two-institution variant -->
 <!-- inactive-ok-file: CLAIM-tmp0v3wu CLAIM-tmpz8q70 CLAIM-tmp42aba — new; the claims this study grounds, filed in the same batch -->
 
 # CASE-tmpd80em: Two of the built meaning–influence institutions, an evaluator and an evaluated party, coupled through the evidence and resources the party supplies and the standing the evaluator's reading confers: with each institution stable alone, the symmetric state of the pair is unstable exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them captures the evaluator's reading even when its own conferral is independent of its interpretation
@@ -51,7 +51,7 @@ summary: >-
 
 LEAD-015 asks to "Extend the model to two regulating institutions and derive the condition under which their symmetric state is unstable, as CLAIM-330 does for one." CLAIM-404 names what closes the loop: an evaluator "whose evidence or resources the evaluated party affects", and an evaluator's reading that affects "the evaluated party's standing". The code, its 14 tests and the experiments are in scratch/studies/lead-015/ (model.py, test_model.py, run.py; results/*.json; the README holds the derivation and says how to rerun). Everything ran in under a minute on one thread.
 
-**Each institution.** CASE-tmpz4n6b's reduced map, unchanged: meaning m and authority a, with m′ = (1 − ρ)m + ρ(b + σa + φ′m) and a′ = δa + (1 − δ)tanh(gσm/2 + t), φ′ = φ(1 − ε). The one addition is t, an outside tilt of the institution's conferral, zero in CASE-tmpz4n6b. A test checks that each half of the coupled map is LEAD-090's exact mean field. Both institutions read the same two hypotheses (A might be "the party's practice is sound").
+**Each institution.** CASE-363's reduced map, unchanged: meaning m and authority a, with m′ = (1 − ρ)m + ρ(b + σa + φ′m) and a′ = δa + (1 − δ)tanh(gσm/2 + t), φ′ = φ(1 − ε). The one addition is t, an outside tilt of the institution's conferral, zero in CASE-363. A test checks that each half of the coupled map is LEAD-090's exact mean field. Both institutions read the same two hypotheses (A might be "the party's practice is sound").
 
 **The channels, as read from CLAIM-404.** Four, each nonnegative in the main result:
 
@@ -62,11 +62,11 @@ LEAD-015 asks to "Extend the model to two regulating institutions and derive the
 
 A21's chain, "Public interpretation → Political and regulatory decisions → Distribution of resources and authority → Conditions of future media production → Public interpretation", is θ and ψ.
 
-**The derivation.** At the symmetric state the Jacobian is J = [[J_E, C_EP], [C_PE, J_P]], with J_i CASE-tmpz4n6b's 2×2 block and rank-one cross blocks (only meaning crosses). For any nonnegative J whose diagonal blocks are stable, I − J is a nonsingular M-matrix exactly when its Schur complement is, and by Varga's regular-splitting theorem that holds exactly when the round-trip gain ρ(G_P C_PE G_E C_EP) is below 1, G_i = (I − J_i)⁻¹. So the pair leaves symmetry exactly when the round trip exceeds 1. With rank-one channels the round trip is L_E L_P, and det(I − J_i) = ρ_i(1 − δ_i)Δ_i gives
+**The derivation.** At the symmetric state the Jacobian is J = [[J_E, C_EP], [C_PE, J_P]], with J_i CASE-363's 2×2 block and rank-one cross blocks (only meaning crosses). For any nonnegative J whose diagonal blocks are stable, I − J is a nonsingular M-matrix exactly when its Schur complement is, and by Varga's regular-splitting theorem that holds exactly when the round-trip gain ρ(G_P C_PE G_E C_EP) is below 1, G_i = (I − J_i)⁻¹. So the pair leaves symmetry exactly when the round trip exceeds 1. With rank-one channels the round trip is L_E L_P, and det(I − J_i) = ρ_i(1 − δ_i)Δ_i gives
 
   L_E = (θ + σ_E ω)/Δ_E,  L_P = (χ + σ_P ψ)/Δ_P,  Δ_i = (1 − φ′_i) − g_iσ_i²/2,
 
-where Δ_i > 0 is CLAIM-tmp6f8w8's condition that institution i is stable alone. The condition is (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, CLAIM-330's form one level up. ρ_i and δ_i cancel. The leading eigenvector is positive in all four components. Below threshold, a standing bias b₀ of the party's corpus moves the stationary meanings by m_P* = b₀/(Δ_P(1 − L_E L_P)) and m_E* = L_E b₀/(Δ_P(1 − L_E L_P)).
+where Δ_i > 0 is CLAIM-947's condition that institution i is stable alone. The condition is (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, CLAIM-330's form one level up. ρ_i and δ_i cancel. The leading eigenvector is positive in all four components. Below threshold, a standing bias b₀ of the party's corpus moves the stationary meanings by m_P* = b₀/(Δ_P(1 − L_E L_P)) and m_E* = L_E b₀/(Δ_P(1 − L_E L_P)).
 
 ## Results
 

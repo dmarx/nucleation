@@ -142,16 +142,16 @@ Hart 2016, read in part ([NOTE-2052](../notes.d/NOTE-2052.md), [THEORY-1979](../
 Grossman and Hart ([THEORY-1985](../theory.d/THEORY-1985.md)) and Hart's lecture ([THEORY-1979](../theory.d/THEORY-1979.md)), read, say the holder bargains rather than decides and that residual control acts ex ante, through anticipation; that stands against the last clause, "exercised, and seen, only when an uncovered contingency arises", and is unanswered, since the ARG the note of 2026-11-17 asks for is not filed. It is also stated in [TERM-124](../terms.d/TERM-124.md), which is not adopted.
 
 ## Note of 2026-11-22: the argument of 2026-11-17 is now filed ([LEAD-133](../leads.d/LEAD-133.md))
-<!-- inactive-ok-file: ARG-tmpou34o — Rejected; the argument this note files -->
+<!-- inactive-ok-file: ARG-210 — Rejected; the argument this note files -->
 
 The ARG the note of 2026-11-17 asked for, and the note of 2026-11-18 said
-was unfiled, is now filed as [ARG-tmpou34o](../arguments.d/ARG-tmpou34o.md) ([LEAD-133](../leads.d/LEAD-133.md)). Hart and Moore
+was unfiled, is now filed as [ARG-210](../arguments.d/ARG-210.md) ([LEAD-133](../leads.d/LEAD-133.md)). Hart and Moore
 (1990, [LIT-2742](../literature.d/LIT-2742.md)) could not be read: its lawful copies answered rate
 limits and a bot check again on 2026-11-22, so it stays Unfetched, and it
 enters the argument through its read neighbour, Hart's Nobel lecture
 ([THEORY-1979](../theory.d/THEORY-1979.md)), beside Grossman and Hart ([THEORY-1985](../theory.d/THEORY-1985.md)), both read.
 
-[ARG-tmpou34o](../arguments.d/ARG-tmpou34o.md) is Rejected as an inference from those readings to this
+[ARG-210](../arguments.d/ARG-210.md) is Rejected as an inference from those readings to this
 claim as stated: they establish the residual-control definition (clause
 1, corroboration not a footing), qualify clause 2 (ownership confers
 bargaining power over the assets the other needs, not discretion at will

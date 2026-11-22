@@ -22,7 +22,7 @@ summary: >-
   Named in [CLAIM-685](../claims.d/CLAIM-685.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-685 — Proposed; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: CASE-tmp3pe1j — new on 2026-11-22; the comparison this lead asked for -->
+<!-- inactive-ok-file: CASE-377 — new on 2026-11-22; the comparison this lead asked for -->
 
 
 # LEAD-129: Compare institutions with and without effective means to revise their governing standards, matched on resources and independence of evidence
@@ -42,7 +42,7 @@ The comparison is what [CLAIM-685](../claims.d/CLAIM-685.md) lacks.
 
 ## Note of 2026-11-22: carried out, as an illustrative matched comparison
 
-Carried out by a delegated worker. [CASE-tmp3pe1j](../cases.d/CASE-tmp3pe1j.md) (executed-study,
+Carried out by a delegated worker. [CASE-377](../cases.d/CASE-377.md) (executed-study,
 documented) files a small within-domain matched comparison of public standards
 bodies: WHATWG against the W3C HTML/XHTML track; the W3C before against after
 its 2019 living-standard adoption; the Unicode Consortium against the frozen

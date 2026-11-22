@@ -29,9 +29,9 @@ summary: >-
   texts. The claim that the Fisher is the only invariant metric is
   Chentsov's, cited and not held.
 ---
-<!-- inactive-ok-file: THEORY-tmpthmd7 — new; the reading of 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-2161 — new; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: LIT-354 THEORY-078 — Proposed or Unavailable; named in Connections, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-tmpbobud THEORY-tmpg4aat THEORY-2009 — Proposed readings; the first two filed 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-2163 THEORY-2164 THEORY-2009 — Proposed readings; the first two filed 2026-11-21 -->
 
 # THEORY-082: Steepest descent is defined only relative to a metric, and Amari's proof that natural-gradient learning is Fisher efficient needs the Fisher information at the optimum to be invertible, the condition whose failure WBIC calls singular; in a multilayer perceptron it fails wherever an output weight is zero
 
@@ -134,7 +134,7 @@ the model manifold. No relation is written.
 
 Supports, and cross-links the shared singular sets.
 
-- **Amari, Park and Ozeki** ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md), [THEORY-tmpbobud](THEORY-tmpbobud.md)) derive the
+- **Amari, Park and Ozeki** ([NOTE-2255](../notes.d/NOTE-2255.md), [THEORY-2163](THEORY-2163.md)) derive the
   same degeneracy this account takes from Amari 1998's Eq. 6.12, and add
   its other components: for one hidden unit the Fisher matrix
   "degenerates, and its inverse G⁻¹(θ) does not exist in the set C : vw =
@@ -150,7 +150,7 @@ Supports, and cross-links the shared singular sets.
   account leaves open under "What this does not say", how natural-gradient
   learning behaves near singular optima, without settling what happens
   exactly on C, where G⁻¹∇L is "0 × ∞".
-- **Wei and colleagues** ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md), [THEORY-tmpg4aat](THEORY-tmpg4aat.md)) name this
+- **Wei and colleagues** ([NOTE-2254](../notes.d/NOTE-2254.md), [THEORY-2164](THEORY-2164.md)) name this
   account's set, an output weight zero, the elimination singularity, and
   the coinciding-units set the overlap singularity; "It is immediate to
   show that the Fisher information degenerates in this region" (§2.3).
@@ -162,5 +162,5 @@ Supports, and cross-links the shared singular sets.
 
 ## Note of 2026-11-21: Song, Ahn and Yun, read
 
-A parallel, and an instance of this account's point that steepest descent is defined only relative to a metric ([NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md), [THEORY-tmpthmd7](THEORY-tmpthmd7.md)). In Song, Ahn and Yun's experiments, momentum and Adam raise the effective learning rate in the bulk of the Hessian's spectrum. Their Table 1 gives a mean bulk learning rate of 0.0100 for gradient descent, 0.0828 with momentum, 0.4672 for Adam without momentum and 2.6639 for Adam, and "Bulk-LR positively correlates with the training speed". Changing the optimizer changes the metric in which descent is steepest, and with it which directions carry progress. Filer B reported this bearing (readings batch 2). The note is the assistant's (Claude, in this session).
+A parallel, and an instance of this account's point that steepest descent is defined only relative to a metric ([NOTE-2250](../notes.d/NOTE-2250.md), [THEORY-2161](THEORY-2161.md)). In Song, Ahn and Yun's experiments, momentum and Adam raise the effective learning rate in the bulk of the Hessian's spectrum. Their Table 1 gives a mean bulk learning rate of 0.0100 for gradient descent, 0.0828 with momentum, 0.4672 for Adam without momentum and 2.6639 for Adam, and "Bulk-LR positively correlates with the training speed". Changing the optimizer changes the metric in which descent is steepest, and with it which directions carry progress. Filer B reported this bearing (readings batch 2). The note is the assistant's (Claude, in this session).
 

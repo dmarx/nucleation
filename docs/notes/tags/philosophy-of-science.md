@@ -4,7 +4,7 @@
 
 **philosophy-of-science**.
 
-183 of 2247 NOTE documents. Back to the [full index](../README.md).
+185 of 2367 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -191,3 +191,5 @@
 | [NOTE-2205](../../../record/notes.d/NOTE-2205.md) | Rakoczy — Foundations of theory of mind and its development in early childhood | Transitions at about 9 months and 4 years; recursive mindreading later and gradual; the implicit false-belief findings largely fail to replicate. | Read |
 | [NOTE-2213](../../../record/notes.d/NOTE-2213.md) | Thomas Kuhn and Science Education: A Troubled Connection | Matthews's opinion piece on Kuhn and science education, read in part (pp. 1–6) beside Kindi's essay; quoted for Andersen's empirical and normative readings of Kuhn on convergent thought. | Skimmed |
 | [NOTE-2217](../../../record/notes.d/NOTE-2217.md) | Thomas Kuhn | Bird's SEP entry on Kuhn, read in part (§§1–3) beside Kindi's essay; quoted for training as the inculcation of commitment. | Skimmed |
+| [NOTE-2366](../../../record/notes.d/NOTE-2366.md) | Massimi (2023) — Perspectival realism, a primer | Massimi's own summary of Perspectival Realism. A scientific perspective is a community's historically and culturally situated practice; no community can certify its claims by its own lights, and reliable knowledge comes from perspectives that intersect (now) and interlace (over history), with models as inferential blueprints between them. What is known is modally robust phenomena, grouped into natural kinds "with a human face". Cutting communities out of this history is an epistemic injustice. | Read |
+| [NOTE-2367](../../../record/notes.d/NOTE-2367.md) | Wilkins & Bourrat — Replication and Reproduction (SEP, 2022 revision) | For Griesemer only: a reproducer develops and overlaps materially with its progeny; reproduction is development plus progeneration; inheritance is a system property acquired in development; replication is reproduction's evolved terminal form, itself evolved from multiplication; the concept fixes no level. The entry cites both of Griesemer's 2000 papers but restates neither one's argument, and one page citation ("2000a: 76") points to the wrong paper. | Skimmed |

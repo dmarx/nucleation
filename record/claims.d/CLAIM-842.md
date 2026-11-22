@@ -16,7 +16,7 @@ history:
     after Hattori, Hattori and Watanabe (1987), both registered; a section
     states the conditions the theorem needs and its exceptions, and the
     worked case where non-equilibrium terms remove the 2D logarithm
-    (ARG-tmpx5evn). The claim stays supposed; its status is unchanged.
+    (ARG-200). The claim stays supposed; its status is unchanged.
 role: supposed
 warrant: demonstrated
 tags:
@@ -34,10 +34,10 @@ grounds:
 - THEORY-2047
 - THEORY-2051
 - LIT-2985
-- THEORY-tmp1nvjs
-- THEORY-tmp85ij4
-- LIT-tmpu2kk5
-- LIT-tmp309tx
+- THEORY-2194
+- THEORY-2195
+- LIT-3061
+- LIT-3051
 summary: >-
   A29 §6 of the exchange "Rich Get Richer Power Laws" (2026-11-21):
   equipartition over the Laplace modes of an interaction graph whose
@@ -54,7 +54,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: LIT-2969 — Unfetched; Kosterlitz and Thouless, read through neighbours -->
-<!-- inactive-ok-file: THEORY-tmp1nvjs THEORY-tmp85ij4 THEORY-tmpqma2p THEORY-tmpdfeto NOTE-tmpurjns ARG-tmpx5evn LIT-tmpu2kk5 LIT-tmp309tx — Proposed, Skimmed, Deferred or new; the readings of 2026-11-22, the works registered from them and the argument on this claim -->
+<!-- inactive-ok-file: THEORY-2194 THEORY-2195 THEORY-2203 THEORY-2199 NOTE-2295 ARG-200 LIT-3061 LIT-3051 — Proposed, Skimmed, Deferred or new; the readings of 2026-11-22, the works registered from them and the argument on this claim -->
 <!-- inactive-ok-file: TERM-136 CLAIM-798 THEORY-2047 THEORY-2051 THEORY-1272 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 <!-- inactive-ok-file: LIT-2985 until 2027-05-22 — Unavailable; Mermin and Wagner, read through Halperin, Gelfert and Nolting, and Nachtergaele -->
 
@@ -120,12 +120,12 @@ fluctuation criterion.
 ## Where the theorem is held, and its limits
 
 *Added 2026-11-22, after the neighbours of Mermin and Wagner were read
-([ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)).*
+([ARG-200](../arguments.d/ARG-200.md)).*
 
 **The graph version exists.** As Gelfert and Nolting report it
-([LIT-tmpbgf6y](../literature.d/LIT-tmpbgf6y.md), [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md), §3.4), Cassi (1992, [LIT-tmpu2kk5](../literature.d/LIT-tmpu2kk5.md)) applied
+([LIT-3057](../literature.d/LIT-3057.md), [THEORY-2194](../theory.d/THEORY-2194.md), §3.4), Cassi (1992, [LIT-3061](../literature.d/LIT-3061.md)) applied
 Hattori, Hattori and Watanabe's Gaussian field theory on general
-networks (1987, [LIT-tmp309tx](../literature.d/LIT-tmp309tx.md)) to show that on fractal and disordered
+networks (1987, [LIT-3051](../literature.d/LIT-3051.md)) to show that on fractal and disordered
 lattices "whose spectral dimension is less or equal to 2", "at finite
 temperature no spontaneous magnetization can exist for the classical
 O(n) and the ferromagnetic (quantum) Heisenberg model", from "the
@@ -133,11 +133,11 @@ infrared divergencies displayed by the corresponding Gaussian models".
 Hattori et al.'s premise, that "the only geometrical structure that spins
 can feel is the one given by the Hamiltonian", is A29's point that the
 governing dimension is the interaction graph's. Nachtergaele's proof
-([LIT-tmp25uib](../literature.d/LIT-tmp25uib.md), [THEORY-tmp85ij4](../theory.d/THEORY-tmp85ij4.md)) needs no translation invariance. Both
+([LIT-3050](../literature.d/LIT-3050.md), [THEORY-2195](../theory.d/THEORY-2195.md)) needs no translation invariance. Both
 originals are registered and unread; the record holds them at second
 hand.
 
-**What the theorem needs** (Halperin, [LIT-tmp3zns2](../literature.d/LIT-tmp3zns2.md), [THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md),
+**What the theorem needs** (Halperin, [LIT-3054](../literature.d/LIT-3054.md), [THEORY-2203](../theory.d/THEORY-2203.md),
 which `bounds` this claim):
 
 - a continuous symmetry of the Hamiltonian whose generator is a sum of
@@ -158,7 +158,7 @@ which `bounds` this claim):
   but nonlinear coupling renormalizes the bending constant, "which
   removes the divergence" (Halperin §II): order survives where the
   Gaussian criterion predicts its loss.
-- In Toner and Tu's flock ([LIT-2970](../literature.d/LIT-2970.md), [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md), which `bounds` this
+- In Toner and Tu's flock ([LIT-2970](../literature.d/LIT-2970.md), [THEORY-2199](../theory.d/THEORY-2199.md), which `bounds` this
   claim) the linear theory has this claim's divergence, logarithmic in
   d = 2, and the non-equilibrium convective terms remove it, giving true
   long-range order. Relaxing the equilibrium premise can reverse the
@@ -166,7 +166,7 @@ which `bounds` this claim):
 - At d_s = 2 exactly, the XY case shows that what survives can be
   algebraic order, decided by defects that no Gaussian elastic energy
   contains: the spin-wave energy alone "is perfectly analytic" and has no
-  transition (Drouin-Touchette, [NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md)). A learned-manifold
+  transition (Drouin-Touchette, [NOTE-2295](../notes.d/NOTE-2295.md)). A learned-manifold
   analogue would need its defects identified.
 
 So the criterion's mathematics is a held theorem for spin models with a

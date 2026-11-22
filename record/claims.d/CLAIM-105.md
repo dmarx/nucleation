@@ -53,12 +53,12 @@ history:
   note: >-
     A dated note says what the "signalling estimator with bias correction"
     of the note of 2026-10-29 costs, from LEAD-182's simulation
-    (CLAIM-tmpalxab, CASE-tmpjp6vg). The claim is unchanged.
+    (CLAIM-896, CASE-328). The claim is unchanged.
 - version: 6
   date: '2026-11-22'
   note: >-
     A dated note points to the signalling interval LEAD-072 built
-    (CLAIM-tmp1o9d0). The claim is unchanged.
+    (CLAIM-937). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -92,8 +92,8 @@ complements:
 bears_on:
 - QUESTION-004
 ---
-<!-- inactive-ok-file: CLAIM-tmp1o9d0 — new; what LEAD-072 filed on 2026-11-22 -->
-<!-- inactive-ok-file: CLAIM-tmpalxab CASE-tmpjp6vg CASE-tmpl2va4 — new; filed by LEAD-182 on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-937 — new; what LEAD-072 filed on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-896 CASE-328 CASE-329 — new; filed by LEAD-182 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -235,14 +235,14 @@ judgements has been run.
 
 The defeat condition counts changes in CbD contextuality "beyond
 sampling error", and the note of 2026-10-29 says that needs a signalling
-estimator with bias correction. [LEAD-182](../leads.d/LEAD-182.md)'s simulation ([CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md))
+estimator with bias correction. [LEAD-182](../leads.d/LEAD-182.md)'s simulation ([CASE-328](../cases.d/CASE-328.md))
 finds the plug-in estimator biased upward when true signalling is small,
 by about 4·√(2/π)·√(2/n) when there is none, and the bias cuts opposite
-ways for the two verdicts ([CLAIM-tmpalxab](CLAIM-tmpalxab.md)). A test that a step created
+ways for the two verdicts ([CLAIM-896](CLAIM-896.md)). A test that a step created
 contextuality can use it and stay valid; a test that a step left
 contextuality unchanged cannot, and needs a conservative bound. So a
 chain study testing this condition would need the conservative bound on
-the "kept" side, and samples in the thousands a context. [CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md)
+the "kept" side, and samples in the thousands a context. [CASE-329](../cases.d/CASE-329.md)
 is the single-scenario design such a study would run on each side of a
 step.
 
@@ -250,9 +250,9 @@ step.
 
 The note of 2026-10-29 says the defeat condition "needs a signalling
 estimator with bias correction and a stated sampling error". [LEAD-072](../leads.d/LEAD-072.md)
-supplies the error for the signalling term ([CLAIM-tmp1o9d0](CLAIM-tmp1o9d0.md)): simultaneous
+supplies the error for the signalling term ([CLAIM-937](CLAIM-937.md)): simultaneous
 Clopper-Pearson intervals on the context marginals bound Δ with coverage
 at least 1 − α at any count, while no estimator of Δ can be unbiased. A
 chain study would carry that interval into the CbD criterion beside a
-bound on the correlation term, as [CLAIM-tmpalxab](CLAIM-tmpalxab.md)'s conservative bound
+bound on the correlation term, as [CLAIM-896](CLAIM-896.md)'s conservative bound
 does. The claim is unchanged.

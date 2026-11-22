@@ -35,7 +35,7 @@ summary: >-
   tracking proof does not apply as claimed. The main theorems are standard
   and not in doubt.
 ---
-<!-- inactive-ok-file: NOTE-tmpy4hcs THEORY-tmpocjqv LIT-3005 — Skimmed, Proposed or Unfetched; the reading of Alsmeyer and Mentemeier and the Kesten paper it stands in for, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: NOTE-2273 THEORY-2182 LIT-3005 — Skimmed, Proposed or Unfetched; the reading of Alsmeyer and Mentemeier and the Kesten paper it stands in for, cited in the note of 2026-11-22 -->
 
 # NOTE-078: Filip, Notes on the Multiplicative Ergodic Theorem
 
@@ -173,8 +173,8 @@ The methods are:
 ## Note of 2026-11-22: Alsmeyer and Mentemeier, skimmed
 
 **Background.** The multiplicative ergodic theorem these notes expound
-supplies the Liapunov exponent that Alsmeyer and Mentemeier ([LIT-tmpt282z](../literature.d/LIT-tmpt282z.md),
-[NOTE-tmpy4hcs](NOTE-tmpy4hcs.md), [THEORY-tmpocjqv](../theory.d/THEORY-tmpocjqv.md)) require to be negative for the random
+supplies the Liapunov exponent that Alsmeyer and Mentemeier ([LIT-3045](../literature.d/LIT-3045.md),
+[NOTE-2273](NOTE-2273.md), [THEORY-2182](../theory.d/THEORY-2182.md)) require to be negative for the random
 difference equation R_n = M_n R_(n−1) + Q_n, the matrix form of Kesten's
 1973 theorem ([LIT-3005](../literature.d/LIT-3005.md)). Kesten's paper and Furstenberg and Kesten's are
 the same author's two results on products of random matrices: the rate,

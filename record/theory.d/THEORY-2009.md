@@ -26,7 +26,7 @@ summary: >-
   and colleagues cite for covers attracting SGD; it supports less than
   they cite it for. Proposed until its promote_when is met.
 ---
-<!-- inactive-ok-file: THEORY-tmpbobud THEORY-tmpg4aat — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
+<!-- inactive-ok-file: THEORY-2163 THEORY-2164 — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
 
 # THEORY-2009: Chen, Kunin, Yamamura and Ganguli show that the symmetry-generated affine sets where a hidden neuron vanishes or two neurons in a layer are identical are invariant under SGD; that for a continuous model of SGD such a set attracts under a sufficient condition weighing the loss's curvature against gradient noise, which can hold at saddles and maxima; and that VGG-16 and ResNet-18 trained with SGD form clusters of near-identical neurons that grow with the learning rate
 
@@ -58,10 +58,10 @@ A cross-link: the sets this account calls invariant are the older
 literature's singular sets. The vanishing-neuron set is Amari, Park and
 Ozeki's critical set vᵢwᵢ = 0 and Wei and colleagues' elimination
 singularity; the identical-neuron set is the wᵢ = ±wⱼ component and the
-overlap singularity ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md), [NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md)). Both earlier works find
+overlap singularity ([NOTE-2255](../notes.d/NOTE-2255.md), [NOTE-2254](../notes.d/NOTE-2254.md)). Both earlier works find
 these sets attract gradient learning without being stable equilibria, a
-"Milnor attractor" ([THEORY-tmpbobud](THEORY-tmpbobud.md)) or "Milnor-like attractor" whose
-basin "has a positive measure" ([THEORY-tmpg4aat](THEORY-tmpg4aat.md)), and in Wei and
+"Milnor attractor" ([THEORY-2163](THEORY-2163.md)) or "Milnor-like attractor" whose
+basin "has a positive measure" ([THEORY-2164](THEORY-2164.md)), and in Wei and
 colleagues noise moves the state along the line until it leaves. This
 account adds SGD's own noise as what decides attraction. A parallel, not
 an extension: the models and the noise differ, and no relation is

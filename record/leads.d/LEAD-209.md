@@ -11,7 +11,7 @@ history:
   note: >-
     Edited in place on 2026-11-22 after Beck and Cohen (LIT-2962) was
     read: a row for the third-order term of the small-variance expansion,
-    the mixture column's cutoff cell restated by CLAIM-tmpf9qt9, and a
+    the mixture column's cutoff cell restated by CLAIM-857, and a
     paragraph saying that the turbulence and mixture columns are not
     exclusive. The plan and status are unchanged.
 - version: 3
@@ -52,9 +52,9 @@ summary: >-
   mechanism is known. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpw4qgu THEORY-tmpczldx CLAIM-tmpf9qt9 — Proposed; the readings of 2026-11-22 cited in the notes and the table, and the assistant's condition on the spread -->
+<!-- inactive-ok-file: THEORY-2173 THEORY-2176 CLAIM-857 — Proposed; the readings of 2026-11-22 cited in the notes and the table, and the assistant's condition on the spread -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-829 CLAIM-803 CLAIM-846 CLAIM-850 — filed from the same exchange on 2026-11-21, Proposed or Open -->
-<!-- inactive-ok-file: THEORY-tmpmoyol THEORY-tmpo3w5v THEORY-tmpdfeto THEORY-tmpwdka8 NOTE-tmpcjw5n CLAIM-tmpvq33w LIT-2969 — Proposed, Skimmed, Unfetched or new; the readings of 2026-11-22 and the claim filed from them -->
+<!-- inactive-ok-file: THEORY-2201 THEORY-2202 THEORY-2199 THEORY-2206 NOTE-2285 CLAIM-862 LIT-2969 — Proposed, Skimmed, Unfetched or new; the readings of 2026-11-22 and the claim filed from them -->
 
 # LEAD-209: Write and try a protocol that reads which mechanism maintains an observed power law from how its cutoff, its rescaled distributions, its dynamics and its response to a symmetry-breaking field behave
 
@@ -83,7 +83,7 @@ variance warning.
 
 | Observation | Tuned criticality | Symmetry (Goldstone, XY) | Flux (turbulence) | Growth (KPZ) | Mixture or heterogeneity |
 |---|---|---|---|---|---|
-| cutoff as the control parameter moves | grows on approach | none in the phase | set by injection and dissipation scales | none needed | fixed by the spread's lowest rate; none if the spread has power-law weight at zero rate ([CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md)) |
+| cutoff as the control parameter moves | grows on approach | none in the phase | set by injection and dissipation scales | none needed | fixed by the spread's lowest rate; none if the spread has power-law weight at zero rate ([CLAIM-857](../claims.d/CLAIM-857.md)) |
 | cutoff with system size L | ∝ L^D, with collapse s^(−τ) f(s/L^D) | ∝ L | fixed by viscous scale | W ∝ L^α | independent of L |
 | dynamic exponent z, from C(r, t) = r^(−2Δ) F(t/r^z) | model's z | 1 or 2 by mode | from flux scaling | 3/2 in 1D | none |
 | net probability currents, path-space KL(forward ‖ reversed) | zero for an equilibrium point (Ising), nonzero for an absorbing-state one (directed percolation) | zero at equilibrium | nonzero | nonzero | either |
@@ -98,7 +98,7 @@ superstatistics is turbulence: the heavy tails of velocity differences
 are modelled as an average over the fluctuating energy dissipation rate
 ("In the turbulence applications ... the fluctuating intensive quantity
 is related to the energy dissipation rate of the flow", [LIT-2962](../literature.d/LIT-2962.md), p. 9;
-[THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)). So one system can be read under the flux column and the
+[THEORY-2176](../theory.d/THEORY-2176.md)). So one system can be read under the flux column and the
 mixture column at once, and the protocol should score that as a joint
 answer, not a miss. Their third-order term is the row added above: at
 small variance every superstatistics has the same first correction, and
@@ -136,7 +136,7 @@ histories" for these cases only.
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-**Method** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md), [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)). The protocol's
+**Method** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-2262](../notes.d/NOTE-2262.md), [THEORY-2173](../theory.d/THEORY-2173.md)). The protocol's
 first step can use their nested likelihood-ratio test of a pure power law
 against one with an exponential cutoff (§5.2, Tables 6.2–6.3), which
 detects a cutoff in one sample; the cutoff form is "clearly favored" for
@@ -146,12 +146,12 @@ step.
 
 ## Change of 2026-11-22: Beck and Cohen, read
 
-Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md))
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-2265](../notes.d/NOTE-2265.md); [THEORY-2176](../theory.d/THEORY-2176.md))
 **qualify the table**: a row for the third-order term g(q), a discriminating
 observable the table lacked; the mixture column's cutoff cell restated
 (a spread with power-law weight at zero rate has no cutoff; one bounded
 away from zero has an exponential cutoff at its lowest rate,
-[CLAIM-tmpf9qt9](../claims.d/CLAIM-tmpf9qt9.md)); and the paragraph above on the flux and mixture columns.
+[CLAIM-857](../claims.d/CLAIM-857.md)); and the paragraph above on the flux and mixture columns.
 The trial's "exponential mixture over a gamma spread of rates" is their
 eq. 13, (1 + bE)^(−c). Version 2.
 
@@ -159,7 +159,7 @@ eq. 13, (1 + bE)^(−c). Version 2.
 
 - **Skewness of the height, not of increments.** The KPZ cell "nonzero
   skewness" in the increments row was near the mark but misplaced: what
-  Takeuchi and Sano measure ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md); [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)) is
+  Takeuchi and Sano measure ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-2284](../notes.d/NOTE-2284.md); [THEORY-2201](../theory.d/THEORY-2201.md)) is
   the skewness of the height itself, the local radius, about 0.2241, with
   kurtosis about 0.09345, quantities "which do not depend on the
   parameter estimates" (p. 3). The cell now says so, and a row of its
@@ -169,11 +169,11 @@ eq. 13, (1 + bE)^(−c). Version 2.
   second kind of scale-introducing perturbation. In a charged
   superconducting film a finite penetration depth "limits the range of
   the logarithmic interaction between vortices", so "the vortices are
-  always free at any T > 0" (Kosterlitz's lecture, [LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), p. 98;
-  [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md)). It ends the untuned XY phase without breaking the
-  symmetry. [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md) states the shape the two rows share.
-- **The flock's field response.** Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md);
-  [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md)) support the field row for flocks: a compass
+  always free at any T > 0" (Kosterlitz's lecture, [LIT-3053](../literature.d/LIT-3053.md), p. 98;
+  [THEORY-2206](../theory.d/THEORY-2206.md)). It ends the untuned XY phase without breaking the
+  symmetry. [CLAIM-862](../claims.d/CLAIM-862.md) states the shape the two rows share.
+- **The flock's field response.** Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-2285](../notes.d/NOTE-2285.md);
+  [THEORY-2199](../theory.d/THEORY-2199.md)) support the field row for flocks: a compass
   "will introduce a "mass" that makes any fluctuation away from the
   pre-picked direction of flock motion decay rapidly" (p. 63).
 
@@ -181,7 +181,7 @@ Version 3.
 
 ## Note of 2026-11-22: Kardar, Parisi and Zhang, read
 
-KPZ ([LIT-2978](../literature.d/LIT-2978.md), [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md); [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md)) **supports the KPZ
+KPZ ([LIT-2978](../literature.d/LIT-2978.md), [NOTE-2287](../notes.d/NOTE-2287.md); [THEORY-2202](../theory.d/THEORY-2202.md)) **supports the KPZ
 column's z and W cells** for d = 1, exact there, and scopes the column to
 d ≤ 2. It has nothing on skewness, currents or a cutoff. A trial on a 1D
 discretization should recover z = 3/2 and the growth exponent ⅓.

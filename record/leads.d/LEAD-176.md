@@ -32,8 +32,8 @@ summary: >-
   From the record's Deferred and Unfetched works. Filed by the backlog
   audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: THEORY-tmpvjav8 THEORY-tmp5zzgh THEORY-tmp54yyf THEORY-tmpk0h4i THEORY-tmpi08qh THEORY-418 — Proposed; the readings this lead filed, and the account it notes -->
-<!-- inactive-ok-file: NOTE-tmp7ylue — Skimmed; the partial reading of the Griesemer neighbour -->
+<!-- inactive-ok-file: THEORY-2270 THEORY-2271 THEORY-2269 THEORY-2273 THEORY-2275 THEORY-418 — Proposed; the readings this lead filed, and the account it notes -->
+<!-- inactive-ok-file: NOTE-2367 — Skimmed; the partial reading of the Griesemer neighbour -->
 <!-- inactive-ok-file: LIT-1926 LIT-1932 LIT-1937 LIT-1940 — Unavailable or Unfetched since the reading of 2026-11-22; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-176: Read the scaffolding and individuality works
@@ -66,18 +66,18 @@ Readings that bear on imposed against produced boundaries test [CLAIM-194](../cl
 Carried out on branch `claude/lead-176-scaffolding-individuality`.
 
 - **Read**: [LIT-1927](../literature.d/LIT-1927.md) (Bourrat 2022, author's accepted manuscript;
-  [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md), [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md)) and [LIT-1935](../literature.d/LIT-1935.md) (Shavit and Sharon 2023,
-  PMC; [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md), [THEORY-tmp5zzgh](../theory.d/THEORY-tmp5zzgh.md)). Both now Active.
+  [NOTE-2361](../notes.d/NOTE-2361.md), [THEORY-2270](../theory.d/THEORY-2270.md)) and [LIT-1935](../literature.d/LIT-1935.md) (Shavit and Sharon 2023,
+  PMC; [NOTE-2363](../notes.d/NOTE-2363.md), [THEORY-2271](../theory.d/THEORY-2271.md)). Both now Active.
 - **Unfetched**: [LIT-1940](../literature.d/LIT-1940.md) (Black, Bourrat and Rainey 2020). bioRxiv
   returned 429 (Cloudflare), PhilArchive a Cloudflare challenge, MPG PuRe
-  403. Neighbour read: the same group's 2024 paper, [LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md)
-  ([NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md), [THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)).
+  403. Neighbour read: the same group's 2024 paper, [LIT-3137](../literature.d/LIT-3137.md)
+  ([NOTE-2362](../notes.d/NOTE-2362.md), [THEORY-2269](../theory.d/THEORY-2269.md)).
 - **Unavailable**: [LIT-1926](../literature.d/LIT-1926.md) (Wimsatt 2007, a closed book), with
   Wimsatt and Schank 2004 read in its place for the definition of
-  generative entrenchment ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md), [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md), [THEORY-tmpk0h4i](../theory.d/THEORY-tmpk0h4i.md));
+  generative entrenchment ([LIT-3138](../literature.d/LIT-3138.md), [NOTE-2365](../notes.d/NOTE-2365.md), [THEORY-2273](../theory.d/THEORY-2273.md));
   [LIT-1932](../literature.d/LIT-1932.md) and [LIT-1937](../literature.d/LIT-1937.md) (Griesemer 2000 and 2001), with the SEP entry on
-  replication and reproduction skimmed in their place ([LIT-tmp460ih](../literature.d/LIT-tmp460ih.md),
-  [NOTE-tmp7ylue](../notes.d/NOTE-tmp7ylue.md), [THEORY-tmpi08qh](../theory.d/THEORY-tmpi08qh.md)).
+  replication and reproduction skimmed in their place ([LIT-3140](../literature.d/LIT-3140.md),
+  [NOTE-2367](../notes.d/NOTE-2367.md), [THEORY-2275](../theory.d/THEORY-2275.md)).
 - **Dated notes** on [CLAIM-194](../claims.d/CLAIM-194.md), [CLAIM-529](../claims.d/CLAIM-529.md), [CLAIM-531](../claims.d/CLAIM-531.md), [CLAIM-522](../claims.d/CLAIM-522.md),
   [CLAIM-184](../claims.d/CLAIM-184.md), [CLAIM-185](../claims.d/CLAIM-185.md), [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-284](../questions.d/QUESTION-284.md), [QUESTION-093](../questions.d/QUESTION-093.md),
   [QUESTION-277](../questions.d/QUESTION-277.md) and [THEORY-418](../theory.d/THEORY-418.md).

@@ -35,7 +35,7 @@ summary: >-
   reading, is [ARG-132](../arguments.d/ARG-132.md). The statement of the reading is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpu0f9k THEORY-tmpm3ux2 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2193 THEORY-2191 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-834 CLAIM-823 ARG-132 CLAIM-833 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
 
 # CLAIM-802: Alternative reading (a) of the owner's suggestion on singularities: a phase transition in learning is the network carrying out a resolution of a singularity, so that in passing through the transition training performs, or passes through, a blow-up of a singular point of its parameter space
@@ -81,7 +81,7 @@ from [CLAIM-305](CLAIM-305.md) against this reading and answers its critical que
 ## Note of 2026-11-22: Yang, and Lee, Smith, Adam and Hoogland, read
 
 Contrast and background; neither bears on this reading. Yang's transition
-([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)) is a dynamical instability of a detached probe's loss
+([THEORY-2193](../theory.d/THEORY-2193.md)) is a dynamical instability of a detached probe's loss
 at a saddle, nothing like training carrying out a blow-up. Lee et al.'s
-([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)) are posterior mass moving between two regions U and V;
+([THEORY-2191](../theory.d/THEORY-2191.md)) are posterior mass moving between two regions U and V;
 no resolution appears.

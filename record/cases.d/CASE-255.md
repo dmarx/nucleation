@@ -42,7 +42,7 @@ summary: >-
   evaluator-capture arm. Not run. The design is A's; adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp6btcq CLAIM-tmp7ggg0 CASE-tmpl0ccq — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-348 CLAIM-928 CASE-332 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1731 THEORY-1738 THEORY-1743 THEORY-1776 THEORY-1784 THEORY-1793 THEORY-1794 THEORY-1799 THEORY-1801 THEORY-1802 THEORY-1803 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-255: A proposed study: a record-keeping collective improves its procedures over generations, an earlier and a later improver are compared from the same fresh starting state, and the collective's own diagnostic machinery is then damaged
@@ -164,8 +164,8 @@ not a fixed boundary in this case's sense.
 
 ## Note of 2026-11-22: run in reduced form
 
-[LEAD-140](../leads.d/LEAD-140.md) ran this design as a simulation ([CASE-tmp6btcq](CASE-tmp6btcq.md); code in
-scratch/studies/lead-140/). It was built on [CASE-tmpl0ccq](CASE-tmpl0ccq.md)'s organization of
+[LEAD-140](../leads.d/LEAD-140.md) ran this design as a simulation ([CASE-348](CASE-348.md); code in
+scratch/studies/lead-140/). It was built on [CASE-332](CASE-332.md)'s organization of
 [CASE-186](CASE-186.md), with a hill-climbing improver in place of the four-agent team and
 a record of past moves in place of a governed record.
 
@@ -198,4 +198,4 @@ Not run:
 - the specialist with a poor record;
 - a second correction of the improver.
 
-The claim drawn is [CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md). The case is unchanged.
+The claim drawn is [CLAIM-928](../claims.d/CLAIM-928.md). The case is unchanged.

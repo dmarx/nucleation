@@ -27,7 +27,7 @@ summary: >-
   the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-440 CLAIM-441 LIT-910 LIT-912 LIT-914 — Proposed, Unavailable; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-tmpiyf8w THEORY-tmpto8hu THEORY-tmp8q7t4 LIT-tmp6jvaq LIT-tmp9d4ht LIT-tmpvw1m3 LIT-tmps1x50 LIT-tmpptux6 LIT-tmp84fnw LIT-tmp6uhtn LIT-tmpgmwre — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
+<!-- inactive-ok-file: CLAIM-872 THEORY-2208 THEORY-2207 LIT-3063 LIT-3066 LIT-3072 LIT-3069 LIT-3068 LIT-3065 LIT-3064 LIT-3067 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
 
 # LEAD-054: Settle where flow's affect lies: in-episode reports of flow, and a measure that separates intrinsic pleasantness from goal-conduciveness valence
 
@@ -68,19 +68,19 @@ the activity, affect at the same signal, and the two related: of the 83,
 6 qualify, 7 sample flow without an affect relation in the abstract, 70
 are excluded (most are experience-sampling studies of other things);
 of 6 supplementary records, 4 qualify. Ten qualifying works, none held
-before; all registered: [LIT-tmp6jvaq](../literature.d/LIT-tmp6jvaq.md) (Csikszentmihalyi and LeFevre 1989),
-[LIT-tmp9d4ht](../literature.d/LIT-tmp9d4ht.md) (Moneta and Csikszentmihalyi 1996), [LIT-tmps1x50](../literature.d/LIT-tmps1x50.md)
-(Schallberger and Pfister 2001), [LIT-tmpu5vec](../literature.d/LIT-tmpu5vec.md) (Rheinberg et al. 2007),
-[LIT-tmpvw1m3](../literature.d/LIT-tmpvw1m3.md) (Fullagar and Kelloway 2009), [LIT-tmp6uhtn](../literature.d/LIT-tmp6uhtn.md) (Bassi and Delle
-Fave 2012), [LIT-tmpu4yh1](../literature.d/LIT-tmpu4yh1.md) (Engeser and Baumann 2014), [LIT-tmp84fnw](../literature.d/LIT-tmp84fnw.md) (Holt
-2017), [LIT-tmpptux6](../literature.d/LIT-tmpptux6.md) (Tavares et al. 2019, Unfetched behind a Cloudflare
-challenge) and [LIT-tmpgmwre](../literature.d/LIT-tmpgmwre.md) (Vargas et al. 2025).
+before; all registered: [LIT-3063](../literature.d/LIT-3063.md) (Csikszentmihalyi and LeFevre 1989),
+[LIT-3066](../literature.d/LIT-3066.md) (Moneta and Csikszentmihalyi 1996), [LIT-3069](../literature.d/LIT-3069.md)
+(Schallberger and Pfister 2001), [LIT-3071](../literature.d/LIT-3071.md) (Rheinberg et al. 2007),
+[LIT-3072](../literature.d/LIT-3072.md) (Fullagar and Kelloway 2009), [LIT-3064](../literature.d/LIT-3064.md) (Bassi and Delle
+Fave 2012), [LIT-3070](../literature.d/LIT-3070.md) (Engeser and Baumann 2014), [LIT-3065](../literature.d/LIT-3065.md) (Holt
+2017), [LIT-3068](../literature.d/LIT-3068.md) (Tavares et al. 2019, Unfetched behind a Cloudflare
+challenge) and [LIT-3067](../literature.d/LIT-3067.md) (Vargas et al. 2025).
 
-**Read**: Engeser and Baumann ([NOTE-tmpoe2pz](../notes.d/NOTE-tmpoe2pz.md), [THEORY-tmpto8hu](../theory.d/THEORY-tmpto8hu.md)) and
-Rheinberg et al. ([NOTE-tmp2n8he](../notes.d/NOTE-tmp2n8he.md), [THEORY-tmp8q7t4](../theory.d/THEORY-tmp8q7t4.md)), the two that measure
+**Read**: Engeser and Baumann ([NOTE-2298](../notes.d/NOTE-2298.md), [THEORY-2208](../theory.d/THEORY-2208.md)) and
+Rheinberg et al. ([NOTE-2297](../notes.d/NOTE-2297.md), [THEORY-2207](../theory.d/THEORY-2207.md)), the two that measure
 flow by all its components with affect at each signal and that had open
 copies. Flow goes with valence (.31) and positive activation (.59) at
-the same signal and not with valence at the next. Filed as [CLAIM-tmpiyf8w](../claims.d/CLAIM-tmpiyf8w.md):
+the same signal and not with valence at the next. Filed as [CLAIM-872](../claims.d/CLAIM-872.md):
 [CLAIM-441](../claims.d/CLAIM-441.md)'s third exit is not supported on these data. By "What would
 count", this is positive affect during the episode, with the
 qualifications the claim states: continuous flow scores, a two-hour lag,

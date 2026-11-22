@@ -48,7 +48,7 @@ bears_on:
 - QUESTION-275
 ---
 <!-- inactive-ok-file: THEORY-967 — Proposed; the companion account from the same reading, cited as open -->
-<!-- inactive-ok-file: THEORY-tmpr9w2r CLAIM-812 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: THEORY-2160 CLAIM-812 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 # THEORY-975: In a two-layer attention-only transformer trained on the Pile, the weight-refined local learning coefficients of individual attention heads start alike and diverge over training, and clustering the curves groups the heads by the functional types that ablation assigns them at the end of training, previous-token, current-token, induction and n-gram-memorizing; among layer-1 heads, those running simple algorithms end with the lowest values and those memorizing the most n-grams with the highest
 
 ## Source
@@ -123,7 +123,7 @@ memorizes.
 
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
-A parallel from the same run ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](THEORY-tmpr9w2r.md)): the
+A parallel from the same run ([NOTE-2248](../notes.d/NOTE-2248.md), [THEORY-2160](THEORY-2160.md)): the
 whole-model coefficient whose per-head refinement this account reports
 divides the run into stages LM1–LM5 at its plateaus, matched to bigrams,
 n-grams, previous-token heads and induction heads. The per-head

@@ -86,7 +86,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named as where the singular theorems are proved, nothing here rests on reading it -->
 <!-- inactive-ok-file: THEORY-079 THEORY-080 — Proposed; an account that presupposes this one and one that extends it, named in Connections -->
 
-<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2167 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
 # THEORY-087: The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold; with the prior positive on the optimal set, λ falls below d/2 when that set is infinite or has a point of degenerate curvature, and equals d/2 when it is finitely many points of non-degenerate curvature
 
@@ -313,7 +313,7 @@ Neither changes the reading; no relation is written.
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-A parallel ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md), [THEORY-tmpx26x7](THEORY-tmpx26x7.md)). The review notes that BIC
+A parallel ([NOTE-2256](../notes.d/NOTE-2256.md), [THEORY-2167](THEORY-2167.md)). The review notes that BIC
 and AIC are derived "in the limit of abundant, informative data" (§1), and
 its §5 case against the Jeffreys prior in sloppy models, where "Scaling
 the metric g → M g has no effect at all", is a case of that limit failing

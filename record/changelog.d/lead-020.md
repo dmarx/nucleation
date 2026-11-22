@@ -1,6 +1,6 @@
 ### Added
 
-- [CASE-tmp943kt](record/cases.d/CASE-tmp943kt.md) (Proposed, executed-study), the run [LEAD-020](record/leads.d/LEAD-020.md) asks for.
+- [CASE-353](record/cases.d/CASE-353.md) (Proposed, executed-study), the run [LEAD-020](record/leads.d/LEAD-020.md) asks for.
   [CASE-099](record/cases.d/CASE-099.md)'s loop is built inside one mind with action held fixed, so that
   it locks in without anchors. [QUESTION-121](record/questions.d/QUESTION-121.md)'s candidates are switches,
   each with its objection built in. With all of them, no single removal
@@ -8,7 +8,7 @@
   processing signals or exogenous capture makes it lock in, and removing
   an evidence channel leaves it blind. Code, tests and results are under
   scratch/studies/lead-020/.
-- [CLAIM-tmp95c61](record/claims.d/CLAIM-tmp95c61.md) (Proposed, empirical, thesis). In that model, what keeps
+- [CLAIM-931](record/claims.d/CLAIM-931.md) (Proposed, empirical, thesis). In that model, what keeps
   the loop from locking in is a score or weight its own authority does not
   set. Evidence that arrives unselected keeps the loop sighted without
   anchoring it, and the anchors are redundant. It gives two readings of

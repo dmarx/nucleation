@@ -162,7 +162,7 @@ design.
 
 ## Note of 2026-11-22: Ivern and Carbonell, read
 
-A **weak bearing**, no edge ([LIT-2447](../literature.d/LIT-2447.md), [NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md)). The review reports
+A **weak bearing**, no edge ([LIT-2447](../literature.d/LIT-2447.md), [NOTE-2309](../notes.d/NOTE-2309.md)). The review reports
 no spending distribution and no design history. Its catalogue includes
 "Dynamic LB odds, pricing, or offers based on player behavior" (Table 2):
 where design is personalized, a revenue-optimal design can be set group by

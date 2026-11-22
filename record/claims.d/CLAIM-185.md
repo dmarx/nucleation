@@ -329,7 +329,7 @@ Rechecked after [CASE-183](../cases.d/CASE-183.md)'s revision of 2026-11-07, whi
 
 ## Note of 2026-11-22: generative entrenchment, background
 
-Read for [LEAD-176](../leads.d/LEAD-176.md): Wimsatt and Schank 2004 ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md), [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md)),
+Read for [LEAD-176](../leads.d/LEAD-176.md): Wimsatt and Schank 2004 ([LIT-3138](../literature.d/LIT-3138.md), [NOTE-2365](../notes.d/NOTE-2365.md)),
 standing in for Wimsatt's book ([LIT-1926](../literature.d/LIT-1926.md), Unavailable). Background; no
 edge. Entrenchment explains persistence by dependence: a structure that
 much depends on is kept because changing it is costly. The claim runs

@@ -23,7 +23,7 @@ summary: >-
   that would sharpen the world-model distinction. Not run; its
   architectures, tasks and margins are left to a preregistration.
 ---
-<!-- inactive-ok-file: CASE-tmp6hkf9 CLAIM-tmpq92r4 CLAIM-tmpo59pd — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-384 CLAIM-991 CLAIM-990 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-514 CLAIM-519 — Proposed or Open; the claims it would test and the question it serves, cited as open -->
 
 # CASE-187: A proposed study: agents matched on competence over a declared family of goals, one planning with an explicit transition model, one a directly learned goal-conditioned policy, one a distributed predictive-state controller, compared on the original goals, on on-demand predictive and interventional queries, under targeted internal interventions, and after environmental change and damage to their predictive machinery, to find which world-modeling achievements are linked and which come apart under matched resources
@@ -73,7 +73,7 @@ It asks what that theorem leaves open.
 
 ## Note of 2026-11-22: executed at toy scale
 
-[CASE-tmp6hkf9](CASE-tmp6hkf9.md) runs this design for [LEAD-160](../leads.d/LEAD-160.md) on twenty 8x8 gridworld
+[CASE-384](CASE-384.md) runs this design for [LEAD-160](../leads.d/LEAD-160.md) on twenty 8x8 gridworld
 mazes. The architectures are tabular: a transition table with value
 iteration, goal-conditioned Q-learning, and action-conditioned occupancy
 demons. Goal competence is matched exactly. Each of the four readings in
@@ -82,11 +82,11 @@ demons. Goal competence is matched exactly. Each of the four readings in
 - **Goals and read-out queries are linked.** Competence predicts read-out
   query competence for all three.
 - **Goals and within-budget queries come apart.** Query competence within
-  each agent's own budget separates by query family ([CLAIM-tmpq92r4](../claims.d/CLAIM-tmpq92r4.md)).
+  each agent's own budget separates by query family ([CLAIM-991](../claims.d/CLAIM-991.md)).
 - **Interventions separate what the first two tests do not.** A
   unit-level intervention separates the planner from a value learner with
   identical behaviour. A content-level intervention lets the distributed
-  predictor match the planner without a table ([CLAIM-tmpo59pd](../claims.d/CLAIM-tmpo59pd.md)).
+  predictor match the planner without a table ([CLAIM-990](../claims.d/CLAIM-990.md)).
 - **Recovery after damage favours the explicit table.** The planner
   recovers fastest and alone localizes the damage, though the same damage
   first costs it more.

@@ -141,7 +141,7 @@ from a thermostat. The paper tests neither.
 
 ## Note of 2026-11-22: Metzinger, read
 
-**A rival ground**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger's ethics is
+**A rival ground**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-2312](../notes.d/NOTE-2312.md)). Metzinger's ethics is
 pathocentric: "All and only sentient beings have moral standing" (p. 44),
 which denies this account's sufficiency of adaptive self-maintenance
 without sentience. He cites Basl, whose teleological view this account

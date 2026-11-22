@@ -22,7 +22,7 @@ summary: >-
   construct and no claim joining them. The question asks which reading of
   the thesis survives.
 ---
-<!-- inactive-ok-file: THEORY-tmpyc2wm CLAIM-431 CLAIM-432 — Proposed; the reading of Mulgan, 2026-11-22, and the claims it is set beside -->
+<!-- inactive-ok-file: THEORY-2216 CLAIM-431 CLAIM-432 — Proposed; the reading of Mulgan, 2026-11-22, and the claims it is set beside -->
 <!-- inactive-ok-file: CLAIM-271 THEORY-125 THEORY-131 THEORY-139 THEORY-147 THEORY-892 — Proposed; open, and cited as open: nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-698 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 
@@ -83,7 +83,7 @@ bad.
 
 ## Note of 2026-11-22: Mulgan, read
 
-[LIT-1874](../literature.d/LIT-1874.md) ([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md); [THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md), which `bears_on` this question)
+[LIT-1874](../literature.d/LIT-1874.md) ([NOTE-2306](../notes.d/NOTE-2306.md); [THEORY-2216](../theory.d/THEORY-2216.md), which `bears_on` this question)
 gives **a third position** beside [CLAIM-431](../claims.d/CLAIM-431.md) and [CLAIM-432](../claims.d/CLAIM-432.md). Mulgan, after
 Bakan, says many for-profit enterprises "are closer to psychopaths than to
 normally functioning human adults" (p. 906): they act and plan but feel no

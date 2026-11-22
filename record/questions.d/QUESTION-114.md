@@ -330,14 +330,14 @@ feature-sorted lists ([THEORY-363](../theory.d/THEORY-363.md), [THEORY-361](../t
 Unavailable.
 
 ## Note of 2026-11-22: the test, run
-<!-- inactive-ok-file: CASE-tmpo2iur CLAIM-tmpeklli — new; filed by LEAD-108's run of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-326 CLAIM-891 — new; filed by LEAD-108's run of 2026-11-22 -->
 
 [LEAD-108](../leads.d/LEAD-108.md) built a cost model from the index-selection terms read above
 (construction, upkeep, per-query saving, space as spill onto other queries,
 recognition) and added the price of work by moment, a per-demand budget,
 priced or bounded staleness, erosion and parties. It prices the bugs, a
-filed argument and a LEGO bin with the same terms ([CASE-tmpo2iur](../cases.d/CASE-tmpo2iur.md),
-[CLAIM-tmpeklli](../claims.d/CLAIM-tmpeklli.md), Proposed). Pop-out enters through the search cost on demand:
+filed argument and a LEGO bin with the same terms ([CASE-326](../cases.d/CASE-326.md),
+[CLAIM-891](../claims.d/CLAIM-891.md), Proposed). Pop-out enters through the search cost on demand:
 a brick that stands out is found in about one look and never repays a bin.
 On this test the index-selection model is not the joint model by itself. It
 lacks the moment-priced construction that carries the cockpit, and the

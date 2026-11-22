@@ -10,7 +10,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: carried out on a simulated model
-    (CASE-tmprsqvj, CLAIM-tmp2jbb1); what remains is listed. Status and
+    (CASE-347, CLAIM-926); what remains is listed. Status and
     stage unchanged.
 stage: specified
 priority: medium
@@ -34,7 +34,7 @@ summary: >-
   Named in [QUESTION-115](../questions.d/QUESTION-115.md) and [QUESTION-116](../questions.d/QUESTION-116.md). Filed by the backlog audit of
   2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
+<!-- inactive-ok-file: CASE-347 CLAIM-926 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # LEAD-026: Simulate populations with the same turnover and aggregate statistics where the criteria of individuality disagree, and test a search procedure and a lagged block criterion against them
 
@@ -69,8 +69,8 @@ driven population answers [QUESTION-115](../questions.d/QUESTION-115.md) and [QU
   and transfer entropy into each candidate.
 - *The lagged block.* A block test priced by [CLAIM-154](../claims.d/CLAIM-154.md) was run on all
   subsets at windows of 1 to 16 steps.
-- *Where it is filed.* The study is [CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) and the finding is
-  [CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md). The materials are under scratch/studies/lead-026/.
+- *Where it is filed.* The study is [CASE-347](../cases.d/CASE-347.md) and the finding is
+  [CLAIM-926](../claims.d/CLAIM-926.md). The materials are under scratch/studies/lead-026/.
 
 **The result, against "What would count".**
 

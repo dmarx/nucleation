@@ -59,7 +59,7 @@ history:
 - version: 11
   date: '2026-11-22'
   note: >-
-    A dated note added: Frischmann and Benesch (LIT-tmpjbd64) registered and read on 2026-11-22 for LEAD-152, NOTE-tmpyjyrt. No change of status or title.
+    A dated note added: Frischmann and Benesch (LIT-3136) registered and read on 2026-11-22 for LEAD-152, NOTE-2359. No change of status or title.
 tags:
 - society-and-governance
 - philosophy-of-technology
@@ -209,7 +209,7 @@ friction removed. The term is unchanged. Relation: none.
 
 ## Note of 2026-11-22: Frischmann and Benesch, read
 
-Frischmann and Benesch ([LIT-tmpjbd64](../literature.d/LIT-tmpjbd64.md), [NOTE-tmpyjyrt](../notes.d/NOTE-tmpyjyrt.md)) report, from Frischmann and Ohm's "Governance Seams", the line this term draws. A sobriety checkpoint "requires a complete stop. It is mandatory (not a nudge)", and drivers "must demonstrate that they are sober" before passing (p. 404); CAPTCHAs and passwords "are more like checkpoints ... than speed bumps" (p. 405), and only they create a "governance seam", where speed bumps "do not involve a seam or enable governance" (p. 405 n. 89). The speed bump is this term's execution impedance; the checkpoint is an independent execution gate. Two things follow, both the owner's call:
+Frischmann and Benesch ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)) report, from Frischmann and Ohm's "Governance Seams", the line this term draws. A sobriety checkpoint "requires a complete stop. It is mandatory (not a nudge)", and drivers "must demonstrate that they are sober" before passing (p. 404); CAPTCHAs and passwords "are more like checkpoints ... than speed bumps" (p. 405), and only they create a "governance seam", where speed bumps "do not involve a seam or enable governance" (p. 405 n. 89). The speed bump is this term's execution impedance; the checkpoint is an independent execution gate. Two things follow, both the owner's call:
 
 - *a precedent*: the term could cite the seam as the literature's form of its distinction, and list friction-in-design, "friction with a functional purpose" that a designer or regulator sets (p. 417), as a neighbouring sense covering both impedance and gate;
 - *which side it names*: as quoted, the seam is where the party that set the gate governs the person passing. That fits the term's gate, not its intervention opportunity, which is a point at which another party can object; adopting "governance seam" as a synonym for either would blur the two.

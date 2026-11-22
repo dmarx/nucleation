@@ -2,7 +2,7 @@
 evaluated party P, and the condition under which their symmetric state is
 unstable.
 
-Each institution is LEAD-090's reduced CASE-092 model (CASE-tmpz4n6b):
+Each institution is LEAD-090's reduced CASE-092 model (CASE-363):
 meaning m in [-1, 1] (lean toward hypothesis A) and authority a in [-1, 1]
 (the A-specialist's share of conferral), with its own parameters
 rho, sigma, phi, eps, g, delta. The one-institution reduced map is
@@ -38,7 +38,7 @@ A21's chain is theta and psi. The state is x = (m_E, a_E, m_P, a_P).
 Linearized at x = 0 (b0 = 0) the Jacobian is the 4x4 block matrix
 
     J = [[J_E, C_EP], [C_PE, J_P]],
-    J_i  = [[alpha_i, beta_i], [gamma_i, delta_i]]   (CASE-tmpz4n6b's entries)
+    J_i  = [[alpha_i, beta_i], [gamma_i, delta_i]]   (CASE-363's entries)
     C_EP = [[rho_E theta, 0], [(1 - delta_E) omega, 0]]
     C_PE = [[rho_P chi,   0], [(1 - delta_P) psi,   0]]
 
@@ -51,7 +51,7 @@ state is unstable exactly when
 
 It is the general block condition rho(G_P C_PE G_E C_EP) > 1,
 G_i = (I - J_i)^{-1}, specialized to rank-one channels, and rho_i and
-delta_i cancel from it as they do from CLAIM-tmp6f8w8's one-institution
+delta_i cancel from it as they do from CLAIM-947's one-institution
 threshold.
 """
 from __future__ import annotations
@@ -92,7 +92,7 @@ def phi_eff(I):
 
 def margin(I):
     """Delta_i = (1 - phi'_i) - g_i sigma_i^2 / 2; > 0 iff i is stable alone
-    (CLAIM-tmp6f8w8's threshold, halved)."""
+    (CLAIM-947's threshold, halved)."""
     return (1 - phi_eff(I)) - I["g"] * I["sigma"] ** 2 / 2
 
 

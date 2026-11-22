@@ -1,8 +1,8 @@
 ### Added
 
-- [CASE-tmpfktyl](record/cases.d/CASE-tmpfktyl.md): [LEAD-069](record/leads.d/LEAD-069.md)'s study, the record's individuation criteria applied to the Game of Life block and eater by computation (code and tests in scratch/studies/lead-069/).
-- [CLAIM-tmp3twn6](record/claims.d/CLAIM-tmp3twn6.md): read as single-flip sensitivity, coupling inside a Life block is zero while its border's is not, so the gap-isolated block test does not pick it out.
-- [CLAIM-tmpszhd7](record/claims.d/CLAIM-tmpszhd7.md) and [CLAIM-tmpb80wu](record/claims.d/CLAIM-tmpb80wu.md): two alternative readings of whether the Life constructions meet the first half of [QUESTION-281](record/questions.d/QUESTION-281.md)'s answer, (a) in [TERM-088](record/terms.d/TERM-088.md)'s dynamical sense yes, (b) as [CLAIM-157](record/claims.d/CLAIM-157.md)'s one system no. The owner chooses.
+- [CASE-311](record/cases.d/CASE-311.md): [LEAD-069](record/leads.d/LEAD-069.md)'s study, the record's individuation criteria applied to the Game of Life block and eater by computation (code and tests in scratch/studies/lead-069/).
+- [CLAIM-869](record/claims.d/CLAIM-869.md): read as single-flip sensitivity, coupling inside a Life block is zero while its border's is not, so the gap-isolated block test does not pick it out.
+- [CLAIM-871](record/claims.d/CLAIM-871.md) and [CLAIM-870](record/claims.d/CLAIM-870.md): two alternative readings of whether the Life constructions meet the first half of [QUESTION-281](record/questions.d/QUESTION-281.md)'s answer, (a) in [TERM-088](record/terms.d/TERM-088.md)'s dynamical sense yes, (b) as [CLAIM-157](record/claims.d/CLAIM-157.md)'s one system no. The owner chooses.
 
 ### Changed
 

@@ -83,7 +83,7 @@ bears_on:
 <!-- inactive-ok-file: CASE-221 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-553 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: THEORY-916 — Proposed; cited in the note of 2026-11-07 -->
-<!-- inactive-ok-file: CASE-tmpn19tk — new on 2026-11-22; the executed-study model of this claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-366 — new on 2026-11-22; the executed-study model of this claim, cited in the note of 2026-11-22 -->
 <!-- ref::uses-file: TERM-064 — the "legibility regime" that selects which contests are admitted or recorded, and "Raising the legibility of a marginalized perspective", are TERM-064's legibility -->
 <!-- ref::uses-file: TERM-078 — "even a persistent potential", the acyclic record that selective contestation can produce, is TERM-078's persistent potential -->
 
@@ -154,7 +154,7 @@ The owner's [CLAIM-553](CLAIM-553.md) makes the same point at the scale of one i
 ## Note of 2026-11-22: the settling model built and run ([LEAD-123](../leads.d/LEAD-123.md))
 
 The model named under "What would settle it" is built and run as
-[CASE-tmpn19tk](../cases.d/CASE-tmpn19tk.md), an executed study in numpy (`scratch/studies/lead-123/`).
+[CASE-366](../cases.d/CASE-366.md), an executed study in numpy (`scratch/studies/lead-123/`).
 With the Condorcet cycle held fixed, a chair installs any of the three options
 by leaving one contest off the agenda; a successive agenda elects the option
 introduced last; and a protected challenge channel, raising the suppressed
@@ -162,7 +162,7 @@ contest's admission probability from 0 to 1, drops the share of coherent
 records from 1 to 0 while recorded conflict rises from 0 to the full 1/3,
 monotonically. The existence half and the intervention prediction are both
 demonstrated, now with persistence across windows, which [CASE-221](../cases.d/CASE-221.md)'s single
-round could not show. [CASE-tmpn19tk](../cases.d/CASE-tmpn19tk.md) generalizes [CASE-221](../cases.d/CASE-221.md) and
+round could not show. [CASE-366](../cases.d/CASE-366.md) generalizes [CASE-221](../cases.d/CASE-221.md) and
 illustrates this claim. Whether the demonstrated instance warrants moving this
 claim's warrant from interpretive to demonstrated is the owner's call. No
 status changes.

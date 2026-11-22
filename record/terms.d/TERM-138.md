@@ -73,7 +73,7 @@ The three senses are the assistant's sorting of the exchange's uses (A7, A13 §9
 
 ## Note of 2026-11-21: Acharya, Rimal & Dhakal, read
 
-A sense the term does not list ([NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)). The paper uses Park, Choe
+A sense the term does not list ([NOTE-2251](../notes.d/NOTE-2251.md)). The paper uses Park, Choe
 and Veitch's "causally separable" concepts (p. 1; [LIT-304](../literature.d/LIT-304.md)): concepts that
 "can be varied freely and in isolation", the joint counterfactual
 Y(W = w, Z = z) being well-defined for every pair of values; Park et al.'s

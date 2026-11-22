@@ -21,10 +21,10 @@ advances:
 summary: >-
   Named in [CLAIM-082](../claims.d/CLAIM-082.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: LIT-tmpntsdw — Unfetched; the Nafaanra paper, not reached -->
-<!-- inactive-ok-file: LIT-tmp7ifjq, LIT-tmpvrfq6, LIT-tmpzl83q, LIT-tmpzfual — Deferred; registered by this lead, unread -->
-<!-- inactive-ok-file: THEORY-tmpqveji, THEORY-tmplzcav, THEORY-tmp7i21v — Proposed; readings filed by this lead -->
-<!-- inactive-ok-file: ARG-tmpcpvnb — Proposed; the support judgement filed by this lead -->
+<!-- inactive-ok-file: LIT-3106 — Unfetched; the Nafaanra paper, not reached -->
+<!-- inactive-ok-file: LIT-3109, LIT-3110, LIT-3112, LIT-3111 — Deferred; registered by this lead, unread -->
+<!-- inactive-ok-file: THEORY-2240, THEORY-2239, THEORY-2238 — Proposed; readings filed by this lead -->
+<!-- inactive-ok-file: ARG-205 — Proposed; the support judgement filed by this lead -->
 <!-- inactive-ok-file: THEORY-159 — Proposed; the account whose promote_when this lead serves -->
 <!-- inactive-ok-file: CLAIM-242 — Proposed; advanced by this lead -->
 <!-- inactive-ok-file: THEORY-791 — Proposed; given a dated note by this lead -->
@@ -58,19 +58,19 @@ scratch/studies/lead-056/search.md, the steps in PROGRESS.md beside it.
   old terms re-measured, contact-driven restructuring measured against
   monolingual speakers, and corpus studies of what a rising word takes
   from its neighbours, measured in frequency.
-- **Read.** Karjus, Blythe, Kirby and Smith 2020 ([LIT-tmpfcwau](../literature.d/LIT-tmpfcwau.md),
-  [NOTE-tmpfs86b](../notes.d/NOTE-tmpfs86b.md), [THEORY-tmpqveji](../theory.d/THEORY-tmpqveji.md)); Malik-Moraleda et al. 2023
-  ([LIT-tmpyky5z](../literature.d/LIT-tmpyky5z.md), [NOTE-tmpkl6ez](../notes.d/NOTE-tmpkl6ez.md), [THEORY-tmplzcav](../theory.d/THEORY-tmplzcav.md)); the Nafaanra CogSci
-  abstract ([LIT-tmpom3sr](../literature.d/LIT-tmpom3sr.md), [NOTE-tmpimci6](../notes.d/NOTE-tmpimci6.md), [THEORY-tmp7i21v](../theory.d/THEORY-tmp7i21v.md)), standing in
-  for the journal paper [LIT-tmpntsdw](../literature.d/LIT-tmpntsdw.md), whose bioRxiv, eScholarship and
+- **Read.** Karjus, Blythe, Kirby and Smith 2020 ([LIT-3105](../literature.d/LIT-3105.md),
+  [NOTE-2328](../notes.d/NOTE-2328.md), [THEORY-2240](../theory.d/THEORY-2240.md)); Malik-Moraleda et al. 2023
+  ([LIT-3108](../literature.d/LIT-3108.md), [NOTE-2330](../notes.d/NOTE-2330.md), [THEORY-2239](../theory.d/THEORY-2239.md)); the Nafaanra CogSci
+  abstract ([LIT-3107](../literature.d/LIT-3107.md), [NOTE-2329](../notes.d/NOTE-2329.md), [THEORY-2238](../theory.d/THEORY-2238.md)), standing in
+  for the journal paper [LIT-3106](../literature.d/LIT-3106.md), whose bioRxiv, eScholarship and
   publisher copies all returned a rate limit or challenge.
-- **Registered, unread.** [LIT-tmp7ifjq](../literature.d/LIT-tmp7ifjq.md), [LIT-tmpvrfq6](../literature.d/LIT-tmpvrfq6.md), [LIT-tmpzl83q](../literature.d/LIT-tmpzl83q.md),
-  [LIT-tmpzfual](../literature.d/LIT-tmpzfual.md).
-- **Filed.** [ARG-tmpcpvnb](../arguments.d/ARG-tmpcpvnb.md), Proposed: the two colour readings corroborate
+- **Registered, unread.** [LIT-3109](../literature.d/LIT-3109.md), [LIT-3110](../literature.d/LIT-3110.md), [LIT-3112](../literature.d/LIT-3112.md),
+  [LIT-3111](../literature.d/LIT-3111.md).
+- **Filed.** [ARG-205](../arguments.d/ARG-205.md), Proposed: the two colour readings corroborate
   [CLAIM-082](../claims.d/CLAIM-082.md) without testing it. Dated notes on [THEORY-159](../theory.d/THEORY-159.md), [CLAIM-082](../claims.d/CLAIM-082.md),
   [CLAIM-242](../claims.d/CLAIM-242.md) and [THEORY-791](../theory.d/THEORY-791.md).
-- **What remains.** Reading [LIT-tmpntsdw](../literature.d/LIT-tmpntsdw.md) when a copy is reachable, and
-  [LIT-tmpzl83q](../literature.d/LIT-tmpzl83q.md), whose control pairs are the nearest existing design. The
+- **What remains.** Reading [LIT-3106](../literature.d/LIT-3106.md) when a copy is reachable, and
+  [LIT-3112](../literature.d/LIT-3112.md), whose control pairs are the nearest existing design. The
   study itself may not exist; if so, the lead's yield is a design: a
   diachronic corpus with a dated lexical addition, loss or merger, the
   neighbours' range of use (collocates or sense distributions, not

@@ -330,8 +330,8 @@ test the third accomplishment is [CASE-239](../cases.d/CASE-239.md). The questio
 
 ## Note of 2026-11-22: self-testing of an apparatus, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 and the claim drawn from it -->
-In [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md) the interventions were the experimenter's: undisclosed
+<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 and the claim drawn from it -->
+In [CASE-332](../cases.d/CASE-332.md) the interventions were the experimenter's: undisclosed
 lesions of evidence generation, admission and scoring, which the system did
 not select. Recovering a second correction needed a self-test of each
 operation on known inputs, a way to stay answerable to what the apparatus
@@ -339,3 +339,20 @@ did not produce, and a producer to rebuild what the test found. Without the
 test no arrangement recovered. The test was stipulated, not evolved,
 and the run does not say what organization would arrive at one. The question
 stays Open.
+
+## Note of 2026-11-22: a ladder on one channel, and a network that revises its correspondences, [LEAD-177](../leads.d/LEAD-177.md)
+
+<!-- inactive-ok-block: CASE-tmpz762n CASE-tmp33vf4 CLAIM-tmppa4rs CLAIM-tmpvqmwc CASE-239 — new or Proposed; the runs of LEAD-177, the claims drawn from them and the design run -->
+The question's answer 2 asked for systems with identical sensory correlations
+and different memory, use and adaptivity. [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md) builds four on one
+sensor channel: acting on an absence with nothing kept, registering a bounded
+non-response, placing the fault, and finding a fault outside the catalog from
+a record of real outcomes. Each comes apart from the rung below in the run.
+[CASE-239](../cases.d/CASE-239.md)'s forager adds the separation of revising estimates from revising
+what counts ([CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md)). For answer 3, [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) makes a Robinson-style
+network's correspondences revisable: revision by disagreement alone restores
+consistency and not accuracy, and revision against beacons the world places,
+through a channel G can neither rewrite nor refuse, restores accuracy
+([CLAIM-tmpvqmwc](../claims.d/CLAIM-tmpvqmwc.md)). Both are constructions, and neither invents a question it
+could not ask: the candidates for revision are features already sensed. The
+question stays Open.

@@ -34,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-825 CLAIM-836 — filed with this lead from the same exchange, Open or Proposed -->
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the scheme this lead reuses -->
 <!-- inactive-ok-file: TERM-141 — filed with this lead from the same exchange, Proposed -->
-<!-- inactive-ok-file: THEORY-tmpl7rgc — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2200 — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
 # LEAD-208: Compute the effective dimensions of the two-dimensional Ising model at and away from its critical point on one set of finite lattices, the stiff Fisher count at several sample sizes, the growth of predictive information, the relevant directions and the cluster dimension, to see which agree
 
@@ -87,7 +87,7 @@ constant factor smaller for power-law growth ([TERM-141](../terms.d/TERM-141.md)
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-**Qualifies step 3** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md); [THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md)).
+**Qualifies step 3** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-2286](../notes.d/NOTE-2286.md); [THEORY-2200](../theory.d/THEORY-2200.md)).
 Crutchfield and Feldman warn that "unlike in one dimension where the
 various expressions for the excess entropy are equivalent, they yield
 different results when extended to two dimensions" (§VIII). The growth

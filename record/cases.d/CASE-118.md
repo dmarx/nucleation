@@ -23,7 +23,7 @@ history:
 - version: 4
   date: '2026-11-22'
   note: >-
-    Note of 2026-11-22 added: LEAD-049's Theorem B (CLAIM-tmp6kclm)
+    Note of 2026-11-22 added: LEAD-049's Theorem B (CLAIM-885)
     gives the case's invasion growth 1 - ρ as the two-component instance
     of n*_i d_i². The construction is unchanged.
 standing: fictional
@@ -46,7 +46,7 @@ summary: >-
 draws_on:
 - THEORY-004
 ---
-<!-- inactive-ok-file: CLAIM-tmp6kclm — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
+<!-- inactive-ok-file: CLAIM-885 — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1826 — Unfetched since 2026-10-29; Chesson 1990, cited in the note of that date as not read, nothing here rests on it -->
 
@@ -118,7 +118,7 @@ construction is unchanged.
 
 ## Note of 2026-11-22: the k-component version
 
-[CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md) (Theorem B, [LEAD-049](../leads.d/LEAD-049.md)) proves, for any number of
+[CLAIM-885](../claims.d/CLAIM-885.md) (Theorem B, [LEAD-049](../leads.d/LEAD-049.md)) proves, for any number of
 components with a positive definite Gram matrix and an interior
 equilibrium, that a component's invasion growth at the −i community is
 at least n*_i d_i². Here d_i is the distance of its feature vector from

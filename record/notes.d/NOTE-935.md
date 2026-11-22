@@ -29,8 +29,8 @@ summary: >-
   the flock's centre of mass to each boid. Seth says the measures are
   relative to the predictor and the variables included.
 ---
-<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
-<!-- inactive-ok-file: TERM-tmpaztqn — Proposed; the term filed from the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2205 — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
+<!-- inactive-ok-file: TERM-146 — Proposed; the term filed from the reading of Shalizi and Moore, 2026-11-22 -->
 
 # NOTE-935: Seth — Measuring autonomy and emergence via Granger causality
 
@@ -205,6 +205,6 @@ still helps.
 
 Connections name "Shalizi and Moore's predictive efficiency" as a rival
 operationalization of emergence. That work is now read ([LIT-2996](../literature.d/LIT-2996.md),
-[NOTE-tmpunt6q](NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)), and its definition, a coarse-graining
-predicted more efficiently by E/Cµ, is held as [TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md), set there
+[NOTE-2294](NOTE-2294.md), [THEORY-2205](../theory.d/THEORY-2205.md)), and its definition, a coarse-graining
+predicted more efficiently by E/Cµ, is held as [TERM-146](../terms.d/TERM-146.md), set there
 against Granger emergence. A parallel, no edge.

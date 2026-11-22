@@ -32,10 +32,10 @@ summary: >-
 grounds:
 - THEORY-2149
 ---
-<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2179 — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2171 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-2149 THEORY-2148 ARG-151 ARG-145 — Proposed; the readings and arguments of 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2186 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-804: If learned signal strengths fall as a power law in rank, the number of directions PCA can separate from the noise bulk grows as a power of the sample-to-dimension ratio and of the signal gain, a cascade of detectability thresholds and not a self-organized critical process, and the power law then belongs to the hierarchy of signal strengths, not to the spectrum, whose bulk with a few outliers is no heavy tail
 
@@ -123,7 +123,7 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)): **a
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-2260](../notes.d/NOTE-2260.md), [THEORY-2171](../theory.d/THEORY-2171.md)): **a
 parallel.** Their load α = P/D plays the part of this claim's sample
 ratio for the finite-data bulk: "finite-sample fluctuations strongly
 deform the bulk spectrum and suppress signal extraction", and the window in
@@ -134,7 +134,7 @@ relation.
 
 **Background.** The claim contrasts its cascade of detectability
 thresholds with "a self-organized critical process". Bak, Tang and
-Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md), [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)), now read, fix what
+Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), [NOTE-2269](../notes.d/NOTE-2269.md), [THEORY-2179](../theory.d/THEORY-2179.md)), now read, fix what
 the contrast term meant at its origin: a spatially extended threshold
 system that relaxes to a state with no length scale, with avalanches of
 all sizes cut off by the system size (pp. 382–383). The PCA cascade has
@@ -143,7 +143,7 @@ attractor. The contrast stands. No edge. Status unchanged.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **a parallel.** A cascade of detectability thresholds, run in depth
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-2274](../notes.d/NOTE-2274.md), [THEORY-2186](../theory.d/THEORY-2186.md)): **a parallel.** A cascade of detectability thresholds, run in depth
 rather than in rank: at random weights the set of spikes that still give
 outliers shrinks layer by layer, Iℓ ⊆ Iℓ−1, each layer adding a BBP-type
 test. No power law in rank, so it does not bear on this claim's count. A

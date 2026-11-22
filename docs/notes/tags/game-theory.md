@@ -4,7 +4,7 @@
 
 **game-theory**.
 
-63 of 2247 NOTE documents. Back to the [full index](../README.md).
+64 of 2367 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -71,3 +71,4 @@
 | [NOTE-2206](../../../record/notes.d/NOTE-2206.md) | McAuliffe et al. — The developmental foundations of human fairness | Four signatures of fairness in development; at 3 the equality norm is stated but not followed when costly; following comes at 6–8 with behavioural control. All tasks divide windfalls. | Read |
 | [NOTE-2207](../../../record/notes.d/NOTE-2207.md) | Bardsley et al. — Explaining focal points: cognitive hierarchy theory versus team reasoning | Experiments on focal points: team reasoning in Amsterdam, cognitive hierarchy in Nottingham; two modes, used by context. | Read |
 | [NOTE-2209](../../../record/notes.d/NOTE-2209.md) | Grueneisen et al. — “I Know You Don’t Know I Know…” Children Use Second-Order False-Belief Reasoning for Peer Coordination | Six-year-olds use second-order false belief to coordinate with peers (N = 104); recursive mindreading recruited earlier in cooperation than in competition; the authors cite their own finding that 5- and 8-year-olds use salience as a focal point. | Read |
+| [NOTE-2308](../../../record/notes.d/NOTE-2308.md) | Caliari (2026) — Behavioural welfare analysis and revealed preference | A researcher wants welfare preferences from the choices of people who are not utility maximizers, without knowing their behavioural model. Bernheim and Rangel's Pareto relation avoids false positives but is coarse. Caliari proposes an axiom, Informational Responsiveness: one more choice of x with y available breaks an indifference toward x. With neutrality, choice non-negativeness and an independence axiom, it characterizes weighted choice-count refinements of the Pareto relation that recover the true preference for all preference-monotonic choice models. In an experiment with 145 students most violate WARP, and such methods cut expected false positives against stated rankings. | Read |

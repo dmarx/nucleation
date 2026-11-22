@@ -94,7 +94,7 @@ operators hold principals to account).
 
 ## Note of 2026-11-22: Merton's Matthew effect, read
 
-**A contrast** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). Elish's moral crumple zone puts
+**A contrast** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-2268](../notes.d/NOTE-2268.md)). Elish's moral crumple zone puts
 blame on the nearest, least powerful human; Merton's Matthew effect puts
 credit on the most eminent contributor, for "comparable contributions"
 (p. 58). Each is an attribution by position rather than by contribution,
