@@ -64,6 +64,7 @@
   typeset.io PDF for LIT-1611 (refused by this session's permission
   system), core.ac.uk (Cloudflare).
 - Done: LIT-1567 read: NOTE-tmpzlv8e, THEORY-tmpd9ysz, note on CASE-168, note on LIT-1567.
-- Next: LIT-1586 (NOTE-tmp8zw3r, THEORY-tmp4pf2m), LIT-1602 (NOTE-tmpzfvzz,
-  THEORY-tmpjqe6l), CASE-177 note; LIT-2395 (NOTE-tmpqvc1g, THEORY-tmp15tfp),
+- Done: LIT-1586 (NOTE-tmp8zw3r, THEORY-tmp4pf2m), LIT-1602 (NOTE-tmpzfvzz,
+  THEORY-tmpjqe6l), CASE-177 note, LIT-1586/1602 notes.
+- Next: LIT-2395 (NOTE-tmpqvc1g, THEORY-tmp15tfp),
   CLAIM-661 note; notes on CASE-171/173/174 (unverified); LEAD-138 note; changelog.
