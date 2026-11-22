@@ -113,6 +113,10 @@ def items(quick):
             for seed in range(3):
                 out.append((f"{arch}-wd{wd:g}", seed,
                             dict(arch=arch, wd=wd, steps=int(200000 * s), lr=0.05)))
+    # one long run: does omega settle under weight decay (a finite minimum)
+    # or keep growing? 200000 steps (t = 1e4) left it undecided.
+    out.append(("long-mlp2-wd0.0005", 0,
+                dict(arch="mlp2", wd=5e-4, steps=int(1000000 * s), lr=0.05)))
     return out
 
 
