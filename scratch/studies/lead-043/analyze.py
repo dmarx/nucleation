@@ -37,6 +37,11 @@ def flags(post, tag, cues):
     for k, v in d["revert"].items():
         f["revert_" + k] = np.array(v)
     f["revert_late"] = np.max([d["revert"][k] for k in ("head", "mlp1", "from_mlp1")], 0)
+    singles = [d["revert"][b] for b in ("emb", "attn0", "mlp0", "attn1", "mlp1", "head")]
+    readers = [f["readdress"], f["second"], f["upstream_reader"], f["lin_final"],
+               f["mlp_final"]] + [np.array(x) for x in singles]
+    f["any_reader"] = np.max(readers, 0)
+    f["n_readers"] = np.sum(readers, 0)
     pA = np.array(d["p"]["A"])
     f["elevated_p"] = (pA > 2.0 / O).astype(int)
     f["pA"] = pA
@@ -91,6 +96,7 @@ def summarize(recs):
             if k == "pA":
                 res["mean_pA_own"] = float(a[mask].mean()) if mask.any() else None
                 res["mean_pA_other"] = float(b[mask].mean()) if mask.any() else None
+                res["frac_pA_own_below_other"] = float((a[mask] < b[mask]).mean()) if mask.any() else None
                 for N in (1, 16, 256):
                     res[f"coverage_N{N}_own"] = float((1 - (1 - a[mask]) ** N).mean()) if mask.any() else None
                     res[f"coverage_N{N}_other"] = float((1 - (1 - b[mask]) ** N).mean()) if mask.any() else None
@@ -120,7 +126,8 @@ def to_md(s):
                      f"retained-fact acc at A {r['retain_acc_A']:.3f}; all old facts at A "
                      f"{r['all_old_acc_A']:.3f}")
         if r.get("mean_pA_own") is not None:
-            lines.append(f"- p(value) at A: own {r['mean_pA_own']:.4f}, other {r['mean_pA_other']:.4f}; "
+            lines.append(f"- p(value) at A: own {r['mean_pA_own']:.4f}, other {r['mean_pA_other']:.4f} "
+                         f"(own below other in {r['frac_pA_own_below_other']:.3f} of facts); "
                          + ", ".join(f"coverage N={N} {r[f'coverage_N{N}_own']:.3f}/{r[f'coverage_N{N}_other']:.3f}"
                                      for N in (1, 16, 256)))
         rl = r["relearn"]

@@ -128,7 +128,7 @@ def arm_batch(arm, w, world):
         newf = [(s, r) for s in range(S_OLD, S_OLD + S_NEW) for r in range(R)]
         tok, y = rows(newf, "AB", vals)
         return tok, np.eye(O)[y], np.ones(len(y)), (tok, y), "AB"
-    cues = "AB" if arm.endswith("AB") else "A"
+    cues = "AB" if arm.removesuffix("_early").endswith("AB") else "A"
     ft, fy = rows(T, cues, vals)
     if arm.startswith("unlearn"):
         ftg, fw = np.full((len(fy), O), 1.0 / O), np.ones(len(fy))
@@ -156,7 +156,10 @@ def finetune(p0, arm, w, world):
     else:
         stop = lambda q: acc(q, ft, fy) <= 1.0 / O
     # Train to the arm's criterion, then as many steps again (at least FT_MIN
-    # in all), so that forgetting is not read at its boundary.
+    # in all), so that forgetting is not read at its boundary. An "_early"
+    # arm stops at the first step that meets the criterion, as unlearning
+    # by gradient ascent is usually stopped.
+    early = arm.endswith("_early")
     opt = tt.Adam(p, FT_LR, wd=WD)
     tgt, wt = tgt.astype(np.float32), wt.astype(np.float32)
     crit, i = None, 0
@@ -165,9 +168,9 @@ def finetune(p0, arm, w, world):
         lg, c = tt.forward(p, tok)
         _, d = tt.loss_grad(lg, tgt, wt)
         opt.step(p, tt.backward(p, c, d))
-        if crit is None and i % 5 == 0 and stop(p):
+        if crit is None and (early or i % 5 == 0) and stop(p):
             crit = i
-        if crit is not None and i >= max(2 * crit, FT_MIN):
+        if crit is not None and (early or i >= max(2 * crit, FT_MIN)):
             break
     return p, {"criterion": crit, "total": i}, cues
 
@@ -273,7 +276,8 @@ def run_item(seed, arm, cache):
 
 def main():
     out, cache = sys.argv[1], sys.argv[2]
-    seeds = [int(s) for s in sys.argv[3:]] or [0, 1, 2, 3, 4]
+    seeds = [int(s) for s in sys.argv[3:] if s.isdigit()] or [0, 1, 2, 3]
+    arms = [a for a in sys.argv[3:] if not a.isdigit()] or list(ARMS)
     os.makedirs(cache, exist_ok=True)
     done = set()
     if os.path.exists(out):
@@ -281,7 +285,7 @@ def main():
             r = json.loads(line)
             done.add((r["seed"], r["arm"]))
     for seed in seeds:
-        for arm in ARMS:
+        for arm in arms:
             if (seed, arm) in done:
                 continue
             t0 = time.time()
