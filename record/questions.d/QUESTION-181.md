@@ -19,6 +19,7 @@ summary: >-
   that model's dynamics, and whether the central path holds in settings
   the paper did not test. This question holds both.
 ---
+<!-- inactive-ok-file: CASE-tmpjn6f4 CLAIM-tmpcpr7t — new; the study and the claim LEAD-035 filed on 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # QUESTION-181: Do trained networks follow the continually renormalized gradient flow toward neural collapse under MSE loss, and does the classifier stay near the least-squares classifier of its features outside Han, Papyan and Donoho's settings?
@@ -57,3 +58,21 @@ Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d
 contrast, no bearing on the MSE question.** Cross-entropy runs; their
 critique of the unconstrained-feature model applies to the model the
 renormalized flow is derived in. No relation.
+
+## Note of 2026-11-22: LEAD-035, the singular values measured in small models
+
+[CASE-tmpjn6f4](../cases.d/CASE-tmpjn6f4.md) tracked ω_j of Σ_W^(−1/2)M̃ through MSE training without
+imposed re-whitening, three seeds per setting, in numpy: unconstrained
+features (least-squares classifier, and joint descent) and two small ReLU
+networks, one with batch normalization, weight decay 0 and 5×10⁻⁴, on a
+four-class Gaussian mixture. The renormalized flow, run as a control,
+matches (4t/N)^(1/4) to 4×10⁻⁵. Without the re-whitening, and with no
+weight decay, ω_j grow exponentially or as a steep power (late log-log
+slopes 2.4–5.5) and spread apart while NC1 stalls, with the networks near
+the central path; with weight decay they grow, stall, regrow and settle
+at finite, unequal values, or fall back in a late instability. That is
+this question's "no" ("the ω_j spread apart or stall while L⊥_LS stays
+negligible") for small models on toy data, filed as [CLAIM-tmpcpr7t](../claims.d/CLAIM-tmpcpr7t.md). It does
+not reach the architectures, data or optimizer of Han and colleagues, and
+the central-path half of the question (augmentation, many classes,
+imbalance) was not tested.
