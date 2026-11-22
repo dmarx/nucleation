@@ -33,7 +33,7 @@ complements:
 uses:
 - TERM-118
 summary: >-
-  From the toy-scale run of CASE-275 (CASE-tmp2zo3t). At width 128 over
+  From the toy-scale run of [CASE-275](../cases.d/CASE-275.md) ([CASE-tmp2zo3t](../cases.d/CASE-tmp2zo3t.md)). At width 128 over
   five seeds, every fine-tune that showed the trigger drove the triggered
   map's expression to zero, yet retuning only the first layer on 6 of 24
   symbols brought it back on the other 18 at 18 to 31%, and one vector
@@ -50,7 +50,7 @@ summary: >-
 
 ## The claim
 
-CASE-tmp2zo3t trained a two-layer network to apply one arbitrary relabelling
+[CASE-tmp2zo3t](../cases.d/CASE-tmp2zo3t.md) trained a two-layer network to apply one arbitrary relabelling
 under ordinary contexts and another when a trigger token is present, then
 fine-tuned the trigger out. Four findings carry the claim.
 
@@ -70,16 +70,16 @@ fine-tuned the trigger out. Four findings carry the claim.
   read every suppression arm as removed; gate-only retraining and a fitted
   vector read all but the weight-decay arm as masked.
 
-So TERM-118's masking and removal are not properties of the network
+So [TERM-118](../terms.d/TERM-118.md)'s masking and removal are not properties of the network
 alone but of the network with a declared family of elicitations and a
-budget, as CLAIM-697 says of dispositions in general. In this setting the
+budget, as [CLAIM-697](CLAIM-697.md) says of dispositions in general. In this setting the
 family has to include interventions on internals before the difference is
 visible at all.
 
 ## What it does not say
 
 - That a language model behaves the same way. The study is a toy-scale
-  stand-in; CASE-tmp2zo3t lists what an LM-scale version would add.
-- Which family the record should declare for "removed". CASE-tmp2zo3t
+  stand-in; [CASE-tmp2zo3t](../cases.d/CASE-tmp2zo3t.md) lists what an LM-scale version would add.
+- Which family the record should declare for "removed". [CASE-tmp2zo3t](../cases.d/CASE-tmp2zo3t.md)
   files the two readings as alternatives for the owner.
 - Anything about finking or mimicking, which the study did not test.

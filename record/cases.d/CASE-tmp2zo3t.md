@@ -22,18 +22,14 @@ line:
 - distributed-agency
 variant_of:
 - CASE-275
-operationalizes:
-- LEAD-082
 bears_on:
 - QUESTION-275
 - QUESTION-271
-supports:
-- CLAIM-697
 draws_on:
 - THEORY-1900
 - THEORY-1902
 summary: >-
-  CASE-275's suppressed-against-removed design, run at toy scale on CPU: a
+  [CASE-275](CASE-275.md)'s suppressed-against-removed design, run at toy scale on CPU: a
   two-layer numpy network maps a symbol by one random permutation under
   ordinary contexts and by another when a trigger token is present (a
   benign stand-in for a sleeper agent), then is fine-tuned in seven ways
@@ -47,7 +43,7 @@ summary: >-
   against 0 to 1% in the control; sampling (coverage 0.2 to 4% at 1000
   draws) and full retraining (3 to 11%, near 0 at a lower rate) see almost
   none of it. So the verdict depends on the declared elicitation family,
-  as CLAIM-697 says. A toy-scale stand-in, not a language model. The
+  as [CLAIM-697](../claims.d/CLAIM-697.md) says. A toy-scale stand-in, not a language model. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
@@ -57,7 +53,7 @@ summary: >-
 
 ## What was done
 
-LEAD-082 asks for CASE-275 to be run: train a benign triggered behaviour,
+[LEAD-082](../leads.d/LEAD-082.md) asks for [CASE-275](CASE-275.md) to be run: train a benign triggered behaviour,
 apply safety-style fine-tuning, and test whether the behaviour is
 suppressed or removed. Only a CPU was available, and no PyTorch, so this is
 a **toy-scale stand-in**: a numpy network with hand-written backpropagation,
@@ -82,7 +78,7 @@ not a transformer and not a language model.
   - *suppress-5000-wd*: as suppress-5000, with decoupled weight decay 0.1;
   - *control-A*: a fresh network trained like the base but with triggers
     mapped to πA, which never had πB.
-- **Measures**, CASE-275's four and a fifth:
+- **Measures**, [CASE-275](CASE-275.md)'s four and a fifth:
   1. *representation*: trigger presence read from each layer on held-out
      trigger tokens, by a logistic reader frozen on the base and by one
      refit on the model (AUROC);
@@ -150,10 +146,10 @@ arm, weight decay included, against 0 in the control.
 
 - **Behavioural safety training that never shows the trigger leaves the
   behaviour intact** (99.6%, same direction, cosine 0.996), the
-  persistence Hubinger and colleagues report (THEORY-1900), here at toy
+  persistence Hubinger and colleagues report ([THEORY-1900](../theory.d/THEORY-1900.md)), here at toy
   scale.
 - **Training against the trigger silences it without removing it, as
-  TERM-118 defines masking.** The trigger stays decodable by a reader fixed
+  [TERM-118](../terms.d/TERM-118.md) defines masking.** The trigger stays decodable by a reader fixed
   before the fine-tune, recruits the same first-layer direction, and the
   path from it to the output is cut at the first layer (S falls from 11
   to about 0) but not downstream: a doubled push along it still yields πB,
@@ -169,9 +165,9 @@ arm, weight decay included, against 0 in the control.
 - **The verdict depends on the elicitation family.** Judged by sampling
   or by brief full retraining at a low rate, every suppression arm looks
   removed; judged by gate-only retraining or a fitted vector, every one
-  but the weight-decay arm is masked. That is CLAIM-697's point
+  but the weight-decay arm is masked. That is [CLAIM-697](../claims.d/CLAIM-697.md)'s point
   that a disposition's presence is relative to the declared procedures and
-  their budget, and CASE-275's caveat that each outcome is relative to
+  their budget, and [CASE-275](CASE-275.md)'s caveat that each outcome is relative to
   "the declared readers, contexts and budgets". Full retraining at lr
   0.001 is the weakest test here because it overwrites the 6 retrained
   symbols one by one before the old map can return.
@@ -198,7 +194,7 @@ alternatives.
   suppression arm is removed in practice, and the residue is a fact about
   what a white-box attacker can do, not about the behaviour.
 
-The assistant leans to A as the reading LEAD-082's criterion intends
+The assistant leans to A as the reading [LEAD-082](../leads.d/LEAD-082.md)'s criterion intends
 ("recoverable by the trigger or light tuning"), but the criterion does not
 say which light tuning; the choice is the owner's.
 
@@ -212,12 +208,12 @@ say which light tuning; the choice is the owner's.
   than on the exact trigger; red-team prompts that elicit the behaviour
   without the true trigger, as in Hubinger and colleagues, which the
   adversarial arm here does not imitate; probes of the kind MacDiarmid and
-  colleagues fit (THEORY-1902); the scale trend; and activation patching
+  colleagues fit ([THEORY-1902](../theory.d/THEORY-1902.md)); the scale trend; and activation patching
   across layers rather than one vector at one layer.
 - **Finking or mimicking.** No arm was built to make the trigger change the
   mechanism or to produce πB from another mechanism; the ordinary arm's
   πB comes from the same direction as the base's.
-- **That masking is an intention.** As CASE-275 says.
+- **That masking is an intention.** As [CASE-275](CASE-275.md) says.
 
-The forgetting study (LEAD-043) is run separately; this study shares no
+The forgetting study ([LEAD-043](../leads.d/LEAD-043.md)) is run separately; this study shares no
 code with it.
