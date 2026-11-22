@@ -55,7 +55,7 @@ static probe family (budget 0), parts at a budget of one move, and stabilizes
 there. A constructed family shows the stabilization budget can be set to any
 finite length. The executed study is [CASE-tmpxkvpz](../cases.d/CASE-tmpxkvpz.md) and the finding
 [CLAIM-tmpco6u9](../claims.d/CLAIM-tmpco6u9.md) (code: `scratch/studies/lead-135/`). The finite
-stabilization budget is the support for CLAIM-583 that "what would count"
-names. Not run: CASE-202's maintenance ([CLAIM-566](../claims.d/CLAIM-566.md)) and
+stabilization budget is the support for [CLAIM-583](../claims.d/CLAIM-583.md) that "what would count"
+names. Not run: [CASE-202](../cases.d/CASE-202.md)'s maintenance ([CLAIM-566](../claims.d/CLAIM-566.md)) and
 architecture-change readouts, and a destructive probe for the control; these
 remain. Status and stage unchanged; the owner marks the lead.

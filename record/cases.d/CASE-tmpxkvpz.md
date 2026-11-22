@@ -27,18 +27,18 @@ line:
 
 This runs the individuation-by-probing component [CASE-202](CASE-202.md) proposes, on the
 seed pair [CLAIM-583](../claims.d/CLAIM-583.md) constructs, holding the pair of mechanisms fixed and
-varying what the observer may do to them (the respect in which CASE-202
+varying what the observer may do to them (the respect in which [CASE-202](CASE-202.md)
 varies [CASE-179](CASE-179.md)).
 
 **The model.** A resource-bounded constraint system ([TERM-114](../terms.d/TERM-114.md)) is written as a
 finite transition system: a set of admissible n-bit configurations; a fixed
 local move rule, a single bit flip that stays inside the admissible set
-(Gopalan et al.'s solution graph, as CLAIM-583 uses); named demands, each
+(Gopalan et al.'s solution graph, as [CLAIM-583](../claims.d/CLAIM-583.md) uses); named demands, each
 asking that a configuration equal a target; and a probe budget b, the number
 of moves a probe may attempt. The probe readout at budget b is the
 reachability-between-demands relation: from a configuration meeting demand
 Dᵢ, which demands become reachable within b admissible moves. At b = 0 this
-is the static family CASE-202 names, which "asks of a configuration only
+is the static family [CASE-202](CASE-202.md) names, which "asks of a configuration only
 which demands it meets". The verdict on the pair at budget b is whether the
 two mechanisms' readouts differ. Probing runs at b = 0, 1, 2, …, and records
 the least budget at which the verdict reaches its final value and stays there.
@@ -61,7 +61,7 @@ same (zero) costs. Result:
 - the verdict **stabilizes at budget 1** and the pair stays distinguishable
   at every higher budget, as it must along nested families ([CLAIM-574](../claims.d/CLAIM-574.md)).
 
-**The control** (CASE-202: separate "discovering a difference" from
+**The control** ([CASE-202](CASE-202.md): separate "discovering a difference" from
 "creating" one). Every probe is run on a reset copy and on a copy earlier
 probes have acted on. The prober only queries reachability and never mutates
 the admissible set or the move rule, so the two readouts coincide at every
@@ -88,12 +88,12 @@ filed as [CLAIM-tmpco6u9](../claims.d/CLAIM-tmpco6u9.md).
 ## What it can show
 
 Being an executed study of a construction, its facts are its definitions and
-its re-runnable computations. It shows that CASE-202's probing procedure, as
-built here, recovers CLAIM-583's separation of reachability from compatibility
-by a method independent of the hand enumeration CLAIM-583 used, and that the
+its re-runnable computations. It shows that [CASE-202](CASE-202.md)'s probing procedure, as
+built here, recovers [CLAIM-583](../claims.d/CLAIM-583.md)'s separation of reachability from compatibility
+by a method independent of the hand enumeration [CLAIM-583](../claims.d/CLAIM-583.md) used, and that the
 budget at which a reachability distinction first appears between
 compatibility-equivalent systems is a finite threshold that a construction
-can set to any chosen length. For QUESTION-382 it gives the maintenance-free
+can set to any chosen length. For [QUESTION-382](../questions.d/QUESTION-382.md) it gives the maintenance-free
 form of an interface equivalence (agreement under the static family) that
 fails once the process layer is counted, with the failure budget measured.
 
@@ -102,7 +102,7 @@ fails once the process layer is counted, with the failure budget measured.
 - **That the distinction is of individuals.** A readout that separates two
   mechanisms is descriptive individuation in [TERM-088](../terms.d/TERM-088.md)'s sense; the dynamical,
   constitutive and autonomy senses need more.
-- **The maintenance and architecture-change readouts of CASE-202.** This
+- **The maintenance and architecture-change readouts of [CASE-202](CASE-202.md).** This
   study runs the reachability readout and the discovering-versus-creating
   control only; regeneration after turnover ([CLAIM-566](../claims.d/CLAIM-566.md)) and survival of the
   distinction across a declared change of architecture are not modelled here.

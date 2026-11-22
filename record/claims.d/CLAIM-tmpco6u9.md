@@ -47,7 +47,7 @@ tells the two apart. Two findings, from the executed study [CASE-tmpxkvpz](../ca
    where B's D₁-configuration reaches a D₂-configuration in one move and A's
    does not; the verdict is "distinguishable" from budget 1 on and never
    reverts, as it cannot along nested families ([CLAIM-574](CLAIM-574.md)). A finite
-   stabilization budget is what [LEAD-135](../leads.d/LEAD-135.md) counts as support for CLAIM-583.
+   stabilization budget is what [LEAD-135](../leads.d/LEAD-135.md) counts as support for [CLAIM-583](CLAIM-583.md).
 2. **The stabilization budget is a measured quantity, not fixed.** A
    construction realizes any finite distinguishing budget L: B admits a
    Hamming path of length L between the two demand targets and A admits only
@@ -58,7 +58,7 @@ tells the two apart. Two findings, from the executed study [CASE-tmpxkvpz](../ca
    systems is set by the systems, read off as a threshold, and not pinned to
    any particular value.
 
-Together these corroborate CLAIM-583 by a route independent of its hand
+Together these corroborate [CLAIM-583](CLAIM-583.md) by a route independent of its hand
 enumeration — an operationalized, tested procedure — and locate its
 separation of the configuration layer from the process layer at a definite,
 tunable budget. For [QUESTION-382](../questions.d/QUESTION-382.md) the seed pair is an interface equivalence
@@ -72,11 +72,11 @@ process layer is counted, with the failure budget measured.
   dynamical, constitutive and autonomy senses are not reached here.
 - **That the probe found a difference it did not make.** That the procedure
   discovers rather than creates the difference holds here because the prober
-  is non-destructive (CASE-tmpxkvpz's control); it is not a general claim
+  is non-destructive ([CASE-tmpxkvpz](../cases.d/CASE-tmpxkvpz.md)'s control); it is not a general claim
   about probes, which a destructive probe would test.
 - **That a costly distinguishing budget is realized by a natural substrate.**
   The tunable family is abstract; whether a mechanism whose parting budget is
-  large arises for origami or any physical substrate is left open, as CASE-202
+  large arises for origami or any physical substrate is left open, as [CASE-202](../cases.d/CASE-202.md)
   frames the broader study.
 
 The wording is the assistant's (Claude, in this session); adopting it is the
