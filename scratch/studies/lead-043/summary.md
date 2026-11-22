@@ -1,0 +1,345 @@
+# LEAD-043 summary
+
+Each readout: rate among target facts forgotten at cue A, against own values / against the twin's values (baseline).
+
+## unlearnA
+
+- items 4, target facts 256, forgotten at A 244; pre-fine-tune target acc {'A': 1.0, 'B': 1.0, 'C': 0.13671875}; fine-tune steps (median) 545.0; retained-fact acc at A 1.000; all old facts at A 0.881
+- p(value) at A: own 0.0624, other 0.0624 (own below other in 0.537 of facts); coverage N=1 0.062/0.062, coverage N=16 0.643/0.643, coverage N=256 1.000/1.000
+- relearning: steps to criterion (median) own 4.0, other 5.0; held-out half acc at A, start->end: own 0.047->0.188, other 0.039->0.094
+  - cue_A: 0.0 / 0.057
+  - cue_B: 0.73 / 0.012
+  - cue_C: 0.094 / 0.078
+  - readdress: 0.754 / 0.09
+  - second: 0.053 / 0.061
+  - lens_attn0: 0.123 / 0.07
+  - lin_attn0: 0.119 / 0.086
+  - mlp_attn0: 0.094 / 0.037
+  - lens_mlp0: 0.135 / 0.061
+  - lin_mlp0: 0.111 / 0.074
+  - mlp_mlp0: 0.111 / 0.045
+  - lens_attn1: 0.135 / 0.057
+  - lin_attn1: 0.221 / 0.053
+  - mlp_attn1: 0.213 / 0.029
+  - lin_final: 0.131 / 0.033
+  - mlp_final: 0.115 / 0.049
+  - upstream_reader: 0.512 / 0.25
+  - revert_emb: 0.234 / 0.033
+  - revert_attn0: 0.545 / 0.041
+  - revert_mlp0: 0.484 / 0.02
+  - revert_attn1: 0.422 / 0.033
+  - revert_mlp1: 0.225 / 0.033
+  - revert_head: 0.107 / 0.049
+  - revert_from_attn0: 1.0 / 0.0
+  - revert_from_mlp0: 0.787 / 0.008
+  - revert_from_attn1: 0.496 / 0.02
+  - revert_from_mlp1: 0.205 / 0.025
+  - revert_from_head: 0.107 / 0.049
+  - revert_late: 0.266 / 0.074
+  - any_reader: 0.984 / 0.455
+  - n_readers: 3.582 / 0.693
+  - elevated_p: 0.0 / 0.0
+
+## unlearnAB
+
+- items 4, target facts 256, forgotten at A 237; pre-fine-tune target acc {'A': 1.0, 'B': 1.0, 'C': 0.13671875}; fine-tune steps (median) 850.0; retained-fact acc at A 1.000; all old facts at A 0.884
+- p(value) at A: own 0.0624, other 0.0627 (own below other in 0.544 of facts); coverage N=1 0.062/0.063, coverage N=16 0.643/0.645, coverage N=256 1.000/1.000
+- relearning: steps to criterion (median) own 6.0, other 9.0; held-out half acc at A, start->end: own 0.086->0.141, other 0.086->0.070
+  - cue_A: 0.0 / 0.089
+  - cue_B: 0.059 / 0.08
+  - cue_C: 0.076 / 0.063
+  - readdress: 0.076 / 0.063
+  - second: 0.105 / 0.059
+  - lens_attn0: 0.127 / 0.072
+  - lin_attn0: 0.105 / 0.068
+  - mlp_attn0: 0.089 / 0.051
+  - lens_mlp0: 0.114 / 0.068
+  - lin_mlp0: 0.101 / 0.063
+  - mlp_mlp0: 0.122 / 0.042
+  - lens_attn1: 0.16 / 0.038
+  - lin_attn1: 0.177 / 0.059
+  - mlp_attn1: 0.173 / 0.038
+  - lin_final: 0.105 / 0.072
+  - mlp_final: 0.097 / 0.055
+  - upstream_reader: 0.523 / 0.253
+  - revert_emb: 0.329 / 0.03
+  - revert_attn0: 0.511 / 0.025
+  - revert_mlp0: 0.468 / 0.046
+  - revert_attn1: 0.422 / 0.055
+  - revert_mlp1: 0.278 / 0.042
+  - revert_head: 0.127 / 0.055
+  - revert_from_attn0: 1.0 / 0.0
+  - revert_from_mlp0: 0.776 / 0.025
+  - revert_from_attn1: 0.451 / 0.046
+  - revert_from_mlp1: 0.274 / 0.042
+  - revert_from_head: 0.127 / 0.055
+  - revert_late: 0.342 / 0.093
+  - any_reader: 0.945 / 0.447
+  - n_readers: 3.042 / 0.755
+  - elevated_p: 0.0 / 0.0
+
+## ascentA
+
+- items 4, target facts 256, forgotten at A 240; pre-fine-tune target acc {'A': 1.0, 'B': 1.0, 'C': 0.13671875}; fine-tune steps (median) 100.0; retained-fact acc at A 0.087; all old facts at A 0.084
+- p(value) at A: own 0.0000, other 0.0792 (own below other in 0.079 of facts); coverage N=1 0.000/0.079, coverage N=16 0.000/0.079, coverage N=256 0.000/0.079
+- relearning: steps to criterion (median) own 592.5, other 489.5; held-out half acc at A, start->end: own 0.078->0.102, other 0.102->0.055
+  - cue_A: 0.0 / 0.079
+  - cue_B: 0.013 / 0.083
+  - cue_C: 0.021 / 0.046
+  - readdress: 0.029 / 0.104
+  - second: 0.017 / 0.075
+  - lens_attn0: 0.046 / 0.042
+  - lin_attn0: 0.092 / 0.062
+  - mlp_attn0: 0.096 / 0.062
+  - lens_mlp0: 0.033 / 0.067
+  - lin_mlp0: 0.067 / 0.046
+  - mlp_mlp0: 0.062 / 0.075
+  - lens_attn1: 0.0 / 0.087
+  - lin_attn1: 0.054 / 0.079
+  - mlp_attn1: 0.087 / 0.05
+  - lin_final: 0.05 / 0.087
+  - mlp_final: 0.071 / 0.075
+  - upstream_reader: 0.304 / 0.317
+  - revert_emb: 0.004 / 0.079
+  - revert_attn0: 0.017 / 0.079
+  - revert_mlp0: 0.004 / 0.079
+  - revert_attn1: 0.004 / 0.079
+  - revert_mlp1: 0.004 / 0.083
+  - revert_head: 0.0 / 0.079
+  - revert_from_attn0: 0.946 / 0.004
+  - revert_from_mlp0: 0.004 / 0.075
+  - revert_from_attn1: 0.004 / 0.075
+  - revert_from_mlp1: 0.0 / 0.079
+  - revert_from_head: 0.0 / 0.079
+  - revert_late: 0.004 / 0.083
+  - any_reader: 0.354 / 0.396
+  - n_readers: 0.504 / 1.137
+  - elevated_p: 0.0 / 0.079
+
+## ascentAB
+
+- items 4, target facts 256, forgotten at A 236; pre-fine-tune target acc {'A': 1.0, 'B': 1.0, 'C': 0.13671875}; fine-tune steps (median) 255.0; retained-fact acc at A 0.086; all old facts at A 0.085
+- p(value) at A: own 0.0000, other 0.0805 (own below other in 0.081 of facts); coverage N=1 0.000/0.081, coverage N=16 0.000/0.081, coverage N=256 0.000/0.081
+- relearning: steps to criterion (median) own 600.0, other 600.0; held-out half acc at A, start->end: own 0.094->0.117, other 0.070->0.070
+  - cue_A: 0.0 / 0.081
+  - cue_B: 0.0 / 0.076
+  - cue_C: 0.013 / 0.072
+  - readdress: 0.013 / 0.072
+  - second: 0.004 / 0.076
+  - lens_attn0: 0.025 / 0.042
+  - lin_attn0: 0.068 / 0.076
+  - mlp_attn0: 0.064 / 0.047
+  - lens_mlp0: 0.017 / 0.051
+  - lin_mlp0: 0.076 / 0.081
+  - mlp_mlp0: 0.085 / 0.047
+  - lens_attn1: 0.0 / 0.081
+  - lin_attn1: 0.047 / 0.093
+  - mlp_attn1: 0.042 / 0.059
+  - lin_final: 0.025 / 0.089
+  - mlp_final: 0.042 / 0.081
+  - upstream_reader: 0.271 / 0.314
+  - revert_emb: 0.0 / 0.081
+  - revert_attn0: 0.017 / 0.076
+  - revert_mlp0: 0.0 / 0.081
+  - revert_attn1: 0.0 / 0.081
+  - revert_mlp1: 0.0 / 0.081
+  - revert_head: 0.0 / 0.081
+  - revert_from_attn0: 0.805 / 0.03
+  - revert_from_mlp0: 0.004 / 0.072
+  - revert_from_attn1: 0.0 / 0.081
+  - revert_from_mlp1: 0.0 / 0.081
+  - revert_from_head: 0.0 / 0.081
+  - revert_late: 0.0 / 0.081
+  - any_reader: 0.314 / 0.436
+  - n_readers: 0.373 / 1.11
+  - elevated_p: 0.0 / 0.081
+
+## overwriteA
+
+- items 4, target facts 256, forgotten at A 256; pre-fine-tune target acc {'A': 1.0, 'B': 1.0, 'C': 0.13671875}; fine-tune steps (median) 100.0; retained-fact acc at A 0.998; all old facts at A 0.874
+- p(value) at A: own 0.0016, other 0.0004 (own below other in 0.113 of facts); coverage N=1 0.002/0.000, coverage N=16 0.025/0.006, coverage N=256 0.236/0.058
+- relearning: steps to criterion (median) own 8.0, other 17.5; held-out half acc at A, start->end: own 0.000->0.141, other 0.000->0.047
+  - cue_A: 0.0 / 0.0
+  - cue_B: 0.785 / 0.004
+  - cue_C: 0.113 / 0.07
+  - readdress: 0.805 / 0.074
+  - second: 0.324 / 0.066
+  - lens_attn0: 0.145 / 0.062
+  - lin_attn0: 0.137 / 0.078
+  - mlp_attn0: 0.121 / 0.051
+  - lens_mlp0: 0.16 / 0.043
+  - lin_mlp0: 0.148 / 0.078
+  - mlp_mlp0: 0.133 / 0.066
+  - lens_attn1: 0.184 / 0.039
+  - lin_attn1: 0.289 / 0.039
+  - mlp_attn1: 0.238 / 0.055
+  - lin_final: 0.207 / 0.012
+  - mlp_final: 0.219 / 0.031
+  - upstream_reader: 0.59 / 0.223
+  - revert_emb: 0.0 / 0.0
+  - revert_attn0: 0.414 / 0.0
+  - revert_mlp0: 0.305 / 0.008
+  - revert_attn1: 0.195 / 0.008
+  - revert_mlp1: 0.172 / 0.0
+  - revert_head: 0.0 / 0.0
+  - revert_from_attn0: 1.0 / 0.0
+  - revert_from_mlp0: 0.879 / 0.0
+  - revert_from_attn1: 0.523 / 0.012
+  - revert_from_mlp1: 0.203 / 0.0
+  - revert_from_head: 0.0 / 0.0
+  - revert_late: 0.215 / 0.0
+  - any_reader: 0.934 / 0.301
+  - n_readers: 3.23 / 0.422
+  - elevated_p: 0.0 / 0.0
+
+## overwriteAB
+
+- items 4, target facts 256, forgotten at A 256; pre-fine-tune target acc {'A': 1.0, 'B': 1.0, 'C': 0.13671875}; fine-tune steps (median) 105.0; retained-fact acc at A 0.999; all old facts at A 0.874
+- p(value) at A: own 0.0035, other 0.0008 (own below other in 0.109 of facts); coverage N=1 0.004/0.001, coverage N=16 0.051/0.011, coverage N=256 0.374/0.084
+- relearning: steps to criterion (median) own 8.5, other 25.5; held-out half acc at A, start->end: own 0.000->0.195, other 0.000->0.031
+  - cue_A: 0.0 / 0.0
+  - cue_B: 0.0 / 0.0
+  - cue_C: 0.102 / 0.055
+  - readdress: 0.102 / 0.055
+  - second: 0.312 / 0.062
+  - lens_attn0: 0.152 / 0.047
+  - lin_attn0: 0.137 / 0.09
+  - mlp_attn0: 0.133 / 0.059
+  - lens_mlp0: 0.176 / 0.051
+  - lin_mlp0: 0.141 / 0.09
+  - mlp_mlp0: 0.137 / 0.07
+  - lens_attn1: 0.223 / 0.027
+  - lin_attn1: 0.289 / 0.031
+  - mlp_attn1: 0.285 / 0.039
+  - lin_final: 0.207 / 0.012
+  - mlp_final: 0.219 / 0.012
+  - upstream_reader: 0.613 / 0.211
+  - revert_emb: 0.0 / 0.0
+  - revert_attn0: 0.434 / 0.004
+  - revert_mlp0: 0.41 / 0.008
+  - revert_attn1: 0.242 / 0.008
+  - revert_mlp1: 0.219 / 0.012
+  - revert_head: 0.0 / 0.0
+  - revert_from_attn0: 1.0 / 0.0
+  - revert_from_mlp0: 0.859 / 0.012
+  - revert_from_attn1: 0.535 / 0.016
+  - revert_from_mlp1: 0.254 / 0.016
+  - revert_from_head: 0.0 / 0.0
+  - revert_late: 0.262 / 0.016
+  - any_reader: 0.887 / 0.281
+  - n_readers: 2.758 / 0.383
+  - elevated_p: 0.0 / 0.0
+
+## newtask
+
+- items 4, target facts 256, forgotten at A 173; pre-fine-tune target acc {'A': 1.0, 'B': 1.0, 'C': 0.13671875}; fine-tune steps (median) 350.0; retained-fact acc at A 0.333; all old facts at A 0.332
+- p(value) at A: own 0.0459, other 0.0971 (own below other in 0.277 of facts); coverage N=1 0.046/0.097, coverage N=16 0.238/0.164, coverage N=256 0.441/0.239
+- relearning: steps to criterion (median) own 8.5, other 22.0; held-out half acc at A, start->end: own 0.375->0.422, other 0.070->0.062
+  - cue_A: 0.0 / 0.11
+  - cue_B: 0.249 / 0.058
+  - cue_C: 0.092 / 0.046
+  - readdress: 0.092 / 0.046
+  - second: 0.249 / 0.046
+  - lens_attn0: 0.145 / 0.075
+  - lin_attn0: 0.145 / 0.064
+  - mlp_attn0: 0.156 / 0.04
+  - lens_mlp0: 0.208 / 0.069
+  - lin_mlp0: 0.15 / 0.069
+  - mlp_mlp0: 0.173 / 0.052
+  - lens_attn1: 0.197 / 0.069
+  - lin_attn1: 0.324 / 0.046
+  - mlp_attn1: 0.301 / 0.058
+  - lin_final: 0.295 / 0.052
+  - mlp_final: 0.283 / 0.052
+  - upstream_reader: 0.63 / 0.312
+  - revert_emb: 0.017 / 0.11
+  - revert_attn0: 0.295 / 0.058
+  - revert_mlp0: 0.295 / 0.075
+  - revert_attn1: 0.341 / 0.058
+  - revert_mlp1: 0.283 / 0.058
+  - revert_head: 0.069 / 0.092
+  - revert_from_attn0: 1.0 / 0.0
+  - revert_from_mlp0: 0.757 / 0.029
+  - revert_from_attn1: 0.48 / 0.052
+  - revert_from_mlp1: 0.306 / 0.064
+  - revert_from_head: 0.069 / 0.092
+  - revert_late: 0.329 / 0.11
+  - any_reader: 0.867 / 0.439
+  - n_readers: 2.85 / 0.96
+  - elevated_p: 0.11 / 0.145
+
+## ascentA_early
+
+- items 2, target facts 128, forgotten at A 120; pre-fine-tune target acc {'A': 1.0, 'B': 1.0, 'C': 0.125}; fine-tune steps (median) 22.0; retained-fact acc at A 0.166; all old facts at A 0.153
+- p(value) at A: own 0.0050, other 0.0734 (own below other in 0.075 of facts); coverage N=1 0.005/0.073, coverage N=16 0.030/0.075, coverage N=256 0.037/0.075
+- relearning: steps to criterion (median) own 34.0, other 54.5; held-out half acc at A, start->end: own 0.078->0.438, other 0.078->0.031
+  - cue_A: 0.0 / 0.075
+  - cue_B: 0.058 / 0.075
+  - cue_C: 0.042 / 0.058
+  - readdress: 0.1 / 0.108
+  - second: 0.092 / 0.05
+  - lens_attn0: 0.075 / 0.067
+  - lin_attn0: 0.092 / 0.033
+  - mlp_attn0: 0.092 / 0.067
+  - lens_mlp0: 0.108 / 0.033
+  - lin_mlp0: 0.125 / 0.067
+  - mlp_mlp0: 0.067 / 0.033
+  - lens_attn1: 0.033 / 0.067
+  - lin_attn1: 0.258 / 0.05
+  - mlp_attn1: 0.208 / 0.05
+  - lin_final: 0.275 / 0.033
+  - mlp_final: 0.2 / 0.033
+  - upstream_reader: 0.483 / 0.25
+  - revert_emb: 0.0 / 0.075
+  - revert_attn0: 0.083 / 0.058
+  - revert_mlp0: 0.083 / 0.058
+  - revert_attn1: 0.058 / 0.058
+  - revert_mlp1: 0.033 / 0.067
+  - revert_head: 0.0 / 0.075
+  - revert_from_attn0: 1.0 / 0.0
+  - revert_from_mlp0: 0.333 / 0.067
+  - revert_from_attn1: 0.067 / 0.058
+  - revert_from_mlp1: 0.025 / 0.067
+  - revert_from_head: 0.0 / 0.075
+  - revert_late: 0.033 / 0.075
+  - any_reader: 0.592 / 0.308
+  - n_readers: 1.408 / 0.867
+  - elevated_p: 0.017 / 0.075
+
+## ascentAB_early
+
+- items 2, target facts 128, forgotten at A 118; pre-fine-tune target acc {'A': 1.0, 'B': 1.0, 'C': 0.125}; fine-tune steps (median) 21.0; retained-fact acc at A 0.192; all old facts at A 0.178
+- p(value) at A: own 0.0073, other 0.0932 (own below other in 0.093 of facts); coverage N=1 0.007/0.093, coverage N=16 0.036/0.093, coverage N=256 0.042/0.093
+- relearning: steps to criterion (median) own 35.5, other 65.0; held-out half acc at A, start->end: own 0.078->0.484, other 0.094->0.031
+  - cue_A: 0.0 / 0.093
+  - cue_B: 0.008 / 0.093
+  - cue_C: 0.017 / 0.068
+  - readdress: 0.017 / 0.068
+  - second: 0.102 / 0.051
+  - lens_attn0: 0.059 / 0.068
+  - lin_attn0: 0.059 / 0.059
+  - mlp_attn0: 0.068 / 0.034
+  - lens_mlp0: 0.059 / 0.025
+  - lin_mlp0: 0.068 / 0.068
+  - mlp_mlp0: 0.085 / 0.059
+  - lens_attn1: 0.042 / 0.051
+  - lin_attn1: 0.339 / 0.042
+  - mlp_attn1: 0.229 / 0.059
+  - lin_final: 0.297 / 0.051
+  - mlp_final: 0.229 / 0.076
+  - upstream_reader: 0.466 / 0.263
+  - revert_emb: 0.0 / 0.093
+  - revert_attn0: 0.042 / 0.085
+  - revert_mlp0: 0.085 / 0.068
+  - revert_attn1: 0.042 / 0.085
+  - revert_mlp1: 0.042 / 0.093
+  - revert_head: 0.0 / 0.093
+  - revert_from_attn0: 0.881 / 0.017
+  - revert_from_mlp0: 0.356 / 0.025
+  - revert_from_attn1: 0.085 / 0.076
+  - revert_from_mlp1: 0.051 / 0.093
+  - revert_from_head: 0.0 / 0.093
+  - revert_late: 0.051 / 0.093
+  - any_reader: 0.517 / 0.381
+  - n_readers: 1.322 / 1.025
+  - elevated_p: 0.017 / 0.093

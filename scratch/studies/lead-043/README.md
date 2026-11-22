@@ -21,7 +21,8 @@ differences in `test_tinytf.py`).
     python3 -I -m pytest -q -p no:cacheprovider --rootdir=. .
     python3 -I study.py results_a.jsonl CACHE_DIR 0 1
     python3 -I study.py results_b.jsonl CACHE_DIR 2 3
-    cat results_a.jsonl results_b.jsonl > /tmp/all.jsonl
+    python3 -I study.py results_c.jsonl CACHE_DIR 0 2 ascentA_early ascentAB_early
+    cat results_a.jsonl results_b.jsonl results_c.jsonl > /tmp/all.jsonl
     python3 -I analyze.py /tmp/all.jsonl .
 
 CACHE_DIR holds the pretrained weights (`pre_s{seed}_{world}.npz`); it is

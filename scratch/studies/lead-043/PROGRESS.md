@@ -19,17 +19,17 @@
   pass. Smoke run (seed 0, two arms) worked; settings revised after it
   (fine-tune lr 1e-3 -> 3e-4, fine-tune past criterion, relearning checked
   every step).
-- Step 3 (running): seeds 0,1 -> results_a.jsonl; seeds 2,3 ->
+- Step 3 (done, 28 items): seeds 0,1 -> results_a.jsonl; seeds 2,3 ->
   results_b.jsonl. Pretrained weights cached in the scratchpad only.
 
-- Step 3b (running): ascent with ~100 steps collapsed the whole model
+- Step 3b (done, 4 items): ascent with ~100 steps collapsed the whole model
   (retained accuracy ~0.09), so arms ascentA_early and ascentAB_early
   (stop at the first step meeting the criterion) run for seeds 0 and 2 ->
   results_c.jsonl.
 
 ## Next
 
-- When the runs finish: analyze.py, then file the CASE, claims, notes on
+- Analysis done (summary.md, summary.json). File the CASE, claims, notes on
   LEAD-043, QUESTION-275, QUESTION-010 and QUESTION-274, and the changelog.
 
 ## Choices
