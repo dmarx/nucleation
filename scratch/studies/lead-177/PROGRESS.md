@@ -25,9 +25,12 @@ cite CASE-239 as not yet run.
   network.jsonl (360); summaries in results/*_summary.md.
 - Choices made: see README.md.
 
+- Filed: CASE-tmpz762n (ladder + forager), CASE-tmp33vf4 (network),
+  CLAIM-tmppa4rs, CLAIM-tmpnc1mf / CLAIM-tmphrp1s (alternatives),
+  CLAIM-tmpvqmwc; dated notes on LEAD-177, CASE-239, QUESTION-285,
+  QUESTION-128, CLAIM-648; changelog fragment record/changelog.d/lead-177.md.
+
 ## Next
 
-- File: CASE (executed-study) for the ladder + forager; CASE for the network;
-  CLAIM on criterion revision; two alternative CLAIMs on CASE-239's second
-  defeater; CLAIM on the network's anchor; dated notes on LEAD-177, CASE-239,
-  QUESTION-285, QUESTION-128, CLAIM-342; changelog fragment.
+- Nothing for this worker. The lead opens the pull request; the owner
+  chooses between CLAIM-tmpnc1mf and CLAIM-tmphrp1s.
