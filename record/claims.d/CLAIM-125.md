@@ -289,12 +289,12 @@ signalling language data carry" says.
 
 ## Note of 2026-11-22: the counts still cannot be tested
 
-"How much signalling language data carry" quotes LIT-851's counts and
-calls them weak evidence after CLAIM-235. LEAD-072 built a valid
-interval and test for signalling (CLAIM-tmp1o9d0), but LIT-851 prints no
+"How much signalling language data carry" quotes [LIT-851](../literature.d/LIT-851.md)'s counts and
+calls them weak evidence after [CLAIM-235](CLAIM-235.md). [LEAD-072](../leads.d/LEAD-072.md) built a valid
+interval and test for signalling ([CLAIM-tmp1o9d0](CLAIM-tmp1o9d0.md)), but [LIT-851](../literature.d/LIT-851.md) prints no
 occurrence counts, so its 69 of 90 cannot be restated as systems that
-signal beyond sampling error. On the three binary systems LIT-842 prints
+signal beyond sampling error. On the three binary systems [LIT-842](../literature.d/LIT-842.md) prints
 as fractions, with the least counts the fractions allow, one signals by
 the guaranteed interval, a second by the exact test alone, and the third
-by neither (CASE-tmpl6unn). The section's reading, that signalling is
+by neither ([CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md)). The section's reading, that signalling is
 common in these corpus data on weak evidence, stands as written.

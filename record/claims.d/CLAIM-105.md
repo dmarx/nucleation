@@ -92,7 +92,7 @@ complements:
 bears_on:
 - QUESTION-004
 ---
-<!-- inactive-ok-file: CLAIM-tmp1o9d0 CASE-tmpl6unn — new; what LEAD-072 filed on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmp1o9d0 — new; what LEAD-072 filed on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-tmpalxab CASE-tmpjp6vg CASE-tmpl2va4 — new; filed by LEAD-182 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -249,10 +249,10 @@ step.
 ## Note of 2026-11-22: a sampling error for the signalling term
 
 The note of 2026-10-29 says the defeat condition "needs a signalling
-estimator with bias correction and a stated sampling error". LEAD-072
-supplies the error for the signalling term (CLAIM-tmp1o9d0): simultaneous
+estimator with bias correction and a stated sampling error". [LEAD-072](../leads.d/LEAD-072.md)
+supplies the error for the signalling term ([CLAIM-tmp1o9d0](CLAIM-tmp1o9d0.md)): simultaneous
 Clopper-Pearson intervals on the context marginals bound Δ with coverage
 at least 1 − α at any count, while no estimator of Δ can be unbiased. A
 chain study would carry that interval into the CbD criterion beside a
-bound on the correlation term, as CLAIM-tmpalxab's conservative bound
+bound on the correlation term, as [CLAIM-tmpalxab](CLAIM-tmpalxab.md)'s conservative bound
 does. The claim is unchanged.

@@ -54,7 +54,7 @@ judgement of the published tests be made.
 ## Note of 2026-11-22: what was done, and what remains
 
 The worker for this lead derived the estimators and the test and checked
-them (CLAIM-tmp1o9d0, CASE-tmpl6unn; scratch/studies/lead-072).
+them ([CLAIM-tmp1o9d0](../claims.d/CLAIM-tmp1o9d0.md), [CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md); scratch/studies/lead-072).
 
 - **No unbiased estimator of Δ exists** at any finite count, since Δ is
   not a polynomial in the probabilities; "bias correction" can only
@@ -70,16 +70,16 @@ them (CLAIM-tmp1o9d0, CASE-tmpl6unn; scratch/studies/lead-072).
   5% test can find a content signalling from two or fewer occurrences in
   each context.
 
-**The application to LIT-851 is blocked twice.** Its appendix prints
-proportions and err(Δ), not occurrence counts (NOTE-654), and its only
+**The application to [LIT-851](../literature.d/LIT-851.md) is blocked twice.** Its appendix prints
+proportions and err(Δ), not occurrence counts ([NOTE-654](../notes.d/NOTE-654.md)), and its only
 open copy, UCL Discovery eprint 10146180, answered with a Cloudflare
 challenge (HTTP 403) on 2026-11-22; the Semantic Scholar API answered
 HTTP 429. Neither was retried. The tools were applied instead to the
-three binary systems LIT-842 prints as fractions (arXiv:2107.14589v1),
+three binary systems [LIT-842](../literature.d/LIT-842.md) prints as fractions (arXiv:2107.14589v1),
 with counts taken as each row's least common denominator.
 
-**What remains:** LIT-851's per-system occurrence counts, from the
+**What remains:** [LIT-851](../literature.d/LIT-851.md)'s per-system occurrence counts, from the
 authors or from Wang's thesis if it prints them (UCL Discovery eprint
 10193159, behind the same challenge), and then a run of apply.py on
-them. The estimator half of CLAIM-235's request is met; the data half is
+them. The estimator half of [CLAIM-235](../claims.d/CLAIM-235.md)'s request is met; the data half is
 not.

@@ -28,8 +28,8 @@ complements:
 - CLAIM-235
 - CLAIM-tmpalxab
 summary: >-
-  Derived for LEAD-072 on 2026-11-22 and checked by exact enumeration
-  and simulation (CASE-tmpl6unn). Δ, a sum of absolute differences of
+  Derived for [LEAD-072](../leads.d/LEAD-072.md) on 2026-11-22 and checked by exact enumeration
+  and simulation ([CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md)). Δ, a sum of absolute differences of
   binomial means, is not a polynomial in the probabilities, so no
   estimator is unbiased for it, whatever the counts; bias can be reduced,
   not removed. The squared difference is unbiasedly estimable, and its
@@ -39,8 +39,8 @@ summary: >-
   valid at any count, and exact per-content tests, combined by
   Bonferroni, give a test of the null that no content signals. Neither
   can say anything from one or two occurrences a context. This answers
-  the estimator half of CLAIM-235's request; the data half waits on
-  counts LIT-851 does not print. The wording is the assistant's (Claude,
+  the estimator half of [CLAIM-235](CLAIM-235.md)'s request; the data half waits on
+  counts [LIT-851](../literature.d/LIT-851.md) does not print. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpl6unn — new; the study this claim is checked by, filed with it -->
@@ -53,8 +53,8 @@ summary: >-
 
 Set-up. A binary content q is recorded in two contexts. In the first it
 takes the value +1 in x of n occurrences, in the second in y of m, with
-true probabilities p and p′. CbD's signalling, as LIT-851 uses it
-(THEORY-177), is Δ = Σ_q |⟨R_q⟩ − ⟨R′_q⟩| = Σ_q 2|p_q − p′_q|. A
+true probabilities p and p′. CbD's signalling, as [LIT-851](../literature.d/LIT-851.md) uses it
+([THEORY-177](../theory.d/THEORY-177.md)), is Δ = Σ_q |⟨R_q⟩ − ⟨R′_q⟩| = Σ_q 2|p_q − p′_q|. A
 rank-2 system has two contents and Δ ≤ 4. The plug-in estimate is
 Δ̂ = Σ_q 2|x/n − y/m|.
 
@@ -74,7 +74,7 @@ signalling must pay for it elsewhere.
 U = x(x−1)/(n(n−1)) − 2xy/(nm) + y(y−1)/(m(m−1)) has expectation
 (p − p′)² exactly, since x(x−1)/(n(n−1)) is unbiased for p². Its root,
 Δ̃ = Σ_q 2√max(0, U_q), is a bias-reduced estimator of Δ. By exact
-enumeration (CASE-tmpl6unn), for one content with p = p′ = 1/2 the
+enumeration ([CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md)), for one content with p = p′ = 1/2 the
 plug-in's mean is 0.75 at two occurrences a context, 0.35 at ten and
 0.11 at a hundred, against the root's 0.25, 0.15 and 0.05; where the
 true term is 1.0 the root falls short (0.64 at two occurrences, 0.90 at
@@ -107,7 +107,7 @@ can reject a table only if the table's probability is at most α at
 every p on the null. The least such worst-case probability over all
 tables is nⁿmᵐ/(n+m)ⁿ⁺ᵐ, attained by the table where every occurrence
 takes one value in the first context and the other in the second
-(checked for all n, m ≤ 40 in CASE-tmpl6unn). It is 1/4 at one occurrence
+(checked for all n, m ≤ 40 in [CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md)). It is 1/4 at one occurrence
 each and 1/16 at two each. So no valid 5% test can find a content
 signalling from two or fewer occurrences in each context, or from one
 occurrence in one context and fewer than seven in the other; at the
@@ -120,27 +120,27 @@ evidence of signalling.
 - That the plug-in estimate is useless. It is the maximum-likelihood
   estimate and nearly unbiased once a content's true signalling is
   large beside its standard error; the bias that matters is at small Δ,
-  as CLAIM-235 and CLAIM-tmpalxab say.
+  as [CLAIM-235](CLAIM-235.md) and [CLAIM-tmpalxab](CLAIM-tmpalxab.md) say.
 - That the interval of item 3 is the best valid one. It is simple and
   guaranteed; an exact unconditional interval for each difference would
   be shorter.
 - Anything about the contextual fraction or deficiency, the other two
-  quantities CLAIM-235 finds without estimators, or about the
+  quantities [CLAIM-235](CLAIM-235.md) finds without estimators, or about the
   correlation term of the CbD criterion.
-- That LIT-851's systems do or do not signal. Its appendix gives no
-  counts (NOTE-654).
+- That [LIT-851](../literature.d/LIT-851.md)'s systems do or do not signal. Its appendix gives no
+  counts ([NOTE-654](../notes.d/NOTE-654.md)).
 
 ## What it bears on
 
-CLAIM-235 asks for "estimators with bias correction and a stated
+[CLAIM-235](CLAIM-235.md) asks for "estimators with bias correction and a stated
 sampling error, or a test for signalling with a stated null hypothesis,
-applied to LIT-851's systems with their occurrence counts". Items 2 to
+applied to [LIT-851](../literature.d/LIT-851.md)'s systems with their occurrence counts". Items 2 to
 4 supply the estimators, the error and the test; item 1 says why "bias
 correction" cannot mean an unbiased estimate. The application is not
-possible from the published paper, and CASE-tmpl6unn applies them
-instead to the three binary systems that LIT-842 prints as fractions.
-Item 5 sharpens CLAIM-235's worked case: with one occurrence a
+possible from the published paper, and [CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md) applies them
+instead to the three binary systems that [LIT-842](../literature.d/LIT-842.md) prints as fractions.
+Item 5 sharpens [CLAIM-235](CLAIM-235.md)'s worked case: with one occurrence a
 context, a system's Δ̂ of 2 or 4 is not merely biased but could not be
-told from no signalling by any valid test. CLAIM-105's defeat condition
+told from no signalling by any valid test. [CLAIM-105](CLAIM-105.md)'s defeat condition
 counts changes "beyond sampling error"; item 3 is a sampling error for
 the signalling term that holds without assumptions on the counts.

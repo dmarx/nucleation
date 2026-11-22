@@ -16,7 +16,7 @@ draws_on:
 reported_in:
 - LIT-842
 summary: >-
-  Run in session for LEAD-072 on 2026-11-22 (scratch/studies/lead-072;
+  Run in session for [LEAD-072](../leads.d/LEAD-072.md) on 2026-11-22 (scratch/studies/lead-072;
   sig.py with 9 passing tests, exact.py, mc.py, floor.py, apply.py; seeds
   fixed). Exact enumeration per content and 4,000-replication simulations
   of correlated rank-2 systems at 2 to 100 occurrences a context. The
@@ -26,9 +26,9 @@ summary: >-
   Clopper-Pearson interval never covered below 0.999; Newcombe's
   approximate one fell to 0.93. The Bonferroni-Fisher test kept its size
   (at most 0.034 at 5%) and cannot reject at all below three occurrences.
-  On LIT-842's printed systems, at the least counts their fractions
+  On [LIT-842](../literature.d/LIT-842.md)'s printed systems, at the least counts their fractions
   allow, one signals by the interval, one by the test alone, one by
-  neither; a fourth table is inconsistent as printed. LIT-851 could not
+  neither; a fourth table is inconsistent as printed. [LIT-851](../literature.d/LIT-851.md) could not
   be used. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -39,12 +39,12 @@ summary: >-
 
 ## What was run
 
-For LEAD-072, on 2026-11-22, the estimators, interval and test of
-CLAIM-tmp1o9d0 were checked and applied. Code and results are in
+For [LEAD-072](../leads.d/LEAD-072.md), on 2026-11-22, the estimators, interval and test of
+[CLAIM-tmp1o9d0](../claims.d/CLAIM-tmp1o9d0.md) were checked and applied. Code and results are in
 scratch/studies/lead-072 (README.md says how to rerun; summary.md holds
 the full tables).
 
-- **Estimators of Δ** (CbD signalling, THEORY-177): the plug-in
+- **Estimators of Δ** (CbD signalling, [THEORY-177](../theory.d/THEORY-177.md)): the plug-in
   Σ2|x/n − y/m|, and the root-U2 estimator Σ2√max(0, U), U the unbiased
   estimate of (p − p′)².
 - **Intervals for Δ at 95%**: the "box", simultaneous Clopper-Pearson
@@ -73,8 +73,8 @@ true Δ is 1, root-U2 falls short at small counts (0.74 at ten
 occurrences, against the plug-in's 1.11), and per content at true term
 1.0 its exact mean is 0.64 at two occurrences and 0.90 at ten. The
 plug-in's bias at zero matches the record's earlier figures: per
-content, exactly 1 at one occurrence (CLAIM-235's worked case) and 0.113
-at a hundred, near CLAIM-tmpalxab's √(2/π) scaling.
+content, exactly 1 at one occurrence ([CLAIM-235](../claims.d/CLAIM-235.md)'s worked case) and 0.113
+at a hundred, near [CLAIM-tmpalxab](../claims.d/CLAIM-tmpalxab.md)'s √(2/π) scaling.
 
 **2. Coverage.** The box interval covered the true Δ in at least 99.95%
 of replications in every simulated cell, and its exact per-content
@@ -89,7 +89,7 @@ two or three occurrences a context, as the floor requires. Power is
 low at corpus-like counts: for true Δ = 0.4 it was 0.06 at ten
 occurrences, 0.19 at thirty and 0.72 at a hundred; for true Δ = 1, 0.14
 at ten, 0.47 at thirty and 0.97 at a hundred; for true Δ = 2, 0.61 at
-ten. Certifying the level LIT-851 uses to rule a rank-2 system out of
+ten. Certifying the level [LIT-851](../literature.d/LIT-851.md) uses to rule a rank-2 system out of
 contextuality, Δ ≥ 2, is harder still: the box's lower bound reached 2
 only for true Δ = 3, in 1% of replications at thirty occurrences and
 86% at a hundred, and never for true Δ = 2 or less.
@@ -100,8 +100,8 @@ three occurrences in each context, or one in one and seven in the
 other, before any valid test can call it signalling; at 2.5%, two and
 four, or one and fifteen.
 
-**5. LIT-842's printed systems.** LIT-851's 90 systems could not be used
-(below). LIT-842 (arXiv:2107.14589v1, read from its LaTeX source) prints
+**5. [LIT-842](../literature.d/LIT-842.md)'s printed systems.** [LIT-851](../literature.d/LIT-851.md)'s 90 systems could not be used
+(below). [LIT-842](../literature.d/LIT-842.md) (arXiv:2107.14589v1, read from its LaTeX source) prints
 four binary corpus systems as fractions. Counts are not given; each
 row's count was taken as the least common denominator of its
 fractions, the smallest count the row allows; the true count is a
@@ -130,19 +130,19 @@ and costs little to compute, and that the plug-in Δ̂ is not one: a
 system's Δ̂ at a few occurrences says almost nothing, and below three
 occurrences a context nothing a valid test can use. Where counts are
 known, the interval and the test can replace the plug-in counts that
-CLAIM-235 objects to. On the only corpus systems whose counts can be
-inferred, the signalling LIT-842 reports holds up beyond sampling error
+[CLAIM-235](../claims.d/CLAIM-235.md) objects to. On the only corpus systems whose counts can be
+inferred, the signalling [LIT-842](../literature.d/LIT-842.md) reports holds up beyond sampling error
 in one system of three by the guaranteed interval and in two by the
 test.
 
 ## What it cannot show
 
-- Anything about LIT-851's 90 systems. Its appendix prints proportions
-  and err(Δ), not counts (NOTE-654), and its open copy, UCL Discovery
+- Anything about [LIT-851](../literature.d/LIT-851.md)'s 90 systems. Its appendix prints proportions
+  and err(Δ), not counts ([NOTE-654](../notes.d/NOTE-654.md)), and its open copy, UCL Discovery
   eprint 10146180, answered with a Cloudflare challenge (HTTP 403) on
   2026-11-22; the Semantic Scholar API answered HTTP 429. Neither was
   retried.
-- The true counts behind LIT-842's fractions. At larger multiples the
+- The true counts behind [LIT-842](../literature.d/LIT-842.md)'s fractions. At larger multiples the
   intervals narrow; the verdicts above hold at the least counts and
   could only strengthen toward signalling.
 - Anything about the CbD criterion's correlation term, the contextual
