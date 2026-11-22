@@ -19,7 +19,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import numpy as np
 
 import model as M
-from study import DT, EPS, OUT
+from study import DT, EPS, OUT, PART2_JOBS
 
 
 def one(args):
@@ -49,7 +49,7 @@ def one(args):
 
 
 if __name__ == "__main__":
-    jobs = [(k, w, s) for k in (2, 3, 4, 5, 6) for w in (0.08, 0.12, 0.2) for s in range(3)]
+    jobs = PART2_JOBS
     path = os.path.join(OUT, "condC_check.jsonl")
     done = set()
     if os.path.exists(path):

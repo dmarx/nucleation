@@ -96,6 +96,12 @@ def part1(n_inst=2000, n_sim=30):
 
 # ------------------------------------------------------------------ part 2
 
+# Seeds differ only by the 1e-3 starting noise, and at k = 2 all three gave
+# identical endpoints, so k >= 4 runs one seed (the CPU is shared).
+PART2_JOBS = ([(k, w, s) for k in (2, 3) for w in (0.08, 0.12, 0.2) for s in range(3)]
+              + [(k, w, 0) for k in (4, 5, 6) for w in (0.08, 0.12, 0.2)])
+
+
 def part2_one(args):
     k, w, seed = args
     nic = M.GaussianNiche(m=12, w=w)
@@ -139,7 +145,7 @@ def part2_one(args):
 
 
 def part2():
-    jobs = [(k, w, s) for k in (2, 3, 4, 5, 6) for w in (0.08, 0.12, 0.2) for s in range(3)]
+    jobs = PART2_JOBS
     # append-only, resumable: one JSON line per finished run
     os.makedirs(OUT, exist_ok=True)
     path = os.path.join(OUT, "part2_runs.jsonl")
