@@ -31,6 +31,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
+<!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 CLAIM-tmpszhd7 CLAIM-tmpb80wu — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2038 THEORY-2041 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
@@ -332,3 +333,21 @@ scales. It does not touch the question's other transitions (instability,
 bifurcation of the attractors, tipping) or its second half, whether
 creation, stabilization and constitutive role are separate achievements.
 [CLAIM-781](../claims.d/CLAIM-781.md) bears on the question through it.
+
+## Note of 2026-11-22: whether the record individuates the block and the eater
+
+[LEAD-069](../leads.d/LEAD-069.md) applied the record's individuation criteria to the Life forms
+([CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md)). The verdicts are determinate once a criterion is fixed,
+and they split by criterion. In [TERM-088](../terms.d/TERM-088.md)'s descriptive and dynamical
+senses, relative to stated perturbations, both the block and the eater are
+individuated. On [CLAIM-157](../claims.d/CLAIM-157.md)'s test of one system, the block is not
+([CLAIM-tmp3twn6](../claims.d/CLAIM-tmp3twn6.md)), and the eater is only at one generation. This question
+does not say which sense its first half means, so two readings are filed.
+Reading (a), [CLAIM-tmpszhd7](../claims.d/CLAIM-tmpszhd7.md): the first half is met for Life. Reading (b),
+[CLAIM-tmpb80wu](../claims.d/CLAIM-tmpb80wu.md): it is not. The owner chooses.
+
+On reading (a), a token proviso applies to the second half. [CASE-260](../cases.d/CASE-260.md)'s two
+blocks in run 1 are on the same cells, two of them live throughout, so
+they are two blocks only when counted as shape instances. A soup transient
+in [CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) that loses all four cells is created and not stabilized
+on either count. No status change.
