@@ -21,6 +21,7 @@ summary: >-
   for the premise to be measured on real text, and this question holds
   that request.
 ---
+<!-- inactive-ok-file: CASE-tmpby7xp — new, filed today by LEAD-147 -->
 
 # QUESTION-178: Is word co-occurrence close to independent, multiplicative binary attributes in the analogy families where spectral embeddings complete parallelograms, and does adding an interaction between two attributes break their parallelogram?
 
@@ -48,3 +49,26 @@ others stay. Families that the embedding completes although their PMI is
 far from additive would answer it no. What cannot settle it: more
 agreement in the shape of analogy accuracy against dimension, or of the
 PMI spectrum.
+
+## Note of 2026-11-22: a first measurement of the departure from additivity
+
+[LEAD-147](../leads.d/LEAD-147.md) measured it on text8, about 17M tokens of English Wikipedia. The
+case is [CASE-tmpby7xp](../cases.d/CASE-tmpby7xp.md). The PMI was taken over the 5 000 most frequent
+context words, in a window of ±5. For each quadruple a:b :: c:d of the
+word2vec analogy set, the PMI rows were split into a relation effect, a
+pair effect and an interaction, P_a − P_b − P_c + P_d. The interaction's
+noise was removed using the two half-corpora. Additivity predicts an
+interaction share of 0; quadruples drawn at random from a family's words
+give about 0.33.
+
+The measured median share, noise-corrected, runs from 0.21 to 0.30 by
+family. No family is close to additive. On this measure the departure is
+most of what an unstructured quadruple shows. The departure still tracks
+completion. Across the 14 families, 3CosAdd accuracy in a rank-300 PMI
+embedding falls with the interaction share (Spearman −0.83). Within 13 of
+the 14 families, the third of quadruples with the least interaction
+completes more often than the third with the most (mean 0.59 against
+0.31). That is the pattern this question names as a yes, in graded form:
+families nearer additivity are the ones completed. Two things temper it.
+No family is near the additive end, and word frequency, which affects
+both measures, was not controlled. The intervention limb is not attempted.

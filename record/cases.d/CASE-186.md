@@ -46,6 +46,7 @@ summary: >-
   the hypothesis family; and external restoration that is paid for. Not
   run. The analytic error rates hold only where admission is protected.
 ---
+<!-- inactive-ok-file: CASE-tmp6btcq CLAIM-tmp7ggg0 CASE-tmpl0ccq — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CASE-255 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: LIT-2287 — Deferred; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1750 THEORY-1755 THEORY-1766 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
@@ -316,7 +317,7 @@ The case is unchanged.
 
 ## Note of 2026-11-22: run in reduced form ([LEAD-048](../leads.d/LEAD-048.md))
 
-<!-- inactive-ok-block: CASE-tmpl0ccq CLAIM-tmpqaqtx — new; the run of LEAD-048 and the claim drawn from it -->
+<!-- inactive-ok-block: CLAIM-tmpqaqtx — new; the run of LEAD-048 and the claim drawn from it -->
 [LEAD-048](../leads.d/LEAD-048.md) ran this design in reduced form as [CASE-tmpl0ccq](CASE-tmpl0ccq.md), and [CLAIM-tmpqaqtx](../claims.d/CLAIM-tmpqaqtx.md)
 is drawn from it. The run kept the world, partial monitoring, the
 separately lesionable generate, admit and score operations, the three
@@ -338,3 +339,18 @@ repeat [CASE-162](CASE-162.md).
 The design gives "Familiar reversals are caught and out-of-family change
 is missed" as one way the accounts could come apart. The run does not test
 it, because the adequacy test is supplied. The case is unchanged.
+
+## Note of 2026-11-22: its organization used as the artifact of [CASE-255](CASE-255.md)'s run
+
+[LEAD-140](../leads.d/LEAD-140.md) reused [CASE-tmpl0ccq](CASE-tmpl0ccq.md)'s simulation of this case as the working
+system in a run of [CASE-255](CASE-255.md) ([CASE-tmp6btcq](CASE-tmp6btcq.md)). Its audit, self-test and
+repair were the procedures an improver tuned, on a schedule shortened to
+350 steps. Its three undisclosed lesions became the damage cases of the
+improver's evaluation suite and of the frozen held-out battery.
+
+The run moves this case's question one level up: whether the machinery
+that improves the organization keeps the checks that find damage. The
+answer, in that construction, has the same shape as [CLAIM-tmpqaqtx](../claims.d/CLAIM-tmpqaqtx.md)'s. A
+self-test of the improver's suite found its damage at once wherever the
+improver still had one. Lineages whose improver had shed it went on with a
+damaged suite. [CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md) holds the result. The case is unchanged.

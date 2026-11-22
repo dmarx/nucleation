@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmprrjrd
 title: 'A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-21'
@@ -34,6 +34,11 @@ history:
     targets wrote the concession in at the fourteenth review (CLAIM-157
     and CLAIM-174, histories of 2026-10-29), and no objection to it is on
     file. The claim is unchanged.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: an instance in population form, from
+    CASE-tmprsqvj (CLAIM-tmp2jbb1). The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -67,6 +72,7 @@ complements:
 - CLAIM-530
 - CLAIM-531
 ---
+<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # CLAIM-194: A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs
 
@@ -154,3 +160,21 @@ boundary by its parthood condition, which takes the boundary as an input,
 as this claim says a gap criterion must.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-22: an instance in population form
+
+[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) runs [CASE-101](../cases.d/CASE-101.md)'s populations through the priced block test,
+lagged over windows of 1 to 16 steps ([LEAD-026](../leads.d/LEAD-026.md)). Two of the populations
+are matched in turnover and aggregate statistics:
+
+- in one, the members respond to a common driver;
+- in the other, an institution trains and selects the members and does not
+  answer to them.
+
+They get the same verdict at every window: each set of members passes only
+with its external variable. Every information measure computed agrees to
+within a few per cent. An institution that does answer to its members
+differs only in the direction of that feedback, and the price removes it
+beyond four steps. This is the claim's beam and membrane, with the imposed
+boundary indistinguishable from a common input. [CLAIM-tmp2jbb1](CLAIM-tmp2jbb1.md)
+corroborates this claim. The claim is unchanged.

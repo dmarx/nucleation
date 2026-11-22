@@ -139,6 +139,7 @@ summary: >-
 bears_on:
 - QUESTION-325
 ---
+<!-- inactive-ok-file: THEORY-tmpai05z — new; the reading cited in the note of 2026-11-22 (LEAD-032) -->
 <!-- inactive-ok-file: CASE-tmpxmuri CLAIM-tmpqp1h6 ARG-025 — new or Proposed; filed by LEAD-076 on 2026-11-22 and cited in its note of that date, ARG-025 for the grading -->
 <!-- inactive-ok-file: LIT-tmpgnizl LIT-tmp8xv0w LIT-tmppvr66 — new or Deferred; LEAD-047's search of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-964 — Superseded by THEORY-963; the classification as Bartók et al. state it, cited in the note of 2026-10-25 for the class of each variant beside THEORY-963 (Active), which the reading of Lattimore and Szepesvári proposes supersede it; nothing here rests on it -->
@@ -456,6 +457,20 @@ or in authority. Several registered works ([LIT-tmpgnizl](../literature.d/LIT-tm
 belief, which fits the claim's "the regime can outlast a corrected
 belief" without testing why. Neither reading is evidence for or against
 the claim; no relation written. No status changes.
+
+## Note of 2026-11-22: a safety behaviour added with threat expectancy unchanged
+
+[LEAD-032](../leads.d/LEAD-032.md) read Meckes et al. (2025), [LIT-tmpds717](../literature.d/LIT-tmpds717.md), [NOTE-tmprmzur](../notes.d/NOTE-tmprmzur.md)
+([THEORY-tmpai05z](../theory.d/THEORY-tmpai05z.md)). Spider-fearful adults had one exposure with
+experimenter-supplied boots faded, kept or absent. On average the boots
+did not change threat expectancy ("there were no between-group
+differences in the level of change in threat expectancy"), raised
+approach during exposure, and left outcomes at one month unchanged. That
+is a manipulation of a safety behaviour with expectancy unmoved, the
+nearest thing in the search to this claim's test, but the boots change
+neither which process governs inquiry nor what evidence it can reach:
+every arm approached the same spider. Background only; no relation
+written. No status change.
 
 ## Note of 2026-11-22: the test run in a model, from LEAD-076
 

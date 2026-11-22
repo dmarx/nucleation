@@ -1,0 +1,75 @@
+---
+status: Rejected
+title: 'Ge and colleagues'' brief-mindfulness trial, read as evidence, shows by faster Stroop and Go/No-go responses with delay discounting unchanged that mindfulness improves self-control by a step that needs no change in the discount curves'
+version: 1
+form: evidence
+grounds:
+- THEORY-tmpbidvo
+concludes:
+- CLAIM-156
+tags:
+- behavioral-integration
+- psychopathology-and-treatment
+date: '2026-11-22'
+line:
+- will-organization
+summary: >-
+  [CLAIM-156](../claims.d/CLAIM-156.md) cited Ge et al. ([LIT-916](../literature.d/LIT-916.md)), unread, as evidence on the test
+  that tells its routes apart: some impulsive behaviours reduced,
+  discounting not improved. Read ([NOTE-tmp1yxz6](../notes.d/NOTE-tmp1yxz6.md)), the behaviours that
+  changed are reaction times on the Stroop and Go/No-go tasks, with
+  accuracy at ceiling and unchanged, and no choice under temptation was
+  measured; nothing was tested as a mediator. Faster responding is not
+  shown to be better self-control, so the trial does not show the route.
+  Rejected as evidence for [CLAIM-156](../claims.d/CLAIM-156.md); the reading takes no edge to it.
+  Standing of the conclusion apart from this route: [CLAIM-156](../claims.d/CLAIM-156.md) stays
+  Proposed, held in the claim itself, with its premise [CLAIM-169](../claims.d/CLAIM-169.md) waiting
+  on [THEORY-067](../theory.d/THEORY-067.md)'s mechanism and no study read that tests discounting as a
+  mediator. The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-156 CLAIM-169 THEORY-067 THEORY-tmpbidvo — Proposed or new; the claim concluded, its premise, the account it waits on and the reading -->
+
+# ARG-tmpc8jqe: Ge and colleagues' brief-mindfulness trial, read as evidence, shows by faster Stroop and Go/No-go responses with delay discounting unchanged that mindfulness improves self-control by a step that needs no change in the discount curves
+
+## The inference
+
+As [CLAIM-156](../claims.d/CLAIM-156.md) set it up: the claim's first test is whether choice under
+temptation and response inhibition improve after practice by more than
+any change in discounting carries. Ge et al. ([THEORY-tmpbidvo](../theory.d/THEORY-tmpbidvo.md)) report a
+change in inhibition-task performance and none in discounting. If
+self-control improved and discounting did not move, the improvement was
+not carried by discounting, which is what the claim predicts and its
+defeat condition denies.
+
+## Critical questions
+
+- **Does the source report what it is cited for?** In part. Discounting
+  did not differ between arms at any time, as the record's summary said.
+  The "reduced impulsive behaviours" are shorter reaction times on the
+  Stroop task (against the monitor arm, p = 0.011; against waiting,
+  p = 0.077) and on Go responses in the Go/No-go task (p < 0.05), with
+  accuracy above 95% and unchanged in every arm.
+- **Is the measure the claim's quantity?** No. The claim is about
+  whether the momentarily dominant option takes control of action. A
+  faster Go response is not a withheld response, and a faster Stroop
+  response without fewer errors is not a better resistance to the
+  prepotent reading; both may be a shift in speed. No choice under
+  temptation, and no No-go commission rate apart from overall accuracy,
+  was reported.
+- **Is mediation tested?** No. With discounting unchanged there is
+  nothing for it to carry, so the pattern is compatible with the claim;
+  but compatibility with an absent mediator is not evidence for the
+  route unless the outcome that changed is self-control.
+- **Is the evidence strong enough to bear weight?** Small arms (23-24),
+  not preregistered, an effect gone in two weeks, and one of the two
+  reaction-time contrasts at trend against the waiting arm.
+
+## Verdict
+
+Rejected as evidence for [CLAIM-156](../claims.d/CLAIM-156.md). The trial is filed as a reading with
+a dated note on the claim, and takes no edge to it. What would carry the
+weight is a trial that measures discounting and a self-control outcome in
+which the tempting option is withheld (choice under temptation, No-go
+commissions, a stop-signal reaction time) before and after practice, and
+tests discounting as a mediator.
