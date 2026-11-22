@@ -1,0 +1,12 @@
+{"key": "kT=0.02|beta=0.06|sigma=0.0|tw=0.0", "kT": 0.02, "beta": 0.06, "cls": "self-igniting", "sigma": 0.0, "t_w": 0.0, "N_maint": 2.7322434660033967, "t_half": 119.9}
+{"key": "kT=0.02|beta=0.06|sigma=0.05|tw=10.0", "kT": 0.02, "beta": 0.06, "cls": "self-igniting", "sigma": 0.05, "t_w": 10.0, "N_maint": 2.7322434660033967, "t_half": 15.8}
+{"key": "kT=0.02|beta=0.06|sigma=0.05|tw=40.0", "kT": 0.02, "beta": 0.06, "cls": "self-igniting", "sigma": 0.05, "t_w": 40.0, "N_maint": 2.7322434660033967, "t_half": 15.280000000000001}
+{"key": "kT=0.02|beta=0.06|sigma=0.3|tw=10.0", "kT": 0.02, "beta": 0.06, "cls": "self-igniting", "sigma": 0.3, "t_w": 10.0, "N_maint": 2.7322434660033967, "t_half": 6.69}
+{"key": "kT=0.02|beta=0.1|sigma=0.0|tw=0.0", "kT": 0.02, "beta": 0.1, "cls": "self-igniting", "sigma": 0.0, "t_w": 0.0, "N_maint": 2.3102411594922385, "t_half": 76.4}
+{"key": "kT=0.02|beta=0.1|sigma=0.05|tw=10.0", "kT": 0.02, "beta": 0.1, "cls": "self-igniting", "sigma": 0.05, "t_w": 10.0, "N_maint": 2.3102411594922385, "t_half": 13.2}
+{"key": "kT=0.02|beta=0.1|sigma=0.05|tw=40.0", "kT": 0.02, "beta": 0.1, "cls": "self-igniting", "sigma": 0.05, "t_w": 40.0, "N_maint": 2.3102411594922385, "t_half": 12.99}
+{"key": "kT=0.02|beta=0.1|sigma=0.3|tw=10.0", "kT": 0.02, "beta": 0.1, "cls": "self-igniting", "sigma": 0.3, "t_w": 10.0, "N_maint": 2.3102411594922385, "t_half": 5.89}
+{"key": "kT=0.03|beta=0.1|sigma=0.0|tw=0.0", "kT": 0.03, "beta": 0.1, "cls": "self-igniting", "sigma": 0.0, "t_w": 0.0, "N_maint": 2.3022947190863547, "t_half": 83.4}
+{"key": "kT=0.03|beta=0.1|sigma=0.05|tw=10.0", "kT": 0.03, "beta": 0.1, "cls": "self-igniting", "sigma": 0.05, "t_w": 10.0, "N_maint": 2.3022947190863547, "t_half": 13.4}
+{"key": "kT=0.03|beta=0.1|sigma=0.05|tw=40.0", "kT": 0.03, "beta": 0.1, "cls": "self-igniting", "sigma": 0.05, "t_w": 40.0, "N_maint": 2.3022947190863547, "t_half": 13.22}
+{"key": "kT=0.03|beta=0.1|sigma=0.3|tw=10.0", "kT": 0.03, "beta": 0.1, "cls": "self-igniting", "sigma": 0.3, "t_w": 10.0, "N_maint": 2.3022947190863547, "t_half": 5.94}

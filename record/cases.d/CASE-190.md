@@ -54,6 +54,7 @@ draws_on:
 - THEORY-1267
 - THEORY-1290
 ---
+<!-- inactive-ok-file: CASE-tmpy4orj — new, filed under LEAD-093 on 2026-11-22 -->
 
 # CASE-190: A kinetic construction of self-maintaining reconstruction: a brief encounter captures a fuel, connector and two-catalyst core into a box that stays invariant under bounded degradation, keeping its copying catalyst regenerated and a grounded teacher and an erasable student within bounded error; with a resource allocator holding reserved minima and a revisable copy rule, the certificate holds for every allocation and rule, because neither the information variables nor the rule feed back into maintenance
 
@@ -166,5 +167,22 @@ for this case. Same structure, not shown same mechanism.
 
 Both models are de novo in Bechtel and Abrahamsen's sense
 ([THEORY-1290](../theory.d/THEORY-1290.md)).
+
+No status, title or warrant changes.
+
+## Note of 2026-11-22: a construction that closes this case's three gaps
+
+[CASE-tmpy4orj](CASE-tmpy4orj.md) ([LEAD-093](../leads.d/LEAD-093.md)) is a separate kinetic model, not an extension of
+these equations, which are not all stated: A18's Ψ is missing. It closes
+the three gaps named under "What it shows and does not":
+
+- **The coupling runs both ways.** Nuclei make the teachers that form
+  them.
+- **There is succession.** Students become teachers, and the outside
+  teacher is replaced within a few generations.
+- **The teacher is not stipulated.** After the founding, every teacher was
+  made inside the model.
+
+Its information is thinner still: the teacher carries only its amount.
 
 No status, title or warrant changes.
