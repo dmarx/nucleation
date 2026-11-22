@@ -5,10 +5,9 @@
 - Task: on LEAD-048's simulation (scratch/studies/lead-048/model.py), let
   the organization improve its own procedures over generations; transplant
   an earlier and a later improver onto the same fresh state at equal budget
-  (2x2 artifact x improver); then damage the diagnostic machinery
-  (CASE-186's lesions, with shams). File a CASE (executed-study), a CLAIM if
-  warranted, dated notes on CASE-255, CASE-186, QUESTION-457, QUESTION-388
-  and LEAD-140. About an hour of CPU at most.
+  (2x2 artifact x improver); then damage the diagnostic machinery (with
+  shams). File a CASE (executed-study), a CLAIM if warranted, dated notes on
+  CASE-255, CASE-186, QUESTION-457, QUESTION-388 and LEAD-140.
 
 ## Checked (step 1)
 
@@ -20,30 +19,25 @@
 
 - Artifact = LEAD-048's organization's procedures theta (audit interval and
   size, self-check interval, repair time, teacher-correction rate; TEACH
-  added by subclassing Org). Improver = settings phi (candidates per
-  generation, share of damage and out-of-family episodes in its suite,
-  whether it reads its archive, a canary test of its suite) plus its record
-  (archive of moves and measured effects). See rsi.py's docstring.
-- Schedule shortened to 350 steps (injury 150, second change 200) for CPU.
-- Episode score = throughput less 0.3 when the findings are wrong (S1 and S2),
-  since regime 0 has no preferred action.
-- Lineage arms: none (no record), archive (fixed phi, growing archive: the
-  ADAS-like control), and four adaptive arms differing in how a change to
-  the improver is judged: public (performance-gated), own (its own suite),
-  external (fixed outer suite, separate seeds), layered (own, with an
-  external veto on verification-weakening changes).
-- 12 lineages per arm, G = 60; transplant H = 10 generations at 32
-  episodes each, 2 replicates; held-out battery of 24 frozen seeds x 6 kinds.
-- Two worker processes only (the machine is shared). Stop runs by PID only.
-- Not modelled: plain-Markdown arm, schema extension (no mechanism to add a
-  distinction), the CASE-108 specialist-with-poor-record arm.
+  added by subclassing Org). Improver = settings phi (candidates, damage and
+  out-of-family shares of its suite, reads its record or not, canary) plus a
+  record of moves and measured effects. See rsi.py's docstring.
+- Schedule shortened to 350 steps. Episode score = throughput less 0.3 when
+  the findings are wrong (regime 0 has no preferred action).
+- Arms: none, archive (ADAS-like), public, own, external, layered.
+- 12 lineages per arm, G = 60; transplant H = 10 at 32 episodes, 2 reps;
+  battery 24 frozen seeds x 6 kinds. Two processes; runs stopped by PID only.
+- Not modelled: agents with prose records, plain-Markdown arm, schema
+  extension, CASE-108's specialist, a second correction of the improver.
 
 ## Done
 
-- rsi.py, test_rsi.py (11 pass), study.py committed.
-- Phase 1 (lineages) started.
+- rsi.py, test_rsi.py (11 pass), study.py, analyze.py, README.md.
+- Phases 1-3 run (about 64 CPU-minutes); results/*.jsonl, results/tables.md.
+- Filed CASE-tmp6btcq (executed-study) and CLAIM-tmp7ggg0.
+- Dated notes on CASE-255, CASE-186, QUESTION-457, QUESTION-388, LEAD-140.
+- Changelog fragment record/changelog.d/lead-140.md.
 
 ## Next
 
-- Phase 2 transplant, phase 3 damage; analyze.py; file CASE, CLAIM, notes,
-  changelog.
+- Nothing for this worker: report to the lead, who opens the pull request.
