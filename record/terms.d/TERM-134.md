@@ -106,3 +106,16 @@ inference becomes "most likely undecidable" (p. 2), and the properties
 must be stated by the programmer and checked. Read across: a predicate
 from a closed vocabulary can be read off an entry; one from an open
 vocabulary has to be written. No change.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel (no edge). In liquid types ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md))
+the descriptors that can be inferred are conjunctions from a finite set
+of qualifiers the programmer supplies. A property the set cannot state is
+not inferred, and the paper's remedy is "to manually add more qualifiers"
+(p. 160), as the record adds a missing topic by decision rather than
+using the nearest wrong one. The set is closed under conjunction and not
+disjunction (p. 164). Unlike Freeman and Pfenning's declared lattice, the
+vocabulary is of predicates, the record's own kind of test. The
+definition stands.

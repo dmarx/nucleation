@@ -96,3 +96,15 @@ to be run does not. That is the condition [CLAIM-783](../claims.d/CLAIM-783.md)'
 already meets, the entry being a version, and it marks where the argument
 would stop: at tests about what is still to be done to the thing. No
 change to the definition.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel, from the other side (no edge). Liquid inference
+([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) types a function's inputs as the
+strongest supertype of the arguments the program passes. With no calls,
+its neg example gets {0 ≤ ν ∧ 0 ≥ ν} → {0 ≤ ν ∧ 0 ≥ ν}, "useless but
+sound" (p. 167): the strongest description the qualifiers state, true of
+no argument ever given. A description with nothing to witness it can be
+as strong as the vocabulary allows. The record's descriptors are written
+from an entry that exists, which is what this term's witness rules out.

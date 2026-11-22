@@ -245,3 +245,14 @@ The decision census ([CASE-300](../cases.d/CASE-300.md)) coded the form each mis
 So for the misfits that were eventually noticed, the claim's sequence holds: forced or held in prose first, the grammar amended after.
 
 What the count cannot reach is this claim's remaining test, a misfit never noticed. Only decisions were coded. The claim is unchanged.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel from type inference (no edge). In liquid types
+([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) the vocabulary of inferable types is a
+fixed qualifier set. A property it cannot state is lost, as a weaker type
+or a failure, until the programmer notices and adds a qualifier (p. 160).
+The paper names the difficulty this claim names: a failure does not say
+whether the program is wrong or the vocabulary too small, and telling the
+two apart is future work (p. 169).

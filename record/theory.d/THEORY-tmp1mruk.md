@@ -90,3 +90,18 @@ the programmer's ascriptions. So the decidability this account credits to
 the finite declared lattice and the same-type restriction is what the
 later system gives up, and the programmer states per function what this
 one read off. No change.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+
+The later account (no edge). Rondon, Kawaguchi and Jhala 2008
+([THEORY-tmp01mu6](THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) cite this paper as where "The notion of
+type refinements was introduced", "with refinements limited to
+restrictions on the structure of algebraic datatypes, for which inference
+is decidable" (p. 169). Their liquid types keep what made inference
+decidable here, a finite vocabulary fixed in advance and refinements only
+of programs already well-typed in ML. They change the vocabulary from
+declared datatype refinements to logical qualifiers, conjoined, over base
+types and functions, checked in a decidable logic. They also lack what
+this account has: refinements of recursive datatypes. Not a rival and not
+a correction; each is right of its own system.

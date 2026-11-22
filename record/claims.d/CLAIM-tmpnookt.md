@@ -168,3 +168,37 @@ open for the bullet "The direction of fit is bidirectional typing".
 Defeat condition (b) is not met: one correspondence holds narrowed, and
 the elaboration clause names a mechanism this system lacks rather than one
 that fails. No change to the claim's status.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; filed from the reading for LEAD-tmp3xevc -->
+
+Rondon, Kawaguchi and Jhala 2008 ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md), corroborates;
+[NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md); [LIT-tmplw76n](../literature.d/LIT-tmplw76n.md)), the predicate form of refinement types,
+read after Freeman and Pfenning's turned out to be a declared lattice.
+
+- **A descriptor as a refinement the entry inhabits: borne out in the
+  form written here, narrowed** ([ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md)). Their base refinement
+  {ν : B | e}, e any boolean expression, is "the set of values c of the
+  base type B such that the predicate [c/ν]e evaluates to true" (p. 160):
+  this claim's {x : A | φ(x)}. Inference only weakens a description until
+  the program passes it, and the program never moves. Three narrowings:
+  where a type is inferred, φ must be a conjunction of qualifiers from a
+  finite set given in advance, no disjunction, which is what keeps
+  inference decidable; a type given in advance can carry any predicate but
+  is checked by a conservative implication check, so a predicate the term
+  passes can fail to check; and nothing is carried with the term, so
+  "provably inhabits" means only that the check succeeded.
+- **The direction of fit as inferring against checking: half borne
+  out** ([ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md), Rejected as a route; [CLAIM-tmpcmt21](CLAIM-tmpcmt21.md), a counter).
+  Inference is informative update. Checking against a type given in
+  advance moves nothing, a program that fails is reported, and the failure
+  may lie in the qualifier set or the checker rather than the program. The
+  run-time checks the paper proposes inserting, by Flanagan's hybrid type
+  checking, would be the elaboration this claim names; the paper does not
+  do it, and the record has not read Flanagan.
+- **Proof relevance: no support.** Derivations and solver checks are not
+  kept; inferred types are printed "as documentation" (p. 167).
+
+Neither reaches this claim's `defeated_if` (b): the first correspondence
+holds narrowed, and the second is still untested on a bidirectional
+system. No change to the claim's status.

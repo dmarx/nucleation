@@ -81,3 +81,23 @@ same ascription is checked against its term and then relied on by the
 term's uses, so one test can be world to word toward the thing it is
 applied to and word to world toward those who read it. The definition
 stands; whether to add that distinction is the owner's call.
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 CLAIM-tmpcmt21 — Proposed; filed for LEAD-tmp3xevc -->
+
+Two cases for this term (case and qualification; no edge). Liquid type
+inference ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) is informative update in the
+plain sense: it starts from "a trivial assignment, in which each liquid
+type variable is assigned the conjunction of all logical qualifiers" and
+weakens it until the program passes (p. 166). Descriptions the program
+fails are passed through and dropped; the program never moves. Where a
+test fails, the description gives way: the word-to-world direction. The
+result is the strongest description the vocabulary and the check allow.
+
+The qualification ([CLAIM-tmpcmt21](../claims.d/CLAIM-tmpcmt21.md)): where tests are checked by a
+conservative procedure, "passes" and "is verified to pass" come apart.
+The paper's failures may lie in the program, the qualifier set or the
+checker (pp. 160, 169), so a test that fails to check is not thereby world
+to word. The criterion here, the thing as it stands, reads best as the
+thing as it stands *and is checked*. The definition stands; the
+distinction is the claim's.

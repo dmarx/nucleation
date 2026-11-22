@@ -84,3 +84,20 @@ rule moves a term, so the elaboration clause has nothing in this system to
 map to. The value restriction gives the witness a second reason to be a
 value. Whether a met ascription is a requirement is left to the owner, as
 two alternatives in [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md).
+
+## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
+<!-- inactive-ok-file: THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; filed from this reading -->
+
+Read beyond the five candidates, at the owner's request after the Freeman
+and Pfenning reading: Rondon, Kawaguchi and Jhala 2008, "Liquid Types"
+([LIT-tmplw76n](../literature.d/LIT-tmplw76n.md), [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md), [THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md), with [ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md),
+[ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md) and [CLAIM-tmpcmt21](../claims.d/CLAIM-tmpcmt21.md); pull request "Read Rondon, Kawaguchi and
+Jhala 2008"). The descriptor as a refinement inhabited holds in the
+predicate form, narrowed: inferable descriptors are conjunctions from a
+finite qualifier set, checking is conservative, and no evidence is
+carried. Inference is informative update, the strongest conjunction the
+qualifiers and the check allow; checking moves nothing, and a failure may
+lie in the program, the qualifiers or the checker. A reading the lead
+might add: Flanagan 2006, "Hybrid Type Checking", which inserts the
+run-time checks this paper proposes, the nearest case of the elaboration
+[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) names. Offered, not added to the list here.
