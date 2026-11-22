@@ -135,3 +135,36 @@ correspondences.
 Neither reaches this claim's `defeated_if` (b), which asks for a
 correspondence that fails on its own terms: the first holds narrowed, and
 the second was not tested by this paper. No change to the claim's status.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 ARG-tmp7pf1t ARG-tmpdq64g CLAIM-tmpvq4ru — Proposed or Rejected; filed from the reading for LEAD-tmp3xevc -->
+
+Davies and Pfenning 2000 ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md), corroborates; [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md);
+[LIT-tmp57uqz](../literature.d/LIT-tmp57uqz.md)), the paper that introduced bidirectional checking for
+refinement types, and so the test the Freeman and Pfenning reading left
+open for the bullet "The direction of fit is bidirectional typing".
+
+- **Checking holds a term to a type given in advance: borne out,
+  narrowed** ([ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md)). The checked type is the programmer's
+  ascription, passed down to subterms (pp. 6–8), and a term that fails it
+  is the one to change: double fails, and "We leave the simple fix to the
+  reader" (p. 10). Whether an ascription the term already meets is a
+  requirement the paper does not say; [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md) sets out the two
+  readings as alternatives for the owner.
+- **Inference reads a type off the term: narrowed.** Most synthesized
+  types are declared ones: an ascription "checks C against A and then
+  yields A as the synthesized type" (p. 6), and variables synthesize what
+  the context declares. Only constants are typed from their shape. The
+  same ascription is a requirement on its term and a description to its
+  uses.
+- **The performative case is elaboration or coercion: not borne out
+  here** ([ARG-tmpdq64g](../arguments.d/ARG-tmpdq64g.md), Rejected as a route; [CLAIM-tmpvq4ru](CLAIM-tmpvq4ru.md), a counter).
+  Ascriptions are erased, subtyping is inclusion, "We avoid coercions"
+  (p. 2), and the moves that make a failing term pass, the fix, an
+  η-expansion, a lifted definition, are the programmer's. A coercive
+  extension is called easy (p. 2), so this leaves the clause untested
+  against an elaborating system rather than refuted.
+
+Defeat condition (b) is not met: one correspondence holds narrowed, and
+the elaboration clause names a mechanism this system lacks rather than one
+that fails. No change to the claim's status.

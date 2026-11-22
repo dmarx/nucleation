@@ -164,3 +164,18 @@ witness must be a realized version. A term whose evaluation does not
 terminate can have ⊥ (soundness holds only "if e evaluates to v", p. 7);
 the record's entries are versions, so the part stands as written. No
 change.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 TERM-tmp7s2aa — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel, not evidence. Part 6's argument, that predicates the entry
+passes when added never conflict since the entry witnesses them, is the
+rule of intersection introduction, and Davies and Pfenning
+([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md); [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)) show the rule fails for anything but a
+value once there are effects (p. 3, p. 6; [TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md)). The entry here
+is a version, a value, so part 6 stands. The paper's counterexample marks
+the limit: a cell typed nat ref ∧ pos ref is correctly described by both
+types now, but a ref type also governs future writes, and the two
+descriptions conflict as requirements on what may be written (pp. 1–2).
+Predicates about an entry's future changes, rather than its present
+version, would not be witnessed by the entry. No change.

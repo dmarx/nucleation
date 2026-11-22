@@ -64,3 +64,20 @@ lies below it (p. 8): checked, and still word to world. The world-to-word
 direction appears only when a term fails and the programmer changes it,
 outside the type system. So the direction does not divide inferred from
 checked types there ([CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)). The definition stands.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 ARG-tmp7pf1t CLAIM-tmpvq4ru — Proposed; filed for LEAD-tmp3xevc -->
+
+Two cases from Davies and Pfenning's bidirectional checker
+([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md); [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)). A failing ascription is world to word
+on any reading: double fails its type, the type stands, and the term is to
+be changed by the programmer, outside the checker (p. 10; [CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md)).
+A met one (inc) is the hard case: the paper does not say whether the type
+was written before the code, so this term's criterion, that the thing as
+it stands settles the direction, and the reading that a type given in
+advance requires whether or not it is met, both fit it ([ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md), two
+alternatives). The paper adds a distinction this term does not draw: the
+same ascription is checked against its term and then relied on by the
+term's uses, so one test can be world to word toward the thing it is
+applied to and word to world toward those who read it. The definition
+stands; whether to add that distinction is the owner's call.
