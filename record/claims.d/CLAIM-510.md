@@ -115,7 +115,7 @@ call, and so is any change of status. No status changes here.
 
 **Reading A: evidence whose production and scoring do not pass through
 the estimate, as [CLAIM-342](CLAIM-342.md) states it; a construction suffices, since the
-claim says "can".** The condition looks met by CASE-tmp33vf4, once [#740](https://github.com/dmarx/nucleation/issues/740)
+claim says "can".** The condition looks met by [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md), once [#740](https://github.com/dmarx/nucleation/issues/740)
 merges. Its beacons come from the world through a protected channel, and
 the network's estimate is scored against true positions no arm sees.
 Against it: the beacons feed the revision rather than being held out, so
@@ -134,7 +134,7 @@ Skimmed.
 
 **Reading C: the checking evidence presupposes no correspondence at
 all.** No candidate meets it. The beacons' own channel map is trusted in
-CASE-tmp33vf4, and in [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md) each channel has calibrated delays,
+[CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md), and in [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md) each channel has calibrated delays,
 and all three share the clocks and one geodetic redshift correction. This
 reading asks more than the claim's defeater does: the defeater is met by a
 check that "presupposes the correspondence it checks", and none of these
@@ -144,7 +144,7 @@ rests on another trusted correspondence) would be an argument towards the
 defeater, not a missing case.
 
 **The assistant's lean**: reading B, met by [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md), with
-CASE-tmp33vf4 as the construction that shows what the independence
+[CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) as the construction that shows what the independence
 consists in (a channel the estimate can neither rewrite nor refuse). On
 that lean the condition the 2026-10-30 note set, "One such case would
 promote it", looks met. Promotion is the owner's call. The wording is the
