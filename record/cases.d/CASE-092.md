@@ -154,4 +154,4 @@ unchanged.
 
 ## Note of 2026-11-22: built
 
-The model is built and run as CASE-tmpz4n6b, for LEAD-090, under three stated readings of what this case leaves open: scoring by agreement weighted by the current meaning, conferral as a moving average, and framing linear in the meaning with exploration. Its threshold is gσ² > 2(1 − φ(1 − ε)), with the conferral timescale out of it (CLAIM-tmp6f8w8). Its reduced form is placed among known models in CLAIM-tmpw3bak. The design is unchanged.
+The model is built and run as [CASE-tmpz4n6b](CASE-tmpz4n6b.md), for [LEAD-090](../leads.d/LEAD-090.md), under three stated readings of what this case leaves open: scoring by agreement weighted by the current meaning, conferral as a moving average, and framing linear in the meaning with exploration. Its threshold is gσ² > 2(1 − φ(1 − ε)), with the conferral timescale out of it ([CLAIM-tmp6f8w8](../claims.d/CLAIM-tmp6f8w8.md)). Its reduced form is placed among known models in [CLAIM-tmpw3bak](../claims.d/CLAIM-tmpw3bak.md). The design is unchanged.

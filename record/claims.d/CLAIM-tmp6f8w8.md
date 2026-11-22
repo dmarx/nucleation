@@ -29,9 +29,9 @@ grounds:
 bears_on:
 - QUESTION-100
 summary: >-
-  CASE-tmpz4n6b builds CASE-092's model and reduces it to its mean field.
-  Its linearization is CASE-099's J with α = 1 − ρ(1 − φ′), β = ρσ,
-  γ = (1 − δ)gσ/2 and δ (φ′ = φ(1 − ε)), so CLAIM-330's condition becomes
+  [CASE-tmpz4n6b](../cases.d/CASE-tmpz4n6b.md) builds [CASE-092](../cases.d/CASE-092.md)'s model and reduces it to its mean field.
+  Its linearization is [CASE-099](../cases.d/CASE-099.md)'s J with α = 1 − ρ(1 − φ′), β = ρσ,
+  γ = (1 − δ)gσ/2 and δ (φ′ = φ(1 − ε)), so [CLAIM-330](CLAIM-330.md)'s condition becomes
   gσ² > 2(1 − φ′), with the meaning rate ρ and the memory δ cancelled. The
   fixed points solve the Curie–Weiss equation a = tanh(Ja + h),
   J = gσ²/(2(1 − φ′)), so they too are independent of ρ and δ. Under a
@@ -45,7 +45,7 @@ summary: >-
 
 ## The claim
 
-CLAIM-330 holds the threshold for CASE-099's abstract J. QUESTION-100 leaves open "whether CASE-092's full model has that linearization". Built as CASE-tmpz4n6b reads it, it does, with all four entries nonnegative and α, δ < 1 whenever φ′ < 1 and δ < 1, and the entries are
+[CLAIM-330](CLAIM-330.md) holds the threshold for [CASE-099](../cases.d/CASE-099.md)'s abstract J. [QUESTION-100](../questions.d/QUESTION-100.md) leaves open "whether [CASE-092](../cases.d/CASE-092.md)'s full model has that linearization". Built as [CASE-tmpz4n6b](../cases.d/CASE-tmpz4n6b.md) reads it, it does, with all four entries nonnegative and α, δ < 1 whenever φ′ < 1 and δ < 1, and the entries are
 
 - α = 1 − ρ(1 − φ′), the persistence of meaning, raised by queries framed by the dominant interpretation;
 - β = ρσ, authority's pull on meaning through the specialists' retrievals;
@@ -54,10 +54,10 @@ CLAIM-330 holds the threshold for CASE-099's abstract J. QUESTION-100 leaves ope
 
 Then βγ > (1 − α)(1 − δ) reduces to gσ² > 2(1 − φ′). Both the meaning rate and the memory cancel, because each scales both sides. They set λ+ and so the time to capture, and nothing else: the fixed points solve a = tanh(Ja + h) with J = gσ²/(2(1 − φ′)) and h = gσb/(2(1 − φ′)), the mean-field Ising equation, in which neither appears. On 1,916 random parameter sets the nonlinear map left symmetry exactly when the condition held.
 
-So in this model what decides capture is the gain of conferral on agreement (g), the specialists' difference (σ, entering twice, once in each arrow) and self-confirming framing (φ′); the conferral timescale, one of CASE-092's controls, does not. LEAD-081's build found the same cancellation and fitted it roughly (CASE-tmpgustv); here it is exact.
+So in this model what decides capture is the gain of conferral on agreement (g), the specialists' difference (σ, entering twice, once in each arrow) and self-confirming framing (φ′); the conferral timescale, one of [CASE-092](../cases.d/CASE-092.md)'s controls, does not. [LEAD-081](../leads.d/LEAD-081.md)'s build found the same cancellation and fitted it roughly ([CASE-tmpgustv](../cases.d/CASE-tmpgustv.md)); here it is exact.
 
 ## What it does not say
 
-- That it holds for other conferral rules. Under a multiplicative update authority is neutral alone (δ_eff = 1), so any positive loop destabilizes; under the argmax score there is no linearization. Both are in CASE-tmpz4n6b.
+- That it holds for other conferral rules. Under a multiplicative update authority is neutral alone (δ_eff = 1), so any positive loop destabilizes; under the argmax score there is no linearization. Both are in [CASE-tmpz4n6b](../cases.d/CASE-tmpz4n6b.md).
 - That memory is idle. It sets the speed of capture and, with noise, how long a run stays near symmetry.
-- That the model is new. CLAIM-tmpw3bak places it among known models.
+- That the model is new. [CLAIM-tmpw3bak](CLAIM-tmpw3bak.md) places it among known models.
