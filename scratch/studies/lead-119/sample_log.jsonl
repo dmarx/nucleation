@@ -1,0 +1,57 @@
+{"url": "https://web.archive.org/web/20201101133510/https://keepthescore.co/blog/posts/deleting_the_production_database/", "http": "000", "file": "08d1a980f931.html", "result": "excluded: http 000"}
+{"url": "https://web.archive.org/web/20211029020126/https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/", "http": "000", "file": "d4bad48cc088.html", "result": "excluded: http 000"}
+{"url": "https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/", "http": "200", "file": "2a54fbdfe28c.html", "words": 3835, "result": "fetched"}
+{"url": "https://status.cloud.google.com/incidents/eo76pxZiDgWVz4z3kmUv", "http": "200", "file": "18f11a27f7d0.html", "words": 1222, "result": "fetched"}
+{"url": "https://www.twilio.com/blog/2013/07/billing-incident-post-mortem-breakdown-analysis-and-root-cause.html", "http": "200", "file": "ad5f41e256d5.html", "words": 4400, "result": "fetched"}
+{"url": "https://web.archive.org/web/20180121023549/http://circleci.com/blog/mongohq-security-incident-response/", "http": "000", "file": "dc5c560a39fd.html", "result": "excluded: http 000"}
+{"url": "https://www.chef.io/blog/2014/07/10/supermarket-intermittent-unresponsiveness-postmortem/", "http": "200", "file": "e5734c703324.html", "words": 1290, "result": "fetched"}
+{"url": "https://incident.io/blog/one-two-skip-a-few", "http": "200", "file": "91002963aaaf.html", "words": 1995, "result": "fetched"}
+{"url": "https://web.archive.org/web/20151008061104/http://code.google.com/p/chromium/issues/detail?id=165171", "http": "000", "file": "cec4150b8f09.html", "result": "excluded: http 000"}
+{"url": "https://www.honeycomb.io/blog/incident-review-designed-failing/", "http": "200", "file": "f09dc0d01a58.html", "words": 2392, "result": "fetched"}
+{"url": "https://github.com/blog/2106-january-28th-incident-report", "http": "403", "file": "3c0184509323.html", "result": "excluded: http 403"}
+{"url": "https://incident.io/blog/database-performance", "http": "200", "file": "1eb8c18a5fd4.html", "words": 2430, "result": "fetched"}
+{"url": "https://web.archive.org/web/20221029203405/https://www.reddit.com/r/announcements/comments/4y0m56/why_reddit_was_down_on_aug_11/", "http": "000", "file": "98961f5cb18b.html", "result": "excluded: http 000"}
+{"url": "https://status.discordapp.com/incidents/dj3l6lw926kl", "http": "200", "file": "2c6afa7e71aa.html", "words": 2195, "result": "fetched"}
+{"url": "https://circleci.statuspage.io/incidents/hr0mm9xmm3x6", "http": "200", "file": "9711760bf13b.html", "words": 2667, "result": "fetched"}
+{"url": "https://www.doneyles.com/LM/Tales.html", "http": "200", "file": "6abeacc413e7.html", "words": 9833, "result": "fetched"}
+{"url": "https://web.archive.org/web/20230727225235/https://www.reddit.com/r/RedditEng/comments/11xx5o0/you_broke_reddit_the_piday_outage/", "http": "000", "file": "feb5b44ad610.html", "result": "excluded: http 000"}
+{"url": "https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/", "http": "200", "file": "87ae18b0251f.html", "words": 4880, "result": "fetched"}
+{"url": "https://status.duo.com/incidents/4w07bmvnt359", "http": "200", "file": "76a547a4c859.html", "words": 1613, "result": "fetched"}
+{"url": "https://github.blog/news-insights/the-library/network-problems-last-friday/", "http": "200", "file": "2051f9dee48f.html", "words": 3399, "result": "fetched"}
+{"url": "https://blog.turso.tech/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7", "http": "200", "file": "015b678d64c2.html", "words": 912, "result": "fetched"}
+{"url": "https://circleci.com/blog/jan-4-2023-incident-report/", "http": "200", "file": "626889e7b8fd.html", "words": 2534, "result": "fetched"}
+{"url": "https://engineering.strava.com/the-upload-outage-of-july-29-2014/", "http": "404", "file": "5b9311750129.html", "result": "excluded: http 404"}
+{"url": "https://web.archive.org/web/20230504222953/https://www.bungie.net/en/News/Article/48723", "http": "000", "file": "880ab9ae72ad.html", "result": "excluded: http 000"}
+{"url": "https://githubengineering.com/ddos-incident-report/", "http": "200", "file": "359784b132c3.html", "words": 9, "result": "excluded: under 300 words"}
+{"url": "https://aws.amazon.com/message/061323/", "http": "200", "file": "490f0293697f.html", "words": 2833, "result": "fetched"}
+{"url": "https://web.archive.org/web/20220427012208/https://lkml.org/lkml/2009/1/2/373", "http": "000", "file": "ff0d2c49a26e.html", "result": "excluded: http 000"}
+{"url": "https://web.archive.org/web/20251230063242/https://blog.skyliner.io/post-mortem-outages-on-1-19-17-and-1-23-17-3f65cc6f693e", "http": "000", "file": "0d44f5fcc4a9.html", "result": "excluded: http 000"}
+{"url": "https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes", "http": "200", "file": "b282680d90b2.html", "words": 973, "result": "fetched"}
+{"url": "https://web.archive.org/web/20220430011642/https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-at-3-4m-ccu", "http": "000", "file": "8628022deb80.html", "result": "excluded: http 000"}
+{"url": "https://web.archive.org/web/20240426015133/https://openai.com/blog/march-20-chatgpt-outage", "http": "000", "file": "389b2ea8edb3.html", "result": "excluded: http 000"}
+{"url": "https://web.archive.org/web/20201020103424/https://stackstatus.net/post/96025967369/outage-post-mortem-august-25th-2014", "http": "000", "file": "ff5ccc2ae249.html", "result": "excluded: http 000"}
+{"url": "https://github.blog/news-insights/the-library/dns-outage-post-mortem/", "http": "200", "file": "f780e1d1948d.html", "words": 3013, "result": "fetched"}
+{"url": "https://web.archive.org/web/20210306015541/https://digital.ai/catalyst-blog/subversion-sha1-collision-problem-statement-prevention-and-remediation-options", "http": "000", "file": "50371ba63795.html", "result": "excluded: http 000"}
+{"url": "https://blog.rust-lang.org/inside-rust/2023/07/21/crates-io-postmortem.html", "http": "200", "file": "0b1d8e4fdd49.html", "words": 6, "result": "excluded: under 300 words"}
+{"url": "https://en.wikipedia.org/wiki/Mars_Climate_Orbiter", "http": "200", "file": "b6eba61c124b.html", "words": 5177, "result": "fetched"}
+{"url": "https://aws.amazon.com/message/2329B7/", "http": "200", "file": "094e9c7a7c36.html", "words": 8949, "result": "fetched"}
+{"url": "https://help.salesforce.com/s/articleView?id=000396429&type=1", "http": "200", "file": "5050ab1ce436.html", "words": 10, "result": "excluded: bot check"}
+{"url": "https://building.buildkite.com/outage-post-mortem-for-august-23rd-82b619a3679b", "http": "200", "file": "6281089d187e.html", "words": 2744, "result": "fetched"}
+{"url": "https://status.heroku.com/incidents/2451", "http": "200", "file": "051f07d6c5ea.html", "words": 3, "result": "excluded: under 300 words"}
+{"url": "https://status.heroku.com/incidents/642?postmortem", "http": "200", "file": "993e9830db81.html", "words": 3, "result": "excluded: under 300 words"}
+{"url": "https://web.archive.org/web/20160426163728/https://medium.com/medium-eng/the-curious-case-of-disappearing-polish-s-fa398313d4df", "http": "000", "file": "71da945dcbc2.html", "result": "excluded: http 000"}
+{"url": "https://community.eveonline.com/news/dev-blogs/sleeping-beauty/", "http": "200", "file": "b8e875fe142e.html", "words": 1677, "result": "fetched"}
+{"url": "https://www.okta.com/blog/2022/03/oktas-investigation-of-the-january-2022-compromise/", "http": "200", "file": "c1a736c0cb5d.html", "words": 3573, "result": "fetched"}
+{"url": "https://gist.github.com/jomo/2bae3821acb433d0446d", "http": "200", "file": "a9f4194e7568.html", "words": 716, "result": "fetched"}
+{"url": "https://status.discordapp.com/incidents/qk9cdgnqnhcn", "http": "200", "file": "2b730d15bba2.html", "words": 1891, "result": "fetched"}
+{"url": "https://regmedia.co.uk/2017/02/23/kcl_external_review.pdf", "http": "200", "file": "6b942e15a779.html", "words": 6556, "result": "fetched"}
+{"url": "https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/", "http": "200", "file": "873d4e30d3cc.html", "words": 5426, "result": "fetched"}
+{"url": "https://status.cloud.google.com/incident/compute/16007", "http": "200", "file": "9f35d7cef8b6.html", "words": 3599, "result": "fetched"}
+{"url": "https://engineering.heroku.com/blogs/2017-02-15-filesystem-corruption-on-heroku-dynos/", "http": "200", "file": "bbd1b8a9caef.html", "words": 1928, "result": "fetched"}
+{"url": "https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/", "http": "200", "file": "c2bf0b6e975a.html", "words": 1662, "result": "fetched"}
+{"url": "https://www.doneyles.com/LM/Tales.html", "result": "excluded at coding: rule 2, an engineer's conference paper, not the organization's account"}
+{"url": "https://en.wikipedia.org/wiki/Mars_Climate_Orbiter", "result": "excluded at coding: rule 2, an encyclopedia article"}
+{"url": "https://regmedia.co.uk/2017/02/23/kcl_external_review.pdf", "result": "excluded at coding: rule 2, an external review commissioned by the organization (a third arm, not coded in the pilot)"}
+{"url": "https://blog.github.com/2018-10-30-oct21-post-incident-analysis/", "http": "200", "file": "a25aa4cfb94f.html", "words": 4384, "result": "fetched"}
+{"url": "https://status.cloud.google.com/incidents/X8SNkK2BPyCrc1sveeiu", "http": "200", "file": "227540d9edb7.html", "words": 1020, "result": "fetched"}
+{"url": "https://github.blog/news-insights/company-news/github-availability-report-august-2024/", "http": "200", "file": "d5a17a97b4e6.html", "words": 1896, "result": "fetched"}
