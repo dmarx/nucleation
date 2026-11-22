@@ -8,6 +8,7 @@ claude/readings-sweep (PR #649) are not cited.
 ## Filed
 - LIT-1947: NOTE-tmpdytsl, THEORY-tmpxzn3p, LIT to Active (v2), licence CC BY 4.0, moratorium until 2050.
 - LIT-1947 dated notes: QUESTION-368, TERM-083, THEORY-554, THEORY-677, LIT-1943, NOTE-1499, THEORY-1299, NOTE-093, LIT-465, LIT-1941, LIT-1944, CLAIM-355, THEORY-699.
+- LIT-1996: NOTE-tmp3k6if, THEORY-tmp0vgh7, LIT to Active (v3); "too few studies" corrected by dated note (filed 2026-11-02).
 
 ## Next
-- LIT-1996, LIT-2175, LIT-tmpa7f10; curation; changelog.
+- LIT-1996 dated notes; LIT-2175, LIT-tmpa7f10; curation; changelog.
