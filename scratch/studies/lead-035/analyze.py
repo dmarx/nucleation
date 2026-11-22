@@ -72,6 +72,16 @@ def summarize(row):
         # max over the late window, as in Han et al.'s Figure 2 reading
         out["perp_share_max_late"] = max((r["L"] - r["L_LS"]) / r["L_LS"]
                                          for r in w)
+        # over the run while L_LS is still above 1e-4, which is where
+        # Han et al.'s Figure 2 reads the share
+        # after the first transient (t >= 5)
+        early = [(r["L"] - r["L_LS"]) / r["L_LS"] for r in traj
+                 if r["t"] >= 5 and r["L_LS"] > 1e-4]
+        out["perp_share_max_while_LLS_gt_1e-4"] = max(early) if early else None
+        out["omega_slope_last_two_marks"] = [
+            float(np.log(traj[-1]["omega"][j] / traj[-2]["omega"][j])
+                  / np.log(traj[-1]["t"] / traj[-2]["t"]))
+            for j in range(len(end["omega"]))]
     if "acc" in end:
         out["acc_end"] = end["acc"]
     if row["model"].startswith("ufm-renorm"):
