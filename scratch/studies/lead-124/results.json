@@ -1,0 +1,832 @@
+{
+ "main": {
+  "Accuracy": {
+   "k": 824,
+   "clusters": 725,
+   "intercept": -0.248240887278451,
+   "slope": -0.07627860959664806,
+   "slope_se_robust": 0.011839345816142769,
+   "tau2": 0.41349437285500357
+  },
+  "Speed": {
+   "k": 266,
+   "clusters": 246,
+   "intercept": -0.13148931060153607,
+   "slope": -0.06294007792008166,
+   "slope_se_robust": 0.02177516647984697,
+   "tau2": 0.3501358202129777
+  },
+  "Mixed": {
+   "k": 178,
+   "clusters": 154,
+   "intercept": -0.586763056147153,
+   "slope": -0.061464683258283075,
+   "slope_se_robust": 0.01877374491762773,
+   "tau2": 0.445838550068026
+  }
+ },
+ "task_domain": {
+  "Accuracy": {
+   "tau2": 0.3766561267982312,
+   "k": 824,
+   "clusters": 725,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 274,
+     "k_over_6_months": 9,
+     "max_months": 14.0,
+     "intercept": -0.12492154737042958,
+     "slope": -0.16385591921929613,
+     "slope_se_robust": 0.024162790085019918,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 249,
+     "k_over_6_months": 27,
+     "max_months": 22.0,
+     "intercept": -0.522144834553671,
+     "slope": -0.042583233763309664,
+     "slope_se_robust": 0.012334932620170061,
+     "interaction_vs_ref": 0.12127268545598646
+    },
+    "Military and non-military transportation": {
+     "k": 66,
+     "k_over_6_months": 3,
+     "max_months": 12.0,
+     "intercept": -0.21721195411995498,
+     "slope": -0.00875925463451982,
+     "slope_se_robust": 0.023668343456050227,
+     "interaction_vs_ref": 0.1550966645847763
+    },
+    "Miscellaneous": {
+     "k": 27,
+     "k_over_6_months": 3,
+     "max_months": 18.25,
+     "intercept": -0.05832702795720235,
+     "slope": -0.03154118719752558,
+     "slope_se_robust": 0.01254995093701383,
+     "interaction_vs_ref": 0.13231473202177055
+    },
+    "Sports": {
+     "k": 208,
+     "k_over_6_months": 2,
+     "max_months": 12.0,
+     "intercept": -0.24065893153594164,
+     "slope": 0.01454650562311699,
+     "slope_se_robust": 0.02090393975629658,
+     "interaction_vs_ref": 0.17840242484241312
+    }
+   }
+  },
+  "Speed": {
+   "tau2": 0.3311649328445661,
+   "k": 266,
+   "clusters": 246,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 82,
+     "k_over_6_months": 4,
+     "max_months": 8.1,
+     "intercept": 0.059436231841443844,
+     "slope": -0.11012111859770682,
+     "slope_se_robust": 0.06463862786268083,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 107,
+     "k_over_6_months": 5,
+     "max_months": 15.0,
+     "intercept": -0.3292468098210966,
+     "slope": -0.029002098595196937,
+     "slope_se_robust": 0.025153745003603525,
+     "interaction_vs_ref": 0.08111902000250988
+    },
+    "Military and non-military transportation": {
+     "k": 22,
+     "k_over_6_months": 0,
+     "max_months": 6.0,
+     "intercept": -0.0077128827796259306,
+     "slope": -0.14351976205523895,
+     "slope_se_robust": 0.07689775669531833,
+     "interaction_vs_ref": -0.03339864345753212
+    },
+    "Miscellaneous": {
+     "k": 46,
+     "k_over_6_months": 0,
+     "max_months": 3.0,
+     "intercept": -0.30978000713606246,
+     "slope": 0.308601530698445,
+     "slope_se_robust": 0.0772246983698538,
+     "interaction_vs_ref": 0.41872264929615177
+    },
+    "Sports": {
+     "k": 9,
+     "k_over_6_months": 0,
+     "max_months": 0.466666666666667,
+     "intercept": 0.7271816816462202,
+     "slope": -2.160460559182733,
+     "slope_se_robust": 0.7525975497080356,
+     "interaction_vs_ref": -2.0503394405850264
+    }
+   }
+  },
+  "Mixed": {
+   "error": "Singular matrix"
+  }
+ },
+ "task_realism": {
+  "Accuracy": {
+   "tau2": 0.3927998596170327,
+   "k": 824,
+   "clusters": 725,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 274,
+     "k_over_6_months": 9,
+     "max_months": 14.0,
+     "intercept": -0.12583683735275136,
+     "slope": -0.16375112995417543,
+     "slope_se_robust": 0.024117932788753748,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 550,
+     "k_over_6_months": 35,
+     "max_months": 22.0,
+     "intercept": -0.32051167758818017,
+     "slope": -0.05415734315895944,
+     "slope_se_robust": 0.009825252146891785,
+     "interaction_vs_ref": 0.10959378679521599
+    }
+   }
+  },
+  "Speed": {
+   "tau2": 0.3399459333268745,
+   "k": 266,
+   "clusters": 246,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 82,
+     "k_over_6_months": 4,
+     "max_months": 8.1,
+     "intercept": 0.05978604237898181,
+     "slope": -0.11037727154145252,
+     "slope_se_robust": 0.06385717575263909,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 184,
+     "k_over_6_months": 5,
+     "max_months": 15.0,
+     "intercept": -0.2504510049881082,
+     "slope": -0.03653078342825486,
+     "slope_se_robust": 0.0228639878076928,
+     "interaction_vs_ref": 0.07384648811319766
+    }
+   }
+  },
+  "Mixed": {
+   "tau2": 0.38881763659349733,
+   "k": 178,
+   "clusters": 154,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 22,
+     "k_over_6_months": 0,
+     "max_months": 0.933333333333333,
+     "intercept": 0.10952022922747268,
+     "slope": -0.3016199620562255,
+     "slope_se_robust": 0.14434244025907073,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 156,
+     "k_over_6_months": 27,
+     "max_months": 24.0,
+     "intercept": -0.7374606069448415,
+     "slope": -0.04512505506395453,
+     "slope_se_robust": 0.019843529920164565,
+     "interaction_vs_ref": 0.25649490699227095
+    }
+   }
+  }
+ },
+ "capped": {
+  "Accuracy|task_realism|<= 1 months": {
+   "tau2": 0.2636194100779373,
+   "k": 587,
+   "clusters": 550,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 244,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": 0.02197893779062544,
+     "slope": -0.9738695630884349,
+     "slope_se_robust": 0.36025610042571293,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 343,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": -0.191153557866183,
+     "slope": -0.2676679570759797,
+     "slope_se_robust": 0.10482846300461723,
+     "interaction_vs_ref": 0.7062016060124552
+    }
+   }
+  },
+  "Accuracy|task_domain|<= 1 months": {
+   "tau2": 0.2593432987294175,
+   "k": 587,
+   "clusters": 550,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 244,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": 0.02190447956086094,
+     "slope": -0.971838744551161,
+     "slope_se_robust": 0.3616567950099726,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 96,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": -0.3248420837891388,
+     "slope": -0.13596540690921222,
+     "slope_se_robust": 0.17958851754911678,
+     "interaction_vs_ref": 0.8358733376419488
+    },
+    "Military and non-military transportation": {
+     "k": 28,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": 0.11074578983446431,
+     "slope": -0.8339673691849088,
+     "slope_se_robust": 0.2974633240732513,
+     "interaction_vs_ref": 0.13787137536625227
+    },
+    "Miscellaneous": {
+     "k": 22,
+     "k_over_6_months": 0,
+     "max_months": 0.233333333333333,
+     "intercept": 0.5214984651406558,
+     "slope": -2.7907444364668006,
+     "slope_se_robust": 1.5124606463458194,
+     "interaction_vs_ref": -1.8189056919156394
+    },
+    "Sports": {
+     "k": 197,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": -0.24892304297120332,
+     "slope": 0.06552897206472441,
+     "slope_se_robust": 0.2557255663473398,
+     "interaction_vs_ref": 1.0373677166158854
+    }
+   }
+  },
+  "Accuracy|task_realism|<= 3 months": {
+   "tau2": 0.354755446437023,
+   "k": 728,
+   "clusters": 649,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 265,
+     "k_over_6_months": 0,
+     "max_months": 2.8,
+     "intercept": -0.03522268245847572,
+     "slope": -0.539732582618174,
+     "slope_se_robust": 0.15941716975791223,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 463,
+     "k_over_6_months": 0,
+     "max_months": 3.0,
+     "intercept": -0.23416685115523328,
+     "slope": -0.14018098380423727,
+     "slope_se_robust": 0.039442281220591804,
+     "interaction_vs_ref": 0.39955159881393676
+    }
+   }
+  },
+  "Accuracy|task_domain|<= 3 months": {
+   "tau2": 0.34988836320416394,
+   "k": 728,
+   "clusters": 649,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 265,
+     "k_over_6_months": 0,
+     "max_months": 2.8,
+     "intercept": -0.03509308672574486,
+     "slope": -0.5392413130961299,
+     "slope_se_robust": 0.15990393339192885,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 174,
+     "k_over_6_months": 0,
+     "max_months": 3.0,
+     "intercept": -0.3635341010325051,
+     "slope": -0.13530371940915958,
+     "slope_se_robust": 0.056317206423175815,
+     "interaction_vs_ref": 0.4039375936869703
+    },
+    "Military and non-military transportation": {
+     "k": 61,
+     "k_over_6_months": 0,
+     "max_months": 2.8,
+     "intercept": -0.18775764633505115,
+     "slope": -0.025236673120427433,
+     "slope_se_robust": 0.06449770418112409,
+     "interaction_vs_ref": 0.5140046399757024
+    },
+    "Miscellaneous": {
+     "k": 24,
+     "k_over_6_months": 0,
+     "max_months": 1.86666666666667,
+     "intercept": 0.0402446987556965,
+     "slope": -0.3349364301841962,
+     "slope_se_robust": 0.2818546915073551,
+     "interaction_vs_ref": 0.20430488291193366
+    },
+    "Sports": {
+     "k": 204,
+     "k_over_6_months": 0,
+     "max_months": 1.4,
+     "intercept": -0.24499309591698915,
+     "slope": 0.03753902363584838,
+     "slope_se_robust": 0.12004679967842036,
+     "interaction_vs_ref": 0.5767803367319783
+    }
+   }
+  },
+  "Accuracy|task_realism|<= 6 months": {
+   "tau2": 0.361326508843355,
+   "k": 780,
+   "clusters": 694,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 265,
+     "k_over_6_months": 0,
+     "max_months": 2.8,
+     "intercept": -0.03539489029261654,
+     "slope": -0.540395506337972,
+     "slope_se_robust": 0.15973197148845772,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 515,
+     "k_over_6_months": 0,
+     "max_months": 6.0,
+     "intercept": -0.23507209783644784,
+     "slope": -0.13385769027386757,
+     "slope_se_robust": 0.019365702883907248,
+     "interaction_vs_ref": 0.4065378160641044
+    }
+   }
+  },
+  "Accuracy|task_domain|<= 6 months": {
+   "tau2": 0.35522606963471215,
+   "k": 780,
+   "clusters": 694,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 265,
+     "k_over_6_months": 0,
+     "max_months": 2.8,
+     "intercept": -0.0352351208418909,
+     "slope": -0.5397800775778944,
+     "slope_se_robust": 0.16010769969986355,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 222,
+     "k_over_6_months": 0,
+     "max_months": 6.0,
+     "intercept": -0.3746555351910038,
+     "slope": -0.11757710238266306,
+     "slope_se_robust": 0.0253559252705329,
+     "interaction_vs_ref": 0.4222029751952313
+    },
+    "Military and non-military transportation": {
+     "k": 63,
+     "k_over_6_months": 0,
+     "max_months": 6.0,
+     "intercept": -0.17569861848947857,
+     "slope": -0.03595279396966711,
+     "slope_se_robust": 0.04152279727347511,
+     "interaction_vs_ref": 0.5038272836082273
+    },
+    "Miscellaneous": {
+     "k": 24,
+     "k_over_6_months": 0,
+     "max_months": 1.86666666666667,
+     "intercept": 0.0401075592917752,
+     "slope": -0.3348703260801883,
+     "slope_se_robust": 0.28169159130279153,
+     "interaction_vs_ref": 0.20490975149770604
+    },
+    "Sports": {
+     "k": 206,
+     "k_over_6_months": 0,
+     "max_months": 3.96666666666667,
+     "intercept": -0.24224796064019166,
+     "slope": 0.02150748365210864,
+     "slope_se_robust": 0.035932337635368884,
+     "interaction_vs_ref": 0.561287561230003
+    }
+   }
+  },
+  "Accuracy|task_realism|<= 14 months": {
+   "tau2": 0.39506959426733385,
+   "k": 816,
+   "clusters": 722,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 274,
+     "k_over_6_months": 9,
+     "max_months": 14.0,
+     "intercept": -0.12596365509873228,
+     "slope": -0.16373716616741693,
+     "slope_se_robust": 0.024125808270224543,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 542,
+     "k_over_6_months": 27,
+     "max_months": 14.0,
+     "intercept": -0.3046007507417894,
+     "slope": -0.06665799421284968,
+     "slope_se_robust": 0.01322752933978653,
+     "interaction_vs_ref": 0.09707917195456725
+    }
+   }
+  },
+  "Accuracy|task_domain|<= 14 months": {
+   "tau2": 0.3796111710668305,
+   "k": 816,
+   "clusters": 722,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 274,
+     "k_over_6_months": 9,
+     "max_months": 14.0,
+     "intercept": -0.12509083697620796,
+     "slope": -0.16383599666863477,
+     "slope_se_robust": 0.024174017953615578,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 243,
+     "k_over_6_months": 21,
+     "max_months": 14.0,
+     "intercept": -0.49311386966179815,
+     "slope": -0.055539612177563036,
+     "slope_se_robust": 0.01661937853552817,
+     "interaction_vs_ref": 0.10829638449107173
+    },
+    "Military and non-military transportation": {
+     "k": 66,
+     "k_over_6_months": 3,
+     "max_months": 12.0,
+     "intercept": -0.21723055512584705,
+     "slope": -0.008737521280270333,
+     "slope_se_robust": 0.02366980644074223,
+     "interaction_vs_ref": 0.15509847538836444
+    },
+    "Miscellaneous": {
+     "k": 25,
+     "k_over_6_months": 1,
+     "max_months": 11.0,
+     "intercept": -0.06487335780588929,
+     "slope": -0.016251929595331782,
+     "slope_se_robust": 0.023277609109247564,
+     "interaction_vs_ref": 0.147584067073303
+    },
+    "Sports": {
+     "k": 208,
+     "k_over_6_months": 2,
+     "max_months": 12.0,
+     "intercept": -0.2406442244876716,
+     "slope": 0.01454701276126985,
+     "slope_se_robust": 0.020906308157459398,
+     "interaction_vs_ref": 0.17838300942990462
+    }
+   }
+  },
+  "Speed|task_realism|<= 1 months": {
+   "tau2": 0.2517349848810863,
+   "k": 198,
+   "clusters": 192,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 76,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": 0.15934409731120341,
+     "slope": -0.7071963450659527,
+     "slope_se_robust": 0.14007719928890022,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 122,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": -0.1318911298662125,
+     "slope": -0.3314978881979002,
+     "slope_se_robust": 0.19047110887247523,
+     "interaction_vs_ref": 0.37569845686805253
+    }
+   }
+  },
+  "Speed|task_domain|<= 1 months": {
+   "tau2": 0.23764044578904145,
+   "k": 198,
+   "clusters": 192,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 76,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": 0.15859462705499602,
+     "slope": -0.7062146506065581,
+     "slope_se_robust": 0.14181328652340588,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 64,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": -0.31982878194497155,
+     "slope": 0.012921957027530628,
+     "slope_se_robust": 0.2178733917246971,
+     "interaction_vs_ref": 0.7191366076340887
+    },
+    "Military and non-military transportation": {
+     "k": 8,
+     "k_over_6_months": 0,
+     "max_months": 1.0,
+     "intercept": 0.49762481886166043,
+     "slope": -2.1576125133352115,
+     "slope_se_robust": 0.2917795889243293,
+     "interaction_vs_ref": -1.4513978627286535
+    },
+    "Miscellaneous": {
+     "k": 41,
+     "k_over_6_months": 0,
+     "max_months": 0.6,
+     "intercept": -0.12270500086822253,
+     "slope": -0.37848346081458456,
+     "slope_se_robust": 0.7172364867177881,
+     "interaction_vs_ref": 0.3277311897919735
+    },
+    "Sports": {
+     "k": 9,
+     "k_over_6_months": 0,
+     "max_months": 0.466666666666667,
+     "intercept": 0.7248211946319342,
+     "slope": -2.1503441862643577,
+     "slope_se_robust": 0.753101311486674,
+     "interaction_vs_ref": -1.4441295356577997
+    }
+   }
+  },
+  "Speed|task_realism|<= 3 months": {
+   "tau2": 0.26109674621233314,
+   "k": 236,
+   "clusters": 221,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 78,
+     "k_over_6_months": 0,
+     "max_months": 1.93333333333333,
+     "intercept": 0.13228954142976584,
+     "slope": -0.5023250111131067,
+     "slope_se_robust": 0.14162714457492037,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 158,
+     "k_over_6_months": 0,
+     "max_months": 3.0,
+     "intercept": -0.2886981009861834,
+     "slope": 0.025982027322887014,
+     "slope_se_robust": 0.06051906298247325,
+     "interaction_vs_ref": 0.5283070384359937
+    }
+   }
+  },
+  "Speed|task_domain|<= 3 months": {
+   "tau2": 0.24796815635625202,
+   "k": 236,
+   "clusters": 221,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 78,
+     "k_over_6_months": 0,
+     "max_months": 1.93333333333333,
+     "intercept": 0.13171505621508947,
+     "slope": -0.5023663020986989,
+     "slope_se_robust": 0.1434188101561518,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 86,
+     "k_over_6_months": 0,
+     "max_months": 3.0,
+     "intercept": -0.35574434825245704,
+     "slope": 0.004512572611619636,
+     "slope_se_robust": 0.08441207203573514,
+     "interaction_vs_ref": 0.5068788747103186
+    },
+    "Military and non-military transportation": {
+     "k": 17,
+     "k_over_6_months": 0,
+     "max_months": 2.86666666666667,
+     "intercept": 0.10738943575100028,
+     "slope": -0.25143496563241535,
+     "slope_se_robust": 0.13658256182498693,
+     "interaction_vs_ref": 0.25093133646628357
+    },
+    "Miscellaneous": {
+     "k": 46,
+     "k_over_6_months": 0,
+     "max_months": 3.0,
+     "intercept": -0.3053237912152591,
+     "slope": 0.30503343214975154,
+     "slope_se_robust": 0.07648850853201408,
+     "interaction_vs_ref": 0.8073997342484505
+    },
+    "Sports": {
+     "k": 9,
+     "k_over_6_months": 0,
+     "max_months": 0.466666666666667,
+     "intercept": 0.7251310658161687,
+     "slope": -2.1516722056253563,
+     "slope_se_robust": 0.7509241390983371,
+     "interaction_vs_ref": -1.6493059035266573
+    }
+   }
+  },
+  "Speed|task_realism|<= 6 months": {
+   "tau2": 0.34077973694107117,
+   "k": 257,
+   "clusters": 240,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 78,
+     "k_over_6_months": 0,
+     "max_months": 1.93333333333333,
+     "intercept": 0.13521802847636438,
+     "slope": -0.5022694650370022,
+     "slope_se_robust": 0.1425918650040179,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 179,
+     "k_over_6_months": 0,
+     "max_months": 6.0,
+     "intercept": -0.23570461672032728,
+     "slope": -0.049895407650087154,
+     "slope_se_robust": 0.0425413753991175,
+     "interaction_vs_ref": 0.45237405738691505
+    }
+   }
+  },
+  "Speed|task_domain|<= 6 months": {
+   "tau2": 0.33175762733894665,
+   "k": 257,
+   "clusters": 240,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 78,
+     "k_over_6_months": 0,
+     "max_months": 1.93333333333333,
+     "intercept": 0.13492736533667787,
+     "slope": -0.5022638346365603,
+     "slope_se_robust": 0.14433055749897578,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 102,
+     "k_over_6_months": 0,
+     "max_months": 6.0,
+     "intercept": -0.3064155417054447,
+     "slope": -0.04656852848712023,
+     "slope_se_robust": 0.05512848989897978,
+     "interaction_vs_ref": 0.4556953061494401
+    },
+    "Military and non-military transportation": {
+     "k": 22,
+     "k_over_6_months": 0,
+     "max_months": 6.0,
+     "intercept": -0.007696141583277499,
+     "slope": -0.14354069100813055,
+     "slope_se_robust": 0.07695149361173062,
+     "interaction_vs_ref": 0.3587231436284298
+    },
+    "Miscellaneous": {
+     "k": 46,
+     "k_over_6_months": 0,
+     "max_months": 3.0,
+     "intercept": -0.30981162934686396,
+     "slope": 0.3086234657974922,
+     "slope_se_robust": 0.07727138646845716,
+     "interaction_vs_ref": 0.8108873004340525
+    },
+    "Sports": {
+     "k": 9,
+     "k_over_6_months": 0,
+     "max_months": 0.466666666666667,
+     "intercept": 0.727193957154534,
+     "slope": -2.160513168504086,
+     "slope_se_robust": 0.7530174158046433,
+     "interaction_vs_ref": -1.6582493338675257
+    }
+   }
+  },
+  "Speed|task_realism|<= 14 months": {
+   "tau2": 0.3419079694332242,
+   "k": 265,
+   "clusters": 245,
+   "levels": {
+    "Laboratory/artificial": {
+     "k": 82,
+     "k_over_6_months": 4,
+     "max_months": 8.1,
+     "intercept": 0.0598626863334005,
+     "slope": -0.11043325834842262,
+     "slope_se_robust": 0.06386472331126608,
+     "interaction_vs_ref": null
+    },
+    "Real world task": {
+     "k": 183,
+     "k_over_6_months": 4,
+     "max_months": 12.0,
+     "intercept": -0.2534002474158671,
+     "slope": -0.03417136165090065,
+     "slope_se_robust": 0.027837033804068056,
+     "interaction_vs_ref": 0.07626189669752197
+    }
+   }
+  },
+  "Speed|task_domain|<= 14 months": {
+   "tau2": 0.3330583884517648,
+   "k": 265,
+   "clusters": 245,
+   "levels": {
+    "Laboratory/Artificial": {
+     "k": 82,
+     "k_over_6_months": 4,
+     "max_months": 8.1,
+     "intercept": 0.05951261674638215,
+     "slope": -0.11017713972447425,
+     "slope_se_robust": 0.06464975882498537,
+     "interaction_vs_ref": null
+    },
+    "Medical/Dental": {
+     "k": 106,
+     "k_over_6_months": 4,
+     "max_months": 12.0,
+     "intercept": -0.3347266277946336,
+     "slope": -0.025396597559633624,
+     "slope_se_robust": 0.03174149641524004,
+     "interaction_vs_ref": 0.08478054216484063
+    },
+    "Military and non-military transportation": {
+     "k": 22,
+     "k_over_6_months": 0,
+     "max_months": 6.0,
+     "intercept": -0.007659774532066323,
+     "slope": -0.14358641049246856,
+     "slope_se_robust": 0.07694575841152725,
+     "interaction_vs_ref": -0.03340927076799431
+    },
+    "Miscellaneous": {
+     "k": 46,
+     "k_over_6_months": 0,
+     "max_months": 3.0,
+     "intercept": -0.30988100166607296,
+     "slope": 0.30867145920625516,
+     "slope_se_robust": 0.07724971274656978,
+     "interaction_vs_ref": 0.4188485989307294
+    },
+    "Sports": {
+     "k": 9,
+     "k_over_6_months": 0,
+     "max_months": 0.466666666666667,
+     "intercept": 0.7272208007196018,
+     "slope": -2.160628212354347,
+     "slope_se_robust": 0.7527293053022072,
+     "interaction_vs_ref": -2.0504510726298726
+    }
+   }
+  }
+ }
+}
