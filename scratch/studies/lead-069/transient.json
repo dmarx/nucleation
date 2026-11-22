@@ -1,0 +1,77 @@
+{
+ "seeds": 300,
+ "distinct_isolated_block_appearances": 1263,
+ "transient_blocks_all_cells_dead_never_back": 540,
+ "soups_with_one": 149,
+ "shortest_lived": {
+  "seed": 1,
+  "t": 28,
+  "corner": [
+   4,
+   9
+  ],
+  "generations_to_all_dead": 2,
+  "block_cells_live_next": [
+   4,
+   0,
+   2,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ]
+ },
+ "its_soup_6x6_at_centre_of_64x64": [
+  [
+   1,
+   1,
+   0,
+   0,
+   1,
+   1
+  ],
+  [
+   0,
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  [
+   1,
+   1,
+   0,
+   1,
+   1,
+   0
+  ],
+  [
+   1,
+   0,
+   1,
+   1,
+   1,
+   0
+  ],
+  [
+   1,
+   0,
+   1,
+   1,
+   1,
+   1
+  ],
+  [
+   1,
+   1,
+   1,
+   0,
+   1,
+   0
+  ]
+ ]
+}
