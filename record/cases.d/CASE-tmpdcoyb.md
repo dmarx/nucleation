@@ -20,7 +20,7 @@ line:
 - nucleating-argument
 - record-as-apparatus
 summary: >-
-  LEAD-199's count, as it specified. Population: the 859 claim files on
+  [LEAD-199](../leads.d/LEAD-199.md)'s count, as it specified. Population: the 859 claim files on
   staging, followed through renames and formerly: fields, over the
   record's whole history (2026-10-07 to 2026-11-22, about 46 days). A
   revision is substantive if it changes the title, role, warrant,
@@ -39,13 +39,13 @@ summary: >-
   first edge fall within a day of it, so edges and revisions come in the
   same working sessions.
 ---
-<!-- inactive-ok-file: CASE-tmpdcoyb CLAIM-778 — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
+<!-- inactive-ok-file: CLAIM-778 — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
 
 # CASE-tmpdcoyb: The record's history from 2026-10-07 to 2026-11-22, counted at matched age, shows claims with inbound rests_on or grounds edges taking substantive revisions about 1.45 times as often as claims with none, and the fall in revision rate over an entry's life tracking its age, not its edges
 
 ## What was counted
 
-LEAD-199 as specified, with the choices it left open stated (scratch/studies/lead-199/README.md lists the scripts):
+[LEAD-199](../leads.d/LEAD-199.md) as specified, with the choices it left open stated (scratch/studies/lead-199/README.md lists the scripts):
 
 - **Population.** 859 claims with a creation commit on staging; 347 have ever had an inbound edge, 138 from the commit that filed them. 810 edges were added and 79 removed; 730 are live.
 - **Substantive revision.** A change to title, role, warrant, defeated_if or the body outside `## Note of …` sections, after normalisation (link markup, inactive-ok directives, the H1, whitespace and cited codes masked; parentheses holding only citations dropped). A field going from absent to present (the warrant backfill of 289 claims) is a schema backfill, not a revision. Commits by the CI bot, and repair, regenerate, promote and concretization commits, are excluded. Status changes are counted separately.
@@ -67,6 +67,6 @@ Within claims, the substantive rate falls from 1.89 before the first edge to 1.1
 ## Validity
 
 - **Young record.** About 46 days; no claim is older than about six and a half weeks.
-- **Classifier.** Two hand-checks of 20 changes each. The final classifier was 10 of 10 correct on non-substantive changes; of 10 substantive ones, 7 were clearly substantive, 2 were vocabulary sweeps (ADR-070's "endorsement" to "conferral"), which are substantive by the letter but are convention rewrites, and 1 was borderline. Precision about 0.7 by intent, 0.9 by the letter. False positives would have to concentrate on cited claims to explain the result, and the lenient and title-only variants run the same way.
-- **Scrutiny.** 148 of the 303 revisions after a first edge fall within a day of it: edges and revisions are made in the same sessions and reviews, so an edge marks attention as well as constraint. This is the confound CLAIM-778's admission named.
+- **Classifier.** Two hand-checks of 20 changes each. The final classifier was 10 of 10 correct on non-substantive changes; of 10 substantive ones, 7 were clearly substantive, 2 were vocabulary sweeps ([ADR-070](../decisions.d/ADR-070.md)'s "endorsement" to "conferral"), which are substantive by the letter but are convention rewrites, and 1 was borderline. Precision about 0.7 by intent, 0.9 by the letter. False positives would have to concentrate on cited claims to explain the result, and the lenient and title-only variants run the same way.
+- **Scrutiny.** 148 of the 303 revisions after a first edge fall within a day of it: edges and revisions are made in the same sessions and reviews, so an edge marks attention as well as constraint. This is the confound [CLAIM-778](../claims.d/CLAIM-778.md)'s admission named.
 - **Dating.** Author dates of branch commits; content changed only in merge resolutions is missed.

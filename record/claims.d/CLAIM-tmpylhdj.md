@@ -24,29 +24,29 @@ objects_to:
 grounds:
 - CASE-tmpdcoyb
 summary: >-
-  Alternative (i). CLAIM-778's defeater (a) asks whether entries with many
+  Alternative (i). [CLAIM-778](CLAIM-778.md)'s defeater (a) asks whether entries with many
   inbound rests_on or grounds edges take substantive revisions no less
   often, after those edges arrive, than entries of the same age with none.
   In the record's own history they take them more often: about 1.45 times
   as often at matched age, with intervals above 1 under every definition
-  and sensitivity tried, and title changes rising with them (CASE-tmpdcoyb).
+  and sensitivity tried, and title changes rising with them ([CASE-tmpdcoyb](../cases.d/CASE-tmpdcoyb.md)).
   So accrued relations do not move a claim's content out of the part still
-  open to revision, and CLAIM-778's last clause, that the revisions an entry
+  open to revision, and [CLAIM-778](CLAIM-778.md)'s last clause, that the revisions an entry
   can still take narrow as relations accrue, is false as stated, as its own
   admission said such a result would show. What the count does not reach:
-  the 6+ group alone (too few events), mechanism (CLAIM-768: it cannot tell
+  the 6+ group alone (too few events), mechanism ([CLAIM-768](CLAIM-768.md): it cannot tell
   contraction from conservation), and the per-audit restatement
-  (CLAIM-tmpdsiv5). The wording is the assistant's (Claude, in this
+  ([CLAIM-tmpdsiv5](CLAIM-tmpdsiv5.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpdcoyb CLAIM-772 CLAIM-778 CLAIM-tmpdsiv5 CLAIM-tmpylhdj — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
+<!-- inactive-ok-file: CASE-tmpdcoyb CLAIM-772 CLAIM-778 CLAIM-tmpdsiv5 — Proposed, Rejected, Deferred or new; the entries this filing made or touched -->
 
-# CLAIM-tmpylhdj: Inbound rests_on and grounds edges do not move a claim's text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so CLAIM-778's defeater (a) is met and the claim is false as it stands
+# CLAIM-tmpylhdj: Inbound rests_on and grounds edges do not move a claim's text out of the part still open to revision: at matched age, cited claims are revised more often than uncited ones, so [CLAIM-778](CLAIM-778.md)'s defeater (a) is met and the claim is false as it stands
 
-**One of two readings of CASE-tmpdcoyb; the other is CLAIM-tmpdsiv5.** This is the reading that takes CLAIM-778 at its word. Its defeater (a) was stated in advance, and the count meets it: at matched age, cited claims are revised more, not less. CLAIM-778's admission foresaw the route ("If heavily cited entries draw more audits and revisions, because scrutiny follows citation, substantive revision rises with inbound edges while every premise holds") and said a result like this "shows the claim false rather than merely separate".
+**One of two readings of [CASE-tmpdcoyb](../cases.d/CASE-tmpdcoyb.md); the other is [CLAIM-tmpdsiv5](CLAIM-tmpdsiv5.md).** This is the reading that takes [CLAIM-778](CLAIM-778.md) at its word. Its defeater (a) was stated in advance, and the count meets it: at matched age, cited claims are revised more, not less. [CLAIM-778](CLAIM-778.md)'s admission foresaw the route ("If heavily cited entries draw more audits and revisions, because scrutiny follows citation, substantive revision rises with inbound edges while every premise holds") and said a result like this "shows the claim false rather than merely separate".
 
 ## What it does not say
 
-- It does not say the record's entries never settle: they do, with age (CASE-tmpdcoyb's age bins).
-- It does not say edges have no effect per audit. That is CLAIM-tmpdsiv5, which this count cannot test.
-- It does not bear on the rest of CLAIM-778, that the schema puts form in the contracting part at filing and that coding and verbatim reading put content in the conserved part; nor on CLAIM-772.
+- It does not say the record's entries never settle: they do, with age ([CASE-tmpdcoyb](../cases.d/CASE-tmpdcoyb.md)'s age bins).
+- It does not say edges have no effect per audit. That is [CLAIM-tmpdsiv5](CLAIM-tmpdsiv5.md), which this count cannot test.
+- It does not bear on the rest of [CLAIM-778](CLAIM-778.md), that the schema puts form in the contracting part at filing and that coding and verbatim reading put content in the conserved part; nor on [CLAIM-772](CLAIM-772.md).

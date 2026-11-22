@@ -71,4 +71,4 @@ sample.
 
 ## Note of 2026-11-22: run
 
-Run as specified (CASE-tmpdcoyb; scripts, data and hand-checks under scratch/studies/lead-199/). At matched age, cited claims are revised more often than uncited ones, which meets CLAIM-778's defeater (a); readings filed as CLAIM-tmpylhdj and CLAIM-tmpdsiv5. The lead stays Open for the owner to mark Done; what remains, by CLAIM-768, is LEAD-201's retention measure, and for CLAIM-tmpdsiv5 a count of audits.
+Run as specified ([CASE-tmpdcoyb](../cases.d/CASE-tmpdcoyb.md); scripts, data and hand-checks under scratch/studies/lead-199/). At matched age, cited claims are revised more often than uncited ones, which meets [CLAIM-778](../claims.d/CLAIM-778.md)'s defeater (a); readings filed as [CLAIM-tmpylhdj](../claims.d/CLAIM-tmpylhdj.md) and [CLAIM-tmpdsiv5](../claims.d/CLAIM-tmpdsiv5.md). The lead stays Open for the owner to mark Done; what remains, by [CLAIM-768](../claims.d/CLAIM-768.md), is [LEAD-201](LEAD-201.md)'s retention measure, and for [CLAIM-tmpdsiv5](../claims.d/CLAIM-tmpdsiv5.md) a count of audits.
