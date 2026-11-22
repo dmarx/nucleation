@@ -12,6 +12,7 @@ claude/readings-sweep (PR #649) are not cited.
 - LIT-1996 dated notes: THEORY-054, THEORY-1327, NOTE-1500, LIT-1967, THEORY-120, NOTE-448, NOTE-442, LIT-559, NOTE-1513, NOTE-436, NOTE-431, NOTE-441, THEORY-075.
 - LIT-2175: NOTE-tmpcr2sz, THEORY-tmpzrqm9, LIT to Active (v3), url now /about-us/10-principles/.
 - LIT-2175 dated notes: CLAIM-603 (Radical Self-reliance correction; stale "Unavailable"), NOTE-1662, THEORY-1497, THEORY-1546, NOTE-1658, NOTE-1679, LIT-2188.
+- LIT-tmpa7f10: NOTE-tmp11fci, THEORY-tmp4qq57, LIT to Active (v2), author order (Syropoulos first, joint with Law), version 2024-05-21.
 
 ## Next
-- LIT-tmpa7f10; curation; changelog.
+- LIT-tmpa7f10 dated notes; curation; changelog.
