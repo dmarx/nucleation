@@ -49,6 +49,7 @@ summary: >-
 bears_on:
 - QUESTION-368
 ---
+<!-- inactive-ok-file: THEORY-tmpxzn3p — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-072 THEORY-221 THEORY-449 THEORY-658 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
 # THEORY-699: Adaptive self-maintenance across varied conditions is sufficient, without sentience, for having a good of one's own, so insentient plants and a self-maintaining machine are welfare subjects while thermostats are not; but the line against thermostats is argued as one of degree, and the reasons such welfare gives are extremely weak
@@ -138,3 +139,12 @@ from a thermostat. The paper tests neither.
 - **Permissiveness.** Baedke ([LIT-167](../literature.d/LIT-167.md), [NOTE-148](../notes.d/NOTE-148.md)) argues that persister
   criteria take in colonies, holobionts and ecosystems. Bruckner's is a
   persister criterion and does not address that.
+
+## Note of 2026-11-22: Metzinger, read
+
+**A rival ground**, no edge (LIT-1947, NOTE-tmpdytsl). Metzinger's ethics is
+pathocentric: "All and only sentient beings have moral standing" (p. 44),
+which denies this account's sufficiency of adaptive self-maintenance
+without sentience. He cites Basl, whose teleological view this account
+draws on, only for leaving open whether suffering-capable systems are moral
+patients (p. 55).

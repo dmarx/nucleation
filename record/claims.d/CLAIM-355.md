@@ -137,6 +137,7 @@ bears_on:
 rests_on:
 - CLAIM-039
 ---
+<!-- inactive-ok-file: THEORY-tmpxzn3p — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-439 — Proposed; the other self-model QUESTION-442 links, cited in the history note of 2026-11-11 -->
 <!-- inactive-ok-file: CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 — Proposed; the organizational-affect line, reopened by the owner on 2026-10-23: the claim this one rests on, and a claim cited for a note -->
@@ -441,3 +442,13 @@ accompany control. That is A26's reply to plain fictionalism, now
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after the Metzinger readings of 2026-11-01 ([LIT-1941](../literature.d/LIT-1941.md), [LIT-1943](../literature.d/LIT-1943.md), [LIT-1945](../literature.d/LIT-1945.md), [LIT-1946](../literature.d/LIT-1946.md)). They propose the misdescription the note of 2026-10-29 says the record lacks, but give no case with the cause and the report recorded apart. Drayson's objection is still answered only conditionally, [CASE-114](../cases.d/CASE-114.md)'s test has not run, and [THEORY-064](../theory.d/THEORY-064.md), [THEORY-691](../theory.d/THEORY-691.md) and [THEORY-125](../theory.d/THEORY-125.md) are still Proposed.
+
+## Note of 2026-11-22: Metzinger, read
+
+An **earlier, design-oriented use of the same concepts**, no edge
+(LIT-1947, NOTE-tmpdytsl). Metzinger's "unit of identification" (pp. 56–57)
+is what a system identifies with, and he proposes building conscious
+systems with none, or with only a non-egoic one, so that suffering cannot
+be attributed to a self. That treats the self-model as a construction that
+can be designed away, as this claim does, and takes it to matter for
+whether there is suffering at all, which this claim leaves open.
