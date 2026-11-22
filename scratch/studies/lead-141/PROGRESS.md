@@ -19,7 +19,17 @@ ARG-051, CLAIM-027 as warranted.
 - Step 1: Axelrod et al. 2015 not in the record (only Robert Axelrod's
   1981 work). Read LEAD-141, ARG-051, CLAIM-027, NOTE-1496, THEORY-1296.
 
+- Step 2: copies. Europe PMC REST fullTextXML for PMC4371998 returned
+  HTTP 500 (not in the OA subset); europepmc.org PDF render gave a
+  Cloudflare "Just a moment..." 403 (stopped there); NCBI E-utilities
+  efetch says the publisher does not allow XML download; the PMC article
+  page pmc.ncbi.nlm.nih.gov/articles/PMC4371998/ served the full text
+  (HTML), read in full 2026-11-22 (body, figures' captions, methods; SI
+  PDF and references not read).
+- Metzinger 2017 chapter refetched from predictive-mind.net to quote H1/H3
+  exactly (p. 14 of the PDF's footer numbering).
+
 ## Next
 
-- Locate open copy (PMC / Europe PMC), register LIT, read, file NOTE/THEORY.
+- Register LIT for Axelrod 2015, file NOTE and THEORY.
 - Search for H1/H3 tests.
