@@ -106,6 +106,7 @@ summary: >-
   read through Frijda's marks of control precedence, the kind of ordering
   fixed as one over the system's own states, and five consequences drawn.
 ---
+<!-- inactive-ok-file: CLAIM-tmp0uism CLAIM-tmpaibxx CLAIM-tmpkcsp7 CASE-tmpjw1l1 — new on 2026-11-22; LEAD-041's argument, alternative, procedure and application, cited in the dated note -->
 <!-- inactive-ok-file: CLAIM-437 — Proposed; the owner's relativizing claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-433 — Proposed; the reply filed with this batch, cited as open -->
 <!-- inactive-ok-file: LIT-1433 — Unavailable, unread; Moors 2022, named as the book the novelty claim must be checked against -->
@@ -427,3 +428,18 @@ present state and the goal in view, a sign read off a reference, which is
 this claim's shape; they say it fails to explain why the effect is absent
 at work. Outcome importance, including worry about failing, lowers valence
 in Engeser and Baumann. Neither measures progress along an ordering.
+
+## Note of 2026-11-22: the two debts of consequence 4 ([LEAD-041](../leads.d/LEAD-041.md))
+
+The first debt, an argument that the evaluative space model's two
+channels are perspectives in this sense, is offered as [CLAIM-tmp0uism](CLAIM-tmp0uism.md),
+with its alternative [CLAIM-tmpaibxx](CLAIM-tmpaibxx.md) (one evaluator with two inputs); the
+owner chooses. On the first reading the model's neutral point, both
+channels low, is this claim's consequence 1, no contest, not its
+neutrality, so the record must keep three states apart where consequence 4
+names two. The second debt, a record of which perspective's ranking each
+decision followed, is met for one organization ([CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md), by the
+procedure [CLAIM-tmpkcsp7](CLAIM-tmpkcsp7.md)). That record does not meet the fourth defeater:
+it tells ambivalence from a prevailing compromise and from no contest, but
+with too few contests per window to tell much else. The claim is
+unchanged.
