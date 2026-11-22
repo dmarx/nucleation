@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CLAIM-tmpj4fzn
 title: 'Adding a predicate to an entry is adding a constraint on its revisions: each field filled, relation drawn, status set, defeater stated and passage quoted is a test its later versions must pass, so as they accrue the revisions still open to it are an intersection that only shrinks, toward what the predicates say, which its filers chose; the inductive prior an entry develops is that intersection weighted by how hard each predicate is enforced, from prose convention to lint rule; accruing predicates stabilizes an entry, in the control-theoretic sense, in the dimensions they constrain, and narrowing it is not good in itself'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note: the claim carried by analogy to regulation, from the
+    exchange 'Explain First Contact RL' (2026-11-22). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +51,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmplgnjf — Proposed or Open; filed in the filing of the exchange 'Explain First Contact RL' of 2026-11-22 and cited in its note -->
 <!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-184 CLAIM-068 CLAIM-119 TERM-132 — Proposed; the claims this restates in terms of predicates, and the risks it keeps -->
 <!-- inactive-ok-file: CLAIM-783 TERM-134 TERM-133 — Proposed; filed in this contribution of 2026-11-21 -->
 
@@ -143,3 +150,15 @@ revisions against inbound references for [CLAIM-778](CLAIM-778.md); defeater (a)
 its count from inbound references to all filed predicates. Defeater (b)
 needs a retention measure against the filed values, of the kind [LEAD-201](../leads.d/LEAD-201.md)
 plans against the originating turn.
+
+## Note of 2026-11-22: carried to regulation by analogy
+
+A33 §6 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
+carries this claim from an entry's predicates to an industrial
+ecosystem's regulations. "Constrain the dimensions in which deviation
+creates unacceptable harm while preserving freedom in dimensions that
+support experimentation, differentiation, and adaptation." An outcome
+standard and a technology prescription constrain different dimensions,
+and which to choose "depends on observability, enforceability, and
+uncertainty". The analogy is A's. It gives this claim a second domain and
+no evidence. The regulatory claim is CLAIM-tmplgnjf. No status change.
