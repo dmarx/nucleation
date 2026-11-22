@@ -32,7 +32,7 @@ summary: >-
   without it. Proposed because the source is a press post and the paper
   could not be read; the Europe PMC abstract agrees with it.
 ---
-<!-- inactive-ok-file: LIT-2462 — Unfetched; the paper the post reports -->
+
 
 # THEORY-1658: In mice, offspring's tolerance of non-inherited maternal antigens is sustained only by the small fraction of maternal microchimeric cells that co-express LysM and CD11c, and depleting that fraction removes the tolerance while most maternal microchimeric cells persist
 
@@ -66,3 +66,18 @@ From the reading in [NOTE-1728](../notes.d/NOTE-1728.md) ([LIT-2348](../literatu
 checked by the filer: the later, finer result from the same laboratory (Way,
 Cincinnati): only a LysM+CD11c+ subset sustains NIMA tolerance. Kinder et
 al. are the review context for it.
+
+## Note of 2026-11-22: the paper itself read for [LEAD-051](../leads.d/LEAD-051.md), promote_when met
+
+Peng et al. ([LIT-2462](../literature.d/LIT-2462.md)) was read in full for [LEAD-051](../leads.d/LEAD-051.md), from the NIH Public
+Access author manuscript via the NCBI E-utilities efetch interface
+([NOTE-tmpeyhkz](../notes.d/NOTE-tmpeyhkz.md)). The reading confirms both halves of this account's
+promote_when verbatim: depletion of LysM+ CD11c+ (Vav1+) maternal
+microchimeric cells abolishes NIMA-specific tolerance (the paper's Figures
+3-5), and conditional depletion of that subset "does not diminish overall MMc
+levels, dissociating NIMA-specific tolerance from MMc persistence" (abstract;
+Figure 7). Two choices are the owner's: whether to promote this account, and
+whether to add [LIT-2462](../literature.d/LIT-2462.md) as its source beside the press post [LIT-2428](../literature.d/LIT-2428.md). Read-
+and-file step 8 withholds automatic promotion here because the reading is not
+independent of the source that filed the account -- both report the same
+study. No status, title or source change is made.
