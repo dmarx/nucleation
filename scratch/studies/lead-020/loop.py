@@ -58,7 +58,7 @@ class Params:
     beta: float = 0.05      # direct push of authority on interpretation
     lam: float = 0.15       # gain of attended readings on u
     delta: float = 0.9      # persistence of authority drive v
-    eta: float = 0.1        # rate at which scores move authority
+    eta: float = 0.5        # rate at which scores move authority (bare loop locks in)
     gamma_a: float = 1.0    # Regime A: score difference per unit of m
     zeta: float = 1.0       # attention attenuation by authority
     # channels (mu = 1 for all, so readings are commensurable)
