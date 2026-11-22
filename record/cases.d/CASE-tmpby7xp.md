@@ -63,7 +63,7 @@ frequent words and the contexts the 5 000 most frequent. The PMI is
 log((n + 1)/(E + 1)), where E is the count expected under independence.
 The two halves of the corpus were counted separately, to measure noise.
 
-**Analogy families (QUESTION-178).** Each quadruple a:b :: c:d whose four
+**Analogy families ([QUESTION-178](../questions.d/QUESTION-178.md)).** Each quadruple a:b :: c:d whose four
 words are all targets was used, in 14 families with at least 20
 quadruples (5 451 quadruples in all). Each word's mean PMI was removed.
 The four PMI rows were then split, over the contexts, into a relation
@@ -73,7 +73,7 @@ estimated from the half-corpora and subtracted. Completion was scored by
 3CosAdd, searched over all 10 000 targets, in a rank-300 SVD embedding of
 the PMI rows.
 
-**Hierarchy (QUESTION-025).** Nouns are targets whose first WordNet synset
+**Hierarchy ([QUESTION-025](../questions.d/QUESTION-025.md)).** Nouns are targets whose first WordNet synset
 is a noun synset named by the word: 4 315 of them. Their attributes are
 all hypernym and instance-hypernym ancestors held by at least 5 nouns and
 at most half: 590 attributes, at WordNet depths 1 to 15. The PMI rows
@@ -142,12 +142,12 @@ tests were run.
 
 ## What it shows, and what it cannot
 
-- **For QUESTION-178:** a measurement of the kind it asks for, with the
+- **For [QUESTION-178](../questions.d/QUESTION-178.md):** a measurement of the kind it asks for, with the
   graded form of the "yes" pattern. Additivity varies with completion
   across and within families. But the families do not split into near
   additive and far from it: all are far.
-- **For QUESTION-025:** additivity along the hierarchy holds weakly. The
-  attributes carry a small, real part of the PMI. CLAIM-tmpe87cm shows
+- **For [QUESTION-025](../questions.d/QUESTION-025.md):** additivity along the hierarchy holds weakly. The
+  attributes carry a small, real part of the PMI. [CLAIM-tmpe87cm](../claims.d/CLAIM-tmpe87cm.md) shows
   that along a tree this test reduces to whether words in the same group
   share PMI rows. The probes find directions for attributes at every
   depth, but their errors cluster in the parent only modestly.
@@ -164,4 +164,4 @@ tests were run.
 - The machine was shared with other runs, so two things were cut for
   time. The rank-300 probes were dropped. The rank-100 probes were
   stopped after 336 of 590 attributes, those of WordNet depth 1 to 5.
-  The intervention QUESTION-178 also names was not attempted.
+  The intervention [QUESTION-178](../questions.d/QUESTION-178.md) also names was not attempted.

@@ -36,7 +36,7 @@ bears_on:
 grounds:
 - THEORY-185
 summary: >-
-  The model of THEORY-185 with its independence dropped: binary
+  The model of [THEORY-185](../theory.d/THEORY-185.md) with its independence dropped: binary
   attributes closed upward under any implication order, each shared
   attribute multiplying co-occurrence by a positive factor, so the PMI is
   X Λ Xᵀ plus affine terms. Implication does not remove the linear
@@ -70,7 +70,7 @@ exp(λ_k), with λ_k > 0. The PMI matrix is then
 
   M = X Λ Xᵀ + u 1ᵀ + 1 uᵀ + c 1 1ᵀ,  Λ = diag(λ).
 
-This is THEORY-185's model without its independence. Its ±1 coding of
+This is [THEORY-185](../theory.d/THEORY-185.md)'s model without its independence. Its ±1 coding of
 attributes differs from the 0/1 coding only by affine terms of this form.
 
 **1. Every attribute is a linear readout.** Let J = I − 11ᵀ/n. Double
@@ -104,7 +104,7 @@ These Σ_ℓ (b−1)bˡ = b^D − 1 contrasts, with the constant vector and the
 zero-eigenvalue contrasts within a leaf, span the space. Since
 μ_ℓ − μ_{ℓ+1} = w λ_{ℓ+1} b^(D−ℓ−1) > 0, the plateaus are ordered by depth
 for every choice of positive strengths. Shallow branchings always come
-first. This is unlike THEORY-185's raw-ratio clause, which needs a
+first. This is unlike [THEORY-185](../theory.d/THEORY-185.md)'s raw-ratio clause, which needs a
 condition on the strengths.
 
 **3. Truncation.** The indicator of a depth-ℓ attribute is constant on the
@@ -139,19 +139,19 @@ cut. derivation_check.txt holds one run.
 ## Connections
 
 - The branch contrasts are the tree wavelets that Saxe, McClelland &
-  Ganguli (LIT-862, THEORY-186) found for item similarity in a
+  Ganguli ([LIT-862](../literature.d/LIT-862.md), [THEORY-186](../theory.d/THEORY-186.md)) found for item similarity in a
   supervised linear network. Here they come from co-occurrence and PMI.
-- The ordering by depth fits Cagnetta & Wyart's finding (THEORY-201)
+- The ordering by depth fits Cagnetta & Wyart's finding ([THEORY-201](../theory.d/THEORY-201.md))
   that a finite corpus shows only the shallow levels of a hierarchy. In
   this model, noise of a given size masks the deepest plateaus first.
-- For LIT-267 and CLAIM-119, the first step survives implication
+- For [LIT-267](../literature.d/LIT-267.md) and [CLAIM-119](CLAIM-119.md), the first step survives implication
   at full rank. At the ranks embeddings use, a lattice read off by
   thresholding is the hierarchy cut at a depth set by the spectrum.
 
 ## What it does not say
 
 - That real co-occurrence follows this model. That is the measurement
-  (QUESTION-178 and the case filed with this claim).
+  ([QUESTION-178](../questions.d/QUESTION-178.md) and the case filed with this claim).
 - Anything about the eigenvectors of unbalanced trees or general
   contexts. Part 1 holds for them; parts 2 and 3 are stated for the
   balanced tree.

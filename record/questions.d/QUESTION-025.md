@@ -188,13 +188,13 @@ The question stays Open.
 
 ## Note of 2026-11-22: a derivation, and a first measurement
 
-LEAD-147 filed both limbs. The derivation, CLAIM-tmpe87cm, keeps
+[LEAD-147](../leads.d/LEAD-147.md) filed both limbs. The derivation, [CLAIM-tmpe87cm](../claims.d/CLAIM-tmpe87cm.md), keeps
 multiplicative co-occurrence and allows any implication order among the
 attributes. Every attribute is then still an exact affine readout of the
 full-rank PMI embedding, and the recovered incidence and its concept
-lattice equal the generating ones. So the first step of LIT-267 survives
+lattice equal the generating ones. So the first step of [LIT-267](../literature.d/LIT-267.md) survives
 implication at full rank. On a balanced tree, the PMI eigenvectors are
-branch contrasts, the tree wavelets of THEORY-186. Their eigenvalues fall
+branch contrasts, the tree wavelets of [THEORY-186](../theory.d/THEORY-186.md). Their eigenvalues fall
 strictly with depth for any positive strengths. A truncated embedding
 therefore reads out exactly the attributes above a depth cut and merges
 siblings below it, so the lattice it carries is the hierarchy cut at that
@@ -202,6 +202,6 @@ depth. Along a tree, additivity says no more than that words in the same
 finest group share a PMI row; it constrains the PMI only where attributes
 cross-cut.
 
-The measurement is CASE-tmpby7xp, on text8 with WordNet 3.0 hypernymy.
+The measurement is [CASE-tmpby7xp](../cases.d/CASE-tmpby7xp.md), on text8 with WordNet 3.0 hypernymy.
 Its hierarchy results are in that case. It uses no annotation by a
-language model, which answers NOTE-240's first objection for this test.
+language model, which answers [NOTE-240](../notes.d/NOTE-240.md)'s first objection for this test.
