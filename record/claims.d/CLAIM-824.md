@@ -3,16 +3,34 @@ number: 824
 status: Proposed
 formerly:
 - CLAIM-tmpiervv
-title: 'Multiplicative growth with independent, identically distributed returns gives a lognormal cross-section, not a power law, but the same growth with an additive floor gives a stationary power-law tail whose exponent κ solves E[A^κ] = 1, even when the process contracts on average'
-version: 1
+title: 'Multiplicative growth with independent, identically distributed returns gives a lognormal cross-section, not a power law, but the same growth with an additive floor gives a stationary power-law tail whose exponent κ solves E[A^κ] = 1, a condition that requires the process to contract on average in logarithm'
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Edited in place on 2026-11-22 after Kesten (LIT-3005) was found
+    Unfetched and two neighbours were read in its place, Kevei
+    (LIT-tmpk12vu, THEORY-tmpsmrhx) and Alsmeyer and Mentemeier
+    (LIT-tmpt282z, THEORY-tmpocjqv). `defeated_if` now carries the
+    theorem's conditions as Kevei states them; the title's "even when the
+    process contracts on average" becomes "a condition that requires" it,
+    since E[A^κ] = 1 forces E log A < 0; `grounds` swaps the unread
+    LIT-3005 for THEORY-tmpsmrhx (ARG-tmpn6ufb). The thesis and status
+    are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
-  A Kesten process W' = AW + B meeting the standard conditions (E[log A]
-  < 0, P(A > 1) > 0, log A non-lattice, E[A^κ log⁺A] and E[B^κ] finite)
-  whose stationary tail is not Pareto with exponent κ; or pure i.i.d.
+  A process W' = AW + B with (A, B) i.i.d. and independent of W, A ≥ 0,
+  meeting the theorem's conditions (E[A^κ] = 1 for some κ > 0,
+  E[A^κ log⁺A] < ∞, log A non-arithmetic given A ≠ 0, E|B|^κ < ∞, and
+  non-degeneracy, P(Ax + B = x) < 1 for every x) whose stationary law
+  does not have P(W > x) ∼ c+ x^(−κ) and P(W < −x) ∼ c− x^(−κ) with
+  c+ + c− > 0 (the tail may sit on one side only); or pure i.i.d.
   multiplicative growth with finite-variance log returns whose
-  cross-section after many steps is not close to lognormal.
+  cross-section after many steps is not close to lognormal. E[log A] < 0
+  and P(A > 1) > 0 are not further conditions: they follow from
+  E[A^κ] = 1 with κ > 0 and A ≢ 1.
 tags:
 - probabilistic-modeling
 - complex-systems
@@ -21,19 +39,21 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 grounds:
-- LIT-3005
+- THEORY-tmpsmrhx
 - THEORY-696
 summary: >-
   A's, from A3 §2 and §4 of the exchange "Rich Get Richer Power Laws"
   (2026-11-20). W_{t+1} = A_t W_t gives log W as a sum, hence a lognormal
   by the central limit theorem, with every unit facing the same returns.
-  Adding B_t (W_{t+1} = A_t W_t + B_t, Kesten, [LIT-3005](../literature.d/LIT-3005.md)) gives
-  P(W > x) ∝ x^(−κ) with E[A^κ] = 1, so "a process with an overall
+  Adding B_t (W_{t+1} = A_t W_t + B_t, Kesten, LIT-3005, known through
+  Kevei's restatement, THEORY-tmpsmrhx) gives P(W > x) ∝ x^(−κ) with
+  E[A^κ] = 1, which forces E[log A] < 0, so "a process with an overall
   stabilizing tendency can still generate extreme outcomes". Checked by
   simulation in this session: with log A ~ N(−0.05, 0.3²), κ = 1.111 and
   the Hill estimate is 1.10 to 1.12. A3 §4's "these mechanisms are not
-  mutually exclusive" is made concrete in the body. The work is
-  registered and unread. The wording is A's (the other assistant in the
+  mutually exclusive" is made concrete in the body. Kesten's paper is
+  Unfetched; its theorem is held at second hand through two neighbours
+  read in its place. The wording is A's (the other assistant in the
   exchange "Rich Get Richer Power Laws", A3); adopting it is the owner's
   call.
 bears_on:
@@ -41,10 +61,12 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: TERM-tmpg1vx2 — Proposed; the term filed on the name Gibrat -->
-<!-- inactive-ok-file: LIT-3005 — Deferred; registered from this exchange and not read -->
+<!-- inactive-ok-file: LIT-3005 — Unfetched; Kesten, located and not read -->
+<!-- inactive-ok-file: THEORY-tmpsmrhx THEORY-tmpocjqv NOTE-tmpv02cb NOTE-tmpy4hcs ARG-tmpn6ufb — Proposed, Skimmed or new; the neighbours' readings of 2026-11-22 and the argument on them -->
+<!-- inactive-ok-file: LIT-tmpn76uh — Deferred; Goldie (1991), registered and unread -->
 <!-- inactive-ok-file: CLAIM-830 CLAIM-795 CLAIM-803 THEORY-2150 ARG-140 — Proposed or new; claims filed with this one from the same exchange, and the reading and argument of 2026-11-21 -->
 
-# CLAIM-824: Multiplicative growth with independent, identically distributed returns gives a lognormal cross-section, not a power law, but the same growth with an additive floor gives a stationary power-law tail whose exponent κ solves E[A^κ] = 1, even when the process contracts on average
+# CLAIM-824: Multiplicative growth with independent, identically distributed returns gives a lognormal cross-section, not a power law, but the same growth with an additive floor gives a stationary power-law tail whose exponent κ solves E[A^κ] = 1, a condition that requires the process to contract on average in logarithm
 
 ## The claim (A3 §2)
 
@@ -59,7 +81,8 @@ fixed time, rather than a true power-law tail."
 With an additive term, W_{t+1} = A_t W_t + B_t, "Under suitable conditions,
 including an overall tendency toward contraction but occasional growth
 multipliers greater than one", the stationary law has P(W > x) ∝ x^(−κ)
-with "**E[A^κ] = 1**" (Kesten, [LIT-3005](../literature.d/LIT-3005.md)). "Rare sequences of favorable
+with "**E[A^κ] = 1**" (Kesten, LIT-3005; the theorem as Kevei restates it is
+THEORY-tmpsmrhx). "Rare sequences of favorable
 multipliers compound into exceptionally large values."
 
 The record holds geometric Brownian motion and its time-average growth
@@ -103,8 +126,13 @@ process with neither gives a lognormal that only widens.
   wealth floors addresses another", has no support in the exchange
   ([CLAIM-803](CLAIM-803.md)).
 - Not the conditions in full. Kesten's theorem needs more than A states
-  (see `defeated_if`), and they were not checked against the paper, which
-  is unread.
+  (see `defeated_if`, which since 2026-11-22 follows Kevei's statement).
+  They are checked against Kevei's restatement, not against Kesten's
+  paper, which is Unfetched.
+- Not that a Pareto stationary tail shows the A-driven mechanism. By
+  Grey's result, as Kevei reports it, with E[A^κ] < 1 the tail of W is
+  regularly varying "if and only if the tail of B is": the tail can come
+  from B alone.
 
 ## Note of 2026-11-21: Mitzenmacher, read
 
@@ -169,3 +197,56 @@ demand for dynamics. The US-cities row is in the note of this date on
 Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)): **a parallel**. Lognormal-like degree tails are common, and the paper
 names neither Gibrat nor multiplicative growth. No edge. Status
 unchanged.
+
+## Change of 2026-11-22
+
+After Kesten (LIT-3005) was found Unfetched and Kevei (LIT-tmpk12vu) and
+Alsmeyer and Mentemeier (LIT-tmpt282z) were read in its place:
+
+- **`defeated_if`** now carries the theorem's conditions as Kevei states
+  them (p. 1): E|B|^κ rather than E[B^κ], since B may be signed;
+  non-degeneracy, P(Ax + B = x) < 1 for every x; and a two-sided tail
+  with c+ + c− > 0, so "Pareto with exponent κ" can hold on one side
+  only. E[log A] < 0 and P(A > 1) > 0 are dropped as separate
+  conditions: "The assumption EAκ = 1 together with A ≢ 1 imply that
+  E log A < 0" (p. 6), and P(A > 1) > 0 follows too, since with A ≤ 1
+  a.s. and A ≢ 1, E[A^κ] < 1.
+- **The title.** "Even when the process contracts on average" understated
+  the case: log-contraction is required, not merely allowed. It now reads
+  "a condition that requires the process to contract on average in
+  logarithm". E[A] itself is at least one whenever κ ≤ 1 (by Jensen,
+  E[A] ≥ E[A^κ]^(1/κ) = 1); in the checked example above κ = 1.111 and
+  E[A] = e^(−0.05 + 0.045) = 0.995.
+- **`grounds`** swaps LIT-3005, unread, for THEORY-tmpsmrhx, Kevei's
+  restatement (ARG-tmpn6ufb). Version 2. The thesis and status are
+  unchanged.
+
+## Note of 2026-11-22: Kevei; Alsmeyer and Mentemeier, read in Kesten's place
+
+Kevei (LIT-tmpk12vu, skimmed in NOTE-tmpv02cb; the reading is
+THEORY-tmpsmrhx) and Alsmeyer and Mentemeier (LIT-tmpt282z, NOTE-tmpy4hcs,
+THEORY-tmpocjqv) were read because Kesten's paper is behind a WAF
+challenge.
+
+- **Supports the Kesten half, at second hand.** Kesten "proved that if
+  EAκ = 1, EAκ log+ A < ∞, log A conditioned on A ≠ 0 is nonarithmetic,
+  and E|B|κ < ∞ for some κ > 0 ... then the solution of (1) has
+  Pareto-like tail" (Kevei, p. 1). "Kesten proved a similar statement in
+  d dimension"; the scalar case is Goldie's re-proof. Alsmeyer and
+  Mentemeier give the matrix form (Theorem 1.1, p. 2), with κ fixed by
+  lim n^(−1) log E‖Π_n‖^κ = 0.
+- **Joins the two floors under one exponent equation.** The note of
+  2026-11-21 above separates an additive floor (Kesten's B) from a
+  reflecting minimum (Mitzenmacher's). The reflecting form X = AX ∨ B
+  has its own theorem, Goldie's Theorem 5.2 (LIT-tmpn76uh), with the same
+  conditions and the same κ: "P{X > x} ∼ cx−κ with some c ≥ 0, and c > 0
+  if and only if P{B > 0} > 0" (Kevei, p. 4). So the claim's two kinds of
+  floor give the same exponent; what differs is only the construction.
+  The section "Not mutually exclusive, made concrete" holds for both.
+- **Qualifies: a Pareto tail can come from B alone** (Grey, via Kevei,
+  p. 2), now in "What it does not say". This sharpens CLAIM-803's demand
+  for dynamics: the stationary tail does not name its source.
+- **Leaves the lognormal half untouched.**
+
+THEORY-tmpsmrhx is added to `grounds` and LIT-3005 removed
+(ARG-tmpn6ufb). Status unchanged.

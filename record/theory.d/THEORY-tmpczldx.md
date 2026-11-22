@@ -1,73 +1,77 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpczldx:` heading; the lint checks
-# that the two agree.
+  The published text (Physica A 322, 2003), or a second source, confirms
+  eq. 2 (B(E) as the Laplace transform of f(β) for a parameter that
+  fluctuates slowly against local equilibration), eq. 13 (a gamma f gives
+  (1 + bE)^(−c), with c = 1/(q − 1)), eq. 21 (the shared small-variance
+  correction e^(−β₀E)(1 + σ²E²/2)) and the p. 7 remark that the large-E
+  behaviour depends on f. Not met by a check of which densities give power
+  laws, which the title does not assert.
 title: "Beck and Cohen define superstatistics as the Laplace transform of a slowly fluctuating inverse temperature's density, show that a gamma density gives Tsallis's q-exponential and that every superstatistics shares the same first correction at small variance, and leave the large-energy behaviour to the density"
-
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed 2026-11-22 from the delegated reading in NOTE-tmpj8ro5; quotations
+    rechecked by the filer against the text.
 tags:
-- complex-systems
-
+- thermodynamics
+- probabilistic-modeling
 date: '2026-11-22'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-2962
+corroborates:
+- CLAIM-769
+bears_on:
+- QUESTION-505
+summary: >-
+  Beck and Cohen (2003), LIT-2962, read in NOTE-tmpj8ro5. A letter:
+  the mixture-of-exponentials construction in physics, with a gamma density
+  giving the Tsallis form exactly and a universality result at small
+  variance. It never says "power law"; which densities give one is the
+  assistant's CLAIM-tmpf9qt9. Proposed until the published text or a second
+  source confirms it.
 ---
-
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: NOTE-tmpj8ro5 CLAIM-795 CLAIM-769 CLAIM-tmpf9qt9 THEORY-2131 QUESTION-505 — Proposed or new; this account's reading and the entries it bears on -->
 
 # THEORY-tmpczldx: Beck and Cohen define superstatistics as the Laplace transform of a slowly fluctuating inverse temperature's density, show that a gamma density gives Tsallis's q-exponential and that every superstatistics shares the same first correction at small variance, and leave the large-energy behaviour to the density
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Beck and Cohen (2003), LIT-2962, read in NOTE-tmpj8ro5 from arXiv v2.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+A system of cells, each in local equilibrium at an inverse temperature β
+that fluctuates on a time scale "much larger than the relaxation time that
+the single cells need to reach local equilibrium" (p. 2), has the long-run
+Boltzmann factor B(E) = ∫ f(β) e^(−βE) dβ, "the Laplace transform of the
+probability density f(β)" (p. 3). Closed forms: gamma f gives
+(1 + bE)^(−c), Tsallis's q-exponential, with 2c "the effective number of
+degrees of freedom contributing to the fluctuating β" (p. 5); uniform and
+two-level f give sums or differences of exponentials. A general expansion
+shows that "one always obtains the same result for small σ",
+e^(−β₀E)(1 + ½σ²E²), so q = ⟨β²⟩/⟨β⟩² for any f (pp. 7–8). The
+third-order coefficient g(q) tells the densities apart (p. 9). "In general
+the large-E behavior is different for all superstatistics (it strongly
+depends on the function f(β))" (p. 7).
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- Not that a spread of rates gives a power law: only the gamma case does
+  among the closed forms, and a uniform f bounded away from zero keeps an
+  exponential tail (eq. 5). The general condition is CLAIM-tmpf9qt9's, the
+  assistant's.
+- Not what f(β) is for any system: it is "a priori unknown" (p. 3); the
+  applications are cited, not shown.
+- Not a population of entities: one system whose parameter fluctuates in
+  space and time, seen over long times. The mathematics is the same
+  mixture.
+
+## Connections
+
+THEORY-2131 has the same integral as discounting under an unknown hazard,
+with the same gamma and uniform results; CLAIM-769 and CLAIM-795 (item 4)
+use it. It `corroborates` CLAIM-769; CLAIM-795's item 4 grounds on it.

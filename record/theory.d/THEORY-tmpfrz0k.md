@@ -1,73 +1,68 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpfrz0k:` heading; the lint checks
-# that the two agree.
+  The published Science text is confirmed to carry the results the title
+  gives as the preprint states them (a lawful copy of the print version,
+  or a later statement by the authors), and an independent simulation of
+  the model and of Models A and B reproduces a stationary tail near
+  k^(−3), an exponential without preferential attachment and a
+  non-stationary distribution without growth. Not met, and not defeated,
+  by tests of whether real networks are scale free, which bear on the
+  proposal's reach and not on what the paper found.
 title: 'Barabási and Albert, growing a network one vertex at a time with links attached in proportion to degree, find a stationary power-law degree distribution with exponent near 3 by simulation and exactly 3 by a mean-field argument, an exponential distribution without preferential attachment, a non-stationary one tending to a complete graph without growth, and scaling only for a linear kernel, and propose growth and preferential attachment as the generic origin of the power-law tails they report in real networks'
-
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- network-science
 - complex-systems
-
 date: '2026-11-22'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-3004
+bears_on:
+- QUESTION-505
+summary: >-
+  Barabási & Albert (1999), LIT-3004, read in the arXiv preprint in
+  NOTE-tmpwgw8e. The record's source for the base case of CLAIM-817 and
+  the premise of CLAIM-830, and for A3's sentence that attachment alone
+  does not guarantee a power law (ARG-tmp3q9cy). The sharp edge: the
+  proposal that the mechanism is generic rests on four networks whose
+  slopes were drawn by eye, the premise Broido and Clauset test
+  (THEORY-tmphcnj3). Proposed until the print text and a replication
+  confirm it.
 ---
-
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: CLAIM-817 CLAIM-830 THEORY-tmphcnj3 ARG-tmp3q9cy — Proposed or new; the claims this reading grounds, the reading that qualifies its premise and the argument that says how -->
 
 # THEORY-tmpfrz0k: Barabási and Albert, growing a network one vertex at a time with links attached in proportion to degree, find a stationary power-law degree distribution with exponent near 3 by simulation and exactly 3 by a mean-field argument, an exponential distribution without preferential attachment, a non-stationary one tending to a complete graph without growth, and scaling only for a linear kernel, and propose growth and preferential attachment as the generic origin of the power-law tails they report in real networks
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Barabási & Albert (1999), "Emergence of Scaling in Random Networks",
+Science 286, 509, LIT-3004, read in the arXiv preprint (cond-mat/9910332)
+in NOTE-tmpwgw8e.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+A model: at every step "a new vertex with m(≤ m0) edges" attaches with
+Π(k_i) = k_i/Σ_jk_j. Simulation: "an exponent γmodel = 2.9±0.1", with
+"P(k) ... independent of time". Mean field: ∂k_i/∂t = k_i/2t,
+k_i = m(t/t_i)^(1/2), and with vertices added "at equal time intervals"
+P(k) = 2m²/k³, "giving γ = 3, independent of m". Model A, without
+preference, "leads to P(k) ∼ exp(−βk)". Model B, without growth, shows
+power-law scaling "at early times" but "P(k) is not stationary", and all
+vertices end connected. Hence "both ingredients ... are needed"; and
+"simulations indicate that scaling is present only for α = 1" (p. 7).
+
+What could have come out otherwise: Models A and B could have kept the
+tail. They do not, which is what makes the two ingredients jointly needed
+in this model.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- Not that real networks are scale free with γ = 3. The four empirical
+  exponents (2.1 to about 4) are slopes drawn on log–log plots with no fit
+  or test, and the model gives 3.
+- Not a derivation of the nonlinear-kernel regimes; that is one sentence
+  on simulations, and the regimes are Krapivsky, Redner and Leyvraz's
+  (THEORY-tmpmsncg).
+- Not that Model B never shows a power law: it does, transiently.
+- Not that 3 is exact for the stochastic model; the exact distribution
+  (2m(m+1)/[k(k+1)(k+2)]) is later work (THEORY-tmpzmy66).

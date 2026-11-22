@@ -1,73 +1,68 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpcfn5g:` heading; the lint checks
-# that the two agree.
+  An independent derivation, or the record's own by proof or by the
+  stationary vector, of the 1/i visiting law for the process that from
+  state i jumps uniformly to a state below i, and of the asymptotic i^(−λ)
+  occupation of its mixture with uniform jumps over all states. Not met
+  by the word-frequency example, which the title does not assert.
 title: 'Corominas-Murtra, Hanel and Thurner prove that a process jumping uniformly to a lower state visits state i with probability exactly 1 over i, and that mixing its nested steps with uniform jumps gives occupation falling as i to the minus lambda'
-
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Filed 2026-11-22 from the delegated reading in NOTE-tmpyqqhq; quotations
+    rechecked by the filer against the text.
 tags:
+- probabilistic-modeling
 - complex-systems
-
 date: '2026-11-22'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-2997
+bears_on:
+- QUESTION-505
+summary: >-
+  Corominas-Murtra, Hanel and Thurner (2015), LIT-2997, read in
+  NOTE-tmpyqqhq. Sample-space reduction as a route to Zipf's law, with the
+  exponent as the share of nested steps. Proved for uniform jumps only;
+  a Markov chain with no reinforcement. Proposed until the derivation is
+  checked independently.
 ---
-
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: NOTE-tmpyqqhq CLAIM-795 THEORY-2150 QUESTION-505 LIT-tmppzucs — Proposed, Deferred or new; this account's reading and the entries it bears on -->
 
 # THEORY-tmpcfn5g: Corominas-Murtra, Hanel and Thurner prove that a process jumping uniformly to a lower state visits state i with probability exactly 1 over i, and that mixing its nested steps with uniform jumps gives occupation falling as i to the minus lambda
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Corominas-Murtra, Hanel and Thurner (2015), LIT-2997, read in NOTE-tmpyqqhq
+from arXiv v3.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+The strict process (throw die N, then die K − 1 after getting K, down to 1)
+visits site i with probability that "can easily be shown to follow an exact
+Zipf's law, PN(i) = 1/i" (p. 2, eq. 1), by induction on N; visits and
+occupation are proportional because each run is strictly decreasing.
+Mixing each step with probability 1 − λ with a uniform jump over all N
+states and restarting at the top gives p(i)/p(1) = Π_{j<i}(1 + λ/j)^(−1),
+"an asymptotically exact power-law with exponent λ" (p. 4), and a frequency
+exponent (1 + λ)/λ. The reader's stationary-vector check gives slopes
+−1.000, −0.702, −0.503 for λ = 1, 0.7, 0.5.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- Not that every sample-space-reducing process gives Zipf's law, despite
+  the abstract's "necessarily": only uniform jumps are treated.
+- Not that word frequencies come from this mechanism: λ = 0.9 is read off
+  a fitted slope.
+- Not a history- or reinforcement-dependent process: the strict process is
+  a Markov chain, P(j | i) = 1/(i − 1).
+
+## Connections
+
+Item 5 of CLAIM-795. A mix of a structured and a uniform choice sets the
+exponent here as in Mitzenmacher's attachment with a uniform share
+(THEORY-2150). A rival feedback-free route to Zipf in words is Miller's
+random typing (LIT-tmppzucs). The account `bears_on` QUESTION-505. It is
+not in `corroborates` on CLAIM-795: the claim's item 5 grounds on it.

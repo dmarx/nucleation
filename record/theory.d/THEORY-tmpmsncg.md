@@ -1,73 +1,70 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpmsncg:` heading; the lint checks
-# that the two agree.
+  An independent derivation or simulation of the same growing tree (new
+  sites attaching with probability proportional to A_k) reproduces the
+  three regimes for A_k = k^γ (a stretched exponential for 0 < γ < 1, one
+  site holding nearly all links for γ > 1, a power law at γ = 1) and the
+  dependence of the exponent on an asymptotically linear kernel,
+  ν = 1 + μ/a∞; for example a rigorous treatment of superlinear
+  attachment, or the authors' longer paper checked against this letter.
+  Not met by a restatement that cites this paper, and not defeated by a
+  model with fitness or aging, which the title does not cover.
 title: 'Krapivsky, Redner and Leyvraz, solving the rate equations of a growing tree whose new sites attach with probability proportional to a kernel A_k, find a stretched-exponential degree distribution for A_k = k^γ with 0 < γ < 1, a single site taking nearly all links for γ > 1, and a power law only at γ = 1, where an asymptotically linear kernel A_k → a∞k gives an exponent ν = 1 + μ/a∞ that can take any value above 2'
-
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- network-science
 - complex-systems
-
+- probabilistic-modeling
 date: '2026-11-22'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-2974
+bears_on:
+- QUESTION-505
+summary: >-
+  Krapivsky, Redner & Leyvraz (2000), LIT-2974, read in NOTE-tmp2z733.
+  The record's source for the regimes of the attachment kernel, which
+  CLAIM-817 and CLAIM-806 state and ARG-tmpqxprw takes them from. The
+  sharp edge: the power law is the borderline case, k^(−3) only for
+  A_k = k exactly, and the authors themselves say that for 0.8 ≲ γ ≲ 1 a
+  stretched exponential and a power law are hard to tell apart up to
+  k = 1000. Proposed until an independent derivation confirms it.
 ---
-
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
+<!-- inactive-ok-file: CLAIM-817 CLAIM-806 ARG-tmpqxprw — Proposed or new; the claims this reading grounds and the argument that says how -->
 
 # THEORY-tmpmsncg: Krapivsky, Redner and Leyvraz, solving the rate equations of a growing tree whose new sites attach with probability proportional to a kernel A_k, find a stretched-exponential degree distribution for A_k = k^γ with 0 < γ < 1, a single site taking nearly all links for γ > 1, and a power law only at γ = 1, where an asymptotically linear kernel A_k → a∞k gives an exponent ν = 1 + μ/a∞ that can take any value above 2
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Krapivsky, Redner & Leyvraz (2000), "Connectivity of Growing Random
+Networks", Physical Review Letters 85, 4629, LIT-2974, read in the arXiv
+preprint in NOTE-tmp2z733.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+A rate equation for the mean number N_k(t) of sites with k links, with
+entry of one new site per step, solved by kernel. "A power law
+distribution N_k ∼ k^−ν arises only for γ = 1. In this case, finer details
+of the dependence of the connection kernel on k affect the exponent ν"
+(p. 1). For A_k = k exactly, n_k = 4/[k(k+1)(k+2)]; for γ = 0,
+n_k = 2^(−k); for 0 < γ < 1 a stretched exponential with leading term
+exp[−μk^(1−γ)/(1−γ)]; for γ > 1 "a single “gel” site connects to nearly
+every other site of the graph", with a cascade of transitions at
+γ = (m+1)/m; for A_k → a∞k, "ν = 1 + µ/a∞" (p. 2), which with A_1 = 1 and
+A_k = a∞k becomes ν = (3 + √(1 + 8/a∞))/2.
+
+What could have come out otherwise: the sublinear tail could have been a
+power law with a γ-dependent exponent. It is not, and so a power law is
+marginal in γ.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- Not that any real degree distribution comes from this mechanism. The
+  authors fit the ISI citation data equally well with γ ≈ 0.86 and with
+  ν ≈ 2.5, and say that for 0.8 ≲ γ ≲ 1 the two forms are hard to
+  distinguish up to k = 1000.
+- Not that the linear case has exponent 3. It is a family, ν in (2, ∞).
+- Not anything about networks without entry, or with fitness or aging,
+  none of which the paper treats.
+- Not a rigorous result: the equations are for averages, and the γ > 1
+  analysis is leading order.

@@ -1,73 +1,48 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
 status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
 promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpocjqv:` heading; the lint checks
-# that the two agree.
-title: 't2'
-
+  A second reading of Alsmeyer and Mentemeier's published paper (Journal
+  of Difference Equations and Applications 18, 2012), or of Kesten
+  (1973) or Le Page, confirms what the title says: that for
+  R_n = M_n R_(n−1) + Q_n with regular matrices, a negative Liapunov
+  exponent and the stated conditions, there is a unique κ with
+  lim n^(−1) log E‖Π_n‖^κ = 0 and lim t^κ P(xR > t) = K(x) with K
+  positive and continuous, and that Kesten stated such a result in 1973.
+title: "Alsmeyer and Mentemeier prove that the stationary solution of a random difference equation with invertible random matrices and a negative Liapunov exponent has a power-law tail in every direction, with index κ fixed by lim n^(−1) log E‖Π_n‖^κ = 0, a result they say Kesten stated in 1973 and Le Page proved"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
-- complex-systems
-
+- probabilistic-modeling
+- mathematics
 date: '2026-11-22'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-tmpt282z
+summary: >-
+  Alsmeyer and Mentemeier (2012), LIT-tmpt282z, skimmed (introduction
+  only) in NOTE-tmpy4hcs as a stand-in for Kesten (1973), LIT-3005. Their
+  Theorem 1.1 is the matrix form of the Kesten tail; their Remark 1
+  attributes the statement to Kesten "with one extra condition". The
+  record's second-hand access to Kesten's matrix theorem. Proposed until
+  the reading is confirmed.
 ---
+<!-- inactive-ok-file: LIT-3005 — Unfetched; the original this reading stands in for -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpocjqv: t2
+# THEORY-tmpocjqv: Alsmeyer and Mentemeier prove that the stationary solution of a random difference equation with invertible random matrices and a negative Liapunov exponent has a power-law tail in every direction, with index κ fixed by lim n^(−1) log E‖Π_n‖^κ = 0, a result they say Kesten stated in 1973 and Le Page proved
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Alsmeyer and Mentemeier (2012), LIT-tmpt282z, abstract and §1 read from
+the arXiv v3 in NOTE-tmpy4hcs.
 
-## What was actually shown
+## The account
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+Theorem 1.1 (p. 2): with β < 0 and (A1)–(A7), "there exists a unique
+κ ∈ (0, κ0] such that lim n−1 log E‖Πn‖κ = 0" and
+"lim tκ P(xR > t) = K(x) for all x ∈ S, where K is a finite positive and
+continuous function on S". Remark 1 (p. 3): "This result (with one extra
+condition) was stated by Kesten at the end of his famous article [12] and
+later proved by Le Page [15]".
 
-## What this does not say
+## What it does not license
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+Kesten's own hypotheses, or a claim about what he proved rather than
+stated; the proofs here were not read.
