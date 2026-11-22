@@ -148,7 +148,7 @@ and the claim does not depend on theirs.
 ## Note of 2026-11-22: Yang, read
 
 A parallel, and a second instance of this claim's caveat; nothing on the
-local coefficient. Yang's probe (THEORY-tmpu0f9k, NOTE-tmpg5q4t) loses
+local coefficient. Yang's probe ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md), [NOTE-tmpg5q4t](../notes.d/NOTE-tmpg5q4t.md)) loses
 its collapsed state through a supercritical pitchfork with the same
 normal form, ε̇ = (β − βc)ε − αε³, and growth from the noise "on a
 characteristic timescale that scales as 1/(β − βc)", which is this
@@ -158,11 +158,11 @@ anti-symmetric w", not fixed by the linear analysis, just as the sign of
 a = b is not fixed here. So the caveat that the pitchfork is in the
 parameters, not the predictor, holds there too.
 
-It does not ground the claim (ARG-tmp31laj, Rejected; LIT-2961 leaves the
+It does not ground the claim ([ARG-tmp31laj](../arguments.d/ARG-tmp31laj.md), Rejected; [LIT-2961](../literature.d/LIT-2961.md) leaves the
 grounds). Its bifurcation parameter is a detached probe's precision, not
 a signal against weight decay; the paper says nothing of learning
 coefficients, so the dip from 1 to 3/4 has no counterpart there; and its
 weight decay plays this claim's "something drifts" role only loosely,
 setting the escape time after a crossing that comes at steps 34–60 with
-or without it. By Kuehn's classification (THEORY-1429) neither pitchfork
+or without it. By Kuehn's classification ([THEORY-1429](../theory.d/THEORY-1429.md)) neither pitchfork
 is a critical transition: both are supercritical, with no fast jump.

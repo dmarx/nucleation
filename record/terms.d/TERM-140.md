@@ -264,9 +264,9 @@ The note is the assistant's (Claude, in this session).
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**Background, with a parallel**, no edge (LIT-2996, NOTE-tmpunt6q,
-THEORY-tmpttfgp). Shalizi and Moore reduce states by prediction, not
+**Background, with a parallel**, no edge ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md),
+[THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). Shalizi and Moore reduce states by prediction, not
 parameters by sensitivity, and use no Fisher information. Their macrostate
 is relative to the observables chosen, as sloppiness here is relative to
-a design; CLAIM-tmp3ima1 (alternative a, Proposed) states the shared
+a design; [CLAIM-tmp3ima1](../claims.d/CLAIM-tmp3ima1.md) (alternative a, Proposed) states the shared
 shape. Status unchanged.

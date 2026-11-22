@@ -17,9 +17,9 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  CLAIM-839 ends with A33's rule that "a network could become more
+  [CLAIM-839](../claims.d/CLAIM-839.md) ends with A33's rule that "a network could become more
   confident without becoming more correct", so a narrower region counts
-  as progress only while it stays correct. CLAIM-tmpxcy5s shows a working
+  as progress only while it stays correct. [CLAIM-tmpxcy5s](../claims.d/CLAIM-tmpxcy5s.md) shows a working
   case: in Bui et al.'s scheme every satisfied cone constraint raises the
   item's norm and lowers its norm-based uncertainty, whether or not the
   update is right. So the cone term by itself cannot certify progress,
@@ -34,10 +34,10 @@ summary: >-
 
 ## The inference
 
-Premise: CLAIM-tmpxcy5s (from THEORY-189's radial monotonicity and Bui et
-al.'s Eq. 11, THEORY-tmpe9367): a point inside a cone of the widest
+Premise: [CLAIM-tmpxcy5s](../claims.d/CLAIM-tmpxcy5s.md) (from [THEORY-189](../theory.d/THEORY-189.md)'s radial monotonicity and Bui et
+al.'s Eq. 11, [THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md)): a point inside a cone of the widest
 transitive family is farther from the origin than its apex. Conclusion:
-CLAIM-839's clause "a narrower region counts as progress only while it
+[CLAIM-839](../claims.d/CLAIM-839.md)'s clause "a narrower region counts as progress only while it
 stays correct".
 
 ## Critical questions (formal application)
@@ -59,4 +59,4 @@ informativeness. It supports the clause, not the thesis.
 
 ## Verdict
 
-Supports CLAIM-839's correctness clause with a demonstrated case.
+Supports [CLAIM-839](../claims.d/CLAIM-839.md)'s correctness clause with a demonstrated case.

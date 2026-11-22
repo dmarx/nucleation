@@ -150,7 +150,7 @@ claim as titled, and moves to corroborating it ([ARG-152](../arguments.d/ARG-152
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
 **Supports the separation of entropy from memory, and is silent on
-criticality** (LIT-3010, read in NOTE-tmpe86ty; THEORY-tmpl7rgc now
+criticality** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md); [THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md) now
 `corroborates` this claim). The golden mean, RRXOR and even processes
 share an entropy rate of 2/3 bit and have excess entropies of about
 0.2516, 2 and 0.902 bits; complexity measures "based on multiplying G by

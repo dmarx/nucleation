@@ -63,12 +63,12 @@ balance; connectivity degree; critical region; attractor diversity.
 
 ## Bearing on the record
 
-- **CLAIM-809**: supports the clause that the best distance from the
+- **[CLAIM-809](../claims.d/CLAIM-809.md)**: supports the clause that the best distance from the
   transition depends on the system, here on the sign of the balance:
   peak performance at the critical region for b > 0, inside the
-  disordered region for b < 0 (ARG-tmps7n0g). It is a later qualification
+  disordered region for b < 0 ([ARG-tmps7n0g](../arguments.d/ARG-tmps7n0g.md)). It is a later qualification
   of Bertschinger and Natschläger's "only near the critical boundary"
-  (LIT-2991, read through LIT-tmpdsowv and NOTE-tmpi5t3r), not a
+  ([LIT-2991](../literature.d/LIT-2991.md), read through [LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md) and [NOTE-tmpi5t3r](NOTE-tmpi5t3r.md)), not a
   restatement of it.
 
 ## Limitations

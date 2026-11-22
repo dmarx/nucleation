@@ -28,7 +28,7 @@ summary: >-
   many nonlinear tasks of recent inputs. A local synaptic-scaling rule
   brings networks to the line.
 ---
-<!-- inactive-ok-file: LIT-2991 THEORY-tmps8t83 NOTE-tmpt3dxa ARG-tmp2zz6k ARG-tmps7n0g CLAIM-809 CLAIM-814 CLAIM-850 ARG-148 ARG-128 THEORY-2041 THEORY-tmpye6xs THEORY-2158 — Unavailable, Proposed or new; the work this stands in for, the reading, the supplement and the entries it bears on -->
+<!-- inactive-ok-file: LIT-2991 NOTE-tmpt3dxa ARG-tmp2zz6k CLAIM-809 CLAIM-814 CLAIM-850 ARG-148 ARG-128 THEORY-2041 THEORY-tmpye6xs THEORY-2158 — Unavailable, Proposed or new; the work this stands in for, the reading, the supplement and the entries it bears on -->
 
 # NOTE-tmpi5t3r: Natschläger, Bertschinger & Legenstein — At the Edge of Chaos: Real-time Computations and Self-Organized Criticality in Recurrent Neural Networks
 
@@ -102,7 +102,7 @@ machine; NM-separation; bit-flip probability P_bf; synaptic scaling.
 
 ## Bearing on the record
 
-How far it stands in for LIT-2991. It restates the article's programme
+How far it stands in for [LIT-2991](../literature.d/LIT-2991.md). It restates the article's programme
 and cites it for the experimental details ("for details see [4]", §5); it
 does not restate the article's own model (zero-mean weights), its
 figures or its caveats, and its NM-separation and SOC rule are new to it.
@@ -110,48 +110,48 @@ The article's abstract, read from PubMed, carries the headline both share:
 "only near the critical boundary can such networks perform complex
 computations on time series".
 
-- **CLAIM-809**: qualifies, and its strand 1 is supported. The headline
+- **[CLAIM-809](../claims.d/CLAIM-809.md)**: qualifies, and its strand 1 is supported. The headline
   "only near" is the universal reading the thesis rejects, but the optimum
   is task-averaged by design and no per-task optima are reported, so the
   defeater (every component maximized at the transition for every task)
-  is not met (ARG-tmp2zz6k). Strand 1's mechanism is chaos polluting the
+  is not met ([ARG-tmp2zz6k](../arguments.d/ARG-tmp2zz6k.md)). Strand 1's mechanism is chaos polluting the
   state with initial conditions, not readout noise. The "Misattribution"
   bullet is corrected in place: these three are A's named authors.
-- **QUESTION-507, point 1**: the line K·P_bf = 1 says one flipped node
+- **[QUESTION-507](../questions.d/QUESTION-507.md), point 1**: the line K·P_bf = 1 says one flipped node
   flips on average one node in the next step, a branching ratio of one
   for perturbations (damage), not for activity, which varies along the
   line. That reading of Eq. 1 is the filer's and the reader's inference,
   not the paper's. It is a step relating the edge of chaos to branching
   criticality by the form of their order parameter, not an identification.
-- **CLAIM-850**: a mechanism where an order–chaos edge is a branching
+- **[CLAIM-850](../claims.d/CLAIM-850.md)**: a mechanism where an order–chaos edge is a branching
   condition of perturbations (same inference).
-- **CLAIM-814**: contrast; in the scalar linear model there is no chaotic
+- **[CLAIM-814](../claims.d/CLAIM-814.md)**: contrast; in the scalar linear model there is no chaotic
   side, and here the cost past the edge is loss of fading memory.
-- **ARG-148**: background; the nonlinear tasks it says its case leaves
+- **[ARG-148](../arguments.d/ARG-148.md)**: background; the nonlinear tasks it says its case leaves
   untouched are the tasks here, but no bounded capacity is shown
   redistributed.
-- **THEORY-tmpye6xs**: contrast; opposite transition and opposite
+- **[THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)**: contrast; opposite transition and opposite
   outcome (finite-window optimum subcritical there, near the order–chaos
   line here).
-- **ARG-128**: background; the edge's value that Dambre and colleagues
+- **[ARG-128](../arguments.d/ARG-128.md)**: background; the edge's value that Dambre and colleagues
   carry in from Langton has its empirical support in driven networks here,
   and Langton (1990) is this paper's ref. [1] too.
-- **THEORY-2041**: parallel; the same Derrida-style two-trajectory mean
+- **[THEORY-2041](../theory.d/THEORY-2041.md)**: parallel; the same Derrida-style two-trajectory mean
   field, for recurrent, driven, binary networks rather than deep
   feedforward ones.
-- **THEORY-2158**: contrast, reported to the lead (another filer's
+- **[THEORY-2158](../theory.d/THEORY-2158.md)**: contrast, reported to the lead (another filer's
   entry): a task-family performance, not a total capacity, so no conflict
   with Dambre's bound.
-- **QUESTION-508** (untuned scale invariance) and **LIT-1139** (Gross and
+- **[QUESTION-508](../questions.d/QUESTION-508.md)** (untuned scale invariance) and **[LIT-1139](../literature.d/LIT-1139.md)** (Gross and
   Blasius): §6 is self-organization to the edge by a local adaptive rule,
   after Bornholdt and Röhl (2003), not held. Reported to the lead.
 
-Calvet, Reulet and Rouat (LIT-tmpahs2x, NOTE-tmpt3dxa), a later RBN
+Calvet, Reulet and Rouat ([LIT-tmpahs2x](../literature.d/LIT-tmpahs2x.md), [NOTE-tmpt3dxa](NOTE-tmpt3dxa.md)), a later RBN
 reservoir study read for one passage, qualify the "only near" result.
 
 ## Limitations
 
-- The article itself (LIT-2991) is unread beyond its abstract.
+- The article itself ([LIT-2991](../literature.d/LIT-2991.md)) is unread beyond its abstract.
 - Mean-field (annealed) theory; NM-separation is numerical; N = 500.
 - "Near the line" is read off interpolated gray-scale images (Fig. 3
   caption: "an interpolation between the data points").

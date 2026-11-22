@@ -116,7 +116,7 @@ models; no relation is written.
 
 ## Note of 2026-11-22: Yang, and Lee, Smith, Adam and Hoogland, read
 
-- **Lee et al. (THEORY-tmpm3ux2): uses it.** Their analytic influence in
+- **Lee et al. ([THEORY-tmpm3ux2](THEORY-tmpm3ux2.md)): uses it.** Their analytic influence in
   a deep linear network runs through this reading's closed-form mode
   strength (their Eq. 30). The filer's check of its derivative in the
   signal: at s = 1, τ = 1, g₀ = 10⁻³, ∂g_t/∂s rises from 0 to a peak of
@@ -124,6 +124,6 @@ models; no relation is written.
   larger s both raises the endpoint and brings the rise earlier. Their
   influence peaks follow the hierarchy, which in this model is the order
   of strengths this reading gives.
-- **Yang (THEORY-tmpu0f9k): background.** Cites the saddle-to-saddle
+- **Yang ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md)): background.** Cites the saddle-to-saddle
   plateaus as "reminiscent" of its post-crossing metastability, with no
   derivation joining them.

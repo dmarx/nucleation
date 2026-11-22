@@ -90,7 +90,7 @@ The wording is the assistant's (Claude, in this session); adopting it is the own
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **a weak
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **a weak
 parallel that cannot tell this reading from the owner's.** At random
 weights a deep network's top conjugate-kernel directions are attenuated
 copies of the input Gram matrix's spike eigenvectors (Theorem 3(c)): an

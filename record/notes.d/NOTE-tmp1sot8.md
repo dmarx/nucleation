@@ -47,7 +47,7 @@ from the law of total covariance a between-phase term that can flip sign
 and peak, gives an analytic influence for Saxe's deep linear network
 through the time-dependent mode strengths, and tests the predictions in
 that toy and in small language models, with two time-windowed
-interventions. The reading is THEORY-tmpm3ux2.
+interventions. The reading is [THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md).
 
 ## Key results
 
@@ -126,17 +126,17 @@ singular-mode dynamics; induction score.
 ## Connections
 
 The toy is Saxe, McClelland and Ganguli's semantic-development setting
-(LIT-862, THEORY-186), with the mode dynamics of THEORY-740. The method
-family is Hoogland and colleagues' (LIT-2966, THEORY-tmpr9w2r): SGLD at
+([LIT-862](../literature.d/LIT-862.md), [THEORY-186](../theory.d/THEORY-186.md)), with the mode dynamics of [THEORY-740](../theory.d/THEORY-740.md). The method
+family is Hoogland and colleagues' ([LIT-2966](../literature.d/LIT-2966.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)): SGLD at
 checkpoints with localization γ and fixed nβ, a second-moment observable
 in place of the LLC. A.2's two citations: Carroll, Hoogland,
 Farrugia-Roberts and Murfet 2025 (arXiv 2501.17745), registered here as
-LIT-tmpnwcsg and unread; and Hoogland et al. 2025, the TMLR version of
-LIT-2966, already held and read.
+[LIT-tmpnwcsg](../literature.d/LIT-tmpnwcsg.md) and unread; and Hoogland et al. 2025, the TMLR version of
+[LIT-2966](../literature.d/LIT-2966.md), already held and read.
 
 ## Bearing on the record
 
-- **CLAIM-828** (qualifies its influence step; leaves its thesis
+- **[CLAIM-828](../claims.d/CLAIM-828.md)** (qualifies its influence step; leaves its thesis
   untested). The claim's added step makes the equilibrium derivative
   ∂q*/∂s a step at activation, so every example's influence steps. Lee et
   al.'s own model differs in kind: no gate, no weight decay, influence
@@ -148,38 +148,38 @@ LIT-2966, already held and read.
   g₀ = 10⁻⁴. A larger s also brings the transition earlier, so under
   gradient flow the derivative peaks mid-transition rather than stepping.
   The paper's peak ordering (animal against plant, then mammal against
-  bird) is by signal strength, the order THEORY-740 gives, not by
-  dependency. Not a ground: ARG-tmpe7mqz (Rejected).
-- **QUESTION-tmphkb1w** (adds a named candidate; leaves it open). A.2's
+  bird) is by signal strength, the order [THEORY-740](../theory.d/THEORY-740.md) gives, not by
+  dependency. Not a ground: [ARG-tmpe7mqz](../arguments.d/ARG-tmpe7mqz.md) (Rejected).
+- **[QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md)** (adds a named candidate; leaves it open). A.2's
   Type-B transition is the question's "more degeneracy at equal loss",
   with a name and two sources; the paper places the trade against
   lower-order terms, beyond n L + λ log n. No LLC is measured over
   training here, so no decrease is explained.
-- **QUESTION-363** (bears on it; the paper's own gap). The Bayes-to-SGD
+- **[QUESTION-363](../questions.d/QUESTION-363.md)** (bears on it; the paper's own gap). The Bayes-to-SGD
   link is exactly the question, and the paper leaves it as its "primary
   theoretical gap".
-- **THEORY-tmpr9w2r** (parallel and extends). Same group and method,
+- **[THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)** (parallel and extends). Same group and method,
   stages matched to the same structures (induction). Neither supports nor
   contradicts its sentence.
-- **CLAIM-812, LEAD-207** (their cautions apply). The BIF is run at fixed
+- **[CLAIM-812](../claims.d/CLAIM-812.md), [LEAD-207](../leads.d/LEAD-207.md)** (their cautions apply). The BIF is run at fixed
   nβ and γ; toy settings chosen to match leave-one-out; LM settings in
   nβ ∈ {256, 1024}, γ ∈ {500, 1000} only.
-- **CLAIM-823** (supports its weak half by the same analogy; leaves its
+- **[CLAIM-823](../claims.d/CLAIM-823.md)** (supports its weak half by the same analogy; leaves its
   strong half open). The paper adopts reading (b)'s picture of phases
   competing in a local free energy and uses it to predict influence
   dynamics, but never measures a change of dominant singular region, and
   again names the SGD link as the gap.
-- **CLAIM-802** (background). No resolution or blow-up appears.
-- **LIT-862, THEORY-186, THEORY-740** (background). The toy presupposes
-  them; Eq. 30 is THEORY-740's logistic rise.
-- **CLAIM-807** (the base of CLAIM-828's step; the same qualification).
-- **CLAIM-774** (background). The same model; a different optimizer
+- **[CLAIM-802](../claims.d/CLAIM-802.md)** (background). No resolution or blow-up appears.
+- **[LIT-862](../literature.d/LIT-862.md), [THEORY-186](../theory.d/THEORY-186.md), [THEORY-740](../theory.d/THEORY-740.md)** (background). The toy presupposes
+  them; Eq. 30 is [THEORY-740](../theory.d/THEORY-740.md)'s logistic rise.
+- **[CLAIM-807](../claims.d/CLAIM-807.md)** (the base of [CLAIM-828](../claims.d/CLAIM-828.md)'s step; the same qualification).
+- **[CLAIM-774](../claims.d/CLAIM-774.md)** (background). The same model; a different optimizer
   would move the timing of the influence peaks.
-- **QUESTION-511** (parallel). Between-phase influence picks out the
+- **[QUESTION-511](../questions.d/QUESTION-511.md)** (parallel). Between-phase influence picks out the
   samples on which phases disagree.
-- **THEORY-1275, NOTE-1188** (background). The developmental-
+- **[THEORY-1275](../theory.d/THEORY-1275.md), [NOTE-1188](NOTE-1188.md)** (background). The developmental-
   interpretability line the paper places itself in.
-- **QUESTION-217** (bears on it; another filer's file). In this one model,
+- **[QUESTION-217](../questions.d/QUESTION-217.md)** (bears on it; another filer's file). In this one model,
   influence peaks follow the refinement (hierarchy) order.
 
 ## Limitations

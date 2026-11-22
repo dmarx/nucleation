@@ -16,13 +16,13 @@ date: '2026-11-22'
 source:
 - LIT-2984
 summary: >-
-  Wang, Wu and Fan, LIT-2984, read in NOTE-tmpa8a45. At random weights an
+  Wang, Wu and Fan, [LIT-2984](../literature.d/LIT-2984.md), read in [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md). At random weights an
   input spike survives each layer only past a BBP-type test, and depth can
   only lose outliers and alignment. After training the rank-one weight
   update exists for any step size, but the weights' top singular value
   separates only above one threshold and the kernel's outlier needs a
-  second condition. Grounds CLAIM-799 as a third case of signal before
-  outlier (ARG-tmppbt1o).
+  second condition. Grounds [CLAIM-799](../claims.d/CLAIM-799.md) as a third case of signal before
+  outlier ([ARG-tmppbt1o](../arguments.d/ARG-tmppbt1o.md)).
 ---
 <!-- inactive-ok-file: CLAIM-799 ARG-tmppbt1o — Proposed or new; the claim this reading grounds and the argument for it -->
 
@@ -32,7 +32,7 @@ summary: >-
 
 Zhichao Wang, Denny Wu and Zhou Fan, "Nonlinear spiked covariance matrices
 and signal propagation in deep neural networks", arXiv 2402.10127, COLT
-2024, LIT-2984, read in NOTE-tmpa8a45.
+2024, [LIT-2984](../literature.d/LIT-2984.md), read in [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md).
 
 ## What was actually shown
 

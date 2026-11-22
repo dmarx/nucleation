@@ -533,13 +533,13 @@ classify, is [CLAIM-826](CLAIM-826.md). No status change.
 
 ## Note of 2026-11-22: Toner and Tu (1998), read
 
-The long paper (LIT-2970, NOTE-tmpcjw5n; the reading is THEORY-tmpdfeto)
+The long paper ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md))
 **supports the claim's first half for a flock, as the 1995 letter did**
-(NOTE-1228): the speed fluctuation is slaved to the density gradient,
+([NOTE-1228](../notes.d/NOTE-1228.md)): the speed fluctuation is slaved to the density gradient,
 δv∥ = −Dρ∂∥δρ, by neglecting ∂tδv∥ "relative to αδv∥" (eqs. 3.1–3.2,
 p. 19), so the fast variable settles into a relation that constrains the
 slow ones. It adds the authors' own word for the slow transverse modes,
 "Goldstone modes" (abstract), which mix with the conserved density to
 make sound: the claim's "organization can make new rate differences",
-by symmetry breaking. THEORY-tmpdfeto `corroborates` the claim. No status
+by symmetry breaking. [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) `corroborates` the claim. No status
 change.

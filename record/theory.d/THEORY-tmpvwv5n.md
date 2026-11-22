@@ -17,12 +17,12 @@ date: '2026-11-22'
 source:
 - LIT-2975
 summary: >-
-  Cai and colleagues, LIT-2975, read in NOTE-tmpll97d. InfoNCE's
+  Cai and colleagues, [LIT-2975](../literature.d/LIT-2975.md), read in [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md). InfoNCE's
   large-batch limit is a passive, variational energy over the
   representation's law: one free energy with a Gibbs equilibrium for one
   modality, one joint energy with a repulsive cross-modal term for two.
-  Grounds CLAIM-798's weak reading and gives nothing toward its strong one
-  (ARG-tmpy3i66).
+  Grounds [CLAIM-798](../claims.d/CLAIM-798.md)'s weak reading and gives nothing toward its strong one
+  ([ARG-tmpy3i66](../arguments.d/ARG-tmpy3i66.md)).
 ---
 <!-- inactive-ok-file: CLAIM-798 ARG-tmpy3i66 — Proposed or new; the claim this reading grounds and the argument for it -->
 
@@ -33,7 +33,7 @@ summary: >-
 Yichao Cai, Zhen Zhang, Yuhang Liu and Javen Qinfeng Shi, "The Geometric
 Mechanics of Contrastive Representation Learning: Alignment Potentials,
 Entropic Dispersion, and Cross-modal Divergence", ICML 2026, arXiv
-2601.19597, LIT-2975, read in NOTE-tmpll97d.
+2601.19597, [LIT-2975](../literature.d/LIT-2975.md), read in [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md).
 
 ## What was actually shown
 

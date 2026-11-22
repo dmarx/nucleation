@@ -225,7 +225,7 @@ reported by Tirer & Bruna, Rangamani et al. and He & Su.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a parallel.** The
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **a parallel.** The
 empirical, feature-learning counterpart of this reading's question of how
 the data affects collapse: under coarse labels the input's fine structure
 survives collapse in ResNet and DenseNet, not in VGG. No relation.

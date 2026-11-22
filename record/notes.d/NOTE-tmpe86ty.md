@@ -52,7 +52,7 @@ intuitions known to a number of researchers" (§I).
   Upper).
 - **Finite-L estimates** (§IV): E(L) = H(L) − L hµ(L) (Eq. 60), E′(L) the
   mutual information between the halves of an L-block (Eq. 61, = 2H(L/2)
-  − H(L)); Lemma 3: "E′(L) ≤ E(L) ≤ E". TERM-141's I_pred(T) is E′(2T).
+  − H(L)); Lemma 3: "E′(L) ≤ E(L) ≤ E". [TERM-141](../terms.d/TERM-141.md)'s I_pred(T) is E′(2T).
 - **Finitary and infinitary** (§IV): "A process is finitary if its excess
   entropy is finite" (Def. 1); finitary processes have hµ(L) − hµ < A/L
   (Prop. 9); "For infinitary processes hµ(L) decays at or slower than
@@ -115,43 +115,43 @@ Markov model; weak Bernoulli.
 
 ## Check
 
-The filer computed TERM-141's 2H(T) − H(2T) for the Thue–Morse sequence
+The filer computed [TERM-141](../terms.d/TERM-141.md)'s 2H(T) − H(2T) for the Thue–Morse sequence
 from a 2²¹-symbol prefix with `python3 -I`: 0.59, 2.09, 3.34, 4.46 and
 5.52 bits at T = 2, 4, 8, 16 and 32, about 1.1 bits per doubling,
 logarithmic growth as the paper reports for E(L).
 
 ## Bearing on the record
 
-- **LIT-3010**: the exchange invoked it for "excess entropy as the measure
+- **[LIT-3010](../literature.d/LIT-3010.md)**: the exchange invoked it for "excess entropy as the measure
   of a process's stored structure": fair for stored information,
   overstated for "the measure". E is "a measure of one kind of memory".
-  Corrected in the LIT and in TERM-141.
-- **TERM-141**: supports the definition and its identities; adds Lemma 3;
+  Corrected in the LIT and in [TERM-141](../terms.d/TERM-141.md).
+- **[TERM-141](../terms.d/TERM-141.md)**: supports the definition and its identities; adds Lemma 3;
   qualifies the regimes (Thue–Morse: logarithmic growth with no parameter,
   under condition 2); corrects "the measure of structure". Made in place
   there (version 2).
-- **THEORY-2151, LIT-3008, NOTE-2243**: parallel, with a stated contrast.
+- **[THEORY-2151](../theory.d/THEORY-2151.md), [LIT-3008](../literature.d/LIT-3008.md), [NOTE-2243](NOTE-2243.md)**: parallel, with a stated contrast.
   The paper treats E and Bialek and colleagues' predictive information as
   one quantity (its alias list), reports their Ising exponents, and says
   their parameter-count result "holds in a slightly different context".
-  It corroborates NOTE-2243's identification of S₁ with E when finite; it
+  It corroborates [NOTE-2243](NOTE-2243.md)'s identification of S₁ with E when finite; it
   does not take up their divergence-at-criticality assertion.
-- **CLAIM-805**: supports the separation of entropy and memory (equal hµ,
+- **[CLAIM-805](../claims.d/CLAIM-805.md)**: supports the separation of entropy and memory (equal hµ,
   unequal E; hµ·G measures rejected as functions of disorder);
-  THEORY-tmpl7rgc `corroborates` it. Silent on criticality.
-- **QUESTION-507**: background; measures a capacity study could use, and
+  [THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md) `corroborates` it. Silent on criticality.
+- **[QUESTION-507](../questions.d/QUESTION-507.md)**: background; measures a capacity study could use, and
   the finite-window warning (Props. 13–15) for point 2.
-- **QUESTION-517, LEAD-208**: two-dimensional excess entropies differ by
-  definition, so LEAD-208's step 3 must choose one.
-- **NOTE-689, THEORY-784**: parallel. Their Hypothesis 1, H_n − H_∞ ≍
+- **[QUESTION-517](../questions.d/QUESTION-517.md), [LEAD-208](../leads.d/LEAD-208.md)**: two-dimensional excess entropies differ by
+  definition, so [LEAD-208](../leads.d/LEAD-208.md)'s step 3 must choose one.
+- **[NOTE-689](NOTE-689.md), [THEORY-784](../theory.d/THEORY-784.md)**: parallel. Their Hypothesis 1, H_n − H_∞ ≍
   n^(−γ) with γ ≈ 0.27–0.33, is this paper's power-law entropy
   convergence, which makes the token process infinitary.
-- **NOTE-1372** (Shalizi and Crutchfield): parallel; "Excess entropy is a
+- **[NOTE-1372](NOTE-1372.md)** (Shalizi and Crutchfield): parallel; "Excess entropy is a
   lower bound on stored memory, not a measure of it" is the lesson of the
   simple nondeterministic source.
-- **CLAIM-849, ARG-152, ARG-154, SYNTHESIS-119**: background, the same
-  quantity; no bearing beyond TERM-141's; no notes filed.
-- **NOTE-978**: its "Eq. (106) of Feldman and Crutchfield" is not this
+- **[CLAIM-849](../claims.d/CLAIM-849.md), [ARG-152](../arguments.d/ARG-152.md), [ARG-154](../arguments.d/ARG-154.md), [SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)**: background, the same
+  quantity; no bearing beyond [TERM-141](../terms.d/TERM-141.md)'s; no notes filed.
+- **[NOTE-978](NOTE-978.md)**: its "Eq. (106) of Feldman and Crutchfield" is not this
   paper's (whose equations stop near 105 and none bounds Cµ); unidentified,
   reported to the lead.
 

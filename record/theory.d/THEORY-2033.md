@@ -48,7 +48,7 @@ It does not show which encoder gradient training reaches, what happens at finite
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **qualifies, and
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](THEORY-tmpvwv5n.md)): **qualifies, and
 goes further.** They prove a closed-form large-batch limit at finite τ, in
 value and gradient, beyond the asymptotic decomposition read here, and
 reread uniformity as "entropy-driven spreading inside the alignment basin"

@@ -60,8 +60,8 @@ The thresholds the exchange relates to cones are compared in [CLAIM-827](../clai
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **background,
-through CLAIM-800.** No cones; its coarse-label experiments show a collapse
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **background,
+through [CLAIM-800](../claims.d/CLAIM-800.md).** No cones; its coarse-label experiments show a collapse
 measure saturating while finer distinctions stay decodable, which is why a
-cone measure needs an independent decodability check (CLAIM-800's note).
+cone measure needs an independent decodability check ([CLAIM-800](../claims.d/CLAIM-800.md)'s note).
 No relation.

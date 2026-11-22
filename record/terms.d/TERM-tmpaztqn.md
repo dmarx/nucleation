@@ -15,12 +15,12 @@ draws_on:
 - THEORY-tmpttfgp
 - THEORY-756
 summary: >-
-  Shalizi and Moore's definition (LIT-2996, §IV.A, read in NOTE-tmpunt6q;
-  THEORY-tmpttfgp): a relation of "emergence" between two sets of causal
+  Shalizi and Moore's definition ([LIT-2996](../literature.d/LIT-2996.md), §IV.A, read in [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md);
+  [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)): a relation of "emergence" between two sets of causal
   variables "if (1) one is a coarse-graining of the other and (2) the
   coarse-grained variables can be predicted more efficiently", efficiency
   being E/Cµ after Palmer. Their case: argon's internal energy at a 1 ms
-  step, 0.87, against its microstate at 1 ns, 0.5. Fills a gap: NOTE-935
+  step, 0.87, against its microstate at 1 ns, 0.5. Fills a gap: [NOTE-935](../notes.d/NOTE-935.md)
   compares Seth's Granger emergence with "Shalizi and Moore's predictive
   efficiency", and the record held no entry for it. The wording is the
   assistant's (Claude, in this session), the definition Shalizi and
@@ -33,9 +33,9 @@ summary: >-
 ## Definition
 
 Take a process and two sets of causal variables for it, each the causal
-states (TERM-062) of some observation of it, with statistical complexity
+states ([TERM-062](TERM-062.md)) of some observation of it, with statistical complexity
 Cµ (the entropy of the causal states) and excess entropy E (the
-information past and future share, TERM-141). The **predictive
+information past and future share, [TERM-141](TERM-141.md)). The **predictive
 efficiency** of a description is E/Cµ, "the fraction of the information
 it contains which actually effects the future" (after Palmer). A
 description A is **emergent** from B when
@@ -47,7 +47,7 @@ When A is a coarse-graining of B and is predicted *less* efficiently,
 the relation is what Crutchfield called **submergence** (Shalizi and
 Moore, §IV.A, after a personal communication).
 
-Since E ≤ Cµ for causal states (THEORY-756), the efficiency lies in
+Since E ≤ Cµ for causal states ([THEORY-756](../theory.d/THEORY-756.md)), the efficiency lies in
 [0, 1].
 
 ## The case
@@ -77,21 +77,21 @@ informative about their own dynamics."
 
 ## What it is not
 
-- **Not Granger emergence** (Seth, NOTE-935), which asks whether a macro
+- **Not Granger emergence** (Seth, [NOTE-935](../notes.d/NOTE-935.md)), which asks whether a macro
   variable is autonomous from, and G-caused by, its micro variables.
-- **Not dynamical independence** (THEORY-257) or informational closure
-  (THEORY-820), which condition on the microscopic past; this relation
+- **Not dynamical independence** ([THEORY-257](../theory.d/THEORY-257.md)) or informational closure
+  ([THEORY-820](../theory.d/THEORY-820.md)), which condition on the microscopic past; this relation
   compares each description's prediction of itself.
-- **Not the "predictive efficiency" of THEORY-026** (Still and
-  colleagues, named so in NOTE-416), which is the thermodynamic efficiency
+- **Not the "predictive efficiency" of [THEORY-026](../theory.d/THEORY-026.md)** (Still and
+  colleagues, named so in [NOTE-416](../notes.d/NOTE-416.md)), which is the thermodynamic efficiency
   of a driven system's memory, a different quantity.
 - **Not symmetric.** By the definition a description cannot be emergent
   from one and also have that one emergent from it, since each requires
   the other to be its coarse-graining with lower efficiency. Shalizi and
   Moore's §IV.B says both of the hydrodynamic and thermodynamic levels,
-  which is a slip by this definition (NOTE-tmpunt6q, Limitations).
+  which is a slip by this definition ([NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md), Limitations).
 
 ## Sources
 
-Shalizi and Moore 2003 (LIT-2996, read 2026-11-22 in NOTE-tmpunt6q; the
-reading is THEORY-tmpttfgp). Used by CLAIM-tmp3ima1.
+Shalizi and Moore 2003 ([LIT-2996](../literature.d/LIT-2996.md), read 2026-11-22 in [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md); the
+reading is [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). Used by [CLAIM-tmp3ima1](../claims.d/CLAIM-tmp3ima1.md).

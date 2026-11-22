@@ -100,7 +100,7 @@ potential.
 
 ## Connections
 
-It rereads Wang and Isola's alignment and uniformity (THEORY-2033) as basin
+It rereads Wang and Isola's alignment and uniformity ([THEORY-2033](../theory.d/THEORY-2033.md)) as basin
 selection plus entropy, and places itself beside the density-ratio view of
 contrastive learning, which it says does "not directly describe the
 deterministic descent directions induced by the softmax denominator". Not
@@ -110,18 +110,18 @@ relied on here.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpvwv5n. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md). Dated notes of 2026-11-22 on each entry below.
 
-- **CLAIM-798**: supports the weak reading only, and replaces LIT-2975 in
-  its grounds (ARG-tmpy3i66). Two characterizations the claim carried
+- **[CLAIM-798](../claims.d/CLAIM-798.md)**: supports the weak reading only, and replaces [LIT-2975](../literature.d/LIT-2975.md) in
+  its grounds ([ARG-tmpy3i66](../arguments.d/ARG-tmpy3i66.md)). Two characterizations the claim carried
   from A29 are corrected there: the paper declines the "attraction–
   repulsion energy on the sphere" for one modality, and its "bifurcation"
   is between two objectives.
-- **THEORY-2033**, **CLAIM-762**: qualifies, by resolving the tension
+- **[THEORY-2033](../theory.d/THEORY-2033.md)**, **[CLAIM-762](../claims.d/CLAIM-762.md)**: qualifies, by resolving the tension
   between alignment and uniformity as basin selection and spreading.
-- **QUESTION-515**, **CLAIM-818**, **ARG-126**, **THEORY-305**,
-  **THEORY-2012**, **CLAIM-821**, **CLAIM-797**, **CLAIM-822**,
-  **CLAIM-838**, **LEAD-210**: background, parallel or contrast.
+- **[QUESTION-515](../questions.d/QUESTION-515.md)**, **[CLAIM-818](../claims.d/CLAIM-818.md)**, **[ARG-126](../arguments.d/ARG-126.md)**, **[THEORY-305](../theory.d/THEORY-305.md)**,
+  **[THEORY-2012](../theory.d/THEORY-2012.md)**, **[CLAIM-821](../claims.d/CLAIM-821.md)**, **[CLAIM-797](../claims.d/CLAIM-797.md)**, **[CLAIM-822](../claims.d/CLAIM-822.md)**,
+  **[CLAIM-838](../claims.d/CLAIM-838.md)**, **[LEAD-210](../leads.d/LEAD-210.md)**: background, parallel or contrast.
 
 Nothing here is filed as an instruction for machine-learning practice.
 

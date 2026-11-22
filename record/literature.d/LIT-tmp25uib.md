@@ -54,9 +54,9 @@ https://www.math.ucdavis.edu/~bxn/mermin-wagner.pdf
 
 ## Standing in the record
 
-Registered as a stand-in for Mermin and Wagner (1966), LIT-2985, which is
-Unavailable (ADR-114). It stands in for the statement only: its proof is
+Registered as a stand-in for Mermin and Wagner (1966), [LIT-2985](LIT-2985.md), which is
+Unavailable ([ADR-114](../decisions.d/ADR-114.md)). It stands in for the statement only: its proof is
 not Mermin and Wagner's. Its first sentence glosses the 1966 result more
-broadly than the paper's own model (Halperin, LIT-tmp3zns2). That it needs
-no translation invariance bears on CLAIM-842, whose interaction graphs are
+broadly than the paper's own model (Halperin, [LIT-tmp3zns2](LIT-tmp3zns2.md)). That it needs
+no translation invariance bears on [CLAIM-842](../claims.d/CLAIM-842.md), whose interaction graphs are
 irregular.

@@ -171,7 +171,7 @@ form** ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)):
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **a parallel;
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **a parallel;
 supports the claim's last clause and runs the other way.** This claim has
 the participation ratio failing to track intrinsic dimension from below:
 smooth codes of m = 20 to 100 all give D_PR near 20 to 29 at width 768.

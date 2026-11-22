@@ -97,7 +97,7 @@ says how dimension affects radial depth.
 
 Two readings, two kinds of bearing.
 
-- **Ghadimi Atigh et al. (THEORY-tmpsj6u9, NOTE-tmpyyvdy): weakly
+- **Ghadimi Atigh et al. ([THEORY-tmpsj6u9](../theory.d/THEORY-tmpsj6u9.md), [NOTE-tmpyyvdy](../notes.d/NOTE-tmpyyvdy.md)): weakly
   supports the worry.** The paper relies on depth by radius ("general
   concepts lie closer to the origin and more specific concepts closer to
   the boundary", §3.2), and adds a Busemann term because the
@@ -105,10 +105,10 @@ Two readings, two kinds of bearing.
   internal classes". The radial range has to be enforced by a term of its
   own, not had for free. It sets the dimension to c − 1 without remarking
   on concentration, so it does not test the 1/(D − 1) heuristic.
-- **Bui et al. (THEORY-tmpe9367, NOTE-tmpvu3vp): a parallel.** They
+- **Bui et al. ([THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md), [NOTE-tmpvu3vp](../notes.d/NOTE-tmpvu3vp.md)): a parallel.** They
   rescale ‖z‖ by √d and clip at ζ (§4.4), a practical answer to the same
   narrow-norm problem, though their radius means certainty, not depth.
   And in their scheme each cone-constrained update raises the item's norm
-  (CLAIM-tmpxcy5s, the assistant's), so successive generations spend the
+  ([CLAIM-tmpxcy5s](CLAIM-tmpxcy5s.md), the assistant's), so successive generations spend the
   radial range this claim says is narrow; the clipping radius has to be
   raised at each update. No edge.

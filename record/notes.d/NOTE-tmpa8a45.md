@@ -49,7 +49,7 @@ summary: >-
    Corollary 4).
 4. The test-data conjugate kernel's spike and its label alignment after a
    few gradient steps (Theorem 5), proving Conjecture 4 of Ba and
-   colleagues (LIT-tmpnwvnx).
+   colleagues ([LIT-tmpnwvnx](../literature.d/LIT-tmpnwvnx.md)).
 
 ## Key insight
 
@@ -116,39 +116,39 @@ whatever the step size, but an outlier shows only above a threshold.
   sub-threshold eigenvectors.
 - **Uninformative spike eigenvalues**: outliers of the CK that carry no
   input structure, from non-odd activations (Benigni and Péché,
-  LIT-tmp9isrs), assumed away here.
+  [LIT-tmp9isrs](../literature.d/LIT-tmp9isrs.md)), assumed away here.
 - "Bulk" is used by count throughout ("bulk spectrum").
 
 ## Connections
 
 The η of order one regime is the bounded-step sibling of Dandi and
-colleagues' maximal-update step (NOTE-tmpdac0o): here learning shows as one
+colleagues' maximal-update step ([NOTE-tmpdac0o](NOTE-tmpdac0o.md)): here learning shows as one
 outlier beside the untrained bulk law, there chiefly as a reshaped bulk.
-The paper cites Moniri and colleagues (LIT-tmp4kae5) as "an asymptotic
-regime different from ours". Park and colleagues (NOTE-tmpzethm) cite it as
+The paper cites Moniri and colleagues ([LIT-tmp4kae5](../literature.d/LIT-tmp4kae5.md)) as "an asymptotic
+regime different from ours". Park and colleagues ([NOTE-tmpzethm](NOTE-tmpzethm.md)) cite it as
 prior BBP-in-networks work; their critical time is the analogue of Fig.
 3(b)'s threshold in learning rate times steps. It also cites Ben Arous and
-colleagues (LIT-tmp810d2) for spike structure in the Hessian under SGD.
-CASE-301 is Corollary 4's input before any layer.
+colleagues ([LIT-tmp810d2](../literature.d/LIT-tmp810d2.md)) for spike structure in the Hessian under SGD.
+[CASE-301](../cases.d/CASE-301.md) is Corollary 4's input before any layer.
 
 ## Bearing on the record
 
-Filed as THEORY-tmp9ltxi. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md). Dated notes of 2026-11-22 on each entry below.
 
-- **LIT-2984's own summary overstated**: "propagate, grow or vanish". In
+- **[LIT-2984](../literature.d/LIT-2984.md)'s own summary overstated**: "propagate, grow or vanish". In
   the theory spikes never grow with depth; growth appears only in one
   simulation of a trained network (Fig. 2(b)). Corrected there.
-- **CLAIM-799**: supports, a third case of signal before outlier; the
-  reading replaces LIT-2984 in its grounds (ARG-tmppbt1o).
-- **CASE-301**: Corollary 4 extends the construction through L random
+- **[CLAIM-799](../claims.d/CLAIM-799.md)**: supports, a third case of signal before outlier; the
+  reading replaces [LIT-2984](../literature.d/LIT-2984.md) in its grounds ([ARG-tmppbt1o](../arguments.d/ARG-tmppbt1o.md)).
+- **[CASE-301](../cases.d/CASE-301.md)**: Corollary 4 extends the construction through L random
   layers.
-- **CLAIM-tmp2r6ur** (leaves open, against the stop-word half),
-  **CLAIM-tmp9atj9** (cannot tell its readings apart), **CLAIM-tmpufbx6**
-  (weak parallel), **TERM-tmpf5ymd** (an instance by count), **CLAIM-837**
-  and **CLAIM-804** (parallels), **CLAIM-827**, **THEORY-420**,
-  **THEORY-106**, **NOTE-519** (background), **LEAD-210** (a calibration
-  case), **LIT-tmpnwvnx** (its conjecture proved).
-- Registered from this reading: Benigni and Péché (LIT-tmp9isrs), whose
+- **[CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md)** (leaves open, against the stop-word half),
+  **[CLAIM-tmp9atj9](../claims.d/CLAIM-tmp9atj9.md)** (cannot tell its readings apart), **[CLAIM-tmpufbx6](../claims.d/CLAIM-tmpufbx6.md)**
+  (weak parallel), **[TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md)** (an instance by count), **[CLAIM-837](../claims.d/CLAIM-837.md)**
+  and **[CLAIM-804](../claims.d/CLAIM-804.md)** (parallels), **[CLAIM-827](../claims.d/CLAIM-827.md)**, **[THEORY-420](../theory.d/THEORY-420.md)**,
+  **[THEORY-106](../theory.d/THEORY-106.md)**, **[NOTE-519](NOTE-519.md)** (background), **[LEAD-210](../leads.d/LEAD-210.md)** (a calibration
+  case), **[LIT-tmpnwvnx](../literature.d/LIT-tmpnwvnx.md)** (its conjecture proved).
+- Registered from this reading: Benigni and Péché ([LIT-tmp9isrs](../literature.d/LIT-tmp9isrs.md)), whose
   uninformative spikes might bear on the stop-word half directly.
 - Cited and not registered: Fan and Wang 2020 (deep CK spectra), Bai and
   Yao 2012, Ba and colleagues 2023, Wei, Hu and Steinhardt 2022, Chouard

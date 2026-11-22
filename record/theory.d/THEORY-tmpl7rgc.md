@@ -18,13 +18,13 @@ bears_on:
 corroborates:
 - CLAIM-805
 summary: >-
-  Crutchfield and Feldman (2003), LIT-3010, read from the 2001 arXiv
-  preprint in NOTE-tmpe86ty. One derivative-and-integral hierarchy of the
+  Crutchfield and Feldman (2003), [LIT-3010](../literature.d/LIT-3010.md), read from the 2001 arXiv
+  preprint in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md). One derivative-and-integral hierarchy of the
   block entropy gathers the entropy rate, the predictability gain, the
   excess entropy and a new transient information. Excess entropy is "one
   kind of memory": equal for processes the transient information tells
   apart, and small for a source whose optimal predictor has infinitely
-  many states. Drawn on by TERM-141; corroborates CLAIM-805's separation
+  many states. Drawn on by [TERM-141](../terms.d/TERM-141.md); corroborates [CLAIM-805](../claims.d/CLAIM-805.md)'s separation
   of entropy from memory.
 ---
 <!-- inactive-ok-file: TERM-141 CLAIM-805 — Proposed; the term that draws on this reading and the claim it corroborates -->
@@ -35,8 +35,8 @@ summary: >-
 ## Source
 
 Crutchfield and Feldman, "Regularities Unseen, Randomness Observed:
-Levels of Entropy Convergence", Chaos 13, 25–54 (2003), LIT-3010, read
-from the arXiv v1 preprint of cond-mat/0102181 (2001) in NOTE-tmpe86ty.
+Levels of Entropy Convergence", Chaos 13, 25–54 (2003), [LIT-3010](../literature.d/LIT-3010.md), read
+from the arXiv v1 preprint of cond-mat/0102181 (2001) in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md).
 
 ## What was actually shown
 
@@ -82,10 +82,10 @@ neither holds.
 
 ## Connections
 
-Drawn on by TERM-141. Corroborates CLAIM-805 (entropy and memory are
-distinct). Parallel to NOTE-1372 (Shalizi and Crutchfield, excess entropy
-a lower bound on stored memory) and to THEORY-2151 (Bialek and
+Drawn on by [TERM-141](../terms.d/TERM-141.md). Corroborates [CLAIM-805](../claims.d/CLAIM-805.md) (entropy and memory are
+distinct). Parallel to [NOTE-1372](../notes.d/NOTE-1372.md) (Shalizi and Crutchfield, excess entropy
+a lower bound on stored memory) and to [THEORY-2151](THEORY-2151.md) (Bialek and
 colleagues' predictive information, the same quantity). Bears on
-QUESTION-517 and LEAD-208 (two-dimensional definitions diverge), and on
-NOTE-689 and THEORY-784 (language's power-law entropy convergence is
+[QUESTION-517](../questions.d/QUESTION-517.md) and [LEAD-208](../leads.d/LEAD-208.md) (two-dimensional definitions diverge), and on
+[NOTE-689](../notes.d/NOTE-689.md) and [THEORY-784](THEORY-784.md) (language's power-law entropy convergence is
 infinitary).

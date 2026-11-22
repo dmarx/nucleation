@@ -185,7 +185,7 @@ A parallel ([NOTE-2138](../notes.d/NOTE-2138.md)): McDermott and colleagues' Cor
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a parallel and
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **a parallel and
 a contrast.** Their residual fine structure under coarse labels is the
 kind of information transfer to other classes would need, and it survives
 collapse in ResNet; but they do not test transfer, and this account's

@@ -75,7 +75,7 @@ The other assistant's development (A30–A35), filed as A's:
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **background.**
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **background.**
 A population energy for contrastive representations on a compact manifold,
 with experiments in two and three dimensions; it does not treat
 concentration of measure in high dimension. No relation.

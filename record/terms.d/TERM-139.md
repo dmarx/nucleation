@@ -125,19 +125,19 @@ Two readings of 2026-11-22 give the term's sense in cases the Examples
 lack; both are `draws_on`.
 
 - **A coupling whose relevance turns on dimension.** In the KPZ equation
-  (Kardar, Parisi and Zhang, LIT-2978, NOTE-tmpf6isj; THEORY-tmpo3w5v)
+  (Kardar, Parisi and Zhang, [LIT-2978](../literature.d/LIT-2978.md), [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md); [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md))
   the nonlinearity λ is relevant in d = 1, "marginally relevant, and
   grows under rescaling" in d = 2, and "irrelevant" when small for d ≥ 3
   (pp. 891–892), from dλ̄/dl = ((2 − d)/2)λ̄ + K_d((2d − 3)/4d)λ̄³. Above
   two dimensions a fixed point at finite coupling separates the two
-  basins (Le Doussal, THEORY-tmpdcfxq): one perturbation, three verdicts,
+  basins (Le Doussal, [THEORY-tmpdcfxq](../theory.d/THEORY-tmpdcfxq.md)): one perturbation, three verdicts,
   by dimension.
 - **A line of fixed points.** In the 2D XY model (Drouin-Touchette,
-  LIT-tmp6hh1r, NOTE-tmpurjns; THEORY-tmpaojie) the vortex fugacity y is
+  [LIT-tmp6hh1r](../literature.d/LIT-tmp6hh1r.md), [NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md); [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md)) the vortex fugacity y is
   irrelevant below T_KT and relevant above, and the stiffness K is
   marginal along the line, "a line of fixed points at which y0 = 0"
   (§3.3), so the phase is a family of fixed points, each with no relevant
   direction.
 
-Toner and Tu (LIT-2970) and Takeuchi and Sano (LIT-2982) use the words in
+Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md)) and Takeuchi and Sano ([LIT-2982](../literature.d/LIT-2982.md)) use the words in
 this sense too; background only.

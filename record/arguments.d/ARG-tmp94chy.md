@@ -14,12 +14,12 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Martínez-Sánchez and colleagues (THEORY-tmpc73s5, NOTE-tmpi0o71) define
+  Martínez-Sánchez and colleagues ([THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md)) define
   their causality as information about a target's future, emerging "as a
   result of transitional probabilities between states", and still describe
   their forward unique terms as "the forward energy cascade of causality"
   and "no new information is conveyed from the smaller scales". That is
-  CLAIM-335's distinction, prediction against flow, met by a sibling
+  [CLAIM-335](../claims.d/CLAIM-335.md)'s distinction, prediction against flow, met by a sibling
   measure, and the slide across it made in print. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -29,7 +29,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-335: transfer entropy "measures directed predictive improvement, not
+[CLAIM-335](../claims.d/CLAIM-335.md): transfer entropy "measures directed predictive improvement, not
 information flow", being unique information plus synergy with the
 target's past. SURD (eq. 1, p. 3) splits H(Q⁺ⱼ), the entropy of a target's
 future, into redundant, unique and synergistic parts of I(Q⁺ⱼ; Q) plus a
@@ -59,6 +59,6 @@ the smaller scales to the larger scales".
 
 ## Verdict
 
-Supports CLAIM-335's first half by a sibling measure, and shows the slide
+Supports [CLAIM-335](../claims.d/CLAIM-335.md)'s first half by a sibling measure, and shows the slide
 from prediction to flow it warns against; nothing on the composition of
 transfer entropy. Proposed.

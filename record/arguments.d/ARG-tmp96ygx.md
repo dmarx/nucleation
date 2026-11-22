@@ -14,10 +14,10 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  In Yang, Steinhardt and Hu (THEORY-tmp8sxta, NOTE-tmpl260d) NC1 goes to
+  In Yang, Steinhardt and Hu ([THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md)) NC1 goes to
   zero on five coarse labels while label-free clustering plus a linear
   probe recovers the ten original classes at over 93%: a concrete case of
-  CLAIM-800's reason for measuring decodability level by level. It does not
+  [CLAIM-800](../claims.d/CLAIM-800.md)'s reason for measuring decodability level by level. It does not
   test the claim's chain-rule diagnostic, and the fine-before-coarse order
   it reports is in distances, not decodability. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
@@ -28,7 +28,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-800, from A35 §4: occupancy rises under collapse "while
+[CLAIM-800](../claims.d/CLAIM-800.md), from A35 §4: occupancy rises under collapse "while
 discriminative information falls", so "cone occupancy alone is not a
 sufficient learning metric", and §6: fine structure can sit latent under
 coarse labels, so both the information present and the information
@@ -56,7 +56,7 @@ coarse labels are provided the entire time."
 
 ## Verdict
 
-Supports CLAIM-800 as an existence case for its motivating point, and
+Supports [CLAIM-800](../claims.d/CLAIM-800.md) as an existence case for its motivating point, and
 shows that "recoverable by clustering" meant linearly decodable after
 label-free clustering. It does not test the chain-rule diagnostic, since
 the paper measures no level-wise information over time. Proposed.

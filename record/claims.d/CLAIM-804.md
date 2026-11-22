@@ -143,7 +143,7 @@ attractor. The contrast stands. No edge. Status unchanged.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **a parallel.** A cascade of detectability thresholds, run in depth
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **a parallel.** A cascade of detectability thresholds, run in depth
 rather than in rank: at random weights the set of spikes that still give
 outliers shrinks layer by layer, Iℓ ⊆ Iℓ−1, each layer adding a BBP-type
 test. No power law in rank, so it does not bear on this claim's count. A

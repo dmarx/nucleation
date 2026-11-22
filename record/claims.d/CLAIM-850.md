@@ -185,8 +185,8 @@ edge. Status unchanged.
 ## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
 
 **Qualifies "Where they meet": a further mechanism**, no edge. In driven
-random threshold networks (LIT-tmpdsowv, read in NOTE-tmpi5t3r in place
-of Bertschinger and Natschläger, LIT-2991; THEORY-tmps8t83), the
+random threshold networks ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), read in [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md) in place
+of Bertschinger and Natschläger, [LIT-2991](../literature.d/LIT-2991.md); [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)), the
 order-to-chaos line is K·P_bf = 1: one flipped node flips on average one
 node at the next step. The onset of chaos there is a branching ratio of
 one, of perturbations, not of activity, which "can vary considerably"
@@ -196,4 +196,4 @@ without the network's activity being critical in the sense of a
 diverging correlation of activity. The reading of Eq. 1 as a branching
 ratio is the reader's and the filer's inference, not the paper's. It is
 a damage-spreading (annealed mean-field) edge of a driven map, the same
-kind as THEORY-2041's. Status unchanged.
+kind as [THEORY-2041](../theory.d/THEORY-2041.md)'s. Status unchanged.

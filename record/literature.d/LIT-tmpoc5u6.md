@@ -4,8 +4,8 @@ status_note: >-
   registered 2026-11-22, not read. Takeuchi and colleagues' report of
   directed-percolation criticality at the DSM1–DSM2 transition in the
   same liquid-crystal system whose growing DSM2 fronts show untuned KPZ
-  scaling (LIT-2982): the tuned counterpart in QUESTION-508's contrast.
-  Known only from LIT-2982's citation and the arXiv catalogue. No
+  scaling ([LIT-2982](LIT-2982.md)): the tuned counterpart in [QUESTION-508](../questions.d/QUESTION-508.md)'s contrast.
+  Known only from [LIT-2982](LIT-2982.md)'s citation and the arXiv catalogue. No
   reading was attempted; a lawful copy has not been sought.
 title: 'Directed percolation criticality in turbulent liquid crystals'
 version: 1
@@ -35,11 +35,11 @@ summary: >-
   Takeuchi, Kuroda, Chaté & Sano (2007), Directed percolation
   criticality in turbulent liquid crystals, Physical Review Letters 99,
   234503; arXiv 0706.4151. By its title and Takeuchi and Sano's citation
-  of it (LIT-2982, p. 2), the transition between the DSM1 and DSM2
+  of it ([LIT-2982](LIT-2982.md), p. 2), the transition between the DSM1 and DSM2
   turbulent states of nematic electroconvection, a spatiotemporal
   intermittency, shows directed-percolation critical behaviour. Here as
   the tuned counterpart, in one system, to the untuned KPZ growth of
-  LIT-2982 (QUESTION-508). Unverified until read.
+  [LIT-2982](LIT-2982.md) ([QUESTION-508](../questions.d/QUESTION-508.md)). Unverified until read.
 ---
 
 # LIT-tmpoc5u6: Directed percolation criticality in turbulent liquid crystals
@@ -49,7 +49,7 @@ Takeuchi, Kuroda, Chaté & Sano (2007). Physical Review Letters 99,
 
 ## Standing in the record
 
-Registered on 2026-11-22 from Takeuchi and Sano (LIT-2982). The record
-uses only its title's claim, for QUESTION-508's contrast between tuned
+Registered on 2026-11-22 from Takeuchi and Sano ([LIT-2982](LIT-2982.md)). The record
+uses only its title's claim, for [QUESTION-508](../questions.d/QUESTION-508.md)'s contrast between tuned
 criticality at the DSM1–DSM2 threshold and untuned KPZ growth above it
 in the same system. Not read.

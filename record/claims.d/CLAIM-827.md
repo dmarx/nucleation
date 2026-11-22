@@ -207,7 +207,7 @@ the support ([ARG-tmps8aog](../arguments.d/ARG-tmps8aog.md)).
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **background.** No new threshold on this claim's scale of alignment
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **background.** No new threshold on this claim's scale of alignment
 strength, but the BBP threshold compounds with depth: at random weights an
 input spike must pass a BBP-type test at every layer to give an outlier in
 a later one. A note, no relation.

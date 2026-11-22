@@ -17,10 +17,10 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  CLAIM-842 supposes that a Gaussian elastic energy on an interaction
+  [CLAIM-842](../claims.d/CLAIM-842.md) supposes that a Gaussian elastic energy on an interaction
   graph of spectral dimension d_s ≤ 2 makes long-wavelength fluctuations
   diverge, "the lower critical dimension of the Mermin–Wagner theorem read
-  on a learned manifold", citing LIT-2985 unread. The graph version
+  on a learned manifold", citing [LIT-2985](../literature.d/LIT-2985.md) unread. The graph version
   exists: Cassi (1992), after Hattori, Hattori and Watanabe (1987),
   proves that spectral dimension at most 2 excludes spontaneous
   magnetization for O(n) and Heisenberg models (as Gelfert and Nolting
@@ -43,7 +43,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-842's criterion (d_s ≤ 2 gives diverging fluctuations, so no
+[CLAIM-842](../claims.d/CLAIM-842.md)'s criterion (d_s ≤ 2 gives diverging fluctuations, so no
 conventional order) is offered as Mermin–Wagner read on a graph. The
 readings, as sources, would say whether such a theorem exists and on
 what conditions.
@@ -70,22 +70,22 @@ because "the generator of these rotations cannot be written as an
 unweighted sum of local operators"); finite second moments, which long
 edges on an interaction graph could violate; and equilibrium, the
 inequality following "from the quantum version of the fluctuation
-dissipation theorem". CLAIM-842's own caveats (no identified symmetry,
+dissipation theorem". [CLAIM-842](../claims.d/CLAIM-842.md)'s own caveats (no identified symmetry,
 no equilibrium) are exactly these. And a Gaussian divergence can be
 removed: in tethered membranes nonlinear coupling "removes the divergence"
 (Halperin §II), and in Toner and Tu's flock the linear theory's d = 2
-logarithm is removed by non-equilibrium convective terms (THEORY-tmpdfeto).
+logarithm is removed by non-equilibrium convective terms ([THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md)).
 At d_s = 2 exactly the XY case shows that what survives can be algebraic
 order, set by defects no Gaussian energy contains (Drouin-Touchette,
-NOTE-tmpurjns).
+[NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md)).
 
 **Is the source in a position to know?** Gelfert and Nolting are a
 review, and Cassi and Hattori et al. are known only through two of their
-paragraphs; both are registered (LIT-tmpu2kk5, LIT-tmp309tx), unread.
+paragraphs; both are registered ([LIT-tmpu2kk5](../literature.d/LIT-tmpu2kk5.md), [LIT-tmp309tx](../literature.d/LIT-tmp309tx.md)), unread.
 
 ## Verdict
 
-THEORY-tmp1nvjs and THEORY-tmp85ij4 join CLAIM-842's `grounds` for the
-criterion's mathematics; THEORY-tmpqma2p and THEORY-tmpdfeto `bound` it,
+[THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md) and [THEORY-tmp85ij4](../theory.d/THEORY-tmp85ij4.md) join [CLAIM-842](../claims.d/CLAIM-842.md)'s `grounds` for the
+criterion's mathematics; [THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md) and [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) `bound` it,
 and the claim's text now names those limits. The claim stays supposed:
 its premises about a representation are still assumed.

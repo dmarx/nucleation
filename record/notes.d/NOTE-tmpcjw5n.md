@@ -21,7 +21,7 @@ history:
     equilibrium"). No email address sent.
 date: '2026-11-22'
 summary: >-
-  The long version of the 1995 letter (LIT-1670, NOTE-1228). A
+  The long version of the 1995 letter ([LIT-1670](../literature.d/LIT-1670.md), [NOTE-1228](NOTE-1228.md)). A
   rotation-invariant, number-conserving flock without Galilean
   invariance: the linear theory loses order in d ≤ 2, logarithmically in
   d = 2, as at equilibrium; convective nonlinearities, relevant below
@@ -31,7 +31,7 @@ summary: >-
   "highly probable") gives z = 6/5, ζ = 3/5, χ = −1/5. The ordered phase
   scales throughout, apart from the transition's fixed point, with a
   density structure factor that diverges as q → 0; a compass removes the
-  anomalous fluctuations. The reading is THEORY-tmpdfeto.
+  anomalous fluctuations. The reading is [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpdfeto — Proposed; this reading's account -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-842 CLAIM-846 CLAIM-478 THEORY-1095 TERM-139 ARG-tmpdc2qe CLAIM-tmpvq33w — Proposed or new; the entries the reading bears on -->
@@ -40,11 +40,11 @@ summary: >-
 
 ## Contribution
 
-The full derivation behind the 1995 letter (LIT-1670): the λ₂ and λ₃
+The full derivation behind the 1995 letter ([LIT-1670](../literature.d/LIT-1670.md)): the λ₂ and λ₃
 terms missed in 1995, which leave d = 2 intact but leave d > 2
 undetermined (p. 11); a new, symmetry-based argument for the d = 2
 exponents; an anisotropic model with exact exponents for 2 ≤ d ≤ 4; and
-a list of measurements. The reading is THEORY-tmpdfeto.
+a list of measurements. The reading is [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md).
 
 ## Key results
 
@@ -131,18 +131,18 @@ structure factor; hyperdiffusion; fixed line.
 
 ## Bearing on the record
 
-- **CLAIM-841** (ordered active matter): **supports the row, not its
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (ordered active matter): **supports the row, not its
   formula.** Anomalous scaling holds through the ordered phase, at "the
   low temperature fixed point", apart from the transition's (item 9).
   But the row's ΔN ∝ ⟨N⟩^φ is a later restatement, not this paper's,
   which predicts a diverging structure factor (item 6); and A's "some
   initially predicted exponents differ from those obtained in
   large-scale simulations" is not in it, which reports "good agreement"
-  (item 13) (ARG-tmpdc2qe). Also supports the folded-in "explicitly
+  (item 13) ([ARG-tmpdc2qe](../arguments.d/ARG-tmpdc2qe.md)). Also supports the folded-in "explicitly
   breaking that symmetry can introduce a characteristic scale" (item
   10), and qualifies the XY row: a fixed line need not mean
   quasi-long-range order (item 11, one possibility of three).
-- **THEORY-1095**: **qualifies.** Its two unproved steps (a cubic vertex
+- **[THEORY-1095](../theory.d/THEORY-1095.md)**: **qualifies.** Its two unproved steps (a cubic vertex
   staying irrelevant; z < 2 "on physical grounds") are the 1995
   letter's. The 1998 argument (item 5) replaces them with others: the
   L–T cross terms negligible, only λ₁, λ₂ and σ₂ among the
@@ -152,29 +152,29 @@ structure factor; hyperdiffusion; fixed line.
   σₙ(δρ)ⁿ is relevant there by power counting; they are ⊥ gradients, so
   the non-renormalization of ∆ and D∥ survives, but the type I/II
   analysis treats σ₂ alone.
-- **THEORY-1085**: **supports and corrects.** The slaving of δv∥
+- **[THEORY-1085](../theory.d/THEORY-1085.md)**: **supports and corrects.** The slaving of δv∥
   (eqs. 3.1–3.2, p. 19) is its "eliminated degree of freedom". Its "What
   this does not say" holds that the paper does not use "Goldstone mode";
   the 1998 paper does (item 7).
-- **CLAIM-842**: **qualifies its scope.** The linear theory has CLAIM-842's
+- **[CLAIM-842](../claims.d/CLAIM-842.md)**: **qualifies its scope.** The linear theory has [CLAIM-842](../claims.d/CLAIM-842.md)'s
   logarithmic divergence in d = 2 (item 2), and the nonlinear,
   non-equilibrium theory removes it (items 1, 3). So the d ≤ 2 criterion
   is a theorem of the Gaussian, equilibrium premise, not of the
-  geometry alone: a worked case where relaxing CLAIM-842's own
+  geometry alone: a worked case where relaxing [CLAIM-842](../claims.d/CLAIM-842.md)'s own
   equilibrium caveat reverses the conclusion. The mechanism (convection
   changing who interacts with whom) has no stated analogue in training.
-- **QUESTION-508**: **a partial answer for flocks**: symmetry plus
+- **[QUESTION-508](../questions.d/QUESTION-508.md)**: **a partial answer for flocks**: symmetry plus
   conservation. Rotation invariance forbids a mass for v⊥ (a compass
   restores one, item 10), number conservation makes δρ slow, and the
   fixed point is reached without tuning deep in the ordered phase
   (item 9).
-- **CLAIM-tmpvq33w**: one of its three cases, through items 5 and 10.
-- **CLAIM-478**: **supports**, through the slaving of δv∥ (p. 19), as
-  THEORY-1085 records for 1995.
-- **CLAIM-846**: **parallel.** The flock's scale-free content is in
+- **[CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md)**: one of its three cases, through items 5 and 10.
+- **[CLAIM-478](../claims.d/CLAIM-478.md)**: **supports**, through the slaving of δv∥ (p. 19), as
+  [THEORY-1085](../theory.d/THEORY-1085.md) records for 1995.
+- **[CLAIM-846](../claims.d/CLAIM-846.md)**: **parallel.** The flock's scale-free content is in
   correlation functions and structure factors, not in a distribution.
-- **TERM-139**: background; the terms are used in its sense (pp. 18, 29).
-- **QUESTION-515**: background; it names what an active-matter model must
+- **[TERM-139](../terms.d/TERM-139.md)**: background; the terms are used in its sense (pp. 18, 29).
+- **[QUESTION-515](../questions.d/QUESTION-515.md)**: background; it names what an active-matter model must
   carry (rotation-invariant self-propulsion, a conserved density,
   convection) and says nothing of representations.
 - **No instruction for machine-learning practice.**

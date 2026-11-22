@@ -195,7 +195,7 @@ unchanged.
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**Qualifies, consistently** (LIT-2996, NOTE-tmpunt6q, THEORY-tmpttfgp).
+**Qualifies, consistently** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)).
 Shalizi and Moore fuse predictive sufficiency (prescience) and closure
 (the macro process Markov) in one criterion for macrostates; for the
 observed process's own causal states the two coincide by construction

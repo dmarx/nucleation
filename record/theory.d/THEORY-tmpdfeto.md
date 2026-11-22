@@ -24,14 +24,14 @@ bears_on:
 bounds:
 - CLAIM-842
 summary: >-
-  Toner and Tu (1998), LIT-2970, read in NOTE-tmpcjw5n (§V.B's algebra and
+  Toner and Tu (1998), [LIT-2970](../literature.d/LIT-2970.md), read in [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md) (§V.B's algebra and
   §VI skimmed). The linear theory's loss of order in d ≤ 2 and the
   relevance of the convective terms below d = 4 are calculations; the
   d = 2 exponents rest on a new symmetry argument and a flow the authors
   call "highly probable"; the equations are posited from symmetry. It
-  grounds CLAIM-841's ordered-active-matter row by the diverging
-  structure factor (ARG-tmpdc2qe), marks the equilibrium limit of
-  CLAIM-842's d_s ≤ 2 criterion, and is one case of CLAIM-tmpvq33w.
+  grounds [CLAIM-841](../claims.d/CLAIM-841.md)'s ordered-active-matter row by the diverging
+  structure factor ([ARG-tmpdc2qe](../arguments.d/ARG-tmpdc2qe.md)), marks the equilibrium limit of
+  [CLAIM-842](../claims.d/CLAIM-842.md)'s d_s ≤ 2 criterion, and is one case of [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md).
   Proposed until the order and the structure factor are confirmed
   independently.
 ---
@@ -43,8 +43,8 @@ summary: >-
 ## Source
 
 Toner and Tu (1998), "Flocks, herds, and schools: A quantitative theory
-of flocking", Physical Review E 58, 4828–4858, LIT-2970, read from the
-arXiv preprint in NOTE-tmpcjw5n.
+of flocking", Physical Review E 58, 4828–4858, [LIT-2970](../literature.d/LIT-2970.md), read from the
+arXiv preprint in [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md).
 
 ## The account
 

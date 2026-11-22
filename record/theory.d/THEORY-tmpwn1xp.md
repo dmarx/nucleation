@@ -14,10 +14,10 @@ date: '2026-11-22'
 source:
 - LIT-2998
 summary: >-
-  Ansuini and colleagues, LIT-2998, read in NOTE-tmptf55k. Representations
+  Ansuini and colleagues, [LIT-2998](../literature.d/LIT-2998.md), read in [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md). Representations
   of trained CNNs lie near curved low-dimensional manifolds: a nonlinear
   estimate of their dimension is far below width and below a linear PCA
-  count, which does not tell trained from random networks apart. TERM-136
+  count, which does not tell trained from random networks apart. [TERM-136](../terms.d/TERM-136.md)
   takes its intrinsic sense from this reading.
 ---
 <!-- inactive-ok-file: TERM-136 — Proposed; the term that draws on this reading -->
@@ -28,7 +28,7 @@ summary: >-
 
 Alessio Ansuini, Alessandro Laio, Jakob H. Macke and Davide Zoccolan,
 "Intrinsic dimension of data representations in deep neural networks",
-NeurIPS 2019, arXiv 1905.12784, LIT-2998, read in NOTE-tmptf55k.
+NeurIPS 2019, arXiv 1905.12784, [LIT-2998](../literature.d/LIT-2998.md), read in [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md).
 
 ## What was actually shown
 

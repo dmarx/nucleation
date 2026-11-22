@@ -22,7 +22,7 @@ summary: >-
   (quasi-long-range order, T = 0, orientational order in a 2D crystal,
   long-range couplings); the tethered membrane, where nonlinear coupling
   removes the Gaussian divergence; and an extension to 2D itinerant
-  electrons. The reading is THEORY-tmpqma2p.
+  electrons. The reading is [THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md).
 ---
 <!-- inactive-ok-file: LIT-2969 LIT-tmph3tia — Unfetched or Deferred; Kosterlitz and Thouless, and Kosterlitz (1974) -->
 <!-- inactive-ok-file: THEORY-tmpqma2p — Proposed; this reading's account -->
@@ -36,7 +36,7 @@ summary: >-
 What the theorem proved, on what model and condition, and what it does
 not imply, by a physicist who knew its authors; and a new rigorous
 extension to itinerant electrons with SU(2) symmetry. The reading is
-THEORY-tmpqma2p.
+[THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md).
 
 ## Key results
 
@@ -87,25 +87,25 @@ fluctuation-dissipation theorem.
 
 ## Bearing on the record
 
-- **LIT-2985**: stands in for the paper's scope (ADR-114); restates
+- **[LIT-2985](../literature.d/LIT-2985.md)**: stands in for the paper's scope ([ADR-114](../decisions.d/ADR-114.md)); restates
   items 1–2 and 5 of the 1966 paper, not its proof. It shows the
   exchange's gloss ("no continuous symmetry breaking in two dimensions")
   to overstate it.
-- **CLAIM-842**: **qualifies.** The rigorous result needs (i) a
+- **[CLAIM-842](../claims.d/CLAIM-842.md)**: **qualifies.** The rigorous result needs (i) a
   continuous symmetry whose generator is a sum of local generators,
-  which CLAIM-842's first caveat already finds missing for a trained
+  which [CLAIM-842](../claims.d/CLAIM-842.md)'s first caveat already finds missing for a trained
   representation; (ii) finite second moments, so long edges on an
   interaction graph could restore order; (iii) equilibrium, through the
   fluctuation-dissipation theorem; and (iv) the membrane shows a Gaussian
   divergence removed by nonlinear coupling, order surviving where the
-  Gaussian criterion predicts disorder (ARG-tmpx5evn). THEORY-tmpqma2p
-  `bounds` CLAIM-842.
-- **CLAIM-841**: **supports the Goldstone and XY rows' no-tuning point,
+  Gaussian criterion predicts disorder ([ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)). [THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md)
+  `bounds` [CLAIM-842](../claims.d/CLAIM-842.md).
+- **[CLAIM-841](../claims.d/CLAIM-841.md)**: **supports the Goldstone and XY rows' no-tuning point,
   and scopes a citation.** The divergence that kills order holds at every
   T > 0; item 4 gives the XY exponent the claim rechecked. But item 3
   means the XY row cannot rest on Mermin–Wagner: it rests on Kosterlitz
-  and Thouless (LIT-2969) and Kosterlitz (1974), LIT-tmph3tia.
-- **CLAIM-846**: **parallel**; item 4 is the Gaussian spin-wave
+  and Thouless ([LIT-2969](../literature.d/LIT-2969.md)) and Kosterlitz (1974), [LIT-tmph3tia](../literature.d/LIT-tmph3tia.md).
+- **[CLAIM-846](../claims.d/CLAIM-846.md)**: **parallel**; item 4 is the Gaussian spin-wave
   computation the claim checks numerically.
 
 ## Limitations

@@ -112,10 +112,10 @@ here is a transition reached by tuning a control parameter
 |---|---|---|---|
 | Criticality | correlation length diverges at a transition | yes | A6 §2, A8 §1 |
 | Broken continuous symmetry | no θ² restoring term, so long-wavelength cost ∝ k²; transverse C(r) ∝ r^(−(d−2)) through the ordered phase | no | A27 §2–3 |
-| Line of fixed points (2D XY) | marginal direction; vortex fugacity irrelevant on the fixed line; C(r) ∝ r^(−η(T)), η = T/2πρ_s, over a range of T | no | A12 §7, A27 §5; LIT-2969 with Kosterlitz (1974), LIT-tmph3tia, through THEORY-tmpwdka8, THEORY-tmpaojie |
-| Nonequilibrium growth (KPZ) | W(L, t) = L^α F(t/L^z), α = ½, z = 3/2 in 1D, for any λ ≠ 0 in d ≤ 2; in experiment only where growth is local and disorder absent | no in d ≤ 2; above, a tuned threshold separates two scale-invariant phases | A24 §3; LIT-2978, LIT-2982; THEORY-tmpo3w5v, THEORY-tmpdcfxq, THEORY-tmpmoyol |
+| Line of fixed points (2D XY) | marginal direction; vortex fugacity irrelevant on the fixed line; C(r) ∝ r^(−η(T)), η = T/2πρ_s, over a range of T | no | A12 §7, A27 §5; [LIT-2969](../literature.d/LIT-2969.md) with Kosterlitz (1974), [LIT-tmph3tia](../literature.d/LIT-tmph3tia.md), through [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md), [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md) |
+| Nonequilibrium growth (KPZ) | W(L, t) = L^α F(t/L^z), α = ½, z = 3/2 in 1D, for any λ ≠ 0 in d ≤ 2; in experiment only where growth is local and disorder absent | no in d ≤ 2; above, a tuned threshold separates two scale-invariant phases | A24 §3; [LIT-2978](../literature.d/LIT-2978.md), [LIT-2982](../literature.d/LIT-2982.md); [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md), [THEORY-tmpdcfxq](../theory.d/THEORY-tmpdcfxq.md), [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md) |
 | Sustained flux (turbulence) | constant transfer rate across the inertial range | no | A23 §2 |
-| Ordered active matter | density structure factor Cρ(q) diverging as q → 0 (q⊥^(−6/5) in 2D) through the ordered phase, at its own fixed point, not the transition's | no | A26 §4, A27 §7; THEORY-1085, LIT-2970, THEORY-tmpdfeto |
+| Ordered active matter | density structure factor Cρ(q) diverging as q → 0 (q⊥^(−6/5) in 2D) through the ordered phase, at its own fixed point, not the transition's | no | A26 §4, A27 §7; [THEORY-1085](../theory.d/THEORY-1085.md), [LIT-2970](../literature.d/LIT-2970.md), [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) |
 | Coarsening | L(t) ∝ t^(1/2) (nonconserved) or t^(1/3) (conserved), well below T_c | no | A26 §3 |
 | Cumulative advantage | growth with attachment ∝ size | no | A1, A27 §8 |
 | Geometric recursion | a fractal; Sierpiński D = log 3/log 2 = 1.585 | no | A10 §3 |
@@ -125,8 +125,8 @@ here is a transition reached by tuning a control parameter
 The derivations A gives were rechecked: the BKT exponent from
 ⟨Δθ²⟩ = (T/πρ_s) ln r gives exp(−½⟨Δθ²⟩) = r^(−T/2πρ_s); the 2D
 infrared integral ∫k^(d−3) dk diverges logarithmically (Mermin–Wagner,
-LIT-2985, whose proof, by Gelfert and Nolting's outline, "ultimately
-rests on the divergence of the integral" ∫d^Dk/k², THEORY-tmp1nvjs); an explicit field μ²θ² gives ξ = √ρ_s/μ; KPZ's z = α/β =
+[LIT-2985](../literature.d/LIT-2985.md), whose proof, by Gelfert and Nolting's outline, "ultimately
+rests on the divergence of the integral" ∫d^Dk/k², [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md)); an explicit field μ²θ² gives ξ = √ρ_s/μ; KPZ's z = α/β =
 (½)/(⅓) = 3/2, so a tenfold length is 10^1.5 = 31.6-fold in time against
 100-fold for diffusion (A24 §6); 1D directed percolation's
 ν∥/ν⊥ = 1.7338/1.0969 = 1.581 (A24 §2). The Gaussian spin-wave route is
@@ -279,27 +279,27 @@ so the thesis stands. Version 3.
 
 ## Change of 2026-11-22: the KPZ, flocking and XY rows, after reading
 
-- **KPZ** (ARG-tmp2xbl4). "Generically" holds for d ≤ 2 only: there any
+- **KPZ** ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)). "Generically" holds for d ≤ 2 only: there any
   λ ≠ 0 flows to the KPZ fixed point (Kardar, Parisi and Zhang, p. 891),
   but above two dimensions a small λ "is irrelevant, and an
   asymptotically ideal smooth surface is expected with z = 2" (p. 892),
   and "an intermediate fixed point, at g = g* ≃ d − 2" separates the two
-  phases (Le Doussal, LIT-tmpvt8q4, p. 4): a tuned point between two
+  phases (Le Doussal, [LIT-tmpvt8q4](../literature.d/LIT-tmpvt8q4.md), p. 4): a tuned point between two
   scale-invariant phases, so the thesis stands. And in experiment untuned
   is not generic: "only two experiments among dozens directly found the
   KPZ exponents" (Takeuchi and Sano, p. 1), who credit their own success
   to "strictly local processes", intrinsic noise and no quenched disorder
   (p. 4).
-- **Flocking** (ARG-tmpdc2qe). LIT-2970 is no longer cited for
+- **Flocking** ([ARG-tmpdc2qe](../arguments.d/ARG-tmpdc2qe.md)). [LIT-2970](../literature.d/LIT-2970.md) is no longer cited for
   ΔN ∝ ⟨N⟩^φ, which it never writes: it predicts a density structure
   factor that diverges as q → 0, as q⊥^(−6/5) for q∥ ≪ q⊥ in two
   dimensions (eqs. 1.10–1.11). A's "some initially predicted exponents
   differ from those obtained in large-scale simulations" is not in it;
   it reports "good agreement" (p. 70).
-- **XY** (ARG-tmprfa3j). The row rests on LIT-2969 with Kosterlitz (1974),
-  LIT-tmph3tia, through its two neighbours, not on Mermin–Wagner, which
+- **XY** ([ARG-tmprfa3j](../arguments.d/ARG-tmprfa3j.md)). The row rests on [LIT-2969](../literature.d/LIT-2969.md) with Kosterlitz (1974),
+  [LIT-tmph3tia](../literature.d/LIT-tmph3tia.md), through its two neighbours, not on Mermin–Wagner, which
   "sheds no light on the question of whether quasi-long-range order can
-  exist" (Halperin, THEORY-tmpqma2p). The neighbours call the low-T phase
+  exist" (Halperin, [THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md)). The neighbours call the low-T phase
   "critical" ("at all low-temperatures, the system is critical",
   Drouin-Touchette §2.2) in the sense of an infinite correlation length,
   not of a tuned transition, so the usage does not contradict this claim;
@@ -310,26 +310,26 @@ Version 4.
 
 ## Note of 2026-11-22: Kardar, Parisi and Zhang, read
 
-Kardar, Parisi and Zhang (LIT-2978, read in full in NOTE-tmpf6isj; the
-reading is THEORY-tmpo3w5v) **support the KPZ row for d ≤ 2 and the
+Kardar, Parisi and Zhang ([LIT-2978](../literature.d/LIT-2978.md), read in full in [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md); the
+reading is [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md)) **support the KPZ row for d ≤ 2 and the
 bullet "A histogram cannot name its mechanism"**: in d = 1 the KPZ
 interface has the linear interface's static exponent, and strip
 simulations had read it as linear, "a result of a peculiarity of
 one-dimensional interfaces" (p. 891); only z tells them apart.
-THEORY-tmpo3w5v joins `grounds` (ARG-tmp2xbl4).
+[THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md) joins `grounds` ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)).
 
 ## Note of 2026-11-22: Takeuchi and Sano, read
 
-Takeuchi and Sano (LIT-2982, read in full in NOTE-tmpbmox1; the reading
-is THEORY-tmpmoyol) **support the KPZ row in experiment and qualify its
+Takeuchi and Sano ([LIT-2982](../literature.d/LIT-2982.md), read in full in [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md); the reading
+is [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)) **support the KPZ row in experiment and qualify its
 "generically"** (above). They also bear on A24 §9's "a KPZ interface has
 universal scaling without power-law tails": the universal object is a
 Tracy-Widom distribution, characterized by its cumulants, consistent with
-A's remark. THEORY-tmpmoyol joins `grounds` (ARG-tmp2xbl4).
+A's remark. [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md) joins `grounds` ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)).
 
 ## Note of 2026-11-22: Toner and Tu (1998), read
 
-Toner and Tu (LIT-2970, NOTE-tmpcjw5n; the reading is THEORY-tmpdfeto)
+Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md))
 **support the flocking row's substance and the folded-in "explicitly
 breaking that symmetry can introduce a characteristic scale"**: a compass
 "will introduce a "mass"", after which "there are no interesting
@@ -338,24 +338,24 @@ the XY row's reading of a fixed line**: their possible fixed line of
 flocks, "somewhat reminiscent of that of the d = 2 equilibrium X − Y
 model", is "not associated in any way with the absence of true long
 ranged orientational order" (p. 52), so continuously varying exponents
-need not mean quasi-long-range order. THEORY-tmpdfeto joins `grounds`
-(ARG-tmpdc2qe).
+need not mean quasi-long-range order. [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) joins `grounds`
+([ARG-tmpdc2qe](../arguments.d/ARG-tmpdc2qe.md)).
 
 ## Note of 2026-11-22: Kosterlitz and Thouless, through two neighbours
 
-LIT-2969 is Unfetched (the IOP copy behind a Cloudflare challenge).
-Kosterlitz's Nobel lecture (LIT-tmp3k6np, NOTE-tmp0si2r, THEORY-tmpwdka8)
-and Drouin-Touchette (LIT-tmp6hh1r, NOTE-tmpurjns, THEORY-tmpaojie)
-**support the XY row** (ARG-tmprfa3j): the fugacity "becomes irrelevant"
+[LIT-2969](../literature.d/LIT-2969.md) is Unfetched (the IOP copy behind a Cloudflare challenge).
+Kosterlitz's Nobel lecture ([LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), [NOTE-tmp0si2r](../notes.d/NOTE-tmp0si2r.md), [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md))
+and Drouin-Touchette ([LIT-tmp6hh1r](../literature.d/LIT-tmp6hh1r.md), [NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md), [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md))
+**support the XY row** ([ARG-tmprfa3j](../arguments.d/ARG-tmprfa3j.md)): the fugacity "becomes irrelevant"
 on the fixed line (§3.3), nothing tuned through the phase.
 
 ## Note of 2026-11-22: Mermin and Wagner, through three neighbours
 
-LIT-2985 is Unavailable. Halperin (LIT-tmp3zns2, THEORY-tmpqma2p),
-Gelfert and Nolting (LIT-tmpbgf6y, THEORY-tmp1nvjs) and Nachtergaele
-(LIT-tmp25uib, THEORY-tmp85ij4) **support the Goldstone row's no-tuning
+[LIT-2985](../literature.d/LIT-2985.md) is Unavailable. Halperin ([LIT-tmp3zns2](../literature.d/LIT-tmp3zns2.md), [THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md)),
+Gelfert and Nolting ([LIT-tmpbgf6y](../literature.d/LIT-tmpbgf6y.md), [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md)) and Nachtergaele
+([LIT-tmp25uib](../literature.d/LIT-tmp25uib.md), [THEORY-tmp85ij4](../theory.d/THEORY-tmp85ij4.md)) **support the Goldstone row's no-tuning
 point**: the divergence that excludes order holds at every T > 0, with no
-parameter set. THEORY-tmp1nvjs joins `grounds` for the 2D logarithm. They
+parameter set. [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md) joins `grounds` for the 2D logarithm. They
 **scope the XY row's citation**, as above.
 
 ## Note of 2026-11-22: what three routes share
@@ -364,6 +364,6 @@ Read together, the KPZ, flocking and XY cases share a shape this claim
 does not state: a symmetry or conservation law protecting a coupling or
 forbidding a restoring term, and a perturbation (a compass, a finite
 interaction range, d > 2 at weak coupling) that undoes it. The assistant
-files it as CLAIM-tmpvq33w, which complements this one and bears on
-QUESTION-508; it does not cover the flux, growth-by-attachment,
+files it as [CLAIM-tmpvq33w](CLAIM-tmpvq33w.md), which complements this one and bears on
+[QUESTION-508](../questions.d/QUESTION-508.md); it does not cover the flux, growth-by-attachment,
 coarsening, recursion or relaxation routes.

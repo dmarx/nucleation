@@ -13,16 +13,16 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  CLAIM-839 cited Bui et al. (LIT-2989) unread for "Backward-compatible
+  [CLAIM-839](../claims.d/CLAIM-839.md) cited Bui et al. ([LIT-2989](../literature.d/LIT-2989.md)) unread for "Backward-compatible
   learning already constrains updated embeddings to earlier cones". Read
-  (NOTE-tmpvu3vp), it does, and it bears out A33's fallback reading of
+  ([NOTE-tmpvu3vp](../notes.d/NOTE-tmpvu3vp.md)), it does, and it bears out A33's fallback reading of
   temporal cone consistency as "a soft regularizer": the cone term buys
   most compatibility when the architecture changes. Four qualifications
   bound what it supports: a soft penalty, with cone satisfaction never
   reported; per-item cones, not cones of concepts; two separately trained
   models, not checkpoints of one run; and an order imposed by design, not
   observed. Supports the restriction half in that form; nothing on the
-  Blackwell half or on branching. The reading replaces LIT-2989 in the
+  Blackwell half or on branching. The reading replaces [LIT-2989](../literature.d/LIT-2989.md) in the
   claim's grounds. Proposed. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
@@ -32,10 +32,10 @@ summary: >-
 
 ## The inference
 
-CLAIM-839's "Restriction, softly": learning as U_i(t + Δt) ⊆ U_i(t), held
+[CLAIM-839](../claims.d/CLAIM-839.md)'s "Restriction, softly": learning as U_i(t + Δt) ⊆ U_i(t), held
 by A33 as "a hypothesis about the stable portion of representation
 learning, or a soft regularizer", with Bui et al. cited as already doing
-it. Ground: THEORY-tmpe9367.
+it. Ground: [THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md).
 
 ## Critical questions (evidence)
 
@@ -61,7 +61,7 @@ without) and little for more data (0.956 against 0.847).
 item a chain of nested cones, not a branching order, so the claim's
 branching is untouched. And the scheme's narrowing is built in:
 satisfying the constraint makes every embedding more "certain" whatever
-its correctness (CLAIM-tmpxcy5s, ARG-tmpotmon).
+its correctness ([CLAIM-tmpxcy5s](../claims.d/CLAIM-tmpxcy5s.md), [ARG-tmpotmon](ARG-tmpotmon.md)).
 
 ## Verdict
 

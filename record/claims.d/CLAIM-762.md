@@ -169,7 +169,7 @@ closed under the system's own operations and reused.
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **qualifies the
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **qualifies the
 Wang and Isola note above.** The finite-dataset tension between perfect
 alignment and uniformity resolves, in the large-batch limit, as basin
 selection by alignment and dispersion by entropy: the unimodal optimum is

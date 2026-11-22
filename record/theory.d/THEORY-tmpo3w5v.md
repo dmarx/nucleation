@@ -22,13 +22,13 @@ corroborates:
 bears_on:
 - QUESTION-508
 summary: >-
-  Kardar, Parisi and Zhang (1986), LIT-2978, read in full in
-  NOTE-tmpf6isj. The equation is argued from locality and symmetry; the
+  Kardar, Parisi and Zhang (1986), [LIT-2978](../literature.d/LIT-2978.md), read in full in
+  [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md). The equation is argued from locality and symmetry; the
   one-dimensional exponents are exact by a fluctuation-dissipation
   theorem the letter cites rather than shows; the two-dimensional
   conjecture of superuniversality later failed (Le Doussal,
-  THEORY-tmpdcfxq). Grounds CLAIM-841's KPZ row for d ≤ 2
-  (ARG-tmp2xbl4) and is one of the three cases of CLAIM-tmpvq33w.
+  [THEORY-tmpdcfxq](THEORY-tmpdcfxq.md)). Grounds [CLAIM-841](../claims.d/CLAIM-841.md)'s KPZ row for d ≤ 2
+  ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)) and is one of the three cases of [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md).
   Proposed until confirmed by an independent derivation.
 ---
 <!-- inactive-ok-file: THEORY-tmpmoyol — Proposed; the reading of Takeuchi and Sano -->
@@ -40,8 +40,8 @@ summary: >-
 ## Source
 
 Kardar, Parisi and Zhang (1986), "Dynamic Scaling of Growing Interfaces",
-Physical Review Letters 56, 889–892, LIT-2978, read in full in
-NOTE-tmpf6isj from a course copy.
+Physical Review Letters 56, 889–892, [LIT-2978](../literature.d/LIT-2978.md), read in full in
+[NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md) from a course copy.
 
 ## The account
 
@@ -76,6 +76,6 @@ does not: in d = 1 both have χ = ½, and only z separates them (p. 891).
 - That KPZ scaling is reached without a threshold in every dimension:
   above two dimensions a small λ flows to the smooth phase.
 - That χ = ½, z = 3/2 hold in d = 2: conjectured here, later found false
-  (Le Doussal, THEORY-tmpdcfxq).
+  (Le Doussal, [THEORY-tmpdcfxq](THEORY-tmpdcfxq.md)).
 - Anything about height distributions, which are Tracy-Widom
-  (THEORY-tmpmoyol), or about tails.
+  ([THEORY-tmpmoyol](THEORY-tmpmoyol.md)), or about tails.

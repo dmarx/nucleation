@@ -242,7 +242,7 @@ McDermott and colleagues ([THEORY-2072](../theory.d/THEORY-2072.md), corroborate
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**Supports, independently** (LIT-2996, NOTE-tmpunt6q; THEORY-tmpttfgp now
+**Supports, independently** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md); [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md) now
 `corroborates` this claim). Shalizi and Moore's macrostates are the
 sufficient (prescient) partition for a chosen set of observables, and
 "A different set of initial variables will, generally, lead to a

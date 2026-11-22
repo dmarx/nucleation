@@ -95,7 +95,7 @@ Chen and colleagues ([THEORY-2009](../theory.d/THEORY-2009.md), bears_on; [NOTE-
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **a
 parallel.** The fine-class structure persists "even after a very long
 training period (e.g. 1,000 epochs)", lighter but present, while the coarse
 collapse holds: one thing about the last layer that stays fixed long after

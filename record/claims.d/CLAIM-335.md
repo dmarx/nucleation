@@ -153,8 +153,8 @@ that jointly fix the target". A7 rightly did not commit to a PID measure.
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **supports, by a
-sibling measure** (THEORY-tmpc73s5 corroborates this claim; ARG-tmp94chy).
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **supports, by a
+sibling measure** ([THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md) corroborates this claim; [ARG-tmp94chy](../arguments.d/ARG-tmp94chy.md)).
 SURD's "causality" is predictive information about a target's future:
 "causal relationships emerge as a result of transitional probabilities
 between states" (p. 12). Yet the paper reads its forward unique terms as

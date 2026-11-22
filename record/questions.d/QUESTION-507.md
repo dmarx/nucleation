@@ -73,7 +73,7 @@ Three things keep it open.
 1. **Which transition.** A runs together the order-to-chaos transition
    of recurrent networks, where the edge-of-chaos results live
    (Bertschinger and Natschläger, [LIT-2991](../literature.d/LIT-2991.md), Unavailable, read through
-   its NIPS companion, THEORY-tmps8t83; the record's
+   its NIPS companion, [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md); the record's
    [THEORY-2041](../theory.d/THEORY-2041.md) for deep networks), and branching criticality of neural
    avalanches, where a branching ratio of one separates dying from
    exploding cascades ([QUESTION-091](QUESTION-091.md)). They are different transitions: the
@@ -166,9 +166,9 @@ The sentence above calling the finite-window study unread is replaced
 
 ## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
 
-Bertschinger and Natschläger's Neural Computation paper (LIT-2991) could
-not be reached; its NIPS companion was read in its place (LIT-tmpdsowv,
-NOTE-tmpi5t3r; THEORY-tmps8t83, which `bears_on` this question). It
+Bertschinger and Natschläger's Neural Computation paper ([LIT-2991](../literature.d/LIT-2991.md)) could
+not be reached; its NIPS companion was read in its place ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md),
+[NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md); [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md), which `bears_on` this question). It
 **supports the "distinctive capacity" side for one class and leaves the
 dilemma open**, and it **adds to point 1**.
 
@@ -189,24 +189,24 @@ dilemma open**, and it **adds to point 1**.
   time series", for driven random threshold networks and short-memory
   nonlinear Boolean tasks, averaged over many tasks. No total and no
   bound, so the "redistribute a bounded capacity" side is not tested
-  (ARG-tmp2zz6k on CLAIM-809).
+  ([ARG-tmp2zz6k](../arguments.d/ARG-tmp2zz6k.md) on [CLAIM-809](../claims.d/CLAIM-809.md)).
 - **Point 2, which measure.** One family: summed mutual information on
   Boolean tasks, with NM-separation as its predictor; both peak near the
   line.
 - **Point 3, which environment.** Silent; the input is i.i.d. binary.
 
-Calvet, Reulet and Rouat (LIT-tmpahs2x, a passage) find the best region
+Calvet, Reulet and Rouat ([LIT-tmpahs2x](../literature.d/LIT-tmpahs2x.md), a passage) find the best region
 aligned with the critical region for one sign of the
 excitatory–inhibitory balance only. The sentence in point 1 calling the
 paper unread is replaced (version 3).
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-**Background**, no edge (LIT-3010, read in NOTE-tmpe86ty;
-THEORY-tmpl7rgc). The paper offers measures a capacity study could use
+**Background**, no edge ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md);
+[THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md)). The paper offers measures a capacity study could use
 (entropy rate, excess entropy, transient information) and the split of
 finitary from infinitary processes; it says nothing about transitions,
 capacity or tasks. For point 2, which measure, it adds a methodological
 caution: an observer working at finite block length converts unseen
 memory into apparent randomness, overestimating the entropy rate by E/L
-(Props. 13–15), which bears on any finite-window study such as LIT-2980.
+(Props. 13–15), which bears on any finite-window study such as [LIT-2980](../literature.d/LIT-2980.md).

@@ -14,9 +14,9 @@ date: '2026-11-22'
 source:
 - LIT-tmp25uib
 summary: >-
-  Nachtergaele (2006), LIT-tmp25uib, read in full in NOTE-tmpl5lm3 as a
-  stand-in for the statement of Mermin and Wagner (1966), LIT-2985. A
-  general proof in course notes; it bears on CLAIM-842 by showing the
+  Nachtergaele (2006), [LIT-tmp25uib](../literature.d/LIT-tmp25uib.md), read in full in [NOTE-tmpl5lm3](../notes.d/NOTE-tmpl5lm3.md) as a
+  stand-in for the statement of Mermin and Wagner (1966), [LIT-2985](../literature.d/LIT-2985.md). A
+  general proof in course notes; it bears on [CLAIM-842](../claims.d/CLAIM-842.md) by showing the
   theorem does not need a regular lattice. Proposed until confirmed in a
   published source.
 ---
@@ -28,7 +28,7 @@ summary: >-
 ## Source
 
 Nachtergaele (2006), "The Mermin-Wagner Theorem", course notes, UC
-Davis, LIT-tmp25uib, read in NOTE-tmpl5lm3.
+Davis, [LIT-tmp25uib](../literature.d/LIT-tmp25uib.md), read in [NOTE-tmpl5lm3](../notes.d/NOTE-tmpl5lm3.md).
 
 ## The account
 

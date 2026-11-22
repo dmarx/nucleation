@@ -25,7 +25,7 @@ summary: >-
   goes to zero, for ferro- and antiferromagnetic order alike. §3.4
   reports Hattori, Hattori and Watanabe's spectral dimension of general
   networks and Cassi's theorem that spectral dimension at most 2 excludes
-  spontaneous magnetization. The reading is THEORY-tmp1nvjs.
+  spontaneous magnetization. The reading is [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp1nvjs — Proposed; this reading's account -->
 <!-- inactive-ok-file: LIT-2985 — Unavailable; the original this reading stands in for -->
@@ -39,7 +39,7 @@ summary: >-
 A survey of the theorem across many-body models, with new cases (Hubbard
 films, the periodic Anderson model). What the record uses is its outline
 of Mermin and Wagner's proof and its report of the theorem on graphs.
-The reading is THEORY-tmp1nvjs.
+The reading is [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md).
 
 ## Key results
 
@@ -86,20 +86,20 @@ lower critical dimension 2; spectral dimension of a network.
 
 ## Bearing on the record
 
-- **LIT-2985**: stands in for the proof's steps, as an outline (ADR-114).
-- **CLAIM-842**: **supports the mechanism, at second hand.** Item 5 is
+- **[LIT-2985](../literature.d/LIT-2985.md)**: stands in for the proof's steps, as an outline ([ADR-114](../decisions.d/ADR-114.md)).
+- **[CLAIM-842](../claims.d/CLAIM-842.md)**: **supports the mechanism, at second hand.** Item 5 is
   "spectral dimension ≤ 2 forbids spontaneous magnetization", for spin
   models with a continuous symmetry in equilibrium, from the Gaussian
   infrared divergence, and Hattori et al.'s point that spins feel only
   the interaction network is A29's point that the governing dimension is
   the interaction graph's. So the graph version exists in the
   literature, as Cassi's theorem, not Mermin and Wagner's, and not for a
-  learned representation (ARG-tmpx5evn). Cassi (LIT-tmpu2kk5) and
-  Hattori et al. (LIT-tmp309tx) are registered, unread.
-- **TERM-136**: **the term's origin for networks.** Hattori et al. define
+  learned representation ([ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)). Cassi ([LIT-tmpu2kk5](../literature.d/LIT-tmpu2kk5.md)) and
+  Hattori et al. ([LIT-tmp309tx](../literature.d/LIT-tmp309tx.md)) are registered, unread.
+- **[TERM-136](../terms.d/TERM-136.md)**: **the term's origin for networks.** Hattori et al. define
   the spectral dimension of general networks through a Gaussian field
-  theory on them, the sense TERM-136 uses.
-- **CLAIM-841**: **consistent.** ∫d^Dk/k² = ∫k^(D−3)dk is the integral the
+  theory on them, the sense [TERM-136](../terms.d/TERM-136.md) uses.
+- **[CLAIM-841](../claims.d/CLAIM-841.md)**: **consistent.** ∫d^Dk/k² = ∫k^(D−3)dk is the integral the
   claim cites for the 2D logarithm; the rigorous route to it is
   Bogoliubov's bound, not the spin-wave integral.
 

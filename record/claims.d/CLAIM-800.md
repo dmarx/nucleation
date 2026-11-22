@@ -84,8 +84,8 @@ Y_fine, I(Z_t; Y_fine) = I(Z_t; Y_coarse) + I(Z_t; Y_fine | Y_coarse), and
 coarse-to-fine learning predicts the first term saturating before the
 second rises. But fine structure can sit latent under coarse labels:
 representations trained on coarse labels keep finer structure recoverable
-by clustering (Yang, Steinhardt and Hu, LIT-2957, read 2026-11-22 as
-THEORY-tmp8sxta: label-free clustering followed by a linear probe, so the
+by clustering (Yang, Steinhardt and Hu, [LIT-2957](../literature.d/LIT-2957.md), read 2026-11-22 as
+[THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md): label-free clustering followed by a linear probe, so the
 fine structure is linearly decodable, in ResNet and DenseNet and not in
 VGG; changed in place, version 2), so both the information present and the information accessible
 to restricted decoders should be measured. And a matched null: A35 §9's
@@ -109,9 +109,9 @@ information and the usable version measured level by level instead.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957) were read (NOTE-tmpl260d; the reading
-is THEORY-tmp8sxta). **Supports, and qualifies the direction of §6's
-prediction** (ARG-tmp96ygx).
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md)) were read ([NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md); the reading
+is [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)). **Supports, and qualifies the direction of §6's
+prediction** ([ARG-tmp96ygx](../arguments.d/ARG-tmp96ygx.md)).
 
 - **Supports.** On five coarse labels "Neural Collapse does happen", NC1
   going to zero, while label-free clustering plus a linear probe recovers
@@ -132,11 +132,11 @@ prediction** (ARG-tmp96ygx).
 Both read in this batch by another filer; the bearings are relayed from
 those readings.
 
-- **Atigh and colleagues** (LIT-2993): **background.** Nested cones are
+- **Atigh and colleagues** ([LIT-2993](../literature.d/LIT-2993.md)): **background.** Nested cones are
   used as a training target, and learning is measured by held-out leaf,
   sibling and cousin accuracy, an independent measure as this claim asks.
   The prototypes are fixed, so the claim's boundary term is zero by
   design.
-- **Bui and colleagues** (LIT-2989): **supports by example.** Their cone
+- **Bui and colleagues** ([LIT-2989](../literature.d/LIT-2989.md)): **supports by example.** Their cone
   loss raises occupancy by construction, and the method is judged by
   independent retrieval, not by occupancy.

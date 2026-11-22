@@ -100,28 +100,28 @@ the observed set cannot account for is measured, not assumed away.
 
 ## Connections
 
-The rival decomposition is Williams and Beer's (LIT-1172), which the paper
+The rival decomposition is Williams and Beer's ([LIT-1172](../literature.d/LIT-1172.md)), which the paper
 names as its main foil. Its redundancy, taken per target state from the
 sorted singleton specific informations, has the shape of Williams and
 Beer's I_min; that is this filing's reading of SI step 3, not the paper's
 statement. It is in the family of predictive measures relative to an
-information set held in SYNTHESIS-073, TERM-057 and TERM-058. Other rival
-decompositions the record holds, LIT-1162 and LIT-042, are background.
+information set held in [SYNTHESIS-073](../syntheses.d/SYNTHESIS-073.md), [TERM-057](../terms.d/TERM-057.md) and [TERM-058](../terms.d/TERM-058.md). Other rival
+decompositions the record holds, [LIT-1162](../literature.d/LIT-1162.md) and [LIT-042](../literature.d/LIT-042.md), are background.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpc73s5. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md). Dated notes of 2026-11-22 on each entry below.
 
-- **CLAIM-810**: qualifies. The paper keeps transfer (the flux) and
+- **[CLAIM-810](../claims.d/CLAIM-810.md)**: qualifies. The paper keeps transfer (the flux) and
   dependence (SURD's predictive information among flux signals) apart in
   its construction and fits the claim's turbulence row, but does not test
-  the separations the claim argues (ARG-tmpojf88, Rejected as a route to
+  the separations the claim argues ([ARG-tmpojf88](../arguments.d/ARG-tmpojf88.md), Rejected as a route to
   the separations); the "What it does not say" bullet is updated.
-- **CLAIM-335**: supports by instance: SURD's "causality" is predictive
+- **[CLAIM-335](../claims.d/CLAIM-335.md)**: supports by instance: SURD's "causality" is predictive
   information, and its "energy cascade of causality" is the slide from
-  prediction to flow (ARG-tmp94chy).
-- **CLAIM-343**, **LIT-1172**, **SYNTHESIS-073**, **TERM-057**,
-  **TERM-058**, **CLAIM-407**, **THEORY-747**, **THEORY-754**: background,
+  prediction to flow ([ARG-tmp94chy](../arguments.d/ARG-tmp94chy.md)).
+- **[CLAIM-343](../claims.d/CLAIM-343.md)**, **[LIT-1172](../literature.d/LIT-1172.md)**, **[SYNTHESIS-073](../syntheses.d/SYNTHESIS-073.md)**, **[TERM-057](../terms.d/TERM-057.md)**,
+  **[TERM-058](../terms.d/TERM-058.md)**, **[CLAIM-407](../claims.d/CLAIM-407.md)**, **[THEORY-747](../theory.d/THEORY-747.md)**, **[THEORY-754](../theory.d/THEORY-754.md)**: background,
   contrast or parallel.
 
 Nothing here is filed as an instruction for machine-learning practice.

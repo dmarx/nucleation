@@ -73,7 +73,7 @@ d_s of the interaction geometry ([TERM-136](../terms.d/TERM-136.md)), then
 
 which diverges at the lower limit for d_s ≤ 2, logarithmically at d_s = 2.
 "That's the same lower-critical-dimensional phenomenon we encountered in the
-XY model": the Mermin–Wagner theorem (LIT-2985, Unavailable, read
+XY model": the Mermin–Wagner theorem ([LIT-2985](../literature.d/LIT-2985.md), Unavailable, read
 through neighbours), read on the learned interaction graph. The reading
 on a graph is not Mermin and Wagner's own result but Cassi's (below).
 
@@ -119,12 +119,12 @@ fluctuation criterion.
 ## Where the theorem is held, and its limits
 
 *Added 2026-11-22, after the neighbours of Mermin and Wagner were read
-(ARG-tmpx5evn).*
+([ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)).*
 
 **The graph version exists.** As Gelfert and Nolting report it
-(LIT-tmpbgf6y, THEORY-tmp1nvjs, §3.4), Cassi (1992, LIT-tmpu2kk5) applied
+([LIT-tmpbgf6y](../literature.d/LIT-tmpbgf6y.md), [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md), §3.4), Cassi (1992, [LIT-tmpu2kk5](../literature.d/LIT-tmpu2kk5.md)) applied
 Hattori, Hattori and Watanabe's Gaussian field theory on general
-networks (1987, LIT-tmp309tx) to show that on fractal and disordered
+networks (1987, [LIT-tmp309tx](../literature.d/LIT-tmp309tx.md)) to show that on fractal and disordered
 lattices "whose spectral dimension is less or equal to 2", "at finite
 temperature no spontaneous magnetization can exist for the classical
 O(n) and the ferromagnetic (quantum) Heisenberg model", from "the
@@ -132,11 +132,11 @@ infrared divergencies displayed by the corresponding Gaussian models".
 Hattori et al.'s premise, that "the only geometrical structure that spins
 can feel is the one given by the Hamiltonian", is A29's point that the
 governing dimension is the interaction graph's. Nachtergaele's proof
-(LIT-tmp25uib, THEORY-tmp85ij4) needs no translation invariance. Both
+([LIT-tmp25uib](../literature.d/LIT-tmp25uib.md), [THEORY-tmp85ij4](../theory.d/THEORY-tmp85ij4.md)) needs no translation invariance. Both
 originals are registered and unread; the record holds them at second
 hand.
 
-**What the theorem needs** (Halperin, LIT-tmp3zns2, THEORY-tmpqma2p,
+**What the theorem needs** (Halperin, [LIT-tmp3zns2](../literature.d/LIT-tmp3zns2.md), [THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md),
 which `bounds` this claim):
 
 - a continuous symmetry of the Hamiltonian whose generator is a sum of
@@ -157,7 +157,7 @@ which `bounds` this claim):
   but nonlinear coupling renormalizes the bending constant, "which
   removes the divergence" (Halperin §II): order survives where the
   Gaussian criterion predicts its loss.
-- In Toner and Tu's flock (LIT-2970, THEORY-tmpdfeto, which `bounds` this
+- In Toner and Tu's flock ([LIT-2970](../literature.d/LIT-2970.md), [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md), which `bounds` this
   claim) the linear theory has this claim's divergence, logarithmic in
   d = 2, and the non-equilibrium convective terms remove it, giving true
   long-range order. Relaxing the equilibrium premise can reverse the
@@ -165,7 +165,7 @@ which `bounds` this claim):
 - At d_s = 2 exactly, the XY case shows that what survives can be
   algebraic order, decided by defects that no Gaussian elastic energy
   contains: the spin-wave energy alone "is perfectly analytic" and has no
-  transition (Drouin-Touchette, NOTE-tmpurjns). A learned-manifold
+  transition (Drouin-Touchette, [NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md)). A learned-manifold
   analogue would need its defects identified.
 
 So the criterion's mathematics is a held theorem for spin models with a

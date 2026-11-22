@@ -62,7 +62,7 @@ Halperin (2018). Journal of Statistical Physics 175, 521–529. arXiv
 
 ## Standing in the record
 
-Registered as a stand-in for Mermin and Wagner (1966), LIT-2985, which is
-Unavailable (ADR-114). It restates the 1966 paper's scope and conditions;
+Registered as a stand-in for Mermin and Wagner (1966), [LIT-2985](LIT-2985.md), which is
+Unavailable ([ADR-114](../decisions.d/ADR-114.md)). It restates the 1966 paper's scope and conditions;
 it does not reproduce the proof (for that, Gelfert and Nolting,
-LIT-tmpbgf6y). It is the record's ground for the limits added to CLAIM-842.
+[LIT-tmpbgf6y](LIT-tmpbgf6y.md)). It is the record's ground for the limits added to [CLAIM-842](../claims.d/CLAIM-842.md).

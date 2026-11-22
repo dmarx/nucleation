@@ -33,8 +33,8 @@ summary: >-
   not for b < 0, where it lies in the disordered region among many
   irregular attractors: "the edge of chaos, or the critical region, does
   not consistently align with the peak performance region". Read for that
-  passage only (NOTE-tmpt3dxa), as a later qualification of Bertschinger
-  and Natschläger (LIT-2991).
+  passage only ([NOTE-tmpt3dxa](../notes.d/NOTE-tmpt3dxa.md)), as a later qualification of Bertschinger
+  and Natschläger ([LIT-2991](LIT-2991.md)).
 ---
 <!-- inactive-ok-file: LIT-2991 NOTE-tmpt3dxa CLAIM-809 ARG-tmps7n0g — Unavailable, Proposed or new; the work it qualifies, its reading and the claim and argument it bears on -->
 
@@ -44,8 +44,8 @@ Calvet, Reulet & Rouat (2023). arXiv 2312.08522.
 
 ## Standing in the record
 
-A supplement to the reading of LIT-2991 (ADR-114), read on 2026-11-22
-for its Discussion (NOTE-tmpt3dxa). It is quoted for CLAIM-809's clause
+A supplement to the reading of [LIT-2991](LIT-2991.md) ([ADR-114](../decisions.d/ADR-114.md)), read on 2026-11-22
+for its Discussion ([NOTE-tmpt3dxa](../notes.d/NOTE-tmpt3dxa.md)). It is quoted for [CLAIM-809](../claims.d/CLAIM-809.md)'s clause
 that the best distance from the transition depends on the system
-(ARG-tmps7n0g). The rest of the paper is not read, so the record holds no
+([ARG-tmps7n0g](../arguments.d/ARG-tmps7n0g.md)). The rest of the paper is not read, so the record holds no
 account of it as a whole and files no THEORY.

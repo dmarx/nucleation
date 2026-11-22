@@ -18,11 +18,11 @@ source:
 bears_on:
 - QUESTION-508
 summary: >-
-  Drouin-Touchette (2022), LIT-tmp6hh1r, skimmed in NOTE-tmpurjns as a
-  stand-in for Kosterlitz and Thouless (1973), LIT-2969. Standard results,
+  Drouin-Touchette (2022), [LIT-tmp6hh1r](../literature.d/LIT-tmp6hh1r.md), skimmed in [NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md) as a
+  stand-in for Kosterlitz and Thouless (1973), [LIT-2969](../literature.d/LIT-2969.md). Standard results,
   derived at a student level and credited to Kosterlitz (1974) and José et
-  al. (1977). Grounds CLAIM-841's XY row with Kosterlitz's lecture
-  (THEORY-tmpwdka8) (ARG-tmprfa3j), and the BKT case of CLAIM-tmpvq33w.
+  al. (1977). Grounds [CLAIM-841](../claims.d/CLAIM-841.md)'s XY row with Kosterlitz's lecture
+  ([THEORY-tmpwdka8](THEORY-tmpwdka8.md)) ([ARG-tmprfa3j](../arguments.d/ARG-tmprfa3j.md)), and the BKT case of [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md).
   Proposed until checked against the primary papers.
 ---
 <!-- inactive-ok-file: NOTE-tmpurjns THEORY-tmpwdka8 ARG-tmprfa3j CLAIM-tmpvq33w — new or Skimmed; this reading, its companion and the entries it grounds -->
@@ -34,8 +34,8 @@ summary: >-
 ## Source
 
 Drouin-Touchette (2022), "The Kosterlitz-Thouless phase transition: an
-introduction for the intrepid student", arXiv 2207.13748, LIT-tmp6hh1r,
-§§2–3, skimmed in NOTE-tmpurjns.
+introduction for the intrepid student", arXiv 2207.13748, [LIT-tmp6hh1r](../literature.d/LIT-tmp6hh1r.md),
+§§2–3, skimmed in [NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md).
 
 ## The account
 

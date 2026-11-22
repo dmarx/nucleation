@@ -53,7 +53,7 @@ any account of collapse predicts.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **a
 contrast, no bearing on the MSE question.** Cross-entropy runs; their
 critique of the unconstrained-feature model applies to the model the
 renormalized flow is derived in. No relation.

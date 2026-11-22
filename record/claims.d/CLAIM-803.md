@@ -268,11 +268,11 @@ as a parallel.
   ("ideal") interface, χ = ½, and strip simulations had read the one as
   the other, "a result of a peculiarity of one-dimensional interfaces";
   only the dynamics, z = 3/2 against 2, tell the classes apart (Kardar,
-  Parisi and Zhang, LIT-2978, NOTE-tmpf6isj, p. 891). That is this claim's
+  Parisi and Zhang, [LIT-2978](../literature.d/LIT-2978.md), [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md), p. 891). That is this claim's
   "a shared power law does not show a shared … universality class", and
-  its "read from the dynamics". THEORY-tmpo3w5v `corroborates` the claim.
+  its "read from the dynamics". [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md) `corroborates` the claim.
 - **Parallel: the class identified beyond the exponents.** Takeuchi and
-  Sano (LIT-2982, NOTE-tmpbmox1; THEORY-tmpmoyol) go "beyond the scaling
+  Sano ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md); [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)) go "beyond the scaling
   laws" (p. 1): the class is fixed by the whole fluctuation distribution
   and the correlation, and the distribution splits curved from flat
   fronts (GUE from GOE), which share the exponents. No edge: the two are

@@ -178,7 +178,7 @@ the unspiked RF spectrum". No relation.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **background.** At random weights the conjugate kernel is the
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](THEORY-tmp9ltxi.md)): **background.** At random weights the conjugate kernel is the
 random-features baseline, and the paper gives its outliers when the input
 has spikes; after a few gradient steps at η of order one the trained
 kernel adds one label-aligned outlier beside the untrained bulk law. A

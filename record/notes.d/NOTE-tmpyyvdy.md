@@ -42,7 +42,7 @@ benchmark protocol: a fraction ρ of leaf labels each replaced by a
 non-root ancestor drawn uniformly, with ρ up to 0.975. The design rule is
 §1's: "the more specific a sample's label, the more narrowly defined the
 region in the embedding space should be for optimization." The reading is
-THEORY-tmpsj6u9.
+[THEORY-tmpsj6u9](../theory.d/THEORY-tmpsj6u9.md).
 
 ## Key results
 
@@ -93,36 +93,36 @@ schedule.
 
 ## Connections
 
-The entailment loss is Ganea et al.'s cone and angle penalty (LIT-866),
+The entailment loss is Ganea et al.'s cone and angle penalty ([LIT-866](../literature.d/LIT-866.md)),
 used directly; the prototypes are placed by Sala et al.'s distortion
-objective (LIT-874), which A.4 also cites for hyperbolic over Euclidean
+objective ([LIT-874](../literature.d/LIT-874.md)), which A.4 also cites for hyperbolic over Euclidean
 geometry. Leaves are first spread by maximum class separation (Kasarla et
 al. 2022, not held).
 
 ## Bearing on the record
 
-- **CLAIM-839** (a weak parallel, for its semantic half only). The paper
+- **[CLAIM-839](../claims.d/CLAIM-839.md)** (a weak parallel, for its semantic half only). The paper
   is a working instance of supervision as a region whose narrowness
   matches the label's specificity: a coarse label confines the embedding
   to the coarse cone and spreads the target over its leaves. It gives
   nothing on Blackwell informativeness across checkpoints, on branching,
   or on restriction over training time; the nesting is semantic, applied
-  to each sample at one time. ARG-tmpv9jbe.
-- **CLAIM-816** (weakly supports its worry). The paper relies on depth by
+  to each sample at one time. [ARG-tmpv9jbe](../arguments.d/ARG-tmpv9jbe.md).
+- **[CLAIM-816](../claims.d/CLAIM-816.md)** (weakly supports its worry). The paper relies on depth by
   radius and adds the Busemann term because the other losses leave
   samples "biased towards internal classes": the radial range has to be
   enforced, not had for free. It sets the embedding dimension to c − 1 without
   remarking on concentration.
-- **ARG-153** (parallel). L_entail is purely angular; the radial work is
+- **[ARG-153](../arguments.d/ARG-153.md)** (parallel). L_entail is purely angular; the radial work is
   done separately by the Busemann term, the same split between angular
-  and radial structure that ARG-153 draws.
-- **CLAIM-828, LIT-862** (contrast, by name only). "Coarse-to-fine" here
+  and radial structure that [ARG-153](../arguments.d/ARG-153.md) draws.
+- **[CLAIM-828](../claims.d/CLAIM-828.md), [LIT-862](../literature.d/LIT-862.md)** (contrast, by name only). "Coarse-to-fine" here
   is a false friend: the paper makes no claim about the order in which
   distinctions are acquired.
-- **LIT-866, LIT-874** (background; applied).
-- **CLAIM-800, QUESTION-512, LEAD-210, LIT-2957** (bearings on another
+- **[LIT-866](../literature.d/LIT-866.md), [LIT-874](../literature.d/LIT-874.md)** (background; applied).
+- **[CLAIM-800](../claims.d/CLAIM-800.md), [QUESTION-512](../questions.d/QUESTION-512.md), [LEAD-210](../leads.d/LEAD-210.md), [LIT-2957](../literature.d/LIT-2957.md)** (bearings on another
   filer's files, reported to the lead and not written here): the
-  prototypes are fixed, so CLAIM-800's boundary term is zero by design;
+  prototypes are fixed, so [CLAIM-800](../claims.d/CLAIM-800.md)'s boundary term is zero by design;
   the work asks nothing temporal; Table 3's recovery of withheld fine
   labels is not a coarse-only setting.
 

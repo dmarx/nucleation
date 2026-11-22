@@ -27,7 +27,7 @@ summary: >-
   another when it is a coarse-graining that is predicted more
   efficiently, E/Cµ.
 ---
-<!-- inactive-ok-file: THEORY-tmpttfgp TERM-tmpaztqn CLAIM-tmp3ima1 THEORY-257 THEORY-tmpx26x7 TERM-140 CLAIM-820 SYNTHESIS-075 — Proposed or new; the account this reading files, the term and claim filed from it, and the entries it bears on -->
+<!-- inactive-ok-file: TERM-tmpaztqn CLAIM-tmp3ima1 THEORY-257 TERM-140 CLAIM-820 SYNTHESIS-075 — Proposed or new; the account this reading files, the term and claim filed from it, and the entries it bears on -->
 
 # NOTE-tmpunt6q: Shalizi & Moore — What Is a Macrostate? Subjective Observations and Objective Dynamics
 
@@ -112,34 +112,34 @@ description.
 
 ## Bearing on the record
 
-- **LIT-2996**: its registered summary, macrostates "fixed by the dynamics
+- **[LIT-2996](../literature.d/LIT-2996.md)**: its registered summary, macrostates "fixed by the dynamics
   rather than by the observer", is wrong as stated; the thesis is "both".
   Corrected there.
-- **TERM-062**: supports its target-relativity (§VI).
-- **THEORY-756**: supports; the same Shalizi–Crutchfield optimality,
+- **[TERM-062](../terms.d/TERM-062.md)**: supports its target-relativity (§VI).
+- **[THEORY-756](../theory.d/THEORY-756.md)**: supports; the same Shalizi–Crutchfield optimality,
   restated (§II).
-- **THEORY-257**: contrast. Dynamical independence fixes macrovariables
+- **[THEORY-257](../theory.d/THEORY-257.md)**: contrast. Dynamical independence fixes macrovariables
   "by the dynamics rather than by a chosen query"; for Shalizi and Moore
   the dynamics fix macrostates only given a query, the observables, and
   they condition on the macro past, not the micro past.
-- **THEORY-820**: contrast; Markov in its own past, not informational
+- **[THEORY-820](../theory.d/THEORY-820.md)**: contrast; Markov in its own past, not informational
   closure relative to the micro past.
-- **CLAIM-401**: qualifies; prescience and Markov closure are fused in one
+- **[CLAIM-401](../claims.d/CLAIM-401.md)**: qualifies; prescience and Markov closure are fused in one
   criterion, relative to one chosen projection.
-- **CLAIM-152, CLAIM-348, SYNTHESIS-075**: support for adequacy relative
+- **[CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-348](../claims.d/CLAIM-348.md), [SYNTHESIS-075](../syntheses.d/SYNTHESIS-075.md)**: support for adequacy relative
   to a target (§IV.B, §VI).
-- **NOTE-935, NOTE-791, NOTE-978**: they name Shalizi and Moore's
+- **[NOTE-935](NOTE-935.md), [NOTE-791](NOTE-791.md), [NOTE-978](NOTE-978.md)**: they name Shalizi and Moore's
   predictive efficiency or causal states; the record held no entry for
-  the efficiency definition of emergence, now TERM-tmpaztqn.
-- **TERM-140, CLAIM-820**: parallels by another mechanism (coarse-graining
-  of states, not stiff parameter combinations); TERM-140 only background.
-- **QUESTION-517**: one datum on the predictive-state side, which moves
+  the efficiency definition of emergence, now [TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md).
+- **[TERM-140](../terms.d/TERM-140.md), [CLAIM-820](../claims.d/CLAIM-820.md)**: parallels by another mechanism (coarse-graining
+  of states, not stiff parameter combinations); [TERM-140](../terms.d/TERM-140.md) only background.
+- **[QUESTION-517](../questions.d/QUESTION-517.md)**: one datum on the predictive-state side, which moves
   with observation and time step; no dimension is computed.
-- **QUESTION-218, TERM-068**: background (G as a unit of classes of
+- **[QUESTION-218](../questions.d/QUESTION-218.md), [TERM-068](../terms.d/TERM-068.md)**: background (G as a unit of classes of
   histories; closure as "Markov in its own past"); reported to the lead.
 
-Filed from this reading: TERM-tmpaztqn (the emergence relation) and,
-with Quinn and colleagues, CLAIM-tmp3ima1 (alternative a, the assistant's).
+Filed from this reading: [TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md) (the emergence relation) and,
+with Quinn and colleagues, [CLAIM-tmp3ima1](../claims.d/CLAIM-tmp3ima1.md) (alternative a, the assistant's).
 
 ## Limitations
 

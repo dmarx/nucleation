@@ -79,7 +79,7 @@ maximal-update step, not in random features. No relation.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a parallel.**
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **a parallel.**
 Both concern the data's role in collapse. Yang and colleagues are the
 feature-learning side: the residual variation is structured by the input,
 against the unconstrained-feature model, which "completely ignores the role

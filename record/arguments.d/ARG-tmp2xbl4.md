@@ -16,8 +16,8 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  CLAIM-841's KPZ row read "W(L, t) = L^α F(t/L^z), α = ½, z = 3/2 in 1D,
-  generically", untuned, citing LIT-2978 and LIT-2982 unread. Read, KPZ
+  [CLAIM-841](../claims.d/CLAIM-841.md)'s KPZ row read "W(L, t) = L^α F(t/L^z), α = ½, z = 3/2 in 1D,
+  generically", untuned, citing [LIT-2978](../literature.d/LIT-2978.md) and [LIT-2982](../literature.d/LIT-2982.md) unread. Read, KPZ
   supports it for d ≤ 2: any λ ≠ 0 flows to the KPZ fixed point, and only
   the mean velocity is removed, by a change of frame. Above two
   dimensions a small λ is irrelevant and a tuned intermediate fixed point
@@ -36,9 +36,9 @@ summary: >-
 
 ## The inference
 
-CLAIM-841's KPZ row holds that a growing interface is scale invariant
-without a tuned transition, "generically". THEORY-tmpo3w5v,
-THEORY-tmpdcfxq and THEORY-tmpmoyol, read as sources, would carry it.
+[CLAIM-841](../claims.d/CLAIM-841.md)'s KPZ row holds that a growing interface is scale invariant
+without a tuned transition, "generically". [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md),
+[THEORY-tmpdcfxq](../theory.d/THEORY-tmpdcfxq.md) and [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md), read as sources, would carry it.
 
 ## Critical questions (source)
 
@@ -73,6 +73,6 @@ Doussal). The experiment is one system, one geometry, short times.
 
 ## Verdict
 
-THEORY-tmpo3w5v and THEORY-tmpmoyol join CLAIM-841's `grounds` for the
-KPZ row, scoped to d ≤ 2; THEORY-tmpdcfxq grounds the scope. The row is
+[THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md) and [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md) join [CLAIM-841](../claims.d/CLAIM-841.md)'s `grounds` for the
+KPZ row, scoped to d ≤ 2; [THEORY-tmpdcfxq](../theory.d/THEORY-tmpdcfxq.md) grounds the scope. The row is
 reworded in place. The thesis is unaffected.

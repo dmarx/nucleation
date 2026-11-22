@@ -144,7 +144,7 @@ written.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-Background. Lee et al. (THEORY-tmpm3ux2) place themselves in the line of
+Background. Lee et al. ([THEORY-tmpm3ux2](THEORY-tmpm3ux2.md)) place themselves in the line of
 work that reads training's stages as the Bayesian posterior's
 transitions, and name the link to SGD as their main gap, as this reading's
 own comparison of SGD's chain with critical sample sizes does.

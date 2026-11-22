@@ -21,13 +21,13 @@ bears_on:
 corroborates:
 - CLAIM-152
 summary: >-
-  Shalizi and Moore (2003), LIT-2996, read in NOTE-tmpunt6q. Their answer
+  Shalizi and Moore (2003), [LIT-2996](../literature.d/LIT-2996.md), read in [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md). Their answer
   to whether macrostates are objective or subjective is "both": the
   observables are the observer's, the causal states reached from them are
   fixed by the dynamics. "A different set of initial variables will,
   generally, lead to a different set of causal states"; "Nature has no
   preferred questions." Their emergence is a coarse-graining predicted
-  more efficiently (argon: 0.87 against 0.5), held in TERM-tmpaztqn.
+  more efficiently (argon: 0.87 against 0.5), held in [TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md).
 ---
 <!-- inactive-ok-file: TERM-tmpaztqn THEORY-257 CLAIM-tmp3ima1 — Proposed or new; the term filed from this reading, the account it contrasts with and the claim it grounds -->
 <!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed; the reading of Quinn and colleagues, joined with this one in CLAIM-tmp3ima1 -->
@@ -38,8 +38,8 @@ summary: >-
 
 Shalizi and Moore, "What Is a Macrostate? Subjective Observations and
 Objective Dynamics", arXiv cond-mat/0303625 (2003), published in
-Foundations of Physics 55, 2 (2025), LIT-2996, read in full from the
-arXiv PDF in NOTE-tmpunt6q.
+Foundations of Physics 55, 2 (2025), [LIT-2996](../literature.d/LIT-2996.md), read in full from the
+arXiv PDF in [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md).
 
 ## What was actually argued
 
@@ -77,8 +77,8 @@ the argon numbers they are more efficient.
 - Not that the dynamics alone fix the macrostates: they fix them given
   the observables.
 - Not closure relative to the microscopic past: the macro process is
-  Markov in its own past; informational closure (THEORY-820) and
-  dynamical independence (THEORY-257) condition on the micro past, and
+  Markov in its own past; informational closure ([THEORY-820](THEORY-820.md)) and
+  dynamical independence ([THEORY-257](THEORY-257.md)) condition on the micro past, and
   the paper makes no comparison.
 - No new theorems: optimality is cited; the argon numbers come from the
   thesis; noise-free observations and known conditional laws are assumed.
@@ -86,6 +86,6 @@ the argon numbers they are more efficient.
 
 ## Connections
 
-Supports TERM-062's target-relativity and THEORY-756. Contrast with
-THEORY-257 and THEORY-820. Grounds TERM-tmpaztqn and, with Quinn and
-colleagues (THEORY-tmpx26x7), CLAIM-tmp3ima1. Bears on QUESTION-517.
+Supports [TERM-062](../terms.d/TERM-062.md)'s target-relativity and [THEORY-756](THEORY-756.md). Contrast with
+[THEORY-257](THEORY-257.md) and [THEORY-820](THEORY-820.md). Grounds [TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md) and, with Quinn and
+colleagues ([THEORY-tmpx26x7](THEORY-tmpx26x7.md)), [CLAIM-tmp3ima1](../claims.d/CLAIM-tmp3ima1.md). Bears on [QUESTION-517](../questions.d/QUESTION-517.md).

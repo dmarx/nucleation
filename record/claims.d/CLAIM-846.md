@@ -125,11 +125,11 @@ separation of spectrum from marginals. A parallel, so no relation.
 ## Note of 2026-11-22: Toner and Tu (1998), Halperin and Drouin-Touchette, read
 
 **Parallels, no edge.** Three readings of 2026-11-22 carry this claim's
-point in their own cases. Halperin (LIT-tmp3zns2, NOTE-tmpuwmny, eqs. 2–3)
-and Drouin-Touchette (LIT-tmp6hh1r, NOTE-tmpurjns, §2.2, eq. 18) give the
+point in their own cases. Halperin ([LIT-tmp3zns2](../literature.d/LIT-tmp3zns2.md), [NOTE-tmpuwmny](../notes.d/NOTE-tmpuwmny.md), eqs. 2–3)
+and Drouin-Touchette ([LIT-tmp6hh1r](../literature.d/LIT-tmp6hh1r.md), [NOTE-tmpurjns](../notes.d/NOTE-tmpurjns.md), §2.2, eq. 18) give the
 Gaussian spin-wave computation this claim checks numerically: phase
 variance ∝ ln r and correlations ∝ r^(−T/2πρ_s), with Gaussian angles at
-every point. Toner and Tu (LIT-2970, NOTE-tmpcjw5n) put a flock's
+every point. Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md)) put a flock's
 scale-free content in correlation functions and a density structure
 factor that diverges as q → 0, not in a distribution of magnitudes.
 And Drouin-Touchette add a limit of the Gaussian route this claim does

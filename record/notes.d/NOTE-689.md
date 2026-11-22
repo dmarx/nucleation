@@ -280,8 +280,8 @@ exactly when β > √(D/N). The two differ in kind, not only in constant.
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-**A parallel, as to classification** (LIT-3010, read in NOTE-tmpe86ty;
-THEORY-tmpl7rgc). Hypothesis 1, H_n − H_∞ ≍ n^(−γ), is Crutchfield and
+**A parallel, as to classification** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-tmpe86ty](NOTE-tmpe86ty.md);
+[THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md)). Hypothesis 1, H_n − H_∞ ≍ n^(−γ), is Crutchfield and
 Feldman's power-law entropy convergence, with H_n the conditional entropy
 given n tokens, their hµ(n + 1). With γ ≈ 0.27–0.33 < 1 the sum
 E = Σ [hµ(L) − hµ] diverges, growing as n^(1−γ): the token process is

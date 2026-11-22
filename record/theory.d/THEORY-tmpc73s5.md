@@ -18,12 +18,12 @@ source:
 corroborates:
 - CLAIM-335
 summary: >-
-  Martínez-Sánchez and colleagues, LIT-2965, read in NOTE-tmpi0o71. SURD
+  Martínez-Sánchez and colleagues, [LIT-2965](../literature.d/LIT-2965.md), read in [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md). SURD
   measures predictive information among time series of a physical flux,
   so it keeps transfer and dependence apart as objects; its "causality" is
-  prediction. An instance of CLAIM-335's point (ARG-tmp94chy), and a fit to
-  CLAIM-810's turbulence row that does not test its separations
-  (ARG-tmpojf88).
+  prediction. An instance of [CLAIM-335](../claims.d/CLAIM-335.md)'s point ([ARG-tmp94chy](../arguments.d/ARG-tmp94chy.md)), and a fit to
+  [CLAIM-810](../claims.d/CLAIM-810.md)'s turbulence row that does not test its separations
+  ([ARG-tmpojf88](../arguments.d/ARG-tmpojf88.md)).
 ---
 <!-- inactive-ok-file: CLAIM-810 ARG-tmp94chy ARG-tmpojf88 — Proposed or new; the claim this reading bears on and the arguments that weigh it -->
 
@@ -33,8 +33,8 @@ summary: >-
 
 Álvaro Martínez-Sánchez, Gonzalo Arranz and Adrián Lozano-Durán,
 "Decomposing causality into its synergistic, unique, and redundant
-components", Nat Commun 15, 9296 (2024), arXiv 2405.12411, LIT-2965, read
-in NOTE-tmpi0o71.
+components", Nat Commun 15, 9296 (2024), arXiv 2405.12411, [LIT-2965](../literature.d/LIT-2965.md), read
+in [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md).
 
 ## What was actually shown
 

@@ -53,8 +53,8 @@ Drouin-Touchette (2022). arXiv 2207.13748.
 
 ## Standing in the record
 
-Registered as a stand-in for Kosterlitz and Thouless (1973), LIT-2969,
-which is Unfetched (ADR-114). It restates the results of the BKT line of
-work, attributing the RG to Kosterlitz (1974), LIT-tmph3tia; it does not
+Registered as a stand-in for Kosterlitz and Thouless (1973), [LIT-2969](LIT-2969.md),
+which is Unfetched ([ADR-114](../decisions.d/ADR-114.md)). It restates the results of the BKT line of
+work, attributing the RG to Kosterlitz (1974), [LIT-tmph3tia](LIT-tmph3tia.md); it does not
 say which results the 1973 paper itself states. Student-level and
 unrefereed.

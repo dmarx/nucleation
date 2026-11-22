@@ -66,8 +66,8 @@ R505–R524. arXiv cond-mat/0106090. DOI 10.1088/0953-8984/13/27/201.
 
 ## Standing in the record
 
-Registered as a stand-in for Mermin and Wagner (1966), LIT-2985, which is
-Unavailable (ADR-114). It restates the proof's steps as an outline, the
+Registered as a stand-in for Mermin and Wagner (1966), [LIT-2985](LIT-2985.md), which is
+Unavailable ([ADR-114](../decisions.d/ADR-114.md)). It restates the proof's steps as an outline, the
 final bounds stated "as has been shown by Mermin and Wagner"; it is the
-record's only account, at second hand, of the graph version CLAIM-842
-supposes (ARG-tmpx5evn).
+record's only account, at second hand, of the graph version [CLAIM-842](../claims.d/CLAIM-842.md)
+supposes ([ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)).

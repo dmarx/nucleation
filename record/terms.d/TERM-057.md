@@ -114,7 +114,7 @@ to both conditionals. Stated with it, always:
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **background.**
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **background.**
 SURD's unique and synergistic terms decompose the same kind of conditional
 predictive information this term measures, and the paper benchmarks
 against conditional transfer entropy, which it says "may yield negative

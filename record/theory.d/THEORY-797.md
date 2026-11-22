@@ -93,7 +93,7 @@ neural collapse holds at all.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a contrast
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **a contrast
 only.** Cross-entropy training (unhinged loss in its theorem), not MSE, and
 its critique of the unconstrained-feature model applies to the model this
 account's dynamics are derived in. No relation.

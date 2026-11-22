@@ -192,7 +192,7 @@ nothing regularizes it.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): this reading names a deep extension "through Fan and Wang's
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): this reading names a deep extension "through Fan and Wang's
 conjugate-kernel spectra"; Wang, Wu and Fan extend that setup (they cite
 Fan and Wang 2020 for deeper networks) to spiked inputs and their outliers.
 Fan and Wang 2020 is not registered. Background, no relation.

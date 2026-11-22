@@ -22,7 +22,7 @@ source:
 bears_on:
 - QUESTION-217
 summary: >-
-  Yang (2026), LIT-2961, read in NOTE-tmpg5q4t. Rose, Gurewitz and Fox's
+  Yang (2026), [LIT-2961](../literature.d/LIT-2961.md), read in [NOTE-tmpg5q4t](../notes.d/NOTE-tmpg5q4t.md). Rose, Gurewitz and Fox's
   annealing threshold made dynamic, with the crossing separated from the
   visible split. The sharp edges: the pitchfork is the probe's, and the
   probe is detached ("the encoder's gradients never see the probe"); the
@@ -38,7 +38,7 @@ summary: >-
 ## Source
 
 Yang (2026), "Feature Lottery? A Bifurcation Theory of Concept
-Emergence", arXiv 2605.24057, LIT-2961, read in NOTE-tmpg5q4t.
+Emergence", arXiv 2605.24057, [LIT-2961](../literature.d/LIT-2961.md), read in [NOTE-tmpg5q4t](../notes.d/NOTE-tmpg5q4t.md).
 
 ## What was actually shown
 
@@ -64,7 +64,7 @@ Emergence", arXiv 2605.24057, LIT-2961, read in NOTE-tmpg5q4t.
   link is the tilt γU(ε) of App. C, added by hand.
 - Anything about local learning coefficients or singular learning theory.
 - That a "sharp dynamical phase transition" in Kuehn's sense occurs
-  (THEORY-1429): a supercritical pitchfork has no fast jump.
+  ([THEORY-1429](THEORY-1429.md)): a supercritical pitchfork has no fast jump.
 - That early advantages compound. The direction each atom takes is chosen
   by "initialization noise and the cubic terms" and persists for a finite
   window (Prop. 2).

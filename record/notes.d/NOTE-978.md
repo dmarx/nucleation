@@ -278,7 +278,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 ## Note of 2026-11-22: Shalizi and Moore, read
 
 The bearing above names Shalizi and Moore's causal states as a neighbour.
-That work is now read (LIT-2996, NOTE-tmpunt6q, THEORY-tmpttfgp). Its
+That work is now read ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). Its
 argon numbers give macrostate predictive efficiency 0.87 against 0.5 for
-the microstate (TERM-tmpaztqn); its macrostates are the observed
+the microstate ([TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md)); its macrostates are the observed
 process's ε-machine, conditioned on the macro past, as said above.

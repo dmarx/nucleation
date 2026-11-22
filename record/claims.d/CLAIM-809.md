@@ -104,7 +104,7 @@ A15 gives five strands, each A's unless a work is named.
    states" (A15 §3). An ordered network forgets; a chaotic one separates
    but cannot be read reliably; near the transition both can hold, the
    edge-of-chaos result ([LIT-2991](../literature.d/LIT-2991.md), Unavailable; read through its NIPS
-   companion, THEORY-tmps8t83). There, order is fading memory, and chaos
+   companion, [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)). There, order is fading memory, and chaos
    fails because the state "contains “spurious” information about the
    initial conditions", not because of readout noise.
 2. **A bound on capacity.** "Dambre and colleagues showed that, under
@@ -164,7 +164,7 @@ criticality depends on what the system needs to accomplish.**"
   Computation paper is by Bertschinger and Natschläger ([LIT-2991](../literature.d/LIT-2991.md)). The
   three A names wrote its NIPS 2004 companion, "At the Edge of Chaos:
   Real-time Computations and Self-Organized Criticality in Recurrent
-  Neural Networks" (LIT-tmpdsowv; the title page orders them Natschläger,
+  Neural Networks" ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md); the title page orders them Natschläger,
   Bertschinger, Legenstein), which generalizes the journal paper's model
   and restates its headline. A ran the two 2004 papers together.
   Legenstein is also an author of a separate paper with Maass (2007), not
@@ -193,13 +193,13 @@ the transition there; unaveraged, critically slowed internal fluctuations
 disfavour it here. Both fit the thesis, that the best distance depends on
 the task and the readout, and neither alone says which way a given system
 goes. The third case is the edge of chaos itself: in Natschläger,
-Bertschinger and Legenstein's driven threshold networks (THEORY-tmps8t83),
+Bertschinger and Legenstein's driven threshold networks ([THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)),
 a linear readout does best near the order–chaos line, averaged over many
 nonlinear tasks of recent inputs; the paper reports no per-task optima.
-So readout noise toward the transition (CLAIM-814), subcritical for every
+So readout noise toward the transition ([CLAIM-814](CLAIM-814.md)), subcritical for every
 finite window (Azizpour), and near the order–chaos line on average
 (Bertschinger and colleagues), with Calvet, Reulet and Rouat
-(LIT-tmpahs2x) finding the alignment with the critical region dependent
+([LIT-tmpahs2x](../literature.d/LIT-tmpahs2x.md)) finding the alignment with the critical region dependent
 on the sign of the excitatory–inhibitory balance. Added 2026-11-22
 (versions 2 and 3); the wording is the assistant's (Claude, in this
 session).
@@ -280,14 +280,14 @@ together. No edge. Status unchanged.
 
 ## Note of 2026-11-22: Bertschinger and Natschläger, sought; Natschläger, Bertschinger and Legenstein, and Calvet, Reulet and Rouat, read
 
-Bertschinger and Natschläger's Neural Computation paper (LIT-2991) could
+Bertschinger and Natschläger's Neural Computation paper ([LIT-2991](../literature.d/LIT-2991.md)) could
 not be reached and is now Unavailable; its abstract was read. Its NIPS
-2004 companion was read in its place (LIT-tmpdsowv, NOTE-tmpi5t3r; the
-reading is THEORY-tmps8t83), and a passage of Calvet, Reulet and Rouat
-(LIT-tmpahs2x, NOTE-tmpt3dxa). The revisions are made in place above
+2004 companion was read in its place ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md); the
+reading is [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)), and a passage of Calvet, Reulet and Rouat
+([LIT-tmpahs2x](../literature.d/LIT-tmpahs2x.md), [NOTE-tmpt3dxa](../notes.d/NOTE-tmpt3dxa.md)). The revisions are made in place above
 (version 3).
 
-- **Strand 1: supported** (ARG-tmp2zz6k). Order is fading memory; chaos
+- **Strand 1: supported** ([ARG-tmp2zz6k](../arguments.d/ARG-tmp2zz6k.md)). Order is fading memory; chaos
   carries "spurious" information about initial conditions, which the
   paper's NM-separation subtracts.
 - **The headline qualifies the thesis and does not defeat it.** The
@@ -298,7 +298,7 @@ reading is THEORY-tmps8t83), and a passage of Calvet, Reulet and Rouat
   show a good performance in this setup"; it reports no per-task optima
   and no total. The defeater asks for every component maximized at the
   transition for every task, which is not shown.
-- **"The best distance depends": supported, weakly** (ARG-tmps7n0g).
+- **"The best distance depends": supported, weakly** ([ARG-tmps7n0g](../arguments.d/ARG-tmps7n0g.md)).
   Calvet and colleagues find "the edge of chaos, or the critical region,
   does not consistently align with the peak performance region",
   depending on the sign of the excitatory–inhibitory balance, and present
@@ -307,5 +307,5 @@ reading is THEORY-tmps8t83), and a passage of Calvet, Reulet and Rouat
   companion's.
 - **Silent** on strands 2 to 5.
 
-THEORY-tmps8t83 and LIT-tmpahs2x join the grounds; LIT-2991 stays there
+[THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md) and [LIT-tmpahs2x](../literature.d/LIT-tmpahs2x.md) join the grounds; [LIT-2991](../literature.d/LIT-2991.md) stays there
 as the work the strand names. Status unchanged.

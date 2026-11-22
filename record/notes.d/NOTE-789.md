@@ -202,8 +202,8 @@ same verdict on demonstrations against instructions by a causal method.
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **a parallel.**
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **a parallel.**
 Ansuini's §4 links its result to Chung, Lee and Sompolinsky's manifold
 capacity, the apparatus this reading applies to language models; here
-dimension is in the participation-ratio sense, there by TwoNN (TERM-136
+dimension is in the participation-ratio sense, there by TwoNN ([TERM-136](../terms.d/TERM-136.md)
 keeps the two apart). No relation.

@@ -154,7 +154,7 @@ optimality rests on the restarts, not on a certificate.
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **a parallel.**
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](THEORY-tmpvwv5n.md)): **a parallel.**
 Both rewrite InfoNCE's log-normalizer as a functional of the
 representation's law: here a finite-n log-sum, there a cross-entropy
 against a kernel-smoothed density in the large-batch limit. A note, no

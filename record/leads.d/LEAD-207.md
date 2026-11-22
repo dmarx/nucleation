@@ -53,7 +53,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpm3ux2 CLAIM-828 CLAIM-812 — Proposed; the reading of Lee et al. filed 2026-11-22, and the claims its note cites -->
 
-<!-- inactive-ok-file: CLAIM-812 CLAIM-807 CLAIM-828 — Proposed or new, filed with this lead, or a Deferred work registered from the exchange and not yet read -->
+<!-- inactive-ok-file: CLAIM-807 — Proposed or new, filed with this lead, or a Deferred work registered from the exchange and not yet read -->
 <!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 <!-- inactive-ok-file: THEORY-tmpr9w2r — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
@@ -140,12 +140,12 @@ as rises.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-A near instance and a method to borrow. Lee et al. (THEORY-tmpm3ux2) run
+A near instance and a method to borrow. Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)) run
 part of this lead in Saxe's hierarchical deep linear network: they date,
 for each level, the peak and sign change of one item's influence on
 another, with three measures that agree. Their hierarchy's order is by
 signal strength, so it does not separate dependency from strength, which
-is this lead's point (CLAIM-828's order by dependency stays untested).
+is this lead's point ([CLAIM-828](../claims.d/CLAIM-828.md)'s order by dependency stays untested).
 Their Bayesian influence, a covariance of per-sample losses under SGLD at
 each checkpoint, is an observable this lead could add, with the estimator
-cautions of CLAIM-812.
+cautions of [CLAIM-812](../claims.d/CLAIM-812.md).

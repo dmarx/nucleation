@@ -149,7 +149,7 @@ filing of the other readings of this batch.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, and Yang, read
 
-- **Lee et al. (THEORY-tmpm3ux2): supports the weak half by the same
+- **Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)): supports the weak half by the same
   analogy; leaves the strong half open.** The paper adopts this reading's
   picture, phases competing in a local free energy nL + λ log n with
   first-order transitions between them (A.2), and uses it to predict
@@ -159,6 +159,6 @@ filing of the other readings of this batch.
   adds that at equal loss a "Type-B" transition lowers the LLC (A.2),
   which is the qualification this claim's earlier note records. An
   analogy; no edge.
-- **Yang (THEORY-tmpu0f9k): contrast.** No crossover in n; a training-time
+- **Yang ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)): contrast.** No crossover in n; a training-time
   bifurcation in one parameter of a detached probe, on the dynamical side
   of the transitions this claim keeps apart.

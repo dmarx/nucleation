@@ -18,13 +18,13 @@ source:
 bears_on:
 - QUESTION-508
 summary: >-
-  Takeuchi and Sano (2010), LIT-2982, read in full in NOTE-tmpbmox1. The
+  Takeuchi and Sano (2010), [LIT-2982](../literature.d/LIT-2982.md), read in full in [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md). The
   exponents (α = 0.50(5), β = 0.336(11)) and the GUE Tracy-Widom
   skewness and kurtosis are measurements over 563 runs; the three
   factors that make this system show KPZ when most experiments do not
-  are argued, not tested. Grounds CLAIM-841's KPZ row with Kardar,
-  Parisi and Zhang (THEORY-tmpo3w5v), and qualifies its "generically"
-  for experiment (ARG-tmp2xbl4). Proposed until confirmed independently.
+  are argued, not tested. Grounds [CLAIM-841](../claims.d/CLAIM-841.md)'s KPZ row with Kardar,
+  Parisi and Zhang ([THEORY-tmpo3w5v](THEORY-tmpo3w5v.md)), and qualifies its "generically"
+  for experiment ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)). Proposed until confirmed independently.
 ---
 <!-- inactive-ok-file: THEORY-tmpo3w5v ARG-tmp2xbl4 — new; this reading, its companion and the argument on the claim it grounds -->
 <!-- inactive-ok-file: CLAIM-841 — Proposed or Open; the claim and lead it bears on -->
@@ -35,7 +35,7 @@ summary: >-
 
 Takeuchi and Sano (2010), "Universal Fluctuations of Growing Interfaces:
 Evidence in Turbulent Liquid Crystals", Physical Review Letters 104,
-230601, LIT-2982, read from the arXiv v3 in NOTE-tmpbmox1.
+230601, [LIT-2982](../literature.d/LIT-2982.md), read from the arXiv v3 in [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md).
 
 ## The account
 

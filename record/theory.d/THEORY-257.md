@@ -192,10 +192,10 @@ full in [NOTE-791](../notes.d/NOTE-791.md) (arXiv:2106.06511v2).
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**A contrast** (LIT-2996, NOTE-tmpunt6q, THEORY-tmpttfgp). This entry
+**A contrast** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md), [THEORY-tmpttfgp](THEORY-tmpttfgp.md)). This entry
 says dynamical independence "fixes emergent macroscopic variables by the
 dynamics rather than by a chosen query". Shalizi and Moore, whom
-Barnett and Seth name among their rivals (NOTE-791), hold the opposite for macrostates: the
+Barnett and Seth name among their rivals ([NOTE-791](../notes.d/NOTE-791.md)), hold the opposite for macrostates: the
 dynamics fix them only given a query, the observables, "our choices about
 what to predict"; "Nature has no preferred questions" (§VI). The two also
 condition on different pasts: dynamical independence on the microscopic
@@ -203,6 +203,6 @@ history, Shalizi and Moore's causal states on the observed process's own
 past. The phrase "rather than by a chosen query" holds within a chosen
 class of coarse-grainings (here, linear projections of a VAR); whether
 the choice of that class is itself a query is what the contrast leaves
-for this account to answer. CLAIM-tmp3ima1 (alternative a, Proposed) sets
+for this account to answer. [CLAIM-tmp3ima1](../claims.d/CLAIM-tmp3ima1.md) (alternative a, Proposed) sets
 the two side by side. No relation is written: the two can both be right,
 so `rivals` does not apply. Status unchanged.

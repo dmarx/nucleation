@@ -78,7 +78,7 @@ M^(−1/3) in ℓ (Theorem 1.2).
 **Background, no edge.** The GUE Tracy-Widom law this theorem gives at
 the edge of a sample covariance spectrum, fluctuations of order
 M^(−2/3) below the threshold, turns up in a growing interface: Takeuchi
-and Sano (LIT-2982, NOTE-tmpbmox1; THEORY-tmpmoyol) find the local radius
+and Sano ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md); [THEORY-tmpmoyol](THEORY-tmpmoyol.md)) find the local radius
 of a curved turbulent front distributed as GUE TW, skewness about 0.2241
 and kurtosis about 0.09345, with GOE for flat fronts (p. 3). The same
 distribution, from a different object; nothing here bears on the

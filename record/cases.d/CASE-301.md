@@ -112,7 +112,7 @@ updated.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **extends the
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **extends the
 construction through L random layers.** Their Corollary 4 takes a
 signal-plus-noise input X = Σθᵢaᵢbᵢᵀ + Z, this case's mixture when the
 bᵢ are class-label vectors, and pushes it through a network with random

@@ -93,17 +93,17 @@ constrains updated embeddings to earlier cones (Bui and colleagues,
 nearby (Ghadimi Atigh and colleagues, [LIT-2993](../literature.d/LIT-2993.md)).
 
 *Revised 2026-11-22, after reading both:* Bui and colleagues
-(THEORY-tmpe9367) do constrain updated embeddings to earlier cones, with
+([THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md)) do constrain updated embeddings to earlier cones, with
 four qualifications. The constraint is a soft penalty (a hinge weighted
 0.3), and the paper never reports how many new embeddings lie inside
 their cones. The cones are per item, apexed at the same item's old
 embedding, not cones of concepts. They link two separately trained
 models, the old one frozen, not checkpoints of one run. And the order is
 imposed by design, not observed in learning. What it bears out is A33's
-"soft regularizer" reading (ARG-tmpf206e). Ghadimi Atigh and colleagues
-(THEORY-tmpsj6u9) nest cones semantically, a label's cone containing its
+"soft regularizer" reading ([ARG-tmpf206e](../arguments.d/ARG-tmpf206e.md)). Ghadimi Atigh and colleagues
+([THEORY-tmpsj6u9](../theory.d/THEORY-tmpsj6u9.md)) nest cones semantically, a label's cone containing its
 descendants', for each sample at one time, with no temporal restriction;
-they bear on the semantic half only (ARG-tmpv9jbe).
+they bear on the semantic half only ([ARG-tmpv9jbe](../arguments.d/ARG-tmpv9jbe.md)).
 
 **Narrowing is not progress.** A33 §7: "It could shrink its cone around an
 incorrect interpretation", so A35 §5 measures progress by coverage,
@@ -139,7 +139,7 @@ overlaps are illustrative, as A35 says.
 ## Note of 2026-11-22: Bui, Yang, Chen, Neves, Ju, Ying, Shah and Zhao, read
 
 Supports the restriction half in part, and qualifies it. Read
-(NOTE-tmpvu3vp, THEORY-tmpe9367), the scheme is exactly A33's fallback,
+([NOTE-tmpvu3vp](../notes.d/NOTE-tmpvu3vp.md), [THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md)), the scheme is exactly A33's fallback,
 temporal cone consistency as a soft regularizer, and it works: removing
 the cone term costs most when the architecture changes (CIFAR100 CMC@1
 compatibility 0.937 with it, −0.178 without). The four qualifications
@@ -148,20 +148,20 @@ chain of nested cones, not a branching order, so the claim's branching
 is untouched. And the scheme's narrowing is built in: every point of
 such a cone lies farther from the origin than its apex, so a satisfied
 constraint makes each embedding more "certain" whether or not it is
-correct (CLAIM-tmpxcy5s, the assistant's, checked numerically). That is
+correct ([CLAIM-tmpxcy5s](CLAIM-tmpxcy5s.md), the assistant's, checked numerically). That is
 a demonstrated case of the rule this claim ends with, that a narrower
-region counts as progress only while it stays correct (ARG-tmpotmon).
+region counts as progress only while it stays correct ([ARG-tmpotmon](../arguments.d/ARG-tmpotmon.md)).
 The Blackwell half is untouched.
 
 ## Note of 2026-11-22: Ghadimi Atigh, van Spengler, Long, Ayoughi, Kasarla and Mettes, read
 
-A weak parallel, for the semantic half only. Read (NOTE-tmpyyvdy,
-THEORY-tmpsj6u9), the paper supervises with regions whose narrowness
+A weak parallel, for the semantic half only. Read ([NOTE-tmpyyvdy](../notes.d/NOTE-tmpyyvdy.md),
+[THEORY-tmpsj6u9](../theory.d/THEORY-tmpsj6u9.md)), the paper supervises with regions whose narrowness
 matches the label's specificity: "the more specific a sample's label,
 the more narrowly defined the region in the embedding space should be for
 optimization" (§1). It has no checkpoints, branching or temporal
 restriction, and its "coarse-to-fine" (§3.2) names a label projection,
 not an order of learning. The reading moves from grounds to
-corroborates (ARG-tmpv9jbe). It also shows that cones alone leave
+corroborates ([ARG-tmpv9jbe](../arguments.d/ARG-tmpv9jbe.md)). It also shows that cones alone leave
 samples "biased towards internal classes", so the radial placement
-needs its own term (CLAIM-816).
+needs its own term ([CLAIM-816](CLAIM-816.md)).

@@ -20,9 +20,9 @@ source:
 bears_on:
 - QUESTION-452
 summary: >-
-  Gingrich and colleagues (2016), LIT-2981, read in NOTE-tmpri2np. The
+  Gingrich and colleagues (2016), [LIT-2981](../literature.d/LIT-2981.md), read in [NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md). The
   general proof of the thermodynamic uncertainty relation that Barato and
-  Seifert (LIT-1885, THEORY-1268) proved only in linear response and for
+  Seifert ([LIT-1885](../literature.d/LIT-1885.md), [THEORY-1268](THEORY-1268.md)) proved only in linear response and for
   unicyclic networks and otherwise conjectured: for every current of a
   Markov jump network, far from equilibrium included, and as a bound on
   the whole rate function, so on rare fluctuations as well as the
@@ -36,8 +36,8 @@ summary: >-
 
 Gingrich, Horowitz, Perunov and England, "Dissipation bounds all
 steady-state current fluctuations", Phys. Rev. Lett. 116, 120601 (2016),
-LIT-2981, read from the arXiv v3 LaTeX source of 1512.02212 in
-NOTE-tmpri2np.
+[LIT-2981](../literature.d/LIT-2981.md), read from the arXiv v3 LaTeX source of 1512.02212 in
+[NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md).
 
 ## What was actually shown
 
@@ -61,7 +61,7 @@ NOTE-tmpri2np.
 What could have failed: a multicyclic network far from equilibrium could
 have had a current with ε²_d Σ^π < 2, as Barato and Seifert's conjecture
 allowed; the proof rules it out for every current. Checked numerically on
-the paper's four-state network (NOTE-tmpri2np).
+the paper's four-state network ([NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md)).
 
 ## What this does not say
 
@@ -74,9 +74,9 @@ the paper's four-state network (NOTE-tmpri2np).
 
 ## Connections
 
-Completes THEORY-1268 (the proof it said was not held). Bears on
-QUESTION-452: the bound holds for any current, but maintenance is not
-shown to be one. Respects the current fluctuation theorem (THEORY-431).
-Contrast with THEORY-1830 (Tu), which prices a different observable. The
+Completes [THEORY-1268](THEORY-1268.md) (the proof it said was not held). Bears on
+[QUESTION-452](../questions.d/QUESTION-452.md): the bound holds for any current, but maintenance is not
+shown to be one. Respects the current fluctuation theorem ([THEORY-431](THEORY-431.md)).
+Contrast with [THEORY-1830](THEORY-1830.md) (Tu), which prices a different observable. The
 generalized-current bound was conjectured at the same time by Pietzonka,
-Barato and Seifert (LIT-tmp3eet2, registered, Deferred).
+Barato and Seifert ([LIT-tmp3eet2](../literature.d/LIT-tmp3eet2.md), registered, Deferred).

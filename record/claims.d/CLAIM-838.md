@@ -130,7 +130,7 @@ Computed in this session (python3 -I, scipy):
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **background.** The
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **background.** The
 unimodal optimum is a Gibbs law of directional bias of order 1/τ, which is
 this claim's κ; this claim's three scales say when such a bias matters in
 high dimension, which the paper, with experiments on S¹ and S², does not

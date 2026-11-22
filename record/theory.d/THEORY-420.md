@@ -129,7 +129,7 @@ of the spectrum. No relation.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **background.** Their Theorems 2 and 9 are "no outliers" results for
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](THEORY-tmp9ltxi.md)): **background.** Their Theorems 2 and 9 are "no outliers" results for
 random-weight conjugate kernels whose input has no spikes, a random-matrix
 null for feature spectra beside this one for weight spectra. Proposition 35
 is the weights' version after a few gradient steps: one outlier, only

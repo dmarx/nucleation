@@ -91,7 +91,7 @@ The mapping of [CLAIM-604](../claims.d/CLAIM-604.md)'s or [CLAIM-516](../claims.
 ## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
 
 **Qualifies the first item of "What would count as an answer", and leaves
-the question open** (LIT-2981, NOTE-tmpri2np; THEORY-tmp9t69m, which
+the question open** ([LIT-2981](../literature.d/LIT-2981.md), [NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md); [THEORY-tmp9t69m](../theory.d/THEORY-tmp9t69m.md), which
 `bears_on` this question).
 
 - **The price holds for any current.** The relation is now proved for
@@ -103,7 +103,7 @@ the question open** (LIT-2981, NOTE-tmpri2np; THEORY-tmp9t69m, which
 - **Maintenance is not shown to be a current.** The paper says nothing on
   that, and nothing on occupations, how exactly a state is held, which is
   this question's second worry ("Why it is open here"). The mapping of
-  CLAIM-604's or CLAIM-516's organizations onto such a network is still
+  [CLAIM-604](../claims.d/CLAIM-604.md)'s or [CLAIM-516](../claims.d/CLAIM-516.md)'s organizations onto such a network is still
   missing.
 - **No cheap precision by design.** "With a fixed energy budget, it is
   impossible to surpass the linear-response bound, no matter how complex

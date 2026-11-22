@@ -43,14 +43,14 @@ summary: >-
 ## Contribution
 
 The paper makes Rose, Gurewitz and Fox's static critical temperature for
-soft clustering (LIT-tmp2v43c) dynamic. A K-prototype isotropic Gaussian
+soft clustering ([LIT-tmp2v43c](../literature.d/LIT-tmp2v43c.md)) dynamic. A K-prototype isotropic Gaussian
 mixture with one learned precision β is fitted to an encoder's output; its
 collapsed state S0 (all means at the data mean) becomes a saddle when
 β crosses βc(t) = 1/λmax(Cov z(t)), and βc moves as the encoder learns.
 It separates that crossing from the macroscopic split, uses log(β/βc) as a
 label-free training coordinate, and draws a per-atom prediction ("feature
 lottery") from the degeneracy of the unstable subspace. The reading is
-THEORY-tmpu0f9k.
+[THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md).
 
 ## Key results
 
@@ -117,22 +117,22 @@ Critical precision βc; the collapsed state S0; the anti-symmetric channel,
 metastability; drift- against activation-dominated escape; the bifurcation
 arc in (log β/βc, log NC1) and its four shapes; feature lottery; identity
 lock; secondary bifurcation; reverse traversal as merge. Terms of art:
-deterministic annealing (Rose et al. 1990), NC1 (Papyan et al., LIT-618),
-Kramers' law (Berglund, LIT-2037), lottery ticket.
+deterministic annealing (Rose et al. 1990), NC1 (Papyan et al., [LIT-618](../literature.d/LIT-618.md)),
+Kramers' law (Berglund, [LIT-2037](../literature.d/LIT-2037.md)), lottery ticket.
 
 ## Connections
 
 Theorem 1 is Rose, Gurewitz and Fox's critical temperature (Physical
-Review Letters 65, 945, 1990), registered here as LIT-tmp2v43c and
-unread. Its Kramers comparison cites Berglund (LIT-2037, THEORY-1370),
+Review Letters 65, 945, 1990), registered here as [LIT-tmp2v43c](../literature.d/LIT-tmp2v43c.md) and
+unread. Its Kramers comparison cites Berglund ([LIT-2037](../literature.d/LIT-2037.md), [THEORY-1370](../theory.d/THEORY-1370.md)),
 whose regime the paper rejects for its data. The grokking setup is Nanda
-et al.'s (LIT-345); NC1 is Papyan et al.'s (LIT-618). It calls Saxe et
-al.'s saddle-to-saddle plateaus (LIT-864) "reminiscent", with no
+et al.'s ([LIT-345](../literature.d/LIT-345.md)); NC1 is Papyan et al.'s ([LIT-618](../literature.d/LIT-618.md)). It calls Saxe et
+al.'s saddle-to-saddle plateaus ([LIT-864](../literature.d/LIT-864.md)) "reminiscent", with no
 derivation joining them.
 
 ## Bearing on the record
 
-- **CLAIM-807** (parallel; supports its caveat; nothing on its
+- **[CLAIM-807](../claims.d/CLAIM-807.md)** (parallel; supports its caveat; nothing on its
   coefficient). Both are supercritical pitchforks with normal form
   ε̇ = με − αε³ and a plateau of order (1/μ) ln(1/x₀). In both, the
   symmetry broken is a symmetry of the parameters: here which prototype
@@ -141,44 +141,44 @@ derivation joining them.
   in the parameters. Its bifurcation parameter is the probe's precision,
   not a weight-decay threshold, and it says nothing of local learning
   coefficients (no mention of singular learning, RLCT or Watanabe). Its
-  weight decay plays CLAIM-807's "something drifts" role only loosely: it
+  weight decay plays [CLAIM-807](../claims.d/CLAIM-807.md)'s "something drifts" role only loosely: it
   sets the escape time after the crossing, not the crossing. Not a ground:
-  ARG-tmp31laj (Rejected).
-- **THEORY-1429** (qualifies the paper's language). §5's "sharp dynamical
+  [ARG-tmp31laj](../arguments.d/ARG-tmp31laj.md) (Rejected).
+- **[THEORY-1429](../theory.d/THEORY-1429.md)** (qualifies the paper's language). §5's "sharp dynamical
   phase transition" is the author's phrase. By Kuehn's classification a
   supercritical pitchfork is not a critical transition, since no fast jump
   follows; the recovery exponent 1 matches the paper's 1/(β − βc). A
   supercritical pitchfork passed slowly is a delayed loss of stability,
   which Kuehn's frame covers and the paper does not cite.
-- **CLAIM-828** (parallel). The secondary bifurcation inside a supercluster
+- **[CLAIM-828](../claims.d/CLAIM-828.md)** (parallel). The secondary bifurcation inside a supercluster
   is a gating of the same kind as the gated child (a child splits only
   after its parent), on a probe.
-- **QUESTION-tmphkb1w** (leaves open). Nothing on learning coefficients;
+- **[QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md)** (leaves open). Nothing on learning coefficients;
   below βc the merged state is a nondegenerate minimum, so the reverse
   pitchfork gives no route to a decrease.
-- **CLAIM-802, CLAIM-823** (contrast). A training-time instability of a
+- **[CLAIM-802](../claims.d/CLAIM-802.md), [CLAIM-823](../claims.d/CLAIM-823.md)** (contrast). A training-time instability of a
   probe's loss at a saddle, neither training carrying out a blow-up nor a
   Bayesian crossover in n.
-- **CASE-302** (background). Merged prototypes are where the
+- **[CASE-302](../cases.d/CASE-302.md)** (background). Merged prototypes are where the
   anti-symmetric directions go soft at βc; no 3/4 coefficient here.
-- **CASE-112, CLAIM-408** (parallel). The same normal form; App. C's tilt
-  γU(ε) is CASE-112's h.
-- **THEORY-863** (contrast with "lottery"). Arthur's lock-in is increasing
+- **[CASE-112](../cases.d/CASE-112.md), [CLAIM-408](../claims.d/CLAIM-408.md)** (parallel). The same normal form; App. C's tilt
+  γU(ε) is [CASE-112](../cases.d/CASE-112.md)'s h.
+- **[THEORY-863](../theory.d/THEORY-863.md)** (contrast with "lottery"). Arthur's lock-in is increasing
   returns; here noise picks a direction on a degenerate unstable manifold
   and the choice persists by slow angular diffusion. Not rich-get-richer.
-- **THEORY-740, LIT-864** (background). Cited as "reminiscent", no link
+- **[THEORY-740](../theory.d/THEORY-740.md), [LIT-864](../literature.d/LIT-864.md)** (background). Cited as "reminiscent", no link
   derived.
-- **THEORY-782, THEORY-2086, LIT-858, LIT-345** (background on grokking).
+- **[THEORY-782](../theory.d/THEORY-782.md), [THEORY-2086](../theory.d/THEORY-2086.md), [LIT-858](../literature.d/LIT-858.md), [LIT-345](../literature.d/LIT-345.md)** (background on grokking).
   The paper adds only the probe coordinate to the known setup.
-- **LIT-618** (background). The source of NC1, the paper's order parameter.
-- **QUESTION-511** (contrast). Here the largest covariance direction is
+- **[LIT-618](../literature.d/LIT-618.md)** (background). The source of NC1, the paper's order parameter.
+- **[QUESTION-511](../questions.d/QUESTION-511.md)** (contrast). Here the largest covariance direction is
   the one that becomes unstable, not a small-eigenvalue one.
-- **NOTE-631** (parallel). Another use of Rose's annealing for the
+- **[NOTE-631](NOTE-631.md)** (parallel). Another use of Rose's annealing for the
   emergence of categories.
-- **QUESTION-217** (bears on it; leaves it open). βc⁽²⁾ = 1/λmax(Σwithin)
+- **[QUESTION-217](../questions.d/QUESTION-217.md)** (bears on it; leaves it open). βc⁽²⁾ = 1/λmax(Σwithin)
   is a coarse-to-fine order by covariance, "left to future work" at the
   secondary scale. The question's file is another filer's; noted here.
-- **CLAIM-827** (parallel). βc = 1/λmax ties the split to the top
+- **[CLAIM-827](../claims.d/CLAIM-827.md)** (parallel). βc = 1/λmax ties the split to the top
   covariance eigenvalue, the quantity a BBP-style warning watches, and the
   claim's point that detection and bifurcation thresholds differ applies to
   the paper's "label-free indicator". Not written onto the claim in this

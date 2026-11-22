@@ -15,13 +15,13 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  In Wang, Wu and Fan's §2.2 (THEORY-tmp9ltxi, NOTE-tmpa8a45) a few
+  In Wang, Wu and Fan's §2.2 ([THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md)) a few
   gradient steps add a rank-one term along the target to the first-layer
   weights for any step size, yet the weights' largest singular value
   leaves the bulk only if θ1 > γ0^(1/4) (Proposition 35), and the
   test-data conjugate kernel has an outlier only if, in addition,
-  z′(−1/λ1) > 0 (Theorem 5). That is CLAIM-799's signal before outlier,
-  beside Park and colleagues' case (ARG-tmps8aog). The wording is the
+  z′(−1/λ1) > 0 (Theorem 5). That is [CLAIM-799](../claims.d/CLAIM-799.md)'s signal before outlier,
+  beside Park and colleagues' case ([ARG-tmps8aog](ARG-tmps8aog.md)). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-799 THEORY-tmp9ltxi ARG-tmps8aog CLAIM-837 — Proposed or new; the claim this argues, the reading it uses, the parallel argument and a parallel claim -->
@@ -31,7 +31,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-799, from A32 §2: a spectral threshold "is not necessarily the
+[CLAIM-799](../claims.d/CLAIM-799.md), from A32 §2: a spectral threshold "is not necessarily the
 moment when the network first learns anything. The signal existed below
 the threshold." Wang, Wu and Fan, §2.2: after a few gradient steps at η of
 order one, W ≈ W₀ + (ηbσ/n)Xᵀyaᵀ, a change "approximately rank-1", for any
@@ -54,11 +54,11 @@ kernel's.
   could recover, and its depth result, "the input signal diminishes as the
   depth of the NN increases", is about outlier alignment, not about the
   information present. So the case supports the separation on the spectral
-  side only; CLAIM-799 holds decodability apart, the paper does not.
+  side only; [CLAIM-799](../claims.d/CLAIM-799.md) holds decodability apart, the paper does not.
 
 ## Verdict
 
-Supports CLAIM-799 as a third existence case, after its own construction
-(CASE-301) and Park and colleagues (ARG-tmps8aog), and adds that the
-thresholds can come in series, weights then features, as CLAIM-837 has for
+Supports [CLAIM-799](../claims.d/CLAIM-799.md) as a third existence case, after its own construction
+([CASE-301](../cases.d/CASE-301.md)) and Park and colleagues ([ARG-tmps8aog](ARG-tmps8aog.md)), and adds that the
+thresholds can come in series, weights then features, as [CLAIM-837](../claims.d/CLAIM-837.md) has for
 a hidden layer and its readout. Proposed.

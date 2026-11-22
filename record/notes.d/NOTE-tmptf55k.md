@@ -98,30 +98,30 @@ to achieving linearly separable" representations (§4).
 
 ## Connections
 
-TERM-136's intrinsic dimension m is the paper's ID; its ambient D is the
+[TERM-136](../terms.d/TERM-136.md)'s intrinsic dimension m is the paper's ID; its ambient D is the
 paper's ED. The paper's linear dimension is a fifth notion beside
-TERM-136's participation ratio. It cites Stringer and colleagues (bioRxiv
+[TERM-136](../terms.d/TERM-136.md)'s participation ratio. It cites Stringer and colleagues (bioRxiv
 2018) for a gapless spectrum "qualitatively consistent" with V1's, without
 fitting an exponent. Its §4 ties the result to Chung, Lee and
-Sompolinsky's manifold capacity, the apparatus THEORY-251 holds with
+Sompolinsky's manifold capacity, the apparatus [THEORY-251](../theory.d/THEORY-251.md) holds with
 dimension in the participation-ratio sense. Not registered: Facco and
 colleagues' TwoNN paper (2017), Levina and Bickel (2005), Ma and colleagues
 (2018), Chung, Lee and Sompolinsky (2018); none is relied on here.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpwn1xp. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md). Dated notes of 2026-11-22 on each entry below.
 
-- **TERM-136**: supports its intrinsic sense and qualifies it (global,
+- **[TERM-136](../terms.d/TERM-136.md)**: supports its intrinsic sense and qualifies it (global,
   scale-dependent, a lower bound above about 20; PC-ID is not the
   participation ratio); the term now draws on this reading.
-- **CLAIM-848**: a parallel with the gap the other way round.
-- **LEAD-210**: TwoNN ID with a subsampling check added to the
+- **[CLAIM-848](../claims.d/CLAIM-848.md)**: a parallel with the gap the other way round.
+- **[LEAD-210](../leads.d/LEAD-210.md)**: TwoNN ID with a subsampling check added to the
   per-checkpoint measurements.
-- **SYNTHESIS-120**: effective and intrinsic dimension diverge.
-- **CLAIM-847**, **NOTE-549**, **NOTE-789**, **THEORY-251**, **NOTE-541**,
-  **THEORY-083**: background, parallel or contrast.
-- LIT-2998's summary was accurate, with two qualifications now in it: no
+- **[SYNTHESIS-120](../syntheses.d/SYNTHESIS-120.md)**: effective and intrinsic dimension diverge.
+- **[CLAIM-847](../claims.d/CLAIM-847.md)**, **[NOTE-549](NOTE-549.md)**, **[NOTE-789](NOTE-789.md)**, **[THEORY-251](../theory.d/THEORY-251.md)**, **[NOTE-541](NOTE-541.md)**,
+  **[THEORY-083](../theory.d/THEORY-083.md)**: background, parallel or contrast.
+- [LIT-2998](../literature.d/LIT-2998.md)'s summary was accurate, with two qualifications now in it: no
   early rise in the small MNIST network, and the accuracy relation holds
   across architectures, not across seeds.
 

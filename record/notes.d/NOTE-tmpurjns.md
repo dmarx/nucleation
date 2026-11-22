@@ -24,10 +24,10 @@ summary: >-
   argument; the RG flow ends on a line of fixed points where the vortex
   fugacity is irrelevant; and the correlation length diverges at T_KT as
   an essential singularity. It credits the RG equations to Kosterlitz
-  (1974) and José et al. (1977). The reading is THEORY-tmpaojie.
+  (1974) and José et al. (1977). The reading is [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpaojie — new; this reading and its companion -->
-<!-- inactive-ok-file: LIT-2969 LIT-tmph3tia — Unfetched or Deferred -->
+<!-- inactive-ok-file: LIT-2969 — Unfetched or Deferred -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-842 CLAIM-846 TERM-139 THEORY-1095 ARG-tmprfa3j CLAIM-tmpvq33w — Proposed or new; the entries the reading bears on -->
 
 # NOTE-tmpurjns: Drouin-Touchette, skimmed for the spin-wave power law, the vortex argument and the flow to a line of fixed points, as a stand-in for Kosterlitz and Thouless
@@ -35,7 +35,7 @@ summary: >-
 ## Contribution
 
 A student-level derivation of the BKT transition, from spin waves to the
-RG. The reading is THEORY-tmpaojie.
+RG. The reading is [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md).
 
 ## Key results
 
@@ -77,28 +77,28 @@ fixed points; essential singularity; infinite-order transition.
 
 ## Bearing on the record
 
-- **LIT-2969**: stands in for the results of the BKT line of work, not
-  for which of them the 1973 paper states (ADR-114).
-- **CLAIM-841** (XY row): **supports, and qualifies two words.** Item 5:
+- **[LIT-2969](../literature.d/LIT-2969.md)**: stands in for the results of the BKT line of work, not
+  for which of them the 1973 paper states ([ADR-114](../decisions.d/ADR-114.md)).
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (XY row): **supports, and qualifies two words.** Item 5:
   every T below T_KT flows to the fixed line, where the fugacity is
-  irrelevant, so nothing is tuned through the phase (ARG-tmprfa3j). But
+  irrelevant, so nothing is tuned through the phase ([ARG-tmprfa3j](../arguments.d/ARG-tmprfa3j.md)). But
   the notes call the low-temperature phase "critical" (item 2): in the
   sense of an infinite correlation length, not of a tuned transition, so
   it does not contradict the claim, whose sense of criticality is the
   tuned one. And the transition that ends the phase is not a power-law
   critical point either: its correlation length diverges as an essential
   singularity (item 6).
-- **CLAIM-842**: **qualifies.** Item 1 confirms the d = 2 logarithm. But
+- **[CLAIM-842](../claims.d/CLAIM-842.md)**: **qualifies.** Item 1 confirms the d = 2 logarithm. But
   at d = 2 exactly what survives is algebraic order, and the Gaussian
   elastic energy alone has no transition at all (item 4): whether the
   algebraic phase survives is set by defects, which no Gaussian energy
   contains. At d_s = 2 the claim's premise leaves the phase's fate open.
-- **QUESTION-508**: the relevant direction, the fugacity y, is held at
-  zero over a range of stiffness (item 5); see CLAIM-tmpvq33w.
-- **TERM-139**: **an example of the term's sense**: y irrelevant below
+- **[QUESTION-508](../questions.d/QUESTION-508.md)**: the relevant direction, the fugacity y, is held at
+  zero over a range of stiffness (item 5); see [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md).
+- **[TERM-139](../terms.d/TERM-139.md)**: **an example of the term's sense**: y irrelevant below
   T_KT and relevant above, K marginal along the fixed line.
-- **CLAIM-846**: **parallel**; item 2 is a Gaussian spin-wave computation.
-- **THEORY-1095**: **contrast.** The equilibrium 2D XY model gets only
+- **[CLAIM-846](../claims.d/CLAIM-846.md)**: **parallel**; item 2 is a Gaussian spin-wave computation.
+- **[THEORY-1095](../theory.d/THEORY-1095.md)**: **contrast.** The equilibrium 2D XY model gets only
   algebraic order; Toner and Tu's true long-range order is what the
   non-equilibrium terms add.
 

@@ -42,7 +42,7 @@ to new is made a partial order: "we employ the entailment loss (Ganea et
 al., 2018) to enforce a partial-order constraint between the old and new
 models. This constraint requires the new embeddings to remain within the
 entailment cone of their older counterparts". The reading is
-THEORY-tmpe9367.
+[THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md).
 
 ## Key results
 
@@ -111,19 +111,19 @@ compatibility matrix.
 
 ## Connections
 
-The cone is Ganea et al.'s (LIT-866), in the Lorentz form of Desai et
-al. 2023 (not held). Eq. 11 is THEORY-189's widest transitive family: for
+The cone is Ganea et al.'s ([LIT-866](../literature.d/LIT-866.md)), in the Lorentz form of Desai et
+al. 2023 (not held). Eq. 11 is [THEORY-189](../theory.d/THEORY-189.md)'s widest transitive family: for
 curvature −K, √K‖h_space‖ = sinh(√K·d(O, h)), so Eq. 11 reads
-sinh(√K·d) sin ψ = 2ε, at K = 1 THEORY-189's sinh(d) sin ψ = 2K with ε for
-Ganea's K. Model stitching (Bansal et al., LIT-850) is cited as related
+sinh(√K·d) sin ψ = 2ε, at K = 1 [THEORY-189](../theory.d/THEORY-189.md)'s sinh(d) sin ψ = 2K with ε for
+Ganea's K. Model stitching (Bansal et al., [LIT-850](../literature.d/LIT-850.md)) is cited as related
 work. The "Atigh et al. 2022" cited for norm as uncertainty is the same
-first author's hyperbolic image segmentation (CVPR), not LIT-2993.
+first author's hyperbolic image segmentation (CVPR), not [LIT-2993](../literature.d/LIT-2993.md).
 Not held, cited: Desai et al. 2023, Khrulkov et al. 2020, Shen et al. 2020
 (BCT), Atigh et al. 2022.
 
 ## Bearing on the record
 
-- **CLAIM-839** (supports in part; four qualifications). A33's fallback,
+- **[CLAIM-839](../claims.d/CLAIM-839.md)** (supports in part; four qualifications). A33's fallback,
   temporal cone consistency "as ... a soft regularizer", is what HBCT
   implements, and it works, most where the architecture changes. But the
   constraint is a soft hinge weighted 0.3 and the paper never reports how
@@ -131,36 +131,36 @@ Not held, cited: Desai et al. 2023, Khrulkov et al. 2020, Shen et al. 2020
   cones of concepts; they link two separately trained models, the old one
   frozen, not checkpoints of one run; and the order is imposed by design,
   not observed in learning. Per item the generations form a chain, not a
-  branching order. ARG-tmpf206e.
-- **The gap: cones force norm growth** (CLAIM-tmpxcy5s, the assistant's).
+  branching order. [ARG-tmpf206e](../arguments.d/ARG-tmpf206e.md).
+- **The gap: cones force norm growth** ([CLAIM-tmpxcy5s](../claims.d/CLAIM-tmpxcy5s.md), the assistant's).
   Every point of a cone of this family lies farther from the origin than
   its apex, so a satisfied constraint raises each item's norm and lowers
   its uncertainty, whether or not the update is correct. Results 8 and 9
   are what that predicts; the paper treats them as empirical tuning and a
-  limitation. It bears on CLAIM-839's rule that narrowing counts only
-  while correct (ARG-tmpotmon).
-- **THEORY-189** (parallel; an application). The same family in Lorentz
+  limitation. It bears on [CLAIM-839](../claims.d/CLAIM-839.md)'s rule that narrowing counts only
+  while correct ([ARG-tmpotmon](../arguments.d/ARG-tmpotmon.md)).
+- **[THEORY-189](../theory.d/THEORY-189.md)** (parallel; an application). The same family in Lorentz
   form, and its radial monotonicity is the source of the gap above.
-- **THEORY-421** (contrast). Bui et al. read the norm as confidence, with
+- **[THEORY-421](../theory.d/THEORY-421.md)** (contrast). Bui et al. read the norm as confidence, with
   unseen classes at lower norms, and never calibrate it against error;
-  THEORY-421 holds that even trained for hierarchy, radius is only a
+  [THEORY-421](../theory.d/THEORY-421.md) holds that even trained for hierarchy, radius is only a
   partial reading of level. Under the cone constraint the norm also moves
   by construction, so as a confidence signal it is confounded with the
   number of updates.
-- **CLAIM-816** (parallel). Bui et al. rescale ‖z‖ by √d and clip at ζ
+- **[CLAIM-816](../claims.d/CLAIM-816.md)** (parallel). Bui et al. rescale ‖z‖ by √d and clip at ζ
   (§4.4), a practical answer to the same narrow-norm problem; their radius
   means uncertainty, not depth, and each update spends radial range.
-- **ARG-153** (leaves it open). Nothing on dimension; the aperture's
+- **[ARG-153](../arguments.d/ARG-153.md)** (leaves it open). Nothing on dimension; the aperture's
   dependence on radius (Eq. 11) agrees with its point that cost is set by
   radius as well as angle.
-- **CLAIM-800** (supports by example; another filer's file, reported to
+- **[CLAIM-800](../claims.d/CLAIM-800.md)** (supports by example; another filer's file, reported to
   the lead). Occupancy of old cones is what L_entail pushes up, by
   construction, and the paper rightly judges by an independent measure.
-- **LIT-866** (background; applied). **LIT-850** (background; cited as
-  related work on aligning representations). **LIT-849** (contrast):
+- **[LIT-866](../literature.d/LIT-866.md)** (background; applied). **[LIT-850](../literature.d/LIT-850.md)** (background; cited as
+  related work on aligning representations). **[LIT-849](../literature.d/LIT-849.md)** (contrast):
   relative representations reach cross-model compatibility without an
   alignment loss; not cited.
-- **THEORY-188** (no bearing). Hyperbolic random graphs are a different
+- **[THEORY-188](../theory.d/THEORY-188.md)** (no bearing). Hyperbolic random graphs are a different
   use of the geometry.
 
 ## Limitations

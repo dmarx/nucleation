@@ -56,8 +56,8 @@ distribution:
   manifold the representations lie near, as a local estimator measures it.
   A29 §1: trained networks' representations "can have intrinsic dimensions
   far below their layer widths, and … intrinsic dimensionality changes
-  systematically across layers" (Ansuini and colleagues, LIT-2998, read
-  2026-11-22 as THEORY-tmpwn1xp: in trained image CNNs an ID orders of
+  systematically across layers" (Ansuini and colleagues, [LIT-2998](../literature.d/LIT-2998.md), read
+  2026-11-22 as [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md): in trained image CNNs an ID orders of
   magnitude below width, rising then falling with depth). A caution from
   that reading (changed in place, version 2): m as measured there, by the
   TwoNN estimator, is one global value per point cloud, depends on the
@@ -114,8 +114,8 @@ addition if the record comes to use it. Background, so no relation.
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k,
-THEORY-tmpwn1xp): **supports the intrinsic sense and its separation from
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md),
+[THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **supports the intrinsic sense and its separation from
 D, and qualifies how m is read** (the change of version 2 above). "The ID
 is orders of magnitude smaller than the number of units in each layer"
 (the paper's ED is this term's D), and a linear count is "about one or two
@@ -126,16 +126,16 @@ reading for its intrinsic sense.
 
 ## Note of 2026-11-22: where the spectral dimension of a network comes from
 
-Gelfert and Nolting (LIT-tmpbgf6y, NOTE-tmppfzap; THEORY-tmp1nvjs),
-read as a stand-in for Mermin and Wagner (LIT-2985, Unavailable), report
+Gelfert and Nolting ([LIT-tmpbgf6y](../literature.d/LIT-tmpbgf6y.md), [NOTE-tmppfzap](../notes.d/NOTE-tmppfzap.md); [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md)),
+read as a stand-in for Mermin and Wagner ([LIT-2985](../literature.d/LIT-2985.md), Unavailable), report
 the origin of this term's fourth sense for networks: Hattori, Hattori and
-Watanabe (1987, LIT-tmp309tx, registered, unread) ask "Why do the spins
+Watanabe (1987, [LIT-tmp309tx](../literature.d/LIT-tmp309tx.md), registered, unread) ask "Why do the spins
 on the lattice 'know' this natural embedding into Euclidean space that
 should govern their critical phenomena?", since "the only geometrical
 structure that spins can feel is the one given by the Hamiltonian", and
 define the spectral dimension of general networks through a Gaussian
-field theory on them. Cassi (1992, LIT-tmpu2kk5) then shows that spectral
+field theory on them. Cassi (1992, [LIT-tmpu2kk5](../literature.d/LIT-tmpu2kk5.md)) then shows that spectral
 dimension at most 2 excludes spontaneous magnetization (§3.4). So the
 term's "spectral dimension d_s of the graph through which they interact"
-is that literature's, and CLAIM-842's criterion is a theorem there for
-spin models in equilibrium. THEORY-tmp1nvjs is `draws_on`.
+is that literature's, and [CLAIM-842](../claims.d/CLAIM-842.md)'s criterion is a theorem there for
+spin models in equilibrium. [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md) is `draws_on`.

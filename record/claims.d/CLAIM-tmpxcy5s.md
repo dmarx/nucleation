@@ -27,7 +27,7 @@ bears_on:
 - QUESTION-512
 summary: >-
   A gap in Bui and colleagues' backward-compatible training
-  (THEORY-tmpe9367, NOTE-tmpvu3vp), filled: their Eq. 11 is THEORY-189's
+  ([THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md), [NOTE-tmpvu3vp](../notes.d/NOTE-tmpvu3vp.md)), filled: their Eq. 11 is [THEORY-189](../theory.d/THEORY-189.md)'s
   widest transitive cone family in Lorentz form, sinh(√K·d) sin ψ = 2ε,
   and a cone with half-aperture at most π/2 holds only points farther
   from the origin than its apex. So a satisfied constraint raises each
@@ -44,7 +44,7 @@ summary: >-
 
 ## The gap
 
-Bui and colleagues (THEORY-tmpe9367) penalise each new embedding h_n for
+Bui and colleagues ([THEORY-tmpe9367](../theory.d/THEORY-tmpe9367.md)) penalise each new embedding h_n for
 leaving the cone of the same item's old embedding h_o, and read
 uncertainty from the radius. They raise the new model's clipping
 threshold, ζ_n = ζ_o + 0.2, "to account for the evolution in the
@@ -55,10 +55,10 @@ They follow from the cone.
 
 ## The claim
 
-**Eq. 11 is THEORY-189's family.** In the Lorentz model of curvature −K,
+**Eq. 11 is [THEORY-189](../theory.d/THEORY-189.md)'s family.** In the Lorentz model of curvature −K,
 a point at distance d from the origin O has √K‖h_space‖ = sinh(√K·d).
 Bui's half-aperture aper(h_o) = sin⁻¹(2ε/(√K‖h_o,space‖)) therefore reads
-sinh(√K·d) sin ψ = 2ε, which at K = 1 is THEORY-189's widest transitive
+sinh(√K·d) sin ψ = 2ε, which at K = 1 is [THEORY-189](../theory.d/THEORY-189.md)'s widest transitive
 family sinh(d(O, x)) sin ψ(x) = 2K, with Bui's ε for Ganea's K.
 
 **Radial monotonicity.** Membership is the test
@@ -67,7 +67,7 @@ and in a hyperbolic triangle the side opposite an angle of at least π/2
 is the longest: cosh(√K·d(O, y)) = cosh(√K·d(O, x)) cosh(√K·d(x, y))
 − sinh(√K·d(O, x)) sinh(√K·d(x, y)) cos∠(O, x, y)
 ≥ cosh(√K·d(O, x)) cosh(√K·d(x, y)) > cosh(√K·d(O, x)) for y ≠ x. This is
-THEORY-189's derivation, carried to curvature −K.
+[THEORY-189](../theory.d/THEORY-189.md)'s derivation, carried to curvature −K.
 
 **Consequences for the scheme.**
 
@@ -78,7 +78,7 @@ THEORY-189's derivation, carried to curvature −K.
   in ‖z‖, so it falls at every such update. Nothing in the cone term
   depends on whether the new embedding is closer to the item's true
   class; correctness enters only through the base loss.
-- By transitivity (THEORY-189), the generations of one item form a chain
+- By transitivity ([THEORY-189](../theory.d/THEORY-189.md)), the generations of one item form a chain
   of nested cones, so the constraint carries to non-adjacent generations,
   and the norm rises monotonically along the chain.
 - A clipping radius held fixed eventually binds: Table 4's ζ_n = 1.0
@@ -115,7 +115,7 @@ their cones meet the condition.
   constraint is met.
 - **Half-aperture at most π/2**, which Eq. 11 gives wherever
   √K‖h_o,space‖ ≥ 2ε. Nearer the origin the arcsin is undefined, and
-  THEORY-189 holds that no transitive family is defined there.
+  [THEORY-189](../theory.d/THEORY-189.md) holds that no transitive family is defined there.
 - **Monotone, not unbounded.** Each step raises the norm, but the steps
   can be small; unbounded growth needs updates that keep moving items by
   amounts that do not shrink fast enough. Raising ζ at each update permits
@@ -127,8 +127,8 @@ That the scheme fails, or that norm growth is the only cause of the
 falling uncertainty: the new model may also be more confident because it
 is better. The claim is that the cone term lowers the norm-based
 uncertainty by itself, so that signal cannot certify an update's
-correctness (ARG-tmpotmon, on CLAIM-839's rule that a narrower region
-counts as progress only while it stays correct). It bears on THEORY-421,
+correctness ([ARG-tmpotmon](../arguments.d/ARG-tmpotmon.md), on [CLAIM-839](CLAIM-839.md)'s rule that a narrower region
+counts as progress only while it stays correct). It bears on [THEORY-421](../theory.d/THEORY-421.md),
 which holds that radius is only a partial reading of level even when
-trained for hierarchy, and on CLAIM-816, whose narrow radial range each
+trained for hierarchy, and on [CLAIM-816](CLAIM-816.md), whose narrow radial range each
 cone-constrained update spends.

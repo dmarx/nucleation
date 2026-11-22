@@ -181,7 +181,7 @@ popularity-similarity model. No edge.
 
 ## Note of 2026-11-22: Bui and colleagues, read
 
-No bearing beyond the shared geometry. Bui et al. (THEORY-tmpe9367) use
+No bearing beyond the shared geometry. Bui et al. ([THEORY-tmpe9367](THEORY-tmpe9367.md)) use
 the Lorentz model for embeddings whose radius is read as certainty; the
 random-graph account here uses the hyperbolic disk to generate degree
 distributions and clustering. Recorded so the reading's check of this

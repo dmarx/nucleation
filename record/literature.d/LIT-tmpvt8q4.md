@@ -33,7 +33,7 @@ summary: >-
   phase where the nonlinearity is irrelevant from the strong-noise
   phase; the tilt symmetry fixes χ = 2 − z; and the conjectured
   superuniversality failed, χ = 0.3869(4) in d = 2. Here beside
-  LIT-2978.
+  [LIT-2978](LIT-2978.md).
 ---
 <!-- inactive-ok-file: CLAIM-841 ARG-tmp2xbl4 — Proposed; the claim this work scopes and the argument on it -->
 <!-- inactive-ok-file: NOTE-tmpu2n0d THEORY-tmpdcfxq — Skimmed or Proposed; this work's reading -->
@@ -55,7 +55,7 @@ Le Doussal (2025). arXiv 2507.08341.
 
 ## Standing in the record
 
-A supplement to Kardar, Parisi and Zhang (LIT-2978), read only for the
+A supplement to Kardar, Parisi and Zhang ([LIT-2978](LIT-2978.md)), read only for the
 higher-dimensional passage. It is the record's ground for scoping
-CLAIM-841's KPZ row to d ≤ 2 (ARG-tmp2xbl4). The rest of the
+[CLAIM-841](../claims.d/CLAIM-841.md)'s KPZ row to d ≤ 2 ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)). The rest of the
 retrospective (Tracy-Widom, exact solutions, experiments) was not read.

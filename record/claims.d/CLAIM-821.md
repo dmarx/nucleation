@@ -73,7 +73,7 @@ unchanged.
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **a parallel.** Their
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **a parallel.** Their
 "uniformity" is a property of the objective's optimum, a Gibbs density;
 a measurement of uniformity in a trained network would still need this
 claim's null, since near-equal distances arise in high dimension with no

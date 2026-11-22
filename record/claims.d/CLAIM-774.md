@@ -143,7 +143,7 @@ Bernstein and Newhouse ([THEORY-2136](../theory.d/THEORY-2136.md), read in [NOTE
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-Background. Lee et al.'s analytic influence (THEORY-tmpm3ux2) is computed
+Background. Lee et al.'s analytic influence ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)) is computed
 in the same two-layer linear network under gradient flow, through each
 mode's time-dependent strength. Under this claim's spectral-norm descent
 the modes' timing changes, so the timing of their influence peaks would

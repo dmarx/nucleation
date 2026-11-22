@@ -81,7 +81,7 @@ This reading's promote_when names Bovier, Eckhoff, Gayrard and Klein 2004, on re
 
 ## Note of 2026-11-22: Yang, read
 
-Background. Yang (THEORY-tmpu0f9k, App. C) compares an Eyring–Kramers
+Background. Yang ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md), App. C) compares an Eyring–Kramers
 form for grokking's escape time with a power law in weight decay and
 rejects the Kramers regime for its data (six points), reading the escape
 as drift-dominated: a tilt γU(ε) added by hand, not a small-noise exit.

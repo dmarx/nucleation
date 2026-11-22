@@ -96,8 +96,8 @@ Tu's review ([LIT-2547](../literature.d/LIT-2547.md), [NOTE-1904](../notes.d/NOT
 
 ## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
 
-**Supports and completes this account** (LIT-2981, read in NOTE-tmpri2np;
-the reading is THEORY-tmp9t69m). "What this does not say" reads "That the
+**Supports and completes this account** ([LIT-2981](../literature.d/LIT-2981.md), read in [NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md);
+the reading is [THEORY-tmp9t69m](THEORY-tmp9t69m.md)). "What this does not say" reads "That the
 general case is proved here. Proofs for general networks came later and
 are not held." The record now holds that proof: for any ergodic Markov
 jump network with reversible transitions and local detailed balance, and

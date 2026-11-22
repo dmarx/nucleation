@@ -94,9 +94,9 @@ that the question puts as the regulator.
 
 ## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
 
-**A parallel, with a distinction of what branches** (LIT-tmpdsowv,
-NOTE-tmpi5t3r, THEORY-tmps8t83, read in place of Bertschinger and
-Natschläger, LIT-2991). In driven threshold networks the order–chaos line
+**A parallel, with a distinction of what branches** ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md),
+[NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md), [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md), read in place of Bertschinger and
+Natschläger, [LIT-2991](../literature.d/LIT-2991.md)). In driven threshold networks the order–chaos line
 is K·P_bf = 1, a branching ratio of one for perturbations, not for
 activity (the reader's and the filer's inference from Eq. 1, not the
 paper's); this question's branching ratio is of activity. A system can

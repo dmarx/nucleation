@@ -56,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-139 CLAIM-841 — filed with this question on 2026-11-21 -->
 <!-- inactive-ok-file: LIT-2969 LIT-tmpoc5u6 — Unfetched or Deferred; Kosterlitz and Thouless, read through neighbours, and the directed-percolation letter registered from Takeuchi and Sano -->
-<!-- inactive-ok-file: THEORY-tmpo3w5v THEORY-tmpdcfxq THEORY-tmpmoyol THEORY-tmpdfeto THEORY-tmpwdka8 THEORY-tmpaojie NOTE-tmpcjw5n NOTE-tmpurjns CLAIM-tmpvq33w — Proposed, Skimmed or new; the readings of 2026-11-22 and the assistant's claim filed from them -->
+<!-- inactive-ok-file: THEORY-tmpo3w5v THEORY-tmpdcfxq THEORY-tmpmoyol THEORY-tmpdfeto THEORY-tmpwdka8 THEORY-tmpaojie NOTE-tmpcjw5n CLAIM-tmpvq33w — Proposed, Skimmed or new; the readings of 2026-11-22 and the assistant's claim filed from them -->
 <!-- inactive-ok-file: THEORY-tmpehudh CLAIM-tmpfwwrf — Proposed or new; the reading of Bak, Tang and Wiesenfeld and the record's reproduction of the sandpile -->
 <!-- inactive-ok-file: THEORY-1095 — Proposed; Toner–Tu long-range order in two dimensions -->
 
@@ -118,41 +118,41 @@ direction left to tune.
   below.
 
 - **Symmetry, and whether the nonlinearity is relevant** (Kardar, Parisi
-  and Zhang, LIT-2978, p. 889; THEORY-tmpo3w5v). The KPZ equation is
+  and Zhang, [LIT-2978](../literature.d/LIT-2978.md), p. 889; [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md)). The KPZ equation is
   invariant under h → h + const and under a small tilt. That the shift
   invariance forbids a restoring term ∝ h, and that the tilt symmetry is
   what keeps λ unrenormalized and fixes χ + z = 2, are the reader's
   inferences, the second later stated by Le Doussal ("Galilean
   invariance (i.e. the STS symmetry) ensures the relation χ = 2 − z",
-  THEORY-tmpdcfxq); the letter itself says only that whether λ is
+  [THEORY-tmpdcfxq](../theory.d/THEORY-tmpdcfxq.md)); the letter itself says only that whether λ is
   relevant decides which scale-free class is reached: relevant for
   d < 2, marginally relevant at 2, and above two dimensions irrelevant
   when small, with a tuned strong-coupling threshold between two
   scale-invariant phases.
-- **Symmetry plus conservation** (Toner and Tu, LIT-2970, pp. 46–50,
-  63–64; THEORY-tmpdfeto). Rotation invariance forbids a mass for the
+- **Symmetry plus conservation** (Toner and Tu, [LIT-2970](../literature.d/LIT-2970.md), pp. 46–50,
+  63–64; [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md)). Rotation invariance forbids a mass for the
   transverse velocity, which a compass restores; pseudo-Galilean
   invariance and exact mass conservation fix the d = 2 exponents; and
   the ordered phase's scaling belongs to "the low temperature fixed
   point", reached with nothing tuned.
 - **U(1) symmetry together with two dimensions** (BKT, through
-  Kosterlitz's lecture, LIT-tmp3k6np, and Drouin-Touchette, LIT-tmp6hh1r;
-  THEORY-tmpwdka8, THEORY-tmpaojie). A free vortex's energy and its
+  Kosterlitz's lecture, [LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), and Drouin-Touchette, [LIT-tmp6hh1r](../literature.d/LIT-tmp6hh1r.md);
+  [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md), [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md)). A free vortex's energy and its
   entropy both grow as ln L, so below T_KT the fugacity, the one relevant
   candidate, flows to zero on a line of fixed points. The symmetry alone
   does not do it: the logarithm is a two-dimensional fact. A finite
   interaction range, the penetration depth λ of a charged film, cuts off
   the logarithm and frees vortices "at any T > 0" (lecture, p. 98).
-- **One system, both regimes** (Takeuchi and Sano, LIT-2982;
-  THEORY-tmpmoyol). Nematic electroconvection shows tuned
+- **One system, both regimes** (Takeuchi and Sano, [LIT-2982](../literature.d/LIT-2982.md);
+  [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)). Nematic electroconvection shows tuned
   directed-percolation criticality at the DSM1–DSM2 threshold
-  ("spatiotemporal intermittency", p. 2; LIT-tmpoc5u6, registered,
+  ("spatiotemporal intermittency", p. 2; [LIT-tmpoc5u6](../literature.d/LIT-tmpoc5u6.md), registered,
   unread, known by its title) and untuned KPZ growth well above it, which
   the authors credit to local growth, intrinsic noise and no quenched
   disorder. So the answer is not a property of a system as a whole but
   of a regime.
 
-The assistant's CLAIM-tmpvq33w states what the first three share: a
+The assistant's [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md) states what the first three share: a
 protection, and a perturbation that undoes it; it bears on this question
 and leaves the feedback, flux and growth routes aside.
 
@@ -194,23 +194,23 @@ phenomenon the question asks about, not its explanation. [THEORY-tmpehudh](../th
 
 ## Note of 2026-11-22: Kardar, Parisi and Zhang, and Takeuchi and Sano, read
 
-KPZ (LIT-2978, NOTE-tmpf6isj, THEORY-tmpo3w5v) **gives a partial answer
+KPZ ([LIT-2978](../literature.d/LIT-2978.md), [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md), [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md)) **gives a partial answer
 for interfaces**, listed above, and marks a limit: the untuned reach of
-the class is d ≤ 2. Takeuchi and Sano (LIT-2982, NOTE-tmpbmox1,
-THEORY-tmpmoyol) **give a contrast within one system** and conditions
+the class is d ≤ 2. Takeuchi and Sano ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md),
+[THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)) **give a contrast within one system** and conditions
 (locality, intrinsic noise, no quenched disorder) for that system only.
 Both THEORYs `bears_on` this question. Version 3.
 
 ## Note of 2026-11-22: Toner and Tu (1998), read
 
-Toner and Tu (LIT-2970, NOTE-tmpcjw5n, THEORY-tmpdfeto) **give a partial
+Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md), [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md)) **give a partial
 answer for flocks**, listed above: symmetry plus conservation, the
 answer A's "Symmetry removes the restoring term" bullet gives, with a
-conservation law added. THEORY-tmpdfeto `bears_on` this question.
+conservation law added. [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) `bears_on` this question.
 
 ## Note of 2026-11-22: Kosterlitz and Thouless, through two neighbours
 
-The lecture and the notes (THEORY-tmpwdka8, THEORY-tmpaojie) **narrow the
+The lecture and the notes ([THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md), [THEORY-tmpaojie](../theory.d/THEORY-tmpaojie.md)) **narrow the
 line-of-fixed-points answer**: it is not "symmetry removes θ²" alone but
 symmetry with dimension, and a finite interaction range ends it, which
 has the shape of the counterexample the question asks for, an

@@ -14,22 +14,22 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  CLAIM-828 listed Lee et al. (LIT-3001) among its grounds while it was
+  [CLAIM-828](../claims.d/CLAIM-828.md) listed Lee et al. ([LIT-3001](../literature.d/LIT-3001.md)) among its grounds while it was
   unread, from A43's link between the gate's derivative and their finding
   that influence changes sign and peaks at transitions. Read
-  (NOTE-tmp1sot8), the paper carries neither the claim's thesis nor its
+  ([NOTE-tmp1sot8](../notes.d/NOTE-tmp1sot8.md)), the paper carries neither the claim's thesis nor its
   influence step. Its toy has no gate and no weight decay, and orders its
   influence peaks by the modes' strengths, the order the claim says
-  THEORY-740 already gives, not by dependency. Its influence, taken
+  [THEORY-740](../theory.d/THEORY-740.md) already gives, not by dependency. Its influence, taken
   through Saxe's mode strength under gradient flow, peaks mid-transition
   where the claim's equilibrium derivative steps; the filer's check puts
   the peak of ∂g_t/∂s at 2.13 before it settles to 1. Rejected as a
-  ground; LIT-3001 leaves CLAIM-828's grounds. The wording is the
+  ground; [LIT-3001](../literature.d/LIT-3001.md) leaves [CLAIM-828](../claims.d/CLAIM-828.md)'s grounds. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
-  Standing of the conclusion apart from this route: CLAIM-828's gating
+  Standing of the conclusion apart from this route: [CLAIM-828](../claims.d/CLAIM-828.md)'s gating
   and partial order stand on its own derivation (demonstrated, in the
   claim); that real networks acquire distinctions in an order of
-  dependency rather than strength is untested, and LEAD-207 is the
+  dependency rather than strength is untested, and [LEAD-207](../leads.d/LEAD-207.md) is the
   record's plan to test it.
 ---
 <!-- inactive-ok-file: CLAIM-828 THEORY-tmpm3ux2 — Proposed; the claim and the reading this argument joins -->
@@ -38,12 +38,12 @@ summary: >-
 
 ## The inference
 
-CLAIM-828: a child feature gated by a parent switches on only when
+[CLAIM-828](../claims.d/CLAIM-828.md): a child feature gated by a parent switches on only when
 gs > λ, so acquisition follows a partial order of dependencies; its
 corrections paragraph adds that, in the gated model, every example's
 first-order influence on q* is (∂q*/∂s)(yᵢφ(xᵢ) − ŝ)/n, a step at
-activation. It cited Lee et al. (LIT-3001) among its grounds. Ground:
-THEORY-tmpm3ux2.
+activation. It cited Lee et al. ([LIT-3001](../literature.d/LIT-3001.md)) among its grounds. Ground:
+[THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md).
 
 ## Critical questions (evidence)
 
@@ -52,7 +52,7 @@ is Saxe's two-layer linear network, with no gate and no weight decay.
 Its influence peaks come in the hierarchy's order ("the time point of the
 branching node matches the peaks in influence", §3), and in that model
 the hierarchy's order is the order of the singular values: an order by
-strength. The claim's own body says THEORY-283 and THEORY-740 give orders
+strength. The claim's own body says [THEORY-283](../theory.d/THEORY-283.md) and [THEORY-740](../theory.d/THEORY-740.md) give orders
 by strength and that its contribution is an order by dependency. The
 paper does not separate the two.
 
@@ -77,6 +77,6 @@ gradient dynamics of a regularized loss.
 
 ## Verdict
 
-Rejected as a ground. LIT-3001 is removed from CLAIM-828's `grounds`, and
+Rejected as a ground. [LIT-3001](../literature.d/LIT-3001.md) is removed from [CLAIM-828](../claims.d/CLAIM-828.md)'s `grounds`, and
 the claim's influence paragraph is revised in place to say that the
 equilibrium derivative steps and the gradient-flow derivative peaks.

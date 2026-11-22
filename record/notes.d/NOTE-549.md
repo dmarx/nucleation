@@ -315,7 +315,7 @@ critique of C3 and C8 is adopted above. Three differences:
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **a contrast.** This
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **a contrast.** This
 reading's participation ratio of condition centroids rises along the
 cortical hierarchy; Ansuini's nonlinear intrinsic dimension falls over the
 late layers of CNNs. Different measures and objects, so not a conflict. No

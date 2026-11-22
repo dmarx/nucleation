@@ -138,10 +138,10 @@ state process is Markov.
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**Supports, as a restatement** (LIT-2996, NOTE-tmpunt6q,
-THEORY-tmpttfgp). Shalizi and Moore §II restate the Shalizi–Crutchfield
+**Supports, as a restatement** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md),
+[THEORY-tmpttfgp](THEORY-tmpttfgp.md)). Shalizi and Moore §II restate the Shalizi–Crutchfield
 result this account uses: "the causal states form the coarsest possible
 prescient partition", and the least complex. Their emergence relation
-(TERM-tmpaztqn, now filed) compares E/Cµ across two such partitions;
+([TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md), now filed) compares E/Cµ across two such partitions;
 this account's bound E ≤ Cµ keeps that efficiency in [0, 1]. Status
 unchanged.

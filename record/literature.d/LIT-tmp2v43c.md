@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-11-22, not read. Registered from the reading of Yang's
-  "Feature Lottery?" (NOTE-tmpg5q4t), whose Theorem 1 is this paper's
+  "Feature Lottery?" ([NOTE-tmpg5q4t](../notes.d/NOTE-tmpg5q4t.md)), whose Theorem 1 is this paper's
   critical temperature for soft clustering in another convention
   (Tc = 2λmax becomes βc = 1/λmax), and which calls it the static
   predecessor of its dynamic crossing. No reading was attempted; a lawful
@@ -38,7 +38,7 @@ summary: >-
   as a free energy at temperature T, whose single-cluster solution splits
   at a critical temperature set by the data's largest covariance
   eigenvalue. Here as the source of the threshold Yang's probe pitchfork
-  makes dynamic (LIT-2961). Unverified until read.
+  makes dynamic ([LIT-2961](LIT-2961.md)). Unverified until read.
 ---
 
 # LIT-tmp2v43c: Statistical mechanics and phase transitions in clustering
@@ -48,8 +48,8 @@ Rose, Gurewitz & Fox (1990). Physical Review Letters 65, 945. DOI
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of Yang (LIT-2961,
-NOTE-tmpg5q4t), whose Theorem 1 restates this paper's critical
+Registered on 2026-11-22 from the reading of Yang ([LIT-2961](LIT-2961.md),
+[NOTE-tmpg5q4t](../notes.d/NOTE-tmpg5q4t.md)), whose Theorem 1 restates this paper's critical
 temperature as a critical precision for a Gaussian-mixture probe, and
 which presents its own contribution as making that static threshold
 dynamic. The record relies on it only as that attribution. Not read.

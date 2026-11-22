@@ -114,8 +114,8 @@ exponents remain [THEORY-1095](THEORY-1095.md)'s question.
 
 ## Note of 2026-11-22: Toner and Tu (1998), read
 
-The long paper (LIT-2970, read in NOTE-tmpcjw5n; the reading is
-THEORY-tmpdfeto) **supports this reading and extends it.** The slaving of
+The long paper ([LIT-2970](../literature.d/LIT-2970.md), read in [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is
+[THEORY-tmpdfeto](THEORY-tmpdfeto.md)) **supports this reading and extends it.** The slaving of
 the speed fluctuation is derived there in full: δv∥ = −Dρ∂∥δρ, by
 neglecting ∂tδv∥ "relative to αδv∥" (eqs. 3.1–3.2, p. 19), the eliminated
 degree of freedom this entry names. The universality claim is still
@@ -137,6 +137,6 @@ it as a density structure factor diverging as q → 0, "infinitely bigger
 than those in a fluid or an ideal gas" (pp. 7–8), not as ΔN ∝ ⟨N⟩^φ,
 which it never writes; and "some initially predicted exponents differ
 from those obtained in large-scale simulations" is not in it: it reports
-"good agreement" (p. 70). LIT-2970 is no longer unread; the formula and
+"good agreement" (p. 70). [LIT-2970](../literature.d/LIT-2970.md) is no longer unread; the formula and
 the disagreement A reported are later work the record has not read
-(ARG-tmpdc2qe). No status change.
+([ARG-tmpdc2qe](../arguments.d/ARG-tmpdc2qe.md)). No status change.

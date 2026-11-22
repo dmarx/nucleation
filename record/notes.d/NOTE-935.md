@@ -204,7 +204,7 @@ still helps.
 ## Note of 2026-11-22: Shalizi and Moore, read
 
 Connections name "Shalizi and Moore's predictive efficiency" as a rival
-operationalization of emergence. That work is now read (LIT-2996,
-NOTE-tmpunt6q, THEORY-tmpttfgp), and its definition, a coarse-graining
-predicted more efficiently by E/Cµ, is held as TERM-tmpaztqn, set there
+operationalization of emergence. That work is now read ([LIT-2996](../literature.d/LIT-2996.md),
+[NOTE-tmpunt6q](NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)), and its definition, a coarse-graining
+predicted more efficiently by E/Cµ, is held as [TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md), set there
 against Granger emergence. A parallel, no edge.

@@ -100,29 +100,29 @@ accurately captures the intrinsic structure of input distribution"
 
 ## Connections
 
-The NC protocol is Papyan, Han and Donoho's (THEORY-083), here run on
+The NC protocol is Papyan, Han and Donoho's ([THEORY-083](../theory.d/THEORY-083.md)), here run on
 relabelled data. Its critique of the unconstrained-feature model's
 data-blindness is the empirical, feature-learning side of what
-Kothapalli and Tirer study in the kernel regime (NOTE-774, THEORY-813). It
+Kothapalli and Tirer study in the kernel regime ([NOTE-774](NOTE-774.md), [THEORY-813](../theory.d/THEORY-813.md)). It
 contrasts itself with Sohoni and colleagues' subclass work (2020), which
 needs a performance gap between sub-classes; that work is not registered
 and nothing here relies on it.
 
 ## Bearing on the record
 
-Filed as THEORY-tmp8sxta. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md). Dated notes of 2026-11-22 on each entry below.
 
-- **CLAIM-800**: supports, and the reading replaces LIT-2957 in its
-  grounds (ARG-tmp96ygx): a collapse measure saturates on the coarse
+- **[CLAIM-800](../claims.d/CLAIM-800.md)**: supports, and the reading replaces [LIT-2957](../literature.d/LIT-2957.md) in its
+  grounds ([ARG-tmp96ygx](../arguments.d/ARG-tmp96ygx.md)): a collapse measure saturates on the coarse
   labels while the fine distinction stays linearly decodable. The
   fine-before-coarse order it reports is an order in distances, not in
   decodability.
-- **THEORY-788**: qualified; **QUESTION-202**: bears on it.
-- **QUESTION-217**, **QUESTION-512**, **QUESTION-080**, **THEORY-083**,
-  **THEORY-813**, **NOTE-774**, **THEORY-797**, **THEORY-278**,
-  **QUESTION-181**, **THEORY-246**, **CLAIM-tmp2r6ur**, **TERM-tmpf5ymd**:
+- **[THEORY-788](../theory.d/THEORY-788.md)**: qualified; **[QUESTION-202](../questions.d/QUESTION-202.md)**: bears on it.
+- **[QUESTION-217](../questions.d/QUESTION-217.md)**, **[QUESTION-512](../questions.d/QUESTION-512.md)**, **[QUESTION-080](../questions.d/QUESTION-080.md)**, **[THEORY-083](../theory.d/THEORY-083.md)**,
+  **[THEORY-813](../theory.d/THEORY-813.md)**, **[NOTE-774](NOTE-774.md)**, **[THEORY-797](../theory.d/THEORY-797.md)**, **[THEORY-278](../theory.d/THEORY-278.md)**,
+  **[QUESTION-181](../questions.d/QUESTION-181.md)**, **[THEORY-246](../theory.d/THEORY-246.md)**, **[CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md)**, **[TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md)**:
   background, parallels or contrasts.
-- LIT-2957's summary and CLAIM-800's citation are accurate; both lacked
+- [LIT-2957](../literature.d/LIT-2957.md)'s summary and [CLAIM-800](../claims.d/CLAIM-800.md)'s citation are accurate; both lacked
   the qualifications that the result depends on architecture and
   semantics, and that recovery used a linear probe after clustering.
 

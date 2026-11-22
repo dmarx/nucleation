@@ -86,13 +86,13 @@ or the basis; it does not, in the annealed calculation.
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-**A parallel, with a stated contrast**, no edge (LIT-3010, read in
-NOTE-tmpe86ty; THEORY-tmpl7rgc). Crutchfield and Feldman treat excess
+**A parallel, with a stated contrast**, no edge ([LIT-3010](../literature.d/LIT-3010.md), read in
+[NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md); [THEORY-tmpl7rgc](THEORY-tmpl7rgc.md)). Crutchfield and Feldman treat excess
 entropy and this paper's predictive information as one quantity (their
 alias list), report its Ising exponents, and say its parameter-count
 result "holds in a slightly different context than ours": an observer
 learning a distribution by successive sampling, not one reading block
 histograms. They add that logarithmic growth of the excess entropy also
 comes from the Thue–Morse sequence, which has no parameter at all
-(TERM-141, version 2). They do not take up the assertion that predictive
+([TERM-141](../terms.d/TERM-141.md), version 2). They do not take up the assertion that predictive
 information diverges at critical points. Status unchanged.

@@ -288,8 +288,8 @@ one total, a cap of eight hours that tells them apart. No change.
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**A parallel, descriptive not normative**, no edge (LIT-2996,
-NOTE-tmpunt6q, THEORY-tmpttfgp). Shalizi and Moore hold that coexisting
+**A parallel, descriptive not normative**, no edge ([LIT-2996](../literature.d/LIT-2996.md),
+[NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). Shalizi and Moore hold that coexisting
 levels of description "are intended to answer different questions" and
 that no coarse-graining is preferred by nature (§VI): adequacy fixed by
 the target, for prediction. This claim's target is evaluative; the

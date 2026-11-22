@@ -90,7 +90,7 @@ Three things are always relative and should be stated with it:
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **background.** SURD
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **background.** SURD
 is a predictive measure relative to a stated information set, in this
 term's sense, and names its shortfall a "causality leak"; in its
 turbulence case conditional Granger causality does "not support the

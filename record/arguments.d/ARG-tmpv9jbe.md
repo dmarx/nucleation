@@ -13,15 +13,15 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  CLAIM-839 listed the work (LIT-2993) among its grounds while it was
-  unread, as "nearby". Read (NOTE-tmpyyvdy), it is a working instance of
+  [CLAIM-839](../claims.d/CLAIM-839.md) listed the work ([LIT-2993](../literature.d/LIT-2993.md)) among its grounds while it was
+  unread, as "nearby". Read ([NOTE-tmpyyvdy](../notes.d/NOTE-tmpyyvdy.md)), it is a working instance of
   the claim's semantic refinement: supervision as a region whose
   narrowness matches the label's specificity, with a coarse label's cone
   containing its descendants'. It says nothing of informational
   refinement across checkpoints, of branching, or of restriction over
   training time, and its "coarse-to-fine" is a label projection. So it
   weakly supports one half of the claim, independently of the claim's
-  own premises: corroborates, not grounds, and LIT-2993 leaves the
+  own premises: corroborates, not grounds, and [LIT-2993](../literature.d/LIT-2993.md) leaves the
   claim's grounds. Proposed. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
@@ -31,11 +31,11 @@ summary: >-
 
 ## The inference
 
-CLAIM-839 holds that progressive learning can be described by two partial
+[CLAIM-839](../claims.d/CLAIM-839.md) holds that progressive learning can be described by two partial
 orders, semantic entailment among the regions a representation assigns
 and informational refinement among its checkpoints, and that a narrower
 region counts as progress only while it stays correct. Ground:
-THEORY-tmpsj6u9.
+[THEORY-tmpsj6u9](../theory.d/THEORY-tmpsj6u9.md).
 
 ## Critical questions (existence)
 
@@ -62,5 +62,5 @@ CIFAR-100). It does not show learning discovers such an order.
 ## Verdict
 
 Supports the semantic half weakly; nothing on the informational half or
-on the thesis that learning branches. The reading moves from CLAIM-839's
-`grounds` to `corroborates` on THEORY-tmpsj6u9.
+on the thesis that learning branches. The reading moves from [CLAIM-839](../claims.d/CLAIM-839.md)'s
+`grounds` to `corroborates` on [THEORY-tmpsj6u9](../theory.d/THEORY-tmpsj6u9.md).

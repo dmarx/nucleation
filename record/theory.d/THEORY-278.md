@@ -197,7 +197,7 @@ measured or derived content is its evidence. Nothing here changes.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a contrast
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **a contrast
 only.** Cross-entropy, not MSE; it attacks the unconstrained-feature model's
 data-blindness, the model in which this account's renormalized flow is
 derived. No relation.

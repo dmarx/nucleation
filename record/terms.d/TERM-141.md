@@ -71,7 +71,7 @@ ordinary, irreducible randomness disappears from this expression" (A21
 §4). The **excess entropy** E = I(past; future) is its limit as T → ∞,
 finite or not (A13 §5).
 
-**Crutchfield and Feldman's identities and bound** (THEORY-tmpl7rgc; added
+**Crutchfield and Feldman's identities and bound** ([THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md); added
 2026-11-22, version 2). With hµ(L) = H(L) − H(L−1), the excess entropy is
 E = Σ_L [hµ(L) − hµ], and they show it equals the subextensive part of the
 block entropy, E = lim [H(L) − hµL] (Prop. 7), and, when the limit exists,
@@ -123,7 +123,7 @@ I_pred(T) is bounded by the entropy of the causal states ([THEORY-756](../theory
    generator ("there is no finite-state process that can generate the
    Thue-Morse sequence"); yet "the excess entropy diverges; E(L) ∝ log2 L,
    indicating an infinite-memory process" (Crutchfield and Feldman §VI,
-   LIT-3010). There is no θ to learn and no mixture: the Thue–Morse shift
+   [LIT-3010](../literature.d/LIT-3010.md)). There is no θ to learn and no mixture: the Thue–Morse shift
    is uniquely ergodic (a standard fact, not stated in the paper). So
    logarithmic growth has at least two sources, finitely many unknown
    parameters (condition 1, non-ergodic) and aperiodic, infinite-state
@@ -159,7 +159,7 @@ session, not kept; the method is as stated).
   process's actual complexity". They assign structure proper to
   computational mechanics: "specifying how this memory is organized
   cannot be done within the framework of information theory". The record
-  holds the same lesson from Shalizi and Crutchfield (NOTE-1372: excess
+  holds the same lesson from Shalizi and Crutchfield ([NOTE-1372](../notes.d/NOTE-1372.md): excess
   entropy a lower bound on stored memory, not a measure of it).
 - **Not statistical complexity.** The entropy of the causal states bounds
   the excess entropy from above and can exceed it ([THEORY-756](../theory.d/THEORY-756.md)); the two
@@ -175,7 +175,7 @@ session, not kept; the method is as stated).
 
 Bialek, Nemenman and Tishby 2001 ([LIT-3008](../literature.d/LIT-3008.md), read on 2026-11-21 in
 [NOTE-2243](../notes.d/NOTE-2243.md)) and Crutchfield and Feldman 2003 ([LIT-3010](../literature.d/LIT-3010.md), read on
-2026-11-22 in NOTE-tmpe86ty). The relation to
+2026-11-22 in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md)). The relation to
 parameter count (½ log T per parameter) is the same coefficient the record
 holds as the Bayesian Occam penalty ([THEORY-087](../theory.d/THEORY-087.md)).
 
@@ -209,7 +209,7 @@ convention.
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-Read in NOTE-tmpe86ty (THEORY-tmpl7rgc, which this term now `draws_on`).
+Read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md) ([THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md), which this term now `draws_on`).
 It **supports the definition and its identities, adds a bound, and
 qualifies the regimes**; the revisions are made in place above
 (version 2).

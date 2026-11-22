@@ -24,7 +24,7 @@ summary: >-
   the parameter-free skewness and kurtosis, and Airy₂ correlations. The
   first quantitative test of the KPZ fluctuation predictions, in a field
   where "only two experiments among dozens directly found the KPZ
-  exponents". The reading is THEORY-tmpmoyol.
+  exponents". The reading is [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpmoyol LIT-tmpoc5u6 — new or Deferred; this reading's account and the authors' directed-percolation letter -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-803 THEORY-2148 TERM-139 ARG-tmp2xbl4 CLAIM-tmpvq33w — Proposed or new; the entries the reading bears on -->
@@ -38,7 +38,7 @@ exponents. The one earlier test, on paper combustion (Miettinen et al.
 2005), reached "an apparent agreement" only after the authors "had to
 shift and rescale" the distribution (p. 3). The paper is also among the
 few experiments to find the KPZ exponents directly. The reading is
-THEORY-tmpmoyol.
+[THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md).
 
 ## Key results
 
@@ -100,39 +100,39 @@ turbulence; quenched disorder; finite-time corrections.
 
 ## Bearing on the record
 
-- **CLAIM-841** (KPZ row): **supports, with a qualification.** The front
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (KPZ row): **supports, with a qualification.** The front
   shows KPZ scaling in a state driven well above a threshold (item 2),
   reported robust across voltages, so nothing is tuned to a transition;
   the paper itself never speaks of criticality or tuning, and this
   reading is the record's. The qualification: untuned is not generic.
   The class needs locality and no quenched disorder (item 8), which most
   experiments lack (item 1). The claim's "generically" holds for theory
-  and simulation, not for experiment (ARG-tmp2xbl4).
-- **LEAD-209** (KPZ column): **supports and corrects.** Its cells
+  and simulation, not for experiment ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)).
+- **[LEAD-209](../leads.d/LEAD-209.md)** (KPZ column): **supports and corrects.** Its cells
   "W ∝ L^α" and "3/2 in 1D" are what the paper measures. Its "nonzero
   skewness" is near the mark but misplaced: the skewness the paper
   measures (about 0.224) is of the height, the local radius, not of its
   increments. The paper supplies a sharper row: the parameter-free
   skewness and kurtosis, which tell GUE TW from GOE TW and Gaussian and
   so read the geometry.
-- **QUESTION-508**: **a partial answer for one system, and a contrast.**
+- **[QUESTION-508](../questions.d/QUESTION-508.md)**: **a partial answer for one system, and a contrast.**
   The paper's three factors (local growth, intrinsic noise, no quenched
   disorder) say what this system has that others lack. The same system
   shows directed-percolation criticality at the DSM1–DSM2 threshold, a
   tuned absorbing-state transition ("spatiotemporal intermittency",
-  p. 2, ref. [13]; LIT-tmpoc5u6, registered, unread, known here only by
+  p. 2, ref. [13]; [LIT-tmpoc5u6](../literature.d/LIT-tmpoc5u6.md), registered, unread, known here only by
   its title), and untuned KPZ growth above it.
-- **CLAIM-803**: **parallel.** The paper goes "beyond the scaling laws"
+- **[CLAIM-803](../claims.d/CLAIM-803.md)**: **parallel.** The paper goes "beyond the scaling laws"
   (p. 1): the class is identified by the whole fluctuation distribution
   and the correlation, and the distribution splits sub-classes (GUE,
   GOE) that share the exponents. No edge: the sub-classes are one
   universality class.
-- **THEORY-2148**: **background.** The same GUE Tracy-Widom law Baik, Ben
+- **[THEORY-2148](../theory.d/THEORY-2148.md)**: **background.** The same GUE Tracy-Widom law Baik, Ben
   Arous and Péché find at a sample covariance's edge, here reached by a
   growing interface.
-- **TERM-139**: background; the exact 1+1 exponents are cited to "the
+- **[TERM-139](../terms.d/TERM-139.md)**: background; the exact 1+1 exponents are cited to "the
   renormalization group approach" (p. 1).
-- **CLAIM-tmpvq33w**: one of its cases is KPZ, whose untuned scaling this
+- **[CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md)**: one of its cases is KPZ, whose untuned scaling this
   experiment shows in a laboratory.
 - **No instruction for machine-learning practice.**
 

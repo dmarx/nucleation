@@ -124,20 +124,20 @@ for the size of the correction only; the record holds no reading of it.
 
 - That turbulence's interscale causation is settled. A23 §6 cites a 2024
   study decomposing it into unique, shared (the paper's "redundant") and
-  synergistic parts (Martínez-Sánchez and colleagues, LIT-2965, read
-  2026-11-22 as THEORY-tmpc73s5; changed in place, version 2). It finds
+  synergistic parts (Martínez-Sánchez and colleagues, [LIT-2965](../literature.d/LIT-2965.md), read
+  2026-11-22 as [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md); changed in place, version 2). It finds
   directed, forward, mostly unique and redundant dependence among four
   volume-averaged flux signals of one simulation, with lags chosen to
   maximize the cross unique terms. That fits this claim's turbulence row,
   where all three properties are present, and does not test the
-  separations (ARG-tmpojf88).
+  separations ([ARG-tmpojf88](../arguments.d/ARG-tmpojf88.md)).
 - That nesting never carries causation. The claim is only that structure
   across scales does not show it.
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965) were read
-(NOTE-tmpi0o71; the reading is THEORY-tmpc73s5). **Qualifies, and supports
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md)) were read
+([NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md); the reading is [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)). **Qualifies, and supports
 in part.**
 
 - **Keeps transfer and dependence apart.** The energy transfer Σ̃ = τᵢⱼS̄ᵢⱼ
@@ -149,7 +149,7 @@ in part.**
 - **Fixes the decomposition** this claim says A23 §6's transfer entropy
   needs: Gaussian filters at four widths in the inertial range, then volume
   averaging.
-- **Does not test the separations** (ARG-tmpojf88, Rejected as that
+- **Does not test the separations** ([ARG-tmpojf88](../arguments.d/ARG-tmpojf88.md), Rejected as that
   route). Turbulence has all three properties; the paper examines no
   system that has one without the others. Its limits: four volume-averaged
   scalars, so local backscatter that cancels in the average cannot show;
@@ -157,5 +157,5 @@ in part.**
   leak of about 47% for the second scale.
 - SURD's components are invariant under invertible transformations of the
   signals, and the flux's sign is in the variable, so it is not blind to
-  the reflection x → −x as THEORY-748's block entropies on the velocity
+  the reflection x → −x as [THEORY-748](../theory.d/THEORY-748.md)'s block entropies on the velocity
   are. A parallel, no relation.

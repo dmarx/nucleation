@@ -150,7 +150,7 @@ compute how the eigenvalue goes to zero there. No relation is written.
 
 ## Note of 2026-11-22: Yang, read
 
-Background. Yang's merged prototypes (THEORY-tmpu0f9k) are where the
+Background. Yang's merged prototypes ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)) are where the
 anti-symmetric directions go soft at βc, a merge of mechanisms of a kind,
 but the paper computes no local coefficient, so the 3/4 at this case's
 merge stratum has no counterpart there.

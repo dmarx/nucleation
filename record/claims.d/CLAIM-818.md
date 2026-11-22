@@ -101,7 +101,7 @@ the 100 × 100 matrix K was positive (6.7 × 10⁻⁵).
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **consistent, a
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **consistent, a
 parallel at the population level.** One energy functional with an
 equilibrium for one modality, one joint energy for two: so nonequilibrium
 behaviour would have to come from the optimizer or the noise, as this

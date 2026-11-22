@@ -123,7 +123,7 @@ to part of this claim; the owner chooses.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **leaves the
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **leaves the
 claim open; in the paper's own settings the top outliers are the signal,
 against the stop-word half.** Its conjugate-kernel outliers are inherited
 from the input's spikes, which are the class labels or the target
@@ -135,13 +135,13 @@ activations the kernel can have top eigenvalues "even when the input K0
 has no spiked structure", "uninformative spike eigenvalues", shown by
 Benigni and Péché and assumed away here (E σ″ = 0). Those are top
 directions that carry no task signal, which is the shape the stop-word
-half needs. Benigni and Péché are registered (LIT-tmp9isrs, Deferred) as
+half needs. Benigni and Péché are registered ([LIT-tmp9isrs](../literature.d/LIT-tmp9isrs.md), Deferred) as
 the reading that might test it directly, for a random one-layer kernel. A
 note, no relation.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **a
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **a
 weak parallel that runs both ways; no spectral analysis.** Under coarse
 labels the variance-dominant directions of the last layer are the coarse
 class means, and the fine-class signal lives in "the small amount of

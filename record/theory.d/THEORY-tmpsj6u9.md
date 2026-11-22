@@ -21,7 +21,7 @@ corroborates:
 - CLAIM-816
 summary: >-
   Ghadimi Atigh, van Spengler, Long, Ayoughi, Kasarla & Mettes (2026),
-  LIT-2993, read in NOTE-tmpyyvdy. Supervision as a region whose
+  [LIT-2993](../literature.d/LIT-2993.md), read in [NOTE-tmpyyvdy](../notes.d/NOTE-tmpyyvdy.md). Supervision as a region whose
   narrowness matches the label's specificity, with depth by radius. The
   sharp edges: coarsening is simulated uniformly at random; some leaf
   labels always remain; the prototypes are fixed, so nothing moves but
@@ -37,7 +37,7 @@ summary: >-
 
 Ghadimi Atigh, van Spengler, Long, Ayoughi, Kasarla & Mettes (2026),
 "Hyperbolic Learning with Supervision from any Granularity", AISTATS
-2026, PMLR 300:2674–2682, LIT-2993, read in NOTE-tmpyyvdy.
+2026, PMLR 300:2674–2682, [LIT-2993](../literature.d/LIT-2993.md), read in [NOTE-tmpyyvdy](../notes.d/NOTE-tmpyyvdy.md).
 
 ## What was actually shown
 

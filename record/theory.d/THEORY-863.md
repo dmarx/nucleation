@@ -132,7 +132,7 @@ fair walk on a finite interval is absorbed.
 
 ## Note of 2026-11-22: Yang, read
 
-A contrast with "lottery". Yang's "feature lottery" (THEORY-tmpu0f9k)
+A contrast with "lottery". Yang's "feature lottery" ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md))
 is not lock-in by increasing returns: the direction each atom takes is
 chosen by "initialization noise and the cubic terms" on a shared,
 degenerate unstable subspace, and then persists by slow angular

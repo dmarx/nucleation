@@ -81,7 +81,7 @@ from [CLAIM-305](CLAIM-305.md) against this reading and answers its critical que
 ## Note of 2026-11-22: Yang, and Lee, Smith, Adam and Hoogland, read
 
 Contrast and background; neither bears on this reading. Yang's transition
-(THEORY-tmpu0f9k) is a dynamical instability of a detached probe's loss
+([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)) is a dynamical instability of a detached probe's loss
 at a saddle, nothing like training carrying out a blow-up. Lee et al.'s
-(THEORY-tmpm3ux2) are posterior mass moving between two regions U and V;
+([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)) are posterior mass moving between two regions U and V;
 no resolution appears.

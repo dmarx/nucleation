@@ -18,13 +18,13 @@ date: '2026-11-22'
 source:
 - LIT-2989
 summary: >-
-  Bui, Yang, Chen, Neves, Ju, Ying, Shah & Zhao (2025), LIT-2989, read in
-  NOTE-tmpvu3vp. Temporal cone restriction as a soft regularizer, and it
+  Bui, Yang, Chen, Neves, Ju, Ying, Shah & Zhao (2025), [LIT-2989](../literature.d/LIT-2989.md), read in
+  [NOTE-tmpvu3vp](../notes.d/NOTE-tmpvu3vp.md). Temporal cone restriction as a soft regularizer, and it
   works. The sharp edges: the hinge is weighted 0.3 and cone satisfaction
   is never reported; the cones are per item, between two separately
   trained models; one run per configuration; and the clipping radius must
   rise at every update, which the authors list as a limitation and which
-  follows from the cone geometry (CLAIM-tmpxcy5s). Proposed until
+  follows from the cone geometry ([CLAIM-tmpxcy5s](../claims.d/CLAIM-tmpxcy5s.md)). Proposed until
   replicated.
 ---
 <!-- inactive-ok-file: CLAIM-tmpxcy5s — Proposed; the assistant's derivation of the norm growth -->
@@ -36,7 +36,7 @@ summary: >-
 Bui, Yang, Chen, Neves, Ju, Ying, Shah & Zhao (2025), "Learning Along the
 Arrow of Time: Hyperbolic Geometry for Backward-Compatible
 Representation Learning", ICML 2025 (PMLR 267), arXiv 2506.05826,
-LIT-2989, read in NOTE-tmpvu3vp.
+[LIT-2989](../literature.d/LIT-2989.md), read in [NOTE-tmpvu3vp](../notes.d/NOTE-tmpvu3vp.md).
 
 ## What was actually shown
 

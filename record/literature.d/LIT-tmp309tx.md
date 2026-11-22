@@ -4,8 +4,8 @@ status_note: >-
   registered 2026-11-22, not read. Hattori, Hattori and Watanabe's
   Gaussian field theory on general networks, which defines a network's
   spectral dimension through a spin system's critical behaviour and
-  which Cassi (LIT-tmpu2kk5) applied to the Mermin–Wagner question.
-  Known to the record only through Gelfert and Nolting (LIT-tmpbgf6y). No
+  which Cassi ([LIT-tmpu2kk5](LIT-tmpu2kk5.md)) applied to the Mermin–Wagner question.
+  Known to the record only through Gelfert and Nolting ([LIT-tmpbgf6y](LIT-tmpbgf6y.md)). No
   reading was attempted; a lawful copy has not been sought.
 title: 'Gaussian Field Theories on General Networks and the Spectral Dimensions'
 version: 1
@@ -39,7 +39,7 @@ summary: >-
   is the network of the interaction, the dimension governing a spin
   system's critical behaviour is a property of that network; the paper
   defines the spectral dimension of general networks through a Gaussian
-  field theory on them. Here for TERM-136 and CLAIM-842. Unverified until
+  field theory on them. Here for [TERM-136](../terms.d/TERM-136.md) and [CLAIM-842](../claims.d/CLAIM-842.md). Unverified until
   read.
 ---
 <!-- inactive-ok-file: LIT-tmpu2kk5 — new or Deferred; the review it was registered from and Cassi's application -->
@@ -53,7 +53,7 @@ Supplement 92, 108–143. DOI 10.1143/PTPS.92.108.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from Gelfert and Nolting (LIT-tmpbgf6y), read as
-a stand-in for Mermin and Wagner (LIT-2985). It is the source of the
-point CLAIM-842 and TERM-136 turn on, that the dimension spins feel is
+Registered on 2026-11-22 from Gelfert and Nolting ([LIT-tmpbgf6y](LIT-tmpbgf6y.md)), read as
+a stand-in for Mermin and Wagner ([LIT-2985](LIT-2985.md)). It is the source of the
+point [CLAIM-842](../claims.d/CLAIM-842.md) and [TERM-136](../terms.d/TERM-136.md) turn on, that the dimension spins feel is
 that of their interaction network, not of an embedding. Not read.

@@ -24,7 +24,7 @@ bears_on:
 - QUESTION-tmphkb1w
 - QUESTION-217
 summary: >-
-  Lee, Smith, Adam & Hoogland (2025), LIT-3001, read in NOTE-tmp1sot8.
+  Lee, Smith, Adam & Hoogland (2025), [LIT-3001](../literature.d/LIT-3001.md), read in [NOTE-tmp1sot8](../notes.d/NOTE-tmp1sot8.md).
   Influence as a susceptibility that changes at stage transitions. The
   sharp edges: the theory is for a Bayesian posterior split between two
   phases, and the link to SGD is the paper's "primary theoretical gap";
@@ -39,8 +39,8 @@ summary: >-
 ## Source
 
 Lee, Smith, Adam & Hoogland (2025), "Influence Dynamics and Stagewise
-Data Attribution", ICLR 2026, arXiv 2510.12071, LIT-3001, read in
-NOTE-tmp1sot8.
+Data Attribution", ICLR 2026, arXiv 2510.12071, [LIT-3001](../literature.d/LIT-3001.md), read in
+[NOTE-tmp1sot8](../notes.d/NOTE-tmp1sot8.md).
 
 ## What was actually shown
 
@@ -64,6 +64,6 @@ NOTE-tmp1sot8.
 - That SGD follows the Bayesian posterior's transitions (§5's gap).
 - That influence peaks in any given model; "under some conditions".
 - That the peaks order by dependency. In the toy they follow the modes'
-  strengths, the order of THEORY-740.
+  strengths, the order of [THEORY-740](THEORY-740.md).
 - Anything measured about the LLC over training; Type-B transitions are
   named in A.2, not shown.

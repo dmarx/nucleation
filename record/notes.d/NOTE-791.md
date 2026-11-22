@@ -286,7 +286,7 @@ uniform prior over states) and Millidge's query-driven abstractions.
 ## Note of 2026-11-22: Shalizi and Moore, read
 
 Connections name "Shalizi and Moore's causal states" among the rivals.
-That work is now read (LIT-2996, NOTE-tmpunt6q, THEORY-tmpttfgp). A
+That work is now read ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). A
 contrast: Shalizi and Moore condition on the macro process's own past and
 start from a chosen observable; dynamical independence conditions on the
-micro past. Their emergence relation is TERM-tmpaztqn.
+micro past. Their emergence relation is [TERM-tmpaztqn](../terms.d/TERM-tmpaztqn.md).

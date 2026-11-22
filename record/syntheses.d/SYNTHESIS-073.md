@@ -161,7 +161,7 @@ Tested by [ADR-075](../decisions.d/ADR-075.md)'s step 5 at this review and not f
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **background,
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **background,
 consistent.** SURD is in the family this account holds, a predictive
 quantity relative to an information set, with the leak as an explicit
 measure of what the information set lacks. The leak does not supply an

@@ -162,10 +162,10 @@ Read so, Song et al. bear on the owner's question more than the earlier note sai
 
 ## Note of 2026-11-22: Yang, and Lee, Smith, Adam and Hoogland, read
 
-- **Yang (THEORY-tmpu0f9k): a contrast.** The direction that becomes
+- **Yang ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)): a contrast.** The direction that becomes
   unstable is the *largest* covariance direction, at β = 1/λmax(Cov z),
   not a weak one becoming informative.
-- **Lee et al. (THEORY-tmpm3ux2): a parallel.** The between-phase part of
+- **Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)): a parallel.** The between-phase part of
   their influence, πUπV(µi,U − µi,V)(µj,U − µj,V), picks out the samples
   on which two phases disagree, which may be samples a weak direction
   carries; the paper does not connect it to small eigenvalues.

@@ -46,7 +46,7 @@ No theorem: the paper does not characterize VICReg's optimum (the spectral readi
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **a contrast.**
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](THEORY-tmpvwv5n.md)): **a contrast.**
 Here a collapse preventer, the variance hinge, is added to the objective
 by hand; there the entropy term implicit in InfoNCE's denominator plays
 that role. A note, no relation.

@@ -16,10 +16,10 @@ line:
 - formal-apparatus
 - learned-structure
 summary: >-
-  CLAIM-809 grounded Bertschinger and Natschläger (LIT-2991) unread for
+  [CLAIM-809](../claims.d/CLAIM-809.md) grounded Bertschinger and Natschläger ([LIT-2991](../literature.d/LIT-2991.md)) unread for
   strand 1. That article is unreachable; its abstract says "only near the
   critical boundary can such networks perform complex computations on time
-  series", and its NIPS companion (LIT-tmpdsowv, read in NOTE-tmpi5t3r)
+  series", and its NIPS companion ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), read in [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md))
   restates the programme. The companion supports strand 1 (order is fading
   memory; chaos leaves "spurious" information about initial conditions).
   Its headline is the universal reading the thesis rejects, but the
@@ -35,13 +35,13 @@ summary: >-
 
 ## The inference
 
-CLAIM-809, strand 1: "An ordered network forgets; a chaotic one separates
+[CLAIM-809](../claims.d/CLAIM-809.md), strand 1: "An ordered network forgets; a chaotic one separates
 but cannot be read reliably; near the transition both can hold". Its
 defeater: "every component of that measure is maximized at the transition
 for every task in a stated family and every finite integration window";
 "A single task whose optimum sits at the transition does not defeat it."
 
-THEORY-tmps8t83: fading memory "is equivalent to the requirement that all
+[THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md): fading memory "is equivalent to the requirement that all
 state differences vanish, i.e. being in the ordered phase"; in chaos the
 state "contains “spurious” information about the initial conditions";
 "The highest performance is clearly achieved for parameter values close
@@ -74,8 +74,8 @@ for many different tasks."
 ## Verdict
 
 Supports strand 1; qualifies the thesis without defeating it. The
-record's cases now run three ways: CLAIM-814 (readout noise pushes the
-optimum toward the transition), Azizpour and colleagues (THEORY-tmpye6xs,
+record's cases now run three ways: [CLAIM-814](../claims.d/CLAIM-814.md) (readout noise pushes the
+optimum toward the transition), Azizpour and colleagues ([THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md),
 subcritical for every finite window), and this one (near the order–chaos
 line, task-averaged). Calvet, Reulet and Rouat add that the alignment
-depends on the system (ARG-tmps7n0g). Proposed.
+depends on the system ([ARG-tmps7n0g](ARG-tmps7n0g.md)). Proposed.

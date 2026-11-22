@@ -241,9 +241,9 @@ No status change.
 
 ## Note of 2026-11-22: Kosterlitz's Nobel lecture, read
 
-A **parallel**, from the same passage as CLAIM-694's note of this date
-(LIT-tmp3k6np, NOTE-tmp0si2r, THEORY-tmpwdka8; a stand-in for
-Kosterlitz and Thouless, LIT-2969, Unfetched). The topological row's
+A **parallel**, from the same passage as [CLAIM-694](CLAIM-694.md)'s note of this date
+([LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), [NOTE-tmp0si2r](../notes.d/NOTE-tmp0si2r.md), [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md); a stand-in for
+Kosterlitz and Thouless, [LIT-2969](../literature.d/LIT-2969.md), Unfetched). The topological row's
 "what holds it", "a charge fixed by the field at its boundary", holds at
 finite temperature only where the barrier between sectors grows with
 system size: ∝ ln L for the planar rotor's winding sectors, "of order

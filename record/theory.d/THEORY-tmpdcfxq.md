@@ -16,10 +16,10 @@ date: '2026-11-22'
 source:
 - LIT-tmpvt8q4
 summary: >-
-  Le Doussal (2025), LIT-tmpvt8q4, skimmed in NOTE-tmpu2n0d for one
+  Le Doussal (2025), [LIT-tmpvt8q4](../literature.d/LIT-tmpvt8q4.md), skimmed in [NOTE-tmpu2n0d](../notes.d/NOTE-tmpu2n0d.md) for one
   passage (p. 4). A summary by a specialist of results it cites, not
-  derived here. Used to scope CLAIM-841's KPZ row to d ≤ 2
-  (ARG-tmp2xbl4) and for CLAIM-tmpvq33w's higher-dimensional case.
+  derived here. Used to scope [CLAIM-841](../claims.d/CLAIM-841.md)'s KPZ row to d ≤ 2
+  ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)) and for [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md)'s higher-dimensional case.
   Proposed until the cited literature is read.
 ---
 <!-- inactive-ok-file: NOTE-tmpu2n0d ARG-tmp2xbl4 CLAIM-tmpvq33w — Skimmed or new; this reading and the entries it grounds -->
@@ -30,7 +30,7 @@ summary: >-
 ## Source
 
 Le Doussal (2025), "Dynamic scaling of growing interfaces", arXiv
-2507.08341, LIT-tmpvt8q4, p. 4, skimmed in NOTE-tmpu2n0d.
+2507.08341, [LIT-tmpvt8q4](../literature.d/LIT-tmpvt8q4.md), p. 4, skimmed in [NOTE-tmpu2n0d](../notes.d/NOTE-tmpu2n0d.md).
 
 ## The account
 

@@ -20,10 +20,10 @@ summary: >-
   dependence among four flux signals, so it cannot show any of the three
   occurring without the others. It does keep transfer (the flux, a
   physical quantity) and dependence (predictive information among the flux
-  signals) apart as objects, which fits CLAIM-810's distinction without
-  testing it (THEORY-tmpc73s5, NOTE-tmpi0o71). Standing of the conclusion
-  apart from this route: CLAIM-810 holds it, on its stationary Gaussian
-  construction and its grounds THEORY-748 and THEORY-754; no entry tells
+  signals) apart as objects, which fits [CLAIM-810](../claims.d/CLAIM-810.md)'s distinction without
+  testing it ([THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md)). Standing of the conclusion
+  apart from this route: [CLAIM-810](../claims.d/CLAIM-810.md) holds it, on its stationary Gaussian
+  construction and its grounds [THEORY-748](../theory.d/THEORY-748.md) and [THEORY-754](../theory.d/THEORY-754.md); no entry tells
   against it. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -33,7 +33,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-810: scale invariance, dependence across scales and transfer across
+[CLAIM-810](../claims.d/CLAIM-810.md): scale invariance, dependence across scales and transfer across
 scales are three properties, "any of which can occur without the others".
 Martínez-Sánchez and colleagues compute "the time signals of the
 volume-averaged energy transfer" at four filter widths, the transfer, and
@@ -46,7 +46,7 @@ solely through redundant relationships".
 - **Would the evidence be expected if the claim were false?** Yes. In
   turbulence the three properties co-occur, and a directed, mostly unique
   and redundant dependence among forward fluxes is what one would find
-  whether or not the properties can come apart elsewhere. CLAIM-810 says
+  whether or not the properties can come apart elsewhere. [CLAIM-810](../claims.d/CLAIM-810.md) says
   it is "not defeated by systems that have all three, such as turbulence";
   by the same token it is not supported by one.
 - **Does it tell the claim apart from its rivals?** No. The rival, that
@@ -55,14 +55,14 @@ solely through redundant relationships".
   dependence and no dependence without flux.
 - **Does the measure measure what it is said to?** For the distinction of
   objects, yes: the flux is defined dynamically (p. 14) and SURD measures
-  prediction among its time series, two different things, as CLAIM-810
+  prediction among its time series, two different things, as [CLAIM-810](../claims.d/CLAIM-810.md)
   separates them. It also fixes the decomposition into scales that
-  CLAIM-810 says A23 §6's transfer entropy needs (Gaussian filters at four
+  [CLAIM-810](../claims.d/CLAIM-810.md) says A23 §6's transfer entropy needs (Gaussian filters at four
   widths, volume averaging), an instance of what the claim asks for. But
   the separations themselves are not tested, and the lags are chosen to
   maximize the cross unique terms (p. 15).
 
 ## Verdict
 
-Rejected as a route to CLAIM-810's separations; it qualifies the claim
+Rejected as a route to [CLAIM-810](../claims.d/CLAIM-810.md)'s separations; it qualifies the claim
 only in its "What it does not say" (the claim's note of 2026-11-22).

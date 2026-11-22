@@ -28,7 +28,7 @@ summary: >-
   ε²_d Σ^π ≥ 2 holds for every current: the general proof of Barato and
   Seifert's conjecture.
 ---
-<!-- inactive-ok-file: THEORY-tmp9t69m LIT-tmp3eet2 — Proposed, Deferred or new; the account this reading files and the companion conjecture it names -->
+<!-- inactive-ok-file: LIT-tmp3eet2 — Proposed, Deferred or new; the account this reading files and the companion conjecture it names -->
 <!-- inactive-ok-file: CLAIM-815 THEORY-1366 — Proposed; large-deviation entries named as background -->
 
 # NOTE-tmpri2np: Gingrich, Horowitz, Perunov & England — Dissipation bounds all steady-state current fluctuations
@@ -37,8 +37,8 @@ summary: >-
 
 The first general proof of the thermodynamic uncertainty relation for
 steady-state currents of Markov jump processes, multicyclic networks far
-from equilibrium included, which Barato and Seifert (LIT-1885,
-THEORY-1268) had proved only in linear response and for unicyclic
+from equilibrium included, which Barato and Seifert ([LIT-1885](../literature.d/LIT-1885.md),
+[THEORY-1268](../theory.d/THEORY-1268.md)) had proved only in linear response and for unicyclic
 networks. It proves more than the relation: a bound on the whole
 large-deviation rate function of currents, so on rare fluctuations as
 well as the variance.
@@ -74,7 +74,7 @@ well as the variance.
   function; the generalized bound by a trial current proportional to j^π.
 - **Priority**: "we became aware of the preprint by Pietzonka, Barato, and
   Seifert [arXiv 1512.01221], which conjectures (4) as a universal bound"
-  (registered as LIT-tmp3eet2, Deferred).
+  (registered as [LIT-tmp3eet2](../literature.d/LIT-tmp3eet2.md), Deferred).
 
 ## Check
 
@@ -105,26 +105,26 @@ production; fluctuation theorem for currents; ASEP.
 
 ## Bearing on the record
 
-- **LIT-2981**: read; Active. The exchange's A26 statement of the
+- **[LIT-2981](../literature.d/LIT-2981.md)**: read; Active. The exchange's A26 statement of the
   relation, Var(J_T)/⟨J_T⟩² ≥ 2/⟨Σ_T⟩ "for a suitable integrated current",
   is accurate as the long-time form of Eq. 8; "suitable" means any linear
   combination of edge currents.
-- **THEORY-1268**: supports and completes. Its "What this does not say"
+- **[THEORY-1268](../theory.d/THEORY-1268.md)**: supports and completes. Its "What this does not say"
   reads "Proofs for general networks came later and are not held"; this is
   that proof. Its title's "states it as a conjecture" stays true of the
   2015 letter.
-- **LIT-1885**: background; the conjecture proved.
-- **QUESTION-452**: qualifies and leaves open. The price holds for any
+- **[LIT-1885](../literature.d/LIT-1885.md)**: background; the conjecture proved.
+- **[QUESTION-452](../questions.d/QUESTION-452.md)**: qualifies and leaves open. The price holds for any
   current of a Markov jump network, far from equilibrium and for rare
   fluctuations, but that maintenance is such a current is not shown, and
   occupations are not covered.
-- **THEORY-1830** (Tu): contrast; different observables, no conflict.
-- **THEORY-431** (fluctuation theorems): parallel; the bound respects the
+- **[THEORY-1830](../theory.d/THEORY-1830.md)** (Tu): contrast; different observables, no conflict.
+- **[THEORY-431](../theory.d/THEORY-431.md)** (fluctuation theorems): parallel; the bound respects the
   current fluctuation theorem.
-- **TERM-062**: no bearing. The curation entry of 2026-11-21 pairs this
-  work with TERM-062; that pairing belongs to Shalizi and Moore
-  (LIT-2996). Its ideas are held in THEORY-1268.
-- Large-deviation entries (THEORY-1366, CLAIM-815, LIT-1892): background
+- **[TERM-062](../terms.d/TERM-062.md)**: no bearing. The curation entry of 2026-11-21 pairs this
+  work with [TERM-062](../terms.d/TERM-062.md); that pairing belongs to Shalizi and Moore
+  ([LIT-2996](../literature.d/LIT-2996.md)). Its ideas are held in [THEORY-1268](../theory.d/THEORY-1268.md).
+- Large-deviation entries ([THEORY-1366](../theory.d/THEORY-1366.md), [CLAIM-815](../claims.d/CLAIM-815.md), [LIT-1892](../literature.d/LIT-1892.md)): background
   only, same apparatus, different objects; left without notes.
 
 ## Limitations

@@ -87,7 +87,7 @@ The wording is the assistant's (Claude, in this session); adopting it is the own
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **a weak
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **a weak
 parallel.** Whether a spike shows as an outlier depends on the aspect
 ratios n/dℓ: wider layers keep alignment over more layers (Fig. 2(a)) and
 the trained kernel's alignment rises with the sample size (Fig. 3(b)). So

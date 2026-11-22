@@ -72,7 +72,7 @@ apart: concentration ([CLAIM-797](../claims.d/CLAIM-797.md), [CLAIM-838](../clai
   spectrum, its exponent and participation ratio (fitted directly, not from
   width scaling, [CLAIM-848](../claims.d/CLAIM-848.md)); the TwoNN intrinsic dimension, with a
   subsampling check of its scale, read as a lower bound above about 20
-  (added 2026-11-22, version 2, after THEORY-tmpwn1xp); top eigenvalues against a covariance-matched
+  (added 2026-11-22, version 2, after [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)); top eigenvalues against a covariance-matched
   Marchenko–Pastur null; linear-probe accuracy per level; cone occupancy and
   enrichment E_t(C) = log[P_t(C)/P₀(C)] (A35 §9); the rotation-invariant
   Gram matrix (A30 §7); velocity correlations of the probe embeddings and
@@ -142,21 +142,21 @@ for not fitting from rank 1. A note, no relation.
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k,
-THEORY-tmpwn1xp): **directly relevant, and a measurement added** (the
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md),
+[THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **directly relevant, and a measurement added** (the
 change of version 2 above). This lead's Gaussian matched to the learned
 covariance is their Fig. 5B control, which they run through TwoNN with
 decimation and find "two orders of magnitude larger", growing with N, "as
 expected in the case of an ill-defined estimator": an intrinsic dimension
 far below the null's says the structure is not fixed by second moments. Their
 Fig. 9 is a checkpoint-tracking precedent (one VGG-16, last-layer ID
-non-monotonic in training). THEORY-tmpwn1xp would be replicated by this
+non-monotonic in training). [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md) would be replicated by this
 lead's intrinsic-dimension arm on image networks, so it is added to
 `advances`.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **a
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **a
 calibration case.** Their Theorem 5 is a solvable model in which this
 lead's sharpest ordering is predicted: after a few gradient steps the
 weight update exists for any step size, while the test-data kernel's
@@ -166,7 +166,7 @@ width and probe-size arms expect. A note, no relation.
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n):
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)):
 **ready-made observables** for a two-modality version of this lead: the
 centroid gap and the energy distance between the two modalities'
 marginals, which they track against retrieval on frozen OpenCLIP models. A
@@ -174,7 +174,7 @@ note, no relation.
 
 ## Note of 2026-11-22: Atigh and colleagues, read
 
-Atigh and colleagues (LIT-2993), read in this batch by another filer:
+Atigh and colleagues ([LIT-2993](../literature.d/LIT-2993.md)), read in this batch by another filer:
 **a contrast.** They use nested cones as a training target and measure
 learning by held-out accuracy at each level, at the end of training; the
 over-time question this lead asks, when each level's distinction becomes

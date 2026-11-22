@@ -274,12 +274,12 @@ grounds.
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**A parallel, in information terms**, no edge (LIT-2996, NOTE-tmpunt6q,
-THEORY-tmpttfgp). Argon's microstate has Cµ = 6.6·10²⁰ bits against a
+**A parallel, in information terms**, no edge ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md),
+[THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). Argon's microstate has Cµ = 6.6·10²⁰ bits against a
 33.3-bit macrostate that is predicted more efficiently (0.87 against
 0.5, §IV.A), and "Nature has no preferred questions" (§VI). That supports
 clause 3, simplicity as a response to observation, by another mechanism:
 coarse-graining of states rather than stiff combinations of parameters.
-No bearing on clause 1 (fitting). CLAIM-tmp3ima1 (alternative a, Proposed)
+No bearing on clause 1 (fitting). [CLAIM-tmp3ima1](CLAIM-tmp3ima1.md) (alternative a, Proposed)
 widens this claim's relativity to coarse-graining and emergence. Status
 unchanged.

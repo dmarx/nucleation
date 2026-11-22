@@ -80,7 +80,7 @@ in proportion to accuracy.
 
 ## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
 
-**A contrast**, no edge (LIT-2981, NOTE-tmpri2np, THEORY-tmp9t69m). The
+**A contrast**, no edge ([LIT-2981](../literature.d/LIT-2981.md), [NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md), [THEORY-tmp9t69m](THEORY-tmp9t69m.md)). The
 uncertainty relation is now proved for every current of a Markov jump
 network, pricing current precision as 1/ε²; Tu's relation prices
 adaptation accuracy logarithmically. Different observables, so the proof

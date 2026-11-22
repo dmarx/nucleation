@@ -87,7 +87,7 @@ constant factor smaller for power-law growth ([TERM-141](../terms.d/TERM-141.md)
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-**Qualifies step 3** (LIT-3010, read in NOTE-tmpe86ty; THEORY-tmpl7rgc).
+**Qualifies step 3** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md); [THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md)).
 Crutchfield and Feldman warn that "unlike in one dimension where the
 various expressions for the excess entropy are equivalent, they yield
 different results when extended to two dimensions" (§VIII). The growth

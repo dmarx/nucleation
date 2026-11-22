@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-22, not read. Registered from the reading of Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45), which cites it as [BP22] for "uninformative spike eigenvalues" of the conjugate kernel and assumes them away. No reading was attempted; a lawful copy has not been sought.
+  filed 2026-11-22, not read. Registered from the reading of Wang, Wu and Fan ([LIT-2984](LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md)), which cites it as [BP22] for "uninformative spike eigenvalues" of the conjugate kernel and assumes them away. No reading was attempted; a lawful copy has not been sought.
 title: 'Largest Eigenvalues of the Conjugate Kernel of Single-Layered Neural Networks'
 version: 1
 history:
@@ -30,9 +30,9 @@ Lucas Benigni & Sandrine Péché (2022). arXiv 2201.04753.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of Wang, Wu and Fan (LIT-2984,
-NOTE-tmpa8a45), whose §2.1 says that without E σ″(ξ) = 0, "as shown in
+Registered on 2026-11-22 from the reading of Wang, Wu and Fan ([LIT-2984](LIT-2984.md),
+[NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md)), whose §2.1 says that without E σ″(ξ) = 0, "as shown in
 [BP22], Kℓ may have spike eigenvalues even when the input K0 has no spiked
 structure". Top outliers that carry no input structure are what the
-stop-word half of the owner's CLAIM-tmp2r6ur needs, so this work might test
+stop-word half of the owner's [CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md) needs, so this work might test
 that half directly, for a random one-layer kernel. Not read.

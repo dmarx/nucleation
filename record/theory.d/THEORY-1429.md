@@ -64,7 +64,7 @@ Kuehn, "A mathematical framework for critical transitions" (Physica D
 
 ## Note of 2026-11-22: Yang, read
 
-Qualifies the reading's language. Yang (THEORY-tmpu0f9k, NOTE-tmpg5q4t)
+Qualifies the reading's language. Yang ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md), [NOTE-tmpg5q4t](../notes.d/NOTE-tmpg5q4t.md))
 calls the onset of a sparse autoencoder's feature lottery "a sharp
 dynamical phase transition" (§5). Its bifurcation is a supercritical
 pitchfork of a probe's collapsed state at β = βc, with linear growth rate

@@ -199,26 +199,26 @@ participation ratio is unaffected.
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **qualifies
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **qualifies
 how "dimension" is read in this account.** In trained CNNs the
 intrinsic dimension of the representations (TwoNN, far below width) and a
 linear count of their variance (one to two orders larger) diverge, because
-the manifolds are curved; CLAIM-848 has the participation ratio failing to
+the manifolds are curved; [CLAIM-848](../claims.d/CLAIM-848.md) has the participation ratio failing to
 track intrinsic dimension from the other side. Where a component here leans
-on low or effective dimension, it should say which of TERM-136's senses it
+on low or effective dimension, it should say which of [TERM-136](../terms.d/TERM-136.md)'s senses it
 means. No component changes.
 
 ## Note of 2026-11-22: the Mermin–Wagner neighbours, read
 
-The "When order survives" bullet maps CLAIM-842 as A's supposition. Read
-through three neighbours of Mermin and Wagner (LIT-2985, Unavailable),
+The "When order survives" bullet maps [CLAIM-842](../claims.d/CLAIM-842.md) as A's supposition. Read
+through three neighbours of Mermin and Wagner ([LIT-2985](../literature.d/LIT-2985.md), Unavailable),
 the supposition's mathematics is held in the literature as Cassi's
-theorem (1992, LIT-tmpu2kk5, after Hattori, Hattori and Watanabe 1987,
-LIT-tmp309tx, both registered and unread, known through Gelfert and
-Nolting, THEORY-tmp1nvjs) for spin models with a continuous symmetry in
-equilibrium; its limits are Halperin's (THEORY-tmpqma2p), and Toner and
-Tu's flock (THEORY-tmpdfeto) is a case where breaking equilibrium removes
-the divergence. CLAIM-842 now says so (version 2; ARG-tmpx5evn). The
+theorem (1992, [LIT-tmpu2kk5](../literature.d/LIT-tmpu2kk5.md), after Hattori, Hattori and Watanabe 1987,
+[LIT-tmp309tx](../literature.d/LIT-tmp309tx.md), both registered and unread, known through Gelfert and
+Nolting, [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md)) for spin models with a continuous symmetry in
+equilibrium; its limits are Halperin's ([THEORY-tmpqma2p](../theory.d/THEORY-tmpqma2p.md)), and Toner and
+Tu's flock ([THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md)) is a case where breaking equilibrium removes
+the divergence. [CLAIM-842](../claims.d/CLAIM-842.md) now says so (version 2; [ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)). The
 bullet still maps the claim faithfully; when the account is next
 revised it should say that the criterion is a theorem elsewhere and a
 supposition here. No status change.

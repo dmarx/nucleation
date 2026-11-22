@@ -18,11 +18,11 @@ source:
 bears_on:
 - QUESTION-202
 summary: >-
-  Yang, Steinhardt and Hu, LIT-2957, read in NOTE-tmpl260d. Neural
+  Yang, Steinhardt and Hu, [LIT-2957](../literature.d/LIT-2957.md), read in [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md). Neural
   collapse on coarse labels leaves the fine classes in the residual
   variation, linearly decodable after label-free clustering. Grounds
-  CLAIM-800's point that a geometric measure can saturate while finer
-  information persists (ARG-tmp96ygx), and qualifies THEORY-788.
+  [CLAIM-800](../claims.d/CLAIM-800.md)'s point that a geometric measure can saturate while finer
+  information persists ([ARG-tmp96ygx](../arguments.d/ARG-tmp96ygx.md)), and qualifies [THEORY-788](THEORY-788.md).
 ---
 <!-- inactive-ok-file: CLAIM-800 ARG-tmp96ygx THEORY-788 — Proposed or new; the claim this reading grounds, the argument for it and the reading it qualifies -->
 
@@ -32,7 +32,7 @@ summary: >-
 
 Yongyi Yang, Jacob Steinhardt and Wei Hu, "Are Neurons Actually
 Collapsed? On the Fine-Grained Structure in Neural Representations", ICML
-2023, arXiv 2306.17105, LIT-2957, read in NOTE-tmpl260d.
+2023, arXiv 2306.17105, [LIT-2957](../literature.d/LIT-2957.md), read in [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md).
 
 ## What was actually shown
 

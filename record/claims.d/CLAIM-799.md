@@ -116,7 +116,7 @@ preprint on spectral phase transitions in training, [LIT-2990](../literature.d/L
 spectral perspective is not merely an analogy. But they don't establish that
 DNN representations generally behave as active matter, or that their learning
 dynamics are critical." All three were read on 2026-11-22 (Wang, Wu and
-Fan as THEORY-tmp9ltxi; [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)), and the arXiv API confirms the 2026
+Fan as [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md); [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)), and the arXiv API confirms the 2026
 preprint as 2606.28486, by Park, Bocchi, D'Amico, Lucini and Aarts.
 
 **Two qualifications** (added 2026-11-22, version 2):
@@ -142,7 +142,7 @@ preprint as 2606.28486, by Park, Bocchi, D'Amico, Lucini and Aarts.
   step size η > 0; the weights' top singular value separates from the bulk
   only if θ1 > γ0^(1/4) (Proposition 35); and the test-data conjugate
   kernel's outlier needs, in addition, z′(−1/λ1) > 0 (Theorem 5)
-  (THEORY-tmp9ltxi, ARG-tmppbt1o). At random weights, depth adds a BBP-type
+  ([THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md), [ARG-tmppbt1o](../arguments.d/ARG-tmppbt1o.md)). At random weights, depth adds a BBP-type
   test per layer. The caveat: the paper proves the spectral side only. Its
   "the input signal diminishes as the depth of the NN increases" is about
   outliers and their alignment, not about decodability; what an absorbed
@@ -232,9 +232,9 @@ point for sample PCA.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984) were read (NOTE-tmpa8a45; the reading is
-THEORY-tmp9ltxi). **Supports, a third case of signal before outlier, on
-the spectral side only** (ARG-tmppbt1o; the change of version 3 above).
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md)) were read ([NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md); the reading is
+[THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)). **Supports, a third case of signal before outlier, on
+the spectral side only** ([ARG-tmppbt1o](../arguments.d/ARG-tmppbt1o.md); the change of version 3 above).
 A32 §6's "the spectral perspective is not merely an analogy" is fair for
 this paper: Theorem 5 proves a label-aligned outlier in the test-data
 kernel of trained weights. Its "phase transition" is the BBP outlier

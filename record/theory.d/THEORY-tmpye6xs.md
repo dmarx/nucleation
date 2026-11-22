@@ -83,8 +83,8 @@ criticality set by the readout).
 
 ## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
 
-**A contrast** (LIT-tmpdsowv, NOTE-tmpi5t3r, THEORY-tmps8t83, read in
-place of LIT-2991). Opposite transition and opposite outcome: here a
+**A contrast** ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md), [THEORY-tmps8t83](THEORY-tmps8t83.md), read in
+place of [LIT-2991](../literature.d/LIT-2991.md)). Opposite transition and opposite outcome: here a
 branching network's finite-window optimum is subcritical; there, in
 driven threshold networks, task-averaged readout performance is highest
 near the order–chaos line. This reading's own remark,

@@ -17,14 +17,14 @@ source:
 bears_on:
 - QUESTION-507
 summary: >-
-  The NIPS 2004 companion (LIT-tmpdsowv) of Bertschinger and Natschläger's
-  Neural Computation paper (LIT-2991, unreachable), read in its place in
-  NOTE-tmpi5t3r. The edge of chaos here is a damage-spreading line,
+  The NIPS 2004 companion ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md)) of Bertschinger and Natschläger's
+  Neural Computation paper ([LIT-2991](../literature.d/LIT-2991.md), unreachable), read in its place in
+  [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md). The edge of chaos here is a damage-spreading line,
   K·P_bf = 1, crossing a wide range of mean activity; order is fading
   memory, and chaos fails because the state carries "spurious"
   information about initial conditions. The optimum is averaged over many
   tasks by design, with no per-task optima, so it qualifies rather than
-  defeats CLAIM-809 (ARG-tmp2zz6k).
+  defeats [CLAIM-809](../claims.d/CLAIM-809.md) ([ARG-tmp2zz6k](../arguments.d/ARG-tmp2zz6k.md)).
 ---
 <!-- inactive-ok-file: LIT-2991 ARG-tmp2zz6k CLAIM-809 CLAIM-814 CLAIM-850 THEORY-tmpye6xs THEORY-2041 — Unavailable, Proposed or new; the work this stands in for and the entries it bears on -->
 
@@ -34,8 +34,8 @@ summary: >-
 
 Natschläger, Bertschinger and Legenstein, "At the Edge of Chaos:
 Real-time Computations and Self-Organized Criticality in Recurrent Neural
-Networks", NIPS 17 (2004), LIT-tmpdsowv, read from the proceedings PDF in
-NOTE-tmpi5t3r, as a stand-in for LIT-2991.
+Networks", NIPS 17 (2004), [LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), read from the proceedings PDF in
+[NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md), as a stand-in for [LIT-2991](../literature.d/LIT-2991.md).
 
 ## What was actually shown
 
@@ -73,6 +73,6 @@ have peaked away from where performance does; neither did.
 
 ## Connections
 
-Qualifies CLAIM-809 (ARG-tmp2zz6k). Bears on QUESTION-507 (points 1 and
-2) and CLAIM-850. Contrast with CLAIM-814 and THEORY-tmpye6xs; parallel to
-THEORY-2041.
+Qualifies [CLAIM-809](../claims.d/CLAIM-809.md) ([ARG-tmp2zz6k](../arguments.d/ARG-tmp2zz6k.md)). Bears on [QUESTION-507](../questions.d/QUESTION-507.md) (points 1 and
+2) and [CLAIM-850](../claims.d/CLAIM-850.md). Contrast with [CLAIM-814](../claims.d/CLAIM-814.md) and [THEORY-tmpye6xs](THEORY-tmpye6xs.md); parallel to
+[THEORY-2041](THEORY-2041.md).

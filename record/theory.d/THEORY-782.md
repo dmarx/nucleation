@@ -86,7 +86,7 @@ narrowed on 2026-10-19.
 
 ## Note of 2026-11-22: Yang, read
 
-Background. Yang (THEORY-tmpu0f9k) reads modular-addition grokking as a
+Background. Yang ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md)) reads modular-addition grokking as a
 probe's crossing near step 40, a plateau, and an escape driven by weight
 decay (τ ∝ WD^−1.23, six points); it says nothing of a critical training
 fraction.

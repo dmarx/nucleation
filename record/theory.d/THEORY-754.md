@@ -192,7 +192,7 @@ local.
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **background.** The
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](THEORY-tmpc73s5.md)): **background.** The
 paper's variables are the volume-averaged interscale fluxes Σ̃ = τᵢⱼS̄ᵢⱼ of
 filtered fields, the kind of filtered flux this account bounds, and it finds directed,
 forward dependence among them. It measures prediction among the fluxes,

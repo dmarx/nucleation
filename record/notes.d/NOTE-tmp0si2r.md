@@ -29,7 +29,7 @@ summary: >-
   rightly by the RG of Kosterlitz (1974); the universal superfluid jump
   was confirmed in helium films; a finite penetration depth frees
   vortices in charged superconducting films. The reading is
-  THEORY-tmpwdka8.
+  [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpwdka8 NOTE-tmpurjns — new or Skimmed; this reading and its companion -->
 <!-- inactive-ok-file: LIT-2969 LIT-tmph3tia — Unfetched or Deferred; the original this reading stands in for, and Kosterlitz (1974) -->
@@ -41,7 +41,7 @@ summary: >-
 
 How Kosterlitz and Thouless came to defect-driven transitions in two
 dimensions, and the physics, told by the first author 43 years on, with
-the 1973 paper's errors named. The reading is THEORY-tmpwdka8.
+the 1973 paper's errors named. The reading is [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md).
 
 ## Key results
 
@@ -102,30 +102,30 @@ phase; penetration depth.
 
 ## Bearing on the record
 
-- **LIT-2969**: stands in for the argument and its history, not the 1973
-  equations or wording (ADR-114). "Evades the Mermin–Wagner theorem" is
+- **[LIT-2969](../literature.d/LIT-2969.md)**: stands in for the argument and its history, not the 1973
+  equations or wording ([ADR-114](../decisions.d/ADR-114.md)). "Evades the Mermin–Wagner theorem" is
   loose: there is still no long-range order (item 1).
-- **CLAIM-841** (XY row): **supports, with the attribution moved.** A
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (XY row): **supports, with the attribution moved.** A
   phase of bound vortices with no long-range order and power-law
   correlations over a range of T, reached without tuning; the RG and
-  the fixed line are Kosterlitz (1974), LIT-tmph3tia, and the 1973
-  screening "led to incorrect results" near Tc (ARG-tmprfa3j).
-- **CLAIM-694** and **CLAIM-606**: **support, with a condition the claims
+  the fixed line are Kosterlitz (1974), [LIT-tmph3tia](../literature.d/LIT-tmph3tia.md), and the 1973
+  screening "led to incorrect results" near Tc ([ARG-tmprfa3j](../arguments.d/ARG-tmprfa3j.md)).
+- **[CLAIM-694](../claims.d/CLAIM-694.md)** and **[CLAIM-606](../claims.d/CLAIM-606.md)**: **support, with a condition the claims
   lack.** Item 3 is a case of a topological invariant that protects only
   when the barrier between its sectors grows with system size: the
   planar rotor's winding sectors are protected (barrier ∝ ln L), the 2D
   Heisenberg model's N protects nothing (barrier O(1)).
-- **QUESTION-508**: **narrows it for the BKT phase.** The free vortex's
+- **[QUESTION-508](../questions.d/QUESTION-508.md)**: **narrows it for the BKT phase.** The free vortex's
   energy and entropy both scale as ln L (item 4) only because the
   symmetry is U(1) and the dimension is two; a finite interaction range,
   the penetration depth λ, frees vortices and ends the untuned phase
   (item 9).
-- **LEAD-209**: item 9 is a second kind of scale-introducing
+- **[LEAD-209](../leads.d/LEAD-209.md)**: item 9 is a second kind of scale-introducing
   perturbation, a finite interaction range, beside the
   symmetry-breaking field.
-- **CLAIM-tmpvq33w**: its BKT case and its "finite interaction range"
+- **[CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md)**: its BKT case and its "finite interaction range"
   perturbation.
-- **NOTE-124** (McKenzie): **background.** It cites BKT and the hexatic
+- **[NOTE-124](NOTE-124.md)** (McKenzie): **background.** It cites BKT and the hexatic
   phase as predicted before observed; item 7 bears it out.
 - **No instruction for machine-learning practice.**
 

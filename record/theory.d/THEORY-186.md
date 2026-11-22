@@ -192,7 +192,7 @@ networks. A qualification of scope, not of the reading's result.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-Presupposed and extended. Lee et al. (THEORY-tmpm3ux2) take this
+Presupposed and extended. Lee et al. ([THEORY-tmpm3ux2](THEORY-tmpm3ux2.md)) take this
 reading's stagewise learning of modes by strength as the frame of their
 toy, and find that one item's influence on another changes sign at each
 stage: dog helps sparrow while animal against plant is learned and is

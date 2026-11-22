@@ -14,9 +14,9 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  CLAIM-841's ordered-active-matter row read "giant number fluctuations,
-  ΔN ∝ ⟨N⟩^φ with φ > ½, in the ordered phase", citing LIT-2970 unread,
-  and THEORY-1085's note carried A's "some initially predicted exponents
+  [CLAIM-841](../claims.d/CLAIM-841.md)'s ordered-active-matter row read "giant number fluctuations,
+  ΔN ∝ ⟨N⟩^φ with φ > ½, in the ordered phase", citing [LIT-2970](../literature.d/LIT-2970.md) unread,
+  and [THEORY-1085](../theory.d/THEORY-1085.md)'s note carried A's "some initially predicted exponents
   differ from those obtained in large-scale simulations". Read, the paper
   predicts a density structure factor that diverges as q → 0 (q⊥^(−6/5)
   for q∥ ≪ q⊥ in d = 2) throughout the ordered phase, apart from the
@@ -35,8 +35,8 @@ summary: >-
 
 ## The inference
 
-CLAIM-841's row holds that an ordered flock is scale free with nothing
-tuned. THEORY-tmpdfeto, read as a source, would carry it.
+[CLAIM-841](../claims.d/CLAIM-841.md)'s row holds that an ordered flock is scale free with nothing
+tuned. [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md), read as a source, would carry it.
 
 ## Critical questions (source)
 
@@ -58,12 +58,12 @@ the paper separates ordered-phase scaling from the transition's.
 
 **Is the source in a position to know?** It is the theory's own statement.
 Its equations are posited from symmetry, its d = 2 exponents rest on a
-"highly probable" flow (THEORY-1095's question), and it reports "good
+"highly probable" flow ([THEORY-1095](../theory.d/THEORY-1095.md)'s question), and it reports "good
 agreement" with simulations it does not show (p. 70); the disagreement A
 reported is later work, unread and unnamed.
 
 ## Verdict
 
-THEORY-tmpdfeto joins CLAIM-841's `grounds` for the row, which now reads
+[THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md) joins [CLAIM-841](../claims.d/CLAIM-841.md)'s `grounds` for the row, which now reads
 "a density structure factor diverging as q → 0 through the ordered
 phase"; the ΔN form is dropped from the row as unread.

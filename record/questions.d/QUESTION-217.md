@@ -254,7 +254,7 @@ open. No relation.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **background,
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **background,
 leaves it open, with one data point.** The training labels set a relevance
 order (coarse), yet the representation refines by input structure first:
 "The effect of input distribution emerges earlier in training, while the

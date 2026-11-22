@@ -171,7 +171,7 @@ A parallel from Wang and Slotine ([NOTE-2096](../notes.d/NOTE-2096.md)): which o
 
 ## Note of 2026-11-22: Yang, read
 
-A parallel. To make its pitchfork escape at all, Yang (THEORY-tmpu0f9k,
+A parallel. To make its pitchfork escape at all, Yang ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md),
 App. C) adds to the normal form a tilt −γU′(ε) "from the encoder's
 upstream loss component that favors the memorization basin", the h of
 this case, and finds escape times that grow without bound as the tilt's

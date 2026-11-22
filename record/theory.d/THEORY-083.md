@@ -198,15 +198,15 @@ evidence. This entry's title and status are unchanged.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **background,
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **background,
 consistent.** NC1 and NC2 are reproduced with ResNet-18 on relabelled
 CIFAR-10 (§4, Fig. 3), on the coarse labels. What collapses is the variance
-ratio; the residual keeps finer structure (THEORY-788's note). A note, no
+ratio; the residual keeps finer structure ([THEORY-788](THEORY-788.md)'s note). A note, no
 relation.
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **a parallel.** A
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](THEORY-tmpwn1xp.md)): **a parallel.** A
 last-hidden-layer intrinsic dimension of about 12 to 25 is compatible with
 collapse toward class means, but the paper does not measure collapse. No
 relation.

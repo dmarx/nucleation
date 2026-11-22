@@ -187,8 +187,8 @@ Rose's.
 ## Note of 2026-11-22: Yang, read
 
 A parallel use of Rose's deterministic annealing for the emergence of
-categories. Yang (THEORY-tmpu0f9k) takes Rose, Gurewitz and Fox's
-critical temperature (registered as LIT-tmp2v43c) as a critical precision
+categories. Yang ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)) takes Rose, Gurewitz and Fox's
+critical temperature (registered as [LIT-tmp2v43c](../literature.d/LIT-tmp2v43c.md)) as a critical precision
 for a Gaussian-mixture probe on a network's features and makes it move
 with training; here the annealing path gives the colour-naming
 hierarchy.

@@ -72,8 +72,8 @@ can the theorems, which assume the collapsed end state.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **bears on
-it** (THEORY-tmp8sxta bears_on this question). A new protocol, labels
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **bears on
+it** ([THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md) bears_on this question). A new protocol, labels
 merged into super-classes, split at random, or coarsened at random, under
 which the NC metrics still go to zero on the training labels. It also shows
 that NC1 near zero does not settle whether the within-class variation is

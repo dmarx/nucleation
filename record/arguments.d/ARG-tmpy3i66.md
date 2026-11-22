@@ -15,12 +15,12 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  Cai and colleagues (THEORY-tmpvwv5n, NOTE-tmpll97d) give contrastive
+  Cai and colleagues ([THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md)) give contrastive
   learning's population picture a variational, passive form: a strictly
   convex free energy with a Gibbs equilibrium for one modality, and one
   joint energy for two. Its "entropic dispersion" is a deterministic term
   of the objective, from the softmax denominator, not noise; τ is a
-  softmax temperature. That is CLAIM-798's weak reading, collective motion
+  softmax temperature. That is [CLAIM-798](../claims.d/CLAIM-798.md)'s weak reading, collective motion
   under a shared objective, and nothing toward sustained currents. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
@@ -31,7 +31,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-798: "the weak reading follows from gradient flow, the strong one
+[CLAIM-798](../claims.d/CLAIM-798.md): "the weak reading follows from gradient flow, the strong one
 has to be shown". Cai and colleagues: in the large-batch limit unimodal
 InfoNCE is a free energy, alignment potential over τ minus entropy, with
 "the unique Gibbs-form minimizer" (Proposition 3.1); "uniformity" is
@@ -47,7 +47,7 @@ single scalar F^Sym over both modalities' densities (Definition 4.3).
   appears: dispersion is the cross-entropy against the model's own
   smoothed density, a deterministic part of the objective; and with two
   modalities there is still one joint energy, so the coupling between them
-  is reciprocal and joint gradient flow is covered by CLAIM-818's Lyapunov
+  is reciprocal and joint gradient flow is covered by [CLAIM-818](../claims.d/CLAIM-818.md)'s Lyapunov
   argument.
 - **Does it tell the hypothesis apart from its rivals?** Only in part. The
   paper is about the objective, not the dynamics ("the geometry of the
@@ -64,6 +64,6 @@ single scalar F^Sym over both modalities' densities (Definition 4.3).
 
 ## Verdict
 
-Supports CLAIM-798's weak reading as evidence that a contrastive
+Supports [CLAIM-798](../claims.d/CLAIM-798.md)'s weak reading as evidence that a contrastive
 objective's population picture is passive; gives nothing toward the strong
 one. Proposed.

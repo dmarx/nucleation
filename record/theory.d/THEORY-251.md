@@ -93,8 +93,8 @@ No relations are declared.
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **a parallel.**
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](THEORY-tmpwn1xp.md)): **a parallel.**
 Ansuini and colleagues tie their falling last-layer intrinsic dimension to
 manifold capacity (§4), the apparatus this account holds; this account's
 dimension is a participation ratio, theirs a TwoNN estimate, two of
-TERM-136's senses. No relation.
+[TERM-136](../terms.d/TERM-136.md)'s senses. No relation.

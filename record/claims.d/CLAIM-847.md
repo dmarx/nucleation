@@ -135,7 +135,7 @@ corrected in place to its strict, tail-only form ([ARG-tmpbad4y](../arguments.d/
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **background, with
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **background, with
 a pointed control.** The paper does not treat norms. Its covariance-matched
 Gaussian, with "the same second-order moments" as the representations, has
 an intrinsic dimension "two orders of magnitude larger", growing with N:

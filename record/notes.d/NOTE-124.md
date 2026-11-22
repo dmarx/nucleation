@@ -151,8 +151,8 @@ The book is cited by Rizi ([LIT-150](../literature.d/LIT-150.md), x30), whose co
 
 **Background, no edge.** This reading cites BKT and the hexatic phase
 among the few states of matter predicted before they were found. The
-lecture (LIT-tmp3k6np, NOTE-tmp0si2r), read as a stand-in for Kosterlitz
-and Thouless (LIT-2969, Unfetched), bears that out: the helium-film data
+lecture ([LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), [NOTE-tmp0si2r](NOTE-tmp0si2r.md)), read as a stand-in for Kosterlitz
+and Thouless ([LIT-2969](../literature.d/LIT-2969.md), Unfetched), bears that out: the helium-film data
 confirming the universal jump were "obtained and plotted before the
 authors were aware of our theoretical prediction" (p. 94), and the
 hexatic phase, with "algebraic orientational order", came from a

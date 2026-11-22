@@ -147,7 +147,7 @@ noise that is "not affected by the presence of a time-dependent force"
 
 ## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
 
-**A parallel**, no edge (LIT-2981, NOTE-tmpri2np, THEORY-tmp9t69m). The
+**A parallel**, no edge ([LIT-2981](../literature.d/LIT-2981.md), [NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md), [THEORY-tmp9t69m](THEORY-tmp9t69m.md)). The
 proof's quadratic bound on the current rate function is saturated at
 j = −j^π as well as at j^π, "as our bound also satisfies the fluctuation
 theorem for currents": the bound respects the symmetry these theorems

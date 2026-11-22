@@ -159,7 +159,7 @@ eq. 13, (1 + bE)^(−c). Version 2.
 
 - **Skewness of the height, not of increments.** The KPZ cell "nonzero
   skewness" in the increments row was near the mark but misplaced: what
-  Takeuchi and Sano measure (LIT-2982, NOTE-tmpbmox1; THEORY-tmpmoyol) is
+  Takeuchi and Sano measure ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md); [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)) is
   the skewness of the height itself, the local radius, about 0.2241, with
   kurtosis about 0.09345, quantities "which do not depend on the
   parameter estimates" (p. 3). The cell now says so, and a row of its
@@ -169,11 +169,11 @@ eq. 13, (1 + bE)^(−c). Version 2.
   second kind of scale-introducing perturbation. In a charged
   superconducting film a finite penetration depth "limits the range of
   the logarithmic interaction between vortices", so "the vortices are
-  always free at any T > 0" (Kosterlitz's lecture, LIT-tmp3k6np, p. 98;
-  THEORY-tmpwdka8). It ends the untuned XY phase without breaking the
-  symmetry. CLAIM-tmpvq33w states the shape the two rows share.
-- **The flock's field response.** Toner and Tu (LIT-2970, NOTE-tmpcjw5n;
-  THEORY-tmpdfeto) support the field row for flocks: a compass
+  always free at any T > 0" (Kosterlitz's lecture, [LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), p. 98;
+  [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md)). It ends the untuned XY phase without breaking the
+  symmetry. [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md) states the shape the two rows share.
+- **The flock's field response.** Toner and Tu ([LIT-2970](../literature.d/LIT-2970.md), [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md);
+  [THEORY-tmpdfeto](../theory.d/THEORY-tmpdfeto.md)) support the field row for flocks: a compass
   "will introduce a "mass" that makes any fluctuation away from the
   pre-picked direction of flock motion decay rapidly" (p. 63).
 
@@ -181,7 +181,7 @@ Version 3.
 
 ## Note of 2026-11-22: Kardar, Parisi and Zhang, read
 
-KPZ (LIT-2978, NOTE-tmpf6isj; THEORY-tmpo3w5v) **supports the KPZ
+KPZ ([LIT-2978](../literature.d/LIT-2978.md), [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md); [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md)) **supports the KPZ
 column's z and W cells** for d = 1, exact there, and scopes the column to
 d ≤ 2. It has nothing on skewness, currents or a cutoff. A trial on a 1D
 discretization should recover z = 3/2 and the growth exponent ⅓.

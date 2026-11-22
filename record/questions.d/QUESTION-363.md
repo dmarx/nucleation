@@ -163,7 +163,7 @@ written.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-Bears on it; leaves it open. Lee et al. (THEORY-tmpm3ux2, NOTE-tmp1sot8)
+Bears on it; leaves it open. Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md), [NOTE-tmp1sot8](../notes.d/NOTE-tmp1sot8.md))
 predict influence dynamics from the Bayesian posterior's transitions and
 observe them along SGD training, in a deep linear network and small
 language models. Their stated gap is this question: "The primary

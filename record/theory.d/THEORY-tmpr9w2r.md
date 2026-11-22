@@ -66,12 +66,12 @@ settings.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-A parallel that extends the method. Lee et al. (THEORY-tmpm3ux2), from
+A parallel that extends the method. Lee et al. ([THEORY-tmpm3ux2](THEORY-tmpm3ux2.md)), from
 the same group, use the same localized SGLD at checkpoints, swapping the
 LLC for a per-sample covariance, and match their language-model stages
 to the same structures, induction heads among them. They cite this
-work's TMLR version, with Carroll et al. 2025 (LIT-tmpnwcsg), for
+work's TMLR version, with Carroll et al. 2025 ([LIT-tmpnwcsg](../literature.d/LIT-tmpnwcsg.md)), for
 Type-A and Type-B Bayesian transitions, the second an equal-loss
 transition with a falling LLC, which is a name for the decreases this
-reading reports (QUESTION-tmphkb1w). Neither supports nor contradicts the
+reading reports ([QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md)). Neither supports nor contradicts the
 reading's sentence.

@@ -69,7 +69,7 @@ Physics 89, 040501 (2017). DOI 10.1103/RevModPhys.89.040501.
 
 ## Standing in the record
 
-Registered as a stand-in for Kosterlitz and Thouless (1973), LIT-2969,
-which is Unfetched (ADR-114). It restates the argument and its history;
+Registered as a stand-in for Kosterlitz and Thouless (1973), [LIT-2969](LIT-2969.md),
+which is Unfetched ([ADR-114](../decisions.d/ADR-114.md)). It restates the argument and its history;
 not the 1973 equations or wording. A retrospective by an author, partly
 autobiographical.

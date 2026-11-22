@@ -202,7 +202,7 @@ validation data, then truncate the network at that layer for inference
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan (LIT-2998, NOTE-tmptf55k, THEORY-tmpwn1xp): **consistent.** This
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **consistent.** This
 reading names the paper for intrinsic dimension rising then falling with
 depth, which the reading confirms (with no early rise in a small MNIST
 network); last-layer compression there and penultimate suppression of

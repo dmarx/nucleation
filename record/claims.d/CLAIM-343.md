@@ -103,7 +103,7 @@ studies that chose differently.
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **leaves it open,
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **leaves it open,
 a contrast.** SURD gets nonnegative components by not using the
 Williams–Beer lattice, with 2^N terms (512 for nine variables against
 "over 10^23" on the lattice, SI §S1.2). Its redundancy, taken per target

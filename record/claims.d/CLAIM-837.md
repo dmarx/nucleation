@@ -209,11 +209,11 @@ and with the weight spectrum as the estimator rather than sample PCA.
 
 ## Note of 2026-11-22: Wang, Wu and Fan, read
 
-Wang, Wu and Fan (LIT-2984, NOTE-tmpa8a45, THEORY-tmp9ltxi): **a parallel.** Their Proposition 35 and Theorem 5 give the same order
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md), [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)): **a parallel.** Their Proposition 35 and Theorem 5 give the same order
 for a gradient-trained two-layer network: a rank-one weight update for any
 step size, an outlier in the weights' singular values only if θ1 >
 γ0^(1/4), and an outlier in the test-data conjugate kernel only if, in
 addition, z′(−1/λ1) > 0. That is this claim's switch-on before detection,
 with the two detections in series as here in the hidden layer and its
-readout. Another model, so a note and no relation; CLAIM-799 takes it as
-evidence (ARG-tmppbt1o).
+readout. Another model, so a note and no relation; [CLAIM-799](CLAIM-799.md) takes it as
+evidence ([ARG-tmppbt1o](../arguments.d/ARG-tmppbt1o.md)).

@@ -92,8 +92,8 @@ interaction which stabilizes the ordered phase" (p. 3).
 
 ## Note of 2026-11-22: Toner and Tu (1998), read
 
-The long paper (LIT-2970, read in NOTE-tmpcjw5n; the reading is
-THEORY-tmpdfeto) **keeps the conclusion and changes the argument.** Its
+The long paper ([LIT-2970](../literature.d/LIT-2970.md), read in [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is
+[THEORY-tmpdfeto](THEORY-tmpdfeto.md)) **keeps the conclusion and changes the argument.** Its
 d = 2 exponents are again z = 6/5, ζ = 3/5, χ = −1/5, "exact and universal
 for all flocks with the simple symmetries we discussed" (eq. 1.20, p. 10),
 and the 1995 results are "sound" in d = 2 (p. 11). But the two unproved
@@ -125,6 +125,6 @@ survives, but the type I/II analysis treats σ₂ alone.
 So the `promote_when` stands and is not met: the 1998 argument avoids the
 cubic vertex but has its own unproved step, a flow called "highly
 probable", and it is an argument, not the controlled calculation or
-finite-size scaling the condition asks for. THEORY-tmpdfeto holds the
+finite-size scaling the condition asks for. [THEORY-tmpdfeto](THEORY-tmpdfeto.md) holds the
 long paper's account; the exactness stays this entry's question. No
 status change.

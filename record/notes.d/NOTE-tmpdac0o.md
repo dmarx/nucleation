@@ -27,7 +27,7 @@ summary: >-
   from the features' means, and the ridge readout's test error is a
   functional of the whole deterministic equivalent, not of the outliers.
 ---
-<!-- inactive-ok-file: THEORY-tmpcij35 CLAIM-799 ARG-tmp2mzk1 TERM-tmpf5ymd CLAIM-tmp2r6ur THEORY-2133 THEORY-2135 THEORY-106 THEORY-813 CLAIM-775 CLAIM-798 CLAIM-832 LIT-2984 LIT-tmpnwvnx LIT-tmp4kae5 LIT-tmpj4og3 LIT-tmpcyeab — Proposed, Deferred or new; the account this reading files, the entries it bears on and the works registered from it -->
+<!-- inactive-ok-file: THEORY-tmpcij35 CLAIM-799 ARG-tmp2mzk1 TERM-tmpf5ymd CLAIM-tmp2r6ur THEORY-2133 THEORY-2135 THEORY-106 THEORY-813 CLAIM-775 CLAIM-798 CLAIM-832 LIT-tmpnwvnx LIT-tmp4kae5 LIT-tmpj4og3 LIT-tmpcyeab — Proposed, Deferred or new; the account this reading files, the entries it bears on and the works registered from it -->
 
 # NOTE-tmpdac0o: Dandi, Pesce, Cui, Krzakala, Lu & Loureiro — A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities
 

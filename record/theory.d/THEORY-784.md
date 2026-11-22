@@ -89,11 +89,11 @@ narrowed on 2026-10-20.
 
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
-**A parallel** (LIT-3010, NOTE-tmpe86ty, THEORY-tmpl7rgc). The account's
+**A parallel** ([LIT-3010](../literature.d/LIT-3010.md), [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md), [THEORY-tmpl7rgc](THEORY-tmpl7rgc.md)). The account's
 corpus statistic γ is the exponent of power-law entropy convergence in
 Crutchfield and Feldman's sense; with γ < 1 the token process is
 infinitary, its excess entropy diverging as n^(1−γ) (the note of the same
-date on NOTE-689 gives the step). The account's data-limited exponent
+date on [NOTE-689](../notes.d/NOTE-689.md) gives the step). The account's data-limited exponent
 γ/(2β) is a statement about how fast that unbounded memory is learned.
 Crutchfield and Feldman's reported text exponents (0.4 to 0.6) are fits
 of others and do not test the account. No relation is written. Status

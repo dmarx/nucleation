@@ -21,7 +21,7 @@ summary: >-
   at g* ≃ d − 2 separates a weak-noise phase, where the nonlinearity is
   irrelevant, from the strong-noise KPZ phase; the tilt symmetry fixes
   χ = 2 − z; and the 1986 conjecture of dimension-independent exponents
-  failed (χ = 0.3869(4) in d = 2). The reading is THEORY-tmpdcfxq.
+  failed (χ = 0.3869(4) in d = 2). The reading is [THEORY-tmpdcfxq](../theory.d/THEORY-tmpdcfxq.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpdcfxq — Proposed; this reading's account -->
 <!-- inactive-ok-file: CLAIM-841 ARG-tmp2xbl4 CLAIM-tmpvq33w — Proposed or new; the entries this reading bears on -->
@@ -33,7 +33,7 @@ summary: >-
 "We give a brief overview of the seminal paper which introduced the
 Kardar-Parisi-Zhang equation as a paradigmatic model for random growth in
 1986" (abstract). For the record, a check by hindsight on the letter's
-claims for d ≥ 2. The reading is THEORY-tmpdcfxq.
+claims for d ≥ 2. The reading is [THEORY-tmpdcfxq](../theory.d/THEORY-tmpdcfxq.md).
 
 ## Key results
 
@@ -60,11 +60,11 @@ roughening transition above two dimensions.
 
 ## Bearing on the record
 
-- **CLAIM-841**: **qualifies the KPZ row.** Above two dimensions KPZ
+- **[CLAIM-841](../claims.d/CLAIM-841.md)**: **qualifies the KPZ row.** Above two dimensions KPZ
   scaling is reached only on one side of a tuned fixed point, while both
   phases it separates are scale invariant. The row is scoped to d ≤ 2
-  (ARG-tmp2xbl4).
-- **CLAIM-tmpvq33w**: its KPZ case, and its "d ≥ 3 for small λ" as a
+  ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)).
+- **[CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md)**: its KPZ case, and its "d ≥ 3 for small λ" as a
   perturbation that puts a tuned point back, rest on item 1; item 2 is
   the tilt symmetry's role, stated by the retrospective, not the 1986
   letter.

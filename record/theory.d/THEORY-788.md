@@ -110,7 +110,7 @@ with balanced classes, the means far from equiangular.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu (LIT-2957, NOTE-tmpl260d, THEORY-tmp8sxta): **qualifies.**
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **qualifies.**
 On CIFAR-10 relabelled into five super-classes, ResNet-18 and
 DenseNet-121 meet NC1 and NC2 on the coarse labels, but "collapses its
 last-layer features onto their class means" is not literal there: the

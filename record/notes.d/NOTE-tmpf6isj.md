@@ -28,9 +28,9 @@ summary: >-
   relevant and χ = ½, z = 3/2 are exact, in d = 2 marginally relevant,
   in d ≥ 3 irrelevant when small, with a possible strong-coupling
   transition. Three classes: random deposition, the "ideal" linear
-  interface, and KPZ. The reading is THEORY-tmpo3w5v.
+  interface, and KPZ. The reading is [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md).
 ---
-<!-- inactive-ok-file: THEORY-tmpo3w5v NOTE-tmpu2n0d THEORY-tmpdcfxq — new, Skimmed or Proposed; this reading and the retrospective read beside it -->
+<!-- inactive-ok-file: THEORY-tmpo3w5v NOTE-tmpu2n0d — new, Skimmed or Proposed; this reading and the retrospective read beside it -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-803 TERM-139 THEORY-1095 ARG-tmp2xbl4 CLAIM-tmpvq33w — Proposed or new; the entries the reading bears on -->
 
 # NOTE-tmpf6isj: Kardar, Parisi and Zhang, read for the KPZ equation, its symmetries and how the relevance of its nonlinearity depends on dimension
@@ -42,7 +42,7 @@ lowest-order nonlinear term that can appear in the interface growth
 equation" (p. 889); the first universality-class account of the
 dynamics of a growing interface; its two mappings, to Burgers's
 equation and to the directed polymer; exact exponents in one dimension.
-The reading is THEORY-tmpo3w5v.
+The reading is [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md).
 
 ## Key results
 
@@ -104,23 +104,23 @@ tilt (Galilean) invariance; superuniversality, conjectured.
 
 ## Bearing on the record
 
-- **CLAIM-841** (KPZ row): **supports for d ≤ 2, qualifies above.** For
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (KPZ row): **supports for d ≤ 2, qualifies above.** For
   any λ ≠ 0 in d = 1 the scaling holds with exact exponents and nothing
   is set to a special value; only the mean velocity is removed, by a
   change of frame (item 2), not by tuning. Above two dimensions a small
   λ is irrelevant and the KPZ class is reached only past a
   strong-coupling threshold (item 8; Le Doussal's "intermediate fixed
-  point", NOTE-tmpu2n0d), a tuned point between two scale-invariant
+  point", [NOTE-tmpu2n0d](NOTE-tmpu2n0d.md)), a tuned point between two scale-invariant
   phases, the smooth one with z = 2. So the row's "generically" holds
-  for d ≤ 2 (ARG-tmp2xbl4). The row's α and the paper's χ are the same
+  for d ≤ 2 ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)). The row's α and the paper's χ are the same
   exponent.
-- **CLAIM-841's "A histogram cannot name its mechanism"** and
-  **CLAIM-803**: **support.** Item 6 is the paper's own instance: in
+- **[CLAIM-841](../claims.d/CLAIM-841.md)'s "A histogram cannot name its mechanism"** and
+  **[CLAIM-803](../claims.d/CLAIM-803.md)**: **support.** Item 6 is the paper's own instance: in
   d = 1 the stationary KPZ interface has the linear interface's static
   exponent, and earlier simulations read it as linear; only the dynamics
-  (z = 3/2 against 2) tell the classes apart. THEORY-tmpo3w5v
-  `corroborates` CLAIM-803.
-- **QUESTION-508**: **a partial answer for interfaces.** The paper
+  (z = 3/2 against 2) tell the classes apart. [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md)
+  `corroborates` [CLAIM-803](../claims.d/CLAIM-803.md).
+- **[QUESTION-508](../questions.d/QUESTION-508.md)**: **a partial answer for interfaces.** The paper
   states the two symmetries (item 2). Two inferences are the reader's,
   not the paper's: that translation invariance forbids a restoring term
   ∝ h, so nothing pins the interface to a height; and that the
@@ -130,14 +130,14 @@ tilt (Galilean) invariance; superuniversality, conjectured.
   fixes the exponents. What the paper itself says is that whether λ is
   relevant decides which scale-free class is reached, and that above two
   dimensions there may be a threshold.
-- **THEORY-1095**, **THEORY-1085**: **parallel.** Toner and Tu make the
+- **[THEORY-1095](../theory.d/THEORY-1095.md)**, **[THEORY-1085](../theory.d/THEORY-1085.md)**: **parallel.** Toner and Tu make the
   same move: a dynamic RG in which a "Galilean" invariance protects a
   coupling and fixes exact exponents in the lowest dimension it holds.
-  CLAIM-tmpvq33w states the shared mechanism.
-- **TERM-139**: **an example of the term's sense.** KPZ's λ is the
+  [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md) states the shared mechanism.
+- **[TERM-139](../terms.d/TERM-139.md)**: **an example of the term's sense.** KPZ's λ is the
   standard coupling that is relevant below d = 2, marginally relevant at
   d = 2 and irrelevant (when small) above.
-- **LIT-2982** (Takeuchi and Sano): background; the paper predicts the
+- **[LIT-2982](../literature.d/LIT-2982.md)** (Takeuchi and Sano): background; the paper predicts the
   exponents they test, and has no fluctuation distributions.
 - **No instruction for machine-learning practice.**
 

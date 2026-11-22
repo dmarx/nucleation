@@ -181,6 +181,6 @@ A parallel from Wang and Slotine ([NOTE-2096](../notes.d/NOTE-2096.md)): the sig
 
 ## Note of 2026-11-22: Yang, read
 
-A parallel in another domain. Yang's probe (THEORY-tmpu0f9k) obeys the
+A parallel in another domain. Yang's probe ([THEORY-tmpu0f9k](../theory.d/THEORY-tmpu0f9k.md)) obeys the
 same pitchfork normal form, ε̇ = (β − βc)ε − αε³ plus noise, with the
 symmetric state losing stability as β crosses βc. No edge.

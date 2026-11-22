@@ -5,8 +5,8 @@ status_note: >-
   disordered lattices of spectral dimension at most 2 there is no
   spontaneous magnetization at finite temperature for O(n) and
   ferromagnetic Heisenberg models: the graph version of the
-  Mermin–Wagner theorem that CLAIM-842 supposes, known to the record only
-  through Gelfert and Nolting (LIT-tmpbgf6y). No reading was attempted;
+  Mermin–Wagner theorem that [CLAIM-842](../claims.d/CLAIM-842.md) supposes, known to the record only
+  through Gelfert and Nolting ([LIT-tmpbgf6y](LIT-tmpbgf6y.md)). No reading was attempted;
   a lawful copy has not been sought.
 title: 'Absence of spontaneous symmetry breaking on fractal lattices with d̃⩽2'
 version: 1
@@ -42,7 +42,7 @@ summary: >-
   temperature for the classical O(n) and the ferromagnetic quantum
   Heisenberg model on fractal and disordered lattices whose spectral
   dimension is at most 2, from the infrared divergences of the
-  corresponding Gaussian models. Here for CLAIM-842. Unverified until
+  corresponding Gaussian models. Here for [CLAIM-842](../claims.d/CLAIM-842.md). Unverified until
   read.
 ---
 <!-- inactive-ok-file: ARG-tmpx5evn — Proposed; the argument on the claim this work bears on -->
@@ -55,8 +55,8 @@ Cassi (1992). Physica A 191, 549–553. DOI 10.1016/0378-4371(92)90581-A.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from Gelfert and Nolting (LIT-tmpbgf6y), read as
-a stand-in for Mermin and Wagner (LIT-2985). It is the theorem CLAIM-842's
+Registered on 2026-11-22 from Gelfert and Nolting ([LIT-tmpbgf6y](LIT-tmpbgf6y.md)), read as
+a stand-in for Mermin and Wagner ([LIT-2985](LIT-2985.md)). It is the theorem [CLAIM-842](../claims.d/CLAIM-842.md)'s
 d_s ≤ 2 criterion is a case of, for spin models with a continuous
 symmetry in equilibrium; the record knows it only at second hand
-(ARG-tmpx5evn). Not read.
+([ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)). Not read.

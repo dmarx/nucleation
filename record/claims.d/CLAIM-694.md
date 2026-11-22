@@ -128,8 +128,8 @@ No status change.
 
 ## Note of 2026-11-22: Kosterlitz's Nobel lecture, read
 
-Read as a stand-in for Kosterlitz and Thouless (LIT-2969, Unfetched), the
-lecture (LIT-tmp3k6np, NOTE-tmp0si2r; the reading is THEORY-tmpwdka8)
+Read as a stand-in for Kosterlitz and Thouless ([LIT-2969](../literature.d/LIT-2969.md), Unfetched), the
+lecture ([LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), [NOTE-tmp0si2r](../notes.d/NOTE-tmp0si2r.md); the reading is [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md))
 **supports this claim and adds a condition it lacks: protection needs a
 barrier between sectors that grows with system size.** In the 2D planar
 rotor the winding numbers "are numbers defining a particular metastable
@@ -144,5 +144,5 @@ charge whose sectors are an O(1) barrier apart protects nothing at finite
 temperature: the sector this claim says the charge protects is protected
 only when crossing it costs more as the system grows. The claim's demonstrations are
 zero-temperature configurations, where any barrier suffices; at finite
-temperature the barrier's scaling decides. THEORY-tmpwdka8 `corroborates`
+temperature the barrier's scaling decides. [THEORY-tmpwdka8](../theory.d/THEORY-tmpwdka8.md) `corroborates`
 the claim. No status change.

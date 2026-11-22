@@ -40,5 +40,5 @@ Three seeds averaged; a coarse grid; transplant without ablation.
 ## Note of 2026-11-22: Yang, read
 
 Background. Another account of grokking in modular arithmetic: Yang
-(THEORY-tmpu0f9k) times it by a probe's crossing and a weight-decay-driven
+([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md)) times it by a probe's crossing and a weight-decay-driven
 escape, with no transfer or pre-training.

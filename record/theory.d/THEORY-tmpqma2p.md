@@ -18,10 +18,10 @@ source:
 bounds:
 - CLAIM-842
 summary: >-
-  Halperin (2018), LIT-tmp3zns2, read in full in NOTE-tmpuwmny as a
-  stand-in for Mermin and Wagner (1966), LIT-2985. The theorem's scope
+  Halperin (2018), [LIT-tmp3zns2](../literature.d/LIT-tmp3zns2.md), read in full in [NOTE-tmpuwmny](../notes.d/NOTE-tmpuwmny.md) as a
+  stand-in for Mermin and Wagner (1966), [LIT-2985](../literature.d/LIT-2985.md). The theorem's scope
   and its exceptions, as an author close to it states them. Marks the
-  limits of CLAIM-842's criterion (ARG-tmpx5evn), and why CLAIM-841's XY
+  limits of [CLAIM-842](../claims.d/CLAIM-842.md)'s criterion ([ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)), and why [CLAIM-841](../claims.d/CLAIM-841.md)'s XY
   row does not rest on Mermin–Wagner. Proposed until a second source
   confirms the scope.
 ---
@@ -35,8 +35,8 @@ summary: >-
 ## Source
 
 Halperin (2018), "On the Hohenberg–Mermin–Wagner theorem and its
-limitations", Journal of Statistical Physics 175, LIT-tmp3zns2, read in
-NOTE-tmpuwmny.
+limitations", Journal of Statistical Physics 175, [LIT-tmp3zns2](../literature.d/LIT-tmp3zns2.md), read in
+[NOTE-tmpuwmny](../notes.d/NOTE-tmpuwmny.md).
 
 ## The account
 
@@ -59,4 +59,4 @@ nonlinear coupling (§II).
 - "No continuous symmetry is broken in two dimensions", without the
   conditions.
 - Any statement about quasi-long-range order, for which see
-  THEORY-tmpaojie.
+  [THEORY-tmpaojie](THEORY-tmpaojie.md).

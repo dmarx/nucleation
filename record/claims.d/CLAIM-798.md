@@ -110,8 +110,8 @@ ladder and the rule for climbing to the second.
   the sphere, with collapse, dispersion and structured regimes; the record
   holds the pieces ([THEORY-2033](../theory.d/THEORY-2033.md), [THEORY-305](../theory.d/THEORY-305.md), [THEORY-2012](../theory.d/THEORY-2012.md)). A29 cites a 2026
   ICML paper for geometry-dependent changes between unimodal and multimodal
-  regimes (Cai and colleagues, LIT-2975, read 2026-11-22 as
-  THEORY-tmpvwv5n). **Corrected in place, version 2:** that paper declines
+  regimes (Cai and colleagues, [LIT-2975](../literature.d/LIT-2975.md), read 2026-11-22 as
+  [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)). **Corrected in place, version 2:** that paper declines
   the attraction–repulsion reading for one modality: what spreads the
   embeddings is entropy inside the aligned basin, "not ... a global force
   opposing alignment", and repulsion appears only between modalities,
@@ -146,8 +146,8 @@ nothing about active matter. No relation.
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975) were read (NOTE-tmpll97d; the reading
-is THEORY-tmpvwv5n). **Supports the weak reading only** (ARG-tmpy3i66; the
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md)) were read ([NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md); the reading
+is [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)). **Supports the weak reading only** ([ARG-tmpy3i66](../arguments.d/ARG-tmpy3i66.md); the
 correction of version 2 above). The population picture is variational and
 passive: for one modality a strictly convex free energy with "the unique
 Gibbs-form minimizer", the kind of stationary state the strong reading has
@@ -156,7 +156,7 @@ the cross-entropy against the model's own smoothed density that comes from
 the softmax denominator, not stochastic forcing; τ is the softmax
 temperature, not a noise level. With two modalities there is still one
 joint energy, so the coupling is reciprocal and joint gradient flow falls
-under CLAIM-818. The paper leaves dynamics open ("the geometry of the
+under [CLAIM-818](CLAIM-818.md). The paper leaves dynamics open ("the geometry of the
 objective rather than the trajectory"): how stochastic optimization
 explores the landscape "remains an important open problem", and the
 optimizer is where the strong reading would have to look.

@@ -120,7 +120,7 @@ dynamics, and the entropic reading of the shell.
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi (LIT-2975, NOTE-tmpll97d, THEORY-tmpvwv5n): **background.**
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **background.**
 Their Gibbs density with a cosine alignment potential is a von
 Mises–Fisher-like law of concentration of order 1/τ, on S¹ and S² in their
 experiments; this claim's concentration null is what such a bias has to

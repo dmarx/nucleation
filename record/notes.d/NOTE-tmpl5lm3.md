@@ -20,7 +20,7 @@ summary: >-
   moment, without translation invariance. A rotation is interpolated to
   zero at infinity at bounded energy cost, which two dimensions just
   permit. It does not present Mermin and Wagner's own argument. The
-  reading is THEORY-tmp85ij4.
+  reading is [THEORY-tmp85ij4](../theory.d/THEORY-tmp85ij4.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp85ij4 — Proposed; this reading's account -->
 <!-- inactive-ok-file: LIT-2985 — Unavailable; the original this reading stands in for -->
@@ -32,7 +32,7 @@ summary: >-
 
 An operator-algebraic proof, more general than Mermin and Wagner's, of
 the absence of continuous symmetry breaking at finite temperature in
-d ≤ 2. The reading is THEORY-tmp85ij4.
+d ≤ 2. The reading is [THEORY-tmp85ij4](../theory.d/THEORY-tmp85ij4.md).
 
 ## Key results
 
@@ -60,9 +60,9 @@ KMS state; energy-entropy balance; interpolated rotation.
 
 ## Bearing on the record
 
-- **LIT-2985**: stands in for the statement only (ADR-114). Item 1
-  glosses the original more broadly than its model (Halperin, NOTE-tmpuwmny).
-- **CLAIM-842**: **supports its reach to irregular graphs, within
+- **[LIT-2985](../literature.d/LIT-2985.md)**: stands in for the statement only ([ADR-114](../decisions.d/ADR-114.md)). Item 1
+  glosses the original more broadly than its model (Halperin, [NOTE-tmpuwmny](NOTE-tmpuwmny.md)).
+- **[CLAIM-842](../claims.d/CLAIM-842.md)**: **supports its reach to irregular graphs, within
   equilibrium.** Item 2 means the theorem does not need a regular
   lattice, so an inhomogeneous interaction graph is within its scope as
   long as the couplings' second moment is finite; it is still a theorem

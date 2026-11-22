@@ -209,7 +209,7 @@ A13 writes the common refinement A ∨ B, where this entry calls it a meet.
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**A contrast**, no edge (LIT-2996, NOTE-tmpunt6q, THEORY-tmpttfgp).
+**A contrast**, no edge ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md), [THEORY-tmpttfgp](THEORY-tmpttfgp.md)).
 Shalizi and Moore's macrostates are the observed process's ε-machine
 only: "closure" for them is the macro process being Markov in its own
 past. Informational closure here is relative to the micro past (the

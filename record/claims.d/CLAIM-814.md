@@ -157,12 +157,12 @@ written. The note is the assistant's (Claude, in this session).
 
 ## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
 
-**A contrast**, no edge (LIT-tmpdsowv, read in NOTE-tmpi5t3r in place of
-Bertschinger and Natschläger, LIT-2991; THEORY-tmps8t83). The system is
+**A contrast**, no edge ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), read in [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md) in place of
+Bertschinger and Natschläger, [LIT-2991](../literature.d/LIT-2991.md); [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)). The system is
 nonlinear, high-dimensional and binary, and its edge is damage spreading,
 not the marginal linear stability of a scalar map. In this claim's model
 there is no chaotic side; there, what is lost past the edge is fading
 memory, the state carrying "spurious" information about initial
 conditions, a cost a linear model cannot show. Nothing in the reading
-bears on the scalar derivation. CLAIM-809 now sets the three cases side by
+bears on the scalar derivation. [CLAIM-809](CLAIM-809.md) now sets the three cases side by
 side (version 3). The note is the assistant's (Claude, in this session).

@@ -240,7 +240,7 @@ No relation is written.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-The cautions apply. Lee et al. (THEORY-tmpm3ux2) estimate their Bayesian
+The cautions apply. Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)) estimate their Bayesian
 influence with the same localized SGLD at fixed nβ and γ: in the toy,
 settings chosen to maximize agreement with leave-one-out (C.2); in the
 language models, nβ ∈ {256, 1024} and γ ∈ {500, 1000}, which "did not

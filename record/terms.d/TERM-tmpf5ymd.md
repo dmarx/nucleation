@@ -72,15 +72,15 @@ The distinction is the owner's; The wording is the assistant's (Claude, in this 
 
 ## Note of 2026-11-22: Wang, Wu and Fan, and Yang, Steinhardt and Hu, read
 
-- **Wang, Wu and Fan** (LIT-2984, NOTE-tmpa8a45): an instance of the bulk
+- **Wang, Wu and Fan** ([LIT-2984](../literature.d/LIT-2984.md), [NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md)): an instance of the bulk
   by count, no new sense: spikes that fail a layer's test "are absorbed
   into the bulk spectrum", and the outliers, few and largest, are the bulk
   by weight and here carry the signal. One addition worth a line: the
   paper names "uninformative spike eigenvalues" (after Benigni and Péché,
-  LIT-tmp9isrs), outliers that would be the bulk by weight and carry no
+  [LIT-tmp9isrs](../literature.d/LIT-tmp9isrs.md)), outliers that would be the bulk by weight and carry no
   input structure, and assumes them away. So "the bulk by weight carries
   the signal" is a property of a setting, not of the sense.
-- **Yang, Steinhardt and Hu** (LIT-2957, NOTE-tmpl260d): background only.
+- **Yang, Steinhardt and Hu** ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md)): background only.
   The paper uses no spectral language. Read in this term's senses, the
   fine-class information sits in "the small amount of remaining
   variation", outside the variance-dominant directions, which are the

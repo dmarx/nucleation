@@ -138,7 +138,7 @@ relation to the resolved timescale.
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán (LIT-2965, NOTE-tmpi0o71, THEORY-tmpc73s5): **background.**
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](THEORY-tmpc73s5.md)): **background.**
 The paper says its forward-only unique causality among scale-filtered
 fluxes "justifies the success of subgrid-scale modeling in large-eddy
 simulation", since no new information reaches the large scales from the

@@ -15,16 +15,16 @@ date: '2026-11-22'
 source:
 - LIT-tmpbgf6y
 summary: >-
-  Gelfert and Nolting (2001), LIT-tmpbgf6y, skimmed in NOTE-tmppfzap as a
-  stand-in for Mermin and Wagner (1966), LIT-2985. The proof's outline and
+  Gelfert and Nolting (2001), [LIT-tmpbgf6y](../literature.d/LIT-tmpbgf6y.md), skimmed in [NOTE-tmppfzap](../notes.d/NOTE-tmppfzap.md) as a
+  stand-in for Mermin and Wagner (1966), [LIT-2985](../literature.d/LIT-2985.md). The proof's outline and
   the graph version are both at second hand: the bounds are stated "as
   has been shown by Mermin and Wagner", and Cassi's theorem is reported in
-  one paragraph. It is the record's ground for CLAIM-842's d_s ≤ 2
-  criterion as a theorem of spin models (ARG-tmpx5evn). Proposed until
+  one paragraph. It is the record's ground for [CLAIM-842](../claims.d/CLAIM-842.md)'s d_s ≤ 2
+  criterion as a theorem of spin models ([ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)). Proposed until
   the originals are read.
 ---
 <!-- inactive-ok-file: NOTE-tmppfzap ARG-tmpx5evn — Skimmed or new; this reading and the argument it joins -->
-<!-- inactive-ok-file: LIT-2985 LIT-tmpu2kk5 — Unavailable or Deferred; Mermin and Wagner, and Cassi -->
+<!-- inactive-ok-file: LIT-2985 — Unavailable or Deferred; Mermin and Wagner, and Cassi -->
 <!-- inactive-ok-file: CLAIM-842 — Proposed -->
 
 # THEORY-tmp1nvjs: Gelfert and Nolting show that Mermin and Wagner's exclusion of ferro- and antiferromagnetic order in the one- and two-dimensional Heisenberg model rests on Bogoliubov's inequality reducing the order parameter's bound to the divergence of ∫d^Dk/k² in D ≤ 2, and report that Cassi, after Hattori, Hattori and Watanabe, extended the exclusion to fractal and disordered lattices of spectral dimension at most 2
@@ -32,7 +32,7 @@ summary: >-
 ## Source
 
 Gelfert and Nolting (2001), Journal of Physics: Condensed Matter 13,
-R505–R524, LIT-tmpbgf6y, §§3 and 3.4, skimmed in NOTE-tmppfzap.
+R505–R524, [LIT-tmpbgf6y](../literature.d/LIT-tmpbgf6y.md), §§3 and 3.4, skimmed in [NOTE-tmppfzap](../notes.d/NOTE-tmppfzap.md).
 
 ## The account
 

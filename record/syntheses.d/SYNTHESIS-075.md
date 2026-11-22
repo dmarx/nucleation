@@ -492,9 +492,9 @@ step 5 at this review and not filed:
 
 ## Note of 2026-11-22: Shalizi and Moore, read
 
-**Supports the account's opening clause** (LIT-2996, NOTE-tmpunt6q,
-THEORY-tmpttfgp): an effective description adequate only for a declared
+**Supports the account's opening clause** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md),
+[THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)): an effective description adequate only for a declared
 target. Shalizi and Moore's macrostates are the causal states of chosen
 observables, and their levels "coexist, because they are intended to
-answer different questions" (§IV.B). It corroborates CLAIM-152, one of
+answer different questions" (§IV.B). It corroborates [CLAIM-152](../claims.d/CLAIM-152.md), one of
 the components. No change to the map is suggested.

@@ -19,12 +19,12 @@ corroborates:
 bears_on:
 - QUESTION-508
 summary: >-
-  Kosterlitz (2016), LIT-tmp3k6np, read in full in NOTE-tmp0si2r as a
-  stand-in for Kosterlitz and Thouless (1973), LIT-2969. The first
+  Kosterlitz (2016), [LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), read in full in [NOTE-tmp0si2r](../notes.d/NOTE-tmp0si2r.md) as a
+  stand-in for Kosterlitz and Thouless (1973), [LIT-2969](../literature.d/LIT-2969.md). The first
   author's restatement, with the 1973 paper's errors named. It grounds
-  CLAIM-841's XY row with Drouin-Touchette (THEORY-tmpaojie)
-  (ARG-tmprfa3j); it gives CLAIM-694 the barrier condition; and it is one
-  case of CLAIM-tmpvq33w. Proposed until the primary papers are read.
+  [CLAIM-841](../claims.d/CLAIM-841.md)'s XY row with Drouin-Touchette ([THEORY-tmpaojie](THEORY-tmpaojie.md))
+  ([ARG-tmprfa3j](../arguments.d/ARG-tmprfa3j.md)); it gives [CLAIM-694](../claims.d/CLAIM-694.md) the barrier condition; and it is one
+  case of [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md). Proposed until the primary papers are read.
 ---
 <!-- inactive-ok-file: THEORY-tmpaojie ARG-tmprfa3j CLAIM-tmpvq33w — new or Proposed; this reading, its companion and the entries it grounds -->
 <!-- inactive-ok-file: LIT-2969 LIT-tmph3tia — Unfetched or Deferred -->
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Kosterlitz (2016), "Topological Defects and Phase Transitions", Nobel
-Lecture, LIT-tmp3k6np, read in NOTE-tmp0si2r.
+Lecture, [LIT-tmp3k6np](../literature.d/LIT-tmp3k6np.md), read in [NOTE-tmp0si2r](../notes.d/NOTE-tmp0si2r.md).
 
 ## The account
 
