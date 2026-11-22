@@ -13,10 +13,12 @@
 - NOTE-tmpd2cps (Skimmed) and THEORY-tmp0xz8p: Bosca and Ghrist 2026 skimmed; selective rigidity on discourse sheaves and rate bounds on whether beliefs or expressions change.
 - NOTE-tmp9h46q (Skimmed) and THEORY-tmpzt77d: Leal et al. 2026 skimmed; temporal cellular sheaves for switching multi-agent systems.
 - NOTE-tmpejuy1 (Skimmed) and THEORY-tmpmnv43: Battiston et al. 2025 skimmed; effective higher-order phase interactions from pairwise coupling.
+- NOTE-tmp43jkl (Skimmed) and THEORY-tmpiahw1: Schultz and Spivak 2017 skimmed; behavior types as sheaves, one that is no ODE's solution set.
+- A devlog note on the run (record/devlog.d/2026/11/22/155910.md).
 - CLAIM-tmp7vutq: on five or more contexts with zero monodromy the XY energy has twisted local minima of positive energy, so CLAIM-153's readout holds for the global minimum only (Proposed, thesis, demonstrated; check in scratch/studies/lead-023/twisted.py).
 
 ### Changed
 
-- LIT-2245, LIT-2230, LIT-2253, LIT-2267, LIT-2250, LIT-2256, LIT-2249, LIT-2232, LIT-2258, LIT-2238, LIT-2259, LIT-2262 and LIT-2239 moved to Active on their readings.
+- LIT-2245, LIT-2230, LIT-2253, LIT-2267, LIT-2250, LIT-2256, LIT-2249, LIT-2232, LIT-2258, LIT-2238, LIT-2259, LIT-2262, LIT-2239 and LIT-2235 moved to Active on their readings.
 - LIT-2265 (Pecora and Carroll 1990) recorded Unavailable: no lawful copy found.
-- Dated notes of 2026-11-22 on QUESTION-063, QUESTION-147, CLAIM-153, CLAIM-167, CLAIM-172, CASE-179, THEORY-1082, QUESTION-282, QUESTION-252, CLAIM-480, THEORY-1065, QUESTION-379, CLAIM-623 and THEORY-1088.
+- Dated notes of 2026-11-22 on LEAD-023 (what was done and what remains), QUESTION-143, QUESTION-063, QUESTION-147, CLAIM-153, CLAIM-167, CLAIM-172, CASE-179, THEORY-1082, QUESTION-282, QUESTION-252, CLAIM-480, THEORY-1065, QUESTION-379, CLAIM-623 and THEORY-1088.

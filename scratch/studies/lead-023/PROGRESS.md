@@ -38,14 +38,17 @@ any of the 15 LITs; none is already read.
 - LIT-2262 Leal et al. (Skimmed): NOTE-tmp9h46q, THEORY-tmpzt77d; note on QUESTION-282.
 - Excuse lines (inactive-ok-file) added to NOTEs and LITs citing Proposed or Skimmed codes.
 - LIT-2239 Battiston et al. (Skimmed): NOTE-tmpejuy1, THEORY-tmpmnv43; notes on CLAIM-480, CLAIM-153.
+- LIT-2235 Schultz & Spivak (Skimmed): NOTE-tmp43jkl, THEORY-tmpiahw1; notes on QUESTION-379, CLAIM-480; shared note on QUESTION-143 for both Schultz works.
+- Dated note on LEAD-023; devlog note record/devlog.d/2026/11/22/155910.md.
 
-## Next (order chosen by what the claims most need)
+## Next
 
-
-LIT-2235 Schultz & Spivak;
-dated note on LEAD-023.
+Nothing left in this run. Remaining for the record: full readings of the seven skimmed works if the record comes to lean on them; LIT-2265 if a copy is supplied or its 1997 stand-in is read. Stale inactive-ok codes in LEAD-023 and THEORY-2014 (LITs now Active) are left for CI's repair.
 
 ## Choices
 
 - Order: QUESTION-063 / CLAIM-153 / QUESTION-252 works first (concrete
   questions), the sheaf and survey works after.
+- Skimmed, not Read, for the long or survey works (Dörfler, both Schultz works, Bumpus, Bosca, Leal, Battiston): parts read are named in each NOTE.
+- Bearings too loose for a note: none dropped from the lead's list; Dörfler on CLAIM-172 and Leal on THEORY-1088 kept in the NOTEs only.
+- No ARG filed: CLAIM-tmp7vutq qualifies CLAIM-153's readout, not whether one entry supports another.

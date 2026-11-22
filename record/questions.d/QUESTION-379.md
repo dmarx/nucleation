@@ -106,3 +106,8 @@ Schultz, Spivak and Vasilakopoulou (THEORY-tmp1ncgo, bears_on; NOTE-tmp1hzsa, sk
 <!-- inactive-ok-file: THEORY-tmp9gllh NOTE-tmpgeiy5 — Proposed and Skimmed; filed by LEAD-023 -->
 
 Bumpus and colleagues (THEORY-tmp9gllh, bears_on; NOTE-tmpgeiy5, skimmed; LIT-2238), cited by A at A25 and A29. Their narratives are a language for this question's local observations over time, sheaves on intervals with gluing built in, and they give one exact underdetermination: "a mere sequence of objects of D ... does not determine a unique discrete D-narrative" (Proposition 2.9); the relations between successive times must be recorded too. The question's step, when a narrative is the record of some realizable dynamics, is their desideratum D5, which they leave to future work beyond sharing Schultz, Spivak and Vasilakopoulou's interval sheaves. Background, then, not an answer. The question stays open.
+
+## Note of 2026-11-22: Schultz and Spivak, skimmed
+<!-- inactive-ok-file: THEORY-tmpiahw1 NOTE-tmp43jkl — Proposed and Skimmed; filed by LEAD-023 -->
+
+Schultz and Spivak (THEORY-tmpiahw1, bears_on; NOTE-tmp43jkl, skimmed; LIT-2235), cited by A at A25. The clearest instance yet of this question's representability gap, relative to a class of realizers: roughly monotonic curves form "a perfectly good behavior type", a coherent family over time windows, and yet "there is no differential equation whose solution set is the roughly-monotonic curves" (§1.1). The same example shows compliance checked on short windows failing to compose. Whether such a type is realized by some physical system outside the ODE class, and at what cost, is not asked. The question stays open.

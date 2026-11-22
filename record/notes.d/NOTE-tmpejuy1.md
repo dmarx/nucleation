@@ -25,6 +25,7 @@ summary: >-
   through phase lags; and when higher-order terms are necessary is an open
   question.
 ---
+<!-- inactive-ok-file: THEORY-tmpcdxvd — Proposed; filed by LEAD-023 -->
 
 # NOTE-tmpejuy1: Battiston, Bick, Lucas, Millán, Skardal and Zhang — Collective dynamics on higher-order networks
 

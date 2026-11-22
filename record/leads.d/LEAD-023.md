@@ -76,3 +76,16 @@ Read the works, all Deferred and never tried, in four sets: for [CLAIM-172](../c
 ## What would count
 
 Each reading is filed against the entries it was registered for.
+
+## Note of 2026-11-22: what the run did and what remains
+<!-- inactive-ok-file: CLAIM-tmp7vutq CLAIM-623 — Proposed; filed by or noted in this lead's run -->
+
+Carried out on 2026-11-22 by a delegated worker on branch `claude/lead-023-dynamics-batch` (progress in scratch/studies/lead-023/PROGRESS.md). Of the fifteen works, fourteen were reached and filed with a NOTE, a THEORY and a new LIT version (Active); one was not.
+
+- **Read** (seven): LIT-2245 Ko, LIT-2230 Ocampo-Espindola et al. (NSF Public Access Repository copy), LIT-2253 Bačić et al., LIT-2267 Manik et al., LIT-2250 Widder and Schilling, LIT-2256 Wang and Tang, LIT-2249 Stewart (Warwick repository copy).
+- **Skimmed** (seven, the parts read named in each NOTE): LIT-2232 Dörfler and Bullo (Bullo's laboratory copy), LIT-2258 Schultz, Spivak and Vasilakopoulou, LIT-2238 Bumpus et al., LIT-2259 Bosca and Ghrist, LIT-2262 Leal et al., LIT-2239 Battiston et al., LIT-2235 Schultz and Spivak (a 224-page book, overview and §8.4 only).
+- **Unavailable**: LIT-2265 Pecora and Carroll 1990, no lawful copy found; a 1997 tutorial by the same authors is named in its status note as a possible stand-in, not read.
+
+One claim was filed from the readings: CLAIM-tmp7vutq, that on five or more contexts with zero monodromy CLAIM-153's energy has twisted local minima of positive energy, so its readout holds for the global minimum only (checked in scratch/studies/lead-023/twisted.py). Dated notes went on every entry the lead names (CLAIM-172, CLAIM-167, QUESTION-063, QUESTION-147, QUESTION-379, QUESTION-143, CLAIM-153, QUESTION-282, QUESTION-252) and on CASE-179, CLAIM-480, CLAIM-623, THEORY-1065, THEORY-1082 and THEORY-1088. No question is answered by the batch; none changes status.
+
+What remains: full readings of the seven skimmed works where the record comes to lean on them, and Pecora and Carroll if a copy is supplied or the stand-in is read. Marking the lead Done is the owner's call.

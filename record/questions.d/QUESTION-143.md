@@ -45,3 +45,8 @@ topology of a space of input histories is a sheaf exactly when the space has
 no solipsistic contextuality witness. One more worked non-gluing example
 does not count, since an example shows only that some spaces fail, which is
 the half already checked.
+
+## Note of 2026-11-22: the two Schultz sheaf works, skimmed
+<!-- inactive-ok-file: NOTE-tmp1hzsa NOTE-tmp43jkl — Skimmed; filed by LEAD-023 -->
+
+LEAD-023 read the two sheaf works A cited beside this question (A25, A27, A29): Schultz, Spivak and Vasilakopoulou (NOTE-tmp1hzsa, LIT-2258) and Schultz and Spivak (NOTE-tmp43jkl, LIT-2235), both skimmed. Both put sheaves on time intervals, not on the lowerset topology of a space of input histories, and neither mentions causal functions or contextuality witnesses. They neither prove nor test Theorem 2.34, so they do not meet this question's condition. Both show, from another direction, valid local pieces that do not glue (history-dependent contracts; roughly monotonic behaviors), which is the half of the iff already checked. The question stays open.

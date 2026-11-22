@@ -287,3 +287,8 @@ The note of 2026-11-07 asked whether Wang and Tang say what A cited them for. Th
 <!-- inactive-ok-file: THEORY-tmpmnv43 NOTE-tmpejuy1 — Proposed and Skimmed; filed by LEAD-023 -->
 
 A parallel to this claim's last clause, from Battiston and colleagues' review (THEORY-tmpmnv43; NOTE-tmpejuy1, skimmed; LIT-2239). Eliminating the amplitudes of pairwise-coupled oscillators by a phase reduction carried to higher order yields effective triplet and quadruplet phase interactions: "even when the coupling terms in Gi are pairwise, one may expect nonpairwise interactions to enter the phase dynamics at higher-order expansions", capturing influence of k on i "via j" (§III B). That is a dynamical case of a reduction producing a constraint of a new arity, as this claim's sheaf case does. The review reports it from others, so no edge is written; no status change.
+
+## Note of 2026-11-22: Schultz and Spivak, skimmed
+<!-- inactive-ok-file: THEORY-tmpiahw1 NOTE-tmp43jkl — Proposed and Skimmed; filed by LEAD-023 -->
+
+A second parallel, from Schultz and Spivak (THEORY-tmpiahw1; NOTE-tmp43jkl, skimmed). In their temporal logic the strongest contract a composed system satisfies is its components' contracts conjoined, with the latent (internal) variables existentially quantified out (§8.4.2). That is this claim's interior elimination in logical form: the boundary sees only what the interior permits. No edge; no status change.
