@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp0885h
 title: 'Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -31,6 +31,14 @@ history:
     Note of 2026-11-22 added: LEAD-065 run; Ito and Kaneko's core is
     refilled when removed and recovered when made rare (CASE-tmpvn7wm,
     CLAIM-tmpf11gs). The question is unchanged.
+- version: 6
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-049's restricted theorem
+    (CLAIM-tmp6kclm) and counterexample (CLAIM-tmpdsv4t), checked in
+    CASE-tmp5sk3q. With residents frozen, recovery is assured under the
+    theorem's conditions; against residents that re-adapt it can fail.
+    The question is unchanged.
 tags:
 - complex-systems
 - ecology
@@ -52,6 +60,7 @@ summary: >-
   coexistence and exclusion. Heterogeneous embeddings, unequal routing
   weights or persistent expert identities do not answer it.
 ---
+<!-- inactive-ok-file: CLAIM-tmp6kclm CLAIM-tmpdsv4t CASE-tmp5sk3q — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: CASE-tmpvn7wm CLAIM-tmpf11gs — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; Chesson's stabilizing mechanisms, cited as the source of the first outcome's name, not reached, nothing here rests on it -->
@@ -302,5 +311,63 @@ outcome at the level of roles. In the other, it is a fourth outcome the
 question does not name: a differentiation that regenerates around
 interchangeable holders, with no niche for any particular specialist. The
 recovery of a periphery unit made rare was not tested.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-11-22: the restricted theorem, and where it stops
+
+[LEAD-049](../leads.d/LEAD-049.md) took up the "natural first target" that "What would answer it"
+names. The class is [CLAIM-369](../claims.d/CLAIM-369.md)'s symmetric resource competition with
+nonnegative niche vectors u(θ_i). Each operator's trait is confined to a
+box, the bounded adaptation, and moves up the rare-mutant selection
+gradient. Operators share one niche map, so they are initially equivalent
+up to their traits. The whole system is a gradient flow of [CLAIM-369](../claims.d/CLAIM-369.md)'s
+objective L.
+
+- **Sufficient conditions for a stable differentiated equilibrium**
+  ([CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md), Theorem A). Each trait is interior and stationary, or
+  held at its bound by a strictly outward gradient. The Hessian of L on the
+  free coordinates is positive definite. That Hessian contains the Gram
+  matrix, so the specialists' niche vectors must be linearly independent.
+  An equilibrium in which two present operators share a trait is never
+  asymptotically stable. Exactly identical operators stay identical. In
+  [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)'s Gaussian-niche runs, operators started 10⁻³ apart
+  differentiate to equilibria meeting these conditions whenever the
+  niche space has room for them all (22 of 27 runs). With too many, some
+  pair up on near-identical traits.
+- **Recovery when rare, residents frozen** (Theorem B). Every specialist
+  has λ_i ≥ n*_i d_i² > 0. This is the question's frozen measurement,
+  against the −i community, and it holds at every such community, since
+  that community is unique at fixed traits.
+- **Recovery against re-adapted residents** (Theorem C). It is positive if
+  the frozen −i community itself meets Theorem A. Otherwise it can fail.
+  [CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md) gives a two-resource trade-off in which a stable pair of
+  specialists coexists with a stable lone generalist. A specialist
+  returning against that generalist has growth −c/5. A lone resident
+  leaves its corner for the vacated resource whenever c/B < a'(0)/a'(1),
+  and in [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)'s runs it then ends at the generalist. In the
+  Gaussian-niche runs the condition never held, since residents always
+  moved into the vacancy. Recovery stayed positive, but at a median 0.29
+  of the frozen rate.
+
+What the lead's "What would count" asked: a theorem for the class, and a
+counterexample. Both are now filed. The counterexample does not show that
+differentiation needs more than competition and bounded adaptation, since
+the pair is stable. It shows that recovery when rare against residents
+that have had time to re-adapt needs more. What it needs, in that
+instance, is a trade-off under which the vacated niche is not worth
+entering (c/B > a'(0)/a'(1)), or a generalist that leaves room
+(a(1/2) < 1/2).
+
+This bears on the question's distinctions. Its frozen and trainable
+measurements part: frozen residents give positive recovery, re-adapted
+ones negative. Its third outcome appears in an unexpected form, an
+alternative stable state of one generalist that removal can tip the
+system into. Whether that is "entrenched asymmetry" or a further outcome
+is left to the owner ([CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md)).
+
+Not attempted: asymmetric interactions, delayed adaptation ([THEORY-548](../theory.d/THEORY-548.md)),
+influence-dependent training ([QUESTION-134](QUESTION-134.md)), invasion graphs with
+adaptive traits, and a trainable returning specialist.
 
 The question is unchanged and stays Open.

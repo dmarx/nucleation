@@ -1,0 +1,37 @@
+weak generalist (gamma=0) 0.1 A: True takeover: True lone th=0.500 lam_ad=+0.0143 formula=+0.0143 grew=True reinv=False
+weak generalist (gamma=0) 0.2 A: True takeover: True lone th=0.500 lam_ad=+0.0286 formula=+0.0286 grew=True reinv=False
+weak generalist (gamma=0) 0.3 A: True takeover: True lone th=0.500 lam_ad=+0.0429 formula=+0.0429 grew=True reinv=True
+weak generalist (gamma=0) 0.4 A: True takeover: True lone th=0.500 lam_ad=+0.0571 formula=+0.0571 grew=True reinv=True
+weak generalist (gamma=0) 0.5 A: True takeover: True lone th=0.500 lam_ad=+0.0714 formula=+0.0714 grew=True reinv=True
+weak generalist (gamma=0) 0.6 A: True takeover: True lone th=0.500 lam_ad=+0.0857 formula=+0.0857 grew=True reinv=True
+weak generalist (gamma=0) 0.7 A: True takeover: False lone th=1.000 lam_ad=+0.3000 formula=+0.1000 grew=True reinv=True
+weak generalist (gamma=0) 0.8 A: True takeover: False lone th=1.000 lam_ad=+0.2000 formula=+0.1143 grew=True reinv=True
+weak generalist (gamma=0) 0.9 A: True takeover: False lone th=1.000 lam_ad=+0.1000 formula=+0.1286 grew=True reinv=True
+middling (gamma=1.5) 0.1 A: True takeover: True lone th=0.500 lam_ad=-0.0059 formula=-0.0059 grew=False reinv=False
+middling (gamma=1.5) 0.2 A: True takeover: True lone th=0.500 lam_ad=-0.0118 formula=-0.0118 grew=False reinv=False
+middling (gamma=1.5) 0.3 A: True takeover: True lone th=0.500 lam_ad=-0.0176 formula=-0.0176 grew=False reinv=False
+middling (gamma=1.5) 0.4 A: True takeover: True lone th=0.500 lam_ad=-0.0235 formula=-0.0235 grew=False reinv=False
+middling (gamma=1.5) 0.5 A: True takeover: True lone th=0.500 lam_ad=-0.0294 formula=-0.0294 grew=False reinv=False
+middling (gamma=1.5) 0.6 A: True takeover: True lone th=0.500 lam_ad=-0.0353 formula=-0.0353 grew=False reinv=False
+middling (gamma=1.5) 0.7 A: True takeover: False lone th=1.000 lam_ad=+0.3000 formula=-0.0412 grew=True reinv=True
+middling (gamma=1.5) 0.8 A: True takeover: False lone th=1.000 lam_ad=+0.2000 formula=-0.0471 grew=True reinv=True
+middling (gamma=1.5) 0.9 A: True takeover: False lone th=1.000 lam_ad=+0.1000 formula=-0.0529 grew=True reinv=True
+strong generalist (gamma=3) 0.1 A: True takeover: True lone th=0.500 lam_ad=-0.0200 formula=-0.0200 grew=False reinv=False
+strong generalist (gamma=3) 0.2 A: True takeover: True lone th=0.500 lam_ad=-0.0400 formula=-0.0400 grew=False reinv=False
+strong generalist (gamma=3) 0.3 A: True takeover: True lone th=0.500 lam_ad=-0.0600 formula=-0.0600 grew=False reinv=False
+strong generalist (gamma=3) 0.4 A: True takeover: True lone th=0.500 lam_ad=-0.0800 formula=-0.0800 grew=False reinv=False
+strong generalist (gamma=3) 0.5 A: True takeover: True lone th=0.500 lam_ad=-0.1000 formula=-0.1000 grew=False reinv=False
+strong generalist (gamma=3) 0.6 A: True takeover: True lone th=0.500 lam_ad=-0.1200 formula=-0.1200 grew=False reinv=False
+strong generalist (gamma=3) 0.7 A: True takeover: False lone th=1.000 lam_ad=+0.3000 formula=-0.1400 grew=True reinv=True
+strong generalist (gamma=3) 0.8 A: True takeover: False lone th=1.000 lam_ad=+0.2000 formula=-0.1600 grew=True reinv=True
+strong generalist (gamma=3) 0.9 A: True takeover: False lone th=1.000 lam_ad=+0.1000 formula=-0.1800 grew=True reinv=True
+strong generalist, alpha=0.2 0.1 A: True takeover: True lone th=0.500 lam_ad=-0.0259 formula=-0.0259 grew=False reinv=False
+strong generalist, alpha=0.2 0.2 A: True takeover: True lone th=0.500 lam_ad=-0.0519 formula=-0.0519 grew=False reinv=False
+strong generalist, alpha=0.2 0.3 A: True takeover: True lone th=0.500 lam_ad=-0.0778 formula=-0.0778 grew=False reinv=False
+strong generalist, alpha=0.2 0.4 A: True takeover: True lone th=0.500 lam_ad=-0.1037 formula=-0.1037 grew=False reinv=False
+strong generalist, alpha=0.2 0.5 A: True takeover: True lone th=0.500 lam_ad=-0.1296 formula=-0.1296 grew=False reinv=False
+strong generalist, alpha=0.2 0.6 A: True takeover: True lone th=0.500 lam_ad=-0.1556 formula=-0.1556 grew=False reinv=False
+strong generalist, alpha=0.2 0.7 A: True takeover: False lone th=1.000 lam_ad=+0.3000 formula=-0.1815 grew=True reinv=True
+strong generalist, alpha=0.2 0.8 A: True takeover: False lone th=1.000 lam_ad=+0.2000 formula=-0.2074 grew=True reinv=True
+strong generalist, alpha=0.2 0.9 A: True takeover: False lone th=1.000 lam_ad=+0.1000 formula=-0.2333 grew=True reinv=True
+elapsed 439.8569447994232
