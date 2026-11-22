@@ -54,6 +54,7 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp943kt — new; the study this claim grounds on, filed in the same contribution -->
+<!-- inactive-ok-file: TERM-tmp4iqiv — new on staging; the distinction between senses of independent scoring filed for LEAD-121 -->
 
 # CLAIM-tmp95c61: In a simulated judgement–observation loop with action held fixed, what keeps it from locking in is a score or weight its own authority does not set, such as commitment before evidence, processing signals or exogenous capture; evidence that arrives unselected keeps it sighted but does not anchor it while authority decides how it is attended, and the anchors are redundant, so none is necessary when the others are present
 
@@ -115,6 +116,10 @@ in." Which candidate that names is the owner's call.
   intention and outcome is absent by construction. CLAIM-339's
   empirical form, the extinction hypothesis, concerns that contingency,
   and the model is silent on it.
+- That the anchors are independent scoring in either sense TERM-tmp4iqiv
+  separates. The committed score reads the evidence as attended, and
+  capture compares the input with the interpretation. What they share is
+  only that the loop's authority does not set their weight.
 - That commitment works whatever κ′ − κ̄. Here it did across κ̄ from 0 to
   0.8, where CLAIM-340's linearization would predict a positive
   coupling. The evidence gain outweighed it. Why was not diagnosed, and

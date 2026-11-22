@@ -117,3 +117,8 @@ successful according to standards those same authorities substantially
 control." That is the self-scoring lock-in of [CLAIM-466](CLAIM-466.md) and the
 independence of evidence of [CLAIM-342](CLAIM-342.md), stated as a presumption. Not
 filed. No change.
+
+## Note of 2026-11-22: commitment in a nonlinear loop, the sign condition not binding
+<!-- inactive-ok-block: CASE-tmp943kt CLAIM-tmp95c61 — new; filed for LEAD-020 -->
+
+In CASE-tmp943kt (LEAD-020), a bounded nonlinear version of CASE-106's commitment scoring kept a single-mind loop out of lock-in at κ̄ = 0, 0.2, 0.5 and 0.8 alike. That includes loops whose only evidence was read with κ′ = 0.8 > κ̄, where this claim's linearization gives a positive coupling. The committed score's evidence gain outweighed that coupling there. Why was not diagnosed. It does not bear on this claim, which is about the linearization at symmetry. The same study's post-hoc arm confirms this claim's third point: predictions revised after the evidence leave authority unscored, so nothing locks in and nothing is learned. No status changes.

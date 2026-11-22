@@ -35,3 +35,14 @@ Where the record names it:
 ## What would count
 
 A candidate whose removal produces lock-in answers [QUESTION-121](../questions.d/QUESTION-121.md).
+
+## Note of 2026-11-22: carried out
+<!-- inactive-ok-block: CASE-tmp943kt CLAIM-tmp95c61 — new; filed for LEAD-020 -->
+
+Carried out by the assistant on branch claude/lead-020-nonlockin-ablation. The study is CASE-tmp943kt (executed-study), with code, eleven pytest tests, 1368 result cells and a summary in scratch/studies/lead-020/. The finding is CLAIM-tmp95c61. Dated notes went on QUESTION-121, CLAIM-342, CLAIM-340, CLAIM-339 and CASE-099. A loop that does not lock in, with action held fixed, was built. In its minimal forms, removing commitment, processing signals or exogenous capture makes it lock in, which is what the lead's "What would count" names. With all candidates present, no single removal does. What remains:
+
+- whether this answers QUESTION-121, which the claim gives as two readings for the owner;
+- why commitment worked even where CLAIM-340's sign condition predicts coupling, which was not diagnosed;
+- intention–outcome contingency, which the model lacks.
+
+The lead's status and stage are the owner's.
