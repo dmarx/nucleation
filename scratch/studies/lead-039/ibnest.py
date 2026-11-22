@@ -49,21 +49,19 @@ def envelope_decomp(p, kappa, beta, grid):
     X = grid[:, : k - 1]
     Z = np.column_stack([X, F(grid, kappa, beta)])
     hull = ConvexHull(Z, qhull_options="Qt")
-    best = None
-    for simplex, eq in zip(hull.simplices, hull.equations):
-        if eq[k - 1] >= -1e-12:  # not a lower facet
-            continue
-        V = X[simplex]  # (k, k-1)
-        A = np.vstack([V.T, np.ones(k)])
-        try:
-            w = np.linalg.solve(A, np.append(p[: k - 1], 1.0))
-        except np.linalg.LinAlgError:
-            continue
-        if w.min() >= -1e-9:
-            val = w @ Z[simplex, k - 1]
-            if best is None or val < best[0] - 1e-12:
-                best = (val, simplex, w)
-    _, simplex, w = best
+    low = hull.equations[:, k - 1] < -1e-12
+    S = hull.simplices[low]
+    V = X[S]  # (f, k, k-1)
+    A = np.concatenate([np.transpose(V, (0, 2, 1)), np.ones((len(S), 1, k))], axis=1)
+    rhs = np.append(p[: k - 1], 1.0)
+    det = np.abs(np.linalg.det(A))
+    ok = det > 1e-14
+    W = np.full((len(S), k), -1.0)
+    W[ok] = np.linalg.solve(A[ok], np.broadcast_to(rhs, (ok.sum(), k))[..., None])[..., 0]
+    inside = W.min(axis=1) >= -1e-9
+    vals = np.where(inside, (W * Z[S, k - 1]).sum(axis=1), np.inf)
+    j = int(np.argmin(vals))
+    simplex, w = S[j], W[j]
     keep = w > 1e-9
     return grid[simplex][keep], w[keep] / w[keep].sum()
 
