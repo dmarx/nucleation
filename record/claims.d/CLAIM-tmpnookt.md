@@ -34,23 +34,23 @@ uses:
 summary: >-
   Filed under the dialectic regime at the owner's "relate specification to
   type theory", 2026-11-22. The record holds the model-theoretic side of
-  specification (Goguen and Burstall's institutions, THEORY-1142, Active)
-  and two type-theory works on other matters (LIT-032, LIT-040), but no
+  specification (Goguen and Burstall's institutions, [THEORY-1142](../theory.d/THEORY-1142.md), Active)
+  and two type-theory works on other matters ([LIT-032](../literature.d/LIT-032.md), [LIT-040](../literature.d/LIT-040.md)), but no
   reading of propositions as types, realizability, refinement types or
   bidirectional typing; the correspondences below are stated from the
-  assistant's knowledge and wait on LEAD-tmp3xevc. The wording is the
+  assistant's knowledge and wait on [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-783 CLAIM-tmpmk056 TERM-tmp94y6v TERM-tmp8b1yl LEAD-tmp3xevc — Proposed or Open; the claims, terms and lead this joins -->
+<!-- inactive-ok-file: CLAIM-783 CLAIM-tmpmk056 TERM-tmp94y6v — Proposed or Open; the claims, terms and lead this joins -->
 
 # CLAIM-tmpnookt: The record's account of specification is model-theoretic, a set of tests and the versions that pass them all, as an institution pairs sentences with the models that satisfy them; type theory is its proof-relevant counterpart, in which a specification is a type, a question a problem, a realization an inhabitant carried with the evidence that it passes, adding a descriptor a refinement the entry provably inhabits, which is why descriptors cannot conflict, and the direction of fit is bidirectional typing's split between inferring a type from a term and checking a term against a type given
 
 ## Two ways to say what a specification is
 
-**Model-theoretic, the record's own.** TERM-tmp94y6v defines a
+**Model-theoretic, the record's own.** [TERM-tmp94y6v](../terms.d/TERM-tmp94y6v.md) defines a
 specification as a set of tests and its realizations as whatever passes
-them all (CLAIM-783). That is the semantics of an institution
-(THEORY-1142): a set of sentences E picks out the class E* of models that
+them all ([CLAIM-783](CLAIM-783.md)). That is the semantics of an institution
+([THEORY-1142](../theory.d/THEORY-1142.md)): a set of sentences E picks out the class E* of models that
 satisfy every one, and a class of models picks out the sentences true in
 all of them. Passing is a fact about the realization; nothing more is
 carried.
@@ -61,7 +61,7 @@ derivation that it does. Read through the record's account:
 
 - **A question is a problem.** Kolmogorov read a proposition as a problem
   and its proof as a solution; Martin-Löf's types are the same reading. A
-  question, as CLAIM-470 has it, fixes which differences would count as an
+  question, as [CLAIM-470](CLAIM-470.md) has it, fixes which differences would count as an
   answer: it is a type, partial when it has many inhabitants.
 - **A finding is an inhabitant, and the word "realization" is shared.**
   Kleene's realizability calls the program that witnesses a proposition its
@@ -70,7 +70,7 @@ derivation that it does. Read through the record's account:
   to a type A gives the refinement {x : A | φ(x)}, a subtype. A descriptor
   is one the entry already passes, so the entry itself, with the evidence
   that it passes, is an inhabitant of every refinement descriptors build:
-  each is non-empty constructively. That is CLAIM-783's result that
+  each is non-empty constructively. That is [CLAIM-783](CLAIM-783.md)'s result that
   descriptors never conflict, the entry being their witness, said as a
   typing fact. An imposition refines toward a type the entry does not yet
   inhabit, which may be empty: the objection the record files when
@@ -80,9 +80,9 @@ derivation that it does. Read through the record's account:
   written to fit the term: word to world, a descriptor), and checking, which
   holds a term to a type given in advance (world to word, a requirement).
   Checking only accepts or rejects; the performative update that moves the
-  term to fit (CLAIM-tmpmk056) is elaboration or coercion, which inserts
+  term to fit ([CLAIM-tmpmk056](CLAIM-tmpmk056.md)) is elaboration or coercion, which inserts
   what the term needs to inhabit the type.
-- **Stored specification is a library.** CLAIM-475's stored specification,
+- **Stored specification is a library.** [CLAIM-475](CLAIM-475.md)'s stored specification,
   past inquiry that cheapens later questions, is a library of definitions
   and lemmas, which make later types easy to state and inhabit and hard to
   state otherwise.
@@ -95,14 +95,14 @@ and the premises it rests on, a reading with the passages that support it,
 a status with the argument that moved it. The account of specification
 says only that passing happens. Reading it type-theoretically would make
 the evidence part of the realization, as the record's own entries already
-treat it, and would make a question's revision (CLAIM-470's one
+treat it, and would make a question's revision ([CLAIM-470](CLAIM-470.md)'s one
 difference) a change of type, which type theory handles with universes,
 types computed from other types.
 
 ## What it does not say
 
 - Not read. No source for these correspondences is held; they come from the
-  assistant's knowledge, and LEAD-tmp3xevc plans the readings.
+  assistant's knowledge, and [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md) plans the readings.
 - Not that a claim's grounds are a proof in the formal sense. They are
   evidence of varying strength; the claim is that the record carries them
   with what they support, as a proof-relevant system does.

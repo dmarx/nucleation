@@ -16,10 +16,10 @@ complements:
 draws_on:
 - THEORY-162
 summary: >-
-  Filed beside TERM-tmp94y6v at the owner's "could we maybe benefit from a term?",
+  Filed beside [TERM-tmp94y6v](TERM-tmp94y6v.md) at the owner's "could we maybe benefit from a term?",
   as the second reading of which term was meant. Searle's notion, made
-  formal in Krifka's performative updates (LIT-835, THEORY-162), and the
-  record's descriptor and imposition (TERM-134, CLAIM-tmpmk056). The
+  formal in Krifka's performative updates ([LIT-835](../literature.d/LIT-835.md), [THEORY-162](../theory.d/THEORY-162.md)), and the
+  record's descriptor and imposition ([TERM-134](TERM-134.md), [CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md)). The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
@@ -37,18 +37,18 @@ A test applied to something has a **direction of fit**:
   descriptor.
 - **world to word**: the thing must be made to fit the test, which it does
   not yet pass. Applied, it moves the thing to the nearest version that
-  passes: performative update, the record's imposition (CLAIM-tmpmk056).
+  passes: performative update, the record's imposition ([CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md)).
 
 Which direction a test has is settled by the thing as it stands when the
 test is applied, not by the test's wording: the same sentence describes
 one entry and imposes on another. A test can change direction: a
 requirement that building shows cannot be met is rewritten to describe what
-can (CLAIM-tmp5rv9x).
+can ([CLAIM-tmp5rv9x](../claims.d/CLAIM-tmp5rv9x.md)).
 
 ## Not to be confused with
 
 - **Hard against soft.** That is how strongly a test is enforced
-  (TERM-134); either direction can be enforced hard or soft.
+  ([TERM-134](TERM-134.md)); either direction can be enforced hard or soft.
 - **Descriptive against normative content.** A descriptor can state a norm
   the entry already meets; direction of fit is about the relation of a test
   to its object, not about what the test says.
