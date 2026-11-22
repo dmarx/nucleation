@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpixmhp
 status: Proposed
 title: "Blame supplies provenance: responsibility for a harmful act and responsibility for producing the incapacity through which it was done can come apart and attach to different actors, so blame traced upstream to those who formed or maintained an agent's incapacity grounds holding them accountable where the agent who acted is not culpable"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -18,6 +18,11 @@ history:
     A dated note added: provenance without blame (CLAIM-751) filed
     as this claim's complement, and Cook (LIT-2783) read. No change of
     status or title.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note added: the Tempe prosecution read for LEAD-189, a
+    bearing with no relation. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -168,3 +173,8 @@ The lead filer proposed, and the owner accepted for filing, a qualification of t
 Cook ([THEORY-1998](../theory.d/THEORY-1998.md), point 7) bears on the claim's use in practice: attribution to a root cause reflects "the social, cultural need to blame specific, localized forces or events". That is a reason to doubt that blame usually travels upstream, not an argument that blame traced upstream fails to ground accountability, which is what this claim says. Relation: none.
 
 No status changes.
+
+## Note of 2026-11-22: the Tempe prosecution, read
+<!-- inactive-ok-file: CLAIM-tmp20uni CLAIM-tmp64hmn CLAIM-751 — new or Proposed; filed for LEAD-189 on 2026-11-22, and the claim that complements this one -->
+
+A bearing, with no relation written. On the Tempe crash, the criminal law, one practice of blame, stopped at the operator and declined to charge the company, while the NTSB, barred from blame, traced cause to the company and the state (CLAIM-tmp20uni, complementing CLAIM-751). That is one instance in which blame carried no provenance upstream. It does not deny this claim, which says blame gives provenance "as well", not that it always reaches upstream. CLAIM-tmp64hmn notes that other processes, a settlement and a suspension, did reach the company, though without tracing which of its decisions failed. No status changes.
