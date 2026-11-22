@@ -1,7 +1,8 @@
 """LEAD-172 analysis: the prospective test.
 
-For each arm, the early checkpoint t_e is the memorization step T_mem (first
-row with train acc >= 0.99), long before generalization in these runs.
+The early checkpoint t_e is a fixed step, 250 or 500, the same for every arm
+and before every arm's generalization; training accuracy is already 1 by
+step 100-150 in these runs, so the memorization step does not separate arms.
 Each measure's value at t_e is a single-feature linear forecast of
 log10 T_gen (first step with test acc >= 0.95), fitted by least squares on
 the fit arms (weight decay 1.0) and scored on the held-out-intervention arms
@@ -10,7 +11,7 @@ same two parameters, so complexity is matched.
 
 The null at equal edge budget: the same coupling fraction computed on 20
 random sets of p - 1 off-rule cells (hidden layer) or triads (logits).
-Writes analysis.json.
+Writes analysis_te250.json and analysis_te500.json.
 """
 import glob
 import gzip
@@ -50,14 +51,13 @@ def at(rows, step, need=None):
     return cand[-1] if cand else None
 
 
-def features(rows):
-    t_mem = first(rows, "train_acc", 0.99)
-    r = at(rows, t_mem)
-    rk = at(rows, max(t_mem, 250), need="KA")          # nearest kernel checkpoint
-    rot = [x["K_rot"] for x in rows if x.get("K_rot") is not None and x["step"] <= max(t_mem, 250)]
+def features(rows, t_e):
+    r = at(rows, t_e)
+    rk = at(rows, t_e, need="KA")
+    rot = [x["K_rot"] for x in rows if x.get("K_rot") is not None and x["step"] <= t_e]
     f = {
-        "log_T_mem": np.log10(t_mem),
         "train_loss": np.log10(r["train_loss"]),
+        "test_acc": r["test_acc"],
         "test_loss": r["test_loss"],
         "fourier_energy": r["fourier_energy"],
         "C1sel": np.log10(r["C1sel"]),
@@ -69,7 +69,7 @@ def features(rows):
         f["C1null_%d" % j] = np.log10(v + 1e-12)
     for j, v in enumerate(r["C2null"]):
         f["C2null_%d" % j] = np.log10(v + 1e-12)
-    return t_mem, f
+    return f
 
 
 def fit_predict(x_fit, y_fit, x_ho):
@@ -93,14 +93,15 @@ def spearman(x, y):
     return float(np.corrcoef(rx, ry)[0, 1])
 
 
-def main():
+def main(t_e):
     arms = []
     for path in sorted(glob.glob(os.path.join(STUDY, "results", "*.jsonl.gz"))):
         meta, rows, done = load(path)
         if done is None or done["t_gen"] is None:
             arms.append({"name": meta["name"], "complete": done is not None, "t_gen": None})
             continue
-        t_mem, f = features(rows)
+        t_mem = first(rows, "train_acc", 0.99)
+        f = features(rows, t_e)
         t_c2 = first(rows, "C2", 0.5)
         t_ka = first([r for r in rows if r.get("KA") is not None], "KA", 0.5)
         arms.append({"name": meta["name"], "frac": meta["frac"], "wd": meta["wd"],
@@ -148,8 +149,10 @@ def main():
                  | ({"at_t_mem": {k: a["features"][k] for k in real}} if "features" in a else {})
                  for a in arms],
     }
-    with open(os.path.join(STUDY, "analysis.json"), "w") as fh:
+    out["t_e"] = t_e
+    with open(os.path.join(STUDY, "analysis_te%d.json" % t_e), "w") as fh:
         json.dump(out, fh, indent=1, default=float)
+    print("== early checkpoint t_e =", t_e, "; min T_gen", min(a["t_gen"] for a in ok))
     print("arms", len(arms), "grokked", len(ok), "fit", len(fit), "heldout", len(ho))
     print("constant heldout rmse", const)
     for k in sorted(real, key=lambda k: scores[k]["heldout_rmse"]):
@@ -162,4 +165,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    for t_e in (250, 500):
+        main(t_e)

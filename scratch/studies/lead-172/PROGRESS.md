@@ -15,7 +15,16 @@
 
 - modadd.py (model, training, measures, append-only gz JSONL, resume from
   saved state) and test_modadd.py (4 tests pass).
-- Runs launched 13:05 UTC: 12 fit arms (frac 0.3-0.6 x seeds 0-2, wd 1.0)
+- First launch (lr 3e-3) stopped at 13:07: the machine is shared (load
+  ~17 on 4 cores) and its pace said arms would not grok within budget.
+  Pilots: lr 1e-2, wd 1.0, frac 0.5 groks in ~2k steps (~40 s).
+- Relaunched 13:08 with lr 1e-2: 9 fit arms (frac 0.4/0.5/0.6 x seeds
+  0-2, wd 1.0) and 6 held-out arms (wd 0.5 at frac 0.5/0.6 x seeds 0-1;
+  wd 2.0 at frac 0.5 x seeds 0-1). Earlier plan below superseded.
+- analyze.py written; early checkpoints fixed at steps 250 and 500
+  (memorization happens by step ~100 in every arm, so T_mem does not
+  separate arms).
+- Old: runs launched 13:05 UTC: 12 fit arms (frac 0.3-0.6 x seeds 0-2, wd 1.0)
   and 8 held-out-intervention arms (wd 0.5 and 2.0, frac 0.4/0.5, seeds
   0-1), 4 shards in parallel; estimate ~13 min, limit 30 min.
 
@@ -24,7 +33,9 @@
 - analyze.py: features at memorization step T_mem, single-feature linear
   forecasts of log T_gen fitted on fit arms, scored on held-out arms;
   null couplings at equal edge budget (20 random off-rule sets of p-1).
-- File CASE, CLAIM if warranted, notes, changelog.
+- File CASE (record/cases.d/CASE-tmpb4hg0.md, scaffolded), CLAIM
+  (record/claims.d/CLAIM-tmp6rhuv.md, scaffolded; remove if not
+  warranted), notes, changelog (record/changelog.d/lead-172.md).
 
 ## Choices
 

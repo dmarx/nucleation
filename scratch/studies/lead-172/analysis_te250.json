@@ -1,0 +1,140 @@
+{
+ "n_arms": 6,
+ "n_grokked": 2,
+ "n_fit": 2,
+ "n_heldout": 0,
+ "constant_heldout_rmse": null,
+ "scores": {
+  "train_loss": {
+   "heldout_rmse": NaN,
+   "fit_loo_rmse": 0.2394415066532033,
+   "slope": -33.41567413952652,
+   "spearman_all": -0.9999999999999999
+  },
+  "test_acc": {
+   "heldout_rmse": NaN,
+   "fit_loo_rmse": 0.25122937542534995,
+   "slope": -31.267886214721315,
+   "spearman_all": -0.9999999999999999
+  },
+  "test_loss": {
+   "heldout_rmse": NaN,
+   "fit_loo_rmse": 0.5425852948605224,
+   "slope": 0.16423996501243926,
+   "spearman_all": 0.9999999999999999
+  },
+  "fourier_energy": {
+   "heldout_rmse": NaN,
+   "fit_loo_rmse": 0.36592958696093925,
+   "slope": -2.429607275552502,
+   "spearman_all": -0.9999999999999999
+  },
+  "C1sel": {
+   "heldout_rmse": NaN,
+   "fit_loo_rmse": 0.0493069048927973,
+   "slope": -1.3181246442740338,
+   "spearman_all": -0.9999999999999999
+  },
+  "C2": {
+   "heldout_rmse": NaN,
+   "fit_loo_rmse": 0.2820905316612891,
+   "slope": -0.7401617418384246,
+   "spearman_all": -0.9999999999999999
+  },
+  "KA": {
+   "heldout_rmse": NaN,
+   "fit_loo_rmse": 0.25121005586111433,
+   "slope": -163.28013501302084,
+   "spearman_all": -0.9999999999999999
+  },
+  "K_rot": {
+   "heldout_rmse": NaN,
+   "fit_loo_rmse": 0.24540776367097164,
+   "slope": 52.22954750068483,
+   "spearman_all": 0.9999999999999999
+  }
+ },
+ "null_C1": {
+  "heldout_rmse_median": NaN,
+  "heldout_rmse_min": NaN,
+  "fit_loo_rmse_median": 0.3241868519316973,
+  "n": 20
+ },
+ "null_C2": {
+  "heldout_rmse_median": NaN,
+  "heldout_rmse_min": NaN,
+  "fit_loo_rmse_median": 0.3149685350121991,
+  "n": 20
+ },
+ "rank_C2_among_nulls": 0,
+ "rank_C1sel_among_nulls": 0,
+ "arms": [
+  {
+   "name": "f40_wd100_s0",
+   "complete": false,
+   "t_gen": null
+  },
+  {
+   "name": "f40_wd100_s1",
+   "complete": false,
+   "t_gen": null
+  },
+  {
+   "name": "f40_wd100_s2",
+   "complete": false,
+   "t_gen": null
+  },
+  {
+   "name": "f50_wd100_s0",
+   "frac": 0.5,
+   "wd": 1.0,
+   "seed": 0,
+   "complete": true,
+   "t_gen": 2050,
+   "t_mem": 100,
+   "t_C2_half": null,
+   "t_KA_half": null,
+   "C2_final": 0.48620388970274303,
+   "KA_final": 0.028772643544837686,
+   "at_t_mem": {
+    "train_loss": -1.2829782550241482,
+    "test_acc": 0.00291970802919708,
+    "test_loss": 6.822028135718793,
+    "fourier_energy": 0.35988926693807977,
+    "C1sel": -0.9373345384616383,
+    "C2": -1.2356851279654155,
+    "KA": 0.030734396232274353,
+    "K_rot": 0.442614600636679
+   }
+  },
+  {
+   "name": "f60_wd050_s0",
+   "complete": false,
+   "t_gen": null
+  },
+  {
+   "name": "f60_wd100_s1",
+   "frac": 0.6,
+   "wd": 1.0,
+   "seed": 1,
+   "complete": true,
+   "t_gen": 1150,
+   "t_mem": 100,
+   "t_C2_half": 1300,
+   "t_KA_half": null,
+   "C2_final": 0.5410958693589616,
+   "KA_final": 0.02932951409475141,
+   "at_t_mem": {
+    "train_loss": -1.2754651334975897,
+    "test_acc": 0.010948905109489052,
+    "test_loss": 5.293435380093647,
+    "fourier_energy": 0.4632212017854723,
+    "C1sel": -0.7468699858165331,
+    "C2": -0.8964943720658124,
+    "KA": 0.03227197470550455,
+    "K_rot": 0.43780781917454115
+   }
+  }
+ ],
+ "t_e": 250
+}
