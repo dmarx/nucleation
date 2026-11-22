@@ -91,7 +91,11 @@ From here on, a stop at any moment must lose at most the step in hand.
   seconds until the process exits, does this from a second worktree.
 - Several workers share one machine. Stop a process only by the PID you
   started (save it, for example `echo $! > run.pid`), never with `pkill` or
-  `killall` by name or pattern, which kills other workers' runs. Keep your
+  `killall` by name or pattern, which kills other workers' runs. `$!` can
+  name a wrapper (the shell or `timeout`) rather than the process itself:
+  before relying on the saved PID, check it with `ps -o pid,ppid,cmd` and
+  the process's working directory (`readlink /proc/PID/cwd`), and after a
+  stop check that no child of it is still running. Keep your
   files in a subdirectory of the scratchpad named after your lead, not in
   its root.
 - Estimate the run's time before starting. Give a background run a time

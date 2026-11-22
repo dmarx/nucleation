@@ -1,0 +1,181 @@
+{
+ "thresholds": {
+  "reg_int": 1.9405074183336541,
+  "reg_pas": 1.4731199984557652,
+  "reg_int_report": 1.3162772068900777,
+  "reg_naive": 27.05266173615609,
+  "auth": 1.2672923200938484
+ },
+ "test": {
+  "reg_int": {
+   "auc_registered_vs_not": 1.0,
+   "called_registered_denied": 1.0,
+   "called_registered_unregistered": 0.0,
+   "called_registered_accommodation": 1.0
+  },
+  "reg_pas": {
+   "auc_registered_vs_not": 0.992,
+   "called_registered_denied": 0.925,
+   "called_registered_unregistered": 0.015,
+   "called_registered_accommodation": 0.925
+  },
+  "reg_int_report": {
+   "auc_registered_vs_not": 0.905,
+   "called_registered_denied": 0.695,
+   "called_registered_unregistered": 0.025,
+   "called_registered_accommodation": 0.69
+  },
+  "reg_naive": {
+   "auc_registered_vs_not": 0.88,
+   "called_registered_denied": 0.805,
+   "called_registered_unregistered": 0.24,
+   "called_registered_accommodation": 0.825
+  },
+  "auth": {
+   "auc_accommodation_vs_denied": 0.767,
+   "auc_accommodation_vs_unregistered": 0.767,
+   "called_authority_denied": 0.045,
+   "called_authority_unregistered": 0.045,
+   "called_authority_accommodation": 0.43
+  },
+  "three_way_by_reg_int_and_auth": {
+   "denied": {
+    "denied": 0.955,
+    "unregistered": 0.0,
+    "accommodation": 0.045
+   },
+   "unregistered": {
+    "denied": 0.0,
+    "unregistered": 1.0,
+    "accommodation": 0.0
+   },
+   "accommodation": {
+    "denied": 0.57,
+    "unregistered": 0.0,
+    "accommodation": 0.43
+   }
+  },
+  "three_way_accuracy": 0.795,
+  "spearman_reg_int_vs_g": 0.556
+ },
+ "held_out": {
+  "decoy_interoceptive": {
+   "registered_truth": false,
+   "pursuit_post": 0.609,
+   "called_registered_reg_int": 0.02,
+   "called_registered_reg_pas": 0.77,
+   "called_registered_reg_int_report": 0.04,
+   "called_registered_reg_naive": 0.365,
+   "called_authority": 0.025,
+   "three_way": {
+    "denied": 0.02,
+    "unregistered": 0.98,
+    "accommodation": 0.0
+   }
+  },
+  "direct_authority": {
+   "registered_truth": false,
+   "pursuit_post": 0.61,
+   "called_registered_reg_int": 0.015,
+   "called_registered_reg_pas": 0.025,
+   "called_registered_reg_int_report": 0.06,
+   "called_registered_reg_naive": 0.21,
+   "called_authority": 1.0,
+   "three_way": {
+    "denied": 0.0,
+    "unregistered": 0.985,
+    "accommodation": 0.015
+   }
+  },
+  "weak_registration": {
+   "registered_truth": true,
+   "pursuit_post": 0.609,
+   "called_registered_reg_int": 0.395,
+   "called_registered_reg_pas": 0.1,
+   "called_registered_reg_int_report": 0.205,
+   "called_registered_reg_naive": 0.27,
+   "called_authority": 0.025,
+   "three_way": {
+    "denied": 0.385,
+    "unregistered": 0.605,
+    "accommodation": 0.01
+   }
+  },
+  "habit_persistence": {
+   "registered_truth": true,
+   "pursuit_post": 0.607,
+   "called_registered_reg_int": 1.0,
+   "called_registered_reg_pas": 0.935,
+   "called_registered_reg_int_report": 0.705,
+   "called_registered_reg_naive": 0.79,
+   "called_authority": 0.045,
+   "three_way": {
+    "denied": 0.955,
+    "unregistered": 0.0,
+    "accommodation": 0.045
+   }
+  }
+ },
+ "pursuit": {
+  "denied": [
+   0.846,
+   0.601
+  ],
+  "unregistered": [
+   0.846,
+   0.601
+  ],
+  "accommodation": [
+   0.861,
+   0.599
+  ]
+ },
+ "behaviour": {
+  "item": "behaviour:main",
+  "no_probes": {
+   "rates_during_post": {
+    "denied": [
+     0.852375,
+     0.6065
+    ],
+    "unregistered": [
+     0.852375,
+     0.6065
+    ],
+    "accommodation": [
+     0.87175,
+     0.64675
+    ]
+   },
+   "lda3_behaviour": 0.435,
+   "lda3_behaviour_assay": 0.43666666666666665
+  },
+  "probes": {
+   "rates_during_post": {
+    "denied": [
+     0.8497083333333333,
+     0.60225
+    ],
+    "unregistered": [
+     0.8497083333333333,
+     0.60225
+    ],
+    "accommodation": [
+     0.86375,
+     0.5935
+    ]
+   },
+   "lda3_behaviour": 0.36333333333333334,
+   "lda3_behaviour_assay": 0.49333333333333335
+  }
+ },
+ "b": {
+  "denied": 0.397,
+  "unregistered": 0.397,
+  "accommodation": 0.576,
+  "decoy_interoceptive": 0.397,
+  "direct_authority": 2.5,
+  "weak_registration": 0.397,
+  "habit_persistence": -0.254
+ }
+}

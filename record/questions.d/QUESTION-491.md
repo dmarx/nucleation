@@ -96,3 +96,8 @@ No status change.
 <!-- inactive-ok-file: CLAIM-763 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
 
 ChatGPT (A84) ranks this question specialized in its triage ([CLAIM-763](../claims.d/CLAIM-763.md)): "Identify exact conditions under which topological, predictive, and interventional criteria agree or diverge".
+
+## Note of 2026-11-22: [LEAD-040](../leads.d/LEAD-040.md)'s executed study
+<!-- inactive-ok-file: CASE-tmp2e2a5 CLAIM-tmpwx1cm — new; filed by LEAD-040 on 2026-11-22 -->
+
+[LEAD-040](../leads.d/LEAD-040.md) ran Experiment B on six small one-dimensional Z2-equivariant recurrent lattices, trained to report a quantity set by where the walls in a noisy input are, with frozen random networks as the control ([CASE-tmp2e2a5](../cases.d/CASE-tmp2e2a5.md)). It bears on the question as a partial answer ([CLAIM-tmpwx1cm](../claims.d/CLAIM-tmpwx1cm.md)). Once the input was off, walls, causal-state coherent structures and operative sites agreed, and moving a wall by interchange moved the answer as a wall model predicts (IIA 0.92 to 0.96, against 0.10 to 0.21 for the controls). Local transfer entropy missed the pinned walls. While the input was on, the walls were present but not operative. A closed pair did not shrink unless made shorter than any trained domain. A boundary-forced wall erased by intervention reappeared at the clamped end in four of six networks and not at all in two. Not reached: two-dimensional walls that shrink by line tension, hard boundary conditions, a sweep of the partition thresholds, and Experiment E. No status change.

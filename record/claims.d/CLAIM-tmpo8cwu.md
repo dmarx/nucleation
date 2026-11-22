@@ -33,6 +33,8 @@ bears_on:
 grounds:
 - CASE-tmp99n89
 - THEORY-086
+complements:
+- CLAIM-tmpzujm1
 summary: >-
   The bound NOTE-985 asked for, carried out under LEAD-066. A learner whose
   residual obeys ė = −Ae, with A symmetric positive semidefinite (kernel
