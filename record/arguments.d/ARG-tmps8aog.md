@@ -15,10 +15,10 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  In Park and colleagues' linear model (THEORY-tmphbp5a, NOTE-tmpzethm)
+  In Park and colleagues' linear model ([THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md))
   W(t) = (1−ε)^t W(0) + (1−(1−ε)^t)W*, so the teacher is in the weights from
   the first step, the student converges for every step size below one, and
-  the outlier appears only at a critical time. That is CLAIM-799's "the
+  the outlier appears only at a critical time. That is [CLAIM-799](../claims.d/CLAIM-799.md)'s "the
   signal existed below the threshold", with the weight matrix as the
   estimator. The paper reads the outlier as "the emergence of informative
   representations", the conflation the claim warns against. The wording
@@ -31,7 +31,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-799, from A32 §2: the BBP threshold "is not necessarily the moment
+[CLAIM-799](../claims.d/CLAIM-799.md), from A32 §2: the BBP threshold "is not necessarily the moment
 when the network first learns anything. The signal existed below the
 threshold." Park and colleagues' linear model: the weight covariance is
 σ_t²X̂⊥ + θ_t²ŝ_tŝ_tᵀ, the outlier appears at t_c (eq. 39), and "the critical
@@ -50,14 +50,14 @@ already falling.
   It separates acquisition (the weights' component along the teacher,
   growing from step one) from spectral detectability (an outlier in the
   weight spectrum). The estimator here is the weight matrix's own spectrum,
-  N rows by D columns, not PCA on probe samples as in CLAIM-799's
+  N rows by D columns, not PCA on probe samples as in [CLAIM-799](../claims.d/CLAIM-799.md)'s
   construction, so it is a second instance of the same separation with a
-  different estimator, not the same one. CLAIM-837 makes the parallel point
+  different estimator, not the same one. [CLAIM-837](../claims.d/CLAIM-837.md) makes the parallel point
   for sample PCA of a factored-feature model.
 
 ## Verdict
 
-Supports CLAIM-799 as an independent existence case. It also shows the
+Supports [CLAIM-799](../claims.d/CLAIM-799.md) as an independent existence case. It also shows the
 paper's framing, "the emergence of informative representations is then
 realised by isolated eigenvalues detaching", to read the spectral event as
-the learning event, which CLAIM-799 holds apart. Proposed.
+the learning event, which [CLAIM-799](../claims.d/CLAIM-799.md) holds apart. Proposed.

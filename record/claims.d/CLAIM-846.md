@@ -114,7 +114,7 @@ Goldstone case as a route to scaling without criticality.
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad): **a
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
 parallel.** In V1 the power-law spectrum "arises from correlations between
 cells rather than from the distribution of firing rates or signal
 variance" (Extended Data Fig. 7): a power-law spectrum without heavy-tailed

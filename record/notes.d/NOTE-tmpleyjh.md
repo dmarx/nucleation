@@ -46,7 +46,7 @@ a severe test of it run uniformly over a large corpus from many domains,
 and the conclusion that "the finding that scale-free networks are
 empirically uncommon does imply a generally limited role for any
 mechanism that necessarily produces power-law degree distributions"
-(Discussion). The reading is THEORY-tmphcnj3.
+(Discussion). The reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md).
 
 ## Key results
 
@@ -57,7 +57,7 @@ mechanism that necessarily produces power-law degree distributions"
   Kolmogorov–Smirnov minimization, α by maximum likelihood, plausibility
   at p ≥ 0.1, and Vuong likelihood ratios against exponential,
   lognormal, Weibull and cutoff fits on the same tail: the procedure of
-  LIT-2987, which it cites as standard.
+  [LIT-2987](../literature.d/LIT-2987.md), which it cites as standard.
 - **Categories** (Results, Definitions). "Weakest: For at least 50% of
   graphs, a power-law distribution cannot be rejected (p ≥ 0.1)." Weak
   adds n_tail ≥ 50; Strong adds 2 < α̂ < 3 and Super-Weak; Strongest
@@ -121,7 +121,7 @@ not scale free.
 ## The verdict is disputed
 
 Voitalov, van der Hoorn, van der Hofstad and Krioukov, "Scale-free networks
-well done" (LIT-tmpvmrkv, registered, unread), contest it. Their abstract
+well done" ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md), registered, unread), contest it. Their abstract
 gives the hinge: they define a power-law distribution as a regularly
 varying one, which "allows the distribution to deviate from a pure power
 law arbitrarily but without affecting the power-law tail exponent", and
@@ -129,13 +129,13 @@ conclude that real-world scale-free networks "are definitely not as rare
 as one would conclude based on the popular but unrealistic assumption that
 real-world data comes from power laws of pristine purity". Broido and
 Clauset test a pure power law above k_min; the reply's definition is
-TERM-142's sense 1, P(X > x) = x^(−α)L(x). Which definition is right for a
+[TERM-142](../terms.d/TERM-142.md)'s sense 1, P(X > x) = x^(−α)L(x). Which definition is right for a
 given use is the question; nothing beyond the reply's abstract is relied
 on here.
 
 ## Bearing on the record
 
-- **CLAIM-803** (supports, both halves it touches; qualifies in the
+- **[CLAIM-803](../claims.d/CLAIM-803.md)** (supports, both halves it touches; qualifies in the
   direction the claim allows). The degree distribution is "relatively weak
   evidence when trying to distinguish generating mechanisms"; the method
   fits against the lognormal first. The absence of a power law does
@@ -143,31 +143,31 @@ on here.
   negatively. The three dynamical tests are left open: it asks for a test
   "that goes beyond static degree distributions" and names none. It adds
   the converse, that some preferential attachment does not give a power
-  law. ARG-tmpmt4gj.
-- **CLAIM-841** (does not bear on the thesis; qualifies one folded-in
+  law. [ARG-tmpmt4gj](../arguments.d/ARG-tmpmt4gj.md).
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (does not bear on the thesis; qualifies one folded-in
   bullet). The paper never mentions criticality. It shows a lack of
   evidence for power-law degrees, not that the networks "are not" scale
-  free. ARG-tmp38kft.
-- **CLAIM-817** (a parallel). "Limited role" and "some variations of
+  free. [ARG-tmp38kft](../arguments.d/ARG-tmp38kft.md).
+- **[CLAIM-817](../claims.d/CLAIM-817.md)** (a parallel). "Limited role" and "some variations of
   preferential attachment do not produce power-law degree distributions"
   are the empirical side of the claim's sublinear and superlinear cases.
-- **CLAIM-806** (background). The Weibull is favoured over the power law
+- **[CLAIM-806](../claims.d/CLAIM-806.md)** (background). The Weibull is favoured over the power law
   in 47% of data sets; the paper does not tie it to sublinear attachment.
-- **CLAIM-824**, **CLAIM-830** (parallels). Lognormal-like degree tails
+- **[CLAIM-824](../claims.d/CLAIM-824.md)**, **[CLAIM-830](../claims.d/CLAIM-830.md)** (parallels). Lognormal-like degree tails
   are common; the paper calls for "mechanisms that produce non-scale-free
   structural patterns" and does not name Gibrat or multiplicative growth.
-- **QUESTION-505** (background data). α̂ is concentrated near 2, against
+- **[QUESTION-505](../questions.d/QUESTION-505.md)** (background data). α̂ is concentrated near 2, against
   the Barabási–Albert 3.
-- **TERM-142** (a contrast). "Scale-free network" here is the narrow sense,
+- **[TERM-142](../terms.d/TERM-142.md)** (a contrast). "Scale-free network" here is the narrow sense,
   an exact power law above k_min, not the regularly varying sense 1.
-- **LIT-3004**, **LIT-2968** (qualifies their premise that real networks
+- **[LIT-3004](../literature.d/LIT-3004.md)**, **[LIT-2968](../literature.d/LIT-2968.md)** (qualifies their premise that real networks
   are generally scale free); directed preferential attachment is kept as a
   synthetic control that is correctly classed Strongest.
-- **THEORY-188**, **THEORY-803** (background). The CAIDA Internet graphs
+- **[THEORY-188](../theory.d/THEORY-188.md)**, **[THEORY-803](../theory.d/THEORY-803.md)** (background). The CAIDA Internet graphs
   are among the few Strong networks.
-- **THEORY-2150** (a parallel). The corpus-scale side of Mitzenmacher's
+- **[THEORY-2150](../theory.d/THEORY-2150.md)** (a parallel). The corpus-scale side of Mitzenmacher's
   lognormal-against-power-law confusion.
-- **SYNTHESIS-119** (supports its organizing thesis for network degrees).
+- **[SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)** (supports its organizing thesis for network degrees).
 
 ## Limitations
 

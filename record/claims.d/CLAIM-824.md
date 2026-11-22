@@ -145,27 +145,27 @@ conditions stands. Status unchanged.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is THEORY-tmp6jdas) **supports both halves qualitatively**. Products of random numbers
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports both halves qualitatively**. Products of random numbers
 give a lognormal that can look straight on log scales over orders of
 magnitude, and "random multiplication processes can also generate perfect
 power-law distributions with only a slight modification: if there is a
 lower bound on the value that the product of a set of numbers is allowed
 to take" (§IV.G, p. 24, citing Sornette and Cont, Sornette, and Gabaix).
-It gives no exponent condition (no E[A^κ] = 1). THEORY-tmp6jdas
-`corroborates` the claim. On the name, see TERM-tmpg1vx2 and the note of
-this date on CLAIM-830.
+It gives no exponent condition (no E[A^κ] = 1). [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)
+`corroborates` the claim. On the name, see [TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md) and the note of
+this date on [CLAIM-830](CLAIM-830.md).
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-Clauset, Shalizi and Newman (LIT-2987, read in NOTE-tmphbwdu; the reading is THEORY-tmpw4qgu) **qualifies the claim's empirical reach**. At realistic n the
+Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) **qualifies the claim's empirical reach**. At realistic n the
 lognormal and the power-law tail are "very closely equal" (p. 26) and the
 lognormal is excluded for one data set of 24, so a floor has to be read
-from the dynamics, not from the fitted cross-section; this is CLAIM-803's
+from the dynamics, not from the fitted cross-section; this is [CLAIM-803](CLAIM-803.md)'s
 demand for dynamics. The US-cities row is in the note of this date on
-QUESTION-506. No edge.
+[QUESTION-506](../questions.d/QUESTION-506.md). No edge.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-Broido and Clauset (LIT-2963, read in NOTE-tmpleyjh; the reading is THEORY-tmphcnj3): **a parallel**. Lognormal-like degree tails are common, and the paper
+Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)): **a parallel**. Lognormal-like degree tails are common, and the paper
 names neither Gibrat nor multiplicative growth. No edge. Status
 unchanged.

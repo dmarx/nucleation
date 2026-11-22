@@ -17,10 +17,10 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  CLAIM-799 cites Dandi and colleagues, through A32 §6, for work tying
+  [CLAIM-799](../claims.d/CLAIM-799.md) cites Dandi and colleagues, through A32 §6, for work tying
   learned features to spiked random-matrix models, so that "the spectral
-  perspective is not merely an analogy". The reading (THEORY-tmpcij35,
-  NOTE-tmpdac0o) bears that out for one step: the weights are a bulk plus
+  perspective is not merely an analogy". The reading ([THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md),
+  [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md)) bears that out for one step: the weights are a bulk plus
   a rank-one spike by Lemma 3.1. It also shows learning in the features as
   a wider, longer-tailed bulk, so spectral detectability in the outlier
   sense is not the only spectral signature of learned structure. Nothing in
@@ -33,7 +33,7 @@ summary: >-
 
 ## The inference
 
-A32 §6, in CLAIM-799: such work shows "the spectral perspective is not
+A32 §6, in [CLAIM-799](../claims.d/CLAIM-799.md): such work shows "the spectral perspective is not
 merely an analogy. But they don't establish that DNN representations
 generally behave as active matter, or that their learning dynamics are
 critical." The reading: Lemma 3.1, "the hidden layer weights after one GD
@@ -53,14 +53,14 @@ from the means".
   analogy", yes, within one step on Gaussian single-index data. For
   "active matter" and "critical", the paper is silent, which fits A32's
   "don't establish".
-- **Does the claim lean on it for more than it holds?** CLAIM-799's
+- **Does the claim lean on it for more than it holds?** [CLAIM-799](../claims.d/CLAIM-799.md)'s
   thesis is that spectral detectability, an outlier separating from the
   bulk, is distinct from acquisition. The reading adds a qualification the
   claim lacked: learned structure also shows as a change in the shape of
-  the bulk by count (TERM-tmpf5ymd), so "spectrally undetectable" in the
+  the bulk by count ([TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md)), so "spectrally undetectable" in the
   outlier sense is not "spectrally invisible". The thesis stands; its
   table's third quality needs that rider, now added in place.
 
 ## Verdict
 
-Supports CLAIM-799's citation narrowly and qualifies the claim. Proposed.
+Supports [CLAIM-799](../claims.d/CLAIM-799.md)'s citation narrowly and qualifies the claim. Proposed.

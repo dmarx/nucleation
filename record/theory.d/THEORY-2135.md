@@ -47,7 +47,7 @@ Nothing per layer; nothing about μP; it does not show hidden modules slower tha
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35): **a
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)): **a
 contrast.** Their point is leaving the lazy, random-features regime: "It is
 precisely the presence of such correlated components that enables the
 trained model to surpass the Random Features performance". No relation.

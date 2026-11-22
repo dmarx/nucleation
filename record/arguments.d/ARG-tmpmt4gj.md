@@ -14,15 +14,15 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Whether Broido and Clauset (LIT-2963), read in NOTE-tmpleyjh, carry
-  CLAIM-803, which said, unread, that they "carry the same caution over
+  Whether Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md)), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md), carry
+  [CLAIM-803](../claims.d/CLAIM-803.md), which said, unread, that they "carry the same caution over
   to networks". They do: the degree distribution "represents relatively
   weak evidence when trying to distinguish generating mechanisms", and
   their method fits against the lognormal, which does at least as well in
   88%. They qualify it only as the claim allows, since the absence of a
   power law limits mechanisms that must produce one. They ask for a test
   "that goes beyond static degree distributions" and name none. Their
-  verdict on rarity is disputed (LIT-tmpvmrkv), which bears on how often
+  verdict on rarity is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)), which bears on how often
   networks are scale free, not on the caution the claim takes from them.
   The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -33,7 +33,7 @@ summary: >-
 
 ## The inference
 
-CLAIM-803, for network degree distributions. Ground: THEORY-tmphcnj3.
+[CLAIM-803](../claims.d/CLAIM-803.md), for network degree distributions. Ground: [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md).
 
 ## Critical questions (source)
 
@@ -57,4 +57,4 @@ mechanisms is the paper's own, not a consequence of its tallies.
 
 ## Verdict
 
-Support. THEORY-tmphcnj3 joins the claim's grounds.
+Support. [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md) joins the claim's grounds.

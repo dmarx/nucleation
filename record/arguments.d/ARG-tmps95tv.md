@@ -14,8 +14,8 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Whether Clauset, Shalizi and Newman (LIT-2987), read in NOTE-tmphbwdu,
-  carry CLAIM-803, which cited them unread for its "fit first" clause. They
+  Whether Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md)), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md),
+  carry [CLAIM-803](../claims.d/CLAIM-803.md), which cited them unread for its "fit first" clause. They
   do for that clause: maximum likelihood above a chosen x_min, a
   goodness-of-fit test and likelihood ratios against the lognormal and
   others. They support the first clause only indirectly, since a power law
@@ -30,9 +30,9 @@ summary: >-
 
 ## The inference
 
-CLAIM-803: a power law does not identify its mechanism; read the
+[CLAIM-803](../claims.d/CLAIM-803.md): a power law does not identify its mechanism; read the
 dynamics, after fitting the tail against alternatives such as the
-lognormal. Ground: THEORY-tmpw4qgu.
+lognormal. Ground: [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md).
 
 ## Critical questions (source)
 
@@ -52,7 +52,7 @@ nested test of a cutoff (§5.2) detects one in a sample; it says nothing
 of how it scales.
 
 **Does the claim lean on the reading for more than it holds?** Not as the
-claim is worded, which cites the paper for fitting. ARG-141 did, in
+claim is worded, which cites the paper for fitting. [ARG-141](ARG-141.md) did, in
 resting the dynamical tests partly on this work; corrected there. The
 authors also hold that form "may matter greatly" for inferring mechanisms
 (p. 30), which the claim's "What it does not say" already allows.
@@ -60,4 +60,4 @@ authors also hold that form "may matter greatly" for inferring mechanisms
 ## Verdict
 
 Support for the fitting clause, indirect support for the first clause.
-THEORY-tmpw4qgu replaces LIT-2987 in the claim's grounds.
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md) replaces [LIT-2987](../literature.d/LIT-2987.md) in the claim's grounds.

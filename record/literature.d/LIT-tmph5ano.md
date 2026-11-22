@@ -20,7 +20,7 @@ first_author: 'Coeurdoux'
 keywords: []
 implementations: []
 summary: >-
-  Coeurdoux, Ferré & Bouchaud (2026), Random Matrix Theory of Early-Stopped Gradient Flow: A Transient BBP Scenario, arXiv 2604.18450. Here for Park and colleagues (LIT-2990, NOTE-tmpzethm, ref. 46), who cite it for a transient BBP transition under early-stopped gradient flow, the closest prior to their dynamical BBP transition (THEORY-tmphbp5a). It bears on CLAIM-799 and CLAIM-837: when a learned direction becomes spectrally visible during training. Unverified until read.
+  Coeurdoux, Ferré & Bouchaud (2026), Random Matrix Theory of Early-Stopped Gradient Flow: A Transient BBP Scenario, arXiv 2604.18450. Here for Park and colleagues ([LIT-2990](LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), ref. 46), who cite it for a transient BBP transition under early-stopped gradient flow, the closest prior to their dynamical BBP transition ([THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)). It bears on [CLAIM-799](../claims.d/CLAIM-799.md) and [CLAIM-837](../claims.d/CLAIM-837.md): when a learned direction becomes spectrally visible during training. Unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-tmphbp5a CLAIM-799 CLAIM-837 — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -30,4 +30,4 @@ Coeurdoux, Ferré & Bouchaud (2026). arXiv 2604.18450.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of Park and colleagues (LIT-2990, NOTE-tmpzethm, ref. 46), who cite it for a transient BBP transition under early-stopped gradient flow, the closest prior to their dynamical BBP transition (THEORY-tmphbp5a). It bears on CLAIM-799 and CLAIM-837: when a learned direction becomes spectrally visible during training. Not read.
+Registered on 2026-11-22 from the reading of Park and colleagues ([LIT-2990](LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), ref. 46), who cite it for a transient BBP transition under early-stopped gradient flow, the closest prior to their dynamical BBP transition ([THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)). It bears on [CLAIM-799](../claims.d/CLAIM-799.md) and [CLAIM-837](../claims.d/CLAIM-837.md): when a learned direction becomes spectrally visible during training. Not read.

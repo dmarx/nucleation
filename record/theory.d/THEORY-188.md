@@ -45,7 +45,7 @@ summary: >-
   not show that any real network is hyperbolic, or that hierarchy causes
   heterogeneity.
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; registered and unread -->
 
 # THEORY-188: In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model
@@ -153,10 +153,10 @@ one.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-**Background** (LIT-2963, read in NOTE-tmpleyjh; the reading is
-THEORY-tmphcnj3). The CAIDA autonomous-system graphs, the Internet case,
+**Background** ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is
+[THEORY-tmphcnj3](THEORY-tmphcnj3.md)). The CAIDA autonomous-system graphs, the Internet case,
 are among the few networks with strong evidence of a power-law degree
 distribution in their test (half Strong, half Weakest), so the Internet
 degree law this account's source fits is one of the better-supported
-cases. Their verdict on networks in general is disputed (LIT-tmpvmrkv).
+cases. Their verdict on networks in general is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)).
 No edge.

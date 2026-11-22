@@ -66,7 +66,7 @@ The idea is the owner's; the evidence relayed is the assistant's (Claude, in thi
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad), mouse
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)), mouse
 V1: **a parallel, partly in tension.** Parallel: the top components carry
 coarse, broadly shared structure ("Dimensions 1-2 reveal a coarse,
 1-dimensional organization") and "Successive PC dimensions encode finer
@@ -80,11 +80,11 @@ variance is different from the owner's: more variance there would make
 the code non-smooth and impair generalization, not that those directions
 are noise. A neuroscience and kernel analogue, not evidence about
 unembeddings. Filed from it, as an alternative to the claim's second and
-third parts: CLAIM-tmpufbx6 (ARG-tmptvp76).
+third parts: [CLAIM-tmpufbx6](CLAIM-tmpufbx6.md) ([ARG-tmptvp76](../arguments.d/ARG-tmptvp76.md)).
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35): **leaves
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)): **leaves
 the claim open, with a contrast.** After one large step the feature
 covariance's top outliers come from the features' means, common structure
 in one sense, but those means are functions of the target projection and
@@ -94,7 +94,7 @@ discrimination and has no floor analogue. A contrast, so no relation.
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a): **a
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)): **a
 parallel that qualifies the stop-word half for a different object.** In
 first-layer weights of ReLU MLPs on UTKFace, the leading learned direction
 overlaps the data's first principal component at 0.681 and 0.642 in the
@@ -104,7 +104,7 @@ structure in the data that deviates from the principal components". So
 "the top directions carry common structure" is regime-dependent there. It
 is a first layer, not an unembedding, and it neither confirms nor defeats
 the claim. Filed from it, as an alternative to the claim's first part:
-CLAIM-tmp9atj9 (ARG-tmpun4nl). LEAD-tmptgrc7 now records training regime
+[CLAIM-tmp9atj9](CLAIM-tmp9atj9.md) ([ARG-tmpun4nl](../arguments.d/ARG-tmpun4nl.md)). [LEAD-tmptgrc7](../leads.d/LEAD-tmptgrc7.md) now records training regime
 and stage.
 
 ## Alternatives on file
@@ -112,10 +112,10 @@ and stage.
 Two rival readings in the assistant's voice, each marked as an alternative
 to part of this claim; the owner chooses.
 
-- **(a) CLAIM-tmp9atj9**, against the first part (the stop-word half): top
+- **(a) [CLAIM-tmp9atj9](CLAIM-tmp9atj9.md)**, against the first part (the stop-word half): top
   directions tracking common high-variance structure may mark under-trained
   or large-step regimes that learning reorganizes away from.
-- **(b) CLAIM-tmpufbx6**, against the second and third parts (the floor
+- **(b) [CLAIM-tmpufbx6](CLAIM-tmpufbx6.md)**, against the second and third parts (the floor
   and the band): the fine end may be damped for smoothness, and the
   measured floor may be estimator noise rather than low-signal outliers
   bounding a band.

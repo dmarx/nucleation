@@ -19,24 +19,24 @@ bears_on:
 - QUESTION-507
 - QUESTION-091
 summary: >-
-  Azizpour and colleagues, LIT-2980, read in NOTE-tmporpz2. "Criticality
-  maximizes dynamic range" (Kinouchi and Copelli, LIT-tmpcc25u) becomes
+  Azizpour and colleagues, [LIT-2980](../literature.d/LIT-2980.md), read in [NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md). "Criticality
+  maximizes dynamic range" (Kinouchi and Copelli, [LIT-tmpcc25u](../literature.d/LIT-tmpcc25u.md)) becomes
   "only for infinite integration time": every finite readout window has a
   subcritical optimum, different for the two measures. One transition
   (branching), one task family (discriminating stationary input rates);
   the paper itself says the side of the optimum depends on the task and
-  the transition. Grounds CLAIM-809's window- and task-dependence
-  (ARG-tmp5sgtm).
+  the transition. Grounds [CLAIM-809](../claims.d/CLAIM-809.md)'s window- and task-dependence
+  ([ARG-tmp5sgtm](../arguments.d/ARG-tmp5sgtm.md)).
 ---
-<!-- inactive-ok-file: LIT-tmpcc25u LIT-tmpfn6b8 NOTE-tmporpz2 ARG-tmp5sgtm CLAIM-809 CLAIM-814 — Proposed, Deferred or new; the reading, the works it names and the claims it bears on -->
+<!-- inactive-ok-file: LIT-tmpcc25u LIT-tmpfn6b8 ARG-tmp5sgtm CLAIM-809 CLAIM-814 — Proposed, Deferred or new; the reading, the works it names and the claims it bears on -->
 
 # THEORY-tmpye6xs: Azizpour, Priesemann, Zierenberg and Levina show, analytically in the limits and by simulation between them, that in a random network of stochastic spiking neurons with a branching (absorbing-to-active) transition at λ = 1, a leaky readout with finite integration time T makes both the number of ε-discriminable input rates and a fluctuation-aware dynamic range peak at a subcritical λ* < 1, at different λ* for the two measures, with λ* approaching the critical point as T grows, because critically slowed population fluctuations not averaged out within T blur the readout
 
 ## Source
 
 Azizpour, Priesemann, Zierenberg and Levina, "Finite integration time can
-shift optimal sensitivity away from criticality", LIT-2980, read from the
-arXiv v1 PDF of 2602.09491 in NOTE-tmporpz2.
+shift optimal sensitivity away from criticality", [LIT-2980](../literature.d/LIT-2980.md), read from the
+arXiv v1 PDF of 2602.09491 in [NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md).
 
 ## What was actually shown
 
@@ -64,7 +64,7 @@ What could have failed: at finite T the measures could have peaked at
   side of the transition this optimum lies will, however, depend on both
   the task and the type of phase transition" (p. 4), and at the transition
   to chaos the paper cites the supercritical side as beneficial
-  (Toyoizumi and Abbott, LIT-tmpfn6b8).
+  (Toyoizumi and Abbott, [LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md)).
 - Nothing on memory, nonlinear computation or temporal patterns: the
   task is discriminating stationary input rates.
 - Not Fisher information: the measure is the ideal-observer overlap
@@ -74,8 +74,8 @@ What could have failed: at finite T the measures could have peaked at
 
 ## Connections
 
-Grounds CLAIM-809's window- and task-dependence (ARG-tmp5sgtm). Contrast
-with CLAIM-814: there readout noise pushes the optimum toward the
+Grounds [CLAIM-809](../claims.d/CLAIM-809.md)'s window- and task-dependence ([ARG-tmp5sgtm](../arguments.d/ARG-tmp5sgtm.md)). Contrast
+with [CLAIM-814](../claims.d/CLAIM-814.md): there readout noise pushes the optimum toward the
 transition; here unaveraged internal fluctuations push it away. Bears on
-QUESTION-507 (point 2, which measure) and QUESTION-091 (distance from
+[QUESTION-507](../questions.d/QUESTION-507.md) (point 2, which measure) and [QUESTION-091](../questions.d/QUESTION-091.md) (distance from
 criticality set by the readout).

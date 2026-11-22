@@ -174,22 +174,22 @@ through the claims it corroborates.
 Three readings bear on the account's first thesis, that a power law does
 not identify its mechanism.
 
-- **Newman** (LIT-2976, NOTE-tmpa7yd2, THEORY-tmp6jdas) **supports** it:
+- **Newman** ([LIT-2976](../literature.d/LIT-2976.md), [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md), [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports** it:
   many mechanisms, different ones for different cases, most observed power
   laws probably not from phase transitions. He grounds items 2, 3, 6 and 7
-  of CLAIM-795 and adds four feedback-free mechanisms. He is milder than
+  of [CLAIM-795](../claims.d/CLAIM-795.md) and adds four feedback-free mechanisms. He is milder than
   the account: the Yule process is "the most widely accepted theory" for
   citations, cities and income (p. 19).
-- **Clauset, Shalizi and Newman** (LIT-2987, NOTE-tmphbwdu,
-  THEORY-tmpw4qgu) are the fitting step the account relies on through
-  CLAIM-803; their finding that the lognormal is excluded for one data set
+- **Clauset, Shalizi and Newman** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md),
+  [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) are the fitting step the account relies on through
+  [CLAIM-803](../claims.d/CLAIM-803.md); their finding that the lognormal is excluded for one data set
   of 24 supports the thesis indirectly, and they give no dynamical tests.
-  ARG-141 is corrected accordingly.
-- **Broido and Clauset** (LIT-2963, NOTE-tmpleyjh, THEORY-tmphcnj3)
-  **support** it for network degrees, and do not bear on CLAIM-841's
-  criticality thesis (ARG-tmp38kft). Their verdict that scale-free
-  networks are rare is disputed (LIT-tmpvmrkv), on the definition of a
-  power law (TERM-142).
+  [ARG-141](../arguments.d/ARG-141.md) is corrected accordingly.
+- **Broido and Clauset** ([LIT-2963](../literature.d/LIT-2963.md), [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md), [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md))
+  **support** it for network degrees, and do not bear on [CLAIM-841](../claims.d/CLAIM-841.md)'s
+  criticality thesis ([ARG-tmp38kft](../arguments.d/ARG-tmp38kft.md)). Their verdict that scale-free
+  networks are rare is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)), on the definition of a
+  power law ([TERM-142](../terms.d/TERM-142.md)).
 
 The account's map is unchanged; the three readings now stand where it
 cited unread works.

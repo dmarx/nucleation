@@ -17,23 +17,23 @@ date: '2026-11-22'
 line:
 - learned-structure
 summary: >-
-  CLAIM-848 took Stringer's bound from A29 §7 unread, as "α ≥ 1 + 2/m" for
+  [CLAIM-848](../claims.d/CLAIM-848.md) took Stringer's bound from A29 §7 unread, as "α ≥ 1 + 2/m" for
   a differentiable code, and tabulated participation ratios of a pure
-  power law from rank 1 at that exponent. The reading (THEORY-tmpwtoad,
-  NOTE-tmp923nm) supports the bound and corrects it twice: Theorem 5 gives
+  power law from rank 1 at that exponent. The reading ([THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md),
+  [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md)) supports the bound and corrects it twice: Theorem 5 gives
   λ_n = o(n^(−1−2/d)), strict, so a spectrum exactly at the exponent is
   the limit of smooth codes; and the theorems constrain the tail only. The
   table's numbers stand for what they compute; what the bound licenses is
   narrower. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-848 THEORY-tmpwtoad TERM-136 ARG-130 — Proposed or new; the claim this argues, the reading it applies and the argument it qualifies -->
+<!-- inactive-ok-file: CLAIM-848 THEORY-tmpwtoad ARG-130 — Proposed or new; the claim this argues, the reading it applies and the argument it qualifies -->
 
 # ARG-tmpbad4y: Stringer and colleagues' Supplementary Theorems 4 and 5, applied to the participation-ratio computation, ground its smoothness bound only as a strict bound on the asymptotic tail, so the finite-width table holds for a pure power law at the bound as the limit of smooth codes and does not follow from the bound alone
 
 ## The inference
 
-CLAIM-848 premises: a differentiable code of an m-dimensional stimulus
+[CLAIM-848](../claims.d/CLAIM-848.md) premises: a differentiable code of an m-dimensional stimulus
 manifold has α ≥ α_c = 1 + 2/m, so codes "at Stringer's bound" have a pure
 rank power law j^(−α_c) from rank 1, whose participation ratio at width 768
 is 13 to 29 for m from 10 to 100.
@@ -73,8 +73,8 @@ though" the code is not differentiable. So:
 
 ## Verdict
 
-The reading supports CLAIM-848's premise in corrected form: the bound is
-strict and constrains the tail. CLAIM-848 and ARG-130 are corrected in
+The reading supports [CLAIM-848](../claims.d/CLAIM-848.md)'s premise in corrected form: the bound is
+strict and constrains the tail. [CLAIM-848](../claims.d/CLAIM-848.md) and [ARG-130](ARG-130.md) are corrected in
 place (2026-11-22): codes at the bound are the limit of smooth codes, and
 the table's numbers are for pure power laws from rank 1. The claim's three
 consequences stand for such spectra; for a measured spectrum D_PR must be

@@ -41,7 +41,7 @@ discussed previously; our goal here is to bring them together to create a
 complete procedure" (§1, p. 2). Its own parts are three: x_min by minimum
 Kolmogorov–Smirnov distance (§3.3), a bootstrap test that refits each
 synthetic set (§4.1), and a uniform reanalysis of 24 data sets (§6). The
-reading is THEORY-tmpw4qgu.
+reading is [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md).
 
 ## Key results
 
@@ -114,7 +114,7 @@ with cut-off.
 
 ## Bearing on the record
 
-- **CLAIM-803** (supports "fit first"; supports the first clause in part;
+- **[CLAIM-803](../claims.d/CLAIM-803.md)** (supports "fit first"; supports the first clause in part;
   leaves the dynamical tests open). Box 1 and §5 are the fitting clause.
   The first clause it reaches only indirectly: if a lognormal and a power
   law are "extremely difficult to tell ... apart", the tail cannot pick a
@@ -122,32 +122,32 @@ with cut-off.
   nonstatistical argument". None of the three dynamical tests is here.
   Where forms do separate (the cutoff for fires, quakes, web hits) shape
   narrows the field, as the claim's "What it does not say" allows.
-  ARG-tmps95tv.
-- **ARG-141** (qualifies it). Its sentence that the claim's positive half
+  [ARG-tmps95tv](../arguments.d/ARG-tmps95tv.md).
+- **[ARG-141](../arguments.d/ARG-141.md)** (qualifies it). Its sentence that the claim's positive half
   rests on this paper and on A is right for "fit first" and wrong for
   "read the dynamics", which rests on A alone (corrected there).
-- **QUESTION-506** (leaves it open; a datum). The record's first fitted
+- **[QUESTION-506](../questions.d/QUESTION-506.md)** (leaves it open; a datum). The record's first fitted
   city tail: plausible power law above about 52,000, and the lognormal not
   distinguishable (p = 0.93). See its note of this date.
-- **CLAIM-824** and **CLAIM-830** (qualify their empirical reach). At
+- **[CLAIM-824](../claims.d/CLAIM-824.md)** and **[CLAIM-830](../claims.d/CLAIM-830.md)** (qualify their empirical reach). At
   realistic n a lognormal and a power-law tail are "very closely equal",
   so a floor, or attachment with entry, has to be read from the dynamics,
   not from the fitted cross-section.
-- **CLAIM-806** (qualifies its empirical use). The stretched exponential is
+- **[CLAIM-806](../claims.d/CLAIM-806.md)** (qualifies its empirical use). The stretched exponential is
   plausible beside the power law for nine data sets; the sublinear-against-
   linear distinction is one finite cross-sections often cannot make.
-- **CLAIM-841** (a parallel). The cutoff form is favoured for fires,
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (a parallel). The cutoff form is favoured for fires,
   quakes and flares, the classic self-organized-criticality cases, and the
   pure power law is rejected for earthquakes.
-- **CLAIM-821** (a parallel). The bootstrap scores the data against a null
+- **[CLAIM-821](../claims.d/CLAIM-821.md)** (a parallel). The bootstrap scores the data against a null
   fitted to the same data by "the same calculation".
-- **LEAD-209** and **LEAD-211** (method). The nested likelihood ratio of a
+- **[LEAD-209](../leads.d/LEAD-209.md)** and **[LEAD-211](../leads.d/LEAD-211.md)** (method). The nested likelihood ratio of a
   power law against one with an exponential cutoff (§5.2) detects a cutoff
   in one sample; nothing here on how a cutoff scales with system size.
-- **NOTE-317** (method source). Its fit of the spectral tail is this
+- **[NOTE-317](NOTE-317.md)** (method source). Its fit of the spectral tail is this
   paper's method; the paper's warnings apply to it.
-- **SYNTHESIS-119**: the fitting step it relies on through CLAIM-803.
-- **LIT-2963**: the successor that applies the method to networks.
+- **[SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md)**: the fitting step it relies on through [CLAIM-803](../claims.d/CLAIM-803.md).
+- **[LIT-2963](../literature.d/LIT-2963.md)**: the successor that applies the method to networks.
 
 ## Limitations
 

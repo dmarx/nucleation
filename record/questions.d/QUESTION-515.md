@@ -76,7 +76,7 @@ layer width ([CLAIM-842](../claims.d/CLAIM-842.md); the senses are [TERM-136](..
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a): **leaves
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)): **leaves
 the question open.** The paper establishes a BBP outlier transition in a
 solvable training model and speaks of "the notion of criticality arising
 during optimisation itself", but says nothing of active matter and leaves
@@ -85,7 +85,7 @@ learning systems" unclear.
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35): **leaves
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)): **leaves
 the question open.** One gradient step and no dynamics; the spiked picture
 of learned features is a theorem there, which supports only the claim that
-the spectral perspective is not merely an analogy (CLAIM-799).
+the spectral perspective is not merely an analogy ([CLAIM-799](../claims.d/CLAIM-799.md)).

@@ -22,7 +22,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-163 LIT-1028 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-<!-- inactive-ok-file: NOTE-tmporpz2 THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
 
 # QUESTION-091: Does the allocation of influence among an organization's processes regulate how far cascades of activity propagate, holding different subsystems at different distances from criticality, as a branching ratio would show?
 
@@ -79,8 +79,8 @@ framing. The status is unchanged.
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-A parallel from neural networks, at the same transition (NOTE-tmporpz2,
-THEORY-tmpye6xs, which `bears_on` this question). In a random network
+A parallel from neural networks, at the same transition ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md),
+[THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md), which `bears_on` this question). In a random network
 whose branching parameter λ is its largest eigenvalue, the best distance
 from criticality for discriminating inputs is set by the readout's
 integration window: subcritical for every finite window, approaching

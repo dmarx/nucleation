@@ -31,14 +31,14 @@ summary: >-
 
 ## The inference
 
-THEORY-tmpwtoad: "Successive PC dimensions encode finer stimulus
+[THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md): "Successive PC dimensions encode finer stimulus
 features"; "the rate of eigenspectrum decay can be seen as a smoothing
 parameter"; the resolved range ends at about half the number of stimuli,
 below which "the remaining eigenvectors correspond to or are corrupted by
 additive noise". By analogy, in a learned spectrum discrimination per unit
 grows toward the fine end, the fine end's low variance is the price of
 generalization, and the floor below the "band" is where the estimator
-stops resolving it: CLAIM-tmpufbx6.
+stops resolving it: [CLAIM-tmpufbx6](../claims.d/CLAIM-tmpufbx6.md).
 
 ## Critical questions
 
@@ -50,7 +50,7 @@ stops resolving it: CLAIM-tmpufbx6.
   unembedding's, a weight matrix, not a population response to stimuli,
   and its discriminating measure is Xu's per-direction effect on
   predictions, not tuning. Xu's Qwen floor comes from normalization
-  coordinates with near-zero weight (ARG-tmpabk16), a property of the
+  coordinates with near-zero weight ([ARG-tmpabk16](ARG-tmpabk16.md)), a property of the
   model, which the rival must treat as an exception with its own mechanism.
   Stringer's noise floor is removed by cross-validation; an unembedding is
   measured without trial noise, so its floor, if any, is not this one
@@ -60,6 +60,6 @@ stops resolving it: CLAIM-tmpufbx6.
 
 ## Verdict
 
-A weak analogy that makes CLAIM-tmpufbx6 a live alternative to part of
-CLAIM-tmp2r6ur; it does not prefer it, and Xu's Qwen evidence tells
+A weak analogy that makes [CLAIM-tmpufbx6](../claims.d/CLAIM-tmpufbx6.md) a live alternative to part of
+[CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md); it does not prefer it, and Xu's Qwen evidence tells
 against it where it applies. Proposed.

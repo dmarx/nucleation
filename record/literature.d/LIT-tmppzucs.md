@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-22, not read. Registered while filing Newman's review (LIT-2976), which the record now relies on for random typing as a mechanism with no rich-get-richer feedback, which CLAIM-795's catalogue lacks. No reading was attempted; a lawful copy has not been sought.
+  filed 2026-11-22, not read. Registered while filing Newman's review ([LIT-2976](LIT-2976.md)), which the record now relies on for random typing as a mechanism with no rich-get-richer feedback, which [CLAIM-795](../claims.d/CLAIM-795.md)'s catalogue lacks. No reading was attempted; a lawful copy has not been sought.
 title: 'Some Effects of Intermittent Silence'
 version: 1
 history:
@@ -19,14 +19,14 @@ first_author: 'Miller'
 keywords: []
 implementations: []
 summary: >-
-  Miller (1957), Some effects of intermittent silence, American Journal of Psychology 70, 311–314, DOI 10.2307/1419346. Random typing: letters and a space struck at random give a power law in word frequencies by rank, as Newman (LIT-2976, §IV.A) and Mitzenmacher (LIT-3003, §6) report it. Here for random typing as a mechanism with no rich-get-richer feedback, which CLAIM-795's catalogue lacks. Unverified until read.
+  Miller (1957), Some effects of intermittent silence, American Journal of Psychology 70, 311–314, DOI 10.2307/1419346. Random typing: letters and a space struck at random give a power law in word frequencies by rank, as Newman ([LIT-2976](LIT-2976.md), §IV.A) and Mitzenmacher ([LIT-3003](LIT-3003.md), §6) report it. Here for random typing as a mechanism with no rich-get-richer feedback, which [CLAIM-795](../claims.d/CLAIM-795.md)'s catalogue lacks. Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-795 — Proposed; the catalogue claim this work would extend -->
 
 # LIT-tmppzucs: Some Effects of Intermittent Silence
 
-Miller (1957), Some effects of intermittent silence, American Journal of Psychology 70, 311–314, DOI 10.2307/1419346. Random typing: letters and a space struck at random give a power law in word frequencies by rank, as Newman (LIT-2976, §IV.A) and Mitzenmacher (LIT-3003, §6) report it.
+Miller (1957), Some effects of intermittent silence, American Journal of Psychology 70, 311–314, DOI 10.2307/1419346. Random typing: letters and a space struck at random give a power law in word frequencies by rank, as Newman ([LIT-2976](LIT-2976.md), §IV.A) and Mitzenmacher ([LIT-3003](LIT-3003.md), §6) report it.
 
 ## Standing in the record
 
-Registered on 2026-11-22 while filing Newman's review (LIT-2976), which names it. The record relies on it for random typing as a mechanism with no rich-get-richer feedback, which CLAIM-795's catalogue lacks. Not read.
+Registered on 2026-11-22 while filing Newman's review ([LIT-2976](LIT-2976.md)), which names it. The record relies on it for random typing as a mechanism with no rich-get-richer feedback, which [CLAIM-795](../claims.d/CLAIM-795.md)'s catalogue lacks. Not read.

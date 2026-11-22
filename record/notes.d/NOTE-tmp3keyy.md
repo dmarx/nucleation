@@ -84,7 +84,7 @@ collective behaviour, not for one-parameter-at-a-time experiments).
   great many models from various branches of science, this manifold has a
   characteristic shape we term a hyperribbon."
 - **The bound** (§3, restating Quinn, Wilber, Townsend and Sethna 2019,
-  LIT-tmpmksrk): "rigorous bounds ... for the special case of a
+  [LIT-tmpmksrk](../literature.d/LIT-tmpmksrk.md)): "rigorous bounds ... for the special case of a
   multiparameter nonlinear least-squares model"; "The proof relies on the
   smoothness of the predictions as the experimental controls ... are
   varied." With Taylor coefficients |a_k| ≤ 1, the manifold lies within
@@ -145,32 +145,32 @@ collective behaviour, not for one-parameter-at-a-time experiments).
 
 ## Connections
 
-§3 restates LIT-tmpmksrk (registered from this reading, Deferred). §6
-restates Machta and colleagues 2013 (LIT-1299) and Raju, Machta and Sethna
-2018 (THEORY-742), and its metric flow matches THEORY-777's b^(2y−d); the
-hopping model is THEORY-774's. The earlier papers of the programme the
-record holds are LIT-2977, LIT-3009, LIT-2994 and LIT-2999.
+§3 restates [LIT-tmpmksrk](../literature.d/LIT-tmpmksrk.md) (registered from this reading, Deferred). §6
+restates Machta and colleagues 2013 ([LIT-1299](../literature.d/LIT-1299.md)) and Raju, Machta and Sethna
+2018 ([THEORY-742](../theory.d/THEORY-742.md)), and its metric flow matches [THEORY-777](../theory.d/THEORY-777.md)'s b^(2y−d); the
+hopping model is [THEORY-774](../theory.d/THEORY-774.md)'s. The earlier papers of the programme the
+record holds are [LIT-2977](../literature.d/LIT-2977.md), [LIT-3009](../literature.d/LIT-3009.md), [LIT-2994](../literature.d/LIT-2994.md) and [LIT-2999](../literature.d/LIT-2999.md).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpx26x7. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md). Dated notes of 2026-11-22 on each entry below.
 
-- **TERM-135**: supports the definition and condition 1; adds the
+- **[TERM-135](../terms.d/TERM-135.md)**: supports the definition and condition 1; adds the
   rigorous bound for smooth least-squares models and the review's own
   interior singularities ("tip of a cone"). Made in place there.
-- **TERM-140**: supports chart and design relativity and the separation
+- **[TERM-140](../terms.d/TERM-140.md)**: supports chart and design relativity and the separation
   from structural non-identifiability; the review's "sloppy" needs widths
   as well as eigenvalues; "roughly equally spaced in log" is a fixed-step
   reading beside the term's density reading. Made in place there.
-- **CLAIM-820**: supports, with the qualification that sloppiness gives a
+- **[CLAIM-820](../claims.d/CLAIM-820.md)**: supports, with the qualification that sloppiness gives a
   low-dimensional description only relative to the precision demanded
-  (ARG-tmp6xwk9). The reading replaces LIT-2958 in its grounds.
-- **QUESTION-517**: the ΛCDM case and the Ising sentence make each
+  ([ARG-tmp6xwk9](../arguments.d/ARG-tmp6xwk9.md)). The reading replaces [LIT-2958](../literature.d/LIT-2958.md) in its grounds.
+- **[QUESTION-517](../questions.d/QUESTION-517.md)**: the ΛCDM case and the Ising sentence make each
   effective dimension relative to a question and a precision.
-- **CLAIM-813**: corroborates (practical vs structural identifiability).
-- **CLAIM-812**: parallel, in prior terms. **CASE-302**: supports (the
-  fold). **THEORY-742, THEORY-774, THEORY-777, LIT-1299**: restated, no
-  change. **THEORY-087, THEORY-081**: parallel. **CLAIM-825** (filer B's):
+- **[CLAIM-813](../claims.d/CLAIM-813.md)**: corroborates (practical vs structural identifiability).
+- **[CLAIM-812](../claims.d/CLAIM-812.md)**: parallel, in prior terms. **[CASE-302](../cases.d/CASE-302.md)**: supports (the
+  fold). **[THEORY-742](../theory.d/THEORY-742.md), [THEORY-774](../theory.d/THEORY-774.md), [THEORY-777](../theory.d/THEORY-777.md), [LIT-1299](../literature.d/LIT-1299.md)**: restated, no
+  change. **[THEORY-087](../theory.d/THEORY-087.md), [THEORY-081](../theory.d/THEORY-081.md)**: parallel. **[CLAIM-825](../claims.d/CLAIM-825.md)** (filer B's):
   qualitative support, reported to the lead.
 
 Nothing here is filed as an instruction for machine-learning practice.

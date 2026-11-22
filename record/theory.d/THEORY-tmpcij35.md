@@ -15,11 +15,11 @@ date: '2026-11-22'
 source:
 - LIT-2983
 summary: >-
-  Dandi and colleagues, LIT-2983, read in NOTE-tmpdac0o. The spike of one
+  Dandi and colleagues, [LIT-2983](../literature.d/LIT-2983.md), read in [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md). The spike of one
   large gradient step is in the weights; in the features, learning shows
   chiefly as a reshaped bulk, with outliers from the means. Grounds
-  CLAIM-799's narrow point that the spiked picture of learned features is
-  a theorem, and qualifies it (ARG-tmp2mzk1).
+  [CLAIM-799](../claims.d/CLAIM-799.md)'s narrow point that the spiked picture of learned features is
+  a theorem, and qualifies it ([ARG-tmp2mzk1](../arguments.d/ARG-tmp2mzk1.md)).
 ---
 <!-- inactive-ok-file: CLAIM-799 ARG-tmp2mzk1 — Proposed or new; the claim this reading bears on and the argument for its support -->
 
@@ -29,8 +29,8 @@ summary: >-
 
 Dandi, Pesce, Cui, Krzakala, Lu and Loureiro, "A Random Matrix Theory
 Perspective on the Spectrum of Learned Features and Asymptotic
-Generalization Capabilities", arXiv 2410.18938, LIT-2983, read in
-NOTE-tmpdac0o.
+Generalization Capabilities", arXiv 2410.18938, [LIT-2983](../literature.d/LIT-2983.md), read in
+[NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md).
 
 ## What was actually shown
 

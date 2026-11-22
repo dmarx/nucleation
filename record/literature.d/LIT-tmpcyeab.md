@@ -20,7 +20,7 @@ first_author: 'Wang'
 keywords: []
 implementations: []
 summary: >-
-  Wang, Engel, Sarwate, Dumitriu & Chiang (2022; NeurIPS 36), Spectral Evolution and Invariance in Linear-width Neural Networks, arXiv 2211.06506. Here for Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, §5), who cite it, with Martin and Mahoney, for the empirical observation that "heavier tails can emerge after feature learning, a behaviour which further tends to correlate with better generalization". It bears on CLAIM-832 and on the reshaped-bulk qualification of CLAIM-799. Unverified until read.
+  Wang, Engel, Sarwate, Dumitriu & Chiang (2022; NeurIPS 36), Spectral Evolution and Invariance in Linear-width Neural Networks, arXiv 2211.06506. Here for Dandi and colleagues ([LIT-2983](LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), §5), who cite it, with Martin and Mahoney, for the empirical observation that "heavier tails can emerge after feature learning, a behaviour which further tends to correlate with better generalization". It bears on [CLAIM-832](../claims.d/CLAIM-832.md) and on the reshaped-bulk qualification of [CLAIM-799](../claims.d/CLAIM-799.md). Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-832 CLAIM-799 — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -30,4 +30,4 @@ Wang, Engel, Sarwate, Dumitriu & Chiang (2022; NeurIPS 36). arXiv 2211.06506.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, §5), who cite it, with Martin and Mahoney, for the empirical observation that "heavier tails can emerge after feature learning, a behaviour which further tends to correlate with better generalization". It bears on CLAIM-832 and on the reshaped-bulk qualification of CLAIM-799. Not read.
+Registered on 2026-11-22 from the reading of Dandi and colleagues ([LIT-2983](LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), §5), who cite it, with Martin and Mahoney, for the empirical observation that "heavier tails can emerge after feature learning, a behaviour which further tends to correlate with better generalization". It bears on [CLAIM-832](../claims.d/CLAIM-832.md) and on the reshaped-bulk qualification of [CLAIM-799](../claims.d/CLAIM-799.md). Not read.

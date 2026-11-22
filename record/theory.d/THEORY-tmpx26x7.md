@@ -19,16 +19,16 @@ corroborates:
 bears_on:
 - QUESTION-517
 summary: >-
-  The 2023 review of the sloppy-model programme, LIT-2958, read in
-  NOTE-tmp3keyy. Its sharp edges: "sloppy" needs widths as well as
+  The 2023 review of the sloppy-model programme, [LIT-2958](../literature.d/LIT-2958.md), read in
+  [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md). Its sharp edges: "sloppy" needs widths as well as
   eigenvalues to be hierarchical; ΛCDM is sloppy and yet fully determined,
   because sloppiness is low-dimensional only against a demanded precision;
   the rigorous bound is for smooth least-squares models, restated from the
-  2019 paper (LIT-tmpmksrk, Deferred); and the review offers no single
-  account of why simple effective theories exist. It grounds CLAIM-820
-  (ARG-tmp6xwk9) and is drawn on by TERM-135 and TERM-140.
+  2019 paper ([LIT-tmpmksrk](../literature.d/LIT-tmpmksrk.md), Deferred); and the review offers no single
+  account of why simple effective theories exist. It grounds [CLAIM-820](../claims.d/CLAIM-820.md)
+  ([ARG-tmp6xwk9](../arguments.d/ARG-tmp6xwk9.md)) and is drawn on by [TERM-135](../terms.d/TERM-135.md) and [TERM-140](../terms.d/TERM-140.md).
 ---
-<!-- inactive-ok-file: LIT-tmpmksrk NOTE-tmp3keyy ARG-tmp6xwk9 CLAIM-820 CLAIM-813 TERM-135 TERM-140 THEORY-777 — Proposed, Deferred or new; the reading, the work it restates and the entries it bears on -->
+<!-- inactive-ok-file: LIT-tmpmksrk ARG-tmp6xwk9 CLAIM-820 CLAIM-813 TERM-135 TERM-140 THEORY-777 — Proposed, Deferred or new; the reading, the work it restates and the entries it bears on -->
 
 # THEORY-tmpx26x7: Quinn, Abbott, Transtrum, Machta and Sethna call a model sloppy, and its model manifold a hyperribbon, when its Fisher eigenvalues and geodesic widths are both hierarchical, roughly evenly spaced in log over several decades; they present the ubiquity of this shape as empirical, bound it rigorously only for least-squares models smooth in their control variables, hold that it gives a low-dimensional description only where many widths fall below the precision demanded, and say that its explanations in renormalizable physics and in least-squares fitting seem completely different
 
@@ -36,8 +36,8 @@ summary: >-
 
 Quinn, Abbott, Transtrum, Machta and Sethna, "Information geometry for
 multiparameter models: New perspectives on the origin of simplicity",
-Rep. Prog. Phys. (2023), LIT-2958, read from the arXiv e-print 2111.07176
-in NOTE-tmp3keyy.
+Rep. Prog. Phys. (2023), [LIT-2958](../literature.d/LIT-2958.md), read from the arXiv e-print 2111.07176
+in [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md).
 
 ## What was actually shown
 
@@ -75,7 +75,7 @@ cost Hessian remains sloppy").
 
 ## Connections
 
-Grounds CLAIM-820, with the precision qualification (ARG-tmp6xwk9).
-Corroborates CLAIM-813 (practical vs structural identifiability). Bears on
-QUESTION-517. Drawn on by TERM-135 and TERM-140. Restates LIT-1299,
-THEORY-742, THEORY-774 and THEORY-777 in §6.
+Grounds [CLAIM-820](../claims.d/CLAIM-820.md), with the precision qualification ([ARG-tmp6xwk9](../arguments.d/ARG-tmp6xwk9.md)).
+Corroborates [CLAIM-813](../claims.d/CLAIM-813.md) (practical vs structural identifiability). Bears on
+[QUESTION-517](../questions.d/QUESTION-517.md). Drawn on by [TERM-135](../terms.d/TERM-135.md) and [TERM-140](../terms.d/TERM-140.md). Restates [LIT-1299](../literature.d/LIT-1299.md),
+[THEORY-742](THEORY-742.md), [THEORY-774](THEORY-774.md) and [THEORY-777](THEORY-777.md) in §6.

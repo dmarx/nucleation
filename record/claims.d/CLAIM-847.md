@@ -67,7 +67,7 @@ layer gives D_PR ≈ 20 ([TERM-136](../terms.d/TERM-136.md)).
 
 **Power-law spectra set how it scales.** A29 §7 recalls covariance spectra
 λ_j ∝ j^(−α), observed in neural population responses (Stringer and
-colleagues, LIT-2972, read 2026-11-22 as THEORY-tmpwtoad), with residual
+colleagues, [LIT-2972](../literature.d/LIT-2972.md), read 2026-11-22 as [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)), with residual
 variance beyond rank k ∝ k^(1−α) for α > 1. A30 §5 then gives, for
 D_PR = (Σ_(j≤D) j^(−α))²/Σ_(j≤D) j^(−2α):
 
@@ -123,11 +123,11 @@ of Stringer updated to the reading.
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues (LIT-2972) were read (NOTE-tmp923nm,
-THEORY-tmpwtoad). **Supports the attribution, as background.** The
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md)) were read ([NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md),
+[THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)). **Supports the attribution, as background.** The
 spectrum is a power law with exponent "just above 1 (1.04±0.02 SE ...)",
 fitted over ranks 11 to 500, and the residual variance k^(1−α) is the
 tail-sum device of the supplement's Theorem 4. **Adds** the restriction
 above: Corollary 3.1 rules out α ≤ 1 asymptotically for codes keeping
-finite variance with a continuous kernel. CLAIM-848's use of the bound is
-corrected in place to its strict, tail-only form (ARG-tmpbad4y).
+finite variance with a continuous kernel. [CLAIM-848](CLAIM-848.md)'s use of the bound is
+corrected in place to its strict, tail-only form ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)).

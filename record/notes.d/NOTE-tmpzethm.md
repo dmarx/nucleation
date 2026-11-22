@@ -121,32 +121,32 @@ and the outlier appears partway along it.
 
 ## Connections
 
-Coeurdoux, Ferré and Bouchaud's transient BBP scenario (LIT-tmph5ano) and
+Coeurdoux, Ferré and Bouchaud's transient BBP scenario ([LIT-tmph5ano](../literature.d/LIT-tmph5ano.md)) and
 Ben Arous, Gheissari, Huang and Jagannath's spectral alignment of SGD
-(LIT-tmp810d2) are registered from this reading. Dandi and colleagues
-(LIT-2983) and Wang, Wu and Fan (LIT-2984) are cited as prior BBP-in-networks
-work. The load–temperature phase diagram of THEORY-108 is a parallel
-hyperparameter phase diagram; THEORY-tmpthmd7's low-curvature bulk is a
+([LIT-tmp810d2](../literature.d/LIT-tmp810d2.md)) are registered from this reading. Dandi and colleagues
+([LIT-2983](../literature.d/LIT-2983.md)) and Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md)) are cited as prior BBP-in-networks
+work. The load–temperature phase diagram of [THEORY-108](../theory.d/THEORY-108.md) is a parallel
+hyperparameter phase diagram; [THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md)'s low-curvature bulk is a
 parallel to the paper's Σ ∼ F/h², large fluctuations in soft directions.
 
 ## Bearing on the record
 
-Filed as THEORY-tmphbp5a. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md). Dated notes of 2026-11-22 on each entry below.
 
-- **CLAIM-799**: supports, from inside the work: the signal is in W before
+- **[CLAIM-799](../claims.d/CLAIM-799.md)**: supports, from inside the work: the signal is in W before
   the outlier appears; the paper's own framing reads the outlier as "the
   emergence of informative representations", the conflation the claim
-  warns against (ARG-tmps8aog). The identifier is confirmed.
-- **CLAIM-tmp2r6ur**: parallel, and the source of the rival reading
-  CLAIM-tmp9atj9 (ARG-tmpun4nl): top directions tracking the data's leading
+  warns against ([ARG-tmps8aog](../arguments.d/ARG-tmps8aog.md)). The identifier is confirmed.
+- **[CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md)**: parallel, and the source of the rival reading
+  [CLAIM-tmp9atj9](../claims.d/CLAIM-tmp9atj9.md) ([ARG-tmpun4nl](../arguments.d/ARG-tmpun4nl.md)): top directions tracking the data's leading
   principal components belong here to the large-step regime that converges
   to a worse minimum.
-- **LEAD-tmptgrc7**: the test should record the training regime and stage.
-- **CLAIM-837**, **CLAIM-827** (parallel: learning precedes spectral
-  detection), **CLAIM-804** (parallel: the load plays the sample ratio's
-  part), **CLAIM-832** (background: schematic heavy tails),
-  **QUESTION-515** (leaves open), **TERM-tmpf5ymd** (an instance of bulk by
-  count), **THEORY-108**, **THEORY-tmpthmd7** (parallel).
+- **[LEAD-tmptgrc7](../leads.d/LEAD-tmptgrc7.md)**: the test should record the training regime and stage.
+- **[CLAIM-837](../claims.d/CLAIM-837.md)**, **[CLAIM-827](../claims.d/CLAIM-827.md)** (parallel: learning precedes spectral
+  detection), **[CLAIM-804](../claims.d/CLAIM-804.md)** (parallel: the load plays the sample ratio's
+  part), **[CLAIM-832](../claims.d/CLAIM-832.md)** (background: schematic heavy tails),
+  **[QUESTION-515](../questions.d/QUESTION-515.md)** (leaves open), **[TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md)** (an instance of bulk by
+  count), **[THEORY-108](../theory.d/THEORY-108.md)**, **[THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md)** (parallel).
 
 Nothing here is filed as an instruction for machine-learning practice.
 

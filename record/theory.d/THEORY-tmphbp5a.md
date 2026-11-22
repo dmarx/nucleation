@@ -17,15 +17,15 @@ source:
 corroborates:
 - CLAIM-837
 summary: >-
-  Park and colleagues, LIT-2990, read in NOTE-tmpzethm. A dynamical
+  Park and colleagues, [LIT-2990](../literature.d/LIT-2990.md), read in [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md). A dynamical
   reading of the BBP transition: the outlier's appearance in the weight
   spectrum is a matter of step size and time, while the signal is in the
   weights from the first step. Its UTKFace experiments find the leading
   first-layer directions tracking the data's principal components only in
-  the large-step regime. Grounds CLAIM-799 (ARG-tmps8aog) and the rival
-  reading CLAIM-tmp9atj9 (ARG-tmpun4nl).
+  the large-step regime. Grounds [CLAIM-799](../claims.d/CLAIM-799.md) ([ARG-tmps8aog](../arguments.d/ARG-tmps8aog.md)) and the rival
+  reading [CLAIM-tmp9atj9](../claims.d/CLAIM-tmp9atj9.md) ([ARG-tmpun4nl](../arguments.d/ARG-tmpun4nl.md)).
 ---
-<!-- inactive-ok-file: CLAIM-799 CLAIM-837 ARG-tmps8aog CLAIM-tmp9atj9 ARG-tmpun4nl — Proposed or new; the claims this reading bears on and the arguments for its support -->
+<!-- inactive-ok-file: CLAIM-799 ARG-tmps8aog CLAIM-tmp9atj9 ARG-tmpun4nl — Proposed or new; the claims this reading bears on and the arguments for its support -->
 
 # THEORY-tmphbp5a: Park, Bocchi, D'Amico, Lucini and Aarts show, exactly for a linear rank-1 teacher–student model under full-batch gradient descent and heuristically for nonlinear, finite-data and stochastic extensions, that training shrinks the weight covariance's random bulk while growing a spike, so an outlier aligned with the teacher detaches by a BBP transition at a critical step size or a critical time set by the step size and the initial weight variance, while the student converges for every step size below one whether or not the outlier has yet appeared
 
@@ -33,7 +33,7 @@ summary: >-
 
 Park, Bocchi, D'Amico, Lucini and Aarts, "Spectral phase transitions and
 trainability in neural network learning dynamics", arXiv 2606.28486v1,
-LIT-2990, read in NOTE-tmpzethm.
+[LIT-2990](../literature.d/LIT-2990.md), read in [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md).
 
 ## What was actually shown
 

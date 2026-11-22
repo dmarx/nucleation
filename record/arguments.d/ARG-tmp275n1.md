@@ -14,15 +14,15 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Whether Newman's review (LIT-2976), cited unread in CLAIM-815's grounds,
+  Whether Newman's review ([LIT-2976](../literature.d/LIT-2976.md)), cited unread in [CLAIM-815](../claims.d/CLAIM-815.md)'s grounds,
   carries the claim that the shared 3/2 comes from one identity. It does
   not: Newman derives the walk's 3/2 by generating functions (§IV.C) and
   never mentions branching processes, the cycle lemma or Dwass's formula.
   It gives one side of the coincidence and nothing on the link. Rejected
-  as a route; LIT-2976 leaves the claim's grounds and its reading
+  as a route; [LIT-2976](../literature.d/LIT-2976.md) leaves the claim's grounds and its reading
   corroborates only the walk's exponent. Standing of the conclusion apart
-  from this route: CLAIM-815 holds it on its own derivation, checked with
-  python3 -I, and on CASE-303; no read source states the identity. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+  from this route: [CLAIM-815](../claims.d/CLAIM-815.md) holds it on its own derivation, checked with
+  python3 -I, and on [CASE-303](../cases.d/CASE-303.md); no read source states the identity. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-815 THEORY-tmp6jdas CASE-303 — Proposed; the claim, the reading and the case it rests on -->
 
@@ -30,10 +30,10 @@ summary: >-
 
 ## The inference
 
-CLAIM-815: the 3/2 of critical branching and of first passage both come
+[CLAIM-815](../claims.d/CLAIM-815.md): the 3/2 of critical branching and of first passage both come
 from the hitting-time theorem, P(T = n) = (1/n)·P(W_n = −1), with the
 local central limit theorem giving n^(−1/2). Ground offered:
-THEORY-tmp6jdas.
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md).
 
 ## Critical questions (source)
 
@@ -47,7 +47,7 @@ neither does the cycle lemma or the exploration of a tree as a walk.
 exponent, which is one input to the claim, not its thesis.
 
 **Does the claim lean on the reading for more than it holds?** It did, by
-listing LIT-2976 in its grounds. Corrected there: the reading corroborates
+listing [LIT-2976](../literature.d/LIT-2976.md) in its grounds. Corrected there: the reading corroborates
 the walk's 3/2 and is not a ground.
 
 ## Verdict

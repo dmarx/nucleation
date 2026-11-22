@@ -133,30 +133,30 @@ V1 sits just on the smooth side of that edge.
 
 ## Connections
 
-The spectrum is a scale-free one in the spectral sense (TERM-142, filed by
+The spectrum is a scale-free one in the spectral sense ([TERM-142](../terms.d/TERM-142.md), filed by
 another filer of this batch). The learning-rate-proportional-to-eigenvalue
-statement is the fixed-kernel version of THEORY-086's NTK account. The
+statement is the fixed-kernel version of [THEORY-086](../theory.d/THEORY-086.md)'s NTK account. The
 participation-ratio arithmetic the record built on this work's bound is in
-CLAIM-847 and CLAIM-848.
+[CLAIM-847](../claims.d/CLAIM-847.md) and [CLAIM-848](../claims.d/CLAIM-848.md).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpwtoad. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md). Dated notes of 2026-11-22 on each entry below.
 
-- **CLAIM-848, ARG-130**: support, with two corrections made in place.
+- **[CLAIM-848](../claims.d/CLAIM-848.md), [ARG-130](../arguments.d/ARG-130.md)**: support, with two corrections made in place.
   The bound is strict for smooth codes (o(), not "α ≥"): a spectrum exactly
   at α = 1 + 2/d is the limit of smooth codes. And it constrains only the
-  tail, not a pure power law from rank 1. ARG-tmpbad4y argues it.
-- **CLAIM-847**: supports its attribution; adds that Corollary 3.1 rules out
+  tail, not a pure power law from rank 1. [ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md) argues it.
+- **[CLAIM-847](../claims.d/CLAIM-847.md)**: supports its attribution; adds that Corollary 3.1 rules out
   α ≤ 1 for codes keeping finite variance with a continuous kernel.
-- **CLAIM-tmp2r6ur**: parallel and partly in tension; the source of the
-  rival reading CLAIM-tmpufbx6 (ARG-tmptvp76).
-- **TERM-136** (parallel: SI §2.2's four dimensions, "fractal" new),
-  **CLAIM-846** (parallel: the spectrum "arises from correlations between
+- **[CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md)**: parallel and partly in tension; the source of the
+  rival reading [CLAIM-tmpufbx6](../claims.d/CLAIM-tmpufbx6.md) ([ARG-tmptvp76](../arguments.d/ARG-tmptvp76.md)).
+- **[TERM-136](../terms.d/TERM-136.md)** (parallel: SI §2.2's four dimensions, "fractal" new),
+  **[CLAIM-846](../claims.d/CLAIM-846.md)** (parallel: the spectrum "arises from correlations between
   cells rather than from the distribution of firing rates or signal
-  variance", ED Fig. 7), **CLAIM-825** (parallel: the resolved range grows
-  with stimuli), **THEORY-086** and **QUESTION-217** (parallel: coarse
-  features learned first), **SYNTHESIS-120** and **LEAD-210** (background).
+  variance", ED Fig. 7), **[CLAIM-825](../claims.d/CLAIM-825.md)** (parallel: the resolved range grows
+  with stimuli), **[THEORY-086](../theory.d/THEORY-086.md)** and **[QUESTION-217](../questions.d/QUESTION-217.md)** (parallel: coarse
+  features learned first), **[SYNTHESIS-120](../syntheses.d/SYNTHESIS-120.md)** and **[LEAD-210](../leads.d/LEAD-210.md)** (background).
 
 Nothing here is filed as an instruction for machine-learning practice.
 

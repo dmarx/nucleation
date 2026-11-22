@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  registered 2026-11-22, not read. Named by the reading of Quinn, Abbott, Transtrum, Machta & Sethna 2023 (LIT-2958, NOTE-tmp3keyy), whose §3 restates this paper's bounds on the model manifold of smooth least-squares models; the record's hyperribbon term (TERM-135) and the review's reading (THEORY-tmpx26x7) rely on them. No reading attempted; the arXiv copy has not been sought.
+  registered 2026-11-22, not read. Named by the reading of Quinn, Abbott, Transtrum, Machta & Sethna 2023 ([LIT-2958](LIT-2958.md), [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md)), whose §3 restates this paper's bounds on the model manifold of smooth least-squares models; the record's hyperribbon term ([TERM-135](../terms.d/TERM-135.md)) and the review's reading ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)) rely on them. No reading attempted; the arXiv copy has not been sought.
 title: 'Chebyshev approximation and the global geometry of model predictions'
 version: 1
 history:
@@ -20,9 +20,9 @@ first_author: 'Quinn'
 keywords: []
 implementations: []
 summary: >-
-  Quinn, Wilber, Townsend & Sethna (2019), Chebyshev approximation and the global geometry of model predictions, Phys. Rev. Lett. 122, 158302; arXiv 1809.08280 (as "... of sloppy models"). As restated by the 2023 review (LIT-2958, §3): for least-squares models whose predictions are smooth in their experimental control, the model manifold lies within ε_N of a Vandermonde-skewed hyper-parallelepiped, or inside a hyperellipsoid whose j-th axis is bounded by ρ^(−j), so its widths fall geometrically. Unverified until read.
+  Quinn, Wilber, Townsend & Sethna (2019), Chebyshev approximation and the global geometry of model predictions, Phys. Rev. Lett. 122, 158302; arXiv 1809.08280 (as "... of sloppy models"). As restated by the 2023 review ([LIT-2958](LIT-2958.md), §3): for least-squares models whose predictions are smooth in their experimental control, the model manifold lies within ε_N of a Vandermonde-skewed hyper-parallelepiped, or inside a hyperellipsoid whose j-th axis is bounded by ρ^(−j), so its widths fall geometrically. Unverified until read.
 ---
-<!-- inactive-ok-file: TERM-135 THEORY-tmpx26x7 NOTE-tmp3keyy — Proposed or new; the term and the reading that rely on this work -->
+<!-- inactive-ok-file: TERM-135 THEORY-tmpx26x7 — Proposed or new; the term and the reading that rely on this work -->
 
 # LIT-tmpmksrk: Chebyshev approximation and the global geometry of model predictions
 
@@ -30,4 +30,4 @@ Quinn, Wilber, Townsend & Sethna (2019). Phys. Rev. Lett. 122, 158302; arXiv 180
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of the 2023 review by Quinn, Abbott, Transtrum, Machta and Sethna (LIT-2958, NOTE-tmp3keyy), whose §3 reviews "rigorous bounds on the manifold of possible predictions for the special case of a multiparameter nonlinear least-squares model" from this paper. It is the record's source for the hyperribbon bound (TERM-135) beyond the 2011 ratio-test heuristic, and the paper whose reading would meet the promote_when of the review's reading, THEORY-tmpx26x7. Not read.
+Registered on 2026-11-22 from the reading of the 2023 review by Quinn, Abbott, Transtrum, Machta and Sethna ([LIT-2958](LIT-2958.md), [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md)), whose §3 reviews "rigorous bounds on the manifold of possible predictions for the special case of a multiparameter nonlinear least-squares model" from this paper. It is the record's source for the hyperribbon bound ([TERM-135](../terms.d/TERM-135.md)) beyond the 2011 ratio-test heuristic, and the paper whose reading would meet the promote_when of the review's reading, [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md). Not read.

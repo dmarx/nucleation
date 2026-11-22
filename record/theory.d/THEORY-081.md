@@ -42,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-079 — Proposed; named in Connections, no relation leans on them -->
 
-<!-- inactive-ok-file: NOTE-tmp3keyy THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
 # THEORY-081: The evidence of any model formed from a full model by changing only its prior is the full evidence times the full posterior expectation of the prior ratio, so the Savage–Dickey ratio is its point-mass case and choosing which parameters to keep is evidence maximisation over the prior
 
@@ -177,7 +177,7 @@ optimisation switches it off.
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-A parallel only (NOTE-tmp3keyy, THEORY-tmpx26x7). The review's priors for
+A parallel only ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md), [THEORY-tmpx26x7](THEORY-tmpx26x7.md)). The review's priors for
 sloppy models put point masses on nested boundary models: the optimal
 prior's atoms "lie only at the boundaries" along short dimensions, and its
 adaptive slab-and-spike prior projects weight onto them (§5). These are

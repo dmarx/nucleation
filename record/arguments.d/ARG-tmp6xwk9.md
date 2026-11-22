@@ -18,7 +18,7 @@ line:
 - formal-apparatus
 - learned-structure
 summary: >-
-  CLAIM-820 grounded LIT-2958 unread. Read (NOTE-tmp3keyy), the review
+  [CLAIM-820](../claims.d/CLAIM-820.md) grounded [LIT-2958](../literature.d/LIT-2958.md) unread. Read ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md)), the review
   states consequence 1 and the relativity to observables nearly in the
   claim's words, and answers the defeater's reparametrization clause with
   widths and the rates-set-to-one test. It adds a qualification the claim
@@ -27,15 +27,15 @@ summary: >-
   reading replaces the LIT in the claim's grounds. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-820 THEORY-tmpx26x7 THEORY-2154 NOTE-tmp3keyy — Proposed or new; the claim, the reading and the terms the inference is stated in -->
+<!-- inactive-ok-file: CLAIM-820 THEORY-tmpx26x7 THEORY-2154 — Proposed or new; the claim, the reading and the terms the inference is stated in -->
 
 # ARG-tmp6xwk9: The 2023 review by Quinn, Abbott, Transtrum, Machta and Sethna, as evidence, supports the claim that parameter and behavioural complexity come apart in sloppy models, with the qualification that sloppiness yields a simple description only relative to the precision demanded of the predictions
 
 ## The inference
 
-CLAIM-820: when predictions depend on a few stiff combinations, a model
+[CLAIM-820](../claims.d/CLAIM-820.md): when predictions depend on a few stiff combinations, a model
 can be hard to fit and still predictive, and simplicity belongs to how a
-system responds to observation. THEORY-tmpx26x7: "predictions are
+system responds to observation. [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md): "predictions are
 independent of all but a few parameter combinations, which is unfortunate
 if you want to deduce the parameters from collective behavior, but
 fortunate if you want to test the predictions of the model before the
@@ -46,7 +46,7 @@ scientific model and the predictions of interest" (§8.2).
 
 - **Is the evidence what the claim needs?** For consequence 1, a review's
   restatement of the programme's results, independent of the claim but
-  not of the 2015 review (THEORY-2154) it already rests on. It adds no new
+  not of the 2015 review ([THEORY-2154](../theory.d/THEORY-2154.md)) it already rests on. It adds no new
   data; it adds the review's own statements of scope.
 - **Is it relative to what is observed, as the claim says?** Yes: the
   Ising model "is not sloppy ... unless one only cares about long length
@@ -70,7 +70,7 @@ scientific model and the predictions of interest" (§8.2).
 
 ## Verdict
 
-Supports CLAIM-820, qualified: sloppiness alone does not give low
+Supports [CLAIM-820](../claims.d/CLAIM-820.md), qualified: sloppiness alone does not give low
 behavioural dimension; it does so only relative to the precision
 demanded. Proposed. The qualification is added to the claim in place
 (version 3).

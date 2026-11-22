@@ -69,7 +69,7 @@ metric of descent.
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a): **a
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](THEORY-tmphbp5a.md)): **a
 parallel.** Their stationary SGD analysis, Σ = H⁻¹FH⁻¹, puts the largest
 weight fluctuations in the soft, low-curvature Hessian directions (§IV B),
 the directions this account says carry progress. Schematic by the

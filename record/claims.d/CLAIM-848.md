@@ -49,7 +49,7 @@ summary: >-
   where the power-law thread meets concentration. A30's regimes are right
   asymptotically, but near α = 1 they separate only at astronomical widths;
   pure power laws at the limit of Stringer's smoothness bound, which is
-  strict and on the tail only (ARG-tmpbad4y), show for high-dimensional
+  strict and on the tail only ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)), show for high-dimensional
   manifolds a participation ratio of a few tens at real widths.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
@@ -81,7 +81,7 @@ is real but unreachable, and just below it the D^(2(1−α)) growth is too slow
 to see; both look like the (log D)² of α = 1.
 
 **With Stringer's bound.** A29 §7 cites Stringer and colleagues
-(LIT-2972, read 2026-11-22 as THEORY-tmpwtoad) for a smoothness bound. As
+([LIT-2972](../literature.d/LIT-2972.md), read 2026-11-22 as [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)) for a smoothness bound. As
 the supplement proves it (Theorem 5), a code with finite expected
 derivative on an m-dimensional stimulus manifold has eigenvalues
 λ_n = o(n^(−1−2/m)): strictly, and only in the tail. A pure power law at
@@ -137,17 +137,17 @@ out how this qualifies [CLAIM-847](CLAIM-847.md).
   tail at α_c and the top ten eigenvalues set equal to the tenth, the ratio
   at width 768 is 89, 112 and 137 for m = 10, 20 and 100; with the top
   eigenvalue ten times larger it is 1.8 to 2.5 (`python3 -I`,
-  ARG-tmpbad4y).
+  [ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)).
 
 *Changed 2026-11-22, version 2:* the bound is stated as the reading gives
 it, strict and on the tail; the sentence that called it unverified is
-replaced by the reading; LIT-2972 leaves the grounds for THEORY-tmpwtoad.
+replaced by the reading; [LIT-2972](../literature.d/LIT-2972.md) leaves the grounds for [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md).
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues (LIT-2972) were read (NOTE-tmp923nm; the reading
-is THEORY-tmpwtoad). The reading **supports the premise in corrected
-form** (ARG-tmpbad4y):
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md)) were read ([NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md); the reading
+is [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)). The reading **supports the premise in corrected
+form** ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)):
 
 - **Strict.** Supplementary Theorem 5: "If the expected derivative
   magnitude of φ is finite ... then λn = o(n−1−2/d)". "α ≥" is the

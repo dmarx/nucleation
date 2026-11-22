@@ -123,11 +123,11 @@ checked numerically in [CLAIM-846](CLAIM-846.md).
   characteristic scale" (A27 §6).
 - **Many networks reported as scale free show little statistical
   evidence of it** (A10 §6, corrected on 2026-11-22), which A attributes
-  to "rigorous studies", plainly Broido and Clauset (LIT-2963). A said
+  to "rigorous studies", plainly Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md)). A said
   they "are not"; the paper shows a lack of evidence, many "may in fact
-  be log-normal networks", and its verdict is disputed (LIT-tmpvmrkv).
+  be log-normal networks", and its verdict is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)).
   The paper never mentions criticality, so this bullet is background to
-  the thesis, not a ground of it (ARG-tmp38kft).
+  the thesis, not a ground of it ([ARG-tmp38kft](../arguments.d/ARG-tmp38kft.md)).
 
 ## What would show criticality instead
 
@@ -178,12 +178,12 @@ distributions.
 
 The bullet "Many reported scale-free networks are not" now reads "Many
 networks reported as scale free show little statistical evidence of it",
-and is marked as background, not a ground (ARG-tmp38kft). Version 2.
+and is marked as background, not a ground ([ARG-tmp38kft](../arguments.d/ARG-tmp38kft.md)). Version 2.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is
-THEORY-tmp6jdas) **supports the distributional half** of the thesis:
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports the distributional half** of the thesis:
 "most experimentally observed power laws are probably not the result of
 phase transitions—a variety of other mechanisms produce power-law
 behaviour as well" (§III.E, p. 12), and tuning "makes the divergence of
@@ -193,11 +193,11 @@ distributions" (§IV.E, p. 19). It **leaves open** the routes listed here
 is in the review; its own routes (the Yule process, combinations of
 exponentials, inverses, walks, highly optimized tolerance) touch only the
 "cumulative advantage" and "broad relaxation" rows, loosely.
-THEORY-tmp6jdas `corroborates` the claim.
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `corroborates` the claim.
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-A **parallel** (LIT-2987, NOTE-tmphbwdu, THEORY-tmpw4qgu). The power law
+A **parallel** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md), [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)). The power law
 with an exponential cutoff is "clearly favored" for fires, flares and
 earthquakes (p. 26), the classic self-organized-criticality cases, and the
 pure power law is "firmly ruled out" for earthquakes (p. 23): the shape
@@ -206,8 +206,8 @@ No edge.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-**No bearing on the thesis; qualifies the folded-in bullet** (LIT-2963,
-NOTE-tmpleyjh, THEORY-tmphcnj3; ARG-tmp38kft, Rejected as a route). The
+**No bearing on the thesis; qualifies the folded-in bullet** ([LIT-2963](../literature.d/LIT-2963.md),
+[NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md), [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md); [ARG-tmp38kft](../arguments.d/ARG-tmp38kft.md), Rejected as a route). The
 paper never mentions criticality or any route listed here; it doubts that
 the power law is there at all, before any question of what it indicates.
 It was never in `grounds`, and stays out. Status unchanged.

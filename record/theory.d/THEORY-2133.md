@@ -49,7 +49,7 @@ Nothing about width-growing training times, finite width, or depth (Tensor Progr
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35):
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)):
 **background.** Their step size η = Θ(d) is the maximal-update scaling,
 the regime in which this account says features are learned; their
 one-step theorem, a rank-one spike along the target in the first-layer

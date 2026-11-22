@@ -85,7 +85,7 @@ summary: >-
   A19); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the record's evidence for the critical-Ising spectrum -->
-<!-- inactive-ok-file: THEORY-tmpx26x7 LIT-tmpmksrk NOTE-tmp3keyy — Proposed, Deferred or new; the 2023 review's reading and the 2019 paper it restates, filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpx26x7 LIT-tmpmksrk — Proposed, Deferred or new; the 2023 review's reading and the 2019 paper it restates, filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-825 — filed with this term from the same exchange, Proposed -->
 <!-- inactive-ok-file: CASE-302 TERM-140 THEORY-2154 THEORY-2155 THEORY-2156 THEORY-tmpt1tw7 THEORY-tmpks8pd THEORY-tmpbobud — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
@@ -142,13 +142,13 @@ convergence; a ratio-test heuristic, argued for one independent variable
 and extended "in some multidimensional sense" ([THEORY-2155](../theory.d/THEORY-2155.md),
 [THEORY-2154](../theory.d/THEORY-2154.md)). For least-squares models smooth in their experimental
 control there is now a rigorous bound, restated in the 2023 review from
-Quinn, Wilber, Townsend and Sethna 2019 (LIT-tmpmksrk, Deferred, unread):
+Quinn, Wilber, Townsend and Sethna 2019 ([LIT-tmpmksrk](../literature.d/LIT-tmpmksrk.md), Deferred, unread):
 "The proof relies on the smoothness of the predictions as the
 experimental controls ... are varied"; with Taylor coefficients bounded by
 one, the manifold lies within ε_N = T^N/(1−T) of a hyper-parallelepiped
 skewed by the Vandermonde matrix, and in the Chebyshev form it "is
 constrained by a hyper-ellipsoid whose j-th largest principal axis length
-is bounded by" ρ^(−j) (LIT-2958, §3; THEORY-tmpx26x7). The review calls
+is bounded by" ρ^(−j) ([LIT-2958](../literature.d/LIT-2958.md), §3; [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)). The review calls
 ρ^(−j) "a power law"; it is geometric in j, as the same paragraph's
 "geometric decay" says. The review also makes the definition joint:
 "We call a model sloppy, and the model manifold a hyperribbon, if the
@@ -193,8 +193,8 @@ y = (θ₁+θ₂)x + ε(θ₁−θ₂)z with x and z orthonormal, has Fisher eig
    interior between singular edges. The 2023 review loosens the condition
    itself: "model manifolds may have singular models that are not
    strictly boundaries, such as a the tip of a cone. These singularities
-   often correspond to useful reduced models" (LIT-2958, §4,
-   THEORY-tmpx26x7), so even in the sloppy-model literature a singular
+   often correspond to useful reduced models" ([LIT-2958](../literature.d/LIT-2958.md), §4,
+   [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)), so even in the sloppy-model literature a singular
    point can lie inside the manifold, as Amari's cone apex does.
 
 ## What it is not
@@ -246,9 +246,9 @@ read on 2026-11-21 ([NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d
 as [THEORY-2156](../theory.d/THEORY-2156.md), [THEORY-2155](../theory.d/THEORY-2155.md) and [THEORY-2154](../theory.d/THEORY-2154.md); the reduction
 method and the survey were read the same day ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md),
 [NOTE-tmp1feoo](../notes.d/NOTE-tmp1feoo.md)) and filed as [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md) and [THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md); the
-2023 review was read on 2026-11-22 (NOTE-tmp3keyy) and filed as
-THEORY-tmpx26x7, and the 2019 paper whose bound it restates is Deferred
-and unread (LIT-tmpmksrk). The
+2023 review was read on 2026-11-22 ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md)) and filed as
+[THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md), and the 2019 paper whose bound it restates is Deferred
+and unread ([LIT-tmpmksrk](../literature.d/LIT-tmpmksrk.md)). The
 definition rests on those readings, on A's wording and on the record's
 readings of [THEORY-774](../theory.d/THEORY-774.md), [THEORY-777](../theory.d/THEORY-777.md) and [THEORY-742](../theory.d/THEORY-742.md).
 
@@ -299,7 +299,7 @@ made in place above (version 2). What the readings support and qualify:
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-Read in NOTE-tmp3keyy (THEORY-tmpx26x7); the additions are made in place
+Read in [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md) ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)); the additions are made in place
 above (version 4).
 
 - **Supported:** the definition, "a ribbon is much longer than it is
@@ -309,14 +309,14 @@ above (version 4).
   (§8.2), and the hopping model after one step "is not a hyper-ribbon"
   (§6.2).
 - **Added: a rigorous bound**, for least-squares models smooth in their
-  control variable, restated from the 2019 paper (LIT-tmpmksrk, which
+  control variable, restated from the 2019 paper ([LIT-tmpmksrk](../literature.d/LIT-tmpmksrk.md), which
   would meet the review THEORY's promote_when once read). The 2011
   argument remains the heuristic for other models; for general
   probabilistic models the review says "we do not yet have an explanation
   for this in general, except for ... exponential families" (§8.2).
 - **Added: interior singularities** in the sloppy-model literature itself
   ("the tip of a cone"), a point the term had credited only to Amari, Park
-  and Ozeki (LIT-2960).
+  and Ozeki ([LIT-2960](../literature.d/LIT-2960.md)).
 - **Qualified, for the "Not a count of parameters" bullet:** a hyperribbon
   gives a low-dimensional description only "if many of its widths are
   small compared to the precision of the predictions demanded"; ΛCDM is
@@ -324,4 +324,4 @@ above (version 4).
 - **On "Not RG relevance":** the review again connects "stiff and sloppy
   directions ... with relevant and irrelevant eigendirections" (abstract);
   its flow d log(ds²)/db = −D + 2y_i for irrelevant directions matches
-  THEORY-777's b^(2y−d). The caution stays the record's.
+  [THEORY-777](../theory.d/THEORY-777.md)'s b^(2y−d). The caution stays the record's.

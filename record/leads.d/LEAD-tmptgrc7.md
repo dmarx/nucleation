@@ -39,7 +39,7 @@ summary: >-
   stage, after Park and colleagues (LIT-2990), so as to tell the claim from
   its rival readings CLAIM-tmp9atj9 and CLAIM-tmpufbx6. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp2r6ur CLAIM-tmp9atj9 CLAIM-tmpufbx6 THEORY-tmphbp5a THEORY-tmpwtoad — Proposed; the claim this would test, its two rival readings and the readings behind them -->
+<!-- inactive-ok-file: CLAIM-tmp2r6ur CLAIM-tmp9atj9 CLAIM-tmpufbx6 THEORY-tmphbp5a — Proposed; the claim this would test, its two rival readings and the readings behind them -->
 
 # LEAD-tmptgrc7: Test the owner's truncated-band picture in trained language models: whether the unembedding's top singular directions track token frequency as stop words do, and where a low-signal floor sits below the discriminating band
 
@@ -47,8 +47,8 @@ summary: >-
 1. **The stop-word half.** For each model, take the centred, norm-folded unembedding, as Xu builds it. Project every token's row onto each singular band, then correlate the projection's magnitude with the token's log frequency. The claim predicts the top band tracks frequency and the lower retained band does not.
 2. **The floor.** Sweep a lower cut through the bottom of the spectrum and recompute Xu's K at each cut, against equal-length random changes drawn above the cut. The claim predicts K rises as the floor is removed, then falls once the cut eats into the discriminating band.
 
-3. **Regime and stage, recorded** (added 2026-11-22, version 2). Record each model's step size (peak learning rate and schedule) and run both measurements across checkpoints of one training run, early to final. In Park and colleagues' MLPs (LIT-2990, THEORY-tmphbp5a, Fig. 16) the leading first-layer direction overlaps the data's first principal component at 0.68 in the large-step regime, which converges to a worse minimum, and at 0.056 in the well-trained phase. The owner's claim predicts the frequency correlation of the top band in well-trained final checkpoints; the rival CLAIM-tmp9atj9 predicts it strongest early or at large steps and fading with training. The Pythia suite's released checkpoints serve for stage.
-4. **The floor, with the estimator controlled.** Where the floor is measured from a sample spectrum, repeat at two sample sizes: the rival CLAIM-tmpufbx6 predicts the floor's edge moves with the sample, the owner's claim that it stays.
+3. **Regime and stage, recorded** (added 2026-11-22, version 2). Record each model's step size (peak learning rate and schedule) and run both measurements across checkpoints of one training run, early to final. In Park and colleagues' MLPs ([LIT-2990](../literature.d/LIT-2990.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md), Fig. 16) the leading first-layer direction overlaps the data's first principal component at 0.68 in the large-step regime, which converges to a worse minimum, and at 0.056 in the well-trained phase. The owner's claim predicts the frequency correlation of the top band in well-trained final checkpoints; the rival [CLAIM-tmp9atj9](../claims.d/CLAIM-tmp9atj9.md) predicts it strongest early or at large steps and fading with training. The Pythia suite's released checkpoints serve for stage.
+4. **The floor, with the estimator controlled.** Where the floor is measured from a sample spectrum, repeat at two sample sizes: the rival [CLAIM-tmpufbx6](../claims.d/CLAIM-tmpufbx6.md) predicts the floor's edge moves with the sample, the owner's claim that it stays.
 
 **What would count against.** No frequency structure in the top band, or K flat or falling as the floor is removed.
 

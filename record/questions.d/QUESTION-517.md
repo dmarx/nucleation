@@ -33,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: SYNTHESIS-084 THEORY-1558 — Proposed, cited as the open state of the RG–information correspondence and of rate-demarcated levels -->
 <!-- inactive-ok-file: THEORY-2151 THEORY-2155 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-<!-- inactive-ok-file: THEORY-tmpx26x7 NOTE-tmp3keyy CLAIM-820 TERM-140 TERM-135 — Proposed or new; the 2023 review's reading and the entries that hold the relativity it states -->
+<!-- inactive-ok-file: THEORY-tmpx26x7 CLAIM-820 TERM-140 TERM-135 — Proposed or new; the 2023 review's reading and the entries that hold the relativity it states -->
 
 # QUESTION-517: Do the effective dimensions of one system, the number of its stiff Fisher directions at a given resolution, the dimension of its predictive states, the number of its relevant renormalization-group directions and its fractal dimension, agree, and when do they come apart?
 
@@ -110,7 +110,7 @@ Relations are written from [THEORY-2151](../theory.d/THEORY-2151.md) and [THEORY
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-Read in NOTE-tmp3keyy (THEORY-tmpx26x7, which `bears_on` this question).
+Read in [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md) ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md), which `bears_on` this question).
 It leaves the question open and sharpens what an answer must state.
 
 - **The question asked of the system fixes the count.** §8.2: "sloppiness
@@ -120,7 +120,7 @@ It leaves the question open and sharpens what an answer must state.
   systems biology model is not sloppy if one designs experiments to
   measure one parameter at a time." So the stiff-direction count, and with
   it the relevant-direction count it is to be compared with, belong to a
-  system paired with the observables one cares about, as CLAIM-820 holds
+  system paired with the observables one cares about, as [CLAIM-820](../claims.d/CLAIM-820.md) holds
   for the coming-apart of parameter and behavioural complexity.
 - **And so does the precision.** §2: a sloppy model has "an effective
   low-dimensional description if many of its widths are small compared to
@@ -137,7 +137,7 @@ It leaves the question open and sharpens what an answer must state.
 assistant considered filing "sloppiness, and the effective dimension it
 gives, belongs to a model paired with a set of observables and a demanded
 precision" as a claim, and did not: the record already holds it in
-TERM-140 ("Relative to a design"), TERM-135 (condition 1) and CLAIM-820
+[TERM-140](../terms.d/TERM-140.md) ("Relative to a design"), [TERM-135](../terms.d/TERM-135.md) (condition 1) and [CLAIM-820](../claims.d/CLAIM-820.md)
 (relative to the observables fitted, and now to the precision demanded,
 version 3). For this question it means that "What would answer it" must
 name the observables and the precision as well as the observation scheme.

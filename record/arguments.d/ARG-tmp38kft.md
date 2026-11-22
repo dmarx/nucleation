@@ -14,16 +14,16 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Whether Broido and Clauset (LIT-2963), read in NOTE-tmpleyjh, bear on
-  CLAIM-841's thesis, which folds in A's "Many reported scale-free networks
+  Whether Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md)), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md), bear on
+  [CLAIM-841](../claims.d/CLAIM-841.md)'s thesis, which folds in A's "Many reported scale-free networks
   are not" and attributes it to them. They do not: the paper never
   mentions criticality, symmetry or any route the claim lists, and it
   doubts that the power law is there at all, before any question of what a
   power law indicates. Even for the folded-in bullet it shows a lack of
   evidence, not that the networks are not scale free. Rejected as a route;
   the reading is no ground of the claim, and the bullet is reworded there.
-  Standing of the conclusion apart from this route: CLAIM-841 holds it on
-  its routes and their checks, with Newman's review (THEORY-tmp6jdas)
+  Standing of the conclusion apart from this route: [CLAIM-841](../claims.d/CLAIM-841.md) holds it on
+  its routes and their checks, with Newman's review ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md))
   corroborating its distributional half. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-841 THEORY-tmphcnj3 THEORY-tmp6jdas — Proposed; the claim and the readings named -->
@@ -32,9 +32,9 @@ summary: >-
 
 ## The inference
 
-CLAIM-841: a power law does not by itself indicate criticality, since
+[CLAIM-841](../claims.d/CLAIM-841.md): a power law does not by itself indicate criticality, since
 other routes remove a characteristic scale without tuning. Ground offered:
-THEORY-tmphcnj3, through the folded-in bullet "Many reported scale-free
+[THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md), through the folded-in bullet "Many reported scale-free
 networks are not".
 
 ## Critical questions (source)
@@ -49,7 +49,7 @@ as worded. 46% of data sets are Super-Weak and the lognormal comparison
 is inconclusive for 40%; the paper says many "may in fact be log-normal
 networks". It shows that many networks reported as scale free show little
 statistical evidence of it, and its verdict on rarity is itself disputed
-(LIT-tmpvmrkv).
+([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)).
 
 **Does the claim lean on the reading for more than it holds?** Its bullet
 did, slightly. The work was never in the claim's grounds.

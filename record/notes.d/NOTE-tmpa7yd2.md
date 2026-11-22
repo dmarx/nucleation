@@ -28,7 +28,7 @@ summary: >-
   process, criticality, self-organized criticality, highly optimized
   tolerance, coherent noise, multiplicative processes with a floor, record
   dynamics), different ones in different cases. It covers four of the
-  seven items of CLAIM-795, has nothing on branching processes or the
+  seven items of [CLAIM-795](../claims.d/CLAIM-795.md), has nothing on branching processes or the
   hitting-time identity, and ranks the Yule process and criticality as
   the two most important.
 ---
@@ -43,11 +43,11 @@ A pedagogical synthesis in three parts: how to measure a power law (§II),
 its mathematics (§III), and the mechanisms proposed for it (§IV). It put
 the cumulative plot and the maximum-likelihood exponent into common use,
 later superseded on the fitting side by Clauset, Shalizi and Newman
-(LIT-2987), and set out the standard catalogue of mechanisms, holding
+([LIT-2987](../literature.d/LIT-2987.md)), and set out the standard catalogue of mechanisms, holding
 that "the conventional wisdom is that there are actually many different
 mechanisms for producing power laws and that different ones are
 applicable to different cases" (§II.A, p. 5). The reading is
-THEORY-tmp6jdas.
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md).
 
 ## Key results
 
@@ -137,24 +137,24 @@ and multiplicative process with a lower bound; record dynamics.
 
 ## Connections
 
-Newman cites Mitzenmacher (LIT-3003, read; THEORY-2150) as a
+Newman cites Mitzenmacher ([LIT-3003](../literature.d/LIT-3003.md), read; [THEORY-2150](../theory.d/THEORY-2150.md)) as a
 companion review. Both have random typing, Yule and Simon, and the
 lognormal against the power law; Newman adds percolation,
 self-organized criticality, highly optimized tolerance, coherent noise,
 inverses and record dynamics, and Mitzenmacher adds Mandelbrot's
 optimization and Reed's double Pareto. Newman restates Reed and Hughes
-(LIT-3007) in two sentences, a neighbour description and no stand-in
-for reading it. It is the predecessor of LIT-2987: the estimator of
+([LIT-3007](../literature.d/LIT-3007.md)) in two sentences, a neighbour description and no stand-in
+for reading it. It is the predecessor of [LIT-2987](../literature.d/LIT-2987.md): the estimator of
 Eq. 5 is the same, without x_min selection or tests. Works it names that
-the record now relies on are registered: Simon (LIT-tmp7g7aj), Miller
-(LIT-tmppzucs), Carlson and Doyle (LIT-tmp2octb), Sneppen and Newman
-(LIT-tmp1db7e) and Sibani and Littlewood (LIT-tmpf9hct). Bak, Tang and
-Wiesenfeld (LIT-2992) is cited for self-organized criticality, which
+the record now relies on are registered: Simon ([LIT-tmp7g7aj](../literature.d/LIT-tmp7g7aj.md)), Miller
+([LIT-tmppzucs](../literature.d/LIT-tmppzucs.md)), Carlson and Doyle ([LIT-tmp2octb](../literature.d/LIT-tmp2octb.md)), Sneppen and Newman
+([LIT-tmp1db7e](../literature.d/LIT-tmp1db7e.md)) and Sibani and Littlewood ([LIT-tmpf9hct](../literature.d/LIT-tmpf9hct.md)). Bak, Tang and
+Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md)) is cited for self-organized criticality, which
 Newman illustrates with the forest-fire model instead.
 
 ## Bearing on the record
 
-- **CLAIM-795** (supports items 2, 3, 6 and 7 in part; adds four
+- **[CLAIM-795](../claims.d/CLAIM-795.md)** (supports items 2, 3, 6 and 7 in part; adds four
   mechanisms). Percolation (item 2, p_c = 0.5927462), the walk's 3/2
   (item 3, as first return rather than first passage), Reed and Hughes
   (item 6: α = 1 − a/b with a = −λ and b = g is a density exponent
@@ -162,44 +162,44 @@ Newman illustrates with the forest-fire model instead.
   d-ball geometry). Nothing on items 1 (critical branching), 4 (rate
   mixtures) and 5 (sample-space reduction). Random typing, highly
   optimized tolerance, coherent noise and record dynamics are further
-  mechanisms with no rich-get-richer feedback. ARG-tmp3ppjy.
-- **CLAIM-815** (leaves open; a parallel). The walk's 3/2 by
+  mechanisms with no rich-get-richer feedback. [ARG-tmp3ppjy](../arguments.d/ARG-tmp3ppjy.md).
+- **[CLAIM-815](../claims.d/CLAIM-815.md)** (leaves open; a parallel). The walk's 3/2 by
   generating functions (Eqs. 51–62, pp. 15–16); no branching process, no
   cycle lemma, no Dwass. It gives one half of the coincidence and nothing
-  on the identity. ARG-tmp275n1.
-- **CLAIM-803** (supports the first clause, and "fit first" in part;
+  on the identity. [ARG-tmp275n1](../arguments.d/ARG-tmp275n1.md).
+- **[CLAIM-803](../claims.d/CLAIM-803.md)** (supports the first clause, and "fit first" in part;
   milder than the claim). Many mechanisms, several reaching similar
   exponents, and most power laws probably not from phase transitions;
   maximum likelihood over least squares, and a lognormal that can look
   straight. No model comparison and none of the dynamical tests. Newman
   assigns mechanisms by plausibility: the Yule process is "the most
   widely accepted theory" for citations, cities and income.
-- **CLAIM-841** (supports the distributional half). "Most experimentally
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (supports the distributional half). "Most experimentally
   observed power laws are probably not the result of phase transitions"
   (p. 12), and tuning makes criticality "an unlikely explanation for
   generic power-law distributions" (p. 19). None of the claim's routes
   (symmetry, a line of fixed points, KPZ, flux, coarsening) is in the
   review; footnote 1 puts non-statistical power laws out of scope.
-- **CLAIM-817** (supports the linear-plus-entry half). Every Yule
+- **[CLAIM-817](../claims.d/CLAIM-817.md)** (supports the linear-plus-entry half). Every Yule
   variant founds a new unit each step and attaches in proportion to k or
   k + c. Nothing on nonlinear kernels.
-- **CLAIM-830** (supports the entry point implicitly; a clash of
+- **[CLAIM-830](../claims.d/CLAIM-830.md)** (supports the entry point implicitly; a clash of
   names). Entry is built into every Yule variant. Simon's name for the
   rich-get-richer rule is "the Gibrat principle", the name the claim
-  uses for proportional growth without entry; see TERM-tmpg1vx2.
-- **CLAIM-824** (supports both halves qualitatively). Products give a
+  uses for proportional growth without entry; see [TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md).
+- **[CLAIM-824](../claims.d/CLAIM-824.md)** (supports both halves qualitatively). Products give a
   lognormal; a lower bound gives "perfect power-law distributions"
   (p. 24). No exponent condition.
-- **QUESTION-505** (bears on it). Each exponent is a ratio:
+- **[QUESTION-505](../questions.d/QUESTION-505.md)** (bears on it). Each exponent is a ratio:
   1 − a/b, 1 + 1/γ, 2 + (k0 + c)/m, the walk's 3/2. Newman notes that the
   Yule process "can produce a wide range of exponents to match the
   observations by suitable adjustments of the parameters" (p. 19).
-- **LEAD-211** (background). Finite-size cutoffs at criticality and
+- **[LEAD-211](../leads.d/LEAD-211.md)** (background). Finite-size cutoffs at criticality and
   the forest fire's cutoff at the lattice size, not used as a test.
-- **LIT-3007**, **LIT-2962** and **LIT-2997**: the first restated
+- **[LIT-3007](../literature.d/LIT-3007.md)**, **[LIT-2962](../literature.d/LIT-2962.md)** and **[LIT-2997](../literature.d/LIT-2997.md)**: the first restated
   briefly; the second and third (superstatistics, sample-space reduction)
   absent from the review.
-- No bearing: CLAIM-769 and THEORY-2131 (rate mixtures, absent);
+- No bearing: [CLAIM-769](../claims.d/CLAIM-769.md) and [THEORY-2131](../theory.d/THEORY-2131.md) (rate mixtures, absent);
   Arthur's absorbing-barrier walk, a parallel only by name.
 
 ## Limitations
@@ -210,4 +210,4 @@ Newman illustrates with the forest-fire model instead.
 - Its "combinations of exponentials" is an exponential of an
   exponentially distributed variable, not a mixture of exponential rates;
   the review has no rate-mixture or superstatistics mechanism, so it does
-  not carry CLAIM-795's item 4.
+  not carry [CLAIM-795](../claims.d/CLAIM-795.md)'s item 4.

@@ -188,9 +188,9 @@ Integrating sentences of A's syntheses that no entry states, tested at the audit
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad):
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)):
 **background.** The measured spectrum (exponent 1.04 over ranks 11 to 500)
-and the smoothness bound behind CLAIM-848's participation-ratio table are
-now read; the bound is strict and on the tail only, and CLAIM-848 and
-ARG-130 are corrected in place (ARG-tmpbad4y). The synthesis's use of the
+and the smoothness bound behind [CLAIM-848](../claims.d/CLAIM-848.md)'s participation-ratio table are
+now read; the bound is strict and on the tail only, and [CLAIM-848](../claims.d/CLAIM-848.md) and
+[ARG-130](../arguments.d/ARG-130.md) are corrected in place ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)). The synthesis's use of the
 participation ratio is unaffected.

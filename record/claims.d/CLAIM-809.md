@@ -68,7 +68,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-814 ARG-148 — filed with this claim from the same exchange, Open or Proposed -->
 <!-- inactive-ok-file: LIT-2991 — Deferred, registered 2026-11-21 from the exchange, unread -->
-<!-- inactive-ok-file: THEORY-tmpye6xs ARG-tmp5sgtm NOTE-tmporpz2 LIT-tmpfn6b8 — Proposed, Deferred or new; the finite-window reading, its argument and the work it names, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpye6xs ARG-tmp5sgtm LIT-tmpfn6b8 — Proposed, Deferred or new; the finite-window reading, its argument and the work it names, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2158 ARG-128 — Proposed; the reading of Dambre and colleagues and its argument, 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-769 CLAIM-626 — Proposed, bearing on the claim -->
 
@@ -95,7 +95,7 @@ A15 gives five strands, each A's unless a work is named.
    fluctuations and relaxation time all grow, so "exactly critical may not
    be exactly optimal" (A15 §6). A finite integration window moves the
    best discrimination of inputs away from the critical point. Azizpour
-   and colleagues show it for one system (THEORY-tmpye6xs, read
+   and colleagues show it for one system ([THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md), read
    2026-11-22): in a branching network of stochastic spiking neurons with
    a leaky readout, "every finite integration time will have an optimal
    0 < λ < 1", the optimum moving "closer to the critical point" as the
@@ -106,7 +106,7 @@ A15 gives five strands, each A's unless a work is named.
    subcritical side and vanishes as T → ∞. The paper states the thesis's
    last clause itself, for side as well as distance: "On which side of the
    transition this optimum lies will, however, depend on both the task and
-   the type of phase transition" (ARG-tmp5sgtm).
+   the type of phase transition" ([ARG-tmp5sgtm](../arguments.d/ARG-tmp5sgtm.md)).
 4. **The environment sets the value of multiscale memory.** A superposition
    of exponential relaxations with rates spread as λ^(α−1) gives power-law
    memory without criticality (A15 §4; the record's [CLAIM-769](CLAIM-769.md)), but "the
@@ -151,12 +151,12 @@ criticality depends on what the system needs to accomplish.**"
 ## Two mechanisms, opposite directions
 
 The record now holds two analysed cases, and they move the optimum in
-opposite directions. In CLAIM-814's scalar reservoir, input and state
+opposite directions. In [CLAIM-814](CLAIM-814.md)'s scalar reservoir, input and state
 noise pass through one filter, so the gain trades nothing against state
 noise; noise added at the readout, after the filter, makes capacity rise
-monotonically toward the transition (a = 1), and ARG-148 reads the case
+monotonically toward the transition (a = 1), and [ARG-148](../arguments.d/ARG-148.md) reads the case
 as redistribution, not gain. In Azizpour and colleagues' network
-(THEORY-tmpye6xs), the obstacle is internal: near λ = 1 the population's
+([THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)), the obstacle is internal: near λ = 1 the population's
 own fluctuations grow relative to the signal and slow down, and a leaky
 readout of finite window T does not average them out, so the optimum is
 pushed away from the transition, less as T grows. Readout noise favours
@@ -208,8 +208,8 @@ strand 2** and **qualifies the thesis** ([ARG-128](../arguments.d/ARG-128.md)).
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-Read in NOTE-tmporpz2 (THEORY-tmpye6xs). It **supports strand 3 and the
-window- and task-dependence of the thesis**, narrowly (ARG-tmp5sgtm); the
+Read in [NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md) ([THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)). It **supports strand 3 and the
+window- and task-dependence of the thesis**, narrowly ([ARG-tmp5sgtm](../arguments.d/ARG-tmp5sgtm.md)); the
 revisions are made in place above (version 2).
 
 - **Window:** subcritical optimum for every finite T, approaching
@@ -217,7 +217,7 @@ revisions are made in place above (version 2).
 - **Task, weakly:** the number of discriminable inputs and the dynamic
   range peak at different λ; both are measures of one task family.
 - **Scope:** branching transition only; the paper cites Toyoizumi and
-  Abbott (LIT-tmpfn6b8, registered, Deferred) for the transition to chaos,
+  Abbott ([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered, Deferred) for the transition to chaos,
   where "deviations toward the supercritical side ... are thus beneficial
   in the presence of noise".
 - **Silent** on strands 1, 2, 4 and 5.

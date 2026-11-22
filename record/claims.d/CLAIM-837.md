@@ -197,7 +197,7 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a):
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)):
 **independent support in kind**, written as `corroborates` on the reading.
 In their exact linear teacher–student model the teacher is in the weights
 from the first step and "the optimisation always converges to the correct

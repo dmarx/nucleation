@@ -16,7 +16,7 @@ line:
 - formal-apparatus
 - learned-structure
 summary: >-
-  CLAIM-809 grounded LIT-2980 unread for strand 3. Read (NOTE-tmporpz2),
+  [CLAIM-809](../claims.d/CLAIM-809.md) grounded [LIT-2980](../literature.d/LIT-2980.md) unread for strand 3. Read ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md)),
   the paper shows every finite readout window giving a subcritical optimum
   that approaches criticality as the window grows, with different optima
   for two discriminability measures: support for the window- and
@@ -26,17 +26,17 @@ summary: >-
   claim's grounds. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-809 CLAIM-814 ARG-148 THEORY-tmpye6xs NOTE-tmporpz2 LIT-tmpfn6b8 — Proposed, Deferred or new; the claim, the reading and the entries it is set against -->
+<!-- inactive-ok-file: CLAIM-809 CLAIM-814 ARG-148 THEORY-tmpye6xs LIT-tmpfn6b8 — Proposed, Deferred or new; the claim, the reading and the entries it is set against -->
 
 # ARG-tmp5sgtm: Azizpour and colleagues' branching network with a finite-time leaky readout, as evidence, supports the claim that the best distance from a dynamical transition depends on the integration window and the task, for one transition and one task family
 
 ## The inference
 
-CLAIM-809, strand 3 and its last clause: "A finite integration window
+[CLAIM-809](../claims.d/CLAIM-809.md), strand 3 and its last clause: "A finite integration window
 moves the best discrimination of inputs away from the critical point",
 and "the best distance from the transition depends on the task, the
 integration window and the correlations of the environment".
-THEORY-tmpye6xs: "every finite integration time will have an optimal
+[THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md): "every finite integration time will have an optimal
 0 < λ < 1"; "With increasing timescale T, the maximum λ* moves closer to
 the critical point"; the dynamic range's maximum "is, however, different
 from the maximum of n_d".
@@ -51,22 +51,22 @@ from the maximum of n_d".
 - **How far does it reach?** One transition, absorbing-to-active
   branching, and the paper says the side of the optimum depends "on both
   the task and the type of phase transition", citing the chaos transition,
-  where the supercritical side helps (LIT-tmpfn6b8). That is the claim's
+  where the supercritical side helps ([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md)). That is the claim's
   own last clause, stated independently, not shown.
 - **Does it meet the defeater?** No. The defeater needs every component
   maximized at the transition for every finite window; here no finite
   window has its optimum there.
-- **Is the mechanism the one the record holds?** It is not CLAIM-814's,
+- **Is the mechanism the one the record holds?** It is not [CLAIM-814](../claims.d/CLAIM-814.md)'s,
   and runs the other way. In the scalar reservoir, input and state noise
   share one filter, and readout noise added after the filter makes
   capacity rise toward a = 1. Here the obstacle is internal: critically
   slowed population fluctuations, grown relative to the signal near λ = 1,
   that a window of length T does not average out. So the two exactly
   analysed cases the record holds push the optimum in opposite directions
-  for different reasons, which is what the thesis predicts and ARG-148's
+  for different reasons, which is what the thesis predicts and [ARG-148](ARG-148.md)'s
   "redistribute, not raise" reading allows.
 
 ## Verdict
 
-Supports CLAIM-809's window- and task-dependence, narrowly: one
+Supports [CLAIM-809](../claims.d/CLAIM-809.md)'s window- and task-dependence, narrowly: one
 transition, one task family. Silent on strands 1, 2, 4 and 5. Proposed.

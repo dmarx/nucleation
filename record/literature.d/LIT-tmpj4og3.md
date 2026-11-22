@@ -20,7 +20,7 @@ first_author: 'Cui'
 keywords: []
 implementations: []
 summary: >-
-  Cui, Pesce, Dandi, Krzakala, Lu, Zdeborová & Loureiro (2024), Asymptotics of feature learning in two-layer networks after one gradient-step, arXiv 2402.04980. Here for Dandi and colleagues (LIT-2983, NOTE-tmpdac0o), whose paper is the rigorous version of this one's replica result for the maximal-update one-step regime, with the isotropic-bulk approximation justified for n0 = Ω(d^(1+ε)) samples. THEORY-tmpcij35 rests on the same setting. Unverified until read.
+  Cui, Pesce, Dandi, Krzakala, Lu, Zdeborová & Loureiro (2024), Asymptotics of feature learning in two-layer networks after one gradient-step, arXiv 2402.04980. Here for Dandi and colleagues ([LIT-2983](LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md)), whose paper is the rigorous version of this one's replica result for the maximal-update one-step regime, with the isotropic-bulk approximation justified for n0 = Ω(d^(1+ε)) samples. [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md) rests on the same setting. Unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-tmpcij35 — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -30,4 +30,4 @@ Cui, Pesce, Dandi, Krzakala, Lu, Zdeborová & Loureiro (2024). arXiv 2402.04980.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of Dandi and colleagues (LIT-2983, NOTE-tmpdac0o), whose paper is the rigorous version of this one's replica result for the maximal-update one-step regime, with the isotropic-bulk approximation justified for n0 = Ω(d^(1+ε)) samples. THEORY-tmpcij35 rests on the same setting. Not read.
+Registered on 2026-11-22 from the reading of Dandi and colleagues ([LIT-2983](LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md)), whose paper is the rigorous version of this one's replica result for the maximal-update one-step regime, with the isotropic-bulk approximation justified for n0 = Ω(d^(1+ε)) samples. [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md) rests on the same setting. Not read.

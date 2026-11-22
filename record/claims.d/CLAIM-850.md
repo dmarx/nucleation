@@ -52,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-2041 — Proposed; the order-to-chaos transition in random deep networks -->
 <!-- inactive-ok-file: THEORY-2158 CLAIM-809 — Proposed; the reading of 2026-11-21 and the claim it bears on -->
 
-<!-- inactive-ok-file: NOTE-tmporpz2 THEORY-tmpye6xs LIT-tmpfn6b8 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
+<!-- inactive-ok-file: THEORY-tmpye6xs LIT-tmpfn6b8 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
 
 # CLAIM-850: Chaos, criticality and a cascade through scales are distinct properties, and each can occur without either of the others; they meet only through particular mechanisms, such as the period-doubling accumulation point, which is critical in the renormalization-group sense and not chaotic
 
@@ -161,9 +161,9 @@ reading's bearing on computation is filed on [CLAIM-809](CLAIM-809.md).
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-Weak support, by statement (NOTE-tmporpz2, THEORY-tmpye6xs). The paper
+Weak support, by statement ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md), [THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)). The paper
 distinguishes "absorbing-to-active, transition to chaos, or a
 bifurcation" as transitions whose optimal side can differ, citing
-Toyoizumi and Abbott (LIT-tmpfn6b8, registered, Deferred) for the chaos
+Toyoizumi and Abbott ([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered, Deferred) for the chaos
 side. It treats branching criticality only, and does not show that the
 three are distinct properties; no relation is written.

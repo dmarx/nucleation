@@ -107,7 +107,7 @@ spectral perspective is not merely an analogy. But they don't establish that
 DNN representations generally behave as active matter, or that their learning
 dynamics are critical." Wang, Wu and Fan are registered and unread; Dandi
 and colleagues and Park and colleagues were read on 2026-11-22
-(THEORY-tmpcij35, THEORY-tmphbp5a), and the arXiv API confirms the 2026
+([THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)), and the arXiv API confirms the 2026
 preprint as 2606.28486, by Park, Bocchi, D'Amico, Lucini and Aarts.
 
 **Two qualifications** (added 2026-11-22, version 2):
@@ -115,15 +115,15 @@ preprint as 2606.28486, by Park, Bocchi, D'Amico, Lucini and Aarts.
 - **Spectral detectability is not the only spectral signature.** After one
   maximal-update step, Dandi and colleagues find learning in the feature
   covariance chiefly as a reshaped bulk, "a wider support and longer
-  tails", beside outliers from the feature means (THEORY-tmpcij35,
-  ARG-tmp2mzk1). So "spectral detectability" in the table means an outlier
+  tails", beside outliers from the feature means ([THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md),
+  [ARG-tmp2mzk1](../arguments.d/ARG-tmp2mzk1.md)). So "spectral detectability" in the table means an outlier
   separating from the bulk; a direction below that threshold may still
-  leave a mark on the bulk's shape (the bulk by count, TERM-tmpf5ymd).
+  leave a mark on the bulk's shape (the bulk by count, [TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md)).
 - **The signal is in the weights before the outlier.** In Park and
   colleagues' solvable teacher–student model the teacher is in the weights
   from the first step and the student converges for every step size below
   one, while the weight spectrum's outlier appears only at a critical time
-  (THEORY-tmphbp5a, ARG-tmps8aog): a second instance of this claim's
+  ([THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md), [ARG-tmps8aog](../arguments.d/ARG-tmps8aog.md)): a second instance of this claim's
   separation, with the weight matrix's own spectrum as the estimator.
 
 ## What the record holds
@@ -171,9 +171,9 @@ and **qualifies the attribution**.
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi, Pesce, Cui, Krzakala, Lu and Loureiro (LIT-2983) were read
-(NOTE-tmpdac0o; the reading is THEORY-tmpcij35). **Supports A32 §6's narrow
-point and qualifies the claim** (ARG-tmp2mzk1). Lemma 3.1 proves, for one
+Dandi, Pesce, Cui, Krzakala, Lu and Loureiro ([LIT-2983](../literature.d/LIT-2983.md)) were read
+([NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md); the reading is [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)). **Supports A32 §6's narrow
+point and qualifies the claim** ([ARG-tmp2mzk1](../arguments.d/ARG-tmp2mzk1.md)). Lemma 3.1 proves, for one
 maximal-update step on Gaussian single-index data, that "the hidden layer
 weights after one GD step are approximately low rank", W¹ ≈ W⁰ + u(w⋆)ᵀ: the
 spiked picture is a theorem there, not an analogy. The spike is in the
@@ -183,15 +183,15 @@ test error depends on the whole deterministic equivalent. The paper has no
 BBP threshold or detectability transition, and its outliers are far above
 any. It says nothing of active matter or criticality, which fits A32's
 "don't establish". Moniri and colleagues' finitely many spikes beside an
-unchanged bulk at smaller steps (LIT-tmp4kae5, registered) are the regime
+unchanged bulk at smaller steps ([LIT-tmp4kae5](../literature.d/LIT-tmp4kae5.md), registered) are the regime
 in which this claim's outlier picture is closest to the whole story.
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park, Bocchi, D'Amico, Lucini and Aarts (LIT-2990) were read
-(NOTE-tmpzethm; the reading is THEORY-tmphbp5a). **Supports, from inside
+Park, Bocchi, D'Amico, Lucini and Aarts ([LIT-2990](../literature.d/LIT-2990.md)) were read
+([NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md); the reading is [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)). **Supports, from inside
 the work, and shows the conflation the claim warns against**
-(ARG-tmps8aog). In the linear model W(t) = (1−ε)^t W(0) + (1−(1−ε)^t)W*, "the
+([ARG-tmps8aog](../arguments.d/ARG-tmps8aog.md)). In the linear model W(t) = (1−ε)^t W(0) + (1−(1−ε)^t)W*, "the
 optimisation always converges to the correct ground state", yet the
 outlier appears only at t_c: "the signal existed below the threshold". The
 paper nonetheless says "the emergence of informative representations is
@@ -204,6 +204,6 @@ shown is a BBP threshold, and "the precise universality class of the
 transition in practical deep learning systems remains unclear", so A32's
 "don't establish ... critical" is fair in the thermodynamic sense. Prior
 work it cites on the same event is registered: Coeurdoux, Ferré and
-Bouchaud's transient BBP (LIT-tmph5ano) and Ben Arous and colleagues'
-spectral alignment of SGD (LIT-tmp810d2). CLAIM-837 makes the parallel
+Bouchaud's transient BBP ([LIT-tmph5ano](../literature.d/LIT-tmph5ano.md)) and Ben Arous and colleagues'
+spectral alignment of SGD ([LIT-tmp810d2](../literature.d/LIT-tmp810d2.md)). [CLAIM-837](CLAIM-837.md) makes the parallel
 point for sample PCA.

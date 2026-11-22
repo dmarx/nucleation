@@ -135,8 +135,8 @@ Status unchanged.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is
-THEORY-tmp6jdas) **supports the entry point implicitly**: every Yule
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports the entry point implicitly**: every Yule
 variant founds a new unit each step and gives α = 2 + (k0 + c)/m (§IV.D,
 pp. 17–19), so entry is built in wherever he gets a power law from
 proportional gains. He does not cast the process in logarithmic time.
@@ -145,10 +145,10 @@ proportional gains. He does not cast the process in logarithmic time.
 
 This note is **alternative (b)** of two, for the owner to choose; it
 stands alone if the owner prefers no term. Alternative (a), the lean, is
-TERM-tmpg1vx2, which gives the senses of "Gibrat's law" with sources.
+[TERM-tmpg1vx2](../terms.d/TERM-tmpg1vx2.md), which gives the senses of "Gibrat's law" with sources.
 
 Newman reports that Simon "dubbed this type of “rich-get-richer” process
-the Gibrat principle" (LIT-2976, p. 18; Simon 1955, LIT-tmp7g7aj,
+the Gibrat principle" ([LIT-2976](../literature.d/LIT-2976.md), p. 18; Simon 1955, [LIT-tmp7g7aj](../literature.d/LIT-tmp7g7aj.md),
 unread), naming the rule of gains in proportion to size in the very
 setting, with entry, that gives the Yule–Simon power law. This claim's
 title uses "Gibrat's lognormal growth" for proportional growth without
@@ -162,14 +162,14 @@ adopting it is the owner's call.
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-**Background** (LIT-2987, NOTE-tmphbwdu, THEORY-tmpw4qgu). At realistic
+**Background** ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md), [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)). At realistic
 sample sizes a lognormal and a power-law tail are "very closely equal"
 (p. 26), so whether entry is at work cannot be read from a fitted
 cross-section; it has to be read from the dynamics. No edge.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-**A parallel** (LIT-2963, NOTE-tmpleyjh, THEORY-tmphcnj3). Lognormal-like
+**A parallel** ([LIT-2963](../literature.d/LIT-2963.md), [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md), [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)). Lognormal-like
 degree tails are common (at least as good a fit as the power law for
 88%), and the paper calls for "mechanisms that produce non-scale-free
 structural patterns, e.g., those with degree distributions better fitted

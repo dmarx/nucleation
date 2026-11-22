@@ -169,7 +169,7 @@ peak.
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35):
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)):
 **background.** Their baseline is this random-features ridge model, the
 dashed initialization spectrum of their Fig. 1; one maximal-update step
 turns it into a spiked random-features model whose bulk "is modified from

@@ -66,8 +66,8 @@ The wording is the assistant's (Claude, in this session); adopting it is the own
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-Their paper (LIT-2987, read in NOTE-tmphbwdu; the reading is
-THEORY-tmpw4qgu) gives the record's first fitted city tail, and **leaves
+Their paper ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) gives the record's first fitted city tail, and **leaves
 the question open while sharpening it**.
 
 - **The datum.** Data set (m), "The human populations of US cities in the
@@ -84,8 +84,8 @@ the question open while sharpening it**.
   large data set" (p. 26). So the "Yes" branch's requirement that the
   tail be "fitted against a lognormal first" cannot be met from the
   cross-section: the fit leaves Gibrat growth without a floor (a
-  lognormal, CLAIM-824) and attachment with entry or growth with a floor
-  (a power law, CLAIM-817, CLAIM-830, CLAIM-824) equally standing.
+  lognormal, [CLAIM-824](../claims.d/CLAIM-824.md)) and attachment with entry or growth with a floor
+  (a power law, [CLAIM-817](../claims.d/CLAIM-817.md), [CLAIM-830](../claims.d/CLAIM-830.md), [CLAIM-824](../claims.d/CLAIM-824.md)) equally standing.
   Separating them needs dynamics: growth rates against size, entry over
   time, a floor. That is the question's own point that a cross-section
   cannot decide it, now with a number.
@@ -93,7 +93,7 @@ the question open while sharpening it**.
   580 of 19,447 cities (3.0%), and it does not bear on Japan or on the
   return to prior paths.
 
-THEORY-tmpw4qgu `bears_on` this question. Newman's review
-(THEORY-tmp6jdas) calls the Yule process "the most widely accepted theory"
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md) `bears_on` this question. Newman's review
+([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) calls the Yule process "the most widely accepted theory"
 for city populations (p. 19), a judgement from fit and plausibility which
 this datum does not support over the lognormal.

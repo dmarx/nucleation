@@ -71,7 +71,7 @@ summary: >-
   Richer Power Laws", A19); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, one of the two worked cases -->
-<!-- inactive-ok-file: THEORY-tmpx26x7 ARG-tmp6xwk9 NOTE-tmp3keyy — Proposed or new; the 2023 review's reading and its argument, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpx26x7 ARG-tmp6xwk9 — Proposed or new; the 2023 review's reading and its argument, 2026-11-22 -->
 <!-- inactive-ok-file: TERM-135 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: SYNTHESIS-075 — Proposed account, cited for the target-relativity this claim sits beside -->
 <!-- inactive-ok-file: ARG-142 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
@@ -122,7 +122,7 @@ systems biology models, rests on Gutenkunst and colleagues
 ([LIT-2999](../literature.d/LIT-2999.md)) and the reviews ([LIT-2994](../literature.d/LIT-2994.md), [LIT-2958](../literature.d/LIT-2958.md)). The 2015
 review was read on 2026-11-21 and grounds the claim through
 [THEORY-2154](../theory.d/THEORY-2154.md) (see the note below); the survey was read the same day
-([THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md)) and the 2023 review on 2026-11-22 (THEORY-tmpx26x7).
+([THEORY-tmpks8pd](../theory.d/THEORY-tmpks8pd.md)) and the 2023 review on 2026-11-22 ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)).
 The claim stays interpretive and Proposed.
 
 It sits beside [CLAIM-401](CLAIM-401.md) and [SYNTHESIS-075](../syntheses.d/SYNTHESIS-075.md): adequacy relative to a
@@ -137,8 +137,8 @@ which directions are stiff depends on which observables are fitted.
   widths are small compared to the precision of the predictions demanded.
   This need not be the case"; the ΛCDM model of the cosmic microwave
   background "is sloppy ... because the experiments are so precise that
-  all parameters are well determined from the data" (LIT-2958, §2;
-  THEORY-tmpx26x7; ARG-tmp6xwk9). So the two complexities come apart
+  all parameters are well determined from the data" ([LIT-2958](../literature.d/LIT-2958.md), §2;
+  [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md); [ARG-tmp6xwk9](../arguments.d/ARG-tmp6xwk9.md)). So the two complexities come apart
   relative to the observables fitted and to the precision demanded of
   them, not under sloppiness as such. Added 2026-11-22 (version 3).
 
@@ -239,8 +239,8 @@ Read in [NOTE-2240](../notes.d/NOTE-2240.md), [NOTE-2247](../notes.d/NOTE-2247.m
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-Read in NOTE-tmp3keyy (THEORY-tmpx26x7). **Supports the claim, with one
-qualification** (ARG-tmp6xwk9); the reading replaces LIT-2958 in the
+Read in [NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md) ([THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)). **Supports the claim, with one
+qualification** ([ARG-tmp6xwk9](../arguments.d/ARG-tmp6xwk9.md)); the reading replaces [LIT-2958](../literature.d/LIT-2958.md) in the
 grounds.
 
 - **Consequence 1:** "predictions are independent of all but a few

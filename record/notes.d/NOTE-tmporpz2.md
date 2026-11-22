@@ -34,7 +34,7 @@ summary: >-
 
 A worked trade-off, λ* = argmax {G(λ) − γL(λ)} (Eq. 1), for one system:
 the gain is the sensitivity critical systems are known for (Kinouchi and
-Copelli's dynamic range, ref. 11, LIT-tmpcc25u), the loss the confidence
+Copelli's dynamic range, ref. 11, [LIT-tmpcc25u](../literature.d/LIT-tmpcc25u.md)), the loss the confidence
 lost to correlated critical fluctuations within a finite readout window.
 It turns "criticality maximizes dynamic range" into "only in the limit of
 infinite integration time".
@@ -90,7 +90,7 @@ window, the closer to criticality one can afford to sit.
   bifurcation"; for chaos, "deviations toward the supercritical side,
   deeper into the chaotic regime, allow for slower integration times and
   are thus beneficial in the presence of noise" (ref. 40, Toyoizumi and
-  Abbott, LIT-tmpfn6b8).
+  Abbott, [LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md)).
 - **Reservoirs** (p. 4): "an instantaneous readout would require a larger
   distance to criticality for optimal discriminability. However, leaky
   readout units could allow the reservoir to be tuned closer to
@@ -112,32 +112,32 @@ window, the closer to criticality one can afford to sit.
 
 ## Connections
 
-The gain is Kinouchi and Copelli's (LIT-tmpcc25u, registered from this
+The gain is Kinouchi and Copelli's ([LIT-tmpcc25u](../literature.d/LIT-tmpcc25u.md), registered from this
 reading); the chaos-side counterpart is Toyoizumi and Abbott's
-(LIT-tmpfn6b8, registered). The branching regime is CASE-303's; the
+([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered). The branching regime is [CASE-303](../cases.d/CASE-303.md)'s; the
 speed–accuracy framing parallels the two-alternative decision models
-LIT-569 and LIT-576.
+[LIT-569](../literature.d/LIT-569.md) and [LIT-576](../literature.d/LIT-576.md).
 
 ## Bearing on the record
 
-Filed as THEORY-tmpye6xs. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md). Dated notes of 2026-11-22 on each entry below.
 
-- **CLAIM-809**: supports strand 3 and the window- and task-dependence of
+- **[CLAIM-809](../claims.d/CLAIM-809.md)**: supports strand 3 and the window- and task-dependence of
   the thesis's last clause, for one transition and one task family
-  (ARG-tmp5sgtm); the reading replaces LIT-2980 in its grounds. Revised in
+  ([ARG-tmp5sgtm](../arguments.d/ARG-tmp5sgtm.md)); the reading replaces [LIT-2980](../literature.d/LIT-2980.md) in its grounds. Revised in
   place.
-- **QUESTION-507**: point 2 (which measure) gets a case; point 1 (which
+- **[QUESTION-507](../questions.d/QUESTION-507.md)**: point 2 (which measure) gets a case; point 1 (which
   transition) is the paper's own caveat; point 3 is untouched.
-- **CLAIM-814, ARG-148**: contrast. There readout noise, passing through
+- **[CLAIM-814](../claims.d/CLAIM-814.md), [ARG-148](../arguments.d/ARG-148.md)**: contrast. There readout noise, passing through
   no filter the signal does not share, pushes the optimum toward a = 1;
   here critically slowed internal fluctuations the window cannot average
   push it away.
-- **NOTE-054**: qualifies its cited "dynamic range ... maximal" at
+- **[NOTE-054](NOTE-054.md)**: qualifies its cited "dynamic range ... maximal" at
   criticality: in this model, only for infinite integration time.
-- **QUESTION-091**: parallel, same transition. **CLAIM-850**: weak
+- **[QUESTION-091](../questions.d/QUESTION-091.md)**: parallel, same transition. **[CLAIM-850](../claims.d/CLAIM-850.md)**: weak
   support, by the paper's statement that transition type matters.
-  **CLAIM-626**: parallel, slowing as the loss. **CASE-303**: background.
-  **THEORY-2041**: contrast, a different transition.
+  **[CLAIM-626](../claims.d/CLAIM-626.md)**: parallel, slowing as the loss. **[CASE-303](../cases.d/CASE-303.md)**: background.
+  **[THEORY-2041](../theory.d/THEORY-2041.md)**: contrast, a different transition.
 
 Nothing here is filed as an instruction for machine-learning practice.
 

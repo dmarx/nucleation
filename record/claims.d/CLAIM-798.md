@@ -119,7 +119,7 @@ ladder and the rule for climbing to the second.
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35):
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)):
 **consistent with the weak reading.** A32 §6 cites the paper against the
 strong reading, and it bears that out: one gradient step, no dynamics, and
 nothing about active matter. No relation.

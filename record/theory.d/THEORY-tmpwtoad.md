@@ -16,14 +16,14 @@ date: '2026-11-22'
 source:
 - LIT-2972
 summary: >-
-  Stringer and colleagues, LIT-2972, read in NOTE-tmp923nm. V1's code of
+  Stringer and colleagues, [LIT-2972](../literature.d/LIT-2972.md), read in [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md). V1's code of
   natural images sits just on the smooth side of the critical exponent
   1 + 2/d: a spectrum decaying more slowly would put so much variance in
   fine directions that the code would stop being differentiable. The
-  bound is strict and asymptotic in rank. It grounds CLAIM-848's premise
-  in that corrected form (ARG-tmpbad4y).
+  bound is strict and asymptotic in rank. It grounds [CLAIM-848](../claims.d/CLAIM-848.md)'s premise
+  in that corrected form ([ARG-tmpbad4y](../arguments.d/ARG-tmpbad4y.md)).
 ---
-<!-- inactive-ok-file: CLAIM-847 CLAIM-848 ARG-tmpbad4y — Proposed or new; the claims this reading bears on and the argument for its support -->
+<!-- inactive-ok-file: CLAIM-848 ARG-tmpbad4y — Proposed or new; the claims this reading bears on and the argument for its support -->
 
 # THEORY-tmpwtoad: Stringer, Pachitariu, Steinmetz, Carandini and Harris find that the stimulus-related responses of about 10,000 mouse V1 neurons to natural images have a cross-validated eigenspectrum close to a power law with exponent 1.04, fitted over ranks 11 to 500, and prove that in the many-neuron limit a code with finite expected derivative on a d-dimensional stimulus manifold has eigenvalues o(n^(−1−2/d)), a bound on the tail that lower-dimensional stimulus ensembles approach from above
 
@@ -31,8 +31,8 @@ summary: >-
 
 Stringer, Pachitariu, Steinmetz, Carandini and Harris, "High-dimensional
 geometry of population responses in visual cortex", Nature 571 (2019),
-LIT-2972, read from the PMC author manuscript and Nature's Supplementary
-Information in NOTE-tmp923nm.
+[LIT-2972](../literature.d/LIT-2972.md), read from the PMC author manuscript and Nature's Supplementary
+Information in [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md).
 
 ## What was actually shown
 
@@ -61,4 +61,4 @@ risen as d fell. None did.
   to 10.
 - Not why V1 sits near the bound; the bound is one-sided.
 - Nothing about artificial networks; the record's use of it for learned
-  representations (CLAIM-848) is an application.
+  representations ([CLAIM-848](../claims.d/CLAIM-848.md)) is an application.

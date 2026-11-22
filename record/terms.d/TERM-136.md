@@ -83,7 +83,7 @@ perturbations grow, decay or persist).
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad): **a
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
 parallel.** The Supplementary Discussion (§2.2) separates four dimensions
 of a population code: ambient, planar (the dimension of the linear span,
 close to this term's linear-span sense), manifold, and fractal (upper

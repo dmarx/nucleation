@@ -117,7 +117,7 @@ separate, at two or more widths and probe sizes.
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad):
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)):
 **background, and a method.** Their cross-validated PCA, which estimates a
 signal spectrum from two repeats with noise variance excluded, is a way to
 fit the exponent this lead asks for without the noise floor biasing the

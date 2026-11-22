@@ -44,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-767 CLAIM-773 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
 
-<!-- inactive-ok-file: NOTE-tmporpz2 THEORY-tmpye6xs LIT-tmpfn6b8 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
+<!-- inactive-ok-file: THEORY-tmpye6xs LIT-tmpfn6b8 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
 
 # THEORY-2041: Schoenholz and colleagues show, in mean-field theory of wide random fully connected networks with bounded activations and in experiments on MNIST and CIFAR-10, that the correlation between two inputs approaches its limit over a depth scale that diverges only at the order-to-chaos transition, that gradients vanish or explode over the same scale on either side, that networks train when their depth is below about six times that scale, and that dropout removes the transition and so caps trainable depth
 
@@ -73,10 +73,10 @@ mean-field result.
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-A contrast (NOTE-tmporpz2, THEORY-tmpye6xs). That paper's transition is
+A contrast ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md), [THEORY-tmpye6xs](THEORY-tmpye6xs.md)). That paper's transition is
 branching (absorbing-to-active) criticality in a stochastic spiking
 network, not the order-to-chaos transition of this reading, and it says
 the side on which a finite-time optimum lies depends on "the type of
 phase transition", citing for the chaos transition Toyoizumi and Abbott
-(LIT-tmpfn6b8, registered, Deferred), where the supercritical side helps.
+([LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered, Deferred), where the supercritical side helps.
 It does not bear on the depth scales shown here. No relation is written.

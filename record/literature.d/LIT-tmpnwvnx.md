@@ -20,7 +20,7 @@ first_author: 'Ba'
 keywords: []
 implementations: []
 summary: >-
-  Ba, Erdogdu, Suzuki, Wang, Wu & Yang (2022), High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation, arXiv 2205.01445. Here for Dandi and colleagues (LIT-2983), read in NOTE-tmpdac0o, which cites it as the origin of the one-gradient-step setting: a two-layer network whose first layer takes one large step on single-index data, then a ridge-fitted second layer. THEORY-tmpcij35 extends it to the maximal-update step size. Unverified until read.
+  Ba, Erdogdu, Suzuki, Wang, Wu & Yang (2022), High-dimensional Asymptotics of Feature Learning: How One Gradient Step Improves the Representation, arXiv 2205.01445. Here for Dandi and colleagues ([LIT-2983](LIT-2983.md)), read in [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), which cites it as the origin of the one-gradient-step setting: a two-layer network whose first layer takes one large step on single-index data, then a ridge-fitted second layer. [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md) extends it to the maximal-update step size. Unverified until read.
 ---
 <!-- inactive-ok-file: THEORY-tmpcij35 — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -30,4 +30,4 @@ Ba, Erdogdu, Suzuki, Wang, Wu & Yang (2022). arXiv 2205.01445.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of Dandi and colleagues (LIT-2983), read in NOTE-tmpdac0o, which cites it as the origin of the one-gradient-step setting: a two-layer network whose first layer takes one large step on single-index data, then a ridge-fitted second layer. THEORY-tmpcij35 extends it to the maximal-update step size. Not read.
+Registered on 2026-11-22 from the reading of Dandi and colleagues ([LIT-2983](LIT-2983.md)), read in [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), which cites it as the origin of the one-gradient-step setting: a two-layer network whose first layer takes one large step on single-index data, then a ridge-fitted second layer. [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md) extends it to the maximal-update step size. Not read.

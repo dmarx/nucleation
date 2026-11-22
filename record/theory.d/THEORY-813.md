@@ -72,6 +72,6 @@ width. A bearing of use; nothing here tests the reading.
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35): **a
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)): **a
 parallel.** Learned structure appears only off the kernel regime: after a
 maximal-update step, not in random features. No relation.

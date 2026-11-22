@@ -31,7 +31,7 @@ summary: >-
 
 ## The inference
 
-THEORY-tmphbp5a, §V C: in the convergent large-step regime "learning is
+[THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md), §V C: in the convergent large-step regime "learning is
 dominated by the principal covariance directions of the data rather than
 by task-relevant nonlinear representations", because the supervised part
 of the backpropagated error is "effectively incoherent" and the weights
@@ -39,7 +39,7 @@ inherit the input covariance; in the well-trained phase the leading modes
 "capture nontrivial structure in the data that deviates from the principal
 components". By analogy, a language model's top unembedding directions
 would track common structure such as token frequency more in early or
-large-step training than in a well-trained model: CLAIM-tmp9atj9.
+large-step training than in a well-trained model: [CLAIM-tmp9atj9](../claims.d/CLAIM-tmp9atj9.md).
 
 ## Critical questions
 
@@ -51,7 +51,7 @@ large-step training than in a well-trained model: CLAIM-tmp9atj9.
   inputs; an unembedding writes logits, and token frequency is part of the
   next-token task itself, not only nuisance covariance, so a frequency
   direction at the top of a well-trained unembedding would be task
-  structure (THEORY-tmpcij35 has top outliers from feature means carrying
+  structure ([THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md) has top outliers from feature means carrying
   task signal). One dataset, MLPs, regression; phases set by step size and
   initial variance, not training stage, though the linear model's t_c makes
   stage the same kind of variable.
@@ -61,6 +61,6 @@ large-step training than in a well-trained model: CLAIM-tmp9atj9.
 
 ## Verdict
 
-A weak analogy that makes CLAIM-tmp9atj9 a live alternative to part of
-CLAIM-tmp2r6ur and changes what LEAD-tmptgrc7 must record; it does not
+A weak analogy that makes [CLAIM-tmp9atj9](../claims.d/CLAIM-tmp9atj9.md) a live alternative to part of
+[CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md) and changes what [LEAD-tmptgrc7](../leads.d/LEAD-tmptgrc7.md) must record; it does not
 prefer the rival. Proposed.

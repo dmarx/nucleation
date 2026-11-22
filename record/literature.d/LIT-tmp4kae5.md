@@ -20,7 +20,7 @@ first_author: 'Moniri'
 keywords: []
 implementations: []
 summary: >-
-  Moniri, Lee, Hassani & Dobriban (2023), A Theory of Non-Linear Feature Learning with One Gradient Step in Two-Layer Neural Networks, arXiv 2310.07891. Here for Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, §5), who cite it for the non-maximal step sizes η = Θ(d^(1/2+ζ)), ζ < 1/2, at which the trained features show finitely many spikes beside the unchanged random-features bulk; at the maximal step their number diverges and bulk and spikes recombine. It bears on CLAIM-799 and TERM-tmpf5ymd: learned structure as outliers beside a bulk. Unverified until read.
+  Moniri, Lee, Hassani & Dobriban (2023), A Theory of Non-Linear Feature Learning with One Gradient Step in Two-Layer Neural Networks, arXiv 2310.07891. Here for Dandi and colleagues ([LIT-2983](LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), §5), who cite it for the non-maximal step sizes η = Θ(d^(1/2+ζ)), ζ < 1/2, at which the trained features show finitely many spikes beside the unchanged random-features bulk; at the maximal step their number diverges and bulk and spikes recombine. It bears on [CLAIM-799](../claims.d/CLAIM-799.md) and [TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md): learned structure as outliers beside a bulk. Unverified until read.
 ---
 <!-- inactive-ok-file: CLAIM-799 TERM-tmpf5ymd — Proposed or new; the readings that cite this work and the entries it bears on -->
 
@@ -30,4 +30,4 @@ Moniri, Lee, Hassani & Dobriban (2023). arXiv 2310.07891.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, §5), who cite it for the non-maximal step sizes η = Θ(d^(1/2+ζ)), ζ < 1/2, at which the trained features show finitely many spikes beside the unchanged random-features bulk; at the maximal step their number diverges and bulk and spikes recombine. It bears on CLAIM-799 and TERM-tmpf5ymd: learned structure as outliers beside a bulk. Not read.
+Registered on 2026-11-22 from the reading of Dandi and colleagues ([LIT-2983](LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), §5), who cite it for the non-maximal step sizes η = Θ(d^(1/2+ζ)), ζ < 1/2, at which the trained features show finitely many spikes beside the unchanged random-features bulk; at the maximal step their number diverges and bulk and spikes recombine. It bears on [CLAIM-799](../claims.d/CLAIM-799.md) and [TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md): learned structure as outliers beside a bulk. Not read.

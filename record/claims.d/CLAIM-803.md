@@ -51,8 +51,8 @@ summary: >-
   (the other assistant in the exchange "Rich Get Richer Power Laws", A1
   and A3); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 ARG-tmps95tv ARG-tmpmt4gj CLAIM-841 CLAIM-817 CLAIM-806 — Proposed; the readings of 2026-11-22, their arguments, and neighbouring claims -->
-<!-- inactive-ok-file: LIT-tmpvmrkv LIT-2992 — Deferred; registered and unread -->
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 ARG-tmps95tv ARG-tmpmt4gj CLAIM-817 CLAIM-806 — Proposed; the readings of 2026-11-22, their arguments, and neighbouring claims -->
+<!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; registered and unread -->
 <!-- inactive-ok-file: CLAIM-824 CLAIM-830 THEORY-777 THEORY-789 THEORY-2150 ARG-141 CLAIM-795 — Proposed or new; claims and the lead filed with this one, and held readings cited as neighbours -->
 
 # CLAIM-803: A power-law distribution does not identify the mechanism that produced it, nor does a shared power law show a shared mechanism or universality class; the mechanism has to be read from the dynamics, whether gain scales with size, whether there are floors or resets, whether the cutoff grows with the system, after the tail has been fitted against alternatives such as the lognormal
@@ -151,13 +151,13 @@ dynamical tests. [THEORY-2150](../theory.d/THEORY-2150.md) replaces the work in 
 ## Change of 2026-11-22
 
 The summary no longer calls the works read on 2026-11-22 unread;
-THEORY-tmpw4qgu replaces LIT-2987 in `grounds` and THEORY-tmphcnj3 joins
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md) replaces [LIT-2987](../literature.d/LIT-2987.md) in `grounds` and [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md) joins
 it. Version 2.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is
-THEORY-tmp6jdas) **supports the first clause** and **"fit first" in
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports the first clause** and **"fit first" in
 part**, and is **milder than the claim**. Many mechanisms, "different
 ones ... applicable to different cases" (p. 5); "most experimentally
 observed power laws are probably not the result of phase transitions"
@@ -174,15 +174,15 @@ the distributions shown in Fig. 4, especially citations, city populations
 and personal income, it is now the most widely accepted theory" (p. 19).
 That is a field's verdict from fit and plausibility, which this claim
 holds cannot by itself identify the mechanism. For cities the record
-holds the tail open (QUESTION-506), and its reading of Davis and
-Weinstein (THEORY-1499) tells against size-dependent growth in the
-ranking of cities. THEORY-tmp6jdas `corroborates` the claim.
+holds the tail open ([QUESTION-506](../questions.d/QUESTION-506.md)), and its reading of Davis and
+Weinstein ([THEORY-1499](../theory.d/THEORY-1499.md)) tells against size-dependent growth in the
+ranking of cities. [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `corroborates` the claim.
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-Their paper (LIT-2987, read in NOTE-tmphbwdu; the reading is
-THEORY-tmpw4qgu) **supports "fit first"**, **supports the first clause
-indirectly**, and **leaves the dynamical tests open** (ARG-tmps95tv). The
+Their paper ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) **supports "fit first"**, **supports the first clause
+indirectly**, and **leaves the dynamical tests open** ([ARG-tmps95tv](../arguments.d/ARG-tmps95tv.md)). The
 claim cites it correctly for "a straight line on a log-log plot is not
 sufficient" ("necessary but not sufficient", §4, p. 15) and for fitting
 by maximum likelihood against the lognormal (Box 1, §5). It does not
@@ -192,20 +192,20 @@ undecided cases need "a mechanistic or other nonstatistical argument"
 (p. 26). Where forms do separate, the cutoff for fires, quakes and web
 hits, shape narrows the field, as "What it does not say" allows; the
 authors hold that form "may matter greatly" for mechanism (p. 30).
-THEORY-tmpw4qgu replaces the work in `grounds`.
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md) replaces the work in `grounds`.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-Their paper (LIT-2963, read in NOTE-tmpleyjh; the reading is
-THEORY-tmphcnj3) **supports** the claim for network degrees, as the claim
-said it would (ARG-tmpmt4gj): the degree distribution "represents
+Their paper ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is
+[THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)) **supports** the claim for network degrees, as the claim
+said it would ([ARG-tmpmt4gj](../arguments.d/ARG-tmpmt4gj.md)): the degree distribution "represents
 relatively weak evidence when trying to distinguish generating
 mechanisms"; the method fits against the lognormal, at least as good in
 88%. It **qualifies** in the direction the claim allows: the absence of a
 power law limits "any mechanism that necessarily produces power-law
 degree distributions", so shape informs negatively. It adds a converse:
 "some variations of preferential attachment do not produce power-law
-degree distributions" (compare CLAIM-817, CLAIM-806). It asks for a test
+degree distributions" (compare [CLAIM-817](CLAIM-817.md), [CLAIM-806](CLAIM-806.md)). It asks for a test
 "that goes beyond static degree distributions" and names none. Its rarity
-verdict is disputed (LIT-tmpvmrkv), which does not touch what the claim
-takes from it. THEORY-tmphcnj3 joins `grounds`. Status unchanged.
+verdict is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)), which does not touch what the claim
+takes from it. [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md) joins `grounds`. Status unchanged.

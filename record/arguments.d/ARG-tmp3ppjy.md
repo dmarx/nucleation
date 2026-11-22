@@ -14,8 +14,8 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 summary: >-
-  Whether Newman's review (LIT-2976), read in NOTE-tmpa7yd2, carries
-  CLAIM-795, which cited it unread as A's general reference. It carries
+  Whether Newman's review ([LIT-2976](../literature.d/LIT-2976.md)), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md), carries
+  [CLAIM-795](../claims.d/CLAIM-795.md), which cited it unread as A's general reference. It carries
   four of the seven items: tuned criticality (percolation), the walk's 3/2
   (as first return), growth with a spread of ages (Reed and Hughes, as a
   combination of exponentials) and the inverse of a uniform variable. It
@@ -30,8 +30,8 @@ summary: >-
 
 ## The inference
 
-CLAIM-795: power laws arise from many mechanisms with no positive feedback,
-in seven constructions. THEORY-tmp6jdas: Newman's catalogue, with its
+[CLAIM-795](../claims.d/CLAIM-795.md): power laws arise from many mechanisms with no positive feedback,
+in seven constructions. [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md): Newman's catalogue, with its
 exponents.
 
 ## Critical questions (source)
@@ -51,7 +51,7 @@ without the d-ball geometry. And none needs a rich-get-richer feedback.
 The review has no branching process, no mixture of exponential rates (its
 "combinations of exponentials" is an exponential of an exponentially
 distributed variable, item 6's mechanism) and no sample-space reduction.
-Those rest on CASE-303, THEORY-2131 and LIT-2962, and LIT-2997.
+Those rest on [CASE-303](../cases.d/CASE-303.md), [THEORY-2131](../theory.d/THEORY-2131.md) and [LIT-2962](../literature.d/LIT-2962.md), and [LIT-2997](../literature.d/LIT-2997.md).
 
 **Does the claim lean on the reading for more than it holds?** It did, in
 calling the review the general reference for all seven. Corrected in the
@@ -59,6 +59,6 @@ claim's body.
 
 ## Verdict
 
-Support for items 2, 3, 6 and 7. THEORY-tmp6jdas replaces LIT-2976 in
+Support for items 2, 3, 6 and 7. [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) replaces [LIT-2976](../literature.d/LIT-2976.md) in
 the claim's grounds. Random typing, highly optimized tolerance, coherent
 noise and record dynamics are additions, recorded in the claim.

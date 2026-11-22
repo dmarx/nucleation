@@ -243,7 +243,7 @@ simplifications rather than acquisitions ([QUESTION-tmphkb1w](QUESTION-tmphkb1w.
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad): **a
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
 parallel from neuroscience.** In V1, "Successive PC dimensions encode finer
 stimulus features" (Extended Data Fig. 6), and a linear readout of such a
 code learns coarse features first, "at a speed proportional to the

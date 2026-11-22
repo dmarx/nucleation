@@ -151,7 +151,7 @@ ridge regression on a fresh half of the data, has excess risk
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35): **a
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)): **a
 parallel.** The same Gaussian single- and multi-index family, asked what one
 large step does to the feature spectrum and the test error rather than
 when directions are weakly recovered. No relation.

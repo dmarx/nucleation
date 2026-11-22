@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  registered 2026-11-22, not read. Named by the reading of Azizpour, Priesemann, Zierenberg & Levina 2026 (LIT-2980, NOTE-tmporpz2) as its ref. 40, the case in which, at the transition to chaos, deviations toward the supercritical side help in the presence of noise; the record uses it as the chaos-side counterpart of the paper's subcritical optimum (CLAIM-809, QUESTION-507). No reading attempted; no arXiv copy was found on the arXiv API.
+  registered 2026-11-22, not read. Named by the reading of Azizpour, Priesemann, Zierenberg & Levina 2026 ([LIT-2980](LIT-2980.md), [NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md)) as its ref. 40, the case in which, at the transition to chaos, deviations toward the supercritical side help in the presence of noise; the record uses it as the chaos-side counterpart of the paper's subcritical optimum ([CLAIM-809](../claims.d/CLAIM-809.md), [QUESTION-507](../questions.d/QUESTION-507.md)). No reading attempted; no arXiv copy was found on the arXiv API.
 title: 'Beyond the edge of chaos: Amplification and temporal integration by recurrent networks in the chaotic regime'
 version: 1
 history:
@@ -19,9 +19,9 @@ first_author: 'Toyoizumi'
 keywords: []
 implementations: []
 summary: >-
-  Toyoizumi & Abbott (2011), Beyond the edge of chaos: Amplification and temporal integration by recurrent networks in the chaotic regime, Phys. Rev. E 84, 051908. As cited by Azizpour and colleagues (LIT-2980, ref. 40): in recurrent networks at the transition to chaos, deviations toward the supercritical, chaotic side allow slower integration times and are beneficial in the presence of noise. Unverified until read.
+  Toyoizumi & Abbott (2011), Beyond the edge of chaos: Amplification and temporal integration by recurrent networks in the chaotic regime, Phys. Rev. E 84, 051908. As cited by Azizpour and colleagues ([LIT-2980](LIT-2980.md), ref. 40): in recurrent networks at the transition to chaos, deviations toward the supercritical, chaotic side allow slower integration times and are beneficial in the presence of noise. Unverified until read.
 ---
-<!-- inactive-ok-file: NOTE-tmporpz2 CLAIM-809 — Proposed or new; the reading that names this work and the claim it bears on -->
+<!-- inactive-ok-file: CLAIM-809 — Proposed or new; the reading that names this work and the claim it bears on -->
 
 # LIT-tmpfn6b8: Beyond the edge of chaos: Amplification and temporal integration by recurrent networks in the chaotic regime
 
@@ -29,4 +29,4 @@ Toyoizumi & Abbott (2011). Phys. Rev. E 84, 051908.
 
 ## Standing in the record
 
-Registered on 2026-11-22 from the reading of Azizpour, Priesemann, Zierenberg and Levina (LIT-2980, NOTE-tmporpz2), who cite it for the transition to chaos, where "deviations toward the supercritical side, deeper into the chaotic regime, allow for slower integration times and are thus beneficial in the presence of noise": the opposite side from their own subcritical optimum at a branching transition. It bears on CLAIM-809's last clause and on QUESTION-507's point 1 (which transition). Not read.
+Registered on 2026-11-22 from the reading of Azizpour, Priesemann, Zierenberg and Levina ([LIT-2980](LIT-2980.md), [NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md)), who cite it for the transition to chaos, where "deviations toward the supercritical side, deeper into the chaotic regime, allow for slower integration times and are thus beneficial in the presence of noise": the opposite side from their own subcritical optimum at a branching transition. It bears on [CLAIM-809](../claims.d/CLAIM-809.md)'s last clause and on [QUESTION-507](../questions.d/QUESTION-507.md)'s point 1 (which transition). Not read.

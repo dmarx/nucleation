@@ -49,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-135 CASE-302 CLAIM-812 CLAIM-808 — Proposed or new, or Deferred works not yet read; filed with this claim -->
 <!-- inactive-ok-file: ARG-133 THEORY-2155 THEORY-2156 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
-<!-- inactive-ok-file: NOTE-tmp3keyy THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
 # CLAIM-813: Sloppiness and singularity are different properties of a statistical model: sloppiness is a spread of small but nonzero Fisher eigenvalues in a regular model, singularity is rank loss on a stratum of parameter space, so a model can be sloppy everywhere and singular nowhere or singular everywhere with no spread, and at a singular point the Fisher spectrum does not give the learning coefficient
 
@@ -155,7 +155,7 @@ Two parallels, neither moving the claim.
 
 ## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
 
-Corroborates (NOTE-tmp3keyy; THEORY-tmpx26x7 `corroborates` this claim).
+Corroborates ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md); [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md) `corroborates` this claim).
 The review separates what it studies, "practical identifiability, where
 some parameter combinations are almost interchangeable, leading to the
 small, sloppy eigenvalues", from structural non-identifiability, which

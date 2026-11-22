@@ -98,16 +98,16 @@ largest accessible scales" is this.
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35):
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)):
 **background.** After one large step the feature covariance's bulk grows
 "longer tails", which the authors tie to "previous empirical observations
 ... that heavier tails can emerge after feature learning", citing Martin
-and Mahoney and Wang, Engel and colleagues (LIT-tmpcyeab, registered),
+and Mahoney and Wang, Engel and colleagues ([LIT-tmpcyeab](../literature.d/LIT-tmpcyeab.md), registered),
 shown "in this particular instance" only. No relation.
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a):
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)):
 **background.** Their route to heavy-tailed weight spectra under SGD,
 Σ = H⁻¹FH⁻¹ with a power-law Hessian density near zero, is by their account
 "purely schematic" and "highly heuristic". No relation.

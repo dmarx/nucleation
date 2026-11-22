@@ -28,10 +28,10 @@ corroborates:
 bears_on:
 - QUESTION-505
 summary: >-
-  Newman (2005), LIT-2976, read in NOTE-tmpa7yd2. A tutorial review: its
+  Newman (2005), [LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md). A tutorial review: its
   results are mostly other people's, with heuristic derivations the author
   flags. What the record uses is the catalogue of mechanisms with their
-  exponents, which grounds items 2, 3, 6 and 7 of CLAIM-795 and adds four
+  exponents, which grounds items 2, 3, 6 and 7 of [CLAIM-795](../claims.d/CLAIM-795.md) and adds four
   mechanisms with no feedback (random typing, highly optimized tolerance,
   coherent noise, record dynamics), and its judgement that most observed
   power laws are probably not from phase transitions. It has no model
@@ -39,15 +39,15 @@ summary: >-
   theory for citations, cities and income. Proposed until the reading is
   confirmed.
 ---
-<!-- inactive-ok-file: CLAIM-795 CLAIM-815 CLAIM-803 CLAIM-841 ARG-tmp3ppjy — Proposed; the claims this reading grounds or corroborates, and the argument for the first -->
+<!-- inactive-ok-file: CLAIM-795 CLAIM-815 — Proposed; the claims this reading grounds or corroborates, and the argument for the first -->
 
 # THEORY-tmp6jdas: Newman recommends measuring a power law by its cumulative distribution and a maximum-likelihood exponent rather than a least-squares fit to a log-log histogram, and holds that many mechanisms produce power laws, among them combinations of exponentials, inverses of quantities, random-walk first return times, the Yule process, critical phenomena and self-organized criticality, that different ones apply to different cases, and that most observed power laws are probably not the result of phase transitions
 
 ## Source
 
 Newman (2005), "Power laws, Pareto distributions and Zipf's law",
-Contemporary Physics 46, 323–351, LIT-2976, read in full from the arXiv
-v3 in NOTE-tmpa7yd2.
+Contemporary Physics 46, 323–351, [LIT-2976](../literature.d/LIT-2976.md), read in full from the arXiv
+v3 in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md).
 
 ## The account
 
@@ -80,14 +80,14 @@ of phase transitions" (p. 12).
 What could have come out otherwise: little, since the formulas are known.
 The filer checked the identities (python3 -I): with a = −λ and b = g,
 1 − a/b = 1 + λ/g, Reed's density exponent, so the survival exponent is
-λ/g, CLAIM-795's item 6; x = 1/y gives γ = 1 and α = 2; the Yule
+λ/g, [CLAIM-795](../claims.d/CLAIM-795.md)'s item 6; x = 1/y gives γ = 1 and α = 2; the Yule
 exponent at m = 2, k0 = 1, c = 0 is 2.5, and at k0 = 0, c = m it is 3.
 
 ## What this does not say
 
-- Not a test of fit or a comparison with alternatives; that is LIT-2987.
+- Not a test of fit or a comparison with alternatives; that is [LIT-2987](../literature.d/LIT-2987.md).
 - Not anything on critical branching, rate mixtures or sample-space
-  reduction (items 1, 4 and 5 of CLAIM-795), nor on the hitting-time
-  identity behind CLAIM-815.
+  reduction (items 1, 4 and 5 of [CLAIM-795](../claims.d/CLAIM-795.md)), nor on the hitting-time
+  identity behind [CLAIM-815](../claims.d/CLAIM-815.md).
 - Not that the shape of a distribution says nothing about mechanism:
   Newman assigns mechanisms by plausibility.

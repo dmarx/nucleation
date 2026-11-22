@@ -34,10 +34,10 @@ summary: >-
 ## Contribution
 
 1. Rigour for the maximal-update one-step regime, which earlier
-   random-matrix work (Moniri and colleagues, LIT-tmp4kae5, step sizes
+   random-matrix work (Moniri and colleagues, [LIT-tmp4kae5](../literature.d/LIT-tmp4kae5.md), step sizes
    Θ(d^(1/2+ζ)) with ζ < 1/2) did not reach. It is the rigorous version of
-   the replica result of Cui and colleagues (LIT-tmpj4og3), in the one-step
-   setting of Ba and colleagues (LIT-tmpnwvnx), extended to a second layer
+   the replica result of Cui and colleagues ([LIT-tmpj4og3](../literature.d/LIT-tmpj4og3.md)), in the one-step
+   setting of Ba and colleagues ([LIT-tmpnwvnx](../literature.d/LIT-tmpnwvnx.md)), extended to a second layer
    initialized from k values.
 2. A deterministic equivalent for the feature covariance's resolvent, so
    the bulk spectrum and the exact test error.
@@ -87,7 +87,7 @@ it.
   the longer tails to "previous empirical observations ... that heavier
   tails can emerge after feature learning, a behaviour which further
   tends to correlate with better generalization" (Martin and Mahoney;
-  Wang and colleagues, LIT-tmpcyeab).
+  Wang and colleagues, [LIT-tmpcyeab](../literature.d/LIT-tmpcyeab.md)).
 - **Bulk and spikes** (§5): at the maximal step "it is largely unclear how
   the bulk and spikes recombine"; "the departure of the bulk from its
   untrained shape can be intuitively seen as a result of the recombination
@@ -108,34 +108,34 @@ it.
 ## Connections
 
 The η = Θ(d) step is the maximal-update parametrization, the regime in
-which THEORY-2133 and CLAIM-775 say features are learned; leaving the lazy
-regime of THEORY-2135 and THEORY-813 is the point. The baseline, the dashed
-initial spectrum, is the random-features model of THEORY-106. THEORY-283 is
+which [THEORY-2133](../theory.d/THEORY-2133.md) and [CLAIM-775](../claims.d/CLAIM-775.md) say features are learned; leaving the lazy
+regime of [THEORY-2135](../theory.d/THEORY-2135.md) and [THEORY-813](../theory.d/THEORY-813.md) is the point. The baseline, the dashed
+initial spectrum, is the random-features model of [THEORY-106](../theory.d/THEORY-106.md). [THEORY-283](../theory.d/THEORY-283.md) is
 the same Gaussian multi-index family asked a different question. Wang, Wu
-and Fan (LIT-2984) is a sibling not cited. THEORY-420's random-matrix null
+and Fan ([LIT-2984](../literature.d/LIT-2984.md)) is a sibling not cited. [THEORY-420](../theory.d/THEORY-420.md)'s random-matrix null
 for weight spectra is the contrast: here learning reshapes the bulk and
 adds outliers, and the bottom of the spectrum is not discussed.
 
 ## Bearing on the record
 
-Filed as THEORY-tmpcij35. Dated notes of 2026-11-22 on each entry below.
+Filed as [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md). Dated notes of 2026-11-22 on each entry below.
 
-- **LIT-2983's own summary was partly wrong**, corrected there: the spike
+- **[LIT-2983](../literature.d/LIT-2983.md)'s own summary was partly wrong**, corrected there: the spike
   is in the weights; the feature spectrum's headline is a reshaped bulk;
   its outliers come from the feature means; the error depends on the whole
   deterministic equivalent.
-- **CLAIM-799**: supports A32 §6's narrow point that the spiked picture of
+- **[CLAIM-799](../claims.d/CLAIM-799.md)**: supports A32 §6's narrow point that the spiked picture of
   learned features is a theorem, for one step, and qualifies the claim:
   learning shows spectrally as bulk reshaping, not only as an outlier
-  crossing a threshold (ARG-tmp2mzk1, and the claim's change of
+  crossing a threshold ([ARG-tmp2mzk1](../arguments.d/ARG-tmp2mzk1.md), and the claim's change of
   2026-11-22).
-- **TERM-tmpf5ymd**: a worked case where the two senses of "bulk" split.
-- **CLAIM-tmp2r6ur**: leaves open, with a contrast: the top outliers come
+- **[TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md)**: a worked case where the two senses of "bulk" split.
+- **[CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md)**: leaves open, with a contrast: the top outliers come
   from the means but carry the task signal here.
-- **CLAIM-798** (consistent: one step, no dynamics), **CLAIM-832**
-  (background: heavier tails after learning), **THEORY-2133**,
-  **CLAIM-775**, **THEORY-2135**, **THEORY-813**, **THEORY-106**,
-  **THEORY-283**, **THEORY-420** (background, parallel or contrast; notes
+- **[CLAIM-798](../claims.d/CLAIM-798.md)** (consistent: one step, no dynamics), **[CLAIM-832](../claims.d/CLAIM-832.md)**
+  (background: heavier tails after learning), **[THEORY-2133](../theory.d/THEORY-2133.md)**,
+  **[CLAIM-775](../claims.d/CLAIM-775.md)**, **[THEORY-2135](../theory.d/THEORY-2135.md)**, **[THEORY-813](../theory.d/THEORY-813.md)**, **[THEORY-106](../theory.d/THEORY-106.md)**,
+  **[THEORY-283](../theory.d/THEORY-283.md)**, **[THEORY-420](../theory.d/THEORY-420.md)** (background, parallel or contrast; notes
   there).
 
 Nothing here is filed as an instruction for machine-learning practice.

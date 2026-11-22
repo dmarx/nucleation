@@ -41,7 +41,7 @@ summary: >-
   (the other assistant in the exchange "Rich Get Richer Power Laws", A1 and
   A3); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: LIT-3004 LIT-2968 LIT-2974 LIT-3002 — Deferred; the works A cites or invokes, registered from this exchange and not read -->
 <!-- inactive-ok-file: CLAIM-830 CLAIM-806 CLAIM-803 CLAIM-184 CLAIM-677 THEORY-1927 THEORY-188 — Proposed or new; claims filed from the same exchange and held entries cited as neighbours -->
 <!-- inactive-ok-file: ARG-127 ARG-149 THEORY-2150 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
@@ -154,16 +154,16 @@ unchanged.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is THEORY-tmp6jdas) **supports the linear-plus-entry half**. His Yule process founds a new
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports the linear-plus-entry half**. His Yule process founds a new
 unit each step and attaches in proportion to k, or k + c, giving
 α = 2 + (k0 + c)/m (§IV.D, pp. 17–19); Barabási and Albert's c = m gives
 3, "but again there doesn't seem to be a good reason for this assumption"
 (p. 19). It **leaves open** the sublinear and superlinear kernels.
-THEORY-tmp6jdas `corroborates` the claim.
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `corroborates` the claim.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-Broido and Clauset (LIT-2963, read in NOTE-tmpleyjh; the reading is THEORY-tmphcnj3): **a parallel**. The claim's "Not that any real system's heavy tail
+Broido and Clauset ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)): **a parallel**. The claim's "Not that any real system's heavy tail
 comes from cumulative advantage" agrees with the paper's "generally
 limited role for any mechanism that necessarily produces power-law degree
 distributions", and its "some variations of preferential attachment do

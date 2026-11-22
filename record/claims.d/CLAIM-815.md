@@ -107,9 +107,9 @@ cutoff", and both the power and the cutoff.
   higher dimensions or with heavy-tailed steps.
 - Not that this was read in a source. The theorem is standard (Otter
   1949, Dwass 1969, Kemperman), none of it registered here. Newman's
-  review (LIT-2976), A's reference, was read on 2026-11-22: it has the
+  review ([LIT-2976](../literature.d/LIT-2976.md)), A's reference, was read on 2026-11-22: it has the
   walk's 3/2 by generating functions and not the link to branching
-  (ARG-tmp275n1).
+  ([ARG-tmp275n1](../arguments.d/ARG-tmp275n1.md)).
 - On the objection: A gave the exploration picture. What is added is the
   identity that turns it into the exponent, and the cutoff that falls out
   of the same formula.
@@ -117,17 +117,17 @@ cutoff", and both the power and the cutoff.
 ## Change of 2026-11-22
 
 The line "Newman's review ... is unread" now says what the review has;
-LIT-2976 leaves `grounds` (ARG-tmp275n1). Version 2.
+[LIT-2976](../literature.d/LIT-2976.md) leaves `grounds` ([ARG-tmp275n1](../arguments.d/ARG-tmp275n1.md)). Version 2.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is
-THEORY-tmp6jdas) **leaves the claim open; a parallel**. §IV.C
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **leaves the claim open; a parallel**. §IV.C
 (pp. 15–16) derives the first return of a symmetric ±1 walk to the origin
 by generating functions, f_2n ∝ n^(−3/2): "So the distribution of return
 times follows a power law with exponent α = 3/2." It never mentions a
 branching process, the cycle lemma or Dwass's formula. So it gives one
 half of the coincidence by another route and nothing on the identity,
-which rests on this claim's own derivation and CASE-303.
-THEORY-tmp6jdas `corroborates` the walk's exponent; it is not a ground.
+which rests on this claim's own derivation and [CASE-303](../cases.d/CASE-303.md).
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `corroborates` the walk's exponent; it is not a ground.
 Status unchanged.

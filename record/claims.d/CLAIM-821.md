@@ -40,7 +40,7 @@ summary: >-
   alternatives, [CLAIM-851](CLAIM-851.md) and [CLAIM-831](CLAIM-831.md). The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 date: '2026-11-21'
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: THEORY-tmpw4qgu — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-797 CLAIM-800 CLAIM-818 CLAIM-841 CLAIM-803 CLAIM-851 CLAIM-831 — Proposed or new; filed 2026-11-21 -->
 
 # CLAIM-821: Evidence that a system has learned a distinction certifies it only when scored against what the same measure shows with no learning, a null; a measure read without its null cannot certify
@@ -62,7 +62,7 @@ The wording is the assistant's (Claude, in this session); adopting it is the own
 
 ## Note of 2026-11-22: Clauset, Shalizi and Newman, read
 
-Clauset, Shalizi and Newman (LIT-2987, read in NOTE-tmphbwdu; the reading is THEORY-tmpw4qgu): **a parallel**. Their bootstrap p-value scores the data against a
+Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is [THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)): **a parallel**. Their bootstrap p-value scores the data against a
 null fitted to the same data, refitting each synthetic set by "the same
 calculation that we performed for the real data set" (§4.1, p. 17), and
 they warn that "a large p-value does not necessarily mean the power law

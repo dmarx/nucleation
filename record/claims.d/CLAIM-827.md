@@ -197,9 +197,9 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a): **a
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)): **a
 parallel.** In their linear model the student converges toward the teacher
 from the first step while the weight spectrum's outlier appears only at a
 critical time: one more case of learning preceding spectral detection,
-with the weight matrix as the estimator. No relation; CLAIM-799 carries
-the support (ARG-tmps8aog).
+with the weight matrix as the estimator. No relation; [CLAIM-799](CLAIM-799.md) carries
+the support ([ARG-tmps8aog](../arguments.d/ARG-tmps8aog.md)).

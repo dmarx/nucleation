@@ -121,7 +121,7 @@ The BBP paper ([LIT-2986](../literature.d/LIT-2986.md), read in [NOTE-2241](../n
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues (LIT-2990, NOTE-tmpzethm, THEORY-tmphbp5a): **a
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)): **a
 parallel.** Their load α = P/D plays the part of this claim's sample
 ratio for the finite-data bulk: "finite-sample fluctuations strongly
 deform the bulk spectrum and suppress signal extraction", and the window in

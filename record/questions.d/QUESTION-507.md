@@ -41,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-2991 — Deferred, registered 2026-11-21 from the exchange, unread -->
 <!-- inactive-ok-file: THEORY-2158 CLAIM-850 — Proposed; the reading of 2026-11-21 and a claim it bears on -->
 
-<!-- inactive-ok-file: NOTE-tmporpz2 THEORY-tmpye6xs LIT-tmpfn6b8 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
+<!-- inactive-ok-file: THEORY-tmpye6xs LIT-tmpfn6b8 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22, and the Deferred work it names -->
 
 # QUESTION-507: Do systems near a dynamical transition, or with scale-free dynamics, have a distinctive computational capacity, or does nearness to the transition only redistribute a bounded capacity among kinds of computation, by task?
 
@@ -55,7 +55,7 @@ capacity (Dambre and colleagues, [LIT-2971](../literature.d/LIT-2971.md), read 2
 dated note), a three-way
 tradeoff of sensitivity, reliability and speed, and a finite-window study
 in which the best discrimination moves off the critical point
-(LIT-2980, read 2026-11-22: see the dated note). A's answer is [CLAIM-809](../claims.d/CLAIM-809.md); one exactly solved
+([LIT-2980](../literature.d/LIT-2980.md), read 2026-11-22: see the dated note). A's answer is [CLAIM-809](../claims.d/CLAIM-809.md); one exactly solved
 case is [CLAIM-814](../claims.d/CLAIM-814.md).
 
 Three things keep it open.
@@ -131,7 +131,7 @@ A weaker bearing, a claim without proof ([THEORY-2151](../theory.d/THEORY-2151.m
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-Read in NOTE-tmporpz2 (THEORY-tmpye6xs, which `bears_on` this question).
+Read in [NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md) ([THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md), which `bears_on` this question).
 It **gives a case for point 2 and leaves points 1 and 3 open**.
 
 - **Point 2, which measure:** the number of ε-discriminable input rates
@@ -142,7 +142,7 @@ It **gives a case for point 2 and leaves points 1 and 3 open**.
   transition: "On which side of the transition this optimum lies will,
   however, depend on both the task and the type of phase transition", the
   transition to chaos favouring the supercritical side (Toyoizumi and
-  Abbott, LIT-tmpfn6b8, registered, Deferred). A statement with a
+  Abbott, [LIT-tmpfn6b8](../literature.d/LIT-tmpfn6b8.md), registered, Deferred). A statement with a
   citation, not the step relating the two transitions that point 1 asks
   for.
 - **"What would answer it":** the paper gives performance against

@@ -65,8 +65,8 @@ bears_on:
 A5 opens: "there is a surprisingly large family of processes that generate
 power laws, many of which have **nothing to do with rich-get-richer
 dynamics, compounding wealth, or self-organized criticality**." Newman's
-review (LIT-2976) is A's general reference; read on 2026-11-22, it
-grounds items 2, 3, 6 and 7 only (THEORY-tmp6jdas, ARG-tmp3ppjy).
+review ([LIT-2976](../literature.d/LIT-2976.md)) is A's general reference; read on 2026-11-22, it
+grounds items 2, 3, 6 and 7 only ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md), [ARG-tmp3ppjy](../arguments.d/ARG-tmp3ppjy.md)).
 
 1. **Critical branching** (§1). At R = 1 with finite, nonzero offspring
    variance, P(S = s) ∝ s^(−3/2). Checked for Poisson offspring in
@@ -165,14 +165,14 @@ say"), so these are additions, not defeaters. [THEORY-2150](../theory.d/THEORY-2
 
 Newman's review read: the line calling it A's general reference now says
 it grounds items 2, 3, 6 and 7 only; item 3 notes his first-return
-derivation; the summary is updated; THEORY-tmp6jdas replaces LIT-2976 in
+derivation; the summary is updated; [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) replaces [LIT-2976](../literature.d/LIT-2976.md) in
 `grounds`. Version 2.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review (LIT-2976, read in NOTE-tmpa7yd2; the reading is
-THEORY-tmp6jdas) **grounds items 2, 3, 6 and 7**, **leaves items 1, 4 and
-5 open**, and **adds four mechanisms** (ARG-tmp3ppjy).
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **grounds items 2, 3, 6 and 7**, **leaves items 1, 4 and
+5 open**, and **adds four mechanisms** ([ARG-tmp3ppjy](../arguments.d/ARG-tmp3ppjy.md)).
 
 - **Item 2.** Percolation at p_c = 0.5927462, and a coarse-graining
   argument that the cluster distribution is a power law at the critical
@@ -190,11 +190,11 @@ THEORY-tmp6jdas) **grounds items 2, 3, 6 and 7**, **leaves items 1, 4 and
   exponential rates (item 4; Newman's "combinations of exponentials" is
   item 6's mechanism, not a mixture), sample-space reduction (item 5).
 - **Further mechanisms with no rich-get-richer feedback**, which the
-  catalogue lacks: Miller's random typing (§IV.A; LIT-tmppzucs, already
+  catalogue lacks: Miller's random typing (§IV.A; [LIT-tmppzucs](../literature.d/LIT-tmppzucs.md), already
   noted from Mitzenmacher), highly optimized tolerance (§IV.G; Carlson and
-  Doyle, LIT-tmp2octb), coherent noise (§IV.G; Sneppen and Newman,
-  LIT-tmp1db7e) and record dynamics, waiting times between records with
-  exponent 1 (§IV.G; Sibani and Littlewood, LIT-tmpf9hct). Highly
+  Doyle, [LIT-tmp2octb](../literature.d/LIT-tmp2octb.md)), coherent noise (§IV.G; Sneppen and Newman,
+  [LIT-tmp1db7e](../literature.d/LIT-tmp1db7e.md)) and record dynamics, waiting times between records with
+  exponent 1 (§IV.G; Sibani and Littlewood, [LIT-tmpf9hct](../literature.d/LIT-tmpf9hct.md)). Highly
   optimized tolerance involves an optimizer, as Mitzenmacher's
   optimization does. The catalogue does not claim completeness, so these
   are additions, not defeaters.

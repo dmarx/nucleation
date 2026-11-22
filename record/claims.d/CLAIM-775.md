@@ -147,10 +147,10 @@ linear network reverses and compresses the staged hierarchy of learning
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues (LIT-2983, NOTE-tmpdac0o, THEORY-tmpcij35):
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)):
 **background.** The paper's regime is the maximal-update parametrization's
 step size, η = Θ(d), against Moniri and colleagues' smaller steps
-(LIT-tmp4kae5), and the difference shows in the spectrum: finitely many
+([LIT-tmp4kae5](../literature.d/LIT-tmp4kae5.md)), and the difference shows in the spectrum: finitely many
 spikes beside the random-features bulk at smaller steps, a reshaped bulk at
 the maximal one. A parametrization allocating rates thus also sets what
 the learned spectrum looks like. A note, no relation.

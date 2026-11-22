@@ -139,7 +139,7 @@ The count above does not depend on it.
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues (LIT-2972, NOTE-tmp923nm, THEORY-tmpwtoad): **a
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
 parallel.** The resolved power-law range grows with the numbers of neurons
 and stimuli (Fig. 2g–j); "typically this range extends to approximately
 half the total number of stimuli presented" (SI §3.5), below which the

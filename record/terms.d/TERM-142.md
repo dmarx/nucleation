@@ -58,7 +58,7 @@ is meant must be said, because they come apart.
    P(X > bx | X > x) → b^(−α) whatever x is (A8 §4, A10 §7). This is the
    sense the exchange opened with (A1), and the sense of "scale-free
    network" in its broad form. Broido and Clauset test a narrower one, an
-   exact power law above k_min with no L(x) (THEORY-tmphcnj3), and the
+   exact power law above k_min with no L(x) ([THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)), and the
    dispute over their verdict turns on the difference (see the note of
    2026-11-22). It says how often large values occur and nothing about how
    values at different places, times or scales are related.
@@ -114,7 +114,7 @@ is meant must be said, because they come apart.
   only when the eigenbasis is the Fourier basis, that is, for a stationary
   field. Otherwise a power-law rank spectrum is not a statement about
   scales in space or time. Stringer and others' V1 population code
-  (LIT-2972), whose stimulus-related variance falls as about 1/n with
+  ([LIT-2972](../literature.d/LIT-2972.md)), whose stimulus-related variance falls as about 1/n with
   the rank of its principal component, is an instance: the exchange and
   its authors call it a power-law spectrum, and it is one in this rank
   sense (added 2026-11-22).
@@ -141,20 +141,20 @@ is meant must be said, because they come apart.
 ## Change of 2026-11-22
 
 Sense 1 names Broido and Clauset's narrower usage; the rank-spectrum
-bullet names LIT-2972 as an instance. Version 2.
+bullet names [LIT-2972](../literature.d/LIT-2972.md) as an instance. Version 2.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-**A contrast** (LIT-2963, read in NOTE-tmpleyjh; the reading is
-THEORY-tmphcnj3). The paper's "scale-free network" is a degree
+**A contrast** ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is
+[THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)). The paper's "scale-free network" is a degree
 distribution that is exactly Pr(k) ∝ k^(−α) above k_min, with the body
 discarded and no slowly varying correction. That is narrower than sense
-1. Voitalov, van der Hoorn, van der Hofstad and Krioukov (LIT-tmpvmrkv,
+1. Voitalov, van der Hoorn, van der Hofstad and Krioukov ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md),
 registered, unread) contest the verdict from sense 1 itself: by their
 abstract, they define a power-law distribution as a regularly varying
 one, which "allows the distribution to deviate from a pure power law
 arbitrarily but without affecting the power-law tail exponent", and find
 real scale-free networks "definitely not as rare". So the term should be
 read with its L(x): a claim that networks are, or are not, scale free in
-sense 1 is not settled by a test of an exact power law. THEORY-tmphcnj3
+sense 1 is not settled by a test of an exact power law. [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)
 is in `draws_on` as the usage this sense is set against.

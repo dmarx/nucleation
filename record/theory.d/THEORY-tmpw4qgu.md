@@ -21,8 +21,8 @@ source:
 bears_on:
 - QUESTION-506
 summary: >-
-  Clauset, Shalizi & Newman (2009), LIT-2987, read in NOTE-tmphbwdu. The
-  record's standard for fitting a tail, and the ground of CLAIM-803's
+  Clauset, Shalizi & Newman (2009), [LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md). The
+  record's standard for fitting a tail, and the ground of [CLAIM-803](../claims.d/CLAIM-803.md)'s
   "fit first" clause. Its empirical lesson is that a power law and a
   lognormal are seldom distinguishable at realistic sample sizes (US city
   sizes among the undecided), and it defers the choice to mechanism
@@ -36,8 +36,8 @@ summary: >-
 ## Source
 
 Clauset, Shalizi & Newman (2009), "Power-law distributions in empirical
-data", SIAM Review 51(4), 661–703, LIT-2987, read from the arXiv v2 in
-NOTE-tmphbwdu.
+data", SIAM Review 51(4), 661–703, [LIT-2987](../literature.d/LIT-2987.md), read from the arXiv v2 in
+[NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md).
 
 ## The account
 
