@@ -214,8 +214,8 @@ No status change.
 ## Note of 2026-11-22: dual control read (Meijer and Rantzer), for [LEAD-145](../leads.d/LEAD-145.md)
 
 [LEAD-145](../leads.d/LEAD-145.md) registered and read a standard treatment of dual control,
-[LIT-tmpbta8p](../literature.d/LIT-tmpbta8p.md) (Meijer and Rantzer, 2026), read in
-[NOTE-tmpk22nd](../notes.d/NOTE-tmpk22nd.md). This checks the citation this claim's "What it does
+[LIT-3129](../literature.d/LIT-3129.md) (Meijer and Rantzer, 2026), read in
+[NOTE-2352](../notes.d/NOTE-2352.md). This checks the citation this claim's "What it does
 not say" flags as unchecked ("In dual control (Feldbaum) an action also
 observes; that case is excluded"). Checked: Feldbaum, A. A. (1960/1963),
 "Dual control theory", is correctly the origin of the term and of the
@@ -232,8 +232,8 @@ claim's theorem stands in its own model. No status change.
 ## Note of 2026-11-22: value of information read (Whitmeyer), for [LEAD-145](../leads.d/LEAD-145.md)
 
 [LEAD-145](../leads.d/LEAD-145.md) also registered and read a standard treatment of the value of
-information, [LIT-tmpkun97](../literature.d/LIT-tmpkun97.md) (Whitmeyer, 2024), read in
-[NOTE-tmp16xnt](../notes.d/NOTE-tmp16xnt.md). This checks the other unchecked citation: the
+information, [LIT-3131](../literature.d/LIT-3131.md) (Whitmeyer, 2024), read in
+[NOTE-2354](../notes.d/NOTE-2354.md). This checks the other unchecked citation: the
 nonconcavity "is usually credited to Radner and Stiglitz". Checked: Radner,
 R. and Stiglitz, J. (1984), "A nonconcavity in the value of information",
 Bayesian Models in Economic Theory, 5:33–52; Whitmeyer confirms the

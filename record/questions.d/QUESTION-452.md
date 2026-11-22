@@ -23,7 +23,7 @@ summary: >-
   slowly. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmp9t69m — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2196 — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
 # QUESTION-452: Does keeping a maintained organization precise cost dissipation in proportion to the precision, so that how exactly a self-maintaining structure holds its state is bounded by what it spends, and does that bound separate organizations that persist from structures that merely last?
 
@@ -91,7 +91,7 @@ The mapping of [CLAIM-604](../claims.d/CLAIM-604.md)'s or [CLAIM-516](../claims.
 ## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
 
 **Qualifies the first item of "What would count as an answer", and leaves
-the question open** ([LIT-2981](../literature.d/LIT-2981.md), [NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md); [THEORY-tmp9t69m](../theory.d/THEORY-tmp9t69m.md), which
+the question open** ([LIT-2981](../literature.d/LIT-2981.md), [NOTE-2291](../notes.d/NOTE-2291.md); [THEORY-2196](../theory.d/THEORY-2196.md), which
 `bears_on` this question).
 
 - **The price holds for any current.** The relation is now proved for

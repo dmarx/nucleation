@@ -64,7 +64,7 @@ summary: >-
   only that entrenchment and knockout do not show it; and it reads
   Wimsatt's concept only as they quote it.
 ---
-<!-- inactive-ok-file: THEORY-tmpk0h4i — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
+<!-- inactive-ok-file: THEORY-2273 — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose step from entrenchment to closure this claim examines -->
 <!-- inactive-ok-file: LIT-1926 — Unavailable since 2026-11-22, unread; cited for what the reading of LIT-188 reports of it -->
 
@@ -150,13 +150,13 @@ cannot do it either ([CLAIM-194](CLAIM-194.md)).
 ## Note of 2026-11-22: entrenchment as its source defines it, read
 
 Read for [LEAD-176](../leads.d/LEAD-176.md). Wimsatt's book ([LIT-1926](../literature.d/LIT-1926.md)) has no lawful copy and is
-Unavailable; Wimsatt and Schank 2004 ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md), [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md),
-[THEORY-tmpk0h4i](../theory.d/THEORY-tmpk0h4i.md)) was read in its place for the definition. Also read:
-Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md)) and Bourrat 2022
-([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md)).
+Unavailable; Wimsatt and Schank 2004 ([LIT-3138](../literature.d/LIT-3138.md), [NOTE-2365](../notes.d/NOTE-2365.md),
+[THEORY-2273](../theory.d/THEORY-2273.md)) was read in its place for the definition. Also read:
+Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-2363](../notes.d/NOTE-2363.md)) and Bourrat 2022
+([LIT-1927](../literature.d/LIT-1927.md), [NOTE-2361](../notes.d/NOTE-2361.md)).
 
 - **The second defeater is not met** (corroborates; written as
-  `corroborates` on [THEORY-tmpk0h4i](../theory.d/THEORY-tmpk0h4i.md)). The source defines generative
+  `corroborates` on [THEORY-2273](../theory.d/THEORY-2273.md)). The source defines generative
   entrenchment as reachability: "We define the generative entrenchment
   (GE) of a node as the magnitude of this downstream dependency", on a
   directed graph of "the organism plus relevant aspects of its

@@ -22,7 +22,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: what the computed accuracy-plus-cost
-    objective does on a minimal scaffolding model (CASE-tmpgfgy2). Status
+    objective does on a minimal scaffolding model (CASE-320). Status
     unchanged.
 tags:
 - complex-systems
@@ -44,7 +44,7 @@ summary: >-
   the body, which says one "pretend[s] as if" the level of selection
   changed.
 ---
-<!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq — new, filed 2026-11-22 from LEAD-167's computation -->
+<!-- inactive-ok-file: CASE-320 CLAIM-884 — new, filed 2026-11-22 from LEAD-167's computation -->
 <!-- inactive-ok-file: LIT-049 LIT-005 — Proposed; LIT-049 is the source this account was read from, and its NOTE places it; LIT-005 is named as its successor -->
 <!-- inactive-ok-file: THEORY-141 THEORY-257 THEORY-418 THEORY-465 — Proposed; a rival and neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
@@ -141,8 +141,8 @@ and the operation count. The account is argued, not tested.
 
 The promote_when asks for one objective, prediction error plus cost,
 computed over candidate partitions, picking out the collectives "with the
-selected grain shifting as the transition proceeds". [CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md) computes such an
-objective on a minimal ecological-scaffolding model, and [CLAIM-tmptbxbq](../claims.d/CLAIM-tmptbxbq.md) states the
+selected grain shifting as the transition proceeds". [CASE-320](../cases.d/CASE-320.md) computes such an
+objective on a minimal ecological-scaffolding model, and [CLAIM-884](../claims.d/CLAIM-884.md) states the
 result. The cost is δC + κ·k, with [LIT-049](../literature.d/LIT-049.md)'s one operation per entity per
 step.
 

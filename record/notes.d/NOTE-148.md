@@ -168,9 +168,9 @@ Arguments and positions, with locations:
 ## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
 
 A **partial answer from Mossio's side**, no edge. Mossio and Moreno
-([NOTE-tmpnhdly](NOTE-tmpnhdly.md)) concede that closure "underdetermines, in itself, the whole
+([NOTE-2311](NOTE-2311.md)) concede that closure "underdetermines, in itself, the whole
 set of requirements" of an organism (pdf p. 13), and Bich and colleagues
-([NOTE-tmpefons](NOTE-tmpefons.md)) name what is added: regulation, control by a dynamically
+([NOTE-2310](NOTE-2310.md)) name what is added: regulation, control by a dynamically
 decoupled subsystem that shifts the constitutive regime between viable
 states. That is close to Baedke's own stronger criterion, that organisms can
 give up one closure regime for another and control the passage. Neither

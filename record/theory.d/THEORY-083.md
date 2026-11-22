@@ -67,7 +67,7 @@ bears_on:
 - QUESTION-080
 - QUESTION-202
 ---
-<!-- inactive-ok-file: THEORY-tmp8sxta THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2185 THEORY-2189 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 <!-- inactive-ok-file: THEORY-788 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
@@ -198,7 +198,7 @@ evidence. This entry's title and status are unchanged.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **background,
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-2276](../notes.d/NOTE-2276.md), [THEORY-2185](THEORY-2185.md)): **background,
 consistent.** NC1 and NC2 are reproduced with ResNet-18 on relabelled
 CIFAR-10 (§4, Fig. 3), on the coarse labels. What collapses is the variance
 ratio; the residual keeps finer structure ([THEORY-788](THEORY-788.md)'s note). A note, no
@@ -206,7 +206,7 @@ relation.
 
 ## Note of 2026-11-22: Ansuini and colleagues, read
 
-Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md), [THEORY-tmpwn1xp](THEORY-tmpwn1xp.md)): **a parallel.** A
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-2278](../notes.d/NOTE-2278.md), [THEORY-2189](THEORY-2189.md)): **a parallel.** A
 last-hidden-layer intrinsic dimension of about 12 to 25 is compatible with
 collapse toward class means, but the paper does not measure collapse. No
 relation.

@@ -43,8 +43,8 @@ grounds:
 ---
 <!-- inactive-ok-file: THEORY-2158 ARG-146 — Proposed; the reading of Dambre and colleagues and its argument, 2026-11-21 -->
 
-<!-- inactive-ok-file: THEORY-tmpye6xs CLAIM-809 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmps8t83 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2168 CLAIM-809 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2204 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 
 # CLAIM-814: In the scalar linear reservoir x(t+1) = a x(t) + u(t) + η(t), the gain a does not trade memory against noise: the state's signal-to-noise ratio and its total linear memory capacity s²/(s²+σ²) do not depend on a, which only spreads that capacity over lags; recalling the input k steps back is best at a = √(k/(k+1)), and noise added at the readout makes capacity rise monotonically toward a = 1
 
@@ -143,8 +143,8 @@ the claim, which turns out to be **a case of its Theorem 7** ([ARG-146](../argum
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-A contrast, not evidence for or against the computation here ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md),
-[THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md)). In this claim's scalar reservoir input and state noise
+A contrast, not evidence for or against the computation here ([NOTE-2259](../notes.d/NOTE-2259.md),
+[THEORY-2168](../theory.d/THEORY-2168.md)). In this claim's scalar reservoir input and state noise
 share one filter, and noise added at the readout makes capacity rise
 monotonically toward a = 1. In Azizpour and colleagues' branching network
 the readout also carries Gaussian noise, but the binding obstacle is the
@@ -157,8 +157,8 @@ written. The note is the assistant's (Claude, in this session).
 
 ## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
 
-**A contrast**, no edge ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md), read in [NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md) in place of
-Bertschinger and Natschläger, [LIT-2991](../literature.d/LIT-2991.md); [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md)). The system is
+**A contrast**, no edge ([LIT-3058](../literature.d/LIT-3058.md), read in [NOTE-2288](../notes.d/NOTE-2288.md) in place of
+Bertschinger and Natschläger, [LIT-2991](../literature.d/LIT-2991.md); [THEORY-2204](../theory.d/THEORY-2204.md)). The system is
 nonlinear, high-dimensional and binary, and its edge is damage spreading,
 not the marginal linear stability of a scalar map. In this claim's model
 there is no chaotic side; there, what is lost past the edge is fading

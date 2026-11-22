@@ -46,11 +46,11 @@ Classes that reshape preferences only when used supports the reading of
 [CLAIM-762](../claims.d/CLAIM-762.md) the case was filed for.
 
 ## Note of 2026-11-22: the laboratory run
-<!-- inactive-ok-file: CASE-tmpw8bs2 CLAIM-tmph4j0u CLAIM-tmpvn59f — new; the study run for this lead and the claims filed from it -->
+<!-- inactive-ok-file: CASE-367 CLAIM-954 CLAIM-955 — new; the study run for this lead and the claims filed from it -->
 
 Run by the assistant as a delegated lead worker, as a numpy simulation
 (scratch/studies/lead-030/, branch claude/lead-030-genres-laboratory),
-filed as [CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md), with [CLAIM-tmph4j0u](../claims.d/CLAIM-tmph4j0u.md) and [CLAIM-tmpvn59f](../claims.d/CLAIM-tmpvn59f.md). Two
+filed as [CASE-367](../cases.d/CASE-367.md), with [CLAIM-954](../claims.d/CLAIM-954.md) and [CLAIM-955](../claims.d/CLAIM-955.md). Two
 worlds (genres planted in preferences; clusters made by exposure alone,
 [CASE-296](../cases.d/CASE-296.md)'s negative control) and five arms: the three of [CASE-296](../cases.d/CASE-296.md), plus
 adaptation without use, which the criterion under "What would count"

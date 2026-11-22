@@ -9,9 +9,9 @@ history:
 - version: 2
   date: '2026-11-22'
   note: >-
-    After the reading of LIT-2965 (NOTE-tmpi0o71, THEORY-tmpc73s5). The
+    After the reading of LIT-2965 (NOTE-2275, THEORY-2187). The
     "What it does not say" bullet calling the 2024 study unread is updated
-    in place with what it found and what it does not test (ARG-tmpojf88).
+    in place with what it found and what it does not test (ARG-187).
     The thesis and status are unchanged.
 role: thesis
 warrant: demonstrated
@@ -54,7 +54,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CLAIM-846 CLAIM-850 — filed with this claim on 2026-11-21 -->
-<!-- inactive-ok-file: ARG-tmpojf88 THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: ARG-187 THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-810: Scale invariance, dependence across scales and transfer across scales are three properties, any of which can occur without the others, so a hierarchy of structure is not a hierarchy of causation
 
@@ -125,19 +125,19 @@ for the size of the correction only; the record holds no reading of it.
 - That turbulence's interscale causation is settled. A23 §6 cites a 2024
   study decomposing it into unique, shared (the paper's "redundant") and
   synergistic parts (Martínez-Sánchez and colleagues, [LIT-2965](../literature.d/LIT-2965.md), read
-  2026-11-22 as [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md); changed in place, version 2). It finds
+  2026-11-22 as [THEORY-2187](../theory.d/THEORY-2187.md); changed in place, version 2). It finds
   directed, forward, mostly unique and redundant dependence among four
   volume-averaged flux signals of one simulation, with lags chosen to
   maximize the cross unique terms. That fits this claim's turbulence row,
   where all three properties are present, and does not test the
-  separations ([ARG-tmpojf88](../arguments.d/ARG-tmpojf88.md)).
+  separations ([ARG-187](../arguments.d/ARG-187.md)).
 - That nesting never carries causation. The claim is only that structure
   across scales does not show it.
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
 Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md)) were read
-([NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md); the reading is [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)). **Qualifies, and supports
+([NOTE-2275](../notes.d/NOTE-2275.md); the reading is [THEORY-2187](../theory.d/THEORY-2187.md)). **Qualifies, and supports
 in part.**
 
 - **Keeps transfer and dependence apart.** The energy transfer Σ̃ = τᵢⱼS̄ᵢⱼ
@@ -149,7 +149,7 @@ in part.**
 - **Fixes the decomposition** this claim says A23 §6's transfer entropy
   needs: Gaussian filters at four widths in the inertial range, then volume
   averaging.
-- **Does not test the separations** ([ARG-tmpojf88](../arguments.d/ARG-tmpojf88.md), Rejected as that
+- **Does not test the separations** ([ARG-187](../arguments.d/ARG-187.md), Rejected as that
   route). Turbulence has all three properties; the paper examines no
   system that has one without the others. Its limits: four volume-averaged
   scalars, so local backscatter that cancels in the average cannot show;

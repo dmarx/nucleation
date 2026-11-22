@@ -51,7 +51,7 @@ summary: >-
   Derived and checked by simulation. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpm3ux2 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2191 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2136 THEORY-2139 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-771 CLAIM-767 — Proposed; the claims on depth this note points to -->
 <!-- inactive-ok-file: CLAIM-781 CLAIM-478 THEORY-186 — Proposed, Deferred or Open; the work this applies and the claims it bears on -->
@@ -143,7 +143,7 @@ Bernstein and Newhouse ([THEORY-2136](../theory.d/THEORY-2136.md), read in [NOTE
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-Background. Lee et al.'s analytic influence ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)) is computed
+Background. Lee et al.'s analytic influence ([THEORY-2191](../theory.d/THEORY-2191.md)) is computed
 in the same two-layer linear network under gradient flow, through each
 mode's time-dependent strength. Under this claim's spectral-norm descent
 the modes' timing changes, so the timing of their influence peaks would

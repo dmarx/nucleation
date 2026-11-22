@@ -22,8 +22,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-163 LIT-1028 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-<!-- inactive-ok-file: THEORY-tmpye6xs — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmps8t83 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2168 — Proposed or new; the reading of Azizpour and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2204 LIT-2991 — Proposed or Unavailable; the reading of the NIPS 2004 companion and the work it stands in for, 2026-11-22 -->
 
 # QUESTION-091: Does the allocation of influence among an organization's processes regulate how far cascades of activity propagate, holding different subsystems at different distances from criticality, as a branching ratio would show?
 
@@ -80,8 +80,8 @@ framing. The status is unchanged.
 
 ## Note of 2026-11-22: Azizpour, Priesemann, Zierenberg and Levina, read
 
-A parallel from neural networks, at the same transition ([NOTE-tmporpz2](../notes.d/NOTE-tmporpz2.md),
-[THEORY-tmpye6xs](../theory.d/THEORY-tmpye6xs.md), which `bears_on` this question). In a random network
+A parallel from neural networks, at the same transition ([NOTE-2259](../notes.d/NOTE-2259.md),
+[THEORY-2168](../theory.d/THEORY-2168.md), which `bears_on` this question). In a random network
 whose branching parameter λ is its largest eigenvalue, the best distance
 from criticality for discriminating inputs is set by the readout's
 integration window: subcritical for every finite window, approaching
@@ -94,8 +94,8 @@ that the question puts as the regulator.
 
 ## Note of 2026-11-22: Natschläger, Bertschinger and Legenstein, read
 
-**A parallel, with a distinction of what branches** ([LIT-tmpdsowv](../literature.d/LIT-tmpdsowv.md),
-[NOTE-tmpi5t3r](../notes.d/NOTE-tmpi5t3r.md), [THEORY-tmps8t83](../theory.d/THEORY-tmps8t83.md), read in place of Bertschinger and
+**A parallel, with a distinction of what branches** ([LIT-3058](../literature.d/LIT-3058.md),
+[NOTE-2288](../notes.d/NOTE-2288.md), [THEORY-2204](../theory.d/THEORY-2204.md), read in place of Bertschinger and
 Natschläger, [LIT-2991](../literature.d/LIT-2991.md)). In driven threshold networks the order–chaos line
 is K·P_bf = 1, a branching ratio of one for perturbations, not for
 activity (the reader's and the filer's inference from Eq. 1, not the

@@ -36,7 +36,7 @@ summary: >-
   it, is open.
 ---
 <!-- inactive-ok-file: THEORY-286 — Proposed; the conjecture that training reaches the endpoint, cited as open -->
-<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # QUESTION-202: Does neural collapse hold outside its first protocol, under augmentation, label noise, class imbalance and several seeds per setting, and does gradient descent on cross-entropy provably reach it?
 
@@ -72,8 +72,8 @@ can the theorems, which assume the collapsed end state.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **bears on
-it** ([THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md) bears_on this question). A new protocol, labels
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-2276](../notes.d/NOTE-2276.md), [THEORY-2185](../theory.d/THEORY-2185.md)): **bears on
+it** ([THEORY-2185](../theory.d/THEORY-2185.md) bears_on this question). A new protocol, labels
 merged into super-classes, split at random, or coarsened at random, under
 which the NC metrics still go to zero on the training labels. It also shows
 that NC1 near zero does not settle whether the within-class variation is

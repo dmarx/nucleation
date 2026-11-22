@@ -20,7 +20,7 @@ advances:
 - QUESTION-276
 operationalized_in:
 - CASE-165
-- CASE-tmpshw39
+- CASE-337
 summary: >-
   The question states that recovery under the model's own prior is not
   enough. Named in [QUESTION-276](../questions.d/QUESTION-276.md). Filed by the backlog audit of 2026-11-19.
@@ -47,8 +47,8 @@ Features that beat the shared-driver null and predict interventions answer
 
 ## Note of 2026-11-22: run, in one linear family, and what remains
 
-<!-- inactive-ok-block: CASE-tmpshw39 CLAIM-tmpp56wv — new; this date's study and its finding -->
-Done by the assistant on this date ([CASE-tmpshw39](../cases.d/CASE-tmpshw39.md); code, tests and
+<!-- inactive-ok-block: CASE-337 CLAIM-910 — new; this date's study and its finding -->
+Done by the assistant on this date ([CASE-337](../cases.d/CASE-337.md); code, tests and
 outputs under scratch/studies/lead-144/, about twenty minutes of CPU). The
 simulator has 24 members in six overlapping groups and three worlds:
 coupling along the communication graph, a shared driver per group with no
@@ -60,7 +60,7 @@ half the members, and every model was scored on held-out pulses and cuts.
 By the lead's test the features fail: they are no better than the null
 (more of them, better aligned, under the null), and with the graph they
 predict interventions no better than the graph alone, which is itself
-wrong under the driver ([CLAIM-tmpp56wv](../claims.d/CLAIM-tmpp56wv.md)). Choices made where the lead
+wrong under the driver ([CLAIM-910](../claims.d/CLAIM-910.md)). Choices made where the lead
 left them open: a linear-Gaussian simulator with scalar activity; the
 allocation held fixed over 600 days; communication only, no authorization
 layer; the null matched on within-group correlation; and two intervention

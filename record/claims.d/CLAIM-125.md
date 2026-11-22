@@ -93,7 +93,7 @@ complements:
 - CLAIM-126
 - CLAIM-127
 ---
-<!-- inactive-ok-file: CLAIM-tmp1o9d0 CASE-tmpl6unn — new; what LEAD-072 filed on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-937 CASE-359 — new; what LEAD-072 filed on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as the objection the superseded claim drew -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; replaced, and cited as the history this entry narrows -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its routes to signalling in elicitation, open -->
@@ -291,10 +291,10 @@ signalling language data carry" says.
 
 "How much signalling language data carry" quotes [LIT-851](../literature.d/LIT-851.md)'s counts and
 calls them weak evidence after [CLAIM-235](CLAIM-235.md). [LEAD-072](../leads.d/LEAD-072.md) built a valid
-interval and test for signalling ([CLAIM-tmp1o9d0](CLAIM-tmp1o9d0.md)), but [LIT-851](../literature.d/LIT-851.md) prints no
+interval and test for signalling ([CLAIM-937](CLAIM-937.md)), but [LIT-851](../literature.d/LIT-851.md) prints no
 occurrence counts, so its 69 of 90 cannot be restated as systems that
 signal beyond sampling error. On the three binary systems [LIT-842](../literature.d/LIT-842.md) prints
 as fractions, with the least counts the fractions allow, one signals by
 the guaranteed interval, a second by the exact test alone, and the third
-by neither ([CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md)). The section's reading, that signalling is
+by neither ([CASE-359](../cases.d/CASE-359.md)). The section's reading, that signalling is
 common in these corpus data on weak evidence, stands as written.

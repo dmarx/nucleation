@@ -27,7 +27,7 @@ summary: >-
   [CLAIM-768](../claims.d/CLAIM-768.md) it cannot by itself say whether exact copying or contraction
   did the settling, which is what [LEAD-201](LEAD-201.md) adds.
 ---
-<!-- inactive-ok-file: CASE-tmpdcoyb CLAIM-tmpylhdj CLAIM-tmpdsiv5 — Proposed; LEAD-199's study of 2026-11-22 and its two readings -->
+<!-- inactive-ok-file: CASE-307 CLAIM-864 CLAIM-863 — Proposed; LEAD-199's study of 2026-11-22 and its two readings -->
 <!-- inactive-ok-file: CLAIM-778 CLAIM-768 — Proposed or Open; filed in this contribution of 2026-11-20 -->
 <!-- inactive-ok-file: ARG-028 — Proposed; its inbound-reference measure is the one reused here -->
 
@@ -71,4 +71,4 @@ sample.
 
 ## Note of 2026-11-22: run
 
-Run as specified ([CASE-tmpdcoyb](../cases.d/CASE-tmpdcoyb.md); scripts, data and hand-checks under scratch/studies/lead-199/). At matched age, cited claims are revised more often than uncited ones, which meets [CLAIM-778](../claims.d/CLAIM-778.md)'s defeater (a); readings filed as [CLAIM-tmpylhdj](../claims.d/CLAIM-tmpylhdj.md) and [CLAIM-tmpdsiv5](../claims.d/CLAIM-tmpdsiv5.md). The lead stays Open for the owner to mark Done; what remains, by [CLAIM-768](../claims.d/CLAIM-768.md), is [LEAD-201](LEAD-201.md)'s retention measure, and for [CLAIM-tmpdsiv5](../claims.d/CLAIM-tmpdsiv5.md) a count of audits.
+Run as specified ([CASE-307](../cases.d/CASE-307.md); scripts, data and hand-checks under scratch/studies/lead-199/). At matched age, cited claims are revised more often than uncited ones, which meets [CLAIM-778](../claims.d/CLAIM-778.md)'s defeater (a); readings filed as [CLAIM-864](../claims.d/CLAIM-864.md) and [CLAIM-863](../claims.d/CLAIM-863.md). The lead stays Open for the owner to mark Done; what remains, by [CLAIM-768](../claims.d/CLAIM-768.md), is [LEAD-201](LEAD-201.md)'s retention measure, and for [CLAIM-863](../claims.d/CLAIM-863.md) a count of audits.

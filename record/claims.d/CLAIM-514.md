@@ -40,7 +40,7 @@ summary: >-
   Nucleation program." Proposed: a definition and an organizing thesis,
   with the study [CASE-187](../cases.d/CASE-187.md) as its test.
 ---
-<!-- inactive-ok-file: CASE-tmp6hkf9 CLAIM-tmpq92r4 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-384 CLAIM-991 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-519 TERM-086 — Proposed or Open; the premises and question this joins, cited as open -->
 <!-- ref::uses-file: TERM-086 — the title's "further achievements", producing, maintaining and revising world-modeling capabilities, are TERM-086's organizational achievement as episode, maintained capacity and its reproduction -->
 
@@ -115,12 +115,12 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: query-relative capabilities measured once
 
-[CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md) ran [CASE-187](../cases.d/CASE-187.md) at toy scale. The second clause of this
+[CASE-384](../cases.d/CASE-384.md) ran [CASE-187](../cases.d/CASE-187.md) at toy scale. The second clause of this
 claim's defeated_if, that the query-relative capabilities always come
 together, is not met there. At matched goal competence, read-out answers
 coincided across three architectures, but the families each could answer
 within its own per-decision computation differed by architecture
-([CLAIM-tmpq92r4](CLAIM-tmpq92r4.md), which corroborates this claim). The first clause, a
+([CLAIM-991](CLAIM-991.md), which corroborates this claim). The first clause, a
 required realization, is not met either: an explicit table, a value
 table and a bank of occupancy predictors reached the same competence.
 

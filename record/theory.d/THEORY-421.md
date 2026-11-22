@@ -46,7 +46,7 @@ summary: >-
 bears_on:
 - QUESTION-025
 ---
-<!-- inactive-ok-file: THEORY-tmpe9367 CLAIM-tmpxcy5s — Proposed; the reading of Bui et al. filed 2026-11-22, and the assistant's norm-growth claim -->
+<!-- inactive-ok-file: THEORY-2190 CLAIM-860 — Proposed; the reading of Bui et al. filed 2026-11-22, and the assistant's norm-growth claim -->
 <!-- inactive-ok-file: THEORY-825 — Proposed; the general claim this measurement was narrowed from, filed to carry it -->
 <!-- inactive-ok-file: THEORY-196 — Proposed; other encodings of hierarchy and the paper this one tests, named in Connections, not leaned on -->
 
@@ -136,7 +136,7 @@ origin and is not pairwise-only.
 
 ## Note of 2026-11-22: Bui and colleagues, read
 
-A contrast. Bui et al. ([THEORY-tmpe9367](THEORY-tmpe9367.md), [NOTE-tmpvu3vp](../notes.d/NOTE-tmpvu3vp.md)) read the norm of a
+A contrast. Bui et al. ([THEORY-2190](THEORY-2190.md), [NOTE-2281](../notes.d/NOTE-2281.md)) read the norm of a
 Lorentz-model embedding as confidence, Uncertainty(h) = 1 − ‖h_space‖/h_time
 (Eq. 10), after Atigh et al. 2022 and Khrulkov et al. 2020, and show that
 images of classes the model never saw "exhibit higher uncertainty and
@@ -144,6 +144,6 @@ lower norms" (Fig. 2). They never calibrate it against error. This
 reading holds that even trained for hierarchy, distance from the origin
 is only a partial reading of level. There is a second reason for caution
 in their setting: the cone constraint between generations raises each
-satisfied item's norm by construction ([CLAIM-tmpxcy5s](../claims.d/CLAIM-tmpxcy5s.md), the assistant's),
+satisfied item's norm by construction ([CLAIM-860](../claims.d/CLAIM-860.md), the assistant's),
 so the norm-based uncertainty falls with the number of updates, whether
 or not the updates are correct. No edge.

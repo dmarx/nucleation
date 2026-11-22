@@ -1,7 +1,7 @@
 ### Added
 
-- [CLAIM-tmplsu2m](record/claims.d/CLAIM-tmplsu2m.md): in a stable linear Gaussian VAR(1) with a noiselessly observed linear coarse variable of any dimension, the Kalman filter of the eliminated variables is an exact Markovian augmentation with at most n − m coordinates; keeping p lags costs an excess error bounded by L A_clᵖ(Π − P∞)A_clᵖᵀLᵀ; the rate is the filter's closed loop, bounded by the eliminated dynamics with one eliminated variable and not in general; the augmentation leaves the transfer entropy from X unchanged (Proposed, thesis, demonstrated; [LEAD-084](record/leads.d/LEAD-084.md)).
-- [CASE-tmpi9sds](record/cases.d/CASE-tmpi9sds.md): the numerical study for it, from exact covariances, with the nilpotent counterexample and [QUESTION-222](record/questions.d/QUESTION-222.md)'s own example. Code under scratch/studies/lead-084/.
+- [CLAIM-925](record/claims.d/CLAIM-925.md): in a stable linear Gaussian VAR(1) with a noiselessly observed linear coarse variable of any dimension, the Kalman filter of the eliminated variables is an exact Markovian augmentation with at most n − m coordinates; keeping p lags costs an excess error bounded by L A_clᵖ(Π − P∞)A_clᵖᵀLᵀ; the rate is the filter's closed loop, bounded by the eliminated dynamics with one eliminated variable and not in general; the augmentation leaves the transfer entropy from X unchanged (Proposed, thesis, demonstrated; [LEAD-084](record/leads.d/LEAD-084.md)).
+- [CASE-349](record/cases.d/CASE-349.md): the numerical study for it, from exact covariances, with the nilpotent counterexample and [QUESTION-222](record/questions.d/QUESTION-222.md)'s own example. Code under scratch/studies/lead-084/.
 
 ### Changed
 

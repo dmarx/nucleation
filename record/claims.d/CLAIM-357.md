@@ -110,7 +110,7 @@ summary: >-
 bears_on:
 - QUESTION-126
 ---
-<!-- inactive-ok-file: CASE-tmpgustv, CLAIM-tmpifr7i, CLAIM-500 — Proposed or new; cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-317, CLAIM-880, CLAIM-500 — Proposed or new; cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 
 # CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns
@@ -308,4 +308,4 @@ The full reading ([NOTE-1599](../notes.d/NOTE-1599.md) v2) supports the use the 
 
 ## Note of 2026-11-22: the intervention this claim calls for, run in a model
 
-[CASE-tmpgustv](../cases.d/CASE-tmpgustv.md) makes the intervention this claim says identifying the governance-induced kind needs: it changes the allocation of influence with search and information held fixed, in [CASE-099](../cases.d/CASE-099.md)'s loop with declared demands. Realized violations fell from 0.95 to 0.05 of steps ([CLAIM-tmpifr7i](CLAIM-tmpifr7i.md)). The case also qualifies the diagnostics. Φ here is [CLAIM-365](CLAIM-365.md)'s local, one-step residual. Under a captured allocation, jointly infeasible demands showed Φ ≤ 0 on 87% of steps, so the local test reported as realized violation what is globally structural. No status changes.
+[CASE-317](../cases.d/CASE-317.md) makes the intervention this claim says identifying the governance-induced kind needs: it changes the allocation of influence with search and information held fixed, in [CASE-099](../cases.d/CASE-099.md)'s loop with declared demands. Realized violations fell from 0.95 to 0.05 of steps ([CLAIM-880](CLAIM-880.md)). The case also qualifies the diagnostics. Φ here is [CLAIM-365](CLAIM-365.md)'s local, one-step residual. Under a captured allocation, jointly infeasible demands showed Φ ≤ 0 on 87% of steps, so the local test reported as realized violation what is globally structural. No status changes.

@@ -31,7 +31,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added, from LEAD-067: the finite construction
-    built (CLAIM-tmpmov06, CASE-tmpg9x2o). The null is met by
+    built (CLAIM-907, CASE-339). The null is met by
     construction; nontrivial holonomy is derived, not chosen, when every
     overlap determines its fit. The question is unchanged.
 tags:
@@ -54,7 +54,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-038 — Rejected; cited as the record's rejection that is this question's first objection -->
-<!-- inactive-ok-file: CLAIM-tmpmov06, CASE-tmpg9x2o — Proposed; filed 2026-11-22 for LEAD-067 and cited in its note -->
+<!-- inactive-ok-file: CLAIM-907, CASE-339 — Proposed; filed 2026-11-22 for LEAD-067 and cited in its note -->
 
 # QUESTION-130: Does transport of evaluative representations between contexts, with the evaluated situation held fixed, admit a connection fixed by independently established relations rather than chosen, and is its holonomy around a loop of contexts ever nontrivial?
 
@@ -201,7 +201,7 @@ Without the third, an arbitrary transport manufactures arbitrary holonomy. That 
 
 ## Note of 2026-11-22: the finite construction, built ([LEAD-067](../leads.d/LEAD-067.md))
 
-[LEAD-067](../leads.d/LEAD-067.md) built A19 §8's construction. The claim is [CLAIM-tmpmov06](../claims.d/CLAIM-tmpmov06.md) (Proposed, demonstrated), and the numerical run is [CASE-tmpg9x2o](../cases.d/CASE-tmpg9x2o.md).
+[LEAD-067](../leads.d/LEAD-067.md) built A19 §8's construction. The claim is [CLAIM-907](../claims.d/CLAIM-907.md) (Proposed, demonstrated), and the numerical run is [CASE-339](../cases.d/CASE-339.md).
 
 Each of three contexts holds vectors for its commitments in its own frame, and a change of frame is orthogonal, so it preserves the comparisons the context makes. The transport between two contexts is the orthogonal fit on the commitments they share. It counts as derived only when that fit is unique, which needs the shared commitments to span the space.
 

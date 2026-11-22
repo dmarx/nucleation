@@ -9,8 +9,8 @@ history:
 - version: 2
   date: '2026-11-22'
   note: >-
-    Note of 2026-11-22 added: the build was carried out (CASE-tmpdv5tm,
-    finding CLAIM-tmppxyo3). The status and stage are left for the owner.
+    Note of 2026-11-22 added: the build was carried out (CASE-376,
+    finding CLAIM-971). The status and stage are left for the owner.
 stage: specified
 priority: medium
 method:
@@ -32,7 +32,7 @@ summary: >-
   Named in [CLAIM-355](../claims.d/CLAIM-355.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-355 — Proposed; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: CASE-tmpdv5tm CLAIM-tmppxyo3 — the executed study and finding filed by this lead on 2026-11-22 (new; CLAIM-tmppxyo3 Proposed) -->
+<!-- inactive-ok-file: CASE-376 CLAIM-971 — the executed study and finding filed by this lead on 2026-11-22 (new; CLAIM-971 Proposed) -->
 
 # LEAD-134: Run the imagined owner: a case with cause and report recorded apart, in which a unified self-model misdescribes who controls what
 
@@ -52,8 +52,8 @@ objection to [CLAIM-355](../claims.d/CLAIM-355.md) unconditionally for the model
 
 ## Note of 2026-11-22: carried out
 
-Built and run ([CASE-tmpdv5tm](../cases.d/CASE-tmpdv5tm.md), an executed study variant_of
-[CASE-114](../cases.d/CASE-114.md); finding [CLAIM-tmppxyo3](../claims.d/CLAIM-tmppxyo3.md); code under
+Built and run ([CASE-376](../cases.d/CASE-376.md), an executed study variant_of
+[CASE-114](../cases.d/CASE-114.md); finding [CLAIM-971](../claims.d/CLAIM-971.md); code under
 scratch/studies/lead-134/). A distributed-control plant was given an accurate
 and a centralized self-model, matched in parameter count and both reconstructing
 the aggregate outcome exactly, so the divergence is wrong-about-control, not

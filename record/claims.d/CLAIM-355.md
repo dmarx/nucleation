@@ -80,7 +80,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added, from LEAD-134: CASE-114's test is now
-    built and run (CASE-tmpdv5tm, finding CLAIM-tmppxyo3). The note of
+    built and run (CASE-376, finding CLAIM-971). The note of
     2026-11-06 is answered: a matched-capacity centralized self-model
     misdescribes who controls what. The claim is unchanged.
 role: thesis
@@ -149,7 +149,7 @@ rests_on:
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 — Proposed; the organizational-affect line, reopened by the owner on 2026-10-23: the claim this one rests on, and a claim cited for a note -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-155 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
 <!-- inactive-ok-file: LIT-1835 — Unfetched since 2026-10-29; Revonsuo and Newman 1999, cited in the note of that date as not read, nothing here rests on it -->
-<!-- inactive-ok-file: CASE-tmpdv5tm CLAIM-tmppxyo3 — the executed study and its finding, filed from LEAD-134 on 2026-11-22 and cited in the note of that date (new; CLAIM-tmppxyo3 Proposed) -->
+<!-- inactive-ok-file: CASE-376 CLAIM-971 — the executed study and its finding, filed from LEAD-134 on 2026-11-22 and cited in the note of that date (new; CLAIM-971 Proposed) -->
 
 # CLAIM-355: In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real
 
@@ -453,7 +453,7 @@ Rechecked after the Metzinger readings of 2026-11-01 ([LIT-1941](../literature.d
 ## Note of 2026-11-22: Metzinger, read
 
 An **earlier, design-oriented use of the same concepts**, no edge
-([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger's "unit of identification" (pp. 56–57)
+([LIT-1947](../literature.d/LIT-1947.md), [NOTE-2312](../notes.d/NOTE-2312.md)). Metzinger's "unit of identification" (pp. 56–57)
 is what a system identifies with, and he proposes building conscious
 systems with none, or with only a non-egoic one, so that suffering cannot
 be attributed to a self. That treats the self-model as a construction that
@@ -465,8 +465,8 @@ whether there is suffering at all, which this claim leaves open.
 The note of 2026-11-06 says Drayson's objection ([THEORY-646](../theory.d/THEORY-646.md)) is answered
 only conditionally because no case in the record shows a unified self-model
 misdescribing who controls what — the case [CASE-114](../cases.d/CASE-114.md) was built to test, not
-yet run. [LEAD-134](../leads.d/LEAD-134.md) has now built and run it ([CASE-tmpdv5tm](../cases.d/CASE-tmpdv5tm.md); finding
-[CLAIM-tmppxyo3](CLAIM-tmppxyo3.md)).
+yet run. [LEAD-134](../leads.d/LEAD-134.md) has now built and run it ([CASE-376](../cases.d/CASE-376.md); finding
+[CLAIM-971](CLAIM-971.md)).
 
 A distributed-control plant is given two self-models, one accurate about the
 division of labour and one attributing control to a single centralized owner,

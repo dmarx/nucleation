@@ -253,7 +253,7 @@ from this claim's grounds to corroboration (version 2). No status change.
 
 ## Note of 2026-11-22: Ivern and Carbonell, read
 
-A **weak bearing**, no edge ([LIT-2447](../literature.d/LIT-2447.md), [NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md)). The review
+A **weak bearing**, no edge ([LIT-2447](../literature.d/LIT-2447.md), [NOTE-2309](../notes.d/NOTE-2309.md)). The review
 catalogues loot-box features and does not study how designs come about, so
 it neither shows nor refutes a drift toward what the heaviest spenders
 respond to. It does list personalized odds, prices and offers based on

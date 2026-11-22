@@ -4,7 +4,7 @@
 
 **social-ontology**.
 
-57 of 2247 NOTE documents. Back to the [full index](../README.md).
+58 of 2367 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -65,3 +65,4 @@
 | [NOTE-2189](../../../record/notes.d/NOTE-2189.md) | Tomasello — Response to Commentators | Reply to the symposium: the charge of a too generous, too individualistic joint intentionality; objectivity as a perspectiveless view of anyone in the group; the assumption of cooperation admitted unclear; enactive alternatives and Butterfill's minimal goal rejected. | Read |
 | [NOTE-2193](../../../record/notes.d/NOTE-2193.md) | Schelling — Bargaining, Communication, and Limited War | Tacit coordination on focal points: prominence and uniqueness for these parties; explicit bargaining also needs converging expectations; fairness partly a focusing device; tacit limits in war must be qualitative. | Read |
 | [NOTE-2200](../../../record/notes.d/NOTE-2200.md) | Tomasello — Precís of A Natural History of Human Thinking | Thinking in three steps: individual intentionality (apes), joint intentionality (perspectival representation, recursive inference, social self-monitoring), collective intentionality (objective representation, self-reflective inference, normative self-governance). Framework without data. | Read |
+| [NOTE-2306](../../../record/notes.d/NOTE-2306.md) | Mulgan (2018) — Corporate Agency and Possible Futures | Mulgan asks which account of corporate agency is "temporally robust", giving the people of a range of credible futures the concepts to recognise and resist threats from corporate groups. He sorts the debate into individualism and minimal, moderate and extreme collectivism, and into realist, pragmatist and interpretivist methods, and adds a "moralised" condition: moral agency only for groups reliably disposed to respond appropriately to moral reasons. In a broken future philosophers will favour moralised collectivism; in a digital future the line between agency and personhood collapses. The only temporally robust account, he concludes, is moralised extreme collectivism. | Read |

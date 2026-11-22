@@ -37,7 +37,7 @@ summary: >-
   limit.
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: CASE-tmp5w2ty CLAIM-tmpc54vj CLAIM-tmpm4oom — Proposed; the study and findings of 2026-11-22, cited in the note of that date -->
+<!-- inactive-ok-file: CASE-379 CLAIM-976 CLAIM-977 — Proposed; the study and findings of 2026-11-22, cited in the note of that date -->
 
 # QUESTION-052: Beyond linear decisions at the population level, if a kind's admissible transformations are given as a distribution over pairs of its realizations, is the top eigenspace of the pair operator, or the top left singular space when the transformations are directed, its stable, decision-sufficient signature, and what makes one span the signature when other spans tie?
 
@@ -92,13 +92,13 @@ a transport ([CLAIM-210](../claims.d/CLAIM-210.md)) also stays here.
 ## Note of 2026-11-22: the directed case, localized, by [LEAD-142](../leads.d/LEAD-142.md)
 
 [LEAD-142](../leads.d/LEAD-142.md) stated the directed signature and attempted the proof
-([CASE-tmp5w2ty](../cases.d/CASE-tmp5w2ty.md), a numpy study). Two findings split the directed case
+([CASE-379](../cases.d/CASE-379.md), a numpy study). Two findings split the directed case
 cleanly.
 
 - **The directed input-decision case is a symmetric case.** The top-d left
   singular span of the conditional-expectation operator T is identically the
   top-d eigenspace of the self-adjoint two-step chain M = T T* (x → a → x′),
-  which is reversible with respect to P_X ([CLAIM-tmpc54vj](../claims.d/CLAIM-tmpc54vj.md)). So for
+  which is reversible with respect to P_X ([CLAIM-976](../claims.d/CLAIM-976.md)). So for
   decisions that are functions of the input there is no directed obstruction
   beyond the symmetric one: the linear part is [THEORY-239](../theory.d/THEORY-239.md), and the
   remaining nonlinear part of this question is its symmetric half, not a new
@@ -108,7 +108,7 @@ cleanly.
   stable targets outside the span (so the sufficient object is the σ-algebra,
   not the subspace), which span is sufficient depends on the stated decision,
   and direction-dependent decisions — the order of a pair — are served by no
-  left span at any d ([CLAIM-tmpm4oom](../claims.d/CLAIM-tmpm4oom.md)). This is the "what makes one span
+  left span at any d ([CLAIM-977](../claims.d/CLAIM-977.md)). This is the "what makes one span
   the signature when others tie" half: nothing does, absent a fixed decision
   family, matching [CLAIM-210](../claims.d/CLAIM-210.md)'s symmetric-kind, directed-transport split.
 

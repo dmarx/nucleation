@@ -6,8 +6,8 @@
 
 **Organizational affect** — affective states as properties of organized systems, read through Frijda — the line the will paper grew out of.
 
-0 of 154 ARG documents. Back to the [full index](../README.md).
+1 of 217 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-202](../../../record/arguments.d/ARG-202.md) | The split-brain findings de Haan et al. restate, as evidence from a disconnected brain, show that access to one content can be compartmented within one agent, and leave open whether experience is | Whether the split-brain review ([THEORY-2229](../../../record/theory.d/THEORY-2229.md), read in [NOTE-2319](../../../record/notes.d/NOTE-2319.md)) supports [CLAIM-003](../../../record/claims.d/CLAIM-003.md). It supports the access half, in a disconnected brain: a content's identity reaches some operations and not others while detection and response stay unified, in what most of its authors take to be one agent. It does not reach the experiential half, which the authors hold undecided, and it is not the intact-brain recording [QUESTION-061](../../../record/questions.d/QUESTION-061.md) asks for. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

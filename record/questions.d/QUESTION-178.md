@@ -21,7 +21,7 @@ summary: >-
   for the premise to be measured on real text, and this question holds
   that request.
 ---
-<!-- inactive-ok-file: CASE-tmpby7xp — new, filed today by LEAD-147 -->
+<!-- inactive-ok-file: CASE-344 — new, filed today by LEAD-147 -->
 
 # QUESTION-178: Is word co-occurrence close to independent, multiplicative binary attributes in the analogy families where spectral embeddings complete parallelograms, and does adding an interaction between two attributes break their parallelogram?
 
@@ -53,7 +53,7 @@ PMI spectrum.
 ## Note of 2026-11-22: a first measurement of the departure from additivity
 
 [LEAD-147](../leads.d/LEAD-147.md) measured it on text8, about 17M tokens of English Wikipedia. The
-case is [CASE-tmpby7xp](../cases.d/CASE-tmpby7xp.md). The PMI was taken over the 5 000 most frequent
+case is [CASE-344](../cases.d/CASE-344.md). The PMI was taken over the 5 000 most frequent
 context words, in a window of ±5. For each quadruple a:b :: c:d of the
 word2vec analogy set, the PMI rows were split into a relation effect, a
 pair effect and an interaction, P_a − P_b − P_c + P_d. The interaction's

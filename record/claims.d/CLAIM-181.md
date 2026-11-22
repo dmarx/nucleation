@@ -247,10 +247,10 @@ So for the misfits that were eventually noticed, the claim's sequence holds: for
 What the count cannot reach is this claim's remaining test, a misfit never noticed. Only decisions were coded. The claim is unchanged.
 
 ## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
-<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+<!-- inactive-ok-file: THEORY-2262 — Proposed; filed for LEAD-215 -->
 
 A parallel from type inference (no edge). In liquid types
-([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) the vocabulary of inferable types is a
+([THEORY-2262](../theory.d/THEORY-2262.md); [NOTE-2353](../notes.d/NOTE-2353.md)) the vocabulary of inferable types is a
 fixed qualifier set. A property it cannot state is lost, as a weaker type
 or a failure, until the programmer notices and adds a qualifier (p. 160).
 The paper names the difficulty this claim names: a failure does not say

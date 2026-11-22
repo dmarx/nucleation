@@ -35,7 +35,7 @@ summary: >-
   population is one owner and one family, which [CLAIM-177](CLAIM-177.md)'s own body
   called "a pattern, not a measurement".
 ---
-<!-- inactive-ok-file: CASE-tmpzi1u3 — Proposed; the move-by-move study of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-306 — Proposed; the move-by-move study of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-176 — Proposed; the dependent whose "exactly" leans on this half -->
 <!-- inactive-ok-file: CASE-252 CASE-253 CASE-254 CASE-255 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
 
@@ -104,4 +104,4 @@ one with another owner or assistant family, is still not in the record.
 
 ## Note of 2026-11-22: a second exchange, coded move by move
 
-[CASE-tmpzi1u3](../cases.d/CASE-tmpzi1u3.md) carries out the first half of [LEAD-079](../leads.d/LEAD-079.md): the exchange "Rich Get Richer Power Laws", a second exchange of the same owner and the same assistant family (ChatGPT), coded move by move under a codebook fixed before coding. Identity failures outnumber structure failures by about 43 to 5 (33 re-derivations; 5 inferences not laid out), and still 10 to 5 if every expository re-derivation is counted as harmless repetition. This defeated_if is not met for that exchange. It does not touch the general half of the thesis: the population is still one owner and one assistant family, the coder was one AI with no agreement measure, and it knew the expected result.
+[CASE-306](../cases.d/CASE-306.md) carries out the first half of [LEAD-079](../leads.d/LEAD-079.md): the exchange "Rich Get Richer Power Laws", a second exchange of the same owner and the same assistant family (ChatGPT), coded move by move under a codebook fixed before coding. Identity failures outnumber structure failures by about 43 to 5 (33 re-derivations; 5 inferences not laid out), and still 10 to 5 if every expository re-derivation is counted as harmless repetition. This defeated_if is not met for that exchange. It does not touch the general half of the thesis: the population is still one owner and one assistant family, the coder was one AI with no agreement measure, and it knew the expected result.

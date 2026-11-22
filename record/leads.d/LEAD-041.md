@@ -27,7 +27,7 @@ summary: >-
   2026-11-19.
 ---
 <!-- inactive-ok-file: TERM-076 — Proposed; the term the argument is stated in, cited in the dated note -->
-<!-- inactive-ok-file: CLAIM-tmp0uism CLAIM-tmpaibxx CLAIM-tmpkcsp7 CASE-tmpjw1l1 — new on 2026-11-22; LEAD-041's argument, alternative, procedure and application, cited in the dated note -->
+<!-- inactive-ok-file: CLAIM-897 CLAIM-898 CLAIM-899 CASE-330 — new on 2026-11-22; LEAD-041's argument, alternative, procedure and application, cited in the dated note -->
 <!-- inactive-ok-file: CLAIM-440 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-041: Specify a procedure that reads from a record of conduct which ordering prevails, how strongly and whether it resumes, separating ambivalence from neutrality; and argue that the model's two channels are perspectives
@@ -53,16 +53,16 @@ A procedure that separates ambivalence from neutrality on a case answers
 
 The argument, the procedure and one application are filed.
 
-- **The argument.** [CLAIM-tmp0uism](../claims.d/CLAIM-tmp0uism.md): the evaluative space model's channels
+- **The argument.** [CLAIM-897](../claims.d/CLAIM-897.md): the evaluative space model's channels
   are perspectives in [TERM-076](../terms.d/TERM-076.md)'s thin sense (a ranking each, contest on
   approach–avoidance pairs, authority in gain, offset and override), so the
   model's neutral point is no contest and its "middling expression" splits
   into a prevailing compromise and ambivalence. The alternative, that the
-  channels are inputs to one evaluator, is [CLAIM-tmpaibxx](../claims.d/CLAIM-tmpaibxx.md); the choice is
+  channels are inputs to one evaluator, is [CLAIM-898](../claims.d/CLAIM-898.md); the choice is
   the owner's.
-- **The procedure.** [CLAIM-tmpkcsp7](../claims.d/CLAIM-tmpkcsp7.md), answering [QUESTION-268](../questions.d/QUESTION-268.md), as code with
+- **The procedure.** [CLAIM-899](../claims.d/CLAIM-899.md), answering [QUESTION-268](../questions.d/QUESTION-268.md), as code with
   tests (scratch/studies/lead-041/).
-- **The application.** [CASE-tmpjw1l1](../cases.d/CASE-tmpjw1l1.md), the FOMC's policy-rate record
+- **The application.** [CASE-330](../cases.d/CASE-330.md), the FOMC's policy-rate record
   1966–2026 with the dual mandate's channels as perspectives. The record
   separates no contest, indeterminacy, a prevailing compromise and
   ambivalence; it shows ambivalence only weakly (Burns, 1980–81), no

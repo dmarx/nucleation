@@ -161,7 +161,7 @@ under a definition that already named awareness of awareness.
 
 ## Note of 2026-11-22: Metzinger, read
 
-A **precursor**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). The 2021 paper gives the
+A **precursor**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-2312](../notes.d/NOTE-2312.md)). The 2021 paper gives the
 same placeholder account of consciousness in brief (pp. 48–49) and builds
 on it a design: systems identifying only with minimal phenomenal experience
 would be conscious and unable to suffer (p. 57). It offers no more evidence

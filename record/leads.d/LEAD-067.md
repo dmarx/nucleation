@@ -20,7 +20,7 @@ advances:
 summary: >-
   Named in [QUESTION-130](../questions.d/QUESTION-130.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmov06, CASE-tmpg9x2o — Proposed; filed 2026-11-22 carrying out this lead -->
+<!-- inactive-ok-file: CLAIM-907, CASE-339 — Proposed; filed 2026-11-22 carrying out this lead -->
 
 # LEAD-067: Build the finite evaluative-transport construction: three overlapping contexts, comparisons on overlaps, derived transport, and the null of trivial holonomy
 
@@ -42,8 +42,8 @@ The null answers the first part of [QUESTION-130](../questions.d/QUESTION-130.md
 
 Done by a delegated worker on 2026-11-22, branch claude/lead-067-holonomy-null. Code, 18 tests and results are under scratch/studies/lead-067/.
 
-- **The null, first.** Three contexts in random O(d) frames represent one configuration, and the transport is derived by orthogonal fit on each overlap's shared commitments. The derived transports are then the frame changes and the holonomy is I. That is proved in [CLAIM-tmpmov06](../claims.d/CLAIM-tmpmov06.md) (i) and checked in 3000 draws.
-- **Then a nontrivial case.** In ℝ², each overlap is fitted exactly, and each context holds an internal angle between the commitments it shares with its two neighbours. The holonomy is the sum of those angles ([CLAIM-tmpmov06](../claims.d/CLAIM-tmpmov06.md) (iii)). A curved-chart variant gives the spherical excess ([CASE-tmpg9x2o](../cases.d/CASE-tmpg9x2o.md)).
+- **The null, first.** Three contexts in random O(d) frames represent one configuration, and the transport is derived by orthogonal fit on each overlap's shared commitments. The derived transports are then the frame changes and the holonomy is I. That is proved in [CLAIM-907](../claims.d/CLAIM-907.md) (i) and checked in 3000 draws.
+- **Then a nontrivial case.** In ℝ², each overlap is fitted exactly, and each context holds an internal angle between the commitments it shares with its two neighbours. The holonomy is the sum of those angles ([CLAIM-907](../claims.d/CLAIM-907.md) (iii)). A curved-chart variant gives the spherical excess ([CASE-339](../cases.d/CASE-339.md)).
 - **Found along the way.**
   - With exact and determined overlaps, H = I exactly when the three contexts glue into one configuration up to frames, so a nontrivial holonomy is a gauge-invariant discrepancy among the contexts' comparisons.
   - An overlap that does not determine its fit leaves the holonomy to the modeller.

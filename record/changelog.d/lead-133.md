@@ -1,6 +1,6 @@
 ### Added
 
-- `ARG-tmpou34o` (Rejected, form source): Grossman and Hart (`THEORY-1985`)
+- `ARG-210` (Rejected, form source): Grossman and Hart (`THEORY-1985`)
   and Hart's 2016 lecture (`THEORY-1979`, the read neighbour of the
   Unfetched Hart and Moore, `LIT-2742`) do not establish `CLAIM-728` as
   stated — they carry the residual-control definition but locate its

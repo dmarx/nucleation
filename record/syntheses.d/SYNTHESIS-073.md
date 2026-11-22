@@ -29,7 +29,7 @@ integrates:
 ---
 <!-- inactive-ok-file: THEORY-497 — Proposed; components, decisions and accounts cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-075 SYNTHESIS-079 — Proposed; cited with its standing -->
-<!-- inactive-ok-file: THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2187 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # SYNTHESIS-073: Granger causality and transfer entropy are predictive quantities relative to a stated information set: complete measurement is not enough for an interventional reading, Granger causation from a macro variable to its micro base has no intervention to stand for, transfer entropy adds synergy to unique information and so is not flow from the source alone, and a ΦID verdict on three or more parts rests on which axiom of redundancy is dropped
 
@@ -161,7 +161,7 @@ Tested by [ADR-075](../decisions.d/ADR-075.md)'s step 5 at this review and not f
 
 ## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
 
-Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **background,
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-2275](../notes.d/NOTE-2275.md), [THEORY-2187](../theory.d/THEORY-2187.md)): **background,
 consistent.** SURD is in the family this account holds, a predictive
 quantity relative to an information set, with the leak as an explicit
 measure of what the information set lacks. The leak does not supply an

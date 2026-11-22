@@ -70,14 +70,14 @@ summary: >-
 refines:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: CASE-tmpb4hg0 — new; the run of LEAD-172, filed 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: CASE-331 — new; the run of LEAD-172, filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2174 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-800 THEORY-1558 — new or Proposed; filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, and a reading named for comparison -->
-<!-- inactive-ok-file: THEORY-tmpr9w2r — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
-<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2160 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 # QUESTION-217: When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?
 
 ## Why it is a question
@@ -232,7 +232,7 @@ This answers none of the orders. No status change.
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
 Supports a coarse-to-fine progression in a single run, as an acquisition
-order ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)): in the two-layer language model
+order ([NOTE-2248](../notes.d/NOTE-2248.md), [THEORY-2160](../theory.d/THEORY-2160.md)): in the two-layer language model
 the stages run bigrams, then n-grams with positional embedding, then
 previous-token heads, then induction heads, which the authors liken to
 Olsson et al.'s progression across depth (§8). Two qualifications bear on
@@ -240,12 +240,12 @@ whether one chain holds. The groundwork for the induction circuit is laid
 in LM2, "in advance of any measurable change in model outputs or attention
 patterns" (§6.2), so the order of acquisition by behaviour and by
 structure can differ; and three stages lower the estimated coefficient,
-simplifications rather than acquisitions ([QUESTION-tmphkb1w](QUESTION-tmphkb1w.md)). Written as
+simplifications rather than acquisitions ([QUESTION-518](QUESTION-518.md)). Written as
 `bears_on` from the reading. No status change.
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-2257](../notes.d/NOTE-2257.md), [THEORY-2174](../theory.d/THEORY-2174.md)): **a
 parallel from neuroscience.** In V1, "Successive PC dimensions encode finer
 stimulus features" (Extended Data Fig. 6), and a linear readout of such a
 code learns coarse features first, "at a speed proportional to the
@@ -255,7 +255,7 @@ open. No relation.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](../theory.d/THEORY-tmp8sxta.md)): **background,
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-2276](../notes.d/NOTE-2276.md), [THEORY-2185](../theory.d/THEORY-2185.md)): **background,
 leaves it open, with one data point.** The training labels set a relevance
 order (coarse), yet the representation refines by input structure first:
 "The effect of input distribution emerges earlier in training, while the
@@ -265,13 +265,13 @@ decoder's risk is measured over time. No relation.
 
 ## Note of 2026-11-22: the kernel's modes in the modular-addition run
 
-In [LEAD-172](../leads.d/LEAD-172.md)'s reduced run ([CASE-tmpb4hg0](../cases.d/CASE-tmpb4hg0.md)) the moving-basis term was tracked by proxy: the rotation of the empirical tangent kernel's top eigenspace between checkpoints 250 steps apart. It forecast nothing about when the network generalizes. The top eigenspace stayed at chance alignment with the functions the task needs (functions of a + b) throughout, even after generalization, while the input-to-output Fourier coupling did forecast. In this network, then, acquisition is not visible as the kernel's leading modes turning toward the target. It is one network and one kernel, the class-summed trace kernel. It answers none of the four orders. No status change.
+In [LEAD-172](../leads.d/LEAD-172.md)'s reduced run ([CASE-331](../cases.d/CASE-331.md)) the moving-basis term was tracked by proxy: the rotation of the empirical tangent kernel's top eigenspace between checkpoints 250 steps apart. It forecast nothing about when the network generalizes. The top eigenspace stayed at chance alignment with the functions the task needs (functions of a + b) throughout, even after generalization, while the input-to-output Fourier coupling did forecast. In this network, then, acquisition is not visible as the kernel's leading modes turning toward the target. It is one network and one kernel, the class-summed trace kernel. It answers none of the four orders. No status change.
 
 ## Note of 2026-11-22: the tree with strengths set per level, run
 
-<!-- inactive-ok-file: CASE-tmp7n58t CLAIM-tmpzujm1 CLAIM-tmp0h57p — new; the study and claims of LEAD-052, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-351 CLAIM-929 CLAIM-930 — new; the study and claims of LEAD-052, filed 2026-11-22 -->
 
-A2's first project, run for [LEAD-052](../leads.d/LEAD-052.md) ([CASE-tmp7n58t](../cases.d/CASE-tmp7n58t.md)): eight items on a
+A2's first project, run for [LEAD-052](../leads.d/LEAD-052.md) ([CASE-351](../cases.d/CASE-351.md)): eight items on a
 depth-3 tree, inputs and targets each given a strength per level, and the
 acquisition time of each level read from the network's own output.
 
@@ -280,7 +280,7 @@ acquisition time of each level read from the network's own output.
   projectors, so kernel flow acquires the levels in the order of its
   per-level eigenvalue, which depends on the input strengths alone; a
   decoupled deep linear network orders them by input strength times target
-  strength ([CLAIM-tmpzujm1](../claims.d/CLAIM-tmpzujm1.md), demonstrated). Commutation here does not
+  strength ([CLAIM-929](../claims.d/CLAIM-929.md), demonstrated). Commutation here does not
   make acquisition coarse to fine: it makes the order spectral, and
   whether the spectral order is the refinement order is then a fact about
   where the strength sits.
@@ -290,7 +290,7 @@ acquisition time of each level read from the network's own output.
   data can be coarse-first for one and simultaneous or fine-first for the
   other. A small two-layer ReLU network from small scale kept the
   deep linear direction with its spread of times compressed, so much of
-  its map is simultaneous ([CLAIM-tmp0h57p](../claims.d/CLAIM-tmp0h57p.md), empirical).
+  its map is simultaneous ([CLAIM-930](../claims.d/CLAIM-930.md), empirical).
 
 For these model classes on tree-symmetric data this gives the condition:
 the acquisition order agrees with the refinement order when, and only
@@ -300,10 +300,10 @@ relevance order untouched. No status change.
 
 ## Note of 2026-11-22: a commutator bound of Conjecture A's kind
 
-<!-- inactive-ok-file: CASE-tmp99n89 CLAIM-tmpo8cwu — new; the study and claim of LEAD-066, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-358 CLAIM-938 — new; the study and claim of LEAD-066, filed 2026-11-22 -->
 
-[LEAD-066](../leads.d/LEAD-066.md) gives Conjecture A a formal half ([CLAIM-tmpo8cwu](../claims.d/CLAIM-tmpo8cwu.md), demonstrated;
-checked in [CASE-tmp99n89](../cases.d/CASE-tmp99n89.md)). For a learner whose residual obeys ė = −A e
+[LEAD-066](../leads.d/LEAD-066.md) gives Conjecture A a formal half ([CLAIM-938](../claims.d/CLAIM-938.md), demonstrated;
+checked in [CASE-358](../cases.d/CASE-358.md)). For a learner whose residual obeys ė = −A e
 with A symmetric positive semidefinite (kernel flow, or any network under
 gradient flow on squared loss, with its tangent kernel), ‖[A, P_ℓ]‖ is
 exactly the coupling between level ℓ and the rest, and level ℓ's relative

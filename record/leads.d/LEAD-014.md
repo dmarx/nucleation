@@ -26,7 +26,7 @@ summary: >-
   Named in [QUESTION-108](../questions.d/QUESTION-108.md) and [CASE-251](../cases.d/CASE-251.md). Filed by the backlog audit of
   2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmpssuha CLAIM-tmpj6pb6 — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-318 CLAIM-881 — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CASE-251 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-014: Run the curation-completeness study: an agent given a source and the record as it stood produces the filing's accounting, scored against the filing and its later corrections
@@ -51,7 +51,7 @@ where the record loses information.
 
 ## Note of 2026-11-22: a pilot run, and what remains
 
-A pilot was run ([CASE-tmpssuha](../cases.d/CASE-tmpssuha.md); materials under scratch/studies/lead-014/).
+A pilot was run ([CASE-318](../cases.d/CASE-318.md); materials under scratch/studies/lead-014/).
 Four corrected readings of arXiv works were chosen by a rule written
 before outcomes, a codebook was fixed before any replay, and each filing
 was replayed from its source and a checkout of the record at its parent
@@ -59,7 +59,7 @@ commit, then scored. Pooled recall against what the filings held was
 95/138 (0.69); against what later corrections added, 0/6. Five of the six
 correction items needed works other than the source, so for single-work
 readings the corrections measure accuracy, not curation
-([CLAIM-tmpj6pb6](../claims.d/CLAIM-tmpj6pb6.md)). The replays also found items neither the filings nor
+([CLAIM-881](../claims.d/CLAIM-881.md)). The replays also found items neither the filings nor
 the corrections hold.
 
 What remains: the study as specified. It needs (1) separate replay agents

@@ -65,7 +65,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: NOTE-1825 — Skimmed; named in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1776 — Proposed; the reading whose further passages this note cites -->
-<!-- inactive-ok-file: CASE-tmpssuha — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-318 — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 <!-- inactive-ok-file: ARG-028 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-1730 THEORY-1733 THEORY-1738 THEORY-1743 THEORY-1754 THEORY-1757 THEORY-1759 THEORY-1760 THEORY-1769 THEORY-1770 THEORY-1772 THEORY-1782 THEORY-1784 THEORY-1785 THEORY-1794 THEORY-1799 THEORY-1801 THEORY-1803 THEORY-1804 THEORY-1811 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
@@ -156,7 +156,7 @@ The claim is unchanged.
 
 ## Note of 2026-11-22: the curation-completeness pilot meets this claim's limit
 
-[CASE-tmpssuha](../cases.d/CASE-tmpssuha.md) scored replayed accountings against the record's own filings
+[CASE-318](../cases.d/CASE-318.md) scored replayed accountings against the record's own filings
 and their later corrections, which is scoring the record by its own
 probes. The replays found items that neither the filings nor any later
 pass held, checked against the sources: Wang et al.'s explanation of the

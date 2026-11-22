@@ -37,7 +37,7 @@ summary: >-
   governance emerges from heterogeneous processes; this asks when a nucleus
   becomes one. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpy4orj CLAIM-tmpocjfb CLAIM-tmpnyf9e CLAIM-tmpk6abl CLAIM-tmp1qqso CLAIM-tmps1ll3 — new, filed under LEAD-093 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-365 CLAIM-953 CLAIM-952 CLAIM-951 CLAIM-956 CLAIM-958 — new, filed under LEAD-093 on 2026-11-22 -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 
 # QUESTION-399: Under what conditions does a productive partial organization become a self-maintaining nucleus, one whose continued operation contributes to regenerating the very constraints that make its productive influence possible?
@@ -117,23 +117,23 @@ The question is unchanged.
 ## Note of 2026-11-22: a constructed nucleus that makes its own formation constraint
 
 [LEAD-093](../leads.d/LEAD-093.md) built the system the question asks for, by construction:
-[CASE-tmpy4orj](../cases.d/CASE-tmpy4orj.md), an invented kinetic model. Nuclei form fast only on a
+[CASE-365](../cases.d/CASE-365.md), an invented kinetic model. Nuclei form fast only on a
 teacher, and each nucleus, once formed, makes teachers.
 
 - **When the loop closes.** The outside teacher can be withdrawn once the
   joint state crosses a separatrix. That happens while nuclei are 0.02 %
-  to 30 % of their maintained number ([CLAIM-tmpocjfb](../claims.d/CLAIM-tmpocjfb.md)).
+  to 30 % of their maintained number ([CLAIM-953](../claims.d/CLAIM-953.md)).
 - **The turnover it survives.** Closure is lost above a teacher turnover
   set by the teaching rate.
 - **The supply it still needs.** Material always; teacher never, once
   closed.
 - **A partial loop** can need more outside supply than none
-  ([CLAIM-tmpk6abl](../claims.d/CLAIM-tmpk6abl.md)).
+  ([CLAIM-951](../claims.d/CLAIM-951.md)).
 - **Repair without production** divides the supply needed by 1 + ρN/λ
-  and never closes ([CLAIM-tmpnyf9e](../claims.d/CLAIM-tmpnyf9e.md)). That separates the question's
+  and never closes ([CLAIM-952](../claims.d/CLAIM-952.md)). That separates the question's
   "producing" from its "repairing".
 - **Which row of the table.** Whether the loop is the table's
   organizational closure or its autocatalysis is filed as two readings
-  for the owner: [CLAIM-tmp1qqso](../claims.d/CLAIM-tmp1qqso.md) and [CLAIM-tmps1ll3](../claims.d/CLAIM-tmps1ll3.md).
+  for the owner: [CLAIM-956](../claims.d/CLAIM-956.md) and [CLAIM-958](../claims.d/CLAIM-958.md).
 
 No status changes.

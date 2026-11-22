@@ -52,13 +52,13 @@ Oversight that loses effect as speed rises, with authority and resources
 fixed, supports [CLAIM-710](../claims.d/CLAIM-710.md) and [CLAIM-464](../claims.d/CLAIM-464.md); no effect of speed defeats them.
 
 ## Note of 2026-11-22: the simulation arm run
-<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-316 CLAIM-879 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-730 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
 
-The simulation arm is built and run: [CASE-tmp8riid](../cases.d/CASE-tmp8riid.md), with code, tests and results under scratch/studies/lead-068/. A queueing model holds the overseer's authority (an objection suspends), information (detection delay) and resources (four reviewers) fixed, and varies only how soon the acting institution's actions become irreversible; precommitted limits, automatic suspension and pauses are added in turn in the fast arm. 20 seeds per configuration.
+The simulation arm is built and run: [CASE-316](../cases.d/CASE-316.md), with code, tests and results under scratch/studies/lead-068/. A queueing model holds the overseer's authority (an objection suspends), information (detection delay) and resources (four reviewers) fixed, and varies only how soon the acting institution's actions become irreversible; precommitted limits, automatic suspension and pauses are added in turn in the fast arm. 20 seeds per configuration.
 
 - **What would count, met in the model.** Oversight lost effect as speed rose with authority and resources fixed: the share of objectionable actions stopped in time fell from 0.994 to 0.396 at ten times the speed, and to 0.043 when speed also multiplied the volume of actions. That is the lead's support for [CLAIM-710](../claims.d/CLAIM-710.md) and [CLAIM-464](../claims.d/CLAIM-464.md), in stipulated form: the model builds in A23 §3's timing condition, so the runs add the loss's shape and the remedies' comparison, not evidence about institutions.
-- **The remedies.** Limits won back their coverage of the gap, suspension at most the share detected in time, pauses only by giving up the speed, and nothing under the volume reading. [CLAIM-tmpsaql8](../claims.d/CLAIM-tmpsaql8.md) states it.
+- **The remedies.** Limits won back their coverage of the gap, suspension at most the share detected in time, pauses only by giving up the speed, and nothing under the volume reading. [CLAIM-879](../claims.d/CLAIM-879.md) states it.
 - **A choice the design left open, run both ways.** Whether "speed" shortens only the time to irreversibility or also raises the volume of actions; both readings are reported, neither chosen.
 
 What remains:

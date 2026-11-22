@@ -17,7 +17,7 @@ summary: >-
 extends:
 - THEORY-190
 ---
-<!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: THEORY-2172 — Proposed; the readings of 2026-11-22 cited in the notes -->
 
 
 # THEORY-803: Real complex networks embedded in the hyperbolic plane are self-similar under geometric renormalization, their coarse-grained layers keeping the degree distribution, clustering and degree–degree correlations of the original, and this self-similarity is evidence that a hidden metric space underlies them
@@ -54,8 +54,8 @@ the geometry.
 
 ## Note of 2026-11-22: Broido and Clauset, read
 
-**Background** ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is
-[THEORY-tmphcnj3](THEORY-tmphcnj3.md)). Their test is of the degree distribution alone, and they
+**Background** ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-2263](../notes.d/NOTE-2263.md); the reading is
+[THEORY-2172](THEORY-2172.md)). Their test is of the degree distribution alone, and they
 call it "a weak discriminator between mechanisms"; this account's
 self-similarity under renormalization concerns clustering and
 degree–degree correlations as well, a richer test of the kind they ask

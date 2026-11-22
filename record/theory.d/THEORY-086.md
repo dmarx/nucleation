@@ -35,7 +35,7 @@ summary: >-
 bears_on:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2174 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-084 THEORY-080 — Proposed; named in Connections, nothing here rests on them -->
 
 # THEORY-086: In the kernel regime gradient descent fits the target eigenspace by eigenspace of the neural tangent kernel, at rates set by their eigenvalues; on uniform spherical data the eigenspaces are the harmonic degrees, and for fully connected ReLU networks the non-zero eigenvalues decay as k^(−d) at every depth
@@ -144,7 +144,7 @@ A parallel ([NOTE-2099](../notes.d/NOTE-2099.md)): the covariance recursion of P
 
 ## Note of 2026-11-22: Stringer and colleagues, read
 
-Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](THEORY-tmpwtoad.md)): **a
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-2257](../notes.d/NOTE-2257.md), [THEORY-2174](THEORY-2174.md)): **a
 parallel in a fixed code.** Supplementary Discussion §2.4: a delta-rule
 readout of a fixed population code learns its eigenfunctions "at a speed
 proportional to the eigenvalues", so "a crude representation will be

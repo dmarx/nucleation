@@ -28,7 +28,7 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note says what LEAD-072 built against 'What would answer it'
-    (CLAIM-tmp1o9d0, CASE-tmpl6unn). The claim is unchanged.
+    (CLAIM-937, CASE-359). The claim is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -59,7 +59,7 @@ summary: >-
   estimator. It does not say signalling is rare in pragmatic judgements,
   where order effects are themselves signalling.
 ---
-<!-- inactive-ok-file: CLAIM-tmp1o9d0 CASE-tmpl6unn — new; what LEAD-072 filed on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-937 CASE-359 — new; what LEAD-072 filed on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its separation of corpus from elicitation and its two routes to signalling, open -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that makes deficiency computable, cited as open -->
@@ -163,7 +163,7 @@ fraction.
 "What would answer it" asks first for "estimators with bias correction
 and a stated sampling error, or a test for signalling with a stated null
 hypothesis, applied to [LIT-851](../literature.d/LIT-851.md)'s systems with their occurrence counts".
-[LEAD-072](../leads.d/LEAD-072.md) built both halves of the first part ([CLAIM-tmp1o9d0](CLAIM-tmp1o9d0.md)). No
+[LEAD-072](../leads.d/LEAD-072.md) built both halves of the first part ([CLAIM-937](CLAIM-937.md)). No
 estimator of Δ can be unbiased at finite counts, so bias correction
 reduces rather than removes the bias; a simultaneous Clopper-Pearson
 interval for Δ is valid at every count; and Bonferroni over per-content
@@ -175,7 +175,7 @@ for Δ is about [0, 4].
 The application is not made. [LIT-851](../literature.d/LIT-851.md) prints no counts ([NOTE-654](../notes.d/NOTE-654.md)), and its
 copy was behind a Cloudflare challenge on 2026-11-22. On [LIT-842](../literature.d/LIT-842.md)'s three
 printed binary systems, with the least counts their fractions allow
-([CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md)), the coach/boxer × lap/file system signals beyond
+([CASE-359](../cases.d/CASE-359.md)), the coach/boxer × lap/file system signals beyond
 sampling error by the guaranteed interval, adopt/boxer by the exact test
 only, and throw/pitcher by neither. Whether this claim's title, "have no
 finite-data estimators", should now be narrowed for signalling is the

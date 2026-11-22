@@ -89,7 +89,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-684 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; the principle the note of that date checks -->
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: CASE-tmprcg71 CLAIM-tmpn5wpc CLAIM-721 — new or Proposed; the restriction variant, its finding and the claim it reaches, note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-364 CLAIM-950 CLAIM-721 — new or Proposed; the restriction variant, its finding and the claim it reaches, note of 2026-11-22 -->
 
 # CLAIM-605: Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold
 
@@ -239,7 +239,7 @@ No status change.
 
 ## Note of 2026-11-22: the restriction variant of this model ([LEAD-104](../leads.d/LEAD-104.md))
 
-Carrying out [LEAD-104](../leads.d/LEAD-104.md), [CASE-tmprcg71](../cases.d/CASE-tmprcg71.md) rebuilds this model with the
+Carrying out [LEAD-104](../leads.d/LEAD-104.md), [CASE-364](../cases.d/CASE-364.md) rebuilds this model with the
 outside support replaced by a restriction that removes the doing, and with
 exit made a threshold on capacity: reinstatement when C ≥ C_r. It reaches
 [CLAIM-721](CLAIM-721.md)'s restriction-induced capability trap, and recovers two of this
@@ -249,4 +249,4 @@ result 1's substitution deadline) and the ignition distinction (a practice
 route that restores exercise cannot lift a party below threshold, a
 training route that adds capacity directly can, which is result 3's
 capacity-first/transfer contrast reached by restriction). The finding is
-[CLAIM-tmpn5wpc](CLAIM-tmpn5wpc.md). No status change.
+[CLAIM-950](CLAIM-950.md). No status change.

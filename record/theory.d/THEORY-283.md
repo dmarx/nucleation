@@ -46,7 +46,7 @@ bears_on:
 - QUESTION-039
 - QUESTION-158
 ---
-<!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2170 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-201 THEORY-180 — Proposed; accounts this one is set beside, none of them rested on -->
 
 # THEORY-283: For a hierarchical multi-index target with isotropic Gaussian inputs and even, separable links, direction k becomes weakly recoverable by the Bayes-optimal estimator at a sample count proportional to its squared weight to the power minus one, so features emerge one at a time through sharp spectral transitions in the number of samples; a target-agnostic spectral estimator attains the thresholds and the optimal weighted error, and a two-layer network whose first layer is that estimator, with a ridge readout, attains them in excess risk
@@ -151,7 +151,7 @@ ridge regression on a fresh half of the data, has excess risk
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)): **a
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-2258](../notes.d/NOTE-2258.md), [THEORY-2170](THEORY-2170.md)): **a
 parallel.** The same Gaussian single- and multi-index family, asked what one
 large step does to the feature spectrum and the test error rather than
 when directions are weakly recovered. No relation.

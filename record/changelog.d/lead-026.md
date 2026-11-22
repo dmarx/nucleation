@@ -1,7 +1,7 @@
 ### Added
 
-- [CASE-tmprsqvj](record/cases.d/CASE-tmprsqvj.md): [CASE-101](record/cases.d/CASE-101.md)'s three populations, with an institution deaf to its members as a fourth, simulated with matched turnover and aggregate statistics and run through [QUESTION-115](record/questions.d/QUESTION-115.md)'s search and a lagged block test priced by [CLAIM-154](record/claims.d/CLAIM-154.md) ([LEAD-026](record/leads.d/LEAD-026.md)). Materials under scratch/studies/lead-026/.
-- [CLAIM-tmp2jbb1](record/claims.d/CLAIM-tmp2jbb1.md): the priced lagged block test finds the population held together by delayed transmission, with its lag, rejects the commonly driven population only while the input is observed, and gives common input and institutional maintenance the same boundary.
+- [CASE-347](record/cases.d/CASE-347.md): [CASE-101](record/cases.d/CASE-101.md)'s three populations, with an institution deaf to its members as a fourth, simulated with matched turnover and aggregate statistics and run through [QUESTION-115](record/questions.d/QUESTION-115.md)'s search and a lagged block test priced by [CLAIM-154](record/claims.d/CLAIM-154.md) ([LEAD-026](record/leads.d/LEAD-026.md)). Materials under scratch/studies/lead-026/.
+- [CLAIM-926](record/claims.d/CLAIM-926.md): the priced lagged block test finds the population held together by delayed transmission, with its lag, rejects the commonly driven population only while the input is observed, and gives common input and institutional maintenance the same boundary.
 
 ### Changed
 

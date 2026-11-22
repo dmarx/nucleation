@@ -82,9 +82,9 @@ convention, a reviewer's habit).
   allowed, not when two things count as the same.
 
 ## Note of 2026-11-22: Freeman and Pfenning, read
-<!-- inactive-ok-file: THEORY-tmp1mruk — Proposed; filed for LEAD-tmp3xevc -->
+<!-- inactive-ok-file: THEORY-2259 — Proposed; filed for LEAD-215 -->
 
-Freeman and Pfenning's refinement types ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md); [NOTE-tmpew427](../notes.d/NOTE-tmpew427.md)) have a
+Freeman and Pfenning's refinement types ([THEORY-2259](../theory.d/THEORY-2259.md); [NOTE-2350](../notes.d/NOTE-2350.md)) have a
 descriptor and lack an imposition. An annotation is accepted only when the
 term already has a refinement below it (RESTRICT, p. 8), and nothing moves
 the term: an annotation accepted is a descriptor in this term's sense. The
@@ -97,20 +97,20 @@ make explicit the distinctions which currently must remain implicit or
 informal in code comments" (p. 2). Parallels only; the definition stands.
 
 ## Note of 2026-11-22: Davies and Pfenning, read
-<!-- inactive-ok-file: THEORY-tmpei9b5 — Proposed; filed for LEAD-tmp3xevc -->
+<!-- inactive-ok-file: THEORY-2260 — Proposed; filed for LEAD-215 -->
 
-A parallel. Freeman and Pfenning's refinements ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md)) are a
+A parallel. Freeman and Pfenning's refinements ([THEORY-2259](../theory.d/THEORY-2259.md)) are a
 closed vocabulary declared in advance, and can be inferred; Davies and
-Pfenning ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md); [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)) open it to any intersection,
+Pfenning ([THEORY-2260](../theory.d/THEORY-2260.md); [NOTE-2351](../notes.d/NOTE-2351.md)) open it to any intersection,
 inference becomes "most likely undecidable" (p. 2), and the properties
 must be stated by the programmer and checked. Read across: a predicate
 from a closed vocabulary can be read off an entry; one from an open
 vocabulary has to be written. No change.
 
 ## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
-<!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
+<!-- inactive-ok-file: THEORY-2262 — Proposed; filed for LEAD-215 -->
 
-A parallel (no edge). In liquid types ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md))
+A parallel (no edge). In liquid types ([THEORY-2262](../theory.d/THEORY-2262.md); [NOTE-2353](../notes.d/NOTE-2353.md))
 the descriptors that can be inferred are conjunctions from a finite set
 of qualifiers the programmer supplies. A property the set cannot state is
 not inferred, and the paper's remedy is "to manually add more qualifiers"

@@ -16,7 +16,7 @@ summary: >-
   and [CLAIM-174](../claims.d/CLAIM-174.md). [THEORY-048](../theory.d/THEORY-048.md) answers it in part; the body gives each one's
   limit.
 ---
-<!-- inactive-ok-file: CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
+<!-- inactive-ok-file: CLAIM-889 CLAIM-890 — new; LEAD-089's study, finding and reading -->
 
 # QUESTION-056: When the mechanisms composing a will-organization are described by control theory and executive-control research, does that description implement the will-organization account or replace it, and what result would show the agent-level description had become idle?
 
@@ -53,15 +53,15 @@ almost any dynamical process." Workbench entry of 2026-10-13, 21:29.
 
 ## Note of 2026-11-22: the comparison run, for Northstar
 
-[LEAD-089](../leads.d/LEAD-089.md) ran the comparison this question asks for ([CASE-tmpokq28](../cases.d/CASE-tmpokq28.md)). Five
+[LEAD-089](../leads.d/LEAD-089.md) ran the comparison this question asks for ([CASE-325](../cases.d/CASE-325.md)). Five
 control-only models see the arrangement of authority as an input and have
 no variable for a relation. None predicts the combinations of changes in
 authority never seen together as well as the will-organization model,
 even with unlimited data. The will-organization wins by more than its
 Occam cost where the case is as stipulated, and loses where authority is
-idle ([CLAIM-tmp92xul](../claims.d/CLAIM-tmp92xul.md)). On this question's criterion, then, the mechanism
+idle ([CLAIM-889](../claims.d/CLAIM-889.md)). On this question's criterion, then, the mechanism
 models do not replace it here. A control model that matches has to take the
 relations as its variables, which implements them. But institutional
-theory's rules-in-use are those variables ([CLAIM-tmp773u9](../claims.d/CLAIM-tmp773u9.md)), so for an
+theory's rules-in-use are those variables ([CLAIM-890](../claims.d/CLAIM-890.md)), so for an
 organization the agent-level description is not idle, yet not new either.
 Still open for a person.

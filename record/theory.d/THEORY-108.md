@@ -46,8 +46,8 @@ summary: >-
 bears_on:
 - QUESTION-069
 ---
-<!-- inactive-ok-file: CASE-tmphfmrb — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: CASE-385 — new; LEAD-157's executed study, its finding and the two alternative readings, filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2171 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-078 — Proposed; named in Connections for what endpoint curvature measures, nothing here rests on them -->
 
 # THEORY-108: Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature
@@ -211,7 +211,7 @@ test on this reading's data. No relation is written.
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](THEORY-tmphbp5a.md)): **a
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-2260](../notes.d/NOTE-2260.md), [THEORY-2171](THEORY-2171.md)): **a
 parallel.** Another hyperparameter phase diagram of training with
 statistical-mechanics names, in step size and initial weight scale rather
 than load and temperature; the authors note their names are borrowed, the
@@ -220,7 +220,7 @@ threshold". They do not cite this work. No relation.
 
 ## Note of 2026-11-22: a toy analogue of the aligned phase-III test
 
-[LEAD-157](../leads.d/LEAD-157.md) ran a small analogue of this reading's grid ([CASE-tmphfmrb](../cases.d/CASE-tmphfmrb.md)): numpy
+[LEAD-157](../leads.d/LEAD-157.md) ran a small analogue of this reading's grid ([CASE-385](../cases.d/CASE-385.md)): numpy
 MLPs, widths 4 to 64 against batch sizes 256, 32 and 8, with the top
 Hessian eigenvalue as the local measure. One cell came out flat and poorly
 connected on an unaligned Bezier curve (width 6, batch 8; 0.068 training

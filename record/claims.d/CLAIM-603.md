@@ -101,7 +101,7 @@ summary: >-
 corroborates:
 - CLAIM-600
 ---
-<!-- inactive-ok-file: THEORY-tmpzrqm9 — Proposed; the reading of the 10 Principles, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2224 — Proposed; the reading of the 10 Principles, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-262 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; cited in the proposed test -->
 <!-- inactive-ok-file: CLAIM-428 — Proposed; cited in the note of 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-669 CLAIM-671 — filed from the exchange of 2026-11-12, Proposed -->
@@ -371,8 +371,8 @@ owner's call.
 
 ## Note of 2026-11-22: Harvey, the 10 Principles, read
 
-[LIT-2175](../literature.d/LIT-2175.md) is now read from the organization's own page ([NOTE-tmpcr2sz](../notes.d/NOTE-tmpcr2sz.md);
-[THEORY-tmpzrqm9](../theory.d/THEORY-tmpzrqm9.md)). Two things above change, recorded here rather than in the
+[LIT-2175](../literature.d/LIT-2175.md) is now read from the organization's own page ([NOTE-2314](../notes.d/NOTE-2314.md);
+[THEORY-2224](../theory.d/THEORY-2224.md)). Two things above change, recorded here rather than in the
 text.
 
 - **"Unavailable" is stale.** The "Generalized" bullet cites [LIT-2175](../literature.d/LIT-2175.md) as

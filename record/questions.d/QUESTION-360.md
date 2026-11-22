@@ -20,7 +20,7 @@ summary: >-
   which is the record's signal to give it a code. A candidate term is
   filed beside it, Proposed ([TERM-098](../terms.d/TERM-098.md)); this question asks what would settle it.
 ---
-<!-- inactive-ok-file: CASE-tmpb4hg0 — new; the run of LEAD-172, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-331 — new; the run of LEAD-172, filed 2026-11-22 -->
 <!-- inactive-ok-file: TERM-131 — Proposed; cited in this filing of 2026-11-19 -->
 
 # QUESTION-360: When does a learned distinction become a concept rather than a discriminator or a habit (by being reused systematically, transferring to counterfactual cases, integrating with other capacities, or being correctable), is the transition graded or categorical, and how is a concept told apart from the organization that realizes it and from the thing it is about?
@@ -109,4 +109,4 @@ No status change.
 
 ## Note of 2026-11-22: the modular-addition run does not reach this question
 
-[LEAD-172](../leads.d/LEAD-172.md) lists this question among those it advances. Its reduced run ([CASE-tmpb4hg0](../cases.d/CASE-tmpb4hg0.md)) measured how early the task's couplings form and when the network generalizes to held-out pairs. Generalization to held-out pairs is a form of the question's transfer criterion. The run did not measure reuse across tasks, integration with other capacities or correction by evidence, so it says nothing on whether those arrive together or apart. One observation bears on whether the transition is graded. Under weight decay 2.0 the selection-rule coupling and test accuracy rose early and stalled at 0.64 to 0.86. The network held most of the distinction on unseen pairs without completing it. No status change.
+[LEAD-172](../leads.d/LEAD-172.md) lists this question among those it advances. Its reduced run ([CASE-331](../cases.d/CASE-331.md)) measured how early the task's couplings form and when the network generalizes to held-out pairs. Generalization to held-out pairs is a form of the question's transfer criterion. The run did not measure reuse across tasks, integration with other capacities or correction by evidence, so it says nothing on whether those arrive together or apart. One observation bears on whether the transition is graded. Under weight decay 2.0 the selection-rule coupling and test accuracy rose early and stalled at 0.64 to 0.86. The network held most of the distinction on unseen pairs without completing it. No status change.

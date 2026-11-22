@@ -34,7 +34,7 @@ summary: >-
   and says nothing of the classes kept. Read in its NOTE.
 ---
 <!-- inactive-ok-file: CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-2033: Wang and Isola show that, as the number of negative samples grows, the normalized InfoNCE loss on the unit hypersphere converges to an alignment term, minimized exactly by encoders that map both members of every positive pair to the same feature, plus a uniformity term, minimized by encoders whose features are uniformly distributed on the sphere when such encoders exist; on a finite augmented dataset the two optima cannot both be met
 
@@ -48,7 +48,7 @@ It does not show which encoder gradient training reaches, what happens at finite
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](THEORY-tmpvwv5n.md)): **qualifies, and
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-2277](../notes.d/NOTE-2277.md), [THEORY-2188](THEORY-2188.md)): **qualifies, and
 goes further.** They prove a closed-form large-batch limit at finite τ, in
 value and gradient, beyond the asymptotic decomposition read here, and
 reread uniformity as "entropy-driven spreading inside the alignment basin"

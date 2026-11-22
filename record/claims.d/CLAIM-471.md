@@ -118,7 +118,7 @@ summary: >-
   physically operative correspondence structure, rather than revealing or
   redescribing it.
 ---
-<!-- inactive-ok-file: CASE-tmp69rk8 — filed from LEAD-098's run of 2026-11-22, new -->
+<!-- inactive-ok-file: CASE-333 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 LIT-1639 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 <!-- ref::uses-file: TERM-093 — the "correspondences among local descriptions" that measurement estimates and adaptive apparatuses revise, held apart from physical coupling, are TERM-093's correspondence structure, held as discovered or adapted -->
@@ -395,4 +395,4 @@ A's fourth paste gives the order of explanation this claim's three mechanisms si
 
 ## Note of 2026-11-22: the three parts separated in one simulation, from [LEAD-098](../leads.d/LEAD-098.md)
 
-[CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md) ran [CASE-179](../cases.d/CASE-179.md)'s three manipulations independently. Strong dissipative coupling enforcing relations other than the apparatus's locked fully and stayed far from the apparatus's sections (incompatibility 0.52), so gluing under the specified relations did not follow from the coupling. An apparatus that revised its maps to the observed offsets became consistent without predicting held-out interventions any better; revision checked against them did. That is this claim's point, that neither the relations' generation nor their adequacy follows from gluing, in a model. No status change.
+[CASE-333](../cases.d/CASE-333.md) ran [CASE-179](../cases.d/CASE-179.md)'s three manipulations independently. Strong dissipative coupling enforcing relations other than the apparatus's locked fully and stayed far from the apparatus's sections (incompatibility 0.52), so gluing under the specified relations did not follow from the coupling. An apparatus that revised its maps to the observed offsets became consistent without predicting held-out interventions any better; revision checked against them did. That is this claim's point, that neither the relations' generation nor their adequacy follows from gluing, in a model. No status change.

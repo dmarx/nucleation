@@ -245,10 +245,10 @@ Ensign, Friedler, Neville, Scheidegger and Venkatasubramanian ([LIT-2688](../lit
 
 ## Note of 2026-11-22: the entrenchment loop in a denoiser run
 
-<!-- inactive-ok-file: CASE-tmpkghqb — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-338 — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
 [LEAD-077](../leads.d/LEAD-077.md) ran [CASE-158](../cases.d/CASE-158.md)'s arm in which specialists keep training on
-the regions they are granted ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)). Neither audited governance nor a
+the regions they are granted ([CASE-338](../cases.d/CASE-338.md)). Neither audited governance nor a
 router entrenched the pre-reversal specialist: 0.00 to 0.05 of the weight
 stayed on it over the last ten episodes. Conformity scoring kept 0.06 to
 0.14. The incumbent learned the new content at rate 0.1 while the right

@@ -37,9 +37,9 @@ Where the record names it:
 A candidate whose removal produces lock-in answers [QUESTION-121](../questions.d/QUESTION-121.md).
 
 ## Note of 2026-11-22: carried out
-<!-- inactive-ok-block: CASE-tmp943kt CLAIM-tmp95c61 — new; filed for LEAD-020 -->
+<!-- inactive-ok-block: CASE-353 CLAIM-931 — new; filed for LEAD-020 -->
 
-Carried out by the assistant on branch claude/lead-020-nonlockin-ablation. The study is [CASE-tmp943kt](../cases.d/CASE-tmp943kt.md) (executed-study), with code, eleven pytest tests, 1368 result cells and a summary in scratch/studies/lead-020/. The finding is [CLAIM-tmp95c61](../claims.d/CLAIM-tmp95c61.md). Dated notes went on [QUESTION-121](../questions.d/QUESTION-121.md), [CLAIM-342](../claims.d/CLAIM-342.md), [CLAIM-340](../claims.d/CLAIM-340.md), [CLAIM-339](../claims.d/CLAIM-339.md) and [CASE-099](../cases.d/CASE-099.md). A loop that does not lock in, with action held fixed, was built. In its minimal forms, removing commitment, processing signals or exogenous capture makes it lock in, which is what the lead's "What would count" names. With all candidates present, no single removal does. What remains:
+Carried out by the assistant on branch claude/lead-020-nonlockin-ablation. The study is [CASE-353](../cases.d/CASE-353.md) (executed-study), with code, eleven pytest tests, 1368 result cells and a summary in scratch/studies/lead-020/. The finding is [CLAIM-931](../claims.d/CLAIM-931.md). Dated notes went on [QUESTION-121](../questions.d/QUESTION-121.md), [CLAIM-342](../claims.d/CLAIM-342.md), [CLAIM-340](../claims.d/CLAIM-340.md), [CLAIM-339](../claims.d/CLAIM-339.md) and [CASE-099](../cases.d/CASE-099.md). A loop that does not lock in, with action held fixed, was built. In its minimal forms, removing commitment, processing signals or exogenous capture makes it lock in, which is what the lead's "What would count" names. With all candidates present, no single removal does. What remains:
 
 - whether this answers [QUESTION-121](../questions.d/QUESTION-121.md), which the claim gives as two readings for the owner;
 - why commitment worked even where [CLAIM-340](../claims.d/CLAIM-340.md)'s sign condition predicts coupling, which was not diagnosed;

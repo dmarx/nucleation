@@ -61,7 +61,7 @@ extends:
 answers:
 - QUESTION-202
 ---
-<!-- inactive-ok-file: THEORY-tmp8sxta — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2185 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 <!-- inactive-ok-file: THEORY-286 — Proposed; the imbalanced-class geometry this claim defers to, cited as open -->
 
@@ -110,7 +110,7 @@ with balanced classes, the means far from equiangular.
 
 ## Note of 2026-11-22: Yang, Steinhardt and Hu, read
 
-Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-tmpl260d](../notes.d/NOTE-tmpl260d.md), [THEORY-tmp8sxta](THEORY-tmp8sxta.md)): **qualifies.**
+Yang, Steinhardt and Hu ([LIT-2957](../literature.d/LIT-2957.md), [NOTE-2276](../notes.d/NOTE-2276.md), [THEORY-2185](THEORY-2185.md)): **qualifies.**
 On CIFAR-10 relabelled into five super-classes, ResNet-18 and
 DenseNet-121 meet NC1 and NC2 on the coarse labels, but "collapses its
 last-layer features onto their class means" is not literal there: the

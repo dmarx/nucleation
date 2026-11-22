@@ -1,12 +1,12 @@
 ### Added
 
-- [CLAIM-tmp59ejz](record/claims.d/CLAIM-tmp59ejz.md): a pragmatic rendering experiment's operational
+- [CLAIM-964](record/claims.d/CLAIM-964.md): a pragmatic rendering experiment's operational
   equivalences (equal probe predictabilities in the four sign patterns, plus
   one mixture equivalence among renderings) imply the generalized-
   noncontextuality inequality |⟨X⟩| + |⟨Z⟩| ≤ 1, a preparation-contextuality
   test separate from and invisible to the sheaf criterion. Carries out
   [LEAD-103](record/leads.d/LEAD-103.md); bears on [QUESTION-067](record/questions.d/QUESTION-067.md) and [QUESTION-001](record/questions.d/QUESTION-001.md); complements [CLAIM-037](record/claims.d/CLAIM-037.md).
-- [CASE-tmp7nwhq](record/cases.d/CASE-tmp7nwhq.md): the executed study behind it (numpy/scipy) — the
+- [CASE-370](record/cases.d/CASE-370.md): the executed study behind it (numpy/scipy) — the
   noncontextual bound returned exactly on all four diamond faces by linear
   program, corroborated for non-deterministic responses, the qubit orbit
   violating it up to √2, and the mixture equivalence shown load-bearing.

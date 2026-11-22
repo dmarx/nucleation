@@ -58,7 +58,7 @@ complements:
 - CLAIM-278
 - CLAIM-021
 ---
-<!-- inactive-ok-file: CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
+<!-- inactive-ok-file: CLAIM-889 CLAIM-890 — new; LEAD-089's study, finding and reading -->
 <!-- inactive-ok-file: CLAIM-487 — Proposed; the gain claim this objects to, open -->
 
 # CLAIM-024: Nothing here is new but a question: planning theory, control theory, executive control and institutional theory already study every mechanism the account names, and where the account has been set beside the expected value of control and Ainslie's interests it differs only in asking what governs how the driver changes rather than who drives, a question those mechanisms may answer without it
@@ -129,8 +129,8 @@ still not set beside the account.
 
 ## Note of 2026-11-22: the comparison made for Northstar
 
-[LEAD-089](../leads.d/LEAD-089.md) made [QUESTION-056](../questions.d/QUESTION-056.md)'s comparison ([CASE-tmpokq28](../cases.d/CASE-tmpokq28.md), [CLAIM-tmp92xul](CLAIM-tmp92xul.md)) and
-set the three unplaced fronts beside it ([CLAIM-tmp773u9](CLAIM-tmp773u9.md), Proposed):
+[LEAD-089](../leads.d/LEAD-089.md) made [QUESTION-056](../questions.d/QUESTION-056.md)'s comparison ([CASE-325](../cases.d/CASE-325.md), [CLAIM-889](CLAIM-889.md)) and
+set the three unplaced fronts beside it ([CLAIM-890](CLAIM-890.md), Proposed):
 
 - **Control theory's regulation and executive control.** These give
   control-only models. They miss the unseen combinations of changes in

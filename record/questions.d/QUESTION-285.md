@@ -330,8 +330,8 @@ test the third accomplishment is [CASE-239](../cases.d/CASE-239.md). The questio
 
 ## Note of 2026-11-22: self-testing of an apparatus, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 and the claim drawn from it -->
-In [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md) the interventions were the experimenter's: undisclosed
+<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 and the claim drawn from it -->
+In [CASE-332](../cases.d/CASE-332.md) the interventions were the experimenter's: undisclosed
 lesions of evidence generation, admission and scoring, which the system did
 not select. Recovering a second correction needed a self-test of each
 operation on known inputs, a way to stay answerable to what the apparatus

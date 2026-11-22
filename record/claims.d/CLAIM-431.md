@@ -55,7 +55,7 @@ summary: >-
 answers:
 - QUESTION-265
 ---
-<!-- inactive-ok-file: THEORY-tmpyc2wm — Proposed; the reading of Mulgan, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2216 — Proposed; the reading of Mulgan, 2026-11-22 -->
 
 <!-- inactive-ok-file: CLAIM-432 CLAIM-039 THEORY-892 — Proposed; the claims and reading this objection argues from or against, cited as open -->
 <!-- inactive-ok-file: LIT-1432 — Unavailable, no lawful full text; its abstract's "as if", not leaned on as read -->
@@ -132,8 +132,8 @@ harms once the external sanction is lifted, is a test nobody has run.
 
 ## Note of 2026-11-22: Mulgan, read
 
-A **rival framing, not a counterexample** ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md);
-[THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md)). Mulgan does not try to tell remorse from prudence. He
+A **rival framing, not a counterexample** ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-2306](../notes.d/NOTE-2306.md);
+[THEORY-2216](../theory.d/THEORY-2216.md)). Mulgan does not try to tell remorse from prudence. He
 calls a corporate group psychopathic when its structure lacks any mechanism
 for recognising and responding to moral reasons (p. 910), and makes moral
 agency depend on a reliable disposition to respond "appropriately" to them

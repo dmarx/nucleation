@@ -33,7 +33,7 @@ summary: >-
 bears_on:
 - QUESTION-025
 ---
-<!-- inactive-ok-file: THEORY-tmpe9367 THEORY-tmpsj6u9 CLAIM-tmpxcy5s — Proposed; the readings of Bui et al. and Ghadimi Atigh et al. filed 2026-11-22, and the assistant's claim that applies this reading -->
+<!-- inactive-ok-file: THEORY-2190 THEORY-2192 CLAIM-860 — Proposed; the readings of Bui et al. and Ghadimi Atigh et al. filed 2026-11-22, and the assistant's claim that applies this reading -->
 <!-- inactive-ok-file: THEORY-196 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 
 # THEORY-189: Nested angular cones in the Poincaré ball, symmetric about the outward ray with an aperture depending only on the apex's radius, are transitive only if the aperture is at most π/2 and r sin ψ(r)/(1 − r²) does not increase outward; so no such cone can be defined near the origin, the widest admissible family is sin ψ = K(1 − r²)/r, and every point a cone contains lies farther from the origin than its apex
@@ -175,16 +175,16 @@ K ≤ ε/(1 − ε²), equivalently ε ≥ 2K/(1 + √(1 + 4K²)). The earlier
 ## Note of 2026-11-22: Bui and colleagues, read
 
 An application, and a use of this reading's radial monotonicity. Bui et
-al.'s Lorentz-model cone ([THEORY-tmpe9367](THEORY-tmpe9367.md), [NOTE-tmpvu3vp](../notes.d/NOTE-tmpvu3vp.md); their Eq. 11,
+al.'s Lorentz-model cone ([THEORY-2190](THEORY-2190.md), [NOTE-2281](../notes.d/NOTE-2281.md); their Eq. 11,
 aper(h_o) = sin⁻¹(2ε/(√K‖h_o,space‖))) is this family: for curvature −K,
 √K‖h_space‖ = sinh(√K·d(O, h)), so Eq. 11 reads sinh(√K·d) sin ψ = 2ε,
 at K = 1 the family sinh(d) sin ψ = 2K above, with their ε for Ganea's
 K. The radial monotonicity derived here then says that every satisfied
 constraint in their scheme raises the item's distance from the origin.
-The assistant files that consequence as [CLAIM-tmpxcy5s](../claims.d/CLAIM-tmpxcy5s.md), checked
+The assistant files that consequence as [CLAIM-860](../claims.d/CLAIM-860.md), checked
 numerically in the Lorentz model for K ∈ {0.5, 1, 2}: no in-cone point
 nearer the origin than its apex in 132,178, and the condition ψ ≤ π/2
 shown to be needed (at a fixed half-aperture of 95°, 66 of 15,782 in-cone
 points lay nearer). It accounts for the norm growth Bui et al. list as
-their limitation. Ghadimi Atigh et al. ([THEORY-tmpsj6u9](THEORY-tmpsj6u9.md)) use Ganea's
+their limitation. Ghadimi Atigh et al. ([THEORY-2192](THEORY-2192.md)) use Ganea's
 cones in the Poincaré ball as a training target, with K = 0.1.

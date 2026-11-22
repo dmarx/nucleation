@@ -17,7 +17,7 @@ draws_on:
 - THEORY-087
 - THEORY-420
 - THEORY-186
-- THEORY-tmpthmd7
+- THEORY-2161
 summary: >-
   A41's table of spectra in the exchange "Rich Get Richer Power Laws"
   (2026-11-21), with its three kinds of weakness (A41 §5) and A37 §7's
@@ -31,7 +31,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-186 THEORY-084 THEORY-078 CLAIM-813 CLAIM-835 CASE-302 — Proposed or new; cited for the sense each fixes -->
 <!-- inactive-ok-file: TERM-140 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
-<!-- inactive-ok-file: THEORY-tmpthmd7 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: THEORY-2161 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
 # TERM-137: weak direction (in a learned model), in six senses that come apart
 
@@ -95,7 +95,7 @@ identification that sense 5 (singular) captures at the edges
 ## Note of 2026-11-21: Song, Ahn & Yun, read
 
 An instance of sense 3 (low curvature, vᵀHv, in parameters), with a
-caution on the word "bulk" ([NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md), [THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md)). Song, Ahn and
+caution on the word "bulk" ([NOTE-2250](../notes.d/NOTE-2250.md), [THEORY-2161](../theory.d/THEORY-2161.md)). Song, Ahn and
 Yun's dominant subspace is the training-loss Hessian's top-k eigenspace, k
 the number of classes, and "bulk" is its whole orthogonal complement,
 every eigenvalue below the top k, not a set of smallest-eigenvalue

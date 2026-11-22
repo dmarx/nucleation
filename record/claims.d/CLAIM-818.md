@@ -39,7 +39,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-798 THEORY-209 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
-<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
+<!-- inactive-ok-file: THEORY-2188 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-818: Under gradient flow, embeddings coupled through a shared-parameter kernel relax: the loss falls at the rate of a positive-semidefinite quadratic form in the embedding gradients however the kernel changes during training, so neither the coupling nor its co-evolution with the representation makes the dynamics active, and nonequilibrium behaviour has to come from the optimizer, from noise not matched to the kernel, or from a changing objective
 
@@ -101,7 +101,7 @@ the 100 × 100 matrix K was positive (6.7 × 10⁻⁵).
 
 ## Note of 2026-11-22: Cai and colleagues, read
 
-Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **consistent, a
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-2277](../notes.d/NOTE-2277.md), [THEORY-2188](../theory.d/THEORY-2188.md)): **consistent, a
 parallel at the population level.** One energy functional with an
 equilibrium for one modality, one joint energy for two: so nonequilibrium
 behaviour would have to come from the optimizer or the noise, as this

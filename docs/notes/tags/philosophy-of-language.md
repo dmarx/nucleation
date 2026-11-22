@@ -4,7 +4,7 @@
 
 **philosophy-of-language**.
 
-54 of 2247 NOTE documents. Back to the [full index](../README.md).
+56 of 2367 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -62,3 +62,5 @@
 | [NOTE-2200](../../../record/notes.d/NOTE-2200.md) | Tomasello — Precís of A Natural History of Human Thinking | Thinking in three steps: individual intentionality (apes), joint intentionality (perspectival representation, recursive inference, social self-monitoring), collective intentionality (objective representation, self-reflective inference, normative self-governance). Framework without data. | Read |
 | [NOTE-2202](../../../record/notes.d/NOTE-2202.md) | Butterfill and Apperly — How to Construct a Minimal Theory of Mind | A minimal theory of mind: registrations instead of beliefs; passes location false-belief tasks, fails identity ones; no embedding, so no nested beliefs; nothing on coordination. | Read |
 | [NOTE-2210](../../../record/notes.d/NOTE-2210.md) | Tomasello — Communicating Without Conventions: The Co-operation Model | Pragmatics as the foundation: natural gestures show communication's cooperative structure in the raw; apes lack it; three motives, common ground, an overt Gricean intention and the norms it creates; collaborative foraging; conventions from iconic gestures grown opaque. | Read |
+| [NOTE-2324](../../../record/notes.d/NOTE-2324.md) | Millikan — Biosemantics (2009) | Millikan's short statement of biosemantics. Teleology is a "shell": it explains how a representation can be false, as a product a selected system was supposed to make and did not make right. A theory of what representing is must be added. Hers: a producer and a consumer, shaped by selection or learning to cooperate, share a sign whose content is the affair it must map onto, by a rule, for the consumer to perform its functions in the Normal way. Natural signs cannot be false; truth and falsity need a history of selection. Replies to Neander's hoverfly, to systems selected for false belief, and to Pietroski's kimus. | Read |
+| [NOTE-2325](../../../record/notes.d/NOTE-2325.md) | Neander and Schulte — Teleological Theories of Mental Content (SEP) | A survey, by two proponents, of theories that derive the norms of content from functional norms, taken as descriptive and usually etiological: what an item or its type was selected for, by natural selection or by learning and other selection processes. It sets consumer-based theories (Millikan, Papineau) against producer-based ones (Dretske, Neander), adds Shea's varitel semantics and non-etiological variants, and reports four objections: indeterminacy, Swampman, liberalism and sophisticated concepts. Objections and replies are reported, not settled. | Read |

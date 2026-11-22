@@ -46,17 +46,17 @@ historical one.
 
 ## Note of 2026-11-22: the case pair written, and both outcomes filed
 
-<!-- inactive-ok-file: CASE-tmpj29sq CASE-tmp06m60 CLAIM-tmpz9dqf CLAIM-tmp9jo1z CLAIM-tmpner6t — new; filed for this lead on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-310 CASE-309 CLAIM-868 CLAIM-866 CLAIM-867 — new; filed for this lead on 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-054 — Proposed; named as where a defeater of the new claim would be looked for -->
 
 Done on the conceptual route, with no computation:
 
-- **The pair.** [CASE-tmpj29sq](../cases.d/CASE-tmpj29sq.md), Plum's egoistic precedence installed by one
+- **The pair.** [CASE-310](../cases.d/CASE-310.md), Plum's egoistic precedence installed by one
   outside input that lands exactly on his twin's state, the channel then
-  removed; and [CASE-tmp06m60](../cases.d/CASE-tmp06m60.md), the twin, who reaches it by his own revision.
+  removed; and [CASE-309](../cases.d/CASE-309.md), the twin, who reaches it by his own revision.
   Both stipulated thought-experiments, built on [CASE-191](../cases.d/CASE-191.md)'s provenance
   result, matched in everything the account names, with six variants.
-- **The outcome for withdrawn manipulation.** [CLAIM-tmpz9dqf](../claims.d/CLAIM-tmpz9dqf.md) argues that
+- **The outcome for withdrawn manipulation.** [CLAIM-868](../claims.d/CLAIM-868.md) argues that
   none can: every relation of will-organization, maintenance and
   transformation included, is fixed by present state, dynamics and
   couplings, and a twin exists exactly when the installed state is in the
@@ -64,12 +64,12 @@ Done on the conceptual route, with no computation:
   contain, and a corollary: the more an agent can reach by its own
   revision, the more manipulation its present can hide.
 - **Where the outcomes divide.** When the manipulator keeps its channel
-  (Pereboom's Case 1), two alternatives are filed: [CLAIM-tmp9jo1z](../claims.d/CLAIM-tmp9jo1z.md), the
+  (Pereboom's Case 1), two alternatives are filed: [CLAIM-866](../claims.d/CLAIM-866.md), the
   channel is a feature of will-organization (the assistant's lean), and
-  [CLAIM-tmpner6t](../claims.d/CLAIM-tmpner6t.md), it is a fact about the situation and none can.
+  [CLAIM-867](../claims.d/CLAIM-867.md), it is a fact about the situation and none can.
 
 What remains: the owner's choice between the two alternatives, and
-adoption of all three claims. The defeater of [CLAIM-tmpz9dqf](../claims.d/CLAIM-tmpz9dqf.md) names the
+adoption of all three claims. The defeater of [CLAIM-868](../claims.d/CLAIM-868.md) names the
 result that would undo it, a mark in the agent's maintained relations,
 such as [THEORY-054](../theory.d/THEORY-054.md)'s integration, that an installation within reach must
 leave. No one has looked for one in a model where integration with other

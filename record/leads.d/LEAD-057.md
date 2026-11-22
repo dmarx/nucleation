@@ -17,13 +17,13 @@ date: '2026-11-19'
 line:
 - distributed-agency
 operationalized_in:
-- CASE-tmp06fbt
+- CASE-321
 advances:
 - QUESTION-284
 summary: >-
   Named in [QUESTION-284](../questions.d/QUESTION-284.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmp06fbt CLAIM-tmpy1gmq — new; the study and claim filed for LEAD-057 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-321 CLAIM-887 — new; the study and claim filed for LEAD-057 on 2026-11-22 -->
 
 # LEAD-057: On one dynamical model, compare a fixed preexisting partition, one recovered from measured dynamics, and one produced by coupling to an apparatus, and ask whether they make different counterfactual predictions
 
@@ -46,6 +46,6 @@ empirical.
 
 ## Note of 2026-11-22: carried out on one model
 
-Done by a delegated lead worker. The model: a four-unit linear Gaussian VAR(1) with intrinsic pairs and an apparatus that pairs the units the other way, chosen as the smallest system with two disjoint pairings and a coupling an apparatus can turn up or down. Five interventions, a gain sweep and a variant with probe states, filed as [CASE-tmp06fbt](../cases.d/CASE-tmp06fbt.md); script, tests and results under scratch/studies/lead-057/. The reading, a dilemma for the apparatus-dependent account, is [CLAIM-tmpy1gmq](../claims.d/CLAIM-tmpy1gmq.md). Every answer is said to be about dependence on an arrangement, the third relation of [QUESTION-284](../questions.d/QUESTION-284.md)'s note of 2026-11-07.
+Done by a delegated lead worker. The model: a four-unit linear Gaussian VAR(1) with intrinsic pairs and an apparatus that pairs the units the other way, chosen as the smallest system with two disjoint pairings and a coupling an apparatus can turn up or down. Five interventions, a gain sweep and a variant with probe states, filed as [CASE-321](../cases.d/CASE-321.md); script, tests and results under scratch/studies/lead-057/. The reading, a dilemma for the apparatus-dependent account, is [CLAIM-887](../claims.d/CLAIM-887.md). Every answer is said to be about dependence on an arrangement, the third relation of [QUESTION-284](../questions.d/QUESTION-284.md)'s note of 2026-11-07.
 
 What remains: the other two relations (relations helping fix their relata, synchronic part–whole constitution) are not touched; only one licence a partition gives, block-local prediction, is tested; and the model is linear with stipulated parameters. Whether the lead is done is the owner's call.

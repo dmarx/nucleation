@@ -28,7 +28,7 @@ summary: >-
   Filed by the backlog audit of 2026-11-19.
 ---
 
-<!-- inactive-ok-file: THEORY-1658 CASE-tmpmkc5v — Proposed or new; the account, the comparison case and the reading of LIT-2462, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-1658 CASE-356 — Proposed or new; the account, the comparison case and the reading of LIT-2462, cited in the note of 2026-11-22 -->
 
 # LEAD-051: Read Peng and colleagues on maternal microchimerism and specify the comparison of own-maternal-cell tolerance against donor-supplied tolerogenic cells
 
@@ -59,9 +59,9 @@ Tolerance that needs the offspring's own maternal cells supports
 
 Done on branch claude/lead-051-peng-microchimerism. Peng et al. ([LIT-2462](../literature.d/LIT-2462.md))
 was read in full from the NIH Public Access author manuscript via the NCBI
-E-utilities efetch interface ([NOTE-tmpeyhkz](../notes.d/NOTE-tmpeyhkz.md); the Europe PMC REST fullTextXML
+E-utilities efetch interface ([NOTE-2337](../notes.d/NOTE-2337.md); the Europe PMC REST fullTextXML
 was still HTTP 500 and the publisher PDF refused). [LIT-2462](../literature.d/LIT-2462.md) is set Active.
-The comparison is specified as [CASE-tmpmkc5v](../cases.d/CASE-tmpmkc5v.md) (proposed-study): own-maternal-
+The comparison is specified as [CASE-356](../cases.d/CASE-356.md) (proposed-study): own-maternal-
 cell NIMA tolerance against donor-supplied matched tolerogenic cells, with
 the paper's interventions and what each outcome would count for. Dated notes
 were added to [THEORY-1658](../theory.d/THEORY-1658.md) (promote_when met), [CLAIM-530](../claims.d/CLAIM-530.md), [CLAIM-659](../claims.d/CLAIM-659.md) and
@@ -70,6 +70,6 @@ were added to [THEORY-1658](../theory.d/THEORY-1658.md) (promote_when met), [CLA
 What remains, for the owner: (1) whether to promote [THEORY-1658](../theory.d/THEORY-1658.md) and/or add
 [LIT-2462](../literature.d/LIT-2462.md) as its source; (2) a tension between this lead's one-line "What would
 count" and the owner-accepted [QUESTION-086](../questions.d/QUESTION-086.md) note of 2026-11-12 -- they label
-opposite outcomes as "supporting" [CLAIM-530](../claims.d/CLAIM-530.md)'s parthood clause; [CASE-tmpmkc5v](../cases.d/CASE-tmpmkc5v.md)
+opposite outcomes as "supporting" [CLAIM-530](../claims.d/CLAIM-530.md)'s parthood clause; [CASE-356](../cases.d/CASE-356.md)
 follows the note and [CLAIM-530](../claims.d/CLAIM-530.md)'s own content, and flags the tension for the
 owner to resolve. The lead's status and stage are left unchanged.

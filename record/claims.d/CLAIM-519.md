@@ -65,7 +65,7 @@ summary: >-
   lookup-table argument ([THEORY-092](../theory.d/THEORY-092.md)) applied to agency, so it is
   elementary; the thesis is the reading of it.
 ---
-<!-- inactive-ok-file: CASE-tmp6hkf9 CLAIM-tmpo59pd — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-384 CLAIM-990 — new or Proposed; the LEAD-160 study and claims cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-092 — Proposed or Open; Block's argument and the question of endogenous revision, cited as open -->
 
 # CLAIM-519: Competent behaviour does not establish an internal world model: over a fixed interface and a finite horizon, an agent with no model, whose actions are looked up from the history so far, reproduces the interaction distribution of an agent that has one exactly; a policy can identify predictive structure without any particular internal component realizing it, so compression and generalization support comparing candidate architectures, and establishing an internal mechanism needs evidence that discriminates candidate implementations, such as targeted interventions
@@ -155,7 +155,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: an intervention that separates identical behaviour, and its scope
 
-[CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md) ran [CASE-187](../cases.d/CASE-187.md) at toy scale.
+[CASE-384](../cases.d/CASE-384.md) ran [CASE-187](../cases.d/CASE-187.md) at toy scale.
 - **Identical behaviour.** A planner on a learned transition table and a
   goal-conditioned value learner chose the same action in every (state,
   goal) pair. That is this claim's lookup-table construction, met in
@@ -167,7 +167,7 @@ No status, title or warrant changes.
   block was propagated through all of a distributed predictor's demons,
   with no table. It repaired every route, as the planner's edit did.
 
-[CLAIM-tmpo59pd](CLAIM-tmpo59pd.md) files the qualification: an intervention discriminates
+[CLAIM-990](CLAIM-990.md) files the qualification: an intervention discriminates
 relative to its declared scope. This defeated_if already counts the
 intervention repertoire among what must be matched. The defeated_if is
 not met.

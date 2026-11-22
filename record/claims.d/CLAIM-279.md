@@ -45,7 +45,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: Ito and Kaneko's core, removed, is refilled
-    from the periphery (CASE-tmpvn7wm). The claim is unchanged.
+    from the periphery (CASE-313). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -80,7 +80,7 @@ summary: >-
 bears_on:
 - QUESTION-083
 ---
-<!-- inactive-ok-file: CASE-tmpvn7wm — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-313 — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-142 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -227,7 +227,7 @@ it.
 
 [NOTE-1414](../notes.d/NOTE-1414.md) offered Ito and Kaneko's core and periphery as a small case for
 this claim. It added that "the regime does not dissolve once formed,
-which the claim's word 'regime' may not intend." [CASE-tmpvn7wm](../cases.d/CASE-tmpvn7wm.md) tested
+which the claim's word 'regime' may not intend." [CASE-313](../cases.d/CASE-313.md) tested
 this by removing the core. Former periphery units fall into the core role
 and re-form it at its size and structure, so the role is a regime units
 fall into, not a kind of unit. This is one model at one parameter point,

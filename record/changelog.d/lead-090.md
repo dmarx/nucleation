@@ -1,14 +1,14 @@
 ### Added
 
-- [CASE-tmpz4n6b](record/cases.d/CASE-tmpz4n6b.md) (Proposed, executed-study), the build [LEAD-090](record/leads.d/LEAD-090.md) asks for:
+- [CASE-363](record/cases.d/CASE-363.md) (Proposed, executed-study), the build [LEAD-090](record/leads.d/LEAD-090.md) asks for:
   [CASE-092](record/cases.d/CASE-092.md)'s model as an agent-level simulation, reduced to its mean field,
   linearized at symmetry and compared with fixed-weight, reflected-appraisal
   and bounded-confidence models. Code, tests and results are under
   scratch/studies/lead-090/.
-- [CLAIM-tmp6f8w8](record/claims.d/CLAIM-tmp6f8w8.md) (Proposed, demonstrated). In the built model the symmetric
+- [CLAIM-947](record/claims.d/CLAIM-947.md) (Proposed, demonstrated). In the built model the symmetric
   state is unstable exactly when gσ² > 2(1 − φ(1 − ε)); the conferral memory
   and the meaning rate set the speed of capture, not whether or where.
-- [CLAIM-tmpw3bak](record/claims.d/CLAIM-tmpw3bak.md) (Proposed, demonstrated). The reduced model is exactly
+- [CLAIM-948](record/claims.d/CLAIM-948.md) (Proposed, demonstrated). The reduced model is exactly
   weighted averaging with two stubborn sources and weights adapting toward
   an agreement kernel (smooth bounded confidence on a balanced corpus), and
   it produces authority chosen by the initial interpretation and switched by

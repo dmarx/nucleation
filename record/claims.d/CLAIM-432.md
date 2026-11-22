@@ -103,7 +103,7 @@ summary: >-
   psychopathic across the construct, not in part. Wells Fargo's sales
   practices ([CASE-151](../cases.d/CASE-151.md)) are its documented case.
 ---
-<!-- inactive-ok-file: THEORY-tmpyc2wm — Proposed; the reading of Mulgan, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2216 — Proposed; the reading of Mulgan, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-271 CLAIM-355 THEORY-055 THEORY-125 THEORY-131 THEORY-139 THEORY-892 — Proposed; the readings and claims this claim rests on or is grounded in, cited as open; the claim is Proposed with them -->
 <!-- inactive-ok-file: LIT-1426 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 <!-- inactive-ok-file: CLAIM-442 — Proposed; a reading of remorse that disagrees with this claim's, and the objection whose condition CLAIM-440 took in, cited in the note of 2026-11-11 -->
@@ -288,8 +288,8 @@ claim does not say.
 
 ## Note of 2026-11-22: Mulgan, read
 
-A **third position** beside this claim ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md);
-[THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md)). Mulgan assigns psychopathy to a corporate group
+A **third position** beside this claim ([LIT-1874](../literature.d/LIT-1874.md), [NOTE-2306](../notes.d/NOTE-2306.md);
+[THEORY-2216](../theory.d/THEORY-2216.md)). Mulgan assigns psychopathy to a corporate group
 structurally, as the absence of any mechanism for moral reasons (p. 910),
 not functionally through affect, and draws the opposite consequence: such a
 group is not a moral agent and "has no moral standing at all", where this

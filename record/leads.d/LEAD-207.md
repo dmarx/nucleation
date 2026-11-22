@@ -51,11 +51,11 @@ summary: >-
   Laws", A37–A43), merged by the assistant (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpm3ux2 CLAIM-828 CLAIM-812 — Proposed; the reading of Lee et al. filed 2026-11-22, and the claims its note cites -->
+<!-- inactive-ok-file: THEORY-2191 CLAIM-828 CLAIM-812 — Proposed; the reading of Lee et al. filed 2026-11-22, and the claims its note cites -->
 
 <!-- inactive-ok-file: CLAIM-807 — Proposed or new, filed with this lead, or a Deferred work registered from the exchange and not yet read -->
 <!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
-<!-- inactive-ok-file: THEORY-tmpr9w2r — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
+<!-- inactive-ok-file: THEORY-2160 — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
 # LEAD-207: In a small network trained on a synthetic hierarchy whose signal strengths and dependencies are known, date for each distinction the onset of decodability, the sign change of its stability eigenvalue, its gain in held-out fit and any change in the local learning coefficient, with its variance and task sensitivity along the way; then move the onsets by changing parent strength, regularization and the timing of fine examples
 
@@ -124,7 +124,7 @@ two parameters per feature. Hence stage `idea`.
 ## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
 
 The paper does part of what this lead dates, without the variation the
-lead asks for ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)). It dates stages by
+lead asks for ([NOTE-2248](../notes.d/NOTE-2248.md), [THEORY-2160](../theory.d/THEORY-2160.md)). It dates stages by
 plateaus of the estimated coefficient and checks them against
 independently measured behavioural and structural markers, in two small
 transformers; but it holds nβ (21.7 and 66.7, not Lau et al.'s n/log n) and
@@ -135,12 +135,12 @@ resolution against a change of stratum, is not made there ([CLAIM-812](../claims
 of its findings are worth building in: stage boundaries are "sensitive to"
 checkpoint spacing, smoothing, t against log t and tolerance (B.1), so the
 dating protocol should fix these in advance; and three stages lower the
-estimate ([QUESTION-tmphkb1w](../questions.d/QUESTION-tmphkb1w.md)), so the lead should expect decreases as well
+estimate ([QUESTION-518](../questions.d/QUESTION-518.md)), so the lead should expect decreases as well
 as rises.
 
 ## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
 
-A near instance and a method to borrow. Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)) run
+A near instance and a method to borrow. Lee et al. ([THEORY-2191](../theory.d/THEORY-2191.md)) run
 part of this lead in Saxe's hierarchical deep linear network: they date,
 for each level, the peak and sign change of one item's influence on
 another, with three measures that agree. Their hierarchy's order is by

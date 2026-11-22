@@ -34,7 +34,7 @@ summary: >-
   assistant in the exchange "Rich Get Richer Power Laws", A7 and A8);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-tmpcyeab THEORY-tmpcij35 THEORY-tmphbp5a — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: LIT-3035 THEORY-2170 THEORY-2171 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: CASE-303 CLAIM-840 CLAIM-829 — Proposed or new; the case and claims filed with this one from the same exchange -->
 
 # CLAIM-832: When event sizes fall as s^(−τ) with τ < 2, small events make up most of the count and rare large events most of the total, so the typical event misrepresents the aggregate; near a critical cascade most cascades stay tiny while the mean size diverges
@@ -98,16 +98,16 @@ largest accessible scales" is this.
 
 ## Note of 2026-11-22: Dandi and colleagues, read
 
-Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)):
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-2258](../notes.d/NOTE-2258.md), [THEORY-2170](../theory.d/THEORY-2170.md)):
 **background.** After one large step the feature covariance's bulk grows
 "longer tails", which the authors tie to "previous empirical observations
 ... that heavier tails can emerge after feature learning", citing Martin
-and Mahoney and Wang, Engel and colleagues ([LIT-tmpcyeab](../literature.d/LIT-tmpcyeab.md), registered),
+and Mahoney and Wang, Engel and colleagues ([LIT-3035](../literature.d/LIT-3035.md), registered),
 shown "in this particular instance" only. No relation.
 
 ## Note of 2026-11-22: Park and colleagues, read
 
-Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)):
+Park and colleagues ([LIT-2990](../literature.d/LIT-2990.md), [NOTE-2260](../notes.d/NOTE-2260.md), [THEORY-2171](../theory.d/THEORY-2171.md)):
 **background.** Their route to heavy-tailed weight spectra under SGD,
 Σ = H⁻¹FH⁻¹ with a power-law Hessian density near zero, is by their account
 "purely schematic" and "highly heuristic". No relation.
