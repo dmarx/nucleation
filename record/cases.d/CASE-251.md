@@ -27,6 +27,7 @@ summary: >-
   episodes; the study is stipulated and not run. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpssuha CLAIM-tmpj6pb6 — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2293 — Superseded by LIT-1399; cited as the duplicate the episode's correction found -->
 <!-- inactive-ok-file: LIT-1399 — Proposed, Unavailable; cited for what each holds, not as settled -->
 
@@ -83,3 +84,18 @@ corrections' own recall is measured first. Scored that way, it would
 answer part of [QUESTION-108](../questions.d/QUESTION-108.md): whether the structured record makes the
 operation of finding what is already held cheaper or more reliable than
 search over the same text.
+
+## Note of 2026-11-22: a pilot of this design
+
+CASE-tmpssuha ran a four-filing pilot for LEAD-014, on single arXiv
+readings, because no exchange text is held in the repository. Replays
+from the source and the record at the parent commit recovered 95 of 138
+items the filings held and none of the 6 items their corrections added;
+five of those needed works other than the source. The pilot bears on this
+design in two ways. The ground truth is a lower bound, as said above: the
+replays found items in neither, including an error NOTE-645 still repeats.
+And the corrections of single-work readings are of accuracy, not omission
+(CLAIM-tmpj6pb6), so the omission measure should be run on the exchange
+episodes listed above, whose sources would have to be saved first. The
+pilot's replays and scoring were by one assistant instance of the same
+model family as the filers. The case is otherwise unchanged.

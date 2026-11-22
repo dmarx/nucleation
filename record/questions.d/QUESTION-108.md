@@ -35,6 +35,7 @@ summary: >-
   findings, and a comparison that does not separate them cannot say which one [CLAIM-295](../claims.d/CLAIM-295.md)
   rests on.
 ---
+<!-- inactive-ok-file: CASE-tmpssuha CLAIM-tmpj6pb6 — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 CLAIM-190 CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: SYNTHESIS-015 — Deferred, Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
 <!-- inactive-ok-file: CASE-251 — filed from the exchange "luria experiment design", Proposed or Deferred; cited in the note of 2026-11-12 -->
@@ -124,3 +125,16 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Xu et al.** ([THEORY-1771](../theory.d/THEORY-1771.md)): **Qualifies.** A-MEM's ablation is a rare published separation inside one system: adding LLM-made links (without evolution) improves multi-hop QA over the same notes without links, which bears on the "easier to reach" mechanism (links bring related notes into the retrieved context) rather than "retains more" (the same notes are stored in both arms). It does not test the "operations" mechanism, and its evolution step trades retention for currency: it may lose information when it rewrites. So it is evidence that structure helps by reach on QA tasks, and no evidence on revision tasks, which are what QUESTION-108 is about.
 
 The question is unchanged.
+
+## Note of 2026-11-22: a pilot of the curation-completeness study
+
+CASE-tmpssuha piloted CASE-251 on four corrected single-work readings.
+A replay given the source and the record as it stood recovered about
+two-thirds of each filing (0.61 to 0.75) and none of the six items later
+corrections added; five of those came from reading works the source cites
+or that answer it. On the third mechanism, the operations a reviser needs:
+the operation those corrections needed was reading the cited work, and
+nothing in the record prompted it at filing time (CLAIM-tmpj6pb6). It does
+not yet measure curation's losses, since the omission episodes CASE-251
+names are exchanges whose texts are not held. Not independent: one model
+family filed, replayed and scored. The question is unchanged.
