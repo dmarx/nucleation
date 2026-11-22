@@ -1,0 +1,11 @@
+<!-- scratch/studies/lead-029/README.md: the materials of LEAD-029's study -->
+# LEAD-029: a joint prediction of the meaning-influence model, and A55 §7's comparison
+
+Run on 2026-11-22 for LEAD-029. Simulated data only; nothing downloaded.
+
+- `jointpred.py`: the generator (an instance of CLAIM-297's three equations with K = 3 operators, C = 4 contexts and two interpretations), the four fitted models (`joint`, `cut`, `cutflex`, `additive`; see the module docstring), the fitting routine (least squares, L-BFGS-B, six random starts each fitted on growing prefixes of the episodes, 6, 12 and 24 steps), the training designs D1 and D2, the test episodes, and the two-operator linearization that gives the derived threshold.
+- `test_jointpred.py`: nine tests (`python3 -m pytest -q test_jointpred.py`): the meaning step is a mixture of stochastic matrices; `cut` is `joint` at η = 0; the threshold η·Δa²/2 > κ agrees with the leading eigenvalue on 20,000 draws and with det(I − J) = ρ(κ − η·Δa²/2); the linearization matches finite differences of the map; a small perturbation grows in simulation exactly when the threshold says; the additive model recovers its own data; the test episodes pair treated and untreated runs; D2's held-out (operator, context) pairs never occur in training.
+- `run_study.py [n_seeds] [out.json]`: four generators × two designs × six seeds, each model fitted under a blind and an informed protocol. Rerun: `OMP_NUM_THREADS=1 python3 -I run_study.py 6 results.json` (about 75 minutes on four cores).
+- `results.json`: settings, the summary by condition, and every run. `run.log`: the run's progress lines.
+
+Settings: ρ = 0.3, κ = 0.1, Δ = 1.5, observation noise σ = 0.03, 240 training episodes of 24 steps. Context 0 is one in which the three operators agree (a = 0.5); in contexts 1 to 3 their readings are drawn from U(0.1, 0.9) and spread by at least 0.4. Test episodes: context c for 12 steps, one boost or suppression of one operator at step 4, then context c' ≠ c; every (operator, sign, c, c') with its untreated twin, 72 pairs. The main score is the RMS error, over steps 12 to 23, of the predicted effect of the intervention (treated minus untreated, against the noiseless truth).

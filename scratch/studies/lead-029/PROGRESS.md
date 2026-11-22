@@ -1,0 +1,12 @@
+# LEAD-029 progress
+
+Branch: claude/lead-029-joint-prediction (cut from staging).
+
+## Done
+- Model, rivals, derivation and tests: `jointpred.py`, `test_jointpred.py` (9 pass).
+- Runner `run_study.py`, resumable: appends each run to `runs.jsonl`, skips runs already there, then writes `results.json`.
+- Stub entries created by `luria new` locally, not yet committed (a replacement re-creates them with `luria new case` / `luria new claim`): record/cases.d/CASE-tmp66fkd.md (the executed study), record/claims.d/CLAIM-tmpc4gyx.md (the finding).
+
+## Running / next
+- Study: 4 generators x 2 designs x 6 seeds = 48 runs. To resume: `cd scratch/studies/lead-029 && OMP_NUM_THREADS=1 python3 -I run_study.py 6 results.json > run.log 2>&1`.
+- Then: write the CASE and CLAIM from results.json; dated notes of 2026-11-22 on LEAD-029, CLAIM-336, CLAIM-286, QUESTION-088, ARG-065; changelog fragment record/changelog.d/lead-029.md; frontmatter checks; commit, push.
