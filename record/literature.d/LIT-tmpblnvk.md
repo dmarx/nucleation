@@ -1,10 +1,17 @@
 ---
-status: Deferred
-status_note: filed 2026-11-22, not read. Registered by LEAD-112's search for cases where access and experience
-  come apart (scratch/studies/lead-112/search.md). Europe PMC lists a free PDF from the publisher at https://academic.oup.com/brain/article-pdf/140/5/1231/18223376/aww358.pdf;
-  not yet fetched.
+status: Unfetched
+status_note: >-
+  searched 2026-11-22 for LEAD-112. A lawful copy was located and not
+  read: Europe PMC lists a free PDF from the publisher at
+  https://academic.oup.com/brain/article-pdf/140/5/1231/18223376/aww358.pdf,
+  which returned HTTP 403 with a Cloudflare "Just a moment..." challenge on
+  2026-11-22. Stopped there, not retried. Europe PMC gives no PMC copy.
+  de Haan et al. 2020 (LIT-tmpsc6mi), a review with Pinto among its
+  authors, was read as a stand-in (ADR-114); it restates this work's
+  results, not its methods or data. A copy from the owner, or the host's
+  allowing this client, would return it to reading.
 title: 'Split brain: divided perception but undivided consciousness'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -12,6 +19,14 @@ history:
     and the date and copies on the Europe PMC REST API, no email address sent. Not held: no hit for the
     DOI or the title in record/literature.d. The summary follows the Europe PMC abstract where it describes
     the work.'
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Deferred to Unfetched (ADR-053): the publisher's free PDF sat behind a
+    Cloudflare challenge. The stand-in LIT-tmpsc6mi was read in
+    NOTE-tmpbwyy5. The summary's account of the design, written at
+    registration without the abstract, is replaced by what the stand-in
+    restates.
 tags:
 - consciousness
 - neuroscience
@@ -22,14 +37,18 @@ doi: 10.1093/brain/aww358
 first_author: Pinto
 keywords: []
 implementations: []
-summary: 'Pinto, Neville, Otten, Corballis, Lamme, de Haan, Foschi & Fabri (2017), Brain 140(5): 1231-1237.
-  Two callosotomy patients tested on whether stimuli in either visual field can be reported with either
-  hand and verbally. A deficit case of the kind QUESTION-048 asks for, and the nearest the search found
-  to QUESTION-061''s one content available to one consumer and absent from another; it bears on CLAIM-003,
-  whose owner''s point is that the workspace has compartments. Found by LEAD-112''s search (E5). The title''s
-  claim, perception divided and consciousness undivided, is unverified until read.'
+summary: >-
+  Pinto, Neville, Otten, Corballis, Lamme, de Haan, Foschi & Fabri (2017),
+  Brain 140(5): 1231-1237. By the stand-in's account (de Haan et al. 2020,
+  LIT-tmpsc6mi, NOTE-tmpbwyy5), a split-brain patient matched pictures to
+  sample better for left-field stimuli and to verbal labels better for
+  right-field ones, whatever the response type, and reported presence and
+  location anywhere in the field with either hand and verbally. It bears
+  on QUESTION-061 and CLAIM-003 as a content available to some operations
+  and not others within one agent, and on QUESTION-048's deficit kind.
+  Unfetched; unverified first-hand.
 ---
-<!-- inactive-ok-file: CLAIM-003 — Proposed; the entries this registration bears on, cited from LEAD-112; new registrations of the same search are Deferred -->
+<!-- inactive-ok-file: CLAIM-003 — Proposed; the claim this work bears on -->
 
 # LIT-tmpblnvk: Split brain: divided perception but undivided consciousness
 
@@ -37,4 +56,11 @@ Pinto, Neville, Otten, Corballis, Lamme, de Haan, Foschi & Fabri (2017), Brain 1
 
 ## Standing in the record
 
-Registered on 2026-11-22 by LEAD-112's search. Two callosotomy patients tested on whether stimuli in either visual field can be reported with either hand and verbally. A deficit case of the kind QUESTION-048 asks for, and the nearest the search found to QUESTION-061's one content available to one consumer and absent from another; it bears on CLAIM-003, whose owner's point is that the workspace has compartments. Found by LEAD-112's search (E5). The title's claim, perception divided and consciousness undivided, is unverified until read. Not read.
+Registered on 2026-11-22 by LEAD-112's search (E5). The free publisher PDF
+was behind a Cloudflare challenge, so it is Unfetched. de Haan et al. 2020
+(LIT-tmpsc6mi) stands in for its results as that review restates them,
+including the finding that identity follows the visual field while response
+type plays no role; it does not stand in for the design, the sample or the
+statistics. The title's claim, perception divided and consciousness
+undivided, is the authors'; the stand-in's consensus is that the evidence
+does not yet settle the second half.
