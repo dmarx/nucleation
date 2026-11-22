@@ -16,11 +16,13 @@
 - Read LEAD-067, QUESTION-130, CLAIM-148, CLAIM-495, record.md fields.
 - transport.py, test_transport.py (18 pass), run_study.py, results.json, README.md.
 - CLAIM-tmpmov06 filed (null, gluing criterion, planar realization, underdetermination).
+- CASE-tmpg9x2o filed (executed-study, documented, Proposed).
+- Dated notes on QUESTION-130 (version 5, history entry, as its earlier notes did) and LEAD-067.
+- Changelog fragment record/changelog.d/lead-067.md.
 
 ## Next
 
-- File CASE (executed-study, documented) for the study
-- Dated notes on QUESTION-130 and LEAD-067; changelog fragment record/changelog.d/lead-067.md
+- Report to the lead (no PR opened, per the run-lead skill).
 
 ## Choices
 
