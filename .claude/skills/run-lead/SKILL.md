@@ -157,6 +157,11 @@ From here on, a stop at any moment must lose at most the step in hand.
     that is Unavailable or Unfetched, needs its own line:
     `<!-- inactive-ok-file: CODE until <date a few months on> — reason -->`.
   - An unused excuse fails lint.
+  - Write no code in an excuse's reason other than the codes it excuses:
+    not the lead's own code, and not the code of the file it sits in. A
+    code in the reason is read as excused, and the repair step's prune
+    then fails (PruneChangedFindings, as for LEAD-145 and LEAD-106). Say
+    "filed by the lead's run of <date>" instead.
 - **Changelog.** Add a fragment
   `record/changelog.d/<lead-code-lowercase>.md` with "### Added" and
   "### Changed" bullets.
