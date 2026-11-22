@@ -63,9 +63,14 @@
   the arXiv API), squared loss, gradient
   flow on unconstrained features. Register that.
 
+- Long run: settles, omega 198-386 from t ~ 1.3e4 to 5e4, max/min 1.6-1.9.
+- Filed: CASE-tmpjn6f4, CLAIM-tmpcpr7t, LIT-tmpxyq0h; dated notes on
+  LEAD-035, QUESTION-181, THEORY-797, QUESTION-051; changelog
+  record/changelog.d/lead-035.md. Link targets in added text turned into
+  bare codes (CLAUDE.md: never hand-write a link target).
+
 ## Next
 
-- Registered Mixon, Parshall and Pi as LIT-tmpxyq0h (Deferred).
-- Long run result; README timing.
-- File CASE-tmpjn6f4, CLAIM-tmpcpr7t (created, templates), dated notes on
-  QUESTION-051, QUESTION-181, THEORY-797, LEAD-035; changelog.
+- Nothing on the branch. The coordinator opens the pull request; CI
+  repairs links and lints. Owner's calls: THEORY-797's status, adopting
+  CLAIM-tmpcpr7t, LEAD-035's status.

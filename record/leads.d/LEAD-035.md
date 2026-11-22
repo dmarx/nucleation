@@ -49,17 +49,17 @@ with tests and per-item results).
 - **Measured.** ω_j of Σ_W^(−1/2)M̃ against (4t/N)^(1/4) in three
   unconstrained-features dynamics and two small numpy ReLU networks (one
   with batch normalization), MSE, weight decay 0 and 5×10⁻⁴, three seeds:
-  [CASE-tmpjn6f4](../cases.d/CASE-tmpjn6f4.md). The renormalized flow matches the law; nothing trained
+  CASE-tmpjn6f4. The renormalized flow matches the law; nothing trained
   without re-whitening does. So, at this scale, "disagreement confines it
   to the renormalized flow", as "What would count" puts it:
-  [CLAIM-tmpcpr7t](../claims.d/CLAIM-tmpcpr7t.md).
-- **Registered.** "The work [NOTE-772](../notes.d/NOTE-772.md) names" is read as Mixon, Parshall
+  CLAIM-tmpcpr7t.
+- **Registered.** "The work NOTE-772 names" is read as Mixon, Parshall
   and Pi (2020), the squared-error gradient-flow analysis of unconstrained
-  features without renormalization that the review reports: [LIT-tmpxyq0h](../literature.d/LIT-tmpxyq0h.md),
+  features without renormalization that the review reports: LIT-tmpxyq0h,
   Deferred, not read. The review names other works; this one was chosen
   because it bears on what the lead measures.
 - **Remains.** The same measurement in networks of the kind Han and
   colleagues trained (convolutional, image data, SGD with momentum),
-  which needs more compute than this lead had; reading [LIT-tmpxyq0h](../literature.d/LIT-tmpxyq0h.md); the
+  which needs more compute than this lead had; reading LIT-tmpxyq0h; the
   limiting direction of Corollary 2, not measured; and the cause of the
   late instability in the batch-normalized runs with weight decay.

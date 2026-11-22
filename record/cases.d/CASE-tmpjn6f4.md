@@ -23,10 +23,10 @@ bears_on:
 draws_on:
 - THEORY-278
 summary: >-
-  [LEAD-035](../leads.d/LEAD-035.md) asked for the singular values ω_j of Σ_W^(−1/2)M̃ in trained
+  LEAD-035 asked for the singular values ω_j of Σ_W^(−1/2)M̃ in trained
   models, set against the (4t/N)^(1/4) law that Han, Papyan and Donoho
   derive for unconstrained features under a flow re-whitened after every
-  step ([THEORY-278](../theory.d/THEORY-278.md)). In numpy, four classes, 50 per class, full-batch
+  step (THEORY-278). In numpy, four classes, 50 per class, full-batch
   gradient descent on MSE, three seeds: the renormalized flow, run as a
   control, matches the exact solution to 4×10⁻⁵ (late log-log slope
   0.256). Every model trained without re-whitening departs from the law.
@@ -40,7 +40,7 @@ summary: >-
   at finite values (about 200–390, max/min 1.6–1.9); the
   batch-normalized one's rise to
   about 10⁴ and then fall tenfold in a late loss spike. Toy data and small
-  models, so it bears on [QUESTION-181](../questions.d/QUESTION-181.md) by kind, not at the scale Han and
+  models, so it bears on QUESTION-181 by kind, not at the scale Han and
   colleagues measured.
 ---
 <!-- inactive-ok-file: THEORY-797 CLAIM-tmpcpr7t LIT-tmpxyq0h — Proposed, Deferred or new; the proposal this study tests, the claim filed from it, and the work registered beside it -->
@@ -49,14 +49,14 @@ summary: >-
 
 ## What was asked
 
-[LEAD-035](../leads.d/LEAD-035.md), from [NOTE-783](../notes.d/NOTE-783.md)'s open question: "A measurement of the SNR
+LEAD-035, from NOTE-783's open question: "A measurement of the SNR
 singular values in a trained network, against (4t/N)^(1/4), would settle
 whether the closed form describes training." The closed form is
-[THEORY-278](../theory.d/THEORY-278.md)'s derived half (Lemma 5, Proposition 2, Corollary 1 of [LIT-974](../literature.d/LIT-974.md)):
+THEORY-278's derived half (Lemma 5, Proposition 2, Corollary 1 of LIT-974):
 on the central path, with no weight decay and features re-whitened to
 Σ_W = I after every step (assumption A3), dω_j/dt = (1/N) ω_j/(C + ω_j²)²,
-so ω_j ~ (4t/N)^(1/4) and max/min ω → 1. [THEORY-797](../theory.d/THEORY-797.md) proposes that
-trained networks follow these dynamics; [QUESTION-181](../questions.d/QUESTION-181.md) asks whether they do.
+so ω_j ~ (4t/N)^(1/4) and max/min ω → 1. THEORY-797 proposes that
+trained networks follow these dynamics; QUESTION-181 asks whether they do.
 
 ## What was done
 
@@ -126,15 +126,15 @@ from the central path; it is the missing renormalization.
 
 In every un-renormalized setting tried, the ω_j are not (4t/N)^(1/4).
 Without weight decay they grow far faster and spread apart, which is
-[QUESTION-181](../questions.d/QUESTION-181.md)'s and [THEORY-797](../theory.d/THEORY-797.md)'s "no": "near the central path, the ω_j
+QUESTION-181's and THEORY-797's "no": "near the central path, the ω_j
 spread apart or stall while L⊥_LS stays negligible". With weight decay,
 the setting of Han and colleagues' experiments, ω does not follow the
 law: in the plain network it settles at finite, unequal values, as a loss
 with a finite minimum would have it, and in the batch-normalized one it
 falls back in a late instability.
 
-The finding is filed as [CLAIM-tmpcpr7t](../claims.d/CLAIM-tmpcpr7t.md). Mixon, Parshall and Pi
-([LIT-tmpxyq0h](../literature.d/LIT-tmpxyq0h.md)), registered by the same lead and not read, analyse
+The finding is filed as CLAIM-tmpcpr7t. Mixon, Parshall and Pi
+(LIT-tmpxyq0h), registered by the same lead and not read, analyse
 unrenormalized squared-error gradient flow on unconstrained features near
 zero initialization; reading it would say whether the exponential growth
 seen here is known there. The closed form describes the renormalized

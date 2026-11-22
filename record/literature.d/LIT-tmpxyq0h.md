@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'filed 2026-11-22, not read. Registered by [LEAD-035](../leads.d/LEAD-035.md) as the work [NOTE-772](../notes.d/NOTE-772.md) names on squared-error gradient flow over unconstrained features without renormalization. The arXiv copy (arxiv.org/abs/2011.11619) is lawful and was not fetched beyond its metadata.'
+status_note: 'filed 2026-11-22, not read. Registered by LEAD-035 as the work NOTE-772 names on squared-error gradient flow over unconstrained features without renormalization. The arXiv copy (arxiv.org/abs/2011.11619) is lawful and was not fetched beyond its metadata.'
 title: 'Neural collapse with unconstrained features'
 version: 1
 history:
@@ -35,11 +35,11 @@ summary: >-
   unconstrained features model, in which the last-layer features are free
   variables, and reports that neural collapse emerges in it empirically,
   with an explanation in terms of the landscape of the empirical risk. As
-  [NOTE-772](../notes.d/NOTE-772.md) reports it, the analysis is for squared error, linearized near
+  NOTE-772 reports it, the analysis is for squared error, linearized near
   zero initialization. It is the record's nearest held account of ordinary,
   unrenormalized gradient flow on unconstrained features, which
-  [LEAD-035](../leads.d/LEAD-035.md) set against Han, Papyan and Donoho's renormalized flow
-  ([LIT-974](LIT-974.md)). Unverified until read.
+  LEAD-035 set against Han, Papyan and Donoho's renormalized flow
+  (LIT-974). Unverified until read.
 ---
 <!-- inactive-ok-file: NOTE-772 — Skimmed; the review that reports this work second-hand -->
 
@@ -49,13 +49,13 @@ Dustin G. Mixon, Hans Parshall and Jianzong Pi (2020), arXiv:2011.11619.
 
 ## Standing in the record
 
-Registered on 2026-11-22 by [LEAD-035](../leads.d/LEAD-035.md), whose lead file asks it to "register
-the work [NOTE-772](../notes.d/NOTE-772.md) names". [NOTE-772](../notes.d/NOTE-772.md) names many works. This is the one that
-bears on what [LEAD-035](../leads.d/LEAD-035.md) measures: whether gradient descent without the
-continual renormalization of Han, Papyan and Donoho ([LIT-974](LIT-974.md)) follows
+Registered on 2026-11-22 by LEAD-035, whose lead file asks it to "register
+the work NOTE-772 names". NOTE-772 names many works. This is the one that
+bears on what LEAD-035 measures: whether gradient descent without the
+continual renormalization of Han, Papyan and Donoho (LIT-974) follows
 their dynamics. The abstract proposes the unconstrained features model, in
 which neural collapse "emerges empirically", and explains it "in terms of
-the landscape of empirical risk". [NOTE-772](../notes.d/NOTE-772.md) reports, second-hand, that the
+the landscape of empirical risk". NOTE-772 reports, second-hand, that the
 analysis is for squared error and linearizes the flow near zero
 initialization. Not read; nothing here is checked against the paper.
 
@@ -65,4 +65,4 @@ initialization. Not read; nothing here is checked against the paper.
 
 - The unconstrained features model, in which collapse emerges empirically.
 - A landscape explanation of the emergence, for squared error, by a
-  linearization that needs small norms (as [NOTE-772](../notes.d/NOTE-772.md) reports it).
+  linearization that needs small norms (as NOTE-772 reports it).
