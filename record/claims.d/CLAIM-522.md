@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr8p2x
 title: 'Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-03'
@@ -33,6 +33,10 @@ history:
     outside controller is constant, and so is found out by interventions
     on state, marking where the claim's ideal case begins. No other
     change.
+- version: 6
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -185,3 +189,24 @@ service restores at a constant rate and does not supply the internal
 production law as state feedback. It is therefore [CASE-265](../cases.d/CASE-265.md)'s kind of
 controller, outside this claim's ideal case, and is no counterexample. The
 claim is unchanged.
+
+## Note of 2026-11-22: Bourrat's release test, read
+
+Read for LEAD-176: Bourrat 2022 (LIT-1927, NOTE-tmp1shj8) and the
+scaffolding group's 2024 paper (LIT-tmp6nn9d, NOTE-tmpculbo). Consistent
+with the claim; no edge.
+
+- Bourrat tells imposed from internally produced collective properties
+  by intervening on the imposing mechanism (lifting the ban on
+  between-patch migration) and seeing whether the properties survive,
+  not by perturbing the collectives' state. The intervention is relative
+  to a boundary declared in advance, the patch. That is the claim's
+  "interventions on the production mechanisms, relative to a declared
+  boundary".
+- The 2024 paper defines an operative cause by intervention, "assuming
+  there are no feedbacks involved" (Box 1), then proposes a scaffold the
+  cells construct, which is a feedback. Its own account of which cause
+  is operative does not reach the case where the outside supply is
+  itself produced from inside.
+
+No status change.

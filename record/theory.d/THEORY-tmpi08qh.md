@@ -22,6 +22,7 @@ summary: >-
   survey's report of Griesemer, not Griesemer; one of its page citations
   points to the wrong paper.
 ---
+<!-- inactive-ok-file: NOTE-tmp7ylue — Skimmed; the partial reading this account comes from -->
 <!-- inactive-ok-file: LIT-1932 LIT-1937 — Unavailable; Griesemer's papers this report stands in for -->
 
 # THEORY-tmpi08qh: Wilkins and Bourrat report Griesemer's reproducer as an entity that develops and overlaps materially with its progeny, reproduction being development plus progeneration, inheritance a system property acquired in development, and replication an evolved terminal form of reproduction, with no level of organization fixed in advance

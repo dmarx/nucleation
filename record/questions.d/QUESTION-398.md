@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdbsh1
 title: 'Under what conditions does a partial organization become independent of the intervention that originally established it?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-10'
@@ -28,6 +28,10 @@ history:
     of realizability; it no longer carries realizability, which no
     relation to a realizability-first entry supplies (ADR-085). No
     other change.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 tags:
 - complex-systems
 - natural-sciences
@@ -49,6 +53,7 @@ summary: >-
   establish persists". The wording is A's; adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: THEORY-tmpvjav8 THEORY-tmp54yyf — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed, Skimmed or new; entries cited as open -->
 
 # QUESTION-398: Under what conditions does a partial organization become independent of the intervention that originally established it?
@@ -161,3 +166,30 @@ Carrying out [LEAD-095](../leads.d/LEAD-095.md), the assistant computed D(s) exa
 - **An answer in such models** ([CLAIM-tmp5hyz1](../claims.d/CLAIM-tmp5hyz1.md)). D(s) is the expected integral, along the supported path, of the support's rate changes times the unsupported committor's differences across them. For a held nucleus that is its fragility times its worth. So the organization becomes independent of the support before completion only where what it has built holds the nucleus or no longer needs it.
 
 No status changes.
+
+## Note of 2026-11-22: endogenization of a scaffold, read
+
+Read for LEAD-176: Bourrat 2022 (LIT-1927, NOTE-tmp1shj8, THEORY-tmpvjav8)
+and the scaffolding group's 2024 paper (LIT-tmp6nn9d, NOTE-tmpculbo,
+THEORY-tmp54yyf), written as `bears_on` on both THEORYs. Evolutionary
+biology asks this question under the name endogenization.
+
+- **One model's answer** (Bourrat, §6.3): collectives of cells whose
+  low growth rate was imposed by a ban on between-patch migration keep
+  it after the ban is lifted when the propagule timescale T and patch
+  capacity S are small, because a low-growth cell does better in the
+  long run by staying for a propagule than by growing and
+  over-exploiting its patch, and the cost of mutating through
+  intermediate rates keeps it there. For large T or S they revert. The
+  author calls the analysis preliminary, and the release lifts one part
+  of the scaffold only.
+- **A stated condition** (2024 paper): endogenization needs two
+  equilibria in the unscaffolded environment, the scaffold removing the
+  one that favours independent cells, and the population near the
+  collective peak when the scaffold goes (Figure 2).
+- Compared with A's test here (the drop D(s) in the chance of completing
+  when support is withdrawn), Bourrat's reverted regime withdraws the
+  support once, at a fixed time (1500 generations), and reports the end
+  state, not D at matched intermediate states.
+
+No status change.

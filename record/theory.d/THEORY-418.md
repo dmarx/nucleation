@@ -15,7 +15,7 @@ promote_when: >-
   promised model of community reliability, or further definitions and
   illustrations, cannot settle it.
 title: "A collective becomes a new level of individuality, on this sketch, only when collaboration toward a shared goal, rather than coordination or cooperation, organizes it and some core interactions have become generatively entrenched and, as the paper asserts without deriving it from entrenchment, it has organizational closure; such a community can then be reproduced only by exporting an organized sample of its roles and interactions, not of its members alone"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-30'
@@ -38,6 +38,10 @@ history:
     "may contribute to". The charge that Stage 3 presupposes the group
     rests better on §3. CLAIM-531 argues that entrenchment does not
     give closure.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of the companion paper (LIT-1935) and the scaffolding and entrenchment sources. No other change.
 tags:
 - philosophy-of-biology
 - individuation
@@ -59,6 +63,7 @@ summary: >-
   inheritance at the new level evolves "in tandem", is hedged and in
   tension with §2.
 ---
+<!-- inactive-ok-file: LIT-1926 — Unavailable since 2026-11-22; the book whose neighbour was read, cited in the dated note -->
 <!-- inactive-ok-file: THEORY-583 — Proposed; a neighbouring account of goal-sharing wholes, named for contrast -->
 <!-- inactive-ok-file: THEORY-071 THEORY-232 — Proposed; named as accounts that start from an individual already given, not leaned on -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch this account states, filed as Proposed for the same reason -->
@@ -189,3 +194,25 @@ mealybug patchwork as a place to test it, and its reports are unread.
 ## Note of 2026-11-06: what holds it back
 
 [NOTE-173](../notes.d/NOTE-173.md)'s re-reading of 2026-11-01 corrected this entry's title (version 3) but found no data or operational criteria in the paper. The record still has no criteria that sort real groups into collection, conexus and community, and no worked case at the conexus–community step; the mealybug reports [CASE-171](../cases.d/CASE-171.md) and [QUESTION-277](../questions.d/QUESTION-277.md) name are unread.
+
+## Note of 2026-11-22: the companion paper and the scaffolding sources, read
+
+Read for LEAD-176. **Shavit and Sharon 2023** (LIT-1935, NOTE-tmpots55),
+the worked illustration LIT-188 cites, does not meet the promote_when: it
+assigns Epipalaeolithic bands, the Natufian and the PPNA-PPNB to the three
+stages by fit with a published archaeological synthesis, with no
+operational criteria and no measure of benefit per member or of knockout,
+and says it does not "examine to what degree and in what respects the
+Neolithic Revolution fits the ETI criteria". Its description of the PPNB,
+group traits that "can no longer" exist separately and a "point of no
+return", is the entrenchment this account names, asserted, not measured.
+
+**Bourrat 2022** (LIT-1927, NOTE-tmp1shj8) bears out LIT-188's report of
+it: Darwinian-like collectives with properties imposed by an ecological
+scaffold, Darwinian ones once the properties are endogenized, tested by
+removing the scaffold. **Generative entrenchment**, read in Wimsatt and
+Schank 2004 (LIT-tmpjv6ez, NOTE-tmpkxkqj) in place of the unavailable book
+(LIT-1926), is downstream reach in a causal graph and does not entail the
+organizational closure this account joins to it with "Hence" (CLAIM-531).
+
+Nothing here meets or refutes the account. No status change.

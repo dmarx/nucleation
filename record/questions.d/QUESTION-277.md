@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpzwgk0
 title: 'When formerly autonomous partners come to depend on one another, which of mutual dependence, reproductive cohesion, the distribution of essential functions across genomes, the host''s regulatory control and the alignment of selection does each route to dependence bring about, and which of them, alone or together, make the partnership a new evolutionary individual?'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-27'
@@ -35,6 +35,10 @@ history:
     NOTE-1211) and LIT-1225 on 2026-10-29 (NOTE-1369); both places
     now say so. Reported by the synthesis review of 2026-11-11
     (seventh round). No other change.
+- version: 7
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 tags:
 - individuation
 - philosophy-of-biology
@@ -57,6 +61,7 @@ summary: >-
   were filed unread; LIT-1568 and LIT-1570 are read since (NOTE-1212,
   NOTE-1211), and the others are Unfetched or Unavailable.
 ---
+<!-- inactive-ok-file: THEORY-tmp5zzgh — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: NOTE-1738 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-603 NOTE-1658 THEORY-1351 — new or Proposed; the assistant's claim on specialization and dependency and a reading it cites, cited as open -->
 <!-- inactive-ok-file: LIT-1573 — Proposed THEORYs and readings filed in the same contribution, or an Unfetched work; cited in the note of 2026-10-27 (batch 2) -->
@@ -375,3 +380,17 @@ transfer into the host genome with control of replication handed to host
 machinery, plus vertical transmission, giving full reproductive cohesion
 between wasp and virus; and a shared origin (100 million years, one
 ancestral virus) that QUESTION-277's "alignment of selection" item needs.
+
+## Note of 2026-11-22: a human case, read
+
+Read for LEAD-176: Shavit and Sharon 2023 (LIT-1935, NOTE-tmpots55,
+THEORY-tmp5zzgh), written as `bears_on`. A fraternal case, not a
+symbiotic one, but the question's routes appear in it: the authors hold
+that Neolithic farmers became members of a new evolutionary individual
+once group traits grew mutually dependent (mutual dependence) and group
+fitness decoupled from individual fitness (alignment of selection), with
+a division of labour (distribution of essential functions). They assert
+the routes together from an archaeological narrative and do not separate
+their effects. The scaffolding group's 2024 paper (LIT-tmp6nn9d,
+NOTE-tmpculbo) adds that in egalitarian transitions one partner can act
+as a biotic scaffold for the other. No status change.

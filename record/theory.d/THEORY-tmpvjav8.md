@@ -29,7 +29,6 @@ summary: >-
   ban, and leaves patches, their capacity and the periodic propagule
   generations in place. The author calls the result preliminary.
 ---
-<!-- inactive-ok-file: LIT-1940 — Unfetched; the model this paper extends -->
 
 # THEORY-tmpvjav8: Bourrat proposes that collective properties imposed by an external ecological scaffold are only Darwinian-like, that a transition in individuality is complete only when internal mechanisms come to produce them so that they survive removal of the scaffold, and shows in an agent-based model that a pleiotropy coupling slow growth to staying on the patch keeps scaffolded collectives together after between-patch migration is reopened, for short propagule timescales and small patches
 

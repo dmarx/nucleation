@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr242r
 title: 'Generative entrenchment does not by itself give organizational closure: an entrenched core, which later interactions depend on so that perturbing it is catastrophic and perturbing them tolerable, can sit at the root of an acyclic dependency order, and where interactions turn over such an order persists only while something outside supplies its core; an organization that is both entrenched and closed has a core containing a cycle of mutual maintenance, each interaction on which is itself core unless its share of the maintenance is redundant'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -16,6 +16,10 @@ history:
     (ADR-058). The rest of its footing, CLAIM-516, THEORY-1247 and
     TERM-070, is Active. No objection is on file, and nothing in the
     record meets the defeat condition. The claim is unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -60,8 +64,9 @@ summary: >-
   only that entrenchment and knockout do not show it; and it reads
   Wimsatt's concept only as they quote it.
 ---
+<!-- inactive-ok-file: THEORY-tmpk0h4i — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch whose step from entrenchment to closure this claim examines -->
-<!-- inactive-ok-file: LIT-1927 LIT-1926 — Deferred: registered 2026-11-01, unread; cited for what the reading of LIT-188 reports of them -->
+<!-- inactive-ok-file: LIT-1926 — Unavailable since 2026-11-22, unread; cited for what the reading of LIT-188 reports of it -->
 
 # CLAIM-531: Generative entrenchment does not by itself give organizational closure: an entrenched core, which later interactions depend on so that perturbing it is catastrophic and perturbing them tolerable, can sit at the root of an acyclic dependency order, and where interactions turn over such an order persists only while something outside supplies its core; an organization that is both entrenched and closed has a core containing a cycle of mutual maintenance, each interaction on which is itself core unless its share of the maintenance is redundant
 
@@ -141,3 +146,39 @@ cannot do it either ([CLAIM-194](CLAIM-194.md)).
 - **That a cycle suffices for closure.** [CLAIM-516](CLAIM-516.md) says a cycle is
   necessary and not sufficient, and that a one-member cycle is not
   closure.
+
+## Note of 2026-11-22: entrenchment as its source defines it, read
+
+Read for LEAD-176. Wimsatt's book (LIT-1926) has no lawful copy and is
+Unavailable; Wimsatt and Schank 2004 (LIT-tmpjv6ez, NOTE-tmpkxkqj,
+THEORY-tmpk0h4i) was read in its place for the definition. Also read:
+Shavit and Sharon 2023 (LIT-1935, NOTE-tmpots55) and Bourrat 2022
+(LIT-1927, NOTE-tmp1shj8).
+
+- **The second defeater is not met** (corroborates; written as
+  `corroborates` on THEORY-tmpk0h4i). The source defines generative
+  entrenchment as reachability: "We define the generative entrenchment
+  (GE) of a node as the magnitude of this downstream dependency", on a
+  directed graph of "the organism plus relevant aspects of its
+  environment" (MS p. 2). Nothing in it requires the core to be
+  maintained by what depends on it. Nor does it exclude it: the graphs
+  have "closed cycles" (MS p. 5), and every node on a cycle reaches the
+  others. A root of a tree and a node on a cycle can be equally
+  entrenched. That is the claim: entrenchment and closure come apart,
+  and an entrenched, closed core contains a cycle.
+- **The outside supply is in the definition.** "Environmental inputs,
+  maintained conditions and periodic or other patterns of change" can be
+  generative nodes (MS p. 2), so an entrenched core can sit outside the
+  set that depends on it.
+- **Shavit and Sharon's entrenchment is the mutual kind** (consistent):
+  Neolithic group traits "that theoretically could exist separately ...
+  can no longer do so in practice", and farming is entrenched. They
+  describe the cycle the claim says a closed, entrenched organization
+  has; they do not show that entrenchment without it is impossible.
+- **Bourrat's endogenized collectives** (background): they persist
+  without the migration ban but not without the outside supply of the
+  periodic propagule generations, which the release leaves in place.
+  Nothing in the model is generative entrenchment.
+
+Whether the 2007 book states entrenchment differently stays unverified.
+No status change.

@@ -12,7 +12,7 @@ version: 1
 source:
 - LIT-1935
 bears_on:
-- QUESTION-284
+- QUESTION-277
 tags:
 - philosophy-of-biology
 - social-science

@@ -33,6 +33,7 @@ implementations: []
 summary: >-
   Wilkins & Bourrat, "Replication and Reproduction", Stanford Encyclopedia of Philosophy (first published 2001, revised 2022). A survey of the replicator concept from Dawkins and Hull to its critics; its §5.4 gives Griesemer's reproducer, an entity that develops and has material overlap between parent and progeny, with replication an evolved terminal form of reproduction, and the objections of Godfrey-Smith and others.
 ---
+<!-- inactive-ok-file: NOTE-tmp7ylue — Skimmed; this entry's own partial reading -->
 <!-- inactive-ok-file: LIT-1932 LIT-1937 — Unavailable; the papers this entry stands in for -->
 
 # LIT-tmp460ih: Replication and Reproduction
