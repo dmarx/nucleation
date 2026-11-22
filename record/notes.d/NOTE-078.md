@@ -35,6 +35,7 @@ summary: >-
   tracking proof does not apply as claimed. The main theorems are standard
   and not in doubt.
 ---
+<!-- inactive-ok-file: NOTE-tmpy4hcs THEORY-tmpocjqv LIT-3005 — Skimmed, Proposed or Unfetched; the reading of Alsmeyer and Mentemeier and the Kesten paper it stands in for, cited in the note of 2026-11-22 -->
 
 # NOTE-078: Filip, Notes on the Multiplicative Ergodic Theorem
 

@@ -20,6 +20,7 @@ summary: >-
   Karlsson–Margulis and Kaimanovich forms should be cited to their
   originals. The hypotheses are ergodic stationary sampling and N → ∞.
 ---
+<!-- inactive-ok-file: NOTE-tmpy4hcs THEORY-tmpocjqv LIT-3005 — Skimmed, Proposed or Unfetched; the reading of Alsmeyer and Mentemeier and the Kesten paper it stands in for, cited in the note of 2026-11-22 -->
 
 <!-- inactive-ok-file: THEORY-325 — Proposed; named in Connections for contrast, not leaned on -->
 

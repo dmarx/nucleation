@@ -36,6 +36,7 @@ summary: >-
   for the reflecting equation X = AX ∨ B. Here for the reflecting floor
   of CLAIM-824. Unverified until read.
 ---
+<!-- inactive-ok-file: LIT-3005 — Unfetched; Kesten, for whom Kevei was read -->
 <!-- inactive-ok-file: CLAIM-824 — Proposed; the claim this work's max theorem bears on -->
 
 # LIT-tmpn76uh: Implicit renewal theory and tails of solutions of random equations

@@ -21,6 +21,7 @@ implementations: []
 summary: >-
   Gabaix (1999), Zipf's Law for Cities: An Explanation, Quarterly Journal of Economics 114(3), 739–767, DOI 10.1162/003355399556133. Cited by Newman ([LIT-2976](LIT-2976.md), reference 69) among the authors for whom random multiplication with a lower bound generates "not a log-normal, but a true power law". Here for the floor mechanism of [CLAIM-824](../claims.d/CLAIM-824.md) and for the city tail of [QUESTION-506](../questions.d/QUESTION-506.md). Unverified until read.
 ---
+<!-- inactive-ok-file: NOTE-tmpv02cb THEORY-tmpsmrhx — Skimmed or Proposed; Kevei's reading, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-824 — Proposed, from the exchange "Rich Get Richer Power Laws" -->
 
 # LIT-tmph6kst: Zipf's Law for Cities: An Explanation

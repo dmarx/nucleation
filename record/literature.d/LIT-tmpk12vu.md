@@ -42,6 +42,7 @@ summary: >-
   Kesten (1973), LIT-3005, which it stands in for in one dimension, and
   of Goldie's reflecting form X = AX ∨ B with the same κ.
 ---
+<!-- inactive-ok-file: NOTE-tmpv02cb THEORY-tmpsmrhx — Skimmed or Proposed; this work's reading -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this work stands in for -->
 <!-- inactive-ok-file: LIT-tmpn76uh — Deferred; Goldie (1991), registered with this reading -->
 

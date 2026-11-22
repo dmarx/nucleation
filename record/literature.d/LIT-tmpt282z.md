@@ -43,6 +43,7 @@ summary: >-
   Page proved; here as the record's second-hand access to Kesten's
   matrix theorem.
 ---
+<!-- inactive-ok-file: NOTE-tmpy4hcs THEORY-tmpocjqv — Skimmed or Proposed; this work's reading -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this work stands in for -->
 
 # LIT-tmpt282z: Tail behavior of stationary solutions of random difference equations: the case of regular matrices

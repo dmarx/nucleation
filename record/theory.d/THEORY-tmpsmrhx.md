@@ -27,6 +27,7 @@ summary: >-
   It is the record's ground for CLAIM-824's Kesten half, at second hand.
   Proposed until the reading is confirmed.
 ---
+<!-- inactive-ok-file: NOTE-tmpv02cb — Skimmed; the reading this THEORY records -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this reading stands in for -->
 <!-- inactive-ok-file: LIT-tmpn76uh CLAIM-824 — Deferred or Proposed; Goldie, registered from this reading, and the claim it grounds -->
 

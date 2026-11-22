@@ -66,6 +66,7 @@ rests_on:
 bears_on:
 - QUESTION-507
 ---
+<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-814 ARG-148 — filed with this claim from the same exchange, Open or Proposed -->
 <!-- inactive-ok-file: LIT-2991 — Deferred, registered 2026-11-21 from the exchange, unread -->
 <!-- inactive-ok-file: THEORY-tmpye6xs ARG-tmp5sgtm LIT-tmpfn6b8 — Proposed, Deferred or new; the finite-window reading, its argument and the work it names, 2026-11-22 -->

@@ -28,6 +28,7 @@ summary: >-
   own result, a slowly varying correction when EA^κ log⁺A = ∞, is not
   what the record uses. Read as a stand-in for Kesten (LIT-3005).
 ---
+<!-- inactive-ok-file: NOTE-tmpy4hcs — Skimmed; the companion stand-in reading for Kesten -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this reading stands in for -->
 <!-- inactive-ok-file: LIT-tmpn76uh — Deferred; Goldie (1991), registered from this reading -->
 <!-- inactive-ok-file: CLAIM-824 ARG-140 TERM-tmpg1vx2 SYNTHESIS-119 LIT-tmph6kst THEORY-tmpsmrhx THEORY-tmpocjqv ARG-tmpn6ufb CLAIM-803 — Proposed, Deferred or new; the entries this reading bears on, its own reading and the argument filed with it -->

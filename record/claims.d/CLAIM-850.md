@@ -48,6 +48,7 @@ summary: >-
   record had no claim relating them. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: TERM-142 TERM-139 CLAIM-810 CLAIM-846 ARG-129 — filed with this claim on 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2041 — Proposed; the order-to-chaos transition in random deep networks -->
 <!-- inactive-ok-file: THEORY-2158 CLAIM-809 — Proposed; the reading of 2026-11-21 and the claim it bears on -->

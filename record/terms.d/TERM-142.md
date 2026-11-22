@@ -39,6 +39,7 @@ summary: >-
   assistant's. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the reading whose narrower usage this term is set against -->
 <!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; the reply to Broido and Clauset, registered and unread -->
 <!-- inactive-ok-file: CLAIM-846 CLAIM-841 CLAIM-850 CLAIM-810 — filed with this term on 2026-11-21, Proposed -->

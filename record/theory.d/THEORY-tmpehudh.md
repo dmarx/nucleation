@@ -29,6 +29,7 @@ summary: >-
   reproduced in CLAIM-tmpfwwrf (ARG-tmpb6zg7). Proposed until the reading
   is confirmed.
 ---
+<!-- inactive-ok-file: CLAIM-803 — Proposed; the claim that holds the shape-only inference insufficient -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-tmpfwwrf ARG-tmp1zu0m ARG-tmpb6zg7 — Proposed or new; the claim this reading corroborates, the reproduction and the arguments filed with it -->
 
 # THEORY-tmpehudh: Bak, Tang and Wiesenfeld propose that spatially extended threshold systems in two or more dimensions relax to a critical state as an attractor, with no parameter tuned, because relaxation stops where clusters of minimally stable sites cease to percolate; in a sandpile automaton they find power-law cluster sizes (τ ≈ 0.98 in 2D, 1.35 in 3D) cut off by the system size, and spectra ω^(−1.58) and ω^(−1.1), and conjecture that this is the common mechanism of 1/f noise and fractals

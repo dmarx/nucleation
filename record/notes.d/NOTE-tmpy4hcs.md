@@ -26,6 +26,7 @@ summary: >-
   article and proved by Le Page. The record's only access to Kesten's
   matrix theorem, at second hand.
 ---
+<!-- inactive-ok-file: NOTE-tmpv02cb — Skimmed; the companion stand-in reading for Kesten -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this reading stands in for -->
 <!-- inactive-ok-file: THEORY-tmpocjqv CLAIM-824 — Proposed or new; this reading's THEORY and the claim it bears on -->
 

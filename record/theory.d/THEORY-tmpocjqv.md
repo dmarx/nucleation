@@ -24,6 +24,7 @@ summary: >-
   record's second-hand access to Kesten's matrix theorem. Proposed until
   the reading is confirmed.
 ---
+<!-- inactive-ok-file: NOTE-tmpy4hcs — Skimmed; the reading this THEORY records -->
 <!-- inactive-ok-file: LIT-3005 — Unfetched; the original this reading stands in for -->
 
 # THEORY-tmpocjqv: Alsmeyer and Mentemeier prove that the stationary solution of a random difference equation with invertible random matrices and a negative Liapunov exponent has a power-law tail in every direction, with index κ fixed by lim n^(−1) log E‖Π_n‖^κ = 0, a result they say Kesten stated in 1973 and Le Page proved

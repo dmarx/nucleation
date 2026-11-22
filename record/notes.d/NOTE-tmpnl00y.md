@@ -32,8 +32,7 @@ summary: >-
   mechanism" of 1/f noise and fractals. Slow drive, separated time scales
   and conservation are not stated as conditions.
 ---
-<!-- inactive-ok-file: QUESTION-508 — Open question; listed for completeness of the bearings -->
-<!-- inactive-ok-file: THEORY-tmpehudh CLAIM-841 CLAIM-795 CLAIM-803 CLAIM-809 CLAIM-850 CLAIM-804 CLAIM-815 CASE-303 LEAD-209 SYNTHESIS-119 TERM-142 CLAIM-tmpfwwrf ARG-tmp1zu0m ARG-tmpb6zg7 THEORY-676 — Proposed or new; the entries this reading bears on, its own reading, the reproduction and the arguments filed with it -->
+<!-- inactive-ok-file: THEORY-tmpehudh CLAIM-841 CLAIM-795 CLAIM-803 CLAIM-809 CLAIM-850 CLAIM-804 CLAIM-815 CASE-303 SYNTHESIS-119 TERM-142 CLAIM-tmpfwwrf ARG-tmp1zu0m ARG-tmpb6zg7 — Proposed or new; the entries this reading bears on, its own reading, the reproduction and the arguments filed with it -->
 
 # NOTE-tmpnl00y: Bak, Tang and Wiesenfeld, read for the sandpile and the claim that criticality is an attractor reached without tuning
 
