@@ -83,37 +83,41 @@ def e2_content_selected_capture():
         for a0 in (-0.02, 0.0, 0.02):
             m, a = settle(M.mean_field, m0, a0, P)
             mf.append(dict(m0=m0, a0=a0, m_inf=m, a_inf=a))
-    # agent-level, from the symmetric state: the direction is set by early noise
+    # agent-level, from the symmetric state: the direction is set by early noise.
+    # Statistic: mean authority over the last 100 rounds.
     T, seeds = 600, 200
+    Ps = M.default_params(g=20.0)
+
+    def tail_a(PP, s):
+        tr = M.simulate_stochastic(0.5, 0.5, PP, T, seed=s)
+        m, a = (2 * tr - 1).T
+        return m, a, a[-100:].mean()
+
     rows = []
     for s in range(seeds):
-        tr = M.simulate_stochastic(0.5, 0.5, P, T, seed=s)
-        m, a = (2 * tr - 1).T
-        early = m[1:21].mean()
-        rows.append(dict(seed=s, early_m=early, a_final=a[-1], m_final_mean=m[-100:].mean()))
+        m, a, at = tail_a(Ps, s)
+        rows.append(dict(seed=s, early_m=m[1:51].mean(), a_tail=at, m_tail=m[-100:].mean()))
     early = np.array([r["early_m"] for r in rows])
-    af = np.array([r["a_final"] for r in rows])
+    af = np.array([r["a_tail"] for r in rows])
     captured = np.abs(af) > 0.5
     agree_sign = np.mean(np.sign(early[captured]) == np.sign(af[captured]))
-    # below threshold
-    Pb = M.default_params(g=3.0)
-    below = [abs(2 * M.simulate_stochastic(0.5, 0.5, Pb, T, seed=s)[-1, 1] - 1) for s in range(50)]
-    # regime B
-    PB = M.default_params(g=10.0, regime="B")
-    regB = [abs(2 * M.simulate_stochastic(0.5, 0.5, PB, T, seed=s)[-1, 1] - 1) for s in range(50)]
+    mf20 = settle(M.mean_field, 0.01, 0.0, Ps)
+    below = [abs(tail_a(M.default_params(g=3.0), s)[2]) for s in range(50)]
+    regB = [abs(tail_a(M.default_params(g=20.0, regime="B"), s)[2]) for s in range(50)]
+    P = dict(P, agent_level_g=20.0)
     save("e2_capture", dict(params=P, mean_field=mf, seeds=seeds,
-                            share_captured=captured.mean(),
+                            mean_field_g20=mf20.tolist(), share_captured=captured.mean(),
                             share_A=float(np.mean(af > 0.5)), share_B=float(np.mean(af < -0.5)),
                             early_sign_agrees_with_winner=agree_sign,
-                            mean_abs_m_final_captured=float(np.mean([abs(r["m_final_mean"]) for r, c in zip(rows, captured) if c])),
-                            below_threshold_g3_max_abs_a=max(below),
-                            regimeB_max_abs_a=max(regB)))
+                            mean_abs_m_final_captured=float(np.mean([abs(r["m_tail"]) for r, c in zip(rows, captured) if c])),
+                            below_threshold_g3_max_abs_a_tail=max(below),
+                            regimeB_g20_max_abs_a_tail=max(regB)))
 
 
 def e3_hysteresis():
     """Sweep the corpus imbalance b up then down, continuing from the last state."""
-    P = M.default_params(g=10.0, delta=0.5)
-    bs = np.round(np.linspace(-0.2, 0.2, 41), 4)
+    P = M.default_params(g=20.0, delta=0.5)
+    bs = np.round(np.linspace(-0.3, 0.3, 61), 4)
     path = list(bs) + list(bs[::-1])
     out = {}
     for label in ("case092", "bc_agreement", "bc_gaussian", "degroot_fixed"):
@@ -137,7 +141,10 @@ def e3_hysteresis():
         down = {b: (m, a) for b, m, a in rec[len(bs):]}
         gap = max(abs(up[b][0] - down[b][0]) for b in up)
         width = sum(abs(up[b][1] - down[b][1]) > 0.5 for b in up) * (bs[1] - bs[0])
+        flips = [b for b in up if np.sign(up[b][1]) != np.sign(up[bs[0]][1])]
         out[label] = dict(max_m_gap=gap, loop_width_in_b=float(width),
+                          a_range_up=[min(v[1] for v in up.values()), max(v[1] for v in up.values())],
+                          first_b_authority_flips_on_way_up=min(flips) if flips else None,
                           at_b0_up=up[0.0], at_b0_down=down[0.0])
     save("e3_hysteresis", dict(params=P, b_grid=[float(bs[0]), float(bs[-1]), len(bs)], results=out))
 
