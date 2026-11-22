@@ -51,6 +51,7 @@ draws_on:
 - THEORY-257
 - THEORY-1161
 ---
+<!-- inactive-ok-file: CASE-tmpz4n6b CLAIM-tmp6f8w8 CLAIM-tmpw3bak — new; filed 2026-11-22 for LEAD-090 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 <!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -150,3 +151,7 @@ is compared with. Friedkin's paper is also a worked case of
 [CLAIM-297](../claims.d/CLAIM-297.md)'s shape, authority on the next round set by success on the
 last, in which that update concentrates authority. The design is
 unchanged.
+
+## Note of 2026-11-22: built
+
+The model is built and run as [CASE-tmpz4n6b](CASE-tmpz4n6b.md), for [LEAD-090](../leads.d/LEAD-090.md), under three stated readings of what this case leaves open: scoring by agreement weighted by the current meaning, conferral as a moving average, and framing linear in the meaning with exploration. Its threshold is gσ² > 2(1 − φ(1 − ε)), with the conferral timescale out of it ([CLAIM-tmp6f8w8](../claims.d/CLAIM-tmp6f8w8.md)). Its reduced form is placed among known models in [CLAIM-tmpw3bak](../claims.d/CLAIM-tmpw3bak.md). The design is unchanged.
