@@ -98,6 +98,12 @@ From here on, a stop at any moment must lose at most the step in hand.
   stop check that no child of it is still running. Keep your
   files in a subdirectory of the scratchpad named after your lead, not in
   its root.
+- The machine is shared, so never delete or overwrite anything outside
+  your own lead's scratchpad subdirectory and your worktree: no writing to
+  shared device nodes (`mv`/`cp`/`>` to `/dev/null`, `/dev/zero` and the
+  like, which replaces the node for every worker), and no deleting under
+  `/tmp` or another worker's `scratch/studies/` directory. To discard
+  output, redirect to `/dev/null`, do not move a file onto it.
 - Estimate the run's time before starting. Give a background run a time
   limit above twice the estimate. If its measured pace says it will not
   finish in time, stop it and restructure it at once.
