@@ -77,6 +77,20 @@ grounds the counter that checking an annotation moves nothing ([CLAIM-tmp764wb](
 It parallels [CLAIM-783](../claims.d/CLAIM-783.md)'s result that descriptors cannot conflict: a term
 with σ and τ has σ ∧ τ, inhabited by its value.
 
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 — Proposed; filed for LEAD-tmp3xevc -->
+
+A contrast from the same line of work. Davies and Pfenning
+([THEORY-tmpei9b5](THEORY-tmpei9b5.md); [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)), citing this paper as [7], drop its
+requirement that intersected types refine one simple type (p. 1), show
+general intersections unsound with references unless introduction is
+restricted to values (p. 3), and replace inference, "most likely
+undecidable" for the result (p. 2), with bidirectional checking against
+the programmer's ascriptions. So the decidability this account credits to
+the finite declared lattice and the same-type restriction is what the
+later system gives up, and the programmer states per function what this
+one read off. No change.
+
 ## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
 <!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
 

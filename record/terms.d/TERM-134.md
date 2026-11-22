@@ -96,6 +96,17 @@ the same walk from prose to mechanism: "the programmer is encouraged to
 make explicit the distinctions which currently must remain implicit or
 informal in code comments" (p. 2). Parallels only; the definition stands.
 
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel. Freeman and Pfenning's refinements ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md)) are a
+closed vocabulary declared in advance, and can be inferred; Davies and
+Pfenning ([THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md); [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md)) open it to any intersection,
+inference becomes "most likely undecidable" (p. 2), and the properties
+must be stated by the programmer and checked. Read across: a predicate
+from a closed vocabulary can be read off an entry; one from an open
+vocabulary has to be written. No change.
+
 ## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
 <!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
 

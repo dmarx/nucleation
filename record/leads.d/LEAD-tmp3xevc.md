@@ -1,7 +1,7 @@
 ---
 status: Open
 title: 'Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory'
-version: 2
+version: 3
 stage: underway
 priority: medium
 method:
@@ -45,6 +45,14 @@ Register and read, under the read-and-file skill:
 - Dunfield and Krishnaswami (2021), a survey of bidirectional typing: does
   inference against checking match the direction of fit, and where does
   elaboration sit?
+- Rondon, Kawaguchi and Jhala (2008), Liquid Types: the predicate form
+  {x : A | φ(x)} that [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) actually writes, which Freeman and
+  Pfenning's finite lattice of refinements is not. Added 2026-11-22 at
+  the owner's request, on the Freeman and Pfenning reader's suggestion.
+- Davies and Pfenning (2000), on intersection types and computational
+  effects: bidirectional refinement checking, the sharp test of the
+  direction-of-fit correspondence that Freeman and Pfenning leave
+  untested ([CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)). Added the same day for the same reason.
 
 ## What would count
 
@@ -62,6 +70,20 @@ intersection matches the witness argument, the witness being a value;
 and in their system checking an annotation is word to world, as inference
 is, so the bidirectional correspondence is left to the Dunfield and
 Krishnaswami reading.
+
+## Note of 2026-11-22: Davies and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmpei9b5 ARG-tmp7pf1t ARG-tmpdq64g CLAIM-tmpvq4ru — Proposed or Rejected; filed from this reading -->
+
+Davies and Pfenning (2000), added to the readings at the owner's request,
+is read: [LIT-tmp57uqz](../literature.d/LIT-tmp57uqz.md), [NOTE-tmpaiy4v](../notes.d/NOTE-tmpaiy4v.md), [THEORY-tmpei9b5](../theory.d/THEORY-tmpei9b5.md), with [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md),
+[ARG-tmpdq64g](../arguments.d/ARG-tmpdq64g.md) and [CLAIM-tmpvq4ru](../claims.d/CLAIM-tmpvq4ru.md) (pull request "Read Davies and Pfenning
+2000"). In the paper that introduced bidirectional refinement checking,
+the checked type is the programmer's, given in advance, and a failing term
+is the one to change; synthesis mostly passes on declared types; and no
+rule moves a term, so the elaboration clause has nothing in this system to
+map to. The value restriction gives the witness a second reason to be a
+value. Whether a met ascription is a requirement is left to the owner, as
+two alternatives in [ARG-tmp7pf1t](../arguments.d/ARG-tmp7pf1t.md).
 
 ## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
 <!-- inactive-ok-file: THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; filed from this reading -->
