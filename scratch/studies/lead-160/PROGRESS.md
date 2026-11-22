@@ -19,9 +19,14 @@ QUESTION-362; no lead-160 study dir or branch. Not held.
 
 ## Done
 
+- Design and choices: README.md (8x8 mazes with loops; M table+VI, P
+  hindsight Q-learning, D action-conditioned occupancy demons; matched by
+  same stream and same "unknown = stay" prior; levels by planner success).
+- gridagents.py + test_gridagents.py (12 tests pass).
+- run_study.py over 20 mazes: results.jsonl (380 items), summary.md.
+
 ## Next
 
-- Design and choices (README.md)
-- Code + pytest
-- Run, persist per item
-- File CASE, claims, notes, changelog
+- File: executed-study CASE (Proposed, variant_of CASE-187), two CLAIMs
+  (query availability; intervention scope), dated notes on LEAD-160,
+  CASE-187, QUESTION-362, CLAIM-513/514/519; changelog fragment.
