@@ -73,3 +73,14 @@ imposition fits the entry to the predicate (world to word).
   need not carry over; the identification of the two kinds does.
 - Not that a filer always knows which kind a predicate is. That is decided
   by the entry as it stands when the predicate is added.
+
+## Note of 2026-11-22: Freeman and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmp1mruk CLAIM-tmp764wb — Proposed; filed for LEAD-tmp3xevc -->
+
+A contrast, from Freeman and Pfenning's refinement types (THEORY-tmp1mruk;
+NOTE-tmpew427): a type system with informative update only. Inference and
+accepted annotations narrow what a term may be taken to have, and "we do
+not extend the language of programs for ML (only the language of types)"
+(p. 1): no rule moves a term. Performative update, changing a term to
+pass a type it fails, lies with the programmer, outside the system
+(CLAIM-tmp764wb). No change.

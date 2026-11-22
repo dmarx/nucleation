@@ -52,3 +52,15 @@ can ([CLAIM-tmp5rv9x](../claims.d/CLAIM-tmp5rv9x.md)).
 - **Descriptive against normative content.** A descriptor can state a norm
   the entry already meets; direction of fit is about the relation of a test
   to its object, not about what the test says.
+
+## Note of 2026-11-22: Freeman and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmp1mruk CLAIM-tmp764wb — Proposed; filed for LEAD-tmp3xevc -->
+
+A case for this term's criterion that the thing as it stands, not the
+test's wording, sets the direction. In Freeman and Pfenning's refinement
+types (THEORY-tmp1mruk; NOTE-tmpew427) a type the programmer writes in advance is
+checked by accepting it only when the term's inferred refinement already
+lies below it (p. 8): checked, and still word to world. The world-to-word
+direction appears only when a term fails and the programmer changes it,
+outside the type system. So the direction does not divide inferred from
+checked types there (CLAIM-tmp764wb). The definition stands.

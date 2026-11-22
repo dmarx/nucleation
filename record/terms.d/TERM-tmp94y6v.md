@@ -61,3 +61,16 @@ specification of requirements of the second ([CLAIM-tmp5rv9x](../claims.d/CLAIM-
 - **The constraint a specification is realized by.** [CLAIM-477](../claims.d/CLAIM-477.md) holds that
   specifications are themselves realized and maintained by something; that
   maintaining apparatus ([TERM-089](TERM-089.md)) is not the specification.
+
+## Note of 2026-11-22: Freeman and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmp1mruk — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel, from Freeman and Pfenning's refinement types (THEORY-tmp1mruk;
+NOTE-tmpew427). An ML type with its declared refinements is a specification in
+this term's sense, layered: the ML type admits a set of values, each
+refinement a subset, and a term's principal refinement is the narrowest
+the declarations can say of it. The declarations are stored
+specification: written once, they constrain every later program, and
+their finiteness is what keeps checking decidable ("Finiteness is
+important, since it is necessary for the decidability of refinement type
+inference", p. 2). No change.

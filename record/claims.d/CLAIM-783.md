@@ -148,3 +148,19 @@ origin is feasible:
   result.
 - Not the rate at which soft enforcement approaches the hard one; 1/λ is
   what the run showed, not a derived rate.
+
+## Note of 2026-11-22: Freeman and Pfenning, read
+<!-- inactive-ok-file: THEORY-tmp1mruk — Proposed; filed for LEAD-tmp3xevc -->
+
+A parallel in another formalism, not evidence: the result here is
+demonstrated. In Freeman and Pfenning's refinement types (THEORY-tmp1mruk;
+NOTE-tmpew427), "an expression has type σ ∧ τ if it has both type σ and type τ"
+(p. 3), so refinements a term already has never conflict, the term's value
+inhabiting their intersection, as part 6 has it; and ?e ∧ std is ?e
+(p. 5), the intersection the term already sat in. Their intersections can
+be empty, ⊥, as ?e ∧ stdpos is, which only refinements the term does not
+have produce. One point part 6 states and the parallel sharpens: the
+witness must be a realized version. A term whose evaluation does not
+terminate can have ⊥ (soundness holds only "if e evaluates to v", p. 7);
+the record's entries are versions, so the part stands as written. No
+change.
