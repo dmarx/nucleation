@@ -29,7 +29,22 @@ ARG-051, CLAIM-027 as warranted.
 - Metzinger 2017 chapter refetched from predictive-mind.net to quote H1/H3
   exactly (p. 14 of the PDF's footer numbering).
 
+- Step 3: search (Europe PMC REST search, 2026-11-22): 47 title hits for
+  mind-wandering x brain stimulation; key items: Fox & Christoff 2015 letter
+  (PMC4434747, read in full from PMC page before PMC began serving a
+  reCAPTCHA); Axelrod, Zhu & Qiu 2018 Sci Rep (read in full from
+  nature.com, CC BY); Boayue et al. 2020 registered report (EJN, failed
+  replication; preprint osf.io/dfex3); Nawani et al. 2023 meta-analysis;
+  Coulborn & Fernandez-Espejo 2022 (null); Kam, Mittner & Knight 2022 TICS
+  review. No paper found that tests H1 or H3 as Metzinger states them
+  (blocking/restoring the EAM). PMC pages for PMC6206062 and PMC6388084 gave
+  a reCAPTCHA "Checking your browser" page 2026-11-22: stopped there.
+  Europe PMC REST fullTextXML returned HTTP 500 for PMC4371998, PMC6206062,
+  PMC6388084.
+
 ## Next
+
+- Read Boayue et al. 2020 (registered report) via OSF preprint if open.
 
 - Register LIT for Axelrod 2015, file NOTE and THEORY.
 - Search for H1/H3 tests.
