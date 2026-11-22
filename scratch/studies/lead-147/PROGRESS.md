@@ -17,10 +17,16 @@
   nltk.download() refused under the proxy (NLTK's own safety check), so the
   zip was fetched with curl instead.
 
+- CLAIM-tmpe87cm filed (derivation, demonstrated, answers QUESTION-025,
+  bears_on QUESTION-178, grounds THEORY-185).
+- measure.py: first run OOM-killed in tokenising (np.unique on 17M
+  strings); fixed with Counter + int32 ids; relaunched 13:09 UTC,
+  limit 25 min, counts done in 22 s.
+
 ## Next
 
 - Measurement script, test, run
-- File CLAIM, CASE, notes, changelog
+- File CASE, notes on QUESTION-025, QUESTION-178, LEAD-147, changelog
 
 ## Choices
 

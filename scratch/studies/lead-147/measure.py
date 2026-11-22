@@ -45,7 +45,7 @@ def cooc(ids, V, C, win):
     for o in range(1, win + 1):
         for a, b in ((ids[:-o], ids[o:]), (ids[o:], ids[:-o])):
             m = (a < V) & (b < C)
-            n += np.bincount(a[m] * C + b[m], minlength=V * C)
+            n += np.bincount(a[m].astype(np.int64) * C + b[m], minlength=V * C)
     return n.reshape(V, C)
 
 
@@ -100,11 +100,12 @@ def stage_counts(text8, cache):
     vpath = os.path.join(cache, "vocab.json")
     if all(os.path.exists(p) for p in paths.values()) and os.path.exists(vpath):
         return {k: np.load(p) for k, p in paths.items()}, json.load(open(vpath))
+    from collections import Counter
     toks = open(text8).read().split()
-    words, cnt = np.unique(toks, return_counts=True)
-    vocab = [str(w) for w in words[np.argsort(-cnt, kind="stable")]]
+    vocab = [w for w, _ in sorted(Counter(toks).items(), key=lambda kv: (-kv[1], kv[0]))]
     idx = {w: i for i, w in enumerate(vocab)}
-    ids = np.fromiter((idx[t] for t in toks), dtype=np.int64, count=len(toks))
+    ids = np.fromiter((idx[t] for t in toks), dtype=np.int32, count=len(toks))
+    del toks
     half = len(ids) // 2
     out = {"full": cooc(ids, V, C, WIN), "h1": cooc(ids[:half], V, C, WIN), "h2": cooc(ids[half:], V, C, WIN)}
     for k, p in paths.items():
