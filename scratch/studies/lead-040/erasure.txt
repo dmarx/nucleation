@@ -1,0 +1,6 @@
+trained-d4-s0: walls after 12 steps [30], after 200 steps []; single wall at the clamped end after 200 steps in 0.00 of runs
+trained-d4-s1: walls after 12 steps [], after 200 steps [31]; single wall at the clamped end after 200 steps in 1.00 of runs
+trained-d4-s2: walls after 12 steps [31], after 200 steps [31]; single wall at the clamped end after 200 steps in 1.00 of runs
+trained-d4-s3: walls after 12 steps [31], after 200 steps [31]; single wall at the clamped end after 200 steps in 1.00 of runs
+trained-d8-s0: walls after 12 steps [31], after 200 steps [31]; single wall at the clamped end after 200 steps in 1.00 of runs
+trained-d8-s1: walls after 12 steps [], after 200 steps []; single wall at the clamped end after 200 steps in 0.00 of runs
