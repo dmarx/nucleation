@@ -22,13 +22,13 @@ line:
 bears_on:
 - QUESTION-284
 summary: >-
-  LEAD-057 asks, for one model, whether the three partitions of
-  QUESTION-284 (A5's "a fixed preexisting partition, a partition
+  [LEAD-057](../leads.d/LEAD-057.md) asks, for one model, whether the three partitions of
+  [QUESTION-284](../questions.d/QUESTION-284.md) (A5's "a fixed preexisting partition, a partition
   recovered from measured dynamics, and an arrangement-dependent partition
   produced through coupling to an apparatus") make different
   counterfactual predictions. The model is a four-unit linear Gaussian
   VAR(1) whose units pair as 01 and 23, with an apparatus that couples 02
-  and 13, the beam joining two pendulums of CLAIM-194. Each partition is
+  and 13, the beam joining two pendulums of [CLAIM-194](../claims.d/CLAIM-194.md). Each partition is
   scored by what it licenses, that each block can be predicted from its own
   past, computed exactly and checked by simulation. The fixed and recovered
   partitions differ whenever an intervention moves the coupling. The
@@ -46,14 +46,14 @@ summary: >-
 
 ## Why this model
 
-LEAD-057 leaves the model open. The simplest one in which the three
+[LEAD-057](../leads.d/LEAD-057.md) leaves the model open. The simplest one in which the three
 partitions can come apart needs two candidate pairings of the same units,
 one intrinsic and one an apparatus can impose, and a coupling strength the
 apparatus can turn up or down. Four units in two pairs, with a probe that
 cross-pairs them, is the smallest such system: three units admit no two
 disjoint pairings, and a linear Gaussian model makes every prediction
 exact. It is the family the record already uses for block and closure
-results (CLAIM-388, CASE-120), and the apparatus is CLAIM-194's beam
+results ([CLAIM-388](../claims.d/CLAIM-388.md), [CASE-120](CASE-120.md)), and the apparatus is [CLAIM-194](../claims.d/CLAIM-194.md)'s beam
 joining two pendulums, so the result reads directly against those
 entries. Nonlinearity, plasticity with its own dynamics, and more units
 would add nothing the three accounts disagree about.
@@ -69,7 +69,7 @@ the two units it joins and feeding back into both.
 
 **What a partition predicts.** A partition into blocks licenses the
 prediction that each block can be forecast from its own past alone, which
-is what the record's block criterion (CLAIM-157) reads a boundary off.
+is what the record's block criterion ([CLAIM-157](../claims.d/CLAIM-157.md)) reads a boundary off.
 The score, block loss, is the excess one-step error of the best
 block-local linear predictors over the best predictor using all units, as
 a fraction of the latter: 0 means the blocks are decoupled for prediction.
@@ -134,7 +134,7 @@ next 0.088).
 - The score is one licence a partition gives, block-local prediction. An
   account whose partition licenses no prediction about the dynamics is
   untested by it, by construction; that is the point the claim this case
-  grounds (CLAIM-tmpy1gmq) draws.
+  grounds ([CLAIM-tmpy1gmq](../claims.d/CLAIM-tmpy1gmq.md)) draws.
 - R is defined as the best-scoring pairing, so its winning is not a
   finding; the finding is where F and Arr coincide with it and where they
   do not.
@@ -144,6 +144,6 @@ next 0.088).
 - One linear model with stipulated parameters. The pattern rests on the
   structure (which pairing the coupling favours), not on the numbers.
 - It is about the third of the three relations the note of 2026-11-07 on
-  QUESTION-284 distinguishes: dependence on an arrangement or
+  [QUESTION-284](../questions.d/QUESTION-284.md) distinguishes: dependence on an arrangement or
   apparatus. It says nothing of synchronic part–whole constitution or of
   relations constituting their relata.

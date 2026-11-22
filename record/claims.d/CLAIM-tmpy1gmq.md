@@ -38,7 +38,7 @@ complements:
 bears_on:
 - QUESTION-284
 summary: >-
-  LEAD-057's test, run on one model (CASE-tmp06fbt), and read. The fixed
+  [LEAD-057](../leads.d/LEAD-057.md)'s test, run on one model ([CASE-tmp06fbt](../cases.d/CASE-tmp06fbt.md)), and read. The fixed
   and recovered partitions disagree under any intervention that moves the
   coupling, and measurement decides between them, provided the fixed one
   licenses block-local prediction. The apparatus-dependent partition faces
@@ -48,9 +48,9 @@ summary: >-
   produces, it predicts what causal modification and discovery predict,
   everywhere. Either way no evidence favours constitution over causal
   modification; the dispute between them, so far as it differs from the
-  refuted reading, is not empirical, as CLAIM-150 says of identification
-  and THEORY-1288 of part–whole constitution. It is about the third
-  relation of QUESTION-284's note of 2026-11-07 only. The wording is the
+  refuted reading, is not empirical, as [CLAIM-150](CLAIM-150.md) says of identification
+  and [THEORY-1288](../theory.d/THEORY-1288.md) of part–whole constitution. It is about the third
+  relation of [QUESTION-284](../questions.d/QUESTION-284.md)'s note of 2026-11-07 only. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp06fbt — new; the study this claim is grounded in -->
@@ -60,7 +60,7 @@ summary: >-
 
 ## The claim
 
-QUESTION-284 asks, after A5, whether "a fixed preexisting partition, a
+[QUESTION-284](../questions.d/QUESTION-284.md) asks, after A5, whether "a fixed preexisting partition, a
 partition recovered from measured dynamics, and an arrangement-dependent
 partition produced through coupling to an apparatus" make different
 counterfactual predictions, "and whether any evidence distinguishes
@@ -68,7 +68,7 @@ ontological constitution from ordinary causal modification." A partition
 predicts nothing by itself. What it predicts is what it licenses; the
 licence the record's block criterion uses is that each block can be
 forecast from its own past. Under that licence, on the model of
-CASE-tmp06fbt:
+[CASE-tmp06fbt](../cases.d/CASE-tmp06fbt.md):
 
 - **Fixed against recovered: different predictions, decided by
   measurement.** Whenever an intervention moves the coupling (the apparatus
@@ -100,10 +100,10 @@ CASE-tmp06fbt:
   A5's harder question, is not settled by any observable of the system,
   since the joint dynamics fix them all.
 
-This is the outcome QUESTION-284 foresaw ("If none does, that is itself an
+This is the outcome [QUESTION-284](../questions.d/QUESTION-284.md) foresaw ("If none does, that is itself an
 answer"), shown for dependence on an arrangement in one model, alongside
-CLAIM-150's underdetermination of constitution by identification and
-THEORY-1288's for part–whole constitution. It extends CLAIM-194 in the
+[CLAIM-150](CLAIM-150.md)'s underdetermination of constitution by identification and
+[THEORY-1288](../theory.d/THEORY-1288.md)'s for part–whole constitution. It extends [CLAIM-194](CLAIM-194.md) in the
 other direction: the block test cannot tell a boundary a system makes from
 one imposed on it, and no evidence of this kind tells a boundary an
 apparatus constitutes from one it causes.
@@ -112,7 +112,7 @@ apparatus constitutes from one it causes.
 
 - **That constitution is false**, or that the constitutive reading is
   idle as metaphysics. It says the reading has no counterfactual
-  prediction of its own here; CLAIM-476's constitutive claim for a
+  prediction of its own here; [CLAIM-476](CLAIM-476.md)'s constitutive claim for a
   record's objects is not tested by it.
 - **That every licence a partition gives is block-local prediction.** A
   partition read as licensing other predictions (which interventions are
@@ -120,8 +120,8 @@ apparatus constitutes from one it causes.
   dilemma's form, tracking the arrangement or the dynamics it produces,
   is expected to carry over, but that is not shown.
 - **Anything about the other two relations** called constitution in
-  QUESTION-284's note of 2026-11-07: relations helping fix their relata's
-  identity, and synchronic part–whole constitution (CLAIM-528).
+  [QUESTION-284](../questions.d/QUESTION-284.md)'s note of 2026-11-07: relations helping fix their relata's
+  identity, and synchronic part–whole constitution ([CLAIM-528](CLAIM-528.md)).
 - **That history cannot matter.** An account on which the boundary is
   constituted by having been coupled agrees with the recovered partition
   when the change outlasts the apparatus, and so falls in the second horn;
