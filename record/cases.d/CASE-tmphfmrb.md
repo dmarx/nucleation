@@ -163,7 +163,8 @@ hand-written backpropagation, not image classifiers or transformers.
    QUESTION-069's alternative, that connectedness belongs partly to the
    path family searched.
 
-What this does to CLAIM-263 turns on what "share a mechanism" means in its
+What this does to CLAIM-263's step 2 (THEORY-116's direction, which
+CLAIM-187 carries further) turns on what "share a mechanism" means in its
 defeater, which the record leaves open. CLAIM-tmpr7v4j states the finding.
 CLAIM-tmpv22hv and CLAIM-tmp46m6e are the two readings, filed as
 alternatives for the owner.
