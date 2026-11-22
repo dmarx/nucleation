@@ -140,6 +140,6 @@ distinctions (contact, fiat vs bona fide boundary, shared parts) give a
 vocabulary for "where its boundary lies". She supplies no criterion. Other
 held entries it bears on (found on recheck):
 
-## Note of 2026-11-22: which tests see a shared drive, from LEAD-098
+## Note of 2026-11-22: which tests see a shared drive, from [LEAD-098](../leads.d/LEAD-098.md)
 
-CASE-tmp69rk8 put this question's candidate tests to a shared drive and to coupling in a simulated oscillator network. Mutual entrainment read from timing and gluing pass both alike; mutual entrainment by intervention and conserved coherence after the drive is withdrawn tell them apart. Near-decomposability by a coupling strength fitted from fluctuations sees it only in degree, with a spurious gain, unless the drive is recorded. Reciprocal compensation was not operationalized separately. CLAIM-tmpo7igy. Leaves the question open.
+[CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md) put this question's candidate tests to a shared drive and to coupling in a simulated oscillator network. Mutual entrainment read from timing and gluing pass both alike; mutual entrainment by intervention and conserved coherence after the drive is withdrawn tell them apart. Near-decomposability by a coupling strength fitted from fluctuations sees it only in degree, with a spurious gain, unless the drive is recorded. Reciprocal compensation was not operationalized separately. [CLAIM-tmpo7igy](../claims.d/CLAIM-tmpo7igy.md). Leaves the question open.

@@ -32,8 +32,8 @@ draws_on:
 - THEORY-1088
 - THEORY-1090
 summary: >-
-  LEAD-098 asked for CASE-179's study, with A12's arms, and for
-  QUESTION-063's interventions. Eight Stuart–Landau units on a ring with
+  [LEAD-098](../leads.d/LEAD-098.md) asked for [CASE-179](CASE-179.md)'s study, with A12's arms, and for
+  [QUESTION-063](../questions.d/QUESTION-063.md)'s interventions. Eight Stuart–Landau units on a ring with
   one chord, each edge carrying a phase-offset map, were run in the
   design's regimes. Under a shared drive, uncoupled and coupled networks
   both lock (phase-locking value 0.9985 and 0.9996) and their observed
@@ -51,14 +51,14 @@ summary: >-
   relation in 100 of 100 random sheaves. All of it is one model family,
   run once per setting.
 ---
-<!-- inactive-ok-file: CLAIM-616 CASE-225 ARG-072 — Proposed; the claim and construction this study tests, and the argument that names it -->
+<!-- inactive-ok-file: CASE-225 — Proposed; the claim and construction this study tests, and the argument that names it -->
 <!-- inactive-ok-file: CLAIM-tmpo7igy — filed from this study, new -->
 
 # CASE-tmp69rk8: A simulated network of eight coupled oscillators carrying correspondence maps: a shared drive and coupling give the same phase locking and gluing, but displacing the drive for one member moves the others by 0.2 per cent of its shift without coupling and by 30 to 58 per cent with it; compatibility, attraction, persistence after the drive is withdrawn and revision that predicts interventions come apart across arms
 
 ## What was run
 
-CASE-179's design, made concrete. The choices are the assistant's and are
+[CASE-179](CASE-179.md)'s design, made concrete. The choices are the assistant's and are
 stated so that a different choice can be compared.
 
 - **Units.** Eight Stuart–Landau oscillators,
@@ -79,7 +79,7 @@ stated so that a different choice can be compared.
 - **Higher-dimensional stalks.** Linear cellular sheaves: one interior
   vertex with stalk of dimension 1, 2 or 3 and three scalar boundary
   vertices, random restriction maps, reduced by Kron reduction (the Schur
-  complement), as in THEORY-1090.
+  complement), as in [THEORY-1090](../theory.d/THEORY-1090.md).
 - **Integrator.** Stochastic Heun, dt = 0.01. An intervened copy and its
   control share their noise, so their difference is the intervention's
   effect.
@@ -89,7 +89,7 @@ the limit cycle, attraction to a section, norm conservation, recovery of
 known gains, the Hansen–Ghrist example, the rank tolerance). The whole
 run took about six minutes of one CPU.
 
-## Results: CASE-179's regimes
+## Results: [CASE-179](CASE-179.md)'s regimes
 
 Four initial conditions each; a kick of 1 rad to unit 0 at t = 150 in a
 paired copy. "Incompatibility" is the state's normalized distance from
@@ -108,14 +108,14 @@ the sections of the named maps (0 on a section).
 - **Compatibility without attraction:** the weak and conservative
   regimes, whose maps glue and whose dynamics never reach the sections.
 - **Attraction elsewhere:** strong coupling that enforces other relations
-  locks fully and is far from the apparatus's sections, as CASE-179's
+  locks fully and is far from the apparatus's sections, as [CASE-179](CASE-179.md)'s
   coupling assumptions say.
 - **Organization without a global section:** the frustrated network
   locks into one compromise state, the same from every initial condition
   (spread 10⁻⁵), with residual incompatibility 0.063.
 - **Attraction without integration:** the shared drive alone brings the
   uncoupled units within 0.03 of the apparatus's sections.
-- **Time scales** (CLAIM-481): the enforcing Laplacian's gap is 0.586 K
+- **Time scales** ([CLAIM-481](../claims.d/CLAIM-481.md)): the enforcing Laplacian's gap is 0.586 K
   against a frequency spread of 0.05, so at K = 1 the incompatible modes
   decay about twelve times faster than the detuning acts. The measured
   decay of a kick's non-collective part is 0.19 a unit time. In the
@@ -139,7 +139,7 @@ apart. Without coupling the units keep oscillating and lose each other;
 with it the network keeps its organization and its phase drifts from the
 drive's clock (0.22 rad in 50 time units).
 
-**Suppression** (CASE-225 on the network). Control u = 1 > μ: the
+**Suppression** ([CASE-225](CASE-225.md) on the network). Control u = 1 > μ: the
 network rests and still answers the drive (amplitude 0.33, order 0.999).
 Withdrawing the drive alone, it decays (0.001). Withdrawing drive and
 control, the coupled limit cycle returns with order 0.996, the same as
@@ -163,7 +163,7 @@ lost at −0.2.
   falls to 0.002. Its performance depended on the others once its own
   capacity was gone, and nothing in its output said so.
 
-## Results: QUESTION-063's interventions
+## Results: [QUESTION-063](../questions.d/QUESTION-063.md)'s interventions
 
 | system | drive of unit 0 displaced by π/2: unit 0 moves | others move (mean) | fraction followed | kick to unit 0: others' peak |
 |---|---|---|---|---|
@@ -175,14 +175,14 @@ lost at −0.2.
 With coupling, the response falls off with distance from unit 0 (0.16 at
 one step, 0.09 at two, at coupling 0.3).
 
-## Which of QUESTION-035's tests see the difference
+## Which of [QUESTION-035](../questions.d/QUESTION-035.md)'s tests see the difference
 
 On the same systems, with noise σ = 0.03 for the passive tests:
 
-| test (QUESTION-035) | common drive, no coupling | drive and coupling 0.3 | sees it? |
+| test ([QUESTION-035](../questions.d/QUESTION-035.md)) | common drive, no coupling | drive and coupling 0.3 | sees it? |
 |---|---|---|---|
 | mutual entrainment read from timing (phase-locking value) | 0.9985 | 0.9996 | no |
-| mutual entrainment by intervention (CLAIM-172: each side's timing shifts with the other's) | others follow 0.2 % | 30 % | yes |
+| mutual entrainment by intervention ([CLAIM-172](../claims.d/CLAIM-172.md): each side's timing shifts with the other's) | others follow 0.2 % | 30 % | yes |
 | gluing of the observed offsets (holonomy) | 3×10⁻⁵ | 4×10⁻⁶ | no |
 | coupling strength fitted from fluctuations, drive unrecorded | 0.068 | 0.356 (true 0.3) | in degree only: a spurious gain, a quarter of the true one |
 | the same, drive recorded (pinning to its clock allowed) | −0.001 | 0.272 | yes |
@@ -193,7 +193,7 @@ recovery of the group's coherence after a kick is the same in both, and
 whether the others do the restoring is the displacement and kick
 readouts above.
 
-## Results: revision (CASE-179's third manipulation)
+## Results: revision ([CASE-179](CASE-179.md)'s third manipulation)
 
 The apparatus predicts each unit's phase response 2, 5 and 10 time units
 after a kick of 0.3 rad to one unit. It starts with wrong maps (all
@@ -220,7 +220,7 @@ was already near right (the undriven coupled network), the check
 rejected the candidate. That is A22 §10's difference between becoming
 more coherent and becoming more knowledgeable, in numbers.
 
-## Results: holonomy and plastic maps (QUESTION-319, QUESTION-282)
+## Results: holonomy and plastic maps ([QUESTION-319](../questions.d/QUESTION-319.md), [QUESTION-282](../questions.d/QUESTION-282.md))
 
 One coupling (K = 1, identical frequencies), with holonomy h on one cycle:
 
@@ -244,7 +244,7 @@ frustration is removed: under that rule the organization treats it as an
 error. The response matrices to kicks on every unit are in the results
 file.
 
-## Results: higher-dimensional stalks (QUESTION-283)
+## Results: higher-dimensional stalks ([QUESTION-283](../questions.d/QUESTION-283.md))
 
 100 random sheaves for each interior stalk dimension. "Pairwise closure"
 is the set of boundary states each of whose pairs lies in the projection
@@ -259,7 +259,7 @@ when the two have the same dimension.
 
 A three-way boundary relation is forced generically when the interior
 stalk has dimension one less than the number of boundary units, as in
-Hansen and Ghrist's v₁ = v₂ + v₃ (THEORY-1090). Adding a pairwise edge
+Hansen and Ghrist's v₁ = v₂ + v₃ ([THEORY-1090](../theory.d/THEORY-1090.md)). Adding a pairwise edge
 among the boundary units can make the reduced constraint pairwise again.
 A first pass counted 39 of the three-dimensional cases wrongly, from
 numpy's default rank tolerance; the lines are kept in the results file
@@ -267,26 +267,26 @@ and superseded by the rerun.
 
 ## What it shows and what it does not
 
-It shows, in one model family, that the achievements CLAIM-474 keeps
+It shows, in one model family, that the achievements [CLAIM-474](../claims.d/CLAIM-474.md) keeps
 apart can be made to come apart on purpose: compatibility without
 attraction, attraction without coupling, organization without
 compatibility, persistence that only withdrawal reveals, and coherence
-without knowledge. It gives QUESTION-063 a constructed answer: the
+without knowledge. It gives [QUESTION-063](../questions.d/QUESTION-063.md) a constructed answer: the
 displacement and perturbation interventions separate common drive from
 coupling where timing and gluing cannot. The claim filed from it is
-CLAIM-tmpo7igy.
+[CLAIM-tmpo7igy](../claims.d/CLAIM-tmpo7igy.md).
 
 It does not show any of this for a real system. The units are identical
 in kind, the graph is small and known, the drive is known to the
 experimenter, and each setting was run once with fixed seeds. The
 apparatus's revision is a linear model of phase responses; the plastic
 maps are one rule among many, and they change the coupling directly, so
-the arm is QUESTION-282's variant in which revision feeds back into the
+the arm is [QUESTION-282](../questions.d/QUESTION-282.md)'s variant in which revision feeds back into the
 physical coupling, with the rule given by the experimenter. Effective
 boundary laws were tested only for linear sheaves, not fitted from the
 oscillator dynamics. Costs of establishing each achievement were not
 measured beyond the relaxation rates and the number of interventions
-(four) the checked revision used. Not run: CASE-179's note of 2026-11-03
+(four) the checked revision used. Not run: [CASE-179](CASE-179.md)'s note of 2026-11-03
 arms (declared tolerances, own against outside channels,
 observer-limited policies, captured correspondence, maintenance
 knockouts beyond the one here, the positive arm), A32 §11's arms and

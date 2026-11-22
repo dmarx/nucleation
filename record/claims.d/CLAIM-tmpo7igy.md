@@ -29,7 +29,7 @@ bears_on:
 corroborates:
 - CLAIM-474
 summary: >-
-  From the run of CASE-179's design for LEAD-098 (CASE-tmp69rk8). Under
+  From the run of [CASE-179](../cases.d/CASE-179.md)'s design for [LEAD-098](../leads.d/LEAD-098.md) ([CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md)). Under
   a shared drive, eight uncoupled and eight coupled oscillators lock
   alike (phase-locking value 0.9985 and 0.9996) and their observed
   offsets glue alike. Displacing one member's drive moves the others by
@@ -50,20 +50,20 @@ summary: >-
 
 ## The claim
 
-Three parts, each shown in CASE-tmp69rk8.
+Three parts, each shown in [CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md).
 
 1. **Passive tests are blind to the architecture.** A shared drive that
    realizes the apparatus's maps brings uncoupled units to the same phase
-   locking and the same glued offsets as coupling does. QUESTION-035's
+   locking and the same glued offsets as coupling does. [QUESTION-035](../questions.d/QUESTION-035.md)'s
    entrainment-by-timing and gluing tests pass both. A coupling strength
    fitted to fluctuations misreads a shared drive as weak coupling unless
    the drive is recorded and its pull is modelled.
-2. **The interventions QUESTION-063 asks for are not blind.** Displacing
+2. **The interventions [QUESTION-063](../questions.d/QUESTION-063.md) asks for are not blind.** Displacing
    the drive for one member and perturbing one member separate the two
    by a factor of more than a hundred and of more than ten, and the
    response falls off along the graph. Withdrawing the drive separates
    them too, but also separates self-sustained from damped units, so it
-   answers a different question as well (A12's arm; CASE-225).
+   answers a different question as well (A12's arm; [CASE-225](../cases.d/CASE-225.md)).
 3. **Consistency is not knowledge.** Revising the maps to whatever
    offsets are observed makes an apparatus coherent with the system in
    every arm and changes none of its predictions. Revision checked
@@ -74,20 +74,20 @@ Three parts, each shown in CASE-tmp69rk8.
 
 - That a real system's architecture can be read this way. The drive here
   is known to the experimenter, the graph is known and small, the units
-  alike. An unrecorded drive acting on members unequally is QUESTION-063's
+  alike. An unrecorded drive acting on members unequally is [QUESTION-063](../questions.d/QUESTION-063.md)'s
   open case.
-- That coupling makes the members one system. It is CLAIM-172's
+- That coupling makes the members one system. It is [CLAIM-172](CLAIM-172.md)'s
   criterion that the perturbation readout operationalizes; whether that
-  criterion is QUESTION-035's answer is another matter.
-- That the oscillator results transfer to organizations (CLAIM-616's own
+  criterion is [QUESTION-035](../questions.d/QUESTION-035.md)'s answer is another matter.
+- That the oscillator results transfer to organizations ([CLAIM-616](CLAIM-616.md)'s own
   reservation).
 
 ## Bearing
 
-It gives QUESTION-063 a constructed answer for oscillator networks, and
-the statement QUESTION-063 asks for of which of QUESTION-035's tests can
-see the difference. It adds a constructed case to CLAIM-474's partial
+It gives [QUESTION-063](../questions.d/QUESTION-063.md) a constructed answer for oscillator networks, and
+the statement [QUESTION-063](../questions.d/QUESTION-063.md) asks for of which of [QUESTION-035](../questions.d/QUESTION-035.md)'s tests can
+see the difference. It adds a constructed case to [CLAIM-474](CLAIM-474.md)'s partial
 order, for the separation of compatibility, dynamics and inquiry. For
-CLAIM-616, it is a run whose arms could have come out otherwise: the
+[CLAIM-616](CLAIM-616.md), it is a run whose arms could have come out otherwise: the
 uncoupled members could have followed the displaced drive, and the
 knocked-out unit's loss could have shown in its output.
