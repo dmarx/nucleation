@@ -25,7 +25,7 @@ draws_on:
 - THEORY-043
 - THEORY-063
 summary: >-
-  [LEAD-063](../leads.d/LEAD-063.md) asked for one integration measure, or an anti-nesting rule, to be
+  LEAD-063 asked for one integration measure, or an anti-nesting rule, to be
   applied to a modular-mind model and to a group model. The measure is
   Barrett and Seth's autoregressive integrated information (Phi_AR) at the
   minimum information bipartition, computed exactly for linear Gaussian
@@ -51,11 +51,11 @@ summary: >-
 
 ## What was done
 
-[QUESTION-046](../questions.d/QUESTION-046.md) asks for "an integration or dynamic-core measure, or an anti-nesting rule justified on other grounds, actually applied to a modular-mind model and to a group model". [THEORY-043](../theory.d/THEORY-043.md) says the architectural route would have to separate a modular mind from a nation "by degree, and nobody here computes the degree for either". This study computes it, for one measure and one rule, in the simplest models that have the structure at issue.
+QUESTION-046 asks for "an integration or dynamic-core measure, or an anti-nesting rule justified on other grounds, actually applied to a modular-mind model and to a group model". THEORY-043 says the architectural route would have to separate a modular mind from a nation "by degree, and nobody here computes the degree for either". This study computes it, for one measure and one rule, in the simplest models that have the structure at issue.
 
 **Measure.** Barrett and Seth's autoregressive integrated information (Phi_AR; Barrett and Seth 2011, PLoS Computational Biology 7, e1001052, not registered in the record): for a set of units S cut into parts M1 and M2, phi is the information S carries about its own last state minus what M1 and M2 each carry about theirs. Phi(S) is phi at the cut minimizing phi divided by the smaller part's size. For a stationary linear Gaussian system X(t+1) = A X(t) + noise every term has a closed form in the stationary covariance, so nothing is sampled.
 
-**Rule.** IIT's exclusion postulate, the anti-nesting rule [THEORY-043](../theory.d/THEORY-043.md) names: of candidates that overlap, the one of largest Phi is the subject.
+**Rule.** IIT's exclusion postulate, the anti-nesting rule THEORY-043 names: of candidates that overlap, the one of largest Phi is the subject.
 
 **Models.**
 
@@ -76,14 +76,14 @@ Smallest coupling at which the whole is the subject (size-normalized cut):
 
 Below its threshold each model's parts are the subjects: the mind's modules, the group's members. Above it the whole is, and its parts are excluded; in the group, the members' own Phi falls as g rises (0.072 to 0.056 at g = 0.2, three links). The whole's Phi depends on the seams almost alone: at coupling 0.05 with one link it is 0.0049 nats for the mind and 0.0047 for the group, at 0.10 0.0193 and 0.0184. The thresholds differ because the group's parts are minds, more integrated than modules (0.072 against 0.028 nats), not because they are minded.
 
-- **One link flips the verdict.** At g = 0.15, two links between members leave three subjects and three make one, with each member excluded; the mind flips the same way at c = 0.10 between one link and two. This is Schwitzgebel's single-ballot reductio ([THEORY-043](../theory.d/THEORY-043.md), from NOTE-131) produced in a model.
+- **One link flips the verdict.** At g = 0.15, two links between members leave three subjects and three make one, with each member excluded; the mind flips the same way at c = 0.10 between one link and two. This is Schwitzgebel's single-ballot reductio (THEORY-043, from NOTE-131) produced in a model.
 - **The subject need not follow persons.** In the exhaustive 12-unit group, at g = 0.15 with three links, the set of largest Phi is one member plus two units of the other; with six links it is the whole group. In the 9-unit mind with one link at c = 0.12 it is the three linked units, one from each module, not a module or the mind.
 - **Unnormalized cut.** The whole wins less often, in both models: never with one link; with two, never for the mind and from 0.22 for the group; with three, at the same couplings as before.
 - **Outside the modular range.** At couplings above about 0.21 with three links, links between parts outweigh coupling inside them, the parts stop being parts, and Phi_AR turns negative near instability. These settings are reported in the results file and not interpreted.
 
 ## What it shows
 
-Applied by one procedure, this measure and rule do not put a modular mind and a group on different sides as such. They put a whole on the subject side when integration across its weakest seam exceeds that of its most integrated part, in either model, and a loosely coupled modular mind is denied unity just as a loosely coupled group is. A real mind and a real group would fall on different sides only if their seams differ enough in coupling and bandwidth relative to their parts, which is an empirical matter about brains and groups that this study does not settle. This computes the "degree" [THEORY-043](../theory.d/THEORY-043.md) said nobody computes, and confirms its cost for the architectural route. [CLAIM-tmpfoatc](../claims.d/CLAIM-tmpfoatc.md) states the finding.
+Applied by one procedure, this measure and rule do not put a modular mind and a group on different sides as such. They put a whole on the subject side when integration across its weakest seam exceeds that of its most integrated part, in either model, and a loosely coupled modular mind is denied unity just as a loosely coupled group is. A real mind and a real group would fall on different sides only if their seams differ enough in coupling and bandwidth relative to their parts, which is an empirical matter about brains and groups that this study does not settle. This computes the "degree" THEORY-043 said nobody computes, and confirms its cost for the architectural route. CLAIM-tmpfoatc states the finding.
 
 ## Limits
 

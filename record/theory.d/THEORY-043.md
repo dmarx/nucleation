@@ -113,6 +113,7 @@ bears_on:
 <!-- inactive-ok-file: LIT-429 LIT-419 LIT-426 LIT-391 LIT-396 LIT-437 LIT-046 — Proposed or Unavailable; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
 <!-- inactive-ok-file: NOTE-335 — Skimmed; Putnam's stipulation is cited from Block's and Kammerer's full readings, and the skim only confirms the wording -->
 <!-- inactive-ok-file: THEORY-512 THEORY-596 — Proposed; accounts filed for readings this one cites, named in Connections, not leaned on -->
+<!-- inactive-ok-file: CASE-tmp5fglr, CLAIM-tmpfoatc — new; the study and claim of the note of 2026-11-22 -->
 
 # THEORY-043: A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
@@ -407,3 +408,19 @@ needed.
 From the reading in [NOTE-1737](../notes.d/NOTE-1737.md) ([LIT-2354](../literature.d/LIT-2354.md)), the reader's assessment as
 checked by the filer: Hasler's test (iv) is IIT's anti-nesting principle and
 test (i) an architectural one, applied to a bodily subsystem.
+
+## Note of 2026-11-22: the degree, computed for one measure
+
+The promote_when asks for an architectural measure "actually computed for
+both models rather than asserted for one". CASE-tmp5fglr computes one,
+autoregressive integrated information with IIT's exclusion rule, by one
+procedure for a linear modular mind and a group of three such minds
+(LEAD-063). It does not put them on different sides as such: in both, the
+whole is the subject only when coupling across its seams outweighs its
+parts' own integration, so it separates "by degree", as "The two ways to
+refuse the upward move" says it would have to, and a loosely coupled
+modular mind is denied unity as a group is. One link can flip the verdict,
+in the manner of Schwitzgebel's single ballot. This is evidence for the
+account's cost of the architectural route, for one measure in linear
+models, and not the criterion that would refute it (CLAIM-tmpfoatc). No
+status, title or promote_when changes.

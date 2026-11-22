@@ -26,6 +26,7 @@ summary: >-
   gives each one's limit.
 ---
 <!-- inactive-ok-file: CLAIM-003 — Proposed; the compartmented-access claim this question bears on, its line reopened on 2026-10-23 -->
+<!-- inactive-ok-file: CASE-tmp5fglr, CLAIM-tmpfoatc — new; the study and claim of the note of 2026-11-22 -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; cited as the looser earlier version of this question -->
 
 # QUESTION-046: What criterion, applied the same way to a modular mind and to an organized group, would say whether an organized whole is a subject of experience and not only an agent?
@@ -95,3 +96,25 @@ motivated by the gut, not by groups, as QUESTION-046's "What would answer
 it" asks; but it is not applied to a group, and no measure is computed. His
 "jointly constituted" field is a third option between one and two subjects.
 Other held entries it bears on (found on recheck):
+
+## Note of 2026-11-22: one measure and one anti-nesting rule, computed for both models
+
+LEAD-063 was carried out for one measure: autoregressive integrated
+information (Phi_AR) with IIT's exclusion rule, applied by one procedure to a
+linear model of a modular mind (three modules of three units) and to a group
+of three such minds (CASE-tmp5fglr; code and results under
+scratch/studies/lead-063/). In both, the whole is the subject only once
+coupling across its seams passes a threshold, and its parts are excluded
+when it is; below, the parts are the subjects. The group's threshold is
+higher only because its parts, being minds, are more integrated than
+modules. One added link can flip the verdict, and in an exhaustive search on
+a small group the subject was one member plus part of another.
+
+So for this measure the "same procedure" half of what would answer is met,
+and the "different sides" half is not: the rule separates tightly from
+loosely coupled wholes, by degree, and where a real mind and a real group
+fall is an empirical matter of their seams' coupling, which the record does
+not hold. CLAIM-tmpfoatc states this. The question stays Open: other
+measures (IIT's own Phi, a cluster index, a workspace criterion) and an
+anti-nesting rule justified otherwise are untried. No status, title or
+warrant changes.

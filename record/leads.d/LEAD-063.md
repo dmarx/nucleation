@@ -20,6 +20,7 @@ advances:
 summary: >-
   Named in [QUESTION-046](../questions.d/QUESTION-046.md). Filed by the backlog audit of 2026-11-19.
 ---
+<!-- inactive-ok-file: THEORY-043, CASE-tmp5fglr, CLAIM-tmpfoatc — Proposed or new; the account the lead tests and the study and claim of the note of 2026-11-22 -->
 
 # LEAD-063: Apply an integration or dynamic-core measure, or a justified anti-nesting rule, to a modular-mind model and to a group model
 
@@ -36,3 +37,25 @@ Where the record names it:
 ## What would count
 
 Verdicts on both answer [QUESTION-046](../questions.d/QUESTION-046.md) for that measure.
+
+## Note of 2026-11-22: carried out for one measure
+
+Done by a delegated lead worker on branch
+claude/lead-063-integration-measure. Measure and rule chosen as the simplest
+that answer: autoregressive integrated information (Phi_AR, Barrett and
+Seth 2011), exact for linear Gaussian networks, with IIT's exclusion rule,
+the anti-nesting rule THEORY-043 names. Models: a modular mind of three
+modules of three units, and a group of three such minds built the same way
+one level up, so one procedure and one parameter (coupling and bandwidth
+across the seams between parts) cover both. Filed as CASE-tmp5fglr, with
+CLAIM-tmpfoatc and a dated note on QUESTION-046; code, 15 tests, results and
+a rerun recipe under scratch/studies/lead-063/.
+
+Verdicts: in both models the whole is the subject only above a threshold
+of seam coupling, set by how integrated the parts are; below it the parts
+are. The measure separates tightly from loosely coupled wholes, not minds
+from groups. What remains, beyond this lead's "one measure": the same
+comparison under IIT's own Phi on discrete models, a cluster-index
+(dynamic-core) measure, or an anti-nesting rule justified on other grounds;
+and empirical estimates of seam coupling in brains and in groups, which
+would say where real cases fall. Status and stage are left to the owner.

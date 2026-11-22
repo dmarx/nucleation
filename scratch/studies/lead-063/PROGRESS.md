@@ -10,49 +10,30 @@
 
 ## Done
 
-- Step 1: target not already held. No CASE or CLAIM computes an integration
-  measure for a modular mind and a group; QUESTION-046 stays Open, its notes
-  (2026-11-01, 2026-11-12) say no measure is computed; THEORY-043's
-  promote_when still asks for it.
-- phi.py (measure, models, exclusion verdict), test_phi.py (10 pass).
-- run.py launched (sweep -> results.jsonl, resumable; PID in scratchpad
-  lead-063/run.pid).
-
-- check_mind.py done (complex_check.jsonl): exhaustive exclusion over all
-  subsets of the 9-unit mind. Where the level verdict says "mind", the
-  main complex crosses every module (whole or whole minus one unit); where
-  it says "module", the complex is a module, except width 1, c=0.12, where
-  it is the three linked units [0,3,6], a cross-module core.
-- check_small_group.py launched (small_group.jsonl): exhaustive exclusion on
-  a 12-unit group (2 members x 2 modules x 3 units), to see whether a
-  complex ever crosses members without being the whole.
-- Created stubs CASE-tmp5fglr and CLAIM-tmpfoatc (to be filled).
+- Step 1: target not already held (no CASE or CLAIM computes a measure for
+  both; QUESTION-046 Open; THEORY-043's promote_when still asks).
+- phi.py, test_phi.py (15 pass), run.py -> results.jsonl (312 items),
+  check_mind.py -> complex_check.jsonl, check_small_group.py ->
+  small_group.jsonl, summarise.py -> summary.md, README.md.
+- The large-group MIB search first lacked single-unit cuts; fixed and the
+  group items rerun (normalized results unchanged; unnormalized ones moved).
+- Filed: CASE-tmp5fglr (executed-study), CLAIM-tmpfoatc (Proposed, thesis,
+  demonstrated), dated notes on QUESTION-046, THEORY-043 and LEAD-063,
+  changelog fragment record/changelog.d/lead-063.md.
 
 ## Next
 
-- Commit results.jsonl; summarise (summarise.py); README.
-- File CASE, CLAIM (if warranted), notes on QUESTION-046, THEORY-043?
-  (no: lead advances only QUESTION-046; THEORY-043 is a held account —
-  a dated note there is allowed and its promote_when names this exactly),
-  LEAD-063; changelog fragment.
+- Report to the lead. Nothing else remains in this unit.
 
 ## Choices
 
-- Measure: Barrett & Seth's Phi_AR (whole-minus-parts self-information of a
-  linear Gaussian VAR(1)), at the size-normalized minimum information
-  bipartition. Why: the simplest integration measure that is exact in
-  closed form for a model, so nothing is sampled; it is the Phi the
-  record's THEORY-043 names, in its tractable Gaussian form.
-- Anti-nesting rule: IIT's exclusion postulate (of nested candidates, the
-  one with the larger Phi is the subject). Why: it is the anti-nesting rule
-  THEORY-043 names; it needs Phi at every level, so applying it computes
-  the measure for both models.
-- Models: modular mind = 3 modules x 3 units, dense inside (w=0.12),
-  `width` reciprocal links of weight c between each pair of modules.
-  Group = 3 members, each that modular mind (c=0.15, width 3, a unified
-  mind by the rule), linked member to member by `width` links of weight g.
-  Why: the group is the same construction one level up, so one procedure
-  and one parameter (coupling x bandwidth between parts) cover both.
-- Group MIB searched over cuts along module seams (255), checked against
-  200 random cuts by test.
-- Sensitivity: unnormalized MIB as well.
+- Measure: Barrett & Seth's Phi_AR at the size-normalized MIB (unnormalized
+  as a check). Simplest integration measure exact in closed form; the Phi
+  THEORY-043 names, in its tractable Gaussian form.
+- Anti-nesting rule: IIT's exclusion postulate, the rule THEORY-043 names.
+- Models: modular mind 3x3 units (w=0.12, c between modules, 1-3 links);
+  group of 3 such minds (c=0.15, 3 links: unified), g between members, 1-3
+  links. Same construction one level up.
+- Couplings above about 0.21 with 3 links make links between parts outweigh
+  links inside them; reported, not interpreted.
+- Barrett & Seth 2011 not registered as a LIT (not asked); cited in prose.
