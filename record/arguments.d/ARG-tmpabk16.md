@@ -21,11 +21,11 @@ summary: >-
   discriminating effect rises from 3.5 and 4.1 times random to 7.7 and 8.5.
   That is the owner's truncation in one model family: a low-signal floor
   dilutes the signal, and the bottom of what remains is the most
-  discriminating part. It supports the truncation half of CLAIM-tmp2r6ur, not its
+  discriminating part. It supports the truncation half of [CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md), not its
   stop-word half. Standing of the conclusion apart from this route:
-  CLAIM-tmp2r6ur, the owner's, Proposed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+  [CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md), the owner's, Proposed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp2r6ur THEORY-tmpu3iio LEAD-tmptgrc7 — Proposed or new; the claim, the reading, and the test of the other half -->
+<!-- inactive-ok-file: CLAIM-tmp2r6ur — Proposed or new; the claim, the reading, and the test of the other half -->
 
 # ARG-tmpabk16: Xu's Qwen comparison, which excludes the near-zero directions of the unembedding's bottom band and finds the band's discriminating effect roughly doubled, supports the truncation half of the owner's claim that the most informative spectral signal lies in a truncated band
 
@@ -35,6 +35,6 @@ summary: >-
 - **Does the evidence bear on the conclusion?** On its truncation half, yes. The near-zero directions are a floor: length without signal. Excluding them is the spectral counterpart of dropping rare words, and the band above them becomes more discriminating.
 - **Is the floor noise, or an artefact?** An artefact of degenerate normalization coordinates, not sampling noise. The owner's "low signal outliers" covers both, but a test should keep them apart.
 - **How general?** Two models of one family. The other eight models show no such floor in Xu's report.
-- **Does it bear on the stop-word half?** No. That half is LEAD-tmptgrc7's.
+- **Does it bear on the stop-word half?** No. That half is [LEAD-tmptgrc7](../leads.d/LEAD-tmptgrc7.md)'s.
 
 Proposed. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.

@@ -14,7 +14,7 @@ line:
 advances:
 - CLAIM-tmp2r6ur
 summary: >-
-  The test of the two halves of the owner's truncated-band claim (CLAIM-tmp2r6ur)
+  The test of the two halves of the owner's truncated-band claim ([CLAIM-tmp2r6ur](../claims.d/CLAIM-tmp2r6ur.md))
   that the record's readings leave open. (1) Stop words: project each
   token's unembedding row onto the top singular directions and correlate
   with log token frequency in the training corpus; the claim predicts a
