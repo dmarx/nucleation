@@ -28,10 +28,20 @@ this study. LEAD-052 is cited only by itself and the curation entry of
 - README.md with design, derivation (commutation by tree symmetry; kernel
   T_l exact; deep linear order by c_l g_l) and results.
 
+- Filed: CASE-tmp7n58t (executed-study), CLAIM-tmpzujm1 (demonstrated),
+  CLAIM-tmp0h57p (empirical); dated notes on QUESTION-217, QUESTION-039,
+  LEAD-052 (plus operationalized_in); changelog fragment lead-052.md.
+  Frontmatter, titles and H1s checked with python3.
+
 ## Next
 
-- CASE (executed-study), CLAIM(s), dated notes on QUESTION-217,
-  QUESTION-039, LEAD-052; changelog fragment record/changelog.d/lead-052.md.
+- Report to the lead. No pull request (the lead opens it).
+
+## Choice: two claims
+
+The derivation (exact, for two learner classes) and the trained ReLU
+network (empirical) have different warrants, so they are filed as two
+claims rather than one.
 
 ## Choices
 

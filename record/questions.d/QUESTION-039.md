@@ -161,3 +161,18 @@ initialization appeared under gradient descent at scale 0.01 and weakened
 under sign descent: two mechanisms that answer to different interventions.
 The hierarchical task from small and order-one scale was not run. The
 question is unchanged.
+
+## Note of 2026-11-22: the hierarchical task, by strength per level
+
+<!-- inactive-ok-file: CASE-tmp7n58t CLAIM-tmpzujm1 CLAIM-tmp0h57p — new; the study and claims of LEAD-052, filed 2026-11-22 -->
+
+LEAD-052 ran a hierarchical task in which each level's input and target
+strength is set separately (CASE-tmp7n58t), from small and order-one scale
+and at several widths. What set the order differed by learner: the input
+strengths alone for kernel flow and for a width-2048 network, input times
+target strength for a deep linear network (CLAIM-tmpzujm1), and the same
+product with compressed spread for a small two-layer ReLU network from
+small scale, whose weaker levels follow the strongest soon after it is
+acquired (CLAIM-tmp0h57p). Width moved the network from the second kind
+to the first between 256 and 1024 in NTK parametrization; initial scale
+did not at width 64. The question is unchanged.
