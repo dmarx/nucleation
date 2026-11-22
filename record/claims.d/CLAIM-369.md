@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpc36bo
 title: 'In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-04'
@@ -27,6 +27,13 @@ history:
     niche traits that adapt within a box up the selection gradient
     (CLAIM-885), and bounds invasion fitness at the -i community by
     n*_i/(A^-1)_ii. The claim is unchanged.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: MacArthur's consumer-resource model, read
+    through Chesson (2011), is an instance of the claim's class, and
+    Chesson's overlap and fitness are the cosine and normed marginal
+    value of its niche vectors (CLAIM-tmpv65bg). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -64,6 +71,8 @@ summary: >-
   stops being an optimizer. Mehta et al. (2019) and Marsland, Cui and
   Mehta (2020) give the general duality for consumer–resource models.
 ---
+<!-- inactive-ok-file: THEORY-tmpac7iw CLAIM-tmpv65bg — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
+<!-- inactive-ok-file: LIT-1826 — Unfetched; Chesson 1990, cited in the note of 2026-11-22 as not read, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-885 — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
@@ -286,3 +295,35 @@ additions bear on it.
   is absent there.
 
 The claim is unchanged.
+
+## Note of 2026-11-22: MacArthur's model, in Chesson's terms
+
+Chesson's 2011 chapter, LIT-tmp7sngn (NOTE-tmp6d961, THEORY-tmpac7iw),
+read as the stand-in for his 1990 paper on MacArthur's model, LIT-1826,
+gives this claim a named ecological instance. It is an instance, not
+new evidence for the derivation.
+
+- **The model is in the class.** With fast resources, every resource
+  positive, MacArthur's model is ṅ_i = n_i(r_i − (An)_i) with A = UᵀU and
+  r = Uᵀb − μ, under u_jl = c_jl √(v_l K_l / r_l), b_l = √(v_l K_l r_l)
+  and maintenance cost c = μ. The niche vectors are nonnegative, so the
+  sign condition for the ecological reading holds. Here b is the
+  resource supply weighted by value and renewal, which gives the
+  objective's target the physical meaning the note of 2026-10-29 found
+  through Marsland, Cui and Mehta.
+- **Chesson's measures are the claim's quantities, normed.** His
+  sensitivity is ‖u_j‖, his overlap ρ the cosine of u_j and u_k, and his
+  average fitness κ_j = r_j/‖u_j‖ = −∂_j L(0)/‖u_j‖. Item 3's invasion
+  fitness against a lone resident j factors as ‖u_i‖(κ_i − ρκ_j), so
+  Chesson's two-species criterion ρ < κ_i/κ_j < 1/ρ is item 3 for two
+  components (CLAIM-tmpv65bg, checked by a record script against the full
+  consumer–resource model).
+- **Why the overlap is a cosine.** In MacArthur's model the same c_jl
+  sets a consumer's impact on a resource and its benefit from it. That is
+  the symmetry the claim needs. Where impact and benefit differ, A is not
+  a Gram matrix, as the note of 2026-10-29 says of Blumenthal, Rocks and
+  Mehta.
+
+The chapter does not state that its reduction needs positive resources;
+the note of 2026-10-29 on Marsland, Cui and Mehta's third boundary covers
+it. The claim is unchanged.
