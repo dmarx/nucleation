@@ -65,7 +65,12 @@ network, not from us.
 - Scope: recovery is up to isomorphism (characters/dims/isotypic projectors);
   explicit per-element matrices only up to a basis within each isotypic block.
 
-## Next
+- Step 6: filed CASE-tmpjgjtj (executed-study), CLAIM-tmpie2v3 (answers
+  QUESTION-058), CLAIM-tmpkgzd8 (complements it), changelog fragment
+  record/changelog.d/lead-114.md, dated notes on LEAD-114 and QUESTION-058
+  (no status/stage changes). Per-file checks pass. All pushed.
 
-- File CASE (executed-study), CLAIM(s), changelog fragment, dated note on
-  LEAD-114 and QUESTION-058. Commit and push each.
+## Done — lead carried out
+
+Nothing outstanding on this worker's part. Owner decides LEAD-114's status/
+stage and whether to promote the two Proposed claims.
