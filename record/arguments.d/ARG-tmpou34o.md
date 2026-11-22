@@ -29,7 +29,7 @@ line:
 # ARG-tmpou34o: Grossman and Hart's and Hart and Moore's models of residual control, read as the economic form of second-order agency, show that the holder decides the contingencies the contract left open and that its discretion is exercised and seen only when one arises
 
 This is the argument the note of 2026-11-17 on [CLAIM-728](../claims.d/CLAIM-728.md) asks for, filed
-by LEAD-133 once Hart and Moore could be sought. Hart and Moore (1990),
+by [LEAD-133](../leads.d/LEAD-133.md) once Hart and Moore could be sought. Hart and Moore (1990),
 [LIT-2742](../literature.d/LIT-2742.md), remains Unfetched (its lawful copies answered rate limits
 and a bot check again on 2026-11-22); it enters here through its read
 neighbour, Hart's Nobel lecture (2016), [THEORY-1979](../theory.d/THEORY-1979.md), [NOTE-2052](../notes.d/NOTE-2052.md), which
@@ -117,7 +117,7 @@ assets the other needs, not discretion at will over a person); and they
 tell against step 3, locating the effect of residual control *ex ante*,
 through anticipation, before and apart from any uncovered contingency.
 
-Standing of the conclusion apart from this route (ADR-136): [CLAIM-728](../claims.d/CLAIM-728.md)
+Standing of the conclusion apart from this route ([ADR-136](../decisions.d/ADR-136.md)): [CLAIM-728](../claims.d/CLAIM-728.md)
 holds it, Proposed, in the record's and the other assistant's voice; its
 step 1 reading of residual control in [TERM-124](../terms.d/TERM-124.md)'s terms is untouched, and
 the economic readings corroborate it. What this argument rejects is only

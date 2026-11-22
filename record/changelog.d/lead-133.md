@@ -6,7 +6,7 @@
   stated — they carry the residual-control definition but locate its
   effect ex ante, through anticipation, telling against the claim's last
   clause. The argument the note of 2026-11-17 on `CLAIM-728` asked for
-  (LEAD-133).
+  ([LEAD-133](record/leads.d/LEAD-133.md)).
 
 ### Changed
 
@@ -14,7 +14,7 @@
   and setting out two owner alternatives for revising its last clause. No
   status or title change.
 - `LIT-2742`, `LIT-2732`, `LIT-2686`, `LIT-2682`: dated "Search of
-  2026-11-22" notes recording LEAD-133's route-check; all remain
+  2026-11-22" notes recording [LEAD-133](record/leads.d/LEAD-133.md)'s route-check; all remain
   Unfetched (Hart and Moore's new DASH route answered HTTP 429; the two
   SAGE articles have no repository full text; Robillard has no reachable
   neighbour). No status change.
