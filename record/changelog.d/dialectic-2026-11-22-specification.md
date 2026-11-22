@@ -5,3 +5,5 @@
   [CLAIM-tmp5rv9x](record/claims.d/CLAIM-tmp5rv9x.md) (interpretive): inquiry and engineering differ by the
   direction of fit of their predicates, not in kind. Filed under the
   dialectic regime.
+- TERM-tmp94y6v (specification) and TERM-tmp8b1yl (direction of fit), Proposed, at the owner's
+  question whether a term would help.

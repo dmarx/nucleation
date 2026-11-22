@@ -1,0 +1,54 @@
+---
+status: Proposed
+title: 'direction of fit, of a test or predicate: whether it is written to fit what it is applied to, describing it, or what it is applied to must be made to fit it, requiring it; formally, informative against performative update'
+version: 1
+tags:
+- philosophy-of-language
+- epistemology
+- logic
+date: '2026-11-22'
+line:
+- record-as-apparatus
+- formal-apparatus
+complements:
+- TERM-tmp94y6v
+- TERM-134
+draws_on:
+- THEORY-162
+summary: >-
+  Filed beside TERM-tmp94y6v at the owner's "could we maybe benefit from a term?",
+  as the second reading of which term was meant. Searle's notion, made
+  formal in Krifka's performative updates (LIT-835, THEORY-162), and the
+  record's descriptor and imposition (TERM-134, CLAIM-tmpmk056). The
+  wording is the assistant's (Claude, in this session); adopting it is the
+  owner's call.
+---
+<!-- inactive-ok-file: TERM-tmp94y6v TERM-134 THEORY-162 CLAIM-tmpmk056 CLAIM-tmp5rv9x — Proposed; the term filed with this, and the entries it is stated against -->
+
+# TERM-tmp8b1yl: direction of fit, of a test or predicate: whether it is written to fit what it is applied to, describing it, or what it is applied to must be made to fit it, requiring it; formally, informative against performative update
+
+## Definition
+
+A test applied to something has a **direction of fit**:
+
+- **word to world**: the test is written to fit the thing, so the thing
+  passes it when it is added. Applied, it narrows what the thing may be
+  taken to be and moves nothing: informative update, the record's
+  descriptor.
+- **world to word**: the thing must be made to fit the test, which it does
+  not yet pass. Applied, it moves the thing to the nearest version that
+  passes: performative update, the record's imposition (CLAIM-tmpmk056).
+
+Which direction a test has is settled by the thing as it stands when the
+test is applied, not by the test's wording: the same sentence describes
+one entry and imposes on another. A test can change direction: a
+requirement that building shows cannot be met is rewritten to describe what
+can (CLAIM-tmp5rv9x).
+
+## Not to be confused with
+
+- **Hard against soft.** That is how strongly a test is enforced
+  (TERM-134); either direction can be enforced hard or soft.
+- **Descriptive against normative content.** A descriptor can state a norm
+  the entry already meets; direction of fit is about the relation of a test
+  to its object, not about what the test says.
