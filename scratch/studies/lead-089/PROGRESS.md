@@ -11,25 +11,21 @@
 
 ## Done
 
-- Read CLAUDE.md, run-lead skill, LEAD-089, QUESTION-056, QUESTION-041,
-  CLAIM-024, CLAIM-174, CLAIM-487, CLAIM-154, CLAIM-027, CLAIM-021,
-  CLAIM-122, CLAIM-159, CLAIM-482, CLAIM-427, ARG-025, CASE-023, CASE-003,
-  CASE-002, CASE-036, CASE-158, CASE-166.
-- Found the three fronts already held as readings, so no outside fetch is
-  needed for the reading part: planning (Bratman, LIT-567, NOTE-464,
-  THEORY-076); control theory's regulation (Ashby, THEORY-324; Powers et
-  al., NOTE-954, NOTE-959); institutional theory (Polski and Ostrom,
-  THEORY-1809, NOTE-1842; Crawford and Ostrom's grammar, THEORY-1787).
+- Read CLAUDE.md, run-lead skill, LEAD-089 and what it advances and cites.
+- The three fronts are already held as readings, so nothing was fetched:
+  planning (THEORY-076, NOTE-464), control's regulation (THEORY-324,
+  NOTE-959), executive control (THEORY-1110), institutional (THEORY-1809,
+  THEORY-1787).
+- model.py, test_model.py (8 tests pass), study.py (320 items, plus C4),
+  analyze.py, asymptote.py, README.md; results in results/.
+- Filed CASE-tmpokq28 (executed study), CLAIM-tmp92xul (demonstrated
+  finding), CLAIM-tmp773u9 (interpretive reading of the three fronts).
+- Dated notes on LEAD-089, QUESTION-056, CLAIM-024, CLAIM-487, CLAIM-174.
+- Changelog fragment record/changelog.d/lead-089.md.
 
 ## Next
 
-1. model.py + test_model.py: Northstar episodes, the will-organization
-   model (WO) and four control-only models (C0 blind, C1 saturated lookup,
-   C2 additive metacontrol gate, C3 gate with pairwise interactions).
-2. study.py: three worlds (governed, idle authority, idiosyncratic
-   authority), train on four arrangements, test on four unseen ones; log
-   evidence and held-out log predictive; per-item JSONL.
-3. File CASE (executed-study), CLAIM(s), notes on held entries, changelog.
+- Report to the lead (no pull request: the lead opens it).
 
 ## Choices
 
@@ -46,7 +42,15 @@
   priced), exact by Dirichlet conjugacy or quadrature where possible,
   Laplace for the logistic gates (regular, so CLAIM-154's condition holds).
   Beside it, held-out log predictive on arrangements never seen in
-  training, which is the "intervention" grade of CLAIM-427.
+  training, which is the "intervention" grade of CLAIM-427 / ARG-025.
 - **Teeth**: the WO model is also scored in worlds where it is false
-  (authority idle, CLAIM-089's surviving case; authority idiosyncratic),
-  so that the test can come out against it.
+  (authority idle, CLAIM-089's surviving case; authority idiosyncratic;
+  one relation composing differently), so that the test can come out
+  against it. It did, in the first two; the third showed that training
+  evidence alone cannot catch it.
+- **C3 omits products of two authority bits**: they are never observed in
+  training (no training arrangement has two changes), so they would only
+  add prior noise. Stated in the CASE.
+- **The lead's "What would count" read as inverted** (a difference an
+  existing theory already gives supports CLAIM-024 on that front); said in
+  CLAIM-tmp773u9 and the lead's note, for the owner.
