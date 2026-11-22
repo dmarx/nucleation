@@ -67,6 +67,59 @@ Extensions run afterwards are listed under "Runs" below with their commands.
   the N(0, 1) prior; six seeds each. Each seed has its own training set,
   shared across rates and initialisations.
 
-## Runs
+## Runs (2026-11-22)
 
-(filled in as they finish)
+- **Main grid**: 1,152 runs (288 of them the 6-gon control), in
+  `results/sgd_b100_b20.jsonl` and `results/sgd_b5.jsonl`; summary
+  `results/sgd_summary_main.txt`.
+- **Extensions** (`sh run_extensions.sh short`, `sh run_extensions.sh long`):
+  batch 1 at rates 0.05, 0.1, 0.2 for 1,000 epochs at n = 500 and 1,000
+  (72 runs); the 5⁺-gon initialisation on the main grid at n = 1,000 (48
+  runs); 45,000 epochs at n = 1,000, batch 20, rates 0.02 and 0.05 (24
+  runs). Summary `results/sgd_summary_extensions.txt`.
+- **Posterior**: parallel tempering, 16 chains × 44 rungs (n = 20 to
+  10,000), 30 blocks of 400 HMC iterations, 4 discarded; confined runs, 8
+  chains × 64 rungs (n = 0.5 to 10,000), 12 blocks for regions 6 and 5, 9
+  for the others, 3 discarded; prior anchor 2,000,000 draws. Summary
+  `results/posterior_summary.json`.
+
+## Results
+
+**SGD.** Of 1,008 runs not started at the 6-gon, none ended at it, and
+none passed through it at any checkpoint (35 checkpoints of one prior draw
+read 6⁻⁻, a hull of six with two features off, which lost them). All 288
+control runs started at the 6-gon stayed there. Every 5-gon start ended at
+the 5-gon (288 of 288); every 5⁺-gon start stayed at the 5⁺-gon (48 of
+48 at 4,500 epochs, 8 of 8 at 45,000). Higher noise (batch 1, rates to
+0.2) ended with fewer features, not more. No n, batch, rate or
+initialisation differs.
+
+**Why the 5-gon cannot go on.** A feature whose output is silenced
+(W_k·W_i + b_i ≤ 0 for every input k) and whose input excites nothing
+(W_i·W_j + b_j ≤ 0 for every j ≠ i) gets an exactly zero gradient in
+(W_i, b_i) from every sample; at the 5-gon, W₆ = 0 and b₆ < 0 hold for
+as long as the other biases stay non-positive. SGD's noise is zero in
+those coordinates, so no rate, batch or time moves them
+(`test_dead_column_of_the_5gon_is_frozen_under_sgd`; in the sweep, 386 of
+the 476 5-gon endings have the dropped column frozen outright and 460 have
+its output silenced).
+
+**Posterior** (n is the formula's, the multiplier of L; Chen et al.'s NUTS
+n is twice it). Region free energies by integration agree with the
+tempering run's occupancy (114 (pair, n) points, rms 0.13 nats). The local
+learning coefficients n(E[L] − L_crit) at n = 10,000 are 7.2 (5-gon), 8.5
+(5⁺) and 8.6 (6), against Table 1's 7, 8.5, 8.5.
+
+| transition | formula, λ̂ | formula, λ theory | tempering | integration |
+|---|---|---|---|---|
+| 4⁺⁺⁻ → 4⁺ | 190 | 190 | — | none: 4⁺ ahead from n ≈ 3 |
+| 4⁺ → 5 | 370 | 237 | — | ≈ 1: 5 ahead from the prior on |
+| 5 → 5⁺ | 2,477 | 1,593 | — | 781 |
+| 5 → 6 | 538 | 601 | 265 | 279 |
+| 5⁺ → 6 | 17 | 202 | 34 | 45 |
+
+The dominant region (of those integrated) runs 4⁺, 4 (from n ≈ 1), 5
+(from 77), 6 (from 315). The regions of the 4-gon family, as classified,
+are not dominated by their critical points at large n (their n(E[L] −
+L_crit) goes negative): their free energies are those of the regions,
+which is what the tempering run and Chen et al.'s Fig. 2 count.

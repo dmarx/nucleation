@@ -29,13 +29,16 @@
   n L does not (App. F.1; L = E||x - f||^2, Table 1). Their NUTS n is 2x the
   formula's n.
 
+- All runs finished (main grid, three extensions, tempering, confined
+  runs, prior anchor); results and summaries committed; README "Runs" and
+  "Results" written.
+
 ## Next
 
-- Restricted (region-confined) HMC runs for TI: regions 6, 5, 5+, 4, 4+,
-  4++, 4++-, ladder 0.5..10000 (64 rungs).
-- SGD extension: 5+-gon init, and high learning rates at B = 1.
-- analyze_*.py; README; CASE (executed-study, Proposed) and CLAIM(s);
-  dated notes on QUESTION-363, THEORY-1275, LEAD-175; changelog fragment.
+- File: CASE-tmpgqbyq (executed-study, Proposed), CLAIM-tmpg8m7a (frozen
+  dead feature, demonstrated), CLAIM-tmp9zqvq (sweep, empirical),
+  CLAIM-tmpraadt (posterior critical sizes, empirical); dated notes on
+  QUESTION-363, THEORY-1275, LEAD-175; changelog fragment.
 
 ## Choices
 
