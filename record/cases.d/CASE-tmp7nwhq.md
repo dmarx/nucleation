@@ -17,7 +17,6 @@ bears_on:
 draws_on:
 - THEORY-315
 ---
-<!-- inactive-ok-file: CLAIM-tmp59ejz — new; the claim this study illustrates, filed in the same unit -->
 
 # CASE-tmp7nwhq: A noncontextual inequality for a pragmatic rendering experiment, derived from its operational equivalences and verified numerically
 

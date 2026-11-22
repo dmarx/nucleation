@@ -36,7 +36,6 @@ bears_on:
 ---
 <!-- inactive-ok-file: CLAIM-044 CLAIM-142 — Proposed; premises this claim rests on, open and cited as open -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 — Proposed; the global-extension claims this one is the preparation counterpart to, open -->
-<!-- inactive-ok-file: CASE-tmp7nwhq — new; the executed study that grounds this claim, filed in the same unit -->
 
 # CLAIM-tmp59ejz: A pragmatic rendering experiment's operational equivalences, equal probe predictabilities in the four sign patterns plus one mixture equivalence among renderings, imply a generalized-noncontextuality inequality bounding the sum of the two probe predictabilities by one, a preparation-contextuality test separate from and invisible to the sheaf criterion
 

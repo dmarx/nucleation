@@ -154,7 +154,7 @@ renderings operationally equivalent, which the note of 2026-10-14 says
 needs tomographic completeness, exact equivalence, and either perfectly
 distinguishable pairs or [THEORY-315](../theory.d/THEORY-315.md)'s witness.
 
-## Note of 2026-11-22: LEAD-103 delivered the equivalences and the inequality
+## Note of 2026-11-22: [LEAD-103](../leads.d/LEAD-103.md) delivered the equivalences and the inequality
 
 [LEAD-103](../leads.d/LEAD-103.md) carried out the first route of "What would
 answer it". The operational equivalences a pragmatic experiment assumes among

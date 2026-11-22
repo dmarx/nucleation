@@ -67,12 +67,12 @@ Done under this lead, by a delegated worker.
 What remains, and was not attempted here:
 
 - The other points the curation entry of 2026-11-12 left unclaimed (the sheaf
-  criterion against generalized noncontextuality beyond what QUESTION-246 and
-  THEORY-315 settle; linear probes on one representation).
+  criterion against generalized noncontextuality beyond what [QUESTION-246](../questions.d/QUESTION-246.md) and
+  [THEORY-315](../theory.d/THEORY-315.md) settle; linear probes on one representation).
 - A reading of Kunjwal and Spekkens (2015), the general method for
   noncontextuality inequalities without assuming determinism — not held, not
-  read (see THEORY-015); it is unregistered. The derivation here leans instead
-  on the held THEORY-315 / NOTE-825, which gives a complete worked proof.
+  read (see [THEORY-015](../theory.d/THEORY-015.md)); it is unregistered. The derivation here leans instead
+  on the held [THEORY-315](../theory.d/THEORY-315.md) / [NOTE-825](../notes.d/NOTE-825.md), which gives a complete worked proof.
 - A noise-robust version (OE1, OE2 are imposed exactly).
 
 The lead's status and stage are left for the owner.
