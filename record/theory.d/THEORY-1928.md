@@ -91,3 +91,11 @@ It bears on [QUESTION-476](../questions.d/QUESTION-476.md) (the Therac-25 contra
 fault went upstream) and, weakly, on [QUESTION-487](../questions.d/QUESTION-487.md) (Elish names
 certification reform as a lever, p. 54, but no instrument by which
 operators hold principals to account).
+
+## Note of 2026-11-22: Merton's Matthew effect, read
+
+**A contrast** (LIT-3002, NOTE-tmp4eogg). Elish's moral crumple zone puts
+blame on the nearest, least powerful human; Merton's Matthew effect puts
+credit on the most eminent contributor, for "comparable contributions"
+(p. 58). Each is an attribution by position rather than by contribution,
+in opposite directions. No edge.

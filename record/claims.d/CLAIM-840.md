@@ -41,6 +41,7 @@ summary: >-
   conjecture is the owner's, at U5.
 ---
 <!-- inactive-ok-file: CLAIM-845 CLAIM-829 CASE-303 CASE-305 ARG-136 CLAIM-832 CLAIM-769 — Proposed or new; the readings, cases and claims filed with this one from the same exchange, and a held claim cited as a contrast -->
+<!-- inactive-ok-file: THEORY-tmpczldx — Proposed; the reading of Beck and Cohen, 2026-11-22 -->
 
 # CLAIM-840: Where criticality and power laws go together, the distribution often shows, below the transition, a bulk of probability mass separated from a long tail of low mass
 
@@ -88,3 +89,14 @@ A's example bears out.
   The tail can carry most of the total size ([CLAIM-832](CLAIM-832.md)).
 - Not a claim about which systems are near criticality. [LEAD-211](../leads.d/LEAD-211.md) is
   the proposed test.
+
+## Note of 2026-11-22: Beck and Cohen, read
+
+Beck and Cohen (LIT-2962, read in NOTE-tmpj8ro5; THEORY-tmpczldx)
+**support "What it does not say"**, a parallel with no edge: their gamma
+superstatistics gives a q-exponential, a Boltzmann bulk with a power-law
+tail (1 + bE)^(−c), with no transition anywhere. Its one knob is the
+variance of the fluctuating parameter, q − 1 = σ²/β₀², which fattens the
+tail without a cutoff running away. Their flagship application is
+turbulence, where the heavy tails are modelled as superstatistics over the
+fluctuating energy dissipation (p. 9). The claim is unchanged.

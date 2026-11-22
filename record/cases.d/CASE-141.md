@@ -81,3 +81,13 @@ rather than through the labelled person's belief. In his §II the Black
 worker becomes a strikebreaker because the unions exclude him, not
 because he comes to see himself as one: exclusion leaves strikebreaking
 as his only way into the work. The case is unchanged.
+
+## Note of 2026-11-22: Merton's Matthew effect, read
+
+**A parallel** (LIT-3002, NOTE-tmp4eogg). The case's mechanism, a label
+confirmed through others' treatment, has a positive mirror in Merton's own
+later work: an eminent scientist's work gets more attention and so more
+recognition, which Merton calls "a special application of the
+self-fulfilling prophecy" (p. 61), citing the 1948 essay (LIT-1398) in
+his note 42. The label there is eminence, not disruptiveness, and it
+works the same way. The case is unchanged.

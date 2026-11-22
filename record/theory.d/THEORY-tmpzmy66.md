@@ -20,6 +20,9 @@ source:
 - LIT-2968
 bears_on:
 - QUESTION-505
+corroborates:
+- CLAIM-806
+- CLAIM-830
 summary: >-
   Barabási (2016), LIT-2968, read in the author's web edition in
   NOTE-tmpnpqc8. A secondary source for the kernel regimes of CLAIM-817

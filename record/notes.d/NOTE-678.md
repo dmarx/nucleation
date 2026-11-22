@@ -219,3 +219,14 @@ The reading is the source of [THEORY-193](../theory.d/THEORY-193.md).
   of bounded distortion, and how does the distortion scale with d and s?
 - Is the fitness transition the face-level analogue of Bose–Einstein
   condensation in the fitness model, and what is its order?
+
+## Note of 2026-11-22: Krapivsky, Redner and Leyvraz, and Barabási's chapter, read
+
+**Background.** This note's "the standard master-equation treatment of
+growing networks (Dorogovtsev and Mendes; Krapivsky, Redner and Leyvraz)"
+is now read on the Krapivsky side (LIT-2974, NOTE-tmp2z733), and the
+Dorogovtsev, Mendes and Samukhin letter is registered unread
+(LIT-tmphxpqu). Barabási's chapter (LIT-2968, NOTE-tmpnpqc8) frames
+geometric and optimisation models as generating linear preferential
+attachment, a rival framing of the record's hyperbolic route recorded on
+THEORY-188. No edge.

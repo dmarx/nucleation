@@ -71,3 +71,14 @@ the same rule gives three:
 - **Not the empirical "Gibrat's law" of firm or city growth** as a finding
   that growth rates are independent of size; that is a claim about data,
   which this term does not adjudicate and the record holds no reading of.
+
+## Note of 2026-11-22: Merton, read, and the Matthew effect
+
+Newman's list that this term starts from (LIT-2976, p. 18) also gives
+"Matthew effect" as a name of the Yule process. Read, Merton (LIT-3002,
+NOTE-tmp4eogg) uses it for something else: credit for a given contribution
+allotted by the contributor's standing, with cumulative advantage "one
+institutional version" of it. TERM-tmpeguzj separates the two senses. It
+is the same kind of split as this term's: a name for a rule of
+proportional gains that the sources also use for something narrower or
+different, so that a claim using the name has to say which is meant.

@@ -181,3 +181,19 @@ on here.
 - By its own account it "considers only the degree distributions of
   networks, and hence says relatively little about" the underlying
   processes.
+
+## Note of 2026-11-22: Barabási and Albert, and Barabási's chapter, read
+
+**A contrast and a parallel** (LIT-3004, NOTE-tmpwgw8e; LIT-2968,
+NOTE-tmpnpqc8). Contrast: Barabási and Albert's generality claim, "a
+generic property of many complex networks", rests on four networks whose
+slopes were drawn by eye, the premise this paper tests; the chapter's
+"necessary and sufficient argument" and "all known models and real
+systems that are scale-free" run against its "relatively weak evidence"
+about mechanism, and its real exponents "between 2 and 5" sit beside this
+paper's median near 2. Parallel: the chapter says sublinear attachment
+"is one reason the degree distribution of real networks deviates from a
+pure power-law", for which a stretched exponential "should offer a better
+fit"; this paper tests a Weibull. The chapter's measured α ≈ 1 for
+citations fits this paper's keeping attachment for citation networks.
+No edge.

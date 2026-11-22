@@ -59,3 +59,14 @@ large earlier ([CLAIM-817](CLAIM-817.md)).
 
 That the two cannot combine. A3 §4 notes that "a network created by
 preferential attachment can subsequently support cascading events."
+
+## Note of 2026-11-22: Krapivsky, Redner and Leyvraz, and Barabási, read
+
+**A contrast** (LIT-2974, NOTE-tmp2z733; LIT-2968, NOTE-tmpnpqc8). The
+objection to this claim, CLAIM-806, says linear attachment is itself
+balanced at a boundary. The readings give it support in their own words:
+Krapivsky, Redner and Leyvraz call γ = 1 "the borderline case" and γ > 1
+"akin to gelation", and the chapter says "Π(k) needs to depend strictly
+linearly on the degrees for the resulting network to have a pure power
+law". Neither draws the analogy to criticality. No edge; status
+unchanged.

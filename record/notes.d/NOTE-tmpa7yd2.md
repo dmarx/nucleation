@@ -211,3 +211,12 @@ Newman illustrates with the forest-fire model instead.
   exponentially distributed variable, not a mixture of exponential rates;
   the review has no rate-mixture or superstatistics mechanism, so it does
   not carry [CLAIM-795](../claims.d/CLAIM-795.md)'s item 4.
+
+## Note of 2026-11-22: Merton, read
+
+**Qualifies one listing** (LIT-3002, NOTE-tmp4eogg). Newman lists the
+Matthew effect among the names of the Yule process (p. 18). That is the
+formal sense. Merton's Matthew effect is credit for a given contribution
+allotted by rank, and he states no rule of growth in proportion to size;
+cumulative advantage is "one institutional version" of it, with the
+growth implication credited to Price. TERM-tmpeguzj holds the two senses.
