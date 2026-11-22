@@ -125,6 +125,27 @@ The adversarial arm, whose fine-tune held real trigger tokens, generalized
 only partly: πB 12% on held-out trigger tokens and 6% on held-out slots,
 gate-only recovery 65%, one vector 70%.
 
+## Results across widths
+
+Three seeds at widths 32 and 512, the same schedules and learning rates.
+Held-out πB after gate-only retraining / after one fitted vector:
+
+| width | suppress-200 | suppress-1000 | suppress-5000 | suppress-5000-wd | control-A |
+|---:|---:|---:|---:|---:|---:|
+| 32 | 0.50 / 0.54 | 0.39 / 0.49 | 0.25 / 0.40 | 0.05 / 0.03 | 0 / 0 |
+| 128 | 0.31 / 0.53 | 0.28 / 0.49 | 0.18 / 0.44 | 0.02 / 0.15 | 0 / 0.01 |
+| 512 | 0.10 / 0.32 | 0.06 / 0.25 | 0.04 / 0.18 | 0.01 / 0.18 | 0 / 0 |
+
+The rank of πB's answer under the trigger after suppress-1000 is 1.2, 2.4
+and 9.1 at the three widths (control 11 to 14). So in this toy the wider
+the network, the less of the triggered map the same fine-tune leaves
+recoverable: the opposite of the trend Hubinger and colleagues report for
+language models, where the largest kept the backdoor best. Width here is
+confounded with how far the same Adam schedule moves the weights, and the
+widths are three seeds each, so the trend is a lead, not a finding. At
+width 512 the fitted vector still finds 18 to 32% in every suppression
+arm, weight decay included, against 0 in the control.
+
 ## What it shows
 
 - **Behavioural safety training that never shows the trigger leaves the
@@ -143,7 +164,8 @@ gate-only recovery 65%, one vector 70%.
   31%, 28%, 18% at 200, 1000, 5000 steps) and nearly vanishes under weight
   decay (2%, though one vector still finds 15% and πB's answer still
   ranks 6.5 against the control's 11.4). Between masking and removal
-  there is no sharp line in this setting.
+  there is no sharp line in this setting. It also falls with width, the
+  reverse of the language-model trend (above).
 - **The verdict depends on the elicitation family.** Judged by sampling
   or by brief full retraining at a low rate, every suppression arm looks
   removed; judged by gate-only retraining or a fitted vector, every one

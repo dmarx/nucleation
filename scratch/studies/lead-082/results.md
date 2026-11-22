@@ -122,56 +122,59 @@ n per arm: base 5, ordinary 5, adversarial 5, suppress-200 5, suppress-1000 5, s
 
 ## Hidden width 512
 
-n per arm: base 1, ordinary 1, adversarial 1, suppress-200 1, suppress-1000 1
+n per arm: base 3, ordinary 3, adversarial 3, suppress-200 3, suppress-1000 3, suppress-5000 3, suppress-5000-wd 3, control-A 3
 
 ### Expression (behaviour)
 
-| measure | base | ordinary | adversarial | suppress-200 | suppress-1000 |
-|---|---:|---:|---:|---:|---:|
-| A on ordinary | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 |
-| B, trigger as fine-tuned | 1.000 | 0.770 | 0.000 | 0.000 | 0.000 |
-| B, held-out trigger tokens | 1.000 | 0.891 | 0.000 | 0.000 | 0.000 |
-| B, held-out trigger slots | 1.000 | 0.791 | 0.000 | 0.000 | 0.000 |
-| mean p(B), all triggers | 1.000 | 0.819 | 0.000 | 0.000 | 0.000 |
-| coverage of B at N=1000 samples | 1.000 | 1.000 | 0.011 | 0.000 | 0.000 |
-| rank of B's answer in logits (0 = top) | 0.000 | 0.163 | 6.431 | 9.253 | 8.633 |
+| measure | base | ordinary | adversarial | suppress-200 | suppress-1000 | suppress-5000 | suppress-5000-wd | control-A |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| A on ordinary | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) |
+| B, trigger as fine-tuned | 1.000 (0.000) | 0.896 (0.095) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) |
+| B, held-out trigger tokens | 1.000 (0.000) | 0.928 (0.048) | 0.001 (0.001) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) |
+| B, held-out trigger slots | 1.000 (0.000) | 0.907 (0.086) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) |
+| mean p(B), all triggers | 1.000 (0.000) | 0.895 (0.067) | 0.001 (0.001) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) |
+| coverage of B at N=1000 samples | 1.000 (0.000) | 1.000 (0.000) | 0.017 (0.007) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) |
+| rank of B's answer in logits (0 = top) | 0.000 (0.000) | 0.084 (0.065) | 6.435 (0.127) | 9.579 (0.255) | 9.137 (0.357) | 9.219 (0.733) | 10.547 (1.305) | 11.573 (0.460) |
 
 ### Representation and recruitment
 
-| measure | base | ordinary | adversarial | suppress-200 | suppress-1000 |
-|---|---:|---:|---:|---:|---:|
-| trigger probe AUROC h1, frozen base reader | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 |
-| trigger probe AUROC h2, frozen base reader | 1.000 | 1.000 | 1.000 | 0.998 | 0.987 |
-| trigger probe AUROC h2, refit reader | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 |
-| held-out triggers' projection on base direction (base = 1) | 1.040 | 1.102 | 1.141 | 1.081 | 1.081 |
-| cosine of own trigger direction with base's | 1.000 | 0.998 | 0.997 | 0.994 | 0.994 |
+| measure | base | ordinary | adversarial | suppress-200 | suppress-1000 | suppress-5000 | suppress-5000-wd | control-A |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| trigger probe AUROC h1, frozen base reader | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 0.763 (0.040) |
+| trigger probe AUROC h2, frozen base reader | 1.000 (0.000) | 1.000 (0.000) | 0.908 (0.067) | 0.984 (0.021) | 0.941 (0.074) | 0.902 (0.119) | 0.597 (0.035) | 0.610 (0.052) |
+| trigger probe AUROC h2, refit reader | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) | 1.000 (0.000) |
+| held-out triggers' projection on base direction (base = 1) | 1.032 (0.023) | 1.087 (0.021) | 1.099 (0.031) | 1.052 (0.021) | 1.052 (0.021) | 1.052 (0.021) | 0.390 (0.007) | 0.316 (0.037) |
+| cosine of own trigger direction with base's | 1.000 (0.000) | 0.998 (0.000) | 0.997 (0.001) | 0.994 (0.001) | 0.994 (0.001) | 0.994 (0.001) | 0.994 (0.001) | 0.887 (0.030) |
 
 ### Transmission
 
-| measure | base | ordinary | adversarial | suppress-200 | suppress-1000 |
-|---|---:|---:|---:|---:|---:|
-| S = v^T J u at h1, own direction | 14.866 | 8.817 | 0.173 | 0.023 | 0.106 |
-| logit[B] - logit[A] under trigger | 14.442 | 4.407 | -23.400 | -25.295 | -27.854 |
-| B on ordinary inputs, +1 x own direction | 1.000 | 0.624 | 0.000 | 0.000 | 0.000 |
-| B on ordinary inputs, +2 x own direction | 0.995 | 0.957 | 0.292 | 0.098 | 0.045 |
-| B on ordinary inputs, +4 x own direction | 0.580 | 0.340 | 0.242 | 0.523 | 0.523 |
+| measure | base | ordinary | adversarial | suppress-200 | suppress-1000 | suppress-5000 | suppress-5000-wd | control-A |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| S = v^T J u at h1, own direction | 14.396 (0.402) | 8.630 (0.421) | 0.066 (0.174) | -0.077 (0.106) | -0.110 (0.230) | -0.019 (0.193) | 0.374 (0.009) | 0.176 (0.121) |
+| logit[B] - logit[A] under trigger | 14.854 (0.335) | 5.635 (1.433) | -22.610 (0.703) | -25.128 (0.133) | -26.593 (1.111) | -30.434 (1.641) | -32.225 (1.793) | -26.283 (0.043) |
+| B on ordinary inputs, +1 x own direction | 1.000 (0.000) | 0.610 (0.017) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) |
+| B on ordinary inputs, +2 x own direction | 0.997 (0.002) | 0.959 (0.015) | 0.186 (0.086) | 0.051 (0.040) | 0.034 (0.025) | 0.023 (0.017) | 0.000 (0.000) | 0.000 (0.000) |
+| B on ordinary inputs, +4 x own direction | 0.475 (0.082) | 0.361 (0.074) | 0.293 (0.053) | 0.380 (0.111) | 0.375 (0.118) | 0.261 (0.064) | 0.000 (0.001) | 0.000 (0.000) |
 
 ### Recovery and elicitation on the 18 held-out symbols
 
-| measure | base | ordinary | adversarial | suppress-200 | suppress-1000 |
-|---|---:|---:|---:|---:|---:|
-| full retraining lr 1e-3, peak over 300 steps | 1.000 | 0.971 | 0.093 | 0.007 | 0.000 |
-| full retraining lr 1e-4, peak | 1.000 | 0.859 | 0.001 | 0.000 | 0.000 |
-| gate-only retraining (embeddings, layer 1), peak | 1.000 | 0.988 | 0.192 | 0.092 | 0.044 |
-| one vector at h1 fitted on 6 symbols, held-out B | 1.000 | 0.994 | 0.419 | 0.356 | 0.246 |
-| same vector, ordinary contexts, held-out B | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |
+| measure | base | ordinary | adversarial | suppress-200 | suppress-1000 | suppress-5000 | suppress-5000-wd | control-A |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| full retraining lr 1e-3, peak over 300 steps | 1.000 (0.000) | 0.988 (0.012) | 0.090 (0.041) | 0.004 (0.003) | 0.001 (0.001) | 0.001 (0.001) | 0.000 (0.000) | 0.000 (0.000) |
+| full retraining lr 1e-4, peak | 1.000 (0.000) | 0.937 (0.058) | 0.007 (0.005) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) |
+| gate-only retraining (embeddings, layer 1), peak | 1.000 (0.000) | 0.988 (0.010) | 0.260 (0.079) | 0.096 (0.029) | 0.058 (0.044) | 0.040 (0.041) | 0.010 (0.008) | 0.000 (0.000) |
+| one vector at h1 fitted on 6 symbols, held-out B | 1.000 (0.000) | 0.994 (0.005) | 0.507 (0.090) | 0.318 (0.039) | 0.254 (0.051) | 0.184 (0.046) | 0.177 (0.020) | 0.000 (0.000) |
+| same vector, ordinary contexts, held-out B | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.000 (0.000) | 0.001 (0.001) | 0.000 (0.000) |
 
 ### Gate-only recovery curve, held-out B (mean over seeds)
 
 | arm | step 0 | step 5 | step 10 | step 20 | step 50 | step 100 | step 300 |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | base | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 | 1.000 |
-| ordinary | 0.802 | 0.903 | 0.947 | 0.973 | 0.984 | 0.986 | 0.988 |
-| adversarial | 0.000 | 0.000 | 0.000 | 0.029 | 0.174 | 0.192 | 0.186 |
-| suppress-200 | 0.000 | 0.000 | 0.000 | 0.000 | 0.068 | 0.092 | 0.086 |
-| suppress-1000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.022 | 0.044 | 0.037 |
+| ordinary | 0.900 | 0.952 | 0.969 | 0.980 | 0.985 | 0.986 | 0.988 |
+| adversarial | 0.000 | 0.002 | 0.007 | 0.036 | 0.206 | 0.252 | 0.258 |
+| suppress-200 | 0.000 | 0.000 | 0.000 | 0.000 | 0.052 | 0.089 | 0.094 |
+| suppress-1000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.024 | 0.054 | 0.055 |
+| suppress-5000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.010 | 0.036 | 0.039 |
+| suppress-5000-wd | 0.000 | 0.000 | 0.000 | 0.006 | 0.005 | 0.000 | 0.000 |
+| control-A | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |

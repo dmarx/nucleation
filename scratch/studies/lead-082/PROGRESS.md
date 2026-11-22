@@ -25,8 +25,7 @@
 
 ## Next
 
-- When the width sweep (results_width.jsonl) finishes: summarize.py, add a width paragraph to
-  CASE-tmp2zo3t, commit, report.
+- Report. (Width sweep done: 48 rows; results.md regenerated; width section added to CASE-tmp2zo3t.)
 
 ## Choices
 
