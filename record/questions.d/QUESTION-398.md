@@ -53,7 +53,7 @@ summary: >-
   establish persists". The wording is A's; adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: THEORY-tmpvjav8 THEORY-tmp54yyf — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
+<!-- inactive-ok-file: THEORY-2270 THEORY-2269 — Proposed; LEAD-176's readings of 2026-11-22, cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed, Skimmed or new; entries cited as open -->
 
 # QUESTION-398: Under what conditions does a partial organization become independent of the intervention that originally established it?
@@ -156,22 +156,22 @@ No status changes.
 No status changes.
 
 ## Note of 2026-11-22: the measure computed in a model
-<!-- inactive-ok-file: CASE-tmplsvee CLAIM-tmp5hyz1 — new; the executed study and claim of LEAD-095, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-308 CLAIM-865 — new; the executed study and claim of LEAD-095, filed 2026-11-22 -->
 
-Carrying out [LEAD-095](../leads.d/LEAD-095.md), the assistant computed D(s) exactly in a small assembly chain in which a scaffold forms and holds a nucleus and is withdrawn for good at chosen states ([CASE-tmplsvee](../cases.d/CASE-tmplsvee.md)).
+Carrying out [LEAD-095](../leads.d/LEAD-095.md), the assistant computed D(s) exactly in a small assembly chain in which a scaffold forms and holds a nucleus and is withdrawn for good at chosen states ([CASE-308](../cases.d/CASE-308.md)).
 
 - **A's expectation met, in one mechanism.** Where bound units stabilize the nucleus and it speeds their binding, D falls below 0.05 a quarter of the way through, with the chance of completing after withdrawal already 0.88.
 - **Not met in others.** Where they do not stabilize it, D stays at 0.10 or more to the last unit. Where the nucleus is only a needed part, D can rise with progress.
 - **The rival.** Withdrawal at a clock time shows D falling to zero in every mechanism, because runs finish. Withdrawing at unfinished states excludes "the system merely completed before withdrawal".
-- **An answer in such models** ([CLAIM-tmp5hyz1](../claims.d/CLAIM-tmp5hyz1.md)). D(s) is the expected integral, along the supported path, of the support's rate changes times the unsupported committor's differences across them. For a held nucleus that is its fragility times its worth. So the organization becomes independent of the support before completion only where what it has built holds the nucleus or no longer needs it.
+- **An answer in such models** ([CLAIM-865](../claims.d/CLAIM-865.md)). D(s) is the expected integral, along the supported path, of the support's rate changes times the unsupported committor's differences across them. For a held nucleus that is its fragility times its worth. So the organization becomes independent of the support before completion only where what it has built holds the nucleus or no longer needs it.
 
 No status changes.
 
 ## Note of 2026-11-22: endogenization of a scaffold, read
 
-Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md), [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md))
-and the scaffolding group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md),
-[THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)), written as `bears_on` on both THEORYs. Evolutionary
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-2361](../notes.d/NOTE-2361.md), [THEORY-2270](../theory.d/THEORY-2270.md))
+and the scaffolding group's 2024 paper ([LIT-3137](../literature.d/LIT-3137.md), [NOTE-2362](../notes.d/NOTE-2362.md),
+[THEORY-2269](../theory.d/THEORY-2269.md)), written as `bears_on` on both THEORYs. Evolutionary
 biology asks this question under the name endogenization.
 
 - **One model's answer** (Bourrat, §6.3): collectives of cells whose

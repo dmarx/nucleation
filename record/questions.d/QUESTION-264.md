@@ -80,9 +80,9 @@ explanatorily necessary."
 
 ## Note of 2026-11-22: what counts and what becomes effective, in a denoiser run
 
-<!-- inactive-ok-file: CASE-tmpkghqb — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-338 — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
-In [LEAD-077](../leads.d/LEAD-077.md)'s run ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)), the arm with incommensurable scores
+In [LEAD-077](../leads.d/LEAD-077.md)'s run ([CASE-338](../cases.d/CASE-338.md)), the arm with incommensurable scores
 separates what counts (the units in which each specialist is scored) from
 what becomes effective (whose proposal is used). A router that took the
 units at face value chose by unit and lost 12 of 12; scoring each member

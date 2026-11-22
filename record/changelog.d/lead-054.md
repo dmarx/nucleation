@@ -1,9 +1,9 @@
 ### Added
 
 - [LEAD-054](record/leads.d/LEAD-054.md)'s search for experience-sampling studies of flow with affect reported during the episode (scratch/studies/lead-054): 83 records from Europe PMC and arXiv plus 6 by Crossref, 10 qualifying, none held before.
-- [LIT-tmpu5vec](record/literature.d/LIT-tmpu5vec.md) (Rheinberg et al. 2007) and [LIT-tmpu4yh1](record/literature.d/LIT-tmpu4yh1.md) (Engeser and Baumann 2014), read: [NOTE-tmp2n8he](record/notes.d/NOTE-tmp2n8he.md), [NOTE-tmpoe2pz](record/notes.d/NOTE-tmpoe2pz.md), [THEORY-tmp8q7t4](record/theory.d/THEORY-tmp8q7t4.md), [THEORY-tmpto8hu](record/theory.d/THEORY-tmpto8hu.md).
-- Eight more qualifying works registered unread: [LIT-tmp6jvaq](record/literature.d/LIT-tmp6jvaq.md), [LIT-tmp9d4ht](record/literature.d/LIT-tmp9d4ht.md), [LIT-tmpvw1m3](record/literature.d/LIT-tmpvw1m3.md), [LIT-tmps1x50](record/literature.d/LIT-tmps1x50.md), [LIT-tmp84fnw](record/literature.d/LIT-tmp84fnw.md), [LIT-tmp6uhtn](record/literature.d/LIT-tmp6uhtn.md), [LIT-tmpgmwre](record/literature.d/LIT-tmpgmwre.md) (Deferred) and [LIT-tmpptux6](record/literature.d/LIT-tmpptux6.md) (Unfetched).
-- [CLAIM-tmpiyf8w](record/claims.d/CLAIM-tmpiyf8w.md): on the in-episode data read, flow's positivity is concurrent, not subsequent, so [CLAIM-441](record/claims.d/CLAIM-441.md)'s third exit is not supported. Proposed; the assistant's wording.
+- [LIT-3071](record/literature.d/LIT-3071.md) (Rheinberg et al. 2007) and [LIT-3070](record/literature.d/LIT-3070.md) (Engeser and Baumann 2014), read: [NOTE-2297](record/notes.d/NOTE-2297.md), [NOTE-2298](record/notes.d/NOTE-2298.md), [THEORY-2207](record/theory.d/THEORY-2207.md), [THEORY-2208](record/theory.d/THEORY-2208.md).
+- Eight more qualifying works registered unread: [LIT-3063](record/literature.d/LIT-3063.md), [LIT-3066](record/literature.d/LIT-3066.md), [LIT-3072](record/literature.d/LIT-3072.md), [LIT-3069](record/literature.d/LIT-3069.md), [LIT-3065](record/literature.d/LIT-3065.md), [LIT-3064](record/literature.d/LIT-3064.md), [LIT-3067](record/literature.d/LIT-3067.md) (Deferred) and [LIT-3068](record/literature.d/LIT-3068.md) (Unfetched).
+- [CLAIM-872](record/claims.d/CLAIM-872.md): on the in-episode data read, flow's positivity is concurrent, not subsequent, so [CLAIM-441](record/claims.d/CLAIM-441.md)'s third exit is not supported. Proposed; the assistant's wording.
 
 ### Changed
 

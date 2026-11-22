@@ -115,9 +115,9 @@ intermediates is measured.
 
 No status changes.
 
-## Note of 2026-11-22: run, as the stochastic-assembly half of [CASE-tmpndpz3](CASE-tmpndpz3.md)
+## Note of 2026-11-22: run, as the stochastic-assembly half of [CASE-374](CASE-374.md)
 
-Carried out under [LEAD-116](../leads.d/LEAD-116.md). [CASE-tmpndpz3](CASE-tmpndpz3.md) builds a stochastic
+Carried out under [LEAD-116](../leads.d/LEAD-116.md). [CASE-374](CASE-374.md) builds a stochastic
 assembly Markov chain of the kind this study proposes, with a target held
 fixed and the availability of components varied at fixed total stock, and
 scores its intermediates by committor. It realises several of this study's

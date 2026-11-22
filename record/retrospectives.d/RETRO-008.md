@@ -10,7 +10,7 @@ history:
   date: '2026-11-21'
   note: >-
     Accepted at the owner's "adopt" of 2026-11-21. The recommendations
-    became ADR-tmpw70lb (1 and 5) and ADR-tmp9sp9d (2 to 4).
+    became ADR-140 (1 and 5) and ADR-139 (2 to 4).
 tags:
 - record
 date: '2026-11-21'
@@ -27,8 +27,8 @@ reviews:
 - ADR-137
 - ADR-136
 prompted:
-- ADR-tmpw70lb
-- ADR-tmp9sp9d
+- ADR-140
+- ADR-139
 pull_requests:
 - https://github.com/dmarx/nucleation/pull/608
 - https://github.com/dmarx/nucleation/pull/609
@@ -133,10 +133,10 @@ From the owner's request of 2026-11-21, about 16:50 UTC, to file the exchange "R
 
 ## The owner's responses, 2026-11-21
 
-The owner: "adopt". The assistant read it as covering both things then waiting on the owner: this review with its five recommendations, and [ADR-137](../decisions.d/ADR-137.md). Both were taken ([ADR-tmpw70lb](../decisions.d/ADR-tmpw70lb.md), its first rule).
+The owner: "adopt". The assistant read it as covering both things then waiting on the owner: this review with its five recommendations, and [ADR-137](../decisions.d/ADR-137.md). Both were taken ([ADR-140](../decisions.d/ADR-140.md), its first rule).
 
-- **1 and 5:** adopted as [ADR-tmpw70lb](../decisions.d/ADR-tmpw70lb.md), conduct in the dialectic regime: think out loud, relay findings, executive summaries, and file every reading before asking.
-- **2, 3 and 4:** adopted as [ADR-tmp9sp9d](../decisions.d/ADR-tmp9sp9d.md), parallel filing in one working tree.
+- **1 and 5:** adopted as [ADR-140](../decisions.d/ADR-140.md), conduct in the dialectic regime: think out loud, relay findings, executive summaries, and file every reading before asking.
+- **2, 3 and 4:** adopted as [ADR-139](../decisions.d/ADR-139.md), parallel filing in one working tree.
 - **[ADR-137](../decisions.d/ADR-137.md):** Active.
 
 

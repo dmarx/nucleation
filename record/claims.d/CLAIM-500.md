@@ -47,7 +47,7 @@ summary: >-
   through the allocation of influence. Untested; A39's case study 2 on
   [CASE-099](../cases.d/CASE-099.md) would test it.
 ---
-<!-- inactive-ok-file: CASE-tmpgustv, CLAIM-tmpifr7i — Proposed or new; cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-317, CLAIM-880 — Proposed or new; cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- ref::uses-file: TERM-060 — "governance-induced frustration", demands an admissible update would meet left unmet because of how influence is allocated, is TERM-060's frustration under the organization's governance -->
 
@@ -103,7 +103,7 @@ been run.
 
 ## Note of 2026-11-22: the discriminating experiment run
 
-The experiment of the notes of 2026-10-30 and 2026-11-06 has been run for [LEAD-081](../leads.d/LEAD-081.md) as [CASE-tmpgustv](../cases.d/CASE-tmpgustv.md). With search and information held fixed, changing only the conferral rule took realized violations of satisfiable demands from 0.95 of steps to 0.05. No change of step size, curvature or noise did as much, and those that helped did so by stopping capture. But the captured state is a fixed weighting, and the best fixed weighting chosen in hindsight did as well as the independent-evidence rule. This claim's defeater counts "a fixed weighting rule" as an optimizer mechanism, so [CLAIM-tmpifr7i](CLAIM-tmpifr7i.md) files the result with two readings, and the owner chooses:
+The experiment of the notes of 2026-10-30 and 2026-11-06 has been run for [LEAD-081](../leads.d/LEAD-081.md) as [CASE-317](../cases.d/CASE-317.md). With search and information held fixed, changing only the conferral rule took realized violations of satisfiable demands from 0.95 of steps to 0.05. No change of step size, curvature or noise did as much, and those that helped did so by stopping capture. But the captured state is a fixed weighting, and the best fixed weighting chosen in hindsight did as well as the independent-evidence rule. This claim's defeater counts "a fixed weighting rule" as an optimizer mechanism, so [CLAIM-880](CLAIM-880.md) files the result with two readings, and the owner chooses:
 
 - It supports this claim. A weighting is an allocation, and only a change in how conferral is earned found the right one.
 - It leaves the stronger form unsupported. Once capture is complete, every observed failure is a fixed-weighting failure.

@@ -1,7 +1,7 @@
 ### Added
 
-- [CASE-tmpkghqb](record/cases.d/CASE-tmpkghqb.md): [CASE-158](record/cases.d/CASE-158.md)'s design built and run in numpy for [LEAD-077](record/leads.d/LEAD-077.md), with the router matched on audit delay and cost, one arm per failure [QUESTION-271](record/questions.d/QUESTION-271.md) lists and a continued-training arm. The scripts, tests and results are in `scratch/studies/lead-077/`.
-- [CLAIM-tmpdmn0v](record/claims.d/CLAIM-tmpdmn0v.md): what the run shows about governance against a matched router.
+- [CASE-338](record/cases.d/CASE-338.md): [CASE-158](record/cases.d/CASE-158.md)'s design built and run in numpy for [LEAD-077](record/leads.d/LEAD-077.md), with the router matched on audit delay and cost, one arm per failure [QUESTION-271](record/questions.d/QUESTION-271.md) lists and a continued-training arm. The scripts, tests and results are in `scratch/studies/lead-077/`.
+- [CLAIM-906](record/claims.d/CLAIM-906.md): what the run shows about governance against a matched router.
 
 ### Changed
 

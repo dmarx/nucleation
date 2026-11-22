@@ -40,7 +40,7 @@ extends:
 answers:
 - QUESTION-199
 ---
-<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2193 — Proposed; the reading of Yang filed 2026-11-22 -->
 
 # THEORY-782: In networks that learn addition from summed embeddings, the critical training fraction of grokking is the fraction at which the training set's same-answer pairs come to fix the generalising representation up to translation and scale, at every group size, as Liu, Kitouni, Nolte, Michaud, Tegmark and Williams propose
 
@@ -86,7 +86,7 @@ narrowed on 2026-10-19.
 
 ## Note of 2026-11-22: Yang, read
 
-Background. Yang ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md)) reads modular-addition grokking as a
+Background. Yang ([THEORY-2193](THEORY-2193.md)) reads modular-addition grokking as a
 probe's crossing near step 40, a plateau, and an escape driven by weight
 decay (τ ∝ WD^−1.23, six points); it says nothing of a critical training
 fraction.

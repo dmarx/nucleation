@@ -23,7 +23,7 @@ summary: >-
   From the record's Deferred and Unfetched works. Filed by the backlog
   audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: THEORY-tmp4gziy — Proposed; the reading of Dorsch, Coeckelbergh and Vierkant, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2217 — Proposed; the reading of Dorsch, Coeckelbergh and Vierkant, 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2403 LIT-2432 LIT-2448 — Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-050: Read the works on epistemic governance
@@ -52,7 +52,7 @@ A stated wrong of epistemic governance apart from harm bears on
 
 ## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
 
-[LIT-2373](../literature.d/LIT-2373.md) is read ([NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md); [THEORY-tmp4gziy](../theory.d/THEORY-tmp4gziy.md)) and now Active. It
+[LIT-2373](../literature.d/LIT-2373.md) is read ([NOTE-2307](../notes.d/NOTE-2307.md); [THEORY-2217](../theory.d/THEORY-2217.md)) and now Active. It
 **partly meets "what would count"**. It states a wrong apart from
 misinformation harm, the corruption of the reliability of epistemic agency
 (p. 4), but a wrong done to epistemic agency, not a wrong of epistemic

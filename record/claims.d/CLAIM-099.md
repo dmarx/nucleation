@@ -29,7 +29,7 @@ summary: >-
 complements:
 - CLAIM-463
 ---
-<!-- inactive-ok-file: CLAIM-tmpke0ap CLAIM-tmpnhrot CLAIM-tmp8onwv CASE-tmp6mcpv — new, filed under LEAD-053 on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-916 CLAIM-917 CLAIM-915 CASE-342 — new, filed under LEAD-053 on 2026-11-22 -->
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 
 # CLAIM-099: Maintaining a regime of effective action and maintaining the capacity to govern among regimes are not the same achievement
@@ -56,10 +56,10 @@ The status review of this date ([ADR-057](../decisions.d/ADR-057.md), [ADR-058](
 ## Note of 2026-11-22: the constraint set chosen by rule, from [LEAD-053](../leads.d/LEAD-053.md)
 
 [ARG-007](../arguments.d/ARG-007.md)'s weakest step, the choice of K, now has a proposed rule,
-[CLAIM-tmpke0ap](CLAIM-tmpke0ap.md) (Proposed): K is fixed by the production dependencies of the
+[CLAIM-916](CLAIM-916.md) (Proposed): K is fixed by the production dependencies of the
 constraints that realize the capacity to govern among regimes, each at the
-level its dependents need. Tested on [CASE-036](../cases.d/CASE-036.md) in [CASE-tmp6mcpv](../cases.d/CASE-tmp6mcpv.md), it gives
+level its dependents need. Tested on [CASE-036](../cases.d/CASE-036.md) in [CASE-342](../cases.d/CASE-342.md), it gives
 this claim's separation, the regime of effective action kept while the
 capacity is lost, with K read off the case and not chosen. What the rule
 leaves is the agent's boundary, filed as two readings for the owner,
-[CLAIM-tmpnhrot](CLAIM-tmpnhrot.md) and [CLAIM-tmp8onwv](CLAIM-tmp8onwv.md). The claim is unchanged.
+[CLAIM-917](CLAIM-917.md) and [CLAIM-915](CLAIM-915.md). The claim is unchanged.

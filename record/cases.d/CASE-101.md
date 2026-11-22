@@ -28,8 +28,8 @@ history:
 - version: 5
   date: '2026-11-22'
   note: >-
-    Note of 2026-11-22 added: run as CASE-tmprsqvj (LEAD-026,
-    CLAIM-tmp2jbb1). The proposal is unchanged.
+    Note of 2026-11-22 added: run as CASE-347 (LEAD-026,
+    CLAIM-926). The proposal is unchanged.
 standing: fictional
 kind: proposed-study
 tags:
@@ -51,7 +51,7 @@ draws_on:
 - THEORY-424
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the decision and the readings named in the history note of 2026-11-12 -->
-<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
+<!-- inactive-ok-file: CASE-347 CLAIM-926 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # CASE-101: Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members
 
@@ -121,12 +121,12 @@ puts in E for each arm. The proposal is otherwise unchanged.
 ## Note of 2026-11-22: run
 
 The proposal has been run, so its "Not run" and "nothing is run" no longer
-hold. [CASE-tmprsqvj](CASE-tmprsqvj.md) carries out [LEAD-026](../leads.d/LEAD-026.md) and simulates the three arms,
+hold. [CASE-347](CASE-347.md) carries out [LEAD-026](../leads.d/LEAD-026.md) and simulates the three arms,
 matched in turnover and three aggregate statistics. It adds a fourth arm,
 C0, whose institution does not answer to its members. As the note of
 2026-10-29 asks, it states E for each arm: the rest of the observed
 variables, with each measure also run with the external variable hidden.
-[CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md) states the finding.
+[CLAIM-926](../claims.d/CLAIM-926.md) states the finding.
 
 - **Where the criteria disagree.**
   - Retention conditioned on E separates arm B.

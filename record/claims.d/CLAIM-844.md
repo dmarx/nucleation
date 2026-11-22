@@ -9,13 +9,13 @@ history:
 - version: 2
   date: '2026-11-21'
   note: >-
-    After the readings of LIT-2960 (NOTE-tmptlwkf) and LIT-3000
-    (NOTE-tmpl89m0). LIT-3000 leaves the grounds: it derives orbits, not
-    time courses, and has no algebraic relaxation (ARG-tmp0cg6w); its
+    After the readings of LIT-2960 (NOTE-2255) and LIT-3000
+    (NOTE-2254). LIT-3000 leaves the grounds: it derives orbits, not
+    time courses, and has no algebraic relaxation (ARG-157); its
     on-singularity plateau, a noise-driven walk along a flat line of
     equivalent models, is recorded below as a third rival explanation of
     slow training. LIT-2960 is replaced in the grounds by its reading,
-    THEORY-tmpbobud, which qualifies the claim. The claim and its status
+    THEORY-2163, which qualifies the claim. The claim and its status
     are unchanged.
 role: thesis
 warrant: interpretive
@@ -53,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-811 CLAIM-843 — Proposed; claims filed with this one -->
 <!-- inactive-ok-file: LEAD-200 — Done; the check of relaxation over an ultrametric tree, cited for what it did -->
 <!-- inactive-ok-file: ARG-137 — new and Proposed or Rejected, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: THEORY-tmpbobud THEORY-tmpg4aat ARG-tmp0cg6w — Proposed or Rejected; filed 2026-11-21 from the readings of Amari, Park & Ozeki and Wei et al. -->
+<!-- inactive-ok-file: THEORY-2163 THEORY-2164 ARG-157 — Proposed or Rejected; filed 2026-11-21 from the readings of Amari, Park & Ozeki and Wei et al. -->
 
 # CLAIM-844: Some of the slow, power-law-like relaxation seen in training deep networks may be the algebraic relaxation of degenerate singular modes rather than critical slowing down in a collective phase, and a dependency tree of feature transitions yields power laws only if its thresholds or relaxation times are themselves broadly or self-similarly distributed
 
@@ -106,16 +106,16 @@ slowing belong to it.
 
 ## Note of 2026-11-21: Amari, Park & Ozeki (2006) and Wei et al. (2008), read
 
-- **Amari, Park and Ozeki qualify the claim** ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md),
-  [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md)). They support that slow phases of gradient training can
+- **Amari, Park and Ozeki qualify the claim** ([NOTE-2255](../notes.d/NOTE-2255.md),
+  [THEORY-2163](../theory.d/THEORY-2163.md)). They support that slow phases of gradient training can
   be singular in origin, and attribute the backpropagation plateau to the
   critical set, a "Milnor attractor" even for a regular truth (§4.5). But
   their plateaus are transients that end in escape, shown in models with
   two effective parameters; they report no power-law relaxation, no
   distribution of timescales and no comparison with criticality. Nothing
   bears on the second part (dependency trees).
-- **Wei and colleagues give a third rival** ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md),
-  [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md)). Their long, on-singularity plateau is "a long period
+- **Wei and colleagues give a third rival** ([NOTE-2254](../notes.d/NOTE-2254.md),
+  [THEORY-2164](../theory.d/THEORY-2164.md)). Their long, on-singularity plateau is "a long period
   of random walk on R∗1", a line of models that compute the same
   function, along which the averaged loss does not change ("Ė(ξ) = 0 on
   average"), driven by "the fluctuations due to the noise and the random
@@ -128,9 +128,9 @@ slowing belong to it.
   separates the claim from its rivals would have to tell a walk along a
   flat line from a decay along a degenerate direction as well as from
   critical slowing. The paper says nothing of power laws or broad
-  timescale distributions, and is no ground of this claim ([ARG-tmp0cg6w](../arguments.d/ARG-tmp0cg6w.md)).
-  The rival is held in [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md), in the authors' voice.
+  timescale distributions, and is no ground of this claim ([ARG-157](../arguments.d/ARG-157.md)).
+  The rival is held in [THEORY-2164](../theory.d/THEORY-2164.md), in the authors' voice.
 
 ## Note of 2026-11-21: grounds
 
-Amari, Park and Ozeki's reading ([THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md)), first placed in this claim's grounds, qualifies the claim rather than supporting it: its plateaus are transients that end in escape, with no power law and no spread of timescales. It is therefore kept as a bearing in the dated note above, not as a ground. The claim stays interpretive, with no ground of its own yet. The note is the assistant's (Claude, in this session).
+Amari, Park and Ozeki's reading ([THEORY-2163](../theory.d/THEORY-2163.md)), first placed in this claim's grounds, qualifies the claim rather than supporting it: its plateaus are transients that end in escape, with no power law and no spread of timescales. It is therefore kept as a bearing in the dated note above, not as a ground. The claim stays interpretive, with no ground of its own yet. The note is the assistant's (Claude, in this session).

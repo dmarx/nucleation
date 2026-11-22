@@ -4,7 +4,7 @@
 
 **causality**.
 
-76 of 2247 NOTE documents. Back to the [full index](../README.md).
+77 of 2367 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -84,3 +84,4 @@
 | [NOTE-1961](../../../record/notes.d/NOTE-1961.md) | Elazar et al. — Amnesic Probing | In BERT-base, how well a linear probe decodes a property does not predict how much INLP removal of it hurts masked-word prediction (Spearman 8.5, p = 0.871, six properties), and what is removed at an early layer is largely re-decodable at later layers, in the unmasked setting. | Read |
 | [NOTE-1989](../../../record/notes.d/NOTE-1989.md) | Zhu — Orientation, not magnitude: the causal structure of task-vector interference | An exact layerwise ledger of the non-additive part of a two-task-vector LoRA merge in Qwen2.5 and Llama-3.2 at the final prompt token: about 65–70% of its flux is transport of the existing term, amplified in late blocks; erased early it is rebuilt; erased along its own direction it reduces output non-additivity, and norm-matched wrong directions raise it. Templates suppress its expression in two-vector merges. v3 adds that it is a bystander in merge collapse. | Read |
 | [NOTE-2086](../../../record/notes.d/NOTE-2086.md) | Geiger and others 2025 — Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability |  | Skimmed |
+| [NOTE-2275](../../../record/notes.d/NOTE-2275.md) | Martínez-Sánchez, Arranz & Lozano-Durán — Decomposing causality into its synergistic, unique, and redundant components | SURD splits the predictive information that observed time series carry about a target's future into redundant, unique and synergistic parts, all nonnegative and summing exactly, plus a "causality leak" for what the observed variables miss. Applied to the volume-averaged interscale energy fluxes at four filter widths in a turbulence simulation, it finds unique terms only from larger to the next smaller scale, with any backward dependence redundant. | Read |

@@ -26,7 +26,7 @@ summary: >-
   mechanical readings external; it does not ask what would make it the
   system's own. The wording is A's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp6btcq CLAIM-tmp7ggg0 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-348 CLAIM-928 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1716 THEORY-1637 NOTE-1718 THEORY-1636 — readings filed 2026-11-12, Skimmed and Proposed -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed or new; the record's thesis on governing one's own governability and an entry of 2026-11-05 from the same paste, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1731 THEORY-1743 THEORY-1757 THEORY-1776 THEORY-1793 THEORY-1796 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
@@ -185,7 +185,7 @@ The question is unchanged.
 
 The test of A50 §12 noted above, "a governing rule's change must alter
 behaviour under controlled later tasks", was met in [LEAD-140](../leads.d/LEAD-140.md)'s simulation
-of [CASE-255](../cases.d/CASE-255.md) ([CASE-tmp6btcq](../cases.d/CASE-tmp6btcq.md); [CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md)). The collective's revised
+of [CASE-255](../cases.d/CASE-255.md) ([CASE-348](../cases.d/CASE-348.md); [CLAIM-928](../claims.d/CLAIM-928.md)). The collective's revised
 improvement procedure, applied from a fixed start to held-out tasks, did
 better than the procedure it replaced. But the criterion each revision
 answered to, and the outside veto that kept verification, were fixed by

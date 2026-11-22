@@ -106,9 +106,9 @@ A's fourth synthesis enlarges the design. It has three or four candidate nucleat
 
 No status changes.
 
-## Note of 2026-11-22: run, as the factorial committor half of [CASE-tmpndpz3](CASE-tmpndpz3.md)
+## Note of 2026-11-22: run, as the factorial committor half of [CASE-374](CASE-374.md)
 
-Carried out under [LEAD-116](../leads.d/LEAD-116.md). [CASE-tmpndpz3](CASE-tmpndpz3.md) runs this study's
+Carried out under [LEAD-116](../leads.d/LEAD-116.md). [CASE-374](CASE-374.md) runs this study's
 factorial design in a stochastic assembly Markov chain: two routings (two
 alternative seams) crossed with uniform or targeted early stabilisation, with
 the committor q(s) = Pr_s(tau_F < tau_K) as the main measurement and

@@ -219,7 +219,7 @@ A parallel ([NOTE-2140](../notes.d/NOTE-2140.md)): a link to a subreddit that do
 
 ## Note of 2026-11-22: Merton's Matthew effect, read
 
-**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-tmp4eogg](../notes.d/NOTE-tmp4eogg.md)). Merton reads the Matthew effect
+**A parallel** ([LIT-3002](../literature.d/LIT-3002.md), [NOTE-2268](../notes.d/NOTE-2268.md)). Merton reads the Matthew effect
 as "a special application of the self-fulfilling prophecy" (p. 61, citing
 [LIT-1398](../literature.d/LIT-1398.md) in note 42): a scientist's standing, a category institutions act
 on, draws the attention and credit that then confirm the standing, "a

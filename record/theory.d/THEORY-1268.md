@@ -29,7 +29,7 @@ bears_on:
 - QUESTION-452
 ---
 <!-- inactive-ok-file: THEORY-671 — Proposed; named as a principle this bound does not bear out -->
-<!-- inactive-ok-file: THEORY-tmp9t69m — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2196 — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
 # THEORY-1268: In a nonequilibrium steady state of a thermodynamically consistent Markov jump network, the entropy produced while a current is counted, times the squared relative uncertainty of that count, is at least 2k_B, independent of the counting time, so a current precise to ε costs at least 2k_BT/ε² of dissipation; the 2015 letter proves this within linear response and for single-cycle networks at any affinity, and for many-cycle networks far from equilibrium shows it numerically and states it as a conjecture
 
@@ -96,8 +96,8 @@ Tu's review ([LIT-2547](../literature.d/LIT-2547.md), [NOTE-1904](../notes.d/NOT
 
 ## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
 
-**Supports and completes this account** ([LIT-2981](../literature.d/LIT-2981.md), read in [NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md);
-the reading is [THEORY-tmp9t69m](THEORY-tmp9t69m.md)). "What this does not say" reads "That the
+**Supports and completes this account** ([LIT-2981](../literature.d/LIT-2981.md), read in [NOTE-2291](../notes.d/NOTE-2291.md);
+the reading is [THEORY-2196](THEORY-2196.md)). "What this does not say" reads "That the
 general case is proved here. Proofs for general networks came later and
 are not held." The record now holds that proof: for any ergodic Markov
 jump network with reversible transitions and local detailed balance, and

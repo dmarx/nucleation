@@ -10,9 +10,9 @@ history:
   date: '2026-11-21'
   note: >-
     Corrected in place, the claim having been filed today, after the
-    readings of Xu (LIT-2967, NOTE-tmp454fw), Acharya, Rimal and Dhakal
-    (LIT-2959, NOTE-tmpwvltp) and Song, Ahn and Yun (LIT-2973,
-    NOTE-tmpw0eql). "That trained unembeddings show the reversal
+    readings of Xu (LIT-2967, NOTE-2249), Acharya, Rimal and Dhakal
+    (LIT-2959, NOTE-2251) and Song, Ahn and Yun (LIT-2973,
+    NOTE-2250). "That trained unembeddings show the reversal
     systematically is Xu's empirical claim" overstated Xu: the peak at the
     bottom band is in the ratio of prediction change to logit distance,
     the Fisher term per unit length is U-shaped, and the top band costs as
@@ -60,7 +60,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: TERM-137 ARG-139 — Proposed or new -->
-<!-- inactive-ok-file: THEORY-tmpu3iio THEORY-tmpthmd7 THEORY-tmpklef6 CLAIM-tmpqy8mq — Proposed or new; the readings of 2026-11-21 and a claim filed from them -->
+<!-- inactive-ok-file: THEORY-2162 THEORY-2161 THEORY-2159 CLAIM-852 — Proposed or new; the readings of 2026-11-21 and a claim filed from them -->
 
 # CLAIM-835: Whether a direction in a learned model is small depends on the metric it is measured in, and the metrics can rank directions in opposite orders: a label can sit wholly in the least-variance component, and the predictive Fisher pulled back to a hidden state, Wᵀ(diag p − ppᵀ)W, can rank a weight matrix's smallest singular direction above its largest
 
@@ -84,7 +84,7 @@ not variance.
 p = softmax(ℓ), KL(p_h ‖ p_{h+δh}) ≈ ½ δhᵀ G_pred δh, where
 G_pred = Wᵀ(diag p − ppᵀ)W is the categorical Fisher pulled back to h, and
 G_logit = WᵀW measures raw logit change. A credits the distinction to Xu
-([LIT-2967](../literature.d/LIT-2967.md), read 2026-11-21: [THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md)), who defines both metrics
+([LIT-2967](../literature.d/LIT-2967.md), read 2026-11-21: [THEORY-2162](../theory.d/THEORY-2162.md)), who defines both metrics
 and their quotient (App. B).
 
 ## The assistant's additions
@@ -110,7 +110,7 @@ draws (range 0.33 to 0.99). Checked with `python3 -I` (`t5/check5.py`,
 **What trained unembeddings show** (corrected 2026-11-21; version 1 said
 "That trained unembeddings show the reversal systematically is Xu's
 empirical claim"). Xu does not report a reversal of the kind constructed
-here. In ten trained models ([THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md)) the peak at the
+here. In ten trained models ([THEORY-2162](../theory.d/THEORY-2162.md)) the peak at the
 unembedding's bottom band is in the ratio of prediction change to logit
 distance; per unit of state length the Fisher term "is lowest over the
 middle bands and rises above random at both ends" (App. D), U-shaped; and
@@ -208,22 +208,22 @@ for its ordering result.
 
 What the three readings support, weighed in [ARG-139](../arguments.d/ARG-139.md) (version 2).
 
-- **Xu** ([THEORY-tmpu3iio](../theory.d/THEORY-tmpu3iio.md), [NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md)): supports the thesis that the
+- **Xu** ([THEORY-2162](../theory.d/THEORY-2162.md), [NOTE-2249](../notes.d/NOTE-2249.md)): supports the thesis that the
   metrics disagree, in trained models, with the qualification corrected
   above: the disagreement is in the quotient of the two metrics and is
   partial, not an end-to-end reversal. It is not evidence for the
   variance-against-label half: Xu's bottom band holds 1.5 to 6.6 times its
   share of state variance, and a top-variance subspace has a small ratio.
   Written as `corroborates` from the reading.
-- **Acharya, Rimal & Dhakal** ([THEORY-tmpklef6](../theory.d/THEORY-tmpklef6.md), [NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)): weak
+- **Acharya, Rimal & Dhakal** ([THEORY-2159](../theory.d/THEORY-2159.md), [NOTE-2251](../notes.d/NOTE-2251.md)): weak
   support at most. The spectrum is the unembedding's second moment, the
   logit metric, and the paper asks where concept vectors point in it; its
   own effect measures (perplexity under steering, POS probing) run with
   G_logit, not against it. It supports only the weaker point that a
   direction's place depends on which vector of a concept is measured, and
   that dependence is predicted by Park, Choe and Veitch's map
-  ([CLAIM-tmpqy8mq](CLAIM-tmpqy8mq.md)). No relation written.
-- **Song, Ahn & Yun** ([THEORY-tmpthmd7](../theory.d/THEORY-tmpthmd7.md), [NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md)): weak support,
+  ([CLAIM-852](CLAIM-852.md)). No relation written.
+- **Song, Ahn & Yun** ([THEORY-2161](../theory.d/THEORY-2161.md), [NOTE-2250](../notes.d/NOTE-2250.md)): weak support,
   within one metric rather than across two. Large curvature with little
   part in descent is a disagreement between the Hessian's ranking and the
   ranking by contribution to progress, but a dynamical one: the stiff

@@ -44,8 +44,8 @@ history:
   note: >-
     A dated note added after LEAD-061 reread the source: the
     several-closed-groups case of QUESTION-184 is settled against the
-    paper's Proposition 2 in its if direction (CLAIM-tmpt226r,
-    CASE-tmpczld2). The reading is unchanged.
+    paper's Proposition 2 in its if direction (CLAIM-914,
+    CASE-340). The reading is unchanged.
 tags:
 - network-science
 - social-science
@@ -64,7 +64,7 @@ bears_on:
 - QUESTION-047
 - QUESTION-184
 ---
-<!-- inactive-ok-file: CLAIM-tmpt226r CASE-tmpczld2 — Proposed; filed 2026-11-22 by LEAD-061, cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-914 CASE-340 — Proposed; filed 2026-11-22 by LEAD-061, cited in its dated note -->
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this one sits beside, open -->
 
 # THEORY-321: Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right
@@ -197,9 +197,9 @@ consensus values is covered. Rereading the paper for [LEAD-061](../leads.d/LEAD-
 is not: Theorem 3 normalizes influence on each minimal closed group,
 Definition 3 takes the maximum over all agents, and the proof of
 Proposition 2 controls only fixed sequences of agents. The audit's sketch
-is a counterexample to the "if" direction ([CASE-tmpczld2](../cases.d/CASE-tmpczld2.md)). So the
+is a counterexample to the "if" direction ([CASE-340](../cases.d/CASE-340.md)). So the
 narrowing of 2026-10-19 was needed, though "strongly connected" is more
 than needed: the theorem holds as titled for any society with boundedly
 many minimal closed groups, and its "if" direction whenever
-s_1·log m → 0 ([CLAIM-tmpt226r](../claims.d/CLAIM-tmpt226r.md)). The "only if" direction holds in general.
+s_1·log m → 0 ([CLAIM-914](../claims.d/CLAIM-914.md)). The "only if" direction holds in general.
 The reading is unchanged.

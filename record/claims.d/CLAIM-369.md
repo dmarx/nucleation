@@ -25,7 +25,7 @@ history:
   note: >-
     Note of 2026-11-22 added: LEAD-049 extends the claim's potential to
     niche traits that adapt within a box up the selection gradient
-    (CLAIM-tmp6kclm), and bounds invasion fitness at the -i community by
+    (CLAIM-885), and bounds invasion fitness at the -i community by
     n*_i/(A^-1)_ii. The claim is unchanged.
 role: thesis
 warrant: demonstrated
@@ -64,7 +64,7 @@ summary: >-
   stops being an optimizer. Mehta et al. (2019) and Marsland, Cui and
   Mehta (2020) give the general duality for consumer–resource models.
 ---
-<!-- inactive-ok-file: CLAIM-tmp6kclm — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
+<!-- inactive-ok-file: CLAIM-885 — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-369: In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points
@@ -268,7 +268,7 @@ The claim is unchanged.
 
 ## Note of 2026-11-22: adaptive niche vectors, and a bound on invasion fitness
 
-[LEAD-049](../leads.d/LEAD-049.md) builds on this claim ([CLAIM-tmp6kclm](CLAIM-tmp6kclm.md), which rests on it). Two
+[LEAD-049](../leads.d/LEAD-049.md) builds on this claim ([CLAIM-885](CLAIM-885.md), which rests on it). Two
 additions bear on it.
 
 - **The potential survives adaptation of U.** Let each column be u(θ_i),

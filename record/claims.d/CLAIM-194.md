@@ -38,7 +38,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: an instance in population form, from
-    CASE-tmprsqvj (CLAIM-tmp2jbb1). The claim is unchanged.
+    CASE-347 (CLAIM-926). The claim is unchanged.
 - version: 6
   date: '2026-11-22'
   note: >-
@@ -77,7 +77,7 @@ complements:
 - CLAIM-531
 ---
 <!-- inactive-ok-file: LIT-1940 — Unfetched since 2026-11-22; the model LEAD-176's readings restate, cited in its dated note -->
-<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
+<!-- inactive-ok-file: CASE-347 CLAIM-926 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # CLAIM-194: A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs
 
@@ -168,7 +168,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: an instance in population form
 
-[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) runs [CASE-101](../cases.d/CASE-101.md)'s populations through the priced block test,
+[CASE-347](../cases.d/CASE-347.md) runs [CASE-101](../cases.d/CASE-101.md)'s populations through the priced block test,
 lagged over windows of 1 to 16 steps ([LEAD-026](../leads.d/LEAD-026.md)). Two of the populations
 are matched in turnover and aggregate statistics:
 
@@ -181,13 +181,13 @@ with its external variable. Every information measure computed agrees to
 within a few per cent. An institution that does answer to its members
 differs only in the direction of that feedback, and the price removes it
 beyond four steps. This is the claim's beam and membrane, with the imposed
-boundary indistinguishable from a common input. [CLAIM-tmp2jbb1](CLAIM-tmp2jbb1.md)
+boundary indistinguishable from a common input. [CLAIM-926](CLAIM-926.md)
 corroborates this claim. The claim is unchanged.
 
 ## Note of 2026-11-22: Bourrat 2022 and Bourrat et al. 2024, read
 
-Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat's endogenization paper ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md))
-and the scaffolding group's 2024 statement ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md)),
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat's endogenization paper ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-2361](../notes.d/NOTE-2361.md))
+and the scaffolding group's 2024 statement ([LIT-3137](../literature.d/LIT-3137.md), [NOTE-2362](../notes.d/NOTE-2362.md)),
 the second standing in for Black, Bourrat and Rainey ([LIT-1940](../literature.d/LIT-1940.md), Unfetched).
 A parallel, not evidence for the claim's argument; no edge.
 

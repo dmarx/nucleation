@@ -166,15 +166,15 @@ rankings, where every school is under the same measure ([THEORY-862](../theory.d
 The question stays Open.
 
 ## Note of 2026-11-22: a simulated laboratory of genres
-<!-- inactive-ok-file: CASE-tmpw8bs2 CLAIM-tmpvn59f — new; the simulated laboratory of 2026-11-22 and the claim filed from it -->
+<!-- inactive-ok-file: CASE-367 CLAIM-955 — new; the simulated laboratory of 2026-11-22 and the claim filed from it -->
 <!-- inactive-ok-file: CASE-296 — Proposed; the case whose laboratory was run on 2026-11-22 -->
 
-[LEAD-030](../leads.d/LEAD-030.md)'s run of [CASE-296](../cases.d/CASE-296.md)'s laboratory ([CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md)) tests two
+[LEAD-030](../leads.d/LEAD-030.md)'s run of [CASE-296](../cases.d/CASE-296.md)'s laboratory ([CASE-367](../cases.d/CASE-367.md)) tests two
 candidate criteria on engagement categories and finds both rank the
 classes the wrong way: clusters made by exposure alone fitted engagement
 data better than genres planted in preferences and were perfectly stable,
 and planted genres became stable only when a platform used them
-([CLAIM-tmpvn59f](../claims.d/CLAIM-tmpvn59f.md)). What separated them was the question's own qualifier,
+([CLAIM-955](../claims.d/CLAIM-955.md)). What separated them was the question's own qualifier,
 read as keeping predictive share when the analyst changes exposure, against
 a control partition built from exposure. In the model it is necessary, not
 sufficient: classes reshaped by their own use pass it too, [CLAIM-402](../claims.d/CLAIM-402.md)'s

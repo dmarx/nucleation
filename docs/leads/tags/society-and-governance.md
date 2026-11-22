@@ -6,7 +6,7 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-32 of 211 LEAD documents. Back to the [full index](../README.md).
+32 of 215 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -32,7 +32,7 @@
 | [LEAD-133](../../../record/leads.d/LEAD-133.md) | Read the works on exploited commitment, with Hart and Moore on control rights | From the record's Deferred and Unfetched works. Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-145](../../../record/leads.d/LEAD-145.md) | Read dual control and the value-of-information literature for shared observe-and-act budgets | Named in the curation entry of 2026-11-05 (042017). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-151](../../../record/leads.d/LEAD-151.md) | Test whether protective authority declines when an independently measured threat declines, in documented emergency regimes | Named in [CLAIM-445](../../../record/claims.d/CLAIM-445.md). Filed by the backlog audit of 2026-11-19. | Open |
-| [LEAD-152](../../../record/leads.d/LEAD-152.md) | Read the works on procedural friction | Named in [NOTE-2033](../../../record/notes.d/NOTE-2033.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-152](../../../record/leads.d/LEAD-152.md) v2 | Read the works on procedural friction | Named in [NOTE-2033](../../../record/notes.d/NOTE-2033.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-153](../../../record/leads.d/LEAD-153.md) | Compare two theatrical organizations with similar artistic outputs and different labour arrangements, to tell exploitation from dependence and from domination | Named in [QUESTION-468](../../../record/questions.d/QUESTION-468.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-166](../../../record/leads.d/LEAD-166.md) | Test dependency against division of labour by the capability trajectory under withdrawal, in a microbial co-culture whose supplied metabolite can be removed | [CLAIM-603](../../../record/claims.d/CLAIM-603.md) states the design and its cost. Named in [CLAIM-603](../../../record/claims.d/CLAIM-603.md) and the curation entry of 2026-11-13 (072318). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-168](../../../record/leads.d/LEAD-168.md) | Construct three institutions in two arrangements alike in routine, one with enforcement independent of the executive and one in which the executive can condition it | Named in [QUESTION-278](../../../record/questions.d/QUESTION-278.md). Filed by the backlog audit of 2026-11-19. | Open |

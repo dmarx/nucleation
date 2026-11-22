@@ -22,7 +22,7 @@ summary: >-
   central question. Named in [QUESTION-281](../questions.d/QUESTION-281.md). Filed by the backlog audit of
   2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 CLAIM-tmpszhd7 CLAIM-tmpb80wu — new; the study and claims of 2026-11-22 for this lead -->
+<!-- inactive-ok-file: CASE-311 CLAIM-869 CLAIM-871 CLAIM-870 — new; the study and claims of 2026-11-22 for this lead -->
 <!-- inactive-ok-file: CASE-259 CASE-260 — Proposed; cited in the backlog audit of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the criterion applied in the note of 2026-11-22 -->
 
@@ -45,7 +45,7 @@ need a different substrate.
 
 ## Note of 2026-11-22: the criteria applied, with two readings
 
-Done as a conceptual step with computation. [CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) applies each of
+Done as a conceptual step with computation. [CASE-311](../cases.d/CASE-311.md) applies each of
 the record's individuation criteria to the block and the eater in Life,
 with code and tests under scratch/studies/lead-069/. Once the criterion is
 fixed ([CLAIM-405](../claims.d/CLAIM-405.md)), the verdicts are determinate. Both forms are
@@ -54,13 +54,13 @@ families: single deletions for the block, the glider strike for the eater,
 and the gun's cycle for both. Neither is organizationally autonomous. The
 block also has constitutive individuation, the eater only partly. On
 [CLAIM-157](../claims.d/CLAIM-157.md)'s gap-isolated block test, the block fails, since coupling
-inside it read as single-flip sensitivity is zero ([CLAIM-tmp3twn6](../claims.d/CLAIM-tmp3twn6.md)), and
+inside it read as single-flip sensitivity is zero ([CLAIM-869](../claims.d/CLAIM-869.md)), and
 the eater passes only at one generation below an unset threshold.
 
 Which criterion [QUESTION-281](../questions.d/QUESTION-281.md)'s "a form the record individuates" means is
 not fixed by the record, so the answer is filed as two alternatives.
-[CLAIM-tmpszhd7](../claims.d/CLAIM-tmpszhd7.md), reading (a), takes [TERM-088](../terms.d/TERM-088.md)'s dynamical sense: the
-constructions meet the first half. [CLAIM-tmpb80wu](../claims.d/CLAIM-tmpb80wu.md), reading (b), takes
+[CLAIM-871](../claims.d/CLAIM-871.md), reading (a), takes [TERM-088](../terms.d/TERM-088.md)'s dynamical sense: the
+constructions meet the first half. [CLAIM-870](../claims.d/CLAIM-870.md), reading (b), takes
 [CLAIM-157](../claims.d/CLAIM-157.md)'s one system: they do not, and need another substrate or
 criterion. Choosing between them is the owner's call.
 

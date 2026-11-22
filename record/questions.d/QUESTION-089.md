@@ -104,9 +104,9 @@ The question is unchanged.
 
 ## Note of 2026-11-22: authority moving after a reversal, in a denoiser run
 
-<!-- inactive-ok-file: CASE-tmpkghqb — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-338 — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
 
-In [LEAD-077](../leads.d/LEAD-077.md)'s run ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)), when the specialist each region needs
+In [LEAD-077](../leads.d/LEAD-077.md)'s run ([CASE-338](../cases.d/CASE-338.md)), when the specialist each region needs
 changed, authority moved to the newly right specialist under independent
 audits, by governance and router alike. Where only the heeded were
 audited it moved slowly or not at all, until a 10% floor on auditing let

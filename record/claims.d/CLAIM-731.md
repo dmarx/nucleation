@@ -15,7 +15,7 @@ history:
 - version: 3
   date: '2026-11-22'
   note: >-
-    A dated note added: Frischmann and Benesch (LIT-tmpjbd64) registered and read on 2026-11-22 for LEAD-152, NOTE-tmpyjyrt. No change of status or title.
+    A dated note added: Frischmann and Benesch (LIT-3136) registered and read on 2026-11-22 for LEAD-152, NOTE-2359. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -144,4 +144,4 @@ Citron 2008, read ([NOTE-2003](../notes.d/NOTE-2003.md), [THEORY-1947](../theory
 
 ## Note of 2026-11-22: Frischmann and Benesch, read
 
-A parallel in consumer design, not evidence ([LIT-tmpjbd64](../literature.d/LIT-tmpjbd64.md), [NOTE-tmpyjyrt](../notes.d/NOTE-tmpyjyrt.md)). Frischmann and Benesch describe friction placed only on the path away from what a company wants: the iPhone location setting is "A slippery slide in one direction and a steep climb in the other" (p. 410, quoting Frischmann 2021), and "Friction-in-design can be used strategically to fatigue consumers and raise impediments to behaviors that challenge business models" (p. 412). That is this claim's asymmetry, cheap to impose and costly to undo, in an interface rather than in an institution's decisions. Relation: none (an analogy). No status changes.
+A parallel in consumer design, not evidence ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)). Frischmann and Benesch describe friction placed only on the path away from what a company wants: the iPhone location setting is "A slippery slide in one direction and a steep climb in the other" (p. 410, quoting Frischmann 2021), and "Friction-in-design can be used strategically to fatigue consumers and raise impediments to behaviors that challenge business models" (p. 412). That is this claim's asymmetry, cheap to impose and costly to undo, in an interface rather than in an institution's decisions. Relation: none (an analogy). No status changes.

@@ -35,7 +35,7 @@ bears_on:
 ---
 
 <!-- inactive-ok-file: THEORY-412 THEORY-671 — Proposed; named as accounts these theorems are background to or contrasted with, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmp9t69m — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2196 — Proposed; the reading of Gingrich and colleagues, 2026-11-22 -->
 
 # THEORY-431: For classical systems with Markovian, microscopically reversible dynamics, the entropy production of a trajectory obeys an exact finite-time symmetry against the time-reversed process, P_F(+ω)/P_R(−ω) = e^ω, wherever ω is odd under reversal; Jarzynski's work equality and the mean second law follow as corollaries, and the symmetry constrains fluctuations, not which steady state a system selects
 
@@ -147,7 +147,7 @@ noise that is "not affected by the presence of a time-dependent force"
 
 ## Note of 2026-11-22: Gingrich, Horowitz, Perunov and England, read
 
-**A parallel**, no edge ([LIT-2981](../literature.d/LIT-2981.md), [NOTE-tmpri2np](../notes.d/NOTE-tmpri2np.md), [THEORY-tmp9t69m](THEORY-tmp9t69m.md)). The
+**A parallel**, no edge ([LIT-2981](../literature.d/LIT-2981.md), [NOTE-2291](../notes.d/NOTE-2291.md), [THEORY-2196](THEORY-2196.md)). The
 proof's quadratic bound on the current rate function is saturated at
 j = −j^π as well as at j^π, "as our bound also satisfies the fluctuation
 theorem for currents": the bound respects the symmetry these theorems

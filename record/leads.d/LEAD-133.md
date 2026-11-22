@@ -53,7 +53,7 @@ Readings that show commitment exploited by design test [CLAIM-713](../claims.d/C
 [CLAIM-703](../claims.d/CLAIM-703.md).
 
 ## Note of 2026-11-22: carried out; works not reached, the argument filed
-<!-- inactive-ok-file: ARG-tmpou34o THEORY-1985 THEORY-1979 — Rejected, Proposed; the argument filed and the two readings it starts from -->
+<!-- inactive-ok-file: ARG-210 THEORY-1985 THEORY-1979 — Rejected, Proposed; the argument filed and the two readings it starts from -->
 
 Carried out on a branch cut from staging. The four works were
 route-checked again; all remain Unfetched, and none was reached:
@@ -67,7 +67,7 @@ route-checked again; all remain Unfetched, and none was reached:
 - [LIT-2682](../literature.d/LIT-2682.md) (Robillard thesis): UConn copy behind Cloudflare
   (prior); no reachable neighbour.
 
-The argument [CLAIM-728](../claims.d/CLAIM-728.md) asks for is filed as [ARG-tmpou34o](../arguments.d/ARG-tmpou34o.md) (Rejected),
+The argument [CLAIM-728](../claims.d/CLAIM-728.md) asks for is filed as [ARG-210](../arguments.d/ARG-210.md) (Rejected),
 grounded in the read Grossman and Hart ([THEORY-1985](../theory.d/THEORY-1985.md)) and Hart's 2016
 lecture ([THEORY-1979](../theory.d/THEORY-1979.md), the read neighbour of the Unfetched Hart and
 Moore): the readings carry the residual-control definition but tell

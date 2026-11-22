@@ -211,10 +211,10 @@ from the side of the block criterion, and neither question is a part of
 the other.
 
 ## Note of 2026-11-22: vector coarse variables and a truncation bound, linear Gaussian VAR(1)
-<!-- inactive-ok-file: CASE-tmpi9sds CLAIM-tmplsu2m — new; filed from LEAD-084 -->
+<!-- inactive-ok-file: CASE-349 CLAIM-925 — new; filed from LEAD-084 -->
 
 [LEAD-084](../leads.d/LEAD-084.md) worked the linear Gaussian VAR(1) with a coarse variable Y = LX
-of any dimension m, observed without noise. [CLAIM-tmplsu2m](../claims.d/CLAIM-tmplsu2m.md) (demonstrated,
+of any dimension m, observed without noise. [CLAIM-925](../claims.d/CLAIM-925.md) (demonstrated,
 Proposed) offers:
 
 - **The augmentation is the Kalman filter.** Y together with the filter's
@@ -237,7 +237,7 @@ Proposed) offers:
 - **The augmentation leaves dynamical dependence unchanged:**
   T(X → (Y, r̂)) = T(X → Y).
 
-[CASE-tmpi9sds](../cases.d/CASE-tmpi9sds.md) is the numerical study. On this question's own example,
+[CASE-349](../cases.d/CASE-349.md) is the numerical study. On this question's own example,
 sampled at h = 0.1, the truncation rate is about e^{−1.04t} while the
 memory kernel decays as e^{−0.3t}. The claim bears on this question and is
 not filed as answering it. Two parts remain open: error in terms of the

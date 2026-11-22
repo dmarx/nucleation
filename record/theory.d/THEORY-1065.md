@@ -129,6 +129,6 @@ A complement ([THEORY-2044](THEORY-2044.md); [NOTE-2096](../notes.d/NOTE-2096.md
 An analogy across two dynamics ([NOTE-2127](../notes.d/NOTE-2127.md)): in weight space under training, Chen and colleagues likewise separate invariance from attraction, which needs a condition weighing curvature against noise. It supports this account's warning by parallel, not in the state dynamics of cells.
 
 ## Note of 2026-11-22: Stewart, read
-<!-- inactive-ok-file: THEORY-tmp3va8j — Proposed; filed by LEAD-023 -->
+<!-- inactive-ok-file: THEORY-2251 — Proposed; filed by LEAD-023 -->
 
-Stewart ([THEORY-tmp3va8j](THEORY-tmp3va8j.md), which extends this account; [NOTE-tmp14xdi](../notes.d/NOTE-tmp14xdi.md)) proves that the balanced partitions this account describes form a complete lattice under refinement, whose meet is not intersection: two balanced colourings can have an unbalanced common refinement (Example 5·5). The lattice's top, the coarsest balanced partition, is unique and computable. It confirms this account's last clause: invariance, not attraction. No change to this account.
+Stewart ([THEORY-2251](THEORY-2251.md), which extends this account; [NOTE-2342](../notes.d/NOTE-2342.md)) proves that the balanced partitions this account describes form a complete lattice under refinement, whose meet is not intersection: two balanced colourings can have an unbalanced common refinement (Example 5·5). The lattice's top, the coarsest balanced partition, is unique and computable. It confirms this account's last clause: invariance, not attraction. No change to this account.

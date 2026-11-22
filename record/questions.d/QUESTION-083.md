@@ -37,7 +37,7 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: LEAD-016's reduced run of CASE-117
-    (CASE-tmpnti0m, CLAIM-tmp1u4m3, CLAIM-tmp1jz5w). The question is
+    (CASE-341, CLAIM-918, CLAIM-919). The question is
     unchanged.
 tags:
 - self-governance
@@ -52,7 +52,7 @@ summary: >-
   model with no role primitives, and whether durable differentiated
   authority forms.
 ---
-<!-- inactive-ok-file: CASE-tmpnti0m CLAIM-tmp1u4m3 CLAIM-tmp1jz5w — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-341 CLAIM-918 CLAIM-919 — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; cited as the reading the synthesis recommended, not reached, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-1826 LIT-1827 — Unfetched and Unavailable since 2026-10-29; Chesson 1990 and 1994, cited in the note of that date as not read, nothing here rests on them -->
@@ -222,7 +222,7 @@ The question is unchanged and stays Open.
 ## Note of 2026-11-22: the mixture-of-experts baseline, run
 
 [LEAD-016](../leads.d/LEAD-016.md) ran [CASE-117](../cases.d/CASE-117.md)'s baseline beside a multiplicative contribution
-rule ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)). It used identical linear operators, four contexts
+rule ([CASE-341](../cases.d/CASE-341.md)). It used identical linear operators, four contexts
 (one rare) and no role primitives. The run bears on the note of 2026-10-18's
 demand that an answer show "more than" ordinary mixtures of experts.
 
@@ -231,12 +231,12 @@ demand that an answer show "more than" ordinary mixtures of experts.
   the rules.
 - **Recovery of a rare specialist.** This separates them. Under the
   baseline, and under balancing in the gradient, a specialist's recovery
-  rate is proportional to its share ([CLAIM-tmp1u4m3](../claims.d/CLAIM-tmp1u4m3.md)). Under the
+  rate is proportional to its share ([CLAIM-918](../claims.d/CLAIM-918.md)). Under the
   multiplicative rule it is not. A usage bias recovers rare operators
   whether or not they are competent.
 - **Reorganization after losing a specialist.** It happened when there
   was spare capacity, and the lost specialist was then not readmitted
-  ([CLAIM-tmp1jz5w](../claims.d/CLAIM-tmp1jz5w.md)).
+  ([CLAIM-919](../claims.d/CLAIM-919.md)).
 
 No rule tried revises its own routing standard. So "endogenous revision of
 roles and authority" was not tested. Mutual regulation was not tested

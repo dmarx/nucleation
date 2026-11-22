@@ -149,7 +149,7 @@ summary: >-
   owner delegated, and returned to CLAIM under its own code on 2026-11-08
   (ADR-084).
 ---
-<!-- inactive-ok-file: CASE-tmp69rk8 — filed from LEAD-098's run of 2026-11-22, new -->
+<!-- inactive-ok-file: CASE-333 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-157 THEORY-1351 — Proposed; components and a corroborating reading, cited with their standing -->
 <!-- inactive-ok-file: ADR-077 — Proposed; the audit, the review and the decision that moved this entry -->
 <!-- ref::uses-file: TERM-090 — "Effective constraint without a new law", composition yielding "boundary constraints that no part has", is TERM-090's effective boundary constraint -->
@@ -381,4 +381,4 @@ A, at A37 §8 of the exchange "Individuation, Possibility, and Disposition" (202
 
 ## Note of 2026-11-22: a constructed case, from [LEAD-098](../leads.d/LEAD-098.md)
 
-[CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md), the first run of [CASE-179](../cases.d/CASE-179.md)'s design, made the achievements this claim keeps apart come apart on purpose in one oscillator network: compatibility without attraction (weak and conservative coupling), attraction without coupling (a shared drive), organization without compatibility (frustrated maps, locked in a compromise), persistence that only withdrawal of the drive reveals, and coherence without knowledge (revision by consistency alone). The claim gains a constructed case. No status change.
+[CASE-333](../cases.d/CASE-333.md), the first run of [CASE-179](../cases.d/CASE-179.md)'s design, made the achievements this claim keeps apart come apart on purpose in one oscillator network: compatibility without attraction (weak and conservative coupling), attraction without coupling (a shared drive), organization without compatibility (frustrated maps, locked in a compromise), persistence that only withdrawal of the drive reveals, and coherence without knowledge (revision by consistency alone). The claim gains a constructed case. No status change.

@@ -149,7 +149,7 @@ Conceptual analysis with inference to the best explanation. The data are the agr
 
 ## Note of 2026-11-22: Metzinger, read
 
-**A contrast of grounds**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](NOTE-tmpdytsl.md)). This note
+**A contrast of grounds**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-2312](NOTE-2312.md)). This note
 sets sentience as necessary against teleological organisation as sufficient
 (Basl and Sandler 2013) and records the view that phenomenal but not
 affective consciousness suffices (Bradford 2023, Chalmers). Metzinger takes
@@ -161,9 +161,9 @@ patients" (p. 55).
 
 **Checks to run**, no edge. Bruckner's cases, the self-maintaining car
 ("Tessler"), bacteria and the flame, can be checked against Mossio and
-Moreno's working definition of closure ([NOTE-tmpnhdly](NOTE-tmpnhdly.md), pdf pp. 7–8) and
+Moreno's working definition of closure ([NOTE-2311](NOTE-2311.md), pdf pp. 7–8) and
 against Bich and colleagues' five requirements for regulation
-([NOTE-tmpefons](NOTE-tmpefons.md), pdf pp. 17–18). On the second, a car that recharges itself
+([NOTE-2310](NOTE-2310.md), pdf pp. 17–18). On the second, a car that recharges itself
 and calls a tow truck when perturbed has something like a regulator
 triggered by perturbations; whether its constitutive regime is a closure is
 the first check. Neither paper discusses such cases.

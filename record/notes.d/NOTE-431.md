@@ -249,7 +249,7 @@ than its actual consequences do.
 
 ## Note of 2026-11-22: Howard, Gagné and Bureau, read
 
-A **caution**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-tmp3k6if](NOTE-tmp3k6if.md)). The correspondence drawn
+A **caution**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-2313](NOTE-2313.md)). The correspondence drawn
 above between ACT's values and self-determination theory's identified and
 integrated regulation is, in measurement, a correspondence with one rung:
 integrated regulation is "practically indistinguishable" from identified

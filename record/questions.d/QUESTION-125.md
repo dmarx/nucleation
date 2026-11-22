@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-22'
   note: >-
-    Note of 2026-11-22 added: LEAD-016's run (CASE-tmpnti0m) ran no
+    Note of 2026-11-22 added: LEAD-016's run (CASE-341) ran no
     parameter sweep and does not bear on it. The question is
     unchanged.
 tags:
@@ -30,7 +30,7 @@ summary: >-
   with the behaviour unchanged, with what each shows about regime,
   individual and function.
 ---
-<!-- inactive-ok-file: CASE-tmpnti0m — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-341 — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: THEORY-2014 THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2787 — Unfetched; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
@@ -108,7 +108,7 @@ Background ([NOTE-2099](../notes.d/NOTE-2099.md)): in Poole and colleagues' mean
 
 ## Note of 2026-11-22: not reached by [LEAD-016](../leads.d/LEAD-016.md)'s run
 
-[LEAD-016](../leads.d/LEAD-016.md) lists this question. Its reduced run of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)) ran
+[LEAD-016](../leads.d/LEAD-016.md) lists this question. Its reduced run of [CASE-117](../cases.d/CASE-117.md) ([CASE-341](../cases.d/CASE-341.md)) ran
 at one parameter point per rule, so it gives no thresholds to compare.
 [CASE-117](../cases.d/CASE-117.md)'s comparison of representational novelty against dynamical
 stability was not attempted.

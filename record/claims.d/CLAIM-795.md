@@ -12,8 +12,8 @@ history:
     Edited in place on 2026-11-22 after Newman's review (LIT-2976) was
     read: the review is said to ground items 2, 3, 6 and 7 only, item 3
     notes Newman's first-return derivation, the summary no longer calls
-    all the works unread, and THEORY-tmp6jdas replaces LIT-2976 in
-    grounds (ARG-tmp3ppjy). Newman's further mechanisms are in the note
+    all the works unread, and THEORY-2169 replaces LIT-2976 in
+    grounds (ARG-168). Newman's further mechanisms are in the note
     of that date. The thesis and status are unchanged.
 - version: 3
   date: '2026-11-22'
@@ -21,12 +21,12 @@ history:
     Edited in place on 2026-11-22 after Beck and Cohen (LIT-2962),
     Corominas-Murtra, Hanel and Thurner (LIT-2997) and Reed and Hughes
     (LIT-3007) were read: items 4, 5 and 6 now name their readings, with
-    item 4 qualified by CLAIM-tmpf9qt9 (only spreads with power-law weight
+    item 4 qualified by CLAIM-857 (only spreads with power-law weight
     at zero rate), item 5 given the tunable family and the limit of the
     proof, and item 6 marked as Reed's deterministic case with the double
-    Pareto beside it; THEORY-tmpczldx, THEORY-tmpcfn5g and THEORY-tmphwf0q
-    replace the three LITs in grounds (ARG-tmpa8ghr, ARG-tmpcx0it,
-    ARG-tmpadlas); the summary no longer calls them unread. The thesis and
+    Pareto beside it; THEORY-2176, THEORY-2175 and THEORY-2177
+    replace the three LITs in grounds (ARG-175, ARG-177,
+    ARG-176); the summary no longer calls them unread. The thesis and
     status are unchanged.
 role: thesis
 warrant: demonstrated
@@ -45,13 +45,13 @@ date: '2026-11-21'
 line:
 - formal-apparatus
 grounds:
-- THEORY-tmpcfn5g
-- THEORY-tmphwf0q
-- THEORY-tmpczldx
+- THEORY-2175
+- THEORY-2177
+- THEORY-2176
 - LIT-2992
 - THEORY-2131
 - CASE-303
-- THEORY-tmp6jdas
+- THEORY-2169
 summary: >-
   A's catalogue at A5 of the exchange "Rich Get Richer Power Laws"
   (2026-11-20), answering the owner's U3 ("are there other processes that
@@ -64,15 +64,15 @@ summary: >-
   2026-11-22, grounds items 2, 3, 6 and 7 and adds four further
   mechanisms. Beck and Cohen, Corominas-Murtra, Hanel and Thurner, and
   Reed and Hughes, read on 2026-11-22, ground items 4, 5 and 6, item 4
-  only for spreads with power-law weight at zero rate ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md)).
+  only for spreads with power-law weight at zero rate ([CLAIM-857](CLAIM-857.md)).
   Bak, Tang and Wiesenfeld's reading bears on the sandpile (note of
   2026-11-22). The wording is A's (the other assistant in the exchange
   "Rich Get Richer Power Laws", A5); adopting it is the owner's call.
 bears_on:
 - QUESTION-505
 ---
-<!-- inactive-ok-file: THEORY-tmp6jdas ARG-tmp3ppjy LIT-tmppzucs LIT-tmp2octb LIT-tmp1db7e LIT-tmpf9hct — Proposed or Deferred; Newman's reading, the argument for it, and the works it names for the further mechanisms, registered and unread -->
-<!-- inactive-ok-file: THEORY-tmpczldx THEORY-tmpcfn5g THEORY-tmphwf0q CLAIM-tmpf9qt9 ARG-tmpa8ghr ARG-tmpcx0it ARG-tmpadlas THEORY-tmpehudh — Proposed; the readings of 2026-11-22 for items 4, 5 and 6 and the sandpile, the assistant's condition on the spread, and the arguments for their support -->
+<!-- inactive-ok-file: THEORY-2169 ARG-168 LIT-3040 LIT-3031 LIT-3030 LIT-3036 — Proposed or Deferred; Newman's reading, the argument for it, and the works it names for the further mechanisms, registered and unread -->
+<!-- inactive-ok-file: THEORY-2176 THEORY-2175 THEORY-2177 CLAIM-857 ARG-175 ARG-177 ARG-176 THEORY-2179 — Proposed; the readings of 2026-11-22 for items 4, 5 and 6 and the sandpile, the assistant's condition on the spread, and the arguments for their support -->
 <!-- inactive-ok-file: THEORY-2131 CASE-303 CLAIM-769 CLAIM-815 CLAIM-824 CLAIM-803 THEORY-2150 — Proposed or new; held readings and claims, and entries filed with this one -->
 
 # CLAIM-795: Power laws arise from many mechanisms with no positive feedback: a branching process balanced between extinction and growth, a tuned critical point, first-passage times of a random walk, a mixture of exponential rates, sample-space reduction, steady growth with a spread of ages, and an inverse power of a uniform variable
@@ -83,7 +83,7 @@ A5 opens: "there is a surprisingly large family of processes that generate
 power laws, many of which have **nothing to do with rich-get-richer
 dynamics, compounding wealth, or self-organized criticality**." Newman's
 review ([LIT-2976](../literature.d/LIT-2976.md)) is A's general reference; read on 2026-11-22, it
-grounds items 2, 3, 6 and 7 only ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md), [ARG-tmp3ppjy](../arguments.d/ARG-tmp3ppjy.md)).
+grounds items 2, 3, 6 and 7 only ([THEORY-2169](../theory.d/THEORY-2169.md), [ARG-168](../arguments.d/ARG-168.md)).
 
 1. **Critical branching** (§1). At R = 1 with finite, nonzero offspring
    variance, P(S = s) ∝ s^(−3/2). Checked for Poisson offspring in
@@ -108,18 +108,18 @@ grounds items 2, 3, 6 and 7 only ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.
    adds superstatistics (Beck, [LIT-2962](../literature.d/LIT-2962.md)) and the warning that "If a
    dataset displays a power law, that does not necessarily mean any
    individual entity follows power-law dynamics". See the note of
-   2026-11-21 on [CLAIM-769](CLAIM-769.md). Beck and Cohen, read ([THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)), give the
+   2026-11-21 on [CLAIM-769](CLAIM-769.md). Beck and Cohen, read ([THEORY-2176](../theory.d/THEORY-2176.md)), give the
    formula as their eq. 13 with energy for time, (1 + bE)^(−c), the
    exponent the gamma's shape. Only some spreads give a power law: their
    uniform density bounded away from zero keeps an exponential tail, and
    the tail is a power exactly when the spread has power-law weight at
-   zero rate ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md), the assistant's; [ARG-tmpa8ghr](../arguments.d/ARG-tmpa8ghr.md)).
+   zero rate ([CLAIM-857](CLAIM-857.md), the assistant's; [ARG-175](../arguments.d/ARG-175.md)).
 5. **Sample-space reduction** (§5). A walk that jumps uniformly to a lower
    state until it reaches 1 visits state k with probability 1/k, Zipf's
    law (Corominas-Murtra, Hanel and Thurner, [LIT-2997](../literature.d/LIT-2997.md), unnamed by
    A). Checked over 200,000 runs from 100: 0.499, 0.199, 0.101 and 0.0201
    at k = 2, 5, 10 and 50. Their eq. 1 proves it by induction for exactly
-   this uniform process ([THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md); [ARG-tmpcx0it](../arguments.d/ARG-tmpcx0it.md)). The exponent is
+   this uniform process ([THEORY-2175](../theory.d/THEORY-2175.md); [ARG-177](../arguments.d/ARG-177.md)). The exponent is
    tunable: mixing each nested step with probability 1 − λ with a uniform
    jump over all states gives occupation ∝ k^(−λ), frequency exponent
    (1 + λ)/λ. Their abstract's "necessarily lead to Zipf's law" is wider
@@ -128,7 +128,7 @@ grounds items 2, 3, 6 and 7 only ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.
    exponential ages with rate λ give P(S > s) = (s/S_0)^(−λ/g) (Reed,
    [LIT-3007](../literature.d/LIT-3007.md)). Checked at λ = 1, g = 0.5: 0.0101 against 0.0100 at
    s = 10. "Even **identical growth rates** can coexist with highly
-   unequal sizes." Reed and Hughes, read ([THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md); [ARG-tmpadlas](../arguments.d/ARG-tmpadlas.md)):
+   unequal sizes." Reed and Hughes, read ([THEORY-2177](../theory.d/THEORY-2177.md); [ARG-176](../arguments.d/ARG-176.md)):
    the formula is their deterministic "simple case" (p. 1), not their
    result. With noisy growth (geometric Brownian motion of drift μ and
    volatility σ, killed at rate ν) the law is a double Pareto, its upper
@@ -198,14 +198,14 @@ say"), so these are additions, not defeaters. [THEORY-2150](../theory.d/THEORY-2
 
 Newman's review read: the line calling it A's general reference now says
 it grounds items 2, 3, 6 and 7 only; item 3 notes his first-return
-derivation; the summary is updated; [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) replaces [LIT-2976](../literature.d/LIT-2976.md) in
+derivation; the summary is updated; [THEORY-2169](../theory.d/THEORY-2169.md) replaces [LIT-2976](../literature.d/LIT-2976.md) in
 `grounds`. Version 2.
 
 ## Note of 2026-11-22: Newman, read
 
-Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
-[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **grounds items 2, 3, 6 and 7**, **leaves items 1, 4 and
-5 open**, and **adds four mechanisms** ([ARG-tmp3ppjy](../arguments.d/ARG-tmp3ppjy.md)).
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-2261](../notes.d/NOTE-2261.md); the reading is
+[THEORY-2169](../theory.d/THEORY-2169.md)) **grounds items 2, 3, 6 and 7**, **leaves items 1, 4 and
+5 open**, and **adds four mechanisms** ([ARG-168](../arguments.d/ARG-168.md)).
 
 - **Item 2.** Percolation at p_c = 0.5927462, and a coarse-graining
   argument that the cluster distribution is a power law at the critical
@@ -223,11 +223,11 @@ Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2
   exponential rates (item 4; Newman's "combinations of exponentials" is
   item 6's mechanism, not a mixture), sample-space reduction (item 5).
 - **Further mechanisms with no rich-get-richer feedback**, which the
-  catalogue lacks: Miller's random typing (§IV.A; [LIT-tmppzucs](../literature.d/LIT-tmppzucs.md), already
+  catalogue lacks: Miller's random typing (§IV.A; [LIT-3040](../literature.d/LIT-3040.md), already
   noted from Mitzenmacher), highly optimized tolerance (§IV.G; Carlson and
-  Doyle, [LIT-tmp2octb](../literature.d/LIT-tmp2octb.md)), coherent noise (§IV.G; Sneppen and Newman,
-  [LIT-tmp1db7e](../literature.d/LIT-tmp1db7e.md)) and record dynamics, waiting times between records with
-  exponent 1 (§IV.G; Sibani and Littlewood, [LIT-tmpf9hct](../literature.d/LIT-tmpf9hct.md)). Highly
+  Doyle, [LIT-3031](../literature.d/LIT-3031.md)), coherent noise (§IV.G; Sneppen and Newman,
+  [LIT-3030](../literature.d/LIT-3030.md)) and record dynamics, waiting times between records with
+  exponent 1 (§IV.G; Sibani and Littlewood, [LIT-3036](../literature.d/LIT-3036.md)). Highly
   optimized tolerance involves an optimizer, as Mitzenmacher's
   optimization does. The catalogue does not claim completeness, so these
   are additions, not defeaters.
@@ -237,31 +237,31 @@ Status unchanged.
 ## Change of 2026-11-22: Beck and Cohen, Corominas-Murtra, Hanel and Thurner, Reed and Hughes, read
 
 Items 4, 5 and 6 name their readings: item 4 with the condition on the
-spread ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md)), item 5 with the tunable family and the limit of
+spread ([CLAIM-857](CLAIM-857.md)), item 5 with the tunable family and the limit of
 the proof, item 6 as Reed and Hughes's deterministic case with their
-double Pareto beside it. [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md), [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md) and [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)
-replace [LIT-2962](../literature.d/LIT-2962.md), [LIT-2997](../literature.d/LIT-2997.md) and [LIT-3007](../literature.d/LIT-3007.md) in `grounds` ([ARG-tmpa8ghr](../arguments.d/ARG-tmpa8ghr.md),
-[ARG-tmpcx0it](../arguments.d/ARG-tmpcx0it.md), [ARG-tmpadlas](../arguments.d/ARG-tmpadlas.md)). The summary is updated. Version 3.
+double Pareto beside it. [THEORY-2176](../theory.d/THEORY-2176.md), [THEORY-2175](../theory.d/THEORY-2175.md) and [THEORY-2177](../theory.d/THEORY-2177.md)
+replace [LIT-2962](../literature.d/LIT-2962.md), [LIT-2997](../literature.d/LIT-2997.md) and [LIT-3007](../literature.d/LIT-3007.md) in `grounds` ([ARG-175](../arguments.d/ARG-175.md),
+[ARG-177](../arguments.d/ARG-177.md), [ARG-176](../arguments.d/ARG-176.md)). The summary is updated. Version 3.
 
 ## Note of 2026-11-22: Beck and Cohen; Corominas-Murtra, Hanel and Thurner; Reed and Hughes, read
 
-- **Beck and Cohen** ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md))
+- **Beck and Cohen** ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-2265](../notes.d/NOTE-2265.md); [THEORY-2176](../theory.d/THEORY-2176.md))
   **ground item 4, with a qualification.** Their eq. 13 is the item's
   gamma formula; their uniform and two-level densities keep exponential
   tails, and the large-E behaviour "strongly depends on the function
   f(β)" (p. 7). A spread gives a power law exactly when it has power-law
   weight at zero rate, and a lognormal spread gives a tail between every
-  power and every exponential ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md), the assistant's, checked
+  power and every exponential ([CLAIM-857](CLAIM-857.md), the assistant's, checked
   by quadrature). The item's `defeated_if` names a gamma spread, so the
   thesis stands; the label "a mixture of exponential rates" reads wider
   than what holds. The caution A quotes fits: each cell is ordinary
   Boltzmann–Gibbs, and only the average departs.
 - **Corominas-Murtra, Hanel and Thurner** ([LIT-2997](../literature.d/LIT-2997.md), read in
-  [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md); [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md)) **ground item 5** exactly, by their
+  [NOTE-2266](../notes.d/NOTE-2266.md); [THEORY-2175](../theory.d/THEORY-2175.md)) **ground item 5** exactly, by their
   induction proof (eq. 1), and add the family k^(−λ). "History-dependent"
   in their title means state-dependent: the walk is a Markov chain with no
   reinforcement, which is the item's "no positive feedback".
-- **Reed and Hughes** ([LIT-3007](../literature.d/LIT-3007.md), read in [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md))
+- **Reed and Hughes** ([LIT-3007](../literature.d/LIT-3007.md), read in [NOTE-2264](../notes.d/NOTE-2264.md); [THEORY-2177](../theory.d/THEORY-2177.md))
   **ground item 6** as their deterministic case, and **qualify** it: the
   exponent is a bare ratio λ/g only without noise. They also give a second
   branching route, a supercritical Galton–Watson process killed
@@ -274,8 +274,8 @@ Status unchanged.
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
 
-The reading of Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md);
-the reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)), filed in a parallel filing of this date,
+The reading of Bak, Tang and Wiesenfeld ([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-2269](../notes.d/NOTE-2269.md);
+the reading is [THEORY-2179](../theory.d/THEORY-2179.md)), filed in a parallel filing of this date,
 **supports the sandpile addition** (A3) with a
 **caution**: its chain reaction is "ever amplifying", so this claim's "no
 positive feedback" holds for the sandpile only in the rich-get-richer
@@ -285,6 +285,6 @@ item 3's shared exponent ([CLAIM-815](CLAIM-815.md)): its cluster exponents are 
 0.98 in two dimensions and 1.35 in three. The quotation was rechecked by
 this filer against that reading's download (first page, of noise spreading "to
 the neighbors in a chain reaction, ever amplifying"). [LIT-2992](../literature.d/LIT-2992.md) stays in
-`grounds`; whether [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md) should replace it is left to that
+`grounds`; whether [THEORY-2179](../theory.d/THEORY-2179.md) should replace it is left to that
 filing. Status unchanged.
 

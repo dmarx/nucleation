@@ -1,6 +1,6 @@
 ### Added
 
-- **[LEAD-167](record/leads.d/LEAD-167.md) carried out** ([CASE-tmpgfgy2](record/cases.d/CASE-tmpgfgy2.md), an executed study; [CLAIM-tmptbxbq](record/claims.d/CLAIM-tmptbxbq.md)). Bourrat's two individuality measures, Â with C1 and C2 ([LIT-005](record/literature.d/LIT-005.md)) and δC with δC|E ([LIT-049](record/literature.d/LIT-049.md)), were computed exactly on a minimal ecological-scaffolding model. C2's variance falls as the scaffold is endogenised, while δC|E is exactly zero for the patch partition throughout. Each measure passes a counterfeit: the patch with its external scaffold passes C2, and every partition of a common-input population passes δC|E. Scripts, tests and results are under scratch/studies/lead-167/.
+- **[LEAD-167](record/leads.d/LEAD-167.md) carried out** ([CASE-320](record/cases.d/CASE-320.md), an executed study; [CLAIM-884](record/claims.d/CLAIM-884.md)). Bourrat's two individuality measures, Â with C1 and C2 ([LIT-005](record/literature.d/LIT-005.md)) and δC with δC|E ([LIT-049](record/literature.d/LIT-049.md)), were computed exactly on a minimal ecological-scaffolding model. C2's variance falls as the scaffold is endogenised, while δC|E is exactly zero for the patch partition throughout. Each measure passes a counterfeit: the patch with its external scaffold passes C2, and every partition of a common-input population passes δC|E. Scripts, tests and results are under scratch/studies/lead-167/.
 
 ### Changed
 

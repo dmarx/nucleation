@@ -34,8 +34,8 @@ summary: >-
   assistant in the exchange "Rich Get Richer Power Laws", A7 and A8);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpehudh CLAIM-tmpfwwrf — Proposed or new; the reading of Bak, Tang and Wiesenfeld and the record's sandpile reproduction, cited in the note of 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu — Proposed; the readings of 2026-11-22 cited in the notes -->
+<!-- inactive-ok-file: THEORY-2179 CLAIM-858 — Proposed or new; the reading of Bak, Tang and Wiesenfeld and the record's sandpile reproduction, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2169 THEORY-2173 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-803 CLAIM-845 CASE-303 — Proposed or new; the claims and case filed with this lead from the same exchange -->
 
 # LEAD-211: Track the cutoff of an event-size distribution, and how it scales with system size, rather than its exponent, as a sign that a system is approaching a continuous transition, and compare it with the variance and autocorrelation warnings of critical slowing down
@@ -96,21 +96,21 @@ estimate is never better than the variance at equal data.
 
 ## Note of 2026-11-22: Newman; Clauset, Shalizi and Newman, read
 
-**Background and method.** Newman ([LIT-2976](../literature.d/LIT-2976.md), [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md),
-[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) notes finite-size cutoffs at criticality and the forest
+**Background and method.** Newman ([LIT-2976](../literature.d/LIT-2976.md), [NOTE-2261](../notes.d/NOTE-2261.md),
+[THEORY-2169](../theory.d/THEORY-2169.md)) notes finite-size cutoffs at criticality and the forest
 fire's cutoff at the lattice size (§IV.F, p. 22), without using a cutoff
-as a test. Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md),
-[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) give a ready test for a cutoff in one sample (§5.2), and
+as a test. Clauset, Shalizi and Newman ([LIT-2987](../literature.d/LIT-2987.md), [NOTE-2262](../notes.d/NOTE-2262.md),
+[THEORY-2173](../theory.d/THEORY-2173.md)) give a ready test for a cutoff in one sample (§5.2), and
 nothing on its scaling with system size. The lead's step is still open.
 
 ## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read; the sandpile run
 
 **A precedent, and a first worked case.** Bak, Tang and Wiesenfeld
-([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md); the reading is [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md))
+([LIT-2992](../literature.d/LIT-2992.md), read in [NOTE-2269](../notes.d/NOTE-2269.md); the reading is [THEORY-2179](../theory.d/THEORY-2179.md))
 already use this lead's size test, in words only: "The falloff at the
 largest cluster sizes is due to finite-size effects, as we checked by
 comparing simulations for different array sizes" (p. 383), with no data
-shown. The record's reproduction, [CLAIM-tmpfwwrf](../claims.d/CLAIM-tmpfwwrf.md), supplies the data for
+shown. The record's reproduction, [CLAIM-858](../claims.d/CLAIM-858.md), supplies the data for
 the 2-D sandpile: ⟨s²⟩/⟨s⟩ = 92, 467, 2,607 and 15,822 at L = 16, 32, 64
 and 128, a cutoff growing roughly as L^2.5, with local exponents still
 rising (2.34, 2.48, 2.60). Two lessons for the lead: the cutoff exponent

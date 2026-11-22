@@ -1,9 +1,9 @@
 ### Added
 
-- [CASE-tmpb4hg0](record/cases.d/CASE-tmpb4hg0.md): the modular-addition checkpoint study of [LEAD-172](record/leads.d/LEAD-172.md), run
+- [CASE-331](record/cases.d/CASE-331.md): the modular-addition checkpoint study of [LEAD-172](record/leads.d/LEAD-172.md), run
   (executed-study), with its scripts, tests and results under
   scratch/studies/lead-172/.
-- [CLAIM-tmp6rhuv](record/claims.d/CLAIM-tmp6rhuv.md): what the study finds about selection-rule coupling as an
+- [CLAIM-900](record/claims.d/CLAIM-900.md): what the study finds about selection-rule coupling as an
   early forecast of generalization, against a null at equal edge budget.
 
 ### Changed

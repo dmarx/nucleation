@@ -40,19 +40,19 @@ Where the record names it:
 Conditions with a bound answer [QUESTION-222](../questions.d/QUESTION-222.md) for the class.
 
 ## Note of 2026-11-22: carried out for the linear Gaussian VAR(1)
-<!-- inactive-ok-file: CASE-tmpi9sds CLAIM-tmplsu2m — new; the claim and study filed from this lead -->
+<!-- inactive-ok-file: CASE-349 CLAIM-925 — new; the claim and study filed from this lead -->
 
 Done on the branch claude/lead-084-markov-augmentation
 (scratch/studies/lead-084/, 308 pytest checks). The class chosen is the
 stable linear Gaussian VAR(1) with a coarse variable Y = LX of any
 dimension, observed without noise: the first step beyond
-[CLAIM-398](../claims.d/CLAIM-398.md)'s scalar case. [CLAIM-tmplsu2m](../claims.d/CLAIM-tmplsu2m.md) (demonstrated) gives the exact
+[CLAIM-398](../claims.d/CLAIM-398.md)'s scalar case. [CLAIM-925](../claims.d/CLAIM-925.md) (demonstrated) gives the exact
 augmentation, which is the Kalman filter, with at most n − m memory
 coordinates; a bound on the excess error of keeping p lags, at the rate of
 the filter's closed loop; that this rate is bounded by the eliminated
 dynamics when one variable is eliminated, and not in general; and that the
 augmentation leaves the transfer entropy from X unchanged.
-[CASE-tmpi9sds](../cases.d/CASE-tmpi9sds.md) is the numerical study, which also found the minimal
+[CASE-349](../cases.d/CASE-349.md) is the numerical study, which also found the minimal
 augmentation equal to the Hankel rank of the Mori–Zwanzig memory on every
 model tried.
 

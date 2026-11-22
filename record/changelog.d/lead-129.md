@@ -1,6 +1,6 @@
 ### Added
 
-- [CASE-tmp3pe1j](record/cases.d/CASE-tmp3pe1j.md) (executed-study, documented): a small within-domain matched
+- [CASE-377](record/cases.d/CASE-377.md) (executed-study, documented): a small within-domain matched
   comparison of public standards bodies with and without a standing
   living-revision mechanism — WHATWG against the W3C HTML/XHTML track, the W3C
   before against after its 2019 living-standard adoption, and the Unicode
@@ -12,5 +12,5 @@
 ### Changed
 
 - [LEAD-129](record/leads.d/LEAD-129.md): a dated note recording that the comparison was carried out as
-  [CASE-tmp3pe1j](record/cases.d/CASE-tmp3pe1j.md), what it found, what remains, and the owner's call it leaves
+  [CASE-377](record/cases.d/CASE-377.md), what it found, what remains, and the owner's call it leaves
   open. Status and stage unchanged.

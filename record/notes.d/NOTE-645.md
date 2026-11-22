@@ -47,7 +47,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; cited for what this reading bears on, not as settled -->
-<!-- inactive-ok-file: CASE-tmpssuha — Proposed; the LEAD-014 pilot, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-318 — Proposed; the LEAD-014 pilot, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-044 — Proposed; open, and cited as open: the claims this reading bears on -->
 
 # NOTE-645: On the Quantum-like Contextuality of Ambiguous Phrases
@@ -243,4 +243,4 @@ measures garbled in extraction; they are the 1/30 and 7/30 here.
 
 ## Note of 2026-11-22: the paper's reason for the absent bus sense
 
-The replay of this filing in the [LEAD-014](../leads.d/LEAD-014.md) pilot ([CASE-tmpssuha](../cases.d/CASE-tmpssuha.md), accounting S3 under `scratch/studies/lead-014/`) found that the paper explains the near-absence of the bus sense of "coach" in its British corpora by calling that sense "mainly American". That runs backwards: the bus sense of "coach" is the British usage, and American English says "bus". The finding listed above (the sense nearly absent, §9) stands; the paper's explanation of it does not, so the absence is unexplained rather than explained by dialect. The quotation is the replay's and was not rechecked against §9 when this note was written.
+The replay of this filing in the [LEAD-014](../leads.d/LEAD-014.md) pilot ([CASE-318](../cases.d/CASE-318.md), accounting S3 under `scratch/studies/lead-014/`) found that the paper explains the near-absence of the bus sense of "coach" in its British corpora by calling that sense "mainly American". That runs backwards: the bus sense of "coach" is the British usage, and American English says "bus". The finding listed above (the sense nearly absent, §9) stands; the paper's explanation of it does not, so the absence is unexplained rather than explained by dialect. The quotation is the replay's and was not rechecked against §9 when this note was written.

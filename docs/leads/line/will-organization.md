@@ -6,11 +6,11 @@
 
 **Will-organization** — what organizes practical efficacy in an agent, and how that organization becomes precarious. Normative judgment about organizations is a line of its own (ADR-089).
 
-23 of 211 LEAD documents. Back to the [full index](../README.md).
+23 of 215 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [LEAD-017](../../../record/leads.d/LEAD-017.md) | Extend the synthetic separation with three organizations of matched behaviour and different endorsement relations, measuring registration apart from the experimenter's setting | Named in [QUESTION-270](../../../record/questions.d/QUESTION-270.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-017](../../../record/leads.d/LEAD-017.md) v2 | Extend the synthetic separation with three organizations of matched behaviour and different endorsement relations, measuring registration apart from the experimenter's setting | Named in [QUESTION-270](../../../record/questions.d/QUESTION-270.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-022](../../../record/leads.d/LEAD-022.md) | Run the study of a fall in complaints: with working conditions fixed, measure separately whether members find them acceptable, see the discrepancy, are motivated and are able to voice it | The empirical arm of the will-manipulation question, whose five measures make [CLAIM-553](../../../record/claims.d/CLAIM-553.md)'s factors measurable. Named in [CASE-290](../../../record/cases.d/CASE-290.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-024](../../../record/leads.d/LEAD-024.md) | Fit Twitch Plays Pokemon's anarchy-mode input logs with a drift process against a switching model | Named in [CLAIM-262](../../../record/claims.d/CLAIM-262.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-029](../../../record/leads.d/LEAD-029.md) | Derive a prediction that follows from the shared organizational variables and not from phenomenon-specific or central-executive models, and a joint prediction of two lines through the mapping | Whether two lines are one model. Named in [CLAIM-286](../../../record/claims.d/CLAIM-286.md), [CLAIM-336](../../../record/claims.d/CLAIM-336.md) and [ARG-065](../../../record/arguments.d/ARG-065.md). Filed by the backlog audit of 2026-11-19. | Open |

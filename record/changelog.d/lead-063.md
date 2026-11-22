@@ -1,7 +1,7 @@
 ### Added
 
-- [CASE-tmp5fglr](record/cases.d/CASE-tmp5fglr.md): autoregressive integrated information with IIT's exclusion rule, computed by one procedure for a linear modular mind and a group of three such minds ([LEAD-063](record/leads.d/LEAD-063.md)). In both the whole is the subject only above a threshold of seam coupling set by its parts' integration; one link can flip the verdict. Code, tests and results under scratch/studies/lead-063/.
-- [CLAIM-tmpfoatc](record/claims.d/CLAIM-tmpfoatc.md): in linear models this measure and rule separate tightly from loosely coupled wholes, not minds from groups (Proposed, thesis, demonstrated).
+- [CASE-350](record/cases.d/CASE-350.md): autoregressive integrated information with IIT's exclusion rule, computed by one procedure for a linear modular mind and a group of three such minds ([LEAD-063](record/leads.d/LEAD-063.md)). In both the whole is the subject only above a threshold of seam coupling set by its parts' integration; one link can flip the verdict. Code, tests and results under scratch/studies/lead-063/.
+- [CLAIM-927](record/claims.d/CLAIM-927.md): in linear models this measure and rule separate tightly from loosely coupled wholes, not minds from groups (Proposed, thesis, demonstrated).
 
 ### Changed
 

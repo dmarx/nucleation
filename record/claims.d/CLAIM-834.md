@@ -29,7 +29,7 @@ grounds:
 - THEORY-087
 - THEORY-1275
 - THEORY-975
-- THEORY-tmpr9w2r
+- THEORY-2160
 - LIT-2960
 - LIT-3000
 bears_on:
@@ -50,9 +50,9 @@ summary: >-
   computes its learning coefficients ([CLAIM-823](CLAIM-823.md), A37's reframing).
 ---
 
-<!-- inactive-ok-file: THEORY-tmpr9w2r — Proposed or new; the reading of 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-2160 — Proposed or new; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-811 CLAIM-807 CLAIM-802 CLAIM-823 ARG-132 — claims filed with this one -->
-<!-- inactive-ok-file: THEORY-tmpbobud THEORY-tmpg4aat — Proposed readings, filed 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-2163 THEORY-2164 — Proposed readings, filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-812 THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # CLAIM-834: Singularity theory's account of phase transitions in learning as resolutions of singularities might be useful for the account of progressive, coarse-to-fine learning the exchange had built
@@ -137,21 +137,21 @@ itself has no dynamical content beyond its Outlook.
 Three readings bear on U23; none of them decides between its readings.
 
 - **Amari, Park and Ozeki: background, and A37's "dynamics are separate"
-  borne out** ([NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md), [THEORY-tmpbobud](../theory.d/THEORY-tmpbobud.md)). Their account of learning
+  borne out** ([NOTE-2255](../notes.d/NOTE-2255.md), [THEORY-2163](../theory.d/THEORY-2163.md)). Their account of learning
   near singularities uses the Fisher metric and fast and slow manifolds,
   never resolution: algebraic geometry is "Another general framework …
   which we do not summarize here" (p. 1024). A smooth prior favours
   singular points "with an infinitely large factor" (p. 1029), which is
   consonant with reading (b), the Bayesian competition between regions,
   but gives no account of a transition.
-- **Wei and colleagues: the same point, sharper** ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md),
-  [THEORY-tmpg4aat](../theory.d/THEORY-tmpg4aat.md)). One singular set is reached, crossed or left according
+- **Wei and colleagues: the same point, sharper** ([NOTE-2254](../notes.d/NOTE-2254.md),
+  [THEORY-2164](../theory.d/THEORY-2164.md)). One singular set is reached, crossed or left according
   to the signature of a residual matrix and a conserved quantity of the
   flow (Theorem 1, Eq. 3.15); its existence does not fix the dynamics. No
   learning coefficient appears, and no transition is read as a
   resolution. Background for reading (b) at most.
 - **Hoogland and colleagues, read by the other filer in this batch**
-  ([LIT-2966](../literature.d/LIT-2966.md), [NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)), are the measured stages
+  ([LIT-2966](../literature.d/LIT-2966.md), [NOTE-2248](../notes.d/NOTE-2248.md), [THEORY-2160](../theory.d/THEORY-2160.md)), are the measured stages
   reading (b) would have to meet. The paper calls its link to singular
   learning an analogy: "an analogy to the singular learning process
   informs our methodology for stage division"; it never calls a stage a
@@ -167,8 +167,8 @@ Three readings bear on U23; none of them decides between its readings.
 
 ## Note of 2026-11-21: grounds
 
-Hoogland et al. ([LIT-2966](../literature.d/LIT-2966.md)) is now read ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)), so its place in this claim's grounds passes to the reading's account, [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md). As the reading found, that paper calls its link to singular learning "an analogy" and never calls a stage a singularity, so it grounds only that stages leave a mark in the learning coefficient. The note is the assistant's (Claude, in this session).
+Hoogland et al. ([LIT-2966](../literature.d/LIT-2966.md)) is now read ([NOTE-2248](../notes.d/NOTE-2248.md)), so its place in this claim's grounds passes to the reading's account, [THEORY-2160](../theory.d/THEORY-2160.md). As the reading found, that paper calls its link to singular learning "an analogy" and never calls a stage a singularity, so it grounds only that stages leave a mark in the learning coefficient. The note is the assistant's (Claude, in this session).
 
 ## Note of 2026-11-21: the step to the new ground
 
-The step that puts [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md) in this claim's grounds is the one [ARG-tmpfh555](../arguments.d/ARG-tmpfh555.md) argues for reading (b), [CLAIM-823](CLAIM-823.md): Hoogland et al. ground only that stages leave a mark in the learning coefficient. That is all this claim takes from it. The note is the assistant's (Claude, in this session).
+The step that puts [THEORY-2160](../theory.d/THEORY-2160.md) in this claim's grounds is the one [ARG-156](../arguments.d/ARG-156.md) argues for reading (b), [CLAIM-823](CLAIM-823.md): Hoogland et al. ground only that stages leave a mark in the learning coefficient. That is all this claim takes from it. The note is the assistant's (Claude, in this session).

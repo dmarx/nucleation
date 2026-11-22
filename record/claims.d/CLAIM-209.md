@@ -52,7 +52,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-142 CLAIM-129 — Proposed; open, and cited as the negative results and restatements this thesis sits beside, not as settled -->
 <!-- inactive-ok-file: CLAIM-204 CLAIM-215 — Proposed; the revised October thesis, and the entries filed with this one on 2026-10-10, open -->
 <!-- inactive-ok-file: CLAIM-193 THEORY-005 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: CASE-tmp5w2ty CLAIM-tmpc54vj CLAIM-tmpm4oom — Proposed; the study and findings of 2026-11-22, cited in the note of that date -->
+<!-- inactive-ok-file: CASE-379 CLAIM-976 CLAIM-977 — Proposed; the study and findings of 2026-11-22, cited in the note of that date -->
 
 # CLAIM-209: Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not
 
@@ -155,18 +155,18 @@ been run.
 ## Note of 2026-11-22: the directed signature stated, by [LEAD-142](../leads.d/LEAD-142.md)
 
 [LEAD-142](../leads.d/LEAD-142.md) stated the signature for the directed case and attempted the
-proof, filing [CASE-tmp5w2ty](../cases.d/CASE-tmp5w2ty.md) (a numpy study), [CLAIM-tmpc54vj](CLAIM-tmpc54vj.md) and
-[CLAIM-tmpm4oom](CLAIM-tmpm4oom.md). The outcome is mixed, which sharpens this thesis's
+proof, filing [CASE-379](../cases.d/CASE-379.md) (a numpy study), [CLAIM-976](CLAIM-976.md) and
+[CLAIM-977](CLAIM-977.md). The outcome is mixed, which sharpens this thesis's
 "what it does not say". For decisions that are functions of the input, the
 directed candidate (the top-d left singular span of the
 conditional-expectation operator) is identically the top-d eigenspace of the
 self-adjoint two-step operator T T*, so the directed input-decision case is a
 symmetric one and is settled for linear probes by [THEORY-239](../theory.d/THEORY-239.md)
-([CLAIM-tmpc54vj](CLAIM-tmpc54vj.md)). But beyond linear probes no single span is the
+([CLAIM-976](CLAIM-976.md)). But beyond linear probes no single span is the
 signature: a nonlinear readout recovers stable targets outside the span,
 sufficiency is span-relative absent a fixed decision family, and
 direction-dependent decisions are served by no left span
-([CLAIM-tmpm4oom](CLAIM-tmpm4oom.md)). So the clause this entry "names no signature, family of
+([CLAIM-977](CLAIM-977.md)). So the clause this entry "names no signature, family of
 decisions or class of transformations" is now shown load-bearing: the family
 of decisions has to be fixed before a span can be called sufficient. The
 held-out empirical test is still not run.

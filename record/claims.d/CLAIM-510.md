@@ -34,7 +34,7 @@ summary: >-
   independently validated. No held case meets it yet.
 ---
 <!-- inactive-ok-file: CASE-tmp33vf4 CLAIM-tmpvqmwc — new, on pull request #740 (LEAD-177), not yet on staging; cited as a candidate for this claim's condition, and the citation depends on #740 merging -->
-<!-- inactive-ok-file: CASE-tmp69rk8 — Proposed; filed from LEAD-098's run of 2026-11-22, cited as a partial case -->
+<!-- inactive-ok-file: CASE-333 — Proposed; filed from LEAD-098's run of 2026-11-22, cited as a partial case -->
 <!-- inactive-ok-file: CASE-tmp17zl1 NOTE-tmp2d035 THEORY-tmp5gcq1 — new; the case LEAD-164 filed and its reading -->
 
 # CLAIM-510: Measurement can establish, and not only estimate, a correspondence among local descriptions: some correspondences that measurement estimates can be checked against evidence the measurement did not itself produce
@@ -95,7 +95,7 @@ call, and so is any change of status. No status changes here.
   consistent and no more accurate (0.40). The beacons are evidence the
   sensors' reports did not produce, and the estimate is scored on
   positions no arm sees.
-- [CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md) ([LEAD-098](../leads.d/LEAD-098.md), on staging). An apparatus revising its
+- [CASE-333](../cases.d/CASE-333.md) ([LEAD-098](../leads.d/LEAD-098.md), on staging). An apparatus revising its
   maps of an oscillator network keeps a revision only if it predicts
   held-out kicks the apparatus did not choose. That checks its model of
   the phase responses (gains, pinning) against interventions the fitting
@@ -115,12 +115,12 @@ call, and so is any change of status. No status changes here.
 
 **Reading A: evidence whose production and scoring do not pass through
 the estimate, as [CLAIM-342](CLAIM-342.md) states it; a construction suffices, since the
-claim says "can".** The condition looks met by CASE-tmp33vf4, once [#740](https://github.com/dmarx/nucleation/issues/740)
+claim says "can".** The condition looks met by [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md), once [#740](https://github.com/dmarx/nucleation/issues/740)
 merges. Its beacons come from the world through a protected channel, and
 the network's estimate is scored against true positions no arm sees.
 Against it: the beacons feed the revision rather than being held out, so
 the check proper is the simulator's ground truth, which no real apparatus
-has; and the independence is stipulated by construction. [CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md)
+has; and the independence is stipulated by construction. [CASE-333](../cases.d/CASE-333.md)
 meets it in part, as above.
 
 **Reading B: a measurement practice in which the independence of the
@@ -134,7 +134,7 @@ Skimmed.
 
 **Reading C: the checking evidence presupposes no correspondence at
 all.** No candidate meets it. The beacons' own channel map is trusted in
-CASE-tmp33vf4, and in [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md) each channel has calibrated delays,
+[CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md), and in [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md) each channel has calibrated delays,
 and all three share the clocks and one geodetic redshift correction. This
 reading asks more than the claim's defeater does: the defeater is met by a
 check that "presupposes the correspondence it checks", and none of these
@@ -144,7 +144,7 @@ rests on another trusted correspondence) would be an argument towards the
 defeater, not a missing case.
 
 **The assistant's lean**: reading B, met by [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md), with
-CASE-tmp33vf4 as the construction that shows what the independence
+[CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) as the construction that shows what the independence
 consists in (a channel the estimate can neither rewrite nor refuse). On
 that lean the condition the 2026-10-30 note set, "One such case would
 promote it", looks met. Promotion is the owner's call. The wording is the

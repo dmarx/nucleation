@@ -1,6 +1,6 @@
 ---
 name: run-lead
-description: How a delegated worker carries out one LEAD of the record, from cutting its branch to its report, persisting its progress as it goes. Use it to brief a lead worker, or when carrying out a lead yourself. ADR-tmpvqx5l (or its alternative ADR-tmpyb409) holds the rule that work persists as it goes; this file holds the steps.
+description: How a delegated worker carries out one LEAD of the record, from cutting its branch to its report, persisting its progress as it goes. Use it to brief a lead worker, or when carrying out a lead yourself. ADR-141 (or its alternative ADR-142) holds the rule that work persists as it goes; this file holds the steps.
 ---
 <!-- .claude/skills/run-lead/SKILL.md -->
 
@@ -11,7 +11,7 @@ you names the lead and your branch. You work in an isolated git worktree
 of the repository.
 
 This file was the lead-worker brief of 2026-11-22, which lived in the
-session's scratchpad. It moved here under ADR-tmpvqx5l / ADR-tmpyb409,
+session's scratchpad. It moved here under ADR-141 / ADR-142,
 with its persistence steps (4 and 5) added. When a step here turns out
 wrong or missing, edit it in the same pull request as the work that showed
 it.

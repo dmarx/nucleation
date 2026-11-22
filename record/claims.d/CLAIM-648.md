@@ -104,11 +104,11 @@ has the same structure inside a self-maintaining system:
 
 ## Note of 2026-11-22: Millikan and the SEP survey, read
 
-<!-- inactive-ok-block: THEORY-tmpfugkf THEORY-tmpuzicj CLAIM-tmp974nn CASE-239 — Proposed; readings and the objection filed for LEAD-018, and the proposed study this claim does not yet cite -->
+<!-- inactive-ok-block: THEORY-2234 THEORY-2235 CLAIM-920 CASE-239 — Proposed; readings and the objection filed for LEAD-018, and the proposed study this claim does not yet cite -->
 For [LEAD-018](../leads.d/LEAD-018.md) the record read the selection-based alternative to this
-claim's organizational route: Millikan's biosemantics ([THEORY-tmpfugkf](../theory.d/THEORY-tmpfugkf.md))
-and the SEP survey ([THEORY-tmpuzicj](../theory.d/THEORY-tmpuzicj.md)). It conflicts with this claim, and
-the objection is filed as [CLAIM-tmp974nn](CLAIM-tmp974nn.md) (`objects_to` this claim). In
+claim's organizational route: Millikan's biosemantics ([THEORY-2234](../theory.d/THEORY-2234.md))
+and the SEP survey ([THEORY-2235](../theory.d/THEORY-2235.md)). It conflicts with this claim, and
+the objection is filed as [CLAIM-920](CLAIM-920.md) (`objects_to` this claim). In
 brief: on the etiological accounts, an anticipation is false by a norm
 of the system's own only if selection or learning stabilized it, and a
 system with no history has none (the Swampman case). That agrees with

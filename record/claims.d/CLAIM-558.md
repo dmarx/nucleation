@@ -103,7 +103,7 @@ bears_on:
 - QUESTION-395
 - QUESTION-433
 ---
-<!-- inactive-ok-file: CASE-tmp4f2jr THEORY-tmppzw1a ARG-tmpbjn5v — new; filed for LEAD-124 on 2026-11-22 -->
+<!-- inactive-ok-file: CASE-314 THEORY-2211 ARG-201 — new; filed for LEAD-124 on 2026-11-22 -->
 
 # CLAIM-558: A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation
 
@@ -198,4 +198,4 @@ advantage appears in the accuracy data only beyond about ten months.
 
 ## Note of 2026-11-22: decay by task type
 
-Qualified, not defeated, by [ARG-tmpbjn5v](../arguments.d/ARG-tmpbjn5v.md) (Proposed). Part 1 cites the pooled accuracy rate, 0.08 SD a month. In the article's posted data ([CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md); [THEORY-tmppzw1a](../theory.d/THEORY-tmppzw1a.md)), that rate averages laboratory tasks (0.16) and real-world tasks (about 0.05). Medical and dental tasks, the closest to part 3's clinical procedures, decline by 0.043 a month over the full range (robust SE 0.012) and 0.12 within six months. Sports and military or transport tasks show no measurable decline, but none has an effect size beyond a year, so the defeater is not met; the claim's own clause, that slower or non-linear decay "would qualify the claim, not defeat it", applies. The claim's text and status are unchanged; whether to revise part 1's figure is the owner's call.
+Qualified, not defeated, by [ARG-201](../arguments.d/ARG-201.md) (Proposed). Part 1 cites the pooled accuracy rate, 0.08 SD a month. In the article's posted data ([CASE-314](../cases.d/CASE-314.md); [THEORY-2211](../theory.d/THEORY-2211.md)), that rate averages laboratory tasks (0.16) and real-world tasks (about 0.05). Medical and dental tasks, the closest to part 3's clinical procedures, decline by 0.043 a month over the full range (robust SE 0.012) and 0.12 within six months. Sports and military or transport tasks show no measurable decline, but none has an effect size beyond a year, so the defeater is not met; the claim's own clause, that slower or non-linear decay "would qualify the claim, not defeat it", applies. The claim's text and status are unchanged; whether to revise part 1's figure is the owner's call.

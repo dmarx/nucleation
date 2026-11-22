@@ -49,10 +49,10 @@ a different order bears on [QUESTION-400](../questions.d/QUESTION-400.md).
 
 ## Note of 2026-11-22: run
 
-Carried out by the assistant. [CASE-tmpndpz3](../cases.d/CASE-tmpndpz3.md) (executed-study) builds a
+Carried out by the assistant. [CASE-374](../cases.d/CASE-374.md) (executed-study) builds a
 stochastic assembly Markov chain with two alternative seams nucleating a shared
 body into two valid folds, an incompatible-seam trap and an unnucleated
-collapse, and scores the intermediates by committor. [CLAIM-tmp7stqi](../claims.d/CLAIM-tmp7stqi.md) states
+collapse, and scores the intermediates by committor. [CLAIM-969](../claims.d/CLAIM-969.md) states
 the finding: the committor measures an intermediate's future, not its assembled
 extent, and two separately productive nuclei can combine into a trap. The
 committors order the intermediates as [CLAIM-567](../claims.d/CLAIM-567.md) predicts (a small nucleus

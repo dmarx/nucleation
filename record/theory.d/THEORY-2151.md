@@ -36,7 +36,7 @@ summary: >-
   not shown.
 ---
 <!-- inactive-ok-file: CLAIM-849 TERM-141 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
-<!-- inactive-ok-file: THEORY-tmpl7rgc — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2200 — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
 # THEORY-2151: Bialek, Nemenman and Tishby: the predictive information of a stationary series is the subextensive part of its entropy; when the data come from a model with K parameters drawn once from a prior it grows as (K/2) log N, with K replaced by a smaller dimension when the parameterization is degenerate, and when the density of models at small divergence from the target has an essential singularity exp(−B/D^μ) it grows, in the annealed approximation, as N^(μ/(μ+1)), as N^(1/2) for a smooth density under a field-theory prior
 
@@ -87,7 +87,7 @@ or the basis; it does not, in the annealed calculation.
 ## Note of 2026-11-22: Crutchfield and Feldman, read
 
 **A parallel, with a stated contrast**, no edge ([LIT-3010](../literature.d/LIT-3010.md), read in
-[NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md); [THEORY-tmpl7rgc](THEORY-tmpl7rgc.md)). Crutchfield and Feldman treat excess
+[NOTE-2286](../notes.d/NOTE-2286.md); [THEORY-2200](THEORY-2200.md)). Crutchfield and Feldman treat excess
 entropy and this paper's predictive information as one quantity (their
 alias list), report its Ising exponents, and say its parameter-count
 result "holds in a slightly different context than ours": an observer

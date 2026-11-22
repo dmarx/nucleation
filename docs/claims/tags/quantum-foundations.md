@@ -6,8 +6,9 @@
 
 **Quantum foundations** — what quantum theory says about the world — contextuality, epistemic restrictions, interference, reconstructions and toy theories, quantum thermodynamics.
 
-1 of 851 CLAIM documents. Back to the [full index](../README.md).
+2 of 995 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CLAIM-041](../../../record/claims.d/CLAIM-041.md) v3 | Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality | Built over A21–A30, against the assistant's quantum move and then the owner's U13. The manuscript §9 states it. The record's [THEORY-013](../../../record/theory.d/THEORY-013.md), the empirical reason A24 gave and now a corroborating reading (Proposed), not a ground, is not cited in the manuscript. The claim is demonstrated by [CASE-001](../../../record/cases.d/CASE-001.md) and [THEORY-545](../../../record/theory.d/THEORY-545.md). | Active |
+| [CLAIM-964](../../../record/claims.d/CLAIM-964.md) | A pragmatic rendering experiment's operational equivalences, equal probe predictabilities in the four sign patterns plus one mixture equivalence among renderings, imply a generalized-noncontextuality inequality bounding the sum of the two probe predictabilities by one, a preparation-contextuality test separate from and invisible to the sheaf criterion |  | Proposed |

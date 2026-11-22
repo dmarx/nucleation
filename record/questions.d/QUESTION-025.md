@@ -19,7 +19,7 @@ summary: >-
   directions survive that structure is not answered by anything the
   record holds.
 ---
-<!-- inactive-ok-file: CLAIM-tmpe87cm CASE-tmpby7xp — new, filed today by LEAD-147 -->
+<!-- inactive-ok-file: CLAIM-902 CASE-344 — new, filed today by LEAD-147 -->
 <!-- inactive-ok-file: THEORY-201 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-188 — Proposed; cited as partial evidence toward an answer, not as settled -->
 <!-- inactive-ok-file: THEORY-183 CLAIM-119 LIT-267 — Proposed; cited as the open accounts this question joins -->
@@ -188,7 +188,7 @@ The question stays Open.
 
 ## Note of 2026-11-22: a derivation, and a first measurement
 
-[LEAD-147](../leads.d/LEAD-147.md) filed both limbs. The derivation, [CLAIM-tmpe87cm](../claims.d/CLAIM-tmpe87cm.md), keeps
+[LEAD-147](../leads.d/LEAD-147.md) filed both limbs. The derivation, [CLAIM-902](../claims.d/CLAIM-902.md), keeps
 multiplicative co-occurrence and allows any implication order among the
 attributes. Every attribute is then still an exact affine readout of the
 full-rank PMI embedding, and the recovered incidence and its concept
@@ -202,6 +202,6 @@ depth. Along a tree, additivity says no more than that words in the same
 finest group share a PMI row; it constrains the PMI only where attributes
 cross-cut.
 
-The measurement is [CASE-tmpby7xp](../cases.d/CASE-tmpby7xp.md), on text8 with WordNet 3.0 hypernymy.
+The measurement is [CASE-344](../cases.d/CASE-344.md), on text8 with WordNet 3.0 hypernymy.
 Its hierarchy results are in that case. It uses no annotation by a
 language model, which answers [NOTE-240](../notes.d/NOTE-240.md)'s first objection for this test.

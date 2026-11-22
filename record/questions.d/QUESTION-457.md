@@ -26,7 +26,7 @@ summary: >-
   improver and correctability is A's, and adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-tmp6btcq CLAIM-tmp7ggg0 CASE-tmpl0ccq — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-348 CLAIM-928 CASE-332 — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2287 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: LIT-2488 — Deferred; registered from the same exchange, not read -->
 <!-- inactive-ok-file: CASE-255 — filed from the same exchange, Proposed -->
@@ -150,8 +150,8 @@ evidence on improvers. The question is unchanged.
 
 ## Note of 2026-11-22: [CASE-255](../cases.d/CASE-255.md) run in reduced form
 
-[LEAD-140](../leads.d/LEAD-140.md) ran [CASE-255](../cases.d/CASE-255.md) as a simulation ([CASE-tmp6btcq](../cases.d/CASE-tmp6btcq.md);
-[CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md)). A hill-climbing improver tuned [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md)'s organization,
+[LEAD-140](../leads.d/LEAD-140.md) ran [CASE-255](../cases.d/CASE-255.md) as a simulation ([CASE-348](../cases.d/CASE-348.md);
+[CLAIM-928](../claims.d/CLAIM-928.md)). A hill-climbing improver tuned [CASE-332](../cases.d/CASE-332.md)'s organization,
 and in four arms the collective also changed the improver; 12 lineages
 per arm. Against the question's three outcomes, in that construction:
 

@@ -37,7 +37,7 @@ The reading in [NOTE-1742](../notes.d/NOTE-1742.md); its key results are quoted 
 
 ## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
 
-A **contrast**, no edge ([LIT-2373](../literature.d/LIT-2373.md), [NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md)). Dorsch and colleagues
+A **contrast**, no edge ([LIT-2373](../literature.d/LIT-2373.md), [NOTE-2307](../notes.d/NOTE-2307.md)). Dorsch and colleagues
 motivate their mechanism by rising affective polarization and attribute it
 to engagement-optimized curation (§2, pp. 11–12), without citing
 experimental evidence. In this field experiment, switching users to the

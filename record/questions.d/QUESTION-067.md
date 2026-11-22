@@ -162,8 +162,8 @@ renderings are stated — equal probe predictabilities in the four sign patterns
 (OE1) and one mixture equivalence among renderings, ½R1 ⊕ ½R3 ≈ ½R2 ⊕ ½R4
 (OE2) — and the inequality they imply under generalized (preparation)
 noncontextuality, |⟨X⟩| + |⟨Z⟩| ≤ 1, is derived and verified numerically, in
-[CLAIM-tmp59ejz](../claims.d/CLAIM-tmp59ejz.md) with its study
-[CASE-tmp7nwhq](../cases.d/CASE-tmp7nwhq.md). It makes explicit for the
+[CLAIM-964](../claims.d/CLAIM-964.md) with its study
+[CASE-370](../cases.d/CASE-370.md). It makes explicit for the
 pragmatic case what [THEORY-315](../theory.d/THEORY-315.md) proved in the
 abstract, and shows the inequality rests on the mixture equivalence, not on
 the probes alone. The second route, and the realizability of OE1 and OE2 by a

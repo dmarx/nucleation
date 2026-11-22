@@ -25,7 +25,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-156 CLAIM-162 CLAIM-163 CLAIM-169 — Proposed; the proposed answers and the open objection, cited as open -->
 <!-- inactive-ok-file: THEORY-043 THEORY-051 THEORY-056 THEORY-067 THEORY-076 — Proposed; the readings the question is posed from, with their standing as it is -->
 <!-- inactive-ok-file: LIT-591 LIT-906 LIT-910 LIT-912 LIT-914 — Unavailable, unread; named as what the record holds and has not read -->
-<!-- inactive-ok-file: THEORY-tmp353ez ARG-tmpc8jqe — new on 2026-11-22; the LEAD-078 readings cited in the dated note -->
+<!-- inactive-ok-file: THEORY-2236 ARG-206 — new on 2026-11-22; the LEAD-078 readings cited in the dated note -->
 
 # QUESTION-034: If an agent is a population of interests, what makes it act as one: bargaining among the interests, a change in which of them may act, or agreement among them?
 
@@ -91,7 +91,7 @@ self-control: every route does that.
 
 ## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), bargaining needs a perceived precedent
 
-Khan and Dhar ([LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md), [THEORY-tmp353ez](../theory.d/THEORY-tmp353ez.md)), read for [LEAD-078](../leads.d/LEAD-078.md), bear
+Khan and Dhar ([LIT-3113](../literature.d/LIT-3113.md), [THEORY-2236](../theory.d/THEORY-2236.md)), read for [LEAD-078](../leads.d/LEAD-078.md), bear
 on the bargaining route: a recurring choice that is not seen as a
 precedent lowers self-control now, through optimism about the next
 choice, and an asserted precedent restores it to about the isolated
@@ -99,4 +99,4 @@ level. If interests act as one by bargaining, the precedent has to be
 perceived, and a series alone can divide them further. Ge et al.
 ([LIT-916](../literature.d/LIT-916.md), read) bear on the route of a change in which interests may act
 only weakly: faster responses after mindfulness training with discounting
-unchanged, not shown to be self-control ([ARG-tmpc8jqe](../arguments.d/ARG-tmpc8jqe.md)).
+unchanged, not shown to be self-control ([ARG-206](../arguments.d/ARG-206.md)).

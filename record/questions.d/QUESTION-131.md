@@ -26,7 +26,7 @@ summary: >-
   possible, and what evidence attributes either to a bearer. Merely
   failing to realize an attainable set of requirements is neither.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmcrb7 CASE-tmpxmuri CLAIM-631 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date; CLAIM-631 Proposed -->
+<!-- inactive-ok-file: CLAIM-923 CASE-346 CLAIM-631 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date; CLAIM-631 Proposed -->
 <!-- inactive-ok-file: LIT-1954 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 
 # QUESTION-131: How does structural frustration among jointly incompatible demands relate to operative thwarting of a constituent's demands, and under what conditions can one occur without the other?
@@ -228,7 +228,7 @@ The question stays open.
 [LEAD-076](../leads.d/LEAD-076.md) built the constructions this question asks for
 ("Constructions that separate the two in each direction would show how
 independent they are"). Thwarting is tested by silencing a process, a
-counterfactual intervention. They are filed as [CLAIM-tmpmcrb7](../claims.d/CLAIM-tmpmcrb7.md)
+counterfactual intervention. They are filed as [CLAIM-923](../claims.d/CLAIM-923.md)
 (demonstrated; scratch/studies/lead-076/frustration.py).
 
 - **Under a resolution that seeks joint satisfaction**, a member is
@@ -241,7 +241,7 @@ counterfactual intervention. They are filed as [CLAIM-tmpmcrb7](../claims.d/CLAI
 - **Thwarting where joint satisfaction is attainable needs a resolution
   that weighs authority or preference.** This is governance-induced
   frustration ([CLAIM-357](../claims.d/CLAIM-357.md)), shown counterfactually. [CASE-153](../cases.d/CASE-153.md)'s sentry is
-  an instance, run in [CASE-tmpxmuri](../cases.d/CASE-tmpxmuri.md).
+  an instance, run in [CASE-346](../cases.d/CASE-346.md).
 - **Frustration without thwarting** can be unvoiced ([CLAIM-631](../claims.d/CLAIM-631.md)'s item 3)
   or causally idle. In the idle case an unmet member acts, and no process
   is a but-for cause.
@@ -250,6 +250,6 @@ Whether the first and second parts of "What would answer it" are answered
 is the owner's call. The third part, what evidence attributes either
 condition to a bearer, is answered only for the silencing test. Whether
 a constraint can be the thwarter is left open; it is named in
-[CLAIM-tmpmcrb7](../claims.d/CLAIM-tmpmcrb7.md)'s defeater.
+[CLAIM-923](../claims.d/CLAIM-923.md)'s defeater.
 
 The question stays open.

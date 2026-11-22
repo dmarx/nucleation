@@ -165,8 +165,8 @@ recognized by the institution's evaluator is not a remedy found
 
 ## Note of 2026-11-22: a remedy unavailable by construction, [LEAD-048](../leads.d/LEAD-048.md)
 
-<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
-In [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md), once both maintained capacities were destroyed, the
+<!-- inactive-ok-block: CASE-332 — new; the run of LEAD-048 -->
+In [CASE-332](../cases.d/CASE-332.md), once both maintained capacities were destroyed, the
 reciprocal arrangement could not correct again in any world. Its
 production law has a fixed point at zero, so no internal procedure was
 available to find. That is a certificate from the law, not from failed
@@ -175,13 +175,13 @@ remedy exists is relative to the declared boundary. The question stays
 Open.
 
 ## Note of 2026-11-22: a non-execution under conditioned enforcement, [LEAD-168](../leads.d/LEAD-168.md)
-<!-- inactive-ok-file: CASE-tmpwj1k2 CLAIM-tmpr54f9 — new; LEAD-168's executed study and the reading that states this point -->
+<!-- inactive-ok-file: CASE-380 CLAIM-978 — new; LEAD-168's executed study and the reading that states this point -->
 
-In [CASE-tmpwj1k2](../cases.d/CASE-tmpwj1k2.md)'s arrangement in which the executive can condition
+In [CASE-380](../cases.d/CASE-380.md)'s arrangement in which the executive can condition
 enforcement, an order not executed is ambiguous between the enforcer's
 inability and the executive's withholding; the posterior on withholding,
 qw / (1 − q + qw), rises as the enforcer's capacity becomes more reliable,
-and is zero where enforcement is independent ([CLAIM-tmpr54f9](../claims.d/CLAIM-tmpr54f9.md)). So "the
+and is zero where enforcement is independent ([CLAIM-978](../claims.d/CLAIM-978.md)). So "the
 order cannot be executed", reported where the party controls the
 enforcer, is a statement whose certifier is the party, the case this
 question's second point raises. It does not say what would certify that

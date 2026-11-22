@@ -9,8 +9,8 @@ history:
 - version: 2
   date: '2026-11-22'
   note: >-
-    Note of 2026-11-22 added: the removal study was run (CASE-tmpvn7wm,
-    CLAIM-tmpf11gs). Status and stage are unchanged; marking the lead
+    Note of 2026-11-22 added: the removal study was run (CASE-313,
+    CLAIM-875). Status and stage are unchanged; marking the lead
     Done is the owner's call.
 stage: idea
 priority: high
@@ -25,13 +25,13 @@ line:
 advances:
 - QUESTION-132
 operationalized_in:
-- CASE-tmpvn7wm
+- CASE-313
 summary: >-
   The record calls it the cheap decision of whether a held case shows
   recovery when rare. Named in [QUESTION-132](../questions.d/QUESTION-132.md). Filed by the backlog audit of
   2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmpvn7wm CLAIM-tmpf11gs — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
+<!-- inactive-ok-file: CASE-313 CLAIM-875 — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
 
 # LEAD-065: Remove core units from Ito and Kaneko's core-periphery system and see whether the periphery refills the core
 
@@ -56,8 +56,8 @@ arrangement.
 The model was reimplemented from [NOTE-1414](../notes.d/NOTE-1414.md)'s equations, checked against
 arXiv's v1. The removal study was run on 12 seeds at the paper's
 parameter point, with code, tests and results under
-`scratch/studies/lead-065/`. It is filed as [CASE-tmpvn7wm](../cases.d/CASE-tmpvn7wm.md), with the claim
-[CLAIM-tmpf11gs](../claims.d/CLAIM-tmpf11gs.md).
+`scratch/studies/lead-065/`. It is filed as [CASE-313](../cases.d/CASE-313.md), with the claim
+[CLAIM-875](../claims.d/CLAIM-875.md).
 
 The periphery refills the core in every seed. With the core deleted, a
 new core of 17.2 ± 0.8 units forms from former periphery units within

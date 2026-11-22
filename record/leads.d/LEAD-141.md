@@ -22,7 +22,7 @@ summary: >-
   Named in [ARG-051](../arguments.d/ARG-051.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: ARG-051 — Proposed; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: ARG-tmpqszyu THEORY-tmpgl7zr THEORY-tmprbqew THEORY-tmpseev1 — new in this filing and Proposed or Rejected; the readings and verdict this lead produced -->
+<!-- inactive-ok-file: ARG-215 THEORY-2264 THEORY-2265 THEORY-2266 — new in this filing and Proposed or Rejected; the readings and verdict this lead produced -->
 
 # LEAD-141: Test the will-organization claim across realizers: interventions that block or restore the epistemic agent model with competing thoughts held fixed, reading Axelrod and colleagues first
 
@@ -44,17 +44,17 @@ Effects of blocking the agent model with thoughts fixed support [CLAIM-027](../c
 
 Carried out by a lead worker on 2026-11-22.
 
-- **Read.** Axelrod, Rees, Lavidor and Bar (2015) is [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md), read in
-  full ([NOTE-tmp7gplv](../notes.d/NOTE-tmp7gplv.md), [THEORY-tmpgl7zr](../theory.d/THEORY-tmpgl7zr.md)). Read beside it: Fox and
-  Christoff's letter ([LIT-tmp4vtkl](../literature.d/LIT-tmp4vtkl.md), [NOTE-tmp58cil](../notes.d/NOTE-tmp58cil.md)), the first author's
-  replication with a meta-awareness probe ([LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md), [NOTE-tmp36b7e](../notes.d/NOTE-tmp36b7e.md),
-  [THEORY-tmprbqew](../theory.d/THEORY-tmprbqew.md)), and the pre-registered three-lab replication
-  ([LIT-tmp9cpfz](../literature.d/LIT-tmp9cpfz.md), [NOTE-tmps966y](../notes.d/NOTE-tmps966y.md), [THEORY-tmpseev1](../theory.d/THEORY-tmpseev1.md)).
+- **Read.** Axelrod, Rees, Lavidor and Bar (2015) is [LIT-3135](../literature.d/LIT-3135.md), read in
+  full ([NOTE-2357](../notes.d/NOTE-2357.md), [THEORY-2264](../theory.d/THEORY-2264.md)). Read beside it: Fox and
+  Christoff's letter ([LIT-3132](../literature.d/LIT-3132.md), [NOTE-2356](../notes.d/NOTE-2356.md)), the first author's
+  replication with a meta-awareness probe ([LIT-3134](../literature.d/LIT-3134.md), [NOTE-2355](../notes.d/NOTE-2355.md),
+  [THEORY-2265](../theory.d/THEORY-2265.md)), and the pre-registered three-lab replication
+  ([LIT-3133](../literature.d/LIT-3133.md), [NOTE-2358](../notes.d/NOTE-2358.md), [THEORY-2266](../theory.d/THEORY-2266.md)).
 - **What it found.** The 2015 study is not a test of H1. It raised
   reported mind-wandering by stimulation without showing that anything
   about the agent's model of its own control changed; the replication
   that measured meta-awareness found it unchanged; and the effect failed
-  pre-registered replication. Verdict: [ARG-tmpqszyu](../arguments.d/ARG-tmpqszyu.md), Rejected, which
+  pre-registered replication. Verdict: [ARG-215](../arguments.d/ARG-215.md), Rejected, which
   leaves [CLAIM-027](../claims.d/CLAIM-027.md) where it was.
 - **The search.** Europe PMC, 2026-11-22: 47 title hits for mind-wandering
   with brain stimulation, 21 for mind-wandering with meta-awareness,

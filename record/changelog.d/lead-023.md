@@ -1,21 +1,21 @@
 ### Added
 
-- [NOTE-tmpw116e](record/notes.d/NOTE-tmpw116e.md) and [THEORY-tmp8cdhs](record/theory.d/THEORY-tmp8cdhs.md): Ko 2026 read for [LEAD-023](record/leads.d/LEAD-023.md); uncoupled groups sharing one common noise synchronize their order parameters.
-- [NOTE-tmp5rss0](record/notes.d/NOTE-tmp5rss0.md) and [THEORY-tmpsyokc](record/theory.d/THEORY-tmpsyokc.md): Ocampo-Espindola et al. 2024 read; one open-loop common input imposes a designed cluster pattern on uncoupled oscillators.
-- [NOTE-tmp7pvg9](record/notes.d/NOTE-tmp7pvg9.md) and [THEORY-tmpcdxvd](record/theory.d/THEORY-tmpcdxvd.md): Bačić et al. 2026 read; topological nonlinear Kirchhoff conditions, and nonzero winding needs boundaries of five or more cells.
-- [NOTE-tmpftn2t](record/notes.d/NOTE-tmpftn2t.md) and [THEORY-tmpnlu47](record/theory.d/THEORY-tmpnlu47.md): Manik, Timme and Witthaut 2017 read; cycle flows and winding numbers for phase locking on graphs.
-- [NOTE-tmp2mtul](record/notes.d/NOTE-tmp2mtul.md) and [THEORY-tmpo4sos](record/theory.d/THEORY-tmpo4sos.md): Widder and Schilling 2026 read; the Mori–Zwanzig memory term is a coupling term, and the formalism is rigorous only for bounded PL.
-- [NOTE-tmpe2mdk](record/notes.d/NOTE-tmpe2mdk.md) and [THEORY-tmp2gc2a](record/theory.d/THEORY-tmp2gc2a.md): Wang and Tang 2019 read; quiescent adaptive cells oscillate together through a shared signal past a density threshold.
-- [NOTE-tmp14xdi](record/notes.d/NOTE-tmp14xdi.md) and [THEORY-tmp3va8j](record/theory.d/THEORY-tmp3va8j.md): Stewart 2007 read; balanced equivalence relations form a complete lattice with a computable coarsest element.
-- [NOTE-tmpk7qnh](record/notes.d/NOTE-tmpk7qnh.md) (Skimmed) and [THEORY-tmp94s79](record/theory.d/THEORY-tmp94s79.md): Dörfler and Bullo 2014 skimmed; S¹-synchronizing graphs, the cycle-space fixed-point equations, and the cases the survey's methods do not cover.
-- [NOTE-tmp1hzsa](record/notes.d/NOTE-tmp1hzsa.md) (Skimmed) and [THEORY-tmp1ncgo](record/theory.d/THEORY-tmp1ncgo.md): Schultz, Spivak and Vasilakopoulou 2016 skimmed; machines as spans of interval sheaves, with totality and determinism preserved by every wiring.
-- [NOTE-tmpgeiy5](record/notes.d/NOTE-tmpgeiy5.md) (Skimmed) and [THEORY-tmp9gllh](record/theory.d/THEORY-tmp9gllh.md): Bumpus et al. 2024 skimmed; narratives as sheaves on time intervals.
-- [NOTE-tmpd2cps](record/notes.d/NOTE-tmpd2cps.md) (Skimmed) and [THEORY-tmp0xz8p](record/theory.d/THEORY-tmp0xz8p.md): Bosca and Ghrist 2026 skimmed; selective rigidity on discourse sheaves and rate bounds on whether beliefs or expressions change.
-- [NOTE-tmp9h46q](record/notes.d/NOTE-tmp9h46q.md) (Skimmed) and [THEORY-tmpzt77d](record/theory.d/THEORY-tmpzt77d.md): Leal et al. 2026 skimmed; temporal cellular sheaves for switching multi-agent systems.
-- [NOTE-tmpejuy1](record/notes.d/NOTE-tmpejuy1.md) (Skimmed) and [THEORY-tmpmnv43](record/theory.d/THEORY-tmpmnv43.md): Battiston et al. 2025 skimmed; effective higher-order phase interactions from pairwise coupling.
-- [NOTE-tmp43jkl](record/notes.d/NOTE-tmp43jkl.md) (Skimmed) and [THEORY-tmpiahw1](record/theory.d/THEORY-tmpiahw1.md): Schultz and Spivak 2017 skimmed; behavior types as sheaves, one that is no ODE's solution set.
+- [NOTE-2335](record/notes.d/NOTE-2335.md) and [THEORY-2245](record/theory.d/THEORY-2245.md): Ko 2026 read for [LEAD-023](record/leads.d/LEAD-023.md); uncoupled groups sharing one common noise synchronize their order parameters.
+- [NOTE-2336](record/notes.d/NOTE-2336.md) and [THEORY-2246](record/theory.d/THEORY-2246.md): Ocampo-Espindola et al. 2024 read; one open-loop common input imposes a designed cluster pattern on uncoupled oscillators.
+- [NOTE-2338](record/notes.d/NOTE-2338.md) and [THEORY-2247](record/theory.d/THEORY-2247.md): Bačić et al. 2026 read; topological nonlinear Kirchhoff conditions, and nonzero winding needs boundaries of five or more cells.
+- [NOTE-2339](record/notes.d/NOTE-2339.md) and [THEORY-2248](record/theory.d/THEORY-2248.md): Manik, Timme and Witthaut 2017 read; cycle flows and winding numbers for phase locking on graphs.
+- [NOTE-2340](record/notes.d/NOTE-2340.md) and [THEORY-2249](record/theory.d/THEORY-2249.md): Widder and Schilling 2026 read; the Mori–Zwanzig memory term is a coupling term, and the formalism is rigorous only for bounded PL.
+- [NOTE-2341](record/notes.d/NOTE-2341.md) and [THEORY-2250](record/theory.d/THEORY-2250.md): Wang and Tang 2019 read; quiescent adaptive cells oscillate together through a shared signal past a density threshold.
+- [NOTE-2342](record/notes.d/NOTE-2342.md) and [THEORY-2251](record/theory.d/THEORY-2251.md): Stewart 2007 read; balanced equivalence relations form a complete lattice with a computable coarsest element.
+- [NOTE-2343](record/notes.d/NOTE-2343.md) (Skimmed) and [THEORY-2252](record/theory.d/THEORY-2252.md): Dörfler and Bullo 2014 skimmed; S¹-synchronizing graphs, the cycle-space fixed-point equations, and the cases the survey's methods do not cover.
+- [NOTE-2344](record/notes.d/NOTE-2344.md) (Skimmed) and [THEORY-2253](record/theory.d/THEORY-2253.md): Schultz, Spivak and Vasilakopoulou 2016 skimmed; machines as spans of interval sheaves, with totality and determinism preserved by every wiring.
+- [NOTE-2345](record/notes.d/NOTE-2345.md) (Skimmed) and [THEORY-2254](record/theory.d/THEORY-2254.md): Bumpus et al. 2024 skimmed; narratives as sheaves on time intervals.
+- [NOTE-2346](record/notes.d/NOTE-2346.md) (Skimmed) and [THEORY-2255](record/theory.d/THEORY-2255.md): Bosca and Ghrist 2026 skimmed; selective rigidity on discourse sheaves and rate bounds on whether beliefs or expressions change.
+- [NOTE-2347](record/notes.d/NOTE-2347.md) (Skimmed) and [THEORY-2256](record/theory.d/THEORY-2256.md): Leal et al. 2026 skimmed; temporal cellular sheaves for switching multi-agent systems.
+- [NOTE-2348](record/notes.d/NOTE-2348.md) (Skimmed) and [THEORY-2257](record/theory.d/THEORY-2257.md): Battiston et al. 2025 skimmed; effective higher-order phase interactions from pairwise coupling.
+- [NOTE-2349](record/notes.d/NOTE-2349.md) (Skimmed) and [THEORY-2258](record/theory.d/THEORY-2258.md): Schultz and Spivak 2017 skimmed; behavior types as sheaves, one that is no ODE's solution set.
 - A devlog note on the run (record/devlog.d/2026/11/22/155910.md).
-- [CLAIM-tmp7vutq](record/claims.d/CLAIM-tmp7vutq.md): on five or more contexts with zero monodromy the XY energy has twisted local minima of positive energy, so [CLAIM-153](record/claims.d/CLAIM-153.md)'s readout holds for the global minimum only (Proposed, thesis, demonstrated; check in scratch/studies/lead-023/twisted.py).
+- [CLAIM-935](record/claims.d/CLAIM-935.md): on five or more contexts with zero monodromy the XY energy has twisted local minima of positive energy, so [CLAIM-153](record/claims.d/CLAIM-153.md)'s readout holds for the global minimum only (Proposed, thesis, demonstrated; check in scratch/studies/lead-023/twisted.py).
 
 ### Changed
 
