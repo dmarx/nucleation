@@ -36,7 +36,7 @@ summary: >-
   live local minimum that SGD does not leave in 45,000 epochs. Sampling
   exp(−nL) under the N(0, 1) prior puts 5 → 6 at n ≈ 265–279 and
   5 → 5⁺ at n ≈ 780. The first two steps of the chain have no crossing
-  above n ≈ 3. Chen et al.'s NUTS likelihood carries a factor ½ that their
+  above n ≈ 1. Chen et al.'s NUTS likelihood carries a factor ½ that their
   formula's nL does not, so their sample size is twice these n; on that
   scale the sampled 5 → 6 is at about 530–560, consistent with their Fig.
   2. The wording is the assistant's (Claude, in this session); adopting it
@@ -131,7 +131,7 @@ In the formula's units:
 
 | transition | formula, Table K.1 λ̂ | formula, theory λ | tempering | integration |
 |---|---|---|---|---|
-| 4⁺⁺⁻ → 4⁺ | 190 | 190 | — | none: 4⁺ is ahead from n ≈ 3 |
+| 4⁺⁺⁻ → 4⁺ | 190 | 190 | — | none: 4⁺ is ahead at every n from 0.5 |
 | 4⁺ → 5 | 370 | 237 | — | ≈ 1: 5 is ahead from the prior on |
 | 5 → 5⁺ | 2,477 | 1,593 | — | 781 |
 | 5 → 6 | 538 | 601 | 265 | 279 |
@@ -173,7 +173,7 @@ would lead one to expect.
 formula are not what sampling finds, apart from 5 → 6 on Chen et al.'s
 own scale. The chain's first two steps have no crossing in the range
 where SGD trains. The regions are ordered 4⁺⁺⁻ < 4⁺ < 5 in the posterior
-from n ≈ 3, and 5⁺ overtakes 5 at n ≈ 780 in the formula's units.
+from n ≈ 1, and 5⁺ overtakes 5 at n ≈ 780 in the formula's units.
 
 ## What it cannot show
 

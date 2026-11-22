@@ -112,7 +112,7 @@ learning coefficients n(E[L] − L_crit) at n = 10,000 are 7.2 (5-gon), 8.5
 
 | transition | formula, λ̂ | formula, λ theory | tempering | integration |
 |---|---|---|---|---|
-| 4⁺⁺⁻ → 4⁺ | 190 | 190 | — | none: 4⁺ ahead from n ≈ 3 |
+| 4⁺⁺⁻ → 4⁺ | 190 | 190 | — | none: 4⁺ ahead at every n from 0.5 |
 | 4⁺ → 5 | 370 | 237 | — | ≈ 1: 5 ahead from the prior on |
 | 5 → 5⁺ | 2,477 | 1,593 | — | 781 |
 | 5 → 6 | 538 | 601 | 265 | 279 |
