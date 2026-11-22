@@ -26,5 +26,7 @@ LIT-2373, LIT-2363 (sweep-b), 2026-11-22.
 - LIT-2447 dated notes: CASE-248, CLAIM-653, CLAIM-658, CASE-250, LEAD-071, LIT-1465, LIT-2421, LIT-2418, LIT-2467, LIT-2401, LIT-2381, LIT-2370.
 - LIT-2328 stays Unfetched: dated notes on LIT-2474, NOTE-1825, THEORY-1776 (reader's revision as a proposal), CLAIM-266, CASE-255, LIT-2328 (repeated sentence left; filed 2026-11-10), THEORY-1803, NOTE-1820.
 
+- N1 Mossio & Moreno 2010 filed: LIT-tmpmu3q0, NOTE-tmpnhdly, THEORY-tmpaygr8.
+
 ## Next
-- LIT-536 and two neighbours; curation; changelog.
+- N2 (LIT-tmpv60zy, NOTE-tmpefons, THEORY-tmpxypfa scaffolded); LIT-536 notes; curation; changelog.
