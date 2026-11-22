@@ -128,6 +128,7 @@ bears_on:
 - QUESTION-218
 - QUESTION-219
 ---
+<!-- inactive-ok-file: CASE-tmpwyp15 CLAIM-tmpjwc0h — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: LIT-1642 — the question the pressures are filed in (Open) and its sources, registered unread (Deferred) -->
@@ -354,3 +355,23 @@ claim's `defeated_if` names. It is one case, in a discrete rule, with one
 reading of coupling, not the systematic failure the clause asks for. The
 eater clears the test at one generation if τ is below about 3.5, and not
 at five. No change of status or title.
+
+## Note of 2026-11-22: two closed modes that compensate and that member groupings miss
+
+[CASE-tmpwyp15](../cases.d/CASE-tmpwyp15.md) ran [LEAD-083](../leads.d/LEAD-083.md), the direct test of this claim's
+`defeated_if`. A φ⁴ lattice kink compensates under a sustained load on a
+core site (κ = 1.00), and the sites that compensate move with it. With
+neighbours coupled equally, the best ratio of a segment holding it is
+about 1.5h²: it clears τ = 1 on the coarsest lattice, h = 1, and goes to
+zero in the continuum limit. The locked cluster of a uniformly coupled
+Kuramoto population compensates (0.97) and entrains (0.91); on coupling
+constants it scores √(156/44) = 1.88, as every set of its size does, and
+on realized interaction 0.81. A two-block control passes the test by a
+factor of 70 or more and compensates and entrains only inside its blocks
+([CLAIM-tmpjwc0h](CLAIM-tmpjwc0h.md)). These are forms "that do compensate and entrain"
+that the test on member groupings does not single out, partly: the kink
+has no timing, and for the cluster the verdict turns on reading
+interaction as realized and on τ. Two models at one setting each are not
+the systematic failure the clause asks for. Point 3's unit, a mode, is
+what both cases have; it is found here by a gap in the whole system's
+eigenbasis, not by grouping members. No change of status or title.
