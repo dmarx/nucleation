@@ -22,24 +22,21 @@ for h in (1.0, 0.5, 0.25):
     if r:
         print(h, "eps", r["eps"], {L: (round(v["max_rho_containing_kink"], 3), round(v["max_rho_far_vacuum"], 3), v["entrywise"]) for L, v in r["by_length"].items()})
 
-print("== A: compensation kappa by site (mean of the two load signs)")
+print("== A: compensation kappa by distance from the kink centre (mean of the two load signs)")
 for h in (1.0, 0.5, 0.25):
     for X0 in (0.0, 6.0):
         r = R.get(f"A-compensation|{h}|{X0}")
         if not r:
             continue
         rows = r["rows"]
-        sites = sorted(set(x["site"] for x in rows))
-        km = {s: np.mean([x["kappa"] for x in rows if x["site"] == s]) for s in sites}
-        Xs = {s: np.mean([abs(x["X_shift_free"]) for x in rows if x["site"] == s]) for s in sites}
         Xc = r["X_fit"]
-        comp = [s for s in sites if km[s] > 0.5]
-        print(f"h={h} X0={X0} kink at {Xc:.2f}; sites with kappa>0.5: {comp[0] if comp else None}..{comp[-1] if comp else None} ({len(comp)})")
-        for s in sites:
-            if abs(s - Xc) <= 4.01 and abs((s - Xc) * 2) % 1 < 1e-6 or abs(s - Xc) in (5.5, 6.0):
-                pass
-        line = [(round(s - Xc, 2), round(km[s], 2), round(Xs[s], 3)) for s in sites if abs(s - Xc) <= 6]
-        print("  (site - centre, kappa, |kink shift|):", line[:: max(1, len(line) // 14)])
+        for T in ("T5", "T50"):
+            sites = sorted(set(x["site"] for x in rows))
+            km = {s: np.mean([x[T]["kappa"] for x in rows if x["site"] == s]) for s in sites}
+            Xs = {s: np.mean([abs(x[T]["X_shift"]) for x in rows if x["site"] == s]) for s in sites}
+            comp = [s for s in sites if km[s] > 0.5]
+            print(f"h={h} X0={X0} {T} centre {Xc:.2f}; kappa>0.5 on [{min(comp) if comp else None}, {max(comp) if comp else None}] ({len(comp)} sites)")
+            print("   ", [(round(s - Xc, 2), round(float(km[s]), 2), round(float(Xs[s]), 2)) for s in sites])
 
 print("== B, C: oscillators")
 for arm in ("B", "C"):
