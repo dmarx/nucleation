@@ -32,6 +32,7 @@ summary: >-
   additions are the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
 
 <!-- inactive-ok-file: CLAIM-813 — a Proposed claim filed with this case, and Deferred works registered from the exchange and not yet read -->
 <!-- inactive-ok-file: THEORY-2155 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
@@ -146,3 +147,10 @@ at equal rates, a boundary at finite parameter values, and the review
 counts such folds among the "fold lines, corners, and other singularites"
 that make the model manifold "not strictly a manifold" (§2). It does not
 compute how the eigenvalue goes to zero there. No relation is written.
+
+## Note of 2026-11-22: Yang, read
+
+Background. Yang's merged prototypes (THEORY-tmpu0f9k) are where the
+anti-symmetric directions go soft at βc, a merge of mechanisms of a kind,
+but the paper computes no local coefficient, so the 3/4 at this case's
+merge stratum has no counterpart there.

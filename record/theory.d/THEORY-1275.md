@@ -43,6 +43,7 @@ summary: >-
   computation was re-run by a second checker on 2026-11-06
   (scratch/formal/tms_critical_sizes_check.py).
 ---
+<!-- inactive-ok-file: THEORY-tmpm3ux2 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # THEORY-1275: In the toy model of superposition, at the paper's one SGD setting, the Bayesian counterparts of the observed training chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ have critical sample sizes that rise in the order training meets it at the point estimates of the learning coefficients, though not across their spread; SGD was not seen to take the posterior's main transition, 5 → 6, and trained on 1,000 samples it ends in a phase that the posterior at n = 1,000, dominated by the 6-gon, does not favour
@@ -140,3 +141,10 @@ empirical precedent, transitions of SGD and of the Bayesian posterior
 "reflected as sudden changes in the estimated LLC" (§5), and extends the
 coefficient's use to stages of transformer training. No relation
 written.
+
+## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
+
+Background. Lee et al. (THEORY-tmpm3ux2) place themselves in the line of
+work that reads training's stages as the Bayesian posterior's
+transitions, and name the link to SGD as their main gap, as this reading's
+own comparison of SGD's chain with critical sample sizes does.

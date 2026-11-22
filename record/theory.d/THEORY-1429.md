@@ -27,6 +27,7 @@ summary: >-
   when the jump comes, which drift delays and noise can advance, nor that
   observed indicators reliably reveal the exponent.
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k — Proposed; the reading of Yang filed 2026-11-22 -->
 
 # THEORY-1429: Kuehn holds that a critical transition is the point where a slowly drifting system leaves an attracting, normally hyperbolic slow manifold for a fast jump, that fold, transcritical and subcritical Hopf and pitchfork bifurcations are such points while supercritical ones are not, and that the slowing down before them scales with the distance to the bifurcation with exponent ½ for the fold and 1 for the others
 
@@ -60,3 +61,18 @@ Kuehn, "A mathematical framework for critical transitions" (Physica D
   the type; the paper shows ways both mislead (§§5, 8, 9).
 - Anything for several slow variables, global bifurcations or chaos, which
   §10 leaves open.
+
+## Note of 2026-11-22: Yang, read
+
+Qualifies the reading's language. Yang (THEORY-tmpu0f9k, NOTE-tmpg5q4t)
+calls the onset of a sparse autoencoder's feature lottery "a sharp
+dynamical phase transition" (§5). Its bifurcation is a supercritical
+pitchfork of a probe's collapsed state at β = βc, with linear growth rate
+β − βc and a timescale that "scales as 1/(β − βc)", which is this
+reading's recovery exponent 1 for the pitchfork. By Kuehn's
+classification a supercritical pitchfork is not a critical transition:
+no fast jump follows. A supercritical pitchfork passed slowly, as β
+drifts up past a moving βc, is a delayed loss of stability, which this
+frame covers (the delay past the bifurcation under slow drift) and the
+paper does not cite. Its long post-crossing plateaus in grokking fit that
+reading as well as the paper's own metastability.

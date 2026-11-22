@@ -1,0 +1,69 @@
+---
+status: Proposed
+title: "Bui and colleagues' entailment-cone penalty between an old and a new model's embeddings, read as evidence, shows that temporal cone restriction works as a soft regularizer, and so supports the restriction half of progressive learning as two partial orders"
+version: 1
+form: evidence
+grounds:
+- THEORY-tmpe9367
+concludes:
+- CLAIM-839
+tags:
+- representation-learning
+date: '2026-11-22'
+line:
+- learned-structure
+summary: >-
+  CLAIM-839 cited Bui et al. (LIT-2989) unread for "Backward-compatible
+  learning already constrains updated embeddings to earlier cones". Read
+  (NOTE-tmpvu3vp), it does, and it bears out A33's fallback reading of
+  temporal cone consistency as "a soft regularizer": the cone term buys
+  most compatibility when the architecture changes. Four qualifications
+  bound what it supports: a soft penalty, with cone satisfaction never
+  reported; per-item cones, not cones of concepts; two separately trained
+  models, not checkpoints of one run; and an order imposed by design, not
+  observed. Supports the restriction half in that form; nothing on the
+  Blackwell half or on branching. The reading replaces LIT-2989 in the
+  claim's grounds. Proposed. The wording is the assistant's (Claude, in
+  this session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-839 THEORY-tmpe9367 CLAIM-tmpxcy5s ARG-tmpotmon — Proposed; the claim and the reading this argument joins, and the assistant's norm-growth claim and its argument -->
+
+# ARG-tmpf206e: Bui and colleagues' entailment-cone penalty between an old and a new model's embeddings, read as evidence, shows that temporal cone restriction works as a soft regularizer, and so supports the restriction half of progressive learning as two partial orders
+
+## The inference
+
+CLAIM-839's "Restriction, softly": learning as U_i(t + Δt) ⊆ U_i(t), held
+by A33 as "a hypothesis about the stable portion of representation
+learning, or a soft regularizer", with Bui et al. cited as already doing
+it. Ground: THEORY-tmpe9367.
+
+## Critical questions (evidence)
+
+**Does the work do what the claim says?** Yes: "This constraint requires
+the new embeddings to remain within the entailment cone of their older
+counterparts" (§1), through L_entail = max(0, ext(h_o, h_n) − aper(h_o)).
+
+**Does the evidence bear on the conclusion as stated?** On a narrower
+version. The claim's restriction is of the set of interpretations
+compatible with what a network knows of sample i over training. Bui's is
+of one item's embedding between two models: the old frozen, the new
+trained afresh. The cones are per item, apexed at the item's old
+embedding, not cones of concepts. The relation is imposed, not found.
+
+**How strong is it?** The penalty is soft, λ = 0.3, and the paper never
+says how many new embeddings lie inside their cones. It measures
+compatibility by retrieval (P_com, P_up), an independent measure, on two
+small benchmarks, one run each. The cone term matters most for an
+architecture change (CIFAR100 CMC@1 P_com 0.937 with it against −0.178
+without) and little for more data (0.956 against 0.847).
+
+**Is anything in the evidence against the claim?** No, but it shows per
+item a chain of nested cones, not a branching order, so the claim's
+branching is untouched. And the scheme's narrowing is built in:
+satisfying the constraint makes every embedding more "certain" whatever
+its correctness (CLAIM-tmpxcy5s, ARG-tmpotmon).
+
+## Verdict
+
+Supports the claim's restriction half as a soft regularizer between model
+generations, with the four qualifications; nothing on the Blackwell half.

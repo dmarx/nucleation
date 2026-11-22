@@ -56,6 +56,7 @@ summary: >-
   the exchange "Rich Get Richer Power Laws", A37); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k THEORY-tmpm3ux2 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-834 CLAIM-802 ARG-132 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21, or a Deferred work registered from it and not yet read -->
 <!-- inactive-ok-file: CLAIM-812 THEORY-2157 THEORY-tmpr9w2r ARG-tmpfh555 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
@@ -146,3 +147,18 @@ qualifies it ([ARG-tmpfh555](../arguments.d/ARG-tmpfh555.md); [NOTE-tmp2pgi8](..
 The bearing on the owner's U23 itself ([CLAIM-834](CLAIM-834.md)) is noted there by the
 filing of the other readings of this batch.
 
+## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, and Yang, read
+
+- **Lee et al. (THEORY-tmpm3ux2): supports the weak half by the same
+  analogy; leaves the strong half open.** The paper adopts this reading's
+  picture, phases competing in a local free energy nL + λ log n with
+  first-order transitions between them (A.2), and uses it to predict
+  influence dynamics that are then observed. But it too models SGD by the
+  Bayesian process and names the link as its "primary theoretical gap"
+  (§5), and it never measures a change of dominant singular region. It
+  adds that at equal loss a "Type-B" transition lowers the LLC (A.2),
+  which is the qualification this claim's earlier note records. An
+  analogy; no edge.
+- **Yang (THEORY-tmpu0f9k): contrast.** No crossover in n; a training-time
+  bifurcation in one parameter of a detached probe, on the dynamical side
+  of the transitions this claim keeps apart.

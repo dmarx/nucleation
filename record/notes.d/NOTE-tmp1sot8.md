@@ -1,0 +1,199 @@
+---
+status: Read
+paper: LIT-3001
+title: "Lee, Smith, Adam and Hoogland, Influence Dynamics and Stagewise Data Attribution, read for how a training example's influence changes across stages"
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 by a delegated reader from the arXiv PDF
+    (https://arxiv.org/pdf/2510.12071, served as v2 of 9 Jun 2026, with
+    the header "Published as a conference paper at ICLR 2026"; 32 pp.),
+    via pdftotext: the main text (§§1–5) and Appendices A–D in full,
+    including the analytic derivation C.6 and the language-model
+    experiments D.1–D.4. The reference list was read only for the two
+    citations of A.2; figures were read only through their captions.
+    Metadata from the arXiv API. The reader's check of the mode-strength
+    derivative was redone by the filer (python3 -I; see Bearing on the
+    record). Every quotation the filing leans on rechecked by the filer
+    by script against the text. No email address sent to any service.
+date: '2026-11-22'
+summary: >-
+  Training-data influence is not static. Modelling training as a Bayesian
+  learning process after singular learning theory, the paper takes the
+  Bayesian influence function, the negative posterior covariance of two
+  per-sample losses estimated by SGLD localized at each checkpoint, and
+  shows from a two-phase decomposition that it can change sign and peak
+  at transitions. In a deep linear network on Saxe's hierarchical dataset
+  three measures agree that influence flips sign and peaks as each level
+  is learned; in small language models token-class influences shift
+  around induction-circuit formation, and upweighting induction tokens
+  speeds or delays induction heads depending on when it is done. The link
+  from the Bayesian account to SGD is the paper's own stated gap.
+---
+<!-- inactive-ok-file: THEORY-tmpm3ux2 CLAIM-828 CLAIM-807 CLAIM-823 CLAIM-802 CLAIM-812 CLAIM-774 THEORY-186 THEORY-tmpr9w2r ARG-tmpe7mqz — Proposed or new; the reading of this work, the argument filed with it and the entries it bears on -->
+<!-- inactive-ok-file: LIT-tmpnwcsg — Deferred; Carroll, Hoogland, Farrugia-Roberts and Murfet (2025), registered from this reading and unread -->
+
+# NOTE-tmp1sot8: Lee, Smith, Adam and Hoogland, Influence Dynamics and Stagewise Data Attribution, read for how a training example's influence changes across stages
+
+## Contribution
+
+A framework, "stagewise data attribution", that ties a training example's
+influence to the phase transitions of singular learning theory. It
+replaces the classical influence function, which needs an invertible
+Hessian at a minimum, by the Bayesian influence function (BIF), derives
+from the law of total covariance a between-phase term that can flip sign
+and peak, gives an analytic influence for Saxe's deep linear network
+through the time-dependent mode strengths, and tests the predictions in
+that toy and in small language models, with two time-windowed
+interventions. The reading is THEORY-tmpm3ux2.
+
+## Key results
+
+- **The BIF** (§2.2, Eq. 2; §2.3). The negative covariance of two
+  per-sample losses under the posterior; "the BIF is an example of a
+  generalized susceptibility", and "In physical systems, susceptibilities
+  diverge at phase transitions". "when the regularity assumptions hold,
+  the BIF asymptotically recovers the classical IF in the large-data
+  limit".
+- **Two predictions** (§2.3). For a posterior split between phases U and
+  V, the between-phase term is πUπV(µi,U − µi,V)(µj,U − µj,V). Hence
+  "Influence Can Change Sign", and a between-phase term "maximized when
+  the posterior mass is evenly split", "which under some conditions may
+  cause a peak"; "peaks in influence identify the specific samples that
+  characterize a given transition." Derived for the Bayesian posterior,
+  not for SGD.
+- **The toy model** (§3, Figs. 3–4). "All three measures agree that the
+  influence one sample has on another can vary non-monotonically over the
+  course of training" (BIF, an analytic influence, leave-one-out). Dog
+  helps sparrow early, while animal against plant is learned, and is
+  "harmful (positive) later on when learning to distinguish mammal vs.
+  bird"; "the time point of the branching node matches the peaks in
+  influence".
+- **Analytic influence** (§3; C.6, Eqs. 30, 55–57). "influence is a
+  function of singular mode strength of data input-output covariance
+  learned by the network, which is a time-dependent variable": a term
+  diag(g′t(s)) ⊙ diag(S′ε) through Saxe's closed-form mode strength
+  g_t(s) = s e^(2st/τ)/(e^(2st/τ) − 1 + s/g₀) (Eq. 30), plus
+  basis-rotation terms with denominators s_j² − s_i². Plotted at finite
+  ε = −0.1.
+- **Timing matters, toy** (C.5, Fig. 11). Ablating dog in 100-epoch
+  windows, "the loss difference is the biggest around t = 6000, when the
+  highest influence occurs"; the window for sparrow (shared animal level)
+  is earlier than for cat (shared mammal level).
+- **Language models** (§4; D.3). In Pythia-14M, induction-related
+  structure appears early and strengthens; with dense checkpoints the BIF
+  between repeated-segment tokens "undergoes a sudden, large increase,
+  peaking and then stabilizing", and the induction score "begins to rise
+  right before the BIF increases".
+- **Timed upweighting** (D.4, Fig. 17). In a 3M-parameter transformer,
+  upweighting induction tokens early, while the BIF indicates
+  interference, delays or disrupts learning; at 4k–5.5k steps, as the BIF
+  falls, it "leads to accelerated learning".
+- **Type-B transitions, named** (A.2). "if the two phases agree on the
+  linear term (they have the same minimum loss), then the trade-off will
+  be pushed down into lower-order terms, and there can be a 'Type-B'
+  transition, in which complexity (as measured by the LLC) decreases, in
+  exchange for an increase in lower-order terms." Cited to Carroll et al.
+  2025 and Hoogland et al. 2025; stated, not used or tested.
+
+## Assumptions
+
+- Training is modelled by a Bayesian learning process: "The primary
+  theoretical gap remains the link between the Bayesian learning process
+  of SLT and the non-equilibrium dynamics of SGD" (§5).
+- The BIF at a checkpoint is taken over an SGLD posterior localized there
+  (fixed localization γ and nβ), not the global posterior.
+- The analytic toy influence assumes whitened inputs, aligned singular
+  vectors and a small balanced start (the Saxe closed form), with
+  first-order SVD perturbation.
+- Toy BIF hyperparameters were chosen to maximize agreement with
+  leave-one-out (C.2), so that agreement is partly by selection. LM token
+  classes are by pattern matching, "not exhaustive, nor is it exclusive"
+  (§4); LM settings "did not vary substantially" over the ranges tried
+  (D.1.2).
+
+## Concepts
+
+Training data attribution; the classical influence function; the
+Bayesian influence function (local, normalized, per-token); generalized
+susceptibility; within- and between-phase influence; first-order Bayesian
+transitions, Type-A (loss traded for complexity) and Type-B (equal loss,
+LLC decreasing); stagewise data attribution; critical window; Saxe's
+singular-mode dynamics; induction score.
+
+## Connections
+
+The toy is Saxe, McClelland and Ganguli's semantic-development setting
+(LIT-862, THEORY-186), with the mode dynamics of THEORY-740. The method
+family is Hoogland and colleagues' (LIT-2966, THEORY-tmpr9w2r): SGLD at
+checkpoints with localization γ and fixed nβ, a second-moment observable
+in place of the LLC. A.2's two citations: Carroll, Hoogland,
+Farrugia-Roberts and Murfet 2025 (arXiv 2501.17745), registered here as
+LIT-tmpnwcsg and unread; and Hoogland et al. 2025, the TMLR version of
+LIT-2966, already held and read.
+
+## Bearing on the record
+
+- **CLAIM-828** (qualifies its influence step; leaves its thesis
+  untested). The claim's added step makes the equilibrium derivative
+  ∂q*/∂s a step at activation, so every example's influence steps. Lee et
+  al.'s own model differs in kind: no gate, no weight decay, influence
+  taken at a fixed training time through g′t(s). Filer's check
+  (python3 -I) of Eq. 30 at s = 1, τ = 1: with g₀ = 10⁻³, ∂g_t/∂s is 0.0000
+  at t = 0.001, rises to a peak of 2.1345 at t ≈ 3.77, just after the mode
+  reaches half strength (t ≈ 3.45), and settles to 1.0000 by t = 40. The
+  peak height depends on the start: 1.633 at g₀ = 10⁻², 2.670 at
+  g₀ = 10⁻⁴. A larger s also brings the transition earlier, so under
+  gradient flow the derivative peaks mid-transition rather than stepping.
+  The paper's peak ordering (animal against plant, then mammal against
+  bird) is by signal strength, the order THEORY-740 gives, not by
+  dependency. Not a ground: ARG-tmpe7mqz (Rejected).
+- **QUESTION-tmphkb1w** (adds a named candidate; leaves it open). A.2's
+  Type-B transition is the question's "more degeneracy at equal loss",
+  with a name and two sources; the paper places the trade against
+  lower-order terms, beyond n L + λ log n. No LLC is measured over
+  training here, so no decrease is explained.
+- **QUESTION-363** (bears on it; the paper's own gap). The Bayes-to-SGD
+  link is exactly the question, and the paper leaves it as its "primary
+  theoretical gap".
+- **THEORY-tmpr9w2r** (parallel and extends). Same group and method,
+  stages matched to the same structures (induction). Neither supports nor
+  contradicts its sentence.
+- **CLAIM-812, LEAD-207** (their cautions apply). The BIF is run at fixed
+  nβ and γ; toy settings chosen to match leave-one-out; LM settings in
+  nβ ∈ {256, 1024}, γ ∈ {500, 1000} only.
+- **CLAIM-823** (supports its weak half by the same analogy; leaves its
+  strong half open). The paper adopts reading (b)'s picture of phases
+  competing in a local free energy and uses it to predict influence
+  dynamics, but never measures a change of dominant singular region, and
+  again names the SGD link as the gap.
+- **CLAIM-802** (background). No resolution or blow-up appears.
+- **LIT-862, THEORY-186, THEORY-740** (background). The toy presupposes
+  them; Eq. 30 is THEORY-740's logistic rise.
+- **CLAIM-807** (the base of CLAIM-828's step; the same qualification).
+- **CLAIM-774** (background). The same model; a different optimizer
+  would move the timing of the influence peaks.
+- **QUESTION-511** (parallel). Between-phase influence picks out the
+  samples on which phases disagree.
+- **THEORY-1275, NOTE-1188** (background). The developmental-
+  interpretability line the paper places itself in.
+- **QUESTION-217** (bears on it; another filer's file). In this one model,
+  influence peaks follow the refinement (hierarchy) order.
+
+## Limitations
+
+- §2.3 is a qualitative decomposition, with peaks "under some
+  conditions", not a derivation that influence peaks in a given model.
+- The Bayes-to-SGD gap is acknowledged and untouched.
+- Toy: one eight-item dataset, one architecture, apparently one seed; BIF
+  settings chosen by agreement with leave-one-out.
+- LMs: matches to known transitions are qualitative; the intervention
+  uses one initialization and data order; confidence intervals are over
+  posterior draws, not training seeds. D.4 is internally inconsistent:
+  "five experimental runs" with six windows listed, and the induction
+  score peaking at step 9k in the text against induction heads at step
+  ∼7k in the Fig. 17 caption.
+- No LLC trajectories are reported, so influence peaks are not tied to
+  measured changes in degeneracy.

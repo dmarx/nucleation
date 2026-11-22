@@ -46,6 +46,7 @@ summary: >-
 bears_on:
 - QUESTION-025
 ---
+<!-- inactive-ok-file: THEORY-tmpe9367 CLAIM-tmpxcy5s — Proposed; the reading of Bui et al. filed 2026-11-22, and the assistant's norm-growth claim -->
 <!-- inactive-ok-file: THEORY-825 — Proposed; the general claim this measurement was narrowed from, filed to carry it -->
 <!-- inactive-ok-file: THEORY-196 — Proposed; other encodings of hierarchy and the paper this one tests, named in Connections, not leaned on -->
 
@@ -132,3 +133,17 @@ hyperbolic distances is invariant under every isometry, the isometries act
 transitively, so the loss does not fix where the origin lies. It covers
 the link-prediction runs; HGCN's classifier reads the tangent space at the
 origin and is not pairwise-only.
+
+## Note of 2026-11-22: Bui and colleagues, read
+
+A contrast. Bui et al. (THEORY-tmpe9367, NOTE-tmpvu3vp) read the norm of a
+Lorentz-model embedding as confidence, Uncertainty(h) = 1 − ‖h_space‖/h_time
+(Eq. 10), after Atigh et al. 2022 and Khrulkov et al. 2020, and show that
+images of classes the model never saw "exhibit higher uncertainty and
+lower norms" (Fig. 2). They never calibrate it against error. This
+reading holds that even trained for hierarchy, distance from the origin
+is only a partial reading of level. There is a second reason for caution
+in their setting: the cone constraint between generations raises each
+satisfied item's norm by construction (CLAIM-tmpxcy5s, the assistant's),
+so the norm-based uncertainty falls with the number of updates, whether
+or not the updates are correct. No edge.

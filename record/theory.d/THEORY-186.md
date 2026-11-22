@@ -65,6 +65,7 @@ extends:
 bears_on:
 - QUESTION-025
 ---
+<!-- inactive-ok-file: THEORY-tmpm3ux2 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-774 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 — Proposed; accounts this one underlies or is set beside -->
 
@@ -188,3 +189,12 @@ proportional to √s, weakest first. The staged, coarse-to-fine order this
 reading reports is therefore a property of gradient descent as well as of
 depth and data. [QUESTION-502](../questions.d/QUESTION-502.md) asks whether the reversal shows in trained
 networks. A qualification of scope, not of the reading's result.
+
+## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
+
+Presupposed and extended. Lee et al. (THEORY-tmpm3ux2) take this
+reading's stagewise learning of modes by strength as the frame of their
+toy, and find that one item's influence on another changes sign at each
+stage: dog helps sparrow while animal against plant is learned and is
+"harmful (positive) later on when learning to distinguish mammal vs.
+bird".

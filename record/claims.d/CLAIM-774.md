@@ -51,6 +51,7 @@ summary: >-
   Derived and checked by simulation. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpm3ux2 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2136 THEORY-2139 — Proposed, Unfetched or new; filed in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-771 CLAIM-767 — Proposed; the claims on depth this note points to -->
 <!-- inactive-ok-file: CLAIM-781 CLAIM-478 THEORY-186 — Proposed, Deferred or Open; the work this applies and the claims it bears on -->
@@ -139,3 +140,11 @@ one. What bears on depth is [CLAIM-767](CLAIM-767.md), and the claim filed on de
 ## Note of 2026-11-21: modular duality read
 
 Bernstein and Newhouse ([THEORY-2136](../theory.d/THEORY-2136.md), read in [NOTE-2232](../notes.d/NOTE-2232.md)) confirm that modular dualization of a linear layer is the polar factor scaled by √(d_out/d_in), 1 for this claim's square layers, with every singular value of the update the same. Three qualifications: the derivation uses the fixed-rate update of their eq. 2, not the exact steepest step of their Proposition 1, which scales by the gradient's dual norm (the weakest-first order should survive, since every mode still gets the same step); practical updates use Newton–Schulz, exact only in the limit; and non-square layers or unequal masses give the two layers unequal steps. The paper says nothing about the order of learning. The spectral-condition paper ([THEORY-2139](../theory.d/THEORY-2139.md)) rescales gradients without changing their spectrum, so it does not bear on this claim.
+
+## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
+
+Background. Lee et al.'s analytic influence (THEORY-tmpm3ux2) is computed
+in the same two-layer linear network under gradient flow, through each
+mode's time-dependent strength. Under this claim's spectral-norm descent
+the modes' timing changes, so the timing of their influence peaks would
+too; the paper does not consider other optimizers.

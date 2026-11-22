@@ -39,6 +39,7 @@ summary: >-
   wording is A's (the other assistant in the exchange "Rich Get Richer
   Power Laws", A33 and A35); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpsj6u9 THEORY-tmpe9367 CLAIM-tmpxcy5s — Proposed; the readings of Ghadimi Atigh et al. and Bui et al. filed 2026-11-22, and the assistant's norm-growth claim -->
 <!-- inactive-ok-file: CLAIM-797 CLAIM-847 THEORY-196 THEORY-188 THEORY-618 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Proposed entries the record already held, cited for context -->
 
 # CLAIM-816: Hyperbolic entailment embeddings encode depth by radius, and dimension narrows that range twice: Gaussian-like representations projected into the ball inherit a narrow norm range, and matching hyperbolic volume to a tree's growth gives a per-level radial gap that shrinks as 1/(D − 1), so depth has to be calibrated when entailment geometries are compared across widths
@@ -91,3 +92,23 @@ says how dimension affects radial depth.
 
 - Not that hyperbolic embeddings fail at high dimension; that depth must be
   calibrated across widths before levels are compared.
+
+## Note of 2026-11-22: Ghadimi Atigh and colleagues, and Bui and colleagues, read
+
+Two readings, two kinds of bearing.
+
+- **Ghadimi Atigh et al. (THEORY-tmpsj6u9, NOTE-tmpyyvdy): weakly
+  supports the worry.** The paper relies on depth by radius ("general
+  concepts lie closer to the origin and more specific concepts closer to
+  the boundary", §3.2), and adds a Busemann term because the
+  cross-entropy and entailment losses alone leave samples "biased towards
+  internal classes". The radial range has to be enforced by a term of its
+  own, not had for free. It sets the dimension to c − 1 without remarking
+  on concentration, so it does not test the 1/(D − 1) heuristic.
+- **Bui et al. (THEORY-tmpe9367, NOTE-tmpvu3vp): a parallel.** They
+  rescale ‖z‖ by √d and clip at ζ (§4.4), a practical answer to the same
+  narrow-norm problem, though their radius means certainty, not depth.
+  And in their scheme each cone-constrained update raises the item's norm
+  (CLAIM-tmpxcy5s, the assistant's), so successive generations spend the
+  radial range this claim says is narrow; the clipping radius has to be
+  raised at each update. No edge.

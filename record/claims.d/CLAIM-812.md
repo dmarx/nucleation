@@ -69,6 +69,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpm3ux2 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 
 <!-- inactive-ok-file: THEORY-tmpt1tw7 — new; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-813 CASE-302 CLAIM-825 THEORY-tmpr9w2r — Proposed, new or Deferred; filed with this claim, or works registered from the exchange and not yet read -->
@@ -236,3 +237,12 @@ models, not as a resolved parameter. That is the claim's "counts like a
 flat one at finite n" seen through the prior, not through the learning
 coefficient, and the review does not mention singular learning theory.
 No relation is written.
+
+## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
+
+The cautions apply. Lee et al. (THEORY-tmpm3ux2) estimate their Bayesian
+influence with the same localized SGLD at fixed nβ and γ: in the toy,
+settings chosen to maximize agreement with leave-one-out (C.2); in the
+language models, nβ ∈ {256, 1024} and γ ∈ {500, 1000}, which "did not
+vary substantially" (D.1.2). A direction below this claim's curvature
+cut-off at those settings would be invisible to their covariance too.
