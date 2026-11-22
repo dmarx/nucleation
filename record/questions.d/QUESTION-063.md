@@ -57,6 +57,7 @@ summary: >-
   [CLAIM-172](../claims.d/CLAIM-172.md), [CLAIM-167](../claims.d/CLAIM-167.md) and [CLAIM-158](../claims.d/CLAIM-158.md). [THEORY-129](../theory.d/THEORY-129.md) and [THEORY-130](../theory.d/THEORY-130.md) answer it
   in part; the body gives each one's limit.
 ---
+<!-- inactive-ok-file: CASE-tmp69rk8 CLAIM-tmpo7igy — filed from LEAD-098's run of 2026-11-22, new -->
 
 # QUESTION-063: When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement or intervention tells which architecture produced it, given that directional information measures under a recorded one-sided drive need not follow the coupling?
 
@@ -184,3 +185,7 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 <!-- inactive-ok-file: THEORY-2044 — Proposed; cited from the readings of 2026-11-19 -->
 
 Wang and Slotine ([THEORY-2044](../theory.d/THEORY-2044.md), bears_on; [NOTE-2096](../notes.d/NOTE-2096.md)). A leader fixes the collective phase (Theorem 7), while among peers "the phase of the collective behavior is hard to predict, since it depends on the initial conditions of all the coupled elements" (p. 21). That is the collective phase freedom of the coupled architecture against a common drive. It gives no test that tells the two apart in data.
+
+## Note of 2026-11-22: the interventions run in a simulated network (LEAD-098)
+
+CASE-tmp69rk8 ran this question's two interventions on eight Stuart–Landau units under a shared drive, uncoupled and coupled. Displacing the drive of one member by π/2 moved the others by 0.2 per cent of that member's shift without coupling, 30 per cent at coupling 0.3 and 58 per cent at 1.0, falling off along the graph. A kick to one member reached the others at a peak of 0.010 without coupling against 0.12 to 0.14 with it. Of QUESTION-035's tests, entrainment read from timing (phase-locking value 0.9985 against 0.9996) and gluing of the observed offsets (holonomy below 10⁻⁴ in both) cannot see the difference; entrainment by intervention, CLAIM-172's criterion, and conserved coherence after the drive is withdrawn (order 0.47 against 0.996) can. A coupling fitted to passive fluctuations reads the shared drive as a weak coupling (0.068, where the coupled network's true gain is 0.3) unless the drive is recorded and its pull modelled, which is THEORY-275's warning carried to a shared drive. CLAIM-tmpo7igy states the result. It is a constructed answer in one model family, with the drive known to the experimenter; the unrecorded shared drive and the question's second part, telling one internal route from another, stay open. The question stays Open.

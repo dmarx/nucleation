@@ -68,6 +68,7 @@ draws_on:
 - THEORY-1088
 - THEORY-1090
 ---
+<!-- inactive-ok-file: CASE-tmp69rk8 CLAIM-tmpo7igy — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-225 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
@@ -199,3 +200,7 @@ A17 §4 tied this design to one distinction: a change in observed collective org
 A32 §11 proposed extending this study with regimes: strong dissipation under correct and under incorrect correspondence relations, a good predictive quotient that hides intervention-sensitive differences, and endogenous adaptation of the correspondences. The last is the positive arm noted above and [QUESTION-282](../questions.d/QUESTION-282.md). The first three are new arms. A32 §11 also proposed resource limits as a fifth regime.
 
 The study is still proposed. No status change.
+
+## Note of 2026-11-22: the design run, for LEAD-098
+
+LEAD-098 ran this design for the first time, in eight Stuart–Landau units on a ring with one chord, with phase-offset maps on the edges; the result is CASE-tmp69rk8 (executed study) and CLAIM-tmpo7igy. Run: the regimes of the table above, with higher-dimensional stalks run as linear sheaves rather than in the oscillators; A12's three arms (forcing withdrawal, suppression, adaptive capacity with knockouts); revision none, by consistency, and checked against held-out interventions; QUESTION-063's displacement and perturbation; and a plastic-maps arm, the variant above in which revision feeds back into the coupling. The regimes come apart as the table says they would isolate: maps that glue in the weak and conservative regimes without attraction; strong coupling enforcing other relations, locked and far from the apparatus's sections; a frustrated network locked into one compromise state; a shared drive bringing uncoupled units near the sections. Revision by consistency reached coherence without changing prediction. Not run: the arms of the notes of 2026-11-03 and 2026-11-19, except one maintenance knockout. This proposed study keeps its standing and kind; the run is the new case.

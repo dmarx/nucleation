@@ -20,6 +20,7 @@ summary: >-
   their holonomy followed under perturbation, and a test against matched
   systems whose holonomy differs.
 ---
+<!-- inactive-ok-file: CASE-tmp69rk8 — filed from LEAD-098's run of 2026-11-22, new -->
 
 # QUESTION-319: Where an organization's parts are related by transports established independently of the analysis, and those transports have nontrivial holonomy, is the holonomy an error the organization tends to remove, or a persistent feature it maintains, and does its pattern predict the organization's response to intervention beyond what its pairwise relations and its dynamics predict?
 
@@ -70,3 +71,7 @@ regime.
 ## Note of 2026-11-07: a temporal extension that drops the first condition, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A25 §7 cites this question rightly, holonomy as error or as maintained feature, and extends it to drifting relations over time. A's extension omits this question's first condition, "The transports must not be the modeller's": in A's temporal story the offsets are chosen, not fitted from data. No change.
+
+## Note of 2026-11-22: holonomy in a simulated network, from LEAD-098
+
+CASE-tmp69rk8 ran CASE-179's frustrated-maps regime with holonomy h on one cycle of an eight-unit oscillator network. With the maps fixed, the holonomy persists by construction and the network locks into one compromise state whose residual incompatibility grows with h (0.007 at π/4, 0.063 at 0.8π) and is the same for gauge-equivalent maps, so the readout follows the holonomy and not the offsets edge by edge; one connection under strong and weak coupling gives different organizations with the same holonomy. With maps that adapt to the realized offsets, the holonomy went to zero: under that rule the organization removes it as an error. The transports were the experimenter's, not derived from measurement, so the question's first objection is not met. Response matrices to kicks on every unit are in the study's results file. Leaves the question open.

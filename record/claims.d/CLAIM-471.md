@@ -118,6 +118,7 @@ summary: >-
   physically operative correspondence structure, rather than revealing or
   redescribing it.
 ---
+<!-- inactive-ok-file: CASE-tmp69rk8 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 LIT-1639 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 <!-- ref::uses-file: TERM-093 — the "correspondences among local descriptions" that measurement estimates and adaptive apparatuses revise, held apart from physical coupling, are TERM-093's correspondence structure, held as discovered or adapted -->
@@ -391,3 +392,7 @@ No status changes.
 ## Note of 2026-11-05: A's fourth paste, and the assistant's contributions
 
 A's fourth paste gives the order of explanation this claim's three mechanisms sit in: processes come first, the admissible process structure second, a Yoneda profile third, since "Yoneda identifies objects within a given process structure. It doesn't explain how that process structure comes into existence." The formation, discovery and adaptation this claim separates are what A says must stay separate "if the categorical account is to add explanatory power rather than just provide a new vocabulary." No status changes.
+
+## Note of 2026-11-22: the three parts separated in one simulation, from LEAD-098
+
+CASE-tmp69rk8 ran CASE-179's three manipulations independently. Strong dissipative coupling enforcing relations other than the apparatus's locked fully and stayed far from the apparatus's sections (incompatibility 0.52), so gluing under the specified relations did not follow from the coupling. An apparatus that revised its maps to the observed offsets became consistent without predicting held-out interventions any better; revision checked against them did. That is this claim's point, that neither the relations' generation nor their adequacy follows from gluing, in a model. No status change.
