@@ -15,15 +15,32 @@ from model import Config, run, LESIONS, COMPONENT_LESIONS  # noqa: E402
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SEEDS = range(64)
-RHO = {"ample": 0.6, "lean": 0.36}
+RHO = {"ample": 0.6, "lean": 0.36, "tight": 0.25}
+
+
+def tier(a, s, L, f):
+    """Run order under a CPU limit: 1 = the reference apparatus (protected,
+    independent) in every cell; 2 = the other admission x scoring arms
+    under ample fuel; 3 = the reference apparatus under tight fuel
+    (rho = 0.25, below the ordinary spend of about 0.36 a step); 4 and 5
+    = the other arms under lean and tight fuel, not run here."""
+    ref = a == "protected" and s == "independent"
+    if f == "tight":
+        return 3 if ref else 5
+    if ref:
+        return 1
+    return 2 if f == "ample" else 4
 
 
 def cells(part):
-    if part == "core":
+    if part.startswith("core"):
+        want = int(part[4:]) if part[4:] else None
         for m, a, s, e, L, mt, sc, f in itertools.product(
                 ("reciprocal", "external", "none"), ("protected", "selective"),
                 ("independent", "captured", "ipw"), ("in_family", "out_family"),
-                LESIONS, (False, True), (True, False), ("ample", "lean")):
+                LESIONS, (False, True), (True, False), ("ample", "lean", "tight")):
+            if want is not None and tier(a, s, L, f) != want:
+                continue
             yield f, Config(maintenance=m, admission=a, scoring=s, env2=e,
                             lesion=L, matched=mt, self_check=sc, RHO=RHO[f])
     elif part == "baselines":
