@@ -339,3 +339,20 @@ did not produce, and a producer to rebuild what the test found. Without the
 test no arrangement recovered. The test was stipulated, not evolved,
 and the run does not say what organization would arrive at one. The question
 stays Open.
+
+## Note of 2026-11-22: a ladder on one channel, and a network that revises its correspondences, LEAD-177
+
+<!-- inactive-ok-block: CASE-tmpz762n CASE-tmp33vf4 CLAIM-tmppa4rs CLAIM-tmpvqmwc CASE-239 — new or Proposed; the runs of LEAD-177, the claims drawn from them and the design run -->
+The question's answer 2 asked for systems with identical sensory correlations
+and different memory, use and adaptivity. CASE-tmpz762n builds four on one
+sensor channel: acting on an absence with nothing kept, registering a bounded
+non-response, placing the fault, and finding a fault outside the catalog from
+a record of real outcomes. Each comes apart from the rung below in the run.
+CASE-239's forager adds the separation of revising estimates from revising
+what counts (CLAIM-tmppa4rs). For answer 3, CASE-tmp33vf4 makes a Robinson-style
+network's correspondences revisable: revision by disagreement alone restores
+consistency and not accuracy, and revision against beacons the world places,
+through a channel G can neither rewrite nor refuse, restores accuracy
+(CLAIM-tmpvqmwc). Both are constructions, and neither invents a question it
+could not ask: the candidates for revision are features already sensed. The
+question stays Open.

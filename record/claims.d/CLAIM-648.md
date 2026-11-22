@@ -118,3 +118,13 @@ forager, whose profile its modeller wrote, has its modeller's norm on
 that account, which is this claim's own defeater; [CASE-239](../cases.d/CASE-239.md)'s learner
 would have its own. The accounts come apart only for a self-maintaining
 system with no history. The status is unchanged.
+
+## Note of 2026-11-22: the learner of CASE-239, run
+
+<!-- inactive-ok-block: CASE-tmpz762n CLAIM-tmphrp1s CLAIM-tmpnc1mf CASE-239 — new or Proposed; the design, its run and the two readings of its control -->
+The learner CASE-239 proposed was run (CASE-tmpz762n). Its warnings were set
+by its own energy account, with upkeep and dissolution the modeller's, and
+were stabilized by its own past upkeep through learning, the history the
+objection to this claim asks for. Whether that makes the profile its own, or
+the designer's in another form, is filed as two alternatives
+(CLAIM-tmphrp1s, CLAIM-tmpnc1mf); the claim is unchanged.
