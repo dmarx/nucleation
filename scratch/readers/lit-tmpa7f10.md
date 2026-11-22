@@ -196,3 +196,46 @@ the self-to-others route is shown as association, not cause."
   people apart from empathy or caring and finds concern follows it; or the
   longitudinal follow-up (LIT-tmpre45d) is read and confirms or reverses the
   direction.
+
+## Step 3: recheck of the record (2026-11-22, worktree at staging)
+
+Searched record/ for: future self-continuity / self-continuity; Hershfield;
+consideration of future consequences; Syropoulos; Wade-Benzoni; construal
+level; inclusion of other in self / IOS / overlapping circles; longtermism;
+generativity; Zaval / "How Will I Be Remembered"; impartial
+intergenerational beneficence; Parfit.
+
+- **Held, missed by the first search** (the LIT and LEAD-062 note name none):
+  - **LIT-1713 / NOTE-1293 / THEORY-1579** (Syropoulos et al. 2023,
+    "Responsibility to Future Generations: A Moral Reframing Strategy";
+    Active): the same group's RFG work; THEORY-1579 reports RFG widely
+    endorsed and nearly unrelated to ideology. The RFG scale used here is
+    Syropoulos et al. 2020 (check whether that is LIT-1741 or another).
+  - **LIT-1741** (Syropoulos & Markowitz 2021, perceived responsibility
+    towards future generations; Unavailable): S1 reanalyses this group's
+    earlier data (Syropoulos et al. 2020; Syropoulos & Markowitz 2021).
+  - **LIT-1702 / NOTE-1259** (Hershfield 2011, FSC; Active): the source of the
+    FSC construct and measure, and of the offspring guess QUESTION-301 cites.
+  - **LIT-1724** (Zaval et al. 2015, legacy; Unavailable) and **LIT-1750 /
+    NOTE-1316** (place and legacy framing): the legacy literature this paper
+    cites but does not test.
+  - **NOTE-1274** ("Empirical Approaches to Altruism"): doubts what the IOS
+    scale measures ("It is far from clear what the other two tests [IOS and
+    use of 'we'] are measuring", l. 55-56). Directly relevant: this paper's
+    identification item in 3b is an IOS-style circles item.
+  - LIT-tmpmox49 / NOTE-tmpirf1e (Simić et al.) already linked by LEAD-062.
+- **Not held**: Strathman et al. 1994 (CFC scale); Wade-Benzoni & Tost 2009
+  (the identification/efficacy theory); Trope & Liberman 2010 (construal
+  level); Syropoulos & Law et al. 2023a/b (longtermism / IIBI).
+- No "not held" verdict overturned. LEAD-062's "no study separates
+  continuity with future people from caring" stands after reading this one.
+
+## Copies located (summary table)
+
+| address | kind | outcome, date |
+|---|---|---|
+| https://osf.io/29jeb/download (-> files.osf.io ... 29jeb_v1 ... 64f8b4716c0f5a31cad05897) | authors' CC BY preprint, PsyArXiv/OSF | read; fetched once 2026-11-22, no check; served file "CFC, FSC & RFG Manuscript 5-21-24 - Preprint.docx" |
+| Europe PMC PPR721445 | abstract record | abstract only (LEAD-062 run, 2026-11-22) |
+
+Status implied: read (preprint, 2024-05-21 version); ready to move from
+Unfetched to Active. Supplementary materials and OSF data not read.
