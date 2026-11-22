@@ -38,8 +38,15 @@ executed-study CASE giving CLAIM-448's existence half a demonstrated warrant.
   construction, smallest case only). Proceeding.
 - Branch cut, PROGRESS.md pushed.
 
+## Done (continued)
+
+- Built agenda_model.py, test_agenda_model.py (9 pass), results.json, README.
+- Filed CASE-tmpn19tk (executed-study, documented, Proposed; illustrates
+  CLAIM-448, variant_of CASE-221, bears_on QUESTION-269).
+- Dated notes of 2026-11-22 on CLAIM-448, CLAIM-451, CLAIM-440, LEAD-123.
+- Changelog fragment record/changelog.d/lead-123.md.
+- Per-file checks pass (yaml parses, no code in title, H1 matches).
+
 ## Next
 
-- Build numpy model + pytest under scratch/studies/lead-123/.
-- File CASE (executed-study), dated notes on CLAIM-448/451/440 and the lead,
-  changelog fragment.
+- Commit/push filing. Report. (No PR; owner decides status/stage/warrant.)

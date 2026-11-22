@@ -61,6 +61,8 @@ summary: >-
   keeps the structural fact apart from tension and from dissonance.
 ---
 
+<!-- inactive-ok-file: CASE-tmpn19tk — new on 2026-11-22; the executed-study agenda model, cited in the note of 2026-11-22 -->
+
 # CLAIM-451: When an organization's record of winning moves cycles, the failure is organizational nonintegrability, distinct from a perspective's own preference instability and from switching of the governing regime; it becomes organizational tension only when realized as costly reversal against demands the organization maintains, and cognitive dissonance only when that tension is detected and appraised as aversive; learning can relieve it by accommodation, by entrenched precedence or by cheap periodic coordination, which observed coherence does not tell apart, and ambivalence and nonintegrability entail neither one another
 
 ## The claim
@@ -180,3 +182,15 @@ does not say whether its cycles lie within strongly connected components or
 between them ([NOTE-1156](../notes.d/NOTE-1156.md)), and its title says observed coherence cannot tell
 the three reliefs apart where the body says that holds for accommodation
 and entrenchment only.
+
+## Note of 2026-11-22: nonintegrability degree computed in the agenda model ([LEAD-123](../leads.d/LEAD-123.md))
+
+The executed study [CASE-tmpn19tk](../cases.d/CASE-tmpn19tk.md), built for [CLAIM-448](CLAIM-448.md), computes this
+claim's nonintegrability degree, the minimum feedback-arc fraction, on the
+admitted record: it is zero exactly when the admitted record is acyclic and 1/3
+on the full cycle. The study makes selective admission a further route to an
+acyclic record, beside this claim's accommodation, entrenchment and periodic
+coordination, and like those three it is one that observed coherence alone
+cannot tell apart from genuine integration. The study does not measure felt
+tension or arbitration cost; as this claim says, how the degree relates to those
+is empirical. No status changes.

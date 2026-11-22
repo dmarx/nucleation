@@ -115,6 +115,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-039 THEORY-055 THEORY-056 THEORY-101 TERM-076 — Proposed; the claims, readings and term this claim rests on or is stated in, cited as open; it is Proposed with them -->
 <!-- ref::uses-file: TERM-094 — Frijda's appraisal "eliciting action readiness with control precedence", read as a claim to authority over action, is TERM-094's sense -->
 <!-- inactive-ok-file: CLAIM-tmpiyf8w THEORY-tmpto8hu THEORY-tmp8q7t4 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
+<!-- inactive-ok-file: CASE-tmpn19tk — new on 2026-11-22; the executed-study agenda model bearing on part 3, cited in the note of 2026-11-22 -->
 
 # CLAIM-440: An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes contested rankings, not frustrated demands, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
 
@@ -443,3 +444,14 @@ procedure [CLAIM-tmpkcsp7](CLAIM-tmpkcsp7.md)). That record does not meet the fo
 it tells ambivalence from a prevailing compromise and from no contest, but
 with too few contests per window to tell much else. The claim is
 unchanged.
+
+## Note of 2026-11-22: part 3 demonstrated in the agenda model ([LEAD-123](../leads.d/LEAD-123.md))
+
+The executed study [CASE-tmpn19tk](../cases.d/CASE-tmpn19tk.md), built for [CLAIM-448](CLAIM-448.md), is a direct
+demonstration of part 3's qualification: the potential, and the
+goal-conduciveness valence read off it, is the organization's only on a record
+shown to admit the contests that bear on it. With the perspectives' preferences
+held fixed at a Condorcet cycle, changing the admission rule alone changes which
+option the record ranks top; a chair can install any of the three. The run is
+entirely ordinal on the record of wins, so the Hodge direction this claim keeps
+for margins is not exercised. No status changes.
