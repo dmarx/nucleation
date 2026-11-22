@@ -31,10 +31,17 @@ QUESTION-065's lattice result; divergence in a local system bounds CLAIM-157.
   No executed study computes the informative-across-buffer vs gap-isolated
   comparison.
 
+- Study built, tested (8 pytest pass), swept (960 items), analyzed, mechanism
+  checked. RESULT: lattice-like homogeneous boundary -> informative-across-
+  buffer variable == gap-isolated block (overlap 0.986). Generic non-lattice
+  symmetric boundary -> they DIVERGE (overlap mean 0.527, min 0.19). Generic
+  asymmetric (one-way drive) -> match (0.950). Modularity has no effect.
+  Mechanism: u_info is a border mode (0.89 mass on 24% border nodes); u_block
+  is the spread collective mode.
+
 ## Next
-- Write study script (numpy/scipy, python3 -I) + pytest.
-- Run across systems, persist per-item JSONL.
-- File CASE (executed-study) + CLAIM(s) + lead note + changelog.
+- File CASE (executed-study, documented), CLAIM (Proposed thesis), dated notes
+  on CLAIM-157, QUESTION-065, LEAD-137, changelog fragment.
 
 ## Choices made
 - Model: linear Gaussian VAR(1) on a modular graph (communities on a path,
