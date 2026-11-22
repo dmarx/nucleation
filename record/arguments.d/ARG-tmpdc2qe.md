@@ -27,6 +27,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: THEORY-1095 — Proposed; the 1995 reading whose question the exponents remain -->
 <!-- inactive-ok-file: THEORY-tmpdfeto — Proposed; the reading this argument starts from -->
 <!-- inactive-ok-file: CLAIM-841 — Proposed; the claim it concludes -->
 

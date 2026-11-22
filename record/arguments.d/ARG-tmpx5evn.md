@@ -34,6 +34,7 @@ summary: >-
   a representation still supposed. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: NOTE-tmpurjns — Skimmed; the reading of Drouin-Touchette -->
 <!-- inactive-ok-file: THEORY-tmp1nvjs THEORY-tmp85ij4 THEORY-tmpqma2p THEORY-tmpdfeto — Proposed; the readings this argument starts from -->
 <!-- inactive-ok-file: CLAIM-842 — Proposed; the claim it concludes -->
 <!-- inactive-ok-file: LIT-2985 LIT-tmpu2kk5 LIT-tmp309tx — Unavailable or Deferred; Mermin and Wagner, Cassi, and Hattori et al. -->

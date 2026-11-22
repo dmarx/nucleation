@@ -39,6 +39,7 @@ summary: >-
   coupling removes the Gaussian divergence. Extends the theorem to 2D
   itinerant electrons.
 ---
+<!-- inactive-ok-file: CLAIM-842 — Proposed; the claim this work bears on -->
 <!-- inactive-ok-file: THEORY-tmpqma2p — new; this work's reading -->
 <!-- inactive-ok-file: LIT-2985 — Unavailable; the original this work stands in for -->
 

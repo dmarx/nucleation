@@ -24,6 +24,7 @@ summary: >-
   removes the Gaussian divergence; and an extension to 2D itinerant
   electrons. The reading is THEORY-tmpqma2p.
 ---
+<!-- inactive-ok-file: LIT-2969 LIT-tmph3tia — Unfetched or Deferred; Kosterlitz and Thouless, and Kosterlitz (1974) -->
 <!-- inactive-ok-file: THEORY-tmpqma2p — Proposed; this reading's account -->
 <!-- inactive-ok-file: LIT-2985 — Unavailable; the original this reading stands in for -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-842 CLAIM-846 ARG-tmpx5evn — Proposed or new; the entries the reading bears on -->

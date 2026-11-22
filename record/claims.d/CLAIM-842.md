@@ -53,6 +53,7 @@ summary: >-
   other assistant in the exchange "Rich Get Richer Power Laws", A29);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: LIT-2969 — Unfetched; Kosterlitz and Thouless, read through neighbours -->
 <!-- inactive-ok-file: THEORY-tmp1nvjs THEORY-tmp85ij4 THEORY-tmpqma2p THEORY-tmpdfeto NOTE-tmpurjns ARG-tmpx5evn LIT-tmpu2kk5 LIT-tmp309tx — Proposed, Skimmed, Deferred or new; the readings of 2026-11-22, the works registered from them and the argument on this claim -->
 <!-- inactive-ok-file: TERM-136 CLAIM-798 THEORY-2047 THEORY-2051 THEORY-1272 LIT-2985 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
 

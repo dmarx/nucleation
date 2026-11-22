@@ -45,6 +45,7 @@ summary: >-
   corresponding Gaussian models. Here for CLAIM-842. Unverified until
   read.
 ---
+<!-- inactive-ok-file: ARG-tmpx5evn — Proposed; the argument on the claim this work bears on -->
 <!-- inactive-ok-file: LIT-2985 — Unavailable; Mermin and Wagner -->
 <!-- inactive-ok-file: CLAIM-842 — Proposed; the claim this work's theorem bears on -->
 

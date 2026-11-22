@@ -40,6 +40,7 @@ summary: >-
   lattices of spectral dimension at most 2. Adds Hubbard films and the
   periodic Anderson model.
 ---
+<!-- inactive-ok-file: CLAIM-842 ARG-tmpx5evn — Proposed; the claim this work bears on and the argument on it -->
 <!-- inactive-ok-file: NOTE-tmppfzap THEORY-tmp1nvjs — Skimmed or Proposed; this work's reading -->
 <!-- inactive-ok-file: LIT-2985 — Unavailable; the original this work stands in for -->
 <!-- inactive-ok-file: LIT-tmpu2kk5 LIT-tmp309tx — Deferred; Cassi and Hattori et al., registered from this work -->

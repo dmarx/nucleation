@@ -25,6 +25,7 @@ summary: >-
   row does not rest on Mermin–Wagner. Proposed until a second source
   confirms the scope.
 ---
+<!-- inactive-ok-file: THEORY-tmpaojie — Proposed; the reading of Drouin-Touchette -->
 <!-- inactive-ok-file: ARG-tmpx5evn — new; this reading and the argument it joins -->
 <!-- inactive-ok-file: LIT-2985 — Unavailable; the original this reading stands in for -->
 <!-- inactive-ok-file: CLAIM-841 CLAIM-842 — Proposed -->

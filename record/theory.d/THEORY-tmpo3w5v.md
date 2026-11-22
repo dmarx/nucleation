@@ -31,6 +31,7 @@ summary: >-
   (ARG-tmp2xbl4) and is one of the three cases of CLAIM-tmpvq33w.
   Proposed until confirmed by an independent derivation.
 ---
+<!-- inactive-ok-file: THEORY-tmpmoyol — Proposed; the reading of Takeuchi and Sano -->
 <!-- inactive-ok-file: THEORY-tmpdcfxq ARG-tmp2xbl4 CLAIM-tmpvq33w — new or Proposed; this reading, the retrospective read beside it, and the entries it grounds -->
 <!-- inactive-ok-file: CLAIM-841 — Proposed; the claim whose KPZ row it grounds -->
 

@@ -34,6 +34,7 @@ summary: >-
   different magnitudes. A rotation is interpolated to zero at infinity at
   bounded energy cost, which d = 2 just allows.
 ---
+<!-- inactive-ok-file: CLAIM-842 — Proposed; the claim this work bears on -->
 <!-- inactive-ok-file: THEORY-tmp85ij4 — new; this work's reading -->
 <!-- inactive-ok-file: LIT-2985 — Unavailable; the original this work stands in for -->
 

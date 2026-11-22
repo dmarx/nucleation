@@ -35,6 +35,7 @@ summary: >-
   superuniversality failed, χ = 0.3869(4) in d = 2. Here beside
   LIT-2978.
 ---
+<!-- inactive-ok-file: CLAIM-841 ARG-tmp2xbl4 — Proposed; the claim this work scopes and the argument on it -->
 <!-- inactive-ok-file: NOTE-tmpu2n0d THEORY-tmpdcfxq — Skimmed or Proposed; this work's reading -->
 
 # LIT-tmpvt8q4: Dynamic scaling of growing interfaces
