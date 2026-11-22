@@ -5,6 +5,13 @@ import sys
 import numpy as np
 
 rows = [json.loads(line) for line in open(sys.argv[1]) if line.strip()]
+# An organization whose coupled world is not stationary (spectral radius of
+# the coupling >= 1) gives NaN there and a degenerate matched null; drop the
+# seed from every world.
+bad = {r["seed"] for r in rows if r["world"] == "coupled" and r["within_corr"] != r["within_corr"]}
+if bad:
+    print(f"dropped seeds (coupled world not stationary): {sorted(bad)}\n")
+rows = [r for r in rows if r["seed"] not in bad]
 worlds = ["coupled", "driver", "mixed"]
 metrics = ["pulse_rmse_heldout", "cut_mae", "pred_cut_mean", "r2_onestep",
            "n_features", "group_jaccard", "offdiag_abs_mean"]
