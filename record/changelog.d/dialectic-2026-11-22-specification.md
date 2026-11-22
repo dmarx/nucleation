@@ -7,3 +7,6 @@
   dialectic regime.
 - TERM-tmp94y6v (specification) and TERM-tmp8b1yl (direction of fit), Proposed, at the owner's
   question whether a term would help.
+- CLAIM-tmpnookt (interpretive): specification is model-theoretic in the record and
+  proof-relevant in type theory, with the correspondences stated; LEAD-tmp3xevc
+  to read the sources.
