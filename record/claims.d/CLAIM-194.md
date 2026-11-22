@@ -186,9 +186,9 @@ corroborates this claim. The claim is unchanged.
 
 ## Note of 2026-11-22: Bourrat 2022 and Bourrat et al. 2024, read
 
-Read for LEAD-176: Bourrat's endogenization paper (LIT-1927, NOTE-tmp1shj8)
-and the scaffolding group's 2024 statement (LIT-tmp6nn9d, NOTE-tmpculbo),
-the second standing in for Black, Bourrat and Rainey (LIT-1940, Unfetched).
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat's endogenization paper ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md))
+and the scaffolding group's 2024 statement ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md)),
+the second standing in for Black, Bourrat and Rainey ([LIT-1940](../literature.d/LIT-1940.md), Unfetched).
 A parallel, not evidence for the claim's argument; no edge.
 
 - **The same distinction, drawn in biology.** Bourrat's "Darwinian-like"
@@ -201,7 +201,7 @@ A parallel, not evidence for the claim's argument; no edge.
   the claim says a gap criterion passes the beam.
 - **Bourrat tells them apart by an intervention, not a coupling
   measure**: lift the scaffold and see whether the collective's
-  properties survive. That is the kind of test CLAIM-522 says separates
+  properties survive. That is the kind of test [CLAIM-522](CLAIM-522.md) says separates
   the two. In his model it lifts one part of the scaffold only, the
   migration ban, relative to a candidate (the patch) declared in advance.
 - **The 2024 paper complicates the dichotomy.** Its constructive route

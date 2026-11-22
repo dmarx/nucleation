@@ -21,8 +21,8 @@ tags:
 - complex-systems
 date: '2026-11-22'
 summary: >-
-  Wimsatt and Schank (2004), read in NOTE-tmpkxkqj (Read), a neighbour
-  of LIT-1926. The definition is the paper's; the simulations mostly
+  Wimsatt and Schank (2004), read in [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md) (Read), a neighbour
+  of [LIT-1926](../literature.d/LIT-1926.md). The definition is the paper's; the simulations mostly
   assign selection coefficients by class rather than compute
   entrenchment, so they bear on differential selection in general.
 ---
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-William C. Wimsatt and Jeffrey C. Schank (2004), LIT-tmpjv6ez, read in
-NOTE-tmpkxkqj.
+William C. Wimsatt and Jeffrey C. Schank (2004), [LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md), read in
+[NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md).
 
 ## What was actually shown
 

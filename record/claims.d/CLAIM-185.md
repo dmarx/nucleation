@@ -270,7 +270,7 @@ at is [CLAIM-184](CLAIM-184.md)'s question, and the readings do not answer it. N
 title or warrant changes.
 
 ## Note of 2026-11-01: the same shape in Griesemer and Shavit's entrenchment
-<!-- inactive-ok-block: LIT-188 LIT-1926 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 Griesemer and Shavit ([LIT-188](../literature.d/LIT-188.md), §2; [NOTE-173](../notes.d/NOTE-173.md)) describe the step from a
 connected collection to a community in this claim's terms, for social
@@ -329,8 +329,8 @@ Rechecked after [CASE-183](../cases.d/CASE-183.md)'s revision of 2026-11-07, whi
 
 ## Note of 2026-11-22: generative entrenchment, background
 
-Read for LEAD-176: Wimsatt and Schank 2004 (LIT-tmpjv6ez, NOTE-tmpkxkqj),
-standing in for Wimsatt's book (LIT-1926, Unavailable). Background; no
+Read for [LEAD-176](../leads.d/LEAD-176.md): Wimsatt and Schank 2004 ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md), [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md)),
+standing in for Wimsatt's book ([LIT-1926](../literature.d/LIT-1926.md), Unavailable). Background; no
 edge. Entrenchment explains persistence by dependence: a structure that
 much depends on is kept because changing it is costly. The claim runs
 the other way, from persistence to availability as an anchor. The two

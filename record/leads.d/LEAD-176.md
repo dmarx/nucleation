@@ -65,32 +65,32 @@ Readings that bear on imposed against produced boundaries test [CLAIM-194](../cl
 
 Carried out on branch `claude/lead-176-scaffolding-individuality`.
 
-- **Read**: LIT-1927 (Bourrat 2022, author's accepted manuscript;
-  NOTE-tmp1shj8, THEORY-tmpvjav8) and LIT-1935 (Shavit and Sharon 2023,
-  PMC; NOTE-tmpots55, THEORY-tmp5zzgh). Both now Active.
-- **Unfetched**: LIT-1940 (Black, Bourrat and Rainey 2020). bioRxiv
+- **Read**: [LIT-1927](../literature.d/LIT-1927.md) (Bourrat 2022, author's accepted manuscript;
+  [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md), [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md)) and [LIT-1935](../literature.d/LIT-1935.md) (Shavit and Sharon 2023,
+  PMC; [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md), [THEORY-tmp5zzgh](../theory.d/THEORY-tmp5zzgh.md)). Both now Active.
+- **Unfetched**: [LIT-1940](../literature.d/LIT-1940.md) (Black, Bourrat and Rainey 2020). bioRxiv
   returned 429 (Cloudflare), PhilArchive a Cloudflare challenge, MPG PuRe
-  403. Neighbour read: the same group's 2024 paper, LIT-tmp6nn9d
-  (NOTE-tmpculbo, THEORY-tmp54yyf).
-- **Unavailable**: LIT-1926 (Wimsatt 2007, a closed book), with
+  403. Neighbour read: the same group's 2024 paper, [LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md)
+  ([NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md), [THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)).
+- **Unavailable**: [LIT-1926](../literature.d/LIT-1926.md) (Wimsatt 2007, a closed book), with
   Wimsatt and Schank 2004 read in its place for the definition of
-  generative entrenchment (LIT-tmpjv6ez, NOTE-tmpkxkqj, THEORY-tmpk0h4i);
-  LIT-1932 and LIT-1937 (Griesemer 2000 and 2001), with the SEP entry on
-  replication and reproduction skimmed in their place (LIT-tmp460ih,
-  NOTE-tmp7ylue, THEORY-tmpi08qh).
-- **Dated notes** on CLAIM-194, CLAIM-529, CLAIM-531, CLAIM-522,
-  CLAIM-184, CLAIM-185, QUESTION-398, QUESTION-284, QUESTION-093,
-  QUESTION-277 and THEORY-418.
+  generative entrenchment ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md), [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md), [THEORY-tmpk0h4i](../theory.d/THEORY-tmpk0h4i.md));
+  [LIT-1932](../literature.d/LIT-1932.md) and [LIT-1937](../literature.d/LIT-1937.md) (Griesemer 2000 and 2001), with the SEP entry on
+  replication and reproduction skimmed in their place ([LIT-tmp460ih](../literature.d/LIT-tmp460ih.md),
+  [NOTE-tmp7ylue](../notes.d/NOTE-tmp7ylue.md), [THEORY-tmpi08qh](../theory.d/THEORY-tmpi08qh.md)).
+- **Dated notes** on [CLAIM-194](../claims.d/CLAIM-194.md), [CLAIM-529](../claims.d/CLAIM-529.md), [CLAIM-531](../claims.d/CLAIM-531.md), [CLAIM-522](../claims.d/CLAIM-522.md),
+  [CLAIM-184](../claims.d/CLAIM-184.md), [CLAIM-185](../claims.d/CLAIM-185.md), [QUESTION-398](../questions.d/QUESTION-398.md), [QUESTION-284](../questions.d/QUESTION-284.md), [QUESTION-093](../questions.d/QUESTION-093.md),
+  [QUESTION-277](../questions.d/QUESTION-277.md) and [THEORY-418](../theory.d/THEORY-418.md).
 
 What the readings change: imposed against produced boundaries
-(CLAIM-194) has a biological form in Bourrat's Darwinian-like against
+([CLAIM-194](../claims.d/CLAIM-194.md)) has a biological form in Bourrat's Darwinian-like against
 Darwinian collectives, told apart by removing the scaffold, which is
-CLAIM-529's release criterion as its source states it; in his model
+[CLAIM-529](../claims.d/CLAIM-529.md)'s release criterion as its source states it; in his model
 the release lifts one part of the scaffold only. Entrenchment as Wimsatt
-defines it does not entail closure (CLAIM-531, corroborated).
+defines it does not entail closure ([CLAIM-531](../claims.d/CLAIM-531.md), corroborated).
 
-What remains: LIT-1940 can be read when bioRxiv or PhilArchive is
-reachable; LIT-1932 and LIT-1937, Griesemer's own texts, need a copy, or
-an owner's ruling on a text-mining cache of LIT-1932 (see its status
-note); the 2007 book needs a copy. The three-stage scenario of LIT-1937,
+What remains: [LIT-1940](../literature.d/LIT-1940.md) can be read when bioRxiv or PhilArchive is
+reachable; [LIT-1932](../literature.d/LIT-1932.md) and [LIT-1937](../literature.d/LIT-1937.md), Griesemer's own texts, need a copy, or
+an owner's ruling on a text-mining cache of [LIT-1932](../literature.d/LIT-1932.md) (see its status
+note); the 2007 book needs a copy. The three-stage scenario of [LIT-1937](../literature.d/LIT-1937.md),
 and so the owner's question about circularity, stays unread.

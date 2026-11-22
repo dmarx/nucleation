@@ -80,31 +80,31 @@ developmentally acquired".
 
 ## Connections
 
-It stands in for LIT-1932 and LIT-1937 for the reproducer concept only.
+It stands in for [LIT-1932](../literature.d/LIT-1932.md) and [LIT-1937](../literature.d/LIT-1937.md) for the reproducer concept only.
 It restates: reproduction as development plus progeneration with
 material overlap; inheritance as a developmentally acquired system
 property; replication as an evolved form; no privileged level. It does
-not restate: LIT-1932's argument that developmental systems theory
+not restate: [LIT-1932](../literature.d/LIT-1932.md)'s argument that developmental systems theory
 reunifies heredity and development only nominally, or its claim that the
 reproducer keeps a distinction between cultural and biological
-evolution; LIT-1937's elaboration of Maynard Smith's multiplication, its
+evolution; [LIT-1937](../literature.d/LIT-1937.md)'s elaboration of Maynard Smith's multiplication, its
 revision of transition theory, or its "three-stage scenario". The
 citation "Griesemer 2000a: 76" names the Philosophy of Science paper
 (pp. S348-S368), which has no page 76; page 76 falls in the Selection
 paper (pp. 67-80), the entry's 2000b. The claim is most likely from
-LIT-1937; unverified until read. LIT-188 applies the reproducer to
+[LIT-1937](../literature.d/LIT-1937.md); unverified until read. [LIT-188](../literature.d/LIT-188.md) applies the reproducer to
 groups.
 
 ## Bearing on the record
 
-- **LIT-1937's question** (whether a unit that reproduces can be
+- **[LIT-1937](../literature.d/LIT-1937.md)'s question** (whether a unit that reproduces can be
   identified before, and without assuming, the individual a transition
   produces): the entry's statement that the reproducer "does not imply a
   particular level" and that reproducing capacity is "developmentally
   acquired" fits a yes: reproducers are picked out by material overlap
   and progeneration, not by individuality. It is the survey's
   summary, not Griesemer's argument, and does not settle it.
-- **CLAIM-529** (a parallel): material overlap and progeneration are
+- **[CLAIM-529](../claims.d/CLAIM-529.md)** (a parallel): material overlap and progeneration are
   criteria stated on a candidate's causal relations, not on members'
   attitudes, which is the claim's interaction route. No edge from a
   survey.
@@ -117,5 +117,5 @@ groups.
 
 ## Open questions
 
-What is the three-stage scenario of LIT-1937, and does its first stage
+What is the three-stage scenario of [LIT-1937](../literature.d/LIT-1937.md), and does its first stage
 pick out a reproducer without presupposing the later individual?

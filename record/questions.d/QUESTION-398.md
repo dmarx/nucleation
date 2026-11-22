@@ -169,9 +169,9 @@ No status changes.
 
 ## Note of 2026-11-22: endogenization of a scaffold, read
 
-Read for LEAD-176: Bourrat 2022 (LIT-1927, NOTE-tmp1shj8, THEORY-tmpvjav8)
-and the scaffolding group's 2024 paper (LIT-tmp6nn9d, NOTE-tmpculbo,
-THEORY-tmp54yyf), written as `bears_on` on both THEORYs. Evolutionary
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md), [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md))
+and the scaffolding group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md),
+[THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)), written as `bears_on` on both THEORYs. Evolutionary
 biology asks this question under the name endogenization.
 
 - **One model's answer** (Bourrat, §6.3): collectives of cells whose

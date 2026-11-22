@@ -22,7 +22,7 @@ tags:
 - individuation
 date: '2026-11-22'
 summary: >-
-  Bourrat (2022), read in NOTE-tmp1shj8 (Read). The criterion (§2,
+  Bourrat (2022), read in [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md) (Read). The criterion (§2,
   Table 1) grades collective properties as pseudo-Darwinian,
   Darwinian-like and Darwinian by the source of the mechanisms producing
   them; the model (§5-6) lifts one part of the scaffold, the migration
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Pierrick Bourrat (2022 online), LIT-1927, read from the author's
-accepted manuscript in NOTE-tmp1shj8.
+Pierrick Bourrat (2022 online), [LIT-1927](../literature.d/LIT-1927.md), read from the author's
+accepted manuscript in [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md).
 
 ## What was actually shown
 

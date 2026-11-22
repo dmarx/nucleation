@@ -19,10 +19,10 @@ tags:
 - individuation
 date: '2026-11-22'
 summary: >-
-  Shavit and Sharon (2023), read in NOTE-tmpots55 (Read). An opinion
+  Shavit and Sharon (2023), read in [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md) (Read). An opinion
   paper: the stage assignments are made by fit with a published
   archaeological synthesis, and the authors say they do not examine how
-  far the case meets ETI criteria. It is the application of LIT-188's
+  far the case meets ETI criteria. It is the application of [LIT-188](../literature.d/LIT-188.md)'s
   sketch, not a test of it.
 ---
 <!-- inactive-ok-file: LIT-188 — Proposed; the companion paper whose sketch this applies -->
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Ayelet Shavit and Gonen Sharon (2023), LIT-1935, read in NOTE-tmpots55.
+Ayelet Shavit and Gonen Sharon (2023), [LIT-1935](../literature.d/LIT-1935.md), read in [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md).
 
 ## What was actually shown
 

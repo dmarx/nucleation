@@ -383,14 +383,14 @@ ancestral virus) that QUESTION-277's "alignment of selection" item needs.
 
 ## Note of 2026-11-22: a human case, read
 
-Read for LEAD-176: Shavit and Sharon 2023 (LIT-1935, NOTE-tmpots55,
-THEORY-tmp5zzgh), written as `bears_on`. A fraternal case, not a
+Read for [LEAD-176](../leads.d/LEAD-176.md): Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md),
+[THEORY-tmp5zzgh](../theory.d/THEORY-tmp5zzgh.md)), written as `bears_on`. A fraternal case, not a
 symbiotic one, but the question's routes appear in it: the authors hold
 that Neolithic farmers became members of a new evolutionary individual
 once group traits grew mutually dependent (mutual dependence) and group
 fitness decoupled from individual fitness (alignment of selection), with
 a division of labour (distribution of essential functions). They assert
 the routes together from an archaeological narrative and do not separate
-their effects. The scaffolding group's 2024 paper (LIT-tmp6nn9d,
-NOTE-tmpculbo) adds that in egalitarian transitions one partner can act
+their effects. The scaffolding group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md),
+[NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md)) adds that in egalitarian transitions one partner can act
 as a biotic scaffold for the other. No status change.

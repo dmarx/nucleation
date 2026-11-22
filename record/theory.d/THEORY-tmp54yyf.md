@@ -23,7 +23,7 @@ tags:
 date: '2026-11-22'
 summary: >-
   Bourrat, Takacs, Doulcier, Nitschke, Black, Hammerschmidt and Rainey
-  (2024), read in NOTE-tmpculbo (Read), a neighbour of LIT-1940. A
+  (2024), read in [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md) (Read), a neighbour of [LIT-1940](../literature.d/LIT-1940.md). A
   perspective piece: the two-peaks condition is borrowed from Doulcier
   et al. (2024) and the constructive route is proposed for future
   models. Its operative-cause definition assumes no feedback, which the
@@ -35,12 +35,12 @@ summary: >-
 
 ## Source
 
-Bourrat et al. (2024), LIT-tmp6nn9d, read in NOTE-tmpculbo.
+Bourrat et al. (2024), [LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), read in [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md).
 
 ## What was actually shown
 
 Nothing is computed. The paper argues for the externalist mode of
-explanation, restates the patch model of LIT-1940, states endogenization
+explanation, restates the patch model of [LIT-1940](../literature.d/LIT-1940.md), states endogenization
 as a landscape condition (Figure 2), and proposes a constructive variant
 in which cells' waste makes the patches. It asserts that "a boundary
 shift between what is considered internal and external occurs during the

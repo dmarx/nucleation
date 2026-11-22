@@ -18,7 +18,7 @@ tags:
 date: '2026-11-22'
 summary: >-
   Wilkins and Bourrat's SEP entry (2022 revision), §5.4, read in
-  NOTE-tmp7ylue (Skimmed), a neighbour of LIT-1932 and LIT-1937. A
+  [NOTE-tmp7ylue](../notes.d/NOTE-tmp7ylue.md) (Skimmed), a neighbour of [LIT-1932](../literature.d/LIT-1932.md) and [LIT-1937](../literature.d/LIT-1937.md). A
   survey's report of Griesemer, not Griesemer; one of its page citations
   points to the wrong paper.
 ---
@@ -30,7 +30,7 @@ summary: >-
 ## Source
 
 Wilkins and Bourrat, "Replication and Reproduction" (SEP, 2022
-revision), LIT-tmp460ih, read in NOTE-tmp7ylue.
+revision), [LIT-tmp460ih](../literature.d/LIT-tmp460ih.md), read in [NOTE-tmp7ylue](../notes.d/NOTE-tmp7ylue.md).
 
 ## What was actually shown
 
@@ -44,4 +44,4 @@ be checked against Griesemer's texts is the attribution.
   selection; the entry reports Godfrey-Smith's and Charbonneau's
   objections and Griesemer's reply that causation of progeny by parents
   is the point.
-- Anything about the three-stage scenario of LIT-1937.
+- Anything about the three-stage scenario of [LIT-1937](../literature.d/LIT-1937.md).

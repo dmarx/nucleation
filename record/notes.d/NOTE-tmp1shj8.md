@@ -43,7 +43,7 @@ conditions a condition on their source: a collective is a Darwinian
 individual only when internal individuating mechanisms produce the three
 conditions, and the mark of that is resilience to perturbation, graded
 by its range. The model extends the ecological scaffolding model of
-LIT-1940 (Black, Bourrat and Rainey 2020) with a pleiotropy that couples
+[LIT-1940](../literature.d/LIT-1940.md) (Black, Bourrat and Rainey 2020) with a pleiotropy that couples
 a cell's growth rate to its dispersal and to its patch's resistance to
 invasion, and shows, by simulation, collectives whose scaffolded
 property outlasts the removal of the scaffold under some parameters.
@@ -156,19 +156,19 @@ external structure did (keep cells from migrating between patches).
 
 ## Connections
 
-It extends LIT-1940, restating that model's setting and results in §4
-(the record holds LIT-1940 Unfetched). It takes Clarke's individuating
+It extends [LIT-1940](../literature.d/LIT-1940.md), restating that model's setting and results in §4
+(the record holds [LIT-1940](../literature.d/LIT-1940.md) Unfetched). It takes Clarke's individuating
 mechanisms (demarcation and policing) and departs from her by requiring
 them internal. It compares itself with Libby et al.'s ratcheting
-(§7). The same group's 2024 paper (LIT-tmp6nn9d, read in NOTE-tmpculbo)
+(§7). The same group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), read in [NOTE-tmpculbo](NOTE-tmpculbo.md))
 restates the endogenization puzzle as a two-peaked fitness landscape and
 develops the niche-construction route of §7. Griesemer and Shavit
-(LIT-188) build on it and move endogenization into the community.
+([LIT-188](../literature.d/LIT-188.md)) build on it and move endogenization into the community.
 
 ## Bearing on the record
 
 - **The release test needs a declared inside and outside, and the paper
-  declares them** (the question LIT-1927's standing put). The candidate
+  declares them** (the question [LIT-1927](../literature.d/LIT-1927.md)'s standing put). The candidate
   collective is the patch's cells; "internal" is the cells' genotype;
   "external" is the migration ban. Releasing the scaffold lifts that ban
   only: patches, their capacity S, perishing resources and the
@@ -177,26 +177,26 @@ develops the niche-construction route of §7. Griesemer and Shavit
   Endogenization here is relative to one component of the scaffold, and
   the propagule cycle the collectives depend on is still supplied from
   outside. Bourrat concedes the relativity (§3, §7).
-- **CLAIM-529** (corroborated): the release criterion is stated on the
+- **[CLAIM-529](../claims.d/CLAIM-529.md)** (corroborated): the release criterion is stated on the
   cells' traits and the collective's response to an intervention on its
   environment, applies to a patch grouping not presupposed to be an
   individual, and its verdict comes out false where T or S is large.
-- **CLAIM-194** (a parallel): Black et al.'s collectives have real
+- **[CLAIM-194](../claims.d/CLAIM-194.md)** (a parallel): Black et al.'s collectives have real
   interaction among members, mediated by resources, and still have their
   boundary maintained from outside. A criterion that reads interaction
   alone would pass them. Bourrat's own criterion is an intervention on
   the imposing structure, not a coupling measure.
-- **CLAIM-522** (consistent): the test that separates imposed from
+- **[CLAIM-522](../claims.d/CLAIM-522.md)** (consistent): the test that separates imposed from
   internal is an intervention on the mechanism, relative to a declared
   boundary, not a perturbation of state.
-- **CLAIM-531** (background): the model's endogenized collectives
+- **[CLAIM-531](../claims.d/CLAIM-531.md)** (background): the model's endogenized collectives
   persist without the migration ban but not without the outside supply
   of the propagule cycle; nothing in it is generative entrenchment.
-- **QUESTION-398**: a worked answer for one model. The organization
+- **[QUESTION-398](../questions.d/QUESTION-398.md)**: a worked answer for one model. The organization
   becomes independent of the intervention that established it when the
   long-term return of staying for a propagule beats growing and leaving,
   which holds for small T and S.
-- **THEORY-418**, LIT-188's reading: Griesemer and Shavit's report of
+- **[THEORY-418](../theory.d/THEORY-418.md)**, [LIT-188](../literature.d/LIT-188.md)'s reading: Griesemer and Shavit's report of
   this paper is accurate as far as it goes. The paper calls
   Darwinian-like individuality "imposed" by an external scaffold and
   makes resilience, graded, the mark of endogenization.

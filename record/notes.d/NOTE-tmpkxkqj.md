@@ -25,7 +25,7 @@ summary: >-
   vague". The graphs they use have closed cycles. Simulations of
   Kauffman-style networks under truncation selection keep strongly
   selected connections and lose weak ones, and the losses anchor the
-  strong ones further. For CLAIM-531: the definition neither requires nor
+  strong ones further. For [CLAIM-531](../claims.d/CLAIM-531.md): the definition neither requires nor
   excludes a core maintained by what depends on it, and counts
   environmental conditions as nodes.
 ---
@@ -113,34 +113,34 @@ can go wrong when they change.
 
 ## Connections
 
-It stands in for LIT-1926 (Wimsatt 2007) for the definition of GE only:
+It stands in for [LIT-1926](../literature.d/LIT-1926.md) (Wimsatt 2007) for the definition of GE only:
 the book's chapter on GE is not this paper, and its essays on
 robustness, reduction, heuristics and aggregativity are not restated
 here. It answers Kauffman (1985, 1993) on whether selection can keep
-network structure. LIT-188 quotes GE from the book in a form that
+network structure. [LIT-188](../literature.d/LIT-188.md) quotes GE from the book in a form that
 matches this paper's: perturbing an entrenched core "catastrophic",
 changes in later interactions "tolerable".
 
 ## Bearing on the record
 
-- **CLAIM-531** (the question LIT-1926's standing put): the source's
+- **[CLAIM-531](../claims.d/CLAIM-531.md)** (the question [LIT-1926](../literature.d/LIT-1926.md)'s standing put): the source's
   definition is downstream reachability on a directed graph. It does
   not require the core to be maintained by what depends on it, so the
   claim's second defeater, that entrenchment as its source defines it
   entails closure, is not met. Nor does the definition exclude it: the
   graphs have closed cycles, and every node on a cycle reaches every
   other. A core node at the root of a tree is as entrenched as one on a
-  cycle of the same reach. This is what CLAIM-531 says: entrenchment and
+  cycle of the same reach. This is what [CLAIM-531](../claims.d/CLAIM-531.md) says: entrenchment and
   closure come apart, and an entrenched, closed organization has a cycle
   in its core. The definition also counts "maintained conditions" of the
   environment as nodes, so an entrenched core can be supplied from
   outside, which is the claim's outside supply. Corroborates.
-- **CLAIM-184** (consistent, mechanism-level): structures that later
+- **[CLAIM-184](../claims.d/CLAIM-184.md)** (consistent, mechanism-level): structures that later
   ones depend on become conservative; the bicoid example adds
   irreversibility "through loss of once useful but now redundant control
   linkages". A biological instance of entrenchment as lock-in; an
   analogue for the record's anchors, no edge.
-- **CLAIM-185** (background): GE is persistence explained by
+- **[CLAIM-185](../claims.d/CLAIM-185.md)** (background): GE is persistence explained by
   dependence, the converse direction of the claim's persistence making
   anchors.
 

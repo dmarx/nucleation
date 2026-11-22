@@ -163,7 +163,7 @@ record's seed ([CLAIM-185](CLAIM-185.md), note of this date). No status, title o
 changes.
 
 ## Note of 2026-11-01: lock-in as generative entrenchment
-<!-- inactive-ok-block: LIT-188 LIT-1926 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
+<!-- inactive-ok-block: LIT-188 — Deferred, unread; Proposed: read in full; cited from the re-reading of LIT-188, not leaned on -->
 
 The mechanism this claim names has a standard source the record now
 holds as a registration: Wimsatt's generative entrenchment
@@ -290,9 +290,9 @@ Rechecked after [CASE-178](../cases.d/CASE-178.md)'s revisions of 2026-11-07 (li
 
 ## Note of 2026-11-22: entrenchment readings, an analogue
 
-Read for LEAD-176: Wimsatt and Schank 2004 (LIT-tmpjv6ez, NOTE-tmpkxkqj),
-standing in for Wimsatt's book (LIT-1926, Unavailable), and Shavit and
-Sharon 2023 (LIT-1935, NOTE-tmpots55). An analogue; no edge.
+Read for [LEAD-176](../leads.d/LEAD-176.md): Wimsatt and Schank 2004 ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md), [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md)),
+standing in for Wimsatt's book ([LIT-1926](../literature.d/LIT-1926.md), Unavailable), and Shavit and
+Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md)). An analogue; no edge.
 
 - Wimsatt and Schank give the biological mechanism the claim borrows:
   elements that more later structure depends on are more conservative,

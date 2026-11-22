@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmpculbo), registered for LEAD-176 as a stand-in for LIT-1940, whose lawful copies could not be fetched. Worth reading as the ecological scaffolding group's own statement of the externalist programme, with Black and Rainey among its authors: the patch model of LIT-1940 restated, endogenization defined and posed as a two-peaked landscape, and a constructive route in which cells make the scaffold they later endogenize. It is a perspective piece with no model or data of its own.
+  read in full 2026-11-22 ([NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md)), registered for [LEAD-176](../leads.d/LEAD-176.md) as a stand-in for [LIT-1940](LIT-1940.md), whose lawful copies could not be fetched. Worth reading as the ecological scaffolding group's own statement of the externalist programme, with Black and Rainey among its authors: the patch model of [LIT-1940](LIT-1940.md) restated, endogenization defined and posed as a two-peaked landscape, and a constructive route in which cells make the scaffold they later endogenize. It is a perspective piece with no model or data of its own.
 title: 'Individuality Through Ecology: Rethinking the Evolution of Complex Life From an Externalist Perspective'
 version: 1
 history:
@@ -48,4 +48,4 @@ Internalist explanations of transitions in individuality take Darwinian properti
 
 ## Standing in the record
 
-Registered on 2026-11-22 for LEAD-176, as a stand-in for LIT-1940, whose bioRxiv, PhilArchive and Max Planck copies could not be fetched. It restates LIT-1940's model in words (patches, depletion, periodic dispersal, propagule number set by population size at dispersal) and its framing, but gives none of its equations, parameter regimes or results on germ-soma division of labour. Read beside LIT-1927 (NOTE-tmp1shj8); it bears on CLAIM-194, CLAIM-529 and QUESTION-398.
+Registered on 2026-11-22 for [LEAD-176](../leads.d/LEAD-176.md), as a stand-in for [LIT-1940](LIT-1940.md), whose bioRxiv, PhilArchive and Max Planck copies could not be fetched. It restates [LIT-1940](LIT-1940.md)'s model in words (patches, depletion, periodic dispersal, propagule number set by population size at dispersal) and its framing, but gives none of its equations, parameter regimes or results on germ-soma division of labour. Read beside [LIT-1927](LIT-1927.md) ([NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md)); it bears on [CLAIM-194](../claims.d/CLAIM-194.md), [CLAIM-529](../claims.d/CLAIM-529.md) and [QUESTION-398](../questions.d/QUESTION-398.md).

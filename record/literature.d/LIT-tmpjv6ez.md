@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmpkxkqj), registered for LEAD-176 as a stand-in for LIT-1926, Wimsatt's 2007 book, which has no lawful open copy. Worth reading as Wimsatt's own definition of generative entrenchment, on a directed graph of the organism and its environment, and for simulations in which selection preserves the more entrenched connections. The definition is reachability and leaves cycles in the graph allowed; it does not make entrenchment depend on a core being maintained by what depends on it.
+  read in full 2026-11-22 ([NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md)), registered for [LEAD-176](../leads.d/LEAD-176.md) as a stand-in for [LIT-1926](LIT-1926.md), Wimsatt's 2007 book, which has no lawful open copy. Worth reading as Wimsatt's own definition of generative entrenchment, on a directed graph of the organism and its environment, and for simulations in which selection preserves the more entrenched connections. The definition is reachability and leaves cycles in the graph allowed; it does not make entrenchment depend on a core being maintained by what depends on it.
 title: 'Generative Entrenchment, Modularity and Evolvability: When Genic Selection Meets the Whole Organism'
 version: 1
 history:
@@ -49,4 +49,4 @@ William C. Wimsatt, Jeffrey C. Schank (2004). "Generative Entrenchment, Modulari
 
 ## Standing in the record
 
-Registered on 2026-11-22 for LEAD-176 as a stand-in for LIT-1926 (the 2007 book, unread), to settle CLAIM-531's question of what entrenchment is as its source defines it. It gives the definition and its graph; it does not restate the book's essays on robustness, heuristics or aggregativity. Its bearing on CLAIM-531 is in NOTE-tmpkxkqj.
+Registered on 2026-11-22 for [LEAD-176](../leads.d/LEAD-176.md) as a stand-in for [LIT-1926](LIT-1926.md) (the 2007 book, unread), to settle [CLAIM-531](../claims.d/CLAIM-531.md)'s question of what entrenchment is as its source defines it. It gives the definition and its graph; it does not restate the book's essays on robustness, heuristics or aggregativity. Its bearing on [CLAIM-531](../claims.d/CLAIM-531.md) is in [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md).

@@ -185,12 +185,12 @@ This claim counts knockout of interaction types among the first three criteria, 
 
 ## Note of 2026-11-22: the scaffolding works, read
 
-Read for LEAD-176: Bourrat 2022 (LIT-1927, NOTE-tmp1shj8, THEORY-tmpvjav8),
-the scaffolding group's 2024 statement (LIT-tmp6nn9d, NOTE-tmpculbo,
-THEORY-tmp54yyf) and Shavit and Sharon 2023 (LIT-1935, NOTE-tmpots55).
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md), [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md)),
+the scaffolding group's 2024 statement ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md),
+[THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)) and Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md)).
 
 - **Release from a scaffold, as its source states it** (corroborates;
-  written as `corroborates` on THEORY-tmpvjav8 and THEORY-tmp54yyf).
+  written as `corroborates` on [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md) and [THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)).
   Item 1's last interaction criterion, whether a grouping's order
   survives release from an outside scaffold, is Bourrat's: collectives
   whose properties survive removal of the scaffold are Darwinian, those

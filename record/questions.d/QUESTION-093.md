@@ -142,12 +142,12 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: entrenchment and reproducers, read
 
-Read for LEAD-176. Wimsatt and Schank 2004 (LIT-tmpjv6ez,
-THEORY-tmpk0h4i) define generative entrenchment as downstream reach in a
+Read for [LEAD-176](../leads.d/LEAD-176.md). Wimsatt and Schank 2004 ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md),
+[THEORY-tmpk0h4i](../theory.d/THEORY-tmpk0h4i.md)) define generative entrenchment as downstream reach in a
 causal graph that may contain cycles, so entrenchment can hold without
-organizational closure, which supports CLAIM-531's answer to the closure
-part of this question. Wilkins and Bourrat's SEP entry (LIT-tmp460ih,
-THEORY-tmpi08qh) reports Griesemer's reproducer as fixing no level in
+organizational closure, which supports [CLAIM-531](../claims.d/CLAIM-531.md)'s answer to the closure
+part of this question. Wilkins and Bourrat's SEP entry ([LIT-tmp460ih](../literature.d/LIT-tmp460ih.md),
+[THEORY-tmpi08qh](../theory.d/THEORY-tmpi08qh.md)) reports Griesemer's reproducer as fixing no level in
 advance, a unit picked out by development and material overlap rather
 than by individuality, which bears on whether a coalition can be
 identified as a candidate before it is an individual. Both are written

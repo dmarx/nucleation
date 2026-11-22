@@ -149,14 +149,14 @@ cannot do it either ([CLAIM-194](CLAIM-194.md)).
 
 ## Note of 2026-11-22: entrenchment as its source defines it, read
 
-Read for LEAD-176. Wimsatt's book (LIT-1926) has no lawful copy and is
-Unavailable; Wimsatt and Schank 2004 (LIT-tmpjv6ez, NOTE-tmpkxkqj,
-THEORY-tmpk0h4i) was read in its place for the definition. Also read:
-Shavit and Sharon 2023 (LIT-1935, NOTE-tmpots55) and Bourrat 2022
-(LIT-1927, NOTE-tmp1shj8).
+Read for [LEAD-176](../leads.d/LEAD-176.md). Wimsatt's book ([LIT-1926](../literature.d/LIT-1926.md)) has no lawful copy and is
+Unavailable; Wimsatt and Schank 2004 ([LIT-tmpjv6ez](../literature.d/LIT-tmpjv6ez.md), [NOTE-tmpkxkqj](../notes.d/NOTE-tmpkxkqj.md),
+[THEORY-tmpk0h4i](../theory.d/THEORY-tmpk0h4i.md)) was read in its place for the definition. Also read:
+Shavit and Sharon 2023 ([LIT-1935](../literature.d/LIT-1935.md), [NOTE-tmpots55](../notes.d/NOTE-tmpots55.md)) and Bourrat 2022
+([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md)).
 
 - **The second defeater is not met** (corroborates; written as
-  `corroborates` on THEORY-tmpk0h4i). The source defines generative
+  `corroborates` on [THEORY-tmpk0h4i](../theory.d/THEORY-tmpk0h4i.md)). The source defines generative
   entrenchment as reachability: "We define the generative entrenchment
   (GE) of a node as the magnitude of this downstream dependency", on a
   directed graph of "the organism plus relevant aspects of its

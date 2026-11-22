@@ -184,8 +184,8 @@ The question already flags the gap between the second and its own relation: "The
 
 ## Note of 2026-11-22: imposed and endogenized boundaries, read
 
-Read for LEAD-176: Bourrat 2022 (LIT-1927, THEORY-tmpvjav8) and the
-scaffolding group's 2024 paper (LIT-tmp6nn9d, THEORY-tmp54yyf), written
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [THEORY-tmpvjav8](../theory.d/THEORY-tmpvjav8.md)) and the
+scaffolding group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [THEORY-tmp54yyf](../theory.d/THEORY-tmp54yyf.md)), written
 as `bears_on` on both. They separate a boundary imposed on a collective
 by its environment (Darwinian-like) from one its members' own traits
 maintain (Darwinian), and test the difference by removing the imposing

@@ -192,8 +192,8 @@ claim is unchanged.
 
 ## Note of 2026-11-22: Bourrat's release test, read
 
-Read for LEAD-176: Bourrat 2022 (LIT-1927, NOTE-tmp1shj8) and the
-scaffolding group's 2024 paper (LIT-tmp6nn9d, NOTE-tmpculbo). Consistent
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md)) and the
+scaffolding group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md)). Consistent
 with the claim; no edge.
 
 - Bourrat tells imposed from internally produced collective properties

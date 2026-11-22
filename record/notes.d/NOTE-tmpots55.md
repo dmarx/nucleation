@@ -37,7 +37,7 @@ summary: >-
 
 ## Contribution
 
-It applies the 3Cs sketch of the companion paper (LIT-188) to an
+It applies the 3Cs sketch of the companion paper ([LIT-188](../literature.d/LIT-188.md)) to an
 archaeological case, the earliest Neolithic, and argues that an ETI
 perspective lets the debates over a single cause, the tempo and the
 role of intention be bypassed: several causes can lead to the same
@@ -97,7 +97,7 @@ has passed" (§1(c)).
 
 ## Concepts
 
-- **Coordination, cooperation, collaboration**: as in LIT-188;
+- **Coordination, cooperation, collaboration**: as in [LIT-188](../literature.d/LIT-188.md);
   collaboration is "co-labouring toward a shared goal" with division of
   labour (§1(a)).
 - **Group signature**: a canonised artefact or style marking a community,
@@ -107,38 +107,38 @@ has passed" (§1(c)).
 
 ## Connections
 
-The companion of LIT-188 in the same theme issue; it uses the 3Cs as
-LIT-188 states them and thanks Griesemer for the model "and additional
-ideas on the role of the shaman". It cites Black et al. (LIT-1940) as a
-"patchy-environment experiment"; LIT-1940 is a mathematical model, as
-LIT-1927 and LIT-tmp6nn9d report it.
+The companion of [LIT-188](../literature.d/LIT-188.md) in the same theme issue; it uses the 3Cs as
+[LIT-188](../literature.d/LIT-188.md) states them and thanks Griesemer for the model "and additional
+ideas on the role of the shaman". It cites Black et al. ([LIT-1940](../literature.d/LIT-1940.md)) as a
+"patchy-environment experiment"; [LIT-1940](../literature.d/LIT-1940.md) is a mathematical model, as
+[LIT-1927](../literature.d/LIT-1927.md) and [LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md) report it.
 
 ## Bearing on the record
 
-- **LIT-188's open status (the worked case it needs)**: this paper does
+- **[LIT-188](../literature.d/LIT-188.md)'s open status (the worked case it needs)**: this paper does
   not score any Natufian or Neolithic site against the 3Cs by measurable
   criteria. It assigns periods to stages by fit with a published
   synthesis (Belfer-Cohen and Goring-Morris), and says it does not test
-  the fit. The case that could settle LIT-188 is still missing.
-- **CLAIM-531** (bears on it, without testing it): the entrenchment the
+  the fit. The case that could settle [LIT-188](../literature.d/LIT-188.md) is still missing.
+- **[CLAIM-531](../claims.d/CLAIM-531.md)** (bears on it, without testing it): the entrenchment the
   paper describes is mutual, group traits that "can no longer" exist
-  separately, which is the cycle of mutual maintenance CLAIM-531 says an
+  separately, which is the cycle of mutual maintenance [CLAIM-531](../claims.d/CLAIM-531.md) says an
   entrenched and closed organization has. It shows nothing about
   whether entrenchment without such a cycle is possible; it simply does
   not separate the two.
-- **CLAIM-529** (both routes in one case): the paper explains staying
+- **[CLAIM-529](../claims.d/CLAIM-529.md)** (both routes in one case): the paper explains staying
   by interaction criteria (group fitness decoupled, division of labour)
   and by attitude criteria (internalized group identity, a group
   signature) side by side, without separating them. A reading for the
   claim's contrast, not a test.
-- **CLAIM-194** (a parallel): the shaman remark, that a community without
+- **[CLAIM-194](../claims.d/CLAIM-194.md)** (a parallel): the shaman remark, that a community without
   one is doomed "unless ‘the shaman' is not a specific person but has
   already became embedded in routine group maintenance", is a social
   version of endogenization: a function held by one member, then by the
   organization's routine.
-- **CLAIM-184 and CLAIM-185** (an analogue): the "point of no return",
+- **[CLAIM-184](../claims.d/CLAIM-184.md) and [CLAIM-185](../claims.d/CLAIM-185.md)** (an analogue): the "point of no return",
   a lifeway that later structure grows on until leaving it is too costly,
-  is the shape CLAIM-184 gives anchors that entrench. An analogy, no
+  is the shape [CLAIM-184](../claims.d/CLAIM-184.md) gives anchors that entrench. An analogy, no
   edge.
 
 ## Limitations
