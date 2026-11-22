@@ -12,9 +12,27 @@
 
 ## Done
 
+- Read LEAD-041, QUESTION-268, CLAIM-440, TERM-072/076/077/078, NOTE-1101.
+- Record of conduct chosen: the FOMC's policy-rate decisions, with the
+  dual mandate's two channels (inflation, employment) as the perspectives.
+  Rankings built from the Philadelphia Fed's real-time vintages (what was
+  known at the time), decisions from the Fed's H.15 effective funds rate.
+- Obstacles, 2026-11-22 (not retried): fred.stlouisfed.org empty reply /
+  HTTP2 stream reset; api.bls.gov v1 "daily threshold ... reached";
+  download.bls.gov 403 Access Denied; www.cbo.gov/data/budget-economic-data 403.
+  So no CBO natural rate: u* is a trailing mean (choice, with sensitivity).
+- Downloaded (scratchpad, not committed): H.15 package; Philly Fed
+  rucQvMd.xlsx and cpiQvMd.xlsx.
+
 ## Next
 
-- Read the advanced entries and their cited entries.
-- Choose the record of conduct.
+- Write procedure.py (generic) + tests; fomc.py (build record); run.
+- File CLAIM (argument), alternative CLAIM, CASE (application), notes on
+  LEAD-041, QUESTION-268, CLAIM-440; changelog fragment.
 
 ## Choices made
+
+- FOMC over Wells Fargo (CASE-151): a public, machine-readable record in
+  time, two statutory channels mirroring the ESM's two, rankings measurable
+  independently of the decisions, and known episodes (1970s stop-go,
+  1980 interruption) that test ambivalence and resumption.
