@@ -4,7 +4,7 @@ status_note: >-
   Read 2026-11-22 in full, Table 1 included, from PubMed Central's
   open-access text (PMC13577267, CC BY-NC) served by NCBI's E-utilities
   efetch interface, after the Europe PMC REST full-text call returned HTTP
-  500 twice (ADR-101). Read for LEAD-106 to check whether any eye-tracking
+  500 twice ([ADR-101](../decisions.d/ADR-101.md)). Read for [LEAD-106](../leads.d/LEAD-106.md) to check whether any eye-tracking
   study of PTSD measures context sampling after cued recall.
 title: 'Eye-tracking and cognitive patterns in post-traumatic stress disorder: a scoping review'
 version: 1
@@ -40,9 +40,9 @@ summary: >-
   recurrent finding; reduced exploration, shorter scanpaths and delayed
   attention to context are each reported by one to three studies. No
   included study records gaze after recall of the trauma or across
-  treatment. Read in NOTE-tmp9jy7p; the reading is THEORY-tmp8n4s7.
+  treatment. Read in [NOTE-tmp9jy7p](../notes.d/NOTE-tmp9jy7p.md); the reading is [THEORY-tmp8n4s7](../theory.d/THEORY-tmp8n4s7.md).
 ---
-<!-- inactive-ok-file: NOTE-tmp9jy7p THEORY-tmp8n4s7 — new; this work's reading -->
+<!-- inactive-ok-file: THEORY-tmp8n4s7 — new; this work's reading -->
 <!-- inactive-ok-file: LIT-tmpgjodp LIT-tmpizs88 — Deferred; eligible studies the review misses, registered for the same lead -->
 
 # LIT-tmpogxg7: Eye-tracking and cognitive patterns in post-traumatic stress disorder: a scoping review
@@ -67,9 +67,9 @@ Diotaiuti, Spica, Di Siena, Cavicchiolo, De Souza, Andrade and Mancone
 
 ## Standing in the record
 
-Read for LEAD-106 as a check on the search: if an eye-tracking study of
+Read for [LEAD-106](../leads.d/LEAD-106.md) as a check on the search: if an eye-tracking study of
 context sampling after cued recall in PTSD existed to 2025 and used the
 standard terms, it should be in this review. None is. The review misses
 at least two eligible studies the lead's search found (Milanak et al.
-2018, LIT-tmpgjodp; Kimble, Cappello and Fleming 2023, LIT-tmpizs88), so
+2018, [LIT-tmpgjodp](LIT-tmpgjodp.md); Kimble, Cappello and Fleming 2023, [LIT-tmpizs88](LIT-tmpizs88.md)), so
 it is a check, not proof of absence.

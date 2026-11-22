@@ -26,8 +26,8 @@ grounds:
 - THEORY-tmp1ov9x
 - THEORY-tmp8n4s7
 summary: >-
-  The alternative reading of LEAD-106's result, which the assistant does
-  not lean to. It agrees that no study meets QUESTION-303's design, and
+  The alternative reading of [LEAD-106](../leads.d/LEAD-106.md)'s result, which the assistant does
+  not lean to. It agrees that no study meets [QUESTION-303](../questions.d/QUESTION-303.md)'s design, and
   denies that the nearest one bears on the question as evidence: the
   account turns on withheld disambiguating evidence, and Zidda and
   colleagues' background carried none, so their delay is a gaze bias
@@ -43,11 +43,11 @@ summary: >-
 
 ## The claim
 
-THEORY-285's loop runs through what the agent chooses not to observe: it
+[THEORY-285](../theory.d/THEORY-285.md)'s loop runs through what the agent chooses not to observe: it
 attenuates the periphery because sampling it is "falsely believed to be
 uninformative", and so never receives the observation that would correct
-its prior. The prediction QUESTION-303 takes from it is about periphery
-that disambiguates. In Zidda and colleagues' design (THEORY-tmp1ov9x) the
+its prior. The prediction [QUESTION-303](../questions.d/QUESTION-303.md) takes from it is about periphery
+that disambiguates. In Zidda and colleagues' design ([THEORY-tmp1ov9x](../theory.d/THEORY-tmp1ov9x.md)) the
 background is neutral by construction: a car-accident cue pasted into an
 unrelated scene. Looking at it sooner would tell a viewer nothing about
 whether danger is present. So a later first look there is not the
@@ -57,14 +57,14 @@ evidence for the account.
 On the measures that do bear on how much is sampled, the near literature
 is mixed, by the abstracts of studies registered and not read: shorter
 scanpaths in PTSD than in trauma-exposed controls in a search task
-(LIT-tmp5bqfy), but more fixations and wider coverage of ambiguous scenes
-with more hypervigilance among trauma survivors (LIT-tmpizs88) and under
-induced hypervigilance (LIT-tmpocdt2), and more time on emotional
-backgrounds with more symptoms (LIT-tmpgjodp). The scoping review
-(THEORY-tmp8n4s7) finds the patterns heterogeneous.
+([LIT-tmp5bqfy](../literature.d/LIT-tmp5bqfy.md)), but more fixations and wider coverage of ambiguous scenes
+with more hypervigilance among trauma survivors ([LIT-tmpizs88](../literature.d/LIT-tmpizs88.md)) and under
+induced hypervigilance ([LIT-tmpocdt2](../literature.d/LIT-tmpocdt2.md)), and more time on emotional
+backgrounds with more symptoms ([LIT-tmpgjodp](../literature.d/LIT-tmpgjodp.md)). The scoping review
+([THEORY-tmp8n4s7](../theory.d/THEORY-tmp8n4s7.md)) finds the patterns heterogeneous.
 
 So, on this reading, the record holds no evidence from people on
-QUESTION-303's first half, for or against.
+[QUESTION-303](../questions.d/QUESTION-303.md)'s first half, for or against.
 
 ## What it does not say
 
@@ -72,4 +72,4 @@ QUESTION-303's first half, for or against.
   run.
 - Not that Zidda and colleagues' result is uninteresting: a cue-dominant
   gaze bias tied to relational memory may matter for other entries, for
-  instance QUESTION-045's lock-in, as a separate bearing.
+  instance [QUESTION-045](../questions.d/QUESTION-045.md)'s lock-in, as a separate bearing.

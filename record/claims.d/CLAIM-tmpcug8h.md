@@ -27,13 +27,13 @@ grounds:
 - THEORY-tmp1ov9x
 - THEORY-tmp8n4s7
 summary: >-
-  The verdict of LEAD-106 on QUESTION-303's first half, in the reading the
+  The verdict of [LEAD-106](../leads.d/LEAD-106.md) on [QUESTION-303](../questions.d/QUESTION-303.md)'s first half, in the reading the
   assistant leans to. No study meets the design: Europe PMC searches and a
-  2026 scoping review (THEORY-tmp8n4s7) find no eye-tracking study after
-  cued recall. The nearest, Zidda and colleagues (THEORY-tmp1ov9x), has the
+  2026 scoping review ([THEORY-tmp8n4s7](../theory.d/THEORY-tmp8n4s7.md)) find no eye-tracking study after
+  cued recall. The nearest, Zidda and colleagues ([THEORY-tmp1ov9x](../theory.d/THEORY-tmp1ov9x.md)), has the
   groups, the instrument and a trauma-specific cue, and its result goes
   the predicted way on the weakest measure, so it counts as weak, indirect
-  support. ARG-tmpc0892 argues the step; CLAIM-tmpc7tmg is the alternative
+  support. [ARG-tmpc0892](../arguments.d/ARG-tmpc0892.md) argues the step; [CLAIM-tmpc7tmg](CLAIM-tmpc7tmg.md) is the alternative
   reading, that it gives none. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
@@ -44,17 +44,17 @@ summary: >-
 
 ## The claim
 
-**The absence.** QUESTION-303's first kind of evidence needs four things
+**The absence.** [QUESTION-303](../questions.d/QUESTION-303.md)'s first kind of evidence needs four things
 together: cued traumatic recall, periphery that disambiguates the context,
 trauma-exposed controls, and a direct measure of context sampling. The
-searches for LEAD-106 (Europe PMC, 2026-11-22, eye tracking or gaze with
+searches for [LEAD-106](../leads.d/LEAD-106.md) (Europe PMC, 2026-11-22, eye tracking or gaze with
 PTSD and recall, script, context, ambiguity, scene or periphery) found no
 study with all four, and none with the first. The scoping review of
-Diotaiuti and colleagues (THEORY-tmp8n4s7) lists 17 eye-tracking studies
-of PTSD to 2025, none after recall. The account's own source (LIT-983)
+Diotaiuti and colleagues ([THEORY-tmp8n4s7](../theory.d/THEORY-tmp8n4s7.md)) lists 17 eye-tracking studies
+of PTSD to 2025, none after recall. The account's own source ([LIT-983](../literature.d/LIT-983.md))
 has no citing works in OpenAlex.
 
-**The nearest.** Zidda and colleagues (THEORY-tmp1ov9x) have three of the
+**The nearest.** Zidda and colleagues ([THEORY-tmp1ov9x](../theory.d/THEORY-tmp1ov9x.md)) have three of the
 four in weakened form: trauma-exposed controls, eye tracking, and a cue
 specific to each participant's trauma, which is a reminder if not a cued
 recall. Their result, a later first look at the background in PTSD with no
@@ -69,18 +69,18 @@ evidence that would correct a belief.
 
 **The rest of the near literature**, registered unread, points both ways:
 shorter scanpaths in PTSD than in trauma-exposed controls in a search task
-(LIT-tmp5bqfy) is in the same direction; more scanning of ambiguous scenes
-under induced or self-reported hypervigilance (LIT-tmpocdt2,
-LIT-tmpizs88) and more time on emotional backgrounds with more symptoms
-(LIT-tmpgjodp) are in the other, though none follows recall and none uses
+([LIT-tmp5bqfy](../literature.d/LIT-tmp5bqfy.md)) is in the same direction; more scanning of ambiguous scenes
+under induced or self-reported hypervigilance ([LIT-tmpocdt2](../literature.d/LIT-tmpocdt2.md),
+[LIT-tmpizs88](../literature.d/LIT-tmpizs88.md)) and more time on emotional backgrounds with more symptoms
+([LIT-tmpgjodp](../literature.d/LIT-tmpgjodp.md)) are in the other, though none follows recall and none uses
 disambiguating periphery.
 
 **The second half**, the exposure-matched intervention contrast, has no
 study either. The nearest is a trial of the EMDR protocol with and without
-an external visual focus (LIT-tmp4oubb), in which the focus beat exposure
+an external visual focus ([LIT-tmp4oubb](../literature.d/LIT-tmp4oubb.md)), in which the focus beat exposure
 alone pre to post; the added component is not context sampling, and the
 abstract reports no follow-up. A single session of stimulus-discrimination
-training before analogue trauma films (LIT-tmpg13ib) is a context
+training before analogue trauma films ([LIT-tmpg13ib](../literature.d/LIT-tmpg13ib.md)) is a context
 intervention without the matched exposure.
 
 ## What it does not say

@@ -25,8 +25,8 @@ summary: >-
   pairs worse. The delay to the context, with the earliest visual potential,
   predicted that memory. Delayed first looks at an uninformative context
   under a trauma cue, against trauma-exposed controls: the nearest the
-  literature found comes to the first half of QUESTION-303, and it is not
-  that design. The reading is THEORY-tmp1ov9x.
+  literature found comes to the first half of [QUESTION-303](../questions.d/QUESTION-303.md), and it is not
+  that design. The reading is [THEORY-tmp1ov9x](../theory.d/THEORY-tmp1ov9x.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp1ov9x CLAIM-tmpcug8h CLAIM-tmpc7tmg ARG-tmpc0892 — new; this reading, and the verdict and its argument filed from it -->
 <!-- inactive-ok-file: THEORY-1179 — Proposed; the wide reading of the model whose promote_when this does not meet -->
@@ -91,7 +91,7 @@ and ties that delay to a later failure of cue–context binding in memory.
   which the C1 polarity argument relies on.
 - Groups: PTSD by CAPS (DSM-IV); controls had a criterion-A trauma at
   least 3 months before; no participant was medicated. Duration of PTSD is
-  not reported, so "persistent" in QUESTION-303's sense is not
+  not reported, so "persistent" in [QUESTION-303](../questions.d/QUESTION-303.md)'s sense is not
   established.
 
 ## Concepts
@@ -104,7 +104,7 @@ and ties that delay to a later failure of cue–context binding in memory.
 
 ## Bearing on the record
 
-- **QUESTION-303** (evidence, partial): the first kind of evidence the
+- **[QUESTION-303](../questions.d/QUESTION-303.md)** (evidence, partial): the first kind of evidence the
   question asks for is context sampling in PTSD against matched
   trauma-exposed controls, measured by eye movements, after cued
   traumatic recall, toward disambiguating periphery. This study has the
@@ -115,23 +115,23 @@ and ties that delay to a later failure of cue–context binding in memory.
   later sampling of the context in PTSD with no difference for the cue,
   is the direction the account predicts, and the general slowing (result
   3) qualifies even that. Whether it counts as evidence for the question
-  at all is filed as alternatives: CLAIM-tmpcug8h (leaned to: weak,
-  indirect support for the first half), CLAIM-tmpc7tmg (it does not bear
-  as evidence), with ARG-tmpc0892.
-- **THEORY-285** (a parallel in people, not a test): the model's
+  at all is filed as alternatives: [CLAIM-tmpcug8h](../claims.d/CLAIM-tmpcug8h.md) (leaned to: weak,
+  indirect support for the first half), [CLAIM-tmpc7tmg](../claims.d/CLAIM-tmpc7tmg.md) (it does not bear
+  as evidence), with [ARG-tmpc0892](../arguments.d/ARG-tmpc0892.md).
+- **[THEORY-285](../theory.d/THEORY-285.md)** (a parallel in people, not a test): the model's
   attenuation policy withholds peripheral observations that would
   disambiguate. Delayed looking at an uninformative background is the
   behaviour's form without its function.
-- **THEORY-1179**: its `promote_when` is not met by this study, for the
+- **[THEORY-1179](../theory.d/THEORY-1179.md)**: its `promote_when` is not met by this study, for the
   same three reasons.
-- **QUESTION-045** (background): the lock-in reading needs behaviour that
+- **[QUESTION-045](../questions.d/QUESTION-045.md)** (background): the lock-in reading needs behaviour that
   blocks disconfirmation; this shows a gaze bias, not that the bias blocks
   anything.
 - **Contrasting studies registered beside it**, not read: Blekic and
-  colleagues (LIT-tmp5bqfy) report shorter scanpaths in PTSD than in
+  colleagues ([LIT-tmp5bqfy](../literature.d/LIT-tmp5bqfy.md)) report shorter scanpaths in PTSD than in
   trauma-exposed controls in visual search; Milanak and colleagues
-  (LIT-tmpgjodp) report more time on emotional backgrounds with more
-  symptoms; Kimble, Cappello and Fleming (LIT-tmpizs88) report more
+  ([LIT-tmpgjodp](../literature.d/LIT-tmpgjodp.md)) report more time on emotional backgrounds with more
+  symptoms; Kimble, Cappello and Fleming ([LIT-tmpizs88](../literature.d/LIT-tmpizs88.md)) report more
   scanning of ambiguous pictures with more hypervigilance.
 
 ## Limitations

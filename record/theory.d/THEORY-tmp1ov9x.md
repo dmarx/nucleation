@@ -22,22 +22,22 @@ bears_on:
 - QUESTION-045
 summary: >-
   Zidda, Steiger-White, Winkelmann, Ruttorf, Andoh, Nees & Flor (2025),
-  LIT-tmpmkmjq, read in full in NOTE-tmpoybvl. A gaze bias against the
+  [LIT-tmpmkmjq](../literature.d/LIT-tmpmkmjq.md), read in full in [NOTE-tmpoybvl](../notes.d/NOTE-tmpoybvl.md). A gaze bias against the
   context of a trauma cue, specific to PTSD against trauma-exposed
   controls, measured only as the latency of the first look, and tied to
   poorer relational memory. The nearest study found to the first half of
-  QUESTION-303; it has no recall manipulation, and its background does not
+  [QUESTION-303](../questions.d/QUESTION-303.md); it has no recall manipulation, and its background does not
   disambiguate. Proposed until replicated.
 ---
-<!-- inactive-ok-file: LIT-tmpmkmjq NOTE-tmpoybvl CLAIM-tmpcug8h CLAIM-tmpc7tmg ARG-tmpc0892 — new; this reading's work and note, and the verdict filed from it -->
+<!-- inactive-ok-file: CLAIM-tmpcug8h CLAIM-tmpc7tmg ARG-tmpc0892 — new; this reading's work and note, and the verdict filed from it -->
 <!-- inactive-ok-file: THEORY-1179 — Proposed; the wide reading of the model whose promote_when this does not meet -->
 
 # THEORY-tmp1ov9x: Zidda and colleagues found that, freely viewing pictures in which a cue specific to their own trauma was set in a neutral background, 19 unmedicated people with PTSD made their first fixation on the background later than 18 trauma-exposed controls without PTSD, though they reached the cue as fast, and that latency to the background, with the earliest visual potential, predicted recognition of rearranged cue–background pairs the next day
 
 ## Source
 
-Zidda and colleagues (2025), *Scientific Reports* 15: 16362, LIT-tmpmkmjq,
-read in full from the Europe PMC open-access text in NOTE-tmpoybvl.
+Zidda and colleagues (2025), *Scientific Reports* 15: 16362, [LIT-tmpmkmjq](../literature.d/LIT-tmpmkmjq.md),
+read in full from the Europe PMC open-access text in [NOTE-tmpoybvl](../notes.d/NOTE-tmpoybvl.md).
 
 ## What was actually shown
 
@@ -65,7 +65,7 @@ differ.
   controls is not shown by the gaze measure.
 - **Not that they withhold disambiguating evidence.** The background was
   neutral and told the viewer nothing about whether the cue was dangerous.
-  The behaviour THEORY-285 models is attenuation of exactly the
+  The behaviour [THEORY-285](THEORY-285.md) models is attenuation of exactly the
   observations that would correct a harmful-context prior.
 - **Not anything about recall.** No recall was cued, and there was no
   condition without the trauma cue to set against it; the cue itself is
@@ -75,14 +75,14 @@ differ.
 
 ## Connections
 
-- **QUESTION-303** asks for the first half of this design with recall,
+- **[QUESTION-303](../questions.d/QUESTION-303.md)** asks for the first half of this design with recall,
   disambiguating periphery and a measure of how much is sampled. This
   study gives the groups and the instrument, and a result in the
   predicted direction on the weakest of the measures. Whether that counts
-  as evidence is filed as alternatives, CLAIM-tmpcug8h and CLAIM-tmpc7tmg,
-  with ARG-tmpc0892.
-- **THEORY-285 and THEORY-1179**: a parallel in people to the model's
-  attenuation policy, without its function. THEORY-1179's promote_when is
+  as evidence is filed as alternatives, [CLAIM-tmpcug8h](../claims.d/CLAIM-tmpcug8h.md) and [CLAIM-tmpc7tmg](../claims.d/CLAIM-tmpc7tmg.md),
+  with [ARG-tmpc0892](../arguments.d/ARG-tmpc0892.md).
+- **[THEORY-285](THEORY-285.md) and [THEORY-1179](THEORY-1179.md)**: a parallel in people to the model's
+  attenuation policy, without its function. [THEORY-1179](THEORY-1179.md)'s promote_when is
   not met.
-- **QUESTION-045**: a gaze bias that may keep the trauma cue unbound from
+- **[QUESTION-045](../questions.d/QUESTION-045.md)**: a gaze bias that may keep the trauma cue unbound from
   its present context; it does not show the bias blocks disconfirmation.

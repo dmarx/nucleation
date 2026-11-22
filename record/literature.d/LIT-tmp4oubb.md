@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  Filed 2026-11-22, not read. Registered by LEAD-106 from a Europe PMC
+  Filed 2026-11-22, not read. Registered by [LEAD-106](../leads.d/LEAD-106.md) from a Europe PMC
   search (no email parameter sent). No open copy found in Europe PMC (no
   PMCID); other locations not searched.
 title: 'A Comparison of Dual Attention, Eye Movements, and Exposure Only during Eye Movement Desensitization and Reprocessing for Posttraumatic Stress Disorder: Results from a Randomized Clinical Trial'
@@ -44,7 +44,7 @@ Sack, Zehl, Otti, Lahmann, Henningsen, Kruse and Stingl (2016),
 
 ## Standing in the record
 
-Registered for LEAD-106 as the closest trial to the second kind of
-evidence QUESTION-303 asks for. The added component is an external visual
+Registered for [LEAD-106](../leads.d/LEAD-106.md) as the closest trial to the second kind of
+evidence [QUESTION-303](../questions.d/QUESTION-303.md) asks for. The added component is an external visual
 focus, not sampling of disambiguating context; the abstract reports
 pre–post change only, so whether the advantage lasts is not shown there.

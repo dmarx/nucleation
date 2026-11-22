@@ -192,10 +192,10 @@ on its persistence, and the design has no return path.
 The question is unchanged and stays Open. Both its routes are now
 specified more exactly, and neither has been run.
 
-## Note of 2026-11-22: Zidda and colleagues, read for LEAD-106
+## Note of 2026-11-22: Zidda and colleagues, read for [LEAD-106](../leads.d/LEAD-106.md)
 <!-- inactive-ok-block: THEORY-tmp1ov9x — new; the reading filed by the lead search of 2026-11-22 -->
 
-Background, not evidence for the lock-in. THEORY-tmp1ov9x reports a gaze
+Background, not evidence for the lock-in. [THEORY-tmp1ov9x](../theory.d/THEORY-tmp1ov9x.md) reports a gaze
 bias in PTSD, against trauma-exposed controls, toward a trauma cue and
 away from its present surround, tied to poorer memory for how cue and
 context were paired. That is compatible with a trauma cue kept unbound

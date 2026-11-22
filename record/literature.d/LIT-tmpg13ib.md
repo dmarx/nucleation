@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  Filed 2026-11-22, not read. Registered by LEAD-106 from a Europe PMC
+  Filed 2026-11-22, not read. Registered by [LEAD-106](../leads.d/LEAD-106.md) from a Europe PMC
   search (no email parameter sent). Open in PubMed Central (PMC12498374,
   CC BY); not fetched.
 title: 'Efficacy of stimulus discrimination training for reducing unwanted memories in student journalists'
@@ -46,7 +46,7 @@ Tyson, Ehlers and Wild (2025), *European Journal of Psychotraumatology*
 
 ## Standing in the record
 
-Registered for LEAD-106 as the nearest intervention that trains use of
-present context. It is not the exposure-matched contrast QUESTION-303 asks
+Registered for [LEAD-106](../leads.d/LEAD-106.md) as the nearest intervention that trains use of
+present context. It is not the exposure-matched contrast [QUESTION-303](../questions.d/QUESTION-303.md) asks
 for: there is no exposure therapy, the control is suppression, and gaze is
 not measured.

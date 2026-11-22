@@ -15,14 +15,14 @@ date: '2026-11-22'
 line:
 - will-organization
 summary: >-
-  For LEAD-106. The step CLAIM-tmpcug8h takes from Zidda and colleagues'
-  gaze result (THEORY-tmp1ov9x) to weak support for QUESTION-303's first
-  half, with the scoping review (THEORY-tmp8n4s7) for the absence of
+  For [LEAD-106](../leads.d/LEAD-106.md). The step [CLAIM-tmpcug8h](../claims.d/CLAIM-tmpcug8h.md) takes from Zidda and colleagues'
+  gaze result ([THEORY-tmp1ov9x](../theory.d/THEORY-tmp1ov9x.md)) to weak support for [QUESTION-303](../questions.d/QUESTION-303.md)'s first
+  half, with the scoping review ([THEORY-tmp8n4s7](../theory.d/THEORY-tmp8n4s7.md)) for the absence of
   anything closer. It survives two of the evidence form's critical
   questions only in part, and the third (does the measure measure what it
-  is said to) is where CLAIM-tmpc7tmg denies it. Standing of the
-  conclusion apart from this route: CLAIM-tmpcug8h, Proposed, holds it;
-  CLAIM-tmpc7tmg, Proposed, is the alternative that the study is not
+  is said to) is where [CLAIM-tmpc7tmg](../claims.d/CLAIM-tmpc7tmg.md) denies it. Standing of the
+  conclusion apart from this route: [CLAIM-tmpcug8h](../claims.d/CLAIM-tmpcug8h.md), Proposed, holds it;
+  [CLAIM-tmpc7tmg](../claims.d/CLAIM-tmpc7tmg.md), Proposed, is the alternative that the study is not
   evidence on the question at all. Proposed. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -32,14 +32,14 @@ summary: >-
 
 ## The inference
 
-The sampling account (THEORY-285) predicts that, once a harmful-context
+The sampling account ([THEORY-285](../theory.d/THEORY-285.md)) predicts that, once a harmful-context
 belief is primed, people with persistent PTSD take in the focal element
 and attenuate the periphery more than resilient people do. Zidda and
-colleagues (THEORY-tmp1ov9x) primed with a cue specific to each
+colleagues ([THEORY-tmp1ov9x](../theory.d/THEORY-tmp1ov9x.md)) primed with a cue specific to each
 participant's trauma, compared PTSD with trauma-exposed controls, and found
 the focal element reached equally fast and the surround reached later in
 PTSD. That is the predicted ordering. The scoping review
-(THEORY-tmp8n4s7) shows no closer study to set against it. So the result
+([THEORY-tmp8n4s7](../theory.d/THEORY-tmp8n4s7.md)) shows no closer study to set against it. So the result
 is evidence in the predicted direction, weak because the study is small
 and indirect because its design differs from the one the question names.
 
@@ -58,7 +58,7 @@ and indirect because its design differs from the one the question names.
   separate attenuating the periphery because it seems uninformative from
   being held by the cue.
 - **Does the measure measure what it is said to?** This is the weakest
-  step, and the one the alternative (CLAIM-tmpc7tmg) denies. The question
+  step, and the one the alternative ([CLAIM-tmpc7tmg](../claims.d/CLAIM-tmpc7tmg.md)) denies. The question
   asks for sampling of disambiguating periphery; the study measured the
   latency of the first look at a neutral one. Latency is not amount, and
   a neutral background disambiguates nothing. The inference holds only if
@@ -72,4 +72,4 @@ and indirect because its design differs from the one the question names.
 
 The step is kept as weak and indirect support because the first question
 is answered in part and the second leaves the direction intact; the third
-is the owner's call between this and CLAIM-tmpc7tmg.
+is the owner's call between this and [CLAIM-tmpc7tmg](../claims.d/CLAIM-tmpc7tmg.md).

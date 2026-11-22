@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  Filed 2026-11-22, not read. Registered by LEAD-106 from a Europe PMC
+  Filed 2026-11-22, not read. Registered by [LEAD-106](../leads.d/LEAD-106.md) from a Europe PMC
   search (no email parameter sent). Open in PubMed Central (PMC11823380,
   CC BY-NC); not fetched. It is the next to read if the lead is continued.
 title: 'Examining attentional avoidance in post-traumatic stress disorder: an exploratory ‘Face in the Crowd’ paradigm using eye-tracking'
@@ -38,7 +38,6 @@ summary: >-
   sampling against trauma-exposed controls, in a search task with no
   recall and no context. Unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpmkmjq — new; entries filed for the same lead -->
 
 # LIT-tmp5bqfy: Examining attentional avoidance in post-traumatic stress disorder: an exploratory ‘Face in the Crowd’ paradigm using eye-tracking
 
@@ -47,6 +46,6 @@ Psychotraumatology* 16(1): 2462489. DOI 10.1080/20008066.2025.2462489.
 
 ## Standing in the record
 
-Registered for LEAD-106. With Zidda and colleagues (LIT-tmpmkmjq) it is
+Registered for [LEAD-106](../leads.d/LEAD-106.md). With Zidda and colleagues ([LIT-tmpmkmjq](LIT-tmpmkmjq.md)) it is
 one of two studies found that report less or later visual sampling in PTSD
 than in trauma-exposed controls; neither follows cued recall.

@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  Filed 2026-11-22, not read. Registered by LEAD-106 from a Europe PMC
+  Filed 2026-11-22, not read. Registered by [LEAD-106](../leads.d/LEAD-106.md) from a Europe PMC
   search (no email parameter sent). No open copy found in Europe PMC (no
   PMCID); other locations not searched.
 title: 'PTSD symptoms and overt attention to contextualized emotional faces: Evidence from eye tracking'
@@ -33,11 +33,10 @@ summary: >-
   undergraduates identified emotions on faces set on emotional background
   scenes. As the abstract reports it, more PTSD symptoms went with more
   time on the background and less on the face. More gaze to context with
-  more symptoms, opposite in sign to Zidda and colleagues (LIT-tmpmkmjq),
+  more symptoms, opposite in sign to Zidda and colleagues ([LIT-tmpmkmjq](LIT-tmpmkmjq.md)),
   though there the context was neutral and the cue trauma-specific.
   Unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpmkmjq LIT-tmpogxg7 — new; entries filed for the same lead -->
 
 # LIT-tmpgjodp: PTSD symptoms and overt attention to contextualized emotional faces: Evidence from eye tracking
 
@@ -46,7 +45,7 @@ Milanak, Judah, Berenbaum, Kramer and Neider (2018), *Psychiatry Research*
 
 ## Standing in the record
 
-Registered for LEAD-106 as a gaze-to-context study in a trauma-exposed
+Registered for [LEAD-106](../leads.d/LEAD-106.md) as a gaze-to-context study in a trauma-exposed
 sample. It is dimensional, subclinical and without recall, and its
 background is task-irrelevant rather than disambiguating. The scoping
-review LIT-tmpogxg7 does not include it.
+review [LIT-tmpogxg7](LIT-tmpogxg7.md) does not include it.

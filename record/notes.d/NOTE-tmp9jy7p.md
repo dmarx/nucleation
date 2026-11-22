@@ -27,7 +27,7 @@ summary: >-
   "engagement with corrective, contextual information" in exposure as a
   hypothetical use. It misses at least two eligible studies, so it checks
   the lead's search without proving the absence. The reading is
-  THEORY-tmp8n4s7.
+  [THEORY-tmp8n4s7](../theory.d/THEORY-tmp8n4s7.md).
 ---
 <!-- inactive-ok-file: THEORY-tmp8n4s7 — new; this reading -->
 <!-- inactive-ok-file: LIT-tmpgjodp LIT-tmpizs88 — Deferred; eligible studies the review misses, registered for the same lead -->
@@ -97,17 +97,17 @@ sampling after recall is not among it.
 
 ## Bearing on the record
 
-- **QUESTION-303** (a check on absence, not evidence on the answer): if an
+- **[QUESTION-303](../questions.d/QUESTION-303.md)** (a check on absence, not evidence on the answer): if an
   eye-tracking study of context sampling after cued traumatic recall had
   appeared by 2025 under these terms, it should be here. None is. With the
   lead's own searches, this is the basis for saying no study meets the
   design. The review frames corrective contextual information during
-  exposure as something eye tracking could measure, which is QUESTION-303's
+  exposure as something eye tracking could measure, which is [QUESTION-303](../questions.d/QUESTION-303.md)'s
   second half, and reports no study that has.
-- **THEORY-285** (background): the review's "reduced visual exploration"
+- **[THEORY-285](../theory.d/THEORY-285.md)** (background): the review's "reduced visual exploration"
   is the nearest category in the human literature to the model's
   attenuation, and it rests on two or three studies, none after recall.
-- **THEORY-912** (a parallel): De Kleine and colleagues found patients
+- **[THEORY-912](../theory.d/THEORY-912.md)** (a parallel): De Kleine and colleagues found patients
   sampling as often as controls on a different task; the eye-tracking
   literature mapped here likewise gives no consistent reduction in
   sampling, but heterogeneous patterns.
@@ -115,9 +115,9 @@ sampling after recall is not among it.
 ## Limitations
 
 - **Coverage.** The corpus misses eligible studies the lead's search found
-  in Europe PMC: Milanak and colleagues (2018, LIT-tmpgjodp), trauma-exposed
+  in Europe PMC: Milanak and colleagues (2018, [LIT-tmpgjodp](../literature.d/LIT-tmpgjodp.md)), trauma-exposed
   undergraduates with PTSD symptoms analysed against gaze to background
-  scenes; and Kimble, Cappello and Fleming (2023, LIT-tmpizs88), community
+  scenes; and Kimble, Cappello and Fleming (2023, [LIT-tmpizs88](../literature.d/LIT-tmpizs88.md)), community
   trauma survivors viewing ambiguous pictures. Both meet its stated
   criteria (eye tracking, trauma-exposed samples with PTSD symptoms
   analysed). So its absence of a recall study is a check, not a proof.

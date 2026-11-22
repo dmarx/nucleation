@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  Filed 2026-11-22, not read. Registered by LEAD-106 from a Europe PMC
+  Filed 2026-11-22, not read. Registered by [LEAD-106](../leads.d/LEAD-106.md) from a Europe PMC
   search (no email parameter sent). Open in PubMed Central (PMC10612569,
   CC BY); not fetched.
 title: '‘I am afraid you will see the stain on my soul’: Direct gaze neural processing in individuals with PTSD after moral injury recall'
@@ -48,6 +48,6 @@ nsad053. DOI 10.1093/scan/nsad053.
 
 ## Standing in the record
 
-Registered for LEAD-106 as the nearest use of cued recall before a visual
+Registered for [LEAD-106](../leads.d/LEAD-106.md) as the nearest use of cued recall before a visual
 task in PTSD. It has no trauma-exposed control group and no measure of
 context sampling.

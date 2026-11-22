@@ -21,8 +21,8 @@ bears_on:
 - QUESTION-303
 summary: >-
   Diotaiuti, Spica, Di Siena, Cavicchiolo, De Souza, Andrade & Mancone
-  (2026), LIT-tmpogxg7, read in full in NOTE-tmp9jy7p. A map of what the
-  eye-tracking literature on PTSD has measured. For QUESTION-303 it is a
+  (2026), [LIT-tmpogxg7](../literature.d/LIT-tmpogxg7.md), read in full in [NOTE-tmp9jy7p](../notes.d/NOTE-tmp9jy7p.md). A map of what the
+  eye-tracking literature on PTSD has measured. For [QUESTION-303](../questions.d/QUESTION-303.md) it is a
   check on absence: no included study measures gaze after cued recall, and
   the use of gaze to track engagement with corrective context in exposure
   is called hypothetical. The last clause of the title is the reader's
@@ -30,15 +30,14 @@ summary: >-
   corpus misses at least two eligible studies. Proposed until an
   independent search agrees.
 ---
-<!-- inactive-ok-file: LIT-tmpogxg7 NOTE-tmp9jy7p — new; this reading's work and note -->
 
 # THEORY-tmp8n4s7: Diotaiuti and colleagues' scoping review of 17 eye-tracking studies of PTSD published from 2010 to 2025 finds longer sustained gaze on negative or trauma-related material the most recurrent difference, with initial vigilance inconsistent and reduced exploration, shorter scanpaths and delayed attention to context each resting on one to three studies; no study it includes records gaze after the trauma is recalled or across treatment
 
 ## Source
 
 Diotaiuti and colleagues (2026), *European Journal of Psychotraumatology*
-17: 2703319, LIT-tmpogxg7, read in full from PubMed Central's open text in
-NOTE-tmp9jy7p.
+17: 2703319, [LIT-tmpogxg7](../literature.d/LIT-tmpogxg7.md), read in full from PubMed Central's open text in
+[NOTE-tmp9jy7p](../notes.d/NOTE-tmp9jy7p.md).
 
 ## What was actually shown
 
@@ -63,9 +62,9 @@ longitudinal through treatment.
 
 ## Connections
 
-- **QUESTION-303**: confirms, as far as its corpus goes, that the first
+- **[QUESTION-303](../questions.d/QUESTION-303.md)**: confirms, as far as its corpus goes, that the first
   kind of evidence the question asks for has not been collected, and that
   the second has been proposed only as a possibility.
-- **THEORY-912**: like De Kleine and colleagues' sampling result on a
+- **[THEORY-912](THEORY-912.md)**: like De Kleine and colleagues' sampling result on a
   different task, the gaze literature gives no consistent reduction in
   sampling in PTSD.

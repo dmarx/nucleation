@@ -3,8 +3,8 @@ status: Active
 status_note: >-
   Read 2026-11-22 in full (main text; the supplement not read) from the
   Europe PMC REST API's open-access full text (PMC12065850, CC BY-NC-ND),
-  for LEAD-106. The nearest study found to the first half of the design
-  QUESTION-303 asks for.
+  for [LEAD-106](../leads.d/LEAD-106.md). The nearest study found to the first half of the design
+  [QUESTION-303](../questions.d/QUESTION-303.md) asks for.
 title: 'Early processing of traumatic material and contextual information in posttraumatic stress disorder and its relation to memory impairments'
 version: 1
 history:
@@ -43,10 +43,10 @@ summary: >-
   cue–context pairs; latency to the context predicted that memory. The
   only study found that measures gaze to context against trauma-exposed
   controls; it has no recall manipulation, and its context carries no
-  information about safety. Read in NOTE-tmpoybvl; the reading is
-  THEORY-tmp1ov9x.
+  information about safety. Read in [NOTE-tmpoybvl](../notes.d/NOTE-tmpoybvl.md); the reading is
+  [THEORY-tmp1ov9x](../theory.d/THEORY-tmp1ov9x.md).
 ---
-<!-- inactive-ok-file: NOTE-tmpoybvl THEORY-tmp1ov9x — new; this work's reading -->
+<!-- inactive-ok-file: THEORY-tmp1ov9x — new; this work's reading -->
 
 # LIT-tmpmkmjq: Early processing of traumatic material and contextual information in posttraumatic stress disorder and its relation to memory impairments
 
@@ -67,8 +67,8 @@ Zidda, Steiger-White, Winkelmann, Ruttorf, Andoh, Nees and Flor (2025),
 
 ## Standing in the record
 
-Read for LEAD-106 as the nearest study to the first kind of evidence
-QUESTION-303 asks for: context sampling in PTSD against trauma-exposed
+Read for [LEAD-106](../leads.d/LEAD-106.md) as the nearest study to the first kind of evidence
+[QUESTION-303](../questions.d/QUESTION-303.md) asks for: context sampling in PTSD against trauma-exposed
 controls, measured by eye movements. It lacks the cued-recall
 manipulation, and its "context" is a neutral background, not periphery
 that disambiguates a harmful from a harmless context.

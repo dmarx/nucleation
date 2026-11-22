@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  Filed 2026-11-22, not read. Registered by LEAD-106 from a Europe PMC
+  Filed 2026-11-22, not read. Registered by [LEAD-106](../leads.d/LEAD-106.md) from a Europe PMC
   search (no email parameter sent). No open copy found in Europe PMC (no
   PMCID); other locations not searched.
 title: 'Hypervigilance and depression as predictors of eye tracking to ambiguous pictures in trauma survivors'
@@ -37,7 +37,6 @@ summary: >-
   depression did not. Dimensional, with no PTSD-free comparison group and
   no recall. Unverified until read.
 ---
-<!-- inactive-ok-file: LIT-tmpogxg7 — new; entries filed for the same lead -->
 
 # LIT-tmpizs88: Hypervigilance and depression as predictors of eye tracking to ambiguous pictures in trauma survivors
 
@@ -46,8 +45,8 @@ Psychophysiology* 187: 27–33. DOI 10.1016/j.ijpsycho.2023.01.007.
 
 ## Standing in the record
 
-Registered for LEAD-106 as the nearest study of how trauma survivors scan
+Registered for [LEAD-106](../leads.d/LEAD-106.md) as the nearest study of how trauma survivors scan
 ambiguous scenes. Its direction, more scanning with more hypervigilance,
-is against the attenuation QUESTION-303 asks about, but it has no recall
+is against the attenuation [QUESTION-303](../questions.d/QUESTION-303.md) asks about, but it has no recall
 manipulation, no group design and no measure of disambiguating periphery.
-The scoping review LIT-tmpogxg7 does not include it.
+The scoping review [LIT-tmpogxg7](LIT-tmpogxg7.md) does not include it.

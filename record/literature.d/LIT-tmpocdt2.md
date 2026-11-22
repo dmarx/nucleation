@@ -1,7 +1,7 @@
 ---
 status: Deferred
 status_note: >-
-  Filed 2026-11-22, not read. Registered by LEAD-106 from a Europe PMC
+  Filed 2026-11-22, not read. Registered by [LEAD-106](../leads.d/LEAD-106.md) from a Europe PMC
   search (no email parameter sent). An author manuscript is open in PubMed
   Central (PMC4211931); it was not fetched.
 title: 'The impact of hypervigilance: Evidence for a forward feedback loop'
@@ -34,7 +34,7 @@ summary: >-
   and viewed neutral, ambiguous scenes. As the abstract reports it, the
   hypervigilant group made more fixations, spread over more of the scene,
   with larger pupils. A manipulated state of threat that widens scanning,
-  the opposite of the attenuation THEORY-285 models; unverified until
+  the opposite of the attenuation [THEORY-285](../theory.d/THEORY-285.md) models; unverified until
   read.
 ---
 
@@ -46,8 +46,8 @@ Kimble, Boxwala, Bean, Maletsky, Halper, Spollen and Fleming (2014),
 
 ## Standing in the record
 
-Registered for LEAD-106 as the nearest experimental manipulation of threat
+Registered for [LEAD-106](../leads.d/LEAD-106.md) as the nearest experimental manipulation of threat
 expectation before scene viewing. It is against the direction
-QUESTION-303's account predicts for ambiguous scenes, but it uses induced
+[QUESTION-303](../questions.d/QUESTION-303.md)'s account predicts for ambiguous scenes, but it uses induced
 hypervigilance in an unselected sample, with no trauma recall and no
 context that disambiguates safety.
