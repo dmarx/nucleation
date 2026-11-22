@@ -27,10 +27,14 @@
   so at tau = 2 admitting staging changes nothing and every K3 cell
   becomes K4, too expensive, or (with the gap) reachable-not-by-deadline.
 
+- Filed CASE-tmp17sbe (executed-study), CLAIM-tmpmvt0a (thesis,
+  demonstrated), dated notes on QUESTION-392, CASE-198, LEAD-075, and
+  record/changelog.d/lead-075.md. All pushed.
+
 ## Next
 
-- File CASE (executed-study), CLAIM, dated notes on QUESTION-392,
-  CASE-198, LEAD-075, changelog fragment.
+- Nothing for the worker: report. The lead opens the pull request into
+  staging; docs-check repairs links.
 
 ## Choices
 
