@@ -18,6 +18,16 @@
 - run.py launched (sweep -> results.jsonl, resumable; PID in scratchpad
   lead-063/run.pid).
 
+- check_mind.py done (complex_check.jsonl): exhaustive exclusion over all
+  subsets of the 9-unit mind. Where the level verdict says "mind", the
+  main complex crosses every module (whole or whole minus one unit); where
+  it says "module", the complex is a module, except width 1, c=0.12, where
+  it is the three linked units [0,3,6], a cross-module core.
+- check_small_group.py launched (small_group.jsonl): exhaustive exclusion on
+  a 12-unit group (2 members x 2 modules x 3 units), to see whether a
+  complex ever crosses members without being the whole.
+- Created stubs CASE-tmp5fglr and CLAIM-tmpfoatc (to be filled).
+
 ## Next
 
 - Commit results.jsonl; summarise (summarise.py); README.
