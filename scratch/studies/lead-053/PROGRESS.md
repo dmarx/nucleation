@@ -33,9 +33,11 @@ Checked: grep for LEAD-053, "maintenance constraint", "constraint set", "non-arb
 
 - Step 1: target not held.
 - Computation: maintenance_rule.py + tests (8 pass), results.txt.
+- Filed: CLAIM-tmpke0ap (core rule), CLAIM-tmpnhrot (narrow), CLAIM-tmp8onwv
+  (wide), CASE-tmp6mcpv (the test, executed-study).
+- Dated notes 2026-11-22: ARG-007, CLAIM-099, CLAIM-195, LEAD-053.
+- Changelog fragment record/changelog.d/lead-053.md.
 
 ## Next
 
-- File: core CLAIM, two alternative CLAIMs, test CASE (executed-study).
-- Dated notes: ARG-007, CLAIM-099, LEAD-053, CLAIM-195.
-- Changelog fragment record/changelog.d/lead-053.md.
+- Report to the lead. Nothing else on this branch.

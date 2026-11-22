@@ -43,7 +43,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp6mcpv CLAIM-tmpnhrot CLAIM-tmp8onwv — new, filed in this pull request for LEAD-053 -->
-<!-- inactive-ok-file: CASE-227 CLAIM-367 — Proposed; cases the rule is tested on, cited as open -->
+<!-- inactive-ok-file: CASE-227 — Proposed; a case the rule is tested on, cited as open -->
 
 # CLAIM-tmpke0ap: A regulatory capacity's constraint set is fixed by what realizes it: K holds each constraint the capacity's own constraints depend on for their production, at the least level at which what depends on it is still produced, so once the agent and the capacity are named only the agent's boundary is left to choose
 
