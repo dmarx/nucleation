@@ -17,10 +17,6 @@ tags:
 - mathematics
 date: '2026-11-22'
 illustrates:
-- CLAIM-tmpocjfb
-- CLAIM-tmpnyf9e
-- CLAIM-tmpk6abl
-- CLAIM-tmppgdad
 - CLAIM-597
 - CLAIM-604
 - CLAIM-516
