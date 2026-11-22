@@ -42,7 +42,7 @@ summary: >-
   students there are. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpy4orj CASE-161 — new or Proposed; the run this claim is drawn from, and the case of governing rules that QUESTION-361 cites -->
+<!-- inactive-ok-file: CASE-tmpy4orj — new or Proposed; the run this claim is drawn from, and the case of governing rules that QUESTION-361 cites -->
 
 # CLAIM-tmppgdad: Where each nucleus formed by a teacher becomes a teacher, the succession replaces every outside teacher at one generation per teacher lifetime plus nucleus lifetime, and whether it sustains itself is decided by the aggregate teaching gain alone: populations matched in the number and turnover of their students persist or collapse on withdrawal by the share of students that can teach, and before withdrawal the difference shows only in the outside supply, material and teachers each needs
 
@@ -79,12 +79,12 @@ teacher is generation g + 1, and it makes generation g + 1 teachers.
 
 ## What it does not say
 
-- **Not QUESTION-361's distinction.** That distinction, a perfect student
+- **Not [QUESTION-361](../questions.d/QUESTION-361.md)'s distinction.** That distinction, a perfect student
   and a poor teacher, is between individual successors. This model
   separates them only in the aggregate, where it cannot tell which
   students teach.
 - **No error is inherited.** Students here inherit no error from their
   teachers, and their teaching does not degrade down the generations. The
-  "increasingly degraded teacher" of QUESTION-361 is not modelled.
+  "increasingly degraded teacher" of [QUESTION-361](../questions.d/QUESTION-361.md) is not modelled.
 - **The record's other cases.** [CASE-161](../cases.d/CASE-161.md)'s separation for governing rules
   is untouched.

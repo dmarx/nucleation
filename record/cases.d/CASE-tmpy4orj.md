@@ -56,12 +56,12 @@ summary: >-
 The lead offered two routes: extend [CASE-190](CASE-190.md) so its student becomes a
 teacher, or use the Life eaters. Neither was taken literally.
 
-- **Not CASE-190's equations.** Not all of them are on the record: A18's
+- **Not [CASE-190](CASE-190.md)'s equations.** Not all of them are on the record: A18's
   fuel demand Ψ is never stated.
 - **Not the eaters.** The eater repairs only the strike it is shaped for
   ([CASE-tmpfktyl](CASE-tmpfktyl.md)), and a Life pattern has no turnover rate to vary.
 
-The model built instead closes the three gaps CASE-190 names:
+The model built instead closes the three gaps [CASE-190](CASE-190.md) names:
 
 - **The coupling runs both ways.** What the nuclei make is what forms them.
 - **There is succession.** Each nucleus is a student of the teacher that
@@ -265,14 +265,14 @@ a few hundred time units at these sizes.
     closed;
   - when it closes in time: the separatrix crossing.
 
-  CLAIM-tmpocjfb, CLAIM-tmpnyf9e and CLAIM-tmpk6abl state the findings.
-- **[QUESTION-361](../questions.d/QUESTION-361.md).** It supplies the succession CASE-190 lacked:
+  [CLAIM-tmpocjfb](../claims.d/CLAIM-tmpocjfb.md), [CLAIM-tmpnyf9e](../claims.d/CLAIM-tmpnyf9e.md) and [CLAIM-tmpk6abl](../claims.d/CLAIM-tmpk6abl.md) state the findings.
+- **[QUESTION-361](../questions.d/QUESTION-361.md).** It supplies the succession [CASE-190](CASE-190.md) lacked:
   students become teachers, generation after generation. Students equally
   present differ as teachers only through the supply they need, and on
-  withdrawal (CLAIM-tmppgdad).
+  withdrawal ([CLAIM-tmppgdad](../claims.d/CLAIM-tmppgdad.md)).
 - **Closure or autocatalysis.** Whether the loop is organizational closure
   in [TERM-070](../terms.d/TERM-070.md)'s sense or only autocatalysis is left to the owner, filed as
-  two readings: CLAIM-tmp1qqso and CLAIM-tmps1ll3.
+  two readings: [CLAIM-tmp1qqso](../claims.d/CLAIM-tmp1qqso.md) and [CLAIM-tmps1ll3](../claims.d/CLAIM-tmps1ll3.md).
 
 ## What it cannot show
 

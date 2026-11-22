@@ -62,9 +62,9 @@ case [CLAIM-395](CLAIM-395.md)'s reading (B) sets aside.
 
 ## What it does not say
 
-- **Not that TERM-070's definition is unmet.** It may be met to the
+- **Not that [TERM-070](../terms.d/TERM-070.md)'s definition is unmet.** It may be met to the
   letter, as [CLAIM-tmp1qqso](CLAIM-tmp1qqso.md) argues.
-- **What it does say.** The letter is not the sense in which QUESTION-399
+- **What it does say.** The letter is not the sense in which [QUESTION-399](../questions.d/QUESTION-399.md)
   asks for closure.
 - **What would meet the question on this reading.** A loop in which at
   least one constraint acts on a process other than the production of its

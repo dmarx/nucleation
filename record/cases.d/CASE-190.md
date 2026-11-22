@@ -172,7 +172,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: a construction that closes this case's three gaps
 
-CASE-tmpy4orj (LEAD-093) is a separate kinetic model, not an extension of
+[CASE-tmpy4orj](CASE-tmpy4orj.md) ([LEAD-093](../leads.d/LEAD-093.md)) is a separate kinetic model, not an extension of
 these equations, which are not all stated: A18's Ψ is missing. It closes
 the three gaps named under "What it shows and does not":
 

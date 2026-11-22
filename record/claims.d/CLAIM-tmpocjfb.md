@@ -91,6 +91,6 @@ formation ([TERM-117](../terms.d/TERM-117.md)).
   well track the separatrix in a given system. The claim is only that
   neither nucleus count nor self-made share does.
 - **Material.** Closure here is of the teacher loop alone. Material must
-  still be supplied (CASE-tmpy4orj, e3).
+  still be supplied ([CASE-tmpy4orj](../cases.d/CASE-tmpy4orj.md), e3).
 - **Finite systems.** In finite numbers, crossing the threshold buys a
   lifetime, not permanence (e9).

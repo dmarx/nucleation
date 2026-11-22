@@ -109,7 +109,7 @@ realizations is not yet there.
 
 ## Note of 2026-11-22: a construction in which the student becomes a teacher
 
-CASE-tmpy4orj (LEAD-093) supplies the succession that CASE-190 lacks.
+[CASE-tmpy4orj](../cases.d/CASE-tmpy4orj.md) ([LEAD-093](../leads.d/LEAD-093.md)) supplies the succession that [CASE-190](../cases.d/CASE-190.md) lacks.
 Each nucleus formed by a teacher makes teachers.
 
 - **Replacement.** After an outside founding, every outside teacher is
@@ -121,7 +121,7 @@ Each nucleus formed by a teacher makes teachers.
 - **Matched populations.** Populations matched in the number and turnover
   of their students separate on withdrawal by the share that can teach.
   Before withdrawal they differ only in the supply, material and teachers
-  each needs (CLAIM-tmppgdad).
+  each needs ([CLAIM-tmppgdad](../claims.d/CLAIM-tmppgdad.md)).
 
 Two limits:
 
