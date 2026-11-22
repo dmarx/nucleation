@@ -38,3 +38,11 @@ amplifying-abs D1 0 {'cut': (0.0427, 0.0413), 'joint': (0.0245, 0.0245), 'cutfle
 amplifying-abs D1 3 {'cut': (0.0351, 0.0351), 'joint': (0.0146, 0.0146), 'cutflex': (0.0355, 0.0354), 'additive': (0.0526, 0.0526)}
 amplifying-abs D1 2 {'cut': (0.0338, 0.0307), 'joint': (0.0354, 0.0147), 'cutflex': (0.0312, 0.0305), 'additive': (0.0421, 0.0421)}
 amplifying-abs D1 1 {'cut': (0.0254, 0.0249), 'joint': (0.0096, 0.0096), 'cutflex': (0.0253, 0.0242), 'additive': (0.0387, 0.0387)}
+amplifying-abs D1 4 {'cut': (0.0258, 0.0258), 'joint': (0.0133, 0.0133), 'cutflex': (0.0255, 0.0255), 'additive': (0.0444, 0.0444)}
+amplifying-abs D1 5 {'cut': (0.04, 0.04), 'joint': (0.0136, 0.0136), 'cutflex': (0.039, 0.039), 'additive': (0.0552, 0.0552)}
+amplifying-abs D2 0 {'cut': (0.0364, 0.0363), 'joint': (0.0195, 0.0195), 'cutflex': (0.0364, 0.0363), 'additive': (0.0665, 0.0665)}
+amplifying-abs D2 1 {'cut': (0.0268, 0.0268), 'joint': (0.0087, 0.0087), 'cutflex': (0.0261, 0.0261), 'additive': (0.044, 0.044)}
+amplifying-abs D2 2 {'cut': (0.0249, 0.0249), 'joint': (0.0116, 0.0116), 'cutflex': (0.0261, 0.0261), 'additive': (0.0483, 0.0483)}
+amplifying-abs D2 3 {'cut': (0.0273, 0.0273), 'joint': (0.011, 0.011), 'cutflex': (0.0281, 0.0281), 'additive': (0.0502, 0.0502)}
+amplifying-abs D2 4 {'cut': (0.0231, 0.0222), 'joint': (0.0135, 0.0135), 'cutflex': (0.0254, 0.0238), 'additive': (0.0532, 0.0532)}
+amplifying-abs D2 5 {'cut': (0.0394, 0.0394), 'joint': (0.017, 0.017), 'cutflex': (0.0384, 0.0384), 'additive': (0.0818, 0.0818)}
