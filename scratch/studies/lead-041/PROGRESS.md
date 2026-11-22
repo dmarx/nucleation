@@ -31,10 +31,14 @@
   (A nominal) and 1980-81 (C nominal); inertia prevails 1994-97 / 2014-17;
   no channel persists over two windows, so no resumption to read.
 
+- Filed: CLAIM-tmp0uism (argument), CLAIM-tmpaibxx (alternative, counter),
+  CLAIM-tmpkcsp7 (procedure, answers QUESTION-268), CASE-tmpjw1l1 (FOMC
+  application); dated notes on LEAD-041, QUESTION-268, CLAIM-440;
+  changelog fragment record/changelog.d/lead-041.md.
+
 ## Next
 
-- File CLAIM (argument), alternative CLAIM, CASE (application), notes on
-  LEAD-041, QUESTION-268, CLAIM-440; changelog fragment.
+- Report to the lead (no pull request; the lead opens it).
 
 ## Choices made
 
