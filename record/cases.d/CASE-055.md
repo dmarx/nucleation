@@ -175,7 +175,7 @@ The design above is unchanged.
 
 <!-- inactive-ok-file: CLAIM-504 — Proposed; the strong contextual baseline the draft specifies, open -->
 
-For LEAD-146 the assistant drafted the preregistration this design leaves
+For [LEAD-146](../leads.d/LEAD-146.md) the assistant drafted the preregistration this design leaves
 to the owner. It is in scratch/studies/lead-146/preregistration-draft.md,
 with the power simulation beside it (power.py, results.json). It fixes
 nothing. Every margin, power and rate stays the owner's, and the draft
@@ -187,21 +187,21 @@ What it drafts:
 - **Hypotheses**, each as the defeat condition of its claim, on one effect:
   the held-out increment in R² that one predictor set adds over another in
   predicting receivers' recovery, with folds grouped by source item. H1 is
-  CLAIM-220's test: pragmatic observables over proposition, and over
-  proposition with force. H2 is CLAIM-202's as worded: transport over the
-  static profile on arm (c). H2′ is CLAIM-202 restated against a strong
-  contextual baseline, which is what CLAIM-205 asks for. QUESTION-074's
+  [CLAIM-220](../claims.d/CLAIM-220.md)'s test: pragmatic observables over proposition, and over
+  proposition with force. H2 is [CLAIM-202](../claims.d/CLAIM-202.md)'s as worded: transport over the
+  static profile on arm (c). H2′ is [CLAIM-202](../claims.d/CLAIM-202.md) restated against a strong
+  contextual baseline, which is what [CLAIM-205](../claims.d/CLAIM-205.md) asks for. [QUESTION-074](../questions.d/QUESTION-074.md)'s
   composition test is offered as exploratory.
-- **The baseline.** CLAIM-504 names its kind and leaves it unspecified. The
+- **The baseline.** [CLAIM-504](../claims.d/CLAIM-504.md) names its kind and leaves it unspecified. The
   draft gives it three parts:
   - the same context-response ratings that the transport measures
-    (CLAIM-228, CLAIM-231, CLAIM-259) are computed from;
+    ([CLAIM-228](../claims.d/CLAIM-228.md), [CLAIM-231](../claims.d/CLAIM-231.md), [CLAIM-259](../claims.d/CLAIM-259.md)) are computed from;
   - a learner tuned by nested cross-validation;
   - a supervised text model.
 
   So the increment measures what the structure adds, not what more data
   add.
-- **Populations and frames** (CLAIM-226):
+- **Populations and frames** ([CLAIM-226](../claims.d/CLAIM-226.md)):
   - first-language adult readers in one named country for each language,
     from one named panel, with census quotas;
   - predictor raters from a separate pool;
@@ -209,7 +209,7 @@ What it drafts:
   - about twenty anchor items for the invariance test. If fewer than three
     quarters of the anchors are invariant, the interlingual defeat tests
     are not run.
-- **The language pair** (CLAIM-222): English → German, French or Japanese.
+- **The language pair** ([CLAIM-222](../claims.d/CLAIM-222.md)): English → German, French or Japanese.
   The lean is German, because the result depends on the invariance test
   passing. Japanese is a second pair if the budget allows.
 - **Prevalences**, as assumptions for a pilot to replace:
