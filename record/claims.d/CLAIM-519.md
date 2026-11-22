@@ -155,7 +155,7 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: an intervention that separates identical behaviour, and its scope
 
-CASE-tmp6hkf9 ran CASE-187 at toy scale.
+[CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md) ran [CASE-187](../cases.d/CASE-187.md) at toy scale.
 - **Identical behaviour.** A planner on a learned transition table and a
   goal-conditioned value learner chose the same action in every (state,
   goal) pair. That is this claim's lookup-table construction, met in
@@ -167,7 +167,7 @@ CASE-tmp6hkf9 ran CASE-187 at toy scale.
   block was propagated through all of a distributed predictor's demons,
   with no table. It repaired every route, as the planner's edit did.
 
-CLAIM-tmpo59pd files the qualification: an intervention discriminates
+[CLAIM-tmpo59pd](CLAIM-tmpo59pd.md) files the qualification: an intervention discriminates
 relative to its declared scope. This defeated_if already counts the
 intervention repertoire among what must be matched. The defeated_if is
 not met.

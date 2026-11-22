@@ -27,7 +27,7 @@ illustrates:
 bears_on:
 - QUESTION-362
 summary: >-
-  CASE-187 run at toy scale for LEAD-160. Twenty 8x8 mazes with loops,
+  [CASE-187](CASE-187.md) run at toy scale for [LEAD-160](../leads.d/LEAD-160.md). Twenty 8x8 mazes with loops,
   deterministic and fully observed; goal family "reach cell g" for all 64
   cells. A planner (M) holds a learned transition table and plans by value
   iteration; a policy (P) is goal-conditioned Q-learning with hindsight
@@ -48,14 +48,14 @@ summary: >-
   first costs M more (success 0.27 against 0.35). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-514 CLAIM-519 CLAIM-tmpq92r4 CLAIM-tmpo59pd — Proposed or new; the claims this study illustrates and the two it grounds -->
+<!-- inactive-ok-file: CLAIM-tmpq92r4 CLAIM-tmpo59pd — Proposed or new; the claims this study illustrates and the two it grounds -->
 
 # CASE-tmp6hkf9: Three tabular agents on twenty 8x8 gridworld mazes, a planner on a learned transition table, a goal-conditioned value learner and a bank of occupancy-predicting demons, matched exactly in goal competence by one shared stream of experience: every query family can be read out of each with equal accuracy, but each answers a different family within its own per-decision computation; writing a blocked passage into the two units that carry it repairs every route of the planner and about a tenth of the others', unless the block is propagated through all the demons, which repairs every route without a table; and the planner recovers fastest from change and damage and alone localizes the damage, though the same damage first costs it more
 
 ## What was done
 
-CASE-187 left its architectures, tasks and margins to a preregistration.
-LEAD-160 asked for it to be run under matched competence. This is the
+[CASE-187](CASE-187.md) left its architectures, tasks and margins to a preregistration.
+[LEAD-160](../leads.d/LEAD-160.md) asked for it to be run under matched competence. This is the
 smallest version that keeps all four of its tests, run on 2026-11-22. The
 code, its tests (12, passing), the per-item results and a digest are in
 `scratch/studies/lead-160/`; the README there gives each choice and why.
@@ -87,7 +87,7 @@ code, its tests (12, passing), the per-item results and a digest are in
   the same known graph, so success is matched exactly by construction.
   This was checked, not assumed. Memory, training updates and
   per-decision computation are reported rather than equalized, as
-  CASE-187 asks.
+  [CASE-187](CASE-187.md) asks.
 
 ## The result
 
@@ -186,18 +186,18 @@ In this class, with matched goal competence:
   recovered fastest and localized its damage, at the price of greater
   first fragility to the same damage.
 
-These are the four readings CASE-187 set out, each met once. For
-QUESTION-362's rows it gives a worked instance of "recoverable is not
+These are the four readings [CASE-187](CASE-187.md) set out, each met once. For
+[QUESTION-362](../questions.d/QUESTION-362.md)'s rows it gives a worked instance of "recoverable is not
 available", and one of maintenance and corrigibility tied to a mechanism.
-It gives two findings filed as claims, CLAIM-tmpq92r4 on query
-availability and CLAIM-tmpo59pd on the scope of an intervention.
+It gives two findings filed as claims, [CLAIM-tmpq92r4](../claims.d/CLAIM-tmpq92r4.md) on query
+availability and [CLAIM-tmpo59pd](../claims.d/CLAIM-tmpo59pd.md) on the scope of an intervention.
 
 ## What it cannot show
 
 - **Scale and generality.** It uses tabular agents, one deterministic maze
   family and random-walk experience. Nothing here is about function
   approximation, partial observation or stochastic dynamics.
-- **Richens et al.'s theorem** (CLAIM-513) is not tested. Reading a
+- **Richens et al.'s theorem** ([CLAIM-513](../claims.d/CLAIM-513.md)) is not tested. Reading a
   next state out of P's values is the reach-goal shadow of their
   composite-goal extraction, and is trivial here.
 - **The budgets are a choice.** Each agent's own per-decision computation,

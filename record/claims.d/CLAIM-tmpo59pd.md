@@ -26,7 +26,7 @@ corroborates:
 bears_on:
 - QUESTION-362
 summary: >-
-  From the run of CASE-187 for LEAD-160 (CASE-tmp6hkf9). The planner and
+  From the run of [CASE-187](../cases.d/CASE-187.md) for [LEAD-160](../leads.d/LEAD-160.md) ([CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md)). The planner and
   the goal-conditioned value learner choose the same action in every
   (state, goal) pair, so no goal test tells them apart. Writing a blocked
   passage into the two units that carry it does tell them apart. It
@@ -34,7 +34,7 @@ summary: >-
   and 14% of the occupancy predictors'. The same block, propagated through
   every demon by the Woodbury identity from the demons' own values,
   repairs all of the predictors' routes, with no transition table
-  anywhere. So the discriminating power CLAIM-519 gives targeted
+  anywhere. So the discriminating power [CLAIM-519](CLAIM-519.md) gives targeted
   interventions holds, but relative to the declared intervention
   repertoire, which its defeated_if already lists among what must be
   matched. The wording is the assistant's (Claude, in this session);
@@ -46,7 +46,7 @@ summary: >-
 
 ## The claim
 
-In CASE-tmp6hkf9 the planner and the value learner are behaviourally
+In [CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md) the planner and the value learner are behaviourally
 identical. Their greedy actions agree in every (state, goal) pair at
 every level of competence, so the value learner is the planner's policy
 as a table. The occupancy predictors match both in success and nearly in
@@ -60,7 +60,7 @@ units that carry it in each agent's own representation:
 - the predictors' two demon rows, likewise.
 
 It repaired 100%, 9% and 14% of the routes each agent failed in the
-blocked maze. That is CLAIM-519's point made concrete: an intervention
+blocked maze. That is [CLAIM-519](CLAIM-519.md)'s point made concrete: an intervention
 separates implementations that every behavioural test leaves together.
 
 A **content-level intervention** on the predictors changes the
@@ -74,17 +74,17 @@ So "the edited agent behaves as an agent with a model would" separates
 the planner from the predictors under one declared intervention and not
 under another. An intervention discriminates relative to its scope. The
 scope belongs with memory, computation and history among what a
-comparison must match. CLAIM-519's defeated_if already names a "matched
+comparison must match. [CLAIM-519](CLAIM-519.md)'s defeated_if already names a "matched
 intervention repertoire". This is a measured case of why.
 
 ## What it does not say
 
 - **That the predictors contain a model in disguise.** Their demons hold
   occupancy predictions, not next states. Reading next states out of them
-  costs about 4,000 operations per move. See CLAIM-tmpq92r4.
+  costs about 4,000 operations per move. See [CLAIM-tmpq92r4](CLAIM-tmpq92r4.md).
 - **That the two interventions cost the same.** The planner's edit writes
   2 numbers. The content-level edit writes 16,384. That asymmetry is
-  itself evidence about the mechanism, as CLAIM-519's compression point
+  itself evidence about the mechanism, as [CLAIM-519](CLAIM-519.md)'s compression point
   says.
 - **Anything about the value learner beyond this.** No content-level edit
   on its values was run. Repairing it means re-solving its Bellman

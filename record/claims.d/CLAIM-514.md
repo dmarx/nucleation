@@ -115,12 +115,12 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: query-relative capabilities measured once
 
-CASE-tmp6hkf9 ran CASE-187 at toy scale. The second clause of this
+[CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md) ran [CASE-187](../cases.d/CASE-187.md) at toy scale. The second clause of this
 claim's defeated_if, that the query-relative capabilities always come
 together, is not met there. At matched goal competence, read-out answers
 coincided across three architectures, but the families each could answer
 within its own per-decision computation differed by architecture
-(CLAIM-tmpq92r4, which corroborates this claim). The first clause, a
+([CLAIM-tmpq92r4](CLAIM-tmpq92r4.md), which corroborates this claim). The first clause, a
 required realization, is not met either: an explicit table, a value
 table and a bank of occupancy predictors reached the same competence.
 

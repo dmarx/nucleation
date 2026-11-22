@@ -28,15 +28,15 @@ corroborates:
 bears_on:
 - QUESTION-362
 summary: >-
-  From the run of CASE-187 for LEAD-160 (CASE-tmp6hkf9). With goal success
+  From the run of [CASE-187](../cases.d/CASE-187.md) for [LEAD-160](../leads.d/LEAD-160.md) ([CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md)). With goal success
   matched exactly, reading a transition table out of each agent gives
   equally accurate answers to next-state, distance, occupancy and
   post-intervention queries for all three, at every level of competence.
   Within each agent's own per-decision computation, the planner answers
   next states and distances, the value learner distances and the
   occupancy predictors occupancies; none answers the interventional
-  families. This is QUESTION-362's "recoverable is not available" as a
-  measured result, and independent evidence for CLAIM-514's family of
+  families. This is [QUESTION-362](../questions.d/QUESTION-362.md)'s "recoverable is not available" as a
+  measured result, and independent evidence for [CLAIM-514](CLAIM-514.md)'s family of
   query-relative capabilities. Toy scale, tabular, one budget choice. The
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
@@ -47,7 +47,7 @@ summary: >-
 
 ## The claim
 
-CASE-tmp6hkf9 matched three architectures exactly on goal success.
+[CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md) matched three architectures exactly on goal success.
 It asked five query families of each:
 - next state;
 - shortest distance;
@@ -75,8 +75,8 @@ Two results hold together.
 
 So "the agent can answer predictive queries" is not one capability, and
 competence on the goals does not fix which of them an agent has. That is
-CLAIM-514's family of query-relative, resource-bounded capabilities
-measured once. It is also QUESTION-362's "what an investigator can
+[CLAIM-514](CLAIM-514.md)'s family of query-relative, resource-bounded capabilities
+measured once. It is also [QUESTION-362](../questions.d/QUESTION-362.md)'s "what an investigator can
 recover from an agent is not what the agent can recover from itself".
 
 ## What it does not say
@@ -86,7 +86,7 @@ recover from an agent is not what the agent can recover from itself".
   claim reports both answers and does not settle it.
 - **Anything beyond the class.** The setting is tabular and deterministic,
   with reach goals. In it a value table encodes the next state trivially.
-  Richens et al.'s composite-goal extraction (CLAIM-513) is neither
+  Richens et al.'s composite-goal extraction ([CLAIM-513](CLAIM-513.md)) is neither
   tested nor needed.
 - **That the budgets are canonical.** Another budget moves the boundary.
   The claim is that some boundary separates families by architecture at

@@ -73,7 +73,7 @@ It asks what that theorem leaves open.
 
 ## Note of 2026-11-22: executed at toy scale
 
-CASE-tmp6hkf9 runs this design for LEAD-160 on twenty 8x8 gridworld
+[CASE-tmp6hkf9](CASE-tmp6hkf9.md) runs this design for [LEAD-160](../leads.d/LEAD-160.md) on twenty 8x8 gridworld
 mazes. The architectures are tabular: a transition table with value
 iteration, goal-conditioned Q-learning, and action-conditioned occupancy
 demons. Goal competence is matched exactly. Each of the four readings in
@@ -82,11 +82,11 @@ demons. Goal competence is matched exactly. Each of the four readings in
 - **Goals and read-out queries are linked.** Competence predicts read-out
   query competence for all three.
 - **Goals and within-budget queries come apart.** Query competence within
-  each agent's own budget separates by query family (CLAIM-tmpq92r4).
+  each agent's own budget separates by query family ([CLAIM-tmpq92r4](../claims.d/CLAIM-tmpq92r4.md)).
 - **Interventions separate what the first two tests do not.** A
   unit-level intervention separates the planner from a value learner with
   identical behaviour. A content-level intervention lets the distributed
-  predictor match the planner without a table (CLAIM-tmpo59pd).
+  predictor match the planner without a table ([CLAIM-tmpo59pd](../claims.d/CLAIM-tmpo59pd.md)).
 - **Recovery after damage favours the explicit table.** The planner
   recovers fastest and alone localizes the damage, though the same damage
   first costs it more.

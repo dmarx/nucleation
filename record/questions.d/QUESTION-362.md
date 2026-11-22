@@ -114,18 +114,18 @@ The proposed study [CASE-187](../cases.d/CASE-187.md) is one route.
 
 ## Note of 2026-11-22: a toy run of the proposed study
 
-CASE-tmp6hkf9 ran CASE-187 at toy scale. It bears on four rows of the
+[CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md) ran [CASE-187](../cases.d/CASE-187.md) at toy scale. It bears on four rows of the
 table.
 
 - **Recoverable is not available.** With goal competence matched exactly,
   next states, distances, occupancies and post-intervention answers could
   be read out of all three agents equally well. Within its own
   per-decision computation, each answered a different family
-  (CLAIM-tmpq92r4).
+  ([CLAIM-tmpq92r4](../claims.d/CLAIM-tmpq92r4.md)).
 - **Realized mechanism.** A targeted intervention separated two agents
   with identical behaviour. It did so relative to its declared scope: a
   content-level edit made the distributed predictor respond as the planner
-  does, with no table (CLAIM-tmpo59pd).
+  does, with no table ([CLAIM-tmpo59pd](../claims.d/CLAIM-tmpo59pd.md)).
 - **Maintenance and revision.** The explicit table recovered fastest from
   change and damage. Its prediction error flagged exactly the damaged
   units. The TD errors of the other two flagged most undamaged units as

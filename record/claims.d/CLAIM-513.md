@@ -91,13 +91,13 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: recoverability in a toy run
 
-In CASE-tmp6hkf9, at full coverage, a transition table could be read out
+In [CASE-tmp6hkf9](../cases.d/CASE-tmp6hkf9.md), at full coverage, a transition table could be read out
 exactly from all three agents: a planner, a goal-conditioned value learner
 and a bank of occupancy predictors. The read-out from the value learner
 is the reach-goal shadow of this claim's composite-goal extraction. The
 next state is the goal valued 1, which is trivial for tabular reach
 goals. The run does not test the theorem. It shows the gap the claim
 leaves open: what is recoverable did not fix what each agent could answer
-within its own computation (CLAIM-tmpq92r4).
+within its own computation ([CLAIM-tmpq92r4](CLAIM-tmpq92r4.md)).
 
 No status, title or warrant changes.
