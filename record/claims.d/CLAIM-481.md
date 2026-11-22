@@ -55,6 +55,7 @@ summary: >-
   from. Conceded, so Active. It gives a mechanism for [CLAIM-478](CLAIM-478.md)'s
   second half and is not a test of individuality.
 ---
+<!-- inactive-ok-file: THEORY-tmpgdriu — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2012 THEORY-2018 THEORY-2033 THEORY-2043 THEORY-2047 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 CLAIM-157 — Rejected or Proposed; the conjecture this answers and the claims it serves -->
@@ -217,3 +218,11 @@ to an instability, which is CLAIM-478's second half rather than this
 claim's dissipative splitting of collective and relative modes; far from
 threshold it makes none. Consistent with this claim: coupling does not by
 itself separate time scales.
+
+## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
+
+A parallel, no edge. In their hierarchically modular networks
+(THEORY-tmpgdriu) the gaps between time scales come from the Laplacian
+spectrum of the network's modular structure, the mechanism this claim gives
+for a Laplacian flow, and the authors use the gaps to explain which states
+appear in which layer.

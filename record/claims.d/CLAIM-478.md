@@ -101,6 +101,7 @@ summary: >-
 bears_on:
 - QUESTION-391
 ---
+<!-- inactive-ok-file: THEORY-tmpgdriu THEORY-tmpq02z9 THEORY-tmpqdy16 THEORY-tmpkt3xf THEORY-tmpp4w4k THEORY-tmp31kx6 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq THEORY-tmpmvcnr THEORY-tmp0d58z ARG-tmp5xhiv — Proposed or new; the reading of Ott and Antonsen for LEAD-094 and the verdict filed from it -->
 <!-- inactive-ok-file: THEORY-tmpdfeto NOTE-tmpcjw5n — Proposed or Skimmed; the reading of Toner and Tu (1998), 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
@@ -576,3 +577,35 @@ half: the collective mode's damping rate Δ − K/2 goes to zero while the
 approach to the manifold stays at least Δ, so the instability makes the
 separation. No status change; choosing between the readings is the
 owner's.
+
+## Note of 2026-11-22 (later): the rest of LEAD-094's batch, read
+
+Six more of the batch's works were read or skimmed for LEAD-094.
+
+- **Caprioglio and Berthouze 2024** (THEORY-tmpgdriu, corroborates). In
+  simulations of identical phase-frustrated oscillators on hierarchically
+  modular networks, a module stays coherent, "a single macro-oscillator",
+  only while the spectral gap between the lowest two layers is large; below
+  a threshold the slower modes break it up. That is this claim's first half
+  with its version-5 condition, a gap between levels large against the
+  spread within. Their reduction of the network to an Ott–Antonsen-solvable
+  model held only with a large gap, which supports CLAIM-tmpa694z.
+- **Augustsson and colleagues 2026** (THEORY-tmpq02z9, a parallel). Slowly
+  adapting weights carry a self-organized split of identical oscillators,
+  and the fast phases keep to it through changes of their own dynamics;
+  the separation is imposed, not varied, so it is no test.
+- **Kaur, Jain and Berman 2026** (THEORY-tmpqdy16, a parallel). Slow
+  behavioral states that organize fast movement are found as metastable
+  basins; a wide gap between rates hides them from a single-resolution
+  analysis. The separation that makes a level can hide it from a
+  single-scale observer.
+- **Schmietendorf 2026** (THEORY-tmpkt3xf, a caution on wording). The
+  slaving principle supports by itself only a descriptive reading; this
+  claim's "constraint" is Montévil and Mossio's, time-scale relative, and
+  should not be read as the causal reading Stephan warns against.
+- **Lee and colleagues 2025** and **Hancock and colleagues 2024**
+  (THEORY-tmpp4w4k, THEORY-tmp31kx6) bear on QUESTION-281 rather than here.
+
+Haken 1975 and Yadav and colleagues 2026 have no lawful copy (both
+Unavailable); Fenichel 1979 and Knobloch 2015 stay Unfetched. No status
+change.

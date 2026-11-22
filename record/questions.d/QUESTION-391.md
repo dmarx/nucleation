@@ -28,6 +28,7 @@ summary: >-
   and whether they reduce to time-scale conditions. The wording is A's;
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpgdriu — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmp0d58z CLAIM-tmpa694z CLAIM-tmpervl4 — Proposed; the reading of Ott and Antonsen 2009 and the verdict filed from it, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the record's claim on scale separation, cited as the held time-scale form -->
 <!-- inactive-ok-file: QUESTION-287 — Answered; cited as the part of the question the record has settled -->
@@ -101,3 +102,14 @@ become dynamically important when the mechanism hiding them from the order
 parameter, dephasing, stops, not because their rates change.
 THEORY-tmp0d58z bears on this question; CLAIM-tmpa694z and CLAIM-tmpervl4
 bear on it through CLAIM-478's defeater (a).
+
+## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
+
+A second case (THEORY-tmpgdriu). Coarse-graining a hierarchically modular
+oscillator network to its slow Laplacian modes reproduced the
+two-population model only while the gap to the fast modes was large; as
+the gap closed "the contribution from the fast modes should not be
+discarded", and the lowest-layer modules lost coherence. Here the
+suppressed degrees of freedom return as the rate gap closes, unlike Ott and
+Antonsen's case above, where they return when dephasing stops.
+THEORY-tmpgdriu bears on this question.

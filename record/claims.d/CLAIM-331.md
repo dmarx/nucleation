@@ -94,6 +94,7 @@ summary: >-
 complements:
 - CLAIM-327
 ---
+<!-- inactive-ok-file: THEORY-tmpqdy16 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -290,3 +291,11 @@ the environment sets. That is a reason, beyond [CASE-116](../cases.d/CASE-116.md
 slowness define a level.
 
 The claim is unchanged.
+
+## Note of 2026-11-22: Kaur, Jain and Berman, read
+
+A parallel, no edge. Kaur, Jain and Berman (THEORY-tmpqdy16) find slow
+behavioral states, which bias fast movement, as metastable basins in a
+transfer operator's slow eigenvectors: slowness as an operational mark of
+a behavioral level. They add a caution: where the gap between fast and
+slow rates is wide, a single-resolution analysis misses the slow level.

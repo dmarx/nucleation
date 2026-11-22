@@ -134,6 +134,7 @@ bears_on:
 - QUESTION-218
 - QUESTION-219
 ---
+<!-- inactive-ok-file: THEORY-tmpgdriu — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-tmpwyp15 CLAIM-tmpjwc0h — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
@@ -438,3 +439,15 @@ a weakly coupled block: the nonlinear counterpart of CLAIM-388, and the gap
 between closure and block that QUESTION-218 asks about. The whole
 population, isolated, passes this criterion trivially. The criterion is
 unchanged.
+
+## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
+
+Evidence, weak (THEORY-tmpgdriu corroborates this claim). In simulations
+of identical phase-frustrated oscillators on three-layer hierarchically
+modular networks, each lowest-layer module acts as "a single
+macro-oscillator" only while the Laplacian's spectral gap between the
+lowest two layers is large; below a threshold (near 2 in their model) its
+members desynchronize and resynchronize under the slower modes. The
+gap-isolated block is the unit, with a numerical threshold for one network
+family; the paper does not compare the gap with an Occam factor. The
+criterion is unchanged.

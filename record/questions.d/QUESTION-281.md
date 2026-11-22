@@ -31,6 +31,7 @@ summary: >-
   ends. An answer names, for a stated system, the transition that made the
   form and the one that would unmake it.
 ---
+<!-- inactive-ok-file: THEORY-tmpq02z9 THEORY-tmp31kx6 THEORY-tmpqdy16 THEORY-tmpp4w4k — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpmvcnr — Proposed; the reading of Ott and Antonsen 2008, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 CLAIM-tmpszhd7 CLAIM-tmpb80wu — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
@@ -364,3 +365,25 @@ with a periodic drive, folds and a limit cycle appear whose bifurcations
 match the full system's. It bears on how a distinction comes into being,
 not on whether creation, stabilization and constitutive role are separate
 achievements. THEORY-tmpmvcnr bears on this question.
+
+## Note of 2026-11-22 (later): the rest of LEAD-094's batch, read
+
+Four readings bear on the question (each THEORY bears on it):
+
+- **Augustsson and colleagues 2026** (THEORY-tmpq02z9). A split of
+  identical oscillators into synchronized and desynchronized groups arises
+  at a transverse instability of synchrony, keeps its membership through a
+  sequence of bifurcations of one group's dynamics, and is remade by
+  crisis-like jumps. Here a form's creation and its persistence come
+  apart: the membership survives while the dynamics changes.
+- **Hancock and colleagues 2024** (THEORY-tmp31kx6). Escape across a
+  barrier by noise (multistability) and passage near saddles or a fixed
+  point's ghost without noise (metastability) are different transitions,
+  perhaps told apart by dwell times, exponential for the first.
+- **Kaur, Jain and Berman 2026** (THEORY-tmpqdy16). Measured behavioral
+  states as metastable basins with heavy-tailed residences, which fit
+  neither of Hancock's two cases.
+- **Lee and colleagues 2025** (THEORY-tmpp4w4k). A measured, abrupt passage
+  between collective states of embryos as a slowly drifting interaction
+  crosses a range, with a fall in rate and dissipation at the passage; the
+  kind of transition is not named.

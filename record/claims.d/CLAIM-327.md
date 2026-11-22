@@ -45,6 +45,7 @@ summary: >-
   does not say that such a variable individuates one collective: five
   slow variables sharing a referent may be five processes.
 ---
+<!-- inactive-ok-file: THEORY-tmpd9neo — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1840 LIT-1828 — Unavailable since 2026-10-29; the two Flack 2006 papers, cited in the note of that date as not reached, nothing here rests on them -->
 # CLAIM-327: A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
@@ -207,3 +208,11 @@ claim has not replied.
 
 <!-- inactive-ok-block: CASE-296 — Proposed; a proposed study cited for the test it proposes, nothing here rests on it -->
 The wait named on 2026-10-30 is not over. No case in the record shows the second or third stage for a real collective: Flack 2012 ([NOTE-1351](../notes.d/NOTE-1351.md)) shows the first only, the two Flack 2006 papers are still Unavailable, and the intervention on members' access that the defeated_if names has not been run or read; the citations filed since ([CASE-296](../cases.d/CASE-296.md)'s intervention arm, 2026-11-19) propose such a test and do not report one. The claim has also not replied to Flack 2017 ([NOTE-1216](../notes.d/NOTE-1216.md)), who puts weak downward causation at use alone, against the summary's "only the third makes the variable an endogenous level", nor said whether members reading a local estimate, as in Vicsek's flock ([NOTE-1228](../notes.d/NOTE-1228.md)), meets its second stage.
+
+## Note of 2026-11-22: Müller, read
+
+A note, no edge. Müller 2026 (THEORY-tmpd9neo) holds that social order
+parameters, dynamical and structural, constrain the interacting
+individuals. On this claim's condition they do so only where members read
+and act on them; the paper does not separate those cases from
+coordination that is only measured.

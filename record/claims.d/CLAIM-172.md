@@ -129,6 +129,7 @@ complements:
 - CLAIM-157
 - CLAIM-616
 ---
+<!-- inactive-ok-file: THEORY-tmpq02z9 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-616 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the owner's challenge that occasioned version 3, open -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-165 — Proposed; the earlier objection this bears on and the open objection to this claim -->
@@ -231,3 +232,11 @@ A contrast with version 5's sharpening, that synchrony matched to the strong cou
 <!-- inactive-ok-file: THEORY-tmp2gc2a — Proposed; filed by LEAD-023 -->
 
 A stronger case than this claim's own ([THEORY-tmp2gc2a](../theory.d/THEORY-tmp2gc2a.md); [NOTE-tmpe2mdk](../notes.d/NOTE-tmpe2mdk.md)). In Wang and Tang's dynamical quorum sensing each cell both senses and shifts a shared signal, so the coupling is mutual through the medium, and the pair's collective variable, the signal's oscillation, does not exist before coupling: the cells are quiescent alone. The claim's HKB cases coordinate oscillators that already exist. This one shows mutual coupling creating the collective variable, which fits the claim's mark and widens its examples. Supports; no status change.
+
+## Note of 2026-11-22: Augustsson and colleagues, read
+
+A parallel, no edge. In Augustsson and colleagues' adaptive network
+(THEORY-tmpq02z9) identical oscillators with no imposed groups split by
+themselves into a mutually entrained cluster and a desynchronized group;
+the cluster carries a collective frequency neither group's members have
+alone. It does not test the claim's sufficiency.
