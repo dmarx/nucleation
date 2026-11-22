@@ -30,13 +30,13 @@ uses:
 - TERM-tmp8b1yl
 - TERM-134
 summary: >-
-  Filed from the reading of Rondon, Kawaguchi and Jhala (THEORY-tmp01mu6,
-  NOTE-tmpnd1kd) for LEAD-tmp3xevc, answering its question of what happens
-  to a program whose refinement fails. It widens CLAIM-tmp764wb from
+  Filed from the reading of Rondon, Kawaguchi and Jhala ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md),
+  [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md), answering its question of what happens
+  to a program whose refinement fails. It widens [CLAIM-tmp764wb](CLAIM-tmp764wb.md) from
   Freeman and Pfenning's declared lattice to the predicate form, and adds
   what that claim could not: under a finite vocabulary and a conservative
   check, failing to check is not failing. It objects to the half of
-  CLAIM-tmpnookt's direction-of-fit correspondence that reads checking as
+  [CLAIM-tmpnookt](CLAIM-tmpnookt.md)'s direction-of-fit correspondence that reads checking as
   requirement. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -46,11 +46,11 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmpnookt reads checking, holding a term to a type given in advance,
-as the world-to-word direction (TERM-tmp8b1yl), with elaboration or
-coercion as the move that fits a term to its type. CLAIM-tmp764wb found
+[CLAIM-tmpnookt](CLAIM-tmpnookt.md) reads checking, holding a term to a type given in advance,
+as the world-to-word direction ([TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)), with elaboration or
+coercion as the move that fits a term to its type. [CLAIM-tmp764wb](CLAIM-tmp764wb.md) found
 that in Freeman and Pfenning's system checking moves nothing. Liquid types
-(THEORY-tmp01mu6) are the predicate form that CLAIM-tmpnookt actually
+([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md)) are the predicate form that [CLAIM-tmpnookt](CLAIM-tmpnookt.md) actually
 writes, and the same holds there, with one thing more.
 
 **Nothing moves the program.** Types given in advance, such as sub's
@@ -80,7 +80,7 @@ or by hand.
 
 So in this system too the direction of fit does not divide checking from
 inference: both ask whether the program as it stands passes. For the
-record it adds a distinction TERM-tmp8b1yl's criterion needs when tests
+record it adds a distinction [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)'s criterion needs when tests
 are checked by a procedure: a test the entry passes can fail to be
 verified, so a failed check is not by itself a world-to-word test. Under
 a closed vocabulary and a conservative check, the entry, the vocabulary
@@ -90,7 +90,7 @@ and the check are three places a failure can lie.
 
 - Not that checking never fits a term to a type in any system. Hybrid type
   checking, which this paper cites for run-time checks, inserts them; it
-  is the elaboration CLAIM-tmpnookt names, in another system, and the lead
+  is the elaboration [CLAIM-tmpnookt](CLAIM-tmpnookt.md) names, in another system, and the lead
   has not read it.
 - Not that the record's own checks are conservative. Most of its tests are
   decided by reading the entry; the distinction bites where a check is a

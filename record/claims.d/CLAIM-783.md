@@ -168,8 +168,8 @@ change.
 ## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
 <!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
 
-A parallel to parts 1 and 6 (no edge). In liquid types (THEORY-tmp01mu6;
-NOTE-tmpnd1kd) inference finds "the strongest conjunction of qualifiers
+A parallel to parts 1 and 6 (no edge). In liquid types ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md);
+[NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) inference finds "the strongest conjunction of qualifiers
 from Q⋆ that satisfies all the constraints" (p. 160), and "if a set of
 constraints has a solution over Q then it has a unique minimum solution"
 (p. 166). The paper does not prove it here. The reason has this claim's

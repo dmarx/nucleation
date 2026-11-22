@@ -250,7 +250,7 @@ What the count cannot reach is this claim's remaining test, a misfit never notic
 <!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
 
 A parallel from type inference (no edge). In liquid types
-(THEORY-tmp01mu6; NOTE-tmpnd1kd) the vocabulary of inferable types is a
+([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) the vocabulary of inferable types is a
 fixed qualifier set. A property it cannot state is lost, as a weaker type
 or a failure, until the programmer notices and adds a qualifier (p. 160).
 The paper names the difficulty this claim names: a failure does not say

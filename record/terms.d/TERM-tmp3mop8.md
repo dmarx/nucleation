@@ -65,7 +65,7 @@ version.
 ## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
 <!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
 
-A contrast (no edge). Liquid types (THEORY-tmp01mu6; NOTE-tmpnd1kd) are
+A contrast (no edge). Liquid types ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) are
 proof-irrelevant, as Freeman and Pfenning's are: the solver's validity
 checks are made and not kept, no derivation is stored, and DSOLVE writes
 the inferred types to .annot files "as documentation" (p. 167). Still, an

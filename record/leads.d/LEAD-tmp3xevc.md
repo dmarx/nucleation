@@ -68,8 +68,8 @@ Krishnaswami reading.
 
 Read beyond the five candidates, at the owner's request after the Freeman
 and Pfenning reading: Rondon, Kawaguchi and Jhala 2008, "Liquid Types"
-(LIT-tmplw76n, NOTE-tmpnd1kd, THEORY-tmp01mu6, with ARG-tmprmcn5,
-ARG-tmp246r1 and CLAIM-tmpcmt21; pull request "Read Rondon, Kawaguchi and
+([LIT-tmplw76n](../literature.d/LIT-tmplw76n.md), [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md), [THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md), with [ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md),
+[ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md) and [CLAIM-tmpcmt21](../claims.d/CLAIM-tmpcmt21.md); pull request "Read Rondon, Kawaguchi and
 Jhala 2008"). The descriptor as a refinement inhabited holds in the
 predicate form, narrowed: inferable descriptors are conjunctions from a
 finite qualifier set, checking is conservative, and no evidence is
@@ -78,4 +78,4 @@ qualifiers and the check allow; checking moves nothing, and a failure may
 lie in the program, the qualifiers or the checker. A reading the lead
 might add: Flanagan 2006, "Hybrid Type Checking", which inserts the
 run-time checks this paper proposes, the nearest case of the elaboration
-CLAIM-tmpnookt names. Offered, not added to the list here.
+[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) names. Offered, not added to the list here.

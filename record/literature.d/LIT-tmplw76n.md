@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmpnd1kd) from the authors' copy linked from
+  read in full 2026-11-22 ([NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) from the authors' copy linked from
   Ranjit Jhala's research page; worth reading as the predicate form of
   refinement types, {ν : B | φ}, and as the paper that makes it inferable by
   restricting φ, where a type must be inferred, to conjunctions of a finite
@@ -59,8 +59,8 @@ summary: >-
   strongest conjunction that a conservative check in a decidable logic can
   verify. A program with no such type is reported, not changed. DSOLVE cuts
   the annotation that DML's array-bounds benchmarks needed from 31% of
-  program text to under 1%. Read in NOTE-tmpnd1kd for LEAD-tmp3xevc's test
-  of CLAIM-tmpnookt; the reading is THEORY-tmp01mu6.
+  program text to under 1%. Read in [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md) for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)'s test
+  of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md); the reading is [THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmpnookt THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; this work's reading, the arguments and claim filed from it, and the claim it tests -->
 
@@ -96,12 +96,12 @@ Design and Implementation (PLDI '08), Tucson, pp. 159–169. ACM. DOI
 
 ## Standing in the record
 
-Filed by LEAD-tmp3xevc as the predicate form of the refinement that
-CLAIM-tmpnookt writes, {x : A | φ(x)}, after Freeman and Pfenning's
-(LIT-tmp858eb, which this paper cites as introducing refinements) turned
+Filed by [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md) as the predicate form of the refinement that
+[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) writes, {x : A | φ(x)}, after Freeman and Pfenning's
+([LIT-tmp858eb](LIT-tmp858eb.md), which this paper cites as introducing refinements) turned
 out to be a declared finite lattice. It bears out the descriptor as a
 predicate refinement the entry inhabits, narrowed where the descriptor
-is to be inferred (ARG-tmprmcn5); it bears out inference as informative
-update and not checking as requirement (ARG-tmp246r1); and it grounds
-CLAIM-tmpcmt21, that a failed check here does not show that the program
+is to be inferred ([ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md)); it bears out inference as informative
+update and not checking as requirement ([ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md)); and it grounds
+[CLAIM-tmpcmt21](../claims.d/CLAIM-tmpcmt21.md), that a failed check here does not show that the program
 fails.

@@ -20,23 +20,23 @@ source:
 corroborates:
 - CLAIM-tmpnookt
 summary: >-
-  Rondon, Kawaguchi & Jhala (2008), LIT-tmplw76n, read in NOTE-tmpnd1kd for
-  LEAD-tmp3xevc. The predicate form of refinement types, made inferable by
+  Rondon, Kawaguchi & Jhala (2008), [LIT-tmplw76n](../literature.d/LIT-tmplw76n.md), read in [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md) for
+  [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). The predicate form of refinement types, made inferable by
   a finite qualifier vocabulary. For the record it is the reading on which
-  CLAIM-tmpnookt's descriptor as a refinement {x : A | φ(x)} the entry
-  inhabits is tested in the form the claim writes (ARG-tmprmcn5); on which
+  [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s descriptor as a refinement {x : A | φ(x)} the entry
+  inhabits is tested in the form the claim writes ([ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md)); on which
   inference is informative update and checking is not shown to be
-  requirement (ARG-tmp246r1); and which grounds CLAIM-tmpcmt21, that a
+  requirement ([ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md)); and which grounds [CLAIM-tmpcmt21](../claims.d/CLAIM-tmpcmt21.md), that a
   failed check does not show that the program fails. Proposed until its
   theorems' proofs are checked and its inference reproduced.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 THEORY-tmp1mruk CLAIM-tmp764wb TERM-tmp3mop8 — Proposed or Rejected; the claim this corroborates, the arguments and claim filed from this reading, and the entries it is read against -->
+<!-- inactive-ok-file: CLAIM-tmpnookt ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 THEORY-tmp1mruk CLAIM-tmp764wb — Proposed or Rejected; the claim this corroborates, the arguments and claim filed from this reading, and the entries it is read against -->
 
 # THEORY-tmp01mu6: Rondon, Kawaguchi and Jhala's liquid types are dependent types {ν : B | φ} whose predicates, wherever a type must be inferred, are conjunctions of qualifiers from a finite set the programmer supplies; inference refines Hindley-Milner types by weakening an assignment of every qualifier to the strongest conjunction that a conservative check in a decidable logic verifies, which keeps checking and inference decidable; the program is never changed, and one with no such type is reported, not repaired
 
 ## Source
 
-Rondon, Kawaguchi & Jhala (2008), LIT-tmplw76n, read in NOTE-tmpnd1kd from
+Rondon, Kawaguchi & Jhala (2008), [LIT-tmplw76n](../literature.d/LIT-tmplw76n.md), read in [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md) from
 the authors' copy (proceedings pages 159 to 169).
 
 ## The account
@@ -77,12 +77,12 @@ checks given types through the same subtyping constraints.
 
 ## Bearing
 
-It corroborates CLAIM-tmpnookt in one correspondence, a descriptor as a
+It corroborates [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) in one correspondence, a descriptor as a
 refinement its entry inhabits, now in the predicate form the claim
 writes, with the vocabulary of inferable descriptors finite and
-conjunctive and no evidence carried (ARG-tmprmcn5). It shows inference as
+conjunctive and no evidence carried ([ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md)). It shows inference as
 informative update and gives no support to checking as requirement
-(ARG-tmp246r1), and grounds CLAIM-tmpcmt21, which widens CLAIM-tmp764wb
-from Freeman and Pfenning's system (THEORY-tmp1mruk) to this one. It
+([ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md)), and grounds [CLAIM-tmpcmt21](../claims.d/CLAIM-tmpcmt21.md), which widens [CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)
+from Freeman and Pfenning's system ([THEORY-tmp1mruk](THEORY-tmp1mruk.md)) to this one. It
 cites Freeman and Pfenning as the origin of refinements, "limited to
 restrictions on the structure of algebraic datatypes" (p. 169).

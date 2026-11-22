@@ -21,10 +21,10 @@ line:
 - record-as-apparatus
 summary: >-
   The route by which the reading of Rondon, Kawaguchi and Jhala
-  (THEORY-tmp01mu6) bears on CLAIM-tmpnookt's correspondence of a
+  ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md)) bears on [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence of a
   descriptor with a refinement the entry provably inhabits. It holds in the
   form the claim writes, {x : A | φ(x)} with φ a predicate, which Freeman
-  and Pfenning's reading (ARG-tmptph3p) could not show. Narrowed in three
+  and Pfenning's reading ([ARG-tmptph3p](ARG-tmptph3p.md)) could not show. Narrowed in three
   ways: a descriptor to be inferred must be a conjunction from a finite
   qualifier set; a descriptor given is checked only conservatively; and
   nothing is carried with the term. The wording is the assistant's
@@ -36,14 +36,14 @@ summary: >-
 
 ## The inference
 
-Source domain, THEORY-tmp01mu6: {ν : B | e} is "the set of values c of the
+Source domain, [THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md): {ν : B | e} is "the set of values c of the
 base type B such that the predicate [c/ν]e evaluates to true" (p. 160);
 every liquid type refines the term's ML type; inference finds, for each
 unknown, "the strongest conjunction of qualifiers from Q⋆ that satisfies
 all the constraints" (p. 160), starting from all of them and weakening;
 the program never changes.
 
-Target, CLAIM-tmpnookt with CLAIM-783 and TERM-134: a descriptor is a
+Target, [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) with [CLAIM-783](../claims.d/CLAIM-783.md) and [TERM-134](../terms.d/TERM-134.md): a descriptor is a
 predicate the entry passes when it is added; adding it narrows the
 admissible set and moves nothing; descriptors never conflict, the entry
 passing them all.
@@ -56,12 +56,12 @@ qualifier set to the closed vocabulary of descriptors.
 ## Critical questions
 
 - **Are the two alike in the respects the conclusion needs?** Yes, and
-  more closely than Freeman and Pfenning's were (ARG-tmptph3p). The
+  more closely than Freeman and Pfenning's were ([ARG-tmptph3p](ARG-tmptph3p.md)). The
   refinement is a predicate on values of a type the term already has, the
   claim's own form; and inference ends at a conjunction every qualifier of
   which the term's values pass, by weakening the description, never the
   term. The unique strongest solution (p. 166) is the witness argument of
-  CLAIM-783: qualifiers each true of what flows to a point can be
+  [CLAIM-783](../claims.d/CLAIM-783.md): qualifiers each true of what flows to a point can be
   conjoined.
 - **Are there differences that defeat it?** Three that narrow it. Where a
   type is inferred, φ must be a conjunction of qualifiers from a finite set
@@ -72,7 +72,7 @@ qualifier set to the closed vocabulary of descriptors.
   checking is undecidable" (p. 163), so a predicate the term passes can
   fail to check, and "provably inhabits" means provable by that check. And
   nothing is carried: derivations and solver checks are not kept, so the
-  claim's proof-relevant reading (TERM-tmp3mop8) gets no support. One more:
+  claim's proof-relevant reading ([TERM-tmp3mop8](../terms.d/TERM-tmp3mop8.md)) gets no support. One more:
   for a function's inputs the inferred type is relative to the program's
   calls, and with none it is the strongest the vocabulary states, of no
   witnessed value (p. 167); the record's descriptors are of versions that

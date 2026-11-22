@@ -86,7 +86,7 @@ without certificate in the sense above ([ARG-tmptph3p](../arguments.d/ARG-tmptph
 <!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
 
 A parallel, from the other side (no edge). Liquid inference
-(THEORY-tmp01mu6; NOTE-tmpnd1kd) types a function's inputs as the
+([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) types a function's inputs as the
 strongest supertype of the arguments the program passes. With no calls,
 its neg example gets {0 ≤ ν ∧ 0 ≥ ν} → {0 ≤ ν ∧ 0 ≥ ν}, "useless but
 sound" (p. 167): the strongest description the qualifiers state, true of

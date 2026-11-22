@@ -33,7 +33,7 @@ summary: >-
   decidable logic. Checking and inference are decidable; a program with no
   liquid type is reported, and nothing in the program is changed.
 ---
-<!-- inactive-ok-file: THEORY-tmp1mruk ARG-tmptph3p ARG-tmp5r67s CLAIM-tmp764wb CLAIM-tmpnookt CLAIM-783 CLAIM-tmpmk056 CLAIM-181 TERM-134 TERM-tmp7s2aa TERM-tmp8b1yl TERM-tmp3mop8 THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; this reading's account, what was filed from it, and the entries it bears on -->
+<!-- inactive-ok-file: THEORY-tmp1mruk CLAIM-tmp764wb CLAIM-tmpnookt CLAIM-783 CLAIM-181 TERM-134 TERM-tmp7s2aa TERM-tmp8b1yl TERM-tmp3mop8 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; this reading's account, what was filed from it, and the entries it bears on -->
 
 # NOTE-tmpnd1kd: Rondon, Kawaguchi and Jhala — Liquid Types
 
@@ -166,7 +166,7 @@ The lead's four questions, answered in turn.
 
 - **(a) Is {ν : B | φ}, φ a conjunction of qualifiers, the descriptor's
   form?** The form {ν : B | e} is the paper's own, with e any boolean
-  expression (result 1): the {x : A | φ(x)} that CLAIM-tmpnookt writes,
+  expression (result 1): the {x : A | φ(x)} that [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) writes,
   with B a base type rather than any type. A liquid type is the subclass
   in which φ is a conjunction from a finite qualifier set, and the paper
   requires it only where a type must be inferred (result 2); types given
@@ -177,9 +177,9 @@ The lead's four questions, answered in turn.
   mechanically only from a vocabulary fixed in advance, closed under
   conjunction and not disjunction (result 4); and a descriptor checked by
   a conservative procedure can be true and still fail to check. Against
-  Freeman and Pfenning (THEORY-tmp1mruk), the finite declared vocabulary
+  Freeman and Pfenning ([THEORY-tmp1mruk](../theory.d/THEORY-tmp1mruk.md)), the finite declared vocabulary
   survives, now of predicates instead of datatype refinements
-  (ARG-tmprmcn5).
+  ([ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md)).
 - **(b) Is the inferred type the strongest descriptor available, and is
   inference informative update?** The strongest conjunction from Q⋆ that
   satisfies the constraints and that the conservative check can verify,
@@ -189,7 +189,7 @@ The lead's four questions, answered in turn.
   strongest supertype of the arguments that reach it (result 6); with no
   calls it is the strongest the qualifiers can say, true of no argument
   given, "useless but sound". Inference is informative update in
-  TERM-tmp8b1yl's sense: the algorithm starts from a description too
+  [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)'s sense: the algorithm starts from a description too
   strong and weakens it until the program passes, and never moves the
   program; when a candidate description fails, the description gives way.
 - **(c) What happens to a program whose refinement fails?** It is
@@ -202,28 +202,28 @@ The lead's four questions, answered in turn.
   inserted, after Flanagan's hybrid type checking, which this paper
   proposes and does not do (the program moves, by a tool other than this
   one), or the programmer fixes the program (blit). This widens
-  CLAIM-tmp764wb from Freeman and Pfenning's system to the predicate form
-  (CLAIM-tmpcmt21), and leaves CLAIM-tmpnookt's checking as requirement
-  without support here (ARG-tmp246r1).
+  [CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md) from Freeman and Pfenning's system to the predicate form
+  ([CLAIM-tmpcmt21](../claims.d/CLAIM-tmpcmt21.md)), and leaves [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s checking as requirement
+  without support here ([ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md)).
 - **(d) Does the system carry evidence?** No. Typing is proof-irrelevant,
   as in Freeman and Pfenning: validity checks by the solver are made and
   not kept; the derivation is not stored; the inferred types are printed
   "as documentation" (result 9). An inferred assignment would make a
-  certificate in TERM-tmp3mop8's sense, each constraint then a single
+  certificate in [TERM-tmp3mop8](../terms.d/TERM-tmp3mop8.md)'s sense, each constraint then a single
   validity check rather than a search, but the paper neither keeps one
   for rechecking nor says so; that reading is the filer's.
-- **CLAIM-783** (parallel). The unique minimum solution has the shape of
+- **[CLAIM-783](../claims.d/CLAIM-783.md)** (parallel). The unique minimum solution has the shape of
   part 6, descriptors never conflict: qualifiers each implied for the
   values reaching a point can be conjoined, so the union of solutions is
   a solution. The paper asserts the uniqueness and does not prove it here.
-- **TERM-134 and CLAIM-181** (parallel). The qualifier set is a closed
+- **[TERM-134](../terms.d/TERM-134.md) and [CLAIM-181](../claims.d/CLAIM-181.md)** (parallel). The qualifier set is a closed
   vocabulary, extended by the programmer when inference fails, as the
   record adds a topic by decision and amends its grammar for a move it
   cannot hold.
-- **TERM-tmp7s2aa** (parallel). With no argument flowing in, the inferred
+- **[TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md)** (parallel). With no argument flowing in, the inferred
   input type is the strongest available and witnessed by nothing; the
   witness the record relies on is what rules this out.
-- **THEORY-1094** (parallel). CEGAR, which the paper cites as the route
+- **[THEORY-1094](../theory.d/THEORY-1094.md)** (parallel). CEGAR, which the paper cites as the route
   to new qualifiers, refines an abstraction by adding the predicates a
   spurious counterexample shows missing; here a failed type would add
   qualifiers.

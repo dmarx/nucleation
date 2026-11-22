@@ -92,7 +92,7 @@ outside the procedure.
 <!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
 
 A later use proposed (no edge). Rondon, Kawaguchi and Jhala
-(THEORY-tmp01mu6; NOTE-tmpnd1kd) cite this procedure as the route to
+([THEORY-tmp01mu6](THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md)) cite this procedure as the route to
 better errors for liquid types: "devise a notion of type counterexample"
 and check whether it is feasible, "or if not, to lazily extract new
 qualifiers from the counterexample" (p. 169). The refinement step would

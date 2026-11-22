@@ -137,14 +137,14 @@ correspondence that fails on its own terms: the first holds narrowed, and
 the second was not tested by this paper. No change to the claim's status.
 
 ## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
-<!-- inactive-ok-file: THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 CLAIM-tmp764wb — Proposed or Rejected; filed from the reading for LEAD-tmp3xevc -->
+<!-- inactive-ok-file: THEORY-tmp01mu6 ARG-tmprmcn5 ARG-tmp246r1 CLAIM-tmpcmt21 — Proposed or Rejected; filed from the reading for LEAD-tmp3xevc -->
 
-Rondon, Kawaguchi and Jhala 2008 (THEORY-tmp01mu6, corroborates;
-NOTE-tmpnd1kd; LIT-tmplw76n), the predicate form of refinement types,
+Rondon, Kawaguchi and Jhala 2008 ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md), corroborates;
+[NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md); [LIT-tmplw76n](../literature.d/LIT-tmplw76n.md)), the predicate form of refinement types,
 read after Freeman and Pfenning's turned out to be a declared lattice.
 
 - **A descriptor as a refinement the entry inhabits: borne out in the
-  form written here, narrowed** (ARG-tmprmcn5). Their base refinement
+  form written here, narrowed** ([ARG-tmprmcn5](../arguments.d/ARG-tmprmcn5.md)). Their base refinement
   {ν : B | e}, e any boolean expression, is "the set of values c of the
   base type B such that the predicate [c/ν]e evaluates to true" (p. 160):
   this claim's {x : A | φ(x)}. Inference only weakens a description until
@@ -156,7 +156,7 @@ read after Freeman and Pfenning's turned out to be a declared lattice.
   passes can fail to check; and nothing is carried with the term, so
   "provably inhabits" means only that the check succeeded.
 - **The direction of fit as inferring against checking: half borne
-  out** (ARG-tmp246r1, Rejected as a route; CLAIM-tmpcmt21, a counter).
+  out** ([ARG-tmp246r1](../arguments.d/ARG-tmp246r1.md), Rejected as a route; [CLAIM-tmpcmt21](CLAIM-tmpcmt21.md), a counter).
   Inference is informative update. Checking against a type given in
   advance moves nothing, a program that fails is reported, and the failure
   may lie in the qualifier set or the checker rather than the program. The

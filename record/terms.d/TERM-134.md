@@ -99,7 +99,7 @@ informal in code comments" (p. 2). Parallels only; the definition stands.
 ## Note of 2026-11-22: Rondon, Kawaguchi and Jhala, read
 <!-- inactive-ok-file: THEORY-tmp01mu6 — Proposed; filed for LEAD-tmp3xevc -->
 
-A parallel (no edge). In liquid types (THEORY-tmp01mu6; NOTE-tmpnd1kd)
+A parallel (no edge). In liquid types ([THEORY-tmp01mu6](../theory.d/THEORY-tmp01mu6.md); [NOTE-tmpnd1kd](../notes.d/NOTE-tmpnd1kd.md))
 the descriptors that can be inferred are conjunctions from a finite set
 of qualifiers the programmer supplies. A property the set cannot state is
 not inferred, and the paper's remedy is "to manually add more qualifiers"
