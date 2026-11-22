@@ -57,7 +57,7 @@ summary: >-
   task-unrelated thought was measured; meta-awareness, the onset and end
   of episodes, and the participant's sense of control were not.
 ---
-<!-- inactive-ok-file: LIT-tmp9cpfz LIT-tmpg3vlm NOTE-tmp7gplv ARG-tmpqszyu — new in this filing; the reading, the two replications and the support verdict, cited as open -->
+<!-- inactive-ok-file: ARG-tmpqszyu — new in this filing and Proposed; the readings and the support verdict, cited as open -->
 
 # LIT-tmpquab4: Increasing propensity to mind-wander with transcranial direct current stimulation
 
@@ -87,8 +87,8 @@ Read in full in NOTE-tmp7gplv.
 ## Standing in the record
 
 Registered and read for LEAD-141, because Metzinger's 2017 chapter
-(LIT-1945, p. 14) cites it, with Broadway et al.'s commentary, as an "early
-example of relevant studies" for his H1, that "selectively blocking [the
+(LIT-1945, p. 14) cites it, with Broadway et al.'s commentary, among the "early
+examples of relevant studies" for his H1, that "selectively blocking [the
 epistemic agent model's] introspective availability should suffice to
 trigger a mind wandering episode". The reading finds it is not a test of
 H1, for the reasons in NOTE-tmp7gplv and ARG-tmpqszyu. Its main effect is

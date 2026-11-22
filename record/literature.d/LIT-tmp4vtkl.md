@@ -44,7 +44,6 @@ summary: >-
   one becomes meta-aware of, more meta-awareness could raise reported
   mind-wandering. A hypothesis about the measure, not a study.
 ---
-<!-- inactive-ok-file: NOTE-tmp58cil LIT-tmpquab4 LIT-tmpg3vlm — new in this filing; the reading, the study it answers and the study that tested it, cited as open -->
 
 # LIT-tmp4vtkl: Transcranial direct current stimulation to lateral prefrontal cortex could increase meta-awareness of mind wandering
 

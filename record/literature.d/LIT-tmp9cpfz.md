@@ -57,7 +57,6 @@ summary: >-
   montage's electric field as diffuse, variable across heads and reaching
   the medial prefrontal cortex.
 ---
-<!-- inactive-ok-file: NOTE-tmps966y LIT-tmpquab4 LIT-tmpg3vlm — new in this filing; the reading, the original and the positive replication, cited as open -->
 
 # LIT-tmp9cpfz: Increasing propensity to mind-wander by transcranial direct current stimulation? A registered report
 

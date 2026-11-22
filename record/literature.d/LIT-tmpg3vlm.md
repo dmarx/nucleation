@@ -56,7 +56,6 @@ summary: >-
   meta-awareness". The original's slight gain in target detection did
   not replicate.
 ---
-<!-- inactive-ok-file: NOTE-tmp36b7e LIT-tmpquab4 LIT-tmp9cpfz — new in this filing; the reading, the original and the failed replication, cited as open -->
 
 # LIT-tmpg3vlm: Transcranial stimulation of the frontal lobes increases propensity of mind-wandering without changing meta-awareness
 

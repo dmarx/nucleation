@@ -1,0 +1,92 @@
+---
+status: Read
+paper: LIT-tmp4vtkl
+title: 'Fox and Christoff — Prefrontal tDCS could increase meta-awareness of mind wandering'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read in full 2026-11-22 from the PubMed Central page
+    (pmc.ncbi.nlm.nih.gov/articles/PMC4434747/): the letter's four
+    paragraphs and its five references. Read beside LIT-tmpquab4 as a
+    supplement (ADR-114). None of the works it cites was read.
+date: '2026-11-22'
+summary: >-
+  A letter proposing that the prefrontal stimulation in LIT-tmpquab4 may
+  have raised meta-awareness of mind-wandering, so that more of it was
+  noticed and reported, in addition to or instead of raising its
+  frequency. It cites TMS that impaired metacognitive awareness and
+  neurofeedback that raised it. No data of its own.
+---
+<!-- inactive-ok-file: THEORY-1300 — Proposed; Metzinger's account, cited as open -->
+
+# NOTE-tmp58cil: Fox and Christoff — Prefrontal tDCS could increase meta-awareness of mind wandering
+
+## Contribution
+
+It names the confound in LIT-tmpquab4's measure: probe reports count the
+mind-wandering a person becomes aware of, so a change in reports may be a
+change in awareness.
+
+## Key insight
+
+"The mind wandering that participants report in an experimental setting
+might merely represent that portion of thought that they become meta-aware
+of, either during the mind wandering itself or shortly thereafter."
+
+## Assumptions
+
+- Lateral prefrontal regions are "critically involved in meta-awareness of
+  internal states and mental content", after Fleming and Dolan (2012).
+- Mind-wandering "frequently occurs below the level of conscious
+  awareness", after Schooler et al. (2011): self-caught reports are far
+  fewer than probe-caught ones.
+
+## Key results
+
+- No data. Two cited results: theta-burst TMS to dorsolateral PFC "severely
+  impaired meta-awareness" (Rounis et al. 2010); up-regulating rostrolateral
+  PFC by real-time fMRI neurofeedback "correlated with enhanced
+  meta-awareness of internal thought streams" (McCaig et al. 2011).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The tDCS in LIT-tmpquab4 may have raised meta-awareness of mind-wandering | weak; a hypothesis | cited links between lateral PFC and meta-awareness |
+
+## Concepts
+
+- **Meta-awareness** — noticing that one's mind has wandered; "there are
+  major interindividual differences in the capacity to notice that one's
+  mind has wandered".
+
+## Connections
+
+A letter on LIT-tmpquab4. LIT-tmpg3vlm tested its hypothesis with a
+meta-awareness probe and found no change.
+
+## Bearing on the record
+
+- **Metzinger's H1, THEORY-1300.** Its cited TMS result is closer to H1's
+  manipulation than the tDCS study is: a stimulation that impaired
+  metacognitive awareness. That study (Rounis et al. 2010) concerns visual
+  metacognition, not mind-wandering, and was not read. The letter's own
+  hypothesis runs the other way from H1: stimulation increasing the
+  agent's awareness of its thought, which on H1's logic should reduce
+  mind-wandering, not raise it. No edge.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- **No data**; a single paragraph of argument.
+- **The direction is not worked out**: more meta-awareness would raise
+  reports of mind-wandering on its measurement argument, but would also,
+  on the regulatory view it cites, end episodes sooner. The letter does
+  not say which should dominate.
+
+## Open questions
+
+- Does a manipulation of meta-awareness alone change mind-wandering, and
+  in which direction?
