@@ -40,7 +40,7 @@ Where the record names it:
 
 Filing it answers part of [QUESTION-127](../questions.d/QUESTION-127.md).
 
-## Note of 2026-11-22: already held, by CLAIM-629
+## Note of 2026-11-22: already held, by [CLAIM-629](../claims.d/CLAIM-629.md)
 
 A lead worker took this lead up and found that the corollary it names is
 already on the record. The curation entry of 2026-11-07 (082259) lists it
@@ -49,15 +49,15 @@ of every function-preserving symmetry that is a diffeomorphism of the
 parameters. A test with a fixed Euclidean budget is not: with f =
 v·relu(ux) and a rescaling by one half, the squared gradient norm is 612
 at (4, 1) and 288 at its image (2, 2)". The same review did file it, as
-CLAIM-629 (dated 2026-11-07, demonstrated, resting on CLAIM-366 and
-CLAIM-365), and the status review of 2026-11-20 made it Active and split
-the part of QUESTION-127 it answers off as QUESTION-499, now Answered.
+[CLAIM-629](../claims.d/CLAIM-629.md) (dated 2026-11-07, demonstrated, resting on [CLAIM-366](../claims.d/CLAIM-366.md) and
+[CLAIM-365](../claims.d/CLAIM-365.md)), and the status review of 2026-11-20 made it Active and split
+the part of [QUESTION-127](../questions.d/QUESTION-127.md) it answers off as [QUESTION-499](../questions.d/QUESTION-499.md), now Answered.
 The backlog audit of 2026-11-19 read the curation entry's "not filed"
 and did not see that.
 
-- **No new claim filed.** Under ADR-072 an idea gets a code when the
+- **No new claim filed.** Under [ADR-072](../decisions.d/ADR-072.md) an idea gets a code when the
   record does not already hold it; a second code would duplicate
-  CLAIM-629, whose statement, proof and example are the corollary's.
+  [CLAIM-629](../claims.d/CLAIM-629.md), whose statement, proof and example are the corollary's.
 - **The checks re-run on 2026-11-22, unchanged.** In
   scratch/formal/orbit_descent_check.py the chain rule holds, common
   descent agrees on all 300 rescalings and swaps, and the Euclidean Φ_r
@@ -67,11 +67,11 @@ and did not see that.
   hand: with x = y = 1 the gradient is (6, 24) at (4, 1) and (12, 12) at
   (2, 2), squared norms 612 and 288, and diag(½, 2)ᵀ(12, 12) = (6, 24), as
   the chain rule requires.
-- **The title is mislabelled.** QUESTION-127 is about which frustration
+- **The title is mislabelled.** [QUESTION-127](../questions.d/QUESTION-127.md) is about which frustration
   diagnoses survive function-preserving symmetries and trajectories, not
   about reinforcing loops.
-- **What remains of QUESTION-127** is not this lead's: symmetries that are
-  not diffeomorphisms (CLAIM-305), the compatibility complex (CLAIM-555),
+- **What remains of [QUESTION-127](../questions.d/QUESTION-127.md)** is not this lead's: symmetries that are
+  not diffeomorphisms ([CLAIM-305](../claims.d/CLAIM-305.md)), the compatibility complex ([CLAIM-555](../claims.d/CLAIM-555.md)),
   governance regret, modular localization, and trajectories.
 
 Nothing remains of this lead. Marking it Done, and whether to retitle it,
