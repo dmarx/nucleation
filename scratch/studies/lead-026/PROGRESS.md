@@ -51,16 +51,24 @@ couple), unfiled.
 ## Done
 
 - Step 1 check; branch pushed.
-- model.py, calibrate.py, calibration.json (done), measures.py.
-- test_lead026.py: 10 tests pass.
-- run.py running (PID 26074); A and B observational items done, A Ahat
-  recomputed.
-- Early results: A: block = members + driver, members alone rejected
-  while the driver is observed, passed when it is hidden. B: members a
-  block at every window, W = 1 included (seen through persistence); its
-  internal ln BF jumps at W = 8 = L.
+- model, calibration, measures, 11 tests passing, run complete
+  (results.jsonl, 84 items, deduplicated; summary.txt), README.
+
+## Results (summary.txt, key table)
+
+- Block membership: A, C, C0 -> members + e at every window; B ->
+  members alone at every window. With e hidden, every arm's members pass.
+- B's internal ln BF peaks at W = 8 = L (10909 at W = 7, 18290 at W = 8).
+- C's members -> institution coupling kept at W <= 4 only (373, 85), then
+  priced out; C0 and A agree on every measure.
+- Members' A(D) with e in E: B 0.20 nats at D = 64; A, C, C0 zero by D = 8.
+- Ahat of B's members falls to 0.02 by D = 32 against A = 0.31: an
+  intervention on the present slice misses the stored norms of the last
+  L steps.
+- TE into members: A 0.15, C 0.11, C0 0.16, B 0.00 (e observed); 0 in all
+  with e hidden.
 
 ## Next
 
-- tests; run.py (block search over all 255 subsets, W = 1..16; Krakauer
-  profile; TE; Ahat by intervention; hidden-driver variant).
+- File CASE (executed-study), CLAIM, notes on QUESTION-115, QUESTION-116,
+  CLAIM-157, CLAIM-194, CASE-101, LEAD-026; changelog fragment.

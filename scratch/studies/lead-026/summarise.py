@@ -68,6 +68,29 @@ def main():
             k = r["krakauer_e_hidden"]
             w(f"{r['label']:9s} " + " ".join(f"{k[str(D)]['A']:6.3f}" for D in p["lags"]) +
               f" | TE16 {r['te_e_hidden']['16']:.3f}")
+    w("\n== Key table: lags 1, 8, 16, 32, 64 ==")
+    for a in arms:
+        if (a, "ahat") not in recs:
+            continue
+        p = {r["label"]: r for r in recs[(a, "profile")]["rows"]}
+        ah = {r["label"]: r["ahat"] for r in recs[(a, "ahat")]["rows"]}
+        Ls = ("1", "8", "16", "32", "64")
+        w(a)
+        for lab in ["1m", "6m", "6m+e", "6m+e+z", "0m+e"]:
+            k, kh = p[lab]["krakauer"], p[lab]["krakauer_e_hidden"]
+            line = (f"  {lab:7s} A* " + " ".join(f"{k[D]['Astar']:.3f}" for D in Ls) +
+                    " | A " + " ".join(f"{k[D]['A']:.3f}" for D in Ls) +
+                    " | Ahat " + " ".join(f"{ah[lab][D]:.3f}" for D in Ls) +
+                    f" | nC1 {k['1']['nC']:.3f} TE1 {p[lab]['te']['1']:.3f} TE16 {p[lab]['te']['16']:.3f}")
+            if "e" not in lab:
+                line += (" | e hidden: A " + " ".join(f"{kh[D]['A']:.3f}" for D in Ls) +
+                         f" TE16 {p[lab]['te_e_hidden']['16']:.3f}")
+            w(line)
+        for W in (1, 4, 6, 8, 16):
+            k = recs[(a, f"block:all:{W}")]["key"]
+            m, me = k["{x0,x1,x2,x3,x4,x5}"], k["{x0,x1,x2,x3,x4,x5,e}"]
+            w(f"   W={W:2d} members: internal {m['internal']:.0f}, edge in {m['edge_in']:.0f} out {m['edge_out']:.0f}"
+              f" | members+e: internal {me['internal']:.0f}, edge {me['edge']:.0f}")
     with open(os.path.join(HERE, "summary.txt"), "w") as f:
         f.write("\n".join(out) + "\n")
 

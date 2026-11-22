@@ -143,3 +143,21 @@ def test_arm_c_institution_answers_members_c0_does_not():
         s2.step()
         moved = np.abs(s1.x[:, 6] - s2.x[:, 6]).max() > 0
         assert moved == expect
+
+
+def test_ahat_of_the_distractor_is_its_ar1_information():
+    """z is an AR(1) with rho 0.9 that nothing touches: Ahat(1) of {z} is
+    -1/2 ln(1 - rho^2), and a member's Ahat(1) in arm A is below its
+    observational A*(1) (the driver's share is cut by the intervention)."""
+    from run import ahat_rows
+    from model import Z_IDX
+    par = dict(a=0.57, gain=0.3, s=0.62)
+    base = Sim("A", par, 20000, np.random.default_rng(7))
+    for _ in range(200):
+        base.step()
+    rows = ahat_rows(base, [dict(label="z", S=[Z_IDX]), dict(label="1m", S=[0])],
+                     np.random.default_rng(8), [1], 9)
+    assert rows[0]["ahat"][1] == pytest.approx(-0.5 * np.log(1 - 0.81), rel=0.05)
+    traj = Sim("A", par, 200, np.random.default_rng(10)).run(1000, 300)
+    astar = M.krakauer(M.lag_pair_cov(traj, 1), [0], [])["Astar"]
+    assert rows[1]["ahat"][1] < astar

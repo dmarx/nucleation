@@ -67,6 +67,27 @@ def classes():
     return out
 
 
+def ahat_rows(base, cands, rng, lags, seed):
+    """Ahat(D) = I(S_{t+D}; S^_t) for each candidate: do(S) on a copy of the
+    burned-in simulator, with values drawn from S's population marginal
+    (rng, a generator separate from the simulator's), then D steps."""
+    Cpop = np.cov(base.x.T)
+    rows = []
+    for c in cands:
+        S = c["S"]
+        sim = copy.deepcopy(base)
+        sim.rng = np.random.default_rng([seed, 3000, len(rows)])
+        vals = rng.multivariate_normal(np.zeros(len(S)), Cpop[np.ix_(S, S)], size=base.R)
+        sim.intervene(S, vals)
+        ah = {}
+        for D in range(1, max(lags) + 1):
+            sim.step()
+            if D in lags:
+                ah[D] = M.gaussian_mi_samples(sim.x[:, S], vals)
+        rows.append(dict(label=c["label"], S=S, ahat=ah))
+    return rows
+
+
 def name(S):
     return "{" + ",".join(NAMES[v] for v in S) + "}"
 
@@ -128,20 +149,7 @@ def main():
             rng = np.random.default_rng(SEEDS[arm] + 2000)
             for _ in range(BURN_INT):
                 base.step()
-            Cpop = np.cov(base.x.T)
-            rows = []
-            for c in classes():
-                S = c["S"]
-                sim = copy.deepcopy(base)
-                sim.rng = np.random.default_rng([SEEDS[arm], 3000, len(rows)])
-                vals = rng.multivariate_normal(np.zeros(len(S)), Cpop[np.ix_(S, S)], size=R_INT)
-                sim.intervene(S, vals)
-                ah = {}
-                for D in range(1, max(LAGS) + 1):
-                    sim.step()
-                    if D in LAGS:
-                        ah[D] = M.gaussian_mi_samples(sim.x[:, S], vals)
-                rows.append(dict(label=c["label"], S=S, ahat=ah))
+            rows = ahat_rows(base, classes(), rng, LAGS, SEEDS[arm])
             emit(dict(arm=arm, item="ahat", R=R_INT, lags=LAGS, rows=rows,
                       seconds=round(time.time() - t0, 1)))
 
