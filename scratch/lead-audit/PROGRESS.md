@@ -7,11 +7,18 @@
   found held or partly held. No status or stage changes.
 - Candidates: 184 Open audit-filed leads; 150 not yet done today
   (no Note of 2026-11-22, no lead-NNN changelog fragment).
-- Order: single-deliverable leads first (file/write/derive/state/
-  construct/prove/settle/resolve/close), then reading leads (LIT held?).
 
 ## Done
 
+- 33 leads checked (19 single-deliverable, 14 reading); results.md.
+- Held: LEAD-059 (CLAIM-629), LEAD-171 (CLAIM-605).
+- Partly held: LEAD-039, LEAD-090, LEAD-186, LEAD-179, LEAD-152.
+- Dated notes on those seven leads.
+- Curation entry record/curation.d/2026/11/22/132527.md; changelog
+  fragment record/changelog.d/lead-audit-already-held.md.
+
 ## Next
 
-- Single-deliverable leads.
+- Not checked: 117 audit-filed leads, mostly empirical studies. The same
+  method (citers of the advanced codes filed after the source; LIT/NOTE
+  status for reading leads) extends to them.
