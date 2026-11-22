@@ -33,6 +33,22 @@
 - Full runs launched 2026-11-22 in scratchpad/lead-035 (three processes,
   PIDs in *.pid): ufm (9 items), mlp2 (6), mlp3bn (6).
 
+- All 21 planned items done 2026-11-22 (results-*.jsonl, summary.json):
+  renorm control matches Proposition 2's exact solution to 4e-5 and the
+  slope is 0.256; UFM plain and joint GD grow omega exponentially and
+  spread it (max/min to 4-175), NC1 stalls 0.05-0.11; MLPs without weight
+  decay grow omega with log-log slopes 2.4-3.9, max/min 2.4-15, NC1 stalls
+  0.22-0.42; MLP2 with weight decay grows, stalls (t ~ 500-4000) while
+  NC1 falls, then regrows (last-decade slopes 0.11-0.30, an average over
+  stall and regrowth); MLP3-BN with weight decay rises to ~1e4 then
+  collapses by 10x near t ~ 5000 (loss spike), slopes negative.
+- mlp3bn weight-decay seeds s1, s2 run in parallel processes
+  (results-mlp3bn-b/-c.jsonl); main mlp3bn process stopped by PID after s0.
+- One long run (mlp2, wd 5e-4, seed 0, 1e6 steps) launched as item
+  long-mlp2-wd0.0005, results-long.jsonl.
+- Coordinator asked to resume after a usage limit: pulled, nothing lost,
+  runs alive; continuing.
+
 ## Choices
 
 - Models: three unconstrained-features dynamics (Han's renormalized flow
@@ -50,5 +66,6 @@
 ## Next
 
 - Registered Mixon, Parshall and Pi as LIT-tmpxyq0h (Deferred).
-- Copy results in, analyze, write README.
-- File CASE, CLAIM, dated notes, changelog.
+- Long run result; README timing.
+- File CASE-tmpjn6f4, CLAIM-tmpcpr7t (created, templates), dated notes on
+  QUESTION-051, QUESTION-181, THEORY-797, LEAD-035; changelog.
