@@ -44,6 +44,7 @@ summary: >-
 bears_on:
 - QUESTION-037
 ---
+<!-- inactive-ok-file: CASE-tmpzi1u3 — Proposed; the move-by-move study of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-483 — Proposed or Superseded; cited in the correction of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-024 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -131,3 +132,7 @@ and no more.
 ## Note of 2026-11-07: a further instance, from "Individuation, Possibility, and Disposition"
 
 Across A32 to A37 of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07), A reintroduces as new what the record holds: hysteresis of trust, "a subtle concept we haven't explored enough" ([CLAIM-463](CLAIM-463.md), demonstrated); plural succession, as "fission" ([CLAIM-328](CLAIM-328.md)); the persistence senses ([TERM-071](../terms.d/TERM-071.md)); and it re-asks [QUESTION-118](../questions.d/QUESTION-118.md) without its code. A32 §10 cites this claim for the record's structure, while A's own later turns show the phenomenon it describes. No status changes.
+
+## Note of 2026-11-22: the failures recur in a seventh exchange, in a different mix
+
+In the exchange "Rich Get Richer Power Laws", coded move by move (CASE-tmpzi1u3), the identity failures this claim describes recur, but mostly as re-derivation without back-reference (33 instances in 23 items); silent redefinition occurs once ("hyperribbon" at A41), a case changes identity once, and in the argument phase every change of hypothesis is announced and argued, unlike the will and translation exchanges.
