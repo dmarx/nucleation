@@ -22,11 +22,11 @@ line:
 - will-organization
 - pragmatic-transport
 summary: >-
-  LEAD-029 asked for a joint prediction of the pragmatic-transport and
-  will-organization lines, derived through CLAIM-336's mapping with
+  [LEAD-029](../leads.d/LEAD-029.md) asked for a joint prediction of the pragmatic-transport and
+  will-organization lines, derived through [CLAIM-336](../claims.d/CLAIM-336.md)'s mapping with
   flexibility penalized, and for the comparison of one model against
-  separate models that A55 §7 states and ARG-065 holds. Data were simulated
-  from an instance of CLAIM-297's equations: three operators, four contexts
+  separate models that A55 §7 states and [ARG-065](../arguments.d/ARG-065.md) holds. Data were simulated
+  from an instance of [CLAIM-297](../claims.d/CLAIM-297.md)'s equations: three operators, four contexts
   (frames), a scalar meaning state read out as a noisy response, and
   governance interventions that boost or suppress one operator's authority.
   The joint model (16 parameters) was fitted beside a model with the loop
@@ -48,9 +48,9 @@ summary: >-
 
 ## The study
 
-LEAD-029 asks for "the prediction with flexibility penalized" and then
+[LEAD-029](../leads.d/LEAD-029.md) asks for "the prediction with flexibility penalized" and then
 "A55 §7's comparison of one model against separate models". As
-ARG-065 and CLAIM-336's note of 2026-11-07 hold A55 §7, the comparison is
+[ARG-065](../arguments.d/ARG-065.md) and [CLAIM-336](../claims.d/CLAIM-336.md)'s note of 2026-11-07 hold A55 §7, the comparison is
 on "held-out compositions of context changes and governance
 interventions", against separate interpretation and governance models
 "under matched complexity and training information", especially on
@@ -58,9 +58,9 @@ interventions", against separate interpretation and governance models
 processes can influence later interpretation". The A55 text itself was
 not reread; the study works from the record's paraphrase.
 
-**The generator** is CLAIM-297's three equations in the smallest form
+**The generator** is [CLAIM-297](../claims.d/CLAIM-297.md)'s three equations in the smallest form
 that has both lines in it. Three operators i act under one of four
-contexts q (the frame of CLAIM-336's mapping). The meaning state x is the
+contexts q (the frame of [CLAIM-336](../claims.d/CLAIM-336.md)'s mapping). The meaning state x is the
 weight on one of two interpretations, and the judgement read out at each
 step is x plus noise (σ = 0.03). Operator i under q pulls x toward its
 own reading a_i(q):
@@ -70,7 +70,7 @@ own reading a_i(q):
   Pᵢ(q) = (1 − ρ)I + ρ·1[aᵢ(q), 1 − aᵢ(q)];
 - influence: u ← (1 − κ)u + η(s − s̄), with sᵢ = −(aᵢ(q_t) − x_{t+1})²,
   each operator scored against the interpretation it helped make dominant
-  (CLAIM-297's circuit, CLAIM-330's Regime A);
+  ([CLAIM-297](../claims.d/CLAIM-297.md)'s circuit, [CLAIM-330](../claims.d/CLAIM-330.md)'s Regime A);
 - governance: a conferral E_t adds ±Δ to one operator's u at one step.
 
 ρ = 0.3, κ = 0.1, Δ = 1.5. In context 0 the three operators agree
@@ -86,7 +86,7 @@ misspecified).
 For two operators under one context with dissent Δa = a₁ − a₂,
 linearized at the symmetric allocation, the map on (δx, δv), v = u₁ − u₂,
 has Jacobian [[1 − ρ, ρΔa/4], [2ηΔa(1 − ρ), (1 − κ) + ηρΔa²/2]], which is
-CLAIM-330's form, and det(I − J) = ρ(κ − ηΔa²/2). So a perturbation of
+[CLAIM-330](../claims.d/CLAIM-330.md)'s form, and det(I − J) = ρ(κ − ηΔa²/2). So a perturbation of
 authority grows under a context exactly when **η·Δa²/2 > κ**, and decays
 at the governance rate where the operators agree (Δa = 0). The tests
 check the determinant and the eigenvalue condition on 20,000 draws, the
@@ -202,8 +202,8 @@ this size, in both directions.
 It does not show that any interpreter, person or system has the loop. The
 world is built, and in three of the four generators the joint model is
 its family exactly; the misspecified one narrows the margin. No real data
-were used. It does not touch CLAIM-286's comparison with models built for
+were used. It does not touch [CLAIM-286](../claims.d/CLAIM-286.md)'s comparison with models built for
 habit, rumination, rigidity, akrasia or insight, since the construction
 has no phenomena, only operators, frames and interventions. The A55 §7
 wording is the record's, not checked against the exchange. The finding
-is filed as CLAIM-tmpc4gyx.
+is filed as [CLAIM-tmpc4gyx](../claims.d/CLAIM-tmpc4gyx.md).
