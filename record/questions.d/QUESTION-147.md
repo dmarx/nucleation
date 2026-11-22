@@ -75,3 +75,8 @@ Wang and Slotine ([THEORY-2044](../theory.d/THEORY-2044.md), bears_on; [NOTE-209
 <!-- inactive-ok-file: THEORY-tmpsyokc — Proposed; filed by LEAD-023 -->
 
 A caution for the comparison this question asks for (THEORY-tmpsyokc, bears_on; NOTE-tmp5rss0). Clusters can be set by a common drive and the units' different phase responses, with no graph at all. A second system in which observed clusters differ from the computed orbits would therefore have to rule out a shared input before counting against the prediction. The question stays open.
+
+## Note of 2026-11-22: Stewart, read
+<!-- inactive-ok-file: THEORY-tmp3va8j — Proposed; filed by LEAD-023 -->
+
+Stewart (THEORY-tmp3va8j, bears_on; NOTE-tmp14xdi; LIT-2249), the work A cited at A20 §2. The balanced partitions of a network form a complete lattice under refinement, with a unique coarsest element computable in polynomial time. For this question that is the full set of cluster patterns computable in advance from structure, wider than the symmetry orbits. It supplies candidates only: the paper proves nothing on stability, so the question's second part, whether each cluster desynchronizes where its own block predicts, is untouched. The question stays open.
