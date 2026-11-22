@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmponjie
 title: 'When can an organization hold an evaluation that is accurate, a consummatory process registering that an outcome no longer pleases or a process whose belief keeps predicting well, and still deny it the authority to revise pursuit or the collective judgement, and how is that told apart from the evaluation''s not being recognized at all?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-25'
@@ -28,6 +28,14 @@ history:
     own synthetic interventions; registration and authority are set by the
     experimenter, not measured. No Active entry answers the question. The
     question is unchanged.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    A dated note added: CASE-tmp9e5vf (LEAD-017) measures registration
+    from the organization's record by perturbing the evaluation, without
+    reading the setting, in three synthetic organizations of matched
+    pursuit. It meets the second requirement within a stipulated model. No
+    Active entry answers the question. The question is unchanged.
 tags:
 - self-governance
 - emotion-and-affect
@@ -262,3 +270,38 @@ revision." The new arm is a tolerance the governance can revise. [CASE-129](../c
 already holds the learned and disabled pair.
 
 No status changes.
+
+## Note of 2026-11-22: registration measured from the record, in A13's three organizations
+
+<!-- inactive-ok-file: CASE-tmp9e5vf CLAIM-tmpphfb4 — new, filed by LEAD-017 -->
+
+LEAD-017 built the three organizations of the note of 2026-11-04, read as
+denied uptake, deliberate accommodation under a tolerance widened by
+compensation, and evaluative isolation, with pursuit calibrated to 0.6 in
+each and liking declining progressively (CASE-tmp9e5vf). Registration
+is a gain the generator sets and the analyst never reads. The measure
+perturbs the consummatory evaluation at random and asks whether the
+organization's record, mixed and noisy, responds beyond the outcome, the
+action and the pursuing process's learned value.
+
+- On 200 held-out agents per organization it called every registered
+  agent registered and no unregistered one. Denied and unregistered
+  pursue identically, so behaviour cannot do this.
+- A record carrying the evaluation's physiological cause by another route
+  looked registered to the passive reading in 77% of agents and to the
+  perturbation in 2%. A record with no covariates for the outcome decoded
+  the assay in 24% of unregistered agents.
+- An evaluation that steers pursuit directly, bypassing the record, was
+  read as unregistered with authority: CLAIM-403's rungs taken in the
+  other order.
+- Weak registration was missed in 60% of agents. The endorsement relation
+  was told apart only weakly, by a probe of pursuit (43% of accommodating
+  agents, 4.5% false calls).
+
+So the second requirement under "What would answer it", registration
+measured apart from the experimenter's setting, is met within a
+stipulated synthetic class (CLAIM-tmpphfb4). The measure needs the other
+routes into the record named, and a probe of the evaluating process. No
+world's authority shapes its evidence, and the epistemic instance is not
+touched. No Active claim or reading answers the question (ADR-049),
+and nothing is split from it. The question is unchanged.

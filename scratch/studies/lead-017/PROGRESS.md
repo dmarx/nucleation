@@ -17,10 +17,16 @@
   the note of 2026-11-04 (see Choices).
 - Model, measures, 8 passing tests; study run (10 s); results/summary.json.
 
+- Filed CASE-tmp9e5vf (executed-study), CLAIM-tmpphfb4 (empirical);
+  dated notes on QUESTION-270 and LEAD-017 (with operationalized_in);
+  changelog fragment record/changelog.d/lead-017.md. Frontmatter, title
+  and H1 checks pass.
+
 ## Next
 
-- File a CASE (executed-study) and a CLAIM; dated notes on QUESTION-270
-  and LEAD-017; changelog fragment record/changelog.d/lead-017.md.
+- Report to the coordinator; the lead opens the pull request.
+- Open for a later run: the endorsement relation (authority probe weak at
+  this episode length); Reading B of A13's three, not run.
 
 ## Choices
 
