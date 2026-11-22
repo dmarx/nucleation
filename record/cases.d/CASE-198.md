@@ -104,3 +104,8 @@ slack ([TERM-106](../terms.d/TERM-106.md)) falls from 0.6 to 0.3. Checked by the
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 [CASE-208](CASE-208.md) is a physical counterpart: in Zang et al.'s Kresling stack, prestress applied from outside reorders the barriers and opens transitions that no budget under the old arrangement opens. No status changes.
+
+## Note of 2026-11-22: run over parameters
+<!-- inactive-ok-file: CASE-tmp17sbe CLAIM-tmpmvt0a — new; the executed study of LEAD-075 and the claim filed from it -->
+
+[CASE-tmp17sbe](CASE-tmp17sbe.md) (executed-study, [LEAD-075](../leads.d/LEAD-075.md)) computes this construction on a 201-point grid and reproduces its numbers: the bottleneck budget is 1.3 under the home architecture and 1.0 with the staging one admitted. It also closes two of the limits listed above. **Time**: with crossing times of 1 under home and 2 under staging and 0.5 per switch, the architecture-mediated route takes 3.0 at budget 1.0, and between 2.58 and 3.0 at budgets up to 1.3, where the direct route, taking 1, becomes admissible. So the budget saved is bought with time, and at a deadline of 2 the route is no remedy. **Optimality**: the closed form min(B*(home), max(max(h0, h1) + s, h1 + β1/4)) for the bottleneck with staging admitted, which [CLAIM-tmpmvt0a](../claims.d/CLAIM-tmpmvt0a.md) derives and the study checks in 960 settings, generalizes the argument above that no route does better than 1.0. The times are the study's choice, not this case's. No status change.

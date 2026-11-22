@@ -60,6 +60,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2033 THEORY-2043 THEORY-2047 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-296 CLAIM-478 TERM-098 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-762: Collapsing differences that do not matter into equivalence classes is how those classes come to be reified as new distinctions: where a process identifies its microstates by what they do, the classes it keeps, and not the microstates, become the units of further computation and organization; the claim is substantive only where the classes are closed under the system's own operations and are reused
 
@@ -165,3 +166,40 @@ classes left are [CLAIM-581](CLAIM-581.md)'s budgeted classes, nesting into one 
 are reified by collapse. A parallel: it gives the collapse a mechanism in one
 model, and says nothing about this claim's condition that the classes be
 closed under the system's own operations and reused.
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **qualifies the
+Wang and Isola note above.** The finite-dataset tension between perfect
+alignment and uniformity resolves, in the large-batch limit, as basin
+selection by alignment and dispersion by entropy: the unimodal optimum is
+a unique Gibbs density ∝ exp(−U/τ) concentrated on near-minimizers of the
+alignment potential as τ → 0. So what the objective keeps is a spread
+within the class of aligned configurations, not uniformity over the sphere.
+A note, no relation.
+
+## Note of 2026-11-22: the laboratory of genres, run in simulation
+<!-- inactive-ok-file: CASE-tmpw8bs2 CLAIM-tmph4j0u — new; the simulated laboratory of 2026-11-22 and the claim filed from it -->
+
+[LEAD-030](../leads.d/LEAD-030.md) said what would count for this claim's reading: classes that
+reshape preferences only when used. In [CASE-tmpw8bs2](../cases.d/CASE-tmpw8bs2.md) they did
+([CLAIM-tmph4j0u](CLAIM-tmph4j0u.md)): used while users and creators adapted, the inferred
+genres separated further (the gap under randomized exposure from 0.35 to
+0.48) and became stable (ARI 0.84); the same adaptation without them
+eroded the gap (to 0.23). Where exposure alone had made the clusters, use
+with adaptation created a small distinction (0.024) from none.
+
+How it bears on the claim is the owner's to choose; two readings, filed
+as alternatives:
+
+- **(a) Corroboration.** The lead's stated criterion is met, so
+  [CLAIM-tmph4j0u](CLAIM-tmph4j0u.md) gives this claim independent evidence and could carry
+  `corroborates` to it.
+- **(b) Illustration only.** The simulator was built with the mechanism
+  (users drift toward what they engage with, the recommender channels
+  exposure), so the run shows that the laboratory can tell the cases
+  apart, not that classes become units this way; no relation.
+
+The assistant leans to (b): the run tests the instrument, and the claim's
+condition of closure under the system's own operations is met here by
+construction. No relation was added and the claim is unchanged.

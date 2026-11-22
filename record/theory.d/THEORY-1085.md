@@ -33,8 +33,9 @@ corroborates:
 bears_on:
 - QUESTION-281
 ---
+<!-- inactive-ok-file: THEORY-tmpdfeto NOTE-tmpcjw5n ARG-tmpdc2qe — Proposed, Skimmed or new; the reading of the long paper and its argument, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1095 CLAIM-478 CLAIM-157 — Proposed or Open; neighbours cited as open -->
-<!-- inactive-ok-file: LIT-2970 CLAIM-841 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws"; Deferred and Proposed -->
+<!-- inactive-ok-file: CLAIM-841 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws"; Deferred and Proposed -->
 
 # THEORY-1085: In Toner and Tu's hydrodynamic theory, a flock's ordered state is a broken continuous symmetry of a coarse-grained velocity field: speed fluctuations relax in a finite time of order 1/α and are dropped, leaving as slow degrees of freedom the transverse velocity and the conserved density, which propagate as sound at ω = ±cq⊥; no individual member appears in the description, which is offered for a universality class of microscopic rules
 
@@ -111,3 +112,31 @@ phase itself" (A26 §4), agrees with this reading's broken-symmetry slow
 modes and goes beyond it only in calling the result scale-free; the
 exponents remain [THEORY-1095](THEORY-1095.md)'s question.
 
+## Note of 2026-11-22: Toner and Tu (1998), read
+
+The long paper ([LIT-2970](../literature.d/LIT-2970.md), read in [NOTE-tmpcjw5n](../notes.d/NOTE-tmpcjw5n.md); the reading is
+[THEORY-tmpdfeto](THEORY-tmpdfeto.md)) **supports this reading and extends it.** The slaving of
+the speed fluctuation is derived there in full: δv∥ = −Dρ∂∥δρ, by
+neglecting ∂tδv∥ "relative to αδv∥" (eqs. 3.1–3.2, p. 19), the eliminated
+degree of freedom this entry names. The universality claim is still
+posited: "This approach allows us to bury our ignorance in a few
+phenomenological parameters" (p. 18), as this entry says of 1995.
+
+**A correction to "What this does not say".** Its bullet "Goldstone
+mode" holds that the paper does not use the term; that is true of the
+1995 letter, but the 1998 paper does: "The "Goldstone modes" associated
+with this "spontaneously broken rotational symmetry" are fluctuations in
+the direction of motion", and they "mix with modes associated with
+conservation of bird number to produce propagating sound modes"
+(abstract). So the broken-symmetry reading of the slow transverse
+velocity is the authors' own by 1998.
+
+**On the exchange's note of 2026-11-21.** The two things A added are now
+checked against the long paper. Its "giant number fluctuations" are in
+it as a density structure factor diverging as q → 0, "infinitely bigger
+than those in a fluid or an ideal gas" (pp. 7–8), not as ΔN ∝ ⟨N⟩^φ,
+which it never writes; and "some initially predicted exponents differ
+from those obtained in large-scale simulations" is not in it: it reports
+"good agreement" (p. 70). [LIT-2970](../literature.d/LIT-2970.md) is no longer unread; the formula and
+the disagreement A reported are later work the record has not read
+([ARG-tmpdc2qe](../arguments.d/ARG-tmpdc2qe.md)). No status change.

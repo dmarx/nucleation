@@ -93,3 +93,14 @@ reviewers find none in Birch's text, and give a general reason there is none.
 
 From the reading in [NOTE-1737](../notes.d/NOTE-1737.md) ([LIT-2354](../literature.d/LIT-2354.md)), the reader's assessment as
 checked by the filer: Hasler adopts Birch's precautionary candidacy logic.
+
+## Note of 2026-11-22: Metzinger, read
+
+**A case of the move this account criticizes**, no edge ([LIT-1947](../literature.d/LIT-1947.md),
+[NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger applies precaution in one direction: "It is
+unethical to run incalculable risks of this magnitude" (p. 46), and the
+reader is asked to "err on the side of caution" (p. 50). He does not weigh
+the costs of a ban, forgone research or forgone positive experience. What
+fixes the direction is his "priority for the reduction of suffering"
+(p. 45), which is assumed, not argued. On this account, precaution alone
+would not have fixed it.

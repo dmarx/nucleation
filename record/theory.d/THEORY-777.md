@@ -44,6 +44,8 @@ bears_on:
 ---
 <!-- inactive-ok-file: TERM-135 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
+<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
+
 # THEORY-777: In Monte Carlo on a 64×64 periodic square-lattice Ising model at its critical point, parametrized by a field and 13 nearby couplings and observed only through the spins left after n checkerboard decimations (b = √2 per step, n ≤ 6), the two Fisher eigenvalues along the field and the gradient of T_c stay within a factor of about two of their microscopic values, while the others fall by up to about six decades, in three groups whose decay is consistent with b^(2y−d) per step for y = 0, −2 and −4
 
 ## Source
@@ -159,3 +161,12 @@ caution against equating stiffness with relevance in general (A19 §5;
 source, that RG arguments "derive the presence of sloppiness", is not in
 the published text. The review is not independent of this reading's
 source, so it does not meet the promote_when.
+
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+A restatement ([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md), [THEORY-tmpx26x7](THEORY-tmpx26x7.md)). §6.1's flow for
+irrelevant directions, d log(ds²)/db = −D + 2y_i, is this reading's
+b^(2y−d) per step, the dimension in it; §6 restates Machta and colleagues'
+Ising decimation ([LIT-1299](../literature.d/LIT-1299.md)). The review shares this reading's source's
+authors, so it is not independent and does not meet the promote_when. No
+relation is written.

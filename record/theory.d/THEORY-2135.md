@@ -23,6 +23,7 @@ summary: >-
   separation of rates between a fast output and a slow parameter vector,
   readout included. Proposed until its promote_when is met.
 ---
+<!-- inactive-ok-file: THEORY-tmpcij35 — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
 <!-- inactive-ok-file: THEORY-212 THEORY-813 — Proposed; cited in the readings of 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-775 THEORY-2133 — Proposed, Deferred or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
 
@@ -43,3 +44,10 @@ Nothing per layer; nothing about μP; it does not show hidden modules slower tha
 ## Connections
 
 [THEORY-2133](THEORY-2133.md) (Yang and Hu: the per-layer, width-indexed form); [THEORY-212](THEORY-212.md) (per-layer finite-size form); [LIT-1232](../literature.d/LIT-1232.md) (mean-field); [THEORY-813](THEORY-813.md).
+
+## Note of 2026-11-22: Dandi and colleagues, read
+
+Dandi and colleagues ([LIT-2983](../literature.d/LIT-2983.md), [NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md), [THEORY-tmpcij35](THEORY-tmpcij35.md)): **a
+contrast.** Their point is leaving the lazy, random-features regime: "It is
+precisely the presence of such correlated components that enables the
+trained model to surpass the Random Features performance". No relation.

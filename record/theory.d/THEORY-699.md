@@ -138,3 +138,12 @@ from a thermostat. The paper tests neither.
 - **Permissiveness.** Baedke ([LIT-167](../literature.d/LIT-167.md), [NOTE-148](../notes.d/NOTE-148.md)) argues that persister
   criteria take in colonies, holobionts and ecosystems. Bruckner's is a
   persister criterion and does not address that.
+
+## Note of 2026-11-22: Metzinger, read
+
+**A rival ground**, no edge ([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger's ethics is
+pathocentric: "All and only sentient beings have moral standing" (p. 44),
+which denies this account's sufficiency of adaptive self-maintenance
+without sentience. He cites Basl, whose teleological view this account
+draws on, only for leaving open whether suffering-capable systems are moral
+patients (p. 55).

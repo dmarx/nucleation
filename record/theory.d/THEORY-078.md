@@ -162,3 +162,11 @@ whether it sits above or below it ([NOTE-474](../notes.d/NOTE-474.md)).
 - **[THEORY-084](THEORY-084.md)** finds a different block structure in a different
   regime: harmonic-degree blocks in a squared-loss Fisher in the kernel
   regime. The two have not been compared on one network.
+
+## Note of 2026-11-21: Song, Ahn & Yun, read
+
+Background ([NOTE-tmpw0eql](../notes.d/NOTE-tmpw0eql.md)). The top C Fisher eigenvalues this account
+ties to class-mean logit derivatives span the dominant subspace Song, Ahn
+and Yun study, with k = C. They find that SGD's gradient aligns with it
+spuriously, through noise, and that the loss falls in its complement. No
+relation written.

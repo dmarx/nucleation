@@ -1,0 +1,468 @@
+n_flags	flags	year	doi	pmcid	first_author	title	queries
+4	C1C2C3C4	2012	10.1371/journal.pone.0047539	PMC3471858	Dymond S	Safe from harm: learned, instructed, and symbolic generalization pathways of human threat-avoidance.	Q1_instructed,Q5_dissociation
+4	C1C2C3C4	2014	10.1371/journal.pone.0105955	PMC4149496	Brom M	Extinction and renewal of conditioned sexual responses.	Q5_dissociation,Q9_instruction_dissociation
+4	C1C2C3C4	2015	10.3389/fnbeh.2015.00159	PMC4471372	Cameron G	Generalization of socially transmitted and instructed avoidance.	Q1_instructed,Q5_dissociation,Q9_instruction_dissociation
+4	C1C2C3C4	2015	10.1371/journal.pcbi.1004646	PMC4674090	Bach DR.	Anxiety-Like Behavioural Inhibition Is Normative under Environmental Threat-Reward Correlations.	Q2_aac_intervention
+4	C1C2C3C4	2016	10.1016/j.jbtep.2015.06.003		Cameron G	Learned, instructed and observed pathways to fear and avoidance.	Q1_instructed
+4	C1C2C3C4	2016	10.2174/1874440001610010111	PMC5101630	Dretsch MN	Exploring the Neurocircuitry Underpinning Predictability of Threat in Soldiers with PTSD Compared to Deployment Exposed Controls.	Q5_dissociation,Q9_instruction_dissociation
+4	C1C2C3C4	2017	10.1016/j.brat.2016.12.010		Rattel JA	Higher threat avoidance costs reduce avoidance behaviour which in turn promotes fear extinction in humans.	Q3_costly
+4	C1C2C3C4	2019	10.3389/fpsyg.2019.01191	PMC6591439	Raeder F	Low Perceived Self-Efficacy Impedes Discriminative Fear Learning.	Q1_instructed
+4	C1C2C3C4	2019	10.1257/aer.20180279	PMC7080189	Deryugina T	The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction.	Q3_costly
+4	C1C2C3C4	2019	10.7717/peerj.6486	PMC6410694	Traxler J	Modulating pain thresholds through classical conditioning.	Q5_dissociation
+4	C1C2C3C4	2020	10.1523/jneurosci.2732-19.2020	PMC7455211	Abivardi A	Hippocampal Representation of Threat Features and Behavior in a Human Approach-Avoidance Conflict Anxiety Task.	Q2_aac_intervention
+4	C1C2C3C4	2020	10.31234/osf.io/n67h2		Wong AHK	A dimensional measure of safety behavior: A non-dichotomous assessment of costly avoidance in human fear conditioning	Q3_costly,Q5_dissociation
+4	C1C2C3C4	2020	10.7717/peerj.10094	PMC7680627	Karos K	Freeze-like responses to pain in humans and its modulation by social context.	Q5_dissociation,Q9_instruction_dissociation
+4	C1C2C3C4	2021	10.1002/da.23119		Pittig A	Elevated costly avoidance in anxiety disorders: Patients show little downregulation of acquired avoidance in face of competing rewards for approach.	Q3_costly,Q5_dissociation
+4	C1C2C3C4	2021	10.1016/j.brat.2021.103967		Wake S	The effect of social anxiety on the acquisition and extinction of low-cost avoidance.	Q3_costly
+4	C1C2C3C4	2021	10.31234/osf.io/6y2e3		Wake SJ	The Effect of Social Anxiety on the Acquisition and Extinction of Low-Cost Avoidance	Q3_costly
+4	C1C2C3C4	2021	10.1016/j.brat.2020.103765		Klein Z	High avoidance despite low fear of a second-order conditional stimulus.	Q4_response_prevention,Q5_dissociation
+4	C1C2C3C4	2021	10.1016/j.jbtep.2020.101601		Hendrikx LJ	Enhancing extinction with response prevention via imagery-based counterconditioning: Results on conditioned avoidance and distress.	Q4_response_prevention
+4	C1C2C3C4	2021	10.1016/j.jbtep.2020.101618	PMC7689577	Constantinou E	Measuring fear: Association among different measures of fear learning.	Q5_dissociation,Q9_instruction_dissociation
+4	C1C2C3C4	2025	10.1097/psy.0000000000001418		Nadinda PG	The Influence of Negative Expectancies on Itch-related Avoidance Behavior.	Q3_costly
+4	C1C2C3C4	2025	10.1016/j.bbr.2024.115299		Dymond S	Between Scylla and Charybdis: Fixed-ratio avoidance response effort and unavoidable shock extinction in humans.	Q4_response_prevention
+4	C1C2C3C4	2025	10.1080/16506073.2025.2456479		Jessup SC	Benefits of the "worst-case scenario": a multi-level examination of the effects of confronting the feared outcome during imagery-based exposure.	Q5_dissociation
+4	C1C2C3C4	2026	10.1038/s43856-026-01998-5		Vestring S	Ketamine promotes strategic and efficient approach-avoidance conflict resolution. 	Q2_aac_intervention
+4	C1C2C3C4	2026	10.1016/j.brat.2026.105186		Leissner SR	Take no risk!-Persistent avoidance after interoceptive fear conditioning.	Q4_response_prevention,Q5_dissociation
+4	C1C2C3C4	2026	10.1016/j.brat.2026.105012		Alcan E	Better safe than sorry: Avoidance of interoceptive threat following observational fear learning.	Q4_response_prevention
+4	C1C2C3C4	2026	10.1016/j.brat.2026.105088		Sridhar S	Modifying avoidance in social anxiety: The effects of a cognitive-behavioural instruction on extinction learning.	Q5_dissociation,Q9_instruction_dissociation
+3	C1C3C4	2011	10.1016/j.biopsych.2010.09.013	PMC3052965	Norrholm SD	Fear extinction in traumatized civilians with posttraumatic stress disorder: relation to symptom severity.	Q5_dissociation
+3	C1C3C4	2013	10.3389/fpsyg.2013.00298	PMC3664781	Arnaudova I	Individual Differences in Discriminatory Fear Learning under Conditions of Ambiguity: A Vulnerability Factor for Anxiety Disorders?	Q5_dissociation,Q9_instruction_dissociation
+3	C2C3C4	2014	10.1016/j.brat.2014.06.001	PMC4119239	Hogarth L	Extinction of cue-evoked drug-seeking relies on degrading hierarchical instrumental expectancies.	Q1_instructed
+3	C1C2C4	2014	10.1016/j.cub.2014.01.046	PMC3969259	Bach DR	Human hippocampus arbitrates approach-avoidance conflict.	Q2_aac_intervention
+3	C1C2C3	2014	10.1371/journal.pone.0096569	PMC4010469	Vervoort E	Generalization of human fear acquisition and extinction within a novel arbitrary stimulus category.	Q5_dissociation,Q9_instruction_dissociation
+3	C1C2C3	2014	10.1371/journal.pone.0084888	PMC3900417	Raes AK	Do CS-US pairings actually matter? A within-subject comparison of instructed fear conditioning with and without actual CS-US pairings.	Q9_instruction_dissociation
+3	C1C2C4	2015	10.3389/fnbeh.2015.00351	PMC4689807	Vervliet B	Low-Cost Avoidance Behaviors are Resistant to Fear Extinction in Humans.	Q1_instructed,Q3_costly,Q4_response_prevention
+3	C1C3C4	2015	10.1371/journal.pone.0117236	PMC4373920	Helsen K	Indirect acquisition of pain-related fear: an experimental study of observational learning using coloured cold metal bars.	Q1_instructed
+3	C1C3C4	2015	10.3389/fnbeh.2015.00142	PMC4461832	Schlund MW	Not so bad: avoidance and aversive discounting modulate threat appraisal in anterior cingulate and medial prefrontal cortex.	Q4_response_prevention,Q5_dissociation,Q9_instruction_dissociation
+3	C1C2C4	2015	10.3389/fnbeh.2015.00359	PMC4726806	Stockhorst U	Modulation of Fear Extinction by Stress, Stress Hormones and Estradiol: A Review.	Q5_dissociation,Q9_instruction_dissociation
+3	C1C3C4	2016	10.1016/j.nlm.2016.08.011		White EC	Estradiol levels in women predict skin conductance response but not valence and expectancy ratings in conditioned fear extinction.	Q5_dissociation
+3	C1C2C4	2017	10.1016/j.brat.2017.04.010	PMC5548639	Kirlic N	Animal to human translational paradigms relevant for approach avoidance conflict decision making.	Q2_aac_intervention
+3	C1C3C4	2017	10.1523/jneurosci.1834-16.2017	PMC5518417	Khemka S	Dissecting the Function of Hippocampal Oscillations in a Human Anxiety Model.	Q2_aac_intervention
+3	C1C3C4	2017	10.1016/j.jad.2016.09.018	PMC6642659	Rabinak CA	Acquisition of CS-US contingencies during Pavlovian fear conditioning and extinction in social anxiety disorder and posttraumatic stress disorder.	Q5_dissociation
+3	C1C3C4	2017	10.1371/journal.pone.0184485	PMC5638232	Lommen MJJ	Training discrimination diminishes maladaptive avoidance of innocuous stimuli in a fear conditioning paradigm.	Q5_dissociation
+3	C1C2C4	2017	10.1002/brb3.757	PMC5561318	Kirlic N	Recruitment of orbitofrontal cortex during unpredictable threat among adults at risk for affective disorders.	Q9_instruction_dissociation
+3	C1C3C4	2018	10.1098/rstb.2017.0025	PMC5790824	Craske MG	State-of-the-art and future directions for extinction as a translational model for fear and anxiety.	Q5_dissociation,Q9_instruction_dissociation
+3	C1C2C4	2019	10.1101/lm.049338.119	PMC6478249	Xia Y	Pavlovian-to-instrumental transfer after human threat conditioning.	Q1_instructed
+3	C1C2C4	2019	10.1371/journal.pone.0221282	PMC6750569	Ganho-Ávila A	The effect of cathodal tDCS on fear extinction: A cross-measures study.	Q5_dissociation
+3	C1C2C4	2020	10.3389/fnbeh.2020.569899	PMC7554565	Binder FP	Quantifying Human Avoidance Behavior in Immersive Virtual Reality.	Q3_costly
+3	C1C2C3	2020	10.3390/s20236751	PMC7728331	Chien JH	Behavioral, Physiological and EEG Activities Associated with Conditioned Fear as Sensors for Fear and Anxiety.	Q5_dissociation,Q9_instruction_dissociation
+3	C1C2C3	2021	10.1371/journal.pone.0254592	PMC8279387	Novara C	Acquisition and maintenance of disgust reactions in an OCD analogue sample: Efficiency of extinction strategies through a counter-conditioning procedure.	Q4_response_prevention,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+3	C1C3C4	2021	10.3389/fpsyg.2021.665711	PMC8203828	Herzog K	Reducing Generalization of Conditioned Fear: Beneficial Impact of Fear Relevance and Feedback in Discrimination Training.	Q5_dissociation
+3	C1C3C4	2021	10.1002/jeab.654	PMC8168404	Schlund MW	Human social defeat and approach-avoidance: Escalating social-evaluative threat and threat of aggression increases social avoidance.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+3	C2C3C4	2022	10.1038/s41598-022-09342-2	PMC8964732	Baker J	Placebo induced expectations of mood enhancement generate a positivity effect in emotional processing.	Q1_instructed
+3	C1C2C4	2022	10.1007/s00426-021-01490-w	PMC8821075	Wong AHK	A dimensional measure of safety behavior: A non-dichotomous assessment of costly avoidance in human fear conditioning.	Q3_costly,Q4_response_prevention,Q5_dissociation,Q9_instruction_dissociation
+3	C2C3C4	2022	10.1016/j.jpain.2022.04.010		Glogan E	Alike, But Not Quite: Comparing the Generalization of Pain-Related Fear and Pain-Related Avoidance.	Q3_costly
+3	C1C2C4	2022	10.1038/s41598-022-09931-1	PMC9023480	Boschet JM	Costly avoidance of Pavlovian fear stimuli and the temporal dynamics of its decision process.	Q3_costly,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+3	C1C2C3	2022	10.3389/fnbeh.2022.908454	PMC9389167	Bublatzky F	Aversive anticipations modulate electrocortical correlates of decision-making and reward reversal learning, but not behavioral performance.	Q3_costly
+3	C2C3C4	2022	10.1016/j.nicl.2021.102922	PMC8715233	Crombie KM	The influence of FAAH genetic variation on physiological, cognitive, and neural signatures of fear acquisition and extinction learning in women with PTSD.	Q5_dissociation,Q9_instruction_dissociation
+3	C1C3C4	2022	10.1111/ejn.15155	PMC9290344	Lemmens A	Examining the effect of stress on the flexible updating of avoidance responses.	Q5_dissociation,Q9_instruction_dissociation
+3	C1C2C3	2022	10.1038/s41598-022-12550-5	PMC9130119	Mueller M	Smokers show increased fear responses towards safety signals during fear generalization, independent from acute smoking.	Q9_instruction_dissociation
+3	C1C2C4	2023	10.1038/s41598-023-37083-3	PMC10284857	Rosenthal A	Modifying Pavlovian-to-instrumental transfer by approach avoidance training in healthy subjects: a proof of concept study.	Q1_instructed
+3	C1C2C4	2023	10.1177/17470218221087625	PMC9773158	Garcia-Guerrero S	The action dynamics of approach-avoidance conflict during decision-making.	Q2_aac_intervention
+3	C1C3C4	2023	10.1097/j.pain.0000000000002786	PMC10026827	Glogan E	Generalization of pain-related avoidance behavior based on de novo categorical knowledge.	Q3_costly
+3	C1C3C4	2023	10.1016/j.jbtep.2022.101801	PMC9682106	Cameron G	Online counterconditioning with COVID-19-relevant stimuli in lockdown: Impact on threat expectancy, fear, and persistent avoidance.	Q4_response_prevention,Q5_dissociation
+3	C1C3C4	2023	10.1177/17470218221127660		Dymond S	Working hard to avoid: Fixed-ratio response effort and maladaptive avoidance in humans.	Q4_response_prevention,Q5_dissociation
+3	C1C2C3	2023	10.32872/cpe.9627	PMC10508258	Gromer D	The Role of Expectancy Violation in Extinction Learning: A Two-Day Online Fear Conditioning Study.	Q5_dissociation
+3	C1C3C4	2024	10.31234/osf.io/3u47k		Sporrer JK	Transdiagnostic psychiatric symptom dimensions predict behavioural cautiousness	Q2_aac_intervention
+3	C1C2C4	2024	10.1038/s41598-024-65602-3	PMC11284217	Mueller M	Observational threat learning influences costly avoidance behaviour in healthy humans.	Q3_costly,Q5_dissociation,Q9_instruction_dissociation
+3	C1C2C4	2024	10.1007/s00426-024-01979-0	PMC11281986	Kesim IE	The effect of typicality training on costly safety behavior generalization.	Q5_dissociation
+3	C1C2C4	2024	10.1016/j.xjmad.2024.100050	PMC12244109	Leng L	Anhedonia influences threat avoidance and relief: A conceptual replication.	Q5_dissociation
+3	C1C3C4	2025	10.31234/osf.io/3u47k_v2		Bach DR	Transdiagnostic psychiatric symptom dimensions predict human approach-avoidance conflict behaviour	Q2_aac_intervention
+3	C1C3C4	2025	10.3389/fpsyt.2025.1657470	PMC12491019	Jennen L	Fear learning and generalization in youth with early-stage transdiagnostic psychiatric symptoms and the impact of acute exercise.	Q5_dissociation,Q7_defusion
+3	C1C3C4	2025	10.1093/scan/nsae097	PMC11711681	Aslanidou A	Generalized expectancy of threat in threatening compared to safe contexts.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+3	C1C2C4	2026	10.3389/fnbeh.2026.1820847	PMC13397500	Anderson J	A systematic review of spontaneous recovery in human fear conditioning.	Q1_instructed,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+3	C1C3C4	2026	10.31234/osf.io/3u47k_v3		Sporrer JK	Human approach-avoidance conflict behaviour relates to transdiagnostic psychiatric symptom dimensions	Q2_aac_intervention
+3	C1C3C4	2026	10.1038/s41398-026-03835-8	PMC12873436	Sporrer JK	Human approach-avoidance conflict behaviour relates to transdiagnostic psychiatric symptom dimensions.	Q2_aac_intervention
+3	C1C3C4	2026	10.1371/journal.pcbi.1014793	PMC13652344	Golowin SAE	Context-dependent feature modulation shapes human decision policies in approach-avoidance conflicts.	Q2_aac_intervention
+3	C1C3C4	2026	10.1016/j.jad.2026.121901		Wang J	Reduced P3 amplitudes during disgust conditioning in individuals with contamination-related obsessive-compulsive symptoms: Evidence from an analogue study.	Q5_dissociation
+3	C1C3C4	2026	10.1002/hbm.70473	PMC12907521	Berg H	The Tap-to-Safety Task: A Novel fMRI Paradigm Assessing Repetitive Threat-Neutralization.	Q5_dissociation,Q9_instruction_dissociation
+3	C1C2C4	2026	10.1093/schizbullopen/sgag036	PMC13619336	Inan C	Better Safe Than Sorry? Exploratory Associations Between Fear-Learning Processes and Later Paranoia in Threat-Exposed Adolescents in Standardized Virtual Reality Environments.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C3	2008	10.1016/j.cpr.2007.04.009	PMC2268629	Hofmann SG.	Cognitive processes during fear acquisition and extinction in animals and humans: implications for exposure therapy of anxiety disorders.	Q1_instructed,Q9_instruction_dissociation
+2	C1C2	2009	10.1371/journal.pone.0005865	PMC2692002	Sehlmeyer C	Human fear conditioning and extinction in neuroimaging: a systematic review.	Q9_instruction_dissociation
+2	C1C4	2010	10.1515/revneuro.2010.21.1.1	PMC2922903	Radulovic J	Molecular specificity of multiple hippocampal processes governing fear extinction.	Q5_dissociation
+2	C2C4	2013	10.1186/1745-6215-14-151	PMC3667059	de Bont PA	A multi-site single blind clinical study to compare the effects of prolonged exposure, eye movement desensitization and reprocessing and waiting list on patients with a current diagnosis of psychosis and co morbid post traumatic stress disorder: study protocol for the randomized controlled trial Treating Trauma in Psychosis.	Q7_defusion
+2	C1C3	2013	10.1371/journal.pone.0051149	PMC3582635	Kattoor J	Fear conditioning in an abdominal pain model: neural responses during associative learning and extinction in healthy subjects.	Q9_instruction_dissociation
+2	C1C4	2014	10.1038/nn.3832	PMC4213247	Roy M	Representation of aversive prediction errors in the human periaqueductal gray.	Q1_instructed
+2	C3C4	2014	10.1098/rstb.2013.0475	PMC4186229	Gillan CM	Goal-directed learning and obsessive-compulsive disorder.	Q4_response_prevention
+2	C1C4	2014	10.3389/fpsyt.2014.00088	PMC4104832	Briscione MA	Conditioned fear associated phenotypes as robust, translational indices of trauma-, stressor-, and anxiety-related behaviors.	Q5_dissociation
+2	C1C4	2014	10.1037/a0034558	PMC4040290	Armstrong T	Don't look now! Oculomotor avoidance as a conditioned disgust response.	Q5_dissociation
+2	C3C4	2014	10.1016/j.brat.2014.04.006	PMC4114726	Craske MG	Maximizing exposure therapy: an inhibitory learning approach.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C4	2014	10.1016/j.nlm.2013.11.014	PMC4156287	VanElzakker MB	From Pavlov to PTSD: the extinction of conditioned fear in rodents, humans, and anxiety disorders.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C4	2014	10.3389/fnbeh.2014.00279	PMC4142342	Costanzi M	Fear but not fright: re-evaluating traumatic experience attenuates anxiety-like behaviors after fear conditioning.	Q9_instruction_dissociation
+2	C1C4	2015	10.1016/j.tics.2014.12.003	PMC4318701	Dunsmoor JE	Categories, concepts, and conditioning: how humans generalize fear.	Q1_instructed
+2	C1C4	2015	10.1371/journal.pone.0131581	PMC4511792	Krypotos AM	Effects of Approach-Avoidance Training on the Extinction and Return of Fear Responses.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C3	2015	10.3389/fpsyg.2015.00520	PMC4415322	Bennett MP	Words putting pain in motion: the generalization of pain-related fear within an artificial stimulus category.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+2	C1C4	2016	10.3389/fpsyg.2016.00348	PMC4785144	Schultz DH	Psychopaths Show Enhanced Amygdala Activation during Fear Conditioning.	Q1_instructed
+2	C1C3	2016	10.1002/da.22468	PMC5701569	McGuire JF	FEAR CONDITIONING AND EXTINCTION IN YOUTH WITH OBSESSIVE-COMPULSIVE DISORDER.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C2	2016	10.1037/abn0000131	PMC4745387	Askew C	Inhibition of vicariously learned fear in children using positive modeling and prior exposure.	Q5_dissociation
+2	C1C4	2017	10.1037/xhp0000282	PMC5178866	Bach DR.	The cognitive architecture of anxiety-like behavioral inhibition.	Q2_aac_intervention
+2	C1C3	2017	10.1016/j.brat.2017.03.009	PMC5540341	Armstrong T	Pavlovian disgust conditioning as a model for contamination-based OCD: Evidence from an analogue study.	Q4_response_prevention,Q5_dissociation
+2	C1C3	2017	10.1073/pnas.1609194114	PMC5373407	Apergis-Schoute AM	Neural basis of impaired safety signaling in Obsessive Compulsive Disorder.	Q4_response_prevention,Q9_instruction_dissociation
+2	C2C3	2018	10.1371/journal.pone.0193311	PMC5821386	Kress L	Seeing through rose-colored glasses: How optimistic expectancies guide visual attention.	Q1_instructed
+2	C2C4	2018	10.1136/bmjopen-2018-022205	PMC6196848	Williamson E	Better Outcomes for Older people with Spinal Trouble (BOOST) Trial: a randomised controlled trial of a combined physical and psychological intervention for older adults with neurogenic claudication, a protocol.	Q1_instructed
+2	C3C4	2018	10.1017/s1355617718000085	PMC6035068	Kringle EA	Clinical Predictors of Engagement in Inpatient Rehabilitation Among Stroke Survivors With Cognitive Deficits: An Exploratory Study.	Q1_instructed
+2	C1C4	2018	10.7554/elife.34779	PMC5957527	Norbury A	Value generalization in human avoidance learning.	Q3_costly
+2	C1C3	2018	10.1093/ijnp/pyx088	PMC5795357	Fineberg NA	Mapping Compulsivity in the DSM-5 Obsessive Compulsive and Related Disorders: Cognitive Domains, Neural Circuitry, and Treatment.	Q4_response_prevention
+2	C1C3	2018	10.1016/j.cortex.2018.08.015	PMC6261786	Harnett NG	Trauma exposure acutely alters neural function during Pavlovian fear conditioning.	Q5_dissociation
+2	C1C4	2018	10.1016/j.nlm.2018.10.007	PMC6286149	Marusak HA	Poor between-session recall of extinction learning and hippocampal activation and connectivity in children.	Q5_dissociation
+2	C1C4	2018	10.1016/j.janxdis.2018.03.004	PMC5879019	Hofmann SG	Rethinking avoidance: Toward a balanced approach to avoidance in treating anxiety disorders.	Q7_defusion
+2	C2C3	2019	10.3389/fpsyg.2019.02849	PMC6928118	Scheveneels S	Virtually Unexpected: No Role for Expectancy Violation in Virtual Reality Exposure for Public Speaking Anxiety.	Q1_instructed
+2	C1C3	2019	10.3389/fphar.2019.00969	PMC6734013	Amanzio M	Pain Anticipation and Nocebo-Related Responses: A Descriptive Mini-Review of Functional Neuroimaging Studies in Normal Subjects and Precious Hints on Pain Processing in the Context of Neurodegenerative Disorders.	Q1_instructed
+2	C1C2	2019	10.1073/pnas.1810180116	PMC6410767	Lindström B	Social threat learning transfers to decision making in humans.	Q1_instructed,Q5_dissociation,Q9_instruction_dissociation
+2	C1C4	2019	10.1002/eat.23045	PMC8675547	Plasencia M	Applying the disgust conditioning model of food avoidance: A case study of acceptance-based interoceptive exposure.	Q5_dissociation,Q7_defusion
+2	C1C3	2019	10.30773/pi.2018.08.21.1	PMC6354044	Park SC	A Novel Bio-Psychosocial-Behavioral Treatment Model of Panic Disorder.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C4	2019	10.1038/s41598-019-46176-x	PMC6624264	Zaman J	Probing the role of perception in fear generalization.	Q5_dissociation,Q9_instruction_dissociation
+2	C3C4	2019	10.1186/s13063-019-3198-6	PMC6350360	Freeman D	Automated psychological therapy using virtual reality (VR) for patients with persecutory delusions: study protocol for a single-blind parallel-group randomised controlled trial (THRIVE).	Q5_dissociation
+2	C3C4	2019	10.1016/j.cpr.2018.06.002	PMC6422753	Knowles KA	Cognitive mechanisms of disgust in the development and maintenance of psychopathology: A qualitative review and synthesis.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C4	2019	10.7554/elife.52465	PMC6989118	Lonsdorf TB	Navigating the garden of forking paths for data exclusions in fear conditioning research.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+2	C1C3	2019	10.7717/peerj.6913	PMC6525585	Meulders A	The effect of differential spatiotopic information on the acquisition and generalization of fear of movement-related pain.	Q9_instruction_dissociation
+2	C1C4	2019	10.3389/fpsyg.2019.01617	PMC6657456	Reichenberger J	Men Scare Me More: Gender Differences in Social Fear Conditioning in Virtual Reality.	Q9_instruction_dissociation
+2	C2C4	2019	10.1007/s00213-018-4994-5	PMC6368475	Noble LJ	Vagus nerve stimulation as a tool for enhancing extinction in exposure-based therapies.	Q9_instruction_dissociation
+2	C1C3	2020	10.1016/j.brat.2020.103755	PMC7581402	Wong AHK	Generalization of extinction with a generalization stimulus is determined by learnt threat beliefs.	Q1_instructed,Q9_instruction_dissociation
+2	C2C4	2020	10.3389/fpsyg.2020.557445	PMC7550833	Tuominen H	Striving for Success but at What Cost? Subject-Specific Achievement Goal Orientation Profiles, Perceived Cost, and Academic Well-Being.	Q3_costly
+2	C3C4	2020	10.1002/jeab.565	PMC8168406	Schlund MW	Renewal of fear and avoidance in humans to escalating threat: Implications for translational research on anxiety disorders.	Q4_response_prevention
+2	C1C2	2020	10.1073/pnas.2004258117	PMC7369317	Faul L	Proximal threats promote enhanced acquisition and persistence of reactive fear-learning circuits.	Q5_dissociation
+2	C1C3	2020	10.1007/s00213-020-05457-4	PMC7196949	Both S	A randomized, placebo-controlled laboratory study of the effects of D-cycloserine on sexual memory consolidation in women.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C3	2020	10.1038/s41598-020-61004-3	PMC7062844	Raeder F	The association between fear extinction, the ability to accomplish exposure and exposure therapy outcome in specific phobia.	Q5_dissociation,Q9_instruction_dissociation
+2	C3C4	2020	10.1038/s41598-020-74334-z	PMC7582181	Crawford B	Brain structure correlates of expected social threat and reward.	Q5_dissociation,Q7_defusion
+2	C1C2	2020	10.1038/s41598-020-58412-w	PMC6992620	Szeska C	Promoting long-term inhibition of human fear responses by non-invasive transcutaneous vagus nerve stimulation during extinction training.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C3	2020	10.1371/journal.pone.0234160	PMC7304572	Schmidt K	Enhanced pain-related conditioning for face compared to hand pain.	Q5_dissociation,Q9_instruction_dissociation
+2	C2C4	2020	10.1016/j.ynstr.2020.100264	PMC7739181	Gurel NZ	Transcutaneous cervical vagal nerve stimulation reduces sympathetic responses to stress in posttraumatic stress disorder: A double-blind, randomized, sham controlled trial.	Q5_dissociation,Q9_instruction_dissociation
+2	C3C4	2020	10.1155/2020/8866386	PMC7704173	Gu Y	From Uncertainty to Anxiety: How Uncertainty Fuels Anxiety in a Process Mediated by Intolerance of Uncertainty.	Q5_dissociation
+2	C1C2	2020	10.1186/s12888-020-02541-z	PMC7216390	Brückl TM	The biological classification of mental disorders (BeCOME) study: a protocol for an observational deep-phenotyping study for the identification of biological subtypes.	Q5_dissociation,Q9_instruction_dissociation
+2	C2C4	2021	10.1038/s41398-020-01124-6	PMC7798383	Kanstrup M	Reducing intrusive memories after trauma via a brief cognitive task intervention in the hospital emergency department: an exploratory pilot randomised controlled trial.	Q1_instructed
+2	C2C4	2021	10.1007/s10098-020-01939-3	PMC7532986	Rechsteiner R.	German energy transition (Energiewende) and what politicians can learn for environmental and climate policy.	Q3_costly
+2	C2C4	2021	10.3389/fnbeh.2021.656847	PMC7947886	Vervliet B	Corrigendum: Low-Cost Avoidance Behaviors are Resistant to Fear Extinction in Humans.	Q4_response_prevention
+2	C1C4	2021	10.1016/j.neubiorev.2021.07.026	PMC8429207	Cooper SE	Fear conditioning and extinction in obsessive-compulsive disorder: A systematic review.	Q4_response_prevention,Q5_dissociation
+2	C1C4	2021	10.1007/s11920-020-01217-5	PMC7895454	Anderson LM	The Role of Disgust in Eating Disorders.	Q4_response_prevention,Q5_dissociation
+2	C1C3	2021	10.1038/s41598-021-93544-7	PMC8270915	Wang J	Generalization gradients for fear and disgust in human associative learning.	Q9_instruction_dissociation
+2	C3C4	2022	10.1097/j.pain.0000000000002513	PMC9199107	Schwartz M	Observing treatment outcomes in other patients can elicit augmented placebo effects on pain treatment: a double-blinded randomized clinical trial with patients with chronic low back pain.	Q1_instructed
+2	C1C4	2022	10.1017/s2045796022000725	PMC9762142	Rusconi F	Preclinical and clinical evidence on the approach-avoidance conflict evaluation as an integrative tool for psychopathology.	Q2_aac_intervention
+2	C2C4	2022	10.3390/medicina58121705	PMC9783876	Angelopoulou E	How Telemedicine Can Improve the Quality of Care for Patients with Alzheimer's Disease and Related Dementias? A Narrative Review.	Q3_costly
+2	C1C3	2022	10.1038/s41598-022-07999-3	PMC8901755	Björkstrand J	Evaluating an internet-delivered fear conditioning and extinction protocol using response times and affective ratings.	Q9_instruction_dissociation
+2	C1C3	2022	10.1002/jnr.24860	PMC8628026	Zabik NL	A common genetic variant in fatty acid amide hydrolase is linked to alterations in fear extinction neural circuitry in a racially diverse, nonclinical sample of adults.	Q9_instruction_dissociation
+2	C2C3	2023	10.1016/j.cortex.2023.04.017	PMC10528632	Motzkin JC	Human ventromedial prefrontal cortex lesions enhance the effect of expectations on pain perception.	Q1_instructed
+2	C1C4	2023	10.1016/j.neubiorev.2022.104959	PMC10564627	Yamamori Y	Computational perspectives on human fear and anxiety.	Q2_aac_intervention
+2	C1C4	2023	10.1038/s44159-023-00156-1	PMC9933844	Beckers T	Understanding clinical fear and anxiety through the lens of human fear conditioning.	Q3_costly,Q5_dissociation
+2	C1C3	2023	10.1016/j.bbr.2022.114154	PMC10277015	Zabik NL	Comparison of behavioral and brain indices of fear renewal during a standard vs. novel immersive reality Pavlovian fear extinction paradigm in healthy adults.	Q5_dissociation
+2	C1C3	2023	10.1002/brb3.3050	PMC10338814	Huang X	The excessive generalization of fear affected by perceptual bias in experimental pain individuals: Evidence from an event-related potential study.	Q5_dissociation
+2	C3C4	2023	10.3758/s13415-023-01080-w	PMC10475148	Brown VM	Anxiety as a disorder of uncertainty: implications for understanding maladaptive anxiety, anxious avoidance, and exposure therapy.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C3	2023	10.1016/j.nlm.2023.107758	PMC10226818	Zabik NL	Cannabinoid modulation of corticolimbic activation during extinction learning and fear renewal in adults with posttraumatic stress disorder.	Q5_dissociation
+2	C1C4	2023	10.1016/j.janxdis.2023.102680	PMC10084922	Crombie KM	Aerobic exercise in the treatment of PTSD: An examination of preclinical and clinical laboratory findings, potential mechanisms, clinical implications, and future directions.	Q5_dissociation,Q9_instruction_dissociation
+2	C2C4	2023	10.1186/s12888-022-04320-4	PMC10011792	Endhoven B	Eye movement desensitization and reprocessing (EMDR) therapy or supportive counseling prior to exposure therapy in patients with panic disorder: study protocol for a multicenter randomized controlled trial (IMPROVE).	Q9_instruction_dissociation
+2	C1C2	2023	10.3390/ijms24065926	PMC10053024	Battaglia S	Neuropharmacological Modulation of N-methyl-D-aspartate, Noradrenaline and Endocannabinoid Receptors in Fear Extinction Learning: Synaptic Transmission and Plasticity.	Q9_instruction_dissociation
+2	C2C4	2024	10.3389/fpsyg.2024.1502460	PMC11757295	Schäfer LN	The influence of expectations on shame, rumination and cognitive flexibility: an experimental investigation on affect-regulatory characteristics of deceptive placebos.	Q1_instructed
+2	C3C4	2024	10.3389/fpsyg.2024.1293975	PMC11064928	Klauß H	Learning by observing: a systematic exploration of modulatory factors and the impact of observationally induced placebo and nocebo effects on treatment outcomes.	Q1_instructed
+2	C1C4	2024	10.1155/2024/6366269	PMC11918936	Carpentier N	Predicting Emotional Distress, Based on Acquisition, Extinction, Avoidance, and Generalization Learning.	Q3_costly,Q5_dissociation,Q9_instruction_dissociation
+2	C1C3	2024	10.1016/j.janxdis.2024.102880	PMC13682795	Rosenberg BM	Anhedonia is associated with overgeneralization of conditioned fear during late adolescence and early adulthood.	Q5_dissociation
+2	C1C3	2024	10.3390/bs14080630	PMC11351138	Song Y	The Impact of Continuous and Partial Reinforcement on the Acquisition and Generalization of Human-Conditioned Fear.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C4	2024	10.1037/abn0000945	PMC13653368	Cooper SE	Integrating threat conditioning and the hierarchical taxonomy of psychopathology to advance the study of anxiety-related psychopathology.	Q5_dissociation
+2	C1C4	2024	10.1038/s41598-024-76175-6	PMC11522625	Franke J	Persistent defensive reactivity during extensive avoidance training as a potential mechanism for the perpetuation of safety behaviors.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C3	2024	10.3758/s13420-024-00625-4	PMC11408548	Dymond S	Far from the threatening crowd: Generalisation of conditioned threat expectancy and fear in COVID-19 lockdown.	Q5_dissociation
+2	C1C2	2024	10.2147/prbm.s447426	PMC10945213	Gao Y	Contingency Reversal in Conditioned Fear Learning: The Moderated Mediation Model of Intolerance of Uncertainty and Instruction.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C4	2024	10.1111/psyp.14473	PMC13631869	Lewis MW	Unconditioned response to a naturally aversive stimulus is associated with sensitized defensive responding and self-reported fearful traits in a PTSD sample.	Q5_dissociation
+2	C1C4	2024	10.1038/s41539-024-00287-x	PMC11659557	Yu K	The representational instability in the generalization of fear learning.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C2	2024	10.3390/bs14121230	PMC11672944	Fu H	Fear Generalization Towards a Stimulus and Context and the Impact of Attention Bias.	Q9_instruction_dissociation
+2	C3C4	2025	10.3389/fpsyg.2025.1525216	PMC11955684	Li X	The effect of expectancy on conditioned pain modulation: evidence from functional near-infrared spectroscopy.	Q1_instructed
+2	C3C4	2025	10.1186/s40359-025-03308-5	PMC12505874	Behbahanabadi M	Does enhanced expectancy mitigate the negative impact of gender stereotype threat on women's motor learning, perceived competence and self-efficacy?	Q1_instructed
+2	C2C4	2025	10.2196/78486	PMC12646560	Shore J	Evaluating R2Play, A Novel Multidomain Return-to-Play Assessment Tool for Concussion: Mixed Methods Feasibility and Face Validity Study.	Q1_instructed
+2	C1C4	2025	10.3390/bs15111528	PMC12649573	Liu S	Approach-Avoidance Conflict Paradigms in Animal and Human Studies of Anxiety-A Narrative Review.	Q2_aac_intervention
+2	C1C2	2025	10.3389/fnhum.2025.1595737	PMC12279881	Szeska C	A vagal route to memory: evidence from invasive and non-invasive electrical vagus nerve stimulation studies and areas for future clinical application.	Q5_dissociation,Q7_defusion
+2	C1C3	2025	10.1038/s41598-025-27857-2	PMC12717244	Zhang H	Conditioned generalization of social anxiety effects based on positive and negative social evaluations.	Q5_dissociation
+2	C1C4	2025	10.1136/bmjopen-2025-101648	PMC12265806	Braun MN	Support on four paws-does the integration of a therapy dog reduce anxiety and increase positive affect in spider phobics during in vivo exposure therapy?: study protocol for a parallel randomised controlled trial of two groups to compare one-session in vivo exposure treatment of spider phobia with and without a therapy dog.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+2	C1C3	2025	10.3389/fnhum.2025.1586543	PMC12481611	Zhang H	The modulatory effect of evaluative valence on fear generalization in social anxiety: an SSVEP study.	Q5_dissociation,Q7_defusion
+2	C1C3	2025	10.3390/bs15030263	PMC12539678	Li X	Breath-Counting Task Enhances the Sensitivity of Fear Acquisition.	Q5_dissociation,Q7_defusion
+2	C1C4	2025	10.3758/s13420-025-00669-0	PMC12408749	Söylemez S	Examining disgust learning through category conditioning: Evidence from trial-unique presentations and oculomotor avoidance.	Q5_dissociation
+2	C1C2	2025	10.1016/j.ynstr.2025.100715	PMC11951259	Klinke CM	The impact of distal stress on the spontaneous recovery of conditioned defensive responses.	Q5_dissociation,Q9_instruction_dissociation
+2	C3C4	2025	10.1186/s12888-025-06756-w	PMC12008921	Uduwa Vidanalage ES	VIRTUS: virtual reality exposure training for adolescents with social anxiety - a randomized controlled trial.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+2	C2C4	2025	10.1038/s41398-025-03352-0	PMC11982236	Szeska C	Ready for translation: non-invasive auricular vagus nerve stimulation inhibits psychophysiological indices of stimulus-specific fear and facilitates responding to repeated exposure in phobic individuals.	Q5_dissociation,Q9_instruction_dissociation
+2	C3C4	2025	10.1017/s0033291725001242	PMC12094649	Freeman D	A counterweight model for understanding and treating persecutory delusions.	Q5_dissociation
+2	C3C4	2025	10.1016/j.jaac.2024.07.928	PMC11965437	Kribakaran S	Developmental Differences in a Hippocampal-Cingulate Pathway Involved in Learned Safety Following Interpersonal Trauma Exposure.	Q5_dissociation,Q9_instruction_dissociation
+2	C1C3	2025	10.1038/s41598-025-23629-0	PMC12532484	Grill M	Threat expectancies in a VR fear conditioning paradigm follow non-linear extinction patterns but are not influenced by intolerance of uncertainty.	Q9_instruction_dissociation
+2	C1C4	2026	10.1523/eneuro.0170-26.2026	PMC13528696	Claes L	The Neural Basis of Avoidance Learning and Its Relation to Safety Processing.	Q1_instructed,Q5_dissociation,Q9_instruction_dissociation
+2	C1C4	2026	10.1152/jn.00288.2025	PMC13480465	McCain KJ	The contribution of the koniocellular visual pathway to aversive learning in human visual cortex.	Q1_instructed,Q9_instruction_dissociation
+2	C2C4	2026	10.1186/s13063-026-09433-9	PMC13104248	Batista de Souza IM	Effect of telerehabilitation on the treatment of chronic nonspecific low back pain in the Afro-Brazilian population: a randomized controlled trial protocol.	Q1_instructed
+2	C2C4	2026	10.3904/kjim.2024.446	PMC12800473	Kim JM	Advanced strategies for the management of patients with diabetic foot ulcers: a comprehensive review.	Q1_instructed
+2	C1C4	2026	10.1038/s41380-026-03640-1	PMC13313569	Berg H	Anxiety sensitivity and intolerance of uncertainty track distinct neurobehavioral dimensions of avoidance in anxiety-related disorders.	Q3_costly,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+2	C1C2	2026	10.3389/fpsyt.2026.1798369	PMC13279655	Yum SY	Neuroimmune-driven abrupt neuropsychiatric symptoms in children: preventing pathological fear consolidation.	Q4_response_prevention,Q5_dissociation,Q9_instruction_dissociation
+2	C2C4	2026	10.1186/s40359-026-04418-4	PMC13130696	Colella GM	Immersive virtual reality for reducing public speaking anxiety in students accessing a university psychological counseling service: protocol for a randomized controlled trial.	Q4_response_prevention,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+2	C1C3	2026	10.1038/s41398-026-04430-7	PMC13744572	Qian Z	Reduced attenuation of neural activation during fear extinction learning in patients with anxiety disorders: a delayed fear extinction fMRI study.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+2	C1C4	2026	10.5334/cpsy.138	PMC12829443	Kerr T	Computational Modelling Reveals Slower Safety Learning and Threat Extinction are Associated With Higher Anxiety Severity in Remote Fear Conditioning.	Q5_dissociation,Q9_instruction_dissociation
+2	C2C4	2026	10.3389/fpsyg.2026.1969526	PMC13714181	Dongxian W	Animation-assisted psychological intervention in pediatric care: mechanisms, clinical applications, and emerging evidence.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+2	C1C4	2026	10.3758/s13415-026-01450-0	PMC13615150	Stegmann Y	Attentional processing in individual anxiety: Electrocortical correlates of threat- and safety-related declarative memory formation.	Q5_dissociation,Q9_instruction_dissociation
+2	C3C4	2026	10.3389/fpsyg.2026.1837475	PMC13506682	Li Y	Cognitive decision-making in police use of force: a scoping review based on eye-tracking research.	Q5_dissociation,Q7_defusion
+2	C1C4	2026	10.7554/elife.101518	PMC12916100	Wirz L	Unravelling the neurocognitive mechanisms underlying counterconditioning in humans.	Q5_dissociation
+2	C1C3	2026	10.1016/j.biopsycho.2026.109351	PMC13760717	Ouyang L	Effects of threat intensity on sensory preconditioning.	Q5_dissociation
+2	C1C3	2026	10.1093/scan/nsag046	PMC13390287	Dou H	Bidirectional cross-modal fear generalization: semantic similarity in representation space as a foundational mechanism.	Q5_dissociation
+2	C2C4	2026	10.3390/ijms27146142	PMC13411848	Selakovic D	Neurotrophin System as a Complex Set of Potential Biomarkers in Psychiatric Disorders and Therapy-Overview of Recent Advances.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	1994	10.1007/bf03392675	PMC2733461	Williams BA.	Conditioned reinforcement: Experimental and theoretical issues.	Q1_instructed
+1	C1	2006	10.1101/lm.393906	PMC3746591	Norrholm SD	Conditioned fear extinction and reinstatement in a human fear-potentiated startle paradigm.	Q1_instructed,Q5_dissociation,Q9_instruction_dissociation
+1	C4	2007	10.1016/j.brat.2007.06.006	PMC2174693	Hofmann SG.	Enhancing exposure-based therapy from a translational research perspective.	Q1_instructed,Q4_response_prevention,Q5_dissociation,Q9_instruction_dissociation
+1	C1	2007	10.1101/lm.493707	PMC2216529	Alvarez RP	Contextual-specificity of short-delay extinction in humans: renewal of fear-potentiated startle in a virtual environment.	Q5_dissociation
+1	C1	2008	10.1037/a0012604	PMC3731450	Norrholm SD	Timing of extinction relative to acquisition: a parametric analysis of fear extinction in humans.	Q1_instructed,Q5_dissociation,Q9_instruction_dissociation
+1	C4	2009	10.1007/dcr.0b013e3181b55455	PMC3855426	Heymen S	Randomized controlled trial shows biofeedback to be superior to pelvic floor exercises for fecal incontinence.	Q1_instructed
+1	C1	2009	10.1016/j.appet.2009.03.009	PMC2694141	Galarce EM	Effects of cues associated with meal interruption on feeding behavior.	Q5_dissociation
+1	C4	2009	10.1037/a0017324	PMC2802459	Hyman SM	A stress-coping profile of opioid dependent individuals entering naltrexone treatment: a comparison with healthy controls.	Q7_defusion
+1	C1	2011	10.1016/j.psyneuen.2011.04.008	PMC3686475	Jovanovic T	Cortisol suppression by dexamethasone reduces exaggerated fear responses in posttraumatic stress disorder.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2011	10.1111/j.1476-5381.2010.01175.x	PMC3229759	Graham BM	Pharmacological enhancement of fear reduction: preclinical models.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2012	10.6064/2012/561761	PMC3820628	Ossipov MH.	The perception and endogenous modulation of pain.	Q1_instructed
+1	C4	2012		PMC3433545		Northeastern Section of the American Urological Association 64(th) Annual Meeting, Niagara Falls, Ontario Scientific Program.	Q1_instructed
+1	C4	2012	10.1037/a0028032	PMC3404244	Meuret AE	Does fear reactivity during exposure predict panic symptom reduction?	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2012	10.1037/a0028957	PMC3404225	Smits JA	Threat reappraisal as a mediator of symptom change in cognitive-behavioral treatment of anxiety disorders: a systematic review.	Q7_defusion
+1	C2	2013	10.1186/1471-2318-13-105	PMC3852637	Gschwind YJ	A best practice fall prevention exercise program to improve balance, strength / power, and psychosocial health in older adults: study protocol for a randomized controlled trial.	Q1_instructed
+1	C2	2013	10.1002/14651858.cd008416.pub2	PMC11222367	Ciciriello S	Multimedia educational interventions for consumers about prescribed and over-the-counter medications.	Q1_instructed
+1	C2	2013	10.1002/14651858.cd004294.pub3	PMC11930398	Crocker T	Physical rehabilitation for older people in long-term care.	Q1_instructed
+1	C1	2013	10.3389/fnbeh.2013.00031	PMC3632789	Glotzbach-Schoon E	Contextual fear conditioning in virtual reality is affected by 5HTTLPR and NPSR1 polymorphisms: effects on fear-potentiated startle.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2013	10.4172/2161-0487.s7-006	PMC3882311	Davis TA	Substance Use Attenuates Physiological Responses Associated With PTSD among Individuals with Co-Morbid PTSD and SUDs.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2013	10.1503/jpn.120129	PMC3756118	Glover EM	Inhibition of fear is differentially associated with cycling estrogen levels in women.	Q5_dissociation
+1	C4	2013	10.1016/j.neuropharm.2012.06.063	PMC3445738	Rabinak CA	Cannabinoid facilitation of fear extinction memory recall in humans.	Q5_dissociation
+1	C1	2013	10.1016/j.biopsycho.2012.02.005	PMC3387342	Prenoveau JM	Human fear conditioning and extinction: timing is everything…or is it?	Q5_dissociation
+1	C4	2013	10.1007/s00213-013-3004-1	PMC3682675	Auber A	Post-retrieval extinction as reconsolidation interference: methodological issues or boundary conditions?	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2013	10.3389/fnhum.2013.00345	PMC3701862	Meulders A	Generalization gradients in cued and contextual pain-related fear: an experimental study in healthy participants.	Q9_instruction_dissociation
+1	C1	2013	10.3389/fnbeh.2013.00030	PMC3622057	Norrholm SD	Differential Genetic and Epigenetic Regulation of catechol-O-methyltransferase is Associated with Impaired Fear Inhibition in Posttraumatic Stress Disorder.	Q9_instruction_dissociation
+1	C1	2013	10.1016/j.biopsycho.2013.01.011	PMC4166521	Glotzbach-Schoon E	Enhanced discrimination between threatening and safe contexts in high-anxious individuals.	Q9_instruction_dissociation
+1	C2	2014	10.1101/lm.036053.114	PMC4138360	Haaker J	A review on human reinstatement studies: an overview and methodological challenges.	Q1_instructed,Q5_dissociation,Q9_instruction_dissociation
+1	C2	2014	10.1016/j.jbtep.2013.12.002	PMC3989036	Mobini S	Effects of standard and explicit cognitive bias modification and computer-administered cognitive-behaviour therapy on cognitive biases and social anxiety.	Q1_instructed
+1	C4	2014	10.1111/cpsp.12077	PMC4204511	Einstein DA.	Extension of the Transdiagnostic Model to Focus on Intolerance of Uncertainty: A Review of the Literature and Implications for Treatment.	Q4_response_prevention,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+1	C4	2014	10.2174/1573400510666140619224942	PMC4223803	Sulkowski ML	The Future of D-Cycloserine and Other Cognitive Modifiers in Obsessive-Compulsive and Related Disorders.	Q4_response_prevention
+1	C4	2014	10.1016/j.beth.2014.03.001	PMC4234113	Hofmann SG.	Toward a cognitive-behavioral classification system for mental disorders.	Q7_defusion
+1	C4	2015	10.1002/14651858.cd007569.pub3	PMC6483290	de Boer AG	Interventions to enhance return-to-work for cancer patients.	Q1_instructed
+1	C4	2015	10.1016/j.neuron.2015.09.028	PMC4598943	Dunsmoor JE	Rethinking Extinction.	Q5_dissociation
+1	C4	2015	10.3389/fpsyg.2015.00652	PMC4446539	Vanbrabant K	A new approach for modeling generalization gradients: a case for hierarchical models.	Q7_defusion
+1	C1	2015	10.1371/journal.pone.0122971	PMC4406712	Pile V	Updating versus Exposure to Prevent Consolidation of Conditioned Fear.	Q9_instruction_dissociation
+1	C4	2016	10.1037/apl0000082	PMC4933528	Ballard T	Departures from optimality when pursuing multiple approach or avoidance goals.	Q1_instructed
+1	C2	2016	10.1371/journal.pone.0158910	PMC4951130	Schenke KC	The Things You Do: Internal Models of Others' Expected Behaviour Guide Action Observation.	Q1_instructed
+1	C4	2016	10.3748/wjg.v22.i6.1975	PMC4726673	Rodríguez-Sanjuán JC	Laparoscopic and robot-assisted laparoscopic digestive surgery: Present and future directions.	Q1_instructed
+1	C4	2016		PMC7122195		Managing risk	Q3_costly
+1	C2	2016	10.1016/j.nlm.2016.01.009	PMC4818733	Giustino TF	Revisiting propranolol and PTSD: Memory erasure or extinction enhancement?	Q5_dissociation,Q9_instruction_dissociation
+1	C3	2016	10.1186/s13063-016-1245-0	PMC4788840	Freeman D	The efficacy of a new translational treatment for persecutory delusions: study protocol for a randomised controlled trial (The Feeling Safe Study).	Q5_dissociation
+1	C1	2016	10.1038/npp.2015.255	PMC4677141	Greco JA	Neuroimaging of Fear-Associated Learning.	Q9_instruction_dissociation
+1	C2	2017	10.1097/pr9.0000000000000620	PMC5741322	Schmitz J	Impact of patient information leaflets on pain medication intake behavior: a pilot study.	Q1_instructed
+1	C4	2017	10.3389/fpsyt.2017.00001	PMC5253387	Raymond JG	Modeling Trait Anxiety: From Computational Processes to Personality.	Q2_aac_intervention
+1	C2	2017	10.1177/0269216316689015	PMC5405831	Groeneveld EI	Funding models in palliative care: Lessons from international experience.	Q3_costly
+1	C4	2018	10.1007/s40614-017-0133-6	PMC6701705	Dymond S	Related to Anxiety: Arbitrarily Applicable Relational Responding and Experimental Psychopathology Research on Fear and Avoidance.	Q1_instructed,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+1	C4	2018	10.1053/j.sodo.2018.04.001	PMC6660159	Blasini M	Placebo hypoalgesic effects in pain: Potential applications in dental and orofacial pain management.	Q1_instructed
+1	C3	2018	10.1186/s40708-018-0087-9	PMC6170941	Lehockey KA	The effects of emotional states and traits on time perception.	Q1_instructed
+1	C3	2018	10.1371/journal.pone.0205794	PMC6235271	Wong SY	What are the financial barriers to medical care among the poor, the sick and the disabled in the Special Administrative Region of China?	Q3_costly
+1	C2	2018	10.1098/rstb.2017.0033	PMC5790831	Kindt M.	The surprising subtleties of changing fear memory: a challenge for translational science.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2018	10.1097/hrp.0000000000000185	PMC5944863	Fitzgerald JM	Functional Neuroanatomy of Emotion and Its Regulation in PTSD.	Q5_dissociation,Q9_instruction_dissociation
+1	C2	2018	10.3389/fpsyg.2018.01395	PMC6106867	Landin-Romero R	How Does Eye Movement Desensitization and Reprocessing Therapy Work? A Systematic Review on Suggested Mechanisms of Action.	Q5_dissociation
+1	C2	2019	10.3390/brainsci9070164	PMC6680899	Carpenter JK	From Extinction Learning to Anxiety Treatment: Mind the Gap.	Q1_instructed,Q5_dissociation,Q9_instruction_dissociation
+1	C4	2019	10.1002/brb3.1157	PMC6346649	Oyarzún JP	Implicit but not explicit extinction to threat-conditioned stimulus prevents spontaneous recovery of threat-potentiated startle responses in humans.	Q5_dissociation,Q7_defusion
+1	C3	2019	10.1080/16506073.2019.1574312	PMC6693977	Kemp JJ	The effects of safety behavior availability versus utilization on inhibitory learning during exposure.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2019	10.1016/j.neubiorev.2019.09.020	PMC7822629	Haaker J	Making translation work: Harmonizing cross-species methodology in the behavioural neuroscience of Pavlovian fear conditioning.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2019	10.3389/fnhum.2019.00051	PMC6394213	Chalkia A	Acute but Not Permanent Effects of Propranolol on Fear Memory Expression in Humans.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2020	10.3934/neuroscience.2020013	PMC7519970	Moss RA.	Psychotherapy in pain management: New viewpoints and treatment targets based on a brain theory.	Q1_instructed
+1	C4	2020	10.1038/s41562-020-0867-0	PMC7115941	Bach DR	Predictors of risky foraging behaviour in healthy young people.	Q2_aac_intervention
+1	C2	2020	10.1101/2020.04.14.028407		Arthur RF	Adaptive social contact rates induce complex dynamics during epidemics	Q3_costly
+1	C1	2020	10.1016/j.brat.2019.103532	PMC6983350	Keller NE	Behavioral and neural processes in counterconditioning: Past and future directions.	Q5_dissociation
+1	C1	2020	10.1101/lm.050740.119	PMC6919193	Keller NE	The effects of aversive-to-appetitive counterconditioning on implicit and explicit fear memory.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2020	10.1093/schizbullopen/sgaa036	PMC13700954	van der Vleugel BM	Changes in Posttraumatic Cognitions Mediate the Effects of Trauma-Focused Therapy on Paranoia.	Q5_dissociation
+1	C4	2020	10.1002/14651858.cd013684	PMC7388680	Kunzler AM	Psychological interventions to foster resilience in healthcare students.	Q7_defusion,Q9_instruction_dissociation
+1	C4	2021	10.1038/s41746-021-00387-7	PMC7870885	Bentz D	Effectiveness of a stand-alone, smartphone-based virtual reality exposure app to reduce fear of heights in real-life: a randomized trial.	Q1_instructed
+1	C4	2021	10.1007/s12603-021-1665-8	PMC12369211	Izquierdo M	International Exercise Recommendations in Older Adults (ICFSR): Expert Consensus Guidelines.	Q1_instructed
+1	C2	2021	10.3389/fnhum.2021.655947	PMC8019721	Marković V	A Systematic Review on the Effect of Transcranial Direct Current and Magnetic Stimulation on Fear Memory and Extinction.	Q4_response_prevention,Q9_instruction_dissociation
+1	C4	2021	10.1176/appi.ajp.2020.20020232	PMC7951569	Odriozola P	Learning About Safety: Conditioned Inhibition as a Novel Approach to Fear Reduction Targeting the Developing Brain.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2021	10.1016/j.bbr.2020.113024	PMC8174652	Krueger JN	On the basis of sex: Differences in safety discrimination vs. conditioned inhibition.	Q5_dissociation
+1	C4	2021	10.1016/j.neubiorev.2021.04.005	PMC8292172	Spagnolo PA	A dimensional approach to functional movement disorders: Heresy or opportunity.	Q5_dissociation
+1	C3	2021	10.1037/ccp0000648	PMC9380705	Lackner JM	Specific and common mediators of gastrointestinal symptom improvement in patients undergoing education/support vs. cognitive behavioral therapy for irritable bowel syndrome.	Q7_defusion,Q9_instruction_dissociation
+1	C4	2022	10.1186/s12998-022-00430-8	PMC9028033	Sherriff B	Impact of contextual factors on patient outcomes following conservative low back pain treatment: systematic review.	Q1_instructed
+1	C2	2022	10.1016/j.conctc.2022.100884	PMC8752164	Singh L	A first remotely-delivered guided brief intervention to reduce intrusive memories of psychological trauma for healthcare staff working during the ongoing COVID-19 pandemic: Study protocol for a randomised controlled trial.	Q1_instructed
+1	C4	2022	10.1177/17456916211039852	PMC9271534	Kredlow MA	A Case for Translation From the Clinic to the Laboratory.	Q1_instructed
+1	C2	2022	10.1002/14651858.cd001704.pub5	PMC9451000	Fairhall NJ	Interventions for improving mobility after hip fracture surgery in adults.	Q1_instructed
+1	C4	2022	10.3390/ijerph19159530	PMC9368440	Zhu P	Vanishing Happiness: How Does Pollution Information Disclosure Affect Life Satisfaction?	Q3_costly
+1	C1	2022	10.1257/jel.20201482	PMC10072869	DeCicca P	The Economics of Tobacco Regulation: A Comprehensive Review.	Q3_costly
+1	C2	2022	10.3389/fpsyt.2022.915058	PMC9314666	von Mücke-Heim IA	Combined Fainting and Psychogenic Non-epileptic Seizures as Significant Therapy Hurdles in Blood-Injury-Injection Phobia: A Mini-Review and Case Report.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2022	10.3390/brainsci12111536	PMC9688290	Zoladz P	Childhood Maltreatment in Females Is Associated with Enhanced Fear Acquisition and an Overgeneralization of Fear.	Q5_dissociation
+1	C4	2022	10.1016/j.jpsychires.2022.01.049	PMC8968218	Černis E	Psychological mechanisms connected to dissociation: Generating hypotheses using network analyses.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2022	10.1186/s40337-022-00546-5	PMC9092702	Murray SB	Neural, physiological, and psychological markers of appetitive conditioning in anorexia nervosa: a study protocol.	Q5_dissociation
+1	C4	2022	10.1111/bjhp.12588	PMC9544439	Satherley RM	An interpretative phenomenological analysis of the development and maintenance of gluten-related distress and unhelpful eating and lifestyle patterns in coeliac disease.	Q5_dissociation
+1	C2	2022	10.1111/psyp.13978	PMC9286856	Gründahl M	The skin conductance response indicating pain relief is independent of self or social influence on pain.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2022	10.1111/papt.12385	PMC9304248	Bird JC	The journey of adolescent paranoia: A qualitative study with patients attending child and adolescent mental health services.	Q5_dissociation
+1	C1	2022	10.1080/20008198.2022.2051334	PMC9004522	Lommen MJJ	Extinction learning as pretrauma vulnerability factor of posttraumatic stress: a replication study.	Q9_instruction_dissociation
+1	C2	2023	10.1146/annurev-neuro-101822-122427	PMC11793868	Atlas LY.	How Instructions, Learning, and Expectations Shape Pain and Neurobiological Responses.	Q1_instructed
+1	C3	2023	10.3390/bs13060479	PMC10294887	Gao Y	Role of Cue Training, Context, and Stimulus Intensity on Fear Generalization in Humans.	Q1_instructed,Q5_dissociation,Q9_instruction_dissociation
+1	C4	2023	10.3390/brainsci13121689	PMC10741592	Long P	Intranasal Oxytocin and Pain Reduction: Testing a Social Cognitive Mediation Model.	Q1_instructed
+1	C4	2023	10.1177/20552076231171967	PMC10201006	Zhai S	Digital health interventions to support family caregivers: An updated systematic review.	Q1_instructed
+1	C4	2023	10.1002/14651858.cd013856.pub2	PMC9815433	Ernst M	Physical exercise for people with Parkinson's disease: a systematic review and network meta-analysis.	Q1_instructed
+1	C1	2023	10.1371/journal.pone.0274437	PMC10286974	Radostova D	Incidental temporal binding in rats: A novel behavioral task.	Q3_costly
+1	C4	2023	10.3390/bs13050370	PMC10215383	Melles H	Inhibitory Learning during Exposure Treatment in Anorexia Nervosa: A Practical Guide.	Q4_response_prevention,Q9_instruction_dissociation
+1	C2	2023	10.1016/j.nlm.2023.107825	PMC10872945	Adams TG	Frontopolar multifocal transcranial direct current stimulation reduces conditioned fear reactivity during extinction training: A pilot randomized controlled trial.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2023	10.1016/j.conctc.2023.101197	PMC10475481	Scheer JR	Expressive writing treatments to reduce PTSD symptom severity and negative alcohol-related outcomes among trauma-exposed sexual minority women and transgender/nonbinary people: Study protocol for a mixed-method pilot trial.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+1	C1	2023	10.1038/s41598-023-40166-w	PMC10415342	Zaman J	Examining the impact of cue similarity and fear learning on perceptual tuning.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2023	10.1016/j.neubiorev.2023.105146	PMC10618407	Bach DR	Consensus design of a calibration experiment for human fear conditioning.	Q5_dissociation,Q9_instruction_dissociation
+1	C3	2023	10.1016/s2215-0366(23)00257-2	PMC7617886	Freeman D	Automated virtual reality cognitive therapy versus virtual reality mental relaxation therapy for the treatment of persistent persecutory delusions in patients with psychosis (THRIVE): a parallel-group, single-blind, randomised controlled trial in England with mediation analyses.	Q5_dissociation
+1	C1	2023	10.1007/s00429-023-02646-7	PMC10250514	Pirazzini G	Changes in brain rhythms and connectivity tracking fear acquisition and reversal.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2023	10.1101/lm.053781.123	PMC10519410	Xia Y	Measuring human context fear conditioning and retention after consolidation.	Q5_dissociation
+1	C4	2023	10.1016/j.brat.2023.104436	PMC10862259	Taylor CT	What good are positive emotions for treatment? A replication test of whether trait positive emotionality predicts response to exposure therapy for social anxiety disorder.	Q7_defusion
+1	C4	2023	10.12688/wellcomeopenres.19903.3	PMC12102654	Wright S	Mechanisms through which exercise reduces symptom severity and/or functional impairment in posttraumatic stress disorder (PTSD): Protocol for a living systematic review of human and non-human studies.	Q9_instruction_dissociation
+1	C4	2024	10.1186/s12916-024-03569-8	PMC11414261	Kanstrup M	A guided single session intervention to reduce intrusive memories of work-related trauma: a randomised controlled trial with healthcare workers in the COVID-19 pandemic.	Q1_instructed
+1	C2	2024	10.22514/jofph.2024.039	PMC11810663	García-González M	Tell me what to expect: how instructions affect the pain response of patients with chronic myofascial pain with referral.	Q1_instructed
+1	C4	2024	10.1002/14651858.cd013856.pub3	PMC11001292	Ernst M	Physical exercise for people with Parkinson's disease: a systematic review and network meta-analysis.	Q1_instructed
+1	C1	2024	10.1101/lm.053982.124	PMC11662143	Ouyang L	Emotional intensity produces a linear relationship on conditioned learning but an inverted U-shaped effect on episodic memory.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2024	10.7717/peerj.17262	PMC11088819	Wake S	The effect of social anxiety on threat acquisition and extinction: a systematic review and meta-analysis.	Q5_dissociation
+1	C4	2024	10.1016/j.janxdis.2023.102804	PMC10923000	Christian C	An Intensive time series investigation of the relationships across eating disorder-specific fear responses and behavior urges in partially remitted anorexia nervosa.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2024	10.1523/jneurosci.0575-24.2024	PMC11484543	Stegmann Y	Electrocortical Responses in Anticipation of Avoidable and Inevitable Threats: A Multisite Study.	Q5_dissociation
+1	C4	2024	10.1177/27536351241271548	PMC11342326	Ghai S	Floor-hugging Intervention: A Perspective on Floor Exposure and After-Fall Contingency Intervention.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2024	10.7759/cureus.64573	PMC11323791	Meshkat S	Virtual Reality and Stress Management: A Systematic Review.	Q5_dissociation
+1	C4	2025	10.1016/j.bjpt.2025.101197	PMC11982455	Alaiti RK	Unraveling the role of fear and avoidance behavior in chronic musculoskeletal pain: from theory to physical therapy clinical practice.	Q1_instructed,Q7_defusion
+1	C2	2025	10.1038/s41539-025-00331-4	PMC12119884	Eder AB	Pavlovian to instrumental transfer of control over fight or flight decisions.	Q1_instructed
+1	C3	2025	10.1089/psymed.2024.0019	PMC12060849	Yaden DB	A Field-Wide Review and Analysis of Study Materials Used in Psilocybin Trials: Assessment of Two Decades of Research.	Q1_instructed
+1	C2	2025	10.1038/s41598-025-98243-1	PMC12034800	Job M	A surprise induced by a visual-haptic illusion in virtual reality can lead to motor improvement.	Q1_instructed
+1	C4	2025	10.1016/j.cedpsych.2025.102393	PMC12338047	Merrick M	Should I stay or should I go? Children's motivation in response to feedback and its association with math anxiety and math self-concept.	Q1_instructed
+1	C2	2025	10.7554/elife.91400	PMC11875134	Willems AL	Omissions of threat trigger subjective relief and prediction error-like signaling in the human reward and salience systems.	Q1_instructed
+1	C2	2025	10.3390/s25247667	PMC12737157	Prontvai N	Value of Robotics: Comparison of Three Different High-Intensity Training Programs for Rehabilitation After Stroke.	Q1_instructed
+1	C3	2025	10.1016/j.xjmad.2025.100148	PMC12524147	Acheson DT	A prospective study of pre-trauma fear learning and extinction as risk factors for posttraumatic stress disorder.	Q5_dissociation
+1	C4	2025	10.3390/ijms26125527	PMC12192862	Ney L.	Understanding the Role of Endocannabinoids in Posttraumatic Stress Disorder.	Q5_dissociation,Q9_instruction_dissociation
+1	C3	2025	10.1155/da/6963860	PMC12197478	Hilleke M	How Do Patients' Fear Prediction and Fear Experience Impact Exposure-Based Therapy for Panic Disorder With Agoraphobia? A Comprehensive Analysis of Fear Prediction.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2025	10.1111/eip.70096	PMC12495843	Gurnani R	The Role of Emotion in Psychosis Onset and Symptom Persistence: A Systematic Review.	Q5_dissociation
+1	C4	2026	10.2147/prbm.s619844	PMC13577172	Hüsing P	Cognitive-Affective Predictors of Exertion-Related Fatigue in Primary Biliary Cholangitis: An Experimental Substudy of the SOMA.LIV Project.	Q1_instructed
+1	C4	2026	10.1038/s41598-026-58274-8	PMC13554056	Kvapil Varšová K	Therapist-guided virtual reality exposure therapy for fear of heights: evidence from a multiple-baseline single-case experimental design.	Q1_instructed
+1	C4	2026	10.2147/jpr.s628766	PMC13644568	Tariq M	Effectiveness of Biopsychosocial Model-Based Care versus Routine Physical Therapy on Clinical, Sensorimotor, and Psychosocial Outcomes in Patients with Chronic Low Back Pain: A Randomized Clinical Trial.	Q1_instructed
+1	C4	2026	10.1177/02698811251408743	PMC13490694	Eastwood APR	Effects of acute alcohol consumption on hostile attribution bias towards emotional facial expressions and implicit approach/avoidance tendencies.	Q1_instructed
+1	C2	2026	10.1097/xeb.0000000000000522	PMC12834267	Glangkarn S	Fall prevention interventions in community-dwelling older people with cognitive impairment: a systematic review.	Q1_instructed
+1	C2	2026	10.1186/s12877-026-08004-6	PMC13660193	Pu F	Determinants of fall prevention implementation among older adults with dementia or cognitive impairment: a systematic review of recent evidence from 2021 to March 2026.	Q1_instructed
+1	C4	2026	10.1002/pon.70394	PMC12932256	Trevethick R	Neurodiversity-Affirming Principles in Oncology Treatment: A Lived-Experience Case Study.	Q1_instructed
+1	C4	2026	10.1007/s00431-026-07482-5	PMC13748045	Mauritz MD	Clinical recommendations for the inpatient management of lower respiratory tract infections in children and adolescents with severe neurological impairment in Germany-2026 Update.	Q1_instructed
+1	C4	2026	10.3389/fpsyg.2026.1933287	PMC13716759	Lathren CR	Examining child stress response, parenting and relationship-related changes associated with a dyadic mindfulness and self-compassion program.	Q1_instructed
+1	C4	2026	10.1002/mpr.70094	PMC13358217	Reinhart JV	Dynamics of Fear-Generalization Processes and Their Predictive Value for the Development of Anxiety-Related Psychopathology in Adolescents and Adults: A Study Protocol for a Longitudinal Study.	Q3_costly,Q5_dissociation,Q9_instruction_dissociation
+1	C4	2026	10.1186/s41747-026-00753-8	PMC13282425	Pecoraro M	Digital twin technologies in prostate cancer as a frontier for precision medicine.	Q3_costly
+1	C2	2026	10.1186/s12888-026-08466-3	PMC13721236	Baturlar Ö	Defeating fear with exposure therapy delivered by mental health nurses in primary care for anxiety disorders in older adults: a protocol for a cluster-randomized controlled trial (DeFEAD65+).	Q5_dissociation,Q9_instruction_dissociation
+1	C2	2026	10.1186/s40359-026-04125-0	PMC12933903	Lehnert M	Sweetening fear exposure: study protocol for a multi-day, randomized controlled trial to study effects of glucose in exposure sessions of participants with public speaking anxiety.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2026	10.1146/annurev-clinpsy-061324-071811	PMC12753112	Smits JAJ	Enhancing the Efficacy of Exposure Therapy: Translation of Pharmacological Augmentation of Fear Extinction.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2026	10.1016/j.cct.2025.108148	PMC13189260	Rabinak CA	Randomized trial of delta-9-tetrahydrocannabinol (THC) versus placebo to augment the effects of prolonged exposure therapy on fear extinction learning in post-traumatic stress disorder: Study rationale and protocol.	Q5_dissociation
+1	C4	2026	10.1017/s0033291726103705	PMC13161818	Lincoln TM	A review and integration of models on delusion maintenance.	Q5_dissociation
+1	C1	2026	10.1038/s41398-026-03966-y	PMC13237184	Cooper SE	Augmenting extinction with counterconditioning strengthens and sustains neural safety representations in PTSD.	Q5_dissociation,Q9_instruction_dissociation
+1	C2	2026	10.1007/s11031-026-10205-w	PMC13433704	Vanlooy EA	The road not taken: selective sampling and persisting inaccurate impressions.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2026	10.1017/s0033291726104681	PMC13234519	Schönig SN	Safety behaviors maintain persecutory ideation in individuals with psychotic disorders: evidence from an ecological momentary assessment study.	Q5_dissociation
+1	C4	2026	10.1159/000549113	PMC12707874	Chan ATY	An Automated Virtual Reality Cognitive-Behavioural Preventive Intervention for Adults with Agoraphobic Symptoms: A Randomized Controlled Trial of Adapted gameChange in Hong Kong.	Q5_dissociation,Q9_instruction_dissociation
+1	C1	2026	10.1007/s00213-024-06702-w	PMC12000385	Zabik NL	Dose-dependent effect of acute THC on extinction memory recall and fear renewal: a randomized, double-blind, placebo-controlled study.	Q5_dissociation
+1	C4	2026	10.3389/fpsyg.2026.1793275	PMC13099809	Sapanci A	Mindfulness as a mediator between intolerance of uncertainty and test anxiety among adolescents: a structural equation model.	Q5_dissociation,Q7_defusion
+1	C4	2026	10.1186/s40337-026-01676-w	PMC13248323	Bektas-Dag S	Interpersonal wounds and identity among people with anorexia nervosa: a qualitative content analysis of autobiographical memories elicited by disgust-related cues.	Q5_dissociation,Q9_instruction_dissociation
+1	C4	2026	10.21203/rs.3.rs-8701500/v1		Bektas-Dag S	Interpersonal wounds and identity among people with anorexia nervosa: A qualitative content analysis of autobiographical memories elicited by disgust-related cues	Q5_dissociation,Q9_instruction_dissociation
+1	C3	2026	10.1186/s40359-026-04057-9	PMC12930906	Zhang R	Trait mindfulness reduces the generalization of conditioned fear: a preliminary pilot study.	Q7_defusion,Q9_instruction_dissociation
+1	C4	2026	10.3390/healthcare14020142	PMC12841139	van der Veen SM	The Effects of Virtual Immersive Gaming to Optimize Recovery (VIGOR) in Low Back Pain: A Phase II Randomized Controlled Trial.	Q7_defusion
+1	C4	2026	10.3389/fneur.2026.1879813	PMC13477872	Rey-Berenguel M	Persistent postural-perceptual dizziness: a phenotype-oriented approach to practical management.	Q7_defusion
+1	C1	2026	10.7554/elife.90013	PMC13268646	Parrotta E	Exposure to false cardiac feedback alters pain perception and anticipatory cardiac frequency.	Q9_instruction_dissociation
+0		1927		PMC1999025		Public Health Weekly Reports for FEBRUARY 18, 1927.	Q1_instructed
+0		1984		PMC1350706		Subject index	Q1_instructed
+0		1992	10.1007/bf03392873	PMC2748600	Poling A	Rule-governed behavior and human behavioral pharmacology: A brief commentary on an important topic.	Q1_instructed
+0		2004		PMC1867776		Abstracts of the British Society of Gastroenterology Annual Meeting. 21-24 March 2004, Glasgow, United Kingdom.	Q1_instructed
+0		2005		PMC1765525		Abstracts of the 49th Annual Scientific Meeting of the Society for Social Medicine. September 14-16, 2005. Glasgow, United Kingdom.	Q1_instructed
+0		2007		PMC2632307		Abstracts of the XX International Congress on Schizophrenia Research	Q1_instructed
+0		2008	10.1093/pch/13.9.791	PMC2603159		Advance care planning for paediatric patients.	Q1_instructed
+0		2009	10.1016/j.psychres.2007.12.014	PMC2713500	Jovanovic T	Posttraumatic stress disorder may be associated with impaired fear inhibition: relation to symptom severity.	Q5_dissociation
+0		2010		PMC6863357		Poster Session III	Q1_instructed
+0		2010	10.1007/s11102-009-0207-x	PMC2855862	Salvatori R	Effectiveness of self- or partner-administration of an extended-release aqueous-gel formulation of lanreotide in lanreotide-naïve patients with acromegaly.	Q3_costly
+0		2010	10.1016/j.psyneuen.2009.11.009	PMC2875386	Jovanovic T	Fear potentiation is associated with hypothalamic-pituitary-adrenal axis function in PTSD.	Q5_dissociation,Q9_instruction_dissociation
+0		2012	10.1016/j.neubiorev.2011.12.014	PMC3345303	Orsini CA	Neural and cellular mechanisms of fear and extinction memory formation.	Q5_dissociation,Q9_instruction_dissociation
+0		2012		PMC3442737	Cornelisse S	POSTERS	Q5_dissociation,Q9_instruction_dissociation
+0		2013	10.1002/da.21991	PMC3752410	Jovanovic T	Acute stress disorder versus chronic posttraumatic stress disorder: inhibition of fear as a function of time since trauma.	Q5_dissociation
+0		2013		PMC6863402		Poster Session III-Wednesday : Wednesday, December 11, 2013	Q5_dissociation
+0		2014	10.1016/j.pain.2013.12.007	PMC4011974	Klinger R	Placebo analgesia: clinical applications.	Q1_instructed
+0		2014	10.1007/s11916-014-0419-2	PMC4142751	Colloca L	Understanding placebo and nocebo responses for pain management.	Q1_instructed
+0		2014	10.1016/j.pain.2014.06.014	PMC4165602	Phillips TJC	Sensory, psychological, and metabolic dysfunction in HIV-associated peripheral neuropathy: A cross-sectional deep profiling study.	Q1_instructed
+0		2014		PMC4590118		Abstracts	Q1_instructed
+0		2014	10.1002/14651858.cd000011.pub4	PMC7263418	Nieuwlaat R	Interventions for enhancing medication adherence.	Q1_instructed
+0		2014	10.1007/s11606-014-2834-9	PMC4429500		Abstracts from the 37th Annual Meeting of the Society of General Internal Medicine, 2014, San Diego, CA, USA.	Q1_instructed
+0		2014	10.7453/gahmj.2014.005	PMC4045099	Jonas WB	Salutogenesis: the defining concept for a new healthcare system.	Q3_costly
+0		2014	10.1016/j.nlm.2013.09.009	PMC3960373	Rabinak CA	Cannabinoid modulation of prefrontal-limbic activation during fear extinction learning and recall in humans.	Q5_dissociation
+0		2014	10.1093/cercor/bht138	PMC4193458	Dunsmoor JE	Aversive learning modulates cortical representations of object categories.	Q5_dissociation
+0		2014	10.1007/s10608-014-9620-1	PMC4175723	Hofmann SG.	Interpersonal Emotion Regulation Model of Mood and Anxiety Disorders.	Q7_defusion
+0		2015	10.1038/npp.2015.327	PMC4672312		Poster Session IIIWednesday, December 9, 2015.	Q4_response_prevention,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2015	10.3389/fpsyg.2015.00968	PMC4495309	Barry TJ	An integrative review of attention biases and their contribution to treatment for anxiety disorders.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2015	10.1007/s00737-014-0467-y	PMC4609532	Michopoulos V	Psychophysiology and posttraumatic stress disorder symptom profile in pregnant African-American women with trauma exposure.	Q5_dissociation
+0		2015	10.1016/j.jocrd.2015.01.006	PMC4525711	Benito KG	Therapeutic Process During Exposure: Habituation Model.	Q7_defusion
+0		2016		PMC5149586		ACNP 55th Annual Meeting: Poster Session III December 7, 2016	Q4_response_prevention,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2016	10.1017/s1352465816000060	PMC4988271	Freeman D	Targeting Recovery in Persistent Persecutory Delusions: A Proof of Principle Study of a New Translational Psychological Treatment (the Feeling Safe Programme).	Q5_dissociation
+0		2017	10.1097/pr9.0000000000000585	PMC5621640	Blasini M	Nocebo and pain: An overview of the psychoneurobiological mechanisms.	Q1_instructed
+0		2017	10.1093/geroni/igx009	PMC6183407		Program Abstracts from the 21st International Association of Gerontology and Geriatrics (IAGG) World Congress.	Q1_instructed
+0		2017	10.1007/s11606-017-4028-8	PMC5391321		Abstracts from the 2017 Society of General Internal Medicine Annual Meeting.	Q1_instructed
+0		2017		PMC5719066		ACNP 56th Annual Meeting: Poster Session II, December 5, 2017	Q4_response_prevention,Q5_dissociation,Q9_instruction_dissociation
+0		2017	10.1007/s11926-017-0703-3	PMC5683052	Hanssen MM	Can positive affect attenuate (persistent) pain? State of the art and clinical implications.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2017	10.3389/fnbeh.2017.00065	PMC5395559	Schroyens N	In Search for Boundary Conditions of Reconsolidation: A Failure of Fear Memory Interference.	Q5_dissociation,Q9_instruction_dissociation
+0		2017	10.5127/jep.057316	PMC5524172	Krypotos AM	A Primer on Bayesian Analysis for Experimental Psychopathologists.	Q7_defusion,Q9_instruction_dissociation
+0		2017	10.1038/s41598-017-17131-5	PMC5715118	Marusak HA	A novel paradigm to study interpersonal threat-related learning and extinction in children using virtual reality.	Q9_instruction_dissociation
+0		2018	10.3758/s13423-018-1449-2	PMC6267533	Watson P	Motivational sensitivity of outcome-response priming: Experimental research and theoretical models.	Q1_instructed
+0		2018	10.1038/mp.2017.23	PMC5822451	Iyadurai L	Preventing intrusive memories after trauma via a brief intervention involving Tetris computer game play in the emergency department: a proof-of-concept randomized controlled trial.	Q1_instructed
+0		2018	10.1037/bul0000132	PMC5938103	Marks EH	Can't get it out of my mind: A systematic review of predictors of intrusive memories of distressing events.	Q1_instructed
+0		2018	10.1093/geroni/igy023	PMC6232832		Program Abstracts from the GSA 2018 Annual Scientific Meeting "The Purposes of Longer Lives".	Q1_instructed
+0		2018	10.1038/s41467-018-03659-1	PMC5883008	Kindt M	Pharmacologically induced amnesia for learned fear is time and sleep dependent.	Q5_dissociation,Q9_instruction_dissociation
+0		2018	10.1016/j.cct.2018.05.001	PMC5975386	France CR	Virtual immersive gaming to optimize recovery (VIGOR) in low back pain: A phase II randomized controlled trial.	Q7_defusion
+0		2019	10.3389/fpsyg.2019.00062	PMC6381074	Davidson TL	The Cognitive Control of Eating and Body Weight: It's More Than What You "Think".	Q1_instructed
+0		2019	10.1007/s00213-019-05314-z	PMC6892760	Francis KB	Alcohol, empathy, and morality: acute effects of alcohol consumption on affective empathy and moral decision-making.	Q1_instructed
+0		2019	10.1038/s41386-019-0546-x	PMC6957925		ACNP 58<sup>th</sup> Annual Meeting: Poster Session II.	Q1_instructed
+0		2019	10.1002/14651858.cd004542.pub3	PMC6886341	Natale P	Psychosocial interventions for preventing and treating depression in dialysis patients.	Q1_instructed
+0		2019		PMC6915863		Proceedings of the International Scientific Conference AIFI 2017. Therapeutic Exercise: Foundations, Evidences and Clinical Reasoning in Physiotherapy Practice : Rome, Italy. 12-13 October 2017	Q1_instructed
+0		2019	10.1007/s11606-019-05007-5	PMC6582171		Abstracts from the 2019 Annual Meeting of the Society of General Internal Medicine.	Q1_instructed
+0		2019	10.1002/hbm.24445	PMC6456020	Ruzich E	Characterizing hippocampal dynamics with MEG: A systematic review and evidence-based guidelines.	Q2_aac_intervention
+0		2019	10.1186/s13063-019-3885-3	PMC6925436	Lassen NF	A disorder-specific group cognitive behavior therapy for social anxiety disorder in adolescents: study protocol for a randomized controlled study.	Q3_costly
+0		2019		PMC6567221		ESTSS2019 Rotterdam Poster Abstract Book	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2020	10.3389/fpsyg.2020.01138	PMC7307273	Osborne MS	Emotion Goals in Music Performance Anxiety.	Q1_instructed
+0		2020	10.1097/opx.0000000000001466	PMC6946103	Buch JR	Randomized Crossover Trial Evaluating the Impact of Senofilcon A Photochromic Lens on Driving Performance.	Q1_instructed
+0		2021	10.1371/journal.pone.0257726	PMC8460016	Landová E	Specificity of spiders among fear- and disgust-eliciting arthropods: Spiders are special, but phobics not so much.	Q1_instructed
+0		2021	10.1016/j.bbih.2020.100174	PMC8474585	Moloney GM	Improvements in sleep indices during exam stress due to consumption of a <i>Bifidobacterium longum</i>.	Q1_instructed
+0		2021		PMC8760576		XII National Congress SISMES Padua, 8–10 October, 2021	Q1_instructed
+0		2021		PMC8683315		62nd Annual Conference of Indian Society of Hematology & Blood Transfusion (ISHBT)	Q1_instructed
+0		2021	10.1007/s00702-021-02422-z	PMC8491175		Abstracts of the WASAD Congress 2021: an International Congress of the World Association for Stress Related and Anxiety Disorders, held on 20-22 September 2021 in Vienna, Austria.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2021	10.1080/20008198.2021.1940588	PMC8635624		Trauma and Mental Health during the Global Pandemic: Abstract Book of the ESTSS 2021 Virtual ConferenceEditors: Annett Lotzin, A.A.A. Manik J. Djelantik, Marloes B. Eidhof, Anke de Haan, & Jana Kiralj.	Q5_dissociation,Q9_instruction_dissociation
+0		2021	10.3390/brainsci11101345	PMC8533719	Skversky-Blocq Y	Watch and Learn: Vicarious Threat Learning across Human Development.	Q9_instruction_dissociation
+0		2022	10.1080/20008066.2022.2135195	PMC9621267	Schellhaas S	Social threat and safety learning in individuals with adverse childhood experiences: electrocortical evidence on face processing, recognition, and working memory.	Q1_instructed
+0		2022	10.1016/j.neuron.2022.03.001	PMC9167267	Dunsmoor JE	Laboratory models of post-traumatic stress disorder: The elusive bridge to translation.	Q1_instructed
+0		2022	10.1097/jcn.0000000000000919	PMC9561231	Riegel B	The Situation-Specific Theory of Heart Failure Self-care: An Update on the Problem, Person, and Environmental Factors Influencing Heart Failure Self-care.	Q1_instructed
+0		2022	10.1371/journal.pone.0264745	PMC9246115	Chien TY	Effects of multitask training on cognition and motor control in people with schizophrenia spectrum disorders.	Q1_instructed
+0		2022		PMC9702693		50th ESCP Symposium on Clinical Pharmacy, Polypharmacy and ageing - highly individualized, interprofessional, person-centered care : 19–21 October 2022, Prague, Czech Republic	Q1_instructed
+0		2022	10.1186/s12910-022-00832-6	PMC9513991	Bell JAH	Clinical ethics consultations: a scoping review of reported outcomes.	Q3_costly
+0		2022	10.1080/20008066.2022.2127185	PMC9640168	Friesen E	COVID-19-related distress is associated with analogue PTSD symptoms after exposure to an analogue stressor.	Q5_dissociation,Q9_instruction_dissociation
+0		2022	10.1016/j.schres.2021.11.008	PMC8765411	Černis E	Dissociation in patients with non-affective psychosis: Prevalence, symptom associations, and maintenance factors.	Q5_dissociation,Q9_instruction_dissociation
+0		2022	10.1371/journal.pone.0270748	PMC9282653	Tassinari M	The use of virtual reality in studying prejudice and its reduction: A systematic review.	Q7_defusion,Q9_instruction_dissociation
+0		2022	10.1038/s41598-022-06119-5	PMC8831535	Stemerding LE	Demarcating the boundary conditions of memory reconsolidation: An unsuccessful replication.	Q9_instruction_dissociation
+0		2023	10.3389/fpsyg.2023.1209245	PMC10548879	Sánchez E	Assessment of obesity stigma and discrimination among Spanish subjects with a wide weight range: the OBESTIGMA study.	Q1_instructed
+0		2023	10.12688/f1000research.133295.3	PMC10905169	Weiß M	Social influence and external feedback control in humans.	Q1_instructed
+0		2023	10.1136/bmjopen-2023-071742	PMC10173997	Shahane V	A protocol for a single-arm interventional study assessing the effects of a home-based joystick-operated ride-on-toy navigation training programme to improve affected upper extremity function and spontaneous use in children with unilateral cerebral palsy (UCP).	Q1_instructed
+0		2023		PMC10092953		30th International Congress of the European Association for Endoscopic Surgery (EAES) Kraków, Poland, 5–8 July 2022	Q1_instructed
+0		2023	10.1186/s13019-023-02292-4	PMC10337061		SCTS Annual Meeting 2022 Abstracts.	Q3_costly
+0		2023	10.1017/s0033291722001520	PMC10388312	Yiend J	Cognitive bias modification for paranoia (CBM-pa): a randomised controlled feasibility study in patients with distressing paranoid beliefs.	Q5_dissociation
+0		2024	10.37825/2239-9747.1061	PMC11960777	Voi EL	The Association of C-Mill With Traditional Physical Therapy Rehabilitation in a Multiple Sclerosis Patient: A Case Report.	Q1_instructed
+0		2024	10.1002/brb3.70063	PMC11422178	Morales-Rivero A	Effect of Motor Interference Therapy on Distress Related to Traumatic Memories: A Randomized, Double-Blind, Controlled Feasibility Trial.	Q1_instructed
+0		2024	10.1002/14651858.cd007569.pub4	PMC10913845	de Boer AG	Non-medical interventions to enhance return to work for people with cancer.	Q1_instructed
+0		2024		PMC11688754		Full GSA 2024 Abstract Book PDF	Q1_instructed
+0		2024		PMC11493558		Abstract	Q1_instructed
+0		2024	10.1016/j.biopsych.2024.02.1015	PMC12057655	Jacobs DS	Orbitofrontal and Prelimbic Cortices Serve Complementary Roles in Adapting Reward Seeking to Learned Anxiety.	Q2_aac_intervention
+0		2024	10.1177/19485506231176615	PMC10984803	Travaglino GA	Alternative Systems: The Interplay Between Criminal Groups' Influence and Political Trust on Civic Honesty in the Global Context.	Q3_costly
+0		2024	10.1038/s41598-024-75078-w	PMC11530684	Asibor YE	Computational screening of phytochemicals present in some Nigerian medicinal plants against sickle cell disease.	Q3_costly
+0		2024	10.1016/j.bpsgos.2024.100333	PMC11215207	Sheffield JM	Understanding Cognitive Behavioral Therapy for Psychosis Through the Predictive Coding Framework.	Q5_dissociation
+0		2024	10.1016/j.janxdis.2024.102911	PMC11384290	Rosenberg BM	Reward processes in extinction learning and applications to exposure therapy.	Q5_dissociation
+0		2024	10.7554/elife.92700	PMC11251725	Ruge J	How adverse childhood experiences get under the skin: A systematic review, integration and methodological discussion on threat and reward learning mechanisms.	Q5_dissociation,Q9_instruction_dissociation
+0		2024	10.1152/physrev.00042.2023	PMC11381009	Kalisch R	Neurobiology and systems biology of stress resilience.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2024	10.12688/wellcomeopenres.23033.4	PMC11959255	Wright S	The therapeutic potential of exercise in post-traumatic stress disorder and its underlying mechanisms: A living systematic review of human and non-human studies.	Q5_dissociation,Q9_instruction_dissociation
+0		2024	10.1007/s10567-024-00476-5	PMC11222243	Klein AM	The Importance of Practicing at Home During and Following Cognitive Behavioral Therapy for Childhood Anxiety Disorders: A Conceptual Review and New Directions to Enhance Homework Using Mhealth Technology.	Q5_dissociation,Q9_instruction_dissociation
+0		2024	10.1186/s40337-024-01094-w	PMC11395645	Melles H	Anxiety matters: a pilot lab study into food, weight, and virtual body exposure in anorexia nervosa.	Q5_dissociation,Q7_defusion
+0		2024		PMC11418731		British Pain Society, Annual Scientific Meeting	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2024	10.1016/j.cbpra.2024.06.003	PMC12530499	Kemp J	Evaluating the Relationship Between Therapist Negative Beliefs About Exposure Therapy and Delivery Behavior.	Q7_defusion
+0		2025	10.3390/brainsci15090955	PMC12468038	Wickramasekera I.	The High-Risk Model of Threat Perception Modulates Learning of Placebo and Nocebo Effects and Functional Somatic Disorders.	Q1_instructed
+0		2025	10.3389/fpsyg.2025.1593873	PMC12728047	Torige S	Bystanders witnessing social exclusion exhibit reduced physiological responses of empathy: an EEG study.	Q1_instructed
+0		2025	10.1007/s10567-025-00517-7	PMC12162801	Alcan E	The Association Between Parent-to-Child Fear Learning Pathways and Anxiety Sensitivity: A Systematic Review and Meta-analysis.	Q1_instructed,Q9_instruction_dissociation
+0		2025	10.3389/fspor.2025.1529252	PMC11813905	Chatterjee D	Association between the attentional network efficiency and change of direction speed ability in young male Indian footballers.	Q1_instructed
+0		2025	10.1177/21677026241240727	PMC12373099	Benito K	Mechanisms of Change in Exposure Therapy for Anxiety and Related Disorders: A Research Agenda.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2025	10.1162/imag.a.74	PMC12330850	Stegmann Y	The impact of inherently aversive contexts on visuocortical processing of generalized threat.	Q5_dissociation
+0		2025	10.1007/s10942-025-00597-y	PMC12202661	Fite RE	Obsessive Beliefs in Posttraumatic Stress Disorder.	Q5_dissociation,Q9_instruction_dissociation
+0		2025	10.1038/s41598-025-19935-2	PMC12533121	Sarıkoç M	Post-traumatic growth, psychological inflexibility, and the mediating role of intolerance of uncertainty in adolescents affected by the Kahramanmaraş earthquake.	Q5_dissociation
+0		2025	10.1016/j.neubiorev.2025.106451	PMC12648632	Wnuk HK	Bridging social isolation, loneliness, and brain aging: A narrative review of mechanisms and translational interventions.	Q5_dissociation,Q7_defusion
+0		2025	10.1186/s12913-025-13142-5	PMC12317484	Muleta K	Understanding healthcare workers' risk perception and response to healthcare waste in Arba Minch town, Ethiopia: application of the extended parallel process model.	Q5_dissociation
+0		2025	10.1016/j.jad.2025.119401	PMC12145774	Fitzgerald JM	PTSD symptoms moderate predictors of psychophysiological arousal during fear inhibition: Evidence from a fear, reward, and neutral discrimination task.	Q7_defusion
+0		2026	10.2147/cia.s638393	PMC13695361	Kheirkhah Z	The Effect of Mindfulness-Based Cognitive Therapy on Kinesiophobia in Older Adults with Chronic Knee Osteoarthritis: A Randomized Controlled Trial.	Q1_instructed
+0		2026	10.1177/02537176261472435	PMC13486400	Tripathi R	Sleep and Stroop Performance with Adjunctive Melatonin in Pharmacotherapy-stable Pediatric ADHD: A Prospective Open-label Study.	Q1_instructed
+0		2026	10.3390/jcm15031256	PMC12898571	İşcan Yapar M	Effect of Music-Based Interventions on Dental Anxiety During Restorative Dental Treatment: A Randomized Controlled Trial.	Q1_instructed
+0		2026	10.1007/s00702-025-03028-5	PMC13687361	Suette M	Cognitive reappraisal training as an intervention in patients with functional movement disorders: a placebo-controlled EEG pilot study.	Q1_instructed
+0		2026		PMC13641234		Abstracts of Scientific Presentations: 2026 AALAS National Meeting Houston, Texas	Q1_instructed
+0		2026	10.1016/j.tics.2026.09.001	PMC13656302	Cooper SE	The next generation of fear generalization.	Q3_costly,Q5_dissociation,Q7_defusion
+0		2026	10.7759/cureus.107663	PMC13108950	Bohall BS	Impulsivity and Compulsivity in Obsessive-Compulsive Spectrum Disorders: Clinical Implications for Treatment Sequencing.	Q4_response_prevention
+0		2026	10.3389/fpsyg.2026.1933923	PMC13771088	Markus W	Predictive processing and candidate change processes in EMDR therapy: a transdiagnostic framework.	Q4_response_prevention,Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2026	10.3389/fpsyt.2026.1889239	PMC13535820	Li Y	The role of exercise in post-traumatic stress disorder: clinical evidence, sleep, cognition, and psychotherapy augmentation.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2026	10.1093/oons/kvag018	PMC13772924	Palejova M.	Authority-Level Priors: an under-specified constraint in hierarchical predictive processing.	Q5_dissociation,Q9_instruction_dissociation
+0		2026		PMC13661269	Mahajan P	Natural and engineered safe reinforcement learning	Q5_dissociation
+0		2026	10.1093/schbul/sbag034	PMC13235722	Freeman D.	Helping Patients With Persecutory Delusions Find Safety.	Q5_dissociation
+0		2026	10.3389/fpsyt.2026.1832075	PMC13234513	Yamashita D.	ESMR: a process framework for calibration dynamics across psychosomatic and psychiatric phenomena.	Q5_dissociation,Q7_defusion,Q9_instruction_dissociation
+0		2026		PMC13299688	Leisman G	A Developmental Neuroimmune Cascade Model of Autism Spectrum Disorder	Q5_dissociation,Q9_instruction_dissociation
+0		2026	10.3389/fpsyg.2026.1943052	PMC13783280	Feng B.	Evidential boundaries of intergenerational relational-script claims: formation, maintenance, and therapeutic change.	Q7_defusion

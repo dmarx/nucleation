@@ -133,3 +133,36 @@ objection lists.
   [NOTE-1294](../notes.d/NOTE-1294.md)). If posthumous harm is the thwarting of desires, and any
   satisfied desire counts as one's good, legacy-seeking is self-interest
   by definition. The same triviality, one level down.
+
+## Note of 2026-11-22: Simić, Sacchi and Perugini, read; a design filed
+<!-- inactive-ok-file: CASE-tmp413kq — new; filed by LEAD-062 on 2026-11-22 -->
+
+- **A continuity criterion that came apart from caring, and worked only
+  with it** (Simić et al., [LIT-tmpmox49](../literature.d/LIT-tmpmox49.md), [NOTE-tmpirf1e](../notes.d/NOTE-tmpirf1e.md)). The expected
+  sameness of one's nation fifty years on correlated .14 with national
+  attachment, and a manipulation moved it (d = 0.90). Its mediated
+  effects on prejudice and collective action held for high identifiers
+  and not for low ones. So the criterion is separable from caring, but its
+  effect showed only where caring was present. The outcome is concern
+  for present outsiders, not for the entity whose continuity was varied,
+  and the moderation analysis left the preregistration. A bearing on what
+  the claim asks for, neither support nor a limit; no edge, no status
+  change.
+- **The test this claim calls for, specified** ([CASE-tmp413kq](../cases.d/CASE-tmp413kq.md)). It is
+  Chan's design ([NOTE-1280](../notes.d/NOTE-1280.md)) with concern for the group's welfare measured
+  apart from self-definition, cognitive inclusion and continuity, and with
+  salience varied by instruction. The thesis has content if the gift
+  follows the criterion with concern held fixed.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+**Consistent with this claim, and an instance of the problem it names**
+([LIT-tmpa7f10](../literature.d/LIT-tmpa7f10.md), [NOTE-tmp11fci](../notes.d/NOTE-tmp11fci.md)). The paper's self-extension toward future
+people, "identification with future generations", is measured partly by
+perspective-taking ("It is easy for me to put myself in the shoes of future
+generations of people") and glossed as "empathy towards future generations
+of people" (Table 2), so its identification–responsibility link (r = .54)
+cannot test a self thesis whose extent must come apart from caring. Its
+cleanest datum is experimental: raising continuity with one's own future
+self (d about .4) did not reliably raise concern for future people (null in
+the replication) or identification with them (null in both). No edge.

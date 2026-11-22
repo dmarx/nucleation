@@ -31,6 +31,7 @@ summary: >-
   0.82). Clustered neurons provably cap the condition geometry's
   participation ratio near min(k, M).
 ---
+<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 
 # NOTE-549: Rarely categorical, highly separable representations along the cortical hierarchy
@@ -311,3 +312,11 @@ critique of C3 and C8 is adopted above. Three differences:
   beyond primary sensory cortex?
 - How do separability and cross-condition generalisation (abstraction)
   trade off in the same regions? This paper measures only the first.
+
+## Note of 2026-11-22: Ansuini and colleagues, read
+
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **a contrast.** This
+reading's participation ratio of condition centroids rises along the
+cortical hierarchy; Ansuini's nonlinear intrinsic dimension falls over the
+late layers of CNNs. Different measures and objects, so not a conflict. No
+relation.

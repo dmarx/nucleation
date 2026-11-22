@@ -21,6 +21,8 @@ summary: >-
   Named in [QUESTION-058](../questions.d/QUESTION-058.md). Filed by the backlog audit of 2026-11-19.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpie2v3, CLAIM-tmpkgzd8, CASE-tmpjgjtj — Proposed; the findings and the study filed under this lead on 2026-11-22 -->
+
 # LEAD-114: Learn a non-abelian task with no matrix representation imposed, and recover its irreducibles from the weights without supplying the group, or show them unrecoverable
 
 ## What it would do
@@ -39,3 +41,19 @@ Where the record names it:
 
 Irreducibles recovered blind answer [QUESTION-058](../questions.d/QUESTION-058.md); failure with the group
 supplied as a control says the method, not the network, is the limit.
+
+## Note of 2026-11-22: carried out
+Done under this lead (branch `claude/lead-114-blind-irrep`,
+`scratch/studies/lead-114/`): [CASE-tmpjgjtj](../cases.d/CASE-tmpjgjtj.md) trains small numpy networks on S3
+and S4 composition with elements as one-hot indices (no matrix representation
+imposed), recovers the irreducibles blind from the operation each network
+itself computes, and compares against a group-supplied control. [CLAIM-tmpie2v3](../claims.d/CLAIM-tmpie2v3.md):
+the irreducibles are recovered blind, exactly, when the network has learned the
+group, and the control shows the gate is the network's competence not the
+method's. [CLAIM-tmpkgzd8](../claims.d/CLAIM-tmpkgzd8.md): the learned embedding carries the irreducibles as a
+group-Fourier spectrum concentrated on the faithful ones. Recovery is up to
+isomorphism (characters, dimensions, isotypic projectors), not canonical
+per-element matrices. What remains: larger non-abelian groups, the mechanism by
+which a generalising network comes to compute a valid group, and whether
+explicit `ρ(g)` matrices can be pinned beyond a per-block basis. Status and
+stage left for the owner.

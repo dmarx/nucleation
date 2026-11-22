@@ -31,7 +31,7 @@ summary: >-
   A young, central line whose Active claims ground on unread works. Named
   in [CLAIM-600](../claims.d/CLAIM-600.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: LIT-2140 LIT-2145 LIT-2151 LIT-2175 LIT-2176 LIT-2179 LIT-2220 LIT-2221 LIT-2225 LIT-2227 LIT-2233 LIT-2234 LIT-2237 LIT-2599 — Deferred, Unavailable, Unfetched; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: LIT-2140 LIT-2145 LIT-2151 LIT-2176 LIT-2179 LIT-2220 LIT-2221 LIT-2225 LIT-2227 LIT-2233 LIT-2234 LIT-2237 LIT-2599 — Deferred, Unavailable, Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-025: Read the transient-support line's primaries and find episodes in which support was withdrawn
 

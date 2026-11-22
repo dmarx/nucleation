@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr8p2x
 title: 'Recovery under interventions on state cannot show where maintenance is realized: an outside controller that measures the constraint capacities and supplies the internal production law as state feedback yields the same trajectory under every perturbation of state, damage and recovery included, even with every capacity observed exactly; only interventions on the production mechanisms, relative to a declared boundary, separate the two'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-03'
@@ -33,6 +33,10 @@ history:
     outside controller is constant, and so is found out by interventions
     on state, marking where the claim's ideal case begins. No other
     change.
+- version: 6
+  date: '2026-11-22'
+  note: >-
+    A dated note: the LEAD-176 readings of 2026-11-22 (see the note). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -174,3 +178,35 @@ bears none of its weight, which rests on the controller construction.
 [CASE-265](../cases.d/CASE-265.md), from A5 §5.3 of the exchange "Explain String Theory", compares two systems. In one, an intact share c produces its own repair capacity r. In the other, an outside controller holds r fixed at the first system's maintained value. The two have the same equilibrium. A offers this as a witness of the claim, "Matching maintained states does not identify where their maintenance is produced", and as to steady states it is one.
 
 But interventions on state do separate them. From c = 0.01 the controlled system recovers and the mutual one collapses (rechecked on filing). The controller is constant, not the claim's state feedback u_ext = P(c). So the case is weaker than the claim's own construction. It shows where the claim's ideal case begins: a controller that ignores the state is caught by perturbing the state, and only one that reproduces the production law needs an intervention on mechanism. The claim's "What it does not say" already allows that imperfect controllers "may leave signatures". This is one, with its mechanism named. No status changes.
+
+## Note of 2026-11-22: a run in which an intervention on state separates the arrangements
+
+<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
+In [CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md), a reduced run of [CASE-186](../cases.d/CASE-186.md), zeroing both maintained
+capacities, an intervention on state, separated reciprocal maintenance (0
+of 64 second corrections) from external restoration (64 of 64). Its outside
+service restores at a constant rate and does not supply the internal
+production law as state feedback. It is therefore [CASE-265](../cases.d/CASE-265.md)'s kind of
+controller, outside this claim's ideal case, and is no counterexample. The
+claim is unchanged.
+
+## Note of 2026-11-22: Bourrat's release test, read
+
+Read for [LEAD-176](../leads.d/LEAD-176.md): Bourrat 2022 ([LIT-1927](../literature.d/LIT-1927.md), [NOTE-tmp1shj8](../notes.d/NOTE-tmp1shj8.md)) and the
+scaffolding group's 2024 paper ([LIT-tmp6nn9d](../literature.d/LIT-tmp6nn9d.md), [NOTE-tmpculbo](../notes.d/NOTE-tmpculbo.md)). Consistent
+with the claim; no edge.
+
+- Bourrat tells imposed from internally produced collective properties
+  by intervening on the imposing mechanism (lifting the ban on
+  between-patch migration) and seeing whether the properties survive,
+  not by perturbing the collectives' state. The intervention is relative
+  to a boundary declared in advance, the patch. That is the claim's
+  "interventions on the production mechanisms, relative to a declared
+  boundary".
+- The 2024 paper defines an operative cause by intervention, "assuming
+  there are no feedbacks involved" (Box 1), then proposes a scaffold the
+  cells construct, which is a feedback. Its own account of which cause
+  is operative does not reach the case where the outside supply is
+  itself produced from inside.
+
+No status change.

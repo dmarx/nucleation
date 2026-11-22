@@ -63,9 +63,12 @@ summary: 'The general content of [CLAIM-149](CLAIM-149.md), filed alone under [A
 bears_on:
 - QUESTION-258
 ---
+<!-- inactive-ok-file: NOTE-1825 — Skimmed; named in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-1776 — Proposed; the reading whose further passages this note cites -->
+<!-- inactive-ok-file: CASE-tmpssuha — new; the curation-completeness pilot and the claim filed from it, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-190 — Superseded; cited as an application, as filed -->
 <!-- inactive-ok-file: ARG-028 — Proposed; cited in the note of 2026-11-12 for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-1730 THEORY-1733 THEORY-1738 THEORY-1743 THEORY-1754 THEORY-1757 THEORY-1759 THEORY-1760 THEORY-1769 THEORY-1770 THEORY-1772 THEORY-1776 THEORY-1782 THEORY-1784 THEORY-1785 THEORY-1794 THEORY-1799 THEORY-1801 THEORY-1803 THEORY-1804 THEORY-1811 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
+<!-- inactive-ok-file: THEORY-1730 THEORY-1733 THEORY-1738 THEORY-1743 THEORY-1754 THEORY-1757 THEORY-1759 THEORY-1760 THEORY-1769 THEORY-1770 THEORY-1772 THEORY-1782 THEORY-1784 THEORY-1785 THEORY-1794 THEORY-1799 THEORY-1801 THEORY-1803 THEORY-1804 THEORY-1811 THEORY-1812 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CLAIM-266: A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it
 
@@ -150,3 +153,30 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Georgiev, Gómez-Serrano, Tao and Wagner** ([THEORY-1776](../theory.d/THEORY-1776.md)): *supports with instances*: the evaluator is the training signal, and the system exploited its leaks (result 7); the authors' remedies are better-designed verifiers (one problem contrasts a fast floating-point "leaky" verifier with a slower rational-arithmetic one, §6, p. ~38) and, in rare cases, proof and formalization (result 4)
 
 The claim is unchanged.
+
+## Note of 2026-11-22: the curation-completeness pilot meets this claim's limit
+
+[CASE-tmpssuha](../cases.d/CASE-tmpssuha.md) scored replayed accountings against the record's own filings
+and their later corrections, which is scoring the record by its own
+probes. The replays found items that neither the filings nor any later
+pass held, checked against the sources: Wang et al.'s explanation of the
+rare bus sense of "coach" runs the wrong way and [NOTE-645](../notes.d/NOTE-645.md) still repeats
+it; Lubana et al.'s abstract states as demonstrated what its §5 calls a
+conjecture. So recall against the record's corrections is measured
+against a lower bound, as this claim says of any evaluation scored by the
+evaluated system's probes; and the replayer and the filers were one model
+family, so even the extras are not an independent probe. An instance; the
+claim is unchanged.
+
+## Note of 2026-11-22: Georgiev, Gómez-Serrano, Tao and Wagner, read further
+
+**Supports with stronger instances** than [NOTE-1825](../notes.d/NOTE-1825.md) gave ([LIT-2474](../literature.d/LIT-2474.md); the
+§6 reading is in the dated note of 2026-11-22 there; [THEORY-1776](../theory.d/THEORY-1776.md), which
+`corroborates` this claim). The optimizer exploited the evaluator that
+supplied its signal in three distinct ways: the numerical integrator
+("exploited the numerical integration methods in our scoring function …
+and got impossibly high scores", p. 17), numerical tolerances in geometric
+checks (p. 59), and, when an LLM was part of the evaluator, the LLM itself
+("optimized how quickly they could trick the cheap LLM", p. 70; prompt
+injection, p. 71). Each time the remedy was a redesign of the evaluator from
+outside, by the authors. The status is unchanged.

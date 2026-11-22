@@ -1,0 +1,474 @@
+
+######## no-commitment reading: regimeA
+
+== default  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=locks(0.77)', 'body+capture+others+sense=locks(0.75)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.75
+  adding body to capture+sense -> locks 0.77
+
+== eta=0.3  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 39 of 44 non-blind loops; misses: ['fluency+others=partial(0.17)', 'sense=partial(0.41)', 'others+sense=partial(0.24)', 'body+capture+sense=partial(0.26)', 'body+capture+others+sense=partial(0.29)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 0, 'body': 0, 'commit': 5, 'fluency': 4, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'partial'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'partial'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'partial'}
+  adding body to capture+others+sense -> partial 0.29
+  adding body to capture+sense -> partial 0.26
+
+== eta=1.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=locks(0.80)', 'body+capture+sense=locks(0.88)', 'body+capture+others+sense=locks(0.90)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 3, 'capture': 2, 'body': 1, 'commit': 10, 'fluency': 8, 'others': 0}
+  removing sense from fluency+others+sense -> locks 0.80
+  removing sense from capture+others+sense -> locks 1.00
+  removing sense from capture+fluency+others+sense -> locks 0.80
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  removing body from body+fluency+others -> locks 0.80
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.9
+  adding body to capture+sense -> locks 0.88
+
+== eta_tau=0.2  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=locks(0.61)', 'body+capture+sense=locks(0.77)', 'body+capture+others+sense=locks(0.75)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 3, 'capture': 2, 'body': 1, 'commit': 10, 'fluency': 8, 'others': 0}
+  removing sense from fluency+others+sense -> locks 0.61
+  removing sense from capture+others+sense -> locks 1.00
+  removing sense from capture+fluency+others+sense -> locks 0.61
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  removing body from body+fluency+others -> locks 0.61
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.75
+  adding body to capture+sense -> locks 0.77
+
+== kappa1=0.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=locks(0.65)', 'body+capture+others+sense=locks(0.64)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.64
+  adding body to capture+sense -> locks 0.65
+
+== kappa1=0.5  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=locks(0.93)', 'body+capture+others+sense=locks(0.89)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.89
+  adding body to capture+sense -> locks 0.93
+
+== kappa2=0.4  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=locks(0.51)', 'body+capture+others+sense=locks(0.51)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.51
+  adding body to capture+sense -> locks 0.51
+
+== kappa2=1.2  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=locks(0.92)', 'body+capture+others+sense=locks(0.89)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.89
+  adding body to capture+sense -> locks 0.92
+
+== kbar=0.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=locks(0.77)', 'body+capture+others+sense=locks(0.75)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.75
+  adding body to capture+sense -> locks 0.77
+
+== kbar=0.2  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=locks(0.77)', 'body+capture+others+sense=locks(0.75)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.75
+  adding body to capture+sense -> locks 0.77
+
+== kbar=0.8  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=locks(0.77)', 'body+capture+others+sense=locks(0.75)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.75
+  adding body to capture+sense -> locks 0.77
+
+== phi=0.25  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=locks(0.81)', 'body+capture+sense=locks(0.77)', 'body+capture+others+sense=locks(0.75)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 3, 'capture': 2, 'body': 1, 'commit': 10, 'fluency': 8, 'others': 0}
+  removing sense from fluency+others+sense -> locks 0.81
+  removing sense from capture+others+sense -> locks 1.00
+  removing sense from capture+fluency+others+sense -> locks 0.81
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  removing body from body+fluency+others -> locks 0.81
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.75
+  adding body to capture+sense -> locks 0.77
+
+== phi=1.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.16)', 'body+capture+sense=locks(0.77)', 'body+capture+others+sense=locks(0.75)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.75
+  adding body to capture+sense -> locks 0.77
+
+== q5=0.02  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=locks(0.69)', 'body+capture+sense=locks(0.77)', 'body+capture+others+sense=locks(0.77)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 3, 'capture': 2, 'body': 1, 'commit': 10, 'fluency': 8, 'others': 0}
+  removing sense from fluency+others+sense -> locks 0.69
+  removing sense from capture+others+sense -> locks 1.00
+  removing sense from capture+fluency+others+sense -> locks 0.69
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  removing body from body+fluency+others -> locks 0.69
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.77
+  adding body to capture+sense -> locks 0.77
+
+== q5=0.2  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 42 of 44 non-blind loops; misses: ['body+capture+sense=locks(0.77)', 'body+capture+others+sense=locks(0.65)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 9, 'fluency': 9, 'others': 0}
+  removing sense from capture+others+sense -> locks 0.89
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+others | removing -> {'fluency': 'locks', 'others': 'blind'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> locks 0.65
+  adding body to capture+sense -> locks 0.77
+
+== sigma1=2.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=partial(0.17)', 'body+capture+others+sense=partial(0.17)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 7, 'fluency': 6, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> partial 0.17
+  adding body to capture+sense -> partial 0.17
+
+== theta=2.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 41 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body+capture+sense=partial(0.12)', 'body+capture+others+sense=partial(0.16)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 1, 'capture': 2, 'body': 0, 'commit': 7, 'fluency': 6, 'others': 0}
+  removing sense from capture+others+sense -> locks 1.00
+  removing capture from capture+sense -> locks 1.00
+  removing capture from capture+others+sense -> locks 1.00
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: capture+sense | removing -> {'sense': 'blind', 'capture': 'locks'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+  adding body to capture+others+sense -> partial 0.16
+  adding body to capture+sense -> partial 0.12
+
+== theta=3.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 39 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'capture+sense=partial(0.07)', 'capture+others+sense=partial(0.06)', 'body+capture+sense=locks(0.99)', 'body+capture+others+sense=locks(0.97)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 9, 'fluency': 8, 'others': 0}
+  minimal free loop: body+commit | removing -> {'commit': 'locks', 'body': 'blind'}
+  minimal free loop: body+fluency | removing -> {'fluency': 'locks', 'body': 'blind'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: commit+sense | removing -> {'sense': 'blind', 'commit': 'locks'}
+  minimal free loop: fluency+sense | removing -> {'sense': 'blind', 'fluency': 'locks'}
+
+== zeta=0.5  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['fluency+others=partial(0.39)', 'body=free(0.03)', 'body+others=free(0.01)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 2, 'capture': 0, 'body': 1, 'commit': 1, 'fluency': 0, 'others': 0}
+  removing sense from others+sense -> locks 1.00
+  removing sense from capture+others+sense -> locks 1.00
+  removing body from body+others -> locks 1.00
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: commit+others | removing -> {'commit': 'locks', 'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+######## no-commitment reading: posthoc
+
+== default  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== eta=0.3  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== eta=1.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== eta_tau=0.2  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== kappa1=0.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== kappa1=0.5  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== kappa2=0.4  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== kappa2=1.2  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== kbar=0.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== kbar=0.2  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== kbar=0.8  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== phi=0.25  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== phi=1.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== q5=0.02  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== q5=0.2  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== sigma1=2.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== theta=2.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== theta=3.0  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+== zeta=0.5  (full loop: free, lock-in 0.00)
+  single removals from the full loop: {'sense': 'free', 'capture': 'free', 'body': 'free', 'commit': 'free', 'fluency': 'free', 'others': 'free'}
+  anchor rule agrees on 37 of 44 non-blind loops; misses: ['others=free(0.00)', 'body=free(0.00)', 'body+others=free(0.00)', 'sense=free(0.00)', 'others+sense=free(0.00)', 'body+sense=free(0.00)', 'body+others+sense=free(0.00)']
+  removal from a free loop -> locks in (count of free loops): {'sense': 0, 'capture': 0, 'body': 0, 'commit': 0, 'fluency': 0, 'others': 0}
+  minimal free loop: body | removing -> {'body': 'blind'}
+  minimal free loop: others | removing -> {'others': 'blind'}
+  minimal free loop: sense | removing -> {'sense': 'blind'}
+
+######## totals over variants: outcome of removing each candidate from a free loop
+  posthoc  body     {'removals_from_free': 456, 'blind': 76}
+  posthoc  capture  {'removals_from_free': 304}
+  posthoc  commit   {'removals_from_free': 418}
+  posthoc  fluency  {'removals_from_free': 418}
+  posthoc  others   {'removals_from_free': 456, 'blind': 76}
+  posthoc  sense    {'removals_from_free': 608, 'blind': 152}
+  regimeA  body     {'removals_from_free': 348, 'blind': 58, 'partial': 14, 'locks': 5}
+  regimeA  capture  {'removals_from_free': 266, 'locks': 32, 'partial': 2}
+  regimeA  commit   {'removals_from_free': 418, 'locks': 159, 'partial': 24}
+  regimeA  fluency  {'removals_from_free': 400, 'locks': 137, 'partial': 10}
+  regimeA  others   {'removals_from_free': 346, 'blind': 39}
+  regimeA  sense    {'removals_from_free': 498, 'blind': 133, 'partial': 28, 'locks': 27}

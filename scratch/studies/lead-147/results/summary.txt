@@ -1,0 +1,46 @@
+ANALOGY (median per family; null = random quadruples of the family's words)
+capital-common-countries     n=  210 acc=0.74 int_share=0.251 int_share_noise_corr=0.229 null=0.324 acc_by_int_tercile(low..high)=[0.87, 0.81, 0.54]
+capital-world                n=  200 acc=0.63 int_share=0.252 int_share_noise_corr=0.230 null=0.327 acc_by_int_tercile(low..high)=[0.81, 0.58, 0.5]
+currency                     n=   28 acc=0.00 int_share=0.302 int_share_noise_corr=0.296 null=0.324 acc_by_int_tercile(low..high)=[0.0, 0.0, 0.0]
+city-in-state                n=  420 acc=0.27 int_share=0.273 int_share_noise_corr=0.256 null=0.328 acc_by_int_tercile(low..high)=[0.5, 0.26, 0.06]
+family                       n=  156 acc=0.77 int_share=0.250 int_share_noise_corr=0.225 null=0.325 acc_by_int_tercile(low..high)=[0.77, 0.96, 0.58]
+gram1-adjective-to-adverb    n=  342 acc=0.15 int_share=0.296 int_share_noise_corr=0.283 null=0.331 acc_by_int_tercile(low..high)=[0.23, 0.18, 0.05]
+gram2-opposite               n=   42 acc=0.40 int_share=0.295 int_share_noise_corr=0.282 null=0.331 acc_by_int_tercile(low..high)=[0.64, 0.36, 0.21]
+gram3-comparative            n=  552 acc=0.62 int_share=0.276 int_share_noise_corr=0.258 null=0.328 acc_by_int_tercile(low..high)=[0.68, 0.68, 0.48]
+gram4-superlative            n=  240 acc=0.46 int_share=0.274 int_share_noise_corr=0.259 null=0.331 acc_by_int_tercile(low..high)=[0.6, 0.44, 0.35]
+gram5-present-participle     n=  552 acc=0.33 int_share=0.265 int_share_noise_corr=0.246 null=0.329 acc_by_int_tercile(low..high)=[0.42, 0.31, 0.27]
+gram6-nationality-adjective  n= 1161 acc=0.64 int_share=0.236 int_share_noise_corr=0.212 null=0.328 acc_by_int_tercile(low..high)=[0.87, 0.65, 0.4]
+gram7-past-tense             n=  756 acc=0.33 int_share=0.275 int_share_noise_corr=0.258 null=0.330 acc_by_int_tercile(low..high)=[0.53, 0.28, 0.17]
+gram8-plural                 n=  552 acc=0.60 int_share=0.255 int_share_noise_corr=0.233 null=0.328 acc_by_int_tercile(low..high)=[0.79, 0.6, 0.42]
+gram9-plural-verbs           n=  240 acc=0.43 int_share=0.263 int_share_noise_corr=0.243 null=0.329 acc_by_int_tercile(low..high)=[0.59, 0.39, 0.31]
+across families: Spearman(acc, int_share_noise_corr) = -0.83 (p = 0.000, n = 14)
+within families: mean acc in lowest-interaction tercile 0.59, highest 0.31; families where low > high: 13/14
+
+HIERARCHY
+{"key": "summary", "n_nouns": 4315, "n_attrs": 590, "split_half_r": 0.4100657267648736, "reliability_sb": 0.581626400785857, "depth_counts": {"1": 1, "2": 11, "3": 56, "4": 123, "5": 152, "6": 117, "7": 69, "8": 35, "9": 15, "10": 5, "11": 2, "12": 1, "13": 1, "14": 1, "15": 1}}
+cv_depth<=1    attrs=   1 R2_cv=0.0026 permuted=-0.0008
+cv_depth<=2    attrs=  12 R2_cv=0.0154 permuted=-0.0039
+cv_depth<=3    attrs=  68 R2_cv=0.0180 permuted=-0.0171
+cv_depth<=4    attrs= 191 R2_cv=0.0095 permuted=-0.0431
+cv_depth<=5    attrs= 343 R2_cv=-0.0024 permuted=-0.0718
+cv_depth<=6    attrs= 460 R2_cv=-0.0115 permuted=-0.0918
+cv_depth<=7    attrs= 529 R2_cv=-0.0178 permuted=-0.1028
+cv_depth<=8    attrs= 564 R2_cv=-0.0205 permuted=-0.1064
+cv_depth<=9    attrs= 579 R2_cv=-0.0220 permuted=-0.1113
+cv_depth<=10   attrs= 584 R2_cv=-0.0223 permuted=-0.1095
+cv_depth<=11   attrs= 586 R2_cv=-0.0225 permuted=-0.1103
+cv_depth<=12   attrs= 587 R2_cv=-0.0226 permuted=-0.1106
+cv_depth<=13   attrs= 588 R2_cv=-0.0226 permuted=-0.1091
+cv_depth<=14   attrs= 589 R2_cv=-0.0226 permuted=-0.1112
+cv_depth<=15   attrs= 590 R2_cv=-0.0227 permuted=-0.1115
+cv_depth<=99   attrs= 590 R2_cv=-0.0227 permuted=-0.1100
+probe rank  10 balanced acc by depth: d1:0.69(n1) d2:0.70(n11) d3:0.72(n56) d4:0.74(n123) d5:0.73(n152) d6:0.71(n117) d7:0.72(n69) d8:0.74(n35) d9+:0.76(n26)
+   false positives inside the parent: 0.051 vs parent's share of negatives 0.029 (enrichment 1.8x, 583 attributes)
+probe rank  30 balanced acc by depth: d1:0.73(n1) d2:0.74(n11) d3:0.75(n56) d4:0.75(n123) d5:0.75(n152) d6:0.74(n117) d7:0.75(n69) d8:0.75(n35) d9+:0.80(n26)
+   false positives inside the parent: 0.062 vs parent's share of negatives 0.029 (enrichment 2.1x, 583 attributes)
+probe rank 100 balanced acc by depth: d1:0.75(n1) d2:0.77(n11) d3:0.73(n56) d4:0.73(n123) d5:0.72(n145)
+   false positives inside the parent: 0.104 vs parent's share of negatives 0.045 (enrichment 2.3x, 329 attributes)
+refit alpha100_depth<=4      attrs= 191 R2_cv=0.0274 permuted=-0.0046
+refit alpha1000_depth<=4     attrs= 191 R2_cv=0.0147 permuted=-0.0011
+refit alpha100_depth<=99     attrs= 590 R2_cv=0.0347 permuted=-0.0063
+refit alpha1000_depth<=99    attrs= 590 R2_cv=0.0169 permuted=-0.0012

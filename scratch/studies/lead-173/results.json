@@ -1,0 +1,719 @@
+{
+ "regime": {
+  "target": "Z_{t+1} = G X_{t+1}, external to Y",
+  "projection": "Mori, onto span(Y_t)",
+  "metric": "relative excess MSE over E[Z_{t+k} | full past]",
+  "horizon": 2,
+  "eps": [
+   0.0,
+   0.01
+  ],
+  "budget": "dim Y <= 2"
+ },
+ "witnesses": [
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "generic 3-dim, Y = X1, Z = X2",
+   "config": "00001",
+   "defects": {
+    "P": 0.13940393179061059,
+    "D": 0.05466633796374627,
+    "M": 0.08729043506733314,
+    "A": 0.13940393179061059
+   },
+   "m": 1
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "generic 3-dim, Y = X1, Z = X2 + 2 padded",
+   "config": "00000",
+   "defects": {
+    "P": 0.1394039317906106,
+    "D": 0.05466633796374627,
+    "M": 0.05592298269811136,
+    "A": 0.1394039317906106
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "CLAIM-389 pair, Y = X1, Z = X2",
+   "config": "00101",
+   "defects": {
+    "P": 0.09,
+    "D": 0.11997533481529554,
+    "M": 0.0,
+    "A": 0.09
+   },
+   "m": 1
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "CLAIM-389 pair, Y = X1, Z = X2 + 2 padded",
+   "config": "00100",
+   "defects": {
+    "P": 0.09,
+    "D": 0.11997533481529554,
+    "M": 0.0,
+    "A": 0.09
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "FEED, Y = X1 drives X2, Z = X2",
+   "config": "01101",
+   "defects": {
+    "P": 0.14001533215258136,
+    "D": 0.0,
+    "M": 0.0,
+    "A": 0.14001533215258136
+   },
+   "m": 1
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "FEED, Y = X1 drives X2, Z = X2 + 2 padded",
+   "config": "01100",
+   "defects": {
+    "P": 0.14001533215258136,
+    "D": 0.0,
+    "M": 0.0,
+    "A": 0.14001533215258136
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "LOOP, Z copies Y",
+   "config": "10001",
+   "defects": {
+    "P": 0.0,
+    "D": 0.07990707957033766,
+    "M": 0.15829755747239507,
+    "A": 0.0665578081521573
+   },
+   "m": 1
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "LOOP, Z copies Y + 2 padded",
+   "config": "10000",
+   "defects": {
+    "P": 0.0,
+    "D": 0.07990707957033766,
+    "M": 0.12031190735238088,
+    "A": 0.0665578081521573
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "Y = (AR1, LOOP.X1), Z copies the AR1 part",
+   "config": "10011",
+   "defects": {
+    "P": 0.0,
+    "D": 0.07990707957033766,
+    "M": 0.12916198873474993,
+    "A": 0.0
+   },
+   "m": 2
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "Y = (AR1, LOOP.X1), Z copies the AR1 part + 1 padded",
+   "config": "10010",
+   "defects": {
+    "P": 0.0,
+    "D": 0.07990707957033766,
+    "M": 0.1158330147164132,
+    "A": 0.0
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "CLAIM-389 pair, Z copies Y",
+   "config": "10101",
+   "defects": {
+    "P": 0.0,
+    "D": 0.11997533481529554,
+    "M": 0.0,
+    "A": 0.08000000000000003
+   },
+   "m": 1
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "CLAIM-389 pair, Z copies Y + 2 padded",
+   "config": "10100",
+   "defects": {
+    "P": 0.0,
+    "D": 0.11997533481529554,
+    "M": 0.0,
+    "A": 0.08000000000000003
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "Y = (AR1, CL389.X1), Z copies the AR1 part",
+   "config": "10111",
+   "defects": {
+    "P": 0.0,
+    "D": 0.11997533481529554,
+    "M": 0.0,
+    "A": 0.0
+   },
+   "m": 2
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "Y = (AR1, CL389.X1), Z copies the AR1 part + 1 padded",
+   "config": "10110",
+   "defects": {
+    "P": 0.0,
+    "D": 0.11997533481529554,
+    "M": 0.0,
+    "A": 0.0
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "AR1, Z copies Y",
+   "config": "11111",
+   "defects": {
+    "P": 0.0,
+    "D": 0.0,
+    "M": 0.0,
+    "A": 0.0
+   },
+   "m": 1
+  },
+  {
+   "group": "VAR(1)",
+   "class_p": 1,
+   "eps": 0.0,
+   "name": "AR1, Z copies Y + 2 padded",
+   "config": "11110",
+   "defects": {
+    "P": 0.0,
+    "D": 0.0,
+    "M": 0.0,
+    "A": 0.0
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(2)",
+   "class_p": 2,
+   "eps": 0.0,
+   "name": "AR2 Y beside an independent AR1 target",
+   "config": "01001",
+   "defects": {
+    "P": 0.36,
+    "D": 0.0,
+    "M": 0.21120842506098664,
+    "A": 0.36
+   },
+   "m": 1
+  },
+  {
+   "group": "VAR(2)",
+   "class_p": 2,
+   "eps": 0.0,
+   "name": "AR2 Y beside an independent AR1 target + 2 padded",
+   "config": "01000",
+   "defects": {
+    "P": 0.36,
+    "D": 0.0,
+    "M": 0.1616877247988461,
+    "A": 0.36
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(2)",
+   "class_p": 2,
+   "eps": 0.0,
+   "name": "AR2, Z copies Y",
+   "config": "11001",
+   "defects": {
+    "P": 0.0,
+    "D": 0.0,
+    "M": 0.2112084250609865,
+    "A": 0.030491247882552225
+   },
+   "m": 1
+  },
+  {
+   "group": "VAR(2)",
+   "class_p": 2,
+   "eps": 0.0,
+   "name": "AR2, Z copies Y + 2 padded",
+   "config": "11000",
+   "defects": {
+    "P": 0.0,
+    "D": 0.0,
+    "M": 0.16168772479884602,
+    "A": 0.030491247882552225
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(2)",
+   "class_p": 2,
+   "eps": 0.0,
+   "name": "Y = (AR1, AR2), Z copies the AR1 part",
+   "config": "11011",
+   "defects": {
+    "P": 0.0,
+    "D": 0.0,
+    "M": 0.17331898864538745,
+    "A": 0.0
+   },
+   "m": 2
+  },
+  {
+   "group": "VAR(2)",
+   "class_p": 2,
+   "eps": 0.0,
+   "name": "Y = (AR1, AR2), Z copies the AR1 part + 1 padded",
+   "config": "11010",
+   "defects": {
+    "P": 0.0,
+    "D": 0.0,
+    "M": 0.155781629914288,
+    "A": 0.0
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)/VAR(2), eps = 0.01",
+   "class_p": 1,
+   "eps": 0.01,
+   "name": "as 1001, with a leak from an unobserved AR1",
+   "config": "00011",
+   "defects": {
+    "P": 0.0012991230919129587,
+    "D": 0.07990707957033766,
+    "M": 0.12916198873474993,
+    "A": 0.0012991230919129587
+   },
+   "m": 2
+  },
+  {
+   "group": "VAR(1)/VAR(2), eps = 0.01",
+   "class_p": 1,
+   "eps": 0.01,
+   "name": "as 1001, with a leak from an unobserved AR1 + 1 padded",
+   "config": "00010",
+   "defects": {
+    "P": 0.0012991230919129587,
+    "D": 0.07990707957033766,
+    "M": 0.1158330147164132,
+    "A": 0.0012991230919129587
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)/VAR(2), eps = 0.01",
+   "class_p": 1,
+   "eps": 0.01,
+   "name": "as 1011, with a leak",
+   "config": "00111",
+   "defects": {
+    "P": 0.0012991230919129587,
+    "D": 0.11997533481529554,
+    "M": 0.0,
+    "A": 0.0012991230919129587
+   },
+   "m": 2
+  },
+  {
+   "group": "VAR(1)/VAR(2), eps = 0.01",
+   "class_p": 1,
+   "eps": 0.01,
+   "name": "as 1011, with a leak + 1 padded",
+   "config": "00110",
+   "defects": {
+    "P": 0.0012991230919129587,
+    "D": 0.11997533481529554,
+    "M": 0.0,
+    "A": 0.0012991230919129587
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)/VAR(2), eps = 0.01",
+   "class_p": 1,
+   "eps": 0.01,
+   "name": "as 1111, with a leak",
+   "config": "01111",
+   "defects": {
+    "P": 0.0012991230919129587,
+    "D": 0.0,
+    "M": 0.0,
+    "A": 0.0012991230919129587
+   },
+   "m": 1
+  },
+  {
+   "group": "VAR(1)/VAR(2), eps = 0.01",
+   "class_p": 1,
+   "eps": 0.01,
+   "name": "as 1111, with a leak + 2 padded",
+   "config": "01110",
+   "defects": {
+    "P": 0.0012991230919129587,
+    "D": 0.0,
+    "M": 0.0,
+    "A": 0.0012991230919129587
+   },
+   "m": 3
+  },
+  {
+   "group": "VAR(1)/VAR(2), eps = 0.01",
+   "class_p": 2,
+   "eps": 0.01,
+   "name": "as 1101 (VAR(2)), with a leak",
+   "config": "01011",
+   "defects": {
+    "P": 0.0012991230919129587,
+    "D": 0.0,
+    "M": 0.17331898864538745,
+    "A": 0.0012991230919129587
+   },
+   "m": 2
+  },
+  {
+   "group": "VAR(1)/VAR(2), eps = 0.01",
+   "class_p": 2,
+   "eps": 0.01,
+   "name": "as 1101 (VAR(2)), with a leak + 1 padded",
+   "config": "01010",
+   "defects": {
+    "P": 0.001299123091912959,
+    "D": 0.0,
+    "M": 0.15578162991428796,
+    "A": 0.001299123091912959
+   },
+   "m": 3
+  }
+ ],
+ "regimes": {
+  "VAR(1), eps=0.0": {
+   "allowed": [
+    "00000",
+    "00001",
+    "00100",
+    "00101",
+    "01100",
+    "01101",
+    "10000",
+    "10001",
+    "10010",
+    "10011",
+    "10100",
+    "10101",
+    "10110",
+    "10111",
+    "11110",
+    "11111"
+   ],
+   "n_allowed": 16,
+   "unwitnessed": [],
+   "pairwise": {
+    "PD": false,
+    "PM": false,
+    "PA": false,
+    "PC": false,
+    "DP": false,
+    "DM": true,
+    "DA": false,
+    "DC": false,
+    "MP": false,
+    "MD": false,
+    "MA": false,
+    "MC": false,
+    "AP": true,
+    "AD": false,
+    "AM": false,
+    "AC": false,
+    "CP": false,
+    "CD": false,
+    "CM": false,
+    "CA": false
+   },
+   "leave_one_out": {
+    "P": false,
+    "D": true,
+    "M": false,
+    "A": false,
+    "C": true
+   }
+  },
+  "VAR(1), eps=0.01": {
+   "allowed": [
+    "00000",
+    "00001",
+    "00010",
+    "00011",
+    "00100",
+    "00101",
+    "00110",
+    "00111",
+    "01100",
+    "01101",
+    "01110",
+    "01111",
+    "10000",
+    "10001",
+    "10010",
+    "10011",
+    "10100",
+    "10101",
+    "10110",
+    "10111",
+    "11110",
+    "11111"
+   ],
+   "n_allowed": 22,
+   "unwitnessed": [],
+   "pairwise": {
+    "PD": false,
+    "PM": false,
+    "PA": false,
+    "PC": false,
+    "DP": false,
+    "DM": true,
+    "DA": false,
+    "DC": false,
+    "MP": false,
+    "MD": false,
+    "MA": false,
+    "MC": false,
+    "AP": false,
+    "AD": false,
+    "AM": false,
+    "AC": false,
+    "CP": false,
+    "CD": false,
+    "CM": false,
+    "CA": false
+   },
+   "leave_one_out": {
+    "P": true,
+    "D": true,
+    "M": false,
+    "A": false,
+    "C": true
+   }
+  },
+  "VAR(2), eps=0.0": {
+   "allowed": [
+    "00000",
+    "00001",
+    "00100",
+    "00101",
+    "01000",
+    "01001",
+    "01100",
+    "01101",
+    "10000",
+    "10001",
+    "10010",
+    "10011",
+    "10100",
+    "10101",
+    "10110",
+    "10111",
+    "11000",
+    "11001",
+    "11010",
+    "11011",
+    "11110",
+    "11111"
+   ],
+   "n_allowed": 22,
+   "unwitnessed": [],
+   "pairwise": {
+    "PD": false,
+    "PM": false,
+    "PA": false,
+    "PC": false,
+    "DP": false,
+    "DM": false,
+    "DA": false,
+    "DC": false,
+    "MP": false,
+    "MD": false,
+    "MA": false,
+    "MC": false,
+    "AP": true,
+    "AD": false,
+    "AM": false,
+    "AC": false,
+    "CP": false,
+    "CD": false,
+    "CM": false,
+    "CA": false
+   },
+   "leave_one_out": {
+    "P": false,
+    "D": true,
+    "M": true,
+    "A": false,
+    "C": true
+   }
+  },
+  "VAR(2), eps=0.01": {
+   "allowed": [
+    "00000",
+    "00001",
+    "00010",
+    "00011",
+    "00100",
+    "00101",
+    "00110",
+    "00111",
+    "01000",
+    "01001",
+    "01010",
+    "01011",
+    "01100",
+    "01101",
+    "01110",
+    "01111",
+    "10000",
+    "10001",
+    "10010",
+    "10011",
+    "10100",
+    "10101",
+    "10110",
+    "10111",
+    "11000",
+    "11001",
+    "11010",
+    "11011",
+    "11110",
+    "11111"
+   ],
+   "n_allowed": 30,
+   "unwitnessed": [],
+   "pairwise": {
+    "PD": false,
+    "PM": false,
+    "PA": false,
+    "PC": false,
+    "DP": false,
+    "DM": false,
+    "DA": false,
+    "DC": false,
+    "MP": false,
+    "MD": false,
+    "MA": false,
+    "MC": false,
+    "AP": false,
+    "AD": false,
+    "AM": false,
+    "AC": false,
+    "CP": false,
+    "CD": false,
+    "CM": false,
+    "CA": false
+   },
+   "leave_one_out": {
+    "P": true,
+    "D": true,
+    "M": true,
+    "A": false,
+    "C": true
+   }
+  }
+ },
+ "falsification": {
+  "VAR(1)": {
+   "N": 3000,
+   "borderline": 0,
+   "configs": {
+    "eps=0.0 00001": 1397,
+    "eps=0.0 00101": 22,
+    "eps=0.0 01101": 487,
+    "eps=0.0 10001": 383,
+    "eps=0.0 10011": 119,
+    "eps=0.0 10101": 2,
+    "eps=0.0 10111": 200,
+    "eps=0.0 11111": 390,
+    "eps=0.01 00001": 1397,
+    "eps=0.01 00101": 22,
+    "eps=0.01 01101": 487,
+    "eps=0.01 10001": 310,
+    "eps=0.01 10011": 192,
+    "eps=0.01 10101": 2,
+    "eps=0.01 10111": 200,
+    "eps=0.01 11111": 390
+   }
+  },
+  "VAR(2)": {
+   "N": 3000,
+   "borderline": 0,
+   "configs": {
+    "eps=0.0 00001": 2137,
+    "eps=0.0 00101": 5,
+    "eps=0.0 01001": 141,
+    "eps=0.0 01101": 280,
+    "eps=0.0 10001": 171,
+    "eps=0.0 10011": 112,
+    "eps=0.0 10111": 54,
+    "eps=0.0 11001": 18,
+    "eps=0.0 11011": 21,
+    "eps=0.0 11111": 61,
+    "eps=0.01 00001": 2135,
+    "eps=0.01 00011": 2,
+    "eps=0.01 00101": 5,
+    "eps=0.01 01001": 140,
+    "eps=0.01 01011": 1,
+    "eps=0.01 01101": 280,
+    "eps=0.01 10001": 155,
+    "eps=0.01 10011": 128,
+    "eps=0.01 10111": 54,
+    "eps=0.01 11001": 15,
+    "eps=0.01 11011": 24,
+    "eps=0.01 11111": 61
+   }
+  }
+ }
+}

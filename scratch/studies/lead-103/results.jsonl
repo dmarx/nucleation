@@ -1,0 +1,6 @@
+{"check": "nc_bound_lp_diamond_faces", "expected": 1.0, "optima": {"-x+z": 1.0, "-x-z": 1.0, "x+z": 1.0, "x-z": 1.0}, "pass": true}
+{"bound": 1.0, "check": "nc_bound_general_search", "max_x_plus_z": 0.874258, "pass": true}
+{"OE1_equal_predictabilities": true, "OE1_sign_pattern": true, "OE2_mixture_gap": 0.0, "check": "qubit_orbit", "tag": "max", "violates_bound": true, "violation_ratio": 1.414214, "x": 0.707107, "x_plus_z": 1.414214, "z": 0.707107}
+{"OE1_equal_predictabilities": true, "OE1_sign_pattern": true, "OE2_mixture_gap": 0.0, "check": "qubit_orbit", "tag": "pure_r=1", "violates_bound": true, "violation_ratio": 1.4, "x": 0.8, "x_plus_z": 1.4, "z": 0.6}
+{"OE1_equal_predictabilities": true, "OE1_sign_pattern": true, "OE2_mixture_gap": 0.0, "check": "qubit_orbit", "tag": "sub", "violates_bound": true, "violation_ratio": 1.2, "x": 0.6, "x_plus_z": 1.2, "z": 0.6}
+{"check": "nc_bound_without_OE2", "max_x_plus_z": 2.0, "note": "dropping the mixture equivalence removes the bound; equivalence is what the inequality rests on", "pass": true}

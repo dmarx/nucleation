@@ -1,0 +1,151 @@
+---
+status: Read
+paper: LIT-2978
+title: 'Kardar, Parisi and Zhang, read for the KPZ equation, its symmetries and how the relevance of its nonlinearity depends on dimension'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read in full on 2026-11-22 by a delegated reader from a scan of the
+    published letter with a text layer, 4 pp., on the UC San Diego
+    Physics 116 (Winter 2020) course site
+    (courses.physics.ucsd.edu/2020/Winter/physics116/KPZ%20Model.pdf), a
+    course copy (ADR-074, ADR-113): abstract, text, Eqs. (1)–(6), Fig. 1
+    and caption, the d = 1, 2, 3 cases, the conclusion and all 20
+    references and notes. The OCR garbles fractions and Greek letters, so
+    every equation and exponent was read off page images at 110 and
+    300 dpi. Pages are the journal's, 889–892. Le Doussal's retrospective
+    (LIT-tmpvt8q4) was read in part beside it, in NOTE-tmpu2n0d. Every
+    quotation below rechecked by the filer by script against the
+    downloaded text, allowing for OCR noise. No email address sent.
+date: '2026-11-22'
+summary: >-
+  The KPZ equation ∂h/∂t = ν∇²h + (λ/2)(∇h)² + η, argued as the
+  lowest-order local nonlinearity for a growing interface, invariant
+  under h → h + const and a small tilt; its maps to Burgers's equation
+  and the directed polymer; and a one-loop dynamic RG: in d = 1 λ is
+  relevant and χ = ½, z = 3/2 are exact, in d = 2 marginally relevant,
+  in d ≥ 3 irrelevant when small, with a possible strong-coupling
+  transition. Three classes: random deposition, the "ideal" linear
+  interface, and KPZ. The reading is [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md).
+---
+<!-- inactive-ok-file: THEORY-tmpo3w5v NOTE-tmpu2n0d — new, Skimmed or Proposed; this reading and the retrospective read beside it -->
+<!-- inactive-ok-file: CLAIM-841 CLAIM-803 TERM-139 THEORY-1095 ARG-tmp2xbl4 CLAIM-tmpvq33w — Proposed or new; the entries the reading bears on -->
+
+# NOTE-tmpf6isj: Kardar, Parisi and Zhang, read for the KPZ equation, its symmetries and how the relevance of its nonlinearity depends on dimension
+
+## Contribution
+
+The KPZ equation itself, argued from locality and symmetry as "the
+lowest-order nonlinear term that can appear in the interface growth
+equation" (p. 889); the first universality-class account of the
+dynamics of a growing interface; its two mappings, to Burgers's
+equation and to the directed polymer; exact exponents in one dimension.
+The reading is [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md).
+
+## Key results
+
+1. **Eq. (1), p. 889.** ∂h/∂t = ν∇²h + (λ/2)(∇h)² + η, ⟨ηη⟩ =
+   2Dδ^d(x − x′)δ(t − t′). "Higher-order terms can also be present, but
+   they are irrelevant, and will not modify the universal scaling
+   properties."
+2. **Symmetries, p. 889.** Eq. (1) "is invariant under translations
+   h → h + const", and under h → h + ε·x, x → x + λεt, "which describes
+   the tilting of the interface by a small angle". "In principle there is
+   also a velocity term, which is removed by choice of an appropriate
+   moving coordinate system."
+3. **Deterministic growth, p. 890.** A rough interface relaxes into
+   paraboloids joined at kinks, the Burgers shocks, whose size grows as
+   t^(2/3) in one dimension.
+4. **RG, p. 891, Eqs. (5a)–(5b).** dλ/dl = [χ + z − 2]λ ("The diagrams
+   contributing to dλ/dl cancel at this order");
+   dλ̄/dl = ((2 − d)/2)λ̄ + K_d((2d − 3)/4d)λ̄³ for λ̄² = λ²D/ν³.
+5. **d = 1, p. 891.** "The expansion results z = 3/2 and χ = ½ are
+   actually exact. This is a consequence of a fluctuation-dissipation
+   theorem that holds in d = 1 only". The growth exponent χ/z = 1/3
+   matches ballistic deposition, width ∝ t^(0.30 ± 0.02).
+6. **The static exponent misleads, p. 891.** χ "takes the same value as
+   for an 'ideal' interface"; strip simulations read as ideal were "a
+   result of a peculiarity of one-dimensional interfaces".
+7. **d = 2, pp. 891–892.** λ "is marginally relevant, and grows under
+   rescaling. The fixed point … is not accessible by perturbation
+   theory"; polymer numerics suggest z ∼ 3/2 and χ ∼ ½ "may be regained",
+   "superuniversal".
+8. **d ≥ 3, p. 892.** "the coupling λ is irrelevant, and an
+   asymptotically ideal smooth surface is expected with z = 2. In
+   principle, Eq. (5b) allows for the possibility of a phase transition
+   to different scaling for strong enough couplings. This is probably not
+   relevant to the growth problem".
+9. **Conclusion, p. 892.** Three classes: random deposition, the ideal
+   interface with χ = (2 − d)/2 and z = 2, and "a new universality class"
+   for λ ≠ 0. It prints z = ⅔, a misprint for 3/2.
+10. **Note 14(b).** The results do not depend on the sign of λ, so they
+    describe a corroding interface too, an "acid rain model".
+
+**Arithmetic, checked by the filer.** In d = 1, K₁ = 1/π. The fixed point
+of (5b) is λ̄*² = 2/K₁ = 2π; dν/dl = 0 then gives z = 2 − K₁λ̄*²/4 = 3/2,
+and dD/dl = 0 gives χ = ½; χ + z = 2, the condition for dλ/dl = 0 with
+λ ≠ 0; χ/z = 1/3.
+
+## Assumptions
+
+A single-valued, coarse-grained interface; local, short-ranged growth;
+noise uncorrelated in space and time; relaxation by surface tension,
+ν > 0 (the Eden and ballistic models have ν = 0, "a rather singular
+limit", note 14(a)); a one-loop RG, claimed exact only in d = 1.
+
+## Concepts
+
+KPZ equation; Edwards–Wilkinson ("ideal") interface; random deposition;
+dynamic scaling w(L, t) = L^χ w₀(t/L^z); Cole–Hopf transformation;
+directed polymer; Burgers equation; dynamic RG; marginal relevance;
+tilt (Galilean) invariance; superuniversality, conjectured.
+
+## Bearing on the record
+
+- **[CLAIM-841](../claims.d/CLAIM-841.md)** (KPZ row): **supports for d ≤ 2, qualifies above.** For
+  any λ ≠ 0 in d = 1 the scaling holds with exact exponents and nothing
+  is set to a special value; only the mean velocity is removed, by a
+  change of frame (item 2), not by tuning. Above two dimensions a small
+  λ is irrelevant and the KPZ class is reached only past a
+  strong-coupling threshold (item 8; Le Doussal's "intermediate fixed
+  point", [NOTE-tmpu2n0d](NOTE-tmpu2n0d.md)), a tuned point between two scale-invariant
+  phases, the smooth one with z = 2. So the row's "generically" holds
+  for d ≤ 2 ([ARG-tmp2xbl4](../arguments.d/ARG-tmp2xbl4.md)). The row's α and the paper's χ are the same
+  exponent.
+- **[CLAIM-841](../claims.d/CLAIM-841.md)'s "A histogram cannot name its mechanism"** and
+  **[CLAIM-803](../claims.d/CLAIM-803.md)**: **support.** Item 6 is the paper's own instance: in
+  d = 1 the stationary KPZ interface has the linear interface's static
+  exponent, and earlier simulations read it as linear; only the dynamics
+  (z = 3/2 against 2) tell the classes apart. [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md)
+  `corroborates` [CLAIM-803](../claims.d/CLAIM-803.md).
+- **[QUESTION-508](../questions.d/QUESTION-508.md)**: **a partial answer for interfaces.** The paper
+  states the two symmetries (item 2). Two inferences are the reader's,
+  not the paper's: that translation invariance forbids a restoring term
+  ∝ h, so nothing pins the interface to a height; and that the
+  cancellation of λ's renormalization (item 4), later read as a
+  consequence of the tilt symmetry ("Galilean invariance (i.e. the STS
+  symmetry) ensures the relation χ = 2 − z", Le Doussal, p. 4), is what
+  fixes the exponents. What the paper itself says is that whether λ is
+  relevant decides which scale-free class is reached, and that above two
+  dimensions there may be a threshold.
+- **[THEORY-1095](../theory.d/THEORY-1095.md)**, **[THEORY-1085](../theory.d/THEORY-1085.md)**: **parallel.** Toner and Tu make the
+  same move: a dynamic RG in which a "Galilean" invariance protects a
+  coupling and fixes exact exponents in the lowest dimension it holds.
+  [CLAIM-tmpvq33w](../claims.d/CLAIM-tmpvq33w.md) states the shared mechanism.
+- **[TERM-139](../terms.d/TERM-139.md)**: **an example of the term's sense.** KPZ's λ is the
+  standard coupling that is relevant below d = 2, marginally relevant at
+  d = 2 and irrelevant (when small) above.
+- **[LIT-2982](../literature.d/LIT-2982.md)** (Takeuchi and Sano): background; the paper predicts the
+  exponents they test, and has no fluctuation distributions.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+A four-page letter: the one-loop RG is sketched, the
+fluctuation-dissipation theorem is cited to Deker and Haake rather than
+shown, and the directed-polymer numerics are "preliminary". The d = 2
+superuniversality conjecture failed: Le Doussal reports χ = 0.3869(4) in
+d = 2, so z = 2 − χ ≈ 1.61, not 3/2 (computed). Nothing on height
+distributions, skewness or currents.

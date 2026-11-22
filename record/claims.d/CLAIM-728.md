@@ -140,3 +140,45 @@ Hart 2016, read in part ([NOTE-2052](../notes.d/NOTE-2052.md), [THEORY-1979](../
 ## Note of 2026-11-18: what holds it back
 
 Grossman and Hart ([THEORY-1985](../theory.d/THEORY-1985.md)) and Hart's lecture ([THEORY-1979](../theory.d/THEORY-1979.md)), read, say the holder bargains rather than decides and that residual control acts ex ante, through anticipation; that stands against the last clause, "exercised, and seen, only when an uncovered contingency arises", and is unanswered, since the ARG the note of 2026-11-17 asks for is not filed. It is also stated in [TERM-124](../terms.d/TERM-124.md), which is not adopted.
+
+## Note of 2026-11-22: the argument of 2026-11-17 is now filed ([LEAD-133](../leads.d/LEAD-133.md))
+<!-- inactive-ok-file: ARG-tmpou34o — Rejected; the argument this note files -->
+
+The ARG the note of 2026-11-17 asked for, and the note of 2026-11-18 said
+was unfiled, is now filed as [ARG-tmpou34o](../arguments.d/ARG-tmpou34o.md) ([LEAD-133](../leads.d/LEAD-133.md)). Hart and Moore
+(1990, [LIT-2742](../literature.d/LIT-2742.md)) could not be read: its lawful copies answered rate
+limits and a bot check again on 2026-11-22, so it stays Unfetched, and it
+enters the argument through its read neighbour, Hart's Nobel lecture
+([THEORY-1979](../theory.d/THEORY-1979.md)), beside Grossman and Hart ([THEORY-1985](../theory.d/THEORY-1985.md)), both read.
+
+[ARG-tmpou34o](../arguments.d/ARG-tmpou34o.md) is Rejected as an inference from those readings to this
+claim as stated: they establish the residual-control definition (clause
+1, corroboration not a footing), qualify clause 2 (ownership confers
+bargaining power over the assets the other needs, not discretion at will
+over a person), and tell against clause 3, "exercised, and seen, only when
+an uncovered contingency arises", locating the effect of residual control
+*ex ante*, through anticipation, before and apart from any uncovered
+contingency. No status changes here; whether clause 3 should be revised is
+the owner's call, between two readings:
+
+- **Alternative A (widen the timing).** Revise clause 3 to say that the
+  discretion's effect is felt *ex ante*, through the other party's
+  anticipation of who will decide the uncovered contingencies, and becomes
+  most visible, but not only operative, when such a contingency arises.
+  This takes the economic readings as describing the same mechanism the
+  claim names and corrects its timing; the claim then no longer separates
+  cleanly from an ordinary account of anticipated bargaining power, which
+  is the cost.
+- **Alternative B (keep the timing, narrow the scope).** Keep clause 3 as
+  a claim specifically about the *visible exercise* of residual authority
+  at the uncovered contingency, the moment the question "who decides what
+  happens next?" is answered in act, and treat the ex ante anticipatory
+  effect the readings describe as a distinct, complementary mechanism (a
+  separate claim or a note), not part of this one. This preserves what is
+  distinctive in the claim, that a fair-looking arrangement's allocation
+  of authority shows itself at the perturbation, at the cost of conceding
+  that the readings do not ground the claim's own mechanism, only a
+  neighbouring one.
+
+The wording is the assistant's (Claude, in this session); choosing between
+the alternatives, and adopting either, is the owner's call.

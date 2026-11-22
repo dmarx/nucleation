@@ -24,6 +24,7 @@ summary: >-
   operative structure changes, with a way to tell that change from
   discovery and from redescription.
 ---
+<!-- inactive-ok-file: CASE-tmp69rk8 — filed from LEAD-098's run of 2026-11-22, new -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed, Open or new; the claims and readings the question presses on -->
 
 # QUESTION-282: Under what conditions do interactions change the physically operative correspondence structure among systems (the compatibility operator itself, not only the states it relates), rather than merely reveal it to a measurement or redescribe it in a model?
@@ -117,3 +118,22 @@ The question stays open.
 ## Note of 2026-11-07: a formal entry point for change of the operator, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A20 §5 separates "Change within an organization" from change of the organization. If the collective coordinate is q = L(c)x, then q̇ = L(c)ẋ + DL(c)[ċ]x, and the second term is change of the organization. With adaptive offsets on a graph, ṙ = −κDDᵀr − Da(c)[ċ]; a drift of the offsets in the cycle space is untouched by relaxation (the reader checked it on a triangle), which separates a tracking limit from a compatibility obstruction ([CLAIM-556](../claims.d/CLAIM-556.md)). It does not say how interactions change the operator, which is what this question asks. The question stays open.
+
+## Note of 2026-11-22: plastic maps in a simulated network, from [LEAD-098](../leads.d/LEAD-098.md)
+
+[CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md) ran one variant in which the correspondence maps change through interaction: phase offsets on the coupling that adapt to the realized offsets. Starting frustrated (holonomy 0.8π), the operative maps became compatible and the residual incompatibility went to zero. In the same study, an apparatus that only revised its own maps to the observed offsets reached coherence without changing the system or its own predictions; only revision checked against held-out interventions improved prediction. That separates a change of the operative structure from a redescription in this model. The adaptation rule was the experimenter's, so it is not structure the system generates in the question's full sense. Leaves the question open.
+
+## Note of 2026-11-22: Manik, Timme and Witthaut, read
+<!-- inactive-ok-file: THEORY-tmpnlu47 — Proposed; filed by LEAD-023 -->
+
+Manik, Timme and Witthaut ([THEORY-tmpnlu47](../theory.d/THEORY-tmpnlu47.md), bears_on; [NOTE-tmpftn2t](../notes.d/NOTE-tmpftn2t.md)) give two results on what a change of the coupling structure does to the realizable states, which A12 cited them near. Raising one edge's capacity on a four-node ring can remove every locked state: "an increase of local transmission capacity reduces the ability of the network to support a phase locked fixed point" (§IV.D). And fusing two motifs that each have locked states can leave none, while joining two rings that have none can create one (§V.E). So the operator's change has consequences that no part's change predicts. In both, the change is the modeller's, not made by the interactions, so neither touches what this question asks. The question stays open.
+
+## Note of 2026-11-22: Bosca and Ghrist, skimmed
+<!-- inactive-ok-file: THEORY-tmp0xz8p NOTE-tmpd2cps — Proposed and Skimmed; filed by LEAD-023 -->
+
+Bosca and Ghrist ([THEORY-tmp0xz8p](../theory.d/THEORY-tmp0xz8p.md), bears_on; [NOTE-tmpd2cps](../notes.d/NOTE-tmpd2cps.md), skimmed) extend the one model this question named, in which interaction changes the correspondence structure. Two additions bear on it. The structure flow is itself diffusion on an auxiliary sheaf of structures (Proposition 4.8), so change of the operator has the same form as change of the states it relates. And a condition is given for which of the two changes: the ratio of the expression rate to the opinion rate bounds how far the other moves (Corollary 6.5). That is a condition of the kind the question asks for, inside the model. As before, the adaptation rule is the modeller's gradient flow, and nothing in the model tells a change of the operator from its redescription. The question stays open.
+
+## Note of 2026-11-22: Leal and colleagues, skimmed
+<!-- inactive-ok-file: THEORY-tmpzt77d NOTE-tmp9h46q — Proposed and Skimmed; filed by LEAD-023 -->
+
+Leal and colleagues ([THEORY-tmpzt77d](../theory.d/THEORY-tmpzt77d.md), bears_on; [NOTE-tmp9h46q](../notes.d/NOTE-tmp9h46q.md), skimmed; [LIT-2262](../literature.d/LIT-2262.md)) give a way to describe a correspondence structure that changes over time: a narrative valued in cellular sheaves records the sheaf at each interval and what persists and accumulates across switches of the communication topology. The switching is given as data, not produced by the agents' interactions, and the dynamics on such temporal sheaves are work in progress. A representation for the question's change of the operator, then, not a condition for it. The question stays open.

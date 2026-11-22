@@ -1,0 +1,75 @@
+---
+status: Active
+title: 'Topological Defects and Phase Transitions'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered on 2026-11-22 as a stand-in for Kosterlitz and Thouless
+    (1973), LIT-2969, whose lawful copy at IOP was stopped by a Cloudflare
+    challenge (ADR-114). Read in full the same day in NOTE-tmp0si2r by a
+    delegated reader from the Nobel Foundation's PDF
+    (www.nobelprize.org/uploads/2018/06/kosterlitz-lecture.pdf, 15 pp.),
+    linked from the lecture page, which carries "Copyright © The Nobel
+    Foundation 2016": the rights holder's own copy (ADR-102). The reading
+    is THEORY-tmpwdka8. Nobel Lecture, 8 December 2016, in Les Prix Nobel
+    2016, pp. 85–99; also printed as Reviews of Modern Physics 89, 040501
+    (2017), DOI 10.1103/RevModPhys.89.040501 (Crossref, no email address
+    sent), not fetched. Not held before: no hit for the DOI or the
+    lecture in record/. Kosterlitz (1974), LIT-tmph3tia, registered from
+    it.
+tags:
+- natural-sciences
+- thermodynamics
+date: '2026-11-22'
+published: '2016-12-08'
+doi: '10.1103/RevModPhys.89.040501'
+url: 'https://www.nobelprize.org/uploads/2018/06/kosterlitz-lecture.pdf'
+first_author: 'Kosterlitz'
+keywords: []
+implementations: []
+summary: >-
+  Kosterlitz (2016), Topological Defects and Phase Transitions, Nobel
+  Lecture, also Reviews of Modern Physics 89, 040501 (2017). The first
+  author's account of the BKT work: long-range order is absent in 2D, yet
+  "there can be a more subtle type of order called topological order";
+  in the planar rotor winding-number sectors are separated by barriers ∝
+  ln L, in the 2D Heisenberg model by a barrier "of order unity", so it
+  has no ordered state; a free vortex's free energy changes sign at
+  πK = 2; the RG (Kosterlitz 1974) predicts a universal jump in the
+  superfluid density, confirmed in helium films. It names the 1973
+  paper's errors (the screening approximation, the melting treatment)
+  and recalls that a finite penetration depth frees vortices at any
+  T > 0 in a charged superconducting film.
+---
+<!-- inactive-ok-file: THEORY-tmpwdka8 — new; this work's reading -->
+<!-- inactive-ok-file: LIT-2969 — Unfetched; the original this work stands in for -->
+<!-- inactive-ok-file: LIT-tmph3tia — Deferred; Kosterlitz (1974), registered from this work -->
+
+# LIT-tmp3k6np: Topological Defects and Phase Transitions
+
+Kosterlitz (2016). Nobel Lecture, 8 December 2016. Reviews of Modern
+Physics 89, 040501 (2017). DOI 10.1103/RevModPhys.89.040501.
+
+## Key takeaways
+
+- Sectors: winding numbers "are numbers defining a particular metastable
+  state", with "an energy barrier proportional to the logarithm of the
+  system size" between them; in the 2D Heisenberg model the barrier "is
+  of order unity", "which implies that there is no ordered state"
+  (pp. 90–91).
+- A free vortex: ΔF = k_BT(πK₀(T) − 2) ln(L/a), a transition "when
+  πK(∞) = 2" (pp. 92–93).
+- The 1973 self-consistent treatment's approximation "led to incorrect
+  results"; Young showed the proper one "equivalent to the
+  renormalization group equations of Kosterlitz" (1974) (p. 93).
+- A finite penetration depth limits the logarithmic interaction, so "the
+  vortices are always free at any T > 0" (p. 98).
+
+## Standing in the record
+
+Registered as a stand-in for Kosterlitz and Thouless (1973), [LIT-2969](LIT-2969.md),
+which is Unfetched ([ADR-114](../decisions.d/ADR-114.md)). It restates the argument and its history;
+not the 1973 equations or wording. A retrospective by an author, partly
+autobiographical.

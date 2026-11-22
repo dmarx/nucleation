@@ -4,13 +4,26 @@ status: Open
 formerly:
 - QUESTION-tmpw9b04
 title: 'When does spectral differentiation among learned features correspond to stabilizing coexistence among the processes that implement them, and what besides the feature geometry decides it?'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-10-29'
   note: >-
     Note of 2026-10-29 added, from the readings of Mehta et al. and
     Chizat and Bach. The question is unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-049's Theorem B (CLAIM-tmp6kclm)
+    bounds each specialist's recovery rate below by its abundance times
+    its niche vector's squared distance from the span of the others, and
+    so by abundance times λ_min(A). The question is unchanged.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: in LEAD-016's run (CASE-tmpnti0m) a
+    rare specialist's recovery followed its residual direction among
+    learned operator vectors. The question is unchanged.
 tags:
 - representation-learning
 - ecology
@@ -31,6 +44,8 @@ summary: >-
   else, such as supply, task distribution or evaluation opportunities, has
   to be fixed for it to.
 ---
+<!-- inactive-ok-file: CASE-tmpnti0m — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
+<!-- inactive-ok-file: CLAIM-tmp6kclm CLAIM-tmpdsv4t CASE-tmp5sk3q — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # QUESTION-135: When does spectral differentiation among learned features correspond to stabilizing coexistence among the processes that implement them, and what besides the feature geometry decides it?
@@ -124,3 +139,54 @@ holds only for this linear model.
 persistence demands.
 
 No status changes.
+
+## Note of 2026-11-22: a k-component spectral bound on recovery
+
+[LEAD-049](../leads.d/LEAD-049.md) proved a k-component version of [CASE-118](../cases.d/CASE-118.md)'s identity
+([CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md), Theorem B). It holds in [CLAIM-369](../claims.d/CLAIM-369.md)'s class at fixed
+features, with the Gram matrix A positive definite and an interior
+equilibrium n*. A specialist i is removed and reintroduced rare against
+the others' re-equilibrated community. Its recovery growth satisfies
+
+  λ_i ≥ n*_i / (A⁻¹)_ii = n*_i d_i² ≥ n*_i λ_min(A).
+
+Here d_i is the distance of i's feature vector from the span of the
+others'. Equality holds in the first inequality when no other component
+goes extinct in i's absence. [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)'s 7,981 random cases meet the
+bound everywhere. In the 1,666 with a secondary extinction it is strict.
+
+For this question the result sharpens [CASE-118](../cases.d/CASE-118.md)'s finding. What predicts
+a component's recovery is not the spectrum as a whole. It is the
+component's own residual direction, d_i², the Schur complement of A at i,
+weighted by its abundance. λ_min(A) is only the worst case over
+components. The abundance n* = A⁻¹r carries the supply, which is the
+"what else" the question asks for. In this class the answer is exact:
+feature geometry (d_i) and supply (n*_i) together set recovery. That
+holds only while the features are fixed. When they adapt, a component's
+recovery against re-adapted residents can be negative ([CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md)).
+
+The question is unchanged and stays Open.
+
+## Note of 2026-11-22: the residual direction in a learning population
+
+In [LEAD-016](../leads.d/LEAD-016.md)'s reduced run of [CASE-117](../cases.d/CASE-117.md) ([CASE-tmpnti0m](../cases.d/CASE-tmpnti0m.md)), the operators'
+learned parameter vectors play the part of features. At the snapshot,
+the rare specialist's squared distance d² from the span of the other
+operators' normalized vectors was measured.
+
+| condition | d² | recovery from 10⁻³ |
+|---|---|---|
+| no spare operator | 1.0 | positive, every seed |
+| two spares, multiplicative rule | 0.000 | about zero |
+| two spares, gating | 0.18 | negative |
+
+Under the multiplicative rule a spare had co-learned the specialist's job,
+with cosine 0.998. Under gating the spare learned it during the window.
+This fits the note of 2026-11-22's reading of [CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md): a
+component's own residual direction, not the spectrum as a whole, is what
+recovery tracks. Here it is observed in an adaptive population, not proved.
+
+The geometry at the snapshot did not predict the gating case. There the
+spare was still only partly aligned and became redundant during the test.
+What else must be fixed includes the learning that happens while the
+specialist is rare. The question is unchanged and stays Open.

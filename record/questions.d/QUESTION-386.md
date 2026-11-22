@@ -84,3 +84,13 @@ Read at the owner's request to look to aid and development for theory on how aid
 - **A model of the cost.** In [CLAIM-602](../claims.d/CLAIM-602.md), funding that pays for the work rather than for the organization doing it selects substitution, which lowers the capacity kept.
 
 No status changes.
+
+## Note of 2026-11-22: practice as utilization
+
+<!-- inactive-ok-block: CASE-tmpvnozj CLAIM-tmpocsw4 — new; LEAD-080's study and its corollary -->
+In [LEAD-080](../leads.d/LEAD-080.md)'s run of A's readiness simulator ([CASE-tmpvnozj](../cases.d/CASE-tmpvnozj.md)), a budget set to the last month's peak defunded a rarely needed heavy rescue squad within months unless something mobilized it every month; a monthly drill did, and kept it funded in every run ([CLAIM-tmpocsw4](../claims.d/CLAIM-tmpocsw4.md)). In that model, whether the loop this question describes runs turns on whether practice and cancelled dispatches count as the observed activity. Full carry-over kept the squad funded but not qualified: without drills, at two reports a month, its skill fell and needs met fell from 0.92 to 0.59, so funding and maintenance are separate conditions. No status changes.
+
+## Note of 2026-11-22: the loop run against a decoupled control
+
+<!-- inactive-ok-block: CASE-tmpuqpww CLAIM-tmp9mpn0 — new; LEAD-036's study and the claim drawn from it -->
+[LEAD-036](../leads.d/LEAD-036.md) ran A's model above with the three processes this question names, coverage feedback taken as a capability committed only once its competence reaches a threshold, and against the control asked for under "What would answer it", maintenance funded apart from observed activity ([CASE-tmpuqpww](../cases.d/CASE-tmpuqpww.md)). The loop exists in the model and is harmful there under one condition on the rule: where the base budget alone sustains competence below the commitment threshold, (β/δ)(B̄ − h) < k_lo, the coupled rule has a state in which the capability is never committed or funded again, and any stretch without occasions long enough for competence to decay there reaches it, whatever η pays per use ([CLAIM-tmp9mpn0](../claims.d/CLAIM-tmp9mpn0.md)). At the same expected funding, it was lost within thirty years in every run at one occasion in two and a half years, in 39 % at four a year, and never under decoupling. Where the base sustains competence above the threshold nothing was lost for good, but at the rarest occasions coupling met a quarter of them against nearly all under decoupling. The rates are invented. No status changes.

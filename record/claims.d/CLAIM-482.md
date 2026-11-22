@@ -47,6 +47,7 @@ summary: >-
   the outcome of the governing relations, which is the reading [CLAIM-027](CLAIM-027.md)'s
   defeater excludes ("whose content predicts the outcome").
 ---
+<!-- inactive-ok-file: THEORY-tmpam6lh — Proposed; the reading of Caliari, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-089 — Rejected; the objection this answers -->
 
 # CLAIM-482: An organization's aggregate revealed preference exists exactly when its record of winning moves never cycles, and where it exists it is fitted to one regime of authority, so an intervention on authority that changes the winning moves changes the fitted preference and the preference does not predict the change
@@ -108,3 +109,21 @@ Bogetoft and Hougaard (KVL working paper 2001/14, revised 2002; [LIT-2096](../li
 ## Note of 2026-11-06: Bogetoft and Hougaard, read in full
 
 The full reading ([NOTE-1576](../notes.d/NOTE-1576.md) v2) confirms what the note of 2026-11-04 said the paper assumes. §7.1 predicts "the rational response" of a unit to new prices and restrictions from "an estimated value model" fitted under the old regime (p. 26). §8 leaves estimation on data to future work. No status changes.
+
+## Note of 2026-11-22: Caliari, read
+
+A **different notion of revealed preference, not a rival** ([LIT-2363](../literature.d/LIT-2363.md),
+[NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md); [THEORY-tmpam6lh](../theory.d/THEORY-tmpam6lh.md)). Caliari's welfare methods elicit a
+preference from a record that violates WARP, that is, from a cycling
+record, at a stated risk of false positives and under the assumption that
+choice frequency is monotone in the preference. That is not an ordering
+that every winning move climbs, which is what this claim says exists
+exactly when the wins never cycle ([CLAIM-434](CLAIM-434.md)); Caliari's relation is the
+analyst's best estimate of an underlying welfare preference, not a
+redescription that rationalizes the record. The two can both be right. It
+offers a **parallel** to this claim's second half, an analogy and no edge:
+Caliari insists
+every welfare method is "implicitly model-based" (§1), so a preference read
+off a record is fitted to an assumed model of how the record was produced,
+as this claim says the aggregate preference is fitted to one regime of
+authority. No new claim is filed; the status is unchanged.

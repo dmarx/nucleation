@@ -42,6 +42,7 @@ summary: >-
   (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-840 CLAIM-845 CLAIM-832 CASE-303 CLAIM-769 THEORY-2131 — Proposed or new; the owner's conjecture, the other reading, the claims, case, argument and lead filed with it, and held entries cited as contrasts -->
+<!-- inactive-ok-file: THEORY-tmpczldx — Proposed; the reading of Beck and Cohen, 2026-11-22 -->
 
 # CLAIM-829: Read as a separation of scales, a bulk separated from a sparse tail is what a continuous transition shows from below: the bulk keeps a fixed small scale while the cutoff of the tail grows without bound as the transition nears, and at the transition the separating scale is gone, so that no size marks off the extraordinary
 
@@ -125,3 +126,13 @@ code is in [CASE-303](../cases.d/CASE-303.md).
   result not checked here. Neither changes the separation of scales.
 - Not that the tail is negligible. With τ = 3/2 < 2 it carries most of
   the total size ([CLAIM-832](CLAIM-832.md)).
+
+## Note of 2026-11-22: Beck and Cohen, read
+
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md))
+**support this reading's contrast with a mixture**, a parallel with no
+edge. "A fixed mixture has no such parameter": in superstatistics the only
+knob is the variance of the fluctuating parameter (q), which fattens the
+power-law tail of the gamma case without any cutoff growing, and the bulk
+and the tail come from one average, with no separating scale that closes.
+The claim is unchanged.

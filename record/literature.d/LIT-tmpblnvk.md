@@ -1,0 +1,66 @@
+---
+status: Unfetched
+status_note: >-
+  searched 2026-11-22 for [LEAD-112](../leads.d/LEAD-112.md). A lawful copy was located and not
+  read: Europe PMC lists a free PDF from the publisher at
+  https://academic.oup.com/brain/article-pdf/140/5/1231/18223376/aww358.pdf,
+  which returned HTTP 403 with a Cloudflare "Just a moment..." challenge on
+  2026-11-22. Stopped there, not retried. Europe PMC gives no PMC copy.
+  de Haan et al. 2020 ([LIT-tmpsc6mi](LIT-tmpsc6mi.md)), a review with Pinto among its
+  authors, was read as a stand-in ([ADR-114](../decisions.d/ADR-114.md)); it restates this work's
+  results, not its methods or data. A copy from the owner, or the host's
+  allowing this client, would return it to reading.
+title: 'Split brain: divided perception but undivided consciousness'
+version: 2
+history:
+- version: 1
+  date: '2026-11-22'
+  note: 'Filed, not read. Identifier, title, authors, venue and date checked on Crossref on 2026-11-22,
+    and the date and copies on the Europe PMC REST API, no email address sent. Not held: no hit for the
+    DOI or the title in record/literature.d. The summary follows the Europe PMC abstract where it describes
+    the work.'
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Deferred to Unfetched (ADR-053): the publisher's free PDF sat behind a
+    Cloudflare challenge. The stand-in LIT-tmpsc6mi was read in
+    NOTE-tmpbwyy5. The summary's account of the design, written at
+    registration without the abstract, is replaced by what the stand-in
+    restates.
+tags:
+- consciousness
+- neuroscience
+- cognition
+date: '2026-11-22'
+published: '2017-01-24'
+doi: 10.1093/brain/aww358
+first_author: Pinto
+keywords: []
+implementations: []
+summary: >-
+  Pinto, Neville, Otten, Corballis, Lamme, de Haan, Foschi & Fabri (2017),
+  Brain 140(5): 1231-1237. By the stand-in's account (de Haan et al. 2020,
+  [LIT-tmpsc6mi](LIT-tmpsc6mi.md), [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md)), a split-brain patient matched pictures to
+  sample better for left-field stimuli and to verbal labels better for
+  right-field ones, whatever the response type, and reported presence and
+  location anywhere in the field with either hand and verbally. It bears
+  on [QUESTION-061](../questions.d/QUESTION-061.md) and [CLAIM-003](../claims.d/CLAIM-003.md) as a content available to some operations
+  and not others within one agent, and on [QUESTION-048](../questions.d/QUESTION-048.md)'s deficit kind.
+  Unfetched; unverified first-hand.
+---
+<!-- inactive-ok-file: CLAIM-003 — Proposed; the claim this work bears on -->
+
+# LIT-tmpblnvk: Split brain: divided perception but undivided consciousness
+
+Pinto, Neville, Otten, Corballis, Lamme, de Haan, Foschi & Fabri (2017), Brain 140(5): 1231-1237. DOI 10.1093/brain/aww358.
+
+## Standing in the record
+
+Registered on 2026-11-22 by [LEAD-112](../leads.d/LEAD-112.md)'s search (E5). The free publisher PDF
+was behind a Cloudflare challenge, so it is Unfetched. de Haan et al. 2020
+([LIT-tmpsc6mi](LIT-tmpsc6mi.md)) stands in for its results as that review restates them,
+including the finding that identity follows the visual field while response
+type plays no role; it does not stand in for the design, the sample or the
+statistics. The title's claim, perception divided and consciousness
+undivided, is the authors'; the stand-in's consensus is that the evidence
+does not yet settle the second half.

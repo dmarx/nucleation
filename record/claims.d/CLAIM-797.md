@@ -40,6 +40,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-822 TERM-136 CLAIM-847 CLAIM-838 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-797: In a high-dimensional representation space a thin radial shell, nearly orthogonal random directions and nearly equal pairwise distances arise with no interaction at all, so they are a null baseline and not evidence of learned attraction, order or collapse; a thin annulus is not a low-dimensional manifold, and meaningful locality may be something learning has to produce
 
@@ -116,3 +117,11 @@ escape it. That is this claim's null and its escape route, in the setting of
 nearest-neighbour search; [THEORY-369](../theory.d/THEORY-369.md) holds the consequence for indexing.
 What the record lacked is the null read as a baseline for representation
 dynamics, and the entropic reading of the shell.
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](../theory.d/THEORY-tmpvwv5n.md)): **background.**
+Their Gibbs density with a cosine alignment potential is a von
+Mises–Fisher-like law of concentration of order 1/τ, on S¹ and S² in their
+experiments; this claim's concentration null is what such a bias has to
+beat in high dimension, a point the paper does not address. No relation.

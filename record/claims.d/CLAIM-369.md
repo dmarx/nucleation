@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpc36bo
 title: 'In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-04'
@@ -20,6 +20,13 @@ history:
     the asymmetric case already says; it now cites THEORY-1162, the
     reading of their paper. Reported by the synthesis review of
     2026-11-11 (seventh round). No other change.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-049 extends the claim's potential to
+    niche traits that adapt within a box up the selection gradient
+    (CLAIM-tmp6kclm), and bounds invasion fitness at the -i community by
+    n*_i/(A^-1)_ii. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -57,6 +64,7 @@ summary: >-
   stops being an optimizer. Mehta et al. (2019) and Marsland, Cui and
   Mehta (2020) give the general duality for consumer–resource models.
 ---
+<!-- inactive-ok-file: CLAIM-tmp6kclm — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # CLAIM-369: In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points
@@ -255,5 +263,26 @@ effects, cannot arise from a Gram matrix. Two further limits on the
 transfer: the chapter needs positive entries in its matrix, which is this
 claim's sign condition for the ecological reading, and its pool admits
 only species with r_i > 0.
+
+The claim is unchanged.
+
+## Note of 2026-11-22: adaptive niche vectors, and a bound on invasion fitness
+
+[LEAD-049](../leads.d/LEAD-049.md) builds on this claim ([CLAIM-tmp6kclm](CLAIM-tmp6kclm.md), which rests on it). Two
+additions bear on it.
+
+- **The potential survives adaptation of U.** Let each column be u(θ_i),
+  with a trait θ_i in a box moving up the rare-mutant selection gradient
+  J_iᵀ(b − Un). Then (n, θ) together follow ż = −D∇L for this claim's L,
+  with D = diag(n, εκ/n) positive. The operator's own fitness gradient
+  instead adds a self-crowding term and gives no such potential unless
+  |u(θ)| is constant. Evolving U, which the note of 2026-10-29 says the
+  claim's fixed-U setting does not cover (Power et al.), is covered in
+  this restricted form.
+- **Invasion fitness at the −i community.** With A positive definite and
+  an interior equilibrium n*, item 3's s_i at the −i community satisfies
+  s_i ≥ n*_i/(A⁻¹)_ii = n*_i d_i². Here d_i is the distance of u_i from
+  the span of the other columns. Equality holds when no other component
+  is absent there.
 
 The claim is unchanged.

@@ -246,3 +246,11 @@ than its actual consequences do.
   second did, so the ATQ-B statistic was evidently copied from the BDI line.
 - **Repository metadata.** The GSU record lists the first author as
   "Hayes, Stephen C."; the manuscript and Crossref have Steven C. Hayes.
+
+## Note of 2026-11-22: Howard, Gagné and Bureau, read
+
+A **caution**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-tmp3k6if](NOTE-tmp3k6if.md)). The correspondence drawn
+above between ACT's values and self-determination theory's identified and
+integrated regulation is, in measurement, a correspondence with one rung:
+integrated regulation is "practically indistinguishable" from identified
+regulation (p. 28).

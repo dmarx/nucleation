@@ -1,0 +1,5885 @@
+{
+  "n_workbench_files": 135,
+  "n_files_with_labels": 47,
+  "n_files_without_labels": 88,
+  "n_moves_total": 698,
+  "n_moves_filed_or_notfiled": 454,
+  "dispositions": {
+    "other": 237,
+    "corrected": 7,
+    "not_filed": 245,
+    "filed": 209
+  },
+  "by_contributor": {
+    "assistant": {
+      "filed": 21,
+      "not_filed": 16,
+      "total": 37,
+      "share_filed": 0.5676
+    },
+    "both": {
+      "filed": 146,
+      "not_filed": 209,
+      "total": 355,
+      "share_filed": 0.4113
+    },
+    "owner": {
+      "filed": 19,
+      "not_filed": 8,
+      "total": 27,
+      "share_filed": 0.7037
+    },
+    "reader": {
+      "filed": 1,
+      "not_filed": 0,
+      "total": 1,
+      "share_filed": 1.0
+    },
+    "unattributed": {
+      "filed": 22,
+      "not_filed": 12,
+      "total": 34,
+      "share_filed": 0.6471
+    }
+  },
+  "by_contributor_span_only": {
+    "assistant": {
+      "filed": 28,
+      "not_filed": 41,
+      "total": 69,
+      "share_filed": 0.4058
+    },
+    "both": {
+      "filed": 78,
+      "not_filed": 128,
+      "total": 206,
+      "share_filed": 0.3786
+    },
+    "owner": {
+      "filed": 26,
+      "not_filed": 13,
+      "total": 39,
+      "share_filed": 0.6667
+    },
+    "reader": {
+      "filed": 1,
+      "not_filed": 0,
+      "total": 1,
+      "share_filed": 1.0
+    },
+    "unattributed": {
+      "filed": 76,
+      "not_filed": 63,
+      "total": 139,
+      "share_filed": 0.5468
+    }
+  },
+  "by_kind": {
+    "case": {
+      "filed": 30,
+      "not_filed": 21,
+      "total": 51,
+      "share_filed": 0.5882
+    },
+    "claim": {
+      "filed": 71,
+      "not_filed": 89,
+      "total": 160,
+      "share_filed": 0.4437
+    },
+    "note": {
+      "filed": 60,
+      "not_filed": 16,
+      "total": 76,
+      "share_filed": 0.7895
+    },
+    "question": {
+      "filed": 26,
+      "not_filed": 21,
+      "total": 47,
+      "share_filed": 0.5532
+    },
+    "term": {
+      "filed": 13,
+      "not_filed": 20,
+      "total": 33,
+      "share_filed": 0.3939
+    },
+    "theory": {
+      "filed": 0,
+      "not_filed": 17,
+      "total": 17,
+      "share_filed": 0.0
+    },
+    "unclassified": {
+      "filed": 2,
+      "not_filed": 41,
+      "total": 43,
+      "share_filed": 0.0465
+    },
+    "work": {
+      "filed": 7,
+      "not_filed": 20,
+      "total": 27,
+      "share_filed": 0.2593
+    }
+  },
+  "by_contributor_and_kind": {
+    "assistant|case": {
+      "filed": 3,
+      "not_filed": 2
+    },
+    "assistant|claim": {
+      "filed": 7,
+      "not_filed": 5
+    },
+    "assistant|note": {
+      "filed": 7,
+      "not_filed": 1
+    },
+    "assistant|question": {
+      "filed": 2,
+      "not_filed": 5
+    },
+    "assistant|term": {
+      "filed": 2,
+      "not_filed": 1
+    },
+    "assistant|theory": {
+      "filed": 0,
+      "not_filed": 1
+    },
+    "assistant|unclassified": {
+      "filed": 0,
+      "not_filed": 1
+    },
+    "both|case": {
+      "filed": 25,
+      "not_filed": 19
+    },
+    "both|claim": {
+      "filed": 52,
+      "not_filed": 74
+    },
+    "both|note": {
+      "filed": 37,
+      "not_filed": 13
+    },
+    "both|question": {
+      "filed": 20,
+      "not_filed": 14
+    },
+    "both|term": {
+      "filed": 7,
+      "not_filed": 18
+    },
+    "both|theory": {
+      "filed": 0,
+      "not_filed": 15
+    },
+    "both|unclassified": {
+      "filed": 1,
+      "not_filed": 39
+    },
+    "both|work": {
+      "filed": 4,
+      "not_filed": 17
+    },
+    "owner|case": {
+      "filed": 1,
+      "not_filed": 0
+    },
+    "owner|claim": {
+      "filed": 4,
+      "not_filed": 4
+    },
+    "owner|note": {
+      "filed": 8,
+      "not_filed": 1
+    },
+    "owner|question": {
+      "filed": 1,
+      "not_filed": 0
+    },
+    "owner|term": {
+      "filed": 2,
+      "not_filed": 1
+    },
+    "owner|unclassified": {
+      "filed": 1,
+      "not_filed": 1
+    },
+    "owner|work": {
+      "filed": 2,
+      "not_filed": 1
+    },
+    "reader|note": {
+      "filed": 1,
+      "not_filed": 0
+    },
+    "unattributed|case": {
+      "filed": 1,
+      "not_filed": 0
+    },
+    "unattributed|claim": {
+      "filed": 8,
+      "not_filed": 6
+    },
+    "unattributed|note": {
+      "filed": 7,
+      "not_filed": 1
+    },
+    "unattributed|question": {
+      "filed": 3,
+      "not_filed": 2
+    },
+    "unattributed|term": {
+      "filed": 2,
+      "not_filed": 0
+    },
+    "unattributed|theory": {
+      "filed": 0,
+      "not_filed": 1
+    },
+    "unattributed|work": {
+      "filed": 1,
+      "not_filed": 2
+    }
+  },
+  "code_mentions_by_scheme": {
+    "ARG": {
+      "filed_mentions": 0,
+      "not_filed_mentions": 1,
+      "total": 1,
+      "share_filed": 0.0
+    },
+    "CASE": {
+      "filed_mentions": 125,
+      "not_filed_mentions": 107,
+      "total": 232,
+      "share_filed": 0.5388
+    },
+    "CLAIM": {
+      "filed_mentions": 391,
+      "not_filed_mentions": 594,
+      "total": 985,
+      "share_filed": 0.397
+    },
+    "LIT": {
+      "filed_mentions": 60,
+      "not_filed_mentions": 104,
+      "total": 164,
+      "share_filed": 0.3659
+    },
+    "NOTE": {
+      "filed_mentions": 12,
+      "not_filed_mentions": 37,
+      "total": 49,
+      "share_filed": 0.2449
+    },
+    "QUESTION": {
+      "filed_mentions": 153,
+      "not_filed_mentions": 148,
+      "total": 301,
+      "share_filed": 0.5083
+    },
+    "TERM": {
+      "filed_mentions": 67,
+      "not_filed_mentions": 95,
+      "total": 162,
+      "share_filed": 0.4136
+    },
+    "THEORY": {
+      "filed_mentions": 54,
+      "not_filed_mentions": 192,
+      "total": 246,
+      "share_filed": 0.2195
+    }
+  },
+  "moves": [
+    {
+      "file": "2026/10/09/015824.md",
+      "label": "Recovered, Proposed, outside the work",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/11/021238.md",
+      "label": "The thing",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/11/021238.md",
+      "label": "Routes",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/11/021238.md",
+      "label": "Failures",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/11/021238.md",
+      "label": "Dimensions",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/11/090000.md",
+      "label": "Then",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/13/011404.md",
+      "label": "Tagged",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/13/011404.md",
+      "label": "Split",
+      "disposition": "corrected",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/13/011404.md",
+      "label": "Left",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/13/221342.md",
+      "label": "Checked and not filed",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "The homonym",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Still wrong after the correction",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011021.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Registered",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Wrong",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011051.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Registered unread",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Also missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Filed from it",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Also missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Registered unread",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Registered unread",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011417.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011442.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/18/011442.md",
+      "label": "Granted",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011442.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/18/011442.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011442.md",
+      "label": "Granted",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011442.md",
+      "label": "Granted",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/18/011442.md",
+      "label": "Partly right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/19/225339.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025601.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "New CLAIM",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/025602.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/21/025604.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/21/180836.md",
+      "label": "Checked",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/180836.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/180836.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/21/180836.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/193243.md",
+      "label": "Done",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "On file",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "On file",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "On file",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/21/212723.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Missed, before it looked",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/011806.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Checked",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/22/103820.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Wrong",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Wrong",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/103821.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/163352.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/163352.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/163352.md",
+      "label": "Wrong",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/22/163352.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/163352.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/163352.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/22/163352.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/22/163352.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Checked",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/23/031224.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Filed differently",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/23/031225.md",
+      "label": "Not filed, and why",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "On file",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/24/031442.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Wrong",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/25/043048.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Checked",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Wrong",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Codes",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Wrong",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/26/195131.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/010126.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/080654.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/27/091400.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Checked",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Right",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/27/171939.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/193829.md",
+      "label": "Left for the next pass, in worklist order",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/203719.md",
+      "label": "Reversed",
+      "disposition": "corrected",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/203719.md",
+      "label": "Made conditional",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/27/203719.md",
+      "label": "Left for the owner",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/27/203719.md",
+      "label": "Owner rulings this pass leaves",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/28/002548.md",
+      "label": "Scored every round",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/10/30/003457.md",
+      "label": "Claims",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/003457.md",
+      "label": "Readings",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/30/003457.md",
+      "label": "Terms",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/30/012223.md",
+      "label": "Reworded",
+      "disposition": "corrected",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/30/021743.md",
+      "label": "Nine claims",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/021743.md",
+      "label": "One reading",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/30/021743.md",
+      "label": "Narrowed and kept Proposed",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/031426.md",
+      "label": "A",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/031426.md",
+      "label": "B",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/031426.md",
+      "label": "C",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/031426.md",
+      "label": "D",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/031426.md",
+      "label": "E",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/031426.md",
+      "label": "Interpretive promotions",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/031426.md",
+      "label": "Defeat conditions to restate",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/040334.md",
+      "label": "The self",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/040334.md",
+      "label": "Collectives",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/040334.md",
+      "label": "Perspectives",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/040334.md",
+      "label": "Measures",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/040334.md",
+      "label": "The note",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/30/040334.md",
+      "label": "Interpretive promotions",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/044233.md",
+      "label": "Interpretive promotions",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/080046.md",
+      "label": "Interpretive promotions",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/30/080046.md",
+      "label": "The Unfetched works",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/30/082954.md",
+      "label": "Kept Proposed",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/30/171426.md",
+      "label": "Interpretive promotions",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Corrected",
+      "disposition": "corrected",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Corrected",
+      "disposition": "corrected",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "work"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "case"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Corrected",
+      "disposition": "corrected",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Not filed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/10/31/084832.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "question"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "unattributed",
+      "kind": "work"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "work"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Corrected",
+      "disposition": "corrected",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "work"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Struck",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "term"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/03/204017.md",
+      "label": "Held, not filed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "case"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Misreading",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "question"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Missed",
+      "disposition": "not_filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "question"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Misreading",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "reader",
+      "contributor_span_only": "reader",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Misreading",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "term"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "term"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Misreading",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Misreading",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Misreading",
+      "disposition": "other",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held, in pieces",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "term"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "owner",
+      "contributor_span_only": "owner",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Owner",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "assistant",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Already held",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Filed",
+      "disposition": "filed",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "note"
+    },
+    {
+      "file": "2026/11/04/064305.md",
+      "label": "Misreadings",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "term"
+    },
+    {
+      "file": "2026/11/06/080022.md",
+      "label": "Promoted",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/06/080022.md",
+      "label": "Read",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/06/080022.md",
+      "label": "New entries",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "unclassified"
+    },
+    {
+      "file": "2026/11/06/080022.md",
+      "label": "Kept",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/11/07/015132.md",
+      "label": "Held under other names, uncited",
+      "disposition": "other",
+      "contributor": "assistant",
+      "contributor_span_only": "assistant",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/07/015132.md",
+      "label": "Misread terms of art",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/18/083954.md",
+      "label": "Cluster A",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "case"
+    },
+    {
+      "file": "2026/11/18/083954.md",
+      "label": "Cluster B",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/18/083954.md",
+      "label": "Cluster C",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/18/083954.md",
+      "label": "Cluster D",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "claim"
+    },
+    {
+      "file": "2026/11/18/083954.md",
+      "label": "Cluster E",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "theory"
+    },
+    {
+      "file": "2026/11/18/083954.md",
+      "label": "Cluster F",
+      "disposition": "other",
+      "contributor": "unattributed",
+      "contributor_span_only": "unattributed",
+      "kind": "arg"
+    },
+    {
+      "file": "2026/11/18/083954.md",
+      "label": "Interpretive promotions",
+      "disposition": "other",
+      "contributor": "both",
+      "contributor_span_only": "both",
+      "kind": "claim"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "n_instances": 2000,
+ "n_pairs": 7981,
+ "all_positive": true,
+ "all_above_bound": true,
+ "all_above_spectral": true,
+ "n_secondary": 1666,
+ "max_abs_gap_without_secondary": 2.4251434194155763e-15,
+ "min_ratio_with_secondary": 1.0000099281400425,
+ "median_ratio_with_secondary": 1.2419505994119728,
+ "median_bound_over_spectral": 3.241955476716796,
+ "sims": {
+  "n": 30,
+  "max_abs_lam_error": 0.0005157319820621176,
+  "min_recovered_fraction": 0.9480303493200216,
+  "max_dist_to_nstar": 0.20851583264055096
+ }
+}

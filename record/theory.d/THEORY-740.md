@@ -39,8 +39,10 @@ summary: >-
   does not say that random starts follow the solution, which is
   [THEORY-186](THEORY-186.md)'s.
 ---
+<!-- inactive-ok-file: THEORY-tmpu0f9k THEORY-tmpm3ux2 — Proposed; the readings of Yang and of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-774 — Proposed; filed in the contribution of 2026-11-20 on μP, depth scaling and modular duality -->
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account this core was split from and that extends it, and the depth account set beside it, cited as open -->
+<!-- inactive-ok-file: THEORY-tmpg4aat — Proposed or Rejected; filed 2026-11-21 from the readings of Gutenkunst et al., Transtrum & Qiu, Amari, Park & Ozeki and Wei et al. -->
 
 # THEORY-740: A two-layer linear network trained by gradient flow on white inputs from a decoupled, balanced start learns each singular mode of its input–output correlation in a logistic rise that waits a time of order its inverse strength times the log of the inverse initial scale, so the modes arrive one at a time in order of strength; a single-layer network on the same data learns every mode on one timescale with no plateau, so under these conditions the stages come from the product of layers and the data's spectrum
 
@@ -100,3 +102,28 @@ when each layer's update is the polar factor of its gradient: from the same
 decoupled, balanced start, a mode reaches half its strength at √(s/2)/lr, so
 the order of arrival reverses. Checked by simulation from a random small
 start. A bearing of use; this reading's derivation is not affected.
+
+## Note of 2026-11-21: Amari, Park & Ozeki (2006) and Wei et al. (2008), read
+
+A parallel and a contrast. The plateaus here wait at the origin of a
+product parameterization, a singular point of the kind Amari, Park and
+Ozeki treat (w = 0, v = 0; [NOTE-tmptlwkf](../notes.d/NOTE-tmptlwkf.md)), and end in an escape whose time
+is of order the log of the inverse initial scale. Wei and colleagues'
+long plateau is of another kind: a noise-driven random walk along a line
+of equivalent models, an attracting set with a basin of positive measure,
+left only by fluctuation ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md), [THEORY-tmpg4aat](THEORY-tmpg4aat.md)). Different
+models; no relation is written.
+
+## Note of 2026-11-22: Yang, and Lee, Smith, Adam and Hoogland, read
+
+- **Lee et al. ([THEORY-tmpm3ux2](THEORY-tmpm3ux2.md)): uses it.** Their analytic influence in
+  a deep linear network runs through this reading's closed-form mode
+  strength (their Eq. 30). The filer's check of its derivative in the
+  signal: at s = 1, τ = 1, g₀ = 10⁻³, ∂g_t/∂s rises from 0 to a peak of
+  2.13 at t ≈ 3.77, just after half strength, and settles to 1, because a
+  larger s both raises the endpoint and brings the rise earlier. Their
+  influence peaks follow the hierarchy, which in this model is the order
+  of strengths this reading gives.
+- **Yang ([THEORY-tmpu0f9k](THEORY-tmpu0f9k.md)): background.** Cites the saddle-to-saddle
+  plateaus as "reminiscent" of its post-crossing metastability, with no
+  derivation joining them.

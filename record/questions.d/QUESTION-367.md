@@ -26,6 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-1300 THEORY-1296 THEORY-1298 — Proposed; the readings this question is filed from, cited as open -->
 <!-- inactive-ok-file: CLAIM-355 — Proposed or Open; the claim whose split between organization and representation this question bears on, and its neighbours -->
+<!-- inactive-ok-file: THEORY-tmprbqew — new in this filing and Proposed or Rejected; the reading of LEAD-141, cited as open -->
 
 # QUESTION-367: Is an agent's representation of its own capacity to control a process a condition of that capacity's efficacy, and so one of the relations a will-organization maintains, or only its accompaniment, and what intervention would tell the two apart?
 
@@ -103,3 +104,17 @@ separately must be the ability, for instance by externally cued stopping.
   Metzinger says the adult's sense of origination is installed by
   caregivers before autobiographical memory ([LIT-1945](../literature.d/LIT-1945.md), pp. 20–21), which
   bears on [QUESTION-364](QUESTION-364.md).
+
+## Note of 2026-11-22: a dissociation at the level of the measure
+
+[LEAD-141](../leads.d/LEAD-141.md) searched for interventions on the agent's representation of its
+own control and found none that tests H1 or H3. The nearest result is
+Axelrod, Zhu and Qiu (2018), [LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md), read in [NOTE-tmp36b7e](../notes.d/NOTE-tmp36b7e.md): frontal
+stimulation raised reported mind-wandering while rated meta-awareness of
+where attention was focused did not change ([THEORY-tmprbqew](../theory.d/THEORY-tmprbqew.md)). It is weak
+evidence on this question, written as `bears_on` from that reading: the
+rate at which control lapses moved while the agent's self-rating did not,
+which fits accompaniment better than condition for that rating. It cannot
+answer the question, because the rating is of attention's location, not of
+the capacity to control, and it was measured, not manipulated. The
+intervention the question asks for is still unreported.

@@ -70,3 +70,18 @@ summary: >-
 ## Sources
 
 The three senses are the assistant's sorting of the exchange's uses (A7, A13 §9, A17 §5, A21, A31, A32, A42) against the record's held entries. They are integrated in two accounts: [SYNTHESIS-119](../syntheses.d/SYNTHESIS-119.md) for sense 1 in this exchange, and [SYNTHESIS-120](../syntheses.d/SYNTHESIS-120.md) for senses 2 and 3.
+
+## Note of 2026-11-21: Acharya, Rimal & Dhakal, read
+
+A sense the term does not list ([NOTE-tmpwvltp](../notes.d/NOTE-tmpwvltp.md)). The paper uses Park, Choe
+and Veitch's "causally separable" concepts (p. 1; [LIT-304](../literature.d/LIT-304.md)): concepts that
+"can be varied freely and in isolation", the joint counterfactual
+Y(W = w, Z = z) being well-defined for every pair of values; Park et al.'s
+Assumption 3.3 ties it to independence of λ̄_Wᵀγ and λ̄_Zᵀγ for an
+unembedding vector γ drawn uniformly from the vocabulary. That is closest
+to the separability of a joint law, which "What it is not" sets aside as a sense
+of its own. The paper's probes (accuracy above 0.99, §6) are sense 2 with
+a linear readout; its head-against-tail POS probes are sense 2 restricted
+to a subspace. Nothing in it is sense 3. Its "anti-concentration" is not a
+separation in any sense: it places a direction relative to a spectrum. No
+relation written.

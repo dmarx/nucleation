@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - TERM-tmpyi882
 title: 'scale-free, said of an observable: a heavy-tailed marginal, a scale-covariant law of correlation or dynamics, or a power-law spectrum'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Edited in place on 2026-11-22: sense 1 now says that Broido and
+    Clauset (THEORY-tmphcnj3) test a narrower sense, an exact power law
+    above k_min, and that the dispute over their verdict turns on it;
+    the rank-spectrum bullet names Stringer and others' V1 code
+    (LIT-2972) as an instance. The definition is unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -14,6 +23,8 @@ line:
 - formal-apparatus
 complements:
 - TERM-139
+draws_on:
+- THEORY-tmphcnj3
 summary: >-
   Three things the exchange "Rich Get Richer Power Laws" calls scale-free,
   kept apart: a one-point distribution whose tail is a power law, a law of
@@ -28,6 +39,9 @@ summary: >-
   assistant's. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the reading whose narrower usage this term is set against -->
+<!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; the reply to Broido and Clauset, registered and unread -->
 <!-- inactive-ok-file: CLAIM-846 CLAIM-841 CLAIM-850 CLAIM-810 — filed with this term on 2026-11-21, Proposed -->
 <!-- inactive-ok-file: THEORY-803 — Proposed; the record's one reading of statistical self-similarity, named as an instance -->
 
@@ -44,7 +58,10 @@ is meant must be said, because they come apart.
    P(X > x) = x^(−α) L(x) with L slowly varying, so that
    P(X > bx | X > x) → b^(−α) whatever x is (A8 §4, A10 §7). This is the
    sense the exchange opened with (A1), and the sense of "scale-free
-   network". It says how often large values occur and nothing about how
+   network" in its broad form. Broido and Clauset test a narrower one, an
+   exact power law above k_min with no L(x) ([THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)), and the
+   dispute over their verdict turns on the difference (see the note of
+   2026-11-22). It says how often large values occur and nothing about how
    values at different places, times or scales are related.
 2. **Scale-covariant law** (self-similarity proper). A law relating
    values across positions, times or resolutions is unchanged by x → bx up
@@ -97,7 +114,11 @@ is meant must be said, because they come apart.
   matrix ordered by rank, λ_j ∝ j^(−α), are a power-law spectrum in sense 3
   only when the eigenbasis is the Fourier basis, that is, for a stationary
   field. Otherwise a power-law rank spectrum is not a statement about
-  scales in space or time.
+  scales in space or time. Stringer and others' V1 population code
+  ([LIT-2972](../literature.d/LIT-2972.md)), whose stimulus-related variance falls as about 1/n with
+  the rank of its principal component, is an instance: the exchange and
+  its authors call it a power-law spectrum, and it is one in this rank
+  sense (added 2026-11-22).
 
 ## What it is not
 
@@ -117,3 +138,34 @@ is meant must be said, because they come apart.
   applied to a network's degree law and clustering; "scale-free
   hierarchical multi-index target" in [QUESTION-158](../questions.d/QUESTION-158.md) names weights a_k across
   a target's directions, a rank-spectrum usage.
+
+## Change of 2026-11-22
+
+Sense 1 names Broido and Clauset's narrower usage; the rank-spectrum
+bullet names [LIT-2972](../literature.d/LIT-2972.md) as an instance. Version 2.
+
+## Note of 2026-11-22: Broido and Clauset, read
+
+**A contrast** ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is
+[THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)). The paper's "scale-free network" is a degree
+distribution that is exactly Pr(k) ∝ k^(−α) above k_min, with the body
+discarded and no slowly varying correction. That is narrower than sense
+1. Voitalov, van der Hoorn, van der Hofstad and Krioukov ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md),
+registered, unread) contest the verdict from sense 1 itself: by their
+abstract, they define a power-law distribution as a regularly varying
+one, which "allows the distribution to deviate from a pure power law
+arbitrarily but without affecting the power-law tail exponent", and find
+real scale-free networks "definitely not as rare". So the term should be
+read with its L(x): a claim that networks are, or are not, scale free in
+sense 1 is not settled by a test of an exact power law. [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)
+is in `draws_on` as the usage this sense is set against.
+
+## Note of 2026-11-22: Bak, Tang and Wiesenfeld, read
+
+**An instance of two senses at once.** Bak, Tang and Wiesenfeld
+([LIT-2992](../literature.d/LIT-2992.md), [NOTE-tmpnl00y](../notes.d/NOTE-tmpnl00y.md), [THEORY-tmpehudh](../theory.d/THEORY-tmpehudh.md)) report the sandpile as
+scale-free in sense 1, a cluster-size distribution D(s) ~ s^(−τ), and in
+sense 3, a spectrum S(ω) ≈ ω^(−1.58) in 2D (pp. 383–384), and derive the
+second from the first through the lifetime distribution, Eq. (2). So a
+model can be scale-free in two senses linked by a stated relation; the
+term's senses are distinct, not exclusive. An illustration, no edge.

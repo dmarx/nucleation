@@ -43,6 +43,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-262 — Proposed reading, the neural-complexity measure -->
 <!-- inactive-ok-file: CLAIM-836 — filed with this claim from the same exchange, Proposed -->
 <!-- inactive-ok-file: ARG-152 THEORY-2151 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+<!-- inactive-ok-file: THEORY-tmpl7rgc — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
 # CLAIM-805: Entropy, correlation and scaling are distinct properties of a system, and a critical point is not the maximum of complexity: what is special there is the absence of a finite correlation scale, while entropy density, predictive information, the number of relevant directions and the cost of simulation need not peak there
 
@@ -145,3 +146,19 @@ claim as titled, and moves to corroborating it ([ARG-152](../arguments.d/ARG-152
 - The claim's thesis is about "every sensible complexity measure"; one
   measure asserted to diverge at criticality does not defeat it, by its
   own defeated_if.
+
+## Note of 2026-11-22: Crutchfield and Feldman, read
+
+**Supports the separation of entropy from memory, and is silent on
+criticality** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md); [THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md) now
+`corroborates` this claim). The golden mean, RRXOR and even processes
+share an entropy rate of 2/3 bit and have excess entropies of about
+0.2516, 2 and 0.902 bits; complexity measures "based on multiplying G by
+hµ" fail "to capture structure or memory, since they are only a function
+of disorder hµ" (§IV), which is the claim's point that entropy density
+and predictive information are distinct properties. The paper says
+nothing about where either peaks relative to a critical point. It cites
+Feldman and Crutchfield's "Discovering noncritical organization" (1998)
+for the critique, the authors' own work on this claim's subject; no
+identifier could be verified for it, so it is not registered. Status
+unchanged.

@@ -34,6 +34,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-825 CLAIM-836 — filed with this lead from the same exchange, Open or Proposed -->
 <!-- inactive-ok-file: THEORY-777 — Proposed reading, the scheme this lead reuses -->
 <!-- inactive-ok-file: TERM-141 — filed with this lead from the same exchange, Proposed -->
+<!-- inactive-ok-file: THEORY-tmpl7rgc — Proposed; the reading of Crutchfield and Feldman, 2026-11-22 -->
 
 # LEAD-208: Compute the effective dimensions of the two-dimensional Ising model at and away from its critical point on one set of finite lattices, the stiff Fisher count at several sample sizes, the growth of predictive information, the relevant directions and the cluster dimension, to see which agree
 
@@ -83,3 +84,18 @@ this lead's strip computation could test: whether the predictive
 information of a strip of width W at T_c grows with W, and at what rate.
 Their quantity has an infinite future; the lead's, if it uses T′ = T, is a
 constant factor smaller for power-law growth ([TERM-141](../terms.d/TERM-141.md)).
+
+## Note of 2026-11-22: Crutchfield and Feldman, read
+
+**Qualifies step 3** ([LIT-3010](../literature.d/LIT-3010.md), read in [NOTE-tmpe86ty](../notes.d/NOTE-tmpe86ty.md); [THEORY-tmpl7rgc](../theory.d/THEORY-tmpl7rgc.md)).
+Crutchfield and Feldman warn that "unlike in one dimension where the
+various expressions for the excess entropy are equivalent, they yield
+different results when extended to two dimensions" (§VIII). The growth
+of predictive information on a two-dimensional lattice is therefore not
+one quantity: the strip computation must name its definition (mutual
+information between adjacent column blocks, as written, is one) and
+should say how it relates to the others before its growth is compared
+with the cluster dimension or the Fisher count. Their finite-L warning
+(Props. 13–15) also applies: a strip of finite length converts unseen
+memory into apparent randomness. The lead's plan stands with that
+choice made explicit.

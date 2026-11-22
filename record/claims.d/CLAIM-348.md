@@ -81,6 +81,7 @@ summary: >-
 complements:
 - CLAIM-518
 ---
+<!-- inactive-ok-file: THEORY-tmpnit00 — Proposed; the reading of Monnier et al., 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1893 — Skimmed; filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1813 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
@@ -91,6 +92,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-614 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: LIT-1328 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
 # CLAIM-348: No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution's performance can merge states its members' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified solely by the description that preserves it
 
@@ -284,3 +286,24 @@ optimized may fail to preserve distinctions necessary for evaluating the
 lives of those affected." That is this claim restated for an institution's
 targets. A's account of [CASE-110](../cases.d/CASE-110.md) is accurate: policies (6, 6) and (10, 2),
 one total, a cap of eight hours that tells them apart. No change.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+**A parallel, descriptive not normative**, no edge ([LIT-2996](../literature.d/LIT-2996.md),
+[NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)). Shalizi and Moore hold that coexisting
+levels of description "are intended to answer different questions" and
+that no coarse-graining is preferred by nature (§VI): adequacy fixed by
+the target, for prediction. This claim's target is evaluative; the
+reading says nothing about that kind of target. Status unchanged.
+
+## Note of 2026-11-22: Monnier et al., read
+
+[THEORY-tmpnit00](../theory.d/THEORY-tmpnit00.md) (Monnier, George, Guyard, Tarnec and Kountouris,
+[LIT-2451](../literature.d/LIT-2451.md)) now `corroborates` this claim, independently: it is a
+measurement practice the claim does not cite. A single intersectional
+fairness score needs a meta-metric; all meta-metrics agree when the
+description shows no disparity and diverge otherwise, so that each of
+seven models on UCI Adult is fairest under some meta-metric. "none of the
+identified profiles is inherently more problematic than another" (§5.1):
+the data cannot choose, and the choice must be justified by the
+conception of fairness, the evaluative target. Status unchanged.

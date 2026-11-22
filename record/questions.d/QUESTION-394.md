@@ -63,3 +63,8 @@ policy's count of extrications.
 ## Note of 2026-11-05: a test for the pinning claim
 
 A's simulator is also the cheapest test of [CLAIM-577](../claims.d/CLAIM-577.md). Run it twice, once with each period's budget set to the last period's peak spending and once with carry-over, and measure whether the rare, deadline-bound transition, the heavy-rescue response of [CASE-213](../cases.d/CASE-213.md), stays reachable. The claim predicts it is lost under the first rule after a quiet period and survives under the second. Most of what the constraint-architecture filing added is mechanical analogy; this would be its first organizational test. No status changes.
+
+## Note of 2026-11-22: the cheapest test, run
+
+<!-- inactive-ok-block: CASE-tmpvnozj CLAIM-tmpocsw4 — new; LEAD-080's study and its corollary -->
+The test the note of 2026-11-05 describes was run under [LEAD-080](../leads.d/LEAD-080.md) ([CASE-tmpvnozj](../cases.d/CASE-tmpvnozj.md)), with the simulator built as this question gives it: one or two squads, two incident types, Poisson arrivals, a first-unit assessment of configurable accuracy, travel delays, mutual aid and decaying skill. The prediction holds. It does not answer this question: only provisional dispatch and dispatch on confirmation were run, at one setting of congestion, accuracy and coverage cost. What it adds for the question is that, under a budget set to the last period's peak, the policies also differ in how long they keep the squad funded at all ([CLAIM-tmpocsw4](../claims.d/CLAIM-tmpocsw4.md)), a cost no fixed-cost threshold sees. The simulator is in scratch/studies/lead-080/ and takes the remaining sweeps as parameters. No status changes.

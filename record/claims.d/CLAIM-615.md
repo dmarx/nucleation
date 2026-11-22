@@ -134,6 +134,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-290 — Answered, by CLAIM-328; cited for that answer -->
 <!-- inactive-ok-file: CLAIM-620 — filed from the same exchange, Proposed; the later theses that rest on this one -->
 <!-- inactive-ok-file: CLAIM-576 CLAIM-136 — Proposed; components, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-tmp5koor CLAIM-tmp68okc ARG-tmplptzc — new; the two readings that fill the admission slot, and the argument they share (LEAD-163) -->
 
 # CLAIM-615: An organized individual's identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it
 
@@ -262,3 +263,40 @@ Under [ADR-075](../decisions.d/ADR-075.md)'s admission test, the integration mus
 ## Note of 2026-11-20: what holds it back
 
 [CLAIM-329](CLAIM-329.md) went Active at the status review of this date, so [CLAIM-611](CLAIM-611.md), on what persists through changes of state and mode, is the one premise not held.
+
+## Note of 2026-11-22: the admission slot, filled two ways
+
+For [LEAD-163](../leads.d/LEAD-163.md). The synthesis review of 2026-11-11 found the admission case
+above realistic, a car that changes garages, and so a defeater by this
+claim's own `defeated_if`. The case moves from "nothing of the first
+workshop's maintaining organization transmitted" to "nothing of that
+organization was transmitted". The slot is which organization "that
+organization" names.
+
+Both readings filed close it by one shared step, [ARG-tmplptzc](../arguments.d/ARG-tmplptzc.md): a new
+maintainer that restores the thing from what it finds in it transmits the
+thing's organization through the thing, as [CLAIM-329](CLAIM-329.md)'s newcomers take a
+collective's organization from the collective. So the car continues, and
+the case is not a defeater. They part on organization held only by a
+maintainer:
+
+- **Reading (a), [CLAIM-tmp5koor](CLAIM-tmp5koor.md):** a maintainer is a channel, never what
+  is transmitted. Layer 4 is read by its words, "the transmitting
+  organization". It reads [CLAIM-611](CLAIM-611.md)'s "inside the individual or outside
+  it" as about the processes, which is a cost.
+- **Reading (b), [CLAIM-tmp68okc](CLAIM-tmp68okc.md):** an outside maintainer's organization is
+  transmitted insofar as the individual does not carry it and a competent
+  unrelated replacement would not supply it. It keeps [CLAIM-611](CLAIM-611.md)'s words,
+  and lets [CASE-223](../cases.d/CASE-223.md) find a parting where participants say "it's not the
+  same thing". The assistant leans to (b).
+
+On either reading the admission section above needs a different failure
+case, since the garage is no longer one: a replica built from the type by
+a maker with no tie to the token, counted the same car by a stipulated
+continuation morphism (a registration transferred to it). The record's
+criteria do not count such a replica the same, so the case is stipulated,
+as [ADR-075](../decisions.d/ADR-075.md) asks, and not realistic. Under reading (a) the residual risk is
+a car taken apart and put back from its own interchangeable parts by the
+manual, with no rival successor, and counted the same. The claim's text
+and status are unchanged; which reading, and whether the admission
+section takes the replica, are the owner's.

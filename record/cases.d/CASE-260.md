@@ -30,6 +30,7 @@ summary: >-
   Life is the owner's; the construction and its wording are the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmpszhd7 CLAIM-tmpb80wu — new; LEAD-069's study and claims of 2026-11-22 -->
 
 <!-- inactive-ok-file: CLAIM-157 — Proposed; named as the record's individuation claim the case does not apply -->
 
@@ -146,3 +147,19 @@ at t = 300.
 - **Why "documented".** This standing is used because every fact here is
   a computation any reader can repeat. The system is a formal rule, not
   an event in the world.
+
+## Note of 2026-11-22: the two blocks of run 1 share their cells
+
+Rerun cell by cell in [CASE-tmpfktyl](CASE-tmpfktyl.md) (result 4). The block of t = 20 and
+the block that lasts from t = 26 occupy the same four cells, (6,1), (6,2),
+(7,1) and (7,2). Two of them, (6,1) and (6,2), are live at every
+generation from t = 19 to 29. The block cells live by generation are 3, 4,
+4, 2, 2, 3, 3, then 4 from t = 26. As exact blocks with dead borders, the
+run has two instances, as this case says. By continuity of the cells that
+carry it, it has one block, damaged at t = 22 and restored, which is the
+gun's mechanism on a small scale. [CASE-tmpfktyl](CASE-tmpfktyl.md)'s soup transient (seed 1,
+an isolated block at t = 28 with no cell live at t = 30) is created and
+not stabilized on either count. The same study gives the record's
+individuation verdicts on the block. They are criterion-relative, and the
+two readings are [CLAIM-tmpszhd7](../claims.d/CLAIM-tmpszhd7.md) and [CLAIM-tmpb80wu](../claims.d/CLAIM-tmpb80wu.md). No change of status
+or title.

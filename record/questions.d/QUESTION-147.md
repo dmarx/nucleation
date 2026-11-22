@@ -70,3 +70,18 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 <!-- inactive-ok-file: THEORY-2044 — Proposed; cited from the readings of 2026-11-19 -->
 
 Wang and Slotine ([THEORY-2044](../theory.d/THEORY-2044.md), bears_on; [NOTE-2096](../notes.d/NOTE-2096.md)): sufficient global conditions for full and symmetric-subgroup synchrony in networks of identical units with diffusive coupling (Theorem 6). They do not test predictions from symmetry orbits, so the question stays open.
+
+## Note of 2026-11-22: Ocampo-Espindola, Singhal, Li and Kiss, read
+<!-- inactive-ok-file: THEORY-tmpsyokc — Proposed; filed by LEAD-023 -->
+
+A caution for the comparison this question asks for ([THEORY-tmpsyokc](../theory.d/THEORY-tmpsyokc.md), bears_on; [NOTE-tmp5rss0](../notes.d/NOTE-tmp5rss0.md)). Clusters can be set by a common drive and the units' different phase responses, with no graph at all. A second system in which observed clusters differ from the computed orbits would therefore have to rule out a shared input before counting against the prediction. The question stays open.
+
+## Note of 2026-11-22: Stewart, read
+<!-- inactive-ok-file: THEORY-tmp3va8j — Proposed; filed by LEAD-023 -->
+
+Stewart ([THEORY-tmp3va8j](../theory.d/THEORY-tmp3va8j.md), bears_on; [NOTE-tmp14xdi](../notes.d/NOTE-tmp14xdi.md); [LIT-2249](../literature.d/LIT-2249.md)), the work A cited at A20 §2. The balanced partitions of a network form a complete lattice under refinement, with a unique coarsest element computable in polynomial time. For this question that is the full set of cluster patterns computable in advance from structure, wider than the symmetry orbits. It supplies candidates only: the paper proves nothing on stability, so the question's second part, whether each cluster desynchronizes where its own block predicts, is untouched. The question stays open.
+
+## Note of 2026-11-22: Dörfler and Bullo, skimmed
+<!-- inactive-ok-file: THEORY-tmp94s79 NOTE-tmpk7qnh — Proposed and Skimmed; filed by LEAD-023 -->
+
+Dörfler and Bullo ([THEORY-tmp94s79](../theory.d/THEORY-tmp94s79.md), bears_on; [NOTE-tmpk7qnh](../notes.d/NOTE-tmpk7qnh.md), skimmed). On circulant graphs, symmetric cluster patterns of identical oscillators are locally stable under suitable coupling (Theorem 5.4), a symmetry-based case of the stability prediction this question asks to test in a second system; the survey adds that "the dynamics (35) may feature also other stable equilibria", so a predicted cluster may be one of several attractors. It reports no experiment. The question stays open.

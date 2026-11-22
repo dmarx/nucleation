@@ -1,0 +1,42 @@
+{
+ "E1_xor": {
+  "V_R1(U)": 0.5,
+  "V_R1(UG)": 0.0,
+  "V_all(U)": 0.0,
+  "V_all(UG)": 0.0,
+  "G_xor in Mon(R1)": false
+ },
+ "E2_reversal": {
+  "P >=_R1 U": true,
+  "U >=_R1 P": false,
+  "U >=_all P": true,
+  "P >=_all U": false,
+  "V_R1(P)": 0.1,
+  "V_R1(U)": 0.5,
+  "V_all(P)": 0.1,
+  "V_all(U)": 0.0
+ },
+ "T1_ach_criterion_prior_free": {
+  "trials": 300,
+  "inclusions": 150,
+  "agreeing": 300,
+  "violations_when_included": 0
+ },
+ "T2_monoid_theorem": {
+  "trials": 300,
+  "respects": 154,
+  "hull_eq_factor": 300,
+  "mono_violations": 0,
+  "identity_witness_ok": 146,
+  "non_respecting": 146
+ },
+ "T3_ceiling": {
+  "trials": 500,
+  "violations": 0
+ },
+ "T4_factoring_inherits_converse": {
+  "trials": 200,
+  "agree": 200,
+  "dominated": 117
+ }
+}

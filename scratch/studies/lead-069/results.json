@@ -1,0 +1,422 @@
+{
+ "block": {
+  "fixed_point_1000": true,
+  "single_flip_profile_by_distance": {
+   "3": {
+    "returns": 28
+   },
+   "2": {
+    "returns": 4,
+    "empty": 8,
+    "form-lost": 8
+   },
+   "1": {
+    "form-lost": 4,
+    "empty": 8
+   },
+   "0": {
+    "returns": 4
+   }
+  },
+  "pair_deletions": {
+   "empty": 6
+  },
+  "gap_profile": {
+   "1": {
+    "inside": 0.0,
+    "border_to_form": 0.4166666666666667,
+    "form_to_border": 0.0
+   },
+   "2": {
+    "inside": 0.0,
+    "border_to_form": 0.5833333333333334,
+    "form_to_border": 0.0
+   },
+   "5": {
+    "inside": 0.0,
+    "border_to_form": 0.75,
+    "form_to_border": 0.0
+   },
+   "10": {
+    "inside": 0.0,
+    "border_to_form": 0.75,
+    "form_to_border": 0.0
+   }
+  }
+ },
+ "eater": {
+  "fixed_point_1000": true,
+  "single_flip_profile_by_distance": {
+   "3": {
+    "returns": 36
+   },
+   "2": {
+    "returns": 11,
+    "form-lost": 12,
+    "empty": 5
+   },
+   "1": {
+    "empty": 7,
+    "form-lost": 14
+   },
+   "0": {
+    "empty": 1,
+    "form-lost": 6
+   }
+  },
+  "pair_deletions": {
+   "empty": 9,
+   "form-lost": 12
+  },
+  "gap_profile": {
+   "1": {
+    "inside": 0.23809523809523808,
+    "border_to_form": 0.06802721088435375,
+    "form_to_border": 0.05442176870748299
+   },
+   "2": {
+    "inside": 0.35714285714285715,
+    "border_to_form": 0.3197278911564626,
+    "form_to_border": 0.10204081632653061
+   },
+   "5": {
+    "inside": 0.5238095238095238,
+    "border_to_form": 0.5510204081632653,
+    "form_to_border": 0.17687074829931973
+   },
+   "10": {
+    "inside": 0.7142857142857143,
+    "border_to_form": 0.7482993197278912,
+    "form_to_border": 0.19727891156462585
+   }
+  },
+  "strike_lanes": {
+   "-3": "eater-kept, 5 other cells",
+   "-2": "eater-lost, 109 other cells",
+   "-1": "empty",
+   "0": "eater-exact",
+   "1": "empty",
+   "2": "eater-lost, 123 other cells",
+   "3": "empty"
+  },
+  "strike_phases_exact": [
+   true,
+   true,
+   true,
+   true
+  ],
+  "strike_timeline": [
+   {
+    "t": 33,
+    "form_cells_live": 7,
+    "other_live": 5
+   },
+   {
+    "t": 34,
+    "form_cells_live": 7,
+    "other_live": 5
+   },
+   {
+    "t": 35,
+    "form_cells_live": 7,
+    "other_live": 7
+   },
+   {
+    "t": 36,
+    "form_cells_live": 6,
+    "other_live": 4
+   },
+   {
+    "t": 37,
+    "form_cells_live": 7,
+    "other_live": 1
+   },
+   {
+    "t": 38,
+    "form_cells_live": 7,
+    "other_live": 0
+   },
+   {
+    "t": 39,
+    "form_cells_live": 7,
+    "other_live": 0
+   }
+  ]
+ },
+ "creation_run": {
+  "rows": [
+   {
+    "t": 18,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      7,
+      2
+     ]
+    ],
+    "border_live": 2,
+    "total_live": 26
+   },
+   {
+    "t": 19,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      1
+     ]
+    ],
+    "border_live": 0,
+    "total_live": 21
+   },
+   {
+    "t": 20,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      7,
+      2
+     ]
+    ],
+    "border_live": 0,
+    "total_live": 24
+   },
+   {
+    "t": 21,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      7,
+      2
+     ]
+    ],
+    "border_live": 2,
+    "total_live": 22
+   },
+   {
+    "t": 22,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ]
+    ],
+    "border_live": 4,
+    "total_live": 26
+   },
+   {
+    "t": 23,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ]
+    ],
+    "border_live": 3,
+    "total_live": 18
+   },
+   {
+    "t": 24,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      1
+     ]
+    ],
+    "border_live": 1,
+    "total_live": 18
+   },
+   {
+    "t": 25,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      1
+     ]
+    ],
+    "border_live": 0,
+    "total_live": 11
+   },
+   {
+    "t": 26,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      7,
+      2
+     ]
+    ],
+    "border_live": 0,
+    "total_live": 7
+   },
+   {
+    "t": 27,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      7,
+      2
+     ]
+    ],
+    "border_live": 0,
+    "total_live": 4
+   },
+   {
+    "t": 28,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      7,
+      2
+     ]
+    ],
+    "border_live": 0,
+    "total_live": 4
+   },
+   {
+    "t": 29,
+    "block_cells_live": [
+     [
+      6,
+      1
+     ],
+     [
+      6,
+      2
+     ],
+     [
+      7,
+      1
+     ],
+     [
+      7,
+      2
+     ]
+    ],
+    "border_live": 0,
+    "total_live": 4
+   }
+  ],
+  "only_the_block_at_t300": true
+ },
+ "gun": {
+  "gliders_away_t100_200_300_400": [
+   2,
+   6,
+   9,
+   12
+  ],
+  "left_block": {
+   "min_block_cells_live": 2,
+   "max_border_cells_live": 3
+  },
+  "right_block": {
+   "min_block_cells_live": 2,
+   "max_border_cells_live": 3
+  },
+  "left_block_gap_over_period": {
+   "inside": 0.05555555555555555,
+   "border_to_form": 0.3833333333333332,
+   "form_to_border": 0.01736111111111111
+  },
+  "right_block_gap_over_period": {
+   "inside": 0.05555555555555556,
+   "border_to_form": 0.38333333333333325,
+   "form_to_border": 0.01736111111111111
+  },
+  "eater_min_live_cells_t300_600": 6
+ }
+}

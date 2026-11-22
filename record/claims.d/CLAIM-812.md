@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcg4uu
 title: 'Sloppiness and singular strata meet in two places and part in one: a sloppy eigenvalue near a stratum measures the squared distance to it, and at a finite sample size a direction too sloppy to resolve contributes to the learning coefficient no more than a flat one; they part in how the coefficient moves with sample size, rising about ½ for each direction resolved in a regular sloppy model toward d/2, and held below d/2 at every size in a singular one'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-21'
@@ -18,6 +18,13 @@ history:
     at "an inverse temperature of order n", and its localizer's precision γ
     is a second cut-off. The title and the thesis are unchanged. See the
     Note of 2026-11-21.
+- version: 3
+  date: '2026-11-21'
+  note: >-
+    After the reading of Hoogland et al. (LIT-2966, NOTE-tmp2pgi8): the
+    sentence calling the work unread updated, and a dated note added
+    applying the claim's formula to the paper's estimator settings. Title
+    and thesis unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -62,9 +69,13 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpm3ux2 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 
-<!-- inactive-ok-file: CLAIM-813 CASE-302 CLAIM-825 LIT-2966 — Proposed, new or Deferred; filed with this claim, or works registered from the exchange and not yet read -->
+<!-- inactive-ok-file: THEORY-tmpt1tw7 — new; the reading of 2026-11-21 -->
+<!-- inactive-ok-file: CLAIM-813 CASE-302 CLAIM-825 THEORY-tmpr9w2r — Proposed, new or Deferred; filed with this claim, or works registered from the exchange and not yet read -->
 <!-- inactive-ok-file: ARG-134 THEORY-2155 THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
+
+<!-- inactive-ok-file: THEORY-tmpx26x7 — Proposed or new; the reading of the 2023 review by Quinn and colleagues, 2026-11-22 -->
 
 # CLAIM-812: Sloppiness and singular strata meet in two places and part in one: a sloppy eigenvalue near a stratum measures the squared distance to it, and at a finite sample size a direction too sloppy to resolve contributes to the learning coefficient no more than a flat one; they part in how the coefficient moves with sample size, rising about ½ for each direction resolved in a regular sloppy model toward d/2, and held below d/2 at every size in a singular one
 
@@ -148,8 +159,8 @@ levels off below it.
   model is sloppy and never singular ([CLAIM-813](CLAIM-813.md)).
 - It does not apply as stated to deep networks, where n, d and the
   spectrum grow together ([QUESTION-510](../questions.d/QUESTION-510.md)). Hoogland et al.
-  ([LIT-2966](../literature.d/LIT-2966.md), unread) report learning-coefficient estimates changing
-  across stages. On this claim, a rise in an estimate over training could
+  ([LIT-2966](../literature.d/LIT-2966.md), read 2026-11-21: [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)) report
+  learning-coefficient estimates changing across stages. On this claim, a rise in an estimate over training could
   be a sloppy direction coming into resolution as much as a change of
   singular stratum. The estimate's dependence on its inverse temperature
   is what would separate the two.
@@ -187,3 +198,51 @@ calibration mostly underestimates, which would fit, but they attribute
 underestimation to an unsettled sampler ([ARG-134](../arguments.d/ARG-134.md), Rejected as
 evidence). The estimator's form supports the claim's reading by
 derivation, the filer's, not by the paper's data.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+Leaves the claim open, and sharpens the alternative it names
+([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md), [THEORY-tmpr9w2r](../theory.d/THEORY-tmpr9w2r.md)). The paper estimates at fixed settings
+per setting, departing from Lau et al.'s β*: "Instead of nβ = n/ log n, we
+perform LLC estimation at nβ = m/ log m, where m is the SGLD batch size"
+(A.5.1). The language model uses nβ = 21.7 and γ = 100; the regression
+model nβ = 66.7 and γ = 13.3 (Tables 1–2). By this claim's formula,
+Σ ½·te_i/(te_i + γ) with t = nβ, a direction counts fully only when
+e_i ≫ γ/(nβ): about 100/21.7 ≈ 4.6 in the language model and
+13.3/66.7 ≈ 0.20 in the regression model. The estimates (about 80 to 150,
+and up to about 165) are far below d/2 (about 1.68 million and 25.9
+thousand), as most directions unresolved at those settings would make
+them. So a rise in λ̂ over a stage could be directions stiffening past
+the cut-off as much as a change of stratum; the paper varies neither nβ
+nor γ across stages, so the stiffening alternative is not ruled out. Its
+Hessian comparison (B.5: the trace and top eigenvalue miss three of four
+boundaries) tells weakly against a pure-curvature reading, but those
+statistics are dominated by the largest eigenvalues, not by those near the
+cut-off. The paper's estimates are not at β*. No relation written: the
+paper does not test the claim.
+
+## Note of 2026-11-21: Transtrum and Qiu, read
+
+Supporting, for the fold-edge half ([NOTE-tmphbnqd](../notes.d/NOTE-tmphbnqd.md), [THEORY-tmpt1tw7](../theory.d/THEORY-tmpt1tw7.md)). The manifold boundary approximation follows a geodesic to a boundary of the model manifold where the smallest Fisher eigenvalue goes to zero, and the merging of two terms is among the boundaries it follows. In the sum of exponentials it is the only finite one, the edge where this claim's sloppy eigenvalue goes to zero with the squared distance to the stratum. The method says nothing about the finite-sample half. Filer A reported this bearing (readings batch 2). The note is the assistant's (Claude, in this session).
+
+## Note of 2026-11-22: Quinn, Abbott, Transtrum, Machta & Sethna (2023), read
+
+A parallel, in Bayesian-prior terms, to the finite-sample half
+([NOTE-tmp3keyy](../notes.d/NOTE-tmp3keyy.md), [THEORY-tmpx26x7](../theory.d/THEORY-tmpx26x7.md)). For the mutual-information-maximizing
+prior, "Along a short dimension (say ≲1 standard deviations) the atoms
+will lie only at the boundaries" (§5.1), and as noise falls dimensions
+"smoothly pass from" the unresolved category to the resolved one: a
+direction too sloppy for the data is treated as a choice among edge
+models, not as a resolved parameter. That is the claim's "counts like a
+flat one at finite n" seen through the prior, not through the learning
+coefficient, and the review does not mention singular learning theory.
+No relation is written.
+
+## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
+
+The cautions apply. Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md)) estimate their Bayesian
+influence with the same localized SGLD at fixed nβ and γ: in the toy,
+settings chosen to maximize agreement with leave-one-out (C.2); in the
+language models, nβ ∈ {256, 1024} and γ ∈ {500, 1000}, which "did not
+vary substantially" (D.1.2). A direction below this claim's curvature
+cut-off at those settings would be invisible to their covariance too.

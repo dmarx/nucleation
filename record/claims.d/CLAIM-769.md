@@ -42,7 +42,8 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-2141 THEORY-2131 LIT-2954 CLAIM-777 LEAD-200 CLAIM-781 — Proposed, Unfetched or new; filed in this contribution of 2026-11-21 or the ones it builds on -->
-<!-- inactive-ok-file: LIT-2962 CLAIM-795 CLAIM-840 CLAIM-829 THEORY-2150 — Deferred or new; cited in the note of 2026-11-21 on the exchange "Rich Get Richer Power Laws" -->
+<!-- inactive-ok-file: CLAIM-795 CLAIM-840 CLAIM-829 THEORY-2150 — Proposed or new; cited in the note of 2026-11-21 on the exchange "Rich Get Richer Power Laws" -->
+<!-- inactive-ok-file: THEORY-tmpczldx CLAIM-tmpf9qt9 — Proposed; the reading of Beck and Cohen and the assistant's condition on the spread, 2026-11-22 -->
 
 # CLAIM-769: Seen from one of its states, a tree of rate differences relaxes as a power of time, not exponentially, because the escape it sees is an average of exponentials over a spread of rates; hyperbolic discounting is the same kind of average, so a hierarchy of time scales is one origin of hyperbolic-like discounting, though the exact hyperbola needs a particular spread: per-level rates falling by the square of the branching on a uniform tree, or an exponential spread of hazards
 
@@ -98,7 +99,7 @@ P(T > t) = (b/(b + t))^a, which is [THEORY-2131](../theory.d/THEORY-2131.md)'s g
 survival function. The assistant checked it by two million draws (a = 1.5,
 b = 2: 0.0680 against 0.0680 at t = 10). The exchange adds two things this
 claim does not state. The first is the name superstatistics (Beck,
-[LIT-2962](../literature.d/LIT-2962.md), registered and unread). The second is a caution: "If a
+[LIT-2962](../literature.d/LIT-2962.md), registered and unread when this note was written; read since, see the note of 2026-11-22). The second is a caution: "If a
 dataset displays a power law, that does not necessarily mean any
 individual entity follows power-law dynamics." The caution applies here
 too. A power law in the population's escape does not show a power law in
@@ -118,3 +119,28 @@ distributed t, not of rates. Montroll and Schlesinger's geometric mixture of
 lognormals, which it cites, gives "essentially a lognormal body but a power
 law distribution in the tail". The paper does not relate this to rate
 spreads. The claim is unchanged.
+
+## Note of 2026-11-22: Beck and Cohen, read
+
+Beck and Cohen ([LIT-2962](../literature.d/LIT-2962.md), read in [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); the reading is
+[THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)) **support the second half by parallel**, independently of
+Sozou. Their effective Boltzmann factor, B(E) = ∫f(β)e^(−βE)dβ, is
+[THEORY-2131](../theory.d/THEORY-2131.md)'s s(t) = ∫p(λ)e^(−λt)dλ, derived in physics; their uniform
+density from zero gives (1 − e^(−bE))/(bE), [THEORY-2131](../theory.d/THEORY-2131.md)'s uniform prior, and
+their gamma density (1 + bE)^(−c). The exact hyperbola is their c = 1, which
+they mark non-normalizable with a flat density of states ("normalizable
+for c > 1", p. 6), the same divergence as ∫dt/(1 + kt). Their assumption
+that the parameter changes on a time scale "much larger than the
+relaxation time that the single cells need to reach local equilibrium"
+(p. 2) parallels the rate separation of [CLAIM-781](CLAIM-781.md) on which the tree half
+leans. Nothing on rate trees or discounting. [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)
+`corroborates` this claim.
+
+**A refinement, the assistant's** ([CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md), checked by quadrature):
+the claim's "the exact hyperbola needs a particular spread" holds for the
+exact form at every t, but the asymptotic exponent one needs only a
+positive, finite density at zero rate. A uniform prior from zero, or a
+half-normal one, gives the same 1/(kt) tail as Sozou's exponential prior;
+an exponent other than one comes from weight β^(c−1) at zero rate, and a
+spread bounded away from zero gives no power at all. [CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md)
+`complements` this claim. The claim is unchanged.

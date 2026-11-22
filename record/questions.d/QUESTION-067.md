@@ -153,3 +153,19 @@ leave: whether the probe families a pragmatic test can field make two
 renderings operationally equivalent, which the note of 2026-10-14 says
 needs tomographic completeness, exact equivalence, and either perfectly
 distinguishable pairs or [THEORY-315](../theory.d/THEORY-315.md)'s witness.
+
+## Note of 2026-11-22: [LEAD-103](../leads.d/LEAD-103.md) delivered the equivalences and the inequality
+
+[LEAD-103](../leads.d/LEAD-103.md) carried out the first route of "What would
+answer it". The operational equivalences a pragmatic experiment assumes among
+renderings are stated — equal probe predictabilities in the four sign patterns
+(OE1) and one mixture equivalence among renderings, ½R1 ⊕ ½R3 ≈ ½R2 ⊕ ½R4
+(OE2) — and the inequality they imply under generalized (preparation)
+noncontextuality, |⟨X⟩| + |⟨Z⟩| ≤ 1, is derived and verified numerically, in
+[CLAIM-tmp59ejz](../claims.d/CLAIM-tmp59ejz.md) with its study
+[CASE-tmp7nwhq](../cases.d/CASE-tmp7nwhq.md). It makes explicit for the
+pragmatic case what [THEORY-315](../theory.d/THEORY-315.md) proved in the
+abstract, and shows the inequality rests on the mixture equivalence, not on
+the probes alone. The second route, and the realizability of OE1 and OE2 by a
+pragmatic probe family (tomographic completeness, exact equivalence), are left
+open, so the question stays open.

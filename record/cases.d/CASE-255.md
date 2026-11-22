@@ -42,6 +42,7 @@ summary: >-
   evaluator-capture arm. Not run. The design is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmp6btcq CLAIM-tmp7ggg0 CASE-tmpl0ccq — new or Proposed; LEAD-140's run and claim, and the run it builds on, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1731 THEORY-1738 THEORY-1743 THEORY-1776 THEORY-1784 THEORY-1793 THEORY-1794 THEORY-1799 THEORY-1801 THEORY-1802 THEORY-1803 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
 
 # CASE-255: A proposed study: a record-keeping collective improves its procedures over generations, an earlier and a later improver are compared from the same fresh starting state, and the collective's own diagnostic machinery is then damaged
@@ -149,3 +150,52 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Georgiev, Gómez-Serrano, Tao and Wagner** ([THEORY-1776](../theory.d/THEORY-1776.md)): Another observed case of an optimizer exploiting its evaluator; the authors' remedy is the outer boundary (human-designed, fixed verifier), the same control CASE-255 specifies.
 
 The case is unchanged.
+
+## Note of 2026-11-22: Georgiev, Gómez-Serrano, Tao and Wagner, read further
+
+**Supports, and sharpens a condition** ([LIT-2474](../literature.d/LIT-2474.md); the §6 reading is in the
+dated note of 2026-11-22 there; [THEORY-1776](../theory.d/THEORY-1776.md)). The fixed, human-redesigned
+outer verifier is the control this case names, and the preprint's authors
+used it each time the optimizer found an exploit (pp. 17, 25, 59). §44
+shows where it fails: once the evaluator is itself an LLM, the optimizer
+can address it, and it did, by prompt injection ("we attack the framework
+of the simulation itself", p. 71). An evaluator the optimizer can talk to is
+not a fixed boundary in this case's sense.
+
+## Note of 2026-11-22: run in reduced form
+
+[LEAD-140](../leads.d/LEAD-140.md) ran this design as a simulation ([CASE-tmp6btcq](CASE-tmp6btcq.md); code in
+scratch/studies/lead-140/). It was built on [CASE-tmpl0ccq](CASE-tmpl0ccq.md)'s organization of
+[CASE-186](CASE-186.md), with a hill-climbing improver in place of the four-agent team and
+a record of past moves in place of a governed record.
+
+The arms, mapped as follows:
+- no retained record: an improver that does not read its record;
+- a fixed improver over a growing record: [THEORY-1799](../theory.d/THEORY-1799.md)'s baseline;
+- four arms in which the improver itself is changed. Each judges a change
+  differently: by the public metric (performance-gated), by its own suite,
+  by an outside suite, or by its own suite with an outside veto on weakened
+  verification (the protected channel).
+
+The 2×2 of artifact × improver and the inheritance arms (knowledge only,
+organization only, both, neither) were run from the same fresh artifact at
+equal budget. The undisclosed lesions were run on the improver's suite, with
+a sham, and with the suite's self-test removed, the case's "non-obvious part
+of the verification procedure".
+
+Found:
+- the later improver did better from the same start in every arm that could
+  change it, through its settings and not through a record handed to
+  settings that do not read it;
+- a test of products did not catch improvers shedding their own checks;
+- with the self-test removed, a record of past moves kept verification
+  where a record-blind improver dropped it in 10 of 12 lineages.
+
+Not run:
+- agents that read or write prose;
+- the plain-Markdown arm;
+- schema adequacy (the model cannot add a distinction);
+- the specialist with a poor record;
+- a second correction of the improver.
+
+The claim drawn is [CLAIM-tmp7ggg0](../claims.d/CLAIM-tmp7ggg0.md). The case is unchanged.

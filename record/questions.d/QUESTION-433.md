@@ -17,6 +17,7 @@ summary: >-
   of the article it stands in for, gives the rates; whether an independent
   synthesis finds the same is this question.
 ---
+<!-- inactive-ok-file: CASE-tmp4f2jr THEORY-tmppzw1a — new; filed for LEAD-124 on 2026-11-22 -->
 <!-- inactive-ok-file: LIT-2088 — Unfetched; the article the dissertation stands in for -->
 
 # QUESTION-433: Does an independent meta-analysis or large longitudinal study of procedural skill retention over months find a roughly linear decline of about 0.05 to 0.1 standard deviations a month, about half of training gains lost within six to fifteen months, and slower decline when intermittent practice other than an earlier retention test falls in the interval?
@@ -51,3 +52,7 @@ For the practice part, Tatel's own design separates practice from an
 earlier test: three between-subject groups, retested after the first
 interval only, after the second only, and after both (p. 29). Only first
 retention trials should be used, to exclude relearning (p. 142).
+
+## Note of 2026-11-22: the article's data, refitted
+
+Not answered: the article ([LIT-2088](../literature.d/LIT-2088.md)) is still unread, and its posted data ([LIT-tmp6fb6y](../literature.d/LIT-tmp6fb6y.md)) are the same authors', not an independent synthesis. Two findings bear on the question's terms ([CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md)). First, the rate depends on task type. Accuracy declines by 0.16 SD a month on laboratory tasks and 0.04 on medical and dental tasks, and not measurably on sports or military and transport tasks ([THEORY-tmppzw1a](../theory.d/THEORY-tmppzw1a.md)), so an independent synthesis should be compared type by type. Second, fitted only to intervals up to six months, every type's slope is steeper (laboratory 0.54, medical and dental 0.12). An independent result could match "roughly linear ... 0.05 to 0.1" over a year and still show a decelerating curve. No status change.

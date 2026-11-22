@@ -34,6 +34,7 @@ summary: >-
   target of its own. [CLAIM-021](CLAIM-021.md) concedes the mechanisms; this is what is
   left to show: that one description across realizers earns its keep.
 ---
+<!-- inactive-ok-file: CLAIM-tmp92xul CLAIM-tmp773u9 — new; LEAD-089's study, finding and reading -->
 
 # CLAIM-487: Describing the relations that decide which regime becomes effective as one will-organization, across realizers, explains something that planning theory, control theory, executive-control research and institutional theory each describing their own realizer does not
 
@@ -73,3 +74,14 @@ executive-control research could replace the will-organization account,
 and it qualifies the uniqueness this claim asserts, since one framework
 here already spans many kinds of system. Noted for the owner; no relation
 is written and no status changes.
+
+## Note of 2026-11-22: priced for one realizer
+
+[LEAD-089](../leads.d/LEAD-089.md)'s model of Northstar ([CASE-tmpokq28](../cases.d/CASE-tmpokq28.md)) finds a difference that
+control-only models cannot produce at matched or greater complexity:
+prediction of combined changes of authority from single ones
+([CLAIM-tmp92xul](CLAIM-tmp92xul.md)). The variables that produce it are institutional theory's
+rules-in-use ([CLAIM-tmp773u9](CLAIM-tmp773u9.md)), so for an organization this claim gains
+nothing over that field. What is left is this claim's own wording,
+"across a person, a team and an institution", which needs a second
+realizer modelled with the same variables. No status changes.

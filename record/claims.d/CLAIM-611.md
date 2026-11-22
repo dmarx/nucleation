@@ -130,6 +130,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-612 CLAIM-623 CLAIM-616 CLAIM-618 CASE-225 CASE-231 CASE-224 — filed from the same exchange, Proposed; components and restored owner contributions -->
 <!-- inactive-ok-file: CLAIM-615 — filed from the same exchange, Proposed; the later thesis that rests on this one -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-576 — Proposed; components, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-tmp5koor CLAIM-tmp68okc — new; the two readings of CLAIM-615's admission slot, which read this claim's last clause differently (LEAD-163) -->
 
 # CLAIM-611: When an organized individual persists through changes of state and mode, in the dynamical and historical senses of persistence, what persists is the particular organization that keeps its repertoire realizable, not the repertoire it keeps, nor any state, mode or boundary; that organization may lie inside the individual or outside it
 
@@ -245,3 +246,19 @@ thesis ([CLAIM-615](CLAIM-615.md)) rests on this one.
 ## Admission
 
 Under [ADR-075](../decisions.d/ADR-075.md)'s admission test, the integration must be able to fail while every component holds. As first titled, "can be" made it existential, and read as a role ("whatever keeps the repertoire realizable") no case could defeat it. Read as a particular, it can fail: replace the system's internal production by [CLAIM-522](CLAIM-522.md)'s ideal outside controller, supplying the same production law, so that the same repertoire stays realizable and every trajectory is unchanged, and let every criterion count it one individual through the swap. [CLAIM-280](CLAIM-280.md) and [CLAIM-576](CLAIM-576.md) hold, and what persisted is the repertoire, not its maintainer. The claim is admitted in the particular reading, and the title now states it.
+
+## Note of 2026-11-22: the last clause, read two ways
+
+For [LEAD-163](../leads.d/LEAD-163.md), on [CLAIM-615](CLAIM-615.md)'s admission slot. This claim's first defeater,
+a maintaining organization replaced by an unrelated one, meets the same
+question as [CLAIM-615](CLAIM-615.md)'s admission case: whether a replacement that works
+from what it finds in the system transmits the system's organization
+through it. Two readings are filed. [CLAIM-tmp5koor](CLAIM-tmp5koor.md) reads "that
+organization may lie inside the individual or outside it" as about the
+processes that carry the organization, never the maintainer's own
+organization. [CLAIM-tmp68okc](CLAIM-tmp68okc.md) keeps it as written, and counts an outside
+maintainer's organization insofar as the individual does not carry it
+and a competent unrelated replacement would not supply it. On either,
+the outside controller of the admission case above breaks continuity
+only if its production law was not taken from the system. The claim is
+unchanged.

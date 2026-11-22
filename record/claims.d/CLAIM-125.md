@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpnyfix
 title: 'Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-10'
@@ -54,6 +54,11 @@ history:
     on 2026-10-29. A dated correction after the note says so, as
     CLAIM-121 and CLAIM-245 carry; the note is kept as written and
     the grounds are unchanged. No other change.
+- version: 7
+  date: '2026-11-22'
+  note: >-
+    A dated note says what LEAD-072 found about testing the signalling
+    counts 'How much signalling language data carry' quotes. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -88,6 +93,7 @@ complements:
 - CLAIM-126
 - CLAIM-127
 ---
+<!-- inactive-ok-file: CLAIM-tmp1o9d0 CASE-tmpl6unn — new; what LEAD-072 filed on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as the objection the superseded claim drew -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; replaced, and cited as the history this entry narrows -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its routes to signalling in elicitation, open -->
@@ -280,3 +286,15 @@ that signalling is common in those corpus data, and they are weak evidence
 ([CLAIM-235](CLAIM-235.md)). The case that an extension to signalling data is not optional
 rests on the reading of [LIT-264](../literature.d/LIT-264.md) and on [CLAIM-127](CLAIM-127.md)'s routes, as "How much
 signalling language data carry" says.
+
+## Note of 2026-11-22: the counts still cannot be tested
+
+"How much signalling language data carry" quotes [LIT-851](../literature.d/LIT-851.md)'s counts and
+calls them weak evidence after [CLAIM-235](CLAIM-235.md). [LEAD-072](../leads.d/LEAD-072.md) built a valid
+interval and test for signalling ([CLAIM-tmp1o9d0](CLAIM-tmp1o9d0.md)), but [LIT-851](../literature.d/LIT-851.md) prints no
+occurrence counts, so its 69 of 90 cannot be restated as systems that
+signal beyond sampling error. On the three binary systems [LIT-842](../literature.d/LIT-842.md) prints
+as fractions, with the least counts the fractions allow, one signals by
+the guaranteed interval, a second by the exact test alone, and the third
+by neither ([CASE-tmpl6unn](../cases.d/CASE-tmpl6unn.md)). The section's reading, that signalling is
+common in these corpus data on weak evidence, stands as written.

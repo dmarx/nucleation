@@ -101,3 +101,20 @@ has the same structure inside a self-maintaining system:
   simulated one is owned.
 - That such a system's failure is experienced. Nothing here bears on
   sentience. U1's question was about meaning without it.
+
+## Note of 2026-11-22: Millikan and the SEP survey, read
+
+<!-- inactive-ok-block: THEORY-tmpfugkf THEORY-tmpuzicj CLAIM-tmp974nn CASE-239 — Proposed; readings and the objection filed for LEAD-018, and the proposed study this claim does not yet cite -->
+For [LEAD-018](../leads.d/LEAD-018.md) the record read the selection-based alternative to this
+claim's organizational route: Millikan's biosemantics ([THEORY-tmpfugkf](../theory.d/THEORY-tmpfugkf.md))
+and the SEP survey ([THEORY-tmpuzicj](../theory.d/THEORY-tmpuzicj.md)). It conflicts with this claim, and
+the objection is filed as [CLAIM-tmp974nn](CLAIM-tmp974nn.md) (`objects_to` this claim). In
+brief: on the etiological accounts, an anticipation is false by a norm
+of the system's own only if selection or learning stabilized it, and a
+system with no history has none (the Swampman case). That agrees with
+this claim against the designer and narrows it: a profile "set by its
+own upkeep" is the system's norm when past upkeep shaped it. [CASE-241](../cases.d/CASE-241.md)'s
+forager, whose profile its modeller wrote, has its modeller's norm on
+that account, which is this claim's own defeater; [CASE-239](../cases.d/CASE-239.md)'s learner
+would have its own. The accounts come apart only for a self-maintaining
+system with no history. The status is unchanged.

@@ -1,0 +1,185 @@
+code	outcome	queue	host	kind	version	url	oa_status	pmcid	title
+LIT-1030	html	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/42637075	green		Experimental probes of autopoietic self-maintenance
+LIT-1031	challenge	none	papers.ssrn.com	recorded		https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7571720			An Enactive Approach to Artificial Intelligence and Legal Responsibili
+LIT-1053	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.145.7487	closed		A note on computational indistinguishability
+LIT-106	not-found	none	platform.almanhal.com	publisher	publishedVersion	https://platform.almanhal.com/Files/Articles/89312	bronze		Brandom's Inferentialist Theory and the Meaning Entitlement Connection
+LIT-1081	html	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/2756067	closed		Visual search and stimulus similarity
+LIT-1086	challenge	none	dl.acm.org	publisher	publishedVersion	https://dl.acm.org/doi/pdf/10.1145/320289.320296	bronze		The difficulty of optimum index selection
+LIT-1108	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.386.6808	bronze		Combining Fuzzy Information from Multiple Systems
+LIT-1131	no-candidate	none					hybrid		'Who can represent the city?' Football fandom, derby rivalry and civic
+LIT-1138	pdf	read	repozitorij.uni-lj.si	repository	publishedVersion	https://repozitorij.uni-lj.si/Dokument.php?id=232838&dn=	hybrid		The Social Identity Buffer: How Cognitive, Affective, and Evaluative T
+LIT-1158	html	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/29123069	green		A neural algorithm for a fundamental computing problem
+LIT-1189	skipped-host-challenged	none	papers.ssrn.com	repository	submittedVersion	https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1424067	green		Does Measuring Intent Change Behavior?
+LIT-1205	html	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/26160620	closed		Radically Open-Dialectical Behavior Therapy for Disorders of Over-Cont
+LIT-1211	challenge	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/41637896	hybrid		The phenomenal binding problem for neural networks
+LIT-1224	skipped-host-challenged	none	onlinelibrary.wiley.com	publisher	publishedVersion	https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jclp.23735	hybrid		Applications and efficacy of radically open dialectical behavior thera
+LIT-1228	html	none	global.oup.com	repository	submittedVersion	https://global.oup.com/academic/product/perspectival-realism-9780197555620?q=9780197555620&cc=gb&lang=en	gold		Perspectival Realism
+LIT-1286	html	none	global.oup.com	repository	submittedVersion	https://global.oup.com/academic/product/copyrights-paradox-9780195137620	hybrid		Copyright's Paradox
+LIT-1318	no-candidate	none					green		When Is Society Susceptible to Manipulation?
+LIT-1322	error	none	pascal-francis.inist.fr	unknown		https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6096314	closed		Rethinking Standpoint Epistemology: What Is ‘Strong Objectivity’?
+LIT-1389	html	none	econpapers.repec.org	repository	submittedVersion	https://econpapers.repec.org/paper/cprceprdp/3143.htm	green		Willpower and Personal Rules
+LIT-1394	challenge	none	en.wikipedia.org	recorded		https://en.wikipedia.org/wiki/The_Way_I_Am_(Eminem_song)			The Way I Am
+LIT-1401	challenge	none	muse.jhu.edu	repository	submittedVersion	https://muse.jhu.edu/article/730804	hybrid		Weaponized Interdependence: How Global Economic Networks Shape State C
+LIT-1409	html	check	mediatum.ub.tum.de	repository	submittedVersion	http://mediatum.ub.tum.de/node?id=1156056	green		Group decision making in hidden profile situations: Dissent as a facil
+LIT-1422	challenge	none	scholarcommons.sc.edu	repository	submittedVersion	https://scholarcommons.sc.edu/poli_facpub/33	closed		Economic Interdependence: A Path to Peace or a Source of Interstate Co
+LIT-1445	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/29715724	closed		Pleasure as a sign you can attend to something else: Placing positive 
+LIT-1453	no-candidate	none					closed		Relationship between attitudes and evaluative space: A critical review
+LIT-1456	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/15647126	closed		Beyond Bipolar Conceptualizations and Measures: The Case of Attitudes 
+LIT-1462	challenge	none	www.sciencedirect.com	repository	submittedVersion	http://www.sciencedirect.com/science/article/pii/S0899-8256(96)90044-5	closed		Potential Games
+LIT-1472	no-candidate	none					closed		Intransitivity of preferences
+LIT-1481	html	check	deepblue.lib.umich.edu	unknown		http://deepblue.lib.umich.edu/bitstream/2027.42/51028/1/256.pdf	green		War Making and State Making as Organized Crime
+LIT-1485	challenge	none	doaj.org	repository	submittedVersion	https://doaj.org/article/69a59496c31d4cc6a467ca24beb1e91a	gold		Emergency powers in democratic states: Introducing the Democratic Emer
+LIT-1495	no-candidate	none					hybrid		Emergency Powers
+LIT-1557	challenge	none	www.pnas.org	publisher	publishedVersion	https://www.pnas.org/content/pnas/109/14/5340.full.pdf	bronze	PMC3325729	Trafficking of protein into the recently established photosynthetic or
+LIT-1563	challenge	none	www.cell.com	publisher	publishedVersion	http://www.cell.com/article/S009286741401037X/pdf	bronze		Sympatric Speciation in a Bacterial Endosymbiont Results in Two Genome
+LIT-1565	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3169327/fullTextXML	bronze	PMC3169327	An Interdependent Metabolic Patchwork in the Nested Symbiosis of Mealy
+LIT-1567	html	check	lup.lub.lu.se	repository	submittedVersion	https://lup.lub.lu.se/record/cfb80059-c720-48dd-9030-f0f47b3ba35b	bronze		A Eukaryote without a Mitochondrial Organelle
+LIT-1569	skipped-host-challenged	none	www.cell.com	publisher	publishedVersion	http://www.cell.com/article/S0092867413006466/pdf	bronze		Horizontal Gene Transfer from Diverse Bacteria to an Insect Genome Ena
+LIT-1572	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5027413/fullTextXML	bronze	PMC5027413	Repeated replacement of an intrabacterial symbiont in the tripartite n
+LIT-1573	challenge	none	europepmc.org	repository	publishedVersion	http://europepmc.org/pmc/articles/PMC39726	green	PMC39726	Accelerated evolution and Muller's rachet in endosymbiotic bacteria
+LIT-1586	html	check	ruj.uj.edu.pl	repository	submittedVersion	https://ruj.uj.edu.pl/xmlui/handle/item/54669	bronze	PMC5777040	Multiple origins of interdependent endosymbiotic complexes in a genus 
+LIT-1587	challenge	none	scholarship.law.columbia.edu	repository	submittedVersion	https://scholarship.law.columbia.edu/context/faculty_scholarship/article/1824/viewcontent/117_Harv.L_Rev_1016.pdf	green		Destabilization Rights: How Public Law Litigation Succeeds
+LIT-1592	no-candidate	none					green		Rights Essentialism and Remedial Equilibration
+LIT-1599	challenge	none	nrs.harvard.edu	repository	submittedVersion	http://nrs.harvard.edu/urn-3:HUL.InstRepos:12172792	green		Responsibility for Failures of Government
+LIT-1602	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8879801/fullTextXML	bronze	PMC8879801	Idiosyncratic Genome Degradation in a Bacterial Endosymbiont of Period
+LIT-1611	challenge	none	genome.cshlp.org	publisher	publishedVersion	https://genome.cshlp.org/content/19/8/1450.full.pdf	bronze	PMC2720180	The consequences of genetic drift for bacterial genome complexity
+LIT-1612	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4547289/fullTextXML	green	PMC4547289	Genome expansion via lineage splitting and genome reduction in the cic
+LIT-1613	html	none	www.doabooks.org	repository	submittedVersion	https://www.doabooks.org/doab?func=search&query=rid:31748	hybrid		Engineering a Safer World: Systems Thinking Applied to Safety
+LIT-1618	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.40.77	closed		Accountability in a computerized society
+LIT-1621	skipped-host-challenged	none	www.cell.com	publisher	publishedVersion	http://www.cell.com/article/S0960982208002376/pdf	bronze		Chromatophore Genome Sequence of Paulinella Sheds Light on Acquisition
+LIT-1638	no-candidate	none					bronze		Geometric singular perturbation theory for ordinary differential equat
+LIT-1639	html	check	research.rug.nl	repository	submittedVersion	https://research.rug.nl/en/publications/2bc93747-404a-438e-b69d-e15eb2d9ea79	bronze		Interconnection of port-Hamiltonian systems and composition of Dirac s
+LIT-1642	challenge	none	www.annualreviews.org	publisher	publishedVersion	https://www.annualreviews.org/doi/pdf/10.1146/annurev-conmatphys-031214-014514	hybrid		Spatial Localization in Dissipative Systems
+LIT-1662	challenge	none	dash.harvard.edu	unknown		https://dash.harvard.edu/handle/1/37365888	gold		Inquiry Under Bounds
+LIT-1675	skipped-host-challenged	none	projecteuclid.org	publisher	publishedVersion	https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-27/issue-4/On-a-Measure-of-the-Information-Provided-by-an-Experiment/10.1214/aoms/1177728069.pdf	bronze		On a Measure of the Information Provided by an Experiment
+LIT-1678	error	none	openlibrary.org	recorded		https://openlibrary.org/works/OL20670327W			The Precipice: Existential Risk and the Future of Humanity
+LIT-1682	skipped-host-challenged	none	papers.ssrn.com	repository	submittedVersion	https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2530260	green		Rival conceptions of rivalry: why some competitions mean more than oth
+LIT-1692	challenge	none	www.biologicalpsychiatryjournal.com	publisher	publishedVersion	http://www.biologicalpsychiatryjournal.com/article/S0006322315006526/pdf	bronze		Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylat
+LIT-171	skipped-host-challenged	none	philarchive.org	recorded		https://philarchive.org/rec/PETTEO-44			The epistemology of accurate credences
+LIT-1715	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6127768/fullTextXML	bronze	PMC6127768	Intergenerational transmission of trauma effects: putative role of epi
+LIT-1764	html	check	research-information.bris.ac.uk	repository	publishedVersion	https://research-information.bris.ac.uk/en/publications/d6732a7a-ebbf-4dfc-9740-75fcc9b9934c	green		Sex-specific, male-line transgenerational responses in humans
+LIT-1791	skipped-host-challenged	none	onlinelibrary.wiley.com	publisher	publishedVersion	https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejsp.244	bronze		Explaining the nature of power: a three-process theory
+LIT-180	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC300191/fullTextXML	green	PMC300191	Symmetry and Conservation Laws
+LIT-181	skipped-host-challenged	none	philpapers.org	recorded		https://philpapers.org/rec/PETKIN-2			Knowledge is not always more valuable than mere true belief
+LIT-1823	no-candidate	none					closed		Learning from Mistakes is Easier Said Than Done: Group and Organizatio
+LIT-1826	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.361.5142	closed		MacArthur's consumer-resource model
+LIT-1829	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/22208111	closed		Extended Contact Effects: Is Exposure to Positive Outgroup Exemplars S
+LIT-1832	challenge	none	www.bailii.org	recorded		https://www.bailii.org/ew/cases/EWHC/Admin/2000/413.html			Bancoult, R (on the application of) v Secretary of State for Foreign &
+LIT-1835	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/10447994	closed		Binding and Consciousness
+LIT-1849	skipped-host-challenged	none	philsci-archive.pitt.edu	repository	acceptedVersion	https://philsci-archive.pitt.edu/16190/1/Real%20patterns%20and%20indispensability.pdf	closed		Real patterns and indispensability
+LIT-1855	skipped-host-challenged	none	onlinelibrary.wiley.com	publisher	publishedVersion	https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejsp.259	bronze		Relevance of social categories, depersonalization and group processes:
+LIT-1858	skipped-host-challenged	none	www.annualreviews.org	publisher	publishedVersion	https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-010814-015013	bronze		Changing Norms to Change Behavior
+LIT-186	skipped-host-challenged	none	philpapers.org	recorded		https://philpapers.org/rec/PETWIP			What is purely epistemic normativity, and why? A study in Wolfian epis
+LIT-1862	html	check	research.vu.nl	repository	publishedVersion	https://research.vu.nl/en/publications/8a5902d5-bf64-43fe-83dd-e3f710d291d5	green		Contrast effects in stereotype formation and change: the role of compa
+LIT-1874	pdf	read	link.springer.com	publisher	publishedVersion	https://link.springer.com/content/pdf/10.1007/s10551-018-3887-1.pdf	hybrid		Corporate Agency and Possible Futures
+LIT-1919	no-candidate	none					closed		The Autonomy of Affect
+LIT-1925	skipped-host-challenged	none	philpapers.org	repository	submittedVersion	https://philpapers.org/archive/KRISTM-3.pdf	green		Saving the mutual manipulability account of constitutive relevance
+LIT-1931	challenge	none	digitalcommons.butler.edu	repository	submittedVersion	https://digitalcommons.butler.edu/facsch_papers/1201	closed		Constitutive relevance & mutual manipulability revisited
+LIT-1933	skipped-host-challenged	none	philsci-archive.pitt.edu	repository	acceptedVersion	https://philsci-archive.pitt.edu/12956/1/fr_interlevelmechanisms_final.pdf	closed		Why there isn't inter-level causation in mechanisms
+LIT-1938	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.678.3943	closed		Mutual manipulability and causal inbetweenness
+LIT-1947	html	check	zenodo.org	repository	submittedVersion	https://zenodo.org/records/7034864	hybrid		Artificial Suffering: An Argument for a Global Moratorium on Synthetic
+LIT-1954	html	check	research.birmingham.ac.uk	repository	publishedVersion	https://research.birmingham.ac.uk/en/publications/74bb8ad6-bf7d-4afc-804c-3d59879ae42a	closed		Psychological Need Thwarting in the Sport Context: Assessing the Darke
+LIT-1968	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.493.8141	closed		Daily Well-Being: The Role of Autonomy, Competence, and Relatedness
+LIT-1980	pdf	read	link.springer.com	publisher	publishedVersion	https://link.springer.com/content/pdf/10.1007/s11031-026-10216-7.pdf	hybrid		Beyond the three basic needs: beneficence satisfaction and frustration
+LIT-1983	pdf	read	link.springer.com	publisher	publishedVersion	https://link.springer.com/content/pdf/10.1007/s11031-019-09800-x.pdf	hybrid		Distinguishing between basic psychological needs and basic wellness en
+LIT-1987	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.404.8919	closed		Contextual Emergence in the Description of Properties
+LIT-1996	html	check	espace.curtin.edu.au	repository	submittedVersion	https://espace.curtin.edu.au/bitstream/20.500.11937/69700/2/268067.pdf	green		Testing a continuum structure of self-determined motivation: A meta-an
+LIT-2004	challenge	none	eprints.lse.ac.uk	repository	acceptedVersion	http://eprints.lse.ac.uk/107611/	closed		The Origins and Psychology of Human Cooperation
+LIT-2025	no-candidate	none					hybrid		Reconfigurable origami-based metamaterials with a transition between c
+LIT-2045	challenge	none	dspace.mit.edu	repository	submittedVersion	https://dspace.mit.edu/bitstream/1721.1/2357/1/SWP-3296-23906836.pdf	green		Principles on the Benefits of Manufacturing Process Flexibility
+LIT-2051	skipped-host-challenged	none	www.sciencedirect.com	publisher	publishedVersion	https://www.sciencedirect.com/science/article/pii/S0094114X19315538/pdf	hybrid		Design of compliant mechanisms using continuum topology optimization: 
+LIT-2057	skipped-host-challenged	none	www.sciencedirect.com	publisher	acceptedVersion	https://www.sciencedirect.com/science/article/am/pii/S0094114X24001496	bronze		Analysis and synthesis of interconnected hybrid mechanisms using Freed
+LIT-2058	no-candidate	none					closed		Synthesis of multi-degree of freedom, parallel flexure system concepts
+LIT-2062	html	none	links.jstor.org	repository	submittedVersion	http://links.jstor.org/sici?sici=0034-6527%28198504%2952%3A2%3C173%3APUIIAT%3E2.0.CO%3B2-V&amp;origin=bc	closed		Planning under Incomplete Information and the Ratchet Effect
+LIT-2065	html	check	vbn.aau.dk	repository	publishedVersion	https://vbn.aau.dk/da/publications/c303fee0-795d-11db-805f-000ea68e967b	bronze		Algebraic topology and concurrency
+LIT-2067	challenge	none	scholarworks.uni.edu	repository	submittedVersion	https://scholarworks.uni.edu/facpub/3391	bronze		Modelling the folding of paper into three dimensions using affine tran
+LIT-2076	error	none	lirias.kuleuven.be	repository	publishedVersion	https://lirias.kuleuven.be/retrieve/bc923db5-0798-4af0-855a-e7cc452e3a71	green		Distinguishing Useful and Wasteful Slack
+LIT-2088	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/40455501	hybrid		Procedural skill retention and decay: A meta-analytic review
+LIT-2109	no-candidate	none					closed		Synthesis through Freedom and Constraint Topologies
+LIT-2113	skipped-host-challenged	none	onlinelibrary.wiley.com	publisher	publishedVersion	https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/admt.202400707	hybrid		Tetherless Reconfigurations at Actuator‐Structure Interfaces
+LIT-2140	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.460.8258	closed		Crossing the great divide: Coproduction, synergy, and development
+LIT-2145	challenge	none	escholarship.org	repository	submittedVersion	https://escholarship.org/content/qt69n0p690/qt69n0p690.pdf	bronze		Applied nucleation facilitates tropical forest recovery: Lessons learn
+LIT-2151	error	none	2017-2020.usaid.gov	recorded		https://2017-2020.usaid.gov/sites/default/files/documents/1866/FFP_Sustainability_Exit_Strategies_Study_Synthesis_Report_Dec2015_Final.pdf			Sustaining Development: A Synthesis of Results from a Four-Country Stu
+LIT-2175	html	check	burningman.org	recorded		https://burningman.org/about/10-principles/			The 10 Principles of Burning Man
+LIT-2176	skipped-host-challenged	none	onlinelibrary.wiley.com	publisher	publishedVersion	https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.13025	bronze		The fitness consequences of wildlife conservation translocations: a me
+LIT-2179	no-candidate	none					closed		Applied nucleation as a forest restoration strategy
+LIT-2194	challenge	none	academic.oup.com	publisher	publishedVersion	https://academic.oup.com/ptps/article-pdf/doi/10.1143/PTPS.55.284/5392745/55-284.pdf	bronze		B. Initial Value Problems of One-Dimensional Self-Modulation of Nonlin
+LIT-2199	no-candidate	none					closed		"Interaction of ""Solitons"" in a Collisionless Plasma and the Recurrence"
+LIT-2221	no-candidate	none					closed		Foreign Aid, Institutions, and Governance in Sub-Saharan Africa
+LIT-2225	challenge	none	commons.wmu.se	repository	submittedVersion	https://commons.wmu.se/lib_articles/407	closed		Ironies of automation
+LIT-2227	skipped-host-challenged	none	onlinelibrary.wiley.com	publisher	publishedVersion	https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-7610.1976.tb00381.x	bronze		The role of tutoring in problem solving
+LIT-2291	error	none	oai.dtic.mil	repository	submittedVersion	http://oai.dtic.mil/oai/oai?&amp;verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA078419	green		A truth maintenance system
+LIT-2296	challenge	none	github.com	recorded		https://github.com/microsoft/STATE-Bench			STATE-Bench (GitHub repository)
+LIT-2316	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.93.3720	closed		Diagnosing multiple faults
+LIT-2323	challenge	none	journals.aom.org	publisher	publishedVersion	https://journals.aom.org/doi/full/10.5465/amr.2007.24351883	bronze		Deutero-Learning in Organizations: A Review and a Reformulation
+LIT-2328	pdf	read	arxiv.org	repository	submittedVersion	https://arxiv.org/pdf/2511.02864	hybrid	PMC13643321	Mathematical discovery and exploration can be done at scale
+LIT-2351	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13278117/fullTextXML	green	PMC13278117	Microchimerism in the human brain, quantitative assessment and single 
+LIT-2359	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13060372/fullTextXML	green	PMC13060372	Cellector: A tool to detect foreign genotype cells in scRNAseq data wi
+LIT-2363	pdf	read	link.springer.com	publisher	publishedVersion	https://link.springer.com/content/pdf/10.1007/s11238-026-10164-1.pdf	hybrid		Behavioural welfare analysis and revealed preference: theory and exper
+LIT-2369	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/38842853	hybrid		Another Defense of Abortion: What Transplant Ethics Tells Us about the
+LIT-2370	refused	none	eprints.soton.ac.uk	repository	submittedVersion	https://eprints.soton.ac.uk/505957/1/1-s2.0-S016726812400369X-main.pdf	hybrid		What drives demand for loot boxes? An experimental study
+LIT-2373	pdf	read	link.springer.com	publisher	publishedVersion	https://link.springer.com/content/pdf/10.1007/s11229-026-05820-6.pdf	hybrid		Does AI undermine democratic deliberation? How engagement algorithms h
+LIT-2375	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/42642229	closed		Mereology’s significance: pregnancy, abortion and contragestion
+LIT-2381	no-candidate	none					green		Algorithms for Loot Box Design
+LIT-2384	challenge	none	scholar.smu.edu	repository	submittedVersion	https://scholar.smu.edu/context/smulr/article/5055/viewcontent/78SMULRev789_article6.pdf	green		The Future of Frozen Embryos
+LIT-2391	skipped-host-challenged	none	onlinelibrary.wiley.com	publisher	publishedVersion	https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bioe.13423	bronze		Abortion and Imminent Personhood
+LIT-2395	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/41056370	hybrid		Large DNA Viruses That Parasitoid Wasps Transmit to Hosts
+LIT-2396	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/40829786	hybrid		Bioelectricity in Morphogenesis
+LIT-2398	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/40924998	hybrid		Molecular Mechanisms Underlying Parasitoid-Derived Host Manipulation S
+LIT-2403	html	check	research.rug.nl	repository	publishedVersion	https://research.rug.nl/en/publications/cf6221df-855d-488f-97c7-42845ae86e97	hybrid		From normative principles to epistemic governance: A workflow-based an
+LIT-2404	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/42060926	closed		Person-Centered Pregnancy Options Counseling
+LIT-2417	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/42067422	hybrid		Scaling immunity: sickness as a host defense strategy
+LIT-2432	html	check	biblio.vub.ac.be	repository	submittedVersion	https://biblio.vub.ac.be/vubir/epistemic-governance-in-journalism-editorial-algorithmic-and-regulatory-logics-in-a-contested-epistemic-space(7614c139-5645-411d-b810-b9b40f6bef1a).html	bronze		Epistemic governance in journalism: Editorial, algorithmic, and regula
+LIT-2439	skipped-host-challenged	none	www.sciencedirect.com	publisher	publishedVersion	https://www.sciencedirect.com/science/article/pii/S0969996122002844/pdf	gold		CCL2 recruits fetal microchimeric cells and dampens maternal brain dam
+LIT-2440	challenge	none	www.tandfonline.com	publisher	publishedVersion	https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2719171?needAccess=true	hybrid		I Made the Choice, Did I? Exploring the Influence of Goal-Directed AI 
+LIT-2443	skipped-host-challenged	none	philpapers.org	repository	submittedVersion	https://philpapers.org/archive/DEVAMA-6.pdf	hybrid		A Mereological Analysis of Pregnancy—According to the Immune System
+LIT-2444	skipped-host-challenged	none	academic.oup.com	publisher	publishedVersion	https://academic.oup.com/pq/advance-article-pdf/doi/10.1093/pq/pqae123/60948502/pqae123.pdf	hybrid		Constitutivism's plight: inescapability, normativity, and relativism
+LIT-2446	refused	none	eprints.soton.ac.uk	repository	acceptedVersion	https://eprints.soton.ac.uk/id/eprint/427045/1/Postprint_MIND_Part_of_your_Mother_.docx	closed		Were You a Part of Your Mother?
+LIT-2447	pdf	read	link.springer.com	publisher	publishedVersion	https://link.springer.com/content/pdf/10.1007/s40429-026-00768-6.pdf	hybrid		Categorization of Loot Box Design: A Scoping Review of Problematic Fea
+LIT-2448	no-candidate	none					hybrid		Journalism and social media in creator economies: Evolving structures 
+LIT-2451	no-candidate	none					hybrid		Beyond Base Metric: The Critical and Overlooked Role of Meta-Metrics i
+LIT-2452	html	check	research-information.bris.ac.uk	repository	publishedVersion	https://research-information.bris.ac.uk/en/publications/35966eab-e704-4774-8bdd-f53125995058	hybrid		Personalized content, engagement, and monetization in a mobile puzzle 
+LIT-2453	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13598238/fullTextXML	hybrid	PMC13598238	Human preferences are susceptible to covertly misaligned AI advice
+LIT-2462	error	none	www.ebi.ac.uk	repository		https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12412910/fullTextXML	hybrid	PMC12412910	Tolerance to non-inherited maternal antigen is sustained by LysM+ CD11
+LIT-2466	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/41447969	hybrid		Human leukocyte antigens and fetal microchimerism: Relating fetal-orig
+LIT-2469	no-candidate	none					green		Digital Content Creation: An Analysis of the Impact of Recommendation 
+LIT-2512	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.135.5493	bronze		The Hearsay-II Speech-Understanding System: Integrating Knowledge to R
+LIT-2532	challenge	none	scholarworks.uttyler.edu	repository	submittedVersion	https://scholarworks.uttyler.edu/cgi/viewcontent.cgi?article=1016&context=mgmt_fac	hybrid		An Interdisciplinary Review of the Gaslighting Literature and Future R
+LIT-2543	skipped-host-challenged	none	onlinelibrary.wiley.com	publisher	publishedVersion	https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/phpr.70031	hybrid		Doing your part: Joint obligation and individual-level transmission
+LIT-2545	skipped-host-challenged	none	www.tandfonline.com	publisher	publishedVersion	https://www.tandfonline.com/doi/pdf/10.1080/0020174X.2023.2208391?download=true	hybrid		Five elements of group agency
+LIT-2581	no-candidate	none					closed		Moral Saints
+LIT-2599	challenge	none	scholarcommons.scu.edu	repository	submittedVersion	https://scholarcommons.scu.edu/phi/7	closed		Moral Deskilling and Upskilling in a New Machine Age: Reflections on t
+LIT-2625	html	check	www.osti.gov	repository	submittedVersion	https://www.osti.gov/biblio/1557734	bronze		Bound states in the continuum
+LIT-2659	skipped-host-challenged	none	philpapers.org	repository	submittedVersion	https://philpapers.org/archive/RUBALA-2.pdf	green		Agency Laundering and Information Technologies
+LIT-2660	challenge	none	www.aeaweb.org	publisher	publishedVersion	https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.20231394	diamond		Administrative Burdens in the Social Safety Net
+LIT-2671	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/42522507	hybrid		Defining Bidirectional Violence in Intimate Relationships: A Scoping R
+LIT-2676	challenge	none	www.emerald.com	publisher	publishedVersion	https://www.emerald.com/jeet/article-pdf/doi/10.1108/JEET-06-2026-0034/11859196/jeet-06-2026-0034en.pdf	diamond		The ethical friction deficit: rethinking contestability in entrepreneu
+LIT-2682	challenge	none	digitalcommons.lib.uconn.edu	recorded		https://digitalcommons.lib.uconn.edu/dissertations/1244/			On the Moral Dimensions of Vulnerability and Exploitation
+LIT-2685	skipped-host-challenged	none	doaj.org	repository	submittedVersion	https://doaj.org/article/58fe3ec149224567abcf7c8c72d59bc1	gold		Displacement, Dilemma, and Exit: The Ethical Stakes of Algorithmic Dec
+LIT-2686	no-candidate	none					hybrid		The Making of the 'Good Bad' Job: How Algorithmic Management Manufactu
+LIT-2690	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/42670680	hybrid		Measuring Psychologically Abusive Behaviors in Adult Intimate Relation
+LIT-2714	no-candidate	none					closed		Moral Luck
+LIT-2732	no-candidate	none					hybrid		Rhetorical entrapment in international negotiations: A new pathway and
+LIT-2742	skipped-host-challenged	none	dash.harvard.edu	repository	submittedVersion	https://dash.harvard.edu/bitstreams/7312037c-4b76-6bd4-e053-0100007fdf3b/download	green		Property Rights and the Nature of the Firm
+LIT-2751	no-candidate	none					closed		Patriarchal Terrorism and Common Couple Violence: Two Forms of Violenc
+LIT-2785	challenge	none	www.etsy.com	recorded		https://www.etsy.com/codeascraft/blameless-postmortems/			Blameless PostMortems and a Just Culture
+LIT-2787	html	check	openreview.net	recorded		https://openreview.net/forum?id=fM5s2Tqe0t			Topological defects propagate information in deep neural networks
+LIT-2812	challenge	none	edoc.mpg.de	repository	submittedVersion	http://edoc.mpg.de/528753	green	PMC3138194	Universality in the Evolution of Orientation Columns in the Visual Cor
+LIT-2898	skipped-host-challenged	none	escholarship.org	recorded		https://escholarship.org/uc/item/8mv6v0s1			The Agency Gap: Testing Human-Human and Human-AI Collaboration Using a
+LIT-2904	skipped-host-challenged	none	www.tandfonline.com	publisher	publishedVersion	https://www.tandfonline.com/doi/pdf/10.1080/09515089.2018.1486605?needAccess=true	hybrid		Precís of a natural history of human morality
+LIT-2949	challenge	none	ideas.repec.org	repository	submittedVersion	https://ideas.repec.org/p/cla/levarc/618897000000000775.html	green	PMC1689473	On hyperbolic discounting and uncertain hazard rates
+LIT-2954	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/10031875	closed		Dynamics on Ultrametric Spaces
+LIT-2969	skipped-host-challenged	none	iopscience.iop.org	publisher	publishedVersion	https://iopscience.iop.org/article/10.1088/0022-3719/6/7/010/pdf	bronze		Ordering, metastability and phase transitions in two-dimensional syste
+LIT-3005	skipped-host-challenged	none	projecteuclid.org	publisher	publishedVersion	https://projecteuclid.org/journals/acta-mathematica/volume-131/issue-none/Random-difference-equations-and-Renewal-theory-for-products-of-random/10.1007/BF02392040.pdf	bronze		Random difference equations and renewal theory for products of random 
+LIT-387	challenge	none	direct.mit.edu	publisher	publishedVersion	https://direct.mit.edu/neco/article-pdf/35/3/277/2071828/neco_a_01521.pdf	bronze		Feelings Are the Source of Consciousness
+LIT-396	no-candidate	none					closed		Psychological Predicates
+LIT-477	no-candidate	none					closed		Walking Together: A Paradigmatic Social Phenomenon
+LIT-494	skipped-host-challenged	none	pubmed.ncbi.nlm.nih.gov	repository	publishedVersion	https://pubmed.ncbi.nlm.nih.gov/28504021	closed		The Theory of Dyadic Morality: Reinventing Moral Judgment by Redefinin
+LIT-495	challenge	none	www.worldcat.org	repository	submittedVersion	http://www.worldcat.org/search?q=ti%3ATHE+BIOLOGY+OF+MORAL+SYSTEMS&amp;qt=advanced	closed		The Biology of Moral Systems
+LIT-536	pdf	read	hal.science	repository	submittedVersion	https://hal.science/hal-01151449v1/document	green		Biological Autonomy: A Philosophical and Theoretical Enquiry
+LIT-545	error	none	citeseerx.ist.psu.edu	unknown	submittedVersion	http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.315.4567	closed		Self-Efficacy: Toward a Unifying Theory of Behavioral Change
+LIT-636	skipped-host-challenged	none	academic.oup.com	publisher	publishedVersion	https://academic.oup.com/book/45659/book-pdf/50193891/9780197622230_web.pdf	gold		The Border Between Seeing and Thinking
+LIT-699	no-candidate	none					green		Emotional Aperture and Strategic Change: The Accurate Recognition of C
+LIT-701	no-candidate	none					closed		Collective Guilt and Collective Guilt Feelings
+LIT-762	skipped-host-challenged	none	dl.acm.org	publisher	publishedVersion	https://dl.acm.org/doi/pdf/10.1145/58566.59297	bronze		gIBIS: a hypertext tool for exploratory policy discussion
+LIT-tmpptux6	skipped-host-challenged	none	hdl.handle.net	repository	submittedVersion	https://hdl.handle.net/1822/95100	green		Internal and External Factors Underlying Variations in Adolescents’ Da

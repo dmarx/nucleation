@@ -25,7 +25,8 @@ summary: >-
   argued position on that ground, or a showing that the case is
   incoherent.
 ---
-<!-- inactive-ok-file: LIT-1947 THEORY-1299 — Unfetched, Open or Proposed; cited as open -->
+<!-- inactive-ok-file: THEORY-tmpxzn3p — Proposed; the reading of Metzinger 2021, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-1299 — Unfetched, Open or Proposed; cited as open -->
 <!-- inactive-ok-file: TERM-083 TERM-082 THEORY-554 THEORY-699 THEORY-449 — Proposed; the term and readings this question draws on, cited as open -->
 
 # QUESTION-368: Would a system that had phenomenal experience but no phenomenal self-model and no valence, as minimal phenomenal experience is described, have moral standing, and on what ground, given that the argument for a moratorium on synthetic phenomenology locates the risk in a self that can suffer?
@@ -82,3 +83,27 @@ Alternatively, a showing that the case is incoherent: that phenomenality
 without any valence, or without a self, is impossible. Then the question
 dissolves. The empirical side, whether such states occur, is
 [THEORY-1295](../theory.d/THEORY-1295.md)'s and [QUESTION-048](QUESTION-048.md)'s.
+
+## Note of 2026-11-22: Metzinger, read
+
+[LIT-1947](../literature.d/LIT-1947.md), cited above as unread, is now read in full ([NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md);
+[THEORY-tmpxzn3p](../theory.d/THEORY-tmpxzn3p.md), which `bears_on` this question). It **bears directly and
+leaves the question open**.
+
+- **It anticipates the case, as a solution.** Systems that "identify only
+  with the phenomenal character of awareness itself" lack an egoic
+  self-model, so "MPE architectures may be a viable path for ethics by
+  design" (p. 57). The paper treats them as systems unable to suffer, not
+  as moral patients.
+- **Its ethics gives position 1**, if "sentient" means able to suffer: the
+  "Principle of Pathocentrism", "All and only sentient beings have moral
+  standing" (p. 44, footnote a). It does not say whether an MPE system is
+  "sentient", and leaves open whether even systems meeting all four
+  conditions are "genuine moral patients" (p. 55).
+- **A second variant of the case** (p. 51): a self-conscious entity without
+  preferences would "abide in a form of 'choiceless awareness'", a self
+  with no valence, beside the MPE case of no self.
+- **The restatement is confirmed**: "a conscious system without a coherent
+  PSM is unable to suffer" (p. 55), so the moratorium's risk lies in a self.
+
+What such a system would be owed is not asked. The question stays open.

@@ -55,6 +55,7 @@ summary: >-
   [CLAIM-624](../claims.d/CLAIM-624.md) and [CLAIM-619](../claims.d/CLAIM-619.md), A's, and the owner has endorsed
   neither.
 ---
+<!-- inactive-ok-file: THEORY-tmp4gziy THEORY-1653 — Proposed; the reading of Dorsch, Coeckelbergh and Vierkant, 2026-11-22, and held evidence set beside it -->
 <!-- inactive-ok-file: NOTE-1901 — Skimmed; filed 2026-11-12 -->
 <!-- inactive-ok-file: THEORY-1824 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: CLAIM-652 CLAIM-657 — Proposed; filed from the same exchange -->
@@ -161,3 +162,26 @@ institutions within the institution, so the reproduction is not separated
 into the organization's and its members', which is this question's third
 part. A sense-3 case ([TERM-074](../terms.d/TERM-074.md)). Filed as `bears_on`. The question is
 unchanged.
+
+## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
+
+[LIT-2373](../literature.d/LIT-2373.md) is now read ([NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md); [THEORY-tmp4gziy](../theory.d/THEORY-tmp4gziy.md), which `bears_on` this
+question). It **bears on part 2 and leaves parts 1 and 3 open**.
+
+- **Part 2, what makes it reproductive.** The paper gives a mechanism by
+  which a system reproduces the conditions under which its harm is not
+  legible to those it harms. Users' miscalibration is reflectively
+  undetectable ("no phenomenological difference exists" between feelings
+  from reliable and from biased processes, p. 14), and the same
+  optimization resets the standard by which they would judge it: curation
+  is "reshaping the standards by which beliefs are assessed" (p. 10).
+- **Part 1, what the wrong is.** It names a harm to users' epistemic
+  agency, "not merely a crisis of misinformation … but a crisis of
+  epistemic agency" (p. 4), not a wrong of the organization.
+- **Part 3, whose it is.** The bearer is "AI", "algorithms" or
+  "engagement architectures" throughout; no platform or organization is
+  treated as an agent.
+
+The mechanism is avowedly untested ("not yet directly tested empirically",
+p. 9), and held evidence ([THEORY-1653](../theory.d/THEORY-1653.md)) cuts against its motivating link to
+affective polarization. The question stays open.

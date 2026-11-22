@@ -143,3 +143,18 @@ No status change.
 <!-- inactive-ok-file: CASE-297 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
 
 ChatGPT (A80) proposed a laboratory version in three conditions: descriptive categories (inferred, not used), operative categories (used to allocate exposure while preferences stay fixed) and endogenous categories (used while users' and creators' behaviour adapts), with exposures randomized across cluster boundaries. It would tell apart "A convenient descriptive compression", "A classification genuinely used by the system's operations" and "A classification whose use contributes to producing the regularities it describes", warning against concluding "that it has become a natural kind". The owner then gave a sociological case (U37), communities forming subcommunities on Reddit, filed as [CASE-297](CASE-297.md). ChatGPT's contrast between the two (A82): "A genre cluster is initially something an observer identifies. A subreddit is also something participants can join, maintain, govern, and reproduce."
+
+## Note of 2026-11-22: the laboratory, run in simulation
+<!-- inactive-ok-file: CASE-tmpw8bs2 CLAIM-tmph4j0u CLAIM-tmpvn59f — new; the run of this case's laboratory and the claims filed from it -->
+
+[LEAD-030](../leads.d/LEAD-030.md) ran this laboratory as a simulation ([CASE-tmpw8bs2](CASE-tmpw8bs2.md)). Its closure
+test, conditioned on exposure and scored on randomized exposure, kept 0.86
+of an item-level model's gain for genres planted in preferences and −0.01
+for clusters made by exposure alone, equal to both controls; not
+conditioned on exposure, the exposure-made clusters fitted better, and the
+control partition still caught them ([CLAIM-tmpvn59f](../claims.d/CLAIM-tmpvn59f.md)). The intervention arm
+separated the three kinds of class where nothing else did
+([CLAIM-tmph4j0u](../claims.d/CLAIM-tmph4j0u.md)), and A's three outcomes all occurred: reinforcement,
+a small creation, and erasure under a popularity loop. The closure defect
+turned negative under any adaptation, used or not, so it cannot stand in
+for the intervention arm. The case is unchanged.

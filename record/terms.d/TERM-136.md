@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - TERM-tmplplcf
 title: 'ambient, intrinsic, effective and spectral dimension (of a learned representation)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    After the reading of LIT-2998 (NOTE-tmptf55k, THEORY-tmpwn1xp). The
+    parenthesis calling the work unread is replaced in place with what the
+    reading found, and a caution on how m is measured is added to the
+    intrinsic sense; the term now draws on the reading. The four senses
+    are unchanged.
 tags:
 - representation-learning
 - mathematics
@@ -16,6 +25,8 @@ line:
 draws_on:
 - THEORY-1272
 - THEORY-301
+- THEORY-tmpwn1xp
+- THEORY-tmp1nvjs
 summary: >-
   Four dimensions of a learned representation that the exchange "Rich Get
   Richer Power Laws" (2026-11-21) keeps apart and the record had no word
@@ -27,7 +38,10 @@ summary: >-
   The wording is A's (the other assistant in the exchange "Rich Get Richer
   Power Laws", A29 and A30); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-847 CLAIM-848 CLAIM-842 CLAIM-797 THEORY-1272 LIT-2998 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: THEORY-tmp1nvjs NOTE-tmppfzap LIT-tmp309tx LIT-tmpu2kk5 LIT-2985 — new, Skimmed, Deferred or Unavailable; the Mermin–Wagner neighbours and the works registered from them, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmpwtoad — Proposed, Deferred or new; the readings of 2026-11-22 and the entries they bear on -->
+<!-- inactive-ok-file: CLAIM-847 CLAIM-848 CLAIM-842 CLAIM-797 THEORY-1272 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # TERM-136: ambient, intrinsic, effective and spectral dimension (of a learned representation)
 
@@ -42,8 +56,15 @@ distribution:
   manifold the representations lie near, as a local estimator measures it.
   A29 §1: trained networks' representations "can have intrinsic dimensions
   far below their layer widths, and … intrinsic dimensionality changes
-  systematically across layers" (Ansuini and colleagues, [LIT-2998](../literature.d/LIT-2998.md),
-  Deferred: registered, not read).
+  systematically across layers" (Ansuini and colleagues, [LIT-2998](../literature.d/LIT-2998.md), read
+  2026-11-22 as [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md): in trained image CNNs an ID orders of
+  magnitude below width, rising then falling with depth). A caution from
+  that reading (changed in place, version 2): m as measured there, by the
+  TwoNN estimator, is one global value per point cloud, depends on the
+  scale probed (checked by subsampling), and is a lower bound above about
+  20. The paper's linear count, PC-ID (the number of principal components
+  for 90% of the variance), is not D_PR below, so its "one or two orders"
+  gap is not a gap between m and D_PR.
 - **Effective dimension D_PR**: the participation ratio of the centred
   covariance Σ, D_PR = (tr Σ)²/tr(Σ²), equal to D when all eigenvalues are
   equal and near k when k equal directions carry the variance. It sets how
@@ -79,3 +100,42 @@ perturbations grow, decay or persist).
   graph. It shares the name and not the object.
 - [THEORY-301](../theory.d/THEORY-301.md)'s participation ratio is of a kernel difference between two
   representations, the same formula applied to another matrix.
+
+## Note of 2026-11-22: Stringer and colleagues, read
+
+Stringer and colleagues ([LIT-2972](../literature.d/LIT-2972.md), [NOTE-tmp923nm](../notes.d/NOTE-tmp923nm.md), [THEORY-tmpwtoad](../theory.d/THEORY-tmpwtoad.md)): **a
+parallel.** The Supplementary Discussion (§2.2) separates four dimensions
+of a population code: ambient, planar (the dimension of the linear span,
+close to this term's linear-span sense), manifold, and fractal (upper
+Minkowski) dimension. The fractal sense has no counterpart here; it is
+what a spectrum decaying more slowly than n^(−1−2/d′) for every d′ > d
+gives a code of a d-dimensional stimulus set (Theorem 4). A candidate
+addition if the record comes to use it. Background, so no relation.
+
+## Note of 2026-11-22: Ansuini and colleagues, read
+
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](../notes.d/NOTE-tmptf55k.md),
+[THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **supports the intrinsic sense and its separation from
+D, and qualifies how m is read** (the change of version 2 above). "The ID
+is orders of magnitude smaller than the number of units in each layer"
+(the paper's ED is this term's D), and a linear count is "about one or two
+orders of magnitude larger than the value of the ID computed with TwoNN",
+because the manifolds are curved. The linear count there is a fifth
+notion, a 90%-variance PCA count, beside D_PR. The term draws on the
+reading for its intrinsic sense.
+
+## Note of 2026-11-22: where the spectral dimension of a network comes from
+
+Gelfert and Nolting ([LIT-tmpbgf6y](../literature.d/LIT-tmpbgf6y.md), [NOTE-tmppfzap](../notes.d/NOTE-tmppfzap.md); [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md)),
+read as a stand-in for Mermin and Wagner ([LIT-2985](../literature.d/LIT-2985.md), Unavailable), report
+the origin of this term's fourth sense for networks: Hattori, Hattori and
+Watanabe (1987, [LIT-tmp309tx](../literature.d/LIT-tmp309tx.md), registered, unread) ask "Why do the spins
+on the lattice 'know' this natural embedding into Euclidean space that
+should govern their critical phenomena?", since "the only geometrical
+structure that spins can feel is the one given by the Hamiltonian", and
+define the spectral dimension of general networks through a Gaussian
+field theory on them. Cassi (1992, [LIT-tmpu2kk5](../literature.d/LIT-tmpu2kk5.md)) then shows that spectral
+dimension at most 2 excludes spontaneous magnetization (§3.4). So the
+term's "spectral dimension d_s of the graph through which they interact"
+is that literature's, and [CLAIM-842](../claims.d/CLAIM-842.md)'s criterion is a theorem there for
+spin models in equilibrium. [THEORY-tmp1nvjs](../theory.d/THEORY-tmp1nvjs.md) is `draws_on`.

@@ -94,3 +94,15 @@ bundling by self-prediction, is untested. The claim goes Active when
 [THEORY-067](../theory.d/THEORY-067.md) does. A narrower claim about what the précis says would not
 need that, but the dependents that rest on this one need the mechanism,
 so narrowing would free nothing downstream.
+
+## Note of 2026-11-22: [LEAD-078](../leads.d/LEAD-078.md), the mechanism still untested as stated
+
+This claim waits on [THEORY-067](../theory.d/THEORY-067.md)'s bundling by self-prediction. [LEAD-078](../leads.d/LEAD-078.md)
+read the two closest studies found (dated note on [THEORY-067](../theory.d/THEORY-067.md) of the same
+day). Khan and Dhar ([LIT-tmpgi12m](../literature.d/LIT-tmpgi12m.md)) show that an asserted precedent moves
+present choice back toward the virtue, and that a series not seen as a
+precedent moves it away; Schuhr ([LIT-tmpj7m62](../literature.d/LIT-tmpj7m62.md)) shows bundling of a series
+chosen at once. Neither shows the chooser's own prediction making the
+present choice a precedent, so the hold of the note of 2026-10-28 stands.
+Neither bears on the claim's own point, how the account individuates
+interests. No status change.

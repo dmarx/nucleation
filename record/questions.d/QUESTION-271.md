@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdicvf
 title: 'How can an organization evaluate its own processes so that the evaluation decides authority without being captured by it: when wins among the processes cycle, when no common scale scores them all, when the processes in charge can add, filter or duplicate the tests, and when only the processes heeded are evaluated?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-25'
@@ -24,6 +24,11 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    A dated note added: LEAD-077's run of CASE-158's design. The entry
+    is otherwise unchanged.
 tags:
 - self-governance
 - game-theory
@@ -182,3 +187,42 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 - **Bao et al.** ([THEORY-1785](../theory.d/THEORY-1785.md)): **bears on, leaves open**. A reward model trained on expert judgements beats the human agreement floor; the paper itself warns it distils "current taste", not the practice by which criteria change.
 
 The question is unchanged.
+
+## Note of 2026-11-22: an arm per failure run, with the router matched
+
+<!-- inactive-ok-file: CASE-tmpkghqb CLAIM-tmpdmn0v — new; the run filed for LEAD-077 and its claim, cited in the note of 2026-11-22 -->
+
+[CASE-158](../cases.d/CASE-158.md)'s arms were run in numpy for [LEAD-077](../leads.d/LEAD-077.md) ([CASE-tmpkghqb](../cases.d/CASE-tmpkghqb.md)): one
+per failure, the router given the same audits, delay and cost.
+
+1. **Cycles.** With wins among three specialists made intransitive and
+   duels as the only audit, governance by win rate per region did no
+   better than fixed allocation; a router choosing per item by content won
+   12 of 12. Cycles hurt allocation by region, not routing by item.
+2. **No common scale.** Scoring each member against its own history, the
+   regime in which no scale needs to be common, beat a router on raw
+   scores 12 of 12, and tied a router given the same standardization.
+3. **Capture.** With 80% of probes curated by the incumbent the router won
+   12 of 12 at every temperature; filtering and doubling hurt governance
+   more.
+4. **Bandit feedback.** Governance auditing only what it heeds starved the
+   unheeded and lost; a 10% floor on auditing, the exploration floor that
+   is the price of counterfactual credit ([THEORY-925](../theory.d/THEORY-925.md)), repaired it, and a
+   router without the floor did as well.
+
+For this model class the procedures that helped (self-standardization, an
+audit floor) are properties of the evaluation, which either mechanism can
+use ([CLAIM-tmpdmn0v](../claims.d/CLAIM-tmpdmn0v.md)). α-Rank, Nash averaging and unknown propensities were not
+tried. The question is unchanged.
+
+## Note of 2026-11-22: capture repeated in a simulated organization, [LEAD-048](../leads.d/LEAD-048.md)
+
+<!-- inactive-ok-block: CASE-tmpl0ccq — new; the run of LEAD-048 -->
+[CASE-tmpl0ccq](../cases.d/CASE-tmpl0ccq.md) repeats [CASE-162](../cases.d/CASE-162.md)'s crossing in [CASE-186](../cases.d/CASE-186.md)'s organization. Under
+captured scoring or selective admission the first correction succeeded in
+at most 6 of 64 worlds. Inverse-propensity weighting repaired selective
+admission, in 60 to 64 of 64 worlds. The self-test found a lesion of
+admission against protected commissioning values, but did not find one
+that moved an already selective rate from 0.1 to 0.05. An evaluation
+calibrated on the arrangement it tests inherits that arrangement's capture.
+The question stays Open.

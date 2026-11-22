@@ -219,3 +219,12 @@ All reported from cited work; the review runs no analysis of its own.
   (10.1016/j.cpr.2010.04.006) citing the article at 30(4):467–480; the
   article of record is 30(7):865–878. The brief's citation, 30(7), is the
   version of record.
+
+## Note of 2026-11-22: Howard, Gagné and Bureau, read
+
+A **caution on an equation drawn above**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-tmp3k6if](NOTE-tmp3k6if.md)).
+This note equates value congruence with self-determination theory's
+integrated regulation. The meta-analysis finds that rung not separately
+measured by any validated scale to 2016 (r = .913 with identified
+regulation), so the equation rests on a construct without a separate
+measure.

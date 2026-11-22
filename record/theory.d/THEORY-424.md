@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp343c3
 title: "Mutual-information measures of individuality that read a system's next state off its present one measure association, not propagation: I(S_{t+1}; S_t) can be positive when the environment alone drives the system, and conditioning on the environment does not recover the interventional quantity, which can be zero where the conditional measure is one bit"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,11 @@ history:
     description, agency and legibility: A10 took this entry's XOR system as
     its main formal lesson; in it Â depends on the distribution of the
     background variable, not of the intervention. The reading is unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: Â in a common-input control with cell
+    heredity, from CASE-tmpgfgy2. The reading is unchanged.
 tags:
 - complex-systems
 - individuation
@@ -33,6 +38,7 @@ summary: >-
   paper leaves open, and neither it nor the paper's two ETI criteria is
   computed on any system.
 ---
+<!-- inactive-ok-file: CASE-tmpgfgy2 — new, filed 2026-11-22 from LEAD-167's computation -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; LIT-005 is the source this account was read from, and its NOTE places it; LIT-049 is named as its ancestor -->
 <!-- inactive-ok-file: THEORY-497 THEORY-607 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
@@ -132,3 +138,19 @@ manipulated, what is held as background and how interventions are
 weighted. It was not filed: its content is this entry's limit, with
 [QUESTION-204](../questions.d/QUESTION-204.md) and [QUESTION-115](../questions.d/QUESTION-115.md)'s "intervention distribution". The
 intervention family is one component of [TERM-065](../terms.d/TERM-065.md).
+
+## Note of 2026-11-22: Â under a shared cause, computed
+
+[CASE-tmpgfgy2](../cases.d/CASE-tmpgfgy2.md)'s common-input control has six cells in two patches. Each cell copies
+its patch's environment and otherwise keeps its own trait, with
+probability 0.3, and there is no interaction.
+
+- **For the patch**, A* is 0.51 bits and Â 0.28. Â is lower, as this reading
+  holds, but not zero. Bourrat's Fig. 2 zero needs a system with no influence
+  on itself.
+- **Normalised**, the patch's Â exceeds a single cell's. A pair in one patch
+  exceeds a pair across patches, for every heredity tried. Marginalising the
+  shared environment in the do-channel leaves the outputs correlated.
+
+So Â, like A*, rewards grouping cells that share an unobserved common cause,
+though less. The reading is unchanged.

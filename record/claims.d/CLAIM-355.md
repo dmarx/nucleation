@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
 title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-22'
@@ -76,6 +76,13 @@ history:
     which places "the single owner" in a self-model's attribution. A
     premise of the question, which links the two and does not test
     either. No other change.
+- version: 10
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added, from LEAD-134: CASE-114's test is now
+    built and run (CASE-tmpdv5tm, finding CLAIM-tmppxyo3). The note of
+    2026-11-06 is answered: a matched-capacity centralized self-model
+    misdescribes who controls what. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -142,6 +149,7 @@ rests_on:
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 — Proposed; the organizational-affect line, reopened by the owner on 2026-10-23: the claim this one rests on, and a claim cited for a note -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-155 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
 <!-- inactive-ok-file: LIT-1835 — Unfetched since 2026-10-29; Revonsuo and Newman 1999, cited in the note of that date as not read, nothing here rests on it -->
+<!-- inactive-ok-file: CASE-tmpdv5tm CLAIM-tmppxyo3 — the executed study and its finding, filed from LEAD-134 on 2026-11-22 and cited in the note of that date (new; CLAIM-tmppxyo3 Proposed) -->
 
 # CLAIM-355: In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real
 
@@ -441,3 +449,42 @@ accompany control. That is A26's reply to plain fictionalism, now
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after the Metzinger readings of 2026-11-01 ([LIT-1941](../literature.d/LIT-1941.md), [LIT-1943](../literature.d/LIT-1943.md), [LIT-1945](../literature.d/LIT-1945.md), [LIT-1946](../literature.d/LIT-1946.md)). They propose the misdescription the note of 2026-10-29 says the record lacks, but give no case with the cause and the report recorded apart. Drayson's objection is still answered only conditionally, [CASE-114](../cases.d/CASE-114.md)'s test has not run, and [THEORY-064](../theory.d/THEORY-064.md), [THEORY-691](../theory.d/THEORY-691.md) and [THEORY-125](../theory.d/THEORY-125.md) are still Proposed.
+
+## Note of 2026-11-22: Metzinger, read
+
+An **earlier, design-oriented use of the same concepts**, no edge
+([LIT-1947](../literature.d/LIT-1947.md), [NOTE-tmpdytsl](../notes.d/NOTE-tmpdytsl.md)). Metzinger's "unit of identification" (pp. 56–57)
+is what a system identifies with, and he proposes building conscious
+systems with none, or with only a non-egoic one, so that suffering cannot
+be attributed to a self. That treats the self-model as a construction that
+can be designed away, as this claim does, and takes it to matter for
+whether there is suffering at all, which this claim leaves open.
+
+## Note of 2026-11-22: [CASE-114](../cases.d/CASE-114.md)'s test, run
+
+The note of 2026-11-06 says Drayson's objection ([THEORY-646](../theory.d/THEORY-646.md)) is answered
+only conditionally because no case in the record shows a unified self-model
+misdescribing who controls what — the case [CASE-114](../cases.d/CASE-114.md) was built to test, not
+yet run. [LEAD-134](../leads.d/LEAD-134.md) has now built and run it ([CASE-tmpdv5tm](../cases.d/CASE-tmpdv5tm.md); finding
+[CLAIM-tmppxyo3](CLAIM-tmppxyo3.md)).
+
+A distributed-control plant is given two self-models, one accurate about the
+division of labour and one attributing control to a single centralized owner,
+**matched in parameter count, taking identical inputs, and both reconstructing
+the aggregate outcome exactly**. On these terms — which meet the case's main
+threat, that an accurate model merely carries more information — the centralized
+self-model still names the wrong component as the cause of an error about four
+times in five (at chance), spreads blame toward the owner's global command, and,
+driving governance, strips more legitimate gain from innocent components to cut
+the same errors, on every one of 60 configurations. So a unified self-model
+matched in capacity and reproducing behaviour exactly still misdescribes who
+controls what, and the misdescription sits in the attribution, where this claim
+places it. Drayson's horn — that the represented owner always has a truthmaker
+in the distribution of control — is false for this model.
+
+The limit the note of 2026-10-29 and [CLAIM-288](CLAIM-288.md) name still holds: the modeller
+writes both self-models, so this shows what the centralized content does once
+present, not that a distributed agent would come to hold it; and it bears on
+attribution of control, not on phenomenal properties. Whether this answers
+Drayson unconditionally enough to change the claim's status is the owner's call.
+The claim is unchanged.

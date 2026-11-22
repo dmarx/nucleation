@@ -69,3 +69,14 @@ did not.
   are uncalibrated; [LIT-1894](../literature.d/LIT-1894.md)'s Table K.1 ([NOTE-1462](../notes.d/NOTE-1462.md)) shows errors of about
   15% and a wrong order between phases of equal coefficient in a model
   with known values.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+An application that departs from this account's settings
+([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)): "Instead of nβ = n/ log n, we perform LLC estimation at
+nβ = m/ log m, where m is the SGLD batch size" (A.5.1), giving 21.7 for the
+language model and 66.7 for the regression model, with γ = 100 and 13.3;
+the estimator is applied at checkpoints that "will not be local minima of
+the population loss" (A.7), and estimates are called stable only "given
+sufficiently strong localization" (§4). Lau et al.'s cautions apply
+unaddressed except by traces and sweeps. No relation written.

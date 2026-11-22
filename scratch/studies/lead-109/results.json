@@ -1,0 +1,35 @@
+{
+  "trials": 2000,
+  "tau_values_per_trial": 6,
+  "nonempty_families": 12000,
+  "crosscutting_ties_found": 0,
+  "max_family_size": 6,
+  "ring4_pairingA_gap": 1.0,
+  "ring4_pairingB_gap": 1.0,
+  "ring4_either_clears_tau_1.01": false,
+  "watchmaker_fine_gap": 3.3333,
+  "watchmaker_coarse_gap": "inf",
+  "watchmaker_test1_family_size": 3,
+  "watchmaker_test1_finest_is_singletons": true,
+  "watchmaker_agent_factorizations": [
+    [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  ],
+  "watchmaker_agent_family_is_chain": true
+}

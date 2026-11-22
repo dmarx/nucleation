@@ -71,7 +71,8 @@ corroborates:
 - CLAIM-354
 - CLAIM-356
 ---
-<!-- inactive-ok-file: LIT-1973 LIT-1996 THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
+<!-- inactive-ok-file: THEORY-tmp0vgh7 — Proposed; the reading of Howard, Gagné and Bureau, 2026-11-22 -->
+<!-- inactive-ok-file: LIT-1973 THEORY-047 — Proposed, Open, Deferred or Unavailable; cited from the exchange "Assess SDT Coverage" of 2026-11-02 as open, works registered unread among them -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
@@ -205,3 +206,20 @@ The status is unchanged.
 ## Note of 2026-11-06: what holds it back
 
 [NOTE-1500](../notes.d/NOTE-1500.md) (2026-11-03) reports, at second hand, that Howard et al. 2017 ([LIT-1996](../literature.d/LIT-1996.md), Unfetched) and Van den Broeck et al. 2021 did not separate integrated from identified regulation, which leaves the first half of the promote_when unmet; [NOTE-1531](../notes.d/NOTE-1531.md) states the "not order" half but gives no case of a higher-order endorsement behaving as a controlled motive. Neither result is in the record.
+
+## Note of 2026-11-22: Howard, Gagné and Bureau, read
+
+[LIT-1996](../literature.d/LIT-1996.md) is now read first-hand ([NOTE-tmp3k6if](../notes.d/NOTE-tmp3k6if.md); [THEORY-tmp0vgh7](THEORY-tmp0vgh7.md)), so this
+account's notes need no longer rely on Ryan et al.'s report of it. It
+**bears on the promote_when's first clause, against it as things stand**:
+across the 13 validated scales to 2016, integrated regulation correlates
+.913 with identified regulation, its intervals "almost always overlapped
+with neighboring regulations" (p. 26), and it is "practically
+indistinguishable from identified regulation" (p. 28). No measure of
+integrated regulation separable from identified regulation existed. The
+paper **supports the graded half** of this account, one dimension of
+self-determination explaining 99.75% of the structure, and **undercuts the
+"by integration" half as measured**, since the most integrated rung is not
+separately observed; the authors leave open whether the fault is the
+construct's or the measures' (pp. 28–29). It says nothing on "not by
+order". The status is unchanged.

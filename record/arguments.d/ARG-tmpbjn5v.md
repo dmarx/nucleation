@@ -1,0 +1,92 @@
+---
+status: Proposed
+title: 'From the task-type split of Tatel''s meta-analysis, whose medical and dental tasks still lose accuracy with disuse at about half the pooled rate, the disuse premise of the claim on capabilities kept for rare events holds for real-world procedures at a lower and decelerating rate, which qualifies the claim and does not defeat it'
+version: 1
+form: evidence
+grounds:
+- THEORY-tmppzw1a
+- CASE-tmp4f2jr
+concludes:
+- CLAIM-558
+tags:
+- learning-and-conditioning
+- agency
+date: '2026-11-22'
+line:
+- readiness
+summary: >-
+  [CLAIM-558](../claims.d/CLAIM-558.md)'s first part takes Tatel's pooled rate, 0.08 SD a month for
+  accuracy, as the decay of a procedure seldom used. The pooled rate
+  averages laboratory tasks (0.16) and real-world tasks (about 0.05).
+  For medical and dental tasks, the nearest to the rare clinical
+  procedures the claim generalizes from, accuracy declines by 0.04 a
+  month over the full range (robust SE 0.012) and 0.12 within six months.
+  So the premise holds for the tasks the claim is about, at a lower rate
+  that falls with time, and the claim's own qualifier ("slower than the
+  meta-analysis estimates would qualify the claim, not defeat it")
+  applies. Sports and military or transport tasks show no measurable
+  decline, but only over a year at most, which the defeater excludes.
+  Proposed. The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call.
+---
+<!-- inactive-ok-file: THEORY-tmppzw1a CASE-tmp4f2jr — new or Unfetched; the reading and refit filed on 2026-11-22, and the unread article -->
+
+# ARG-tmpbjn5v: From the task-type split of Tatel's meta-analysis, whose medical and dental tasks still lose accuracy with disuse at about half the pooled rate, the disuse premise of the claim on capabilities kept for rare events holds for real-world procedures at a lower and decelerating rate, which qualifies the claim and does not defeat it
+
+## The inference
+
+1. [CLAIM-558](../claims.d/CLAIM-558.md), part 1: "A learned procedure with a motor component loses
+   performance with the time since it was last used", stated with the
+   pooled accuracy rate, "0.08 per month of infrequent use". Part 3
+   generalizes from "high acuity low occurrence (HALO) procedures" in
+   clinical practice.
+2. The pooled rate is an average over task types. Laboratory or
+   artificial tasks decline by 0.16 SD a month in accuracy, real-world
+   tasks by about 0.05 ([THEORY-tmppzw1a](../theory.d/THEORY-tmppzw1a.md)).
+3. Medical and dental tasks, the real-world domain closest to the claim's
+   clinical procedures, decline by 0.043 a month (robust SE 0.012, k = 249,
+   27 effect sizes beyond six months, up to 22 months), and by 0.12 within
+   six months ([CASE-tmp4f2jr](../cases.d/CASE-tmp4f2jr.md)). Mixed measures, which are mostly medical
+   and dental, decline by 0.045 (0.020).
+4. So for the procedures the claim is about, performance falls with time
+   since use, measurably, at about half the pooled rate over a year, and
+   faster in the first months.
+5. The claim's defeated_if: "A finding that decay is non-linear, or
+   slower than the meta-analysis estimates, would qualify the claim, not
+   defeat it." Step 4 is such a finding. Its first defeater asks for
+   studies "beyond a year" finding "no loss with time since use"; none of
+   the domains without a measurable decline has an effect size beyond 12
+   months.
+6. So part 1 stands, qualified: the rate is lower for real-world
+   procedures than the pooled figure, and it decelerates.
+
+## Critical questions
+
+- **Would the evidence be expected if the hypothesis were false?** If
+  real-world procedures did not decay with disuse, medical and dental
+  accuracy would show no slope; it shows one at about 3.5 robust SEs. The
+  sports and military or transport slopes are what a no-decay hypothesis
+  predicts, so for those domains the premise is unsupported by these data,
+  not shown false.
+- **Does it tell the hypothesis apart from its rivals?** A rival:
+  real-world tasks lose performance at once, after training, and then
+  hold. The intercepts fit it in part (medical and dental start at −0.52
+  against −0.13), and the deceleration fits it too. It would still leave
+  the claim's conclusion, since a capability that drops early and stays
+  down still needs practice outside operation. A second rival: the
+  laboratory–real-world difference is complexity, not realism; Tatel
+  cannot tell them apart (p. 129), and the claim needs neither.
+- **Does the measure measure what it is said to?** Effect sizes compare
+  acquisition with a retention test. "Infrequent use" is assumed, not
+  measured, in most studies ([NOTE-1560](../notes.d/NOTE-1560.md)), and real-world participants
+  may use the skill in the interval, which would make real-world decay
+  look slower than disuse alone. That bias runs against the claim's rate,
+  not its direction.
+
+## What it changes
+
+Where [CLAIM-558](../claims.d/CLAIM-558.md) or a later entry cites 0.08 SD a month for a rare
+real-world procedure, about 0.04 over a year, and faster in the first
+months, is the closer figure from the same meta-analysis. The claim's
+text and status are unchanged; whether to revise its wording is the
+owner's call.

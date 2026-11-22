@@ -28,6 +28,7 @@ summary: >-
   manifolds separable and fail at the readout.
 ---
 <!-- inactive-ok-file: CLAIM-029 THEORY-251 THEORY-264 — Proposed; the claims this reading bears on and the theories it files, open -->
+<!-- inactive-ok-file: TERM-136 THEORY-tmpwn1xp — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # NOTE-789: Kirsanov et al. — The Geometry of Prompting
 
@@ -198,3 +199,11 @@ same verdict on demonstrations against instructions by a causal method.
   accuracy, as C4 predicts?
 - Does instruction tuning change where an instruction acts?
 - Does the readout account cover order effects as well as example choice?
+
+## Note of 2026-11-22: Ansuini and colleagues, read
+
+Ansuini, Laio, Macke and Zoccolan ([LIT-2998](../literature.d/LIT-2998.md), [NOTE-tmptf55k](NOTE-tmptf55k.md), [THEORY-tmpwn1xp](../theory.d/THEORY-tmpwn1xp.md)): **a parallel.**
+Ansuini's §4 links its result to Chung, Lee and Sompolinsky's manifold
+capacity, the apparatus this reading applies to language models; here
+dimension is in the participation-ratio sense, there by TwoNN ([TERM-136](../terms.d/TERM-136.md)
+keeps the two apart). No relation.

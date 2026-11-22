@@ -1,0 +1,69 @@
+---
+status: Proposed
+title: 'The split-brain findings de Haan et al. restate, as evidence from a disconnected brain, show that access to one content can be compartmented within one agent, and leave open whether experience is'
+version: 1
+form: evidence
+grounds:
+- THEORY-tmpb3deq
+concludes:
+- CLAIM-003
+tags:
+- consciousness
+- cognition
+date: '2026-11-22'
+line:
+- organizational-affect
+summary: >-
+  Whether the split-brain review ([THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md), read in [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md))
+  supports [CLAIM-003](../claims.d/CLAIM-003.md). It supports the access half, in a disconnected
+  brain: a content's identity reaches some operations and not others
+  while detection and response stay unified, in what most of its authors
+  take to be one agent. It does not reach the experiential half, which
+  the authors hold undecided, and it is not the intact-brain recording
+  [QUESTION-061](../questions.d/QUESTION-061.md) asks for. The wording is the assistant's (Claude, in this
+  session); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-003 THEORY-tmpb3deq THEORY-096 — Proposed; the claim argued for, the reading it starts from and the rival account -->
+
+# ARG-tmpymket: The split-brain findings de Haan et al. restate, as evidence from a disconnected brain, show that access to one content can be compartmented within one agent, and leave open whether experience is
+
+## The inference
+
+[CLAIM-003](../claims.d/CLAIM-003.md) says that "access is compartmented in brains as in
+organizations", and is defeated by evidence that access "is uniform across
+subsystems whenever it occurs, so that compartmented access is always
+access by a different workspace". [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md) reports that after
+callosotomy the presence and location of a stimulus reach every response,
+while its identity reaches picture matching from one field and verbal
+labelling from the other, whatever the effector. If the patient is one
+agent, one content is accessed by some of that agent's consumers and not
+others: compartmented access within one agent.
+
+## Critical questions (evidence)
+
+- **Would the evidence be expected if the claim were false?** Yes, if each
+  hemisphere is its own workspace and agent: then compartmented access is
+  "access by a different workspace", which is exactly the claim's
+  defeater. The evidence discriminates only if the patient is one agent.
+  The review's authors do not settle that ("the body of evidence is
+  insufficient"), though detection, localisation and response selection
+  are unified, and patients behave as one person. So the support is
+  conditional on the one-agent reading.
+- **Does it tell the claim apart from its rivals?** Against [THEORY-096](../theory.d/THEORY-096.md)'s
+  uniform broadcast, partly: whichever reading holds, broadcast in the
+  split brain is not uniform for identity. But [THEORY-096](../theory.d/THEORY-096.md) is an account of
+  intact brains, and the review reads GNW as predicting two subjects here,
+  so the rival can absorb the case as two workspaces. It does not
+  discriminate in intact brains.
+- **Does the measure measure what it is said to?** It measures behavioural
+  availability to response types and operations, which is access in the
+  workspace sense. It does not measure experience, and post-perceptual
+  cognition is not removed, so it says nothing about the claim's
+  experiential half ("conscious experience can as well").
+
+## Verdict
+
+Supports the access half of [CLAIM-003](../claims.d/CLAIM-003.md), narrowed to a disconnected brain and
+conditional on the one-agent reading. Leaves the experiential half where it
+was. A recording of the kind [QUESTION-061](../questions.d/QUESTION-061.md) names, in an intact brain, would
+still be needed.

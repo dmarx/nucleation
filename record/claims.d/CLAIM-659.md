@@ -199,3 +199,18 @@ rests elsewhere). Nothing in it bears on whether individuality is *graded*;
 open) holds unchanged. A caution for the claim's defeater "do no regulatory
 work in any host": this paper shows repair/differentiation work in a mouse
 host, so it counts against that defeater for mice only.
+
+## Note of 2026-11-22: Peng et al. ([LIT-2462](../literature.d/LIT-2462.md)) read in full for [LEAD-051](../leads.d/LEAD-051.md)
+
+The paper behind [THEORY-1658](../theory.d/THEORY-1658.md) (already a ground of this claim) was read from
+the author manuscript via NCBI E-utilities ([NOTE-tmpeyhkz](../notes.d/NOTE-tmpeyhkz.md)). It supports the
+premise this claim leans on -- foreign-origin cells doing regulatory work in a
+host, established by intervention rather than coexistence -- now from the full
+text, not a press post: a defined maternal-cell subset is necessary for the
+offspring's tolerance, shown by conditional depletion. The paper's Discussion
+states the self/non-self point directly: individuals are "constitutively
+chimeric ... phenotypically distinct microchimeric cells that defy our current
+immunological framework defining antigens based on binary self versus non-self
+distinction". It leaves the gradedness-of-individuality conclusion untouched,
+as [ARG-090](../arguments.d/ARG-090.md) and this claim's own defeated_if already hold. No status change;
+the account already grounds the claim, so no new edge is written.

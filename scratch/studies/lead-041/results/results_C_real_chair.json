@@ -1,0 +1,221 @@
+{
+ "spec": "C",
+ "decision": "real",
+ "windows": "chair",
+ "n_quarters": 242,
+ "n_contested": 43,
+ "departure_rate_uncontested": 0.6149425287356322,
+ "departure_profile": [
+  0.3850574712643678,
+  0.28160919540229884,
+  0.3333333333333333
+ ],
+ "reference_course": {
+  "inflation": null,
+  "employment": null
+ },
+ "alternation": {
+  "observed": 3,
+  "null_mean": 3.112,
+  "p_more": 0.7884231536926147,
+  "p_fewer": 0.654690618762475
+ },
+ "persistence_resumption": {
+  "inflation": {
+   "longest_run": 0,
+   "resumptions": []
+  },
+  "employment": {
+   "longest_run": 0,
+   "resumptions": []
+  },
+  "inertia": {
+   "longest_run": 0,
+   "resumptions": []
+  }
+ },
+ "per_window": [
+  {
+   "window": "Martin",
+   "quarters": 16,
+   "contested": 0,
+   "wins": 0,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "no contest",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "Burns",
+   "quarters": 32,
+   "contested": 12,
+   "wins": 24,
+   "reversal": 0.292,
+   "p_ambivalence": 0.272,
+   "alignment": {
+    "inflation": 0.458,
+    "employment": 0.542,
+    "inertia": 0.333
+   },
+   "p_lead": 0.456,
+   "best_class": [
+    "cut > hike > hold"
+   ],
+   "by_context": {
+    "normal": [
+     "cut > hike > hold"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "employment",
+   "sign": null
+  },
+  {
+   "window": "Miller",
+   "quarters": 5,
+   "contested": 0,
+   "wins": 0,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "no contest",
+   "leading": null,
+   "sign": null
+  },
+  {
+   "window": "Volcker",
+   "quarters": 32,
+   "contested": 10,
+   "wins": 20,
+   "reversal": 0.35,
+   "p_ambivalence": 0.581,
+   "alignment": {
+    "inflation": 0.6,
+    "employment": 0.4,
+    "inertia": 0.45
+   },
+   "p_lead": 0.351,
+   "best_class": [
+    "hike > cut > hold"
+   ],
+   "by_context": {
+    "normal": [
+     "hike > cut > hold"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "inflation",
+   "sign": null
+  },
+  {
+   "window": "Greenspan",
+   "quarters": 74,
+   "contested": 8,
+   "wins": 16,
+   "reversal": 0.375,
+   "p_ambivalence": 0.626,
+   "alignment": {
+    "inflation": 0.375,
+    "employment": 0.625,
+    "inertia": 0.5
+   },
+   "p_lead": 0.393,
+   "best_class": [
+    "cut > hike > hold",
+    "cut > hold > hike"
+   ],
+   "by_context": {
+    "normal": [
+     "cut > hike > hold",
+     "cut > hold > hike"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "employment",
+   "sign": null
+  },
+  {
+   "window": "Bernanke",
+   "quarters": 32,
+   "contested": 7,
+   "wins": 9,
+   "reversal": 0.222,
+   "p_ambivalence": 0.915,
+   "alignment": {
+    "inflation": 0.222,
+    "employment": 0.778,
+    "inertia": 0.556
+   },
+   "p_lead": 0.144,
+   "best_class": [
+    "cut > hold > hike"
+   ],
+   "by_context": {
+    "normal": [
+     "cut > hike > hold",
+     "cut > hold > hike"
+    ],
+    "zlb": [
+     "cut > hold > hike",
+     "hold > cut > hike",
+     "hold > hike > cut"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "employment",
+   "sign": null
+  },
+  {
+   "window": "Yellen",
+   "quarters": 16,
+   "contested": 5,
+   "wins": 5,
+   "reversal": 0.4,
+   "p_ambivalence": 0.612,
+   "alignment": {
+    "inflation": 0.6,
+    "employment": 0.4,
+    "inertia": 0.4
+   },
+   "p_lead": 0.328,
+   "best_class": [
+    "cut > hike > hold",
+    "hike > cut > hold",
+    "hike > hold > cut"
+   ],
+   "by_context": {
+    "zlb": [
+     "cut > hike > hold",
+     "hike > cut > hold",
+     "hike > hold > cut"
+    ]
+   },
+   "verdict": "indeterminate",
+   "leading": "inflation",
+   "sign": null
+  },
+  {
+   "window": "Powell",
+   "quarters": 35,
+   "contested": 1,
+   "wins": 2,
+   "reversal": null,
+   "p_ambivalence": null,
+   "alignment": {},
+   "p_lead": null,
+   "best_class": [],
+   "by_context": {},
+   "verdict": "too few contests",
+   "leading": null,
+   "sign": null
+  }
+ ]
+}

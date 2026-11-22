@@ -1,0 +1,26 @@
+work	doi	found_by	C1_objective_threat	C2_intervention_on_authority_or_access	C3_represented_threat	C4_approach_or_avoidance	verdict	reason
+Sridhar, Biagi & Wake 2026	10.1016/j.brat.2026.105088	Q5,Q9	y	partial: instruction to withhold avoidance and test expectancy	measured, unchanged between groups (not fixed by design)	y	nearest (read, LIT-tmpiezdi)	threat not held fixed by design; instruction is a request, not a change of authority; avoidance effect non-significant (p=.230; exploratory p=.066)
+Vestring et al. 2026	10.1038/s43856-026-01998-5	Q2	y (experimenter-set attack probability, learned)	partial: ketamine / lorazepam on approach-avoidance arbitration	not measured	y	nearest (read, LIT-tmpxug14)	represented threat not measured, so belief and weight cannot be separated; no evidence-access structure; control session always first
+Korn et al. 2017	10.1016/j.biopsych.2017.01.018	worker's prior knowledge, checked on Crossref (Q8 failed with HTTP 503)	y	partial: lorazepam; amygdala lesions	not known until read	y	nearest (Deferred, LIT-tmpulxb9)	same task as Vestring; whether represented threat is measured is unread
+Pittig & Wong 2021	10.1016/j.brat.2020.103797	cited by Sridhar et al.	y	partial: incentive, instruction and observation to drop avoidance	measured (per Sridhar's account)	y	nearest (Deferred, LIT-tmpi1fyv)	unread; designed to test effects on fear extinction, i.e. on belief, not to hold it fixed
+Pittig et al. 2021	10.1002/da.23119	Q3,Q5	y	partial: competing rewards for approach (cost of defence)	measured (threat expectancy, arousal)	y	nearest (Deferred, LIT-tmppvr66)	patient-control comparison; avoidance not linked to conditioned fear, but belief not fixed and authority not manipulated
+Vervliet & Indekeu 2015	10.3389/fnbeh.2015.00351	Q4 (3 flags)	y	evidence access: response prevention during extinction	measured (online danger ratings), changed by extinction	y	nearest (Deferred, LIT-tmpgnizl)	belief-correction arm only: avoidance returns after belief falls; no authority intervention
+Leissner, Benke & Melzig 2026	10.1016/j.brat.2026.105186	Q4,Q5	y (restricted breathing)	evidence access: response prevention	measured	y	nearest (Deferred, LIT-tmp8xv0w)	avoidance persists despite contingency awareness; no authority intervention
+Wong et al. 2022 (dimensional safety behaviour)	10.1007/s00426-021-01490-w	Q3,Q5	y	partial: incentive for non-avoidance	measured; incentive allowed belief updating	y	nearest, not registered	incentive lowers safety behaviour and so changes belief; belief not fixed
+Rattel et al. 2017	10.1016/j.brat.2016.12.010	Q3	y	partial: avoidance cost (detour length) between groups	measured; changed via avoidance	y	nearest, not registered	cost moves avoidance which then moves expectancy; belief not fixed
+Klein et al. 2021	10.1016/j.brat.2020.103765	Q4,Q5	y	evidence access: response prevention	measured	y	excluded	avoidance-belief dissociation by stimulus, no intervention on authority
+Dymond et al. 2012	10.1371/journal.pone.0047539	Q1,Q5	y	n (pathway of acquisition varied)	measured	y	excluded	varies how avoidance is acquired, not its authority
+Cameron et al. 2015	10.3389/fnbeh.2015.00159	Q1,Q5,Q9	y	n (instructed vs observed acquisition)	measured	y	excluded	acquisition pathway, generalization
+Cameron et al. 2016	10.1016/j.jbtep.2015.06.003	Q1	y	n (acquisition pathway)	measured	y	excluded	acquisition pathway
+Bach et al. 2014	10.1016/j.cub.2014.01.046	Q2 (3 flags)	y	partial: hippocampal lesions	not measured	y	excluded (background to Vestring, Korn)	lesion vs control group, threat belief not measured
+Bach 2015	10.1371/journal.pcbi.1004646	Q2	n/a (model)	n	n	y	excluded	normative model, no intervention
+Abivardi et al. 2020	10.1523/jneurosci.2732-19.2020	Q2	y	n (fMRI)	n	y	excluded	imaging, no intervention
+Wake et al. 2021 (and PsyArXiv version)	10.1016/j.brat.2021.103967	Q3	y	evidence access: response prevention	measured	y	excluded	individual differences, no authority intervention
+Lemmens et al. 2022	10.1111/ejn.15155	Q5 (3 flags)	y	n (stress induction, contingency reversal)	measured	y	excluded	stress moves expectancy updating, not authority with belief fixed
+Hendrikx et al. 2021	10.1016/j.jbtep.2020.101601	Q4	y	partial: counterconditioning during response prevention	distress measured	y	excluded	targets fear (valence), not authority
+Dymond et al. 2025	10.1016/j.bbr.2024.115299	Q4	y	partial: response effort, unavoidable shock	measured	y	excluded	extinction procedure changes belief
+Nadinda et al. 2025	10.1097/psy.0000000000001418	Q3	y (itch)	n: expectancy manipulated	manipulated (the variable moved, not fixed)	y	excluded	moves belief, the converse of the lead's design
+Alcan et al. 2026	10.1016/j.brat.2026.105012	Q4	y	evidence access: response prevention	measured	y	excluded	observational acquisition, no authority intervention
+Raeder et al. 2019	10.3389/fpsyg.2019.01191	Q1	y	partial: self-efficacy manipulated	measured	n (fear learning)	excluded	no avoidance outcome
+Constantinou et al. 2021	PMC7689577	Q5,Q9	y	n	measured	n	excluded	measurement study
+Brom 2014; Dretsch 2016; Traxler 2019; Karos 2020; Deryugina 2019; Jessup 2025	various	Q3,Q5,Q9	mixed	n	mixed	mixed	excluded	off-topic keyword matches (sexual conditioning, PTSD imaging, pain, air pollution, imagery exposure)

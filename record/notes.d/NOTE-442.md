@@ -241,3 +241,13 @@ adding nothing to well-being only with intrinsic attainment in the same model
 (β = .00 on well-being, .38 on ill-being). On its own extrinsic attainment
 correlates positively with well-being (mean r = .19) and with need
 satisfaction (.18).
+
+## Note of 2026-11-22: Howard, Gagné and Bureau, read
+
+**The definition meets its measurement**, no edge ([LIT-1996](../literature.d/LIT-1996.md), [NOTE-tmp3k6if](NOTE-tmp3k6if.md)).
+Integrated regulation, identified regulations "fully assimilated to the
+self" here, is the construct the meta-analysis finds "practically
+indistinguishable from identified regulation" (p. 28). It answers this
+note's open question, whether it can be measured apart, in the negative for
+the scales to 2016; the authors ask for the theory to drop it or for new
+measures.

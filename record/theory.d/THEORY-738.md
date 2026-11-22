@@ -46,6 +46,7 @@ bears_on:
 - QUESTION-202
 ---
 <!-- inactive-ok-file: THEORY-286 — Proposed; the account this core was split from and that extends it, cited as open -->
+<!-- inactive-ok-file: LIT-tmp9yy1o LIT-tmpgptvp — Proposed, new or Deferred; filed on 2026-11-21 from the readings of that day -->
 
 # THEORY-738: In the unconstrained-features max-margin problem with k classes under step imbalance and feature dimension at least k − 1, the unique optimal logits are the simplex-encoded labels, every margin equals one, and the classifier and embedding Gram matrices are the two square-root factors of that matrix's singular value decomposition; the geometry is the simplex equiangular tight frame exactly when the classes are balanced or there are two of them
 
@@ -112,3 +113,12 @@ then be beaten.
 - **Not for class sizes other than a step.** The certificate works
   whenever M's off-diagonal entries are negative; only the step case is
   checked here.
+
+## Note of 2026-11-21: Xu, read
+
+A parallel ([NOTE-tmp454fw](../notes.d/NOTE-tmp454fw.md)): Xu's suggested training origin for the
+unembedding's bottom band, after Thrampoulidis ([LIT-tmp9yy1o](../literature.d/LIT-tmp9yy1o.md)) and Zhao et
+al. ([LIT-tmpgptvp](../literature.d/LIT-tmpgptvp.md)), is an implicit-geometry result of the same family as
+this one, the odds among plausible next tokens staying finite while their
+separation from the rest grows in norm. Untested by Xu. No relation
+written.

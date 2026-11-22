@@ -24,6 +24,7 @@ advances:
 - CLAIM-697
 operationalized_in:
 - CASE-275
+- CASE-tmp2zo3t
 summary: >-
   Named in [CASE-275](../cases.d/CASE-275.md). Filed by the backlog audit of 2026-11-19.
 ---
@@ -47,3 +48,22 @@ Where the record names it:
 
 A recoverable behaviour supports [CLAIM-697](../claims.d/CLAIM-697.md)'s distinction in this setting;
 none recoverable counts against it.
+
+## Note of 2026-11-22: run at toy scale
+<!-- inactive-ok-file: CASE-tmp2zo3t CLAIM-tmp4223o — new; the executed study and its finding, filed by this run -->
+
+Run by a delegated lead worker at toy scale on CPU, as [CASE-tmp2zo3t](../cases.d/CASE-tmp2zo3t.md): a
+two-layer numpy network (no transformer; PyTorch was not installed) taught
+one arbitrary relabelling of 24 symbols under ordinary contexts and another
+under a trigger token, then fine-tuned in seven ways, against a control that
+never learned the triggered map. Code, results and a rerun recipe are under
+scratch/studies/lead-082/. By this lead's criterion the behaviour is
+recoverable: every fine-tune that showed the trigger silenced it, yet
+gate-only retraining or one fitted vector brought it back on symbols never
+retrained, which the control never did. But sampling and brief full
+retraining recovered almost none, so the verdict depends on which "light
+tuning" is declared; [CASE-tmp2zo3t](../cases.d/CASE-tmp2zo3t.md) files the two readings as alternatives
+for the owner, and [CLAIM-tmp4223o](../claims.d/CLAIM-tmp4223o.md) states the finding. What remains is the
+LM-scale version the CASE describes: a transformer, a natural trigger and
+behaviour, RL or SFT safety training, and red-team prompts without the
+true trigger. No code is shared with [LEAD-043](LEAD-043.md).

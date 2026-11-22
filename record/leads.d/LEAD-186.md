@@ -44,3 +44,15 @@ Where the record names it:
 
 A LoRA that transfers weakens [CLAIM-647](../claims.d/CLAIM-647.md)'s premise that stored adaptations
 erode with the base; one that does not supports it and lets [ARG-079](../arguments.d/ARG-079.md) move.
+
+## Note of 2026-11-22: the reading already held, as [NOTE-1722](../notes.d/NOTE-1722.md)
+
+The lead audit of this date found the reading half already done.
+[NOTE-1722](../notes.d/NOTE-1722.md) (Read, dated 2026-11-12) reads the IP-Adapter paper
+(arXiv 2308.06721) in full, abstract, §§1–5 and Table 1, and finds that
+the abstract's "not compatible with other base models" concerns transfer
+between fine-tunes of one base, not to a successor base, so [CLAIM-647](../claims.d/CLAIM-647.md)
+carries less than it cited the paper for. The curation entry of
+2026-11-12 (015626) that called the reading owed was overtaken the same
+day. The LoRA transfer test is not held. No status or stage is changed
+here.

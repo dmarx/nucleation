@@ -121,3 +121,14 @@ is unchanged: no generative model with felt and unfelt fluency as variables
 has been built, and none has predicted a new reversal that an experiment then
 found. A split into what Brouillet and Friston propose would still free
 neither [CLAIM-337](../claims.d/CLAIM-337.md) nor [CLAIM-439](../claims.d/CLAIM-439.md).
+
+## Note of 2026-11-22: Dorsch, Coeckelbergh and Vierkant, read
+
+A **parallel**, no edge ([LIT-2373](../literature.d/LIT-2373.md), [NOTE-tmpdb4eb](../notes.d/NOTE-tmpdb4eb.md)). Dorsch and colleagues'
+epistemic-luck argument rests on the premise that "no phenomenological
+difference exists" between metacognitive feelings from reliable processes
+and from systemic biases, so that users "remain reflectively unable to
+determine whether the underlying process tracks truth" (p. 14). This
+account's fluency, an inference whose cause "is internal and not given to
+introspection", is the cognitive-side reason that premise would hold. The
+paper does not cite it.

@@ -1,0 +1,23 @@
+Hand-check of the classifier (LEAD-199)
+
+Round 1: 20 changes drawn at random (seed 7) from the classifier's first version,
+non-mechanical, non-creation changes. 16 non-substantive: 16 correct.
+4 substantive: 0 correct by intent (3 were the 289-file sweep that back-filled
+the then-new required `warrant` field; 1 was a sweep adding "(TERM-008)" cites
+to bodies). Fixes: absent->present role/warrant is a schema backfill, not a
+revision; codes are masked and parentheses holding only citations dropped
+before comparing text. Effect: substantive changes 1192 -> 835.
+
+Round 2 (final classifier), stratified: 10 substantive (seed 2026), 10 non-substantive (seed 2027).
+ handcheck_substantive.txt / handcheck_nonsubstantive.txt hold the diffs.
+ Non-substantive: 10/10 correct (inactive-ok comments, dated notes, warrant
+   backfill, relation adds/removes, a status change with history entry).
+ Substantive: 7/10 clearly correct (title narrowed, defeater restated,
+   stale text corrected, WIP review changes).
+   2/10 are the ADR-070 vocabulary sweep ("endorsement" -> "conferral"):
+   correct by the letter (title/body wording changed) but the history says
+   "the content is unchanged" -- a convention rewrite, i.e. contraction.
+   1/10 borderline: body gained a sentence naming the proposed study case
+   (a citation in prose; not a change to what the claim says).
+ Estimated precision of "substantive" ~0.7 by intent (0.9 by the letter);
+ non-substantive error not observed in 10 (upper 95% ~0.26 by rule of three).

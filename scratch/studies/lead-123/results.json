@@ -1,0 +1,143 @@
+{
+  "full_graph": {
+    "wins": [
+      [
+        "W",
+        "R",
+        "1"
+      ],
+      [
+        "S",
+        "W",
+        "1"
+      ],
+      [
+        "R",
+        "S",
+        "1"
+      ]
+    ],
+    "has_potential": false,
+    "nonintegrability": 0.3333333333333333
+  },
+  "chair_control": {
+    "R-W": "R",
+    "S-W": "W",
+    "R-S": "S"
+  },
+  "agenda_order": {
+    "WRS": {
+      "winner": "S",
+      "recorded_pairs": [
+        "RW",
+        "SW"
+      ]
+    },
+    "WSR": {
+      "winner": "R",
+      "recorded_pairs": [
+        "SW",
+        "RS"
+      ]
+    },
+    "RWS": {
+      "winner": "S",
+      "recorded_pairs": [
+        "RW",
+        "SW"
+      ]
+    },
+    "RSW": {
+      "winner": "W",
+      "recorded_pairs": [
+        "RS",
+        "RW"
+      ]
+    },
+    "SWR": {
+      "winner": "R",
+      "recorded_pairs": [
+        "SW",
+        "RS"
+      ]
+    },
+    "SRW": {
+      "winner": "W",
+      "recorded_pairs": [
+        "RS",
+        "RW"
+      ]
+    }
+  },
+  "legibility_filter": {
+    "suppress_RW": {
+      "winner_counts": {
+        "R": 2000
+      },
+      "fraction_coherent": 1.0
+    },
+    "suppress_SW": {
+      "winner_counts": {
+        "W": 2000
+      },
+      "fraction_coherent": 1.0
+    },
+    "suppress_RS": {
+      "winner_counts": {
+        "S": 2000
+      },
+      "fraction_coherent": 1.0
+    }
+  },
+  "challenge_channel": {
+    "suppressed_pair": "RS",
+    "sweep": [
+      {
+        "legibility": 0.0,
+        "fraction_coherent": 1.0,
+        "mean_nonintegrability": 0.0
+      },
+      {
+        "legibility": 0.1,
+        "fraction_coherent": 0.9015,
+        "mean_nonintegrability": 0.03283333333333317
+      },
+      {
+        "legibility": 0.25,
+        "fraction_coherent": 0.74975,
+        "mean_nonintegrability": 0.08341666666666629
+      },
+      {
+        "legibility": 0.5,
+        "fraction_coherent": 0.4975,
+        "mean_nonintegrability": 0.16750000000000156
+      },
+      {
+        "legibility": 0.75,
+        "fraction_coherent": 0.2545,
+        "mean_nonintegrability": 0.24850000000001077
+      },
+      {
+        "legibility": 1.0,
+        "fraction_coherent": 0.0,
+        "mean_nonintegrability": 0.3333333333333273
+      }
+    ]
+  },
+  "persistence": {
+    "maintained_exclusion": {
+      "all_windows_coherent": true,
+      "distinct_winners": [
+        "S"
+      ],
+      "persistent": true
+    },
+    "intermittent_admission": {
+      "all_windows_coherent": false,
+      "distinct_winners": [
+        "S"
+      ],
+      "persistent": false
+    }
+  }
+}

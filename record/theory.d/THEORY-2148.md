@@ -34,6 +34,7 @@ summary: >-
   Benaych-Georges and Nadakuditi, which this paper corroborates
   ([ARG-145](../arguments.d/ARG-145.md)). Proposed until a second reading confirms it.
 ---
+<!-- inactive-ok-file: THEORY-tmpmoyol — new; the reading of Takeuchi and Sano, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2149 ARG-145 — Proposed; the neighbouring reading and the argument of 2026-11-21 -->
 
 # THEORY-2148: Baik, Ben Arous and Péché prove that for complex Gaussian samples whose population covariance is the identity but for finitely many eigenvalues, with at least as many samples as variables, the largest sample eigenvalue leaves the bulk edge if and only if some population eigenvalue exceeds 1 + √(N/M), converging then to a stated outlier with fluctuations of order M^(-1/2) instead of the edge's Tracy-Widom M^(-2/3)
@@ -71,3 +72,14 @@ M^(−1/3) in ℓ (Theorem 1.2).
 - Not that the transition is a phase transition of the population or of
   any learner: it is a transition in the law of an estimator's top
   eigenvalue.
+
+## Note of 2026-11-22: Takeuchi and Sano, read
+
+**Background, no edge.** The GUE Tracy-Widom law this theorem gives at
+the edge of a sample covariance spectrum, fluctuations of order
+M^(−2/3) below the threshold, turns up in a growing interface: Takeuchi
+and Sano ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md); [THEORY-tmpmoyol](THEORY-tmpmoyol.md)) find the local radius
+of a curved turbulent front distributed as GUE TW, skewness about 0.2241
+and kurtosis about 0.09345, with GOE for flat fronts (p. 3). The same
+distribution, from a different object; nothing here bears on the
+threshold or the outlier this theorem proves.

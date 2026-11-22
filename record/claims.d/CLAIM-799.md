@@ -4,7 +4,30 @@ status: Proposed
 formerly:
 - CLAIM-tmp5y856
 title: 'Geometric separation, decodability and spectral detectability are distinct qualities of a learned representation that need not agree: a semantic direction can be decodable while related points are almost orthogonal, and a covariance spike yields a PCA outlier only above the BBP threshold √(D/N), which marks when that estimator can see the signal, not when the network acquired it'
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    After the readings of LIT-2983 (NOTE-tmpdac0o, THEORY-tmpcij35) and
+    LIT-2990 (NOTE-tmpzethm, THEORY-tmphbp5a). The sentence saying the
+    ledger could not verify the 2026 preprint's identifier is removed: the
+    arXiv API confirms 2606.28486 and its authors. Two qualifications are
+    added in place: learned structure can show spectrally as a reshaped
+    bulk, not only as an outlier crossing a threshold (Dandi and
+    colleagues); and the signal is in the weights before the outlier
+    appears (Park and colleagues). The two LITs are replaced in the
+    grounds by their readings (ARG-tmp2mzk1, ARG-tmps8aog). The thesis and
+    status are unchanged.
+- version: 3
+  date: '2026-11-22'
+  note: >-
+    After the reading of LIT-2984 (NOTE-tmpa8a45, THEORY-tmp9ltxi). Wang,
+    Wu and Fan's trained two-layer network is added in place as a third
+    case of signal before outlier, with a caveat: it shows the separation
+    on the spectral side only. The sentence calling the work unread is
+    updated, and LIT-2984 is replaced in the grounds by its reading
+    (ARG-tmppbt1o). The thesis and status are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -25,9 +48,9 @@ bears_on:
 - QUESTION-515
 grounds:
 - CASE-301
-- LIT-2984
-- LIT-2983
-- LIT-2990
+- THEORY-tmp9ltxi
+- THEORY-tmpcij35
+- THEORY-tmphbp5a
 - THEORY-2149
 - THEORY-2153
 summary: >-
@@ -41,8 +64,10 @@ summary: >-
   the exchange "Rich Get Richer Power Laws", A31 and A32); adopting it is
   the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpcij35 THEORY-tmphbp5a ARG-tmp2mzk1 ARG-tmps8aog CLAIM-837 TERM-tmpf5ymd LIT-tmp4kae5 LIT-tmph5ano LIT-tmp810d2 — Proposed, Deferred or new; the readings of 2026-11-22, their arguments and the works registered from them -->
 <!-- inactive-ok-file: THEORY-2148 THEORY-2149 THEORY-2153 THEORY-2152 ARG-145 ARG-151 ARG-143 — Proposed; the readings and arguments of 2026-11-21 -->
-<!-- inactive-ok-file: CASE-301 CLAIM-827 CLAIM-804 LIT-2984 LIT-2983 LIT-2990 THEORY-078 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: CASE-301 CLAIM-827 CLAIM-804 THEORY-078 — new and Proposed, filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21; Deferred works registered from that exchange and not read; Proposed entries the record already held, cited for context -->
+<!-- inactive-ok-file: ARG-tmppbt1o THEORY-tmp9ltxi — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-799: Geometric separation, decodability and spectral detectability are distinct qualities of a learned representation that need not agree: a semantic direction can be decodable while related points are almost orthogonal, and a covariance spike yields a PCA outlier only above the BBP threshold √(D/N), which marks when that estimator can see the signal, not when the network acquired it
 
@@ -90,8 +115,38 @@ A32 §6 cites work tying learned features to spiked random-matrix models
 preprint on spectral phase transitions in training, [LIT-2990](../literature.d/LIT-2990.md)): "the
 spectral perspective is not merely an analogy. But they don't establish that
 DNN representations generally behave as active matter, or that their learning
-dynamics are critical." All three are registered and unread, and the ledger
-could not verify the 2026 preprint's identifier offline.
+dynamics are critical." All three were read on 2026-11-22 (Wang, Wu and
+Fan as [THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md); [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md), [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)), and the arXiv API confirms the 2026
+preprint as 2606.28486, by Park, Bocchi, D'Amico, Lucini and Aarts.
+
+**Two qualifications** (added 2026-11-22, version 2):
+
+- **Spectral detectability is not the only spectral signature.** After one
+  maximal-update step, Dandi and colleagues find learning in the feature
+  covariance chiefly as a reshaped bulk, "a wider support and longer
+  tails", beside outliers from the feature means ([THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md),
+  [ARG-tmp2mzk1](../arguments.d/ARG-tmp2mzk1.md)). So "spectral detectability" in the table means an outlier
+  separating from the bulk; a direction below that threshold may still
+  leave a mark on the bulk's shape (the bulk by count, [TERM-tmpf5ymd](../terms.d/TERM-tmpf5ymd.md)).
+- **The signal is in the weights before the outlier.** In Park and
+  colleagues' solvable teacher–student model the teacher is in the weights
+  from the first step and the student converges for every step size below
+  one, while the weight spectrum's outlier appears only at a critical time
+  ([THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md), [ARG-tmps8aog](../arguments.d/ARG-tmps8aog.md)): a second instance of this claim's
+  separation, with the weight matrix's own spectrum as the estimator.
+
+**A third case** (added 2026-11-22, version 3):
+
+- **Two thresholds in series.** In Wang, Wu and Fan's two-layer network
+  after a few gradient steps, the rank-one weight update exists for any
+  step size η > 0; the weights' top singular value separates from the bulk
+  only if θ1 > γ0^(1/4) (Proposition 35); and the test-data conjugate
+  kernel's outlier needs, in addition, z′(−1/λ1) > 0 (Theorem 5)
+  ([THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md), [ARG-tmppbt1o](../arguments.d/ARG-tmppbt1o.md)). At random weights, depth adds a BBP-type
+  test per layer. The caveat: the paper proves the spectral side only. Its
+  "the input signal diminishes as the depth of the NN increases" is about
+  outliers and their alignment, not about decodability; what an absorbed
+  spike leaves for a readout is not studied.
 
 ## What the record holds
 
@@ -135,3 +190,56 @@ and **qualifies the attribution**.
 [LIT-2986](../literature.d/LIT-2986.md) leaves `grounds` ([ARG-145](../arguments.d/ARG-145.md)), and [THEORY-2149](../theory.d/THEORY-2149.md) and
 [THEORY-2153](../theory.d/THEORY-2153.md) join it ([ARG-151](../arguments.d/ARG-151.md), [ARG-143](../arguments.d/ARG-143.md)); [THEORY-2148](../theory.d/THEORY-2148.md) and
 [THEORY-2152](../theory.d/THEORY-2152.md) corroborate. The claim's content is unchanged.
+
+## Note of 2026-11-22: Dandi and colleagues, read
+
+Dandi, Pesce, Cui, Krzakala, Lu and Loureiro ([LIT-2983](../literature.d/LIT-2983.md)) were read
+([NOTE-tmpdac0o](../notes.d/NOTE-tmpdac0o.md); the reading is [THEORY-tmpcij35](../theory.d/THEORY-tmpcij35.md)). **Supports A32 §6's narrow
+point and qualifies the claim** ([ARG-tmp2mzk1](../arguments.d/ARG-tmp2mzk1.md)). Lemma 3.1 proves, for one
+maximal-update step on Gaussian single-index data, that "the hidden layer
+weights after one GD step are approximately low rank", W¹ ≈ W⁰ + u(w⋆)ᵀ: the
+spiked picture is a theorem there, not an analogy. The spike is in the
+weights; in the features the headline is a bulk "modified from the
+unspiked RF spectrum", with Θ(d) outliers "arising from the means", and the
+test error depends on the whole deterministic equivalent. The paper has no
+BBP threshold or detectability transition, and its outliers are far above
+any. It says nothing of active matter or criticality, which fits A32's
+"don't establish". Moniri and colleagues' finitely many spikes beside an
+unchanged bulk at smaller steps ([LIT-tmp4kae5](../literature.d/LIT-tmp4kae5.md), registered) are the regime
+in which this claim's outlier picture is closest to the whole story.
+
+## Note of 2026-11-22: Park and colleagues, read
+
+Park, Bocchi, D'Amico, Lucini and Aarts ([LIT-2990](../literature.d/LIT-2990.md)) were read
+([NOTE-tmpzethm](../notes.d/NOTE-tmpzethm.md); the reading is [THEORY-tmphbp5a](../theory.d/THEORY-tmphbp5a.md)). **Supports, from inside
+the work, and shows the conflation the claim warns against**
+([ARG-tmps8aog](../arguments.d/ARG-tmps8aog.md)). In the linear model W(t) = (1−ε)^t W(0) + (1−(1−ε)^t)W*, "the
+optimisation always converges to the correct ground state", yet the
+outlier appears only at t_c: "the signal existed below the threshold". The
+paper nonetheless says "the emergence of informative representations is
+then realised by isolated eigenvalues detaching from the random spectral
+bulk", reading the spectral event as the learning event; by its own caveat
+the boundary εc "is associated with a spectral phase transition" and εo "is
+an optimisation threshold". On "critical": the outlook speaks of "the
+notion of criticality arising during optimisation itself", but what is
+shown is a BBP threshold, and "the precise universality class of the
+transition in practical deep learning systems remains unclear", so A32's
+"don't establish ... critical" is fair in the thermodynamic sense. Prior
+work it cites on the same event is registered: Coeurdoux, Ferré and
+Bouchaud's transient BBP ([LIT-tmph5ano](../literature.d/LIT-tmph5ano.md)) and Ben Arous and colleagues'
+spectral alignment of SGD ([LIT-tmp810d2](../literature.d/LIT-tmp810d2.md)). [CLAIM-837](CLAIM-837.md) makes the parallel
+point for sample PCA.
+
+## Note of 2026-11-22: Wang, Wu and Fan, read
+
+Wang, Wu and Fan ([LIT-2984](../literature.d/LIT-2984.md)) were read ([NOTE-tmpa8a45](../notes.d/NOTE-tmpa8a45.md); the reading is
+[THEORY-tmp9ltxi](../theory.d/THEORY-tmp9ltxi.md)). **Supports, a third case of signal before outlier, on
+the spectral side only** ([ARG-tmppbt1o](../arguments.d/ARG-tmppbt1o.md); the change of version 3 above).
+A32 §6's "the spectral perspective is not merely an analogy" is fair for
+this paper: Theorem 5 proves a label-aligned outlier in the test-data
+kernel of trained weights. Its "phase transition" is the BBP outlier
+criterion, applied layer by layer: spikes failing it "are absorbed into the
+bulk spectrum". Nothing on active matter, criticality, or dynamics beyond a
+few steps, which fits "don't establish". Its regime, η of order one, is the
+one in which learning shows as one outlier beside an unchanged bulk, the
+regime the Dandi note above calls closest to this claim's outlier picture.

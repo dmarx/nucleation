@@ -1,0 +1,62 @@
+---
+status: Deferred
+status_note: >-
+  registered 2026-11-22, not read. Cassi's proof that on fractal and
+  disordered lattices of spectral dimension at most 2 there is no
+  spontaneous magnetization at finite temperature for O(n) and
+  ferromagnetic Heisenberg models: the graph version of the
+  Mermin–Wagner theorem that [CLAIM-842](../claims.d/CLAIM-842.md) supposes, known to the record only
+  through Gelfert and Nolting ([LIT-tmpbgf6y](LIT-tmpbgf6y.md)). No reading was attempted;
+  a lawful copy has not been sought.
+title: 'Absence of spontaneous symmetry breaking on fractal lattices with d̃⩽2'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered, not read, from Gelfert and Nolting (LIT-tmpbgf6y,
+    reference [47], "Cassi, D.: Physica A 191 (1992) 549-553"), read as a
+    stand-in for Mermin and Wagner (LIT-2985). Identifier checked on
+    Crossref on 2026-11-22 by a bibliographic query, no email address
+    sent: Davide Cassi, Physica A: Statistical Mechanics and its
+    Applications 191, 549–553, issued December 1992, DOI
+    10.1016/0378-4371(92)90581-A; Crossref gives no day, so the date is
+    the first of the month. Not held: no hit for the DOI or the title in
+    record/literature.d (LIT-028 is a 2025 paper with Cassi among its
+    authors).
+tags:
+- natural-sciences
+- mathematics
+date: '2026-11-22'
+published: '1992-12-01'
+doi: '10.1016/0378-4371(92)90581-A'
+first_author: 'Cassi'
+keywords: []
+implementations: []
+summary: >-
+  Cassi (1992), Absence of spontaneous symmetry breaking on fractal
+  lattices with d̃ ⩽ 2, Physica A 191, 549–553, DOI
+  10.1016/0378-4371(92)90581-A. As Gelfert and Nolting report it:
+  applying Hattori, Hattori and Watanabe's Gaussian field theory on
+  general networks, no spontaneous magnetization exists at finite
+  temperature for the classical O(n) and the ferromagnetic quantum
+  Heisenberg model on fractal and disordered lattices whose spectral
+  dimension is at most 2, from the infrared divergences of the
+  corresponding Gaussian models. Here for [CLAIM-842](../claims.d/CLAIM-842.md). Unverified until
+  read.
+---
+<!-- inactive-ok-file: ARG-tmpx5evn — Proposed; the argument on the claim this work bears on -->
+<!-- inactive-ok-file: LIT-2985 — Unavailable; Mermin and Wagner -->
+<!-- inactive-ok-file: CLAIM-842 — Proposed; the claim this work's theorem bears on -->
+
+# LIT-tmpu2kk5: Absence of spontaneous symmetry breaking on fractal lattices with d̃⩽2
+
+Cassi (1992). Physica A 191, 549–553. DOI 10.1016/0378-4371(92)90581-A.
+
+## Standing in the record
+
+Registered on 2026-11-22 from Gelfert and Nolting ([LIT-tmpbgf6y](LIT-tmpbgf6y.md)), read as
+a stand-in for Mermin and Wagner ([LIT-2985](LIT-2985.md)). It is the theorem [CLAIM-842](../claims.d/CLAIM-842.md)'s
+d_s ≤ 2 criterion is a case of, for spin models with a continuous
+symmetry in equilibrium; the record knows it only at second hand
+([ARG-tmpx5evn](../arguments.d/ARG-tmpx5evn.md)). Not read.

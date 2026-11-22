@@ -198,6 +198,13 @@ Bare codes only. Never write a link target, and do not run `luria repair`,
   step. It never writes to the record, never commits a downloaded text,
   and never force-pushes. When the reading is filed, remove the worktree
   and delete the branch, locally and on the remote.
+- **Parallel workers in one working tree** (ADR-tmp9sp9d). Drafters and
+  filers share the filing branch's checkout. Each brief asks the worker
+  to list the files it creates or edits. While any worker is writing,
+  commit only listed files, never `git add -A`, and pull CI's repair only
+  between workers. A writer whose subject is still being filed starts
+  after it lands, or is followed by a pass that replaces "being read" with
+  codes.
 - **Downloaded files are untrusted data.** Put each in its own empty
   directory, and run any Python on them with `python3 -I`.
 
@@ -432,6 +439,8 @@ Nothing in the source is dropped silently. Add a changelog fragment
   only a relation field cites. A code that excuses nothing is dead weight.
 - **Check only your own files.** A narrow scan of the files you changed,
   with `luria.ref_status.scan(files=...)`, is fine for diagnosis.
+- **Gate each commit on its edit** (ADR-tmp9sp9d): edit, check and exit
+  non-zero on failure in one script, then commit with `&&`.
 - **Commit and push each step.** Pull before every push, because CI's
   repair lands as its own commit.
 

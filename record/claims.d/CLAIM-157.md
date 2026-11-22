@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 11
+version: 12
 history:
 - version: 2
   date: '2026-10-11'
@@ -80,6 +80,12 @@ history:
   note: >-
     A dated note: CLAIM-781 reads the gap-isolated block
     as a class of the tree of time scales. No change of status or title.
+- version: 12
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: the time-lagged, priced block test run on
+    CASE-101's populations (CASE-tmprsqvj, CLAIM-tmp2jbb1). The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -128,6 +134,8 @@ bears_on:
 - QUESTION-218
 - QUESTION-219
 ---
+<!-- inactive-ok-file: CASE-tmpwyp15 CLAIM-tmpjwc0h — new; LEAD-083's study and claim of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmpfktyl CLAIM-tmp3twn6 — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: LIT-1642 — the question the pressures are filed in (Open) and its sources, registered unread (Deferred) -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
@@ -135,6 +143,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-257 THEORY-268 THEORY-254 — Proposed; readings of 2026-10-14 set beside the criterion, open -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; cited as the answered objection, not as standing -->
 <!-- inactive-ok-file: LIT-902 — cited for the compensation test (unread) and the extended-mind case; not leaned on beyond what is said -->
+<!-- inactive-ok-file: CASE-tmprsqvj CLAIM-tmp2jbb1 — new, filed 2026-11-22 from LEAD-026's study -->
 
 # CLAIM-157: Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
@@ -339,3 +348,82 @@ either nested or disjoint. [CLAIM-781](CLAIM-781.md) argues that the gap this cl
 compares with the Occam factor is the one that spaces the block's level in
 the tree. That this claim's blocks are blocks of components and the tree's
 are blocks of states is a difference the note does not settle.
+
+## Note of 2026-11-22: a Life form that compensates and fails the test
+
+[CASE-tmpfktyl](../cases.d/CASE-tmpfktyl.md) applied this claim's test to Conway's Game of Life, reading
+interaction as sensitivity to one flipped cell. The lone block's inside
+coupling is zero at every horizon, and its border's is 0.42 to 0.75. In
+Gosper's gun the figures are 0.06 and 0.38. Each block cell tolerates the
+loss of any one other, and any three regrow the fourth, so a deletion
+changes nothing a generation later ([CLAIM-tmp3twn6](CLAIM-tmp3twn6.md)). That is a form whose
+members compensate and that does not clear the test, the kind this
+claim's `defeated_if` names. It is one case, in a discrete rule, with one
+reading of coupling, not the systematic failure the clause asks for. The
+eater clears the test at one generation if τ is below about 3.5, and not
+at five. No change of status or title.
+
+## Note of 2026-11-22: two closed modes that compensate and that member groupings miss
+
+[CASE-tmpwyp15](../cases.d/CASE-tmpwyp15.md) ran [LEAD-083](../leads.d/LEAD-083.md), the direct test of this claim's
+`defeated_if`. A φ⁴ lattice kink compensates under a sustained load on a
+core site (κ = 1.00), and the sites that compensate move with it. With
+neighbours coupled equally, the best ratio of a segment holding it is
+about 1.5h²: it clears τ = 1 on the coarsest lattice, h = 1, and goes to
+zero in the continuum limit. The locked cluster of a uniformly coupled
+Kuramoto population compensates (0.97) and entrains (0.91); on coupling
+constants it scores √(156/44) = 1.88, as every set of its size does, and
+on realized interaction 0.81. A two-block control passes the test by a
+factor of 70 or more and compensates and entrains only inside its blocks
+([CLAIM-tmpjwc0h](CLAIM-tmpjwc0h.md)). These are forms "that do compensate and entrain"
+that the test on member groupings does not single out, partly: the kink
+has no timing, and for the cluster the verdict turns on reading
+interaction as realized and on τ. Two models at one setting each are not
+the systematic failure the clause asks for. Point 3's unit, a mode, is
+what both cases have; it is found here by a gap in the whole system's
+eigenbasis, not by grouping members. No change of status or title.
+
+## Note of 2026-11-22: the time-lagged block test, run
+
+The time-lagged version that "is not built" (on Otto's notebook, above)
+was built for [LEAD-026](../leads.d/LEAD-026.md) and run on [CASE-101](../cases.d/CASE-101.md)'s simulated populations
+([CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md), [CLAIM-tmp2jbb1](CLAIM-tmp2jbb1.md)). It fits a linear autoregression over a
+window of W steps and prices each group of couplings by [CLAIM-154](CLAIM-154.md)'s rule,
+at ln n per coefficient. A candidate passes when every cut inside it is
+kept and its edge is pruned. Three results bear on this claim.
+
+- **Lagged coupling.** A population coupled only at a lag of eight steps
+  passes, and its support peaks at W = 8. The claim's "a block test on
+  synchronous dynamics will not see it" holds for the true one-step
+  coupling, which is zero there. It does not hold for a one-step model
+  fitted to data, which sees the lag through the members' own persistence.
+- **Observed set.** A population correlated only by a common input fails
+  alone while the input is observed, and passes once it is not. The verdict
+  is relative to the observed set as well as to the target.
+- **Membership.** A commonly driven population and an institutionally
+  maintained one each pass only with their external variable, as one-way
+  drive passes here. The institution's response to its members gives the
+  direction, and it clears the price only at windows of up to four steps.
+
+The claim is unchanged.
+
+## Note of 2026-11-22: locality does not hand the block its target off a lattice
+
+[LEAD-137](../leads.d/LEAD-137.md) ran [QUESTION-065](../questions.d/QUESTION-065.md)'s comparison in a non-lattice coupled-agent
+system ([CASE-tmpoeu1o](../cases.d/CASE-tmpoeu1o.md), [CLAIM-tmpzdcl1](CLAIM-tmpzdcl1.md)): a linear Gaussian VAR(1) on
+communities laid on a path, random within. The variable a region keeps as
+most informative about its far environment across a buffer (the top
+canonical-correlation direction) and this claim's gap-isolated block (the
+leading mode of the region's own dynamics, point 3's projector) coincide on a
+lattice-like homogeneous boundary (overlap 0.99, the result [QUESTION-065](../questions.d/QUESTION-065.md)
+starts from) but generically diverge off it (overlap mean 0.74, down to 0.19;
+symmetric coupling mean 0.53). The informative variable is a boundary mode,
+concentrated on the few nodes bridging to the environment; the block is the
+collective mode spread over the region. They agree only under a homogeneous
+boundary or one-way drive. Strong modularity does not help: the region clears
+this claim's block test by two to three orders of magnitude throughout, and
+its mode is still not the informative variable. So locality does not on its
+own supply the block criterion's target; the lattice match is a property of
+the lattice's homogeneous boundary. This bounds the claim without objecting to
+it: the block test still names the block it is defined to name. No change of
+status or title.

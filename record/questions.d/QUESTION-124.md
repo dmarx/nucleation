@@ -31,6 +31,7 @@ summary: >-
   governance-induced frustration persists after the conflict that started
   it is gone, and says whether the update geometry enters it.
 ---
+<!-- inactive-ok-file: CASE-tmpgustv — Proposed or new; cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 
 # QUESTION-124: When do conferral dynamics turn a transient conflict among an organization's demands into a persistent regime of frustration, and can the condition be stated in an architecture-sensitive update geometry such as modular duality's?
@@ -85,3 +86,7 @@ different persistence for the same demands and the same conferral rule.
 A negative answer would also count: that persistence is fixed by the
 conferral rule alone and the update geometry never enters, which would
 make modular duality irrelevant to this half.
+
+## Note of 2026-11-22: A39's case study 2 run
+
+[CASE-tmpgustv](../cases.d/CASE-tmpgustv.md) adds demands and a feasible-update oracle to [CASE-099](../cases.d/CASE-099.md), as [LEAD-081](../leads.d/LEAD-081.md) asks. It gives half of what this question counts as an answer: a model with demands g_i, a Euclidean update geometry and weights updated by a conferral rule, in which scoring by agreement captures influence and holds Γ ≈ 0.15 while Φ ≤ 0. It does not give the condition in the parameters, beyond a sweep showing capture set in between γ = 1 and 2 at every memory tried. Nor does it give a dependence on the norm. No status changes.

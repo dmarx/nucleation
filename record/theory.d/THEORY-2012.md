@@ -32,6 +32,7 @@ summary: >-
   because A27 used it as a non-collapse mechanism ([CLAIM-481](../claims.d/CLAIM-481.md)'s note of
   2026-11-19). Read in its NOTE.
 ---
+<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-2012: Bardes, Ponce and LeCun show that in a joint-embedding objective the invariance term alone collapses all inputs to one vector, a covariance (decorrelation) term cannot prevent this, and a hinge keeping each embedding variable's batch standard deviation above a threshold does; with all three terms the method matches contemporary self-supervised methods on ImageNet without negatives, normalization, predictors or shared weights
 
@@ -42,3 +43,10 @@ VICReg's loss is λ s(Z, Z′) + µ[v(Z) + v(Z′)] + ν[c(Z) + c(Z′)]: s the 
 ## What it does not show
 
 No theorem: the paper does not characterize VICReg's optimum (the spectral reading is [LIT-228](../literature.d/LIT-228.md)'s, for a modified loss) or its training dynamics, does not measure dimensional collapse, and does not study which classes beyond the augmentation the representation separates.
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](THEORY-tmpvwv5n.md)): **a contrast.**
+Here a collapse preventer, the variance hinge, is added to the objective
+by hand; there the entropy term implicit in InfoNCE's denominator plays
+that role. A note, no relation.

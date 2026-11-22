@@ -23,6 +23,7 @@ summary: >-
   strong" and kept a narrower one, which is this question. It refines
   [QUESTION-039](QUESTION-039.md), which asks what sets the order and moment of acquisition.
 ---
+<!-- inactive-ok-file: THEORY-tmpm3ux2 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-209 — Open or Proposed; the question this refines and Kunin's sampler reading, cited as open -->
 <!-- inactive-ok-file: CLAIM-834 CLAIM-828 CLAIM-812 — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->
@@ -147,3 +148,27 @@ a sloppy direction coming into resolution rather than a move between
 singular regions ([CLAIM-812](../claims.d/CLAIM-812.md)). The owner's U23, that singular
 learning theory's account of transitions may serve the exchange's
 picture of staged learning, is [CLAIM-834](../claims.d/CLAIM-834.md). No status changes.
+
+## Note of 2026-11-21: Hoogland, Wang, Farrugia-Roberts, Carroll, Wei & Murfet, read
+
+Leaves the question open ([NOTE-tmp2pgi8](../notes.d/NOTE-tmp2pgi8.md)). The paper takes Bayesian
+singular learning as an analogy for training's stages ("While there are
+many differences between Bayesian inference and modern neural network
+training, an analogy to the singular learning process informs our
+methodology for stage division", §2) and says "the general connection
+between the singular learning process in Bayesian inference and stagewise
+development in deep learning remains to be understood" (§5). It cites
+Chen et al. ([THEORY-1275](../theory.d/THEORY-1275.md)) as its only empirical precedent. No relation
+written.
+
+## Note of 2026-11-22: Lee, Smith, Adam and Hoogland, read
+
+Bears on it; leaves it open. Lee et al. ([THEORY-tmpm3ux2](../theory.d/THEORY-tmpm3ux2.md), [NOTE-tmp1sot8](../notes.d/NOTE-tmp1sot8.md))
+predict influence dynamics from the Bayesian posterior's transitions and
+observe them along SGD training, in a deep linear network and small
+language models. Their stated gap is this question: "The primary
+theoretical gap remains the link between the Bayesian learning process
+of SLT and the non-equilibrium dynamics of SGD" (§5). Their influence
+estimates are local, from SGLD started at each SGD checkpoint, so the
+agreement they report is between SGD's stages and posteriors localized
+on SGD's own path, not the global Bayesian order in n.

@@ -57,6 +57,7 @@ summary: >-
   [CLAIM-172](../claims.d/CLAIM-172.md), [CLAIM-167](../claims.d/CLAIM-167.md) and [CLAIM-158](../claims.d/CLAIM-158.md). [THEORY-129](../theory.d/THEORY-129.md) and [THEORY-130](../theory.d/THEORY-130.md) answer it
   in part; the body gives each one's limit.
 ---
+<!-- inactive-ok-file: CASE-tmp69rk8 CLAIM-tmpo7igy — filed from LEAD-098's run of 2026-11-22, new -->
 
 # QUESTION-063: When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement or intervention tells which architecture produced it, given that directional information measures under a recorded one-sided drive need not follow the coupling?
 
@@ -184,3 +185,17 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 <!-- inactive-ok-file: THEORY-2044 — Proposed; cited from the readings of 2026-11-19 -->
 
 Wang and Slotine ([THEORY-2044](../theory.d/THEORY-2044.md), bears_on; [NOTE-2096](../notes.d/NOTE-2096.md)). A leader fixes the collective phase (Theorem 7), while among peers "the phase of the collective behavior is hard to predict, since it depends on the initial conditions of all the coupled elements" (p. 21). That is the collective phase freedom of the coupled architecture against a common drive. It gives no test that tells the two apart in data.
+
+## Note of 2026-11-22: the interventions run in a simulated network ([LEAD-098](../leads.d/LEAD-098.md))
+
+[CASE-tmp69rk8](../cases.d/CASE-tmp69rk8.md) ran this question's two interventions on eight Stuart–Landau units under a shared drive, uncoupled and coupled. Displacing the drive of one member by π/2 moved the others by 0.2 per cent of that member's shift without coupling, 30 per cent at coupling 0.3 and 58 per cent at 1.0, falling off along the graph. A kick to one member reached the others at a peak of 0.010 without coupling against 0.12 to 0.14 with it. Of [QUESTION-035](QUESTION-035.md)'s tests, entrainment read from timing (phase-locking value 0.9985 against 0.9996) and gluing of the observed offsets (holonomy below 10⁻⁴ in both) cannot see the difference; entrainment by intervention, [CLAIM-172](../claims.d/CLAIM-172.md)'s criterion, and conserved coherence after the drive is withdrawn (order 0.47 against 0.996) can. A coupling fitted to passive fluctuations reads the shared drive as a weak coupling (0.068, where the coupled network's true gain is 0.3) unless the drive is recorded and its pull modelled, which is [THEORY-275](../theory.d/THEORY-275.md)'s warning carried to a shared drive. [CLAIM-tmpo7igy](../claims.d/CLAIM-tmpo7igy.md) states the result. It is a constructed answer in one model family, with the drive known to the experimenter; the unrecorded shared drive and the question's second part, telling one internal route from another, stay open. The question stays Open.
+
+## Note of 2026-11-22: Ko, read
+<!-- inactive-ok-file: THEORY-tmp8cdhs — Proposed; filed by LEAD-023 -->
+
+Ko ([THEORY-tmp8cdhs](../theory.d/THEORY-tmp8cdhs.md), bears_on; [NOTE-tmpw116e](../notes.d/NOTE-tmpw116e.md); [LIT-2245](../literature.d/LIT-2245.md)) bears out what A12 cited it for, the first item of the note of 2026-11-07. Two groups of phase oscillators with no coupling between them synchronize their collective order parameters when they share the same common noise, from any initial state, "persisting down to cin ≈ 0.1" of within-group noise correlation (§III.B). So a correlation between groups' collective variables is no evidence of coupling between them unless a shared drive is excluded or recorded. The reading adds a twist: coupling inside each group "can hinder group-level synchronization" (§III.D), so the more organized the groups, the weaker the exogenous correlation an observer would see. It is a model of the confound, not a test for it: no intervention is studied. The question stays open.
+
+## Note of 2026-11-22: Ocampo-Espindola, Singhal, Li and Kiss, read
+<!-- inactive-ok-file: THEORY-tmpsyokc — Proposed; filed by LEAD-023 -->
+
+[THEORY-tmpsyokc](../theory.d/THEORY-tmpsyokc.md) (bears_on; [NOTE-tmp5rss0](../notes.d/NOTE-tmp5rss0.md)): a single common input, designed from the units' phase response curves, imposes in-phase, anti-phase and cluster patterns on oscillators with no coupling among them, in experiment. A whole synchrony pattern, not only global synchrony, can therefore be a shared drive's signature, and units with different phase responses split under one drive. It answers nothing here: the drive is known to the experimenter. The question stays open.

@@ -98,6 +98,7 @@ corroborates:
 <!-- inactive-ok-file: CLAIM-127 — Proposed; the earlier, unparameterized appearances of this result, cited as its history, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-174 — Proposed; named as what this result does not test, open -->
 <!-- ref::uses-file: TERM-023 — the "governance mechanism" an intervention sets, whose "governance-relevant counterfactual distinction" a closed coarse-graining loses, is governance in TERM-023's sense; the body denies that Γ measures will or shows agency -->
+<!-- inactive-ok-file: THEORY-tmpc73s5 — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # CLAIM-407: A coarse-graining exactly informationally closed under a process's ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T's fibres over the states of positive probability
 
@@ -269,3 +270,11 @@ The continuation of the exchange "Explain String Theory" (A8, A22) gives two sma
 - **Cancelling pathways** ([CASE-271](../cases.d/CASE-271.md)). Two internal pathways h₁ = u and h₂ = −u, read through their sum, give zero under every query, as a system with neither does. Silencing one reveals the other.
 
 Both illustrate the claim. Neither adds to its weight, which rests on its own construction. No status change.
+
+## Note of 2026-11-22: Martínez-Sánchez and colleagues, read
+
+Martínez-Sánchez, Arranz and Lozano-Durán ([LIT-2965](../literature.d/LIT-2965.md), [NOTE-tmpi0o71](../notes.d/NOTE-tmpi0o71.md), [THEORY-tmpc73s5](../theory.d/THEORY-tmpc73s5.md)): **a contrast.**
+SURD is purely observational under stationarity (p. 12); its leak and its
+redundancy say nothing of responses to an intervention, which is where
+this claim says informational closure and interventional adequacy can
+part. No relation.

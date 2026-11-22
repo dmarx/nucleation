@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp8h6nt
 title: 'A power-law distribution does not identify the mechanism that produced it, nor does a shared power law show a shared mechanism or universality class; the mechanism has to be read from the dynamics, whether gain scales with size, whether there are floors or resets, whether the cutoff grows with the system, after the tail has been fitted against alternatives such as the lognormal'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Edited in place on 2026-11-22 after Newman's review, Clauset,
+    Shalizi and Newman, and Broido and Clauset were read: the summary no
+    longer calls those works unread, THEORY-tmpw4qgu replaces LIT-2987
+    in grounds (ARG-tmps95tv) and THEORY-tmphcnj3 joins them (ARG-
+    tmpmt4gj). The thesis and status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,9 +32,10 @@ line:
 rests_on:
 - CLAIM-795
 grounds:
-- LIT-2987
 - LIT-2992
 - THEORY-2150
+- THEORY-tmpw4qgu
+- THEORY-tmphcnj3
 summary: >-
   A's, from A1 §4 and §7 and A3 §3 to §7 of the exchange "Rich Get Richer
   Power Laws" (2026-11-20). A power law is a description and a mechanism
@@ -35,13 +45,17 @@ summary: >-
   log-log line is not evidence of a power law comes first. The
   assistant (Claude, in this session) adds a section naming the confound
   A's attachment test leaves open, and marks A's "key intervention" row
-  as unsupported. The works are registered and unread, but for Mitzenmacher's
-  review, read on 2026-11-21 (see the dated note). The wording is A's
+  as unsupported. Mitzenmacher's review was read on 2026-11-21, and Newman's review,
+  Clauset, Shalizi and Newman, and Broido and Clauset on 2026-11-22 (see
+  the dated notes); the other works are registered and unread. The wording is A's
   (the other assistant in the exchange "Rich Get Richer Power Laws", A1
   and A3); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-2987 LIT-2963 — Deferred; registered from this exchange and not read -->
+<!-- inactive-ok-file: THEORY-tmpo3w5v THEORY-tmpmoyol — Proposed or new; readings of 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 ARG-tmps95tv ARG-tmpmt4gj CLAIM-817 CLAIM-806 — Proposed; the readings of 2026-11-22, their arguments, and neighbouring claims -->
+<!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; registered and unread -->
 <!-- inactive-ok-file: CLAIM-824 CLAIM-830 THEORY-777 THEORY-789 THEORY-2150 ARG-141 CLAIM-795 — Proposed or new; claims and the lead filed with this one, and held readings cited as neighbours -->
+<!-- inactive-ok-file: THEORY-tmpczldx THEORY-tmpcfn5g THEORY-tmphwf0q CLAIM-tmpf9qt9 LIT-tmppzucs LIT-3005 — Proposed, Deferred or Unfetched; the readings of 2026-11-22, the assistant's condition on the spread, Miller's work, and Kesten's, read through neighbours -->
 
 # CLAIM-803: A power-law distribution does not identify the mechanism that produced it, nor does a shared power law show a shared mechanism or universality class; the mechanism has to be read from the dynamics, whether gain scales with size, whether there are floors or resets, whether the cutoff grows with the system, after the tail has been fitted against alternatives such as the lognormal
 
@@ -135,3 +149,132 @@ empirical test", and there is no fitting method and none of the three
 dynamical tests. [THEORY-2150](../theory.d/THEORY-2150.md) replaces the work in `grounds`
 ([ARG-141](../arguments.d/ARG-141.md)). Random typing and optimization are also mechanisms
 [CLAIM-795](CLAIM-795.md)'s catalogue leaves out (see its note of this date).
+
+## Change of 2026-11-22
+
+The summary no longer calls the works read on 2026-11-22 unread;
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md) replaces [LIT-2987](../literature.d/LIT-2987.md) in `grounds` and [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md) joins
+it. Version 2.
+
+## Note of 2026-11-22: Newman, read
+
+Newman's review ([LIT-2976](../literature.d/LIT-2976.md), read in [NOTE-tmpa7yd2](../notes.d/NOTE-tmpa7yd2.md); the reading is
+[THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md)) **supports the first clause** and **"fit first" in
+part**, and is **milder than the claim**. Many mechanisms, "different
+ones ... applicable to different cases" (p. 5); "most experimentally
+observed power laws are probably not the result of phase transitions"
+(p. 12); Miller, Yule and multiplicative processes all reach similar
+slopes. On fitting: a log-log histogram "is, in most cases, a poor way
+proceed" [sic] (p. 3), least squares biases the exponent, and a
+lognormal of large variance looks straight over orders of magnitude
+(§IV.G). No comparison with alternatives and none of the dynamical tests.
+
+**A counterweight.** Newman does assign mechanisms, by plausibility rather
+than from dynamics: §V ranks the Yule process and criticality "perhaps the
+two most important", and of the Yule process he writes, "For several of
+the distributions shown in Fig. 4, especially citations, city populations
+and personal income, it is now the most widely accepted theory" (p. 19).
+That is a field's verdict from fit and plausibility, which this claim
+holds cannot by itself identify the mechanism. For cities the record
+holds the tail open ([QUESTION-506](../questions.d/QUESTION-506.md)), and its reading of Davis and
+Weinstein ([THEORY-1499](../theory.d/THEORY-1499.md)) tells against size-dependent growth in the
+ranking of cities. [THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md) `corroborates` the claim.
+
+## Note of 2026-11-22: Clauset, Shalizi and Newman, read
+
+Their paper ([LIT-2987](../literature.d/LIT-2987.md), read in [NOTE-tmphbwdu](../notes.d/NOTE-tmphbwdu.md); the reading is
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md)) **supports "fit first"**, **supports the first clause
+indirectly**, and **leaves the dynamical tests open** ([ARG-tmps95tv](../arguments.d/ARG-tmps95tv.md)). The
+claim cites it correctly for "a straight line on a log-log plot is not
+sufficient" ("necessary but not sufficient", §4, p. 15) and for fitting
+by maximum likelihood against the lognormal (Box 1, §5). It does not
+state the first clause; it comes nearest where the lognormal "is not
+ruled out for any of our data sets except the HTTP connections" and
+undecided cases need "a mechanistic or other nonstatistical argument"
+(p. 26). Where forms do separate, the cutoff for fires, quakes and web
+hits, shape narrows the field, as "What it does not say" allows; the
+authors hold that form "may matter greatly" for mechanism (p. 30).
+[THEORY-tmpw4qgu](../theory.d/THEORY-tmpw4qgu.md) replaces the work in `grounds`.
+
+## Note of 2026-11-22: Broido and Clauset, read
+
+Their paper ([LIT-2963](../literature.d/LIT-2963.md), read in [NOTE-tmpleyjh](../notes.d/NOTE-tmpleyjh.md); the reading is
+[THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md)) **supports** the claim for network degrees, as the claim
+said it would ([ARG-tmpmt4gj](../arguments.d/ARG-tmpmt4gj.md)): the degree distribution "represents
+relatively weak evidence when trying to distinguish generating
+mechanisms"; the method fits against the lognormal, at least as good in
+88%. It **qualifies** in the direction the claim allows: the absence of a
+power law limits "any mechanism that necessarily produces power-law
+degree distributions", so shape informs negatively. It adds a converse:
+"some variations of preferential attachment do not produce power-law
+degree distributions" (compare [CLAIM-817](CLAIM-817.md), [CLAIM-806](CLAIM-806.md)). It asks for a test
+"that goes beyond static degree distributions" and names none. Its rarity
+verdict is disputed ([LIT-tmpvmrkv](../literature.d/LIT-tmpvmrkv.md)), which does not touch what the claim
+takes from it. [THEORY-tmphcnj3](../theory.d/THEORY-tmphcnj3.md) joins `grounds`. Status unchanged.
+
+## Note of 2026-11-22: Beck and Cohen; Corominas-Murtra, Hanel and Thurner; Reed and Hughes, read
+
+- **Corominas-Murtra, Hanel and Thurner** ([LIT-2997](../literature.d/LIT-2997.md), [NOTE-tmpyqqhq](../notes.d/NOTE-tmpyqqhq.md);
+  [THEORY-tmpcfn5g](../theory.d/THEORY-tmpcfn5g.md)) **support the first clause**: a further route to Zipf's
+  law in word frequencies, beside preferential attachment, Mandelbrot's
+  optimization and Miller's random typing ([LIT-tmppzucs](../literature.d/LIT-tmppzucs.md)), with no feedback.
+  Their own word example is an instance of what this claim warns against:
+  λ = 0.9 is read off a fitted rank slope (p. 4, Fig. 4), with no
+  independent measure of nestedness.
+- **Reed and Hughes** ([LIT-3007](../literature.d/LIT-3007.md), [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md); [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md)):
+  **background, illustrating the claim**. One mechanism is offered for six
+  domains, against self-organized criticality and highly optimized
+  tolerance, on log-log plots alone, with no fit or test against the
+  lognormal.
+- **Beck and Cohen** ([LIT-2962](../literature.d/LIT-2962.md), [NOTE-tmpj8ro5](../notes.d/NOTE-tmpj8ro5.md); [THEORY-tmpczldx](../theory.d/THEORY-tmpczldx.md)) **support
+  it in kind**: their discriminant, the third-order term g(q) of the
+  small-variance expansion (p. 9), separates one superstatistics from
+  another, not a mixture from a feedback. The assistant's [CLAIM-tmpf9qt9](CLAIM-tmpf9qt9.md)
+  adds a caution on the fitting step: a lognormal spread of rates gives a
+  tail whose log-log slope steepens only slowly (about −2.6 to −10.4 per
+  decade over four decades), which a finite sample may read as a power law.
+
+No edge: these are cases of the claim, and it rests on [CLAIM-795](CLAIM-795.md), which
+these readings ground.
+
+## Note of 2026-11-22: readings filed in parallel
+
+Bearings relayed from the readings filed in parallel this day; their
+notes hold the detail, and no edge is written here.
+
+- **Krapivsky, Redner and Leyvraz** ([LIT-2974](../literature.d/LIT-2974.md)) **support** the first
+  clause: for degree exponents 0.8 ≲ γ ≲ 1 a power law and a stretched
+  exponential cannot be told apart up to k = 1000, and their fit to the
+  ISI citation data fits both.
+- **Bak, Tang and Wiesenfeld** ([LIT-2992](../literature.d/LIT-2992.md)) are a **contrast**: they read a
+  mechanism off a straight log-log line, the inference this claim denies.
+- **Kesten, read through neighbours** ([LIT-3005](../literature.d/LIT-3005.md)) **supports** it: Grey's
+  result that a power tail of the stationary law may come from the additive
+  term B alone, so the same tail need not come from the multiplicative
+  balance.
+- **Barabási's chapter** ([LIT-2968](../literature.d/LIT-2968.md)): its §5.7 test of attachment from
+  growth data **parallels** this claim's attachment test; its §5.11
+  argument that growth and preferential attachment are necessary and
+  sufficient for a scale-free network is a **contrast**, a mechanism
+  claimed from the distribution's shape.
+
+## Note of 2026-11-22: Kardar, Parisi and Zhang, and Takeuchi and Sano, read
+
+Two readings of 2026-11-22 **support the claim**, one as evidence and one
+as a parallel.
+
+- **Evidence: a shared exponent, different classes.** In one dimension the
+  KPZ interface has the same static roughness exponent as the linear
+  ("ideal") interface, χ = ½, and strip simulations had read the one as
+  the other, "a result of a peculiarity of one-dimensional interfaces";
+  only the dynamics, z = 3/2 against 2, tell the classes apart (Kardar,
+  Parisi and Zhang, [LIT-2978](../literature.d/LIT-2978.md), [NOTE-tmpf6isj](../notes.d/NOTE-tmpf6isj.md), p. 891). That is this claim's
+  "a shared power law does not show a shared … universality class", and
+  its "read from the dynamics". [THEORY-tmpo3w5v](../theory.d/THEORY-tmpo3w5v.md) `corroborates` the claim.
+- **Parallel: the class identified beyond the exponents.** Takeuchi and
+  Sano ([LIT-2982](../literature.d/LIT-2982.md), [NOTE-tmpbmox1](../notes.d/NOTE-tmpbmox1.md); [THEORY-tmpmoyol](../theory.d/THEORY-tmpmoyol.md)) go "beyond the scaling
+  laws" (p. 1): the class is fixed by the whole fluctuation distribution
+  and the correlation, and the distribution splits curved from flat
+  fronts (GUE from GOE), which share the exponents. No edge: the two are
+  sub-classes of one universality class, so it is a parallel, not a case
+  of two mechanisms.

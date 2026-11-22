@@ -50,3 +50,11 @@ power of 1/ε when it is ε. That means random orthogonal or random small
 weights, not aligned with the task's singular vectors. More runs from
 decoupled starts cannot settle it, since there the result is already
 exact.
+
+## Note of 2026-11-21: Wei et al. (2008), read
+
+Background, by contrast. Off the decoupled set in a two-layer nonlinear
+network, Wei and colleagues find plateaus of a kind the depth law does not
+describe: a noise-driven walk along a line of models with coinciding
+hidden units, with no derived duration ([NOTE-tmpl89m0](../notes.d/NOTE-tmpl89m0.md)). It does not bear
+on depth.

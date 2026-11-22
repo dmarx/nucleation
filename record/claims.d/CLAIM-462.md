@@ -297,3 +297,22 @@ statement is [CLAIM-731](CLAIM-731.md) (execution friction against contestation
 friction); the timescale statement is [CLAIM-730](CLAIM-730.md).
 
 No status changes.
+
+## Note of 2026-11-22: separation by timing alone, in a model
+<!-- inactive-ok-file: CASE-tmp8riid CLAIM-tmpsaql8 — new; the executed study and claim of LEAD-068, filed 2026-11-22 -->
+<!-- inactive-ok-file: CASE-285 — Proposed; cited in the note of 2026-11-22 on LEAD-068's simulation -->
+
+[CASE-tmp8riid](../cases.d/CASE-tmp8riid.md) runs [CASE-285](../cases.d/CASE-285.md)'s design. With the overseer's authority, information and reviewers fixed, raising only how soon the acting institution's actions become irreversible raised its benefit per action (0.025 to 0.572 in the model's measure) while the share of objectionable actions stopped in time fell from 0.994 to 0.396; the overseer was less busy as it lost effect, since it skips what is already beyond stopping. That is this claim's capacity to act and capacity to be corrected coming apart by timing alone, shown possible in a construction. [CLAIM-tmpsaql8](CLAIM-tmpsaql8.md), which states the result, carries `corroborates` to this claim. No status changes.
+
+## Note of 2026-11-22: a construction with the enforcer gated, [LEAD-168](../leads.d/LEAD-168.md)
+<!-- inactive-ok-file: CASE-tmpwj1k2 CLAIM-tmpr54f9 CLAIM-tmpx5yyb — new; LEAD-168's executed study and its two alternative readings -->
+
+[CASE-tmpwj1k2](../cases.d/CASE-tmpwj1k2.md) illustrates this claim in a stipulated model: the executive's
+capacity for effective action is the same whether or not its signal gates
+the enforcer's execution of corrective orders, and the arrangement's
+capacity to correct it differs. With fixed policies the difference shows
+only at execution of an order the executive withholds ([CLAIM-tmpr54f9](CLAIM-tmpr54f9.md));
+with anticipation it can show as bolder action instead ([CLAIM-tmpx5yyb](CLAIM-tmpx5yyb.md)),
+which bears on this claim's second defeater: degraded correction then
+shows in the arrangement's ordinary outputs, but only against a
+counterfactual baseline. No change of status or title.

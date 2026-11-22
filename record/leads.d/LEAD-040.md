@@ -37,3 +37,8 @@ Where the record names it:
 
 Partitions that agree, and walls whose movement changes the answer, answer
 [QUESTION-491](../questions.d/QUESTION-491.md).
+
+## Note of 2026-11-22: carried out in part
+<!-- inactive-ok-file: CASE-tmp2e2a5 CLAIM-tmpwx1cm — new; filed by this lead on 2026-11-22 -->
+
+Done by a delegated worker on branch claude/lead-040-z2-rnns; code, results and a rerun README are in scratch/studies/lead-040/. Six trained networks and four frozen controls; the four partitions compared on four time slices; walls moved by interchange; a closed pair compared with a boundary-forced wall. Filed as [CASE-tmp2e2a5](../cases.d/CASE-tmp2e2a5.md) and [CLAIM-tmpwx1cm](../claims.d/CLAIM-tmpwx1cm.md). What remains: two-dimensional lattices, where a closed wall can shrink by itself; boundary conditions as hard constraints; a sweep of the partition thresholds; more seeds (one of six networks learned an oscillating phase); and A15's Experiment E. Whether this suffices to mark the lead Done is the owner's call.

@@ -1,0 +1,79 @@
+{
+  "measure": "persistence_years = years a recognized, normatively significant inadequacy of the governing standard remained uncorrected (from the earliest dated recognition to the correction, or to supersession of the regime)",
+  "pairs": [
+    {
+      "id": "P1",
+      "domain": "web markup language",
+      "matched_on": "same domain and overlapping era (1999-2011); the same evidence source (browser implementers and web authors reporting the same limitations of HTML 4.01 / XHTML); resources run AGAINST the hypothesis (the better-resourced, more formal body is the fixed arm)",
+      "revising_arm": {
+        "body": "WHATWG HTML Living Standard",
+        "mechanism": "standing living-standard process; continuous editor-driven revision from GitHub issues; founded 2004 after a W3C workshop by Apple/Mozilla/Opera over the W3C's lack of interest in evolving HTML",
+        "recognition": 2004,
+        "correction": 2006,
+        "persistence_years": 2,
+        "note": "recognized inadequacy (HTML could not express rich web applications) addressed continuously from founding; Web Forms/Web Apps work folded into HTML5 from ~2004-2006 onward"
+      },
+      "fixed_arm": {
+        "body": "W3C HTML/XHTML track",
+        "mechanism": "version-and-freeze; HTML 4.01 frozen Dec 1999; effort redirected to XHTML 1.0/1.1/2.0; conformance checked by the W3C Markup Validator = outcome monitoring against a fixed grammar",
+        "recognition": 1999,
+        "correction": 2007,
+        "persistence_years": 8,
+        "note": "same recognized inadequacy left standing until the W3C rechartered an HTML Working Group in 2007 to adopt WHATWG's work; the XHTML2 WG was closed end of 2009"
+      }
+    },
+    {
+      "id": "P2",
+      "domain": "web markup language (same institution, before vs after)",
+      "matched_on": "the organization, its domain and its evidence sources are held constant; only the revision regime varies (within-body natural experiment, the strongest control against the resource/evidence confound)",
+      "revising_arm": {
+        "body": "W3C HTML governance after 2019",
+        "mechanism": "MOU with WHATWG signed 28 May 2019: HTML/DOM developed as a single Living Standard at WHATWG, W3C endorses Review Drafts; defects handled continuously via GitHub issues",
+        "recognition": 2019,
+        "correction": 2019,
+        "persistence_years": 0,
+        "note": "under the living regime a recognized defect is opened as an issue and addressed in due course (issue-to-fix typically days to months, not years)"
+      },
+      "fixed_arm": {
+        "body": "W3C HTML governance 1999-2011",
+        "mechanism": "version-and-freeze (same body, earlier regime)",
+        "recognition": 1999,
+        "correction": 2011,
+        "persistence_years": 12,
+        "note": "HTML held a numbered frozen standard; living/no-version model adopted for HTML at W3C only after 2011 (spec became version-less) and formalized 2019"
+      }
+    },
+    {
+      "id": "P3",
+      "domain": "character / script representation",
+      "matched_on": "same domain (character encoding); both regimes received external national-body and user-community demand for missing scripts (comparable evidence independence); resources roughly comparable (ISO is a large body)",
+      "revising_arm": {
+        "body": "Unicode Consortium",
+        "mechanism": "standing mechanism: versioned releases, a public 'Report Error in Publication/Data' ticket and posted errata, a script/character proposal pipeline, and a Unicode Technical Committee empowered to authorize and execute additions; new scripts absorbed version by version. Stability policy deliberately freezes encoded characters, names and normalization = selective non-revision (matches the routine-work limit, CLAIM-665)",
+        "recognition": 2013,
+        "correction": 2015,
+        "persistence_years": 2,
+        "note": "e.g. the recognized representational inadequacy of a single default skin tone for human emoji was corrected by skin-tone modifiers in Unicode 8.0 (2015) after public criticism; new scripts added each release"
+      },
+      "fixed_arm": {
+        "body": "pre-Unicode code-page regime (ASCII + ISO/IEC 8859 parts, national code pages)",
+        "mechanism": "each part effectively frozen; the regime's response to new-script demand was to mint new incompatible code pages, not to revise one governing standard; conformance = outcome monitoring against a chosen code page",
+        "recognition": 1987,
+        "correction": 2007,
+        "persistence_years": 20,
+        "note": "the multilingual-interchange inadequacy (mojibake; scripts unrepresentable in one document) persisted for roughly two decades and was resolved only by Unicode superseding the regime; many scripts never received an 8859 part. End date taken as ~2007 when UTF-8 passed ASCII in web use; the inadequacy was never corrected WITHIN the regime"
+      }
+    }
+  ],
+  "unmatched_extreme": {
+    "id": "X1",
+    "domain": "civil / ecclesiastical calendar",
+    "why_unmatched": "no comparable resourced, evidence-independent REVISING partner in the same era; included only to bound the relationship at the no-revision-organ extreme",
+    "body": "Julian calendar (no standing organ empowered to revise the civil/ecclesiastical calendar)",
+    "mechanism": "no standing revision body; correction required an ad hoc papal commission and bull",
+    "recognition": 725,
+    "correction": 1582,
+    "persistence_years": 857,
+    "note": "drift from the Council of Nicaea (325) reference equinox recognized by Bede (8th c., ~3 days) and Roger Bacon (c.1200-1267, 7-8 days); corrected only by the bull Inter gravissimas (24 Feb 1582), dropping 10 days (4 Oct -> 15 Oct 1582). Taking recognition from Nicaea itself gives ~1257 years"
+  }
+}

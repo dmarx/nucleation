@@ -1,0 +1,60 @@
+---
+status: Proposed
+title: "Reed and Hughes's deterministic case, as a source, carries item 6 of the catalogue of feedback-free power-law mechanisms as stated, while their double Pareto for noisy growth shows the item's ratio of rates to be the noise-free limit"
+version: 1
+form: source
+grounds:
+- THEORY-tmphwf0q
+concludes:
+- CLAIM-795
+tags:
+- probabilistic-modeling
+- complex-systems
+date: '2026-11-22'
+line:
+- formal-apparatus
+summary: >-
+  Whether Reed and Hughes ([LIT-3007](../literature.d/LIT-3007.md)), read in [NOTE-tmpbic9d](../notes.d/NOTE-tmpbic9d.md), carry
+  [CLAIM-795](../claims.d/CLAIM-795.md)'s item 6, a common growth rate g and exponential ages with
+  rate λ giving P(S > s) = (s/S_0)^(−λ/g). The formula is the paper's
+  "simple case of deterministic exponential growth" (p. 1), so the item
+  is supported as stated. The paper's result is wider: with geometric
+  Brownian motion the law is a double Pareto whose upper exponent is the
+  positive root of ½σ²s² + (μ − ½σ²)s − ν = 0, tending to ν/μ as σ → 0.
+  A's "even identical growth rates can coexist with highly unequal sizes"
+  is A's gloss. The wording is the assistant's (Claude, in this session);
+  adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-795 THEORY-tmphwf0q THEORY-tmp6jdas THEORY-2150 ARG-tmp3ppjy — Proposed or new; the claim and the readings this argument joins -->
+
+# ARG-tmpadlas: Reed and Hughes's deterministic case, as a source, carries item 6 of the catalogue of feedback-free power-law mechanisms as stated, while their double Pareto for noisy growth shows the item's ratio of rates to be the noise-free limit
+
+## The inference
+
+[CLAIM-795](../claims.d/CLAIM-795.md), item 6. [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md): the killed-process results.
+
+## Critical questions (source)
+
+**Does the work say this, read in context?** Yes: "Consider the simple
+case of deterministic exponential growth X(t) = e^(μt) killed at a random
+time T which is exponentially distributed with parameter ν", with density
+(ν/μ)x^(−ν/μ−1) above 1 (p. 1), the item with ν = λ and μ = g. Ages are
+exponential because the population "is growing at a fixed rate" (p. 2).
+
+**Is it said within the scope the claim needs?** Yes, as the paper's
+opening illustration. Its result is for growth "in expectation": with
+noise the upper exponent solves the quadratic (√(2ν)/σ at zero log drift;
+the filer checked that μ = ½, σ = 1, ν = 1 gives √2 where ν/μ = 2, and
+that σ = 0.01 gives 0.500012 against ν/μ = 0.5), and a lower power tail
+appears. The item's "common growth rate" is the σ → 0 case.
+
+**Does the claim lean on the reading for more than it holds?** Only in
+the gloss "even identical growth rates can coexist with highly unequal
+sizes", which the paper does not say; it is true of the deterministic
+case.
+
+## Verdict
+
+Support for item 6. [THEORY-tmphwf0q](../theory.d/THEORY-tmphwf0q.md) replaces [LIT-3007](../literature.d/LIT-3007.md) in [CLAIM-795](../claims.d/CLAIM-795.md)'s
+`grounds`, beside Newman's restatement ([THEORY-tmp6jdas](../theory.d/THEORY-tmp6jdas.md), [ARG-tmp3ppjy](ARG-tmp3ppjy.md)).
+Mitzenmacher's zero-drift double Pareto ([THEORY-2150](../theory.d/THEORY-2150.md)) agrees with eq. 9.

@@ -1,0 +1,7 @@
+scenario X={a,b,c}, cover M={{a,b},{b,c}}
+no-signalling: True
+marginals: P(a=0)=0.85  P(b=1)=0.90  P(c=0)=0.50
+theta=0.5: D=['a', 'b', 'c']  induced cover M|_D=[['a', 'b'], ['b', 'c']]  down-closed sub-site=True
+theta=0.75: D=['a', 'b']  induced cover M|_D=[['a', 'b']]  down-closed sub-site=True
+theta=0.86: D=['b']  induced cover M|_D=[['b']]  down-closed sub-site=True
+theta=0.95: D=[]  induced cover M|_D=[]  down-closed sub-site=True

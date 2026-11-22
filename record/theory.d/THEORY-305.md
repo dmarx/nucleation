@@ -31,6 +31,7 @@ summary: >-
   InfoNCE nor the density-ratio optimum of [THEORY-001](THEORY-001.md).
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; accounts this one is contrasted with, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpvwv5n — Proposed, Deferred or new; the readings of 2026-11-22 (Wang, Wu and Fan; Yang, Steinhardt and Hu; Ansuini and colleagues; Cai and colleagues; Martínez-Sánchez and colleagues), their arguments, and the entries they bear on -->
 
 # THEORY-305: SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers, which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer the Laplacian's eigenvectors
 
@@ -150,3 +151,11 @@ the unit circle have no solution (least-squares residual 1.24). So the
 minimizer is near an eigenvector embedding but is not one, which is what
 the second clause says. The counterexample is numerical: global
 optimality rests on the restarts, not on a certificate.
+
+## Note of 2026-11-22: Cai and colleagues, read
+
+Cai, Zhang, Liu and Shi ([LIT-2975](../literature.d/LIT-2975.md), [NOTE-tmpll97d](../notes.d/NOTE-tmpll97d.md), [THEORY-tmpvwv5n](THEORY-tmpvwv5n.md)): **a parallel.**
+Both rewrite InfoNCE's log-normalizer as a functional of the
+representation's law: here a finite-n log-sum, there a cross-entropy
+against a kernel-smoothed density in the large-batch limit. A note, no
+relation.

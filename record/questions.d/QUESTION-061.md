@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpn1400
 title: 'In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-29'
@@ -37,6 +37,14 @@ history:
     gives a reason of its own to stay Deferred. CLAIM-003 is Proposed
     from the same date for the same reason; the summary, the body and
     the directive say so. The question is unchanged. No other change.
+- version: 5
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added, from LEAD-134: the third quantity this
+    question's note of 2026-10-18 names, self-attribution, is shown
+    separable from true control in a constructed model (CASE-tmpdv5tm).
+    It bears on the third quantity, not on the brain-access question
+    itself. The question is unchanged.
 tags:
 - consciousness
 - neuroscience
@@ -54,6 +62,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-003 — Proposed; the compartmented-access claim this question bears on, its line reopened on 2026-10-23 -->
 <!-- inactive-ok-file: THEORY-240 — Proposed; readings listed with their limits -->
+<!-- inactive-ok-file: LIT-tmpblnvk THEORY-tmpb3deq THEORY-tmpbu9we — Proposed or Unfetched; readings and registrations of LEAD-112, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CASE-tmpdv5tm — the executed study of LEAD-134, cited in the note of 2026-11-22 on the third quantity (new) -->
 
 # QUESTION-061: In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?
 
@@ -105,3 +115,41 @@ behaviour does not show several conscious workspaces to [THEORY-096](../theory.d
 [CLAIM-003](../claims.d/CLAIM-003.md)'s. Whether the line reopens is the owner's decision.
 
 <!-- inactive-ok-file: CLAIM-355 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+
+## Note of 2026-11-22: the split brain, and prefrontal content without report
+
+From [LEAD-112](../leads.d/LEAD-112.md). Two readings bear on this question.
+
+- **The split brain** (de Haan et al. 2020, [LIT-tmpsc6mi](../literature.d/LIT-tmpsc6mi.md), [NOTE-tmpbwyy5](../notes.d/NOTE-tmpbwyy5.md),
+  [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md), standing in for Pinto et al. 2017, [LIT-tmpblnvk](../literature.d/LIT-tmpblnvk.md)). After
+  callosotomy a stimulus's presence and location reach every response,
+  while its identity reaches picture matching from the left field and
+  verbal labelling from the right, and "response type did not play any
+  role". That is one content available to some consumers and not others,
+  divided by operation rather than effector. It falls short of "What would
+  answer it" three ways: it is behavioural, not a recording; the brain is
+  disconnected, not intact; and differential post-perceptual cognition is
+  not removed. It is the nearest case the search found. [THEORY-tmpb3deq](../theory.d/THEORY-tmpb3deq.md)
+  `bears_on` this question.
+- **Prefrontal content without report** (Kapoor et al. 2022, [LIT-tmpnsyqi](../literature.d/LIT-tmpnsyqi.md),
+  [NOTE-tmplluya](../notes.d/NOTE-tmplluya.md), [THEORY-tmpbu9we](../theory.d/THEORY-tmpbu9we.md)). In rivalry without trained report, the
+  perceived motion direction was carried in ventrolateral prefrontal cortex
+  as in the temporal lobe, with the suppressed direction minimally
+  represented: presence in both consumers for the one dimension tested,
+  which is no compartment. The design did not look for one.
+
+The question is unchanged.
+
+## Note of 2026-11-22: the third quantity, shown separable in a model
+
+From [LEAD-134](../leads.d/LEAD-134.md). The note of 2026-10-18 added, beside integration and
+access, a third quantity: self-attribution, a system's report of its own unity,
+which "should not" be read off integration or access. [LEAD-134](../leads.d/LEAD-134.md) built and ran
+[CASE-114](../cases.d/CASE-114.md) ([CASE-tmpdv5tm](../cases.d/CASE-tmpdv5tm.md)): in a distributed-control plant, a
+centralized self-model's report of who controls what diverges systematically
+from the true, held-fixed distribution of control, while an accurate self-model
+of the same capacity tracks it. That is a concrete model in which
+self-attribution comes apart from the control it purports to report, which is
+the separability the third quantity asserts. It bears on that quantity, not on
+this question's own subject, which is whether conscious *access* in a brain is
+one exclusive broadcast. The question is unchanged.

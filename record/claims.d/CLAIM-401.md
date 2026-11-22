@@ -180,6 +180,7 @@ model, not an argument for the classification. The claim is unchanged.
 
 ## Note of 2026-11-19: Carnap, read
 <!-- inactive-ok-file: THEORY-2004 — newly filed; the reading of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpttfgp — Proposed; the reading of Shalizi and Moore, 2026-11-22 -->
 
 Carnap's two requirements on a language for inductive logic (§18B) are of
 the two kinds the claim separates ([THEORY-2004](../theory.d/THEORY-2004.md), corroborates).
@@ -191,3 +192,16 @@ universe "is not a fitting interpretation for & for the purpose of
 inductive logic, although in deductive logic & could, of course, be used
 for this universe" (the OCR's "&" is the language). The claim is
 unchanged.
+
+## Note of 2026-11-22: Shalizi and Moore, read
+
+**Qualifies, consistently** ([LIT-2996](../literature.d/LIT-2996.md), [NOTE-tmpunt6q](../notes.d/NOTE-tmpunt6q.md), [THEORY-tmpttfgp](../theory.d/THEORY-tmpttfgp.md)).
+Shalizi and Moore fuse predictive sufficiency (prescience) and closure
+(the macro process Markov) in one criterion for macrostates; for the
+observed process's own causal states the two coincide by construction
+(§II), relative to one chosen projection, the observables. That fits
+this claim's "memory relative to a chosen projection", and shows the two
+conditions this claim separates can coincide for one class of
+descriptions without being one condition. The curation entry of
+2026-11-21 holds A17 §9's pair as coarser than this claim's split; the
+reading does not change that. Status unchanged.

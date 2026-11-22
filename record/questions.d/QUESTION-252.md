@@ -229,3 +229,35 @@ The question is unchanged and stays Open.
 <!-- inactive-ok-file: CASE-297 — Proposed or Deferred; cited from the follow-up turns filed 2026-11-19 -->
 
 ChatGPT (A84) names operative reification as one of two foundational programs: "What makes a distinction part of the world's operative organization rather than merely part of an observer's useful description?", with candidate criteria (predictive sufficiency, dynamical closure, causal effectiveness, organizational reuse, self-maintenance) that "are not equivalent". Its next advance without an experiment is this question's: "Establish which closure criteria imply which others, and identify counterexamples". The Reddit case ([CASE-297](../cases.d/CASE-297.md)) is offered as one that separates them: a subreddit may be a named category, a persistent practice, a governed institution, a cause of its members' behaviour and a source of further communities, "different achievements".
+
+## Note of 2026-11-22: the table for linear Gaussian VAR(1) and VAR(2)
+<!-- inactive-ok-file: CASE-tmpo5jhq CLAIM-tmp186gy CLAIM-tmp9xo66 — new; filed from LEAD-173 -->
+
+[LEAD-173](../leads.d/LEAD-173.md) worked the answer form named here for the first class, with the
+regime declared ([CASE-tmpo5jhq](../cases.d/CASE-tmpo5jhq.md)). [CLAIM-tmp186gy](../claims.d/CLAIM-tmp186gy.md) offers the table: three
+entailments, D ⇒ M in VAR(1) only ([CLAIM-389](../claims.d/CLAIM-389.md)), P ∧ D ∧ M ⇒ A in every
+regime, and A ⇒ P at zero tolerance, and a witness for each of the other
+configurations, 16 of 32 in VAR(1) and 22 in VAR(2) at ε = 0. As leave-one-out
+results: independence fails alone (the round trip without return of
+[CLAIM-389](../claims.d/CLAIM-389.md), behind a target that reads an autonomous part of Y), and so does
+tractability; memory closure fails alone only from VAR(2), where [CLAIM-389](../claims.d/CLAIM-389.md)'s
+"impossible in VAR(1)" cell opens; sufficiency only at a positive tolerance;
+fidelity never. The entailment that forbids the last is three-place, so no
+pairwise table shows it.
+
+On the conditions that dissolved into parameters: at h = 1 fidelity is
+sufficiency; whether sufficiency can fail alone turns on ε; whether memory
+can turns on the class. With the target declared as Y's own future,
+sufficiency and fidelity are each D ∧ M ([CLAIM-tmp9xo66](../claims.d/CLAIM-tmp9xo66.md)), A3's collapse.
+Whether these answer the question for this class, and so whether it
+splits, is the owner's call. The question is unchanged and stays Open.
+
+## Note of 2026-11-22: Widder and Schilling, read
+<!-- inactive-ok-file: THEORY-tmpo4sos — Proposed; filed by LEAD-023 -->
+
+Widder and Schilling ([THEORY-tmpo4sos](../theory.d/THEORY-tmpo4sos.md), bears_on; [NOTE-tmp2mtul](../notes.d/NOTE-tmp2mtul.md); [LIT-2250](../literature.d/LIT-2250.md)), the work A cited at A18. Two bearings on this question's list.
+
+1. **Memory closure and independence.** "the memory term should be considered a coupling term that is not necessarily related to memory" (Conclusion). In their operator setting the convolution term is what the omitted subspace feeds back into the kept one, and it vanishes when the omitted subspace is invariant under the dynamics (§V). That is a link between memory closure under the declared projection and a form of dynamical independence of the omitted variables, in the direction independence ⇒ no memory, for linear evolution of observables. It is not the record's definition of either condition, so it supports the shape of the entailment the record found in VAR(1) ([CLAIM-389](../claims.d/CLAIM-389.md)) without testing the table's other cells.
+2. **Sufficiency is not shown by having a closed equation.** For Mori's projection an exact generalized Langevin equation always exists and "does not reveal any non-trivial structure of the dynamics" (§III.A); fitted with Gaussian forces it reproduces only the autocorrelation put in (§III.C). A description can therefore meet a formal closure while carrying no predictive content beyond its inputs, which is a reason to keep predictive sufficiency and memory closure apart, as the question does.
+
+The question stays open.

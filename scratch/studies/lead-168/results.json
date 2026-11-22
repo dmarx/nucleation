@@ -1,0 +1,398 @@
+{
+ "A_fixed_policy": {
+  "n_probes": 32,
+  "first_counts": {
+   "None": 31,
+   "enforcement": 1
+  },
+  "conditions": {
+   "all_separating_are_x_challenged_adverse_withhold_capable": true,
+   "every_such_probe_separates": true,
+   "no_routine_probe_separates": true,
+   "no_acquiescent_probe_separates": true,
+   "first_stage_of_separation": [
+    "enforcement"
+   ]
+  },
+  "separating": [
+   {
+    "probe": {
+     "act": "x",
+     "challenged": true,
+     "adverse": true,
+     "disposition": "withhold",
+     "cap": true,
+     "delay": 0,
+     "t_order": 1,
+     "deadline": 10
+    },
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "not_executed",
+     "stands"
+    ],
+    "first": "enforcement",
+    "routine": false
+   }
+  ]
+ },
+ "B_delay": {
+  "deadline": 10,
+  "t_order": 1,
+  "rows": [
+   {
+    "delay": 0,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "not_executed",
+     "stands"
+    ],
+    "first": "enforcement",
+    "outcome_differs": true
+   },
+   {
+    "delay": 1,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@2",
+     "reversed"
+    ],
+    "first": "enforcement",
+    "outcome_differs": false
+   },
+   {
+    "delay": 2,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@3",
+     "reversed"
+    ],
+    "first": "enforcement",
+    "outcome_differs": false
+   },
+   {
+    "delay": 3,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@4",
+     "reversed"
+    ],
+    "first": "enforcement",
+    "outcome_differs": false
+   },
+   {
+    "delay": 4,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@5",
+     "reversed"
+    ],
+    "first": "enforcement",
+    "outcome_differs": false
+   },
+   {
+    "delay": 5,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@6",
+     "reversed"
+    ],
+    "first": "enforcement",
+    "outcome_differs": false
+   },
+   {
+    "delay": 6,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@7",
+     "reversed"
+    ],
+    "first": "enforcement",
+    "outcome_differs": false
+   },
+   {
+    "delay": 7,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@8",
+     "reversed"
+    ],
+    "first": "enforcement",
+    "outcome_differs": false
+   },
+   {
+    "delay": 8,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@9",
+     "reversed"
+    ],
+    "first": "enforcement",
+    "outcome_differs": false
+   },
+   {
+    "delay": 9,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@10",
+     "reversed"
+    ],
+    "first": "enforcement",
+    "outcome_differs": false
+   },
+   {
+    "delay": 10,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@11",
+     "stands"
+    ],
+    "first": "enforcement",
+    "outcome_differs": true
+   },
+   {
+    "delay": 11,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@12",
+     "stands"
+    ],
+    "first": "enforcement",
+    "outcome_differs": true
+   },
+   {
+    "delay": 12,
+    "I": [
+     "x",
+     "challenged",
+     "order",
+     "executed@1",
+     "reversed"
+    ],
+    "C": [
+     "x",
+     "challenged",
+     "order",
+     "executed@13",
+     "stands"
+    ],
+    "first": "enforcement",
+    "outcome_differs": true
+   }
+  ]
+ },
+ "C_anticipation": {
+  "myopic": {
+   "total": 3388,
+   "first_counts": {
+    "None": 1848,
+    "enforcement": 1540
+   },
+   "share_alike_in_routine_and_parting": 0.45454545454545453
+  },
+  "reviewer": {
+   "total": 3388,
+   "first_counts": {
+    "None": 1848,
+    "ruling": 770,
+    "enforcement": 770
+   },
+   "share_alike_in_routine_and_parting": 0.45454545454545453
+  },
+  "full": {
+   "total": 3388,
+   "first_counts": {
+    "None": 1848,
+    "ruling": 487,
+    "enforcement": 487,
+    "action": 566
+   },
+   "share_alike_in_routine_and_parting": 0.2874852420306966
+  },
+  "full_boundary_matches_analytic": true,
+  "full_boundary_cases": 1620
+ },
+ "D_nonexecution": [
+  {
+   "q_cap": 0.5,
+   "w": 0.05,
+   "P_withheld_given_not_executed": 0.0476
+  },
+  {
+   "q_cap": 0.5,
+   "w": 0.2,
+   "P_withheld_given_not_executed": 0.1667
+  },
+  {
+   "q_cap": 0.5,
+   "w": 0.5,
+   "P_withheld_given_not_executed": 0.3333
+  },
+  {
+   "q_cap": 0.8,
+   "w": 0.05,
+   "P_withheld_given_not_executed": 0.1667
+  },
+  {
+   "q_cap": 0.8,
+   "w": 0.2,
+   "P_withheld_given_not_executed": 0.4444
+  },
+  {
+   "q_cap": 0.8,
+   "w": 0.5,
+   "P_withheld_given_not_executed": 0.6667
+  },
+  {
+   "q_cap": 0.95,
+   "w": 0.05,
+   "P_withheld_given_not_executed": 0.4872
+  },
+  {
+   "q_cap": 0.95,
+   "w": 0.2,
+   "P_withheld_given_not_executed": 0.7917
+  },
+  {
+   "q_cap": 0.95,
+   "w": 0.5,
+   "P_withheld_given_not_executed": 0.9048
+  },
+  {
+   "q_cap": 0.99,
+   "w": 0.05,
+   "P_withheld_given_not_executed": 0.8319
+  },
+  {
+   "q_cap": 0.99,
+   "w": 0.2,
+   "P_withheld_given_not_executed": 0.9519
+  },
+  {
+   "q_cap": 0.99,
+   "w": 0.5,
+   "P_withheld_given_not_executed": 0.9802
+  }
+ ],
+ "E_structural": {
+  "I": false,
+  "C": true
+ }
+}
