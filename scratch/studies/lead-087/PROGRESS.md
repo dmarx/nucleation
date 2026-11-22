@@ -46,8 +46,18 @@ question (perspective vs common-cause coactivity); TERM-072's defeater
   stated in advance the restorative reading fails A4's test. CA: vote
   0.63, none 0.01 in every arm.
 
+- Post-hoc diagnostics (diagnostics.py, summarize_diag.py,
+  summary_diag.txt): four variants (S 40%, low feedback, 3x social rate,
+  window 100), 20 seeds each. U's spillover stays under 0.03 everywhere;
+  evidential sigma is the largest in every variant and beats conform
+  paired (CI excludes 0) but never reaches 0.05. Evidential s_u is
+  negative (U moves away from an unwarranted deviation): the signed
+  max in C2 as stated misses dependence of that sign; with |s| it still
+  fails.
+
 ## Next
 
-- Post-hoc diagnostics, labelled as such (why spillover is small).
+- File CASE (executed-study, variant_of CASE-145), CLAIMs, notes on
+  CASE-145, CLAIM-418, QUESTION-260, LEAD-087, changelog.
 - File CASE (executed-study), CLAIM if warranted, notes on CASE-145,
   CLAIM-418, QUESTION-260, LEAD-087; changelog fragment.
