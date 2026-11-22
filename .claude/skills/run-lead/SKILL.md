@@ -22,6 +22,11 @@ it.
   file in full. Then read every entry the lead's `advances` names, and the
   cases, claims and questions it cites. Read docs/record.md for the
   required fields of any kind you file.
+- Before filing what the lead asks for, check that the record does not
+  already hold it: grep the claims and questions the lead cites, and the
+  entry that named it, for a later filing. A lead can outlive its target
+  (LEAD-059's corollary was already CLAIM-629). If it is held, file no
+  second code (ADR-072); add the dated note on the lead and report.
 - First command: `git fetch origin staging && git checkout -b <your-branch> origin/staging`.
 
 ## 2. Push the branch at once
