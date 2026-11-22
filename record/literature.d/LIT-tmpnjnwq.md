@@ -1,0 +1,78 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-22 (NOTE-tmpdiani) in full from Google's own open edition of
+  the book at sre.google, licensed CC BY-NC-ND 4.0; worth reading here as
+  the worked example of a blameless postmortem that the SRE book's
+  postmortem chapter (LIT-2784) points to, which shows what such a
+  document names as causes and to whom it assigns its action items. It is
+  an illustrative, fictional incident, not a report of a real one.
+title: 'Example Postmortem'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered and read on 2026-11-22 for LEAD-189. Checked on 2026-11-22:
+    not held in record/literature.d by title, URL or book; NOTE-2082 says
+    it was not read with chapter 15. Appendix D of Beyer, Jones, Petoff and
+    Murphy (eds.), Site Reliability Engineering: How Google Runs Production
+    Systems (O'Reilly, 2016). The appendix carries no byline; first_author
+    is the book's first editor. `published:` is the first of January 2016,
+    as for LIT-2784 (ADR-002), since no source read gives a day. The web
+    edition carries "Copyright © 2017 Google, Inc. Published by O'Reilly
+    Media, Inc. Licensed under CC BY-NC-ND 4.0". Read from
+    https://sre.google/sre-book/example-postmortem/ (HTML converted to
+    text). No email address was sent to any service.
+tags:
+- software-engineering
+- society-and-governance
+date: '2026-11-22'
+published: '2016-01-01'
+url: 'https://sre.google/sre-book/example-postmortem/'
+first_author: 'Beyer'
+keywords:
+- 'postmortem'
+- 'example postmortem'
+- 'action items'
+- 'root cause'
+- 'site reliability engineering'
+implementations: []
+summary: >-
+  Appendix D of Google's Site Reliability Engineering (2016), "Example
+  Postmortem", read in NOTE-tmpdiani: a template postmortem for a fictional
+  66-minute outage of "Shakespeare Search". Its root causes are a resource
+  leak and exceptional load; every action item is technical or procedural
+  and owned by a named engineer of the responding teams; the one item that
+  touches policy applies the error-budget freeze already in force. It
+  names no decision above the teams and no person as at fault. It bears on
+  QUESTION-476 and illustrates the design CLAIM-750 describes
+  (THEORY-tmp9j928).
+---
+<!-- inactive-ok-file: NOTE-tmpdiani THEORY-tmp9j928 — new; the reading and its theory -->
+<!-- inactive-ok-file: CLAIM-750 — Proposed; the claim the reading bears on -->
+
+# LIT-tmpnjnwq: Example Postmortem
+
+B. Beyer, C. Jones, J. Petoff and N. R. Murphy (eds.) (2016). "Appendix D. Example Postmortem". In *Site Reliability Engineering: How Google Runs Production Systems*. O'Reilly. https://sre.google/sre-book/example-postmortem/
+
+## Key takeaways
+
+*From the reading (NOTE-tmpdiani).*
+
+- A complete blameless postmortem in Google's template: summary, impact,
+  root causes, trigger, resolution, detection, action items (each with a
+  type, an owner and a bug), lessons learned, timeline and supporting
+  information.
+- Its root causes are technical: "Cascading failure due to combination of
+  exceptionally high load and a resource leak". The nine action items are
+  owned by engineers named in the timeline.
+- The one human error recorded, "found order-of-magnitude error in
+  whiteboard calculations for instance count increase", is in the timeline
+  with no agent named.
+
+## Standing in the record
+
+Registered for LEAD-189 as the worked example the SRE chapter
+(LIT-2784) points to. It is fictional and written to teach the template,
+so it shows the practice's design, not what real postmortems find.
