@@ -36,13 +36,14 @@ from scipy.optimize import minimize
 
 DEFAULTS = dict(
     U=600, I=400, d=8, K=6, G=6,
-    s_between=0.45, s_within=0.30,
+    s_between=0.60, s_within=0.30,
     a=-2.0, b=1.0, s_pop=0.7, pop_power=0.5,
     kappa_comm=0.08,      # exposure weight outside one's community (exposure world)
     kappa_class=0.05,     # exposure weight outside the target class (class policy)
     m=30,                 # exposures per user per period
     m_probe=20,           # random exposures per user per probe fold
-    burn=3, T=15,
+    burn=5, T=15,
+    lam_item=2.0,         # ridge on the item-level factors (tuned once, see README)
     eta=0.10,             # user drift per period toward engaged items
     turnover=0.03,        # share of items replaced per period by creators
 )
@@ -310,24 +311,22 @@ def closure_score(ll_deg, ll_cls, ll_item):
     return float((ll_cls - ll_deg) / den) if den > 1e-6 else float("nan")
 
 
-def poisson_closure(Ctrain, Ctest, lu, li, K, rank):
-    """Unconditional closure on raw counts: degree-only, degree-corrected
-    block model and rank-r truncated SVD, each scaled to the test total,
-    scored by Poisson log-likelihood per user-item cell."""
+def poisson_gain(Ctrain, Ctest, lu, li, K):
+    """Unconditional test on raw counts (exposure not conditioned on): the
+    degree-corrected block model's Poisson log-likelihood per user-item cell
+    on the test counts, minus the degree-only model's, in millinats."""
     tot = Ctest.sum()
     du, di = Ctrain.sum(1), Ctrain.sum(0)
     E0 = np.outer(du, di) / Ctrain.sum()
     om = block_rates(Ctrain, lu, li, K)
     E1 = np.outer(du, di) * om[lu][:, li]
-    Uu, s, Vt = np.linalg.svd(Ctrain, full_matrices=False)
-    E2 = np.clip((Uu[:, :rank] * s[:rank]) @ Vt[:rank], 0, None)
     out = []
-    for E in (E0, E1, E2):
+    for E in (E0, E1):
         E = E * tot / E.sum()
         E = np.maximum(E, 1e-3 * tot / E.size)
         E = E * tot / E.sum()
         out.append(float(np.mean(Ctest * np.log(E) - E)))
-    return out
+    return 1000 * (out[1] - out[0])
 
 
 # -------------------------------------------------------- run
@@ -393,7 +392,7 @@ def evaluate(st, p, arm, cls, hist, pop_counts, rng, controls=None):
     YP = engage(st, p, XP, rng)
     tests = dict(probe=(pairs(XB), YB.ravel()), policy=(pairs(XP), YP.ravel()))
     m_deg = fit_logistic(tr_u, tr_i, tr_y, U, I)
-    m_itm = fit_logistic(tr_u, tr_i, tr_y, U, I, rank=p["d"], lam=1.0)
+    m_itm = fit_logistic(tr_u, tr_i, tr_y, U, I, rank=p["d"], lam=p["lam_item"])
     parts = dict(genre=(ucls, icls))
     if controls:
         parts.update(controls)
@@ -407,7 +406,7 @@ def evaluate(st, p, arm, cls, hist, pop_counts, rng, controls=None):
     Ctr = sum(counts(X, Y, U, I) for X, Y in hist)
     Cte = counts(XP, YP, U, I)
     for name, (cu, ci) in parts.items():
-        out[f"rawclosure_{name}"] = closure_score(*poisson_closure(Ctr, Cte, cu, ci, K, p["d"]))
+        out[f"rawgain_{name}"] = poisson_gain(Ctr, Cte, cu, ci, K)
     # ground truth
     out["truth_r2_users"] = separation_r2(st["u"], ucls)
     out["truth_r2_items"] = separation_r2(st["v"], icls)
