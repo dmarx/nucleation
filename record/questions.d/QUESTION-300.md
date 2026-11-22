@@ -21,6 +21,7 @@ summary: >-
   evidence on whether other-directed motivation survives once that extent
   is controlled.
 ---
+<!-- inactive-ok-file: THEORY-tmp4qq57 — Proposed; the reading of Syropoulos, Law, Coleman and Young, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-491 CLAIM-494 THEORY-1114 THEORY-1115 THEORY-655 THEORY-464 LIT-1700 LIT-1782 LIT-1759 — Proposed, Deferred or Unavailable; the candidate answers, objections and works the question is organised around, cited as open -->
 
 # QUESTION-300: Is any motivation aimed at another's good and at the good of no self, however far a self can extend to include others and groups?
@@ -90,3 +91,11 @@ instruction) apart from concern for a group's welfare, and gives money to
 the group as the outcome. Gifts that follow concern where the criteria
 show no inclusion would be the evidence named here "for a yes"; gifts
 that vanish once the criteria are held fixed, "for a no". Not run.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+**No direct bearing**, no edge (LIT-tmpa7f10, NOTE-tmp11fci). The paper
+treats identification with future generations as one route to concern but
+cannot say whether the concern is self-interested; efficacy toward future
+generations, a route with no self in it, predicts responsibility as
+strongly (r = .58) as identification does (.54).

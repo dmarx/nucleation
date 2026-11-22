@@ -36,6 +36,7 @@ summary: >-
   judgement reaches the far future only when prompted. Which ground holds
   decides whether the owner's thesis has a counterexample here.
 ---
+<!-- inactive-ok-file: THEORY-tmp4qq57 — Proposed; the reading of Syropoulos, Law, Coleman and Young, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-491 LIT-469 LIT-1754 LIT-1716 LIT-1724 LIT-1769 LIT-1712 LIT-1741 LIT-1747 LIT-1678 — Open, Proposed, Deferred or Unavailable; the questions, thesis and works the question is organised around, cited as open -->
 
 # QUESTION-299: What, if anything, do the living owe people who will live in the far future, and does that obligation rest on the good of those people, on an impersonal good, or on what the living themselves value?
@@ -219,3 +220,13 @@ future, apart from caring. None was found.
 - **The design filed** ([CASE-tmp413kq](../cases.d/CASE-tmp413kq.md)) reaches only the future members of
   a group the giver belongs to. Future people in general are a further
   step, which it names as a limit.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+**Descriptive only**, no edge (LIT-tmpa7f10, NOTE-tmp11fci). Its
+responsibility items measure felt obligation ("People living today have an
+obligation to protect future generations, even if it means tightening our
+belts now") and impartial valuation of far-future lives, not what grounds
+the obligation. Its link of future-self continuity to that felt obligation
+is correlational (r = .21), and two pre-registered experiments did not
+reliably move it.

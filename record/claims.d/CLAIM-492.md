@@ -48,6 +48,7 @@ summary: >-
   and predicts that motivation follows that criterion and not caring
   alone.
 ---
+<!-- inactive-ok-file: THEORY-tmp4qq57 — Proposed; the reading of Syropoulos, Law, Coleman and Young, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-491 THEORY-1114 — Proposed, Open or Deferred; the thesis objected to, its question, an unread work and a reading named as an example -->
 <!-- inactive-ok-file: LIT-1683 — Unavailable; Sober and Wilson, named for the objection's lineage and read at second hand in Stich (NOTE-1282), nothing here rests on it -->
 
@@ -153,3 +154,16 @@ objection lists.
   apart from self-definition, cognitive inclusion and continuity, and with
   salience varied by instruction. The thesis has content if the gift
   follows the criterion with concern held fixed.
+
+## Note of 2026-11-22: Syropoulos, Law, Coleman and Young, read
+
+**Consistent with this claim, and an instance of the problem it names**
+(LIT-tmpa7f10, NOTE-tmp11fci). The paper's self-extension toward future
+people, "identification with future generations", is measured partly by
+perspective-taking ("It is easy for me to put myself in the shoes of future
+generations of people") and glossed as "empathy towards future generations
+of people" (Table 2), so its identification–responsibility link (r = .54)
+cannot test a self thesis whose extent must come apart from caring. Its
+cleanest datum is experimental: raising continuity with one's own future
+self (d about .4) did not reliably raise concern for future people (null in
+the replication) or identification with them (null in both). No edge.
