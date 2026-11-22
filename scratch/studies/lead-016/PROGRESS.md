@@ -51,7 +51,20 @@ entries LEAD-016 advances, on CASE-117 and on LEAD-016.
   append to results/runs_<rule>.jsonl; rerun `python3 -I study.py RULE 12`
   resumes.
 
+- The machine is shared with other workers (load ~14 on 4 cores), so the
+  pace was ~4x slower than the smoke test. Restructured at 13:12: seeds
+  cut from 12 to 6 (resume keeps finished items), single-threaded BLAS,
+  time limit 60 min against an estimate of ~35 min.
+- analyze.py and README.md written. First seeds show: (K = 4, matched
+  participation) a rare specialist's recovery rate scales with its share
+  under softmax-gradient routing (moe, moe_aux) and does not under rep;
+  (K = 6) a spare refills a removed or suppressed specialist's niche and
+  the returning specialist is then pre-empted even with its competence
+  intact.
+
 ## Next
 
-- When the run finishes: analyze.py, README.
-- analyze.py, README, then filing.
+- When the run finishes (6 seeds per rule): run analyze.py, commit
+  results/summary.md, then file the CASE (CASE-tmpnti0m created by
+  `luria new case`, template not yet replaced), the CLAIM, dated notes and
+  the changelog fragment.
