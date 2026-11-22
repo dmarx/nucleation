@@ -1,0 +1,94 @@
+---
+status: Read
+paper: LIT-2256
+title: 'Wang and Tang — Emergence of collective oscillations in adaptive cells'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 for LEAD-023 from the arXiv copy (1809.06997v3, 5
+    July 2019, 29 pages with supplement): the main text in full, the
+    supplementary derivations (energy outflow, the weakly nonlinear model)
+    read for their statements, the remaining supplementary figures
+    skipped. Quotations checked by script.
+date: '2026-11-22'
+summary: >-
+  Cells that each sense and release a shared dissipative signal start a
+  collective oscillation when the loop gain and phase match: Nα₁R̃ₐ(ω)R̃ₛ(ω)
+  = 1, a density threshold and a selected frequency predicted from
+  single-cell and signal response functions. Because a dissipative medium
+  lags, the cells must lead in phase, which cells that adapt to a constant
+  stimulus do in an active frequency window where energy flows from cell to
+  signal. Quiescent adaptive cells thus oscillate together where none
+  oscillates alone.
+---
+
+# NOTE-tmpe2mdk: Wang and Tang — Emergence of collective oscillations in adaptive cells
+
+## Contribution
+
+A general condition for "dynamical quorum sensing", collective oscillation
+of cells that communicate through a shared signal, stated in measurable
+response functions, and a proof that adaptation supplies the phase lead the
+condition needs.
+
+## Key results
+
+1. **Not Kuramoto (Introduction).** Dynamical quorum sensing "lies outside
+   the well-known Kuramoto paradigm of oscillator synchronisation": the
+   cells are quiescent alone and "communication through chemical or
+   mechanical signals is essential to activate quiescent cells".
+2. **Onset condition (eq. 4).** For identical cells an oscillatory
+   solution exists "provided N α1 R̃a (ωo )R̃s (ωo ) = 1": a gain condition
+   fixing the onset density Nₒ and a phase-matching condition fixing the
+   frequency ωₒ. "For inhomogeneous cell populations, one simply replaces
+   Ra by its population average". A's formula at A12 is this one.
+3. **Phase lead needs activity (main text, energy flow).** Near
+   equilibrium the medium's response lags; "a leading phase as required by
+   Eq. (4a) for the intracellular signal relay, violates the FDT", so the
+   cells must be out of equilibrium. The work done by a cell on the signal
+   is positive where its response leads.
+4. **Adaptation gives the lead.** Cells that adapt to a constant stimulus
+   lead in phase below a characteristic frequency ω* ≃ (τₐτᵧ)^(−1/2), the
+   "active" window. Shown for a two-component adaptive circuit, for
+   FitzHugh–Nagumo cells at rest, and in a reduced yeast glycolysis model,
+   where the coupled population "continues to oscillate" at densities
+   where "an isolated cell exits from the oscillatory regime into the
+   adaptive regime".
+5. **Checks against data (Discussion).** The predicted onset frequency
+   matches hair-bundle oscillations (8 Hz) and the Dictyostelium period
+   at high flow (about 6.3 min) from measured single-cell responses.
+
+## Assumptions
+
+Cells in one well-mixed medium, additive release, linear response near
+onset, a dissipative signal; identical or averaged cells. Beyond onset
+nonlinearity sets amplitude, and the oscillation can end at a second
+bifurcation.
+
+## Concepts
+
+Dynamical quorum sensing; activity response function R̃ₐ and signal
+response function R̃ₛ; signal relay efficiency N̄ = Nα₁α₂; phase matching;
+adaptation and adaptation error; active frequency window; cell-to-signal
+energy flow.
+
+## Bearing on the record
+
+- **CLAIM-480.** A dynamical case of its thesis, as A said and the note of
+  2026-11-07 asked to verify: the composition (cells plus medium) has a
+  capacity, sustained oscillation, that no cell has alone and the medium
+  does not have, past a threshold set jointly by cell and medium response.
+- **CLAIM-172.** A combined form whose collective variable (the signal's
+  oscillation) does not exist before coupling: each cell both senses and
+  shifts the shared signal, so the coupling is mutual through the medium.
+  It is a stronger case than entrainment of pre-existing oscillators,
+  which the claim's HKB cases are.
+
+## Limitations
+
+Linear theory for the onset only; the amplitude and the end of oscillation
+need model-specific nonlinear work. The experimental comparisons use
+response functions from the literature, not new measurements. Spatial
+structure is ignored.

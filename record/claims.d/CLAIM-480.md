@@ -277,3 +277,8 @@ No status changes.
 ## Note of 2026-11-07: a collective oscillation no cell has, from "Individuation, Possibility, and Disposition"
 
 A12 §6 of the exchange (2026-11-06 to 07) cites Wang and Tang 2019, "Emergence of collective oscillations in adaptive cells" (Nature Communications, doi:10.1038/s41467-019-13573-9; not held, unread), for a population of cells, none a self-sustained oscillator, that oscillates through communication in a shared medium. If the paper says so, it is a dynamical case beside this claim's static one: a capacity of the composition that no part has. Unverified until read; no status change.
+
+## Note of 2026-11-22: Wang and Tang, read
+<!-- inactive-ok-file: THEORY-tmp2gc2a — Proposed; filed by LEAD-023 -->
+
+The note of 2026-11-07 asked whether Wang and Tang say what A cited them for. They do (THEORY-tmp2gc2a; NOTE-tmpe2mdk; LIT-2256): cells at rest, each adapting to a shared signal that it also releases, oscillate together once "N α1 R̃a (ωo )R̃s (ωo ) = 1", and in their yeast model the coupled population "continues to oscillate" where "an isolated cell exits from the oscillatory regime into the adaptive regime". A parallel to this claim, dynamical where its chain is static: the composition has a capacity no part has, at a threshold set jointly by the parts' responses. It is not an instance of eliminating an interior into a boundary constraint, so no edge is written. No status change.

@@ -226,3 +226,8 @@ A contrast, from Ko (THEORY-tmp8cdhs; NOTE-tmpw116e). Two groups with no couplin
 <!-- inactive-ok-file: THEORY-tmpsyokc — Proposed; filed by LEAD-023 -->
 
 A contrast with version 5's sharpening, that synchrony matched to the strong couplings is the mark (THEORY-tmpsyokc; NOTE-tmp5rss0). Here selective synchrony, some units in phase and others apart, is made entirely by one common drive acting through the units' different phase responses, with no coupling among them. Selective synchrony without the couplings known therefore marks nothing about peers; the match to couplings is the part that carries weight. Qualifies how the sharpening is read; no status change.
+
+## Note of 2026-11-22: Wang and Tang, read
+<!-- inactive-ok-file: THEORY-tmp2gc2a — Proposed; filed by LEAD-023 -->
+
+A stronger case than this claim's own (THEORY-tmp2gc2a; NOTE-tmpe2mdk). In Wang and Tang's dynamical quorum sensing each cell both senses and shifts a shared signal, so the coupling is mutual through the medium, and the pair's collective variable, the signal's oscillation, does not exist before coupling: the cells are quiescent alone. The claim's HKB cases coordinate oscillators that already exist. This one shows mutual coupling creating the collective variable, which fits the claim's mark and widens its examples. Supports; no status change.
