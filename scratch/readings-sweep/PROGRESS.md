@@ -12,7 +12,7 @@ LIT-2373, LIT-2363 (sweep-b), 2026-11-22.
 - LIT-1138: NOTE-tmpu5yr1, THEORY-tmpbo3a8, LIT to Active (v3), pagination corrected; dated notes on CASE-104, QUESTION-119, NOTE-1253, NOTE-566, NOTE-1262, NOTE-1278, NOTE-1315.
 - LIT-1874: NOTE-tmpf00ch, THEORY-tmpyc2wm, LIT to Active (v2); dated notes on CLAIM-271, THEORY-131, THEORY-139, LIT-1429, LIT-1432, LEAD-092, QUESTION-265, CLAIM-431, CLAIM-432, NOTE-1094, QUESTION-049, THEORY-137.
 - LIT-2373: NOTE-tmpdb4eb, THEORY-tmp4gziy, LIT to Active (v4), citation 208:164; dated notes on QUESTION-441, LEAD-050, THEORY-1653, THEORY-662.
+- LIT-2363: NOTE-tmphq6zm, THEORY-tmpam6lh, LIT to Active (v3); dated notes on QUESTION-456, LIT-2458, NOTE-1746, LEAD-158, THEORY-1693, CLAIM-482.
 
 ## Next
-- LIT-2363 (NOTE-tmphq6zm, THEORY-tmpam6lh scaffolded).
 - Curation entry, changelog fragment.
