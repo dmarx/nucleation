@@ -135,6 +135,13 @@ From here on, a stop at any moment must lose at most the step in hand.
   prose, and never hand-write link targets.
 - **Vocabularies.** Tags and lines come only from luria.yaml's
   vocabularies.
+- **Relations take the kinds docs/record.md names.** Check each field
+  you write there. Most often missed: `bears_on` on a CLAIM or a CASE
+  takes QUESTION codes only. A claim relates to other claims by
+  `rests_on`, `complements`, `corroborates` or `objects_to`; a case
+  relates to a claim by `illustrates` or `counterexample_to`. A
+  relation to an entry your result only touches stays in the prose and
+  in that entry's dated note.
 - **Excuses for codes not in force.** For every code cited in prose whose
   entry is not in force (Proposed, Deferred, Unfetched, Unavailable,
   Rejected, or new), add `<!-- inactive-ok-file: CODES — reason -->`
