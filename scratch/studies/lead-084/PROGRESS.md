@@ -42,8 +42,16 @@ entropy. No claim or case states a finite-memory error bound.
   > rho(Atilde) in 3.4% (worst ratio 1.18); Atilde unstable in 28%.
   No violation with n - m = 1, where |a_cl| <= |atilde| is proved.
 
+- run.py, test_augment.py (308 pass), results.json/.md, README.md.
+  Results: bound sandwich holds on 400 models (median tightness 0.75);
+  k_min = MZ Hankel rank on all 16 models in section 2, Krylov larger;
+  T(X->Z) = T(X->Y) throughout; rho(A_cl) <= c always; rho(A_cl) > rho(Atil)
+  in 67/2000 (62 not made non-normal), never with n - m = 1; nilpotent
+  counterexample NIL_A (Atil nilpotent, rho(A_cl) = 0.099, natural-frame
+  kernel zero after lag 2); scalar MA zeros = closed-loop eigenvalues to
+  2e-14; QUESTION-222's example: rate 0.9009 per step (h = 0.1).
+
 ## Next
 
-- run.py + test_augment.py + results; README.
 - File CLAIM (demonstrated), CASE, notes on QUESTION-222 and LEAD-084,
   changelog.

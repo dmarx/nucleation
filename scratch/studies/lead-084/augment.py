@@ -157,7 +157,7 @@ def rho(M):
     return 0.0 if M.size == 0 else float(np.max(np.abs(np.linalg.eigvals(M))))
 
 
-def num_rank(M, tol=1e-9):
+def num_rank(M, tol=1e-12):
     if M.size == 0:
         return 0
     s = np.linalg.svd(M, compute_uv=False)
@@ -214,7 +214,8 @@ def predictive_coords(A, L, S):
     M = O @ Ccond @ O.T
     k = num_rank(M)
     U, s, _ = np.linalg.svd(M)
-    return U[:, :k].T @ O, k
+    # scale each coordinate to unit conditional variance, for conditioning
+    return (U[:, :k] / np.sqrt(s[:k])).T @ O, k
 
 
 def mz_kernels(A, L, S, J):
@@ -324,9 +325,64 @@ def cond_cov_lags(F, Q, M, p, extra=False):
     return (R + R.T) / 2
 
 
+def markov_defect(F, Q, M, K=None):
+    """A stationary Gaussian Z is Markov iff C(k) = C(1)C(0)^-1 C(k-1) for
+    every k >= 1. Returns max_k |C(k) - Omega^k C(0)| in whitened
+    coordinates (scale-free), k = 1..K."""
+    Pv = lyap(F, Q)
+    K = K or 2 * F.shape[0] + 2
+    C0 = M @ Pv @ M.T
+    w, V = np.linalg.eigh(C0)
+    Wh = V @ np.diag(1 / np.sqrt(w)) @ V.T
+    C = lambda k: Wh @ M @ np.linalg.matrix_power(F, k) @ Pv @ M.T @ Wh
+    Om = C(1)
+    return max(float(np.abs(C(k) - np.linalg.matrix_power(Om, k)).max()) for k in range(1, K + 1))
+
+
 def logdet_range(Cbig, Csmall, tol=1e-10):
     """1/2 log det(Cbig)/det(Csmall) on the range of Cbig."""
     w, V = np.linalg.eigh(Cbig)
     keep = w > tol * max(1.0, w.max())
     B = V[:, keep]
     return 0.5 * (np.linalg.slogdet(B.T @ Cbig @ B)[1] - np.linalg.slogdet(B.T @ Csmall @ B)[1])
+
+
+def contraction_factor(A, L, S):
+    """c = sqrt(1 - lambda_min(P_R^-1 Q)): the reduced closed loop is a
+    contraction by c in the norm |v| = |P_R^-1/2 v|, so rho(A_cl) <= c."""
+    rf = reduced_filter(A, L, S)
+    P, Q = rf["P"], rf["Q"]
+    lam = np.min(np.real(np.linalg.eigvals(np.linalg.solve(P, Q))))
+    c = np.sqrt(max(0.0, 1 - lam))
+    w, V = np.linalg.eigh(P)
+    Ph = V @ np.diag(np.sqrt(w)) @ V.T
+    Phi = V @ np.diag(1 / np.sqrt(w)) @ V.T
+    normed = np.linalg.norm(Phi @ rf["Acl_r"] @ Ph, 2)
+    return c, normed, rf
+
+
+def ma_zeros_scalar(A, L, S):
+    """For scalar Y: the minimum-phase zeros of phi(B) Y, phi = det(I - A B),
+    from its autocovariances (CLAIM-398's moving-average part)."""
+    n = A.shape[0]
+    phi = np.poly(A)  # phi(B) = sum_k phi[k] B^k
+    Pi = lyap(A, S)
+    gam = lambda k: (acov_Y(A, L, Pi, k) if k >= 0 else acov_Y(A, L, Pi, -k).T)[0, 0]
+    q = n - 1
+    g = [sum(phi[i] * phi[j] * gam(k + j - i) for i in range(n + 1) for j in range(n + 1))
+         for k in range(q + 1)]
+    coeffs = np.array(g[::-1] + g[1:])  # z^q g(z), highest power first
+    r = np.roots(coeffs)
+    return np.sort_complex(r[np.abs(r) < 1])
+
+
+def exact_discretization(Ac, h):
+    """A_h = exp(Ac h) and Sigma_h = int_0^h e^{Ac s} e^{Ac^T s} ds (unit
+    white noise), by Van Loan's block exponential."""
+    from scipy.linalg import expm
+    n = Ac.shape[0]
+    M = np.block([[-Ac, np.eye(n)], [np.zeros((n, n)), Ac.T]]) * h
+    E = expm(M)
+    Ah = E[n:, n:].T
+    Sh = Ah @ E[:n, n:]
+    return Ah, (Sh + Sh.T) / 2
