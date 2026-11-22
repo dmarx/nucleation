@@ -56,7 +56,7 @@ summary: >-
   blameful question is redirected to a generic one. It bears on
   QUESTION-476 and CLAIM-750 (THEORY-tmpm653d, CASE-tmptkkgm).
 ---
-<!-- inactive-ok-file: NOTE-tmpf58r7 THEORY-tmpm653d CASE-tmptkkgm — new; the reading, its theory and the specimen taken from it -->
+<!-- inactive-ok-file: THEORY-tmpm653d CASE-tmptkkgm — new; the theory and the specimen filed from the reading -->
 <!-- inactive-ok-file: CLAIM-750 — Proposed; the claim the reading bears on -->
 
 # LIT-tmpujx6j: Postmortem Culture: Learning from Failure (workbook)

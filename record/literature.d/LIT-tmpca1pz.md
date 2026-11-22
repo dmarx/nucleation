@@ -38,7 +38,6 @@ summary: >-
   complacency", and recalls that a prosecutor had found Uber not
   criminally liable. It bears on CLAIM-751.
 ---
-<!-- inactive-ok-file: NOTE-tmpi1l0m — new; the reading -->
 <!-- inactive-ok-file: CLAIM-751 — Proposed; the claim the reading bears on -->
 
 # LIT-tmpca1pz: Backup Driver Of Autonomous Uber SUV Charged With Negligent Homicide In Arizona

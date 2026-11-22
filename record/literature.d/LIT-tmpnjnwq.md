@@ -46,10 +46,11 @@ summary: >-
   and owned by a named engineer of the responding teams; the one item that
   touches policy applies the error-budget freeze already in force. It
   names no decision above the teams and no person as at fault. It bears on
-  QUESTION-476 and illustrates the design CLAIM-750 describes
-  (THEORY-tmp9j928).
+  QUESTION-476 (THEORY-tmp9j928), and only weakly on CLAIM-750: a
+  fictional incident caused by a bug and a surge has no upstream decision
+  for a trace to miss.
 ---
-<!-- inactive-ok-file: NOTE-tmpdiani THEORY-tmp9j928 — new; the reading and its theory -->
+<!-- inactive-ok-file: THEORY-tmp9j928 — new; the theory filed from the reading -->
 <!-- inactive-ok-file: CLAIM-750 — Proposed; the claim the reading bears on -->
 
 # LIT-tmpnjnwq: Example Postmortem

@@ -50,7 +50,7 @@ summary: >-
   NTSB traced upstream (CASE-292) ended at the operator. It bears on
   QUESTION-476 and CLAIM-751 (THEORY-tmpfdyu6).
 ---
-<!-- inactive-ok-file: NOTE-tmpeb1f9 THEORY-tmpfdyu6 — new; the reading and its theory -->
+<!-- inactive-ok-file: THEORY-tmpfdyu6 — new; the theory filed from the reading -->
 <!-- inactive-ok-file: CASE-292 CLAIM-751 — Proposed; the case and the claim the reading bears on -->
 
 # LIT-tmpum8to: Backup driver of an autonomous Uber pleads guilty to endangerment in pedestrian death
