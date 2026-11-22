@@ -1,0 +1,330 @@
+{
+ "E1/deep_linear_2": {
+  "axes": [
+   "la",
+   "lb"
+  ],
+  "rows": [
+   -2.0,
+   -1.5
+  ],
+  "cols": [
+   -2.0,
+   -1.5,
+   -1.0,
+   -0.5,
+   0.0,
+   0.5,
+   1.0,
+   1.5,
+   2.0
+  ],
+  "map": [
+   "CMMMMMMMM",
+   "CC......."
+  ],
+  "counts": {
+   "coarse-first": 3,
+   "mixed": 8
+  },
+  "cells": 11,
+  "seed_split_cells": 0,
+  "agreement": {
+   "by_cross_covariance": 1.0,
+   "by_input_variance": 0.0,
+   "by_target_strength": 1.0
+  },
+  "exponents": {
+   "beta_g": -0.921,
+   "beta_c": null,
+   "r2": 0.999
+  }
+ },
+ "E1/deep_linear_3": {
+  "axes": [
+   "la",
+   "lb"
+  ],
+  "rows": [
+   -2.0,
+   -1.5
+  ],
+  "cols": [
+   -2.0,
+   -1.5,
+   -1.0,
+   -0.5,
+   0.0,
+   0.5,
+   1.0,
+   1.5,
+   2.0
+  ],
+  "map": [
+   "cMMMMMMMM",
+   "C........"
+  ],
+  "counts": {
+   "coarse-first": 2,
+   "mixed": 8
+  },
+  "cells": 10,
+  "seed_split_cells": 1,
+  "agreement": {
+   "by_cross_covariance": 1.0,
+   "by_input_variance": 0.0,
+   "by_target_strength": 1.0
+  },
+  "exponents": {
+   "beta_g": -1.193,
+   "beta_c": null,
+   "r2": 0.979
+  }
+ },
+ "E1/kernel_linear": {
+  "axes": [
+   "la",
+   "lb"
+  ],
+  "rows": [
+   -2.0,
+   -1.5
+  ],
+  "cols": [
+   -2.0,
+   -1.5,
+   -1.0,
+   -0.5,
+   0.0,
+   0.5,
+   1.0,
+   1.5,
+   2.0
+  ],
+  "map": [
+   "SSSSSSSSS",
+   "SS......."
+  ],
+  "counts": {
+   "simultaneous": 11
+  },
+  "cells": 11,
+  "seed_split_cells": 0,
+  "agreement": {
+   "by_cross_covariance": 0.0,
+   "by_input_variance": 1.0,
+   "by_target_strength": 0.0
+  },
+  "exponents": {
+   "beta_g": 0.0,
+   "beta_c": null,
+   "r2": 0.241
+  }
+ },
+ "E1/kernel_relu_ntk": {
+  "axes": [
+   "la",
+   "lb"
+  ],
+  "rows": [
+   -2.0,
+   -1.5
+  ],
+  "cols": [
+   -2.0,
+   -1.5,
+   -1.0,
+   -0.5,
+   0.0,
+   0.5,
+   1.0,
+   1.5,
+   2.0
+  ],
+  "map": [
+   "SSSSSSSSS",
+   "SS......."
+  ],
+  "counts": {
+   "simultaneous": 11
+  },
+  "cells": 11,
+  "seed_split_cells": 0,
+  "agreement": {
+   "by_cross_covariance": 0.0,
+   "by_input_variance": 1.0,
+   "by_target_strength": 0.0
+  },
+  "exponents": {
+   "beta_g": 0.0,
+   "beta_c": null,
+   "r2": 0.596
+  }
+ },
+ "E1/relu_ntk_2048": {
+  "axes": [
+   "la",
+   "lb"
+  ],
+  "rows": [
+   -2.0,
+   -1.5
+  ],
+  "cols": [
+   -2.0,
+   -1.5,
+   -1.0,
+   -0.5,
+   0.0,
+   0.5,
+   1.0,
+   1.5,
+   2.0
+  ],
+  "map": [
+   "SSSSSSSsm",
+   "S........"
+  ],
+  "counts": {
+   "simultaneous": 9,
+   "mixed": 1
+  },
+  "cells": 10,
+  "seed_split_cells": 2,
+  "agreement": {
+   "by_cross_covariance": 0.1,
+   "by_input_variance": 0.9,
+   "by_target_strength": 0.1
+  },
+  "exponents": {
+   "beta_g": -0.037,
+   "beta_c": null,
+   "r2": 0.19
+  }
+ },
+ "E1/relu_ntk_64": {
+  "axes": [
+   "la",
+   "lb"
+  ],
+  "rows": [
+   -2.0,
+   -1.5
+  ],
+  "cols": [
+   -2.0,
+   -1.5,
+   -1.0,
+   -0.5,
+   0.0,
+   0.5,
+   1.0,
+   1.5,
+   2.0
+  ],
+  "map": [
+   "CcMMMMMMM",
+   "C........"
+  ],
+  "counts": {
+   "coarse-first": 3,
+   "mixed": 7
+  },
+  "cells": 10,
+  "seed_split_cells": 1,
+  "agreement": {
+   "by_cross_covariance": 0.9,
+   "by_input_variance": 0.0,
+   "by_target_strength": 0.9
+  },
+  "exponents": {
+   "beta_g": -0.418,
+   "beta_c": null,
+   "r2": 0.872
+  }
+ },
+ "E1/relu_small": {
+  "axes": [
+   "la",
+   "lb"
+  ],
+  "rows": [
+   -2.0,
+   -1.5
+  ],
+  "cols": [
+   -2.0,
+   -1.5,
+   -1.0,
+   -0.5,
+   0.0,
+   0.5,
+   1.0,
+   1.5,
+   2.0
+  ],
+  "map": [
+   "CmMMMMMMm",
+   "C........"
+  ],
+  "counts": {
+   "coarse-first": 2,
+   "mixed": 8
+  },
+  "cells": 10,
+  "seed_split_cells": 2,
+  "agreement": {
+   "by_cross_covariance": 1.0,
+   "by_input_variance": 0.0,
+   "by_target_strength": 1.0
+  },
+  "exponents": {
+   "beta_g": -0.281,
+   "beta_c": null,
+   "r2": 0.744
+  }
+ },
+ "E1/relu_std_1": {
+  "axes": [
+   "la",
+   "lb"
+  ],
+  "rows": [
+   -2.0,
+   -1.5
+  ],
+  "cols": [
+   -2.0,
+   -1.5,
+   -1.0,
+   -0.5,
+   0.0,
+   0.5,
+   1.0,
+   1.5,
+   2.0
+  ],
+  "map": [
+   "csmMMMMMM",
+   "c........"
+  ],
+  "counts": {
+   "coarse-first": 2,
+   "simultaneous": 1,
+   "mixed": 7
+  },
+  "cells": 10,
+  "seed_split_cells": 4,
+  "agreement": {
+   "by_cross_covariance": 0.9,
+   "by_input_variance": 0.1,
+   "by_target_strength": 0.9
+  },
+  "exponents": {
+   "beta_g": -0.376,
+   "beta_c": null,
+   "r2": 0.829
+  }
+ },
+ "E3": {}
+}
