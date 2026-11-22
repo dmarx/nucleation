@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmp36b7e), from the publisher's
+  read in full 2026-11-22 ([NOTE-tmp36b7e](../notes.d/NOTE-tmp36b7e.md)), from the publisher's
   open-access page (nature.com/articles/s41598-018-34098-z, CC BY 4.0).
   Worth reading as the only study found that changes reported
   mind-wandering by brain stimulation and measures meta-awareness beside
@@ -45,7 +45,7 @@ extends:
 - LIT-tmpquab4
 summary: >-
   Axelrod, Zhu and Qiu (2018), Scientific Reports. A direct replication of
-  LIT-tmpquab4 by its first author, with 85 participants in China, between
+  [LIT-tmpquab4](LIT-tmpquab4.md) by its first author, with 85 participants in China, between
   subjects: anodal tDCS at F3 (30 min, 1 mA) during a one-hour SART raised
   task-unrelated thought relative to sham and occipital stimulation
   (F(2,82) = 9.77, p < 0.001; d about 1). A second probe asked "To what
@@ -64,7 +64,7 @@ frontal lobes increases propensity of mind-wandering without changing
 meta-awareness. *Scientific Reports* 8: 15975. DOI
 10.1038/s41598-018-34098-z.
 
-Read in full in NOTE-tmp36b7e.
+Read in full in [NOTE-tmp36b7e](../notes.d/NOTE-tmp36b7e.md).
 
 ## Key takeaways
 
@@ -83,10 +83,10 @@ Read in full in NOTE-tmp36b7e.
 
 ## Standing in the record
 
-Registered for LEAD-141 as the nearest the literature comes to a test of
-Metzinger's H1 (LIT-1945, p. 14). It does not test H1, which needs the
+Registered for [LEAD-141](../leads.d/LEAD-141.md) as the nearest the literature comes to a test of
+Metzinger's H1 ([LIT-1945](LIT-1945.md), p. 14). It does not test H1, which needs the
 agent model's availability blocked; it shows instead that the one
 manipulation cited for H1 changes reported mind-wandering without a
 measurable change in meta-awareness. It conflicts with the pre-registered
-null of LIT-tmp9cpfz, which was submitted before it appeared and does not
+null of [LIT-tmp9cpfz](LIT-tmp9cpfz.md), which was submitted before it appeared and does not
 discuss it.

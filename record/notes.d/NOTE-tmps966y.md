@@ -19,7 +19,7 @@ history:
     51(3): 755–780) was not compared with the preprint.
 date: '2026-11-22'
 summary: >-
-  A pre-registered three-lab replication of LIT-tmpquab4 (192
+  A pre-registered three-lab replication of [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md) (192
   participants, same montage, double-blind) found no increase in reported
   mind-wandering under anodal prefrontal tDCS: the effect was slightly
   negative and its interval included zero, the null was favoured over a
@@ -95,24 +95,24 @@ effect could not be assigned to the DLPFC.
 
 ## Connections
 
-Replicates LIT-tmpquab4 and fails. It cites Fox and Christoff and
+Replicates [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md) and fails. It cites Fox and Christoff and
 Broadway et al. as the endorsements that made a replication urgent. It
 predates and does not discuss the first author's own positive replication
-(LIT-tmpg3vlm). It reads the Kajimura and Bertossi results, from parietal
+([LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md)). It reads the Kajimura and Bertossi results, from parietal
 and medial prefrontal montages, as possible real effects still needing
 replication.
 
 ## Bearing on the record
 
-- **Metzinger's H1, THEORY-1300.** If the tDCS effect is absent, the study
+- **Metzinger's H1, [THEORY-1300](../theory.d/THEORY-1300.md).** If the tDCS effect is absent, the study
   Metzinger cites first for H1 is not evidence of anything about
   mind-wandering's onset, and his "early examples of relevant studies"
   reduces to a direction of research. It does not test H1 either way: the
   manipulation does not target the agent model.
-- **CLAIM-027, ARG-051.** None directly. It narrows what the record can
+- **[CLAIM-027](../claims.d/CLAIM-027.md), [ARG-051](../arguments.d/ARG-051.md).** None directly. It narrows what the record can
   lean on from the stimulation literature at all: before any reading of
   the tDCS work as a change in a condition of efficacy, the effect has to
-  be real. Verdict in ARG-tmpqszyu.
+  be real. Verdict in [ARG-tmpqszyu](../arguments.d/ARG-tmpqszyu.md).
 - **The record's method.** A case, for the record's own practice, of a
   causal claim from two small samples failing under pre-registration;
   noted, no edge.
@@ -132,6 +132,6 @@ replication.
 
 ## Open questions
 
-- Why does the first author's replication (LIT-tmpg3vlm, n = 85, d about 1)
+- Why does the first author's replication ([LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md), n = 85, d about 1)
   succeed where this one fails? Lab, language, device and sham length
   differ; none of the papers tests which matters.

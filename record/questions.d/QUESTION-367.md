@@ -107,11 +107,11 @@ separately must be the ability, for instance by externally cued stopping.
 
 ## Note of 2026-11-22: a dissociation at the level of the measure
 
-LEAD-141 searched for interventions on the agent's representation of its
+[LEAD-141](../leads.d/LEAD-141.md) searched for interventions on the agent's representation of its
 own control and found none that tests H1 or H3. The nearest result is
-Axelrod, Zhu and Qiu (2018), LIT-tmpg3vlm, read in NOTE-tmp36b7e: frontal
+Axelrod, Zhu and Qiu (2018), [LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md), read in [NOTE-tmp36b7e](../notes.d/NOTE-tmp36b7e.md): frontal
 stimulation raised reported mind-wandering while rated meta-awareness of
-where attention was focused did not change (THEORY-tmprbqew). It is weak
+where attention was focused did not change ([THEORY-tmprbqew](../theory.d/THEORY-tmprbqew.md)). It is weak
 evidence on this question, written as `bears_on` from that reading: the
 rate at which control lapses moved while the agent's self-rating did not,
 which fits accompaniment better than condition for that rating. It cannot

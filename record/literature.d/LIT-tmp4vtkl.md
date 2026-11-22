@@ -1,12 +1,12 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmp58cil), from the PubMed Central page
+  read in full 2026-11-22 ([NOTE-tmp58cil](../notes.d/NOTE-tmp58cil.md)), from the PubMed Central page
   (pmc.ncbi.nlm.nih.gov/articles/PMC4434747/). A one-page letter, read
-  beside LIT-tmpquab4 because it raises the reading of that study that
+  beside [LIT-tmpquab4](LIT-tmpquab4.md) because it raises the reading of that study that
   matters for Metzinger's H1: that prefrontal stimulation may have changed
   meta-awareness of mind-wandering, not, or not only, its frequency.
-  LIT-tmpg3vlm tested this and did not find it.
+  [LIT-tmpg3vlm](LIT-tmpg3vlm.md) tested this and did not find it.
 title: 'Transcranial direct current stimulation to lateral prefrontal cortex could increase meta-awareness of mind wandering'
 version: 1
 history:
@@ -36,7 +36,7 @@ keywords:
 - 'mind wandering'
 implementations: []
 summary: >-
-  Fox and Christoff (2015), a letter in PNAS on LIT-tmpquab4. Lateral
+  Fox and Christoff (2015), a letter in PNAS on [LIT-tmpquab4](LIT-tmpquab4.md). Lateral
   prefrontal regions are implicated in meta-awareness, and theta-burst TMS
   to dorsolateral PFC has impaired metacognitive awareness, so the
   stimulation "may also have altered participants' meta-awareness of
@@ -52,7 +52,7 @@ stimulation to lateral prefrontal cortex could increase meta-awareness of
 mind wandering. *Proceedings of the National Academy of Sciences* 112(19):
 E2414. DOI 10.1073/pnas.1504686112.
 
-Read in full in NOTE-tmp58cil.
+Read in full in [NOTE-tmp58cil](../notes.d/NOTE-tmp58cil.md).
 
 ## Key takeaways
 
@@ -65,6 +65,6 @@ Read in full in NOTE-tmp58cil.
 
 ## Standing in the record
 
-A supplement to LIT-tmpquab4 for LEAD-141. Its direction is the reverse of
+A supplement to [LIT-tmpquab4](LIT-tmpquab4.md) for [LEAD-141](../leads.d/LEAD-141.md). Its direction is the reverse of
 what Metzinger's H1 would need: it supposes that stimulation raised the
 agent's awareness of its own thought, where H1 needs it blocked.

@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmp7gplv), from the PubMed Central article
+  read in full 2026-11-22 ([NOTE-tmp7gplv](../notes.d/NOTE-tmp7gplv.md)), from the PubMed Central article
   page (pmc.ncbi.nlm.nih.gov/articles/PMC4371998/). Worth reading as the
   first study to change self-reported mind-wandering by brain stimulation,
-  and as the study Metzinger cites first for his H1 (LIT-1945, p. 14). It
+  and as the study Metzinger cites first for his H1 ([LIT-1945](LIT-1945.md), p. 14). It
   does not test H1: the stimulation is not shown to touch the agent's model
   of its own control, and a pre-registered multi-lab replication of its
-  main effect failed (LIT-tmp9cpfz), while the first author's own
-  replication succeeded (LIT-tmpg3vlm).
+  main effect failed ([LIT-tmp9cpfz](LIT-tmp9cpfz.md)), while the first author's own
+  replication succeeded ([LIT-tmpg3vlm](LIT-tmpg3vlm.md)).
 title: 'Increasing propensity to mind-wander with transcranial direct current stimulation'
 version: 1
 history:
@@ -66,7 +66,7 @@ to mind-wander with transcranial direct current stimulation. *Proceedings
 of the National Academy of Sciences* 112(11): 3314–3319. DOI
 10.1073/pnas.1421435112.
 
-Read in full in NOTE-tmp7gplv.
+Read in full in [NOTE-tmp7gplv](../notes.d/NOTE-tmp7gplv.md).
 
 ## Key takeaways
 
@@ -86,11 +86,11 @@ Read in full in NOTE-tmp7gplv.
 
 ## Standing in the record
 
-Registered and read for LEAD-141, because Metzinger's 2017 chapter
-(LIT-1945, p. 14) cites it, with Broadway et al.'s commentary, among the "early
+Registered and read for [LEAD-141](../leads.d/LEAD-141.md), because Metzinger's 2017 chapter
+([LIT-1945](LIT-1945.md), p. 14) cites it, with Broadway et al.'s commentary, among the "early
 examples of relevant studies" for his H1, that "selectively blocking [the
 epistemic agent model's] introspective availability should suffice to
 trigger a mind wandering episode". The reading finds it is not a test of
-H1, for the reasons in NOTE-tmp7gplv and ARG-tmpqszyu. Its main effect is
-contested: replicated by its first author (LIT-tmpg3vlm), not replicated in
-a pre-registered three-lab study of 192 participants (LIT-tmp9cpfz).
+H1, for the reasons in [NOTE-tmp7gplv](../notes.d/NOTE-tmp7gplv.md) and [ARG-tmpqszyu](../arguments.d/ARG-tmpqszyu.md). Its main effect is
+contested: replicated by its first author ([LIT-tmpg3vlm](LIT-tmpg3vlm.md)), not replicated in
+a pre-registered three-lab study of 192 participants ([LIT-tmp9cpfz](LIT-tmp9cpfz.md)).

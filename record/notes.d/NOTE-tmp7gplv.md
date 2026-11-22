@@ -101,37 +101,37 @@ mind-wandering uses, not a brake on it.
 ## Connections
 
 The first stimulation study of mind-wandering. Fox and Christoff's letter
-(LIT-tmp4vtkl) proposed that the stimulation raised meta-awareness rather
+([LIT-tmp4vtkl](../literature.d/LIT-tmp4vtkl.md)) proposed that the stimulation raised meta-awareness rather
 than, or besides, mind-wandering. The first author's direct replication
-(LIT-tmpg3vlm, n = 85) reproduced the effect and found meta-awareness
-unchanged. A pre-registered three-lab replication (LIT-tmp9cpfz, n = 192)
+([LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md), n = 85) reproduced the effect and found meta-awareness
+unchanged. A pre-registered three-lab replication ([LIT-tmp9cpfz](../literature.d/LIT-tmp9cpfz.md), n = 192)
 found no effect and strong evidence against the original effect size, and
 a 2023 meta-analysis of fifteen studies by two of its authors (Nawani,
 Mittner and Csifcsák, DOI 10.1016/j.neuroimage.2023.120051, abstract only)
 reports "no reliable evidence for tDCS influencing MW in the healthy".
-Metzinger (LIT-1945, p. 14) cites this paper and Broadway et al. (2015) as
+Metzinger ([LIT-1945](../literature.d/LIT-1945.md), p. 14) cites this paper and Broadway et al. (2015) as
 "early examples of relevant studies" for his H1.
 
 ## Bearing on the record
 
-- **Metzinger's H1, and THEORY-1300 and THEORY-1296.** H1 reads: "if an EAM
+- **Metzinger's H1, and [THEORY-1300](../theory.d/THEORY-1300.md) and [THEORY-1296](../theory.d/THEORY-1296.md).** H1 reads: "if an EAM
   is in place, then selectively blocking its introspective availability
-  should suffice to trigger a mind wandering episode" (LIT-1945, p. 14).
+  should suffice to trigger a mind wandering episode" ([LIT-1945](../literature.d/LIT-1945.md), p. 14).
   This study is relevant to H1 only in its outcome measure. Its
   manipulation is not shown to block anything: it is anodal, usually taken
   to raise excitability; the authors read it as adding executive capacity;
   and nothing in it measures the agent's awareness of its own thought or
-  control. It therefore does not meet THEORY-1300's promote_when, which
+  control. It therefore does not meet [THEORY-1300](../theory.d/THEORY-1300.md)'s promote_when, which
   asks for "an intervention on the self-model's representation of the
   capacity alone, with the capacity checked independently". Support
-  verdict: ARG-tmpqszyu.
-- **CLAIM-027 and ARG-051.** The claim's test is a change in a condition of
+  verdict: [ARG-tmpqszyu](../arguments.d/ARG-tmpqszyu.md).
+- **[CLAIM-027](../claims.d/CLAIM-027.md) and [ARG-051](../arguments.d/ARG-051.md).** The claim's test is a change in a condition of
   efficacy with the competing regimes held fixed. Here the reported amount
   of task-unrelated thought is the outcome, and what produced it (more
   candidate thoughts, more capacity to sustain them, less monitoring) is
   undetermined, so the competing thoughts are not held fixed or measured.
-  It neither supports nor defeats the claim; ARG-tmpqszyu files that.
-- **QUESTION-367.** No bearing beyond the above: the study does not touch
+  It neither supports nor defeats the claim; [ARG-tmpqszyu](../arguments.d/ARG-tmpqszyu.md) files that.
+- **[QUESTION-367](../questions.d/QUESTION-367.md).** No bearing beyond the above: the study does not touch
   the agent's representation of its capacity.
 - No instruction for machine-learning practice.
 
@@ -150,7 +150,7 @@ Metzinger (LIT-1945, p. 14) cites this paper and Broadway et al. (2015) as
 
 ## Open questions
 
-- Does the effect survive pre-registration? Contested (LIT-tmpg3vlm against
-  LIT-tmp9cpfz).
+- Does the effect survive pre-registration? Contested ([LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md) against
+  [LIT-tmp9cpfz](../literature.d/LIT-tmp9cpfz.md)).
 - If real, does it act on the generation of off-task thought, on its
   maintenance, or on the monitoring that would end it?

@@ -21,15 +21,15 @@ source:
 rivals:
 - THEORY-tmpseev1
 summary: >-
-  Axelrod, Rees, Lavidor and Bar (2015), LIT-tmpquab4, read in
-  NOTE-tmp7gplv. Two small experiments (n = 14 and 31). The causal clause
+  Axelrod, Rees, Lavidor and Bar (2015), [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md), read in
+  [NOTE-tmp7gplv](../notes.d/NOTE-tmp7gplv.md). Two small experiments (n = 14 and 31). The causal clause
   is the authors' inference; the executive-capacity clause rests on a
   non-significant rise in target detection. The effect was replicated by
-  the first author (THEORY-tmprbqew) and not in a pre-registered
-  three-lab study (THEORY-tmpseev1), so the two accounts rival. It does
+  the first author ([THEORY-tmprbqew](THEORY-tmprbqew.md)) and not in a pre-registered
+  three-lab study ([THEORY-tmpseev1](THEORY-tmpseev1.md)), so the two accounts rival. It does
   not say that the stimulation changed the agent's awareness of its own
   thought or control, which was not measured, and so it is not a test of
-  Metzinger's H1, which the 2017 chapter (LIT-1945, p. 14) cited it for.
+  Metzinger's H1, which the 2017 chapter ([LIT-1945](../literature.d/LIT-1945.md), p. 14) cited it for.
 ---
 <!-- inactive-ok-file: THEORY-tmprbqew THEORY-tmpseev1 — new in this filing and Proposed; the readings and the support verdict, cited as open -->
 <!-- inactive-ok-file: THEORY-1300 — Proposed; Metzinger's account, cited as open -->
@@ -38,7 +38,7 @@ summary: >-
 
 ## Source
 
-Axelrod, Rees, Lavidor and Bar (2015), LIT-tmpquab4, read in NOTE-tmp7gplv:
+Axelrod, Rees, Lavidor and Bar (2015), [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md), read in [NOTE-tmp7gplv](../notes.d/NOTE-tmp7gplv.md):
 "stimulation of the frontal lobes [anode electrode at the left dorsolateral
 prefrontal cortex (DLPFC), cathode electrode at the right supraorbital
 area], but not of the occipital cortex or sham stimulation, increased the
@@ -64,7 +64,7 @@ and in the second experiment it did not.
   it as adding executive capacity. Nothing measured the agent's
   meta-awareness, its sense of control, or when episodes began or ended.
   So it does not bear on whether blocking the agent's model of its own
-  control starts mind-wandering (Metzinger's H1, THEORY-1300), though it
+  control starts mind-wandering (Metzinger's H1, [THEORY-1300](THEORY-1300.md)), though it
   was cited for that.
 - **That the effect is robust.** It rests on two small samples; see the
-  rival account THEORY-tmpseev1.
+  rival account [THEORY-tmpseev1](THEORY-tmpseev1.md).

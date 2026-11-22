@@ -21,14 +21,14 @@ rivals:
 - THEORY-tmpgl7zr
 - THEORY-tmprbqew
 summary: >-
-  Boayue and ten colleagues (2019/2020), LIT-tmp9cpfz, read from the
-  authors' preprint in NOTE-tmps966y: a pre-registered three-lab
-  replication (n = 192) of THEORY-tmpgl7zr's experiment, with d = -0.11
+  Boayue and ten colleagues (2019/2020), [LIT-tmp9cpfz](../literature.d/LIT-tmp9cpfz.md), read from the
+  authors' preprint in [NOTE-tmps966y](../notes.d/NOTE-tmps966y.md): a pre-registered three-lab
+  replication (n = 192) of [THEORY-tmpgl7zr](THEORY-tmpgl7zr.md)'s experiment, with d = -0.11
   (HDI [-0.38, 0.17]), BF 10.65 for the null against a positive effect, and
   a replication Bayes factor of 0.002. The false-positive clause is the
-  authors' inference. It rivals THEORY-tmpgl7zr and the first author's
-  positive replication, THEORY-tmprbqew, which it predates and does not
-  discuss. Whether it corrects THEORY-tmpgl7zr is left to the owner.
+  authors' inference. It rivals [THEORY-tmpgl7zr](THEORY-tmpgl7zr.md) and the first author's
+  positive replication, [THEORY-tmprbqew](THEORY-tmprbqew.md), which it predates and does not
+  discuss. Whether it corrects [THEORY-tmpgl7zr](THEORY-tmpgl7zr.md) is left to the owner.
 ---
 <!-- inactive-ok-file: THEORY-tmpgl7zr THEORY-tmprbqew — new in this filing and Proposed; the readings and the support verdict, cited as open -->
 
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Boayue et al. (2019/2020), LIT-tmp9cpfz, read in NOTE-tmps966y: "we
+Boayue et al. (2019/2020), [LIT-tmp9cpfz](../literature.d/LIT-tmp9cpfz.md), read in [NOTE-tmps966y](../notes.d/NOTE-tmps966y.md): "we
 conclude that the original result by Axelrod et al. (2015) was most likely
 a false positive finding caused by strong variability and low sample size"
 (§4).

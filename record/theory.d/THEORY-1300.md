@@ -136,10 +136,10 @@ Metzinger's H1 and H3, blocking and restoring the epistemic agent model's intros
 The promote_when asks for "an intervention on the self-model's
 representation of the capacity alone, with the capacity checked
 independently". The study Metzinger cites first for H1, Axelrod et al.
-(2015), LIT-tmpquab4 (THEORY-tmpgl7zr), is not one: anodal frontal
+(2015), [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md) ([THEORY-tmpgl7zr](THEORY-tmpgl7zr.md)), is not one: anodal frontal
 stimulation raised reported mind-wandering with no measure of the
 representation. The first author's replication measured meta-awareness and
-found it unchanged while mind-wandering rose (THEORY-tmprbqew), and a
-pre-registered replication found no effect (THEORY-tmpseev1). A
+found it unchanged while mind-wandering rose ([THEORY-tmprbqew](THEORY-tmprbqew.md)), and a
+pre-registered replication found no effect ([THEORY-tmpseev1](THEORY-tmpseev1.md)). A
 contrast, not evidence for or against this account: no edge. A search of
-2026-11-22 (LEAD-141) found no study that meets the promote_when.
+2026-11-22 ([LEAD-141](../leads.d/LEAD-141.md)) found no study that meets the promote_when.

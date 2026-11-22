@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-22 (NOTE-tmps966y) from the authors' preprint on PsyArXiv
+  read 2026-11-22 ([NOTE-tmps966y](../notes.d/NOTE-tmps966y.md)) from the authors' preprint on PsyArXiv
   (osf.io/dfex3, file osf.io/download/3rfrs/, "Preprint submitted to
   European Journal of Neuroscience, September 25, 2018"), not from the
   published version. Worth reading as the strongest test of
-  LIT-tmpquab4: a pre-registered, three-lab, double-blind replication with
+  [LIT-tmpquab4](LIT-tmpquab4.md): a pre-registered, three-lab, double-blind replication with
   192 participants, which found no increase in reported mind-wandering
   under the same montage (d = -0.11, HDI [-0.38, 0.17]) and strong
   evidence against the original effect size (replication BF 0.002).
@@ -47,7 +47,7 @@ compared_against:
 summary: >-
   Boayue and ten colleagues (2019/2020), European Journal of Neuroscience. A
   pre-registered, sequential-sampling, double-blind replication of
-  LIT-tmpquab4's experiment in Tromsø, Amsterdam and Göttingen (N = 192,
+  [LIT-tmpquab4](LIT-tmpquab4.md)'s experiment in Tromsø, Amsterdam and Göttingen (N = 192,
   anodal F3 tDCS against sham). Reported mind-wandering was slightly
   lower under stimulation (d = -0.11, 95% HDI [-0.38, 0.17]); the null was
   favoured over a positive effect (BF 10.65), and the replication Bayes
@@ -67,7 +67,7 @@ stimulation? A registered report. *European Journal of Neuroscience* 51(3):
 755–780. DOI 10.1111/ejn.14347. Read as the authors' preprint,
 osf.io/dfex3.
 
-Read in NOTE-tmps966y.
+Read in [NOTE-tmps966y](../notes.d/NOTE-tmps966y.md).
 
 ## Key takeaways
 
@@ -84,7 +84,7 @@ Read in NOTE-tmps966y.
 
 ## Standing in the record
 
-Registered for LEAD-141. With LIT-tmpg3vlm it leaves the tDCS effect on
+Registered for [LEAD-141](../leads.d/LEAD-141.md). With [LIT-tmpg3vlm](LIT-tmpg3vlm.md) it leaves the tDCS effect on
 mind-wandering contested; a later meta-analysis by two of its authors
 (Nawani, Mittner and Csifcsák 2023, NeuroImage, DOI
 10.1016/j.neuroimage.2023.120051, abstract only, not registered) finds "no

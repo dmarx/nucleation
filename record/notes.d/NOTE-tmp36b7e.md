@@ -16,7 +16,7 @@ history:
     reCAPTCHA, at which the session stopped.
 date: '2026-11-22'
 summary: >-
-  A direct, larger replication of LIT-tmpquab4 by its first author, adding
+  A direct, larger replication of [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md) by its first author, adding
   a meta-awareness probe. Frontal anodal tDCS again raised reported
   task-unrelated thought (d about 1 against sham and against occipital
   stimulation), while meta-awareness of where attention was focused did
@@ -36,7 +36,7 @@ country and language, run by a different experimenter, and adds the
 measure the 2015 study lacked: a probe of meta-awareness after each
 mind-wandering probe. It finds the stimulation effect on mind-wandering
 and no effect on meta-awareness, and so answers Fox and Christoff's
-alternative (LIT-tmp4vtkl) in the negative.
+alternative ([LIT-tmp4vtkl](../literature.d/LIT-tmp4vtkl.md)) in the negative.
 
 ## Key insight
 
@@ -92,17 +92,17 @@ off-task thought there was, not how much of it the participant noticed.
 
 ## Connections
 
-Extends LIT-tmpquab4 and answers LIT-tmp4vtkl. It cites Kajimura and
+Extends [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md) and answers [LIT-tmp4vtkl](../literature.d/LIT-tmp4vtkl.md). It cites Kajimura and
 Nomura and Bertossi et al. for the reverse effect of cathodal frontal
 stimulation. It does not cite the pre-registered replication
-(LIT-tmp9cpfz), whose preprint is dated September 2018; a commentary by
+([LIT-tmp9cpfz](../literature.d/LIT-tmp9cpfz.md)), whose preprint is dated September 2018; a commentary by
 that group on this paper exists (Csifcsák et al. 2019, Frontiers in
 Psychology 10: 130, DOI 10.3389/fpsyg.2019.00130), not read: the PMC page
 gave a reCAPTCHA.
 
 ## Bearing on the record
 
-- **Metzinger's H1, THEORY-1300.** This is the nearest test found. Rated
+- **Metzinger's H1, [THEORY-1300](../theory.d/THEORY-1300.md).** This is the nearest test found. Rated
   meta-awareness is the closest measured thing to the introspective
   availability of the epistemic agent model, though not the same thing:
   it asks about awareness of where attention was, not about awareness of
@@ -115,24 +115,24 @@ gave a reCAPTCHA.
   agent's awareness; where it works, it works another way. That is a
   route to mind-wandering that bypasses the agent model, which H1 does
   not exclude ("should suffice" is a sufficiency claim) but which leaves
-  H1 untested. THEORY-1300's promote_when is not met.
-- **QUESTION-367.** Weak evidence on the side the question calls
+  H1 untested. [THEORY-1300](../theory.d/THEORY-1300.md)'s promote_when is not met.
+- **[QUESTION-367](../questions.d/QUESTION-367.md).** Weak evidence on the side the question calls
   accompaniment, at the level of the measure: the rate of mind-wandering
   moved while the agent's rating of its own awareness did not. It cannot
   answer the question, which is about the representation of a capacity
   to control, not of attention's location, and needs the representation
-  manipulated. Written as `bears_on` from THEORY-tmprbqew.
-- **CLAIM-027 and ARG-051.** A change in which thought holds the mind
+  manipulated. Written as `bears_on` from [THEORY-tmprbqew](../theory.d/THEORY-tmprbqew.md).
+- **[CLAIM-027](../claims.d/CLAIM-027.md) and [ARG-051](../arguments.d/ARG-051.md).** A change in which thought holds the mind
   without a change in the measured self-representation: if anything a
   case where efficacy moved for reasons other than the representational
-  condition ARG-051 names. Since the competing thoughts are not held
-  fixed, it does not bear on CLAIM-027's defeater. Verdict in
-  ARG-tmpqszyu.
-- **CLAIM-156** (noticing an impulse as an impulse suspends its control) is
+  condition [ARG-051](../arguments.d/ARG-051.md) names. Since the competing thoughts are not held
+  fixed, it does not bear on [CLAIM-027](../claims.d/CLAIM-027.md)'s defeater. Verdict in
+  [ARG-tmpqszyu](../arguments.d/ARG-tmpqszyu.md).
+- **[CLAIM-156](../claims.d/CLAIM-156.md)** (noticing an impulse as an impulse suspends its control) is
   about what meta-awareness does when present; this study changes
   mind-wandering without changing meta-awareness, which the claim allows.
   A contrast, no edge.
-- **THEORY-1298** (the return of control is represented as self-caused
+- **[THEORY-1298](../theory.d/THEORY-1298.md)** (the return of control is represented as self-caused
   whatever caused it) is not touched: no episode ends are recorded.
 - No instruction for machine-learning practice.
 
@@ -141,7 +141,7 @@ gave a reCAPTCHA.
 - **Fixed probe order**, which the authors say may bias the meta-awareness
   report; one item for each construct.
 - **Not pre-registered as a registered report**, and the effect conflicts
-  with LIT-tmp9cpfz's pre-registered null with the same montage.
+  with [LIT-tmp9cpfz](../literature.d/LIT-tmp9cpfz.md)'s pre-registered null with the same montage.
 - **Meta-awareness of attention's focus is not the agent model of
   control.** The step from an unchanged meta-awareness rating to "not mediated by or
   regulated by meta-awareness" is the authors' and assumes the probe measures the

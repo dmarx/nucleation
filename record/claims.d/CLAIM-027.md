@@ -243,13 +243,13 @@ The claim is unchanged.
 
 ## Note of 2026-11-22: the stimulation studies Metzinger cited do not test it
 
-LEAD-141 read Axelrod et al. (2015), LIT-tmpquab4, which Metzinger cites
+[LEAD-141](../leads.d/LEAD-141.md) read Axelrod et al. (2015), [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md), which Metzinger cites
 for H1, the test the note of 2026-11-01 names for this claim at the scale
-of thought, together with its two replications (LIT-tmpg3vlm,
-LIT-tmp9cpfz). Frontal tDCS changes how much off-task thought people
+of thought, together with its two replications ([LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md),
+[LIT-tmp9cpfz](../literature.d/LIT-tmp9cpfz.md)). Frontal tDCS changes how much off-task thought people
 report, where it changes it at all, but the competing thoughts are not
 held fixed, the agent's model of its control is not shown to change, and
-the effect is contested. ARG-tmpqszyu files the verdict, Rejected: the
+the effect is contested. [ARG-tmpqszyu](../arguments.d/ARG-tmpqszyu.md) files the verdict, Rejected: the
 readings neither support nor meet this claim's defeated_if. The claim is
 unchanged, and the intervention the note of 2026-10-28 says the record
 most owes it is still owed.

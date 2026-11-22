@@ -13,7 +13,7 @@ history:
     supplement (ADR-114). None of the works it cites was read.
 date: '2026-11-22'
 summary: >-
-  A letter proposing that the prefrontal stimulation in LIT-tmpquab4 may
+  A letter proposing that the prefrontal stimulation in [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md) may
   have raised meta-awareness of mind-wandering, so that more of it was
   noticed and reported, in addition to or instead of raising its
   frequency. It cites TMS that impaired metacognitive awareness and
@@ -25,7 +25,7 @@ summary: >-
 
 ## Contribution
 
-It names the confound in LIT-tmpquab4's measure: probe reports count the
+It names the confound in [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md)'s measure: probe reports count the
 mind-wandering a person becomes aware of, so a change in reports may be a
 change in awareness.
 
@@ -54,7 +54,7 @@ of, either during the mind wandering itself or shortly thereafter."
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | The tDCS in LIT-tmpquab4 may have raised meta-awareness of mind-wandering | weak; a hypothesis | cited links between lateral PFC and meta-awareness |
+| C1 | The tDCS in [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md) may have raised meta-awareness of mind-wandering | weak; a hypothesis | cited links between lateral PFC and meta-awareness |
 
 ## Concepts
 
@@ -64,12 +64,12 @@ of, either during the mind wandering itself or shortly thereafter."
 
 ## Connections
 
-A letter on LIT-tmpquab4. LIT-tmpg3vlm tested its hypothesis with a
+A letter on [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md). [LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md) tested its hypothesis with a
 meta-awareness probe and found no change.
 
 ## Bearing on the record
 
-- **Metzinger's H1, THEORY-1300.** Its cited TMS result is closer to H1's
+- **Metzinger's H1, [THEORY-1300](../theory.d/THEORY-1300.md).** Its cited TMS result is closer to H1's
   manipulation than the tDCS study is: a stimulation that impaired
   metacognitive awareness. That study (Rounis et al. 2010) concerns visual
   metacognition, not mind-wandering, and was not read. The letter's own

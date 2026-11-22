@@ -17,19 +17,19 @@ date: '2026-11-22'
 line:
 - will-organization
 summary: >-
-  Filed 2026-11-22 for LEAD-141. Metzinger (LIT-1945, p. 14) cites Axelrod
+  Filed 2026-11-22 for [LEAD-141](../leads.d/LEAD-141.md). Metzinger ([LIT-1945](../literature.d/LIT-1945.md), p. 14) cites Axelrod
   et al. (2015) among the "early examples of relevant studies" for H1, his
   test of whether blocking the agent model of one's own control starts
   mind-wandering; if it were such a test, it would be the intervention
-  CLAIM-027's defeated_if asks for, at the scale of thought. It is not.
+  [CLAIM-027](../claims.d/CLAIM-027.md)'s defeated_if asks for, at the scale of thought. It is not.
   The stimulation is not shown to block the agent model: the one study
-  that measured meta-awareness found it unchanged (THEORY-tmprbqew). The
+  that measured meta-awareness found it unchanged ([THEORY-tmprbqew](../theory.d/THEORY-tmprbqew.md)). The
   competing thoughts are neither held fixed nor measured, only their
   reported amount. And the effect itself failed a pre-registered
-  three-lab replication (THEORY-tmpseev1). Rejected: these readings carry
-  nothing for or against CLAIM-027. The claim's standing lives in
-  CLAIM-027 itself, Active, and is unchanged; the test it most owes stays
-  owed, and Metzinger's H1 and H3 remain untested (THEORY-1300, ARG-051).
+  three-lab replication ([THEORY-tmpseev1](../theory.d/THEORY-tmpseev1.md)). Rejected: these readings carry
+  nothing for or against [CLAIM-027](../claims.d/CLAIM-027.md). The claim's standing lives in
+  [CLAIM-027](../claims.d/CLAIM-027.md) itself, Active, and is unchanged; the test it most owes stays
+  owed, and Metzinger's H1 and H3 remain untested ([THEORY-1300](../theory.d/THEORY-1300.md), [ARG-051](ARG-051.md)).
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
@@ -40,11 +40,11 @@ summary: >-
 
 ## The inference
 
-ARG-051 reads mind-wandering, after Metzinger, as a case in which a kept
+[ARG-051](ARG-051.md) reads mind-wandering, after Metzinger, as a case in which a kept
 capacity, veto over one's own train of thought, loses and regains
 efficacy through a change in its representation in the self-model, the
 competing thoughts unchanged. It says what would decide the case: "The test
-is Metzinger's H1 and H3 (LIT-1945, p. 14): block or restore the epistemic
+is Metzinger's H1 and H3 ([LIT-1945](../literature.d/LIT-1945.md), p. 14): block or restore the epistemic
 agent model and see whether control ends or returns, with the task, the
 competing thoughts and an externally cued measure of the ability held
 fixed." Metzinger's H1 is that "selectively blocking its introspective
@@ -55,9 +55,9 @@ mind wandering episode in waking subjects, letting them unexpectedly
 'come to' again".
 
 The inference examined here: frontal tDCS changes how much people
-mind-wander (THEORY-tmpgl7zr, THEORY-tmprbqew); this is a change in the
+mind-wander ([THEORY-tmpgl7zr](../theory.d/THEORY-tmpgl7zr.md), [THEORY-tmprbqew](../theory.d/THEORY-tmprbqew.md)); this is a change in the
 condition under which deliberate control acts, with what competes for the
-mind left as it was; so it is evidence for CLAIM-027, that which regime
+mind left as it was; so it is evidence for [CLAIM-027](../claims.d/CLAIM-027.md), that which regime
 becomes effective depends on maintained relations and not on the contents
 of the competing regimes.
 
@@ -67,13 +67,13 @@ of the competing regimes.
   A rise in reported task-unrelated thought under anodal stimulation is
   what one would expect if the stimulation added to the supply or
   salience of candidate thoughts, which is a change in the competing
-  regimes' contents and strength, CLAIM-027's rival. The original authors'
+  regimes' contents and strength, [CLAIM-027](../claims.d/CLAIM-027.md)'s rival. The original authors'
   own reading is of this kind: "an enhancement (extension) of cognitive
   capacity", with executive control "an integral part of the
-  mind-wandering cognitive mechanism" (LIT-tmpquab4, Discussion). Nothing
+  mind-wandering cognitive mechanism" ([LIT-tmpquab4](../literature.d/LIT-tmpquab4.md), Discussion). Nothing
   in the design separates a change in a governing condition from a change
   in what competes.
-- **Does it tell the hypothesis apart from its rivals?** No. CLAIM-027's
+- **Does it tell the hypothesis apart from its rivals?** No. [CLAIM-027](../claims.d/CLAIM-027.md)'s
   defeated_if asks for "Interventions on the proposed relations that,
   holding the competing regimes fixed, fail to change which regime becomes
   effective". The studies do not hold the competing regimes fixed; they
@@ -86,7 +86,7 @@ of the competing regimes.
      study that measured meta-awareness beside mind-wandering found that
      frontal stimulation raised mind-wandering and left rated
      meta-awareness unchanged (Bayes factor 0.25 for no difference;
-     THEORY-tmprbqew). Where the stimulation works, it works by some route
+     [THEORY-tmprbqew](../theory.d/THEORY-tmprbqew.md)). Where the stimulation works, it works by some route
      other than the agent's awareness of where its attention is. Rated
      meta-awareness is itself only a proxy for Metzinger's epistemic agent
      model, which is the model of oneself as able to control one's
@@ -94,7 +94,7 @@ of the competing regimes.
   2. *The effect is not established.* A pre-registered, double-blind
      replication in three labs with 192 participants found d = −0.11
      (HDI [−0.38, 0.17]) and strong evidence against the original effect
-     size (replication Bayes factor 0.002; THEORY-tmpseev1). The first
+     size (replication Bayes factor 0.002; [THEORY-tmpseev1](../theory.d/THEORY-tmpseev1.md)). The first
      author's own replication (n = 85) found the effect. The two rival.
   3. *The probe is itself an external restoration.* Every probe interrupts
      the episode it asks about, so what the paradigm counts is how often a
@@ -104,10 +104,10 @@ of the competing regimes.
 
 ## Verdict
 
-Rejected. The tDCS readings do not support CLAIM-027, and they do not tell
-against it: they are not the intervention its defeated_if names. CLAIM-027
-keeps its standing, which rests on CLAIM-047 and CLAIM-080 and on its
-Active status from the review of 2026-10-28. ARG-051 is unchanged in
+Rejected. The tDCS readings do not support [CLAIM-027](../claims.d/CLAIM-027.md), and they do not tell
+against it: they are not the intervention its defeated_if names. [CLAIM-027](../claims.d/CLAIM-027.md)
+keeps its standing, which rests on [CLAIM-047](../claims.d/CLAIM-047.md) and [CLAIM-080](../claims.d/CLAIM-080.md) and on its
+Active status from the review of 2026-10-28. [ARG-051](ARG-051.md) is unchanged in
 substance: its critical question "Does changing R change anything else?"
 remains unanswered, and the work Metzinger cited as an early example of
 the answer does not supply it. What would answer it is unchanged: a

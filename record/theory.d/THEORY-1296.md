@@ -139,11 +139,11 @@ No result shows that deliberate thought's contents are drawn from the mind-wande
 
 The body says the chapter cites Axelrod et al. (2015) and Broadway et al.
 (2015) as "early examples of relevant studies" for H1, "not read here".
-Axelrod et al. is now LIT-tmpquab4, read in NOTE-tmp7gplv. It changes the
+Axelrod et al. is now [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md), read in [NOTE-tmp7gplv](../notes.d/NOTE-tmp7gplv.md). It changes the
 amount of reported mind-wandering by stimulation and does not manipulate
 or measure the epistemic agent model, so it does not bear on this
 account's open clause; its replication with a meta-awareness probe found
-mind-wandering raised and meta-awareness unchanged (THEORY-tmprbqew).
+mind-wandering raised and meta-awareness unchanged ([THEORY-tmprbqew](THEORY-tmprbqew.md)).
 Broadway et al. is a one-page commentary on it (PNAS 112(11): 3182–3183),
 not read. The selection clause is not touched: no study read records which
 candidate thought deliberate thought took up.

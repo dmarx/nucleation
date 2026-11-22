@@ -44,18 +44,18 @@ Effects of blocking the agent model with thoughts fixed support [CLAIM-027](../c
 
 Carried out by a lead worker on 2026-11-22.
 
-- **Read.** Axelrod, Rees, Lavidor and Bar (2015) is LIT-tmpquab4, read in
-  full (NOTE-tmp7gplv, THEORY-tmpgl7zr). Read beside it: Fox and
-  Christoff's letter (LIT-tmp4vtkl, NOTE-tmp58cil), the first author's
-  replication with a meta-awareness probe (LIT-tmpg3vlm, NOTE-tmp36b7e,
-  THEORY-tmprbqew), and the pre-registered three-lab replication
-  (LIT-tmp9cpfz, NOTE-tmps966y, THEORY-tmpseev1).
+- **Read.** Axelrod, Rees, Lavidor and Bar (2015) is [LIT-tmpquab4](../literature.d/LIT-tmpquab4.md), read in
+  full ([NOTE-tmp7gplv](../notes.d/NOTE-tmp7gplv.md), [THEORY-tmpgl7zr](../theory.d/THEORY-tmpgl7zr.md)). Read beside it: Fox and
+  Christoff's letter ([LIT-tmp4vtkl](../literature.d/LIT-tmp4vtkl.md), [NOTE-tmp58cil](../notes.d/NOTE-tmp58cil.md)), the first author's
+  replication with a meta-awareness probe ([LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md), [NOTE-tmp36b7e](../notes.d/NOTE-tmp36b7e.md),
+  [THEORY-tmprbqew](../theory.d/THEORY-tmprbqew.md)), and the pre-registered three-lab replication
+  ([LIT-tmp9cpfz](../literature.d/LIT-tmp9cpfz.md), [NOTE-tmps966y](../notes.d/NOTE-tmps966y.md), [THEORY-tmpseev1](../theory.d/THEORY-tmpseev1.md)).
 - **What it found.** The 2015 study is not a test of H1. It raised
   reported mind-wandering by stimulation without showing that anything
   about the agent's model of its own control changed; the replication
   that measured meta-awareness found it unchanged; and the effect failed
-  pre-registered replication. Verdict: ARG-tmpqszyu, Rejected, which
-  leaves CLAIM-027 where it was.
+  pre-registered replication. Verdict: [ARG-tmpqszyu](../arguments.d/ARG-tmpqszyu.md), Rejected, which
+  leaves [CLAIM-027](../claims.d/CLAIM-027.md) where it was.
 - **The search.** Europe PMC, 2026-11-22: 47 title hits for mind-wandering
   with brain stimulation, 21 for mind-wandering with meta-awareness,
   neurofeedback, self-caught, closed-loop, lucid or metacognition, and 13

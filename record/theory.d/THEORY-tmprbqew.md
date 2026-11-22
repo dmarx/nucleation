@@ -25,15 +25,15 @@ rivals:
 bears_on:
 - QUESTION-367
 summary: >-
-  Axelrod, Zhu and Qiu (2018), LIT-tmpg3vlm, read in NOTE-tmp36b7e: a direct
-  replication of THEORY-tmpgl7zr's experiment (n = 85) with a
+  Axelrod, Zhu and Qiu (2018), [LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md), read in [NOTE-tmp36b7e](../notes.d/NOTE-tmp36b7e.md): a direct
+  replication of [THEORY-tmpgl7zr](THEORY-tmpgl7zr.md)'s experiment (n = 85) with a
   meta-awareness probe added. The second clause is the authors' inference,
   that "at least in some cases mind-wandering might not be regulated by
-  meta-awareness". It rivals the pre-registered null of THEORY-tmpseev1. For
+  meta-awareness". It rivals the pre-registered null of [THEORY-tmpseev1](THEORY-tmpseev1.md). For
   the record it is the nearest the literature comes to Metzinger's H1, and
   it is not a test of it: the rated awareness is of attention's location,
   not of the capacity to end a thought, and it was not manipulated. It
-  bears on QUESTION-367 only as weak evidence that the rate of
+  bears on [QUESTION-367](../questions.d/QUESTION-367.md) only as weak evidence that the rate of
   mind-wandering can move while the agent's self-rating does not.
 ---
 <!-- inactive-ok-file: THEORY-tmpgl7zr THEORY-tmpseev1 — new in this filing and Proposed; the readings and the support verdict, cited as open -->
@@ -42,7 +42,7 @@ summary: >-
 
 ## Source
 
-Axelrod, Zhu and Qiu (2018), LIT-tmpg3vlm, read in NOTE-tmp36b7e: "our
+Axelrod, Zhu and Qiu (2018), [LIT-tmpg3vlm](../literature.d/LIT-tmpg3vlm.md), read in [NOTE-tmp36b7e](../notes.d/NOTE-tmp36b7e.md): "our
 results indicate ... that at least in some cases
 mind-wandering might not be regulated by meta-awareness" (Abstract), and
 "the increase in the level of mind-wandering as result of stimulation was
@@ -58,7 +58,7 @@ was focused?", did not differ (F(2,82) = 1.11, p = 0.33; BF 0.25), and the
 stimulation did not change the relation between the two ratings
 (interaction BF 0.132). Either result could have failed: meta-awareness
 could have fallen with stimulation, as Fox and Christoff's letter
-(LIT-tmp4vtkl) suggested it might change.
+([LIT-tmp4vtkl](../literature.d/LIT-tmp4vtkl.md)) suggested it might change.
 
 ## What this does not say
 
@@ -70,4 +70,4 @@ could have fallen with stimulation, as Fox and Christoff's letter
   epistemic agent model is the conscious model of oneself as able to
   control one's thinking. The two may come apart.
 - **That the effect is established.** A pre-registered three-lab
-  replication with the same montage found none (THEORY-tmpseev1).
+  replication with the same montage found none ([THEORY-tmpseev1](THEORY-tmpseev1.md)).
