@@ -1,0 +1,82 @@
+---
+status: Active
+title: 'If giving money to the Red Cross increases well-being, does taking money from the Red Cross increase ill-being? – Evidence from three experiments'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Registered as a stand-in for LIT-1980 (ADR-114), which stays
+    Unfetched: Springer answered its open-access PDF with a "Client
+    Challenge" page on 2026-11-22. It is filed as a work in its own right,
+    not under LIT-1980's code and not as LIT-1980. It was found by the
+    reader for LIT-1980 in the sweep of 2026-11-22 as the experimental test
+    of the same frustration criterion, by the authors LIT-1980 is said to
+    test against. Not held before: no hit in record/ for the DOI, the
+    title, "Red Cross", or a LIT with first author Martela other than
+    LIT-1983. Citation checked against Crossref on 2026-11-22 (no email
+    address sent, ADR-008): journal-article, Journal of Research in
+    Personality 93, article 104114, issued August 2021; Crossref gives no
+    exact publication date beyond its own deposit record, so `published:`
+    is the "Available online 1 June 2021" the article carries (ADR-002).
+    Read in full the same day in NOTE-tmpqf55c (see "Standing in the
+    record").
+tags:
+- motivation
+- well-being
+- altruism
+date: '2026-11-22'
+published: '2021-06-01'
+doi: '10.1016/j.jrp.2021.104114'
+first_author: 'Martela'
+keywords:
+- 'antisocial behavior'
+- 'ill-being'
+- 'prosocial behavior'
+- 'prosocial impact'
+- 'well-being'
+implementations: []
+summary: >-
+  Martela and Ryan (2021), Journal of Research in Personality 93:104114.
+  Three preregistered MTurk experiments (n = 111, 445, 447) in which a
+  four-minute key-pressing task also gave about 15c to the Red Cross, took
+  about 15c from a planned donation, or did neither. Positive impact raised
+  well-being; negative impact raised felt beneficence frustration but not
+  negative affect, anxiety or depression, and in the meta-analysis it also
+  raised meaning, vitality and positive affect. A stand-in, in part, for
+  LIT-1980.
+---
+<!-- inactive-ok-file: LIT-1980 — Unfetched; the work this one stands in for, in part -->
+<!-- inactive-ok-file: THEORY-tmptzl64 — Proposed; this work's reading, filed with it -->
+
+# LIT-tmp14tuh: If giving money to the Red Cross increases well-being, does taking money from the Red Cross increase ill-being? – Evidence from three experiments
+
+Martela, F., Ryan, R. M. (2021). If giving money to the Red Cross increases
+well-being, does taking money from the Red Cross increase ill-being? –
+Evidence from three experiments. *Journal of Research in Personality*, 93,
+104114. doi:10.1016/j.jrp.2021.104114. Open access, CC BY.
+
+## Key takeaways
+
+- An experimental, randomised test of the frustration criterion for
+  beneficence: the same small "dosage" of impact on a charity, positive or
+  negative, in an otherwise identical task.
+- Negative impact is noticed (beneficence frustration rises, meta-analytic
+  d = 0.84) but does not raise ill-being (negative affect d = 0.07, anxiety
+  0.09, depression 0.06, every interval spanning zero).
+- The authors read this as an asymmetry: a dose that raises well-being when
+  positive "is not enough, when negative, to increase participants
+  ill-being to a similar degree" (p. 9), and as possible compensation, the
+  negative-impact group rating "I helped scientific research" higher.
+
+## Standing in the record
+
+Read in full in NOTE-tmpqf55c, with its account in THEORY-tmptzl64,
+Proposed. Registered as a stand-in for LIT-1980 (Lubics et al. 2026, a
+Central European test of beneficence satisfaction and frustration), which
+could not be fetched. It stands in **only in part**: it tests the same
+construct and the same criterion, by the authors LIT-1980 tests against,
+and it is experimental where LIT-1983 is cross-sectional; it carries
+nothing of LIT-1980's sample, design or results. It is also the
+experimental follow-up LIT-1983 asked for ("manipulating beneficence
+frustration", LIT-1983 p. 130), and it bears on QUESTION-369 and LEAD-127.
