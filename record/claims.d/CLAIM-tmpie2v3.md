@@ -32,9 +32,9 @@ grounds:
 
 ## The claim
 
-QUESTION-058 asks how much of a group's structure in a trained
+[QUESTION-058](../questions.d/QUESTION-058.md) asks how much of a group's structure in a trained
 representation can be read off the weights without the group being supplied.
-CASE-tmpjgjtj settles this for a non-abelian task where no matrix
+[CASE-tmpjgjtj](../cases.d/CASE-tmpjgjtj.md) settles this for a non-abelian task where no matrix
 representation is imposed: elements are one-hot indices over arbitrary labels
 and the network learns the multiplication by softmax classification.
 
@@ -57,8 +57,8 @@ the group.
 
 This is recovery up to isomorphism — characters, dimensions and the isotypic
 projectors — not a canonical matrix `ρ(g)` per element, which is fixed only up
-to a basis within each isotypic block (CLAIM-135, CLAIM-148). It also
-sharpens the abelian reading THEORY-022, whose spectral test saw the
+to a basis within each isotypic block ([CLAIM-135](CLAIM-135.md), [CLAIM-148](CLAIM-148.md)). It also
+sharpens the abelian reading [THEORY-022](../theory.d/THEORY-022.md), whose spectral test saw the
 irreducibles "only as pairs": that pairing is an artifact of ℤ/p's complex
 one-dimensional characters, and does not arise here, where real non-abelian
 irreducibles of dimension up to three are separated individually.

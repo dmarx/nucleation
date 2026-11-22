@@ -32,10 +32,10 @@ grounds:
 
 ## The claim
 
-Once the irreducibles are in hand (CLAIM-tmpie2v3), the learned embedding can
+Once the irreducibles are in hand ([CLAIM-tmpie2v3](CLAIM-tmpie2v3.md)), the learned embedding can
 be read in their basis: each column of the embedding is a function on the
 group, and its squared norm splits across the isotypic blocks — the group-
-Fourier power spectrum. In CASE-tmpjgjtj this spectrum is concentrated on the
+Fourier power spectrum. In [CASE-tmpjgjtj](../cases.d/CASE-tmpjgjtj.md) this spectrum is concentrated on the
 *faithful* irreducibles. The trivial (constant) component is ≈ 0, since weight
 decay centres the embeddings; the sign representation carries the least
 non-trivial power; S3 places ≈ 78% of its non-trivial power on the

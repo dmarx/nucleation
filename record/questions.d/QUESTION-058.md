@@ -47,17 +47,17 @@ A non-abelian task learned without a matrix representation imposed, analysed wit
 ## Note of 2026-11-19: Chen, Kunin, Yamamura and Ganguli, read
 A parallel ([NOTE-2127](../notes.d/NOTE-2127.md)): one answer to where learned structure comes from is the parameterization's own symmetry plus gradient noise, which pulls units toward exact copies with no data symmetry (Chen and colleagues). Their sets are redundancies, not structure of the data.
 
-## Note of 2026-11-22: a non-abelian case learned and analysed blind (LEAD-114)
-LEAD-114 carried out the study this question's "what would answer it" names.
-CASE-tmpjgjtj trains networks on S3 and S4 composition with elements as
+## Note of 2026-11-22: a non-abelian case learned and analysed blind ([LEAD-114](../leads.d/LEAD-114.md))
+[LEAD-114](../leads.d/LEAD-114.md) carried out the study this question's "what would answer it" names.
+[CASE-tmpjgjtj](../cases.d/CASE-tmpjgjtj.md) trains networks on S3 and S4 composition with elements as
 one-hot indices (no matrix representation imposed), then recovers the
 irreducibles from each network's own computed operation, no group supplied,
-against a group-supplied control. CLAIM-tmpie2v3 offers the answer: the
+against a group-supplied control. [CLAIM-tmpie2v3](../claims.d/CLAIM-tmpie2v3.md) offers the answer: the
 irreducibles are recoverable blind, exactly, when the network has learned the
 group — which its own reconstructed operation certifies — and the control
-shows the gate is the network's competence, not the method's. CLAIM-tmpkgzd8:
+shows the gate is the network's competence, not the method's. [CLAIM-tmpkgzd8](../claims.d/CLAIM-tmpkgzd8.md):
 the learned embedding carries those irreducibles as a group-Fourier spectrum
 concentrated on the faithful ones. This bears on the "read off the network
 without supplying the group" clause directly; the "where the structure comes
 from" clause (task, architecture, update symmetry) is untouched here. Recovery
-is up to isomorphism, as CLAIM-135 and CLAIM-148 frame it.
+is up to isomorphism, as [CLAIM-135](../claims.d/CLAIM-135.md) and [CLAIM-148](../claims.d/CLAIM-148.md) frame it.

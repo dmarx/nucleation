@@ -21,7 +21,7 @@ line:
 
 ## The case
 
-A numpy study carried out for LEAD-114 (branch
+A numpy study carried out for [LEAD-114](../leads.d/LEAD-114.md) (branch
 `claude/lead-114-blind-irrep`, `scratch/studies/lead-114/`). A small network
 is trained to compute a non-abelian group's multiplication, and its
 irreducible representations are then recovered from the trained network
@@ -80,7 +80,7 @@ few seeds.
 - **Scope.** Recovery is up to isomorphism: characters, dimensions and the
   isotypic projectors are pinned down; explicit per-element matrices `ρ(g)`
   are fixed only up to a change of basis within each isotypic block — the
-  identification-up-to-stated-ambiguities of CLAIM-135, CLAIM-148.
+  identification-up-to-stated-ambiguities of [CLAIM-135](../claims.d/CLAIM-135.md), [CLAIM-148](../claims.d/CLAIM-148.md).
 
 Rerun: `scratch/studies/lead-114/README.md`. Tests in
 `test_lead114.py` (10, passing) check the recovery on S3, S4 and ℤ/5 and the
