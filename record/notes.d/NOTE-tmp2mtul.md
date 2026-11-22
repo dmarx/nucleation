@@ -1,0 +1,104 @@
+---
+status: Read
+paper: LIT-2250
+title: 'Widder and Schilling — Generalised Langevin Dynamics: Significance and Limitations of the Projection Operator Formalism'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read in full on 2026-11-22 for LEAD-023 from the arXiv copy
+    (2604.20453v3, 11 November 2026, 21 pages), footnotes included; the
+    proofs followed, not rederived. Quotations checked by script.
+date: '2026-11-22'
+summary: >-
+  The Dyson–Duhamel identity behind the generalized Langevin equation is
+  proved when PL is bounded (Mori's finite-rank projection) and is only an
+  unsolved equation for the orthogonal dynamics when it is not (Zwanzig's
+  projection, unbounded even for the harmonic oscillator). Mori's equation
+  and its fluctuation–dissipation relation follow from Volterra equations
+  alone and add nothing to the autocorrelation they are fitted to. The
+  memory term is a coupling term: for a spectral split into slow and fast
+  subspaces, which do not couple, it vanishes.
+---
+
+# NOTE-tmp2mtul: Widder and Schilling — Generalised Langevin Dynamics: Significance and Limitations of the Projection Operator Formalism
+
+## Contribution
+
+A mathematical audit of the Mori–Zwanzig projection operator formalism:
+where its central identity is proved, where it is not, what Mori's
+equation actually says, and why "memory" is the wrong word for its
+convolution term.
+
+## Key results
+
+1. **Bounded case (§II.A).** If PL is bounded, the bounded perturbation
+   theorem makes QL generate a semigroup and the Dyson–Duhamel identity is
+   the variation of constants formula; this covers finite-rank projections
+   with range in D(L†), Mori's among them.
+2. **Unbounded case (§II.C, §IV).** "the Dyson identity is an equation.
+   That is, the application of the Dyson identity is equivalent to the
+   assumption that a unique solution of eq. (10) exists." For Zwanzig's
+   projection (a conditional expectation) PL is unbounded even for the
+   one-dimensional harmonic oscillator, and existence and uniqueness of the
+   orthogonal dynamics are open.
+3. **Mori's equation is structureless (§III.A).** Its properties follow
+   from Volterra equations: "Mori's GLE including the 2FDT does not reveal
+   any non-trivial structure of the dynamics, and holds for any system that
+   can be described by a strongly continuous unitary group".
+4. **No predictive gain (§III.C).** With Gaussian fluctuating forces the
+   fitted equation reproduces only the mean and autocorrelation; one could
+   sample the trajectory directly. "This demonstrates that the Mori-GLE
+   cannot be used to predict the dynamics of complex systems, unless one is
+   a priori able to obtain reasonable approximations of the memory kernel
+   (or autocorrelation function) as well as the distribution of initial
+   values".
+5. **Memory is coupling (§V).** For the slow subspace Fω of vectors whose
+   derivatives are all bounded by powers of ω, PωL is bounded and the
+   memory term vanishes, because Fω is invariant under the dynamics. "This
+   means that the memory term is a coupling term that compensates for the
+   fact that the subspace QH is typically not U(t)-invariant." The
+   conclusion: "the memory term should be considered a coupling term that
+   is not necessarily related to memory."
+6. **Fast and slow do not split cleanly (§V).** For a heavy particle in a
+   gas, the orthogonal part QZf "generally is a function of all phase
+   space degrees of freedom"; a clean split holds only for products of
+   slow and fast functions.
+
+## Assumptions
+
+Observables in a Hilbert space with dynamics a strongly continuous
+semigroup, unitary (Hamiltonian, stationary measure) for most results;
+orthogonal projections. The slow-fast construction needs a skew-adjoint
+generator; the authors note it fails for non-normal generators.
+
+## Concepts
+
+Projection operator formalism; Mori and Zwanzig projections; orthogonal
+dynamics; Dyson–Duhamel identity; generalized Langevin equation; memory
+kernel; fluctuating force; second fluctuation–dissipation theorem;
+bounded perturbation; invariant (subspace) semigroup.
+
+## Bearing on the record
+
+- **[QUESTION-252](../questions.d/QUESTION-252.md).** Two points for its list. First, memory closure is
+  relative to the declared projection, and what the convolution term
+  measures is coupling between the kept and omitted subspaces, not a
+  timescale: it vanishes exactly when the omitted subspace is invariant,
+  which is a statement linking memory closure to a form of dynamical
+  independence in the linear (operator) setting. Second, an exact
+  generalized Langevin equation for one observable always exists for
+  Mori's projection, so having one is no evidence that a description is
+  predictively sufficient; its predictive content is what was fitted in.
+- **The Mori–Zwanzig works the record holds** ([LIT-1259](../literature.d/LIT-1259.md), [LIT-1307](../literature.d/LIT-1307.md)). Their
+  nonlinear, Zwanzig-type derivations rest on the identity this paper
+  says is unproved for unbounded PL; a closure model built that way is a
+  heuristic, which the record should keep in mind where it relies on them.
+
+## Limitations
+
+A mathematical commentary: no new model or numerical study. The vanishing
+of memory is shown for one construction of slow variables, which the
+authors concede "might not yield a suitable notion of a slow variable".
+Nonautonomous and non-unitary cases are referred to their earlier paper.

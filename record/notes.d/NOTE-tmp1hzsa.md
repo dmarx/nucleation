@@ -1,0 +1,99 @@
+---
+status: Skimmed
+paper: LIT-2258
+title: 'Schultz, Spivak and Vasilakopoulou — Dynamical Systems and Sheaves'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Skimmed on 2026-11-22 for LEAD-023 from the arXiv copy (1609.08086v4,
+    15 March 2019, 59 pages): the introduction, related work and plan, and
+    Chapter 4 (continuous, discrete and synchronous machines; totality,
+    determinism and inertia; safety contracts) read; Chapters 2–3 (wiring
+    diagram algebras, interval sheaves), Chapter 5 (translations between
+    machine types) and Appendix A skipped except where Chapter 4 cites
+    them. Quotations checked by script.
+date: '2026-11-22'
+summary: >-
+  Open dynamical systems as "machines": spans S → A × B of sheaves on
+  intervals of time, whose sections are the possible input, state and
+  output trajectories over each interval. Machines form an algebra over
+  wiring diagrams, so any interconnection of machines, feedback included,
+  is a machine; totality, determinism and inertia are each preserved by
+  every wiring. Safety contracts are sub-presheaves, deliberately not
+  sheaves, because valid behaviours with historical context do not glue.
+---
+<!-- inactive-ok-file: CLAIM-623 — Proposed; cited as a parallel -->
+
+# NOTE-tmp1hzsa: Schultz, Spivak and Vasilakopoulou — Dynamical Systems and Sheaves
+
+## Contribution
+
+A categorical framework in which systems of different time types
+(continuous, discrete, synchronous) are composed by wiring diagrams, and
+in which the conditions that make a system well behaved survive any
+composition.
+
+## Key results (parts read)
+
+1. **Time as sheaves (Introduction).** Ports carry "sets of allowed
+   trajectories of information over each (discrete or continuous) interval
+   of time: these trajectories can restrict over smaller intervals of time,
+   and compatible ones can glue to produce a trajectory over the union of
+   intervals."
+2. **Machines (Definition 4.1.1).** A continuous machine is a sheaf S with
+   a sheaf map p : S → A × B, input sheaf A, output sheaf B, state sheaf S;
+   they form an algebra on wiring diagrams (Proposition 4.1.3).
+3. **Totality, determinism, inertia (§4.2–4.3).** A machine is total
+   (resp. deterministic) when every state's trajectory can be extended (in
+   at least one, resp. at most one, way) along any extension of its input,
+   and its output is inertial (fixed a little ahead by the state). Total,
+   deterministic and inertial machines each form subalgebras
+   (Propositions 4.3.1–4.3.2), "closed under arbitrary compositions,
+   including feedback".
+4. **Contracts are presheaves (§4.5, footnote 8).** "Using sheaves, rather
+   than presheaves, for safety contracts does not have the intended
+   semantics, because the sheaf condition would imply that the
+   concatenation of any two valid behaviors is valid. It thus effectively
+   disallows historical context from being a consideration in validity."
+   In their example "any section of length 4 is valid, but some sections
+   of length 8 are not so the gluing of two valid sections is not always
+   valid."
+5. **Common clock (Related work).** "all of our models of time assume a
+   common reference time frame for all components in the system".
+
+## Assumptions
+
+A global time; sheaves on intervals of the real line or of the naturals;
+wiring diagrams in which wires may split or end but not feed straight
+through.
+
+## Concepts
+
+Wiring diagram; operad algebra (lax monoidal functor); interval sheaf;
+machine (span of sheaves); total, deterministic and inertial machine;
+synchronous time (interval with a phase); safety contract (sub-presheaf).
+
+## Bearing on the record
+
+- **[QUESTION-379](../questions.d/QUESTION-379.md).** A partial, compositional answer to one sub-question:
+  which properties a realizable system keeps under interconnection.
+  Totality and determinism, the conditions that a behaviour exists and is
+  unique for each input, are preserved by any wiring, feedback included,
+  once outputs are inertial. It does not say when an arbitrary family of
+  observations is represented by a machine, nor anything about resources.
+- **[CLAIM-623](../claims.d/CLAIM-623.md)** (a parallel). Footnote 8 is the same shape from another
+  direction: once validity depends on history, valid behaviours form a
+  presheaf that is not a sheaf, two valid pieces gluing to an invalid
+  whole. [CLAIM-623](../claims.d/CLAIM-623.md) gets the same failure from forgetting a hidden
+  mechanism.
+- **[QUESTION-143](../questions.d/QUESTION-143.md)** (no bearing on its iff). These are sheaves over time
+  intervals, not over the lowerset topology on input histories, so they
+  neither prove nor test Gogioso and Pinzani's Theorem 2.34.
+
+## Limitations
+
+Skimmed: the proofs were not followed and Chapters 2, 3 and 5 were not
+read. The framework is descriptive; it gives no tool to decide whether a
+given set of trajectories is a machine's behaviour beyond the definitions.

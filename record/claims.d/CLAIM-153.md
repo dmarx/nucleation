@@ -111,3 +111,18 @@ A12 §2.3 of the exchange (2026-11-06 to 07) studies three phase demands: A and 
 <!-- inactive-ok-block: CLAIM-623 CASE-224 — filed from the same exchange, Proposed -->
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A29 §4 gives a presheaf of realizable observations in which two contexts that agree on their overlap fail to glue ([CASE-224](../cases.d/CASE-224.md), [CLAIM-623](CLAIM-623.md)). This claim's result, that two contexts always glue and an obstruction needs three, is for its torsor sheaf and stands. The case shows only that outside a sheaf two contexts can suffice. No status changes.
+
+## Note of 2026-11-22: Bačić, Schaub, Kurths and Witthaut, read
+<!-- inactive-ok-file: THEORY-tmpcdxvd CLAIM-tmp7vutq — Proposed; filed by LEAD-023 -->
+
+Bačić and colleagues ([THEORY-tmpcdxvd](../theory.d/THEORY-tmpcdxvd.md); [NOTE-tmp7pvg9](../notes.d/NOTE-tmp7pvg9.md); [LIT-2253](../literature.d/LIT-2253.md)) generalize the cycle condition this claim uses, "the accumulated phase differences around each independent cycle must be equal to an integer multiple of 2π", to phases on cells of any dimension, as A said at A12. Their couplings carry no offsets, so their case is this claim's Φ = 0. What they add bears on the energy readout: with zero monodromy, stable states of nonzero winding exist once a cycle has five or more units. [CLAIM-tmp7vutq](CLAIM-tmp7vutq.md) draws the consequence: this claim's statement about the minimum holds for the global minimum, and on five or more contexts a local minimization can stop at a twisted state of positive energy with no obstruction present (checked numerically). On three contexts, this claim's minimal model, the readout is safe. It also gives the cover-refinement point under "What it does not say" a concrete form. Qualifies the readout, not the claim; no status change.
+
+## Note of 2026-11-22: Manik, Timme and Witthaut, read
+<!-- inactive-ok-file: THEORY-tmpnlu47 — Proposed; filed by LEAD-023 -->
+
+Manik, Timme and Witthaut ([THEORY-tmpnlu47](../theory.d/THEORY-tmpnlu47.md); [NOTE-tmpftn2t](../notes.d/NOTE-tmpftn2t.md); [LIT-2267](../literature.d/LIT-2267.md)) give the graph case of the Bačić reading above. They split phase locking as this claim splits coherence: a linear local condition (flow conservation at each node) whose solutions differ by cycle flows, and a global condition, "the phase differences over every simple cycle ... must add up to an integer multiple of 2π". Their rings with four or fewer nodes have one stable locked state, which corroborates [CLAIM-tmp7vutq](CLAIM-tmp7vutq.md)'s threshold. Their "geometric frustration" (Definition 8: conserved flows exist, consistent phases do not) has no offsets on the couplings and is a third sense beside this claim's monodromy and [TERM-060](../terms.d/TERM-060.md)'s; it is not this claim's obstruction. No status change.
+
+## Note of 2026-11-22: Battiston and colleagues, skimmed
+<!-- inactive-ok-file: NOTE-tmpejuy1 — Skimmed; filed by LEAD-023 -->
+
+Background from Battiston and colleagues' review ([NOTE-tmpejuy1](../notes.d/NOTE-tmpejuy1.md), skimmed; [LIT-2239](../literature.d/LIT-2239.md)). Its higher-order counterpart of this claim's frustrated energy is the simplicial Sakaguchi–Kuramoto model, where "Frustration may also be introduced ... by adding phase lags"; and in the topological Kuramoto model synchronization lives on the harmonic modes localized on the complex's holes. Nothing in it tests this claim; no status change.

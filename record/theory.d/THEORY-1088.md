@@ -121,3 +121,8 @@ and an agent again ends up lying.
 ## Note of 2026-11-07: cited rightly; an extension not registered, from "Individuation, Possibility, and Disposition"
 
 In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aee7a9b-f13c-83e9-a865-6a29c2c3ff7e), A27 §4 and A29 §6 cite this reading rightly, including learning to lie. A29 §6 reports an extension by Bosca and Ghrist, "Selective Adaptation of Beliefs and Communication on Cellular Sheaves" (2026, arXiv:2601.22431), to "selective rigidity in agents' opinions and selective adaptation of communication maps", with rate bounds. Not registered or read. No change.
+
+## Note of 2026-11-22: Bosca and Ghrist, skimmed
+<!-- inactive-ok-file: THEORY-tmp0xz8p NOTE-tmpd2cps — Proposed and Skimmed; filed by LEAD-023 -->
+
+Bosca and Ghrist ([THEORY-tmp0xz8p](THEORY-tmp0xz8p.md), which extends this account; [NOTE-tmpd2cps](../notes.d/NOTE-tmpd2cps.md), skimmed; [LIT-2259](../literature.d/LIT-2259.md)), the extension A29 §6 reported. They keep this account's two results, convergence of adapting maps to the Frobenius-nearest consistent sheaf and the conserved blocks of αL − βxxᵀ, and add directional stubbornness and bounds on which variable moves: "If expressions adapt faster than beliefs, agents reach surface harmony before private convictions have had time to evolve." That sharpens this account's last clause: nothing checks an expression against the opinion it expresses, and the rate ratio says how far beliefs stay put while agreement is reached. Supports; no change.
