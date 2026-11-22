@@ -32,8 +32,15 @@ summary: >-
   n*_i/(A⁻¹)_ii. It equalled that bound to 10⁻¹⁴ in all 6,315 removals
   without secondary extinction, and exceeded it (median ratio 1.24) in the
   1,666 with one. (2) Gaussian niches on 12 resources: operators started
-  10⁻³ apart differentiate, and the stability conditions are checked at
-  each endpoint. PART2. (3) A two-resource trade-off, four shapes, c/B
+  10⁻³ apart differentiate. In 22 of 27 runs they reached distinct traits
+  meeting Theorem A, with the Jacobian equal to −DH to 10⁻⁹. All 64
+  removals there recovered against frozen residents, at or above the
+  bound. Against residents that re-adapted they recovered too, more
+  slowly: a median 0.29 of the frozen rate, and as low as 0.0003. Theorem
+  C's hypothesis held in none of the 64. In 62 the pair or set re-formed
+  at the same value of L. The other 5 runs had more operators than the
+  niche width holds. Operators paired on near-identical traits, or the run
+  had not settled, which is outside the theorem. (3) A two-resource trade-off, four shapes, c/B
   from 0.1 to 0.9. A lone resident left its corner exactly when
   c/B < a'(0)/a'(1) = 2/3, and it settled at the symmetric generalist.
   The removed specialist then failed to return in every run with
@@ -76,7 +83,46 @@ simulated. The simulated recovery rates matched the exact ones within
 abundance within the horizon. The slowest systems had not fully settled:
 the largest distance from n* was 0.21.
 
-**Part 2: Theorems A and C from near-identical starts.** PART2DETAIL
+**Part 2: Theorems A and C from near-identical starts.** The setup was
+12 resources at evenly spaced positions on [0, 1], with Gaussian
+utilization of width w ∈ {0.08, 0.12, 0.2}, supply 1 and cost 0.2. There
+were k = 2–6 operators, all started at θ = 0.5 plus noise of size 10⁻³,
+with ε = 0.1 and κ_i = n_i. Each run grew for T = 400. There were three
+seeds for k = 2, 3 and one for k ≥ 4; seeds gave identical endpoints at
+k = 2, 3. Then each survivor in turn was removed. Its recovery rate was
+computed exactly against frozen residents. The residents re-adapted
+alone for T = 400, and its rate was computed against them, with its old
+trait. Finally it was reintroduced at 10⁻⁶ under the full dynamics for
+T = 800. `condC_check.py` computed Theorem C's full hypothesis.
+
+- **Clean runs, 22 of 27** (every k with w = 0.08; k ≤ 4 with w = 0.12;
+  k ≤ 3 with w = 0.2).
+  - The endpoints had gradient below 10⁻¹³, distinct traits (smallest
+    gap 0.18) and a positive definite Gram matrix.
+  - Theorem A held. The numerical Jacobian's spectrum matched −DH to
+    7 × 10⁻¹⁰, and every eigenvalue was negative (the largest −0.15).
+  - All 64 removals had positive frozen recovery at or above
+    n*_i/(A⁻¹)_ii, with no secondary extinctions.
+  - Every resident trait moved after a removal, by up to 0.29. So
+    Theorem C's hypothesis, which needs the frozen −i community to be
+    stationary, held in none.
+  - Recovery against the re-adapted residents was still positive in all
+    64, but smaller: a median 0.29 of the frozen rate, and a minimum
+    0.0003, at k = 6.
+  - 62 of 64 returned to at least half their abundance, and the system
+    re-formed at the same value of L. The two that did not were at
+    k = 6, w = 0.08, where the recovery rate of 0.0004 is too slow for
+    the horizon.
+- **The other 5 runs** (k = 4, 5, 6 with w = 0.2; k = 5, 6 with
+  w = 0.12) had more operators than the niche width holds.
+  - Three (w = 0.2) ended with operators paired on traits within 10⁻⁴
+    of each other. Their Gram matrix was singular to working precision,
+    the linearization had a zero eigenvalue, and the frozen recovery
+    rates were zero to within 10⁻⁶. This is the neutral, undifferentiated
+    case that Theorem A excludes.
+  - Two had not settled by T = 400 (gradient 2 × 10⁻⁵ and 2 × 10⁻³).
+  - Against re-adapted residents, recovery there was zero or slightly
+    negative (as low as −0.0003), and no removed operator returned.
 
 **Part 3: the counterexample.** Two resources with B = 1 and the
 specialist pair at θ = (1, 0). Four trade-off shapes:
@@ -113,7 +159,16 @@ It shows that the theorem's inequalities and the counterexample's
 formulas hold where they were computed. It also gives what the proofs do
 not: the trajectory after removal. In the trade-off the lone resident
 ends at the generalist whenever it leaves its corner. In the Gaussian
-niches, PART2SHOWS.
+niches, near-identical operators differentiate whenever the niche space
+has room for them all. Residents always move into a vacated niche, so
+Theorem C's sufficient condition never applies there. They do not close
+it: recovery stays positive, though often much slower than the frozen
+measurement suggests. So in this family the frozen recovery rate
+overstates recovery against an adapting organization, by a median factor
+of about 3.5. That is the gap QUESTION-132's frozen and trainable
+measurements were meant to expose. With more operators than room,
+differentiation stalls: operators pair up neutrally, as Theorem A's
+remark predicts.
 
 ## What it cannot show
 

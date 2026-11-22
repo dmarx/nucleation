@@ -332,7 +332,9 @@ objective L.
   An equilibrium in which two present operators share a trait is never
   asymptotically stable. Exactly identical operators stay identical. In
   CASE-tmp5sk3q's Gaussian-niche runs, operators started 10⁻³ apart
-  differentiate.
+  differentiate to equilibria meeting these conditions whenever the
+  niche space has room for them all (22 of 27 runs). With too many, some
+  pair up on near-identical traits.
 - **Recovery when rare, residents frozen** (Theorem B). Every specialist
   has λ_i ≥ n*_i d_i² > 0. This is the question's frozen measurement,
   against the −i community, and it holds at every such community, since
@@ -343,7 +345,10 @@ objective L.
   specialists coexists with a stable lone generalist. A specialist
   returning against that generalist has growth −c/5. A lone resident
   leaves its corner for the vacated resource whenever c/B < a'(0)/a'(1),
-  and in CASE-tmp5sk3q's runs it then ends at the generalist.
+  and in CASE-tmp5sk3q's runs it then ends at the generalist. In the
+  Gaussian-niche runs the condition never held, since residents always
+  moved into the vacancy. Recovery stayed positive, but at a median 0.29
+  of the frozen rate.
 
 What the lead's "What would count" asked: a theorem for the class, and a
 counterexample. Both are now filed. The counterexample does not show that

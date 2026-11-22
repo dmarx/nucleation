@@ -106,8 +106,9 @@ gives sufficient conditions under which adaptation of bounded niche
 traits reaches a state in which all k demands are met at once and
 robustly: each specialist recovers when rare against frozen residents. No
 demand is deleted or weakened. The cost c and the supply b are fixed
-throughout. In CASE-tmp5sk3q's Gaussian-niche runs this state is reached
-from operators started almost identical. Near the identical start, the
+throughout. In CASE-tmp5sk3q's Gaussian-niche runs, operators started
+almost identical reach this state whenever the niche space has room for
+them all. Near the identical start, the
 demands of two persistence-seeking operators sharing a trait are not
 robustly met, since such an equilibrium is never asymptotically stable.
 

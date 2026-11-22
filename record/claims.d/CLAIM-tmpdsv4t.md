@@ -114,4 +114,6 @@ does not lead to it.
 - **That re-adaptation always closes a niche.** With a(1/2) < 1/2 the
   lone generalist leaves room, and the specialist returns (CASE-tmp5sk3q).
 - **Anything for other trade-off shapes, more resources or more
-  operators.** CASE-tmp5sk3q's Gaussian-niche runs found no such failure.
+  operators.** In CASE-tmp5sk3q's Gaussian-niche runs that met Theorem
+  A, recovery against re-adapted residents stayed positive in all 64
+  removals, though at a median 0.29 of the frozen rate.

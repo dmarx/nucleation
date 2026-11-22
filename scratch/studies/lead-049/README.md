@@ -50,5 +50,6 @@ u(θ) = (a(θ), a(1 − θ))). Integration is RK4 in (log n, θ), with dt = 0.02
     python3 -I generalist_check.py
     python3 -I condC_check.py                  # Theorem C's full hypothesis (part 2's
                                                # `condC` field omits stationarity)
+    python3 -I analyze_part2.py                # clean vs degenerate runs, with condC
 
 Results are written to `results/` (JSON; the `*_log.txt` files are stdout).

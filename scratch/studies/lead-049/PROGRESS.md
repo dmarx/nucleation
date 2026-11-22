@@ -28,16 +28,12 @@ numerically; file a CLAIM, a CASE and dated notes.
   CASE-118, and LEAD-049, which also gains `operationalized_in`.
 - Changelog fragment `record/changelog.d/lead-049.md`.
 
+- Part 2 finished (`results/part2_runs.jsonl`, `part2_summary.json`), `condC_check.py`
+  (`results/condC_check.jsonl`) and `analyze_part2.py` (`results/part2_analysis.json`).
+- CASE-tmp5sk3q written from parts 1-3; notes refined with part-2 findings.
+
 ## Next
 
-- Part 2 is running and resumable (`results/part2_runs.jsonl`). Rerun
-  `python3 -I study.py part2` to continue or finish it. It writes
-  `results/part2_summary.json`.
-- Then run `python3 -I condC_check.py`, which is resumable. The `condC`
-  field in part 2 omits the stationarity requirement, so this script
-  computes Theorem C's full hypothesis.
-- Write CASE-tmp5sk3q, which is still luria's template. Kind
-  executed-study, standing documented. It takes the numbers from parts
-  1–3, part 2's summary and condC_check.
-- Final checks: yaml, titles, H1s, inactive-ok lists. Then commit and
-  push, and report.
+- Nothing in the lead's scope. Report to the coordinator. The owner decides on status,
+  on the reading of the lone generalist (third outcome or another), and whether to mark
+  LEAD-049 Done.

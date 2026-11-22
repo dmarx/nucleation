@@ -188,6 +188,11 @@ not involve n_i. ∎
   C needs its hypothesis. CLAIM-tmpdsv4t gives an instance in which every
   hypothesis of A and B holds and C's fails, the residents take over the
   vacated niche, and the removed specialist cannot recover.
+- **That Theorem C's hypothesis is needed.** It is sufficient, and far
+  from necessary. In CASE-tmp5sk3q's Gaussian-niche runs it held in none
+  of 64 removals, since interior resident traits always move into a
+  vacancy. Recovery against the re-adapted residents still stayed
+  positive in all 64.
 - **That the differentiated equilibrium is the only stable state.** L is
   not convex in the traits, so the class allows alternative stable states.
   CLAIM-tmpdsv4t's instance has one.
