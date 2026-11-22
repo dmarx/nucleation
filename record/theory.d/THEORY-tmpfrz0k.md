@@ -29,6 +29,7 @@ summary: >-
   (THEORY-tmphcnj3). Proposed until the print text and a replication
   confirm it.
 ---
+<!-- inactive-ok-file: THEORY-tmpmsncg THEORY-tmpzmy66 — Proposed; the readings beside this one -->
 <!-- inactive-ok-file: CLAIM-817 CLAIM-830 THEORY-tmphcnj3 ARG-tmp3q9cy — Proposed or new; the claims this reading grounds, the reading that qualifies its premise and the argument that says how -->
 
 # THEORY-tmpfrz0k: Barabási and Albert, growing a network one vertex at a time with links attached in proportion to degree, find a stationary power-law degree distribution with exponent near 3 by simulation and exactly 3 by a mean-field argument, an exponential distribution without preferential attachment, a non-stationary one tending to a complete graph without growth, and scaling only for a linear kernel, and propose growth and preferential attachment as the generic origin of the power-law tails they report in real networks

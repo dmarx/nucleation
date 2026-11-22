@@ -28,6 +28,7 @@ summary: >-
   is a contrast, not part of this support. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-tmpmsncg ARG-tmpqxprw — Proposed; the reading and argument for the kernel regimes, cited beside this one -->
 <!-- inactive-ok-file: CLAIM-817 ARG-149 THEORY-tmpfrz0k THEORY-tmpzmy66 THEORY-188 — Proposed; the claim, the readings this argument joins, the argument whose gap it fills and the reading the aside cites -->
 
 # ARG-tmp3q9cy: Barabási and Albert's Models A and B and their nonlinear-kernel simulations, with the chapter's restatement, read as a source, carry the sentence that attachment alone does not guarantee a power law, so they ground that clause of the cumulative-advantage claim

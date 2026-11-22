@@ -29,6 +29,7 @@ summary: >-
   are needed", and "scaling is present only for α = 1". The empirical
   exponents are slopes drawn on log–log plots, with no fit or test.
 ---
+<!-- inactive-ok-file: ARG-149 — Proposed; the argument whose gap this reading fills -->
 <!-- inactive-ok-file: CLAIM-817 CLAIM-830 CLAIM-803 SYNTHESIS-119 THEORY-tmpfrz0k THEORY-tmpzmy66 THEORY-tmphcnj3 ARG-tmp3q9cy ARG-tmpmylwc — Proposed or new; the reading of this work, the arguments filed with it and the entries it bears on -->
 
 # NOTE-tmpwgw8e: Barabási and Albert, Emergence of Scaling in Random Networks, read for growth and preferential attachment as the origin of power-law degree tails

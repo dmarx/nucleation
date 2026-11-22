@@ -32,6 +32,7 @@ summary: >-
   hitting-time identity, and ranks the Yule process and criticality as
   the two most important.
 ---
+<!-- inactive-ok-file: TERM-tmpeguzj — Proposed; the term filed with the reading of Merton -->
 <!-- inactive-ok-file: CLAIM-795 CLAIM-815 CLAIM-803 CLAIM-841 CLAIM-817 CLAIM-830 CLAIM-824 CLAIM-769 THEORY-2131 THEORY-2150 THEORY-tmp6jdas ARG-tmp3ppjy ARG-tmp275n1 TERM-tmpg1vx2 — Proposed; the entries this reading bears on, its own reading and the arguments and term filed with it -->
 <!-- inactive-ok-file: LIT-3007 LIT-2992 LIT-2997 LIT-2962 LIT-tmp7g7aj LIT-tmppzucs LIT-tmp2octb LIT-tmp1db7e LIT-tmpf9hct — Deferred; works this reading names, registered and unread -->
 

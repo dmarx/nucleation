@@ -24,6 +24,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
+<!-- inactive-ok-file: TERM-tmpeguzj — Proposed; the term filed with the reading of Merton -->
 <!-- inactive-ok-file: CLAIM-824 CLAIM-830 THEORY-2150 — Proposed; the claims that use the name and the readings its senses come from -->
 <!-- inactive-ok-file: LIT-tmp7g7aj — Deferred; Simon (1955), registered and unread -->
 

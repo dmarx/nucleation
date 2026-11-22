@@ -45,6 +45,7 @@ summary: >-
   not show that any real network is hyperbolic, or that hierarchy causes
   heterogeneity.
 ---
+<!-- inactive-ok-file: CLAIM-817 — Proposed; the claim whose aside the note of 2026-11-22 sets against the chapter -->
 <!-- inactive-ok-file: THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; registered and unread -->
 

@@ -56,6 +56,7 @@ summary: >-
 bears_on:
 - QUESTION-505
 ---
+<!-- inactive-ok-file: CLAIM-803 — Proposed; the claim on the confound of the attachment test -->
 <!-- inactive-ok-file: THEORY-tmpw4qgu THEORY-tmphcnj3 — Proposed; the readings of 2026-11-22 cited in the notes -->
 <!-- inactive-ok-file: CLAIM-796 CLAIM-817 CLAIM-830 CASE-303 — Proposed or new; the claim objected to and the claims and case this rests on, filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-tmpmsncg THEORY-tmpzmy66 ARG-tmpqxprw — Proposed; the readings of 2026-11-22 and the argument that says how they bear -->
