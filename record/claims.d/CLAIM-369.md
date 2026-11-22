@@ -268,7 +268,7 @@ The claim is unchanged.
 
 ## Note of 2026-11-22: adaptive niche vectors, and a bound on invasion fitness
 
-LEAD-049 builds on this claim (CLAIM-tmp6kclm, which rests on it). Two
+[LEAD-049](../leads.d/LEAD-049.md) builds on this claim ([CLAIM-tmp6kclm](CLAIM-tmp6kclm.md), which rests on it). Two
 additions bear on it.
 
 - **The potential survives adaptation of U.** Let each column be u(θ_i),

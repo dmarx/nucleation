@@ -35,7 +35,7 @@ rests_on:
 grounds:
 - CASE-tmp5sk3q
 summary: >-
-  The counterexample LEAD-049 asked for, within CLAIM-tmp6kclm's class.
+  The counterexample [LEAD-049](../leads.d/LEAD-049.md) asked for, within [CLAIM-tmp6kclm](CLAIM-tmp6kclm.md)'s class.
   Two resources with supply (B, B) and cost c. u(θ) = (a(θ), a(1 − θ)),
   θ in [0, 1], with a(0) = 0 and a(1) = 1. The specialists at θ = 1 and
   θ = 0, each with abundance B − c, are locally exponentially stable when
@@ -59,7 +59,7 @@ summary: >-
 
 ## The claim
 
-The instance is in CLAIM-tmp6kclm's class. There are two resources with
+The instance is in [CLAIM-tmp6kclm](CLAIM-tmp6kclm.md)'s class. There are two resources with
 supply b = (B, B), and two operators with cost c each. The niche map is
 u(θ) = (a(θ), a(1 − θ)) on θ ∈ [0, 1], with a increasing, a(0) = 0 and
 a(1) = 1. θ = 1 specializes on resource 1, θ = 0 on resource 2, and
@@ -69,7 +69,7 @@ a(1) = 1. θ = 1 specializes on resource 1, θ = 0 on resource 2, and
    A = I, so n* = (B − c, B − c) and R = (c, c). The selection gradient
    at θ₁ = 1 is a'(1)c − a'(0)c, outward when a'(1) > a'(0), and
    symmetrically for θ₂ = 0. No trait is free, and H_F = A = I. So
-   CLAIM-tmp6kclm's Theorem A applies when B > c > 0 and a'(1) > a'(0).
+   [CLAIM-tmp6kclm](CLAIM-tmp6kclm.md)'s Theorem A applies when B > c > 0 and a'(1) > a'(0).
 2. **Each recovers against a frozen partner.** Theorem B gives
    λ = n*_i d_i² = B − c, since the niche vectors are orthogonal.
 3. **A lone specialist may leave its corner.** Remove operator 2.
@@ -93,27 +93,27 @@ a(1) = 1. θ = 1 specializes on resource 1, θ = 0 on resource 2, and
    two-operator system with the specialist absent, since the specialist's
    growth there is −c/5 < 0.
 
-So the class's two ingredients do not secure QUESTION-132's recovery
+So the class's two ingredients do not secure [QUESTION-132](../questions.d/QUESTION-132.md)'s recovery
 condition once residents re-adapt. The record's two measurements, frozen
 and trainable, part here. Against frozen residents the specialist
 recovers at B − c. Against a resident that has had time to generalize it
 declines, at −c/5. Below c/B = 2/3 a lone resident does start to move
-(item 3). CASE-tmp5sk3q finds that it then ends at the generalist and that
+(item 3). [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md) finds that it then ends at the generalist and that
 the removed specialist then fails to return. Above 2/3 the resident stays
 put and the specialist returns. The generalist state remains, but removal
 does not lead to it.
 
 ## What it does not say
 
-- **That this is QUESTION-132's third outcome as the question defines
+- **That this is [QUESTION-132](../questions.d/QUESTION-132.md)'s third outcome as the question defines
   it.** The generalist is not held by an early advantage of one of several
   processes. It is an alternative stable state that removal can make the
   system fall into, with differentiation lost. Whether that counts as
   "entrenched asymmetry", a fourth outcome, or neither is the owner's to
   decide. The two readings are left open.
 - **That re-adaptation always closes a niche.** With a(1/2) < 1/2 the
-  lone generalist leaves room, and the specialist returns (CASE-tmp5sk3q).
+  lone generalist leaves room, and the specialist returns ([CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)).
 - **Anything for other trade-off shapes, more resources or more
-  operators.** In CASE-tmp5sk3q's Gaussian-niche runs that met Theorem
+  operators.** In [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)'s Gaussian-niche runs that met Theorem
   A, recovery against re-adapted residents stayed positive in all 64
   removals, though at a median 0.29 of the frozen rate.

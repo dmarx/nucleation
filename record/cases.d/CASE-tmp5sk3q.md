@@ -25,7 +25,7 @@ illustrates:
 line:
 - distributed-agency
 summary: >-
-  The numerical check of CLAIM-tmp6kclm and CLAIM-tmpdsv4t, LEAD-049's
+  The numerical check of [CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md) and [CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md), [LEAD-049](../leads.d/LEAD-049.md)'s
   theorem and counterexample. (1) Fixed traits: 2,000 random nonnegative
   7 × k niche matrices, k = 2–6, with 7,981 removals, each −i community
   found exactly. Every recovery rate was positive and at least
@@ -57,9 +57,9 @@ summary: >-
 
 ## What was done
 
-LEAD-049 asks for a restricted theorem and a check of it. The theorem
-and the model class are CLAIM-tmp6kclm, and the counterexample is
-CLAIM-tmpdsv4t. The code is scratch/studies/lead-049/: `model.py`,
+[LEAD-049](../leads.d/LEAD-049.md) asks for a restricted theorem and a check of it. The theorem
+and the model class are [CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md), and the counterexample is
+[CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md). The code is scratch/studies/lead-049/: `model.py`,
 `study.py`, `generalist_check.py`, `condC_check.py`, and 14 pytest tests
 in `test_model.py`, all passing. Integration is RK4 in (log n, θ) with
 dt = 0.02, and the trait is clipped to its box after each step.
@@ -165,7 +165,7 @@ Theorem C's sufficient condition never applies there. They do not close
 it: recovery stays positive, though often much slower than the frozen
 measurement suggests. So in this family the frozen recovery rate
 overstates recovery against an adapting organization, by a median factor
-of about 3.5. That is the gap QUESTION-132's frozen and trainable
+of about 3.5. That is the gap [QUESTION-132](../questions.d/QUESTION-132.md)'s frozen and trainable
 measurements were meant to expose. With more operators than room,
 differentiation stalls: operators pair up neutrally, as Theorem A's
 remark predicts.

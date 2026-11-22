@@ -135,8 +135,8 @@ No status changes.
 
 ## Note of 2026-11-22: a k-component spectral bound on recovery
 
-LEAD-049 proved a k-component version of CASE-118's identity
-(CLAIM-tmp6kclm, Theorem B). It holds in CLAIM-369's class at fixed
+[LEAD-049](../leads.d/LEAD-049.md) proved a k-component version of [CASE-118](../cases.d/CASE-118.md)'s identity
+([CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md), Theorem B). It holds in [CLAIM-369](../claims.d/CLAIM-369.md)'s class at fixed
 features, with the Gram matrix A positive definite and an interior
 equilibrium n*. A specialist i is removed and reintroduced rare against
 the others' re-equilibrated community. Its recovery growth satisfies
@@ -145,10 +145,10 @@ the others' re-equilibrated community. Its recovery growth satisfies
 
 Here d_i is the distance of i's feature vector from the span of the
 others'. Equality holds in the first inequality when no other component
-goes extinct in i's absence. CASE-tmp5sk3q's 7,981 random cases meet the
+goes extinct in i's absence. [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)'s 7,981 random cases meet the
 bound everywhere. In the 1,666 with a secondary extinction it is strict.
 
-For this question the result sharpens CASE-118's finding. What predicts
+For this question the result sharpens [CASE-118](../cases.d/CASE-118.md)'s finding. What predicts
 a component's recovery is not the spectrum as a whole. It is the
 component's own residual direction, d_i², the Schur complement of A at i,
 weighted by its abundance. λ_min(A) is only the worst case over
@@ -156,6 +156,6 @@ components. The abundance n* = A⁻¹r carries the supply, which is the
 "what else" the question asks for. In this class the answer is exact:
 feature geometry (d_i) and supply (n*_i) together set recovery. That
 holds only while the features are fixed. When they adapt, a component's
-recovery against re-adapted residents can be negative (CLAIM-tmpdsv4t).
+recovery against re-adapted residents can be negative ([CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md)).
 
 The question is unchanged and stays Open.

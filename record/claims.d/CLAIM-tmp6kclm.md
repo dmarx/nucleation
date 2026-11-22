@@ -40,11 +40,11 @@ rests_on:
 grounds:
 - CASE-tmp5sk3q
 summary: >-
-  LEAD-049's restricted theorem, for the simplest class that has both of
-  QUESTION-132's ingredients: CLAIM-369's symmetric resource competition, with
+  [LEAD-049](../leads.d/LEAD-049.md)'s restricted theorem, for the simplest class that has both of
+  [QUESTION-132](../questions.d/QUESTION-132.md)'s ingredients: [CLAIM-369](CLAIM-369.md)'s symmetric resource competition, with
   each operator's niche vector u(θ_i) set by a trait confined to a box and
   moved up the rare-mutant selection gradient (adaptive dynamics' canonical
-  equation). The whole system is then a gradient flow of CLAIM-369's
+  equation). The whole system is then a gradient flow of [CLAIM-369](CLAIM-369.md)'s
   objective L in a positive diagonal metric. (A) An equilibrium with every
   operator present is locally exponentially stable if each trait is
   interior and stationary or held at a bound by a strictly outward
@@ -56,7 +56,7 @@ summary: >-
   specialist removed and reintroduced rare grows at λ_i ≥ n*_i d_i² ≥
   n*_i λ_min(A*), where d_i is the distance of its niche vector from the
   span of the others'. Equality holds in the first when no other
-  operator goes extinct in its absence. This extends CASE-118 to k
+  operator goes extinct in its absence. This extends [CASE-118](../cases.d/CASE-118.md) to k
   components. (C) The same rate holds against re-adapted residents if
   the frozen −i community itself meets (A). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
@@ -78,7 +78,7 @@ the derivative of u at θ_i, U = [u_1 … u_k] and A = UᵀU.
   ṅ_i = n_i (u_i·R − c_i),
   θ̇_i = ε κ_i Proj_Θ [ J_iᵀ R ],  ε > 0, κ_i > 0 (for instance κ_i = n_i).
 
-The first line is CLAIM-369's Lotka–Volterra system, with A_ij = u_i·u_j ≥ 0,
+The first line is [CLAIM-369](CLAIM-369.md)'s Lotka–Volterra system, with A_ij = u_i·u_j ≥ 0,
 symmetric and competitive, and r = Uᵀb − c. The second moves each trait
 up the selection gradient, the per-capita growth of a rare mutant with
 trait θ′ against the current residents, differentiated at θ′ = θ_i. The
@@ -87,10 +87,10 @@ dynamics' canonical equation when κ_i = n_i (mutation supply proportional
 to abundance). "Bounded niche adaptation" is read as the box.
 
 **Why this class.** It is the smallest addition to a class the record
-already holds. At fixed traits it is exactly CLAIM-369's, where the record
+already holds. At fixed traits it is exactly [CLAIM-369](CLAIM-369.md)'s, where the record
 has the potential, the KKT reading, and acyclic invasion graphs
-(THEORY-1168). One scalar trait already shows both the theorem and the
-counterexample (CLAIM-tmpdsv4t). The rare-mutant gradient is chosen over
+([THEORY-1168](../theory.d/THEORY-1168.md)). One scalar trait already shows both the theorem and the
+counterexample ([CLAIM-tmpdsv4t](CLAIM-tmpdsv4t.md)). The rare-mutant gradient is chosen over
 the operator's own fitness gradient because it keeps the potential. The
 own-fitness gradient adds a self-crowding term −n_i J_iᵀu_i. That term is
 a gradient only when |u(θ)| is constant, and the class does not cover it.
@@ -162,7 +162,7 @@ Schur complement A*_ii − A*_{i,−i}(A*_{−i})⁻¹A*_{−i,i}, which is d_i�
 at least λ_min(A*). ∎
 
 With two components, A = [[1, ρ], [ρ, 1]] and r = (1, 1), this gives
-n*_i = 1/(1 + ρ) and d_i² = 1 − ρ², so λ_i = 1 − ρ, CASE-118's value.
+n*_i = 1/(1 + ρ) and d_i² = 1 − ρ², so λ_i = 1 − ρ, [CASE-118](../cases.d/CASE-118.md)'s value.
 
 **Theorem C (recovery against re-adapted residents).** Suppose the frozen
 −i community (ñ, θ*_{−i}) itself meets Theorem A's hypotheses for the
@@ -182,24 +182,24 @@ not involve n_i. ∎
 ## What it does not say
 
 - **That the hypotheses hold.** They are sufficient conditions. Whether
-  they hold depends on u, b and c, and CASE-tmp5sk3q checks them in
+  they hold depends on u, b and c, and [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md) checks them in
   two instances.
 - **That a specialist recovers against residents that re-adapt.** Theorem
-  C needs its hypothesis. CLAIM-tmpdsv4t gives an instance in which every
+  C needs its hypothesis. [CLAIM-tmpdsv4t](CLAIM-tmpdsv4t.md) gives an instance in which every
   hypothesis of A and B holds and C's fails, the residents take over the
   vacated niche, and the removed specialist cannot recover.
 - **That Theorem C's hypothesis is needed.** It is sufficient, and far
-  from necessary. In CASE-tmp5sk3q's Gaussian-niche runs it held in none
+  from necessary. In [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)'s Gaussian-niche runs it held in none
   of 64 removals, since interior resident traits always move into a
   vacancy. Recovery against the re-adapted residents still stayed
   positive in all 64.
 - **That the differentiated equilibrium is the only stable state.** L is
   not convex in the traits, so the class allows alternative stable states.
-  CLAIM-tmpdsv4t's instance has one.
+  [CLAIM-tmpdsv4t](CLAIM-tmpdsv4t.md)'s instance has one.
 - **That a trainable specialist's recovery is covered.** The returning
   specialist keeps its old trait. While rare, with κ_i = n_i, it barely
-  adapts, but QUESTION-132's frozen-against-trainable distinction is not
+  adapts, but [QUESTION-132](../questions.d/QUESTION-132.md)'s frozen-against-trainable distinction is not
   otherwise addressed.
 - **Anything for asymmetric interactions or normalized shares.** Those
-  are CLAIM-369's two boundaries. The question's next steps (asymmetry,
+  are [CLAIM-369](CLAIM-369.md)'s two boundaries. The question's next steps (asymmetry,
   delayed adaptation, influence-dependent training) are not attempted.

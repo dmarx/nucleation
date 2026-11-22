@@ -97,25 +97,25 @@ The question stays open.
 
 ## Note of 2026-11-22: joint persistence reached by adaptation, in a restricted class
 
-LEAD-049 lists this question among those it advances. What it gives
+[LEAD-049](../leads.d/LEAD-049.md) lists this question among those it advances. What it gives
 applies only on one reading. Take each operator's demand to be its own
-persistence with positive recovery when rare. That is QUESTION-135's
-persistence edge and CLAIM-554's reading of niche differentiation as
-relief of frustration among persistence demands. CLAIM-tmp6kclm then
+persistence with positive recovery when rare. That is [QUESTION-135](QUESTION-135.md)'s
+persistence edge and [CLAIM-554](../claims.d/CLAIM-554.md)'s reading of niche differentiation as
+relief of frustration among persistence demands. [CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md) then
 gives sufficient conditions under which adaptation of bounded niche
 traits reaches a state in which all k demands are met at once and
 robustly: each specialist recovers when rare against frozen residents. No
 demand is deleted or weakened. The cost c and the supply b are fixed
-throughout. In CASE-tmp5sk3q's Gaussian-niche runs, operators started
+throughout. In [CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md)'s Gaussian-niche runs, operators started
 almost identical reach this state whenever the niche space has room for
 them all. Near the identical start, the
 demands of two persistence-seeking operators sharing a trait are not
 robustly met, since such an equilibrium is never asymptotically stable.
 
 Two limits. The demands here are persistence demands, not the
-acceptance sets of CLAIM-347, so whether this counts as an answer in the
+acceptance sets of [CLAIM-347](../claims.d/CLAIM-347.md), so whether this counts as an answer in the
 question's own terms is the owner's call. And joint feasibility is not
-kept against re-adaptation. In CLAIM-tmpdsv4t's instance, losing one
+kept against re-adaptation. In [CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md)'s instance, losing one
 specialist can tip the system into a lone generalist against which the
 lost demand cannot be met again.
 

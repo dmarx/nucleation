@@ -61,14 +61,14 @@ differentiation needs more than competition and bounded adaptation.
 
 ## Note of 2026-11-22: carried out
 
-**The model class.** The lead left it open. The choice was CLAIM-369's
+**The model class.** The lead left it open. The choice was [CLAIM-369](../claims.d/CLAIM-369.md)'s
 symmetric resource competition (A = UᵀU with u ≥ 0, r = Uᵀb − c), with
 each operator's niche vector set by a trait confined to a box and moved
 up the rare-mutant selection gradient. It is the smallest addition to a
-class the record already holds, it keeps CLAIM-369's potential, and one
+class the record already holds, it keeps [CLAIM-369](../claims.d/CLAIM-369.md)'s potential, and one
 scalar trait suffices for both a theorem and a counterexample.
 
-**What was proved** (CLAIM-tmp6kclm, demonstrated).
+**What was proved** ([CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md), demonstrated).
 
 - (A) Sufficient conditions for local exponential stability of a
   differentiated equilibrium: traits interior and stationary or held at a
@@ -80,18 +80,18 @@ scalar trait suffices for both a theorem and a counterexample.
 - (C) The same rate against re-adapted residents, when the frozen −i
   community itself meets (A).
 
-**The counterexample** (CLAIM-tmpdsv4t, demonstrated). In a two-resource
+**The counterexample** ([CLAIM-tmpdsv4t](../claims.d/CLAIM-tmpdsv4t.md), demonstrated). In a two-resource
 trade-off, a stable specialist pair coexists with a stable lone
 generalist, against which a removed specialist has negative growth. So
 the "What would count" counterexample is to recovery once residents
 re-adapt, not to differentiation itself.
 
-**The numerical study** (CASE-tmp5sk3q, scratch/studies/lead-049/) checks
+**The numerical study** ([CASE-tmp5sk3q](../cases.d/CASE-tmp5sk3q.md), scratch/studies/lead-049/) checks
 all three theorems and the counterexample.
 
-**What remains.** The steps QUESTION-132 names after the restricted
-theorem: asymmetric interactions, delayed adaptation (THEORY-548),
-influence-dependent training (QUESTION-134), invasion graphs with
+**What remains.** The steps [QUESTION-132](../questions.d/QUESTION-132.md) names after the restricted
+theorem: asymmetric interactions, delayed adaptation ([THEORY-548](../theory.d/THEORY-548.md)),
+influence-dependent training ([QUESTION-134](../questions.d/QUESTION-134.md)), invasion graphs with
 adaptive traits, and a trainable returning specialist. Whether the lone
 generalist is the question's third outcome or a further one is the
 owner's to decide.

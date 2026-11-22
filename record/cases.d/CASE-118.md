@@ -118,7 +118,7 @@ construction is unchanged.
 
 ## Note of 2026-11-22: the k-component version
 
-CLAIM-tmp6kclm (Theorem B, LEAD-049) proves, for any number of
+[CLAIM-tmp6kclm](../claims.d/CLAIM-tmp6kclm.md) (Theorem B, [LEAD-049](../leads.d/LEAD-049.md)) proves, for any number of
 components with a positive definite Gram matrix and an interior
 equilibrium, that a component's invasion growth at the −i community is
 at least n*_i d_i². Here d_i is the distance of its feature vector from
