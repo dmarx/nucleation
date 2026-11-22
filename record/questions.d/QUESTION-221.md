@@ -122,3 +122,30 @@ question, [CLAIM-390](../claims.d/CLAIM-390.md) or [CLAIM-386](../claims.d/CLAIM
 order in the coupling into a block) but holds no construction of the
 non-implication as stated. It is one of the cells [QUESTION-252](QUESTION-252.md) asks
 to be filled.
+
+## Note of 2026-11-22: the aggregate's dependence, linear Gaussian VAR(1), one step
+<!-- inactive-ok-file: CASE-tmp2l6id CLAIM-tmpllgpb — new; filed from LEAD-178 -->
+
+[LEAD-178](../leads.d/LEAD-178.md) worked the aggregate's dynamical dependence itself, which this
+question had left open. [CLAIM-tmpllgpb](../claims.d/CLAIM-tmpllgpb.md) (demonstrated, Proposed) offers:
+
+- **A two-sided bound for any linear aggregate Y = LX.** With G = LΣLᵀ,
+  T lies between ½ log det(I + G⁻¹ LA Σ_|L AᵀLᵀ) and the same with the
+  stationary Π_|L, where Σ_|L = Cov(e | Le) and Π_|L = Cov(X | LX). Only
+  the closure defect LA − BL enters, for any B. The upper half is
+  [CLAIM-390](../claims.d/CLAIM-390.md)'s bound when Y is a block's full state.
+- **Both results this question allows, by a condition on the block.** If
+  the block's aggregate is closed under the block's own dynamics (equal
+  column sums for the plain sum, [CLAIM-386](../claims.d/CLAIM-386.md)'s condition), T = Θ(ε²), with a
+  lower constant set by the noise and an upper one that grows as the slow
+  gap closes; with the slow gap proportional to ε it is first order. If
+  it is not closed, T has a positive floor as ε → 0 that a wider fast gap
+  does not remove, because noise re-excites the fast modes at every step:
+  a nearly decomposable family whose dependence stays bounded away from
+  zero.
+
+[CASE-tmp2l6id](../cases.d/CASE-tmp2l6id.md) is the study (600 items, exact covariances). The claim
+bears on this question and is not filed as answering it: the longer
+horizon this question also asks for was not bounded. Whether the class
+part is split off as Answered under [ADR-049](../decisions.d/ADR-049.md) is the owner's call. Markov
+chains ([NOTE-1030](../notes.d/NOTE-1030.md)'s open target) are untouched.
