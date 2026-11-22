@@ -460,7 +460,7 @@ be attributed to a self. That treats the self-model as a construction that
 can be designed away, as this claim does, and takes it to matter for
 whether there is suffering at all, which this claim leaves open.
 
-## Note of 2026-11-22: CASE-114's test, run
+## Note of 2026-11-22: [CASE-114](../cases.d/CASE-114.md)'s test, run
 
 The note of 2026-11-06 says Drayson's objection ([THEORY-646](../theory.d/THEORY-646.md)) is answered
 only conditionally because no case in the record shows a unified self-model
