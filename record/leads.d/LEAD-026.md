@@ -60,17 +60,17 @@ driven population answers [QUESTION-115](../questions.d/QUESTION-115.md) and [QU
 
 **What was done.**
 
-- *The populations.* CASE-101's three arms were simulated with numpy, with
+- *The populations.* [CASE-101](../cases.d/CASE-101.md)'s three arms were simulated with numpy, with
   pytest tests. A fourth arm, C0, has an institution that does not answer
   to its members. All are matched in turnover, member variance, member
   correlation and the aggregate's lag-1 autocorrelation.
-- *The search.* QUESTION-115's search was applied: Krakauer et al.'s
+- *The search.* [QUESTION-115](../questions.d/QUESTION-115.md)'s search was applied: Krakauer et al.'s
   retention measures at lags 1 to 64, Bourrat's interventional retention,
   and transfer entropy into each candidate.
-- *The lagged block.* A block test priced by CLAIM-154 was run on all
+- *The lagged block.* A block test priced by [CLAIM-154](../claims.d/CLAIM-154.md) was run on all
   subsets at windows of 1 to 16 steps.
-- *Where it is filed.* The study is CASE-tmprsqvj and the finding is
-  CLAIM-tmp2jbb1. The materials are under scratch/studies/lead-026/.
+- *Where it is filed.* The study is [CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) and the finding is
+  [CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md). The materials are under scratch/studies/lead-026/.
 
 **The result, against "What would count".**
 
@@ -83,18 +83,18 @@ driven population answers [QUESTION-115](../questions.d/QUESTION-115.md) and [QU
 
 So the procedure meets the criterion for B and C. For A it meets it only
 relative to an observed set that contains the input. Whether that answers
-QUESTION-115 and QUESTION-116 for the model is the owner's call.
+[QUESTION-115](../questions.d/QUESTION-115.md) and [QUESTION-116](../questions.d/QUESTION-116.md) for the model is the owner's call.
 
 **What remains.**
 
-- Effective information and the macrostate leg of QUESTION-115.
+- Effective information and the macrostate leg of [QUESTION-115](../questions.d/QUESTION-115.md).
 - Sensitivity:
   - a driver as persistent as B's tradition, where A(Δ) with the driver
     hidden may no longer separate B;
   - other priors for the price;
   - a nonlinear or discrete version, where the estimates are not only
     linear-Gaussian lower bounds.
-- The same lagged test on the dancing couple (LEAD-037), or on a stored
-  artifact such as CASE-043.
+- The same lagged test on the dancing couple ([LEAD-037](LEAD-037.md)), or on a stored
+  artifact such as [CASE-043](../cases.d/CASE-043.md).
 
 Status and stage are unchanged.

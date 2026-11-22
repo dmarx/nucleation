@@ -163,8 +163,8 @@ No status, title or warrant changes.
 
 ## Note of 2026-11-22: an instance in population form
 
-CASE-tmprsqvj runs CASE-101's populations through the priced block test,
-lagged over windows of 1 to 16 steps (LEAD-026). Two of the populations
+[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) runs [CASE-101](../cases.d/CASE-101.md)'s populations through the priced block test,
+lagged over windows of 1 to 16 steps ([LEAD-026](../leads.d/LEAD-026.md)). Two of the populations
 are matched in turnover and aggregate statistics:
 
 - in one, the members respond to a common driver;
@@ -176,5 +176,5 @@ with its external variable. Every information measure computed agrees to
 within a few per cent. An institution that does answer to its members
 differs only in the direction of that feedback, and the price removes it
 beyond four steps. This is the claim's beam and membrane, with the imposed
-boundary indistinguishable from a common input. CLAIM-tmp2jbb1
+boundary indistinguishable from a common input. [CLAIM-tmp2jbb1](CLAIM-tmp2jbb1.md)
 corroborates this claim. The claim is unchanged.

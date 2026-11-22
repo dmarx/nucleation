@@ -121,12 +121,12 @@ puts in E for each arm. The proposal is otherwise unchanged.
 ## Note of 2026-11-22: run
 
 The proposal has been run, so its "Not run" and "nothing is run" no longer
-hold. CASE-tmprsqvj carries out LEAD-026 and simulates the three arms,
+hold. [CASE-tmprsqvj](CASE-tmprsqvj.md) carries out [LEAD-026](../leads.d/LEAD-026.md) and simulates the three arms,
 matched in turnover and three aggregate statistics. It adds a fourth arm,
 C0, whose institution does not answer to its members. As the note of
 2026-10-29 asks, it states E for each arm: the rest of the observed
 variables, with each measure also run with the external variable hidden.
-CLAIM-tmp2jbb1 states the finding.
+[CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md) states the finding.
 
 - **Where the criteria disagree.**
   - Retention conditioned on E separates arm B.

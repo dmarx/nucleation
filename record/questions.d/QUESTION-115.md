@@ -312,14 +312,14 @@ on one minimal ecological-scaffolding model. [CLAIM-tmptbxbq](../claims.d/CLAIM-
 
 The question is unchanged and stays Open.
 
-## Note of 2026-11-22: CASE-101's populations run through the search
+## Note of 2026-11-22: [CASE-101](../cases.d/CASE-101.md)'s populations run through the search
 
-CASE-tmprsqvj carries out LEAD-026. It simulates CASE-101's three
+[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) carries out [LEAD-026](../leads.d/LEAD-026.md). It simulates [CASE-101](../cases.d/CASE-101.md)'s three
 populations, and a fourth in which the institution does not answer to its
 members (C0). All four are matched in turnover and three aggregate
 statistics. They are run through this question's search: information
-measures propose candidates, a block test priced by CLAIM-154 decides, and
-the result is reported as a profile. CLAIM-tmp2jbb1 states the finding.
+measures propose candidates, a block test priced by [CLAIM-154](../claims.d/CLAIM-154.md) decides, and
+the result is reported as a profile. [CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md) states the finding.
 
 - **Boundary.**
   - The search finds the transmitting population (B) as its members alone.

@@ -386,9 +386,9 @@ eigenbasis, not by grouping members. No change of status or title.
 ## Note of 2026-11-22: the time-lagged block test, run
 
 The time-lagged version that "is not built" (on Otto's notebook, above)
-was built for LEAD-026 and run on CASE-101's simulated populations
-(CASE-tmprsqvj, CLAIM-tmp2jbb1). It fits a linear autoregression over a
-window of W steps and prices each group of couplings by CLAIM-154's rule,
+was built for [LEAD-026](../leads.d/LEAD-026.md) and run on [CASE-101](../cases.d/CASE-101.md)'s simulated populations
+([CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md), [CLAIM-tmp2jbb1](CLAIM-tmp2jbb1.md)). It fits a linear autoregression over a
+window of W steps and prices each group of couplings by [CLAIM-154](CLAIM-154.md)'s rule,
 at ln n per coefficient. A candidate passes when every cut inside it is
 kept and its edge is pruned. Three results bear on this claim.
 

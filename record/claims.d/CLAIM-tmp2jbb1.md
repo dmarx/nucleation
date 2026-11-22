@@ -34,10 +34,10 @@ corroborates:
 grounds:
 - CASE-tmprsqvj
 summary: >-
-  CASE-tmprsqvj runs CASE-101's populations, matched in turnover, member
+  [CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) runs [CASE-101](../cases.d/CASE-101.md)'s populations, matched in turnover, member
   variance, member correlation and the aggregate's lag-1 autocorrelation,
-  through CLAIM-157's block test, lagged over windows of 1 to 16 steps and
-  priced by CLAIM-154. The test finds the population that transmits its
+  through [CLAIM-157](CLAIM-157.md)'s block test, lagged over windows of 1 to 16 steps and
+  priced by [CLAIM-154](CLAIM-154.md). The test finds the population that transmits its
   norms at a lag of eight steps, with its support peaking at that lag. It
   rejects the commonly driven members alone only while their driver is
   among the observed variables, and once the driver is hidden they pass.
@@ -55,36 +55,36 @@ summary: >-
 
 ## The claim
 
-CASE-tmprsqvj simulates CASE-101's arms: common input (A), norms
+[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) simulates [CASE-101](../cases.d/CASE-101.md)'s arms: common input (A), norms
 transmitted at a lag of eight steps (B), an institution that trains,
 selects and answers to its members (C), and one that does not answer (C0).
-They are matched in turnover and in three aggregate statistics. CLAIM-157's
+They are matched in turnover and in three aggregate statistics. [CLAIM-157](CLAIM-157.md)'s
 block test is lagged by fitting a linear autoregression over a window of W
-steps, and CLAIM-154's rule prices every group of couplings.
+steps, and [CLAIM-154](CLAIM-154.md)'s rule prices every group of couplings.
 
 - **Delayed transmission is found, with its lag.** B's members pass as a
   block at every window, and the support peaks at W = 8, the transmission
-  lag. QUESTION-116's collective, weakly coupled at each instant and
+  lag. [QUESTION-116](../questions.d/QUESTION-116.md)'s collective, weakly coupled at each instant and
   strongly coupled through time, is found in this model.
 - **Common input is rejected only while it is observed.** A's members fail
   alone because their driver explains their correlation. With the driver
   unobserved, the same members pass, and so does every arm's population.
-  QUESTION-116's test, "rejects a population whose members are correlated
+  [QUESTION-116](../questions.d/QUESTION-116.md)'s test, "rejects a population whose members are correlated
   only because they receive the same input", is met only relative to an
   observed set that contains the input.
 - **Common input and institutional maintenance get one boundary.** A's
   members pass only with their driver, and C's and C0's only with their
-  institution, at every window. That is CLAIM-167's verdict on one-way
-  drive. The direction of coupling, which CLAIM-167 makes the system's
+  institution, at every window. That is [CLAIM-167](CLAIM-167.md)'s verdict on one-way
+  drive. The direction of coupling, which [CLAIM-167](CLAIM-167.md) makes the system's
   architecture, separates C from A only at windows of up to four steps,
   where the institution's response to its members clears the price. A deaf
   institution (C0) and a common driver (A) get the same verdict on every
-  measure. This is CLAIM-194's made-versus-imposed boundary in population
+  measure. This is [CLAIM-194](CLAIM-194.md)'s made-versus-imposed boundary in population
   form.
 
 Two qualifications of the record's statements come with it.
 
-- **A one-step test is not blind to lagged coupling.** CLAIM-157 says a
+- **A one-step test is not blind to lagged coupling.** [CLAIM-157](CLAIM-157.md) says a
   block test on synchronous dynamics will not see coupling that is "a write
   and a later read". That holds for the true one-step coupling, which is
   zero in B. It fails for a one-step model fitted to data, which sees the
@@ -92,7 +92,7 @@ Two qualifications of the record's statements come with it.
   decide whether the block is seen. It decides where its support peaks,
   and that gives the lag.
 - **Intervening on the present misses stored norms.** Bourrat's Â
-  (LIT-005) of B's members falls to 0.02 nats by 32 steps, while
+  ([LIT-005](../literature.d/LIT-005.md)) of B's members falls to 0.02 nats by 32 steps, while
   retention conditioned on the environment (Krakauer et al.'s A) stays at
   0.31. An intervention on the present values leaves the norms of the last
   eight steps in place. For a population that transmits at a lag, the
@@ -102,7 +102,7 @@ Two qualifications of the record's statements come with it.
 
 - **That the block test fails as a criterion of individuality.** It finds
   what it measures: coupling, priced. What it cannot do here, separate a
-  driven population from a made one, CLAIM-194 already says it cannot do.
+  driven population from a made one, [CLAIM-194](CLAIM-194.md) already says it cannot do.
 - **That these verdicts hold for every parameterization.** One linear model
   with four calibrations, one price (a unit-information prior) and
   linear-Gaussian estimates were used.

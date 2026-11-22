@@ -28,14 +28,14 @@ draws_on:
 - THEORY-257
 - THEORY-1163
 summary: >-
-  LEAD-026 asked for CASE-101's three populations to be run through
-  QUESTION-115's search and a lagged block criterion (QUESTION-116). Four
+  [LEAD-026](../leads.d/LEAD-026.md) asked for [CASE-101](CASE-101.md)'s three populations to be run through
+  [QUESTION-115](../questions.d/QUESTION-115.md)'s search and a lagged block criterion ([QUESTION-116](../questions.d/QUESTION-116.md)). Four
   populations of six member slots with the same turnover were simulated,
   matched in member variance, member correlation and the aggregate's lag-1
   autocorrelation: common input (A), norms transmitted at a lag of eight
   steps (B), an institution that trains, selects and answers to its members
   (C), and the same institution deaf to them (C0). A block test priced by
-  CLAIM-154's rule, over all subsets and windows of 1 to 16 steps, finds
+  [CLAIM-154](../claims.d/CLAIM-154.md)'s rule, over all subsets and windows of 1 to 16 steps, finds
   B's members alone, with the strongest support at the transmission lag. It
   joins A's members to their driver and C's and C0's to their institution,
   the same verdict for all three. C differs only by a feedback the price
@@ -53,10 +53,10 @@ summary: >-
 
 ## What was done
 
-CASE-101 proposed three populations "with the same turnover and the
+[CASE-101](CASE-101.md) proposed three populations "with the same turnover and the
 same aggregate statistics" as the place where criteria of individuality
-should disagree. LEAD-026 asked for them to be run, with QUESTION-115's
-search procedure and a lagged block criterion (QUESTION-116) applied to
+should disagree. [LEAD-026](../leads.d/LEAD-026.md) asked for them to be run, with [QUESTION-115](../questions.d/QUESTION-115.md)'s
+search procedure and a lagged block criterion ([QUESTION-116](../questions.d/QUESTION-116.md)) applied to
 each. Nothing here is data about any real population; the case is
 documented as a computation on a stated model.
 
@@ -78,26 +78,26 @@ same in every arm. A slot's value is its occupant's norm.
 For each arm, three parameters were calibrated so that member variance
 (1.00), mean member correlation (0.40) and the aggregate's lag-1
 autocorrelation (0.90) match, to three decimals in the simulated runs.
-CASE-101's note of 2026-10-29 asks the study to state which variables
+[CASE-101](CASE-101.md)'s note of 2026-10-29 asks the study to state which variables
 are in E. E is every observed variable outside the candidate, and each
 measure was also run with e removed from the observed set.
 
-**The search, as QUESTION-115 and A12 state it.** Information measures
+**The search, as [QUESTION-115](../questions.d/QUESTION-115.md) and A12 state it.** Information measures
 find candidates, a priced block decides, and the result is a profile across
 criteria rather than one score.
 
-- *Retention.* Krakauer et al.'s A*, A and nC (LIT-1137), with A11's
+- *Retention.* Krakauer et al.'s A*, A and nC ([LIT-1137](../literature.d/LIT-1137.md)), with A11's
   lagged form A(Δ) for Δ from 1 to 64 steps.
-- *Interventional retention.* Bourrat's Â (LIT-005), by NOTE-027's route:
+- *Interventional retention.* Bourrat's Â ([LIT-005](../literature.d/LIT-005.md)), by [NOTE-027](../notes.d/NOTE-027.md)'s route:
   intervene on the candidate in the simulator, leaving E at its own
   distribution. The input distribution, which Bourrat leaves open, is the
   candidate's population marginal.
-- *Dynamical independence* (THEORY-257). Read as zero transfer entropy
+- *Dynamical independence* ([THEORY-257](../theory.d/THEORY-257.md)). Read as zero transfer entropy
   into the candidate from the rest, with histories of 1 and 16 steps.
-- *The priced lagged block* (CLAIM-157, lagged as QUESTION-116 asks).
+- *The priced lagged block* ([CLAIM-157](../claims.d/CLAIM-157.md), lagged as [QUESTION-116](../questions.d/QUESTION-116.md) asks).
   - Fit a linear autoregression of window W, 1 to 16 steps, to all observed
     variables.
-  - Price each group of couplings by CLAIM-154's rule, ln BF(keep) =
+  - Price each group of couplings by [CLAIM-154](../claims.d/CLAIM-154.md)'s rule, ln BF(keep) =
     ½(d′² − Occam). d′² is the likelihood-ratio statistic, and the Occam
     cost is ln n per coefficient, from a unit-information prior. That prior
     is a choice made here, not the record's.
@@ -130,7 +130,7 @@ linear-Gaussian estimates, in nats, from about 250,000 time points per arm
 - *A's members are rejected alone while the driver is observed.* Their
   internal cut is pruned, at −107 for W = 1, and their edge is kept, at
   39,531. Joined to the driver they pass, as one-way drive passes under
-  CLAIM-167. With the driver unobserved the members pass, with an internal
+  [CLAIM-167](../claims.d/CLAIM-167.md). With the driver unobserved the members pass, with an internal
   ln BF of 10,256. The common input then shows up as coupling among the
   members.
 - *C and C0 get A's verdict.* The members alone fail and the members with
@@ -170,7 +170,7 @@ linear-Gaussian estimates, in nats, from about 250,000 time points per arm
   and all are once it is hidden.
 - *Unpriced, every information measure picks the largest candidate.* A*,
   A and Â are largest for members with e and z in every arm. z adds its own
-  persistence without any coupling, as THEORY-1163's monotonicity says.
+  persistence without any coupling, as [THEORY-1163](../theory.d/THEORY-1163.md)'s monotonicity says.
 
 **Against the known boundaries.** By construction, B's system is its
 members, with timescale L = 8, and C's is its members with the institution.
@@ -178,10 +178,10 @@ A's members are no collective. C0's boundary includes an institution that
 imposes it.
 
 - The procedure recovers B and its lag, and C's membership.
-- It returns A's members only together with their driver, which CLAIM-167
-  counts as one system and QUESTION-116's test counts as a population
+- It returns A's members only together with their driver, which [CLAIM-167](../claims.d/CLAIM-167.md)
+  counts as one system and [QUESTION-116](../questions.d/QUESTION-116.md)'s test counts as a population
   rightly rejected. That holds only while the driver is observed.
-- It cannot tell C0 from A, which is CLAIM-194's made-versus-imposed
+- It cannot tell C0 from A, which is [CLAIM-194](../claims.d/CLAIM-194.md)'s made-versus-imposed
   boundary in population form, with an even stronger result: here the
   imposed boundary's verdict is identical to a common input's.
 
@@ -200,4 +200,4 @@ imposes it.
   macrostate leg and effective information were not attempted.
 
 Results, scripts and tests: scratch/studies/lead-026/ (summary.txt).
-CLAIM-tmp2jbb1 states the finding.
+[CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md) states the finding.

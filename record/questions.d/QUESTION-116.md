@@ -82,18 +82,18 @@ still a level. It cites [CLAIM-157](../claims.d/CLAIM-157.md)'s missing time-lag
 is this question. Neither is a part of the other, so they are not
 related by `refines`.
 
-## Note of 2026-11-22: a lagged block test, run on CASE-101's populations
+## Note of 2026-11-22: a lagged block test, run on [CASE-101](../cases.d/CASE-101.md)'s populations
 
-CASE-tmprsqvj builds one candidate form of the criterion this question asks
-for, and runs it on CASE-101's populations (LEAD-026). The test:
+[CASE-tmprsqvj](../cases.d/CASE-tmprsqvj.md) builds one candidate form of the criterion this question asks
+for, and runs it on [CASE-101](../cases.d/CASE-101.md)'s populations ([LEAD-026](../leads.d/LEAD-026.md)). The test:
 
 - fits a linear autoregression of window W over the observed variables;
-- prices every group of couplings by CLAIM-154's rule, with an Occam cost
+- prices every group of couplings by [CLAIM-154](../claims.d/CLAIM-154.md)'s rule, with an Occam cost
   of ln n per coefficient;
 - passes a candidate when every cut inside it is kept and its edge is
   pruned.
 
-CLAIM-tmp2jbb1 states the result.
+[CLAIM-tmp2jbb1](../claims.d/CLAIM-tmp2jbb1.md) states the result.
 
 - **It finds the collective this question describes.** The members of the
   transmitting population have no synchronous coupling, only coupling at a
