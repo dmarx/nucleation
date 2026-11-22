@@ -26,6 +26,7 @@ summary: >-
   its own pull request into staging.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnookt — Proposed; the claim this lead tests -->
+<!-- inactive-ok-file: THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # LEAD-tmp3xevc: Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory
 
@@ -50,3 +51,13 @@ Register and read, under the read-and-file skill:
 
 Each correspondence in [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) confirmed, narrowed or refuted against its
 source, with the claim revised or defeated accordingly.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+Dunfield and Krishnaswami (2021) registered and read: LIT-tmpqagik, NOTE-tmpbrc1z,
+THEORY-tmptsz1u. On the lead's question: inference against checking matches the
+direction of fit as fact against requirement, in the authors' own words,
+but neither mode moves the term, and where the type comes from (mode) is
+not who must fit whom (ARG-tmpcpo8g, CLAIM-tmpugw2q). Where elaboration sits is not
+answered by the survey; LEAD-tmp7mkn0 plans that reading. The other four
+readings remain.

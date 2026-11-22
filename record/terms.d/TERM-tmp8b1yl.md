@@ -24,6 +24,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: TERM-tmp94y6v TERM-134 THEORY-162 CLAIM-tmpmk056 CLAIM-tmp5rv9x — Proposed; the term filed with this, and the entries it is stated against -->
+<!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # TERM-tmp8b1yl: direction of fit, of a test or predicate: whether it is written to fit what it is applied to, describing it, or what it is applied to must be made to fit it, requiring it; formally, informative against performative update
 
@@ -52,3 +53,23 @@ can ([CLAIM-tmp5rv9x](../claims.d/CLAIM-tmp5rv9x.md)).
 - **Descriptive against normative content.** A descriptor can state a norm
   the entry already meets; direction of fit is about the relation of a test
   to its object, not about what the test says.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+A qualification of the sentence "Which direction a test has is settled
+by the thing as it stands when the test is applied". Bidirectional typing
+(THEORY-tmptsz1u, read in NOTE-tmpbrc1z) separates three things this definition joins:
+
+- **where the type comes from**, its mode: given as input (checking) or
+  computed from the term (synthesis) (§1);
+- **who must fit whom**: in both modes the term is fixed and answers for
+  a mismatch; the authors call the checked type "a requirement" and the
+  synthesized one "a fact" (§4.4);
+- **whether the term passes**, which does not change either.
+
+A requirement the term already meets is world to word by Searle's
+reading and a descriptor by this term's. CLAIM-tmpugw2q files the objection;
+whether the term should say which reading it means is the owner's call.
+The mode distinction parallels, and does not replace, this term's two
+directions: the survey's modes can be reversed without changing who must
+fit (§6.5).

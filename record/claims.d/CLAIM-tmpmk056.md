@@ -35,6 +35,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-783 TERM-134 THEORY-162 — Proposed; the claims, term and reading this joins, and the claim filed with it -->
+<!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # CLAIM-tmpmk056: A descriptor and an imposition are an informative and a performative update: adding a predicate an entry already passes restricts the admissible versions to those where it holds, which is informative update, and enforcing one it fails moves each version to a nearest version where it holds, which is performative update when minimal change is read as nearness in a metric; so the record's two kinds of predicate are the two directions of fit
 
@@ -73,3 +74,15 @@ imposition fits the entry to the predicate (world to word).
   need not carry over; the identification of the two kinds does.
 - Not that a filer always knows which kind a predicate is. That is decided
   by the entry as it stands when the predicate is added.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+A qualification, from a contrast case. In bidirectional typing (THEORY-tmptsz1u,
+read in NOTE-tmpbrc1z) checking a term against a type given is a requirement in
+the authors' word (§4.4) and a test that moves nothing whether the term
+passes or fails (§1, §9.1). By this claim's criterion a requirement the
+term already meets is a descriptor; by Searle's it is still world to
+word. So the closing clause, "the record's two kinds of predicate are the
+two directions of fit", holds for enforced predicates and not for a
+requirement already met. CLAIM-tmpugw2q files the objection. The two
+identifications with Krifka's updates are untouched.

@@ -26,6 +26,7 @@ summary: >-
   ARG-tmpcpo8g narrows. Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnookt — Proposed; the claim this reading bears on -->
+<!-- inactive-ok-file: ARG-tmpcpo8g — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # THEORY-tmptsz1u: Dunfield and Krishnaswami show that bidirectional typing splits typing into checking a term against a type given as input and synthesizing a type from the term as output, a split of information flow, which part of a judgment is known, assigned rule by rule so that no type is guessed (introductions checked and eliminations synthesized in the Pfenning recipe), with the two meeting where a synthesized type is tested against a required one, and with the term an input in both
 

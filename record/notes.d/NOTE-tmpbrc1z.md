@@ -30,6 +30,7 @@ summary: >-
   fact and a checked type as a requirement, and shows that neither mode
   changes the term.
 ---
+<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp8b1yl TERM-134 ARG-tmpcpo8g CLAIM-tmpmk056 CLAIM-tmpugw2q THEORY-162 TERM-tmp94y6v CLAIM-783 CLAIM-tmp5rv9x — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # NOTE-tmpbrc1z: Dunfield and Krishnaswami — Bidirectional Typing
 

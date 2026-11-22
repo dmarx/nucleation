@@ -39,6 +39,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpmk056 TERM-tmp8b1yl TERM-134 — Proposed; the claim objected to and the terms it is stated in -->
+<!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # CLAIM-tmpugw2q: A requirement can already be met: checking a term against a type given holds the term to the type, world to word, and moves nothing whether it passes or fails, so whether a predicate requires or describes is a separate question from whether the entry passes it when it is added, and the record's descriptor and imposition are the two directions of fit only for predicates that are enforced
 

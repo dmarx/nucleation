@@ -24,6 +24,7 @@ summary: >-
   session), and adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-132 CLAIM-772 — Proposed; the term this complements, and the claims filed with it on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # TERM-134: predicate (of an entry), read as a test
 
@@ -80,3 +81,14 @@ convention, a reviewer's habit).
   which two objects are equivalent. An entry's predicates are one entry's
   tests, accrued over its life, and they say what versions of it are
   allowed, not when two things count as the same.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+A parallel, no relation written. A type checker is a predicate read as a
+test in this term's sense: Coquand's checkExp "returns a boolean" (§9.1
+of their survey of bidirectional typing; THEORY-tmptsz1u, read in NOTE-tmpbrc1z), and
+in both of the survey's modes the term is an input that the judgment does
+not change (§1). The survey's checked type, which it calls "a
+requirement" (§4.4), can be passed or failed without moving anything:
+CLAIM-tmpugw2q argues that this separates requiring from failing, which this
+term's descriptor and imposition join.

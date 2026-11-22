@@ -65,6 +65,7 @@ summary: >-
   LEAD-tmp3xevc in NOTE-tmpbrc1z; account THEORY-tmptsz1u. It bears on CLAIM-tmpnookt,
   CLAIM-tmpmk056 and TERM-tmp8b1yl.
 ---
+<!-- inactive-ok-file: CLAIM-tmpnookt THEORY-tmptsz1u ARG-tmpcpo8g CLAIM-tmpugw2q CLAIM-tmpmk056 TERM-tmp8b1yl — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # LIT-tmpqagik: Bidirectional Typing
 

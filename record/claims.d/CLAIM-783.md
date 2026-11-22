@@ -45,6 +45,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CLAIM-772 CLAIM-773 TERM-134 — Proposed; the contraction claims this formalizes for predicates, and the entries filed with it on 2026-11-21 -->
+<!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # CLAIM-783: If restating an entry adds an error and then enforces its predicates, each a projection onto the closed convex set of versions passing its test, then every version reached lies in the intersection of those sets, the step's fixed points are exactly that intersection, drift from a start inside it is bounded by its diameter, and each added predicate can only shrink it; a predicate enforced softly, by a penalty of strength λ on distance from its set, leaves versions outside by an amount that falls with λ and has the hard predicate as its limit; and a predicate the entry already passes when it is added, an exact descriptor of a dimension left undescribed, moves nothing and leaves that dimension no drift from then on, while one the entry fails moves it, to a convention that keeps nothing of the entry on that dimension or to its source, restoring what had drifted; and predicates the entry passes when added never conflict, since the entry witnesses them
 
@@ -148,3 +149,14 @@ origin is feasible:
   result.
 - Not the rate at which soft enforcement approaches the hard one; 1/λ is
   what the run showed, not a derived rate.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+A parallel to part 6, no relation written. With intersection types a
+term that has type A₁ and type A₂ has A₁ ∧ A₂, and synthesizes all three
+(§4.6 of their survey of bidirectional typing; THEORY-tmptsz1u, read in
+NOTE-tmpbrc1z): the term witnesses that the types it already has are jointly
+inhabited, as an entry witnesses its descriptors. The survey also reads
+subtyping as implication, so a type a term synthesizes can only be
+tested against weaker ones it entails (§4.6), which is part 1's
+shrinking seen from the other side.

@@ -24,6 +24,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: TERM-tmp8b1yl TERM-134 CLAIM-477 CLAIM-783 CLAIM-tmp5rv9x SYNTHESIS-114 — Proposed; the term filed with this, and the entries it is stated against -->
+<!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # TERM-tmp94y6v: specification: a set of tests that fixes which realizations count as admissible, the realizations being whatever passes them all; partial when it leaves differences that would matter undecided, and stored when it outlasts the inquiry or design that set it and constrains what follows
 
@@ -61,3 +62,15 @@ specification of requirements of the second ([CLAIM-tmp5rv9x](../claims.d/CLAIM-
 - **The constraint a specification is realized by.** [CLAIM-477](../claims.d/CLAIM-477.md) holds that
   specifications are themselves realized and maintained by something; that
   maintaining apparatus ([TERM-089](TERM-089.md)) is not the specification.
+
+## Note of 2026-11-22: Dunfield and Krishnaswami, read
+
+Two parallels from their survey of bidirectional typing (THEORY-tmptsz1u, read
+in NOTE-tmpbrc1z); analogies, no relation written. Polikarpova's strengthening
+checks a variable against a required type and returns the refinement
+{b | ν = x}, a type written from the variable itself and stronger than the
+requirement (§6.4): a **description** in this term's sense, read off one
+realization, that passes every test it implies. And subsumption tests a
+synthesized type against a required one as implication, "A <: B becomes
+A ⊃ B" (§4.6): one specification tested against another by containment,
+not by a realization.
