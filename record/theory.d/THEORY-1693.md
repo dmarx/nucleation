@@ -35,3 +35,14 @@ Freer and Nosratabadi (2026) show that under the standard limited-attention mode
 ## Evidence
 
 The reading in [NOTE-1797](../notes.d/NOTE-1797.md); its key results are quoted there with locations.
+
+## Note of 2026-11-22: Caliari, read
+
+A **parallel from the data side**, no edge ([LIT-2363](../literature.d/LIT-2363.md), [NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md)). This
+account shows from theory that under the standard limited-attention model
+choices reveal almost no preferences. Caliari's experiment applies the
+Masatlioglu et al. method to 145 participants, and it "uniquely identifies
+the best alternative only for 1 out of 145 participants" in the Time
+domain and 14 in Risk (Appendix D). The finding agrees with this account's
+first half on a second data set, by an independent reading; the second half,
+the attention floor, is not tested there, so the promote_when is not met.

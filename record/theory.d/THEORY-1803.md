@@ -31,3 +31,11 @@ code-generating LLM with a fixed programmatic evaluator, found a cap set of size
 8, larger than previously known, and new online bin-packing heuristics, and that it works best
 where an efficient evaluator with graded scores and a program skeleton are available.
 
+## Note of 2026-11-22: Georgiev, Gómez-Serrano, Tao and Wagner, read further
+
+A **contrast**, no edge ([LIT-2474](../literature.d/LIT-2474.md); dated note of 2026-11-22 there). The
+AlphaEvolve preprint presents FunSearch as its predecessor (Table 1, p. 3).
+FunSearch's evaluator is the target itself, a fixed program; AlphaEvolve's
+evaluators are often discretized stand-ins for continuous targets, and that
+is where its "cheating phenomenon" appears (pp. 7, 17, 25, 59). It bears on
+why this account reports no exploit of the evaluator.

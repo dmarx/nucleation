@@ -157,3 +157,14 @@ affective consciousness suffices (Bradford 2023, Chalmers). Metzinger takes
 the first side, by his "Principle of Pathocentrism" (p. 44), and cites Basl
 for leaving open whether suffering-capable machines are "genuine moral
 patients" (p. 55).
+
+## Note of 2026-11-22: Mossio and Moreno (2010) and Bich, Mossio, Ruiz-Mirazo and Moreno (2016), read
+
+**Checks to run**, no edge. Bruckner's cases, the self-maintaining car
+("Tessler"), bacteria and the flame, can be checked against Mossio and
+Moreno's working definition of closure ([NOTE-tmpnhdly](NOTE-tmpnhdly.md), pdf pp. 7–8) and
+against Bich and colleagues' five requirements for regulation
+([NOTE-tmpefons](NOTE-tmpefons.md), pdf pp. 17–18). On the second, a car that recharges itself
+and calls a tow truck when perturbed has something like a regulator
+triggered by perturbations; whether its constitutive regime is a closure is
+the first check. Neither paper discusses such cases.

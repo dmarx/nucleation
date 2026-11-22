@@ -1,0 +1,160 @@
+---
+status: Read
+paper: LIT-1138
+title: 'Čater, Čater and Ivašković (2026) — The Social Identity Buffer'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read on 2026-11-22 in the sweep of the Unfetched works (batch A), from
+    a reader's draft the filer checked against the downloaded text. Copy:
+    the Repository of the University of Ljubljana, the authors'
+    institution, repozitorij.uni-lj.si/Dokument.php?id=232838&dn= (record
+    page repozitorij.uni-lj.si/IzpisGradiva.php?id=181985, which the reader
+    reports as stating "Licenca: CC BY 4.0"; OpenAlex lists it as the
+    published version, CC BY), fetched by curl on 2026-11-22: HTTP 200,
+    application/pdf, 20 pages. It is SAGE's online-first version,
+    paginated "Sport Marketing Quarterly 1–20", not the issue pagination
+    35(3):263–282; page references below are to pp. 1–20 of this copy.
+    Title, authors and DOI match. Read in full as text: abstract,
+    introduction, theoretical background, hypotheses H1–H4, methods,
+    Tables 1–3, results, discussion, limitations, funding and data
+    statement, and the Appendix's outcome items. Skipped: the reference
+    list, skimmed; Figures 1–3 seen only as captions and as the numbers the
+    text quotes. The filer rechecked every quote below against the text.
+date: '2026-11-22'
+summary: >-
+  Two cross-sectional online surveys of European football fans recruited
+  through fan clubs (Study 1, N = 172, weeks after the April 2021 European
+  Super League announcement; Study 2, N = 184, about six months later;
+  about 90% men). Each respondent rated commitment, word-of-mouth and
+  behavioural loyalty to their club as it is, then at once "If my club were
+  participating in a Super League", and the difference is the "change".
+  Cognitive, affective and evaluative identification each predict a
+  smaller imagined decline in commitment, cognitive most; imagined
+  commitment change carries imagined loyalty change; and a one-item measure
+  of opposition to the move moderates every identity–commitment link.
+---
+
+# NOTE-tmpu5yr1: Čater, Čater and Ivašković (2026) — The Social Identity Buffer
+
+## Contribution
+
+It applies the tripartite (cognitive, affective, evaluative) reading of
+Tajfel (1982) to fans' responses to an off-field, club-wide controversy,
+and adds the intensity of opposition to the decision as a moderator. The
+authors call the tripartite framework "a widely accepted interpretive
+extension" that Tajfel "did not explicitly formulate" (p. 3).
+
+## Key results
+
+- **Design (p. 7).** Respondents rated their current attitude ("actual") and
+  "immediately afterwards" parallel items imagining the club in the league
+  ("if"), e.g. "If my club were participating in a Super League, I would
+  still be very committed to my club"; the difference "captured perceived
+  commitment change".
+- **Evaluative identity is measured by** "I am an important member of my
+  club", "Others respect me for being associated with my club" and "I
+  consider myself a valuable partner of my club" (p. 8): felt standing in
+  the club.
+- **Main effects (p. 9).** Cognitive (β −0.22 and −0.27), affective and
+  evaluative identity each predict a smaller commitment decline;
+  commitment change predicts word-of-mouth and behavioural loyalty change
+  (β 0.63–0.73).
+- **Mediation (p. 9).** Commitment change mediates evaluative identity
+  (both studies) and affective identity (Study 1 only); "No significant
+  mediation effects were found for cognitive identity".
+- **Moderation (p. 10).** Simple slopes at the 16th, 50th and 84th
+  percentiles of opposition: the cognitive identity–commitment change link
+  was "significantly positive under low opposition" (β 0.25 and 0.37),
+  near zero at medium, and negative under high opposition (β −0.19,
+  p = .010, Study 1). Affective and evaluative identity follow a similar
+  order. One medium-opposition slope (Study 2, evaluative, β −0.13,
+  p = .016) is described as nonsignificant.
+- **The authors' reading (pp. 11–12).** "stronger fan opposition to a
+  club's decision reduces the protective effect of all identity dimensions
+  on commitment change"; "When perceived moral violations are severe, even
+  strong identification cannot fully prevent commitment erosion".
+- **Buffering defined (p. 3)** as "reducing the magnitude of negative
+  change rather than eliminating it".
+- **Correlations (Table 2).** Opposition correlates strongly and negatively
+  with all three identity dimensions: strong identifiers oppose the move
+  less.
+- **Robustness.** Paths equal for fans of invited and non-invited clubs
+  (p. 9); common-method bias checked with a marker item ("I sit in the same
+  spot every time during football matches", p. 8).
+- **Limitations stated (pp. 14–15).** A one-item moderator; "hypothetical
+  contexts may elicit idealized responses"; "consistency bias or anchoring
+  effects"; about 90% men; data available "upon request".
+
+## Assumptions
+
+- A same-sitting difference between "actual" and "if" answers measures
+  change in commitment and loyalty.
+- The three identity dimensions are distinct and causally prior to
+  commitment change.
+- Opposition is a moderator of identity's effect, not one of its
+  consequences.
+
+## Concepts
+
+Social identity (Tajfel 1982); cognitive, affective and evaluative
+identification; commitment, attitudinal and behavioural loyalty,
+word-of-mouth; buffering; moderated mediation; betrayal aversion; vicarious
+shame.
+
+## Bearing on the record
+
+- **On the LIT's characterization.** The summary ("cognitive identity
+  buffers commitment best, and strong opposition to the decision weakens
+  every buffer") matches the abstract and the authors' reading, and the
+  "Why this is here" caution about the hypothetical design is confirmed by
+  their own limitations. Two corrections: "buffers best" holds for the
+  direct effect on commitment change only, since commitment mediates
+  evaluative identity, not cognitive; and the moderation's direction is
+  the authors' reading, which their reported signs do not plainly carry
+  (see Limitations). The issue pages 263–282 are right for the issue; this
+  copy is online-first.
+- **[CASE-104](../cases.d/CASE-104.md)**: individual-level evidence only, so it bears on the case's
+  first, aggregate reading and on whether allegiance is held apart from
+  judgment of the club's decision. In this sample it is not: strong
+  identifiers oppose the decision less. It has nothing on the shared,
+  normative or corporate readings, and nothing on public expression.
+- **[QUESTION-119](../questions.d/QUESTION-119.md)**: an instance of the sampling the question worries about;
+  recruitment through fan clubs reaches the more organised fans. The paper
+  does not discuss it.
+- **[NOTE-1253](NOTE-1253.md)** said this work tests social identity theory's
+  low-status-strategy reading of loyal-while-judging fans. It does not: it
+  uses the theory only for a three-component measure of identification
+  (corrected by a dated note there).
+- **Neighbours not cited by the paper:** [NOTE-566](NOTE-566.md) (Hirschman: staying while
+  objecting), [NOTE-1262](NOTE-1262.md) (Leach et al.'s better-validated decomposition of
+  identification), [NOTE-1278](NOTE-1278.md) (the self-esteem hypothesis, which the paper's
+  "evaluative" dimension is equated with), [NOTE-1315](NOTE-1315.md) (a different triad of
+  components). Dated notes on each.
+- **No instruction for machine-learning practice.**
+
+## Limitations
+
+- **Change is not observed.** It is a same-sitting difference between real
+  and imagined answers; the authors grant anchoring and hypothetical bias.
+- **The moderation's sign is not reconciled with its reading.** Commitment
+  change is the decline, and identity's main effects on it are negative
+  (buffering). The simple slopes run from positive at low opposition
+  (stronger identity, larger decline) to negative at high opposition
+  (stronger identity, smaller decline). Read with the coding the paper
+  states, that is buffering that strengthens with opposition, the reverse
+  of the abstract's "strong opposition … significantly weakens the
+  buffering effect" and of p. 15's "under strong opposition the same
+  identity ties are associated with sharper declines". The paper does not
+  say whether the outcome was recoded for the moderation. Its direction
+  should not be relied on without the data.
+- **Identity and opposition are confounded** (Table 2): low-opposition
+  respondents are mostly high identifiers, so the low-opposition slopes
+  rest on few low identifiers, and opposition may be a consequence of
+  identification.
+- **Mediation in cross-section**, with the order asserted.
+- **"Cognitive identity bypasses commitment"** (p. 11) is offered to explain
+  a null mediation, with no direct path reported.
+- One-item moderator; fan-club recruitment; about 90% men; English only.

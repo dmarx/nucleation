@@ -53,6 +53,7 @@ summary: >-
 bears_on:
 - QUESTION-082
 ---
+<!-- inactive-ok-file: THEORY-tmpyc2wm — Proposed; the reading of Mulgan, 2026-11-22 -->
 
 # CLAIM-271: A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support
 
@@ -150,3 +151,17 @@ objection that a corporation is not an agent ([LIT-1429](../literature.d/LIT-142
 unread. Steps 1 and 2, [CLAIM-030](CLAIM-030.md) and [THEORY-725](../theory.d/THEORY-725.md), carry only the comparison
 of members' conclusions with members' reasons aggregated premise by
 premise.
+
+## Note of 2026-11-22: Mulgan, read
+
+[LIT-1874](../literature.d/LIT-1874.md), registered for the wait this claim records, is now read
+([NOTE-tmpf00ch](../notes.d/NOTE-tmpf00ch.md); [THEORY-tmpyc2wm](../theory.d/THEORY-tmpyc2wm.md)). It **bears only indirectly and does not
+lift the hold**. Mulgan endorses, after List and Pettit, the ontological
+step that a committee can act on a belief "even though none of its members
+either do X or believe Y" (p. 903), which is this claim's step 3, and says
+nothing of polling. On Velasquez it reports his position and premises,
+biological embodiment and Searle's account of consciousness, by citation
+and paraphrase only (pp. 903–907, 913), so the objection is now known
+second-hand and is still not answered: Mulgan's reply is that the Searlean
+premise will not be credible in a digital future, and he grants it "may not
+persuade realists" (p. 914). The status is unchanged.

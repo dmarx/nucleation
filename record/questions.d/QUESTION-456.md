@@ -41,11 +41,12 @@ summary: >-
   as input. The owner's U21 answered with resource-bounded identification
   ([CLAIM-663](../claims.d/CLAIM-663.md), [CLAIM-662](../claims.d/CLAIM-662.md)).
 ---
+<!-- inactive-ok-file: THEORY-tmpam6lh THEORY-1693 — Proposed; the reading of Caliari, 2026-11-22, and Freer and Nosratabadi's beside it -->
 <!-- inactive-ok-file: NOTE-1747 NOTE-1793 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1746 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-663 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-627 — Proposed; jurisdiction over a concept's contexts, which A42 cites as held -->
-<!-- inactive-ok-file: LIT-2451 LIT-2363 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-2451 — Deferred; registered from the same exchange, unread -->
 
 # QUESTION-456: How can the set of demands an organization's compatibility is judged against be established defensibly, when who counts as a claimant, what each demand is inferred to require and what it is taken to mean are themselves shaped by the organization's own governance?
 
@@ -221,3 +222,31 @@ A85 §9 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 This names the failure the question fears and one guard against it, not an answer: A gives no procedure for establishing D_justified, and adds "That does not mean every newly asserted right should automatically be accepted." What it fixes is the reference. [CLAIM-662](../claims.d/CLAIM-662.md)'s recognized demand set is D_recognized; [CLAIM-743](../claims.d/CLAIM-743.md) says how the warranted set itself legitimately changes (by a valid power, not by institutional deletion), and [CLAIM-727](../claims.d/CLAIM-727.md) carries the authority half of A's principle.
 
 No status changes.
+
+## Note of 2026-11-22: Caliari, read
+
+[LIT-2363](../literature.d/LIT-2363.md), cited here for failure mode 2, is now read ([NOTE-tmphq6zm](../notes.d/NOTE-tmphq6zm.md);
+[THEORY-tmpam6lh](../theory.d/THEORY-tmpam6lh.md), which `bears_on` this question). It **supports failure
+mode 2 and sharpens it**, and leaves the question open.
+
+- **Inference imports a model.** Every welfare method is "implicitly
+  model-based, as each welfare method, being an inverse mapping, naturally
+  imposes constraints on the models of decision-making" (§1). Inferring
+  Â_i from behaviour always brings assumptions about how the behaviour was
+  produced.
+- **Selective exposure is the case the tools exclude.** The methods are
+  correct only when choice frequency is monotone in preference; models of
+  attention, salience or reference points "induce a misalignment between
+  choice probabilities and the underlying deterministic preference"
+  (footnote 8), and under the attention model the welfare relation
+  "uniquely identifies the best alternative only for 1 out of 145
+  participants" (Appendix D). With Freer and Nosratabadi ([THEORY-1693](../theory.d/THEORY-1693.md)),
+  the record now holds this from theory and from data.
+- **The analyst's choice enters the inferred set.** How many observations
+  break an indifference "is a decision variable for the researcher"
+  (§2.3.1), a trade between false positives and coarseness.
+- **Not given:** a way to fix the demand set or A_i independently of the
+  inferring party. Its benchmark is the subjects' own stated ranking, which
+  this question's concern about governance would also call into question.
+
+Its stand-in, [LIT-2458](../literature.d/LIT-2458.md), is superseded in that role.

@@ -44,10 +44,11 @@ summary: >-
   hypotheses kept apart, and three levels of data. Not run. The cost
   figures were rechecked by the filer.
 ---
+<!-- inactive-ok-file: THEORY-tmpkdnvu — Proposed; the reading of Ivern and Carbonell, 2026-11-22 -->
 <!-- inactive-ok-file: NOTE-1747 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: NOTE-1778 — Skimmed; the reading filed from the same exchange -->
 <!-- inactive-ok-file: CLAIM-653 CLAIM-655 — filed from the same exchange, Proposed -->
-<!-- inactive-ok-file: LIT-2452 LIT-2447 LIT-2370 LIT-2381 — Deferred; registered from the same exchange, unread -->
+<!-- inactive-ok-file: LIT-2452 LIT-2370 LIT-2381 — Deferred; registered from the same exchange, unread -->
 
 # CASE-248: A proposed study: loot-box economies as a measurable test of whether a minority's spending selects the design of a shared product, tracking the real-money cost of a standardized reward across a game's releases against the economic weight of its high spenders, and the spread of designs across games
 
@@ -151,3 +152,23 @@ checked by the filer: no direct bearing; the paper does not examine who pays
 or how designs change across releases. Its "value degradation" category
 (older items lose value after updates) is the mechanism CASE-248
 proposes to track.
+
+## Note of 2026-11-22: Ivern and Carbonell, read
+
+[LIT-2447](../literature.d/LIT-2447.md) is now read ([NOTE-tmpzok4t](../notes.d/NOTE-tmpzok4t.md); [THEORY-tmpkdnvu](../theory.d/THEORY-tmpkdnvu.md)). It **supports the
+case's list of what to record and sharpens it with a threat the case does
+not name**. "Ivern and Carbonell count 136 design features" is right; the
+136 are features the literature treats as problematic, ranked by how often
+studies name them. Free draws, pity and guarantees, bundles and fixed
+currency packs, and direct purchase against box-exclusive rewards are all
+among them. The threat: odds and prices that vary by player, "Odds vary
+across player accounts", "Dynamic LB odds, pricing, or offers based on
+player behavior", "Higher odds for new or returning accounts", "Odds
+increase when purchasing in bulk" (Table 2). Where they apply, the
+real-money cost of a standardized reward is a distribution per player
+segment, not per release, and published odds "may not consistently reflect
+the actual chances players face" (p. 13), so the game-level data the case
+names would miss it. Personalized offers are also a route for H1 that
+leaves the shared product unchanged, which the hypotheses could name. The
+review measures no effects, so it bears on none of H1–H3. No relation is
+written.
