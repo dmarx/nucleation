@@ -43,8 +43,10 @@ first) and include each investigation whose page links a final investigation
 report PDF that fetches under rule 1 above. Stop at 10. The CSB is chosen
 for the pilot because its listing is plain HTML, its reports share one
 format (executive summary, key findings, causal analysis, conclusions,
-recommendations), and, like the NTSB, it may not assign fault or liability
-(42 U.S.C. 7412(r)(6)(G)). The NTSB arm is left to the full study.
+recommendations), and, like the NTSB, it sits outside the organizations it investigates and
+its findings may not be used as evidence in suits for damages
+(42 U.S.C. 7412(r)(6)(G); corrected before coding from "may not assign
+fault", which the coder had misremembered). The NTSB arm is left to the full study.
 For CSB reports the coder reads the executive summary, findings, conclusions,
 cause statement and recommendations, not the technical body.
 
