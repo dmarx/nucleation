@@ -62,7 +62,6 @@ summary: >-
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmp5sk3q CLAIM-tmpdsv4t — new, filed with this claim by LEAD-049 -->
-<!-- inactive-ok-file: CLAIM-554 — Proposed; cited as the reading of niche differentiation as relief among persistence demands, nothing here rests on it -->
 
 # CLAIM-tmp6kclm: In symmetric resource competition whose operators adapt a bounded niche trait up the selection gradient, a differentiated equilibrium is locally exponentially stable when its traits are interior and stationary or held at a bound with an outward gradient and the Hessian of the shared objective on the free coordinates is positive definite; every specialist then recovers when rare against residents whose traits are frozen, at a rate of at least its abundance times its niche vector's squared distance from the span of the others'
 

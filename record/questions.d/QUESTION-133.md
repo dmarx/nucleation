@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmpjwshe
 title: 'Can a population of operators whose demands are jointly infeasible under one functional organization develop a differentiated or compositional repertoire that makes them jointly feasible, without suppressing, weakening or deleting any of those demands?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: LEAD-049's restricted theorem
+    (CLAIM-tmp6kclm) read in the persistence-demand sense of CLAIM-554,
+    with its limit (CLAIM-tmpdsv4t). The question is unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -24,6 +31,7 @@ summary: >-
   complex. Apparent relief that comes only from removing a demand or
   redefining success does not count.
 ---
+<!-- inactive-ok-file: CLAIM-tmp6kclm CLAIM-tmpdsv4t CASE-tmp5sk3q — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 
 # QUESTION-133: Can a population of operators whose demands are jointly infeasible under one functional organization develop a differentiated or compositional repertoire that makes them jointly feasible, without suppressing, weakening or deleting any of those demands?
 
@@ -86,3 +94,28 @@ that would test it, and [CLAIM-532](../claims.d/CLAIM-532.md) states it as part 
 account of self-formation.
 
 The question stays open.
+
+## Note of 2026-11-22: joint persistence reached by adaptation, in a restricted class
+
+LEAD-049 lists this question among those it advances. What it gives
+applies only on one reading. Take each operator's demand to be its own
+persistence with positive recovery when rare. That is QUESTION-135's
+persistence edge and CLAIM-554's reading of niche differentiation as
+relief of frustration among persistence demands. CLAIM-tmp6kclm then
+gives sufficient conditions under which adaptation of bounded niche
+traits reaches a state in which all k demands are met at once and
+robustly: each specialist recovers when rare against frozen residents. No
+demand is deleted or weakened. The cost c and the supply b are fixed
+throughout. In CASE-tmp5sk3q's Gaussian-niche runs this state is reached
+from operators started almost identical. Near the identical start, the
+demands of two persistence-seeking operators sharing a trait are not
+robustly met, since such an equilibrium is never asymptotically stable.
+
+Two limits. The demands here are persistence demands, not the
+acceptance sets of CLAIM-347, so whether this counts as an answer in the
+question's own terms is the owner's call. And joint feasibility is not
+kept against re-adaptation. In CLAIM-tmpdsv4t's instance, losing one
+specialist can tip the system into a lone generalist against which the
+lost demand cannot be met again.
+
+The question is unchanged and stays Open.

@@ -34,10 +34,11 @@ history:
 - version: 6
   date: '2026-11-22'
   note: >-
-    Note of 2026-11-22 added: LEAD-049's restricted theorem (CLAIM-
-    tmp6kclm) and counterexample (CLAIM-tmpdsv4t), checked in CASE-
-    tmp5sk3q. With residents frozen, recovery is sufficient; against
-    residents that re-adapt it can fail. The question is unchanged.
+    Note of 2026-11-22 added: LEAD-049's restricted theorem
+    (CLAIM-tmp6kclm) and counterexample (CLAIM-tmpdsv4t), checked in
+    CASE-tmp5sk3q. With residents frozen, recovery is assured under the
+    theorem's conditions; against residents that re-adapt it can fail.
+    The question is unchanged.
 tags:
 - complex-systems
 - ecology
