@@ -24,6 +24,7 @@ summary: >-
   "weak" by spectrum are A41's, set out in the body as A's.
 ---
 
+<!-- inactive-ok-file: TERM-tmpf5ymd — Proposed; filed 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-835 CLAIM-807 CLAIM-828 CLAIM-812 TERM-137 — Proposed or new, filed with this question -->
 <!-- inactive-ok-file: THEORY-tmpthmd7 THEORY-tmpu3iio THEORY-tmpklef6 THEORY-tmpr9w2r LIT-tmp9yy1o LIT-tmpgptvp — Proposed or Deferred; the readings of 2026-11-21, and works registered from them -->
 <!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
@@ -151,4 +152,10 @@ candidate answer.
 
 Written as `bears_on` from Xu's and Hoogland et al.'s readings. No status
 change.
+
+## Note of 2026-11-22: a correction, at the owner's word
+
+An earlier note here says Song, Ahn and Yun "measure only training-loss descent", and the relay behind it treated that as less than learning. The owner corrected both: "training loss falling is evidence that learning is happening. the capabilities are being measurably developed. … that's a measure of the learning that is happening, which is concretely the changes that are happening within the organization of the model's representational space". The relay also read the paper's "bulk subspace" in the owner's sense of "bulk". It is the paper's term for the many low-curvature directions, the bulk by count, where the owner's "bulk" is the dominant directions, the bulk by weight (TERM-tmpf5ymd).
+
+Read so, Song et al. bear on the owner's question more than the earlier note said. Projecting each update onto the dominant directions, the bulk by weight, stops training. Projecting onto the rest, the low-curvature directions that carry little of the operator's activity, trains as fast as SGD. So capability develops through the non-dominant directions. What the paper still does not do is follow one direction through training or say which distinctions it comes to carry. The note is the assistant's (Claude, in this session).
 
