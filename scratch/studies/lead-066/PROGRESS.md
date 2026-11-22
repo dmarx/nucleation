@@ -27,10 +27,14 @@ what it implies for the acquisition order; check numerically with numpy.
    788 KB (full copy in the session scratchpad, lead-066/E1_full.jsonl).
 4. README results section.
 
+5. Filed CLAIM-tmpo8cwu (thesis, demonstrated, Proposed) and CASE-tmp99n89
+   (executed-study, documented, Proposed); dated notes on LEAD-066 (with
+   `operationalized_in`) and QUESTION-217; changelog fragment lead-066.md.
+
 ## Next
 
-5. File CLAIM (demonstrated) and CASE (executed-study); dated notes on
-   LEAD-066 and QUESTION-217; changelog fragment.
+- Nothing on this branch. For the lead: open the pull request; once
+  LEAD-052 merges, relate CLAIM-tmpo8cwu to CLAIM-tmpzujm1 (the exact case).
 
 ## Choices
 
