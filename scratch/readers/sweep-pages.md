@@ -82,3 +82,26 @@ restricted, (c) obstacle.
   (c) APA 2017; page 1 is the authors' manuscript with running head.
   Title and authors (Joshua L. Howard, Marylène Gagné, Julien S. Bureau)
   checked. Downloaded to downloads/sweep-d/LIT-1996/268067.pdf.
+
+## LIT-2065 (Fajstrup, Raussen, Goubault 2006, TCS)
+
+- (b) https://vbn.aau.dk/da/publications/algebraic-topology-and-concurrency/
+  (AAU Pure; title and authors match): metadata only. "Adgang til
+  dokumentet" gives the DOI and an AUB catalogue link. No file.
+
+## LIT-2175 (The 10 Principles of Burning Man)
+
+- (a) The page is the work. https://burningman.org/about/10-principles/
+  redirects to https://burningman.org/about-us/10-principles/ (HTTP 200,
+  title "The 10 Principles - Burning Man Project", all ten principle
+  headings present; the Cloudflare script on it is the passive beacon, not
+  a challenge). Published version, by its publisher. Saved to
+  downloads/sweep-d/LIT-2175/burningman-10-principles-2026-11-22.html.
+
+## LIT-2403 (Dierickx, Gehrke, Lindén 2026, Journalism)
+
+- (c), copy located: the RUG Pure record (title, authors and DOI match;
+  CC BY) lists https://research.rug.nl/files/1574482845/dierickx-et-al-2026-from-normative-principles-to-epistemic-governance-a-workflow-based-analysis-of-european-journalism.pdf,
+  labelled "Proof, 1.73 MB, Licence: CC BY" (the publisher's typeset
+  open-access article). The file request returned HTTP 403 with a
+  Cloudflare "Just a moment..." challenge. Stopped. 2026-11-22.
