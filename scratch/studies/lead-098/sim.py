@@ -307,7 +307,7 @@ def pairwise_expressible(S, blocks):
             # constraints: x_idx orthogonal to complement of col(Pij)
             if Pij.size:
                 q, _ = np.linalg.qr(Pij)
-                r = np.linalg.matrix_rank(Pij)
+                r = np.linalg.matrix_rank(Pij, tol=1e-9)
                 q = q[:, :r]
                 comp = np.eye(len(idx)) - q @ q.T
             else:

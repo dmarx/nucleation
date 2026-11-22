@@ -14,11 +14,11 @@
 
 - Read the lead, CASE-179, QUESTION-063, ARG-072, CLAIM-616, CASE-225 and the summaries of QUESTION-319/282/283/035, CLAIM-474/471.
 - sim.py (Stuart-Landau network with connection maps, Heun integrator, readouts, linear-response fit, sheaf Kron reduction) and test_sim.py (7 tests pass).
-- run.py and README.md written; run started 13:1x UTC.
+- run.py and README.md written; full run done (about 5 min CPU), plus a resumed run adding revision_passive items, and sheaf2 items after a rank-tolerance fix (the sheaf: lines are superseded). results.jsonl committed.
 
 ## Next
 
-- run.py running (estimate 5 min, limit 30 min); then commit results.jsonl, analyse, file CASE, CLAIM, notes, changelog.
+- File CASE (executed-study), CLAIM, dated notes (CASE-179, QUESTION-063, QUESTION-319/282/283/035, CLAIM-474/471/616, LEAD-098), changelog fragment.
 
 ## Choices
 

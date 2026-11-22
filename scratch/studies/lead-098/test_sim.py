@@ -79,3 +79,15 @@ def test_hansen_ghrist_higher_order():
     L1, _ = sheaf_laplacian([1, 1, 1, 1], maps1)
     S1 = null_space(kron_reduce(L1, np.arange(1, 4)))
     assert pairwise_expressible(S1, [np.array([0]), np.array([1]), np.array([2])]) == (1, 1)
+
+
+def test_pairwise_rank_tolerance():
+    # a boundary edge relation on (v1, v2) only: S is 2-dim and pairwise expressible
+    rng = np.random.default_rng(3000 + 3)
+    for tr in range(20):
+        rng = np.random.default_rng(3000 + tr)
+        maps = [(0, k, rng.standard_normal((1, 3)), rng.standard_normal((1, 1))) for k in (1, 2, 3)]
+        maps.append((1, 2, rng.standard_normal((1, 1)), rng.standard_normal((1, 1))))
+        L, _ = sheaf_laplacian([3, 1, 1, 1], maps)
+        S = null_space(kron_reduce(L, np.arange(3, 6)))
+        assert pairwise_expressible(S, [np.array([0]), np.array([1]), np.array([2])]) == (2, 2)

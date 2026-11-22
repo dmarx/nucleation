@@ -295,6 +295,64 @@ def revision(sysname):
             "fitted_gain_mean": f(np.mean(list(gf.values()))), "fitted_pin_mean": f(np.mean(pf))}
 
 
+def revision_passive(sysname):
+    """Revision by consistency with passive data: the apparatus fits the coupling model that
+    best accounts for the noise-driven fluctuations it observes, with the drive unrecorded
+    (no pinning term), and predicts held-out kicks with it. Compared with the model checked
+    against interventions (gains and pinning fitted from apparatus-chosen kicks)."""
+    p = drive_systems()[sysname]
+    out = simulate(N, A, 1000.0, DT, theta=TH_APP, mu=0.5, omega=OMEGA_J, sigma=0.03,
+                   z0=Z0[:1], B=1, seed=6, every=10, **p)
+    z, t = out["z"][100:, 0], out["t"][100:]
+    ph = np.unwrap(np.angle(z), axis=0)
+    ph = ph - ph.mean(1, keepdims=True)
+    dev = ph - ph.mean(0)
+    g_pass, _ = fit_linear_response([dev], t[1] - t[0], A, pin=False, ridge=1e-6)
+    # held-out kicks, as in revision()
+    sched = [(100.0, kick(j, 0.3, 1 + j)) for j in range(N)]
+    o2 = simulate(N, A, 130.0, DT, theta=TH_APP, mu=0.5, omega=OMEGA_J, sigma=0.002,
+                  z0=Z0[:1], B=1 + N, seed=7, every=5, schedule=sched, **p)
+    z2, t2 = o2["z"], o2["t"]
+    w = t2 >= 100
+    trajs = [np.angle(z2[w, 1 + j] * np.conj(z2[w, 0])) for j in range(N)]
+    dts = t2[1] - t2[0]
+    horizons = [2.0, 5.0, 10.0]
+    idx = [int(round(h / dts)) for h in horizons]
+
+    def err(g, pn, units):
+        num = den = 0.0
+        for j in units:
+            for h, i in zip(horizons, idx):
+                pred = response_matrix(g, pn, N, h)[:, j] * 0.3
+                obs = trajs[j][i]
+                num += ((pred - obs) ** 2).sum()
+                den += (obs ** 2).sum()
+        return float(np.sqrt(num / den))
+
+    def others_err(g, pn, units):
+        # error on the non-kicked units only: does the model say the others follow?
+        num = den = 0.0
+        for j in units:
+            for h, i in zip(horizons, idx):
+                pred = np.delete(response_matrix(g, pn, N, h)[:, j] * 0.3, j)
+                obs = np.delete(trajs[j][i], j)
+                num += ((pred - obs) ** 2).sum()
+                den += (obs ** 2).sum() + 1e-12
+        return float(np.sqrt(num / den)), float(np.sqrt(num / len(units) / len(horizons) / (N - 1)))
+    held = range(4, 8)
+    p0 = np.zeros(N)
+    gf, pf = fit_linear_response([trajs[j] for j in range(4)], dts, A, pin=True, ridge=1e-4)
+    e_p, a_p = others_err(g_pass, p0, held)
+    e_c, a_c = others_err(gf, pf, held)
+    return {"system": sysname,
+            "passive_fit_gain_mean": f(np.mean(list(g_pass.values()))),
+            "heldout_err_passive_consistency": f(err(g_pass, p0, held)),
+            "heldout_err_checked": f(err(gf, pf, held)),
+            "others_rms_err_passive_consistency": f(a_p),
+            "others_rms_err_checked": f(a_c),
+            "others_rms_observed": f(np.sqrt(np.mean([np.delete(trajs[j][i], j) ** 2 for j in held for i in idx])))}
+
+
 def holonomy_item(h, ctype="diss", K=1.0, gauge="G1", eta=0.0, T=300.0):
     """QUESTION-319: one coupling, maps with holonomy h on the cycle through edge (0,1),
     in several dynamics. Response to kicks on each unit (paired) gives a response matrix."""
@@ -322,7 +380,9 @@ def holonomy_item(h, ctype="diss", K=1.0, gauge="G1", eta=0.0, T=300.0):
 
 
 def sheaf_item(d_int, trial):
-    """QUESTION-283: a star of one interior vertex (stalk R^d) and three scalar boundary
+    """(Items keyed sheaf2: the earlier sheaf: lines used numpy's default rank tolerance,
+    which counted a 3e-14 singular value as rank; they are superseded.)
+    QUESTION-283: a star of one interior vertex (stalk R^d) and three scalar boundary
     vertices, plus one boundary-boundary edge, random restriction maps. After Kron
     reduction of the interior, is the boundary section space expressible pairwise?"""
     rng = np.random.default_rng(1000 * d_int + trial)
@@ -370,9 +430,11 @@ def items():
     yield "holonomy:diss:2.513:G2", lambda: holonomy_item(0.8 * np.pi, gauge="G2")
     yield "holonomy:weak:2.513", lambda: holonomy_item(0.8 * np.pi, K=0.005)
     yield "holonomy:plastic:2.513", lambda: holonomy_item(0.8 * np.pi, eta=0.05, T=600.0)
+    for s in drive_systems():
+        yield f"revision_passive:{s}", (lambda s=s: revision_passive(s))
     for d in (1, 2, 3):
         for tr in range(100):
-            yield f"sheaf:{d}:{tr}", (lambda d=d, tr=tr: sheaf_item(d, tr))
+            yield f"sheaf2:{d}:{tr}", (lambda d=d, tr=tr: sheaf_item(d, tr))
 
 
 def main(path):
