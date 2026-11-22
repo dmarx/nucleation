@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp1bt6j
 title: 'Beyond what retention, dynamical independence and Ψ are known to track, can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-20'
@@ -59,6 +59,12 @@ history:
     it was read on 2026-10-29 (NOTE-1400, and the note of that
     date), and the sentence now says so. Reported by the synthesis
     review of 2026-11-11 (seventh round). No other change.
+- version: 9
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: Bourrat's two measures computed on one
+    scaffolding model (CASE-tmpgfgy2, CLAIM-tmptbxbq). The question is
+    unchanged.
 tags:
 - individuation
 - information-theory
@@ -80,6 +86,7 @@ summary: >-
   and timescales in controlled models and reports where the criteria
   part.
 ---
+<!-- inactive-ok-file: CASE-tmpgfgy2 CLAIM-tmptbxbq LIT-005 LIT-049 THEORY-607 — new, filed 2026-11-22 from LEAD-167's computation, and the Proposed papers and reading it bears on -->
 
 # QUESTION-115: Beyond what retention, dynamical independence and Ψ are known to track, can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?
 
@@ -271,5 +278,29 @@ Like the other macrostate candidates, it partitions one system's states,
 not which variables are in the system. It has no Occam term: it takes the
 coarsest partition that loses nothing and offers no trade of loss against
 size.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-11-22: Bourrat's two measures computed on one system
+
+CASE-tmpgfgy2 computes Bourrat's interventional measure (Â, with C1 and C2;
+LIT-005) and his coarse-graining measure (δC, with δC|E; LIT-049) exactly
+on one minimal ecological-scaffolding model. CLAIM-tmptbxbq states the result.
+
+- **Where they part.** They part on the transition itself. C2's variance
+  takes the patch from the least invariant candidate to the most as the
+  scaffold is endogenised. δC|E is exactly zero for the patch partition
+  before the transition and after.
+- **Neither prices size by itself.**
+  - δC|E's minima always include the identity partition.
+  - Bourrat's "coarsest grain in which Â is maximal" picks the whole
+    population, not the patch.
+  - With a size price, δC|E picks the patches at every stage.
+  - Only an unconditional, distributional variant with a price, which is not
+    Bourrat's, shifts its grain with the transition.
+- **On the boundary leg.** A boundary drawn round an external scaffold scores
+  as the best individual under Â, and passes C2 before any endogenisation.
+  In a common-input control with no interaction, δC|E passes all 203
+  partitions.
 
 The question is unchanged and stays Open.
