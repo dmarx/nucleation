@@ -96,7 +96,7 @@ takes:
   no normatively relevant difference between the two persons. Whatever is owed
   to the one is owed to the other, and it is owed because of the vulnerability,
   interests, rights and exposure both share, not because of the membership only
-  one has. That is CASE-256's second result: "a relational responsibility
+  one has. That is [CASE-256](../cases.d/CASE-256.md)'s second result: "a relational responsibility
   theory that applies across boundaries", in which "the mereological
   relationship would help identify where the obligations apply without
   independently grounding them". It extends [CLAIM-671](CLAIM-671.md)'s vulnerability ground,
@@ -108,7 +108,7 @@ takes:
   and can take the alternative a duty weighs. So the arrangement is the ground
   and object of any norm concerning the part, not its bearer; the obligation
   falls on the agents or roles that maintain, control or benefit from the
-  arrangement, "each as far as its control reaches". That is CASE-256's third
+  arrangement, "each as far as its control reaches". That is [CASE-256](../cases.d/CASE-256.md)'s third
   result, "especially relevant to Nucleation's broad ontology of
   organizations", and the bearer the line already fixes for the duty of
   answerability ([CLAIM-tmp7mors](CLAIM-tmp7mors.md)), for domination ([CLAIM-682](CLAIM-682.md)) and for
@@ -154,7 +154,7 @@ bearer.
 
 ## The alternative reading
 
-[CLAIM-tmp85wj6](CLAIM-tmp85wj6.md) takes CASE-256's first result for a normatively thick
+[CLAIM-tmp85wj6](CLAIM-tmp85wj6.md) takes [CASE-256](../cases.d/CASE-256.md)'s first result for a normatively thick
 membership. The two readings differ in which sense of "whole" the case picks
 out and in whether an associative-obligation principle is granted. For the bare
 arrangement this claim's reading holds without such a principle; the thick case

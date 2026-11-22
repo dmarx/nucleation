@@ -50,7 +50,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpv1jgv — new; the rival reading this one is filed beside -->
-<!-- inactive-ok-file: CASE-256 TERM-083 CLAIM-tmp8qqi4 CLAIM-671 THEORY-1814 THEORY-1818 — Proposed or new; the case, the term, the bearer reading and the readings cited, with their standing -->
+<!-- inactive-ok-file: CASE-256 CLAIM-tmp8qqi4 CLAIM-671 THEORY-1814 THEORY-1818 — Proposed or new; the case, the term, the bearer reading and the readings cited, with their standing -->
 
 # CLAIM-tmp85wj6: Where membership in a whole is normatively thick, a collective institution that is an agent or a cooperative scheme its constituents belong to, constitution can ground an obligation the whole owes a constituent that it owes no outsider, under an independently justified principle of associative obligation, with the whole, where it can owe, as the bearer
 
