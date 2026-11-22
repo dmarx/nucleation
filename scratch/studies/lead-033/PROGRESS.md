@@ -18,9 +18,10 @@
 
 - Alternatives filed: CLAIM-tmpz92ao (a, no residual wrong), CLAIM-tmpn0ocj (b, status reason; lean), CLAIM-tmpxbgny (c, imported standing, Wenar form). CASE C2*/C4* clarified: the holder keeps the power and is known never to misuse it (a binding device would hand the power over by proxy).
 
+- ARG-tmpg6xcm (formal-application) filed, concluding CLAIM-tmp72lji.
+
 ## Next
 
-- ARG-tmpg6xcm (formal-application) concluding CLAIM-tmp72lji.
 - Dated notes on QUESTION-483, 484, 481, LEAD-033; changelog fragment record/changelog.d/lead-033.md.
 
 ## Choices made
