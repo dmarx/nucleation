@@ -611,17 +611,17 @@ Haken 1975 and Yadav and colleagues 2026 have no lawful copy (both
 Unavailable); Fenichel 1979 and Knobloch 2015 stay Unfetched. No status
 change.
 
-## Note of 2026-11-22: the same conservation law, under CLAIM-477's definition
+## Note of 2026-11-22: the same conservation law, under [CLAIM-477](CLAIM-477.md)'s definition
 
 This claim's note of 2026-11-02 ruled that "an exact conservation law is
 the limit of slowness, not a constraint that works without it".
-CLAIM-tmpfbofs, LEAD-195's leaned-to ruling on CLAIM-477's defeater (b),
-uses that ruling, and the two fit. Under TERM-070 a constraint is conserved
+[CLAIM-tmpfbofs](CLAIM-tmpfbofs.md), [LEAD-195](../leads.d/LEAD-195.md)'s leaned-to ruling on [CLAIM-477](CLAIM-477.md)'s defeater (b),
+uses that ruling, and the two fit. Under [TERM-070](../terms.d/TERM-070.md) a constraint is conserved
 at the time scale of the process it acts on and produced at another. An
 exact conservation law meets the first half in the limit, which is this
 claim's point. It meets the second only if it is effective, realized by an
 organization below it, as Yang and Abanin's conserved sectors are
-(THEORY-1323). So an effective conservation law is slow and realized. A
+([THEORY-1323](../theory.d/THEORY-1323.md)). So an effective conservation law is slow and realized. A
 fundamental one, if any is, is maximally persistent and realized by
-nothing. That bears on CLAIM-477, not on this claim's defeater (a).
+nothing. That bears on [CLAIM-477](CLAIM-477.md), not on this claim's defeater (a).
 No status change.

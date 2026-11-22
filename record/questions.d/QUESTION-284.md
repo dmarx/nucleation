@@ -198,11 +198,11 @@ for when it has. No status change.
 
 ## Note of 2026-11-22: whether the constraints that individuate kinds are realized
 
-LEAD-195's rulings (CLAIM-tmpfbofs and CLAIM-tmph783a on symmetries and
-conservation laws, CLAIM-tmpr0sfe and CLAIM-tmp6sa56 on Deutsch and
-Marletto's possibility facts) answer QUESTION-450, not this question, and
+[LEAD-195](../leads.d/LEAD-195.md)'s rulings ([CLAIM-tmpfbofs](../claims.d/CLAIM-tmpfbofs.md) and [CLAIM-tmph783a](../claims.d/CLAIM-tmph783a.md) on symmetries and
+conservation laws, [CLAIM-tmpr0sfe](../claims.d/CLAIM-tmpr0sfe.md) and [CLAIM-tmp6sa56](../claims.d/CLAIM-tmp6sa56.md) on Deutsch and
+Marletto's possibility facts) answer [QUESTION-450](QUESTION-450.md), not this question, and
 bear on it here. In the three relations of the note of 2026-11-07, they
-concern the first, TERM-088's constitutive individuation. They also concern
+concern the first, [TERM-088](../terms.d/TERM-088.md)'s constitutive individuation. They also concern
 a constraint that fixes a kind, not an individual. On the leaned-to
 readings, a symmetry that individuates a kind is a realized constraint
 when it is effective. It is then a candidate for this question's

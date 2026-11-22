@@ -436,30 +436,30 @@ The readings since (Bencherki 2017 and Bencherki and Iliadis on 2026-10-31, Baum
 
 ## Note of 2026-11-22: defeater (b)'s candidate, ruled as alternatives
 
-LEAD-195 asked for the ruling the notes of 2026-10-27, 2026-10-29,
-2026-10-30 and 2026-11-06 left open, and QUESTION-450 states. It is filed as
+[LEAD-195](../leads.d/LEAD-195.md) asked for the ruling the notes of 2026-10-27, 2026-10-29,
+2026-10-30 and 2026-11-06 left open, and [QUESTION-450](../questions.d/QUESTION-450.md) states. It is filed as
 two pairs of alternatives.
 
-- **Symmetries and conservation laws.** CLAIM-tmpfbofs (leaned to) rules
-  under the thick sense of "realized and maintained", TERM-070's and A10
+- **Symmetries and conservation laws.** [CLAIM-tmpfbofs](CLAIM-tmpfbofs.md) (leaned to) rules
+  under the thick sense of "realized and maintained", [TERM-070](../terms.d/TERM-070.md)'s and A10
   §7's, since read thinly (a law realized by whatever obeys it) defeater (b)
   could never fire for a law. An effective symmetry or conservation law
   meets this claim's definition. In a finite Markov process the conserved
   observables are exactly those constant on the transition graph's
-  components (THEORY-158), so the realizer is named and the law lasts as
+  components ([THEORY-158](../theory.d/THEORY-158.md)), so the realizer is named and the law lasts as
   long as the barrier between components does. A symmetry taken as
   fundamental is maintained by nothing, but no result shows a law
   fundamental, and the one historical case on the record, parity, went the
-  other way (THEORY-1078). So (b) is not met as things stand.
-  CLAIM-tmph783a objects. Take the current fundamental theory at face
+  other way ([THEORY-1078](../theory.d/THEORY-1078.md)). So (b) is not met as things stand.
+  [CLAIM-tmph783a](CLAIM-tmph783a.md) objects. Take the current fundamental theory at face
   value: Wigner's kinds are fixed by a symmetry nothing realizes. Then (b)
   is met, and this claim holds only for kinds whose constraints are
   effective.
-- **Possibility facts.** CLAIM-tmpr0sfe (leaned to): a possibility fact
+- **Possibility facts.** [CLAIM-tmpr0sfe](CLAIM-tmpr0sfe.md) (leaned to): a possibility fact
   adds no candidate of its own. It is a fact about the laws, and its
   definition asks that the laws allow constructors to be built and to
   "retain their ability", which is this claim's "realized and maintained
-  by something" made modal. CLAIM-tmp6sa56 objects. On constructor
+  by something" made modal. [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md) objects. On constructor
   theory's programme the laws are themselves possibility facts, so the
   reduction reaches nothing realized, and (b) is met for information media.
 
@@ -479,7 +479,7 @@ only that the processes obeying it realize it as a specification, not
 that anything maintains it." Adopting it would be version 4, with
 history. The text otherwise, the edges and the warrant are unchanged.
 
-**Under the alternatives**, CLAIM-tmph783a or CLAIM-tmp6sa56, the
+**Under the alternatives**, [CLAIM-tmph783a](CLAIM-tmph783a.md) or [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md), the
 revision would instead restrict the claim, as (b) already says it would.
 The title's "neither ... prior without qualification" would hold for kinds
 whose constraints are effective, or have actual realizers. That is a

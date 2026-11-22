@@ -37,14 +37,14 @@ complements:
 uses:
 - TERM-070
 summary: >-
-  Alternative 1 of two (leaned to) for LEAD-195's second question: does a
-  possibility fact in Deutsch and Marletto's sense meet CLAIM-477's
+  Alternative 1 of two (leaned to) for [LEAD-195](../leads.d/LEAD-195.md)'s second question: does a
+  possibility fact in Deutsch and Marletto's sense meet [CLAIM-477](CLAIM-477.md)'s
   definition? It is not a candidate of its own. Possibility is defined by
-  what the laws allow, so the ruling on laws decides it (CLAIM-tmpfbofs or
-  CLAIM-tmph783a). And the definition of a possible task asks that the
+  what the laws allow, so the ruling on laws decides it ([CLAIM-tmpfbofs](CLAIM-tmpfbofs.md) or
+  [CLAIM-tmph783a](CLAIM-tmph783a.md)). And the definition of a possible task asks that the
   laws allow constructors to be built and to keep their ability, which is
   the frame's "realized and maintained" made modal. Alternative 2 is
-  CLAIM-tmp6sa56. The wording is the assistant's (Claude, in this
+  [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpfbofs CLAIM-tmph783a CLAIM-tmp6sa56 — new; the symmetry rulings and the alternative filed with this claim for LEAD-195 -->
@@ -54,11 +54,11 @@ summary: >-
 
 ## The question
 
-CLAIM-477's note of 2026-10-27 on constructor theory found that "the
+[CLAIM-477](CLAIM-477.md)'s note of 2026-10-27 on constructor theory found that "the
 possibility facts doing the work are realized by no particular thing",
 while constructors, the realized part, are only ever approximate. It
 asked "whether a law of possibility counts as something that realizes a
-constraint". QUESTION-450 and LEAD-195 ask the same.
+constraint". [QUESTION-450](../questions.d/QUESTION-450.md) and [LEAD-195](../leads.d/LEAD-195.md) ask the same.
 
 ## The ruling
 
@@ -66,28 +66,28 @@ constraint". QUESTION-450 and LEAD-195 ask the same.
    the laws of nature impose no limit, short of perfection, on how
    accurately *A* could be performed, nor on how well things that are
    capable of approximately performing it could retain their ability to
-   do so again" (THEORY-1078, §2). The reading's own gloss: the paper
+   do so again" ([THEORY-1078](../theory.d/THEORY-1078.md), §2). The reading's own gloss: the paper
    "treats possibilities as facts about the laws". What constrains is the
    impossibility of tasks, which is a law. A possibility is where the laws
    set no limit. So a possibility fact adds no constraint the laws do not
-   already impose, and it meets CLAIM-477's definition exactly as far as
-   those laws do. That is the symmetry ruling: CLAIM-tmpfbofs (leaned to)
-   or CLAIM-tmph783a.
+   already impose, and it meets [CLAIM-477](CLAIM-477.md)'s definition exactly as far as
+   those laws do. That is the symmetry ruling: [CLAIM-tmpfbofs](CLAIM-tmpfbofs.md) (leaned to)
+   or [CLAIM-tmph783a](CLAIM-tmph783a.md).
 2. **The definition has the frame's recursion in it.** The clause "nor on
    how well things that are capable of approximately performing it could
    retain their ability to do so again" is a condition on maintenance.
    The paper's subsidiary theories must measure a constructor's accuracy
    "(including its own maintenance)". So "T is possible" says that
    realizers of T can be built and can keep their ability to any accuracy
-   short of perfection. That is what CLAIM-477 calls a constraint realized
+   short of perfection. That is what [CLAIM-477](CLAIM-477.md) calls a constraint realized
    and maintained by something, stated as what the laws admit, without
    requiring one actual realizer. It does not describe a constraint
    realized by nothing. It describes the conditions under which a
    constraint can be realized.
-3. **The frame's individuation is modal too.** CLAIM-477 fixes an entity
+3. **The frame's individuation is modal too.** [CLAIM-477](CLAIM-477.md) fixes an entity
    partly by "the constraints on the configurations of entities and
    relations it *can* enter". An information medium is fixed by which
-   tasks on it are possible: permutation and cloning (THEORY-1066). Both
+   tasks on it are possible: permutation and cloning ([THEORY-1066](../theory.d/THEORY-1066.md)). Both
    individuate by admissibility. That the possibility needs no actual
    constructor is the same as the frame's admissibility needing no actual
    configuration. So it does not set constructor theory against the frame.
@@ -110,15 +110,15 @@ network of tasks.
 
 - **That constructor theory is true.** Its principle I, that every law can
   be stated as possible and impossible tasks, is the programme's
-  conjecture (THEORY-1078, "What this does not say").
-- **Anything about defeater (a).** THEORY-1066 notes that "intrinsic" here
+  conjecture ([THEORY-1078](../theory.d/THEORY-1078.md), "What this does not say").
+- **Anything about defeater (a).** [THEORY-1066](../theory.d/THEORY-1066.md) notes that "intrinsic" here
   is a modal property referring to no specific other substrate, "not a
-  relational constitution". Whether that bears on CLAIM-477's defeater (a),
+  relational constitution". Whether that bears on [CLAIM-477](CLAIM-477.md)'s defeater (a),
   the intrinsic horn, is a separate question this claim does not rule on.
 
 ## Alternative
 
-CLAIM-tmp6sa56 reads it the other way. If principle I holds, the laws are
+[CLAIM-tmp6sa56](CLAIM-tmp6sa56.md) reads it the other way. If principle I holds, the laws are
 possibility facts, and so reducing possibility to the laws reduces it to
 itself. A modal maintainability is not maintenance. The exact property is
 then a constraint realized by no actual thing, and (b) is met for

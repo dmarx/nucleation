@@ -105,22 +105,22 @@ plainly individuate kinds, whether they are realized at all.
 
 ## Note of 2026-11-22: answered in part, as alternatives
 
-LEAD-195 filed answers to both halves, as Proposed alternatives.
+[LEAD-195](../leads.d/LEAD-195.md) filed answers to both halves, as Proposed alternatives.
 
-- **Symmetries and conservation laws.** CLAIM-tmpfbofs (leaned to) takes
+- **Symmetries and conservation laws.** [CLAIM-tmpfbofs](../claims.d/CLAIM-tmpfbofs.md) (leaned to) takes
   this question's second answer for effective laws, with a worked realizer
-  (THEORY-158). It treats the third answer, realized by nothing, as a
-  condition on CLAIM-477's scope, not a result, since no result shows a law
+  ([THEORY-158](../theory.d/THEORY-158.md)). It treats the third answer, realized by nothing, as a
+  condition on [CLAIM-477](../claims.d/CLAIM-477.md)'s scope, not a result, since no result shows a law
   fundamental. It rejects the first, the thin sense, because defeater (b)
-  could then never fire. CLAIM-tmph783a takes the third answer for the
+  could then never fire. [CLAIM-tmph783a](../claims.d/CLAIM-tmph783a.md) takes the third answer for the
   symmetries of current fundamental theory.
-- **Possibility facts.** CLAIM-tmpr0sfe (leaned to): ruled with the laws
+- **Possibility facts.** [CLAIM-tmpr0sfe](../claims.d/CLAIM-tmpr0sfe.md) (leaned to): ruled with the laws
   they are facts about, and their definition states realization and
-  maintenance modally. CLAIM-tmp6sa56: realized by nothing, if
+  maintenance modally. [CLAIM-tmp6sa56](../claims.d/CLAIM-tmp6sa56.md): realized by nothing, if
   constructor theory's programme holds.
 
 Wigner's classification, the worked case named under "What would count",
-is argued in CLAIM-tmpfbofs and CLAIM-tmph783a. The particles realize the
+is argued in [CLAIM-tmpfbofs](../claims.d/CLAIM-tmpfbofs.md) and [CLAIM-tmph783a](../claims.d/CLAIM-tmph783a.md). The particles realize the
 kinds and not the symmetry, and the two differ only on whether that
 symmetry may be taken as fundamental. No status change; choosing is the
 owner's.
