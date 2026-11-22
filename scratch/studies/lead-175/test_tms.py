@@ -74,3 +74,33 @@ def test_classifier_on_critical_points():
     W, b = tms.CRIT["5+"]
     k, s, m = tms.classify((Q @ W)[:, p][None], b[p][None])
     assert tms.label(k[0], s[0], m[0]) == "5+"
+
+
+def test_posterior_energy_gradient_and_codes():
+    import posterior as P
+    rng = np.random.default_rng(5)
+    th = rng.normal(size=(3, 18)); n = np.array([20.0, 300.0, 5000.0])
+    U, g, _ = P.U_and_grad(th, n)
+    h = 1e-6
+    for j in (0, 7, 15):
+        e = np.zeros(18); e[j] = h
+        fd = (P.U_and_grad(th + e, n)[0] - P.U_and_grad(th - e, n)[0]) / (2 * h)
+        assert np.allclose(g[:, j], fd, rtol=1e-5, atol=1e-6)
+    for lab in ("6", "5+", "4++-", "4"):
+        assert P.code_to_label(P.label_to_code(lab)) == lab
+
+
+def test_restricted_hmc_stays_in_region():
+    import posterior as P
+    rng = np.random.default_rng(1)
+    W, b = tms.CRIT["5"]
+    th = np.broadcast_to(np.concatenate([W.ravel(), b]), (4, 2, 18)).copy()
+    n = np.broadcast_to(np.array([50.0, 2000.0]), (4, 2)).copy()
+    eps = np.full((4, 2), 0.05)
+    code = P.label_to_code("5")
+    accs = []
+    for _ in range(30):
+        th, acc = P.hmc_step(th, n, eps, 5, rng, region=code)
+        accs.append(acc.mean())
+    assert (P.labels_of(th) == code).all()
+    assert np.mean(accs) > 0.2                          # it moves
