@@ -17,9 +17,12 @@
 - dd.py + test_dd.py (57 pass); run.py -> results.jsonl (850 items);
   summarize.py -> results.md. Sandwich holds on all 600 items.
 
+- Filed CLAIM-tmpllgpb, CASE-tmp2l6id; dated notes on QUESTION-221,
+  LEAD-178, CLAIM-390; changelog fragment lead-178.md.
+
 ## Next
 
-- File CLAIM + CASE, dated notes, changelog.
+- Report to the lead (no PR opened by the worker).
 
 ## Choices
 
