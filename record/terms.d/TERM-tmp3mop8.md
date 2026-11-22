@@ -65,8 +65,8 @@ version.
 
 ## Note of 2026-11-22: Kleene, read through van Oosten
 
-A contrast, not support. Kleene's realizer (THEORY-tmpqj2d4, read in
-NOTE-tmpajfia for the unread LIT-tmp9cdlq) has no certificate component:
+A contrast, not support. Kleene's realizer ([THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md), read in
+[NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md) for the unread [LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)) has no certificate component:
 realizability "is designed to handle “information” about formulas rather
 than proofs" (van Oosten, p. 4), and Kleene set Heyting's proof
 interpretation aside to build it. A true atomic sentence is realized by 0:

@@ -154,6 +154,6 @@ origin is feasible:
 
 A parallel, no edge. Part 6's argument, that descriptors never conflict
 because the entry witnesses them, has the shape of Kleene's existential
-clause (THEORY-tmpqj2d4): the entry, with trivial realizers of the tests it
+clause ([THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)): the entry, with trivial realizers of the tests it
 passes, realizes "some version passes them all". The reading adds no
 support to a demonstrated result. No status changes.

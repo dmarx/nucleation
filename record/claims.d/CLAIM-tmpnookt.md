@@ -111,9 +111,9 @@ types computed from other types.
 
 ## Note of 2026-11-22: Kleene, read through van Oosten
 
-Kleene 1945 (LIT-tmp9cdlq) has no lawful copy; van Oosten's historical
-essay (LIT-tmpegqz0, read in NOTE-tmpajfia) stands in for it, and its account
-is THEORY-tmpqj2d4. It bears on the bullet "A finding is an inhabitant":
+Kleene 1945 ([LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)) has no lawful copy; van Oosten's historical
+essay ([LIT-tmpegqz0](../literature.d/LIT-tmpegqz0.md), read in [NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md)) stands in for it, and its account
+is [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md). It bears on the bullet "A finding is an inhabitant":
 
 - **Confirmed, as written.** A realizer of an existential is the witness
   kept with a realizer of its instance: "n realizes an existential
@@ -131,12 +131,12 @@ is THEORY-tmpqj2d4. It bears on the bullet "A finding is an inhabitant":
 - **Qualified.** Realizability does not sit on the proof-relevant side of
   the claim's two. It is a classical relation between realizers and
   sentences, "read and checked by the classical mathematician" (p. 4), of
-  the same shape as an institution's satisfaction (THEORY-1142), and in
+  the same shape as an institution's satisfaction ([THEORY-1142](../theory.d/THEORY-1142.md)), and in
   the effective topos it is the truth definition for arithmetic (p. 15). It
   is a model-theoretic semantics whose points are information, between the
   two readings.
 
-The support judgement is ARG-tmp68y3c (analogy, Proposed); THEORY-tmpqj2d4
+The support judgement is [ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md) (analogy, Proposed); [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)
 `corroborates` this claim for the witness correspondence. Neither the
 defeated_if (a) nor (b) is met: the correspondences (b) names are not the
 one Kleene bears on. No status changes; narrowing the claim is the owner's

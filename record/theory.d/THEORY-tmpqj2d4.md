@@ -19,13 +19,13 @@ source:
 corroborates:
 - CLAIM-tmpnookt
 summary: >-
-  Van Oosten (2002), LIT-tmpegqz0, read in NOTE-tmpajfia as the stand-in for
-  Kleene 1945 (LIT-tmp9cdlq, Unavailable): pp. 3–6 for the definition and
+  Van Oosten (2002), [LIT-tmpegqz0](../literature.d/LIT-tmpegqz0.md), read in [NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md) as the stand-in for
+  Kleene 1945 ([LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md), Unavailable): pp. 3–6 for the definition and
   the soundness theorem, p. 4 for information against proofs, p. 11 for
   Kreisel's typed realizability, p. 15 for the effective topos. Proposed
   because it rests on a survey of the paper, not the paper. It corroborates
-  CLAIM-tmpnookt's reading of Kleene's realizer as a realization with its
-  witness kept, and ARG-tmp68y3c says how far.
+  [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s reading of Kleene's realizer as a realization with its
+  witness kept, and [ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md) says how far.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnookt LIT-tmp9cdlq ARG-tmp68y3c — Proposed or Unavailable; the claim this bears on, the work it reports, and the argument that weighs it -->
 
@@ -33,9 +33,9 @@ summary: >-
 
 ## Source
 
-Van Oosten (2002), LIT-tmpegqz0, §1.1–1.6 and §2.1, pp. 3–15 of the
-author's manuscript; read in NOTE-tmpajfia. It stands in for Kleene (1945),
-LIT-tmp9cdlq, which was not read.
+Van Oosten (2002), [LIT-tmpegqz0](../literature.d/LIT-tmpegqz0.md), §1.1–1.6 and §2.1, pp. 3–15 of the
+author's manuscript; read in [NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md). It stands in for Kleene (1945),
+[LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md), which was not read.
 
 ## What was shown
 

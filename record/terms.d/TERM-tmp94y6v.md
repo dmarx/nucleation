@@ -66,13 +66,13 @@ specification of requirements of the second ([CLAIM-tmp5rv9x](../claims.d/CLAIM-
 ## Note of 2026-11-22: Kleene, read through van Oosten
 
 An analogy and a word collision, no edge. Kleene's "realizer" (as van
-Oosten states it, THEORY-tmpqj2d4) attaches to a sentence and is
+Oosten states it, [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)) attaches to a sentence and is
 information about how it holds; this term's "realization" attaches to a
 set of tests and is the object tested. The set of realizers of a sentence
 is a set of admissible realizations in this term's sense, so the shapes
 agree, but a realizer of "some version passes these tests" is the version
 together with its trivial realizers of the tests, not the version alone.
 The record uses "realizer" in a third, functionalist sense as well (a
-system that realizes a function, as in CLAIM-487), and has a
+system that realizes a function, as in [CLAIM-487](../claims.d/CLAIM-487.md)), and has a
 `realizability` line on resource-bounded realization. A reader meeting
 "realization" here should take this term's sense. No status changes.

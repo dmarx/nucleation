@@ -55,11 +55,11 @@ source, with the claim revised or defeated accordingly.
 ## Note of 2026-11-22: Kleene, read through van Oosten
 
 The Kleene item is done as far as a lawful copy allows. Kleene 1945
-(LIT-tmp9cdlq) is Unavailable; van Oosten's historical essay
-(LIT-tmpegqz0, NOTE-tmpajfia, THEORY-tmpqj2d4) stands in for it. Finding: the
-realizer is the realization with its witness kept, as CLAIM-tmpnookt says,
+([LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)) is Unavailable; van Oosten's historical essay
+([LIT-tmpegqz0](../literature.d/LIT-tmpegqz0.md), [NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md), [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)) stands in for it. Finding: the
+realizer is the realization with its witness kept, as [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) says,
 and not with the evidence that it passes; realizability sits between the
-model-theoretic and proof-relevant readings (ARG-tmp68y3c). The evidence half
+model-theoretic and proof-relevant readings ([ARG-tmp68y3c](../arguments.d/ARG-tmp68y3c.md)). The evidence half
 is left to the Martin-Löf item, and a reading of Kreisel's modified
 realizability (1959) or Troelstra's handbook chapter would serve if it is
 wanted. Kleene's paper, read, would settle the clauses. The lead's status

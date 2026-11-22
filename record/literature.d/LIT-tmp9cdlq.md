@@ -9,7 +9,7 @@ status_note: >-
   this content"; the JSTOR record (doi:10.2307/2269016) is the same
   subscription copy. Two web searches for a course, faculty or author copy
   found none. Read in its stead: van Oosten's historical essay,
-  LIT-tmpegqz0, which states the 1945 definition clause by clause and its
+  [LIT-tmpegqz0](LIT-tmpegqz0.md), which states the 1945 definition clause by clause and its
   results.
 title: 'On the interpretation of intuitionistic number theory'
 version: 1
@@ -43,13 +43,13 @@ summary: >-
   Kleene (1945) introduces recursive realizability: a definition, by
   induction on an arithmetical sentence, of what it is for a natural number
   to realize it, under which every theorem of intuitionistic arithmetic has
-  a realizer. Registered for LEAD-tmp3xevc, to test CLAIM-tmpnookt's
+  a realizer. Registered for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md), to test [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s
   reading of Kleene's realizer as the record's realization with its witness
-  kept, and the witness and certificate pair (TERM-tmp7s2aa,
-  TERM-tmp3mop8). Unread; what is said of it here is van Oosten's account
-  (LIT-tmpegqz0, THEORY-tmpqj2d4), not verified against Kleene's text.
+  kept, and the witness and certificate pair ([TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md),
+  [TERM-tmp3mop8](../terms.d/TERM-tmp3mop8.md)). Unread; what is said of it here is van Oosten's account
+  ([LIT-tmpegqz0](LIT-tmpegqz0.md), [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md)), not verified against Kleene's text.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp7s2aa TERM-tmp3mop8 LEAD-tmp3xevc THEORY-tmpqj2d4 — Proposed or Open; the claim, terms and lead this work was registered for, and the stand-in's reading -->
+<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp7s2aa TERM-tmp3mop8 THEORY-tmpqj2d4 — Proposed or Open; the claim, terms and lead this work was registered for, and the stand-in's reading -->
 
 # LIT-tmp9cdlq: On the interpretation of intuitionistic number theory
 
@@ -58,7 +58,7 @@ DOI-10.2307/2269016
 
 ## Key takeaways
 
-*Not read.* By van Oosten's account (NOTE-tmpajfia, pp. 3–7 of the author's
+*Not read.* By van Oosten's account ([NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md), pp. 3–7 of the author's
 copy): the paper defines, by six inductive clauses, when a number n
 realizes an arithmetical sentence. A true atomic sentence is realized by
 0; a conjunction by a pair of realizers; a disjunction by a tagged realizer
@@ -72,7 +72,7 @@ intuitionistic meaning of the statements" (§2, as van Oosten quotes it).
 
 ## Standing in the record
 
-Registered on 2026-11-22 for LEAD-tmp3xevc. Unavailable; LIT-tmpegqz0 stands
+Registered on 2026-11-22 for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). Unavailable; [LIT-tmpegqz0](LIT-tmpegqz0.md) stands
 in for it. How far: van Oosten states all six clauses of the 1945
 definition, the soundness theorem (in the "glued" form he gives it), the
 weak Church's rule and the underivability of double-negation shift, and

@@ -75,8 +75,8 @@ A proof-relevant answer, in the sense of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpn
 ## Note of 2026-11-22: Kleene, read through van Oosten
 
 The sense this term takes from logic has its formal source in Kleene's
-existential clause, as van Oosten states it (THEORY-tmpqj2d4, read in
-NOTE-tmpajfia for the unread LIT-tmp9cdlq): "n realizes an existential
+existential clause, as van Oosten states it ([THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md), read in
+[NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md) for the unread [LIT-tmp9cdlq](../literature.d/LIT-tmp9cdlq.md)): "n realizes an existential
 statement ∃xφ(x) if and only if n = ⟨m, k⟩ and k realizes φ(m̄)" (p. 5).
 The witness is m, the first component, kept in the realizer. The clause
 also fixes the term's "witness without certificate": for decidable tests

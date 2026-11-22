@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmpajfia) from the author's copy on his
+  read in full 2026-11-22 ([NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md)) from the author's copy on his
   Utrecht page; worth reading as the shortest reliable statement of
   Kleene's 1945 realizability, clause by clause, and of what became of it:
   formalized and glued realizability, Kreisel's typed (modified)
   realizability ten years before "formulae as types", and the effective
   topos, in which Kleene's realizability is the truth definition of
-  arithmetic. Registered as a stand-in for Kleene 1945 (LIT-tmp9cdlq),
-  which is Unavailable. Source of THEORY-tmpqj2d4.
+  arithmetic. Registered as a stand-in for Kleene 1945 ([LIT-tmp9cdlq](LIT-tmp9cdlq.md)),
+  which is Unavailable. Source of [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md).
 title: 'Realizability: a historical essay'
 version: 1
 history:
@@ -54,10 +54,10 @@ summary: >-
   Kreisel's modified realizability (1959) types the realizers by the
   formula's form, and in Hyland's effective topos Kleene's realizability is
   the truth definition for arithmetic. Read as the stand-in for Kleene 1945
-  (LIT-tmp9cdlq) for LEAD-tmp3xevc; it bears on CLAIM-tmpnookt and on the
-  terms witness and certificate (TERM-tmp7s2aa, TERM-tmp3mop8).
+  ([LIT-tmp9cdlq](LIT-tmp9cdlq.md)) for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md); it bears on [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) and on the
+  terms witness and certificate ([TERM-tmp7s2aa](../terms.d/TERM-tmp7s2aa.md), [TERM-tmp3mop8](../terms.d/TERM-tmp3mop8.md)).
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp7s2aa TERM-tmp3mop8 LEAD-tmp3xevc THEORY-tmpqj2d4 LIT-tmp9cdlq — Proposed, Open or Unavailable; the claim, terms and lead this reading was made for, its own reading, and the work it stands in for -->
+<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp7s2aa TERM-tmp3mop8 THEORY-tmpqj2d4 LIT-tmp9cdlq — Proposed, Open or Unavailable; the claim, terms and lead this reading was made for, its own reading, and the work it stands in for -->
 
 # LIT-tmpegqz0: Realizability: a historical essay
 
@@ -77,5 +77,5 @@ https://webspace.science.uu.nl/~ooste110/realizability/history.pdf
 
 ## Standing in the record
 
-Registered on 2026-11-22 as the stand-in for Kleene 1945 (LIT-tmp9cdlq),
-which is Unavailable. Read in NOTE-tmpajfia; its account is THEORY-tmpqj2d4.
+Registered on 2026-11-22 as the stand-in for Kleene 1945 ([LIT-tmp9cdlq](LIT-tmp9cdlq.md)),
+which is Unavailable. Read in [NOTE-tmpajfia](../notes.d/NOTE-tmpajfia.md); its account is [THEORY-tmpqj2d4](../theory.d/THEORY-tmpqj2d4.md).
