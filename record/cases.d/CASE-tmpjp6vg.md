@@ -14,7 +14,7 @@ draws_on:
 - THEORY-tmpdcw35
 - THEORY-177
 summary: >-
-  Run in session for LEAD-182 on 2026-11-22 (scratch/studies/lead-182,
+  Run in session for [LEAD-182](../leads.d/LEAD-182.md) on 2026-11-22 (scratch/studies/lead-182,
   power.py and absence.py; seeds fixed; 184 cells of 800 replications with
   799 bootstrap resamples, and 144 cells of 4,000 for the absence bound).
   Between-subjects respondents give two free binary answers in one of four
@@ -34,12 +34,12 @@ summary: >-
 
 ## What was run
 
-For LEAD-182, the power analysis of the design in CASE-tmpl2va4, by
+For [LEAD-182](../leads.d/LEAD-182.md), the power analysis of the design in [CASE-tmpl2va4](CASE-tmpl2va4.md), by
 simulation, on 2026-11-22. No human data. Code, results and tables are in
 scratch/studies/lead-182 (cbd.py, power.py, absence.py, results.jsonl,
 absence.jsonl, summary.md); test_cbd.py's 15 tests pass, among them the
 reproduction of Lo, Sadrzadeh and Mansfield's violation and spread
-(THEORY-tmpdcw35).
+([THEORY-tmpdcw35](../theory.d/THEORY-tmpdcw35.md)).
 
 **The simulated study.** An item is a rank-4 cyclic system: contents q0
 to q3, context k measuring q_k and q_(k+1). Each respondent sees one
@@ -49,7 +49,7 @@ respondents a context after exclusions, so an item takes 4n.
 **The statistic.** Δ_C = σ·E − 2 − Δ, with the odd sign pattern σ fixed in
 advance, E_k the mean product of the two answers in context k, and Δ the
 plug-in signalling, the summed absolute differences of each content's two
-marginal means (THEORY-177). Alternatives run beside it: σ maximised over
+marginal means ([THEORY-177](../theory.d/THEORY-177.md)). Alternatives run beside it: σ maximised over
 the eight odd patterns in each resample; each content's difference
 soft-thresholded by one standard error; a delta-method bound.
 
@@ -116,20 +116,20 @@ inside the noncontextual region (Δ_C = −0.3 with signalling 0.3: 0.77 at
 
 ## What it can show
 
-That the test LEAD-182 asks for is feasible but large. CASE-053's rough
+That the test [LEAD-182](../leads.d/LEAD-182.md) asks for is feasible but large. [CASE-053](CASE-053.md)'s rough
 figure, about 650 valid responses a context to see a 0.19 violation at
 three standard deviations, assumed the signalling away, as Lo et al.'s
 format does. With free answers, Δ must be estimated, and when the true
 system is near-symmetric the estimate's bias, not its spread, sets the
 cost: over 4,000 respondents a context for power 0.75 at Lo et al.'s
-effect. When the data do signal, as LIT-842 finds language data do as a
+effect. When the data do signal, as [LIT-842](../literature.d/LIT-842.md) finds language data do as a
 rule, 1,600 a context give power 0.80. So the pilot's estimate of the
-signalling is the main input to the sample size (CASE-tmpl2va4).
+signalling is the main input to the sample size ([CASE-tmpl2va4](CASE-tmpl2va4.md)).
 
 It also shows that the two verdicts need different estimators. Detection
 can use the plug-in signalling, whose bias is in the safe direction.
 Absence cannot, and needs the conservative bound, which can only certify
-absence where signalling is small. This is the asymmetry CLAIM-tmpalxab
+absence where signalling is small. This is the asymmetry [CLAIM-tmpalxab](../claims.d/CLAIM-tmpalxab.md)
 states.
 
 ## What it cannot show

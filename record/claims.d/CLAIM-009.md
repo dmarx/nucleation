@@ -91,14 +91,14 @@ human pragmatic judgements that robustly finds or excludes contextuality.
 
 ## Note of 2026-11-22: the test this claim waits on, designed
 
-LEAD-182's search found no CbD analysis of human pragmatic judgements
+[LEAD-182](../leads.d/LEAD-182.md)'s search found no CbD analysis of human pragmatic judgements
 since the note of 2026-10-30. The nearest, Lo, Sadrzadeh and Mansfield's
-Winograd study, is now read (THEORY-tmpdcw35): a violation of about one
+Winograd study, is now read ([THEORY-tmpdcw35](../theory.d/THEORY-tmpdcw35.md)): a violation of about one
 standard deviation, with signalling made impossible by the response
-format. The test this claim waits on is drafted as CASE-tmpl2va4, with
-its power computed in CASE-tmpjp6vg. One point bears on what the test
+format. The test this claim waits on is drafted as [CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md), with
+its power computed in [CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md). One point bears on what the test
 could show: a between-subjects test measures the population's judgement
 system, and a population can be contextual through pooling when no
-respondent is (CLAIM-tmpu482h). A positive result would support the
+respondent is ([CLAIM-tmpu482h](CLAIM-tmpu482h.md)). A positive result would support the
 claim about "context-relative distributions", not about any one
 interpreter.

@@ -89,21 +89,21 @@ no-signalling forced by the response format.
 
 ## Note of 2026-11-22: the search updated, and what adequate power takes
 
-LEAD-182 searched Europe PMC and arXiv for tests since CASE-053 and found
+[LEAD-182](../leads.d/LEAD-182.md) searched Europe PMC and arXiv for tests since [CASE-053](../cases.d/CASE-053.md) and found
 none on pragmatic or meaning judgements. The one new CbD test on
-elicited judgements, Bruza, Lee and Hoyte (2025, LIT-tmpj8zjs), is on
+elicited judgements, Bruza, Lee and Hoyte (2025, [LIT-tmpj8zjs](../literature.d/LIT-tmpj8zjs.md)), is on
 face perception, unread, and would not meet this claim's condition,
 which excludes content that is not pragmatic. The reading of Lo,
-Sadrzadeh and Mansfield (THEORY-tmpdcw35) is evidence for the claim as
+Sadrzadeh and Mansfield ([THEORY-tmpdcw35](../theory.d/THEORY-tmpdcw35.md)) is evidence for the claim as
 it stands: their violation is about one standard deviation, and their
 format never elicits the marginals a CbD correction discounts.
 
 The defeat condition's "adequate power, with its signalling accounted
-for" now has numbers (CASE-tmpjp6vg, CLAIM-tmpalxab): power has to be
+for" now has numbers ([CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md), [CLAIM-tmpalxab](CLAIM-tmpalxab.md)): power has to be
 computed with the signalling estimated, and a violation of 0.19 then
 needs 1,600 to over 4,000 respondents a context. A design that could
-meet the condition is CASE-tmpl2va4. Two cautions for reading a future
+meet the condition is [CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md). Two cautions for reading a future
 result against it: pooled counterbalancing cells can produce
-contextuality no cell has (CLAIM-tmpu482h), and a "noncontextual"
+contextuality no cell has ([CLAIM-tmpu482h](CLAIM-tmpu482h.md)), and a "noncontextual"
 verdict from a plug-in estimate at a modest sample size is not evidence
 of absence.

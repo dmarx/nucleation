@@ -21,7 +21,7 @@ corroborates:
 bears_on:
 - QUESTION-001
 summary: >-
-  Lo, Sadrzadeh and Mansfield (2023), LIT-tmpgkx6w, read in NOTE-tmplr2g0.
+  Lo, Sadrzadeh and Mansfield (2023), [LIT-tmpgkx6w](../literature.d/LIT-tmpgkx6w.md), read in [NOTE-tmplr2g0](../notes.d/NOTE-tmplr2g0.md).
   The construction is theirs; that the response format leaves the marginals
   unobserved, so the test cannot see direct influences, is the reading's.
   The violation and its spread were recomputed from the paper's Table 1.
@@ -29,7 +29,7 @@ summary: >-
 
 # THEORY-tmpdcw35: Two Winograd schemas joined in one story make a Bell-CHSH scenario over pronoun-and-word observables, and the one instance judged by crowd workers violates the inequality by about one standard deviation, with no-signalling imposed by an A/B-symmetric story and a response format that never elicits the pronouns' marginals
 
-Lo, Sadrzadeh and Mansfield (2023), LIT-tmpgkx6w, read in NOTE-tmplr2g0.
+Lo, Sadrzadeh and Mansfield (2023), [LIT-tmpgkx6w](../literature.d/LIT-tmpgkx6w.md), read in [NOTE-tmplr2g0](../notes.d/NOTE-tmplr2g0.md).
 
 ## The account
 
@@ -63,5 +63,5 @@ level of confidence a test would use. It does not show that they are
 noncontextual either. And because the format removes the per-pronoun
 answers, it does not show what a Contextuality-by-Default analysis of free
 answers would find, where direct influences of the second word on the
-first pronoun, which language data show as a rule (LIT-842), would be
+first pronoun, which language data show as a rule ([LIT-842](../literature.d/LIT-842.md)), would be
 counted against the violation.

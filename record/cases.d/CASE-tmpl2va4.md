@@ -19,15 +19,15 @@ draws_on:
 bears_on:
 - QUESTION-001
 summary: >-
-  Drafted for LEAD-182 on 2026-11-22, after a literature check found no
+  Drafted for [LEAD-182](../leads.d/LEAD-182.md) on 2026-11-22, after a literature check found no
   powered CbD test on human pragmatic judgements (scratch/studies/lead-182/search.md).
   It revises Lo, Sadrzadeh and Mansfield's generalised Winograd design
-  (THEORY-tmpdcw35): free per-question answers, so signalling is observed
+  ([THEORY-tmpdcw35](../theory.d/THEORY-tmpdcw35.md)): free per-question answers, so signalling is observed
   and discounted rather than designed away; named characters; a second
   family of indirect-request items; each counterbalancing cell its own
-  system (CLAIM-tmpu482h); a fixed sign pattern from a pilot; detection by
+  system ([CLAIM-tmpu482h](../claims.d/CLAIM-tmpu482h.md)); a fixed sign pattern from a pilot; detection by
   the plug-in statistic and absence by a conservative bound
-  (CLAIM-tmpalxab). The simulation (CASE-tmpjp6vg) puts the cost at 1,600
+  ([CLAIM-tmpalxab](../claims.d/CLAIM-tmpalxab.md)). The simulation ([CASE-tmpjp6vg](CASE-tmpjp6vg.md)) puts the cost at 1,600
   to over 4,000 valid respondents a context an item, set by the pilot's
   signalling. Every number is a lean; fixing them is the owner's. The
   wording is the assistant's (Claude, in this session); adopting it is the
@@ -40,15 +40,15 @@ summary: >-
 
 ## What it would test
 
-LEAD-182 asks for "an adequately powered Contextuality-by-Default test on
+[LEAD-182](../leads.d/LEAD-182.md) asks for "an adequately powered Contextuality-by-Default test on
 human pragmatic judgements, with signalling accounted for and outcome
-coding fixed in advance". CASE-053's four conditions are its brief: (a)
+coding fixed in advance". [CASE-053](CASE-053.md)'s four conditions are its brief: (a)
 elicited judgements; (b) contextuality after a CbD correction; (c) enough
 observations a context; (d) pragmatic content. A robust positive would
-support CLAIM-009 and meet CLAIM-325's defeat condition; a robust absence
-on items able to show contextuality would count the other way (LEAD-182,
+support [CLAIM-009](../claims.d/CLAIM-009.md) and meet [CLAIM-325](../claims.d/CLAIM-325.md)'s defeat condition; a robust absence
+on items able to show contextuality would count the other way ([LEAD-182](../leads.d/LEAD-182.md),
 "What would count"). Nothing has been run. The materials are stipulated
-(ADR-042).
+([ADR-042](../decisions.d/ADR-042.md)).
 
 ## Materials
 
@@ -58,7 +58,7 @@ each asked under one of two versions of a word, so four contents
 (w1, w2), (w1, w2′), (w1′, w2), (w1′, w2′). Two families, four items each,
 eight in all (the lean).
 
-- **Family A, two-pronoun Winograd** (Lo et al., THEORY-tmpdcw35), with
+- **Family A, two-pronoun Winograd** (Lo et al., [THEORY-tmpdcw35](../theory.d/THEORY-tmpdcw35.md)), with
   named characters of the same gender in place of A and B, so the items
   read as English and their asymmetries are free to show. Stipulated
   example: "Maria lent Ana her notes because she was [ill / organised].
@@ -93,14 +93,14 @@ judgements cannot be contextual (Lo et al., §4.2).
   one. If it must be done within an item, each cell is analysed as a
   system of its own, and the pooled result is reported only beside them,
   because pooling can create contextuality that no cell has
-  (CLAIM-tmpu482h).
+  ([CLAIM-tmpu482h](../claims.d/CLAIM-tmpu482h.md)).
 
 ## Outcome coding, fixed in advance
 
 - Each answer is coded +1 for the option listed first in the item file,
   which is frozen with σ before the main study.
 - Answers are binary by construction, so no dichotomization is chosen
-  after the data (THEORY-168, THEORY-722).
+  after the data ([THEORY-168](../theory.d/THEORY-168.md), [THEORY-722](../theory.d/THEORY-722.md)).
 - Exclusions, fixed: failing an attention item, or finishing faster
   than a time fixed from the pilot. Never by the pattern of answers.
   The exclusion rate by context is reported, and an item whose rates
@@ -110,19 +110,19 @@ judgements cannot be contextual (Lo et al., §4.2).
 
 - **Statistic**: for each item, Δ_C = σ·Ê − 2 − Δ̂, with σ from the
   pilot and Δ̂ the plug-in signalling, Σ over contents of |d̂_q|
-  (THEORY-177). The criterion is the cyclic-system one, for which CbD 1.0
-  and 2.0 agree (THEORY-722).
+  ([THEORY-177](../theory.d/THEORY-177.md)). The criterion is the cyclic-system one, for which CbD 1.0
+  and 2.0 agree ([THEORY-722](../theory.d/THEORY-722.md)).
 - **Detection**: contextual if the 5% percentile-bootstrap lower bound
   of Δ_C is above 0, at 0.05/8 for the family. Resampling is by
   respondent, and when respondents answer several items, by respondent
   across items (a cluster bootstrap). The plug-in Δ̂ is biased upward,
   so this errs toward missing contextuality, never toward finding it
-  (CLAIM-tmpalxab).
+  ([CLAIM-tmpalxab](../claims.d/CLAIM-tmpalxab.md)).
 - **Absence**: noncontextual only if the conservative bound
   (cbd.absence_upper_bound: an upper bound on σ·E at α/2, less a lower
   bound on each content's signalling at α/8) is below 0. The plug-in
   upper bound must not be used: it declares absence for contextual
-  systems (CASE-tmpjp6vg).
+  systems ([CASE-tmpjp6vg](CASE-tmpjp6vg.md)).
 - **Otherwise inconclusive.** Both rules are reported for every item,
   with Ê, each d̂_q and their intervals.
 - **Replication**: an item found contextual is rerun on a fresh sample of
@@ -135,7 +135,7 @@ judgements cannot be contextual (Lo et al., §4.2).
 
 ## Sample size
 
-From CASE-tmpjp6vg. At a true violation of 0.19 (Lo et al.'s size), the
+From [CASE-tmpjp6vg](CASE-tmpjp6vg.md). At a true violation of 0.19 (Lo et al.'s size), the
 plug-in test at 0.05 has power about 0.80 at 1,600 valid respondents a
 context when the item's signalling is 0.3 or more, 0.83 at 2,500 when it
 is 0.1, and 0.65 at 4,000 when it is near 0. At 0.05/8, with signalling
@@ -152,12 +152,12 @@ pilot with less signalling than this costs more.
 person's. If respondents differ in which way the second word pushes the
 first answer, the population's signalling cancels while their
 correlations add, and the population can be contextual when no
-respondent is (CLAIM-tmpu482h's mechanism, applied to people instead of
+respondent is ([CLAIM-tmpu482h](../claims.d/CLAIM-tmpu482h.md)'s mechanism, applied to people instead of
 cells). The design can rule out the pooling it controls, its cells, and
 check the strata it fixes in advance; it cannot rule out pooling over
 differences it does not measure. So a positive result shows that the
 population's judgement system is contextual under CbD, which is what
-CLAIM-009 says of "context-relative distributions", and not that any
+[CLAIM-009](../claims.d/CLAIM-009.md) says of "context-relative distributions", and not that any
 individual's interpreting is. The second threat is content: a positive
 in Family A only is coreference by world knowledge, as Lo et al.'s was;
 only Family B bears on acts and uptake.
@@ -165,20 +165,20 @@ only Family B bears on acts and uptake.
 ## What each outcome would show
 
 - **Robust positive in Family B**: the first documented contextual
-  pragmatic data set; CLAIM-325's defeat condition met; CLAIM-009
-  supported for the population; the fixed-scenario form of CLAIM-105's
-  headline, which needs a contextual model on one side (CLAIM-219),
+  pragmatic data set; [CLAIM-325](../claims.d/CLAIM-325.md)'s defeat condition met; [CLAIM-009](../claims.d/CLAIM-009.md)
+  supported for the population; the fixed-scenario form of [CLAIM-105](../claims.d/CLAIM-105.md)'s
+  headline, which needs a contextual model on one side ([CLAIM-219](../claims.d/CLAIM-219.md)),
   given a case that is not constructed.
 - **Robust positive in Family A only**: contextuality in coreference
-  judgements; CLAIM-325 met as to "meaning judgements", not pragmatic
+  judgements; [CLAIM-325](../claims.d/CLAIM-325.md) met as to "meaning judgements", not pragmatic
   ones.
 - **Absence shown on most kept items**: evidence of absence where until
-  now there was absence of evidence (CASE-053), for these items.
+  now there was absence of evidence ([CASE-053](CASE-053.md)), for these items.
   Because the absence bound works only where signalling is small, this
   verdict is reachable mainly for near-symmetric items.
 - **Inconclusive on most items**: the expected outcome if true effects
   are under 0.1, and itself informative: a family in which the test that
-  LEAD-182 asks for cannot be powered at this budget.
+  [LEAD-182](../leads.d/LEAD-182.md) asks for cannot be powered at this budget.
 
 ## What the owner decides
 

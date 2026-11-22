@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 from the arXiv PDF (2308.16498v1) for LEAD-182;
+  read in full 2026-11-22 from the arXiv PDF (2308.16498v1) for [LEAD-182](../leads.d/LEAD-182.md);
   worth reading as the one test of contextuality on human judgements with
   pragmatic content, a coreference story whose two pronouns are resolved by
   world knowledge under two pairs of words, laid out as a Bell-CHSH
@@ -53,7 +53,7 @@ summary: >-
   0.176, positive in 87% of bootstrap resamples. No-signalling holds by
   construction: the story is symmetric in A and B and respondents choose
   two of four symmetric readings. It is the design ancestor of the study
-  LEAD-182 drafts.
+  [LEAD-182](../leads.d/LEAD-182.md) drafts.
 ---
 <!-- inactive-ok-file: CASE-tmpl2va4 — new and Proposed; the design that revises this study -->
 
@@ -61,7 +61,7 @@ summary: >-
 
 Kin Ian Lo, Mehrnoosh Sadrzadeh and Shane Mansfield (2023). *Electronic
 Proceedings in Theoretical Computer Science* 384: 187-202 (QPL 2023).
-DOI-10.4204/EPTCS.384.11, ARXIV-2308.16498.
+DOI-10.4204/EPTCS.384.11, [ARXIV-2308.16498](https://arxiv.org/abs/2308.16498).
 
 ## Key takeaways
 
@@ -75,6 +75,6 @@ DOI-10.4204/EPTCS.384.11, ARXIV-2308.16498.
 
 ## Standing in the record
 
-Read in NOTE-tmplr2g0. The record had cited it through CASE-053 since
+Read in [NOTE-tmplr2g0](../notes.d/NOTE-tmplr2g0.md). The record had cited it through [CASE-053](../cases.d/CASE-053.md) since
 2026-10-10 without an entry of its own. It is the nearest published
-test to what LEAD-182 asks for, and the design CASE-tmpl2va4 revises.
+test to what [LEAD-182](../leads.d/LEAD-182.md) asks for, and the design [CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md) revises.

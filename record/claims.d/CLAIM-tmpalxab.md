@@ -27,7 +27,7 @@ complements:
 - CLAIM-tmpu482h
 - CLAIM-245
 summary: >-
-  Found by LEAD-182's power simulation (CASE-tmpjp6vg), 2026-11-22. The
+  Found by [LEAD-182](../leads.d/LEAD-182.md)'s power simulation ([CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md)), 2026-11-22. The
   signalling term of the CbD criterion is a sum of absolute differences,
   and its plug-in estimate folds the sampling noise upward: at zero true
   signalling by about 4·√(2/π)·√(2/n), 0.23 at 400 respondents a context.
@@ -35,7 +35,7 @@ summary: >-
   signalling needs over 4,000 respondents a context for power 0.75. The
   same bias makes an absence verdict anti-conservative: 84% false absence
   on the boundary. A Bonferroni bound crediting only guaranteed signalling
-  is valid. CLAIM-105's defeat condition asks for "a signalling estimator
+  is valid. [CLAIM-105](CLAIM-105.md)'s defeat condition asks for "a signalling estimator
   with bias correction"; this says what the bias costs and which way it
   cuts. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -49,13 +49,13 @@ summary: >-
 
 In a cyclic system the CbD criterion is Δ_C = s_odd(E) − (n − 2) − Δ,
 where Δ sums, over contents, the absolute difference between the
-content's marginal means in its two contexts (THEORY-177). When the
+content's marginal means in its two contexts ([THEORY-177](../theory.d/THEORY-177.md)). When the
 answers are free, Δ has to be estimated, and the natural estimate,
 Σ|d̂_q|, is biased upward wherever a true difference is small beside its
 standard error. At zero true signalling each |d̂_q| is a folded normal,
 with mean √(2/π) times its standard error; for four contents and n
 respondents a context, about 4·√(2/π)·√(2/n). The simulation
-(CASE-tmpjp6vg) finds 0.226 at n = 400 and 0.112 at 1,600, as predicted.
+([CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md)) finds 0.226 at n = 400 and 0.112 at 1,600, as predicted.
 
 Three consequences, each found in the simulation:
 
@@ -88,7 +88,7 @@ Three consequences, each found in the simulation:
   powerful; it was not built.
 - That published CbD verdicts are wrong. Detections reported with a
   bootstrap on the plug-in statistic, such as the Snow Queen study
-  (LIT-tmp43x53), err if at all toward missing contextuality. But a
+  ([LIT-tmp43x53](../literature.d/LIT-tmp43x53.md)), err if at all toward missing contextuality. But a
   published "noncontextual" verdict at a modest sample size, from a
   point estimate below zero, is not by itself evidence of absence.
 - Anything about human judgements. It is a property of the estimator on
@@ -96,13 +96,13 @@ Three consequences, each found in the simulation:
 
 ## What it bears on
 
-CLAIM-325's defeat condition asks for contextuality "at adequate power,
+[CLAIM-325](CLAIM-325.md)'s defeat condition asks for contextuality "at adequate power,
 with its signalling accounted for". This claim says what accounting for
 signalling costs: the power has to be computed with the signalling
-estimated, not assumed. CLAIM-105's defeat condition counts changes
+estimated, not assumed. [CLAIM-105](CLAIM-105.md)'s defeat condition counts changes
 "beyond sampling error", which its note of 2026-10-29 says "needs a
 signalling estimator with bias correction and a stated sampling error";
 here the bias is quantified and its direction shown to differ between the
-two verdicts. And CLAIM-219's first horn, that the data read show no
+two verdicts. And [CLAIM-219](CLAIM-219.md)'s first horn, that the data read show no
 contextuality proper, rests on nulls whose power the record has not
 computed in this way.

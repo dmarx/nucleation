@@ -24,16 +24,16 @@ grounds:
 complements:
 - CLAIM-245
 summary: >-
-  Found while drafting LEAD-182's design, 2026-11-22. In a cyclic system
+  Found while drafting [LEAD-182](../leads.d/LEAD-182.md)'s design, 2026-11-22. In a cyclic system
   the criterion is s_odd(E) − (n − 2) − Δ, with Δ the summed absolute
   marginal differences. Mixing averages E linearly but Δ only
   subadditively, and when two systems' influences are opposite, Δ of the
   mixture is zero while s_odd keeps its value: two systems at Δ_C = 0
   pool to Δ_C = 0.6 (scratch/studies/lead-182/test_cbd.py). Without
   signalling the opposite holds, since the contextual fraction is convex
-  under mixing (THEORY-165). So averaging over a counterbalanced factor,
+  under mixing ([THEORY-165](../theory.d/THEORY-165.md)). So averaging over a counterbalanced factor,
   such as which character is named first, can manufacture contextuality,
-  and CASE-tmpl2va4 analyses each cell apart. The wording is the
+  and [CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md) analyses each cell apart. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpl2va4 — new; the design that applies this claim -->
@@ -50,7 +50,7 @@ and q_(k+1). Contextuality-by-Default calls it contextual exactly when
 where E_k is the mean product of the two ±1 answers in context k, s_odd
 the largest signed sum of the E_k with an odd number of minus signs, and Δ
 the sum over contents of the absolute difference between the content's
-two marginal means (LIT-777; THEORY-177 for what Δ measures).
+two marginal means ([LIT-777](../literature.d/LIT-777.md); [THEORY-177](../theory.d/THEORY-177.md) for what Δ measures).
 
 **The construction.** System P1: every |E_k| = 0.65, signs (+, +, +, −),
 so s_odd = 2.6; each content's marginal is +0.075 in one of its contexts
@@ -71,9 +71,9 @@ the mixture's Δ while the correlations they accompanied survive.
 which character is named first, or which answer is shown first, shifts
 the marginals one way in one cell and the other way in the other, the
 pooled system shows contextuality that neither cell has. Lo, Sadrzadeh
-and Mansfield's design (NOTE-tmplr2g0) avoids the question by never
+and Mansfield's design ([NOTE-tmplr2g0](../notes.d/NOTE-tmplr2g0.md)) avoids the question by never
 eliciting marginals; a free-response design meets it. So the design for
-LEAD-182 (CASE-tmpl2va4) fixes in advance that each counterbalancing cell
+[LEAD-182](../leads.d/LEAD-182.md) ([CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md)) fixes in advance that each counterbalancing cell
 is analysed as its own system, and that pooling, if reported, is
 reported only beside the per-cell results.
 
@@ -83,10 +83,10 @@ reported only beside the per-cell results.
   result was produced this way. It says pooling can create the verdict,
   so a design must rule it out.
 - Anything against the sheaf-theoretic measure for no-signalling models.
-  There the contextual fraction is convex under mixing (THEORY-165), so a
+  There the contextual fraction is convex under mixing ([THEORY-165](../theory.d/THEORY-165.md)), so a
   mixture of noncontextual no-signalling models is noncontextual. The
   difference lies in how Contextuality-by-Default discounts signalling.
-- Anything about recodings, which CLAIM-245 treats. The two are
+- Anything about recodings, which [CLAIM-245](CLAIM-245.md) treats. The two are
   companions: a recoding acts on each context's outcomes, and pooling on
   the population a context's statistics come from. Under either, the
   verdict depends on a choice that has to be fixed before the data.

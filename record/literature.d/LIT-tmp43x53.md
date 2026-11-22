@@ -1,9 +1,9 @@
 ---
 status: Deferred
 status_note: >-
-  filed 2026-11-22, not read in this filing. CASE-053 read it directly in
+  filed 2026-11-22, not read in this filing. [CASE-053](../cases.d/CASE-053.md) read it directly in
   the arXiv v8 PDF on 2026-10-10 and quotes it, but the record held no
-  entry for it; registered by LEAD-182 so that the design that draws on
+  entry for it; registered by [LEAD-182](../leads.d/LEAD-182.md) so that the design that draws on
   its analysis has a code to cite. A lawful copy is on arXiv (1711.00418).
 title: 'Snow Queen is Evil and Beautiful: Experimental Evidence for Probabilistic Contextuality in Human Choices'
 version: 1
@@ -38,7 +38,7 @@ summary: >-
   Mechanical Turk respondents a context choose a character and a
   characteristic from Andersen's story under an instruction to match it;
   the system is heavily signalling and still CbD-contextual, with a 99.99%
-  bootstrap interval of [0.226, 0.668] (CASE-053's reading). The precedent
+  bootstrap interval of [0.226, 0.668] ([CASE-053](../cases.d/CASE-053.md)'s reading). The precedent
   for detecting contextuality under large direct influences at a few
   hundred respondents a context, on instructed matching, not pragmatic
   content. Unverified here until read.
@@ -48,13 +48,13 @@ summary: >-
 # LIT-tmp43x53: Snow Queen is Evil and Beautiful: Experimental Evidence for Probabilistic Contextuality in Human Choices
 
 Víctor H. Cervantes and Ehtibar N. Dzhafarov (2018). *Decision* 5(3):
-193-204. DOI-10.1037/dec0000095, ARXIV-1711.00418.
+193-204. DOI-10.1037/dec0000095, [ARXIV-1711.00418](https://arxiv.org/abs/1711.00418).
 
 ## Standing in the record
 
-CASE-053 read it on 2026-10-10 and holds it as "the strongest positive,
-off content". Registered on 2026-11-22 for LEAD-182, whose design
-(CASE-tmpl2va4) takes its inference, a bootstrap interval on the CbD
+[CASE-053](../cases.d/CASE-053.md) read it on 2026-10-10 and holds it as "the strongest positive,
+off content". Registered on 2026-11-22 for [LEAD-182](../leads.d/LEAD-182.md), whose design
+([CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md)) takes its inference, a bootstrap interval on the CbD
 statistic with the signalling estimated, as precedent. Its large effect
 under large signalling is the case where the plug-in statistic's bias is
-smallest (CASE-tmpjp6vg). Not read in this filing.
+smallest ([CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md)). Not read in this filing.

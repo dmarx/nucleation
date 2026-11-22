@@ -229,13 +229,13 @@ judgements has been run.
 
 The defeat condition counts changes in CbD contextuality "beyond
 sampling error", and the note of 2026-10-29 says that needs a signalling
-estimator with bias correction. LEAD-182's simulation (CASE-tmpjp6vg)
+estimator with bias correction. [LEAD-182](../leads.d/LEAD-182.md)'s simulation ([CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md))
 finds the plug-in estimator biased upward when true signalling is small,
 by about 4·√(2/π)·√(2/n) when there is none, and the bias cuts opposite
-ways for the two verdicts (CLAIM-tmpalxab). A test that a step created
+ways for the two verdicts ([CLAIM-tmpalxab](CLAIM-tmpalxab.md)). A test that a step created
 contextuality can use it and stay valid; a test that a step left
 contextuality unchanged cannot, and needs a conservative bound. So a
 chain study testing this condition would need the conservative bound on
-the "kept" side, and samples in the thousands a context. CASE-tmpl2va4
+the "kept" side, and samples in the thousands a context. [CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md)
 is the single-scenario design such a study would run on each side of a
 step.

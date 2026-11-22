@@ -215,21 +215,21 @@ behavioural data set" (now held as [CLAIM-325](../claims.d/CLAIM-325.md)) are sc
 
 ## Note of 2026-11-22: the search updated, and the 650 corrected
 
-LEAD-182's literature check (Europe PMC and arXiv; OpenAlex refused)
+[LEAD-182](../leads.d/LEAD-182.md)'s literature check (Europe PMC and arXiv; OpenAlex refused)
 found no CbD test on pragmatic or meaning judgements since this case. It
 found one new CbD test on elicited judgements, Bruza, Lee and Hoyte
-(2025, LIT-tmpj8zjs), on telling real from AI-generated faces, which by
+(2025, [LIT-tmpj8zjs](../literature.d/LIT-tmpj8zjs.md)), on telling real from AI-generated faces, which by
 its abstract finds nine of twenty trials contextual. It was not read
 (Unfetched). If it holds, it is a second positive off content beside
-Snow Queen (now LIT-tmp43x53), and this case's finding for pragmatic
-content stands. Wang and Sadrzadeh (2024, LIT-tmptblig) measure
+Snow Queen (now [LIT-tmp43x53](../literature.d/LIT-tmp43x53.md)), and this case's finding for pragmatic
+content stands. Wang and Sadrzadeh (2024, [LIT-tmptblig](../literature.d/LIT-tmptblig.md)) measure
 signalling on BERT's probabilities, not on judgements.
 
 The rough figure under "What would close the gap", about 650 valid
 responses a context, assumed no signalling to estimate, as Lo et al.'s
 format ensures. With free answers the signalling must be estimated, and
 its estimate is biased upward when true signalling is small
-(CLAIM-tmpalxab). The simulation (CASE-tmpjp6vg) puts power 0.80 for a
+([CLAIM-tmpalxab](../claims.d/CLAIM-tmpalxab.md)). The simulation ([CASE-tmpjp6vg](CASE-tmpjp6vg.md)) puts power 0.80 for a
 0.19 violation near 1,600 a context when items signal by 0.3 or more,
 and above 4,000 when they barely signal. The design that would close the
-gap is CASE-tmpl2va4.
+gap is [CASE-tmpl2va4](CASE-tmpl2va4.md).

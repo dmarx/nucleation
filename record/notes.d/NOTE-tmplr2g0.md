@@ -87,19 +87,19 @@ on one instance and reports a positive violation.
 
 ## Bearing on the record
 
-- CASE-053 holds this study as "the right content, underpowered", and
+- [CASE-053](../cases.d/CASE-053.md) holds this study as "the right content, underpowered", and
   the reading confirms its figures and its point that the symmetry is
-  forced. It adds one thing CASE-053 does not say: the format does not
+  forced. It adds one thing [CASE-053](../cases.d/CASE-053.md) does not say: the format does not
   merely discard asymmetric answers, it never elicits the per-pronoun
   answers, so the marginals that CbD discounts are not observed at all.
-- For LEAD-182, it is the design to revise: free per-pronoun answers,
+- For [LEAD-182](../leads.d/LEAD-182.md), it is the design to revise: free per-pronoun answers,
   named characters, and a CbD analysis with the signalling estimated
-  (CASE-tmpl2va4). The power simulation (CASE-tmpjp6vg) takes its Table 1
+  ([CASE-tmpl2va4](../cases.d/CASE-tmpl2va4.md)). The power simulation ([CASE-tmpjp6vg](../cases.d/CASE-tmpjp6vg.md)) takes its Table 1
   as one of its true models.
-- CLAIM-325 and CLAIM-009: it is the only pragmatic-content data set the
+- [CLAIM-325](../claims.d/CLAIM-325.md) and [CLAIM-009](../claims.d/CLAIM-009.md): it is the only pragmatic-content data set the
   record has with a positive violation, and the violation is about one
-  standard deviation, so it neither meets CLAIM-325's defeat condition nor
-  gives CLAIM-009 its test.
+  standard deviation, so it neither meets [CLAIM-325](../claims.d/CLAIM-325.md)'s defeat condition nor
+  gives [CLAIM-009](../claims.d/CLAIM-009.md) its test.
 
 ## Limitations
 
