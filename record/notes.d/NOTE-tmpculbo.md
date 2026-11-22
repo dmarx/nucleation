@@ -1,0 +1,157 @@
+---
+status: Read
+paper: LIT-tmp6nn9d
+title: 'Bourrat et al. — Individuality through ecology (2024)'
+version: 1
+history:
+- version: 1
+  date: '2026-11-22'
+  note: >-
+    Read in full, for LEAD-176, as a neighbour of LIT-1940 (registered as
+    a stand-in; ADR-114). The PMC full text (PMC11622154, CC BY 4.0) was
+    fetched on 2026-11-22 through NCBI's E-utilities efetch interface, a
+    repository's documented machine interface (ADR-101), after Europe
+    PMC's fullTextXML endpoint returned HTTP 500. Read: abstract, Boxes 1
+    and 2, the four sections and the conclusion, and the captions of
+    Figures 1 and 2 (the figures themselves are images and were not
+    seen). The reference list was used only to resolve citations. The XML
+    has no page numbers, so sections are named by their headings. Quotes
+    were checked against the extracted text.
+date: '2026-11-22'
+summary: >-
+  A perspective piece by the ecological scaffolding group, Black and
+  Rainey among its authors. It restates the patch model of LIT-1940 in
+  words, defines endogenization as collectives gaining "the capacity to
+  persist even in the absence of an ecological scaffold", and poses it as
+  a landscape with two peaks in the unscaffolded environment, one removed
+  by the scaffold. It adds a constructive route in which cells make the
+  scaffold, and holds that the line between internal and external shifts
+  during a transition. No model or data of its own.
+---
+<!-- inactive-ok-file: LIT-1940 — Unfetched; the paper this one stands in for -->
+
+# NOTE-tmpculbo: Bourrat et al. — Individuality through ecology (2024)
+
+## Contribution
+
+A programmatic statement, not a result. It sets the externalist mode of
+explanation of transitions in individuality beside the internalist one,
+says what each takes as its problem (the free-rider problem against the
+origin of Darwinian properties), and reformulates the endogenization
+puzzle so that it has stated conditions.
+
+## Key insight
+
+Internalist accounts take higher-level Darwinian properties for granted,
+and collective-level selection "cannot be invoked to explain the
+emergence of Darwinian properties at the same level" ("Introduction").
+An environmental structure can impose those properties first. The
+transition is then complete only if, when the scaffold goes, the
+collective does not fall back to independent cells: the scaffolding
+framework holds that higher-level individuality "has only truly occurred
+if a return to an independent mode of existence for cells is hindered
+upon the removal of the scaffolding conditions" ("Endogenization as a
+Puzzle").
+
+## Assumptions
+
+- Lewontin's three conditions, read as three Darwinian properties:
+  discreteness, reproduction, heredity (Box 1, after Godfrey-Smith).
+- An "operative cause" is the variable whose intervened change explains
+  the phenomenon, taken furthest up a causal chain "assuming there are no
+  feedbacks" (Box 1). The internal/external distinction is "relative to
+  the respective explanations being contrasted" (Box 2).
+- Endogenization "requires the existence of at least two types of
+  evolutionary equilibria in the non‐scaffolding environment"
+  ("Endogenization as a Puzzle"), separated by a valley the scaffold
+  removes (Figure 2, after Doulcier et al. 2024).
+
+## Key results
+
+- **The model of LIT-1940, restated** ("Ecological Scaffolding and the
+  Value of Externalism"): bounded patches of resources; cells die when
+  resources are depleted; periodic dispersal of propagules; the number of
+  propagules depends on population size at dispersal, set by consumption
+  rate against dispersal timing. Selection then acts within and between
+  patches and can favour slower growth that avoids over-exploitation.
+  Internal changes "are merely “follower” factors in the causal chain".
+- **Endogenization defined** (Box 1): "An evolutionary process during
+  which higher‐level collectives gain the capacity to persist even in the
+  absence of an ecological scaffold", by "developing properties that make
+  the ecological scaffold unnecessary for their maintenance"; the
+  extracellular matrix is the example.
+- **Scaffolds are hard to observe**: "a scaffold is a transient feature
+  that disappears over time", the outcome of endogenization; candidate
+  settings are tidal pools, reeds in a pond, and obligate pathogens with
+  infection bottlenecks.
+- **Two peaks** ("Endogenization as a Puzzle", Figure 2): with the
+  scaffold, only the collective peak exists; after it, the valley
+  returns, and "Once a multicellular mode of living has evolved, there is
+  no going back".
+- **Constructive scaffolding** ("Combining Changes"): "the origin of the
+  scaffold is assumed to be internal" when cells' waste accumulates at the
+  edges of resources and makes the patches; "Future formal models will
+  elaborate on this idea". What is internal and external shifts: "a
+  boundary shift between what is considered internal and external occurs
+  during the emergence of new levels of individuality". A scaffold may be
+  biotic, a partner in an egalitarian transition.
+
+## Concepts
+
+- **Ecological scaffold**: "An environmental structure that enables
+  individuals at one level of organization to realize Darwinian
+  properties at a higher level of organization" (Box 1).
+- **Endogenization**: as above.
+- **Operative cause**; **internalist/externalist mode of explanation**:
+  Boxes 1 and 2.
+
+## Connections
+
+It stands in for LIT-1940 (Black, Bourrat and Rainey 2020) as far as the
+model's setting and framing go. It restates: patches, depletion,
+periodic propagule dispersal, propagule number set by population size,
+within- and between-patch selection, the scaffold as the operative cause,
+the Darwinian properties imposed exogenously. It does not restate: the
+model's equations, the timescale conditions under which slow growers
+win, the result on single-cell founding and a reproductive division of
+labour (which bioRxiv's abstract of the preprint names), or any numbers.
+It develops the niche-construction route that LIT-1927 (NOTE-tmp1shj8)
+sketches in its §7, and replaces LIT-1927's pleiotropy mechanism with
+Doulcier et al.'s two-peaked landscape as the general condition.
+
+## Bearing on the record
+
+- **CLAIM-194** (a parallel, with a twist): the paper's constructive
+  route is a boundary that cells produce and that then works as an
+  imposed one, a scaffold, before being taken into the collective. It
+  treats the distinction CLAIM-194 draws as one that moves during the
+  transition rather than one a test settles once.
+- **CLAIM-529** (corroborated): the criterion for completion is stated as
+  what happens to a grouping when the scaffold is removed, and can come
+  out false ("a return to an independent mode of existence").
+- **QUESTION-398**: a stated condition, two equilibria in the
+  unscaffolded environment with the population near the collective peak
+  when the scaffold goes, under which an organization becomes
+  independent of the intervention that established it.
+- **CLAIM-522** (background): its "operative cause" is defined by
+  intervention and assumes no feedback, which is the case CLAIM-522
+  leaves open; a constructed scaffold is a feedback.
+
+## Limitations
+
+- No model, data or computation; the two-peaks condition is borrowed
+  from Doulcier et al. (2024), not shown here.
+- The definition of operative cause excludes feedback, and the
+  constructive route is a feedback, so the paper's own account of which
+  cause is operative does not apply to the case it proposes.
+- "Once ... there is no going back" overstates the landscape picture,
+  which needs the population near the collective peak when the scaffold
+  goes (Figure 2c caption).
+- A citation is garbled: "(... Rose et al. 2020; Rainey 1872)" in the
+  Introduction.
+
+## Open questions
+
+What is a scaffold that the collective itself makes, once made: inside
+or outside? The paper says the line shifts but gives no criterion for
+when it has.
