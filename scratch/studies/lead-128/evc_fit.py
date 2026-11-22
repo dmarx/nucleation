@@ -161,12 +161,110 @@ def per_participant(rows):
             "frac_increasing_cost": (increasing / nfit) if nfit else None}
 
 
+def _nll_linear(params, dr, dlev, y):
+    """Linear cost c(n) = k * (n - 1); params = [beta, k]."""
+    beta, k = params
+    v = beta * (dr - k * dlev)
+    ll = y * v - np.logaddexp(0.0, v)
+    return -float(np.sum(ll))
+
+
+def fit_linear_per_participant(rows):
+    """Per participant: V = r - k*(n-1). Return distribution of marginal cost k
+    (euros of reward foregone per n-back level). Separable participants
+    (always chose the lower- or higher-effort option) are reported apart."""
+    by = {}
+    for r in rows:
+        by.setdefault(r[0], []).append(r)
+    ks, n_sep_averse, n_sep_seek, n_fit = [], 0, 0, 0
+    for pid, rs in by.items():
+        nA = np.array([r[1] for r in rs]); rA = np.array([r[2] for r in rs])
+        nB = np.array([r[3] for r in rs]); rB = np.array([r[4] for r in rs])
+        y = np.array([r[5] for r in rs], float)
+        dr = rA - rB
+        dlev = (nA - 1.0) - (nB - 1.0)  # = nA - nB
+        # did the participant ever take less money to avoid higher effort,
+        # or ever take less money to get higher effort? identify separability
+        chose_lower_effort = ((y == 1) & (nA < nB)) | ((y == 0) & (nB < nA))
+        if y.sum() == 0 or y.sum() == len(y):
+            # always one button; use effort direction of chosen option
+            if chose_lower_effort.mean() > 0.5:
+                n_sep_averse += 1
+            else:
+                n_sep_seek += 1
+            continue
+        res = minimize(_nll_linear, np.array([1.0, 0.3]), args=(dr, dlev, y),
+                       method="Nelder-Mead",
+                       options={"xatol": 1e-7, "fatol": 1e-9,
+                                "maxiter": 20000, "maxfev": 20000})
+        beta, k = res.x
+        # sign convention: positive k = cost rises with n -> intensity falls
+        ks.append(float(k)); n_fit += 1
+    ks = np.array(ks)
+    return {
+        "n_fit": n_fit,
+        "n_always_avoided_higher_effort": n_sep_averse,
+        "n_always_sought_higher_effort": n_sep_seek,
+        "median_k_eur_per_level": float(np.median(ks)) if len(ks) else None,
+        "iqr_k_eur_per_level": (
+            [float(np.percentile(ks, 25)), float(np.percentile(ks, 75))]
+            if len(ks) else None),
+        "frac_k_positive": float(np.mean(ks > 0)) if len(ks) else None,
+        "frac_effort_averse_incl_separable": (
+            float((np.sum(ks > 0) + n_sep_averse)
+                  / (n_fit + n_sep_averse + n_sep_seek))
+            if (n_fit + n_sep_averse + n_sep_seek) else None),
+    }
+
+
+def group_subjective_values(rows):
+    """Model-free check, the paradigm's own subjective value (Scheffel et al.):
+    in each pair one option is fixed at 2 euro and the other titrated; the
+    titrated (equal-reward-preferred) level has SV := 1, and the fixed level
+    has SV := final titrated reward / 2. Each participant's SV for a level is
+    the mean over pairs in which it appeared; the group mean per level is
+    returned. Effort-averse populations give SVs that fall with n-back."""
+    by = {}
+    for r in rows:
+        by.setdefault(r[0], []).append(r)
+    group = {lev: [] for lev in LEVELS}
+    for pid, rs in by.items():
+        part = {lev: [] for lev in LEVELS}
+        block = []
+        last_pair = None
+        for r in rs + [(None,) * 6]:
+            pair = (r[1], r[3]) if r[0] is not None else None
+            if pair != last_pair and block:
+                lv = [b[2] for b in block]; rv = [b[4] for b in block]
+                left_lev, right_lev = block[0][1], block[0][3]
+                if len(set(lv)) > 1:            # left titrated
+                    tlev, flev, tfinal = left_lev, right_lev, block[-1][2]
+                elif len(set(rv)) > 1:          # right titrated
+                    tlev, flev, tfinal = right_lev, left_lev, block[-1][4]
+                else:
+                    tlev = flev = None
+                if tlev in part:
+                    part[tlev].append(1.0)              # titrated/preferred
+                    part[flev].append(tfinal / 2.0)     # fixed level's SV
+                block = []
+            if r[0] is not None:
+                block.append(r)
+            last_pair = pair
+        for lev in LEVELS:
+            if part[lev]:
+                group[lev].append(float(np.mean(part[lev])))
+    return {str(lev): (float(np.mean(v)) if v else None)
+            for lev, v in group.items()}
+
+
 def main():
     import sys
     raw = sys.argv[1]
     rows = load_trials(raw)
     out = fit_all(rows)
     out["per_participant"] = per_participant(rows)
+    out["per_participant_linear"] = fit_linear_per_participant(rows)
+    out["group_norm_indiff_reward_by_level"] = group_subjective_values(rows)
     # predicted choice of higher-n option at matched reward (dr=0), per level pair
     c = [0.0, out["cost"]["2"], out["cost"]["3"], out["cost"]["4"]]
     b = out["beta_full"]

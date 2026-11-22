@@ -69,6 +69,25 @@ def test_null_adequate_when_no_cost():
     assert out["lr_stat"] < 20  # 3 df; large would be false positive
 
 
+def test_linear_per_participant_recovers_sign():
+    # one effort-averse participant (k>0) simulated with linear cost
+    rng = np.random.default_rng(7)
+    levels = (1, 2, 3, 4)
+    k_true = 0.4
+    rows = []
+    for _ in range(400):
+        a, b = rng.choice(levels, size=2, replace=False)
+        rA, rB = (2.0, round(float(rng.uniform(1.0, 2.0)), 2)) if rng.random() < .5 \
+            else (round(float(rng.uniform(1.0, 2.0)), 2), 2.0)
+        vA = rA - k_true * (a - 1); vB = rB - k_true * (b - 1)
+        p = 1 / (1 + np.exp(-3.0 * (vA - vB)))
+        rows.append(("P1", a, rA, b, rB, int(rng.random() < p)))
+    out = E.fit_linear_per_participant(rows)
+    assert out["n_fit"] == 1
+    assert out["median_k_eur_per_level"] > 0.2
+    assert out["frac_k_positive"] == 1.0
+
+
 def test_load_trials_parses(tmp_path=None):
     d = tempfile.mkdtemp()
     p = os.path.join(d, "X01_ED.csv")

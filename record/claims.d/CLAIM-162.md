@@ -69,6 +69,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
 <!-- inactive-ok-file: LIT-914 LIT-910 LIT-912 — Unavailable, unread; the flow literature, cited without a reading and named as the weakest footing -->
 <!-- inactive-ok-file: THEORY-067 THEORY-070 — Proposed; the readings this conjecture is set against, with their untested standing stated -->
+<!-- inactive-ok-file: CASE-tmprt0hl CLAIM-tmpwma3v — new on 2026-11-22; the cost-side fit and its finding, cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpto8hu THEORY-tmp8q7t4 LIT-tmpptux6 — new on 2026-11-22; the LEAD-054 search's readings, claim and registered works, cited in the dated note -->
 
 # CLAIM-162: In flow an activity's immediate reward and its longer-run value coincide, so no interest has to be overridden (synchronization as non-crossing valuations, with no dynamical mechanism claimed), and that is why focused action in flow is reported as effortless
@@ -140,6 +141,20 @@ intrinsic cost of override going unpaid, not by dACC's place as specifier,
 so [THEORY-1110](../theory.d/THEORY-1110.md)'s proposal would not carry it. No choice probe or reversal
 measure taken during a flow episode, which its defeat condition asks for,
 is in the record.
+
+## Note of 2026-11-22: the cost-side fit of promote_when (1) now has a candidate
+
+The second of the two premises above — a fit in which control intensity falls
+with its cost — now has a candidate. Carrying out [LEAD-128](../leads.d/LEAD-128.md), the assistant
+fitted the EVC effort-cost model to cognitive-effort-discounting choices
+([CASE-tmprt0hl](../cases.d/CASE-tmprt0hl.md), finding [CLAIM-tmpwma3v](CLAIM-tmpwma3v.md)): the cost of control rises with
+task load and the cost term is required. That intrinsic cost is the one this
+claim says goes unpaid in flow. [CLAIM-tmpwma3v](CLAIM-tmpwma3v.md) corroborates this claim. The
+fit uses a revealed-choice measure of intensity, not the accumulator
+parameter promote_when (1) names (caveat in the note of 2026-11-22 on
+[THEORY-070](../theory.d/THEORY-070.md)); whether it promotes that ground is the owner's call, and this
+claim's other premise ([CLAIM-169](CLAIM-169.md)) and its own defeat condition (a choice
+probe within a flow episode) are untouched, so the status is unchanged.
 
 ## Note of 2026-11-22: experience-sampling studies of flow ([LEAD-054](../leads.d/LEAD-054.md)), background
 

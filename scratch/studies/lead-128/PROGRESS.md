@@ -75,3 +75,21 @@ Downloads to scratchpad lead-128/osf_raw (NOT committed).
 
 Next: read methods / OSF R script to get SV definition and titration
 direction right, then fit softmax EVC cost model + model comparison.
+
+## Done (fit + filing)
+
+- Downloaded 122 ED files (OSF vnj8x, CC-BY) to scratchpad osf_raw (~1MB,
+  not committed). License + public confirmed via OSF API.
+- Wrote + tested (6 passing) evc_fit.py: softmax V=r-c(n), pooled model
+  comparison vs reward-only, per-participant linear cost, group SV.
+- Results (fit_result.json): group SV falls 0.92->0.60 with n-back;
+  per-participant median k=0.26 EUR/level, 75% k>0 (effort-averse); pooled
+  cost model beats null LR chi2(3)=10.5 p=0.015, AIC favours it (BIC favours
+  null due to heterogeneity).
+- Filed: CASE-tmprt0hl (executed-study, Proposed), CLAIM-tmpwma3v (Proposed,
+  empirical, corroborates CLAIM-358 & CLAIM-162, grounds the case). Dated
+  notes on LEAD-128, THEORY-070, CLAIM-358, CLAIM-162. Changelog lead-128.md.
+  No status/stage/title changed; promotion of THEORY-070 left to owner.
+- Pre-commit checks pass (yaml, no code in title, H1 matches, excuses used).
+
+## Complete — ready to report.
