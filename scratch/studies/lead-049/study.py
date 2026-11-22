@@ -140,9 +140,24 @@ def part2_one(args):
 
 def part2():
     jobs = [(k, w, s) for k in (2, 3, 4, 5, 6) for w in (0.08, 0.12, 0.2) for s in range(3)]
-    with Pool(4) as p:
-        recs = p.map(part2_one, jobs)
-    dump("part2_runs.json", recs)
+    # append-only, resumable: one JSON line per finished run
+    os.makedirs(OUT, exist_ok=True)
+    path = os.path.join(OUT, "part2_runs.jsonl")
+    done = {}
+    if os.path.exists(path):
+        with open(path) as fh:
+            for line in fh:
+                if line.strip():
+                    rec = json.loads(line)
+                    done[(rec["k"], rec["w"], rec["seed"])] = rec
+    todo = [j for j in jobs if j not in done]
+    with Pool(4) as p, open(path, "a") as fh:
+        for rec in p.imap_unordered(part2_one, todo):
+            fh.write(json.dumps(rec) + "\n")
+            fh.flush()
+            done[(rec["k"], rec["w"], rec["seed"])] = rec
+            print("part2 done", rec["k"], rec["w"], rec["seed"], flush=True)
+    recs = [done[j] for j in jobs]
     rems = [r_ for rec in recs for r_ in rec["removals"]]
     summary = dict(
         n_runs=len(recs),
