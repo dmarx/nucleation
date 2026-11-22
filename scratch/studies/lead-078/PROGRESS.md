@@ -67,10 +67,16 @@
     difference at any time; no effects at follow-up; no mediation
     analysis; not preregistered.
 
+- Filed: LITs (Khan LIT-tmpgi12m, Schuhr LIT-tmpj7m62, Kirby
+  LIT-tmpk7imr Unavailable, Hofmeyr LIT-tmpqbo3w Unavailable); LIT-916
+  Active; NOTEs tmpq33n0, tmpjem53, tmp1yxz6; THEORYs tmp353ez, tmpx5wbu,
+  tmpbidvo; ARG-tmpc8jqe (Rejected); LIT-916 dropped from six excuses;
+  dated notes on THEORY-067, CLAIM-169, CLAIM-156, CLAIM-162, CLAIM-159,
+  CLAIM-198, QUESTION-034, LEAD-078; changelog fragment lead-078.md.
+
 ## Next
 
-- Read Khan and Dhar, Schuhr, Ge et al.; register Kirby and Guastello,
-  Hofmeyr et al. 2011, Khan and Dhar, Schuhr.
+- Report to the lead. No pull request (the lead opens it).
 
 ## Choices made
 
@@ -79,3 +85,8 @@
   for (B), as the only study found that measures discounting and response
   inhibition before and after practice, and because the record cites it,
   unread, as the test that tells CLAIM-156's routes apart.
+- No ARG for Khan and Dhar's bearing on THEORY-067: an ARG concludes a
+  CLAIM or TERM, and the judgement (promote_when (1) met in part) is
+  stated in the dated note on THEORY-067 instead; no edge, since CLAIM-169
+  disclaims the mechanism's truth.
+- ARG-tmpc8jqe filed Rejected (read-and-file step 9: "X does not show Y").

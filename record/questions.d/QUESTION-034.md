@@ -25,6 +25,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-156 CLAIM-162 CLAIM-163 CLAIM-169 — Proposed; the proposed answers and the open objection, cited as open -->
 <!-- inactive-ok-file: THEORY-043 THEORY-051 THEORY-056 THEORY-067 THEORY-076 — Proposed; the readings the question is posed from, with their standing as it is -->
 <!-- inactive-ok-file: LIT-591 LIT-906 LIT-910 LIT-912 LIT-914 — Unavailable, unread; named as what the record holds and has not read -->
+<!-- inactive-ok-file: THEORY-tmp353ez ARG-tmpc8jqe — new on 2026-11-22; the LEAD-078 readings cited in the dated note -->
 
 # QUESTION-034: If an agent is a population of interests, what makes it act as one: bargaining among the interests, a change in which of them may act, or agreement among them?
 
@@ -87,3 +88,15 @@ self-control: every route does that.
 ## Note of 2026-10-12: a typed partial answer
 
 [THEORY-044](../theory.d/THEORY-044.md) now carries an `answered_by` edge. In ACT's self-as-context perspective, content and process are both contacted but "neither obtain absolute control" over the decision. That supports this question's second option, a change in which interest may act. It is the reading [CLAIM-156](../claims.d/CLAIM-156.md) already relies on.
+
+## Note of 2026-11-22: LEAD-078, bargaining needs a perceived precedent
+
+Khan and Dhar (LIT-tmpgi12m, THEORY-tmp353ez), read for LEAD-078, bear
+on the bargaining route: a recurring choice that is not seen as a
+precedent lowers self-control now, through optimism about the next
+choice, and an asserted precedent restores it to about the isolated
+level. If interests act as one by bargaining, the precedent has to be
+perceived, and a series alone can divide them further. Ge et al.
+(LIT-916, read) bear on the route of a change in which interests may act
+only weakly: faster responses after mindfulness training with discounting
+unchanged, not shown to be self-control (ARG-tmpc8jqe).

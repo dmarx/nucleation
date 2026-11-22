@@ -75,6 +75,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-591 — Unavailable; IFS, named as the contrast with ACT's self as context, not leaned on -->
 <!-- inactive-ok-file: LIT-906 — Unavailable, unread beyond abstract summaries; the direct evidence, cited as the weakest footing and as the fork the claim turns on -->
 <!-- inactive-ok-file: THEORY-044 THEORY-051 THEORY-064 THEORY-067 — Proposed; the readings this conjecture sets its mechanism beside, with their weak standing stated -->
+<!-- inactive-ok-file: THEORY-tmpbidvo ARG-tmpc8jqe — new on 2026-11-22; the LEAD-078 reading of Ge et al. and the judgement that it does not show this claim's route -->
 
 # CLAIM-156: Mindfulness integrates a population of interests by changing which of them may act, and not only by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and that step needs no change in the discount curves
 
@@ -195,3 +196,32 @@ No status, title or warrant changes.
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after Metzinger's [LIT-1941](../literature.d/LIT-1941.md) and [LIT-1942](../literature.d/LIT-1942.md) were read on 2026-11-01. They describe meditation as cultivating a veto over trains of thought and measure neither discounting nor choice under temptation. The wait of the note of 2026-10-30 stands: [CLAIM-169](CLAIM-169.md) is Proposed until [THEORY-067](../theory.d/THEORY-067.md)'s bundling by self-prediction is tested, and no study read asks whether discounting mediates a change in self-control after practice.
+
+## Note of 2026-11-22: LEAD-078, Ge et al. read; no mediation study found
+
+- **Ge et al. (LIT-916), now read (NOTE-tmp1yxz6, THEORY-tmpbidvo).**
+  A week of monitor-and-acceptance training shortened Stroop and Go/No-go
+  reaction times at post-test, with accuracy above 95% and unchanged, and
+  left delay discounting unchanged in every arm; nothing lasted two weeks.
+  The dissociation is the pattern this claim predicts, but the outcomes
+  that moved are response speeds, not withheld responses or choice under
+  temptation, and no mediation was tested. ARG-tmpc8jqe holds that the
+  trial does not show this claim's route (Rejected); it takes no edge.
+  The body's summary of it ("some impulsive behaviours reduced, discounting
+  not improved") is accurate to the abstract.
+- **The search for a mediation test.** LEAD-078's search
+  (scratch/studies/lead-078/search.md, queries 3, 4, 7, 8) found no
+  intervention study that measures discounting and a self-control outcome
+  before and after mindfulness practice and tests discounting as a
+  mediator. The nearest are a cross-sectional study with self-reported
+  delay of gratification between trait mindfulness facets and substance
+  use, mediation studies of Mindfulness-Oriented Recovery Enhancement
+  with other mediators, and trials that measure discounting alone (a
+  mindful-eating trial, Shead et al. 2020, Elices et al. 2016, Yao et al.
+  2017), none registered here. The gap the note of 2026-11-06 names
+  stands.
+- **The premise.** CLAIM-169 still waits on THEORY-067's mechanism; the
+  bundling readings of LEAD-078 do not release it (dated note on
+  CLAIM-169 of the same day).
+
+No status, title or warrant change.

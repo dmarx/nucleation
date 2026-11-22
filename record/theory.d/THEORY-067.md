@@ -57,6 +57,7 @@ corroborates:
 <!-- inactive-ok-file: LIT-583 LIT-573 — Unavailable; the book behind the précis and Schelling's 1984 lecture, named as unread originals, not leaned on -->
 <!-- inactive-ok-file: THEORY-056 THEORY-029 THEORY-047 — Proposed; accounts this one bears on, with the bearing stated and nothing resting on them -->
 <!-- inactive-ok-file: THEORY-070 THEORY-062 — new in this batch; accounts this one is set against or beside -->
+<!-- inactive-ok-file: THEORY-tmp353ez THEORY-tmpx5wbu LIT-tmpk7imr LIT-tmpqbo3w — new or Unavailable; the LEAD-078 readings and the two works it registered unread, cited in the dated note -->
 
 # THEORY-067: Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one
 
@@ -234,3 +235,56 @@ and rats. Those bundles are imposed, a choice made for a whole series, which
 `promote_when` (1) sets aside. [CLAIM-159](../claims.d/CLAIM-159.md) and [CLAIM-344](../claims.d/CLAIM-344.md) went Active on
 2026-10-29, [CLAIM-159](../claims.d/CLAIM-159.md) on [THEORY-1117](THEORY-1117.md) and [CLAIM-344](../claims.d/CLAIM-344.md) with this reading as
 corroboration, and neither bears on whether the mechanism holds.
+
+## Note of 2026-11-22: LEAD-078, bundling by self-prediction
+
+LEAD-078 searched for evidence on `promote_when` (1): changing only
+whether a single choice is perceived as a precedent for later ones, with
+the rewards and the choice set unchanged
+(scratch/studies/lead-078/search.md). Two works were read and two
+registered unread.
+
+- **Khan and Dhar (LIT-tmpgi12m, THEORY-tmp353ez), read: meets (1) in
+  part.** Knowing that the same choice recurs, with nothing said about how
+  the choices relate, *raised* the vice share (70-90% against 46.6-57.5%
+  in isolation) and the share taking smaller sooner money (64.5% against
+  37.1%), through optimism about the next choice and less anticipated
+  guilt. With Kirby and Guastello's instruction that the present choice is
+  "the best indicator of how they would choose next week", the vice share
+  fell from 90% to 53% (p. 286). That is a change in perceived precedent
+  alone, with rewards and choices fixed, moving choice toward the virtue:
+  the direction (1) asks for. It falls short in three ways. The precedent
+  is the experimenter's assertion, not the chooser's own prediction; the
+  shift returns choice to about the isolated rate (53% against 46.6%), not
+  beyond it; and the study is reported in one paragraph, with snacks, not
+  dated money.
+- **What it adds to the account.** A series that is not perceived as a
+  precedent lowers self-control: the present choice becomes the exception
+  the précis says short-range interests look for (NOTE-443, §6.1). So
+  the account needs the precedent to be perceived; the series alone is
+  not enough, and can cut the other way.
+- **Schuhr (LIT-tmpj7m62, THEORY-tmpx5wbu), read in part: bundling,
+  not self-prediction.** In a real-money experiment designed with Ainslie,
+  a free series of paired decisions, chosen at once, made first choices
+  more patient and raised the mixture weight on exponential discounting by
+  0.307 (p = 0.019), while forcing the decisions to match lowered it by
+  0.330. That corroborates bundling in humans without an imposed bundle.
+  It does not meet (1): the series is chosen in one moment, so nothing is
+  predicted about a later chooser, and the choice set grows.
+- **The two side by side.** When the later choices are made now, beside
+  the first, patience rises (Schuhr); when they are left to a later self
+  and nothing links them, optimism lowers it (Khan and Dhar), and an
+  asserted link restores it. That pattern is what the account predicts if
+  what matters is whether the present choice is taken to predict the
+  later ones. It is the assistant's reading across two studies, not a
+  result of either.
+- **Registered, unread.** Kirby and Guastello (LIT-tmpk7imr), the study
+  (1) names, and Hofmeyr, Ainslie, Charlton and Ross (LIT-tmpqbo3w), whose
+  suggested-series condition is the closest design with money found, are
+  both Unavailable: no lawful copy was found.
+
+No status changes. Promotion under (1) is the owner's call; on this
+evidence the assistant would not promote: the one direct manipulation of
+perceived precedent restores self-control to the isolated level and does
+not show the chooser's own prediction doing it. Conditions (2) and (3)
+were not searched by this lead.
