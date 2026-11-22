@@ -54,8 +54,8 @@ summary: >-
 
 ## What was done
 
-[CASE-187](CASE-187.md) left its architectures, tasks and margins to a preregistration.
-[LEAD-160](../leads.d/LEAD-160.md) asked for it to be run under matched competence. This is the
+CASE-187 left its architectures, tasks and margins to a preregistration.
+LEAD-160 asked for it to be run under matched competence. This is the
 smallest version that keeps all four of its tests, run on 2026-11-22. The
 code, its tests (12, passing), the per-item results and a digest are in
 `scratch/studies/lead-160/`; the README there gives each choice and why.
@@ -186,18 +186,18 @@ In this class, with matched goal competence:
   recovered fastest and localized its damage, at the price of greater
   first fragility to the same damage.
 
-These are the four readings [CASE-187](CASE-187.md) set out, each met once. For
-[QUESTION-362](../questions.d/QUESTION-362.md)'s rows it gives a worked instance of "recoverable is not
+These are the four readings CASE-187 set out, each met once. For
+QUESTION-362's rows it gives a worked instance of "recoverable is not
 available", and one of maintenance and corrigibility tied to a mechanism.
-It gives two findings filed as claims, [CLAIM-tmpq92r4](../claims.d/CLAIM-tmpq92r4.md) on query
-availability and [CLAIM-tmpo59pd](../claims.d/CLAIM-tmpo59pd.md) on the scope of an intervention.
+It gives two findings filed as claims, CLAIM-tmpq92r4 on query
+availability and CLAIM-tmpo59pd on the scope of an intervention.
 
 ## What it cannot show
 
 - **Scale and generality.** It uses tabular agents, one deterministic maze
   family and random-walk experience. Nothing here is about function
   approximation, partial observation or stochastic dynamics.
-- **Richens et al.'s theorem** ([CLAIM-513](../claims.d/CLAIM-513.md)) is not tested. Reading a
+- **Richens et al.'s theorem** (CLAIM-513) is not tested. Reading a
   next state out of P's values is the reach-goal shadow of their
   composite-goal extraction, and is trivial here.
 - **The budgets are a choice.** Each agent's own per-decision computation,
