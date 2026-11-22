@@ -68,7 +68,14 @@ couple), unfiled.
 - TE into members: A 0.15, C 0.11, C0 0.16, B 0.00 (e observed); 0 in all
   with e hidden.
 
+## Filed
+
+- CASE-tmprsqvj (executed-study, Proposed), CLAIM-tmp2jbb1 (thesis,
+  demonstrated, Proposed).
+- Dated notes: QUESTION-115, QUESTION-116, CLAIM-157, CLAIM-194, CASE-101,
+  LEAD-026 (version bumped with a history line, as the record does).
+- Changelog fragment record/changelog.d/lead-026.md.
+
 ## Next
 
-- File CASE (executed-study), CLAIM, notes on QUESTION-115, QUESTION-116,
-  CLAIM-157, CLAIM-194, CASE-101, LEAD-026; changelog fragment.
+- Nothing on the branch. Report; the lead opens the pull request.
