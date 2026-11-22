@@ -46,6 +46,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the evidential reading of probe agreement, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpwb6dg CLAIM-tmprbieu — Proposed; the graded form named in the note of 2026-11-22 -->
 
 # TERM-069: observational equivalence, under a probe family: two models, states or distributions agreeing on the outcome law of every probe in a declared admissible family; coarser than identity unless the family is rich enough, and, when probes are run one at a time, weaker on their marginals than on the joint law across them
 
@@ -102,3 +103,19 @@ Special cases the record already holds:
   interventions. Two systems equivalent under every passive probe can
   respond differently to an intervention on their mechanism
   ([CASE-125](../cases.d/CASE-125.md), [CLAIM-407](../claims.d/CLAIM-407.md)).
+
+## Note of 2026-11-22: a graded form, from the exchange "Explain First Contact RL"
+
+An extension, not a revision. For a family F of real-valued tests and
+measures μ, ν on the space they are defined on,
+d_F(μ, ν) = sup_{f∈F} |∫f dμ − ∫f dν| is a pseudometric whose zero set
+is equivalence under F; it is a metric exactly when F separates measures
+(Wasserstein-1 for 1-Lipschitz tests, MMD for a characteristic kernel's
+unit ball). A26 of the exchange proposed it, after the owner's "measure in
+the measure theoretic sense. a metric." (CLAIM-tmpwb6dg, Proposed). With
+interventions added, sup over q and f of the disagreement under each
+intervention, it gives a distance for the interventional equivalence this
+term's "Not interventional equivalence" excludes. With linear tests of a
+representation φ it is the distance between mean representations
+(CLAIM-tmprbieu, Proposed), so equivalence under linear probes of
+distributions is equality of means.
