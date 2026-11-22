@@ -20,12 +20,12 @@ line:
 - organizational-normativity
 - distributed-agency
 summary: >-
-  For LEAD-097. The inference CLAIM-614 lacked, from a constructed pair to
+  For [LEAD-097](../leads.d/LEAD-097.md). The inference [CLAIM-614](../claims.d/CLAIM-614.md) lacked, from a constructed pair to
   the conclusion that reproducing the projections that make a harm
   non-legible wrongs those affected beyond the harm's continuation. Unlike
-  ARG-055, which varies whether a stipulated duty of review is kept, it
+  [ARG-055](ARG-055.md), which varies whether a stipulated duty of review is kept, it
   varies the projection itself, and it matches expected harm as well as
-  actual harm, closing the risk reading ARG-055's critical questions left
+  actual harm, closing the risk reading [ARG-055](ARG-055.md)'s critical questions left
   open. It needs a premise of its own: that those affected have standing to
   contest the harm with the organization. Proposed. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
@@ -43,7 +43,7 @@ regulator, testing on its own schedule and not on complaints, found the
 contamination and triggered a statutory compensation scheme that pays
 every affected resident the same sum whatever either utility does. Each
 utility's rules give residents standing to lodge a complaint about harm
-to health and to have it heard: consultative standing in CLAIM-723's
+to health and to have it heard: consultative standing in [CLAIM-723](../claims.d/CLAIM-723.md)'s
 sense, no veto.
 
 - **O₁** records complaints in a taxonomy with a category for
@@ -54,7 +54,7 @@ sense, no veto.
   illness with pre-existing conditions, so the same complaint is filed as
   a non-incident. O₂'s managers are rewarded on low incident counts, the
   low counts are read as evidence the taxonomy works, and the taxonomy is
-  kept at every review (CLAIM-445's loop, CLAIM-624's tiers 2 and 3). No
+  kept at every review ([CLAIM-445](../claims.d/CLAIM-445.md)'s loop, [CLAIM-624](../claims.d/CLAIM-624.md)'s tiers 2 and 3). No
   one at O₂ aims at the residents; the taxonomy was inherited, and a
   better one (O₁'s) is available at little cost.
 
@@ -66,34 +66,34 @@ sense, no veto.
    illness is over and the remedy is fixed by the regulator. The
    expected continuation, judged before the complaints are lodged, is
    also the same, because no outcome the residents care about passes
-   through either utility's complaint process. This is what ARG-055 lacked:
+   through either utility's complaint process. This is what [ARG-055](ARG-055.md) lacked:
    there, "B's missing procedure would raise the risk of later harm", and
    the stipulation that no further harm occurred had to carry the match.
    Here the match holds ex ante.
 3. D differs. In O₁ the residents' complaints register: they are
-   recognized, heard and answered, which are CLAIM-523's legibility and
-   CLAIM-403's first rungs. In O₂ the same complaints arrive and have no
+   recognized, heard and answered, which are [CLAIM-523](../claims.d/CLAIM-523.md)'s legibility and
+   [CLAIM-403](../claims.d/CLAIM-403.md)'s first rungs. In O₂ the same complaints arrive and have no
    category to arrive in. O₂'s projection merges states the residents'
-   claims distinguish (CLAIM-348's h(w₀) = h(w₁) while the claims differ),
+   claims distinguish ([CLAIM-348](../claims.d/CLAIM-348.md)'s h(w₀) = h(w₁) while the claims differ),
    so their standing to be heard is defeated, though the hearing would
    have changed nothing.
 4. The record already judges a defeat of standing to contest a wrong when
-   contest would not have changed the outcome: CLAIM-723 ("even where the
+   contest would not have changed the outcome: [CLAIM-723](../claims.d/CLAIM-723.md) ("even where the
    objection would have failed"), and Fuentes v. Shevin, "The right to be
    heard does not depend upon an advance showing that one will surely
-   prevail at the hearing" (THEORY-1972). Nothing in the construction
+   prevail at the hearing" ([THEORY-1972](../theory.d/THEORY-1972.md)). Nothing in the construction
    gives a reason to judge otherwise when the defeat works by
    representation rather than by timing.
 5. So O₂ wrongs the residents in a way O₁ does not, and since H, C and
    expected C are matched, that wrong is not the harm or its continuation.
-   That is CLAIM-tmpq1213, and the separation CLAIM-614's defeater asks for.
+   That is [CLAIM-tmpq1213](../claims.d/CLAIM-tmpq1213.md), and the separation [CLAIM-614](../claims.d/CLAIM-614.md)'s defeater asks for.
 
-Add reproduction as ARG-055 does: an O₂′ whose taxonomy was imposed once by
+Add reproduction as [ARG-055](ARG-055.md) does: an O₂′ whose taxonomy was imposed once by
 a vendor and corrected at the first review, beside O₂, which keeps it. Both
 defeat the standing of the residents who complained before the correction;
 only O₂ keeps defeating it, and only in O₂ is the defeat part of what the
-organization's self-maintenance keeps going (TERM-070). That is what makes
-the wrong O₂'s, as CLAIM-614 says ("attributable to it"). It does not show
+organization's self-maintenance keeps going ([TERM-070](../terms.d/TERM-070.md)). That is what makes
+the wrong O₂'s, as [CLAIM-614](../claims.d/CLAIM-614.md) says ("attributable to it"). It does not show
 that reproduction makes the wrong larger.
 
 ## Critical questions
@@ -103,24 +103,24 @@ that reproduction makes the wrong larger.
   complaint taxonomies kept because they produce good numbers are all
   ordinary. Nothing requires O₂ to know what its taxonomy hides, and
   residents can know exactly what happened to them while their complaints
-  register as nothing, which is A's qualification on CLAIM-614.
+  register as nothing, which is A's qualification on [CLAIM-614](../claims.d/CLAIM-614.md).
 - **Does it separate the very things the conclusion says can come
   apart?** It separates D from H, from C and from expected C, which is
-  what CLAIM-614's defeater and CLAIM-tmpvv7fw's premise 2 need. It does
+  what [CLAIM-614](../claims.d/CLAIM-614.md)'s defeater and [CLAIM-tmpvv7fw](../claims.d/CLAIM-tmpvv7fw.md)'s premise 2 need. It does
   not separate D from every setback: a reader who counts being unheard as
-  a harm of its own will say D is a second harm. That leaves CLAIM-614
+  a harm of its own will say D is a second harm. That leaves [CLAIM-614](../claims.d/CLAIM-614.md)
   standing, since D is still not the first harm's continuation; it is
-  answered in CLAIM-tmpq1213's section "If D is a harm".
-- **Does it separate D from a stipulated duty, as ARG-055 does not?**
+  answered in [CLAIM-tmpq1213](../claims.d/CLAIM-tmpq1213.md)'s section "If D is a harm".
+- **Does it separate D from a stipulated duty, as [ARG-055](ARG-055.md) does not?**
   Partly. It needs no duty on the utilities to maintain means of review in
   general. It needs the residents' standing, which is as much a premise as
-  ARG-055's duty, though on the claimant's side and in a weaker form,
-  consultative only. The argument therefore supports CLAIM-614 where those
+  [ARG-055](ARG-055.md)'s duty, though on the claimant's side and in a weaker form,
+  consultative only. The argument therefore supports [CLAIM-614](../claims.d/CLAIM-614.md) where those
   affected have such standing, and is silent where they have none.
 - **Does premise 4 carry over from timing to representation?** This is the
-  step most open to objection. CLAIM-723's wrong is foreclosure: the act is
+  step most open to objection. [CLAIM-723](../claims.d/CLAIM-723.md)'s wrong is foreclosure: the act is
   made irreversible before the objection can arrive. In O₂ the objection
-  arrives and is filed as a non-incident. The two share what CLAIM-723's
+  arrives and is filed as a non-incident. The two share what [CLAIM-723](../claims.d/CLAIM-723.md)'s
   A59 called the wrong: "acting in a way that defeats another party's
   legitimate authority to determine, constrain, or contest what happens to
   them". A difference that would block the carry-over would be that a
@@ -134,12 +134,12 @@ harm's continuation, actual and expected, given the residents' standing.
 ## What it does not show
 
 - That any real organization's affected parties have such standing
-  (QUESTION-129).
+  ([QUESTION-129](../questions.d/QUESTION-129.md)).
 - That reproducing an unavoidable projection wrongs them: O₁ is O₂'s
   feasible alternative, and without one the case says nothing.
 - Who bears the wrong, the arrangement's controllers or an institution
-  that is an agent (CLAIM-876, CLAIM-877).
-- CLAIM-624's duty. The argument concludes CLAIM-614 and CLAIM-tmpq1213.
+  that is an agent ([CLAIM-876](../claims.d/CLAIM-876.md), [CLAIM-877](../claims.d/CLAIM-877.md)).
+- [CLAIM-624](../claims.d/CLAIM-624.md)'s duty. The argument concludes [CLAIM-614](../claims.d/CLAIM-614.md) and [CLAIM-tmpq1213](../claims.d/CLAIM-tmpq1213.md).
   If the owner takes the residents' standing and a duty of answerability
-  as one relation seen from two ends, it concludes CLAIM-624 as well, and
-  CLAIM-tmpq1213 restates it; that choice is set out in CLAIM-tmpq1213.
+  as one relation seen from two ends, it concludes [CLAIM-624](../claims.d/CLAIM-624.md) as well, and
+  [CLAIM-tmpq1213](../claims.d/CLAIM-tmpq1213.md) restates it; that choice is set out in [CLAIM-tmpq1213](../claims.d/CLAIM-tmpq1213.md).

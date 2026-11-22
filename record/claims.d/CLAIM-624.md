@@ -470,19 +470,19 @@ No status changes.
 
 For [LEAD-131](../leads.d/LEAD-131.md), on the curation entry of 2026-11-15 (044148), which found that whether this claim's duty falls on an arrangement's controllers is not on the record. The claim declares no sense of [TERM-074](../terms.d/TERM-074.md) and uses "an organization" both for what is reproduced and for who owes. Senses 2 and 4 are set aside on its own text: sense 2 is the reproducing the verdict is about, and the claim covers reproduction maintained from outside ("What it does not say", [CLAIM-522](CLAIM-522.md)), so closure is not required. Two readings remain, filed as alternatives. [CLAIM-876](CLAIM-876.md), reading (a), the assistant's lean: the organization is a sense-1 arrangement, the ground and object of the verdict; the duty falls on the agents or roles that control the reproduction, inside or outside the boundary, each as far as its control reaches, and where no one controls it the duty is breached by no one. [CLAIM-877](CLAIM-877.md), reading (b): the organization is a sense-3 institution that is an agent, the duty is its own, and arrangements no such institution governs fall outside the claim. Declaring a sense in this claim, or revising its wording to name the bearer, is the owner's. No status change.
 
-## Note of 2026-11-22: the claimant's side of the same wrong, for LEAD-097
-<!-- inactive-ok-block: CLAIM-tmpq1213 CLAIM-tmpvv7fw ARG-tmpl0o7n — new; filed for LEAD-097 -->
+## Note of 2026-11-22: the claimant's side of the same wrong, for [LEAD-097](../leads.d/LEAD-097.md)
+<!-- inactive-ok-block: CLAIM-tmpq1213 ARG-tmpl0o7n — new; filed for LEAD-097 -->
 
-CLAIM-tmpq1213 states the wrong beyond the harm from the side of those
+[CLAIM-tmpq1213](CLAIM-tmpq1213.md) states the wrong beyond the harm from the side of those
 affected: the defeat of their standing to contest the harm with the
 organization, which this claim states from the duty's side, as a breach of
-answerability. It is filed as complementing this claim. ARG-tmpl0o7n argues
+answerability. It is filed as complementing this claim. [ARG-tmpl0o7n](../arguments.d/ARG-tmpl0o7n.md) argues
 it from a construction that matches expected harm as well as actual harm,
-which closes the risk reading ARG-055's critical questions left open ("B's
+which closes the risk reading [ARG-055](../arguments.d/ARG-055.md)'s critical questions left open ("B's
 missing procedure would raise the risk of later harm"), and needs the
 claimants' standing in place of a stipulated duty of review. The argument
-concludes CLAIM-614 and CLAIM-tmpq1213, not this claim. If the owner takes
+concludes [CLAIM-614](CLAIM-614.md) and [CLAIM-tmpq1213](CLAIM-tmpq1213.md), not this claim. If the owner takes
 standing and this claim's duty as one relation seen from two ends,
-CLAIM-tmpq1213 restates this claim, and ARG-tmpl0o7n should conclude this
+[CLAIM-tmpq1213](CLAIM-tmpq1213.md) restates this claim, and [ARG-tmpl0o7n](../arguments.d/ARG-tmpl0o7n.md) should conclude this
 claim's layer 6 (non-reduction) as well; that choice is set out in
-CLAIM-tmpq1213. No status change.
+[CLAIM-tmpq1213](CLAIM-tmpq1213.md). No status change.
