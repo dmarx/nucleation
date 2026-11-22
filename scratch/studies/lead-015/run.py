@@ -196,7 +196,17 @@ def e5():
                             spectral_radius=M.spectral_radius(M.jacobian_numeric(Q)),
                             from_plus_0_9=settle(Q, [0.9] * 4, T=400000).tolist(),
                             from_minus_0_9=settle(Q, [-0.9] * 4, T=400000).tolist()))
-    res["multiplicative"] = dict(above=lam,
+    # informational independence (theta = 0) with resources as capacity only
+    info0 = []
+    for om in (2.0, 5.0, 10.0):
+        for ps in (1.0, 2.0):
+            Q = M.params(dict(g=4.0), dict(g=4.0), theta=0.0, psi=ps, omega=om,
+                         resource_form="multiplicative")
+            info0.append(dict(omega=om, psi=ps,
+                              spectral_radius=M.spectral_radius(M.jacobian_numeric(Q)),
+                              from_plus_0_9=settle(Q, [0.9] * 4, T=400000).tolist(),
+                              from_minus_0_9=settle(Q, [-0.9] * 4, T=400000).tolist()))
+    res["multiplicative"] = dict(above=lam, theta0_capacity_only=info0,
                                  below_omega2_spectral_radius=M.spectral_radius(M.jacobian_numeric(Qb)),
                                  below_omega2_escapes=escapes(Qb, rng),
                                  far_starts=far)
