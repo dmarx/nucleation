@@ -17,30 +17,30 @@ line:
 - formal-apparatus
 - record-as-apparatus
 summary: >-
-  Whether the reading of Dunfield and Krishnaswami (THEORY-tmptsz1u, in NOTE-tmpbrc1z)
-  supports CLAIM-tmpnookt's correspondence between bidirectional typing
+  Whether the reading of Dunfield and Krishnaswami ([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md))
+  supports [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s correspondence between bidirectional typing
   and direction of fit. It supports it for what the type is taken as: a
   fact when synthesized, a requirement when checked, in the authors' own
   words. It does not support reading checking as an update: both modes
   are tests on a term that stays fixed, and the claim's placing of the
   performative half in elaboration or coercion is untouched by the
-  survey and waits on LEAD-tmp7mkn0. The objection that mode is not direction of
-  fit is held in CLAIM-tmpugw2q. The wording is the assistant's (Claude, in this
+  survey and waits on [LEAD-tmp7mkn0](../leads.d/LEAD-tmp7mkn0.md). The objection that mode is not direction of
+  fit is held in [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpnookt TERM-tmp8b1yl — Proposed; the claim argued about and the term it is stated in -->
+<!-- inactive-ok-file: CLAIM-tmpnookt — Proposed; the claim argued about and the term it is stated in -->
 <!-- inactive-ok-file: THEORY-tmptsz1u CLAIM-tmpugw2q — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # ARG-tmpcpo8g: Dunfield and Krishnaswami's survey, as evidence, shows synthesis reading a type off a term as a fact and checking holding a term to a type given as a requirement, which supports reading the two as the two directions of fit, and shows that neither moves the term, so that the update that moves a term to fit lies outside checking, where the survey does not go
 
 ## The inference
 
-CLAIM-tmpnookt says that bidirectional typing splits typing into
+[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) says that bidirectional typing splits typing into
 "inference, which reads a type off a term (the type is written to fit the
 term: word to world, a descriptor), and checking, which holds a term to a
 type given in advance (world to word, a requirement)", that "Checking only
 accepts or rejects", and that the update that moves the term to fit "is
-elaboration or coercion". THEORY-tmptsz1u reports:
+elaboration or coercion". [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md) reports:
 
 - the synthesized type is a "fact" and the checked type a "requirement",
   joined by a rule that "verifies that a fact … is consistent with a
@@ -67,7 +67,7 @@ elaboration or coercion". THEORY-tmptsz1u reports:
   with no direction of fit in it. The survey leans that way itself
   ("the essence of bidirectional typing is the management of information
   flow", §8.4) and shows modes reversed and combined with the term's
-  standing unchanged (§6.4, §6.5). That rival is held as CLAIM-tmpugw2q. The
+  standing unchanged (§6.4, §6.5). That rival is held as [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md). The
   survey does not decide between them: in the standard recipe the two
   readings coincide.
 - **Does the measure measure what it is said to?** The survey describes
@@ -79,7 +79,7 @@ elaboration or coercion". THEORY-tmptsz1u reports:
 
 ## Verdict
 
-Supports, narrowed, the bidirectional bullet of CLAIM-tmpnookt: synthesis
+Supports, narrowed, the bidirectional bullet of [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md): synthesis
 and checking correspond to description and requirement in what the type
 is taken as, in the standard recipe. It does not support reading the
 split as informative against performative update, and leaves the

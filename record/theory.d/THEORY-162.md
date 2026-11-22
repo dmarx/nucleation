@@ -131,8 +131,8 @@ corroborated_by; it does not bear on the rival.
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 
 A parallel, no relation written, and nothing toward promote_when. The
-checking judgment of bidirectional typing (THEORY-tmptsz1u, read in NOTE-tmpbrc1z) is a
+checking judgment of bidirectional typing ([THEORY-tmptsz1u](THEORY-tmptsz1u.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) is a
 test in Veltman's sense: it passes or fails against the term it meets and
 changes nothing (§1, §9.1). Where the record joins Krifka's performative
-update to typing (CLAIM-tmpnookt), the survey supplies no index-changing
+update to typing ([CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)), the survey supplies no index-changing
 counterpart; the nearest is the programmer's annotation (§3.2).

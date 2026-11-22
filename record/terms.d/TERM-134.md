@@ -86,9 +86,9 @@ convention, a reviewer's habit).
 
 A parallel, no relation written. A type checker is a predicate read as a
 test in this term's sense: Coquand's checkExp "returns a boolean" (§9.1
-of their survey of bidirectional typing; THEORY-tmptsz1u, read in NOTE-tmpbrc1z), and
+of their survey of bidirectional typing; [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)), and
 in both of the survey's modes the term is an input that the judgment does
 not change (§1). The survey's checked type, which it calls "a
 requirement" (§4.4), can be passed or failed without moving anything:
-CLAIM-tmpugw2q argues that this separates requiring from failing, which this
+[CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md) argues that this separates requiring from failing, which this
 term's descriptor and imposition join.

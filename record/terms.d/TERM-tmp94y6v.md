@@ -65,8 +65,8 @@ specification of requirements of the second ([CLAIM-tmp5rv9x](../claims.d/CLAIM-
 
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 
-Two parallels from their survey of bidirectional typing (THEORY-tmptsz1u, read
-in NOTE-tmpbrc1z); analogies, no relation written. Polikarpova's strengthening
+Two parallels from their survey of bidirectional typing ([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read
+in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)); analogies, no relation written. Polikarpova's strengthening
 checks a variable against a required type and returns the refinement
 {b | ν = x}, a type written from the variable itself and stronger than the
 requirement (§6.4): a **description** in this term's sense, read off one

@@ -18,12 +18,12 @@ source:
 corroborates:
 - CLAIM-tmpnookt
 summary: >-
-  From the reading of LIT-tmpqagik in NOTE-tmpbrc1z, for LEAD-tmp3xevc. The modes are
+  From the reading of [LIT-tmpqagik](../literature.d/LIT-tmpqagik.md) in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md), for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). The modes are
   information flow (§1, §3.1, §8.4); the recipe assigns them (§4); the
   change of direction is a test, subsumption, of the synthesized "fact"
   against the checked "requirement" (§4.4). It corroborates the
-  fact-and-requirement reading of the two modes in CLAIM-tmpnookt, which
-  ARG-tmpcpo8g narrows. Proposed until its promote_when is met.
+  fact-and-requirement reading of the two modes in [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md), which
+  [ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md) narrows. Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: CLAIM-tmpnookt — Proposed; the claim this reading bears on -->
 <!-- inactive-ok-file: ARG-tmpcpo8g — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Dunfield and Krishnaswami (2021), LIT-tmpqagik, read in NOTE-tmpbrc1z.
+Dunfield and Krishnaswami (2021), [LIT-tmpqagik](../literature.d/LIT-tmpqagik.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md).
 
 ## What was actually shown
 

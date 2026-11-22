@@ -81,8 +81,8 @@ imposes conditions on its object before it describes it.
 A parallel, no relation written. SML-CIDRE chose bidirectional typing
 over inference because "type inference finds all behaviours, not only the
 intended behaviours", while annotations "force programmers to write down
-the behaviours they intend" (§9.1 of their survey; THEORY-tmptsz1u, read in
-NOTE-tmpbrc1z). Inference describes what a program does; annotation requires
+the behaviours they intend" (§9.1 of their survey; [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read in
+[NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)). Inference describes what a program does; annotation requires
 what it should do, the claim's inquiry and engineering inside one type
 checker. The rewriting of a requirement into a description has no
 counterpart there: a failed check is repaired in the program, not the

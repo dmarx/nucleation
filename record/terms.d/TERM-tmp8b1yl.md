@@ -58,7 +58,7 @@ can ([CLAIM-tmp5rv9x](../claims.d/CLAIM-tmp5rv9x.md)).
 
 A qualification of the sentence "Which direction a test has is settled
 by the thing as it stands when the test is applied". Bidirectional typing
-(THEORY-tmptsz1u, read in NOTE-tmpbrc1z) separates three things this definition joins:
+([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) separates three things this definition joins:
 
 - **where the type comes from**, its mode: given as input (checking) or
   computed from the term (synthesis) (§1);
@@ -68,7 +68,7 @@ by the thing as it stands when the test is applied". Bidirectional typing
 - **whether the term passes**, which does not change either.
 
 A requirement the term already meets is world to word by Searle's
-reading and a descriptor by this term's. CLAIM-tmpugw2q files the objection;
+reading and a descriptor by this term's. [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md) files the objection;
 whether the term should say which reading it means is the owner's call.
 The mode distinction parallels, and does not replace, this term's two
 directions: the survey's modes can be reversed without changing who must

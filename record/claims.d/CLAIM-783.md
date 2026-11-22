@@ -154,8 +154,8 @@ origin is feasible:
 
 A parallel to part 6, no relation written. With intersection types a
 term that has type A₁ and type A₂ has A₁ ∧ A₂, and synthesizes all three
-(§4.6 of their survey of bidirectional typing; THEORY-tmptsz1u, read in
-NOTE-tmpbrc1z): the term witnesses that the types it already has are jointly
+(§4.6 of their survey of bidirectional typing; [THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md), read in
+[NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)): the term witnesses that the types it already has are jointly
 inhabited, as an entry witnesses its descriptors. The survey also reads
 subtyping as implication, so a type a term synthesizes can only be
 tested against weaker ones it entails (§4.6), which is part 1's

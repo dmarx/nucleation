@@ -77,12 +77,12 @@ imposition fits the entry to the predicate (world to word).
 
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 
-A qualification, from a contrast case. In bidirectional typing (THEORY-tmptsz1u,
-read in NOTE-tmpbrc1z) checking a term against a type given is a requirement in
+A qualification, from a contrast case. In bidirectional typing ([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md),
+read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) checking a term against a type given is a requirement in
 the authors' word (§4.4) and a test that moves nothing whether the term
 passes or fails (§1, §9.1). By this claim's criterion a requirement the
 term already meets is a descriptor; by Searle's it is still world to
 word. So the closing clause, "the record's two kinds of predicate are the
 two directions of fit", holds for enforced predicates and not for a
-requirement already met. CLAIM-tmpugw2q files the objection. The two
+requirement already met. [CLAIM-tmpugw2q](CLAIM-tmpugw2q.md) files the objection. The two
 identifications with Krifka's updates are untouched.

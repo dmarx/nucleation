@@ -14,8 +14,8 @@ line:
 advances:
 - CLAIM-tmpnookt
 summary: >-
-  Filed from the reading of Dunfield and Krishnaswami (NOTE-tmpbrc1z) for
-  LEAD-tmp3xevc. CLAIM-tmpnookt places the performative half of typing in
+  Filed from the reading of Dunfield and Krishnaswami ([NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) for
+  [LEAD-tmp3xevc](LEAD-tmp3xevc.md). [CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md) places the performative half of typing in
   elaboration or coercion; the survey only cites the elaboration
   literature, and the one change to a term it treats is the programmer's
   annotation, which changes no behaviour. The wording is the assistant's
@@ -42,7 +42,7 @@ evaluation-order polymorphism" (ICFP 2015, arXiv 1504.07680). Ask:
 
 ## What would count
 
-CLAIM-tmpnookt's elaboration clause confirmed if elaboration moves a term
+[CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)'s elaboration clause confirmed if elaboration moves a term
 it applies to, minimally in a stated sense, to fit its type; narrowed if
 it applies only to terms that already check, so that it translates rather
 than repairs.

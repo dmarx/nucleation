@@ -28,8 +28,8 @@ uses:
 - TERM-tmp8b1yl
 - TERM-134
 summary: >-
-  Filed from the reading of Dunfield and Krishnaswami (NOTE-tmpbrc1z) for
-  LEAD-tmp3xevc. CLAIM-tmpmk056 and TERM-tmp8b1yl settle a predicate's
+  Filed from the reading of Dunfield and Krishnaswami ([NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md)) for
+  [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md). [CLAIM-tmpmk056](CLAIM-tmpmk056.md) and [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md) settle a predicate's
   direction of fit by whether the entry passes it when it is added. The
   survey's checking judgment is a requirement in the authors' own word
   (§4.4) and a test that moves nothing (§1, §9.1), whether the term
@@ -38,21 +38,21 @@ summary: >-
   and failing come apart. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmk056 TERM-tmp8b1yl TERM-134 — Proposed; the claim objected to and the terms it is stated in -->
+<!-- inactive-ok-file: CLAIM-tmpmk056 TERM-tmp8b1yl — Proposed; the claim objected to and the terms it is stated in -->
 <!-- inactive-ok-file: THEORY-tmptsz1u — Proposed; the reading of Dunfield and Krishnaswami (2021) and the entries filed from it, or the entries it bears on -->
 
 # CLAIM-tmpugw2q: A requirement can already be met: checking a term against a type given holds the term to the type, world to word, and moves nothing whether it passes or fails, so whether a predicate requires or describes is a separate question from whether the entry passes it when it is added, and the record's descriptor and imposition are the two directions of fit only for predicates that are enforced
 
 ## The objection
 
-CLAIM-tmpmk056 identifies a descriptor, a predicate the entry passes when
+[CLAIM-tmpmk056](CLAIM-tmpmk056.md) identifies a descriptor, a predicate the entry passes when
 it is added, with informative update, and an imposition, one it fails and
 is enforced, with performative update, and concludes that "the record's
-two kinds of predicate are the two directions of fit". TERM-tmp8b1yl
+two kinds of predicate are the two directions of fit". [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)
 agrees: "Which direction a test has is settled by the thing as it stands
 when the test is applied".
 
-Bidirectional typing (THEORY-tmptsz1u) has a predicate that is a requirement and
+Bidirectional typing ([THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md)) has a predicate that is a requirement and
 is not enforced. Checking a term against a type given holds the term to
 the type: the authors call the checked type "a requirement" and the
 synthesized one "a fact" (§4.4), and argue for checking because it makes
@@ -70,14 +70,14 @@ Three cases follow, where the record's account has two:
 
 Searle's direction of fit does not wait on satisfaction: an order already
 obeyed is still world to word. On that reading the second case is a
-requirement, and CLAIM-tmpmk056's closing identification holds for the
-first and third only. It is CLAIM-tmpmk056's formal part, the
+requirement, and [CLAIM-tmpmk056](CLAIM-tmpmk056.md)'s closing identification holds for the
+first and third only. It is [CLAIM-tmpmk056](CLAIM-tmpmk056.md)'s formal part, the
 identification of an enforced imposition with performative update and an
 added descriptor with informative update, that this leaves standing.
 
 ## What it does not say
 
-- Not that CLAIM-tmpmk056's identifications of the two updates are wrong.
+- Not that [CLAIM-tmpmk056](CLAIM-tmpmk056.md)'s identifications of the two updates are wrong.
 - Not that the record holds unenforced requirements. Whether any of its
   predicates are of the second kind (a lint rule an entry already passes
   is one candidate) is a separate question.

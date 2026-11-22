@@ -111,9 +111,9 @@ types computed from other types.
 
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 
-Their survey of bidirectional typing (LIT-tmpqagik, read in NOTE-tmpbrc1z, account
-THEORY-tmptsz1u) tests the bullet "The direction of fit is bidirectional
-typing". It supports, and narrows (evidence; ARG-tmpcpo8g):
+Their survey of bidirectional typing ([LIT-tmpqagik](../literature.d/LIT-tmpqagik.md), read in [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md), account
+[THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md)) tests the bullet "The direction of fit is bidirectional
+typing". It supports, and narrows (evidence; [ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md)):
 
 - **Supported.** The authors call a synthesized type "a fact" and a
   checked one "a requirement" (§4.4), and argue for checking because
@@ -126,12 +126,12 @@ typing". It supports, and narrows (evidence; ARG-tmpcpo8g):
   information flow" (§8.4): which part of a judgment is known. They can
   be reversed, combined or refined (§6) while the term still answers for
   a mismatch, so where the type comes from is not who must fit whom.
-  The two coincide in the standard Pfenning recipe. CLAIM-tmpugw2q files the
-  objection this makes to CLAIM-tmpmk056.
+  The two coincide in the standard Pfenning recipe. [CLAIM-tmpugw2q](CLAIM-tmpugw2q.md) files the
+  objection this makes to [CLAIM-tmpmk056](CLAIM-tmpmk056.md).
 - **Left open.** Elaboration and coercion are only cited (§1, references).
   The one change to a term the survey treats is the programmer's
   annotation, which under type erasure changes no behaviour (§2, §3.2).
-  LEAD-tmp7mkn0 plans the reading that would settle the elaboration clause.
+  [LEAD-tmp7mkn0](../leads.d/LEAD-tmp7mkn0.md) plans the reading that would settle the elaboration clause.
 
 Defeat condition (b) is not met: the correspondence holds, more narrowly
 than stated. The status is the owner's.

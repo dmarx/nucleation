@@ -54,10 +54,10 @@ source, with the claim revised or defeated accordingly.
 
 ## Note of 2026-11-22: Dunfield and Krishnaswami, read
 
-Dunfield and Krishnaswami (2021) registered and read: LIT-tmpqagik, NOTE-tmpbrc1z,
-THEORY-tmptsz1u. On the lead's question: inference against checking matches the
+Dunfield and Krishnaswami (2021) registered and read: [LIT-tmpqagik](../literature.d/LIT-tmpqagik.md), [NOTE-tmpbrc1z](../notes.d/NOTE-tmpbrc1z.md),
+[THEORY-tmptsz1u](../theory.d/THEORY-tmptsz1u.md). On the lead's question: inference against checking matches the
 direction of fit as fact against requirement, in the authors' own words,
 but neither mode moves the term, and where the type comes from (mode) is
-not who must fit whom (ARG-tmpcpo8g, CLAIM-tmpugw2q). Where elaboration sits is not
-answered by the survey; LEAD-tmp7mkn0 plans that reading. The other four
+not who must fit whom ([ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md), [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md)). Where elaboration sits is not
+answered by the survey; [LEAD-tmp7mkn0](LEAD-tmp7mkn0.md) plans that reading. The other four
 readings remain.

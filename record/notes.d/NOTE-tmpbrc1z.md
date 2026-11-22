@@ -26,7 +26,7 @@ summary: >-
   criteria for a system, restates the Pfenning recipe (introductions
   check, eliminations synthesize, subsumption and annotation switch
   direction), and shows the modes can be mixed, combined or reversed.
-  Read for LEAD-tmp3xevc: it supports reading a synthesized type as a
+  Read for [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md): it supports reading a synthesized type as a
   fact and a checked type as a requirement, and shows that neither mode
   changes the term.
 ---
@@ -163,20 +163,20 @@ flow rather than polarity (§8).
 
 ## Bearing on the record
 
-The reading answers LEAD-tmp3xevc's questions on bidirectional typing.
+The reading answers [LEAD-tmp3xevc](../leads.d/LEAD-tmp3xevc.md)'s questions on bidirectional typing.
 
-- **Synthesis against checking, as direction of fit (CLAIM-tmpnookt,
-  TERM-tmp8b1yl).** Supported in the authors' own words: the synthesized
+- **Synthesis against checking, as direction of fit ([CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md),
+  [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md)).** Supported in the authors' own words: the synthesized
   type is "a fact", the type checked against "a requirement" (§4.4);
   inference finds the behaviours a program has, annotations state those
   intended (§9.1); the type flows from the term in one mode and into it
   in the other (§11). That is word to world and world to word in
   Searle's sense of which side must answer for a mismatch. But neither
   mode changes the term, which is an input to both (§1), and a checker
-  only answers yes or no (§9.1). Both are tests in TERM-134's sense. So
+  only answers yes or no (§9.1). Both are tests in [TERM-134](../terms.d/TERM-134.md)'s sense. So
   the correspondence holds for what the type is taken as and fails if
-  checking is read as performative update. ARG ARG-tmpcpo8g judges this.
-- **Where elaboration, coercion and subsumption sit (CLAIM-tmpnookt).**
+  checking is read as performative update. ARG [ARG-tmpcpo8g](../arguments.d/ARG-tmpcpo8g.md) judges this.
+- **Where elaboration, coercion and subsumption sit ([CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md)).**
   Subsumption sits at the change of direction, where the fact meets the
   requirement, and is itself a test, A <: B read as A ⊃ B; it moves
   nothing. What changes the term to fit is, in this survey, the
@@ -185,9 +185,9 @@ The reading answers LEAD-tmp3xevc's questions on bidirectional typing.
   type systems "automatically insert implicit operations" (§1) and in
   cited titles (Dunfield 2012, 2014, 2015). The claim that the
   performative half is elaboration or coercion is neither confirmed nor
-  refuted here; LEAD-tmp7mkn0 plans the reading that would settle it.
-- **Where the type comes from against who must fit whom (CLAIM-tmpnookt,
-  TERM-tmp8b1yl, CLAIM-tmpmk056).** Not the same distinction. Mode is
+  refuted here; [LEAD-tmp7mkn0](../leads.d/LEAD-tmp7mkn0.md) plans the reading that would settle it.
+- **Where the type comes from against who must fit whom ([CLAIM-tmpnookt](../claims.d/CLAIM-tmpnookt.md),
+  [TERM-tmp8b1yl](../terms.d/TERM-tmp8b1yl.md), [CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md)).** Not the same distinction. Mode is
   where the type comes from, and the survey shows it reversible (§6.5),
   combinable (§6.4) and finer than input and output (§6.2), and shows
   checking against a placeholder that the term then solves (§5.1.3, §10),
@@ -195,16 +195,16 @@ The reading answers LEAD-tmp3xevc's questions on bidirectional typing.
   every variant: a failed check is the term's error. In the standard
   recipe the two line up, since a checked type comes from an annotation
   or an earlier synthesis. And a requirement the term already meets is
-  still a requirement, while by CLAIM-tmpmk056's criterion, passing when
-  added, it is a descriptor. CLAIM-tmpugw2q files that objection.
+  still a requirement, while by [CLAIM-tmpmk056](../claims.d/CLAIM-tmpmk056.md)'s criterion, passing when
+  added, it is a descriptor. [CLAIM-tmpugw2q](../claims.d/CLAIM-tmpugw2q.md) files that objection.
 - **Parallels without an edge.** Checking as a test that passes or fails
-  against what it meets, Veltman's test (THEORY-162); a predicate read as
-  a test returning a boolean (TERM-134); Polikarpova's strengthening,
+  against what it meets, Veltman's test ([THEORY-162](../theory.d/THEORY-162.md)); a predicate read as
+  a test returning a boolean ([TERM-134](../terms.d/TERM-134.md)); Polikarpova's strengthening,
   which checks against a required type and returns the description
   {b | ν = x} written from the variable itself, a description in
-  TERM-tmp94y6v's sense; intersection introduction, where one term
-  witnesses both types, beside CLAIM-783 part 6; inferring all behaviours
-  against annotating the intended ones, beside CLAIM-tmp5rv9x's inquiry
+  [TERM-tmp94y6v](../terms.d/TERM-tmp94y6v.md)'s sense; intersection introduction, where one term
+  witnesses both types, beside [CLAIM-783](../claims.d/CLAIM-783.md) part 6; inferring all behaviours
+  against annotating the intended ones, beside [CLAIM-tmp5rv9x](../claims.d/CLAIM-tmp5rv9x.md)'s inquiry
   and engineering.
 
 ## Limitations
