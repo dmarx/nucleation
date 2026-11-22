@@ -33,12 +33,24 @@ bearing on QUESTION-072.
 - [x] Read CLAUDE.md, design principles, run-lead skill, LEAD-122, QUESTION-072,
       workbench template + samples, docs/record.md CASE/CLAIM schema.
 - [x] Step 1: confirmed no executed-study already counts workbench moves.
-- [ ] Push branch with PROGRESS.md.
+- [x] Pushed branch with PROGRESS.md.
+- [x] Wrote census.py + test_census.py (6 tests pass); ran over 135 entries.
+- [x] results.json written (149 KB).
+
+## Result (headline)
+
+135 workbench files; 47 carry the record's bold disposition labels, 88 are
+free prose (uncaptured). 698 label-spans = moves; 454 are filed/not-filed
+(209 filed, 245 not). Share filed: owner-attributed spans highest (0.70 block
+/ 0.67 span-only), assistant lower (0.57 / 0.41), most spans co-attributed
+("both" 0.41/0.38). By kind: note 0.79, case 0.59, question 0.55, claim 0.44,
+term 0.39, work 0.26, theory 0.0. The owner > assistant filing-rate gap is
+robust to the attribution window, but is NOT content-matched (QUESTION-072
+part 1's "content held fixed" is not met) and kind confounds contributor.
 
 ## Next
 
-- [ ] Write census.py + test_census.py; run.
-- [ ] Write results.json + README.md.
-- [ ] File CASE (executed-study) bears_on QUESTION-072; note on LEAD-122;
-      changelog fragment.
+- [ ] Write README.md.
+- [ ] File CASE (executed-study, documented) bears_on QUESTION-072; dated
+      note on LEAD-122 and on CLAIM-177; changelog fragment.
 - [ ] Report.
