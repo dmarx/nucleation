@@ -27,20 +27,19 @@ bears_on:
 - QUESTION-277
 summary: >-
   Łukasik, Nazario, Van Leuven, Campbell, Meyer, Michalik, Pessacq, Simon,
-  Veloso & McCutcheon (2017/2018), LIT-1586, read in NOTE-tmp8zw3r. The
+  Veloso & McCutcheon (2017/2018), [LIT-1586](../literature.d/LIT-1586.md), read in [NOTE-tmp8zw3r](../notes.d/NOTE-tmp8zw3r.md). The
   authors also speculate, without testing, that splitting is nonadaptive
   for the host, begets more splitting, and makes the symbiont population
   harder to control; that reading is theirs and is not what this entry
   asserts.
 ---
-<!-- inactive-ok-file: LIT-1586 NOTE-tmp8zw3r — Unfetched or new; the work and its reading -->
 
 # THEORY-tmp4pf2m: Łukasik and colleagues report that in the cicada genus Tettigades a single ancestral Hodgkinia lineage has split at least six independent times in about 4 million years into complexes of two to six interdependent lineages per host, in distinct cells, which differ widely in abundance and gene content and together encode nearly the ancestral gene set
 
 ## Source
 
 Łukasik et al. (2018), *PNAS* 115(2): E226–E235 (online 26 December
-2017), LIT-1586, read in NOTE-tmp8zw3r.
+2017), [LIT-1586](../literature.d/LIT-1586.md), read in [NOTE-tmp8zw3r](../notes.d/NOTE-tmp8zw3r.md).
 
 ## What was actually shown
 

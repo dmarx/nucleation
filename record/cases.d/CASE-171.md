@@ -117,16 +117,16 @@ into *Tremblaya*, or into any symbiont below 200 kb, has been shown. The
 nearest case the review names is *Nardonella* (0.20–0.23 Mbp), where
 import is unconfirmed.
 
-## Note of 2026-11-22: its sources not reached (LEAD-138)
+## Note of 2026-11-22: its sources not reached ([LEAD-138](../leads.d/LEAD-138.md))
 
-LEAD-138 tried all three works the case rests on, LIT-1565, LIT-1569
-and LIT-1572, and reached none (PMC behind a reCAPTCHA, Europe PMC's
+[LEAD-138](../leads.d/LEAD-138.md) tried all three works the case rests on, [LIT-1565](../literature.d/LIT-1565.md), [LIT-1569](../literature.d/LIT-1569.md)
+and [LIT-1572](../literature.d/LIT-1572.md), and reached none (PMC behind a reCAPTCHA, Europe PMC's
 full-text service without them, cell.com and pnas.org behind
 Cloudflare, bioRxiv rate-limited; the routes are in each LIT's note of
 this date). So every fact the case takes from them is still
-**unverified**: the interspersed amino-acid pathways (LIT-1565);
+**unverified**: the interspersed amino-acid pathways ([LIT-1565](../literature.d/LIT-1565.md));
 *Tremblaya*'s 139 kb, the "at least 22" transferred genes, none from
-*Tremblaya*, and the six lineages (LIT-1569); the single *Tremblaya*
+*Tremblaya*, and the six lineages ([LIT-1569](../literature.d/LIT-1569.md)); the single *Tremblaya*
 infection and repeated replacement of its inner symbiont, with the
-transferred genes stable (LIT-1572). Nothing read for the lead
+transferred genes stable ([LIT-1572](../literature.d/LIT-1572.md)). Nothing read for the lead
 contradicts them. No status changes.

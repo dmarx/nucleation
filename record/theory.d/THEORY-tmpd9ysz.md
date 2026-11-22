@@ -27,21 +27,20 @@ source:
 bears_on:
 - QUESTION-277
 summary: >-
-  Karnkowska, Vacek, Zubáčová and colleagues (2016), LIT-1567, read in
-  NOTE-tmpzlv8e. Shown: none of 41 hallmark mitochondrial proteins and no
+  Karnkowska, Vacek, Zubáčová and colleagues (2016), [LIT-1567](../literature.d/LIT-1567.md), read in
+  [NOTE-tmpzlv8e](../notes.d/NOTE-tmpzlv8e.md). Shown: none of 41 hallmark mitochondrial proteins and no
   credible candidate from broad searches, with Golgi proteins found as a
   control; SUF genes in the nucleus, with bacterial phylogeny shared with
   Paratrimastix. Not shown: that no organelle of wholly altered
   composition exists, which the authors say they cannot exclude.
 ---
-<!-- inactive-ok-file: LIT-1567 NOTE-tmpzlv8e CASE-168 — Unfetched, new or Proposed; the work, its reading and the case it checks -->
 
 # THEORY-tmpd9ysz: Karnkowska and colleagues report that the genome of the oxymonad Monocercomonoides sp. PA203 encodes no hallmark mitochondrial protein, that its iron–sulfur clusters are made in the cytosol by a SUF system an ancestor shared with Paratrimastix took from bacteria by lateral transfer, and that the loss of the organelle is secondary, making it the first eukaryote known to lack any form of mitochondrion
 
 ## Source
 
-Karnkowska et al. (2016), *Current Biology* 26: 1274–1284, LIT-1567,
-read in NOTE-tmpzlv8e from the in-press article.
+Karnkowska et al. (2016), *Current Biology* 26: 1274–1284, [LIT-1567](../literature.d/LIT-1567.md),
+read in [NOTE-tmpzlv8e](../notes.d/NOTE-tmpzlv8e.md) from the in-press article.
 
 ## What was actually shown
 
@@ -61,6 +60,6 @@ out otherwise: they found Golgi components no microscope had seen.
   protein composition has been altered entirely".
 - That SUF alone made the organelle dispensable: *Paratrimastix* has
   SUF and keeps its organelle, and the authors' own Figure 4 puts the
-  acquisition before the loss in a separate step. LIT-1574 names the
-  second step, the loss of the glycine cleavage system (THEORY-1098).
+  acquisition before the loss in a separate step. [LIT-1574](../literature.d/LIT-1574.md) names the
+  second step, the loss of the glycine cleavage system ([THEORY-1098](THEORY-1098.md)).
 - That other oxymonads share the condition.

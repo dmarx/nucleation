@@ -30,7 +30,7 @@ summary: >-
   genes, some of wasp origin, that suppress host immunity and alter its
   development.
 ---
-<!-- inactive-ok-file: LIT-2395 CLAIM-661 THEORY-tmp15tfp — Unfetched, Proposed or new; the work read, the claim it checks and the account filed from it -->
+<!-- inactive-ok-file: CLAIM-661 — Unfetched, Proposed or new; the work read, the claim it checks and the account filed from it -->
 
 # NOTE-tmpqvc1g: Strand, Coffman and Burke — Large DNA viruses that parasitoid wasps transmit to hosts
 
@@ -91,7 +91,7 @@ more viruses than are known.
 
 ## Bearing on the record
 
-- **CLAIM-661** cites this work for wasps "whose domesticated viral
+- **[CLAIM-661](../claims.d/CLAIM-661.md)** cites this work for wasps "whose domesticated viral
   genes, once a separate lineage, now let them alter a third organism".
   It holds: the bracovirus descends from a nudivirus that integrated
   into a wasp about 100 million years ago, is now inherited in the
@@ -102,7 +102,7 @@ more viruses than are known.
   and the replication that makes the particles depends on a wasp
   polymerase. The machinery is viral in origin; what it carries and how
   it is copied are mixed. The claim's dated note says so.
-- **QUESTION-277** (a parallel, no edge): a former separate lineage
+- **[QUESTION-277](../questions.d/QUESTION-277.md)** (a parallel, no edge): a former separate lineage
   reduced until it cannot replicate alone, its function kept by the
   host's genome and machinery, is the integration route the endosymbiont
   cases are compared on, in a virus.

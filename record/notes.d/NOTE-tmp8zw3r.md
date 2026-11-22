@@ -33,14 +33,14 @@ summary: >-
   nonadaptive for the host, a ratchet that makes the symbiont population
   harder for the cicada to control.
 ---
-<!-- inactive-ok-file: LIT-1586 CASE-177 THEORY-tmp4pf2m LIT-1563 LIT-1612 — Unfetched, Proposed or new; the work read, the case it checks, the account filed from it, and the unread earlier papers it extends -->
+<!-- inactive-ok-file: CASE-177 LIT-1563 LIT-1612 — Unfetched, Proposed or new; the work read, the case it checks, the account filed from it, and the unread earlier papers it extends -->
 
 # NOTE-tmp8zw3r: Łukasik et al. — Multiple origins of interdependent endosymbiotic complexes in a genus of cicadas
 
 ## Contribution
 
 It turns two reports of a strange event, *Hodgkinia* splitting in one
-*Tettigades* species (LIT-1563) and in *Magicicada* (LIT-1612), into a
+*Tettigades* species ([LIT-1563](../literature.d/LIT-1563.md)) and in *Magicicada* ([LIT-1612](../literature.d/LIT-1612.md)), into a
 pattern within one genus: repeated, independent, of variable depth, and
 apparently irreversible.
 
@@ -101,7 +101,7 @@ apparently irreversible.
 
 ## Bearing on the record
 
-- **CASE-177** takes three facts from this work. Two hold: "at least six
+- **[CASE-177](../cases.d/CASE-177.md)** takes three facts from this work. Two hold: "at least six
   independent times in *Tettigades* over four million years" and
   "together the complexes encode nearly the ancestral gene set". The
   third, "two to six lineages per host", is the abstract's figure; the
@@ -109,13 +109,13 @@ apparently irreversible.
   clades, which may count lineages across a clade's populations rather
   than per host. The case's note says so and leaves it unverified until
   Figure 3 or the datasets are read.
-- **QUESTION-277** (evidence, through CASE-177): the paper's own reading
+- **[QUESTION-277](../questions.d/QUESTION-277.md)** (evidence, through [CASE-177](../cases.d/CASE-177.md)): the paper's own reading
   is the case's "More parts, more dependence, no new function" and
   "constituent change that costs the whole", stated by the authors as
   speculation. It adds two things the case lacks: splitting appears
   irreversible ("cannot be ratcheted back"), and it is said to reduce
   host control (C) with each step.
-- **THEORY-1106** (contrast, background): the transmission paper's
+- **[THEORY-1106](../theory.d/THEORY-1106.md)** (contrast, background): the transmission paper's
   claim of host compensation builds on the cost named here.
 
 ## Limitations

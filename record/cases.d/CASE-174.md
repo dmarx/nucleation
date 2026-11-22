@@ -109,16 +109,16 @@ case takes from its unread sources:
   proteins serve the chromatophore's DNA replication and gene expression,
   which gives the host control of both (C).
 
-## Note of 2026-11-22: its primary sources not reached (LEAD-138)
+## Note of 2026-11-22: its primary sources not reached ([LEAD-138](../leads.d/LEAD-138.md))
 
-LEAD-138 tried LIT-1621 and LIT-1557 and reached neither (cell.com
+[LEAD-138](../leads.d/LEAD-138.md) tried [LIT-1621](../literature.d/LIT-1621.md) and [LIT-1557](../literature.d/LIT-1557.md) and reached neither (cell.com
 and pnas.org behind Cloudflare, PMC behind a reCAPTCHA, Europe PMC's
 full-text service without them; each LIT's note of this date). So the
 facts the case takes from them stay **unverified**: the 1.02 Mb genome
 with 867 protein-coding genes, 26% of a free-living relative's, and the
-missing pathways (LIT-1621); the 60-million-year estimate, "more than
+missing pathways ([LIT-1621](../literature.d/LIT-1621.md)); the 60-million-year estimate, "more than
 thirty" transferred genes, and three imported photosystem I subunits
-via the Golgi (LIT-1557). The review LIT-1560 already corrects or
+via the Golgi ([LIT-1557](../literature.d/LIT-1557.md)). The review [LIT-1560](../literature.d/LIT-1560.md) already corrects or
 qualifies most of them (the note of 2026-10-27, batch 2); the one
 still open is "three" subunits against the review's two, PsaE and
 PsaK. No status changes.

@@ -30,13 +30,13 @@ summary: >-
   the authors read as nonadaptive for the host. Whether circles are
   separate cells is mostly unknown.
 ---
-<!-- inactive-ok-file: LIT-1602 CASE-177 THEORY-tmpjqe6l LIT-1612 — Unfetched, Proposed or new; the work read, the case it checks, the account filed from it, and the unread earlier paper it extends -->
+<!-- inactive-ok-file: CASE-177 LIT-1612 — Unfetched, Proposed or new; the work read, the case it checks, the account filed from it, and the unread earlier paper it extends -->
 
 # NOTE-tmpzfvzz: Campbell et al. — Idiosyncratic genome degradation in a bacterial endosymbiont of periodical cicadas
 
 ## Contribution
 
-LIT-1612 found *Hodgkinia* broken into dozens of circles in one
+[LIT-1612](../literature.d/LIT-1612.md) found *Hodgkinia* broken into dozens of circles in one
 periodical cicada, *Magicicada tredecim*. This paper sequences the
 other six *Magicicada* species and two relatives and finds the same
 condition in all of them, reached by different paths.
@@ -94,20 +94,20 @@ condition in all of them, reached by different paths.
 
 ## Bearing on the record
 
-- **CASE-177** takes from this work, jointly with LIT-1612, that "every
+- **[CASE-177](../cases.d/CASE-177.md)** takes from this work, jointly with [LIT-1612](../literature.d/LIT-1612.md), that "every
   *Magicicada* species holds at least twenty circles, with little
   synteny between species and very different gene dosages". All three
   hold. The case's figure of "almost ten times the ancestral size" is
-  cited to LIT-1612 for *M. tredecim*; this paper's "an order of
+  cited to [LIT-1612](../literature.d/LIT-1612.md) for *M. tredecim*; this paper's "an order of
   magnitude larger" supports it for the genus. The case's earlier
   correction, that circles are not shown to be cells, is the authors'
   own caution here.
-- **QUESTION-277** (evidence, through CASE-177): the dosage result bears
+- **[QUESTION-277](../questions.d/QUESTION-277.md)** (evidence, through [CASE-177](../cases.d/CASE-177.md)): the dosage result bears
   on control (C). Its pattern is what one would not expect "if the host
   were dictating the Hodgkinia splitting process", so the splitting is
   not host control. The host's likely part is in sharing products
   between cells, which is the authors' supposition.
-- **NOTE-1235 / THEORY-1106** (background): the circles-as-cells
+- **[NOTE-1235](NOTE-1235.md) / [THEORY-1106](../theory.d/THEORY-1106.md)** (background): the circles-as-cells
   assumption of the transmission simulation is the open point named
   here.
 

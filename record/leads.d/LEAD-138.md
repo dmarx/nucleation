@@ -27,8 +27,8 @@ summary: >-
   second-hand facts from these works. Named in [NOTE-1213](../notes.d/NOTE-1213.md). Filed by the
   backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: NOTE-tmpzlv8e THEORY-tmpd9ysz NOTE-tmp8zw3r THEORY-tmp4pf2m NOTE-tmpzfvzz THEORY-tmpjqe6l NOTE-tmpqvc1g THEORY-tmp15tfp CLAIM-661 — new or Proposed; the readings and the claim the note of 2026-11-22 reports -->
-<!-- inactive-ok-file: CASE-168 CASE-171 CASE-173 CASE-174 CASE-177 LIT-1557 LIT-1563 LIT-1565 LIT-1567 LIT-1569 LIT-1572 LIT-1573 LIT-1586 LIT-1602 LIT-1611 LIT-1612 LIT-1621 LIT-2395 LIT-2398 — Proposed, Unfetched; cited in the backlog audit of 2026-11-19 -->
+<!-- inactive-ok-file: THEORY-tmpd9ysz THEORY-tmp4pf2m THEORY-tmpjqe6l NOTE-tmpqvc1g THEORY-tmp15tfp CLAIM-661 — new or Proposed; the readings and the claim the note of 2026-11-22 reports -->
+<!-- inactive-ok-file: CASE-168 CASE-171 CASE-173 CASE-174 CASE-177 LIT-1557 LIT-1563 LIT-1565 LIT-1569 LIT-1572 LIT-1573 LIT-1611 LIT-1612 LIT-1621 LIT-2398 — Proposed, Unfetched; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-138: Read the endosymbiosis primaries behind the integration question and its cases
 
@@ -84,7 +84,7 @@ weight; facts that differ are corrected in the cases.
 ## Note of 2026-11-22: carried out in part
 
 A lead worker tried every work listed, by Europe PMC's REST full-text
-route (ADR-101), PMC, NCBI's E-utilities, bioRxiv and Europe PMC's
+route ([ADR-101](../decisions.d/ADR-101.md)), PMC, NCBI's E-utilities, bioRxiv and Europe PMC's
 preprint records, publishers' free copies, OpenAlex and Semantic
 Scholar's listed locations, and author, lab and institutional pages,
 with no email address in any request. PMC answered with a reCAPTCHA,
@@ -92,21 +92,21 @@ and cell.com, pnas.org, annualreviews.org, bioRxiv and core.ac.uk with
 Cloudflare, so four works were reached through author or repository
 copies:
 
-- LIT-1567 (Karnkowska 2016), read: NOTE-tmpzlv8e, THEORY-tmpd9ysz.
-  CASE-168's four facts hold, with refinements.
-- LIT-1586 (Łukasik 2018), read: NOTE-tmp8zw3r, THEORY-tmp4pf2m.
-- LIT-1602 (Campbell 2017), read: NOTE-tmpzfvzz, THEORY-tmpjqe6l.
-  CASE-177's facts from these two hold, except "two to six lineages per
+- [LIT-1567](../literature.d/LIT-1567.md) (Karnkowska 2016), read: [NOTE-tmpzlv8e](../notes.d/NOTE-tmpzlv8e.md), [THEORY-tmpd9ysz](../theory.d/THEORY-tmpd9ysz.md).
+  [CASE-168](../cases.d/CASE-168.md)'s four facts hold, with refinements.
+- [LIT-1586](../literature.d/LIT-1586.md) (Łukasik 2018), read: [NOTE-tmp8zw3r](../notes.d/NOTE-tmp8zw3r.md), [THEORY-tmp4pf2m](../theory.d/THEORY-tmp4pf2m.md).
+- [LIT-1602](../literature.d/LIT-1602.md) (Campbell 2017), read: [NOTE-tmpzfvzz](../notes.d/NOTE-tmpzfvzz.md), [THEORY-tmpjqe6l](../theory.d/THEORY-tmpjqe6l.md).
+  [CASE-177](../cases.d/CASE-177.md)'s facts from these two hold, except "two to six lineages per
   host", which the paper's own discussion puts beside "5 to 7" and
   which stays unverified.
-- LIT-2395 (Strand 2026), skimmed: NOTE-tmpqvc1g, THEORY-tmp15tfp,
-  which corroborates CLAIM-661; its example holds, with the
+- [LIT-2395](../literature.d/LIT-2395.md) (Strand 2026), skimmed: [NOTE-tmpqvc1g](../notes.d/NOTE-tmpqvc1g.md), [THEORY-tmp15tfp](../theory.d/THEORY-tmp15tfp.md),
+  which corroborates [CLAIM-661](../claims.d/CLAIM-661.md); its example holds, with the
   qualification that some delivered genes are the wasp's.
 
-What remains: LIT-1557, LIT-1563, LIT-1565, LIT-1569, LIT-1572,
-LIT-1573, LIT-1611, LIT-1612, LIT-1621 and LIT-2398, not reached; each
-has a dated note naming the routes tried. CASE-171, CASE-173 and
-CASE-174 rest wholly on unreached works and carry notes saying their
+What remains: [LIT-1557](../literature.d/LIT-1557.md), [LIT-1563](../literature.d/LIT-1563.md), [LIT-1565](../literature.d/LIT-1565.md), [LIT-1569](../literature.d/LIT-1569.md), [LIT-1572](../literature.d/LIT-1572.md),
+[LIT-1573](../literature.d/LIT-1573.md), [LIT-1611](../literature.d/LIT-1611.md), [LIT-1612](../literature.d/LIT-1612.md), [LIT-1621](../literature.d/LIT-1621.md) and [LIT-2398](../literature.d/LIT-2398.md), not reached; each
+has a dated note naming the routes tried. [CASE-171](../cases.d/CASE-171.md), [CASE-173](../cases.d/CASE-173.md) and
+[CASE-174](../cases.d/CASE-174.md) rest wholly on unreached works and carry notes saying their
 facts stay unverified. A copy the owner supplies, or the PMC pages
 opened in a browser, would let the rest be read. The status and stage
 are the owner's.

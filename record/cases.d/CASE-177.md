@@ -33,8 +33,7 @@ reported_in:
 summary: >-
   In some Tettigades cicadas, the endosymbiont Hodgkinia split into two cell lineages with almost perfectly complementary gene sets, the functionality of one ([LIT-1563](../literature.d/LIT-1563.md)), and it has done so at least six times in the genus ([LIT-1586](../literature.d/LIT-1586.md)). In Magicicada it fragmented into twenty or more genomic circles per species ([LIT-1612](../literature.d/LIT-1612.md), [LIT-1602](../literature.d/LIT-1602.md)). Hosts compensate by transmitting more cells to each egg ([LIT-1590](../literature.d/LIT-1590.md)). Used as the case where dependence and the number of parts grow with no new collective function, and the host pays.
 ---
-<!-- inactive-ok-file: NOTE-tmp8zw3r THEORY-tmp4pf2m NOTE-tmpzfvzz THEORY-tmpjqe6l — new, filed for LEAD-138; the readings the note of 2026-11-22 reports -->
-<!-- inactive-ok-file: LIT-1586 LIT-1602 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: THEORY-tmp4pf2m THEORY-tmpjqe6l — new, filed for LEAD-138; the readings the note of 2026-11-22 reports -->
 <!-- inactive-ok-file: LIT-1563 LIT-1612 — Deferred; the unread works that report the case, provenance only (ADR-051) -->
 
 # CASE-177: Hodgkinia in cicadas: one endosymbiont splitting into two to dozens of interdependent lineages, with near-complementary gene sets, idiosyncratic fragmentation in Magicicada, and hosts transmitting up to six times as many cells to keep every lineage
@@ -107,17 +106,17 @@ Corrections to "The host's cost" and "What it can show":
   to their eggs, and egg nests differ significantly, so the make-up of the
   symbiont community is inherited at the host level.
 
-## Note of 2026-11-22: LIT-1586 and LIT-1602 read (LEAD-138)
+## Note of 2026-11-22: [LIT-1586](../literature.d/LIT-1586.md) and [LIT-1602](../literature.d/LIT-1602.md) read ([LEAD-138](../leads.d/LEAD-138.md))
 
-Łukasik et al. (LIT-1586, read in NOTE-tmp8zw3r, THEORY-tmp4pf2m) and
-Campbell et al. 2017 (LIT-1602, read in NOTE-tmpzfvzz, THEORY-tmpjqe6l)
+Łukasik et al. ([LIT-1586](../literature.d/LIT-1586.md), read in [NOTE-tmp8zw3r](../notes.d/NOTE-tmp8zw3r.md), [THEORY-tmp4pf2m](../theory.d/THEORY-tmp4pf2m.md)) and
+Campbell et al. 2017 ([LIT-1602](../literature.d/LIT-1602.md), read in [NOTE-tmpzfvzz](../notes.d/NOTE-tmpzfvzz.md), [THEORY-tmpjqe6l](../theory.d/THEORY-tmpjqe6l.md))
 are now read, from the versions of record on the Łukasik group's page at
 Jagiellonian University. What the case takes from them:
 
 - **Held, "Repeated".** "a single ancestral Hodgkinia lineage has split
   at least six independent times in Tettigades over the last 4 million
   years", and the complexes "encode nearly complete sets of genes
-  present on the ancestral single lineage" (LIT-1586, abstract). FISH
+  present on the ancestral single lineage" ([LIT-1586](../literature.d/LIT-1586.md), abstract). FISH
   places the lineages in distinct cells in *T. chilensis*.
 - **Unverified, "two to six lineages per host".** It is the abstract's
   figure, but the discussion gives "5 to 7 Hodgkinia lineages" for the
@@ -127,22 +126,22 @@ Jagiellonian University. What the case takes from them:
   holds "at least 20 genomic circles", with "little synteny among the
   256 Hodgkinia circles analyzed except between the most closely
   related cicada species", and gene dosages that differ between species
-  groups (LIT-1602). The combined complex is "an order of magnitude
+  groups ([LIT-1602](../literature.d/LIT-1602.md)). The combined complex is "an order of magnitude
   larger than the ancestral single genome", which supports "almost ten
   times" for the genus. The figure for *M. tredecim* itself is
-  LIT-1612's, still unread.
-- **Unverified, from LIT-1563 and LIT-1612.** The splitting in *T.
+  [LIT-1612](../literature.d/LIT-1612.md)'s, still unread.
+- **Unverified, from [LIT-1563](../literature.d/LIT-1563.md) and [LIT-1612](../literature.d/LIT-1612.md).** The splitting in *T.
   undata* into two "cytologically distinct" species with
   near-complementary gene sets, and *M. tredecim*'s fragmentation, rest
   on those works' abstracts, as restated by the two read here. Neither
   was reached (PMC behind a reCAPTCHA, cell.com and pnas.org behind
   Cloudflare, 2026-11-22).
-- **"What it can show" gains the authors' words.** LIT-1586: splitting
+- **"What it can show" gains the authors' words.** [LIT-1586](../literature.d/LIT-1586.md): splitting
   is speculated "nonadaptive for the cicada host and perhaps
   deleterious"; "symbiotic complexity cannot be ratcheted back once
   started"; and "each click of the ratchet-like process of splitting
   makes it increasingly difficult for the cicada to control its
-  endosymbiont population". LIT-1602: no convergent dosage pattern
+  endosymbiont population". [LIT-1602](../literature.d/LIT-1602.md): no convergent dosage pattern
   "as might be expected if the host were dictating the Hodgkinia
   splitting process". So "more parts, more dependence, no new function"
   is the authors' reading too, and the splitting lowers host control

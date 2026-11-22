@@ -26,19 +26,19 @@ source:
 corroborates:
 - CLAIM-661
 summary: >-
-  Strand, Coffman & Burke (2026), LIT-2395, skimmed in NOTE-tmpqvc1g. The
+  Strand, Coffman & Burke (2026), [LIT-2395](../literature.d/LIT-2395.md), skimmed in [NOTE-tmpqvc1g](../notes.d/NOTE-tmpqvc1g.md). The
   domestication history is the review's report of others' work. It does
   not say that the wasp's control of the virus is complete: a wasp
   polymerase and wasp-derived virulence genes are part of the system.
 ---
-<!-- inactive-ok-file: LIT-2395 NOTE-tmpqvc1g — Unfetched or new; the work and its reading -->
+<!-- inactive-ok-file: NOTE-tmpqvc1g — Unfetched or new; the work and its reading -->
 
 # THEORY-tmp15tfp: Strand, Coffman and Burke review how parasitoid wasps transmit large DNA viruses to their hosts, from mechanical carriage to domesticated endogenized viruses integrated in the wasp germline; bracoviruses, which arose from a nudivirus about 100 million years ago, cannot replicate alone and produce particles that deliver virulence genes, some of wasp origin, which suppress the host's immunity and alter its development
 
 ## Source
 
 Strand, Coffman & Burke, *Annual Review of Entomology* 71: 209–28
-(2026; online October 2025), LIT-2395, skimmed in NOTE-tmpqvc1g from the
+(2026; online October 2025), [LIT-2395](../literature.d/LIT-2395.md), skimmed in [NOTE-tmpqvc1g](../notes.d/NOTE-tmpqvc1g.md) from the
 Review in Advance.
 
 ## What was actually shown

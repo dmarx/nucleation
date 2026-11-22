@@ -146,15 +146,15 @@ stands. Six corrections:
 Campbell et al. ([LIT-1590](../literature.d/LIT-1590.md), Table 1) cite 886 to 8,223 *Buchnera* cells per
 aphid egg across three aphid species, from earlier work.
 
-## Note of 2026-11-22: Moran 1996 not reached (LEAD-138)
+## Note of 2026-11-22: Moran 1996 not reached ([LEAD-138](../leads.d/LEAD-138.md))
 
-LEAD-138 tried LIT-1573 and did not reach it (PMC behind a reCAPTCHA,
+[LEAD-138](../leads.d/LEAD-138.md) tried [LIT-1573](../literature.d/LIT-1573.md) and did not reach it (PMC behind a reCAPTCHA,
 Europe PMC's full-text service and NCBI's E-utilities without its text,
-pnas.org behind Cloudflare, the Moran lab page failing TLS; LIT-1573's
+pnas.org behind Cloudflare, the Moran lab page failing TLS; [LIT-1573](../literature.d/LIT-1573.md)'s
 note of this date). So the case's account of *Buchnera*'s fast,
 A+T-biased evolution under Muller's ratchet with mutational bias stays
 **unverified**, and the drift attribution still rests on that unread
-work alone, as the note of 2026-10-27 (batch 2) said. LIT-1611 (Kuo et
+work alone, as the note of 2026-10-27 (batch 2) said. [LIT-1611](../literature.d/LIT-1611.md) (Kuo et
 al. 2009), the general drift-and-genome-size work the lead also names,
-was not reached either. Held facts from LIT-1596 and LIT-1560 are
+was not reached either. Held facts from [LIT-1596](../literature.d/LIT-1596.md) and [LIT-1560](../literature.d/LIT-1560.md) are
 unchanged. No status changes.

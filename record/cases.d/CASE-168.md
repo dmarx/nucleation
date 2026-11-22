@@ -35,8 +35,7 @@ summary: >-
 bears_on:
 - QUESTION-277
 ---
-<!-- inactive-ok-file: NOTE-tmpzlv8e THEORY-tmpd9ysz — new, filed for LEAD-138; the reading the note of 2026-11-22 reports -->
-<!-- inactive-ok-file: LIT-1567 — Proposed; filed from the readings cited in the note of 2026-10-27 (batch 2) -->
+<!-- inactive-ok-file: THEORY-tmpd9ysz — new, filed for LEAD-138; the reading the note of 2026-11-22 reports -->
 
 # CASE-168: Monocercomonoides: a eukaryote that lost its mitochondrion entirely after the organelle's essential jobs were removed in steps, its Fe–S cluster assembly taken over by a bacterial-type SUF system that its relatives share and its glycine cleavage system lost, and kept canonical eukaryotic complexity
 
@@ -96,10 +95,10 @@ correct the previous title's "one indispensable job":
   salvages its nucleotides. It lost an internal partner and depends on a
   host gut instead. This inference is the record's, not the paper's.
 
-## Note of 2026-11-22: LIT-1567 read (LEAD-138)
+## Note of 2026-11-22: [LIT-1567](../literature.d/LIT-1567.md) read ([LEAD-138](../leads.d/LEAD-138.md))
 
-Karnkowska et al. 2016 (LIT-1567) is now read in NOTE-tmpzlv8e
-(THEORY-tmpd9ysz), from the in-press article on the first author's
+Karnkowska et al. 2016 ([LIT-1567](../literature.d/LIT-1567.md)) is now read in [NOTE-tmpzlv8e](../notes.d/NOTE-tmpzlv8e.md)
+([THEORY-tmpd9ysz](../theory.d/THEORY-tmpd9ysz.md)), from the in-press article on the first author's
 institutional site. The case took four facts from its abstract.
 
 - **Held.** The genome "lacks all hallmark mitochondrial proteins"
@@ -115,7 +114,7 @@ institutional site. The case took four facts from its abstract.
   phylogeny. The SUF acquisition belongs to the ancestor shared with
   *Paratrimastix*, and the paper's own model (Figure 4) puts the loss
   of the organelle in a later step. That agrees with the correction
-  LIT-1574 already made to the title.
+  [LIT-1574](../literature.d/LIT-1574.md) already made to the title.
 - **The authors' caveat.** They "cannot exclude the possibility that a
   mitochondrion exists ... whose protein composition has been altered
   entirely", though no evidence points to one.
@@ -123,7 +122,7 @@ institutional site. The case took four facts from its abstract.
   animal symbionts" is now a premise from the paper. The inference
   drawn from it, that a host gut stands in for the lost internal
   partner, remains the record's.
-- **Unverified.** Nothing the case takes from LIT-1567 is left
+- **Unverified.** Nothing the case takes from [LIT-1567](../literature.d/LIT-1567.md) is left
   unchecked. The supplementary tables that list the searches were not
   read.
 

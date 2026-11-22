@@ -31,7 +31,7 @@ summary: >-
   mitochondrial homologues. The authors cannot exclude an organelle of
   wholly altered composition but find no positive evidence for one.
 ---
-<!-- inactive-ok-file: LIT-1567 CASE-168 THEORY-tmpd9ysz — Unfetched, Proposed or new; the work read, the case it checks and the account filed from it -->
+<!-- inactive-ok-file: CASE-168 — Unfetched, Proposed or new; the work read, the case it checks and the account filed from it -->
 
 # NOTE-tmpzlv8e: Karnkowska et al. — A eukaryote without a mitochondrial organelle
 
@@ -104,7 +104,7 @@ SUF system in place of the organelle's ISC pathway.
 
 ## Bearing on the record
 
-- **CASE-168** takes four facts from this work, from its abstract. All
+- **[CASE-168](../cases.d/CASE-168.md)** takes four facts from this work, from its abstract. All
   four hold against the text: every hallmark protein missing; ISC
   replaced by a cytosolic SUF acquired laterally from bacteria; the loss
   secondary on phylogeny; the first eukaryote known to lack any form of
@@ -113,9 +113,9 @@ SUF system in place of the organelle's ISC pathway.
   well as on phylogeny; and the SUF acquisition belongs to the ancestor
   shared with *Paratrimastix*, which kept its organelle, so it was a
   precondition and not by itself the cause of the loss. The latter is
-  what LIT-1574 (NOTE-1243, THEORY-1098) already added; this paper's
+  what [LIT-1574](../literature.d/LIT-1574.md) ([NOTE-1243](NOTE-1243.md), [THEORY-1098](../theory.d/THEORY-1098.md)) already added; this paper's
   own model (Figure 4) agrees. The case's dated note says what held.
-- **QUESTION-277** (evidence, through the case): the reading supports
+- **[QUESTION-277](../questions.d/QUESTION-277.md)** (evidence, through the case): the reading supports
   the case's use as the negative control. The integration of the
   mitochondrion was undone once a third-party gene set replaced its one
   universal job, and the cell that resulted is "a standard eukaryotic
@@ -127,7 +127,7 @@ SUF system in place of the organelle's ISC pathway.
 ## Limitations
 
 - A draft genome from one strain; no proteomics or microscopy of the
-  organelle's absence here (LIT-1574 adds FIB-SEM later, with its own
+  organelle's absence here ([LIT-1574](../literature.d/LIT-1574.md) adds FIB-SEM later, with its own
   caveat).
 - The authors' sense of "first": the first shown, not that relatives
   lack it too; they say nothing about other oxymonads' genomes.
