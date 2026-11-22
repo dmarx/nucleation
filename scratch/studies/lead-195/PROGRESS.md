@@ -12,21 +12,25 @@
   conservation law is the limit of slowness". LEAD-094's CLAIM-tmpa694z,
   CLAIM-tmpervl4 and ARG-tmp5xhiv concern CLAIM-478's (a), not CLAIM-477's
   (b). No claim answers QUESTION-450.
-- Codes scaffolded: CLAIM-tmpfbofs (symmetry, thesis, leaned to),
-  CLAIM-tmph783a (symmetry, counter), CLAIM-tmpr0sfe (possibility facts,
-  thesis, leaned to), CLAIM-tmp6sa56 (possibility facts, counter).
-- CLAIM-tmpfbofs written.
+- Four claims filed:
+  - CLAIM-tmpfbofs: symmetry, thesis, leaned to.
+  - CLAIM-tmph783a: symmetry, counter.
+  - CLAIM-tmpr0sfe: possibility facts, thesis, leaned to.
+  - CLAIM-tmp6sa56: possibility facts, counter.
+- Dated notes on LEAD-195, CLAIM-477 (with a Proposed Reframing, not
+  applied), CLAIM-478, QUESTION-284 and QUESTION-450.
+- Changelog fragment: record/changelog.d/lead-195.md.
 
 ## Choices
 
-- Rule under the thick sense of "realized and maintained" (TERM-070, A10
-  §7), since the thin sense makes defeater (b) unable to fire.
-- The ruling names QUESTION-450 in `answers` (it is that question) and
-  QUESTION-284 in `bears_on`.
+- Ruled under the thick sense of "realized and maintained" (TERM-070, A10
+  §7), since under the thin sense defeater (b) could never fire.
+- The rulings name QUESTION-450 in `answers`, since they answer that
+  question, and QUESTION-284 in `bears_on`.
+- No version bumps on held entries for dated notes, following LEAD-094's
+  practice today.
 
 ## Next
 
-- Write CLAIM-tmph783a, CLAIM-tmpr0sfe, CLAIM-tmp6sa56.
-- Dated notes: LEAD-195, CLAIM-477 (with Proposed Reframing), QUESTION-284,
-  QUESTION-450, CLAIM-478.
-- Changelog fragment record/changelog.d/lead-195.md.
+- Nothing left of the lead's conceptual work. The owner chooses between
+  the readings and decides on the Reframing.
