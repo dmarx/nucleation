@@ -84,7 +84,7 @@ performative update, and it is outside the type system.
 This claim left open whether checking moves a term in a bidirectional
 system. Davies and Pfenning's checker (THEORY-tmpei9b5; NOTE-tmpaiy4v) is
 one, and in it too no rule moves a term: ascriptions are erased, subtyping
-is inclusion, and the fix to a failing term is left to the programmer,
+is inclusion, and the fix to a failing term is left to the programmer
 (pp. 2, 6–7, 10). CLAIM-tmpvq4ru files that, as a complement of this
 claim for the bidirectional case. The second half of this claim, that
 whether an annotation describes or requires is settled by whether the term
