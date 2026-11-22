@@ -24,6 +24,7 @@ summary: >-
   every wiring. Safety contracts are sub-presheaves, deliberately not
   sheaves, because valid behaviours with historical context do not glue.
 ---
+<!-- inactive-ok-file: CLAIM-623 — Proposed; cited as a parallel -->
 
 # NOTE-tmp1hzsa: Schultz, Spivak and Vasilakopoulou — Dynamical Systems and Sheaves
 

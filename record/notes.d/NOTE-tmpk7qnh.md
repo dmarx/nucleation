@@ -28,6 +28,7 @@ summary: >-
   account of what fails: coupling with phase shifts, directed coupling,
   transients and clustering.
 ---
+<!-- inactive-ok-file: CLAIM-tmp7vutq — Proposed; filed by LEAD-023 -->
 
 # NOTE-tmpk7qnh: Dörfler and Bullo — Synchronization in complex networks of phase oscillators: A survey
 

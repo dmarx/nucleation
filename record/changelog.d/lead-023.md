@@ -11,10 +11,11 @@
 - NOTE-tmp1hzsa (Skimmed) and THEORY-tmp1ncgo: Schultz, Spivak and Vasilakopoulou 2016 skimmed; machines as spans of interval sheaves, with totality and determinism preserved by every wiring.
 - NOTE-tmpgeiy5 (Skimmed) and THEORY-tmp9gllh: Bumpus et al. 2024 skimmed; narratives as sheaves on time intervals.
 - NOTE-tmpd2cps (Skimmed) and THEORY-tmp0xz8p: Bosca and Ghrist 2026 skimmed; selective rigidity on discourse sheaves and rate bounds on whether beliefs or expressions change.
+- NOTE-tmp9h46q (Skimmed) and THEORY-tmpzt77d: Leal et al. 2026 skimmed; temporal cellular sheaves for switching multi-agent systems.
 - CLAIM-tmp7vutq: on five or more contexts with zero monodromy the XY energy has twisted local minima of positive energy, so CLAIM-153's readout holds for the global minimum only (Proposed, thesis, demonstrated; check in scratch/studies/lead-023/twisted.py).
 
 ### Changed
 
-- LIT-2245, LIT-2230, LIT-2253, LIT-2267, LIT-2250, LIT-2256, LIT-2249, LIT-2232, LIT-2258, LIT-2238 and LIT-2259 moved to Active on their readings.
+- LIT-2245, LIT-2230, LIT-2253, LIT-2267, LIT-2250, LIT-2256, LIT-2249, LIT-2232, LIT-2258, LIT-2238, LIT-2259 and LIT-2262 moved to Active on their readings.
 - LIT-2265 (Pecora and Carroll 1990) recorded Unavailable: no lawful copy found.
 - Dated notes of 2026-11-22 on QUESTION-063, QUESTION-147, CLAIM-153, CLAIM-167, CLAIM-172, CASE-179, THEORY-1082, QUESTION-282, QUESTION-252, CLAIM-480, THEORY-1065, QUESTION-379, CLAIM-623 and THEORY-1088.

@@ -23,6 +23,7 @@ summary: >-
   nonzero winding needs at least five cells in a boundary, so smaller
   boundaries cannot be multistable.
 ---
+<!-- inactive-ok-file: CLAIM-tmp7vutq — Proposed; filed from this reading by LEAD-023 -->
 
 # NOTE-tmp7pvg9: Bačić, Schaub, Kurths and Witthaut — Phase locking and multistability in the topological Kuramoto model on cell complexes
 

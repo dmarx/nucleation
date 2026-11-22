@@ -26,6 +26,7 @@ summary: >-
   characterized by input trees on the universal cover, and is computable in
   polynomial time.
 ---
+<!-- inactive-ok-file: THEORY-2014 — Proposed; cited as background -->
 
 # NOTE-tmp14xdi: Stewart — The lattice of balanced equivalence relations of a coupled cell network
 

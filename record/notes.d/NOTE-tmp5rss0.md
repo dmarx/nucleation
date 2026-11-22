@@ -23,6 +23,7 @@ summary: >-
   open-loop, with less power than a design from the mean response curve,
   which with heterogeneous units can lock them into the wrong pattern.
 ---
+<!-- inactive-ok-file: CLAIM-167 — Proposed; the one-way drive claim this reading bears on -->
 
 # NOTE-tmp5rss0: Ocampo-Espindola, Singhal, Li and Kiss — Optimal phase-selective entrainment of electrochemical oscillators with different phase response curves
 

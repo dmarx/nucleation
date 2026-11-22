@@ -132,3 +132,8 @@ Manik, Timme and Witthaut (THEORY-tmpnlu47, bears_on; NOTE-tmpftn2t) give two re
 <!-- inactive-ok-file: THEORY-tmp0xz8p NOTE-tmpd2cps — Proposed and Skimmed; filed by LEAD-023 -->
 
 Bosca and Ghrist (THEORY-tmp0xz8p, bears_on; NOTE-tmpd2cps, skimmed) extend the one model this question named, in which interaction changes the correspondence structure. Two additions bear on it. The structure flow is itself diffusion on an auxiliary sheaf of structures (Proposition 4.8), so change of the operator has the same form as change of the states it relates. And a condition is given for which of the two changes: the ratio of the expression rate to the opinion rate bounds how far the other moves (Corollary 6.5). That is a condition of the kind the question asks for, inside the model. As before, the adaptation rule is the modeller's gradient flow, and nothing in the model tells a change of the operator from its redescription. The question stays open.
+
+## Note of 2026-11-22: Leal and colleagues, skimmed
+<!-- inactive-ok-file: THEORY-tmpzt77d NOTE-tmp9h46q — Proposed and Skimmed; filed by LEAD-023 -->
+
+Leal and colleagues (THEORY-tmpzt77d, bears_on; NOTE-tmp9h46q, skimmed; LIT-2262) give a way to describe a correspondence structure that changes over time: a narrative valued in cellular sheaves records the sheaf at each interval and what persists and accumulates across switches of the communication topology. The switching is given as data, not produced by the agents' interactions, and the dynamics on such temporal sheaves are work in progress. A representation for the question's change of the operator, then, not a condition for it. The question stays open.

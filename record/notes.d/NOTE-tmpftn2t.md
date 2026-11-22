@@ -24,6 +24,7 @@ summary: >-
   stable state; long cycles, strong edges and homogeneous injections give
   many; raising one edge's capacity can destroy phase locking.
 ---
+<!-- inactive-ok-file: CLAIM-tmp7vutq — Proposed; filed by LEAD-023 -->
 
 # NOTE-tmpftn2t: Manik, Timme and Witthaut — Cycle flows and multistability in oscillatory networks
 
