@@ -84,7 +84,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-tmpehudh — Proposed; the reading of Bak, Tang and Wiesenfeld cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-814 ARG-148 — filed with this claim from the same exchange, Open or Proposed -->
-<!-- inactive-ok-file: LIT-2991 — Unavailable since 2026-11-22, registered 2026-11-21 from the exchange; read through its companion -->
+<!-- inactive-ok-file: LIT-2991 until 2027-05-22 — Unavailable since 2026-11-22, registered 2026-11-21 from the exchange; read through its companion -->
 <!-- inactive-ok-file: THEORY-tmps8t83 ARG-tmp2zz6k ARG-tmps7n0g — Proposed or new; the companion's reading, the supplement and their arguments, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-tmpye6xs ARG-tmp5sgtm LIT-tmpfn6b8 — Proposed, Deferred or new; the finite-window reading, its argument and the work it names, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2158 ARG-128 — Proposed; the reading of Dambre and colleagues and its argument, 2026-11-21 -->

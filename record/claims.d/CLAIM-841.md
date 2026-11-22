@@ -94,7 +94,9 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmp6jdas THEORY-tmpw4qgu THEORY-tmphcnj3 ARG-tmp38kft — Proposed; the readings of 2026-11-22 and the argument on this claim's network bullet -->
 <!-- inactive-ok-file: LIT-tmpvmrkv — Deferred; the reply disputing Broido and Clauset, registered and unread -->
 <!-- inactive-ok-file: TERM-139 CLAIM-846 — filed with this claim on 2026-11-21 -->
-<!-- inactive-ok-file: LIT-2969 LIT-2985 LIT-tmph3tia — Unfetched, Unavailable or Deferred; Kosterlitz and Thouless and Mermin and Wagner, read through neighbours, and Kosterlitz (1974), registered -->
+<!-- inactive-ok-file: LIT-tmph3tia — Deferred; Kosterlitz (1974), registered 2026-11-22 -->
+<!-- inactive-ok-file: LIT-2969 until 2027-05-22 — Unfetched; Kosterlitz and Thouless, read through the Nobel lecture and Drouin-Touchette -->
+<!-- inactive-ok-file: LIT-2985 until 2027-05-22 — Unavailable; Mermin and Wagner, read through Halperin, Gelfert and Nolting, and Nachtergaele -->
 <!-- inactive-ok-file: THEORY-tmpo3w5v THEORY-tmpmoyol THEORY-tmpdcfxq THEORY-tmpdfeto THEORY-tmpwdka8 THEORY-tmpaojie THEORY-tmpqma2p THEORY-tmp1nvjs THEORY-tmp85ij4 NOTE-tmpcjw5n NOTE-tmpurjns ARG-tmp2xbl4 ARG-tmpdc2qe ARG-tmprfa3j CLAIM-tmpvq33w — Proposed, Skimmed or new; the readings of 2026-11-22, their arguments, and the claim filed beside this one -->
 <!-- inactive-ok-file: THEORY-tmpehudh ARG-tmp1zu0m CLAIM-tmpfwwrf — Proposed or new; the reading of Bak, Tang and Wiesenfeld, the argument on this claim and the record's sandpile reproduction -->
 <!-- inactive-ok-file: CLAIM-769 — Proposed; power-law relaxation from a spread of rates -->
