@@ -10,3 +10,6 @@
 - CLAIM-tmpnookt (interpretive): specification is model-theoretic in the record and
   proof-relevant in type theory, with the correspondences stated; LEAD-tmp3xevc
   to read the sources.
+- TERM-tmp7s2aa (witness) and TERM-tmp3mop8 (certificate), Proposed, at the owner's
+  suggestion of a term for witness: the existence and the evidence halves
+  of a proof-relevant answer.
