@@ -1,7 +1,7 @@
 ---
 status: Open
 title: 'Read the type-theoretic sources for the account of specification, propositions as problems, realizability, refinement types and bidirectional typing, to test the correspondences the record states from memory'
-version: 3
+version: 4
 stage: underway
 priority: medium
 method:
@@ -53,6 +53,11 @@ Register and read, under the read-and-file skill:
   effects: bidirectional refinement checking, the sharp test of the
   direction-of-fit correspondence that Freeman and Pfenning leave
   untested ([CLAIM-tmp764wb](../claims.d/CLAIM-tmp764wb.md)). Added the same day for the same reason.
+- Proposed, not started (the owner's call): Flanagan (2006), Hybrid Type
+  Checking, which inserts run-time checks where static checking cannot
+  decide. It is the nearest case of the elaboration CLAIM-tmpnookt names, which
+  none of the three refinement systems read shows. Suggested by the Liquid
+  Types reader.
 
 ## What would count
 
