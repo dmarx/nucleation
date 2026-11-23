@@ -125,6 +125,6 @@ rightness and then ritual, ritual being the husk (paraphrased, not
 checked). Read against this claim, a governed record is ritual in that
 sense, externalized governance. It approaches wu-wei only if collaborators
 internalize it into learned coordination, the last step of A20's
-sequence. If it stays externalized it is the husk. CLAIM-tmpaj28t states
+sequence. If it stays externalized it is the husk. [CLAIM-tmpaj28t](CLAIM-tmpaj28t.md) states
 the cultivation and unlearning routes this belongs to. An analogy; no
 edge.

@@ -79,7 +79,7 @@ persistence does not fix redirectability.
 
 The assistant, answering the owner's "relate the conversation to wuwei" (2026-11-23, this session): Daodejing 60, govern a large state as you would cook a small fish
 (paraphrased, not checked), reads naturally as low-gain filtering. If you
-don't stir, you don't pass noise into the organization. CLAIM-tmp76xaw
+don't stir, you don't pass noise into the organization. [CLAIM-tmp76xaw](CLAIM-tmp76xaw.md)
 is the limit: not stirring is wu-wei only relative to a classification of
 noise. An institution that will not be stirred by objections to its
 categories has entrenched its filter. This is an analogy; no edge.

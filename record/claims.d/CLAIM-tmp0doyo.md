@@ -29,8 +29,8 @@ complements:
 - CLAIM-tmpx8csq
 summary: The assistant's answer to the owner's "relate the conversation to
   wuwei" (2026-11-23, this session), after the exchange "Explain First Contact
-  RL". CLAIM-541 reads wu-wei as control placed and timed where a system's
-  own dynamics do most of the work. This adds direction from CLAIM-345's Gramian,
+  RL". [CLAIM-541](CLAIM-541.md) reads wu-wei as control placed and timed where a system's
+  own dynamics do most of the work. This adds direction from [CLAIM-345](CLAIM-345.md)'s Gramian,
   and reads A44's split, fast restoration across a system's organizing relations
   with slow change along them, as the same picture. The Zhuangzi passage is
   cited from common knowledge of it and not checked against a translation.
@@ -44,17 +44,17 @@ summary: The assistant's answer to the owner's "relate the conversation to
 
 ## The claim
 
-By CLAIM-345, the least ∫‖u‖² that moves ẋ = Ax + Bu from 0 to Δx by time
+By [CLAIM-345](CLAIM-345.md), the least ∫‖u‖² that moves ẋ = Ax + Bu from 0 to Δx by time
 H is ΔxᵀW_H^†Δx when Δx lies in the range of the Gramian W_H, and
 infinite otherwise. Write Δx = r·q with q a unit vector. If q is an
 eigenvector of W_H with eigenvalue σ, the cost is r²/σ. The same size of
 change is then cheap along strong directions (large σ), dear along weak
-ones (small σ), and impossible outside the range. CLAIM-tmpx8csq is the
+ones (small σ), and impossible outside the range. [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md) is the
 one-mode case: persistence (γ) is not redirectability (b).
 
 ## The reading
 
-CLAIM-541 gives wu-wei a timing: small perturbations timed by the
+[CLAIM-541](CLAIM-541.md) gives wu-wei a timing: small perturbations timed by the
 system's own wandering, as in Ott–Grebogi–Yorke control. This gives it a
 direction. Effortless action moves along the directions the system and
 the actor's means already afford. Strain is forcing a change along a
@@ -67,15 +67,15 @@ A44 of the exchange "Explain First Contact RL" split perturbations into
 those across an organization's organizing relations, restored fast, and
 those along them, changed slowly. Its "identity-preserving adaptability"
 is this picture applied to an organization. The scroll interface's
-design (CLAIM-tmpk8ude) is effortless in the same sense for its user:
+design ([CLAIM-tmpk8ude](CLAIM-tmpk8ude.md)) is effortless in the same sense for its user:
 learning runs where it adds no lag, and the user meets a surface that
 already moves as expected.
 
-## Admission (ADR-075)
+## Admission ([ADR-075](../decisions.d/ADR-075.md))
 
-*A derivation.* The cost ordering by direction follows from CLAIM-345's
-formula by the eigendecomposition of W_H. CLAIM-541 states timing, not
+*A derivation.* The cost ordering by direction follows from [CLAIM-345](CLAIM-345.md)'s
+formula by the eigendecomposition of W_H. [CLAIM-541](CLAIM-541.md) states timing, not
 direction. Neither entry states the ordering by direction, and it is
 what the reading uses. The reading itself is interpretive. It is
 defeated by its `defeated_if`, and Slingerland's reading of wu-wei, unread
-(LIT-1994), may bear on it.
+([LIT-1994](../literature.d/LIT-1994.md)), may bear on it.

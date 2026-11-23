@@ -379,4 +379,4 @@ on the best ruler, whom the people barely know exists, and who finishes
 the work so that the people say they did it themselves (paraphrased from
 common knowledge of the text, not checked). This is an analogy; no edge
 is written. The regulation thread of the exchange "Explain First Contact
-RL" (CLAIM-tmptfpf7, generative regulation) is the same shape.
+RL" ([CLAIM-tmptfpf7](CLAIM-tmptfpf7.md), generative regulation) is the same shape.

@@ -32,11 +32,11 @@ complements:
 - CLAIM-758
 - CLAIM-711
 summary: The assistant's answer to the owner's "relate the conversation to
-  wuwei" (2026-11-23, this session). It maps the owner's U20 tension (CLAIM-tmpntzjo)
-  and A44's resolution of it (CLAIM-tmpm985y) onto the paradox of wu-wei.
+  wuwei" (2026-11-23, this session). It maps the owner's U20 tension ([CLAIM-tmpntzjo](CLAIM-tmpntzjo.md))
+  and A44's resolution of it ([CLAIM-tmpm985y](CLAIM-tmpm985y.md)) onto the paradox of wu-wei.
   Supposed, because the sinological framing (the paradox, and Confucian cultivation
   against Daoist unlearning) is the assistant's recollection of a standard
-  summary, Slingerland's among others, and LIT-1994 is unread. LEAD-tmpsyfgj
+  summary, Slingerland's among others, and [LIT-1994](../literature.d/LIT-1994.md) is unread. [LEAD-tmpsyfgj](../leads.d/LEAD-tmpsyfgj.md)
   would check it. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -61,7 +61,7 @@ are commonly read as offering two routes.
   return to infancy are the usual images.
 
 (Both are cited from common knowledge of the texts and the secondary
-literature, not checked. LIT-1994 is unread.)
+literature, not checked. [LIT-1994](../literature.d/LIT-1994.md) is unread.)
 
 ## The correspondence
 
@@ -69,24 +69,24 @@ literature, not checked. LIT-1994 is unread.)
   inversion": "A strongly stabilized organization can be highly adaptable
   precisely because it does not need to reconstruct its basic coordination
   after every disturbance." It is also A44's "commitment is slow; its
-  application is fast" (CLAIM-711). Its failure is ritual that has become
+  application is fast" ([CLAIM-711](CLAIM-711.md)). Its failure is ritual that has become
   the husk, a rigidity the Daoist texts name. That is overconsolidation
-  (CLAIM-758) and an entrenched filter (CLAIM-tmp76xaw).
-- **Unlearning keeps the spectrum retunable** (CLAIM-tmpcag0t). Its
+  ([CLAIM-758](CLAIM-758.md)) and an entrenched filter ([CLAIM-tmp76xaw](CLAIM-tmp76xaw.md)).
+- **Unlearning keeps the spectrum retunable** ([CLAIM-tmpcag0t](CLAIM-tmpcag0t.md)). Its
   failure is dissolving the structure that made response cheap, the risk
-  the cultivation texts name, which is a loss of what CLAIM-711's slow
+  the cultivation texts name, which is a loss of what [CLAIM-711](CLAIM-711.md)'s slow
   commitments supply.
-- **The resolution.** CLAIM-tmpm985y treats stabilization and
+- **The resolution.** [CLAIM-tmpm985y](CLAIM-tmpm985y.md) treats stabilization and
   adaptability as two achievements of one organization, with some
   identity-bearing structures being those that keep the others
   revisable. On this supposition that resolution is a dynamical
   statement of the Confucian–Daoist dispute: which relations to conserve,
   and which to keep revisable. On the weak reading of "inherent" in the
-  owner's U20 (CLAIM-tmpntzjo), the tension is inherent as the paradox is:
+  owner's U20 ([CLAIM-tmpntzjo](CLAIM-tmpntzjo.md)), the tension is inherent as the paradox is:
   never removed, always managed.
 
 ## Why supposed
 
 The mapping rests on a summary of the sinology that the record has not
 read. If the sources do not support the two routes as stated, the
-correspondence fails even though CLAIM-tmpm985y may stand.
+correspondence fails even though [CLAIM-tmpm985y](CLAIM-tmpm985y.md) may stand.

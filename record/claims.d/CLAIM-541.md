@@ -96,21 +96,21 @@ the APS makes those free it should be Unfetched.
 
 The record has read no account of wu-wei: Slingerland ([LIT-1994](../literature.d/LIT-1994.md)) and Bruya ([LIT-910](../literature.d/LIT-910.md)) are Unavailable, so the sinological test its defeater names has not been run. Its formal instance, Ott, Grebogi and Yorke's method, is known here only second-hand ([LIT-1997](../literature.d/LIT-1997.md), [LIT-1972](../literature.d/LIT-1972.md), Unavailable). A reading of either would let the ruling be made.
 
-<!-- inactive-ok-file: CLAIM-tmp0doyo CLAIM-tmpaj28t CLAIM-tmpk8ude CLAIM-711 LEAD-tmpsyfgj — Proposed or Open; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+<!-- inactive-ok-file: CLAIM-tmp0doyo CLAIM-tmpaj28t CLAIM-tmpk8ude CLAIM-711 — Proposed or Open; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
 ## Note of 2026-11-23: wu-wei across the exchange "Explain First Contact RL"
 
 The assistant, answering the owner's "relate the conversation to wuwei" (2026-11-23, this session), after the exchange's filing:
-- **A direction beside this claim's timing.** CLAIM-tmp0doyo adds it from
-  the Gramian (CLAIM-345). It rests on this claim.
+- **A direction beside this claim's timing.** [CLAIM-tmp0doyo](CLAIM-tmp0doyo.md) adds it from
+  the Gramian ([CLAIM-345](CLAIM-345.md)). It rests on this claim.
 - **The paradox of wu-wei and its two classical routes.** Cultivation and
   unlearning are read, as a supposition, onto the tension between identity
-  stabilization and adaptability (CLAIM-tmpaj28t).
+  stabilization and adaptability ([CLAIM-tmpaj28t](CLAIM-tmpaj28t.md)).
 - **Two more instances of this claim's sources.** The scroll interface's
-  learning off the critical path (CLAIM-tmpk8ude) is the second source,
+  learning off the critical path ([CLAIM-tmpk8ude](CLAIM-tmpk8ude.md)) is the second source,
   accommodation that is learned and amortized. A44's "commitment is slow;
-  its application is fast" (CLAIM-711) is a fourth shape this claim does
+  its application is fast" ([CLAIM-711](CLAIM-711.md)) is a fourth shape this claim does
   not name: slow commitments that make fast right action cheap.
 
-LEAD-tmpsyfgj would read a neighbour of the unavailable LIT-1994 to check
+[LEAD-tmpsyfgj](../leads.d/LEAD-tmpsyfgj.md) would read a neighbour of the unavailable [LIT-1994](../literature.d/LIT-1994.md) to check
 these readings.
