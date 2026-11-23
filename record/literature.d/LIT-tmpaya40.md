@@ -1,0 +1,69 @@
+---
+status: Active
+status_note: >-
+  read 2026-11-23 in full (NOTE-tmpejwjy), from the open-access copy in
+  UChicago Knowledge (knowledge.uchicago.edu/records/4bhdp-zzh05, the
+  journal's early-view PDF under CC BY-NC 4.0), for the study filed as
+  CASE-tmphvbov. The online appendix was not read.
+title: 'Out of Site, Out of Mind? The Role of the Government-Appointed Corporate Monitor'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Registered and read on 2026-11-23 by the lead run of that date.
+    Checked: not held in record/literature.d by DOI, title or first author.
+    Crossref answered 429 and was not retried; OpenAlex gives the
+    publication date 2023-09-15 and Journal of Accounting Research 61(5),
+    1633–1698. The copy read is the early view, paginated from 1; page
+    numbers in the NOTE are that copy's. No email address was sent to any
+    service.
+tags:
+- society-and-governance
+- social-science
+- ethics
+date: '2026-11-23'
+published: '2023-09-15'
+doi: '10.1111/1475-679X.12502'
+first_author: 'Gallo'
+keywords:
+- 'corporate governance'
+- 'corporate culture'
+- 'corporate monitor'
+- 'corporate recidivism'
+- 'enforcement'
+- 'ethical norms'
+- 'regulation'
+implementations: []
+summary: >-
+  Gallo, Lynch and Tomy (2023): in 193 deferred and non-prosecution
+  agreements with listed US firms, 2001–2019, firms required to take an
+  on-site government-appointed monitor commit 18–25% fewer penalised
+  violations than firms without one while the monitor is there, and not
+  after it leaves; an ethics-and-compliance measure from earnings calls
+  rises and falls with it. The one open study found that estimates a
+  sanction's effect after the sanction ends. Read in NOTE-tmpejwjy; its
+  account is THEORY-tmpvtotj.
+---
+<!-- inactive-ok-file: NOTE-tmpejwjy THEORY-tmpvtotj CASE-tmphvbov — new; the reading, the account and the study filed from this work -->
+
+# LIT-tmpaya40: Out of Site, Out of Mind? The Role of the Government-Appointed Corporate Monitor
+
+Gallo, Lynch and Tomy (2023), *Journal of Accounting Research* 61(5) — doi:10.1111/1475-679X.12502
+
+## Key takeaways
+
+- **Monitors reduce violations only while on site.** "N/DPA firms with
+  Corporate Monitors commit 18%–25% fewer violations relative to N/DPA firms
+  that are not required to appoint Corporate Monitors, but only while the
+  Monitor is on site" (p. 5).
+- **Reversion.** "violations increase to pre-N/DPA levels following the
+  Monitors' departure" (p. 5).
+- **Norms revert too.** Monitor firms "only experience an improvement in
+  their ethics and compliance during the time the Monitor is on site—there
+  is no long-term increase in our measures" (p. 6).
+
+## Standing in the record
+
+The quantitative arm of the study run for LEAD-101 (CASE-tmphvbov). It
+measures detected, penalised violations, not whether harms are weighed.
