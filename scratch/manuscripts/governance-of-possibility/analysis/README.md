@@ -127,7 +127,7 @@ coordinator before committing: the outputs reproduced exactly except
      period loses the route after the first undrilled period (the negative
      control). In the novel-demand run, a review that crowds out the drill
      takes the route with it (B_end = 1 when there is no outside money).
-5. **Ranking depends on the deadline.**
+5. **The ranking: readiness has a leader at every deadline, cost does not.** II (≡ V) is most ready at every deadline; what depends on the deadline is the order of the others and which regime is cheapest.
    - On readiness: II ≡ V dominate everything, and II dominates III-b ≡ IV.
      I and III-b cross between τ = 2 and τ = 3. At τ = 2, I with outside money
      (0.025) beats III-b (0), because the staged route cannot finish in fewer
