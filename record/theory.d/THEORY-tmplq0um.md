@@ -21,11 +21,11 @@ bears_on:
 corroborates:
 - CLAIM-644
 summary: >-
-  Zhou and Ryan (2023), read in full (NOTE-tmp05o0u). The field's own
+  Zhou and Ryan (2023), read in full ([NOTE-tmp05o0u](../notes.d/NOTE-tmp05o0u.md)). The field's own
   survey, by authors open to the epigenetic route, reaches the scope that
-  CLAIM-644 takes from Horsthemke: no human design yet separates germline
+  [CLAIM-644](../claims.d/CLAIM-644.md) takes from Horsthemke: no human design yet separates germline
   transmission from shared genes, environment and behaviour. That
-  corroborates CLAIM-644 independently of the sceptics' school. Filed
+  corroborates [CLAIM-644](../claims.d/CLAIM-644.md) independently of the sceptics' school. Filed
   Proposed; the reading is the lead run's.
 ---
 <!-- inactive-ok-file: CLAIM-tmp3qsdg CLAIM-644 — filed by the lead run of 2026-11-23 -->
@@ -34,7 +34,7 @@ summary: >-
 
 ## The account
 
-Zhou and Ryan (2023), LIT-tmpdvx5j. MEDLINE and EMBASE were searched on 29
+Zhou and Ryan (2023), [LIT-tmpdvx5j](../literature.d/LIT-tmpdvx5j.md). MEDLINE and EMBASE were searched on 29
 June 2023 for human studies using "intergenerational" or
 "transgenerational" with epigenetic marks and trauma or stress. They found
 22 publications from 19 studies, 2011–2023, with 21 to 896 participants.
@@ -57,9 +57,9 @@ study.
 - That the studies are sound, which was not assessed.
 - That no separating design exists outside its terms. Donor-gamete and
   adoption designs, which do not call themselves intergenerational, fall
-  outside the search (NOTE-tmpso8z1).
+  outside the search ([NOTE-tmpso8z1](../notes.d/NOTE-tmpso8z1.md)).
 
 ## What it bears on
 
-QUESTION-297's routes. It corroborates CLAIM-644, and grounds
-CLAIM-tmp3qsdg's survey of designs.
+[QUESTION-297](../questions.d/QUESTION-297.md)'s routes. It corroborates [CLAIM-644](../claims.d/CLAIM-644.md), and grounds
+[CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md)'s survey of designs.

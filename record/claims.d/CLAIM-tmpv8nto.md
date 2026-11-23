@@ -27,10 +27,10 @@ grounds:
 bears_on:
 - QUESTION-297
 summary: >-
-  The donor-gamete design (Rice et al., THEORY-tmpo8don; Lewis et al.,
-  THEORY-tmp4fo7b) is the one human design that removes both the womb and
+  The donor-gamete design (Rice et al., [THEORY-tmpo8don](../theory.d/THEORY-tmpo8don.md); Lewis et al.,
+  [THEORY-tmp4fo7b](../theory.d/THEORY-tmp4fo7b.md)) is the one human design that removes both the womb and
   rearing from a comparison of what a child inherits. This claim states
-  its limit for QUESTION-297: in the related–unrelated contrast, a gamete's
+  its limit for [QUESTION-297](../questions.d/QUESTION-297.md): in the related–unrelated contrast, a gamete's
   DNA and its epigenetic marks are both fixed by whose gamete it is, so the
   contrast measures their sum. To divide them, the exposure must vary while
   the person is held fixed. The wording is the assistant's (Claude, in
@@ -60,7 +60,7 @@ The related–unrelated contrast therefore estimates the part of the
 association carried by G and E together. Nothing in the contrast varies E
 while G is held fixed, because both are fixed by the same fact: whose
 gamete it was. So the contrast can say "inherited", in the design's sense
-(Rice et al.'s "maternally inherited factors", THEORY-tmpo8don), but not
+(Rice et al.'s "maternally inherited factors", [THEORY-tmpo8don](../theory.d/THEORY-tmpo8don.md)), but not
 "germline epigenetic" as against "genetic".
 
 ## The derivation
@@ -86,17 +86,17 @@ would emerge as inherited.
 
 ## Relation to what the record holds
 
-- **CLAIM-644** says no design now in use separates the germline route.
+- **[CLAIM-644](CLAIM-644.md)** says no design now in use separates the germline route.
   This claim gives one reason, for the design that comes closest.
-- **Horsthemke** (THEORY-1618) holds that in humans genetic inheritance
+- **Horsthemke** ([THEORY-1618](../theory.d/THEORY-1618.md)) holds that in humans genetic inheritance
   "should and can be excluded". That is by examining the DNA, a
   measurement this claim sets aside. The two are compatible: the
   comparison alone cannot divide G from E, and sequencing or gamete
   measurement may.
 - The way out in step 4 is the within-family timing contrast that Costa
   et al. use for fathers (born before against after captivity;
-  NOTE-1255). Their sons were raised by the father, so that design leaves
-  rearing in. CLAIM-tmp3qsdg sets out the combinations.
+  [NOTE-1255](../notes.d/NOTE-1255.md)). Their sons were raised by the father, so that design leaves
+  rearing in. [CLAIM-tmp3qsdg](CLAIM-tmp3qsdg.md) sets out the combinations.
 
 ## What it does not say
 

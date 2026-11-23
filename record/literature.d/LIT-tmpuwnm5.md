@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpv0ug9), from Europe PMC's full-text XML
+  read 2026-11-23 ([NOTE-tmpv0ug9](../notes.d/NOTE-tmpv0ug9.md)), from Europe PMC's full-text XML
   (PMC12092256), CC BY 4.0: abstract, introduction, methods, results,
   discussion and conclusions; the supplementary tables not read. Worth
   reading as the largest human study so far of sperm epigenetic marks
@@ -63,5 +63,5 @@ Tuulari, J. J., Bourgery, M., Iversen, J., Koefoed, T. G., Ahonen, A., Ahmedani,
 
 ## Standing in the record
 
-Read for LEAD-156 (QUESTION-297). It is the molecular half of a paternal
-design. The reading is NOTE-tmpv0ug9, and its account is THEORY-tmpseccf.
+Read for [LEAD-156](../leads.d/LEAD-156.md) ([QUESTION-297](../questions.d/QUESTION-297.md)). It is the molecular half of a paternal
+design. The reading is [NOTE-tmpv0ug9](../notes.d/NOTE-tmpv0ug9.md), and its account is [THEORY-tmpseccf](../theory.d/THEORY-tmpseccf.md).

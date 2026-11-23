@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-23 (NOTE-tmpso8z1), from PubMed Central's full-text
+  read in full 2026-11-23 ([NOTE-tmpso8z1](../notes.d/NOTE-tmpso8z1.md)), from PubMed Central's full-text
   XML (PMC2830085), CC BY-NC-SA 2.5. Worth reading as the first human use
   of a "prenatal cross-fostering" design, in which egg and embryo donation
   make the mother who carries the pregnancy genetically unrelated to the
@@ -68,7 +68,7 @@ Rice, F., Harold, G. T., Boivin, J., van den Bree, M., Hay, D. F. & Thapar, A. (
 
 ## Standing in the record
 
-Read for LEAD-156, which looks for human designs that separate a germline
+Read for [LEAD-156](../leads.d/LEAD-156.md), which looks for human designs that separate a germline
 route of inherited trauma from the womb, parenting and culture
-(QUESTION-297). It is the donor-gamete design at work. The reading is
-NOTE-tmpso8z1, and its account is THEORY-tmpo8don.
+([QUESTION-297](../questions.d/QUESTION-297.md)). It is the donor-gamete design at work. The reading is
+[NOTE-tmpso8z1](../notes.d/NOTE-tmpso8z1.md), and its account is [THEORY-tmpo8don](../theory.d/THEORY-tmpo8don.md).

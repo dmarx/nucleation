@@ -64,37 +64,37 @@ Carried out by a delegated lead run on branch
 `claude/lead-156-germline-route`. Its progress file is
 `scratch/studies/lead-156/PROGRESS.md`.
 
-- **Already held?** In part. CLAIM-644 already holds that no human design
+- **Already held?** In part. [CLAIM-644](../claims.d/CLAIM-644.md) already holds that no human design
   now in use separates the germline route, as a scoped inference from
   Horsthemke. No design search and no reading of the registered works was
   on record, so the run went ahead and filed nothing that restates
-  CLAIM-644.
+  [CLAIM-644](../claims.d/CLAIM-644.md).
 - **Searched** Europe PMC's REST API and PMC through NCBI E-utilities, with
-  no email in any request (ADR-101): human sperm and germline studies of
+  no email in any request ([ADR-101](../decisions.d/ADR-101.md)): human sperm and germline studies of
   trauma, IVF and donor-gamete designs, adoption designs, three-generation
   and paternal-line designs, and the identity route.
 - **Read and filed**, each with a LIT, a NOTE and a THEORY:
   - Rice et al. 2010, the IVF "prenatal cross-fostering" design
-    (THEORY-tmpo8don);
+    ([THEORY-tmpo8don](../theory.d/THEORY-tmpo8don.md));
   - Lewis et al. 2011, the same design on parental depression
-    (THEORY-tmp4fo7b);
+    ([THEORY-tmp4fo7b](../theory.d/THEORY-tmp4fo7b.md));
   - Mulligan et al. 2025, Syrian refugees with a "germline" exposure group
-    (THEORY-tmppcqht);
+    ([THEORY-tmppcqht](../theory.d/THEORY-tmppcqht.md));
   - Tuulari et al. 2025, sperm marks of fathers' childhood maltreatment
-    (THEORY-tmpseccf);
+    ([THEORY-tmpseccf](../theory.d/THEORY-tmpseccf.md));
   - Zhou and Ryan 2023, a scoping review of the human studies
-    (THEORY-tmplq0um).
-- **The verdict** is CLAIM-tmp3qsdg: each design removes some routes and
+    ([THEORY-tmplq0um](../theory.d/THEORY-tmplq0um.md)).
+- **The verdict** is [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md): each design removes some routes and
   leaves at least one, and no study combines them. The donor-gamete
-  design's limit is CLAIM-tmpv8nto. The alternative reading of the Syrian
-  study, as a partial separation, is CLAIM-tmpgv8bs, argued in
-  ARG-tmpmenxz. The run leans to the first; the owner chooses.
-- **The registered works.** Yehuda and Lehrner 2018 (LIT-1715) was retried
+  design's limit is [CLAIM-tmpv8nto](../claims.d/CLAIM-tmpv8nto.md). The alternative reading of the Syrian
+  study, as a partial separation, is [CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md), argued in
+  [ARG-tmpmenxz](../arguments.d/ARG-tmpmenxz.md). The run leans to the first; the owner chooses.
+- **The registered works.** Yehuda and Lehrner 2018 ([LIT-1715](../literature.d/LIT-1715.md)) was retried
   by both documented interfaces and refused by both. Yehuda et al. 2016
-  (LIT-1692) and Pembrey et al. 2006 (LIT-1764) have no PMC copy. Their
+  ([LIT-1692](../literature.d/LIT-1692.md)) and Pembrey et al. 2006 ([LIT-1764](../literature.d/LIT-1764.md)) have no PMC copy. Their
   publisher hosts refused on 2026-10-29 and were not retried. All three
   stay Unfetched, with dated notes. Zhou and Ryan add a second-hand account
-  of the 2016 study. Ord 2020 (LIT-1678) was outside this run's brief and
+  of the 2016 study. Ord 2020 ([LIT-1678](../literature.d/LIT-1678.md)) was outside this run's brief and
   was not attempted.
 - **The identity part** (descendants' distress against group
   identification). No study was found that measures distress over an

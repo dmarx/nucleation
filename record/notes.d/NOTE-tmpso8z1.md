@@ -91,7 +91,7 @@ prenatal-stress associations survive that removal.
 
 ## Bearing on the record
 
-- **QUESTION-297, the routes** (evidence on a design). The donor-gamete
+- **[QUESTION-297](../questions.d/QUESTION-297.md), the routes** (evidence on a design). The donor-gamete
   design separates the uterine and rearing routes from everything carried
   at conception. It cannot separate a germline epigenetic route from
   genetic inheritance, because both travel with the gamete. In a
@@ -99,12 +99,12 @@ prenatal-stress associations survive that removal.
   recipients, a difference in the children would show transmission through
   the gamete, DNA and marks together, with the womb and rearing removed.
   That would be more than any study the record holds. No study of
-  trauma-exposed gamete donors was found (CLAIM-tmpv8nto).
+  trauma-exposed gamete donors was found ([CLAIM-tmpv8nto](../claims.d/CLAIM-tmpv8nto.md)).
 - **The parenting route** (support). The anxiety result is a postnatal
   route visible even in unrelated pairs. The same design shows the
   rearing route directly for parental depression in Lewis et al. 2011
-  (NOTE-tmp18gag).
-- **CLAIM-644** (a parallel; the corroboration is CLAIM-tmp3qsdg's). The study shows what an
+  ([NOTE-tmp18gag](NOTE-tmp18gag.md)).
+- **[CLAIM-644](../claims.d/CLAIM-644.md)** (a parallel; the corroboration is [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md)'s). The study shows what an
   "adoption-like" design can do, and that it divides the routes into two
   groups, not four.
 

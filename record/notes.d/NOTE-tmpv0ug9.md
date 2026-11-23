@@ -80,16 +80,16 @@ fertility.
 
 ## Bearing on the record
 
-- **QUESTION-297, the germline route** (evidence for one step). In men, a
+- **[QUESTION-297](../questions.d/QUESTION-297.md), the germline route** (evidence for one step). In men, a
   childhood exposure goes with sperm marks years later. This answers part
   of Horsthemke's second step, identifying a factor in purified germ cells
-  (THEORY-1618), at the level of association. It does not separate
+  ([THEORY-1618](../theory.d/THEORY-1618.md)), at the level of association. It does not separate
   routes. It shows that a paternal germline route has something to carry.
-- **CLAIM-tmp3qsdg** (ground). The paternal design has its molecular
+- **[CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md)** (ground). The paternal design has its molecular
   half. The missing link is the same men's children, whom the FinnBrain
   cohort holds, with rearing still confounded unless the father did not
   raise the child.
-- **Jawaid and Mansuy** (THEORY-1587; a parallel). The mouse result that
+- **Jawaid and Mansuy** ([THEORY-1587](../theory.d/THEORY-1587.md); a parallel). The mouse result that
   sperm RNA carries paternal stress has, in men, a correlational
   counterpart in the same molecules.
 

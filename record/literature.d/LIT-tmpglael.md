@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-23 (NOTE-tmpxwx4b), from PubMed Central's full-text
+  read in full 2026-11-23 ([NOTE-tmpxwx4b](../notes.d/NOTE-tmpxwx4b.md)), from PubMed Central's full-text
   XML (PMC11868390), CC BY-NC-ND 4.0; supplementary tables not read. Worth
   reading as the only human study found that sets a "germline" exposure
   group (grandchildren of women pregnant during the violence) against
@@ -66,10 +66,10 @@ Mulligan, C. J., Quinn, E. B., Hamadmad, D., Dutton, C. L., Nevell, L., Binder, 
 - The authors call it "the first report of a germline DNAm signature of
   violence trauma in humans using a cohort study with an unexposed
   comparison group". The design does not hold the other routes fixed: see
-  NOTE-tmpxwx4b.
+  [NOTE-tmpxwx4b](../notes.d/NOTE-tmpxwx4b.md).
 
 ## Standing in the record
 
-Read for LEAD-156 (QUESTION-297). It is the nearest the literature found
+Read for [LEAD-156](../leads.d/LEAD-156.md) ([QUESTION-297](../questions.d/QUESTION-297.md)). It is the nearest the literature found
 comes to a human germline-exposure design for trauma. The reading is
-NOTE-tmpxwx4b, and its account is THEORY-tmppcqht.
+[NOTE-tmpxwx4b](../notes.d/NOTE-tmpxwx4b.md), and its account is [THEORY-tmppcqht](../theory.d/THEORY-tmppcqht.md).

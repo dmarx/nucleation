@@ -14,19 +14,19 @@ date: '2026-11-23'
 line:
 - distributed-agency
 summary: >-
-  The inference behind CLAIM-tmpgv8bs, from Mulligan et al.'s result
-  (THEORY-tmppcqht). It is filed because whether the Syrian study supports
-  a germline route is contested between CLAIM-tmpgv8bs and CLAIM-tmp3qsdg.
+  The inference behind [CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md), from Mulligan et al.'s result
+  ([THEORY-tmppcqht](../theory.d/THEORY-tmppcqht.md)). It is filed because whether the Syrian study supports
+  a germline route is contested between [CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md) and [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md).
   Answering the abduction form's critical questions, it fails the one on
   rival explanations: the middle generation's own prenatal development,
   the grandmothers' care, the 1980 community's memory and cohort
   differences each predict the same difference, and the study measures none
   of them. It passes only for a weaker conclusion, that the effect does
   not need an exposed parent's lived experience, which is the last clause
-  of CLAIM-tmpgv8bs; the claim's naming of the germline is the step that
+  of [CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md); the claim's naming of the germline is the step that
   fails. The assistant leans that it does not carry the germline
   conclusion, so the standing of that conclusion stays with
-  CLAIM-tmp3qsdg. The wording is the assistant's (Claude, in this
+  [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md). The wording is the assistant's (Claude, in this
   session); the verdict is the owner's.
 ---
 <!-- inactive-ok-file: THEORY-tmppcqht CLAIM-tmpgv8bs CLAIM-tmp3qsdg — filed by the lead run of 2026-11-23 -->
@@ -37,7 +37,7 @@ summary: >-
 
 1. Grandchildren of women pregnant during the 1980 Hama violence differ
    from children of families who left Syria before 1980 at 14 methylation
-   sites, at genome-wide significance in two models (THEORY-tmppcqht).
+   sites, at genome-wide significance in two models ([THEORY-tmppcqht](../theory.d/THEORY-tmppcqht.md)).
 2. Their mothers were fetuses at the time and did not live through the
    violence as persons.
 3. Of the explanations, a germline route, in which the violence reached
@@ -52,7 +52,7 @@ summary: >-
   predict the same difference:
   - *the womb, one generation on*: the mothers' own in-utero exposure
     altered their development, and so the uterine environment they gave
-    their children. This is QUESTION-297's womb route, displaced by a
+    their children. This is [QUESTION-297](../questions.d/QUESTION-297.md)'s womb route, displaced by a
     generation;
   - *the grandmothers' care*, of the mothers and in three-generation
     households of the grandchildren;
@@ -68,7 +68,7 @@ summary: >-
   community measure, and no gametes.
 - **Would a weaker conclusion follow?** Yes: that the difference does not
   require a parent who lived through the trauma. Premise 2 secures that
-  much, and it is the last clause of CLAIM-tmpgv8bs. The step from there
+  much, and it is the last clause of [CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md). The step from there
   to "the germline", which the claim's first clause takes, is the one that
   fails.
 
@@ -77,4 +77,4 @@ summary: >-
 Proposed, with the assistant's lean that the inference does not carry
 its germline conclusion, and carries only the weaker one. The owner
 decides. If it is rejected, the question of whether the Syrian design
-separates any route rests with CLAIM-tmp3qsdg.
+separates any route rests with [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md).

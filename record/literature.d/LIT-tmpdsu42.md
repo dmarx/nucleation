@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in part 2026-11-23 (NOTE-tmp18gag), from PubMed Central's full-text
+  read in part 2026-11-23 ([NOTE-tmp18gag](../notes.d/NOTE-tmp18gag.md)), from PubMed Central's full-text
   XML (PMC3136241), CC BY 4.0: abstract, introduction, methods and
   results read; the discussion not read. Worth reading as the parenting
   half of the donor-gamete design: in genetically unrelated parent–child
@@ -50,7 +50,7 @@ Lewis, G., Rice, F., Harold, G. T., Collishaw, S. & Thapar, A. (2011). *Journal 
 
 ## Key takeaways
 
-- Same cohort and design as Rice et al. 2010 (LIT-tmpr7q37), turned on the
+- Same cohort and design as Rice et al. 2010 ([LIT-tmpr7q37](LIT-tmpr7q37.md)), turned on the
   postnatal side: the parent who raises the child but did not supply its
   gamete.
 - Parental depression symptoms go with child symptoms in unrelated pairs
@@ -61,6 +61,6 @@ Lewis, G., Rice, F., Harold, G. T., Collishaw, S. & Thapar, A. (2011). *Journal 
 
 ## Standing in the record
 
-Read for LEAD-156 (QUESTION-297). It shows that a donor-gamete design puts
+Read for [LEAD-156](../leads.d/LEAD-156.md) ([QUESTION-297](../questions.d/QUESTION-297.md)). It shows that a donor-gamete design puts
 the parenting route on the "environmental" side, beside the womb. The
-reading is NOTE-tmp18gag, and its account is THEORY-tmp4fo7b.
+reading is [NOTE-tmp18gag](../notes.d/NOTE-tmp18gag.md), and its account is [THEORY-tmp4fo7b](../theory.d/THEORY-tmp4fo7b.md).

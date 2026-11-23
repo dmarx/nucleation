@@ -203,14 +203,14 @@ With the same group's panel ([LIT-3084](../literature.d/LIT-3084.md)), which rep
 path running from concern to self-continuity, Hershfield's offspring bridge
 ([NOTE-1259](../notes.d/NOTE-1259.md)) is not shown. The question stays open.
 
-## Note of 2026-11-23: LEAD-156's run, no bearing found
+## Note of 2026-11-23: [LEAD-156](../leads.d/LEAD-156.md)'s run, no bearing found
 
-LEAD-156 advances this question through Ord's *The Precipice*
-(LIT-1678), which the run did not attempt, and through the identity route
-of QUESTION-297, the past acting forward as legacy acts toward the
+[LEAD-156](../leads.d/LEAD-156.md) advances this question through Ord's *The Precipice*
+([LIT-1678](../literature.d/LIT-1678.md)), which the run did not attempt, and through the identity route
+of [QUESTION-297](QUESTION-297.md), the past acting forward as legacy acts toward the
 future. The run searched for studies of descendants' distress over an
 ancestral injury against their identification with the group, the
-backward counterpart of acting for one's legacy, and found none (LEAD-156's
+backward counterpart of acting for one's legacy, and found none ([LEAD-156](../leads.d/LEAD-156.md)'s
 note of today). The works read concern biological and family routes and
 do not bear on legacy as self-interest. Nothing is filed against this
 question.

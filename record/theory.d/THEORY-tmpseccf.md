@@ -20,10 +20,10 @@ source:
 bears_on:
 - QUESTION-297
 summary: >-
-  Tuulari et al. (2025), read (NOTE-tmpv0ug9). In men, a childhood
+  Tuulari et al. (2025), read ([NOTE-tmpv0ug9](../notes.d/NOTE-tmpv0ug9.md)). In men, a childhood
   exposure goes with sperm marks decades later. That is the first step of
   a paternal germline route, at the level of association. For
-  QUESTION-297 it is the molecular half of a paternal design. The other
+  [QUESTION-297](../questions.d/QUESTION-297.md) it is the molecular half of a paternal design. The other
   half, the same men's children, with rearing removed, is missing. Filed
   Proposed; the reading is the lead run's.
 ---
@@ -34,7 +34,7 @@ summary: >-
 ## The account
 
 Tuulari, Bourgery, Iversen, Koefoed, Ahonen, Ahmedani, Kataja, Karlsson,
-Barrès, Karlsson and Kotaja (2025), LIT-tmpuwnm5. FinnBrain fathers with
+Barrès, Karlsson and Kotaja (2025), [LIT-tmpuwnm5](../literature.d/LIT-tmpuwnm5.md). FinnBrain fathers with
 Trauma and Distress Scale scores of 39 or more were compared with fathers
 scoring 10 or less, using purified sperm collected about nine years after
 their child's birth. RRBS in 55 men found three DMRs, near CRTC1, WFIKKN1
@@ -60,6 +60,6 @@ differ overall.
 
 ## What it bears on
 
-QUESTION-297's germline route, and Horsthemke's second step (THEORY-1618).
-It is a ground of CLAIM-tmp3qsdg for what the paternal design now has and
+[QUESTION-297](../questions.d/QUESTION-297.md)'s germline route, and Horsthemke's second step ([THEORY-1618](THEORY-1618.md)).
+It is a ground of [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md) for what the paternal design now has and
 lacks.

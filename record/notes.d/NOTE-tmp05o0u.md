@@ -89,19 +89,19 @@ table.
 
 ## Bearing on the record
 
-- **QUESTION-297, the routes** (evidence on the literature). The field's
+- **[QUESTION-297](../questions.d/QUESTION-297.md), the routes** (evidence on the literature). The field's
   own survey finds no design that separates germline transmission from
   rearing or culture. Its authors say so. Paternal-only designs remove the
   womb, are two in number, and measure blood or sperm, not transmission.
-- **CLAIM-644** (corroboration). An independent statement of the scope
+- **[CLAIM-644](../claims.d/CLAIM-644.md)** (corroboration). An independent statement of the scope
   the claim takes from Horsthemke, by authors sympathetic to the
   epigenetic route.
-- **LIT-1692** (second-hand content). The FKBP5 study's controls for
+- **[LIT-1692](../literature.d/LIT-1692.md)** (second-hand content). The FKBP5 study's controls for
   current PTSD, offspring childhood trauma and genotype are not in the
-  record's account from Youssef et al. (NOTE-1310). This adds them, at
+  record's account from Youssef et al. ([NOTE-1310](NOTE-1310.md)). This adds them, at
   second hand, with Zhou and Ryan's remark that gametes "could not ... be
   investigated".
-- **CLAIM-tmp3qsdg** (ground). The survey bounds the search: none of the
+- **[CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md)** (ground). The survey bounds the search: none of the
   22 publications is described in its table as using donor gametes or
   adoption. Whether the exposed father raised the child is not coded, so
   that design is neither found nor excluded here.

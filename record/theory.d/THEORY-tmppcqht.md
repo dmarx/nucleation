@@ -20,15 +20,15 @@ source:
 bears_on:
 - QUESTION-297
 summary: >-
-  Mulligan et al. (2025), read in full (NOTE-tmpxwx4b). It is the only human
+  Mulligan et al. (2025), read in full ([NOTE-tmpxwx4b](../notes.d/NOTE-tmpxwx4b.md)). It is the only human
   study found that names a germline exposure group for trauma, and it
   reports methylation differences there. The group is not separated from
   the uterine route of the middle generation, from family rearing or from
-  the 1980 refugee community's history. For QUESTION-297 it is evidence of
+  the 1980 refugee community's history. For [QUESTION-297](../questions.d/QUESTION-297.md) it is evidence of
   a difference between groups that the routes would all predict, not of
   one route. Filed Proposed; the reading is the lead run's, and how much it
-  separates is set out in CLAIM-tmp3qsdg and its alternative,
-  CLAIM-tmpgv8bs.
+  separates is set out in [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md) and its alternative,
+  [CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md).
 ---
 <!-- inactive-ok-file: CLAIM-tmp3qsdg CLAIM-tmpgv8bs — filed by the lead run of 2026-11-23 -->
 
@@ -37,7 +37,7 @@ summary: >-
 ## The account
 
 Mulligan, Quinn, Hamadmad, Dutton, Nevell, Binder, Panter-Brick and
-Dajani (2025), LIT-tmpglael. 48 families, 131 people, with buccal DNA on
+Dajani (2025), [LIT-tmpglael](../literature.d/LIT-tmpglael.md). 48 families, 131 people, with buccal DNA on
 the EPIC array. There are three exposure categories and controls:
 
 - germline: the 1980 group's grandchildren, 18;
@@ -67,16 +67,16 @@ exposure.
 - **That the route is the germline.** The germline children were carried
   by prenatally exposed mothers, raised by them in families headed by
   survivors, and live in a community whose history is the 1980 violence.
-  Each of QUESTION-297's other three routes runs from the exposure to these
-  children (NOTE-tmpxwx4b).
+  Each of [QUESTION-297](../questions.d/QUESTION-297.md)'s other three routes runs from the exposure to these
+  children ([NOTE-tmpxwx4b](../notes.d/NOTE-tmpxwx4b.md)).
 - **Any effect on the children.** No phenotype was measured, and gene
   ontology found no enrichment.
 - **Transgenerational inheritance**, in Heard and Martienssen's sense
-  (THEORY-1576): the grandchild's germ cell was present at the exposure.
+  ([THEORY-1576](THEORY-1576.md)): the grandchild's germ cell was present at the exposure.
 
 ## What it bears on
 
-QUESTION-297's germline route, as the strongest human design for trauma
-found, and a ground of CLAIM-tmp3qsdg (which leans that it does not
-separate the routes) and of CLAIM-tmpgv8bs (which reads it as a partial
+[QUESTION-297](../questions.d/QUESTION-297.md)'s germline route, as the strongest human design for trauma
+found, and a ground of [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md) (which leans that it does not
+separate the routes) and of [CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md) (which reads it as a partial
 separation).

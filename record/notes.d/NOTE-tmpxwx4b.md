@@ -87,14 +87,14 @@ reports DNA methylation differences in the germline group.
 - **Germline exposure**: an F3 individual whose F1 grandmother was exposed
   while pregnant with the F2 mother, because the F2's germ cells were
   present in the F1's womb. Under Heard and Martienssen's usage
-  (THEORY-1576) this is an intergenerational case, not a transgenerational
+  ([THEORY-1576](../theory.d/THEORY-1576.md)) this is an intergenerational case, not a transgenerational
   one: the F3's germ cell was itself present at the exposure.
 - **DOHaD** as the authors' frame. They read inheritance as an adaptive
   signal.
 
 ## Bearing on the record
 
-- **QUESTION-297, the germline route** (evidence on a design; it carries
+- **[QUESTION-297](../questions.d/QUESTION-297.md), the germline route** (evidence on a design; it carries
   less than its authors claim). Set against the routes the question
   names, the germline group is not separated from:
   - *the womb*: each germline grandchild was carried by a mother who was
@@ -112,15 +112,15 @@ reports DNA methylation differences in the germline group.
 
   So the design shows that grandchildren in the 1980 group differ in
   buccal methylation from control families. It does not show by which
-  route. This is the reading of CLAIM-tmp3qsdg. The reading that counts
-  it as a partial separation is CLAIM-tmpgv8bs, argued in ARG-tmpmenxz.
-- **QUESTION-297's opening germline examples** (a parallel). Like the
-  FKBP5 study (NOTE-1310), the effects do not simply copy from parent to
+  route. This is the reading of [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md). The reading that counts
+  it as a partial separation is [CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md), argued in [ARG-tmpmenxz](../arguments.d/ARG-tmpmenxz.md).
+- **[QUESTION-297](../questions.d/QUESTION-297.md)'s opening germline examples** (a parallel). Like the
+  FKBP5 study ([NOTE-1310](NOTE-1310.md)), the effects do not simply copy from parent to
   child. Here no DMP is significant in the prenatally exposed generation,
   though most share its direction.
-- **CLAIM-644** (a parallel; the corroboration is CLAIM-tmp3qsdg's). The best recent human attempt still
+- **[CLAIM-644](../claims.d/CLAIM-644.md)** (a parallel; the corroboration is [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md)'s). The best recent human attempt still
   favours the germline route by design label, not by separation, like
-  Costa et al.'s "by elimination" (NOTE-1255).
+  Costa et al.'s "by elimination" ([NOTE-1255](NOTE-1255.md)).
 
 ## Limitations
 

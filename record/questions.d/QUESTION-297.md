@@ -276,37 +276,37 @@ is close to "the womb" but persists postnatally. Weak, worth a dated note.
 
 ## Note of 2026-11-23: the separating designs, searched for and read
 
-LEAD-156's run searched for the study "What would count as an answer"
+[LEAD-156](../leads.d/LEAD-156.md)'s run searched for the study "What would count as an answer"
 names on the routes, and read the five nearest works.
 
-- **What each design separates** (CLAIM-tmp3qsdg, the run's verdict).
+- **What each design separates** ([CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md), the run's verdict).
   - Donor gametes remove the womb and rearing from what the gamete
     carries, but cannot divide a germline mark from the genes it travels
-    with (CLAIM-tmpv8nto). The design is shown at work by Rice et al.
-    (THEORY-tmpo8don) and Lewis et al. (THEORY-tmp4fo7b), for prenatal
+    with ([CLAIM-tmpv8nto](../claims.d/CLAIM-tmpv8nto.md)). The design is shown at work by Rice et al.
+    ([THEORY-tmpo8don](../theory.d/THEORY-tmpo8don.md)) and Lewis et al. ([THEORY-tmp4fo7b](../theory.d/THEORY-tmp4fo7b.md)), for prenatal
     stress and parental depression. No study of trauma-exposed donors was
     found.
   - A father's exposure before conception removes the womb, and leaves
-    his rearing and the group. Tuulari et al. (THEORY-tmpseccf) add the
+    his rearing and the group. Tuulari et al. ([THEORY-tmpseccf](../theory.d/THEORY-tmpseccf.md)) add the
     molecular half: men's childhood maltreatment goes with sperm marks
     decades later, with no child measured.
   - A pregnant grandmother's exposure, the "germline exposure" of Mulligan
-    et al.'s Syrian families (THEORY-tmppcqht), removes none of the three.
+    et al.'s Syrian families ([THEORY-tmppcqht](../theory.d/THEORY-tmppcqht.md)), removes none of the three.
     The middle generation was exposed in utero, raised by the exposed
     grandmother, in the exposed community.
-  - The field's own survey (Zhou and Ryan, THEORY-tmplq0um) lists no design
+  - The field's own survey (Zhou and Ryan, [THEORY-tmplq0um](../theory.d/THEORY-tmplq0um.md)) lists no design
     that does better.
 
   So the first test still has, for now, the second answer the question
   allows, as the note of 2026-10-29 said. The run adds why: the designs'
   blind spots differ, and no natural experiment found combines them.
-- **An alternative** (CLAIM-tmpgv8bs, ARG-tmpmenxz). The Syrian study can
+- **An alternative** ([CLAIM-tmpgv8bs](../claims.d/CLAIM-tmpgv8bs.md), [ARG-tmpmenxz](../arguments.d/ARG-tmpmenxz.md)). The Syrian study can
   be read as the first partial separation, from the care of a parent who
   lived through the trauma. The run leans against that reading. The owner
   chooses.
 - **The parenting route** gains a design that isolates it from genes.
   In IVF families, a parent's depression symptoms go with the child's when
-  the two are genetically unrelated (THEORY-tmp4fo7b). The exposure is not
+  the two are genetically unrelated ([THEORY-tmp4fo7b](../theory.d/THEORY-tmp4fo7b.md)). The exposure is not
   trauma, so this supports the route, not its share in the transmission
   of trauma.
 - **The identity test** has no study to read. Nothing was found that
@@ -314,10 +314,10 @@ names on the routes, and read the five nearest works.
   identification with the group, apart from knowledge and family. The
   nearest, a study of how often American Indian and Alaska Native young
   adults think of historical loss, measures thoughts, not distress, and
-  its identity measure runs through family and friends (LEAD-156's note of
+  its identity measure runs through family and friends ([LEAD-156](../leads.d/LEAD-156.md)'s note of
   today).
-- **The two opening examples.** The Yehuda study (LIT-1692) and Överkalix
-  (LIT-1764) remain unread here. Zhou and Ryan give the FKBP5 study's
+- **The two opening examples.** The Yehuda study ([LIT-1692](../literature.d/LIT-1692.md)) and Överkalix
+  ([LIT-1764](../literature.d/LIT-1764.md)) remain unread here. Zhou and Ryan give the FKBP5 study's
   controls (current PTSD, offspring childhood trauma, genotype), and add
   that "Potential epigenetic effects in maternal or paternal gametes could
-  not, however, be investigated" (NOTE-tmp05o0u).
+  not, however, be investigated" ([NOTE-tmp05o0u](../notes.d/NOTE-tmp05o0u.md)).

@@ -18,10 +18,10 @@ source:
 bears_on:
 - QUESTION-297
 summary: >-
-  Lewis et al. (2011), read in part (NOTE-tmp18gag). The same IVF cohort
+  Lewis et al. (2011), read in part ([NOTE-tmp18gag](../notes.d/NOTE-tmp18gag.md)). The same IVF cohort
   as Rice et al. 2010, used on the parenting side. It shows that the
   rearing route carries a parent's distress without genes or gametes, for
-  depression symptoms. For QUESTION-297 it is the parenting route isolated
+  depression symptoms. For [QUESTION-297](../questions.d/QUESTION-297.md) it is the parenting route isolated
   from inheritance, for a non-traumatic exposure. Filed Proposed; the
   reading is the lead run's.
 ---
@@ -31,7 +31,7 @@ summary: >-
 
 ## The account
 
-Lewis, Rice, Harold, Collishaw and Thapar (2011), LIT-tmpdsu42. 852 IVF
+Lewis, Rice, Harold, Collishaw and Thapar (2011), [LIT-tmpdsu42](../literature.d/LIT-tmpdsu42.md). 852 IVF
 families. Mother–child correlations of depression symptoms were 0.32 in
 unrelated pairs (egg or embryo donation) and 0.31 in related ones.
 Father–child correlations were 0.17 and 0.23. They were not attenuated by
@@ -53,5 +53,5 @@ would have made transmission genetic.
 
 ## What it bears on
 
-QUESTION-297's parenting route. It is a ground of CLAIM-tmp3qsdg, which
+[QUESTION-297](../questions.d/QUESTION-297.md)'s parenting route. It is a ground of [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md), which
 maps what each design separates.

@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-23 (NOTE-tmp05o0u), from Europe PMC's full-text XML
+  read in full 2026-11-23 ([NOTE-tmp05o0u](../notes.d/NOTE-tmp05o0u.md)), from Europe PMC's full-text XML
   (PMC10454883), CC BY 4.0. Worth reading as a recent survey of the human
   studies of parental trauma and offspring epigenetics, with a table of 22
   studies giving the exposed parent, its timing and the tissue measured.
-  It also gives a second-hand account of Yehuda et al. 2016 (LIT-1692),
+  It also gives a second-hand account of Yehuda et al. 2016 ([LIT-1692](LIT-1692.md)),
   which cannot be read here.
 title: 'Biological Embedding of Early-Life Adversity and a Scoping Review of the Evidence for Intergenerational Epigenetic Transmission of Stress and Trauma in Humans'
 version: 1
@@ -63,6 +63,6 @@ Zhou, A. & Ryan, J. (2023). *Genes*, 14(8), 1639.
 
 ## Standing in the record
 
-Read for LEAD-156 (QUESTION-297) as the survey that bounds the search. Its
-second-hand account of Yehuda et al. 2016 adds to what LIT-1692 holds. The
-reading is NOTE-tmp05o0u, and its account is THEORY-tmplq0um.
+Read for [LEAD-156](../leads.d/LEAD-156.md) ([QUESTION-297](../questions.d/QUESTION-297.md)) as the survey that bounds the search. Its
+second-hand account of Yehuda et al. 2016 adds to what [LIT-1692](LIT-1692.md) holds. The
+reading is [NOTE-tmp05o0u](../notes.d/NOTE-tmp05o0u.md), and its account is [THEORY-tmplq0um](../theory.d/THEORY-tmplq0um.md).

@@ -66,14 +66,14 @@ pairs is environmental, by the design's definition.
 
 ## Bearing on the record
 
-- **QUESTION-297, the parenting route** (evidence, by parallel). A
+- **[QUESTION-297](../questions.d/QUESTION-297.md), the parenting route** (evidence, by parallel). A
   parent's distress reaches the child through rearing alone. The exposure
   is depression symptoms, not trauma. Danieli, Norris and Engdahl
-  (NOTE-1307) locate a parenting route among survivors' children, but in
+  ([NOTE-1307](NOTE-1307.md)) locate a parenting route among survivors' children, but in
   families where the parent is also the genetic parent. This design
   supplies the removal of genes that theirs lacks, for a different
   exposure.
-- **CLAIM-tmp3qsdg** (ground). In a donor-gamete design, rearing falls on
+- **[CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md)** (ground). In a donor-gamete design, rearing falls on
   the same side as the womb. That is the reason such a design separates
   "what travels with the gamete" from "what travels with the family", and
   no finer.

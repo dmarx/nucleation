@@ -102,35 +102,35 @@ as [QUESTION-297](../questions.d/QUESTION-297.md)'s note already says. The quest
 its test of whether distress follows identification measured apart from
 knowledge and family, is untouched by this claim.
 
-## Note of 2026-11-23: LEAD-156's search, read
+## Note of 2026-11-23: [LEAD-156](../leads.d/LEAD-156.md)'s search, read
 
-LEAD-156's run searched for the designs this claim's `defeated_if` names
+[LEAD-156](../leads.d/LEAD-156.md)'s run searched for the designs this claim's `defeated_if` names
 and read the nearest studies. Nothing found meets it.
 
 - **Corroborated, independently of the sceptics' school.** Zhou and Ryan's
-  scoping review (THEORY-tmplq0um), by authors open to the epigenetic
+  scoping review ([THEORY-tmplq0um](../theory.d/THEORY-tmplq0um.md)), by authors open to the epigenetic
   route, reaches this claim's scope: separating epigenetic transmission
   from shared genes, environment and behaviour "cannot easily be
   resolved". That meets the concern in "What it does not say" that the
   claim leans on one school. The relation is written on that THEORY.
-- **Refined, design by design** (CLAIM-tmp3qsdg, which corroborates this
+- **Refined, design by design** ([CLAIM-tmp3qsdg](CLAIM-tmp3qsdg.md), which corroborates this
   one). Where this claim says the designs "weaken the confounds without
   removing them", the run names which confound each leaves.
   - Donor gametes leave genes.
   - Paternal preconception exposure leaves rearing and the group.
   - A pregnant grandmother's exposure, the Syrian three-generation study
-    (THEORY-tmppcqht), leaves all three.
+    ([THEORY-tmppcqht](../theory.d/THEORY-tmppcqht.md)), leaves all three.
 - **On the `defeated_if`'s example.** "Donor gametes or adoption with the
   exposure on the biological side only" would, if found for trauma, show
   that the gamete carries an effect with the womb and rearing removed. By
   the design alone it would not divide a germline mark from the genes
-  (CLAIM-tmpv8nto). This claim's text lets genetic inheritance stand
+  ([CLAIM-tmpv8nto](CLAIM-tmpv8nto.md)). This claim's text lets genetic inheritance stand
   outside the four routes, as Horsthemke does. So such a study would meet
   the `defeated_if` only with genes excluded by other means. The text is
   left as written; this is for the owner's next revision.
 - **The Syrian study as a possible defeater.** Its authors call it "the
   first report of a germline DNAm signature of violence trauma in humans".
-  The run leans that it does not separate the routes (CLAIM-tmp3qsdg). The
+  The run leans that it does not separate the routes ([CLAIM-tmp3qsdg](CLAIM-tmp3qsdg.md)). The
   alternative, that it separates the germline from an exposed parent's
-  care, is CLAIM-tmpgv8bs, and that would narrow this claim rather than
+  care, is [CLAIM-tmpgv8bs](CLAIM-tmpgv8bs.md), and that would narrow this claim rather than
   defeat it.

@@ -17,13 +17,13 @@ grounds:
 bears_on:
 - QUESTION-297
 summary: >-
-  The alternative to CLAIM-tmp3qsdg's reading of Mulligan et al.
-  (THEORY-tmppcqht). It holds that the "germline" grandchildren are
+  The alternative to [CLAIM-tmp3qsdg](CLAIM-tmp3qsdg.md)'s reading of Mulligan et al.
+  ([THEORY-tmppcqht](../theory.d/THEORY-tmppcqht.md)). It holds that the "germline" grandchildren are
   separated from one parenting route, care by a parent who lived through
   the violence, since their mothers were exposed only as fetuses. A
   methylation difference there, with none significant in the prenatally
   exposed generation, then counts for a route that skips the exposed
-  parent's experience. Argued in ARG-tmpmenxz. Filed as the reading the
+  parent's experience. Argued in [ARG-tmpmenxz](../arguments.d/ARG-tmpmenxz.md). Filed as the reading the
   assistant does not lean to, so the owner can choose. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -43,12 +43,12 @@ controls at 14 sites, at genome-wide significance in two models. On this
 reading the study is a partial separation, the first for human trauma:
 not from every route, but from the one the paternal designs never remove.
 
-## Why it objects to CLAIM-tmp3qsdg
+## Why it objects to [CLAIM-tmp3qsdg](CLAIM-tmp3qsdg.md)
 
-CLAIM-tmp3qsdg's table puts this design in the row that removes none of
+[CLAIM-tmp3qsdg](CLAIM-tmp3qsdg.md)'s table puts this design in the row that removes none of
 the routes. This claim says it removes one parenting route that no other
 design found removes. That is the route most of the clinical tradition
-names: the exposed parent's care, silence and style (NOTE-1307).
+names: the exposed parent's care, silence and style ([NOTE-1307](../notes.d/NOTE-1307.md)).
 
 ## What would tell against it
 

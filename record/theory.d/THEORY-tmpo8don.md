@@ -19,10 +19,10 @@ source:
 bears_on:
 - QUESTION-297
 summary: >-
-  Rice et al. (2010), read in full (NOTE-tmpso8z1). It is the donor-gamete
+  Rice et al. (2010), read in full ([NOTE-tmpso8z1](../notes.d/NOTE-tmpso8z1.md)). It is the donor-gamete
   design at work in humans. The design compares related and unrelated
   carrier–child pairs, so it splits everything the gamete carries from
-  everything the carrying and raising mother supplies. For QUESTION-297 it
+  everything the carrying and raising mother supplies. For [QUESTION-297](../questions.d/QUESTION-297.md) it
   shows the design that can remove the womb and rearing from a germline
   comparison, and the limit of that design: a gamete-borne epigenetic mark
   falls with the genes. Filed Proposed; the reading is the lead run's.
@@ -33,7 +33,7 @@ summary: >-
 
 ## The account
 
-Rice, Harold, Boivin, van den Bree, Hay and Thapar (2010), LIT-tmpr7q37.
+Rice, Harold, Boivin, van den Bree, Hay and Thapar (2010), [LIT-tmpr7q37](../literature.d/LIT-tmpr7q37.md).
 779 IVF families: 387 homologous IVF, 187 sperm donation, 170 egg
 donation, 35 embryo donation. With egg or embryo donation, the pregnant
 mother is unrelated to the child (205 pairs). Late-pregnancy stress
@@ -56,13 +56,13 @@ association, as there was none for ADHD.
   sets what the gamete carries, genes and any epigenetic mark, against
   what the carrying mother supplies. A germline epigenetic effect would
   appear as "inherited", indistinguishable from a genetic one
-  (CLAIM-tmpv8nto).
+  ([CLAIM-tmpv8nto](../claims.d/CLAIM-tmpv8nto.md)).
 - It does not show causation, as the authors say. The exposure is
   ordinary stress, not trauma.
 
 ## What it bears on
 
-QUESTION-297's routes: the womb route is real for some outcomes, and the
+[QUESTION-297](../questions.d/QUESTION-297.md)'s routes: the womb route is real for some outcomes, and the
 donor-gamete design is the one design in the literature that removes both
 the womb and rearing from a comparison of what the child inherits. It is
-a ground of CLAIM-tmp3qsdg and CLAIM-tmpv8nto.
+a ground of [CLAIM-tmp3qsdg](../claims.d/CLAIM-tmp3qsdg.md) and [CLAIM-tmpv8nto](../claims.d/CLAIM-tmpv8nto.md).
