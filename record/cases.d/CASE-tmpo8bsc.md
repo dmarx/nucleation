@@ -33,13 +33,13 @@ line:
 - realizability
 summary: >-
   The executed study behind §9 of the manuscript governance-of-possibility,
-  carrying out the design of LEAD-tmpnblsf on CASE-315's simulator idea.
+  carrying out the design of [LEAD-tmpnblsf](../leads.d/LEAD-tmpnblsf.md) on [CASE-315](CASE-315.md)'s simulator idea.
   Two configurations held at 1 are joined by an original path of peak 3 and
   a redesigned, slower path of peak θ′ = 2. Six regimes (peak rule; a floor
   at 3; redesign under the peak rule; redesign with a floor at θ′; redesign
   with a drill each period; capped carry-over) and three controls are run
   over 8 seeds of 4,000 periods and 2,000 imposed contingencies each. Output
-  is matched by construction, CLAIM-577's and CLAIM-tmpg8yl2's conditions
+  is matched by construction, [CLAIM-577](../claims.d/CLAIM-577.md)'s and [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md)'s conditions
   hold exactly, and readiness, cost ranking, the reserve's break-even and
   the step function come out as stated here, on choices the body names.
   It was run and reproduced; it stays Proposed until a status review rules
@@ -47,7 +47,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpg8yl2 CLAIM-878 CLAIM-tmpv0azx CLAIM-tmpf71gk CLAIM-922 CLAIM-584 CLAIM-654 CLAIM-646 CLAIM-tmpm9sp7 CASE-315 CASE-200 CASE-343 CASE-345 CASE-tmp95f8e SYNTHESIS-tmpfxv00 — Proposed or new; the claims this study illustrates or bears on, the simulator it extends, its novel-demand variant and the account that maps it -->
+<!-- inactive-ok-file: CLAIM-tmpg8yl2 CLAIM-878 CLAIM-tmpv0azx CLAIM-tmpf71gk CLAIM-922 CLAIM-584 CLAIM-654 CLAIM-646 CLAIM-tmpm9sp7 CASE-315 CASE-200 CASE-343 CASE-345 CASE-tmp95f8e — Proposed or new; the claims this study illustrates or bears on, the simulator it extends, its novel-demand variant and the account that maps it -->
 
 # CASE-tmpo8bsc: A matched-performance model of regulation run under six budget regimes: every regime produces the same output until a contingency arrives, while readiness at a deadline of six periods ranges from 0.147 to 0.894; a redesigned route is lost under the peak rule unless a reserve is also held, a drill each period holds the budget as a reserve does, readiness is a step function of the reserve, the reserve is most ready at every deadline but cheapest only at some, and it pays above a break-even that moves with the deadline and with how often the capability is used
 
@@ -55,20 +55,20 @@ summary: >-
 
 **Where it comes from.** The motivating draft of the manuscript
 governance-of-possibility set three regimes side by side and stated their
-outcomes as "analytical outcomes under stipulated assumptions". LEAD-tmpnblsf
+outcomes as "analytical outcomes under stipulated assumptions". [LEAD-tmpnblsf](../leads.d/LEAD-tmpnblsf.md)
 gives the design for running them: "Extend the readiness simulator with a
 redesign arm, a sweep of reserve sizes between holding cost and threshold,
 and a harm absent from the demand specification introduced mid-run". It
-builds on LEAD-080's simulator, run as CASE-315. This case is that study,
-less its novel-demand arm, which is CASE-tmp95f8e.
+builds on [LEAD-080](../leads.d/LEAD-080.md)'s simulator, run as [CASE-315](CASE-315.md). This case is that study,
+less its novel-demand arm, which is [CASE-tmp95f8e](CASE-tmp95f8e.md).
 
-It varies CASE-315 in a stated respect. It keeps that study's peak
-accounting of the budget, its drill, its partial-rollover and CASE-200
+It varies [CASE-315](CASE-315.md) in a stated respect. It keeps that study's peak
+accounting of the budget, its drill, its partial-rollover and [CASE-200](CASE-200.md)
 rules, and its seeding, and does not modify its code. It drops the rescue
 squad, its skill and its arrivals. In their place it puts a graph of
 configurations with two paths between them, so that a redesign and a
 reserve sweep can be run. The model has no competence that decays, so it
-isolates CLAIM-577's mechanism from CASE-343's.
+isolates [CLAIM-577](../claims.d/CLAIM-577.md)'s mechanism from [CASE-343](CASE-343.md)'s.
 
 **The model.**
 - **Configurations and paths.** A and B are each held at r = 1. The
@@ -76,10 +76,10 @@ isolates CLAIM-577's mechanism from CASE-343's.
   architecture adds a staged path A → S1 → S2 → B with r(S) = θ′, over three
   edges. Each edge completes with chance 0.5 a period and occupies the
   larger r of its two ends while it is crossed. A path's threshold is its
-  peak, and an architecture's is the least over its paths (CLAIM-571).
-- **Budget rules.** Peak: B′ = s (CLAIM-577). Floor: B′ = max(s, F), a
+  peak, and an architecture's is the least over its paths ([CLAIM-571](../claims.d/CLAIM-571.md)).
+- **Budget rules.** Peak: B′ = s ([CLAIM-577](../claims.d/CLAIM-577.md)). Floor: B′ = max(s, F), a
   reserve of F − 1, which can lapse to the peak rule with a per-period
-  hazard. Carry: B′ = min(3, 1.5 + (B − s)), CASE-200's rule with a cap.
+  hazard. Carry: B′ = min(3, 1.5 + (B − s)), [CASE-200](CASE-200.md)'s rule with a cap.
 - **Regimes.**
 
   | Regime | Path | Budget rule |
@@ -96,12 +96,12 @@ isolates CLAIM-577's mechanism from CASE-343's.
 - **Contingency.** Each period, with chance p, demand switches to the other
   configuration. The organization takes the fastest affordable path. If
   none is affordable, outside money arrives with chance 0.1 a period and
-  raises the budget to the least threshold, CLAIM-577's minimum outside
+  raises the budget to the least threshold, [CLAIM-577](../claims.d/CLAIM-577.md)'s minimum outside
   money. A response later than the deadline τ costs L; a reserve costs c
   per unit above holding per period. Output is 1 in a period with no
   contingency pending and 0 otherwise.
 - **Readiness** R(t) is measured under an imposed contingency after 50
-  quiet periods (TERM-115's do(c)), 2,000 per regime, and pairs of curves
+  quiet periods ([TERM-115](../terms.d/TERM-115.md)'s do(c)), 2,000 per regime, and pairs of curves
   are classed by first-order dominance for t from 0 to 40, tolerance 0.02.
 - **Reference values.** p = 0.02, θ′ = 2, L = 50, c = 0.1. Long runs: 8
   seeds of 4,000 periods, with common random numbers across regimes.
@@ -110,9 +110,9 @@ isolates CLAIM-577's mechanism from CASE-343's.
 committed in 28a3708c1, and re-run by the coordinator before committing;
 the outputs reproduced exactly except the runtime, and a second
 reproduction matched again. The 21 tests in `test_model.py` pass, among
-them CLAIM-577's and CLAIM-tmpg8yl2's exact conditions and the negative
+them [CLAIM-577](../claims.d/CLAIM-577.md)'s and [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md)'s exact conditions and the negative
 control. The same directory holds `test_speed_noise.py`, whose three tests
-are for CLAIM-tmpm9sp7 and are not part of this study.
+are for [CLAIM-tmpm9sp7](../claims.d/CLAIM-tmpm9sp7.md) and are not part of this study.
 
 **One copy.** The data and scripts are in
 scratch/manuscripts/governance-of-possibility/analysis/ (`model.py`,
@@ -141,7 +141,7 @@ is no evidence. Once contingencies arrive the regimes come apart:
 | III-b, reserve lapsing | 0.7668 | 0.149 | 14.53 |
 | IV, drill every second period | 0.7623 | 0.124 | 14.72 |
 
-**CLAIM-577 and CLAIM-tmpg8yl2 hold exactly.** The tests check that under
+**[CLAIM-577](../claims.d/CLAIM-577.md) and [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md) hold exactly.** The tests check that under
 the peak rule the budget never rises; that one holding period forecloses
 every route whose threshold exceeds 1; that a redesigned route is kept
 under the peak rule exactly when θ′ ≤ 1 (θ′ in {1, 1.25, 1.5, 2, 2.5, 3});
@@ -170,8 +170,8 @@ of the model; they add no warrant to claims already demonstrated.
 - **I and III-b cross** (sign change at t = 3). At t = 2, I with outside
   money (0.025) is ahead of III-b (0), because the staged route cannot
   finish in fewer than three periods; from t = 3 on III-b is ahead. This is
-  CLAIM-922's deadline effect, the budget saved paid for in time, as in
-  CASE-345.
+  [CLAIM-922](../claims.d/CLAIM-922.md)'s deadline effect, the budget saved paid for in time, as in
+  [CASE-345](CASE-345.md).
 
 **The drill is a reserve under peak accounting.** IV's budget sits at θ′
 because each period's drill sets that period's peak. Its capacity cost
@@ -222,7 +222,7 @@ c = 0.1:
   for outside money.
 - It rises with p at τ = 3 and τ = 6, because under the peak rule a
   transition just made leaves the budget at its peak for a period, which
-  is CLAIM-878's mechanism (a use is a mobilization). At τ = 12 it does not
+  is [CLAIM-878](../claims.d/CLAIM-878.md)'s mechanism (a use is a mobilization). At τ = 12 it does not
   move monotonically.
 - The approximation c·Δcap/ΔR(τ) with readiness under do(c) is loose: at
   τ = 6 it gives 0.268 to 0.311 where the long runs give 0.363 to 0.502,
@@ -236,13 +236,13 @@ random numbers. In the original architecture R(6) is 0.269 for every
 reserve from 0 to 1.75 and 0.907 at 2; in the redesigned one, 0.151 from 0
 to 0.75, 0.664 from 1 to 1.75 and 0.907 at 2. The only reserves worth
 holding are the thresholds less holding: 0, θ′ − 1 and 2. This is the
-converse of CLAIM-679, as its note of 2026-11-23 states.
+converse of [CLAIM-679](../claims.d/CLAIM-679.md), as its note of 2026-11-23 states.
 
 **A reserve is general within its budget, a redesign specific to its
 path.** II's budget of 3 serves any transition with threshold at most 3;
 III-b's and IV's budget of 2 serves only those at most 2. The novel-demand
-variant, CASE-tmp95f8e, shows the difference on a route the specification
-did not name, and CLAIM-tmpv0azx states it for one capacity usable
+variant, [CASE-tmp95f8e](CASE-tmp95f8e.md), shows the difference on a route the specification
+did not name, and [CLAIM-tmpv0azx](../claims.d/CLAIM-tmpv0azx.md) states it for one capacity usable
 anywhere.
 
 ## What depends on the modeller's choices
@@ -252,15 +252,15 @@ anywhere.
   crossing of I and III-b would go.
 - **Outside money buys the cheapest route**, not the fastest. If it bought
   the fastest, III-a would match I, and redesign without a reserve would
-  stop being worse than none (CLAIM-tmpg8yl2's note of 2026-11-23).
+  stop being worse than none ([CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md)'s note of 2026-11-23).
 - **The carry rule is capped at 3.** Without the cap V's budget would grow
   without bound in quiet periods.
 - **The policy reads the budget.** The organization takes the fastest
-  affordable path, so here more budget is never slower. CLAIM-654 shows
+  affordable path, so here more budget is never slower. [CLAIM-654](../claims.d/CLAIM-654.md) shows
   that need not hold, and the step function assumes it.
 - **Every rate and cost is invented.**
 
-What does not depend on them: CLAIM-577's and CLAIM-tmpg8yl2's conditions,
+What does not depend on them: [CLAIM-577](../claims.d/CLAIM-577.md)'s and [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md)'s conditions,
 the step function within its scope, the equality of drill and reserve
 under peak accounting, and the matched output. Each follows from the
 budget rule and the thresholds. What is the study's own is the rest: III-a
@@ -269,47 +269,47 @@ divergence.
 
 ## What it can show
 
-- That CLAIM-577's mechanism, CLAIM-tmpg8yl2's objection and CLAIM-878's
+- That [CLAIM-577](../claims.d/CLAIM-577.md)'s mechanism, [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md)'s objection and [CLAIM-878](../claims.d/CLAIM-878.md)'s
   drill run together in one model of a regulated organization, the join
   the manuscript calls JC1, and that their exact conditions hold there.
 - That ordinary output cannot tell the regimes apart while readiness at a
-  deadline differs several-fold, which CLAIM-577's "The loss leaves no
+  deadline differs several-fold, which [CLAIM-577](../claims.d/CLAIM-577.md)'s "The loss leaves no
   trace in output" predicts.
-- That, against CLAIM-tmpf71gk as worded, reserve and redesign are not
+- That, against [CLAIM-tmpf71gk](../claims.d/CLAIM-tmpf71gk.md) as worded, reserve and redesign are not
   alternative routes under the peak rule: redesign lowers the reserve a
-  route needs and does not replace it. CLAIM-tmpf71gk's own concession,
+  route needs and does not replace it. [CLAIM-tmpf71gk](../claims.d/CLAIM-tmpf71gk.md)'s own concession,
   that the two change different things, is untouched.
-- For QUESTION-395, a decision rule if readiness is known: what it needs
+- For [QUESTION-395](../questions.d/QUESTION-395.md), a decision rule if readiness is known: what it needs
   (p, L, c, the deadline, the paths' thresholds and times), and when
-  CLAIM-584's proposition holds of the reserve (p·L below pL*) and when it
+  [CLAIM-584](../claims.d/CLAIM-584.md)'s proposition holds of the reserve (p·L below pL*) and when it
   fails.
 
 ## What it cannot show
 
 - **Anything about real industries or budget rules.** The numbers are
-  invented and the model is the assistant's. CLAIM-577 says real rules are
+  invented and the model is the assistant's. [CLAIM-577](../claims.d/CLAIM-577.md) says real rules are
   "rarely pure spend-matching".
-- **QUESTION-395's identification half**, which observations tell a
+- **[QUESTION-395](../questions.d/QUESTION-395.md)'s identification half**, which observations tell a
   warranted reserve from waste. It sharpens it instead: under the peak rule
   readiness observed in operation and readiness under do(c) differ, by how
   often the capability is used.
 - **Several resources, cumulative costs or several deadlines.** It has one
-  capacity resource, one contingency type and one novel demand. CLAIM-585,
-  CLAIM-646 and CLAIM-878's limit for budgets in money or hours are not
-  run; LEAD-tmppzp9z would run them.
+  capacity resource, one contingency type and one novel demand. [CLAIM-585](../claims.d/CLAIM-585.md),
+  [CLAIM-646](../claims.d/CLAIM-646.md) and [CLAIM-878](../claims.d/CLAIM-878.md)'s limit for budgets in money or hours are not
+  run; [LEAD-tmppzp9z](../leads.d/LEAD-tmppzp9z.md) would run them.
 - **Whether a redesign creates a capability or only cheapens one**
-  (QUESTION-392). The space here is connected, so it only cheapens.
+  ([QUESTION-392](../questions.d/QUESTION-392.md)). The space here is connected, so it only cheapens.
 - **That the claims it illustrates are true.** It illustrates them; the
   checks are on the model.
 
 ## The lead it answers
 
 A CASE cannot point at a LEAD: its `operationalizes` is derived from the
-lead's `operationalized_in`. LEAD-tmpnblsf names this case there, with
-CASE-tmp95f8e, and carries a note of 2026-11-23. This case answers the
+lead's `operationalized_in`. [LEAD-tmpnblsf](../leads.d/LEAD-tmpnblsf.md) names this case there, with
+[CASE-tmp95f8e](CASE-tmp95f8e.md), and carries a note of 2026-11-23. This case answers the
 lead's design in part. It runs the redesign arm and the reserve sweep and
 reports what the lead asked for, "readiness curves over the deadline
-(TERM-115), reserve cost, and which regime ranks first at which
+([TERM-115](../terms.d/TERM-115.md)), reserve cost, and which regime ranks first at which
 deadlines". Its third arm, the harm absent from the specification, is
-CASE-tmp95f8e. The redesign is run with its cost reported as a
+[CASE-tmp95f8e](CASE-tmp95f8e.md). The redesign is run with its cost reported as a
 break-even, not charged up front as the lead's design has it.

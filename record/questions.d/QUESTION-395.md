@@ -93,4 +93,4 @@ The rule decides only if readiness is known. Computed from readiness under do(c)
 ## Note of 2026-11-23: the study filed
 
 <!-- inactive-ok-block: CASE-tmpo8bsc — new; the study filed -->
-The study the note above reads its break-even from is now on the record as CASE-tmpo8bsc, which bears on this question: it gives pL* by deadline, probability and cost, and shows that readiness observed in operation differs from readiness under an imposed contingency, so the identification half stays open. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+The study the note above reads its break-even from is now on the record as [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md), which bears on this question: it gives pL* by deadline, probability and cost, and shows that readiness observed in operation differs from readiness under an imposed contingency, so the identification half stays open. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

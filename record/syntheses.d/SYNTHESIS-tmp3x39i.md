@@ -207,7 +207,7 @@ it, as that account's note of 2026-11-23 says.*
   never enters a demand its specification does not name "scores zero
   violations against the original specification and its own while the
   harm runs for all 120 periods", and under the peak budget rule a review
-  that needs capacity can never start (CASE-tmp95f8e, Proposed, executed
+  that needs capacity can never start ([CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md), Proposed, executed
   study; the assistant's). It illustrates [CLAIM-727](../claims.d/CLAIM-727.md) and [CLAIM-361](../claims.d/CLAIM-361.md), and its
   choice to excise is an input where [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md)'s is learned.
 
@@ -276,7 +276,7 @@ it, as that account's note of 2026-11-23 says.*
 | [CLAIM-tmpw11e6](../claims.d/CLAIM-tmpw11e6.md) | the assistant's, counter | Proposed, demonstrated |
 | [CLAIM-tmpklggb](../claims.d/CLAIM-tmpklggb.md) | the assistant's | Active, demonstrated |
 | [CLAIM-342](../claims.d/CLAIM-342.md) | the assistant's synthesis | Active, interpretive |
-| CASE-tmp95f8e | the assistant's, executed study | Proposed |
+| [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md) | the assistant's, executed study | Proposed |
 
 ## Not stated on the record
 
@@ -311,7 +311,7 @@ Each item gives the join, what no component states, and its verdict under
 - **JD4, the manuscript model's excision of an unnamed demand read as
   [CLAIM-727](../claims.d/CLAIM-727.md)'s self-certification limit, through [CLAIM-361](../claims.d/CLAIM-361.md).** Not stated.
   No component states the reading. The manuscript's novel-demand result
-  is now on the record as CASE-tmp95f8e (its gap GD7), which illustrates
+  is now on the record as [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md) (its gap GD7), which illustrates
   [CLAIM-727](../claims.d/CLAIM-727.md) as an instance and adds no sentence. *Verdict: fails
   as a claim, an instance.* [CLAIM-727](../claims.d/CLAIM-727.md)'s clause is a possibility ("cannot
   always establish"). A model in which an arrangement scores itself clean
@@ -320,7 +320,7 @@ Each item gives the join, what no component states, and its verdict under
   failing is not a coherent case, because the reading is the clause. Its
   content belongs on the record as a CASE that illustrates [CLAIM-727](../claims.d/CLAIM-727.md) and
   [CLAIM-361](../claims.d/CLAIM-361.md), as [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) is a held model of the same pattern for
-  hidden requirements. That CASE is CASE-tmp95f8e. Which reference set scores
+  hidden requirements. That CASE is [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md). Which reference set scores
   the unnamed demand stays [QUESTION-tmphovmg](../questions.d/QUESTION-tmphovmg.md).
 - **JD5, effective answerability and correctability as two separate
   requirements on a regulator.** That they are separate is stated (above).
@@ -370,6 +370,6 @@ no industrial case. The manuscript's other joins are mapped by
 ## Note of 2026-11-23: the study filed
 
 JD4's content, which this account said belongs on the record as a CASE,
-is now filed as CASE-tmp95f8e, a variant of the manuscript's study
-CASE-tmpo8bsc; this version integrates it. The note is the assistant's
+is now filed as [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md), a variant of the manuscript's study
+[CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md); this version integrates it. The note is the assistant's
 (Claude, in this session); adopting it is the owner's call.

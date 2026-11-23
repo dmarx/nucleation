@@ -245,16 +245,16 @@ the note on [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md).**
 **The study (JC1, held as a case).** [LEAD-tmpnblsf](../leads.d/LEAD-tmpnblsf.md) (Open; the assistant's)
 designs one model with "a redesign arm, a sweep of reserve sizes between
 holding cost and threshold, and a harm absent from the demand
-specification introduced mid-run". CASE-tmpo8bsc (Proposed, executed
+specification introduced mid-run". [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md) (Proposed, executed
 study; the assistant's) is that model, run and reproduced: it puts
-CLAIM-571's paths, CLAIM-577's rule, CASE-200's carry-over, CLAIM-878's
-drill and CLAIM-tmpg8yl2's reserve into one model. Ordinary output is
+[CLAIM-571](../claims.d/CLAIM-571.md)'s paths, [CLAIM-577](../claims.d/CLAIM-577.md)'s rule, [CASE-200](../cases.d/CASE-200.md)'s carry-over, [CLAIM-878](../claims.d/CLAIM-878.md)'s
+drill and [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md)'s reserve into one model. Ordinary output is
 matched by construction while readiness at a deadline of six periods
-ranges from 0.147 to 0.894; the conditions of CLAIM-577 and
-CLAIM-tmpg8yl2 hold exactly; and the reserve is most ready at every
+ranges from 0.147 to 0.894; the conditions of [CLAIM-577](../claims.d/CLAIM-577.md) and
+[CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md) hold exactly; and the reserve is most ready at every
 deadline while the cheapest regime changes with the deadline. Its
-novel-demand arm is CASE-tmp95f8e, mapped by SYNTHESIS-tmp3x39i (JD4).
-**JC1 is held by CASE-tmpo8bsc**, as an executed study, not a sentence.
+novel-demand arm is [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md), mapped by [SYNTHESIS-tmp3x39i](SYNTHESIS-tmp3x39i.md) (JD4).
+**JC1 is held by [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md)**, as an executed study, not a sentence.
 
 ## The components
 
@@ -285,7 +285,7 @@ novel-demand arm is CASE-tmp95f8e, mapped by SYNTHESIS-tmp3x39i (JD4).
 | [THEORY-1073](../theory.d/THEORY-1073.md) | Flack (2017), read | Proposed |
 | [CLAIM-478](../claims.d/CLAIM-478.md) | the owner's prompt, A's synthesis; Flack in a note | Proposed, interpretive |
 | [CLAIM-414](../claims.d/CLAIM-414.md) | A's, re-run | Active, demonstrated |
-| CASE-tmpo8bsc | the assistant's, executed study | Proposed |
+| [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md) | the assistant's, executed study | Proposed |
 
 ## Not stated on the record
 
@@ -346,6 +346,6 @@ revision) and [SYNTHESIS-tmp3x39i](SYNTHESIS-tmp3x39i.md) (correction, answerabi
 ## Note of 2026-11-23: the study filed
 
 JC1, which this account listed as a study to be filed as a CASE, is now
-filed as CASE-tmpo8bsc, with its novel-demand arm as CASE-tmp95f8e; this
+filed as [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md), with its novel-demand arm as [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md); this
 version integrates the first. The note is the assistant's (Claude, in
 this session); adopting it is the owner's call.

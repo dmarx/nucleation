@@ -131,4 +131,4 @@ It adds two differences. The drill needs no commitment from whoever sets the bud
 ## Note of 2026-11-23: the study filed
 
 <!-- inactive-ok-block: CASE-tmpo8bsc CASE-tmp95f8e — new; the study filed -->
-The model the note above reports is now on the record as CASE-tmpo8bsc, which illustrates this claim: a drill each period (IV) costs what a reserve at the same level costs and has the same readiness curve, and drilling every second period loses the route. Its variant CASE-tmp95f8e holds the second way the drill breaks, a review that crowds it out. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+The model the note above reports is now on the record as [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md), which illustrates this claim: a drill each period (IV) costs what a reserve at the same level costs and has the same readiness curve, and drilling every second period loses the route. Its variant [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md) holds the second way the drill breaks, a review that crowds it out. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

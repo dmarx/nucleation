@@ -56,4 +56,4 @@ alternatives.
 ## Note of 2026-11-23: the study filed
 
 <!-- inactive-ok-block: CASE-tmpo8bsc — new; the study filed -->
-The manuscript's study is now on the record as CASE-tmpo8bsc. In its model the two routes are not alternatives under the peak rule, since redesign without a reserve (III-a) loses its route, while the reading this claim's Standing section concedes, that the two change different things, is untouched. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+The manuscript's study is now on the record as [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md). In its model the two routes are not alternatives under the peak rule, since redesign without a reserve (III-a) loses its route, while the reading this claim's Standing section concedes, that the two change different things, is untouched. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
