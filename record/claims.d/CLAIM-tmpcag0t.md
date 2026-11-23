@@ -98,7 +98,7 @@ governance.
 Restatement. The central formulation of the owner's manuscript (ADR-
 tmpsfjxu, A48 §15), "adaptive governance as the maintained viability of a
 demand-appropriate temporal response repertoire", restates this claim with
-CLAIM-tmpcag0t, [CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md) and [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)'s second-order kernel,
+[CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md) and [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)'s second-order kernel,
 adding only "justified" demands. Audited ([ADR-075](../decisions.d/ADR-075.md)): no separating case,
 derivation or discriminating prediction was found beyond them, and
 "appropriate" is a free parameter, so it is a recap and no claim is filed.
