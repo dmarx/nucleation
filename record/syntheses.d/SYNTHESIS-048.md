@@ -519,34 +519,34 @@ Added at version 3, at the synthesis review of 2026-11-23: four in-force
 questions of the line, filed after this account, that fall in its scope
 and that no account integrated. The account now integrates 78 entries.
 
-- QUESTION-450, the assistant's, raised by the reading review of
-  2026-11-11 from THEORY-1078; Open. It asks whether a law that constrains
+- [QUESTION-450](../questions.d/QUESTION-450.md), the assistant's, raised by the reading review of
+  2026-11-11 from [THEORY-1078](../theory.d/THEORY-1078.md); Open. It asks whether a law that constrains
   without being produced by what it constrains, a symmetry, a conservation
   law or a law of possibility, counts as a constraint realized and
   maintained by something; its body states it as the candidate for
-  CLAIM-477's defeater (b), which CLAIM-477's notes of 2026-10-27 to
+  [CLAIM-477](../claims.d/CLAIM-477.md)'s defeater (b), which [CLAIM-477](../claims.d/CLAIM-477.md)'s notes of 2026-10-27 to
   2026-11-06 leave "unruled".
-- QUESTION-452, the assistant's, raised by the second by-topic reading
+- [QUESTION-452](../questions.d/QUESTION-452.md), the assistant's, raised by the second by-topic reading
   review of 2026-11-11; Open. It asks whether keeping a maintained
   organization precise costs dissipation in proportion to the precision,
   and whether that bound separates organizations that persist from
-  structures that merely last; its body names CLAIM-604, CLAIM-516 and
-  CLAIM-521 as speaking of upkeep drawn from a flux "without pricing it".
-- QUESTION-469, the assistant's, filed at the owner's request on
+  structures that merely last; its body names [CLAIM-604](../claims.d/CLAIM-604.md), [CLAIM-516](../claims.d/CLAIM-516.md) and
+  [CLAIM-521](../claims.d/CLAIM-521.md) as speaking of upkeep drawn from a flux "without pricing it".
+- [QUESTION-469](../questions.d/QUESTION-469.md), the assistant's, filed at the owner's request on
   2026-11-15; Open. It asks whether a model can derive together the
   persistence of a pattern and of the persisting carrier it rides on, and
   whether the pattern's identity then depends on the carrier's; its body
-  says CLAIM-606 sorts single structures by what holds them without asking
-  what happens when one structure holds another, and that TERM-088's
+  says [CLAIM-606](../claims.d/CLAIM-606.md) sorts single structures by what holds them without asking
+  what happens when one structure holds another, and that [TERM-088](../terms.d/TERM-088.md)'s
   senses are stated for one level at a time.
-- QUESTION-490, A's, from A10 of the exchange "Topological protection
+- [QUESTION-490](../questions.d/QUESTION-490.md), A's, from A10 of the exchange "Topological protection
   explained" (2026-11-18); Open; also transient-support. It asks whether
   degrees of freedom bound to a defect can come to maintain the
   order-parameter structure that localizes them, and whether the composite
   is then one organization; its body says the record holds the one-way
-  case (TERM-088, CLAIM-611) and not the feedback, cites CLAIM-516,
-  CLAIM-566, TERM-070 and CLAIM-606, and calls it a field-theory case of
-  QUESTION-399.
+  case ([TERM-088](../terms.d/TERM-088.md), [CLAIM-611](../claims.d/CLAIM-611.md)) and not the feedback, cites [CLAIM-516](../claims.d/CLAIM-516.md),
+  [CLAIM-566](../claims.d/CLAIM-566.md), [TERM-070](../terms.d/TERM-070.md) and [CLAIM-606](../claims.d/CLAIM-606.md), and calls it a field-theory case of
+  [QUESTION-399](../questions.d/QUESTION-399.md).
 
 ## Links the components state, and where
 

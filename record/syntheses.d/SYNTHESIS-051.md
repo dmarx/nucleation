@@ -433,13 +433,13 @@ Added at version 2, at the synthesis review of 2026-11-23: one in-force
 question of the line, filed after this account, that falls in its scope
 and that no account integrated. The account now integrates 54 entries.
 
-- QUESTION-451, the assistant's, raised by the second by-topic reading
+- [QUESTION-451](../questions.d/QUESTION-451.md), the assistant's, raised by the second by-topic reading
   review of 2026-11-11; Open. It asks whether need frustration, as
   self-determination theory measures it, is a process distinct from low
-  need satisfaction. Its body bears it on CLAIM-368, which cites the
+  need satisfaction. Its body bears it on [CLAIM-368](../claims.d/CLAIM-368.md), which cites the
   theory as a parallel for the frustration primitive without resting on
   it and whose note of 2026-11-03 calls the split "not established of its
-  main measure", and says that QUESTION-131 and QUESTION-369 do not ask
+  main measure", and says that [QUESTION-131](../questions.d/QUESTION-131.md) and [QUESTION-369](../questions.d/QUESTION-369.md) do not ask
   it.
 
 ## How the part holds together

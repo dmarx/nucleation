@@ -198,14 +198,14 @@ integrated by that line's accounts too; the part accounts say where.*
   carries a memory across the rebuilding of a nervous system. [QUESTION-297](../questions.d/QUESTION-297.md)
   and [QUESTION-302](../questions.d/QUESTION-302.md) cite [CASE-098](../cases.d/CASE-098.md), and [QUESTION-301](../questions.d/QUESTION-301.md) cites [CLAIM-420](../claims.d/CLAIM-420.md), both
   in [SYNTHESIS-047](SYNTHESIS-047.md); these were its only links to the rest of the line
-  until QUESTION-453. QUESTION-453 (the assistant's, raised by the second
+  until [QUESTION-453](../questions.d/QUESTION-453.md). [QUESTION-453](../questions.d/QUESTION-453.md) (the assistant's, raised by the second
   by-topic reading review of 2026-11-11; Open; added at version 3) asks
   which evolutionary route to costly cooperation, relatedness, repeated
   meeting or conventions backed by retaliation, an organization's
   structure realizes, and whether any of them needs the extended self
-  CLAIM-491 posits; its body names CLAIM-491's use of Hamilton's rule as
-  an analogy, and CLAIM-603's Black Queen loss (integrated by
-  SYNTHESIS-051) among the claims that argue cooperation from
+  [CLAIM-491](../claims.d/CLAIM-491.md) posits; its body names [CLAIM-491](../claims.d/CLAIM-491.md)'s use of Hamilton's rule as
+  an analogy, and [CLAIM-603](../claims.d/CLAIM-603.md)'s Black Queen loss (integrated by
+  [SYNTHESIS-051](SYNTHESIS-051.md)) among the claims that argue cooperation from
   dependence.
 - **Complementary accounts.** [CLAIM-045](../claims.d/CLAIM-045.md) (Active) holds architectural,
   dynamical and goal-directed accounts of distributed agency to be

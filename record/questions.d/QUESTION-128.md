@@ -275,17 +275,17 @@ design's main threat asks ([CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md)). The
 
 ## Note of 2026-11-23: at the synthesis review
 
-<!-- inactive-ok-block: CLAIM-tmphrp1s CLAIM-tmpnc1mf CLAIM-tmppa4rs CASE-tmpz762n CLAIM-920 — Proposed or new; the run and its readings -->
+<!-- inactive-ok-block: CLAIM-tmphrp1s CLAIM-tmpnc1mf CASE-tmpz762n CLAIM-920 — Proposed or new; the run and its readings -->
 The synthesis review of 2026-11-23 asked whether an integration across this
 question's answers is held in parts and stated by no entry. It is stated:
 in this question's own body (A16's verdict and ladder) and its notes, and in
-CLAIM-648's note of 2026-11-22, which sets the endogenous profile against the
-etiological objection (CLAIM-920) and the run (CASE-tmpz762n). A stronger
+[CLAIM-648](../claims.d/CLAIM-648.md)'s note of 2026-11-22, which sets the endogenous profile against the
+etiological objection ([CLAIM-920](../claims.d/CLAIM-920.md)) and the run ([CASE-tmpz762n](../cases.d/CASE-tmpz762n.md)). A stronger
 sentence was tested, that once the agent and the capacity are named the only
 arbitrariness left in a norm of function is the choice of boundary
-(CLAIM-916's last clause, carried to this question); it failed, since the run
+([CLAIM-916](../claims.d/CLAIM-916.md)'s last clause, carried to this question); it failed, since the run
 leaves open whether learned warnings are the system's or the designer's in
-another form (CLAIM-tmphrp1s against CLAIM-tmpnc1mf), which is not a choice
-of boundary. Nothing new is filed. CLAIM-916 bears on this question through
-CLAIM-648 and CLAIM-tmphrp1s; whether it should also carry the
+another form ([CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md) against [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md)), which is not a choice
+of boundary. Nothing new is filed. [CLAIM-916](../claims.d/CLAIM-916.md) bears on this question through
+[CLAIM-648](../claims.d/CLAIM-648.md) and [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md); whether it should also carry the
 organizational-normativity line is for the owner.
