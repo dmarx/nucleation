@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpkoi6k
 title: 'Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-20'
@@ -26,6 +26,13 @@ history:
     QUESTION-218 rests on this claim's split ("CLAIM-388 makes the split
     exact"). Its first line, distributed-agency, is already this claim's
     (ADR-085). Reading review of 2026-11-11, by question. No other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.3. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -58,6 +65,8 @@ summary: >-
   is exactly decomposable, which is the point.
 bears_on:
 - QUESTION-218
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # CLAIM-388: Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them

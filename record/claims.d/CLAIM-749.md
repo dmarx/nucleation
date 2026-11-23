@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpyqfrf
 status: Active
 title: "Influence over others does not by itself ground a duty to answer to them: a legitimate right can assign a decision to its holder, so that an owner may decline to explain choices within a protected sphere however much they affect others, and answerability is owed where the justified structure of a relationship requires it, not wherever an action has effects"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-18'
@@ -23,6 +23,13 @@ history:
     Interpretive. A counter that went Active: CLAIM-687 concedes
     it in the same change, a revision recorded there. No change of
     title.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.4. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +61,8 @@ summary: >-
   not as an objection to its own view; the record files it as the
   objection it would be to [CLAIM-687](CLAIM-687.md) read without its scope. The wording is
   A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-739 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: ARG-058 CLAIM-624 TERM-124 — Proposed; the record's nearest entries, cited with their standing -->

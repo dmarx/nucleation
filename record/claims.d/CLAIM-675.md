@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6wuql
 title: 'Two forms of support that give a party the same capabilities now can leave it different capabilities later: where capacity is learned by doing and decays with disuse, support that does the work shrinks what the party can reach unaided while support that covers only its shortfall does not, so support, or a technology, cannot be ranked by present capability sets and has to be assessed by the capability trajectory it produces'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-13'
@@ -40,6 +40,13 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §8.1 states its proposition, and §10's Hypothesis
     4 restates it. No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.1. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -65,6 +72,7 @@ line:
 - will-organization
 - flourishing-and-meaning
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 - cost-structure-of-possibility
 rests_on:

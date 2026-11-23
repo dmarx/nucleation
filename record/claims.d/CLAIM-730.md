@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpgh3v2
 status: Proposed
 title: 'Where a slowly revised governing level (a statute, an objective, a classification) constrains a fast process, the fast process can change the world before the slow level can be revised, so those it harms have no route to the rule as fast as its application reaches them, and the rule dominates them without anyone actively intervening; where the slow level is open to revision on demand, the same separation of timescales keeps the fast process accountable instead'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -13,6 +13,13 @@ history:
     halves of the claim as regulatory guidance: fast action outruns
     review, and limits set beforehand with authority kept to revise
     the mandate.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §7.2, §7.4. No other change.
 role: supposed
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +60,8 @@ summary: >-
   [CLAIM-478](CLAIM-478.md)'s scale separation, a dynamical result, into institutions by
   analogy, and holds only if that carriage holds. The wording is A's;
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-711 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-478 CLAIM-423 TERM-124 — Proposed; the claims this rests on and the record's term for domination -->

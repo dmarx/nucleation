@@ -1,13 +1,20 @@
 ---
 status: Proposed
 title: 'Harmonious integration and organizational singularity are independent: a correctable plurality with no overarching perspective is harmonious and not singular, and a unified organization that silences its internal differences is singular and not harmonious'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant from A24 §6 of the exchange "Explain
     First Contact RL" (ChatGPT, shared 2026-11-22).
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.3. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +53,8 @@ summary: >-
   become brittle, or perpetuate destructive governance". The wording is
   A's (ChatGPT, in the exchange of 2026-11-22); adopting it is the owner's
   call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: TERM-tmppvlfi TERM-tmpm0s7g CLAIM-tmp3xo35 — Proposed; the term this is stated in and the claim it rests on, filed with it on 2026-11-22 -->
 

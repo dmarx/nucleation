@@ -7,7 +7,7 @@ title: When demands are predicates on histories with deadlines, the sets of
   incompatible in time, and a change in the response architecture, faster
   actuation, different sequencing, staged capacity or a new method, can enlarge
   the temporal complex without weakening any demand
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -17,6 +17,14 @@ history:
     the same change; downward closure and containment in the deadline-free
     complex checked; strict containment is a "can", shown by A44's
     factory.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §1.2, §2.6, §6.3, §15.3. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: A set of deadline-indexed demands that some admissible history
@@ -41,6 +49,8 @@ summary: 'A44 §8 of the exchange "Explain First Contact RL" (ChatGPT, third
   derivation. The idea is A''s (ChatGPT, in the exchange of 2026-11-22); the
   containment step and the wording are the assistant''s (Claude, in this session);
   adopting it is the owner''s call.'
+works:
+- governance-of-possibility
 ---
 
 

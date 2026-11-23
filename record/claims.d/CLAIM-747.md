@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpyn6oi
 status: Proposed
 title: "The alternatives against which a governing relationship or principle is assessed can be products of that relationship, so the present distribution of options is not a neutral baseline, and an actor cannot justify its terms by the narrowness of options it helped narrow without justification; the assessment must separate the existence of a dependence, the legitimacy of its creation, the authority exercised through it and the responsibilities of maintaining it"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -12,6 +12,14 @@ history:
     Bears on QUESTION-483, as the criticism of contractualism A calls its
     sharpest, whose force that question decides; carries rightful-power
     after its own line under ADR-085. No other change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.4, §14.5. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +53,8 @@ summary: >-
   from it. The record holds that an arrangement can produce the dependence
   it exploits; it does not hold the consequence for the baseline of
   assessment. The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-721 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CLAIM-670 CLAIM-677 CLAIM-682 CLAIM-690 — Proposed; the record's nearest entries, cited with their standing -->

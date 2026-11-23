@@ -6,7 +6,15 @@ title: 'Effortless action has a direction as well as a timing: the least quadrat
   costly along its weak ones and impossible outside its range, and acting
   effortlessly is acting along the directions the system already affords,
   as Cook Ding''s knife follows the spaces between the joints'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.2. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: 'An error in the cost formula. As a reading of wu-wei: a case
@@ -36,6 +44,8 @@ summary: The assistant's answer to the owner's "relate the conversation to
   cited from common knowledge of it and not checked against a translation.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-541 CLAIM-tmpk8ude LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->

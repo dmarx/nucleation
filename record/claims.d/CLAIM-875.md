@@ -4,13 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmpf11gs
 title: 'Ito and Kaneko''s core is a regime the dynamics regenerate, not an asymmetry entrenched in its first holders: removed, it is refilled from the periphery, and made rare, it is recovered by its own members'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-065, from the
     executed study CASE-313.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.4, §12.4. No other
+    change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -46,6 +54,8 @@ summary: >-
   specialist with a niche. Whether that is the question's first outcome or
   a fourth is left to the owner as two readings. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-313 — new, filed with this claim -->
 

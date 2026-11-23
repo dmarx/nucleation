@@ -8,7 +8,7 @@ title: If an organization's operation relaxes at rate γ toward a configuration
   ≤ ε; the condition is sufficient, not necessary, and it complements the
   necessary bound that a reference revisable at rate v cannot reach a demand
   farther than vH
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -19,6 +19,13 @@ history:
     against a bound of 0.6000). Its "cannot reach a demand farther than
     vH" is of the reference's own reach; CLAIM-tmp2k3c5 bounds the demand
     by vH + delta + epsilon.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §1.2, §7.3. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: An error in the bound. As a reading of organizations, defeated
@@ -40,6 +47,8 @@ summary: 'A44 §4 of the exchange "Explain First Contact RL" (ChatGPT, third
   the bound follows by variation of constants, and it is tight for a constant
   revision rate. The wording is A''s (ChatGPT, in the exchange of 2026-11-22);
   adopting it is the owner''s call.'
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-711 — Proposed; cited in this filing of 2026-11-23 (third share) -->

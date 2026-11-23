@@ -6,7 +6,7 @@ title: 'A protected beacon''s miscalibration is unidentifiable from inside
   and every sensor bias shifted (z + d, z* + d, b_i - A_i d), give every report
   identically, so no revision that uses only the network''s reports can find
   d, and correcting it needs evidence that breaks the symmetry from outside'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -18,6 +18,13 @@ history:
     is re-derived step by step, and scratch/formal/beacon_gauge_check.py
     reproduces (1,000 trials, 0 mismatches; rank deficiency 2 for k = 1,
     2, 3, 5).
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.7. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: An error in the identity, or a report available to the network
@@ -43,6 +50,8 @@ summary: 'The assistant''s, answering the owner''s comparison with Gödel ([CLAI
   a diagonal argument. Checked in scratch/formal/beacon_gauge_check.py (1,000
   random trials, no mismatch). The wording is the assistant''s (Claude, in
   this session); adopting it is the owner''s call.'
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpw11e6 — Proposed; cited in this filing of 2026-11-23 -->

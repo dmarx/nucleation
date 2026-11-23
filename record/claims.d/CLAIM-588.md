@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvl8j0
 title: 'Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-06'
@@ -43,6 +43,13 @@ history:
     A dated note: a regulatory illustration of the three design targets,
     from the exchange 'Explain First Contact RL' (2026-11-22). No other
     change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §2.2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -88,6 +95,8 @@ summary: >-
   transitions stay unachievable. In [TERM-060](../terms.d/TERM-060.md)'s sense only the first
   touches frustration; the others act on its load and its consequences.
   The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-588: Relieving an incompatibility, redistributing an unavoidable mismatch and exploiting a mismatch dynamically are three design targets, which change respectively the compatibility complex, where residuals or loads concentrate, and stability, barriers or transition paths, and the last two can be achieved without the first

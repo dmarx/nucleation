@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpl8vsy
 title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-18'
@@ -71,6 +71,13 @@ history:
     A dated note: an industrial reading of the three cases, with a looser
     gloss of the third, from the exchange 'Explain First Contact RL'
     (2026-11-22). No other change.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §10.2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -115,6 +122,8 @@ summary: >-
   endorsement weights."
 bears_on:
 - QUESTION-126
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-317, CLAIM-880, CLAIM-500 — Proposed or new; cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->

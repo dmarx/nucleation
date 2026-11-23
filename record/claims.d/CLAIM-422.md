@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmplrpat
 title: 'A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -34,6 +34,14 @@ history:
   date: '2026-11-16'
   note: >-
     A dated note added: the National Transportation Safety Board (LIT-2664) read on 2026-11-16, NOTE-2034. No change of status or title.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §10.1, §10.2, §13.2, §13.8.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -58,6 +66,7 @@ grounds:
 - CASE-138
 - CASE-135
 works:
+- governance-of-possibility
 - organization-of-perspective
 - who-gets-to-say-stop
 summary: >-

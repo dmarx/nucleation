@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpkrk41
 title: 'That an organization makes an activity cheaper for those who perform it does not show that work was saved: the work may have been transferred, to an earlier time, to upkeep, or to other parties, and the efficiency an organization appears to have depends on the boundary of the system whose costs are counted; work saved, work transferred and valuable capability expanded are three separate achievements'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -19,6 +19,13 @@ history:
     corroborates it and is not needed. CLAIM-761, the third achievement
     named in the body, is promoted at the same review. Interpretive. The
     title is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +42,7 @@ line:
 - dependence-and-domination
 - realizability
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
 rests_on:
 - CLAIM-303

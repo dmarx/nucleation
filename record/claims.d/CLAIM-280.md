@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpjhd7t
 title: 'A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-29'
@@ -19,6 +19,13 @@ history:
     population question is QUESTION-169. The claim is an existence claim,
     which THEORY-216's Active existence clause carries. The claim is
     unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,6 +40,7 @@ tags:
 - complex-systems
 date: '2026-10-13'
 works:
+- governance-of-possibility
 - self-as-recursive-ecology
 line:
 - distributed-agency

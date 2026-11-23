@@ -24,7 +24,7 @@
 
 A working document under version control, outside the record: luria neither reads nor repairs `scratch/`, and codes are cited bare. Standings are as of 2026-11-23, and temporary codes stay temporary until a refresh after promotion replaces them by hand.
 
-**Membership is as of 2026-11-23**: ADR-tmpsfjxu's 37 members, and no others. A membership pass under ADR-104 is due, in its own pull request. The revised draft states as steps several claims that are not members, among them CLAIM-tmpdvgrf, CLAIM-tmplgnjf, CLAIM-tmpz67ew, CLAIM-tmpg5p8v, CLAIM-tmpdhfpb, CLAIM-tmpm9sp7, CLAIM-tmpiwxla, CLAIM-tmpdrkvl and CLAIM-tmpv0azx (the last six filed for this draft), and also CLAIM-025, CLAIM-tmp2k3c5, CLAIM-tmp947v0, CLAIM-tmpg8yl2, CLAIM-878, CLAIM-567, CLAIM-422, CLAIM-727, CLAIM-746, CLAIM-705, CLAIM-tmp37le7, CLAIM-tmp4h9rc and CLAIM-tmpw11e6. Which of these the manuscript uses as a step, rather than cites, is the pass's to decide. Adding members is the owner's call.
+**Membership: the pass of 2026-11-23** (curation entry of 2026-11-23 08:21, pull request "Membership pass for governance-of-possibility"), held for the owner's merge. Read under ADR-104's rule, 158 of the 170 claims and arguments the draft cites are members: A48's 35 that it still uses, 116 added by the pass (115 claims and ARG-077), and seven filed for this draft that are left to the owner: the gap fills CLAIM-tmpg5p8v, CLAIM-tmpdhfpb, CLAIM-tmpm9sp7 and CLAIM-tmpiwxla, the joins CLAIM-tmpdrkvl and CLAIM-tmpv0azx, and the counter CLAIM-tmpg8yl2. Two of A48's members, CLAIM-tmpcag0t and CLAIM-tmpf71gk, are now stated only to be set aside; they stay until the owner rules. A stricter reading, under which a member must be used as a step, would drop 49 of the added entries; the curation entry lists them.
 
 ## Files, in reading order
 
@@ -83,7 +83,7 @@ From the revision plan of REVIEW-2026-11-23.md, Part A, section 6.
 
 1. **The study as a CASE: filed.** CASE-tmpo8bsc (the matched-performance study; gap GC1, join JC1) and CASE-tmp95f8e (its novel-demand arm; gap GD7, join JD4), both Proposed, both citing `analysis/` as the single copy, filed on 2026-11-23 in their own pull request; §9, §13 and §15 now cite them. A status review rules on whether they are demonstrated.
 2. **The outputs' stamp.** `results.json` and `results.md` are to carry the date and commit of the run of record (2026-11-23, 28a3708c1).
-3. **The membership pass** under ADR-104, in its own pull request (Status, above).
+3. **The membership pass**: run (Status, above). Waiting on the owner: whether this draft is the work's successor to A48; the seven filed claims; the two A48 members now set aside; and the literal or the stricter reading of the rule.
 4. **GB5**: the levels of governance by horizon (§7.0). No entry holds the hierarchy; three weaker entries are cited. Settled by a claim or a term the owner admits, or by leaving §7.0 a schema.
 5. **GD4**: TERMs for *regulation*, *demand specification* and *industrial ecosystem*, by the owner's decision, from CLAIM-tmpz67ew's glosses and CLAIM-tmplgnjf's distinction of conduct from outcome.
 6. **GD5**: no industrial case anywhere the paper draws on. LEAD-tmpy0jkr is the nearest step; then a CASE, or a LEAD for an empirical study of one regime.

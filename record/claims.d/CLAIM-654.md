@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpff0cq
 title: 'Reachability by a given process grows with the budget when the process''s choices do not depend on how much budget remains and success means reaching the target within the budget; a process whose choices depend on the remaining budget can reach a target at a small budget and miss it at a larger one, though the admissible-path reachability of the same architecture grows with the budget'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -12,6 +12,13 @@ history:
     Carries distributed-agency after its own line(s) under ADR-085,
     which it takes part in: bears_on QUESTION-279 (distributed-
     agency). Found at the line audit of 2026-11-18. No other change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.9. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -48,6 +55,8 @@ summary: >-
   The proof is the assistant's; [CASE-245](../cases.d/CASE-245.md) is the construction, and
   [ARG-086](../arguments.d/ARG-086.md) weighs it. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-245 ARG-086 CLAIM-663 ARG-093 THEORY-1703 — Proposed; filed from the exchange of 2026-11-11 and its follow-up -->
 

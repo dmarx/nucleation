@@ -8,7 +8,15 @@ title: 'What a system is prevented from rewriting or rejecting bounds what
   channel that revises the beacon''s calibration, at that channel''s rate;
   so correction is relative to the anchors it answers to, and an anchor''s
   own errors need an anchor of their own'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.7. No other change.
 role: counter
 warrant: demonstrated
 defeated_if: A protected anchor whose own error the system it anchors can
@@ -37,6 +45,8 @@ summary: 'The assistant''s qualification of the owner''s principle ([CLAIM-tmp4h
   the owner''s call.'
 corroborates:
 - CLAIM-tmpklggb
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-tmpcag0t — Proposed or Open; cited in this filing of 2026-11-23 -->

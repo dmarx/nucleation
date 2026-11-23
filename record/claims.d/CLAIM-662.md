@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvceet
 title: 'For a fixed arrangement, expanding the recognized demand set cannot improve conjunctive compliance and cannot decrease the count of recognized violations; where governance penalizes newly recognized violations without rewarding their discovery, an organization may acquire an incentive not to improve its identification of its obligations'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-12'
@@ -32,6 +32,14 @@ history:
     conditional on its governance assumption, as the title says.
     Nothing in the record meets the defeat condition. The claim is
     unchanged.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.8, §13.1, §13.8. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -74,6 +82,8 @@ summary: >-
   monotonicity facts are demonstrated and checked by enumeration; the
   incentive is conditional on the governance assumption. The wording is
   the owner's and A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-652 CLAIM-657 — Proposed; filed from the same exchange -->
 <!-- inactive-ok-file: CASE-249 — Proposed; filed from the same exchange -->

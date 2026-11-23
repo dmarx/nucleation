@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpqpd2p
 title: 'A stabilized constraint can be stored work: by replacing later work with cheaper operations it changes which activities are realizable within a fixed per-task budget, so amortization becomes capability expansion without any added degrees of freedom or resources; the expansion is conditional on the costs of constructing, keeping, retrieving, verifying and revising the constraint and on the distribution of later demands, and the persistence that buys it can entrench'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-20'
@@ -27,6 +27,13 @@ history:
     each witness stipulates that the framework is acquired at a cost.
     CLAIM-755, which the body cites for the two separations, stays
     Proposed and is not a premise. Interpretive. The title is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -54,6 +61,7 @@ line:
 - realizability
 - learned-structure
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
 rests_on:
 - CLAIM-303

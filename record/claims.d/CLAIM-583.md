@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpsbz28
 title: 'Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -33,6 +33,13 @@ history:
     Proposed. THEORY-1407 and THEORY-1413 are Active since the
     twenty-seventh status review (2026-11-06); the sentence now
     says so. No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §2.4. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -70,6 +77,8 @@ summary: >-
   into [CLAIM-607](CLAIM-607.md). The construction is the filer's, from A's
   separation of the configuration layer from the process layer; adopting
   it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-583: Two constraint systems can have the same compatibility complex, the same move rule and the same costs and differ in whether a configuration meeting one demand reaches one meeting another, so compatibility equivalence does not imply equivalence of reachability

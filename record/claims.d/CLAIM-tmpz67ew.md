@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'Regulations are constraints that operationalize a demand specification, chosen so as to steer an industrial ecosystem optimally toward harmonious governance'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §1.4, §2.3, §14.3, §14.5. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,6 +45,8 @@ summary: >-
   there is no scalar optimum ([CLAIM-tmphjm0q](CLAIM-tmphjm0q.md)). The section on readings of
   "optimally" is the assistant's (Claude, in this session); adopting it is
   the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-tmphjm0q THEORY-859 TERM-tmppvlfi — Proposed; filed or cited in this filing of 2026-11-22 -->
 

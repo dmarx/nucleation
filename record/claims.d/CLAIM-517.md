@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpekkm7
 title: 'A successor regulator keeps a viable set positively invariant if, at every boundary context, its response distribution is within γ/L in total variation of a regulator that certifies inward margin γ, the dynamics being L-Lipschitz in that distribution; an average distillation loss certifies this only through coverage of the boundary contexts, so fidelity measured in ordinary operation certifies nothing about viability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.6. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -37,6 +45,8 @@ summary: >-
   stated here. A16's application to its own construction (γ = 0.16) was
   notional, since that model has no regulator distribution and L is
   undefined there.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-tmpktdh5 — new; the objection filed for LEAD-194, cited in the note of 2026-11-22 -->
 

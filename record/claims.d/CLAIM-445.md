@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp28sti
 title: 'A protective regime, in a person, an institution or a system of states, becomes self-maintaining when the interventions it authorizes shift the evidence used to judge its necessity, the authority and resources of those who judge it, the capacities of its constituents or the threat environment itself in ways that favour its continuation; this can happen when the original threat was real and the first protection apt, and it is a failure only where the regime has become less responsive to evidence that it is no longer needed'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-30'
@@ -47,6 +47,14 @@ history:
     A dated note: A9 §6 of the exchange "Assess Depp Heard Abuse"
     gives the mechanism between two persons, and a claim filed from it
     rests on this one. No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.4, §13.7. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -92,6 +100,8 @@ summary: >-
   securitization, policy feedback, emergency powers and the security
   dilemma. The literatures support components of the mechanism; none
   shows a single self-confirming loop behind every protective policy.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-346 CLAIM-924 — new; filed by LEAD-076 on 2026-11-22 and cited in its note of that date -->
 <!-- inactive-ok-file: CLAIM-446 — Proposed or new; the premise and LEAD-047's readings of 2026-11-22 -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpv67b2
 title: 'Niche differentiation matters to an organization''s development as possible relief of structural frustration among its constituents'' persistence demands, a strict enlargement of their compatibility complex over viable histories for the same demands, and not as reduced competition: competition, contested rankings, structural and governance frustration, operative thwarting, strain and coexistence come apart, so lower competitive intensity, the exclusion of a constituent or a redistribution of influence relieves no structural frustration of the original demands, and specialization can relieve frustration where nothing competes'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -28,6 +28,14 @@ history:
     part in that line's argument, since it bears on QUESTION-131 to
     QUESTION-135, a question of that line. Found by the lint sweep of
     2026-11-10 as a `rests_on` step across lines. No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.1, §12.5. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -81,6 +89,8 @@ summary: >-
   constrained coexistence". The reader adds the governance case A7
   dropped and the separation of coexistence from cooperation. The wording
   is A's, sharpened by the reader; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-555 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

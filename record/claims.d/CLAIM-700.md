@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp0tg7y
 title: 'Where members'' conscientious compensation covers an organization''s shortfall and the organization budgets to what it observes, the compensation and the quiet it buys are read as adequacy, resources are cut toward what the present configuration needs, and the reconfigurations that would remove the shortfall pass out of reach while the present arrangement stays feasible; and where revealing spare capacity invites its removal, the members'' own best responses feed the loop'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-16'
@@ -60,6 +60,13 @@ history:
     the loop, the lead filer's mechanism hypothesis, unchecked; the
     proposal's analogy to the Admission's statutory-ratio hospital
     corrected. No change of status or title.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.10. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -108,6 +115,8 @@ summary: >-
   "the conversion of tolerance into apparent consent". Admitted by a
   discriminating prediction. The wording is A's; adopting it is the owner's
   call.
+works:
+- governance-of-possibility
 ---
 <!-- unresolved-ok-file: CLAIM-tmp0ogo4 — the continuation filing's entries, folded into this record's at the reconciliation of 2026-11-18 and never merged; named for provenance -->
 <!-- inactive-ok-file: SYNTHESIS-099 — Proposed; the part account whose audit found the second route -->

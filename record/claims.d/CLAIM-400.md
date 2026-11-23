@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4v4na
 title: 'In the meaning–authority model linearized at symmetry, a third, maintained legibility state that authority moves (ε) and that moves interpretation (ν) or conferral (μ), with persistence λ < 1 and nonnegative couplings, destabilizes the symmetric state exactly when the two-variable condition holds with β + νε/(1 − λ) in place of β and δ + με/(1 − λ) in place of δ: at the threshold the regime is indistinguishable from stronger two-variable couplings, and the slower it is the more it adds, while away from the threshold it adds a mode that no two-variable model has, so a lean in the regime can outlast the advantages it was built from'
-version: 5
+version: 6
 history:
 - version: 1
   date: '2026-10-21'
@@ -45,6 +45,13 @@ history:
     so it moves no linear threshold at all'. Both carry
     distributed-agency first, so the step crosses no line. No
     other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.2. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -82,6 +89,8 @@ summary: >-
   third mode: a lean in the regime can hold interpretation and authority
   off symmetry after they would have relaxed, which no two-variable
   parameters reproduce.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-936 — Proposed; cited in the note of 2026-10-25, nothing here rests on their being settled -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-21'
@@ -63,6 +63,13 @@ history:
   note: >-
     Note of 2026-11-23 added: open-source successions coded by the lead run
     of that date; recognition followed the producers. The claim is unchanged.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -91,6 +98,7 @@ complements:
 - CLAIM-420
 - CLAIM-544
 works:
+- governance-of-possibility
 - organization-of-perspective
 - character-that-changed-parties
 uses:

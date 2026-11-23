@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmph28l6
 status: Proposed
 title: 'The cost of imposing a decision and the cost of questioning, suspending or reversing it are separate, so an institution can lower the first while the second stays the same or rises, gaining power over those its decisions affect with no change in its formal authority: friction moves from the exercise of power to its contestation'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -16,6 +16,13 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note added: Frischmann and Benesch (LIT-3136) registered and read on 2026-11-22 for LEAD-152, NOTE-2359. No change of status or title.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.3. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,6 +62,8 @@ summary: >-
   capacity to be corrected are kept by different relations; this names
   the costs per decision and per challenge that separate them. Restated at
   A26 §VI. The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-706 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->

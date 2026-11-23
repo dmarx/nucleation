@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6gp8d
 title: 'When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-27'
@@ -26,6 +26,13 @@ history:
   note: >-
     Note of 2026-11-23 added: two split successions at a change of steward,
     coded by the lead run of that date. The claim is unchanged.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -57,6 +64,8 @@ summary: >-
   of [QUESTION-118](../questions.d/QUESTION-118.md) at the owner's word. It concerns plural successor
   relations, not branching identity, and rests on one documented case
   with no data on how supporters divided.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-617 — filed from the same exchange, Proposed -->
 

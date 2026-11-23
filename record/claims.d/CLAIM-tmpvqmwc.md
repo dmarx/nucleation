@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'In a simulated sensor network whose correspondences drift, revision improves prediction on positions the network did not choose only when it answers to beacons whose position and channel the revision can neither rewrite nor refuse; revision by the sensors'' disagreement alone restores consistency and not accuracy, and a revisable beacon map or a right to refuse disagreeing beacons loses part or all of the gain'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-22'
@@ -14,6 +14,14 @@ history:
     Proposed to Active at the status review's ruling (the owner delegated
     these rulings): CASE-tmp33vf4, its only ground, reproduces and is
     Active; no objection; the defeater is not met.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.6, §13.7. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -53,6 +61,8 @@ summary: >-
   This is [QUESTION-285](../questions.d/QUESTION-285.md)'s structural condition on G in one construction, and
   independent evidence for [CLAIM-342](CLAIM-342.md). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-tmpvqmwc: In a simulated sensor network whose correspondences drift, revision improves prediction on positions the network did not choose only when it answers to beacons whose position and channel the revision can neither rewrite nor refuse; revision by the sensors' disagreement alone restores consistency and not accuracy, and a revisable beacon map or a right to refuse disagreeing beacons loses part or all of the gain

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhkhm
 title: 'An intervention can change what it would take to correct it: by altering the distribution of control, access, resources or enforcement before it is reviewed, it can make a specified corrective outcome costlier or unreachable while the standards that govern that outcome stay the same'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-30'
@@ -50,6 +50,14 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §10 uses its proposition as a step. No other
     change.
+- version: 8
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.2, §13.3. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -69,6 +77,7 @@ date: '2026-10-27'
 line:
 - distributed-agency
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 grounds:
 - CASE-176

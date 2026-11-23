@@ -1,13 +1,21 @@
 ---
 status: Proposed
 title: 'A self-like organization need not be unified by convergence on a single perspective: it can be unified ecologically, by a historically maintained regime in which differentiated perspectives stay viable, mutually consequential and able to reorganize their relations'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant from A24 of the exchange "Explain
     First Contact RL" (ChatGPT, shared 2026-11-22), after the owner's U12.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.3, §12.7. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,6 +55,8 @@ summary: >-
   team. One version of the cross-section self thesis of this exchange. The
   wording is A's (ChatGPT, in the exchange of 2026-11-22); adopting it is
   the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-362 — Proposed; the term this claim is stated in, filed with it on 2026-11-22, and the non-domination criterion it cites -->
 
