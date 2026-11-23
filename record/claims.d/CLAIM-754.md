@@ -159,3 +159,20 @@ standards, with only partial overlap in what old and new can solve. The
 1959 essay, through a stand-in ([THEORY-2096](../theory.d/THEORY-2096.md)), places the formulation
 of anomalies in training in a tradition, an inquiry frontier set by
 acquired organization. Interpretive.
+
+## Note of 2026-11-23: the scalar once declared
+<!-- inactive-ok-file: CLAIM-tmpy87xn CLAIM-tmp6ppvo CLAIM-tmpl9022 — new; filed by the lead run of 2026-11-23 -->
+
+The lead run of 2026-11-23 qualifies this claim's last clause, that a
+scalar ranks learning processes once a task distribution, costs, horizon
+and evaluative preferences are declared. A fixed task distribution is more
+than is needed: a declared law that depends on what has been learned
+suffices (CLAIM-tmpy87xn). The list is less than enough: with all four
+declared, a learner whose learnability outgrows the discount has no
+optimal policy (CLAIM-tmpl9022), so a finite value and attainment must be
+added. And "evaluative preferences" must be one valuation across the
+selves a policy could produce; when learning changes them, the
+preferences of those selves fix no scalar (CLAIM-tmp6ppvo). The claim's
+thesis, that the three frontiers move separately, is untouched. Related
+by complements; whether the qualification should be an objection is the
+owner's call.
