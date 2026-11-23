@@ -9,7 +9,15 @@
 ## Done
 
 - Step 1 check.
+- Scoping: located Gallo, Lynch and Tomy, "Out of Site, Out of Mind?" (J. Accounting Research 2023, CC BY-NC, UChicago Knowledge copy), read in full.
+- CODING.md written before the case table.
+
+## Obstacles (not retried)
+
+- 2026-11-23: www.justice.gov (Purdue 2020 press release, archives/opa/pr/...): Akamai interstitial bot check. Stopped.
+- 2026-11-23: corporate-prosecution-registry.com/downloads/ and usdoj.gov: refused by this session's permission system. Not worked around.
+- violationtracker.goodjobsfirst.org: 403.
 
 ## Next
 
-- Scoping pass over open sources; then CODING.md before the table.
+- Case histories from open documents (Purdue CIA text and Massachusetts complaint; Wells Fargo lift; others).
