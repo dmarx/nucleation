@@ -1,0 +1,140 @@
+---
+status: Read
+paper: LIT-tmpglael
+title: 'Epigenetic signatures of intergenerational exposure to violence in three generations of Syrian refugees'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Read in full by the lead run of 2026-11-23 from the published version
+    (CC BY-NC-ND 4.0), served as JATS XML by NCBI E-utilities (efetch,
+    db=pmc, PMC11868390) after Europe PMC's REST full-text route answered
+    HTTP 500. The documented interface was the route (ADR-101). Read: the
+    abstract, introduction, results, discussion, conclusions, methods and
+    the table of sample characteristics. Not read: the supplementary
+    tables, which list the 35 DMPs. Citations are by section.
+date: '2026-11-23'
+summary: >-
+  Three groups of Syrian refugee families in Jordan, 48 families and 131
+  people, with buccal DNA methylation on the EPIC array. In the 1980 group,
+  grandmothers were pregnant during the Hama violence, so their daughters
+  were exposed in utero and their grandchildren "germline". In the 2011
+  group, mothers were pregnant during the uprising, so younger children
+  were exposed prenatally and older children directly. Controls are
+  families in Jordan before 1980. Fourteen DMPs went with germline exposure
+  (18 children), 21 with direct exposure, and none with prenatal exposure.
+  Most shift the same way across the three exposures. Epigenetic age was
+  accelerated in prenatally exposed children. The germline children's
+  mothers were themselves prenatally exposed and raised in 1980 refugee
+  families.
+---
+
+# NOTE-tmpxwx4b: Epigenetic signatures of intergenerational exposure to violence in three generations of Syrian refugees
+
+## Contribution
+
+The first human cohort study to set up a "germline" exposure group for
+psychosocial trauma, beside prenatal, direct and unexposed groups. It
+reports DNA methylation differences in the germline group.
+
+## Key results
+
+- **The germline group** (Results, Study design): "In the 1980 exposure
+  group, maternal grandmothers were pregnant before fleeing Syria, meaning
+  their daughters (F2 generation) were prenatally exposed and their
+  grandchildren (F3 generation) were germline exposed to war violence."
+  The group has 18 participants (Table 1): 10 younger and 8 older children
+  from 10 families (Methods).
+- **The finding** (Results, EWAS): "The final set of 35 DMPs included 14
+  probes that were associated with germline exposure to violence and 21
+  probes that were associated with direct violence exposure ... No DMPs
+  were significantly associated with prenatal exposure to violence." The
+  two sets do not overlap. 32 of the 35 shift the same way across all
+  three exposures.
+- **The claim** (Results): "This is the first report of a germline DNAm
+  signature of violence trauma in humans using a cohort study with an
+  unexposed comparison group".
+- **Largest effect** (Results): cg01490163, near KRT36, −0.265 in the
+  germline group (95% CI −0.349 to −0.181).
+- **Robustness** (Results): restricting controls to children, to meet the
+  age imbalance, kept 8 of the 14 germline DMPs at genome-wide
+  significance.
+- **No enrichment** (Results): gene ontology found no enrichment "even
+  when using a relaxed false discovery rate".
+- **Epigenetic age** (Results): prenatal exposure went with age
+  acceleration in children (PedBE and Skin and Blood clocks). With
+  mothers included, no clock showed it.
+- **Limits named by the authors** (Discussion): buccal tissue, "relatively
+  small sample sizes", and other marks not measured. They say the design
+  approximates "the kind of experimental, intergenerational study design
+  typically only possible in animal models".
+
+## Assumptions
+
+- That exposure of a pregnant grandmother reaches the grandchild by the
+  germline, the oocyte forming in the fetal daughter. The other routes
+  open to the same grandchild are not discussed as alternatives.
+- That the three groups differ only in exposure. They differ in when they
+  left Syria and why, in the generation sampled and in age. The control
+  families are those that moved to Jordan before 1980.
+- That buccal methylation reflects something general. No phenotype,
+  distress or health measure was taken from the children.
+
+## Concepts
+
+- **Germline exposure**: an F3 individual whose F1 grandmother was exposed
+  while pregnant with the F2 mother, because the F2's germ cells were
+  present in the F1's womb. Under Heard and Martienssen's usage
+  (THEORY-1576) this is an intergenerational case, not a transgenerational
+  one: the F3's germ cell was itself present at the exposure.
+- **DOHaD** as the authors' frame. They read inheritance as an adaptive
+  signal.
+
+## Bearing on the record
+
+- **QUESTION-297, the germline route** (evidence on a design; it carries
+  less than its authors claim). Set against the routes the question
+  names, the germline group is not separated from:
+  - *the womb*: each germline grandchild was carried by a mother who was
+    herself exposed in utero, so her own development, including her
+    physiology in pregnancy, is a route from the 1980 violence to her
+    child;
+  - *parenting*: the mothers were raised by grandmothers who survived Hama
+    and fled, so the grandmothers' care and the mothers' upbringing are
+    routes to the third generation;
+  - *the group's narrative*: the families are a 1980 refugee community,
+    with Hama as their history, against controls who left before 1980;
+  - *ordinary confounds*: cohort, age, migration history and
+    socioeconomic status. Parity and SES were not adjusted, the authors
+    say, because of missing data.
+
+  So the design shows that grandchildren in the 1980 group differ in
+  buccal methylation from control families. It does not show by which
+  route. This is the reading of CLAIM-tmp3qsdg. The reading that counts
+  it as a partial separation is CLAIM-tmpgv8bs, argued in ARG-tmpmenxz.
+- **QUESTION-297's opening germline examples** (a parallel). Like the
+  FKBP5 study (NOTE-1310), the effects do not simply copy from parent to
+  child. Here no DMP is significant in the prenatally exposed generation,
+  though most share its direction.
+- **CLAIM-644** (corroboration). The best recent human attempt still
+  favours the germline route by design label, not by separation, like
+  Costa et al.'s "by elimination" (NOTE-1255).
+
+## Limitations
+
+- 18 germline-exposed children from 10 families, and an EWAS on 768,625
+  probes. Bonferroni correction and the overlap of two models make chance
+  findings less likely, but the families are few. Clustering by family
+  was modelled only in the second stage.
+- Mixed generations in the control group, and the sensitivity analysis
+  loses 6 of the 14 germline sites.
+- Exposure is the ancestor's count of traumatic events, reported by the
+  mother when the grandmother had died.
+- The paper's conclusion ("support for the intergenerational epigenetic
+  transmission of violence trauma") outruns its design, which cannot
+  attribute the difference to transmission rather than shared
+  circumstance. The paper's own list of strengths and limitations does
+  not name the confounds above; its introduction grants only, in general,
+  "the importance of cultural and environmental factors". This is the gap
+  in its own argument.
