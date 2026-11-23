@@ -38,7 +38,7 @@ summary: The assistant's answer to the owner's "relate the conversation to
   the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpwjpc8 CLAIM-541 CLAIM-tmpk8ude CLAIM-tmpx8csq LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+<!-- inactive-ok-file: CLAIM-541 CLAIM-tmpk8ude CLAIM-tmpx8csq LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
 # CLAIM-tmp0doyo: Effortless action has a direction as well as a timing: the least quadratic effort to move a controlled system by Δx is ΔxᵀW⁻¹Δx with W its controllability Gramian, so a change of given size is cheap along W's strong directions, costly along its weak ones and impossible outside its range, and acting effortlessly is acting along the directions the system already affords, as Cook Ding's knife follows the spaces between the joints
 
@@ -83,7 +83,6 @@ fits, not on the account.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-541 — Proposed; the premise that holds it -->
-Its premise CLAIM-541 is Proposed: the timing it adds a direction to rests
+Its premise [CLAIM-541](CLAIM-541.md) is Proposed: the timing it adds a direction to rests
 on Ott, Grebogi and Yorke's method, which no reading or demonstration in the
-record holds. The direction half follows from CLAIM-345 (Active) alone.
+record holds. The direction half follows from [CLAIM-345](CLAIM-345.md) (Active) alone.

@@ -33,7 +33,7 @@ summary: >-
   exchange of 2026-11-22); the merge and the withdrawal arm are the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp86z76 CLAIM-tmpmk036 CLAIM-tmpywoih CLAIM-tmpcsh5p CLAIM-668 — Proposed; the claims this lead tests -->
+<!-- inactive-ok-file: CLAIM-tmp86z76 CLAIM-tmpywoih CLAIM-668 — Proposed; the claims this lead tests -->
 
 # LEAD-tmponn7c: Compare collaborators working across sessions from a shared transcript, shared searchable documents and a governed record, measuring stability, synchronization, belief convergence, retained plurality, governance overhead, experienced flow and corrective capacity separately
 

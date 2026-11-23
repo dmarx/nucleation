@@ -23,7 +23,6 @@ summary: >-
   coupling needs no agreement. The two are separate dimensions, and
   [TERM-050](TERM-050.md) stays Active beside it.
 ---
-<!-- inactive-ok-file: CLAIM-tmpmk036 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-358 CLAIM-364 CLAIM-362 — Proposed or Open; the objection, questions and claims this term is set beside -->
 
 # TERM-061: practical synchronization: an agent's action-generating regimes, relative to a context and a horizon, sustaining mutually compatible courses of activity through their own interactions, without recurrent overriding arbitration by a higher level, whether or not they rank the same course first
