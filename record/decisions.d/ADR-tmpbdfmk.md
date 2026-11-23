@@ -66,6 +66,13 @@ the procedure, and for the manuscript to be fleshed out (work
 governance-of-possibility, [ADR-tmpsfjxu](ADR-tmpsfjxu.md)). In the same exchange the owner
 asked for the procedure to be documented.
 
+On reading the first draft's review, the owner ruled, in their words: "the
+manuscript is a view over the argument. preferably, nothing in it is new.
+restatements are fine. if they aren't directly mappable to anything already
+on the record, instead of throwing them away just file them as syntheses."
+And: "adding uncited readings that were identified as relevant should be
+part of the documented procedure." Invariants 3 and 8 carry the two rulings.
+
 ## Decision
 
 Manuscripts tied to the record's arguments are written by a protocol in two
