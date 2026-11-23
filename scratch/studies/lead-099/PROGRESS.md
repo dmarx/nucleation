@@ -54,6 +54,25 @@ lead's result. Not held.
   executed-study CASE; its bearing on CLAIM-329 as two alternative
   interpretive claims (lean: the defeater is not met).
 
+## Filed (2026-11-23)
+
+- LIT/NOTE pairs: LIT-tmpsigvb/NOTE-tmpr4az8 (NBC Sports Washington
+  2020), LIT-tmpccmbp/NOTE-tmp89bvx (Wikipedia), LIT-tmpx9m37/NOTE-tmp41tft
+  (Hall of Fame), LIT-tmpb3jca/NOTE-tmpomjp5 (Baseball-Reference),
+  LIT-tmpwbrdw/NOTE-tmpdyoej (AP via SI 2019), LIT-tmp7a59o/NOTE-tmpleeno
+  (The W board 2004), LIT-tmpa65x4/NOTE-tmp5w6pe (District on Deck 2023).
+- CASE-tmp44mzc (executed-study, documented, Proposed).
+- CLAIM-tmp7z7si (verdict; thesis, empirical), CLAIM-tmpl3ubq (lean;
+  thesis, interpretive), CLAIM-tmpzrzml (alternative; counter,
+  interpretive, objects_to CLAIM-329).
+- Dated notes on LEAD-099, CLAIM-329, QUESTION-118, CASE-105, CLAIM-328;
+  changelog fragment record/changelog.d/lead-099.md.
+- Narrow diagnosis with luria.ref_status.scan on the changed files: no
+  unused, lost or dangling excuse, no unexcused citation of the new codes
+  (an excuse block ends at a blank line; fixed in LEAD-099 and CLAIM-329).
+
 ## Next
 
-- File LITs and NOTEs, the CASE, the claims, dated notes, changelog.
+- Nothing for the worker. The owner chooses between CLAIM-tmpl3ubq and
+  CLAIM-tmpzrzml, and may want the league's own pages read from a client
+  mlb.com does not refuse.

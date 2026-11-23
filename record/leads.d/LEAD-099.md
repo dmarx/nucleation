@@ -26,6 +26,7 @@ advances:
 summary: >-
   Named in [CLAIM-329](../claims.d/CLAIM-329.md). Filed by the backlog audit of 2026-11-19.
 ---
+<!-- inactive-ok-file: CASE-tmp44mzc CLAIM-tmp7z7si CLAIM-tmpl3ubq CLAIM-tmpzrzml — new, Proposed; the study and claims filed by the lead run of 2026-11-23 -->
 
 # LEAD-099: Find out whether the league, the club or its supporters count the 2005 Washington Nationals as the original Senators' continuation
 
@@ -45,7 +46,6 @@ The verdict is [CLAIM-329](../claims.d/CLAIM-329.md)'s named test.
 
 ## Note of 2026-11-23: run
 
-<!-- inactive-ok-block: CASE-tmp44mzc CLAIM-tmp7z7si CLAIM-tmpl3ubq CLAIM-tmpzrzml — new, Proposed; the study and claims filed by the lead run of 2026-11-23 -->
 Run by a delegated lead worker on branch
 claude/lead-099-franchise-count, with its working files under
 scratch/studies/lead-099/ (coding rules written before reading, fourteen
