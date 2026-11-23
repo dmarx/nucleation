@@ -1,0 +1,123 @@
+{
+  "cases": {
+    "purdue": {
+      "arm": "S",
+      "outcome_after": "W-",
+      "conditions": {
+        "ended_with_window": true,
+        "arm_R_or_S": true,
+        "post_lift_outcome": true,
+        "finding_or_study": false,
+        "reputation_and_benefit_exclude": false
+      },
+      "lacks": [
+        "finding_or_study",
+        "reputation_and_benefit_exclude"
+      ],
+      "meets_standard": false
+    },
+    "siemens": {
+      "arm": "R",
+      "outcome_after": "W-",
+      "conditions": {
+        "ended_with_window": true,
+        "arm_R_or_S": true,
+        "post_lift_outcome": true,
+        "finding_or_study": false,
+        "reputation_and_benefit_exclude": false
+      },
+      "lacks": [
+        "finding_or_study",
+        "reputation_and_benefit_exclude"
+      ],
+      "meets_standard": false
+    },
+    "wells_fargo": {
+      "arm": "U",
+      "outcome_after": "unripe",
+      "conditions": {
+        "ended_with_window": false,
+        "arm_R_or_S": false,
+        "post_lift_outcome": false,
+        "finding_or_study": false,
+        "reputation_and_benefit_exclude": false
+      },
+      "lacks": [
+        "ended_with_window",
+        "arm_R_or_S",
+        "post_lift_outcome",
+        "finding_or_study",
+        "reputation_and_benefit_exclude"
+      ],
+      "meets_standard": false
+    }
+  },
+  "pairs": [],
+  "coefficients": [
+    {
+      "term": "Treat x During Probation",
+      "panel": "5A col 1",
+      "beta": -0.267,
+      "t": -2.61,
+      "percent": -23.4,
+      "significant_5pct": true
+    },
+    {
+      "term": "Treat x Post Probation",
+      "panel": "5A col 1",
+      "beta": -0.091,
+      "t": -0.87,
+      "percent": -8.7,
+      "significant_5pct": false
+    },
+    {
+      "term": "Treat x During Probation",
+      "panel": "5B col 1 (CEM)",
+      "beta": -0.284,
+      "t": -2.148,
+      "percent": -24.7,
+      "significant_5pct": true
+    },
+    {
+      "term": "Treat x Post Probation",
+      "panel": "5B col 1 (CEM)",
+      "beta": -0.145,
+      "t": -1.072,
+      "percent": -13.5,
+      "significant_5pct": false
+    },
+    {
+      "term": "Treat x During Probation",
+      "panel": "5C col 1 (entropy)",
+      "beta": -0.313,
+      "t": -2.234,
+      "percent": -26.9,
+      "significant_5pct": true
+    },
+    {
+      "term": "Treat x Post Probation",
+      "panel": "5C col 1 (entropy)",
+      "beta": -0.022,
+      "t": -0.168,
+      "percent": -2.2,
+      "significant_5pct": false
+    },
+    {
+      "term": "Board Changes x Post Probation",
+      "panel": "5A col 2",
+      "beta": -0.168,
+      "t": -1.709,
+      "percent": -15.5,
+      "significant_5pct": false
+    },
+    {
+      "term": "Board Changes x Post Probation",
+      "panel": "5B col 2 (CEM)",
+      "beta": -0.28,
+      "t": -2.298,
+      "percent": -24.4,
+      "significant_5pct": true
+    }
+  ],
+  "any_case_meets_standard": false
+}

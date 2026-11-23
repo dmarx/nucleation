@@ -11,6 +11,9 @@
 - Step 1 check.
 - Scoping: located Gallo, Lynch and Tomy, "Out of Site, Out of Mind?" (J. Accounting Research 2023, CC BY-NC, UChicago Knowledge copy), read in full.
 - CODING.md written before the case table.
+- Sources read: Purdue CIA (UNT archive), Indiana complaint v. Sacklers (govdelivery), Norwegian Council on Ethics on Siemens (2012), 100Reporters on Siemens (2021), Federal Reserve on Wells Fargo (2025-06-03).
+- cases.csv (3 cases), events.csv (13 events), studies.csv (8 coefficients), summarize.py, test_summarize.py (11 passing), results.json, README.md.
+- Result: no case meets the standard; Purdue and Siemens lack a finding-level post-lift outcome and both have reputation exposed and benefit aligned; Wells Fargo is unripe.
 
 ## Obstacles (not retried)
 
@@ -20,4 +23,10 @@
 
 ## Next
 
-- Case histories from open documents (Purdue CIA text and Massachusetts complaint; Wells Fargo lift; others).
+- Register LITs and NOTEs; THEORY for Gallo et al.; CASE; CLAIMs; dated notes; changelog.
+
+## Choices made
+
+- Frame is purposive (CODING.md): the quantitative study found, the record's own case (Wells Fargo), and two cases with an ended sanction and an open post-lift record. Boeing, Pfizer and Facebook were considered and not coded: no source was read for them.
+- Purdue's complaint is Indiana's, not Massachusetts's (the search result's host was Indiana's AG).
+- The 2020 Purdue plea, which would turn the Purdue allegations into findings, sits behind justice.gov's bot check; not read.
