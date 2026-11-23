@@ -10,7 +10,7 @@ summary: >-
   protocol/procedure for manifesting and fleshing out a manuscript draft
   from a view over the argument like this"), manuscripts tied to the
   record's arguments follow a protocol in two layers, as reading and filing
-  do (ADR-068): eight invariants here, and the steps in
+  do ([ADR-068](ADR-068.md)): eight invariants here, and the steps in
   .claude/skills/write-manuscript/SKILL.md. The procedure is the one the
   manuscript from-obstruction-to-reorganization converged on between
   2026-11-20 and 2026-11-21, written down; its first application is the
@@ -37,7 +37,7 @@ On 2026-11-23 the owner asked for ChatGPT's article "Regulation as the
 Governance of Possibility" to be treated as a motivating draft, for the
 from-obstruction-to-reorganization manuscript to be taken as the example of
 the procedure, and for the manuscript to be fleshed out (work
-governance-of-possibility, ADR-tmpsfjxu). In the same exchange the owner
+governance-of-possibility, [ADR-tmpsfjxu](ADR-tmpsfjxu.md)). In the same exchange the owner
 asked for the procedure to be documented.
 
 ## Decision
@@ -57,12 +57,12 @@ layers.
 3. **The manuscript's own joins are marked.** Where it integrates entries
    the record keeps apart, it says so and collects those integrations as
    its own; it never presents them as held.
-4. **Voices stay separate** (ADR-068's sixth invariant). The owner's theses
+4. **Voices stay separate** ([ADR-068](ADR-068.md)'s sixth invariant). The owner's theses
    are named as the owner's, an assistant's as theirs.
 5. **A motivating draft is audited before it is used.** An assistant's
    write-up or an outline fixes scope and order. What it says the record
    holds is checked against the entries, and what it adds is tested
-   (ADR-075) and filed or listed as a gap before the draft builds on it.
+   ([ADR-075](ADR-075.md)) and filed or listed as a gap before the draft builds on it.
 6. **Results are executed, not stipulated.** A model, figure or test the
    manuscript reports is run as code with tests and a negative control, and
    its outputs are kept beside it with their date.
@@ -74,7 +74,7 @@ layers.
    review beside the draft, and the revision says what it took from it.
 
 **The steps, held in `.claude/skills/write-manuscript/SKILL.md`.** The skill
-covers the work and its membership (ADR-104's rule), the motivating draft's
+covers the work and its membership ([ADR-104](ADR-104.md)'s rule), the motivating draft's
 audit, background digests, analysis, drafting, gaps, review, revision,
 landing and refresh. When a manuscript finds a step wrong or missing, the
 skill is edited in the same pull request, and the changelog fragment says
@@ -89,10 +89,10 @@ what changed and why.
 - **Hold manuscripts inside the record**, as a scheme of their own. A
   manuscript is a view the owner revises as prose, for an outside reader;
   the record's grammar (one claim per entry, a status per claim) is what it
-  is a view over, and two copies of the argument would drift (DP-003). The
+  is a view over, and two copies of the argument would drift ([DP-003](../../docs/design-principles.md#dp-3)). The
   `works` field already ties the two.
 - **A skill without a decision.** The steps change with practice, but the
-  invariants are what make a manuscript trustworthy as a view; ADR-068
+  invariants are what make a manuscript trustworthy as a view; [ADR-068](ADR-068.md)
   separates the two for the same reason.
 
 ## Consequences
