@@ -98,3 +98,7 @@ generalization is the owner's interpretive step.
   entail the others, the claim reduces to that one.
 
 [CLAIM-tmpw11e6](CLAIM-tmpw11e6.md) qualifies the protection clause.
+
+## Note of 2026-11-23: three of the four components now Active
+
+Standing out of date; the assistant's (Claude, in this session). The summary's "All four are Proposed" and the body's "in four different models, all Proposed" no longer hold. At the status review of 2026-11-23 three of the four components went Active at version 2: CLAIM-tmpvqmwc, CLAIM-tmp5wozo and CLAIM-tmpxoxys. CLAIM-tmpz8q70 is Proposed. The claim's text is the owner's and is left as written; whether to revise it is the owner's call. Found in drafting the manuscript governance-of-possibility, whose §13.8 counts three of the four as demonstrated in models. No status change.

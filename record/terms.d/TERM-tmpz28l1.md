@@ -104,3 +104,12 @@ V_adaptive, and names three achievements, M_D ⊇ M_adaptive ⊇ V_adaptive. It
 secures one retuning: nothing in the construction requires readiness again
 after a switch to a new demand unless the family of demands is closed under
 retuning, which the manuscript leaves unstated.
+
+## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
+
+<!-- inactive-ok-file: CLAIM-878 — Proposed; the drill a note names -->
+Qualification, the assistant's. A gap of the manuscript governance-of-possibility, §8.5 (GA2). The second-order kernel of the note "a second-order version" above can be read with two sets of evolutions. Its M_D is taken under "actual policies", while Viab_{F_aug} asks whether some evolution stays in M_adaptive (THEORY-134). Write V_π for the kernel of the closed loop under the policy the regime follows, and V_adm for the kernel when F_aug admits every evolution an admissible revision of policy produces. A viability kernel can only grow when more evolutions are admitted, so V_π ⊆ V_adm ⊆ M_adaptive.
+
+The manuscript's separating case holds for V_π only. Under the peak budget rule, (A, budget 3) leaves M_adaptive after one period of holding (CLAIM-577), so it is outside V_π. If F_aug admits a drill each period at the transition's threshold, the budget stays at 3 (CLAIM-878: "A drill each period holds the budget"); if it admits a revision of the budget rule to a floor at 3, the budget stays at 3 as well. Either way (A, 3) is in V_adm, provided the drill leaves D met while it runs. If revising the budget rule is admissible from (A, budget 1) and takes effect within H, that state is in T_{D→D′} on the same reading, and the manuscript's state separating M_D from M_adaptive fails too; a drill at 3 is not affordable from it (CLAIM-577).
+
+So V_adm \ V_π is the set of states the arrangement loses by keeping its policy and could keep by changing it: what a change of governance can save. The term should say which kernel it means, or carry both. This qualifies the audit in record/curation.d/2026/11/23/031842.md, which found that the manuscript's §8 "passes by a separating case (a Regime I state is in M_adaptive and not in V_adaptive)": it passes for the kernel under the policy followed, and for the kernel under admissible revisions only if the drill and the floor are left out of F_aug. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

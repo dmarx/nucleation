@@ -1,0 +1,53 @@
+---
+status: Open
+title: What standard makes the loss of a pathway to alternatives justified by the
+  benefits of consolidation, so that destructive lock-in can be told from productive
+  specialization?
+version: 1
+tags:
+- society-and-governance
+- ethics
+- operations-research
+date: '2026-11-23'
+line:
+- readiness
+- dependence-and-domination
+summary: 'A gap of the manuscript governance-of-possibility, §11.4 (GC11): TERM-tmpu5k0o''s
+  justification clause "has no standard", and the two partial candidates on file,
+  CLAIM-684''s rising burden and the break-even of the manuscript''s §9.6, are each
+  incomplete. The wording is the assistant''s (Claude, in this session); adopting
+  it is the owner''s call.'
+---
+
+<!-- inactive-ok-file: TERM-tmpu5k0o CLAIM-684 CLAIM-tmphjm0q — Proposed; the term whose clause is open and the two partial standards' limits -->
+
+# QUESTION-tmpvkgc0: What standard makes the loss of a pathway to alternatives justified by the benefits of consolidation, so that destructive lock-in can be told from productive specialization?
+
+## What makes it open
+
+TERM-tmpu5k0o separates destructive lock-in from productive specialization
+by whether "the benefits of consolidation" justify the pathways lost. Its
+Limits say the clause has no standard. Without one the test classifies
+nothing: every loss of a pathway can be called productive or destructive
+at will.
+
+Two partial candidates:
+
+- **A burden that rises with irreversibility** (CLAIM-684): the burden of
+  justifying a narrowing rises with its size and irreversibility. Its
+  reason runs out "where nothing will be learned"; it says who bears the
+  burden only in part, and who judges not at all.
+- **The break-even** of the manuscript's §9.6, reversed: consolidation that
+  prices a pathway out is justified when keeping the pathway costs more
+  than the expected late losses it prevents. It needs the readiness it
+  compares to be known (QUESTION-395) and the trade-offs among demands
+  declared first (CLAIM-tmphjm0q).
+
+Neither says whether "justified" also needs justification owed to, and
+answerable to, those whose alternatives are lost (QUESTION-480).
+
+## What would count as an answer
+
+A standard that classifies a stated loss of a pathway, says who judges it,
+and either is cost-benefit with its trade-offs declared or says what it
+adds to cost-benefit.
