@@ -92,3 +92,8 @@ same way at every deadline exactly when one curve lies at or above the other
 at every time (first-order dominance); where the curves cross, which is more
 ready is fixed only by the deadline. The condition is the assistant's
 (Claude, in this session).
+
+## Note of 2026-11-23: indexed by query and budget, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CLAIM-tmp2oloi CLAIM-tmp11j0f CLAIM-tmp62ldm — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
+A50 §1 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) writes R_S(q; H, B), the probability that "an acceptable answer to q is realized by H within budget B" under the organization's actual policy, and calls it "a demand-relative extension" of this term: the contingency becomes a practical query, and a budget is added (CLAIM-tmp2oloi). Its §8 takes the superlevel set 𝓔(S) = {(q, H, B): R_S(q; H, B) ≥ 1 − η_q} as the organization's answer frontier, beside the inquiry frontier of TERM-092 (CLAIM-tmp11j0f). The assistant's analysis of A50's interrogation game (CLAIM-tmp62ldm) finds that its strategic content is this term's setting, preparation chosen before the contingency is known. The term is unchanged.

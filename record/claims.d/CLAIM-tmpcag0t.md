@@ -102,3 +102,8 @@ demand-appropriate temporal response repertoire", restates this claim with
 adding only "justified" demands. Audited ([ADR-075](../decisions.d/ADR-075.md)): no separating case,
 derivation or discriminating prediction was found beyond them, and
 "appropriate" is a free parameter, so it is a recap and no claim is filed.
+
+## Note of 2026-11-23: A50's revision of the thesis
+
+<!-- inactive-ok-block: CLAIM-tmpx030o CLAIM-tmp11j0f — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
+A50 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) quotes this thesis's short form, "Regulation governs the evolving repertoire of temporal responses to demands", as the article's previous thesis and proposes "a significant revision": regulation governs "the evolving relationship between the demands an industrial ecology can recognize and formulate, and the responses it can organize, realize, and maintain" (CLAIM-tmpx030o). What it adds is the query side, the capacity to formulate demands, whose loss is harder to detect than a loss of response (CLAIM-tmp11j0f). Whether the revision replaces this thesis in the manuscript is the owner's call; the claim is unchanged.
