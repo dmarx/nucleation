@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp69tyj
 title: "In the record, a power law does not identify its mechanism: many routes produce one, each read from its dynamics, criticality among them; chaos, criticality and a cascade through scales come apart, as do scale invariance, dependence across scales and a heavy-tailed marginal; the owner's bulk-and-tail conjecture is held in two readings, of which only a separation of scales fits a continuous transition approached from below; and what survives a change of scale is counted by several effective dimensions whose agreement is open"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-506,
+    an in-force entry of the line no account integrated, to the components
+    filed after the coverage check. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
   an in-force entry of the formal-apparatus line on power laws, scale-free
@@ -69,6 +76,7 @@ integrates:
 - ARG-148
 - QUESTION-507
 - THEORY-2041
+- QUESTION-506
 bears_on:
 - QUESTION-516
 - QUESTION-505
@@ -129,6 +137,7 @@ bears_on:
 - [CLAIM-826](../claims.d/CLAIM-826.md) (A's, A17 §5, Proposed): critical systems are "harder to separate but easier to classify": fluctuations stay consequential across scales, so levels do not separate, while microscopic detail becomes irrelevant to the exponents. It sits beside [CLAIM-478](../claims.d/CLAIM-478.md) and uses [TERM-139](../terms.d/TERM-139.md).
 - [ARG-125](../arguments.d/ARG-125.md) (A's bridge, Rejected by the assistant): [THEORY-661](../theory.d/THEORY-661.md) does not carry A13 §9's step from a finite correlation length to near-decomposability in Simon's sense, since Simon's weak-interaction condition holds for large blocks even at criticality.
 - [ARG-127](../arguments.d/ARG-127.md) (A's argument, Rejected by the assistant): A1's cities example of cumulative advantage, weighed against [THEORY-1499](../theory.d/THEORY-1499.md)'s reading of city sizes recovering after bombing.
+- QUESTION-506 (the assistant's, filed on the owner's prompt of 2026-11-21; Open; added at version 2, at the synthesis review of 2026-11-23): whether cumulative advantage shapes the upper tail of the city-size distribution even where relative city sizes return to their prior paths after a large shock. It is the question ARG-127's third critical question raised and left open: THEORY-1499's recovery of Japanese cities settles the ranking against CLAIM-817's mechanism, not the shape of the tail, and the argument and the reading's note of 2026-11-21 record that neither the exchange nor the record takes it up.
 
 ## Links the components state, and where
 
