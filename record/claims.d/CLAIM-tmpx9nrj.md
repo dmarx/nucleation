@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'Possibility and realization are separate dimensions of a regulatory regime: its compatibility complex says which sets of public demands some attainable history meets, the probability of meeting them under a model of participants'' behaviour says how reliably the regime selects such a history, and a regime can improve either without the other'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -10,6 +10,12 @@ history:
     these rulings), under ADR-057: its premise CLAIM-347 is Active; the
     two-history construction separates the complex from P_D in both
     directions; no objection; the defeated_if is not met.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §2.1 uses
+    it: reliably reaching as a separate dimension. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -44,6 +50,8 @@ summary: >-
   against realized violation; this adds a distribution over histories
   induced by participants' responses. The wording is A's (ChatGPT, in
   the exchange of 2026-11-22); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-tmphjm0q — Proposed; filed in this filing of 2026-11-22 -->
 

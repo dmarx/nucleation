@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpm39cj
 title: 'Stability does not entail viability: a system can occupy a stable regime while losing access to trajectories that keep satisfying its constraints'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §1, §8
+    and §15 state its proposition, a system stable while losing its
+    capacity to reorganize. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -18,6 +26,7 @@ line:
 - will-organization
 - formal-apparatus
 works:
+- governance-of-possibility
 - organization-of-will
 grounds:
 - THEORY-134

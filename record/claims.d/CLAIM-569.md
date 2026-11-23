@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpancvu
 title: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and costly to acquire, so having enough to sustain it is not having enough to acquire it'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -35,6 +35,12 @@ history:
     2026-11-19): "dear" and "dearer" replaced by "costly" and "costs
     more" in the title and four passages. The claim is unchanged.
     Version 2's title read: 'A form has at least three resource requirements, to construct it, to maintain it, and to move into or out of it, and none fixes another: a capability can be cheap to keep and dear to acquire, so having enough to sustain it is not having enough to acquire it'.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §9 uses
+    it: endpoints cheap to keep, switching costly. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -54,6 +60,7 @@ line:
 - readiness
 - realizability
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
 rests_on:
 - CLAIM-571

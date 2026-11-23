@@ -94,3 +94,13 @@ routes to readiness under alternative demands." A42 §6 states the design
 problem that uses it: minimize operating, maintenance and
 reconfiguration costs subject to [TERM-115](TERM-115.md) readiness and this kernel.
 [CLAIM-tmpm985y](../claims.d/CLAIM-tmpm985y.md) and [CLAIM-tmpcag0t](../claims.d/CLAIM-tmpcag0t.md) cite both.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work this note names -->
+Restatement. A48 §8 of the owner's manuscript (ADR-tmpsfjxu) restates this
+term's second-order kernel of the note above, S = (x, θ, c), M_adaptive and
+V_adaptive, and names three achievements, M_D ⊇ M_adaptive ⊇ V_adaptive. It
+secures one retuning: nothing in the construction requires readiness again
+after a switch to a new demand unless the family of demands is closed under
+retuning, which the manuscript leaves unstated.

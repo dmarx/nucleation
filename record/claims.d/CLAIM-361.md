@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpq80iq
 title: 'Relief of an organization''s frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -25,6 +25,12 @@ history:
     A dated note: the local reading of First Contact (NOTE-2236)
     supports the citation in 'The converse error' and corrects its
     attribution. No change of status or title.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §9.6 uses
+    it: eliminating a demand is not relief. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -65,6 +71,8 @@ complements:
 - CLAIM-448
 - CLAIM-538
 - CLAIM-550
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-787 THEORY-2147 — Proposed; the dated note of 2026-11-21 -->

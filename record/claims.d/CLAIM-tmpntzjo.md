@@ -3,7 +3,15 @@ status: Proposed
 title: There is an inherent tension between stabilizing an organization's
   identity and keeping it adaptable, and the appropriate response to a demand
   depends on the timescale of that demand
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 the
+    abstract and §15 state it, on its weak reading, without naming it as
+    the owner's. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: 'Read strongly, that stabilizing identity always costs adaptability:
@@ -26,6 +34,8 @@ summary: 'The owner''s U20 in the second share of the exchange "Explain First
   Contact RL" (2026-11-22): "the inherent tension between identity stabilization
   and adaptability, and how appropriate response to demands is timescale dependent".
   The owner''s; filed with its two readings of "inherent" in its defeater.'
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-478 CLAIM-758 CLAIM-tmpbzwmr CLAIM-tmph25dl SYNTHESIS-046 TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-22 (second share) -->
@@ -62,3 +72,11 @@ Which reading of 'inherent' the owner means is unruled, and is already among
 the owner's open choices; A38 section 5 tells against the strong reading,
 and promoting the wording as it stands would assert both. The review leans
 to the weak one: stabilization and adaptability always bear on each other.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
+Restatement, on the weak reading. The opening puzzle and §15 of the owner's
+manuscript (ADR-tmpsfjxu, A48) state this tension and its dependence on the
+demands' timescales while denying a single-scale trade-off, without naming
+it as the owner's.

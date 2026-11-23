@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwpvbz
 title: 'A process with no procedural friction can still be interruptible: standing constraints set slowly in advance and enforced by mechanisms faster than the process can foreclose alternatives keep it open to intervention without delaying it, so an opportunity to intervene does not consist in friction'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-16'
@@ -42,6 +42,12 @@ history:
   date: '2026-11-22'
   note: >-
     A dated note added: Frischmann and Benesch (LIT-3136) registered and read on 2026-11-22 for LEAD-152, NOTE-2359. No change of status or title.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §7 uses
+    it: slow rule formation with fast execution. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -61,6 +67,7 @@ date: '2026-11-15'
 line:
 - distributed-agency
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 objects_to:
 - CLAIM-710

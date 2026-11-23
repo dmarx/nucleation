@@ -59,3 +59,11 @@ a study of real regulatory regimes. It would show, for a declared
 capability, that regulation of access gives it positive growth when rare
 and that equal subsidies do not, or the reverse. The lead [LEAD-tmpy0jkr](../leads.d/LEAD-tmpy0jkr.md)
 states such a model.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-tmpsfjxu CLAIM-tmpyakra — Proposed; the work and the claim -->
+Restatement and a partial answer. A48 §12 of the owner's manuscript (ADR-
+tmpsfjxu) restates this question's contrast of mechanism against
+compensation, and answers part of it: conserve a capability and its
+conditions of reproduction, not its occupant (CLAIM-tmpyakra).

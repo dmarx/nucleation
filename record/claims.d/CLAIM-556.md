@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp06538
 title: 'Before the four obstructions to a transition stands a failure of compatibility, no configuration meeting the demands, repaired by changing the constraints, since dropping a demand is not relief; and after them a failure of regeneration, the capability not surviving turnover, repaired by maintenance or reproduction; so a diagnosis runs through six levels, each with its own repair'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -18,6 +18,13 @@ history:
     the body uses them for the repair of compatibility, that dropping a
     demand is not relief and that no resource relieves a non-face while the
     architecture is fixed.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §10
+    states a capability that succeeds once while the capacity to repeat it
+    deteriorates. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +69,8 @@ summary: >-
   without a new architecture. A's further hope that the levels are
   "substrate-independent" is left to [CLAIM-573](CLAIM-573.md). The wording is A's;
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-194 CASE-207 CLAIM-573 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->
 

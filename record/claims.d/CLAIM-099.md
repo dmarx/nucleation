@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpswafr
 title: 'Maintaining a regime of effective action and maintaining the capacity to govern among regimes are not the same achievement'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §8 uses
+    its distinction between keeping a regime and governing among regimes.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -17,6 +25,7 @@ tags:
 date: '2026-10-04'
 line: will-organization
 works:
+- governance-of-possibility
 - organization-of-will
 uses:
 - TERM-023

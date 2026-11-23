@@ -7,7 +7,15 @@ title: 'Regulation governs possibility: it shapes which actions, relationships,
   and reflexive when its own specifications stay correctable, and there is
   no choice between governed and ungoverned possibility, only between organizations
   of it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §1 and
+    §13 state it: governing what can be attained, sustained and revised.
+    No other change.
 role: thesis
 warrant: interpretive
 defeated_if: An industrial ecosystem whose attainable futures are fixed by
@@ -36,6 +44,8 @@ summary: A34 of the exchange "Explain First Contact RL" (ChatGPT, second share
   generative regulation, and orders three levels of governance (conduct, capabilities,
   governability). The wording is A's (ChatGPT, in the exchange of 2026-11-22);
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 

@@ -7,7 +7,7 @@ title: 'What an organization''s filtering treats as noise is itself governed:
   the distinction between demand and disturbance is a higher-order task, and
   the capacity to recognize a demand as demand-worthy is a slow capability
   that must stay open to correction'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -17,6 +17,12 @@ history:
     CLAIM-403 and CLAIM-466 are Active; its ADR-075 separating case
     answers the "only restates" horn of its defeated_if, and the other
     horn is not met.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §4.1
+    states it: the filter classifies its own inputs. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: An organization whose classification of signal against noise
@@ -42,6 +48,8 @@ summary: 'A44 §3 and §7 of the exchange "Explain First Contact RL" (ChatGPT,
   third share of 2026-11-22), answering the owner''s U23: "Who determines
   what counts as noise?" The wording is A''s (ChatGPT, in the exchange of
   2026-11-22); adopting it is the owner''s call.'
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-tmp76xaw: What an organization's filtering treats as noise is itself governed: if objections to its established categories are classed as high-frequency disturbance, stabilization that succeeds against its current classification of noise can fail against the demands it exists to answer, so governing the distinction between demand and disturbance is a higher-order task, and the capacity to recognize a demand as demand-worthy is a slow capability that must stay open to correction

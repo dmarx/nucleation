@@ -80,3 +80,15 @@ ready for some contingencies than the other.
 ## Note of 2026-11-05: A's resource models and further distinctions
 
 The pasted synthesis on constraint architectures reads readiness as a resource-constrained transition capability: the probability, under policy, budget and architecture, of reaching a response configuration before the deadline without breaking constraints, with a planning problem that minimizes maintenance and expected operating cost subject to a floor on it. A: "Maintaining a specialized rescue unit is analogous to maintaining a mechanism that can be activated to reach an otherwise unavailable configuration before a deadline." See [CASE-198](../cases.d/CASE-198.md) and [QUESTION-392](../questions.d/QUESTION-392.md). The term is unchanged. No status changes.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
+Extension. A48 §6 of the owner's manuscript (ADR-tmpsfjxu) makes this term a
+curve over the deadline, R_i(S, t), and says organizations "need not admit a
+universal ranking" without saying when one exists. Since R_i(S, ·) is the
+distribution function of the response time, two organizations are ranked the
+same way at every deadline exactly when one curve lies at or above the other
+at every time (first-order dominance); where the curves cross, which is more
+ready is fixed only by the deadline. The condition is the assistant's
+(Claude, in this session).

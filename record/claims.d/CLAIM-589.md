@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpx3v84
 title: 'A motion the constraints permit need not be one the available inputs can drive, and a motion the inputs can drive need not be cheap, reliable or sustainable: permitted directions, actuated directions and transitions achievable at acceptable cost are three objects, the second contained in the first at each instant, while over a horizon what is reachable can exceed what either spans at an instant'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -17,6 +17,13 @@ history:
     witness that reach over a horizon exceeds the instant, was promoted
     at the same review. CLAIM-345 and CLAIM-542 are Active; the scalar
     witness was re-checked with python3 -I.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §2.1 and
+    §5.2 state its separation of reachable, affordable, reliable and
+    sustainable. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -61,6 +68,8 @@ summary: >-
   actuation spaces that whether a freedom can be driven by linear
   actuators depends on stiffness. The wording is A's; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-194 — Proposed; an entry of 2026-11-05 from the same paste, the shared-actuator case and the readings' accounts, cited as filed, nothing here rests on their being settled -->
 

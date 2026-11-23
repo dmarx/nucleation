@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp55mls
 title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-18'
@@ -40,6 +40,13 @@ history:
     recognized set cannot improve conjunctive compliance or lower the count
     of recognized violations, not that every score against the recognized
     set can only fall. No status change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §2.1 uses
+    it as a step: the compatibility complex, relief as enlargement. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -87,6 +94,8 @@ summary: >-
   demands, so a reorganization that deletes a demand is not compared at
   all, and two reorganizations can be incomparable. It is the move
   [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: TERM-122 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed -->
 <!-- inactive-ok-file: NOTE-1793 — Skimmed; the reading filed from the same exchange -->

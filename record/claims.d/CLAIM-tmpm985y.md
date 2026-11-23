@@ -8,7 +8,15 @@ title: 'Identity stabilization and adaptability are different achievements
   continuity by which it revises its configurations, and some of its most
   important identity-bearing structures may be those that keep its other identity-bearing
   structures revisable'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §3, §5
+    and §15 state it, the last sentence of §15 nearly word for word. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: An organization in which every relation that keeps its other
@@ -40,6 +48,8 @@ summary: A44's carried formulation in the exchange "Explain First Contact
   A38 ([CLAIM-tmph25dl](CLAIM-tmph25dl.md)) and revised at A40 ([CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md)). The wording is
   A's (ChatGPT, in the exchange of 2026-11-22); adopting it is the owner's
   call.
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-327 CLAIM-478 CLAIM-758 CLAIM-916 CLAIM-tmph25dl TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-23 (third share) -->

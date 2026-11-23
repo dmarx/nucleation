@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmp69o4u
 status: Proposed
 title: "An institution can be reliably responsive to reasons within its governing mechanism and unresponsive to justified reasons for revising that mechanism, and because its own actions change the mechanism, responsiveness at the first order is no evidence of responsiveness at the second; identical decisions can come from different capacities to be governed by reasons"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -13,6 +13,13 @@ history:
     measure of second-order responsiveness, the lead filer's; no reading
     supports that completion is a known weak spot. No change of status
     or title.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §4.1 uses
+    its distinction between recognized problems and revising the
+    categories. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -43,6 +50,8 @@ summary: >-
   capacities. The definitions are asserted, not derived, and ρ^(2) is
   named without being defined. The wording is A's; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: TERM-128 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 <!-- inactive-ok-file: CASE-226 CASE-229 CLAIM-624 CLAIM-685 — Proposed; the record's nearest entries, cited with their standing -->

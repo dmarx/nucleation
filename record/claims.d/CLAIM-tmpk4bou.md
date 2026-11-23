@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'A regulation that only adds hard constraints to a fixed dynamical model can only shrink the compatibility complex of the public demands, so it cannot relieve their frustration; a regulation relieves frustration among the original demands only by changing the dynamics, through the technologies, infrastructure or access it brings about'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -10,6 +10,12 @@ history:
     these rulings), under ADR-057: every premise Active (CLAIM-582,
     CLAIM-347, CLAIM-361), no objection, derivation re-checked by brute
     force (20,000 random instances, no violation).
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §2 states
+    it: relief only by changing the dynamics. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -44,6 +50,8 @@ summary: >-
   enlargement of the complex for the same demands, follows from it. The
   idea is A's; the derivation and wording are the assistant's (Claude, in
   this session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-tmpk4bou: A regulation that only adds hard constraints to a fixed dynamical model can only shrink the compatibility complex of the public demands, so it cannot relieve their frustration; a regulation relieves frustration among the original demands only by changing the dynamics, through the technologies, infrastructure or access it brings about

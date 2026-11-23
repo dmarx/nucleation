@@ -8,7 +8,15 @@ title: 'The governance of an adaptive organization is partly the governance
   those relations, including their persistence and coupling, and an appropriate
   architecture preserves the capacity to reshape that spectrum without losing
   the conditions for viable organization'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §1 and
+    §15 state it: the spectrum and the capacity to transform it as objects
+    of governance. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: An organization that meets every declared demand across timescales
@@ -37,6 +45,8 @@ summary: A42's retained thesis in the exchange "Explain First Contact RL"
   times" and asked A to "double-click" on it. The owner quoted this thesis
   back at U23 with others. Quoting is not endorsing. The wording is A's (ChatGPT,
   in the exchange of 2026-11-22); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-711 CLAIM-758 CLAIM-tmpbzwmr TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-23 (third share) -->
@@ -82,3 +92,13 @@ no call to reshape the spectrum, and the claim's last clause is idle.
 What the claim adds is that the demand distribution moves, so the
 spectrum must be retunable, and that capacity is a further object of
 governance.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+Restatement. The central formulation of the owner's manuscript (ADR-
+tmpsfjxu, A48 §15), "adaptive governance as the maintained viability of a
+demand-appropriate temporal response repertoire", restates this claim with
+CLAIM-tmpcag0t, CLAIM-tmpbzwmr and TERM-tmpz28l1's second-order kernel,
+adding only "justified" demands. Audited (ADR-075): no separating case,
+derivation or discriminating prediction was found beyond them, and
+"appropriate" is a free parameter, so it is a recap and no claim is filed.

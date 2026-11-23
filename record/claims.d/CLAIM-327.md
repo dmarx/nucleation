@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp11auq
 title: 'A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective''s dynamics and not only an observer''s average when its members read it, condition what they do on it, and by doing so regenerate it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-04'
@@ -12,6 +12,13 @@ history:
     Vocabulary only, under ADR-070: "endorse" in TERM-053's sense now
     reads conferral (TERM-103) or grant (TERM-101). The
     content is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §3.2
+    states its criterion, a slow variable constitutive when members read
+    and regenerate it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +51,8 @@ summary: >-
   the temporal regularity of grants that then steers grants. It
   does not say that such a variable individuates one collective: five
   slow variables sharing a referent may be five processes.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-tmpd9neo — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->

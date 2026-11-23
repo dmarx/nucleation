@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4rtpa
 title: 'The resource-indexed compatibility filtration and the resource-indexed reachability filtration of one architecture both grow with the budget and neither determines the other: a budget can make a transition between configurations already feasible affordable while adding no jointly satisfiable set of demands, and a configuration can be feasible at a budget at which it is unreachable from the start'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -20,6 +20,13 @@ history:
     "neither determines the other" the body had left implicit. The
     persistence paragraph now adds each configuration as reaching itself
     before reading R(b) as a partition.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §2.1 and
+    §9 use its separation of feasible from reachable at a budget. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -64,6 +71,8 @@ summary: >-
   complex does not change. The second half is already in CLAIM-571;
   what is new is the pairing. The wording is A's; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: ARG-093 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: THEORY-1420 — Proposed; A's proposals of 2026-11-04 and 2026-11-05, the readings' accounts and partial readings, and the entries filed beside them, cited as filed, nothing here resting on their being settled -->

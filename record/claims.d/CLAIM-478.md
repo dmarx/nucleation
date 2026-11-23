@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpmx2ql
 title: 'Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-11-11'
@@ -43,6 +43,13 @@ history:
     section says what the new wording changes. The claim is in the work
     cost-structure-of-possibility, whose §2.2 states the old wording; the
     manuscript is the owner's to revise. Version 4's title: "Scale separation helps make structure and not only marks it: where some degrees of freedom settle fast relative to others, the relation they settle into is a constraint on the system over the window between the two time scales, so what is a realization at one scale works as a constraint at another; and organization can make new separations in turn, as when modes slow near an instability and become order parameters, so time-scale hierarchies and constraints can produce one another".
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §3.1
+    states its proposition, that fast settling makes a slow constraint. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,6 +74,7 @@ line:
 - distributed-agency
 - realizability
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
 rests_on:
 - CLAIM-477

@@ -1,0 +1,70 @@
+---
+status: Proposed
+title: Under a budget set each period to the last period's peak use, a redesigned
+  transition is lost like the original unless its threshold is at most the cost
+  of holding the present configuration, so redesign lowers the reserve a transition
+  needs by the fall in its threshold and replaces the reserve only where it leaves
+  no reconfiguration slack
+version: 1
+role: counter
+warrant: demonstrated
+defeated_if: An error in the derivation or in scratch/formal/redesign_reserve_check.py;
+  or a budget rule of the peak type under which a transition whose threshold exceeds
+  the holding cost is kept, or one at or below it lost.
+tags:
+- operations-research
+- mathematics
+- society-and-governance
+date: '2026-11-23'
+line:
+- readiness
+- realizability
+rests_on:
+- CLAIM-577
+- CLAIM-679
+- CLAIM-571
+objects_to:
+- CLAIM-tmpf71gk
+summary: 'A gap fill on the manuscript governance-of-possibility (A48 §9.3–9.4):
+  its table gives the redesigned regime an "accessible transition capacity" of 2,
+  a reserve of one unit above the holding cost that the text never states, and under
+  its own §9.1 rule that capacity is gone after one period. Checked by scratch/formal/redesign_reserve_check.py.
+  The wording is the assistant''s (Claude, in this session); adopting it is the
+  owner''s call.'
+---
+
+<!-- inactive-ok-file: CLAIM-tmpf71gk — Proposed; the claim this objects to -->
+
+# CLAIM-tmpg8yl2: Under a budget set each period to the last period's peak use, a redesigned transition is lost like the original unless its threshold is at most the cost of holding the present configuration, so redesign lowers the reserve a transition needs by the fall in its threshold and replaces the reserve only where it leaves no reconfiguration slack
+
+## The derivation
+
+Take §9.1's rule: the next period's budget is the last period's peak use
+(CLAIM-577). Holding A uses r(A) = 1, so after one holding period the
+budget is 1. A transition is affordable when the budget is at least its
+threshold, the least peak over its paths (CLAIM-571). So after a holding
+period a transition is kept exactly when its threshold is at most r(A).
+
+A48's redesigned path has threshold 2 > 1, so under the rule it is lost
+after one period, as the original (threshold 3) is. The table's
+"accessible transition capacity 2" for Regime III is a budget held at 2:
+a reserve of 2 − r(A) = 1. Redesign therefore lowers the reserve a
+transition needs from θ − r(A) to θ′ − r(A), and replaces the reserve
+only when θ′ ≤ r(A), that is, when the transition needs no more than
+holding does, which is CLAIM-679's zero-slack limit. Otherwise reserve and
+redesign are complements, not alternatives.
+
+The script `scratch/formal/redesign_reserve_check.py` runs the four
+regimes (I, II, III under the rule, III with a reserve of 2) and asserts
+the kept-exactly-when condition for thresholds 1, 2 and 3.
+
+## What it does not say
+
+- Not that redesign is worthless: it halves the reserve in A48's numbers.
+- Not that the rule is the only one: a redesign that raises ordinary use,
+  a drill each period at the transition's peak, keeps the route funded by
+  the rule itself, which is a third mechanism.
+
+## Gap filled
+
+A48 §9.3–9.4: the unstated reserve in Regime III's row of the table.

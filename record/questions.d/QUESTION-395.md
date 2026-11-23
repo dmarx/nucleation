@@ -74,3 +74,11 @@ two departments of [CASE-210](../cases.d/CASE-210.md).
 ## Note of 2026-11-20: the part split off
 
 Records kept of each capacity are settled by [QUESTION-498](QUESTION-498.md): they fix the marginals, which bound readiness and identify it only when the capacities' dependence is known ([CLAIM-632](../claims.d/CLAIM-632.md)). What stays open here is which of the other kinds of evidence listed above, alone or together, identify readiness for a specified rare contingency, and how that is weighed against the capability's cost and its alternatives.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+Parallel, left open. A48 §9.2 and §9.4 of the owner's manuscript (ADR-
+tmpsfjxu) pose this question, "we should not simply maximize reserve
+capacity", without a criterion. The missing parameter is the contingency's
+probability times its loss against the reserve's cost per period; LEAD-
+tmpnblsf would sweep it.

@@ -7,7 +7,15 @@ title: 'Identity stabilization and adaptability are not two ends of one scale:
   and on how fast it can be revised, and adaptive governance maintains a hierarchy
   of revisable constraints whose response times suit their demands, conserving
   selectively what enables later transformation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §5, §6
+    and §15 state it: not one scale, adequacy relative to the demands. No
+    other change.
 role: thesis
 warrant: interpretive
 defeated_if: An organization in which every identity-conserving constraint
@@ -37,6 +45,8 @@ summary: 'A38 of the exchange "Explain First Contact RL" (ChatGPT, second
   cost of familiar operation and may raise the cost of unfamiliar reorganization.
   The wording is A''s (ChatGPT, in the exchange of 2026-11-22); adopting it
   is the owner''s call.'
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-423 CLAIM-478 CLAIM-758 TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-22 (second share) -->
