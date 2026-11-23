@@ -149,10 +149,28 @@ def run_strip():
             print(key, flush=True)
 
 
+def run_strip_ext():
+    """Wider strips for the one-row quantity: W = 10 to T = 7, W = 12 to T = 5."""
+    path = os.path.join(RES, "strip.jsonl")
+    have = done_keys(path)
+    for tname, tr in TEMPS.items():
+        K = K_C / tr
+        for W, Tmax in ((10, 7), (12, 5)):
+            key = "rowx_%s_W%d" % (tname, W)
+            if key in have:
+                continue
+            I = row_ipred(W, K, Tmax)
+            append(path, {"key": key, "T_over_Tc": tr, "W": W,
+                          "T": list(range(1, Tmax + 1)), "I_bits": I.tolist()})
+            print(key, flush=True)
+
+
 if __name__ == "__main__":
     what = sys.argv[1] if len(sys.argv) > 1 else "all"
     if what in ("strip", "all"):
         run_strip()
+    if what in ("stripx", "all"):
+        run_strip_ext()
     if what in ("mc", "all"):
         run_mc()
     if what in ("burn", "all"):
