@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpn78rt
 title: 'When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and when several later collectives each continue it in a different respect, which successor relation, if any, is its persistence?'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-23'
@@ -37,6 +37,11 @@ history:
   note: >-
     Note of 2026-11-22 added: a computed candidate for what must stay
     causally continuous, from CASE-320. The question is unchanged.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added: open-source successions coded by the lead run
+    of that date. The question is unchanged.
 tags:
 - individuation
 - social-ontology
@@ -288,3 +293,16 @@ collaborators while withdrawing the record. That is this question for one
 replacement at a time, with the record as a candidate for what must stay
 causally continuous ([CLAIM-tmpqr0tn](../claims.d/CLAIM-tmpqr0tn.md), Proposed). The design is
 [LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md). The question is unchanged.
+
+## Note of 2026-11-23: open-source successions, coded
+
+<!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmpc47v8 CLAIM-tmppui4z CLAIM-tmpqpfvh CLAIM-tmp79lxm — new, Proposed; the run and the claims filed from it -->
+CASE-tmpntt8e coded eight contested open-source successions. The
+community's recognition followed the maintainers, not the name, where the
+maintainers moved wholesale, and split where part of them moved
+(CLAIM-tmpqpfvh); an original line kept producing while its steward paid
+its producers (CLAIM-tmp79lxm). That is which successor participants treat
+as continuing the project, not which, if any, is its persistence. The
+public records could not time participants' verdicts apart from their
+moves (CLAIM-tmpc47v8, with its alternative CLAIM-tmppui4z). The question
+is unchanged and stays Open.

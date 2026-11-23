@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -58,6 +58,11 @@ history:
     narrative and place, not a continuation; and the limit to a
     carrier's persistence, from the note of 2026-10-22, is now stated
     under "What it does not say". The title is unchanged.
+- version: 8
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added: open-source successions coded by the lead run
+    of that date; recognition followed the producers. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -332,3 +337,15 @@ Promoted by the status review of this date. The note of 2026-10-30 named three t
 - **A carrier's persistence.** Now stated under "What it does not say".
 
 [CASE-223](../cases.d/CASE-223.md), revised on 2026-11-07, adds A55's dated facts on Freenode and Libera, still unverified, so the claim takes nothing from it.
+
+## Note of 2026-11-23: the criterion as participants applied it, in open-source successions
+
+<!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmpqpfvh — new, Proposed; the run and the claim it supports -->
+CASE-tmpntt8e coded eight contested open-source successions. Where the
+creator or the body of core maintainers moved (Hudson to Jenkins, freenode
+to Libera Chat), the community's recognition went with them against the
+name; where part moved, it split (CLAIM-tmpqpfvh, which corroborates this
+claim). A participant states the criterion outright: SourceHut moved to
+Libera Chat because "the staff — have left for Libera Chat", and it was
+"proud to be following them". This is evidence of how participants judge
+persistence, not of what persistence is.
