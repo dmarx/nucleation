@@ -2,7 +2,7 @@
 number: 131
 status: Proposed
 formerly:
-- TERM-131
+- TERM-tmp1ix99
 title: 'learning, of a declared system over a declared horizon: an experience-dependent change in the system''s retained organization that alters what it can later do, at what cost and with what reliability, judged against a counterfactual in which the experience did not occur; distinct from successful learning, which is relative to a declared criterion, and from relaxation, selection among systems and a fixed controller''s response'
 version: 2
 history:

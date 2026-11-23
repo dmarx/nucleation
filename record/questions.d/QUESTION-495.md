@@ -2,7 +2,7 @@
 number: 495
 status: Open
 formerly:
-- QUESTION-495
+- QUESTION-tmpwqepn
 title: 'What would make a learning process optimal, when some of the most valuable consequences of learning are changes in what the learner can later learn, ask and afford, which cannot be specified in advance; and when is investing in future learnability better than improving present competence?'
 version: 1
 tags:

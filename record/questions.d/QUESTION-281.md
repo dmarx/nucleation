@@ -2,7 +2,7 @@
 number: 281
 status: Open
 formerly:
-- QUESTION-281
+- QUESTION-tmpl1yih
 title: 'By which dynamical transitions do the distinctions individuation needs come into being and pass away (instability that amplifies small differences, nucleation across a finite barrier from a locally stable state, bifurcation of the set of attractors, noise- or rate-induced tipping), and are a form''s creation, its stabilization and its coming to have a constitutive role three separate achievements?'
 version: 2
 history:

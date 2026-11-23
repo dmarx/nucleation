@@ -2,7 +2,6 @@
 number: 369
 status: Proposed
 formerly:
-- CASE-369
 - CASE-tmprh6pl
 title: 'An executed enumeration shows the self-consistent factorizations of a fixed coupling matrix are single-linkage dendrogram cuts, hence a nested chain: over 12000 random families no two crosscut, exact symmetry does not force a tie, and grain is the only multiplicity'
 version: 1

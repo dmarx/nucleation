@@ -2,7 +2,7 @@
 number: 405
 status: Active
 formerly:
-- CLAIM-405
+- CLAIM-tmpoxkub
 title: 'An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it'
 version: 2
 history:

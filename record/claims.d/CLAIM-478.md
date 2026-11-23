@@ -2,7 +2,7 @@
 number: 478
 status: Proposed
 formerly:
-- CLAIM-478
+- CLAIM-tmpmx2ql
 title: 'Rate differences help make structure and not only mark it: where some degrees of freedom settle faster than others by more than the rates vary among them, the relation they settle into is a constraint on the system over the window between the two rates, so what is a realization at one rate works as a constraint at another; and organization can make new rate differences in turn, as when modes slow near an instability and become order parameters, so hierarchies of rates and constraints can produce one another'
 version: 5
 history:

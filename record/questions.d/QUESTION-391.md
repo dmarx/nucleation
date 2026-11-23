@@ -2,7 +2,7 @@
 number: 391
 status: Open
 formerly:
-- QUESTION-391
+- QUESTION-tmpt2p0s
 title: 'When does an effective constraint cease to be a good approximation because previously suppressed degrees of freedom become dynamically important?'
 version: 1
 tags:

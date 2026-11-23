@@ -2,7 +2,7 @@
 number: 834
 status: Proposed
 formerly:
-- THEORY-834
+- THEORY-tmp3d6fm
 promote_when: >-
   Evidence that position predicts detection: a study, historical or
   contemporary, of who first reported omissions or distortions in a

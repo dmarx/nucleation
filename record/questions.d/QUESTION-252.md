@@ -2,7 +2,7 @@
 number: 252
 status: Open
 formerly:
-- QUESTION-252
+- QUESTION-tmp1nqby
 title: 'For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, and which such configurations are impossible in which model classes?'
 version: 6
 history:

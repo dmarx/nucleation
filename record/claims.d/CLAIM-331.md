@@ -2,7 +2,7 @@
 number: 331
 status: Active
 formerly:
-- CLAIM-331
+- CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
 version: 10
 history:

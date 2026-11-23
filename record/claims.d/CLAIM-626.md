@@ -2,7 +2,7 @@
 number: 626
 status: Proposed
 formerly:
-- CLAIM-626
+- CLAIM-tmpwp3ru
 title: 'Critical slowing has no single organizational meaning: when a collective mode slows, reduction to it improves; when the mode that restores a collective relation slows, as two detuned phase oscillators near the edge of locking, the reduction fails while the locked state still exists; when the maintenance of the coupling slows, the reduction stays good while the organization nears its fold'
 version: 1
 role: thesis
