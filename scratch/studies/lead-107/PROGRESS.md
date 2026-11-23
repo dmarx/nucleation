@@ -19,8 +19,20 @@ restatement-distance measurement or a before/after re-derivation count. Nearest
 held work: CASE-306 (LEAD-079, re-derivations in one exchange, no coded/uncoded
 split) and CASE-372 (LEAD-122, filing census by contributor).
 
+## Choices made
+
+- Unit: a sentence of a reconstruction carrying a restatement cue; items are
+  the codes it names; coded = code dated strictly before the exchange start.
+- Distance only where the restatement is quoted; the original is the code's
+  current title (and title + summary).
+- Rules v1 fixed before the comparisons; v2 repairs four false positives
+  found after the first run (CODEBOOK.md, Deviation). Both kept.
+- The coder audited its own rules on 60 sampled events (AUDIT.md); no second coder.
+
 ## Done
+
+- Codebook, script, tests (10 pass), results v1 and v2, audit, README.
 
 ## Next
 
-- Survey the reconstructions; write coding rules; script; tests; run.
+- File the CASE, the CLAIMs (alternatives), dated notes, changelog fragment.

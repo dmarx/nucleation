@@ -93,3 +93,19 @@ worker, who knew the hypothesis and read grep hits before writing these
 rules. The rules are mechanical, so a rerun gives the same codes, but the cue
 lists were chosen by a coder who knew what they were for. A second, human
 coder is a separate lead.
+
+## Deviation: rules v2 (written after the first run, 2026-11-23)
+
+The first run (rules v1, `results_v1.json`) coded five sentences
+`retrieved`. Reading them showed four false positives, so four repairs were
+made after seeing the output. Both runs are kept; v2 is reported as primary
+only for the `retrieved` and `conflict` counts, and the v1 figures are given
+beside it.
+
+1. A sentence about the replies' `recurring strength` or `recurring weakness`
+   is not an event (it describes the replies' quality, not an item).
+2. `no`, `none` and `nothing` join the negators before `cite*`
+   ("for which no work was cited").
+3. A RETRIEVED cue counts only in a sentence that names a code or a turn
+   label ("of the 133 codes cited" is a count, not a retrieval).
+4. `again` after a status word (`Proposed again`) is not a RECURRENCE cue.
