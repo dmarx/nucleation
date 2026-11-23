@@ -42,14 +42,23 @@ counterexample. QUESTION-495's notes hold readings only.
 - Constructions live in claim bodies, numbers guarded by pytest here; no CASE
   filed (the brief asks for CLAIMs and an ARG).
 
+- CLAIM-754 is related by `complements`, not `objects_to`, though the run
+  qualifies its last clause; whether it should be an objection is left to
+  the owner.
+
 ## Done
 
-- constructions.py, test_constructions.py (21 pass), README.md.
+- constructions.py, test_constructions.py (22 pass), README.md.
+- CLAIM-tmpy87xn: the four conditions; endogenous tasks harmless.
+- CLAIM-tmp6ppvo: valuation changed by learning; symmetric two-self and
+  three-self constructions; ex ante / ex post / self-ratification dilemma.
+- CLAIM-tmpl9022: learnability outgrowing the discount; no optimal policy.
+- ARG-tmpi8mhy: existence, the conditions are independent.
+- Dated notes on LEAD-011, QUESTION-495, CLAIM-754.
+- Changelog fragment record/changelog.d/lead-011.md.
 
 ## Next
 
-- CLAIMs: existence conditions + endogeneity harmless (thesis); valuation
-  change dilemma (thesis); growth outpacing discount (thesis).
-- ARG by existence for the counterexamples.
-- Dated notes on LEAD-011, QUESTION-495, CLAIM-754.
-- Changelog fragment.
+- Nothing for this run. Remaining for the record: which evaluator to adopt
+  when valuation changes (owner's); a construction for an undeclared task
+  law (condition 1); a worked case on a real learner.
