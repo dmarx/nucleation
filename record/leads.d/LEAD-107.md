@@ -46,7 +46,7 @@ Less re-derivation after coding supports [CLAIM-182](../claims.d/CLAIM-182.md) a
 
 ## Note of 2026-11-23: run, and what remains
 
-The lead was run on 2026-11-23, and CASE-tmp4niuz records the study. A
+The lead was run on 2026-11-23, and [CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md) records the study. A
 script coded, by fixed rules, every restatement event that 48
 reconstructions of exchanges report. The materials are in
 `scratch/studies/lead-107/`.
@@ -54,17 +54,17 @@ reconstructions of exchanges report. The materials are in
 - **Coded against uncoded.** The comparison is degenerate. Of 265 events,
   76 are re-derived as new and one is retrieved by citation. The
   reconstructions record a restatement almost only when it fails
-  (CLAIM-tmp9w3p9).
+  ([CLAIM-tmp9w3p9](../claims.d/CLAIM-tmp9w3p9.md)).
 - **Before and after a code.** Of 21 items re-derived before they had
   codes, four were re-derived again after. None is reported cited.
 - **Distance.** The test could not be run. Only 16 events quote the
   restatement beside one code, three re-derived and none retrieved.
-- **Direction.** CLAIM-191's direction was not rated.
+- **Direction.** [CLAIM-191](../claims.d/CLAIM-191.md)'s direction was not rated.
 
 The counts show content held under codes re-derived without them in 20
 of the 48 reconstructions. Two readings of that are filed as
-alternatives. CLAIM-tmpc5mmp objects to CLAIM-180's bypass clause.
-CLAIM-tmp49ilj reads the counts as failures to find the code, a question
+alternatives. [CLAIM-tmpc5mmp](../claims.d/CLAIM-tmpc5mmp.md) objects to [CLAIM-180](../claims.d/CLAIM-180.md)'s bypass clause.
+[CLAIM-tmp49ilj](../claims.d/CLAIM-tmp49ilj.md) reads the counts as failures to find the code, a question
 of discoverability; the lead worker leans to this one. There was one
 coder, working by rule, and no agreement measure.
 
@@ -73,6 +73,6 @@ What remains is for a separate lead and the owner:
 - a verbatim transcript coded for every restatement, recognised or not,
   each paired with its earlier statement;
 - a human second coder;
-- a blind direction rating for CLAIM-191.
+- a blind direction rating for [CLAIM-191](../claims.d/CLAIM-191.md).
 
 The status and stage of this lead are unchanged.

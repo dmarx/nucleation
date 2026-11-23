@@ -181,13 +181,13 @@ Audited at the synthesis review of 2026-11-21 ([ADR-075](../decisions.d/ADR-075.
 
 The same audit found [CLAIM-002](CLAIM-002.md) misstated. The body says a code "supplies continuity of transmission" and that re-derivation is "identity by similarity alone". In [CLAIM-002](CLAIM-002.md), continuity of transmission ([TERM-084](../terms.d/TERM-084.md)'s second sense, lineage) is what a telephone chain already has: each session reconstructs "from what reaches it", so it descends from the earlier ones. What a code adds is that a later reader can reach and check the original instead of the last retelling. That is [CLAIM-182](CLAIM-182.md)'s addressability, not [CLAIM-002](CLAIM-002.md)'s relation. The title's "a code restores continuity of transmission" should be read as addressability. Two free parameters are also noted: "the collaborators' own framings" (the title includes the owner, the defeater names only the assistant) and "weak channel" (unquantified). No change of status.
 
-## Note of 2026-11-23: LEAD-107 rated no direction
+## Note of 2026-11-23: [LEAD-107](../leads.d/LEAD-107.md) rated no direction
 
-CASE-tmp4niuz, run for LEAD-107, coded the restatement events that the
+[CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md), run for [LEAD-107](../leads.d/LEAD-107.md), coded the restatement events that the
 reconstructions report. It rated no direction of drift. A reconstruction
 paraphrases a restatement in its reader's words, so it cannot support a
 blind direction rating. The defeater's second half asks whether uncoded
 items, once restated, keep their identity as well as coded ones. That
 half is not testable from the reconstructions either: they report a
-restatement almost only when it fails (CLAIM-tmp9w3p9). The blind rating
+restatement almost only when it fails ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)). The blind rating
 still needs verbatim transcripts. No change of status or title.

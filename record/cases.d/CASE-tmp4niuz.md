@@ -22,7 +22,7 @@ bears_on:
 - QUESTION-038
 
 summary: >-
-  Run for LEAD-107. A rule-based coding of the 265 restatement events that
+  Run for [LEAD-107](../leads.d/LEAD-107.md). A rule-based coding of the 265 restatement events that
   48 reconstructions of exchanges report. Re-derived as new: 76. Retrieved
   by citation: 1. Coded content was re-derived in 20 reconstructions. Too
   few quotations pair a restatement with its original to measure distance.
@@ -39,8 +39,8 @@ summary: >-
 
 ## What was done
 
-LEAD-107 asks for three measurements in the record's reconstructed
-exchanges. CLAIM-180 and CLAIM-182 name them. The first is a restatement's
+[LEAD-107](../leads.d/LEAD-107.md) asks for three measurements in the record's reconstructed
+exchanges. [CLAIM-180](../claims.d/CLAIM-180.md) and [CLAIM-182](../claims.d/CLAIM-182.md) name them. The first is a restatement's
 distance from its original, set against whether it was re-derived as
 though new. The second is a count of re-derivation of coded items against
 uncoded ones. The third is re-derivation of the same content before and
@@ -100,8 +100,8 @@ The counts per (reconstruction, item) unit:
 - Coded content was re-derived as new in 20 of the 48 reconstructions.
 - 21 items were re-derived before they had a code. 12 of them had nine or
   more later reconstructions in which they could recur. Four are reported
-  re-derived again after their code existed: TERM-072, CLAIM-414,
-  QUESTION-271 and CASE-156. None is reported cited.
+  re-derived again after their code existed: [TERM-072](../terms.d/TERM-072.md), [CLAIM-414](../claims.d/CLAIM-414.md),
+  [QUESTION-271](../questions.d/QUESTION-271.md) and [CASE-156](CASE-156.md). None is reported cited.
 - 16 events quote the restatement and name one code. Three are re-derived
   as new and none is retrieved.
 
@@ -112,8 +112,8 @@ dropping the two undated reconstructions, changes none of these patterns.
 
 **The reconstructions are a log of failures.** They report restatements
 almost only when the restatement failed. Of all the events, only one names
-a coded item restated *with* its code: "CLAIM-122 (re-derived again, this
-time cited)" (workbench 2026/10/21/025602). Another, CLAIM-287, was cited
+a coded item restated *with* its code: "[CLAIM-122](../claims.d/CLAIM-122.md) (re-derived again, this
+time cited)" (workbench 2026/10/21/025602). Another, [CLAIM-287](../claims.d/CLAIM-287.md), was cited
 where other entries held the point. The audit drew 60 events at random,
 and none of them was a successful retrieval. So the reconstructions cannot
 supply the denominators the lead asks for: how often a coded or uncoded
@@ -127,8 +127,8 @@ cited correctly or may never have come up.
 in the exchanges.** Content the record held under codes was re-derived
 without them, in 159 units across 20 reconstructions. In at least some of
 these exchanges the replies read and cited the record: workbench
-2026/10/22/103820 counts 133 codes cited. CLAIM-tmpc5mmp and
-CLAIM-tmp49ilj file two readings of that finding. CLAIM-tmp9w3p9 files the
+2026/10/22/103820 counts 133 codes cited. [CLAIM-tmpc5mmp](../claims.d/CLAIM-tmpc5mmp.md) and
+[CLAIM-tmp49ilj](../claims.d/CLAIM-tmp49ilj.md) file two readings of that finding. [CLAIM-tmp9w3p9](../claims.d/CLAIM-tmp9w3p9.md) files the
 methodological finding.
 
 ## What it cannot show
@@ -147,11 +147,11 @@ methodological finding.
   reports what its reader judged worth reporting, in that reader's words.
   Its quotations are sometimes of the original rather than the
   restatement.
-- **No direction.** CLAIM-191's defeater asks blind raters which way
+- **No direction.** [CLAIM-191](../claims.d/CLAIM-191.md)'s defeater asks blind raters which way
   re-derivations drift. This study codes no direction. A reconstruction
   paraphrases a restatement in its own reader's words, so it could not
   support a direction coding.
-- **Same owner, one assistant family.** As in CASE-306 and CASE-372, all
+- **Same owner, one assistant family.** As in [CASE-306](CASE-306.md) and [CASE-372](CASE-372.md), all
   the exchanges have one owner and one assistant family. The counts are
   exact properties of the record's files on 2026-11-23, not rates in
   exchanges.
@@ -160,7 +160,7 @@ methodological finding.
 
 The test needs a verbatim transcript coded for every restatement,
 successful or not, with each paired to its earlier statement. Such
-transcripts are not in the record. LEAD-079's coding of one exchange
-(CASE-306) lists the re-derivations with quotations, but not the
+transcripts are not in the record. [LEAD-079](../leads.d/LEAD-079.md)'s coding of one exchange
+([CASE-306](CASE-306.md)) lists the re-derivations with quotations, but not the
 restatements that were recognised, so it supplies the failures without
 the denominator.

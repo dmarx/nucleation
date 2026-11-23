@@ -132,16 +132,16 @@ evidence about records. The before-and-after count is still not made.
 
 ## Note of 2026-11-23: a before-and-after count, censored
 
-CASE-tmp4niuz attempts the count this claim waits on. In the
+[CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md) attempts the count this claim waits on. In the
 reconstructions, 21 items were re-derived before they had codes. Four of
-them were re-derived again after their codes existed: TERM-072,
-CLAIM-414, QUESTION-271 and CASE-156. None is reported cited.
+them were re-derived again after their codes existed: [TERM-072](../terms.d/TERM-072.md),
+[CLAIM-414](CLAIM-414.md), [QUESTION-271](../questions.d/QUESTION-271.md) and [CASE-156](../cases.d/CASE-156.md). None is reported cited.
 
 The count is censored. The reconstructions report a restatement almost
-only when it fails (CLAIM-tmp9w3p9), so silence about an item after its
+only when it fails ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)), so silence about an item after its
 code may mean either that it was cited or that it did not come up.
 Content held under codes was re-derived without them in 20 of the 48
-reconstructions. CLAIM-tmp49ilj reads that as a failure to discover the
+reconstructions. [CLAIM-tmp49ilj](CLAIM-tmp49ilj.md) reads that as a failure to discover the
 code, which this claim's "Stable identity and discoverability may matter
 too" allows. It reads the count as silent on the thesis itself. The
 before-and-after comparison the thesis needs still wants a transcript

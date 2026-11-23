@@ -222,17 +222,17 @@ distance itself, which this claim's own test still awaits.
 
 ## Note of 2026-11-23: the reconstructions cannot run this claim's test
 
-CASE-tmp4niuz coded, by rule, every restatement event that the 48
+[CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md) coded, by rule, every restatement event that the 48
 reconstructions of exchanges report. The test this claim proposes cannot
-be read from them (CLAIM-tmp9w3p9). They report a restatement almost
+be read from them ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)). They report a restatement almost
 only when it fails: 76 re-derived as new against one retrieved by
 citation. Only 16 events quote the restatement beside its code, none of
 them a retrieval. So neither half of the defeater is met or tested here.
 
 What the counts do show is content held under codes re-derived without
 them in 20 of the 48 reconstructions. Two readings are filed as
-alternatives. CLAIM-tmpc5mmp objects to the clause "a code bypasses
+alternatives. [CLAIM-tmpc5mmp](CLAIM-tmpc5mmp.md) objects to the clause "a code bypasses
 retrieval by content altogether": the collaborator reaches the code by
-content. CLAIM-tmp49ilj reads the same counts as failures to find the
+content. [CLAIM-tmp49ilj](CLAIM-tmp49ilj.md) reads the same counts as failures to find the
 code, which "What it does not say" already allows. The lead worker leans
 to the second. No change of status or title.
