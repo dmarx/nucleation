@@ -51,3 +51,13 @@ and z) lets "Identity … persist through regulated transformation". The
 model does not show that larger v is better: it says nothing of what a
 fast-revisable reference costs against transient fluctuations, which is
 the other half of A38's tension.
+
+<!-- inactive-ok-file: CLAIM-tmp947v0 — Proposed; filed in this filing of 2026-11-23 (third share) -->
+
+## Note of 2026-11-23: the sufficient half
+
+A44 §4 of the third share gives a sufficient condition to set beside this
+necessary one. If operation relaxes at rate γ toward a governed
+configuration that changes at rate at most V, it stays within LV/γ of it.
+A change Δθ by deadline H keeps it within ε if LΔθ/(γH) ≤ ε. That is
+CLAIM-tmp947v0, which complements this claim.

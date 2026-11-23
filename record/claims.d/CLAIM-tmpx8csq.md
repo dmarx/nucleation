@@ -71,3 +71,17 @@ CLAIM-626, whose maintenance mode is τ_reproduce slowing.
   detuned phase oscillators whose transverse rate √(4K² − Δω²) A40 §5
   gives. Checked: 2K cos(arcsin(Δω/2K)) = √(4K² − Δω²).
 - THEORY-1052 holds rate-induced tipping (A40 §7).
+
+<!-- inactive-ok-file: CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
+
+## Note of 2026-11-23: a third factor, and a fourth timescale
+
+In the third share of the exchange, A42 §1 writes the input–output
+response as G(s) = Σ_j (Cv_j)(w_jᵀB)/(s − λ_j). A mode's weight in
+governance is then its persistence (λ_j), its controllability (w_jᵀB)
+and its consequence for the demanded outcomes (Cv_j). This claim
+separates the first two. A42 adds the third: "Another mode may be slow but
+irrelevant to the specified outcome." A42 §4 also adds sensing, how soon
+a deviation becomes recognizable, to this claim's three timescales of
+relaxation, control and renewal. The claim that carries both is
+CLAIM-tmpcag0t.

@@ -77,3 +77,20 @@ in M indefinitely.
   arrangement is viable by its own standards (A36 says so). This is
   THEORY-134's requirement that the constraint set be fixed independently
   of the dynamics.
+
+<!-- inactive-ok-file: CLAIM-tmpm985y CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
+
+## Note of 2026-11-23: a second-order version
+
+A44 §5 of the third share extends this term from contingencies to
+changes of the demand specification itself. The state is (x, θ, c),
+with c the capacities that make revising θ feasible. M_D is the states
+whose actual policies meet the current demands D with declared
+reliability. T_{D→D′}^{B,H} is the states with an affordable, safe route
+to M_{D′} within H. Then M_adaptive = M_D ∩ ⋂_{D′∈𝔇} T_{D→D′}^{B,H}, and
+V_adaptive = Viab_{F_aug}(M_adaptive): "the viability kernel of the
+capacity to remain ready for current demands while retaining affordable
+routes to readiness under alternative demands." A42 §6 states the design
+problem that uses it: minimize operating, maintenance and
+reconfiguration costs subject to TERM-115 readiness and this kernel.
+CLAIM-tmpm985y and CLAIM-tmpcag0t cite both.

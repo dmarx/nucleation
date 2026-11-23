@@ -205,3 +205,18 @@ without slowing each decision, as CLAIM-711 says is possible. Relation: corrobor
 ## Note of 2026-11-22: Frischmann and Benesch, read
 
 Background, not evidence ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)). The content-neutral regulations Frischmann and Benesch sketch are standing rules set in advance, with triggers (a count of forwards, a border, social-graph distance) that delay what they catch and leave the rest alone (pp. 437–42): the shape this claim describes. They justify them by the deliberation they allow, not by interruptibility, and report no test. Relation: none. No status changes.
+
+<!-- inactive-ok-file: CLAIM-tmp947v0 CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
+
+## Note of 2026-11-23: the slow commitment applied fast
+
+A42 §3 and A44 §4 of the exchange "Explain First Contact RL" (third share,
+ChatGPT, 2026-11-22) both cite this claim. A42: "the rate of executing a
+decision can be separated from the rate of revising the rules that
+authorize it". A44: "Preauthorize fast actions that remain within the
+jurisdiction of the slower governing structure. ... The commitment is
+slow; its application is fast." Both are faithful to it. A44 adds the
+residual case, an emergency outside the preauthorized categories, which
+needs "an escalation or revision pathway rather than merely faster
+execution of obsolete rules". CLAIM-tmp947v0 and CLAIM-tmpcag0t cite this
+claim.
