@@ -223,7 +223,7 @@ The motivating draft's closing formula, "a historically continuous organization 
 | GD2 | A measure of accommodation not reducible to viability or correctability | LEAD-tmppp23a (Open, stage idea, the assistant's) |
 | GD3 | Identification of a capability apart from its holders | QUESTION-tmpw2rz2 (Open, the assistant's), refining QUESTION-tmpn9t5a |
 | GD6 | A case of a regulator responsive at the first order and unresponsive at the second | The assistant's note of 2026-11-23 on CLAIM-719 (Proposed): still no case |
-| GD7 | The analysis's novel-demand result is not on the record | Open: the study is to be filed as a CASE, in a later pull request (with GC1) |
+| GD7 | The analysis's novel-demand result is not on the record | Filed: CASE-tmp95f8e (Proposed) |
 | GD8 | Who places a protected anchor: the regulatory analogue of who specifies | LEAD-tmphisy8 (Open, stage idea, the assistant's), extending LEAD-tmpdzbyn |
 
 GD4 and GD5 stay open items for the owner, and are listed with the limits (§14).

@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: "Correcting a regulator and keeping a plurality correctable, in the record: legibility, authority, affordability and maintained capacity are separate achievements with separate remedies and no fixed order; harmony is proposed as viability, accommodation and correctability, where correctability is a constituent's access to consequential roles; answerability's normative, effective and maintained dimensions come apart from an arrangement's capacity to correct in time; an authority's own judgment that it met independent claims cannot always establish it; and what is conserved is proposed to be a capability rather than its occupant, while a protected anchor bounds correction by its own accuracy"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Integrates CASE-tmp95f8e, the manuscript model's novel-demand arm now
+    filed as an executed-study case (gap GD7), which holds JD4's instance.
+    JD4's verdict is unchanged. The cross-line audit is recounted.
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
   an in-force entry of the record that states part of this theme left out
@@ -49,6 +56,7 @@ integrates:
 - CLAIM-tmpw11e6
 - CLAIM-tmpklggb
 - CLAIM-342
+- CASE-tmp95f8e
 summary: >-
   A thematic account, across lines, of the joins the manuscript
   governance-of-possibility makes on correcting a regulator, answerability
@@ -65,7 +73,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: TERM-tmppvlfi CLAIM-362 TERM-126 CLAIM-tmp37le7 TERM-tmpm0s7g CLAIM-tmp31b3v TERM-tmpxwa7g CLAIM-746 CLAIM-705 CLAIM-tmpyakra CLAIM-tmpw11e6 CLAIM-tmp4h9rc CLAIM-739 SYNTHESIS-tmp4zamw SYNTHESIS-043 SYNTHESIS-103 SYNTHESIS-111 SYNTHESIS-tmp8j9h0 SYNTHESIS-tmpfxv00 — Proposed; components and neighbouring accounts, cited with their standing -->
+<!-- inactive-ok-file: CASE-tmp95f8e CASE-tmpo8bsc TERM-tmppvlfi CLAIM-362 TERM-126 CLAIM-tmp37le7 TERM-tmpm0s7g CLAIM-tmp31b3v TERM-tmpxwa7g CLAIM-746 CLAIM-705 CLAIM-tmpyakra CLAIM-tmpw11e6 CLAIM-tmp4h9rc CLAIM-739 SYNTHESIS-tmp4zamw SYNTHESIS-043 SYNTHESIS-103 SYNTHESIS-111 SYNTHESIS-tmp8j9h0 SYNTHESIS-tmpfxv00 — Proposed; components and neighbouring accounts, cited with their standing -->
 
 # SYNTHESIS-tmp3x39i: Correcting a regulator and keeping a plurality correctable, in the record: legibility, authority, affordability and maintained capacity are separate achievements with separate remedies and no fixed order; harmony is proposed as viability, accommodation and correctability, where correctability is a constituent's access to consequential roles; answerability's normative, effective and maintained dimensions come apart from an arrangement's capacity to correct in time; an authority's own judgment that it met independent claims cannot always establish it; and what is conserved is proposed to be a capability rather than its occupant, while a protected anchor bounds correction by its own accuracy
 
@@ -195,6 +203,13 @@ it, as that account's note of 2026-11-23 says.*
 - **The reference set.** [QUESTION-tmphovmg](../questions.d/QUESTION-tmphovmg.md) (Open; the assistant's, gap
   GC6) asks against which reference set an organization is scored for a
   demand that was never in its specification.
+- **The instance, held.** In the manuscript's model, an organization that
+  never enters a demand its specification does not name "scores zero
+  violations against the original specification and its own while the
+  harm runs for all 120 periods", and under the peak budget rule a review
+  that needs capacity can never start ([CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md), Proposed, executed
+  study; the assistant's). It illustrates [CLAIM-727](../claims.d/CLAIM-727.md) and [CLAIM-361](../claims.d/CLAIM-361.md), and its
+  choice to excise is an input where [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md)'s is learned.
 
 **Answerable and correctable, kept apart (JD5).**
 - **Two senses.** "'Answerability' in A74's label means reachability plus
@@ -261,6 +276,7 @@ it, as that account's note of 2026-11-23 says.*
 | [CLAIM-tmpw11e6](../claims.d/CLAIM-tmpw11e6.md) | the assistant's, counter | Proposed, demonstrated |
 | [CLAIM-tmpklggb](../claims.d/CLAIM-tmpklggb.md) | the assistant's | Active, demonstrated |
 | [CLAIM-342](../claims.d/CLAIM-342.md) | the assistant's synthesis | Active, interpretive |
+| [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md) | the assistant's, executed study | Proposed |
 
 ## Not stated on the record
 
@@ -294,8 +310,9 @@ Each item gives the join, what no component states, and its verdict under
   [TERM-tmppvlfi](../terms.d/TERM-tmppvlfi.md) as well.
 - **JD4, the manuscript model's excision of an unnamed demand read as
   [CLAIM-727](../claims.d/CLAIM-727.md)'s self-certification limit, through [CLAIM-361](../claims.d/CLAIM-361.md).** Not stated.
-  No component cites [CLAIM-727](../claims.d/CLAIM-727.md) for a model, and the manuscript's
-  novel-demand result is not on the record (its gap GD7). *Verdict: fails
+  No component states the reading. The manuscript's novel-demand result
+  is now on the record as [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md) (its gap GD7), which illustrates
+  [CLAIM-727](../claims.d/CLAIM-727.md) as an instance and adds no sentence. *Verdict: fails
   as a claim, an instance.* [CLAIM-727](../claims.d/CLAIM-727.md)'s clause is a possibility ("cannot
   always establish"). A model in which an arrangement scores itself clean
   on the specification it controls while the harm runs is an instance of
@@ -303,7 +320,7 @@ Each item gives the join, what no component states, and its verdict under
   failing is not a coherent case, because the reading is the clause. Its
   content belongs on the record as a CASE that illustrates [CLAIM-727](../claims.d/CLAIM-727.md) and
   [CLAIM-361](../claims.d/CLAIM-361.md), as [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) is a held model of the same pattern for
-  hidden requirements. Neither is filed here. Which reference set scores
+  hidden requirements. That CASE is [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md). Which reference set scores
   the unnamed demand stays [QUESTION-tmphovmg](../questions.d/QUESTION-tmphovmg.md).
 - **JD5, effective answerability and correctability as two separate
   requirements on a regulator.** That they are separate is stated (above).
@@ -322,11 +339,11 @@ Each item gives the join, what no component states, and its verdict under
 
 ## Cross-line audit ([ADR-129](../decisions.d/ADR-129.md))
 
-Its 28 components come from ten lines. Counted by script over their
-`line` fields: distributed-agency 18, dependence-and-domination 6,
-readiness 5, will-organization 4, organizational-normativity 4,
-realizability 3, rightful-power 2, authenticity 1, formal-apparatus 1,
-pragmatic-transport 1.
+Its 29 components come from ten lines. Counted by script over their
+`line` fields: distributed-agency 19, readiness 6,
+dependence-and-domination 6, organizational-normativity 5,
+will-organization 4, realizability 3, rightful-power 2, authenticity 1,
+formal-apparatus 1, pragmatic-transport 1.
 
 - **An unheld question.** No. Dependence-and-domination's blurb names the
   accountability and justification owed by those who control an
@@ -344,8 +361,15 @@ third questions.
 ## What it does not say
 
 That any regulator meets or fails these conditions. Every model here is of
-a sensor network, a population on the meaning–influence model, a queue or
-a simulated institution, and the manuscript's gap GD5 says the record holds
+a sensor network, a population on the meaning–influence model, a queue,
+a simulated institution or a budget-ruled organization, and the manuscript's gap GD5 says the record holds
 no industrial case. The manuscript's other joins are mapped by
 [SYNTHESIS-tmp8j9h0](SYNTHESIS-tmp8j9h0.md) (timing of response and revision) and
 [SYNTHESIS-tmpfxv00](SYNTHESIS-tmpfxv00.md) (readiness under budget rules, and lock-in).
+
+## Note of 2026-11-23: the study filed
+
+JD4's content, which this account said belongs on the record as a CASE,
+is now filed as [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md), a variant of the manuscript's study
+[CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md); this version integrates it. The note is the assistant's
+(Claude, in this session); adopting it is the owner's call.

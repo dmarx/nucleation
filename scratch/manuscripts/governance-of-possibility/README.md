@@ -81,7 +81,7 @@ From the revision plan of REVIEW-2026-11-23.md, Part A, section 6.
 
 ## Open items for the owner
 
-1. **The study as a CASE** (gaps GC1 and GD7; join JC1, SYNTHESIS-tmpfxv00), and **the novel-demand arm as a CASE** illustrating CLAIM-727 and CLAIM-361 (join JD4, SYNTHESIS-tmp3x39i), in a later pull request of their own, with one copy of the data. The manuscript then cites the CASEs, not the script, and the outputs are stamped with their commit.
+1. **The study as a CASE: filed.** CASE-tmpo8bsc (the matched-performance study; gap GC1, join JC1) and CASE-tmp95f8e (its novel-demand arm; gap GD7, join JD4), both Proposed, both citing `analysis/` as the single copy, filed on 2026-11-23 in their own pull request; §9, §13 and §15 now cite them. A status review rules on whether they are demonstrated.
 2. **The outputs' stamp.** `results.json` and `results.md` are to carry the date and commit of the run of record (2026-11-23, 28a3708c1).
 3. **The membership pass** under ADR-104, in its own pull request (Status, above).
 4. **GB5**: the levels of governance by horizon (§7.0). No entry holds the hierarchy; three weaker entries are cited. Settled by a claim or a term the owner admits, or by leaving §7.0 a schema.
