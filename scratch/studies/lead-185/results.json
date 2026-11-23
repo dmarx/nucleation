@@ -51,7 +51,7 @@
       "lag_announce_to_independent_downstream": null,
       "independent_statement_before_any_independent_move": null,
       "community_vote_lag_from_announce": 0,
-      "legitimacy_to_capability_lag": 2381,
+      "legitimacy_to_capability_lag": 2294,
       "legitimacy_to_capability_lower_bound": null
     },
     {

@@ -5,7 +5,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | ooo-lo | contested | partial | successor | 244 | 238 | statement+move | identity+practical | 238 |  | 5900 |
 | mysql-mariadb | contested | partial | split | 192 | 1189 | statement+move | identity+practical | 1189 |  | 6234 |
-| hudson-jenkins | contested | yes | successor | 57 |  |  |  |  | 2381 |  |
+| hudson-jenkins | contested | yes | successor | 57 |  |  |  |  | 2294 |  |
 | node-iojs | contested | partial | reunited |  |  |  |  |  |  |  |
 | terraform-opentofu | contested | no | undetermined | 15 |  |  |  |  |  | 1186 |
 | redis-valkey | contested | partial | split | 8 | 20 | statement | licence | 67 |  | 970 |
