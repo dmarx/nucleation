@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  Read on 2026-11-23 (NOTE-tmpw2i45). Worth reading for the shallow-network
+  Read on 2026-11-23 ([NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)). Worth reading for the shallow-network
   theory that the work of Anguita and colleagues extends, and for a
   function-preserving rescaling after pretraining that changes what
   fine-tuning learns.
@@ -50,7 +50,7 @@ summary: >-
   subset of the pretrained features. Rescaling the weights after
   pretraining moves a network between regimes and, in ResNets, improves
   fine-tuning. Registered by the lead run of 2026-11-23 as the precursor
-  of Anguita and colleagues (LIT-2861). Read in NOTE-tmpw2i45.
+  of Anguita and colleagues ([LIT-2861](LIT-2861.md)). Read in [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpw69kb THEORY-tmpfysqg — Proposed; filed by the lead run of 2026-11-23 -->
 
@@ -73,7 +73,7 @@ Lippl and Lindsey (2023; NeurIPS 2024). arXiv 2310.02396.
 
 ## Standing in the record
 
-Registered and read on 2026-11-23 (NOTE-tmpw2i45, THEORY-tmpw69kb,
-THEORY-tmpfysqg). Anguita and colleagues (LIT-2861) extend its
+Registered and read on 2026-11-23 ([NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md), [THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md),
+[THEORY-tmpfysqg](../theory.d/THEORY-tmpfysqg.md)). Anguita and colleagues ([LIT-2861](LIT-2861.md)) extend its
 diagonal-network theory from infinitesimal initialization to arbitrary
 absolute and relative scales.

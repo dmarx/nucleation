@@ -18,10 +18,10 @@ promote_when: >-
   bias of gradient descent in ReLU networks is shown to match the explicit
   penalty of Proposition 3.
 summary: >-
-  From the reading of LIT-tmpkuq67 in NOTE-tmpw2i45, carrying out the lead
-  that asked for it. The theory Anguita and colleagues (THEORY-2077)
+  From the reading of [LIT-tmpkuq67](../literature.d/LIT-tmpkuq67.md) in [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md), carrying out the lead
+  that asked for it. The theory Anguita and colleagues ([THEORY-2077](THEORY-2077.md))
   extend. Its rescaling, which keeps the pretrained function when the
-  readout is compensated, gives CLAIM-tmp7n00e's case of equal present
+  readout is compensated, gives [CLAIM-tmp7n00e](../claims.d/CLAIM-tmp7n00e.md)'s case of equal present
   function with different later learning. Proposed until its promote_when
   is met.
 ---

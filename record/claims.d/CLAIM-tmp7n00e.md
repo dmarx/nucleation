@@ -38,7 +38,7 @@ summary: >-
   regimes. They do not say that the rescaled network, with its readout
   compensated, computes the pretrained function. It does, and readout
   training from it reaches what it reaches from the original; full
-  fine-tuning does not, by their own penalty. CASE-tmpjn7jc runs it over
+  fine-tuning does not, by their own penalty. [CASE-tmpjn7jc](../cases.d/CASE-tmpjn7jc.md) runs it over
   40 seeds. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -62,7 +62,7 @@ the network with first layer c·w and auxiliary readout v/c.
    same β. The operational frontier, taken either as the pretrained
    function or as what readout-only training reaches, is the same.
 3. **Different penalty under full fine-tuning.** By Lippl and Lindsey's
-   Corollary 2 (THEORY-tmpw69kb), fine-tuning from first-layer weights of
+   Corollary 2 ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md)), fine-tuning from first-layer weights of
    magnitude √|β^aux_d|, with the readout reset to γ, minimizes Σ_d
    (|β^aux_d| + γ²) q(2β_d / (|β^aux_d| + γ²)). From P_c the first-layer
    magnitude is c√|β^aux_d|, so the same penalty holds with |β^aux_d|
@@ -76,7 +76,7 @@ the network with first layer c·w and auxiliary readout v/c.
 
 ## The check
 
-CASE-tmpjn7jc, 40 seeds: the function after rescaling agrees to
+[CASE-tmpjn7jc](../cases.d/CASE-tmpjn7jc.md), 40 seeds: the function after rescaling agrees to
 2·10⁻¹⁶; readout-only training gives the same solution for every c;
 under full fine-tuning, c = 0.3 beat c = 2 on the nested task in 29 of 40
 seeds (p = 0.006), and c = 2 beat c = 0.3 on the dense task in 40 of 40.
@@ -84,8 +84,8 @@ seeds (p = 0.006), and c = 2 beat c = 0.3 on the dense task in 40 of 40.
 ## What it does not say
 
 - Whether P_c and P₁ are two learners or one learner under two
-  procedures. That is the dispute between CLAIM-tmp2tjpt and
-  CLAIM-tmpew899.
+  procedures. That is the dispute between [CLAIM-tmp2tjpt](CLAIM-tmp2tjpt.md) and
+  [CLAIM-tmpew899](CLAIM-tmpew899.md).
 - Anything about deep networks, where the paper does not say whether its
   rescaling keeps the pretrained function.
 - Anything about pretraining of different lengths.

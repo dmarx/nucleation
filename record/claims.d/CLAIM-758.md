@@ -273,7 +273,7 @@ open.
 ## Note of 2026-11-23: Lippl and Lindsey, read
 <!-- inactive-ok-file: THEORY-tmpw69kb — Proposed or new; filed by the lead run of 2026-11-23 -->
 
-A parallel only (THEORY-tmpw69kb; NOTE-tmpw2i45): pretraining is
+A parallel only ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md); [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)): pretraining is
 always to convergence, so nothing on time course. But the scale of the
 weights after pretraining, which the pretraining objective does not see,
 decides whether fine-tuning can still pick out a sparse set of new or

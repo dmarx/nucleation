@@ -163,7 +163,7 @@ acquired organization. Interpretive.
 ## Note of 2026-11-23: Lippl and Lindsey, read
 <!-- inactive-ok-file: THEORY-tmpw69kb CLAIM-tmp7n00e CLAIM-tmp2tjpt CLAIM-tmpew899 ARG-tmpbvq7y CASE-tmpjn7jc CLAIM-tmp2k67n — Proposed or new; filed by the lead run of 2026-11-23 -->
 
-Lippl and Lindsey (THEORY-tmpw69kb; NOTE-tmpw2i45), the precursor
+Lippl and Lindsey ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md); [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)), the precursor
 of Anguita and colleagues, read for the check of the lead that asked for
 it: do their regimes already show the same present capability with
 different later learning, outside the initialization Anguita and
@@ -173,13 +173,13 @@ pretrained diagonal linear network and its rescaling after pretraining
 function and reach the same functions by readout-only training, yet full
 fine-tuning sends them to different solutions, and which c is best
 reverses between a main task using a sparse subset of the pretrained
-features and one using all of them (CLAIM-tmp7n00e, demonstrated, run in
-CASE-tmpjn7jc). Two readings: two learners with one operational frontier
-and two developmental ones (CLAIM-tmp2tjpt, which corroborates this claim
-through ARG-tmpbvq7y; the assistant's lean), or one learner under two
+features and one using all of them ([CLAIM-tmp7n00e](CLAIM-tmp7n00e.md), demonstrated, run in
+[CASE-tmpjn7jc](../cases.d/CASE-tmpjn7jc.md)). Two readings: two learners with one operational frontier
+and two developmental ones ([CLAIM-tmp2tjpt](CLAIM-tmp2tjpt.md), which corroborates this claim
+through [ARG-tmpbvq7y](../arguments.d/ARG-tmpbvq7y.md); the assistant's lean), or one learner under two
 procedures, since the rescaling is a change of step sizes
-(CLAIM-tmp2k67n), which instances only this claim's indexing by
-procedure (CLAIM-tmpew899, the objection). On either reading, the
+([CLAIM-tmp2k67n](CLAIM-tmp2k67n.md)), which instances only this claim's indexing by
+procedure ([CLAIM-tmpew899](CLAIM-tmpew899.md), the objection). On either reading, the
 readout's re-initialization scale γ gives the same pretrained network
 different fine-tuning penalties: the frontier is indexed by procedure.
 Nothing on the frontiers moving in opposite directions over training,

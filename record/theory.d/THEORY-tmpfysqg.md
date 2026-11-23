@@ -16,11 +16,11 @@ promote_when: >-
   an effective number of shared dimensions close to the fine-tuned
   participation ratio.
 summary: >-
-  From the reading of LIT-tmpkuq67 in NOTE-tmpw2i45, carrying out the lead
+  From the reading of [LIT-tmpkuq67](../literature.d/LIT-tmpkuq67.md) in [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md), carrying out the lead
   that asked for it: the deep-network half of the paper, kept apart from
-  the shallow theory (THEORY-tmpw69kb) because it rests on experiment
+  the shallow theory ([THEORY-tmpw69kb](THEORY-tmpw69kb.md)) because it rests on experiment
   alone. That the best rescaling differs between architectures is a
-  parallel to CLAIM-754's point that no ranking holds without a declared
+  parallel to [CLAIM-754](../claims.d/CLAIM-754.md)'s point that no ranking holds without a declared
   context. Proposed until its promote_when is met.
 ---
 <!-- inactive-ok-file: THEORY-tmpw69kb CLAIM-754 — Proposed; the companion reading filed by the lead run of 2026-11-23, and the claim it parallels -->

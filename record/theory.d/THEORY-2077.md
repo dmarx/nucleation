@@ -56,8 +56,8 @@ and a one-layer Transformer. Pretraining length is never varied.
 ## Note of 2026-11-23: Lippl and Lindsey, read
 <!-- inactive-ok-file: THEORY-tmpw69kb — Proposed or new; filed by the lead run of 2026-11-23 -->
 
-The theory this one extends is now read (THEORY-tmpw69kb;
-NOTE-tmpw2i45): infinitesimal initialization with balanced layers, the
+The theory this one extends is now read ([THEORY-tmpw69kb](THEORY-tmpw69kb.md);
+[NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)): infinitesimal initialization with balanced layers, the
 readout scale γ the only free scale, and three of the four regimes here
 (rich, lazy, and nested feature selection, which this account's rich,
 pretraining-dependent regime resembles, both being best when the main

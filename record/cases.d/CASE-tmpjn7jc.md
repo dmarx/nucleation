@@ -37,7 +37,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp7n00e THEORY-tmpw69kb CLAIM-tmp2tjpt CLAIM-tmp2k67n — Proposed; the claim this run grounds, the reading whose setup it uses, the verdict it illustrates, and the identity it is read with -->
+<!-- inactive-ok-file: CLAIM-tmp7n00e THEORY-tmpw69kb CLAIM-tmp2k67n — Proposed; the claim this run grounds, the reading whose setup it uses, the verdict it illustrates, and the identity it is read with -->
 
 # CASE-tmpjn7jc: Function-preserving rescaling of a pretrained diagonal linear network before fine-tuning, run on two main tasks
 
@@ -52,7 +52,7 @@ diag_rescale.py, four tests, analyze.py, check_lr.py, results/).
   coefficients, to squared error on β below 6·10⁻⁵.
 - **Rescaling.** P_c: w₊, w₋ times c and v₊, v₋ divided by c, for c in
   {2, 1, 0.3, 0.1}. The function, β, is the same as P₁'s to 2·10⁻¹⁶.
-- **Fine-tuning,** as in Lippl and Lindsey's §3.3 (THEORY-tmpw69kb):
+- **Fine-tuning,** as in Lippl and Lindsey's §3.3 ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md)):
   pathway weights set to their sum, readout reset to γ = 0.01, then
   gradient descent to training loss below 10⁻⁹, either on all weights
   (full) or on the readout alone (probe).
@@ -88,11 +88,11 @@ same thing under readout-only training and different things under full
 fine-tuning, and that the better one depends on the declared main task:
 shrinking helps where the main task uses a sparse subset of the
 pretrained features, as Lippl and Lindsey's nested regime predicts, and
-hurts where it uses all of them. It grounds CLAIM-tmp7n00e.
+hurts where it uses all of them. It grounds [CLAIM-tmp7n00e](../claims.d/CLAIM-tmp7n00e.md).
 
 It cannot say whether the pair is two learners or one learner under two
 procedures. In the run, the step-size rule is set from the weights'
 scale, so it too differs with c; the converged solutions approximate
 gradient flow, as the step-size check shows, and the identity of
-CLAIM-tmp2k67n holds in either case. Nothing here is a deep network,
+[CLAIM-tmp2k67n](../claims.d/CLAIM-tmp2k67n.md) holds in either case. Nothing here is a deep network,
 cross-entropy, or pretraining of varying length.

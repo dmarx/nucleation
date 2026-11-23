@@ -226,8 +226,8 @@ Anguita and colleagues ([THEORY-2077](../theory.d/THEORY-2077.md), corroborates;
 <!-- inactive-ok-file: THEORY-tmpw69kb CLAIM-tmp7n00e — Proposed or new; filed by the lead run of 2026-11-23 -->
 
 A parallel in learning theory, not evidence for this claim's
-derivation (THEORY-tmpw69kb; NOTE-tmpw2i45): a pretrained network and a
+derivation ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md); [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)): a pretrained network and a
 function-preserving rescaling of it give the same capabilities now and
-different later learning under fine-tuning (CLAIM-tmp7n00e). It concerns
+different later learning under fine-tuning ([CLAIM-tmp7n00e](CLAIM-tmp7n00e.md)). It concerns
 a learner's own training, not support given to a party, so no edge is
 written. No status change.

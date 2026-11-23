@@ -181,7 +181,7 @@ status change.
 ## Note of 2026-11-23: Lippl and Lindsey, read
 <!-- inactive-ok-file: THEORY-tmpw69kb — Proposed or new; filed by the lead run of 2026-11-23 -->
 
-An instance of the premise, nothing on valuation (THEORY-tmpw69kb;
-NOTE-tmpw2i45): features learned on an auxiliary task lower the samples a
+An instance of the premise, nothing on valuation ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md);
+[NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)): features learned on an auxiliary task lower the samples a
 main task needs where the two share features (its Fig. 2c-f). No
 status change.

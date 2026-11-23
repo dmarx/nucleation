@@ -180,7 +180,7 @@ for this study.
 <!-- inactive-ok-file: THEORY-tmpw69kb THEORY-tmpfysqg — Proposed or new; filed by the lead run of 2026-11-23 -->
 
 A design caution from the reading of Lippl and Lindsey
-(THEORY-tmpw69kb, THEORY-tmpfysqg; NOTE-tmpw2i45): the overall scale of a
+([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md), [THEORY-tmpfysqg](../theory.d/THEORY-tmpfysqg.md); [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)): the overall scale of a
 checkpoint's weights, and the scale at which a re-initialized head is set,
 decide whether fine-tuning reuses pretrained features or learns sparse new
 ones, and rescaling by a factor below one changed fine-tuning accuracy in

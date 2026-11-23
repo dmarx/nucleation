@@ -24,7 +24,7 @@ summary: >-
   rich, reached by rescaling the weights after pretraining. Rescaling by
   less than 1 helps ResNets and not Vision Transformers.
 ---
-<!-- inactive-ok-file: CLAIM-756 CLAIM-758 THEORY-2077 THEORY-tmpw69kb THEORY-tmpfysqg CLAIM-tmp7n00e CLAIM-tmp2tjpt CLAIM-tmpew899 CASE-tmpjn7jc CLAIM-tmp2k67n — Proposed; entries this reading bears on, and those filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-756 CLAIM-758 THEORY-2077 CLAIM-tmp7n00e CLAIM-tmp2tjpt CLAIM-tmpew899 CASE-tmpjn7jc CLAIM-tmp2k67n — Proposed; entries this reading bears on, and those filed by the lead run of 2026-11-23 -->
 
 # NOTE-tmpw2i45: Lippl and Lindsey — Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse
 
@@ -109,7 +109,7 @@ a signature of the regime.
 
 ## Bearing on the record
 
-- **CLAIM-754 and CLAIM-675.** The lead's question: do its regimes show
+- **[CLAIM-754](../claims.d/CLAIM-754.md) and [CLAIM-675](../claims.d/CLAIM-675.md).** The lead's question: do its regimes show
   the same present capability with different later learning outside the
   initialization Anguita and colleagues generalize? Yes, by a step the
   paper does not take. Its rescaling of the hidden layer by c, with the
@@ -118,29 +118,29 @@ a signature of the regime.
   it, unchanged, while changing the per-dimension penalty of result 1
   from |β^aux| to c²|β^aux|, so what full fine-tuning learns, and which c
   is best, depend on the declared main task (results 4 and 5). Filed as
-  CLAIM-tmp7n00e, checked in CASE-tmpjn7jc; the reading that it is one
-  learner under different procedures is CLAIM-tmp2tjpt, and the objection
-  CLAIM-tmpew899. A second instance, uncontested, is γ itself: the same
+  [CLAIM-tmp7n00e](../claims.d/CLAIM-tmp7n00e.md), checked in [CASE-tmpjn7jc](../cases.d/CASE-tmpjn7jc.md); the reading that it is one
+  learner under different procedures is [CLAIM-tmp2tjpt](../claims.d/CLAIM-tmp2tjpt.md), and the objection
+  [CLAIM-tmpew899](../claims.d/CLAIM-tmpew899.md). A second instance, uncontested, is γ itself: the same
   pretrained network fine-tuned with different readout scales learns
   under different penalties, a developmental frontier indexed by the
-  procedure, as CLAIM-754's last section says.
-- **CLAIM-tmp2k67n.** Its identity (a function-preserving rescaling is a
+  procedure, as [CLAIM-754](../claims.d/CLAIM-754.md)'s last section says.
+- **[CLAIM-tmp2k67n](../claims.d/CLAIM-tmp2k67n.md).** Its identity (a function-preserving rescaling is a
   change of the optimizer's per-coordinate step sizes) applies exactly to
   this paper's rescaling technique, which the paper presents as part of
   the fine-tuning method. Background for the alternative reading.
-- **THEORY-2077 (Anguita and colleagues).** This is the theory they
+- **[THEORY-2077](../theory.d/THEORY-2077.md) (Anguita and colleagues).** This is the theory they
   extend: infinitesimal initialization, balanced layers, with γ the only
   scale. They add absolute and relative scales at initialization. The
   regimes here are three of their four.
-- **CLAIM-758 (overconsolidation).** Nothing on training duration:
+- **[CLAIM-758](../claims.d/CLAIM-758.md) (overconsolidation).** Nothing on training duration:
   pretraining is always to convergence. A parallel only: after pretraining
   the scale of the weights, which the present objective does not see,
   decides whether fine-tuning can still pick sparse new features.
-- **CLAIM-756.** Feature reuse lowers the sample cost of the main task
+- **[CLAIM-756](../claims.d/CLAIM-756.md).** Feature reuse lowers the sample cost of the main task
   where tasks share features (Fig. 2c-f): an instance of the claim's
   premise that one acquisition lowers the cost of another, nothing on its
   valuation.
-- **CASE-294.** The study should record the weight scale of each
+- **[CASE-294](../cases.d/CASE-294.md).** The study should record the weight scale of each
   checkpoint and the head's initialization, since by this paper both set
   which regime fine-tuning is in.
 
@@ -158,4 +158,4 @@ a signature of the regime.
   are given in the prose.
 - The paper never compares two networks with the same function: that the
   rescaling preserves the function is the filer's inference from result
-  8, checked in CASE-tmpjn7jc for the diagonal network only.
+  8, checked in [CASE-tmpjn7jc](../cases.d/CASE-tmpjn7jc.md) for the diagonal network only.
