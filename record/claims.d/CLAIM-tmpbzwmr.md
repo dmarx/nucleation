@@ -32,9 +32,9 @@ complements:
 - CLAIM-626
 summary: A40's central insight in the exchange "Explain First Contact RL"
   (ChatGPT, second share of 2026-11-22), answering the owner's U21. It revises
-  A38's thesis (CLAIM-tmph25dl) by locating identity in slow collective modes
+  A38's thesis ([CLAIM-tmph25dl](CLAIM-tmph25dl.md)) by locating identity in slow collective modes
   and adaptability in their selective controllability. A40 itself warns that
-  a slow mode is not necessarily an identity-bearing mode (CLAIM-331, CLAIM-626).
+  a slow mode is not necessarily an identity-bearing mode ([CLAIM-331](CLAIM-331.md), [CLAIM-626](CLAIM-626.md)).
   The wording is A's (ChatGPT, in the exchange of 2026-11-22); adopting it
   is the owner's call.
 ---
@@ -57,26 +57,26 @@ demands the ecosystem must answer."
 ## Steps (A40)
 
 - **Slow subspaces.** For τ_fast ≪ H ≪ τ_slow the fast modes have
-  equilibrated and the slow ones barely moved (CLAIM-478). But "merely
+  equilibrated and the slow ones barely moved ([CLAIM-478](CLAIM-478.md)). But "merely
   detecting a slow variable does not establish organizational identity"
-  (CLAIM-331: slowness is a mark of a level, not its definition).
+  ([CLAIM-331](CLAIM-331.md): slowness is a mark of a level, not its definition).
 - **Coupling.** Strong dissipative coupling removes the relative mode and
-  leaves the collective one free (CLAIM-481). "The same mathematics could
+  leaves the collective one free ([CLAIM-481](CLAIM-481.md)). "The same mathematics could
   describe forced conformity."
-- **Slow relaxation is not slow controllability:** CLAIM-tmpx8csq.
+- **Slow relaxation is not slow controllability:** [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md).
 - **Demands select the modes that must change,** through the
-  finite-horizon Gramian (CLAIM-345). The question is whether the system
+  finite-horizon Gramian ([CLAIM-345](CLAIM-345.md)). The question is whether the system
   has "effective control directions into that mode".
 - **A slow mode can be lost stabilization,** as when a transverse
-  restoring mode slows (CLAIM-626).
+  restoring mode slows ([CLAIM-626](CLAIM-626.md)).
 - **Selective modal stabilization.** Preserve identity-relevant
   relations while keeping control over demand-relevant modes, with the
   response set A_D(S; H, B).
 - **Modes change with the organization,** and a target can move faster
-  than the organization can track it (THEORY-1052).
-- **The adaptive kernel.** V_adaptive = Viab(M_D), as in TERM-tmpz28l1.
+  than the organization can track it ([THEORY-1052](../theory.d/THEORY-1052.md)).
+- **The adaptive kernel.** V_adaptive = Viab(M_D), as in [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md).
 
-## Admission (ADR-075)
+## Admission ([ADR-075](../decisions.d/ADR-075.md))
 
 *A discriminating prediction.* Its premises leave open whether an
 organization's failures to meet demanded changes track the

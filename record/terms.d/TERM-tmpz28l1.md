@@ -45,23 +45,23 @@ in M indefinitely.
 
 ## Against the record
 
-- Viability kernel: THEORY-134. Stability is not viability: CLAIM-079.
+- Viability kernel: [THEORY-134](../theory.d/THEORY-134.md). Stability is not viability: [CLAIM-079](../claims.d/CLAIM-079.md).
 - Keeping an effective regime and keeping the capacity to govern among
-  regimes are different achievements: CLAIM-099, and CLAIM-025.
-- A transition's threshold can exceed both endpoints' costs: CLAIM-571
-  and CLAIM-569. Feasibility at a budget is not reachability at it:
-  CLAIM-560.
+  regimes are different achievements: [CLAIM-099](../claims.d/CLAIM-099.md), and [CLAIM-025](../claims.d/CLAIM-025.md).
+- A transition's threshold can exceed both endpoints' costs: [CLAIM-571](../claims.d/CLAIM-571.md)
+  and [CLAIM-569](../claims.d/CLAIM-569.md). Feasibility at a budget is not reachability at it:
+  [CLAIM-560](../claims.d/CLAIM-560.md).
 - A36 §5's example, A held at cost 1, B at cost 1, the route through M at
   cost 3, with each period's budget set to the last period's peak spend,
-  is CLAIM-577 exactly: efficient holding destroys the route.
+  is [CLAIM-577](../claims.d/CLAIM-577.md) exactly: efficient holding destroys the route.
 - Permitted, actuated, affordable, reliable and sustainable motions:
-  CLAIM-589.
+  [CLAIM-589](../claims.d/CLAIM-589.md).
 - Readiness as the probability of an effective response by a deadline:
-  TERM-115. This term is its set-valued, worst-case-over-Ω counterpart,
+  [TERM-115](TERM-115.md). This term is its set-valued, worst-case-over-Ω counterpart,
   made a viability requirement.
-- What K_core must hold, fixed by what realizes the capacity: CLAIM-916.
+- What K_core must hold, fixed by what realizes the capacity: [CLAIM-916](../claims.d/CLAIM-916.md).
 - Correctability by others, which A36 §8 adds as a constraint on
-  admissible policies: CLAIM-462 and TERM-085.
+  admissible policies: [CLAIM-462](../claims.d/CLAIM-462.md) and [TERM-085](TERM-085.md).
 
 ## Limits
 
@@ -75,7 +75,7 @@ in M indefinitely.
   recovery needs a robust kernel.
 - K_ω must be fixed independently of the current arrangement, or every
   arrangement is viable by its own standards (A36 says so). This is
-  THEORY-134's requirement that the constraint set be fixed independently
+  [THEORY-134](../theory.d/THEORY-134.md)'s requirement that the constraint set be fixed independently
   of the dynamics.
 
 <!-- inactive-ok-file: CLAIM-tmpm985y CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->

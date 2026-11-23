@@ -57,23 +57,23 @@ selective conservation of what enables future transformation."
 ## Steps (A38)
 
 - **Identity as a continuity relation.** It is not x_t = x_0. Identity is
-  S_t ~_I S_t′ under a declared criterion, which A38 ties to CLAIM-361's
+  S_t ~_I S_t′ under a declared criterion, which A38 ties to [CLAIM-361](CLAIM-361.md)'s
   distinction between satisfying, reprioritizing, transforming and
   suppressing demands.
 - **Slow relations as effective constraints**, ε ẋ = f(x, z, u), ż =
-  g(x, z, u), with x ≈ h(z, u) on the slow scale: CLAIM-478. Speeds as
-  asymmetries of authority: CLAIM-423.
+  g(x, z, u), with x ≈ h(z, u) on the slow scale: [CLAIM-478](CLAIM-478.md). Speeds as
+  asymmetries of authority: [CLAIM-423](CLAIM-423.md).
 - **Demands as predicates on histories over horizons, with deadlines.**
-  Timely satisfaction needs T* ≤ τ, and readiness is TERM-115's
+  Timely satisfaction needs T* ≤ τ, and readiness is [TERM-115](../terms.d/TERM-115.md)'s
   probability. "A system can possess the capability to respond while
   being organized too slowly to respond when it matters."
-- **A minimal model:** CLAIM-tmp2k3c5.
+- **A minimal model:** [CLAIM-tmp2k3c5](CLAIM-tmp2k3c5.md).
 - **Not always a trade-off.** A standard removes repeated negotiation and
   a rehearsed procedure speeds response, while consolidation raises the
-  cost of changing the framework (CLAIM-758, CLAIM-184).
+  cost of changing the framework ([CLAIM-758](CLAIM-758.md), [CLAIM-184](CLAIM-184.md)).
 - **A temporal readiness kernel.** Viab(M_D), with M_D the states whose
   readiness for each declared demand meets its reliability requirement:
-  TERM-tmpz28l1 indexed by demand class.
+  [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md) indexed by demand class.
 - **A table of five demand horizons** (immediate, operational,
   developmental, institutional, intergenerational), each with its
   governance capacity and failure mode, and the closing test: "When a
@@ -81,14 +81,14 @@ selective conservation of what enables future transformation."
   needed to respond to future demands, or merely the conditions that keep
   its present regime in place?"
 
-## Admission (ADR-075)
+## Admission ([ADR-075](../decisions.d/ADR-075.md))
 
 *A separating case.* Take an organization whose constraints settle fast
-relations into slow ones (CLAIM-478 holds), whose consolidation raises the
-cost of one later acquisition (CLAIM-758 holds), and whose operative,
-governing and transforming capacities can fail apart (CLAIM-025 holds).
+relations into slow ones ([CLAIM-478](CLAIM-478.md) holds), whose consolidation raises the
+cost of one later acquisition ([CLAIM-758](CLAIM-758.md) holds), and whose operative,
+governing and transforming capacities can fail apart ([CLAIM-025](CLAIM-025.md) holds).
 Let every demand it faces have the same deadline and horizon. Then a
 constraint's adequacy is not indexed to the demands' timescales, and the
 claim's central clause has no work to do. What the claim adds is that
 demands differ in timescale, so that one constraint can be adequate to
-one and obstruct another. CLAIM-tmp2k3c5 shows this in a model.
+one and obstruct another. [CLAIM-tmp2k3c5](CLAIM-tmp2k3c5.md) shows this in a model.
