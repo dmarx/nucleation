@@ -25,10 +25,10 @@ summary: >-
   branch of 2026-11-23 08:51, numbered U32 on its share page):
   the whole turn, "intelligence" as epistemic (ecological) richness. Filed in the
   reading that takes "as" for identity: intelligence is the richness that
-  TERM-tmp9lu6c defines, in its epistemic part. The alternative reading,
-  intelligence understood through that richness, is CLAIM-tmpgt4a6; the two
+  [TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md) defines, in its epistemic part. The alternative reading,
+  intelligence understood through that richness, is [CLAIM-tmpgt4a6](CLAIM-tmpgt4a6.md); the two
   are filed differently because A62b objects to this one and develops the
-  other (CLAIM-tmph9g28). The owner chooses. The owner's.
+  other ([CLAIM-tmph9g28](CLAIM-tmph9g28.md)). The owner chooses. The owner's.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmp6ik2v CLAIM-tmpgt4a6 CLAIM-tmph9g28 TERM-tmp9lu6c — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
@@ -37,19 +37,19 @@ summary: >-
 
 ## The claim
 
-The owner's words, at U32b, the first turn of the branch after A60: the whole turn, "intelligence" as epistemic (ecological) richness. The turn follows A60's account of richness (TERM-tmp9lu6c) and the owner's thesis that diversity measures it (CLAIM-tmp6ik2v).
+The owner's words, at U32b, the first turn of the branch after A60: the whole turn, "intelligence" as epistemic (ecological) richness. The turn follows A60's account of richness ([TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md)) and the owner's thesis that diversity measures it ([CLAIM-tmp6ik2v](CLAIM-tmp6ik2v.md)).
 
-In this reading, "as" is identity. An organization is intelligent to the degree that its ways of recognizing possibilities, formulating questions and realizing answers are rich, in TERM-tmp9lu6c's sense: maintained, differentiated and viable. The parenthesis says the richness is the ecological kind, so intelligence is the epistemic dimension of ecological richness.
+In this reading, "as" is identity. An organization is intelligent to the degree that its ways of recognizing possibilities, formulating questions and realizing answers are rich, in [TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md)'s sense: maintained, differentiated and viable. The parenthesis says the richness is the ecological kind, so intelligence is the epistemic dimension of ecological richness.
 
 ## Alternatives
 
 The turn is a phrase, and it admits two readings that the record would file differently:
 
 - **This entry**: intelligence *is* epistemic richness.
-- **CLAIM-tmpgt4a6**: intelligence is to be *understood through* epistemic richness, as a property of an ecology of inquiry and not only of one problem solver.
+- **[CLAIM-tmpgt4a6](CLAIM-tmpgt4a6.md)**: intelligence is to be *understood through* epistemic richness, as a property of an ecology of inquiry and not only of one problem solver.
 
-A62b answers the second and objects to the first: "But I'd distinguish epistemic richness from effective intelligence." Its answer is CLAIM-tmph9g28, which `objects_to` this entry. The owner chooses which reading was meant.
+A62b answers the second and objects to the first: "But I'd distinguish epistemic richness from effective intelligence." Its answer is [CLAIM-tmph9g28](CLAIM-tmph9g28.md), which `objects_to` this entry. The owner chooses which reading was meant.
 
 ## Standing
 
-Proposed, the owner's. If this is the reading meant, CLAIM-tmph9g28's objection stands against it: on A62b's own §6, an organization "possesses considerable latent epistemic richness but may exhibit poor collective intelligence" when its authority structure keeps its findings apart.
+Proposed, the owner's. If this is the reading meant, [CLAIM-tmph9g28](CLAIM-tmph9g28.md)'s objection stands against it: on A62b's own §6, an organization "possesses considerable latent epistemic richness but may exhibit poor collective intelligence" when its authority structure keeps its findings apart.

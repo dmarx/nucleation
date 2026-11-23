@@ -20,7 +20,7 @@ advances:
 - CLAIM-tmpgt4a6
 - CLAIM-tmpq1usu
 summary: >-
-  A gap fill (ADR-137) for A62b's closing proposal, in the exchange
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A62b's closing proposal, in the exchange
   "Explain First Contact RL" (ChatGPT, the branch of 2026-11-23 08:51),
   that "epistemic intelligence might be measured by counterfactual richness
   rather than observed performance alone", which it offers as "an empirical
@@ -41,19 +41,19 @@ A62b's proposal: "hold current task performance constant, perturb the environmen
 
 ## The plan
 
-1. **Design.** Specify, for one kind of organization (a team, or a population of artificial agents, where interventions are cheap; CLAIM-tmpl1hgv says a team's separable members make it an experimental model):
-   - *matching*: pairs equal on a declared battery of current tasks, so that the operational frontier of CLAIM-754 is held fixed;
-   - *perturbation*: a novelty hierarchy, borrowing SAIL-ON's levels (NOTE-1822), so that how new a question is can be declared;
-   - *outcome*: for each new question, the time, cost and reliability of reaching an adequate answer, and the number of distinct routes taken, routes told apart by which perspectives contributed; this is the developmental kernel of CLAIM-tmpq1usu, measured with the repair of CLAIM-tmpfc364;
-   - *the contrast*: whether the matched pairs differ, which is what CLAIM-tmph9g28's "equally competent today but unequally intelligent" predicts, and whether the difference tracks diversity under a content metric (CLAIM-tmpjk3nm).
+1. **Design.** Specify, for one kind of organization (a team, or a population of artificial agents, where interventions are cheap; [CLAIM-tmpl1hgv](../claims.d/CLAIM-tmpl1hgv.md) says a team's separable members make it an experimental model):
+   - *matching*: pairs equal on a declared battery of current tasks, so that the operational frontier of [CLAIM-754](../claims.d/CLAIM-754.md) is held fixed;
+   - *perturbation*: a novelty hierarchy, borrowing SAIL-ON's levels ([NOTE-1822](../notes.d/NOTE-1822.md)), so that how new a question is can be declared;
+   - *outcome*: for each new question, the time, cost and reliability of reaching an adequate answer, and the number of distinct routes taken, routes told apart by which perspectives contributed; this is the developmental kernel of [CLAIM-tmpq1usu](../claims.d/CLAIM-tmpq1usu.md), measured with the repair of [CLAIM-tmpfc364](../claims.d/CLAIM-tmpfc364.md);
+   - *the contrast*: whether the matched pairs differ, which is what [CLAIM-tmph9g28](../claims.d/CLAIM-tmph9g28.md)'s "equally competent today but unequally intelligent" predicts, and whether the difference tracks diversity under a content metric ([CLAIM-tmpjk3nm](../claims.d/CLAIM-tmpjk3nm.md)).
 2. **Read.** Register and read, under the `read-and-file` skill, the definitions such a test would compete with. The identifiers are from memory and must be checked at registration (step 3):
    - Chollet, "On the Measure of Intelligence" (2019, arXiv:1911.01547): intelligence as skill-acquisition efficiency over a scope of tasks, given priors and experience. It is the nearest rival: a developmental, counterfactual measure of one agent.
    - Legg and Hutter, "Universal Intelligence: A Definition of Machine Intelligence" (2007, arXiv:0712.3329): expected performance over all computable environments, weighted by simplicity.
 
 ## What it would settle
 
-Whether "counterfactual richness" measures anything that efficiency of skill acquisition, applied to the whole organization, does not; and so whether CLAIM-tmph9g28's ecological account of intelligence adds to the single-agent developmental accounts or restates them for a collective.
+Whether "counterfactual richness" measures anything that efficiency of skill acquisition, applied to the whole organization, does not; and so whether [CLAIM-tmph9g28](../claims.d/CLAIM-tmph9g28.md)'s ecological account of intelligence adds to the single-agent developmental accounts or restates them for a collective.
 
 ## What it would not settle
 
-Whether the owner meant intelligence to be richness or to be understood through it (CLAIM-tmpm58vk, CLAIM-tmpgt4a6). That is the owner's choice.
+Whether the owner meant intelligence to be richness or to be understood through it ([CLAIM-tmpm58vk](../claims.d/CLAIM-tmpm58vk.md), [CLAIM-tmpgt4a6](../claims.d/CLAIM-tmpgt4a6.md)). That is the owner's choice.

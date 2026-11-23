@@ -28,11 +28,11 @@ summary: >-
   with the post-state S′ included, because "Two organizations may produce
   identical answers while differing in what the process of answering does
   to them." The thesis stands; its formal step, comparing S′ directly, is
-  corrected by CLAIM-tmpfc364. The wording is A's (ChatGPT's, at A64b of the
+  corrected by [CLAIM-tmpfc364](CLAIM-tmpfc364.md). The wording is A's (ChatGPT's, at A64b of the
   exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp9o6yv CLAIM-tmpfc364 CLAIM-tmprkpq5 TERM-tmpwc4la — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
+<!-- inactive-ok-file: CLAIM-tmp9o6yv CLAIM-tmpfc364 TERM-tmpwc4la — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
 # CLAIM-tmpq1usu: Two organizations that give the same answers can differ in what answering does to them, so a response kernel that includes the organization's state after answering separates what an answer benchmark treats as equivalent, such as one that learns from disagreement and one that suppresses it
 
@@ -46,8 +46,8 @@ the joint law of the answer, the response time, the cost and the organization's 
 
 ## Where it sits
 
-The record's dispositional address (TERM-tmpwc4la) is the map q ↦ P(Y | p, do(q)) without the post-state; this kernel adds what answering does. The same exchange's capability trap (CLAIM-tmp9o6yv) is a case of it: two ecosystems equivalent under the routine queries, one of which has optimized away what an unasked query needs.
+The record's dispositional address ([TERM-tmpwc4la](../terms.d/TERM-tmpwc4la.md)) is the map q ↦ P(Y | p, do(q)) without the post-state; this kernel adds what answering does. The same exchange's capability trap ([CLAIM-tmp9o6yv](CLAIM-tmp9o6yv.md)) is a case of it: two ecosystems equivalent under the routine queries, one of which has optimized away what an unasked query needs.
 
 ## Standing
 
-Proposed, in A's voice. CLAIM-tmpfc364 objects to the formal step, not the thesis: compared directly, the post-state separates organizations no test could tell apart, so d_𝒬 is not observational as A64b intends; observing S′ through its later responses repairs it and keeps the separation the thesis needs.
+Proposed, in A's voice. [CLAIM-tmpfc364](CLAIM-tmpfc364.md) objects to the formal step, not the thesis: compared directly, the post-state separates organizations no test could tell apart, so d_𝒬 is not observational as A64b intends; observing S′ through its later responses repairs it and keeps the separation the thesis needs.

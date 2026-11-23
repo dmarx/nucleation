@@ -21,7 +21,7 @@ complements:
 bears_on:
 - QUESTION-tmpzblpf
 summary: >-
-  A gap fill (ADR-137) for A62b §3 of the exchange "Explain First Contact
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A62b §3 of the exchange "Explain First Contact
   RL" (ChatGPT, the branch of 2026-11-23 08:51), which defines
   d_μ(P_i, P_j) = ∫ |r_i − r_j| dμ and coverage 𝒞_μ(S) = ∫ max_i r_i dμ and
   says "A collection of arbitrarily different, consistently wrong responses
@@ -31,7 +31,7 @@ summary: >-
   owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp7iie0 CLAIM-tmph9g28 TERM-tmp9lu6c TERM-tmpwc4la — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
+<!-- inactive-ok-file: TERM-tmp9lu6c TERM-tmpwc4la — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
 
 # CLAIM-tmpjk3nm: Under a pseudometric that compares perspectives by their probabilities of answering adequately, no two perspectives are further apart than the coverage of the ecology that holds them, so perspectives that are all consistently wrong are close under it however differently they answer, and diversity without coverage needs a metric on what is answered
 
@@ -57,4 +57,4 @@ By script (python3 -I), in this session: the identity and the bound held in 20,0
 
 ## What follows for A62b
 
-A62b's distinction survives with a change of example: diversity in d_μ is not intelligence, because coverage can be high where d_μ-diversity is nil. Its example needs a different metric, one on the content of answers (for instance a distance between the laws of the answers given, as in TERM-tmpwc4la's dispositional address), under which consistently wrong perspectives can be far apart. A60's richness (TERM-tmp9lu6c) and QUESTION-tmpzblpf's search for an index that tracks it should say which of the two metrics is meant: a success-profile metric builds part of coverage into diversity, and a content metric does not.
+A62b's distinction survives with a change of example: diversity in d_μ is not intelligence, because coverage can be high where d_μ-diversity is nil. Its example needs a different metric, one on the content of answers (for instance a distance between the laws of the answers given, as in [TERM-tmpwc4la](../terms.d/TERM-tmpwc4la.md)'s dispositional address), under which consistently wrong perspectives can be far apart. A60's richness ([TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md)) and [QUESTION-tmpzblpf](../questions.d/QUESTION-tmpzblpf.md)'s search for an index that tracks it should say which of the two metrics is meant: a success-profile metric builds part of coverage into diversity, and a content metric does not.

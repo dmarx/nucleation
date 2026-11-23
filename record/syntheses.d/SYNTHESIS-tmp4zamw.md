@@ -195,7 +195,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CASE-tmptzhse CLAIM-tmpk8ude CLAIM-tmpx7oaj CLAIM-tmpcfo3s ARG-tmpzxz7y TERM-tmpwc4la CLAIM-tmpy4mba CLAIM-tmptsbhv ARG-tmpzj6pc CLAIM-tmp7pe33 CLAIM-tmptxsin CLAIM-tmp86z76 CLAIM-tmpqr0tn CLAIM-tmpywoih ARG-tmpymz1j CLAIM-tmpm54la CLAIM-tmp7580l TERM-tmpxwa7g TERM-tmpm0s7g CLAIM-tmp3xo35 TERM-tmppvlfi CLAIM-tmp37le7 CLAIM-tmp31b3v CLAIM-tmp0ww8w CLAIM-tmphxbli CLAIM-tmp9pgdu CLAIM-tmp6ksyy CLAIM-tmpz67ew CLAIM-tmphjm0q CLAIM-788 CLAIM-787 CLAIM-181 CLAIM-358 CLAIM-162 CLAIM-711 CLAIM-tmptfpf7 TERM-tmpz28l1 CLAIM-tmpntzjo CLAIM-tmph25dl CLAIM-tmpbzwmr CLAIM-tmpcag0t CLAIM-tmpm985y — Proposed or in progress; filed or cited in the filing of 2026-11-22 -->
-<!-- inactive-ok-file: ARG-tmpqg2tg CLAIM-615 CLAIM-tmp812ex CLAIM-tmpchkck CLAIM-tmpfc364 CLAIM-tmpgt4a6 CLAIM-tmph9g28 CLAIM-tmpjk3nm CLAIM-tmpm58vk CLAIM-tmpq1usu CLAIM-tmprkpq5 CLAIM-tmpuzk5o TERM-tmp7kf60 CLAIM-tmp61i14 CLAIM-tmp2oloi CLAIM-tmp62ldm ARG-tmpo1l8y CLAIM-tmp11j0f CLAIM-tmpep410 CLAIM-tmp8nzk0 CLAIM-tmp9in65 CLAIM-tmpt8pvt CLAIM-tmp9o6yv CLAIM-tmpx030o CLAIM-tmpq4crr CLAIM-tmp2dr12 CLAIM-tmpzbytm CLAIM-tmpagnsw ARG-tmpzaupx CASE-tmp0nsah CLAIM-tmp1m3ba CLAIM-tmpoexcl CLAIM-tmpy25jo CLAIM-tmp104zk CLAIM-tmpumpxw CLAIM-tmp4u0mj CLAIM-tmpbt43r CLAIM-tmp04pr7 CLAIM-tmpjg4h2 CLAIM-tmpn8j1j CLAIM-tmp3l7is CLAIM-tmpjvllb CLAIM-tmplxi60 CASE-tmp1ptqp CLAIM-tmp2enpa CLAIM-tmpx0wv9 CLAIM-tmpj15c6 ARG-tmp7xi5t TERM-tmpace0k TERM-tmpdk711 CLAIM-tmp6ik2v CLAIM-tmp6thmv TERM-tmp9lu6c CLAIM-tmp7iie0 ARG-tmpbchnj ARG-tmpdnptq TERM-tmpqixg8 CASE-tmp5b6rr CLAIM-721 CLAIM-758 TERM-tmpz28l1 CASE-tmpo8bsc CASE-tmp95f8e THEORY-148 LIT-tmpcsjt5 LIT-tmp4dpn8 LIT-717 LIT-732 LIT-1228 THEORY-151 CLAIM-tmpiwxla ADR-tmpsfjxu TERM-118 — Proposed, Deferred, Unavailable or Unfetched; filed or cited in the filing of 2026-11-23 (U26 to U32) -->
+<!-- inactive-ok-file: ARG-tmpqg2tg CLAIM-615 CLAIM-tmp812ex CLAIM-tmpchkck CLAIM-tmpfc364 CLAIM-tmpgt4a6 CLAIM-tmph9g28 CLAIM-tmpjk3nm CLAIM-tmpm58vk CLAIM-tmpq1usu CLAIM-tmprkpq5 CLAIM-tmpuzk5o TERM-tmp7kf60 CLAIM-tmp61i14 CLAIM-tmp2oloi CLAIM-tmp62ldm ARG-tmpo1l8y CLAIM-tmp11j0f CLAIM-tmpep410 CLAIM-tmp8nzk0 CLAIM-tmp9in65 CLAIM-tmpt8pvt CLAIM-tmp9o6yv CLAIM-tmpx030o CLAIM-tmpq4crr CLAIM-tmp2dr12 CLAIM-tmpzbytm CLAIM-tmpagnsw ARG-tmpzaupx CASE-tmp0nsah CLAIM-tmp1m3ba CLAIM-tmpoexcl CLAIM-tmpy25jo CLAIM-tmp104zk CLAIM-tmpumpxw CLAIM-tmp4u0mj CLAIM-tmpbt43r CLAIM-tmp04pr7 CLAIM-tmpjg4h2 CLAIM-tmpn8j1j CLAIM-tmp3l7is CLAIM-tmpjvllb CLAIM-tmplxi60 CASE-tmp1ptqp CLAIM-tmp2enpa CLAIM-tmpx0wv9 CLAIM-tmpj15c6 ARG-tmp7xi5t TERM-tmpace0k TERM-tmpdk711 CLAIM-tmp6ik2v CLAIM-tmp6thmv TERM-tmp9lu6c CLAIM-tmp7iie0 ARG-tmpbchnj ARG-tmpdnptq TERM-tmpqixg8 CASE-tmp5b6rr CLAIM-721 CLAIM-758 CASE-tmpo8bsc CASE-tmp95f8e THEORY-148 LIT-tmpcsjt5 LIT-tmp4dpn8 LIT-717 LIT-732 LIT-1228 THEORY-151 CLAIM-tmpiwxla ADR-tmpsfjxu TERM-118 — Proposed, Deferred, Unavailable or Unfetched; filed or cited in the filing of 2026-11-23 (U26 to U32) -->
 
 # SYNTHESIS-tmp4zamw: The argument filed from the exchange Explain First Contact RL, mapped: A's thesis about selves, revised six times at the owner's prompts, moves from a self whose decomposition is relative to affordable tests to unity without singularity, ecological integration and a measure-valued organization; its last version is a recap of the one before; beside it run threads on adaptive interfaces, governed records and flow, teams as pseudo-selves, regulation as the governance of what is jointly possible, and, in the fourth share, inquiry as a joint relation of questions and answers under shared resources and permission, maintained perspectives, and diversity as evidence of richness, which A's article restates
 
@@ -382,98 +382,98 @@ share).**
   [CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md).
 
 **The game between queries and targets (U26, A50; fourth share).**
-- **The owner's thesis**, at U26, is CLAIM-tmp61i14 (Proposed): the
+- **The owner's thesis**, at U26, is [CLAIM-tmp61i14](../claims.d/CLAIM-tmp61i14.md) (Proposed): the
   organization of possibility treated as a game between queries and targets.
 - **A50's account**, each A's and Proposed:
-  - CLAIM-tmp2oloi: queries met by realizations, as a robust interrogation
+  - [CLAIM-tmp2oloi](../claims.d/CLAIM-tmp2oloi.md): queries met by realizations, as a robust interrogation
     game with diagnostic, adversarial and developmental forms that are not
-    interchangeable. It rests on CLAIM-470.
-  - CLAIM-tmp11j0f: adaptability lost by two routes, losing answers or
+    interchangeable. It rests on [CLAIM-470](../claims.d/CLAIM-470.md).
+  - [CLAIM-tmp11j0f](../claims.d/CLAIM-tmp11j0f.md): adaptability lost by two routes, losing answers or
     losing the ability to ask, the second the harder to detect.
-  - CLAIM-tmpep410 (demonstrated): a response and its co-adapting standard
+  - [CLAIM-tmpep410](../claims.d/CLAIM-tmpep410.md) (demonstrated): a response and its co-adapting standard
     converge to a point fixed by their initial conditions; an anchor to an
     independent target makes that target the equilibrium.
-  - CLAIM-tmp9in65: a regulatory equilibrium may be the stabilization of a
+  - [CLAIM-tmp9in65](../claims.d/CLAIM-tmp9in65.md): a regulatory equilibrium may be the stabilization of a
     mutually reinforcing question–answer relation. It rests on
-    CLAIM-tmpep410.
-  - CLAIM-tmp9o6yv: the query-induced capability trap.
-  - CLAIM-tmpx030o: A50's revised thesis, the viable co-development of
-    inquiry and response capacities. It rests on CLAIM-tmp11j0f and
-    CLAIM-tmp9in65 and complements CLAIM-tmpcag0t and CLAIM-tmptfpf7.
-- **The assistant's fills**, each Proposed: CLAIM-tmp62ldm, with
-  ARG-tmpo1l8y, that it is a game only when one prepared policy serves
+    [CLAIM-tmpep410](../claims.d/CLAIM-tmpep410.md).
+  - [CLAIM-tmp9o6yv](../claims.d/CLAIM-tmp9o6yv.md): the query-induced capability trap.
+  - [CLAIM-tmpx030o](../claims.d/CLAIM-tmpx030o.md): A50's revised thesis, the viable co-development of
+    inquiry and response capacities. It rests on [CLAIM-tmp11j0f](../claims.d/CLAIM-tmp11j0f.md) and
+    [CLAIM-tmp9in65](../claims.d/CLAIM-tmp9in65.md) and complements [CLAIM-tmpcag0t](../claims.d/CLAIM-tmpcag0t.md) and [CLAIM-tmptfpf7](../claims.d/CLAIM-tmptfpf7.md).
+- **The assistant's fills**, each Proposed: [CLAIM-tmp62ldm](../claims.d/CLAIM-tmp62ldm.md), with
+  [ARG-tmpo1l8y](../arguments.d/ARG-tmpo1l8y.md), that it is a game only when one prepared policy serves
   several queries or the permitted query distributions are restricted;
-  CLAIM-tmp8nzk0, that a weakly anchored standard shows near-perfect measured
-  compliance long before the response is adequate; CLAIM-tmpt8pvt, a
-  correction to A50 §6; QUESTION-tmpn4we1 (Open), the payoff and equilibrium
-  concept of the non-adversarial forms; and LEAD-tmp6gz07 (Open), a model of
+  [CLAIM-tmp8nzk0](../claims.d/CLAIM-tmp8nzk0.md), that a weakly anchored standard shows near-perfect measured
+  compliance long before the response is adequate; [CLAIM-tmpt8pvt](../claims.d/CLAIM-tmpt8pvt.md), a
+  correction to A50 §6; [QUESTION-tmpn4we1](../questions.d/QUESTION-tmpn4we1.md) (Open), the payoff and equilibrium
+  concept of the non-adversarial forms; and [LEAD-tmp6gz07](../leads.d/LEAD-tmp6gz07.md) (Open), a model of
   the trap.
 
 **Shared time, depth of inquiry and maintained nuclei (U27, U28; A52, A54).**
 - **The owner's.** U27's question, whether asking and answering compete
   for related resources or their coupling through time is already shown, is
-  QUESTION-tmp3cft4 (Open). U28's underling who must justify an idea to a
-  manager is CASE-tmp0nsah, and its conjecture, persisted perspectives as
+  [QUESTION-tmp3cft4](../questions.d/QUESTION-tmp3cft4.md) (Open). U28's underling who must justify an idea to a
+  manager is [CASE-tmp0nsah](../cases.d/CASE-tmp0nsah.md), and its conjecture, persisted perspectives as
   "conceptual nucleation sites" for parallel inquiry in depth, is
-  CLAIM-tmp1m3ba. Both Proposed.
-- **A52's answer**, each A's and Proposed: CLAIM-tmpq4crr (demonstrated),
+  [CLAIM-tmp1m3ba](../claims.d/CLAIM-tmp1m3ba.md). Both Proposed.
+- **A52's answer**, each A's and Proposed: [CLAIM-tmpq4crr](../claims.d/CLAIM-tmpq4crr.md) (demonstrated),
   that being bounded does not make two activities compete, and a common
   budget, bottleneck or sequential dependence supplies the coupling;
-  CLAIM-tmp2dr12 (demonstrated), the interior optimum of inquiry depth under
-  a deadline; CLAIM-tmpagnsw, governance as intertemporal allocation, with
-  slow modes amortizing inquiry, whose support from CLAIM-475 and CLAIM-761
-  is ARG-tmpzaupx (the assistant's).
-- **A54's answer**, each A's and Proposed: CLAIM-tmpoexcl, a maintained
+  [CLAIM-tmp2dr12](../claims.d/CLAIM-tmp2dr12.md) (demonstrated), the interior optimum of inquiry depth under
+  a deadline; [CLAIM-tmpagnsw](../claims.d/CLAIM-tmpagnsw.md), governance as intertemporal allocation, with
+  slow modes amortizing inquiry, whose support from [CLAIM-475](../claims.d/CLAIM-475.md) and [CLAIM-761](../claims.d/CLAIM-761.md)
+  is [ARG-tmpzaupx](../arguments.d/ARG-tmpzaupx.md) (the assistant's).
+- **A54's answer**, each A's and Proposed: [CLAIM-tmpoexcl](../claims.d/CLAIM-tmpoexcl.md), a maintained
   nucleus set apart from an archive and from active inquiry, resting on
-  CLAIM-tmp1m3ba; CLAIM-tmp104zk, parallel routes valuable insofar as their
-  failures are independent; CLAIM-tmpumpxw, adaptive governance as the
+  [CLAIM-tmp1m3ba](../claims.d/CLAIM-tmp1m3ba.md); [CLAIM-tmp104zk](../claims.d/CLAIM-tmp104zk.md), parallel routes valuable insofar as their
+  failures are independent; [CLAIM-tmpumpxw](../claims.d/CLAIM-tmpumpxw.md), adaptive governance as the
   maintenance of an ecology of inquiry-and-response capacities, resting on
-  CLAIM-tmp1m3ba, CLAIM-tmpoexcl, CLAIM-tmp104zk and CLAIM-418.
+  [CLAIM-tmp1m3ba](../claims.d/CLAIM-tmp1m3ba.md), [CLAIM-tmpoexcl](../claims.d/CLAIM-tmpoexcl.md), [CLAIM-tmp104zk](../claims.d/CLAIM-tmp104zk.md) and [CLAIM-418](../claims.d/CLAIM-418.md).
 - **The assistant's fills**, each Proposed and demonstrated:
-  CLAIM-tmpzbytm, when a longer deadline can make a shallower inquiry best;
-  CLAIM-tmp4u0mj, the bounds the separate frontiers give on what can be
-  jointly posed and answered, its inner bound qualified by CLAIM-tmpj15c6's
-  construction 4; CLAIM-tmpy25jo, the cost of holding nuclei ready and when
+  [CLAIM-tmpzbytm](../claims.d/CLAIM-tmpzbytm.md), when a longer deadline can make a shallower inquiry best;
+  [CLAIM-tmp4u0mj](../claims.d/CLAIM-tmp4u0mj.md), the bounds the separate frontiers give on what can be
+  jointly posed and answered, its inner bound qualified by [CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md)'s
+  construction 4; [CLAIM-tmpy25jo](../claims.d/CLAIM-tmpy25jo.md), the cost of holding nuclei ready and when
   restored funding fails to restore one.
 
 **Permission, legibility and the joint inquiry frontier (U29, U30; A56, A58).**
-- **The owner's theses**, each Proposed: at U29, CLAIM-tmpbt43r, that
+- **The owner's theses**, each Proposed: at U29, [CLAIM-tmpbt43r](../claims.d/CLAIM-tmpbt43r.md), that
   asking permission is resource bounded, which ties the record's inquiry
-  under deadlines to its legibility program; at U30, CLAIM-tmp2enpa, that
+  under deadlines to its legibility program; at U30, [CLAIM-tmp2enpa](../claims.d/CLAIM-tmp2enpa.md), that
   the inquiry frontier should include an answer frontier.
-- **A56's account**, each A's and Proposed: CLAIM-tmp04pr7, permission as a
-  second-order query; CLAIM-tmpjg4h2, the legibility tax and who pays it;
-  CLAIM-tmpn8j1j, the circle between evidence and permission, which adds to
-  CLAIM-406 and CLAIM-721 its unit, a proposal, and an evidential rather
-  than normative conclusion (its note of 2026-11-23); CLAIM-tmpjvllb,
-  perspectives as alternative legibility regimes; CLAIM-tmplxi60, the
-  closing thesis, resting on those four; CASE-tmp1ptqp, a proposed study.
-- **A58's account**, A's and Proposed: CLAIM-tmpx0wv9 (demonstrated, by the
-  shared budget as checked in CLAIM-tmpj15c6), that inquiry fails at three
+- **A56's account**, each A's and Proposed: [CLAIM-tmp04pr7](../claims.d/CLAIM-tmp04pr7.md), permission as a
+  second-order query; [CLAIM-tmpjg4h2](../claims.d/CLAIM-tmpjg4h2.md), the legibility tax and who pays it;
+  [CLAIM-tmpn8j1j](../claims.d/CLAIM-tmpn8j1j.md), the circle between evidence and permission, which adds to
+  [CLAIM-406](../claims.d/CLAIM-406.md) and [CLAIM-721](../claims.d/CLAIM-721.md) its unit, a proposal, and an evidential rather
+  than normative conclusion (its note of 2026-11-23); [CLAIM-tmpjvllb](../claims.d/CLAIM-tmpjvllb.md),
+  perspectives as alternative legibility regimes; [CLAIM-tmplxi60](../claims.d/CLAIM-tmplxi60.md), the
+  closing thesis, resting on those four; [CASE-tmp1ptqp](../cases.d/CASE-tmp1ptqp.md), a proposed study.
+- **A58's account**, A's and Proposed: [CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md) (demonstrated, by the
+  shared budget as checked in [CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md)), that inquiry fails at three
   sites, the third, joint realizability, not reducible to the others; and
-  TERM-tmpace0k, A58's revision of TERM-092 to the joint object,
+  [TERM-tmpace0k](../terms.d/TERM-tmpace0k.md), A58's revision of [TERM-092](../terms.d/TERM-092.md) to the joint object,
   alternative (a).
-- **The assistant's fills**, each Proposed: CLAIM-tmpj15c6 (demonstrated),
-  with ARG-tmp7xi5t, what the irreducibility rests on; CLAIM-tmp3l7is, that
+- **The assistant's fills**, each Proposed: [CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md) (demonstrated),
+  with [ARG-tmp7xi5t](../arguments.d/ARG-tmp7xi5t.md), what the irreducibility rests on; [CLAIM-tmp3l7is](../claims.d/CLAIM-tmp3l7is.md), that
   the remedies for the circle change the unit of authorization;
-  TERM-tmpdk711, the joint frontier named beside an unchanged TERM-092,
-  alternative (b). TERM-092 (Active) is unchanged; choosing between (a) and
+  [TERM-tmpdk711](../terms.d/TERM-tmpdk711.md), the joint frontier named beside an unchanged [TERM-092](../terms.d/TERM-092.md),
+  alternative (b). [TERM-092](../terms.d/TERM-092.md) (Active) is unchanged; choosing between (a) and
   (b) is the owner's.
 
 **Diversity and richness (U31, A60).**
-- **The owner's thesis**, at U31, is CLAIM-tmp6ik2v (Proposed): diversity is
+- **The owner's thesis**, at U31, is [CLAIM-tmp6ik2v](../claims.d/CLAIM-tmp6ik2v.md) (Proposed): diversity is
   generally an accurate measure of an ecosystem's richness, and these ideas
   explain why.
-- **A60's answer**, A's and Proposed: CLAIM-tmp6thmv, diversity of
+- **A60's answer**, A's and Proposed: [CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md), diversity of
   consequential capabilities as a generally informative proxy, stated in
-  TERM-tmp9lu6c's richness.
-- **The assistant's fills**, each Proposed or Open: CLAIM-tmp7iie0
-  (demonstrated) and ARG-tmpbchnj, that A60's coverage model supports the
+  [TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md)'s richness.
+- **The assistant's fills**, each Proposed or Open: [CLAIM-tmp7iie0](../claims.d/CLAIM-tmp7iie0.md)
+  (demonstrated) and [ARG-tmpbchnj](../arguments.d/ARG-tmpbchnj.md), that A60's coverage model supports the
   claim only under one-at-a-time selection with no shared budget;
-  ARG-tmpdnptq, that by THEORY-148 what should be maintained is capacity,
-  not pursuit; QUESTION-tmpzblpf; LEAD-tmptd829.
-- **Across the groups.** CLAIM-tmp6thmv complements CLAIM-tmp104zk and
-  CLAIM-tmpumpxw; its note of 2026-11-23 says how their senses of
+  [ARG-tmpdnptq](../arguments.d/ARG-tmpdnptq.md), that by [THEORY-148](../theory.d/THEORY-148.md) what should be maintained is capacity,
+  not pursuit; [QUESTION-tmpzblpf](../questions.d/QUESTION-tmpzblpf.md); [LEAD-tmptd829](../leads.d/LEAD-tmptd829.md).
+- **Across the groups.** [CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md) complements [CLAIM-tmp104zk](../claims.d/CLAIM-tmp104zk.md) and
+  [CLAIM-tmpumpxw](../claims.d/CLAIM-tmpumpxw.md); its note of 2026-11-23 says how their senses of
   "distinct" differ.
 
 **The article (U32, A63).** U32: "synthesize the discussion in the form of
@@ -483,43 +483,43 @@ holding them:
 
 | A63 | Held by |
 |---|---|
-| §1, introduction and three contributions | CLAIM-tmpx0wv9; CLAIM-tmp04pr7; CLAIM-tmpumpxw |
-| §2.1, questions as accomplishments | CLAIM-470, CLAIM-475, TERM-095; its expressible, askable and investigable are TERM-092's sets |
-| §2.2, the joint relation | CLAIM-tmpx0wv9, TERM-tmpace0k, TERM-tmpdk711 |
-| §2.3, why it is irreducible | A58 §2's projection argument, which CLAIM-tmpj15c6 finds shows less |
-| §3.1, temporal coupling, depth | CLAIM-tmpq4crr, CLAIM-tmp4u0mj, CLAIM-tmp2dr12, CLAIM-tmpzbytm |
-| §3.2, parallelism and bottlenecks | CLAIM-tmpq4crr, CLAIM-tmp4u0mj, CLAIM-tmpiwxla |
-| §4.1, authority and legibility | CLAIM-tmp04pr7, TERM-064, CLAIM-403, CLAIM-523 |
-| §4.2, authorization as a cost; the circle | CLAIM-tmp04pr7, CLAIM-tmp3l7is, CLAIM-tmpn8j1j |
-| §4.3, power over the shape of inquiry | CLAIM-tmpjg4h2, CLAIM-403, CLAIM-tmp3l7is, CLAIM-tmplxi60 |
-| §5.1, perspectives as stored inquiry | CLAIM-475, CLAIM-761, CLAIM-tmpagnsw, CLAIM-418 |
-| §5.2, stabilization moves work across time | CLAIM-tmpagnsw, ARG-tmpzaupx, CLAIM-tmp11j0f, CLAIM-tmpbzwmr |
-| §5.3, maintaining is not archiving | CLAIM-tmpoexcl, CLAIM-tmpy25jo, CLAIM-463, CLAIM-tmp1m3ba |
-| §5.4, parallel depth pursuit | CLAIM-tmpumpxw, CLAIM-tmpjvllb, CLAIM-403 |
-| §6.1, coverage | CLAIM-tmp6thmv, CLAIM-tmp7iie0, ARG-tmpbchnj, CLAIM-tmp104zk |
-| §6.2, three forms of richness | TERM-tmp9lu6c (A63's "responsive" is A60's "functional") |
-| §6.3, a proxy, not a criterion | CLAIM-tmp6thmv, TERM-tmp9lu6c, CLAIM-tmp7iie0 |
+| §1, introduction and three contributions | [CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md); [CLAIM-tmp04pr7](../claims.d/CLAIM-tmp04pr7.md); [CLAIM-tmpumpxw](../claims.d/CLAIM-tmpumpxw.md) |
+| §2.1, questions as accomplishments | [CLAIM-470](../claims.d/CLAIM-470.md), [CLAIM-475](../claims.d/CLAIM-475.md), [TERM-095](../terms.d/TERM-095.md); its expressible, askable and investigable are [TERM-092](../terms.d/TERM-092.md)'s sets |
+| §2.2, the joint relation | [CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md), [TERM-tmpace0k](../terms.d/TERM-tmpace0k.md), [TERM-tmpdk711](../terms.d/TERM-tmpdk711.md) |
+| §2.3, why it is irreducible | A58 §2's projection argument, which [CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md) finds shows less |
+| §3.1, temporal coupling, depth | [CLAIM-tmpq4crr](../claims.d/CLAIM-tmpq4crr.md), [CLAIM-tmp4u0mj](../claims.d/CLAIM-tmp4u0mj.md), [CLAIM-tmp2dr12](../claims.d/CLAIM-tmp2dr12.md), [CLAIM-tmpzbytm](../claims.d/CLAIM-tmpzbytm.md) |
+| §3.2, parallelism and bottlenecks | [CLAIM-tmpq4crr](../claims.d/CLAIM-tmpq4crr.md), [CLAIM-tmp4u0mj](../claims.d/CLAIM-tmp4u0mj.md), [CLAIM-tmpiwxla](../claims.d/CLAIM-tmpiwxla.md) |
+| §4.1, authority and legibility | [CLAIM-tmp04pr7](../claims.d/CLAIM-tmp04pr7.md), [TERM-064](../terms.d/TERM-064.md), [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-523](../claims.d/CLAIM-523.md) |
+| §4.2, authorization as a cost; the circle | [CLAIM-tmp04pr7](../claims.d/CLAIM-tmp04pr7.md), [CLAIM-tmp3l7is](../claims.d/CLAIM-tmp3l7is.md), [CLAIM-tmpn8j1j](../claims.d/CLAIM-tmpn8j1j.md) |
+| §4.3, power over the shape of inquiry | [CLAIM-tmpjg4h2](../claims.d/CLAIM-tmpjg4h2.md), [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-tmp3l7is](../claims.d/CLAIM-tmp3l7is.md), [CLAIM-tmplxi60](../claims.d/CLAIM-tmplxi60.md) |
+| §5.1, perspectives as stored inquiry | [CLAIM-475](../claims.d/CLAIM-475.md), [CLAIM-761](../claims.d/CLAIM-761.md), [CLAIM-tmpagnsw](../claims.d/CLAIM-tmpagnsw.md), [CLAIM-418](../claims.d/CLAIM-418.md) |
+| §5.2, stabilization moves work across time | [CLAIM-tmpagnsw](../claims.d/CLAIM-tmpagnsw.md), [ARG-tmpzaupx](../arguments.d/ARG-tmpzaupx.md), [CLAIM-tmp11j0f](../claims.d/CLAIM-tmp11j0f.md), [CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md) |
+| §5.3, maintaining is not archiving | [CLAIM-tmpoexcl](../claims.d/CLAIM-tmpoexcl.md), [CLAIM-tmpy25jo](../claims.d/CLAIM-tmpy25jo.md), [CLAIM-463](../claims.d/CLAIM-463.md), [CLAIM-tmp1m3ba](../claims.d/CLAIM-tmp1m3ba.md) |
+| §5.4, parallel depth pursuit | [CLAIM-tmpumpxw](../claims.d/CLAIM-tmpumpxw.md), [CLAIM-tmpjvllb](../claims.d/CLAIM-tmpjvllb.md), [CLAIM-403](../claims.d/CLAIM-403.md) |
+| §6.1, coverage | [CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md), [CLAIM-tmp7iie0](../claims.d/CLAIM-tmp7iie0.md), [ARG-tmpbchnj](../arguments.d/ARG-tmpbchnj.md), [CLAIM-tmp104zk](../claims.d/CLAIM-tmp104zk.md) |
+| §6.2, three forms of richness | [TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md) (A63's "responsive" is A60's "functional") |
+| §6.3, a proxy, not a criterion | [CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md), [TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md), [CLAIM-tmp7iie0](../claims.d/CLAIM-tmp7iie0.md) |
 | §7.1 to §7.5, the literature | below |
-| §8, adaptive epistemic governance | TERM-tmpqixg8 (filed from it); CLAIM-099; its "epistemic overconsolidation" is CLAIM-758 carried to an institution, and CLAIM-tmp9o6yv |
-| §9.1, asking and answering | CLAIM-tmpx0wv9 |
-| §9.2, no maximizing of diversity | CLAIM-tmp6thmv, ARG-tmpdnptq, CLAIM-tmpy25jo |
-| §9.3, standards made endogenous | CLAIM-tmpep410, CLAIM-tmp8nzk0, CLAIM-342, CLAIM-361, CLAIM-727 |
-| §9.4, an empirical test | CASE-tmp5b6rr (filed from it), beside CASE-tmp1ptqp, CASE-tmpo8bsc and CASE-tmp95f8e |
-| §10, conclusion | CLAIM-tmpumpxw, TERM-tmp9lu6c, CLAIM-tmplxi60 |
+| §8, adaptive epistemic governance | [TERM-tmpqixg8](../terms.d/TERM-tmpqixg8.md) (filed from it); [CLAIM-099](../claims.d/CLAIM-099.md); its "epistemic overconsolidation" is [CLAIM-758](../claims.d/CLAIM-758.md) carried to an institution, and [CLAIM-tmp9o6yv](../claims.d/CLAIM-tmp9o6yv.md) |
+| §9.1, asking and answering | [CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md) |
+| §9.2, no maximizing of diversity | [CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md), [ARG-tmpdnptq](../arguments.d/ARG-tmpdnptq.md), [CLAIM-tmpy25jo](../claims.d/CLAIM-tmpy25jo.md) |
+| §9.3, standards made endogenous | [CLAIM-tmpep410](../claims.d/CLAIM-tmpep410.md), [CLAIM-tmp8nzk0](../claims.d/CLAIM-tmp8nzk0.md), [CLAIM-342](../claims.d/CLAIM-342.md), [CLAIM-361](../claims.d/CLAIM-361.md), [CLAIM-727](../claims.d/CLAIM-727.md) |
+| §9.4, an empirical test | [CASE-tmp5b6rr](../cases.d/CASE-tmp5b6rr.md) (filed from it), beside [CASE-tmp1ptqp](../cases.d/CASE-tmp1ptqp.md), [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md) and [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md) |
+| §10, conclusion | [CLAIM-tmpumpxw](../claims.d/CLAIM-tmpumpxw.md), [TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md), [CLAIM-tmplxi60](../claims.d/CLAIM-tmplxi60.md) |
 
-Filed from A63, each A's and Proposed: TERM-tmpqixg8, adaptive inquiry
-readiness, which is TERM-115's readiness for epistemic demands kept up as
-in TERM-tmpz28l1; and CASE-tmp5b6rr, a study of organizations matched on
+Filed from A63, each A's and Proposed: [TERM-tmpqixg8](../terms.d/TERM-tmpqixg8.md), adaptive inquiry
+readiness, which is [TERM-115](../terms.d/TERM-115.md)'s readiness for epistemic demands kept up as
+in [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md); and [CASE-tmp5b6rr](../cases.d/CASE-tmp5b6rr.md), a study of organizations matched on
 familiar inquiries. The rest is held. Its literature: Kitcher 1990
-(LIT-tmpcsjt5) and Andersen 2016 (LIT-tmp4dpn8) are registered Deferred,
-and Massimi's Perspectival Realism (LIT-1228) is Unfetched, so the record
+([LIT-tmpcsjt5](../literature.d/LIT-tmpcsjt5.md)) and Andersen 2016 ([LIT-tmp4dpn8](../literature.d/LIT-tmp4dpn8.md)) are registered Deferred,
+and Massimi's Perspectival Realism ([LIT-1228](../literature.d/LIT-1228.md)) is Unfetched, so the record
 cannot check what A63 says of them; their bibliographic details match the
-entries. Zollman 2010 (LIT-735) is read in THEORY-148, and A63 §7.2's
-account of it matches. Longino's books (LIT-717, LIT-732) are Unavailable;
-the record reads her through THEORY-151, and A63 §7.3's account matches
-that reading. Every code A63 cites exists (CLAIM-470, CLAIM-475, TERM-064,
-TERM-092, TERM-095, CLAIM-277, CLAIM-403, CLAIM-554, CLAIM-523, CLAIM-099),
-and A62's statement that TERM-092 reserves "inquiry frontier" for
+entries. Zollman 2010 ([LIT-735](../literature.d/LIT-735.md)) is read in [THEORY-148](../theory.d/THEORY-148.md), and A63 §7.2's
+account of it matches. Longino's books ([LIT-717](../literature.d/LIT-717.md), [LIT-732](../literature.d/LIT-732.md)) are Unavailable;
+the record reads her through [THEORY-151](../theory.d/THEORY-151.md), and A63 §7.3's account matches
+that reading. Every code A63 cites exists ([CLAIM-470](../claims.d/CLAIM-470.md), [CLAIM-475](../claims.d/CLAIM-475.md), [TERM-064](../terms.d/TERM-064.md),
+[TERM-092](../terms.d/TERM-092.md), [TERM-095](../terms.d/TERM-095.md), [CLAIM-277](../claims.d/CLAIM-277.md), [CLAIM-403](../claims.d/CLAIM-403.md), [CLAIM-554](../claims.d/CLAIM-554.md), [CLAIM-523](../claims.d/CLAIM-523.md), [CLAIM-099](../claims.d/CLAIM-099.md)),
+and A62's statement that [TERM-092](../terms.d/TERM-092.md) reserves "inquiry frontier" for
 askability is right.
 
 ## The branch of 2026-11-23 08:51: intelligence and collective identity
@@ -531,32 +531,32 @@ All its entries are Proposed.
 
 - **U32b, the owner's** "\"intelligence\" as epistemic (ecological)
   richness", is filed in two readings, as alternatives for the owner:
-  identity (CLAIM-tmpm58vk) and understanding through (CLAIM-tmpgt4a6).
+  identity ([CLAIM-tmpm58vk](../claims.d/CLAIM-tmpm58vk.md)) and understanding through ([CLAIM-tmpgt4a6](../claims.d/CLAIM-tmpgt4a6.md)).
 - **A62b** develops the second and objects to the first: intelligence as
   the adaptive organization of richness, so that two systems equally
-  competent today can be unequally intelligent tomorrow (CLAIM-tmph9g28),
+  competent today can be unequally intelligent tomorrow ([CLAIM-tmph9g28](../claims.d/CLAIM-tmph9g28.md)),
   with a definition setting diversity, richness, intelligence and
-  viability apart (TERM-tmp7kf60). Its empirical support is weighed in
-  ARG-tmpqg2tg: weak, and only for diversity as a contributor. The
-  assistant's CLAIM-tmpjk3nm corrects one illustration (under A62b's own
+  viability apart ([TERM-tmp7kf60](../terms.d/TERM-tmp7kf60.md)). Its empirical support is weighed in
+  [ARG-tmpqg2tg](../arguments.d/ARG-tmpqg2tg.md): weak, and only for diversity as a contributor. The
+  assistant's [CLAIM-tmpjk3nm](../claims.d/CLAIM-tmpjk3nm.md) corrects one illustration (under A62b's own
   metric, consistently wrong responses cannot be highly diverse) and leaves
-  the distinction standing. LEAD-tmpps25j designs the test A62b proposes.
+  the distinction standing. [LEAD-tmpps25j](../leads.d/LEAD-tmpps25j.md) designs the test A62b proposes.
 - **U33b, the owner's** collective identity as a sloppy mess of governed
-  perspectives playing a question–answer game (CLAIM-tmpuzk5o), rests on
-  CLAIM-tmpy4mba and CLAIM-tmp61i14. "Sloppy" keeps U6's alternatives.
+  perspectives playing a question–answer game ([CLAIM-tmpuzk5o](../claims.d/CLAIM-tmpuzk5o.md)), rests on
+  [CLAIM-tmpy4mba](../claims.d/CLAIM-tmpy4mba.md) and [CLAIM-tmp61i14](../claims.d/CLAIM-tmp61i14.md). "Sloppy" keeps U6's alternatives.
 - **A64b** places identity in the historically maintained organization of
   the game, its rules of revision included, as a slow mode of the game
-  (CLAIM-tmprkpq5, resting on CLAIM-tmp9in65, CLAIM-615, CLAIM-tmpbzwmr
-  and CLAIM-099); questioning and answering as roles, not fixed players
-  (CLAIM-tmpchkck, bearing on QUESTION-tmpn4we1); a response kernel that
-  includes the state after answering (CLAIM-tmpq1usu), to which the
-  assistant's counter CLAIM-tmpfc364 objects that, compared directly, it
+  ([CLAIM-tmprkpq5](../claims.d/CLAIM-tmprkpq5.md), resting on [CLAIM-tmp9in65](../claims.d/CLAIM-tmp9in65.md), [CLAIM-615](../claims.d/CLAIM-615.md), [CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md)
+  and [CLAIM-099](../claims.d/CLAIM-099.md)); questioning and answering as roles, not fixed players
+  ([CLAIM-tmpchkck](../claims.d/CLAIM-tmpchkck.md), bearing on [QUESTION-tmpn4we1](../questions.d/QUESTION-tmpn4we1.md)); a response kernel that
+  includes the state after answering ([CLAIM-tmpq1usu](../claims.d/CLAIM-tmpq1usu.md)), to which the
+  assistant's counter [CLAIM-tmpfc364](../claims.d/CLAIM-tmpfc364.md) objects that, compared directly, it
   is not observational, and that the bisimulation metric repairs it; and
   criteria for a pseudo-self stronger than a crowd or a controlled ensemble
-  (CLAIM-tmp812ex, bearing on QUESTION-tmp4fkkx).
-- **Not stated on the record:** A64b reaches CLAIM-615's
+  ([CLAIM-tmp812ex](../claims.d/CLAIM-tmp812ex.md), bearing on [QUESTION-tmp4fkkx](../questions.d/QUESTION-tmp4fkkx.md)).
+- **Not stated on the record:** A64b reaches [CLAIM-615](../claims.d/CLAIM-615.md)'s
   historical-structuralist criterion without citing it; the link is
-  recorded in CLAIM-tmprkpq5 and a note on CLAIM-615, not stated by A64b.
+  recorded in [CLAIM-tmprkpq5](../claims.d/CLAIM-tmprkpq5.md) and a note on [CLAIM-615](../claims.d/CLAIM-615.md), not stated by A64b.
 
 ## The account
 
@@ -620,54 +620,54 @@ link is attributed to the entry that states it.
    ([CLAIM-tmpm985y](../claims.d/CLAIM-tmpm985y.md)), whose response spectrum, and the capacity to retune
    it, are objects of governance ([CLAIM-tmpcag0t](../claims.d/CLAIM-tmpcag0t.md)).
 11. **The game between queries and targets.** On the owner's proposal
-   (CLAIM-tmp61i14), what an organization can be asked and what it can
-   answer form a robust interrogation game (CLAIM-tmp2oloi), strategic only
+   ([CLAIM-tmp61i14](../claims.d/CLAIM-tmp61i14.md)), what an organization can be asked and what it can
+   answer form a robust interrogation game ([CLAIM-tmp2oloi](../claims.d/CLAIM-tmp2oloi.md)), strategic only
    when one prepared policy must serve several queries or the queries are
-   restricted (CLAIM-tmp62ldm). A standard that adapts to the response it
+   restricted ([CLAIM-tmp62ldm](../claims.d/CLAIM-tmp62ldm.md)). A standard that adapts to the response it
    judges converges with it to a point set by where they began
-   (CLAIM-tmpep410), and a weak anchor buys measured compliance before
-   adequacy (CLAIM-tmp8nzk0). So an equilibrium may be a stabilized
-   question–answer relation (CLAIM-tmp9in65); an organization can lose the
-   ability to ask as well as to answer (CLAIM-tmp11j0f), and routine queries
-   can trap it (CLAIM-tmp9o6yv). A50's revised thesis puts regulation's task
-   as the co-development of both capacities (CLAIM-tmpx030o).
+   ([CLAIM-tmpep410](../claims.d/CLAIM-tmpep410.md)), and a weak anchor buys measured compliance before
+   adequacy ([CLAIM-tmp8nzk0](../claims.d/CLAIM-tmp8nzk0.md)). So an equilibrium may be a stabilized
+   question–answer relation ([CLAIM-tmp9in65](../claims.d/CLAIM-tmp9in65.md)); an organization can lose the
+   ability to ask as well as to answer ([CLAIM-tmp11j0f](../claims.d/CLAIM-tmp11j0f.md)), and routine queries
+   can trap it ([CLAIM-tmp9o6yv](../claims.d/CLAIM-tmp9o6yv.md)). A50's revised thesis puts regulation's task
+   as the co-development of both capacities ([CLAIM-tmpx030o](../claims.d/CLAIM-tmpx030o.md)).
 12. **Asking and answering are coupled through resources.** Being bounded
    does not make them compete; a common budget, bottleneck or sequential
-   dependence does (CLAIM-tmpq4crr). Under a shared deadline the best depth
-   of inquiry is interior (CLAIM-tmp2dr12), and need not grow with the
-   deadline (CLAIM-tmpzbytm).
+   dependence does ([CLAIM-tmpq4crr](../claims.d/CLAIM-tmpq4crr.md)). Under a shared deadline the best depth
+   of inquiry is interior ([CLAIM-tmp2dr12](../claims.d/CLAIM-tmp2dr12.md)), and need not grow with the
+   deadline ([CLAIM-tmpzbytm](../claims.d/CLAIM-tmpzbytm.md)).
 13. **Joint realizability.** Inquiry fails at three sites, the third not
-   reducible to the first two (CLAIM-tmpx0wv9). The separate frontiers
-   bound what is jointly attainable (CLAIM-tmp4u0mj). At one budget they do
+   reducible to the first two ([CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md)). The separate frontiers
+   bound what is jointly attainable ([CLAIM-tmp4u0mj](../claims.d/CLAIM-tmp4u0mj.md)). At one budget they do
    not fix it; over all budgets they do under a declared composition rule,
    except where how a question is posed changes what answering it costs
-   (CLAIM-tmpj15c6, ARG-tmp7xi5t). That exception also limits
-   CLAIM-tmp4u0mj's inner bound. The owner's U30 (CLAIM-tmp2enpa) asks the
-   record to name the joint object; TERM-tmpace0k and TERM-tmpdk711 are the
+   ([CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md), [ARG-tmp7xi5t](../arguments.d/ARG-tmp7xi5t.md)). That exception also limits
+   [CLAIM-tmp4u0mj](../claims.d/CLAIM-tmp4u0mj.md)'s inner bound. The owner's U30 ([CLAIM-tmp2enpa](../claims.d/CLAIM-tmp2enpa.md)) asks the
+   record to name the joint object; [TERM-tmpace0k](../terms.d/TERM-tmpace0k.md) and [TERM-tmpdk711](../terms.d/TERM-tmpdk711.md) are the
    two ways.
-14. **Permission.** Asking permission is resource bounded (CLAIM-tmpbt43r,
-   the owner's). It is a second-order query (CLAIM-tmp04pr7). Who pays to
-   make a proposal legible steers inquiry (CLAIM-tmpjg4h2). Where evidence
+14. **Permission.** Asking permission is resource bounded ([CLAIM-tmpbt43r](../claims.d/CLAIM-tmpbt43r.md),
+   the owner's). It is a second-order query ([CLAIM-tmp04pr7](../claims.d/CLAIM-tmp04pr7.md)). Who pays to
+   make a proposal legible steers inquiry ([CLAIM-tmpjg4h2](../claims.d/CLAIM-tmpjg4h2.md)). Where evidence
    needs the permission it would justify, failing to persuade is weak
-   evidence against a possibility (CLAIM-tmpn8j1j), and the remedies work by
-   changing the unit of authorization (CLAIM-tmp3l7is). Perspectives are
-   alternative legibility regimes (CLAIM-tmpjvllb). Hence A56's thesis
-   (CLAIM-tmplxi60).
-15. **Maintained perspectives.** On the owner's conjecture (CLAIM-tmp1m3ba),
+   evidence against a possibility ([CLAIM-tmpn8j1j](../claims.d/CLAIM-tmpn8j1j.md)), and the remedies work by
+   changing the unit of authorization ([CLAIM-tmp3l7is](../claims.d/CLAIM-tmp3l7is.md)). Perspectives are
+   alternative legibility regimes ([CLAIM-tmpjvllb](../claims.d/CLAIM-tmpjvllb.md)). Hence A56's thesis
+   ([CLAIM-tmplxi60](../claims.d/CLAIM-tmplxi60.md)).
+15. **Maintained perspectives.** On the owner's conjecture ([CLAIM-tmp1m3ba](../claims.d/CLAIM-tmp1m3ba.md)),
    a maintained nucleus differs from an archive and from active inquiry
-   (CLAIM-tmpoexcl). Holding one ready costs in proportion to its decay
-   (CLAIM-tmpy25jo). Parallel routes help insofar as their failures are
-   independent (CLAIM-tmp104zk). Slow modes amortize inquiry
-   (CLAIM-tmpagnsw, ARG-tmpzaupx). On A54's thesis, adaptive governance
-   maintains this ecology (CLAIM-tmpumpxw), and on A63's, readiness for a
+   ([CLAIM-tmpoexcl](../claims.d/CLAIM-tmpoexcl.md)). Holding one ready costs in proportion to its decay
+   ([CLAIM-tmpy25jo](../claims.d/CLAIM-tmpy25jo.md)). Parallel routes help insofar as their failures are
+   independent ([CLAIM-tmp104zk](../claims.d/CLAIM-tmp104zk.md)). Slow modes amortize inquiry
+   ([CLAIM-tmpagnsw](../claims.d/CLAIM-tmpagnsw.md), [ARG-tmpzaupx](../arguments.d/ARG-tmpzaupx.md)). On A54's thesis, adaptive governance
+   maintains this ecology ([CLAIM-tmpumpxw](../claims.d/CLAIM-tmpumpxw.md)), and on A63's, readiness for a
    declared family of epistemic demands is what it maintains
-   (TERM-tmpqixg8).
-16. **Diversity and richness.** On the owner's thesis (CLAIM-tmp6ik2v),
+   ([TERM-tmpqixg8](../terms.d/TERM-tmpqixg8.md)).
+16. **Diversity and richness.** On the owner's thesis ([CLAIM-tmp6ik2v](../claims.d/CLAIM-tmp6ik2v.md)),
    diversity of consequential capabilities is a generally informative proxy
-   for richness (CLAIM-tmp6thmv, in TERM-tmp9lu6c's sense). The coverage
+   for richness ([CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md), in [TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md)'s sense). The coverage
    model supports it only under one-at-a-time selection with no shared
-   budget (CLAIM-tmp7iie0, ARG-tmpbchnj), and what should be maintained is
-   capacity, not pursuit (ARG-tmpdnptq).
+   budget ([CLAIM-tmp7iie0](../claims.d/CLAIM-tmp7iie0.md), [ARG-tmpbchnj](../arguments.d/ARG-tmpbchnj.md)), and what should be maintained is
+   capacity, not pursuit ([ARG-tmpdnptq](../arguments.d/ARG-tmpdnptq.md)).
 
 ## How the account developed
 
@@ -701,7 +701,7 @@ tension between identity stabilization and adaptability; in the fourth
 share, U26's game, U28's case and conjecture, U29's cost of asking
 permission, U30's answer frontier and U31's diversity as a measure of
 richness. U8's and U27's questions are also the owner's. U24 and U25 asked
-for the article that is the work governance-of-possibility (ADR-tmpsfjxu);
+for the article that is the work governance-of-possibility ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md));
 U32 asked for A63, mapped above and filed only where it adds.
 
 ## Not stated on the record
@@ -730,23 +730,23 @@ Each of these links A asserted. No component states it.
 - **A63 §2.3's "simple formal reason" (from A58 §2).** That two relations
   with the same projections differ is offered as why "an epistemic
   community's capacity for inquiry is not determined by an inventory of its
-  questions and an inventory of its answers". CLAIM-tmpj15c6 finds that the
+  questions and an inventory of its answers". [CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md) finds that the
   argument reaches only unindexed projections; an answer frontier indexed
   by question tells A58's pair apart. What carries the conclusion on the
-  record is the shared budget (CLAIM-tmpj15c6, CLAIM-tmp4u0mj), which the
+  record is the shared budget ([CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md), [CLAIM-tmp4u0mj](../claims.d/CLAIM-tmp4u0mj.md)), which the
   article gives only as an example in §3.1.
-- **"Authorizing the work", cited to CLAIM-403 and CLAIM-523 (A63 §4.1).**
-  CLAIM-403 separates admission, recognition, credibility, uptake and a part
-  in revising the standards of uptake; CLAIM-523 legibility, volitional
+- **"Authorizing the work", cited to [CLAIM-403](../claims.d/CLAIM-403.md) and [CLAIM-523](../claims.d/CLAIM-523.md) (A63 §4.1).**
+  [CLAIM-403](../claims.d/CLAIM-403.md) separates admission, recognition, credibility, uptake and a part
+  in revising the standards of uptake; [CLAIM-523](../claims.d/CLAIM-523.md) legibility, volitional
   efficacy and correctability. Authorization to investigate is
-  CLAIM-tmp04pr7's, filed from A56. An attribution finding.
+  [CLAIM-tmp04pr7](../claims.d/CLAIM-tmp04pr7.md)'s, filed from A56. An attribution finding.
 - **A63 §7.1, §7.4 and §7.5: the account as extending Kitcher, Massimi and
   Andersen.** The record holds no reading of these works, so no component
   states the extensions.
 - **A63 §7.2's "additional reason" for persistence.** It runs maintained
   capacity and diversity of pursuit together: "the duration of diversity
-  consequential for two reasons". THEORY-148 values transient pursuit, and
-  ARG-tmpdnptq separates the two; no component states that Zollman's
+  consequential for two reasons". [THEORY-148](../theory.d/THEORY-148.md) values transient pursuit, and
+  [ARG-tmpdnptq](../arguments.d/ARG-tmpdnptq.md) separates the two; no component states that Zollman's
   result supports keeping capacity.
 - **A63 §1: that the framework connects social epistemology, scientific
   perspectivism and the division of cognitive labor.** A label; no entry
@@ -757,7 +757,7 @@ Each of these links A asserted. No component states it.
 It does not say that any version of the self thesis is true, that a team
 or an industrial ecosystem is a self, or that Luria makes its
 collaborators converge or not. It does not say that diversity measures
-richness, that TERM-092 should be revised or kept, or that any organization
+richness, that [TERM-092](../terms.d/TERM-092.md) should be revised or kept, or that any organization
 is ready for inquiry it has not met. Each of these is an open claim,
 question or lead above.
 

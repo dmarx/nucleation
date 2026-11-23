@@ -25,8 +25,8 @@ summary: >-
   the whole turn, "intelligence" as epistemic (ecological) richness. Filed in the
   reading that takes "as" for "understood through": intelligence belongs to
   an ecology of inquiry and is accounted for by its richness, without being
-  identical to it. The alternative, identity, is CLAIM-tmpm58vk. A62b
-  develops this reading (CLAIM-tmph9g28). The owner chooses. The owner's.
+  identical to it. The alternative, identity, is [CLAIM-tmpm58vk](CLAIM-tmpm58vk.md). A62b
+  develops this reading ([CLAIM-tmph9g28](CLAIM-tmph9g28.md)). The owner chooses. The owner's.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmph9g28 CLAIM-tmpm58vk TERM-tmp9lu6c THEORY-092 THEORY-402 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
@@ -35,12 +35,12 @@ summary: >-
 
 ## The claim
 
-The owner's words, at U32b: the whole turn, "intelligence" as epistemic (ecological) richness. In this reading the phrase moves where intelligence is located, not what it equals. It belongs to an ecology of perspectives that ask and answer, and an organization's intelligence is accounted for by the richness of that ecology (TERM-tmp9lu6c), maintained over time, and not by a single solver's success on questions given in advance.
+The owner's words, at U32b: the whole turn, "intelligence" as epistemic (ecological) richness. In this reading the phrase moves where intelligence is located, not what it equals. It belongs to an ecology of perspectives that ask and answer, and an organization's intelligence is accounted for by the richness of that ecology ([TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md)), maintained over time, and not by a single solver's success on questions given in advance.
 
 ## Alternatives
 
-Filed beside CLAIM-tmpm58vk, which reads "as" as identity. A62b took this reading. Its opening: "I think this reframes intelligence from the performance of a single problem-solver to the richness of an ecology of inquiry" (A61b), and its account, CLAIM-tmph9g28, `complements` this entry. The owner chooses which reading was meant.
+Filed beside [CLAIM-tmpm58vk](CLAIM-tmpm58vk.md), which reads "as" as identity. A62b took this reading. Its opening: "I think this reframes intelligence from the performance of a single problem-solver to the richness of an ecology of inquiry" (A61b), and its account, [CLAIM-tmph9g28](CLAIM-tmph9g28.md), `complements` this entry. The owner chooses which reading was meant.
 
 ## Where the record already is
 
-The record holds pieces of it without an entry that assembles them. THEORY-402 reads collective intelligence as resource-bounded computation spread over autonomous members. NOTE-339 reads the Society of Mind as a theory of organisation: intelligence "comes from the diversity of many specialised processes and from how they are managed". THEORY-092 holds that behavioural capacity does not fix intelligence, for a different reason (how behaviour is produced). None of them says that richness, in the ecological sense, is what to look at.
+The record holds pieces of it without an entry that assembles them. [THEORY-402](../theory.d/THEORY-402.md) reads collective intelligence as resource-bounded computation spread over autonomous members. [NOTE-339](../notes.d/NOTE-339.md) reads the Society of Mind as a theory of organisation: intelligence "comes from the diversity of many specialised processes and from how they are managed". [THEORY-092](../theory.d/THEORY-092.md) holds that behavioural capacity does not fix intelligence, for a different reason (how behaviour is produced). None of them says that richness, in the ecological sense, is what to look at.
