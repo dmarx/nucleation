@@ -1,0 +1,74 @@
+---
+status: Skimmed
+paper: LIT-tmp7hzxw
+title: 'Cassidy — X-MEN: THE LAST STAND Writer Reveals Infamous "Juggernaut, B*tch" Line Was Not In His Shooting Script'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Read on 2026-11-23 by the lead run of that date from the article page
+    on comicbookmovie.com (a free web page), first through the session's
+    fetch tool and then from the page's HTML, downloaded to the session
+    scratchpad and not committed. Read: the article's text on the line and
+    on Kinberg's interview, quoted below and checked verbatim against the
+    HTML. Skimmed: the rest of the Kinberg quotation, on Matthew Vaughn's
+    plans. The Polygon interview it reports was refused by the session's
+    fetch tool the same day and not read.
+date: '2026-11-23'
+summary: >-
+  Journalism, reporting Simon Kinberg's 2023 interview with Polygon: the
+  Juggernaut exchange was not in the shooting script he wrote with Zak
+  Penn; "The real [story] on that is that was a reshoot Ratner line."
+  The writer says the line was "inspired by a parody dub video"; that tie
+  is his, not Kinberg's.
+---
+
+# NOTE-tmpubj66: Cassidy — X-MEN: THE LAST STAND Writer Reveals Infamous "Juggernaut, B*tch" Line Was Not In His Shooting Script
+
+## Contribution
+
+The fuller form of the co-writer's remark that LIT-1142 quotes in part,
+with its context: not in the shooting script, added by the director
+after principal photography.
+
+## Key insight
+
+The writer's testimony dates and attributes the line but does not give
+its source. The article's tie to the redub is the journalist's.
+
+## Assumptions
+
+- A report of another outlet's interview; the Polygon original was not
+  read.
+
+## Key results
+
+- "Kinberg confirmed that director Brett Ratner added the line after
+  principal photography had already wrapped: "The real [story] on that is
+  that was a reshoot Ratner line.""
+- The exchange "as not in the original script he wrote with Zak Penn"
+  (sic) and "wasn't actually part of the final script he submitted with
+  Zak Penn".
+- The writer: "The line was inspired by a parody dub video of the '90s
+  X-Men: The Animated series that was created in 2005 by Randy Hayes and
+  Xavier Nazario". The redub was conceived in 2005 and posted in
+  February 2006 (CASE-100).
+
+## Concepts
+
+None new.
+
+## Bearing on the record
+
+- **CASE-100.** Confirms the timing at second hand: after principal
+  photography. Coded F3 (V2, production reported; no route; T1) and F4
+  (V4, writer's attribution to the redub, no route) in LEAD-188's study.
+  Evidence; noted on the case.
+- **NOTE-1272.** Answers half of its open question: what the Polygon
+  interview said, as reported. It gives no reason for the line.
+- **No ML instruction.**
+
+## Limitations
+
+- Second-hand; the original interview's wording not checked.
