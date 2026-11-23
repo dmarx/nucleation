@@ -117,4 +117,4 @@ the unheeded. The question is unchanged.
 
 ## Note of 2026-11-23: a population result
 
-CASE-tmpw3vii bears on this question. In a population model, dissent kept its place as evidence, with opponents read at chance and by their competence, only when the critic role had a score of its own that did not read agreement. Then no factions and no capture formed, and authority over the decision stayed with each side (CLAIM-tmp5wozo). The price was a shared meaning that follows where competence sits rather than the evidence alone (CLAIM-tmppm30v).
+[CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) bears on this question. In a population model, dissent kept its place as evidence, with opponents read at chance and by their competence, only when the critic role had a score of its own that did not read agreement. Then no factions and no capture formed, and authority over the decision stayed with each side ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)). The price was a shared meaning that follows where competence sits rather than the evidence alone ([CLAIM-tmppm30v](../claims.d/CLAIM-tmppm30v.md)).

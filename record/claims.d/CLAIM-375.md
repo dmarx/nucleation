@@ -134,4 +134,4 @@ point, stated as a construction.
 
 ## Note of 2026-11-23: in a population
 
-In a grant game on 30 populations (CASE-tmpw3vii), operators under this claim's one-hop rule and objective delegated their whole budget, all of it to their own side (CLAIM-tmpdpnid). The gradient this claim's step 2 bounds also ranks allies: a grant's marginal value is proportional to p_j − p*, so operators granted to their side's extremes, not its nearest members (CLAIM-tmpoc6mo). The claim is unchanged.
+In a grant game on 30 populations ([CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md)), operators under this claim's one-hop rule and objective delegated their whole budget, all of it to their own side ([CLAIM-tmpdpnid](CLAIM-tmpdpnid.md)). The gradient this claim's step 2 bounds also ranks allies: a grant's marginal value is proportional to p_j − p*, so operators granted to their side's extremes, not its nearest members ([CLAIM-tmpoc6mo](CLAIM-tmpoc6mo.md)). The claim is unchanged.

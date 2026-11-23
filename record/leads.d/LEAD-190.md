@@ -55,15 +55,15 @@ supports [CLAIM-285](../claims.d/CLAIM-285.md). Their absence defeats each as st
 
 ## Note of 2026-11-23: run
 
-Both comparisons were run as CASE-tmpw3vii, in a population of 20 operators built on CASE-363's model. That model's code was loaded by path and not modified (scratch/studies/lead-190/).
+Both comparisons were run as [CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md), in a population of 20 operators built on [CASE-363](../cases.d/CASE-363.md)'s model. That model's code was loaded by path and not modified (scratch/studies/lead-190/).
 
-- **Role-indexed against scalar grants** (CLAIM-tmp5wozo). Role indexing with the critic role scored by observed relevance left no belief factions and no capture. Scalar grants failed one way or the other: scored by agreement they captured the population or split it into factions, and moved by the reward for realized policy they split it into factions that read only their own side. Role indexing whose critic row is scored by agreement was identical to the scalar scheme. The condition is a closed-form threshold on how far the critic score reads agreement. The cost is CLAIM-tmppm30v: the shared meaning then follows where competence sits.
-- **Bound against unbound operators** (CLAIM-tmpdpnid). Bound operators delegated their whole budget, all of it to their own side, against a chance share of 0.47. Under leave-one-out delegation, the 43% of their authority that travelled two hops or more stayed on their side, and none returned to them. Unbound operators aligned at about chance and recycled 0.15 of a unit each. Within their side, bound operators delegated to its extremes, not its nearest members (CLAIM-tmpoc6mo).
+- **Role-indexed against scalar grants** ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)). Role indexing with the critic role scored by observed relevance left no belief factions and no capture. Scalar grants failed one way or the other: scored by agreement they captured the population or split it into factions, and moved by the reward for realized policy they split it into factions that read only their own side. Role indexing whose critic row is scored by agreement was identical to the scalar scheme. The condition is a closed-form threshold on how far the critic score reads agreement. The cost is [CLAIM-tmppm30v](../claims.d/CLAIM-tmppm30v.md): the shared meaning then follows where competence sits.
+- **Bound against unbound operators** ([CLAIM-tmpdpnid](../claims.d/CLAIM-tmpdpnid.md)). Bound operators delegated their whole budget, all of it to their own side, against a chance share of 0.47. Under leave-one-out delegation, the 43% of their authority that travelled two hops or more stayed on their side, and none returned to them. Unbound operators aligned at about chance and recycled 0.15 of a unit each. Within their side, bound operators delegated to its extremes, not its nearest members ([CLAIM-tmpoc6mo](../claims.d/CLAIM-tmpoc6mo.md)).
 
 What remains for the owner:
 
-- The readings set out in CLAIM-tmp5wozo (whether CLAIM-281's role indexing includes a role-specific score) and in CLAIM-tmpoc6mo (what "aligned" means in CLAIM-285).
-- The statuses of the entries filed and of CLAIM-281 and CLAIM-285.
+- The readings set out in [CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md) (whether [CLAIM-281](../claims.d/CLAIM-281.md)'s role indexing includes a role-specific score) and in [CLAIM-tmpoc6mo](../claims.d/CLAIM-tmpoc6mo.md) (what "aligned" means in [CLAIM-285](../claims.d/CLAIM-285.md)).
+- The statuses of the entries filed and of [CLAIM-281](../claims.d/CLAIM-281.md) and [CLAIM-285](../claims.d/CLAIM-285.md).
 - Whether this lead is done. Its stage and status are unchanged.
 
 Not run: decision rules other than the weighted mean, unbalanced populations, coalitions, relevance observed with error or correlated with side, and more than two roles.

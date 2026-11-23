@@ -164,4 +164,4 @@ The model is built and run as [CASE-363](CASE-363.md), for [LEAD-090](../leads.d
 
 ## Note of 2026-11-23: role-indexed against scalar grants
 
-The comparison the note of 2026-10-16 lists among A14 §9's proposals, role-indexed against scalar grants, has been run in a population built on CASE-363 as CASE-tmpw3vii, for LEAD-190. This case's "independence of evaluation" became the share ζ of the critic score that reads agreement. Factions and capture stay out while gζσ²/2 < 1 − φ′ − φ_s′ (CLAIM-tmp5wozo). The design is unchanged.
+The comparison the note of 2026-10-16 lists among A14 §9's proposals, role-indexed against scalar grants, has been run in a population built on [CASE-363](CASE-363.md) as [CASE-tmpw3vii](CASE-tmpw3vii.md), for [LEAD-190](../leads.d/LEAD-190.md). This case's "independence of evaluation" became the share ζ of the critic score that reads agreement. Factions and capture stay out while gζσ²/2 < 1 − φ′ − φ_s′ ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)). The design is unchanged.

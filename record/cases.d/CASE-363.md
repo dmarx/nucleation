@@ -99,4 +99,4 @@ That [CASE-092](CASE-092.md), reduced to its mean field with two specialists and
 
 ## Note of 2026-11-23: a population of these readers
 
-LEAD-190 ran a population in which each operator is this model's reader and one of its specialists for the others (CASE-tmpw3vii). This model's code was loaded by path, not modified. A test checks that one reader with two sources is this model's mean field to 1e-12. In the population, with critics scored by agreement, the uniform mode loses stability at this case's threshold (gσ² > 2(1 − φ′)) less a term for the sources' own lean. The build is unchanged.
+[LEAD-190](../leads.d/LEAD-190.md) ran a population in which each operator is this model's reader and one of its specialists for the others ([CASE-tmpw3vii](CASE-tmpw3vii.md)). This model's code was loaded by path, not modified. A test checks that one reader with two sources is this model's mean field to 1e-12. In the population, with critics scored by agreement, the uniform mode loses stability at this case's threshold (gσ² > 2(1 − φ′)) less a term for the sources' own lean. The build is unchanged.

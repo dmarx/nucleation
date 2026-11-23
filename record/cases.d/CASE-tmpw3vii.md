@@ -18,9 +18,9 @@ bears_on:
 - QUESTION-090
 - QUESTION-100
 summary: >-
-  The study LEAD-190 asks for. Twenty operators, half on each side, each a
+  The study [LEAD-190](../leads.d/LEAD-190.md) asks for. Twenty operators, half on each side, each a
   reader with a meaning and a specialist retrieving for the others, as in
-  CASE-363's model, which is loaded unchanged. Critic weights (whose
+  [CASE-363](CASE-363.md)'s model, which is loaded unchanged. Critic weights (whose
   evidence one reads) are scored by agreement, by observed relevance, or a
   mix; decision grants set authority under one-hop, leave-one-out or
   recursive aggregation, and operators move them for realized policy or
@@ -40,19 +40,19 @@ summary: >-
 
 ## What was done
 
-LEAD-190 asks to "compare populations with role-indexed grants against scalar ones, and populations whose operators are bound by the two grant conditions against unbound ones, recording to whom they delegate beyond one hop." The code, its 27 tests and six experiments are in scratch/studies/lead-190/ (model.py, test_model.py, run.py, results/*.json; the README says how to rerun). model.py loads CASE-363's model from scratch/studies/lead-090/model.py by path and does not modify it. A test checks that one reader with two sources is that model's mean field to 1e-12, in Regime A and Regime B. Everything ran on one thread in about twenty minutes.
+[LEAD-190](../leads.d/LEAD-190.md) asks to "compare populations with role-indexed grants against scalar ones, and populations whose operators are bound by the two grant conditions against unbound ones, recording to whom they delegate beyond one hop." The code, its 27 tests and six experiments are in scratch/studies/lead-190/ (model.py, test_model.py, run.py, results/*.json; the README says how to rerun). model.py loads [CASE-363](CASE-363.md)'s model from scratch/studies/lead-090/model.py by path and does not modify it. A test checks that one reader with two sources is that model's mean field to 1e-12, in Regime A and Regime B. Everything ran on one thread in about twenty minutes.
 
 **The population.** N = 20 operators (40 in one check), half on each side, s = ±1, in random order. Each has a preferred policy s·U(0.3, 1) and a relevance r ~ U(0.4, 0.9), its competence as a critic, drawn independently of side.
 
-**The meaning layer.** This is CASE-363's step, run once for each reader. Reader i frames its query by its own meaning. Source j's items lean to j's side by σ, and by j's own meaning by φ_s (φ_s = 0 makes each reader an independent copy of CASE-363). The meaning m_i moves toward the critic-weighted share of A-items. Critic weights W_i run over every source, i included. They relax with memory δ toward softmax(g·score), where score = ζ·agreement + (1 − ζ)·relevance. Agreement is CASE-363's Regime A score against i's own meaning. Relevance is Regime B's independently observed score. ζ is CASE-092's "independence of evaluation". The parameters are ρ = 0.2, σ = 0.4, φ = 0.3, ε = 0.2, g = 12 and δ = 0.9. That puts the loop above CLAIM-947's threshold when ζ = 1 (gσ²/2 = 0.96 > 1 − φ′ = 0.76).
+**The meaning layer.** This is [CASE-363](CASE-363.md)'s step, run once for each reader. Reader i frames its query by its own meaning. Source j's items lean to j's side by σ, and by j's own meaning by φ_s (φ_s = 0 makes each reader an independent copy of [CASE-363](CASE-363.md)). The meaning m_i moves toward the critic-weighted share of A-items. Critic weights W_i run over every source, i included. They relax with memory δ toward softmax(g·score), where score = ζ·agreement + (1 − ζ)·relevance. Agreement is [CASE-363](CASE-363.md)'s Regime A score against i's own meaning. Relevance is Regime B's independently observed score. ζ is [CASE-092](CASE-092.md)'s "independence of evaluation". The parameters are ρ = 0.2, σ = 0.4, φ = 0.3, ε = 0.2, g = 12 and δ = 0.9. That puts the loop above [CLAIM-947](../claims.d/CLAIM-947.md)'s threshold when ζ = 1 (gσ²/2 = 0.96 > 1 − φ′ = 0.76).
 
-**The decision layer.** Grants E_ij ≥ 0, with E_ii = 0 and rows summing to at most 1. Authority comes from one of three rules, each with damping η = 0.5: one-hop (CLAIM-375's rule), leave-one-out damped delegation (CLAIM-502), or damped recursive delegation (CLAIM-282). The decision p* is the authority-weighted mean of preferences (CLAIM-375). There are two objectives: realized policy, −(p* − p_i)², or authority held, log g_i. Each carries a quadratic grant cost (λ = 0.02), and a linear cost was run as a check. Operators move their rows by projected gradient ascent with exact gradients, which a test checks against finite differences for every rule, objective and cost. **Bound** means the first condition holds (one-hop or leave-one-out: g_i does not respond to E_i·, tested) together with the realized-policy objective. **Unbound** means recursive delegation with the authority objective.
+**The decision layer.** Grants E_ij ≥ 0, with E_ii = 0 and rows summing to at most 1. Authority comes from one of three rules, each with damping η = 0.5: one-hop ([CLAIM-375](../claims.d/CLAIM-375.md)'s rule), leave-one-out damped delegation ([CLAIM-502](../claims.d/CLAIM-502.md)), or damped recursive delegation ([CLAIM-282](../claims.d/CLAIM-282.md)). The decision p* is the authority-weighted mean of preferences ([CLAIM-375](../claims.d/CLAIM-375.md)). There are two objectives: realized policy, −(p* − p_i)², or authority held, log g_i. Each carries a quadratic grant cost (λ = 0.02), and a linear cost was run as a check. Operators move their rows by projected gradient ascent with exact gradients, which a test checks against finite differences for every rule, objective and cost. **Bound** means the first condition holds (one-hop or leave-one-out: g_i does not respond to E_i·, tested) together with the realized-policy objective. **Unbound** means recursive delegation with the authority objective.
 
-**The grant schemes, for CLAIM-281.**
+**The grant schemes, for [CLAIM-281](../claims.d/CLAIM-281.md).**
 
 - **scalar-agree.** One row, scored by agreement. It weights evidence and confers decision authority.
 - **scalar-comp.** One row, scored by relevance.
-- **scalar-policy.** One row, moved by the realized-policy objective: CLAIM-285's operator with a single grant. The share it does not grant is weight on its own retrieval.
+- **scalar-policy.** One row, moved by the realized-policy objective: [CLAIM-285](../claims.d/CLAIM-285.md)'s operator with a single grant. The share it does not grant is weight on its own retrieval.
 - **role.** Two rows. The critic row is scored by relevance (ζ = 0) and the decision row is moved by realized policy. This is A2's E_i(j, r, c, t) with two roles.
 - **role-agree.** Two rows, with the critic row scored by agreement.
 
@@ -105,6 +105,6 @@ Scalar-agree from a polarized start was right in every population for every b �
 
 ## What it can show
 
-That, in this model, the comparisons LEAD-190 names come out as the four claims filed with it say: CLAIM-tmp5wozo (the schemes), CLAIM-tmppm30v (where a relevance-scored meaning goes), CLAIM-tmpdpnid (bound and unbound operators) and CLAIM-tmpoc6mo (delegation to the extremes).
+That, in this model, the comparisons [LEAD-190](../leads.d/LEAD-190.md) names come out as the four claims filed with it say: [CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md) (the schemes), [CLAIM-tmppm30v](../claims.d/CLAIM-tmppm30v.md) (where a relevance-scored meaning goes), [CLAIM-tmpdpnid](../claims.d/CLAIM-tmpdpnid.md) (bound and unbound operators) and [CLAIM-tmpoc6mo](../claims.d/CLAIM-tmpoc6mo.md) (delegation to the extremes).
 
-It cannot show that the model's choices are the right ones. The choices that matter most are these: relevance is observed without error and independently of side; a decision is a weighted mean; operators follow exact gradients of their own objective; and there are two roles and one policy dimension. A different decision rule, scoring with error, or bounded learners could change any of the results. Nothing here is about persons or organizations; CLAIM-288's objection to CASE-092, that the objectives are the modeller's, applies unchanged.
+It cannot show that the model's choices are the right ones. The choices that matter most are these: relevance is observed without error and independently of side; a decision is a weighted mean; operators follow exact gradients of their own objective; and there are two roles and one policy dimension. A different decision rule, scoring with error, or bounded learners could change any of the results. Nothing here is about persons or organizations; [CLAIM-288](../claims.d/CLAIM-288.md)'s objection to [CASE-092](CASE-092.md), that the objectives are the modeller's, applies unchanged.
