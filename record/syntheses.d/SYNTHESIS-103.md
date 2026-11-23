@@ -72,7 +72,7 @@ summary: >-
   and put Darwall's answer to "why" on the record second-hand (Stern).
   The account adds nothing of its own; its standing is its components'.
 ---
-<!-- inactive-ok-file: ARG-114 CLAIM-619 CLAIM-624 CLAIM-705 CLAIM-710 CLAIM-723 CLAIM-724 CLAIM-732 CLAIM-734 CLAIM-739 CLAIM-740 CLAIM-746 CLAIM-748 SYNTHESIS-094 SYNTHESIS-098 TERM-083 TERM-124 TERM-126 TERM-130 THEORY-1941 THEORY-1947 THEORY-1957 THEORY-1959 THEORY-1960 THEORY-1965 THEORY-1970 THEORY-1972 THEORY-1974 THEORY-1975 THEORY-1976 — Proposed; components, citations and the readings that support them, with their standing -->
+<!-- inactive-ok-file: ARG-114 CLAIM-619 CLAIM-624 CLAIM-705 CLAIM-710 CLAIM-723 CLAIM-724 CLAIM-732 CLAIM-734 CLAIM-739 CLAIM-746 CLAIM-748 SYNTHESIS-094 SYNTHESIS-098 TERM-083 TERM-124 TERM-126 TERM-130 THEORY-1941 THEORY-1947 THEORY-1957 THEORY-1959 THEORY-1960 THEORY-1965 THEORY-1970 THEORY-1972 THEORY-1974 THEORY-1975 THEORY-1976 — Proposed; components, citations and the readings that support them, with their standing -->
 
 # SYNTHESIS-103: Answerability and contestability: answerability is proposed as a directed relation, owed on several grounds to a party with a claim and not to everyone affected, with forms and dimensions that come apart; authority over a decision is proposed not to carry authority over the conditions of its challenge; explanation, contestation and interruption, and the six achievements of an effective objection, are proposed as separable; and contestability is proposed as a maintained capability robust to opposition
 

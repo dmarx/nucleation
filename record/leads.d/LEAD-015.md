@@ -29,7 +29,6 @@ summary: >-
   2026-11-19.
 ---
 <!-- inactive-ok-file: CASE-tmpd80em CLAIM-tmp0v3wu CLAIM-tmpz8q70 CLAIM-tmp42aba — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
-<!-- inactive-ok-file: CASE-363 CLAIM-947 CLAIM-948 — new; filed 2026-11-22 for LEAD-090 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-015: Derive the two-institution version of the symmetry-breaking condition, building the coupled meaning-influence model for two regulators

@@ -94,7 +94,6 @@ complements:
 bears_on:
 - QUESTION-090
 ---
-<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmpdpnid CLAIM-tmpoc6mo CLAIM-tmp5wozo — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); named in the history as the term of its time -->
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -189,10 +188,10 @@ The population model this claim's notes said was missing has been run as [CASE-t
 
 ## Note of 2026-11-23: what holds it back
 
-The population model has been run, and it reproduces (CASE-tmpw3vii, CLAIM-
+The population model has been run, and it reproduces ([CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md), CLAIM-
 tmpdpnid). Bound operators delegated their whole budget, all of it to their
 own side, so neither disjunct of the defeat condition is met. What remains
-is the owner's choice between CLAIM-tmpoc6mo's readings of 'aligned others'.
+is the owner's choice between [CLAIM-tmpoc6mo](CLAIM-tmpoc6mo.md)'s readings of 'aligned others'.
 On Reading A (one's own side of the decision) the claim goes Active. On
 Reading B (nearest in policy) operators chose their side's extremes and not
 its nearest members, so the claim needs a narrower decision rule or a cost

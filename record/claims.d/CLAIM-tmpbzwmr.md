@@ -39,7 +39,7 @@ summary: A40's central insight in the exchange "Explain First Contact RL"
   is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-478 CLAIM-626 CLAIM-tmpx8csq TERM-tmpz28l1 THEORY-1052 — Proposed; cited in this filing of 2026-11-22 (second share) -->
+<!-- inactive-ok-file: CLAIM-478 TERM-tmpz28l1 THEORY-1052 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
 # CLAIM-tmpbzwmr: An organization's identity can be carried by slow collective degrees of freedom that constrain faster activity, while its adaptability requires those slow degrees of freedom to stay selectively controllable and the means of controlling them to stay viable, so the appropriate stabilization is indexed to the timescales of the demands it must answer, and governance maintains a fit between the spectrum of its modes and the temporal structure of those demands
 
@@ -89,9 +89,9 @@ slowness and not controllability, the claim fails.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmph25dl CLAIM-478 CLAIM-758 CLAIM-tmpcag0t — Proposed; what holds it and what it holds -->
+<!-- inactive-ok-block: CLAIM-tmph25dl CLAIM-758 CLAIM-tmpcag0t — Proposed; what holds it and what it holds -->
 Its third clause, that the appropriate stabilization is indexed to the
-timescales of the demands, is CLAIM-tmph25dl's central clause, and CLAIM-
-tmph25dl is Proposed, waiting on CLAIM-478 and CLAIM-758. Its other unheld
-premise, CLAIM-tmpx8csq, went Active at the status review of 2026-11-23.
-CLAIM-tmpcag0t waits on this claim.
+timescales of the demands, is [CLAIM-tmph25dl](CLAIM-tmph25dl.md)'s central clause, and CLAIM-
+tmph25dl is Proposed, waiting on [CLAIM-478](CLAIM-478.md) and [CLAIM-758](CLAIM-758.md). Its other unheld
+premise, [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md), went Active at the status review of 2026-11-23.
+[CLAIM-tmpcag0t](CLAIM-tmpcag0t.md) waits on this claim.

@@ -29,6 +29,7 @@ source:
 - LIT-2248
 corroborates:
 - CLAIM-388
+- CLAIM-tmpo6ehq
 bears_on:
 - QUESTION-218
 - QUESTION-281
@@ -42,7 +43,7 @@ summary: >-
   [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md)). Proposed until the invariance and eq. 10 are confirmed
   independently.
 ---
-<!-- inactive-ok-file: THEORY-tmp0d58z CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq — Proposed or new; the sequel's reading and the verdict filed from this one -->
+<!-- inactive-ok-file: THEORY-tmp0d58z CLAIM-tmpa694z CLAIM-tmpervl4 — Proposed or new; the sequel's reading and the verdict filed from this one -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this reading was read against -->
 
 # THEORY-tmpmvcnr: Ott and Antonsen show that for infinitely many globally coupled phase oscillators with first-harmonic coupling, the distributions whose phase Fourier coefficients are powers of one function of frequency form an invariant manifold, on which the order parameter obeys a finite set of ordinary differential equations exactly when the frequency distribution is rational, one complex equation per pole in the lower half-plane, while the distribution on the manifold stays infinite-dimensional, with a continuous spectrum of neutral modes

@@ -116,7 +116,6 @@ summary: >-
 bears_on:
 - QUESTION-126
 ---
-<!-- inactive-ok-file: CLAIM-tmpx9nrj — Proposed or Open; filed in the filing of the exchange 'Explain First Contact RL' of 2026-11-22 and cited in its note -->
 <!-- inactive-ok-file: CASE-317, CLAIM-880, CLAIM-500 — Proposed or new; cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 

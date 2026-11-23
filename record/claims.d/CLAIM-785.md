@@ -51,7 +51,6 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmplgnjf — Proposed or Open; filed in the filing of the exchange 'Explain First Contact RL' of 2026-11-22 and cited in its note -->
 <!-- inactive-ok-file: CLAIM-778 CLAIM-772 CLAIM-184 CLAIM-068 CLAIM-119 TERM-132 — Proposed; the claims this restates in terms of predicates, and the risks it keeps -->
 <!-- inactive-ok-file: CLAIM-783 TERM-134 TERM-133 — Proposed; filed in this contribution of 2026-11-21 -->
 

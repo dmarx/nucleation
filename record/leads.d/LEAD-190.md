@@ -26,8 +26,6 @@ summary: >-
   Two Proposed claims name this comparison as their test. Named in
   [CLAIM-281](../claims.d/CLAIM-281.md) and [CLAIM-285](../claims.d/CLAIM-285.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-363 — Proposed; the built model the run extends, cited as open -->
-<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmp5wozo CLAIM-tmppm30v CLAIM-tmpdpnid CLAIM-tmpoc6mo — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-281 CLAIM-285 — Proposed; cited in the backlog audit of 2026-11-19 -->
 
 # LEAD-190: Simulate the population comparisons the authority-grant claims name: role-indexed against scalar grants, and operators bound by the two grant conditions

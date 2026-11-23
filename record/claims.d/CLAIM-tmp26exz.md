@@ -57,7 +57,6 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-tmpqnoj1 CLAIM-tmpd6gon — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmp26exz: In a simulated federated learner with honest evaluators, audit by evaluators who hold validation evidence of their own and vote only on the tasks they hold it for lowered attack success to about zero for an overt attack and for one that mimics dissent, and raised the minority's capability from 0.27 to 0.92, for 0.01 of main capability; reliability-weighting by agreement was captured by the mimic, and by validation without that limit of jurisdiction it stopped the overt attack and left the dissenters where unrestricted aggregation leaves them
 

@@ -39,7 +39,7 @@ summary: >-
   this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-751 CASE-292 — Proposed; the claim this corroborates and the case it completes -->
-<!-- inactive-ok-file: CLAIM-tmp20uni CLAIM-tmp64hmn — new; the claim filed from the reading and its objection -->
+<!-- inactive-ok-file: CLAIM-tmp20uni — new; the claim filed from the reading and its objection -->
 
 # THEORY-tmpfdyu6: The Associated Press reports that the Tempe operator, charged with negligent homicide, pleaded guilty to endangerment and was sentenced to three years of supervised probation, and that prosecutors had declined to charge Uber as a corporation
 

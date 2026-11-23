@@ -83,7 +83,7 @@ bears_on:
 <!-- inactive-ok-file: TERM-138 — Proposed; filed 2026-11-21 -->
 <!-- inactive-ok-file: CLAIM-826 ARG-125 ARG-127 — Proposed or Rejected; filed 2026-11-21 after the coverage check -->
 <!-- inactive-ok-file: CLAIM-803 CLAIM-817 CLAIM-830 CLAIM-824 CLAIM-795 CLAIM-815 CLAIM-796 CLAIM-806 CLAIM-841 CLAIM-846 CLAIM-810 CLAIM-850 ARG-129 TERM-142 TERM-139 CLAIM-840 CLAIM-845 CLAIM-829 ARG-136 CLAIM-832 CASE-303 CASE-305 CLAIM-805 TERM-141 CLAIM-849 CLAIM-825 CLAIM-820 TERM-135 CLAIM-836 CLAIM-809 CLAIM-814 ARG-148 — new and Proposed or Open; components filed from the exchange "Rich Get Richer Power Laws" on 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-769 CLAIM-626 CLAIM-478 THEORY-777 THEORY-2041 — Proposed; held components, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-769 CLAIM-478 THEORY-777 THEORY-2041 — Proposed; held components, cited with their standing -->
 <!-- inactive-ok-file: SYNTHESIS-088 SYNTHESIS-075 SYNTHESIS-084 — Proposed or new; accounts this one sits beside -->
 <!-- inactive-ok-file: THEORY-2150 — Proposed; the reading of 2026-11-21 -->
 <!-- inactive-ok-file: THEORY-2176 THEORY-2175 THEORY-2177 CLAIM-857 — Proposed; the readings of 2026-11-22 and the assistant's condition on the spread -->

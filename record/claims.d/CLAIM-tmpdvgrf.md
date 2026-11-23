@@ -43,7 +43,6 @@ summary: 'A44 §8 of the exchange "Explain First Contact RL" (ChatGPT, third
   adopting it is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpk4bou CLAIM-tmpx9nrj — Proposed; cited in this filing of 2026-11-23 (third share) -->
 
 # CLAIM-tmpdvgrf: When demands are predicates on histories with deadlines, the sets of them an organization can jointly meet under its response architecture and budget form a downward-closed complex contained in the complex of the same demands without deadlines, so two demands can be compatible statically and incompatible in time, and a change in the response architecture, faster actuation, different sequencing, staged capacity or a new method, can enlarge the temporal complex without weakening any demand
 

@@ -149,9 +149,8 @@ education and misfits with the environment.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-758 — Proposed; it waits on this -->
 The definition is not settled: a candidate version 3, asking each claim that
 uses the term to say whether the retention it means is localized or
 identified but distributed (the owner's proposal of 2026-11-19, in this
-entry's note of that date), waits on the owner's ruling. CLAIM-758 waits on
+entry's note of that date), waits on the owner's ruling. [CLAIM-758](../claims.d/CLAIM-758.md) waits on
 it.

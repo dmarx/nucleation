@@ -51,7 +51,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-249 — Proposed; the design this study carries out -->
-<!-- inactive-ok-file: CLAIM-tmpbbfcj CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-657 — Proposed; the second route the result instantiates -->
 
 # CASE-tmp8mk6w: A simulated institution with visible and hidden requirements, run under five governance regimes: penalized for every recognized violation and unrewarded for discovery, it learns to make no inquiry in every setting while its internal record shows almost no violations, against half its budget spent on inquiry when an independent evaluator scores it; scored internally without the penalty, it inquires more only where inquiry is otherwise free or being found out from outside is costly

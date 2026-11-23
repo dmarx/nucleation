@@ -58,7 +58,6 @@ summary: >-
   authority, that it closes the social route of moving others'
   grants, or that [CLAIM-375](CLAIM-375.md)'s guarantee carries over.
 ---
-<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmpdpnid — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction bears on, cited as open -->
 <!-- ref::uses-file: TERM-101 — the grants E_kj along whose paths leave-one-out delegation carries authority are TERM-101's grant -->

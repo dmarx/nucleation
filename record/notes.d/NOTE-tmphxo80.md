@@ -22,7 +22,6 @@ summary: >-
   could still be charged, and that the victim's family had settled with
   the company.
 ---
-<!-- inactive-ok-file: CLAIM-tmp64hmn — new; the objection filed from this reading -->
 <!-- inactive-ok-file: CLAIM-751 — Proposed; the claim the reading bears on -->
 
 # NOTE-tmphxo80: Wamsley — Uber Not Criminally Liable In Death Of Woman Hit By Self-Driving Car, Prosecutor Says

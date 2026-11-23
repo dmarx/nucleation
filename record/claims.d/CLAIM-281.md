@@ -51,7 +51,6 @@ summary: >-
 bears_on:
 - QUESTION-089
 ---
-<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmp5wozo CLAIM-tmppm30v — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -121,10 +120,10 @@ The comparison this claim's notes said was missing has been run as [CASE-tmpw3vi
 
 ## Note of 2026-11-23: what holds it back
 
-The population comparison has been run, and it reproduces (CASE-tmpw3vii,
-CLAIM-tmp5wozo). Whether it meets this claim's defeat condition turns on a
+The population comparison has been run, and it reproduces ([CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md),
+[CLAIM-tmp5wozo](CLAIM-tmp5wozo.md)). Whether it meets this claim's defeat condition turns on a
 reading the owner has not yet chosen: role-indexed grants scored by
 agreement sorted into factions exactly as scalar grants did. That meets the
 first disjunct unless 'indexed by role' already carries a role-specific
-score (CLAIM-tmp5wozo's Reading A). On Reading A the claim goes Active; on
+score ([CLAIM-tmp5wozo](CLAIM-tmp5wozo.md)'s Reading A). On Reading A the claim goes Active; on
 Reading B it is first restated to name the critic score.

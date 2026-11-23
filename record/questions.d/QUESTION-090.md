@@ -41,7 +41,6 @@ summary: >-
   bought by eliminating the members' disagreement. An answer names
   conditions under which both hold and conditions under which one fails.
 ---
-<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmpdpnid CLAIM-tmpoc6mo CLAIM-tmp5wozo — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -119,7 +118,6 @@ No status changes.
 [CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) bears on this question. Operators that cannot raise their own authority, and are rewarded for realized policy, built a delegation structure that sorted by side: all grants went to their own side and, within it, to its extremes ([CLAIM-tmpdpnid](../claims.d/CLAIM-tmpdpnid.md), [CLAIM-tmpoc6mo](../claims.d/CLAIM-tmpoc6mo.md)). With one grant per operator, that structure also set whom each read, and the population split into factions. With grants indexed by role, the plurality of policy survived while evidence crossed sides ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)).
 
 ## Note of 2026-11-23: a condition for coherence without suppression, in a governance run
-<!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmp26exz CLAIM-tmpd6gon — new; filed by the lead run of 2026-11-23 -->
 
 In [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), a run of [CASE-108](../cases.d/CASE-108.md), the arm that learned the shared task without
 suppressing the dissenting minority was audit by evaluators who hold

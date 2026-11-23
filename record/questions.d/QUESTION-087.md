@@ -98,7 +98,7 @@ organization's own organization, so the question stays open. No status
 changes.
 
 ## Note of 2026-11-23: the oracle test run, in a governance study
-<!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-block: CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
 
 [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) runs A33's test, an oracle for the same proposals and update rule,
 on [CASE-108](../cases.d/CASE-108.md)'s architectures. Against it, unrestricted aggregation lost

@@ -48,7 +48,7 @@ summary: >-
   its absence. [ARG-tmpql8m1](../arguments.d/ARG-tmpql8m1.md) sets out the inference. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpfdyu6 CLAIM-tmp64hmn ARG-tmpql8m1 — new; the reading, the objection and the argument filed with this claim -->
+<!-- inactive-ok-file: ARG-tmpql8m1 — new; the reading, the objection and the argument filed with this claim -->
 <!-- inactive-ok-file: CLAIM-751 CLAIM-707 CLAIM-733 THEORY-1932 CASE-292 — Proposed; the claims it complements and corroborates and the case it draws on -->
 
 # CLAIM-tmp20uni: On the Tempe failure the criminal process, the process built to assign blame, charged and convicted only the operator and declined to charge the company, while the investigation barred from assigning blame named the company's safety culture and the state's oversight and addressed its recommendations to them
@@ -109,9 +109,8 @@ other: "The defendant had one job and one job only".
 
 ## Note of 2026-11-23: filed with its concessions
 
-<!-- inactive-ok-block: CLAIM-733 — Proposed; cited -->
-CLAIM-tmp64hmn's objection was written in when the claim was filed. The
+[CLAIM-tmp64hmn](CLAIM-tmp64hmn.md)'s objection was written in when the claim was filed. The
 claim is about the criminal process. Its defeat condition and 'What it does
 not say' grant that civil and administrative processes reached the company,
-and its paragraph on CLAIM-733 grants that the outcome shows where the
+and its paragraph on [CLAIM-733](CLAIM-733.md) grants that the outcome shows where the
 criminal law stopped, not where blame as such stops.

@@ -52,7 +52,7 @@ summary: >-
   the penalty, makes inquiry a loss. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmpjz94s CLAIM-tmpbbfcj — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpjz94s — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-657 — Proposed; the route whose requirement this narrows -->
 
 # CLAIM-tmp0bqyu: Measured against the same institution scored internally without the penalty on newly recognized violations, the penalty lowers inquiry only where inquiry has some other value to the institution: where inquiry costs output and earns nothing else, the institution makes none with or without the penalty, so the avoidance comes from discovery going unrewarded and the penalty only makes it strict; where inquiry is free, or a violation found from outside costs extra, the penalty takes inquiry to none, and a large enough outside cost erases the difference
@@ -110,8 +110,7 @@ when a violation found then cannot be penalized long.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmpjz94s LEAD-181 — Proposed; the alternative and the lead -->
-CASE-tmp8mk6w is now Active and reproduces, and this claim's figures match
-it. It was filed with CLAIM-tmpjz94s as alternative answers to LEAD-181's
-test, and which one answers it is the owner's choice under ADR-127; the
+[CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) is now Active and reproduces, and this claim's figures match
+it. It was filed with [CLAIM-tmpjz94s](CLAIM-tmpjz94s.md) as alternative answers to [LEAD-181](../leads.d/LEAD-181.md)'s
+test, and which one answers it is the owner's choice under [ADR-127](../decisions.d/ADR-127.md); the
 review finds the two consistent as measurements.

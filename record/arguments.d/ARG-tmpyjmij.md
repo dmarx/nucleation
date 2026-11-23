@@ -26,7 +26,6 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpac7iw CLAIM-tmpv65bg — Proposed, filed by the lead run of 2026-11-22 -->
 <!-- inactive-ok-file: LIT-1826 — Unfetched; Chesson 1990, not read, the paper the chapter stands in for -->
 
 # ARG-tmpyjmij: Chesson's 2011 restatement of his measures for MacArthur's model, read as a source and carried through the fast-resource reduction, shows that his overlap and fitness are the cosine and the normed zero-abundance marginal value of symmetric resource competition's niche vectors

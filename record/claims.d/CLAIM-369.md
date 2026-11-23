@@ -71,7 +71,6 @@ summary: >-
   stops being an optimizer. Mehta et al. (2019) and Marsland, Cui and
   Mehta (2020) give the general duality for consumer–resource models.
 ---
-<!-- inactive-ok-file: THEORY-tmpac7iw CLAIM-tmpv65bg — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
 <!-- inactive-ok-file: LIT-1826 — Unfetched; Chesson 1990, cited in the note of 2026-11-22 as not read, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-885 — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->

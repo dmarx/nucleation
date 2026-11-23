@@ -42,7 +42,7 @@ summary: A44's carried formulation in the exchange "Explain First Contact
   call.
 ---
 
-<!-- inactive-ok-file: CLAIM-327 CLAIM-478 CLAIM-626 CLAIM-758 CLAIM-916 CLAIM-tmp76xaw CLAIM-tmp947v0 CLAIM-tmpdvgrf CLAIM-tmph25dl CLAIM-tmppqdnv TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-23 (third share) -->
+<!-- inactive-ok-file: CLAIM-327 CLAIM-478 CLAIM-758 CLAIM-916 CLAIM-tmph25dl TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-23 (third share) -->
 
 # CLAIM-tmpm985y: Identity stabilization and adaptability are different achievements of one temporally organized system, not two competing quantities: an organization keeps identity by selectively conserving some relations while allowing or producing change in others, it can restore its organization fast while transforming slowly within it, what it conserves may be a configuration or the generative continuity by which it revises its configurations, and some of its most important identity-bearing structures may be those that keep its other identity-bearing structures revisable
 

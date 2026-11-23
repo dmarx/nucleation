@@ -46,7 +46,6 @@ summary: >-
   set out for the owner. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmpdpnid — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the claim whose word is read, cited as open -->
 
 # CLAIM-tmpoc6mo: Operators rewarded for realized policy under a weighted-mean decision delegate, within their own side, to its most extreme members and not its nearest, because a grant's marginal value to the granter is proportional to how far the grantee's policy lies from the decision

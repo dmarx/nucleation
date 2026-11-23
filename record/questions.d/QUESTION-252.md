@@ -59,7 +59,7 @@ summary: >-
   ([CLAIM-401](../claims.d/CLAIM-401.md)); that part is QUESTION-324, Answered. The same form as [QUESTION-093](QUESTION-093.md) and [QUESTION-115](QUESTION-115.md), on a new
   list.
 ---
-<!-- inactive-ok-file: THEORY-tmpmvcnr THEORY-tmp0d58z CLAIM-tmpo6ehq — Proposed; the readings of Ott and Antonsen, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmp0d58z — Proposed; the readings of Ott and Antonsen, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-396 — Proposed; record precedents and partial witnesses, cited as open -->
 <!-- inactive-ok-file: LIT-1837 — Unavailable since 2026-10-29; Pfante et al., cited in the note of that date as not reached, nothing here rests on it -->
 

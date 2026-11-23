@@ -206,7 +206,7 @@ without slowing each decision, as CLAIM-711 says is possible. Relation: corrobor
 
 Background, not evidence ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)). The content-neutral regulations Frischmann and Benesch sketch are standing rules set in advance, with triggers (a count of forwards, a border, social-graph distance) that delay what they catch and leave the rest alone (pp. 437–42): the shape this claim describes. They justify them by the deliberation they allow, not by interruptibility, and report no test. Relation: none. No status changes.
 
-<!-- inactive-ok-file: CLAIM-tmp947v0 CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
+<!-- inactive-ok-file: CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
 
 ## Note of 2026-11-23: the slow commitment applied fast
 

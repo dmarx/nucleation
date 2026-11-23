@@ -147,7 +147,7 @@ The first coded corpus bearing on this claim's prediction is [CASE-335](../cases
 No status changes.
 
 ## Note of 2026-11-22: the SRE workbook read: the mechanism corroborated, an exemplar that fits, and an objection to the unit
-<!-- inactive-ok-file: THEORY-tmpm653d THEORY-tmp9j928 CASE-tmptkkgm ARG-tmp117cw CLAIM-tmpauu5r — new; filed by the lead run on 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmp9j928 CASE-tmptkkgm ARG-tmp117cw CLAIM-tmpauu5r — new; filed by the lead run on 2026-11-22 -->
 
 Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22: Google's SRE workbook chapter on postmortem culture ([THEORY-tmpm653d](../theory.d/THEORY-tmpm653d.md), [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md)), which now `corroborates` this claim, and the SRE book's example postmortem ([THEORY-tmp9j928](../theory.d/THEORY-tmp9j928.md), [NOTE-tmpdiani](../notes.d/NOTE-tmpdiani.md)).
 
@@ -160,11 +160,10 @@ No status changes.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CASE-293 CASE-335 CLAIM-905 THEORY-2000 CLAIM-tmpauu5r — Proposed; the moves checked -->
-Rechecked after the moves of 2026-11-22: CASE-293's revision, CASE-335's
-pilot (CLAIM-905), the readings NOTE-tmpdiani and NOTE-tmpf58r7, and
-THEORY-2000's note. The prediction is still untested where its defeat
+Rechecked after the moves of 2026-11-22: [CASE-293](../cases.d/CASE-293.md)'s revision, [CASE-335](../cases.d/CASE-335.md)'s
+pilot ([CLAIM-905](CLAIM-905.md)), the readings [NOTE-tmpdiani](../notes.d/NOTE-tmpdiani.md) and [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md), and
+[THEORY-2000](../theory.d/THEORY-2000.md)'s note. The prediction is still untested where its defeat
 condition asks: the pilot does not hold domain fixed and its one coder knew
-the prediction, and CASE-293 has not been run. CLAIM-tmpauu5r's objection to
+the prediction, and [CASE-293](../cases.d/CASE-293.md) has not been run. [CLAIM-tmpauu5r](CLAIM-tmpauu5r.md)'s objection to
 the unit (single postmortems rather than the practice across incidents) is
 unanswered.

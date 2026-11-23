@@ -58,7 +58,6 @@ summary: >-
   outside. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp8mk6w — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmpbbfcj: In an institution each of whose recognized violations is penalized, newly recognized ones included, whose discovery of requirements earns nothing, and whose remediation lags recognition, inquiry that only reveals requirements never raises its score when the hidden requirements do not otherwise come to light: on every path it adds only penalized violations and spent budget, so an institution acting on that score makes no inquiry
 

@@ -62,7 +62,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-712 CLAIM-702 CASE-277 ARG-112 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-707 CLAIM-710 — Proposed or Open; filed from the first share of the same exchange (PR 510) and reconciled with this filing on 2026-11-18 -->
-<!-- inactive-ok-file: CLAIM-740 — filed from the exchange "Assess Depp Heard Abuse" on 2026-11-17 -->
 
 # CLAIM-715: Friction that makes the people in a process think before accepting an output differs from friction that makes the institution answerable to their objections, so a system can make individuals think harder while leaving the institution's authority untouched, and the added scrutiny can then serve as evidence that the individuals owned decisions whose conditions they could not change
 
@@ -151,9 +150,9 @@ Frischmann and Benesch ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-707 CLAIM-708 TERM-127 THEORY-1928 — Proposed; what holds it -->
+<!-- inactive-ok-block: CLAIM-708 TERM-127 THEORY-1928 — Proposed; what holds it -->
 Its last clause, that the added scrutiny can serve as evidence that
-individuals owned decisions they could not change, rests on CLAIM-707, which
-waits on CLAIM-708, TERM-127 and THEORY-1928. The readings that corroborate
+individuals owned decisions they could not change, rests on [CLAIM-707](CLAIM-707.md), which
+waits on [CLAIM-708](CLAIM-708.md), [TERM-127](../terms.d/TERM-127.md) and [THEORY-1928](../theory.d/THEORY-1928.md). The readings that corroborate
 it reach only its first half: Choroszewicz reports no such use of scrutiny
 (note of 2026-11-17).

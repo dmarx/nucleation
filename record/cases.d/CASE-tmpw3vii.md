@@ -41,8 +41,7 @@ summary: >-
   construction; the numbers are of this model. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-363 CLAIM-281 CLAIM-285 CLAIM-947 — Proposed; the built model this study extends and the claims it tests, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmp5wozo CLAIM-tmppm30v CLAIM-tmpdpnid CLAIM-tmpoc6mo — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-281 CLAIM-285 — Proposed; the built model this study extends and the claims it tests, cited as open -->
 
 # CASE-tmpw3vii: Role-indexed against scalar grants, and operators bound by the two grant conditions against unbound ones, in a population built on the coupled meaning–influence model
 

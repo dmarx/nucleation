@@ -55,8 +55,7 @@ summary: >-
   construction; the numbers are of this model. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpw3vii — new; filed by the lead run of 2026-11-23 -->
-<!-- inactive-ok-file: CASE-317 CLAIM-947 CLAIM-948 — Proposed or new; the study LEAD-081 filed today, and the claims this filing made -->
+<!-- inactive-ok-file: CASE-317 — Proposed or new; the study LEAD-081 filed today, and the claims this filing made -->
 
 # CASE-363: The coupled meaning–influence model built with two hypotheses and two specialists and reduced to its mean field: the symmetric state destabilizes when gσ² > 2(1 − φ(1 − ε)), whatever the conferral memory and the meaning rate; the reduced map is exactly a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, equal to smooth bounded confidence on a balanced corpus; and it gives authority chosen by the initial interpretation and switched by the evidence with hysteresis, which fixed-weight and reflected-appraisal models cannot
 

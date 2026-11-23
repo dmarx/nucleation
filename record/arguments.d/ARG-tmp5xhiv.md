@@ -29,7 +29,7 @@ summary: >-
   concession that separation is not necessary. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpmvcnr THEORY-tmp0d58z CLAIM-tmpervl4 CLAIM-tmpa694z CLAIM-tmpo6ehq — Proposed or new; the readings and claims filed for LEAD-094 -->
+<!-- inactive-ok-file: THEORY-tmp0d58z CLAIM-tmpervl4 CLAIM-tmpa694z — Proposed or new; the readings and claims filed for LEAD-094 -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim whose defeater is at issue -->
 
 # ARG-tmp5xhiv: Ott and Antonsen's exact reduction and its attraction without a rate condition, as an existence case, show that a closed collective law can be in place without a rate difference, and so meet the rate-difference claim's first defeater within globally coupled phase oscillators

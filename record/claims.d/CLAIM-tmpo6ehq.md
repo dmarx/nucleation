@@ -37,8 +37,6 @@ summary: >-
   the record does not hold; it is filed here as the record's own check.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
-corroborated_by:
-- THEORY-tmpmvcnr
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the reading this fills a gap in and the claim the gap matters for -->
 

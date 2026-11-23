@@ -47,7 +47,7 @@ Where the record names it:
 Less inquiry under the penalty supports [CLAIM-662](../claims.d/CLAIM-662.md); none defeats it.
 
 ## Note of 2026-11-23: the simulation built and run
-<!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmpbbfcj CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
 
 Carried out by the assistant. [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) builds [CASE-249](../cases.d/CASE-249.md)'s institution
 (scratch/studies/lead-181/): 30 fixed requirements, 20 of them found only by

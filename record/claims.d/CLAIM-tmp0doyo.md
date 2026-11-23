@@ -38,7 +38,7 @@ summary: The assistant's answer to the owner's "relate the conversation to
   the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-541 CLAIM-tmpk8ude CLAIM-tmpx8csq LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+<!-- inactive-ok-file: CLAIM-541 CLAIM-tmpk8ude LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
 # CLAIM-tmp0doyo: Effortless action has a direction as well as a timing: the least quadratic effort to move a controlled system by Δx is ΔxᵀW⁻¹Δx with W its controllability Gramian, so a change of given size is cheap along W's strong directions, costly along its weak ones and impossible outside its range, and acting effortlessly is acting along the directions the system already affords, as Cook Ding's knife follows the spaces between the joints
 

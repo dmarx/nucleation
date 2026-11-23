@@ -61,8 +61,8 @@ summary: >-
   follows from the stated rules. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpxoxys CLAIM-tmp26exz CLAIM-tmpd6gon CLAIM-tmpf0b31 CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
-<!-- inactive-ok-file: CASE-363 CLAIM-281 — Proposed; a model considered and not used, and a claim cited for comparison, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-tmpf0b31 CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-281 — Proposed; a model considered and not used, and a claim cited for comparison, nothing here rests on them -->
 
 # CASE-tmpqnoj1: A simulation of four governance architectures over cooperative, honestly dissenting and adversarial specialists in a federated learner: audit by evaluators who hold their own evidence and judge only where they hold it blocks both attacks and lifts the minority's capability, reputation by agreement is captured by the attack that mimics dissent, two compromised evaluators of seven let that attack through where honest evidence is thin, a revisable safeguard repairs part of the damage only while its monitor is honest, and with no evidence independent of the proposals every architecture's gain for the dissenters is the attacker's gain in the relabelled world
 

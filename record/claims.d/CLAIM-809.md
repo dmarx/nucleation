@@ -88,7 +88,7 @@ bears_on:
 <!-- inactive-ok-file: THEORY-2204 ARG-196 ARG-199 — Proposed or new; the companion's reading, the supplement and their arguments, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2168 ARG-163 LIT-3028 — Proposed, Deferred or new; the finite-window reading, its argument and the work it names, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2158 ARG-128 — Proposed; the reading of Dambre and colleagues and its argument, 2026-11-21 -->
-<!-- inactive-ok-file: CLAIM-769 CLAIM-626 — Proposed, bearing on the claim -->
+<!-- inactive-ok-file: CLAIM-769 — Proposed, bearing on the claim -->
 <!-- inactive-ok-file: NOTE-2292 — Skimmed; the passage of Calvet, Reulet and Rouat read 2026-11-22 -->
 
 # CLAIM-809: Nearness to a dynamical transition changes what a system computes well rather than raising every computational ability: memory and separation, sensitivity, reliability and speed pull apart, total capacity is bounded by the number of independent state variables, and the best distance from the transition depends on the task, the integration window and the correlations of the environment

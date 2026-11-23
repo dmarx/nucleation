@@ -29,7 +29,7 @@ summary: >-
   ([CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md), [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md)). Proposed until the attraction is
   confirmed independently.
 ---
-<!-- inactive-ok-file: THEORY-tmpmvcnr CLAIM-tmpa694z CLAIM-tmpervl4 — Proposed or new; the 2008 reading and the verdict filed from these -->
+<!-- inactive-ok-file: CLAIM-tmpa694z CLAIM-tmpervl4 — Proposed or new; the 2008 reading and the verdict filed from these -->
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this reading was read against -->
 
 # THEORY-tmp0d58z: Ott and Antonsen show that for infinitely many phase oscillators whose phase velocity carries only the first harmonic of the phase, with a Lorentzian frequency distribution of nonzero width Δ, the order parameter is attracted at long times to the dynamics on their reduced manifold, by phase mixing at a rate of at least Δ and with no condition on any other rate, though the distribution itself need not converge; with Δ = 0, motion off the manifold can persist

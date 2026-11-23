@@ -74,7 +74,6 @@ summary: >-
   or a reduction of it, inside one of these models, or names the outcome
   they forbid and it allows.
 ---
-<!-- inactive-ok-file: CASE-363 CLAIM-948 — new; filed 2026-11-22 for LEAD-090 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1318 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 

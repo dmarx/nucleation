@@ -47,7 +47,6 @@ summary: >-
   a bound rule never delegated. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmpoc6mo CLAIM-tmp5wozo — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-285 CLAIM-281 — Proposed; the claims tested, cited as open -->
 
 # CLAIM-tmpdpnid: In a grant game on a population, operators bound by both grant conditions delegate their whole budget and only to operators on their own side of the decision, and under leave-one-out delegation the authority they pass beyond one hop also stays on their own side; the reward for realized policy does the aligning, the insensitivity of own authority removes what returns to oneself, and authority-seekers delegate at about chance under recursive delegation and not at all under a bound rule

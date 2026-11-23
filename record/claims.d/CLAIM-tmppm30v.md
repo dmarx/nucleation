@@ -57,7 +57,6 @@ summary: >-
   all, by capture. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmp5wozo — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmppm30v: When critics are scored by observed relevance alone and sources' items lean by their side and not by their own meanings, a population's shared meaning settles exactly where the competence-weighted side of its specialists puts it, so grants indexed by role trade factions for a meaning that follows where competence happens to sit and can override a weak imbalance in the evidence
 

@@ -32,7 +32,6 @@ summary: >-
   form and the one that would unmake it.
 ---
 <!-- inactive-ok-file: THEORY-tmpq02z9 THEORY-tmp31kx6 THEORY-tmpqdy16 THEORY-tmpp4w4k — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
-<!-- inactive-ok-file: THEORY-tmpmvcnr — Proposed; the reading of Ott and Antonsen 2008, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-311 CLAIM-869 CLAIM-871 CLAIM-870 — new; LEAD-069's study and claims of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: THEORY-2038 THEORY-2041 — Proposed; cited in this filing of 2026-11-19 -->

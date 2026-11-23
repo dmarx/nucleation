@@ -42,7 +42,7 @@ summary: 'A44 §4 of the exchange "Explain First Contact RL" (ChatGPT, third
   adopting it is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-711 CLAIM-tmp2k3c5 — Proposed; cited in this filing of 2026-11-23 (third share) -->
+<!-- inactive-ok-file: CLAIM-711 — Proposed; cited in this filing of 2026-11-23 (third share) -->
 
 # CLAIM-tmp947v0: If an organization's operation relaxes at rate γ toward a configuration h(θ) set by a governance parameter θ that changes at rate at most V, with h Lipschitz with constant L, then its distance from the governed configuration stays within LV/γ once it starts within that, so a governance change of size Δθ by deadline H keeps the organization within a tolerance ε if LΔθ/(γH) ≤ ε; the condition is sufficient, not necessary, and it complements the necessary bound that a reference revisable at rate v cannot reach a demand farther than vH
 

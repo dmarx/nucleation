@@ -188,7 +188,6 @@ question's second point raises. It does not say what would certify that
 no remedy exists. The question stays Open.
 
 ## Note of 2026-11-23: a search not made, from [LEAD-181](../leads.d/LEAD-181.md)
-<!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmpbbfcj — new; filed by the lead run of 2026-11-23 -->
 
 In [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) an institution penalized for each recognized violation,
 and unrewarded for finding one, learns to make no inquiry at all

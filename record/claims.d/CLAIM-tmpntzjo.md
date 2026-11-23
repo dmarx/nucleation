@@ -28,7 +28,7 @@ summary: 'The owner''s U20 in the second share of the exchange "Explain First
   The owner''s; filed with its two readings of "inherent" in its defeater.'
 ---
 
-<!-- inactive-ok-file: CLAIM-184 CLAIM-478 CLAIM-758 CLAIM-tmp2k3c5 CLAIM-tmpbzwmr CLAIM-tmph25dl SYNTHESIS-046 TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-22 (second share) -->
+<!-- inactive-ok-file: CLAIM-184 CLAIM-478 CLAIM-758 CLAIM-tmpbzwmr CLAIM-tmph25dl SYNTHESIS-046 TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
 # CLAIM-tmpntzjo: There is an inherent tension between stabilizing an organization's identity and keeping it adaptable, and the appropriate response to a demand depends on the timescale of that demand
 

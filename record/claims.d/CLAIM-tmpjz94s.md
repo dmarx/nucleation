@@ -72,7 +72,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CASE-249 CLAIM-657 — Proposed; the design carried out and the route it instantiates -->
 
 # CLAIM-tmpjz94s: Measured against the same institution scored by an independent count of all its violations, a penalty on newly recognized violations without reward for their discovery produces avoidance of inquiry in an adaptive institution: in the simulated institution, learned inquiry falls from about half its budget to nearly none in every setting, and at the optimum the violations left at the end rise from none to between a third and two thirds of those it began with, while its internal count shows almost none
@@ -114,8 +114,7 @@ separates them.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmp0bqyu LEAD-181 — Proposed; the alternative and the lead -->
-CASE-tmp8mk6w is now Active and reproduces, and this claim's figures match
-it. It was filed with CLAIM-tmp0bqyu as alternative answers to LEAD-181's
-test, and which one answers it is the owner's choice under ADR-127; the
+[CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) is now Active and reproduces, and this claim's figures match
+it. It was filed with [CLAIM-tmp0bqyu](CLAIM-tmp0bqyu.md) as alternative answers to [LEAD-181](../leads.d/LEAD-181.md)'s
+test, and which one answers it is the owner's choice under [ADR-127](../decisions.d/ADR-127.md); the
 review finds the two consistent as measurements.

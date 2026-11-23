@@ -39,7 +39,7 @@ summary: A42's retained thesis in the exchange "Explain First Contact RL"
   in the exchange of 2026-11-22); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-711 CLAIM-758 CLAIM-tmpbzwmr CLAIM-tmppqdnv CLAIM-tmpx8csq TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-23 (third share) -->
+<!-- inactive-ok-file: CLAIM-711 CLAIM-758 CLAIM-tmpbzwmr TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-23 (third share) -->
 
 # CLAIM-tmpcag0t: The governance of an adaptive organization is partly the governance of its temporal response structure, the rates at which it detects, absorbs, resists, corrects, learns from and reorganizes in response to different classes of demand: identity stabilization makes selected relations persistent across faster fluctuations, adaptive capacity keeps effective control over those relations, including their persistence and coupling, and an appropriate architecture preserves the capacity to reshape that spectrum without losing the conditions for viable organization
 

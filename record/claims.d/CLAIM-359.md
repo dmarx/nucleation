@@ -306,7 +306,7 @@ Proposed. They were written on the day the fifteenth status review
 promoted it (version 2), and are of their time: the claim is Active.
 
 ## Note of 2026-11-23: both halves, in a run of the design
-<!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmp26exz CLAIM-tmpd6gon CLAIM-tmpf0b31 CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-block: CLAIM-tmpf0b31 CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
 
 [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) runs [CASE-108](../cases.d/CASE-108.md). Both halves appear. A safeguard serving both:
 role-limited audit by evaluators with evidence of their own, judging

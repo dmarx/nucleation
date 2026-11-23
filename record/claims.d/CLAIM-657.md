@@ -133,7 +133,7 @@ No status changes.
 Route A rests on [CLAIM-652](CLAIM-652.md), Proposed, which waits on [CLAIM-655](CLAIM-655.md) and its toy [CASE-246](../cases.d/CASE-246.md); [CLAIM-662](CLAIM-662.md), route B, went Active at this review, so [CLAIM-652](CLAIM-652.md) is now the only unheld premise. The claim goes Active when [CLAIM-652](CLAIM-652.md) does, unless the candidate third route of the note of 2026-11-17 is filed as an objection to "two distinct routes".
 
 ## Note of 2026-11-23: route B produced by learning, from [LEAD-181](../leads.d/LEAD-181.md)
-<!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
 
 In [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) an institution told only its internal score learns to
 make no inquiry, with no rule against inquiry and no act against anyone:
@@ -146,8 +146,7 @@ two routes are one. No status change.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmp0bqyu CLAIM-652 — Proposed; the moves checked and the wait -->
-Rechecked after CASE-tmp8mk6w and CLAIM-tmp0bqyu (2026-11-23; the CASE went
+Rechecked after [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) and [CLAIM-tmp0bqyu](CLAIM-tmp0bqyu.md) (2026-11-23; the CASE went
 Active at this review). Both bear on route B only and model no exit. The
-wait is unchanged: CLAIM-652 (route A) is Proposed, and the candidate third
+wait is unchanged: [CLAIM-652](CLAIM-652.md) (route A) is Proposed, and the candidate third
 route of the note of 2026-11-17 has not been filed as an objection.

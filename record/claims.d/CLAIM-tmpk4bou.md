@@ -45,7 +45,6 @@ summary: >-
   idea is A's; the derivation and wording are the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpx9nrj — Proposed; filed in this filing of 2026-11-22 -->
 
 # CLAIM-tmpk4bou: A regulation that only adds hard constraints to a fixed dynamical model can only shrink the compatibility complex of the public demands, so it cannot relieve their frustration; a regulation relieves frustration among the original demands only by changing the dynamics, through the technologies, infrastructure or access it brings about
 

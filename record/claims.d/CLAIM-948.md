@@ -59,7 +59,6 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CASE-363 — new; the study this claim rests on and its companion, filed in the same batch -->
 
 # CLAIM-948: The coupled meaning–influence model reduced to two specialists and scalar authority is a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, so it adds nothing to that class; against fixed-weight and reflected-appraisal models, and against Gaussian bounded confidence off a balanced corpus, it produces authority chosen by the initial interpretation and switched by the evidence with hysteresis, which they cannot
 

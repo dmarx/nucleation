@@ -175,6 +175,6 @@ Cook ([THEORY-1998](../theory.d/THEORY-1998.md), point 7) bears on the claim's u
 No status changes.
 
 ## Note of 2026-11-22: the Tempe prosecution, read
-<!-- inactive-ok-file: CLAIM-tmp20uni CLAIM-tmp64hmn — new or Proposed; filed by the lead run on 2026-11-22, and the claim that complements this one -->
+<!-- inactive-ok-file: CLAIM-tmp20uni — new or Proposed; filed by the lead run on 2026-11-22, and the claim that complements this one -->
 
 A bearing, with no relation written. On the Tempe crash, the criminal law, one practice of blame, stopped at the operator and declined to charge the company, while the NTSB, barred from blame, traced cause to the company and the state ([CLAIM-tmp20uni](CLAIM-tmp20uni.md), complementing [CLAIM-751](CLAIM-751.md)). That is one instance in which blame carried no provenance upstream. It does not deny this claim, which says blame gives provenance "as well", not that it always reaches upstream. [CLAIM-tmp64hmn](CLAIM-tmp64hmn.md) notes that other processes, a settlement and a suspension, did reach the company, though without tracing which of its decisions failed. No status changes.

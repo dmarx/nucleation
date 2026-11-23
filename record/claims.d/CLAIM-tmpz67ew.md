@@ -37,7 +37,7 @@ summary: >-
   "optimally" is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmplgnjf CLAIM-tmpk4bou CLAIM-tmpx9nrj CLAIM-tmphjm0q THEORY-859 TERM-tmppvlfi — Proposed; filed or cited in this filing of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmphjm0q THEORY-859 TERM-tmppvlfi — Proposed; filed or cited in this filing of 2026-11-22 -->
 
 # CLAIM-tmpz67ew: Regulations are constraints that operationalize a demand specification, chosen so as to steer an industrial ecosystem optimally toward harmonious governance
 

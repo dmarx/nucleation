@@ -60,7 +60,6 @@ model does not show that larger v is better: it says nothing of what a
 fast-revisable reference costs against transient fluctuations, which is
 the other half of A38's tension.
 
-<!-- inactive-ok-file: CLAIM-tmp947v0 — Proposed; filed in this filing of 2026-11-23 (third share) -->
 
 ## Note of 2026-11-23: the sufficient half
 

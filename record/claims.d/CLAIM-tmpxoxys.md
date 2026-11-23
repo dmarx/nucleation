@@ -56,7 +56,6 @@ summary: >-
   to 0.07 to 0.08. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpqnoj1 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmpxoxys: Where no process holds evidence on a block of tasks that does not come from the proposals themselves, a governance rule that treats its members alike cannot tell honest dissent from an attack that pushes the same block as hard: in a world and in its relabelling, with the dissenters' and attackers' targets swapped, it ends in the same place, so what it gains for the dissenters in one world it gains for the attacker in the other
 

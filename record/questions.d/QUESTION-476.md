@@ -181,7 +181,7 @@ The question's second half, for engineering postmortems, now has a pilot bearing
 No status changes. The question stays Open.
 
 ## Note of 2026-11-22: the SRE example postmortem, the workbook and the Tempe prosecution, read
-<!-- inactive-ok-file: THEORY-tmp9j928 THEORY-tmpm653d THEORY-tmpfdyu6 CLAIM-tmp20uni CLAIM-tmp64hmn CLAIM-tmpauu5r CASE-tmptkkgm — new; filed by the lead run on 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmp9j928 CLAIM-tmp20uni CLAIM-tmpauu5r CASE-tmptkkgm — new; filed by the lead run on 2026-11-22 -->
 
 Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22; each reading now carries `bears_on` this question.
 
