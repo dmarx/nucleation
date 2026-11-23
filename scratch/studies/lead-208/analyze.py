@@ -79,6 +79,33 @@ def stiff_counts(rec):
     return res
 
 
+def extrapolated_counts(rec, fits):
+    """Stiff counts with unresolved eigenvalues extrapolated from level 1.
+
+    A rank with a fitted factor uses it; a rank resolved at levels 1 and 2
+    only uses its two-point ratio; a rank resolved at level 1 only is given
+    the smallest factor fitted for any rank (an assumption, stated)."""
+    levels = sorted(int(k) for k in rec["levels"])
+    lam1 = np.asarray(rec["levels"]["1"]["lam"])
+    lam2 = np.asarray(rec["levels"]["2"]["lam"])
+    fitted = [f["factor"] for f in fits if f["factor"] is not None]
+    fmin = min(fitted)
+    fac, how = [], []
+    for j, f in enumerate(fits):
+        if f["factor"] is not None:
+            fac.append(f["factor"]); how.append("fit")
+        elif len(f["levels"]) == 2:
+            fac.append(lam2[j] / lam1[j]); how.append("ratio")
+        else:
+            fac.append(fmin); how.append("assumed")
+    fac = np.asarray(fac)
+    out = {}
+    for k in levels:
+        lamk = lam1 * fac ** (k - 1) if k >= 1 else np.asarray(rec["levels"]["0"]["lam"])
+        out[str(k)] = [int((n * lamk >= 1).sum()) for n in NS]
+    return out, fac.tolist(), how
+
+
 def field_overlap(vec):
     v = np.asarray(vec)
     return float(abs(v[0]))
@@ -140,8 +167,15 @@ def main():
         for k in levels:
             c = sc[str(k)]
             md.append("| %d | %s | %s |" % (k, c["counts"], c["upper"]))
+        ext, fac, how = extrapolated_counts(rec, fits)
+        md += ["", "Stiff count extrapolated (lambda_j(k) = lambda_j(1) f_j^(k-1); factors %s; "
+               "how: %s):" % (", ".join("%.3g" % x for x in fac), ", ".join(how)), ""]
+        md.append("| k | counts at n = %s |" % ", ".join("%g" % n for n in NS))
+        md.append("|---|---|")
+        for k in levels:
+            md.append("| %d | %s |" % (k, ext[str(k)]))
         md.append("")
-        summary["fisher"][key] = {"decay": fits, "relevant_count": nrel,
+        summary["fisher"][key] = {"extrapolated_counts": ext,"decay": fits, "relevant_count": nrel,
                                   "relevant_count_point": nrel_point,
                                   "stiff_counts": sc}
 
