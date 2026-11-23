@@ -2,7 +2,7 @@
 
 # Regulation as the Governance of Possibility: Identity, Slow Modes, and the Temporal Organization of Adaptive Industrial Ecosystems
 
-Abstract: written last.
+**Abstract.** Regulation is usually treated as a set of constraints on conduct within an economy whose possibilities are given. This paper argues, from the Nucleation record's results, that what regulation can secure is better described by what it keeps attainable, sustainable and revisable, and that this is a question about time. A hard constraint added to a fixed model of an ecosystem cannot enlarge what its demands can jointly achieve; relief comes only from changing the dynamics. Demands that are compatible can fail to be compatible within their deadlines. An organization's identity is kept by filtering, which buys stability in lag; and a budget set to last period's use forecloses any transition costlier than holding, so ecosystems matched on present output can differ in whether they can reorganize. A model of such ecosystems, run with tests, shows that redesigning a transition lowers the reserve it needs without replacing it, that a periodic drill is a reserve by another name, and that which regime is most ready depends on the deadline. The paper states every step with the standing the record gives it. Its formal core is Active and demonstrated. Its integrating theses, that identity is selective conservation and that adaptive governance is the maintained viability of a demand-appropriate response repertoire, are an AI assistant's and Proposed. Its own joins are collected and marked (§15). No industrial case is examined; the model is a model.
 
 ## 1. Introduction: the possibility space is not given
 
