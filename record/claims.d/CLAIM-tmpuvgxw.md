@@ -41,7 +41,7 @@ summary: >-
   leans to. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpvtotj CASE-tmphvbov CLAIM-tmpioexk — new, Proposed; the account and study this reading rests on, and the alternative reading -->
+<!-- inactive-ok-file: THEORY-tmpvtotj CASE-tmphvbov CLAIM-tmpioexk CLAIM-tmpsuj5n — new, Proposed; the account and study this reading rests on, the alternative reading, and the claim on what the test can show -->
 <!-- inactive-ok-file: CLAIM-432 — Proposed; the claim whose prediction this reading supports -->
 
 # CLAIM-tmpuvgxw: That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends, while a monitor's effect fades, is evidence for the redesign half of the sanction-versus-redesign prediction: a change in who holds authority over decisions outlasts the sanction, a change in conduct under watch does not

@@ -22,6 +22,7 @@ summary: >-
   construct and no claim joining them. The question asks which reading of
   the thesis survives.
 ---
+<!-- inactive-ok-file: CASE-tmphvbov CLAIM-tmpsuj5n CLAIM-tmpm9a3z — new, Proposed; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: THEORY-2216 CLAIM-431 CLAIM-432 — Proposed; the reading of Mulgan, 2026-11-22, and the claims it is set beside -->
 <!-- inactive-ok-file: CLAIM-271 THEORY-125 THEORY-131 THEORY-139 THEORY-147 THEORY-892 — Proposed; open, and cited as open: nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-698 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
@@ -97,3 +98,15 @@ consequence is to deny the group moral agency, not to ground blame. On step
 1, it adds to Velasquez's premises as the record holds them (mind and body)
 the slippery-slope argument and Searle's account of consciousness, both
 second-hand. The question stays open.
+
+## Note of 2026-11-23: the sanction-lift test, run and not met
+
+The test CLAIM-431 and CLAIM-432 both name for what remorse in a
+corporation would be, whether harms keep being weighed once a sanction
+lifts, was run on open sources by LEAD-101 (CASE-tmphvbov). No case holds
+reputation and benefit fixed, so it does not decide between them. What it
+adds to this question: reversion after a sanction lifts is predicted by
+both answers (CLAIM-tmpsuj5n); a monitor's effect on violations does not
+outlast the monitor (CLAIM-tmpm9a3z); and remorse, if a corporation has
+it, would show only in a redesigned corporation's post-lift conduct when
+keeping the procedure no longer pays. The question stays open.

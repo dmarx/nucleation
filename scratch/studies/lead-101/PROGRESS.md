@@ -15,15 +15,19 @@
 - cases.csv (3 cases), events.csv (13 events), studies.csv (8 coefficients), summarize.py, test_summarize.py (11 passing), results.json, README.md.
 - Result: no case meets the standard; Purdue and Siemens lack a finding-level post-lift outcome and both have reputation exposed and benefit aligned; Wells Fargo is unripe.
 
+- Six LITs with NOTEs; THEORY-tmpvtotj; CASE-tmphvbov; CLAIM-tmpm9a3z, CLAIM-tmpsuj5n, CLAIM-tmpuvgxw (alternative), CLAIM-tmpioexk (alternative, leaned to); ARG-tmpd3vkm.
+- Dated notes on LEAD-101, CLAIM-431, CLAIM-432, CLAIM-039, QUESTION-265, CASE-151; changelog fragment record/changelog.d/lead-101.md.
+
 ## Obstacles (not retried)
 
 - 2026-11-23: www.justice.gov (Purdue 2020 press release, archives/opa/pr/...): Akamai interstitial bot check. Stopped.
 - 2026-11-23: corporate-prosecution-registry.com/downloads/ and usdoj.gov: refused by this session's permission system. Not worked around.
 - violationtracker.goodjobsfirst.org: 403.
+- api.crossref.org: 429 (the monitor study's metadata taken from OpenAlex instead).
 
 ## Next
 
-- Register LITs and NOTEs; THEORY for Gallo et al.; CASE; CLAIMs; dated notes; changelog.
+- Nothing for this run. For the owner or a later run: rule ARG-tmpd3vkm; choose between CLAIM-tmpuvgxw and CLAIM-tmpioexk; read the Purdue 2020 plea documents if justice.gov can be reached lawfully; rerun Wells Fargo from mid-2027; look for a redesigned firm's private, costly post-lift decision in documents released later.
 
 ## Choices made
 

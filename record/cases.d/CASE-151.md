@@ -30,6 +30,7 @@ reported_in:
 - LIT-1425
 - NOTE-1095
 ---
+<!-- inactive-ok-file: CASE-tmphvbov — new, Proposed; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: ARG-071 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-432 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-624 — filed from the same exchange, Proposed -->
@@ -210,3 +211,14 @@ came to the board from the regulators.
 ## Note of 2026-11-07: cited through its note, not as a case, from the second share of "Individuation, Possibility, and Disposition"
 
 A60 §7 of the second share of the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07; https://chatgpt.com/share/6aeea2bc-d280-83e9-ac1f-f6772adf263c) cites [NOTE-1095](../notes.d/NOTE-1095.md), correctly, as "useful evidence of possible institutional mechanisms", and says the reproduction is not shown. It did not cite this case or [CLAIM-432](../claims.d/CLAIM-432.md). [ARG-071](../arguments.d/ARG-071.md), from this case to the reproductive layer of A's [CLAIM-624](../claims.d/CLAIM-624.md), is Rejected for that reason: the report shows occlusion and blocked uptake, not a regime reproducing its representation through its success. Unchanged.
+
+## Note of 2026-11-23: the growth restriction lifted
+
+The Federal Reserve lifted the asset growth restriction of its 2018
+enforcement action on 2025-06-03, finding that the bank had improved "its
+governance and risk management program" and completed a third-party review;
+"The other provisions in the 2018 enforcement action will remain in place"
+(LIT-tmppg6h5, NOTE-tmp59pkn). For LEAD-101's run (CASE-tmphvbov) this
+case is coded unripe: under six months of window, and the release names no
+procedure that weighs harm to customers. It is the case on which
+CLAIM-432's part 5 could next be tested, from mid-2027. Unchanged.

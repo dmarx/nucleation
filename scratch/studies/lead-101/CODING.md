@@ -104,4 +104,5 @@ firms revert.
 
 ## Changes while coding
 
-(none yet)
+(none: the rules were applied as written. Siemens's during-sanction outcome
+is coded "W+ and W-" because both kinds of event are documented.)
