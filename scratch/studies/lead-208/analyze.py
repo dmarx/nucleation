@@ -56,7 +56,8 @@ def decay_fit(rec, kfrom=1):
             resid = ys - A @ beta
             chi2 = float(resid @ W @ resid) / max(len(ks) - 2, 1)
             se = np.sqrt(cov[0, 0] * max(chi2, 1.0))
-            out.append({"rank": j + 1, "factor": float(np.exp(beta[0])),
+            late = float(np.exp((ys[-1] - ys[-3]) / (ks[-1] - ks[-3])))
+            out.append({"rank": j + 1, "factor": float(np.exp(beta[0])), "late": late,
                         "factor_lo": float(np.exp(beta[0] - 2 * se)),
                         "factor_hi": float(np.exp(beta[0] + 2 * se)),
                         "levels": [int(ks[0]), int(ks[-1])]})
@@ -121,14 +122,14 @@ def main():
         nrel = sum(1 for f in fits if f["factor"] is not None and f["factor_lo"] > THRESH)
         nrel_point = sum(1 for f in fits if f["factor"] is not None and f["factor"] > THRESH)
         md += ["", "Per-step decay factors (fit over levels 1.., resolved only; 2-sigma range):", ""]
-        md.append("| rank | factor | range | levels |")
-        md.append("|---|---|---|---|")
+        md.append("| rank | factor | range | levels | last two steps |")
+        md.append("|---|---|---|---|---|")
         for f in fits:
             if f["factor"] is None:
                 md.append("| %d | - | - | %s |" % (f["rank"], f["levels"]))
             else:
-                md.append("| %d | %.3f | %.3f-%.3f | %d-%d |" % (
-                    f["rank"], f["factor"], f["factor_lo"], f["factor_hi"], *f["levels"]))
+                md.append("| %d | %.3f | %.3f-%.3f | %d-%d | %.3f |" % (
+                    f["rank"], f["factor"], f["factor_lo"], f["factor_hi"], *f["levels"], f["late"]))
         sc = stiff_counts(rec)
         md += ["", "Relevant count (factor's 2-sigma range above 2^-1/2): **%d** "
                "(point estimate above: %d)." % (nrel, nrel_point), "",

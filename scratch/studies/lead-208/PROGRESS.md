@@ -20,7 +20,26 @@
   SYNTHESIS-119, the readings that note it, and the triage row
   (scratch/lead-triage/2026-11-22.tsv). No changelog fragment, CASE or claim.
 
+- Code written (ising.py, fisher.py, strip.py, clusters.py, run_study.py,
+  analyze.py) with 13 pytest tests, all passing.
+- Choices made:
+  - Parameters: field + 12 two-spin couplings (every offset in the 5x5 box up
+    to sign) = 13, the main-text count of THEORY-777's source.
+  - Sampler: Swendsen-Wang at all three temperatures (they are within 10% of
+    T_c, and SW keeps the symmetric ensemble below T_c); Metropolis is
+    checked against exact enumeration in the tests only.
+  - Fisher estimator: level 0 Cov(Phi); level 1 exact conditional means
+    given the black sublattice; level >= 2 two compatible chains (SW +
+    heat-bath, observed sites frozen, burn 3, 2 measurements) per config,
+    cross product. Burn 1 vs 8 checked at L = 32.
+  - Relevant count: eigenvalue rank whose fitted per-step factor has its
+    2-sigma lower bound above 2^(-1/2), midway in log between b^(-d) = 1/2
+    and 1.
+  - Predictive information: both the lead's column-block definition and a
+    single-row definition, exact by transfer matrix.
+- Runs: strip (W <= 12) and Monte Carlo L = 16, 32 done; L = 64 running.
+
 ## Next
 
-- Write the Monte Carlo, Fisher estimator, transfer-matrix and cluster code
-  with tests; run; file.
+- Finish L = 64 and the burn check; analyse; file CASE, CLAIMs, notes,
+  changelog.
