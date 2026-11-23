@@ -21,6 +21,12 @@
   - Tuulari et al. 2025, PMC12092256 (EPMC REST) — childhood maltreatment and sperm epigenetics.
 - Not reached: Thapar & Rice 2021 (PMC7919395): EPMC 500; E-utilities says publisher disallows XML. Santavirta et al. 2018 (PMC5833542): EPMC 500.
 
+- Read: Rice et al. 2010 (full), Lewis et al. 2011 (abstract, intro, methods, results), Mulligan et al. 2025 (full body), Tuulari et al. 2025 (full body), Zhou & Ryan 2023 (full). Rice & Thapar 2010 birth-weight paper (PMC2954294) fetched by mistake and read; not filed (neither quoted nor relied on).
+- Identity-route search (Europe PMC): nothing meets QUESTION-297's identity test. Nearest: Kennedy et al. 2025 (PMC12781289), thoughts of historical loss against network talk of AI/AN identity; abstract read only; falls short (frequency of thoughts, not distress; family in the network). Not filed.
+- Codes: Rice LIT-tmpr7q37 / NOTE-tmpso8z1 / THEORY-tmpo8don; Lewis LIT-tmpdsu42 / NOTE-tmp18gag / THEORY-tmp4fo7b; Mulligan LIT-tmpglael / NOTE-tmpxwx4b / THEORY-tmppcqht; Tuulari LIT-tmpuwnm5 / NOTE-tmpv0ug9 / THEORY-tmpseccf; Zhou & Ryan LIT-tmpdvx5j / NOTE-tmp05o0u / THEORY-tmplq0um.
+- Claims: CLAIM-tmp3qsdg (design map, thesis, lean); CLAIM-tmpgv8bs (alternative: Mulligan as partial separation, counter); CLAIM-tmpv8nto (donor-gamete design puts marks with genes, demonstrated); ARG-tmpmenxz (Mulligan by abduction to CLAIM-tmpgv8bs).
+- Written so far: five LITs, NOTE-tmpso8z1.
+
 ## Next
 
 - Read the four texts; file LIT, NOTE, THEORY each.
