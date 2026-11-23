@@ -1,163 +1,286 @@
 ---
 name: write-manuscript
-description: How a manuscript is manifested and fleshed out from the record as a view over its argument - from a work in the `works` vocabulary and a motivating draft (an assistant's write-up, an owner's outline) to a cited, reviewed working draft in scratch/manuscripts/, with its analysis executed and its gaps fed back to the record. Use it when the owner asks to draft, flesh out, refresh or revise a manuscript tied to the record's arguments, or to turn an exchange's write-up into one. ADR-tmpbdfmk holds the invariants; ADR-104 the membership rule.
+description: How a manuscript is manifested and fleshed out from the record as a view over its argument - from a work in the `works` vocabulary and a motivating draft (an assistant's write-up, an owner's outline) to a cited, fact-checked, reviewed working draft in scratch/manuscripts/, with its analysis executed, its gaps fed back to the record, its open items routed to the owner, and its refreshes as the record moves. Use it when the owner asks to draft, flesh out, refresh or revise a manuscript tied to the record's arguments, or to turn an exchange's write-up into one. ADR-tmpbdfmk holds the invariants; ADR-104 the membership rule.
 ---
 <!-- .claude/skills/write-manuscript/SKILL.md -->
 
 # Writing a manuscript from the record
 
 A manuscript is a view over the record's argument, written for a reader
-outside the record. The record holds the argument; the manuscript arranges
+outside the record. The record holds the argument. The manuscript arranges
 part of it into a paper, says what each step rests on and how firmly, and
 marks what it adds. It is a working document in
 `scratch/manuscripts/<work>/`, under version control and outside the
-record: luria does not read `scratch/`.
+record: luria does not read `scratch/`, and does not repair it either.
 
 ADR-tmpbdfmk holds what must stay true. This file says how it is done now,
-and it is meant to change: when a step turns out wrong or missing, edit it
+and it is meant to change. When a step turns out wrong or missing, edit it
 in the same pull request as the work that showed it, and say so in the
 changelog fragment.
 
-The worked examples are `scratch/manuscripts/from-obstruction-to-reorganization/`
-(its README and REVIEW file show the procedure end to end) and
-`scratch/manuscripts/governance-of-possibility/`, the first written under
-this skill.
+**Where the procedure comes from.** The first manuscript,
+`scratch/manuscripts/from-obstruction-to-reorganization/`, was made between
+2026-11-20 and 2026-11-22 in pull requests 555, 556, 557, 582, 584, 597,
+609, 621 and 623. It was reviewed in RETRO-006 and RETRO-007, and parts of
+it in RETRO-008. Its README and `REVIEW-2026-11-20.md` show the product.
+The commits, the pull request bodies, the workbench entries of 2026-11-20
+and the retrospectives show the process, including what went wrong. Read
+both before departing from a step here. The second manuscript,
+`scratch/manuscripts/governance-of-possibility/`, is the first written
+under this skill.
 
 ## 1. The work
 
-- **There is a `works` term for it.** If not, add one by decision, on the
-  model of ADR-104 and ADR-106: the term, its label and blurb, and its first
-  members. The blurb names the request, the draft and, once it exists, the
+- **There is a `works` term for it.** If there is none, add one by
+  decision, on the model of ADR-104 and ADR-106: the term, its label and
+  blurb, and its first members. The blurb names the request and the draft,
+  and, once it exists, the directory. Changing `luria.yaml` waits on the
+  owner's merge.
+- **Members are found by reading**, under ADR-104's rule. A CLAIM or ARG is
+  a member when the manuscript states its proposition or uses it as a
+  step. A citation in a reference list alone does not count. Membership
+  says nothing of status (ADR-032).
+- **Membership is revisited.** When a successor draft takes over a work,
+  or a refresh adds steps, run a membership pass under ADR-104 in its own
+  pull request. Until one has run, the README says membership is as of
+  its date. The first manuscript's membership was never revisited after
+  its successor draft (ADR-135), and still lists its predecessor's
+  members.
+- **Whether a successor draft is the same work is the owner's ruling.** If
+  it is, ADR-135 is the precedent: the term is renamed to the draft's
   directory.
-- **Members are found by reading** (ADR-104's rule): a CLAIM or ARG whose
-  proposition the manuscript states or uses as a step. A citation in a
-  reference list alone does not count. Membership says nothing of status
-  (ADR-032).
-- **The directory takes the work's name.** One work, one directory; a
-  successor draft of the same work renames the term to it (ADR-135).
 
 ## 2. The motivating draft
 
-The owner often starts a manuscript with a write-up made elsewhere, such as
-an assistant's article at the end of an exchange, or an outline. It is a
-motivating draft: it fixes the scope, the order and the questions, and it is
-not the record's text.
+The owner often starts a manuscript from a write-up made elsewhere, such as
+an assistant's article at the end of an exchange, or from an outline. It is
+a motivating draft. It fixes the scope, the order and the questions, and it
+is not the record's text.
 
 - **Keep it whole.** Save it verbatim in the scratchpad, and point every
   digester, drafter and reviewer at that file.
-- **Audit it before using it**, as the read-and-file skill's step 9b audits
-  a synthesis, and record the audit in the curation entry of the work's
-  decision:
-  - *map* each section to the codes that hold it;
-  - *fidelity*: every statement it makes about the record (a code's title,
-    its status, "Nucleation holds…") checked against the entry;
-  - *attribution*: the owner's contributions named as the owner's, an
-    assistant's own claims not told as the record's;
-  - *what it adds*: each integration tested by ADR-075's routes; what passes
-    is filed, what fails is a recap or a gap;
-  - *gaps*: steps it asserts without deriving, numbers that do not check,
+- **Audit it before using it**, as the read-and-file skill's step 9b
+  audits a synthesis. Record the audit in the curation entry of the work's
+  decision, or in a curation entry of its own when the work already
+  exists. The first manuscript's exchange was never filed or audited, and
+  its corrections lived only in a commit message.
+  - **Map** each section to the codes that hold it.
+  - **Fidelity:** check every statement it makes about the record (a
+    code's title, its status, "Nucleation holds…") against the entry.
+  - **Attribution:** name the owner's contributions as the owner's, and do
+    not tell an assistant's own claims as the record's.
+  - **What it adds:** test each integration by ADR-075's routes. What
+    passes is filed; what fails is a recap or a gap.
+  - **Gaps:** steps it asserts without deriving, numbers that do not check,
     tests proposed without a design, outcomes stipulated as if found.
 - **File what it adds**, in the voices of whoever put it forward, in the
-  work's pull request, before drafting on it (read-and-file steps 9 and 9a).
+  work's pull request, before drafting on it (read-and-file steps 9 and
+  9a).
 
 ## 3. Background digests
 
-Before drafting, read the regions of the record the manuscript draws on,
-one digest per region, in `background/`. A digest is a dated snapshot:
+Read the regions of the record the manuscript draws on, one digest per
+region, in `background/`. Write them before drafting, when the scope is
+known. The first manuscript wrote them only when Part I was restructured.
+A digest is a dated snapshot:
 
 - a header saying what was read and when, starting from the line accounts;
-- only what the record holds, by section: TERMs as a table with quoted
-  definitions; CLAIMs with status, warrant, role, premises and a short
-  quotation; CASEs with what was run and found; open QUESTIONs and LEADs;
+- only what the record holds, by section:
+  - TERMs as a table with quoted definitions;
+  - CLAIMs with status, warrant, role, premises and a short quotation;
+  - CASEs with what was run and found;
+  - open QUESTIONs and LEADs;
 - a last section, marked as the digester's own reading: what the
   manuscript can rest on, what is only Proposed, what is missing, and the
   tensions between entries.
 
 Digests are delegated in parallel, one region each. A digester writes only
-its own file and edits nothing in the record.
+its own file, edits nothing in the record, and commits a whole file, not a
+partial one.
 
 ## 4. Analysis
 
-Every model, figure or "testable" construction in the manuscript is run,
-not stipulated.
+Every model, figure or "testable" construction the manuscript reports is
+run, not stipulated. So is every study the review calls for: the first
+manuscript's census came from its review.
 
-- Put it in `analysis/`: the model, the study that sweeps it, tests, and a
-  README saying what it establishes and what it does not.
-- The tests include the exact conditions of the record's entries the model
-  relies on, and at least one negative control that can fail.
-- Fix seeds; keep the outputs (JSON and a short results file) beside the
-  code; date the run.
-- A result that bears on an entry goes back to the record as a CASE or a
-  dated note (step 8), and the manuscript cites the entry, not the script.
+- **Where it goes.** Put it in `analysis/`: the model or coding scheme, the
+  study that sweeps or tallies it, tests, and a README saying what it
+  establishes and what it does not.
+- **A computed study**:
+  - has tests that include the exact conditions of the record's entries it
+    relies on;
+  - has at least one negative control that can fail;
+  - fixes its seeds;
+  - keeps its outputs (JSON and a short results file) beside the code,
+    dated by the commit they were run at.
+- **A study coded by hand**:
+  - has its codebook fixed before coding;
+  - has a second coder on a seeded random sample;
+  - reports agreement per field;
+  - marks as such a batch that one coder adds later;
+  - says where the coders are instances of one model family.
+- **A finding that rests on one reader's interpretive classification** is
+  checked by a second reader or by the owner before it is filed or
+  reported (RETRO-007).
+- **One copy of the data.** When a study is filed as a CASE, keep one copy
+  of its data and scripts, and have the other place cite it. The first
+  manuscript's census was copied to `scratch/formal/decision-census/`, and
+  the two copies diverged.
+- **A result that bears on an entry** goes back to the record as a CASE or
+  a dated note (step 6). The manuscript cites the entry.
 
 ## 5. Draft
 
 - **Files by part**, each under about 500 lines, in reading order, each
   beginning with its path as a comment.
 - **Every step cites the entry that holds it, with its standing**: Active
-  or Proposed, and demonstrated, empirical or interpretive. Codes are
-  written bare. Statuses are as of the draft's date.
-- **Voices stay separate.** The owner's theses are named as the owner's;
-  another assistant's as theirs; the drafting assistant's own additions as
-  its own.
+  or Proposed, and demonstrated, empirical or interpretive. Write codes
+  bare, and give statuses as of the draft's date.
+- **Quote where a paraphrase would move scope.** Keep an entry's scope
+  conditions (its "only", "unless", "when"). Never turn a sufficient
+  condition into a definition, or a conjunction into an identity. These
+  overreaches were the first manuscript's dominant error, and they ran one
+  way: citing codes did not prevent them (RETRO-006).
+- **Voices stay separate.** Name the owner's theses as the owner's, another
+  assistant's as theirs, and the drafting assistant's own additions as its
+  own.
 - **Integrations are marked.** Where the manuscript joins steps the record
-  keeps apart, it says so, and collects those joins in one place (a section
-  or a table) as the manuscript's own, not entries the record holds.
+  keeps apart, say so in the text, and collect those joins in one place (a
+  section or a table) as the manuscript's own.
+  - Before calling a join new, search the "Not stated on the record"
+    sections of the accounts its components belong to. A join an account
+    has declined is not new (RETRO-006).
+  - When a join is drafted, put it to ADR-075's step 5 by an independent
+    reader with a neutral brief. Under ADR-131 the test routes and does
+    not reject: a join that fails stays in the manuscript as its own, and
+    goes under its accounts' "Not stated on the record". Correct the text
+    on the verdicts.
+- **Expectations before results.** State each expectation with its
+  falsifier before the results that grade it. Use a census, or another
+  sampling frame, not hand-picked cases. Do not count a measure that holds
+  by lint or policy as evidence.
 - **Use the motivating draft for scope and order, not text.** Rewrite from
-  the digests and the entries; quote the draft only as the draft.
-- **State limits early**: how the argument was developed, and what in the
-  manuscript is model rather than evidence.
-- Drafters are delegated by part, in parallel, each given the digests, the
-  audit, the analysis results and the list of the other parts' scope.
+  the digests and the entries, and quote the draft only as the draft.
+- **State limits early**: how the argument was developed (with AI
+  assistants, who also study the record that holds it), and what in the
+  manuscript is a model rather than evidence.
+- **Drafters** are delegated by part, in parallel. Each gets the digests,
+  the audit, the analysis results and the other parts' scope, lists the
+  files it writes, and writes only those. One writer edits a given file at
+  a time (ADR-139).
 
 ## 6. Gaps go back to the record
 
 What the argument needs and the record does not hold is not settled inside
 the manuscript.
 
-- A missing step with content of its own is filed as a Proposed CLAIM, a
-  QUESTION or a LEAD, in the drafting assistant's voice, in the manuscript's
-  pull request (read-and-file step 9a's rule).
-- Anything left open is listed in the README's open items, with what would
-  settle it.
-- A claim filed for the manuscript is a member if the manuscript states it
-  or uses it as a step.
+- **A missing step with content of its own** is filed as a Proposed CLAIM,
+  a QUESTION or a LEAD, in the drafting assistant's voice, in the
+  manuscript's pull request (read-and-file step 9a's rule). Where two
+  readings are open, file both as alternatives.
+- **A measurement the manuscript proposes** becomes a LEAD with its design
+  fixed when it is filed, and its defeaters stated as checks the record
+  can run. Run the leads the owner triages. Feed each result back to its
+  entry, to the manuscript and to the README.
+- **Anything left open** is listed in the README's open items, with what
+  would settle it.
+- **Membership of what is filed.** A claim filed for the manuscript is a
+  candidate member under ADR-104's rule. List it as one in the pull
+  request; adding it is the owner's call.
 
 ## 7. Independent review
 
-- **A reviewer who did not draft** reads the whole draft and every cited
-  entry, without the drafters' reasoning. The brief states the tests
+- **Who.** A reviewer who did not draft reads the whole draft and every
+  cited entry, without the drafters' reasoning. The brief states the tests
   neutrally and does not say how the drafting went.
-- It checks every statement it can against the entry: quotations,
-  standings, attributions, figures; it spot-checks the rest and says how
-  many.
-- It searches the record for points of contact the draft does not use.
-- It gives a verdict, the structural problems ranked, the factual
-  corrections, and a revision plan, in `REVIEW-<date>.md` beside the draft.
+- **What it checks.** Every statement it can (quotations, standings,
+  attributions, figures) is checked against its entry. The rest is
+  spot-checked, and the reviewer says how many.
+- **Points of contact.** The record is searched, region by region with one
+  searcher each, for points of contact the draft does not use. The process
+  history (decisions, reviews, skills) is one of the regions. In the first
+  manuscript it is where the draft's central premise was found wrong.
+- **Confirmed corrections.** The coordinator re-checks every correction
+  against its entry before writing it into the review, and marks it
+  confirmed.
+- **What it produces.** A verdict, the structural problems ranked, the
+  factual corrections, and a revision plan, in `REVIEW-<date>.md` beside
+  the draft.
+- **The draft is committed unchanged with its review**, and the plan is
+  put to the owner. Revise on the plan as the owner accepts or amends it.
 
-## 8. Revise, and land
+## 8. Revise, check, and land
 
-- **Revise on the review**, item by item; the README says which items were
-  taken, which not, and why.
-- **A last fact-check** of the revised text against the entries.
-- **The README** gives: provenance (the motivating draft, its date and
-  turn; the digests; the review), status (outside the record; what is the
-  manuscript's own), the files in reading order, the analysis and how to
-  run it, and the open items for the owner.
-- **One pull request into staging**, cut from staging once the work's
-  decision and any entries the draft cites have merged there. It carries
-  the draft, the entries filed for it (step 6), dated notes the analysis
-  calls for, and a changelog fragment. Commit and push as each part lands.
+- **Revise on the review**, item by item. The README says which items were
+  taken, which not, and why, quoting the owner where the owner's direction
+  overrode the plan.
+- **An independent fact-check after every substantive version**: after the
+  revision, after any restructuring, and after each refresh.
+  - A reader who did not write the text checks every quotation, standing
+    and figure against its entry, and reproduces every figure.
+  - Fix what it finds, and say in the commit how many problems it found.
+  - The first manuscript's three fact-checks found 9, 37 and 7 errors.
+- **The README** gives:
+  - provenance: the motivating draft, its date and turn, the digests, the
+    review and the fact-checks;
+  - status: outside the record, what is the manuscript's own, and
+    membership as of its date;
+  - the files in reading order;
+  - the analysis and how to run it;
+  - the open items for the owner, numbered. Ruled items move to "Closed
+    since the last list" with the ruling quoted and its pull request, and
+    the numbering is kept.
+- **Pull requests into staging**, cut from staging once the work's
+  decision and any entries the draft cites have merged there (ADR-116).
+  - The draft's pull request carries the draft, its gap entries, the
+    dated notes the analysis calls for, devlog notes and the changelog
+    fragment.
+  - What the draft derives as a unit of its own (a census filed as a CASE,
+    principles filed as accounts) goes in a pull request of its own
+    (ADR-071; the owner's "in an independent PR", 557).
+  - So does each later refresh.
+  - Commit and push as each part lands.
+- **Open items go to the owner** in the pull request's "Choices waiting on
+  the owner".
+  - On merge into staging, add them to the promotion pull request's
+    choices section. Read it just before writing, and edit only that
+    section (ADR-128).
+  - The owner rules inline, or by ticking a box (ADR-124). Record each
+    ruling in the README.
+- **Devlog notes as the work goes**, tagged `retro`, in the manuscript's
+  pull request (ADR-115). When the batch closes, check ADR-110's triggers
+  for a retrospective. The first manuscript took none, and RETRO-006 had
+  to reconstruct it.
 
 ## 9. Refresh
 
-When the record moves, a manuscript drifts. A refresh, on the owner's
-request or when its members change status:
+When the record moves, a manuscript drifts. A refresh is triggered when the
+owner asks, when entries the manuscript **cites** change status or have
+their codes concretized at a promotion, or after an adoption or status
+review. It runs after the filings it describes have landed (ADR-139), and
+it:
 
-- re-reads the digests' regions and adds a dated update at the head of each
-  digest rather than rewriting it;
-- rechecks every cited standing and replaces temporary codes with their
-  permanent ones;
-- reruns the analysis and dates the new outputs;
-- adds a dated refresh note to the README saying what changed, by section;
-- revisits membership.
+- **Digests.** Adds a dated update at the head of each digest, rather than
+  rewriting it.
+- **Standings.** Rechecks every cited standing.
+- **Temporary codes.** Replaces temporary codes with permanent ones, using
+  each entry's `formerly:`. luria does not repair `scratch/`, so this is
+  done by hand, in the manuscript only. Never script the rewrite into
+  record files (RETRO-007). The first manuscript still cites 55 temporary
+  codes that have all been made permanent.
+- **Figures.** Recomputes them: `scratch/formal/analytics/` for the
+  record's own statistics, or the manuscript's own `analysis/`. Run them
+  at a named commit after a promotion, keep the outputs dated, and let
+  figures not recomputed keep their dates in the text.
+- **The neighbourhood.** Files dated notes on the accounts and claims the
+  manuscript's integrations correspond to, where the record has moved.
+- **The README.** Adds a dated refresh note, saying what changed by
+  section.
+- **Membership.** Revisits it (step 1).
+- **Checking.** Is followed by an independent fact-check (step 8).
+
+The owner may also have a status review order its work by the
+manuscript's citations, as pull request 556 did. The manuscript confers no
+standing. It chooses the order, not the rulings. Afterwards, the review's
+list of what the draft now gets wrong is applied to it.
