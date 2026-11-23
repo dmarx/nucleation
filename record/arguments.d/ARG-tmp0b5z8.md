@@ -1,9 +1,9 @@
 ---
 status: Proposed
-title: The miscalibrated-beacon arm of LEAD-177's sensor network, as an existence
-  case, shows that what a system is prevented from rewriting bounds what its
-  correction can reach, and so narrows the owner's principle that self-correction
-  depends on what the system cannot rewrite or reject
+title: The miscalibrated-beacon arm of the record's simulated sensor network,
+  as an existence case, shows that what a system is prevented from rewriting
+  bounds what its correction can reach, and so narrows the owner's principle
+  that self-correction depends on what the system cannot rewrite or reject
 version: 1
 form: existence
 grounds:
@@ -19,15 +19,15 @@ line:
 summary: 'The case: a protected but miscalibrated beacon (study_beacon_bias.py,
   40 seeds). The step: one system meeting the principle''s protection condition
   whose correction still converges on an error, and recovers only through
-  a further protected channel. The conclusion is held in [CLAIM-tmpw11e6](../claims.d/CLAIM-tmpw11e6.md), which
-  objects to and narrows the owner''s [CLAIM-tmp4h9rc](../claims.d/CLAIM-tmp4h9rc.md) without rejecting it.
-  The wording is the assistant''s (Claude, in this session); adopting it is
-  the owner''s call.'
+  a further protected channel. The conclusion is held in [CLAIM-tmpw11e6](../claims.d/CLAIM-tmpw11e6.md),
+  which objects to and narrows the owner''s [CLAIM-tmp4h9rc](../claims.d/CLAIM-tmp4h9rc.md)
+  without rejecting it. The wording is the assistant''s (Claude, in this session);
+  adopting it is the owner''s call.'
 ---
 
 <!-- inactive-ok-file: CLAIM-tmp4h9rc CLAIM-tmpvqmwc — Proposed or Open; cited in this filing of 2026-11-23 -->
 
-# ARG-tmp0b5z8: The miscalibrated-beacon arm of [LEAD-177](../leads.d/LEAD-177.md)'s sensor network, as an existence case, shows that what a system is prevented from rewriting bounds what its correction can reach, and so narrows the owner's principle that self-correction depends on what the system cannot rewrite or reject
+# ARG-tmp0b5z8: The miscalibrated-beacon arm of the record's simulated sensor network, as an existence case, shows that what a system is prevented from rewriting bounds what its correction can reach, and so narrows the owner's principle that self-correction depends on what the system cannot rewrite or reject
 
 ## The argument
 
