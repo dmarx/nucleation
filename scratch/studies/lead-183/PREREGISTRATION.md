@@ -74,3 +74,42 @@ size, fewer sets if time requires.
   reported as a failure of transfer, whatever else it shows.
 - If the system shows no significant decreases at all, the test is void and
   says so: the system would not exercise the property.
+
+## Amendment of 2026-11-23, before any full test run
+
+**What happened.** A 60-run smoke run of the code on architecture 0 (a test
+architecture; aggregate output only, now deleted) gave NaN correlations.
+Diagnosis on development architectures 990–999, never used for testing:
+
+1. **The pre-registered island is degenerate.** With random relations the
+   target is the unique solution, and static arc consistency finds it from
+   any single seed: every single seed's island was all 64 components. VIC,
+   ICN, UFI and B3 were then constant. This is a finding about the predictor,
+   not only the system: Stern et al.'s island is dynamic ("if that subset is
+   cut out and actuated"), and a static consistency closure is not.
+2. **The pre-registered dynamics fail almost always** (V ≤ 0.04): a single
+   weak bond attaches as fast as a forcing one.
+
+**Amended predictor (the island only; VIC and ICN otherwise unchanged).**
+I(S) = the forward forcing closure: starting from S at target, repeatedly set
+any unset component adjacent to set ones whose states compatible with its set
+neighbours are exactly {x*_v}. The pre-registered AC island is kept in the
+code as `island_ac` and reported as the v1 result: void, by degeneracy.
+
+**Amended system.** Ambiguous edges are two-sided: the target pair plus
+(x*_u, b) and (a, x*_v) for random b ≠ x*_v, a ≠ x*_u, so a single ambiguous
+bond never forces from the target. Rigid edges have bond strength 2,
+ambiguous edges strength 1, and an unset component with total strength s
+from its set neighbours attaches at rate κ^(s − 2), the kinetic tile assembly
+model's threshold-2 regime. κ = 100, ε = 1e-4, p_r = 0.5 primary (0.4 and
+0.6 sensitivity), chosen on the development architectures so that V is not
+degenerate (single seeds 0.02–0.23), without computing any predictor's
+correlation or AUC there. Everything else, including the metrics and the
+criterion of transfer, is unchanged.
+
+**Expectation recorded before the run.** On the development architectures no
+pair fell below both its singletons by 0.15. In a single-target system a seed
+at target removes an ambiguous choice and adds no coherent alternative, so
+significant decreases may be rare. If none occur the test of recall is void,
+but VIC's flags still test its precision: a flag with no decrease is a false
+alarm.
