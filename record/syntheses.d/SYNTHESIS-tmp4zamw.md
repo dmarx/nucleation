@@ -442,17 +442,17 @@ reading.
 At the coordinator's request of 2026-11-23, while the manuscript
 governance-of-possibility was being revised. This account's "Not stated on
 the record" declines A33 §7's "an ecology of regulatory perspectives": its
-components are CLAIM-342 and CLAIM-403, and beyond them it is a label. That
+components are [CLAIM-342](../claims.d/CLAIM-342.md) and [CLAIM-403](../claims.d/CLAIM-403.md), and beyond them it is a label. That
 decline tested a label against two entries, and it was made before the
-owner's correction-coupling principle existed (CLAIM-tmp4h9rc, filed
+owner's correction-coupling principle existed ([CLAIM-tmp4h9rc](../claims.d/CLAIM-tmp4h9rc.md), filed
 2026-11-23). The manuscript's join JD6 is a different link. It carries that
-principle and its model results (CLAIM-tmpvqmwc, CLAIM-tmp5wozo,
-CLAIM-tmpxoxys, CLAIM-tmpz8q70), with CLAIM-404, to a regulator, and gives
+principle and its model results ([CLAIM-tmpvqmwc](../claims.d/CLAIM-tmpvqmwc.md), [CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md),
+[CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md), [CLAIM-tmpz8q70](../claims.d/CLAIM-tmpz8q70.md)), with [CLAIM-404](../claims.d/CLAIM-404.md), to a regulator, and gives
 each condition a regulatory reading: protected evidence as independent
 measurement and mandatory disclosure, authority's coupling as the return
 channel from the regulated, scoring as relevance against agreement. So the
 decline does not reach JD6. JD6 is mapped, with its own verdict, in
-SYNTHESIS-111 at version 3, the account that integrates the principle and
+[SYNTHESIS-111](SYNTHESIS-111.md) at version 3, the account that integrates the principle and
 its instances. It is not stated on the record there either. The decline
 stands for A33 §7's label. The note is the assistant's (Claude, in this
 session); adopting it is the owner's call.

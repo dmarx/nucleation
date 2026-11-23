@@ -25,10 +25,10 @@ rests_on:
 summary: >-
   The manuscript governance-of-possibility's join JB10 (§7.3), filed at the
   owner's ruling of 2026-11-23 that joins a manuscript makes and no entry
-  maps are filed rather than thrown away. It puts CLAIM-tmpx8csq's push and
-  CLAIM-tmp947v0's retuning in one system and adds the necessary half of
-  the retuning bound, which CLAIM-tmp947v0 says it lacks. Checked with
-  python3 -I. Integrated by the account SYNTHESIS-tmp8j9h0. The wording is
+  maps are filed rather than thrown away. It puts [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md)'s push and
+  [CLAIM-tmp947v0](CLAIM-tmp947v0.md)'s retuning in one system and adds the necessary half of
+  the retuning bound, which [CLAIM-tmp947v0](CLAIM-tmp947v0.md) says it lacks. Checked with
+  python3 -I. Integrated by the account [SYNTHESIS-tmp8j9h0](../syntheses.d/SYNTHESIS-tmp8j9h0.md). The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
@@ -40,12 +40,12 @@ summary: >-
 ## The derivation
 
 One system: ẋ = −γ(x − h(θ)) + bu, with h Lipschitz with constant L. It
-is CLAIM-tmp947v0's model with a direct input added. With θ fixed and
-a = x − h(θ), it is CLAIM-tmpx8csq's ȧ = −γa + bu.
+is [CLAIM-tmp947v0](CLAIM-tmp947v0.md)'s model with a direct input added. With θ fixed and
+a = x − h(θ), it is [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md)'s ȧ = −γa + bu.
 
 1. **Pushing.** Hold θ fixed. The least ∫u² that moves x by Δ within H is
    2γΔ²/(b²(1 − e^{−2γH})), strictly increasing in γ, with limit Δ²/(b²H)
-   as γ → 0 (CLAIM-tmpx8csq).
+   as γ → 0 ([CLAIM-tmpx8csq](CLAIM-tmpx8csq.md)).
 2. **Retuning, a necessary bound.** Set u = 0 and e = x − h(θ). Then
    ẋ = −γe, so x(H) − x(0) = −γ∫₀ᴴ e dt. The configuration moves by
    D = h(θ(H)) − h(θ(0)) = [x(H) − e(H)] − [x(0) − e(0)]
@@ -53,7 +53,7 @@ a = x − h(θ), it is CLAIM-tmpx8csq's ȧ = −γa + bu.
    so H ≥ (|D|/ε − 2)/γ. The bound is tight. Start with e(0) = +ε, step h
    up by 2ε, then raise it at rate γε, which holds e at −ε.
 3. **Retuning, the sufficient bound.** A change Δθ at a constant rate keeps
-   |e| ≤ ε if LΔθ/(γH) ≤ ε, that is, if H ≥ LΔθ/(γε) (CLAIM-tmp947v0).
+   |e| ≤ ε if LΔθ/(γH) ≤ ε, that is, if H ≥ LΔθ/(γε) ([CLAIM-tmp947v0](CLAIM-tmp947v0.md)).
 
 So the least time for a change of the configuration that keeps operation
 within tolerance lies between (D/ε − 2)/γ and LΔθ/(γε), where D = LΔθ
@@ -77,15 +77,15 @@ With python3 -I:
   γ = 2. The least effort to push by 1 within H = 1 is 1.103, 1.582 and
   4.075 at the same γ.
 
-## Admission (ADR-075, step 5)
+## Admission ([ADR-075](../decisions.d/ADR-075.md), step 5)
 
 **Route: a derivation, with a discriminating prediction.**
 
-- **The derivation.** No claim holds step 2. CLAIM-tmp947v0 gives a
+- **The derivation.** No claim holds step 2. [CLAIM-tmp947v0](CLAIM-tmp947v0.md) gives a
   sufficient condition and calls it "sufficient, not necessary". From it
   alone, a small γ only fails to guarantee a fast retuning; it does not
   rule one out. Step 2 makes slow retuning a consequence of slow
-  operation, and puts it in the same system as CLAIM-tmpx8csq's push.
+  operation, and puts it in the same system as [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md)'s push.
   The record holds each half in its own model. No entry says that one
   parameter moves them in opposite directions.
 - **The discriminating prediction.** Where operation slows (γ falls) and
@@ -98,16 +98,16 @@ With python3 -I:
 ## What it does not say
 
 - Not that a regulator has both channels. Which channel it has is
-  CLAIM-589's question: a permitted direction need not be actuated, nor
+  [CLAIM-589](CLAIM-589.md)'s question: a permitted direction need not be actuated, nor
   an actuated one affordable.
 - Nothing outside the tolerance. If operation may leave the band, the
   configuration can be moved at once, and operation comes within ε of it
   after ln(D/ε)/γ, which is also slower as γ falls. A configuration set
   far past its target acts as a push through h. That is not retuning in
-  CLAIM-tmp947v0's sense.
-- Nothing about feedback through maintained states (CLAIM-400). The model
-  is open-loop, as CLAIM-tmpx8csq's is.
-- Not a law of organizations. The model is CLAIM-tmp947v0's relaxation
+  [CLAIM-tmp947v0](CLAIM-tmp947v0.md)'s sense.
+- Nothing about feedback through maintained states ([CLAIM-400](CLAIM-400.md)). The model
+  is open-loop, as [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md)'s is.
+- Not a law of organizations. The model is [CLAIM-tmp947v0](CLAIM-tmp947v0.md)'s relaxation
   toward a governed configuration. That claim's defeater says this can
   misdescribe how operation follows governance.
 
@@ -116,5 +116,5 @@ With python3 -I:
 The manuscript governance-of-possibility, §7.3, join JB10: "An
 organization whose operation has slowed is easier to redirect by
 intervention and harder to govern by changing its rules." It was filed
-at the owner's ruling of 2026-11-23, and the account SYNTHESIS-tmp8j9h0
+at the owner's ruling of 2026-11-23, and the account [SYNTHESIS-tmp8j9h0](../syntheses.d/SYNTHESIS-tmp8j9h0.md)
 integrates it.
