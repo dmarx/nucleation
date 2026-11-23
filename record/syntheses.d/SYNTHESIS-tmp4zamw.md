@@ -11,7 +11,8 @@ history:
     to 16, with the article A63 mapped section by section and its findings
     added under "Not stated on the record". The title, defeater, lines,
     tags and bears_on widened to match. Nothing in the first three shares'
-    mapping changed.
+    mapping changed. The fifth share, a branch after U31 (U32b, U33b,
+    A62b, A64b), is integrated in a part of its own.
 defeated_if: >-
   A component misstated or misattributed here, with the owner's turns,
   A's (ChatGPT's) syntheses and the assistant's fills among what can be
@@ -38,6 +39,18 @@ line:
 - learning-and-inquiry
 - readiness
 integrates:
+- CLAIM-tmpm58vk
+- CLAIM-tmpgt4a6
+- CLAIM-tmpuzk5o
+- TERM-tmp7kf60
+- CLAIM-tmph9g28
+- ARG-tmpqg2tg
+- CLAIM-tmprkpq5
+- CLAIM-tmpchkck
+- CLAIM-tmp812ex
+- CLAIM-tmpq1usu
+- CLAIM-tmpjk3nm
+- CLAIM-tmpfc364
 - CASE-tmptzhse
 - CLAIM-tmpk8ude
 - CLAIM-tmpx7oaj
@@ -182,7 +195,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CASE-tmptzhse CLAIM-tmpk8ude CLAIM-tmpx7oaj CLAIM-tmpcfo3s ARG-tmpzxz7y TERM-tmpwc4la CLAIM-tmpy4mba CLAIM-tmptsbhv ARG-tmpzj6pc CLAIM-tmp7pe33 CLAIM-tmptxsin CLAIM-tmp86z76 CLAIM-tmpqr0tn CLAIM-tmpywoih ARG-tmpymz1j CLAIM-tmpm54la CLAIM-tmp7580l TERM-tmpxwa7g TERM-tmpm0s7g CLAIM-tmp3xo35 TERM-tmppvlfi CLAIM-tmp37le7 CLAIM-tmp31b3v CLAIM-tmp0ww8w CLAIM-tmphxbli CLAIM-tmp9pgdu CLAIM-tmp6ksyy CLAIM-tmpz67ew CLAIM-tmphjm0q CLAIM-788 CLAIM-787 CLAIM-181 CLAIM-358 CLAIM-162 CLAIM-711 CLAIM-tmptfpf7 TERM-tmpz28l1 CLAIM-tmpntzjo CLAIM-tmph25dl CLAIM-tmpbzwmr CLAIM-tmpcag0t CLAIM-tmpm985y — Proposed or in progress; filed or cited in the filing of 2026-11-22 -->
-<!-- inactive-ok-file: CLAIM-tmp61i14 CLAIM-tmp2oloi CLAIM-tmp62ldm ARG-tmpo1l8y CLAIM-tmp11j0f CLAIM-tmpep410 CLAIM-tmp8nzk0 CLAIM-tmp9in65 CLAIM-tmpt8pvt CLAIM-tmp9o6yv CLAIM-tmpx030o CLAIM-tmpq4crr CLAIM-tmp2dr12 CLAIM-tmpzbytm CLAIM-tmpagnsw ARG-tmpzaupx CASE-tmp0nsah CLAIM-tmp1m3ba CLAIM-tmpoexcl CLAIM-tmpy25jo CLAIM-tmp104zk CLAIM-tmpumpxw CLAIM-tmp4u0mj CLAIM-tmpbt43r CLAIM-tmp04pr7 CLAIM-tmpjg4h2 CLAIM-tmpn8j1j CLAIM-tmp3l7is CLAIM-tmpjvllb CLAIM-tmplxi60 CASE-tmp1ptqp CLAIM-tmp2enpa CLAIM-tmpx0wv9 CLAIM-tmpj15c6 ARG-tmp7xi5t TERM-tmpace0k TERM-tmpdk711 CLAIM-tmp6ik2v CLAIM-tmp6thmv TERM-tmp9lu6c CLAIM-tmp7iie0 ARG-tmpbchnj ARG-tmpdnptq TERM-tmpqixg8 CASE-tmp5b6rr CLAIM-721 CLAIM-758 TERM-tmpz28l1 CASE-tmpo8bsc CASE-tmp95f8e THEORY-148 LIT-tmpcsjt5 LIT-tmp4dpn8 LIT-717 LIT-732 LIT-1228 THEORY-151 CLAIM-tmpiwxla ADR-tmpsfjxu TERM-118 — Proposed, Deferred, Unavailable or Unfetched; filed or cited in the filing of 2026-11-23 (U26 to U32) -->
+<!-- inactive-ok-file: ARG-tmpqg2tg CLAIM-615 CLAIM-tmp812ex CLAIM-tmpchkck CLAIM-tmpfc364 CLAIM-tmpgt4a6 CLAIM-tmph9g28 CLAIM-tmpjk3nm CLAIM-tmpm58vk CLAIM-tmpq1usu CLAIM-tmprkpq5 CLAIM-tmpuzk5o TERM-tmp7kf60 CLAIM-tmp61i14 CLAIM-tmp2oloi CLAIM-tmp62ldm ARG-tmpo1l8y CLAIM-tmp11j0f CLAIM-tmpep410 CLAIM-tmp8nzk0 CLAIM-tmp9in65 CLAIM-tmpt8pvt CLAIM-tmp9o6yv CLAIM-tmpx030o CLAIM-tmpq4crr CLAIM-tmp2dr12 CLAIM-tmpzbytm CLAIM-tmpagnsw ARG-tmpzaupx CASE-tmp0nsah CLAIM-tmp1m3ba CLAIM-tmpoexcl CLAIM-tmpy25jo CLAIM-tmp104zk CLAIM-tmpumpxw CLAIM-tmp4u0mj CLAIM-tmpbt43r CLAIM-tmp04pr7 CLAIM-tmpjg4h2 CLAIM-tmpn8j1j CLAIM-tmp3l7is CLAIM-tmpjvllb CLAIM-tmplxi60 CASE-tmp1ptqp CLAIM-tmp2enpa CLAIM-tmpx0wv9 CLAIM-tmpj15c6 ARG-tmp7xi5t TERM-tmpace0k TERM-tmpdk711 CLAIM-tmp6ik2v CLAIM-tmp6thmv TERM-tmp9lu6c CLAIM-tmp7iie0 ARG-tmpbchnj ARG-tmpdnptq TERM-tmpqixg8 CASE-tmp5b6rr CLAIM-721 CLAIM-758 TERM-tmpz28l1 CASE-tmpo8bsc CASE-tmp95f8e THEORY-148 LIT-tmpcsjt5 LIT-tmp4dpn8 LIT-717 LIT-732 LIT-1228 THEORY-151 CLAIM-tmpiwxla ADR-tmpsfjxu TERM-118 — Proposed, Deferred, Unavailable or Unfetched; filed or cited in the filing of 2026-11-23 (U26 to U32) -->
 
 # SYNTHESIS-tmp4zamw: The argument filed from the exchange Explain First Contact RL, mapped: A's thesis about selves, revised six times at the owner's prompts, moves from a self whose decomposition is relative to affordable tests to unity without singularity, ecological integration and a measure-valued organization; its last version is a recap of the one before; beside it run threads on adaptive interfaces, governed records and flow, teams as pseudo-selves, regulation as the governance of what is jointly possible, and, in the fourth share, inquiry as a joint relation of questions and answers under shared resources and permission, maintained perspectives, and diversity as evidence of richness, which A's article restates
 
@@ -508,6 +521,42 @@ that reading. Every code A63 cites exists (CLAIM-470, CLAIM-475, TERM-064,
 TERM-092, TERM-095, CLAIM-277, CLAIM-403, CLAIM-554, CLAIM-523, CLAIM-099),
 and A62's statement that TERM-092 reserves "inquiry frontier" for
 askability is right.
+
+## The branch of 2026-11-23 08:51: intelligence and collective identity
+
+A fifth share, "Branch · Explain First Contact RL", leaves the main line
+after U31 and A60. Its owner turns are cited as U32b and U33b, and A's as
+A62b and A64b, so as not to collide with the main line's U32 and A61–A63.
+All its entries are Proposed.
+
+- **U32b, the owner's** "\"intelligence\" as epistemic (ecological)
+  richness", is filed in two readings, as alternatives for the owner:
+  identity (CLAIM-tmpm58vk) and understanding through (CLAIM-tmpgt4a6).
+- **A62b** develops the second and objects to the first: intelligence as
+  the adaptive organization of richness, so that two systems equally
+  competent today can be unequally intelligent tomorrow (CLAIM-tmph9g28),
+  with a definition setting diversity, richness, intelligence and
+  viability apart (TERM-tmp7kf60). Its empirical support is weighed in
+  ARG-tmpqg2tg: weak, and only for diversity as a contributor. The
+  assistant's CLAIM-tmpjk3nm corrects one illustration (under A62b's own
+  metric, consistently wrong responses cannot be highly diverse) and leaves
+  the distinction standing. LEAD-tmpps25j designs the test A62b proposes.
+- **U33b, the owner's** collective identity as a sloppy mess of governed
+  perspectives playing a question–answer game (CLAIM-tmpuzk5o), rests on
+  CLAIM-tmpy4mba and CLAIM-tmp61i14. "Sloppy" keeps U6's alternatives.
+- **A64b** places identity in the historically maintained organization of
+  the game, its rules of revision included, as a slow mode of the game
+  (CLAIM-tmprkpq5, resting on CLAIM-tmp9in65, CLAIM-615, CLAIM-tmpbzwmr
+  and CLAIM-099); questioning and answering as roles, not fixed players
+  (CLAIM-tmpchkck, bearing on QUESTION-tmpn4we1); a response kernel that
+  includes the state after answering (CLAIM-tmpq1usu), to which the
+  assistant's counter CLAIM-tmpfc364 objects that, compared directly, it
+  is not observational, and that the bisimulation metric repairs it; and
+  criteria for a pseudo-self stronger than a crowd or a controlled ensemble
+  (CLAIM-tmp812ex, bearing on QUESTION-tmp4fkkx).
+- **Not stated on the record:** A64b reaches CLAIM-615's
+  historical-structuralist criterion without citing it; the link is
+  recorded in CLAIM-tmprkpq5 and a note on CLAIM-615, not stated by A64b.
 
 ## The account
 
