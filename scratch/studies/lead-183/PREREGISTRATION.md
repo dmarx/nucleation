@@ -142,3 +142,7 @@ amendment; the same sets, runs, metrics and criterion of transfer; TFF is
 judged with VIC, ICN and the monotone baselines recomputed on the same data.
 Because TFF was designed after seeing the first test's failures, its result
 on 200–204 is the only one that counts for it.
+
+**Erratum (2026-11-23, after the fresh run).** The second amendment's "37 of
+the 40" is a miscount by eye: recheck.json gives 38 of 40 at z < −2, 6 of 8
+on architectures 0–4 and 32 of 32 on the sensitivity architectures.

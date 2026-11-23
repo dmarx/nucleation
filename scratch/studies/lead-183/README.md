@@ -43,13 +43,17 @@ from scratch.
 | fresh, arch 200–204 | TFF (post hoc) | 0.64 | 0.94 | 0.66 | 0.11 | yes |
 | fresh, arch 200–204 | best monotone (joint) | 0.48 | 0.77 | 0 | — | cannot flag |
 
-- Harmful additions are real: 37 of 40 significant decreases in the amended
-  run are confirmed at |z| > 2 with 3000 runs, typically halving V
-  (for example 0.15 to 0.07).
+- Harmful additions are real: 38 of the 40 significant decreases of the
+  amended run (6 of 8 on architectures 0–4, 32 of 32 on the sensitivity
+  architectures) are confirmed at z < −2 with 3000 runs, the sensitivity ones
+  typically halving V (median −0.07, for example 0.15 to 0.07).
 - The harmful seeds have large islands, against the small-island mechanism
   VIC encodes (and Stern et al. describe). The fatal errors fall inside the
   island, on components that reach threshold through two weak bonds with the
   same distractor: an order effect the patient closure cannot see.
+- Post hoc: on the amended system the static arc-consistency island of a
+  single seed is still 61–64 of 64 components on architectures 0, 1, 2,
+  200 and 201, while V ranges from 0 to 0.51.
 - TFF's flags are mostly small effects: flagged additions change V by −0.011
   on average (55 % negative), unflagged by +0.023 (24 % negative).
 

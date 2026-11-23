@@ -57,7 +57,7 @@ summary: >-
   of four rectangular M13 origamis; misfolds and kinetics are excluded by
   hypothesis.
 ---
-<!-- inactive-ok-file: NOTE-tmpfz1bj THEORY-tmp1pfm4 — new; the reading of this work and its account, filed with it -->
+<!-- inactive-ok-file: THEORY-tmp1pfm4 — new; the account filed from this reading by the lead run of 2026-11-23 -->
 
 # LIT-tmp581o9: Cooperativity in the annealing of DNA origamis
 
