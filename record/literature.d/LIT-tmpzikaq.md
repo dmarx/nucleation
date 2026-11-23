@@ -1,0 +1,92 @@
+---
+status: Unfetched
+status_note: >-
+  Unfetched on 2026-11-23 (ADR-053): OpenAlex lists a CiteSeerX copy,
+  record 10.1.1.132.8408; both
+  https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.132.8408 and
+  https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=10.1.1.132.8408
+  returned "connection reset by peer". Maggioni's Yale page, where his
+  reports were posted, survives as a Wayback capture
+  (http://web.archive.org/web/20070703012238/http://www.math.yale.edu:80/~mmm82/),
+  and web.archive.org also reset the connection. None was retried. The
+  SPIE copy is paywalled; Semantic Scholar marks it closed; Bremer's
+  Toronto papers directory does not hold it. Sevi, Rilling and Borgnat
+  (2023), LIT-tmpyklac, which restates its scaling-function
+  construction, was read in its place.
+title: 'Biorthogonal diffusion wavelets for multiscale representations on manifolds and graphs'
+version: 2
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Filed, not read, by the lead run of 2026-11-23, from the open
+    question in the reading of Coifman and Maggioni that names it as the
+    next reading. Identifier check: Crossref gives DOI 10.1117/12.616909,
+    Proceedings of SPIE 5914 (Wavelets XI), article 59141M, published
+    2005-08-18, authors Mauro Maggioni, James C. Bremer Jr., Ronald R.
+    Coifman and Arthur D. Szlam. Duke's publication listing puts it in
+    "Active Materials: Behavior and Mechanics", which is wrong; the
+    volume is Wavelets XI, edited by Papadakis, Laine and Unser. The
+    abstract was read on that listing. Held check: searched
+    record/literature.d by DOI, title and author names; not held.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Unfetched on 2026-11-23: connection resets at CiteSeerX and at the
+    Wayback capture of the author's page; a paywall at SPIE. Not
+    retried.
+tags:
+- mathematics
+- complex-systems
+- network-science
+date: '2026-11-23'
+published: '2005-08-18'
+doi: '10.1117/12.616909'
+first_author: 'Maggioni'
+keywords: []
+implementations: []
+summary: >-
+  Maggioni, Bremer, Coifman and Szlam (2005), Proc. SPIE 5914, Wavelets
+  XI, 59141M. By its abstract it relaxes the orthonormality of the
+  diffusion-wavelet scaling functions to "construct biorthogonal bases of
+  diffusion scaling functions and wavelets", which "yields more compact
+  representations of the powers of the operator", and it "also applies
+  to non self-adjoint semigroups". Unfetched; Sevi, Rilling and Borgnat
+  (2023), LIT-tmpyklac, was read in its place. What it proves is
+  unverified until read.
+---
+
+# LIT-tmpzikaq: Biorthogonal diffusion wavelets for multiscale representations on manifolds and graphs
+
+Maggioni, M., Bremer, J. C., Coifman, R. R. and Szlam, A. D. (2005).
+Biorthogonal diffusion wavelets for multiscale representations on
+manifolds and graphs. In *Wavelets XI*, Proc. SPIE 5914, 59141M.
+doi:10.1117/12.616909.
+
+## Why this is here
+
+The reading of Coifman and Maggioni's diffusion wavelets (NOTE-984)
+leaves open whether a non-reversible operator still gives a chain of
+levels, and names this report as the next reading. A lead asked for it
+to be read before a projection perturbation bound for the compressed
+chain was attempted (CLAIM-164).
+
+The abstract, read on Duke's publication listing, says that the
+orthogonality of the original construction "has some advantages from the
+numerical perspective, but several drawbacks in terms of the space and
+frequency localization of the basis functions", that the report shows
+"how to relax this requirement in order to construct biorthogonal bases
+of diffusion scaling functions and wavelets", and that "This new
+construction also applies to non self-adjoint semigroups". Everything
+beyond the abstract is unverified until read.
+
+## Standing in the record
+
+Unfetched. Sevi, Rilling and Borgnat (2023), LIT-tmpyklac, stands in for
+it in part. Their §8.2 restates the construction of the scaling
+functions and says that in this report "biorthogonal wavelet transform
+is proposed but only the scaling functions are actually defined. Our
+construction is identical but we also propose a definition for
+wavelets." So the neighbour stands in for the scaling-function
+construction, as Sevi et al. describe it, and not for any theorem, error
+bound or example this report may hold.
