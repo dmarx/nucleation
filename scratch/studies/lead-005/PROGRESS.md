@@ -40,7 +40,22 @@
   heat per step and overwrite entropy, in four parameter settings. The policy
   changes the memory's nostalgia (ln 2 vs 0) but not its heat per step.
 
+## Filed (all Proposed)
+
+- CASE-tmp3axlj (executed-study, documented): the run.
+- CLAIM-tmpk8x2j: under feedback the identity and summed bound survive, the
+  sign does not.
+- CLAIM-tmpx0pvr: under feedback a memory's nostalgia depends on the policy.
+- CLAIM-tmpk8zw2 / CLAIM-tmpj5z7a, alternatives: the cheapest task memory
+  keeps the interventional partition (relative to the outcome; the lean) or
+  neither (relative to the whole next percept).
+- Dated notes of 2026-11-23 on LEAD-005, QUESTION-494, THEORY-026,
+  CLAIM-tmpcbdgm. Changelog fragment record/changelog.d/lead-005.md.
+- No LIT, NOTE or THEORY: the reading is held (LIT-327, NOTE-295,
+  THEORY-026).
+
 ## Next
 
-- File the CASE and CLAIMs; dated notes on LEAD-005, QUESTION-494,
-  THEORY-026, CLAIM-tmpcbdgm; changelog fragment.
+- Nothing for this run. Remains for the lead (see its note): a revising
+  memory, the controller's cost, a confounded loop; the owner's choice
+  between the alternative claims.
