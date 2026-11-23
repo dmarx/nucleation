@@ -19,13 +19,18 @@
 - model.py, test_model.py (19 pass), run.py; e1..e5 run (about 4 min);
   results/*.json and results/tables.md committed.
 
+- Filed: CASE-tmpqnoj1 (executed study); CLAIM-tmpxoxys (relabelling,
+  demonstrated); CLAIM-tmp26exz (jurisdictional audit, empirical);
+  CLAIM-tmpd6gon (compromised evaluators, empirical); CLAIM-tmpf0b31
+  (adaptive arm, reading a, lean) and CLAIM-tmp3t5y3 (reading b,
+  supposed, objects_to a). Dated notes on LEAD-180, CASE-108,
+  QUESTION-090/087/089, CLAIM-359/342 (versions bumped with history).
+  Changelog fragment record/changelog.d/lead-180.md.
+
 ## Next
 
-- File: executed-study CASE, CLAIMs (relabelling symmetry; jurisdictional
-  audit moves the trade-off; compromise relocates the single point of
-  failure to the thinnest jurisdiction; adaptive arm as alternatives A/B),
-  dated notes on LEAD-180, CASE-108, QUESTION-090/087/089, CLAIM-359/342,
-  changelog fragment.
+- Report. Nothing else outstanding; the owner chooses between the two
+  readings and marks the lead.
 
 ## Choices
 
