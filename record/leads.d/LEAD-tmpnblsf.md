@@ -18,6 +18,9 @@ advances:
 - QUESTION-395
 - CLAIM-tmpf71gk
 - CLAIM-tmpg8yl2
+operationalized_in:
+- CASE-tmpo8bsc
+- CASE-tmp95f8e
 summary: The computational study the manuscript governance-of-possibility proposes
   at A48 §9.6, without a design, built on the simulator [LEAD-080](LEAD-080.md) already ran ([CASE-315](../cases.d/CASE-315.md)).
   The wording is the assistant's (Claude, in this session); adopting it is the owner's
@@ -47,3 +50,8 @@ spend-matching budget rule with carry-over. Add three arms:
 
 Report readiness curves over the deadline ([TERM-115](../terms.d/TERM-115.md)), reserve cost, and
 which regime ranks first at which deadlines.
+
+## Note of 2026-11-23: the study filed
+
+<!-- inactive-ok-block: CASE-tmpo8bsc CASE-tmp95f8e — new; the study filed -->
+The design was run for the manuscript governance-of-possibility (scratch/manuscripts/governance-of-possibility/analysis/, at commit 28a3708c1, reproduced) and is filed as two cases, named in `operationalized_in`: CASE-tmpo8bsc holds the redesign arm and the reserve sweep, with readiness curves, reserve cost and the ranking by deadline, and CASE-tmp95f8e holds the harm absent from the specification. The redesign's cost is reported as a break-even rather than charged up front; whether the lead is done is the owner's call. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

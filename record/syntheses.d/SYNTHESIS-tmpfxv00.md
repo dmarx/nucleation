@@ -1,8 +1,16 @@
 ---
 status: Proposed
 title: "Keeping a route to reorganization under a budget rule that follows use, in the record: under the peak rule a capability stays funded exactly while every period mobilizes it, so a drill each period holds the budget as a reserve does; a redesigned transition is lost like the original unless its threshold is at most the holding cost, so redesign lowers the reserve it needs without replacing it, and is proposed to serve only the transitions that can use it where a reserve of one capacity serves every one within it; a reserve pays when a contingency's probability times its loss outweighs its cost, if readiness is known; and lock-in by allocation and by consolidation are two routes with different remedies, while what justifies a lock-in and how long one stays hidden are not settled"
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Integrates CASE-tmpo8bsc, the manuscript's study now filed as an
+    executed-study case (gap GC1). JC1 moves from "Not stated on the
+    record" to the account, as held by that case. The cross-line audit is
+    recounted over the integrated entries, which no longer include the
+    two leads.
 - version: 2
   date: '2026-11-23'
   note: >-
@@ -51,6 +59,7 @@ integrates:
 - THEORY-1073
 - CLAIM-478
 - CLAIM-414
+- CASE-tmpo8bsc
 summary: >-
   A thematic account, across lines, of the joins the manuscript
   governance-of-possibility makes on readiness under budget rules and on
@@ -62,12 +71,13 @@ summary: >-
   record, instead of throwing them away just file them as syntheses." It
   integrates [CLAIM-878](../claims.d/CLAIM-878.md), [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md), [TERM-tmpu5k0o](../terms.d/TERM-tmpu5k0o.md) and [THEORY-1073](../theory.d/THEORY-1073.md),
   which no account integrated before. JC5 passes [ADR-075](../decisions.d/ADR-075.md)'s test and is
-  filed as [CLAIM-tmpv0azx](../claims.d/CLAIM-tmpv0azx.md). JC1 is a study, not a claim. JC10 and JC11 fail.
+  filed as [CLAIM-tmpv0azx](../claims.d/CLAIM-tmpv0azx.md). JC1 is a study, not a claim, and is held as CASE-tmpo8bsc.
+  JC10 and JC11 fail.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
 
-<!-- inactive-ok-file: CASE-200 CLAIM-878 CLAIM-tmpg8yl2 CLAIM-tmpf71gk CLAIM-tmpv0azx CLAIM-758 TERM-131 CLAIM-757 TERM-tmpu5k0o CLAIM-684 CLAIM-tmphjm0q THEORY-1073 CLAIM-478 SYNTHESIS-024 SYNTHESIS-027 SYNTHESIS-031 SYNTHESIS-105 CASE-315 SYNTHESIS-tmp8j9h0 SYNTHESIS-tmp3x39i — Proposed; components and neighbouring accounts, cited with their standing -->
+<!-- inactive-ok-file: CASE-tmpo8bsc CASE-tmp95f8e CASE-200 CLAIM-878 CLAIM-tmpg8yl2 CLAIM-tmpf71gk CLAIM-tmpv0azx CLAIM-758 TERM-131 CLAIM-757 TERM-tmpu5k0o CLAIM-684 CLAIM-tmphjm0q THEORY-1073 CLAIM-478 SYNTHESIS-024 SYNTHESIS-027 SYNTHESIS-031 SYNTHESIS-105 CASE-315 SYNTHESIS-tmp8j9h0 SYNTHESIS-tmp3x39i — Proposed; components and neighbouring accounts, cited with their standing -->
 
 # SYNTHESIS-tmpfxv00: Keeping a route to reorganization under a budget rule that follows use, in the record: under the peak rule a capability stays funded exactly while every period mobilizes it, so a drill each period holds the budget as a reserve does; a redesigned transition is lost like the original unless its threshold is at most the holding cost, so redesign lowers the reserve it needs without replacing it, and is proposed to serve only the transitions that can use it where a reserve of one capacity serves every one within it; a reserve pays when a contingency's probability times its loss outweighs its cost, if readiness is known; and lock-in by allocation and by consolidation are two routes with different remedies, while what justifies a lock-in and how long one stays hidden are not settled
 
@@ -232,11 +242,19 @@ the note on [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md).**
   demonstrated). [TERM-115](../terms.d/TERM-115.md)'s readiness is defined under an imposed
   contingency.
 
-**The study (JC1).** [LEAD-tmpnblsf](../leads.d/LEAD-tmpnblsf.md) (Open; the assistant's) designs one
-model with "a redesign arm, a sweep of reserve sizes between holding cost
-and threshold, and a harm absent from the demand specification introduced
-mid-run". The manuscript's §9 runs it in scratch/. No CASE on the record
-holds the executed study.
+**The study (JC1, held as a case).** [LEAD-tmpnblsf](../leads.d/LEAD-tmpnblsf.md) (Open; the assistant's)
+designs one model with "a redesign arm, a sweep of reserve sizes between
+holding cost and threshold, and a harm absent from the demand
+specification introduced mid-run". CASE-tmpo8bsc (Proposed, executed
+study; the assistant's) is that model, run and reproduced: it puts
+CLAIM-571's paths, CLAIM-577's rule, CASE-200's carry-over, CLAIM-878's
+drill and CLAIM-tmpg8yl2's reserve into one model. Ordinary output is
+matched by construction while readiness at a deadline of six periods
+ranges from 0.147 to 0.894; the conditions of CLAIM-577 and
+CLAIM-tmpg8yl2 hold exactly; and the reserve is most ready at every
+deadline while the cheapest regime changes with the deadline. Its
+novel-demand arm is CASE-tmp95f8e, mapped by SYNTHESIS-tmp3x39i (JD4).
+**JC1 is held by CASE-tmpo8bsc**, as an executed study, not a sentence.
 
 ## The components
 
@@ -267,18 +285,13 @@ holds the executed study.
 | [THEORY-1073](../theory.d/THEORY-1073.md) | Flack (2017), read | Proposed |
 | [CLAIM-478](../claims.d/CLAIM-478.md) | the owner's prompt, A's synthesis; Flack in a note | Proposed, interpretive |
 | [CLAIM-414](../claims.d/CLAIM-414.md) | A's, re-run | Active, demonstrated |
+| CASE-tmpo8bsc | the assistant's, executed study | Proposed |
 
 ## Not stated on the record
 
 Each item gives the join, what no component states, and its verdict under
 [ADR-075](../decisions.d/ADR-075.md), step 5.
 
-- **JC1, one model from [CLAIM-571](../claims.d/CLAIM-571.md)'s paths, [CLAIM-577](../claims.d/CLAIM-577.md)'s rule, [CASE-200](../cases.d/CASE-200.md)'s
-  carry-over, [CLAIM-878](../claims.d/CLAIM-878.md)'s drill and [CLAIM-tmpg8yl2](../claims.d/CLAIM-tmpg8yl2.md)'s reserve.** The
-  record keeps them as separate entries, and [LEAD-tmpnblsf](../leads.d/LEAD-tmpnblsf.md) designs a model
-  that joins them. *Verdict: not a claim.* It is an executed study, which
-  has no sentence to test. It belongs on the record as a CASE (the
-  manuscript's gap GC1), which is not filed here.
 - **JC10, the break-even reversed as part of a standard for justified
   lock-in.** [QUESTION-tmpvkgc0](../questions.d/QUESTION-tmpvkgc0.md) holds it as a partial candidate, not as
   held. *Verdict: fails, a free parameter.* "Justified" still classifies
@@ -304,10 +317,10 @@ Each item gives the join, what no component states, and its verdict under
 
 ## Cross-line audit ([ADR-129](../decisions.d/ADR-129.md))
 
-Its 25 components come from seven lines. Counted by script over their
-`line` fields: readiness 19, realizability 9, formal-apparatus 6,
-learned-structure 3, dependence-and-domination 2, distributed-agency 2,
-evidence-for-experience 1.
+Its 24 integrated components come from seven lines. Counted by script
+over their `line` fields: readiness 18, realizability 10,
+formal-apparatus 7, learned-structure 3, dependence-and-domination 2,
+distributed-agency 2, evidence-for-experience 1 ([THEORY-1073](../theory.d/THEORY-1073.md) has none).
 
 - **An unheld question.** No. Readiness's blurb names "budget rules that
   remove options no one chose to give up", and the reserve and its worth.
@@ -329,3 +342,10 @@ rules of the pure peak type. Every result here is a model's, and [CLAIM-878](../
 says its limit for budgets in money or hours stands. The manuscript's
 other joins are mapped by [SYNTHESIS-tmp8j9h0](SYNTHESIS-tmp8j9h0.md) (timing of response and
 revision) and [SYNTHESIS-tmp3x39i](SYNTHESIS-tmp3x39i.md) (correction, answerability and harmony).
+
+## Note of 2026-11-23: the study filed
+
+JC1, which this account listed as a study to be filed as a CASE, is now
+filed as CASE-tmpo8bsc, with its novel-demand arm as CASE-tmp95f8e; this
+version integrates the first. The note is the assistant's (Claude, in
+this session); adopting it is the owner's call.

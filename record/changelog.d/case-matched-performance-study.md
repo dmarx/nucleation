@@ -1,0 +1,3 @@
+### Added
+
+- The executed study of the manuscript governance-of-possibility is filed as two Proposed cases, citing its single copy in scratch/manuscripts/governance-of-possibility/analysis/ (run at 28a3708c1, reproduced). CASE-tmpo8bsc is the matched-performance study (gap GC1, join JC1): output matched by construction, the exact conditions of CLAIM-577 and CLAIM-tmpg8yl2, readiness curves, the cost ranking by deadline, the reserve's break-even and the step function. CASE-tmp95f8e, its variant, is the novel-demand arm (gap GD7, join JD4). LEAD-tmpnblsf names both in `operationalized_in`. Dated notes on CLAIM-tmpg8yl2, CLAIM-tmpf71gk, CLAIM-878, QUESTION-395 and LEAD-tmpnblsf name them. SYNTHESIS-tmpfxv00 (version 3) and SYNTHESIS-tmp3x39i (version 2) integrate them.

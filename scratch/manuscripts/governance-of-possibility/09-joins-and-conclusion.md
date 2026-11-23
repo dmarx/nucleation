@@ -29,7 +29,7 @@ Each section marks where the first draft joined entries that the record keeps ap
 | JB8 | 7.1 | Execution and revision as separately maintained capacities | Restatement of CLAIM-099, CLAIM-025, CLAIM-462 and CLAIM-711's note of 2026-11-23 |
 | JB9 | 7.3 | The revision pathway bounds readiness for the unanticipated | Restatement of CLAIM-711's note of 2026-11-23 and CLAIM-tmp2k3c5 |
 | JB10 | 7.3 | A slow mode is cheap to push and slow to retune | A claim: CLAIM-tmpdrkvl (Proposed, demonstrated), in SYNTHESIS-tmp8j9h0 |
-| JC1 | 9.1 | One model from CLAIM-571, CLAIM-577, CASE-200, CLAIM-878 and CLAIM-tmpg8yl2 | Not stated; SYNTHESIS-tmpfxv00: not a claim, an executed study to be filed as a CASE |
+| JC1 | 9.1 | One model from CLAIM-571, CLAIM-577, CASE-200, CLAIM-878 and CLAIM-tmpg8yl2 | Not a claim: an executed study, filed as CASE-tmpo8bsc and integrated by SYNTHESIS-tmpfxv00 |
 | JC2 | 9.4 | Under peak accounting a drill is a reserve by another name | Restatement of CLAIM-878 (and CLAIM-tmpg8yl2's note of 2026-11-23) |
 | JC3 | 9.6 | The reserve's break-even in probability times loss | Restatement of QUESTION-395's notes of 2026-11-23 |
 | JC4 | 9.8 | Relief against excision carried to a demand never specified | Declined by SYNTHESIS-049 |
@@ -43,7 +43,7 @@ Each section marks where the first draft joined entries that the record keeps ap
 | JD1 | 12.2 | Harmony's correctability read as §13's answerability | Not stated; SYNTHESIS-tmp3x39i: fails, an interpretive mapping, with a partial fit |
 | JD2 | 12.3 | Ecological unity carried from a self to an industrial ecosystem | Not stated; SYNTHESIS-tmp3x39i: fails, a carry, and a recap of TERM-tmppvlfi |
 | JD3 | 12.4 | Conserving a capability read as its recovery when rare | Restatement of QUESTION-tmpn9t5a's note of 2026-11-23 |
-| JD4 | 13.1 | The model's excision read as CLAIM-727's self-certification limit | Not stated; SYNTHESIS-tmp3x39i: fails as a claim, an instance, to be filed as a CASE |
+| JD4 | 13.1 | The model's excision read as CLAIM-727's self-certification limit | Not stated as a claim (SYNTHESIS-tmp3x39i: fails, an instance); the instance is filed as CASE-tmp95f8e |
 | JD5 | 13.4 | Effective answerability and correctability kept apart for a regulator | Separation a restatement of TERM-126, CLAIM-746 and CLAIM-705; the requirement on a regulator not stated, SYNTHESIS-tmp3x39i: fails (a normative premise) |
 | JD6 | 13.6 | The owner's correction-coupling principle carried to a regulator | Not stated; SYNTHESIS-111 (version 3): fails, a carry. SYNTHESIS-tmp4zamw's decline does not reach it |
 | JD7 | 13.7 | The miscalibrated anchor as the regress of the governance of governance | Restatement of CLAIM-tmpw11e6; its carriage to a regulator not stated, SYNTHESIS-tmp3x39i: fails, a carry |
@@ -69,7 +69,7 @@ The first draft found twenty-nine places where the argument needed a step the re
 | GB5 | The levels of governance by horizon | Open item for the owner |
 | GB6 | A test of slow modes without affordable control directions | LEAD-tmpcady6 (Open) |
 | GB7 | A test of CLAIM-730's first clause | LEAD-tmp2npy0 (Open) |
-| GC1 | The study itself, on the record | Open item: a CASE, in a later pull request (with GD7) |
+| GC1 | The study itself, on the record | CASE-tmpo8bsc (Proposed, executed study) |
 | GC2 | The drill against the reserve, in a second model | A note of 2026-11-23 on CLAIM-878 (Proposed) |
 | GC3 | Readiness as a step function of the reserve | A note of 2026-11-23 on CLAIM-679 (Active) |
 | GC4 | The reserve's break-even | A note of 2026-11-23 on QUESTION-395 (Open) |
@@ -86,7 +86,7 @@ The first draft found twenty-nine places where the argument needed a step the re
 | GD4 | TERMs for regulation, demand specification and industrial ecosystem | Open item for the owner (a term is added by the owner's decision) |
 | GD5 | Any real or realistically parameterized industrial case | Open item for the owner; LEAD-tmpy0jkr is the nearest step |
 | GD6 | A case of second-order unresponsiveness | A note of 2026-11-23 on CLAIM-719 (Proposed): still no case |
-| GD7 | The novel-demand result, on the record | Open item: a CASE, in a later pull request (with GC1); SYNTHESIS-tmp3x39i says JD4's content belongs there |
+| GD7 | The novel-demand result, on the record | CASE-tmp95f8e (Proposed, executed study, a variant of CASE-tmpo8bsc) |
 | GD8 | Who places a protected anchor | LEAD-tmphisy8 (Open) |
 
 Two of the filings changed what the paper may say.
