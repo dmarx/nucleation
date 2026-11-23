@@ -169,3 +169,8 @@ reflect current industrial capabilities". This is an application, and it
 is A's. The claim gives the mechanism, and the regulatory reading is
 interpretive. The owner's thesis it bears on is [CLAIM-tmpz67ew](CLAIM-tmpz67ew.md). No status
 change.
+
+## Note of 2026-11-23: queries and answers entering the context, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CLAIM-tmpt8pvt — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
+A50 §6 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) reads this connection as one between queries and the answers that adequately answer them, and indexes it by time, I_t ⊆ Q_t × A_t, so that new questions and new answers both enter the context. The assistant's gap fill ([CLAIM-tmpt8pvt](CLAIM-tmpt8pvt.md)) corrects one step: with meanings fixed, a new query cannot change the implications among existing queries, and a new answer can only remove them; implications appear only when answers are lost or become unaffordable, which is this claim's direction, or when acceptance criteria are revised. Checked by brute force on 400 random contexts. The claim is unchanged.

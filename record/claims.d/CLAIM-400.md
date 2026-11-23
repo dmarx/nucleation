@@ -206,3 +206,20 @@ the state's persistence approaches one. A42: "A system can become better
 at governing the problems it already recognizes while becoming worse at
 recognizing and governing new ones." This is a faithful application. The
 thesis using it is [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md); no edge is written from here.
+
+## Note of 2026-11-23: a grammar of permission, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CLAIM-tmpjvllb CLAIM-tmp04pr7 — Proposed; filed from the exchange -->
+A56 §7 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23)
+describes this claim's mechanism in an organization's authorization of
+inquiry, without citing it: "Over time, a particular grammar of permission
+becomes established", lowering the cost of evaluating familiar proposals and
+raising the relative cost of unfamiliar ones, so that "identity
+stabilization becomes the stabilization of an authority-dependent legibility
+regime". That is the maintained legibility state that authority moves, with
+the lean that can outlast its causes, read in the setting of
+[CLAIM-tmp04pr7](CLAIM-tmp04pr7.md). A56's remedy, revising "the standards governing those
+decisions", is [CLAIM-403](CLAIM-403.md)'s last stage. Not filed as a claim of its own; the
+related claims are [CLAIM-tmp04pr7](CLAIM-tmp04pr7.md) and [CLAIM-tmpjvllb](CLAIM-tmpjvllb.md). No status change. The
+note is the assistant's (Claude, in this session); adopting it is the
+owner's call.

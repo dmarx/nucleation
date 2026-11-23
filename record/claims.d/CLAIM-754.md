@@ -211,3 +211,24 @@ preferences of those selves fix no scalar ([CLAIM-tmp6ppvo](CLAIM-tmp6ppvo.md)).
 thesis, that the three frontiers move separately, is untouched. Related
 by complements; whether the qualification should be an objection is the
 owner's call.
+
+## Note of 2026-11-23: generative richness, from "Explain First Contact RL"
+<!-- inactive-ok-block: TERM-tmp9lu6c CLAIM-tmp6thmv — new; the term and claim that use this one -->
+
+A60 §3 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) uses this claim to say that an ecosystem's richness has a generative part as well as an extensive one: two perspectives with the same present repertoire 𝓕ᵢ can differ in what they could develop "through affordable learning and reorganization within a further horizon" (𝓓ᵢ), which is this claim's developmental frontier against its operational one. A60 adds that differentiated perspectives "can occupy different parts of each of these frontiers", so diversity distributes the capacity for future competence acquisition. That use is [TERM-tmp9lu6c](../terms.d/TERM-tmp9lu6c.md)'s developmental dimension and step 3 of [CLAIM-tmp6thmv](CLAIM-tmp6thmv.md), which rests on this claim. No status changes. The note is the assistant's (Claude, in this session).
+
+## Note of 2026-11-23: which inquiry frontier, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CLAIM-tmpx0wv9 TERM-tmpace0k TERM-tmpdk711 — Proposed; filed from the exchange -->
+This claim's inquiry frontier, "what it can formulate and pursue", is
+[TERM-092](../terms.d/TERM-092.md)'s version-1 sense. Version 2 (2026-10-29) split it into the
+askable and the investigable sets, so the claim's third frontier should say
+which it means. A58 of the exchange "Explain First Contact RL"
+(2026-11-23), §4, cites this claim against widening the inquiry frontier to
+answers: answering a question is not doing what it specifies, as an inquiry
+may explain why a machine fails "without possessing the ability to repair
+it", and the operational frontier must stay apart. Both alternatives filed
+for the owner keep it apart ([TERM-tmpace0k](../terms.d/TERM-tmpace0k.md), [TERM-tmpdk711](../terms.d/TERM-tmpdk711.md)), indexing the
+answer frontier by the kind of inquiry and its acceptance standard;
+[CLAIM-tmpx0wv9](CLAIM-tmpx0wv9.md) complements this claim. No status change. The note is the
+assistant's (Claude, in this session); adopting it is the owner's call.

@@ -313,3 +313,8 @@ reports what the lead asked for, "readiness curves over the deadline
 deadlines". Its third arm, the harm absent from the specification, is
 [CASE-tmp95f8e](CASE-tmp95f8e.md). The redesign is run with its cost reported as a
 break-even, not charged up front as the lead's design has it.
+
+## Note of 2026-11-23: restated as equivalence under routine queries, from "Explain First Contact RL"
+
+<!-- inactive-ok-block: CLAIM-tmp9o6yv — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
+A50 §7 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) restates this study's matched performance as equivalence under a routine query family Q₀ ([TERM-069](../terms.d/TERM-069.md)), broken by a new query q⋆, reorganization after a supplier failure within a deadline. It adds a query side: a regulator that samples only Q₀ rewards the system that optimized away the capacities q⋆ needs, and its success confirms the regulator's tests, a "query-induced capability trap" ([CLAIM-tmp9o6yv](../claims.d/CLAIM-tmp9o6yv.md)). This study holds the query family fixed, so it shows the divergence and not the trap; [LEAD-tmp6gz07](../leads.d/LEAD-tmp6gz07.md) would add the questioner. The case is unchanged.

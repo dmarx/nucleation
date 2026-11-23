@@ -309,3 +309,8 @@ a car taken apart and put back from its own interchangeable parts by the
 manual, with no rival successor, and counted the same. The claim's text
 and status are unchanged; which reading, and whether the admission
 section takes the replica, are the owner's.
+
+## Note of 2026-11-23: restated for collectives, uncited
+
+<!-- inactive-ok-block: CLAIM-tmprkpq5 CLAIM-tmpfc364 — new; the restatement, the kernel it is tested by and the correction to its distance -->
+A64b of the exchange "Explain First Contact RL" (ChatGPT, the branch of 2026-11-23 08:51) reached this claim's criterion for a collective without citing it: "Two independently formed organizations might have identical response kernels without being the same historically continuous organization", so collective identity needs "historical organizational continuity" and "maintained, revisable causal organization"; "The first distinguishes continuation from duplication." Its thesis is [CLAIM-tmprkpq5](CLAIM-tmprkpq5.md), which rests on this claim. What it adds is which relations carry a collective: those of its question–answer game, the means of revising its rules included. With the repair in [CLAIM-tmpfc364](CLAIM-tmpfc364.md), duplicates are at observational distance zero and differ only historically, as this claim says. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

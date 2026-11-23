@@ -86,3 +86,8 @@ Its 'integrated' is schematic, as its Limits say: the coupling diagnostic is
 necessary and not sufficient, and 'contributes to maintaining coherent
 activity' has no measure, so the definition is not settled; [CLAIM-tmpm54la](../claims.d/CLAIM-tmpm54la.md),
 its one use, has not said which reading it takes.
+
+## Note of 2026-11-23: five criteria, and whether the name undersells
+
+<!-- inactive-ok-block: CLAIM-tmp812ex CLAIM-tmpuzk5o — new; A64b's criteria and the owner's question they answer -->
+Asked by the owner at U33b whether a collective identity is a pseudo-self ([CLAIM-tmpuzk5o](../claims.d/CLAIM-tmpuzk5o.md)), A64b (the branch of 2026-11-23 08:51) proposed five criteria for a stronger candidate: historically maintained integration, differentiated inquiry, consequential governance, reflexive revisability and adaptive viability ([CLAIM-tmp812ex](../claims.d/CLAIM-tmp812ex.md)). The first is this term's "integrated"; the other four are additions, which would make the term a graded candidacy. A64b also wondered "whether pseudo-self undersells the possibility". The definition is unchanged. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

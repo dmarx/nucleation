@@ -1,0 +1,35 @@
+---
+status: Deferred
+status_note: 'Registered 2026-11-23 from A63 of the exchange "Explain First Contact RL", which cites it in its article; not sought or read. The identifier is the one A63 gives, unverified.'
+title: 'The Division of Cognitive Labor'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Filed, not read. Registered from A63's reference list. The record
+    was searched by title and first author and holds no copy. The
+    identifier and the publication date are A63's and are not checked
+    against Crossref; the owner asked on 2026-11-23 to save readings for
+    later.
+tags:
+- philosophy-of-science
+- epistemology
+date: '2026-11-23'
+published: '1990-01-01'
+url: 'https://www.jstor.org/stable/i335813'
+first_author: 'Kitcher'
+keywords: ['division of cognitive labor']
+implementations: []
+summary: >-
+  Kitcher (1990), The Journal of Philosophy 87(1):5–22. Cited by A63 of the exchange "Explain First Contact RL" (ChatGPT),
+  in its article section 7.1, for the division of cognitive labor, against which it sets diversity of maintained capacities to ask and answer. What A63 says of it is unverified until read.
+---
+
+# LIT-tmpcsjt5: The Division of Cognitive Labor
+
+Kitcher (1990), The Journal of Philosophy 87(1):5–22.
+
+## Key takeaways
+
+- Not read.
