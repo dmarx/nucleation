@@ -2,8 +2,15 @@
 
 Coded under CODING.md (written before reading). All pages read on
 2026-11-23 through the session's web fetch tool, which returns a model's
-extract of the page, not the raw text; quotes below are as that extract
-gave them, and are flagged for the owner's recheck in the report.
+extract of the page. The quotes of F1, F2, F3 and F4 were then checked
+verbatim against the pages' own HTML, downloaded with curl to the
+session scratchpad the same day (not committed), with bylines and dates
+from the pages' metadata. In F1 the words in quotation marks are
+Jones's; "Jones called it ... noting that the director" is Looper's
+framing ("he told Looper": Looper's own interview). F2 is Yahoo's own
+interview (Roxy Simons, Entertainment Editor), published
+2024-03-06T08:00:40Z. The other rows are as the fetch tool's extract
+gave them.
 
 ## Findings
 
