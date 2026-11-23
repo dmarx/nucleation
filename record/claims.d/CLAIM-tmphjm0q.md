@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'There is no optimal regulation until the demand specification, the instruments, the horizon and the trade-offs among demands are declared, and a regime is better judged by a profile of possibility, realization, resilience, accountability and cost than by a scalar, so steering an industrial ecosystem optimally is relative to commitments the mathematics does not select'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §6, §9.5
+    and §14 state it: a profile and not a scalar, with no universal
+    ranking. No other change.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +47,8 @@ summary: >-
   the commitments." It qualifies the thesis and does not reject it. The
   wording is A's (ChatGPT, in the exchange of 2026-11-22); adopting it is
   the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-tmpz67ew — Proposed; filed in this filing of 2026-11-22 -->
 

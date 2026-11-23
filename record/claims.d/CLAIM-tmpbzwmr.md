@@ -7,7 +7,15 @@ title: An organization's identity can be carried by slow collective degrees
   indexed to the timescales of the demands it must answer, and governance
   maintains a fit between the spectrum of its modes and the temporal structure
   of those demands
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §15
+    states it: a mode spectrum appropriate to the demands. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: An organization whose identity is carried by fast modes, or by
@@ -37,6 +45,8 @@ summary: A40's central insight in the exchange "Explain First Contact RL"
   a slow mode is not necessarily an identity-bearing mode ([CLAIM-331](CLAIM-331.md), [CLAIM-626](CLAIM-626.md)).
   The wording is A's (ChatGPT, in the exchange of 2026-11-22); adopting it
   is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-478 TERM-tmpz28l1 THEORY-1052 — Proposed; cited in this filing of 2026-11-22 (second share) -->
@@ -95,3 +105,14 @@ timescales of the demands, is [CLAIM-tmph25dl](CLAIM-tmph25dl.md)'s central clau
 tmph25dl is Proposed, waiting on [CLAIM-478](CLAIM-478.md) and [CLAIM-758](CLAIM-758.md). Its other unheld
 premise, [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md), went Active at the status review of 2026-11-23.
 [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md) waits on this claim.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: CLAIM-tmpcag0t — Proposed; the work and the components it restates -->
+Restatement. The central formulation of the owner's manuscript (ADR-
+tmpsfjxu, A48 §15), "adaptive governance as the maintained viability of a
+demand-appropriate temporal response repertoire", restates this claim with
+[CLAIM-tmpcag0t](CLAIM-tmpcag0t.md), CLAIM-tmpbzwmr and [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)'s second-order kernel,
+adding only "justified" demands. Audited ([ADR-075](../decisions.d/ADR-075.md)): no separating case,
+derivation or discriminating prediction was found beyond them, and
+"appropriate" is a free parameter, so it is a recap and no claim is filed.

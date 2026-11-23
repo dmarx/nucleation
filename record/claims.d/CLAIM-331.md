@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 10
+version: 11
 history:
 - version: 2
   date: '2026-10-16'
@@ -59,6 +59,13 @@ history:
     (NOTE-1534): what slowness marks is relative to an environment
     and a measure of size, and moves with the environment's strength.
     The claim is unchanged.
+- version: 11
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §3.1 and
+    §3.2 use it as a step: levels are slower, and slowness alone does not
+    establish identity. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -93,6 +100,8 @@ summary: >-
   a slow variable is thereby a level, a system or an individual.
 complements:
 - CLAIM-327
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-tmpqdy16 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->

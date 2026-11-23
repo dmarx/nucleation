@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpvr0mx
 title: 'For a normatively relevant discrepancy to change what an organization does, three distinct achievements are needed and any can fail while the others hold: legibility, by which the discrepancy becomes recognizable; volitional efficacy, by which a corresponding demand can move action; and correctability, by which a fitting revision can be carried out within deadline and resources; none establishes that the demand or the revision is justified, and whether the norm-satisfying histories the agent can still realize are empty depends partly on what its earlier actions destroyed'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-06'
@@ -53,6 +53,13 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §11 states its proposition, as the legibility
     of dissent against its efficacy. No other change.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §10 and
+    §13 state its three achievements, detection, authority and correction
+    within a deadline, without citing it. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -72,6 +79,7 @@ line:
 - will-organization
 - distributed-agency
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 uses:
 - TERM-064
@@ -311,3 +319,11 @@ No status changes.
 <!-- inactive-ok-file: THEORY-1968 — new theory of 2026-11-18, Proposed -->
 
 Arnstein 1969, read from an OCR scan ([NOTE-2037](../notes.d/NOTE-2037.md), [THEORY-1968](../theory.d/THEORY-1968.md)): it corroborates the claim independently ([THEORY-1968](../theory.d/THEORY-1968.md) carries `corroborates`). Under informing and consultation citizens "may indeed hear and be heard", "But under these conditions they lack the power to insure that their views will be heeded by the powerful" (p. 217); consultation "offers no assurance that citizen concerns and ideas will be taken into account" (p. 219). Legibility without volitional efficacy, as a practitioner's typology of where power is withheld. Placation shows efficacy failing through the powerholders' majority: "the have-nots can be easily outvoted and outfoxed" (p. 220). Illustration from 1960s programs, not systematic evidence. No status changes.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
+Parallel, uncited. A48 §10 and §13 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md))
+state this claim's three achievements, detection, authority and correction
+within a deadline, including a formally contestable institution that cannot
+correct in time, without citing it; it is a member of the work.

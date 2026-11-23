@@ -6,7 +6,7 @@ title: 'A mode''s slowness says how it persists, not how hard it is to redirect:
   cheaper to redirect through the same input, and a mode with b = 0 cannot
   be redirected through it at any rate; persistence, redirection and the renewal
   of a mode''s supports are three timescales that need not coincide'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -15,6 +15,13 @@ history:
     these rulings), under ADR-057: its premise CLAIM-345 is Active; the
     Gramian formula and the monotonicity of x/(1 - e^{-x}) re-checked; its
     complements do not block.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §5.2
+    states it: persistence, control and reproduction are different
+    timescales. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: An error in the formula or its monotonicity. As a reading of
@@ -43,6 +50,8 @@ summary: A40 §3 of the exchange "Explain First Contact RL" (ChatGPT, second
   in the exchange of 2026-11-22); the monotonicity statement and the wording
   are the assistant's (Claude, in this session); adopting it is the owner's
   call.
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: THEORY-1052 — Proposed; cited in this filing of 2026-11-22 (second share) -->

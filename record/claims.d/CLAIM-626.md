@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpwp3ru
 title: 'Critical slowing has no single organizational meaning: when a collective mode slows, reduction to it improves; when the mode that restores a collective relation slows, as two detuned phase oscillators near the edge of locking, the reduction fails while the locked state still exists; when the maintenance of the coupling slows, the reduction stays good while the organization nears its fold'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -14,6 +14,13 @@ history:
     objection; the defeated_if is not met (neither CLAIM-478 nor CLAIM-521
     states the dissociation); the transverse computation re-checked. A's
     wording, which A calls its own synthesis.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §5.1
+    states its three kinds of slowing, with some drift (see the curation
+    entry). No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -51,6 +58,8 @@ summary: >-
   half, [CLAIM-521](CLAIM-521.md)), and the transverse arm and the dissociation are new.
   Recomputed by the reader. The wording is A's; adopting it is the owner's
   call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-478 — Proposed; the claim whose second half is the collective arm, cited as open -->
 <!-- inactive-ok-file: CLAIM-841 — filed 2026-11-21 from the exchange "Rich Get Richer Power Laws", Proposed -->
@@ -168,3 +177,12 @@ support. A40: "a slow mode cannot automatically be interpreted as a
 stabilizing identity." The thesis it supports, [CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md),
 complements this claim. The relation is a parallel, so no edge is written
 from here.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
+Restatement, with drift. A48 §5.1 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md))
+restates this claim's three kinds of slowing, but recasts whether the
+collective reduction stays good as whether coordination weakens or the
+relationship continues to function; and its lineage section calls the claim
+Proposed, which it was until the status review of this date.

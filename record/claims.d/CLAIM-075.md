@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpk5av7
 title: 'Viability does not establish what ought to persist'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -14,6 +14,13 @@ history:
     entry is in the account of normative judgment about
     organizations. No relation supplies will-organization to it
     (ADR-085). No other change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §12 and
+    §14 use it: viability does not fix what ought to persist. No other
+    change.
 role: disclaimed
 warrant: interpretive
 tags:
@@ -23,6 +30,7 @@ date: '2026-10-04'
 line:
 - organizational-normativity
 works:
+- governance-of-possibility
 - organization-of-will
 summary: >-
   Sections 6.10 and 7.3: "An unjust institution may be highly viable."

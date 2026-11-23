@@ -8,7 +8,7 @@ title: 'Identity stabilization can be read as temporal filtering: an organizatio
   is optimal in general, and the per-frequency optimum S_d/(S_d + λS_n) passes
   variation where genuine demand outweighs noise and holds steady where noise
   outweighs it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -17,6 +17,12 @@ history:
     these rulings), under ADR-057: no premise; the transfer functions and
     the per-frequency optimum re-checked (argmin 0.7273 against the
     formula's 0.7273).
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §4 states
+    it: identity stabilization as temporal filtering. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: 'An error in the transfer functions or the optimum. As a reading
@@ -42,6 +48,8 @@ summary: 'A42 §2 and A44 §3 of the exchange "Explain First Contact RL" (ChatGP
   filtering." A44 gives the non-causal Wiener optimum. Both checked by the
   assistant. The wording is A''s (ChatGPT, in the exchange of 2026-11-22);
   adopting it is the owner''s call.'
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-tmph25dl — Proposed; cited in this filing of 2026-11-23 (third share) -->

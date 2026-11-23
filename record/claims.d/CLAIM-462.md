@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbf8uv
 title: 'An arrangement of institutions can keep, or increase, its capacity for effective action while its capacity to be effectively corrected by others degrades, because the two are maintained by different relations, so the first is no evidence of the second'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-29'
@@ -64,6 +64,12 @@ history:
     (ADR-104), the owner's manuscript from the exchange "Assess
     Depp Heard Abuse": A49 §9 and §10 state its proposition. No other
     change.
+- version: 10
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §13
+    states it: action capacity without correctability. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,6 +88,7 @@ date: '2026-10-27'
 line:
 - distributed-agency
 works:
+- governance-of-possibility
 - capability-restraint-relational-freedom
 rests_on:
 - CLAIM-422

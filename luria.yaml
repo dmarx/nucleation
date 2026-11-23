@@ -849,6 +849,16 @@ vocabularies:
           also lock in, so capability is kept apart from substantive freedom. Its argument is held mainly in the
           lines realizability and formal-apparatus, with will-organization and transient-support for its
           normative part'
+      governance-of-possibility:
+        label: 'Regulation as the Governance of Possibility'
+        blurb: 'the owner''s manuscript, requested at U24 and U25 of the exchange "Explain First Contact RL" and
+          drafted by ChatGPT on 2026-11-23 (A48, fleshing out A46): Identity, Slow Modes, and the Temporal
+          Organization of Adaptive Industrial Ecosystems. Regulation governs which organizations an industrial
+          ecosystem can attain, sustain and revise, not only conduct within it; identity stabilization is
+          selective temporal filtering indexed to the timescales of the demands; and adaptive governance keeps
+          the capacity to reorganize viable, which a model with matched present performance separates from
+          present performance. Its argument is held mainly in the lines realizability, distributed-agency,
+          will-organization, formal-apparatus and readiness'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 # The pending report's age horizon, at the record's own pace: the default 90
 # could not name a stale document in a record a month old (ADR-057).

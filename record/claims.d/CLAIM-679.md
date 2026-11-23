@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpfrjqq
 title: 'For a fixed architecture and one resource that must be held at each moment, cutting the resource an organization holds toward what holding its present configuration requires leaves that configuration feasible and removes exactly the transitions whose threshold lies between the old holding and the new, so that at the limit the organization can still hold where it is and can reach no configuration whose transition carries any reconfiguration slack'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -32,6 +32,13 @@ history:
     condition's stipulation. No objection is on file, nothing meets the
     defeat condition, and the instance (7, 7, 13) checks. The text is
     unchanged.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    manuscript from the exchange "Explain First Contact RL": A48 §9.1
+    states it: cutting to the holding cost keeps the configuration and
+    removes the transition. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -75,6 +82,8 @@ summary: >-
   Demonstrated; the derivation is in the body. Filed on 2026-11-13 from
   the items the first filing left. The wording is A's; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-679: For a fixed architecture and one resource that must be held at each moment, cutting the resource an organization holds toward what holding its present configuration requires leaves that configuration feasible and removes exactly the transitions whose threshold lies between the old holding and the new, so that at the limit the organization can still hold where it is and can reach no configuration whose transition carries any reconfiguration slack
@@ -149,3 +158,11 @@ A64 §6 of the exchange "Assess Depp Heard Abuse" (https://chatgpt.com/share/6af
 The structure is this claim's, with two differences. Here a cut in the resource held removes exactly the transitions whose threshold lies between the old holding and the new; there an added requirement removes exactly the objectives whose cost it pushes past the holding. And here the resource is held at each moment, while A64's is a budget spent over the dispute. Both say that what is lost is fixed by which thresholds fall in the gap, so a small change near a boundary can remove a whole option. A64 adds the adversary: "**An adversary possesses procedural foreclosure power when its available choices can move another party's justified corrective objective across a resource-feasibility boundary.**" Rechecked in [CASE-287](../cases.d/CASE-287.md); it grounds [CLAIM-748](CLAIM-748.md).
 
 No status changes.
+
+## Note of 2026-11-23: the manuscript governance-of-possibility
+
+<!-- inactive-ok-block: ADR-tmpsfjxu CLAIM-tmpg8yl2 — Proposed; the work and the fill this note names -->
+Extension. In A48 §9.3 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)), this
+claim's zero-slack limit is what decides whether a redesigned transition can
+replace a reserve: only a redesign whose threshold is at most the holding
+cost does ([CLAIM-tmpg8yl2](CLAIM-tmpg8yl2.md)).
