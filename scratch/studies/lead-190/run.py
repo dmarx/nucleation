@@ -145,8 +145,41 @@ def e5_size():
     save("e5_size", dict(N=40, results=res))
 
 
+def e6_fidelity():
+    """Where the shared meaning goes when critics are scored by relevance:
+    the corpus imbalance b against the side on which competence happens to
+    sit, a_r = sum_j softmax(g (1 - zeta) r)_j s_j, per population."""
+    out = []
+    for r_lo, r_hi in ((0.4, 0.9), (0.6, 0.7), (0.65, 0.65)):
+        for b in (0.02, 0.05, 0.1, 0.2):
+            P = M.params(b=b)
+            rows = []
+            for sd in SEEDS:
+                pop = M.population(N=20, seed=sd, r_lo=r_lo, r_hi=r_hi)
+                z = P["g"] * pop["r"]
+                w = np.exp(z - z.max())
+                w /= w.sum()
+                a_r = float(w @ pop["s"])
+                ph = P["phi"] * (1 - P["eps"])
+                pred = (b + P["sigma"] * a_r) / (1 - ph)
+                for sch in ("role", "scalar-agree"):
+                    m, W, E = M.run_scheme(sch, pop, P, T=1000, m0=start(pop, "polar", sd), seed=sd)
+                    rows.append(dict(scheme=sch, seed=sd, a_r=a_r, predicted_m=pred,
+                                     m_mean=float(m.mean()), spread=float(m.std()),
+                                     correct=float((np.sign(m) == np.sign(b)).mean())))
+            for sch in ("role", "scalar-agree"):
+                rr = [r for r in rows if r["scheme"] == sch]
+                out.append(dict(r_range=[r_lo, r_hi], b=b, scheme=sch,
+                                fidelity=float(np.mean([r["correct"] for r in rr])),
+                                max_abs_err_pred=float(max(abs(r["m_mean"] - r["predicted_m"]) for r in rr))
+                                if sch == "role" else None,
+                                sign_follows_competence=float(np.mean(
+                                    [np.sign(r["m_mean"]) == np.sign(r["predicted_m"]) for r in rr]))))
+    save("e6_fidelity", dict(rows=out))
+
+
 EXPS = dict(e1=e1_schemes, e2=e2_agent_level, e3=e3_independence, e4=e4_grant_game,
-            e5=e5_size)
+            e5=e5_size, e6=e6_fidelity)
 
 if __name__ == "__main__":
     names = sys.argv[1:] or list(EXPS)
