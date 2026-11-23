@@ -15,12 +15,12 @@ line:
 - readiness
 - formal-apparatus
 summary: >-
-  The support judgement of the assistant's gap fill CLAIM-tmp62ldm: A50's
-  formula for "a robust interrogation game" (CLAIM-tmp2oloi), read with
+  The support judgement of the assistant's gap fill [CLAIM-tmp62ldm](../claims.d/CLAIM-tmp62ldm.md): A50's
+  formula for "a robust interrogation game" ([CLAIM-tmp2oloi](../claims.d/CLAIM-tmp2oloi.md)), read with
   two standard results, carries less than "a genuine two-player game"
-  suggests. It narrows CLAIM-tmp2oloi's formal part and leaves its three
+  suggests. It narrows [CLAIM-tmp2oloi](../claims.d/CLAIM-tmp2oloi.md)'s formal part and leaves its three
   forms and its call for justified query-side constraints standing; the
-  conclusion's standing lives in CLAIM-tmp62ldm. The wording is the
+  conclusion's standing lives in [CLAIM-tmp62ldm](../claims.d/CLAIM-tmp62ldm.md). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
@@ -30,13 +30,13 @@ summary: >-
 
 ## The inference
 
-Premise (CLAIM-tmp2oloi, A50 §3): the game is inf over π ∈ Π(S) of sup over
+Premise ([CLAIM-tmp2oloi](../claims.d/CLAIM-tmp2oloi.md), A50 §3): the game is inf over π ∈ Π(S) of sup over
 ρ ∈ 𝒫(Q) of E[ℓ(q, a)], with the response conditioned on the query.
 Applied results: expected loss is linear in ρ, so a sup over the whole
 simplex is attained at a vertex; an infimum over a product set of
 per-query choices splits into per-query infima; and von Neumann's minimax
 theorem holds for a finite game in mixed strategies, where it gives the
-query side an equilibrium mixed strategy. The conclusion, CLAIM-tmp62ldm,
+query side an equilibrium mixed strategy. The conclusion, [CLAIM-tmp62ldm](../claims.d/CLAIM-tmp62ldm.md),
 follows: the formula is strategic only through coupling across queries in
 Π(S) or a restriction on 𝒫(Q).
 
@@ -56,4 +56,4 @@ follows: the formula is strategic only through coupling across queries in
   game's content in the coupling of responses through the target's shared
   state, which A50's formula leaves implicit in Π(S), and connects the
   query side's "justified constraints" to a restricted 𝒫(Q). A numerical
-  check on a three-query example is in CLAIM-tmp62ldm.
+  check on a three-query example is in [CLAIM-tmp62ldm](../claims.d/CLAIM-tmp62ldm.md).

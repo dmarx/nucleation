@@ -23,11 +23,11 @@ rests_on:
 bears_on:
 - QUESTION-tmpn4we1
 summary: >-
-  A gap fill (ADR-137) for A50 §3 of the exchange "Explain First Contact RL"
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A50 §3 of the exchange "Explain First Contact RL"
   (2026-11-23), which titles itself "Make it a genuine two-player game" and
   writes inf over π, sup over ρ, of expected loss without saying what makes
   it a game rather than worst-case design. The ledger's gap: whether it is
-  a game at all, and what its equilibrium is. Argued in ARG-tmpo1l8y and
+  a game at all, and what its equilibrium is. Argued in [ARG-tmpo1l8y](../arguments.d/ARG-tmpo1l8y.md) and
   checked with python3 -I. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -39,7 +39,7 @@ summary: >-
 ## The gap it fills
 
 A50 §3 writes the game as inf over π ∈ Π(S) of sup over ρ ∈ 𝒫(Q) of
-E[ℓ(q, a)], q ~ ρ, a ~ P_π(· | q, S) (CLAIM-tmp2oloi), under the heading
+E[ℓ(q, a)], q ~ ρ, a ~ P_π(· | q, S) ([CLAIM-tmp2oloi](CLAIM-tmp2oloi.md)), under the heading
 "Make it a genuine two-player game". It does not say what the query side's
 distribution adds, when the formula is strategic, or what its equilibrium
 is.
@@ -64,7 +64,7 @@ E[ℓ] = Σ_q ρ(q) L(π, q) is linear in ρ.
    cannot optimize each query separately. Its best policy hedges across
    queries, and, the loss being convex in a mixed or divisible policy, the
    minimax theorem gives the query side an equilibrium mixed strategy. This
-   is the readiness setting of TERM-115: preparation is chosen before the
+   is the readiness setting of [TERM-115](../terms.d/TERM-115.md): preparation is chosen before the
    contingency arrives.
 4. **Or when 𝒫(Q) is restricted.** A testing budget, a requirement of
    diversity or a legitimacy constraint that excludes concentrating on the
@@ -77,7 +77,7 @@ queries through the target's shared state, and in what the query side is
 permitted, not in the minimax form as such. It is a zero-sum game, with
 the minimax value as its solution, only in its adversarial form; the
 diagnostic and developmental forms need a query-side payoff of their own
-(QUESTION-tmpn4we1).
+([QUESTION-tmpn4we1](../questions.d/QUESTION-tmpn4we1.md)).
 
 ## The check
 

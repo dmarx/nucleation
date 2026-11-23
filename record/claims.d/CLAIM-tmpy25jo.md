@@ -26,7 +26,7 @@ summary: >-
   2026-11-23), filled. A54 models maintained nuclei as ċ = αu − δc under a
   shared budget, says the linear model "doesn't yet exhibit genuine
   nucleation", and conjectures "a possible critical conceptual nucleus",
-  citing CLAIM-605 and CLAIM-463 for thresholds. Here: what the linear
+  citing [CLAIM-605](CLAIM-605.md) and [CLAIM-463](CLAIM-463.md) for thresholds. Here: what the linear
   model does give, the standing cost of readiness and the bound it puts on
   how many nuclei can be held, and the smallest change that yields A54's
   threshold, each checked with python3 -I. The wording is the assistant's
@@ -38,7 +38,7 @@ summary: >-
 
 ## The gap
 
-A54 §4 (CLAIM-tmpoexcl): ċ_i = α_i u_i − δ_i c_i, Σ u_i + u_coord ≤ B.
+A54 §4 ([CLAIM-tmpoexcl](CLAIM-tmpoexcl.md)): ċ_i = α_i u_i − δ_i c_i, Σ u_i + u_coord ≤ B.
 "Some might require only a small maintenance allocation to remain usable";
 "The linear maintenance model doesn't yet exhibit genuine nucleation. A
 stronger model would have a threshold below which a developing perspective
@@ -58,19 +58,19 @@ A54 neither prices the maintenance nor writes the stronger model.
   and fast-decaying nuclei (skills kept by practice) are dearer to hold
   than slow ones (a written method), however rarely either is used.
 - **No threshold.** From any c the funded nucleus tends to αu/δ. Funding
-  restored after any lapse restores the nucleus, so CLAIM-463's
+  restored after any lapse restores the nucleus, so [CLAIM-463](CLAIM-463.md)'s
   irreversibility cannot occur in it.
 
 ## The smallest change that gives a threshold
 
 Make building capability need capability already present, as in
-CLAIM-605's learning by doing: ċ = αu·c²/(c² + K²) − δc. Then c = 0 is
+[CLAIM-605](CLAIM-605.md)'s learning by doing: ċ = αu·c²/(c² + K²) − δc. Then c = 0 is
 always stable (slope −δ there), and the other equilibria solve
 δc² − αuc + δK² = 0. They exist when αu ≥ 2δK; the lower root
 c₋ = [αu − √(α²u² − 4δ²K²)]/(2δ) is the threshold and the upper c₊ the
 maintained level. A nucleus below c₋ decays to nothing even while funded,
 and one cut off long enough to fall below c₋ is not restored by restoring
-its funding: CLAIM-463's case.
+its funding: [CLAIM-463](CLAIM-463.md)'s case.
 
 ## The check
 
@@ -92,6 +92,6 @@ With python3 -I (Euler steps of 0.01):
 - Not that perspectives have such a threshold. A54: "We should not assume
   every perspective has such a threshold. That is a mechanism to test." The
   sigmoidal form is one assumption that gives it.
-- Not how the budget is set. If it follows observed use, CLAIM-921 shows a
+- Not how the budget is set. If it follows observed use, [CLAIM-921](CLAIM-921.md) shows a
   rarely used capability can be lost whatever each use was paid, which is
-  the manager of CASE-tmp0nsah funding only what is used now.
+  the manager of [CASE-tmp0nsah](../cases.d/CASE-tmp0nsah.md) funding only what is used now.

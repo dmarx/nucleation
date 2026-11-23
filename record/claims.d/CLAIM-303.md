@@ -171,6 +171,6 @@ administrators because claimants do the work of fitting its categories,
 left unfiled as close to definitional, came back at A56 §4 of the exchange
 "Explain First Contact RL" (2026-11-23) with content of its own: who must
 pay to make a proposal legible steers which questions an institution
-pursues. It is filed as CLAIM-tmpjg4h2, in A's voice, on the owner's U29
-(CLAIM-tmpbt43r). No status change. The note is the assistant's (Claude, in
+pursues. It is filed as [CLAIM-tmpjg4h2](CLAIM-tmpjg4h2.md), in A's voice, on the owner's U29
+([CLAIM-tmpbt43r](CLAIM-tmpbt43r.md)). No status change. The note is the assistant's (Claude, in
 this session); adopting it is the owner's call.

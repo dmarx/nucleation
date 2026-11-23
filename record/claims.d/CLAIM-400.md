@@ -209,8 +209,8 @@ raising the relative cost of unfamiliar ones, so that "identity
 stabilization becomes the stabilization of an authority-dependent legibility
 regime". That is the maintained legibility state that authority moves, with
 the lean that can outlast its causes, read in the setting of
-CLAIM-tmp04pr7. A56's remedy, revising "the standards governing those
-decisions", is CLAIM-403's last stage. Not filed as a claim of its own; the
-related claims are CLAIM-tmp04pr7 and CLAIM-tmpjvllb. No status change. The
+[CLAIM-tmp04pr7](CLAIM-tmp04pr7.md). A56's remedy, revising "the standards governing those
+decisions", is [CLAIM-403](CLAIM-403.md)'s last stage. Not filed as a claim of its own; the
+related claims are [CLAIM-tmp04pr7](CLAIM-tmp04pr7.md) and [CLAIM-tmpjvllb](CLAIM-tmpjvllb.md). No status change. The
 note is the assistant's (Claude, in this session); adopting it is the
 owner's call.

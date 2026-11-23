@@ -22,12 +22,12 @@ uses:
 summary: >-
   The owner's thesis at U30 of the exchange "Explain First Contact RL" (2026-11-23): "Actually, i think we need
   to update "inquiry frontier" to account for the Answer Frontier as well.
-  TERM-092 as you paraphrased it is actually just the query frontier
+  [TERM-092](../terms.d/TERM-092.md) as you paraphrased it is actually just the query frontier
   component of the boundary about the inquiry, which includes an answer
-  frontier". A58 agreed and proposed a revision (TERM-tmpace0k). TERM-092 is
+  frontier". A58 agreed and proposed a revision ([TERM-tmpace0k](../terms.d/TERM-tmpace0k.md)). [TERM-092](../terms.d/TERM-092.md) is
   Active and five claims use it, so the record holds two alternatives for the
-  owner: revise the term to the joint object (TERM-tmpace0k), or keep it and
-  add a joint term beside it (TERM-tmpdk711). Filed in the owner's voice.
+  owner: revise the term to the joint object ([TERM-tmpace0k](../terms.d/TERM-tmpace0k.md)), or keep it and
+  add a joint term beside it ([TERM-tmpdk711](../terms.d/TERM-tmpdk711.md)). Filed in the owner's voice.
 ---
 
 <!-- inactive-ok-file: TERM-tmpace0k TERM-tmpdk711 CLAIM-tmpx0wv9 CLAIM-tmpj15c6 — Proposed; the alternatives and the claims filed with this -->
@@ -37,18 +37,18 @@ summary: >-
 ## The claim
 
 The owner, at U30: "Actually, i think we need to update "inquiry frontier"
-to account for the Answer Frontier as well. TERM-092 as you paraphrased it is
+to account for the Answer Frontier as well. [TERM-092](../terms.d/TERM-092.md) as you paraphrased it is
 actually just the query frontier component of the boundary about the
 inquiry, which includes an answer frontier".
 
-TERM-092 defines the inquiry frontier as the questions an agent can
+[TERM-092](../terms.d/TERM-092.md) defines the inquiry frontier as the questions an agent can
 formulate within its budget and horizon. The owner's thesis is that an
-inquiry (TERM-095) pursues a question toward an answer, so its boundary has
+inquiry ([TERM-095](../terms.d/TERM-095.md)) pursues a question toward an answer, so its boundary has
 two sides, and the record's term names only one of them.
 
 ## How far the record already went
 
-TERM-092's version 2 (2026-10-29) did more than name the askable set. It
+[TERM-092](../terms.d/TERM-092.md)'s version 2 (2026-10-29) did more than name the askable set. It
 set four sets apart: expressible, askable, investigable ("on the frontier,
 with budget left to pursue it to a stated standard") and answerable. The
 investigable set already counts formulating and pursuing against one budget,
@@ -56,17 +56,17 @@ which is the joint feasibility the owner asks for, seen from the questions'
 side. What the term does not have is the answer side: which answers, at what
 standard, are attainable for a question within that budget. That part of
 the thesis is not held; the rest is held under another name, and the
-dated note of 2026-11-23 on TERM-092 says so.
+dated note of 2026-11-23 on [TERM-092](../terms.d/TERM-092.md) says so.
 
 ## The alternatives
 
-- TERM-tmpace0k: A58's revision, the inquiry frontier as the boundary of the
+- [TERM-tmpace0k](../terms.d/TERM-tmpace0k.md): A58's revision, the inquiry frontier as the boundary of the
   jointly realizable question–answer relation (alternative (a), A's
   wording).
-- TERM-tmpdk711: TERM-092 kept as it is, with a joint inquiry frontier
+- [TERM-tmpdk711](../terms.d/TERM-tmpdk711.md): [TERM-092](../terms.d/TERM-092.md) kept as it is, with a joint inquiry frontier
   beside it (alternative (b), the assistant's wording).
 
-CLAIM-tmpx0wv9 (A58) and CLAIM-tmpj15c6 (the assistant) hold why the joint
+[CLAIM-tmpx0wv9](CLAIM-tmpx0wv9.md) (A58) and [CLAIM-tmpj15c6](CLAIM-tmpj15c6.md) (the assistant) hold why the joint
 object is not two frontiers listed side by side. The choice is the owner's.
 
 ## Standing

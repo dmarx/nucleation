@@ -25,10 +25,10 @@ complements:
 - CLAIM-342
 summary: >-
   A50 §5 and its opening of the exchange "Explain First Contact RL"
-  (ChatGPT, 2026-11-23), reading its toy model (CLAIM-tmpep410): "the slow
+  (ChatGPT, 2026-11-23), reading its toy model ([CLAIM-tmpep410](CLAIM-tmpep410.md)): "the slow
   mode belongs neither to the questioner alone nor to the respondent alone.
   It is a collective mode of their coupled relationship." It carries
-  A40's account of identity in slow collective modes (CLAIM-tmpbzwmr) to the
+  A40's account of identity in slow collective modes ([CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md)) to the
   relation between a standard and what it evaluates. The wording is A's
   (ChatGPT, at A50 of the exchange "Explain First Contact RL"); adopting it
   is the owner's call.
@@ -64,14 +64,14 @@ reproduction of relatively persistent query–answer relationships."
 A50 names the pathology "self-confirming coordination": "The regulator may
 adjust its standards toward established industrial performance. The
 industry may adjust its performance toward those standards. Eventually the
-system exhibits excellent measured compliance." CLAIM-tmp8nzk0 gives the
+system exhibits excellent measured compliance." [CLAIM-tmp8nzk0](CLAIM-tmp8nzk0.md) gives the
 size of the effect when an anchor is present.
 
 ## Where the record stands
 
-CLAIM-tmpbzwmr locates identity in slow collective degrees of freedom; this
+[CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md) locates identity in slow collective degrees of freedom; this
 claim puts one such mode between a standard and what it evaluates, where
-neither party owns it. CLAIM-342 is the anchoring condition, and TERM-066's
+neither party owns it. [CLAIM-342](CLAIM-342.md) is the anchoring condition, and [TERM-066](../terms.d/TERM-066.md)'s
 interpretive capture is the condition this equilibrium would be one form
 of, driven by the party evaluated.
 
@@ -80,7 +80,7 @@ of, driven by the party evaluated.
 "May be": it does not say regulatory equilibria are in general
 self-confirming, only that their persistence is not by itself evidence of
 adequacy. And the neutral mode is the toy model's; with any anchor it is a
-slow mode, not a neutral one (CLAIM-tmp8nzk0).
+slow mode, not a neutral one ([CLAIM-tmp8nzk0](CLAIM-tmp8nzk0.md)).
 
 ## Standing
 

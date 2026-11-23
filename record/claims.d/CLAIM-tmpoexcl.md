@@ -25,12 +25,12 @@ uses:
 - TERM-072
 summary: >-
   A54 §3–4 of the exchange "Explain First Contact RL" (ChatGPT,
-  2026-11-23), developing the owner's conjecture (CLAIM-tmp1m3ba) that
+  2026-11-23), developing the owner's conjecture ([CLAIM-tmp1m3ba](CLAIM-tmp1m3ba.md)) that
   persisted perspectives serve as conceptual nucleation sites. A54 gives
   the phrase "a fairly demanding meaning", separates three levels of
   preservation, and models maintained nuclei. What the linear model does
   and does not show, including where a threshold would come from, is the
-  assistant's CLAIM-tmpy25jo. The wording is A's (ChatGPT, at A54 of the
+  assistant's [CLAIM-tmpy25jo](CLAIM-tmpy25jo.md). The wording is A's (ChatGPT, at A54 of the
   exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmp1m3ba CLAIM-tmpy25jo CLAIM-182 CLAIM-921 — Proposed; the owner's conjecture, the gap fill and the held claims read against it -->
@@ -40,7 +40,7 @@ summary: >-
 ## The claim
 
 A54 §3: "A persisted perspective is not simply a hypothesis written down
-somewhere." A perspective in the organizational sense of TERM-072 is "a
+somewhere." A perspective in the organizational sense of [TERM-072](../terms.d/TERM-072.md) is "a
 dynamically realized regime of interpretation". A conceptual nucleus "might
 therefore include an alternative problem formulation, a set of relevant
 distinctions, accumulated evidence, methods for evaluating further
@@ -71,12 +71,12 @@ effective response when an unfamiliar query appears.**"
 
 ## Where the record holds parts of it
 
-- **Archived against maintained.** CLAIM-182: "Storage is not anchoring,
-  addressability is". CLAIM-287: what persists through inactivity "is the
+- **Archived against maintained.** [CLAIM-182](CLAIM-182.md): "Storage is not anchoring,
+  addressability is". [CLAIM-287](CLAIM-287.md): what persists through inactivity "is the
   capacity to reinstate an organization, not its continuous running". The
-  maintained nucleus is CLAIM-287's persistence applied to a perspective.
-- **Unused capacity lost.** A54 cites CLAIM-277's rare specialist, who
-  loses influence for want of chances to show competence. CLAIM-921 is the
+  maintained nucleus is [CLAIM-287](CLAIM-287.md)'s persistence applied to a perspective.
+- **Unused capacity lost.** A54 cites [CLAIM-277](CLAIM-277.md)'s rare specialist, who
+  loses influence for want of chances to show competence. [CLAIM-921](CLAIM-921.md) is the
   budget form: funding that follows observed use loses a capability used
   rarely, which is the fate of a nucleus funded only when it is used.
 
@@ -86,4 +86,4 @@ Proposed, in A's voice. The response-time clause holds in the model by
 construction, since a minimum over more routes is no larger; A54 itself
 says "Real systems must also include authorization, shared bottlenecks,
 and integration costs". What the linear model leaves out, the threshold A54
-calls "a mechanism to test", is CLAIM-tmpy25jo.
+calls "a mechanism to test", is [CLAIM-tmpy25jo](CLAIM-tmpy25jo.md).

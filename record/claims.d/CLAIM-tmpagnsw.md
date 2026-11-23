@@ -27,10 +27,10 @@ summary: >-
   A52 §5 and its closing thesis, in the exchange "Explain First Contact RL"
   (ChatGPT, 2026-11-23). The mechanism, that stored specification moves
   inquiry cost away from the moment a response is urgent and also makes
-  revision costly, is held: CLAIM-475, CLAIM-761 and TERM-085's note on
+  revision costly, is held: [CLAIM-475](CLAIM-475.md), [CLAIM-761](CLAIM-761.md) and [TERM-085](../terms.d/TERM-085.md)'s note on
   Hutchins. What A52 adds is the governance reading and a ledger of four
-  costs. The step from amortization to slow modes is ARG-tmpzaupx, which
-  CLAIM-755 narrows to the economic sense of slow. The wording is A's
+  costs. The step from amortization to slow modes is [ARG-tmpzaupx](../arguments.d/ARG-tmpzaupx.md), which
+  [CLAIM-755](CLAIM-755.md) narrows to the economic sense of slow. The wording is A's
   (ChatGPT, at A52 of the exchange "Explain First Contact RL"); adopting it
   is the owner's call.
 ---
@@ -59,23 +59,23 @@ compete for common resources, and change one another over time".
 
 ## Where the record holds it
 
-- The mechanism and its cost are CLAIM-475's "stabilized specification is
+- The mechanism and its cost are [CLAIM-475](CLAIM-475.md)'s "stabilized specification is
   past inquiry stored so that later questions become cheaper to ask, and it
-  can make other questions harder", and CLAIM-761's stored work, with its
+  can make other questions harder", and [CLAIM-761](CLAIM-761.md)'s stored work, with its
   guard that "the persistence that buys it can entrench".
-- A52 cites CLAIM-303 as the general mechanism. CLAIM-303 is the record's
+- A52 cites [CLAIM-303](CLAIM-303.md) as the general mechanism. [CLAIM-303](CLAIM-303.md) is the record's
   own case of it, filing an argument, priced by totals; the general claim
-  is CLAIM-761.
-- TERM-085's note on Hutchins: preparation "moves the cost of search ahead
+  is [CLAIM-761](CLAIM-761.md).
+- [TERM-085](../terms.d/TERM-085.md)'s note on Hutchins: preparation "moves the cost of search ahead
   of the deadline".
 - The governance of an organization's temporal response structure is
-  CLAIM-tmpcag0t, which this complements with the resources that structure
+  [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md), which this complements with the resources that structure
   is bought with.
 
 ## Standing
 
-Proposed, in A's voice. The second clause is the inference ARG-tmpzaupx
-states. CLAIM-755 separates a dynamically slow variable from an economically
+Proposed, in A's voice. The second clause is the inference [ARG-tmpzaupx](../arguments.d/ARG-tmpzaupx.md)
+states. [CLAIM-755](CLAIM-755.md) separates a dynamically slow variable from an economically
 amortized result and shows that each can occur without the other, so
 "slow modes" here means the economic sense: structures formed at a cost and
 used cheaply many times. That some such structures are also slow in the

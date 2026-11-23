@@ -44,11 +44,11 @@ what its members know how to do, but by what they can afford to make
 intelligible to those empowered to let them do it."
 
 Its four steps are the claims it rests on: authorization is a costly
-second-order query with its own deadline (CLAIM-tmp04pr7); who pays to make a
-proposal legible steers what is pursued (CLAIM-tmpjg4h2); evidence and
-permission can depend on each other in a circle (CLAIM-tmpn8j1j); and
+second-order query with its own deadline ([CLAIM-tmp04pr7](CLAIM-tmp04pr7.md)); who pays to make a
+proposal legible steers what is pursued ([CLAIM-tmpjg4h2](CLAIM-tmpjg4h2.md)); evidence and
+permission can depend on each other in a circle ([CLAIM-tmpn8j1j](CLAIM-tmpn8j1j.md)); and
 alternative perspectives are alternative regimes in which a question can be
-made intelligible more cheaply (CLAIM-tmpjvllb). What it adds is the design
+made intelligible more cheaply ([CLAIM-tmpjvllb](CLAIM-tmpjvllb.md)). What it adds is the design
 conclusion: pluralism of perspectives is not enough without "maintained
 pathways through which initially local forms of intelligibility can acquire
 evidence, resources, and consequential authority."
@@ -61,7 +61,7 @@ produced and reach evaluation.
 
 ## How it could be tested
 
-A56 §8's study is CASE-tmp1ptqp.
+A56 §8's study is [CASE-tmp1ptqp](../cases.d/CASE-tmp1ptqp.md).
 
 ## Standing
 

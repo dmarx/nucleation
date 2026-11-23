@@ -32,12 +32,12 @@ summary: >-
   between "one institutional legibility regime and several partially
   independent legibility regimes"; a maintained perspective can preserve the
   "means of making particular kinds of questions intelligible, testable, and
-  actionable". TERM-064 holds the legibility regime; CLAIM-455 holds that
+  actionable". [TERM-064](../terms.d/TERM-064.md) holds the legibility regime; [CLAIM-455](CLAIM-455.md) holds that
   regimes are ordered only relative to a task, which is why one can be
   cheaper than another for some questions. The wording is A's (ChatGPT's, at A56 of the exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp04pr7 CLAIM-tmpoexcl CLAIM-tmp1m3ba — Proposed; the premise, A54's levels of preservation and the owner's U28 -->
+<!-- inactive-ok-file: CLAIM-tmpoexcl CLAIM-tmp1m3ba — Proposed; the premise, A54's levels of preservation and the owner's U28 -->
 
 # CLAIM-tmpjvllb: Maintained alternative perspectives are alternative legibility regimes: each lowers the cost of making some kinds of question intelligible and testable within it, so with protected resources and a route to wider uptake one can develop an inquiry until its results are legible elsewhere, and keeping a perspective able to do this means keeping its practices, expertise, channels and capacity for work, not only an archive of its ideas
 
@@ -48,7 +48,7 @@ standards of evidence. A proposal illegible to the dominant management may
 be cheap to evaluate within it. With perspectives i, each with evaluator
 o_i, resources B_i and task family 𝒬_i, the legibility of one proposal m_q
 differs across them: L_(o_i, 𝒬_i, B_i)(m_q) ≠ L_(o_j, 𝒬_j, B_j)(m_q), in
-TERM-064's operationalization. "They reduce the cost of translating an
+[TERM-064](../terms.d/TERM-064.md)'s operationalization. "They reduce the cost of translating an
 emerging possibility into an inquiry" within their own regime, and with
 limited resources or a recognized route to broader authorization they can
 take it far enough to produce evidence legible elsewhere. A56's progression:
@@ -68,15 +68,15 @@ evidence scrutiny needs.
 
 ## Neighbours
 
-CLAIM-455: a transformation can make one task's distinction legible and
+[CLAIM-455](CLAIM-455.md): a transformation can make one task's distinction legible and
 another's illegible for the same observer, so regimes are ordered only
 relative to a task. That is the premise that some regime is cheaper for some
-questions. TERM-064's body holds the legibility regime itself, and
+questions. [TERM-064](../terms.d/TERM-064.md)'s body holds the legibility regime itself, and
 Kleinberg and Raghavan's case that a shared regime can cost an organization
-its diversity (THEORY-835). The owner's U28 conjecture that persisted
-perspectives are nucleation sites is CLAIM-tmp1m3ba, and A54's three levels
+its diversity ([THEORY-835](../theory.d/THEORY-835.md)). The owner's U28 conjecture that persisted
+perspectives are nucleation sites is [CLAIM-tmp1m3ba](CLAIM-tmp1m3ba.md), and A54's three levels
 of preservation (a maintained nucleus, an archive, active parallel inquiry)
-are CLAIM-tmpoexcl, which this complements: A54 says what must be kept for a
+are [CLAIM-tmpoexcl](CLAIM-tmpoexcl.md), which this complements: A54 says what must be kept for a
 perspective to be usable, A56 what keeping it buys, a cheaper route to
 making some questions intelligible.
 

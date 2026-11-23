@@ -25,16 +25,16 @@ complements:
 - CLAIM-tmp4u0mj
 summary: >-
   A58 §§1, 2 and 5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23), on the owner's U30
-  (CLAIM-tmp2enpa). A58 defines a joint inquiry-feasibility relation of
+  ([CLAIM-tmp2enpa](CLAIM-tmp2enpa.md)). A58 defines a joint inquiry-feasibility relation of
   question–answer pairs, from which the query frontier, the answer frontier
   and the resolved questions are projections, and argues that the projections
   do not determine it. Its reason in §1, a shared deadline, carries the claim;
   its formal reason in §2, two relations with the same projections, shows
-  less, as the assistant's CLAIM-tmpj15c6 and ARG-tmp7xi5t set out. Warrant
+  less, as the assistant's [CLAIM-tmpj15c6](CLAIM-tmpj15c6.md) and [ARG-tmp7xi5t](../arguments.d/ARG-tmp7xi5t.md) set out. Warrant
   demonstrated, by the §1 construction as checked there. The wording is A's (ChatGPT's, at A58 of the exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp2enpa CLAIM-754 CLAIM-tmpj15c6 ARG-tmp7xi5t TERM-tmpace0k CLAIM-tmp4u0mj — Proposed; the owner's thesis, the neighbour, the assistant's derivation and its argument, and A58's term -->
+<!-- inactive-ok-file: CLAIM-tmp2enpa CLAIM-754 CLAIM-tmpj15c6 ARG-tmp7xi5t CLAIM-tmp4u0mj — Proposed; the owner's thesis, the neighbour, the assistant's derivation and its argument, and A58's term -->
 
 # CLAIM-tmpx0wv9: Inquiry can fail at three sites, forming queries, producing answers and their joint realizability, and the third is not reducible to the first two, because which question–answer pairs an organization can attain together is not determined by the questions it can ask and the answers it can attain taken separately
 
@@ -48,7 +48,7 @@ So the object is a relation: for state S, horizon H and budget B,
   𝓕_S(H, B) = {(q, a) : some admissible process formulates q, produces and
   evaluates a ∈ A_q, within H and B}.
 
-Its projections are the query frontier 𝒬_ask (TERM-092's askable set), the
+Its projections are the query frontier 𝒬_ask ([TERM-092](../terms.d/TERM-092.md)'s askable set), the
 joint answer frontier for each q, {a : (q, a) ∈ 𝓕}, and the resolved
 questions 𝒬_resolved = proj_Q 𝓕 ⊆ 𝒬_ask. The joint answer frontier
 differs from the conditional one, the answers attainable "if q is already
@@ -72,20 +72,20 @@ A58 §2 offers a formal reason: 𝓕_1 = {(q_1, a_1), (q_2, a_2)} and
 differ. That holds of any relation and its projections. It does not reach a
 query frontier and an answer frontier indexed by question, which A58 itself
 defines and which already tell 𝓕_1 from 𝓕_2. What carries the claim is §1's
-shared budget, worked out in CLAIM-tmpj15c6: at one budget the askable
+shared budget, worked out in [CLAIM-tmpj15c6](CLAIM-tmpj15c6.md): at one budget the askable
 questions and the conditional answer frontier do not fix 𝓕, though their
-families over budgets do under a declared composition rule. ARG-tmp7xi5t
-holds that support. CLAIM-tmp4u0mj, from A52 §7 and A54 §7, gives the
+families over budgets do under a declared composition rule. [ARG-tmp7xi5t](../arguments.d/ARG-tmp7xi5t.md)
+holds that support. [CLAIM-tmp4u0mj](CLAIM-tmp4u0mj.md), from A52 §7 and A54 §7, gives the
 bounds the separate frontiers do fix.
 
 ## Neighbours
 
-CLAIM-754 separates operational, developmental and inquiry frontiers, the
-last in TERM-092's earlier sense, "formulate and pursue". A58 §4 warns that
+[CLAIM-754](CLAIM-754.md) separates operational, developmental and inquiry frontiers, the
+last in [TERM-092](../terms.d/TERM-092.md)'s earlier sense, "formulate and pursue". A58 §4 warns that
 widening the inquiry frontier to answers must not identify answering a
 question with doing what it specifies: an inquiry may explain why a machine
 fails "without possessing the ability to repair it". The answer frontier is
-indexed by the kind of inquiry and its acceptance criteria, TERM-095's 𝓚.
+indexed by the kind of inquiry and its acceptance criteria, [TERM-095](../terms.d/TERM-095.md)'s 𝓚.
 
 ## Standing
 

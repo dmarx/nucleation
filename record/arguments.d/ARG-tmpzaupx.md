@@ -17,14 +17,14 @@ line:
 - realizability
 summary: >-
   A52 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23)
-  reasons from the record's stored-inquiry mechanism (CLAIM-475, CLAIM-761)
+  reasons from the record's stored-inquiry mechanism ([CLAIM-475](../claims.d/CLAIM-475.md), [CLAIM-761](../claims.d/CLAIM-761.md))
   to the claim that slow organizational modes "emerge, in part, as ways of
-  amortizing inquiry and coordination costs" (CLAIM-tmpagnsw, second
+  amortizing inquiry and coordination costs" ([CLAIM-tmpagnsw](../claims.d/CLAIM-tmpagnsw.md), second
   clause). Proposed, narrowed: the explanation holds for modes slow in the
   economic sense, formed at a cost and reused cheaply, and not, without a
-  further premise, for modes slow in the dynamical sense, since CLAIM-755
+  further premise, for modes slow in the dynamical sense, since [CLAIM-755](../claims.d/CLAIM-755.md)
   shows the two come apart in both directions. The conclusion's standing
-  lives in CLAIM-tmpagnsw. The wording is the assistant's (Claude, in this
+  lives in [CLAIM-tmpagnsw](../claims.d/CLAIM-tmpagnsw.md). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpagnsw CLAIM-755 CLAIM-tmpbzwmr — Proposed; the conclusion, the claim that narrows the inference and the sense of slow mode the exchange began from -->
@@ -34,11 +34,11 @@ summary: >-
 ## The inference
 
 Premises: a stabilized specification is past inquiry stored so that later
-questions become cheaper to ask (CLAIM-475); a stabilized constraint can be
+questions become cheaper to ask ([CLAIM-475](../claims.d/CLAIM-475.md)); a stabilized constraint can be
 stored work that changes what is realizable within a per-task budget
-(CLAIM-761). Observation: organizations keep slow structures, procedures,
+([CLAIM-761](../claims.d/CLAIM-761.md)). Observation: organizations keep slow structures, procedures,
 standing authority, specifications, rehearsed alternative pathways (A52 §5).
-Conclusion (CLAIM-tmpagnsw): slow organizational modes arise, in part, as
+Conclusion ([CLAIM-tmpagnsw](../claims.d/CLAIM-tmpagnsw.md)): slow organizational modes arise, in part, as
 ways of amortizing inquiry and coordination costs.
 
 ## Critical questions
@@ -47,15 +47,15 @@ ways of amortizing inquiry and coordination costs.
    structures A52 lists, yes: each is formed at a cost and used cheaply
    many times, which is what amortization is.
 2. **Is there a rival explanation?** For modes slow in the dynamical sense,
-   a variable onto which fast deviations relax, yes. CLAIM-755: "a slow
+   a variable onto which fast deviations relax, yes. [CLAIM-755](../claims.d/CLAIM-755.md): "a slow
    variable can save no work, and a result reused cheaply need not be an
    attractor of any dynamics". A mode can be slow because of how its
    dynamics relax, with no amortization in it, and the slow modes the
    exchange began from, the slow collective degrees of freedom that carry
-   an organization's identity (CLAIM-tmpbzwmr), were introduced in that
+   an organization's identity ([CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md)), were introduced in that
    sense.
-3. **Is persistence being read as amortization?** CLAIM-761's guard, from
-   CLAIM-443: a constraint amortizes only when keeping and using it costs
+3. **Is persistence being read as amortization?** [CLAIM-761](../claims.d/CLAIM-761.md)'s guard, from
+   [CLAIM-443](../claims.d/CLAIM-443.md): a constraint amortizes only when keeping and using it costs
    less than re-solving. A slow structure that costs more to keep than it
    saves is persistent and not amortizing.
 4. **Is "in part" doing the work?** It keeps the conclusion modest, and
@@ -66,4 +66,4 @@ ways of amortizing inquiry and coordination costs.
 
 Proposed, narrowed to the economic sense of slow. Whether the structures
 that amortize are usually also dynamically slow is the open part of
-CLAIM-755.
+[CLAIM-755](../claims.d/CLAIM-755.md).

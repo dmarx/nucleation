@@ -27,7 +27,7 @@ summary: >-
   A50's §8 and "conceptual payoff", in the exchange "Explain First Contact
   RL" (ChatGPT, 2026-11-23): "a significant revision to the article's
   central thesis", from A42's "Regulation governs the evolving repertoire of
-  temporal responses to demands" (CLAIM-tmpcag0t) to the relationship
+  temporal responses to demands" ([CLAIM-tmpcag0t](CLAIM-tmpcag0t.md)) to the relationship
   between demands and responses. A50 itself calls the formula for adaptive
   governance "an extrapolation from Nucleation's existing results, not an
   established claim in the record". The wording is A's (ChatGPT, at A50 of
@@ -62,16 +62,16 @@ conditions that make either activity possible."
 
 ## What it rests on
 
-The two capacities and the asymmetry of their loss (CLAIM-tmp11j0f), and
+The two capacities and the asymmetry of their loss ([CLAIM-tmp11j0f](CLAIM-tmp11j0f.md)), and
 the reading of a regulatory equilibrium as a stabilized question–answer
-relationship that can confirm itself (CLAIM-tmp9in65). It revises A42's
-thesis (CLAIM-tmpcag0t) by adding the query side, and specializes A34's
-"regulation governs possibility" (CLAIM-tmptfpf7) to that relationship.
+relationship that can confirm itself ([CLAIM-tmp9in65](CLAIM-tmp9in65.md)). It revises A42's
+thesis ([CLAIM-tmpcag0t](CLAIM-tmpcag0t.md)) by adding the query side, and specializes A34's
+"regulation governs possibility" ([CLAIM-tmptfpf7](CLAIM-tmptfpf7.md)) to that relationship.
 A50 adds that it "is also not necessarily a zero-sum game".
 
 ## Standing
 
 Proposed, in A's voice. A50's own label: "an extrapolation from
 Nucleation's existing results, not an established claim in the record."
-Whether it supersedes CLAIM-tmpcag0t as the manuscript's central thesis is
+Whether it supersedes [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md) as the manuscript's central thesis is
 the owner's call; neither entry's status is changed here.

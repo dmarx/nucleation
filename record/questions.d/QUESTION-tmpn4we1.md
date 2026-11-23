@@ -11,13 +11,13 @@ line:
 - readiness
 - learning-and-inquiry
 summary: >-
-  A gap fill (ADR-137) for A50 §§3–4 of the exchange "Explain First Contact
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A50 §§3–4 of the exchange "Explain First Contact
   RL" (2026-11-23). A50 gives a loss only for the adversarial form of its
   game; the diagnostic and developmental forms' objectives are named in a
   table, and its coupled dynamics S_{t+1} = F(S_t, q_t, a_t),
   ρ_{t+1} = G(ρ_t, a_t, S_{t+1}) carry no payoff for either side. Without
-  them the owner's game (CLAIM-tmp61i14) has players but no solution
-  concept outside the zero-sum case (CLAIM-tmp62ldm). The wording is the
+  them the owner's game ([CLAIM-tmp61i14](../claims.d/CLAIM-tmp61i14.md)) has players but no solution
+  concept outside the zero-sum case ([CLAIM-tmp62ldm](../claims.d/CLAIM-tmp62ldm.md)). The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
@@ -27,12 +27,12 @@ summary: >-
 
 ## Why it is open
 
-CLAIM-tmp2oloi's table gives the diagnostic query side the objective
+[CLAIM-tmp2oloi](../claims.d/CLAIM-tmp2oloi.md)'s table gives the diagnostic query side the objective
 "Reveal actual capabilities and limitations" and the developmental one
 "Generate informative challenges that extend capabilities". Neither is a
-loss to the target, so the zero-sum minimax that CLAIM-tmp62ldm analyses
+loss to the target, so the zero-sum minimax that [CLAIM-tmp62ldm](../claims.d/CLAIM-tmp62ldm.md) analyses
 does not apply. A50's §4 dynamics are adaptation rules, not best
-responses, and its toy model (CLAIM-tmpep410) is a consensus dynamic with
+responses, and its toy model ([CLAIM-tmpep410](../claims.d/CLAIM-tmpep410.md)) is a consensus dynamic with
 no payoff at all.
 
 ## Candidate answers
@@ -50,4 +50,4 @@ no payoff at all.
 
 An answer says, for each form, whose payoff, over what, and which solution
 concept; or shows that the game frame adds nothing beyond a one-sided model
-of demands and realizations, which would bear against CLAIM-tmp61i14.
+of demands and realizations, which would bear against [CLAIM-tmp61i14](../claims.d/CLAIM-tmp61i14.md).

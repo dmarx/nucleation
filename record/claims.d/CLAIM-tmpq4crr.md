@@ -25,9 +25,9 @@ uses:
 - TERM-085
 summary: >-
   A52 (intro, §4 and §8) of the exchange "Explain First Contact RL"
-  (ChatGPT, 2026-11-23), answering the owner's U27 (QUESTION-tmp3cft4).
+  (ChatGPT, 2026-11-23), answering the owner's U27 ([QUESTION-tmp3cft4](../questions.d/QUESTION-tmp3cft4.md)).
   A52 separates resource boundedness, resource coupling and resource
-  competition: the first is held (CLAIM-475), the second follows in
+  competition: the first is held ([CLAIM-475](CLAIM-475.md)), the second follows in
   particular architectures, and the third "requires additional
   conditions". Its table marks "Any query and target necessarily compete
   for the same scarce capacity" as "Not established; false in general".
@@ -68,7 +68,7 @@ not ten minutes of calendar time."
 It follows from the constraint forms. Under separate pools with no
 dependence the feasible set is a product, so raising one process's spend
 leaves the other's feasible set unchanged. Under a shared pool or a
-precedence it is not. CLAIM-tmpiwxla's construction is the time case:
+precedence it is not. [CLAIM-tmpiwxla](CLAIM-tmpiwxla.md)'s construction is the time case:
 overlapping stages that do not compete contribute the longest of their
 durations, not the sum.
 
@@ -76,13 +76,13 @@ durations, not the sum.
 
 - Not that time is not shared. A sequential dependence couples asking and
   answering through the deadline even with separate personnel, which is
-  A52 §2's T_Q(q) + T_A(q, π) ≤ H and TERM-085's "Planning is not free".
+  A52 §2's T_Q(q) + T_A(q, π) ≤ H and [TERM-085](../terms.d/TERM-085.md)'s "Planning is not free".
 - Not that separate pools leave the two independent. Their outputs still
   interact: a better question can make the answer cheaper (A52 §2). That
   interaction is a coupling of the outputs, not competition for inputs.
 
 ## Where it goes next
 
-A52 §3's depth of inquiry under a shared deadline is CLAIM-tmp2dr12, and
+A52 §3's depth of inquiry under a shared deadline is [CLAIM-tmp2dr12](CLAIM-tmp2dr12.md), and
 the set of questions both posable and answerable under a joint schedule is
-CLAIM-tmp4u0mj. Competition among stages sharing reviewers is CASE-316's.
+[CLAIM-tmp4u0mj](CLAIM-tmp4u0mj.md). Competition among stages sharing reviewers is [CASE-316](../cases.d/CASE-316.md)'s.

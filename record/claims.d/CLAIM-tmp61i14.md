@@ -28,7 +28,7 @@ summary: >-
   questions and answers)." It answers A48's closing suggestion, a "dynamic
   game with heterogeneous producers, regulatory authority, and shocks", by
   naming different players: what is asked and what answers. A50 develops it
-  (CLAIM-tmp2oloi and the claims filed beside it); CLAIM-tmp62ldm says when
+  ([CLAIM-tmp2oloi](CLAIM-tmp2oloi.md) and the claims filed beside it); [CLAIM-tmp62ldm](CLAIM-tmp62ldm.md) says when
   A50's formulation is a game at all. Filed in the owner's voice.
 ---
 
@@ -44,7 +44,7 @@ industrial ecosystem as the exchange had developed it through A48, whose
 last line proposed formalizing the matched-performance comparison "as a
 dynamic game with heterogeneous producers, regulatory authority, and
 shocks operating on several timescales." The owner's players are not
-producers and a regulator but the two sides of CLAIM-470's relation: the
+producers and a regulator but the two sides of [CLAIM-470](CLAIM-470.md)'s relation: the
 query, which fixes what would count as an answer, and the target, which
 realizes one or fails to.
 
@@ -55,15 +55,15 @@ not that the organization of possibility is a game in every respect.
 
 A50 took it up at length: queries as specifications and answers as
 realizations, two frontiers, a robust interrogation game in three forms
-(CLAIM-tmp2oloi), co-adapting standards and responses (CLAIM-tmpep410,
-CLAIM-tmp9in65), a capability trap set by routine queries (CLAIM-tmp9o6yv),
-two capacities to maintain (CLAIM-tmp11j0f) and a revised thesis for the
-manuscript (CLAIM-tmpx030o).
+([CLAIM-tmp2oloi](CLAIM-tmp2oloi.md)), co-adapting standards and responses ([CLAIM-tmpep410](CLAIM-tmpep410.md),
+[CLAIM-tmp9in65](CLAIM-tmp9in65.md)), a capability trap set by routine queries ([CLAIM-tmp9o6yv](CLAIM-tmp9o6yv.md)),
+two capacities to maintain ([CLAIM-tmp11j0f](CLAIM-tmp11j0f.md)) and a revised thesis for the
+manuscript ([CLAIM-tmpx030o](CLAIM-tmpx030o.md)).
 
 ## What it does not say
 
 It does not say who the players' payoffs belong to or what equilibrium the
-game has. The assistant's analysis (CLAIM-tmp62ldm) shows that A50's
+game has. The assistant's analysis ([CLAIM-tmp62ldm](CLAIM-tmp62ldm.md)) shows that A50's
 minimax formula is strategic only under stated conditions, and the question
 of payoffs and equilibrium in the non-adversarial forms is open
-(QUESTION-tmpn4we1).
+([QUESTION-tmpn4we1](../questions.d/QUESTION-tmpn4we1.md)).
