@@ -103,6 +103,7 @@ summary: >-
   psychopathic across the construct, not in part. Wells Fargo's sales
   practices ([CASE-151](../cases.d/CASE-151.md)) are its documented case.
 ---
+<!-- inactive-ok-file: CASE-tmphvbov THEORY-tmpvtotj CLAIM-tmpm9a3z CLAIM-tmpsuj5n CLAIM-tmpuvgxw CLAIM-tmpioexk NOTE-tmpf8oxn — new, Proposed, Read or Skimmed; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: THEORY-2216 — Proposed; the reading of Mulgan, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-271 CLAIM-355 THEORY-055 THEORY-125 THEORY-131 THEORY-139 THEORY-892 — Proposed; the readings and claims this claim rests on or is grounded in, cited as open; the claim is Proposed with them -->
 <!-- inactive-ok-file: LIT-1426 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
@@ -297,3 +298,38 @@ claim makes it an agent fit to be held responsible that lacks remorse. Of
 this claim's defeaters, Mulgan does **not** supply "an argument the record
 accepts that a corporation is not an agent (Velasquez)": he reports
 Velasquez's position and argues against it. The status is unchanged.
+
+## Note of 2026-11-23: part 5's test, run on open sources
+
+[LEAD-101](../leads.d/LEAD-101.md) ran part 5's test on open sources ([CASE-tmphvbov](../cases.d/CASE-tmphvbov.md)). **No case
+meets the lead's standard**, so the defeater "evidence that corporations
+whose own procedures and role duties make others' harms their concern
+behave no differently, once external sanction is lifted, from corporations
+moved only by regulators and markets" is neither met nor answered.
+
+- **The first half, found for a monitor's share of sanction.** Firms that
+  must take an on-site monitor commit about a quarter fewer penalised
+  violations while it is there and not after ([CLAIM-tmpm9a3z](CLAIM-tmpm9a3z.md), from
+  [THEORY-tmpvtotj](../theory.d/THEORY-tmpvtotj.md)). Consistent with "a corporation changed only by sanction
+  reverts when the sanction lifts"; but the prudence objection ([CLAIM-431](CLAIM-431.md))
+  predicts the same, so it is no evidence between them ([CLAIM-tmpsuj5n](CLAIM-tmpsuj5n.md)).
+- **The second half is untested.** The one redesigned firm coded, Siemens,
+  weighed a harm at a cost while its monitor was there and in public, and
+  is reported to have gone on with the harm after; its post-lift evidence
+  is report and allegation, not finding. The board-change result is read
+  two ways, as alternatives: [CLAIM-tmpuvgxw](CLAIM-tmpuvgxw.md) (evidence for part 5's
+  redesign half) and [CLAIM-tmpioexk](CLAIM-tmpioexk.md) (none; leaned to).
+- **Signals without precedence, inside both arms (illustration).** Purdue
+  kept a list of prescribers it suspected of abuse and diversion, and by
+  Indiana's complaint the board heard it as revenue at risk ([NOTE-tmpf8oxn](../notes.d/NOTE-tmpf8oxn.md)).
+  Siemens's compliance officers exempted three of four reseller models from
+  their own red-flag tool while noting the risk ([NOTE-tmpnnzbf](../notes.d/NOTE-tmpnnzbf.md)). Part 3's
+  distinction between holding a signal and granting it precedence appears
+  inside a firm coded as redesigned, which makes "redesigned" a matter of
+  degree, not an arm a firm is in or out of.
+- **The documented case now has an ended sanction.** The Federal Reserve
+  lifted Wells Fargo's growth restriction on 2025-06-03, other provisions
+  staying ([NOTE-tmp59pkn](../notes.d/NOTE-tmp59pkn.md)). Part 5's test can be run on [CASE-151](../cases.d/CASE-151.md) once a
+  window has passed.
+
+The status is unchanged.
