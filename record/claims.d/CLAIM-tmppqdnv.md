@@ -74,3 +74,12 @@ Who sets S_n, what counts as noise, is [CLAIM-tmp76xaw](CLAIM-tmp76xaw.md). This
 [CLAIM-tmph25dl](CLAIM-tmph25dl.md), which says a constraint's adequacy depends on the
 demand's timescale. It also complements [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md), which says
 persistence does not fix redirectability.
+
+## Note of 2026-11-23: a parallel in the Daodejing
+
+The assistant, answering the owner's "relate the conversation to wuwei" (2026-11-23, this session): Daodejing 60, govern a large state as you would cook a small fish
+(paraphrased, not checked), reads naturally as low-gain filtering. If you
+don't stir, you don't pass noise into the organization. CLAIM-tmp76xaw
+is the limit: not stirring is wu-wei only relative to a classification of
+noise. An institution that will not be stirred by objections to its
+categories has entrenched its filter. This is an analogy; no edge.

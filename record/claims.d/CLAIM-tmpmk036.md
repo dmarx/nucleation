@@ -115,3 +115,16 @@ rate. Concordance is told apart from both by eliciting each collaborator's
 ranking separately: if the rankings agree, nothing needed settling. The
 wording of this paragraph is the assistant's (Claude, in this session);
 adopting it is the owner's call.
+
+<!-- inactive-ok-file: CLAIM-tmpaj28t — Proposed or Open; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+
+## Note of 2026-11-23: the Daoist reading of the developmental sequence
+
+The assistant, answering the owner's "relate the conversation to wuwei" (2026-11-23, this session): Daodejing 38 orders a decline, from the Way to virtue, benevolence,
+rightness and then ritual, ritual being the husk (paraphrased, not
+checked). Read against this claim, a governed record is ritual in that
+sense, externalized governance. It approaches wu-wei only if collaborators
+internalize it into learned coordination, the last step of A20's
+sequence. If it stays externalized it is the husk. CLAIM-tmpaj28t states
+the cultivation and unlearning routes this belongs to. An analogy; no
+edge.
