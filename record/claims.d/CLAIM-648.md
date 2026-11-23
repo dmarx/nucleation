@@ -121,7 +121,7 @@ system with no history. The status is unchanged.
 
 ## Note of 2026-11-22: the learner of [CASE-239](../cases.d/CASE-239.md), run
 
-<!-- inactive-ok-block: CASE-tmpz762n CLAIM-tmphrp1s CLAIM-tmpnc1mf CASE-239 — new or Proposed; the design, its run and the two readings of its control -->
+<!-- inactive-ok-block: CLAIM-tmphrp1s CLAIM-tmpnc1mf CASE-239 — new or Proposed; the design, its run and the two readings of its control -->
 The learner [CASE-239](../cases.d/CASE-239.md) proposed was run ([CASE-tmpz762n](../cases.d/CASE-tmpz762n.md)). Its warnings were set
 by its own energy account, with upkeep and dissolution the modeller's, and
 were stabilized by its own past upkeep through learning, the history the

@@ -55,7 +55,6 @@ summary: >-
   them, and [CLAIM-327](../claims.d/CLAIM-327.md) already locates a collective in a variable members
   read from the past.
 ---
-<!-- inactive-ok-file: CLAIM-tmpdsu37 — new; the bound cited in the note of 2026-11-23, filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: LIT-1251 — Unavailable; a work registered and not read, cited as open, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-222: Beyond the scalar linear Gaussian case and the deterministic case of a fast, contracting eliminated variable, when a coarse variable's reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?

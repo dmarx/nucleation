@@ -82,8 +82,7 @@ interpretation and governance [TERM-072](TERM-072.md)'s organizational sense req
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmpm54la — Proposed; its use -->
 Its 'integrated' is schematic, as its Limits say: the coupling diagnostic is
 necessary and not sufficient, and 'contributes to maintaining coherent
-activity' has no measure, so the definition is not settled; CLAIM-tmpm54la,
+activity' has no measure, so the definition is not settled; [CLAIM-tmpm54la](../claims.d/CLAIM-tmpm54la.md),
 its one use, has not said which reading it takes.

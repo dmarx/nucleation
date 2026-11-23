@@ -44,7 +44,7 @@ summary: >-
   connect; the assistant's fill there says how. The owner's wording;
   stated as a thesis here, adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-134 CLAIM-tmpwb6dg CLAIM-tmprq9q5 — Proposed; the term this extends and the entries filed with it on 2026-11-22 -->
+<!-- inactive-ok-file: TERM-134 — Proposed; the term this extends and the entries filed with it on 2026-11-22 -->
 
 # CLAIM-tmphxbli: Continuous predicates are test functions, test functions determine measures, and so a self can be a continuous mess rather than a countable collection of perspectives
 

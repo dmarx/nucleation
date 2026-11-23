@@ -76,8 +76,7 @@ A15 developed it ([CLAIM-tmp7pe33](CLAIM-tmp7pe33.md), [CLAIM-tmptxsin](CLAIM-tm
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmptsbhv — Proposed; the other reading -->
-Filed as one of two readings of the owner's U6, beside CLAIM-tmptsbhv, and
-the owner has not chosen between them. CLAIM-574 carries only its last
+Filed as one of two readings of the owner's U6, beside [CLAIM-tmptsbhv](CLAIM-tmptsbhv.md), and
+the owner has not chosen between them. [CLAIM-574](CLAIM-574.md) carries only its last
 clause, the test-relativity of the division; 'no clean boundaries' and 'no
 single executive' have no case in the record.

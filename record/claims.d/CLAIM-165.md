@@ -92,9 +92,9 @@ filer should not conflate.
 ## Note of 2026-11-23: what holds it back
 
 <!-- inactive-ok-block: CASE-350 CLAIM-927 — Proposed; the measure checked -->
-Rechecked after NOTE-1728 (LIT-2348), which only marks a homonym, and
-QUESTION-046's note of 2026-11-22: CASE-350 and CLAIM-927 give one measure
+Rechecked after [NOTE-1728](../notes.d/NOTE-1728.md) ([LIT-2348](../literature.d/LIT-2348.md)), which only marks a homonym, and
+[QUESTION-046](../questions.d/QUESTION-046.md)'s note of 2026-11-22: [CASE-350](../cases.d/CASE-350.md) and [CLAIM-927](CLAIM-927.md) give one measure
 (Phi_AR with an exclusion rule) under which a coupled whole is the subject
-by degree of coupling across its seams, which QUESTION-046 itself says does
+by degree of coupling across its seams, which [QUESTION-046](../questions.d/QUESTION-046.md) itself says does
 not answer it. No criterion for when an organized whole is a subject is
 held, so 'not a subject' is still a stipulation.

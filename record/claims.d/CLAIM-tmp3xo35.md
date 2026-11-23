@@ -52,7 +52,7 @@ summary: >-
   consequential?" The wording is A's (ChatGPT, in the exchange of
   2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: TERM-tmpm0s7g TERM-tmpxwa7g CLAIM-355 CLAIM-417 CLAIM-tmpl1hgv — Proposed; the terms the claim is stated in and its neighbours -->
+<!-- inactive-ok-file: TERM-tmpm0s7g TERM-tmpxwa7g CLAIM-355 CLAIM-417 — Proposed; the terms the claim is stated in and its neighbours -->
 
 # CLAIM-tmp3xo35: Self-like organizational unity does not require perspectival singularity: a historically sustained, causally integrated plurality of perspectives may suffice for some of what is attributed to a self with no unique overarching perspective, since integration does not entail organizational singularity, nor organizational singularity phenomenal singularity
 

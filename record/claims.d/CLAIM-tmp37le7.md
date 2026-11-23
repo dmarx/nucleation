@@ -107,7 +107,7 @@ that the team experiences a flow state as a subject".
 ## Note of 2026-11-23: what holds it back
 
 <!-- inactive-ok-block: TERM-tmppvlfi — Proposed; the term it uses -->
-It uses TERM-tmppvlfi, not adopted, and its defeated_if is stated in that
+It uses [TERM-tmppvlfi](../terms.d/TERM-tmppvlfi.md), not adopted, and its defeated_if is stated in that
 term's conjuncts; no case in the record shows a self-like organization
 (integrated governance of its discrepancies, persistence through turnover)
 unified by harmonious integration without a single perspective, which the

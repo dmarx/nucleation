@@ -53,7 +53,7 @@ summary: >-
   check, which is the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-267 CLAIM-tmpfza2h — Proposed; the paper this checks, and the lattice claim this rests on, filed 2026-11-22 -->
+<!-- inactive-ok-file: LIT-267 — Proposed; the paper this checks, and the lattice claim this rests on, filed 2026-11-22 -->
 
 # CLAIM-tmpgnozg: Linear tests are not closed under pointwise minimum or maximum, so a lattice whose concepts each have a linear test cannot in general give its meets and joins linear tests; this does not tell against Xiong's lattice representation hypothesis as stated, whose meet is already an intersection of half-spaces and not a direction
 

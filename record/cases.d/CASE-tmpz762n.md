@@ -64,7 +64,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-238 CASE-239 CASE-240 CASE-241 CASE-242 CLAIM-649 CLAIM-651 THEORY-220 THEORY-1646 CLAIM-920 — Proposed; the cases this run builds and the claims and readings it bears on, cited with their standing -->
-<!-- inactive-ok-file: CLAIM-tmppa4rs CLAIM-tmpnc1mf CLAIM-tmphrp1s CASE-tmp33vf4 — new; the claims filed from this run and the companion run of the top rung -->
+<!-- inactive-ok-file: CLAIM-tmpnc1mf CLAIM-tmphrp1s — new; the claims filed from this run and the companion run of the top rung -->
 
 # CASE-tmpz762n: A simulated ladder on one sensor channel and a forager that learns its own warning signs: a fail-safe relay acts on an absence and keeps nothing, a tester registers a silent fault and cannot place it, a four-probe diagnoser places it, and only a diagnoser that reviews its record of real fires finds a fault that appears in heat; the forager needs to revise which features count only when the warning sign is a feature it never attended to, and loses its gains when its energy account is replaced by a matched score
 

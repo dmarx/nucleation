@@ -25,7 +25,7 @@ summary: 'The step: the translation symmetry of [CLAIM-tmpklggb](../claims.d/CLA
   call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpklggb CLAIM-tmpnl4xk — Proposed; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpnl4xk — Proposed; cited in this filing of 2026-11-23 -->
 
 # ARG-tmpvn8p8: The symmetry that hides a protected beacon's miscalibration, applied to any number of channels reading one physical witness, shows that comparison identifies every difference among their errors and not their common mode, and so narrows the owner's point that physical phenomena are an independent witness that ends the regress of anchors
 

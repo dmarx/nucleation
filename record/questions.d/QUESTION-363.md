@@ -24,7 +24,6 @@ summary: >-
   [QUESTION-039](QUESTION-039.md), which asks what sets the order and moment of acquisition.
 ---
 <!-- inactive-ok-file: THEORY-2191 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
-<!-- inactive-ok-file: CASE-tmpgqbyq CLAIM-tmpg8m7a CLAIM-tmp9zqvq CLAIM-tmpraadt — new, filed 2026-11-22 by LEAD-175's study -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed or Open; cited from the reading of Dong (2026) as open -->
 <!-- inactive-ok-file: THEORY-209 — Open or Proposed; the question this refines and Kunin's sampler reading, cited as open -->
 <!-- inactive-ok-file: CLAIM-834 CLAIM-828 CLAIM-812 — Proposed; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" and cited in the note of that date -->

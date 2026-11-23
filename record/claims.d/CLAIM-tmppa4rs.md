@@ -53,7 +53,6 @@ summary: >-
   where the warning sign is new to the forager. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpz762n — new; the run this claim is drawn from -->
 <!-- inactive-ok-file: CASE-239 CASE-241 CLAIM-651 — Proposed; the study design run, the profiles it compares and the claim on registering a non-response -->
 
 # CLAIM-tmppa4rs: In a simulated forager that learns from its own energy account which features warn of a loss, revising which features count is needed for, and pays only on, a change whose warning sign is a feature it never attended to; a change on a feature it already attends to is met by re-estimating, and a change that shows itself as an absence is met by registering the absence

@@ -119,7 +119,6 @@ summary: >-
   redescribing it.
 ---
 <!-- inactive-ok-file: CASE-333 — filed from LEAD-098's run of 2026-11-22, new -->
-<!-- inactive-ok-file: CASE-tmp33vf4 — new, on pull request #740 (LEAD-177), not yet on staging; the citation depends on #740 merging -->
 <!-- inactive-ok-file: CASE-tmp17zl1 THEORY-tmp5gcq1 CLAIM-510 — new or Proposed; the case LEAD-164 filed, its reading, and the claim it bears on -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 LIT-1639 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->

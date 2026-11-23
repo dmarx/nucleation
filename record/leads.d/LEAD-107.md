@@ -24,7 +24,7 @@ summary: >-
   2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-180 CLAIM-182 — Proposed; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: CASE-tmp4niuz CLAIM-tmp9w3p9 CLAIM-tmpc5mmp CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpc5mmp CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-191 — Proposed; cited in the note of 2026-11-23 as under test -->
 
 # LEAD-107: Measure in the reconstructed exchanges each restatement's distance from its original against whether it was re-derived as new, and coded against uncoded items, with raters blind to direction

@@ -51,7 +51,6 @@ summary: >-
   construction. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpz762n CLAIM-tmpvqmwc — new; the companion run and the claim filed from this one -->
 
 # CASE-tmp33vf4: A simulated sensor network whose correspondences drift: revising them to reduce the sensors' disagreement restores consistency and not accuracy, revising them against beacons the world places through a channel the revision cannot rewrite or refuse restores accuracy, and a revisable beacon map or a right to refuse disagreeing beacons gives back part or all of the gain
 

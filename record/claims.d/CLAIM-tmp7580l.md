@@ -32,7 +32,7 @@ summary: >-
   is A's (ChatGPT, in the exchange of 2026-11-22); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpm54la CLAIM-tmpl1hgv TERM-148 — Proposed; the claim objected to, the restatement filed beside this one, and neighbours -->
+<!-- inactive-ok-file: CLAIM-tmpm54la TERM-148 — Proposed; the claim objected to, the restatement filed beside this one, and neighbours -->
 
 # CLAIM-tmp7580l: A team's members are necessarily separable as carriers, but its perspectives need not be: one perspective can span members and one member can realize several, and in a model where each member's perspective is a distribution over a shared interpretive space, the members' carrier-tagged measures are always mutually singular while the measures they project to can coincide
 
@@ -100,8 +100,7 @@ perspective."
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmpm54la — Proposed; the owner's thesis it objects to -->
-Its target CLAIM-tmpm54la, the owner's thesis, keeps two readings for the
+Its target [CLAIM-tmpm54la](CLAIM-tmpm54la.md), the owner's thesis, keeps two readings for the
 owner to choose between; promoting this objection would settle that choice
-by conceding the stronger one. Its premise CLAIM-418 is Active and its
+by conceding the stronger one. Its premise [CLAIM-418](CLAIM-418.md) is Active and its
 demonstration checks.

@@ -49,7 +49,7 @@ bears_on:
 - QUESTION-218
 - QUESTION-217
 ---
-<!-- inactive-ok-file: CLAIM-tmpdsu37 THEORY-tmpyi9zg — new, filed by the lead run of 2026-11-23 and cited in the note of that date -->
+<!-- inactive-ok-file: THEORY-tmpyi9zg — new, filed by the lead run of 2026-11-23 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this account is contrasted with, open -->
 
 # THEORY-758: For a self-adjoint diffusion operator T with spectrum in [0, 1], the diffusion-wavelet levels are spectral subspaces spanned by the eigenvectors with λ^s ≥ ε for an increasing sequence of powers s, so they form an exactly nested chain of T-invariant subspaces whose differences are bands of the spectrum, about one octave each, not spatial blocks; Coifman and Maggioni's compressed algorithm, which squares the operator on each orthonormal basis, thresholds T^{2^{j−1}} at level j and not T^{2^j−1} as the paper states; and since each level is T-invariant, each is an exactly closed linear coarse-graining whose localized basis is a choice the level does not fix

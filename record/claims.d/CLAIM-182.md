@@ -56,7 +56,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-004 CLAIM-178 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
-<!-- inactive-ok-file: CASE-tmp4niuz CLAIM-tmp9w3p9 CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-182: Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
 
@@ -149,8 +149,8 @@ coded for every restatement. No change of status or title.
 
 ## Note of 2026-11-23: what holds it back
 
-Checked CLAIM-185's note of 2026-11-22 (entrenchment readings, background)
-and QUESTION-271's (LEAD-077's run): neither counts re-derivation before and
-after addressing. CASE-tmp4niuz's count is censored, since silence after a
-code may mean citation or absence (CLAIM-tmp9w3p9); the comparison still
+Checked [CLAIM-185](CLAIM-185.md)'s note of 2026-11-22 (entrenchment readings, background)
+and [QUESTION-271](../questions.d/QUESTION-271.md)'s ([LEAD-077](../leads.d/LEAD-077.md)'s run): neither counts re-derivation before and
+after addressing. [CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md)'s count is censored, since silence after a
+code may mean citation or absence ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)); the comparison still
 wants a transcript coded for every restatement.
