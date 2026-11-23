@@ -20,8 +20,30 @@ Not held, so the run files.
 
 ## Done
 
+- Nine CASEs (Proposed; standing fictional, since the systems are invented
+  and have no real referent; kind thought-experiment, or construction for
+  the three formal x² learners): CASE-tmpk3qls, CASE-tmpd1jgy,
+  CASE-tmpr1f20, CASE-tmpcz1jq, CASE-tmpp2okq, CASE-tmpkttf2, CASE-tmp55ptq,
+  CASE-tmppqt0f, CASE-tmphawe9.
+- Verdict CLAIMs (Proposed): CLAIM-tmpngm72 (separation table,
+  demonstrated), CLAIM-tmpgfunb (procedure- and budget-relative
+  possession), CLAIM-tmphm1g8 (composite knowledge).
+- Alternatives, each lean filed as thesis and the other as counter with
+  objects_to: grounding, CLAIM-tmpeonjp (lean) against CLAIM-tmp5qk10;
+  understanding, CLAIM-tmpf4pun (lean) against CLAIM-tmpadjsm.
+- Dated notes of 2026-11-23 on LEAD-001, QUESTION-493, QUESTION-360.
+- Changelog fragment record/changelog.d/lead-001.md.
+
+## Choices made
+
+- Fictional, not stipulated: the vocabulary reserves stipulated for a real
+  referent whose facts are assumed.
+- The frozen-rule case is left out of the separation table, since the two
+  readings of understanding disagree on it.
+- Cases relate to claims only through the claims' grounds, not by
+  illustrates, so that no case both grounds and illustrates one claim.
+
 ## Next
 
-- File the cases.
-- File the verdict claims, with alternatives where readings diverge.
-- Dated notes on LEAD-001 and QUESTION-493; changelog fragment.
+- Nothing for the run. The owner chooses between the alternatives and
+  marks the lead.
