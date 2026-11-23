@@ -94,3 +94,8 @@ The rule decides only if readiness is known. Computed from readiness under do(c)
 
 <!-- inactive-ok-block: CASE-tmpo8bsc — new; the study filed -->
 The study the note above reads its break-even from is now on the record as [CASE-tmpo8bsc](../cases.d/CASE-tmpo8bsc.md), which bears on this question: it gives pL* by deadline, probability and cost, and shows that readiness observed in operation differs from readiness under an imposed contingency, so the identification half stays open. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-23: redundancy and differentiation in a coverage model, from "Explain First Contact RL"
+<!-- inactive-ok-block: CLAIM-tmp7iie0 CLAIM-tmp6thmv — new; the derivations and the claim they check -->
+
+Partial, a criterion in one model; the assistant's. A60 §2 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) separates groups with "nearly identical capabilities", which add redundancy, from differentiated ones, which add breadth, and grants that "Redundancy can improve reliability, especially against independent failures." In A60 §4's coverage model the assistant derived (CLAIM-tmp7iie0) that a perspective's marginal value is the demand-weighted excess of its readiness over the best already present, so under single selection a duplicate is worth nothing; under parallel independent attempts a redundant copy adds coverage and can be the warranted reserve; under a shared budget it can lower coverage. Which rule fits a department is part of what this question asks evidence to identify. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

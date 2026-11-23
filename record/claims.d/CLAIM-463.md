@@ -197,3 +197,8 @@ but: (a) what persists is a changed *state* (follows, attitudes), not a lost
 condition; (c) 7 weeks, no threshold or bistability shown. It is an
 empirical illustration of path dependence via a self-reinforcing channel,
 not evidence for the claim's threshold structure.
+
+## Note of 2026-11-23: preserving a niche against rebuilding it, from "Explain First Contact RL"
+<!-- inactive-ok-block: CLAIM-tmp6thmv — new; the claim that rests on this one -->
+
+A60 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites this claim, "in a constructed hysteretic model", for an asymmetry: the cost of preserving a viable niche is less than the cost of reconstructing it after loss, which A60 calls "conditional, not universal". The asymmetry is this claim's last clause ("restoring it can cost more than preserving it would have"), held already; A60 uses it to justify keeping seemingly underused diversity, in CLAIM-tmp6thmv, which rests on this claim. The citation is faithful, including its scope: CASE-111 is a construction. No status changes. The note is the assistant's (Claude, in this session).

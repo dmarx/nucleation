@@ -201,3 +201,8 @@ preferences of those selves fix no scalar ([CLAIM-tmp6ppvo](CLAIM-tmp6ppvo.md)).
 thesis, that the three frontiers move separately, is untouched. Related
 by complements; whether the qualification should be an objection is the
 owner's call.
+
+## Note of 2026-11-23: generative richness, from "Explain First Contact RL"
+<!-- inactive-ok-block: TERM-tmp9lu6c CLAIM-tmp6thmv — new; the term and claim that use this one -->
+
+A60 §3 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) uses this claim to say that an ecosystem's richness has a generative part as well as an extensive one: two perspectives with the same present repertoire 𝓕ᵢ can differ in what they could develop "through affordable learning and reorganization within a further horizon" (𝓓ᵢ), which is this claim's developmental frontier against its operational one. A60 adds that differentiated perspectives "can occupy different parts of each of these frontiers", so diversity distributes the capacity for future competence acquisition. That use is TERM-tmp9lu6c's developmental dimension and step 3 of CLAIM-tmp6thmv, which rests on this claim. No status changes. The note is the assistant's (Claude, in this session).
