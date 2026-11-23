@@ -39,7 +39,7 @@ summary: >-
 A short review of how coexistence theory separates two kinds of
 similarity between species, worked through MacArthur's consumer–resource
 model "as reworked by Chesson [5, 28]" (p. 44). Reference [28] is
-Chesson (1990), LIT-1826, and [5] is Chesson (2000), LIT-1219. The
+Chesson (1990), [LIT-1826](../literature.d/LIT-1826.md), and [5] is Chesson (2000), [LIT-1219](../literature.d/LIT-1219.md). The
 chapter gives, in one table, the overlap and fitness measures that
 the 1990 paper defines for this model, then extends them to predators
 and to variation in time and space, and draws conservation advice.
@@ -113,41 +113,41 @@ and to variation in time and space, and draws conservation advice.
 
 ## Connections
 
-- **What it restates of Chesson (1990), LIT-1826.** The overlap measure
+- **What it restates of Chesson (1990), [LIT-1826](../literature.d/LIT-1826.md).** The overlap measure
   and fitness measure for MacArthur's model, in its Lotka–Volterra
   reduction, and the two-species coexistence condition. It does not
   restate whatever else the 1990 paper's measures of association
   between utilization functions cover, nor its derivations.
-- **Letten, Ke and Fukami**, LIT-1237 (NOTE-1377), use ρ = √(α₁₂α₂₁/α₁₁α₂₂)
+- **Letten, Ke and Fukami**, [LIT-1237](../literature.d/LIT-1237.md) ([NOTE-1377](NOTE-1377.md)), use ρ = √(α₁₂α₂₁/α₁₁α₂₂)
   and f₂/f₁. For MacArthur's model that ρ is this Table 1's ρ, and their
   fitness ratio is κ₂/κ₁ (checked by the record script).
-- **Marsland, Cui and Mehta**, LIT-1230 (NOTE-1352): the reduction holds
+- **Marsland, Cui and Mehta**, [LIT-1230](../literature.d/LIT-1230.md) ([NOTE-1352](NOTE-1352.md)): the reduction holds
   only while every resource stays positive, which the chapter leaves
   unstated. The record script shows the mismatch when a resident
   exhausts a resource.
 
 ## Bearing on the record
 
-- **CASE-118** (direct). The case calls ρ, the inner product of two unit
+- **[CASE-118](../cases.d/CASE-118.md)** (direct). The case calls ρ, the inner product of two unit
   feature vectors, the components' overlap, and its note of 2026-10-29
   asks whether Chesson's overlap for MacArthur's model is that cosine.
   It is: Table 1's ρ is the cosine of u_j and u_k with
   u_jl = c_jl √(v_l K_l / r_l), and s_j = ‖u_j‖. The case's unit vectors
   are the case s_j = 1.
-- **CLAIM-369** (direct). The reduction is the claim's class:
+- **[CLAIM-369](../claims.d/CLAIM-369.md)** (direct). The reduction is the claim's class:
   A = UᵀU with that U, r = Uᵀb − c with b_l = √(v_l K_l r_l) and c = μ.
   Then κ_j = r_j/‖u_j‖ = −∂_j L(0)/‖u_j‖, and a rare component's growth
-  against a lone resident is ‖u_i‖(κ_i − ρκ_j). Filed as CLAIM-tmpv65bg.
-- **QUESTION-132** (direct, on its first outcome). The chapter defines
+  against a lone resident is ‖u_i‖(κ_i − ρκ_j). Filed as [CLAIM-tmpv65bg](../claims.d/CLAIM-tmpv65bg.md).
+- **[QUESTION-132](../questions.d/QUESTION-132.md)** (direct, on its first outcome). The chapter defines
   stable coexistence as each species' recovery from low density, which
   is the question's test, λ_i > 0. It does not use the words
-  "stabilizing" or "equalizing"; those come from LIT-1219, still
+  "stabilizing" or "equalizing"; those come from [LIT-1219](../literature.d/LIT-1219.md), still
   Unavailable.
-- **QUESTION-083** (direct, on its recommendation). Its notes ask that
+- **[QUESTION-083](../questions.d/QUESTION-083.md)** (direct, on its recommendation). Its notes ask that
   Chesson be read before a negative-frequency-dependence criterion gets
   stronger standing. For two species in MacArthur's model, the chapter's
   criterion is ρ < κ₁/κ₂ < 1/ρ.
-- **CLAIM-279** (a parallel). A46's line that two operators "with
+- **[CLAIM-279](../claims.d/CLAIM-279.md)** (a parallel). A46's line that two operators "with
   different overall success can stay complementary because they do well
   in different circumstances" is the chapter's p. 48: "Differences in
   performance under specific conditions lead to tolerance of average

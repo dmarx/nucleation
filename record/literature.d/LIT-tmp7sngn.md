@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-11-22 (NOTE-tmp6d961) from the publisher's own
+  read in full 2026-11-22 ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md)) from the publisher's own
   open-access PDF, under a Creative Commons Attribution 3.0 licence; worth
   reading as Chesson's own restatement of his 1990 reworking of
-  MacArthur's consumer-resource model (its reference [28], LIT-1826),
+  MacArthur's consumer-resource model (its reference [28], [LIT-1826](LIT-1826.md)),
   with the overlap ρ, sensitivity s and average fitness κ written out in
   Table 1, the relation κ_j ρ / κ_i = α_ij / α_jj (eq. 1) and the
   two-species coexistence condition ρ < κ₁/κ₂ < 1/ρ (eq. 2). Read it
@@ -83,10 +83,10 @@ doi:10.5772/24534.
 
 ## Standing in the record
 
-Registered as a stand-in for Chesson (1990), LIT-1826, whose author's
+Registered as a stand-in for Chesson (1990), [LIT-1826](LIT-1826.md), whose author's
 reprint could not be fetched. It restates that paper's model and its
 overlap measure for the two-species Lotka–Volterra reduction. By the
-1990 paper's abstract, as LIT-1826 summarizes it, that paper develops
+1990 paper's abstract, as [LIT-1826](LIT-1826.md) summarizes it, that paper develops
 statistical measures of association between utilization functions,
 and how far those go beyond Table 1's ρ cannot be told without it. So the chapter stands in only for the overlap
 measure, the fitness measure and the coexistence condition it states.

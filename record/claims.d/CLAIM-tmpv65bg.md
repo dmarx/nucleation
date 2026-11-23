@@ -34,11 +34,11 @@ bears_on:
 summary: >-
   Filed by the lead run of 2026-11-22 from a reading of Chesson (2011), the
   stand-in for Chesson (1990). MacArthur's model with fast resources is
-  CLAIM-369's class under u_jl = c_jl √(v_l K_l / r_l), b_l = √(v_l K_l r_l)
+  [CLAIM-369](CLAIM-369.md)'s class under u_jl = c_jl √(v_l K_l / r_l), b_l = √(v_l K_l r_l)
   and cost μ_j. Under that map Chesson's sensitivity is ‖u_j‖, his overlap
   the cosine of u_j and u_k, and his average fitness
   κ_j = r_j/‖u_j‖ = −∂_j L(0)/‖u_j‖. A rare component's growth against a
-  lone resident j is ‖u_i‖(κ_i − ρκ_j), so CLAIM-369's invasion fitness,
+  lone resident j is ‖u_i‖(κ_i − ρκ_j), so [CLAIM-369](CLAIM-369.md)'s invasion fitness,
   in the two-component case, is Chesson's criterion ρ < κ_i/κ_j < 1/ρ.
   Checked numerically. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
@@ -50,7 +50,7 @@ summary: >-
 
 ## The claim
 
-MacArthur's consumer–resource model, as Chesson states it (THEORY-tmpac7iw,
+MacArthur's consumer–resource model, as Chesson states it ([THEORY-tmpac7iw](../theory.d/THEORY-tmpac7iw.md),
 Table 1 of the chapter), has consumers j with consumption rates c_jl ≥ 0
 and maintenance requirements μ_j, and logistic resources l with renewal
 rates r_l, carrying capacities K_l and unit values v_l. With fast
@@ -61,9 +61,9 @@ consumer's per-capita growth is
 
 **The map.** Let u_jl = c_jl √(v_l K_l / r_l), the columns of U, and
 b_l = √(v_l K_l r_l). Then Σ_l c_jl v_l K_l c_kl / r_l = u_j · u_k and
-Σ_l c_jl v_l K_l = u_j · b. So the reduced model is CLAIM-369's, with
+Σ_l c_jl v_l K_l = u_j · b. So the reduced model is [CLAIM-369](CLAIM-369.md)'s, with
 A = UᵀU, r = Uᵀb − μ and maintenance cost c = μ, and nonnegative niche
-vectors, which is CLAIM-369's sign condition for the ecological reading.
+vectors, which is [CLAIM-369](CLAIM-369.md)'s sign condition for the ecological reading.
 
 **Chesson's measures under the map.**
 
@@ -79,7 +79,7 @@ needs r_j > 0. A rare component i then grows at
 
   r_i − (UᵀU)_ij n_j* = ‖u_i‖κ_i − ‖u_i‖‖u_j‖ρ r_j/‖u_j‖² = ‖u_i‖(κ_i − ρκ_j).
 
-That is CLAIM-369's s_i = −∂_i L at the resident equilibrium, factored
+That is [CLAIM-369](CLAIM-369.md)'s s_i = −∂_i L at the resident equilibrium, factored
 into Chesson's terms. Each of two components invades the other exactly
 when κ_i > ρκ_j and κ_j > ρκ_i, that is ρ < κ_i/κ_j < 1/ρ: Chesson's
 eq. (2). Scaling a niche vector together with its cost leaves ρ alone
@@ -94,14 +94,14 @@ integrated with the resident alone. They agree to numerical precision
 whenever every resource stays positive. Where the resident exhausts a
 resource they do not, as the exclusion of that case says.
 
-**CASE-118.** Its unit vectors are ‖u_i‖ = 1, so κ_i = r_i, and with
+**[CASE-118](../cases.d/CASE-118.md).** Its unit vectors are ‖u_i‖ = 1, so κ_i = r_i, and with
 r = (1 + δ, 1 − δ) the criterion is its |δ| < (1 − ρ)/(1 + ρ). With
 δ = 0 the invasion growth is 1 − ρ.
 
 ## Why the record holds it
 
-CASE-118 left open whether its ρ, the cosine of two unit feature vectors,
-is Chesson's overlap for MacArthur's model, and QUESTION-132 names its
+[CASE-118](../cases.d/CASE-118.md) left open whether its ρ, the cosine of two unit feature vectors,
+is Chesson's overlap for MacArthur's model, and [QUESTION-132](../questions.d/QUESTION-132.md) names its
 first outcome for Chesson. This settles the first for Chesson's measure
 as his 2011 chapter states it, and it puts the record's marginal-value
 test for recovery when rare in the coordinates the coexistence literature
@@ -113,8 +113,8 @@ occupies.
 
 - **That ρ and κ decide coexistence among many components.** The
   factorization is pairwise. With more components the invasion growth at
-  a −i community involves the whole resident set; CLAIM-885 gives the
-  bound n*_i d_i² there. Pairwise overlaps do not fix it (QUESTION-083's
+  a −i community involves the whole resident set; [CLAIM-885](CLAIM-885.md) gives the
+  bound n*_i d_i² there. Pairwise overlaps do not fix it ([QUESTION-083](../questions.d/QUESTION-083.md)'s
   note of 2026-10-29).
 - **That overlap is a cosine in any competitive system.** It is one here
   because the same c_jl sets a consumer's impact on a resource and its

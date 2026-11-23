@@ -246,7 +246,7 @@ The claim is unchanged.
 A parallel only, not evidence for the claim. The note of 2026-10-18
 gives A46's point that "two operators with different overall success can
 stay complementary because they do well in different circumstances".
-Chesson's 2011 chapter, LIT-tmp7sngn (NOTE-tmp6d961), says the same of
+Chesson's 2011 chapter, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md) ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md)), says the same of
 species: "Differences in performance under specific conditions lead to
 tolerance of average performance differences" (p. 48). In MacArthur's
 model the specific differences lower the overlap ρ, and the tolerated

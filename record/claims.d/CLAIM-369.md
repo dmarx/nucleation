@@ -298,8 +298,8 @@ The claim is unchanged.
 
 ## Note of 2026-11-22: MacArthur's model, in Chesson's terms
 
-Chesson's 2011 chapter, LIT-tmp7sngn (NOTE-tmp6d961, THEORY-tmpac7iw),
-read as the stand-in for his 1990 paper on MacArthur's model, LIT-1826,
+Chesson's 2011 chapter, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md) ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md), [THEORY-tmpac7iw](../theory.d/THEORY-tmpac7iw.md)),
+read as the stand-in for his 1990 paper on MacArthur's model, [LIT-1826](../literature.d/LIT-1826.md),
 gives this claim a named ecological instance. It is an instance, not
 new evidence for the derivation.
 
@@ -316,7 +316,7 @@ new evidence for the derivation.
   average fitness κ_j = r_j/‖u_j‖ = −∂_j L(0)/‖u_j‖. Item 3's invasion
   fitness against a lone resident j factors as ‖u_i‖(κ_i − ρκ_j), so
   Chesson's two-species criterion ρ < κ_i/κ_j < 1/ρ is item 3 for two
-  components (CLAIM-tmpv65bg, checked by a record script against the full
+  components ([CLAIM-tmpv65bg](CLAIM-tmpv65bg.md), checked by a record script against the full
   consumer–resource model).
 - **Why the overlap is a cosine.** In MacArthur's model the same c_jl
   sets a consumer's impact on a resource and its benefit from it. That is

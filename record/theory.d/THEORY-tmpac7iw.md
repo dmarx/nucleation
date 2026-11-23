@@ -47,8 +47,8 @@ summary: >-
 
 # THEORY-tmpac7iw: On Chesson's account of MacArthur's consumer-resource model, the ratio of interspecific to intraspecific competition is a niche overlap, a weighted cosine of two species' consumption vectors, times a ratio of average fitnesses, so the two coexist, each recovering from low density, exactly when their fitness ratio lies strictly between the overlap and its reciprocal
 
-Chesson (2011), LIT-tmp7sngn, read in NOTE-tmp6d961, restating Chesson
-(1990), LIT-1826, which was not reached.
+Chesson (2011), [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md), read in [NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md), restating Chesson
+(1990), [LIT-1826](../literature.d/LIT-1826.md), which was not reached.
 
 ## The account
 
@@ -87,4 +87,4 @@ Neither happened.
   where a resident exhausts one, the coefficients change and Table 1's ρ
   no longer gives them.
 - **What "stabilizing" and "equalizing" mean.** The chapter does not use
-  those words. They are Chesson (2000), LIT-1219, Unavailable.
+  those words. They are Chesson (2000), [LIT-1219](../literature.d/LIT-1219.md), Unavailable.

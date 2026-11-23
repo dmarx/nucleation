@@ -143,17 +143,17 @@ the abundance n*_i. The construction is unchanged.
 
 The note of 2026-10-29 left one question: whether Chesson's overlap for
 MacArthur's model is the cosine of the components' feature vectors, as
-this case assumes. LIT-1826 is still Unfetched (its status note gives
-the obstacles of this date). Chesson's 2011 chapter, LIT-tmp7sngn, read
-in full (NOTE-tmp6d961), restates that paper's reworking of MacArthur
-and gives the measure in its Table 1 (THEORY-tmpac7iw):
+this case assumes. [LIT-1826](../literature.d/LIT-1826.md) is still Unfetched (its status note gives
+the obstacles of this date). Chesson's 2011 chapter, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md), read
+in full ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md)), restates that paper's reworking of MacArthur
+and gives the measure in its Table 1 ([THEORY-tmpac7iw](../theory.d/THEORY-tmpac7iw.md)):
 
   ρ = Σ_l c_jl v_l K_l c_kl / r_l, divided by s_j s_k,
   s_j = √(Σ_l c_jl² v_l K_l / r_l).
 
 With u_jl = c_jl √(v_l K_l / r_l) that is the cosine of u_j and u_k, and
-s_j = ‖u_j‖. The fast-resource reduction of the model is CLAIM-369's
-class with these u_j as niche vectors (CLAIM-tmpv65bg, checked by a
+s_j = ‖u_j‖. The fast-resource reduction of the model is [CLAIM-369](../claims.d/CLAIM-369.md)'s
+class with these u_j as niche vectors ([CLAIM-tmpv65bg](../claims.d/CLAIM-tmpv65bg.md), checked by a
 record script). This case's unit feature vectors are s_j = 1, so its ρ is
 Chesson's overlap, its r_i is his average fitness κ_i, and its bound
 |δ| < (1 − ρ)/(1 + ρ) is his ρ < κ₁/κ₂ < 1/ρ, as the note of 2026-10-29
@@ -172,8 +172,8 @@ filed differently, and the owner chooses.
   1990 paper develops statistical measures of association between
   utilization functions, and whether those are only Table 1's ρ cannot be
   told unread. On this reading the question stays open for the 1990
-  paper, and LIT-1826 remains the reading owed.
+  paper, and [LIT-1826](../literature.d/LIT-1826.md) remains the reading owed.
 
-ARG-tmpyjmij argues the source step and names the same limit. Either way
+[ARG-tmpyjmij](../arguments.d/ARG-tmpyjmij.md) argues the source step and names the same limit. Either way
 the algebra stands: only the attribution would change. The construction
 is unchanged.

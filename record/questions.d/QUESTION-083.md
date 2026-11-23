@@ -256,10 +256,10 @@ either. The question is unchanged and stays Open.
 The notes of 2026-10-18 and 2026-10-29 record a recommendation, the
 synthesis's, that Chesson be read before any negative-frequency-dependence
 criterion here is given stronger standing. Of his works the record holds,
-the 1990 paper, LIT-1826, is still Unfetched and the 1994 paper,
-LIT-1827, and the 2000 review, LIT-1219, still Unavailable. His 2011
-chapter, LIT-tmp7sngn, is read in full (NOTE-tmp6d961, THEORY-tmpac7iw).
-It restates the 1990 reworking of MacArthur's model, which is CLAIM-369's
+the 1990 paper, [LIT-1826](../literature.d/LIT-1826.md), is still Unfetched and the 1994 paper,
+[LIT-1827](../literature.d/LIT-1827.md), and the 2000 review, [LIT-1219](../literature.d/LIT-1219.md), still Unavailable. His 2011
+chapter, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md), is read in full ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md), [THEORY-tmpac7iw](../theory.d/THEORY-tmpac7iw.md)).
+It restates the 1990 reworking of MacArthur's model, which is [CLAIM-369](../claims.d/CLAIM-369.md)'s
 class.
 
 What it gives this question:
@@ -269,7 +269,7 @@ What it gives this question:
   interspecific, which the chapter calls the separation of feedback
   loops and measures by the overlap ρ. A rare component's growth against
   a lone resident is ‖u_i‖(κ_i − ρκ_j), with ρ the cosine of the niche
-  vectors and κ_i = r_i/‖u_i‖ (CLAIM-tmpv65bg); both recover when rare
+  vectors and κ_i = r_i/‖u_i‖ ([CLAIM-tmpv65bg](../claims.d/CLAIM-tmpv65bg.md)); both recover when rare
   exactly when ρ < κ_i/κ_j < 1/ρ.
 - **Two sorts of similarity, kept apart.** "[S]imilarity in κ values is a
   very different concept from similarity in way of life, or similarity
@@ -290,7 +290,7 @@ differently, and the owner chooses.
   of this model class is now on the record, and the criterion it gives
   is derived and checked in the record's terms.
 - **Reading B: not met.** The note of 2026-10-18 names Chesson's 2000
-  review, LIT-1219, whose stabilizing and equalizing mechanisms are the
+  review, [LIT-1219](../literature.d/LIT-1219.md), whose stabilizing and equalizing mechanisms are the
   framework the recommendation had in mind, and it stays Unavailable. A
   review chapter of 2011 standing in for a 1990 paper is not that
   reading.
