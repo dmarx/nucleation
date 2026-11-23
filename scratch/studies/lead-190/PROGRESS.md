@@ -16,11 +16,31 @@ loaded by path and unmodified, run two population comparisons:
 
 File an executed-study CASE, CLAIMs, dated notes, a changelog fragment.
 
+## Choices made
+
+- Each operator is both a LEAD-090 reader (meaning m_i, critic weights W_i
+  over all sources, itself included) and a LEAD-090 specialist (retrieval
+  biased toward its own side by sigma). A source's own lean (phi_s) is the
+  one new coupling; phi_s = 0 makes each reader an independent LEAD-090
+  institution (tested to 1e-12 against lead-090's mean_field).
+- Critic score = zeta * agreement (LEAD-090 Regime A soft) + (1 - zeta) *
+  observed relevance (Regime B); relevance r_j drawn independent of side.
+- Decision layer: CLAIM-375's weighted-mean decision; grants under one-hop,
+  leave-one-out (CLAIM-502) or damped recursive (CLAIM-282) aggregation, all
+  with damping eta = 0.5; objective realized policy or authority held;
+  operators move grants by projected gradient ascent (exact gradients,
+  tested). Quadratic grant cost by default (the game converges); linear cost
+  as a robustness check (it cycles; time averages used).
+- Five grant schemes for CLAIM-281: scalar-agree, scalar-comp,
+  scalar-policy, role (critic by relevance, decision by policy), role-agree.
+- Population sides shuffled and initial grants jittered, after a pilot run
+  in which index order aligned with side produced spurious alignment.
+
 ## Done
 
-- Checked the record: not already held (no filing after LEAD-190 on
-  CLAIM-281/285; no lead-190 study directory).
+- Checked the record: not already held.
+- model.py, test_model.py (27 tests pass), run.py (e1-e5).
 
 ## Next
 
-- Read lead-090 and lead-015 models; design the population extension.
+- Run e1-e5; write README; file CASE, CLAIMs, notes, changelog.
