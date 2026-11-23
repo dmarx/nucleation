@@ -276,66 +276,66 @@ body says it answers none of [QUESTION-485](../questions.d/QUESTION-485.md)'s gr
 this part, complements it and bears on [QUESTION-485](../questions.d/QUESTION-485.md).
 
 **Whether the norm is the system's own: etiology, constitutivism and the
-forager run (added at version 5).** Each entry here bears on QUESTION-128;
-how they bear on it is stated in QUESTION-128's notes of 2026-11-22 and
-2026-11-23 and in CLAIM-648's notes of 2026-11-22, and this account
+forager run (added at version 5).** Each entry here bears on [QUESTION-128](../questions.d/QUESTION-128.md);
+how they bear on it is stated in [QUESTION-128](../questions.d/QUESTION-128.md)'s notes of 2026-11-22 and
+2026-11-23 and in [CLAIM-648](../claims.d/CLAIM-648.md)'s notes of 2026-11-22, and this account
 follows them.
 
-- *The etiological objection.* CLAIM-920 (the assistant's, the objection
-  LEAD-018 asked for, from Millikan and the SEP survey; counter,
-  interpretive, Proposed) objects to CLAIM-648: on selection-based
+- *The etiological objection.* [CLAIM-920](../claims.d/CLAIM-920.md) (the assistant's, the objection
+  [LEAD-018](../leads.d/LEAD-018.md) asked for, from Millikan and the SEP survey; counter,
+  interpretive, Proposed) objects to [CLAIM-648](../claims.d/CLAIM-648.md): on selection-based
   teleosemantics an anticipation can be false by a norm of the system's
   own only if selection or learning stabilized it, so upkeep in the
-  present, with no such history, sets no norm. CLAIM-648's note of
+  present, with no such history, sets no norm. [CLAIM-648](../claims.d/CLAIM-648.md)'s note of
   2026-11-22 says this agrees with it against the designer and narrows
   it: a profile "set by its own upkeep" is the system's norm when past
-  upkeep shaped it, CASE-241's forager has its modeller's norm on that
-  account, and CASE-239's learner would have its own. QUESTION-128's note
+  upkeep shaped it, [CASE-241](../cases.d/CASE-241.md)'s forager has its modeller's norm on that
+  account, and [CASE-239](../cases.d/CASE-239.md)'s learner would have its own. [QUESTION-128](../questions.d/QUESTION-128.md)'s note
   of the same day calls it a rival to deriving norms from present
   organization, and records that the survey keeps the same separation of
   rungs as the question's limit.
-- *The constitutivism test.* THEORY-2268 (the reading of Leffler, LIT-2444,
-  in NOTE-2360; Proposed; bears on QUESTION-128 and QUESTION-129) holds that
+- *The constitutivism test.* [THEORY-2268](../theory.d/THEORY-2268.md) (the reading of Leffler, [LIT-2444](../literature.d/LIT-2444.md),
+  in [NOTE-2360](../notes.d/NOTE-2360.md); Proposed; bears on [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md)) holds that
   the one inescapability argument that explains why constitutive norms
-  have force makes that force relative to the constitution. ARG-217 (the
+  have force makes that force relative to the constitution. [ARG-217](../arguments.d/ARG-217.md) (the
   assistant's; analogy, Proposed) carries it to self-maintaining
-  organizations and concludes CLAIM-987. QUESTION-128's note of
+  organizations and concludes [CLAIM-987](../claims.d/CLAIM-987.md). [QUESTION-128](../questions.d/QUESTION-128.md)'s note of
   2026-11-22 files three readings as alternatives for the owner, and says
   they agree that the organizational rungs give no authority beyond the
-  organization and differ on whether that is news: (a) CLAIM-987 (counter,
-  interpretive, Proposed; bears on QUESTION-128 and QUESTION-129), that the
+  organization and differ on whether that is news: (a) [CLAIM-987](../claims.d/CLAIM-987.md) (counter,
+  interpretive, Proposed; bears on [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md)), that the
   constitutive route to force ends in constrained relativism, which is the
-  showing "what would count" asks for; (b) CLAIM-989 (counter,
-  interpretive, Proposed; objects to CLAIM-363; bears on QUESTION-129),
-  that it narrows CLAIM-363 to the truth of verdicts and leaves the force
-  of an organization's own standard relative; (c) CLAIM-988 (thesis,
-  interpretive, Proposed; rests on CLAIM-075; objects to CLAIM-987), that
+  showing "what would count" asks for; (b) [CLAIM-989](../claims.d/CLAIM-989.md) (counter,
+  interpretive, Proposed; objects to [CLAIM-363](../claims.d/CLAIM-363.md); bears on [QUESTION-129](../questions.d/QUESTION-129.md)),
+  that it narrows [CLAIM-363](../claims.d/CLAIM-363.md) to the truth of verdicts and leaves the force
+  of an organization's own standard relative; (c) [CLAIM-988](../claims.d/CLAIM-988.md) (thesis,
+  interpretive, Proposed; rests on [CLAIM-075](../claims.d/CLAIM-075.md); objects to [CLAIM-987](../claims.d/CLAIM-987.md)), that
   the record never explains force by constitution, so the test closes a
   route it did not take. The wording of the three is the assistant's.
-- *The forager run.* CASE-tmpz762n (the assistant's executed study for
-  LEAD-177; documented, Proposed; also distributed-agency and
-  record-as-apparatus; a variant of CASE-239, CASE-238, CASE-240 and
-  CASE-242; bears on QUESTION-128 and QUESTION-285) runs CASE-239's
-  forager. CLAIM-tmppa4rs (the assistant's; thesis, demonstrated,
+- *The forager run.* [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md) (the assistant's executed study for
+  [LEAD-177](../leads.d/LEAD-177.md); documented, Proposed; also distributed-agency and
+  record-as-apparatus; a variant of [CASE-239](../cases.d/CASE-239.md), [CASE-238](../cases.d/CASE-238.md), [CASE-240](../cases.d/CASE-240.md) and
+  [CASE-242](../cases.d/CASE-242.md); bears on [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-285](../questions.d/QUESTION-285.md)) runs [CASE-239](../cases.d/CASE-239.md)'s
+  forager. [CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md) (the assistant's; thesis, demonstrated,
   Proposed; first line distributed-agency) states what it found: revising
   which features count is needed for, and pays only on, a change whose
   warning sign is a feature the forager never attended to. Two readings
-  of its control are filed for the owner (QUESTION-128's and CLAIM-648's
-  notes of 2026-11-22): CLAIM-tmpnc1mf (counter, interpretive, Proposed;
-  objects to CLAIM-tmphrp1s), that the gains vanishing when the energy
-  account is replaced by a matched score meets CASE-239's second defeater,
-  so the criteria are the designer's in another form; and CLAIM-tmphrp1s
+  of its control are filed for the owner ([QUESTION-128](../questions.d/QUESTION-128.md)'s and [CLAIM-648](../claims.d/CLAIM-648.md)'s
+  notes of 2026-11-22): [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md) (counter, interpretive, Proposed;
+  objects to [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md)), that the gains vanishing when the energy
+  account is replaced by a matched score meets [CASE-239](../cases.d/CASE-239.md)'s second defeater,
+  so the criteria are the designer's in another form; and [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md)
   (thesis, interpretive, Proposed), that it shows the learned warnings
-  bound to the condition of the forager's own dissolution, as CASE-239's
+  bound to the condition of the forager's own dissolution, as [CASE-239](../cases.d/CASE-239.md)'s
   main threat asks, and that the defeater as worded cannot discriminate.
-- *The choice of K.* CLAIM-916 (the assistant's, LEAD-053's rule for
-  ARG-007's weakest step; thesis, interpretive, Proposed; line
+- *The choice of K.* [CLAIM-916](../claims.d/CLAIM-916.md) (the assistant's, [LEAD-053](../leads.d/LEAD-053.md)'s rule for
+  [ARG-007](../arguments.d/ARG-007.md)'s weakest step; thesis, interpretive, Proposed; line
   will-organization only) holds that a regulatory capacity's constraint
   set is fixed by what realizes it, so that once the agent and the
   capacity are named only the agent's boundary is left to choose; it uses
-  TERM-070, complements CLAIM-195 and bears on QUESTION-128. QUESTION-128's
-  note of 2026-11-23 says it bears on the question through CLAIM-648 and
-  CLAIM-tmphrp1s, and that whether it should also carry this line is for
+  [TERM-070](../terms.d/TERM-070.md), complements [CLAIM-195](../claims.d/CLAIM-195.md) and bears on [QUESTION-128](../questions.d/QUESTION-128.md). [QUESTION-128](../questions.d/QUESTION-128.md)'s
+  note of 2026-11-23 says it bears on the question through [CLAIM-648](../claims.d/CLAIM-648.md) and
+  [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md), and that whether it should also carry this line is for
   the owner.
 
 ## The components
@@ -358,7 +358,7 @@ follows them.
 - [CLAIM-718](../claims.d/CLAIM-718.md), the owner's, the test A's; thesis, interpretive, Proposed; also dependence-and-domination. No sense declared; its object is a relationship.
 - [QUESTION-485](../questions.d/QUESTION-485.md), the owner's, Open; also dependence-and-domination.
 - [CLAIM-746](../claims.d/CLAIM-746.md), A's, corrected by the filer; thesis, interpretive, Proposed; also realizability. No sense declared; its object is an authority.
-- Added at version 5: CLAIM-920, the assistant's; counter, interpretive, Proposed. THEORY-2268, the reading of Leffler; Proposed. ARG-217, the assistant's; analogy, Proposed. CLAIM-987, CLAIM-989 and CLAIM-988, the assistant's three alternative readings; counter, counter and thesis, interpretive, Proposed. CASE-tmpz762n, the assistant's executed study; documented, Proposed; also distributed-agency and record-as-apparatus. CLAIM-tmppa4rs, the assistant's; thesis, demonstrated, Proposed; first line distributed-agency. CLAIM-tmpnc1mf and CLAIM-tmphrp1s, the assistant's alternative readings; counter and thesis, interpretive, Proposed. CLAIM-916, the assistant's; thesis, interpretive, Proposed; line will-organization. None declares a sense of "organization"; the subject of CLAIM-920 and the forager entries is a self-maintaining system, and of CLAIM-987 to CLAIM-989 and ARG-217 a self-maintaining organization.
+- Added at version 5: [CLAIM-920](../claims.d/CLAIM-920.md), the assistant's; counter, interpretive, Proposed. [THEORY-2268](../theory.d/THEORY-2268.md), the reading of Leffler; Proposed. [ARG-217](../arguments.d/ARG-217.md), the assistant's; analogy, Proposed. [CLAIM-987](../claims.d/CLAIM-987.md), [CLAIM-989](../claims.d/CLAIM-989.md) and [CLAIM-988](../claims.d/CLAIM-988.md), the assistant's three alternative readings; counter, counter and thesis, interpretive, Proposed. [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md), the assistant's executed study; documented, Proposed; also distributed-agency and record-as-apparatus. [CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md), the assistant's; thesis, demonstrated, Proposed; first line distributed-agency. [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md) and [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md), the assistant's alternative readings; counter and thesis, interpretive, Proposed. [CLAIM-916](../claims.d/CLAIM-916.md), the assistant's; thesis, interpretive, Proposed; line will-organization. None declares a sense of "organization"; the subject of [CLAIM-920](../claims.d/CLAIM-920.md) and the forager entries is a self-maintaining system, and of [CLAIM-987](../claims.d/CLAIM-987.md) to [CLAIM-989](../claims.d/CLAIM-989.md) and [ARG-217](../arguments.d/ARG-217.md) a self-maintaining organization.
 
 ## Links the components state, and where
 
@@ -380,7 +380,7 @@ cited.
   bears on [QUESTION-485](../questions.d/QUESTION-485.md) and [QUESTION-129](../questions.d/QUESTION-129.md). [QUESTION-485](../questions.d/QUESTION-485.md)'s body
   names [CLAIM-075](../claims.d/CLAIM-075.md), [CLAIM-363](../claims.d/CLAIM-363.md), [QUESTION-129](../questions.d/QUESTION-129.md), [QUESTION-454](../questions.d/QUESTION-454.md) and
   [CLAIM-746](../claims.d/CLAIM-746.md).
-- Added at version 5. CLAIM-920 objects to CLAIM-648 and bears on QUESTION-128. THEORY-2268 bears on QUESTION-128 and QUESTION-129. ARG-217 concludes CLAIM-987; CLAIM-987 bears on QUESTION-128 and QUESTION-129; CLAIM-988 rests on CLAIM-075, objects to CLAIM-987 and bears on QUESTION-128; CLAIM-989 objects to CLAIM-363 and bears on QUESTION-129. CASE-tmpz762n is a variant of CASE-239 and bears on QUESTION-128; CLAIM-tmppa4rs, CLAIM-tmpnc1mf and CLAIM-tmphrp1s bear on QUESTION-128, and CLAIM-tmpnc1mf objects to CLAIM-tmphrp1s. CLAIM-916 bears on QUESTION-128. QUESTION-128's notes of 2026-11-22 name CLAIM-920 with CLAIM-648, THEORY-2268, ARG-217 and the three readings, and CASE-tmpz762n with its two readings; its note of 2026-11-23 names CLAIM-916 with CLAIM-648 and CLAIM-tmphrp1s; CLAIM-648's notes of 2026-11-22 name CLAIM-920, CASE-tmpz762n, CLAIM-tmphrp1s and CLAIM-tmpnc1mf.
+- Added at version 5. [CLAIM-920](../claims.d/CLAIM-920.md) objects to [CLAIM-648](../claims.d/CLAIM-648.md) and bears on [QUESTION-128](../questions.d/QUESTION-128.md). [THEORY-2268](../theory.d/THEORY-2268.md) bears on [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md). [ARG-217](../arguments.d/ARG-217.md) concludes [CLAIM-987](../claims.d/CLAIM-987.md); [CLAIM-987](../claims.d/CLAIM-987.md) bears on [QUESTION-128](../questions.d/QUESTION-128.md) and [QUESTION-129](../questions.d/QUESTION-129.md); [CLAIM-988](../claims.d/CLAIM-988.md) rests on [CLAIM-075](../claims.d/CLAIM-075.md), objects to [CLAIM-987](../claims.d/CLAIM-987.md) and bears on [QUESTION-128](../questions.d/QUESTION-128.md); [CLAIM-989](../claims.d/CLAIM-989.md) objects to [CLAIM-363](../claims.d/CLAIM-363.md) and bears on [QUESTION-129](../questions.d/QUESTION-129.md). [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md) is a variant of [CASE-239](../cases.d/CASE-239.md) and bears on [QUESTION-128](../questions.d/QUESTION-128.md); [CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md), [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md) and [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md) bear on [QUESTION-128](../questions.d/QUESTION-128.md), and [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md) objects to [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md). [CLAIM-916](../claims.d/CLAIM-916.md) bears on [QUESTION-128](../questions.d/QUESTION-128.md). [QUESTION-128](../questions.d/QUESTION-128.md)'s notes of 2026-11-22 name [CLAIM-920](../claims.d/CLAIM-920.md) with [CLAIM-648](../claims.d/CLAIM-648.md), [THEORY-2268](../theory.d/THEORY-2268.md), [ARG-217](../arguments.d/ARG-217.md) and the three readings, and [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md) with its two readings; its note of 2026-11-23 names [CLAIM-916](../claims.d/CLAIM-916.md) with [CLAIM-648](../claims.d/CLAIM-648.md) and [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md); [CLAIM-648](../claims.d/CLAIM-648.md)'s notes of 2026-11-22 name [CLAIM-920](../claims.d/CLAIM-920.md), [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md), [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md) and [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md).
 
 ## Not stated on the record
 
@@ -405,14 +405,14 @@ cited.
 - Whether [CLAIM-718](../claims.d/CLAIM-718.md)'s method, applied to a self-maintaining system,
   would test [CLAIM-648](../claims.d/CLAIM-648.md)'s self-set norm. Neither cites the other.
 - That once the agent and the capacity are named, the only arbitrariness
-  left in a norm of function is the choice of boundary (CLAIM-916's last
-  clause carried to QUESTION-128). QUESTION-128's note of 2026-11-23
+  left in a norm of function is the choice of boundary ([CLAIM-916](../claims.d/CLAIM-916.md)'s last
+  clause carried to [QUESTION-128](../questions.d/QUESTION-128.md)). [QUESTION-128](../questions.d/QUESTION-128.md)'s note of 2026-11-23
   records it tested and failed: the forager run leaves open whether the
   learned warnings are the system's or the designer's in another form
-  (CLAIM-tmphrp1s against CLAIM-tmpnc1mf), which is not a choice of
+  ([CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md) against [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md)), which is not a choice of
   boundary. Nothing is filed.
-- Which of CLAIM-987, CLAIM-989 and CLAIM-988, and which of CLAIM-tmpnc1mf
-  and CLAIM-tmphrp1s, the record holds. They are alternatives for the
+- Which of [CLAIM-987](../claims.d/CLAIM-987.md), [CLAIM-989](../claims.d/CLAIM-989.md) and [CLAIM-988](../claims.d/CLAIM-988.md), and which of [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md)
+  and [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md), the record holds. They are alternatives for the
   owner.
 
 ## What it does not say

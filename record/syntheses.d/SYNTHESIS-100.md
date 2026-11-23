@@ -816,34 +816,34 @@ that answers, bears on or (questions only) refines one of them:
 - **[QUESTION-476](../questions.d/QUESTION-476.md), on blameless culture:** [CLAIM-717](../claims.d/CLAIM-717.md) and [CASE-292](../cases.d/CASE-292.md) bear on
   it.
   Six claims filed since bear on it, all Proposed, added at version 5 (the
-  synthesis review of 2026-11-23). CLAIM-750 (the lead filer's, proposed
+  synthesis review of 2026-11-23). [CLAIM-750](../claims.d/CLAIM-750.md) (the lead filer's, proposed
   on 2026-11-18 and accepted for filing by the owner; thesis, empirical;
   line rightful-power only) states the answer the question's second
   outcome describes: a blameless review's trace can stop at "the system",
-  so that CLAIM-707's upstream controllers drop out with the operator it
+  so that [CLAIM-707](../claims.d/CLAIM-707.md)'s upstream controllers drop out with the operator it
   shields, and it keeps upstream provenance only when its tracing crosses
-  the authority of the body that commissions it; it complements CLAIM-707
-  and CLAIM-751, and its proposed study is CASE-293. CLAIM-751 (the lead
+  the authority of the body that commissions it; it complements [CLAIM-707](../claims.d/CLAIM-707.md)
+  and [CLAIM-751](../claims.d/CLAIM-751.md), and its proposed study is [CASE-293](../cases.d/CASE-293.md). [CLAIM-751](../claims.d/CLAIM-751.md) (the lead
   filer's, same day; thesis, interpretive) holds that upstream provenance
-  can be carried without blame, on the NTSB's Tempe report (CASE-292); it
-  complements CLAIM-733 and CLAIM-750, uses TERM-127 and bears also on
-  QUESTION-470. CLAIM-905 (the assistant's, the finding of the pilot
-  CASE-335 run for LEAD-119; thesis, empirical) finds public software
+  can be carried without blame, on the NTSB's Tempe report ([CASE-292](../cases.d/CASE-292.md)); it
+  complements [CLAIM-733](../claims.d/CLAIM-733.md) and [CLAIM-750](../claims.d/CLAIM-750.md), uses [TERM-127](../terms.d/TERM-127.md) and bears also on
+  [QUESTION-470](../questions.d/QUESTION-470.md). [CLAIM-905](../claims.d/CLAIM-905.md) (the assistant's, the finding of the pilot
+  [CASE-335](../cases.d/CASE-335.md) run for [LEAD-119](../leads.d/LEAD-119.md); thesis, empirical) finds public software
   postmortems rarely tracing a cause above the engineering team where
   Chemical Safety Board investigations mostly do, and corroborates
-  CLAIM-750, weakly by its own account. CLAIM-tmp20uni (the assistant's,
-  for LEAD-189, 2026-11-22; thesis, empirical) sets the Tempe criminal
+  [CLAIM-750](../claims.d/CLAIM-750.md), weakly by its own account. [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md) (the assistant's,
+  for [LEAD-189](../leads.d/LEAD-189.md), 2026-11-22; thesis, empirical) sets the Tempe criminal
   process, which convicted only the operator, beside the no-blame
   investigation that named the company and the state; it complements
-  CLAIM-751, corroborates CLAIM-707 and bears also on QUESTION-470.
-  CLAIM-tmp64hmn (the assistant's, same filing; counter, interpretive)
-  objects to CLAIM-tmp20uni that the contrast is between the criminal
+  [CLAIM-751](../claims.d/CLAIM-751.md), corroborates [CLAIM-707](../claims.d/CLAIM-707.md) and bears also on [QUESTION-470](../questions.d/QUESTION-470.md).
+  [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md) (the assistant's, same filing; counter, interpretive)
+  objects to [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md) that the contrast is between the criminal
   law and a safety investigation, not between blame and its absence.
-  CLAIM-tmpauu5r (the assistant's, same filing; counter, interpretive)
-  objects to CLAIM-750 that a single postmortem is the wrong unit, since
+  [CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md) (the assistant's, same filing; counter, interpretive)
+  objects to [CLAIM-750](../claims.d/CLAIM-750.md) that a single postmortem is the wrong unit, since
   Google's practice routes questions about priorities set above the team
-  to reviews across incidents. The five other than CLAIM-750 also carry
-  organizational-normativity and are integrated by SYNTHESIS-104.
+  to reviews across incidents. The five other than [CLAIM-750](../claims.d/CLAIM-750.md) also carry
+  organizational-normativity and are integrated by [SYNTHESIS-104](SYNTHESIS-104.md).
 
 The rest of the exchange's argument is mapped above. It sits in the
 line's neighbourhood without arguing a root question, so by [ADR-085](../decisions.d/ADR-085.md) it

@@ -287,15 +287,15 @@ Added at version 2, at the synthesis review of 2026-11-23: one in-force
 entry of the line, filed after this account, that falls in its scope and
 that no account integrated. The account now integrates 41 entries.
 
-- QUESTION-509, the assistant's, filed on the owner's view of 2026-11-21
-  that the conclusions left without an entry by the sweep under ADR-136
+- [QUESTION-509](../questions.d/QUESTION-509.md), the assistant's, filed on the owner's view of 2026-11-21
+  that the conclusions left without an entry by the sweep under [ADR-136](../decisions.d/ADR-136.md)
   "don't look useless"; Open. It asks how common signalling is in
   language data once estimated without the plug-in bias. Its summary
-  states it as the empirical question behind the conclusion ARG-037
-  rejected a route to, CLAIM-125's version 1 reading "69 of the 90
+  states it as the empirical question behind the conclusion [ARG-037](../arguments.d/ARG-037.md)
+  rejected a route to, [CLAIM-125](../claims.d/CLAIM-125.md)'s version 1 reading "69 of the 90
   systems signal" as showing signalling typical, a route that fails
   because plug-in estimates signal in expectation when the true marginals
-  agree (CLAIM-235).
+  agree ([CLAIM-235](../claims.d/CLAIM-235.md)).
 
 ## Links the components state, and where
 

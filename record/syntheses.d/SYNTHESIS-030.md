@@ -116,7 +116,7 @@ bears_on:
   symmetry, what the compatibility complex has to do with singular
   geometry, and to which unit training's conditions belong.
 - **[SYNTHESIS-034](SYNTHESIS-034.md), acquisition** (12 questions under [QUESTION-039](../questions.d/QUESTION-039.md), with
-  [QUESTION-275](../questions.d/QUESTION-275.md), [QUESTION-363](../questions.d/QUESTION-363.md), [QUESTION-234](../questions.d/QUESTION-234.md) and [QUESTION-274](../questions.d/QUESTION-274.md), and [CLAIM-360](../claims.d/CLAIM-360.md); QUESTION-502 added on 2026-11-23). When
+  [QUESTION-275](../questions.d/QUESTION-275.md), [QUESTION-363](../questions.d/QUESTION-363.md), [QUESTION-234](../questions.d/QUESTION-234.md) and [QUESTION-274](../questions.d/QUESTION-274.md), and [CLAIM-360](../claims.d/CLAIM-360.md); [QUESTION-502](../questions.d/QUESTION-502.md) added on 2026-11-23). When
   structure is acquired, whether training's order follows the
   posterior's, and whether circuits form as regimes over shared features.
 - **[SYNTHESIS-029](SYNTHESIS-029.md), nesting** ([QUESTION-217](../questions.d/QUESTION-217.md), [QUESTION-220](../questions.d/QUESTION-220.md), [QUESTION-244](../questions.d/QUESTION-244.md),
@@ -137,8 +137,8 @@ bears_on:
   readers and cues; RL as amortized search; telling loss from
   inaccessibility.
 
-- **Added 2026-11-19:** [SYNTHESIS-105](SYNTHESIS-105.md), the account of what learning is and what it does to what can still be learned ([CLAIM-754](../claims.d/CLAIM-754.md), the owner's overconsolidation, [CLAIM-758](../claims.d/CLAIM-758.md), and the owner's questions on optimal learning and knowing); QUESTION-497 added on 2026-11-23.
-- **Not among the parts:** SYNTHESIS-120, a part account of the line filed on 2026-11-21 (how a high-dimensional representation comes to draw a new distinction), is not integrated here; QUESTION-518, added to it on 2026-11-23, is integrated by it.
+- **Added 2026-11-19:** [SYNTHESIS-105](SYNTHESIS-105.md), the account of what learning is and what it does to what can still be learned ([CLAIM-754](../claims.d/CLAIM-754.md), the owner's overconsolidation, [CLAIM-758](../claims.d/CLAIM-758.md), and the owner's questions on optimal learning and knowing); [QUESTION-497](../questions.d/QUESTION-497.md) added on 2026-11-23.
+- **Not among the parts:** [SYNTHESIS-120](SYNTHESIS-120.md), a part account of the line filed on 2026-11-21 (how a high-dimensional representation comes to draw a new distinction), is not integrated here; [QUESTION-518](../questions.d/QUESTION-518.md), added to it on 2026-11-23, is integrated by it.
 
 ## Where the parts meet
 

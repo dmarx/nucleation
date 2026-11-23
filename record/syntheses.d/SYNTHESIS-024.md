@@ -173,16 +173,16 @@ Added at version 3, at the synthesis review of 2026-11-23: one in-force
 entry of the line, filed after this account, that falls in its scope and
 that no account integrated. The account now integrates 25 entries.
 
-- CLAIM-679, A's sentence from A20 §IV of the exchange "Analyze
+- [CLAIM-679](../claims.d/CLAIM-679.md), A's sentence from A20 §IV of the exchange "Analyze
   technological civilization trap" (2026-11-13), with the derivation in
-  its body; thesis, demonstrated, Active. Rests on CLAIM-571; uses
-  TERM-106; complements CLAIM-579 and, in the sibling part, CLAIM-587.
+  its body; thesis, demonstrated, Active. Rests on [CLAIM-571](../claims.d/CLAIM-571.md); uses
+  [TERM-106](../terms.d/TERM-106.md); complements [CLAIM-579](../claims.d/CLAIM-579.md) and, in the sibling part, [CLAIM-587](../claims.d/CLAIM-587.md).
   Cutting the resource an organization holds toward what holding its
   present configuration requires leaves that configuration feasible and
   removes exactly the transitions whose threshold lies between the old
   holding and the new; its summary says the sentence follows from
-  CLAIM-571 and TERM-106 once "efficient" is read so, the parameter the
-  first filing had left open on CLAIM-571.
+  [CLAIM-571](../claims.d/CLAIM-571.md) and [TERM-106](../terms.d/TERM-106.md) once "efficient" is read so, the parameter the
+  first filing had left open on [CLAIM-571](../claims.d/CLAIM-571.md).
 
 ## Links the components state, and where
 

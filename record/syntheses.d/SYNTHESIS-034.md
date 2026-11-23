@@ -164,12 +164,12 @@ on [QUESTION-275](../questions.d/QUESTION-275.md) and [QUESTION-370](../question
 - [QUESTION-274](../questions.d/QUESTION-274.md), filed from the circuits readings of 2026-10-26, Open.
 - [CLAIM-360](../claims.d/CLAIM-360.md), the owner's U38 with A38's three effects, Active.
 
-- QUESTION-502, filed beside CLAIM-774 (Proposed; no account integrates
+- [QUESTION-502](../questions.d/QUESTION-502.md), filed beside [CLAIM-774](../claims.d/CLAIM-774.md) (Proposed; no account integrates
   it); Open; added at version 3, at the synthesis review of 2026-11-23. It
   asks whether networks trained with orthogonalized updates learn the
   structure of their data in a different order from gradient descent,
   with the coarse-to-fine progressive differentiation that Saxe and
-  colleagues read (THEORY-186) weaker, absent or reversed. It names no
+  colleagues read ([THEORY-186](../theory.d/THEORY-186.md)) weaker, absent or reversed. It names no
   other component of this part; it is here because when, and in what
   order, a network acquires structure is this part's question.
 

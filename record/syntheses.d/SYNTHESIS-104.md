@@ -381,35 +381,35 @@ it. No reading of 2026-11-18 bears on either.
 - [QUESTION-473](../questions.d/QUESTION-473.md), A's, raised by a review the owner forwarded; first filing; Open; line organizational-normativity. No reading.
 
 Added at version 4, at the synthesis review of 2026-11-23: five claims
-bearing on QUESTION-476 that carry this line and that no account
-integrated. SYNTHESIS-100 integrates them too, with CLAIM-750 (line
+bearing on [QUESTION-476](../questions.d/QUESTION-476.md) that carry this line and that no account
+integrated. [SYNTHESIS-100](SYNTHESIS-100.md) integrates them too, with [CLAIM-750](../claims.d/CLAIM-750.md) (line
 rightful-power only), on which they turn.
 
-- CLAIM-751, the lead filer's, proposed on 2026-11-18 and accepted for
+- [CLAIM-751](../claims.d/CLAIM-751.md), the lead filer's, proposed on 2026-11-18 and accepted for
   filing by the owner; thesis, interpretive, Proposed; first line
   rightful-power. Upstream provenance can be carried without blame, as
-  the NTSB's Tempe report (CASE-292) did; it complements CLAIM-733 and
-  CLAIM-750, uses TERM-127, and bears on QUESTION-476 and QUESTION-470.
-- CLAIM-905, the assistant's, the finding of the pilot CASE-335 run for
-  LEAD-119; thesis, empirical, Proposed; first line rightful-power. Public
+  the NTSB's Tempe report ([CASE-292](../cases.d/CASE-292.md)) did; it complements [CLAIM-733](../claims.d/CLAIM-733.md) and
+  [CLAIM-750](../claims.d/CLAIM-750.md), uses [TERM-127](../terms.d/TERM-127.md), and bears on [QUESTION-476](../questions.d/QUESTION-476.md) and [QUESTION-470](../questions.d/QUESTION-470.md).
+- [CLAIM-905](../claims.d/CLAIM-905.md), the assistant's, the finding of the pilot [CASE-335](../cases.d/CASE-335.md) run for
+  [LEAD-119](../leads.d/LEAD-119.md); thesis, empirical, Proposed; first line rightful-power. Public
   software postmortems rarely trace a cause above the engineering team,
   where Chemical Safety Board investigations mostly do; it bears on
-  QUESTION-476 and corroborates CLAIM-750, weakly by its own account.
-- CLAIM-tmp20uni, the assistant's, for LEAD-189 (2026-11-22); thesis,
+  [QUESTION-476](../questions.d/QUESTION-476.md) and corroborates [CLAIM-750](../claims.d/CLAIM-750.md), weakly by its own account.
+- [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md), the assistant's, for [LEAD-189](../leads.d/LEAD-189.md) (2026-11-22); thesis,
   empirical, Proposed; first line rightful-power. On the Tempe failure the
   criminal process convicted only the operator while the investigation
   barred from blame named the company and the state; it complements
-  CLAIM-751, corroborates CLAIM-707, and bears on QUESTION-476 and
-  QUESTION-470.
-- CLAIM-tmp64hmn, the assistant's, same filing; counter, interpretive,
-  Proposed; first line rightful-power. It objects to CLAIM-tmp20uni that
+  [CLAIM-751](../claims.d/CLAIM-751.md), corroborates [CLAIM-707](../claims.d/CLAIM-707.md), and bears on [QUESTION-476](../questions.d/QUESTION-476.md) and
+  [QUESTION-470](../questions.d/QUESTION-470.md).
+- [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md), the assistant's, same filing; counter, interpretive,
+  Proposed; first line rightful-power. It objects to [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md) that
   the contrast is between the criminal law and a safety investigation,
-  not between blame and its absence; it bears on QUESTION-476.
-- CLAIM-tmpauu5r, the assistant's, same filing; counter, interpretive,
-  Proposed; first line rightful-power. It objects to CLAIM-750 that a
+  not between blame and its absence; it bears on [QUESTION-476](../questions.d/QUESTION-476.md).
+- [CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md), the assistant's, same filing; counter, interpretive,
+  Proposed; first line rightful-power. It objects to [CLAIM-750](../claims.d/CLAIM-750.md) that a
   single postmortem is the wrong unit for testing where a blameless trace
   stops, since Google's practice routes questions about priorities set
-  above the team to reviews across incidents; it bears on QUESTION-476.
+  above the team to reviews across incidents; it bears on [QUESTION-476](../questions.d/QUESTION-476.md).
 
 ## Not stated on the record
 

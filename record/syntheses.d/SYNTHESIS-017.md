@@ -163,20 +163,20 @@ questions of the line, filed after this account, that no account of the
 line integrated. Neither names a component of this account; they are here
 because they ask what a record of inquiry can secure in its own working.
 
-- QUESTION-471, A's, from A30 §7 of the exchange "Assess Depp Heard
-  Abuse" (2026-11-15); Open; integrated also by SYNTHESIS-100. It asks how
+- [QUESTION-471](../questions.d/QUESTION-471.md), A's, from A30 §7 of the exchange "Assess Depp Heard
+  Abuse" (2026-11-15); Open; integrated also by [SYNTHESIS-100](SYNTHESIS-100.md). It asks how
   a record that automates the incorporation of new material keeps the
   speed of incorporation from outrunning its capacity to evaluate it, and
   which of its checks can still stop an incorporation rather than review
   it after it has taken effect. Its body names the owner's
-  procedural-friction claim CLAIM-710 (in SYNTHESIS-098) and the
-  throughput claim CLAIM-705 (in SYNTHESIS-100).
-- QUESTION-496, the owner's, U38 of the follow-up turns of the exchange
+  procedural-friction claim [CLAIM-710](../claims.d/CLAIM-710.md) (in [SYNTHESIS-098](SYNTHESIS-098.md)) and the
+  throughput claim [CLAIM-705](../claims.d/CLAIM-705.md) (in [SYNTHESIS-100](SYNTHESIS-100.md)).
+- [QUESTION-496](../questions.d/QUESTION-496.md), the owner's, U38 of the follow-up turns of the exchange
   "Topological protection explained" (2026-11-19); Open. It asks how the
   record should triage its open questions so that the questions it hopes
   to answer choose the method, experiment being one method among others.
-  Its body names CLAIM-763, ChatGPT's procedure, as a candidate answer,
-  and its summary names the owner's companion CLAIM-764; both are
+  Its body names [CLAIM-763](../claims.d/CLAIM-763.md), ChatGPT's procedure, as a candidate answer,
+  and its summary names the owner's companion [CLAIM-764](../claims.d/CLAIM-764.md); both are
   Proposed and no account integrates them.
 
 ## Links tested as claims

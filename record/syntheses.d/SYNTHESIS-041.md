@@ -214,22 +214,22 @@ questions of the line, filed after this account, that fall in its scope
 and that no account of the line integrated. The account now integrates 26
 entries.
 
-- QUESTION-467, the assistant's, raised by the reading review of
+- [QUESTION-467](../questions.d/QUESTION-467.md), the assistant's, raised by the reading review of
   2026-11-14; Open. It asks, when an organization that must act
   acceptably in every circumstance it cannot yet exclude learns which
   holds only from what its own committing actions reveal, how much it
   must observe before it commits, and whether what only commitment would
-  reveal is lost to it. Its summary says CLAIM-535's one-step condition
-  and CLAIM-572's split of one budget between observing and acting (in
-  SYNTHESIS-024 and SYNTHESIS-076) both exclude the case where acting is
+  reveal is lost to it. Its summary says [CLAIM-535](../claims.d/CLAIM-535.md)'s one-step condition
+  and [CLAIM-572](../claims.d/CLAIM-572.md)'s split of one budget between observing and acting (in
+  [SYNTHESIS-024](SYNTHESIS-024.md) and [SYNTHESIS-076](SYNTHESIS-076.md)) both exclude the case where acting is
   itself observing.
-- QUESTION-504, raised by CLAIM-787 (Proposed; no account integrates it);
+- [QUESTION-504](../questions.d/QUESTION-504.md), raised by [CLAIM-787](../claims.d/CLAIM-787.md) (Proposed; no account integrates it);
   Open; also distributed-agency. It asks whether help that maximizes a
   user's long-horizon influence erodes the user's unassisted capacity,
   and whether information taken with the assistance present can show it.
-  Its body cites CLAIM-675 (integrated by SYNTHESIS-105, SYNTHESIS-113
-  and SYNTHESIS-117) for erosion of a capacity learned by doing, and names
-  CLAIM-532's test, removing the inducing conditions and presenting a new
+  Its body cites [CLAIM-675](../claims.d/CLAIM-675.md) (integrated by [SYNTHESIS-105](SYNTHESIS-105.md), [SYNTHESIS-113](SYNTHESIS-113.md)
+  and [SYNTHESIS-117](SYNTHESIS-117.md)) for erosion of a capacity learned by doing, and names
+  [CLAIM-532](../claims.d/CLAIM-532.md)'s test, removing the inducing conditions and presenting a new
   case of the same class, as the one that would tell.
 
 Elsewhere: [CLAIM-620](../claims.d/CLAIM-620.md) is also integrated by learned-structure's account

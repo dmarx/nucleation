@@ -64,7 +64,7 @@ summary: >-
 *The account of the readiness line ("Readiness and slack", [ADR-073](../decisions.d/ADR-073.md)), over
 the accounts of its two parts ([ADR-083](../decisions.d/ADR-083.md)). It integrates every entry whose
 `line` includes readiness after the split of 2026-11-10 ([ADR-087](../decisions.d/ADR-087.md)):
-49 entries through the parts (50 since CLAIM-679 was added on 2026-11-23), and [CLAIM-602](../claims.d/CLAIM-602.md) directly. [SYNTHESIS-009](SYNTHESIS-009.md) and
+49 entries through the parts (50 since [CLAIM-679](../claims.d/CLAIM-679.md) was added on 2026-11-23), and [CLAIM-602](../claims.d/CLAIM-602.md) directly. [SYNTHESIS-009](SYNTHESIS-009.md) and
 [SYNTHESIS-010](SYNTHESIS-010.md) also carry the line; both are Superseded by the claims they
 returned to ([CLAIM-632](../claims.d/CLAIM-632.md) and [CLAIM-600](../claims.d/CLAIM-600.md), [ADR-084](../decisions.d/ADR-084.md)), and they are not
 integrated again. [CLAIM-600](../claims.d/CLAIM-600.md) is now in transient-support.*
@@ -110,10 +110,10 @@ with its words.
   bears on [QUESTION-395](../questions.d/QUESTION-395.md) and [QUESTION-386](../questions.d/QUESTION-386.md), and [CLAIM-632](../claims.d/CLAIM-632.md) cites it for the
   construction cost a waste verdict must not overlook. [CLAIM-572](../claims.d/CLAIM-572.md)
   complements [CLAIM-561](../claims.d/CLAIM-561.md): provisional dispatch is its hedge at o = 0.
-- **Cutting the reserve to what holding needs (SYNTHESIS-024 with
-  SYNTHESIS-027; added 2026-11-23).** CLAIM-679 (A's, demonstrated,
-  Active) rests on CLAIM-571 and complements CLAIM-587 (in
-  SYNTHESIS-027): cutting the resource held toward what holding the
+- **Cutting the reserve to what holding needs ([SYNTHESIS-024](SYNTHESIS-024.md) with
+  [SYNTHESIS-027](SYNTHESIS-027.md); added 2026-11-23).** [CLAIM-679](../claims.d/CLAIM-679.md) (A's, demonstrated,
+  Active) rests on [CLAIM-571](../claims.d/CLAIM-571.md) and complements [CLAIM-587](../claims.d/CLAIM-587.md) (in
+  [SYNTHESIS-027](SYNTHESIS-027.md)): cutting the resource held toward what holding the
   present configuration requires removes exactly the transitions whose
   threshold lies between the old holding and the new.
 Across to transient-support:

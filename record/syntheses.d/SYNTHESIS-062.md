@@ -376,15 +376,15 @@ Added at version 2, at the synthesis review of 2026-11-23: one in-force
 entry of the line, filed after this account, that falls in its scope and
 that no account integrated. The account now integrates 35 entries.
 
-- QUESTION-513, the assistant's, filed on the owner's view of 2026-11-21
-  that the conclusions left without an entry by the sweep under ADR-136
+- [QUESTION-513](../questions.d/QUESTION-513.md), the assistant's, filed on the owner's view of 2026-11-21
+  that the conclusions left without an entry by the sweep under [ADR-136](../decisions.d/ADR-136.md)
   "don't look useless"; Open. It asks whether a pragmatic frame takes part
   in determining which meaning becomes actual, or only selects among
   descriptions of a meaning fixed without it. Its summary holds open the
-  thesis CLAIM-109 (Superseded) answered yes to, now that ARG-002's route
+  thesis [CLAIM-109](../claims.d/CLAIM-109.md) (Superseded) answered yes to, now that [ARG-002](../arguments.d/ARG-002.md)'s route
   by analogy with non-commuting measurements is rejected; it names
-  CLAIM-009 (in SYNTHESIS-069), which superseded CLAIM-109, as one way it
-  could be answered yes, and CLAIM-412 (in SYNTHESIS-019) as a parallel
+  [CLAIM-009](../claims.d/CLAIM-009.md) (in [SYNTHESIS-069](SYNTHESIS-069.md)), which superseded [CLAIM-109](../claims.d/CLAIM-109.md), as one way it
+  could be answered yes, and [CLAIM-412](../claims.d/CLAIM-412.md) (in [SYNTHESIS-019](SYNTHESIS-019.md)) as a parallel
   question in another domain.
 
 ## Links the components state, and where

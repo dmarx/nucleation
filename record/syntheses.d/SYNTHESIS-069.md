@@ -378,14 +378,14 @@ Added at version 2, at the synthesis review of 2026-11-23: one in-force
 entry of the line, filed after this account, that falls in its scope and
 that no account integrated. The account now integrates 58 entries.
 
-- CASE-370, the assistant's computation run for LEAD-103; an executed
+- [CASE-370](../cases.d/CASE-370.md), the assistant's computation run for [LEAD-103](../leads.d/LEAD-103.md); an executed
   study, documented, Active. It derives the noncontextual inequality that
   a pragmatic rendering experiment's operational equivalences imply under
-  preparation noncontextuality, the inequality QUESTION-067 asks for and on
+  preparation noncontextuality, the inequality [QUESTION-067](../questions.d/QUESTION-067.md) asks for and on
   which it bears, and checks that a quantum realization violates it; its
-  second equivalence matches CLAIM-044's mixed reading of an ambiguous
+  second equivalence matches [CLAIM-044](../claims.d/CLAIM-044.md)'s mixed reading of an ambiguous
   utterance, and its first the probe-relative observational equivalence of
-  TERM-014 (in SYNTHESIS-068). It illustrates CLAIM-964 (Proposed), and
+  [TERM-014](../terms.d/TERM-014.md) (in [SYNTHESIS-068](SYNTHESIS-068.md)). It illustrates [CLAIM-964](../claims.d/CLAIM-964.md) (Proposed), and
   establishes the formal inequality, not that any pragmatic data violate
   it.
 

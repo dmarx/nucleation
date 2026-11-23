@@ -128,7 +128,7 @@ integrated by exactly one part account: the 186 entries carrying the line after 
 2026-11-11, less the six Superseded syntheses. Version 1 had 203, with
 the 23 now in organizational-normativity. [CASE-128](../cases.d/CASE-128.md) and [CASE-129](../cases.d/CASE-129.md) joined the line at the sweep of
 2026-11-11; [CLAIM-555](../claims.d/CLAIM-555.md) left it. Since then [CLAIM-686](../claims.d/CLAIM-686.md) and [QUESTION-454](../questions.d/QUESTION-454.md), then first in
-organizational-normativity ([CLAIM-686](../claims.d/CLAIM-686.md) is first in dependence-and-domination since [ADR-100](../decisions.d/ADR-100.md)), joined [SYNTHESIS-041](SYNTHESIS-041.md) (2026-11-15), and at the synthesis review of 2026-11-23 CASE-325 and CLAIM-692 joined SYNTHESIS-036 and QUESTION-467 and QUESTION-504 joined SYNTHESIS-041; other
+organizational-normativity ([CLAIM-686](../claims.d/CLAIM-686.md) is first in dependence-and-domination since [ADR-100](../decisions.d/ADR-100.md)), joined [SYNTHESIS-041](SYNTHESIS-041.md) (2026-11-15), and at the synthesis review of 2026-11-23 [CASE-325](../cases.d/CASE-325.md) and [CLAIM-692](../claims.d/CLAIM-692.md) joined [SYNTHESIS-036](SYNTHESIS-036.md) and [QUESTION-467](../questions.d/QUESTION-467.md) and [QUESTION-504](../questions.d/QUESTION-504.md) joined [SYNTHESIS-041](SYNTHESIS-041.md); other
 entries filed on the line after 2026-11-11 are integrated by no part
 account yet, and are for the line's next review. Some are also integrated by other lines' accounts, each part
 account says which.

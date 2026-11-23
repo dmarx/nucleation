@@ -127,16 +127,16 @@ summary: >-
 - [QUESTION-495](../questions.d/QUESTION-495.md) and [QUESTION-493](../questions.d/QUESTION-493.md), the owner's, Open;
   [QUESTION-494](../questions.d/QUESTION-494.md), A's, Open.
 
-- QUESTION-497, the owner's (2026-11-19), from the discussion of
-  in-context learning under TERM-131's version 2; Open; also
+- [QUESTION-497](../questions.d/QUESTION-497.md), the owner's (2026-11-19), from the discussion of
+  in-context learning under [TERM-131](../terms.d/TERM-131.md)'s version 2; Open; also
   distributed-agency; added at version 3, at the synthesis review of
   2026-11-23. It asks whether identifiability or localization of what a
   learner retains fixes the learner's boundary and its individuation by
-  its learning history. Its body starts from TERM-131's version 2, which
+  its learning history. Its body starts from [TERM-131](../terms.d/TERM-131.md)'s version 2, which
   treats retention in the context and in the weights alike, takes
-  identifiability from CLAIM-135's second achievement (in SYNTHESIS-068),
-  names CLAIM-765 (Proposed; no account integrates it) as stating the four
-  combinations, and refines QUESTION-035 (in SYNTHESIS-054).
+  identifiability from [CLAIM-135](../claims.d/CLAIM-135.md)'s second achievement (in [SYNTHESIS-068](SYNTHESIS-068.md)),
+  names [CLAIM-765](../claims.d/CLAIM-765.md) (Proposed; no account integrates it) as stating the four
+  combinations, and refines [QUESTION-035](../questions.d/QUESTION-035.md) (in [SYNTHESIS-054](SYNTHESIS-054.md)).
 
 ## Not stated on the record
 

@@ -228,7 +228,7 @@ summary: >-
 Every component whose first line is dependence-and-domination, the part
 accounts apart, is integrated by exactly one of the six part accounts,
 with the exceptions below, which this account integrates directly
-(and CLAIM-760, added at version 5, which no part takes).
+(and [CLAIM-760](../claims.d/CLAIM-760.md), added at version 5, which no part takes).
 Several entries also carry another line and are integrated again by that
 line's accounts, which the part accounts name.
 
@@ -267,17 +267,17 @@ account integrates them directly is that account's to say.
 
 ## Integrated directly, in no part (added at version 5)
 
-- **CLAIM-760** (A's, from A62 §9 of the exchange "Topological protection
+- **[CLAIM-760](../claims.d/CLAIM-760.md)** (A's, from A62 §9 of the exchange "Topological protection
   explained", filed at the owner's request on 2026-11-19; thesis,
-  interpretive, Active; also realizability, where SYNTHESIS-106 and
-  SYNTHESIS-107 integrate it). That an organization makes an activity
+  interpretive, Active; also realizability, where [SYNTHESIS-106](SYNTHESIS-106.md) and
+  [SYNTHESIS-107](SYNTHESIS-107.md) integrate it). That an organization makes an activity
   cheaper for those who perform it does not show that work was saved: it
   may have been transferred, to an earlier time, to upkeep or to other
   parties, and work saved, work transferred and capability expanded are
-  three separate achievements. It rests on CLAIM-303 and complements
-  CLAIM-060, CLAIM-603, CLAIM-676, CLAIM-761 and, in this line,
-  CLAIM-731 (in SYNTHESIS-098); its body says the contesting cost a
-  transfer imposes is CLAIM-731's subject. Its scope, the
+  three separate achievements. It rests on [CLAIM-303](../claims.d/CLAIM-303.md) and complements
+  [CLAIM-060](../claims.d/CLAIM-060.md), [CLAIM-603](../claims.d/CLAIM-603.md), [CLAIM-676](../claims.d/CLAIM-676.md), [CLAIM-761](../claims.d/CLAIM-761.md) and, in this line,
+  [CLAIM-731](../claims.d/CLAIM-731.md) (in [SYNTHESIS-098](SYNTHESIS-098.md)); its body says the contesting cost a
+  transfer imposes is [CLAIM-731](../claims.d/CLAIM-731.md)'s subject. Its scope, the
   accounting of work across a system's boundary, is none of the six
   parts', so it is integrated here; it was filed after the parts.
 

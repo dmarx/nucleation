@@ -278,26 +278,26 @@ entries of the line, filed after this account, that fall in its scope and
 that no account of the line integrated. The account now integrates 65
 entries.
 
-- CASE-325, the assistant's computation, QUESTION-056's test run by
-  LEAD-089; an executed study, documented, Active; also
-  distributed-agency. Northstar (CASE-023), with variants taken from
-  CASE-003 and CASE-002, is modelled by control models alone and by a
+- [CASE-325](../cases.d/CASE-325.md), the assistant's computation, [QUESTION-056](../questions.d/QUESTION-056.md)'s test run by
+  [LEAD-089](../leads.d/LEAD-089.md); an executed study, documented, Active; also
+  distributed-agency. Northstar ([CASE-023](../cases.d/CASE-023.md)), with variants taken from
+  [CASE-003](../cases.d/CASE-003.md) and [CASE-002](../cases.d/CASE-002.md), is modelled by control models alone and by a
   will-organization over them, the difference priced by log evidence as
-  CLAIM-174's test 4 prices it (CLAIM-154): where the case is as
+  [CLAIM-174](../claims.d/CLAIM-174.md)'s test 4 prices it ([CLAIM-154](../claims.d/CLAIM-154.md)): where the case is as
   stipulated the will-organization wins beyond its Occam cost and alone
   predicts combinations of changes of authority never seen, and it loses
-  where authority is idle or idiosyncratic. It bears on QUESTION-056 and
-  is a variant of CASE-023, CASE-003 and CASE-002.
-- CLAIM-692, the assistant's, raised by the reading review of 2026-11-14;
-  thesis, interpretive, Active; integrated also by SYNTHESIS-119
+  where authority is idle or idiosyncratic. It bears on [QUESTION-056](../questions.d/QUESTION-056.md) and
+  is a variant of [CASE-023](../cases.d/CASE-023.md), [CASE-003](../cases.d/CASE-003.md) and [CASE-002](../cases.d/CASE-002.md).
+- [CLAIM-692](../claims.d/CLAIM-692.md), the assistant's, raised by the reading review of 2026-11-14;
+  thesis, interpretive, Active; integrated also by [SYNTHESIS-119](SYNTHESIS-119.md)
   (formal-apparatus). The neural signature Jennings offers for an emergent
   subject's constraint on its parts, 1/f scaling and phase-amplitude
   coupling tied to attention, does not discriminate a macro-level
-  constraint from micro-level mechanism. Its summary says CLAIM-539
+  constraint from micro-level mechanism. Its summary says [CLAIM-539](../claims.d/CLAIM-539.md)
   declines to say the contextual-emergence step succeeds, citing the
   reading's limitations, and that no claim stated the reasons the three
-  readings hold; it grounds on THEORY-1312, THEORY-1317 and THEORY-1337
-  and bears on QUESTION-507.
+  readings hold; it grounds on [THEORY-1312](../theory.d/THEORY-1312.md), [THEORY-1317](../theory.d/THEORY-1317.md) and [THEORY-1337](../theory.d/THEORY-1337.md)
+  and bears on [QUESTION-507](../questions.d/QUESTION-507.md).
 
 ## Links tested as claims
 
