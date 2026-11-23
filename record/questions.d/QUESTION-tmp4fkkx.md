@@ -56,3 +56,8 @@ A criterion that classifies a plurality as pseudo-self or ecosystem under a
 declared regime, with a case where the two classifications differ; or a
 showing that every such criterion flips with the regime's horizon or probe
 family, so that the distinction is the analyst's.
+
+## Note of 2026-11-23: criteria that might divide the cases
+
+<!-- inactive-ok-block: CLAIM-tmp812ex CLAIM-tmpklms4 CLAIM-tmpt93dp — Proposed or new; the criteria, the answer they come near and the objection they meet -->
+A64b of the exchange's branch of 2026-11-23 08:51 proposed five criteria for a pseudo-self (CLAIM-tmp812ex), which bears on this question. Integration alone does not divide pseudo-self from ecosystem, given CLAIM-tmpt93dp. Consequential governance (authority allocated among the members' contributions) and reflexive revisability (the rules of inquiry taken as its object) might, since an ecosystem does neither; that is near CLAIM-tmpklms4's answer. Like the criteria already filed, they are stated without a regime, so CLAIM-tmpptr3w's relativity applies to them. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

@@ -1,0 +1,53 @@
+---
+status: Proposed
+title: "Devezer and colleagues' model of discovery and Li and colleagues' study of theory building, as evidence, support epistemic diversity as a contributor to intelligence and not as sufficient for it, since in each the diverse population is protective or gains from aggregation without being best on every measure"
+version: 1
+form: evidence
+grounds:
+- LIT-988
+- THEORY-1777
+concludes:
+- CLAIM-tmph9g28
+uses:
+- TERM-tmp7kf60
+tags:
+- philosophy-of-science
+- epistemology
+date: '2026-11-23'
+line:
+- distributed-agency
+- learning-and-inquiry
+summary: >-
+  A62b §7 of the exchange "Explain First Contact RL" (ChatGPT, the branch of
+  2026-11-23 08:51): "There is some empirical support—but it also warns
+  against a simple equation", citing NOTE-792 (Devezer et al., LIT-988) and
+  NOTE-1884 (Li et al., THEORY-1777). Both readings were checked against
+  the record and say what A62b says. The critical questions are answered
+  below by the assistant: the evidence supports the half of the
+  conclusion that calls diversity a contributor and not a synonym, weakly, and says nothing about its
+  developmental half. The inference is A's (ChatGPT's, at A62b of the
+  exchange "Explain First Contact RL"); adopting it is the owner's call.
+---
+
+<!-- inactive-ok-file: ARG-tmpdnptq CLAIM-tmph9g28 TERM-tmp7kf60 THEORY-148 THEORY-1777 — Proposed; entries filed from this exchange or neighbours cited, not leaned on as in force -->
+
+# ARG-tmpqg2tg: Devezer and colleagues' model of discovery and Li and colleagues' study of theory building, as evidence, support epistemic diversity as a contributor to intelligence and not as sufficient for it, since in each the diverse population is protective or gains from aggregation without being best on every measure
+
+## The inference
+
+A62b §7 cites two readings. Of Devezer et al. (NOTE-792): "Epistemically diverse populations protect against some ineffective search strategies. But the diverse population was not always the best-performing one." Of Li et al. (NOTE-1884): "human theories were more semantically diverse and gained more from aggregation, while individual AI-generated theories were often highly competitive." Its conclusion: "diversity may protect against particular kinds of epistemic lock-in without maximizing every measure of immediate success", and "the relationship is mediated by the structure of inquiry and aggregation, not merely the number of contributors". That is CLAIM-tmph9g28's step 3.
+
+## The readings checked
+
+- **NOTE-792.** The record's reading agrees: an equal mix of the four strategies "always performs better than the worst homogeneous population with respect to all properties" and has low variance (its C4, moderate), while Tess and Mave beat it on time at the true model. The record rates the paper's stronger "optimizes" claim weak (C5). A62b used the weaker claim, which is the right one.
+- **NOTE-1884 and THEORY-1777.** The LLMs individually matched or beat most humans; human theories were more diverse and human crowds gained more from aggregation. A62b's summary is accurate.
+
+## Critical questions
+
+Answered by the assistant (Claude, in this session).
+
+- **Is the evidence about the conclusion's terms?** In part. Devezer's diversity is a fixed mix of model-proposal strategies, not perspectives with differentiated response profiles, and its measures are reproducibility and time at the truth, not intelligence. Li et al.'s diversity is semantic dispersion of theories, and its gain is predictive accuracy from aggregation. Both are diversity in A62b's §3 sense only loosely.
+- **Does it support the whole conclusion?** No. It bears on the claim that diversity contributes without being sufficient: in both, diversity helps under one rule of aggregation and is beaten on some measure. It says nothing about the developmental half, that equally competent systems differ in intelligence for tomorrow's demands, which neither study tests.
+- **Is there contrary evidence?** THEORY-148, Zollman's transient diversity, read with ARG-tmpdnptq: diversity of pursuit kept indefinitely can stop a group from settling. That bounds "maintained diversity" and agrees with A62b's warning.
+
+So the support is real and weak, and scoped to the half of the conclusion that concerns diversity.

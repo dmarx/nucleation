@@ -80,3 +80,8 @@ Filed as one of two readings of the owner's U6, beside [CLAIM-tmptsbhv](CLAIM-tm
 the owner has not chosen between them. [CLAIM-574](CLAIM-574.md) carries only its last
 clause, the test-relativity of the division; 'no clean boundaries' and 'no
 single executive' have no case in the record.
+
+## Note of 2026-11-23: carried to collectives
+
+<!-- inactive-ok-block: CLAIM-tmpuzk5o CLAIM-tmprkpq5 — new; the owner's thesis and A's development -->
+At U33b, on the exchange's branch of 2026-11-23 08:51, the owner carried this proposal to collectives: "collective identity as a (sloppy?) mess of (governed) perspectives (i.e. a pseudo-self?) playing a question-answer game" (CLAIM-tmpuzk5o). The question mark on "sloppy" leaves the choice between this reading and CLAIM-tmptsbhv open there too. A64b gave the word a third meaning, a decomposition "not necessarily unique, stable, or equally resolvable under every observational regime", which is CLAIM-tmp7pe33's; its development is CLAIM-tmprkpq5. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
