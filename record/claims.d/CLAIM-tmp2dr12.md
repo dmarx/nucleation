@@ -1,0 +1,92 @@
+---
+status: Proposed
+title: "Where inquiry of depth k must finish before execution can start within a deadline H, the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness, so the appropriate depth of inquiry depends on the deadline and on the target's response dynamics"
+version: 1
+role: thesis
+warrant: demonstrated
+defeated_if: >-
+  An error in the derivative or in the first-order condition; or a showing
+  that, within the model's assumptions, the best depth does not depend on
+  the deadline or on the execution-readiness curve F.
+tags:
+- operations-research
+- epistemology
+- probabilistic-modeling
+date: '2026-11-23'
+line:
+- readiness
+- learning-and-inquiry
+bears_on:
+- QUESTION-tmp3cft4
+rests_on:
+- CLAIM-475
+- CLAIM-tmpq4crr
+uses:
+- TERM-085
+summary: >-
+  A52 §2–3 of the exchange "Explain First Contact RL" (ChatGPT,
+  2026-11-23). A toy model of the shared deadline: more inquiry raises the
+  chance of finding a suitable response and lowers the time left to carry
+  it out, so an interior depth balances the two. It models TERM-085's
+  "further search can have negative value". The derivative and the
+  condition check (python3 -I); when the optimum moves with the deadline,
+  and when it can jump down, is the assistant's CLAIM-tmpzbytm. The
+  wording is A's (ChatGPT, at A52 of the exchange "Explain First Contact
+  RL"); adopting it is the owner's call.
+---
+<!-- inactive-ok-file: CLAIM-tmpq4crr CLAIM-tmpzbytm CASE-tmp0nsah CLAIM-tmpcag0t — Proposed; the claim this rests on, the gap fill, the case filed with it and the claim whose phrase A uses -->
+
+# CLAIM-tmp2dr12: Where inquiry of depth k must finish before execution can start within a deadline H, the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness, so the appropriate depth of inquiry depends on the deadline and on the target's response dynamics
+
+## The worked example (A52 §2)
+
+A correction must be done within ten days and takes five to carry out.
+
+| Inquiry | Days specifying and investigating | Days left |
+|---|---:|---:|
+| Rapid | 2 | 8 |
+| Extended | 6 | 4 |
+| Exhaustive | 9 | 1 |
+
+"Then the extended and exhaustive assessments can discover the correct
+remedy yet fail to leave enough time to implement it." A52 adds that the
+trade-off "is not strictly monotonic": a better query can find a faster
+remedy and lower T_A by more than it raises T_Q.
+
+## The model (A52 §3)
+
+Depth k; p(k), the chance the inquiry finds a suitable response, rising in
+k; t(k), its time, rising in k; F(h), the chance that a suitable response
+can be carried out in the time h that remains. Then
+
+P(k) = p(k) F(H − t(k)),
+
+P′(k) = p′(k) F(H − t(k)) − p(k) F′(H − t(k)) t′(k),
+
+and at an interior optimum where both factors are positive
+
+p′(k)/p(k) = t′(k) F′(H − t(k)) / F(H − t(k)).
+
+A52: "The proportional informational improvement from further inquiry must
+justify the proportional loss of execution readiness caused by its time
+cost." And: "It is a toy result, not a universal optimization law; real
+inquiry and execution can overlap, interact, and change one another."
+
+## Check
+
+The assistant's, with python3 -I: with p(k) = 1 − e^(−k), t(k) = k and F
+the normal distribution function with mean 3 and s.d. 0.7, the grid
+maximizer of P at H = 4, 5, 6, 8, 10 and 14 satisfies the condition to
+four decimals at every H (at H = 6: k* = 1.900, both sides 0.176). The
+table's arithmetic checks.
+
+## What it does not say
+
+- Not where the optimum lies or how it moves. The condition is necessary
+  for an interior maximum, not sufficient, and it can have several
+  solutions. When the best depth rises with the deadline, and when a
+  longer deadline makes a shallower inquiry best, is CLAIM-tmpzbytm.
+- A52 calls this "precisely the kind of relationship we've been calling
+  *demand-appropriate temporal organization*". That is CLAIM-tmpcag0t's
+  phrase; the model is one instance of it, for the stage before a response
+  can start.
