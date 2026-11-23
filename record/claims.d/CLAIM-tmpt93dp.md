@@ -5,7 +5,14 @@ title: Ecosystems are governed by slow collective variables, such as tides, day
   at interfaces with other ecologies and cadences set by human activity, so having
   a whole-level slow variable cannot be what separates a pseudo-self from an ecosystem
   of pseudo-selves
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    The owner's addition of 2026-11-23, under the dialectic regime:
+    "migration dynamics might be a better endogenous example". Added to
+    the body; the title is unchanged.
 role: counter
 warrant: interpretive
 defeated_if: A showing that none of the listed variables governs an ecosystem in
@@ -42,6 +49,11 @@ The structural answer (CLAIM-tmpcljke) said that what marks a plurality of
 pseudo-selves as integrated, rather than an ecosystem, is a whole-level slow
 variable maintained as the whole's. The owner answers that ecosystems have
 such variables in abundance.
+
+## The owner's addition
+
+Later the same day: "migration dynamics might be a better endogenous
+example". The assistant's reading is CLAIM-tmp7pwo5.
 
 ## Standing
 
