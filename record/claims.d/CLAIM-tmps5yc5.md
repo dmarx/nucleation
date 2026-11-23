@@ -6,7 +6,15 @@ title: Slow collective variables that govern an ecosystem divide into common dri
   integrating them, and variables their interactions regenerate, such as predator–prey
   oscillations, which meet the criterion of a constitutive collective variable,
   so the structural answer as worded is defeated by the second kind
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    THEORY-1468 joins corroborated_by: its Yellowstone case is a recorded
+    instance of a regenerated slow variable (beaver-maintained hydrology)
+    whose loss did not reverse when the predator returned; see the note of
+    this date (ADR-058, ADR-093).
 role: thesis
 warrant: interpretive
 defeated_if: A common driver that an ecosystem's members regenerate as well as read
@@ -33,6 +41,8 @@ summary: 'The assistant''s reading of the owner''s objection CLAIM-tmpt93dp to C
   and divides the rest by a distinction the record holds: coordination by a common
   driver against coordination by mutual regulation. The wording is the assistant''s
   (Claude, in this session); adopting it is the owner''s call.'
+corroborated_by:
+- THEORY-1468
 ---
 
 <!-- inactive-ok-file: CLAIM-327 CLAIM-tmptxsin CLAIM-165 CLAIM-tmpt93dp CLAIM-tmpcljke CLAIM-tmpklms4 CLAIM-tmpptr3w QUESTION-tmp4fkkx LEAD-144 — Proposed or Open; the premises, the objection, the claim it bears on and the alternatives -->
@@ -70,3 +80,20 @@ criterion needs more (CLAIM-tmpklms4 offers what).
   regenerated variables run.
 - Not which of CLAIM-tmpklms4 or CLAIM-tmpptr3w follows; that is the
   owner's choice.
+
+## Note of 2026-11-23: Yellowstone, on the record
+
+The owner's example (CLAIM-tmpt93dp, its second addition): the
+reintroduction of wolves to Yellowstone. The record holds it through
+Kadowaki and colleagues (NOTE-1677, Read; THEORY-1468, Active), citing Wolf
+et al. 2007 (not read by the record): "Although wolves were experimentally
+reintroduced in 1995, the willows did not initially recover", because beaver
+decline had removed dam sites through erosion, "and such hydrological shift
+is irreversible". CLAIM-463 (Active) already uses it: restoring the
+conditions under which a capacity was lost need not restore it. For this
+claim it is the regenerated kind, documented: the hydrological regime is a
+slow variable beavers read, condition on and regenerate by building, and its
+loss was hysteretic, so restoring an upstream condition (the predator) did
+not restore it. The case is the narrow finding the review reports, not the
+wider trophic-cascade account often told of Yellowstone, which the record
+does not hold.

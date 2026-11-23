@@ -5,7 +5,7 @@ title: Ecosystems are governed by slow collective variables, such as tides, day
   at interfaces with other ecologies and cadences set by human activity, so having
   a whole-level slow variable cannot be what separates a pseudo-self from an ecosystem
   of pseudo-selves
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -13,6 +13,13 @@ history:
     The owner's addition of 2026-11-23, under the dialectic regime:
     "migration dynamics might be a better endogenous example". Added to
     the body; the title is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    The owner's second addition of 2026-11-23: Yellowstone's wolf
+    reintroduction as an observed change in a slow mode, found on the
+    record through NOTE-1677 and THEORY-1468. Added to the body; the title
+    is unchanged.
 role: counter
 warrant: interpretive
 defeated_if: A showing that none of the listed variables governs an ecosystem in
@@ -54,6 +61,12 @@ such variables in abundance.
 
 Later the same day: "migration dynamics might be a better endogenous
 example". The assistant's reading is CLAIM-tmp7pwo5.
+
+And: "another useful ecological example for a slow mode which was observed
+to undergo change is the reintroduction of wolves to yellowstone (I think
+this should already be documented on the record)". It is, through Kadowaki
+and colleagues' review (NOTE-1677, THEORY-1468), citing Wolf et al. 2007; the
+assistant's reading is the dated note of 2026-11-23 on CLAIM-tmps5yc5.
 
 ## Standing
 
