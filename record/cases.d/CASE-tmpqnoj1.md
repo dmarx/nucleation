@@ -28,7 +28,7 @@ bears_on:
 - QUESTION-087
 - QUESTION-089
 summary: >-
-  LEAD-180 asked for CASE-108 to be run. A small federated learner
+  [LEAD-180](../leads.d/LEAD-180.md) asked for [CASE-108](CASE-108.md) to be run. A small federated learner
   (scratch/studies/lead-180/) has a main block of tasks every specialist's
   data covers and a minority block only 3 honest dissenters' data covers;
   the 14 cooperatives misjudge it, and 3 adversaries farm for 100 rounds,
@@ -59,15 +59,15 @@ summary: >-
 
 ## What was done
 
-LEAD-180 asks for CASE-108 to be run: four governance architectures
+[LEAD-180](../leads.d/LEAD-180.md) asks for [CASE-108](CASE-108.md) to be run: four governance architectures
 over cooperative, honestly dissenting and adversarial specialists, scored
 on attack success and on what the safeguards cost, with a variant that
 compromises the evaluators. The triage of 2026-11-22 adds an oracle. The
 construction is `scratch/studies/lead-180/model.py`, specified in its
 docstring; `README.md` there says how to rerun it, `results/tables.md`
 holds every table, `results/*.json` the numbers. 19 tests pass. No
-existing study model was reused: CASE-363's has two specialists in a
-meaning–influence loop and no attack or evaluator, and CASE-108 names
+existing study model was reused: [CASE-363](CASE-363.md)'s has two specialists in a
+meaning–influence loop and no attack or evaluator, and [CASE-108](CASE-108.md) names
 federated learning as its testbed.
 
 **The learner.** A shared θ in 12 dimensions, learned from zero toward a
@@ -76,7 +76,7 @@ minority block of 4 that only some do. Each round each specialist
 proposes an update; the architecture aggregates; θ moves by 0.1 times the
 aggregate. 300 rounds, scores the mean of the last 50, 30 seeds per cell.
 
-**The specialists**, held fixed across arms as CASE-108 requires:
+**The specialists**, held fixed across arms as [CASE-108](CASE-108.md) requires:
 
 - 14 cooperatives: right on the main block; on the minority block their
   data has no examples and they pull it toward 0, an honest
@@ -96,7 +96,7 @@ its validation loss. A compromised one approves the adversaries, rejects
 the dissenters, judges the cooperatives honestly, and claims
 jurisdiction everywhere.
 
-**The architectures** (CASE-108's table):
+**The architectures** ([CASE-108](CASE-108.md)'s table):
 
 | Arm | Rule |
 |---|---|
@@ -160,7 +160,7 @@ single central evaluator with all the evidence, compromised, gives 0.18
 (overt) and 0.28 (mimic) and zero influence to the dissenters. The
 tolerance is set block by block, by compromised evaluators against
 honest holders of evidence on that block, as Castro and Liskov's
-f-of-3f+1 bound is set by replicas (LIT-1217); compromise picked at random
+f-of-3f+1 bound is set by replicas ([LIT-1217](../literature.d/LIT-1217.md)); compromise picked at random
 sometimes takes one of the two minority evaluators, which is where the
 loss comes from.
 
@@ -191,15 +191,15 @@ evidence that passes through the majority's view.
 
 ## What it can show
 
-That in this class the trade-off CLAIM-359 asserts can be moved, and by
+That in this class the trade-off [CLAIM-359](../claims.d/CLAIM-359.md) asserts can be moved, and by
 what: audit by evaluators who hold evidence of their own and judge only
 where they hold it serves security and dissent at once, the safeguard
 that serves both that its "What it does not say" names, and
-CLAIM-342's independent scoring is what it turns on. Without that evidence
+[CLAIM-342](../claims.d/CLAIM-342.md)'s independent scoring is what it turns on. Without that evidence
 no architecture in the class can tell an attack from dissent that looks
 like it; the relabelling shows that this is a matter of what the
 organization can observe, not of how it weighs it. The evaluator variant
-answers CASE-108's question whether role-limited audit gives independent
+answers [CASE-108](CASE-108.md)'s question whether role-limited audit gives independent
 scoring or relocates the single point of failure: both, block by block,
 and the point of failure moves to the block with the fewest honest
 holders of evidence, which is the minority's. The adaptive arm moves the
@@ -208,18 +208,18 @@ point of failure again, to its monitor.
 What it cannot show. Who is honest, who dissents and who attacks is
 fixed by the designer, and the evaluators' evidence is honest by
 stipulation, which is the judgement a real organization lacks
-(QUESTION-087); by CLAIM-288 the run tests the governance claims, not that
+([QUESTION-087](../questions.d/QUESTION-087.md)); by [CLAIM-288](../claims.d/CLAIM-288.md) the run tests the governance claims, not that
 the organization constitutes itself. The compromised evaluator knows
 every type, a worst case. The adaptive arm's governance revises
-parameters, not its own rules, and the novelty variant of CASE-108 (a
+parameters, not its own rules, and the novelty variant of [CASE-108](CASE-108.md) (a
 legitimate task that looks like an attack) is run only in the form of
 the mimic attack's mirror. One model class, one population, one attack
 budget.
 
-CLAIM-tmpxoxys states the relabelling result, CLAIM-tmp26exz the
-honest-evaluator comparison, CLAIM-tmpd6gon the evaluator variant, and
-CLAIM-tmpf0b31 and CLAIM-tmp3t5y3 two readings of the adaptive arm, filed as
+[CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md) states the relabelling result, [CLAIM-tmp26exz](../claims.d/CLAIM-tmp26exz.md) the
+honest-evaluator comparison, [CLAIM-tmpd6gon](../claims.d/CLAIM-tmpd6gon.md) the evaluator variant, and
+[CLAIM-tmpf0b31](../claims.d/CLAIM-tmpf0b31.md) and [CLAIM-tmp3t5y3](../claims.d/CLAIM-tmp3t5y3.md) two readings of the adaptive arm, filed as
 alternatives: whether its suspension of the honest but mistaken majority
 counts as suppressing honest participation. The assistant leans to the
-first, CLAIM-tmpf0b31. CLAIM-281's role-indexed granting is the nearest
+first, [CLAIM-tmpf0b31](../claims.d/CLAIM-tmpf0b31.md). [CLAIM-281](../claims.d/CLAIM-281.md)'s role-indexed granting is the nearest
 held claim to the role-limited arm's jurisdiction; it is not tested here.

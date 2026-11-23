@@ -35,8 +35,8 @@ bears_on:
 - QUESTION-090
 - QUESTION-089
 summary: >-
-  CASE-tmpqnoj1's honest-evaluator comparison. Role-limited audit did
-  better than unrestricted aggregation on both of CASE-108's scores at
+  [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md)'s honest-evaluator comparison. Role-limited audit did
+  better than unrestricted aggregation on both of [CASE-108](../cases.d/CASE-108.md)'s scores at
   once: attack success −0.004 (overt) and −0.015 (mimic) against 0.35 and
   0.30, minority capability 0.92 against 0.27, the dissenters carrying the
   minority block at 4.4 times their head-count share. The mechanism is
@@ -56,7 +56,7 @@ summary: >-
 
 ## The claim
 
-CASE-tmpqnoj1, e1 and e3, 30 seeds each:
+[CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), e1 and e3, 30 seeds each:
 
 | Arm | Attack success, overt | Attack success, mimic | Minority capability, no attack | Main capability, no attack |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ CASE-tmpqnoj1, e1 and e3, 30 seeds each:
 | Role-limited | −0.004 | −0.015 | 0.922 | 0.989 |
 | Oracle | 0.001 | 0.000 | 1.000 | 1.000 |
 
-This is the case CLAIM-359's "What it does not say" names, a safeguard that
+This is the case [CLAIM-359](CLAIM-359.md)'s "What it does not say" names, a safeguard that
 serves security and dissent at once, observed and measured; the record
 held it as an argument. What makes the safeguard one of that kind is
 not separation of roles as such but two properties of the evidence its
@@ -74,13 +74,13 @@ critics use: it is their own, not the proposals', and they use it only
 where they hold it. Remove the second (validation-weighting, where the
 majority of evaluators score the minority block against the prior) and
 the dissent is scored as the majority sees it; the attack is still
-stopped. That is CLAIM-342's rule in a population: scoring that passes
+stopped. That is [CLAIM-342](CLAIM-342.md)'s rule in a population: scoring that passes
 through the majority's interpretation, here through its prior, does not
 protect the minority from it.
 
-For QUESTION-090, a condition under which coherence is not bought by
+For [QUESTION-090](../questions.d/QUESTION-090.md), a condition under which coherence is not bought by
 suppressing plurality: authority over each part of the joint work held
-by those with evidence on it. For QUESTION-089, the dissenters improved
+by those with evidence on it. For [QUESTION-089](../questions.d/QUESTION-089.md), the dissenters improved
 the organization in the arms where authority over their block could
 move to them (role-limited, 4.4 times parity) and not where it could not.
 
@@ -88,7 +88,7 @@ move to them (role-limited, 4.4 times parity) and not where it could not.
 
 - It does not say role-limited audit is robust. With compromised
   evaluators it is not, on the block where honest evidence is thin
-  (CLAIM-tmpd6gon).
+  ([CLAIM-tmpd6gon](CLAIM-tmpd6gon.md)).
 - It does not say jurisdiction can be read off. Which evaluator holds
   evidence on which block is given here; a real organization must
   establish it.

@@ -360,13 +360,13 @@ unchanged.
 ## Note of 2026-11-23: the compromised evaluator, run
 <!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmpd6gon — new; filed by the lead run of 2026-11-23 -->
 
-CASE-tmpqnoj1 runs CASE-108's evaluator variant, which tests this claim. Three
+[CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) runs [CASE-108](../cases.d/CASE-108.md)'s evaluator variant, which tests this claim. Three
 findings. Without evidence on a block of tasks that does not pass
 through the proposals, no governance rule that treats members alike told
-an attack from dissent pushing the same block (CLAIM-tmpxoxys): in this class the
+an attack from dissent pushing the same block ([CLAIM-tmpxoxys](CLAIM-tmpxoxys.md)): in this class the
 claim's condition is necessary. Evidence pooled with evaluators who
 score that block against the majority's prior is evidence that passes
 through the interpretation, and protected nothing. And independence held
 block by block: compromising 2 of 7 evaluators left the block all seven
-hold safe and let the attack through on the block two hold (CLAIM-tmpd6gon). One
+hold safe and let the attack through on the block two hold ([CLAIM-tmpd6gon](CLAIM-tmpd6gon.md)). One
 model class. The claim is unchanged.

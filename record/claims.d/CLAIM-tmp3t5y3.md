@@ -35,15 +35,15 @@ bears_on:
 - QUESTION-090
 - QUESTION-087
 summary: >-
-  Reading (b) of CASE-tmpqnoj1's adaptive arm. The same numbers as
-  CLAIM-tmpf0b31: under the mimic attack with 2 of 7 evaluators
+  Reading (b) of [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md)'s adaptive arm. The same numbers as
+  [CLAIM-tmpf0b31](CLAIM-tmpf0b31.md): under the mimic attack with 2 of 7 evaluators
   compromised, the adaptive arm with an honest monitor held attack success
   to 0.097, suspending at some point 72% of the cooperatives, 36% of the
   dissenters and 89% of the attackers; validation-weighting held it to
   0.095 with the dissenters at 0.06 of parity; role-limited audit let it
   through (0.272). On this reading a member suspended for honest error is
   a member whose participation the safeguard suppressed, as
-  QUESTION-087 would have it, since the organization cannot tell honest
+  [QUESTION-087](../questions.d/QUESTION-087.md) would have it, since the organization cannot tell honest
   error from attack except by the same monitor. Then the lead's criterion
   is met only with honest evaluators, by role-limited audit, and under
   compromise the trade-off was moved by no architecture, only relocated
@@ -56,11 +56,11 @@ summary: >-
 
 ## The claim
 
-The numbers are CLAIM-tmpf0b31's; the reading differs in what counts as
+The numbers are [CLAIM-tmpf0b31](CLAIM-tmpf0b31.md)'s; the reading differs in what counts as
 suppressing honest participation. A safeguard that suspends 72% of the
 honest majority and 36% of the dissenters at some point, on the word of
 one monitor, has put the members' capacity to propose under the
-monitor's judgement, and CLAIM-359's concern is exactly the capacity of
+monitor's judgement, and [CLAIM-359](CLAIM-359.md)'s concern is exactly the capacity of
 constituents to influence and revise. The arm stops the attack by
 spending that capacity, and the spending is controlled by a process
 whose compromise turns it against the dissenters (100% suspended) and

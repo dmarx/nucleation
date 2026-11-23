@@ -308,14 +308,14 @@ promoted it (version 2), and are of their time: the claim is Active.
 ## Note of 2026-11-23: both halves, in a run of the design
 <!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmp26exz CLAIM-tmpd6gon CLAIM-tmpf0b31 CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
 
-CASE-tmpqnoj1 runs CASE-108. Both halves appear. A safeguard serving both:
+[CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) runs [CASE-108](../cases.d/CASE-108.md). Both halves appear. A safeguard serving both:
 role-limited audit by evaluators with evidence of their own, judging
 only where they hold it, cut attack success to about 0 and raised the
-minority's capability from 0.27 to 0.92 (CLAIM-tmp26exz). Safeguards that trade
+minority's capability from 0.27 to 0.92 ([CLAIM-tmp26exz](CLAIM-tmp26exz.md)). Safeguards that trade
 off: reputation by validation against the majority's prior stopped the
 overt attack and left the dissenters where they were, and with
 evaluators compromised it suppressed them (0.06 of parity). The
-trade-off moved only with evidence independent of the proposals (CLAIM-tmpxoxys),
-and compromise of that evidence relocated it (CLAIM-tmpd6gon). Whether the
-adaptive arm moved it under compromise is filed as two readings, CLAIM-tmpf0b31
-and CLAIM-tmp3t5y3. Nothing meets the defeat condition. The claim is unchanged.
+trade-off moved only with evidence independent of the proposals ([CLAIM-tmpxoxys](CLAIM-tmpxoxys.md)),
+and compromise of that evidence relocated it ([CLAIM-tmpd6gon](CLAIM-tmpd6gon.md)). Whether the
+adaptive arm moved it under compromise is filed as two readings, [CLAIM-tmpf0b31](CLAIM-tmpf0b31.md)
+and [CLAIM-tmp3t5y3](CLAIM-tmp3t5y3.md). Nothing meets the defeat condition. The claim is unchanged.

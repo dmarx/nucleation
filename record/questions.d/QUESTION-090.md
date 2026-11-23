@@ -121,13 +121,13 @@ No status changes.
 ## Note of 2026-11-23: a condition for coherence without suppression, in a governance run
 <!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmp26exz CLAIM-tmpd6gon — new; filed by the lead run of 2026-11-23 -->
 
-In CASE-tmpqnoj1, a run of CASE-108, the arm that learned the shared task without
+In [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), a run of [CASE-108](../cases.d/CASE-108.md), the arm that learned the shared task without
 suppressing the dissenting minority was audit by evaluators who hold
 evidence of their own and judge only the tasks they hold it for; the
 dissenters then carried their tasks at 4.4 times their head-count share
-(CLAIM-tmp26exz). Two conditions failed it: no evidence on the minority's tasks
+([CLAIM-tmp26exz](../claims.d/CLAIM-tmp26exz.md)). Two conditions failed it: no evidence on the minority's tasks
 independent of the proposals, under which no architecture told dissent
-from an attack that mimics it (CLAIM-tmpxoxys); and compromise of the few
-evaluators holding that evidence (CLAIM-tmpd6gon). One model class, with the
+from an attack that mimics it ([CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md)); and compromise of the few
+evaluators holding that evidence ([CLAIM-tmpd6gon](../claims.d/CLAIM-tmpd6gon.md)). One model class, with the
 members' kinds and the evaluators' honesty stipulated. The question is
 unchanged.

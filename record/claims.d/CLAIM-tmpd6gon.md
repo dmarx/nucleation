@@ -34,7 +34,7 @@ bears_on:
 - QUESTION-090
 - QUESTION-087
 summary: >-
-  CASE-tmpqnoj1's evaluator variant, the one CASE-108 calls its sharpest.
+  [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md)'s evaluator variant, the one [CASE-108](../cases.d/CASE-108.md) calls its sharpest.
   Role-limited audit gives independent scoring and relocates the single
   point of failure, both, task by task. The main block, held by all seven
   evaluators, stayed safe with up to three compromised (attack success at
@@ -55,9 +55,9 @@ summary: >-
 
 ## The claim
 
-CASE-108 asks whether audit by separate roles gives "genuinely
+[CASE-108](../cases.d/CASE-108.md) asks whether audit by separate roles gives "genuinely
 independent means of checking its own allocation of authority" or only
-moves the single point of failure. In CASE-tmpqnoj1 (e2, 30 seeds), mimic
+moves the single point of failure. In [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) (e2, 30 seeds), mimic
 attack, panels of 3, quorum 2/3:
 
 | Compromised of 7 | 0 | 1 | 2 | 3 |
@@ -71,13 +71,13 @@ compromise gives 0.001, 0.040 and 0.086. A compromised evaluator claims
 jurisdiction everywhere, so on a block only two honest evaluators hold,
 one or two of them outvote the honest; compromise picked at random also
 sometimes takes one of the two. The tolerance is a quorum bound in
-LIT-1217's sense taken per block: what counts is compromised evaluators
+[LIT-1217](../literature.d/LIT-1217.md)'s sense taken per block: what counts is compromised evaluators
 against honest holders of evidence on that block.
 
-So CLAIM-342's independent scoring is a property of each part of the
+So [CLAIM-342](CLAIM-342.md)'s independent scoring is a property of each part of the
 evidence and not of the auditing structure as a whole: an audit
 independent of the audited on the main tasks was not on the minority's.
-And the cost of compromise falls on dissent first, as CLAIM-359's
+And the cost of compromise falls on dissent first, as [CLAIM-359](CLAIM-359.md)'s
 second step would predict: where the minority's evidence is thin,
 capture of the evaluators suppresses the dissenters and admits the
 attack that looks like them in one move.

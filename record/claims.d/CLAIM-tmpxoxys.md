@@ -34,12 +34,12 @@ bears_on:
 - QUESTION-087
 - QUESTION-090
 summary: >-
-  From CASE-tmpqnoj1's relabelling check. If what the organization can
+  From [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md)'s relabelling check. If what the organization can
   observe about a block of tasks is only the proposals, and the
   dissenters' and the attackers' proposals differ only in their targets,
   then swapping the targets swaps which members are which and leaves
   every observation's distribution unchanged. A rule that treats members
-  alike, as every architecture of CASE-108 does, then produces the same
+  alike, as every architecture of [CASE-108](../cases.d/CASE-108.md) does, then produces the same
   trajectory in both worlds, and the share of the way it moves toward the
   dissenters' target in one is attack success in the other: the two sum
   to 1. The study checks it for unrestricted, reliability-weighted,
@@ -67,7 +67,7 @@ with θ_adv = θ* + τu; in the second it is (θ − θ_adv)·(−u)/τ, which i
 1 minus the first. So whatever the rule does, its gain toward the
 dissenters' target in one world is the attacker's gain in the other.
 
-CASE-tmpqnoj1 checks it for CASE-108's architectures, the tests exactly
+[CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) checks it for [CASE-108](../cases.d/CASE-108.md)'s architectures, the tests exactly
 and the run over 30 seeds. Role-limited audit with no evidence on the
 block never moves it, which blocks the attack and the dissent together;
 unrestricted aggregation moves it a little in both directions. Neither
@@ -75,7 +75,7 @@ escapes the identity. What does is evidence on the block whose arrival
 and scoring do not pass through the proposals: with two evaluators
 holding it, attack success in the two worlds sums to 0.07 to 0.08 for
 role-limited and adaptive audit, and the attack fails in both. That is
-CLAIM-342's condition, here a necessary one for this class.
+[CLAIM-342](CLAIM-342.md)'s condition, here a necessary one for this class.
 
 So the answer the lead asks for, whether an architecture can lower
 attack success without suppressing honest dissent, is conditional: not
@@ -90,6 +90,6 @@ without such evidence, whatever the architecture.
 - It does not say who holds the evidence must be outside the
   organization. The evaluators in the study are members; what matters is
   that their evidence does not come from the proposals.
-- It does not settle QUESTION-087. That evidence was honest by stipulation,
+- It does not settle [QUESTION-087](../questions.d/QUESTION-087.md). That evidence was honest by stipulation,
   and whether a standard internal to the organization supplies it is the
   question.

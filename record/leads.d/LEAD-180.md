@@ -59,27 +59,27 @@ none says it cannot in this class.
 
 Done by the assistant as a delegated lead worker, in a small federated
 learner (scratch/studies/lead-180/, about 4 minutes of CPU, 19 tests).
-CASE-108's four architectures, two readings of the reliability-weighted
+[CASE-108](../cases.d/CASE-108.md)'s four architectures, two readings of the reliability-weighted
 one (by agreement, by validation) and an oracle, over cooperative,
 honestly dissenting and adversarial specialists, with an overt attack
 and one that mimics dissent; the variant compromising 0 to 3 of 7
 evaluators, or one central evaluator, and the adaptive arm's monitor;
 and a relabelling check in which dissenters' and attackers' targets are
-swapped. Filed as CASE-tmpqnoj1, with CLAIM-tmpxoxys, CLAIM-tmp26exz, CLAIM-tmpd6gon, and CLAIM-tmpf0b31 and CLAIM-tmp3t5y3 as
-alternatives (the assistant leans to CLAIM-tmpf0b31).
+swapped. Filed as [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), with [CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md), [CLAIM-tmp26exz](../claims.d/CLAIM-tmp26exz.md), [CLAIM-tmpd6gon](../claims.d/CLAIM-tmpd6gon.md), and [CLAIM-tmpf0b31](../claims.d/CLAIM-tmpf0b31.md) and [CLAIM-tmp3t5y3](../claims.d/CLAIM-tmp3t5y3.md) as
+alternatives (the assistant leans to [CLAIM-tmpf0b31](../claims.d/CLAIM-tmpf0b31.md)).
 
 By the lead's "What would count": with honest evaluators, role-limited
 audit by evaluators who hold their own evidence and judge only where they
 hold it lowered attack success to about 0 and raised the minority's
-capability from 0.27 to 0.92, so CLAIM-359's trade-off can be moved in
+capability from 0.27 to 0.92, so [CLAIM-359](../claims.d/CLAIM-359.md)'s trade-off can be moved in
 this class. Without evidence on the minority's tasks independent of the
-proposals, no architecture can move it (CLAIM-tmpxoxys). With 2 of 7 evaluators
+proposals, no architecture can move it ([CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md)). With 2 of 7 evaluators
 compromised, role-limited audit no longer moved it on the minority's
-tasks (CLAIM-tmpd6gon); whether the adaptive arm does depends on whether
+tasks ([CLAIM-tmpd6gon](../claims.d/CLAIM-tmpd6gon.md)); whether the adaptive arm does depends on whether
 suspending honest members for honest error counts as suppression, which
-is the owner's choice between CLAIM-tmpf0b31 and CLAIM-tmp3t5y3.
+is the owner's choice between [CLAIM-tmpf0b31](../claims.d/CLAIM-tmpf0b31.md) and [CLAIM-tmp3t5y3](../claims.d/CLAIM-tmp3t5y3.md).
 
-What remains: CASE-108's second variant in its own form (a legitimate
+What remains: [CASE-108](../cases.d/CASE-108.md)'s second variant in its own form (a legitimate
 novel task that looks like an attack, outside the mimic's mirror); a
 real federated testbed; evaluators whose honesty and jurisdiction are
 not given by stipulation; and adaptive governance that revises its own

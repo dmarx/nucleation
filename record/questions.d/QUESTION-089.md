@@ -127,11 +127,11 @@ the unheeded. The question is unchanged.
 ## Note of 2026-11-23: dissent that improved the learner where authority could move to it
 <!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmp26exz CLAIM-tmpd6gon — new; filed by the lead run of 2026-11-23 -->
 
-In CASE-tmpqnoj1, honest dissenters who alone held data on a block of tasks raised
+In [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), honest dissenters who alone held data on a block of tasks raised
 its capability from 0.27 (unrestricted aggregation) to 0.92 where
 authority over that block could move to them, under role-limited audit
-by evaluators holding their own evidence on it (CLAIM-tmp26exz), and not where it
+by evaluators holding their own evidence on it ([CLAIM-tmp26exz](../claims.d/CLAIM-tmp26exz.md)), and not where it
 could not (reputation by agreement or by validation against the
 majority's prior). With the evaluators of that block compromised, the
 move failed and their influence fell from 4.2 to 0.9 times parity
-(CLAIM-tmpd6gon). The question is unchanged.
+([CLAIM-tmpd6gon](../claims.d/CLAIM-tmpd6gon.md)). The question is unchanged.

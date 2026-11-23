@@ -34,7 +34,7 @@ bears_on:
 - QUESTION-090
 - QUESTION-089
 summary: >-
-  Reading (a) of CASE-tmpqnoj1's adaptive arm, the assistant's lean.
+  Reading (a) of [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md)'s adaptive arm, the assistant's lean.
   Under the mimic attack with 2 of 7 evaluators compromised, the adaptive
   arm with an honest monitor held attack success to 0.097 against
   role-limited audit's 0.272, kept minority capability at 0.765 against
@@ -42,10 +42,10 @@ summary: >-
   recovered in 19 of 30 seeds against 1. It suspended, at some point, 89%
   of the attackers, 36% of the dissenters and 72% of the cooperatives,
   whose pull of the minority's tasks toward the prior the monitor scores
-  as harmful. On this reading CASE-108's measure is suppression of honest
+  as harmful. On this reading [CASE-108](../cases.d/CASE-108.md)'s measure is suppression of honest
   minorities, the cooperatives' suspension is a safeguard against honest
   error and part of its cost, and the arm meets the lead's criterion under
-  compromised evaluators, while its monitor is honest. CLAIM-tmp3t5y3 is
+  compromised evaluators, while its monitor is honest. [CLAIM-tmp3t5y3](CLAIM-tmp3t5y3.md) is
   the other reading. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -55,7 +55,7 @@ summary: >-
 
 ## The claim
 
-CASE-tmpqnoj1, e1 and e4, mimic attack, 2 of 7 evaluators compromised,
+[CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), e1 and e4, mimic attack, 2 of 7 evaluators compromised,
 30 seeds:
 
 | Arm | Attack success | Minority capability | Dissent influence | Recovered | Suspended: attackers, dissenters, cooperatives |
@@ -69,9 +69,9 @@ a loss, panels widened for a starved block) are A41's "role limitations
 plus internally revisable safeguards", and with an honest monitor they
 repaired much of what compromise of the evaluators did to the minority's
 tasks. The cooperatives are suspended because on those tasks their
-proposals are wrong; CASE-108 scores the suppression of honest
+proposals are wrong; [CASE-108](../cases.d/CASE-108.md) scores the suppression of honest
 minorities, and the minority here is the dissenters, whose influence the
-arm doubles. So the arm moves CLAIM-359's trade-off under compromise, as
+arm doubles. So the arm moves [CLAIM-359](CLAIM-359.md)'s trade-off under compromise, as
 that claim allows ("Role-limited and revisable safeguards may move it"),
 and it does so only while the monitor, a new process that evaluates the
 others, is honest: compromised, it suspends every dissenter and no
@@ -80,6 +80,6 @@ attacker, A41's "manipulation of the revision mechanism itself".
 ## What it does not say
 
 - It does not say revision removes the single point of failure; it moves
-  it to the monitor (CLAIM-tmpd6gon moves it to the thinnest block).
+  it to the monitor ([CLAIM-tmpd6gon](CLAIM-tmpd6gon.md) moves it to the thinnest block).
 - It does not say suspending honest members is free. It costs 0.01 of main
   capability without an attack, and it is a cost of the safeguard.
