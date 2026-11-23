@@ -30,7 +30,7 @@ summary: >-
   together. The authors frame the contrast as "input-based and
   incentive-based policies", not as place. On this reading the case shows
   that equal budgets can differ threefold in one organization, which
-  [CLAIM-562](CLAIM-562.md) needs, but not that place is what makes the difference;
+  CLAIM-562 needs, but not that place is what makes the difference;
   testing that needs arms of one instrument at two places, or two
   instruments at one place. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
@@ -41,7 +41,7 @@ summary: >-
 
 ## The objection
 
-[CLAIM-tmpqrmoy](CLAIM-tmpqrmoy.md) reads Muralidharan and Sundararaman's arms ([THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md))
+CLAIM-tmpqrmoy reads Muralidharan and Sundararaman's arms (THEORY-tmpmwhm1)
 as three places of one budget. They are also two instruments: "the input
 treatments ... were provided unconditionally to the selected schools at
 the beginning of the school year, while the incentive treatments
@@ -52,7 +52,7 @@ relative effectiveness of input-based and incentive-based policies".
 A conditional payment changes what the people in the organization aim
 at, wherever it is placed; an unconditional resource does not. The
 threefold gap could come from that, not from where the money entered. In
-[CLAIM-562](CLAIM-562.md)'s mechanical systems the actuators are all of one kind and only
+CLAIM-562's mechanical systems the actuators are all of one kind and only
 their place varies; here place and kind move together.
 
 ## What would settle it
@@ -66,4 +66,4 @@ present teachers' effort).
 
 - That the case meets the standard set before coding, and that equal
   budgets differed threefold in one organization.
-- That it illustrates [CLAIM-562](CLAIM-562.md).
+- That it illustrates CLAIM-562.

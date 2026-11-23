@@ -40,7 +40,7 @@ summary: >-
 
 ## The account
 
-Banerjee and colleagues ([NOTE-tmpz3ek2](../notes.d/NOTE-tmpz3ek2.md)): "Improving reliability of
+Banerjee and colleagues (NOTE-tmpz3ek2): "Improving reliability of
 services improves immunisation rates, but the effect remains modest.
 Small incentives have large positive impacts on the uptake of
 immunisation services in resource poor areas and are more cost effective

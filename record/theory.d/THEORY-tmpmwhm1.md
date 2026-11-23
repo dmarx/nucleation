@@ -44,7 +44,7 @@ summary: >-
 
 ## The account
 
-Muralidharan and Sundararaman ([NOTE-tmphqrk0](../notes.d/NOTE-tmphqrk0.md)) set the incentive and
+Muralidharan and Sundararaman (NOTE-tmphqrk0) set the incentive and
 input arms of one randomized study to cost about the same per school, and
 find that "performance-based bonus payments to teachers were a
 significantly more cost effective way of increasing student test scores

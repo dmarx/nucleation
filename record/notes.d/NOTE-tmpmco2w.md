@@ -81,13 +81,13 @@ facility used.
 
 ## Bearing on the record
 
-- **[LEAD-044](../leads.d/LEAD-044.md)**, as a stand-in for Vledder et al. ([LIT-tmpuedwt](../literature.d/LIT-tmpuedwt.md)). The pilot's
+- **LEAD-044**, as a stand-in for Vledder et al. (LIT-tmpuedwt). The pilot's
   two arms act at different tiers of one supply chain: picking, packing
   and stock at the district, or at the national warehouse. Leung et al.
   report that B did better; they give no costs per arm, so the pilot
   cannot be coded at equal budget from this reading. See
-  [CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md).
-- **[CLAIM-562](../claims.d/CLAIM-562.md)**, as a parallel. The paper's own finding is that a
+  CASE-tmpjfl6r.
+- **CLAIM-562**, as a parallel. The paper's own finding is that a
   rule shared by both arms, the order-up-to target, binds at the clinic:
   raising the amount held ("increasing the target multiple") buys service
   at a steep price in stock, while the authors place the remedy in central

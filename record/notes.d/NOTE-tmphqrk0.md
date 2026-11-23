@@ -33,7 +33,7 @@ summary: >-
 ## Contribution
 
 The paper's subject is teacher performance pay, and its design adds what
-[LEAD-044](../leads.d/LEAD-044.md) asks for: in the same randomized study (AP RESt), two other sets
+LEAD-044 asks for: in the same randomized study (AP RESt), two other sets
 of 100 schools received inputs worth about the same, so incentives and
 inputs are compared at one budget in one school system.
 
@@ -86,16 +86,16 @@ inputs are compared at one budget in one school system.
 
 ## Bearing on the record
 
-- **[CLAIM-562](../claims.d/CLAIM-562.md)** (placement predicts better than count). An
+- **CLAIM-562** (placement predicts better than count). An
   organizational instance at equal budget: the arm acting on the effort of
   teachers already present did three times as much as arms adding a
   teacher or materials. Whether the arms differ in place or only in
   instrument is the question of the two readings this run files; see
-  [CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md).
-- **[QUESTION-380](../questions.d/QUESTION-380.md)**: evidence that where an equal budget enters a
+  CASE-tmpjfl6r.
+- **QUESTION-380**: evidence that where an equal budget enters a
   production structure can matter more than its size; the paper gives no
   predictor computed from the structure.
-- **The second half of [CLAIM-562](../claims.d/CLAIM-562.md)** (adding can hurt): not tested; no
+- **The second half of CLAIM-562** (adding can hurt): not tested; no
   school had two treatments.
 
 ## Limitations

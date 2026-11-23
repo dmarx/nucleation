@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 ([NOTE-tmpmco2w](../notes.d/NOTE-tmpmco2w.md)) in full through NCBI E-utilities,
+  read 2026-11-23 (NOTE-tmpmco2w) in full through NCBI E-utilities,
   supplement S1 not read; registered as a stand-in for Vledder et al.,
-  [LIT-tmpuedwt](LIT-tmpuedwt.md), which was not reached, and worth reading in its own right
+  LIT-tmpuedwt, which was not reached, and worth reading in its own right
   as a validated simulation tracing stock-outs in Zambia's clinics to the
   max-min inventory policy while the national warehouse held ample stock.
   It restates the pilot's two arms and its headline result, not its costs.
@@ -54,7 +54,7 @@ Leung, N.-H. Z., Chen, A., Yadav, P. & Gallien, J. (2016). The Impact of Invento
 
 ## Key takeaways
 
-*From the reading, [NOTE-tmpmco2w](../notes.d/NOTE-tmpmco2w.md) (full text; supplement S1 not read).*
+*From the reading, NOTE-tmpmco2w (full text; supplement S1 not read).*
 
 - **The pilot's two arms.** "Intervention A maintained intermediary stock
   with picking and packing activities in district stores; Intervention B
@@ -69,9 +69,9 @@ Leung, N.-H. Z., Chen, A., Yadav, P. & Gallien, J. (2016). The Impact of Invento
 
 ## Standing in the record
 
-Registered as a stand-in for Vledder et al. ([LIT-tmpuedwt](LIT-tmpuedwt.md)), the pilot's
+Registered as a stand-in for Vledder et al. (LIT-tmpuedwt), the pilot's
 primary evaluation, which was not reached. It stands in for the pilot's
 design and its headline result as Leung et al. report them; it does not
-stand in for Vledder et al.'s costs or effect sizes. For [LEAD-044](../leads.d/LEAD-044.md) it is
+stand in for Vledder et al.'s costs or effect sizes. For LEAD-044 it is
 the closest case of its kind, lacking costs. Filed from it:
-[THEORY-tmp8j9f4](../theory.d/THEORY-tmp8j9f4.md). No instruction for machine-learning practice.
+THEORY-tmp8j9f4. No instruction for machine-learning practice.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 ([NOTE-tmphqrk0](../notes.d/NOTE-tmphqrk0.md)) from the NBER working paper w15323
+  read 2026-11-23 (NOTE-tmphqrk0) from the NBER working paper w15323
   (September 2009), the version before the Journal of Political Economy
   article; worth reading as an evaluation in which arms calibrated to equal
   cost act at different places in one school system and differ threefold
@@ -56,7 +56,7 @@ Muralidharan, K. & Sundararaman, V. (2009). Teacher Performance Pay: Experimenta
 
 ## Key takeaways
 
-*From the reading, [NOTE-tmphqrk0](../notes.d/NOTE-tmphqrk0.md) (sections 1, 3, 7, 9 and Table 9 of the working paper).*
+*From the reading, NOTE-tmphqrk0 (sections 1, 3, 7, 9 and Table 9 of the working paper).*
 
 - **Four arms, one school system, one budget.** Two input arms (an extra
   contract teacher; a block grant for materials) and two incentive arms
@@ -74,8 +74,8 @@ Muralidharan, K. & Sundararaman, V. (2009). Teacher Performance Pay: Experimenta
 
 ## Standing in the record
 
-Filed for [LEAD-044](../leads.d/LEAD-044.md), which asked for documented interventions of similar cost
+Filed for LEAD-044, which asked for documented interventions of similar cost
 at different places in one organization. It is the one case of the lead
 run that meets the standard written before coding. It bears on
-[CLAIM-562](../claims.d/CLAIM-562.md) and [QUESTION-380](../questions.d/QUESTION-380.md). Filed from it: [THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md). No
+CLAIM-562 and QUESTION-380. Filed from it: THEORY-tmpmwhm1. No
 instruction for machine-learning practice.

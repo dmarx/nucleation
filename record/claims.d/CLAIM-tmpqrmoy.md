@@ -44,8 +44,8 @@ summary: >-
   raised test scores by 0.27 SD and the two inputs, pooled, by 0.09 SD.
   Read as placement, the bonus acted at the effort of teachers already
   present, the inputs at staff and materials, and the threefold difference
-  at one budget is the organizational form of [CLAIM-562](CLAIM-562.md)'s first half.
-  Rival reading: [CLAIM-tmphbmpy](CLAIM-tmphbmpy.md). The wording is the assistant's (Claude, in
+  at one budget is the organizational form of CLAIM-562's first half.
+  Rival reading: CLAIM-tmphbmpy. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmphbmpy THEORY-tmpmwhm1 CASE-tmpjfl6r — new; filed by the lead run of 2026-11-23 -->
@@ -54,7 +54,7 @@ summary: >-
 
 ## The claim
 
-The case ([CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md); [THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md)) is a school system in which
+The case (CASE-tmpjfl6r; THEORY-tmpmwhm1) is a school system in which
 learning is produced through staff, materials and the effort of staff
 already present. Three arms of one budget entered at three of these
 places. The arm at effort did three times as much: "The individual
@@ -65,16 +65,16 @@ mechanism at effort, not presence: "not increased teacher attendance, but
 greater (and more effective) teaching effort conditional on being
 present."
 
-In [CLAIM-562](CLAIM-562.md)'s terms, budget is the amount, held equal, and the effect is
+In CLAIM-562's terms, budget is the amount, held equal, and the effect is
 fixed by which part of the structure the budget engages. A budget count
 would rank the three arms equal; they are not.
 
 ## How it relates
 
-- **[CLAIM-562](CLAIM-562.md)**: corroborates its first half in an organization, which its
+- **CLAIM-562**: corroborates its first half in an organization, which its
   own text left as "an analogy". Independent of the mechanical systems
   it rests on.
-- **[CLAIM-tmphbmpy](CLAIM-tmphbmpy.md)** objects: the arms differ in instrument as well as in
+- **CLAIM-tmphbmpy** objects: the arms differ in instrument as well as in
   place, and the design does not separate the two.
 
 ## What it does not say
