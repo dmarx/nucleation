@@ -30,11 +30,11 @@ complements:
 - CLAIM-tmp0doyo
 bears_on:
 - QUESTION-494
-summary: 'The assistant''s, after the owner''s ruling (CLAIM-tmpwjpc8) that
+summary: 'The assistant''s, after the owner''s ruling ([CLAIM-tmpwjpc8](CLAIM-tmpwjpc8.md)) that
   computational mechanics and nonlinear dynamics take precedence in the record''s
-  account of wu-wei. It reads effortless action through THEORY-026, using
-  TERM-062''s causal states, and carries that theory''s own feedback limit.
-  Supposed: it is a reading of an Active account (THEORY-026) beyond the scope that account states. The wording is the
+  account of wu-wei. It reads effortless action through [THEORY-026](../theory.d/THEORY-026.md), using
+  [TERM-062](../terms.d/TERM-062.md)''s causal states, and carries that theory''s own feedback limit.
+  Supposed: it is a reading of an Active account ([THEORY-026](../theory.d/THEORY-026.md)) beyond the scope that account states. The wording is the
   assistant''s (Claude, in this session); adopting it is the owner''s call.'
 ---
 
@@ -44,24 +44,24 @@ summary: 'The assistant''s, after the owner''s ruling (CLAIM-tmpwjpc8) that
 
 ## The reading
 
-THEORY-026, for a system driven without feedback through fixed kernels,
+[THEORY-026](../theory.d/THEORY-026.md), for a system driven without feedback through fixed kernels,
 says the average work dissipated at each switch of the drive equals
 I[s_t; x_t] − I[s_t; x_{t+1}]. That is the memory the system keeps of the
 current input that does not carry over to the next. Summed over a
 protocol it bounds dissipation below. "Predictive memory costs nothing
-in it." A memory that holds only the causal states of its drive (TERM-062:
+in it." A memory that holds only the causal states of its drive ([TERM-062](../terms.d/TERM-062.md):
 the coarsest partition of pasts that is prescient for the future) keeps
 nothing that fails to predict, so it wastes nothing.
 
 Read as an account of effortlessness, this adds a third axis to
-CLAIM-541's timing and CLAIM-tmp0doyo's direction: economy of memory. An
+[CLAIM-541](CLAIM-541.md)'s timing and [CLAIM-tmp0doyo](CLAIM-tmp0doyo.md)'s direction: economy of memory. An
 actor whose state is shaped to what its situation will do next pays
 nothing for being moved by it. Strain is keeping what does not predict:
 nostalgia, in the source's own term.
 
 ## The limit, which is the point for action
 
-Wu-wei is action, and action feeds back on its situation. THEORY-026
+Wu-wei is action, and action feeds back on its situation. [THEORY-026](../theory.d/THEORY-026.md)
 carries the feedback case from Fiderer et al. Without feedback the
 efficient agents are exactly those that are maximally predictive and
 "randomise-and-forget their actions", which is Boyd, Mandal and
@@ -73,13 +73,13 @@ zero", and the efficient agent is memoryless.
 
 So under feedback the reading must not equate effortlessness with
 prediction. What is economical in the one worked case is an agent that
-does not keep its own actions. QUESTION-494 asks which partition a
+does not keep its own actions. [QUESTION-494](../questions.d/QUESTION-494.md) asks which partition a
 dissipation-minimizing memory keeps in such a loop. This supposition
 bears on it: it would make that question the record's formal question
 about effortless action.
 
 ## Why supposed
 
-THEORY-026 is Active, but its feedback result is one channel. The step
+[THEORY-026](../theory.d/THEORY-026.md) is Active, but its feedback result is one channel. The step
 from dissipated work to felt or organizational effort is a reading, not
 a derivation.

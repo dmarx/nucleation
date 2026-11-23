@@ -7,5 +7,5 @@
 
 ### Changed
 
-- At the owner's ruling, computational mechanics and nonlinear dynamics take precedence over sinology in the record's account of wu-wei: CLAIM-541's defeater is narrowed (version 3), the assistant's two wu-wei claims and its reading lead are restated as glosses or checks on the name, and a computational-mechanics reading of effortless action is filed.
+- At the owner's ruling, computational mechanics and nonlinear dynamics take precedence over sinology in the record's account of wu-wei: [CLAIM-541](record/claims.d/CLAIM-541.md)'s defeater is narrowed (version 3), the assistant's two wu-wei claims and its reading lead are restated as glosses or checks on the name, and a computational-mechanics reading of effortless action is filed.
 - The read-and-file skill (step 9) now says that an entry's heading repeats its title word for word, and how to check only one's own files before pushing. Twenty-two entries drafted by section workers in this filing had shortened headings, which docs-check failed.

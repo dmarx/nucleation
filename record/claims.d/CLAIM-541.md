@@ -129,10 +129,10 @@ these readings.
 
 ## Note of 2026-11-23: the owner's ruling on precedence
 
-The owner ruled (CLAIM-tmpwjpc8) that the computational-mechanics and
+The owner ruled ([CLAIM-tmpwjpc8](CLAIM-tmpwjpc8.md)) that the computational-mechanics and
 nonlinear-dynamics perspectives take precedence over the sinological one
 in the record's account of wu-wei. This claim's defeater is narrowed
 accordingly (version 3). A computational-mechanics reading is filed
 beside it: effortlessness as predictive economy of memory, with the
-feedback limit that keeps it from being mere prediction (CLAIM-tmpcbdgm).
+feedback limit that keeps it from being mere prediction ([CLAIM-tmpcbdgm](CLAIM-tmpcbdgm.md)).
 

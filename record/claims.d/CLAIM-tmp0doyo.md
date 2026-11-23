@@ -77,6 +77,6 @@ already moves as expected.
 formula by the eigendecomposition of W_H. [CLAIM-541](CLAIM-541.md) states timing, not
 direction. Neither entry states the ordering by direction, and it is
 what the reading uses. The reading itself is interpretive. It is
-defeated by its `defeated_if`. Under the owner's ruling (CLAIM-tmpwjpc8)
-the sinological reading, unread (LIT-1994), bears on whether the name
+defeated by its `defeated_if`. Under the owner's ruling ([CLAIM-tmpwjpc8](CLAIM-tmpwjpc8.md))
+the sinological reading, unread ([LIT-1994](../literature.d/LIT-1994.md)), bears on whether the name
 fits, not on the account.

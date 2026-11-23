@@ -91,10 +91,10 @@ literature, not checked. [LIT-1994](../literature.d/LIT-1994.md) is unread.)
 
 ## Precedence (the owner's ruling of 2026-11-23)
 
-The account is CLAIM-tmpm985y's, in dynamical terms. The paradox and
+The account is [CLAIM-tmpm985y](CLAIM-tmpm985y.md)'s, in dynamical terms. The paradox and
 the two routes gloss it. They name a familiar shape and point the account
 at its two failure modes, but they are not evidence for or against it.
-CLAIM-tmpwjpc8 records the ruling.
+[CLAIM-tmpwjpc8](CLAIM-tmpwjpc8.md) records the ruling.
 
 ## Why supposed
 

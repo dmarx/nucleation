@@ -52,7 +52,7 @@ LIT, a NOTE and a THEORY. Read it for three things:
 
 ## Its standing
 
-Under the owner's ruling (CLAIM-tmpwjpc8) the readings it checks are
+Under the owner's ruling ([CLAIM-tmpwjpc8](../claims.d/CLAIM-tmpwjpc8.md)) the readings it checks are
 glosses on dynamical claims. What it finds bears on the name, not on the
 account.
 
