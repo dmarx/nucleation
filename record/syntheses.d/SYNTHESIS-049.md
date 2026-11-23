@@ -3,8 +3,8 @@ number: 49
 status: Proposed
 formerly:
 - SYNTHESIS-tmp8lbdb
-title: 'The distributed-agency line is ten part accounts, of conferral and authority, of availability before a deadline, of partners coming to depend on one another, of perspectives, legibility and correction, of the unit of a combined form, of individuation, of frustration among demands, of persistence, of world-modeling and of collective stance, with twenty-one entries integrated directly; conferral, frustration and perspectives are joined by complements over self-confirming authority and what a legibility regime admits, unit and individuation by the boundary test and its objection, and persistence by the slow variable and the senses of persistence; no link between the parts that no part states passes the claim test'
-version: 2
+title: 'The distributed-agency line is ten part accounts, of conferral and authority, of availability before a deadline, of partners coming to depend on one another, of perspectives, legibility and correction, of the unit of a combined form, of individuation, of frustration among demands, of persistence, of world-modeling and of collective stance, with twenty-two entries integrated directly; conferral, frustration and perspectives are joined by complements over self-confirming authority and what a legibility regime admits, unit and individuation by the boundary test and its objection, and persistence by the slow variable and the senses of persistence; no link between the parts that no part states passes the claim test'
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -16,6 +16,29 @@ history:
     Their counts here change to 101, 73 and 30. Other entries filed on
     the line since this account was written are not all integrated,
     and are for the line's next review. Nothing else changes.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-453,
+    CASE-375, QUESTION-450, QUESTION-451, QUESTION-452, QUESTION-455,
+    QUESTION-469, QUESTION-490, CASE-276, CASE-278, QUESTION-459 and
+    QUESTION-474, in-force entries of the line no account integrated.
+    QUESTION-453 is integrated directly, with the selflessness group; the
+    others went to part accounts, SYNTHESIS-048 (four), SYNTHESIS-054
+    (two), SYNTHESIS-051 (one) and SYNTHESIS-056 (four), and their counts
+    under the parts follow (SYNTHESIS-048's also counts the three claims
+    its version 2 added). The title was: "The distributed-agency line is
+    ten part accounts, of conferral and authority, of availability before
+    a deadline, of partners coming to depend on one another, of
+    perspectives, legibility and correction, of the unit of a combined
+    form, of individuation, of frustration among demands, of persistence,
+    of world-modeling and of collective stance, with twenty-one entries
+    integrated directly; conferral, frustration and perspectives are
+    joined by complements over self-confirming authority and what a
+    legibility regime admits, unit and individuation by the boundary test
+    and its objection, and persistence by the slow variable and the senses
+    of persistence; no link between the parts that no part states passes
+    the claim test"
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the distributed-agency line that neither a part
@@ -60,6 +83,7 @@ integrates:
 - QUESTION-347
 - QUESTION-348
 - QUESTION-352
+- QUESTION-453
 summary: >-
   The account of the distributed-agency line, over the accounts of its
   ten parts: conferral and authority ([SYNTHESIS-050](SYNTHESIS-050.md)), availability
@@ -68,7 +92,7 @@ summary: >-
   of a combined form ([SYNTHESIS-054](SYNTHESIS-054.md)), individuation
   ([SYNTHESIS-048](SYNTHESIS-048.md)), frustration ([SYNTHESIS-051](SYNTHESIS-051.md)), persistence
   ([SYNTHESIS-047](SYNTHESIS-047.md)), world-modeling ([SYNTHESIS-055](SYNTHESIS-055.md)) and collective
-  stance ([SYNTHESIS-052](SYNTHESIS-052.md)). Twenty-one entries no part takes are
+  stance ([SYNTHESIS-052](SYNTHESIS-052.md)). Twenty-two entries no part takes are
   integrated directly: the owner's thesis on selflessness with its
   objections and questions, [CLAIM-045](../claims.d/CLAIM-045.md)'s complementarity with the claim it
   corrected, [QUESTION-365](../questions.d/QUESTION-365.md), and ten questions that link to nothing in the
@@ -81,7 +105,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-295 — Answered; cited as it refines QUESTION-083 -->
 <!-- inactive-ok-file: CASE-028 — Superseded by CASE-006; named as not integrated -->
 
-# SYNTHESIS-049: The distributed-agency line is ten part accounts, of conferral and authority, of availability before a deadline, of partners coming to depend on one another, of perspectives, legibility and correction, of the unit of a combined form, of individuation, of frustration among demands, of persistence, of world-modeling and of collective stance, with twenty-one entries integrated directly; conferral, frustration and perspectives are joined by complements over self-confirming authority and what a legibility regime admits, unit and individuation by the boundary test and its objection, and persistence by the slow variable and the senses of persistence; no link between the parts that no part states passes the claim test
+# SYNTHESIS-049: The distributed-agency line is ten part accounts, of conferral and authority, of availability before a deadline, of partners coming to depend on one another, of perspectives, legibility and correction, of the unit of a combined form, of individuation, of frustration among demands, of persistence, of world-modeling and of collective stance, with twenty-two entries integrated directly; conferral, frustration and perspectives are joined by complements over self-confirming authority and what a legibility regime admits, unit and individuation by the boundary test and its objection, and persistence by the slow variable and the senses of persistence; no link between the parts that no part states passes the claim test
 
 *The account of the distributed-agency line ("Distributed agency": what an organized whole is, and how its operative direction relates to its members'), over the accounts of its parts ([ADR-083](../decisions.d/ADR-083.md)). It
 integrates every entry whose `line` includes distributed-agency on
@@ -114,7 +138,7 @@ integrated by that line's accounts too; the part accounts say where.*
   entries.** Which properties each route to dependence brings about, and
   which make a partnership a new individual, is open ([QUESTION-277](../questions.d/QUESTION-277.md)); the
   documented symbioses show those properties coming apart.
-- **Perspectives, legibility and correction ([SYNTHESIS-056](SYNTHESIS-056.md)), 73
+- **Perspectives, legibility and correction ([SYNTHESIS-056](SYNTHESIS-056.md)), 77
   entries.** An organizational perspective is not thereby an agent
   ([CLAIM-418](../claims.d/CLAIM-418.md)); an encompassing organization's success does not establish
   its constituents' well-being, and the converse holds ([CLAIM-060](../claims.d/CLAIM-060.md)); which
@@ -122,7 +146,7 @@ integrated by that line's accounts too; the part accounts say where.*
   policy ([CLAIM-535](../claims.d/CLAIM-535.md)); an arrangement can keep its effectiveness while its
   correctability degrades; and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded
   duty of answerability.
-- **The unit of a combined form ([SYNTHESIS-054](SYNTHESIS-054.md)), 81 entries.**
+- **The unit of a combined form ([SYNTHESIS-054](SYNTHESIS-054.md)), 83 entries.**
   Relative to a stated target, a combined form is proposed to be one
   system while it is a gap-isolated block whose gap beats the cost of
   naming it ([CLAIM-157](../claims.d/CLAIM-157.md), Proposed); any individuation built on sufficiency
@@ -130,13 +154,13 @@ integrated by that line's accounts too; the part accounts say where.*
   boundary from an imposed one ([CLAIM-194](../claims.d/CLAIM-194.md)). A self in the self-governing
   sense takes part in governing the conditions of its own persistence
   ([CLAIM-284](../claims.d/CLAIM-284.md)).
-- **Individuation ([SYNTHESIS-048](SYNTHESIS-048.md)), 71 entries.** From
+- **Individuation ([SYNTHESIS-048](SYNTHESIS-048.md)), 78 entries.** From
   interconnection to individuation the record holds distinct achievements
   in a partial order. An individuation is well defined once its
   criterion is fixed ([CLAIM-405](../claims.d/CLAIM-405.md)), its senses need different evidence
   ([TERM-088](../terms.d/TERM-088.md)), and whether relations constitute an entity stays open
   ([QUESTION-284](../questions.d/QUESTION-284.md)).
-- **Frustration ([SYNTHESIS-051](SYNTHESIS-051.md)), 53 entries.** Frustration among an
+- **Frustration ([SYNTHESIS-051](SYNTHESIS-051.md)), 54 entries.** Frustration among an
   organization's demands is an ordinal fact about which sets of them can
   be jointly met ([CLAIM-347](../claims.d/CLAIM-347.md), [TERM-060](../terms.d/TERM-060.md)); relief enlarges that complex for
   the same demands; the residual and governance regret refine it without
@@ -173,7 +197,16 @@ integrated by that line's accounts too; the part accounts say where.*
   asks what the living owe the far future, and [QUESTION-302](../questions.d/QUESTION-302.md) asks what
   carries a memory across the rebuilding of a nervous system. [QUESTION-297](../questions.d/QUESTION-297.md)
   and [QUESTION-302](../questions.d/QUESTION-302.md) cite [CASE-098](../cases.d/CASE-098.md), and [QUESTION-301](../questions.d/QUESTION-301.md) cites [CLAIM-420](../claims.d/CLAIM-420.md), both
-  in [SYNTHESIS-047](SYNTHESIS-047.md); these are its only links to the rest of the line.
+  in [SYNTHESIS-047](SYNTHESIS-047.md); these were its only links to the rest of the line
+  until QUESTION-453. QUESTION-453 (the assistant's, raised by the second
+  by-topic reading review of 2026-11-11; Open; added at version 3) asks
+  which evolutionary route to costly cooperation, relatedness, repeated
+  meeting or conventions backed by retaliation, an organization's
+  structure realizes, and whether any of them needs the extended self
+  CLAIM-491 posits; its body names CLAIM-491's use of Hamilton's rule as
+  an analogy, and CLAIM-603's Black Queen loss (integrated by
+  SYNTHESIS-051) among the claims that argue cooperation from
+  dependence.
 - **Complementary accounts.** [CLAIM-045](../claims.d/CLAIM-045.md) (Active) holds architectural,
   dynamical and goal-directed accounts of distributed agency to be
   complementary components of one account, and objects to [CLAIM-110](../claims.d/CLAIM-110.md)

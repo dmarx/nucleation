@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmplr2wo
 title: 'Frustration among an organization''s demands is an ordinal fact about which sets of them can be jointly met, and relief is the enlargement of that complex for the same demands, judged against a fixed reference set; the residual, governance regret and budgets refine it without identifying thwarting, quiet, thresholds and tolerances are kept apart from it, niche differentiation matters as possible relief that the open questions ask whether operators can reach by themselves, and smaller families on cycle obstructions, coexistence without cooperation, affect and roles hang from it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-451,
+    an in-force entry of the line no account integrated. It is set out at
+    the end of the components; the title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the frustration part of the distributed-agency line (frustration as an
@@ -77,6 +84,7 @@ integrates:
 - QUESTION-438
 - QUESTION-265
 - QUESTION-380
+- QUESTION-451
 bears_on:
 - QUESTION-131
 - QUESTION-133
@@ -420,6 +428,19 @@ compatibility complex ([CLAIM-347](../claims.d/CLAIM-347.md))".
   [QUESTION-132](../questions.d/QUESTION-132.md), [QUESTION-134](../questions.d/QUESTION-134.md), [QUESTION-135](../questions.d/QUESTION-135.md), [QUESTION-349](../questions.d/QUESTION-349.md), [QUESTION-371](../questions.d/QUESTION-371.md),
   [QUESTION-369](../questions.d/QUESTION-369.md) and [QUESTION-265](../questions.d/QUESTION-265.md), Open. [QUESTION-438](../questions.d/QUESTION-438.md), A's, Open; first line
   formal-apparatus. [QUESTION-380](../questions.d/QUESTION-380.md), A's, Open; first line realizability.
+
+Added at version 2, at the synthesis review of 2026-11-23: one in-force
+question of the line, filed after this account, that falls in its scope
+and that no account integrated. The account now integrates 54 entries.
+
+- QUESTION-451, the assistant's, raised by the second by-topic reading
+  review of 2026-11-11; Open. It asks whether need frustration, as
+  self-determination theory measures it, is a process distinct from low
+  need satisfaction. Its body bears it on CLAIM-368, which cites the
+  theory as a parallel for the frustration primitive without resting on
+  it and whose note of 2026-11-03 calls the split "not established of its
+  main measure", and says that QUESTION-131 and QUESTION-369 do not ask
+  it.
 
 ## How the part holds together
 

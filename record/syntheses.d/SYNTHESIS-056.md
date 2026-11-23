@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpvvtbk
 title: 'An organizational perspective is not thereby an agent, and what an organization can see, take up and correct are separate achievements that its success and coherence do not show: a description adequate for the whole can merge what its members'' claims distinguish, which distinctions must be legible is relative to a task and to a policy, an arrangement of institutions can keep its effectiveness while its correctability degrades, and the wrong of reproducing what keeps a justified standard from constraining an organization is proposed as a breach of a bounded duty of answerability'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-11'
@@ -35,6 +35,13 @@ history:
     2026-11-15): QUESTION-461 and CASE-257 now have
     dependence-and-domination as their first line, and the account
     says so where it states their lines. No other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added CASE-276,
+    CASE-278, QUESTION-459 and QUESTION-474, in-force entries of the line
+    no account integrated. Each is set out at the end of the components;
+    the title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the part of the distributed-agency line on perspectives, legibility
@@ -126,6 +133,10 @@ integrates:
 - CASE-246
 - CASE-247
 - CASE-257
+- CASE-276
+- CASE-278
+- QUESTION-459
+- QUESTION-474
 ---
 <!-- inactive-ok-file: CLAIM-652 CLAIM-655 CLAIM-656 CLAIM-657 CLAIM-658 CASE-246 CASE-247 CASE-257 SYNTHESIS-094 SYNTHESIS-092 — Proposed; components and citations added at version 3, with their standing -->
 <!-- inactive-ok-file: QUESTION-253 — Answered; cited with their standing -->
@@ -503,6 +514,46 @@ or since its split ([ADR-100](../decisions.d/ADR-100.md)) in dependence-and-domi
   [QUESTION-360](../questions.d/QUESTION-360.md).
 - [TERM-080](../terms.d/TERM-080.md), [TERM-081](../terms.d/TERM-081.md) and [TERM-083](../terms.d/TERM-083.md), the owner's U12 with A12's maps,
   Proposed.
+
+Added at version 5, at the synthesis review of 2026-11-23: four in-force
+entries of the line, filed after version 4, that fall in this part's
+scope and that no account of the line integrated. Three are integrated
+also by SYNTHESIS-100 (rightful-power) and one by SYNTHESIS-090
+(record-as-apparatus). The account now integrates 77 entries.
+
+- CASE-276, the owner's case, U13 of the exchange "Assess Depp Heard
+  Abuse" (2026-11-15), with A25's point; specimen, documented, Active.
+  Third-country removals continued while the right to be heard before
+  removal was litigated; A25's point is that the right is to be heard
+  before an act whose consequences may not be reversible, so its timing
+  is part of its content. It illustrates CLAIM-464 and bears on
+  QUESTION-279.
+- CASE-278, the owner's case from the same turn; specimen, documented,
+  Active. Trees at Hains Point were cut with less than a day's notice
+  while the court was told no final plan existed, and an injunction then
+  required notice before any irreversible change. It illustrates CLAIM-464
+  and CLAIM-462 and bears on QUESTION-279; its summary says it adds a
+  mechanism to CLAIM-464's three, acting physically while denying that a
+  reviewable decision exists, and is a partial counter-instance.
+- QUESTION-459, the owner's, U12 and U13 of the exchange "luria experiment
+  design" (2026-11-10), with A's staging and baseline; Open; also
+  record-as-apparatus. It asks whether a shared, typed and governed record
+  helps agents who hold different parts of the evidence integrate it and
+  act on it beyond a structured communication protocol, and at which
+  stage; its summary says the record holds the stages a contribution can
+  fail at (CLAIM-403) and the obstructions to collective action
+  (CLAIM-346, in the frustration part), but not whether such a record
+  moves distributed evidence through them.
+- QUESTION-474, from A23 §8 of the exchange "Assess Depp Heard Abuse"
+  (2026-11-15); the wording is A's; Open. It asks what changes in the
+  capacity to prevent harm, in who bears the burden of preventing it, and
+  in whether nonintervention may be read as authorization, when automation
+  makes an action proceed unless vetoed rather than only on approval. Its
+  body names CLAIM-523 (legibility, volitional efficacy and
+  correctability) among the parts the record holds, with CLAIM-549 and
+  CLAIM-553 in the frustration part, and CLAIM-704, CLAIM-705, CLAIM-706
+  and TERM-125 (integrated by SYNTHESIS-100) and CLAIM-713 and CASE-290
+  (integrated by SYNTHESIS-099).
 
 ## Links the components state, and where
 

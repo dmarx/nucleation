@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmprxn12
 title: 'Relative to a stated target, a combined form is proposed to be one system while it is a gap-isolated block whose gap beats the cost of naming it, a test that passes one-way drive, reads peers or hierarchy from the direction of coupling, cannot tell a produced boundary from an imposed one, and has an unanswered necessary half because a closed collective mode can exist with no block; drive between levels is apportioned by a profile that changes over time; a factor is proposed to be an agent when it is one system, is better described as pursuing goals than as a device and would adapt its policy, and a willed agent when a will-organization over several regimes describes it better still; and in the self-governing sense what endogenous governance adds is the capacity to revise its own standards, which a population optimizing objectives the modeller fixed does not show'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added CASE-375 and
+    QUESTION-455, in-force entries of the line no account integrated. Each
+    is set out at the end of the components; the title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the unit-boundary part of the distributed-agency line left out without a
@@ -103,6 +110,8 @@ integrates:
 - CASE-076
 - CLAIM-356
 - CLAIM-367
+- CASE-375
+- QUESTION-455
 ---
 <!-- inactive-ok-file: CLAIM-819 CLAIM-826 ARG-125 CLAIM-829 TERM-138 — Proposed or new; filed 2026-11-21 from the exchange "Rich Get Richer Power Laws" -->
 <!-- inactive-ok-file: ARG-015 CLAIM-155 CLAIM-157 CLAIM-158 CLAIM-165 CLAIM-166 CLAIM-167 CLAIM-168 CLAIM-170 CLAIM-174 CLAIM-367 CLAIM-393 CLAIM-396 TERM-063 — Proposed; components of this part, with their standing -->
@@ -463,6 +472,29 @@ here has settled ([QUESTION-032](../questions.d/QUESTION-032.md), [QUESTION-009]
 - [CLAIM-367](../claims.d/CLAIM-367.md), the owner's with A31's, thesis, interpretive, Proposed;
   first line learned-structure; rests on [CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-170](../claims.d/CLAIM-170.md), [CLAIM-174](../claims.d/CLAIM-174.md)
   and [CLAIM-027](../claims.d/CLAIM-027.md).
+
+Added at version 2, at the synthesis review of 2026-11-23: two in-force
+entries of the line, filed after this account, that fall in its scope and
+that no account integrated. The account now integrates 83 entries.
+
+- CASE-375, the assistant's computation run for LEAD-137; an executed
+  study, documented, Active. In a non-lattice coupled-agent system it
+  compares the variable of a region most informative about its far
+  environment across a buffer with the slow mode of CLAIM-157's
+  gap-isolated block (CLAIM-164's projector onto the joint mode), the
+  comparison QUESTION-065 asks for, on which it bears: the two coincide
+  under a homogeneous boundary or one-way drive and come apart in the
+  generic case, though the region clears the block test throughout. It
+  illustrates CLAIM-970 (Proposed).
+- QUESTION-455, the owner's, U9 of the exchange "Medical Ethics and Media
+  Enshitification" (2026-11-11); Open; also will-organization. It asks
+  whether parasites that redirect their hosts' behaviour show one organism
+  setting the ends another's machinery pursues, and in what sense of goal.
+  It refines QUESTION-033, asking whether the driver's ends, and not only
+  its effects, can be another organism's; its body takes the test from
+  CLAIM-166's microbiome, and names CLAIM-404, in the conferral part, as
+  the shape A19 reads the parasites through. Its cases are CASE-244 and
+  A19's answer is CLAIM-660, both Proposed.
 
 ## Links the components state, and where
 
