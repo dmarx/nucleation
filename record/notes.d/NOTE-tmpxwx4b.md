@@ -117,7 +117,7 @@ reports DNA methylation differences in the germline group.
   FKBP5 study (NOTE-1310), the effects do not simply copy from parent to
   child. Here no DMP is significant in the prenatally exposed generation,
   though most share its direction.
-- **CLAIM-644** (corroboration). The best recent human attempt still
+- **CLAIM-644** (a parallel; the corroboration is CLAIM-tmp3qsdg's). The best recent human attempt still
   favours the germline route by design label, not by separation, like
   Costa et al.'s "by elimination" (NOTE-1255).
 

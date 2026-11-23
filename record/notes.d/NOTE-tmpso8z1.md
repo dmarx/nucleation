@@ -103,7 +103,7 @@ prenatal-stress associations survive that removal.
   route visible even in unrelated pairs. The same design shows the
   rearing route directly for parental depression in Lewis et al. 2011
   (NOTE-tmp18gag).
-- **CLAIM-644** (corroboration of its scope). The study shows what an
+- **CLAIM-644** (a parallel; the corroboration is CLAIM-tmp3qsdg's). The study shows what an
   "adoption-like" design can do, and that it divides the routes into two
   groups, not four.
 
