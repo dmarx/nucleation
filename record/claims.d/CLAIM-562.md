@@ -58,6 +58,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-215 — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: THEORY-1368 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CASE-tmp2a9lm CLAIM-tmpeno57 CLAIM-tmpzo914 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-562: Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
 
@@ -156,3 +157,14 @@ No status changes.
 ## Note of 2026-11-07: UFI cannot register that more is worse, from the second synthesis review
 
 UFI is the fraction of creases in the union of the actuated creases' folding islands, so adding an actuator can only keep it or raise it: it is monotone in the actuator set. The paper's own result that "adding another actuator with a very small folding island" can "stop the previously successful folding" is a case where success falls while UFI does not. So UFI, however good a predictor of success across sets of one size, cannot be the predictor [QUESTION-380](../questions.d/QUESTION-380.md) asks for wherever adding a nucleus can hurt; [CLAIM-599](CLAIM-599.md) holds the general form, that a family described by minimal sets needs adding relations never to hurt. No status change.
+
+## Note of 2026-11-23: both findings recur in a kinetic constraint-growth model
+
+The lead run of 2026-11-23 (CASE-tmp2a9lm) found both of this claim's findings in
+a system of another kind, grown stochastically with a binding threshold
+rather than by energy descent: island coverage ranks seed sets well above
+the number of seeds, and adding a seed can halve the chance of the target
+(CLAIM-tmpeno57, which corroborates this claim). The mechanism differs:
+the harmful seeds there have large islands, not the small one of Fig. 5h,
+and a race reading of the paper's explanation fails as a predictor there
+(CLAIM-tmpzo914). No status change.

@@ -39,7 +39,17 @@ incompatibility, not a superset of compatible seeds. CLAIM-562's note of
 - The predictor generalizes the folding island as a race (VIC); an alternative
   (ICN) was registered beside it.
 
+## Filed
+
+- LIT-tmp581o9, NOTE-tmpfz1bj, THEORY-tmp1pfm4 (Arbona, Aime and Elezgaray).
+- CASE-tmp2a9lm (the study); CLAIM-tmpeno57, CLAIM-tmpzo914, CLAIM-tmpzi0ri;
+  alternatives CLAIM-tmpf0417 (lean) and CLAIM-tmpddl2d (counter).
+- Dated notes on LEAD-183, QUESTION-380, CLAIM-562, CLAIM-599, THEORY-1454.
+- Curation entry record/curation.d/2026/11/23/030356.md; changelog
+  record/changelog.d/lead-183.md.
+
 ## Next
 
-- File LIT, NOTE, THEORY for Arbona et al.; CASE; CLAIMs; dated notes on
-  LEAD-183, QUESTION-380, CLAIM-562, CLAIM-599; changelog fragment.
+- Nothing in hand. Remaining for the lead (owner's call): a cross-system
+  test in a system with coherent alternative branches; a longer origami
+  search once the arXiv API is reachable.
