@@ -20,7 +20,7 @@ tags:
 date: '2026-11-23'
 line:
 - distributed-agency
-summary: The assistant's assessment of the owner's comparison (CLAIM-tmphsmbq).
+summary: The assistant's assessment of the owner's comparison ([CLAIM-tmphsmbq](../claims.d/CLAIM-tmphsmbq.md)).
   The analogy holds in shape and fails in mechanism. The incompleteness theorems
   are cited from standard knowledge, not from a reading the record holds.
   Agrippa's (or Münchhausen's) trilemma, regress, circle or a dogmatic stop,
@@ -47,7 +47,7 @@ The anchor regress has this shape:
 - the network's own criterion, consistency, cannot certify its
   accuracy;
 - the beacon certifies the network but not itself;
-- the survey certifies the beacon but not itself (CLAIM-tmpw11e6).
+- the survey certifies the beacon but not itself ([CLAIM-tmpw11e6](../claims.d/CLAIM-tmpw11e6.md)).
 
 Coherence is not truth, and certification comes from the level above. So
 far the owner's comparison holds.
@@ -58,7 +58,7 @@ far the owner's comparison holds.
   sentence, a theory talking about its own provability. The anchor's limit
   comes from a symmetry. Two worlds, one with a miscalibrated anchor and
   one with a correct anchor and a shifted world, give identical reports
-  (CLAIM-tmpklggb). No self-reference is involved.
+  ([CLAIM-tmpklggb](../claims.d/CLAIM-tmpklggb.md)). No self-reference is involved.
 - **Each level closes differently.** In arithmetic, no further axiom
   closes the gap without opening another, whatever it is. Here a survey
   of the right kind removes the beacon's error entirely, and what remains
@@ -70,7 +70,7 @@ far the owner's comparison holds.
   regress at whatever is not revised. That is a decision about where to
   trust, not a theorem about all systems. It is the "dogmatic stop" horn of
   Agrippa's trilemma, taken deliberately, and the entrenchment risk of
-  CLAIM-184.
+  [CLAIM-184](../claims.d/CLAIM-184.md).
 
 ## Critical questions
 
@@ -78,6 +78,6 @@ far the owner's comparison holds.
   yes: internal criteria cannot certify the property, and certification is
   relative to a further level. In mechanism, no.
 - **Is there a closer analogue?** Agrippa's trilemma for justification,
-  and the identifiability limits the record already holds (CLAIM-tmpxoxys,
-  CLAIM-148), are closer. The analogy to Gödel is apt for the shape and
+  and the identifiability limits the record already holds ([CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md),
+  [CLAIM-148](../claims.d/CLAIM-148.md)), are closer. The analogy to Gödel is apt for the shape and
   misleading if read as saying the limit is self-referential.

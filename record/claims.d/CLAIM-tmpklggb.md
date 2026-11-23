@@ -28,9 +28,9 @@ rests_on:
 complements:
 - CLAIM-tmpxoxys
 - CLAIM-148
-summary: 'The assistant''s, answering the owner''s comparison with Gödel (CLAIM-tmphsmbq).
-  It gives the mechanism of CLAIM-tmpw11e6''s regress: a translation symmetry,
-  the same kind of limit as LEAD-180''s relabelling (CLAIM-tmpxoxys), not
+summary: 'The assistant''s, answering the owner''s comparison with Gödel ([CLAIM-tmphsmbq](CLAIM-tmphsmbq.md)).
+  It gives the mechanism of [CLAIM-tmpw11e6](CLAIM-tmpw11e6.md)''s regress: a translation symmetry,
+  the same kind of limit as [LEAD-180](../leads.d/LEAD-180.md)''s relabelling ([CLAIM-tmpxoxys](CLAIM-tmpxoxys.md)), not
   a diagonal argument. Checked in scratch/formal/beacon_gauge_check.py (1,000
   random trials, no mismatch). The wording is the assistant''s (Claude, in
   this session); adopting it is the owner''s call.'
@@ -49,7 +49,7 @@ correct. Then A_i(z + d) + (b_i − A_i d) = A_i z + b_i, the same for the
 beacon's readings, and the channel reports z* + d in both worlds. Every
 report the network receives is the same. So d is not identifiable from
 the network's reports, whatever revision rule it runs. That is why its
-consistency radius was unchanged in CLAIM-tmpw11e6's runs (0.114 in both).
+consistency radius was unchanged in [CLAIM-tmpw11e6](CLAIM-tmpw11e6.md)'s runs (0.114 in both).
 
 Checked numerically: `python3 -I scratch/formal/beacon_gauge_check.py`,
 1,000 random draws of maps, biases, d, target and placement, with no
@@ -59,12 +59,12 @@ mismatch.
 
 The regress of anchors is a symmetry limit, of the kind the record holds
 elsewhere:
-- **LEAD-180's relabelling** (CLAIM-tmpxoxys): dissent and attack swap
+- **[LEAD-180](../leads.d/LEAD-180.md)'s relabelling** ([CLAIM-tmpxoxys](CLAIM-tmpxoxys.md)): dissent and attack swap
   without any observable change.
 - **Factorization identified only up to a change of latent coordinates**
-  (CLAIM-148).
+  ([CLAIM-148](CLAIM-148.md)).
 
-The survey in CLAIM-tmpw11e6 works because it breaks the symmetry. It
+The survey in [CLAIM-tmpw11e6](CLAIM-tmpw11e6.md) works because it breaks the symmetry. It
 places a point whose position arrives by a different channel from the
 beacon's. Each further anchor breaks the symmetry left by the one below
 it, and leaves its own.
