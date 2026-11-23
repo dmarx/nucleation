@@ -477,24 +477,24 @@ Added at version 2, at the synthesis review of 2026-11-23: two in-force
 entries of the line, filed after this account, that fall in its scope and
 that no account integrated. The account now integrates 83 entries.
 
-- CASE-375, the assistant's computation run for LEAD-137; an executed
+- [CASE-375](../cases.d/CASE-375.md), the assistant's computation run for [LEAD-137](../leads.d/LEAD-137.md); an executed
   study, documented, Active. In a non-lattice coupled-agent system it
   compares the variable of a region most informative about its far
-  environment across a buffer with the slow mode of CLAIM-157's
-  gap-isolated block (CLAIM-164's projector onto the joint mode), the
-  comparison QUESTION-065 asks for, on which it bears: the two coincide
+  environment across a buffer with the slow mode of [CLAIM-157](../claims.d/CLAIM-157.md)'s
+  gap-isolated block ([CLAIM-164](../claims.d/CLAIM-164.md)'s projector onto the joint mode), the
+  comparison [QUESTION-065](../questions.d/QUESTION-065.md) asks for, on which it bears: the two coincide
   under a homogeneous boundary or one-way drive and come apart in the
   generic case, though the region clears the block test throughout. It
-  illustrates CLAIM-970 (Proposed).
-- QUESTION-455, the owner's, U9 of the exchange "Medical Ethics and Media
+  illustrates [CLAIM-970](../claims.d/CLAIM-970.md) (Proposed).
+- [QUESTION-455](../questions.d/QUESTION-455.md), the owner's, U9 of the exchange "Medical Ethics and Media
   Enshitification" (2026-11-11); Open; also will-organization. It asks
   whether parasites that redirect their hosts' behaviour show one organism
   setting the ends another's machinery pursues, and in what sense of goal.
-  It refines QUESTION-033, asking whether the driver's ends, and not only
+  It refines [QUESTION-033](../questions.d/QUESTION-033.md), asking whether the driver's ends, and not only
   its effects, can be another organism's; its body takes the test from
-  CLAIM-166's microbiome, and names CLAIM-404, in the conferral part, as
-  the shape A19 reads the parasites through. Its cases are CASE-244 and
-  A19's answer is CLAIM-660, both Proposed.
+  [CLAIM-166](../claims.d/CLAIM-166.md)'s microbiome, and names [CLAIM-404](../claims.d/CLAIM-404.md), in the conferral part, as
+  the shape A19 reads the parasites through. Its cases are [CASE-244](../cases.d/CASE-244.md) and
+  A19's answer is [CLAIM-660](../claims.d/CLAIM-660.md), both Proposed.
 
 ## Links the components state, and where
 

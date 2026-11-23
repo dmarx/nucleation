@@ -518,42 +518,42 @@ or since its split ([ADR-100](../decisions.d/ADR-100.md)) in dependence-and-domi
 Added at version 5, at the synthesis review of 2026-11-23: four in-force
 entries of the line, filed after version 4, that fall in this part's
 scope and that no account of the line integrated. Three are integrated
-also by SYNTHESIS-100 (rightful-power) and one by SYNTHESIS-090
+also by [SYNTHESIS-100](SYNTHESIS-100.md) (rightful-power) and one by [SYNTHESIS-090](SYNTHESIS-090.md)
 (record-as-apparatus). The account now integrates 77 entries.
 
-- CASE-276, the owner's case, U13 of the exchange "Assess Depp Heard
+- [CASE-276](../cases.d/CASE-276.md), the owner's case, U13 of the exchange "Assess Depp Heard
   Abuse" (2026-11-15), with A25's point; specimen, documented, Active.
   Third-country removals continued while the right to be heard before
   removal was litigated; A25's point is that the right is to be heard
   before an act whose consequences may not be reversible, so its timing
-  is part of its content. It illustrates CLAIM-464 and bears on
-  QUESTION-279.
-- CASE-278, the owner's case from the same turn; specimen, documented,
+  is part of its content. It illustrates [CLAIM-464](../claims.d/CLAIM-464.md) and bears on
+  [QUESTION-279](../questions.d/QUESTION-279.md).
+- [CASE-278](../cases.d/CASE-278.md), the owner's case from the same turn; specimen, documented,
   Active. Trees at Hains Point were cut with less than a day's notice
   while the court was told no final plan existed, and an injunction then
-  required notice before any irreversible change. It illustrates CLAIM-464
-  and CLAIM-462 and bears on QUESTION-279; its summary says it adds a
-  mechanism to CLAIM-464's three, acting physically while denying that a
+  required notice before any irreversible change. It illustrates [CLAIM-464](../claims.d/CLAIM-464.md)
+  and [CLAIM-462](../claims.d/CLAIM-462.md) and bears on [QUESTION-279](../questions.d/QUESTION-279.md); its summary says it adds a
+  mechanism to [CLAIM-464](../claims.d/CLAIM-464.md)'s three, acting physically while denying that a
   reviewable decision exists, and is a partial counter-instance.
-- QUESTION-459, the owner's, U12 and U13 of the exchange "luria experiment
+- [QUESTION-459](../questions.d/QUESTION-459.md), the owner's, U12 and U13 of the exchange "luria experiment
   design" (2026-11-10), with A's staging and baseline; Open; also
   record-as-apparatus. It asks whether a shared, typed and governed record
   helps agents who hold different parts of the evidence integrate it and
   act on it beyond a structured communication protocol, and at which
   stage; its summary says the record holds the stages a contribution can
-  fail at (CLAIM-403) and the obstructions to collective action
-  (CLAIM-346, in the frustration part), but not whether such a record
+  fail at ([CLAIM-403](../claims.d/CLAIM-403.md)) and the obstructions to collective action
+  ([CLAIM-346](../claims.d/CLAIM-346.md), in the frustration part), but not whether such a record
   moves distributed evidence through them.
-- QUESTION-474, from A23 §8 of the exchange "Assess Depp Heard Abuse"
+- [QUESTION-474](../questions.d/QUESTION-474.md), from A23 §8 of the exchange "Assess Depp Heard Abuse"
   (2026-11-15); the wording is A's; Open. It asks what changes in the
   capacity to prevent harm, in who bears the burden of preventing it, and
   in whether nonintervention may be read as authorization, when automation
   makes an action proceed unless vetoed rather than only on approval. Its
-  body names CLAIM-523 (legibility, volitional efficacy and
-  correctability) among the parts the record holds, with CLAIM-549 and
-  CLAIM-553 in the frustration part, and CLAIM-704, CLAIM-705, CLAIM-706
-  and TERM-125 (integrated by SYNTHESIS-100) and CLAIM-713 and CASE-290
-  (integrated by SYNTHESIS-099).
+  body names [CLAIM-523](../claims.d/CLAIM-523.md) (legibility, volitional efficacy and
+  correctability) among the parts the record holds, with [CLAIM-549](../claims.d/CLAIM-549.md) and
+  [CLAIM-553](../claims.d/CLAIM-553.md) in the frustration part, and [CLAIM-704](../claims.d/CLAIM-704.md), [CLAIM-705](../claims.d/CLAIM-705.md), [CLAIM-706](../claims.d/CLAIM-706.md)
+  and [TERM-125](../terms.d/TERM-125.md) (integrated by [SYNTHESIS-100](SYNTHESIS-100.md)) and [CLAIM-713](../claims.d/CLAIM-713.md) and [CASE-290](../cases.d/CASE-290.md)
+  (integrated by [SYNTHESIS-099](SYNTHESIS-099.md)).
 
 ## Links the components state, and where
 
