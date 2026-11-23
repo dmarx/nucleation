@@ -38,6 +38,7 @@ summary: >-
   channels keep a whole's course correctable. This asks when using such a
   channel helps.
 ---
+<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmp5wozo CLAIM-tmppm30v — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-142 THEORY-151 THEORY-152 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-1808 — filed from the exchange "luria experiment design", Proposed or Deferred; cited as filed alongside this entry -->
@@ -113,3 +114,7 @@ audited it moved slowly or not at all, until a 10% floor on auditing let
 the unheeded show their worth. It bears on the question's second half,
 "authority that can move to them": what let it move was evidence about
 the unheeded. The question is unchanged.
+
+## Note of 2026-11-23: a population result
+
+[CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) bears on this question. In a population model, dissent kept its place as evidence, with opponents read at chance and by their competence, only when the critic role had a score of its own that did not read agreement. Then no factions and no capture formed, and authority over the decision stayed with each side ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)). The price was a shared meaning that follows where competence sits rather than the evidence alone ([CLAIM-tmppm30v](../claims.d/CLAIM-tmppm30v.md)).

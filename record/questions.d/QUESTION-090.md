@@ -36,6 +36,7 @@ summary: >-
   bought by eliminating the members' disagreement. An answer names
   conditions under which both hold and conditions under which one fails.
 ---
+<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmpdpnid CLAIM-tmpoc6mo CLAIM-tmp5wozo — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -107,3 +108,7 @@ From the third synthesis on DNA origami by another assistant (A), "The productiv
 A's third synthesis asks the narrower form of this question: when does a productive nucleus become self-maintaining, its operation regenerating the constraints that make it productive ([QUESTION-399](QUESTION-399.md))? A keeps nucleation, autocatalysis, closure and regeneration apart: "These can overlap, but none is automatically equivalent to another".
 
 No status changes.
+
+## Note of 2026-11-23: a population result
+
+[CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) bears on this question. Operators that cannot raise their own authority, and are rewarded for realized policy, built a delegation structure that sorted by side: all grants went to their own side and, within it, to its extremes ([CLAIM-tmpdpnid](../claims.d/CLAIM-tmpdpnid.md), [CLAIM-tmpoc6mo](../claims.d/CLAIM-tmpoc6mo.md)). With one grant per operator, that structure also set whom each read, and the population split into factions. With grants indexed by role, the plurality of policy survived while evidence crossed sides ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)).

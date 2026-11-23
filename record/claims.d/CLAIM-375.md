@@ -77,6 +77,7 @@ summary: >-
 complements:
 - CLAIM-502
 ---
+<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmpdpnid CLAIM-tmpoc6mo — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); named in the history as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction was split from and that rests on it, cited as open -->
 <!-- ref::uses-file: TERM-101 — the grants E_kj of the title and the one-hop rule, conferral through a maintained grant relation, are TERM-101's grant -->
@@ -130,3 +131,7 @@ point, stated as a construction.
   authority by moving others' grants, which is social feedback, not
   an accounting loop ([CLAIM-282](CLAIM-282.md)). And an aligned ally can be incompetent
   (A2 §6).
+
+## Note of 2026-11-23: in a population
+
+In a grant game on 30 populations ([CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md)), operators under this claim's one-hop rule and objective delegated their whole budget, all of it to their own side ([CLAIM-tmpdpnid](CLAIM-tmpdpnid.md)). The gradient this claim's step 2 bounds also ranks allies: a grant's marginal value is proportional to p_j − p*, so operators granted to their side's extremes, not its nearest members ([CLAIM-tmpoc6mo](CLAIM-tmpoc6mo.md)). The claim is unchanged.

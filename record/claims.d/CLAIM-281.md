@@ -51,6 +51,7 @@ summary: >-
 bears_on:
 - QUESTION-089
 ---
+<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmp5wozo CLAIM-tmppm30v — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -113,3 +114,7 @@ grants, has not been run.
 ## Note of 2026-11-06: what holds it back
 
 Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of [CASE-092](../cases.d/CASE-092.md) and [CLAIM-282](CLAIM-282.md) (2026-11-04), which change no content. The population comparison [CASE-092](../cases.d/CASE-092.md) names, role-indexed against scalar grants, has still not been run, so the clause on factions rests on A2's argument alone.
+
+## Note of 2026-11-23: the population comparison, run
+
+The comparison this claim's notes said was missing has been run as [CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) ([CLAIM-tmp5wozo](CLAIM-tmp5wozo.md)). There, role-indexed grants whose critic role is scored by observed relevance formed no factions and no capture, while scalar grants did. The clause on factions therefore has a population result under it, with a condition: the critic score must read agreement weakly enough, gζσ²/2 < 1 − φ′ − φ_s′. Role-indexed grants scored by agreement sorted into factions exactly as scalar ones did, which meets the first disjunct of the defeat condition for that scheme. Scoring both roles by relevance handed opponents 53% of decision grants, and role indexing removed that transfer. [CLAIM-tmp5wozo](CLAIM-tmp5wozo.md) sets out two readings for the owner: whether this claim's role indexing already includes a role-specific score (the assistant's lean), or must be restated to name it. Belief did not stay diverse under role indexing: the meanings converged on a value set by where competence sits ([CLAIM-tmppm30v](CLAIM-tmppm30v.md)). The claim is unchanged.
