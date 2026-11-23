@@ -90,7 +90,9 @@ invented.
 
 1. **Present output is matched and future capacity is not.** Every regime
    produces 1.0000 per period before the first contingency, and does so in
-   every period when there is no contingency at all (tested). Once
+   every period when there is no contingency at all (tested). The match is
+   by construction: output does not depend on the budget. What the study
+   establishes is the divergence after a contingency, not the match. Once
    contingencies arrive, overall output ranges from 0.76 (III-a) to 0.92
    (II).
 2. **CLAIM-577 and CLAIM-tmpg8yl2 hold exactly.**
@@ -133,15 +135,20 @@ invented.
        save 0.081 and 0.100 a period against II, which bounds the amortized
        redesign cost that would pay.
 6. **The break-even of reserve against p·L.** The reserve (II against I) pays
-   when p·L > pL* ≈ c·Δcap/ΔR(τ), with Δcap ≈ 1.83.
+   when p·L exceeds a break-even pL*, found from the long runs. The
+   approximation c·Δcap/ΔR(τ), with Δcap ≈ 1.83 and ΔR from the imposed
+   readiness curves, is loose: it gives 0.27 to 0.31 at τ = 6 where the long
+   runs give 0.36 to 0.50, and 0.41 at τ = 3, p = 0.05, where they give 1.15.
+   The long-run values are the ones reported.
    - At c = 0.1, pL* is 0.36 to 0.50 at τ = 6, 0.58 to 1.15 at τ = 3, and 0.57
      to 0.69 at τ = 12. It is linear in c.
    - The preferred set is upward-closed in p·L (tested).
    - pL* is not a function of p·L and c alone. It is U-shaped in τ: lowest
      where the deadline lies between the transit time and the wait for
-     outside money. It also rises with p, because frequent use keeps the peak
-     rule's budget up for a period after each transition (CLAIM-878's
-     recency).
+     outside money. At τ = 3 and τ = 6 it rises with p, because frequent use
+     keeps the peak rule's budget up for a period after each transition
+     (CLAIM-878's recency); at τ = 12 it does not (0.625, 0.571, 0.565 and
+     0.689 for p = 0.005, 0.01, 0.02 and 0.05).
 7. **Novel demand (CLAIM-361).**
    - *Excision* scores zero violations on D0 and on its own specification,
      while the harm runs for all 120 periods. Revision shows violations on
@@ -153,6 +160,10 @@ invented.
      reserve of 3 covers C's threshold of 2.5 (harm about 6 periods). III-b's
      and IV's reserve of 2 does not, so they depend on outside money (harm
      about 15 periods, and harm without end when g = 0).
+   - CLAIM-361 is about removing a demand that was in the specification. The
+     harm here was never in D0, so "excising" it means never entering it:
+     the arm carries CLAIM-361's distinction to a demand outside the
+     specification, which goes past the claim's own case.
    - The model does not make the choice between excising and revising emerge
      from anything. That choice is an input. What it shows is how each choice
      scores and which budgets let a revision be acted on.
