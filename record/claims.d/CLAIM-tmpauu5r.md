@@ -31,7 +31,7 @@ summary: >-
   practice as a whole does not. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpm653d CASE-tmptkkgm — new; the reading the objection draws on and the specimen beside it -->
+<!-- inactive-ok-file: CASE-tmptkkgm — new; the reading the objection draws on and the specimen beside it -->
 <!-- inactive-ok-file: CLAIM-750 CASE-293 CASE-335 CLAIM-905 — Proposed; the claim objected to and the studies whose unit it questions -->
 
 # CLAIM-tmpauu5r: A single postmortem's causes and action items are the wrong unit for testing where a blameless practice's trace stops: Google's practice routes questions about priorities set above the team to reviews of repeated incidents, to a cross-functional review with organizational leaders and to a vice-president's review, so an organization could keep upstream provenance across incidents while each postmortem stops at the team
@@ -89,3 +89,11 @@ objection fails and [CLAIM-750](CLAIM-750.md)'s unit stands.
 - It applies to [CLAIM-905](CLAIM-905.md) and [CASE-335](../cases.d/CASE-335.md) as well, which code single
   postmortems; it does not touch their CSB arm, whose reports are each a
   whole investigation.
+
+## Note of 2026-11-23: what holds it back
+
+The result its own 'What would settle it' names is missing: evidence of what
+Google's reviews of repeated incidents and its cross-functional process
+review produce, that is, whether any finding or action reaches decisions
+above the teams. [THEORY-tmpm653d](../theory.d/THEORY-tmpm653d.md), promoted at this review, says only that
+these channels exist.

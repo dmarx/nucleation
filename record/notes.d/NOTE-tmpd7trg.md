@@ -27,8 +27,8 @@ summary: >-
   and the verdict is filed as alternatives, [CLAIM-tmpa694z](../claims.d/CLAIM-tmpa694z.md) and
   [CLAIM-tmpervl4](../claims.d/CLAIM-tmpervl4.md).
 ---
-<!-- inactive-ok-file: THEORY-tmpmvcnr CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq ARG-tmp5xhiv — Proposed or new; this reading and the entries filed from it -->
-<!-- inactive-ok-file: CLAIM-478 CLAIM-157 CLAIM-626 — Proposed; the entries the reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmpa694z CLAIM-tmpervl4 ARG-tmp5xhiv — Proposed or new; this reading and the entries filed from it -->
+<!-- inactive-ok-file: CLAIM-478 CLAIM-157 — Proposed; the entries the reading bears on -->
 
 # NOTE-tmpd7trg: Ott and Antonsen 2008, read for an exact low-dimensional law without rate separation, as a candidate defeater of the rate-difference claim
 

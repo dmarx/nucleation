@@ -1,8 +1,18 @@
 ---
-status: Proposed
+status: Active
 title: In the record's account of wu-wei, the computational-mechanics and
   nonlinear-dynamics perspectives take precedence over the sinological one
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted by the status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings): it has no premise and no
+    objection, and nothing in the record meets its defeated_if; the title
+    is the owner's ruling of 2026-11-23, quoted. The body's choice of the
+    stronger reading of "take precedence" is unchanged and is listed for
+    the owner.
 role: thesis
 warrant: interpretive
 defeated_if: A finding that the record's dynamical account of effortless action

@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: "In the symmetric resource-competition class that MacArthur's consumer-resource model reduces to, Chesson's niche overlap is the cosine of two components' niche vectors, his average fitness is a component's net marginal value at zero abundance per unit niche norm, and a rare component's growth against a lone resident is its niche norm times its fitness less the overlap times the resident's"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: its ground THEORY-tmpac7iw, which
+    supplies a step (Chesson's Table 1 definitions), promoted in the same
+    change; CLAIM-369 Active; no objection.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -43,7 +51,6 @@ summary: >-
   Checked numerically. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpac7iw — Proposed, filed by the lead run of 2026-11-22 from the reading this claim rests on -->
 <!-- inactive-ok-file: CLAIM-885 — Proposed, filed 2026-11-22 by another lead and cited for its many-component bound -->
 
 # CLAIM-tmpv65bg: In the symmetric resource-competition class that MacArthur's consumer-resource model reduces to, Chesson's niche overlap is the cosine of two components' niche vectors, his average fitness is a component's net marginal value at zero abundance per unit niche norm, and a rare component's growth against a lone resident is its niche norm times its fitness less the overlap times the resident's

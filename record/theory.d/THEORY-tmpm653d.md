@@ -1,18 +1,26 @@
 ---
-status: Proposed
-promote_when: >-
-  A second reading of the chapter, or another of Google's published
-  statements of its postmortem practice, confirms three things: that a
-  blameless postmortem's causes focus on "what" and not "who" and its
-  action items aim at improving systems rather than people; that leaders
-  are to keep it blameless by recasting blameful questions, including
-  questions to managers and from executives, as questions about process;
-  and that questions about priorities set above a team (whether feature
-  velocity trumps reliability) are raised in the review of repeated
-  incidents rather than in the single postmortem. Whether the practice
-  achieves its aims is not asserted.
+status: Active
 title: 'Rogers, Suriar, Lueder, Deo and Sudhakar present Google''s blameless postmortem as aimed at what failed and not who, with action items that improve systems rather than people, kept blameless by leaders who recast blameful questions, to managers and from executives, as questions about process, while questions about priorities set above the team are left to reviews of repeated incidents'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057) and ADR-065: the title reports what the
+    chapter presents, read in full (NOTE-tmpf58r7), and nothing in the
+    record contradicts it. The old condition moves with the wider thesis
+    to THEORY-tmprs9n9 (ADR-047 kind 1). Old condition: "A second reading
+    of the chapter, or another of Google's published statements of its
+    postmortem practice, confirms three things: that a blameless
+    postmortem's causes focus on "what" and not "who" and its action items
+    aim at improving systems rather than people; that leaders are to keep
+    it blameless by recasting blameful questions, including questions to
+    managers and from executives, as questions about process; and that
+    questions about priorities set above a team (whether feature velocity
+    trumps reliability) are raised in the review of repeated incidents
+    rather than in the single postmortem. Whether the practice achieves
+    its aims is not asserted."
 tags:
 - software-engineering
 - society-and-governance

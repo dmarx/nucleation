@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'A response profile that is positive, linear and normalized in the continuous test is a probability measure, and a declared family of tests turns the largest disagreement between two such measures into a pseudometric, which is a metric exactly when the family separates measures, so that observational equivalence under the family is distance zero'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -10,6 +10,15 @@ history:
     First Contact RL" (ChatGPT, shared 2026-11-22), with the assistant's
     fills on the premise that does the work, the bounds the metrics need,
     and the measure–metric distinction.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): uses TERM-134 dropped: the body speaks of
+    graded predicates generally, not of TERM-134's predicates of an entry;
+    a demonstrated construction from standard theorems (Riesz-Markov, the
+    axioms of an integral probability metric) with no premise held back
+    and nothing objecting.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -30,7 +39,6 @@ line:
 - distributed-agency
 uses:
 - TERM-069
-- TERM-134
 complements:
 - CLAIM-574
 summary: >-

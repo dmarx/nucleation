@@ -1,12 +1,20 @@
 ---
-status: Proposed
+status: Active
 title: If practice must stay within ε of a governing reference that can be
   revised at most at rate v, a demand to bring practice within δ of a target
   at distance 1 by deadline H can be met only if vH ≥ 1 − δ − ε, so the same
   rate of revision is adequate to a demand with a long horizon and inadequate
   to one with a short horizon, and a fixed reference (v = 0) meets no demand
   farther than δ + ε
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: no premise; the derivation vH >= 1 -
+    delta - epsilon re-checked step by step, including the case v = 0 and
+    tightness when practice tracks freely.
 role: thesis
 warrant: demonstrated
 defeated_if: An error in the derivation. As a model it is defeated as a reading
@@ -52,7 +60,6 @@ model does not show that larger v is better: it says nothing of what a
 fast-revisable reference costs against transient fluctuations, which is
 the other half of A38's tension.
 
-<!-- inactive-ok-file: CLAIM-tmp947v0 — Proposed; filed in this filing of 2026-11-23 (third share) -->
 
 ## Note of 2026-11-23: the sufficient half
 

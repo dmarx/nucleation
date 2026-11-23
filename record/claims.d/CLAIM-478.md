@@ -102,13 +102,12 @@ bears_on:
 - QUESTION-391
 ---
 <!-- inactive-ok-file: THEORY-tmpgdriu THEORY-tmpq02z9 THEORY-tmpqdy16 THEORY-tmpkt3xf THEORY-tmpp4w4k THEORY-tmp31kx6 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
-<!-- inactive-ok-file: CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq THEORY-tmpmvcnr THEORY-tmp0d58z ARG-tmp5xhiv — Proposed or new; the reading of Ott and Antonsen for LEAD-094 and the verdict filed from it -->
+<!-- inactive-ok-file: CLAIM-tmpa694z CLAIM-tmpervl4 THEORY-tmp0d58z ARG-tmp5xhiv — Proposed or new; the reading of Ott and Antonsen for LEAD-094 and the verdict filed from it -->
 <!-- inactive-ok-file: THEORY-2199 NOTE-2285 — Proposed or Skimmed; the reading of Toner and Tu (1998), 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-770 — Proposed or Open; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-780 CLAIM-781 — Proposed; filed in the contribution of 2026-11-20 on hierarchy and hyperbolicity -->
 <!-- inactive-ok-file: CLAIM-755 CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-1558 — Proposed; the wide form of Juarrero's rate-demarcated levels, cited as open -->
-<!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: NOTE-1536 — new or Proposed; readings of 2026-11-03 cited as open -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed, Open, Rejected, Deferred or new; cited in the note of U15–U23, as open -->
 <!-- inactive-ok-file: THEORY-1073 THEORY-1052 — Proposed; readings cited as open -->

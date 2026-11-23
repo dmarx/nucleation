@@ -32,7 +32,7 @@ summary: >-
   owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-180 — Proposed; the claim this objection targets, cited as under test -->
-<!-- inactive-ok-file: CASE-tmp4niuz CLAIM-tmp49ilj CLAIM-tmp9w3p9 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmpc5mmp: In the record's exchanges a code did not bypass retrieval by content: content the record held under codes was re-derived without them in 20 of 48 reconstructed exchanges, because the collaborator had to find the code by what the content said
 
@@ -68,3 +68,11 @@ describes. So a code moves the retrieval failure; it does not remove it.
   that ([CLAIM-tmp49ilj](CLAIM-tmp49ilj.md), [CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)).
 - It does not deny the critical-distance account of drift. It denies only
   the bypass clause, as a description of the exchanges.
+
+## Note of 2026-11-23: what holds it back
+
+[CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md) is now Active and reproduces; this is one of two readings of
+its counts, with [CLAIM-tmp49ilj](CLAIM-tmp49ilj.md), and the choice between them is the owner's
+under [ADR-127](../decisions.d/ADR-127.md). Its causal clause, that the collaborator had to find the code
+by what the content said, is not measured by the study, which cannot see
+what the collaborator had to hand.

@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'A simulated sensor network whose correspondences drift: revising them to reduce the sensors'' disagreement restores consistency and not accuracy, revising them against beacons the world places through a channel the revision cannot rewrite or refuse restores accuracy, and a revisable beacon map or a right to refuse disagreeing beacons gives back part or all of the gain'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -9,6 +9,13 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-177 as a delegated
     lead worker. The code, its tests and the results are committed under
     scratch/studies/lead-177/.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Proposed to Active at the status review's ruling (the owner delegated
+    these rulings): the run reproduces; a fresh rerun of study_network.py
+    and study_beacon_bias.py (40 seeds) gives summaries byte-identical to
+    the committed ones, and the 21 tests pass.
 standing: documented
 kind: executed-study
 tags:
@@ -44,7 +51,6 @@ summary: >-
   construction. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpz762n CLAIM-tmpvqmwc — new; the companion run and the claim filed from this one -->
 
 # CASE-tmp33vf4: A simulated sensor network whose correspondences drift: revising them to reduce the sensors' disagreement restores consistency and not accuracy, revising them against beacons the world places through a channel the revision cannot rewrite or refuse restores accuracy, and a revisable beacon map or a right to refuse disagreeing beacons gives back part or all of the gain
 

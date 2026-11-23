@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'In a population built on the coupled meaning–influence model, grants indexed by role with the critic role scored by observed relevance leave neither belief factions nor capture, while scalar grants fail one way or the other: scored by agreement they capture the population or split it into factions, and moved by the reward for realized policy they split it into factions that read only their own side; indexing by role without a separate score buys nothing'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its ground CASE-tmpw3vii went Active at this
+    review; the defeat condition is not met on the rerun. The choice
+    between its Readings A and B for CLAIM-281 stays with the owner.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -40,8 +48,7 @@ summary: >-
   identical to the scalar scheme in the meaning layer. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmppm30v — new; filed by the lead run of 2026-11-23 -->
-<!-- inactive-ok-file: CLAIM-281 CLAIM-285 CASE-363 CLAIM-947 — Proposed; the claims tested and the built model, cited as open -->
+<!-- inactive-ok-file: CLAIM-281 CLAIM-285 — Proposed; the claims tested and the built model, cited as open -->
 
 # CLAIM-tmp5wozo: In a population built on the coupled meaning–influence model, grants indexed by role with the critic role scored by observed relevance leave neither belief factions nor capture, while scalar grants fail one way or the other: scored by agreement they capture the population or split it into factions, and moved by the reward for realized policy they split it into factions that read only their own side; indexing by role without a separate score buys nothing
 

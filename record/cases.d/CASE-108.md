@@ -200,7 +200,7 @@ Read on 2026-11-12 among the works of the exchange "luria experiment design"; ea
 The case is unchanged.
 
 ## Note of 2026-11-23: run in reduced form
-<!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmpd6gon CLAIM-tmpf0b31 CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-block: CLAIM-tmpf0b31 CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
 
 [CASE-tmpqnoj1](CASE-tmpqnoj1.md) runs this design in a small federated learner, with an oracle, an
 overt attack and one that mimics dissent. With honest evaluators,

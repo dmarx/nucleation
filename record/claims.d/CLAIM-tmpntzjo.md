@@ -28,7 +28,7 @@ summary: 'The owner''s U20 in the second share of the exchange "Explain First
   The owner''s; filed with its two readings of "inherent" in its defeater.'
 ---
 
-<!-- inactive-ok-file: CLAIM-184 CLAIM-478 CLAIM-758 CLAIM-tmp2k3c5 CLAIM-tmpbzwmr CLAIM-tmph25dl SYNTHESIS-046 TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-22 (second share) -->
+<!-- inactive-ok-file: CLAIM-184 CLAIM-478 CLAIM-758 CLAIM-tmpbzwmr CLAIM-tmph25dl SYNTHESIS-046 TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
 # CLAIM-tmpntzjo: There is an inherent tension between stabilizing an organization's identity and keeping it adaptable, and the appropriate response to a demand depends on the timescale of that demand
 
@@ -55,3 +55,10 @@ slow modes ([CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md)).
 Identity over time as transmission of organization: [CLAIM-287](CLAIM-287.md),
 [SYNTHESIS-046](../syntheses.d/SYNTHESIS-046.md). Rate differences that make constraints: [CLAIM-478](CLAIM-478.md).
 Overconsolidation: [CLAIM-758](CLAIM-758.md). Anchors that entrench: [CLAIM-184](CLAIM-184.md).
+
+## Note of 2026-11-23: what holds it back
+
+Which reading of 'inherent' the owner means is unruled, and is already among
+the owner's open choices; A38 section 5 tells against the strong reading,
+and promoting the wording as it stands would assert both. The review leans
+to the weak one: stabilization and adaptability always bear on each other.

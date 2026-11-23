@@ -39,7 +39,7 @@ summary: 'A38 of the exchange "Explain First Contact RL" (ChatGPT, second
   is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-184 CLAIM-423 CLAIM-478 CLAIM-758 CLAIM-tmp2k3c5 TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-22 (second share) -->
+<!-- inactive-ok-file: CLAIM-184 CLAIM-423 CLAIM-478 CLAIM-758 TERM-tmpz28l1 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
 # CLAIM-tmph25dl: Identity stabilization and adaptability are not two ends of one scale: constraints that conserve selected relations across time make coordinated response possible and can make alternatives slow or costly to reach, so a constraint's adequacy depends on the timescales of the demands it governs and on how fast it can be revised, and adaptive governance maintains a hierarchy of revisable constraints whose response times suit their demands, conserving selectively what enables later transformation
 

@@ -157,7 +157,7 @@ toward the boundary, is what the warning margin approximates.
 
 ## Note of 2026-11-22: run
 
-<!-- inactive-ok-block: CASE-tmpz762n CLAIM-tmppa4rs CLAIM-tmpnc1mf CLAIM-tmphrp1s — new; the run of this design and the claims drawn from it -->
+<!-- inactive-ok-block: CLAIM-tmpnc1mf CLAIM-tmphrp1s — new; the run of this design and the claims drawn from it -->
 Built and run for [LEAD-177](../leads.d/LEAD-177.md) as [CASE-tmpz762n](CASE-tmpz762n.md), with all five arms, three
 changes, two learning rules, a features-only freeze and two replacements of
 the viability variable. The learner beat arm 5 where the change needed a new

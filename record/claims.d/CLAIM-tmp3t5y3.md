@@ -50,7 +50,7 @@ summary: >-
   onto the honest majority and the monitor. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpqnoj1 CLAIM-tmpf0b31 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpf0b31 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmp3t5y3: In a simulated federated learner with two of seven evaluators compromised, revisable safeguards relocated the trade-off between attack and dissent rather than moving it: they lowered the success of an attack that mimics dissent only by suspending most of the honest majority and a third of the dissenters, and only through a monitor that, compromised, suspended every dissenter and no attacker; counting honest members suspended for honest error as suppressed, no architecture of the study lowered attack success under compromised evaluators without suppressing honest members
 
@@ -75,3 +75,11 @@ that lowered attack success did so by suppressing honest members
 - It does not deny that the cooperatives are wrong on the minority's
   tasks. It says the organization's warrant for treating them as wrong
   is one monitor's evidence, and that is the judgement in question.
+
+## Note of 2026-11-23: what holds it back
+
+It and [CLAIM-tmpf0b31](CLAIM-tmpf0b31.md) are alternative readings of [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md)'s adaptive
+arm, on the same numbers, which reproduce. Which reading the record takes,
+whether suspending the honest but mistaken majority counts as suppressing
+honest participation, is the owner's choice and has not been made. The
+assistant leaned to [CLAIM-tmpf0b31](CLAIM-tmpf0b31.md).

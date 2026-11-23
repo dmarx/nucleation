@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'Ott and Antonsen''s family of oscillator distributions, with phase Fourier coefficients αⁿ, stays invariant only when the coupling carries the first harmonic of the phase alone: a second harmonic couples each coefficient to the one two places below, which for the first coefficient is the conjugate α* and for the others is a power of α, so the family is left everywhere except at full locking, |α| = 1'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: THEORY-tmpmvcnr moved from grounds to
+    corroborated_by (ADR-058: the derivation re-derives the H_2 = 0 case
+    it cites); derivation and scripts re-checked; no objection.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -17,8 +25,6 @@ date: '2026-11-22'
 line:
 - distributed-agency
 - formal-apparatus
-grounds:
-- THEORY-tmpmvcnr
 bears_on:
 - QUESTION-252
 summary: >-

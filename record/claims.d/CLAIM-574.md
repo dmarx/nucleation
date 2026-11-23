@@ -129,7 +129,7 @@ summary: >-
   [QUESTION-031](../questions.d/QUESTION-031.md) sets aside. The wording is A's; the status review of 2026-11-06
   adopted it.
 ---
-<!-- inactive-ok-file: CLAIM-tmp0dyx8 CLAIM-tmp7qzux CLAIM-tmp7pe33 CLAIM-tmptxsin ARG-tmpzj6pc — new; filed 2026-11-22 from the exchange "Explain First Contact RL", cited in the note of that date -->
+<!-- inactive-ok-file: CLAIM-tmp7pe33 CLAIM-tmptxsin ARG-tmpzj6pc — new; filed 2026-11-22 from the exchange "Explain First Contact RL", cited in the note of that date -->
 
 # CLAIM-574: Distinctions drawn by restricted Yoneda profiles only grow as nested probe families grow: a natural isomorphism of profiles on a probe subcategory restricts to one on every subcategory of it, so objects equivalent under a larger family are equivalent under each smaller one and objects told apart at a lower budget stay apart at every higher one; an equivalence a richer regime breaks was relative to its regime, not false; and the monotonicity needs an every-probe comparison, which an averaged distortion is not
 

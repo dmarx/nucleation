@@ -35,6 +35,8 @@ summary: 'The assistant''s qualification of the owner''s principle ([CLAIM-tmp4h
   miscalibrated. Run over 40 seeds on 2026-11-23 with the study''s own model.
   The wording is the assistant''s (Claude, in this session); adopting it is
   the owner''s call.'
+corroborates:
+- CLAIM-tmpklggb
 ---
 
 <!-- inactive-ok-file: CLAIM-184 CLAIM-tmpcag0t — Proposed or Open; cited in this filing of 2026-11-23 -->
@@ -78,3 +80,12 @@ It is one model, with the miscalibration fixed and the survey assumed
 correct. It does not show that every protected anchor must be revisable.
 A protected anchor that is correct is [LEAD-177](../leads.d/LEAD-177.md)'s main result and needs no
 survey.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmp4h9rc — Proposed; the owner's claim it qualifies -->
+[CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) is now Active and the miscalibrated arm reproduces (0.360
+against a miscalibration of 0.361). Promoting this claim would make its
+concession due on [CLAIM-tmp4h9rc](CLAIM-tmp4h9rc.md), the owner's own claim ([ADR-059](../decisions.d/ADR-059.md)), and
+writing it in is the owner's. Its title's 'only through a further protected
+channel' also reaches beyond the one model, as its body concedes.

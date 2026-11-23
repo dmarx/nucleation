@@ -55,7 +55,7 @@ dissent says when [CLAIM-359](../claims.d/CLAIM-359.md)'s trade-off can be moved
 none says it cannot in this class.
 
 ## Note of 2026-11-23: carried out in reduced form
-<!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmp26exz CLAIM-tmpd6gon CLAIM-tmpf0b31 CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-block: CLAIM-tmpf0b31 CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
 
 Done by the assistant as a delegated lead worker, in a small federated
 learner (scratch/studies/lead-180/, about 4 minutes of CPU, 19 tests).

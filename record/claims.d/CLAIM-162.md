@@ -65,7 +65,7 @@ summary: >-
   in flow there is nothing for will to do. It does not say flow is the
   best or the normal way to act as one.
 ---
-<!-- inactive-ok-file: CLAIM-tmpywoih ARG-tmpymz1j CLAIM-tmpmk036 CLAIM-tmpcsh5p — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-tmpywoih ARG-tmpymz1j — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-169 ARG-016 — Proposed; the premise and the open objection, cited as open -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
 <!-- inactive-ok-file: LIT-914 LIT-910 LIT-912 — Unavailable, unread; the flow literature, cited without a reading and named as the weakest footing -->
@@ -192,3 +192,12 @@ show that anyone experiences flow. And A20's closing proposition says what
 this claim does not describe: flow-regulation, the capacity to enter,
 sustain, interrupt and recover fluent coordination ([CLAIM-tmpcsh5p](CLAIM-tmpcsh5p.md),
 Proposed). The claim is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+The wait of 2026-10-29 stands. The works read since for [LEAD-078](../leads.d/LEAD-078.md) ([LIT-3113](../literature.d/LIT-3113.md),
+[LIT-3114](../literature.d/LIT-3114.md), [LIT-916](../literature.d/LIT-916.md)) bear on bundling and mindfulness and leave [CLAIM-169](CLAIM-169.md)
+Proposed; [THEORY-070](../theory.d/THEORY-070.md) is still Proposed, its promote_when (1) having only a
+candidate fit ([CASE-382](../cases.d/CASE-382.md), [CLAIM-981](CLAIM-981.md)) on a revealed-choice measure, not the
+accumulator parameter it names. No choice probe within a flow episode is in
+the record.

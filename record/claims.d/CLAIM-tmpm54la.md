@@ -39,7 +39,7 @@ summary: >-
   the first reading and objected to the second ([CLAIM-tmp7580l](CLAIM-tmp7580l.md)); its
   narrower restatement is [CLAIM-tmpl1hgv](CLAIM-tmpl1hgv.md).
 ---
-<!-- inactive-ok-file: CLAIM-tmp7580l CLAIM-tmpl1hgv TERM-tmpxwa7g — Proposed; the objection, the restatement and the term filed from the same turn -->
+<!-- inactive-ok-file: CLAIM-tmp7580l TERM-tmpxwa7g — Proposed; the objection, the restatement and the term filed from the same turn -->
 
 # CLAIM-tmpm54la: A team is a pseudo-self whose perspectives are necessarily separable
 

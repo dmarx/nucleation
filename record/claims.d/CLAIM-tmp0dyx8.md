@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'A distinction among a self''s perspectives cannot disappear as a probe regime is enriched along a nested family: it can disappear only when the regime changes otherwise, by dropping or replacing probes, coarsening what is recorded or shortening the horizon, which are changes of regime under which it is relative and not false, or when the organization itself changes, in which case it was a fact about the earlier organization and is not relative to any regime'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -9,6 +9,14 @@ history:
     Filed 2026-11-22 by the assistant, correcting the third sentence of
     A13 §6 of the exchange "Explain First Contact RL" (ChatGPT, shared
     2026-11-22), from A15 §2's own guardrail.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): a demonstrated correction resting on
+    CLAIM-574 (Active); the reduction of cases 2 and 3 to case 1 and case
+    4's break of the fixed-configuration hypothesis are checked; nothing
+    objects to it.
 role: counter
 warrant: demonstrated
 objects_to:

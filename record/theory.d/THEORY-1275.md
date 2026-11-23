@@ -44,7 +44,6 @@ summary: >-
   (scratch/formal/tms_critical_sizes_check.py).
 ---
 <!-- inactive-ok-file: THEORY-2191 — Proposed; the reading of Lee et al. filed 2026-11-22 -->
-<!-- inactive-ok-file: CASE-tmpgqbyq CLAIM-tmpg8m7a CLAIM-tmp9zqvq CLAIM-tmpraadt — new, filed 2026-11-22 by LEAD-175's study -->
 <!-- inactive-ok-file: THEORY-2157 — Proposed or Rejected entries filed on 2026-11-21 from the exchange "Rich Get Richer Power Laws" and from the readings of its works, or Deferred works not yet read -->
 
 # THEORY-1275: In the toy model of superposition, at the paper's one SGD setting, the Bayesian counterparts of the observed training chain 4⁺⁺⁻ → 4⁺ → 5 → 5⁺ have critical sample sizes that rise in the order training meets it at the point estimates of the learning coefficients, though not across their spread; SGD was not seen to take the posterior's main transition, 5 → 6, and trained on 1,000 samples it ends in a phase that the posterior at n = 1,000, dominated by the 6-gon, does not favour

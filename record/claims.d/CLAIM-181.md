@@ -94,7 +94,7 @@ complements:
 - CLAIM-476
 - CLAIM-479
 ---
-<!-- inactive-ok-file: CLAIM-tmp86z76 CLAIM-tmpcsh5p — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
+<!-- inactive-ok-file: CLAIM-tmp86z76 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # CLAIM-181: The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
@@ -276,3 +276,10 @@ norms into mechanisms ([DP-3](../../docs/design-principles.md#dp-3)) makes the r
 a governed record synchronizes without convergence, and [CLAIM-tmpcsh5p](CLAIM-tmpcsh5p.md)
 (Proposed) as the reason a record must keep the interruptions that change
 its grammar. The claim is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+Checked [CASE-300](../cases.d/CASE-300.md)'s correction of 2026-11-21 (one row reclassified, counts
+unchanged) and [NOTE-2353](../notes.d/NOTE-2353.md)'s reading (a parallel from type inference): neither
+supplies the test still unmet, a move that mattered in an exchange and that
+the record still cannot hold or holds only by distorting it.

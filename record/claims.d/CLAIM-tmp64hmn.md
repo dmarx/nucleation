@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'The Tempe contrast is between the criminal law and a safety investigation, not between blame and its absence: a company''s criminal liability turns on elements an individual''s negligence does not need, and processes outside the criminal law that carry liability or sanction did reach the company, a settlement with the victim''s family and the state''s suspension of its testing'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its ground THEORY-tmpfdyu6 went Active at
+    this review; nothing objects to it; it concedes the reported criminal
+    outcome. Its concession is written into CLAIM-tmp20uni.
 role: counter
 warrant: interpretive
 tags:

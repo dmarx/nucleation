@@ -1,9 +1,18 @@
 ---
-status: Proposed
+status: Active
 
 title: 'Coding the restatements the workbench reconstructions report finds them recorded almost only when they fail: 76 re-derived as new against one retrieved by its code, coded content re-derived in 20 of 48 reconstructions, and too few quoted pairs to measure a restatement''s distance from its original'
 
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Proposed to Active at the status review's ruling (the owner delegated
+    these rulings): restatement.py with rules v1 and v2, rerun on the
+    current tree, gives results and events byte-identical to the committed
+    files; tests pass. Its limits (one coder, no agreement measure) are
+    stated, and its title claims only counts.
 
 standing: documented
 
@@ -33,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-180 CLAIM-182 CLAIM-191 — Proposed; the claims this study was run to test, cited as under test -->
 <!-- inactive-ok-file: CASE-306 CASE-372 — Proposed; earlier studies of the same reconstructions, cited for comparison, nothing here rests on them -->
-<!-- inactive-ok-file: CLAIM-tmp9w3p9 CLAIM-tmpc5mmp CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpc5mmp CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
 
 # CASE-tmp4niuz: Coding the restatements the workbench reconstructions report finds them recorded almost only when they fail: 76 re-derived as new against one retrieved by its code, coded content re-derived in 20 of 48 reconstructions, and too few quoted pairs to measure a restatement's distance from its original
 

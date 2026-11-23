@@ -89,3 +89,12 @@ For three or more parts the D and G terms that separate the kinds depend on
 which axiom the redundancy function drops ([CLAIM-343](CLAIM-343.md), Active), and the
 graded reading of "fully top-down" extends [THEORY-133](../theory.d/THEORY-133.md), whose criterion is
 an "exactly when", without a measure; the claim says neither.
+
+## Note of 2026-11-23: what holds it back
+
+Rechecked after [CLAIM-343](CLAIM-343.md)'s note of 2026-11-22 (SURD does not say which
+axiom it drops) and [THEORY-133](../theory.d/THEORY-133.md)'s revision of 2026-11-11 (an edge only). No
+system has had its drive profile estimated ([LEAD-088](../leads.d/LEAD-088.md), Open), and [TERM-051](../terms.d/TERM-051.md)'s
+note of 2026-11-07 finds the decomposition separates three regions, not
+four: top-down and bidirectional are not told apart by the D and G terms
+this claim's grounding names, so its four kinds are not yet each separable.

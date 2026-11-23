@@ -25,7 +25,7 @@ summary: An explication of the owner's "subset" ([CLAIM-tmpsx7jd](../claims.d/CL
   (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpklggb CLAIM-tmpnl4xk — Proposed; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpnl4xk — Proposed; cited in this filing of 2026-11-23 -->
 
 # ARG-tmpwamhy: The observational symmetry of the miscalibrated anchor and the defined standard that fixes a frame, applied to the relation between physics and mathematics, show that physical content is mathematics up to observational equivalence plus a coordination with phenomena, and so amend the owner's thesis that physics is the subset of mathematics relevant to observable phenomena
 

@@ -1,13 +1,20 @@
 ---
-status: Proposed
+status: Active
 title: 'In a simulated forager that learns from its own energy account which features warn of a loss, revising which features count is needed for, and pays only on, a change whose warning sign is a feature it never attended to; a change on a feature it already attends to is met by re-estimating, and a change that shows itself as an absence is met by registering the absence'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-177 as a delegated
     lead worker, from the run filed as CASE-tmpz762n.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Proposed to Active at the status review's ruling (the owner delegated
+    these rulings): CASE-tmpz762n, its ground, reproduces and is Active,
+    and the figures match the reproduced forager summary; no objection;
+    the defeater is not met.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -46,7 +53,6 @@ summary: >-
   where the warning sign is new to the forager. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpz762n — new; the run this claim is drawn from -->
 <!-- inactive-ok-file: CASE-239 CASE-241 CLAIM-651 — Proposed; the study design run, the profiles it compares and the claim on registering a non-response -->
 
 # CLAIM-tmppa4rs: In a simulated forager that learns from its own energy account which features warn of a loss, revising which features count is needed for, and pays only on, a change whose warning sign is a feature it never attended to; a change on a feature it already attends to is met by re-estimating, and a change that shows itself as an absence is met by registering the absence

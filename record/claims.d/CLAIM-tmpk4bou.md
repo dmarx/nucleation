@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'A regulation that only adds hard constraints to a fixed dynamical model can only shrink the compatibility complex of the public demands, so it cannot relieve their frustration; a regulation relieves frustration among the original demands only by changing the dynamics, through the technologies, infrastructure or access it brings about'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: every premise Active (CLAIM-582,
+    CLAIM-347, CLAIM-361), no objection, derivation re-checked by brute
+    force (20,000 random instances, no violation).
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -37,7 +45,6 @@ summary: >-
   idea is A's; the derivation and wording are the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpx9nrj — Proposed; filed in this filing of 2026-11-22 -->
 
 # CLAIM-tmpk4bou: A regulation that only adds hard constraints to a fixed dynamical model can only shrink the compatibility complex of the public demands, so it cannot relieve their frustration; a regulation relieves frustration among the original demands only by changing the dynamics, through the technologies, infrastructure or access it brings about
 

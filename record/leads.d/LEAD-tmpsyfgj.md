@@ -31,7 +31,7 @@ summary: A reading lead from the assistant's answer to the owner's "relate
   stays low.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpwjpc8 CLAIM-541 CLAIM-tmp0doyo CLAIM-tmpaj28t LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+<!-- inactive-ok-file: CLAIM-541 CLAIM-tmp0doyo CLAIM-tmpaj28t LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
 # LEAD-tmpsyfgj: Read Slingerland's openly available work on wu-wei, as a neighbour for his unavailable book, to check whether the name wu-wei fits the record's dynamical account of effortless action: whether the paradox concerns acquiring and keeping effortless action, and whether the cultivation and unlearning routes differ in what they conserve
 

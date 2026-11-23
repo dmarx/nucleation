@@ -23,7 +23,7 @@ summary: >-
   defence argued that Uber should share the blame; the prosecutor, that
   the operator "had one job".
 ---
-<!-- inactive-ok-file: THEORY-tmpfdyu6 CLAIM-tmp20uni — new; the theory and the claim filed from this reading -->
+<!-- inactive-ok-file: CLAIM-tmp20uni — new; the theory and the claim filed from this reading -->
 <!-- inactive-ok-file: CASE-292 CLAIM-751 CLAIM-707 THEORY-1932 — Proposed; the entries the reading bears on -->
 
 # NOTE-tmpeb1f9: The Associated Press — Backup driver of an autonomous Uber pleads guilty to endangerment in pedestrian death

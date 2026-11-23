@@ -24,7 +24,6 @@ summary: >-
   Named in [CLAIM-510](../claims.d/CLAIM-510.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-510 — Proposed; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: CASE-tmp33vf4 — new, on pull request #740 (LEAD-177), not yet on staging; the citation depends on #740 merging -->
 <!-- inactive-ok-file: CASE-333 CASE-tmp17zl1 NOTE-tmp2d035 THEORY-tmp5gcq1 — Proposed, Skimmed or new; the cases this lead found and filed, and the reading -->
 
 # LEAD-164: Find a held case that checks a measured correspondence against evidence the measurement did not itself produce

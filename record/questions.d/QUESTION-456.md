@@ -274,7 +274,7 @@ procedure, justifying the resolution, for one measurement practice. The
 question stays Open.
 
 ## Note of 2026-11-23: governance that keeps the demand set small, from [LEAD-181](../leads.d/LEAD-181.md)
-<!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
 
 [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) models the demand set as fixed and independently specified,
 with the recognized part of it set by the institution's inquiry. Under

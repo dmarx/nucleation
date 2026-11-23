@@ -48,7 +48,6 @@ summary: >-
   was used. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-902 — new, filed today with this case -->
 
 # CASE-344: Measuring PMI additivity in text8 along WordNet hypernymy and across analogy families
 

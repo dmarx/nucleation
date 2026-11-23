@@ -138,7 +138,6 @@ A's proposal (A69 §4) is to judge an epistemic planner "by the resource-bounded
 No status change.
 
 ## Note of 2026-11-23: the internal evaluator's errors are chosen, from [LEAD-181](../leads.d/LEAD-181.md)
-<!-- inactive-ok-file: CASE-tmp8mk6w — new; filed by the lead run of 2026-11-23 -->
 
 The claim's second qualification separates "Oracle-assessed availability"
 from "Operational success", the evaluator being part of the organization.

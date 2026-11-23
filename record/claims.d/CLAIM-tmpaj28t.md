@@ -45,7 +45,7 @@ summary: 'The assistant''s answer to the owner''s "relate the conversation
   the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpwjpc8 CLAIM-711 CLAIM-758 CLAIM-tmp76xaw CLAIM-tmpcag0t CLAIM-tmpm985y CLAIM-tmpntzjo LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+<!-- inactive-ok-file: CLAIM-711 CLAIM-758 CLAIM-tmpcag0t CLAIM-tmpm985y CLAIM-tmpntzjo LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
 # CLAIM-tmpaj28t: The tension between identity stabilization and adaptability has the shape of the paradox of wu-wei, that one cannot try to be effortless, and the two classical routes to wu-wei correspond to its two halves: cultivation, which stabilizes slow structure until fast right response costs nothing, and unlearning, which sheds consolidated structure to keep response open; each route's characteristic failure is the risk the other names, rigid ritual for the first and the loss of the structure that made response cheap for the second
 

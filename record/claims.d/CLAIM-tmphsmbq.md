@@ -25,7 +25,7 @@ summary: 'The owner''s, 2026-11-23, in this session: "the bottomless regress
   offers a resemblance, not an identity. The owner''s.'
 ---
 
-<!-- inactive-ok-file: ARG-tmpqy0xr CLAIM-tmpklggb CLAIM-tmpw11e6 — Proposed; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: ARG-tmpqy0xr CLAIM-tmpw11e6 — Proposed; cited in this filing of 2026-11-23 -->
 
 # CLAIM-tmphsmbq: The regress of anchors, in which a protected anchor's own error needs a further anchor to correct it, resembles Gödel's incompleteness
 

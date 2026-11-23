@@ -1,12 +1,23 @@
 ---
-status: Proposed
+status: Active
 title: 'A protected beacon''s miscalibration is unidentifiable from inside
   the sensor network by a symmetry: a world whose beacon reports z* + d and
   a world whose beacon is correct, with the target, the beacon placements
   and every sensor bias shifted (z + d, z* + d, b_i - A_i d), give every report
   identically, so no revision that uses only the network''s reports can find
   d, and correcting it needs evidence that breaks the symmetry from outside'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    rests_on CLAIM-tmpw11e6 becomes corroborated_by: the translation
+    identity is derived without it, and the simulation is an instance it
+    explains (ADR-058). Proposed to Active at the status review's ruling
+    (the owner delegated these rulings): the identity A(z+d)+(b-Ad) = Az+b
+    is re-derived step by step, and scratch/formal/beacon_gauge_check.py
+    reproduces (1,000 trials, 0 mismatches; rank deficiency 2 for k = 1,
+    2, 3, 5).
 role: thesis
 warrant: demonstrated
 defeated_if: An error in the identity, or a report available to the network
@@ -23,8 +34,6 @@ date: '2026-11-23'
 line:
 - distributed-agency
 - formal-apparatus
-rests_on:
-- CLAIM-tmpw11e6
 complements:
 - CLAIM-tmpxoxys
 - CLAIM-148
@@ -36,7 +45,7 @@ summary: 'The assistant''s, answering the owner''s comparison with Gödel ([CLAI
   this session); adopting it is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpw11e6 CLAIM-tmpxoxys — Proposed; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpw11e6 — Proposed; cited in this filing of 2026-11-23 -->
 
 # CLAIM-tmpklggb: A protected beacon's miscalibration is unidentifiable from inside the sensor network by a symmetry: a world whose beacon reports z* + d and a world whose beacon is correct, with the target, the beacon placements and every sensor bias shifted (z + d, z* + d, b_i - A_i d), give every report identically, so no revision that uses only the network's reports can find d, and correcting it needs evidence that breaks the symmetry from outside
 

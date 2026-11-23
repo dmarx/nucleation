@@ -30,7 +30,7 @@ summary: >-
   call.
 ---
 <!-- inactive-ok-file: CLAIM-180 CLAIM-182 — Proposed; the claims this reading is read with, cited as under test -->
-<!-- inactive-ok-file: CASE-tmp4niuz CLAIM-tmpc5mmp CLAIM-tmp9w3p9 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpc5mmp — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmp49ilj: That held content was re-derived without its code in 20 of 48 reconstructed exchanges is a failure to find the code, which the anchoring account already allows, not evidence that addresses fail to anchor: it bears on discoverability, not on whether a found code stops re-derivation
 
@@ -64,3 +64,9 @@ reconstructions cannot measure that.
   whatever the cause.
 - It does not say the record's views made codes discoverable. That is
   what the counts call into question.
+
+## Note of 2026-11-23: what holds it back
+
+[CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md) is now Active and reproduces; this is one of two readings of
+its counts, with [CLAIM-tmpc5mmp](CLAIM-tmpc5mmp.md), and the choice between them is the owner's
+under [ADR-127](../decisions.d/ADR-127.md).

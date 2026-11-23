@@ -1,16 +1,23 @@
 ---
 number: 948
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpw3bak
 title: 'The coupled meaning–influence model reduced to two specialists and scalar authority is a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, so it adds nothing to that class; against fixed-weight and reflected-appraisal models, and against Gaussian bounded confidence off a balanced corpus, it produces authority chosen by the initial interpretation and switched by the evidence with hysteresis, which they cannot'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-090, from the
     executed study CASE-363.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its grounds CASE-363 (Active at this review)
+    and THEORY-1161 are Active; the loop widths reproduce for every
+    kernel; no objection.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -52,7 +59,6 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
 ---
-<!-- inactive-ok-file: CASE-363 — new; the study this claim rests on and its companion, filed in the same batch -->
 
 # CLAIM-948: The coupled meaning–influence model reduced to two specialists and scalar authority is a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, so it adds nothing to that class; against fixed-weight and reflected-appraisal models, and against Gaussian bounded confidence off a balanced corpus, it produces authority chosen by the initial interpretation and switched by the evidence with hysteresis, which they cannot
 

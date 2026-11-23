@@ -91,7 +91,6 @@ bears_on:
 - QUESTION-054
 - QUESTION-365
 ---
-<!-- inactive-ok-file: CLAIM-tmpmk036 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: THEORY-1283 — Open or Proposed; the outward route filed as a question, and Massumi's micropolitics set beside this claim -->
 <!-- inactive-ok-file: CLAIM-162 ARG-016 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
@@ -380,3 +379,12 @@ the work so that the people say they did it themselves (paraphrased from
 common knowledge of the text, not checked). This is an analogy; no edge
 is written. The regulation thread of the exchange "Explain First Contact
 RL" ([CLAIM-tmptfpf7](CLAIM-tmptfpf7.md), generative regulation) is the same shape.
+
+## Note of 2026-11-23: what holds it back
+
+Checked after [CLAIM-361](CLAIM-361.md)'s revision of 2026-11-21, an attribution note that
+changes nothing here. The claim is still held by its ground [THEORY-070](../theory.d/THEORY-070.md):
+[CASE-382](../cases.d/CASE-382.md) and [CLAIM-981](CLAIM-981.md) (Proposed) give its promote_when (1) a candidate fit
+on a revealed-choice measure, not the accumulator parameter or conflict
+adaptation it names, and whether that suffices is left to the owner in
+[THEORY-070](../theory.d/THEORY-070.md)'s note of 2026-11-22.

@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'In the toy model of superposition with six features in two dimensions, 1,008 SGD runs not started at the 6-gon, across n from 300 to 2,000, batch sizes 1 to 100, rates 0.001 to 0.2, four initialisations and up to 45,000 epochs, never reach it, while the sampled posterior passes from the 5-gon to the 6-gon at n ≈ 270 in the free-energy formula''s units, not 601'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -9,6 +9,15 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-175 for
     QUESTION-363. Scripts, tests and results are committed under
     scratch/studies/lead-175/, with a README saying how to rerun.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Proposed to Active at the status review's ruling (the owner delegated
+    these rulings): the run reproduces; the 28 tests pass, every summary
+    regenerates identically from the committed runs, and reruns of one SGD
+    job (96 runs) and of the first two confined-HMC blocks of region 6
+    match the committed output bit for bit. The full sweep and the rest of
+    the posterior were not rerun.
 standing: documented
 kind: executed-study
 tags:
@@ -42,7 +51,6 @@ summary: >-
   2. The wording is the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpg8m7a CLAIM-tmp9zqvq CLAIM-tmpraadt — the claims filed from this study, new -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed; Dong's test of a temperature, cited as a check -->
 
 # CASE-tmpgqbyq: In the toy model of superposition with six features in two dimensions, 1,008 SGD runs not started at the 6-gon, across n from 300 to 2,000, batch sizes 1 to 100, rates 0.001 to 0.2, four initialisations and up to 45,000 epochs, never reach it, while the sampled posterior passes from the 5-gon to the 6-gon at n ≈ 270 in the free-energy formula's units, not 601

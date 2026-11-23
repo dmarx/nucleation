@@ -38,7 +38,7 @@ summary: 'The assistant''s qualification of the owner''s point that mechanics
   this session); adopting it is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CASE-tmp17zl1 CLAIM-510 CLAIM-tmpklggb CLAIM-tmpw11e6 — Proposed; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-tmp17zl1 CLAIM-510 CLAIM-tmpw11e6 — Proposed; cited in this filing of 2026-11-23 -->
 
 # CLAIM-tmpnl4xk: An independent physical witness certifies every difference among the channels that read it and never their common mode: if k channels each read the same placed points with an offset of their own, their reports identify every difference between offsets and leave one shift of all offsets and points together unidentified, however many channels there are; so the regress of anchors ends at a witness only together with a standard fixed by definition, which is how measurement ends it, and an error every channel shares stays invisible
 
@@ -82,3 +82,11 @@ channels cannot expose it, for example an assumption of the theory each
 instrument's reading relies on. Exposing it takes a channel that does not
 share it. Independence of technique lowers the chance of a shared error,
 but it does not make one observable.
+
+## Note of 2026-11-23: what holds it back
+
+The rank computation is reproduced (scratch/formal/beacon_gauge_check.py),
+but the title's clause that a standard fixed by definition 'is how
+measurement ends' the regress rests on no reading the record holds; a read
+source on the SI's defined constants and traceability, or a narrowing that
+drops the clause to a Proposed interpretive claim, would free it.

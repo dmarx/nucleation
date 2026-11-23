@@ -206,7 +206,7 @@ without slowing each decision, as CLAIM-711 says is possible. Relation: corrobor
 
 Background, not evidence ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)). The content-neutral regulations Frischmann and Benesch sketch are standing rules set in advance, with triggers (a count of forwards, a border, social-graph distance) that delay what they catch and leave the rest alone (pp. 437–42): the shape this claim describes. They justify them by the deliberation they allow, not by interruptibility, and report no test. Relation: none. No status changes.
 
-<!-- inactive-ok-file: CLAIM-tmp947v0 CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
+<!-- inactive-ok-file: CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
 
 ## Note of 2026-11-23: the slow commitment applied fast
 
@@ -220,3 +220,13 @@ residual case, an emergency outside the preauthorized categories, which
 needs "an escalation or revision pathway rather than merely faster
 execution of obsolete rules". [CLAIM-tmp947v0](CLAIM-tmp947v0.md) and [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md) cite this
 claim.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: TERM-125 — Proposed; the sense this waits on -->
+Whether its counterexample removes friction or relocates it, the first
+clause of its defeated_if, turns on whether an independent execution gate is
+procedural friction in [CLAIM-710](CLAIM-710.md)'s sense, which [TERM-125](../terms.d/TERM-125.md) leaves open and
+[CLAIM-710](CLAIM-710.md)'s note of 2026-11-22 on [CASE-316](../cases.d/CASE-316.md) leaves to the owner. Promoting it
+would also make its concession due on [CLAIM-710](CLAIM-710.md), the owner's own claim, so
+the sense must be settled first.

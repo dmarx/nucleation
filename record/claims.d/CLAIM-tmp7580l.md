@@ -32,7 +32,7 @@ summary: >-
   is A's (ChatGPT, in the exchange of 2026-11-22); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpm54la CLAIM-tmpl1hgv TERM-148 — Proposed; the claim objected to, the restatement filed beside this one, and neighbours -->
+<!-- inactive-ok-file: CLAIM-tmpm54la TERM-148 — Proposed; the claim objected to, the restatement filed beside this one, and neighbours -->
 
 # CLAIM-tmp7580l: A team's members are necessarily separable as carriers, but its perspectives need not be: one perspective can span members and one member can realize several, and in a model where each member's perspective is a distribution over a shared interpretive space, the members' carrier-tagged measures are always mutually singular while the measures they project to can coincide
 
@@ -97,3 +97,10 @@ The weaker reading of U10, that a team's perspectives can be addressed one
 member at a time, A grants and builds on ([CLAIM-tmpl1hgv](CLAIM-tmpl1hgv.md)): "The team gives
 us separable sites of intervention, not necessarily separable units of
 perspective."
+
+## Note of 2026-11-23: what holds it back
+
+Its target [CLAIM-tmpm54la](CLAIM-tmpm54la.md), the owner's thesis, keeps two readings for the
+owner to choose between; promoting this objection would settle that choice
+by conceding the stronger one. Its premise [CLAIM-418](CLAIM-418.md) is Active and its
+demonstration checks.

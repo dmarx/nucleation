@@ -31,7 +31,7 @@ advances:
 summary: >-
   Named in [NOTE-984](../notes.d/NOTE-984.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-tmpdsu37 LIT-tmpzikaq NOTE-tmpv196v THEORY-tmpyi9zg — new and Unfetched, filed by the lead run of 2026-11-23 and cited in the note of that date -->
+<!-- inactive-ok-file: LIT-tmpzikaq NOTE-tmpv196v THEORY-tmpyi9zg — new and Unfetched, filed by the lead run of 2026-11-23 and cited in the note of that date -->
 
 # LEAD-192: Prove a projection perturbation bound for the coarse-graining claim, reading the biorthogonal diffusion wavelets first
 

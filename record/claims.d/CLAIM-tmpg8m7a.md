@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'In the toy model of superposition trained by plain SGD on squared error, a feature whose output is silenced for every input and whose input excites no output gets an exactly zero gradient from every sample, so no learning rate, batch size or training time revives it; at the 5-gon the dropped feature is such a feature for as long as the other biases stay non-positive'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Proposed to Active at the status review's ruling (the owner delegated
+    these rulings): the proof is re-derived step by step (the step to z_i
+    <= 0 holds for either sign of W_m.W_i since mu is in [0, 1]; Wg = 0
+    follows by convexity in mu), and the frozen-column test reproduces.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -32,7 +40,6 @@ summary: >-
   posterior moves them through the prior. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpgqbyq CLAIM-tmp9zqvq — new, filed with this claim -->
 <!-- inactive-ok-file: THEORY-1353 — Proposed; Dong's test of a temperature, cited as the neighbouring point -->
 
 # CLAIM-tmpg8m7a: In the toy model of superposition trained by plain SGD on squared error, a feature whose output is silenced for every input and whose input excites no output gets an exactly zero gradient from every sample, so no learning rate, batch size or training time revives it; at the 5-gon the dropped feature is such a feature for as long as the other biases stay non-positive

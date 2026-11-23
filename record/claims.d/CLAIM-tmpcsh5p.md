@@ -1,7 +1,18 @@
 ---
-status: Proposed
+status: Active
 title: 'For an adaptive inquiry the achievement is not flow as a state but flow-regulation as an organizational capability: to enter, sustain, interrupt and recover fluent coordination without losing the history of what was learned, so that a coordination system should remove the interruptions that rediscover what was settled while keeping those that expose an unaddressed objection or an inadequate premise'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted by the status review (ADR-057), at the status review's ruling
+    (the owner delegated these rulings): it has no premise; TERM-061,
+    which it uses, is Active; no live objection; nothing meets its
+    defeated_if, since the body's own gap paragraph limits how far the two
+    kinds of interruption can be sorted in advance without showing that
+    they cannot be. Its complements CLAIM-710 and CLAIM-711 stay Proposed
+    and are not premises.
 role: thesis
 warrant: interpretive
 defeated_if: >-

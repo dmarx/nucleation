@@ -55,7 +55,7 @@ draws_on:
 - THEORY-004
 - THEORY-tmpac7iw
 ---
-<!-- inactive-ok-file: THEORY-tmpac7iw CLAIM-tmpv65bg ARG-tmpyjmij — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
+<!-- inactive-ok-file: ARG-tmpyjmij — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-885 — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1826 — Unfetched since 2026-10-29; Chesson 1990, cited in the note of that date as not read, nothing here rests on it -->

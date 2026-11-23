@@ -38,7 +38,6 @@ summary: A34 of the exchange "Explain First Contact RL" (ChatGPT, second share
   adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpk4bou CLAIM-tmpx9nrj — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
 # CLAIM-tmptfpf7: Regulation governs possibility: it shapes which actions, relationships, capabilities and forms of coexistence are admissible, attainable, sustainable and revisable, so it is generative when it makes forms of organization attainable that were not, stabilizing when it keeps valuable capabilities through disturbance, and reflexive when its own specifications stay correctable, and there is no choice between governed and ungoverned possibility, only between organizations of it
 

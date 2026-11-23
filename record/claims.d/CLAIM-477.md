@@ -486,3 +486,13 @@ whose constraints are effective, or have actual realizers. That is a
 change of scope, and it is the owner's to make.
 
 No status, title or warrant changes.
+
+## Note of 2026-11-23: what holds it back
+
+Checked the revisions since the note of 2026-11-06 ([CLAIM-136](CLAIM-136.md), [CLAIM-151](CLAIM-151.md),
+[TERM-070](../terms.d/TERM-070.md), [THEORY-1066](../theory.d/THEORY-1066.md), [THEORY-1078](../theory.d/THEORY-1078.md), [THEORY-158](../theory.d/THEORY-158.md)): each moved an edge only,
+and [CLAIM-136](CLAIM-136.md) and [CLAIM-151](CLAIM-151.md) remain Proposed, so the template still has no
+held domain case. [CLAIM-tmph783a](CLAIM-tmph783a.md) and [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md) are live objections
+answered only by the Proposed [CLAIM-tmpfbofs](CLAIM-tmpfbofs.md) and [CLAIM-tmpr0sfe](CLAIM-tmpr0sfe.md); which
+reading of defeater (b) the claim intends, and whether to adopt the
+Reframing of 2026-11-22, are the owner's.

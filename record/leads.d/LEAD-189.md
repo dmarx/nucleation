@@ -62,7 +62,7 @@ of [QUESTION-476](../questions.d/QUESTION-476.md); proceedings against the opera
 [CLAIM-751](../claims.d/CLAIM-751.md)'s contrast.
 
 ## Note of 2026-11-22: carried out, and what remains
-<!-- inactive-ok-file: THEORY-tmp9j928 THEORY-tmpm653d THEORY-tmpfdyu6 CLAIM-tmp20uni CLAIM-tmp64hmn CLAIM-tmpauu5r CASE-tmptkkgm ARG-tmpql8m1 ARG-tmp117cw — new; filed for this lead on 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-tmp9j928 CLAIM-tmp20uni CLAIM-tmpauu5r CASE-tmptkkgm ARG-tmpql8m1 ARG-tmp117cw — new; filed for this lead on 2026-11-22 -->
 <!-- inactive-ok-file: LIT-tmp0on8b THEORY-2000 CLAIM-750 — Unavailable or Proposed; the paper not read, the theory whose promote_when is met and the claim advanced -->
 
 Carried out on 2026-11-22 by a delegated worker (Claude, in this session), on the branch claude/lead-189-blameless-postmortem.

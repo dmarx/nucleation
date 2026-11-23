@@ -49,7 +49,7 @@ summary: >-
   the other reading. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpqnoj1 CLAIM-tmpd6gon CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmpf0b31: In a simulated federated learner with two of seven evaluators compromised, revisable safeguards with an honest monitor moved the trade-off between attack and dissent further than fixed role-limited audit: they cut the success of an attack that mimics dissent from 0.27 to 0.10 and raised the minority's capability from 0.59 to 0.77, suspending attackers far more often than dissenters; their suspension of the honest majority's mistaken pull is the safeguard working, not suppression of dissent
 
@@ -83,3 +83,11 @@ attacker, A41's "manipulation of the revision mechanism itself".
   it to the monitor ([CLAIM-tmpd6gon](CLAIM-tmpd6gon.md) moves it to the thinnest block).
 - It does not say suspending honest members is free. It costs 0.01 of main
   capability without an attack, and it is a cost of the safeguard.
+
+## Note of 2026-11-23: what holds it back
+
+It and [CLAIM-tmp3t5y3](CLAIM-tmp3t5y3.md) are alternative readings of [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md)'s adaptive
+arm, on the same numbers, which reproduce. Which reading the record takes,
+whether suspending the honest but mistaken majority counts as suppressing
+honest participation, is the owner's choice and has not been made. The
+assistant leaned to CLAIM-tmpf0b31.

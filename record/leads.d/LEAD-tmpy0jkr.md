@@ -32,7 +32,6 @@ summary: >-
   can recover without continuous support." The wording is A's (ChatGPT,
   in the exchange of 2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpk4bou CLAIM-tmpx9nrj — Open or Proposed; filed in this filing of 2026-11-22 -->
 
 # LEAD-tmpy0jkr: Build a model industrial ecosystem with heterogeneous producers, a shared infrastructure bottleneck, an externality and a few declared public demands, and compare an unregulated baseline, a uniform conduct constraint and a regime that also changes infrastructure access, measuring the compatibility complex, realized violations and the recovery of rare capabilities
 

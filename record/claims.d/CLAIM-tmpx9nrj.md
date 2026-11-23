@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'Possibility and realization are separate dimensions of a regulatory regime: its compatibility complex says which sets of public demands some attainable history meets, the probability of meeting them under a model of participants'' behaviour says how reliably the regime selects such a history, and a regime can improve either without the other'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: its premise CLAIM-347 is Active; the
+    two-history construction separates the complex from P_D in both
+    directions; no objection; the defeated_if is not met.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

@@ -47,7 +47,6 @@ summary: >-
   settlement with the company shortly after the crash". It bears on
   [QUESTION-476](../questions.d/QUESTION-476.md) and [CLAIM-751](../claims.d/CLAIM-751.md), and on the objection [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md).
 ---
-<!-- inactive-ok-file: CLAIM-tmp64hmn — new; the objection the reading supplies -->
 <!-- inactive-ok-file: CLAIM-751 — Proposed; the claim the reading bears on -->
 
 # LIT-tmp4sapc: Uber Not Criminally Liable In Death Of Woman Hit By Self-Driving Car, Prosecutor Says

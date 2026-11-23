@@ -28,7 +28,7 @@ summary: The assistant's assessment of the owner's comparison ([CLAIM-tmphsmbq](
   (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-184 CLAIM-tmpklggb CLAIM-tmpw11e6 CLAIM-tmpxoxys — Proposed; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-184 CLAIM-tmpw11e6 — Proposed; cited in this filing of 2026-11-23 -->
 
 # ARG-tmpqy0xr: The hierarchy of Gödel's incompleteness, in which a consistent theory cannot prove its own consistency and the stronger theory that can has its own unprovable consistency, shows by analogy the shape of the regress of anchors, a system unable to certify its own ground from within with each added level certifying the one below and not itself, and not its mechanism, which is a symmetry the system's reports cannot break and not a diagonal sentence
 

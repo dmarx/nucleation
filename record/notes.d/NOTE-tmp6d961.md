@@ -30,7 +30,6 @@ summary: >-
   ratio organizes the chapter's conservation advice.
 ---
 <!-- inactive-ok-file: LIT-1826 LIT-1219 — Unfetched and Unavailable; the 1990 paper this reading stands in for, and Chesson's 2000 review the chapter cites as [5], not read -->
-<!-- inactive-ok-file: CLAIM-tmpv65bg — Proposed, filed by the lead run of 2026-11-22 from this reading -->
 
 # NOTE-tmp6d961: Chesson — Ecological Niches and Diversity Maintenance
 

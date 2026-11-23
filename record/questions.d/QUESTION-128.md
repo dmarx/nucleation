@@ -262,7 +262,7 @@ Open.
 
 ## Note of 2026-11-22: the forager run, [LEAD-177](../leads.d/LEAD-177.md)
 
-<!-- inactive-ok-block: CASE-tmpz762n CLAIM-tmppa4rs CLAIM-tmpnc1mf CLAIM-tmphrp1s CASE-239 — new or Proposed; the run of CASE-239, the design itself, and the claims drawn from it -->
+<!-- inactive-ok-block: CLAIM-tmpnc1mf CLAIM-tmphrp1s CASE-239 — new or Proposed; the run of CASE-239, the design itself, and the claims drawn from it -->
 [CASE-239](../cases.d/CASE-239.md)'s forager was run as [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md). A learner that forms its
 warnings from its own energy account, with no feature-to-failure mapping
 supplied, revised which features count where a change needed it

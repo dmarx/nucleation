@@ -62,7 +62,6 @@ complements:
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-059 CLAIM-078 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 <!-- ref::uses-file: TERM-084 — "later entries reach the claim by descent, by its code, not by resemblance" is descent in TERM-084's sense, the continuity of transmission a code restores -->
-<!-- inactive-ok-file: CASE-tmp4niuz CLAIM-tmp9w3p9 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-191: Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
 
@@ -191,3 +190,10 @@ items, once restated, keep their identity as well as coded ones. That
 half is not testable from the reconstructions either: they report a
 restatement almost only when it fails ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)). The blind rating
 still needs verbatim transcripts. No change of status or title.
+
+## Note of 2026-11-23: what holds it back
+
+Checked [CLAIM-772](CLAIM-772.md)'s revisions of 2026-11-20 and 2026-11-21, which read this
+claim's direction clause and do not test it, and [CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md), which rated
+no direction. [CLAIM-090](CLAIM-090.md) and [CLAIM-182](CLAIM-182.md) remain Proposed, and no blind rating
+of re-derivations across sessions is held.

@@ -46,7 +46,7 @@ bears_on:
 complements:
 - CLAIM-478
 ---
-<!-- inactive-ok-file: CLAIM-478 CLAIM-tmpo6ehq CLAIM-tmpa694z CLAIM-tmpervl4 — Proposed; the claim whose defeater names this one and the verdict on Ott and Antonsen, 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-478 CLAIM-tmpa694z CLAIM-tmpervl4 — Proposed; the claim whose defeater names this one and the verdict on Ott and Antonsen, 2026-11-22 -->
 
 # CLAIM-394: In a stationary linear Gaussian VAR(1) that is time-reversible (AΠ = ΠAᵀ, Π the stationary covariance), every slow-feature direction is a left eigenvector of A, so any span of slow features is an exactly dynamically independent coarse-graining; off reversibility a slow feature is in general neither independent nor free of memory
 

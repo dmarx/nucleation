@@ -43,8 +43,8 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpo6ehq CLAIM-tmpervl4 THEORY-tmpmvcnr THEORY-tmp0d58z ARG-tmp5xhiv THEORY-tmpgdriu — Proposed or new; filed with this claim for LEAD-094 -->
-<!-- inactive-ok-file: CLAIM-478 CLAIM-626 — Proposed; the claim this defends and the claim on critical slowing it cites -->
+<!-- inactive-ok-file: CLAIM-tmpervl4 THEORY-tmp0d58z ARG-tmp5xhiv THEORY-tmpgdriu — Proposed or new; filed with this claim for LEAD-094 -->
+<!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this defends and the claim on critical slowing it cites -->
 
 # CLAIM-tmpa694z: Ott and Antonsen's reduction does not meet the rate-difference claim's first defeater: its closed order-parameter law holds on a manifold that is exactly invariant, so the relation that constrains is maximally persistent rather than free of persistence, the limit of slowness as an exact conservation law is; and it holds only in a narrow class, infinitely many oscillators coupled through the first harmonic alone with spread frequencies, so it is an exception of the kind the defeater sets aside, an instance of the non-necessity the claim already concedes
 

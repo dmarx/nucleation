@@ -358,7 +358,6 @@ unchanged.
 [CASE-353](../cases.d/CASE-353.md) ([LEAD-020](../leads.d/LEAD-020.md)) simulates this claim's thesis in one mind with action held fixed. The loop stays out of lock-in when something scores or weights it that its authority does not set: commitment before evidence, processing signals or exogenous capture. Evidence that arrives unselected but is attended through the loop's authority keeps it sighted without anchoring it. So of "arrival or scoring", in that model only scoring anchors, plus arrival that carries its own weight past attention, as capture does. This claim's caveat about pooling appeared too. Capture of the sensory channel failed (lock-in 0.77) when an attended body channel outweighed it. In [TERM-147](../terms.d/TERM-147.md)'s terms, these anchors are not independent of the loop's state in either sense: the committed score reads the evidence as attended, and capture compares the input with the interpretation. What they share is that the loop's authority does not set their weight. [CLAIM-931](CLAIM-931.md) states the finding. No status changes.
 
 ## Note of 2026-11-23: the compromised evaluator, run
-<!-- inactive-ok-block: CASE-tmpqnoj1 CLAIM-tmpxoxys CLAIM-tmpd6gon — new; filed by the lead run of 2026-11-23 -->
 
 [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) runs [CASE-108](../cases.d/CASE-108.md)'s evaluator variant, which tests this claim. Three
 findings. Without evidence on a block of tasks that does not pass

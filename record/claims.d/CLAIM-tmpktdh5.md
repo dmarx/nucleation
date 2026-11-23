@@ -113,3 +113,11 @@ and the inequality is equality.
 - That the inequality certifies itself. Its constants, and the claim that
   the property depends on the system only through what the probes
   measure, are premises shown by other means.
+
+## Note of 2026-11-23: what holds it back
+
+Its mathematics checks (Pinsker's inequality with the bound on KL at a
+boundary context). Whether [CLAIM-266](CLAIM-266.md) narrows to concede it (Alternative A)
+or the objection is answered by reading 'certify' as the probe value alone
+(Alternative B) is filed on [CLAIM-266](CLAIM-266.md)'s note of 2026-11-22 for the owner,
+and not yet chosen; the review leans to A.

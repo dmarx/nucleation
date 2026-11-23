@@ -1,13 +1,20 @@
 ---
-status: Proposed
+status: Active
 title: 'In an institution each of whose recognized violations is penalized, newly recognized ones included, whose discovery of requirements earns nothing, and whose remediation lags recognition, inquiry that only reveals requirements never raises its score when the hidden requirements do not otherwise come to light: on every path it adds only penalized violations and spent budget, so an institution acting on that score makes no inquiry'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-23'
   note: >-
     Filed 2026-11-23 by the assistant, carrying out LEAD-181, from the
     model and runs of CASE-tmp8mk6w.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its ground CASE-tmp8mk6w went Active on a
+    reproduced rerun; the coupling argument was rechecked and the path-by-
+    path test passes.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -51,7 +58,6 @@ summary: >-
   outside. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp8mk6w — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmpbbfcj: In an institution each of whose recognized violations is penalized, newly recognized ones included, whose discovery of requirements earns nothing, and whose remediation lags recognition, inquiry that only reveals requirements never raises its score when the hidden requirements do not otherwise come to light: on every path it adds only penalized violations and spent budget, so an institution acting on that score makes no inquiry
 

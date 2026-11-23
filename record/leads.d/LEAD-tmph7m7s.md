@@ -32,7 +32,7 @@ summary: >-
   2026-11-22); the outcome coding and the channel arm are the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpl1hgv CLAIM-tmpqr0tn — Proposed; the claims this lead tests -->
+<!-- inactive-ok-file: CLAIM-tmpqr0tn — Proposed; the claims this lead tests -->
 
 # LEAD-tmph7m7s: Intervene on a record-keeping team's members and record one at a time, replacing a member while keeping the record, withdrawing the record while keeping the members, and giving one member justified dissent, to see whether team-level dispositions persist and how the team answers the dissent
 

@@ -70,7 +70,7 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-619 — filed from the same exchange, Proposed; the case the finking row names -->
 <!-- inactive-ok-file: TERM-086 TERM-104 CLAIM-553 CLAIM-417 THEORY-670 CLAIM-445 TERM-098 — Proposed; the entries whose uses of the word this term sorts, cited as open -->
-<!-- inactive-ok-file: TERM-tmpwc4la CLAIM-tmp0dyx8 CLAIM-052 — new, or Proposed; the dispositional address, the correction and non-commuting framings, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: TERM-tmpwc4la CLAIM-052 — new, or Proposed; the dispositional address, the correction and non-commuting framings, cited in the note of 2026-11-22 -->
 
 # TERM-118: disposition, of a declared bearer within a declared boundary, and which sense: an ability held across a declared family of conditions whether or not it is exercised, a tendency to manifest a response across relevant circumstances, or the standing repertoire of a self or perspective; not an action-generating regime, the sense the record retired; and the three ways an attribution from behaviour fails: masked, mimicked and finked
 
@@ -230,3 +230,11 @@ Still not adopted, on two of the three uses the note of 2026-11-18 named. The mo
 ## Note of 2026-11-22: a perspective located by its dispositions, and the test that changes them
 
 In the exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22), A11 §§1–2 assembled this term with [TERM-067](TERM-067.md) and [TERM-069](TERM-069.md) into a "dispositional address" of a perspective, q ↦ P(Y | p, do(q)) over a probe family, filed as [TERM-tmpwc4la](TERM-tmpwc4la.md). A11 §6 cited this term's three failures ("a disposition can be masked, mimicked, or altered by the test itself") and went further: "the probe changes the perspective being measured", p_{t+1} = F(p_t, q_t, Y_t). A13 §4 and A15 §4 generalized it: a test may "activate, inhibit, reorganize, or even help constitute" the perspective whose disposition it measures, and two orders of the same tests may give two outcomes. A fink is one case of this: the stimulus removes the disposition it would reveal. The general case makes the address a property of probe sequences, as [TERM-069](TERM-069.md)'s last clause and [CLAIM-052](../claims.d/CLAIM-052.md) say for framings. When such a change ends a distinction, it is not regime-relative ([CLAIM-tmp0dyx8](../claims.d/CLAIM-tmp0dyx8.md)). A use and a generalization; no change to the definition.
+
+## Note of 2026-11-23: what holds it back
+
+Rechecked after the uses added on 2026-11-22 in [TERM-tmpwc4la](TERM-tmpwc4la.md) and CLAIM-
+tmp0dyx8. [ARG-069](../arguments.d/ARG-069.md) still leaves the forking disposition's bearer open and
+[ARG-059](../arguments.d/ARG-059.md) still calls [CLAIM-619](../claims.d/CLAIM-619.md) a fink against the finking row since version
+3, so the term's own condition, that each use says which bearer and which
+sense, is still unmet.

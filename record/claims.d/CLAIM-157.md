@@ -451,3 +451,16 @@ members desynchronize and resynchronize under the slower modes. The
 gap-isolated block is the unit, with a numerical threshold for one network
 family; the paper does not compare the gap with an Occam factor. The
 criterion is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+Rechecked after [CASE-334](../cases.d/CASE-334.md) and [CLAIM-904](CLAIM-904.md), [CASE-311](../cases.d/CASE-311.md) and [CLAIM-869](CLAIM-869.md), [CASE-347](../cases.d/CASE-347.md) and
+[CLAIM-926](CLAIM-926.md), [CLAIM-780](CLAIM-780.md) and [CLAIM-781](CLAIM-781.md), [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), and the notes of
+2026-11-22 and 2026-11-23 on [QUESTION-218](../questions.d/QUESTION-218.md) and [QUESTION-116](../questions.d/QUESTION-116.md). The necessity
+half of the defeated_if is still unanswered and now pressed: [CLAIM-904](CLAIM-904.md)
+measures two closed modes that compensate (and one entrains) and that the
+test on member groupings does not single out, and [CLAIM-869](CLAIM-869.md) a Life block
+that compensates and fails it, each one model at one setting and both
+Proposed; [QUESTION-218](../questions.d/QUESTION-218.md) is still Open on whether such a mode is one system,
+and [QUESTION-116](../questions.d/QUESTION-116.md) leaves to the owner whether [CASE-347](../cases.d/CASE-347.md)'s lagged test answers
+it. The duration clause still has no window or tolerance.

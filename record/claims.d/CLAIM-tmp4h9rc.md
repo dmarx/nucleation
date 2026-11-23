@@ -36,7 +36,7 @@ summary: 'The owner''s, 2026-11-23, in this session: "The governance experiments
   owner''s.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp5wozo CLAIM-tmpvqmwc CLAIM-tmpw11e6 CLAIM-tmpxoxys CLAIM-tmpz8q70 — Proposed or Open; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpw11e6 CLAIM-tmpz8q70 — Proposed or Open; cited in this filing of 2026-11-23 -->
 
 # CLAIM-tmp4h9rc: A system's ability to correct itself depends not simply on having critics or feedback but on how evidence, evaluation and authority are coupled, and on what the system is prevented from rewriting or rejecting
 

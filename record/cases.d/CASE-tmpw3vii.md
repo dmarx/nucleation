@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'Role-indexed against scalar grants, and operators bound by the two grant conditions against unbound ones, in a population built on the coupled meaning–influence model'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): the study in scratch/studies/lead-190/ was
+    rerun on 2026-11-23: its tests pass and its result files reproduce
+    exactly, so it is demonstrated (status-review README section 2).
 standing: documented
 kind: executed-study
 tags:
@@ -33,8 +41,7 @@ summary: >-
   construction; the numbers are of this model. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-363 CLAIM-281 CLAIM-285 CLAIM-947 — Proposed; the built model this study extends and the claims it tests, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmp5wozo CLAIM-tmppm30v CLAIM-tmpdpnid CLAIM-tmpoc6mo — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-281 CLAIM-285 — Proposed; the built model this study extends and the claims it tests, cited as open -->
 
 # CASE-tmpw3vii: Role-indexed against scalar grants, and operators bound by the two grant conditions against unbound ones, in a population built on the coupled meaning–influence model
 

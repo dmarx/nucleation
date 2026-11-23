@@ -24,7 +24,7 @@ summary: >-
   presses it. Proposed. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpfdyu6 CLAIM-tmp20uni CLAIM-tmp64hmn — new; the reading, the claim concluded and its objection -->
+<!-- inactive-ok-file: CLAIM-tmp20uni — new; the reading, the claim concluded and its objection -->
 <!-- inactive-ok-file: THEORY-1932 CASE-292 THEORY-1999 — Proposed; the report's reading, the case and the statute's reading -->
 
 # ARG-tmpql8m1: The criminal process and the NTSB's investigation of the same Tempe crash, by contrast, show the process that assigns blame stopping at the operator where the process barred from it reached the company and the state

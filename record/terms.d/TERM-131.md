@@ -146,3 +146,11 @@ retained change in what one sees as similar, learned by doing problems,
 which alters what one can later do and leaves the knowledge in the
 organization rather than in statable rules, corrigible through further
 education and misfits with the environment.
+
+## Note of 2026-11-23: what holds it back
+
+The definition is not settled: a candidate version 3, asking each claim that
+uses the term to say whether the retention it means is localized or
+identified but distributed (the owner's proposal of 2026-11-19, in this
+entry's note of that date), waits on the owner's ruling. [CLAIM-758](../claims.d/CLAIM-758.md) waits on
+it.

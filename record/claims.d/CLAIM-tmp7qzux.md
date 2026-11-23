@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'The observational partitions a family of affordable probes induces are not the lattice of possible decompositions: the map from probe subsets to partitions sends a union of families to the common refinement of their partitions, but an intersection of families to a partition that can be strictly coarser than the finest common coarsening, so its image is closed under meets and not under joins, and with m probes it has at most 2^m members against the Bell number of partitions of the configurations'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -9,6 +9,14 @@ history:
     Filed 2026-11-22 by the assistant, filling a gap in A15 §2 of the
     exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22),
     checked with python3 -I.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): point 2 gains a counterexample showing the
+    image is not join-closed, which the title asserts and the proof had
+    not shown; a demonstrated claim resting on CLAIM-264 (Active); nothing
+    objects to it.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -73,6 +81,11 @@ observational equivalence).
    q1 and q2 each take three distinct values and q3 be constant. With
    Q1 = {q1, q3} and Q2 = {q2, q3}, π(Q1) and π(Q2) are both the discrete
    partition, so is their join, and π(Q1 ∩ Q2) = π({q3}) is one block.
+   The image need not be closed under joins either: on Ω = {a, b, c, d} let
+   q1 induce {a, b}{c}{d} and q2 induce {a}{b}{c, d}. The image of π is the
+   one-block partition, π({q1}), π({q2}) and the discrete partition; the
+   join π({q1}) ∨ π({q2}) = {a, b}{c, d} is none of them. Checked with
+   python3 -I.
 3. **Size.** π takes at most 2^|𝒬| values, while Ω has Bell(|Ω|)
    partitions. With five affordable probes and ten configurations, at most
    32 decompositions are visible among 115,975.

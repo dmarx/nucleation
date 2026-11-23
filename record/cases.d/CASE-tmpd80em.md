@@ -42,7 +42,6 @@ summary: >-
   construction; the numbers are of this model. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-363 CLAIM-947 — new; LEAD-090's build and its threshold, filed 2026-11-22, of which this is the two-institution variant -->
 <!-- inactive-ok-file: CLAIM-tmp0v3wu CLAIM-tmpz8q70 CLAIM-tmp42aba — new; the claims this study grounds, filed in the same batch -->
 
 # CASE-tmpd80em: Two of the built meaning–influence institutions, an evaluator and an evaluated party, coupled through the evidence and resources the party supplies and the standing the evaluator's reading confers: with each institution stable alone, the symmetric state of the pair is unstable exactly when (θ + σ_E ω)(χ + σ_P ψ) > Δ_E Δ_P, and the loop between them captures the evaluator's reading even when its own conferral is independent of its interpretation

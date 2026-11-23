@@ -1,13 +1,20 @@
 ---
-status: Proposed
+status: Active
 title: 'A simulated institution with visible and hidden requirements, run under five governance regimes: penalized for every recognized violation and unrewarded for discovery, it learns to make no inquiry in every setting while its internal record shows almost no violations, against half its budget spent on inquiry when an independent evaluator scores it; scored internally without the penalty, it inquires more only where inquiry is otherwise free or being found out from outside is costly'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-23'
   note: >-
     Filed 2026-11-23 by the assistant, carrying out LEAD-181. The model,
     tests, results and a README are under scratch/studies/lead-181/.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): the study in scratch/studies/lead-181/ was
+    rerun on 2026-11-23: its tests pass and its result files reproduce
+    exactly, so it is demonstrated (status-review README section 2).
 standing: documented
 kind: executed-study
 tags:
@@ -44,7 +51,7 @@ summary: >-
   adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-249 — Proposed; the design this study carries out -->
-<!-- inactive-ok-file: CLAIM-tmpbbfcj CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CLAIM-657 — Proposed; the second route the result instantiates -->
 
 # CASE-tmp8mk6w: A simulated institution with visible and hidden requirements, run under five governance regimes: penalized for every recognized violation and unrewarded for discovery, it learns to make no inquiry in every setting while its internal record shows almost no violations, against half its budget spent on inquiry when an independent evaluator scores it; scored internally without the penalty, it inquires more only where inquiry is otherwise free or being found out from outside is costly

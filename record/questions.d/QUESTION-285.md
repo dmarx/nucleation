@@ -342,7 +342,7 @@ stays Open.
 
 ## Note of 2026-11-22: a ladder on one channel, and a network that revises its correspondences, [LEAD-177](../leads.d/LEAD-177.md)
 
-<!-- inactive-ok-block: CASE-tmpz762n CASE-tmp33vf4 CLAIM-tmppa4rs CLAIM-tmpvqmwc CASE-239 — new or Proposed; the runs of LEAD-177, the claims drawn from them and the design run -->
+<!-- inactive-ok-block: CASE-239 — new or Proposed; the runs of LEAD-177, the claims drawn from them and the design run -->
 The question's answer 2 asked for systems with identical sensory correlations
 and different memory, use and adaptivity. [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md) builds four on one
 sensor channel: acting on an absence with nothing kept, registering a bounded

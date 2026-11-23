@@ -32,7 +32,7 @@ summary: >-
   From the record's Deferred and Unfetched works. Filed by the backlog
   audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: THEORY-tmpac7iw CLAIM-tmpv65bg ARG-tmpyjmij — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
+<!-- inactive-ok-file: ARG-tmpyjmij — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
 <!-- inactive-ok-file: LIT-1827 — Unavailable; Chesson 1994, sought again on 2026-11-22 and not reached -->
 <!-- inactive-ok-file: LIT-1826 — Unfetched; cited in the backlog audit of 2026-11-19 -->
 

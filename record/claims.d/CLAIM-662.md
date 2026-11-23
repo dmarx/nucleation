@@ -178,7 +178,7 @@ requirements". [CASE-249](../cases.d/CASE-249.md) gives a design that would test
 incentive produces avoidance of inquiry.
 
 ## Note of 2026-11-23: the incentive in an adaptive institution, from [LEAD-181](../leads.d/LEAD-181.md)
-<!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmpbbfcj CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
 
 [CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) runs [CASE-249](../cases.d/CASE-249.md)'s design. Under this claim's governance the
 institution's optimal and learned inquiry is nil in every setting, while it

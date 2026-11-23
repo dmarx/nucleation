@@ -1,13 +1,20 @@
 ---
-status: Proposed
+status: Active
 title: 'Linear tests of a representation see a distribution only through its mean representation: their largest disagreement is the dual norm of the difference of means, so two distributions with one mean, as a point mass at 0 and an even split between −1 and 1, are at distance zero under every linear test and are told apart by a single nonlinear one'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant from A29 §2 of the exchange "Explain
     First Contact RL" (ChatGPT, shared 2026-11-22); checked with python3 -I.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): rests on CLAIM-tmpwb6dg, promoted in the same
+    change; the identity is the dual norm's definition, and the example
+    checks.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -44,7 +51,6 @@ summary: >-
   (Claude, in this session) with python3 -I. The wording is A's (ChatGPT,
   in the exchange of 2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwb6dg — Proposed; the construction this specializes, filed with it on 2026-11-22 -->
 
 # CLAIM-tmprbieu: Linear tests of a representation see a distribution only through its mean representation: their largest disagreement is the dual norm of the difference of means, so two distributions with one mean, as a point mass at 0 and an even split between −1 and 1, are at distance zero under every linear test and are told apart by a single nonlinear one
 

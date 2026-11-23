@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'Linear tests are not closed under pointwise minimum or maximum, so a lattice whose concepts each have a linear test cannot in general give its meets and joins linear tests; this does not tell against Xiong''s lattice representation hypothesis as stated, whose meet is already an intersection of half-spaces and not a direction'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -9,6 +9,12 @@ history:
     Filed 2026-11-22 by the assistant from A29 §4 of the exchange "Explain
     First Contact RL" (ChatGPT, shared 2026-11-22), with the assistant's
     check of what the hypothesis states (LIT-267, THEORY-698).
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): counterexample checked; premise CLAIM-
+    tmpfza2h promoted in the same change, ground THEORY-698 Active.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -47,7 +53,7 @@ summary: >-
   check, which is the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: LIT-267 CLAIM-tmpfza2h — Proposed; the paper this checks, and the lattice claim this rests on, filed 2026-11-22 -->
+<!-- inactive-ok-file: LIT-267 — Proposed; the paper this checks, and the lattice claim this rests on, filed 2026-11-22 -->
 
 # CLAIM-tmpgnozg: Linear tests are not closed under pointwise minimum or maximum, so a lattice whose concepts each have a linear test cannot in general give its meets and joins linear tests; this does not tell against Xiong's lattice representation hypothesis as stated, whose meet is already an intersection of half-spaces and not a direction
 

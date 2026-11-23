@@ -1,7 +1,13 @@
 ---
 status: Proposed
-title: 'Measured against the same institution scored by an independent count of all its violations, a penalty on newly recognized violations without reward for their discovery produces avoidance of inquiry in an adaptive institution: in the simulated institution, learned inquiry falls from about half its budget to nearly none in every setting, and the violations left at the end rise from none to between a third and two thirds of those it began with, while its internal count shows almost none'
-version: 1
+title: 'Measured against the same institution scored by an independent count of
+  all its violations, a penalty on newly recognized violations without reward for
+  their discovery produces avoidance of inquiry in an adaptive institution: in the
+  simulated institution, learned inquiry falls from about half its budget to nearly
+  none in every setting, and at the optimum the violations left at the end rise
+  from none to between a third and two thirds of those it began with, while its
+  internal count shows almost none'
+version: 2
 history:
 - version: 1
   date: '2026-11-23'
@@ -10,6 +16,21 @@ history:
     runs of CASE-tmp8mk6w, as one of two alternative readings of the
     lead's test. The other is CLAIM-tmp0bqyu. Choosing which the record
     takes as the lead's answer is the owner's call.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the status review of 2026-11-23 (ADR-057): "at the optimum" added
+    to the title, since the learners' end violations fall below a third in
+    S4 (0.26); the third-to-two-thirds range is the optimum's (6.08 and
+    3.36 of about 9.1). Old title: "Measured against the same institution
+    scored by an independent count of all its violations, a penalty on
+    newly recognized violations without reward for their discovery
+    produces avoidance of inquiry in an adaptive institution: in the
+    simulated institution, learned inquiry falls from about half its
+    budget to nearly none in every setting, and the violations left at the
+    end rise from none to between a third and two thirds of those it began
+    with, while its internal count shows almost none". Kept Proposed: see
+    the note of this date.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -51,10 +72,10 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CASE-249 CLAIM-657 — Proposed; the design carried out and the route it instantiates -->
 
-# CLAIM-tmpjz94s: Measured against the same institution scored by an independent count of all its violations, a penalty on newly recognized violations without reward for their discovery produces avoidance of inquiry in an adaptive institution: in the simulated institution, learned inquiry falls from about half its budget to nearly none in every setting, and the violations left at the end rise from none to between a third and two thirds of those it began with, while its internal count shows almost none
+# CLAIM-tmpjz94s: Measured against the same institution scored by an independent count of all its violations, a penalty on newly recognized violations without reward for their discovery produces avoidance of inquiry in an adaptive institution: in the simulated institution, learned inquiry falls from about half its budget to nearly none in every setting, and at the optimum the violations left at the end rise from none to between a third and two thirds of those it began with, while its internal count shows almost none
 
 ## The claim
 
@@ -90,3 +111,10 @@ That the penalty is the only difference that matters. This comparison
 changes two things at once, the penalty on newly recognized violations
 and the counting of violations not yet recognized. [CLAIM-tmp0bqyu](CLAIM-tmp0bqyu.md)
 separates them.
+
+## Note of 2026-11-23: what holds it back
+
+[CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) is now Active and reproduces, and this claim's figures match
+it. It was filed with [CLAIM-tmp0bqyu](CLAIM-tmp0bqyu.md) as alternative answers to [LEAD-181](../leads.d/LEAD-181.md)'s
+test, and which one answers it is the owner's choice under [ADR-127](../decisions.d/ADR-127.md); the
+review finds the two consistent as measurements.

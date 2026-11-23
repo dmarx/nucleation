@@ -1,12 +1,20 @@
 ---
-status: Proposed
+status: Active
 title: 'A mode''s slowness says how it persists, not how hard it is to redirect:
   for ȧ = −γa + bu the least quadratic effort to move a from 0 to Δ by time
   H is 2γΔ²/(b²(1 − e^{−2γH})), which falls as γ falls, so a slower mode is
   cheaper to redirect through the same input, and a mode with b = 0 cannot
   be redirected through it at any rate; persistence, redirection and the renewal
   of a mode''s supports are three timescales that need not coincide'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: its premise CLAIM-345 is Active; the
+    Gramian formula and the monotonicity of x/(1 - e^{-x}) re-checked; its
+    complements do not block.
 role: thesis
 warrant: demonstrated
 defeated_if: An error in the formula or its monotonicity. As a reading of
@@ -37,7 +45,7 @@ summary: A40 §3 of the exchange "Explain First Contact RL" (ChatGPT, second
   call.
 ---
 
-<!-- inactive-ok-file: CLAIM-626 THEORY-1052 — Proposed; cited in this filing of 2026-11-22 (second share) -->
+<!-- inactive-ok-file: THEORY-1052 — Proposed; cited in this filing of 2026-11-22 (second share) -->
 
 # CLAIM-tmpx8csq: A mode's slowness says how it persists, not how hard it is to redirect: for ȧ = −γa + bu the least quadratic effort to move a from 0 to Δ by time H is 2γΔ²/(b²(1 − e^{−2γH})), which falls as γ falls, so a slower mode is cheaper to redirect through the same input, and a mode with b = 0 cannot be redirected through it at any rate; persistence, redirection and the renewal of a mode's supports are three timescales that need not coincide
 

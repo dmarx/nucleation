@@ -1,7 +1,16 @@
 ---
-status: Proposed
+status: Active
 title: 'What a team''s separable members supply is separable sites of intervention, not separable units of perspective: they make a team an experimental model of self-like organization, since members can be questioned, given evidence, denied access, replaced or removed one at a time, while the team''s own dispositions may depend on relations among them that no member''s isolated profile records'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): uses TERM-tmpxwa7g dropped: the body does not
+    use the term, only quotes A21's "pseudo-self"; rests on CLAIM-418
+    (Active), nothing objects, and its isolated-profile clause is shown by
+    the filled step.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,8 +38,6 @@ rests_on:
 bears_on:
 - QUESTION-276
 - QUESTION-118
-uses:
-- TERM-tmpxwa7g
 summary: >-
   A21 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22),
   the reading of the owner's U10 that A accepted: "The team gives us

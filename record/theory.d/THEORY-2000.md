@@ -71,6 +71,5 @@ individual or team for bad or inappropriate behavior", because under blame
   whether action items are completed.
 
 ## Note of 2026-11-22: the SRE workbook read; this theory's promote_when is met
-<!-- inactive-ok-file: THEORY-tmpm653d — new; the reading filed by the lead run on 2026-11-22 -->
 
 The `promote_when` asks for "A reading of the chapter, or of Google's later SRE workbook on the same practice" confirming that a blameless postmortem identifies contributing causes and follow-up actions "without indicting any individual or team", and that the reason given is that blame keeps people from bringing issues to light. The workbook's chapter 10, read in full on 2026-11-22 ([THEORY-tmpm653d](THEORY-tmpm653d.md), [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md)), confirms both: in the good postmortem "No individual or team is blamed for the incident", and naming individuals makes people "afraid of being publicly shamed. They may be motivated to cover up facts critical to understanding and preventing recurrence." The reading is of another book by other authors (Sue Lueder is an author of both), and independent of the reading that filed this theory. Promotion is left to the owner; no status change.

@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'Perspectives given as graded participation functions on a common measure overlap by the integral of their pointwise minimum, which is zero exactly when the measures they carve out are mutually singular and, for probability densities, equals one minus their total-variation distance, so separation of perspectives comes by degrees and need not be a partition'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -10,6 +10,14 @@ history:
     exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22), with
     the assistant's proof and the total-variation identity, checked with
     python3 -I.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): rests_on CLAIM-tmpwb6dg dropped, unused by
+    the body, which takes the measure as given; the proof (the integral of
+    the minimum is one minus the total variation) is checked; no premise,
+    nothing objects.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -27,8 +35,6 @@ date: '2026-11-22'
 line:
 - formal-apparatus
 - distributed-agency
-rests_on:
-- CLAIM-tmpwb6dg
 summary: >-
   A26 and A29 of the exchange "Explain First Contact RL" (2026-11-22). A
   perspective is modelled as a participation function p_i: X → [0, 1]

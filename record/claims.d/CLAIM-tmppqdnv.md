@@ -1,5 +1,5 @@
 ---
-status: Proposed
+status: Active
 title: 'Identity stabilization can be read as temporal filtering: an organizational
   variable that adapts at rate k to a noisily observed demand tracks variation
   slower than k and ignores variation faster, its tracking error grows with
@@ -8,7 +8,15 @@ title: 'Identity stabilization can be read as temporal filtering: an organizatio
   is optimal in general, and the per-frequency optimum S_d/(S_d + λS_n) passes
   variation where genuine demand outweighs noise and holds steady where noise
   outweighs it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: no premise; the transfer functions and
+    the per-frequency optimum re-checked (argmin 0.7273 against the
+    formula's 0.7273).
 role: thesis
 warrant: demonstrated
 defeated_if: 'An error in the transfer functions or the optimum. As a reading
@@ -36,7 +44,7 @@ summary: 'A42 §2 and A44 §3 of the exchange "Explain First Contact RL" (ChatGP
   adopting it is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp76xaw CLAIM-tmph25dl CLAIM-tmpx8csq — Proposed; cited in this filing of 2026-11-23 (third share) -->
+<!-- inactive-ok-file: CLAIM-tmph25dl — Proposed; cited in this filing of 2026-11-23 (third share) -->
 
 # CLAIM-tmppqdnv: Identity stabilization can be read as temporal filtering: an organizational variable that adapts at rate k to a noisily observed demand tracks variation slower than k and ignores variation faster, its tracking error grows with the demand's frequency as ω²/(k² + ω²) while the noise it passes grows with k as k²/(k² + ω²), so neither the slowest nor the fastest adaptation is optimal in general, and the per-frequency optimum S_d/(S_d + λS_n) passes variation where genuine demand outweighs noise and holds steady where noise outweighs it
 

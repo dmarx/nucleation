@@ -72,7 +72,6 @@ summary: >-
   [TERM-085](../terms.d/TERM-085.md)'s deadline applied to a stream of cases. The wording is A's; the
   derivation is the filer's; adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-740 — filed from the continuation of the same exchange on 2026-11-17, Proposed or Open -->
 <!-- inactive-ok-file: CLAIM-704 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: THEORY-1931 — Proposed or Deferred; filed from the exchange "Assess Depp Heard Abuse" or its readings, cited with its standing -->
 <!-- inactive-ok-file: CLAIM-711 — filed from the same exchange, Proposed -->

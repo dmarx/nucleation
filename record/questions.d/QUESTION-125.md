@@ -33,7 +33,6 @@ summary: >-
 <!-- inactive-ok-file: CASE-341 — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: THEORY-2014 THEORY-2051 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: LIT-2787 — Unfetched; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CLAIM-626 — filed from the same exchange, Proposed -->
 
 # QUESTION-125: When a candidate block gains or loses the gap that isolates it as a parameter varies, does the change in its identifiable boundary coincide with a bifurcation of its dynamics, and what does each way of their coming apart show?
 

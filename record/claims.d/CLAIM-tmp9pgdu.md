@@ -51,7 +51,7 @@ summary: >-
   self thesis. The wording is A's (ChatGPT, in the exchange of
   2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmphxbli CLAIM-tmpwb6dg CLAIM-tmprq9q5 — Proposed; the owner's thesis and the constructions this rests on, filed with it on 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmphxbli — Proposed; the owner's thesis and the constructions this rests on, filed with it on 2026-11-22 -->
 
 # CLAIM-tmp9pgdu: A self may be better modelled as a historically evolving, measure-valued organization of dispositions than as a discrete collection of perspectives: perspectives are overlapping, intervention-dependent structures in it, their separability is set by the observer's test functions and the metric they induce, and its unity lies in maintained causal relations, not in one privileged perspective or a partition into mutually singular parts
 

@@ -1,13 +1,20 @@
 ---
-status: Proposed
+status: Active
 title: 'In a simulated federated learner, role-limited audit by a pool of evaluators tolerates compromised evaluators task by task, by their number against the honest holders of evidence on each task, and not by their share of the pool: two compromised evaluators of seven left the tasks all seven hold evidence on safe and let an attack that mimics dissent through on the tasks two hold evidence on, about as far as unrestricted aggregation does, while cutting the dissenters'' influence there from 4.2 to 0.9 times parity; one central evaluator, compromised, let both attacks through and gave the dissenters none'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-23'
   note: >-
     Filed 2026-11-23 by the assistant, carrying out LEAD-180, from the
     executed study CASE-tmpqnoj1.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its ground CASE-tmpqnoj1 went Active on a
+    reproduced rerun; the e2 figures reproduce; the defeat condition is
+    not met.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -49,7 +56,6 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CASE-tmpqnoj1 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmpd6gon: In a simulated federated learner, role-limited audit by a pool of evaluators tolerates compromised evaluators task by task, by their number against the honest holders of evidence on each task, and not by their share of the pool: two compromised evaluators of seven left the tasks all seven hold evidence on safe and let an attack that mimics dissent through on the tasks two hold evidence on, about as far as unrestricted aggregation does, while cutting the dissenters' influence there from 4.2 to 0.9 times parity; one central evaluator, compromised, let both attacks through and gave the dissenters none
 

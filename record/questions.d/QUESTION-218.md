@@ -37,8 +37,6 @@ summary: >-
   the two come apart; [CASE-120](../cases.d/CASE-120.md) is the construction. The question is
   which of them the record's "one system" should track.
 ---
-<!-- inactive-ok-file: CLAIM-tmpdsu37 — new; the bound cited in the note of 2026-11-23, filed by the lead run of 2026-11-23 -->
-<!-- inactive-ok-file: THEORY-tmpmvcnr — Proposed; the reading of Ott and Antonsen 2008, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-334 CLAIM-904 — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->

@@ -39,8 +39,8 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpa694z CLAIM-tmpo6ehq THEORY-tmp0d58z ARG-tmp5xhiv — Proposed or new; filed with this claim for LEAD-094 -->
-<!-- inactive-ok-file: CLAIM-478 CLAIM-626 — Proposed; the claim this objects to and a claim on the same oscillators -->
+<!-- inactive-ok-file: CLAIM-tmpa694z THEORY-tmp0d58z ARG-tmp5xhiv — Proposed or new; filed with this claim for LEAD-094 -->
+<!-- inactive-ok-file: CLAIM-478 — Proposed; the claim this objects to and a claim on the same oscillators -->
 
 # CLAIM-tmpervl4: Within large populations of phase oscillators coupled through the first harmonic with spread frequencies, Ott and Antonsen's reduction meets the rate-difference claim's first defeater: the order parameter's closed law is in place over the time scale of the dynamics it governs, the approach to it is by phase mixing with no condition that it be faster than that dynamics, and the off-manifold parts are not slower or more persistent than the process but simply averaged out; so the claim should name invariant-manifold closure reached by phase mixing as a route to effective constraint on which rate differences do no work
 
