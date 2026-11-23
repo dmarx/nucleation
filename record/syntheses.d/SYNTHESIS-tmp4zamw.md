@@ -423,15 +423,15 @@ or lead above.
 At the owner's question of 2026-11-23, while the manuscript governance-of-
 possibility was being revised. This account's "Not stated on the record"
 declines A31's "a polity as an ecological pseudo-self" because no component
-states that an industrial ecosystem satisfies TERM-tmpxwa7g's integration
+states that an industrial ecosystem satisfies [TERM-tmpxwa7g](../terms.d/TERM-tmpxwa7g.md)'s integration
 condition. That tests the link against the pseudo-self term only. The record
 also holds, from A22 and A24 of the same exchange, the distinction between
-unity and singularity (TERM-tmpm0s7g), a harmonious plurality that is not
-singular (CLAIM-tmp31b3v), and unity reached ecologically, without
-convergence on a single perspective (CLAIM-tmp37le7). A link carrying that
+unity and singularity ([TERM-tmpm0s7g](../terms.d/TERM-tmpm0s7g.md)), a harmonious plurality that is not
+singular ([CLAIM-tmp31b3v](../claims.d/CLAIM-tmp31b3v.md)), and unity reached ecologically, without
+convergence on a single perspective ([CLAIM-tmp37le7](../claims.d/CLAIM-tmp37le7.md)). A link carrying that
 ecological unity to an industrial ecosystem, the manuscript's join JD2,
 needs no integration into one overarching perspective, so the decline does
 not reach it. It is not stated on the record either: no component states
-that an industrial ecosystem meets CLAIM-tmp37le7's conditions, and the
+that an industrial ecosystem meets [CLAIM-tmp37le7](../claims.d/CLAIM-tmp37le7.md)'s conditions, and the
 record holds no industrial case. The decline stands for the pseudo-self
 reading.
