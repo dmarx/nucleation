@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: "Keeping a route to reorganization under a budget rule that follows use, in the record: under the peak rule a capability stays funded exactly while every period mobilizes it, so a drill each period holds the budget as a reserve does; a redesigned transition is lost like the original unless its threshold is at most the holding cost, so redesign lowers the reserve it needs without replacing it, and is proposed to serve only the transitions that can use it where a reserve of one capacity serves every one within it; a reserve pays when a contingency's probability times its loss outweighs its cost, if readiness is known; and lock-in by allocation and by consolidation are two routes with different remedies, while what justifies a lock-in and how long one stays hidden are not settled"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    LEAD-tmpnblsf and LEAD-tmppzp9z removed from integrates: an account
+    integrates claims, terms, cases, readings, questions, arguments and
+    accounts, not leads (docs-check). The body still names them as the
+    leads that would extend the study.
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
   an in-force entry of the record that states part of this theme left out
@@ -33,8 +41,6 @@ integrates:
 - TERM-115
 - QUESTION-395
 - CLAIM-561
-- LEAD-tmpnblsf
-- LEAD-tmppzp9z
 - CLAIM-758
 - TERM-131
 - CLAIM-757
