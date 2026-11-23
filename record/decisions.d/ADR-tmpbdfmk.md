@@ -10,11 +10,11 @@ summary: >-
   protocol/procedure for manifesting and fleshing out a manuscript draft
   from a view over the argument like this"), manuscripts tied to the
   record's arguments follow a protocol in two layers, as reading and filing
-  do ([ADR-068](ADR-068.md)): eight invariants here, and the steps in
+  do (ADR-068): eight invariants here, and the steps in
   .claude/skills/write-manuscript/SKILL.md. The steps are drawn from how
   the manuscript from-obstruction-to-reorganization was made, from
   2026-11-20 to 2026-11-22 (its commits, pull requests 555 to 623,
-  workbench entries and [RETRO-006](../retrospectives.d/RETRO-006.md) to [RETRO-008](../retrospectives.d/RETRO-008.md)), with the reviews'
+  workbench entries and RETRO-006 to RETRO-008), with the reviews'
   lessons put in at the points where they arose; its first application
   is the manuscript governance-of-possibility, in this decision's pull
   request.
@@ -45,7 +45,7 @@ expanded at the owner's direction before any review. Then came, in order:
 - refreshes (584, 597, 609), the last with a third fact-check;
 - the manuscript's leads, run (621, 623).
 
-[RETRO-006](../retrospectives.d/RETRO-006.md), [RETRO-007](../retrospectives.d/RETRO-007.md) and [RETRO-008](../retrospectives.d/RETRO-008.md) reviewed parts of this. They found:
+RETRO-006, RETRO-007 and RETRO-008 reviewed parts of this. They found:
 
 - the drafter's restatements overreached, in one direction;
 - integrations were stated as principles before they were tested;
@@ -63,7 +63,7 @@ On 2026-11-23 the owner asked for ChatGPT's article "Regulation as the
 Governance of Possibility" to be treated as a motivating draft, for the
 from-obstruction-to-reorganization manuscript to be taken as the example of
 the procedure, and for the manuscript to be fleshed out (work
-governance-of-possibility, [ADR-tmpsfjxu](ADR-tmpsfjxu.md)). In the same exchange the owner
+governance-of-possibility, ADR-tmpsfjxu). In the same exchange the owner
 asked for the procedure to be documented.
 
 ## Decision
@@ -80,34 +80,40 @@ layers.
 2. **Every step cites the entry that holds it, with its standing.** A
    reader can tell, step by step, what the record accepts, what it only
    proposes, and what is demonstrated, empirical or interpretive.
-3. **The manuscript's own joins are marked.** Where it integrates entries
-   the record keeps apart, it says so and collects those integrations as
-   its own; it never presents them as held.
-4. **Voices stay separate** ([ADR-068](ADR-068.md)'s sixth invariant). The owner's theses
+3. **Nothing in a manuscript is new to the record.** Restatements are
+   fine. Where it joins entries the record keeps apart, it says so, and
+   each join no entry maps to is filed in the record before the manuscript
+   is ready: as an account (SYNTHESIS) of its scope, with the join under
+   "Not stated on the record" unless a component states it, and as a claim
+   too when it passes ADR-075's test. It never presents a join as held
+   (the owner's ruling of 2026-11-23).
+4. **Voices stay separate** (ADR-068's sixth invariant). The owner's theses
    are named as the owner's, an assistant's as theirs.
 5. **A motivating draft is audited before it is used.** An assistant's
    write-up or an outline fixes scope and order. What it says the record
    holds is checked against the entries, and what it adds is tested
-   ([ADR-075](ADR-075.md)) and filed or listed as a gap before the draft builds on it.
+   (ADR-075) and filed or listed as a gap before the draft builds on it.
 6. **Results are executed, not stipulated.** A model, figure or study the
    manuscript reports is run: a computed one as code with tests and a
    negative control, a hand-coded one with a codebook fixed before coding
    and a second coder. Its outputs are kept beside it with their date. A
    finding that rests on one reader's interpretive classification is
    checked by a second reader or by the owner before it is reported
-   ([RETRO-007](../retrospectives.d/RETRO-007.md)).
+   (RETRO-007).
 7. **Gaps go back to the record.** A step the argument needs and the record
    lacks is filed as a Proposed entry or listed as an open item for the
    owner; it is not settled in the manuscript's prose.
 8. **Every substantive version is checked by a reader who did not write
-   it.** The first draft is reviewed against every cited entry, the review
+   it, and the record is searched for what it should cite.** Relevant
+   entries and readings the search finds uncited are cited, or listed with
+   the reason they were left (the owner's ruling of 2026-11-23). The first draft is reviewed against every cited entry, the review
    kept beside the draft and its plan put to the owner to accept or amend.
    Each later version (a revision, a restructuring, a refresh) is
    fact-checked against the entries before it is put to the owner as
    ready. The owner may read and direct a draft at any stage.
 
 **The steps, held in `.claude/skills/write-manuscript/SKILL.md`.** The skill
-covers the work and its membership ([ADR-104](ADR-104.md)'s rule), the motivating draft's
+covers the work and its membership (ADR-104's rule), the motivating draft's
 audit, background digests, analysis, drafting, gaps, review, revision,
 landing and refresh. When a manuscript finds a step wrong or missing, the
 skill is edited in the same pull request, and the changelog fragment says
@@ -122,10 +128,10 @@ what changed and why.
 - **Hold manuscripts inside the record**, as a scheme of their own. A
   manuscript is a view the owner revises as prose, for an outside reader;
   the record's grammar (one claim per entry, a status per claim) is what it
-  is a view over, and two copies of the argument would drift ([DP-003](../../docs/design-principles.md#dp-3)). The
+  is a view over, and two copies of the argument would drift (DP-003). The
   `works` field already ties the two.
 - **A skill without a decision.** The steps change with practice, but the
-  invariants are what make a manuscript trustworthy as a view; [ADR-068](ADR-068.md)
+  invariants are what make a manuscript trustworthy as a view; ADR-068
   separates the two for the same reason.
 - **"An independent review precedes the owner's reading"**, this
   decision's first wording of invariant 8. False to the practice: the
@@ -140,5 +146,5 @@ what changed and why.
 - from-obstruction-to-reorganization was written before the protocol and is
   not rewritten to it. Its next refresh follows the skill. That refresh
   would replace its 55 temporary codes, all now permanent, and run the
-  membership pass [ADR-135](ADR-135.md) left as separate work.
+  membership pass ADR-135 left as separate work.
 - CLAUDE.md gains a line naming the skill, beside read-and-file.

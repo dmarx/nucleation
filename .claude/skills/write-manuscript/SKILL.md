@@ -8,8 +8,11 @@ description: How a manuscript is manifested and fleshed out from the record as a
 
 A manuscript is a view over the record's argument, written for a reader
 outside the record. The record holds the argument. The manuscript arranges
-part of it into a paper, says what each step rests on and how firmly, and
-marks what it adds. It is a working document in
+part of it into a paper and says what each step rests on and how firmly.
+Preferably nothing in it is new: restatements are fine, and what it states
+that no entry maps to is filed in the record, as an account (SYNTHESIS) of
+its scope, before the manuscript is ready (step 6). The owner's ruling of
+2026-11-23. It is a working document in
 `scratch/manuscripts/<work>/`, under version control and outside the
 record: luria does not read `scratch/`, and does not repair it either.
 
@@ -147,15 +150,15 @@ manuscript's census came from its review.
   own.
 - **Integrations are marked.** Where the manuscript joins steps the record
   keeps apart, say so in the text, and collect those joins in one place (a
-  section or a table) as the manuscript's own.
+  section or a table). They are on their way to the record (step 6), not
+  the manuscript's to keep.
   - Before calling a join new, search the "Not stated on the record"
     sections of the accounts its components belong to. A join an account
     has declined is not new (RETRO-006).
   - When a join is drafted, put it to ADR-075's step 5 by an independent
     reader with a neutral brief. Under ADR-131 the test routes and does
-    not reject: a join that fails stays in the manuscript as its own, and
-    goes under its accounts' "Not stated on the record". Correct the text
-    on the verdicts.
+    not reject; step 6 says where each verdict goes. Correct the text on
+    the verdicts.
 - **Expectations before results.** State each expectation with its
   falsifier before the results that grade it. Use a census, or another
   sampling frame, not hand-picked cases. Do not count a measure that holds
@@ -170,10 +173,26 @@ manuscript's census came from its review.
   files it writes, and writes only those. One writer edits a given file at
   a time (ADR-139).
 
-## 6. Gaps go back to the record
+## 6. Joins and gaps go back to the record
 
-What the argument needs and the record does not hold is not settled inside
-the manuscript.
+What the manuscript states and the record does not hold is not settled
+inside the manuscript, and is not thrown away either.
+
+- **Restatements** of an entry are fine. Cite the entry.
+- **Joins no entry maps to are filed as accounts** (the owner's ruling of
+  2026-11-23). Group them by scope, and file or revise one SYNTHESIS per
+  scope (ADR-083, ADR-084, ADR-129), on the synthesis-review skill's
+  stage 4. The account integrates the components. It attributes each link
+  to the entry that states it, and puts each join no component states
+  under "Not stated on the record", with its ADR-075 verdict. A join that
+  passes the test is also filed as a Proposed CLAIM, and the account
+  integrates it. The manuscript then cites the account, or the claim, for
+  each join.
+- **A join an account has declined** is not stated as held. Check that the
+  decline tested the join as the manuscript states it, against the record
+  as it now stands. A decline made against another predicate, or before a
+  distinction the record has since drawn, gets a dated note on the account
+  saying so, and the join is filed as above.
 
 - **A missing step with content of its own** is filed as a Proposed CLAIM,
   a QUESTION or a LEAD, in the drafting assistant's voice, in the
@@ -198,9 +217,11 @@ the manuscript.
   attributions, figures) is checked against its entry. The rest is
   spot-checked, and the reviewer says how many.
 - **Points of contact.** The record is searched, region by region with one
-  searcher each, for points of contact the draft does not use. The process
-  history (decisions, reviews, skills) is one of the regions. In the first
-  manuscript it is where the draft's central premise was found wrong.
+  searcher each, for points of contact the draft does not use: entries and
+  readings (THEORY, CASE) that bear on a section and are not cited. The
+  process history (decisions, reviews, skills) is one of the regions. In
+  the first manuscript it is where the draft's central premise was found
+  wrong.
 - **Confirmed corrections.** The coordinator re-checks every correction
   against its entry before writing it into the review, and marks it
   confirmed.
@@ -215,6 +236,11 @@ the manuscript.
 - **Revise on the review**, item by item. The README says which items were
   taken, which not, and why, quoting the owner where the owner's direction
   overrode the plan.
+- **Cite what the contact search found.** Each relevant entry or reading
+  the search found uncited is read and cited where it bears, with its
+  standing, or listed in the README with the reason it was left (the
+  owner's ruling of 2026-11-23). A reading that bears on a join is also
+  integrated by the join's account.
 - **An independent fact-check after every substantive version**: after the
   revision, after any restructuring, and after each refresh.
   - A reader who did not write the text checks every quotation, standing

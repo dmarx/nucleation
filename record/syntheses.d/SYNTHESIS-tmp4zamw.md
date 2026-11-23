@@ -417,3 +417,22 @@ It does not say that any version of the self thesis is true, that a team
 or an industrial ecosystem is a self, or that Luria makes its
 collaborators converge or not. Each of these is an open claim, question
 or lead above.
+
+## Note of 2026-11-23: the scope of the decline of "a polity as an ecological pseudo-self"
+
+<!-- inactive-ok-block: TERM-tmpm0s7g CLAIM-tmp31b3v CLAIM-tmp37le7 TERM-tmpxwa7g — Proposed; the distinction and the term the decline used -->
+At the owner's question of 2026-11-23, while the manuscript governance-of-
+possibility was being revised. This account's "Not stated on the record"
+declines A31's "a polity as an ecological pseudo-self" because no component
+states that an industrial ecosystem satisfies TERM-tmpxwa7g's integration
+condition. That tests the link against the pseudo-self term only. The record
+also holds, from A22 and A24 of the same exchange, the distinction between
+unity and singularity (TERM-tmpm0s7g), a harmonious plurality that is not
+singular (CLAIM-tmp31b3v), and unity reached ecologically, without
+convergence on a single perspective (CLAIM-tmp37le7). A link carrying that
+ecological unity to an industrial ecosystem, the manuscript's join JD2,
+needs no integration into one overarching perspective, so the decline does
+not reach it. It is not stated on the record either: no component states
+that an industrial ecosystem meets CLAIM-tmp37le7's conditions, and the
+record holds no industrial case. The decline stands for the pseudo-self
+reading.
