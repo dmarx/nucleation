@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpw4w7a
 title: 'Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -38,6 +38,13 @@ history:
     CLAIM-288 as it reads and names ARG-015 for the verdict.
     Reported by the synthesis review of 2026-11-11 (seventh round).
     No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    A dated note added: the crossed intervention of the defeat condition,
+    run on one small conventionally trained network. The condition is
+    not met; two readings of the run are filed as alternatives. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -88,6 +95,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-995 — Proposed; the dropout account of IOI's backup heads, cited as a candidate case, untested -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-157 — Proposed; open claims and readings, cited as open -->
+<!-- inactive-ok-file: CASE-tmphp4pt CLAIM-tmp60fme CLAIM-tmpmgb7l CLAIM-tmpyf8s0 CLAIM-tmp2k67n — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: ARG-015 — Proposed; the argument CLAIM-288 undercuts, which holds the verdict on the sufficiency tests -->
 
 # CLAIM-367: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
@@ -254,3 +262,33 @@ network carries whose source is a condition of its training regime, the
 boundary this claim draws between what governs training and what belongs
 to the network. No comparison with and without dropout exists, and
 nothing here tests it. The claim is unchanged.
+
+## Note of 2026-11-23: the crossed intervention, run on a small network
+
+The defeat condition's crossed intervention was run on 2026-11-23
+([CASE-tmphp4pt](../cases.d/CASE-tmphp4pt.md)): a width-32 two-layer ReLU network trained
+conventionally on two tasks with a task-identity input, by heavy ball or
+by Adam, twelve seeds each, then met with a conflicting demand (task B's
+target turned against task A's).
+
+- With the network fixed, changing the optimizer at matched pace changed
+  how much of A it gave up, in both populations (−39% to +147% of the
+  baseline loss); carrying Adam's state from training instead of resetting
+  it more than doubled it. The first limb of the defeat condition fails.
+- With the optimizer fixed, re-initializing and healing the most
+  task-selective hidden units raised the loss, and as many random units
+  did so less ([CLAIM-tmp60fme](CLAIM-tmp60fme.md)). The second limb holds in part.
+- The share of the variation that follows the learned state rather than
+  the optimizer was 0.58 in heavy-ball-trained networks and 0.15 in
+  Adam-trained ones.
+
+The condition is not met. Two readings are filed as alternatives:
+[CLAIM-tmpmgb7l](CLAIM-tmpmgb7l.md), that the run corroborates this claim, since its
+"does not say a network cannot come to hold it" covers the state effect
+(the assistant's lean); and [CLAIM-tmpyf8s0](CLAIM-tmpyf8s0.md), that shares set by the
+training optimizer tell against "most of that governance falls to the
+optimizer–model–data system" as a rule. Separately, a function-preserving
+rescaling of hidden units, run as a learned-state disruption, is exactly
+an optimizer change in other coordinates, so the defeat condition's two
+arms need disruptions that change what the network computes
+([CLAIM-tmp2k67n](CLAIM-tmp2k67n.md)). The claim is unchanged.
