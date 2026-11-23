@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp5g7xc
 title: 'Blameless post-incident review can stop its trace at "the system", which names no decision-maker, so that those who set budgets, staffing and deadlines drop out of the account along with the operator it shields: where the body that commissions a review also governs it, its contributing causes and action items stop at or below that body''s own decisions, and the review keeps upstream provenance only when its tracing crosses that body''s authority'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note added: the SRE workbook chapter read for LEAD-189
+    (corroborates the mechanism), a specimen that illustrates the claim,
+    and an objection to its unit filed as a claim. No change of status
+    or title.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -135,5 +143,17 @@ The claim is empirical and untested: no reading codes postmortems by the highest
 <!-- inactive-ok-file: CASE-335 CLAIM-905 — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
 
 The first coded corpus bearing on this claim's prediction is [CASE-335](../cases.d/CASE-335.md), run for [LEAD-119](../leads.d/LEAD-119.md). Causes above the engineering team appear in 2 of 30 public postmortems against 7 of 10 CSB reports, and action items above it in 4 against 9. No postmortem names corporate leadership, while 5 of the reports do. That meets the "prediction holds" rule fixed before coding. The finding is filed separately as [CLAIM-905](CLAIM-905.md), which corroborates this claim. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews. So the defeater is not tested yet: the pilot does not hold domain fixed. An observation made after coding fits the mechanism: the four postmortems whose action items reach above the team were written by the organization's leadership (a CEO, founders, and two authors the coder recalls as CTOs).
+
+No status changes.
+
+## Note of 2026-11-22: the SRE workbook read: the mechanism corroborated, an exemplar that fits, and an objection to the unit
+<!-- inactive-ok-file: THEORY-tmpm653d THEORY-tmp9j928 CASE-tmptkkgm ARG-tmp117cw CLAIM-tmpauu5r — new; filed by the lead run on 2026-11-22 -->
+
+Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22: Google's SRE workbook chapter on postmortem culture ([THEORY-tmpm653d](../theory.d/THEORY-tmpm653d.md), [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md)), which now `corroborates` this claim, and the SRE book's example postmortem ([THEORY-tmp9j928](../theory.d/THEORY-tmp9j928.md), [NOTE-tmpdiani](../notes.d/NOTE-tmpdiani.md)).
+
+- **The mechanism, corroborated.** The norm against indicting a team works on questions to managers too. The workbook rewrites "You're the manager; why aren't you making sure that everyone finishes the training?" as a rule for the on-call rotation, and meets a vice-president's "why didn't you listen to that person?" with "maybe we ask generically if there were any warning signs". In each, a question that would reach a decision-maker becomes one about process. Its checklist has action items "vetted and approved by the technical leads of the service".
+- **An exemplar that fits the prediction.** The workbook's real postmortem, shown as good practice, names ""The installer" has limited staffing" among what went poorly and assigns fourteen action items, all technical, to engineers, none to staffing ([CASE-tmptkkgm](../cases.d/CASE-tmptkkgm.md), which `illustrates` this claim; [ARG-tmp117cw](../arguments.d/ARG-tmp117cw.md)). The case carries an alternative reading: the installer may be a peer team, so the instance may be lateral, not upward. The filer leans to the first reading.
+- **The example postmortem** fits trivially and tests nothing: a fictional bug and surge have no upstream decision to miss.
+- **An objection, filed as a claim.** [CLAIM-tmpauu5r](CLAIM-tmpauu5r.md) objects to the unit of the prediction: the workbook routes upstream questions ("Is feature velocity trumping reliability fixes?") to reviews of repeated incidents and to a process review with "organizational leaders", so a practice could keep upstream provenance across incidents while each postmortem stops at the team. The pilot ([CASE-335](../cases.d/CASE-335.md)) and the proposed study ([CASE-293](../cases.d/CASE-293.md)) code single postmortems. The objection concedes that the workbook gives no evidence those channels reach above the teams.
 
 No status changes.

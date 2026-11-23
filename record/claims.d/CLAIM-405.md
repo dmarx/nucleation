@@ -2,7 +2,7 @@
 number: 405
 status: Active
 formerly:
-- CLAIM-tmpoxkub
+- CLAIM-405
 title: 'An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it'
 version: 2
 history:
@@ -250,3 +250,12 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07;
 Gili and colleagues ([THEORY-2014](../theory.d/THEORY-2014.md), read; A17 §2 reported the detail) corroborate the clause on crossing boundaries. At rest the two Broca regions share a fibre. In task, left Broca joins SMA and right Broca joins the Wernicke regions, so one system's rest and task partitions cross rather than nest. The support is narrower than the clause: the criterion, the coarsest balanced colouring that matches the observed synchrony, is the same in both states, and what differs is the state and the inferred network. So it shows crossing units under one criterion in two conditions, not under two criteria. The reading's front matter already carries corroborates CLAIM-405; the claim does not rest on it.
 
 No status change.
+
+## Note of 2026-11-22: Ott and Antonsen 2009, read
+
+An illustration, no edge. Whether a population of phase oscillators with
+spread frequencies settles onto a low-dimensional state depends on the
+metric: in Ott and Antonsen's frequency-weighted metric it does, for the
+distribution itself it does not, since each harmonic keeps its size while
+dephasing ([NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)). Once the metric is fixed the verdict is settled
+and could have been false, as this claim says of a fixed criterion.

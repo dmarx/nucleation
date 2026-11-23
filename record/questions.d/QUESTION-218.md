@@ -2,7 +2,7 @@
 number: 218
 status: Open
 formerly:
-- QUESTION-tmplru2n
+- QUESTION-218
 title: 'Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?'
 version: 2
 history:
@@ -31,6 +31,7 @@ summary: >-
   the two come apart; [CASE-120](../cases.d/CASE-120.md) is the construction. The question is
   which of them the record's "one system" should track.
 ---
+<!-- inactive-ok-file: THEORY-tmpmvcnr — Proposed; the reading of Ott and Antonsen 2008, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-334 CLAIM-904 — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -137,3 +138,15 @@ set of 156 scores as they do. [CLAIM-904](../claims.d/CLAIM-904.md) states it. T
 measurement this question's answer asks for, in two models at one setting
 each. It does not say the marks suffice for one system, and the kink has
 no timing to entrain. No status change.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+Evidence on the unit a boundary test should take. Ott and Antonsen's order
+parameter is a function of the whole state, exactly closed on an invariant
+manifold under uniform coupling, where no subset of members is a block
+([THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md), [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md)); in their model of communities of
+oscillators each community's order parameter closes at any coupling
+between communities, weak or strong. So a test that takes functions of
+the whole state finds closed units that tests on member subsets miss, as
+[CLAIM-388](../claims.d/CLAIM-388.md) found in a linear model. It does not say whether such a unit is
+one system. [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) bears on this question.

@@ -2,7 +2,7 @@
 number: 626
 status: Proposed
 formerly:
-- CLAIM-tmpwp3ru
+- CLAIM-626
 title: 'Critical slowing has no single organizational meaning: when a collective mode slows, reduction to it improves; when the mode that restores a collective relation slows, as two detuned phase oscillators near the edge of locking, the reduction fails while the locked state still exists; when the maintenance of the coupling slows, the reduction stays good while the organization nears its fold'
 version: 1
 role: thesis
@@ -134,6 +134,14 @@ discrimination of inputs, so the optimum sits below the transition. One
 more organizational meaning of slowing, in which it neither helps nor
 breaks a reduction but costs a finite-time observer confidence. No
 relation is written.
+
+## Note of 2026-11-22: Ott and Antonsen, read
+
+A parallel in an exact model, no edge. Near the Kuramoto threshold the
+collective mode slows (damping rate Δ − K/2 → 0) while the approach to Ott
+and Antonsen's reduced manifold stays at least Δ ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md),
+[NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)), so reduction to the order parameter improves as the mode
+slows: this claim's first case.
 
 <!-- inactive-ok-file: CLAIM-tmpbzwmr — Proposed; filed in this filing of 2026-11-22 (second share) -->
 

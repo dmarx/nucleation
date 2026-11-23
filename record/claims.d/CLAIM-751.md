@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpx4kjt
 title: 'The upstream provenance of a failure can be carried without blame: an investigator barred from assigning blame or liability traced the Tempe operator''s distraction to her company''s safety culture and the state''s oversight and addressed its recommendations to them, so blame is one carrier of upstream provenance and not its only source'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note added: the reports of the Tempe prosecution read for
+    LEAD-189 (corroborates the contrast), with the claim and the
+    objection filed from them. No change of status or title.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -139,5 +146,17 @@ the carrier that reaches there.
 <!-- inactive-ok-file: CASE-335 — new; the pilot and its finding, filed for LEAD-119 on 2026-11-22 -->
 
 In the pilot [CASE-335](../cases.d/CASE-335.md), 7 of the 10 most recent CSB investigations, by a body outside the companies it investigates whose findings may not be used in damages suits, trace causes above the site's engineering. Five of them reach corporate governance or oversight, funding, or regulatory gaps, and 9 address recommendations above the team. One, PEMEX Deer Park, stops at site procedures. That is more instances of this claim's existence statement, not a test of its defeater, which needs blame-based processes on the same failures. One coder, the assistant (Claude, Opus 5.5), of the same model family that wrote the claim tested and the codebook, coding with the prediction known: the pilot is not independent. The arms differ in domain and severity (software outages against chemical accidents) as well as in who reviews.
+
+No status changes.
+
+## Note of 2026-11-22: the Tempe prosecution, read: the blame-based process on the same failure stopped at the operator
+<!-- inactive-ok-file: THEORY-tmpfdyu6 CLAIM-tmp20uni CLAIM-tmp64hmn ARG-tmpql8m1 — new; filed by the lead run on 2026-11-22 -->
+
+Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22: the AP's report of the plea, with NPR's reports of the declination and the charge ([THEORY-tmpfdyu6](../theory.d/THEORY-tmpfdyu6.md); [NOTE-tmpeb1f9](../notes.d/NOTE-tmpeb1f9.md), [NOTE-tmphxo80](../notes.d/NOTE-tmphxo80.md), [NOTE-tmpi1l0m](../notes.d/NOTE-tmpi1l0m.md)). The theory now `corroborates` this claim. This claim's "What it does not say" had left "prosecution and press" unread.
+
+- **What happened.** The Yavapai County Attorney found "no basis for criminal liability for the Uber corporation" (March 2019). The operator was charged with negligent homicide (September 2020) and pleaded guilty to endangerment, an undesignated felony, with three years of supervised probation (July 2023). No one else was charged in the reports read.
+- **What it does for this claim.** It is not needed for the existence statement, which rests on the NTSB report. It turns the first defeater the other way on this failure: the defeater asks whether blame-based processes on the same failures reach upstream actors that no-blame investigations do not, and here the criminal process reached less far. [CLAIM-tmp20uni](CLAIM-tmp20uni.md) files the contrast, with [ARG-tmpql8m1](../arguments.d/ARG-tmpql8m1.md). One failure is an instance, not a rule.
+- **The objection.** [CLAIM-tmp64hmn](CLAIM-tmp64hmn.md): the victim's family settled with Uber and the governor suspended its testing, so liability and sanction did reach the company outside the criminal law. It concedes that neither traced which of the company's decisions failed, which leaves this claim's point standing: the provenance, as distinct from the consequences, was carried by the investigation that could blame no one.
+- **[CLAIM-733](CLAIM-733.md).** The criminal law, one practice of blame, carried no provenance upstream here. That bears on whether blame usually does, which [CLAIM-733](CLAIM-733.md) does not assert.
 
 No status changes.

@@ -104,3 +104,12 @@ controls, with any difference confined to avoidance rates.
 - **[THEORY-285](THEORY-285.md).** A different failure from the model's. There the agent
   stops sampling. Here patients sampled as often as controls and drew
   less from the outcomes.
+
+## Note of 2026-11-22: a parallel from the eye-tracking literature
+<!-- inactive-ok-block: THEORY-tmp8n4s7 THEORY-tmp1ov9x — new; filed by the lead search of 2026-11-22 -->
+
+A parallel, not evidence on this reading. The 2026 scoping review of eye
+tracking in PTSD ([THEORY-tmp8n4s7](THEORY-tmp8n4s7.md)) likewise finds no consistent reduction
+in sampling: sustained gaze on threat recurs, and reduced exploration is
+reported in only a few studies. The one study of gaze to context
+([THEORY-tmp1ov9x](THEORY-tmp1ov9x.md)) finds a later first look, not less looking.
