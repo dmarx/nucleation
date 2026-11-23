@@ -31,6 +31,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-220 — Proposed; A's committor study, cited from the note on A's second synthesis -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-tmp2a9lm CLAIM-tmpeno57 CLAIM-tmpzo914 CLAIM-tmpzi0ri CLAIM-tmpf0417 CLAIM-tmpddl2d THEORY-tmp1pfm4 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-tmpjfl6r CLAIM-tmpqrmoy CLAIM-tmphbmpy CLAIM-tmpb125k THEORY-tmpmwhm1 THEORY-tmp7jput THEORY-tmp8j9f4 — new; filed by the lead run of 2026-11-23 on equal budgets -->
 
 # QUESTION-380: When does establishing a small, internally compatible subsystem make global organization more likely, and how can its effectiveness be predicted from the constraint architecture?
 
@@ -198,3 +199,21 @@ islands (VIC) in a kinetic constraint-growth model, [CASE-tmp2a9lm](../cases.d/C
 
 The question stays open: no predictor has yet been tested across systems
 and passed. No status change.
+
+## Note of 2026-11-23: equal budgets at different places in organizations
+
+The lead run of 2026-11-23 for the organizational test of [CLAIM-562](../claims.d/CLAIM-562.md)
+coded open evaluations under rules written before coding
+([CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md)). One meets the standard: in Andhra Pradesh's randomized
+evaluation of 500 government primary schools, arms of equal yearly cost
+differed threefold, a teacher bonus raising test scores by 0.27 SD against
+0.09 SD for an extra teacher or materials ([THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md)). Whether
+that is a difference of place or of instrument is filed both ways
+([CLAIM-tmpqrmoy](../claims.d/CLAIM-tmpqrmoy.md), the filer's lean; [CLAIM-tmphbmpy](../claims.d/CLAIM-tmphbmpy.md)). Two cases come
+closest: Seva Mandir's immunisation camps, where a demand-side incentive
+added to supply doubled full immunisation and halved its unit cost
+([THEORY-tmp7jput](../theory.d/THEORY-tmp7jput.md)), and Zambia's supply chain pilot, two arms at two tiers,
+whose costs were not reached ([THEORY-tmp8j9f4](../theory.d/THEORY-tmp8j9f4.md)). None gives a predictor
+computed from the organization's structure, and none shows an added
+intervention lowering the chance of the target ([CLAIM-tmpb125k](../claims.d/CLAIM-tmpb125k.md)). The
+question stays open. No status change.

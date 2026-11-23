@@ -59,6 +59,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-215 — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: THEORY-1368 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CASE-tmp2a9lm CLAIM-tmpeno57 CLAIM-tmpzo914 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-tmpjfl6r CLAIM-tmpqrmoy CLAIM-tmphbmpy CLAIM-tmpb125k THEORY-tmpmwhm1 — new; filed by the lead run of 2026-11-23 on equal budgets -->
 
 # CLAIM-562: Where an intervention acts in a system's constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail
 
@@ -168,3 +169,18 @@ the number of seeds, and adding a seed can halve the chance of the target
 the harmful seeds there have large islands, not the small one of Fig. 5h,
 and a race reading of the paper's explanation fails as a predictor there
 ([CLAIM-tmpzo914](CLAIM-tmpzo914.md)). No status change.
+
+## Note of 2026-11-23: an organizational case at equal budget
+
+The lead run of 2026-11-23 for this claim's organizational test
+([CASE-tmpjfl6r](../cases.d/CASE-tmpjfl6r.md)) found one open evaluation that meets a standard written
+before coding. In Andhra Pradesh's randomized evaluation of government
+primary schools, an extra contract teacher, a block grant for materials
+and an individual teacher bonus each cost about Rs 10,000 per school a
+year, and the bonus raised test scores three times as much, 0.27 SD
+against 0.09 SD ([THEORY-tmpmwhm1](../theory.d/THEORY-tmpmwhm1.md)). Read as placement, it corroborates the
+first half here in an organization ([CLAIM-tmpqrmoy](CLAIM-tmpqrmoy.md), the filer's lean);
+read as a difference of instrument, conditional pay against unconditional
+resources, it illustrates without testing ([CLAIM-tmphbmpy](CLAIM-tmphbmpy.md)). No case
+coded bears on the second half, that adding can hurt
+([CLAIM-tmpb125k](CLAIM-tmpb125k.md)). No status change.
