@@ -33,7 +33,7 @@ history:
 - version: 6
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §3.0. No other change.
@@ -144,24 +144,24 @@ A, at A36 of the exchange "Individuation, Possibility, and Disposition" (2026-11
 
 ## Note of 2026-11-23: plural succession at a change of steward, coded
 
-<!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmpqpfvh — new, Proposed; the run and the claim filed from it -->
-[CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md), which illustrates this claim, coded two contested
+<!-- inactive-ok-block: CASE-411 CLAIM-1158 — new, Proposed; the run and the claim filed from it -->
+[CASE-411](../cases.d/CASE-411.md), which illustrates this claim, coded two contested
 open-source successions in which recognition split: MySQL and MariaDB,
 Redis and Valkey. In each the name and a steward-employed team stayed with
 one line, and part of the core maintainers and some independent
 downstreams (Fedora, Wikimedia) went with the other. These are successors
 in different respects at a change of steward, now documented, of the kind
 this claim's note of 2026-11-07 took from A36 unverified; neither line is
-coded as the project persisting ([CLAIM-tmpqpfvh](CLAIM-tmpqpfvh.md)).
+coded as the project persisting ([CLAIM-1158](CLAIM-1158.md)).
 
 ## Note of 2026-11-23 (later): the Nationals' claim, read
 
-<!-- inactive-ok-block: CASE-tmp44mzc CLAIM-tmp7z7si — new, Proposed; the study and verdict filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-block: CASE-392 CLAIM-1047 — new, Proposed; the study and verdict filed by the lead run of 2026-11-23 -->
 This claim's table gives the respect of narrative and place to "the 2005
-Nationals, by claim". The claim has now been read ([CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md)): the
+Nationals, by claim". The claim has now been read ([CASE-392](../cases.d/CASE-392.md)): the
 club and supporters claim Washington's baseball, a history in which the
 Homestead Grays stand beside the Senators, and nobody read counts the
 Nationals the Senators' franchise, which the league's reported count, the
-Hall of Fame and the press trace through Montreal ([CLAIM-tmp7z7si](CLAIM-tmp7z7si.md), which
+Hall of Fame and the press trace through Montreal ([CLAIM-1047](CLAIM-1047.md), which
 corroborates this claim). The respects come apart as the claim says, and
 participants keep them apart. The claim is unchanged.

@@ -29,7 +29,7 @@ summary: >-
 <!-- inactive-ok-file: CASE-321 CLAIM-887 — new; the study and claim filed for LEAD-057 on 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-476 — Proposed; cited in the note of 2026-11-07 -->
 <!-- inactive-ok-file: CLAIM-477 CLAIM-157 — Proposed or Open; the partial answers and neighbouring questions, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpfbofs CLAIM-tmph783a CLAIM-tmpr0sfe CLAIM-tmp6sa56 — new; LEAD-195's rulings on symmetries, conservation laws and possibility facts, 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-1094 CLAIM-1105 CLAIM-1161 CLAIM-1037 — new; LEAD-195's rulings on symmetries, conservation laws and possibility facts, 2026-11-22 -->
 
 # QUESTION-284: In any domain, when do the constraints on an entity's relations only characterize an entity individuated without them, and when do they partly constitute its identity, its boundary or what it can do; and are a boundary a process detects, one it maintains and one it constitutes three different things?
 
@@ -198,8 +198,8 @@ for when it has. No status change.
 
 ## Note of 2026-11-22: whether the constraints that individuate kinds are realized
 
-[LEAD-195](../leads.d/LEAD-195.md)'s rulings ([CLAIM-tmpfbofs](../claims.d/CLAIM-tmpfbofs.md) and [CLAIM-tmph783a](../claims.d/CLAIM-tmph783a.md) on symmetries and
-conservation laws, [CLAIM-tmpr0sfe](../claims.d/CLAIM-tmpr0sfe.md) and [CLAIM-tmp6sa56](../claims.d/CLAIM-tmp6sa56.md) on Deutsch and
+[LEAD-195](../leads.d/LEAD-195.md)'s rulings ([CLAIM-1094](../claims.d/CLAIM-1094.md) and [CLAIM-1105](../claims.d/CLAIM-1105.md) on symmetries and
+conservation laws, [CLAIM-1161](../claims.d/CLAIM-1161.md) and [CLAIM-1037](../claims.d/CLAIM-1037.md) on Deutsch and
 Marletto's possibility facts) answer [QUESTION-450](QUESTION-450.md), not this question, and
 bear on it here. In the three relations of the note of 2026-11-07, they
 concern the first, [TERM-088](../terms.d/TERM-088.md)'s constitutive individuation. They also concern

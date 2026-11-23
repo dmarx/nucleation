@@ -32,7 +32,7 @@ history:
 - version: 4
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §3.1. No other change.
@@ -64,7 +64,7 @@ summary: >-
 works:
 - governance-of-possibility
 ---
-<!-- inactive-ok-file: THEORY-tmpgdriu — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2291 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2012 THEORY-2018 THEORY-2033 THEORY-2043 THEORY-2047 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-762 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-473 CLAIM-478 CLAIM-157 — Rejected or Proposed; the conjecture this answers and the claims it serves -->
@@ -219,9 +219,9 @@ No status change.
 ## Note of 2026-11-22: Ott and Antonsen, read
 
 A parallel, no edge. In the Kuramoto model with Lorentzian frequencies of
-width Δ ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md), eq. 10) coupling slows the collective mode: its
+width Δ ([NOTE-2385](../notes.d/NOTE-2385.md), eq. 10) coupling slows the collective mode: its
 damping rate is Δ − K/2 below locking and goes to zero at Kc = 2Δ, while
-the approach to the reduced law is bounded below by Δ ([NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)). So
+the approach to the reduced law is bounded below by Δ ([NOTE-2378](../notes.d/NOTE-2378.md)). So
 there coupling makes a separation only near threshold, by bringing a mode
 to an instability, which is [CLAIM-478](CLAIM-478.md)'s second half rather than this
 claim's dissipative splitting of collective and relative modes; far from
@@ -231,7 +231,7 @@ itself separate time scales.
 ## Note of 2026-11-22 (later): Caprioglio and Berthouze, read
 
 A parallel, no edge. In their hierarchically modular networks
-([THEORY-tmpgdriu](../theory.d/THEORY-tmpgdriu.md)) the gaps between time scales come from the Laplacian
+([THEORY-2291](../theory.d/THEORY-2291.md)) the gaps between time scales come from the Laplacian
 spectrum of the network's modular structure, the mechanism this claim gives
 for a Laplacian flow, and the authors use the gaps to explain which states
 appear in which layer.

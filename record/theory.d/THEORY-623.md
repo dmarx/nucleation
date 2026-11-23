@@ -37,7 +37,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; the account these studies bear on and the follow-up's account, cited as open -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-044 — Proposed; named for what these readings bear on, cited as open -->
-<!-- inactive-ok-file: CASE-tmpskejj CLAIM-tmptzmky CLAIM-tmprfjkk — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-417 CLAIM-1176 CLAIM-1164 — new; filed by the lead run of 2026-11-23 -->
 
 # THEORY-623: In the two tests of contextuality in language data that the record has read, the contextuality is put there by the experimenter or not secured: meaning-selection models of ambiguous phrases estimated from corpora are all signalling and their two Contextuality-by-Default verdicts are plausibly noncontextual by their own bootstrap, while BERT's 52 million anaphora models have a support fixed by the sentence schema, so whether each counts as contextual depends only on how uncertain the model's three referent choices are
 
@@ -119,8 +119,8 @@ Neither happened.
 
 This reading's "What this does not say" leaves open whether the sheaf test
 is necessary as well as sufficient, "so 0.148% may be a lower bound". A
-comparison of the two routes on the BERT figures ([CASE-tmpskejj](../cases.d/CASE-tmpskejj.md),
-[CLAIM-tmptzmky](../claims.d/CLAIM-tmptzmky.md), demonstrated) answers this for the BERT models. It does
+comparison of the two routes on the BERT figures ([CASE-417](../cases.d/CASE-417.md),
+[CLAIM-1176](../claims.d/CLAIM-1176.md), demonstrated) answers this for the BERT models. It does
 not answer it for Vallée et al.'s criterion in general.
 
 - **Both criteria are thresholds on signalling alone.** On the PR-prism
@@ -136,5 +136,5 @@ not answer it for Vallée et al.'s criterion in general.
 
 This is a qualification, not a change to the reading. It strengthens the
 last clause of the title: both verdicts depend only on the three referent
-choices, and they differ in where they draw the line. [CLAIM-tmprfjkk](../claims.d/CLAIM-tmprfjkk.md)
+choices, and they differ in where they draw the line. [CLAIM-1164](../claims.d/CLAIM-1164.md)
 draws the consequence that these data cannot show which line is right.

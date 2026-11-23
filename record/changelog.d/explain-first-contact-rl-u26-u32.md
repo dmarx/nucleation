@@ -10,5 +10,5 @@
     and collective identity as a governed question–answer game.
 
   The owner's theses are in the owner's voice and ChatGPT's in its own.
-  The assistant's gap fills are checked by script. [SYNTHESIS-tmp4zamw](record/syntheses.d/SYNTHESIS-tmp4zamw.md)
+  The assistant's gap fills are checked by script. [SYNTHESIS-122](record/syntheses.d/SYNTHESIS-122.md)
   goes to version 2.

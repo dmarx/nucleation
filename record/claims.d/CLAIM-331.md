@@ -62,7 +62,7 @@ history:
 - version: 11
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §3.1 and
     §3.2 use it as a step: levels are slower, and slowness alone does not
     establish identity. No other change.
@@ -103,7 +103,7 @@ complements:
 works:
 - governance-of-possibility
 ---
-<!-- inactive-ok-file: THEORY-tmpqdy16 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2301 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -303,7 +303,7 @@ The claim is unchanged.
 
 ## Note of 2026-11-22: Kaur, Jain and Berman, read
 
-A parallel, no edge. Kaur, Jain and Berman ([THEORY-tmpqdy16](../theory.d/THEORY-tmpqdy16.md)) find slow
+A parallel, no edge. Kaur, Jain and Berman ([THEORY-2301](../theory.d/THEORY-2301.md)) find slow
 behavioral states, which bias fast movement, as metastable basins in a
 transfer operator's slow eigenvectors: slowness as an operational mark of
 a behavioral level. They add a caution: where the gap between fast and

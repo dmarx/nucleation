@@ -6,7 +6,7 @@
 
 **Phenomenal unity** — the unity of experience — what makes simultaneous experiences one subject's, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024).
 
-15 of 3140 LIT documents. Back to the [full index](../README.md).
+15 of 3195 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

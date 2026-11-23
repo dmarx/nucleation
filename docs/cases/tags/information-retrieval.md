@@ -6,7 +6,7 @@
 
 **Information retrieval** — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-5 of 385 CASE documents. Back to the [full index](../README.md).
+5 of 421 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

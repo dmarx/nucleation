@@ -6,8 +6,8 @@
 
 **Philosophy of mathematics** — what mathematics is about and how we know it — mathematical structuralism and ontology, the nature of proof and construction, and its history from Descartes to Kant and after (group: philosophy).
 
-0 of 217 ARG documents. Back to the [full index](../README.md).
+1 of 240 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-235](../../../record/arguments.d/ARG-235.md) | The observational symmetry of the miscalibrated anchor and the defined standard that fixes a frame, applied to the relation between physics and mathematics, show that physical content is mathematics up to observational equivalence plus a coordination with phenomena, and so amend the owner's thesis that physics is the subset of mathematics relevant to observable phenomena | An explication of the owner's "subset" ([CLAIM-1170](../../../record/claims.d/CLAIM-1170.md)) by the evening's two results. The conclusion [CLAIM-1151](../../../record/claims.d/CLAIM-1151.md) amends the thesis and keeps its core, that physics answers to observation. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

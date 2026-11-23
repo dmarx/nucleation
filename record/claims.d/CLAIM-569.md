@@ -38,7 +38,7 @@ history:
 - version: 5
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §9 uses
     it: endpoints cheap to keep, switching costly. No other change.
 role: thesis

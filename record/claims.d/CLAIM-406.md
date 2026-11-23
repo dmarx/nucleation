@@ -252,12 +252,12 @@ No status changes.
 
 ## Note of 2026-11-23: the loop at the level of a proposal
 
-<!-- inactive-ok-block: CLAIM-tmpn8j1j CLAIM-tmp3l7is — Proposed; filed from the exchange "Explain First Contact RL" -->
+<!-- inactive-ok-block: CLAIM-1140 CLAIM-1016 — Proposed; filed from the exchange "Explain First Contact RL" -->
 A56 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23)
 cites this claim and [CLAIM-277](CLAIM-277.md) for a circle at the level of one proposal:
 evidence is needed for permission to inquire, and permission for the
-evidence ([CLAIM-tmpn8j1j](CLAIM-tmpn8j1j.md)). This claim's caution carries over: the circle
+evidence ([CLAIM-1140](CLAIM-1140.md)). This claim's caution carries over: the circle
 alone cannot tell a neglected possibility from a worthless one.
-[CLAIM-tmp3l7is](CLAIM-tmp3l7is.md) (the assistant's) says what breaks it: authorizing a domain
+[CLAIM-1016](CLAIM-1016.md) (the assistant's) says what breaks it: authorizing a domain
 before its questions are formulated. No status change. The note is the
 assistant's (Claude, in this session); adopting it is the owner's call.

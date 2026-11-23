@@ -41,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-137 THEORY-116 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-092 — Proposed; open, and cited as the claims and reading this question is set beside, not as settled -->
 <!-- inactive-ok-file: CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: CASE-tmpc7lbu CLAIM-tmp58rtz CLAIM-tmpdltg3 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-398 CLAIM-1027 CLAIM-1080 — new; filed by the lead run of 2026-11-23 -->
 
 # QUESTION-027: Is there a relational signature of a communicative kind that is stable under admissible transformations, sufficient for a family of decisions and discriminating on designated contrasts, and can it be identified from the available probes, for decisions outside them, when the full latent model cannot?
 
@@ -215,10 +215,10 @@ known" calls answered, and not on decisions outside the observed probes.
 ## Note of 2026-11-23: the measurement a lead asked for
 
 [LEAD-073](../leads.d/LEAD-073.md), filed for this question, measured [NOTE-746](../notes.d/NOTE-746.md)'s M, N and Γ_q in
-GPT-2 small and Pythia-70m ([CASE-tmpc7lbu](../cases.d/CASE-tmpc7lbu.md)). Like the reading itself, it
+GPT-2 small and Pythia-70m ([CASE-398](../cases.d/CASE-398.md)). Like the reading itself, it
 bears on the unrestricted, in-probe form only, as the note of 2026-10-14
 says. Exactly, both models meet the diversity condition, so every linear
-property is shared across the exact equivalence class ([CLAIM-tmp58rtz](../claims.d/CLAIM-tmp58rtz.md)).
+property is shared across the exact equivalence class ([CLAIM-1027](../claims.d/CLAIM-1027.md)).
 Whether that survives for nearly equivalent models depends on a tolerance
-([CLAIM-tmpdltg3](../claims.d/CLAIM-tmpdltg3.md)). Nothing in it concerns decisions outside the observed
+([CLAIM-1080](../claims.d/CLAIM-1080.md)). Nothing in it concerns decisions outside the observed
 probes. The question stays open.

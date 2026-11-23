@@ -1,20 +1,20 @@
 ### Added
 
-- [CASE-tmp4niuz](record/cases.d/CASE-tmp4niuz.md) (Proposed, executed-study, documented), the study [LEAD-107](record/leads.d/LEAD-107.md)
+- [CASE-393](record/cases.d/CASE-393.md) (Proposed, executed-study, documented), the study [LEAD-107](record/leads.d/LEAD-107.md)
   asks for. It codes by rule every restatement event that 48 reconstructions
   of exchanges report, 265 under the revised rules. 76 were re-derived as
   new, 1 was retrieved by citation, and coded content was re-derived in 20
   reconstructions. Too few quotations pair a restatement with its original
   to measure distance. Codebook, script, tests, results and a self-audit
   are in scratch/studies/lead-107/.
-- [CLAIM-tmp9w3p9](record/claims.d/CLAIM-tmp9w3p9.md) (Proposed, thesis, empirical). The reconstructions report
+- [CLAIM-1056](record/claims.d/CLAIM-1056.md) (Proposed, thesis, empirical). The reconstructions report
   a restatement almost only when it fails, so they cannot run [CLAIM-180](record/claims.d/CLAIM-180.md)'s
   or [CLAIM-182](record/claims.d/CLAIM-182.md)'s test.
 - Two alternative readings of the same counts. Both are Proposed and
   empirical, and the owner chooses between them:
-  - [CLAIM-tmpc5mmp](record/claims.d/CLAIM-tmpc5mmp.md) (counter), which objects to [CLAIM-180](record/claims.d/CLAIM-180.md)'s clause that a
+  - [CLAIM-1068](record/claims.d/CLAIM-1068.md) (counter), which objects to [CLAIM-180](record/claims.d/CLAIM-180.md)'s clause that a
     code bypasses retrieval by content;
-  - [CLAIM-tmp49ilj](record/claims.d/CLAIM-tmp49ilj.md) (granted), which reads the counts as failures to
+  - [CLAIM-1023](record/claims.d/CLAIM-1023.md) (granted), which reads the counts as failures to
     discover the code. The lead worker leans to this one.
 
 ### Changed

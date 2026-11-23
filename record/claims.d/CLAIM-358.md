@@ -364,11 +364,11 @@ checks. A quoted this claim's "The achievement of governance may be to make
 its repeated exercise unnecessary" and called it the strongest connection
 to Luria. A20 §3 then qualified it: a record that settles conflicts by
 enforcement amortizes arbitration by externalizing it, which is not the
-learned local accommodation this claim describes ([CLAIM-tmpmk036](CLAIM-tmpmk036.md),
+learned local accommodation this claim describes ([CLAIM-1139](CLAIM-1139.md),
 Proposed). An analogy of a parallel case; no relation is written. The claim
 is unchanged.
 
-<!-- inactive-ok-file: CLAIM-tmptfpf7 — Proposed or Open; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+<!-- inactive-ok-file: CLAIM-1173 — Proposed or Open; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
 ## Note of 2026-11-23: a parallel in the Daodejing
 
@@ -378,7 +378,7 @@ on the best ruler, whom the people barely know exists, and who finishes
 the work so that the people say they did it themselves (paraphrased from
 common knowledge of the text, not checked). This is an analogy; no edge
 is written. The regulation thread of the exchange "Explain First Contact
-RL" ([CLAIM-tmptfpf7](CLAIM-tmptfpf7.md), generative regulation) is the same shape.
+RL" ([CLAIM-1173](CLAIM-1173.md), generative regulation) is the same shape.
 
 ## Note of 2026-11-23: what holds it back
 

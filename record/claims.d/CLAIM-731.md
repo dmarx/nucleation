@@ -19,7 +19,7 @@ history:
 - version: 4
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §13.3. No other change.
@@ -157,4 +157,4 @@ A parallel in consumer design, not evidence ([LIT-3136](../literature.d/LIT-3136
 
 ## Note of 2026-11-23: the cost of asking as power, from "Explain First Contact RL"
 
-A52 §6 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23), in answer to [QUESTION-tmp3cft4](../questions.d/QUESTION-tmp3cft4.md), reaches this claim from the side of inquiry: "the querying side may also seek to exhaust the respondent's limited time. An audit, appeal, or investigation can impose substantial response costs", and "powerful respondents can make querying prohibitively expensive by withholding evidence, complicating standards, or raising the costs of obtaining meaningful review", so "the allocation of inquiry costs is itself a dimension of power. **Who must spend time to make a demand legible, and who must spend time to answer it, are institutional design choices.**" That is this claim with contestation read as a query and its friction as the cost of asking; A52 adds the direction this claim does not state, that a challenger can also impose costs on an institution. A52 also sorts repeated queries as extractive, productive or transformative of the respondent's resources, a passing taxonomy left here. [TERM-085](../terms.d/TERM-085.md)'s practical contestability is the other held entry it uses. No new entry; no status change.
+A52 §6 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23), in answer to [QUESTION-520](../questions.d/QUESTION-520.md), reaches this claim from the side of inquiry: "the querying side may also seek to exhaust the respondent's limited time. An audit, appeal, or investigation can impose substantial response costs", and "powerful respondents can make querying prohibitively expensive by withholding evidence, complicating standards, or raising the costs of obtaining meaningful review", so "the allocation of inquiry costs is itself a dimension of power. **Who must spend time to make a demand legible, and who must spend time to answer it, are institutional design choices.**" That is this claim with contestation read as a query and its friction as the cost of asking; A52 adds the direction this claim does not state, that a challenger can also impose costs on an institution. A52 also sorts repeated queries as extractive, productive or transformative of the respondent's resources, a passing taxonomy left here. [TERM-085](../terms.d/TERM-085.md)'s practical contestability is the other held entry it uses. No new entry; no status change.

@@ -26,7 +26,7 @@ summary: >-
   coverage against delivered success ([CLAIM-697](../claims.d/CLAIM-697.md)).
 ---
 <!-- inactive-ok-file: CLAIM-519 CLAIM-697 CLAIM-754 TERM-079 TERM-131 THEORY-1737 THEORY-438 — Proposed; cited in this filing of 2026-11-19 -->
-<!-- inactive-ok-file: CASE-tmpk3qls CASE-tmpr1f20 CASE-tmpcz1jq CASE-tmpp2okq CASE-tmppqt0f CASE-tmphawe9 CLAIM-tmpngm72 CLAIM-tmpeonjp CLAIM-tmp5qk10 CLAIM-tmpgfunb CLAIM-tmpf4pun CLAIM-tmpadjsm CLAIM-tmphm1g8 — Proposed; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-408 CASE-416 CASE-399 CASE-413 CASE-414 CASE-403 CLAIM-1142 CLAIM-1086 CLAIM-1028 CLAIM-1100 CLAIM-1092 CLAIM-1059 CLAIM-1109 — Proposed; filed by the lead run of 2026-11-23 -->
 
 # QUESTION-493: What does it take for a learning system to know something, as distinct from storing the information, believing it, or producing the right answer, and where in a system that samples, adapts at test time, uses a verifier or calls a tool does the knowing sit?
 
@@ -95,27 +95,27 @@ Background ([NOTE-2160](../notes.d/NOTE-2160.md)): Brown and colleagues read clo
 ## Note of 2026-11-23: cases that separate the four things, and understanding
 
 [LEAD-001](../leads.d/LEAD-001.md) filed nine cases and their verdicts against A73's candidate
-answer. [CLAIM-tmpngm72](../claims.d/CLAIM-tmpngm72.md) collects eight separations among stored
+answer. [CLAIM-1142](../claims.d/CLAIM-1142.md) collects eight separations among stored
 information, belief, correct output, knowledge and understanding. The
 candidate holds on every case, with two findings:
 
 - **Reliability over a family as declared is not enough.** A classifier
-  reading a watermark ([CASE-tmpr1f20](../cases.d/CASE-tmpr1f20.md)) and a model whose stale source was
-  made true again by a reappointment ([CASE-tmpcz1jq](../cases.d/CASE-tmpcz1jq.md)) are reliable there
+  reading a watermark ([CASE-416](../cases.d/CASE-416.md)) and a model whose stale source was
+  made true again by a reappointment ([CASE-399](../cases.d/CASE-399.md)) are reliable there
   and do not know. A73's grounding criterion, and its second and third
   tests, catch both. Whether grounding is then a further condition or
   reliability over a family closed under interventions on the truthmaker
-  is filed as alternatives: [CLAIM-tmpeonjp](../claims.d/CLAIM-tmpeonjp.md) (the assistant's lean) and
-  [CLAIM-tmp5qk10](../claims.d/CLAIM-tmp5qk10.md).
+  is filed as alternatives: [CLAIM-1086](../claims.d/CLAIM-1086.md) (the assistant's lean) and
+  [CLAIM-1028](../claims.d/CLAIM-1028.md).
 - **Possession and where it sits.** A fact a probe decodes and the model
-  never uses ([CASE-tmpk3qls](../cases.d/CASE-tmpk3qls.md)) is stored, not known; one the model uses
-  under one cue ([CASE-tmpp2okq](../cases.d/CASE-tmpp2okq.md)) is known relative to the declared
-  procedures and budget ([CLAIM-tmpgfunb](../claims.d/CLAIM-tmpgfunb.md)). A generator filtered by an exact
-  verifier ([CASE-tmppqt0f](../cases.d/CASE-tmppqt0f.md)) knows as a composite under a budget, and
-  neither part does ([CLAIM-tmphm1g8](../claims.d/CLAIM-tmphm1g8.md)).
+  never uses ([CASE-408](../cases.d/CASE-408.md)) is stored, not known; one the model uses
+  under one cue ([CASE-413](../cases.d/CASE-413.md)) is known relative to the declared
+  procedures and budget ([CLAIM-1100](../claims.d/CLAIM-1100.md)). A generator filtered by an exact
+  verifier ([CASE-414](../cases.d/CASE-414.md)) knows as a composite under a budget, and
+  neither part does ([CLAIM-1109](../claims.d/CLAIM-1109.md)).
 
 A84's question whether understanding "necessarily entails greater future
-learnability" turns on a frozen exact rule ([CASE-tmphawe9](../cases.d/CASE-tmphawe9.md)): on
-[CLAIM-tmpf4pun](../claims.d/CLAIM-tmpf4pun.md) (the assistant's lean, understanding as stable tracking,
-[THEORY-438](../theory.d/THEORY-438.md)) no; on [CLAIM-tmpadjsm](../claims.d/CLAIM-tmpadjsm.md) (understanding as developmental value,
+learnability" turns on a frozen exact rule ([CASE-403](../cases.d/CASE-403.md)): on
+[CLAIM-1092](../claims.d/CLAIM-1092.md) (the assistant's lean, understanding as stable tracking,
+[THEORY-438](../theory.d/THEORY-438.md)) no; on [CLAIM-1059](../claims.d/CLAIM-1059.md) (understanding as developmental value,
 A73) yes. On every learner the two agree. No status change.

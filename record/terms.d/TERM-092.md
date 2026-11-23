@@ -137,17 +137,17 @@ The term is unchanged.
 
 ## Note of 2026-11-23: an answer frontier beside it, from A50 of "Explain First Contact RL"
 
-<!-- inactive-ok-block: CLAIM-tmp11j0f CLAIM-tmpx030o — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
-A50 §2 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites this term correctly, as "the resource-bounded set of formulable questions", "distinguishing expressible, askable, investigable, and answerable questions", and sets beside it the queries an organization "can adequately answer at time t", a superlevel set of [TERM-115](TERM-115.md)'s readiness. A50 says the two "are not necessarily nested", and that adaptability is lost either way, the loss of asking being the harder to detect ([CLAIM-tmp11j0f](../claims.d/CLAIM-tmp11j0f.md)); its §8 makes maintaining both the task of adaptive governance ([CLAIM-tmpx030o](../claims.d/CLAIM-tmpx030o.md)). A50's answer set is not this term's answerable set: that is a question having an answer some process could find, A50's is an organization's realizing one. The owner's U30 later asks whether this term should include the answer frontier; that is filed separately. The term is unchanged.
+<!-- inactive-ok-block: CLAIM-1003 CLAIM-1188 — Proposed, filed from A50 of the exchange "Explain First Contact RL" on 2026-11-23 -->
+A50 §2 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) cites this term correctly, as "the resource-bounded set of formulable questions", "distinguishing expressible, askable, investigable, and answerable questions", and sets beside it the queries an organization "can adequately answer at time t", a superlevel set of [TERM-115](TERM-115.md)'s readiness. A50 says the two "are not necessarily nested", and that adaptability is lost either way, the loss of asking being the harder to detect ([CLAIM-1003](../claims.d/CLAIM-1003.md)); its §8 makes maintaining both the task of adaptive governance ([CLAIM-1188](../claims.d/CLAIM-1188.md)). A50's answer set is not this term's answerable set: that is a question having an answer some process could find, A50's is an organization's realizing one. The owner's U30 later asks whether this term should include the answer frontier; that is filed separately. The term is unchanged.
 
 ## Note of 2026-11-23: the answer frontier, from "Explain First Contact RL"
 
-<!-- inactive-ok-block: CLAIM-tmp2enpa TERM-tmpace0k CLAIM-tmpx0wv9 — Proposed; filed from the exchange -->
+<!-- inactive-ok-block: CLAIM-1009 TERM-159 CLAIM-1190 — Proposed; filed from the exchange -->
 The owner, at U30 of the exchange "Explain First Contact RL" (2026-11-23):
 this term "is actually just the query frontier component of the boundary
-about the inquiry, which includes an answer frontier" ([CLAIM-tmp2enpa](../claims.d/CLAIM-tmp2enpa.md)). A58
-agreed and proposed a revision ([TERM-tmpace0k](TERM-tmpace0k.md)), with the joint relation of
-question–answer pairs as the object ([CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md)).
+about the inquiry, which includes an answer frontier" ([CLAIM-1009](../claims.d/CLAIM-1009.md)). A58
+agreed and proposed a revision ([TERM-159](TERM-159.md)), with the joint relation of
+question–answer pairs as the object ([CLAIM-1190](../claims.d/CLAIM-1190.md)).
 
 Version 2 of this term already went part of the way. Its investigable set
 ("on the frontier, with budget left to pursue it to a stated standard")
@@ -158,17 +158,17 @@ What the term lacks is which answers, at what standard, are attainable for a
 question within that budget, and the pairs. Two alternatives are filed for
 the owner, both Proposed:
 
-<!-- inactive-ok-block: TERM-tmpace0k TERM-tmpdk711 — Proposed; the two alternatives -->
-- (a) [TERM-tmpace0k](TERM-tmpace0k.md): this term revised to the joint object, the name going
+<!-- inactive-ok-block: TERM-159 TERM-160 — Proposed; the two alternatives -->
+- (a) [TERM-159](TERM-159.md): this term revised to the joint object, the name going
   with it (A58's wording, with the assistant's note on what it drops);
-- (b) [TERM-tmpdk711](TERM-tmpdk711.md): this term kept, a joint inquiry frontier beside it whose
+- (b) [TERM-160](TERM-160.md): this term kept, a joint inquiry frontier beside it whose
   question side is the investigable set (the assistant's wording).
 
-<!-- inactive-ok-block: CLAIM-754 CLAIM-tmpj15c6 CLAIM-tmp04pr7 CLAIM-tmp3l7is — Proposed; a claim using this term's earlier sense, and claims filed from the exchange -->
+<!-- inactive-ok-block: CLAIM-754 CLAIM-1115 CLAIM-996 CLAIM-1016 — Proposed; a claim using this term's earlier sense, and claims filed from the exchange -->
 Under (a) the five claims stated in this term would each say which set they
 use; under (b) none changes. [CLAIM-754](../claims.d/CLAIM-754.md) uses the term's version-1 sense,
 "formulate and pursue", which version 2 split (its note of 2026-11-23). Why
 the joint object is not the two frontiers listed side by side is
-[CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md) (the assistant's derivation, checked). Authorization as a
-further cost on the same budget is [CLAIM-tmp04pr7](../claims.d/CLAIM-tmp04pr7.md) and [CLAIM-tmp3l7is](../claims.d/CLAIM-tmp3l7is.md). The
+[CLAIM-1115](../claims.d/CLAIM-1115.md) (the assistant's derivation, checked). Authorization as a
+further cost on the same budget is [CLAIM-996](../claims.d/CLAIM-996.md) and [CLAIM-1016](../claims.d/CLAIM-1016.md). The
 definition is unchanged; the choice is the owner's.

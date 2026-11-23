@@ -51,7 +51,7 @@ history:
   date: '2026-11-23'
   note: >-
     At the synthesis review of 2026-11-23, coverage: added CLAIM-750,
-    CLAIM-751, CLAIM-905, CLAIM-tmp20uni, CLAIM-tmp64hmn and CLAIM-
+    CLAIM-751, CLAIM-905, CLAIM-1005, CLAIM-1033 and CLAIM-
     tmpauu5r, claims filed since this account that bear on the root
     question QUESTION-476 and that no account integrated, to the entry for
     QUESTION-476 in the section on the line rightful-power. The title is
@@ -129,9 +129,9 @@ integrates:
 - CLAIM-750
 - CLAIM-751
 - CLAIM-905
-- CLAIM-tmp20uni
-- CLAIM-tmp64hmn
-- CLAIM-tmpauu5r
+- CLAIM-1005
+- CLAIM-1033
+- CLAIM-1062
 bears_on:
 - QUESTION-478
 - QUESTION-485
@@ -831,15 +831,15 @@ that answers, bears on or (questions only) refines one of them:
   [CASE-335](../cases.d/CASE-335.md) run for [LEAD-119](../leads.d/LEAD-119.md); thesis, empirical) finds public software
   postmortems rarely tracing a cause above the engineering team where
   Chemical Safety Board investigations mostly do, and corroborates
-  [CLAIM-750](../claims.d/CLAIM-750.md), weakly by its own account. [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md) (the assistant's,
+  [CLAIM-750](../claims.d/CLAIM-750.md), weakly by its own account. [CLAIM-1005](../claims.d/CLAIM-1005.md) (the assistant's,
   for [LEAD-189](../leads.d/LEAD-189.md), 2026-11-22; thesis, empirical) sets the Tempe criminal
   process, which convicted only the operator, beside the no-blame
   investigation that named the company and the state; it complements
   [CLAIM-751](../claims.d/CLAIM-751.md), corroborates [CLAIM-707](../claims.d/CLAIM-707.md) and bears also on [QUESTION-470](../questions.d/QUESTION-470.md).
-  [CLAIM-tmp64hmn](../claims.d/CLAIM-tmp64hmn.md) (the assistant's, same filing; counter, interpretive)
-  objects to [CLAIM-tmp20uni](../claims.d/CLAIM-tmp20uni.md) that the contrast is between the criminal
+  [CLAIM-1033](../claims.d/CLAIM-1033.md) (the assistant's, same filing; counter, interpretive)
+  objects to [CLAIM-1005](../claims.d/CLAIM-1005.md) that the contrast is between the criminal
   law and a safety investigation, not between blame and its absence.
-  [CLAIM-tmpauu5r](../claims.d/CLAIM-tmpauu5r.md) (the assistant's, same filing; counter, interpretive)
+  [CLAIM-1062](../claims.d/CLAIM-1062.md) (the assistant's, same filing; counter, interpretive)
   objects to [CLAIM-750](../claims.d/CLAIM-750.md) that a single postmortem is the wrong unit, since
   Google's practice routes questions about priorities set above the team
   to reviews across incidents. The five other than [CLAIM-750](../claims.d/CLAIM-750.md) also carry

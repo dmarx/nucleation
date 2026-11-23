@@ -6,7 +6,7 @@
 
 **Behavioral integration** — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024).
 
-7 of 215 LEAD documents. Back to the [full index](../README.md).
+8 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -17,3 +17,4 @@
 | [LEAD-088](../../../record/leads.d/LEAD-088.md) | Compare the drive profiles that interests, the expected value of control and will-organization predict for an agent resisting temptation, and estimate one for a real system | Named in [CLAIM-158](../../../record/claims.d/CLAIM-158.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-128](../../../record/leads.d/LEAD-128.md) | Find or make a fit of the expected-value-of-control model in which control intensity falls with its cost | Named in [CLAIM-358](../../../record/claims.d/CLAIM-358.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-159](../../../record/leads.d/LEAD-159.md) | Test corrigible resolve against entrenchment: perturb or ablate a learner's slow influence structure with task information and capacity held fixed | Named in [CLAIM-344](../../../record/claims.d/CLAIM-344.md) and [CASE-188](../../../record/cases.d/CASE-188.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-227](../../../record/leads.d/LEAD-227.md) | Compare collaborators working across sessions from a shared transcript, shared searchable documents and a governed record, measuring stability, synchronization, belief convergence, retained plurality, governance overhead, experienced flow and corrective capacity separately | The two study designs A proposed in the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22), merged because they share their conditions: A18 §8 (ordinary conversation history, shared searchable documents, a Luria-style governed record; six measures) and A20 §8 (a shared transcript against a Luria-governed record; four measures). The result A20 called "particularly interesting" is better practical synchronization and more reported flow without more agreement among the collaborators' beliefs. Stage idea: the conditions and measures are named, no protocol, sample or cost. The design is A's (ChatGPT, in the exchange of 2026-11-22); the merge and the withdrawal arm are the assistant's (Claude, in this session); adopting it is the owner's call. | Open |

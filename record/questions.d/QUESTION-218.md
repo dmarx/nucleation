@@ -20,7 +20,7 @@ history:
   note: >-
     Note of 2026-11-23 added, from the lead run of that date: a bound on
     how definite a computed diffusion-wavelet level is as a subspace
-    (CLAIM-tmpdsu37). The question is unchanged.
+    (CLAIM-1083). The question is unchanged.
 tags:
 - individuation
 - complex-systems
@@ -149,16 +149,16 @@ no timing to entrain. No status change.
 Evidence on the unit a boundary test should take. Ott and Antonsen's order
 parameter is a function of the whole state, exactly closed on an invariant
 manifold under uniform coupling, where no subset of members is a block
-([THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md), [NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md)); in their model of communities of
+([THEORY-2295](../theory.d/THEORY-2295.md), [NOTE-2385](../notes.d/NOTE-2385.md)); in their model of communities of
 oscillators each community's order parameter closes at any coupling
 between communities, weak or strong. So a test that takes functions of
 the whole state finds closed units that tests on member subsets miss, as
 [CLAIM-388](../claims.d/CLAIM-388.md) found in a linear model. It does not say whether such a unit is
-one system. [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) bears on this question.
+one system. [THEORY-2295](../theory.d/THEORY-2295.md) bears on this question.
 
 ## Note of 2026-11-23: a computed level is definite as a subspace, to a bound
 
-[CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md) (Proposed, filed by the lead run of 2026-11-23) bounds how far
+[CLAIM-1083](../claims.d/CLAIM-1083.md) (Proposed, filed by the lead run of 2026-11-23) bounds how far
 a level computed by the compressed diffusion-wavelet chain lies from the
 invariant subspace of the same dimension: the truncation residual plus the
 accumulated drift, over the smallest kept eigenvalue of the level's dyadic

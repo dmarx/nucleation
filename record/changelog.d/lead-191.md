@@ -1,7 +1,7 @@
-<!-- inactive-ok-file: CLAIM-037 CASE-tmpskejj CLAIM-tmptzmky CLAIM-tmprfjkk CLAIM-tmprq0nb CLAIM-tmpzvz98 — Proposed or new; the claim under test and the entries filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-037 CASE-417 CLAIM-1176 CLAIM-1164 CLAIM-1166 CLAIM-1207 — Proposed or new; the claim under test and the entries filed by the lead run of 2026-11-23 -->
 ### Added
 
-- [CASE-tmpskejj](record/cases.d/CASE-tmpskejj.md) (Proposed, executed-study, documented), the study [LEAD-191](record/leads.d/LEAD-191.md)
+- [CASE-417](record/cases.d/CASE-417.md) (Proposed, executed-study, documented), the study [LEAD-191](record/leads.d/LEAD-191.md)
   asks for. It reanalyses the published figures of [LIT-844](record/literature.d/LIT-844.md) by two routes:
   the signalling-corrected sheaf test the paper applies, and
   Contextuality-by-Default 2.0.
@@ -10,7 +10,7 @@
     README, and its release page returned 403.
   - **The checks** are linear programs and 249 tests, in
     scratch/studies/lead-191/.
-- [CLAIM-tmptzmky](record/claims.d/CLAIM-tmptzmky.md) (Proposed, thesis, demonstrated). On [LIT-844](record/literature.d/LIT-844.md)'s support:
+- [CLAIM-1176](record/claims.d/CLAIM-1176.md) (Proposed, thesis, demonstrated). On [LIT-844](record/literature.d/LIT-844.md)'s support:
   - the sheaf test is the signalling threshold SF < 1/6;
   - CbD 2.0 is the threshold Δ < 2;
   - the first set lies inside the second, and the published counts fix
@@ -20,11 +20,11 @@
     SF < 1.
 - Three alternative readings of which verdict is right. All are Proposed
   and interpretive, and the owner chooses:
-  - [CLAIM-tmprfjkk](record/claims.d/CLAIM-tmprfjkk.md) (thesis): the data cannot discriminate, because their
+  - [CLAIM-1164](record/claims.d/CLAIM-1164.md) (thesis): the data cannot discriminate, because their
     support is fixed. The lead worker leans to this one.
-  - [CLAIM-tmprq0nb](record/claims.d/CLAIM-tmprq0nb.md) (thesis): only CbD gives a single verdict. It
+  - [CLAIM-1166](record/claims.d/CLAIM-1166.md) (thesis): only CbD gives a single verdict. It
     corroborates [CLAIM-037](record/claims.d/CLAIM-037.md).
-  - [CLAIM-tmpzvz98](record/claims.d/CLAIM-tmpzvz98.md) (counter): on the reading of signalling as error, the
+  - [CLAIM-1207](record/claims.d/CLAIM-1207.md) (counter): on the reading of signalling as error, the
     sheaf figure is the defensible one. It objects to [CLAIM-037](record/claims.d/CLAIM-037.md).
 
 ### Changed

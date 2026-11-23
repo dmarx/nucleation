@@ -1,7 +1,7 @@
-<!-- inactive-ok-file: CLAIM-tmpktdh5 — new; the objection filed for LEAD-194 -->
+<!-- inactive-ok-file: CLAIM-1127 — new; the objection filed for LEAD-194 -->
 ### Added
 
-- [CLAIM-tmpktdh5](record/claims.d/CLAIM-tmpktdh5.md) (Proposed, thesis, demonstrated), for [LEAD-194](record/leads.d/LEAD-194.md): a probe
+- [CLAIM-1127](record/claims.d/CLAIM-1127.md) (Proposed, thesis, demonstrated), for [LEAD-194](record/leads.d/LEAD-194.md): a probe
   family that supplied a system's training signal does certify a preserved
   property when a stated inequality bounds that property by the probes'
   value over the contexts they cover, the value estimated on draws the

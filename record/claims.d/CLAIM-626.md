@@ -17,7 +17,7 @@ history:
 - version: 3
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §5.1
     states its three kinds of slowing, with some drift (see the curation
     entry). No other change.
@@ -157,11 +157,11 @@ relation is written.
 
 A parallel in an exact model, no edge. Near the Kuramoto threshold the
 collective mode slows (damping rate Δ − K/2 → 0) while the approach to Ott
-and Antonsen's reduced manifold stays at least Δ ([NOTE-tmpd7trg](../notes.d/NOTE-tmpd7trg.md),
-[NOTE-tmp5oph4](../notes.d/NOTE-tmp5oph4.md)), so reduction to the order parameter improves as the mode
+and Antonsen's reduced manifold stays at least Δ ([NOTE-2385](../notes.d/NOTE-2385.md),
+[NOTE-2378](../notes.d/NOTE-2378.md)), so reduction to the order parameter improves as the mode
 slows: this claim's first case.
 
-<!-- inactive-ok-file: CLAIM-tmpbzwmr — Proposed; filed in this filing of 2026-11-22 (second share) -->
+<!-- inactive-ok-file: CLAIM-1066 — Proposed; filed in this filing of 2026-11-22 (second share) -->
 
 ## Note of 2026-11-22: a governance reading
 
@@ -174,14 +174,14 @@ operating under its established arrangement while its capacity to
 recover from disagreements, delays, or disruptions becomes progressively
 weaker". A slowing maintenance mode is current coordination with failing
 support. A40: "a slow mode cannot automatically be interpreted as a
-stabilizing identity." The thesis it supports, [CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md),
+stabilizing identity." The thesis it supports, [CLAIM-1066](CLAIM-1066.md),
 complements this claim. The relation is a parallel, so no edge is written
 from here.
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
-Restatement, with drift. A48 §5.1 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md))
+<!-- inactive-ok-block: ADR-144 — Proposed; the work -->
+Restatement, with drift. A48 §5.1 of the owner's manuscript ([ADR-144](../decisions.d/ADR-144.md))
 restates this claim's three kinds of slowing, but recasts whether the
 collective reduction stays good as whether coordination weakens or the
 relationship continues to function; and its lineage section calls the claim

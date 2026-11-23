@@ -50,9 +50,9 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: Chesson (2011), the stand-in for Chesson
-    1990, read (NOTE-tmp6d961, THEORY-tmpac7iw). Stable coexistence is
+    1990, read (NOTE-2380, THEORY-2287). Stable coexistence is
     recovery from low density; in the potential case the two-component
-    recovery test is Chesson's criterion (CLAIM-tmpv65bg). The question
+    recovery test is Chesson's criterion (CLAIM-1181). The question
     is unchanged.
 tags:
 - complex-systems
@@ -426,9 +426,9 @@ The question is unchanged and stays Open.
 The note of 2026-10-29 ends: "The first outcome's name still rests on no
 reading of Chesson." His 1990 paper, [LIT-1826](../literature.d/LIT-1826.md), is still Unfetched, and
 his 1994 paper, [LIT-1827](../literature.d/LIT-1827.md), still Unavailable; both were sought again on
-this date. His 2011 chapter, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md), which restates the 1990
-reworking of MacArthur's model, is read in full ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md),
-[THEORY-tmpac7iw](../theory.d/THEORY-tmpac7iw.md)). Three things bear here.
+this date. His 2011 chapter, [LIT-3154](../literature.d/LIT-3154.md), which restates the 1990
+reworking of MacArthur's model, is read in full ([NOTE-2380](../notes.d/NOTE-2380.md),
+[THEORY-2287](../theory.d/THEORY-2287.md)). Three things bear here.
 
 - **The first outcome's test is Chesson's.** "[B]y stable coexistence, a
   stable equilibrium is not implied. Instead, the requirement is recovery
@@ -441,7 +441,7 @@ reworking of MacArthur's model, is read in full ([NOTE-tmp6d961](../notes.d/NOTE
   components.** MacArthur's model is [CLAIM-369](../claims.d/CLAIM-369.md)'s class, and a rare
   component's growth against a lone resident is ‖u_i‖(κ_i − ρκ_j), with
   ρ the cosine of the niche vectors and κ_i = r_i/‖u_i‖
-  ([CLAIM-tmpv65bg](../claims.d/CLAIM-tmpv65bg.md)). Both recover when rare exactly when
+  ([CLAIM-1181](../claims.d/CLAIM-1181.md)). Both recover when rare exactly when
   ρ < κ_i/κ_j < 1/ρ. So overlap alone does not decide the first outcome:
   a component with a distinct niche, ρ small, can still be excluded by a
   large enough fitness gap. That is [CASE-118](../cases.d/CASE-118.md)'s "feature geometry alone

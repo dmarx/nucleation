@@ -48,7 +48,7 @@ history:
 - version: 6
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §5.2. No other change.
@@ -194,7 +194,7 @@ In the exchange "Individuation, Possibility, and Disposition" (2026-11-06 to 07)
 
 A58 §4 cites this claim for a third state that "can alter the stability threshold of the meaning–authority feedback loop", and as "a possible mechanism for institutional memory, conceptual entrenchment, and path-dependent interpretation". At the threshold this claim says the regime reduces to stronger two-variable couplings. The part that does not reduce is the slow mode away from it, which A also states. The mechanism reading has no case in the record, as this claim's "What it does not say" warns. The reader rechecked the threshold condition on 20,000 random draws, with no mismatch. No status changes.
 
-<!-- inactive-ok-file: CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
+<!-- inactive-ok-file: CLAIM-1070 — Proposed; filed in this filing of 2026-11-23 (third share) -->
 
 ## Note of 2026-11-23: an industrial reading
 
@@ -205,11 +205,11 @@ path-dependent governance architecture": the terms in 1/(1 − λ) grow as
 the state's persistence approaches one. A42: "A system can become better
 at governing the problems it already recognizes while becoming worse at
 recognizing and governing new ones." This is a faithful application. The
-thesis using it is [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md); no edge is written from here.
+thesis using it is [CLAIM-1070](CLAIM-1070.md); no edge is written from here.
 
 ## Note of 2026-11-23: a grammar of permission, from "Explain First Contact RL"
 
-<!-- inactive-ok-block: CLAIM-tmpjvllb CLAIM-tmp04pr7 — Proposed; filed from the exchange -->
+<!-- inactive-ok-block: CLAIM-1119 CLAIM-996 — Proposed; filed from the exchange -->
 A56 §7 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23)
 describes this claim's mechanism in an organization's authorization of
 inquiry, without citing it: "Over time, a particular grammar of permission
@@ -218,8 +218,8 @@ raising the relative cost of unfamiliar ones, so that "identity
 stabilization becomes the stabilization of an authority-dependent legibility
 regime". That is the maintained legibility state that authority moves, with
 the lean that can outlast its causes, read in the setting of
-[CLAIM-tmp04pr7](CLAIM-tmp04pr7.md). A56's remedy, revising "the standards governing those
+[CLAIM-996](CLAIM-996.md). A56's remedy, revising "the standards governing those
 decisions", is [CLAIM-403](CLAIM-403.md)'s last stage. Not filed as a claim of its own; the
-related claims are [CLAIM-tmp04pr7](CLAIM-tmp04pr7.md) and [CLAIM-tmpjvllb](CLAIM-tmpjvllb.md). No status change. The
+related claims are [CLAIM-996](CLAIM-996.md) and [CLAIM-1119](CLAIM-1119.md). No status change. The
 note is the assistant's (Claude, in this session); adopting it is the
 owner's call.

@@ -6,7 +6,7 @@
 
 **Logic** — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
-1 of 215 LEAD documents. Back to the [full index](../README.md).
+1 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

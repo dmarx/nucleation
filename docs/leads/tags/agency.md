@@ -6,7 +6,7 @@
 
 **Agency** — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy).
 
-20 of 215 LEAD documents. Back to the [full index](../README.md).
+21 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -30,3 +30,4 @@
 | [LEAD-141](../../../record/leads.d/LEAD-141.md) | Test the will-organization claim across realizers: interventions that block or restore the epistemic agent model with competing thoughts held fixed, reading Axelrod and colleagues first | Named in [ARG-051](../../../record/arguments.d/ARG-051.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-160](../../../record/leads.d/LEAD-160.md) | Run the world-model achievements study under matched competence | Named in [CASE-187](../../../record/cases.d/CASE-187.md). Filed by the backlog audit of 2026-11-19. | Open |
 | [LEAD-188](../../../record/leads.d/LEAD-188.md) | Find production testimony of how the fan redub reached the reshoot, and compare a circulation-network model with the list of identifiable contributions | Named in [CLAIM-332](../../../record/claims.d/CLAIM-332.md). Filed by the backlog audit of 2026-11-19. | Open |
+| [LEAD-217](../../../record/leads.d/LEAD-217.md) | Separate interface improvement from user accommodation in an adaptive scroll interface: cross user experience with a fixed or updated mapping, freeze the mapping at intervals, test transfer to unfamiliar documents, and restore standard scrolling for a while to see what the user can do unassisted | From A8 §2C and §3B of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22). First Contact assumes the user adapts and does not measure it, and runs no transfer test ([NOTE-2236](../../../record/notes.d/NOTE-2236.md)); A proposes a design that does both in the smart-scroll setting, with an arm that removes the adaptation. The wording is A's (ChatGPT, in the exchange of 2026-11-22); adopting it is the owner's call. | Open |

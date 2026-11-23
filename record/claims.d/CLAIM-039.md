@@ -53,7 +53,7 @@ summary: >-
 uses:
 - TERM-094
 ---
-<!-- inactive-ok-file: CASE-tmphvbov CLAIM-431 CLAIM-432 — new or Proposed; the study filed by the lead run of 2026-11-23 and the claims it tests -->
+<!-- inactive-ok-file: CASE-405 CLAIM-431 CLAIM-432 — new or Proposed; the study filed by the lead run of 2026-11-23 and the claims it tests -->
 <!-- inactive-ok-file: CLAIM-527 — Proposed; Massumi's affect, and the claim that places its quantity -->
 <!-- inactive-ok-file: THEORY-2229 — Proposed; the reading of LEAD-112 cited in the note of 2026-11-22 -->
 
@@ -185,7 +185,7 @@ so no edge is written. The claim is unchanged.
 ## Note of 2026-11-23: the sanction-lift test leaves this claim where it was
 
 [LEAD-101](../leads.d/LEAD-101.md) names this claim among those it advances. Its run on open sources
-([CASE-tmphvbov](../cases.d/CASE-tmphvbov.md)) bears on which functional affect a corporation has, remorse
+([CASE-405](../cases.d/CASE-405.md)) bears on which functional affect a corporation has, remorse
 or only fear ([CLAIM-432](CLAIM-432.md) against [CLAIM-431](CLAIM-431.md)), not on whether affect can be
 characterized functionally. Every case and estimate in it is read as
 conduct a corporation's appraisals and readiness would produce, which this

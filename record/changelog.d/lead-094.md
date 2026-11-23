@@ -1,29 +1,29 @@
-<!-- inactive-ok-file: ARG-tmp5xhiv CLAIM-157 CLAIM-327 CLAIM-478 CLAIM-626 CLAIM-tmpa694z CLAIM-tmpervl4 CLAIM-tmpo6ehq LIT-1638 LIT-1642 LIT-2254 LIT-2255 NOTE-tmp3om59 NOTE-tmpj6fck NOTE-tmpnfczs NOTE-tmprzmfk THEORY-tmp0d58z THEORY-tmp31kx6 THEORY-tmpd9neo THEORY-tmpgdriu THEORY-tmpkt3xf THEORY-tmpmvcnr THEORY-tmpp4w4k THEORY-tmpq02z9 THEORY-tmpqdy16 — Proposed, Skimmed, Unavailable or Unfetched; the entries this contribution filed or recorded -->
+<!-- inactive-ok-file: ARG-220 CLAIM-157 CLAIM-327 CLAIM-478 CLAIM-626 CLAIM-1058 CLAIM-1088 CLAIM-1145 LIT-1638 LIT-1642 LIT-2254 LIT-2255 NOTE-2373 NOTE-2399 NOTE-2402 NOTE-2408 THEORY-2276 THEORY-2279 THEORY-2288 THEORY-2291 THEORY-2292 THEORY-2295 THEORY-2298 THEORY-2300 THEORY-2301 — Proposed, Skimmed, Unavailable or Unfetched; the entries this contribution filed or recorded -->
 
 ### Added
 
-- The reading of Ott and Antonsen 2008 ([NOTE-tmpd7trg](record/notes.d/NOTE-tmpd7trg.md), [THEORY-tmpmvcnr](record/theory.d/THEORY-tmpmvcnr.md)) as
+- The reading of Ott and Antonsen 2008 ([NOTE-2385](record/notes.d/NOTE-2385.md), [THEORY-2295](record/theory.d/THEORY-2295.md)) as
   the candidate defeater (a) of [CLAIM-478](record/claims.d/CLAIM-478.md) named in [LEAD-094](record/leads.d/LEAD-094.md), with their 2009
-  sequel registered and read as a supplement ([LIT-tmpd7koy](record/literature.d/LIT-tmpd7koy.md), [NOTE-tmp5oph4](record/notes.d/NOTE-tmp5oph4.md),
-  [THEORY-tmp0d58z](record/theory.d/THEORY-tmp0d58z.md)): an exact closure on an invariant manifold, attracting
+  sequel registered and read as a supplement ([LIT-3163](record/literature.d/LIT-3163.md), [NOTE-2378](record/notes.d/NOTE-2378.md),
+  [THEORY-2276](record/theory.d/THEORY-2276.md)): an exact closure on an invariant manifold, attracting
   the order parameter whenever frequencies are spread, with no rate
   condition.
-- A demonstrated claim ([CLAIM-tmpo6ehq](record/claims.d/CLAIM-tmpo6ehq.md)): the Ott–Antonsen family is
+- A demonstrated claim ([CLAIM-1145](record/claims.d/CLAIM-1145.md)): the Ott–Antonsen family is
   invariant only under first-harmonic coupling; a second harmonic breaks it
   except at full locking. Script, result and pytest in
   `scratch/studies/lead-094/`.
-- The verdict as two alternatives: [CLAIM-tmpa694z](record/claims.d/CLAIM-tmpa694z.md) (leaned to; the
-  reduction does not meet defeater (a)) and [CLAIM-tmpervl4](record/claims.d/CLAIM-tmpervl4.md) (it meets (a)
-  within its class and would narrow [CLAIM-478](record/claims.d/CLAIM-478.md)), with [ARG-tmp5xhiv](record/arguments.d/ARG-tmp5xhiv.md) setting
+- The verdict as two alternatives: [CLAIM-1058](record/claims.d/CLAIM-1058.md) (leaned to; the
+  reduction does not meet defeater (a)) and [CLAIM-1088](record/claims.d/CLAIM-1088.md) (it meets (a)
+  within its class and would narrow [CLAIM-478](record/claims.d/CLAIM-478.md)), with [ARG-220](record/arguments.d/ARG-220.md) setting
   out the inference.
 - Readings of the rest of the batch: Caprioglio and Berthouze
-  ([NOTE-tmp3gqv7](record/notes.d/NOTE-tmp3gqv7.md), [THEORY-tmpgdriu](record/theory.d/THEORY-tmpgdriu.md), corroborating [CLAIM-478](record/claims.d/CLAIM-478.md), [CLAIM-157](record/claims.d/CLAIM-157.md) and
-  [CLAIM-tmpa694z](record/claims.d/CLAIM-tmpa694z.md)), Augustsson and colleagues ([NOTE-tmp3oxzv](record/notes.d/NOTE-tmp3oxzv.md),
-  [THEORY-tmpq02z9](record/theory.d/THEORY-tmpq02z9.md)), Schmietendorf ([NOTE-tmphm1ot](record/notes.d/NOTE-tmphm1ot.md), [THEORY-tmpkt3xf](record/theory.d/THEORY-tmpkt3xf.md)), and,
-  skimmed, Kaur, Jain and Berman ([NOTE-tmpj6fck](record/notes.d/NOTE-tmpj6fck.md), [THEORY-tmpqdy16](record/theory.d/THEORY-tmpqdy16.md)), Lee and
-  colleagues ([NOTE-tmprzmfk](record/notes.d/NOTE-tmprzmfk.md), [THEORY-tmpp4w4k](record/theory.d/THEORY-tmpp4w4k.md)), Müller ([NOTE-tmpnfczs](record/notes.d/NOTE-tmpnfczs.md),
-  [THEORY-tmpd9neo](record/theory.d/THEORY-tmpd9neo.md)) and Hancock and colleagues ([NOTE-tmp3om59](record/notes.d/NOTE-tmp3om59.md),
-  [THEORY-tmp31kx6](record/theory.d/THEORY-tmp31kx6.md)).
+  ([NOTE-2372](record/notes.d/NOTE-2372.md), [THEORY-2291](record/theory.d/THEORY-2291.md), corroborating [CLAIM-478](record/claims.d/CLAIM-478.md), [CLAIM-157](record/claims.d/CLAIM-157.md) and
+  [CLAIM-1058](record/claims.d/CLAIM-1058.md)), Augustsson and colleagues ([NOTE-2374](record/notes.d/NOTE-2374.md),
+  [THEORY-2300](record/theory.d/THEORY-2300.md)), Schmietendorf ([NOTE-2394](record/notes.d/NOTE-2394.md), [THEORY-2292](record/theory.d/THEORY-2292.md)), and,
+  skimmed, Kaur, Jain and Berman ([NOTE-2399](record/notes.d/NOTE-2399.md), [THEORY-2301](record/theory.d/THEORY-2301.md)), Lee and
+  colleagues ([NOTE-2408](record/notes.d/NOTE-2408.md), [THEORY-2298](record/theory.d/THEORY-2298.md)), Müller ([NOTE-2402](record/notes.d/NOTE-2402.md),
+  [THEORY-2288](record/theory.d/THEORY-2288.md)) and Hancock and colleagues ([NOTE-2373](record/notes.d/NOTE-2373.md),
+  [THEORY-2279](record/theory.d/THEORY-2279.md)).
 - A curation entry for the batch, and a progress file at
   `scratch/studies/lead-094/PROGRESS.md`.
 

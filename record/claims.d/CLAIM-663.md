@@ -141,7 +141,7 @@ No status change.
 
 The claim's second qualification separates "Oracle-assessed availability"
 from "Operational success", the evaluator being part of the organization.
-[CASE-tmp8mk6w](../cases.d/CASE-tmp8mk6w.md) shows the gap made by the organization's own choice: under a
+[CASE-396](../cases.d/CASE-396.md) shows the gap made by the organization's own choice: under a
 penalty on recognized violations the institution's internal count ends
 near 0 while the independent count is about 3.4 to 6.1, because it learns
 not to inquire. The study did not use the tolerance axis or the breadth and

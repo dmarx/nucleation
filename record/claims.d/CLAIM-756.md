@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §11.2. No other change.
@@ -188,9 +188,9 @@ the claim's own content, valuation by effect on later acquisitions. No
 status change.
 
 ## Note of 2026-11-23: Lippl and Lindsey, read
-<!-- inactive-ok-file: THEORY-tmpw69kb — Proposed or new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: THEORY-2305 — Proposed or new; filed by the lead run of 2026-11-23 -->
 
-An instance of the premise, nothing on valuation ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md);
-[NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)): features learned on an auxiliary task lower the samples a
+An instance of the premise, nothing on valuation ([THEORY-2305](../theory.d/THEORY-2305.md);
+[NOTE-2415](../notes.d/NOTE-2415.md)): features learned on an auxiliary task lower the samples a
 main task needs where the two share features (its Fig. 2c-f). No
 status change.

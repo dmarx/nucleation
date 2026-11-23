@@ -255,7 +255,7 @@ classes, observation noise and VAR(p) are untouched.
 
 [NOTE-984](../notes.d/NOTE-984.md) found that the compressed diffusion-wavelet levels leave a
 residual coupling the paper does not bound, "the place where a memory
-kernel would enter". [CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md) (Proposed, filed by the lead run of
+kernel would enter". [CLAIM-1083](../claims.d/CLAIM-1083.md) (Proposed, filed by the lead run of
 2026-11-23) bounds it. For a computed level with projector P, the coupling
 out of the level under one step of the dynamics, ‖(I − P)TP‖, is at most
 twice the distance from P to an invariant subspace of the same dimension,

@@ -72,7 +72,7 @@ summary: >-
   not say that the agent picture is right, or that organizations are
   aggregates of members.
 ---
-<!-- inactive-ok-file: THEORY-tmpkt3xf THEORY-tmpd9neo — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2292 THEORY-2288 — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-1278 — Proposed; the reading whose refutation condition part 2 meets, and the synthesis it sits beside -->
 
 # CLAIM-526: Describing persons and organizations as coexisting levels of one process removes the question of how already-constituted agents add up to a collective, but not the question of levels: whether a collective variable has dynamics of its own, closed against the activity that realizes it, can be decided on a process description that presupposes no agents, is sometimes decided no, and a closed collective variable can be an aggregate that coexists with its realization while keeping none of its members' distinctions
@@ -164,12 +164,12 @@ No status, title or warrant changes.
 ## Note of 2026-11-22: Schmietendorf and Müller, read
 
 Two readings from the same journal, notes only. Schmietendorf 2026
-([THEORY-tmpkt3xf](../theory.d/THEORY-tmpkt3xf.md)) finds that the slaving principle supports by itself a
+([THEORY-2292](../theory.d/THEORY-2292.md)) finds that the slaving principle supports by itself a
 descriptive reading, that few order parameters suffice, and that whether
 the order parameter has causal efficacy of its own is not settled by the
 dynamics: compatible with this claim's point that a closed collective
 variable can be an aggregate coexisting with its realization. Müller 2026
-([THEORY-tmpd9neo](../theory.d/THEORY-tmpd9neo.md)) reads enslavement causally for social interaction and
+([THEORY-2288](../theory.d/THEORY-2288.md)) reads enslavement causally for social interaction and
 offers a test, "bidirectional influences" between order parameters and
 local dynamics; that would bear on this claim's question only by
 intervention, for the reason [CLAIM-334](CLAIM-334.md) gives.

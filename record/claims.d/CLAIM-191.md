@@ -182,18 +182,18 @@ The same audit found [CLAIM-002](CLAIM-002.md) misstated. The body says a code "
 
 ## Note of 2026-11-23: [LEAD-107](../leads.d/LEAD-107.md) rated no direction
 
-[CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md), run for [LEAD-107](../leads.d/LEAD-107.md), coded the restatement events that the
+[CASE-393](../cases.d/CASE-393.md), run for [LEAD-107](../leads.d/LEAD-107.md), coded the restatement events that the
 reconstructions report. It rated no direction of drift. A reconstruction
 paraphrases a restatement in its reader's words, so it cannot support a
 blind direction rating. The defeater's second half asks whether uncoded
 items, once restated, keep their identity as well as coded ones. That
 half is not testable from the reconstructions either: they report a
-restatement almost only when it fails ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)). The blind rating
+restatement almost only when it fails ([CLAIM-1056](CLAIM-1056.md)). The blind rating
 still needs verbatim transcripts. No change of status or title.
 
 ## Note of 2026-11-23: what holds it back
 
 Checked [CLAIM-772](CLAIM-772.md)'s revisions of 2026-11-20 and 2026-11-21, which read this
-claim's direction clause and do not test it, and [CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md), which rated
+claim's direction clause and do not test it, and [CASE-393](../cases.d/CASE-393.md), which rated
 no direction. [CLAIM-090](CLAIM-090.md) and [CLAIM-182](CLAIM-182.md) remain Proposed, and no blind rating
 of re-derivations across sessions is held.

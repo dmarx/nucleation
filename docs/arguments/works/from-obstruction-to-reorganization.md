@@ -6,7 +6,7 @@
 
 **From Obstruction to Reorganization** — the owner's manuscript, proposed 2026-10-11 as "luria: nucleating an argument" (an argument developed with stateless collaborators drifts in identity, not structure; a project memory that makes structures persist gives it anchors to grow on, and the manuscript becomes a view over the argument rather than its only copy), and drafted from 2026-11-20 at scratch/manuscripts/from-obstruction-to-reorganization/ as "From Obstruction to Reorganization": a theory of learning and inquiry, operationalized in the record in which it was developed, and the flywheel that machinery produced. luria is the tool and this record the case.
 
-1 of 217 ARG documents. Back to the [full index](../README.md).
+1 of 240 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,7 +6,7 @@
 
 **Mereology** — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
 
-89 of 3140 LIT documents. Back to the [full index](../README.md).
+89 of 3195 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

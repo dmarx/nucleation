@@ -119,7 +119,7 @@ summary: >-
   redescribing it.
 ---
 <!-- inactive-ok-file: CASE-333 — filed from LEAD-098's run of 2026-11-22, new -->
-<!-- inactive-ok-file: CASE-tmp17zl1 THEORY-tmp5gcq1 CLAIM-510 — new or Proposed; the case LEAD-164 filed, its reading, and the claim it bears on -->
+<!-- inactive-ok-file: CASE-387 THEORY-2281 CLAIM-510 — new or Proposed; the case LEAD-164 filed, its reading, and the claim it bears on -->
 <!-- inactive-ok-file: CLAIM-473 — Proposed or new; the claims this rests on and sits beside, cited as open -->
 <!-- inactive-ok-file: LIT-1660 LIT-1639 — Deferred; registered from the exchange, unread, cited for what they are standardly cited for -->
 <!-- ref::uses-file: TERM-093 — the "correspondences among local descriptions" that measurement estimates and adaptive apparatuses revise, held apart from physical coupling, are TERM-093's correspondence structure, held as discovered or adapted -->
@@ -404,11 +404,11 @@ The notes of 2026-10-29 and 2026-10-30 said no held case checks a measured
 correspondence against evidence the measurement does not produce, and
 version 5 narrowed "establish" to "estimate" for that reason, moving the
 stronger clause to [CLAIM-510](CLAIM-510.md). [LEAD-164](../leads.d/LEAD-164.md) filed one from the literature,
-[CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md): frequency differences between remote clocks estimated over
+[CASE-387](../cases.d/CASE-387.md): frequency differences between remote clocks estimated over
 satellite links by signal exchange, checked against a second, independent
 satellite technique and an optical-fibre comparison of the same clocks
-(Riedel et al., [THEORY-tmp5gcq1](../theory.d/THEORY-tmp5gcq1.md)). The constructed sensor network of
-[CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) (pull request [#740](https://github.com/dmarx/nucleation/issues/740), not yet on staging) is the same check
+(Riedel et al., [THEORY-2281](../theory.d/THEORY-2281.md)). The constructed sensor network of
+[CASE-390](../cases.d/CASE-390.md) (pull request [#740](https://github.com/dmarx/nucleation/issues/740), not yet on staging) is the same check
 in the adaptation row: revision answerable to beacons it cannot rewrite or
 refuse. Whether either meets the condition depends on which reading of it
 the owner takes; [CLAIM-510](CLAIM-510.md)'s note of this date files three. It bears on

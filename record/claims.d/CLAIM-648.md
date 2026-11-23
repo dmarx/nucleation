@@ -121,10 +121,10 @@ system with no history. The status is unchanged.
 
 ## Note of 2026-11-22: the learner of [CASE-239](../cases.d/CASE-239.md), run
 
-<!-- inactive-ok-block: CLAIM-tmphrp1s CLAIM-tmpnc1mf CASE-239 — new or Proposed; the design, its run and the two readings of its control -->
-The learner [CASE-239](../cases.d/CASE-239.md) proposed was run ([CASE-tmpz762n](../cases.d/CASE-tmpz762n.md)). Its warnings were set
+<!-- inactive-ok-block: CLAIM-1110 CLAIM-1141 CASE-239 — new or Proposed; the design, its run and the two readings of its control -->
+The learner [CASE-239](../cases.d/CASE-239.md) proposed was run ([CASE-421](../cases.d/CASE-421.md)). Its warnings were set
 by its own energy account, with upkeep and dissolution the modeller's, and
 were stabilized by its own past upkeep through learning, the history the
 objection to this claim asks for. Whether that makes the profile its own, or
 the designer's in another form, is filed as two alternatives
-([CLAIM-tmphrp1s](CLAIM-tmphrp1s.md), [CLAIM-tmpnc1mf](CLAIM-tmpnc1mf.md)); the claim is unchanged.
+([CLAIM-1110](CLAIM-1110.md), [CLAIM-1141](CLAIM-1141.md)); the claim is unchanged.

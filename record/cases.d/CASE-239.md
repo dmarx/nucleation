@@ -157,13 +157,13 @@ toward the boundary, is what the warning margin approximates.
 
 ## Note of 2026-11-22: run
 
-<!-- inactive-ok-block: CLAIM-tmpnc1mf CLAIM-tmphrp1s — new; the run of this design and the claims drawn from it -->
-Built and run for [LEAD-177](../leads.d/LEAD-177.md) as [CASE-tmpz762n](CASE-tmpz762n.md), with all five arms, three
+<!-- inactive-ok-block: CLAIM-1141 CLAIM-1110 — new; the run of this design and the claims drawn from it -->
+Built and run for [LEAD-177](../leads.d/LEAD-177.md) as [CASE-421](CASE-421.md), with all five arms, three
 changes, two learning rules, a features-only freeze and two replacements of
 the viability variable. The learner beat arm 5 where the change needed a new
-feature and not where it needed new weights ([CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md)). The gains
+feature and not where it needed new weights ([CLAIM-1149](../claims.d/CLAIM-1149.md)). The gains
 vanished when the energy account was replaced by a matched score; whether
 that meets this design's second defeater or shows the criteria tied to
 dissolution, as its main threat asks, is filed as two alternatives
-([CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md), [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md)). The learner chose only among features it
+([CLAIM-1141](../claims.d/CLAIM-1141.md), [CLAIM-1110](../claims.d/CLAIM-1110.md)). The learner chose only among features it
 already sensed, so no probe was invented.

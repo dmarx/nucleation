@@ -33,38 +33,38 @@ defined, and show which fail when the learner's own learning changes the
 tasks it will face.
 
 ## Note of 2026-11-23: the lead run
-<!-- inactive-ok-file: CLAIM-tmpy87xn CLAIM-tmp6ppvo CLAIM-tmpl9022 ARG-tmpi8mhy — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1197 CLAIM-1036 CLAIM-1130 ARG-227 — new; filed by the lead run of 2026-11-23 -->
 
 Not held before: no claim stated the conditions or a counterexample.
 Filed, all Proposed and demonstrated:
 
-- [CLAIM-tmpy87xn](../claims.d/CLAIM-tmpy87xn.md) (thesis): four sufficient conditions for an optimal
+- [CLAIM-1197](../claims.d/CLAIM-1197.md) (thesis): four sufficient conditions for an optimal
   learning policy to be a scalar optimum (a declared task law given what
   has been learned, one valuation with costs on its scale, a finite value,
   attainment). A fixed task distribution is not among them: a dependence of
   the tasks on what has been learned, once declared, is a transition of a
   decision process over the learner's organization, and backward induction
   gives an optimum.
-- [CLAIM-tmp6ppvo](../claims.d/CLAIM-tmp6ppvo.md) (thesis): when what is learned changes what is valued, the
+- [CLAIM-1036](../claims.d/CLAIM-1036.md) (thesis): when what is learned changes what is valued, the
   valuations of the selves policies produce fix no optimum. Judged by each
   produced self the ranking moves under rescalings, self-ratification
   returns two policies or none, and a unique optimum needs a rule that
   privileges a self. The present self's valuation gives an optimum and
   counts nothing only a later valuation sees.
-- [CLAIM-tmpl9022](../claims.d/CLAIM-tmpl9022.md) (thesis): when each period of learning multiplies later
+- [CLAIM-1130](../claims.d/CLAIM-1130.md) (thesis): when each period of learning multiplies later
   returns by g with γg > 1, no policy is optimal, though the task law,
   costs, horizon and valuation are all declared. A bounded version shows
   attainment failing with a finite supremum.
-- [ARG-tmpi8mhy](../arguments.d/ARG-tmpi8mhy.md) (existence): the three constructions show the conditions
+- [ARG-227](../arguments.d/ARG-227.md) (existence): the three constructions show the conditions
   are independent.
 
 Numbers checked in `scratch/studies/lead-011/` (22 pytest tests).
 
 Two readings of "changes what can later be learned" are filed side by
 side, since they come apart in their answer: as a change in the tasks and
-returns met later ([CLAIM-tmpy87xn](../claims.d/CLAIM-tmpy87xn.md), [CLAIM-tmpl9022](../claims.d/CLAIM-tmpl9022.md)), where endogeneity
+returns met later ([CLAIM-1197](../claims.d/CLAIM-1197.md), [CLAIM-1130](../claims.d/CLAIM-1130.md)), where endogeneity
 itself breaks nothing and the horizon does the work; and as a change in what
-is valued ([CLAIM-tmp6ppvo](../claims.d/CLAIM-tmp6ppvo.md)), where the valuation does. What remains: which
+is valued ([CLAIM-1036](../claims.d/CLAIM-1036.md)), where the valuation does. What remains: which
 evaluator the record adopts when valuation changes, which is the owner's;
 condition 1's failure, an undeclared task law, is named but not
 constructed; and no worked case ties these to a real learner. Status and

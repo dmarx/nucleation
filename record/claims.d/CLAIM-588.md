@@ -46,7 +46,7 @@ history:
 - version: 6
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §2.2. No other change.
@@ -181,5 +181,5 @@ shutdown regime might instead make the hazardous system safer under
 disturbances." Its discipline: "Don't confuse making an undesirable
 arrangement more stable with changing the conditions that made it
 undesirable." The relief case needs the regulation to change the
-dynamics, which [CLAIM-tmpk4bou](CLAIM-tmpk4bou.md) derives. The illustration is A's. No status
+dynamics, which [CLAIM-1121](CLAIM-1121.md) derives. The illustration is A's. No status
 change.

@@ -115,17 +115,17 @@ No status changes.
 
 ## Note of 2026-11-23: a population result
 
-[CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) bears on this question. Operators that cannot raise their own authority, and are rewarded for realized policy, built a delegation structure that sorted by side: all grants went to their own side and, within it, to its extremes ([CLAIM-tmpdpnid](../claims.d/CLAIM-tmpdpnid.md), [CLAIM-tmpoc6mo](../claims.d/CLAIM-tmpoc6mo.md)). With one grant per operator, that structure also set whom each read, and the population split into factions. With grants indexed by role, the plurality of policy survived while evidence crossed sides ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)).
+[CASE-420](../cases.d/CASE-420.md) bears on this question. Operators that cannot raise their own authority, and are rewarded for realized policy, built a delegation structure that sorted by side: all grants went to their own side and, within it, to its extremes ([CLAIM-1081](../claims.d/CLAIM-1081.md), [CLAIM-1147](../claims.d/CLAIM-1147.md)). With one grant per operator, that structure also set whom each read, and the population split into factions. With grants indexed by role, the plurality of policy survived while evidence crossed sides ([CLAIM-1029](../claims.d/CLAIM-1029.md)).
 
 ## Note of 2026-11-23: a condition for coherence without suppression, in a governance run
 
-In [CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md), a run of [CASE-108](../cases.d/CASE-108.md), the arm that learned the shared task without
+In [CASE-415](../cases.d/CASE-415.md), a run of [CASE-108](../cases.d/CASE-108.md), the arm that learned the shared task without
 suppressing the dissenting minority was audit by evaluators who hold
 evidence of their own and judge only the tasks they hold it for; the
 dissenters then carried their tasks at 4.4 times their head-count share
-([CLAIM-tmp26exz](../claims.d/CLAIM-tmp26exz.md)). Two conditions failed it: no evidence on the minority's tasks
+([CLAIM-1007](../claims.d/CLAIM-1007.md)). Two conditions failed it: no evidence on the minority's tasks
 independent of the proposals, under which no architecture told dissent
-from an attack that mimics it ([CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md)); and compromise of the few
-evaluators holding that evidence ([CLAIM-tmpd6gon](../claims.d/CLAIM-tmpd6gon.md)). One model class, with the
+from an attack that mimics it ([CLAIM-1194](../claims.d/CLAIM-1194.md)); and compromise of the few
+evaluators holding that evidence ([CLAIM-1077](../claims.d/CLAIM-1077.md)). One model class, with the
 members' kinds and the evaluators' honesty stipulated. The question is
 unchanged.

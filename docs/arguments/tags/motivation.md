@@ -6,8 +6,8 @@
 
 **Motivation** — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
 
-0 of 217 ARG documents. Back to the [full index](../README.md).
+1 of 240 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-237](../../../record/arguments.d/ARG-237.md) | The flow conjecture's coincidence of immediate and longer-run reward, carried by analogy from an agent's interests to a contributor's rewards in a collaborative inquiry, makes a governed record a support for flow there | The inference A20 §4 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22) makes when it calls its record-based alignment of rewards "closer to Nucleation's valuational concordance account of flow". Filed because the support is contested: the analogy transfers the structure (two rewards at two delays that could cross) but not [CLAIM-162](../../../record/claims.d/CLAIM-162.md)'s own warrant, which [ARG-016](../../../record/arguments.d/ARG-016.md) already finds thin. Proposed, with each critical question answered in the body. The wording of the inference is A's (ChatGPT, in the exchange of 2026-11-22); the questions and answers are the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |

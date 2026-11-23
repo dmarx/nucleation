@@ -176,22 +176,22 @@ on SGD's own path, not the global Bayesian order in n.
 ## Note of 2026-11-22: the two tests run ([LEAD-175](../leads.d/LEAD-175.md))
 
 Both tests of the note of 2026-11-06 were run in Chen et al.'s model
-([CASE-tmpgqbyq](../cases.d/CASE-tmpgqbyq.md); scratch/studies/lead-175/).
+([CASE-402](../cases.d/CASE-402.md); scratch/studies/lead-175/).
 
 **SGD.** None of 1,008 runs reached the 6-gon. They covered n from 300
 to 2,000, batch 1 to 100, rates 0.001 to 0.2, the paper's 4-gon start,
 the 5-gon, the 5⁺-gon and prior draws, and up to 45,000 epochs. From the
 5-gon the move is closed outright: the dropped feature gets an exactly
 zero gradient from every sample, so SGD's noise is zero in the
-coordinates the crossing needs ([CLAIM-tmpg8m7a](../claims.d/CLAIM-tmpg8m7a.md)). From the live 5⁺-gon it
-was not taken ([CLAIM-tmp9zqvq](../claims.d/CLAIM-tmp9zqvq.md)). For this model "inaccessible", not "not
+coordinates the crossing needs ([CLAIM-1098](../claims.d/CLAIM-1098.md)). From the live 5⁺-gon it
+was not taken ([CLAIM-1057](../claims.d/CLAIM-1057.md)). For this model "inaccessible", not "not
 reached", is the answer. Of the title's candidates, accessibility is the
 one that acts. The noise is no temperature in those directions, in line
 with [THEORY-1353](../theory.d/THEORY-1353.md).
 
 **Posterior.** Sampling exp(−nL) puts 5 → 5⁺ near n = 780 and 5 → 6
 near 270. The formula gives 1,600–2,500 and 601. The chain's first two
-steps have no crossing above n ≈ 1 ([CLAIM-tmpraadt](../claims.d/CLAIM-tmpraadt.md)). Chen et al.'s NUTS
+steps have no crossing above n ≈ 1 ([CLAIM-1162](../claims.d/CLAIM-1162.md)). Chen et al.'s NUTS
 likelihood has a factor ½ that their formula's nL lacks. On their scale
 the sampled 5 → 6 is at about 530–560, consistent with their Fig. 2. The
 posterior favours the 6-gon at n = 1,000 on either scale. No status

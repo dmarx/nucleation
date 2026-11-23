@@ -50,21 +50,21 @@ by rung.
 
 ## Note of 2026-11-22: built and run
 
-<!-- inactive-ok-block: CLAIM-tmpnc1mf CLAIM-tmphrp1s — new; the runs and claims filed from this lead -->
+<!-- inactive-ok-block: CLAIM-1141 CLAIM-1110 — new; the runs and claims filed from this lead -->
 Carried out by a delegated lead worker; code, tests and results under
 scratch/studies/lead-177/. Two executed studies:
-- [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md): the alarm-world rungs on one sensor channel (the fail-safe
+- [CASE-421](../cases.d/CASE-421.md): the alarm-world rungs on one sensor channel (the fail-safe
   relay, the tester, the four-probe diagnoser, and a diagnoser that revises
   its test schedule from its record of real fires), and [CASE-239](../cases.d/CASE-239.md)'s forager
   with its five arms, a features-only freeze, two learning rules and two
-  replacements of its target. Claims: [CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md) (revising which features
+  replacements of its target. Claims: [CLAIM-1149](../claims.d/CLAIM-1149.md) (revising which features
   count is needed only where the warning sign is new to the forager), and
   two alternative readings of the target-replacement control for the owner,
-  [CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md) and [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md).
-- [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md): the sensor network revising its correspondences. Claim:
-  [CLAIM-tmpvqmwc](../claims.d/CLAIM-tmpvqmwc.md) (an anchor the revision can neither rewrite nor refuse).
+  [CLAIM-1141](../claims.d/CLAIM-1141.md) and [CLAIM-1110](../claims.d/CLAIM-1110.md).
+- [CASE-390](../cases.d/CASE-390.md): the sensor network revising its correspondences. Claim:
+  [CLAIM-1183](../claims.d/CLAIM-1183.md) (an anchor the revision can neither rewrite nor refuse).
 
 What remains: a learner that can make a probe or a variable it lacks (both
 constructions choose among features they already sense); a network that
 places its own beacons; changes of other sizes. Choosing between
-[CLAIM-tmpnc1mf](../claims.d/CLAIM-tmpnc1mf.md) and [CLAIM-tmphrp1s](../claims.d/CLAIM-tmphrp1s.md) is the owner's.
+[CLAIM-1141](../claims.d/CLAIM-1141.md) and [CLAIM-1110](../claims.d/CLAIM-1110.md) is the owner's.

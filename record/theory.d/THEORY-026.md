@@ -63,7 +63,7 @@ bears_on:
 ---
 <!-- inactive-ok-file: THEORY-2011 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: THEORY-817 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
-<!-- inactive-ok-file: CASE-tmp3axlj CLAIM-tmpk8x2j — filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-391 CLAIM-1123 — filed by the lead run of 2026-11-23 -->
 
 # THEORY-026: For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient
 
@@ -167,7 +167,7 @@ No status change.
 
 ## Note of 2026-11-23: reproduced with code, and run with feedback
 
-[CASE-tmp3axlj](../cases.d/CASE-tmp3axlj.md) ([LEAD-005](../leads.d/LEAD-005.md); code and tests in scratch/studies/lead-005/)
+[CASE-391](../cases.d/CASE-391.md) ([LEAD-005](../leads.d/LEAD-005.md); code and tests in scratch/studies/lead-005/)
 extends step 4 of the note of 2026-10-19 from one system to 300. These are
 random 4-state systems driven by 3-symbol Markov signals through one
 Metropolis sweep per relaxation, so both of this entry's conditions are met.
@@ -184,7 +184,7 @@ Metropolis sweep per relaxation, so both of this entry's conditions are met.
 With the drive made to depend on the system's state, steps 1 and 3 of the
 note of 2026-10-19 go through unchanged and step 2 fails. The identity and
 the summed bound hold, while the nostalgia, and in a few systems the
-dissipation, are negative ([CLAIM-tmpk8x2j](../claims.d/CLAIM-tmpk8x2j.md)). This is consistent with the
+dissipation, are negative ([CLAIM-1123](../claims.d/CLAIM-1123.md)). This is consistent with the
 entry's title, which confines the bound's meaning to the no-feedback case.
 It does not bear on the feedback clause, which concerns extracted work in
 Fiderer et al.'s channel.

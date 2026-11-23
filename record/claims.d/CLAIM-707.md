@@ -460,9 +460,9 @@ position rather than by contribution; they run in opposite directions,
 credit to the top and blame to the bottom. No edge.
 
 ## Note of 2026-11-22: the Tempe prosecution, read
-<!-- inactive-ok-file: CLAIM-tmp20uni — new or Proposed; filed by the lead run on 2026-11-22, and the case whose gap it fills -->
+<!-- inactive-ok-file: CLAIM-1005 — new or Proposed; filed by the lead run on 2026-11-22, and the case whose gap it fills -->
 
-[CASE-292](../cases.d/CASE-292.md) left open whether blame landed on the Tempe operator. In the criminal law it did: she alone was charged and convicted, and prosecutors found "no basis for criminal liability for the Uber corporation" ([THEORY-tmpfdyu6](../theory.d/THEORY-tmpfdyu6.md)). [CLAIM-tmp20uni](CLAIM-tmp20uni.md), filed for [LEAD-189](../leads.d/LEAD-189.md), `corroborates` this claim: control over the conditions of action lay with the company ([CASE-292](../cases.d/CASE-292.md)), and the criminal law's blame lay where the failure became visible. The operator's own fault, which the NTSB found and this claim allows, does not change that. A civil settlement and the state's suspension of Uber's testing reached the company by other routes ([CLAIM-tmp64hmn](CLAIM-tmp64hmn.md)). No status changes.
+[CASE-292](../cases.d/CASE-292.md) left open whether blame landed on the Tempe operator. In the criminal law it did: she alone was charged and convicted, and prosecutors found "no basis for criminal liability for the Uber corporation" ([THEORY-2289](../theory.d/THEORY-2289.md)). [CLAIM-1005](CLAIM-1005.md), filed for [LEAD-189](../leads.d/LEAD-189.md), `corroborates` this claim: control over the conditions of action lay with the company ([CASE-292](../cases.d/CASE-292.md)), and the criminal law's blame lay where the failure became visible. The operator's own fault, which the NTSB found and this claim allows, does not change that. A civil settlement and the state's suspension of Uber's testing reached the company by other routes ([CLAIM-1033](CLAIM-1033.md)). No status changes.
 
 ## Note of 2026-11-23: what holds it back
 

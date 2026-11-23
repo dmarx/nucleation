@@ -344,15 +344,15 @@ stays Open.
 
 <!-- inactive-ok-block: CASE-239 — new or Proposed; the runs of LEAD-177, the claims drawn from them and the design run -->
 The question's answer 2 asked for systems with identical sensory correlations
-and different memory, use and adaptivity. [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md) builds four on one
+and different memory, use and adaptivity. [CASE-421](../cases.d/CASE-421.md) builds four on one
 sensor channel: acting on an absence with nothing kept, registering a bounded
 non-response, placing the fault, and finding a fault outside the catalog from
 a record of real outcomes. Each comes apart from the rung below in the run.
 [CASE-239](../cases.d/CASE-239.md)'s forager adds the separation of revising estimates from revising
-what counts ([CLAIM-tmppa4rs](../claims.d/CLAIM-tmppa4rs.md)). For answer 3, [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) makes a Robinson-style
+what counts ([CLAIM-1149](../claims.d/CLAIM-1149.md)). For answer 3, [CASE-390](../cases.d/CASE-390.md) makes a Robinson-style
 network's correspondences revisable: revision by disagreement alone restores
 consistency and not accuracy, and revision against beacons the world places,
 through a channel G can neither rewrite nor refuse, restores accuracy
-([CLAIM-tmpvqmwc](../claims.d/CLAIM-tmpvqmwc.md)). Both are constructions, and neither invents a question it
+([CLAIM-1183](../claims.d/CLAIM-1183.md)). Both are constructions, and neither invents a question it
 could not ask: the candidates for revision are features already sensed. The
 question stays Open.

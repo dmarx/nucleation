@@ -43,8 +43,8 @@ history:
   date: '2026-11-22'
   note: >-
     Note of 2026-11-22 added: Chesson (2011), the stand-in for Chesson
-    1990, read (NOTE-tmp6d961, THEORY-tmpac7iw); the two-component
-    criterion in the potential case (CLAIM-tmpv65bg); two readings of
+    1990, read (NOTE-2380, THEORY-2287); the two-component
+    criterion in the potential case (CLAIM-1181); two readings of
     whether the recommendation of 2026-10-18 is met. The question is
     unchanged.
 tags:
@@ -257,7 +257,7 @@ synthesis's, that Chesson be read before any negative-frequency-dependence
 criterion here is given stronger standing. Of his works the record holds,
 the 1990 paper, [LIT-1826](../literature.d/LIT-1826.md), is still Unfetched and the 1994 paper,
 [LIT-1827](../literature.d/LIT-1827.md), and the 2000 review, [LIT-1219](../literature.d/LIT-1219.md), still Unavailable. His 2011
-chapter, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md), is read in full ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md), [THEORY-tmpac7iw](../theory.d/THEORY-tmpac7iw.md)).
+chapter, [LIT-3154](../literature.d/LIT-3154.md), is read in full ([NOTE-2380](../notes.d/NOTE-2380.md), [THEORY-2287](../theory.d/THEORY-2287.md)).
 It restates the 1990 reworking of MacArthur's model, which is [CLAIM-369](../claims.d/CLAIM-369.md)'s
 class.
 
@@ -268,7 +268,7 @@ What it gives this question:
   interspecific, which the chapter calls the separation of feedback
   loops and measures by the overlap ρ. A rare component's growth against
   a lone resident is ‖u_i‖(κ_i − ρκ_j), with ρ the cosine of the niche
-  vectors and κ_i = r_i/‖u_i‖ ([CLAIM-tmpv65bg](../claims.d/CLAIM-tmpv65bg.md)); both recover when rare
+  vectors and κ_i = r_i/‖u_i‖ ([CLAIM-1181](../claims.d/CLAIM-1181.md)); both recover when rare
   exactly when ρ < κ_i/κ_j < 1/ρ.
 - **Two sorts of similarity, kept apart.** "[S]imilarity in κ values is a
   very different concept from similarity in way of life, or similarity

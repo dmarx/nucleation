@@ -20,7 +20,7 @@ history:
 - version: 3
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §2.1 and
     §5.2 state its separation of reachable, affordable, reliable and
     sustainable. No other change.

@@ -147,23 +147,23 @@ The first coded corpus bearing on this claim's prediction is [CASE-335](../cases
 No status changes.
 
 ## Note of 2026-11-22: the SRE workbook read: the mechanism corroborated, an exemplar that fits, and an objection to the unit
-<!-- inactive-ok-file: THEORY-tmp9j928 CASE-tmptkkgm ARG-tmp117cw CLAIM-tmpauu5r — new; filed by the lead run on 2026-11-22 -->
+<!-- inactive-ok-file: THEORY-2285 CASE-418 ARG-219 CLAIM-1062 — new; filed by the lead run on 2026-11-22 -->
 
-Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22: Google's SRE workbook chapter on postmortem culture ([THEORY-tmpm653d](../theory.d/THEORY-tmpm653d.md), [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md)), which now `corroborates` this claim, and the SRE book's example postmortem ([THEORY-tmp9j928](../theory.d/THEORY-tmp9j928.md), [NOTE-tmpdiani](../notes.d/NOTE-tmpdiani.md)).
+Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22: Google's SRE workbook chapter on postmortem culture ([THEORY-2294](../theory.d/THEORY-2294.md), [NOTE-2391](../notes.d/NOTE-2391.md)), which now `corroborates` this claim, and the SRE book's example postmortem ([THEORY-2285](../theory.d/THEORY-2285.md), [NOTE-2386](../notes.d/NOTE-2386.md)).
 
 - **The mechanism, corroborated.** The norm against indicting a team works on questions to managers too. The workbook rewrites "You're the manager; why aren't you making sure that everyone finishes the training?" as a rule for the on-call rotation, and meets a vice-president's "why didn't you listen to that person?" with "maybe we ask generically if there were any warning signs". In each, a question that would reach a decision-maker becomes one about process. Its checklist has action items "vetted and approved by the technical leads of the service".
-- **An exemplar that fits the prediction.** The workbook's real postmortem, shown as good practice, names ""The installer" has limited staffing" among what went poorly and assigns fourteen action items, all technical, to engineers, none to staffing ([CASE-tmptkkgm](../cases.d/CASE-tmptkkgm.md), which `illustrates` this claim; [ARG-tmp117cw](../arguments.d/ARG-tmp117cw.md)). The case carries an alternative reading: the installer may be a peer team, so the instance may be lateral, not upward. The filer leans to the first reading.
+- **An exemplar that fits the prediction.** The workbook's real postmortem, shown as good practice, names ""The installer" has limited staffing" among what went poorly and assigns fourteen action items, all technical, to engineers, none to staffing ([CASE-418](../cases.d/CASE-418.md), which `illustrates` this claim; [ARG-219](../arguments.d/ARG-219.md)). The case carries an alternative reading: the installer may be a peer team, so the instance may be lateral, not upward. The filer leans to the first reading.
 - **The example postmortem** fits trivially and tests nothing: a fictional bug and surge have no upstream decision to miss.
-- **An objection, filed as a claim.** [CLAIM-tmpauu5r](CLAIM-tmpauu5r.md) objects to the unit of the prediction: the workbook routes upstream questions ("Is feature velocity trumping reliability fixes?") to reviews of repeated incidents and to a process review with "organizational leaders", so a practice could keep upstream provenance across incidents while each postmortem stops at the team. The pilot ([CASE-335](../cases.d/CASE-335.md)) and the proposed study ([CASE-293](../cases.d/CASE-293.md)) code single postmortems. The objection concedes that the workbook gives no evidence those channels reach above the teams.
+- **An objection, filed as a claim.** [CLAIM-1062](CLAIM-1062.md) objects to the unit of the prediction: the workbook routes upstream questions ("Is feature velocity trumping reliability fixes?") to reviews of repeated incidents and to a process review with "organizational leaders", so a practice could keep upstream provenance across incidents while each postmortem stops at the team. The pilot ([CASE-335](../cases.d/CASE-335.md)) and the proposed study ([CASE-293](../cases.d/CASE-293.md)) code single postmortems. The objection concedes that the workbook gives no evidence those channels reach above the teams.
 
 No status changes.
 
 ## Note of 2026-11-23: what holds it back
 
 Rechecked after the moves of 2026-11-22: [CASE-293](../cases.d/CASE-293.md)'s revision, [CASE-335](../cases.d/CASE-335.md)'s
-pilot ([CLAIM-905](CLAIM-905.md)), the readings [NOTE-tmpdiani](../notes.d/NOTE-tmpdiani.md) and [NOTE-tmpf58r7](../notes.d/NOTE-tmpf58r7.md), and
+pilot ([CLAIM-905](CLAIM-905.md)), the readings [NOTE-2386](../notes.d/NOTE-2386.md) and [NOTE-2391](../notes.d/NOTE-2391.md), and
 [THEORY-2000](../theory.d/THEORY-2000.md)'s note. The prediction is still untested where its defeat
 condition asks: the pilot does not hold domain fixed and its one coder knew
-the prediction, and [CASE-293](../cases.d/CASE-293.md) has not been run. [CLAIM-tmpauu5r](CLAIM-tmpauu5r.md)'s objection to
+the prediction, and [CASE-293](../cases.d/CASE-293.md) has not been run. [CLAIM-1062](CLAIM-1062.md)'s objection to
 the unit (single postmortems rather than the practice across incidents) is
 unanswered.

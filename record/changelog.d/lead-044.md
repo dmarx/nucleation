@@ -1,8 +1,8 @@
-<!-- inactive-ok-file: CASE-tmpjfl6r CLAIM-tmpqrmoy CLAIM-tmphbmpy CLAIM-tmpb125k THEORY-tmpmwhm1 THEORY-tmp7jput THEORY-tmp8j9f4 LIT-tmpuedwt — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-406 CLAIM-1160 CLAIM-1107 CLAIM-1063 THEORY-2296 THEORY-2282 THEORY-2283 LIT-3186 — new; filed by the lead run of 2026-11-23 -->
 
 ### Added
 
-- [LEAD-044](record/leads.d/LEAD-044.md)'s run. [CASE-tmpjfl6r](record/cases.d/CASE-tmpjfl6r.md) (executed study): open evaluations coded,
+- [LEAD-044](record/leads.d/LEAD-044.md)'s run. [CASE-406](record/cases.d/CASE-406.md) (executed study): open evaluations coded,
   under six criteria written before the search, for interventions of
   equal budget at different places in one organization. One meets the
   standard: Andhra Pradesh's randomized evaluation of 500 government
@@ -12,20 +12,20 @@
   camps with and without incentives (nested arms, costs per outcome), and
   Zambia's 2009/10 supply chain pilot (two tiers, costs not reached).
   Rules, search and coding under `scratch/studies/lead-044/`.
-- [CLAIM-tmpqrmoy](record/claims.d/CLAIM-tmpqrmoy.md) (thesis, empirical): the placement reading of the school
+- [CLAIM-1160](record/claims.d/CLAIM-1160.md) (thesis, empirical): the placement reading of the school
   case, corroborating [CLAIM-562](record/claims.d/CLAIM-562.md) in an organization; the filer's lean.
-- [CLAIM-tmphbmpy](record/claims.d/CLAIM-tmphbmpy.md) (counter, interpretive): the instrument reading, that
+- [CLAIM-1107](record/claims.d/CLAIM-1107.md) (counter, interpretive): the instrument reading, that
   place and conditional pay vary together, so the case illustrates
   without testing.
-- [CLAIM-tmpb125k](record/claims.d/CLAIM-tmpb125k.md) (disclaimed, empirical): no coded case shows that adding
+- [CLAIM-1063](record/claims.d/CLAIM-1063.md) (disclaimed, empirical): no coded case shows that adding
   an intervention can make an organization fail.
-- Muralidharan and Sundararaman (NBER 2009; JPE 2011), [LIT-tmpnoa89](record/literature.d/LIT-tmpnoa89.md), read
-  ([NOTE-tmphqrk0](record/notes.d/NOTE-tmphqrk0.md), [THEORY-tmpmwhm1](record/theory.d/THEORY-tmpmwhm1.md)).
-- Banerjee, Duflo, Glennerster and Kothari (BMJ 2010), [LIT-tmpiih9k](record/literature.d/LIT-tmpiih9k.md), read
-  ([NOTE-tmpz3ek2](record/notes.d/NOTE-tmpz3ek2.md), [THEORY-tmp7jput](record/theory.d/THEORY-tmp7jput.md)).
-- Leung, Chen, Yadav and Gallien (PLOS ONE 2016), [LIT-tmpa48v2](record/literature.d/LIT-tmpa48v2.md), read as a
-  stand-in ([NOTE-tmpmco2w](record/notes.d/NOTE-tmpmco2w.md), [THEORY-tmp8j9f4](record/theory.d/THEORY-tmp8j9f4.md)) for Vledder et al. (2019),
-  [LIT-tmpuedwt](record/literature.d/LIT-tmpuedwt.md), Unfetched behind Cloudflare at both copies.
+- Muralidharan and Sundararaman (NBER 2009; JPE 2011), [LIT-3177](record/literature.d/LIT-3177.md), read
+  ([NOTE-2395](record/notes.d/NOTE-2395.md), [THEORY-2296](record/theory.d/THEORY-2296.md)).
+- Banerjee, Duflo, Glennerster and Kothari (BMJ 2010), [LIT-3170](record/literature.d/LIT-3170.md), read
+  ([NOTE-2418](record/notes.d/NOTE-2418.md), [THEORY-2282](record/theory.d/THEORY-2282.md)).
+- Leung, Chen, Yadav and Gallien (PLOS ONE 2016), [LIT-3155](record/literature.d/LIT-3155.md), read as a
+  stand-in ([NOTE-2401](record/notes.d/NOTE-2401.md), [THEORY-2283](record/theory.d/THEORY-2283.md)) for Vledder et al. (2019),
+  [LIT-3186](record/literature.d/LIT-3186.md), Unfetched behind Cloudflare at both copies.
 
 ### Changed
 

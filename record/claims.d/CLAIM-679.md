@@ -35,7 +35,7 @@ history:
 - version: 4
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §9.1
     states it: cutting to the holding cost keeps the configuration and
     removes the transition. No other change.
@@ -161,11 +161,11 @@ No status changes.
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: ADR-tmpsfjxu CLAIM-tmpg8yl2 — Proposed; the work and the fill this note names -->
-Extension. In A48 §9.3 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)), this
+<!-- inactive-ok-block: ADR-144 CLAIM-1099 — Proposed; the work and the fill this note names -->
+Extension. In A48 §9.3 of the owner's manuscript ([ADR-144](../decisions.d/ADR-144.md)), this
 claim's zero-slack limit is what decides whether a redesigned transition can
 replace a reserve: only a redesign whose threshold is at most the holding
-cost does ([CLAIM-tmpg8yl2](CLAIM-tmpg8yl2.md)).
+cost does ([CLAIM-1099](CLAIM-1099.md)).
 
 ## Note of 2026-11-23: a gap of the manuscript governance-of-possibility
 

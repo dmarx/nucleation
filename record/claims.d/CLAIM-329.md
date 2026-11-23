@@ -70,7 +70,7 @@ history:
 - version: 10
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §3.0. No other change.
@@ -352,11 +352,11 @@ Promoted by the status review of this date. The note of 2026-10-30 named three t
 
 ## Note of 2026-11-23: the criterion as participants applied it, in open-source successions
 
-<!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmpqpfvh — new, Proposed; the run and the claim it supports -->
-[CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md) coded eight contested open-source successions. Where the
+<!-- inactive-ok-block: CASE-411 CLAIM-1158 — new, Proposed; the run and the claim it supports -->
+[CASE-411](../cases.d/CASE-411.md) coded eight contested open-source successions. Where the
 creator or the body of core maintainers moved (Hudson to Jenkins, freenode
 to Libera Chat), the community's recognition went with them against the
-name; where part moved, it split ([CLAIM-tmpqpfvh](CLAIM-tmpqpfvh.md), which corroborates this
+name; where part moved, it split ([CLAIM-1158](CLAIM-1158.md), which corroborates this
 claim). A participant states the criterion outright: SourceHut moved to
 Libera Chat because "the staff — have left for Libera Chat", and it was
 "proud to be following them". This is evidence of how participants judge
@@ -364,10 +364,10 @@ persistence, not of what persistence is.
 
 ## Note of 2026-11-23 (later): the 2005 Nationals, as the league's count, the club and supporters count them
 
-<!-- inactive-ok-block: CASE-tmp44mzc CLAIM-tmp7z7si — new, Proposed; the study and the verdict filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-block: CASE-392 CLAIM-1047 — new, Proposed; the study and the verdict filed by the lead run of 2026-11-23 -->
 The note of 2026-11-20 left the Nationals' test to [LEAD-099](../leads.d/LEAD-099.md). Its run coded
-fourteen public statements ([CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md)). No statement found counts the
-Nationals the original Senators continued ([CLAIM-tmp7z7si](CLAIM-tmp7z7si.md)): the Hall of
+fourteen public statements ([CASE-392](../cases.d/CASE-392.md)). No statement found counts the
+Nationals the original Senators continued ([CLAIM-1047](CLAIM-1047.md)): the Hall of
 Fame, the statistical reference and the AP count the franchise through
 Montreal and the original club's seasons with the Twins; the club's
 president in 2004 called it "a new team", with the Senators' records on a
@@ -376,12 +376,12 @@ Washington's baseball, honoured beside the Homestead Grays. So a shared
 name and city did not make participants count it a continuation, as this
 claim expects.
 
-<!-- inactive-ok-block: CLAIM-tmpl3ubq CLAIM-tmpzrzml — new, Proposed; the two readings filed by the lead run of 2026-11-23 -->
-What that does to the defeater is filed two ways. [CLAIM-tmpl3ubq](CLAIM-tmpl3ubq.md), the
+<!-- inactive-ok-block: CLAIM-1129 CLAIM-1206 — new, Proposed; the two readings filed by the lead run of 2026-11-23 -->
+What that does to the defeater is filed two ways. [CLAIM-1129](CLAIM-1129.md), the
 run's lean: the defeater is not met, and the heritage claimed is a
 place's history whose carriers through the gap were the city's
 supporters, this claim's "a lapse in its coherence need not end it".
-[CLAIM-tmpzrzml](CLAIM-tmpzrzml.md), the alternative, objects: participants count Washington's
+[CLAIM-1206](CLAIM-1206.md), the alternative, objects: participants count Washington's
 major-league club as one tradition across three organizations with no
 transmission between them, which meets the defeater unless supporters'
 memory counts as transmission. The league's own pages were not reached.

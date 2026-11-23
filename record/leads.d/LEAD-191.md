@@ -23,7 +23,7 @@ summary: >-
   Named in [CLAIM-037](../claims.d/CLAIM-037.md). Filed by the backlog audit of 2026-11-19.
 ---
 <!-- inactive-ok-file: CLAIM-037 — Proposed; cited in the backlog audit of 2026-11-19 -->
-<!-- inactive-ok-file: CASE-tmpskejj CLAIM-tmptzmky CLAIM-tmprfjkk CLAIM-tmprq0nb CLAIM-tmpzvz98 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-417 CLAIM-1176 CLAIM-1164 CLAIM-1166 CLAIM-1207 — new; filed by the lead run of 2026-11-23 -->
 
 # LEAD-191: Compare a sheaf route that allows signalling with Contextuality-by-Default 2.0 on one signalling data set, where their verdicts diverge
 
@@ -55,7 +55,7 @@ per-instance BERT probabilities.
 **What was done instead.** On this support both verdicts are functions of
 (SF, Δ), so the published figures were reanalysed by both routes, the
 sheaf test [LIT-844](../literature.d/LIT-844.md) applies and CbD 2.0. Linear programs and 249 tests are
-in scratch/studies/lead-191/, and [CASE-tmpskejj](../cases.d/CASE-tmpskejj.md) reports the run.
+in scratch/studies/lead-191/, and [CASE-417](../cases.d/CASE-417.md) reports the run.
 
 **Results.** The sheaf test is the signalling threshold SF < 1/6, since
 CF is 1 on every model with this support. CbD 2.0 is Δ < 2, and the first
@@ -63,16 +63,16 @@ set lies inside the second. The published counts then fix the divergence:
 36,861,830 instances (70.9%) are CbD-contextual and not sheaf-contextual,
 and none diverge the other way. Read as "the no-signalling part is
 contextual", the sheaf route is SF < 1, which calls at least 71.1%
-contextual. [CLAIM-tmptzmky](../claims.d/CLAIM-tmptzmky.md) (demonstrated) states this.
+contextual. [CLAIM-1176](../claims.d/CLAIM-1176.md) (demonstrated) states this.
 
 **Which verdict is right.** Three alternative readings are filed. The
 lead worker leans to the first:
 
-- [CLAIM-tmprfjkk](../claims.d/CLAIM-tmprfjkk.md): the data cannot discriminate, because the support is
+- [CLAIM-1164](../claims.d/CLAIM-1164.md): the data cannot discriminate, because the support is
   fixed and every verdict is a signalling threshold;
-- [CLAIM-tmprq0nb](../claims.d/CLAIM-tmprq0nb.md): only CbD gives a single verdict, which corroborates
+- [CLAIM-1166](../claims.d/CLAIM-1166.md): only CbD gives a single verdict, which corroborates
   [CLAIM-037](../claims.d/CLAIM-037.md);
-- [CLAIM-tmpzvz98](../claims.d/CLAIM-tmpzvz98.md), a counter: on the reading of signalling as error, the
+- [CLAIM-1207](../claims.d/CLAIM-1207.md), a counter: on the reading of signalling as error, the
   sheaf figure is the defensible one, which objects to [CLAIM-037](../claims.d/CLAIM-037.md).
 
 **What remains.**

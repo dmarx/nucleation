@@ -144,4 +144,4 @@ hand at the nineteenth review's ruling.
 
 ## Note of 2026-11-23: in a population
 
-In a grant game on 30 populations ([CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md)), operators under this rule with the reward for realized policy delegated their whole budget to their own side. Of the authority their budgets placed, 43% travelled two hops or more, all of it to their own side, and none returned to them ([CLAIM-tmpdpnid](CLAIM-tmpdpnid.md)). The claim is unchanged.
+In a grant game on 30 populations ([CASE-420](../cases.d/CASE-420.md)), operators under this rule with the reward for realized policy delegated their whole budget to their own side. Of the authority their budgets placed, 43% travelled two hops or more, all of it to their own side, and none returned to them ([CLAIM-1081](CLAIM-1081.md)). The claim is unchanged.

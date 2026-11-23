@@ -6,7 +6,7 @@
 
 **Metaphysics** — what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy).
 
-6 of 215 LEAD documents. Back to the [full index](../README.md).
+6 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

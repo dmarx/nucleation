@@ -31,7 +31,7 @@ advances:
 summary: >-
   Named in [NOTE-984](../notes.d/NOTE-984.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: LIT-tmpzikaq NOTE-tmpv196v THEORY-tmpyi9zg — new and Unfetched, filed by the lead run of 2026-11-23 and cited in the note of that date -->
+<!-- inactive-ok-file: LIT-3195 NOTE-2414 THEORY-2306 — new and Unfetched, filed by the lead run of 2026-11-23 and cited in the note of that date -->
 
 # LEAD-192: Prove a projection perturbation bound for the coarse-graining claim, reading the biorthogonal diffusion wavelets first
 
@@ -56,13 +56,13 @@ claude/lead-192-projection-bound; working notes in
 scratch/studies/lead-192/PROGRESS.md.
 
 - **The reading.** Maggioni, Bremer, Coifman and Szlam (2005) is
-  registered as [LIT-tmpzikaq](../literature.d/LIT-tmpzikaq.md) and is Unfetched: CiteSeerX and the Wayback
+  registered as [LIT-3195](../literature.d/LIT-3195.md) and is Unfetched: CiteSeerX and the Wayback
   capture of Maggioni's Yale page reset the connection, and SPIE is
   paywalled. Its abstract was read on Duke's listing. Sevi, Rilling and
-  Borgnat (2023), [LIT-tmpyklac](../literature.d/LIT-tmpyklac.md), which says its scaling functions are the
-  report's, was skimmed in its place ([NOTE-tmpv196v](../notes.d/NOTE-tmpv196v.md), [THEORY-tmpyi9zg](../theory.d/THEORY-tmpyi9zg.md)).
+  Borgnat (2023), [LIT-3194](../literature.d/LIT-3194.md), which says its scaling functions are the
+  report's, was skimmed in its place ([NOTE-2414](../notes.d/NOTE-2414.md), [THEORY-2306](../theory.d/THEORY-2306.md)).
   It gives the construction for directed graphs and no error bound.
-- **The bound.** Proved, and filed as [CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md) (Proposed, thesis,
+- **The bound.** Proved, and filed as [CLAIM-1083](../claims.d/CLAIM-1083.md) (Proposed, thesis,
   demonstrated). For the chain A_{i+1} = P_{i+1}A_i²P_{i+1} from any T with
   ‖T‖₂ ≤ 1, the kept subspace is within (d_j + f_j)/σ_min(R^{2^j}) of any
   invariant subspace of its dimension, where d_j is the column residual

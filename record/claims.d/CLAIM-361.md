@@ -28,7 +28,7 @@ history:
 - version: 4
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §9.6 uses
     it: eliminating a demand is not relief. No other change.
 role: thesis

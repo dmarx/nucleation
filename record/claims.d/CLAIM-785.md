@@ -160,4 +160,4 @@ support experimentation, differentiation, and adaptation." An outcome
 standard and a technology prescription constrain different dimensions,
 and which to choose "depends on observability, enforceability, and
 uncertainty". The analogy is A's. It gives this claim a second domain and
-no evidence. The regulatory claim is [CLAIM-tmplgnjf](CLAIM-tmplgnjf.md). No status change.
+no evidence. The regulatory claim is [CLAIM-1131](CLAIM-1131.md). No status change.

@@ -18,7 +18,7 @@ line:
 - distributed-agency
 advances:
 - QUESTION-276
-- CLAIM-tmptxsin
+- CLAIM-1175
 operationalized_in:
 - CASE-165
 - CASE-337
@@ -26,7 +26,7 @@ summary: >-
   The question states that recovery under the model's own prior is not
   enough. Named in [QUESTION-276](../questions.d/QUESTION-276.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CLAIM-tmptxsin — new; A15's account of the self, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-1175 — new; A15's account of the self, cited in the note of 2026-11-22 -->
 
 # LEAD-144: Fit the dynamic beta-Bernoulli feature model to a mechanistic organizational simulator that does not assume its prior, with a shared-driver null, and score it on held-out interventions on the coupling
 
@@ -79,4 +79,4 @@ stage are the owner's.
 
 ## Note of 2026-11-22: the same test, proposed for a self
 
-In the exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22), A15 §8 proposed as "the decisive experiment" for a coupled-organization account of the self what this lead runs for an organization: "compare two systems whose ordinary behavior is matched, but whose internal organization differs", one with "several modules responding to a common external driver", the other with "overlapping dispositions that mutually regulate and maintain one another"; then "suppress one mode, interrupt its access to shared information, change a governance relation, or remove the external coordinating signal". It adds outcome measures this lead's held-out scoring could include: whether the two "differ in how they adapt, recover, or form new distinctions" ([CLAIM-532](../claims.d/CLAIM-532.md)'s maintained new distinction). It names the defeater: if the two "remain indistinguishable under appropriately rich intervention histories, then calling one organization a more integrated self adds no demonstrated explanatory value". [CLAIM-414](../claims.d/CLAIM-414.md) holds the finite construction in which matched ordinary trajectories hide such differences and a specified intervention exposes them. The claim this lead would test for the self is [CLAIM-tmptxsin](../claims.d/CLAIM-tmptxsin.md), whose defeater cites the same outcome. Filed as a note, not a new lead, since the design is this lead's. Status and stage unchanged.
+In the exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22), A15 §8 proposed as "the decisive experiment" for a coupled-organization account of the self what this lead runs for an organization: "compare two systems whose ordinary behavior is matched, but whose internal organization differs", one with "several modules responding to a common external driver", the other with "overlapping dispositions that mutually regulate and maintain one another"; then "suppress one mode, interrupt its access to shared information, change a governance relation, or remove the external coordinating signal". It adds outcome measures this lead's held-out scoring could include: whether the two "differ in how they adapt, recover, or form new distinctions" ([CLAIM-532](../claims.d/CLAIM-532.md)'s maintained new distinction). It names the defeater: if the two "remain indistinguishable under appropriately rich intervention histories, then calling one organization a more integrated self adds no demonstrated explanatory value". [CLAIM-414](../claims.d/CLAIM-414.md) holds the finite construction in which matched ordinary trajectories hide such differences and a specified intervention exposes them. The claim this lead would test for the self is [CLAIM-1175](../claims.d/CLAIM-1175.md), whose defeater cites the same outcome. Filed as a note, not a new lead, since the design is this lead's. Status and stage unchanged.

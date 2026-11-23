@@ -6,8 +6,9 @@
 
 **Philosophy of mathematics** — what mathematics is about and how we know it — mathematical structuralism and ontology, the nature of proof and construction, and its history from Descartes to Kant and after (group: philosophy).
 
-0 of 995 CLAIM documents. Back to the [full index](../README.md).
+2 of 1207 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-1151](../../../record/claims.d/CLAIM-1151.md) | Physics is better read as a quotient of mathematics with a coordination than as a subset of it: mathematically distinct models that no observation can tell apart are one physical situation, so physical content is what survives identification up to the symmetries observation cannot break; the same mathematics describes different physics until definitions coordinate it with phenomena, and those definitions are not mathematics; and what can be observed is relative to the channels available, so the quotient moves as instruments do | The assistant's refinement of the owner's thesis that physics is the subset of mathematics relevant to observable phenomena ([CLAIM-1170](../../../record/claims.d/CLAIM-1170.md)). It draws on the evening's two results: a miscalibrated anchor and a shifted world are mathematically distinct and observationally one ([CLAIM-1125](../../../record/claims.d/CLAIM-1125.md)), and a frame is fixed by a defined standard ([CLAIM-1143](../../../record/claims.d/CLAIM-1143.md)). The physics examples are standard, not from a reading the record holds. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Proposed |
+| [CLAIM-1170](../../../record/claims.d/CLAIM-1170.md) | Physics is the subset of mathematics relevant to phenomena it is possible to observe | The owner's, 2026-11-23, in this session: "physics as the subset of mathematics that's relevant to phenomena for which it is possible to be observed". It follows the owner's point that mechanics has an independent witness in physical phenomena ([CLAIM-1146](../../../record/claims.d/CLAIM-1146.md)). The owner's. | Proposed |

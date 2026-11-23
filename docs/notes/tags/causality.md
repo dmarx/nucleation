@@ -4,7 +4,7 @@
 
 **causality**.
 
-77 of 2367 NOTE documents. Back to the [full index](../README.md).
+78 of 2418 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -85,3 +85,4 @@
 | [NOTE-1989](../../../record/notes.d/NOTE-1989.md) | Zhu — Orientation, not magnitude: the causal structure of task-vector interference | An exact layerwise ledger of the non-additive part of a two-task-vector LoRA merge in Qwen2.5 and Llama-3.2 at the final prompt token: about 65–70% of its flux is transport of the existing term, amplified in late blocks; erased early it is rebuilt; erased along its own direction it reduces output non-additivity, and norm-matched wrong directions raise it. Templates suppress its expression in two-vector merges. v3 adds that it is a bystander in merge collapse. | Read |
 | [NOTE-2086](../../../record/notes.d/NOTE-2086.md) | Geiger and others 2025 — Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability |  | Skimmed |
 | [NOTE-2275](../../../record/notes.d/NOTE-2275.md) | Martínez-Sánchez, Arranz & Lozano-Durán — Decomposing causality into its synergistic, unique, and redundant components | SURD splits the predictive information that observed time series carry about a target's future into redundant, unique and synergistic parts, all nonnegative and summing exactly, plus a "causality leak" for what the observed variables miss. Applied to the volume-averaged interscale energy fluxes at four filter widths in a turbulence simulation, it finds unique terms only from larger to the next smaller scale, with any backward dependence redundant. | Read |
+| [NOTE-2394](../../../record/notes.d/NOTE-2394.md) | Schmietendorf 2026, read for how far the slaving principle licenses causal talk of order parameters acting on their constituents | A short perspective in network physiology. Synergetics' slaving principle, that near a critical point a separation of time scales lets a few slow order parameters describe the macro-dynamics while the stable modes follow them almost at once, has a descriptive reading (few variables suffice) and a causal one (the order parameter determines its constituents). The shift from the first to the second needs argument. Bedau's weak emergence makes enslavement reducible, diachronic downward causation; Bishop's downward causation through constraints makes it irreducible. Synergetics alone settles neither, and the author finds the debate leaning reductionist. The reading is [THEORY-2292](../../../record/theory.d/THEORY-2292.md). | Read |

@@ -17,7 +17,7 @@ history:
 - version: 3
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §5.2, §5.3. No other change.
@@ -145,4 +145,4 @@ A40 of the exchange "Explain First Contact RL" (second share, ChatGPT,
 the least effort is 2γΔ²/(b²(1 − e^{−2γH})). The assistant checked that
 it is strictly increasing in γ, so that for fixed b and H a slower mode
 is cheaper to redirect. The point A40 draws, that persistence does not
-fix redirectability, is [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md), which rests on this claim.
+fix redirectability, is [CLAIM-1192](CLAIM-1192.md), which rests on this claim.

@@ -148,6 +148,6 @@ enforce its rules is "itself performing the arbitration", and answered
 recurrent overriding arbitration by a higher level": a rule set beforehand
 and enforced automatically is plausibly such a level, so coordination a
 record enforces is not practical synchronization in this sense, though it
-may lead to it. [CLAIM-tmpmk036](../claims.d/CLAIM-tmpmk036.md) (Proposed) files the distinction as a third
+may lead to it. [CLAIM-1139](../claims.d/CLAIM-1139.md) (Proposed) files the distinction as a third
 mechanism, externalized governance, with a test by withdrawal. The
 definition is unchanged.

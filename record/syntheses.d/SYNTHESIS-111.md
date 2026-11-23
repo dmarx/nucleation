@@ -9,13 +9,13 @@ history:
 - version: 2
   date: '2026-11-23'
   note: >-
-    At the owner's principle of 2026-11-23 (CLAIM-tmp4h9rc), that
+    At the owner's principle of 2026-11-23 (CLAIM-1024), that
     self-correction depends on how evidence, evaluation and authority are
     coupled and on what a system cannot rewrite or reject. Integrates it,
-    its four instances from the governance leads (CLAIM-tmpvqmwc,
-    CLAIM-tmpz8q70, CLAIM-tmp5wozo, CLAIM-tmpxoxys) and the assistant's
-    qualification (CLAIM-tmpw11e6). The "Not stated" item on necessity is
-    narrowed: CLAIM-tmpxoxys now shows a necessity in a model, for rules
+    its four instances from the governance leads (CLAIM-1183,
+    CLAIM-1202, CLAIM-1029, CLAIM-1194) and the assistant's
+    qualification (CLAIM-1185). The "Not stated" item on necessity is
+    narrowed: CLAIM-1194 now shows a necessity in a model, for rules
     that treat members alike. Nothing else in the account changes.
 - version: 3
   date: '2026-11-23'
@@ -24,7 +24,7 @@ history:
     2026-11-23 that joins a manuscript makes and no entry maps are filed as
     accounts. Adds to "Not stated on the record" the manuscript's join JD6,
     the owner's principle and its four instances, with CLAIM-404, carried
-    to a regulator, with its ADR-075 verdict. SYNTHESIS-tmp4zamw's decline
+    to a regulator, with its ADR-075 verdict. SYNTHESIS-122's decline
     of "an ecology of regulatory perspectives" does not reach it (that
     account's note of this date). No component, link or clause of the
     account changes.
@@ -57,15 +57,15 @@ integrates:
 - CLAIM-099
 - CLAIM-719
 - CASE-138
-- CLAIM-tmp4h9rc
-- CLAIM-tmpvqmwc
-- CLAIM-tmpz8q70
-- CLAIM-tmp5wozo
-- CLAIM-tmpxoxys
-- CLAIM-tmpw11e6
+- CLAIM-1024
+- CLAIM-1183
+- CLAIM-1202
+- CLAIM-1029
+- CLAIM-1194
+- CLAIM-1185
 ---
 
-<!-- inactive-ok-file: CLAIM-732 CLAIM-719 CLAIM-tmp4h9rc CLAIM-tmpz8q70 CLAIM-tmpw11e6 — Proposed or Open; components of this account, cited with their standing -->
+<!-- inactive-ok-file: CLAIM-732 CLAIM-719 CLAIM-1024 CLAIM-1202 CLAIM-1185 — Proposed or Open; components of this account, cited with their standing -->
 # SYNTHESIS-111: In the record a collective's correction runs through separable achievements, from admission to recognition, credibility, uptake and a part in revising standards, any of which can fail while the others hold; selection and self-scoring need different remedies; and effective action, governance and correctability by others are maintained separately; and, in the governance leads' models, correction needs evidence from outside the proposals that the revision can neither rewrite nor refuse, scored apart from agreement and with no return channel closing the loop, while an anchor so protected bounds correction by its own accuracy
 
 *A thematic account, across lines, of principle P10 of the owner's manuscript (scratch/manuscripts/from-obstruction-to-reorganization/, §7.1, on its own branch). Filed at the owner's direction on 2026-11-20 after an independent reader's audit found the principle to be a conjunction of entries the record holds rather than a claim with content of its own ([ADR-075](../decisions.d/ADR-075.md), step 5; workbench entry of this date). It adds nothing; its standing is its components'. Its scope is a theme, not a line or a part of one, which [ADR-083](../decisions.d/ADR-083.md)'s one account per scope does not anticipate.*
@@ -87,30 +87,30 @@ integrates:
 
 **Coupling and protection (version 2), all Proposed and demonstrated in
 their models, and the owner's principle.**
-- **The owner's principle,** [CLAIM-tmp4h9rc](../claims.d/CLAIM-tmp4h9rc.md) (interpretive): self-correction
+- **The owner's principle,** [CLAIM-1024](../claims.d/CLAIM-1024.md) (interpretive): self-correction
   depends on how evidence, evaluation and authority are coupled, and on
   what the system is prevented from rewriting or rejecting. It rests on
   the four below and [CLAIM-342](../claims.d/CLAIM-342.md).
-- **Protected evidence,** [CLAIM-tmpvqmwc](../claims.d/CLAIM-tmpvqmwc.md). A sensor network corrects toward
+- **Protected evidence,** [CLAIM-1183](../claims.d/CLAIM-1183.md). A sensor network corrects toward
   truth only against beacons its revision can neither rewrite nor refuse.
   Revised by its own disagreement it regains consistency, not accuracy.
-- **Capture through authority,** [CLAIM-tmpz8q70](../claims.d/CLAIM-tmpz8q70.md). Informational
+- **Capture through authority,** [CLAIM-1202](../claims.d/CLAIM-1202.md). Informational
   independence does not stop an evaluator's capture while a resource
   channel runs. A return channel too weak to close the loop does.
-- **Scoring apart from agreement,** [CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md). Role-indexed grants,
+- **Scoring apart from agreement,** [CLAIM-1029](../claims.d/CLAIM-1029.md). Role-indexed grants,
   with critics scored by observed relevance, avoid factions and capture.
   Scalar grants scored by agreement do not.
-- **An identifiability limit,** [CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md). Without evidence that does
+- **An identifiability limit,** [CLAIM-1194](../claims.d/CLAIM-1194.md). Without evidence that does
   not come from the proposals, a rule treating members alike cannot tell
   honest dissent from an attack on the same block.
-- **What protection bounds,** [CLAIM-tmpw11e6](../claims.d/CLAIM-tmpw11e6.md) (the assistant's): a protected
+- **What protection bounds,** [CLAIM-1185](../claims.d/CLAIM-1185.md) (the assistant's): a protected
   but miscalibrated beacon passes its error to the network whole, and only
   a further protected channel reduces it.
 
 ## Not stated on the record
 
 - **A collective learns only if every link holds, up to revision of the standards of uptake.** The manuscript's P10 stated this. [CLAIM-403](../claims.d/CLAIM-403.md)'s separability, and [CLAIM-523](../claims.d/CLAIM-523.md)'s three achievements, which do not include the top rung, allow a collective to change its procedures on a contribution while its standards of uptake stay fixed.
-- **Its self-evaluation confirms itself without independent evidence,** as a necessity in general. [CLAIM-342](../claims.d/CLAIM-342.md) says such a loop "can lock in". Since version 2, a necessity is held in one model and for one class of rule: without evidence that does not come from the proposals, a rule treating members alike cannot tell dissent from attack ([CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md)). That every self-evaluating system fails without independent evidence is still not stated.
-- **That the owner's conditions are separate requirements.** [CLAIM-tmp4h9rc](../claims.d/CLAIM-tmp4h9rc.md)'s four instances are in four models. Whether each condition is needed when the others hold is open, and [LEAD-tmpdzbyn](../leads.d/LEAD-tmpdzbyn.md) would test it.
-- **The principle carried to a regulator (version 3; the manuscript governance-of-possibility's join JD6, §13.6).** The manuscript reads each condition for a public regulator: protected evidence as evidence about the industry it cannot rewrite or refuse (independent measurement, mandatory disclosure), authority's coupling as how standing and resources flow back from the regulated (the return channel of [CLAIM-tmpz8q70](../claims.d/CLAIM-tmpz8q70.md)), and scoring as whether objections gain weight by relevance or by agreement ([CLAIM-tmp5wozo](../claims.d/CLAIM-tmp5wozo.md)). [CLAIM-404](../claims.d/CLAIM-404.md) already holds, for an organization, that it can be governed from outside through the evidence its procedures receive or the criteria by which they weigh it. No component states the carriage to a regulator. *Verdict under [ADR-075](../decisions.d/ADR-075.md), step 5: fails, a carry.* The four instances are a sensor network and populations on the meaning–influence model, and the record holds no regulatory or industrial case. The readings are relabellings and state no inference, and their positive half rests on the item above, that the conditions are separate requirements, which is open until [LEAD-tmpdzbyn](../leads.d/LEAD-tmpdzbyn.md) is run. Not filed as a claim.
+- **Its self-evaluation confirms itself without independent evidence,** as a necessity in general. [CLAIM-342](../claims.d/CLAIM-342.md) says such a loop "can lock in". Since version 2, a necessity is held in one model and for one class of rule: without evidence that does not come from the proposals, a rule treating members alike cannot tell dissent from attack ([CLAIM-1194](../claims.d/CLAIM-1194.md)). That every self-evaluating system fails without independent evidence is still not stated.
+- **That the owner's conditions are separate requirements.** [CLAIM-1024](../claims.d/CLAIM-1024.md)'s four instances are in four models. Whether each condition is needed when the others hold is open, and [LEAD-220](../leads.d/LEAD-220.md) would test it.
+- **The principle carried to a regulator (version 3; the manuscript governance-of-possibility's join JD6, §13.6).** The manuscript reads each condition for a public regulator: protected evidence as evidence about the industry it cannot rewrite or refuse (independent measurement, mandatory disclosure), authority's coupling as how standing and resources flow back from the regulated (the return channel of [CLAIM-1202](../claims.d/CLAIM-1202.md)), and scoring as whether objections gain weight by relevance or by agreement ([CLAIM-1029](../claims.d/CLAIM-1029.md)). [CLAIM-404](../claims.d/CLAIM-404.md) already holds, for an organization, that it can be governed from outside through the evidence its procedures receive or the criteria by which they weigh it. No component states the carriage to a regulator. *Verdict under [ADR-075](../decisions.d/ADR-075.md), step 5: fails, a carry.* The four instances are a sensor network and populations on the meaning–influence model, and the record holds no regulatory or industrial case. The readings are relabellings and state no inference, and their positive half rests on the item above, that the conditions are separate requirements, which is open until [LEAD-220](../leads.d/LEAD-220.md) is run. Not filed as a claim.
 - **That the weakest stage bounds the ladder of uptake.** The weakest-stage bound is [CLAIM-732](../claims.d/CLAIM-732.md)'s, Proposed, and about objections.

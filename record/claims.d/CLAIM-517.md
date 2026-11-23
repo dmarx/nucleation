@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    Joins the work governance-of-possibility (ADR-144) at its
     membership pass of 2026-11-23, under ADR-104's rule: the revised
     manuscript in scratch/manuscripts/governance-of-possibility/ states
     its proposition or uses it as a step, in §9.6. No other change.
@@ -48,7 +48,7 @@ summary: >-
 works:
 - governance-of-possibility
 ---
-<!-- inactive-ok-file: CLAIM-tmpktdh5 — new; the objection filed for LEAD-194, cited in the note of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-1127 — new; the objection filed for LEAD-194, cited in the note of 2026-11-22 -->
 
 # CLAIM-517: A successor regulator keeps a viable set positively invariant if, at every boundary context, its response distribution is within γ/L in total variation of a regulator that certifies inward margin γ, the dynamics being L-Lipschitz in that distribution; an average distillation loss certifies this only through coverage of the boundary contexts, so fidelity measured in ordinary operation certifies nothing about viability
 
@@ -102,7 +102,7 @@ cannot certify what is preserved, and this claim's coverage step
 certifies viability from the distillation loss the successor was trained
 on. [CLAIM-266](CLAIM-266.md)'s note of 2026-11-22 states it precisely and files two
 resolutions as alternatives: A, that [CLAIM-266](CLAIM-266.md) narrows, carried by the
-objection [CLAIM-tmpktdh5](CLAIM-tmpktdh5.md), which rests on this claim; B, that neither
+objection [CLAIM-1127](CLAIM-1127.md), which rests on this claim; B, that neither
 narrows. The assistant leans to A. This claim's second half, that fidelity
 measured in ordinary operation certifies nothing about viability, is
 [CLAIM-266](CLAIM-266.md)'s limit in coverage form, and the two agree there.

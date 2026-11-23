@@ -45,7 +45,7 @@ history:
 - version: 9
   date: '2026-11-23'
   note: >-
-    Joins the work governance-of-possibility (ADR-tmpsfjxu), the owner's
+    Joins the work governance-of-possibility (ADR-144), the owner's
     manuscript from the exchange "Explain First Contact RL": A48 §7 uses
     it: slow rule formation with fast execution. No other change.
 role: counter
@@ -213,7 +213,7 @@ without slowing each decision, as CLAIM-711 says is possible. Relation: corrobor
 
 Background, not evidence ([LIT-3136](../literature.d/LIT-3136.md), [NOTE-2359](../notes.d/NOTE-2359.md)). The content-neutral regulations Frischmann and Benesch sketch are standing rules set in advance, with triggers (a count of forwards, a border, social-graph distance) that delay what they catch and leave the rest alone (pp. 437–42): the shape this claim describes. They justify them by the deliberation they allow, not by interruptibility, and report no test. Relation: none. No status changes.
 
-<!-- inactive-ok-file: CLAIM-tmpcag0t — Proposed; filed in this filing of 2026-11-23 (third share) -->
+<!-- inactive-ok-file: CLAIM-1070 — Proposed; filed in this filing of 2026-11-23 (third share) -->
 
 ## Note of 2026-11-23: the slow commitment applied fast
 
@@ -225,7 +225,7 @@ jurisdiction of the slower governing structure. ... The commitment is
 slow; its application is fast." Both are faithful to it. A44 adds the
 residual case, an emergency outside the preauthorized categories, which
 needs "an escalation or revision pathway rather than merely faster
-execution of obsolete rules". [CLAIM-tmp947v0](CLAIM-tmp947v0.md) and [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md) cite this
+execution of obsolete rules". [CLAIM-1051](CLAIM-1051.md) and [CLAIM-1070](CLAIM-1070.md) cite this
 claim.
 
 ## Note of 2026-11-23: what holds it back

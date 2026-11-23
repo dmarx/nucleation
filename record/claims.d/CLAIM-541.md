@@ -17,7 +17,7 @@ history:
 - version: 3
   date: '2026-11-23'
   note: >-
-    At the owner's ruling of 2026-11-23 (CLAIM-tmpwjpc8), that the
+    At the owner's ruling of 2026-11-23 (CLAIM-1187), that the
     computational-mechanics and nonlinear-dynamics perspectives take
     precedence over the sinological one in the record's account of
     wu-wei. The defeater's sinological clause is narrowed: a reading of
@@ -106,39 +106,39 @@ the APS makes those free it should be Unfetched.
 
 The record has read no account of wu-wei: Slingerland ([LIT-1994](../literature.d/LIT-1994.md)) and Bruya ([LIT-910](../literature.d/LIT-910.md)) are Unavailable, so the sinological test its defeater names has not been run. Its formal instance, Ott, Grebogi and Yorke's method, is known here only second-hand ([LIT-1997](../literature.d/LIT-1997.md), [LIT-1972](../literature.d/LIT-1972.md), Unavailable). A reading of either would let the ruling be made.
 
-<!-- inactive-ok-file: CLAIM-tmp0doyo CLAIM-tmpaj28t CLAIM-tmpk8ude CLAIM-711 — Proposed or Open; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+<!-- inactive-ok-file: CLAIM-998 CLAIM-1061 CLAIM-1122 CLAIM-711 — Proposed or Open; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
 ## Note of 2026-11-23: wu-wei across the exchange "Explain First Contact RL"
 
 The assistant, answering the owner's "relate the conversation to wuwei" (2026-11-23, this session), after the exchange's filing:
-- **A direction beside this claim's timing.** [CLAIM-tmp0doyo](CLAIM-tmp0doyo.md) adds it from
+- **A direction beside this claim's timing.** [CLAIM-998](CLAIM-998.md) adds it from
   the Gramian ([CLAIM-345](CLAIM-345.md)). It rests on this claim.
 - **The paradox of wu-wei and its two classical routes.** Cultivation and
   unlearning are read, as a supposition, onto the tension between identity
-  stabilization and adaptability ([CLAIM-tmpaj28t](CLAIM-tmpaj28t.md)).
+  stabilization and adaptability ([CLAIM-1061](CLAIM-1061.md)).
 - **Two more instances of this claim's sources.** The scroll interface's
-  learning off the critical path ([CLAIM-tmpk8ude](CLAIM-tmpk8ude.md)) is the second source,
+  learning off the critical path ([CLAIM-1122](CLAIM-1122.md)) is the second source,
   accommodation that is learned and amortized. A44's "commitment is slow;
   its application is fast" ([CLAIM-711](CLAIM-711.md)) is a fourth shape this claim does
   not name: slow commitments that make fast right action cheap.
 
-[LEAD-tmpsyfgj](../leads.d/LEAD-tmpsyfgj.md) would read a neighbour of the unavailable [LIT-1994](../literature.d/LIT-1994.md) to check
+[LEAD-231](../leads.d/LEAD-231.md) would read a neighbour of the unavailable [LIT-1994](../literature.d/LIT-1994.md) to check
 these readings.
 
-<!-- inactive-ok-file: CLAIM-tmpcbdgm — Proposed; the owner's ruling and the reading filed with it, 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-1071 — Proposed; the owner's ruling and the reading filed with it, 2026-11-23 -->
 
 ## Note of 2026-11-23: the owner's ruling on precedence
 
-The owner ruled ([CLAIM-tmpwjpc8](CLAIM-tmpwjpc8.md)) that the computational-mechanics and
+The owner ruled ([CLAIM-1187](CLAIM-1187.md)) that the computational-mechanics and
 nonlinear-dynamics perspectives take precedence over the sinological one
 in the record's account of wu-wei. This claim's defeater is narrowed
 accordingly (version 3). A computational-mechanics reading is filed
 beside it: effortlessness as predictive economy of memory, with the
-feedback limit that keeps it from being mere prediction ([CLAIM-tmpcbdgm](CLAIM-tmpcbdgm.md)).
+feedback limit that keeps it from being mere prediction ([CLAIM-1071](CLAIM-1071.md)).
 
 ## Note of 2026-11-23: what holds it back
 
-Checked after the owner's ruling ([CLAIM-tmpwjpc8](CLAIM-tmpwjpc8.md)) and [CLAIM-711](CLAIM-711.md)'s revision:
+Checked after the owner's ruling ([CLAIM-1187](CLAIM-1187.md)) and [CLAIM-711](CLAIM-711.md)'s revision:
 the sinological half of the wait of 2026-11-06 is over, and [CLAIM-711](CLAIM-711.md)'s slow
 commitment is a further shape the title's "at least three" allows. What
 remains is its formal instance: no reading or demonstration of Ott, Grebogi

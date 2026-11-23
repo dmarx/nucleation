@@ -32,7 +32,7 @@ summary: >-
   From the record's Deferred and Unfetched works. Filed by the backlog
   audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: ARG-tmpyjmij — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
+<!-- inactive-ok-file: ARG-236 — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
 <!-- inactive-ok-file: LIT-1827 — Unavailable; Chesson 1994, sought again on 2026-11-22 and not reached -->
 <!-- inactive-ok-file: LIT-1826 — Unfetched; cited in the backlog audit of 2026-11-19 -->
 
@@ -65,16 +65,16 @@ scratch/studies/lead-196/PROGRESS.md).
   host timed out; the Internet Archive's capture of it, and CiteSeerX's
   copy, which redirects there, were cut off by this session's network.
   The status note gives the addresses.
-- **Read instead: Chesson (2011)**, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md), in full ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md)),
+- **Read instead: Chesson (2011)**, [LIT-3154](../literature.d/LIT-3154.md), in full ([NOTE-2380](../notes.d/NOTE-2380.md)),
   his own restatement of the 1990 reworking of MacArthur's model, from
-  the publisher's open copy. [THEORY-tmpac7iw](../theory.d/THEORY-tmpac7iw.md) holds its account.
+  the publisher's open copy. [THEORY-2287](../theory.d/THEORY-2287.md) holds its account.
 - **Chesson (1994), [LIT-1827](../literature.d/LIT-1827.md): still Unavailable**, sought again.
 - **What would count.** "Coexistence conditions in Chesson's terms bear
   on [QUESTION-132](../questions.d/QUESTION-132.md)'s theorem." They do: in [CLAIM-369](../claims.d/CLAIM-369.md)'s class Chesson's
   overlap is the cosine of the niche vectors, his fitness the normed
   marginal value at zero abundance, and a rare component's growth against
-  a lone resident ‖u_i‖(κ_i − ρκ_j) ([CLAIM-tmpv65bg](../claims.d/CLAIM-tmpv65bg.md), argued from the
-  reading by [ARG-tmpyjmij](../arguments.d/ARG-tmpyjmij.md), checked by a record script). Dated notes are
+  a lone resident ‖u_i‖(κ_i − ρκ_j) ([CLAIM-1181](../claims.d/CLAIM-1181.md), argued from the
+  reading by [ARG-236](../arguments.d/ARG-236.md), checked by a record script). Dated notes are
   on [CLAIM-369](../claims.d/CLAIM-369.md), [QUESTION-132](../questions.d/QUESTION-132.md), [QUESTION-083](../questions.d/QUESTION-083.md), [CASE-118](../cases.d/CASE-118.md) and [CLAIM-279](../claims.d/CLAIM-279.md).
 
 What remains: reading the 1990 paper itself, which needs either the

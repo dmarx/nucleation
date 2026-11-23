@@ -98,18 +98,18 @@ organization's own organization, so the question stays open. No status
 changes.
 
 ## Note of 2026-11-23: the oracle test run, in a governance study
-<!-- inactive-ok-block: CLAIM-tmp3t5y3 — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-block: CLAIM-1018 — new; filed by the lead run of 2026-11-23 -->
 
-[CASE-tmpqnoj1](../cases.d/CASE-tmpqnoj1.md) runs A33's test, an oracle for the same proposals and update rule,
+[CASE-415](../cases.d/CASE-415.md) runs A33's test, an oracle for the same proposals and update rule,
 on [CASE-108](../cases.d/CASE-108.md)'s architectures. Against it, unrestricted aggregation lost
 0.73 of the minority's capability and role-limited audit 0.08, so the
 governance-induced frustration of [CLAIM-357](../claims.d/CLAIM-357.md) is measurable there. The run
 bears on this question in one respect. A standard that reads only the
 proposals cannot tell an attack from dissent that looks like it: in a
 world and its relabelling it does the same, and its gain for the
-dissenters in one is the attacker's in the other ([CLAIM-tmpxoxys](../claims.d/CLAIM-tmpxoxys.md)). What separated
+dissenters in one is the attacker's in the other ([CLAIM-1194](../claims.d/CLAIM-1194.md)). What separated
 them was evidence on the disputed tasks that the proposals did not
 supply, held by members; its honesty was stipulated, and compromised it
 inverted the standard. Whether the organization's own organization can
-warrant such evidence is still this question. [CLAIM-tmp3t5y3](../claims.d/CLAIM-tmp3t5y3.md) reads the run's
+warrant such evidence is still this question. [CLAIM-1018](../claims.d/CLAIM-1018.md) reads the run's
 suspensions of honest members by its lights. The question is unchanged.

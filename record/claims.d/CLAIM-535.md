@@ -153,10 +153,10 @@ Two additions. First, A's moral reading, which the claim's text does not draw: "
 No status changes.
 
 ## Note of 2026-11-22: the reverse swipe, from the exchange "Explain First Contact RL"
-<!-- inactive-ok-file: CASE-tmptzhse — Proposed; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
+<!-- inactive-ok-file: CASE-419 — Proposed; filed 2026-11-22 from the exchange "Explain First Contact RL" -->
 
 A8 §3A of that exchange applies this claim to an adaptive scroll interface
-([CASE-tmptzhse](../cases.d/CASE-tmptzhse.md), which illustrates it): a quick reverse swipe can mean
+([CASE-419](../cases.d/CASE-419.md), which illustrates it): a quick reverse swipe can mean
 overshoot, deliberate rereading or searching back, circumstances the
 interface cannot tell apart from the gesture and that call for different
 adjustments (more friction, or none). "The system cannot solve missing

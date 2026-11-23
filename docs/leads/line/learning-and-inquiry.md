@@ -6,8 +6,8 @@
 
 **Learning and inquiry** — how a system that draws distinctions comes to learn and to inquire — distinctions relative to a target and a budget, learning as the formation of a maintained capacity, distinction or channel, occasioned and not guaranteed by a discrepancy it cannot resolve, and inquiry as specification that can revise its own language, answers and criteria; kept apart from what a record of inquiry secures (records-of-inquiry) and from the record as its own apparatus (record-as-apparatus).
 
-0 of 215 LEAD documents. Back to the [full index](../README.md).
+1 of 234 LEAD documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LEAD-229](../../../record/leads.d/LEAD-229.md) | Design a test of counterfactual epistemic richness that holds current task performance fixed, perturbs the environment and introduces unencountered questions, and measures the breadth, cost, speed and reliability of the paths to renewed understanding; and read the definitions of intelligence it would compete with | A gap fill ([ADR-137](../../../record/decisions.d/ADR-137.md)) for A62b's closing proposal, in the exchange "Explain First Contact RL" (ChatGPT, the branch of 2026-11-23 08:51), that "epistemic intelligence might be measured by counterfactual richness rather than observed performance alone", which it offers as "an empirical research program" without a design. The lead supplies the design's questions and the readings the record lacks: no definition of intelligence as efficiency of skill acquisition, or as performance across environments, is on the record. The wording is the assistant's (Claude, in this session); adopting it is the owner's call. | Open |
