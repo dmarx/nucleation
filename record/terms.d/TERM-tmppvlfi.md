@@ -75,3 +75,9 @@ horizon: viability by [CLAIM-347](../claims.d/CLAIM-347.md)'s compatibility comp
 by an intervention test such as recovery when rare ([QUESTION-132](../questions.d/QUESTION-132.md)) or
 [CLAIM-362](../claims.d/CLAIM-362.md)'s access to consequential roles, accommodation by a measure
 not reducible to either.
+
+## Note of 2026-11-23: what holds it back
+
+Its own condition is unmet: accommodation has no measure not reducible to
+viability or correctability, and no declared plurality and horizon has had
+the three conjuncts operationalized.

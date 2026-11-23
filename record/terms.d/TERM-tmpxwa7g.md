@@ -79,3 +79,11 @@ interpretation and governance [TERM-072](TERM-072.md)'s organizational sense req
   at the level of neural processes. The term counts persons, so an
   individual is never a pseudo-self under it, though A's argument is that
   an individual's unity may be of the same kind.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmpm54la — Proposed; its use -->
+Its 'integrated' is schematic, as its Limits say: the coupling diagnostic is
+necessary and not sufficient, and 'contributes to maintaining coherent
+activity' has no measure, so the definition is not settled; CLAIM-tmpm54la,
+its one use, has not said which reading it takes.

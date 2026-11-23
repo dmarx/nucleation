@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'Graded predicates on a measure space, identified almost everywhere and ordered pointwise, form a distributive lattice under minimum and maximum whose L¹ distance is the metric of the valuation p ↦ ∫p dμ, while the concept lattice of a thresholded incidence can be any complete lattice and need not be distributive, so the two lattices a theory of overlapping perspectives might use are different objects'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -9,6 +9,13 @@ history:
     Filed 2026-11-22 by the assistant from A29 §4 of the exchange "Explain
     First Contact RL" (ChatGPT, shared 2026-11-22), with the assistant's
     fill that the metric is a valuation metric; checked with python3 -I.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): proof checked (distributivity, the valuation
+    identity, the basic theorem of formal concept analysis); premise
+    CLAIM-tmprq9q5 promoted in the same change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

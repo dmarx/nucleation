@@ -145,3 +145,11 @@ regulation and one by a common external driver, come apart under
 interventions on their coupling or on the driver. If they stay
 indistinguishable under rich intervention histories, the claim fails.
 [LEAD-144](../leads.d/LEAD-144.md) runs that design.
+
+## Note of 2026-11-23: what holds it back
+
+Its admission names a discriminating prediction, matched systems coordinated
+by mutual regulation and by a common driver coming apart under interventions
+on coupling, and LEAD-144, which runs it, is Open. The clause that a self
+admits several equally adequate factorizations into perspectives, which it
+adds over its premises, has no case in the record.

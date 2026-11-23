@@ -73,3 +73,11 @@ are as budget-relative as the perspectives' addresses ([TERM-tmpwc4la](../terms.
 What the proposal adds is to take the mess as the self rather than as an
 obstacle to finding it: no privileged decomposition need exist. A13 §6 and
 A15 developed it ([CLAIM-tmp7pe33](CLAIM-tmp7pe33.md), [CLAIM-tmptxsin](CLAIM-tmptxsin.md)).
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmptsbhv — Proposed; the other reading -->
+Filed as one of two readings of the owner's U6, beside CLAIM-tmptsbhv, and
+the owner has not chosen between them. CLAIM-574 carries only its last
+clause, the test-relativity of the division; 'no clean boundaries' and 'no
+single executive' have no case in the record.

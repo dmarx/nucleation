@@ -110,3 +110,10 @@ either recovers the modules or is wrong about them. So the claim says
 something its premises do not: that selves are not of that kind. This is
 its own `defeated_if`. Its clause that distinctions "may disappear" is
 corrected by [CLAIM-tmp0dyx8](CLAIM-tmp0dyx8.md).
+
+## Note of 2026-11-23: filed with its concessions
+
+CLAIM-tmp0dyx8's correction is written into this claim as filed, in its
+Standing and Admission sections: its third sentence holds for a change of
+regime that is not a nested enrichment, and the end of a distinction by a
+change of the organization is not regime-relative.

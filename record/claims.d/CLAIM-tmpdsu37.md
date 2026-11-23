@@ -1,7 +1,18 @@
 ---
-status: Proposed
+status: Active
 title: 'In the compressed diffusion-wavelet chain, where each level''s operator is the orthogonal compression of the square of the one before onto the columns kept, the distance between the subspace kept at a level and an invariant subspace of the same dimension is at most the accumulated truncation residual divided by the smallest singular value of the dyadic power on that subspace, so a level is definite when its kept spectrum stands well above the residual and not at a gapless threshold'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): proof checked step by step (Lemma 2, Theorems
+    3 and 3', Corollaries 4 and 5, the gap step and the attainment
+    example) and lead-192 re-run by a second checker, its tests passing
+    (ADR-065); no premises, nothing objects to it. Whether it corroborates
+    or complements CLAIM-164 stays the owner's choice and does not bear on
+    its status.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

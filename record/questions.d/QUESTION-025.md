@@ -1,10 +1,18 @@
 ---
 number: 25
-status: Open
+status: Answered
 formerly:
 - QUESTION-tmpynu0z
 title: 'Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Answered by CLAIM-902 at the status review's ruling (the owner
+    delegated these rulings; ADR-057): the derivation its "What would
+    count" names, which it says settles the question. The measurement limb
+    (CASE-344) is not needed for the answer.
 tags:
 - representation-learning
 - mathematics

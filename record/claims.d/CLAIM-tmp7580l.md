@@ -97,3 +97,11 @@ The weaker reading of U10, that a team's perspectives can be addressed one
 member at a time, A grants and builds on ([CLAIM-tmpl1hgv](CLAIM-tmpl1hgv.md)): "The team gives
 us separable sites of intervention, not necessarily separable units of
 perspective."
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmpm54la — Proposed; the owner's thesis it objects to -->
+Its target CLAIM-tmpm54la, the owner's thesis, keeps two readings for the
+owner to choose between; promoting this objection would settle that choice
+by conceding the stronger one. Its premise CLAIM-418 is Active and its
+demonstration checks.

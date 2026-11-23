@@ -230,3 +230,12 @@ Still not adopted, on two of the three uses the note of 2026-11-18 named. The mo
 ## Note of 2026-11-22: a perspective located by its dispositions, and the test that changes them
 
 In the exchange "Explain First Contact RL" (ChatGPT, shared 2026-11-22), A11 §§1–2 assembled this term with [TERM-067](TERM-067.md) and [TERM-069](TERM-069.md) into a "dispositional address" of a perspective, q ↦ P(Y | p, do(q)) over a probe family, filed as [TERM-tmpwc4la](TERM-tmpwc4la.md). A11 §6 cited this term's three failures ("a disposition can be masked, mimicked, or altered by the test itself") and went further: "the probe changes the perspective being measured", p_{t+1} = F(p_t, q_t, Y_t). A13 §4 and A15 §4 generalized it: a test may "activate, inhibit, reorganize, or even help constitute" the perspective whose disposition it measures, and two orders of the same tests may give two outcomes. A fink is one case of this: the stimulus removes the disposition it would reveal. The general case makes the address a property of probe sequences, as [TERM-069](TERM-069.md)'s last clause and [CLAIM-052](../claims.d/CLAIM-052.md) say for framings. When such a change ends a distinction, it is not regime-relative ([CLAIM-tmp0dyx8](../claims.d/CLAIM-tmp0dyx8.md)). A use and a generalization; no change to the definition.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: TERM-tmpwc4la — Proposed; a use checked -->
+Rechecked after the uses added on 2026-11-22 in TERM-tmpwc4la and CLAIM-
+tmp0dyx8. ARG-069 still leaves the forking disposition's bearer open and
+ARG-059 still calls CLAIM-619 a fink against the finking row since version
+3, so the term's own condition, that each use says which bearer and which
+sense, is still unmet.
