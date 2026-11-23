@@ -96,3 +96,17 @@ A parallel ([NOTE-2140](../notes.d/NOTE-2140.md)): participants' acts of referen
 ## Note of 2026-11-20: what holds it back
 
 The claim is causal, and its ground [CASE-223](../cases.d/CASE-223.md) is a proposed study that has not been run ([LEAD-185](../leads.d/LEAD-185.md)): verdicts measured apart from the move and timed against it, with cost and incentive controlled. Its instances are A's reports, unverified. Until it is run, [ARG-067](../arguments.d/ARG-067.md)'s finding stands that the Freenode move is expected under [CLAIM-329](CLAIM-329.md)'s criterion alone, with no causal work done by the verdicts, which is the restatement half of the defeat condition.
+
+## Note of 2026-11-23: the study run on public records
+
+<!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmpc47v8 CLAIM-tmppui4z — new, Proposed; the run and its two readings -->
+[CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md) ran the study on public records. Its result on this claim
+is neutral: the records cannot time verdicts apart from migration,
+because independent verdicts appear in them only as the stated reasons for
+the speaker's own move ([CLAIM-tmpc47v8](CLAIM-tmpc47v8.md)). One instance bears on the
+defeat condition's rival: Fedora replaced Redis with Valkey for the
+licence alone, a migration with no verdict on identity expressed. An
+alternative reading of the result ([CLAIM-tmppui4z](CLAIM-tmppui4z.md)) takes the one-act
+pattern to favour this claim's constitutive gloss, "Through coordinated
+participation, it can help constitute a new one", over its causal title.
+What holds it back is unchanged in kind: the survey arm is unrun.

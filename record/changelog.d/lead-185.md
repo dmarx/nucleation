@@ -1,0 +1,9 @@
+### Added
+
+- [CASE-tmpntt8e](record/cases.d/CASE-tmpntt8e.md), an executed study running [CASE-223](record/cases.d/CASE-223.md)'s design on the public records of eleven open-source successions (eight contested), with its coding rules, data, timing script and tests under scratch/studies/lead-185/ ([LEAD-185](record/leads.d/LEAD-185.md)).
+- [CLAIM-tmpc47v8](record/claims.d/CLAIM-tmpc47v8.md) (the public records cannot time verdicts apart from migration) and its alternative reading [CLAIM-tmppui4z](record/claims.d/CLAIM-tmppui4z.md) (the verdict is given by moving); [CLAIM-tmpqpfvh](record/claims.d/CLAIM-tmpqpfvh.md) (recognition followed the maintainers, not the name); [CLAIM-tmp79lxm](record/claims.d/CLAIM-tmp79lxm.md) (an original keeps producing while its steward pays its producers).
+- Six primary documents registered and read, each a LIT with a NOTE: the Document Foundation's announcement ([LIT-tmp0go6t](record/literature.d/LIT-tmp0go6t.md)), the Jenkins rename vote ([LIT-tmpmiw2h](record/literature.d/LIT-tmpmiw2h.md)), SourceHut's move to Libera Chat ([LIT-tmp2bi97](record/literature.d/LIT-tmp2bi97.md)), Fedora's MariaDB and Valkey changes ([LIT-tmpnnk6t](record/literature.d/LIT-tmpnnk6t.md), [LIT-tmp5xrt1](record/literature.d/LIT-tmp5xrt1.md)), and the Eclipse wiki's Jenkins page ([LIT-tmpdc403](record/literature.d/LIT-tmpdc403.md)).
+
+### Changed
+
+- Dated notes of 2026-11-23 on [LEAD-185](record/leads.d/LEAD-185.md), [ARG-067](record/arguments.d/ARG-067.md) (the run, and the two rulings left to the owner), [CLAIM-617](record/claims.d/CLAIM-617.md), [CASE-223](record/cases.d/CASE-223.md) (the facts it listed to check), [CLAIM-329](record/claims.d/CLAIM-329.md), [CLAIM-328](record/claims.d/CLAIM-328.md) and [QUESTION-118](record/questions.d/QUESTION-118.md). No status or stage changed.
