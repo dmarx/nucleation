@@ -26,7 +26,8 @@ summary: >-
   residual d_j = ‖(I − P_{j+1})A_j‖ and the chain's operator has drifted f_j
   = ‖T^{2^j} − A_j‖ from the true power, the kept subspace is within
   (d_j + f_j)/λ_k^{2^j} of the top-k eigenspace for symmetric T, and f_j ≤
-  Σ_{i<j} 2^{j−i}d_i. With strong rank-revealing QR, d_j is at most p(k, n)
+  Σ_{i<j} 2^{j−i}d_i; a Davis–Kahan form, tighter near the cut, is proved
+  beside it. With strong rank-revealing QR, d_j is at most p(k, n)
   times the first discarded singular value, so the bound is a relative
   gap (λ_{k+1}/λ_k)^{2^j} plus accumulated drift. A non-symmetric T needs a
   row residual as well, which column selection does not control. It gives
@@ -115,6 +116,23 @@ top k eigenvectors. Then σ_min(R^M) = λ_k^{2^j}:
 
   ‖P_{j+1} − Π_k‖ ≤ (d_j + f_j) / λ_k^{2^j} ≤ (Σ_{i≤j} 2^{j−i}d_i) / λ_k^{2^j}.
 
+**Theorem 3′ (a Davis–Kahan form, symmetric T).** Let W be the projector
+onto the top k eigenvectors of A_j and τ_j = ‖P_{j+1} − W‖, which is zero
+for an exact eigen-truncation of A_j and at most d_j/λ_k(A_j) in general
+(the proof of Theorem 3 applied to A_j itself, where the drift is zero).
+Write μ_i = λ_i^{2^j}. If μ_k − μ_{k+1} > f_j, then
+
+  ‖P_{j+1} − Π_k‖ ≤ τ_j + f_j / (μ_k − μ_{k+1} − f_j).
+
+*Proof.* A_j = T^M + E with ‖E‖ = f_j. The eigenvalues of A_j on Ran W are
+at least μ_k − f_j (Weyl), and those of T^M on Ran(I − Π_k) at most μ_{k+1}.
+From (I − Π_k)A_jW − T^M(I − Π_k)W = (I − Π_k)EW, the Sylvester bound
+gives ‖(I − Π_k)W‖ ≤ f_j/(μ_k − f_j − μ_{k+1}), which is Davis and Kahan's
+sin Θ theorem; add τ_j by the triangle inequality. This form vanishes
+with exact truncation and no drift, where Theorem 3 does not; Theorem 3
+needs no gap condition and covers non-symmetric T. Both are proved, and
+the smaller applies.
+
 **Corollary 4 (graded).** For an eigenvector ξ of T with eigenvalue λ > 0,
 ‖(I − P_{j+1})ξ‖ ≤ (d_j + f_j)/λ^{2^j}. The same proof with Q = ξ. The
 slowest modes are kept far more accurately than those near the cut.
@@ -158,6 +176,10 @@ and exact (SVD) truncation reproduces the spectral space (THEORY-758).
 - Where a wide gap isolates the three clouds (levels 6–13 of 14), the
   error is 1.06 × 10⁻⁴ against a bound of 1.11–1.19 × 10⁻⁴ at levels 6–8:
   the bound with the true drift is tight.
+- The Davis–Kahan form is the tighter one where the kept spectrum is
+  close to the cut but separated from it: on the gapped spectrum at level
+  1, 9.2 × 10⁻⁶ against 0.25 for Theorem 3, with a true error of
+  9.2 × 10⁻⁶.
 - At the circle's gapless thresholds the error is 0.03–0.98 and the bound
   exceeds 1 at 9 of 12 levels: no definite subspace, as the bound says.
 - The a priori drift bound doubles each level while the true drift stays
@@ -167,6 +189,17 @@ and exact (SVD) truncation reproduces the spectral space (THEORY-758).
   residual stayed near 2 × 10⁻⁴, and the drift rose to 3 × 10⁻²: the row
   residual is a separate quantity, and column selection leaves it
   uncontrolled.
+
+## How it is filed, and the alternative
+
+Filed as corroborating CLAIM-164: an independent, demonstrated instance
+of that claim's criterion in the multilevel setting, on which CLAIM-164
+does not depend, since its core is Davis–Kahan for one perturbation. The
+alternative filing is `complements`, reading this as answering a
+different part of the question (how definite a computed level is) rather
+than as evidence for CLAIM-164. The lean is to corroborates, because the
+content is CLAIM-164's own criterion, the gap picking the object,
+recovered for the chain. The owner chooses.
 
 ## What it does not say
 

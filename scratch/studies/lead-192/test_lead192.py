@@ -19,6 +19,8 @@ def _check_rows(rows, symmetric=True):
         assert r["closure_Tm"] <= (r["d_col"] + r["f_true"]) * (1 + TOL) + 1e-12, r
         if symmetric:
             assert r["graded_ok"], r
+            # the Davis-Kahan form, which vanishes for exact truncation
+            assert r["s_true"] <= r["s_bound_dk"] * (1 + 1e-7) + 1e-9, r
             # closure under one step of T is at most twice the subspace error
             assert r["closure_T"] <= 2 * r["s_true"] * (1 + TOL) + 1e-12, r
             # row and column residuals agree for symmetric A_i

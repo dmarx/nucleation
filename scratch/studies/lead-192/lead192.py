@@ -195,6 +195,16 @@ def run_chain(T: np.ndarray, eps: float, levels: int, truncate) -> list[dict]:
             gb = (d_col + f_true) / lam[:k] ** (2 ** j)
             rec["graded_ok"] = bool(np.all(res <= gb * (1 + 1e-9) + 1e-12))
             rec["top_vec_err"] = float(res[0])
+            # second (Davis-Kahan) form: tau_j + f_j / (mu_k - mu_{k+1} - f_j),
+            # tau_j the distance from P to the top-k eigenspace W of A_j
+            wa, Va = np.linalg.eigh((A + A.T) / 2)
+            W = Va[:, np.argsort(wa)[::-1][:k]]
+            tau = np.linalg.norm(P - W @ W.T, 2)
+            mu_k = lam[k - 1] ** (2 ** j)
+            mu_k1 = lam[k] ** (2 ** j) if k < n else 0.0
+            den = mu_k - mu_k1 - f_true
+            rec["tau"] = tau
+            rec["s_bound_dk"] = tau + f_true / den if den > 0 else np.inf
         out.append(rec)
         # recursion for the next level
         f = (nTm + nA) * f + nA * (d_col + d_row)
@@ -222,12 +232,12 @@ def main() -> None:
         rows = run_chain(T, eps, L, tr)
         results[name] = rows
         print(f"== {name}")
-        print(" j    k   d_col     d_row     f_true    f_bound   s_true    s_bound   chain_bd  ratio^M  clos_T")
+        print(" j    k   d_col     d_row     f_true    f_bound   s_true    s_bound   chain_bd  ratio^M  clos_T    dk_bd")
         for r in rows:
             print(f"{r['j']:2d} {r['k']:4d}  {r['d_col']:.2e}  {r['d_row']:.2e}  "
                   f"{r['f_true']:.2e}  {r['f_bound']:.2e}  {r['s_true']:.2e}  "
                   f"{r['s_bound']:.2e}  {r['s_bound_chain']:.2e}  {r['gap_ratio']:.2e}  "
-                  f"{r['closure_T']:.2e}")
+                  f"{r['closure_T']:.2e}  {r.get('s_bound_dk', float('nan')):.2e}")
     with open(sys.argv[1] if len(sys.argv) > 1 else "/dev/stdout", "w") as fh:
         json.dump(results, fh, default=float, indent=1)
 
