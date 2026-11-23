@@ -27,7 +27,7 @@ summary: >-
   non-orthogonal. It gives no error bound, does not read the levels as
   spectral bands, and reports conditioning on one example.
 ---
-<!-- inactive-ok-file: NOTE-tmpv196v LIT-tmpzikaq CLAIM-tmpdsu37 — new, Unfetched and new; the reading, the report it stands in for, and the bound filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: NOTE-tmpv196v LIT-tmpzikaq — new, Unfetched and new; the reading, the report it stands in for, and the bound filed by the lead run of 2026-11-23 -->
 
 # THEORY-tmpyi9zg: On a strongly connected directed graph, diffusion wavelets extend to T = Π^{1/2}PΠ^{−1/2} by selecting columns of each restricted dyadic power as a non-orthogonal basis, compressing by the pseudo-inverse and squaring, which keeps the nested chain of spaces and trades orthogonality for localization at a large cost in conditioning
 

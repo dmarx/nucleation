@@ -51,7 +51,6 @@ summary: >-
   (Claude, in this session) with python3 -I. The wording is A's (ChatGPT,
   in the exchange of 2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpwb6dg — Proposed; the construction this specializes, filed with it on 2026-11-22 -->
 
 # CLAIM-tmprbieu: Linear tests of a representation see a distribution only through its mean representation: their largest disagreement is the dual norm of the difference of means, so two distributions with one mean, as a point mass at 0 and an even split between −1 and 1, are at distance zero under every linear test and are told apart by a single nonlinear one
 

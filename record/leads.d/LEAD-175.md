@@ -20,7 +20,6 @@ advances:
 summary: >-
   Named in [QUESTION-363](../questions.d/QUESTION-363.md). Filed by the backlog audit of 2026-11-19.
 ---
-<!-- inactive-ok-file: CASE-tmpgqbyq CLAIM-tmpg8m7a CLAIM-tmp9zqvq CLAIM-tmpraadt — new, filed 2026-11-22 by LEAD-175's study -->
 
 # LEAD-175: Re-run the toy-model-of-superposition check: SGD at n = 1,000 and on both sides of n = 600, and posterior sampling across n for the chain's critical sample sizes
 

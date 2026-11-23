@@ -25,7 +25,7 @@ summary: 'The case: a protected but miscalibrated beacon (study_beacon_bias.py,
   adopting it is the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp4h9rc CLAIM-tmpvqmwc — Proposed or Open; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmp4h9rc — Proposed or Open; cited in this filing of 2026-11-23 -->
 
 # ARG-tmp0b5z8: The miscalibrated-beacon arm of the record's simulated sensor network, as an existence case, shows that what a system is prevented from rewriting bounds what its correction can reach, and so narrows the owner's principle that self-correction depends on what the system cannot rewrite or reject
 

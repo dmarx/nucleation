@@ -33,7 +33,6 @@ summary: >-
   it to be possible, since the order asks for correspondences that are
   independently validated. No held case meets it yet.
 ---
-<!-- inactive-ok-file: CASE-tmp33vf4 CLAIM-tmpvqmwc — new, on pull request #740 (LEAD-177), not yet on staging; cited as a candidate for this claim's condition, and the citation depends on #740 merging -->
 <!-- inactive-ok-file: CASE-333 — Proposed; filed from LEAD-098's run of 2026-11-22, cited as a partial case -->
 <!-- inactive-ok-file: CASE-tmp17zl1 NOTE-tmp2d035 THEORY-tmp5gcq1 — new; the case LEAD-164 filed and its reading -->
 
@@ -152,10 +151,9 @@ assistant's (Claude, in this session); adopting it is the owner's call.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CASE-tmp17zl1 NOTE-tmp2d035 THEORY-tmp5gcq1 — Proposed or Skimmed; reading B -->
-Checked the moves since 2026-10-30: CASE-tmp33vf4 is put Active by this
+Checked the moves since 2026-10-30: [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md) is put Active by this
 review, which meets the condition only under reading A of the note of
-2026-11-22; under the leaned-to reading B the case is CASE-tmp17zl1,
-Proposed, whose reading NOTE-tmp2d035 is Skimmed and whose THEORY-tmp5gcq1
+2026-11-22; under the leaned-to reading B the case is [CASE-tmp17zl1](../cases.d/CASE-tmp17zl1.md),
+Proposed, whose reading [NOTE-tmp2d035](../notes.d/NOTE-tmp2d035.md) is Skimmed and whose [THEORY-tmp5gcq1](../theory.d/THEORY-tmp5gcq1.md)
 awaits a check of the uncertainty budgets. Which reading the condition means
 is the owner's call.

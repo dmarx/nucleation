@@ -42,7 +42,7 @@ summary: >-
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpz762n CLAIM-tmpnc1mf — new; the run and the alternative reading -->
+<!-- inactive-ok-file: CLAIM-tmpnc1mf — new; the run and the alternative reading -->
 <!-- inactive-ok-file: CASE-239 CASE-241 CLAIM-648 CLAIM-920 — Proposed or new; the study design whose defeater is read, and the claim and objection on whose terms the result is read -->
 
 # CLAIM-tmphrp1s: That the forager's gains vanish when its energy account is replaced by a matched score does not count against endogenous revision: it shows the learned warnings bound to the condition of the forager's own dissolution, which is what the proposed study's main threat asks for, and the study's second defeater as worded is met by every learner and so cannot tell endogenous criteria from supplied ones
@@ -82,7 +82,6 @@ second defeater, as worded, is not the test of it.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmpnc1mf — Proposed; the alternative -->
-CASE-tmpz762n is now Active and reproduces; what holds this claim is the
-owner's choice between it and CLAIM-tmpnc1mf, its live objection, under
-ADR-127.
+[CASE-tmpz762n](../cases.d/CASE-tmpz762n.md) is now Active and reproduces; what holds this claim is the
+owner's choice between it and [CLAIM-tmpnc1mf](CLAIM-tmpnc1mf.md), its live objection, under
+[ADR-127](../decisions.d/ADR-127.md).

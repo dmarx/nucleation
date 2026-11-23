@@ -46,7 +46,6 @@ draws_on:
 ---
 <!-- inactive-ok-file: CLAIM-139 — Superseded by CLAIM-204; cited as it stood, not as what the record now holds -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; the evidential reading of probe agreement, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpwb6dg CLAIM-tmprbieu — Proposed; the graded form named in the note of 2026-11-22 -->
 
 # TERM-069: observational equivalence, under a probe family: two models, states or distributions agreeing on the outcome law of every probe in a declared admissible family; coarser than identity unless the family is rich enough, and, when probes are run one at a time, weaker on their marginals than on the joint law across them
 

@@ -117,7 +117,7 @@ and the inequality is equality.
 ## Note of 2026-11-23: what holds it back
 
 Its mathematics checks (Pinsker's inequality with the bound on KL at a
-boundary context). Whether CLAIM-266 narrows to concede it (Alternative A)
+boundary context). Whether [CLAIM-266](CLAIM-266.md) narrows to concede it (Alternative A)
 or the objection is answered by reading 'certify' as the probe value alone
-(Alternative B) is filed on CLAIM-266's note of 2026-11-22 for the owner,
+(Alternative B) is filed on [CLAIM-266](CLAIM-266.md)'s note of 2026-11-22 for the owner,
 and not yet chosen; the review leans to A.

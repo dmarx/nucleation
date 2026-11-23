@@ -54,7 +54,7 @@ summary: >-
   is A's (ChatGPT, in the exchange of 2026-11-22); adopting it is the
   owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp9pgdu CLAIM-tmpwb6dg CLAIM-tmprbieu CLAIM-tmpfza2h CLAIM-tmpgnozg CLAIM-902 CASE-344 LIT-267 — Proposed; the claims this rests on, filed with it on 2026-11-22, the PMI result it cites, its corpus test and the paper it reads -->
+<!-- inactive-ok-file: CLAIM-tmp9pgdu CASE-344 LIT-267 — Proposed; the claims this rests on, filed with it on 2026-11-22, the PMI result it cites, its corpus test and the paper it reads -->
 
 # CLAIM-tmp6ksyy: A self-like organization may be realized over a continuous measure of dispositions, with linear representations giving locally accessible tests, lattices organizing the implications and overlaps among those tests, and causal dynamics deciding which of the resulting distinctions are maintained and consequential, so that discrete perspectives are a property of the observational and organizational regime rather than a primitive of the dispositional space
 

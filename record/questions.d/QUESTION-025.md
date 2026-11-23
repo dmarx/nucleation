@@ -27,7 +27,7 @@ summary: >-
   directions survive that structure is not answered by anything the
   record holds.
 ---
-<!-- inactive-ok-file: CLAIM-902 CASE-344 — new, filed today by LEAD-147 -->
+<!-- inactive-ok-file: CASE-344 — new, filed today by LEAD-147 -->
 <!-- inactive-ok-file: THEORY-201 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-188 — Proposed; cited as partial evidence toward an answer, not as settled -->
 <!-- inactive-ok-file: THEORY-183 CLAIM-119 LIT-267 — Proposed; cited as the open accounts this question joins -->

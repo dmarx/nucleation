@@ -50,7 +50,7 @@ by rung.
 
 ## Note of 2026-11-22: built and run
 
-<!-- inactive-ok-block: CASE-tmpz762n CASE-tmp33vf4 CLAIM-tmppa4rs CLAIM-tmpnc1mf CLAIM-tmphrp1s CLAIM-tmpvqmwc — new; the runs and claims filed from this lead -->
+<!-- inactive-ok-block: CLAIM-tmpnc1mf CLAIM-tmphrp1s — new; the runs and claims filed from this lead -->
 Carried out by a delegated lead worker; code, tests and results under
 scratch/studies/lead-177/. Two executed studies:
 - [CASE-tmpz762n](../cases.d/CASE-tmpz762n.md): the alarm-world rungs on one sensor channel (the fail-safe

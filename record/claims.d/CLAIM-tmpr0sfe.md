@@ -126,8 +126,7 @@ constructor-theoretic kinds. Choosing is the owner's.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmp6sa56 CLAIM-477 LEAD-195 — Proposed; the alternative, its target and its lead -->
-It is one of two alternatives filed for LEAD-195. Whether CLAIM-477's
+It is one of two alternatives filed for [LEAD-195](../leads.d/LEAD-195.md). Whether [CLAIM-477](CLAIM-477.md)'s
 'maintained by something' is met by what the laws admit or needs an actual
-maintainer is the owner's reading to give (ADR-127), and CLAIM-tmp6sa56's
+maintainer is the owner's reading to give ([ADR-127](../decisions.d/ADR-127.md)), and [CLAIM-tmp6sa56](CLAIM-tmp6sa56.md)'s
 points 3 and 4 are answered only by this claim's own text.

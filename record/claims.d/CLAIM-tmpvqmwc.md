@@ -54,7 +54,6 @@ summary: >-
   independent evidence for [CLAIM-342](CLAIM-342.md). The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmp33vf4 — new; the run this claim is drawn from -->
 
 # CLAIM-tmpvqmwc: In a simulated sensor network whose correspondences drift, revision improves prediction on positions the network did not choose only when it answers to beacons whose position and channel the revision can neither rewrite nor refuse; revision by the sensors' disagreement alone restores consistency and not accuracy, and a revisable beacon map or a right to refuse disagreeing beacons loses part or all of the gain
 

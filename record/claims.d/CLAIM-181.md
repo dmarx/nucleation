@@ -279,7 +279,7 @@ its grammar. The claim is unchanged.
 
 ## Note of 2026-11-23: what holds it back
 
-Checked CASE-300's correction of 2026-11-21 (one row reclassified, counts
-unchanged) and NOTE-2353's reading (a parallel from type inference): neither
+Checked [CASE-300](../cases.d/CASE-300.md)'s correction of 2026-11-21 (one row reclassified, counts
+unchanged) and [NOTE-2353](../notes.d/NOTE-2353.md)'s reading (a parallel from type inference): neither
 supplies the test still unmet, a move that mattered in an exchange and that
 the record still cannot hold or holds only by distorting it.

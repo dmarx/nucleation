@@ -41,7 +41,7 @@ summary: 'The assistant''s refinement of the owner''s thesis that physics
   call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpklggb CLAIM-tmpnl4xk — Proposed; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpnl4xk — Proposed; cited in this filing of 2026-11-23 -->
 
 # CLAIM-tmppmx4w: Physics is better read as a quotient of mathematics with a coordination than as a subset of it: mathematically distinct models that no observation can tell apart are one physical situation, so physical content is what survives identification up to the symmetries observation cannot break; the same mathematics describes different physics until definitions coordinate it with phenomena, and those definitions are not mathematics; and what can be observed is relative to the channels available, so the quotient moves as instruments do
 

@@ -43,8 +43,6 @@ summary: 'The assistant''s, answering the owner''s comparison with Gödel ([CLAI
   a diagonal argument. Checked in scratch/formal/beacon_gauge_check.py (1,000
   random trials, no mismatch). The wording is the assistant''s (Claude, in
   this session); adopting it is the owner''s call.'
-corroborated_by:
-- CLAIM-tmpw11e6
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpw11e6 CLAIM-tmpxoxys — Proposed; cited in this filing of 2026-11-23 -->

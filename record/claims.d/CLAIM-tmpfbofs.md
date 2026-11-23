@@ -200,9 +200,8 @@ combined with either.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmph783a LEAD-195 — Proposed; the alternative and its lead -->
-It is one of two alternatives filed for LEAD-195, and the choice between it
-and CLAIM-tmph783a, whether defeater (b) asks for a result that a law is
+It is one of two alternatives filed for [LEAD-195](../leads.d/LEAD-195.md), and the choice between it
+and [CLAIM-tmph783a](CLAIM-tmph783a.md), whether defeater (b) asks for a result that a law is
 fundamental or is met by the best current theory, is the owner's under
-ADR-127. CLAIM-tmph783a's objection is answered only by this claim's own
-text, not by a held counter. It answers QUESTION-450, which is Open.
+[ADR-127](../decisions.d/ADR-127.md). [CLAIM-tmph783a](CLAIM-tmph783a.md)'s objection is answered only by this claim's own
+text, not by a held counter. It answers [QUESTION-450](../questions.d/QUESTION-450.md), which is Open.

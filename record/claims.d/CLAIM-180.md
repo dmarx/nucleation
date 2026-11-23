@@ -90,7 +90,7 @@ bears_on:
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; Kanerva's book, no copy obtainable, named as where the critical distance comes from, not leaned on beyond that -->
 <!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
-<!-- inactive-ok-file: CASE-tmp4niuz CLAIM-tmp9w3p9 CLAIM-tmpc5mmp CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpc5mmp CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-180: Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
 
@@ -239,10 +239,9 @@ to the second. No change of status or title.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-182 CLAIM-tmpc5mmp — Proposed; what holds it -->
-Checked CLAIM-772's revisions of 2026-11-20 and 2026-11-21, which bear on
-the mechanism of drift and not on this claim's test, and CASE-tmp4niuz,
+Checked [CLAIM-772](CLAIM-772.md)'s revisions of 2026-11-20 and 2026-11-21, which bear on
+the mechanism of drift and not on this claim's test, and [CASE-tmp4niuz](../cases.d/CASE-tmp4niuz.md),
 which cannot run it: the reconstructions report almost only failed
-restatements (CLAIM-tmp9w3p9). Its test still wants transcripts coded for
-every restatement; CLAIM-182 is Proposed, and CLAIM-tmpc5mmp is a live
+restatements ([CLAIM-tmp9w3p9](CLAIM-tmp9w3p9.md)). Its test still wants transcripts coded for
+every restatement; [CLAIM-182](CLAIM-182.md) is Proposed, and [CLAIM-tmpc5mmp](CLAIM-tmpc5mmp.md) is a live
 objection to the bypass clause.

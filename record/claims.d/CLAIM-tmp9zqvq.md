@@ -42,7 +42,6 @@ summary: >-
   noise removed features instead of adding them. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpgqbyq CLAIM-tmpg8m7a — new, filed with this claim -->
 
 # CLAIM-tmp9zqvq: In the toy model of superposition, Chen et al.'s missing transition 5 → 6 is not reached by plain SGD at any of the sample sizes, batch sizes, learning rates, initialisations and training lengths tried, on both sides of n ≈ 600; from the 5-gon it is closed outright, and from the live 5⁺-gon it was not reached, so for this model "inaccessible" describes SGD better than "not reached in 4,500 epochs at one setting"
 

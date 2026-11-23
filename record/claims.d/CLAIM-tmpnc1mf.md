@@ -37,7 +37,7 @@ summary: >-
   form. The wording is the assistant's (Claude, in this session); adopting it
   is the owner's call.
 ---
-<!-- inactive-ok-file: CASE-tmpz762n CLAIM-tmphrp1s CLAIM-tmppa4rs — new; the run, the alternative reading and the claim on criterion revision -->
+<!-- inactive-ok-file: CLAIM-tmphrp1s — new; the run, the alternative reading and the claim on criterion revision -->
 <!-- inactive-ok-file: CASE-239 — Proposed; the study design whose defeater is read -->
 
 # CLAIM-tmpnc1mf: Read as the proposed forager study words its second defeater, the run counts against endogenous revision of criteria: the learner's gains vanish when its energy account is replaced by a score the designer could have chosen, so what its warnings track is the variable it was told to keep
@@ -77,6 +77,5 @@ same test: the claim is about the construction.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-tmphrp1s — Proposed; the alternative -->
-CASE-tmpz762n is now Active and reproduces; what holds this claim is the
-owner's choice between it and CLAIM-tmphrp1s under ADR-127.
+[CASE-tmpz762n](../cases.d/CASE-tmpz762n.md) is now Active and reproduces; what holds this claim is the
+owner's choice between it and [CLAIM-tmphrp1s](CLAIM-tmphrp1s.md) under [ADR-127](../decisions.d/ADR-127.md).

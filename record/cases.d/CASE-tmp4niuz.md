@@ -42,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-180 CLAIM-182 CLAIM-191 — Proposed; the claims this study was run to test, cited as under test -->
 <!-- inactive-ok-file: CASE-306 CASE-372 — Proposed; earlier studies of the same reconstructions, cited for comparison, nothing here rests on them -->
-<!-- inactive-ok-file: CLAIM-tmp9w3p9 CLAIM-tmpc5mmp CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpc5mmp CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
 
 # CASE-tmp4niuz: Coding the restatements the workbench reconstructions report finds them recorded almost only when they fail: 76 re-derived as new against one retrieved by its code, coded content re-derived in 20 of 48 reconstructions, and too few quoted pairs to measure a restatement's distance from its original
 

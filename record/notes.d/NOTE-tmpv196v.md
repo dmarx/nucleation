@@ -28,7 +28,7 @@ summary: >-
   better and conditioned far worse (κ ≈ 2 × 10⁴ against 33). No error
   bound is given.
 ---
-<!-- inactive-ok-file: LIT-tmpzikaq CLAIM-tmpdsu37 — Unfetched, and new; the report this reading stands in for and the bound filed from it, by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: LIT-tmpzikaq — Unfetched, and new; the report this reading stands in for and the bound filed from it, by the lead run of 2026-11-23 -->
 
 # NOTE-tmpv196v: Sevi, Rilling and Borgnat — Harmonic analysis on directed graphs and applications
 

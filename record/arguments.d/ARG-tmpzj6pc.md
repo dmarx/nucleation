@@ -33,7 +33,7 @@ summary: >-
   [CLAIM-tmp0dyx8](../claims.d/CLAIM-tmp0dyx8.md). The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp0dyx8 CLAIM-tmp7pe33 — new; the correction this argues and the conjecture it narrows, filed in the same batch of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmp7pe33 — new; the correction this argues and the conjecture it narrows, filed in the same batch of 2026-11-22 -->
 
 # ARG-tmpzj6pc: The monotonicity of distinctions along nested probe families, applied to the perspectives of a self, shows that a distinction among them can vanish only when the regime changes otherwise than by enrichment or when the organization itself changes, and so narrows the self conjecture's claim that distinctions may disappear without becoming false
 

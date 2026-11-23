@@ -39,7 +39,6 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-180 CLAIM-182 — Proposed; the claims whose tests this one says the reconstructions cannot run, cited as under test -->
-<!-- inactive-ok-file: CASE-tmp4niuz — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-tmp9w3p9: The record's reconstructions of its exchanges report a restatement almost only when it fails, so they cannot measure whether a code protects content from re-derivation or whether a restatement's distance from its original predicts it: those tests need transcripts coded for every restatement, recognised or not
 

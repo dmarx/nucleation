@@ -61,7 +61,7 @@ summary: >-
   the formulation ([CLAIM-tmp0dyx8](CLAIM-tmp0dyx8.md)). The wording is A's (ChatGPT, in the
   exchange of 2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp7pe33 CLAIM-tmp7qzux CLAIM-tmp0dyx8 CLAIM-tmptsbhv TERM-tmpwc4la — new; the conjecture this revises, the partition claim, the correction, the technical reading of the owner's U6 and the term, filed in the same batch of 2026-11-22 -->
+<!-- inactive-ok-file: CLAIM-tmp7pe33 CLAIM-tmptsbhv TERM-tmpwc4la — new; the conjecture this revises, the partition claim, the correction, the technical reading of the owner's U6 and the term, filed in the same batch of 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-052 CLAIM-417 CLAIM-820 CLAIM-861 CLAIM-835 CLAIM-281 TERM-138 — Proposed; entries A15's steps map to, cited 2026-11-22 -->
 
 # CLAIM-tmptxsin: A self is a historically developing organization of overlapping dispositions and perspectival relations whose observable differentiation depends on the available tests, but whose unity, if it has one, must be established through the causal processes that coordinate, maintain and transform those dispositions; its perspectives need not be independently individuated constituents and can admit several equally adequate factorizations, and the self can acquire new distinctions and channels through their interaction, changing the structure in which later perspectives become possible
@@ -150,6 +150,6 @@ indistinguishable under rich intervention histories, the claim fails.
 
 Its admission names a discriminating prediction, matched systems coordinated
 by mutual regulation and by a common driver coming apart under interventions
-on coupling, and LEAD-144, which runs it, is Open. The clause that a self
+on coupling, and [LEAD-144](../leads.d/LEAD-144.md), which runs it, is Open. The clause that a self
 admits several equally adequate factorizations into perspectives, which it
 adds over its premises, has no case in the record.

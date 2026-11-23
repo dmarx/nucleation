@@ -79,7 +79,6 @@ complements:
 - CLAIM-154
 - CLAIM-377
 ---
-<!-- inactive-ok-file: CLAIM-tmpdsu37 — new; the bound cited in the note of 2026-11-23, filed by the lead run of 2026-11-23 -->
 
 # CLAIM-164: What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide
 

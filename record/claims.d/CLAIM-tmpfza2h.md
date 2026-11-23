@@ -49,7 +49,7 @@ summary: >-
   except the fill, which is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmprq9q5 LIT-267 — Proposed; the graded perspectives this lattice orders, filed with it on 2026-11-22, and the paper whose lattice it is compared with -->
+<!-- inactive-ok-file: LIT-267 — Proposed; the graded perspectives this lattice orders, filed with it on 2026-11-22, and the paper whose lattice it is compared with -->
 
 # CLAIM-tmpfza2h: Graded predicates on a measure space, identified almost everywhere and ordered pointwise, form a distributive lattice under minimum and maximum whose L¹ distance is the metric of the valuation p ↦ ∫p dμ, while the concept lattice of a thresholded incidence can be any complete lattice and need not be distributive, so the two lattices a theory of overlapping perspectives might use are different objects
 
