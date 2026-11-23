@@ -6,46 +6,39 @@
   a bound of the form ||P_{V~_j} - P_{V_j}|| <= (something) * eps / gap_j for the compressed
   diffusion-wavelet algorithm across levels.
 
-## Task as understood
-
-1. Check the record does not already hold the bound or the reading.
-2. Read Maggioni, Bremer, Coifman and Szlam (2005), "Biorthogonal diffusion wavelets", from a lawful
-   copy; file LIT, NOTE, THEORY per read-and-file.
-3. Attempt the bound; if proved, file a CLAIM (Proposed, demonstrated) with the proof, plus a numpy/pytest check here.
-4. Dated notes on LEAD-192, CLAIM-164 (and the entries the reading bears on), changelog fragment.
+## Status: done; waiting for the owner's pull request and review
 
 ## Done
 
-- Step 1 (already held?): not held. No LIT for the biorthogonal paper; no changelog fragment or
-  note names LEAD-192; no claim holds a bound for the compressed chain.
-- Copy search, 2026-11-23 (the biorthogonal paper, DOI 10.1117/12.616909, SPIE Wavelets XI vol. 5914,
-  59141M, published 2005-08-18 per Crossref):
-  - SPIE Digital Library: paywalled.
-  - OpenAlex lists a CiteSeerX record, http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.132.8408;
-    https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.132.8408 and the document URL both
-    gave "connection reset by peer". Not retried.
-  - Maggioni's Yale page has a Wayback capture
-    (http://web.archive.org/web/20070703012238/http://www.math.yale.edu:80/~mmm82/), but
-    web.archive.org reset the connection. Not retried. math.yale.edu does not resolve.
-  - Bremer's Toronto papers directory lists no copy. Semantic Scholar: closed.
-  - So the LIT is Unfetched (a lawful copy located, CiteSeerX, and not reached).
-- Neighbour read: Sevi, Rilling and Borgnat, arXiv 1811.11636 v3 (ACHA 62 (2023) 390–440,
-  doi 10.1016/j.acha.2022.10.003), §8.2–8.3.1, which restates the biorthogonal construction of [36]
-  ("Our construction is identical but we also propose a definition for wavelets").
-- Proof written (see the CLAIM): per-level bound s_{j+1} <= (d_j + f_j)/sigma_min(R^{2^j}),
-  accumulation f_{i+1} <= (||T^{2^i}|| + ||A_i||) f_i + ||A_i||(d_i + d'_i). Symmetric case:
-  f_j <= sum 2^{j-i} d_i... (2 d_i per level), sigma_min = lambda_k^{2^j}.
-- Numerical check and pytest: lead192.py, test_lead192.py, 9 tests pass. results.txt.
+- Already held? No. No LIT for the biorthogonal paper; no changelog fragment or note names LEAD-192;
+  no claim holds a bound for the compressed chain.
+- Copy search, 2026-11-23, for the biorthogonal report (doi 10.1117/12.616909, SPIE 5914, 59141M,
+  2005-08-18): SPIE paywalled; CiteSeerX record 10.1.1.132.8408 reset the connection (summary and
+  document URLs); Wayback capture of Maggioni's Yale page
+  (http://web.archive.org/web/20070703012238/http://www.math.yale.edu:80/~mmm82/) reset; Semantic
+  Scholar closed; Bremer's Toronto directory lacks it. Not retried. Abstract read on Duke's listing.
+  -> LIT-tmpzikaq, Unfetched.
+- Neighbour: Sevi, Rilling and Borgnat, arXiv 1811.11636 v3 (ACHA 62 (2023) 390–440), §§1.2, 4.4, 8,
+  8.2–8.3.1 read -> LIT-tmpyklac (Active), NOTE-tmpv196v (Skimmed), THEORY-tmpyi9zg (Proposed).
+- Bound proved -> CLAIM-tmpdsu37 (Proposed, thesis, demonstrated): Lemma 2 (drift accumulation,
+  column and row residuals), Theorem 3 (kept subspace within (d_j + f_j)/sigma_min(R^{2^j})),
+  Theorem 3' (Davis–Kahan form, symmetric), Corollaries 4 (graded) and 5 (closure).
+- Check: lead192.py, test_lead192.py (9 tests pass), results.txt/json. README.md says how to rerun.
+- Dated notes: LEAD-192, CLAIM-164, NOTE-984, THEORY-758, QUESTION-218, QUESTION-222.
+- Curation entry record/curation.d/2026/11/23/014039.md; changelog record/changelog.d/lead-192.md.
+- Narrow diagnostic: luria.ref_status.scan on the changed files: no unused excuses, nothing lost.
 
 ## Choices made
 
-- The bound is stated against the column (range) residual the algorithm controls, not against
-  eps directly, so it covers any truncation rule; for RRQR the residual is at most p(k, n) times
-  the next singular value.
-- The target subspace is the top-k invariant subspace with k the computed dimension, so a
-  dimension mismatch at a gapless threshold shows up as a vacuous bound, not a wrong one.
+- The bound is stated against the column residual the algorithm controls, not against eps directly,
+  so it covers any truncation rule; for strong RRQR the residual is at most p(k, n) times the next
+  singular value.
+- The target subspace is an invariant subspace of the computed dimension, so a dimension mismatch at a
+  gapless threshold shows up as a vacuous bound, not a wrong one.
+- CLAIM-tmpdsu37 `corroborates` CLAIM-164 (alternative: `complements`; owner's call).
 
-## Next
+## Next (for the owner)
 
-- File LIT (Unfetched), LIT + NOTE + THEORY for the neighbour, the CLAIM, dated notes on
-  LEAD-192, CLAIM-164, NOTE-984? (held NOTE: dated note allowed), THEORY-758; changelog fragment.
+- Open the pull request into staging; choose corroborates or complements; decide whether to allow
+  web.archive.org and citeseerx.ist.psu.edu so the 2005 report can be read.
+- Open: whether the drift's doubling per level is ever attained.
