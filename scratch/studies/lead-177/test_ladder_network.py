@@ -82,3 +82,27 @@ def test_anchored_beats_self_on_one_seed():
     a = N.run("anchored", 0, T=1500)
     s = N.run("self", 0, T=1500)
     assert a["err_late"] < s["err_late"] and s["rad_late"] < 0.3
+
+
+# Added 2026-11-23 (study_beacon_bias.py): a protected but miscalibrated
+# beacon, and a slower survey that revises its calibration.
+
+def test_a_protected_miscalibrated_beacon_imports_its_error():
+    import numpy as np
+    d = (0.3, -0.2)
+    e = [N.run("anchored", s, beacon_bias=d)["err_late"] for s in range(3)]
+    assert abs(np.mean(e) - np.hypot(*d)) < 0.05
+
+
+def test_a_survey_of_the_beacon_reduces_the_imported_error():
+    d = (0.3, -0.2)
+    for s in range(3):
+        biased = N.run("anchored", s, beacon_bias=d)["err_late"]
+        surveyed = N.run("anchored", s, beacon_bias=d, survey_every=100)["err_late"]
+        assert surveyed < biased / 2
+
+
+def test_defaults_leave_the_anchored_arm_unchanged():
+    a = N.run("anchored", 0)
+    b = N.run("anchored", 0, beacon_bias=(0.0, 0.0), survey_every=0)
+    assert a == b
