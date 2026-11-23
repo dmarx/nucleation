@@ -37,7 +37,8 @@ Rerun (CPU, numpy, about ten minutes):
     OPENBLAS_NUM_THREADS=1 python3 -I check_lr.py
     python3 -I analyze.py
 
-The step size is set from the current weight scale. A first pass used the
-same rule for readout-only training, whose c = 0.1 runs then did not
-converge in 400,000 steps; those rows were dropped and rerun with the
-rule taken from the first layer alone.
+The step size is set from the current weight scale. A first pass, of ten
+seeds, used the same rule for readout-only training, whose c = 0.1 runs
+then did not converge in 400,000 steps; all readout-only rows were dropped
+and rerun with the rule taken from the first layer alone, and the run was
+then extended to 40 seeds.
