@@ -1,7 +1,19 @@
 ---
 status: Proposed
 title: "How fast an organization responds and revises, in the record: a first-order reference's time to meet a step times the noise it passes is fixed, so a deadline sets a floor on the noise; a slowly relaxing operation is proposed to be cheap to push and, kept within tolerance, slow to retune; a response's time is the longest chain of its stages still to be done, not its slowest part; slowness alone does not make a mode hard to redirect; and what counts as noise, where entrenchment sits and how far a readiness kernel reaches up the tiers of governance are not settled"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Two further readings of the manuscript governance-of-possibility,
+    found by its integration pass, added under Not stated on the record,
+    at the owner's ruling that what the manuscript states and no entry
+    maps to is filed as an account: §4's one rate per relation (a recap of
+    CLAIM-tmppqdnv) and §4.1's reading of CLAIM-tmppa4rs for an
+    institution (a carry). The third the pass found, §3.1's carriage of
+    CLAIM-478 into institutions, is CLAIM-730's, held as a supposition,
+    and needs no item.
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
   an in-force entry of the record that states part of this theme left out
@@ -301,6 +313,22 @@ Each item gives the join, what no component states, and its verdict under
   definition gives the inclusions. Its separating content, one retuning
   secured unless the family is closed, is already [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)'s note,
   and [QUESTION-tmpxcoa5](../questions.d/QUESTION-tmpxcoa5.md) holds what would secure more.
+
+- **The manuscript's §4: one rate per relation.** That a single
+  first-order rule k/(s + k) can only approximate the per-frequency optimum,
+  which is an arbitrary function of frequency set by the two spectra, so one
+  adaptation rate per relation is in general not the optimum, is not stated
+  beyond CLAIM-tmppqdnv's "neither the slowest nor the fastest adaptation is
+  optimal in general". *Verdict: fails, a recap.* It follows in one step
+  from CLAIM-tmppqdnv's own formula (a one-parameter family against an
+  arbitrary target), and adds no case, derivation or prediction the claim
+  leaves open.
+- **The manuscript's §4.1: CLAIM-tmppa4rs read for an institution.** That
+  revising an institution's classification of noise pays where a new demand
+  arrives through a class of signal it does not attend to, and nowhere else,
+  is not stated: CLAIM-tmppa4rs is shown for a simulated forager. *Verdict:
+  fails, a carry.* No institutional case is held; QUESTION-tmp5co54 holds
+  the question of how such a classification is revised.
 
 ## Cross-line audit ([ADR-129](../decisions.d/ADR-129.md))
 
