@@ -85,14 +85,14 @@ evidence on when the credit is due.
 
 ## Note of 2026-11-23: the Juggernaut route, testified and modelled
 
-The run of LEAD-188 (CASE-tmpktyr7) found that the effect in CASE-100
+The run of [LEAD-188](../leads.d/LEAD-188.md) ([CASE-tmpktyr7](../cases.d/CASE-tmpktyr7.md)) found that the effect in [CASE-100](../cases.d/CASE-100.md)
 passed through one decision-maker who, the actor says, saw the redub
-online (CLAIM-tmp24fw0). Whether the credit is due to the population's
+online ([CLAIM-tmp24fw0](../claims.d/CLAIM-tmp24fw0.md)). Whether the credit is due to the population's
 circulation or to a short list of identifiable contributors is not
 settled by one case: a model of it favours circulation over a list
 naming the distributors by at most about five to one, and under two once
-the case's fame is allowed for (CLAIM-tmp4ybsw). The two readings are
-filed as alternatives, CLAIM-tmp48sm1 and CLAIM-tmp9av3u. The case also
+the case's fame is allowed for ([CLAIM-tmp4ybsw](../claims.d/CLAIM-tmp4ybsw.md)). The two readings are
+filed as alternatives, [CLAIM-tmp48sm1](../claims.d/CLAIM-tmp48sm1.md) and [CLAIM-tmp9av3u](../claims.d/CLAIM-tmp9av3u.md). The case also
 shows where this question's "biased sample" worry enters an effect:
 the record knows of the case because the video was famous, and allowing
 for that ascertainment takes the observation's factor for circulation

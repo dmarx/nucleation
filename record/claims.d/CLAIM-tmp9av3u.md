@@ -24,15 +24,15 @@ rests_on:
 objects_to:
 - CLAIM-332
 summary: >-
-  Reading B, an alternative to CLAIM-tmp48sm1. The testimony names two
+  Reading B, an alternative to [CLAIM-tmp48sm1](CLAIM-tmp48sm1.md). The testimony names two
   makers who posted the redub, the host sites, and one director who saw it
   and asked for the line at a pickup. Every link is an identifiable
-  contribution; "online" names the place, not a mechanism. CLAIM-tmp4ybsw
+  contribution; "online" names the place, not a mechanism. [CLAIM-tmp4ybsw](CLAIM-tmp4ybsw.md)
   finds that the one observation the case gives scarcely separates
-  circulation from a list naming the distributors, so CLAIM-332's
+  circulation from a list naming the distributors, so [CLAIM-332](CLAIM-332.md)'s
   defeater, the influence disappearing once identifiable creators,
   distributors and decision-makers are modelled, is met as far as this
-  case's evidence reaches. The case then grounds CLAIM-332 no more than a
+  case's evidence reaches. The case then grounds [CLAIM-332](CLAIM-332.md) no more than a
   list would. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -43,27 +43,27 @@ summary: >-
 
 ## The reading
 
-CLAIM-tmp24fw0 gives the route as the production tells it: Ratner saw it
+[CLAIM-tmp24fw0](CLAIM-tmp24fw0.md) gives the route as the production tells it: Ratner saw it
 online and called for it. Reading B lists the contributions: Nazario and
 Hayes made and posted it; YouTube and the other hosts carried it; Ratner
 saw it and decided; Jones spoke it at Elstree. Nothing in the testimony
 needs the pattern of the many sharers to explain the decision: had the
 video reached Ratner by any other link, the explanation would read the
-same. CLAIM-tmp4ybsw shows the case's one observation cannot make the
+same. [CLAIM-tmp4ybsw](CLAIM-tmp4ybsw.md) shows the case's one observation cannot make the
 network model beat a list that names the distributors by more than a
 small factor.
 
 ## What follows
 
-CLAIM-332's defeater says the thesis fails in the cases offered for it
+[CLAIM-332](CLAIM-332.md)'s defeater says the thesis fails in the cases offered for it
 when the influence disappears once identifiable contributions are
 modelled. On the present evidence it does, for its only case. This is
-an undermining of CLAIM-332's ground, not a refutation of the thesis: a
+an undermining of [CLAIM-332](CLAIM-332.md)'s ground, not a refutation of the thesis: a
 case with a measured cross-video pattern could still give it one.
 
 ## Against reading A
 
-CLAIM-tmp48sm1 says the spread is what put the video in front of the
+[CLAIM-tmp48sm1](CLAIM-tmp48sm1.md) says the spread is what put the video in front of the
 director. Reading B answers that this is an inference from what "online"
 usually means, not something any witness says, and that a list which
 names the sites that carried it already credits that reach to

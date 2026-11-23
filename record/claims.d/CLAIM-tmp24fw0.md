@@ -36,7 +36,7 @@ summary: >-
   Elstree for the day and we did that one line" (Yahoo, 2024). The
   co-writer Simon Kinberg, via Polygon, dates it to a reshoot. Nothing
   found from Ratner, an editor, a producer or the studio. The finding
-  replaces "no production testimony gives the route" in CLAIM-332's note of
+  replaces "no production testimony gives the route" in [CLAIM-332](CLAIM-332.md)'s note of
   2026-10-30 with: one production voice gives its last link. The wording
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
@@ -48,18 +48,18 @@ summary: >-
 
 ## The claim
 
-The search of 2026-11-23 (CASE-tmpktyr7) found one production voice on
-the route by which the redub of CASE-100 reached *X-Men: The Last
+The search of 2026-11-23 ([CASE-tmpktyr7](../cases.d/CASE-tmpktyr7.md)) found one production voice on
+the route by which the redub of [CASE-100](../cases.d/CASE-100.md) reached *X-Men: The Last
 Stand*: the actor Vinnie Jones, in two interviews.
 
-- NOTE-tmphwsps (Looper, 2020): "Brett's line"; the director "found that
+- [NOTE-tmphwsps](../notes.d/NOTE-tmphwsps.md) (Looper, 2020): "Brett's line"; the director "found that
   on the internet and wanted to do that".
-- NOTE-tmpurc5c (Yahoo, 2024): "We did the movie in Vancouver and then
+- [NOTE-tmpurc5c](../notes.d/NOTE-tmpurc5c.md) (Yahoo, 2024): "We did the movie in Vancouver and then
   Brett Ratner phoned me and he said, 'oh, I want you to do this line'.
   He'd seen it online, I think, and so he said, 'I want you to do it' so
   we had to go to Elstree for the day and we did that one line."
 
-The co-writer's "that was a reshoot Ratner line" (NOTE-tmpubj66, via
+The co-writer's "that was a reshoot Ratner line" ([NOTE-tmpubj66](../notes.d/NOTE-tmpubj66.md), via
 Polygon) agrees on the timing and gives no source.
 
 ## What it does not say
@@ -69,7 +69,7 @@ Polygon) agrees on the timing and gives no source.
 - How the video reached the director's screen. "Online" is where the
   circulation was; the testimony does not say whether general spread, a
   named site or segment, or a person brought it to him. That is the
-  question CLAIM-tmp48sm1 and CLAIM-tmp9av3u read in two ways.
+  question [CLAIM-tmp48sm1](CLAIM-tmp48sm1.md) and [CLAIM-tmp9av3u](CLAIM-tmp9av3u.md) read in two ways.
 - That nothing else exists. Polygon's interview and The Playlist's 2020
   story were not reached (the session's fetch tool refused one, the other
   returned 403); Ratner may have spoken where the search did not find it.

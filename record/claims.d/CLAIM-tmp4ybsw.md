@@ -33,7 +33,7 @@ bears_on:
 grounds:
 - CASE-tmpktyr7
 summary: >-
-  CLAIM-332's defeater asks whether a circulation-network model adds to
+  [CLAIM-332](CLAIM-332.md)'s defeater asks whether a circulation-network model adds to
   the list of identifiable creators, distributors and decision-makers,
   priced so that the network is not credited for its parameters. In a
   percolation model of fan videos on a heavy-tailed network, with one
@@ -51,7 +51,7 @@ summary: >-
 
 ## The claim
 
-The model and runs are in CASE-tmpktyr7. Three accounts of which video
+The model and runs are in [CASE-tmpktyr7](../cases.d/CASE-tmpktyr7.md). Three accounts of which video
 a decision-maker adopts: M0, a list without distributors (all equally
 likely); MH, a list naming the distributors (weight 1 + κ·hubs reached);
 MC, circulation (weight s^α, s the video's reach). The observation is
@@ -77,10 +77,10 @@ it is confounded with how the case was chosen.
 
 ## Pricing
 
-CLAIM-154's rule is the large-sample form of a Bayes factor; with one
+[CLAIM-154](CLAIM-154.md)'s rule is the large-sample form of a Bayes factor; with one
 observation the exact marginal likelihood is used instead, which is what
 the rule approximates. The circulation model is regular where α = 0
-switches it off, so the narrowing to regular candidates (CLAIM-188) does
+switches it off, so the narrowing to regular candidates ([CLAIM-188](CLAIM-188.md)) does
 not bite. The priors are stated, and a wider prior on α would lower MC's
 marginal likelihood further.
 
@@ -90,6 +90,6 @@ marginal likelihood further.
   carried the video already absorbs most of what reach explains, because
   in a heavy-tailed network the far-reaching videos are the ones the hubs
   carried.
-- What a study of many adoptions would show. The test CLAIM-332 needs is
+- What a study of many adoptions would show. The test [CLAIM-332](CLAIM-332.md) needs is
   cross-case: across many videos, does adoption track reach beyond what
   the named distributors predict?

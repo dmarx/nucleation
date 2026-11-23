@@ -28,7 +28,7 @@ summary: >-
 
 ## Contribution
 
-The fuller form of the co-writer's remark that LIT-1142 quotes in part,
+The fuller form of the co-writer's remark that [LIT-1142](../literature.d/LIT-1142.md) quotes in part,
 with its context: not in the shooting script, added by the director
 after principal photography.
 
@@ -53,7 +53,7 @@ its source. The article's tie to the redub is the journalist's.
 - The writer: "The line was inspired by a parody dub video of the '90s
   X-Men: The Animated series that was created in 2005 by Randy Hayes and
   Xavier Nazario". The redub was conceived in 2005 and posted in
-  February 2006 (CASE-100).
+  February 2006 ([CASE-100](../cases.d/CASE-100.md)).
 
 ## Concepts
 
@@ -61,11 +61,11 @@ None new.
 
 ## Bearing on the record
 
-- **CASE-100.** Confirms the timing at second hand: after principal
+- **[CASE-100](../cases.d/CASE-100.md).** Confirms the timing at second hand: after principal
   photography. Coded F3 (V2, production reported; no route; T1) and F4
-  (V4, writer's attribution to the redub, no route) in LEAD-188's study.
+  (V4, writer's attribution to the redub, no route) in [LEAD-188](../leads.d/LEAD-188.md)'s study.
   Evidence; noted on the case.
-- **NOTE-1272.** Answers half of its open question: what the Polygon
+- **[NOTE-1272](NOTE-1272.md).** Answers half of its open question: what the Polygon
   interview said, as reported. It gives no reason for the line.
 - **No ML instruction.**
 

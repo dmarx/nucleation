@@ -104,16 +104,16 @@ consistent with A7 §4's "passing coalition".
 
 ## Note of 2026-11-23: production testimony on the route
 
-The lead run of 2026-11-23 (CASE-tmpktyr7) searched interviews and
+The lead run of 2026-11-23 ([CASE-tmpktyr7](CASE-tmpktyr7.md)) searched interviews and
 trade press. The strengthener this case asks for, "production
 testimony on the decision", is now in part supplied:
 
-- The actor Vinnie Jones (NOTE-tmphwsps, 2020): the director "found that
+- The actor Vinnie Jones ([NOTE-tmphwsps](../notes.d/NOTE-tmphwsps.md), 2020): the director "found that
   on the internet and wanted to do that".
-- Jones again (NOTE-tmpurc5c, 2024): "Brett Ratner phoned me ... He'd
+- Jones again ([NOTE-tmpurc5c](../notes.d/NOTE-tmpurc5c.md), 2024): "Brett Ratner phoned me ... He'd
   seen it online, I think ... we had to go to Elstree for the day and we
   did that one line."
-- Kinberg via Polygon, as reported (NOTE-tmpubj66): not in the shooting
+- Kinberg via Polygon, as reported ([NOTE-tmpubj66](../notes.d/NOTE-tmpubj66.md)): not in the shooting
   script; "a reshoot Ratner line".
 
 So the line was the director's, added at a one-line pickup after
@@ -121,5 +121,5 @@ principal photography, for a video the actor believes he saw online.
 The borrowing this case's note of 2026-10-29 called very likely now has
 a production witness. What still is not shown is how the video reached
 the director, and so whether circulation, rather than a site or a
-person, carried it (CLAIM-tmp24fw0; two readings, CLAIM-tmp48sm1 and
-CLAIM-tmp9av3u). The case's standing and status are unchanged.
+person, carried it ([CLAIM-tmp24fw0](../claims.d/CLAIM-tmp24fw0.md); two readings, [CLAIM-tmp48sm1](../claims.d/CLAIM-tmp48sm1.md) and
+[CLAIM-tmp9av3u](../claims.d/CLAIM-tmp9av3u.md)). The case's standing and status are unchanged.

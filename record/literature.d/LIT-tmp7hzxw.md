@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 for its passages on the Juggernaut line (NOTE-tmpubj66)
+  read 2026-11-23 for its passages on the Juggernaut line ([NOTE-tmpubj66](../notes.d/NOTE-tmpubj66.md))
   from the article page on comicbookmovie.com; worth reading as the
   report the record can reach of Kinberg's Polygon interview, which the
   session could not fetch: the line was not in the shooting script
@@ -54,16 +54,16 @@ summary: >-
 Cassidy, M. (2023-09-04). ComicBookMovie.com, reporting an interview in
 Polygon.
 
-Read for its passages on the line in NOTE-tmpubj66.
+Read for its passages on the line in [NOTE-tmpubj66](../notes.d/NOTE-tmpubj66.md).
 
 ## Key takeaways
 
 - The co-writer says the line was not in his shooting script and was
   added by the director after principal photography.
-- The article supplies the fuller Kinberg quote that LIT-1142 gives in
+- The article supplies the fuller Kinberg quote that [LIT-1142](LIT-1142.md) gives in
   part.
 
 ## Standing in the record
 
-Registered for LEAD-188. A second-hand report of a production voice;
+Registered for [LEAD-188](../leads.d/LEAD-188.md). A second-hand report of a production voice;
 the Polygon original stays unread.

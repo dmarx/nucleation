@@ -138,22 +138,22 @@ undermined"), a negative instance at best.
 
 ## Note of 2026-11-23: production testimony found, and a network model priced on its one case
 
-From the run of LEAD-188 (CASE-tmpktyr7). The note of 2026-10-30 says
+From the run of [LEAD-188](../leads.d/LEAD-188.md) ([CASE-tmpktyr7](../cases.d/CASE-tmpktyr7.md)). The note of 2026-10-30 says
 no production testimony gives the route by which the parody reached
-the reshoot. One now gives its last link (CLAIM-tmp24fw0): the actor,
+the reshoot. One now gives its last link ([CLAIM-tmp24fw0](CLAIM-tmp24fw0.md)): the actor,
 twice, says the director had seen the redub online and called a one-day
 pickup for the line. It is silent on how the video came to the
 director's screen.
 
 The comparison the defeater names was run on a model of the case
-(CLAIM-tmp4ybsw). The case's one observation favours a circulation
+([CLAIM-tmp4ybsw](CLAIM-tmp4ybsw.md)). The case's one observation favours a circulation
 model over a list naming the distributors by at most about five to one,
 and by under two once the case's fame is allowed for. So the defeater is
 neither met nor discharged by this case, and the threshold the note of
 2026-10-30 says is unset stays a question for a cross-case test.
 
 What the testimony means for this claim is filed as two alternatives:
-CLAIM-tmp48sm1 (the route runs through circulation to one
+[CLAIM-tmp48sm1](CLAIM-tmp48sm1.md) (the route runs through circulation to one
 decision-maker; corroborates this claim weakly; the assistant's lean)
-and CLAIM-tmp9av3u (the route is a list of identifiable contributions;
+and [CLAIM-tmp9av3u](CLAIM-tmp9av3u.md) (the route is a list of identifiable contributions;
 objects to this claim's ground). The status is unchanged.

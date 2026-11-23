@@ -67,14 +67,14 @@ the pickup, and hedged about the source ("I think").
 
 ## Bearing on the record
 
-- **CASE-100.** Fixes the decision's form (one director's request, after
+- **[CASE-100](../cases.d/CASE-100.md).** Fixes the decision's form (one director's request, after
   principal photography, a one-line pickup) and the actor's account of
   its source (online). Consistent with Kinberg's "reshoot Ratner line"
-  (LIT-1142, LIT-tmp7hzxw). Coded F2 in LEAD-188's study (V1, R1, E2
+  ([LIT-1142](../literature.d/LIT-1142.md), [LIT-tmp7hzxw](../literature.d/LIT-tmp7hzxw.md)). Coded F2 in [LEAD-188](../leads.d/LEAD-188.md)'s study (V1, R1, E2
   hedged, T1 after principal photography). Evidence; noted on the case.
-- **CLAIM-332.** As NOTE-tmphwsps: the last link of a route, through a
+- **[CLAIM-332](../claims.d/CLAIM-332.md).** As [NOTE-tmphwsps](NOTE-tmphwsps.md): the last link of a route, through a
   single decision-maker, with the middle (how it came to his screen)
-  left open. Evidence for CLAIM-tmp24fw0 and CASE-tmpktyr7.
+  left open. Evidence for [CLAIM-tmp24fw0](../claims.d/CLAIM-tmp24fw0.md) and [CASE-tmpktyr7](../cases.d/CASE-tmpktyr7.md).
 - **No ML instruction.**
 
 ## Limitations

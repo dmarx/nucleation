@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 for its passages on X-Men: The Last Stand (NOTE-tmpurc5c)
+  read 2026-11-23 for its passages on X-Men: The Last Stand ([NOTE-tmpurc5c](../notes.d/NOTE-tmpurc5c.md))
   from the article page on Yahoo; worth reading as the fuller of two
   first-hand production accounts of how the Juggernaut line was added:
   after the Vancouver shoot Ratner phoned the actor, "He'd seen it online,
@@ -46,7 +46,7 @@ summary: >-
 
 Simons, R. (2024-03-06). Yahoo.
 
-Read for its passages on the film in NOTE-tmpurc5c.
+Read for its passages on the film in [NOTE-tmpurc5c](../notes.d/NOTE-tmpurc5c.md).
 
 ## Key takeaways
 
@@ -56,5 +56,5 @@ Read for its passages on the film in NOTE-tmpurc5c.
 
 ## Standing in the record
 
-Registered for LEAD-188, which asks for production testimony of how
-the fan redub of CASE-100 reached the reshoot. Journalism, not theory.
+Registered for [LEAD-188](../leads.d/LEAD-188.md), which asks for production testimony of how
+the fan redub of [CASE-100](../cases.d/CASE-100.md) reached the reshoot. Journalism, not theory.

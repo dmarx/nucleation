@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 for its passages on X-Men: The Last Stand (NOTE-tmphwsps)
+  read 2026-11-23 for its passages on X-Men: The Last Stand ([NOTE-tmphwsps](../notes.d/NOTE-tmphwsps.md))
   from the article page on looper.com; worth reading as the first of two
   first-hand production accounts of where the Juggernaut line came from:
   the actor calls it "Brett's line" and says the director "found that on
@@ -46,7 +46,7 @@ summary: >-
 
 Lebovitz, D. L. (2020-08-06). Looper.
 
-Read for its passages on the film in NOTE-tmphwsps.
+Read for its passages on the film in [NOTE-tmphwsps](../notes.d/NOTE-tmphwsps.md).
 
 ## Key takeaways
 
@@ -56,5 +56,5 @@ Read for its passages on the film in NOTE-tmphwsps.
 
 ## Standing in the record
 
-Registered for LEAD-188, which asks for production testimony of how
-the fan redub of CASE-100 reached the reshoot. Journalism, not theory.
+Registered for [LEAD-188](../leads.d/LEAD-188.md), which asks for production testimony of how
+the fan redub of [CASE-100](../cases.d/CASE-100.md) reached the reshoot. Journalism, not theory.

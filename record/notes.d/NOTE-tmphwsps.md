@@ -32,7 +32,7 @@ summary: >-
 A first-hand production voice on the Juggernaut line. The actor who
 spoke it attributes it to the director, and says the director took it
 from the internet. Before this the record held only the co-writer's
-"reshoot Ratner line" (LIT-1142, via Polygon), which dates the line
+"reshoot Ratner line" ([LIT-1142](../literature.d/LIT-1142.md), via Polygon), which dates the line
 but gives no source.
 
 ## Key insight
@@ -65,15 +65,15 @@ None new.
 
 ## Bearing on the record
 
-- **CASE-100.** Supplies a production voice on the source of the line,
+- **[CASE-100](../cases.d/CASE-100.md).** Supplies a production voice on the source of the line,
   which the case lacked: the director, from the internet. Coded F1 in
-  LEAD-188's study (V1 production first-hand, R1 a named
+  [LEAD-188](../leads.d/LEAD-188.md)'s study (V1 production first-hand, R1 a named
   decision-maker saw it, E1 asserted, no timing). Evidence; noted on the
   case.
-- **CLAIM-332.** Its note of 2026-10-30 says no production testimony
+- **[CLAIM-332](../claims.d/CLAIM-332.md).** Its note of 2026-10-30 says no production testimony
   gives the route. This gives the last link of one (the director's own
   viewing, online) and is silent on how the video reached his screen.
-  Evidence for CLAIM-tmp24fw0 and the study CASE-tmpktyr7.
+  Evidence for [CLAIM-tmp24fw0](../claims.d/CLAIM-tmp24fw0.md) and the study [CASE-tmpktyr7](../cases.d/CASE-tmpktyr7.md).
 - **No ML instruction.**
 
 ## Limitations

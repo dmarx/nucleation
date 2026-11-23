@@ -28,7 +28,7 @@ reported_in:
 - NOTE-tmpubj66
 - NOTE-1272
 summary: >-
-  LEAD-188 run in two parts. Testimony: a search of interviews and trade
+  [LEAD-188](../leads.d/LEAD-188.md) run in two parts. Testimony: a search of interviews and trade
   press, coded by rules written first, found one production voice on the
   route, the actor Vinnie Jones, twice: the director Brett Ratner "found
   that on the internet" (2020), and phoned him after the Vancouver shoot
@@ -42,7 +42,7 @@ summary: >-
   contributions without distributors by 10 to 32 and over a list that
   names the distributors by 2.3 to 4.7 (exact Bayes factors over stated
   priors, 36 settings); if the case is known partly because the video
-  was famous, by 1.3 to 1.6. The case neither meets CLAIM-332's defeater
+  was famous, by 1.3 to 1.6. The case neither meets [CLAIM-332](../claims.d/CLAIM-332.md)'s defeater
   nor discharges it. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
@@ -53,10 +53,10 @@ summary: >-
 
 ## What was done
 
-LEAD-188 asks for two things on CASE-100: production testimony of how
+[LEAD-188](../leads.d/LEAD-188.md) asks for two things on [CASE-100](CASE-100.md): production testimony of how
 the fan redub reached the reshoot, and a circulation-network model
 compared with the list of identifiable contributions, the comparison
-CLAIM-332's defeater names. Everything is under
+[CLAIM-332](../claims.d/CLAIM-332.md)'s defeater names. Everything is under
 scratch/studies/lead-188/: `CODING.md` (the rules, written before any
 testimony was read), `TESTIMONY.md` (the findings, each with its address
 and the date read), `model.py`, `test_model.py` (8 tests, passing),
@@ -73,17 +73,17 @@ Only V1 with a route counts as production testimony on the route.
 
 | finding | source | voice | route | timing |
 |---|---|---|---|---|
-| Jones: "Brett's line"; the director "found that on the internet and wanted to do that" | NOTE-tmphwsps, 2020 | V1 | R1 | none |
-| Jones: "Brett Ratner phoned me ... He'd seen it online, I think ... we had to go to Elstree for the day and we did that one line" | NOTE-tmpurc5c, 2024 | V1 | R1, hedged | after principal photography |
-| Kinberg via Polygon: "that was a reshoot Ratner line"; not in the shooting script | NOTE-tmpubj66, 2023 | V2 | none | after principal photography |
-| ComicBookMovie's writer: "inspired by a parody dub video" | NOTE-tmpubj66 | V4 | none | none |
+| Jones: "Brett's line"; the director "found that on the internet and wanted to do that" | [NOTE-tmphwsps](../notes.d/NOTE-tmphwsps.md), 2020 | V1 | R1 | none |
+| Jones: "Brett Ratner phoned me ... He'd seen it online, I think ... we had to go to Elstree for the day and we did that one line" | [NOTE-tmpurc5c](../notes.d/NOTE-tmpurc5c.md), 2024 | V1 | R1, hedged | after principal photography |
+| Kinberg via Polygon: "that was a reshoot Ratner line"; not in the shooting script | [NOTE-tmpubj66](../notes.d/NOTE-tmpubj66.md), 2023 | V2 | none | after principal photography |
+| ComicBookMovie's writer: "inspired by a parody dub video" | [NOTE-tmpubj66](../notes.d/NOTE-tmpubj66.md) | V4 | none | none |
 | Ratner on Instagram (2020), on the role, not the line; two 2006 Ratner interviews | TESTIMONY.md, F7 to F9 | V1 | none | none |
 
 Not reached on 2026-11-23: Polygon's Kinberg interview (the session's
 fetch tool refused the host) and The Playlist's 2020 Jones story (HTTP
 403). Neither was worked around. Nothing was found from an editor, a
 producer or the studio, or the television segment Nazario recalls
-(NOTE-1272).
+([NOTE-1272](../notes.d/NOTE-1272.md)).
 
 **What the testimony says.** One production voice gives a route, and it
 is R1: a named decision-maker saw the redub online and asked for the
@@ -92,7 +92,7 @@ photography. No finding codes R2, R3 or R4. The actor is first-hand as to
 the request and the pickup; as to where the director saw it, he reports
 what he was told or supposes ("I think").
 
-**What it leaves open** is the question CLAIM-332 turns on. "Online", in
+**What it leaves open** is the question [CLAIM-332](../claims.d/CLAIM-332.md) turns on. "Online", in
 spring 2006, is where the redub's circulation was. The testimony fixes
 the last link (one director's own viewing) and is silent on how the
 video came to his screen: by its general spread, by a named site or
@@ -112,7 +112,7 @@ One decision-maker adopts one video's line. Three models of which:
 - **MH, the list with identifiable distributors**: weight 1 + κ times the
   number of named distributors the video reached.
 - **MC, circulation**: weight s^α. At α = 0 it is M0, and the model is
-  regular there, which is the condition CLAIM-154 now carries.
+  regular there, which is the condition [CLAIM-154](../claims.d/CLAIM-154.md) now carries.
 
 The case supplies one observation: the adopted line was a video among
 the most circulated (top 1%, from the creators' "in the millions", not
@@ -120,7 +120,7 @@ a measured rank). An ascertainment weight s^γ allows for the case being
 known to the record because the video was famous: the owner chose it as
 a meme everyone knows. Parameters are priced by the exact marginal
 likelihood, α uniform on [0, 2] and κ log-uniform on [10⁻², 10²]. With
-one observation CLAIM-154's large-sample rule does not apply, so the
+one observation [CLAIM-154](../claims.d/CLAIM-154.md)'s large-sample rule does not apply, so the
 exact Bayes factor it approximates is used.
 
 ## The results
@@ -146,21 +146,21 @@ counts for little either way.
 
 ## What it can show, and what it cannot
 
-It shows what CLAIM-332's defeater can be tested on in this case and
+It shows what [CLAIM-332](../claims.d/CLAIM-332.md)'s defeater can be tested on in this case and
 how much the case carries: the defeater compares a network model with a
 list of creators, distributors and decision-makers, and with one adopted
 video the comparison is at most weak. The testimony fills the gap
-CLAIM-332's note of 2026-10-30 names, in part: a production voice now
+[CLAIM-332](../claims.d/CLAIM-332.md)'s note of 2026-10-30 names, in part: a production voice now
 gives the route's last link.
 
 It cannot show that circulation, rather than one site or one person,
 brought the video to the director; or that the spreaders were X-Men fans
-(CLAIM-152's "passing coalition" stands). The model's distributor list
+([CLAIM-152](../claims.d/CLAIM-152.md)'s "passing coalition" stands). The model's distributor list
 counts hubs reached and not their audiences; a list that also recorded
 each named distributor's audience would track circulation more closely
 and could close the remaining gap. The rank of the redub among 2006 fan
-videos is not measured. What the testimony implies for CLAIM-332 admits
-two readings, filed as alternatives: CLAIM-tmp48sm1 (the route runs
-through circulation; the lean) and CLAIM-tmp9av3u (the route is a list
-entry). The findings are CLAIM-tmp24fw0 (the testimony) and
-CLAIM-tmp4ybsw (the model).
+videos is not measured. What the testimony implies for [CLAIM-332](../claims.d/CLAIM-332.md) admits
+two readings, filed as alternatives: [CLAIM-tmp48sm1](../claims.d/CLAIM-tmp48sm1.md) (the route runs
+through circulation; the lean) and [CLAIM-tmp9av3u](../claims.d/CLAIM-tmp9av3u.md) (the route is a list
+entry). The findings are [CLAIM-tmp24fw0](../claims.d/CLAIM-tmp24fw0.md) (the testimony) and
+[CLAIM-tmp4ybsw](../claims.d/CLAIM-tmp4ybsw.md) (the model).
