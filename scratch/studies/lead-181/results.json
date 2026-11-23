@@ -1,0 +1,646 @@
+{
+ "params": {
+  "n_vis": 10,
+  "n_hid": 20,
+  "p_v": 0.3,
+  "B": 10,
+  "T": 20,
+  "q": 0.1,
+  "s": 0.0,
+  "sigma": 0.0,
+  "L": 1,
+  "g": 1,
+  "lam": 1.0,
+  "alpha": 0.1,
+  "mu": 0.5
+ },
+ "settings": {
+  "S1 costly inquiry": {
+   "alpha": 0.1
+  },
+  "S2 costless inquiry and remediation": {
+   "alpha": 0.0
+  },
+  "S3 S1 + surfacing s=0.03": {
+   "alpha": 0.1,
+   "s": 0.03
+  },
+  "S4 S3 + cost of being found out sigma=3": {
+   "alpha": 0.1,
+   "s": 0.03,
+   "sigma": 3.0
+  }
+ },
+ "arms": [
+  [
+   0,
+   0
+  ],
+  [
+   0,
+   2
+  ],
+  [
+   0,
+   4
+  ],
+  [
+   0,
+   6
+  ],
+  [
+   1,
+   0
+  ],
+  [
+   1,
+   2
+  ],
+  [
+   1,
+   4
+  ],
+  [
+   1,
+   6
+  ],
+  [
+   2,
+   0
+  ],
+  [
+   2,
+   2
+  ],
+  [
+   2,
+   4
+  ],
+  [
+   2,
+   6
+  ],
+  [
+   3,
+   0
+  ],
+  [
+   3,
+   2
+  ],
+  [
+   3,
+   4
+  ],
+  [
+   3,
+   6
+  ],
+  [
+   4,
+   0
+  ],
+  [
+   4,
+   2
+  ],
+  [
+   4,
+   4
+  ],
+  [
+   4,
+   6
+  ],
+  [
+   5,
+   0
+  ],
+  [
+   5,
+   2
+  ],
+  [
+   5,
+   4
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   6,
+   0
+  ],
+  [
+   6,
+   2
+  ],
+  [
+   6,
+   4
+  ],
+  [
+   6,
+   6
+  ]
+ ],
+ "reps": 2000,
+ "episodes": 1500,
+ "learners": 16,
+ "results": {
+  "S1 costly inquiry | pen": {
+   "optimal": [
+    0,
+    6
+   ],
+   "optimal_value": 19.68705,
+   "optimal_stats": {
+    "reward": 19.68705,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.0,
+    "true_viol": 6.0825,
+    "recog_viol": 0.0
+   },
+   "tied_a": [
+    0
+   ],
+   "learned_mean_a": 0.12119901636841568,
+   "learned_sd_a": 0.059100703555684066,
+   "learned_hidden_recognized": 0.040255385429120584,
+   "learned_true_viol": 5.850021202673749,
+   "learned_recog_viol": 0.012315578619591042
+  },
+  "S1 costly inquiry | amnesty": {
+   "optimal": [
+    0,
+    6
+   ],
+   "optimal_value": 19.68705,
+   "optimal_stats": {
+    "reward": 19.68705,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.0,
+    "true_viol": 6.0825,
+    "recog_viol": 0.0
+   },
+   "tied_a": [
+    0
+   ],
+   "learned_mean_a": 0.7761876887855176,
+   "learned_sd_a": 0.489238293977339,
+   "learned_hidden_recognized": 0.32921020935771333,
+   "learned_true_viol": 4.136448384479846,
+   "learned_recog_viol": 0.0550962579719048
+  },
+  "S1 costly inquiry | none": {
+   "optimal": [
+    0,
+    0
+   ],
+   "optimal_value": 20.0,
+   "optimal_stats": {
+    "reward": 20.0,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.0,
+    "true_viol": 9.112,
+    "recog_viol": 3.0295
+   },
+   "tied_a": [
+    0
+   ],
+   "learned_mean_a": 0.011262469575313867,
+   "learned_sd_a": 0.0035822450300705094,
+   "learned_hidden_recognized": 0.004168154234318569,
+   "learned_true_viol": 7.384965836236307,
+   "learned_recog_viol": 1.3278082363904893
+  },
+  "S1 costly inquiry | disc": {
+   "optimal": [
+    1,
+    6
+   ],
+   "optimal_value": 20.62,
+   "optimal_stats": {
+    "reward": 20.62,
+    "inquiry": 1.0,
+    "found_frac": 0.8805749999999999,
+    "hidden_recognized": 0.8805749999999999,
+    "true_viol": 0.8145,
+    "recog_viol": 0.078
+   },
+   "tied_a": [
+    1
+   ],
+   "learned_mean_a": 1.5578516395110846,
+   "learned_sd_a": 0.3164905262856142,
+   "learned_hidden_recognized": 0.7334213222685145,
+   "learned_true_viol": 1.715838354477324,
+   "learned_recog_viol": 0.09132203750100851
+  },
+  "S1 costly inquiry | ext": {
+   "optimal": [
+    5,
+    6
+   ],
+   "optimal_value": -5.8362,
+   "optimal_stats": {
+    "reward": -5.8362,
+    "inquiry": 5.0,
+    "found_frac": 1.0,
+    "hidden_recognized": 1.0,
+    "true_viol": 0.0,
+    "recog_viol": 0.0
+   },
+   "tied_a": [
+    5,
+    6
+   ],
+   "learned_mean_a": 4.747829758978555,
+   "learned_sd_a": 0.6666419361802837,
+   "learned_hidden_recognized": 0.9965425024146595,
+   "learned_true_viol": 0.04650503469992466,
+   "learned_recog_viol": 0.02555947573845905
+  },
+  "S2 costless inquiry and remediation | pen": {
+   "optimal": [
+    0,
+    6
+   ],
+   "optimal_value": -0.01,
+   "optimal_stats": {
+    "reward": -0.01,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.0,
+    "true_viol": 6.0825,
+    "recog_viol": 0.0
+   },
+   "tied_a": [
+    0
+   ],
+   "learned_mean_a": 0.9309405432461522,
+   "learned_sd_a": 0.6090449100991885,
+   "learned_hidden_recognized": 0.27530479902763105,
+   "learned_true_viol": 4.457298077094926,
+   "learned_recog_viol": 0.04917678780631823
+  },
+  "S2 costless inquiry and remediation | amnesty": {
+   "optimal": [
+    0,
+    6
+   ],
+   "optimal_value": -0.01,
+   "optimal_stats": {
+    "reward": -0.01,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.0,
+    "true_viol": 6.0825,
+    "recog_viol": 0.0
+   },
+   "tied_a": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "learned_mean_a": 2.905556191715165,
+   "learned_sd_a": 0.4352265325624436,
+   "learned_hidden_recognized": 0.8448851411807023,
+   "learned_true_viol": 1.035722634657539,
+   "learned_recog_viol": 0.09222791324945114
+  },
+  "S2 costless inquiry and remediation | none": {
+   "optimal": [
+    0,
+    0
+   ],
+   "optimal_value": 0.0,
+   "optimal_stats": {
+    "reward": 0.0,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.0,
+    "true_viol": 9.112,
+    "recog_viol": 3.0295
+   },
+   "tied_a": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    3,
+    3,
+    4,
+    4,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    6,
+    6,
+    6,
+    6
+   ],
+   "learned_mean_a": 3.0000000000000004,
+   "learned_sd_a": 0.0,
+   "learned_hidden_recognized": 0.8377999999999997,
+   "learned_true_viol": 3.0293392857142836,
+   "learned_recog_viol": 2.0424107142857135
+  },
+  "S2 costless inquiry and remediation | disc": {
+   "optimal": [
+    4,
+    6
+   ],
+   "optimal_value": 3.90475,
+   "optimal_stats": {
+    "reward": 3.90475,
+    "inquiry": 4.0,
+    "found_frac": 0.999825,
+    "hidden_recognized": 0.999825,
+    "true_viol": 0.001,
+    "recog_viol": 0.0
+   },
+   "tied_a": [
+    3,
+    4
+   ],
+   "learned_mean_a": 3.1181795656347178,
+   "learned_sd_a": 0.4362425146925695,
+   "learned_hidden_recognized": 0.908413365930357,
+   "learned_true_viol": 0.6578742729699851,
+   "learned_recog_viol": 0.10090961229708159
+  },
+  "S2 costless inquiry and remediation | ext": {
+   "optimal": [
+    6,
+    6
+   ],
+   "optimal_value": -13.009,
+   "optimal_stats": {
+    "reward": -13.009,
+    "inquiry": 6.0,
+    "found_frac": 1.0,
+    "hidden_recognized": 1.0,
+    "true_viol": 0.0,
+    "recog_viol": 0.0
+   },
+   "tied_a": [
+    6
+   ],
+   "learned_mean_a": 5.1283054517804905,
+   "learned_sd_a": 0.6743158027122373,
+   "learned_hidden_recognized": 0.997518790662941,
+   "learned_true_viol": 0.034206621031171676,
+   "learned_recog_viol": 0.01915232035228972
+  },
+  "S3 S1 + surfacing s=0.03 | pen": {
+   "optimal": [
+    0,
+    6
+   ],
+   "optimal_value": 16.59665,
+   "optimal_stats": {
+    "reward": 16.59665,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.45885000000000004,
+    "true_viol": 3.3635,
+    "recog_viol": 0.0995
+   },
+   "tied_a": [
+    0
+   ],
+   "learned_mean_a": 0.4613919384379975,
+   "learned_sd_a": 0.38154147255100673,
+   "learned_hidden_recognized": 0.591997949424188,
+   "learned_true_viol": 2.5732142619620104,
+   "learned_recog_viol": 0.10966238789314355
+  },
+  "S3 S1 + surfacing s=0.03 | amnesty": {
+   "optimal": [
+    0,
+    6
+   ],
+   "optimal_value": 19.41515,
+   "optimal_stats": {
+    "reward": 19.41515,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.45885000000000004,
+    "true_viol": 3.3635,
+    "recog_viol": 0.0995
+   },
+   "tied_a": [
+    0
+   ],
+   "learned_mean_a": 0.6865456751504757,
+   "learned_sd_a": 0.43575037795974064,
+   "learned_hidden_recognized": 0.6514563346449732,
+   "learned_true_viol": 2.214398561369974,
+   "learned_recog_viol": 0.10847499043375695
+  },
+  "S3 S1 + surfacing s=0.03 | none": {
+   "optimal": [
+    0,
+    0
+   ],
+   "optimal_value": 20.0,
+   "optimal_stats": {
+    "reward": 20.0,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.45885000000000004,
+    "true_viol": 9.112,
+    "recog_viol": 5.848
+   },
+   "tied_a": [
+    0
+   ],
+   "learned_mean_a": 0.07539736441644947,
+   "learned_sd_a": 0.23935909524457308,
+   "learned_hidden_recognized": 0.4910142986514043,
+   "learned_true_viol": 4.798037971930471,
+   "learned_recog_viol": 1.7271852550882698
+  },
+  "S3 S1 + surfacing s=0.03 | disc": {
+   "optimal": [
+    1,
+    6
+   ],
+   "optimal_value": 18.795699999999997,
+   "optimal_stats": {
+    "reward": 18.795699999999997,
+    "inquiry": 1.0,
+    "found_frac": 0.734825,
+    "hidden_recognized": 0.9350749999999999,
+    "true_viol": 0.4615,
+    "recog_viol": 0.0565
+   },
+   "tied_a": [
+    1
+   ],
+   "learned_mean_a": 1.6073304770261756,
+   "learned_sd_a": 0.3804250100300044,
+   "learned_hidden_recognized": 0.9037450938391598,
+   "learned_true_viol": 0.685963579556043,
+   "learned_recog_viol": 0.09727037029257722
+  },
+  "S3 S1 + surfacing s=0.03 | ext": {
+   "optimal": [
+    5,
+    6
+   ],
+   "optimal_value": -5.1987,
+   "optimal_stats": {
+    "reward": -5.1987,
+    "inquiry": 5.0,
+    "found_frac": 0.95895,
+    "hidden_recognized": 1.0,
+    "true_viol": 0.0,
+    "recog_viol": 0.0
+   },
+   "tied_a": [
+    5
+   ],
+   "learned_mean_a": 4.572688333801629,
+   "learned_sd_a": 0.6886774462617906,
+   "learned_hidden_recognized": 0.9963176382006024,
+   "learned_true_viol": 0.059234213642019015,
+   "learned_recog_viol": 0.036907714569045486
+  },
+  "S4 S3 + cost of being found out sigma=3 | pen": {
+   "optimal": [
+    0,
+    6
+   ],
+   "optimal_value": 8.14115,
+   "optimal_stats": {
+    "reward": 8.14115,
+    "inquiry": 0.0,
+    "found_frac": 0.0,
+    "hidden_recognized": 0.45885000000000004,
+    "true_viol": 3.3635,
+    "recog_viol": 0.0995
+   },
+   "tied_a": [
+    0
+   ],
+   "learned_mean_a": 1.4579015376380682,
+   "learned_sd_a": 0.30612965425743277,
+   "learned_hidden_recognized": 0.8287223123200261,
+   "learned_true_viol": 1.1509799511666883,
+   "learned_recog_viol": 0.11177589620237223
+  },
+  "S4 S3 + cost of being found out sigma=3 | amnesty": {
+   "optimal": [
+    1,
+    6
+   ],
+   "optimal_value": 13.412450000000003,
+   "optimal_stats": {
+    "reward": 13.412450000000003,
+    "inquiry": 1.0,
+    "found_frac": 0.734825,
+    "hidden_recognized": 0.9350749999999999,
+    "true_viol": 0.4615,
+    "recog_viol": 0.0565
+   },
+   "tied_a": [
+    1
+   ],
+   "learned_mean_a": 1.8106976103286854,
+   "learned_sd_a": 0.4374264703960462,
+   "learned_hidden_recognized": 0.9069923452804546,
+   "learned_true_viol": 0.6731059380777988,
+   "learned_recog_viol": 0.10526194905679712
+  },
+  "S4 S3 + cost of being found out sigma=3 | none": {
+   "optimal": [
+    1,
+    0
+   ],
+   "optimal_value": 14.2875,
+   "optimal_stats": {
+    "reward": 14.2875,
+    "inquiry": 1.0,
+    "found_frac": 0.734825,
+    "hidden_recognized": 0.9350749999999999,
+    "true_viol": 9.112,
+    "recog_viol": 8.707
+   },
+   "tied_a": [
+    1
+   ],
+   "learned_mean_a": 1.184286522023245,
+   "learned_sd_a": 0.3393629166352053,
+   "learned_hidden_recognized": 0.9436254069160661,
+   "learned_true_viol": 5.320890123165969,
+   "learned_recog_viol": 4.969769127916139
+  },
+  "S4 S3 + cost of being found out sigma=3 | disc": {
+   "optimal": [
+    2,
+    6
+   ],
+   "optimal_value": 15.691900000000006,
+   "optimal_stats": {
+    "reward": 15.691900000000006,
+    "inquiry": 2.0,
+    "found_frac": 0.8774249999999999,
+    "hidden_recognized": 0.9927249999999999,
+    "true_viol": 0.0585,
+    "recog_viol": 0.0145
+   },
+   "tied_a": [
+    2
+   ],
+   "learned_mean_a": 2.306057253207264,
+   "learned_sd_a": 0.5303742446852941,
+   "learned_hidden_recognized": 0.9488490313578264,
+   "learned_true_viol": 0.4036893125949362,
+   "learned_recog_viol": 0.09039826485891721
+  },
+  "S4 S3 + cost of being found out sigma=3 | ext": {
+   "optimal": [
+    5,
+    6
+   ],
+   "optimal_value": -5.941200000000001,
+   "optimal_stats": {
+    "reward": -5.941200000000001,
+    "inquiry": 5.0,
+    "found_frac": 0.95895,
+    "hidden_recognized": 1.0,
+    "true_viol": 0.0,
+    "recog_viol": 0.0
+   },
+   "tied_a": [
+    5
+   ],
+   "learned_mean_a": 4.533797761324838,
+   "learned_sd_a": 0.6994292353041083,
+   "learned_hidden_recognized": 0.9969824995004877,
+   "learned_true_viol": 0.05149739604978627,
+   "learned_recog_viol": 0.03324192340021355
+  }
+ }
+}
