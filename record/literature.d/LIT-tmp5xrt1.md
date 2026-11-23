@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpbx1r1) in full, for the study of contested and
-  accepted open-source successions filed as CASE-tmpntt8e; a dated primary
+  read 2026-11-23 ([NOTE-tmpbx1r1](../notes.d/NOTE-tmpbx1r1.md)) in full, for the study of contested and
+  accepted open-source successions filed as [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md); a dated primary
   document coded there as data.
 title: 'Replace Redis With Valkey'
 version: 1
@@ -29,7 +29,7 @@ keywords:
 - 'obsoletes'
 implementations: []
 summary: >-
-  Fedora's decision to obsolete Redis for Valkey, with its stated reason. Read in NOTE-tmpbx1r1; coded as data in CASE-tmpntt8e.
+  Fedora's decision to obsolete Redis for Valkey, with its stated reason. Read in [NOTE-tmpbx1r1](../notes.d/NOTE-tmpbx1r1.md); coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this document -->
 
@@ -46,4 +46,4 @@ Wright (2024): https://fedoraproject.org/wiki/Changes/Replace_Redis_With_Valkey
 ## Standing in the record
 
 A primary document, not an account: the record uses it for what it says
-and when, coded in CASE-tmpntt8e. No THEORY is filed from it.
+and when, coded in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md). No THEORY is filed from it.

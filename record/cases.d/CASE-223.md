@@ -215,7 +215,7 @@ arms are not matched, and no measure has been taken.
 ## Note of 2026-11-23: run on public records
 
 <!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmp79lxm — new, Proposed; the run and the claim on the key measure -->
-Run as CASE-tmpntt8e on eleven cases of this study's list and the lead's
+Run as [CASE-tmpntt8e](CASE-tmpntt8e.md) on eleven cases of this study's list and the lead's
 brief; GIMP and SourceForge and `data.table` were excluded before coding,
 for the reasons this study's own text gives. Of the facts to check:
 RethinkDB's first community release was 2.3.6 on July 17, 2017, so A36's
@@ -225,5 +225,5 @@ purchase was February 6, 2017; Valkey was formed on March 28, 2024 to
 the AGPLv3 on May 1, 2025; the freenode resignations and Libera Chat date
 from May 19, 2021. Not checked: the FSFE's move, Libera's figures of June
 30, and the Foster and Germonprez, Percona and `data.table` figures. The
-key measure came out unbounded in most cases (CLAIM-tmp79lxm). This
+key measure came out unbounded in most cases ([CLAIM-tmp79lxm](../claims.d/CLAIM-tmp79lxm.md)). This
 proposed study keeps its standing; the run is its own entry.

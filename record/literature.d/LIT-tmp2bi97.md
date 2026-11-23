@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpo8u7u) in full, for the study of contested and
-  accepted open-source successions filed as CASE-tmpntt8e; a dated primary
+  read 2026-11-23 ([NOTE-tmpo8u7u](../notes.d/NOTE-tmpo8u7u.md)) in full, for the study of contested and
+  accepted open-source successions filed as [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md); a dated primary
   document coded there as data.
 title: 'SourceHut is leaving Freenode'
 version: 1
@@ -28,7 +28,7 @@ keywords:
 - 'hostile takeover'
 implementations: []
 summary: >-
-  A project's statement that freenode's new leaders are illegitimate, made in the post announcing its own move to Libera Chat the same day. Read in NOTE-tmpo8u7u; coded as data in CASE-tmpntt8e.
+  A project's statement that freenode's new leaders are illegitimate, made in the post announcing its own move to Libera Chat the same day. Read in [NOTE-tmpo8u7u](../notes.d/NOTE-tmpo8u7u.md); coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this document -->
 
@@ -45,4 +45,4 @@ DeVault (2021): https://sourcehut.org/blog/2021-05-19-liberachat/
 ## Standing in the record
 
 A primary document, not an account: the record uses it for what it says
-and when, coded in CASE-tmpntt8e. No THEORY is filed from it.
+and when, coded in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md). No THEORY is filed from it.

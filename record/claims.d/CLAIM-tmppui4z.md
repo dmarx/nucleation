@@ -26,15 +26,15 @@ complements:
 bears_on:
 - QUESTION-118
 summary: >-
-  The alternative reading of CLAIM-tmpc47v8's finding, from the same run
-  (CASE-tmpntt8e). Where CLAIM-tmpc47v8 reads the absence of independent
+  The alternative reading of [CLAIM-tmpc47v8](CLAIM-tmpc47v8.md)'s finding, from the same run
+  ([CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md)). Where [CLAIM-tmpc47v8](CLAIM-tmpc47v8.md) reads the absence of independent
   verdicts apart from moves as a limit of the evidence, this reads it as
   how such verdicts are given: SourceHut's rejection of freenode's new
   leaders is the post that moves its channels, and Fedora's verdict on
-  MySQL is its replacement of it. If so, CLAIM-617's causal question
+  MySQL is its replacement of it. If so, [CLAIM-617](CLAIM-617.md)'s causal question
   (does the verdict cause the move?) is ill-posed in the cases where the
   two are one act, and its constitutive gloss is the right one. The
-  assistant leans to CLAIM-tmpc47v8; the owner chooses. The wording is the
+  assistant leans to [CLAIM-tmpc47v8](CLAIM-tmpc47v8.md); the owner chooses. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e CLAIM-tmpc47v8 — new, Proposed; the study and the reading this is the alternative to -->

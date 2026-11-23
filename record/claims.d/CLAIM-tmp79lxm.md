@@ -23,15 +23,15 @@ grounds:
 bears_on:
 - QUESTION-118
 summary: >-
-  From the run of CASE-223's design on public records (CASE-tmpntt8e),
-  on the measure CASE-223 called key: "the delay between a loss of
+  From the run of [CASE-223](../cases.d/CASE-223.md)'s design on public records ([CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md)),
+  on the measure [CASE-223](../cases.d/CASE-223.md) called key: "the delay between a loss of
   recognized legitimacy and a loss of productive capability". Hudson, whose
   creator and community left, was declared unmaintained by its own later
   steward on or before 2017-05-11, 2,294 days after the vote. The other
   originals still release, from 970 days (Redis) to 6,234 days (MySQL)
   after the successor appeared, among them the four whose stewards pay
   their own teams (MySQL, Redis, Terraform, Gitea) and Apache OpenOffice. The lag is unbounded
-  where the steward pays the producers, which is CLAIM-521's hidden
+  where the steward pays the producers, which is [CLAIM-521](CLAIM-521.md)'s hidden
   fragility the other way about: not capability outlasting legitimacy
   until it fails, but capability that does not depend on it. The wording
   is the assistant's (Claude, in this session); adopting it is the owner's

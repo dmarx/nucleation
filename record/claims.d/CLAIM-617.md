@@ -100,13 +100,13 @@ The claim is causal, and its ground [CASE-223](../cases.d/CASE-223.md) is a prop
 ## Note of 2026-11-23: the study run on public records
 
 <!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmpc47v8 CLAIM-tmppui4z — new, Proposed; the run and its two readings -->
-CASE-tmpntt8e ran the study on public records. Its result on this claim
+[CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md) ran the study on public records. Its result on this claim
 is neutral: the records cannot time verdicts apart from migration,
 because independent verdicts appear in them only as the stated reasons for
-the speaker's own move (CLAIM-tmpc47v8). One instance bears on the
+the speaker's own move ([CLAIM-tmpc47v8](CLAIM-tmpc47v8.md)). One instance bears on the
 defeat condition's rival: Fedora replaced Redis with Valkey for the
 licence alone, a migration with no verdict on identity expressed. An
-alternative reading of the result (CLAIM-tmppui4z) takes the one-act
+alternative reading of the result ([CLAIM-tmppui4z](CLAIM-tmppui4z.md)) takes the one-act
 pattern to favour this claim's constitutive gloss, "Through coordinated
 participation, it can help constitute a new one", over its causal title.
 What holds it back is unchanged in kind: the survey arm is unrun.

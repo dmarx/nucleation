@@ -12,7 +12,7 @@ history:
     same day.
 date: '2026-11-23'
 summary: >-
-  Fedora's decision to obsolete Redis for Valkey, with its stated reason. Coded as data in CASE-tmpntt8e.
+  Fedora's decision to obsolete Redis for Valkey, with its stated reason. Coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this reading -->
 <!-- inactive-ok-file: CLAIM-617 — Proposed; the claim whose rival this reading instances -->
@@ -40,7 +40,7 @@ The continuation of a project apart from its name and steward.
 
 ## Bearing on the record
 
-The one independent statement in the study that came before the speaker's move (the proposal of April 17, 2024, then the decision of June 3), and its only stated reason is the licence: a migration that needs no verdict on which line is Redis. It is, in a single instance, the cost-and-policy rival that CLAIM-617's defeat condition names.
+The one independent statement in the study that came before the speaker's move (the proposal of April 17, 2024, then the decision of June 3), and its only stated reason is the licence: a migration that needs no verdict on which line is Redis. It is, in a single instance, the cost-and-policy rival that [CLAIM-617](../claims.d/CLAIM-617.md)'s defeat condition names.
 
 ## Limitations
 

@@ -132,11 +132,11 @@ A, at A36 of the exchange "Individuation, Possibility, and Disposition" (2026-11
 ## Note of 2026-11-23: plural succession at a change of steward, coded
 
 <!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmpqpfvh — new, Proposed; the run and the claim filed from it -->
-CASE-tmpntt8e, which illustrates this claim, coded two contested
+[CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md), which illustrates this claim, coded two contested
 open-source successions in which recognition split: MySQL and MariaDB,
 Redis and Valkey. In each the name and a steward-employed team stayed with
 one line, and part of the core maintainers and some independent
 downstreams (Fedora, Wikimedia) went with the other. These are successors
 in different respects at a change of steward, now documented, of the kind
 this claim's note of 2026-11-07 took from A36 unverified; neither line is
-coded as the project persisting (CLAIM-tmpqpfvh).
+coded as the project persisting ([CLAIM-tmpqpfvh](CLAIM-tmpqpfvh.md)).

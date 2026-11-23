@@ -34,7 +34,7 @@ reported_in:
 - NOTE-tmpbx1r1
 - NOTE-tmp07kxd
 summary: >-
-  CASE-223's design run on public records: eleven cases from the record's
+  [CASE-223](CASE-223.md)'s design run on public records: eleven cases from the record's
   own list and the lead's brief (eight contested, two accepted, one
   unclassified), coded by rules written before the table, with 51 dated
   events each read from its source on 2026-11-23. The earliest outside
@@ -52,7 +52,7 @@ summary: >-
   successor took the original's name except io.js, by reunion. Only
   Hudson's line stopped producing, 2,294 days or fewer after the vote; the
   other originals still release. The public records cannot time verdicts
-  apart from migration, which is ARG-067's critical question. The wording
+  apart from migration, which is [ARG-067](../arguments.d/ARG-067.md)'s critical question. The wording
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---

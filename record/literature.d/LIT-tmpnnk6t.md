@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmp576vq) in full, for the study of contested and
-  accepted open-source successions filed as CASE-tmpntt8e; a dated primary
+  read 2026-11-23 ([NOTE-tmp576vq](../notes.d/NOTE-tmp576vq.md)) in full, for the study of contested and
+  accepted open-source successions filed as [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md); a dated primary
   document coded there as data.
 title: 'Replace MySQL with MariaDB'
 version: 1
@@ -29,7 +29,7 @@ keywords:
 - 'obsoletes'
 implementations: []
 summary: >-
-  Fedora's decision to make MariaDB the default in place of MySQL, with its stated reasons. Read in NOTE-tmp576vq; coded as data in CASE-tmpntt8e.
+  Fedora's decision to make MariaDB the default in place of MySQL, with its stated reasons. Read in [NOTE-tmp576vq](../notes.d/NOTE-tmp576vq.md); coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this document -->
 
@@ -47,4 +47,4 @@ Horak (2013): https://fedoraproject.org/wiki/Features/ReplaceMySQLwithMariaDB
 ## Standing in the record
 
 A primary document, not an account: the record uses it for what it says
-and when, coded in CASE-tmpntt8e. No THEORY is filed from it.
+and when, coded in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md). No THEORY is filed from it.

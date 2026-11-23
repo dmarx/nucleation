@@ -27,7 +27,7 @@ corroborates:
 bears_on:
 - QUESTION-118
 summary: >-
-  From the run of CASE-223's design on public records (CASE-tmpntt8e).
+  From the run of [CASE-223](../cases.d/CASE-223.md)'s design on public records ([CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md)).
   Where the maintainers moved wholesale, the successor became the
   recognized line: Hudson's later steward wrote that "Jenkins is the
   replacement for it", and freenode was abandoned for Libera Chat by
@@ -36,7 +36,7 @@ summary: >-
   Valkey) or went to the successor (OpenOffice.org, whose name passed to
   Apache). The name went with the successor only when io.js and Node.js
   reunited under Node.js on io.js's code. Two cases in the "moved
-  wholesale" row; the pattern is CLAIM-329's criterion as the community
+  wholesale" row; the pattern is [CLAIM-329](CLAIM-329.md)'s criterion as the community
   applied it. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---

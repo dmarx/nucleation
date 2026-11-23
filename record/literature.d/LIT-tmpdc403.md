@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmp07kxd) in full, for the study of contested and
-  accepted open-source successions filed as CASE-tmpntt8e; a dated primary
+  read 2026-11-23 ([NOTE-tmp07kxd](../notes.d/NOTE-tmp07kxd.md)) in full, for the study of contested and
+  accepted open-source successions filed as [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md); a dated primary
   document coded there as data.
 title: 'Jenkins (Eclipse wiki)'
 version: 1
@@ -29,7 +29,7 @@ keywords:
 - 'JIPP'
 implementations: []
 summary: >-
-  The Eclipse Foundation's infrastructure page on its move from Hudson instances to Jenkins instances. Read in NOTE-tmp07kxd; coded as data in CASE-tmpntt8e.
+  The Eclipse Foundation's infrastructure page on its move from Hudson instances to Jenkins instances. Read in [NOTE-tmp07kxd](../notes.d/NOTE-tmp07kxd.md); coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this document -->
 
@@ -44,4 +44,4 @@ Eclipse Foundation (2017): https://wiki.eclipse.org/Jenkins
 ## Standing in the record
 
 A primary document, not an account: the record uses it for what it says
-and when, coded in CASE-tmpntt8e. No THEORY is filed from it.
+and when, coded in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md). No THEORY is filed from it.

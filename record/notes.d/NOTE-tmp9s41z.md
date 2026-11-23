@@ -12,7 +12,7 @@ history:
     same day.
 date: '2026-11-23'
 summary: >-
-  The founders' announcement of The Document Foundation and LibreOffice, with the endorsements of named outside organizations printed in it. Coded as data in CASE-tmpntt8e.
+  The founders' announcement of The Document Foundation and LibreOffice, with the endorsements of named outside organizations printed in it. Coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this reading -->
 

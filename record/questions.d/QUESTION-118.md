@@ -297,12 +297,12 @@ causally continuous ([CLAIM-tmpqr0tn](../claims.d/CLAIM-tmpqr0tn.md), Proposed).
 ## Note of 2026-11-23: open-source successions, coded
 
 <!-- inactive-ok-block: CASE-tmpntt8e CLAIM-tmpc47v8 CLAIM-tmppui4z CLAIM-tmpqpfvh CLAIM-tmp79lxm — new, Proposed; the run and the claims filed from it -->
-CASE-tmpntt8e coded eight contested open-source successions. The
+[CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md) coded eight contested open-source successions. The
 community's recognition followed the maintainers, not the name, where the
 maintainers moved wholesale, and split where part of them moved
-(CLAIM-tmpqpfvh); an original line kept producing while its steward paid
-its producers (CLAIM-tmp79lxm). That is which successor participants treat
+([CLAIM-tmpqpfvh](../claims.d/CLAIM-tmpqpfvh.md)); an original line kept producing while its steward paid
+its producers ([CLAIM-tmp79lxm](../claims.d/CLAIM-tmp79lxm.md)). That is which successor participants treat
 as continuing the project, not which, if any, is its persistence. The
 public records could not time participants' verdicts apart from their
-moves (CLAIM-tmpc47v8, with its alternative CLAIM-tmppui4z). The question
+moves ([CLAIM-tmpc47v8](../claims.d/CLAIM-tmpc47v8.md), with its alternative [CLAIM-tmppui4z](../claims.d/CLAIM-tmppui4z.md)). The question
 is unchanged and stays Open.

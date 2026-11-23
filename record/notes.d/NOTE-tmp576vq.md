@@ -12,7 +12,7 @@ history:
     same day.
 date: '2026-11-23'
 summary: >-
-  Fedora's decision to make MariaDB the default in place of MySQL, with its stated reasons. Coded as data in CASE-tmpntt8e.
+  Fedora's decision to make MariaDB the default in place of MySQL, with its stated reasons. Coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this reading -->
 

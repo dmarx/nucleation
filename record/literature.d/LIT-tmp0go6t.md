@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmp9s41z) in full, for the study of contested and
-  accepted open-source successions filed as CASE-tmpntt8e; a dated primary
+  read 2026-11-23 ([NOTE-tmp9s41z](../notes.d/NOTE-tmp9s41z.md)) in full, for the study of contested and
+  accepted open-source successions filed as [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md); a dated primary
   document coded there as data.
 title: 'OpenOffice.org Community announces The Document Foundation'
 version: 1
@@ -29,7 +29,7 @@ keywords:
 - 'Oracle'
 implementations: []
 summary: >-
-  The founders' announcement of The Document Foundation and LibreOffice, with the endorsements of named outside organizations printed in it. Read in NOTE-tmp9s41z; coded as data in CASE-tmpntt8e.
+  The founders' announcement of The Document Foundation and LibreOffice, with the endorsements of named outside organizations printed in it. Read in [NOTE-tmp9s41z](../notes.d/NOTE-tmp9s41z.md); coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this document -->
 
@@ -46,4 +46,4 @@ The Document Foundation (2010): https://lwn.net/Articles/407383/
 ## Standing in the record
 
 A primary document, not an account: the record uses it for what it says
-and when, coded in CASE-tmpntt8e. No THEORY is filed from it.
+and when, coded in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md). No THEORY is filed from it.

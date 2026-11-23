@@ -12,7 +12,7 @@ history:
     same day.
 date: '2026-11-23'
 summary: >-
-  The Eclipse Foundation's infrastructure page on its move from Hudson instances to Jenkins instances. Coded as data in CASE-tmpntt8e.
+  The Eclipse Foundation's infrastructure page on its move from Hudson instances to Jenkins instances. Coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this reading -->
 

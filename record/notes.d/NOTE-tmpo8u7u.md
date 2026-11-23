@@ -12,7 +12,7 @@ history:
     same day.
 date: '2026-11-23'
 summary: >-
-  A project's statement that freenode's new leaders are illegitimate, made in the post announcing its own move to Libera Chat the same day. Coded as data in CASE-tmpntt8e.
+  A project's statement that freenode's new leaders are illegitimate, made in the post announcing its own move to Libera Chat the same day. Coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this reading -->
 
@@ -39,7 +39,7 @@ The continuation of a project apart from its name and steward.
 
 ## Bearing on the record
 
-The study's first independent response in the freenode case: an identity verdict by a party outside the founders, on the day of the succession, and made in the same act as the speaker's own move. It names the producers' move ("following them") as its reason, which is CLAIM-329's criterion stated by a participant.
+The study's first independent response in the freenode case: an identity verdict by a party outside the founders, on the day of the succession, and made in the same act as the speaker's own move. It names the producers' move ("following them") as its reason, which is [CLAIM-329](../claims.d/CLAIM-329.md)'s criterion stated by a participant.
 
 ## Limitations
 

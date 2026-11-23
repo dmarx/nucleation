@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpdszyn) in full, for the study of contested and
-  accepted open-source successions filed as CASE-tmpntt8e; a dated primary
+  read 2026-11-23 ([NOTE-tmpdszyn](../notes.d/NOTE-tmpdszyn.md)) in full, for the study of contested and
+  accepted open-source successions filed as [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md); a dated primary
   document coded there as data.
 title: 'Jenkins!'
 version: 1
@@ -29,7 +29,7 @@ keywords:
 - 'governance'
 implementations: []
 summary: >-
-  The result of the Hudson community's vote to rename the project Jenkins, and the plan to move its infrastructure. Read in NOTE-tmpdszyn; coded as data in CASE-tmpntt8e.
+  The result of the Hudson community's vote to rename the project Jenkins, and the plan to move its infrastructure. Read in [NOTE-tmpdszyn](../notes.d/NOTE-tmpdszyn.md); coded as data in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md).
 ---
 <!-- inactive-ok-file: CASE-tmpntt8e — new, Proposed; the study that codes this document -->
 
@@ -46,4 +46,4 @@ Bayer (2011): https://www.jenkins.io/blog/2011/01/29/jenkins/
 ## Standing in the record
 
 A primary document, not an account: the record uses it for what it says
-and when, coded in CASE-tmpntt8e. No THEORY is filed from it.
+and when, coded in [CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md). No THEORY is filed from it.

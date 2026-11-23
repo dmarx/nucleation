@@ -26,7 +26,7 @@ grounds:
 bears_on:
 - QUESTION-118
 summary: >-
-  From the run of CASE-223's design on public records (CASE-tmpntt8e). In
+  From the run of [CASE-223](../cases.d/CASE-223.md)'s design on public records ([CASE-tmpntt8e](../cases.d/CASE-tmpntt8e.md)). In
   eight contested successions, the earliest outside verdicts were printed
   in the founders' own announcements or were a foundation's taking the
   successor in. An organization independent of the founders responded in
@@ -36,7 +36,7 @@ summary: >-
   (replacing Redis) gave only the licence. The one verdict before the move
   it decided, the Hudson rename vote, was the movers'. This is the reading
   that the result is a limit of the evidence; the reading that it is a
-  finding about verdicts is CLAIM-tmppui4z, its alternative, and the
+  finding about verdicts is [CLAIM-tmppui4z](CLAIM-tmppui4z.md), its alternative, and the
   assistant leans to this one. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
