@@ -223,10 +223,10 @@ claim.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-710 TERM-125 CASE-316 — Proposed; the sense this waits on -->
+<!-- inactive-ok-block: TERM-125 — Proposed; the sense this waits on -->
 Whether its counterexample removes friction or relocates it, the first
 clause of its defeated_if, turns on whether an independent execution gate is
-procedural friction in CLAIM-710's sense, which TERM-125 leaves open and
-CLAIM-710's note of 2026-11-22 on CASE-316 leaves to the owner. Promoting it
-would also make its concession due on CLAIM-710, the owner's own claim, so
+procedural friction in [CLAIM-710](CLAIM-710.md)'s sense, which [TERM-125](../terms.d/TERM-125.md) leaves open and
+[CLAIM-710](CLAIM-710.md)'s note of 2026-11-22 on [CASE-316](../cases.d/CASE-316.md) leaves to the owner. Promoting it
+would also make its concession due on [CLAIM-710](CLAIM-710.md), the owner's own claim, so
 the sense must be settled first.

@@ -32,7 +32,7 @@ summary: >-
   state of flow is shown by coordination. The wording is A's (ChatGPT, in
   the exchange of 2026-11-22); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-162 ARG-016 ARG-tmpymz1j CLAIM-872 CLAIM-tmpmk036 — Proposed; the premise, its open objection, the argument filed beside this claim and neighbours -->
+<!-- inactive-ok-file: CLAIM-162 ARG-016 ARG-tmpymz1j CLAIM-872 — Proposed; the premise, its open objection, the argument filed beside this claim and neighbours -->
 
 # CLAIM-tmpywoih: A governed record can bring a contributor's immediate reward in producing an idea closer to the longer-run value of a coherent inquiry, by making that structure consequential at the moment of contribution, and so supply, on the record's flow conjecture, a condition for flow in collaborative inquiry; the same record widens the gap when filing is tedious or its grammar distorts the idea
 
@@ -74,9 +74,9 @@ experience-sampling evidence bears on flow and affect, not on this.
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-162 CLAIM-169 THEORY-070 LEAD-tmponn7c — Proposed; what holds it -->
-Its premise CLAIM-162 is Proposed: CLAIM-169 and THEORY-070 are not held,
+<!-- inactive-ok-block: CLAIM-169 THEORY-070 — Proposed; what holds it -->
+Its premise [CLAIM-162](CLAIM-162.md) is Proposed: [CLAIM-169](CLAIM-169.md) and [THEORY-070](../theory.d/THEORY-070.md) are not held,
 and no choice probe within a flow episode is in the record. Its own first
 clause, that a governed record narrows the gap between a contribution's
 immediate reward and the inquiry's longer-run value, has no measure in the
-record; LEAD-tmponn7c would supply one.
+record; [LEAD-tmponn7c](../leads.d/LEAD-tmponn7c.md) would supply one.

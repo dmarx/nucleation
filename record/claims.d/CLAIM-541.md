@@ -125,7 +125,7 @@ The assistant, answering the owner's "relate the conversation to wuwei" (2026-11
 [LEAD-tmpsyfgj](../leads.d/LEAD-tmpsyfgj.md) would read a neighbour of the unavailable [LIT-1994](../literature.d/LIT-1994.md) to check
 these readings.
 
-<!-- inactive-ok-file: CLAIM-tmpwjpc8 CLAIM-tmpcbdgm — Proposed; the owner's ruling and the reading filed with it, 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpcbdgm — Proposed; the owner's ruling and the reading filed with it, 2026-11-23 -->
 
 ## Note of 2026-11-23: the owner's ruling on precedence
 
@@ -138,12 +138,11 @@ feedback limit that keeps it from being mere prediction ([CLAIM-tmpcbdgm](CLAIM-
 
 ## Note of 2026-11-23: what holds it back
 
-<!-- inactive-ok-block: CLAIM-711 LIT-1997 LIT-1972 — Proposed or Unavailable; the moves checked -->
-Checked after the owner's ruling (CLAIM-tmpwjpc8) and CLAIM-711's revision:
-the sinological half of the wait of 2026-11-06 is over, and CLAIM-711's slow
+Checked after the owner's ruling ([CLAIM-tmpwjpc8](CLAIM-tmpwjpc8.md)) and [CLAIM-711](CLAIM-711.md)'s revision:
+the sinological half of the wait of 2026-11-06 is over, and [CLAIM-711](CLAIM-711.md)'s slow
 commitment is a further shape the title's "at least three" allows. What
 remains is its formal instance: no reading or demonstration of Ott, Grebogi
-and Yorke's control is in the record (LIT-1997 and LIT-1972 are
+and Yorke's control is in the record ([LIT-1997](../literature.d/LIT-1997.md) and [LIT-1972](../literature.d/LIT-1972.md) are
 Unavailable). A reading, or a checked simulation in scratch/ showing small
 parameter perturbations holding an unstable orbit of, say, the Hénon map,
 with the orbit lost once control stops, would let the ruling be made.

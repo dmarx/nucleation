@@ -65,7 +65,7 @@ in it." A memory that keeps of the current input only what carries over to the
 next has no nostalgia, so it wastes nothing at the switch (the nostalgia is
 nonnegative under a Markov drive, and summed it bounds dissipation from
 below when each kernel keeps its equilibrium stationary). That is not the
-same as holding the drive's causal states (TERM-062): they are prescient
+same as holding the drive's causal states ([TERM-062](../terms.d/TERM-062.md)): they are prescient
 for the whole future, yet where the next input does not fix the current
 causal state they keep what it does not carry, and pay for it. For a
 two-state Markov drive with transition rows (0.9, 0.1) and (0.2, 0.8) the
@@ -108,6 +108,6 @@ a derivation.
 The causal-state clause was shown false at this review and corrected the
 same day (version 2): a two-state Markov drive with rows (0.9, 0.1) and
 (0.2, 0.8) keeps about 0.38 nats it does not carry to the next input. The
-corrected reading, and the bound it states from THEORY-026 for kernels that
+corrected reading, and the bound it states from [THEORY-026](../theory.d/THEORY-026.md) for kernels that
 keep their equilibrium stationary, want a checked re-derivation in scratch/
 before the ruling is made; nothing else holds it back.
