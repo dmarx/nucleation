@@ -31,12 +31,12 @@ summary: 'The owner''s, 2026-11-23, in this session: "The governance experiments
   itself depends not simply on having critics or feedback, but on how evidence,
   evaluation, and authority are coupled—and what the system is prevented from
   rewriting or rejecting." The owner gives four constructions as instances:
-  LEAD-177''s beacon, LEAD-015''s captured evaluator, LEAD-190''s relevance-scored
-  critics and LEAD-180''s identifiability limit. All four are Proposed. The
+  [LEAD-177](../leads.d/LEAD-177.md)''s beacon, [LEAD-015](../leads.d/LEAD-015.md)''s captured evaluator, [LEAD-190](../leads.d/LEAD-190.md)''s relevance-scored
+  critics and [LEAD-180](../leads.d/LEAD-180.md)''s identifiability limit. All four are Proposed. The
   owner''s.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp5wozo CLAIM-tmpvqmwc CLAIM-tmpw11e6 CLAIM-tmpxoxys CLAIM-tmpz8q70 LEAD-tmpdzbyn — Proposed or Open; cited in this filing of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmp5wozo CLAIM-tmpvqmwc CLAIM-tmpw11e6 CLAIM-tmpxoxys CLAIM-tmpz8q70 — Proposed or Open; cited in this filing of 2026-11-23 -->
 
 # CLAIM-tmp4h9rc: A system's ability to correct itself depends not simply on having critics or feedback but on how evidence, evaluation and authority are coupled, and on what the system is prevented from rewriting or rejecting
 
@@ -47,16 +47,16 @@ having critics or feedback, but on how evidence, evaluation, and
 authority are coupled—and what the system is prevented from rewriting
 or rejecting." The owner's four instances:
 
-- **LEAD-177's beacon** (CLAIM-tmpvqmwc). An independently anchored beacon
+- **[LEAD-177](../leads.d/LEAD-177.md)'s beacon** ([CLAIM-tmpvqmwc](CLAIM-tmpvqmwc.md)). An independently anchored beacon
   lets a sensor network correct errors that internal consistency cannot
   detect.
-- **LEAD-015's evaluator** (CLAIM-tmpz8q70). Formally independent
+- **[LEAD-015](../leads.d/LEAD-015.md)'s evaluator** ([CLAIM-tmpz8q70](CLAIM-tmpz8q70.md)). Formally independent
   evaluation can still be captured through a feedback loop between
   institutions.
-- **LEAD-190's critics** (CLAIM-tmp5wozo). Relevance-based evaluation
+- **[LEAD-190](../leads.d/LEAD-190.md)'s critics** ([CLAIM-tmp5wozo](CLAIM-tmp5wozo.md)). Relevance-based evaluation
   avoids agreement-driven factions under the studied conditions, provided
   critic scoring is independent enough of agreement.
-- **LEAD-180's limit** (CLAIM-tmpxoxys). A relabelling argument
+- **[LEAD-180](../leads.d/LEAD-180.md)'s limit** ([CLAIM-tmpxoxys](CLAIM-tmpxoxys.md)). A relabelling argument
   establishes an identifiability limit: without discriminating evidence,
   governance cannot distinguish honest dissent from attack when they are
   otherwise observationally equivalent.
@@ -65,25 +65,25 @@ or rejecting." The owner's four instances:
 
 Each component is a case in which critics or feedback are present and
 correction still fails:
-- the network revised by its own disagreement (CLAIM-tmpvqmwc);
-- the evaluator captured by the return channel (CLAIM-tmpz8q70);
-- critics scored by agreement (CLAIM-tmp5wozo);
+- the network revised by its own disagreement ([CLAIM-tmpvqmwc](CLAIM-tmpvqmwc.md));
+- the evaluator captured by the return channel ([CLAIM-tmpz8q70](CLAIM-tmpz8q70.md));
+- critics scored by agreement ([CLAIM-tmp5wozo](CLAIM-tmp5wozo.md));
 - dissent with no evidence that does not come from the proposals
-  (CLAIM-tmpxoxys).
+  ([CLAIM-tmpxoxys](CLAIM-tmpxoxys.md)).
 
 Each names the coupling whose change restores correction, or shows that
-none can. CLAIM-342, Active, already holds the evidence half. What the
+none can. [CLAIM-342](CLAIM-342.md), Active, already holds the evidence half. What the
 claim adds is two further conditions:
-- **authority's coupling:** the return channel of CLAIM-tmpz8q70, and
+- **authority's coupling:** the return channel of [CLAIM-tmpz8q70](CLAIM-tmpz8q70.md), and
   grants indexed by role and scored apart from agreement in
-  CLAIM-tmp5wozo;
+  [CLAIM-tmp5wozo](CLAIM-tmp5wozo.md);
 - **protection:** what the revision can neither rewrite nor refuse, in
-  CLAIM-tmpvqmwc.
+  [CLAIM-tmpvqmwc](CLAIM-tmpvqmwc.md).
 
 The components are in four different models, all Proposed, so the
 generalization is the owner's interpretive step.
 
-## Admission (ADR-075)
+## Admission ([ADR-075](../decisions.d/ADR-075.md))
 
 - *A derivation, for its negative half.* That critics or feedback do not
   suffice follows from the components: each exhibits them with correction
@@ -94,7 +94,7 @@ generalization is the owner's interpretive step.
   too weak to close, scoring apart from agreement. The claim, read
   strictly, predicts separate requirements. In one model that hosts all
   four, removing any one alone should defeat correction while the others
-  hold. LEAD-tmpdzbyn proposes that model. If one condition is found to
+  hold. [LEAD-tmpdzbyn](../leads.d/LEAD-tmpdzbyn.md) proposes that model. If one condition is found to
   entail the others, the claim reduces to that one.
 
-CLAIM-tmpw11e6 qualifies the protection clause.
+[CLAIM-tmpw11e6](CLAIM-tmpw11e6.md) qualifies the protection clause.

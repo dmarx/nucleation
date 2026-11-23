@@ -120,7 +120,7 @@ true positions, which no arm sees. Late is the last 1,000 of 3,000 steps.
 
 An arm this study did not run, added at the owner's proposal that
 self-correction depends on what a system cannot rewrite or reject
-(CLAIM-tmp4h9rc). `network.py` gains two options, off by default; the
+([CLAIM-tmp4h9rc](../claims.d/CLAIM-tmp4h9rc.md)). `network.py` gains two options, off by default; the
 committed arms reproduce exactly (checked on 25 runs, and by a test).
 `study_beacon_bias.py` ran 40 seeds (`results/beacon_bias_summary.md`).
 
@@ -133,5 +133,5 @@ committed arms reproduce exactly (checked on 25 runs, and by a test).
 
 A protected beacon's own error passes whole into the network, which stays
 as consistent as before. A rarer protected survey of the beacon reduces
-the error, at its own rate. CLAIM-tmpw11e6 states the result, with
-ARG-tmp0b5z8.
+the error, at its own rate. [CLAIM-tmpw11e6](../claims.d/CLAIM-tmpw11e6.md) states the result, with
+[ARG-tmp0b5z8](../arguments.d/ARG-tmp0b5z8.md).

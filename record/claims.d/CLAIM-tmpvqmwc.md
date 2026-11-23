@@ -99,5 +99,5 @@ late error equals the miscalibration (0.360 against 0.361), and its
 consistency is unchanged. A rarer protected survey of the beacon brings
 the error down to 0.122. So protection is necessary here, and it secures
 accuracy only relative to the anchor. That qualification is
-CLAIM-tmpw11e6, a complement to this claim. The note on CASE-tmp33vf4
+[CLAIM-tmpw11e6](CLAIM-tmpw11e6.md), a complement to this claim. The note on [CASE-tmp33vf4](../cases.d/CASE-tmp33vf4.md)
 gives the table.
