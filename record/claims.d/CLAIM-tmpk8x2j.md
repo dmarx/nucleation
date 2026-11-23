@@ -25,8 +25,8 @@ grounds:
 bears_on:
 - QUESTION-494
 summary: >-
-  QUESTION-494's note asks which conclusions of the passive account survive
-  feedback. THEORY-026's identity, β⟨W_diss⟩ = I[s_t;x_t] − I[s_t;x_{t+1}]
+  [QUESTION-494](../questions.d/QUESTION-494.md)'s note asks which conclusions of the passive account survive
+  feedback. [THEORY-026](../theory.d/THEORY-026.md)'s identity, β⟨W_diss⟩ = I[s_t;x_t] − I[s_t;x_{t+1}]
   per switch, uses no assumption about the drive, and its summed bound
   needs only that relaxation lowers the nonequilibrium free energy, which a
   kernel that keeps each equilibrium stationary does whatever chose the
@@ -47,12 +47,12 @@ summary: >-
 
 ## The claim
 
-Take THEORY-026's setting and let the next signal value depend on the
+Take [THEORY-026](../theory.d/THEORY-026.md)'s setting and let the next signal value depend on the
 system's state: x_{t+1} ~ D(· | x_t, s_t). Then:
 
 1. **The per-switch identity holds.** β(⟨W_t⟩ − ΔF_neq) =
    H[S_t | X_{t+1}] − H[S_t | X_t] = I[s_t;x_t] − I[s_t;x_{t+1}]. The
-   derivation in THEORY-026's note of 2026-10-19, step 1, uses only the
+   derivation in [THEORY-026](../theory.d/THEORY-026.md)'s note of 2026-10-19, step 1, uses only the
    definitions.
 2. **The summed bound holds.** Relaxation happens at a fixed signal value,
    so a kernel that keeps each equilibrium stationary still contracts the
@@ -63,7 +63,7 @@ system's state: x_{t+1} ~ D(· | x_t, s_t). Then:
    state steers the next signal, so it can predict that signal better than
    it tracks the current one.
 
-CASE-tmp3axlj exhibits the failure. In 500 random 4-state systems with
+[CASE-tmp3axlj](../cases.d/CASE-tmp3axlj.md) exhibits the failure. In 500 random 4-state systems with
 3-symbol feedback drives, some step's nostalgia is negative in 405, the
 summed nostalgia in 323, and the dissipation and the excess work in 6
 (smallest excess work −0.29 k_BT). The identities hold to 2e-15 and the
@@ -76,7 +76,7 @@ at least what it fails to predict. With feedback it says only that the
 dissipation is at least a number that may be negative. A negative excess
 work is net work drawn from the bath by a system whose drive is steered by
 its own state: a Maxwell's-demon arrangement, and the controller that reads
-the state is unpriced. THEORY-817's assertion that prediction is not what
+the state is unpriced. [THEORY-817](../theory.d/THEORY-817.md)'s assertion that prediction is not what
 efficiency asks for under feedback concerns the agent's work, not this
 bound, and is neither supported nor touched.
 

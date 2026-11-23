@@ -81,8 +81,8 @@ ChatGPT (A80, A84) on how to advance this question: first review the information
 
 ## Note of 2026-11-23: the first milestone, run
 
-LEAD-005 reproduced Still and colleagues' no-feedback result (THEORY-026)
-in 300 random driven systems, then added feedback (CASE-tmp3axlj, code in
+[LEAD-005](../leads.d/LEAD-005.md) reproduced Still and colleagues' no-feedback result ([THEORY-026](../theory.d/THEORY-026.md))
+in 300 random driven systems, then added feedback ([CASE-tmp3axlj](../cases.d/CASE-tmp3axlj.md), code in
 scratch/studies/lead-005/). On the follow-up's "which conclusions survive
 the transition from passive prediction to active feedback":
 
@@ -91,10 +91,10 @@ the transition from passive prediction to active feedback":
   stationary.
 - **Do not survive:** the sign. The nostalgia, and in a few systems the
   dissipation and the excess work, go negative, so the bound no longer
-  makes nonpredictive memory a cost (CLAIM-tmpk8x2j).
+  makes nonpredictive memory a cost ([CLAIM-tmpk8x2j](../claims.d/CLAIM-tmpk8x2j.md)).
 - **Policy-relative:** a memory's nostalgia depends on the policy that
   uses it, not only on what it keeps. Acting well on a memory of the
-  context erases its trace from the next percept (CLAIM-tmpx0pvr).
+  context erases its trace from the next percept ([CLAIM-tmpx0pvr](../claims.d/CLAIM-tmpx0pvr.md)).
 
 In a toy loop where the predictive partition (a sticky nuisance) and the
 interventional partition (the context the action must match) are
@@ -102,8 +102,8 @@ disjoint, the cheapest memory that does the task keeps the context only,
 by nostalgia, heat per step and overwrite entropy alike. Whether that is
 "the interventional partition" or "neither" depends on what the
 interventional partition is taken relative to. Two alternatives are filed:
-CLAIM-tmpk8zw2 (relative to the outcome, as in THEORY-1125: interventional)
-and CLAIM-tmpj5z7a (relative to the whole next percept: neither). Also, under
+[CLAIM-tmpk8zw2](../claims.d/CLAIM-tmpk8zw2.md) (relative to the outcome, as in [THEORY-1125](../theory.d/THEORY-1125.md): interventional)
+and [CLAIM-tmpj5z7a](../claims.d/CLAIM-tmpj5z7a.md) (relative to the whole next percept: neither). Also, under
 feedback "the predictive partition" depends on the regime that generates
 the data. The toy fixes its kernel and policy, so the cost of revising is
 not measured, and it has no hidden common cause.

@@ -25,7 +25,7 @@ grounds:
 bears_on:
 - QUESTION-494
 summary: >-
-  From CASE-tmp3axlj's loop. Percepts are a fresh context u, a sticky
+  From [CASE-tmp3axlj](../cases.d/CASE-tmp3axlj.md)'s loop. Percepts are a fresh context u, a sticky
   nuisance v and the outcome y of the last action, which succeeds when it
   matches u. A memory that keeps u and acts on it makes every outcome a
   success, so the next percept says nothing about u: its nostalgia is its
@@ -44,7 +44,7 @@ summary: >-
 
 ## The claim
 
-In CASE-tmp3axlj's loop the percept is (u, v, y). u is a fresh fair coin,
+In [CASE-tmp3axlj](../cases.d/CASE-tmp3axlj.md)'s loop the percept is (u, v, y). u is a fresh fair coin,
 v is sticky, and y' = [a = u], flipped with probability δ. The memory keeps
 u, stored with an energy gap and re-equilibrated after each switch.
 
@@ -59,11 +59,11 @@ The first two rows are tested exactly in scratch/studies/lead-005/.
 
 ## Why it matters for the question
 
-THEORY-026's slogan, that only nonpredictive memory is wasteful, ranks
+[THEORY-026](../theory.d/THEORY-026.md)'s slogan, that only nonpredictive memory is wasteful, ranks
 memories by what they keep. Under feedback the ranking is not available:
 the next percept depends on the action, so whether a memory predicts it
 depends on what is done with the memory. Here acting well on a memory
-erases its trace from what comes next. A cost criterion for QUESTION-494
+erases its trace from what comes next. A cost criterion for [QUESTION-494](../questions.d/QUESTION-494.md)
 built on the per-switch nostalgia would charge the memory for being used
 well. The total heat per step in this loop is set by how often the memory
 must be rewritten, which the policy does not change.

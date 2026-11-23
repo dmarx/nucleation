@@ -116,7 +116,7 @@ before the ruling is made; nothing else holds it back.
 ## Note of 2026-11-23: the re-derivation checked in scratch/
 
 The note above asks for a checked re-derivation in scratch/ before the
-ruling. LEAD-005's run (CASE-tmp3axlj; scratch/studies/lead-005/) supplies
+ruling. [LEAD-005](../leads.d/LEAD-005.md)'s run ([CASE-tmp3axlj](../cases.d/CASE-tmp3axlj.md); scratch/studies/lead-005/) supplies
 it.
 
 - **The example.** A test builds a memory that copies a two-state Markov
@@ -129,10 +129,10 @@ it.
   identity holds to 1e-15.
 
 The run also bears on this claim's feedback limit. Under feedback the
-nostalgia can be negative (CLAIM-tmpk8x2j). In a loop where the action must
+nostalgia can be negative ([CLAIM-tmpk8x2j](CLAIM-tmpk8x2j.md)). In a loop where the action must
 match a context, the memory that acts well has its whole content
 nonpredictive, while its heat per step is what it would be unused
-(CLAIM-tmpx0pvr). Effortlessness read as predictive economy therefore does
+([CLAIM-tmpx0pvr](CLAIM-tmpx0pvr.md)). Effortlessness read as predictive economy therefore does
 not carry over to acting, which is this claim's own caveat.
 
 No status change.

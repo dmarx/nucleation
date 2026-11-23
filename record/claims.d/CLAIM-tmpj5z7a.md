@@ -24,7 +24,7 @@ grounds:
 bears_on:
 - QUESTION-494
 summary: >-
-  The alternative to CLAIM-tmpk8zw2's reading of CASE-tmp3axlj. If the
+  The alternative to [CLAIM-tmpk8zw2](CLAIM-tmpk8zw2.md)'s reading of [CASE-tmp3axlj](../cases.d/CASE-tmp3axlj.md). If the
   interventional partition groups percepts by p(x' | x, do(a)) for the
   whole next percept, it keeps the sticky nuisance v as well as the context
   u, since v's future depends on v whatever is done. The predictive
@@ -32,7 +32,7 @@ summary: >-
   own loop, u and v under a fixed action. The cheapest memory that does
   the task keeps u only, which is a strict coarsening of the
   interventional partition and is never the predictive one. In this
-  reading QUESTION-494's answer for the loop is neither: the memory keeps
+  reading [QUESTION-494](../questions.d/QUESTION-494.md)'s answer for the loop is neither: the memory keeps
   what is relevant to the task's outcome under intervention, a target the
   question's two partitions do not name. The wording is the assistant's
   (Claude, in this session); adopting it is the owner's call.
@@ -43,7 +43,7 @@ summary: >-
 
 ## The claim
 
-The partitions of the percept (u, v, y) in CASE-tmp3axlj's loop, computed:
+The partitions of the percept (u, v, y) in [CASE-tmp3axlj](../cases.d/CASE-tmp3axlj.md)'s loop, computed:
 
 | partition | grouped by | result |
 |---|---|---|
@@ -53,14 +53,14 @@ The partitions of the percept (u, v, y) in CASE-tmp3axlj's loop, computed:
 | interventional, outcome | p(y' \| x, do(a)) for each a | {u} |
 | interventional, whole percept | p(x' \| x, do(a)) for each a | {u, v} |
 
-The memory that does the task most cheaply keeps {u} (CLAIM-tmpk8zw2's
+The memory that does the task most cheaply keeps {u} ([CLAIM-tmpk8zw2](CLAIM-tmpk8zw2.md)'s
 table). Relative to the whole next percept, that is neither the
 interventional partition nor any predictive one. It is the interventional
 partition relative to the outcome.
 
 ## What it changes
 
-QUESTION-494 sets the predictive and the interventional partitions as the
+[QUESTION-494](../questions.d/QUESTION-494.md) sets the predictive and the interventional partitions as the
 candidates. This reading says the toy picks out a third object, relevance
 to a chosen target under intervention, so the question needs its target
 named before it can be answered. It also shows that "the predictive
@@ -70,8 +70,8 @@ generates the data, and the agent's own policy is one such regime.
 ## Which reading
 
 The two claims agree on every number and differ on the definition. This
-one is filed beside CLAIM-tmpk8zw2 because QUESTION-494 does not say which
+one is filed beside [CLAIM-tmpk8zw2](CLAIM-tmpk8zw2.md) because [QUESTION-494](../questions.d/QUESTION-494.md) does not say which
 target its interventional partition is taken relative to. The assistant
-leans to CLAIM-tmpk8zw2, since the question names the causal information
+leans to [CLAIM-tmpk8zw2](CLAIM-tmpk8zw2.md), since the question names the causal information
 bottleneck, which is defined relative to a target. The choice is the
 owner's.

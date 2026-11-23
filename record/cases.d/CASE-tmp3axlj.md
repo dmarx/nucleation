@@ -19,10 +19,10 @@ draws_on:
 bears_on:
 - QUESTION-494
 summary: >-
-  LEAD-005's first milestone for QUESTION-494: reproduce a known
+  [LEAD-005](../leads.d/LEAD-005.md)'s first milestone for [QUESTION-494](../questions.d/QUESTION-494.md): reproduce a known
   no-feedback result, then add feedback. The result is Still, Sivak, Bell
-  and Crooks (2012), already read (LIT-327, NOTE-295) and held as
-  THEORY-026. In numpy (scratch/studies/lead-005/, 15 tests), 300 random
+  and Crooks (2012), already read ([LIT-327](../literature.d/LIT-327.md), [NOTE-295](../notes.d/NOTE-295.md)) and held as
+  [THEORY-026](../theory.d/THEORY-026.md). In numpy (scratch/studies/lead-005/, 15 tests), 300 random
   4-state systems driven by a 3-symbol Markov signal through Metropolis
   kernels satisfy the per-switch identity (Eq. 14), the summed identity
   (Eq. 17) and the heat identity (Eq. 19) to 3e-15, and the bounds (Eqs.
@@ -45,13 +45,13 @@ summary: >-
 
 ## What was done
 
-LEAD-005 asks for a published no-feedback result on the cost of
+[LEAD-005](../leads.d/LEAD-005.md) asks for a published no-feedback result on the cost of
 predictive memory to be reproduced in a small finite-state model, then for
 feedback to be added and memories compared that keep the predictive
 partition, the interventional partition, or neither. The result chosen is
 Still, Sivak, Bell and Crooks (2012), "The thermodynamics of prediction"
-(LIT-327, read in full in NOTE-295, its account THEORY-026). It is the result
-QUESTION-494 names, and the record already holds its reading, so no
+([LIT-327](../literature.d/LIT-327.md), read in full in [NOTE-295](../notes.d/NOTE-295.md), its account [THEORY-026](../theory.d/THEORY-026.md)). It is the result
+[QUESTION-494](../questions.d/QUESTION-494.md) names, and the record already holds its reading, so no
 second reading was filed. Its text was re-checked from arXiv v3 for the
 indexing and for the definition of dissipation.
 
@@ -91,11 +91,11 @@ far from equilibrium), six steps.
 | Eq. 18 with the per-protocol dissipation | 300 of 300, smallest slack 0.0095 |
 | Monte Carlo ⟨W⟩ and ⟨Q⟩ within 4 s.e. of exact | 20 of 20 checked |
 
-This reproduces the result as THEORY-026 states it, with both of its
+This reproduces the result as [THEORY-026](../theory.d/THEORY-026.md) states it, with both of its
 conditions met (a Markov drive, kernels that keep each equilibrium
 stationary). It extends that entry's one-off check of 2026-10-19 to 300
 instances, with code. A test also confirms the 0.3835-nat example of
-CLAIM-tmpcbdgm: a memory that copies a two-state Markov drive with
+[CLAIM-tmpcbdgm](../claims.d/CLAIM-tmpcbdgm.md): a memory that copies a two-state Markov drive with
 rows (0.9, 0.1) and (0.2, 0.8) pays H(X_t | X_{t+1}) at every switch.
 
 ## Part 2: with feedback
@@ -112,7 +112,7 @@ else is unchanged. 500 systems.
   nostalgia is negative, and in 6 the dissipation and the excess work are
   negative (smallest excess work −0.29 k_BT): net work is extracted, paid
   for by the controller's use of the system's state, which this accounting
-  does not price. See CLAIM-tmpk8x2j.
+  does not price. See [CLAIM-tmpk8x2j](../claims.d/CLAIM-tmpk8x2j.md).
 
 ## Part 3: a percept–action loop where the partitions differ
 
@@ -129,7 +129,7 @@ partition the memory keeps.
 the predictive partition {v} under random actions or under the agent's own
 successful loop, and {u, v} under a fixed action. Grouping them by their
 response to every intervention gives {u} for the outcome y (the
-causal-bottleneck reading of THEORY-1125) and {u, v} for the whole next
+causal-bottleneck reading of [THEORY-1125](../theory.d/THEORY-1125.md)) and {u, v} for the whole next
 percept.
 
 **The memories**, at ε = 0.1, δ = 0.05, Δ = 6, per step at stationarity:
@@ -151,9 +151,9 @@ overwritten. The predictive memory does nothing for the task. The same
 memory of u has nostalgia ln 2 when used to match and 0 when unused (in the
 noiseless limit, a tested case), with the same heat per step: the policy
 moves dissipation between the work step and the relaxation and does not
-change the total. See CLAIM-tmpx0pvr, and, for the two readings of what
-the cheapest memory keeps, CLAIM-tmpk8zw2 and its alternative
-CLAIM-tmpj5z7a.
+change the total. See [CLAIM-tmpx0pvr](../claims.d/CLAIM-tmpx0pvr.md), and, for the two readings of what
+the cheapest memory keeps, [CLAIM-tmpk8zw2](../claims.d/CLAIM-tmpk8zw2.md) and its alternative
+[CLAIM-tmpj5z7a](../claims.d/CLAIM-tmpj5z7a.md).
 
 ## What it can show
 
@@ -167,9 +167,9 @@ settings, computed exactly.
 ## What it cannot show
 
 - **Anything about a learner.** Every kernel and every policy is fixed. The
-  loop has no adaptation, so revising a memory, one of QUESTION-494's
+  loop has no adaptation, so revising a memory, one of [QUESTION-494](../questions.d/QUESTION-494.md)'s
   four costs, is not measured.
-- **A general answer to QUESTION-494.** The toy is built so that the
+- **A general answer to [QUESTION-494](../questions.d/QUESTION-494.md).** The toy is built so that the
   partitions differ cleanly, and its task is defined by intervention, so
   that the interventional memory serves it follows from the construction.
   What the run adds is that the thermodynamic costs agree with it, and that
@@ -184,7 +184,7 @@ settings, computed exactly.
   protocol would dissipate less. The ordering held by all three measures,
   but only the nostalgia and the overwrite entropy are
   implementation-free.
-- **The conditions QUESTION-191 asks about.** Every no-feedback system
-  here meets both of THEORY-026's conditions, so the run does not test
+- **The conditions [QUESTION-191](../questions.d/QUESTION-191.md) asks about.** Every no-feedback system
+  here meets both of [THEORY-026](../theory.d/THEORY-026.md)'s conditions, so the run does not test
   whether the bound fails without them. The path enumerator in the code
   would take a non-Markov drive; that was not run.
