@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpcdg8u
 title: 'Directed transport between context-indexed judgement models keeps overlap consistency and global extendability under two sufficient conditions, but for one source–target pair a constant kernel meets them at zero distortion, so it constrains a translation only as a property of a rendering procedure with one kernel family fixed across items, where exact fit is a garbling and Le Cam deficiency a finite linear programme; fidelity as intertwining of framing operations holds as algebra, but its defects are not identified from data and the order effect is bounded on observed responses instead; what stays open is decision-relevant information across a change of cover, signalling data, and whether the restated measures are informative, with tropes and adaptation as the place where structure and function come apart'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-509,
+    an in-force entry of the line no account integrated. It is set out at
+    the end of the components; the title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the kernels part of the pragmatic-transport line left out without a
@@ -60,6 +67,7 @@ integrates:
 - CASE-038
 - CLAIM-145
 - ARG-014
+- QUESTION-509
 summary: >-
   A part account of the pragmatic-transport line: the part the mechanical
   community map calls kernels, 38 entries on directed transport, its
@@ -274,6 +282,20 @@ compositional constraint ([QUESTION-026](../questions.d/QUESTION-026.md)); bisim
 - [CLAIM-145](../claims.d/CLAIM-145.md), the record's, counter, interpretive, Active; rests on
   [CLAIM-019](../claims.d/CLAIM-019.md) (study part). [ARG-014](../arguments.d/ARG-014.md), evidence, Rejected; from [CASE-038](../cases.d/CASE-038.md) to
   [CLAIM-147](../claims.d/CLAIM-147.md).
+
+Added at version 2, at the synthesis review of 2026-11-23: one in-force
+entry of the line, filed after this account, that falls in its scope and
+that no account integrated. The account now integrates 41 entries.
+
+- QUESTION-509, the assistant's, filed on the owner's view of 2026-11-21
+  that the conclusions left without an entry by the sweep under ADR-136
+  "don't look useless"; Open. It asks how common signalling is in
+  language data once estimated without the plug-in bias. Its summary
+  states it as the empirical question behind the conclusion ARG-037
+  rejected a route to, CLAIM-125's version 1 reading "69 of the 90
+  systems signal" as showing signalling typical, a route that fails
+  because plug-in estimates signal in expectation when the true marginals
+  agree (CLAIM-235).
 
 ## Links the components state, and where
 

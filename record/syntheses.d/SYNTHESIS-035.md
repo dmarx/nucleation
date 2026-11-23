@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp4u1pa
 title: 'The will-organization line is five accounts that meet at its central thesis, that maintained relations of efficacy decide which of an agent''s regimes becomes effective: what decides it, how a population of interests acts as one, frustration among demands, maintaining the capacity to govern, and freedom of will and self-formation; the line makes no claim beyond its parts, one of them is mostly closed, and normative judgment about organizations, once a sixth part, is a line of its own'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-11'
@@ -30,6 +30,15 @@ history:
     2026-11-15): CLAIM-686 now have dependence-and-domination as their
     first line, and the account says so where it states their lines.
     No other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: CASE-325 and
+    CLAIM-692 were added to SYNTHESIS-036, and QUESTION-467 and
+    QUESTION-504 to SYNTHESIS-041, in-force entries of the line no account
+    of the line integrated; their counts under the parts change from 63 to
+    65 and from 24 to 26, and the paragraph after the parts says so.
+    Nothing is added to `integrates`; the title is unchanged.
 defeated_if: >-
   A part account or component misstated or misattributed here; an
   in-force component of the will-organization line that no part account
@@ -84,7 +93,7 @@ summary: >-
 
 ## The parts
 
-- **[SYNTHESIS-036](SYNTHESIS-036.md), which regime becomes effective** (63 components). The will
+- **[SYNTHESIS-036](SYNTHESIS-036.md), which regime becomes effective** (65 components). The will
   paper's thesis, [CLAIM-027](../claims.d/CLAIM-027.md) (Active), on [CLAIM-047](../claims.d/CLAIM-047.md) and the supposed agent
   of [CLAIM-080](../claims.d/CLAIM-080.md); the objections it answers or holds ([CLAIM-010](../claims.d/CLAIM-010.md), [CLAIM-089](../claims.d/CLAIM-089.md) with
   [CLAIM-122](../claims.d/CLAIM-122.md) and [CLAIM-482](../claims.d/CLAIM-482.md), [CLAIM-024](../claims.d/CLAIM-024.md) against [CLAIM-487](../claims.d/CLAIM-487.md)); precedence,
@@ -104,7 +113,7 @@ summary: >-
   from [CLAIM-079](../claims.d/CLAIM-079.md) and [CLAIM-025](../claims.d/CLAIM-025.md); [CLAIM-349](../claims.d/CLAIM-349.md), [CLAIM-422](../claims.d/CLAIM-422.md), [CLAIM-465](../claims.d/CLAIM-465.md), [CLAIM-344](../claims.d/CLAIM-344.md),
   [CLAIM-359](../claims.d/CLAIM-359.md), with [CASE-188](../cases.d/CASE-188.md) and [CASE-128](../cases.d/CASE-128.md) on resolve; learned authority and governance-maintained anxiety
   ([CLAIM-443](../claims.d/CLAIM-443.md), [CLAIM-446](../claims.d/CLAIM-446.md), [CLAIM-445](../claims.d/CLAIM-445.md)); seventeen promotion conditions.
-- **[SYNTHESIS-041](SYNTHESIS-041.md), freedom of will and self-formation** (24). [CLAIM-354](../claims.d/CLAIM-354.md)'s profile;
+- **[SYNTHESIS-041](SYNTHESIS-041.md), freedom of will and self-formation** (26). [CLAIM-354](../claims.d/CLAIM-354.md)'s profile;
   sensitivity is not control ([CLAIM-542](../claims.d/CLAIM-542.md), [CLAIM-533](../claims.d/CLAIM-533.md)); [CLAIM-523](../claims.d/CLAIM-523.md)'s three
   achievements; [CLAIM-545](../claims.d/CLAIM-545.md), governance of governability; [CLAIM-532](../claims.d/CLAIM-532.md),
   self-formation; [CLAIM-022](../claims.d/CLAIM-022.md), ownership disclaimed.
@@ -119,7 +128,7 @@ integrated by exactly one part account: the 186 entries carrying the line after 
 2026-11-11, less the six Superseded syntheses. Version 1 had 203, with
 the 23 now in organizational-normativity. [CASE-128](../cases.d/CASE-128.md) and [CASE-129](../cases.d/CASE-129.md) joined the line at the sweep of
 2026-11-11; [CLAIM-555](../claims.d/CLAIM-555.md) left it. Since then [CLAIM-686](../claims.d/CLAIM-686.md) and [QUESTION-454](../questions.d/QUESTION-454.md), then first in
-organizational-normativity ([CLAIM-686](../claims.d/CLAIM-686.md) is first in dependence-and-domination since [ADR-100](../decisions.d/ADR-100.md)), joined [SYNTHESIS-041](SYNTHESIS-041.md) (2026-11-15); other
+organizational-normativity ([CLAIM-686](../claims.d/CLAIM-686.md) is first in dependence-and-domination since [ADR-100](../decisions.d/ADR-100.md)), joined [SYNTHESIS-041](SYNTHESIS-041.md) (2026-11-15), and at the synthesis review of 2026-11-23 CASE-325 and CLAIM-692 joined SYNTHESIS-036 and QUESTION-467 and QUESTION-504 joined SYNTHESIS-041; other
 entries filed on the line after 2026-11-11 are integrated by no part
 account yet, and are for the line's next review. Some are also integrated by other lines' accounts, each part
 account says which.

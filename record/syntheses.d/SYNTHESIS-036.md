@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp8ru2q
 title: 'Which of an agent''s available regimes becomes effective is decided by maintained relations of efficacy that are not further preferences and are indexed to an agent rather than to any regulator; precedence, jurisdiction and suspension among them vary separately; and whether describing them as one organization explains anything that the fields studying each realizer do not is open'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-11'
@@ -13,6 +13,13 @@ history:
     normative judgment about organizations became the line
     organizational-normativity; the introduction says so. No other
     change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added CASE-325 and
+    CLAIM-692, in-force entries of the line no account of the line
+    integrated. They are set out at the end of the components; the title
+    is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the part of the will-organization line that asks which regime becomes
@@ -90,6 +97,8 @@ integrates:
 - QUESTION-367
 - QUESTION-407
 - QUESTION-440
+- CASE-325
+- CLAIM-692
 bears_on:
 - QUESTION-015
 - QUESTION-056
@@ -263,6 +272,32 @@ framing's target, is Deferred.
 - [QUESTION-062](../questions.d/QUESTION-062.md), [QUESTION-066](../questions.d/QUESTION-066.md) and [QUESTION-056](../questions.d/QUESTION-056.md), the fourth synthesis pass's, Open.
 - [QUESTION-088](../questions.d/QUESTION-088.md), the owner's (U5), Open; first line distributed-agency.
 - [QUESTION-367](../questions.d/QUESTION-367.md), from Metzinger, Open. [QUESTION-407](../questions.d/QUESTION-407.md), a promotion condition, Open; linked to no component. [QUESTION-440](../questions.d/QUESTION-440.md), A's (A16), Open; also distributed-agency.
+
+Added at version 3, at the synthesis review of 2026-11-23: two in-force
+entries of the line, filed after this account, that fall in its scope and
+that no account of the line integrated. The account now integrates 65
+entries.
+
+- CASE-325, the assistant's computation, QUESTION-056's test run by
+  LEAD-089; an executed study, documented, Active; also
+  distributed-agency. Northstar (CASE-023), with variants taken from
+  CASE-003 and CASE-002, is modelled by control models alone and by a
+  will-organization over them, the difference priced by log evidence as
+  CLAIM-174's test 4 prices it (CLAIM-154): where the case is as
+  stipulated the will-organization wins beyond its Occam cost and alone
+  predicts combinations of changes of authority never seen, and it loses
+  where authority is idle or idiosyncratic. It bears on QUESTION-056 and
+  is a variant of CASE-023, CASE-003 and CASE-002.
+- CLAIM-692, the assistant's, raised by the reading review of 2026-11-14;
+  thesis, interpretive, Active; integrated also by SYNTHESIS-119
+  (formal-apparatus). The neural signature Jennings offers for an emergent
+  subject's constraint on its parts, 1/f scaling and phase-amplitude
+  coupling tied to attention, does not discriminate a macro-level
+  constraint from micro-level mechanism. Its summary says CLAIM-539
+  declines to say the contextual-emergence step succeeds, citing the
+  reading's limitations, and that no claim stated the reasons the three
+  readings hold; it grounds on THEORY-1312, THEORY-1317 and THEORY-1337
+  and bears on QUESTION-507.
 
 ## Links tested as claims
 

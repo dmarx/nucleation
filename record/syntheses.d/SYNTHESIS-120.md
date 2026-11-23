@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpsejrp
 title: "In the record, how a high-dimensional representation comes to draw a new distinction is held in parts: concentration of measure sets a null that learning has to beat; geometric separation, decodability and spectral detectability are distinct, and cone occupancy, the BBP threshold and an alignment bifurcation are three thresholds on one scale; coupled embeddings under gradient flow relax rather than act; a factored feature switches on at a threshold quiet but consequential, a parent can gate it, and sample PCA sees it only after a window; entailment and refinement are partial orders; sloppiness and singular strata meet in two places and part in one; and whether stages of learning are transitions among singular strata ordered as the semantic refinements stays open"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-518,
+    an in-force entry of the line no account integrated, to the components
+    filed after the coverage check. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here, with its scope conditions;
   an in-force entry of the learned-structure line on how a learned
@@ -72,6 +79,7 @@ integrates:
 - CLAIM-828
 - CLAIM-837
 - QUESTION-514
+- QUESTION-518
 bears_on:
 - QUESTION-515
 - QUESTION-512
@@ -161,6 +169,7 @@ bears_on:
 - [ARG-137](../arguments.d/ARG-137.md) (the assistant's, Proposed): [CLAIM-843](../claims.d/CLAIM-843.md) narrows [CLAIM-844](../claims.d/CLAIM-844.md); a power law in training relaxation does not indicate a hierarchy of singular orders.
 - [ARG-130](../arguments.d/ARG-130.md) (the assistant's, Proposed): [CLAIM-848](../claims.d/CLAIM-848.md) qualifies [CLAIM-847](../claims.d/CLAIM-847.md); A30's participation-ratio regimes separate only at very large widths.
 - [ARG-142](../arguments.d/ARG-142.md) (A's argument, Rejected by the assistant): A19 §10's analogy from sloppy models to networks fails, since sloppiness assumes a regular Fisher matrix.
+- QUESTION-518 (the assistant's, raised by the reading of Hoogland and colleagues, THEORY-2160; Open; added at version 2, at the synthesis review of 2026-11-23): what decreases of the local learning coefficient during training correspond to. Its body says neither reading of the owner's U23 (CLAIM-834) accounts for them: reading (b) (CLAIM-823) makes a transition a crossover to a higher-coefficient region and produces increases, and reading (a) (CLAIM-802) says nothing of the coefficient's direction.
 
 ## Links the components state, and where
 

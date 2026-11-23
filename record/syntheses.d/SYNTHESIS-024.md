@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp1m0vj
 title: 'Reaching a configuration has a resource threshold of its own, the least peak over admissible paths, which can exceed what holding either end takes and is relative to a fixed architecture; feasible, reachable and reliably reached come apart, failures of a transition have distinct remedies, a form needs separate resources to build, keep and move, several resources give a non-convex frontier rather than a total, and a budget set to last period''s spending loses every transition that needs slack with no sign in output'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-10'
@@ -12,6 +12,12 @@ history:
     At the split of readiness (ADR-087), the third part became the
     line transient-support. The introduction and the heading of the links
     across say so; the components and links are unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added CLAIM-679, an
+    in-force entry of the line no account integrated. It is set out at the
+    end of the components; the title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the reaching-and-paying part of the readiness line left out without a
@@ -50,6 +56,7 @@ integrates:
 - QUESTION-392
 - QUESTION-400
 - QUESTION-404
+- CLAIM-679
 ---
 <!-- inactive-ok-file: CASE-198 CASE-200 CASE-201 CASE-205 CASE-209 CASE-210 CASE-211 CASE-215 TERM-107 TERM-110 TERM-112 — Proposed; components and citations, with their standing -->
 
@@ -161,6 +168,21 @@ support, became the line transient-support at the split of readiness
 - [QUESTION-392](../questions.d/QUESTION-392.md) and [QUESTION-400](../questions.d/QUESTION-400.md), A's, Open; [QUESTION-404](../questions.d/QUESTION-404.md), moved from
   [CLAIM-568](../claims.d/CLAIM-568.md)'s defeat condition by the twenty-sixth status review, Open.
   All three are first in realizability.
+
+Added at version 3, at the synthesis review of 2026-11-23: one in-force
+entry of the line, filed after this account, that falls in its scope and
+that no account integrated. The account now integrates 25 entries.
+
+- CLAIM-679, A's sentence from A20 §IV of the exchange "Analyze
+  technological civilization trap" (2026-11-13), with the derivation in
+  its body; thesis, demonstrated, Active. Rests on CLAIM-571; uses
+  TERM-106; complements CLAIM-579 and, in the sibling part, CLAIM-587.
+  Cutting the resource an organization holds toward what holding its
+  present configuration requires leaves that configuration feasible and
+  removes exactly the transitions whose threshold lies between the old
+  holding and the new; its summary says the sentence follows from
+  CLAIM-571 and TERM-106 once "efficient" is read so, the parameter the
+  first filing had left open on CLAIM-571.
 
 ## Links the components state, and where
 

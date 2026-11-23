@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmpa2362
 title: 'A frame acts on an interpreter, and an interpreter''s judgements act back on what it observes: order dependence among framing operations shows that the operations do not commute, not that the probability is nonclassical; conditioning on a situation, changing it, telling an interpreter about it and eliciting a judgement are different operations, and only changing the situation intervenes on what would constitute an act; a judgement reshapes the observer whose later observations it judges, objected to as action relocated and as a loop that confirms itself, and what keeps that loop honest is evidence that does not pass through the interpretation it tests, a condition the record carries over to when a category''s success warrants a kind, beside an account of how a contested label can be reproduced by rival use while whether it carries one concept stays open'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-513,
+    an in-force entry of the line no account integrated. It is set out at
+    the end of the components; the title is unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   the frames part of the pragmatic-transport line (frames as operations
@@ -56,6 +63,7 @@ integrates:
 - CASE-226
 - CASE-230
 - QUESTION-439
+- QUESTION-513
 summary: >-
   A part account of the pragmatic-transport line: the part on frames as
   operations on an interpreter's state, on what an intervention on an
@@ -363,6 +371,21 @@ restated, the test of [CLAIM-336](../claims.d/CLAIM-336.md)'s mapping that [ARG-
   Proposed; also will-organization; illustrates [CLAIM-402](../claims.d/CLAIM-402.md) and [CLAIM-627](../claims.d/CLAIM-627.md).
 - [QUESTION-439](../questions.d/QUESTION-439.md), the owner's (U19), with A41's options, Open; also
   distributed-agency and learned-structure; refines [QUESTION-360](../questions.d/QUESTION-360.md).
+
+Added at version 2, at the synthesis review of 2026-11-23: one in-force
+entry of the line, filed after this account, that falls in its scope and
+that no account integrated. The account now integrates 35 entries.
+
+- QUESTION-513, the assistant's, filed on the owner's view of 2026-11-21
+  that the conclusions left without an entry by the sweep under ADR-136
+  "don't look useless"; Open. It asks whether a pragmatic frame takes part
+  in determining which meaning becomes actual, or only selects among
+  descriptions of a meaning fixed without it. Its summary holds open the
+  thesis CLAIM-109 (Superseded) answered yes to, now that ARG-002's route
+  by analogy with non-commuting measurements is rejected; it names
+  CLAIM-009 (in SYNTHESIS-069), which superseded CLAIM-109, as one way it
+  could be answered yes, and CLAIM-412 (in SYNTHESIS-019) as a parallel
+  question in another domain.
 
 ## Links the components state, and where
 

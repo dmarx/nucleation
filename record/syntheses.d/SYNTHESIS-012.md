@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmp4csi2
 title: 'The record''s grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record''s objects is Proposed; and its revision is the record''s own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added CASE-300,
+    CASE-299 and QUESTION-503, in-force entries of the line no account
+    integrated: CASE-300 to the section on luria as apparatus, CASE-299
+    and QUESTION-503 to the section on inquiry as specification. The
+    counts in the section on how the two sections relate are version 1's
+    and say so. The title is unchanged.
 defeated_if: >-
   A component misstated or misattributed
   here; an in-force component whose line is record-as-apparatus left out
@@ -38,6 +48,9 @@ integrates:
 - TERM-095
 - QUESTION-072
 - QUESTION-366
+- CASE-300
+- CASE-299
+- QUESTION-503
 ---
 
 # SYNTHESIS-012: The record's grammar is an apparatus in the operational sense: fixed at any moment, amended by decision when a misfit is noticed, and made of typed relations more rigid than their relata without being sound for it; that it constitutes the record's objects is Proposed; and its revision is the record's own case of inquiry as specification, an inquiry that can revise what an answer could be and specifies under resource bounds
@@ -134,6 +147,19 @@ open part.
 - [QUESTION-072](../questions.d/QUESTION-072.md), filed at the owner's request ahead of its Fricker
   readings, Open.
 
+- CASE-300, the record's executed study, run on 2026-11-20 for the
+  owner's manuscript and filed at the owner's direction; documented,
+  Active; added at version 2, at the synthesis review of 2026-11-23. A
+  census of the record's 114 decisions to that date: 88 changed the
+  grammar, mostly by refinement; the misfit each answered had nearly
+  always been forced into a category or kept in prose first; removals
+  reached every entry using the term while a change of meaning in place
+  reached none; and the noticing moved to review procedures while
+  judgment about revisions stayed with the owner. It is a variant of
+  CASE-178, which measured how often the grammar grew, illustrates
+  CLAIM-419 and CLAIM-181, and bears on QUESTION-458, QUESTION-457 and
+  QUESTION-388 (in SYNTHESIS-090).
+
 ## Inquiry as specification
 
 The general form the line's case instantiates, and its resource bound.
@@ -150,9 +176,24 @@ The general form the line's case instantiates, and its resource bound.
   Open: whether an inquiry needs its own history to know its object or
   only to revise its conclusions.
 
+- CASE-299, the record's own tooling, 2026-11-21 (ADR-116's history and
+  pull requests 565 to 567); specimen, documented, Active; added at
+  version 2. Building the staging branch found a requirement no one had
+  stated: after a promotion merged by hand, the back-merge into staging
+  never ran. It illustrates CLAIM-784 and CLAIM-786 (both Proposed; no
+  account integrates them), as building revising its specification, the
+  reflexive case of CLAIM-784; both claims rest on CLAIM-470 and use
+  TERM-095.
+- QUESTION-503, raised by CLAIM-784's limit, that engineering's findings
+  are partly constituted rather than discovered; Open; added at version
+  2. It asks whether knowledge of a made thing is a different kind from
+  knowledge of a given one, or the same inquiry with its answer space
+  among realizations. Its body names CLAIM-784 and no other component.
+
 ## How the two sections relate
 
-Of the 30 pairs of components joined by a stored relation, 22 lie within
+The counts here are version 1's, before CASE-300, CASE-299 and
+QUESTION-503 were added. Of the 30 pairs of components joined by a stored relation, 22 lie within
 the first section (14 components) and 5 within the second (5), and 3 join
 them: [CLAIM-469](../claims.d/CLAIM-469.md) and [CLAIM-476](../claims.d/CLAIM-476.md) each complement [CLAIM-470](../claims.d/CLAIM-470.md), and [CASE-178](../cases.d/CASE-178.md)
 illustrates it. Every stored link between them passes through [CLAIM-470](../claims.d/CLAIM-470.md).

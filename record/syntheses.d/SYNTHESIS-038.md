@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmphe0p9
 title: 'The organizational-normativity line is four accounts that meet at its root questions and the older parts'' questions: what a normative judgment needs; the wrong beyond harm and becoming normatively less informed; rights, demands and commitments; and accountability without blame and normative governability; what wholes and parts owe and claim, what those who govern, restrict or answer for an arrangement owe, and responsibility for another''s conditions, are the line dependence-and-domination, whose entries that carry this line are integrated here; the line makes no claim beyond its parts'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-11'
@@ -110,6 +110,15 @@ history:
     part now maps it, this account no longer integrates it directly, and
     its paragraph among the directly integrated entries is removed. No
     other change.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23: SYNTHESIS-091 was refreshed
+    with eleven entries bearing on QUESTION-128, and SYNTHESIS-104 took
+    five claims bearing on QUESTION-476 that carry this line; their counts
+    under the parts change to 33 and 20 (SYNTHESIS-104's was stated as 14
+    while it integrated 15). The table of relations keeps its earlier
+    counts. Nothing is added to `integrates`; the title is unchanged.
 defeated_if: >-
   A part account or component misstated or misattributed here, a
   component's declared sense of "organization" (TERM-074) among what can
@@ -200,7 +209,7 @@ summary: >-
 
 ## The parts
 
-- **[SYNTHESIS-091](SYNTHESIS-091.md), what a normative judgment needs** (22 components). The
+- **[SYNTHESIS-091](SYNTHESIS-091.md), what a normative judgment needs** (33 components). The
   paper's [CLAIM-075](../claims.d/CLAIM-075.md) (disclaimed, Active): viability does not establish
   what ought to persist. The owner's [CLAIM-363](../claims.d/CLAIM-363.md) (Active), relata then
   truth, with [TERM-059](../terms.d/TERM-059.md); the owner's [CLAIM-518](../claims.d/CLAIM-518.md) (Active), histories, with
@@ -254,7 +263,7 @@ summary: >-
   reply, its premise); and bear on all four questions. It is also a part
   of dependence-and-domination.
 - **[SYNTHESIS-104](SYNTHESIS-104.md), accountability without blame and normative
-  governability** (14). From the first filing (2026-11-16): A's
+  governability** (20). From the first filing (2026-11-16): A's
   [QUESTION-470](../questions.d/QUESTION-470.md), put as a question by a review the owner forwarded, when
   an organization's duty to repair survives the absence of blame; A's
   [CLAIM-712](../claims.d/CLAIM-712.md), a complete record of who approved an outcome does not settle

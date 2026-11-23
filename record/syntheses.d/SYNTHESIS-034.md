@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - SYNTHESIS-tmptiwlg
 title: 'What sets when a network acquires a structure, and whether acquisition is one kind of event or several, is open: the record holds partial answers each proved or measured in one setting, refinements asking whether each survives another start, optimizer, input law or architecture, a question whether training''s order follows the posterior''s order in sample size, and a question whether circuits forming over shared features predict held-out training interventions, which the line''s frustration, concept and persona entries cite'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-18'
@@ -21,6 +21,13 @@ history:
     note of 2026-11-11, so the "Not stated" bullet on the coarse-to-fine
     questions is removed and the link recorded under the root. The title
     is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the synthesis review of 2026-11-23, coverage: added QUESTION-502,
+    an in-force entry of the line no account integrated. It is set out at
+    the end of the components; the part still holds no claim; the title is
+    unchanged.
 defeated_if: >-
   A component misstated or misattributed here; an in-force component of
   this part of the learned-structure line (the order and moment of
@@ -47,6 +54,7 @@ integrates:
 - CLAIM-360
 - QUESTION-234
 - QUESTION-274
+- QUESTION-502
 bears_on:
 - QUESTION-039
 ---
@@ -155,6 +163,15 @@ on [QUESTION-275](../questions.d/QUESTION-275.md) and [QUESTION-370](../question
 - [QUESTION-234](../questions.d/QUESTION-234.md), a promotion condition moved from [THEORY-243](../theory.d/THEORY-243.md), Open.
 - [QUESTION-274](../questions.d/QUESTION-274.md), filed from the circuits readings of 2026-10-26, Open.
 - [CLAIM-360](../claims.d/CLAIM-360.md), the owner's U38 with A38's three effects, Active.
+
+- QUESTION-502, filed beside CLAIM-774 (Proposed; no account integrates
+  it); Open; added at version 3, at the synthesis review of 2026-11-23. It
+  asks whether networks trained with orthogonalized updates learn the
+  structure of their data in a different order from gradient descent,
+  with the coarse-to-fine progressive differentiation that Saxe and
+  colleagues read (THEORY-186) weaker, absent or reversed. It names no
+  other component of this part; it is here because when, and in what
+  order, a network acquires structure is this part's question.
 
 ## Links tested as claims
 
