@@ -186,3 +186,14 @@ Rechecked after the [ADR-070](../decisions.d/ADR-070.md) vocabulary revisions of
 ## Note of 2026-11-23: the population model, run
 
 The population model this claim's notes said was missing has been run as [CASE-tmpw3vii](../cases.d/CASE-tmpw3vii.md) ([CLAIM-tmpdpnid](CLAIM-tmpdpnid.md)). It is a grant game among 20 operators on 30 populations. Operators bound by the two conditions delegated their whole budget, all of it to their own side of the decision, against a chance share of 0.47, so the second disjunct of the defeat condition is not met in this model. Under leave-one-out delegation, the authority they placed two hops or more away, 43% of it, stayed on their side, and none returned to them. The incentive is not guaranteed for each move beyond one hop (the note of 2026-10-30), yet it sorted every grant at equilibrium. Two further results bear on the claim's wording. Within their side, operators delegated to its extremes and not its nearest members ([CLAIM-tmpoc6mo](CLAIM-tmpoc6mo.md), which sets out two readings of "aligned others" for the owner). When the same grant also set whose evidence one reads, the incentive split the population into factions that read only their own side ([CLAIM-tmp5wozo](CLAIM-tmp5wozo.md)). The claim is unchanged.
+
+## Note of 2026-11-23: what holds it back
+
+The population model has been run, and it reproduces (CASE-tmpw3vii, CLAIM-
+tmpdpnid). Bound operators delegated their whole budget, all of it to their
+own side, so neither disjunct of the defeat condition is met. What remains
+is the owner's choice between CLAIM-tmpoc6mo's readings of 'aligned others'.
+On Reading A (one's own side of the decision) the claim goes Active. On
+Reading B (nearest in policy) operators chose their side's extremes and not
+its nearest members, so the claim needs a narrower decision rule or a cost
+on distance.

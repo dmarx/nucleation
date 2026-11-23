@@ -86,3 +86,12 @@ whose slow modes lack actuated, affordable control directions should fail
 the demands that need those modes moved. Those whose slow modes are
 equally slow but controllable should meet them. If failures track
 slowness and not controllability, the claim fails.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmph25dl CLAIM-478 CLAIM-758 CLAIM-tmpcag0t — Proposed; what holds it and what it holds -->
+Its third clause, that the appropriate stabilization is indexed to the
+timescales of the demands, is CLAIM-tmph25dl's central clause, and CLAIM-
+tmph25dl is Proposed, waiting on CLAIM-478 and CLAIM-758. Its other unheld
+premise, CLAIM-tmpx8csq, went Active at the status review of 2026-11-23.
+CLAIM-tmpcag0t waits on this claim.

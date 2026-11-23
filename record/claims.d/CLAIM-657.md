@@ -143,3 +143,11 @@ discovery unrewarded and inquiry costly already suffice, without the
 penalty on newly recognized violations; the penalty makes inquiry a loss.
 The study models no exit, so it says nothing of route A or of whether the
 two routes are one. No status change.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmp0bqyu CLAIM-652 — Proposed; the moves checked and the wait -->
+Rechecked after CASE-tmp8mk6w and CLAIM-tmp0bqyu (2026-11-23; the CASE went
+Active at this review). Both bear on route B only and model no exit. The
+wait is unchanged: CLAIM-652 (route A) is Proposed, and the candidate third
+route of the note of 2026-11-17 has not been filed as an objection.

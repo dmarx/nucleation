@@ -106,3 +106,12 @@ other: "The defendant had one job and one job only".
   in the reports read.
 - That the operator was blameless. The claim is about where the processes
   stopped, not about whether she was at fault.
+
+## Note of 2026-11-23: filed with its concessions
+
+<!-- inactive-ok-block: CLAIM-733 — Proposed; cited -->
+CLAIM-tmp64hmn's objection was written in when the claim was filed. The
+claim is about the criminal process. Its defeat condition and 'What it does
+not say' grant that civil and administrative processes reached the company,
+and its paragraph on CLAIM-733 grants that the outcome shows where the
+criminal law stopped, not where blame as such stops.

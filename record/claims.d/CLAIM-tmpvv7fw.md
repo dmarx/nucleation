@@ -77,3 +77,12 @@ What would revive the objection: a showing that the record's judgements in
 [CLAIM-723](CLAIM-723.md) and [THEORY-1972](../theory.d/THEORY-1972.md) are themselves only judgements of expected harm
 under uncertainty, so that once the uncertainty is removed, as the
 construction removes it, the judgement goes with it.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: ARG-tmpl0o7n CLAIM-723 THEORY-1972 — Proposed; the answer and what it rests on -->
+The argument that answers it, ARG-tmpl0o7n, is Proposed, and it rests on
+CLAIM-723 and grounds on THEORY-1972, both Proposed. So the objection is
+neither answered by a held argument nor shown sound. Whether the matched-
+outcome construction defeats premise 1, and so whether this objection goes
+Rejected, is the owner's call.

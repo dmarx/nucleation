@@ -1,16 +1,7 @@
 ---
-status: Proposed
-promote_when: >-
-  A second reading or an independent derivation confirms, for MacArthur's
-  consumer–resource model in its fast-resource Lotka–Volterra reduction,
-  that α_ij/α_jj = ρ κ_j/κ_i with ρ and κ as Table 1 defines them, and that
-  two species are then mutually invasible exactly when
-  ρ < κ₁/κ₂ < 1/ρ. A reading of Chesson (1990) that states this would do;
-  so would a derivation from the model's equations. Evidence that the
-  measures are useful in the field, or that they extend to many species,
-  is not asked for.
+status: Active
 title: "On Chesson's account of MacArthur's consumer-resource model, the ratio of interspecific to intraspecific competition is a niche overlap, a weighted cosine of two species' consumption vectors, times a ratio of average fitnesses, so the two coexist, each recovering from low density, exactly when their fitness ratio lies strictly between the overlap and its reciprocal"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -23,6 +14,24 @@ history:
     weighted cosine, and the two-species invasion growth against the full
     consumer–resource model; that is a check by the same session, not an
     independent reading, so the entry stays Proposed.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-057 and ADR-065: a reported title, its source read
+    in full (NOTE-tmp6d961); the derivation from the model's equations its
+    condition asked for is CLAIM-tmpv65bg's, followed step by step by a
+    second checker, and scratch/studies/lead-196/chesson_overlap.py and
+    its 51 tests re-run. No test exercises the excluded resource-
+    exhaustion case as a negative control. Old condition: "A second
+    reading or an independent derivation confirms, for MacArthur's
+    consumer–resource model in its fast-resource Lotka–Volterra reduction,
+    that α_ij/α_jj = ρ κ_j/κ_i with ρ and κ as Table 1 defines them, and
+    that two species are then mutually invasible exactly when ρ < κ₁/κ₂ <
+    1/ρ. A reading of Chesson (1990) that states this would do; so would a
+    derivation from the model's equations. Evidence that the measures are
+    useful in the field, or that they extend to many species, is not asked
+    for."
 tags:
 - ecology
 - mathematics

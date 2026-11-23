@@ -463,3 +463,11 @@ credit to the top and blame to the bottom. No edge.
 <!-- inactive-ok-file: CLAIM-tmp20uni CLAIM-tmp64hmn THEORY-tmpfdyu6 — new or Proposed; filed by the lead run on 2026-11-22, and the case whose gap it fills -->
 
 [CASE-292](../cases.d/CASE-292.md) left open whether blame landed on the Tempe operator. In the criminal law it did: she alone was charged and convicted, and prosecutors found "no basis for criminal liability for the Uber corporation" ([THEORY-tmpfdyu6](../theory.d/THEORY-tmpfdyu6.md)). [CLAIM-tmp20uni](CLAIM-tmp20uni.md), filed for [LEAD-189](../leads.d/LEAD-189.md), `corroborates` this claim: control over the conditions of action lay with the company ([CASE-292](../cases.d/CASE-292.md)), and the criminal law's blame lay where the failure became visible. The operator's own fault, which the NTSB found and this claim allows, does not change that. A civil settlement and the state's suspension of Uber's testing reached the company by other routes ([CLAIM-tmp64hmn](CLAIM-tmp64hmn.md)). No status changes.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-708 TERM-127 THEORY-1928 CLAIM-715 — Proposed; what holds it -->
+Three premises are not held: CLAIM-708 and TERM-127, each with a blocker
+note of 2026-11-18, and THEORY-1928, Elish's argument, which has been read
+in full and is Proposed. The claim goes Active when they do; CLAIM-715 waits
+on it.

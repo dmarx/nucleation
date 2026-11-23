@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'Operators rewarded for realized policy under a weighted-mean decision delegate, within their own side, to its most extreme members and not its nearest, because a grant''s marginal value to the granter is proportional to how far the grantee''s policy lies from the decision'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its premise CLAIM-375 is Active and CASE-
+    tmpw3vii went Active at this review; the gradient was re-derived by a
+    second checker.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

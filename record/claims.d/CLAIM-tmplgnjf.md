@@ -1,7 +1,16 @@
 ---
-status: Proposed
+status: Active
 title: 'A demand specification is not a regulation: regulations are constraints on conduct meant to induce constraints on outcomes, and a regime succeeds only if its conduct constraints make the demanded outcomes reliable under the participants'' responses, so a rule can be perfectly enforced and fail its purpose'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: an interpretive thesis with no premise
+    and no objection; it refines the owner's CLAIM-tmpz67ew without
+    objecting to it; its defeated_if (a regime judged by compliance alone)
+    is not met.
 role: thesis
 warrant: interpretive
 defeated_if: >-

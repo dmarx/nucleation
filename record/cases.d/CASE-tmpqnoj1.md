@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'A simulation of four governance architectures over cooperative, honestly dissenting and adversarial specialists in a federated learner: audit by evaluators who hold their own evidence and judge only where they hold it blocks both attacks and lifts the minority''s capability, reputation by agreement is captured by the attack that mimics dissent, two compromised evaluators of seven let that attack through where honest evidence is thin, a revisable safeguard repairs part of the damage only while its monitor is honest, and with no evidence independent of the proposals every architecture''s gain for the dissenters is the attacker''s gain in the relabelled world'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-23'
@@ -9,6 +9,15 @@ history:
     Filed 2026-11-23 by the assistant, carrying out LEAD-180 as a delegated
     lead worker. The code, its tests and the results are committed under
     scratch/studies/lead-180/.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): the study in scratch/studies/lead-180/ was
+    rerun on 2026-11-23: its tests pass and its result files reproduce
+    exactly, so it is demonstrated (status-review README section 2). The
+    summary's 'halved the dissenters' influence' corrected to the measured
+    4.2 to 0.9 times parity.
 standing: documented
 kind: executed-study
 tags:
@@ -43,7 +52,7 @@ summary: >-
   reputation by validation without jurisdiction stopped the overt attack
   and left the minority where unrestricted aggregation leaves it. With 2
   of 7 evaluators compromised, role-limited audit let the mimic attack
-  through (0.27) and halved the dissenters' influence; the adaptive arm
+  through (0.27) and cut the dissenters' influence from 4.2 to 0.9 times parity; the adaptive arm
   held it to 0.10 with an honest monitor and did no better than
   role-limited with a compromised one, which suspended every dissenter.
   With no evidence on the minority block independent of the proposals,

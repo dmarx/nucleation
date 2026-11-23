@@ -1,13 +1,20 @@
 ---
-status: Proposed
+status: Active
 title: 'Where no process holds evidence on a block of tasks that does not come from the proposals themselves, a governance rule that treats its members alike cannot tell honest dissent from an attack that pushes the same block as hard: in a world and in its relabelling, with the dissenters'' and attackers'' targets swapped, it ends in the same place, so what it gains for the dissenters in one world it gains for the attacker in the other'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-23'
   note: >-
     Filed 2026-11-23 by the assistant, carrying out LEAD-180, from the
     executed study CASE-tmpqnoj1.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its ground CASE-tmpqnoj1 went Active on a
+    reproduced rerun; the symmetry argument was rechecked (attack
+    successes x and 1 - x under relabelling).
 role: thesis
 warrant: demonstrated
 defeated_if: >-

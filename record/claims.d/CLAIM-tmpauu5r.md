@@ -89,3 +89,11 @@ objection fails and [CLAIM-750](CLAIM-750.md)'s unit stands.
 - It applies to [CLAIM-905](CLAIM-905.md) and [CASE-335](../cases.d/CASE-335.md) as well, which code single
   postmortems; it does not touch their CSB arm, whose reports are each a
   whole investigation.
+
+## Note of 2026-11-23: what holds it back
+
+The result its own 'What would settle it' names is missing: evidence of what
+Google's reviews of repeated incidents and its cross-functional process
+review produce, that is, whether any finding or action reaches decisions
+above the teams. THEORY-tmpm653d, promoted at this review, says only that
+these channels exist.

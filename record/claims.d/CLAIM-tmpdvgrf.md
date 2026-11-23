@@ -1,5 +1,5 @@
 ---
-status: Proposed
+status: Active
 title: When demands are predicates on histories with deadlines, the sets of
   them an organization can jointly meet under its response architecture and
   budget form a downward-closed complex contained in the complex of the same
@@ -7,7 +7,16 @@ title: When demands are predicates on histories with deadlines, the sets of
   incompatible in time, and a change in the response architecture, faster
   actuation, different sequencing, staged capacity or a new method, can enlarge
   the temporal complex without weakening any demand
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: its premise CLAIM-tmpk4bou promoted in
+    the same change; downward closure and containment in the deadline-free
+    complex checked; strict containment is a "can", shown by A44's
+    factory.
 role: thesis
 warrant: demonstrated
 defeated_if: A set of deadline-indexed demands that some admissible history

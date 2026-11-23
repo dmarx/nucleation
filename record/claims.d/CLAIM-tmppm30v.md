@@ -1,7 +1,26 @@
 ---
-status: Proposed
-title: 'When critics are scored by observed relevance, a population''s shared meaning settles exactly where the competence-weighted side of its specialists puts it, so grants indexed by role trade factions for a meaning that follows where competence happens to sit and can override a weak imbalance in the evidence'
-version: 1
+status: Active
+title: When critics are scored by observed relevance alone and sources' items lean
+  by their side and not by their own meanings, a population's shared meaning settles
+  exactly where the competence-weighted side of its specialists puts it, so grants
+  indexed by role trade factions for a meaning that follows where competence happens
+  to sit and can override a weak imbalance in the evidence
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its ground CASE-tmpw3vii went Active at this
+    review, e6 matching the formula to 2e-15; its title is narrowed to the
+    case the body claims (phi_s = 0, critics scored by relevance alone;
+    the body already excluded phi_s > 0). Old title: "When critics are
+    scored by observed relevance, a population's shared meaning settles
+    exactly where the competence-weighted side of its specialists puts it,
+    so grants indexed by role trade factions for a meaning that follows
+    where competence happens to sit and can override a weak imbalance in
+    the evidence". The dropped generality is a mis-statement (ADR-047 kind
+    3), so no new entry.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -40,7 +59,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmp5wozo — new; filed by the lead run of 2026-11-23 -->
 
-# CLAIM-tmppm30v: When critics are scored by observed relevance, a population's shared meaning settles exactly where the competence-weighted side of its specialists puts it, so grants indexed by role trade factions for a meaning that follows where competence happens to sit and can override a weak imbalance in the evidence
+# CLAIM-tmppm30v: When critics are scored by observed relevance alone and sources' items lean by their side and not by their own meanings, a population's shared meaning settles exactly where the competence-weighted side of its specialists puts it, so grants indexed by role trade factions for a meaning that follows where competence happens to sit and can override a weak imbalance in the evidence
 
 ## The claim
 

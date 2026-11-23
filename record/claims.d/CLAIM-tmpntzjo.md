@@ -55,3 +55,10 @@ slow modes ([CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md)).
 Identity over time as transmission of organization: [CLAIM-287](CLAIM-287.md),
 [SYNTHESIS-046](../syntheses.d/SYNTHESIS-046.md). Rate differences that make constraints: [CLAIM-478](CLAIM-478.md).
 Overconsolidation: [CLAIM-758](CLAIM-758.md). Anchors that entrench: [CLAIM-184](CLAIM-184.md).
+
+## Note of 2026-11-23: what holds it back
+
+Which reading of 'inherent' the owner means is unruled, and is already among
+the owner's open choices; A38 section 5 tells against the strong reading,
+and promoting the wording as it stands would assert both. The review leans
+to the weak one: stabilization and adaptability always bear on each other.

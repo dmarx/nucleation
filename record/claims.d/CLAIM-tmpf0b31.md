@@ -83,3 +83,12 @@ attacker, A41's "manipulation of the revision mechanism itself".
   it to the monitor ([CLAIM-tmpd6gon](CLAIM-tmpd6gon.md) moves it to the thinnest block).
 - It does not say suspending honest members is free. It costs 0.01 of main
   capability without an attack, and it is a cost of the safeguard.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmp3t5y3 — Proposed; the alternative -->
+It and CLAIM-tmp3t5y3 are alternative readings of CASE-tmpqnoj1's adaptive
+arm, on the same numbers, which reproduce. Which reading the record takes,
+whether suspending the honest but mistaken majority counts as suppressing
+honest participation, is the owner's choice and has not been made. The
+assistant leaned to CLAIM-tmpf0b31.

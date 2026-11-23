@@ -1,5 +1,5 @@
 ---
-status: Proposed
+status: Active
 title: 'What an organization''s filtering treats as noise is itself governed:
   if objections to its established categories are classed as high-frequency
   disturbance, stabilization that succeeds against its current classification
@@ -7,7 +7,16 @@ title: 'What an organization''s filtering treats as noise is itself governed:
   the distinction between demand and disturbance is a higher-order task, and
   the capacity to recognize a demand as demand-worthy is a slow capability
   that must stay open to correction'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: no premise; its complements CLAIM-361,
+    CLAIM-403 and CLAIM-466 are Active; its ADR-075 separating case
+    answers the "only restates" horn of its defeated_if, and the other
+    horn is not met.
 role: thesis
 warrant: interpretive
 defeated_if: An organization whose classification of signal against noise

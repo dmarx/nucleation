@@ -1,10 +1,10 @@
 ---
 number: 363
-status: Proposed
+status: Active
 formerly:
 - CASE-tmpz4n6b
 title: 'The coupled meaning–influence model built with two hypotheses and two specialists and reduced to its mean field: the symmetric state destabilizes when gσ² > 2(1 − φ(1 − ε)), whatever the conferral memory and the meaning rate; the reduced map is exactly a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, equal to smooth bounded confidence on a balanced corpus; and it gives authority chosen by the initial interpretation and switched by the evidence with hysteresis, which fixed-weight and reflected-appraisal models cannot'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
@@ -12,6 +12,13 @@ history:
     Filed 2026-11-22 by the assistant, carrying out LEAD-090. The code,
     tests and result files are committed beside it under
     scratch/studies/lead-090/.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): the study in scratch/studies/lead-090/ was
+    rerun on 2026-11-23: its tests pass and its result files reproduce
+    exactly, so it is demonstrated (status-review README section 2).
 standing: documented
 kind: executed-study
 tags:

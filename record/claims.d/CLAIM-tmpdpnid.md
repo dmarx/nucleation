@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'In a grant game on a population, operators bound by both grant conditions delegate their whole budget and only to operators on their own side of the decision, and under leave-one-out delegation the authority they pass beyond one hop also stays on their own side; the reward for realized policy does the aligning, the insensitivity of own authority removes what returns to oneself, and authority-seekers delegate at about chance under recursive delegation and not at all under a bound rule'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057): its ground CASE-tmpw3vii went Active at this
+    review; the defeat condition is not met on the rerun.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

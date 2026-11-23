@@ -107,3 +107,11 @@ institution with a positive reason not to inquire, which a later change
 that made inquiry cheaper would not remove. Nor anything about
 state-dependent policies, which may inquire near the end of the horizon
 when a violation found then cannot be penalized long.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmpjz94s LEAD-181 — Proposed; the alternative and the lead -->
+CASE-tmp8mk6w is now Active and reproduces, and this claim's figures match
+it. It was filed with CLAIM-tmpjz94s as alternative answers to LEAD-181's
+test, and which one answers it is the owner's choice under ADR-127; the
+review finds the two consistent as measurements.

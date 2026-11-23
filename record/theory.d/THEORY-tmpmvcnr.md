@@ -1,15 +1,26 @@
 ---
-status: Proposed
-promote_when: >-
-  An independent derivation, or a simulation of a large population started
-  on the manifold, confirms what the title says: that the family of
-  distributions with Fourier coefficients αⁿ is invariant under
-  first-harmonic global coupling, and that with a Lorentzian frequency
-  distribution the order parameter then follows eq. 10 of the paper.
-  Whether the manifold attracts is not required; it is held separately
-  (THEORY-tmp0d58z).
+status: Active
 title: 'Ott and Antonsen show that for infinitely many globally coupled phase oscillators with first-harmonic coupling, the distributions whose phase Fourier coefficients are powers of one function of frequency form an invariant manifold, on which the order parameter obeys a finite set of ordinary differential equations exactly when the frequency distribution is rational, one complex equation per pole in the lower half-plane, while the distribution on the manifold stays infinite-dimensional, with a continuous spectrum of neutral modes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted at the status review's ruling (the owner delegated these
+    rulings), under ADR-057 and ADR-065: a reported title read in full
+    (NOTE-tmpd7trg); invariance re-derived (CLAIM-tmpo6ehq's hierarchy at
+    H_2 = 0) and eq. 10 checked by a 200,000-oscillator simulation started
+    on the manifold, with a Gaussian control that fails
+    (scratch/studies/lead-094/oa_eq10_check.py: maximum deviation 0.004,
+    0.003, 0.001 at K = 1, 3, 4 against 0.05, 0.15, 0.20 for the control),
+    run by the reviewer and re-run by the coordinator. Old condition: "An
+    independent derivation, or a simulation of a large population started
+    on the manifold, confirms what the title says: that the family of
+    distributions with Fourier coefficients αⁿ is invariant under first-
+    harmonic global coupling, and that with a Lorentzian frequency
+    distribution the order parameter then follows eq. 10 of the paper.
+    Whether the manifold attracts is not required; it is held separately
+    (THEORY-tmp0d58z)."
 tags:
 - complex-systems
 - mathematics

@@ -1,13 +1,21 @@
 ---
-status: Proposed
-promote_when: >-
-  A court record, a prosecutor's statement or a second independent
-  report confirms that the operator in the Tempe crash, charged with
-  negligent homicide, pleaded guilty to endangerment and was sentenced to
-  three years of supervised probation, and that prosecutors declined to
-  charge Uber as a corporation. Why they declined is not asserted.
+status: Active
 title: 'The Associated Press reports that the Tempe operator, charged with negligent homicide, pleaded guilty to endangerment and was sentenced to three years of supervised probation, and that prosecutors had declined to charge Uber as a corporation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings; ADR-057) and ADR-065: the title reports the Associated
+    Press, read in full (NOTE-tmpeb1f9), and nothing in the record
+    contradicts it. The old condition moves with the wider thesis to
+    THEORY-tmp9ropf (ADR-047 kind 1). Old condition: "A court record, a
+    prosecutor's statement or a second independent report confirms that
+    the operator in the Tempe crash, charged with negligent homicide,
+    pleaded guilty to endangerment and was sentenced to three years of
+    supervised probation, and that prosecutors declined to charge Uber as
+    a corporation. Why they declined is not asserted."
 tags:
 - society-and-governance
 - ethics

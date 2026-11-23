@@ -1,5 +1,5 @@
 ---
-status: Proposed
+status: Active
 title: If an organization's operation relaxes at rate γ toward a configuration
   h(θ) set by a governance parameter θ that changes at rate at most V, with
   h Lipschitz with constant L, then its distance from the governed configuration
@@ -8,7 +8,17 @@ title: If an organization's operation relaxes at rate γ toward a configuration
   ≤ ε; the condition is sufficient, not necessary, and it complements the
   necessary bound that a reference revisable at rate v cannot reach a demand
   farther than vH
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Promoted to Active at the status review's ruling (the owner delegated
+    these rulings), under ADR-057: no premise; the error bound by
+    variation of constants re-checked, and numerically (sup |e| = 0.6000
+    against a bound of 0.6000). Its "cannot reach a demand farther than
+    vH" is of the reference's own reach; CLAIM-tmp2k3c5 bounds the demand
+    by vH + delta + epsilon.
 role: thesis
 warrant: demonstrated
 defeated_if: An error in the bound. As a reading of organizations, defeated

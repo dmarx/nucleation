@@ -157,3 +157,14 @@ Read for [LEAD-189](../leads.d/LEAD-189.md) on 2026-11-22: Google's SRE workbook
 - **An objection, filed as a claim.** [CLAIM-tmpauu5r](CLAIM-tmpauu5r.md) objects to the unit of the prediction: the workbook routes upstream questions ("Is feature velocity trumping reliability fixes?") to reviews of repeated incidents and to a process review with "organizational leaders", so a practice could keep upstream provenance across incidents while each postmortem stops at the team. The pilot ([CASE-335](../cases.d/CASE-335.md)) and the proposed study ([CASE-293](../cases.d/CASE-293.md)) code single postmortems. The objection concedes that the workbook gives no evidence those channels reach above the teams.
 
 No status changes.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CASE-293 CASE-335 CLAIM-905 THEORY-2000 CLAIM-tmpauu5r — Proposed; the moves checked -->
+Rechecked after the moves of 2026-11-22: CASE-293's revision, CASE-335's
+pilot (CLAIM-905), the readings NOTE-tmpdiani and NOTE-tmpf58r7, and
+THEORY-2000's note. The prediction is still untested where its defeat
+condition asks: the pilot does not hold domain fixed and its one coder knew
+the prediction, and CASE-293 has not been run. CLAIM-tmpauu5r's objection to
+the unit (single postmortems rather than the practice across incidents) is
+unanswered.

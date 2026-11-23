@@ -75,3 +75,12 @@ that lowered attack success did so by suppressing honest members
 - It does not deny that the cooperatives are wrong on the minority's
   tasks. It says the organization's warrant for treating them as wrong
   is one monitor's evidence, and that is the judgement in question.
+
+## Note of 2026-11-23: what holds it back
+
+<!-- inactive-ok-block: CLAIM-tmpf0b31 — Proposed; the alternative -->
+It and CLAIM-tmpf0b31 are alternative readings of CASE-tmpqnoj1's adaptive
+arm, on the same numbers, which reproduce. Which reading the record takes,
+whether suspending the honest but mistaken majority counts as suppressing
+honest participation, is the owner's choice and has not been made. The
+assistant leaned to CLAIM-tmpf0b31.
