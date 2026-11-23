@@ -28,12 +28,12 @@ grounds:
 - CASE-tmpk3qls
 - CASE-tmpp2okq
 summary: >-
-  The verdict of two cases of LEAD-001's set on possession against
+  The verdict of two cases of [LEAD-001](../leads.d/LEAD-001.md)'s set on possession against
   accessibility. A fact a probe decodes and the model never uses is
   stored, not known; a fact the model's own procedures use under one
   admissible cue is known relative to a procedure class that includes
-  that cue. CLAIM-296's has-against-deploys and CLAIM-697's
-  resource-conditional disposition applied to knowing, as QUESTION-493's
+  that cue. [CLAIM-296](CLAIM-296.md)'s has-against-deploys and [CLAIM-697](CLAIM-697.md)'s
+  resource-conditional disposition applied to knowing, as [QUESTION-493](../questions.d/QUESTION-493.md)'s
   candidate (A73) began to. The wording is the assistant's (Claude, in
   this session); adopting it is the owner's call.
 ---
@@ -44,18 +44,18 @@ summary: >-
 
 ## The claim
 
-QUESTION-493's candidate (A73) separates possession, accessibility and
+[QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73) separates possession, accessibility and
 manifestation, and says both that "a capacity costly to exercise is still
 possessed" and that "a fact buried in a gigantic database and inaccessible
 to every permitted retrieval procedure should not automatically count".
 Two cases fix where the line falls.
 
-- CASE-tmpk3qls: a linear probe reads the true country of a city from a
+- [CASE-tmpk3qls](../cases.d/CASE-tmpk3qls.md): a linear probe reads the true country of a city from a
   model's activations; the model answers and reasons with a false one;
   ablating the probe's direction changes nothing. The information is
   stored and cheaply decodable. No procedure of the model uses it. Not
   known.
-- CASE-tmpp2okq: the model answers a fact correctly, and reasons from it,
+- [CASE-tmpp2okq](../cases.d/CASE-tmpp2okq.md): the model answers a fact correctly, and reasons from it,
   under a French cue and not under its default English query; a
   one-sentence instruction restores it in English. Known, relative to a
   procedure class that includes the cue or the instruction; not
@@ -63,21 +63,21 @@ Two cases fix where the line falls.
 
 What separates them is not cost of retrieval (the probe is cheap) but
 whose procedure brings the information to bear as a premise in
-TERM-079's sense. So:
+[TERM-079](../terms.d/TERM-079.md)'s sense. So:
 
 1. Information is a candidate for knowledge of a declared system only if
    some procedure that system may use, within a declared budget, uses it
    as a premise.
 2. "The model knows p" is incomplete until the procedures and the budget
-   are named, as CLAIM-697 says of a disposition to succeed and
-   CLAIM-296 of what a system can deploy given the cue.
+   are named, as [CLAIM-697](CLAIM-697.md) says of a disposition to succeed and
+   [CLAIM-296](CLAIM-296.md) of what a system can deploy given the cue.
 3. Adding an outside probe to the declared system does not by that make
    the information known: the composite then answers with p while its
    further inferences run on not-p. A composite knows only where its
    procedures use what its part produces, which is the condition
-   CASE-tmppqt0f's generator and verifier meet.
+   [CASE-tmppqt0f](../cases.d/CASE-tmppqt0f.md)'s generator and verifier meet.
 
-The record's executed study CASE-371, where facts fine-tuned away stay
+The record's executed study [CASE-371](../cases.d/CASE-371.md), where facts fine-tuned away stay
 recoverable by an untrained cue, a probe or the runner-up answer, is the
 evidence that such states occur; which of its recoveries count as the
 system's procedures is a declaration this claim says must be made.

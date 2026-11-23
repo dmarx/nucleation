@@ -17,9 +17,9 @@ bears_on:
 draws_on:
 - THEORY-438
 summary: >-
-  The sixth of the set LEAD-001 asks for, separating knowledge from
-  understanding. It files as a case the example QUESTION-493's candidate
-  (A73 §7) gives and QUESTION-360's note records: two learners agree on
+  The sixth of the set [LEAD-001](../leads.d/LEAD-001.md) asks for, separating knowledge from
+  understanding. It files as a case the example [QUESTION-493](../questions.d/QUESTION-493.md)'s candidate
+  (A73 §7) gives and [QUESTION-360](../questions.d/QUESTION-360.md)'s note records: two learners agree on
   every tabulated value, and on a shift of target to x² + c the rule
   learner adapts from one example while the table learner must relearn
   every entry. The construction is A73's; its filing as a case, and the
@@ -58,7 +58,7 @@ Its facts are its definition: nothing here is measured.
   only R gets inputs outside the table right. So knowledge of the values
   is shared and understanding of f is not.
 - **Present outputs do not separate them.** Over the declared family, no
-  test of outputs can, which is CLAIM-519's result for world models
+  test of outputs can, which is [CLAIM-519](../claims.d/CLAIM-519.md)'s result for world models
   (a lookup policy reproduces any agent's interaction distribution over a
   fixed interface and horizon). Only change separates them: new inputs,
   or a changed target.
@@ -67,14 +67,14 @@ Its facts are its definition: nothing here is measured.
 
 A73 calls understanding "developmental value": the two "agree now and
 part when the target becomes x² + c". The case agrees, and it is
-CLAIM-754's developmental frontier (what a learner can come to do within
+[CLAIM-754](../claims.d/CLAIM-754.md)'s developmental frontier (what a learner can come to do within
 a further acquisition budget) moved by what was learned. It also meets
-THEORY-438's test, stable tracking under structure-preserving change of
+[THEORY-438](../theory.d/THEORY-438.md)'s test, stable tracking under structure-preserving change of
 input: R tracks x² on new inputs and T does not. The two readings of
-understanding agree here. They part on CASE-tmphawe9, a rule with no
-capacity to learn, where the alternatives CLAIM-tmpf4pun and
-CLAIM-tmpadjsm give different verdicts. CASE-tmp55ptq is R with noisy
-arithmetic. Whether T believes its values in TERM-079's sense is thin:
+understanding agree here. They part on [CASE-tmphawe9](CASE-tmphawe9.md), a rule with no
+capacity to learn, where the alternatives [CLAIM-tmpf4pun](../claims.d/CLAIM-tmpf4pun.md) and
+[CLAIM-tmpadjsm](../claims.d/CLAIM-tmpadjsm.md) give different verdicts. [CASE-tmp55ptq](CASE-tmp55ptq.md) is R with noisy
+arithmetic. Whether T believes its values in [TERM-079](../terms.d/TERM-079.md)'s sense is thin:
 a pure lookup draws no further inferences, so its belief is degenerate
 rather than absent.
 
@@ -82,5 +82,5 @@ rather than absent.
 
 That knowledge and understanding come apart in a learner, and that only
 a change of input or target shows it. Being a construction, nothing about
-which real systems are table-like. One of the separations CLAIM-tmpngm72
+which real systems are table-like. One of the separations [CLAIM-tmpngm72](../claims.d/CLAIM-tmpngm72.md)
 collects.

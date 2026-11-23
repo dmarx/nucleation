@@ -94,28 +94,28 @@ Background ([NOTE-2160](../notes.d/NOTE-2160.md)): Brown and colleagues read clo
 
 ## Note of 2026-11-23: cases that separate the four things, and understanding
 
-LEAD-001 filed nine cases and their verdicts against A73's candidate
-answer. CLAIM-tmpngm72 collects eight separations among stored
+[LEAD-001](../leads.d/LEAD-001.md) filed nine cases and their verdicts against A73's candidate
+answer. [CLAIM-tmpngm72](../claims.d/CLAIM-tmpngm72.md) collects eight separations among stored
 information, belief, correct output, knowledge and understanding. The
 candidate holds on every case, with two findings:
 
 - **Reliability over a family as declared is not enough.** A classifier
-  reading a watermark (CASE-tmpr1f20) and a model whose stale source was
-  made true again by a reappointment (CASE-tmpcz1jq) are reliable there
+  reading a watermark ([CASE-tmpr1f20](../cases.d/CASE-tmpr1f20.md)) and a model whose stale source was
+  made true again by a reappointment ([CASE-tmpcz1jq](../cases.d/CASE-tmpcz1jq.md)) are reliable there
   and do not know. A73's grounding criterion, and its second and third
   tests, catch both. Whether grounding is then a further condition or
   reliability over a family closed under interventions on the truthmaker
-  is filed as alternatives: CLAIM-tmpeonjp (the assistant's lean) and
-  CLAIM-tmp5qk10.
+  is filed as alternatives: [CLAIM-tmpeonjp](../claims.d/CLAIM-tmpeonjp.md) (the assistant's lean) and
+  [CLAIM-tmp5qk10](../claims.d/CLAIM-tmp5qk10.md).
 - **Possession and where it sits.** A fact a probe decodes and the model
-  never uses (CASE-tmpk3qls) is stored, not known; one the model uses
-  under one cue (CASE-tmpp2okq) is known relative to the declared
-  procedures and budget (CLAIM-tmpgfunb). A generator filtered by an exact
-  verifier (CASE-tmppqt0f) knows as a composite under a budget, and
-  neither part does (CLAIM-tmphm1g8).
+  never uses ([CASE-tmpk3qls](../cases.d/CASE-tmpk3qls.md)) is stored, not known; one the model uses
+  under one cue ([CASE-tmpp2okq](../cases.d/CASE-tmpp2okq.md)) is known relative to the declared
+  procedures and budget ([CLAIM-tmpgfunb](../claims.d/CLAIM-tmpgfunb.md)). A generator filtered by an exact
+  verifier ([CASE-tmppqt0f](../cases.d/CASE-tmppqt0f.md)) knows as a composite under a budget, and
+  neither part does ([CLAIM-tmphm1g8](../claims.d/CLAIM-tmphm1g8.md)).
 
 A84's question whether understanding "necessarily entails greater future
-learnability" turns on a frozen exact rule (CASE-tmphawe9): on
-CLAIM-tmpf4pun (the assistant's lean, understanding as stable tracking,
-THEORY-438) no; on CLAIM-tmpadjsm (understanding as developmental value,
+learnability" turns on a frozen exact rule ([CASE-tmphawe9](../cases.d/CASE-tmphawe9.md)): on
+[CLAIM-tmpf4pun](../claims.d/CLAIM-tmpf4pun.md) (the assistant's lean, understanding as stable tracking,
+[THEORY-438](../theory.d/THEORY-438.md)) no; on [CLAIM-tmpadjsm](../claims.d/CLAIM-tmpadjsm.md) (understanding as developmental value,
 A73) yes. On every learner the two agree. No status change.

@@ -16,7 +16,7 @@ bears_on:
 draws_on:
 - THEORY-1024
 summary: >-
-  The first of the set LEAD-001 asks for, separating stored information
+  The first of the set [LEAD-001](../leads.d/LEAD-001.md) asks for, separating stored information
   from belief, correct output and knowledge. A linear probe trained on a
   model's activations reads a fact (a city's country) correctly almost
   every time, while the model answers with another country and reasons
@@ -51,7 +51,7 @@ the outside probe.
 ## What it separates
 
 - **Stored information without belief.** The information that Ardel is in
-  P is present and recoverable. By TERM-079's probes (anticipation,
+  P is present and recoverable. By [TERM-079](../terms.d/TERM-079.md)'s probes (anticipation,
   inferential generalization, epistemic intervention) the model believes
   Q: Q is what it uses as a premise.
 - **Stored true information without correct output or knowledge.** The
@@ -60,7 +60,7 @@ the outside probe.
 
 ## Against the candidate answers
 
-QUESTION-493's candidate (A73) says that "a fact buried in a gigantic
+[QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73) says that "a fact buried in a gigantic
 database and inaccessible to every permitted retrieval procedure should
 not automatically count". The case agrees, and sharpens it: the fact here
 is not buried in the sense of costly to find. A cheap procedure finds it.
@@ -68,7 +68,7 @@ What makes it not known is that no procedure of the declared system uses
 it. If the probe is declared part of the system, the composite model plus
 probe outputs P reliably, while the model's own inferences still run on
 Q, so the composite's answer and its inferences disagree. That is the
-point CLAIM-tmpgfunb makes: knowing is relative to the declared system
+point [CLAIM-tmpgfunb](../claims.d/CLAIM-tmpgfunb.md) makes: knowing is relative to the declared system
 and budget, and decodability alone makes information stored, not known.
 A73's fourth test, intervention on the supposed mechanism, is what shows
 the direction is not used: ablating it changes nothing.
@@ -76,17 +76,17 @@ the direction is not used: ablating it changes nothing.
 ## Related held cases
 
 The record's executed toy studies hold real versions of the same split:
-CASE-371 (facts fine-tuned away stay recoverable by a probe, a cue or
-the runner-up answer), CASE-357 (a trigger decodable and recruited
-after its behaviour is never expressed) and CASE-271 (readout
+[CASE-371](CASE-371.md) (facts fine-tuned away stay recoverable by a probe, a cue or
+the runner-up answer), [CASE-357](CASE-357.md) (a trigger decodable and recruited
+after its behaviour is never expressed) and [CASE-271](CASE-271.md) (readout
 suppression and deletion that read alike at the original query).
-THEORY-1024 is the caution on the other side: where causal tracing
+[THEORY-1024](../theory.d/THEORY-1024.md) is the caution on the other side: where causal tracing
 localizes a fact barely predicts where editing it succeeds, so a located
 representation is not thereby the one the system uses.
 
 ## What it can show
 
 That stored information and belief come apart coherently, as one of the
-separations CLAIM-tmpngm72 collects. Being fictional, nothing about how
-often real models are in this state. CASE-tmpp2okq is the contrast: there
+separations [CLAIM-tmpngm72](../claims.d/CLAIM-tmpngm72.md) collects. Being fictional, nothing about how
+often real models are in this state. [CASE-tmpp2okq](CASE-tmpp2okq.md) is the contrast: there
 the model's own procedures do use the stored fact, under one cue.

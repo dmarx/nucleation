@@ -115,10 +115,10 @@ No status change.
 ## Note of 2026-11-23: A73's table and rule filed as a case
 
 The x² example this question's note of A73 §7 records is now a case,
-CASE-tmpkttf2, with two variants: CASE-tmp55ptq, the rule computed by a
+[CASE-tmpkttf2](../cases.d/CASE-tmpkttf2.md), with two variants: [CASE-tmp55ptq](../cases.d/CASE-tmp55ptq.md), the rule computed by a
 noisy multiplier (understanding without reliably correct output), and
-CASE-tmphawe9, a frozen exact rule that cannot learn. The last sets apart
+[CASE-tmphawe9](../cases.d/CASE-tmphawe9.md), a frozen exact rule that cannot learn. The last sets apart
 two criteria this question could use to tell a concept from a
 discriminator: stable tracking under structure-preserving change
-(CLAIM-tmpf4pun, the assistant's lean) and cheap acquisition of the next
-target (CLAIM-tmpadjsm). Filed for QUESTION-493; no status change here.
+([CLAIM-tmpf4pun](../claims.d/CLAIM-tmpf4pun.md), the assistant's lean) and cheap acquisition of the next
+target ([CLAIM-tmpadjsm](../claims.d/CLAIM-tmpadjsm.md)). Filed for [QUESTION-493](QUESTION-493.md); no status change here.

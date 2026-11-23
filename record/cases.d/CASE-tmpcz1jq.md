@@ -16,7 +16,7 @@ bears_on:
 draws_on:
 - THEORY-1737
 summary: >-
-  The fourth of the set LEAD-001 asks for: a learning system's Gettier
+  The fourth of the set [LEAD-001](../leads.d/LEAD-001.md) asks for: a learning system's Gettier
   case. A model whose training data end while Avery runs a firm answers
   "Avery" to "Who runs the firm?". Since then Blake ran it and left, and
   Avery was reappointed last month. The answer is true, believed, and
@@ -48,7 +48,7 @@ Two variants hold the model fixed and change the world or the context:
 ## What it separates
 
 - **True belief, reliably sourced, without knowledge.** The answer is
-  true and is a belief by TERM-079's probes. The process that produced it
+  true and is a belief by [TERM-079](../terms.d/TERM-079.md)'s probes. The process that produced it
   (training on a period's documents) was reliable for that period. What
   makes it true now is the reappointment, and the answer does not depend
   on it: across the variants the answer is fixed while its truth varies.
@@ -59,18 +59,18 @@ Two variants hold the model fixed and change the world or the context:
 
 ## Against the candidate answers
 
-QUESTION-493's candidate (A73) gives three criteria and four tests. Truth
+[QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73) gives three criteria and four tests. Truth
 holds; reliability over the family of queries in the training period
 holds, and over the family "present-tense queries across years" fails;
 grounding fails, since the answer is not connected to what now makes it
 correct. A73's third test, "a changed fact with valid corrective
-evidence", is the one that shows it, and THEORY-1737 reports the
+evidence", is the one that shows it, and [THEORY-1737](../theory.d/THEORY-1737.md) reports the
 documented pattern at scale: memory agents fed conflicting facts in turn
 fail to act on the latest. The case agrees with A73's verdict, not
 knowledge, and adds what A73 leaves implicit: the declared family must
 range over the times the truthmaker can change, not over the training
-period. As in CASE-tmpr1f20, the two readings of grounding filed as
-alternatives, CLAIM-tmp5qk10 and CLAIM-tmpeonjp, agree on the verdict and
+period. As in [CASE-tmpr1f20](CASE-tmpr1f20.md), the two readings of grounding filed as
+alternatives, [CLAIM-tmp5qk10](../claims.d/CLAIM-tmp5qk10.md) and [CLAIM-tmpeonjp](../claims.d/CLAIM-tmpeonjp.md), agree on the verdict and
 differ in what does the work.
 
 ## What it can show
@@ -78,5 +78,5 @@ differ in what does the work.
 That truth, belief and a reliable source together do not make knowledge
 in a learning system whose source has gone stale: Gettier's structure
 arises from training cut-offs without any contrivance. Being fictional,
-nothing about how often it occurs. One of the separations CLAIM-tmpngm72
+nothing about how often it occurs. One of the separations [CLAIM-tmpngm72](../claims.d/CLAIM-tmpngm72.md)
 collects.

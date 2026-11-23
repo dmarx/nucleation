@@ -15,7 +15,7 @@ bears_on:
 draws_on:
 - THEORY-1894
 summary: >-
-  The second of the set LEAD-001 asks for, separating a correct output
+  The second of the set [LEAD-001](../leads.d/LEAD-001.md) asks for, separating a correct output
   from belief, reliability and knowledge. Sampled two hundred times on a
   hard arithmetic question, a model gives the right answer once and
   spreads the rest over many wrong ones, none preferred. Read at the
@@ -45,7 +45,7 @@ read, and whether one or all are.
 ## What it separates
 
 - **Correct output without belief.** No answer is used as a premise
-  across the model's further inferences in TERM-079's sense; the correct
+  across the model's further inferences in [TERM-079](../terms.d/TERM-079.md)'s sense; the correct
   one has no standing among the others.
 - **Correct output without reliability, and so without knowledge.** The
   output is right by the draw. Over the declared family (this question,
@@ -53,13 +53,13 @@ read, and whether one or all are.
 
 ## Against the candidate answers
 
-QUESTION-493's candidate (A73) says one correct response in many samples
-is "evidence of generative reach", not knowledge, which is CLAIM-697's
+[QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73) says one correct response in many samples
+is "evidence of generative reach", not knowledge, which is [CLAIM-697](../claims.d/CLAIM-697.md)'s
 coverage against delivery. The case agrees on every criterion A73 lists:
 true, but not reliable over the declared family, and not grounded, since
 nothing in the model's processing distinguishes the right product from
 the wrong ones (A73's first test, reliability, already fails; the others
-need not be run). THEORY-1894 is the documented pattern at scale:
+need not be run). [THEORY-1894](../theory.d/THEORY-1894.md) is the documented pattern at scale:
 coverage rises with samples while selection without a verifier plateaus
 far below it.
 
@@ -67,6 +67,6 @@ far below it.
 
 That a correct output is not evidence of belief or knowledge without its
 distribution. Being fictional, nothing about how common the profile is.
-CASE-tmppqt0f adds a verifier to a generator like this one, and asks where
-the knowing then sits (CLAIM-tmphm1g8). One of the separations
-CLAIM-tmpngm72 collects.
+[CASE-tmppqt0f](CASE-tmppqt0f.md) adds a verifier to a generator like this one, and asks where
+the knowing then sits ([CLAIM-tmphm1g8](../claims.d/CLAIM-tmphm1g8.md)). One of the separations
+[CLAIM-tmpngm72](../claims.d/CLAIM-tmpngm72.md) collects.

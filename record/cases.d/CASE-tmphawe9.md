@@ -19,9 +19,9 @@ bears_on:
 draws_on:
 - THEORY-438
 summary: >-
-  The ninth of the set LEAD-001 asks for, the one on which the candidate
+  The ninth of the set [LEAD-001](../leads.d/LEAD-001.md) asks for, the one on which the candidate
   readings of understanding part. A circuit, the frozen end state of a
-  learner like CASE-tmpkttf2's R, computes x² exactly on every input and
+  learner like [CASE-tmpkttf2](CASE-tmpkttf2.md)'s R, computes x² exactly on every input and
   has no plasticity left. It tracks the structure perfectly and cannot
   learn x² + c at any budget. It tests A84's question whether
   understanding "necessarily entails greater future learnability". The
@@ -35,7 +35,7 @@ summary: >-
 
 ## The case
 
-Learner R of CASE-tmpkttf2 is trained, then frozen: its program x ↦ x · x
+Learner R of [CASE-tmpkttf2](CASE-tmpkttf2.md) is trained, then frozen: its program x ↦ x · x
 is compiled into a fixed circuit with exact arithmetic and no parameter
 any further experience can change. Call it F.
 
@@ -43,20 +43,20 @@ any further experience can change. Call it F.
   preserves the structure (any integer, any representation of it), F
   tracks the function.
 - When the target becomes x² + c, F can be shown any number of pairs and
-  remains x². Its developmental frontier, in CLAIM-754's sense, coincides
+  remains x². Its developmental frontier, in [CLAIM-754](../claims.d/CLAIM-754.md)'s sense, coincides
   with its operational one: there is nothing it can come to do that it
   cannot already do.
-- F has stopped being a learning system in TERM-131's sense; it was one,
+- F has stopped being a learning system in [TERM-131](../terms.d/TERM-131.md)'s sense; it was one,
   and its organization is the product of learning.
 
 ## What it separates
 
-F separates the two criteria for understanding that QUESTION-493's
+F separates the two criteria for understanding that [QUESTION-493](../questions.d/QUESTION-493.md)'s
 candidate and the record hold:
 
-- **Stable tracking** (THEORY-438: understanding as stable tracking under
+- **Stable tracking** ([THEORY-438](../theory.d/THEORY-438.md): understanding as stable tracking under
   structure-preserving perturbation). F tracks x² perfectly, better than
-  R′ of CASE-tmp55ptq. On this criterion F understands x².
+  R′ of [CASE-tmp55ptq](CASE-tmp55ptq.md). On this criterion F understands x².
 - **Developmental value** (A73: understanding shows as cheap acquisition
   of the next target). F acquires nothing. On this criterion F knows
   every value of x² and does not understand it.
@@ -70,11 +70,11 @@ A84 asks: "Does understanding necessarily entail greater future
 learnability?" F is where the answer matters. Two readings, filed as
 alternatives:
 
-- CLAIM-tmpf4pun (the assistant's lean): understanding is stable tracking;
+- [CLAIM-tmpf4pun](../claims.d/CLAIM-tmpf4pun.md) (the assistant's lean): understanding is stable tracking;
   F understands; learnability is the usual sign in a learner, not a
-  condition. For a learner the two criteria coincide, as CASE-tmpkttf2
+  condition. For a learner the two criteria coincide, as [CASE-tmpkttf2](CASE-tmpkttf2.md)
   shows; F is not a learner.
-- CLAIM-tmpadjsm: understanding is developmental value; F knows without
+- [CLAIM-tmpadjsm](../claims.d/CLAIM-tmpadjsm.md): understanding is developmental value; F knows without
   understanding; understanding entails learnability by definition.
 
 ## What it can show
@@ -83,5 +83,5 @@ That the two criteria the record has for understanding are not
 equivalent, and that their difference lies only in systems that cannot
 learn further. Being a construction, nothing about real systems, though
 a deployed model with frozen weights and no in-context adaptation for
-the relevant task is near it. One of the separations CLAIM-tmpngm72
-collects, on the reading CLAIM-tmpf4pun takes.
+the relevant task is near it. One of the separations [CLAIM-tmpngm72](../claims.d/CLAIM-tmpngm72.md)
+collects, on the reading [CLAIM-tmpf4pun](../claims.d/CLAIM-tmpf4pun.md) takes.

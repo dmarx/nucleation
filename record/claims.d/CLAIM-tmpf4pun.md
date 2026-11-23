@@ -30,13 +30,13 @@ grounds:
 - CASE-tmp55ptq
 - THEORY-438
 summary: >-
-  One of two readings of understanding that CASE-tmphawe9, a frozen
+  One of two readings of understanding that [CASE-tmphawe9](../cases.d/CASE-tmphawe9.md), a frozen
   circuit computing x² exactly, sets apart; filed as alternatives, this
   is the assistant's lean. On it the circuit understands x², and A84's
   question whether understanding "necessarily entails greater future
   learnability" is answered no: in a learner the two go together, but
   learnability is the sign, not the thing. The alternative is
-  CLAIM-tmpadjsm. The wording is the assistant's (Claude, in this
+  [CLAIM-tmpadjsm](CLAIM-tmpadjsm.md). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-438 CLAIM-754 CLAIM-519 — Proposed; cited as a ground read as a criterion, and as criteria applied -->
@@ -48,17 +48,17 @@ summary: >-
 
 The record holds two criteria for understanding in a learning system:
 
-- THEORY-438's: understanding is "stable tracking under
+- [THEORY-438](../theory.d/THEORY-438.md)'s: understanding is "stable tracking under
   structure-preserving perturbation";
-- QUESTION-493's candidate (A73): understanding is developmental value,
-  shown when the rule-learner of CASE-tmpkttf2 adapts to x² + c from one
-  example and the table-learner must relearn; CLAIM-754's developmental
+- [QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73): understanding is developmental value,
+  shown when the rule-learner of [CASE-tmpkttf2](../cases.d/CASE-tmpkttf2.md) adapts to x² + c from one
+  example and the table-learner must relearn; [CLAIM-754](CLAIM-754.md)'s developmental
   frontier is what moves.
 
-On every learner in LEAD-001's set the two agree: CASE-tmpkttf2's rule
+On every learner in [LEAD-001](../leads.d/LEAD-001.md)'s set the two agree: [CASE-tmpkttf2](../cases.d/CASE-tmpkttf2.md)'s rule
 learner understands on both and its table learner on neither;
-CASE-tmp55ptq's noisy rule-executor understands on both. They part only on
-CASE-tmphawe9, a frozen circuit that computes x² exactly and cannot learn.
+[CASE-tmp55ptq](../cases.d/CASE-tmp55ptq.md)'s noisy rule-executor understands on both. They part only on
+[CASE-tmphawe9](../cases.d/CASE-tmphawe9.md), a frozen circuit that computes x² exactly and cannot learn.
 
 This claim takes the first. The frozen circuit understands x², and
 learnability is the usual sign of understanding in a learner, not a
@@ -74,7 +74,7 @@ condition of it. Three reasons:
    R adapts to x² + c cheaply because it holds x², whose structure x² + c
    shares; T relearns because it holds no structure. Cheap acquisition is
    what holding a structure buys a learner.
-3. **It keeps understanding a property of the organization now.** QUESTION-493
+3. **It keeps understanding a property of the organization now.** [QUESTION-493](../questions.d/QUESTION-493.md)
    asks where in a system the knowing sits; on this reading understanding
    sits in what the system's organization tracks, testable on the system
    as it is, without a further training run.
@@ -82,8 +82,8 @@ condition of it. Three reasons:
 ## What it does not say
 
 - Not that tracking is easy to test. Over any finite family of
-  perturbations a table can match it (CLAIM-519's point for world
+  perturbations a table can match it ([CLAIM-519](CLAIM-519.md)'s point for world
   models), so evidence of tracking must include changes outside any
-  table the system could hold. CLAIM-tmpadjsm makes this its argument.
+  table the system could hold. [CLAIM-tmpadjsm](CLAIM-tmpadjsm.md) makes this its argument.
 - Not that the developmental test is useless. For a learner it is the
   best test there is, because a changed target lies outside any table.

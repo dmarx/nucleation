@@ -19,9 +19,9 @@ grounds:
 - CASE-tmpr1f20
 - CASE-tmpcz1jq
 summary: >-
-  The alternative to CLAIM-tmpeonjp, filed so that the owner can choose:
+  The alternative to [CLAIM-tmpeonjp](CLAIM-tmpeonjp.md), filed so that the owner can choose:
   A73's grounding criterion read as it is listed, a condition beside
-  reliability. The two agree on every case of LEAD-001's set and differ
+  reliability. The two agree on every case of [LEAD-001](../leads.d/LEAD-001.md)'s set and differ
   in whether grounding reduces to reliability over a well-declared
   family. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
@@ -32,16 +32,16 @@ summary: >-
 
 ## The claim
 
-QUESTION-493's candidate (A73) lists grounding as its own criterion, "knowledge
+[QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73) lists grounding as its own criterion, "knowledge
 must be connected appropriately to what makes it correct", beside truth
 and counterfactual reliability. On this reading it stays there.
-CASE-tmpr1f20 and CASE-tmpcz1jq are reliable over the families their
+[CASE-tmpr1f20](../cases.d/CASE-tmpr1f20.md) and [CASE-tmpcz1jq](../cases.d/CASE-tmpcz1jq.md) are reliable over the families their
 evaluators would declare, and grounding is what they lack. Interventions
 on the cue and on the truthmaker are how it is tested, not what it is.
 
 Two reasons to keep it separate:
 
-- **Declaring the family presupposes grounding.** CLAIM-tmpeonjp has the
+- **Declaring the family presupposes grounding.** [CLAIM-tmpeonjp](CLAIM-tmpeonjp.md) has the
   family range over interventions on "what makes the answer true", with
   its effects following and its correlates held fixed. To declare that
   family one must already know what the truthmaker is and which features
@@ -53,12 +53,12 @@ Two reasons to keep it separate:
   evaluator can make and is still not the system's own connection to it,
   as when a model's answer is fixed by a tool or a human annotator it
   cannot inspect. Whether that is the composite's knowledge
-  (CASE-tmppqt0f's verdict) or no one's is a question about the route.
+  ([CASE-tmppqt0f](../cases.d/CASE-tmppqt0f.md)'s verdict) or no one's is a question about the route.
 
 ## What it does not say
 
-- Not that any case of LEAD-001's set comes out differently: on all of
+- Not that any case of [LEAD-001](../leads.d/LEAD-001.md)'s set comes out differently: on all of
   them the two readings agree.
 - Not that grounding cannot be tested. The tests are the same as on
-  CLAIM-tmpeonjp's reading; what differs is whether passing them is what
+  [CLAIM-tmpeonjp](CLAIM-tmpeonjp.md)'s reading; what differs is whether passing them is what
   grounding is.

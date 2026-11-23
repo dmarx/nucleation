@@ -29,11 +29,11 @@ grounds:
 - CASE-tmpd1jgy
 - THEORY-1894
 summary: >-
-  The verdict of LEAD-001's generator-and-verifier case on where knowing
-  sits, the second half of QUESTION-493. A generator right one time in a
+  The verdict of [LEAD-001](../leads.d/LEAD-001.md)'s generator-and-verifier case on where knowing
+  sits, the second half of [QUESTION-493](../questions.d/QUESTION-493.md). A generator right one time in a
   hundred, filtered by an exact checker that cannot propose answers, is
   right 99% of the time at 460 samples. The composite knows under that
-  budget; neither part does. QUESTION-493's candidate (A73) said
+  budget; neither part does. [QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73) said
   knowledge "may belong to the composite"; this says when. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
@@ -45,9 +45,9 @@ summary: >-
 
 ## The claim
 
-CASE-tmpd1jgy's model is right one time in two hundred: generative reach,
-not knowledge, as QUESTION-493's candidate (A73) says and CLAIM-697's
-coverage against delivery formalizes. CASE-tmppqt0f pairs such a
+[CASE-tmpd1jgy](../cases.d/CASE-tmpd1jgy.md)'s model is right one time in two hundred: generative reach,
+not knowledge, as [QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73) says and [CLAIM-697](CLAIM-697.md)'s
+coverage against delivery formalizes. [CASE-tmppqt0f](../cases.d/CASE-tmppqt0f.md) pairs such a
 generator with an exact checker that cannot propose answers. Under a
 budget N the composite succeeds with probability 1 − (1 − p)^N, which at
 p = 0.01 passes 99% at N = 459, and its answers are right whenever it
@@ -58,7 +58,7 @@ On A73's three criteria:
 - **Truth**: yes, whenever it answers.
 - **Reliability over the declared family**: yes under the budget, no
   below a few dozen samples. So the knowledge is the composite's *under
-  a declared budget*, as CLAIM-697 says of any disposition to succeed.
+  a declared budget*, as [CLAIM-697](CLAIM-697.md) says of any disposition to succeed.
 - **Grounding**: the check depends on what makes the answer true (the
   product of the factors) and on nothing else, so the composite's answer
   is grounded by the check. Neither part meets all three: the generator
@@ -67,8 +67,8 @@ On A73's three criteria:
 So knowledge can sit in a declared composite and in neither part. The
 condition is that the composite's procedures use what its parts produce:
 the accepted answer is the composite's answer. That is the condition
-CLAIM-tmpgfunb sets for stored information, and it is what the
-model-plus-probe composite of that claim fails. THEORY-1894 shows the
+[CLAIM-tmpgfunb](CLAIM-tmpgfunb.md) sets for stored information, and it is what the
+model-plus-probe composite of that claim fails. [THEORY-1894](../theory.d/THEORY-1894.md) shows the
 verifier is the hinge: with automatic verification coverage turns into
 solved problems as samples grow, and without one selection plateaus far
 below coverage.
@@ -80,8 +80,8 @@ below coverage.
   preference, say) grounds nothing, and the composite inherits its
   failures.
 - Not that the composite believes. It draws no further inferences from
-  the accepted answer here, so TERM-079's probes have nothing to test;
+  the accepted answer here, so [TERM-079](../terms.d/TERM-079.md)'s probes have nothing to test;
   whether knowledge without belief is coherent is the question the record
   left open when it set belief and knowledge apart.
-- Not which route counts as the composite's own: on CLAIM-tmp5qk10's
+- Not which route counts as the composite's own: on [CLAIM-tmp5qk10](CLAIM-tmp5qk10.md)'s
   reading of grounding that is a further question.

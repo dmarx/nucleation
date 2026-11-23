@@ -14,7 +14,7 @@ line:
 bears_on:
 - QUESTION-493
 summary: >-
-  The third of the set LEAD-001 asks for, and the one its title names:
+  The third of the set [LEAD-001](../leads.d/LEAD-001.md) asks for, and the one its title names:
   reliable performance without non-accidental competence. An image
   classifier labels horses correctly on every image of its declared test
   family, because every horse image there came from one archive that
@@ -53,14 +53,14 @@ draws on none of them.
 - **Reliable correct output without knowledge.** Over the declared family
   the outputs are correct and counterfactually stable under resampling.
   They do not depend on the horse.
-- **Belief in the wrong content.** By TERM-079's probes, what the
+- **Belief in the wrong content.** By [TERM-079](../terms.d/TERM-079.md)'s probes, what the
   classifier uses as its premise is the watermark: "stamped", not
   "horse". Its correct label is a true output carried by a belief about
   something else.
 
 ## Against the candidate answers
 
-QUESTION-493's candidate (A73) lists truth, counterfactual reliability
+[QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73) lists truth, counterfactual reliability
 over a declared family, and grounding. The case meets the first two over
 the family as declared and fails the third, and A73's second test,
 intervention on spurious cues, is the one that shows it. So reliability
@@ -68,9 +68,9 @@ over a family drawn as the collection happens to be drawn does not
 suffice. The two readings of what grounding then is, filed as
 alternatives, part here:
 
-- CLAIM-tmp5qk10: grounding is a condition beyond reliability, which the
+- [CLAIM-tmp5qk10](../claims.d/CLAIM-tmp5qk10.md): grounding is a condition beyond reliability, which the
   interventions test;
-- CLAIM-tmpeonjp: grounding is reliability over a family closed under the
+- [CLAIM-tmpeonjp](../claims.d/CLAIM-tmpeonjp.md): grounding is reliability over a family closed under the
   interventions, so the classifier fails reliability once the family is
   declared right.
 
@@ -81,5 +81,5 @@ what does the work.
 
 That reliability over a declared family, as declared, can be had by a
 cue that accompanies the truth there. Being fictional, nothing about how
-common the profile is. CASE-tmpcz1jq is the same failure with time in
-place of a watermark. One of the separations CLAIM-tmpngm72 collects.
+common the profile is. [CASE-tmpcz1jq](CASE-tmpcz1jq.md) is the same failure with time in
+place of a watermark. One of the separations [CLAIM-tmpngm72](../claims.d/CLAIM-tmpngm72.md) collects.

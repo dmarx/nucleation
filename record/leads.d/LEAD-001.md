@@ -36,36 +36,36 @@ candidate answers the question already lists.
 The assistant carried this lead out on 2026-11-23. Nine cases, each
 fictional or a construction and Proposed, with what each separates:
 
-- CASE-tmpk3qls: a fact a probe decodes and the model does not use;
+- [CASE-tmpk3qls](../cases.d/CASE-tmpk3qls.md): a fact a probe decodes and the model does not use;
   stored, not believed.
-- CASE-tmpd1jgy: right once in two hundred samples; correct output, not
+- [CASE-tmpd1jgy](../cases.d/CASE-tmpd1jgy.md): right once in two hundred samples; correct output, not
   reliable.
-- CASE-tmpr1f20: a classifier reliable on its family by reading a
+- [CASE-tmpr1f20](../cases.d/CASE-tmpr1f20.md): a classifier reliable on its family by reading a
   watermark; reliable output, not knowledge.
-- CASE-tmpcz1jq: a stale source made true again by a reappointment; true,
+- [CASE-tmpcz1jq](../cases.d/CASE-tmpcz1jq.md): a stale source made true again by a reappointment; true,
   reliably sourced belief, not knowledge.
-- CASE-tmpp2okq: a fact the model uses under one cue and not under its
+- [CASE-tmpp2okq](../cases.d/CASE-tmpp2okq.md): a fact the model uses under one cue and not under its
   default; knowledge not accessible under the default.
-- CASE-tmpkttf2: A73's table and rule for x²; knowledge without
+- [CASE-tmpkttf2](../cases.d/CASE-tmpkttf2.md): A73's table and rule for x²; knowledge without
   understanding.
-- CASE-tmp55ptq: the rule with a noisy multiplier; understanding without
+- [CASE-tmp55ptq](../cases.d/CASE-tmp55ptq.md): the rule with a noisy multiplier; understanding without
   reliably correct output.
-- CASE-tmppqt0f: a generator and an exact verifier; knowledge in the
+- [CASE-tmppqt0f](../cases.d/CASE-tmppqt0f.md): a generator and an exact verifier; knowledge in the
   composite and in neither part.
-- CASE-tmphawe9: a frozen exact rule, on which the readings of
+- [CASE-tmphawe9](../cases.d/CASE-tmphawe9.md): a frozen exact rule, on which the readings of
   understanding part.
 
-Verdicts, Proposed: CLAIM-tmpngm72 (the separation table, demonstrated by
-construction), CLAIM-tmpgfunb (knowing is relative to the declared
-procedures and budget), CLAIM-tmphm1g8 (knowledge in a generator-verifier
+Verdicts, Proposed: [CLAIM-tmpngm72](../claims.d/CLAIM-tmpngm72.md) (the separation table, demonstrated by
+construction), [CLAIM-tmpgfunb](../claims.d/CLAIM-tmpgfunb.md) (knowing is relative to the declared
+procedures and budget), [CLAIM-tmphm1g8](../claims.d/CLAIM-tmphm1g8.md) (knowledge in a generator-verifier
 composite). Two pairs of alternatives for the owner to choose between:
-on grounding, CLAIM-tmpeonjp (lean: grounding is reliability over a
+on grounding, [CLAIM-tmpeonjp](../claims.d/CLAIM-tmpeonjp.md) (lean: grounding is reliability over a
 family closed under interventions on the truthmaker) against
-CLAIM-tmp5qk10 (grounding a further condition); on understanding,
-CLAIM-tmpf4pun (lean: stable tracking, so a frozen rule understands)
-against CLAIM-tmpadjsm (developmental value, so it does not).
+[CLAIM-tmp5qk10](../claims.d/CLAIM-tmp5qk10.md) (grounding a further condition); on understanding,
+[CLAIM-tmpf4pun](../claims.d/CLAIM-tmpf4pun.md) (lean: stable tracking, so a frozen rule understands)
+against [CLAIM-tmpadjsm](../claims.d/CLAIM-tmpadjsm.md) (developmental value, so it does not).
 
-Every case was checked against the candidate answers QUESTION-493 lists.
+Every case was checked against the candidate answers [QUESTION-493](../questions.d/QUESTION-493.md) lists.
 They hold on every case but one: reliability over a family as declared
 does not suffice (the watermark and stale-source cases), which A73's
 grounding criterion and its second and third tests catch. What remains:

@@ -33,12 +33,12 @@ grounds:
 - CASE-tmp55ptq
 - CASE-tmppqt0f
 summary: >-
-  The verdict of the case set LEAD-001 asks for, as a separation table.
+  The verdict of the case set [LEAD-001](../leads.d/LEAD-001.md) asks for, as a separation table.
   Each case is fictional or a construction, so the claim is an existence
   claim shown by construction: each separation is coherent, not common.
-  The criteria are QUESTION-493's candidate answers (A73's truth,
+  The criteria are [QUESTION-493](../questions.d/QUESTION-493.md)'s candidate answers (A73's truth,
   counterfactual reliability over a declared family and grounding) and
-  TERM-079's probes for belief. The wording is the assistant's (Claude,
+  [TERM-079](../terms.d/TERM-079.md)'s probes for belief. The wording is the assistant's (Claude,
   in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: TERM-079 — Proposed; cited as the criterion applied, not relied on -->
@@ -52,14 +52,14 @@ Eight separations, each exhibited by a case:
 
 | case | stored | believed | correct output | knows | understands |
 |---|---|---|---|---|---|
-| CASE-tmpk3qls, probe reads P, model uses Q | yes (P) | no (Q) | no | no | — |
-| CASE-tmpd1jgy, right once in 200 samples | — | no | once, not reliable | no | — |
-| CASE-tmpr1f20, watermark classifier | yes (cue) | the cue | reliable on the family | no | — |
-| CASE-tmpcz1jq, reappointed executive | yes | yes, true | reliable from its source | no | — |
-| CASE-tmpp2okq, fact under one cue | yes | under the cue | not under the default | under the cue | — |
-| CASE-tmpkttf2, table T | yes | degenerate | on the table | the values | no |
-| CASE-tmp55ptq, noisy rule R′ | yes | yes | not on large inputs | not large values | yes |
-| CASE-tmppqt0f, generator and verifier | — | — | composite reliable | composite only | — |
+| [CASE-tmpk3qls](../cases.d/CASE-tmpk3qls.md), probe reads P, model uses Q | yes (P) | no (Q) | no | no | — |
+| [CASE-tmpd1jgy](../cases.d/CASE-tmpd1jgy.md), right once in 200 samples | — | no | once, not reliable | no | — |
+| [CASE-tmpr1f20](../cases.d/CASE-tmpr1f20.md), watermark classifier | yes (cue) | the cue | reliable on the family | no | — |
+| [CASE-tmpcz1jq](../cases.d/CASE-tmpcz1jq.md), reappointed executive | yes | yes, true | reliable from its source | no | — |
+| [CASE-tmpp2okq](../cases.d/CASE-tmpp2okq.md), fact under one cue | yes | under the cue | not under the default | under the cue | — |
+| [CASE-tmpkttf2](../cases.d/CASE-tmpkttf2.md), table T | yes | degenerate | on the table | the values | no |
+| [CASE-tmp55ptq](../cases.d/CASE-tmp55ptq.md), noisy rule R′ | yes | yes | not on large inputs | not large values | yes |
+| [CASE-tmppqt0f](../cases.d/CASE-tmppqt0f.md), generator and verifier | — | — | composite reliable | composite only | — |
 
 Read by row, they show that none of the five is sufficient for the next
 one in the usual ladder (stored, believed, correct, known, understood),
@@ -75,20 +75,20 @@ What separates reliable performance from non-accidental competence, the
 lead's question, is in the middle rows. Reliability over a family as
 declared is had by the watermark classifier and the stale-source model,
 and both fail when the truthmaker is intervened on. What that failure is
-is the subject of two alternative claims, CLAIM-tmpeonjp (the assistant's
-lean) and CLAIM-tmp5qk10.
+is the subject of two alternative claims, [CLAIM-tmpeonjp](CLAIM-tmpeonjp.md) (the assistant's
+lean) and [CLAIM-tmp5qk10](CLAIM-tmp5qk10.md).
 
 ## What it does not say
 
-- Not that the criteria are right. The claim takes QUESTION-493's
+- Not that the criteria are right. The claim takes [QUESTION-493](../questions.d/QUESTION-493.md)'s
   candidate as given and shows what it separates; a different account of
   knowledge could merge rows.
-- Not the ninth case. CASE-tmphawe9, a frozen exact rule, would add
+- Not the ninth case. [CASE-tmphawe9](../cases.d/CASE-tmphawe9.md), a frozen exact rule, would add
   "understanding without learnability" on one reading of understanding
-  (CLAIM-tmpf4pun) and "knowledge without understanding" on the other
-  (CLAIM-tmpadjsm). It is left out of the table because the readings
+  ([CLAIM-tmpf4pun](CLAIM-tmpf4pun.md)) and "knowledge without understanding" on the other
+  ([CLAIM-tmpadjsm](CLAIM-tmpadjsm.md)). It is left out of the table because the readings
   disagree on it; the eight rows hold on both.
 - Not that knowledge needs belief. The generator-verifier row is left
   blank for belief: the composite uses the checked answer as its answer
-  and draws no further inferences, so TERM-079's probes have nothing to
+  and draws no further inferences, so [TERM-079](../terms.d/TERM-079.md)'s probes have nothing to
   test.

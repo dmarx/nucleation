@@ -27,14 +27,14 @@ grounds:
 - CASE-tmpr1f20
 - CASE-tmpcz1jq
 summary: >-
-  One of two readings of the grounding criterion in QUESTION-493's
+  One of two readings of the grounding criterion in [QUESTION-493](../questions.d/QUESTION-493.md)'s
   candidate answer, filed as alternatives; this is the assistant's lean.
   The watermark classifier and the stale-source model are reliable over
   their families as declared, and fail once the family includes
   interventions on what makes the answer true. On this reading that
   failure is all grounding adds: an interventionist reading of A73's
   "connected appropriately to what makes it correct". The alternative,
-  CLAIM-tmp5qk10, holds grounding a further condition. The wording is the
+  [CLAIM-tmp5qk10](CLAIM-tmp5qk10.md), holds grounding a further condition. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmpr1f20 CASE-tmpcz1jq CLAIM-tmp5qk10 — Proposed; filed by the lead run of 2026-11-23 -->
@@ -43,12 +43,12 @@ summary: >-
 
 ## The claim
 
-QUESTION-493's candidate (A73) lists three criteria for knowledge in a
+[QUESTION-493](../questions.d/QUESTION-493.md)'s candidate (A73) lists three criteria for knowledge in a
 learning system: truth, counterfactual reliability over a declared
 family, and grounding, "knowledge must be connected appropriately to what
-makes it correct". The cases of LEAD-001's set that separate reliable
-performance from competence are CASE-tmpr1f20 (a classifier that reads a
-watermark accompanying the class) and CASE-tmpcz1jq (a model whose true
+makes it correct". The cases of [LEAD-001](../leads.d/LEAD-001.md)'s set that separate reliable
+performance from competence are [CASE-tmpr1f20](../cases.d/CASE-tmpr1f20.md) (a classifier that reads a
+watermark accompanying the class) and [CASE-tmpcz1jq](../cases.d/CASE-tmpcz1jq.md) (a model whose true
 answer comes from a training period that has ended). Both are reliable
 over the family as declared, and neither knows.
 
@@ -79,7 +79,7 @@ a theory of knowledge for learning systems does its work.
 ## Why the lean
 
 It keeps the account to tests that can be run on a model, as
-QUESTION-493 asks ("whose tests could be run on a model"), and it says
+[QUESTION-493](../questions.d/QUESTION-493.md) asks ("whose tests could be run on a model"), and it says
 what A73's tests 2 and 3 are for. The alternative must say what
 "appropriately connected" adds that no intervention can show.
 
@@ -89,7 +89,7 @@ what A73's tests 2 and 3 are for. The alternative must say what
   training distribution alone gives the wrong verdicts on both cases.
 - Not that the truthmaker can always be identified independently of the
   question; where it cannot, this reading inherits the difficulty, and
-  CLAIM-tmp5qk10 presses exactly there.
+  [CLAIM-tmp5qk10](CLAIM-tmp5qk10.md) presses exactly there.
 - Not a verdict on environmental luck, where the actual family is full of
   forgeries: the reading gives knowledge where reliability over the
   actual family holds and denies it where it does not.
