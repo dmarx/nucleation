@@ -23,11 +23,23 @@ incompatibility, not a superset of compatible seeds. CLAIM-562's note of
 - Branch cut; PROGRESS.md pushed.
 - arXiv API search (2026-11-23): found arXiv:1111.7130, Arbona, Aime and
   Elezgaray, "Cooperativity in the annealing of DNA origamis" (not held).
-  The API returned HTTP 429 on the fourth query; not retried.
+  The API (export.arxiv.org) returned HTTP 429 on the fourth query; not retried.
+- Read arXiv:1111.7130v2 in full (PDF from arxiv.org). Crossref: J. Chem. Phys.
+  138, 2013, DOI 10.1063/1.4773405.
+- Pre-registration committed (PREREGISTRATION.md), then two amendments, each
+  committed before the run it governs.
+- Study run: README.md has the table. VIC and ICN fail to transfer; harmful
+  additions confirmed; TFF (post hoc) transfers to fresh architectures.
+
+## Choices made
+
+- Out-of-sample system: a kinetic constraint-growth model (kTAM-like), not
+  origami. The lead names no specific system; the origami part is a reading
+  task, and no lawful open multi-fold dataset was found to test on.
+- The predictor generalizes the folding island as a race (VIC); an alternative
+  (ICN) was registered beside it.
 
 ## Next
 
-- Pre-register the predictor (PREREGISTRATION.md), commit before any test run.
-- Build the test system and tests; run; record results.
-- Read arXiv:1111.7130; file LIT, NOTE, THEORY.
-- File CASE, CLAIMs, dated notes, changelog fragment.
+- File LIT, NOTE, THEORY for Arbona et al.; CASE; CLAIMs; dated notes on
+  LEAD-183, QUESTION-380, CLAIM-562, CLAIM-599; changelog fragment.
