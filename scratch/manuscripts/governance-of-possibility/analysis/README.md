@@ -136,8 +136,9 @@ coordinator before committing: the outputs reproduced exactly except
      slower route, so on these assumptions redesign without a reserve is worse
      than no redesign.
    - On long-run cost (p = 0.02, L = 50, c = 0.1):
-     - τ = 2: I is cheapest: little is in time under any regime (R_II(2) = 0.237,
-       R_I(2) = 0.025), and the reserve costs more than the lateness it saves.
+     - τ = 2: I is cheapest. II is still the most ready (R_II(2) = 0.237 against
+       R_I(2) = 0.025), but its reserve costs more than the lateness it saves
+       (long-run cost 0.975 against 0.820).
      - τ = 3 to 8: II is cheapest.
      - τ = 12 and 20: III-b and IV are cheapest. Before any redesign cost they
        save 0.081 and 0.100 a period against II, which bounds the amortized
