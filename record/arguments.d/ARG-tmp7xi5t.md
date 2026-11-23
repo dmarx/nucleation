@@ -1,0 +1,60 @@
+---
+status: Proposed
+title: "Shared costs of formulating and answering, by formal application, show that jointly attainable question–answer pairs are not fixed by the query frontier and the conditional answer frontier at one budget, so joint realizability is a site of failure of its own"
+version: 1
+form: formal-application
+rests_on:
+- CLAIM-tmpj15c6
+concludes:
+- CLAIM-tmpx0wv9
+uses:
+- TERM-092
+tags:
+- epistemology
+- operations-research
+- mathematics
+date: '2026-11-23'
+line:
+- learning-and-inquiry
+- realizability
+summary: >-
+  The support for A58's thesis (CLAIM-tmpx0wv9) in the exchange "Explain First Contact RL", 2026-11-23, by the
+  route that carries it: the shared budget of formulating and answering, as
+  derived in CLAIM-tmpj15c6. A58's own formal reason, two relations with the
+  same projections, shows only that a relation is not its projections and is
+  not filed as an argument of its own; the conclusion's standing lives in
+  CLAIM-tmpx0wv9. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+---
+
+<!-- inactive-ok-file: CLAIM-tmpj15c6 CLAIM-tmpx0wv9 — Proposed; the premise and the conclusion -->
+
+# ARG-tmp7xi5t: Shared costs of formulating and answering, by formal application, show that jointly attainable question–answer pairs are not fixed by the query frontier and the conditional answer frontier at one budget, so joint realizability is a site of failure of its own
+
+## The inference
+
+CLAIM-tmpj15c6's construction 1 gives two systems with the same askable
+questions and the same conditional answer frontier at a budget, and
+different jointly attainable pairs. Applied to organizations, an
+organization's capacity to ask and its capacity to answer, each measured
+alone, do not settle what it can inquire into: CLAIM-tmpx0wv9's third site.
+
+## Critical questions
+
+- **Does the formal setting fit?** It needs inquiry to draw formulation and
+  answering from one budget or horizon. Where they draw on separate
+  budgets that are never short together, the joint set is the product of
+  the two and the third site is empty; the claim is for coupled resources,
+  which A58 §1 assumes.
+- **Is the conclusion stronger than the construction?** At one budget, no.
+  Across budgets, construction 2 shows the frontiers do fix the joint set
+  under an additive rule; what stays irreducible is the rule and, by
+  construction 4, the dependence of answering on how the question was
+  formulated. The third site is the coupling, which is what A58 §3 says.
+- **Does A58's §2 add a line of support?** No. Equal projections onto
+  unindexed sets is a fact about relations in general; the indexed answer
+  frontier already separates its example.
+
+## Verdict
+
+Proposed: it carries CLAIM-tmpx0wv9 as stated, read as a claim about
+coupled resources.
