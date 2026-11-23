@@ -56,6 +56,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-004 CLAIM-178 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
+<!-- inactive-ok-file: CASE-tmp4niuz CLAIM-tmp9w3p9 CLAIM-tmp49ilj — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-182: Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
 
@@ -128,3 +129,20 @@ of the same stored content before and after its parts got addresses, which
 is the comparison the claim needs. The readings of [LIT-2618](../literature.d/LIT-2618.md), [LIT-2624](../literature.d/LIT-2624.md) and
 [LIT-2644](../literature.d/LIT-2644.md) (the note of 2026-11-15) are models of keyed retrieval, not
 evidence about records. The before-and-after count is still not made.
+
+## Note of 2026-11-23: a before-and-after count, censored
+
+CASE-tmp4niuz attempts the count this claim waits on. In the
+reconstructions, 21 items were re-derived before they had codes. Four of
+them were re-derived again after their codes existed: TERM-072,
+CLAIM-414, QUESTION-271 and CASE-156. None is reported cited.
+
+The count is censored. The reconstructions report a restatement almost
+only when it fails (CLAIM-tmp9w3p9), so silence about an item after its
+code may mean either that it was cited or that it did not come up.
+Content held under codes was re-derived without them in 20 of the 48
+reconstructions. CLAIM-tmp49ilj reads that as a failure to discover the
+code, which this claim's "Stable identity and discoverability may matter
+too" allows. It reads the count as silent on the thesis itself. The
+before-and-after comparison the thesis needs still wants a transcript
+coded for every restatement. No change of status or title.

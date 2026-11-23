@@ -62,6 +62,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-059 CLAIM-078 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 <!-- ref::uses-file: TERM-084 — "later entries reach the claim by descent, by its code, not by resemblance" is descent in TERM-084's sense, the continuity of transmission a code restores -->
+<!-- inactive-ok-file: CASE-tmp4niuz CLAIM-tmp9w3p9 — new; filed by the lead run of 2026-11-23 -->
 
 # CLAIM-191: Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
 
@@ -179,3 +180,14 @@ Audited at the synthesis review of 2026-11-21 ([ADR-075](../decisions.d/ADR-075.
 ## Note of 2026-11-21: a misstated premise
 
 The same audit found [CLAIM-002](CLAIM-002.md) misstated. The body says a code "supplies continuity of transmission" and that re-derivation is "identity by similarity alone". In [CLAIM-002](CLAIM-002.md), continuity of transmission ([TERM-084](../terms.d/TERM-084.md)'s second sense, lineage) is what a telephone chain already has: each session reconstructs "from what reaches it", so it descends from the earlier ones. What a code adds is that a later reader can reach and check the original instead of the last retelling. That is [CLAIM-182](CLAIM-182.md)'s addressability, not [CLAIM-002](CLAIM-002.md)'s relation. The title's "a code restores continuity of transmission" should be read as addressability. Two free parameters are also noted: "the collaborators' own framings" (the title includes the owner, the defeater names only the assistant) and "weak channel" (unquantified). No change of status.
+
+## Note of 2026-11-23: LEAD-107 rated no direction
+
+CASE-tmp4niuz, run for LEAD-107, coded the restatement events that the
+reconstructions report. It rated no direction of drift. A reconstruction
+paraphrases a restatement in its reader's words, so it cannot support a
+blind direction rating. The defeater's second half asks whether uncoded
+items, once restated, keep their identity as well as coded ones. That
+half is not testable from the reconstructions either: they report a
+restatement almost only when it fails (CLAIM-tmp9w3p9). The blind rating
+still needs verbatim transcripts. No change of status or title.
