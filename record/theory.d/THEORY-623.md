@@ -37,6 +37,7 @@ bears_on:
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; the account these studies bear on and the follow-up's account, cited as open -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-044 — Proposed; named for what these readings bear on, cited as open -->
+<!-- inactive-ok-file: CASE-tmpskejj CLAIM-tmptzmky CLAIM-tmprfjkk — new; filed by the lead run of 2026-11-23 -->
 
 # THEORY-623: In the two tests of contextuality in language data that the record has read, the contextuality is put there by the experimenter or not secured: meaning-selection models of ambiguous phrases estimated from corpora are all signalling and their two Contextuality-by-Default verdicts are plausibly noncontextual by their own bootstrap, while BERT's 52 million anaphora models have a support fixed by the sentence schema, so whether each counts as contextual depends only on how uncertain the model's three referent choices are
 
@@ -113,3 +114,27 @@ Neither happened.
   a model's resolutions, not people's pragmatic judgements.
 - The journal follow-up ([LIT-851](../literature.d/LIT-851.md), [THEORY-177](THEORY-177.md)) measures direct influence
   across 90 noun–verb systems and reports no new contextual system.
+
+## Note of 2026-11-23: the two signalling-aware criteria, compared
+
+This reading's "What this does not say" leaves open whether the sheaf test
+is necessary as well as sufficient, "so 0.148% may be a lower bound". A
+comparison of the two routes on the BERT figures (CASE-tmpskejj,
+CLAIM-tmptzmky, demonstrated) answers this for the BERT models. It does
+not answer it for Vallée et al.'s criterion in general.
+
+- **Both criteria are thresholds on signalling alone.** On the PR-prism
+  support, CF is 1 for every model, including the deterministic, fully
+  signalling one. So the corrected sheaf test is exactly SF < 1/6. CbD 2.0
+  is Δ < 2.
+- **The sheaf test is sufficient only.** Read as "the no-signalling part
+  is contextual", the sheaf route says contextual iff SF < 1, which covers
+  at least 71.1% of the instances. On this reading, 0.148% is a lower
+  bound.
+- **The divergence is one-sided.** The 36,861,830 diverging instances are
+  all CbD-contextual and not sheaf-contextual.
+
+This is a qualification, not a change to the reading. It strengthens the
+last clause of the title: both verdicts depend only on the three referent
+choices, and they differ in where they draw the line. CLAIM-tmprfjkk
+draws the consequence that these data cannot show which line is right.
