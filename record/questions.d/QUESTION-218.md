@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmplru2n
 title: 'Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,12 @@ history:
     are neither upward- nor downward-closed in the refinement order
     (CLAIM-409), and no independent mark of unity was offered. The
     question is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added, from the lead run of that date: a bound on
+    how definite a computed diffusion-wavelet level is as a subspace
+    (CLAIM-tmpdsu37). The question is unchanged.
 tags:
 - individuation
 - complex-systems
@@ -31,6 +37,7 @@ summary: >-
   the two come apart; [CASE-120](../cases.d/CASE-120.md) is the construction. The question is
   which of them the record's "one system" should track.
 ---
+<!-- inactive-ok-file: CLAIM-tmpdsu37 — new; the bound cited in the note of 2026-11-23, filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: THEORY-tmpmvcnr — Proposed; the reading of Ott and Antonsen 2008, 2026-11-22 -->
 <!-- inactive-ok-file: CASE-334 CLAIM-904 — new; LEAD-083's study and claim of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2014 — Proposed; cited in this filing of 2026-11-19 -->
@@ -150,3 +157,15 @@ between communities, weak or strong. So a test that takes functions of
 the whole state finds closed units that tests on member subsets miss, as
 [CLAIM-388](../claims.d/CLAIM-388.md) found in a linear model. It does not say whether such a unit is
 one system. [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) bears on this question.
+
+## Note of 2026-11-23: a computed level is definite as a subspace, to a bound
+
+CLAIM-tmpdsu37 (Proposed, filed by the lead run of 2026-11-23) bounds how far
+a level computed by the compressed diffusion-wavelet chain lies from the
+invariant subspace of the same dimension: the truncation residual plus the
+accumulated drift, over the smallest kept eigenvalue of the level's dyadic
+power. It bears on the question's second half on the subspace side. What a
+computed level makes definite is a function of the whole state, a
+subspace, and it is definite only where the kept spectrum stands well above
+the residual. The bound says nothing about a basis of members inside the
+level, so it leaves the block side where NOTE-984 left it.
