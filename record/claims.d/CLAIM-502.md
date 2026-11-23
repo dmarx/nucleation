@@ -58,6 +58,7 @@ summary: >-
   authority, that it closes the social route of moving others'
   grants, or that [CLAIM-375](CLAIM-375.md)'s guarantee carries over.
 ---
+<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmpdpnid — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction bears on, cited as open -->
 <!-- ref::uses-file: TERM-101 — the grants E_kj along whose paths leave-one-out delegation carries authority are TERM-101's grant -->
@@ -141,3 +142,7 @@ hand at the nineteenth review's ruling.
 - **That it is a cycle ban.** The graph keeps its cycles. Only each
   operator's own accounting stops at its boundary, so [CLAIM-282](CLAIM-282.md)'s point
   about cycle bans stands.
+
+## Note of 2026-11-23: in a population
+
+In a grant game on 30 populations (CASE-tmpw3vii), operators under this rule with the reward for realized policy delegated their whole budget to their own side. Of the authority their budgets placed, 43% travelled two hops or more, all of it to their own side, and none returned to them (CLAIM-tmpdpnid). The claim is unchanged.

@@ -51,6 +51,7 @@ draws_on:
 - THEORY-257
 - THEORY-1161
 ---
+<!-- inactive-ok-file: CASE-tmpw3vii CLAIM-tmp5wozo — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CASE-tmpd80em CLAIM-tmp0v3wu — new; filed 2026-11-22 for LEAD-015 and cited in the note of that date -->
 <!-- inactive-ok-file: CASE-363 CLAIM-947 CLAIM-948 — new; filed 2026-11-22 for LEAD-090 and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
@@ -160,3 +161,7 @@ The model is built and run as [CASE-363](CASE-363.md), for [LEAD-090](../leads.d
 ## Note of 2026-11-22: two institutions
 
 [LEAD-015](../leads.d/LEAD-015.md) coupled two of the reduced institutions of the build above, an evaluator and an evaluated party, as [CASE-tmpd80em](CASE-tmpd80em.md), and derived the pair's symmetry-breaking condition ([CLAIM-tmp0v3wu](../claims.d/CLAIM-tmp0v3wu.md)). The design is unchanged.
+
+## Note of 2026-11-23: role-indexed against scalar grants
+
+The comparison the note of 2026-10-16 lists among A14 §9's proposals, role-indexed against scalar grants, has been run in a population built on CASE-363 as CASE-tmpw3vii, for LEAD-190. This case's "independence of evaluation" became the share ζ of the critic score that reads agreement. Factions and capture stay out while gζσ²/2 < 1 − φ′ − φ_s′ (CLAIM-tmp5wozo). The design is unchanged.
