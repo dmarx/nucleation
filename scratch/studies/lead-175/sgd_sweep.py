@@ -4,7 +4,16 @@ learning rate and initialisation. Does SGD reach the 6-gon?
 
 One item = one (n, batch, epochs) job, vectorised over learning rates x
 initialisations x seeds; each job appends one JSON line per run to the output
-file when it finishes, and a rerun skips jobs already written (resumable).
+file when it finishes. A rerun is resumable. It counts what is done per run,
+(n, batch, epochs, lr, init, seed), not per job. It reruns any job missing
+one of its runs and appends only the missing ones. It drops a final line cut
+off mid-write, and stops on damage anywhere else (see `load_done`).
+
+A job is rerun with its full grid, not only the missing runs, because the
+shuffles are drawn for the whole vectorised job at once: rerunning a subset
+would give its runs different minibatch orders from the ones an
+uninterrupted job gives them. With the same grid, a rerun reproduces the
+missing runs exactly.
 
 Usage: python3 -I sgd_sweep.py OUT.jsonl [--epochs E] [--ns 300,500,...]
        [--batches 5,20,100] [--lrs ...] [--inits ...] [--seeds S]
@@ -90,7 +99,34 @@ def run_job(n, B, epochs, lrs, inits, seeds, checkpoints):
     return out
 
 
-def main():
+def run_key(d):
+    return (d["n"], d["batch"], d["epochs"], d["lr"], d["init"], d["seed"])
+
+
+def load_done(path):
+    """The run keys already written to `path`.
+
+    A final line cut off mid-write is removed. A line that fails to parse
+    anywhere else stops the run."""
+    if not os.path.exists(path):
+        return set()
+    with open(path, "rb") as f:
+        raw = f.read()
+    lines = raw.split(b"\n")
+    tail = lines.pop()
+    done = set()
+    for i, line in enumerate(lines):
+        try:
+            done.add(run_key(json.loads(line)))
+        except (ValueError, KeyError):
+            sys.exit(f"{path}: line {i + 1} is not a result line; not resuming over it")
+    if tail:
+        with open(path, "r+b") as f:
+            f.truncate(len(raw) - len(tail))
+    return done
+
+
+def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("out")
     ap.add_argument("--epochs", type=int, default=4500)
@@ -99,21 +135,20 @@ def main():
     ap.add_argument("--lrs", default="0.001,0.005,0.02,0.05")
     ap.add_argument("--inits", default="4gon,5gon,6gon,prior")
     ap.add_argument("--seeds", type=int, default=6)
-    a = ap.parse_args()
+    a = ap.parse_args(argv)
     ns = [int(x) for x in a.ns.split(",")]; Bs = [int(x) for x in a.batches.split(",")]
     lrs = [float(x) for x in a.lrs.split(",")]; inits = a.inits.split(",")
     cps = {e for e in (10, 100, 300, 1000, 2000, 3000, 4500, 9000, 13500, 18000, 27000, 36000, 45000) if e <= a.epochs} | {a.epochs}
-    done = set()
-    if os.path.exists(a.out):
-        with open(a.out) as f:
-            for line in f:
-                d = json.loads(line); done.add((d["n"], d["batch"], d["epochs"]))
+    done = load_done(a.out)
     jobs = sorted(((n, B) for n in ns for B in Bs), key=lambda j: j[0] * a.epochs / j[1])
     for n, B in jobs:
-        if (n, B, a.epochs) in done:
+        want = {(n, B, a.epochs, lr, ini, s)
+                for lr in lrs for ini in inits for s in range(a.seeds)}
+        if want <= done:
             continue
         t0 = time.time()
-        res = run_job(n, B, a.epochs, lrs, inits, a.seeds, cps)
+        res = [d for d in run_job(n, B, a.epochs, lrs, inits, a.seeds, cps)
+               if run_key(d) not in done]
         with open(a.out, "a") as f:
             for d in res:
                 f.write(json.dumps(d) + "\n")

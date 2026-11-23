@@ -18,8 +18,12 @@ n (the same ladder):
               the n-dependence of each region's free energy by thermodynamic
               integration, down to probabilities the unrestricted run cannot see.
 
-Each block is appended to the output JSONL as it finishes; state is kept in
-STATE.npz beside it so a rerun resumes.
+Each block is appended to the output JSONL as it finishes. After the line is
+on disk, a checkpoint OUT.STATE.npz is replaced atomically. It holds the
+number of blocks done, the configuration, the chains, the step sizes and the
+generator's state. A rerun reconciles the two and resumes exactly, as an
+uninterrupted run would have gone, or stops with a message (see
+`reconcile`).
 
 Usage: python3 -I posterior.py pt OUT.jsonl [--blocks B] [--iters I]
        python3 -I posterior.py restricted OUT.jsonl --region 5+ [...]
@@ -93,7 +97,84 @@ def init_state(mode, K, region, rng):
     return th, eps
 
 
-def main():
+def read_blocks(path):
+    """Complete JSON lines of `path`, dropping a torn final line.
+
+    A line cut off by an interruption is the last one. It is removed from the
+    file, since the block it began is not reflected anywhere. A line that
+    fails to parse anywhere else is damage this script did not make, and the
+    run stops."""
+    if not os.path.exists(path):
+        return 0
+    with open(path, "rb") as f:
+        raw = f.read()
+    lines = raw.split(b"\n")
+    tail = lines.pop()                       # b"" when the file ends in a newline
+    good = 0
+    for i, line in enumerate(lines):
+        try:
+            json.loads(line)
+        except ValueError:
+            sys.exit(f"{path}: line {i + 1} is not JSON; not resuming over it")
+        good += 1
+    if tail:
+        with open(path, "r+b") as f:
+            f.truncate(len(raw) - len(tail))
+    return good
+
+
+def truncate_to(path, keep):
+    """Keep the first `keep` lines of `path`."""
+    with open(path, "rb") as f:
+        lines = f.read().split(b"\n")
+    with open(path, "wb") as f:
+        f.write(b"".join(l + b"\n" for l in lines[:keep]))
+        f.flush(); os.fsync(f.fileno())
+
+
+def save_state(stfile, done, config, th, eps, rng):
+    """Replace the checkpoint atomically: write a sibling, then rename."""
+    tmp = stfile + ".tmp"
+    with open(tmp, "wb") as f:
+        np.savez(f, done=done, config=config, th=th, eps=eps,
+                 rng=json.dumps(rng.bit_generator.state))
+        f.flush(); os.fsync(f.fileno())
+    os.replace(tmp, stfile)
+
+
+def reconcile(out, stfile, config, rng):
+    """Where to resume, from the output and the checkpoint together.
+
+    Returns (blocks done, th, eps), or None for a fresh start. The checkpoint
+    is saved after the block's line, so an interruption between the two
+    leaves the output one block ahead. That block's line is dropped and the
+    block is rerun from the checkpoint, which reproduces it, since the
+    generator's state is part of the checkpoint. Any other mismatch stops the
+    run."""
+    nb = read_blocks(out)
+    if not os.path.exists(stfile):
+        if nb:
+            sys.exit(f"{out}: {nb} block(s) written but no checkpoint {stfile}; "
+                     f"not resuming (fresh chains would skip burn-in)")
+        return None
+    z = np.load(stfile)
+    if "done" not in z or "config" not in z:
+        sys.exit(f"{stfile}: a checkpoint from before block counts were kept; "
+                 f"move it and the output aside to start afresh")
+    if str(z["config"]) != config:
+        sys.exit(f"{stfile}: checkpoint configuration differs from this run's; "
+                 f"not resuming")
+    done = int(z["done"])
+    if nb == done + 1:
+        truncate_to(out, done)
+    elif nb != done:
+        sys.exit(f"{out}: {nb} block(s) written but the checkpoint holds {done}; "
+                 f"not resuming")
+    rng.bit_generator.state = json.loads(str(z["rng"]))
+    return done, z["th"], z["eps"]
+
+
+def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("mode", choices=("pt", "restricted"))
     ap.add_argument("out")
@@ -106,21 +187,26 @@ def main():
     ap.add_argument("--classify-every", type=int, default=5)
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--ladder", default="20,10000,44", help="lo,hi,count of the geometric ladder of n")
-    a = ap.parse_args()
+    a = ap.parse_args(argv)
     global LADDER
     lo, hi, cnt = a.ladder.split(",")
     LADDER = np.geomspace(float(lo), float(hi), int(cnt))
     region = label_to_code(a.region) if a.region else None
     stfile = a.out + ".STATE.npz"
-    nb = 0
-    if os.path.exists(a.out):
-        with open(a.out) as f:
-            nb = sum(1 for _ in f)
-    rng = np.random.default_rng([a.seed, nb, 17])
-    if nb and os.path.exists(stfile):
-        z = np.load(stfile); th, eps = z["th"], z["eps"]
+    # Everything that shapes the chains, so a checkpoint is resumed only by a
+    # run that would have produced it. The block count is not part of it: a
+    # run may be extended.
+    config = json.dumps(dict(mode=a.mode, region=a.region, chains=a.chains,
+                             iters=a.iters, burn=a.burn, nleap=a.nleap,
+                             classify_every=a.classify_every, seed=a.seed,
+                             ladder=a.ladder), sort_keys=True)
+    rng = np.random.default_rng([a.seed, 0, 17])
+    state = reconcile(a.out, stfile, config, rng)
+    if state is None:
+        nb = 0
+        th, eps = init_state(a.mode, a.chains, region, rng)
     else:
-        th, eps = init_state(a.mode, a.chains, region, rng); nb = 0 if not os.path.exists(a.out) else nb
+        nb, th, eps = state
     K, nr = th.shape[:2]
     n = np.broadcast_to(LADDER, (K, nr)).astype(float)
     for blk in range(nb, a.blocks):
@@ -166,7 +252,7 @@ def main():
             rec["swap"] = (swaps / np.maximum(swap_tries, 1)).round(3).tolist()
         with open(a.out, "a") as f:
             f.write(json.dumps(rec) + "\n"); f.flush(); os.fsync(f.fileno())
-        np.savez(stfile, th=th, eps=eps)
+        save_state(stfile, blk + 1, config, th, eps, rng)
         print(f"{a.mode} {a.region} block {blk} {time.time()-t0:.0f}s acc[min]={min(rec['acc']):.2f}", flush=True)
 
 
