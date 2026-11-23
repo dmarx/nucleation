@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpspyay
 title: 'A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-22'
@@ -60,6 +60,13 @@ history:
     it (CLAIM-288 undercuts ARG-015, the sufficiency-test route, not this
     claim), and nothing in the record meets its defeated_if. Status
     Proposed to Active. The claim is unchanged.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,6 +89,7 @@ date: '2026-10-13'
 answers:
 - QUESTION-092
 works:
+- governance-of-possibility
 - self-as-recursive-ecology
 line:
 - distributed-agency

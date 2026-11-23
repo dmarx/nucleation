@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp09pjt
 title: 'Where the capacities a collective needs to govern an arrangement are learned by exercise and lost with disuse, and the arrangement does the work through which they are exercised, the arrangement can erode the capacity to govern it, so that whether a collective can correct an arrangement is not independent of the arrangement'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-15'
@@ -31,6 +31,13 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §8.1 and §9 state its proposition. No other
     change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -53,6 +60,7 @@ line:
 - dependence-and-domination
 - transient-support
 works:
+- governance-of-possibility
 - cost-structure-of-possibility
 rests_on:
 - CLAIM-605

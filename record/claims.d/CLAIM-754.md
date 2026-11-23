@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp1l2s7
 title: 'A learner''s acquired organization fixes three resource-indexed frontiers that move separately: the operational (what it can reliably do now within an operating budget), the developmental (what it can come to do reliably within a further acquisition budget, given a declared interface for what it may learn from) and the inquiry frontier (what it can formulate and pursue); so no scalar measure of competence or plasticity ranks learners or learning processes independently of context, though one can once a task distribution, resource costs, horizon and evaluative preferences are declared'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +53,8 @@ summary: >-
   acquisition budget and a declared learning interface, and the claim
   that the three diverge. A71 introduced the inquiry frontier as new; it
   is [TERM-092](../terms.d/TERM-092.md). The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-294 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-697 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->

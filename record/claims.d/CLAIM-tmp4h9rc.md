@@ -3,7 +3,15 @@ status: Proposed
 title: A system's ability to correct itself depends not simply on having critics
   or feedback but on how evidence, evaluation and authority are coupled, and
   on what the system is prevented from rewriting or rejecting
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.6. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: A system that corrects itself, by a measure taken outside it,
@@ -34,6 +42,8 @@ summary: 'The owner''s, 2026-11-23, in this session: "The governance experiments
   [LEAD-177](../leads.d/LEAD-177.md)''s beacon, [LEAD-015](../leads.d/LEAD-015.md)''s captured evaluator, [LEAD-190](../leads.d/LEAD-190.md)''s relevance-scored
   critics and [LEAD-180](../leads.d/LEAD-180.md)''s identifiability limit. All four are Proposed. The
   owner''s.'
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpw11e6 CLAIM-tmpz8q70 — Proposed or Open; cited in this filing of 2026-11-23 -->

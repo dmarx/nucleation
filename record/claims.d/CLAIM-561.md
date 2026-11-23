@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp5rh3v
 title: 'When early activation reduces intervention delay under uncertainty, provisionally mobilizing a specialized resource can minimize expected loss even when the resource is more likely to be canceled than used; a cancellation rate alone therefore cannot identify waste'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -14,6 +14,13 @@ history:
     same change. Its threshold and its example (H = 10, c0 = 1, c1 = 0.5,
     g = 0.5, threshold 1.5/10.5, ΔV = 0.6 at p = 0.2) were re-run with
     python3 -I. No objection is filed.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §9.6. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -52,6 +59,8 @@ summary: >-
   resource more often cancelled than used can be rightly sent. Checked.
   It undercuts [ARG-053](../arguments.d/ARG-053.md). The wording is A's; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: ARG-053 — Rejected; the argument this claim undercuts -->
 

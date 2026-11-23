@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpywecm
 title: 'Coupling does not by itself separate time scales: two identical undamped oscillators coupled with stiffness k have normal modes at ω₀ and √(ω₀² + 2k), nearly equal when k ≪ ω₀², and neither decays; separation comes where the coupling dissipates relative differences faster than collective ones, as in ẋ = −ax − k(x − y), ẏ = −ay − k(y − x), whose collective and relative modes relax at rates a and a + 2k, and in a Laplacian flow ẋ = −κLx, where the spectrum of L sets the rates'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-11'
@@ -29,6 +29,13 @@ history:
     are parallels, and their readings THEORY-1070 and THEORY-1054
     already corroborate this claim. The body keeps both citations.
     The text is unchanged.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.1. No other change.
 role: counter
 warrant: demonstrated
 tags:
@@ -54,6 +61,8 @@ summary: >-
   of relaxation rates, so a spectral gap is where the separation comes
   from. Conceded, so Active. It gives a mechanism for [CLAIM-478](CLAIM-478.md)'s
   second half and is not a test of individuality.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-tmpgdriu — Proposed; readings of LEAD-094's batch, 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-2012 THEORY-2018 THEORY-2033 THEORY-2043 THEORY-2047 — Proposed; cited in this filing of 2026-11-19 -->

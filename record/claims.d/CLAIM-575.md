@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmphme89
 title: 'Telling which obstruction blocks a transition can itself be computationally hard: over families of reconfiguration problems, deciding whether any admissible path joins two feasible configurations is PSPACE-complete for some, and computing the least peak cost of a path strongly NP-hard for others, so diagnosing the obstruction is a problem with its own complexity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -14,6 +14,13 @@ history:
     are the theorems it cites: Eppstein's Theorem 4 (THEORY-1372), and Ito
     et al.'s Theorems 1 and 2 and Lemma 3 (THEORY-1375). No objection is on
     file, and nothing meets the defeat condition. The claim is unchanged.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §10.2. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -55,6 +62,8 @@ summary: >-
   for maxmin clique unless P = NP. Both readers flagged it against
   [CLAIM-568](CLAIM-568.md). The construction is the filer's, from the readings;
   adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-575: Telling which obstruction blocks a transition can itself be computationally hard: over families of reconfiguration problems, deciding whether any admissible path joins two feasible configurations is PSPACE-complete for some, and computing the least peak cost of a path strongly NP-hard for others, so diagnosing the obstruction is a problem with its own complexity

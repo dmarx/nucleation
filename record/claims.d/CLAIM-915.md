@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp8onwv
 title: 'On the wide reading of the dependence rule, every constraint the capacity depends on belongs to K wherever it is produced, so a capacity supplied from outside is held by the agent and is precarious with its supply'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.6. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +43,8 @@ summary: >-
   supplied from outside is the agent's and is precarious with its supply.
   The wording is the assistant's (Claude, in this session); adopting it is
   the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-916 CLAIM-917 CASE-342 — new, filed in this pull request for LEAD-053 -->
 <!-- inactive-ok-file: CLAIM-367 CASE-227 — Proposed; the cases on which the two readings part, cited as open -->

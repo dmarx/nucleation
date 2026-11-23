@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7wkss
 title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -45,6 +45,14 @@ history:
     reads the capacity to transform the governing organization through
     the Virginia Declaration of Rights' right to reform government,
     and asks who may hold it. No other change.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §1.2, §2.8, §7.1, §8.2,
+    §15.3. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -58,6 +66,7 @@ line:
 - will-organization
 - realizability
 works:
+- governance-of-possibility
 - organization-of-will
 grounds:
 - CASE-036

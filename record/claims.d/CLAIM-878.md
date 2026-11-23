@@ -4,13 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmpocsw4
 title: 'Under a budget set each period to the last period''s peak spending, a capability stays funded exactly as long as every period contains a mobilization at its cost, whether a use, a drill, a false alarm or a cancelled dispatch, so dispatching it provisionally to every report keeps it funded far longer than dispatching it only on confirmation of need'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-080, from the
     study of CASE-315.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §8.5, §9.4, §15.3. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -59,6 +67,8 @@ summary: >-
   rule the cancellations are also what keeps the capability funded. The
   wording is the assistant's (Claude, in this session); adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-315 — new; the study this claim is drawn from, filed with it -->
 

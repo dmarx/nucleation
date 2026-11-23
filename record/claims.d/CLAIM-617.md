@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpjw473
 title: 'When a project''s continuities part at a change of steward, participants'' judgements of which successor continues it are causally productive of that succession: those who judge one successor illegitimate move their work to another, and the move transfers the productive organization the judgement was about'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,6 +49,8 @@ summary: >-
   producers moves the persistence. The defeat condition is the reader's.
   Proposed and untested; the study that would test it is filed from the
   same exchange. The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-426 — Proposed; the reflexive mechanism this claim combines -->
 <!-- inactive-ok-file: ARG-067 — Proposed; the argument from the study to this claim, cited as open -->

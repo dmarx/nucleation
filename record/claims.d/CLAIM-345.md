@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp1glr8
 title: 'Equal controllability rank does not fix the cost of control: for x_{t+1} = x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b², unbounded as b → 0 while the system stays controllable, and in general the least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -14,6 +14,13 @@ history:
     version 2) qualifies the note that cited it, since which force excites
     a zero mode depends on prestress and not on stiffness. No status
     change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §5.2, §5.3. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -42,6 +49,8 @@ summary: >-
   across systems needs inputs in common units.
 complements:
 - CLAIM-562
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-214 — Proposed or new; entries of 2026-11-05 filed from the pasted synthesis on constraint architectures, cited as open -->
 

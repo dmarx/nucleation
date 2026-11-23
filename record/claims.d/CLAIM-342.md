@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt568z
 title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-10-21'
@@ -55,6 +55,14 @@ history:
   note: >-
     A dated note added: LEAD-180's run of CASE-108, the
     compromised-evaluator variant. The claim is unchanged.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.6, §13.7. No other
+    change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -99,6 +107,8 @@ summary: >-
   locks in with action available, because its own sampling policy
   withholds the evidence that would correct it. The claim does not say
   action is unimportant, only that it is not what does the anchoring.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-247 CLAIM-655 — Proposed; cited in the note of 2026-11-12 from the exchange of 2026-11-11 -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->

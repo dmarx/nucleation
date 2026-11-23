@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpu2cwc
 title: 'Institutions able to recognize, authorize and carry out revisions of their own governing standards avoid persistent normatively significant failures better than institutions that only monitor outcomes against fixed standards, where the inherited standards are inadequate to the problems met, and not on routine work, where the added governance costs without benefit'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-15'
@@ -16,6 +16,13 @@ history:
     others depend on owe. It keeps organizational-normativity second,
     because it bears on QUESTION-128, whose first line it is
     (ADR-085). No other change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §4.1, §13.7. No other change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -57,6 +64,8 @@ summary: >-
   ([CLAIM-624](CLAIM-624.md)) and that corrigibility's value is conditional ([CLAIM-520](CLAIM-520.md));
   it holds no comparative prediction for institutions. Empirical and
   untested. The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-1841 THEORY-1851 THEORY-1855 — filed from the exchange "Analyze technological civilization trap" or its readings of 2026-11-13, Proposed -->
 <!-- inactive-ok-file: CLAIM-667 CLAIM-665 CLAIM-624 CLAIM-511 — Proposed; the record's nearest claims, cited with their standing -->

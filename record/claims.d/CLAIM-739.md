@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpnhesz
 status: Proposed
 title: 'Answerability is directed and role-specific: an actor owes an answer to a party with a claim concerning the matter, on one of several grounds that need not presuppose the actor''s legitimate authority, among them interference with a protected interest, entrusted authority, collective rule, consequential dependence and control over recourse; the party owed, the recipient of reasons, the forum that judges and the party that remedies can differ; and what is owed is indexed to the claim, not to how much the party is affected'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -19,6 +19,13 @@ history:
   note: >-
     Carries rightful-power after its own line(s) under ADR-085, taking
     part in its argument: answers QUESTION-480. No other change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.4. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +69,8 @@ summary: >-
   answer is owed; this says when one is owed and to whom. The limit, that
   being affected confers no general authority, is filed apart as
   [CLAIM-749](CLAIM-749.md). The wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-624 CLAIM-682 TERM-083 CASE-229 — Proposed; the record's nearest entries, cited with their standing -->
 

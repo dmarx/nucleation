@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpcdshj
 title: 'An organized individual''s identity over time is carried by the causal transmission of the relations that keep its repertoire realizable, not by its constituents or by any structure invariant across its realizations, so a structuralism about individuals has to be historical: the structure can change under maps that are not isomorphisms while the individual continues, two structurally identical copies can be two individuals, the transmitting organization may lie outside the individual, and when those relations part at a succession, different successors can continue different respects of it'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-07'
@@ -68,6 +68,13 @@ history:
     review of this date (the owner delegated these rulings), and the
     parenthesis now says so. The claim is
     unchanged and stays Proposed.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -127,6 +134,8 @@ summary: >-
   SYNTHESIS scheme as SYNTHESIS-001 on 2026-11-07 ([ADR-076](../decisions.d/ADR-076.md)), where it was
   admitted as an independent hypothesis under [ADR-075](../decisions.d/ADR-075.md), and returned to
   CLAIM under its own code on 2026-11-08 (ADR-084).
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: ADR-076 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-611 CLAIM-617 CASE-223 — filed from the same exchange, Proposed; premise, component and the owner's study -->

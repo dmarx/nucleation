@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'In a population built on the coupled meaning–influence model, grants indexed by role with the critic role scored by observed relevance leave neither belief factions nor capture, while scalar grants fail one way or the other: scored by agreement they capture the population or split it into factions, and moved by the reward for realized policy they split it into factions that read only their own side; indexing by role without a separate score buys nothing'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -10,6 +10,13 @@ history:
     these rulings; ADR-057): its ground CASE-tmpw3vii went Active at this
     review; the defeat condition is not met on the rerun. The choice
     between its Readings A and B for CLAIM-281 stays with the owner.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.6. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -47,6 +54,8 @@ summary: >-
   ζ* = 2(1 − φ′ − φ_s′)/(gσ²). Role indexing scored by agreement is
   identical to the scalar scheme in the meaning layer. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-281 CLAIM-285 — Proposed; the claims tested and the built model, cited as open -->
 

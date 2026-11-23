@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6t2vz
 title: "Where capacity is learned by doing, decays with disuse and needs capacity already present to grow, support that does the work has a deadline after which withdrawal no longer restores capacity, and a slow taper of such support is worse than an abrupt cut because it holds practice down long enough to cross the threshold; support that covers only what the party cannot yet do needs no taper but cannot lift a party already below the threshold"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-11-06'
@@ -37,6 +37,14 @@ history:
     2026-11-11): it no longer carries realizability, which no
     relation to a realizability-first entry supplies (ADR-085). No
     other change.
+- version: 5
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.4, §12.7. No other
+    change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -84,6 +92,8 @@ summary: >-
   Kenya exit study's success with gradual exits in which participants
   already did the work. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-756 CLAIM-758 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CLAIM-684 — filed from the exchange "Analyze technological civilization trap" (2026-11-13), Proposed; the principle the note of that date checks -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6ap9y
 title: 'An organization''s access to a signal, the signal''s authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-21'
@@ -53,6 +53,13 @@ history:
     (LIT-1830), with its citation corrected; Edmondson 1996
     registered, Unfetched; the RefraMED monograph read
     (NOTE-1421). The claim is unchanged.
+- version: 7
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §10.1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -95,6 +102,8 @@ complements:
 - CLAIM-432
 - CLAIM-443
 - CLAIM-523
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-446 — Proposed, Deferred, Unavailable or new; cited from the exchange "Organizational Nucleation and SLT" of 2026-11-04 as open -->
 

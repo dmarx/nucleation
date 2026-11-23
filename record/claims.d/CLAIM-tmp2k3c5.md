@@ -6,7 +6,7 @@ title: If practice must stay within ε of a governing reference that can be
   rate of revision is adequate to a demand with a long horizon and inadequate
   to one with a short horizon, and a fixed reference (v = 0) meets no demand
   farther than δ + ε
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -15,6 +15,14 @@ history:
     these rulings), under ADR-057: no premise; the derivation vH >= 1 -
     delta - epsilon re-checked step by step, including the case v = 0 and
     tightness when practice tracks freely.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §1.2, §4, §7.3, §7.4. No
+    other change.
 role: thesis
 warrant: demonstrated
 defeated_if: An error in the derivation. As a model it is defeated as a reading
@@ -36,6 +44,8 @@ summary: 'A38 §4 of the exchange "Explain First Contact RL" (ChatGPT, second
   bound is necessary, not sufficient, and is tight when the practice can track
   freely within its band. The wording is A''s (ChatGPT, in the exchange of
   2026-11-22); adopting it is the owner''s call.'
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-tmp2k3c5: If practice must stay within ε of a governing reference that can be revised at most at rate v, a demand to bring practice within δ of a target at distance 1 by deadline H can be met only if vH ≥ 1 − δ − ε, so the same rate of revision is adequate to a demand with a long horizon and inadequate to one with a short horizon, and a fixed reference (v = 0) meets no demand farther than δ + ε

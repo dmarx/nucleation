@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'Where no process holds evidence on a block of tasks that does not come from the proposals themselves, a governance rule that treats its members alike cannot tell honest dissent from an attack that pushes the same block as hard: in a world and in its relabelling, with the dissenters'' and attackers'' targets swapped, it ends in the same place, so what it gains for the dissenters in one world it gains for the attacker in the other'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-23'
@@ -15,6 +15,13 @@ history:
     these rulings; ADR-057): its ground CASE-tmpqnoj1 went Active on a
     reproduced rerun; the symmetry argument was rechecked (attack
     successes x and 1 - x under relabelling).
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.6. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -55,6 +62,8 @@ summary: >-
   two evaluators holding evidence of their own on the block the sum falls
   to 0.07 to 0.08. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 
 # CLAIM-tmpxoxys: Where no process holds evidence on a block of tasks that does not come from the proposals themselves, a governance rule that treats its members alike cannot tell honest dissent from an attack that pushes the same block as hard: in a world and in its relabelling, with the dissenters' and attackers' targets swapped, it ends in the same place, so what it gains for the dissenters in one world it gains for the attacker in the other

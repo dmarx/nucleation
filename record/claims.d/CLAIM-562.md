@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp675a9
 title: 'Where an intervention acts in a system''s constraint structure can predict whether it achieves a target better than how much intervention there is, and adding an intervention to a successful set can make it fail'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -19,6 +19,14 @@ history:
     defeater: the supplement's energy model and noise were not read, and
     nothing reports the failure disappearing. A duplicated "No status
     changes." line removed.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §10.1, §13.6. No other
+    change.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -55,6 +63,8 @@ summary: >-
   Chen, Choi and Mahadevan add a structural instance. The construction is
   the filer's, from A's reading of Stern et al.; adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-215 — Proposed or new; cited from the note on A's predictions -->
 <!-- inactive-ok-file: THEORY-1368 CLAIM-185 CLAIM-184 — Proposed; the readings' accounts and A's proposals of 2026-11-04, cited as filed, nothing here rests on their being settled -->

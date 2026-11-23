@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'A demand specification is not a regulation: regulations are constraints on conduct meant to induce constraints on outcomes, and a regime succeeds only if its conduct constraints make the demanded outcomes reliable under the participants'' responses, so a rule can be perfectly enforced and fail its purpose'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-23'
@@ -11,6 +11,14 @@ history:
     and no objection; it refines the owner's CLAIM-tmpz67ew without
     objecting to it; its defeated_if (a regime judged by compliance alone)
     is not met.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §1.2, §2.1, §14.3, §14.8,
+    §15.3. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +54,8 @@ summary: >-
   constrain outcomes or prescribe a technology turns on observability,
   enforceability and uncertainty. The wording is A's (ChatGPT, in the
   exchange of 2026-11-22); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-tmpz67ew CLAIM-785 — Proposed or Open; filed or cited in this filing of 2026-11-22 -->
 

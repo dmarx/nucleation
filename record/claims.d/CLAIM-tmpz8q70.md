@@ -1,13 +1,20 @@
 ---
 status: Proposed
 title: 'In the two-institution meaning–influence model, the loop between an evaluator and the party it evaluates can capture the evaluator''s reading when each institution is stable alone, when neither has a loop inside it, and when the evaluator''s conferral reads no interpretation at all; informational independence does not prevent it while a resource channel runs, and what does is a return channel too weak to close the loop, the evaluator''s reading not moving the party''s standing or evidence'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-11-22'
   note: >-
     Filed 2026-11-22 by the assistant, carrying out LEAD-015, from the
     executed study CASE-tmpd80em.
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.6. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -51,6 +58,8 @@ summary: >-
   negative for this model: the loop between the institutions adds what the
   loops within them do not. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-tmpd80em CLAIM-tmp0v3wu CLAIM-tmp42aba — new; the study and the condition this claim rests on, and its alternative, filed in the same batch -->
 <!-- inactive-ok-file: CLAIM-545 — Proposed; cited as the claim CLAIM-404 is a premise of -->

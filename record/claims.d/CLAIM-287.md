@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpzkkx2
 title: 'What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-16'
@@ -42,6 +42,13 @@ history:
     continuity of an organization "can branch and merge, so it is not
     an identity relation", which is why no one-to-one correspondence
     between earlier and later demands need exist. No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0, §3.2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,6 +62,7 @@ tags:
 - individuation
 date: '2026-10-13'
 works:
+- governance-of-possibility
 - self-as-recursive-ecology
 line:
 - distributed-agency

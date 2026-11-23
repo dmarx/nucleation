@@ -8,7 +8,15 @@ title: 'The tension between identity stabilization and adaptability has the
   each route''s characteristic failure is the risk the other names, rigid
   ritual for the first and the loss of the structure that made response cheap
   for the second'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §3.0. No other change.
 role: supposed
 warrant: interpretive
 defeated_if: An organization whose identity stabilization neither makes later
@@ -43,6 +51,8 @@ summary: 'The assistant''s answer to the owner''s "relate the conversation
   is unread. [LEAD-tmpsyfgj](../leads.d/LEAD-tmpsyfgj.md) would check it.
   The wording is the assistant''s (Claude, in this session); adopting it is
   the owner''s call.'
+works:
+- governance-of-possibility
 ---
 
 <!-- inactive-ok-file: CLAIM-711 CLAIM-758 CLAIM-tmpcag0t CLAIM-tmpm985y CLAIM-tmpntzjo LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp5vg7p
 title: 'Whether relief from overconsolidation has a deadline depends on how the capacity to acquire is lost: if it is sustained by use and decays with disuse (the conditions of the owner-endorsed model of learning by doing), renewed varied practice restores it before a threshold point in training and not after; if it is used up by training, as in plasticity loss under continued varied practice, renewed practice does not restore it at any point, and only an intervention that renews what was used up, such as reinitializing units, does, at any point; the evidence read so far fits the second'
-version: 2
+version: 3
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,6 +29,14 @@ history:
     and which the evidence fits. Role changed from supposed to thesis: the
     claim no longer rests on an unshown antecedent. Version 1's title read:
     'If a learner''s capacity to acquire new structure is itself learned by use, decays with disuse and needs capacity already present to regrow, then recovery from overconsolidation by renewed practice has a deadline: renewed exposure to varied tasks restores the capacity to acquire when it comes before a threshold point in training and not after, while an intervention that raises the capacity directly (a reset of some weights) can still restore it after the threshold if it lifts the capacity back above it; in a heterogeneous population the threshold may show as a steep or probabilistic transition rather than a step'.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §11.2, §11.3. No other
+    change.
 tags:
 - learning-theory
 - representation-learning
@@ -56,6 +64,8 @@ summary: >-
   branches, and the evidence (Dohare and colleagues) fits depletion by use.
 uses:
 - TERM-131
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: THEORY-2006 THEORY-2027 — Proposed; cited in this filing of 2026-11-19 -->
 <!-- inactive-ok-file: CASE-294 CLAIM-758 THEORY-1353 — Proposed; cited in this filing of 2026-11-19 -->

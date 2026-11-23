@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp47w4i
 title: 'Negative frequency dependence that keeps two types in coexistence does not make their interaction cooperative: in Hawk–Dove with cost C above value V each type increases when rare and they coexist at the interior equilibrium of V/C Hawks, with Hawks still taking the whole resource from Doves, and on the Black Queen account producers of a leaked good and the cells that use it without paying coexist at a frequency set by the community''s need; so whether types persist together and whether they cooperate are separate questions, and a coexistence criterion answers only the first'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -26,6 +26,13 @@ history:
     owner's call. The twenty-fifth status review promoted it on
     2026-11-06 (version 2), and the summary now says so. No other
     change.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §12.1. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -61,6 +68,8 @@ summary: >-
   Queen, [THEORY-1048](../theory.d/THEORY-1048.md)). It did not hold the point itself. Hawk–Dove makes
   it exact. The wording is the reader's; the twenty-fifth status review
   adopted it on 2026-11-06.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-257 — filed from the exchange of 2026-11-12, Proposed -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable; Chesson's criterion, cited for the definition, not read here -->

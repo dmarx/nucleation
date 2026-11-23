@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpw7pli
 status: Proposed
 title: "A categorical administrative gate can make evidence that a governing standard requires to count unable to change a decision: an authority that conditions a substantive entitlement on a categorical criterion displaces the reasons its decisions are supposed to answer to, and that the criterion is imposed, and complied with, establishes neither its legal authority nor its justification"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -12,6 +12,13 @@ history:
     The opinion in CLINIC v. Rubio read; it documents the claim's
     structure in the court's own findings, and its theory is added to
     the claim's grounds beside CASE-289.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §4.1, §13.2. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +53,8 @@ summary: >-
   the owner's "moralize racist policies"; the idea of the specimen is the
   owner's, and the mechanism and its wording are A's. Adopting it is the
   owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-289 — filed from the exchange "Assess Depp Heard Abuse" (2026-11-17), new and Proposed -->
 

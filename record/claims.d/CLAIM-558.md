@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp4g8e1
 title: 'A procedural capability that operation seldom calls on decays with the time since its last use, and practice in the interval slows the decay, so a capability kept for rare events is maintained by practice outside operation, not by operation'
-version: 8
+version: 9
 history:
 - version: 2
   date: '2026-11-06'
@@ -63,6 +63,13 @@ history:
     synthesis finds the same, with practice other than an earlier test. Its
     first line, readiness, is already this claim's (ADR-085). Reading review
     of 2026-11-11, by question. No other change.
+- version: 9
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §8.5, §9.4. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -102,6 +109,8 @@ corroborates:
 bears_on:
 - QUESTION-395
 - QUESTION-433
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-314 THEORY-2211 ARG-201 — new; filed for LEAD-124 on 2026-11-22 -->
 

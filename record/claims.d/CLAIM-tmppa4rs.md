@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'In a simulated forager that learns from its own energy account which features warn of a loss, revising which features count is needed for, and pays only on, a change whose warning sign is a feature it never attended to; a change on a feature it already attends to is met by re-estimating, and a change that shows itself as an absence is met by registering the absence'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-11-22'
@@ -15,6 +15,13 @@ history:
     these rulings): CASE-tmpz762n, its ground, reproduces and is Active,
     and the figures match the reproduced forager summary; no objection;
     the defeater is not met.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §4.1. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -52,6 +59,8 @@ summary: >-
   separation of revising estimates from revising criteria shows up exactly
   where the warning sign is new to the forager. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CASE-239 CASE-241 CLAIM-651 — Proposed; the study design run, the profiles it compares and the claim on registering a non-response -->
 

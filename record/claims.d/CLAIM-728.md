@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpdic1g
 status: Proposed
 title: 'In an incomplete contract the party holding residual rights of control decides the contingencies the contract did not cover, so a relationship fair in every specified term can still leave one party''s terms at the other''s discretion, and that discretion is exercised, and seen, only when an uncovered contingency arises'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-17'
@@ -16,6 +16,13 @@ history:
     (2016), read in part as the neighbour of Hart and Moore (1990),
     corroborates the claim's first clause and qualifies its worker
     example.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.1. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +59,8 @@ summary: >-
   over the terms, not the size of a dependence, sorts it; this names a
   form that control takes in a contract. The works are not held. The
   wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-744 — filed from the same exchange, Proposed -->
 <!-- inactive-ok-file: CLAIM-690 TERM-124 CLAIM-364 CLAIM-670 — Proposed; the record's nearest entries, cited with their standing -->

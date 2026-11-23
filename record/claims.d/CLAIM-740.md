@@ -4,7 +4,7 @@ formerly:
 - CLAIM-tmpohafo
 status: Active
 title: 'For a party affected by a decision, explanation (understanding why it was reached), contestation (challenging it or the principles behind it) and interruption (suspending its execution while the challenge is considered) are separate entitlements, and each without the next fails in its own way: explanation without contestation is transparency without accountability, contestation without interruption a right that arrives too late, and interruption without reasons an arbitrary veto'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-17'
@@ -24,6 +24,13 @@ history:
     CLAIM-624's duty is cited for the giving-an-account split, which is
     not in the title; promoted to Active: CLAIM-523 is Active, no
     objection, the defeated_if is not met.
+- version: 4
+  date: '2026-11-23'
+  note: >-
+    Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
+    membership pass of 2026-11-23, under ADR-104's rule: the revised
+    manuscript in scratch/manuscripts/governance-of-possibility/ states
+    its proposition or uses it as a step, in §13.3. No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -63,6 +70,8 @@ summary: >-
   organization's; these are the affected party's entitlements, and
   [CLAIM-624](CLAIM-624.md)'s answerability is what contestation is owed under. The
   wording is A's; adopting it is the owner's call.
+works:
+- governance-of-possibility
 ---
 <!-- inactive-ok-file: CLAIM-705 TERM-125 — Proposed or Open; filed from the first share of the same exchange (PR 510) -->
 <!-- inactive-ok-file: CLAIM-624 — Proposed; a claim this complements -->
