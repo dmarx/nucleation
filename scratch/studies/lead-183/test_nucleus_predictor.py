@@ -1,5 +1,7 @@
 import random
 
+import numpy as np
+
 import pytest
 
 import nucleus_predictor as npred
@@ -125,3 +127,32 @@ def test_two_sided_ambiguity_never_forces_from_target():
     arch = npred.lattice_architecture(6, 4, 0.0, 2, r.Random(5))
     for s in range(arch.n):
         assert npred.island_forward(arch, [s]) == {s}
+
+
+def test_tff_counts_options_at_first_threshold():
+    # path 0-1-2, both edges ambiguous (strength 1; the chain helper allows
+    # every state from the target side, so 3 options): with tau = 2 no
+    # component reaches threshold, so each is taken when touched: -2 log 3
+    arch = chain(3, [False, False], q=3)
+    p = npred.Predictors(arch)
+    assert p.tff([0], tau=2) == pytest.approx(-2 * np.log(3))
+    # seeding both ends: component 1 reaches strength 2 and its options are
+    # the intersection of two all-permissive sets, still 3
+    assert p.tff([0, 2], tau=2) == pytest.approx(-np.log(3))
+
+
+def test_tff_rigid_chain_is_certain():
+    arch = chain(4, [True, True, True])
+    p = npred.Predictors(arch)
+    assert p.tff([0], tau=1) == pytest.approx(0.0)
+
+
+def test_tff_can_fall_when_a_seed_is_added():
+    # 0 -r- 1 -r- 2 -a- 3 -a- 4, q=3, ambiguous edges allow every state from
+    # the target side. Seed 0 alone: 3 and 4 each have 3 options -> -2 log 3.
+    arch = chain(5, [True, True, False, False], q=3)
+    p = npred.Predictors(arch)
+    base = p.tff([0], tau=1)
+    assert base == pytest.approx(-2 * np.log(3))
+    # adding seed 4 removes 4's choice and leaves 3 (touched by 2 and 4)
+    assert p.tff([0, 4], tau=1) >= base

@@ -212,8 +212,50 @@ class Predictors:
     def joint(self, S):
         return len(island(self.arch, list(S))) / self.arch.n if S else 0.0
 
+    def tff(self, S, tau=None):
+        """P3, post hoc (second amendment): threshold-front forcing.
+
+        Grow deterministically from S in synchronous rounds. In each round every
+        unset component whose bond strength from set components is at least tau
+        is a candidate (if there is none, every unset component with a set
+        neighbour is); each candidate's options k_v are its states compatible
+        with its set neighbours at the start of the round; all candidates are
+        then set to target. Unseeded components with no set neighbour at the end
+        (none on a connected graph) count as q options. Returns -sum log k_v, the
+        log of the product of 1/k_v: the chance of the target if each choice at
+        first threshold were uniform among the options then compatible."""
+        arch = self.arch
+        tau = TAU if tau is None else tau
+        if not S:
+            return -arch.n * float(np.log(arch.q))
+        state = [-1] * arch.n
+        for s in S:
+            state[s] = arch.target[s]
+        strength = [0] * arch.n
+        for s in S:
+            for w in arch.nbrs[s]:
+                strength[w] += arch.strength[(s, w)]
+        total = 0.0
+        while True:
+            touched = [v for v in range(arch.n) if state[v] < 0 and strength[v] > 0]
+            if not touched:
+                break
+            cands = [v for v in touched if strength[v] >= tau] or touched
+            opts = [len(compatible(arch, v, state)) for v in cands]
+            for v, k in zip(cands, opts):
+                total += float(np.log(max(k, 1)))
+            for v in cands:
+                state[v] = arch.target[v]
+            for v in cands:
+                for w in arch.nbrs[v]:
+                    if state[w] < 0:
+                        strength[w] += arch.strength[(v, w)]
+        total += sum(state[v] < 0 for v in range(arch.n)) * float(np.log(arch.q))
+        return -total
+
 
 PREDICTORS = ["vic", "icn", "count", "ufi", "joint"]
+PREDICTORS_FRESH = PREDICTORS + ["tff"]
 MONOTONE = ["count", "ufi", "joint"]
 
 # ---------------------------------------------------------------- dynamics
@@ -309,7 +351,8 @@ def auc(scores_pos, scores_neg):
     return float(((p > q).sum() + 0.5 * (p == q).sum()) / (p.size * q.size))
 
 
-def addition_pairs(records, runs):
+def addition_pairs(records, runs, preds=None):
+    preds = preds or PREDICTORS
     """Pairs (S, S+c) among evaluated sets with significance labels."""
     by = {tuple(sorted(r["S"])): r for r in records}
     out = []
@@ -327,7 +370,7 @@ def addition_pairs(records, runs):
                 elif d > 2 * se and d >= 0.05:
                     lab = 1
                 out.append({"S": key, "Sc": c_key, "dV": d, "label": lab,
-                            **{"d_" + p: b[p] - a[p] for p in PREDICTORS}})
+                            **{"d_" + p: b[p] - a[p] for p in preds}})
     return out
 
 
@@ -347,7 +390,8 @@ def m2(pairs, p):
 
 
 def run_architecture(arch_seed, L=8, q=4, p_rigid=0.5, m=2, eps=1e-4, runs=300,
-                     pool_size=10, n_triples=40, out=None):
+                     pool_size=10, n_triples=40, out=None, preds=None):
+    preds = preds or PREDICTORS
     rng = random.Random(arch_seed)
     arch = lattice_architecture(L, q, p_rigid, m, rng)
     pred = Predictors(arch)
@@ -361,7 +405,7 @@ def run_architecture(arch_seed, L=8, q=4, p_rigid=0.5, m=2, eps=1e-4, runs=300,
     for S in sets:
         rec = {"arch": arch_seed, "p_rigid": p_rigid, "S": list(S),
                "V": estimate_V(arch, list(S), eps, runs, sim_rng)}
-        for p in PREDICTORS:
+        for p in preds:
             rec[p] = getattr(pred, p)(list(S))
         records.append(rec)
         if out is not None:
@@ -370,21 +414,26 @@ def run_architecture(arch_seed, L=8, q=4, p_rigid=0.5, m=2, eps=1e-4, runs=300,
     return records
 
 
-def summarize(records, runs):
+def summarize(records, runs, preds=None):
+    preds = preds or PREDICTORS
     nonempty = [r for r in records if r["S"]]
-    m1 = {p: spearman([r[p] for r in nonempty], [r["V"] for r in nonempty]) for p in PREDICTORS}
-    pairs = addition_pairs(records, runs)
+    m1 = {p: spearman([r[p] for r in nonempty], [r["V"] for r in nonempty]) for p in preds}
+    pairs = addition_pairs(records, runs, preds)
     return m1, pairs
 
 
-def main(quick=False):
+def main(quick=False, fresh=False):
     import os
     here = os.path.dirname(os.path.abspath(__file__))
     runs = 60 if quick else 300
+    preds = PREDICTORS_FRESH if fresh else PREDICTORS
     cfgs = [(s, 0.5) for s in range(5)] + [(100, 0.4), (101, 0.6)]
+    if fresh:
+        cfgs = [(s, 0.5) for s in range(200, 205)]
     if quick:
         cfgs = cfgs[:1]
-    path = os.path.join(here, "results_quick.jsonl" if quick else "results.jsonl")
+    tag = ("_fresh" if fresh else "") + ("_quick" if quick else "")
+    path = os.path.join(here, f"results{tag}.jsonl")
     done = set()
     if os.path.exists(path):
         with open(path) as f:
@@ -396,32 +445,33 @@ def main(quick=False):
         for s, pr in cfgs:
             if (s, pr) in done:
                 continue
-            run_architecture(s, p_rigid=pr, runs=runs, n_triples=10 if quick else 40, out=out)
+            run_architecture(s, p_rigid=pr, runs=runs, n_triples=10 if quick else 40, out=out,
+                             preds=preds)
     with open(path) as f:
         for line in f:
             r = json.loads(line)
             allrec.setdefault((r["arch"], r["p_rigid"]), []).append(r)
     summary = {"runs": runs, "per_arch": {}, "primary": {}, "sensitivity": {}}
-    prim_pairs, sens_pairs, m1s = [], [], {p: [] for p in PREDICTORS}
+    prim_pairs, sens_pairs, m1s = [], [], {p: [] for p in preds}
     for (s, pr), recs in sorted(allrec.items()):
-        m1, pairs = summarize(recs, runs)
+        m1, pairs = summarize(recs, runs, preds)
         summary["per_arch"][f"{s}@{pr}"] = {
             "m1": m1, "V_empty": [r["V"] for r in recs if not r["S"]][0],
             "V_max": max(r["V"] for r in recs),
-            "m2": {p: m2(pairs, p) for p in PREDICTORS}}
+            "m2": {p: m2(pairs, p) for p in preds}}
         if pr == 0.5:
             prim_pairs += pairs
-            for p in PREDICTORS:
+            for p in preds:
                 m1s[p].append(m1[p])
         else:
             sens_pairs += pairs
-    summary["primary"]["m1_mean"] = {p: float(np.nanmean(m1s[p])) for p in PREDICTORS}
-    summary["primary"]["m2"] = {p: m2(prim_pairs, p) for p in PREDICTORS}
+    summary["primary"]["m1_mean"] = {p: float(np.nanmean(m1s[p])) for p in preds}
+    summary["primary"]["m2"] = {p: m2(prim_pairs, p) for p in preds}
     if sens_pairs:
-        summary["sensitivity"]["m2"] = {p: m2(sens_pairs, p) for p in PREDICTORS}
+        summary["sensitivity"]["m2"] = {p: m2(sens_pairs, p) for p in preds}
     best_mono = max(summary["primary"]["m1_mean"][p] for p in MONOTONE)
     verdict = {}
-    for p in ["vic", "icn"]:
+    for p in [x for x in preds if x not in MONOTONE]:
         mm = summary["primary"]["m2"][p]
         verdict[p] = bool(mm["auc"] >= 0.7 and mm["recall"] >= 0.5
                           and summary["primary"]["m1_mean"][p] >= best_mono - 0.05)
@@ -429,7 +479,7 @@ def main(quick=False):
     summary["primary"]["best_monotone_m1"] = best_mono
     if not prim_pairs or not any(x["label"] == -1 for x in prim_pairs):
         summary["primary"]["void"] = True
-    out_path = os.path.join(here, "summary_quick.json" if quick else "summary.json")
+    out_path = os.path.join(here, f"summary{tag}.json")
     with open(out_path, "w") as f:
         json.dump(summary, f, indent=1)
     print(json.dumps(summary["primary"], indent=1))
@@ -437,4 +487,4 @@ def main(quick=False):
 
 
 if __name__ == "__main__":
-    main(quick="--quick" in sys.argv)
+    main(quick="--quick" in sys.argv, fresh="--fresh" in sys.argv)

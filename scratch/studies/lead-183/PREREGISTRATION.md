@@ -113,3 +113,32 @@ at target removes an ambiguous choice and adds no coherent alternative, so
 significant decreases may be rare. If none occur the test of recall is void,
 but VIC's flags still test its precision: a flag with no decrease is a false
 alarm.
+
+## Second amendment of 2026-11-23: a post hoc predictor, tested on fresh architectures
+
+**Result of the amended pre-registered test** (architectures 0–4, p_r = 0.5):
+neither VIC nor ICN transfers (summary.json). A post hoc recheck with 3000
+runs (recheck.json) confirms 37 of the 40 significant decreases (|z| > 2),
+pooled over primary and sensitivity architectures, so the system does produce
+harmful additions of target-consistent seeds. A post hoc diagnosis
+(diagnose_seeds.py and a failure-site count) finds the harmful seeds have
+large islands, and the fatal errors fall on components inside the island,
+attached at threshold through two weak bonds whose distractors coincide. The
+patient closure waits for such a component to be forced; the dynamics do not.
+What matters is the order in which components reach threshold, which a seed
+changes.
+
+**P3, threshold-front forcing (TFF), post hoc.** Grow deterministically from S
+in synchronous rounds. In each round every unset component whose bond
+strength from set components is at least τ = 2 is a candidate (if none,
+every unset component with a set neighbour is). Each candidate's options k_v
+are its states compatible with its set neighbours at the start of the round;
+all candidates are then set to target. TFF(S) = −Σ_v log k_v. It uses the
+architecture and the threshold of the growth rule, and no simulation of the
+stochastic dynamics. It can fall when a seed is added.
+
+**Test.** Fresh architectures 200–204, p_r = 0.5, never generated before this
+amendment; the same sets, runs, metrics and criterion of transfer; TFF is
+judged with VIC, ICN and the monotone baselines recomputed on the same data.
+Because TFF was designed after seeing the first test's failures, its result
+on 200–204 is the only one that counts for it.
