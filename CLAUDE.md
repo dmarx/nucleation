@@ -126,7 +126,7 @@ Suggest switching off when going on would be awkward.
 upload or a work, and for reading registered works. Its steps are the
 `read-and-file` skill (`.claude/skills/read-and-file/SKILL.md`).
 
-ADR-tmpbdfmk holds the invariants for writing a manuscript from the record, a
+[ADR-tmpbdfmk](record/decisions.d/ADR-tmpbdfmk.md) holds the invariants for writing a manuscript from the record, a
 view over its argument kept in `scratch/manuscripts/<work>/`. Its steps are
 the `write-manuscript` skill (`.claude/skills/write-manuscript/SKILL.md`).
 
