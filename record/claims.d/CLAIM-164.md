@@ -161,9 +161,9 @@ informally and not stated. The claim is unchanged.
 ## Note of 2026-11-23: the bound for the compressed chain
 
 This claim's core is Davis–Kahan for one perturbation. The diffusion-wavelet
-chain of Coifman and Maggioni (NOTE-984, THEORY-758) truncates, compresses
-and squares level after level, so its perturbations compound, and NOTE-984
-asked what that does to the subspace a level keeps. CLAIM-tmpdsu37 answers
+chain of Coifman and Maggioni ([NOTE-984](../notes.d/NOTE-984.md), [THEORY-758](../theory.d/THEORY-758.md)) truncates, compresses
+and squares level after level, so its perturbations compound, and [NOTE-984](../notes.d/NOTE-984.md)
+asked what that does to the subspace a level keeps. [CLAIM-tmpdsu37](CLAIM-tmpdsu37.md) answers
 with a proof, checked numerically in scratch/studies/lead-192. If the
 truncation at level j leaves a column residual d_j and the chain's operator
 has drifted f_j from the true power T^{2^j}, the kept subspace is within

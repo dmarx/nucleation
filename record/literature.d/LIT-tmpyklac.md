@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  Skimmed 2026-11-23 (NOTE-tmpv196v) from arXiv 1811.11636 v3: §§1.2, 4.4,
+  Skimmed 2026-11-23 ([NOTE-tmpv196v](../notes.d/NOTE-tmpv196v.md)) from arXiv 1811.11636 v3: §§1.2, 4.4,
   8 and 8.2–8.3.1 read closely, the rest by headings. Worth reading as the
   one accessible restatement of the biorthogonal diffusion-wavelet
-  construction (LIT-tmpzikaq, Unfetched) and its extension to directed
+  construction ([LIT-tmpzikaq](LIT-tmpzikaq.md), Unfetched) and its extension to directed
   graphs, with T = Π^{1/2}PΠ^{−1/2}. Read it knowing that it gives the
   construction and examples, not error bounds.
 title: 'Harmonic analysis on directed graphs and applications: From Fourier analysis to wavelets'
@@ -52,7 +52,7 @@ summary: >-
   operator is compressed by the pseudo-inverse; wavelets and their duals
   are defined from the projector onto the complement. They say the
   scaling-function construction is that of the 2005 biorthogonal report,
-  LIT-tmpzikaq. On the directed cycle of 256 vertices the biorthogonal
+  [LIT-tmpzikaq](LIT-tmpzikaq.md). On the directed cycle of 256 vertices the biorthogonal
   inverse transform has condition number about 2 × 10⁴ against 33 for the
   orthogonal one. Read as the stand-in for the 2005 report.
 ---
@@ -79,5 +79,5 @@ doi:10.1016/j.acha.2022.10.003. arXiv:1811.11636.
 
 ## Standing in the record
 
-Read in place of LIT-tmpzikaq, for the scaling-function construction
+Read in place of [LIT-tmpzikaq](LIT-tmpzikaq.md), for the scaling-function construction
 only, as the NOTE says.

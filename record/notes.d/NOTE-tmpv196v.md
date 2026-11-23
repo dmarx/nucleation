@@ -41,7 +41,7 @@ energy. From it the paper builds a redundant spectral wavelet frame
 (§8.1) and a critically sampled transform that "generaliz[es] the
 framework of diffusion wavelets [22, 27] to the directed case" (§1.2).
 For this record the second is the point: it is the one accessible
-statement of the biorthogonal diffusion-wavelet construction, LIT-tmpzikaq.
+statement of the biorthogonal diffusion-wavelet construction, [LIT-tmpzikaq](../literature.d/LIT-tmpzikaq.md).
 
 ## Key results
 
@@ -105,16 +105,16 @@ statement of the biorthogonal diffusion-wavelet construction, LIT-tmpzikaq.
 ## Connections
 
 It cites the 2005 biorthogonal report as [36], Coifman and Maggioni as
-[22] (LIT-1256, NOTE-984) and diffusion wavelet packets as [27]. It
-restates, for LIT-tmpzikaq, the scaling-function construction, by the
+[22] ([LIT-1256](../literature.d/LIT-1256.md), [NOTE-984](NOTE-984.md)) and diffusion wavelet packets as [27]. It
+restates, for [LIT-tmpzikaq](../literature.d/LIT-tmpzikaq.md), the scaling-function construction, by the
 authors' own account of identity. It does not restate any theorem or
 error statement of that report, and the record cannot tell whether the
 report has one.
 
 ## Bearing on the record
 
-- **CLAIM-164, and the bound filed by the lead run of 2026-11-23
-  (CLAIM-tmpdsu37).** Background and a test case. The construction's
+- **[CLAIM-164](../claims.d/CLAIM-164.md), and the bound filed by the lead run of 2026-11-23
+  ([CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md)).** Background and a test case. The construction's
   subspace chain has the form the bound covers: each level is the
   orthogonal compression of a power of the previous level's operator onto
   the span of selected columns, so the projector perturbation argument
@@ -122,12 +122,12 @@ report has one.
   unquantified [T²]_{Φ₁} ≈ ([T]_{Φ₁})² is where, for a non-symmetric T, the
   bound needs a row residual as well as the column residual that column
   selection controls.
-- **NOTE-984's open question on non-reversible operators.** In part.
+- **[NOTE-984](NOTE-984.md)'s open question on non-reversible operators.** In part.
   The ranges of compressed dyadic powers still give a nested chain for a
   directed walk, and the paper builds one. Whether the levels can be read
   as bands is not addressed: the paper's frequency reading is through the
   eigenvectors of P (§6), and §8.2 does not connect the levels to it.
-- **THEORY-758.** A contrast on one point. That account's induction
+- **[THEORY-758](../theory.d/THEORY-758.md).** A contrast on one point. That account's induction
   (each level is a spectral space) uses T = Tᵀ. The directed construction
   keeps the nesting, which needs no symmetry, and gives up the spectral
   identification.

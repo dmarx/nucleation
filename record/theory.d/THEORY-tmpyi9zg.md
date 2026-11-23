@@ -19,10 +19,10 @@ date: '2026-11-23'
 source:
 - LIT-tmpyklac
 summary: >-
-  Sevi, Rilling and Borgnat (2023), LIT-tmpyklac, skimmed in NOTE-tmpv196v,
+  Sevi, Rilling and Borgnat (2023), [LIT-tmpyklac](../literature.d/LIT-tmpyklac.md), skimmed in [NOTE-tmpv196v](../notes.d/NOTE-tmpv196v.md),
   §8.2–8.3.1. Their critically sampled transform on directed graphs,
   which they say has the scaling functions of the 2005 biorthogonal
-  report (LIT-tmpzikaq). The chain of spaces is nested by construction
+  report ([LIT-tmpzikaq](../literature.d/LIT-tmpzikaq.md)). The chain of spaces is nested by construction
   and the projector onto each is orthogonal; only the basis is
   non-orthogonal. It gives no error bound, does not read the levels as
   spectral bands, and reports conditioning on one example.
@@ -34,10 +34,10 @@ summary: >-
 ## Source
 
 Sevi, Rilling and Borgnat (2023), *Applied and Computational Harmonic
-Analysis* 62: 390–440, LIT-tmpyklac, §8.2 (construction) and §8.3.1
-(the directed cycle C₂₅₆), skimmed in NOTE-tmpv196v. They attribute the
+Analysis* 62: 390–440, [LIT-tmpyklac](../literature.d/LIT-tmpyklac.md), §8.2 (construction) and §8.3.1
+(the directed cycle C₂₅₆), skimmed in [NOTE-tmpv196v](../notes.d/NOTE-tmpv196v.md). They attribute the
 scaling functions to Maggioni, Bremer, Coifman and Szlam (2005),
-LIT-tmpzikaq, which the record has not read: "Our construction is
+[LIT-tmpzikaq](../literature.d/LIT-tmpzikaq.md), which the record has not read: "Our construction is
 identical but we also propose a definition for wavelets."
 
 ## What was actually shown
@@ -61,11 +61,11 @@ been as well conditioned as the orthonormal one, and was not.
 ## What this does not say
 
 - **Not an error bound.** "[T²]_{Φ₁} ≈ ([T]_{Φ₁})²" is unquantified. The
-  bound the record files from this lead (CLAIM-tmpdsu37) supplies one, and
+  bound the record files from this lead ([CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md)) supplies one, and
   shows that a directed T needs a row residual the column selection does
   not control.
 - **Not that the levels are spectral bands.** For symmetric T the levels
-  are spectral spaces (THEORY-758). Nothing here says what a level of a
+  are spectral spaces ([THEORY-758](THEORY-758.md)). Nothing here says what a level of a
   directed walk is in the spectrum of P.
 - **Not that biorthogonality changes the spaces.** The projector onto
   V_j is orthogonal however V_j's basis is chosen. Biorthogonality is a

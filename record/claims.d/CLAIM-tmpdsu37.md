@@ -31,7 +31,7 @@ summary: >-
   times the first discarded singular value, so the bound is a relative
   gap (λ_{k+1}/λ_k)^{2^j} plus accumulated drift. A non-symmetric T needs a
   row residual as well, which column selection does not control. It gives
-  CLAIM-164 a demonstrated step for the compressed chain. The wording is
+  [CLAIM-164](CLAIM-164.md) a demonstrated step for the compressed chain. The wording is
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 bears_on:
@@ -46,7 +46,7 @@ corroborates:
 
 ## The claim
 
-NOTE-984 asks for an error bound for Coifman and Maggioni's compressed
+[NOTE-984](../notes.d/NOTE-984.md) asks for an error bound for Coifman and Maggioni's compressed
 algorithm across levels, "of the form ‖P_{Ṽ_j} − P_{V_j}‖ ≤
 (something)·ε/gap_j", which "would settle what a level is numerically".
 This is that bound. The "something" is the drift the chain accumulates,
@@ -60,7 +60,7 @@ T is a real n × n matrix with ‖T‖₂ ≤ 1. Every symmetric diffusion opera
 with spectrum in [0, 1] qualifies (Coifman and Maggioni), and so does
 T = Π^{1/2}PΠ^{−1/2} for a walk P with stationary measure π, since it is
 similar through an isometry to P on ℓ²(V, π), where P contracts
-(THEORY-tmpyi9zg).
+([THEORY-tmpyi9zg](../theory.d/THEORY-tmpyi9zg.md)).
 
 The chain, written in ambient coordinates: A₀ = T, and for i ≥ 0 an
 orthogonal projector P_{i+1}, of rank k_{i+1}, chosen by any truncation of
@@ -70,7 +70,7 @@ A_i, and
 
 For an orthonormal basis Φ_{i+1} of Ran P_{i+1} this is Coifman and
 Maggioni's T_{i+1} = Φ_{i+1}ᵀA_{i+1}Φ_{i+1} = M_iM_iᵀ (their (4.16)), so
-A_i represents T_i, and level i+1 is read off A_i ≈ T^{2^i}, as THEORY-758
+A_i represents T_i, and level i+1 is read off A_i ≈ T^{2^i}, as [THEORY-758](../theory.d/THEORY-758.md)
 derives. For a non-orthogonal basis Φ of the same space,
 Φ^†A_{i+1}Φ is Sevi et al.'s pseudo-inverse compression; the projector,
 and so everything below, is the same whichever basis is kept. Nesting
@@ -143,7 +143,7 @@ in it. And for 𝒰 invariant of dimension k_{j+1},
 Π = QQᵀ and (I − P)TP − (I − Π)TΠ = (I − P)T(P − Π) + (Π − P)TΠ. So a level
 closes at its own time step to within its residual whatever the
 spectrum, and closes under one step of T only as well as its subspace is
-definite. This is what NOTE-984's check saw on the circle: invariance
+definite. This is what [NOTE-984](../notes.d/NOTE-984.md)'s check saw on the circle: invariance
 under T^{2^j} near 2–7 × 10⁻⁵, under T only near 10⁻².
 
 **The gap.** With strong rank-revealing QR (Gu and Eisenstat, as Coifman
@@ -157,7 +157,7 @@ the earlier levels left. Conversely, any truncation of rank k has
 d_j ≥ σ_{k+1}(A_j) (Eckart–Young), so the bound cannot fall below about
 (λ_{k+1}/λ_k)^{2^j} by choosing the truncation; with λ_{k+1} = λ_k it is
 vacuous, as it must be, since the top-k space is then not defined. That
-is CLAIM-164's point, now for the compressed chain.
+is [CLAIM-164](CLAIM-164.md)'s point, now for the compressed chain.
 
 **The constant per level is attained.** For T = diag(a, b) and a kept
 direction at angle θ to the first axis, d = (a²sin²θ + b²cos²θ)^{1/2}, so
@@ -171,7 +171,7 @@ QR), three Gaussian clouds, a prescribed gapped spectrum with a noisy
 truncation, and a directed small-world walk T = Π^{1/2}PΠ^{−1/2}. Nine
 pytest checks pass. At every level of every case the true subspace
 error, the true drift and both closure defects are within their bounds,
-and exact (SVD) truncation reproduces the spectral space (THEORY-758).
+and exact (SVD) truncation reproduces the spectral space ([THEORY-758](../theory.d/THEORY-758.md)).
 
 - Where a wide gap isolates the three clouds (levels 6–13 of 14), the
   error is 1.06 × 10⁻⁴ against a bound of 1.11–1.19 × 10⁻⁴ at levels 6–8:
@@ -192,13 +192,13 @@ and exact (SVD) truncation reproduces the spectral space (THEORY-758).
 
 ## How it is filed, and the alternative
 
-Filed as corroborating CLAIM-164: an independent, demonstrated instance
-of that claim's criterion in the multilevel setting, on which CLAIM-164
+Filed as corroborating [CLAIM-164](CLAIM-164.md): an independent, demonstrated instance
+of that claim's criterion in the multilevel setting, on which [CLAIM-164](CLAIM-164.md)
 does not depend, since its core is Davis–Kahan for one perturbation. The
 alternative filing is `complements`, reading this as answering a
 different part of the question (how definite a computed level is) rather
-than as evidence for CLAIM-164. The lean is to corroborates, because the
-content is CLAIM-164's own criterion, the gap picking the object,
+than as evidence for [CLAIM-164](CLAIM-164.md). The lean is to corroborates, because the
+content is [CLAIM-164](CLAIM-164.md)'s own criterion, the gap picking the object,
 recovered for the chain. The owner chooses.
 
 ## What it does not say
@@ -214,7 +214,7 @@ recovered for the chain. The owner chooses.
   denominator is σ_min(R^{2^j}), which can be far below the smallest
   kept |λ|^{2^j}, and the row residual must be bounded separately. What
   the biorthogonal report does about either is unknown: it is unread
-  (LIT-tmpzikaq), and its neighbour (NOTE-tmpv196v) gives no bound.
+  ([LIT-tmpzikaq](../literature.d/LIT-tmpzikaq.md)), and its neighbour ([NOTE-tmpv196v](../notes.d/NOTE-tmpv196v.md)) gives no bound.
 - **Not about the basis inside a level.** The bound is on the subspace.
   Localization, and the conditioning a non-orthogonal basis costs, are
   separate.

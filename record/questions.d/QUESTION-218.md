@@ -160,7 +160,7 @@ one system. [THEORY-tmpmvcnr](../theory.d/THEORY-tmpmvcnr.md) bears on this ques
 
 ## Note of 2026-11-23: a computed level is definite as a subspace, to a bound
 
-CLAIM-tmpdsu37 (Proposed, filed by the lead run of 2026-11-23) bounds how far
+[CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md) (Proposed, filed by the lead run of 2026-11-23) bounds how far
 a level computed by the compressed diffusion-wavelet chain lies from the
 invariant subspace of the same dimension: the truncation residual plus the
 accumulated drift, over the smallest kept eigenvalue of the level's dyadic
@@ -168,4 +168,4 @@ power. It bears on the question's second half on the subspace side. What a
 computed level makes definite is a function of the whole state, a
 subspace, and it is definite only where the kept spectrum stands well above
 the residual. The bound says nothing about a basis of members inside the
-level, so it leaves the block side where NOTE-984 left it.
+level, so it leaves the block side where [NOTE-984](../notes.d/NOTE-984.md) left it.

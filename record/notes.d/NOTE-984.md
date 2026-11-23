@@ -481,7 +481,7 @@ distance used in [NOTE-675](NOTE-675.md) takes its dyadic times from here.
 
 The lead run of 2026-11-23 took up the first and third open questions above.
 
-- **The error bound.** Proved, as CLAIM-tmpdsu37 (Proposed). In the form
+- **The error bound.** Proved, as [CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md) (Proposed). In the form
   asked for, ‖P_{Ṽ_{j+1}} − P_{V_{j+1}}‖ ≤ (d_j + f_j)/λ_k^{2^j}: the column
   residual the truncation leaves at level j, plus the drift f_j the earlier
   levels left in the compressed operator, over the smallest kept eigenvalue
@@ -491,8 +491,8 @@ The lead run of 2026-11-23 took up the first and third open questions above.
   T only near 10⁻² on the gapless circle, is the bound's Corollary 5: closure
   at the level's own time step needs no gap, closure under T needs a definite
   subspace.
-- **Non-reversible operators.** The biorthogonal report (LIT-tmpzikaq) is
-  Unfetched. Sevi, Rilling and Borgnat (NOTE-tmpv196v), who say they
+- **Non-reversible operators.** The biorthogonal report ([LIT-tmpzikaq](../literature.d/LIT-tmpzikaq.md)) is
+  Unfetched. Sevi, Rilling and Borgnat ([NOTE-tmpv196v](NOTE-tmpv196v.md)), who say they
   restate its scaling functions, build a nested chain for a directed walk
   by column selection and pseudo-inverse compression, and do not read the
   levels as bands. The bound extends to any T with ‖T‖₂ ≤ 1, with a row

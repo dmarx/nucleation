@@ -210,7 +210,7 @@ Bruna and Mallat ([LIT-2632](../literature.d/LIT-2632.md), [THEORY-1906](THEORY-
 Two of the limits under "What this does not say" are taken up by the lead
 run of 2026-11-23.
 
-- **Error bound.** CLAIM-tmpdsu37 (Proposed) proves one for the compressed
+- **Error bound.** [CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md) (Proposed) proves one for the compressed
   scheme with any truncation: the computed space at level j+1 is within
   (d_j + f_j)/λ_k^{2^j} of the spectral space of the same dimension, where d_j
   is the truncation's residual and f_j the drift of the compressed operator
@@ -219,7 +219,7 @@ run of 2026-11-23.
   truncation gives the spectral space. The bound uses this account's
   correction of the index: level j+1 is cut on T^{2^j}.
 - **Non-self-adjoint operators.** Sevi, Rilling and Borgnat
-  (THEORY-tmpyi9zg) build the directed chain by column selection and
+  ([THEORY-tmpyi9zg](THEORY-tmpyi9zg.md)) build the directed chain by column selection and
   pseudo-inverse compression, with T = Π^{1/2}PΠ^{−1/2}. It keeps the
   nesting, which part 2 shows needs no symmetry, and does not identify the
   levels with spectral spaces. The bound holds there too, with a row

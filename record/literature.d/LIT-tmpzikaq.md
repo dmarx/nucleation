@@ -1,7 +1,7 @@
 ---
 status: Unfetched
 status_note: >-
-  Unfetched on 2026-11-23 (ADR-053): OpenAlex lists a CiteSeerX copy,
+  Unfetched on 2026-11-23 ([ADR-053](../decisions.d/ADR-053.md)): OpenAlex lists a CiteSeerX copy,
   record 10.1.1.132.8408; both
   https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.132.8408 and
   https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=10.1.1.132.8408
@@ -11,7 +11,7 @@ status_note: >-
   and web.archive.org also reset the connection. None was retried. The
   SPIE copy is paywalled; Semantic Scholar marks it closed; Bremer's
   Toronto papers directory does not hold it. Sevi, Rilling and Borgnat
-  (2023), LIT-tmpyklac, which restates its scaling-function
+  (2023), [LIT-tmpyklac](LIT-tmpyklac.md), which restates its scaling-function
   construction, was read in its place.
 title: 'Biorthogonal diffusion wavelets for multiscale representations on manifolds and graphs'
 version: 2
@@ -52,7 +52,7 @@ summary: >-
   diffusion scaling functions and wavelets", which "yields more compact
   representations of the powers of the operator", and it "also applies
   to non self-adjoint semigroups". Unfetched; Sevi, Rilling and Borgnat
-  (2023), LIT-tmpyklac, was read in its place. What it proves is
+  (2023), [LIT-tmpyklac](LIT-tmpyklac.md), was read in its place. What it proves is
   unverified until read.
 ---
 
@@ -65,11 +65,11 @@ doi:10.1117/12.616909.
 
 ## Why this is here
 
-The reading of Coifman and Maggioni's diffusion wavelets (NOTE-984)
+The reading of Coifman and Maggioni's diffusion wavelets ([NOTE-984](../notes.d/NOTE-984.md))
 leaves open whether a non-reversible operator still gives a chain of
 levels, and names this report as the next reading. A lead asked for it
 to be read before a projection perturbation bound for the compressed
-chain was attempted (CLAIM-164).
+chain was attempted ([CLAIM-164](../claims.d/CLAIM-164.md)).
 
 The abstract, read on Duke's publication listing, says that the
 orthogonality of the original construction "has some advantages from the
@@ -82,7 +82,7 @@ beyond the abstract is unverified until read.
 
 ## Standing in the record
 
-Unfetched. Sevi, Rilling and Borgnat (2023), LIT-tmpyklac, stands in for
+Unfetched. Sevi, Rilling and Borgnat (2023), [LIT-tmpyklac](LIT-tmpyklac.md), stands in for
 it in part. Their §8.2 restates the construction of the scaling
 functions and says that in this report "biorthogonal wavelet transform
 is proposed but only the scaling functions are actually defined. Our
