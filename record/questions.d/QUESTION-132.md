@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp0885h
 title: 'Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-21'
@@ -46,6 +46,14 @@ history:
     (CASE-341); the recovery exponent at rarity under
     softmax-gradient routing (CLAIM-918); refill pre-empts
     recovery (CLAIM-919). The question is unchanged.
+- version: 8
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: Chesson (2011), the stand-in for Chesson
+    1990, read (NOTE-tmp6d961, THEORY-tmpac7iw). Stable coexistence is
+    recovery from low density; in the potential case the two-component
+    recovery test is Chesson's criterion (CLAIM-tmpv65bg). The question
+    is unchanged.
 tags:
 - complex-systems
 - ecology
@@ -67,6 +75,7 @@ summary: >-
   coexistence and exclusion. Heterogeneous embeddings, unequal routing
   weights or persistent expert identities do not answer it.
 ---
+<!-- inactive-ok-file: THEORY-tmpac7iw CLAIM-tmpv65bg — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
 <!-- inactive-ok-file: CASE-341 CLAIM-918 CLAIM-919 — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-885 CLAIM-886 CASE-322 — Proposed, filed 2026-11-22 by LEAD-049 and cited in the note of that date -->
 <!-- inactive-ok-file: CASE-313 CLAIM-875 — Proposed, filed 2026-11-22 by LEAD-065's study and cited in the note of that date -->
@@ -410,5 +419,41 @@ the rare one included.
 [CLAIM-875](../claims.d/CLAIM-875.md)'s two readings return here, now with a functional niche. The
 role is regenerated, but its particular holder is not kept. [CLAIM-919](../claims.d/CLAIM-919.md)
 files the same two readings for the owner.
+
+The question is unchanged and stays Open.
+
+## Note of 2026-11-22: Chesson read, through his own restatement
+
+The note of 2026-10-29 ends: "The first outcome's name still rests on no
+reading of Chesson." His 1990 paper, [LIT-1826](../literature.d/LIT-1826.md), is still Unfetched, and
+his 1994 paper, [LIT-1827](../literature.d/LIT-1827.md), still Unavailable; both were sought again on
+this date. His 2011 chapter, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md), which restates the 1990
+reworking of MacArthur's model, is read in full ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md),
+[THEORY-tmpac7iw](../theory.d/THEORY-tmpac7iw.md)). Three things bear here.
+
+- **The first outcome's test is Chesson's.** "[B]y stable coexistence, a
+  stable equilibrium is not implied. Instead, the requirement is recovery
+  of each species from low density, which is fully compatible with
+  fluctuating coexistence" (§2.2, p. 49). That is this question's λ_i > 0
+  against the resident regime, not equal weights and not a fixed point.
+  The words "stabilizing" and "equalizing" are not in the chapter; they
+  are Chesson (2000), [LIT-1219](../literature.d/LIT-1219.md), still Unavailable.
+- **In the potential case the test has a closed form for two
+  components.** MacArthur's model is [CLAIM-369](../claims.d/CLAIM-369.md)'s class, and a rare
+  component's growth against a lone resident is ‖u_i‖(κ_i − ρκ_j), with
+  ρ the cosine of the niche vectors and κ_i = r_i/‖u_i‖
+  ([CLAIM-tmpv65bg](../claims.d/CLAIM-tmpv65bg.md)). Both recover when rare exactly when
+  ρ < κ_i/κ_j < 1/ρ. So overlap alone does not decide the first outcome:
+  a component with a distinct niche, ρ small, can still be excluded by a
+  large enough fitness gap. That is [CASE-118](../cases.d/CASE-118.md)'s "feature geometry alone
+  does not fix coexistence", in Chesson's terms.
+- **Neutral is not the first outcome.** With ρ = 1 and equal κ, nothing
+  recovers from low density (p. 49). Identical operators sharing one niche
+  are in that state, which agrees with [CLAIM-885](../claims.d/CLAIM-885.md)'s finding that exactly
+  identical operators stay identical.
+
+The chapter's criterion is pairwise. With more than two operators, the
+earlier note's conditions stand: recovery at every −i community, and an
+acyclic invasion graph, which [THEORY-1168](../theory.d/THEORY-1168.md) gives in the potential case.
 
 The question is unchanged and stays Open.

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp2y4xi
 title: 'Beyond stable, differentiated authority, which one update rule can produce, can processes that share it come to hold mutually regulated authority with specialized niches, without any governance role being coded in, when some competences show only in rare contexts?'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-27'
@@ -39,6 +39,14 @@ history:
     Note of 2026-11-22 added: LEAD-016's reduced run of CASE-117
     (CASE-341, CLAIM-918, CLAIM-919). The question is
     unchanged.
+- version: 7
+  date: '2026-11-22'
+  note: >-
+    Note of 2026-11-22 added: Chesson (2011), the stand-in for Chesson
+    1990, read (NOTE-tmp6d961, THEORY-tmpac7iw); the two-component
+    criterion in the potential case (CLAIM-tmpv65bg); two readings of
+    whether the recommendation of 2026-10-18 is met. The question is
+    unchanged.
 tags:
 - self-governance
 - complex-systems
@@ -52,6 +60,7 @@ summary: >-
   model with no role primitives, and whether durable differentiated
   authority forms.
 ---
+<!-- inactive-ok-file: THEORY-tmpac7iw CLAIM-tmpv65bg — Proposed, filed by the lead run of 2026-11-22 and cited in the note of that date -->
 <!-- inactive-ok-file: CASE-341 CLAIM-918 CLAIM-919 — Proposed, filed 2026-11-22 by LEAD-016's study and cited in the note of that date -->
 <!-- inactive-ok-file: TERM-053 — Superseded by ADR-070 (conferral, TERM-103; grant, TERM-101); cited as the term of its time -->
 <!-- inactive-ok-file: LIT-1219 — Unavailable since 2026-10-29; cited as the reading the synthesis recommended, not reached, nothing here rests on it -->
@@ -241,3 +250,49 @@ demand that an answer show "more than" ordinary mixtures of experts.
 No rule tried revises its own routing standard. So "endogenous revision of
 roles and authority" was not tested. Mutual regulation was not tested
 either. The question is unchanged and stays Open.
+
+## Note of 2026-11-22: Chesson read, through his own restatement
+
+The notes of 2026-10-18 and 2026-10-29 record a recommendation, the
+synthesis's, that Chesson be read before any negative-frequency-dependence
+criterion here is given stronger standing. Of his works the record holds,
+the 1990 paper, [LIT-1826](../literature.d/LIT-1826.md), is still Unfetched and the 1994 paper,
+[LIT-1827](../literature.d/LIT-1827.md), and the 2000 review, [LIT-1219](../literature.d/LIT-1219.md), still Unavailable. His 2011
+chapter, [LIT-tmp7sngn](../literature.d/LIT-tmp7sngn.md), is read in full ([NOTE-tmp6d961](../notes.d/NOTE-tmp6d961.md), [THEORY-tmpac7iw](../theory.d/THEORY-tmpac7iw.md)).
+It restates the 1990 reworking of MacArthur's model, which is [CLAIM-369](../claims.d/CLAIM-369.md)'s
+class.
+
+What it gives this question:
+
+- **A criterion for two components in the potential case.** Negative
+  frequency dependence there is intraspecific competition exceeding
+  interspecific, which the chapter calls the separation of feedback
+  loops and measures by the overlap ρ. A rare component's growth against
+  a lone resident is ‖u_i‖(κ_i − ρκ_j), with ρ the cosine of the niche
+  vectors and κ_i = r_i/‖u_i‖ ([CLAIM-tmpv65bg](../claims.d/CLAIM-tmpv65bg.md)); both recover when rare
+  exactly when ρ < κ_i/κ_j < 1/ρ.
+- **Two sorts of similarity, kept apart.** "[S]imilarity in κ values is a
+  very different concept from similarity in way of life, or similarity
+  in niches" (p. 48). That is A46's "Equality of authority ≠ coexistence
+  through differentiated competence", in the note of 2026-10-18, on the
+  ecological side: specialized niches lower ρ, and how unequal the
+  operators' overall success can be is then bounded by ρ.
+- **Not for many operators.** The criterion is pairwise, and the chapter
+  only cites its generalization. The note of 2026-10-29's caution, that
+  Chesson's pairwise ρ does not by itself say whether a community of many
+  operators coexists, stands.
+
+Two readings of whether the recommendation is met. They would be filed
+differently, and the owner chooses.
+
+- **Reading A (the assistant's lean): met for two components in the
+  potential case, and only there.** A reading of Chesson's own account
+  of this model class is now on the record, and the criterion it gives
+  is derived and checked in the record's terms.
+- **Reading B: not met.** The note of 2026-10-18 names Chesson's 2000
+  review, [LIT-1219](../literature.d/LIT-1219.md), whose stabilizing and equalizing mechanisms are the
+  framework the recommendation had in mind, and it stays Unavailable. A
+  review chapter of 2011 standing in for a 1990 paper is not that
+  reading.
+
+The question is unchanged and stays Open.
