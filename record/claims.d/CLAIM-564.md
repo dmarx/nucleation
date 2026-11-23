@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp7pv9x
 title: 'Restricting the demand–configuration Galois connection to the configurations affordable at a budget gives implications among demands that are antitone in the budget: an implication valid at a budget is valid at every lower one, so as the budget rises the compatibility complex grows and the valid implications shrink, and a set of demands no affordable configuration meets implies every demand'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -25,6 +25,12 @@ history:
     status review's ruling (the owner delegated these rulings): Ignatov read
     in full (NOTE-1593), THEORY-1379 Active at the same review, and the
     enumeration rechecked. No status change.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note: the exchange 'Explain First Contact RL' (2026-11-22)
+    applies the claim to regulation, budget-relative implications among
+    public objectives. No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -66,6 +72,7 @@ summary: >-
   only at low budgets is a bundling forced by scarcity. The derivation is
   the reader's, from A's construction; adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpz67ew — Proposed or Open; filed in the filing of the exchange 'Explain First Contact RL' of 2026-11-22 and cited in its note -->
 
 # CLAIM-564: Restricting the demand–configuration Galois connection to the configurations affordable at a budget gives implications among demands that are antitone in the budget: an implication valid at a budget is valid at every lower one, so as the budget rises the compatibility complex grows and the valid implications shrink, and a set of demands no affordable configuration meets implies every demand
 
@@ -144,3 +151,21 @@ enumeration, agreeing with the reader and with the filer of [NOTE-1593](../notes
 ## Note of 2026-11-06: Claude, read
 
 Ignatov is now read in full ([NOTE-1593](../notes.d/NOTE-1593.md)), and [THEORY-1379](../theory.d/THEORY-1379.md), which corroborates this claim, is Active at the same review on the re-derivation of the Basic Theorem recorded there. The enumeration on [CASE-212](../cases.d/CASE-212.md) was rechecked independently and matches the table exactly, including that no implication holds with no budget (scratch/formal/fca_basic_theorem_check.py). The tutorial's attribute exploration (§7.1) is a standard use of the same monotonicity: an implication valid in a subcontext can only be refuted by adding objects. Point 1 is therefore a known property of formal contexts applied to budgets; the budget reading and the corollary in point 3 remain the reader's and the filer's. No status change.
+
+## Note of 2026-11-22: carried to regulation, in the exchange "Explain First Contact RL"
+
+A33 §2 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
+applies this claim to public regulation. "Under one technological regime,
+meeting a stringent emissions standard might always entail meeting a
+certain fuel-efficiency standard. Under a different regime, that
+implication might disappear." Because implications at a budget are
+antitone in the budget, an implication among public objectives that
+holds only at today's affordable configurations can be mistaken for a
+necessary relation between them: "a regulator can mistakenly treat a
+technological limitation as a necessary relationship between public
+objectives." A's conclusion is that regulation should "distinguish
+constraints that express public commitments from constraints that merely
+reflect current industrial capabilities". This is an application, and it
+is A's. The claim gives the mechanism, and the regulatory reading is
+interpretive. The owner's thesis it bears on is [CLAIM-tmpz67ew](CLAIM-tmpz67ew.md). No status
+change.

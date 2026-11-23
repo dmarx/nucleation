@@ -53,6 +53,7 @@ summary: >-
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
 ---
+<!-- inactive-ok-file: CLAIM-tmpqr0tn — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CASE-320 CLAIM-884 — new, filed 2026-11-22 from LEAD-167's computation -->
 <!-- inactive-ok-file: THEORY-1814 THEORY-1819 — Proposed, filed 2026-11-12 -->
 <!-- inactive-ok-file: QUESTION-290 — Answered; cited in the note of 2026-11-07 -->
@@ -277,3 +278,13 @@ interventions on the rest. The computation also shows its weakness
 before the cells hold the collective together at all.
 
 The question is unchanged and stays Open.
+
+## Note of 2026-11-22: a test by replacing one collaborator, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+A21 §5 proposed, for a team that keeps a governed record, to "replace one
+collaborator while retaining Luria" and see whether an organizational
+disposition persists beyond a particular participant, and to keep the
+collaborators while withdrawing the record. That is this question for one
+replacement at a time, with the record as a candidate for what must stay
+causally continuous ([CLAIM-tmpqr0tn](../claims.d/CLAIM-tmpqr0tn.md), Proposed). The design is
+[LEAD-tmph7m7s](../leads.d/LEAD-tmph7m7s.md). The question is unchanged.

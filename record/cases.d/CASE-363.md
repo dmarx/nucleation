@@ -48,6 +48,7 @@ summary: >-
   construction; the numbers are of this model. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
+<!-- inactive-ok-file: CASE-tmpw3vii — new; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: CASE-317 CLAIM-947 CLAIM-948 — Proposed or new; the study LEAD-081 filed today, and the claims this filing made -->
 
 # CASE-363: The coupled meaning–influence model built with two hypotheses and two specialists and reduced to its mean field: the symmetric state destabilizes when gσ² > 2(1 − φ(1 − ε)), whatever the conferral memory and the meaning rate; the reduced map is exactly a weighted-averaging opinion model with two stubborn sources whose weights relax toward an agreement kernel, equal to smooth bounded confidence on a balanced corpus; and it gives authority chosen by the initial interpretation and switched by the evidence with hysteresis, which fixed-weight and reflected-appraisal models cannot
@@ -95,3 +96,7 @@ That [CASE-092](CASE-092.md), reduced to its mean field with two specialists and
 - That no read predecessor uses an agreement kernel. Holme and Newman ([LIT-1128](../literature.d/LIT-1128.md)) and Ito and Kaneko ([LIT-1842](../literature.d/LIT-1842.md)) adapt structure by similarity, with different units and kernels; none was rebuilt here.
 - That the agent-level model has no behaviour the mean field lacks. Finite k and one frame per round add noise, which here only chose the direction of capture.
 - That the numbers bear on any organization. The model is the assistant's reading of [CASE-092](CASE-092.md), and its parameters are illustrative.
+
+## Note of 2026-11-23: a population of these readers
+
+[LEAD-190](../leads.d/LEAD-190.md) ran a population in which each operator is this model's reader and one of its specialists for the others ([CASE-tmpw3vii](CASE-tmpw3vii.md)). This model's code was loaded by path, not modified. A test checks that one reader with two sources is this model's mean field to 1e-12. In the population, with critics scored by agreement, the uniform mode loses stability at this case's threshold (gσ² > 2(1 − φ′)) less a term for the sources' own lean. The build is unchanged.

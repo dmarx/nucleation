@@ -65,6 +65,7 @@ summary: >-
   in flow there is nothing for will to do. It does not say flow is the
   best or the normal way to act as one.
 ---
+<!-- inactive-ok-file: CLAIM-tmpywoih ARG-tmpymz1j CLAIM-tmpmk036 CLAIM-tmpcsh5p — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-169 ARG-016 — Proposed; the premise and the open objection, cited as open -->
 <!-- inactive-ok-file: CLAIM-163 — Superseded; the objection as first filed, now ARG-016 -->
 <!-- inactive-ok-file: LIT-914 LIT-910 LIT-912 — Unavailable, unread; the flow literature, cited without a reading and named as the weakest footing -->
@@ -174,3 +175,20 @@ or reversal measure taken during a flow episode was found.
 filed (Khan and Dhar, [LIT-3113](../literature.d/LIT-3113.md); Schuhr, [LIT-3114](../literature.d/LIT-3114.md); Ge et al.,
 [LIT-916](../literature.d/LIT-916.md)) bear on bundling and on mindfulness, not on flow, and leave
 [CLAIM-169](CLAIM-169.md)'s hold as it was. No bearing beyond that; no status change.
+
+## Note of 2026-11-22: flow in collaborative inquiry, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+A20 related this conjecture to a governed record by two routes. On this
+claim's own (A20 §4, which A called "more speculative"), a record that makes
+the inquiry's longer-run structure consequential at the moment of
+contribution brings a contributor's immediate reward and the inquiry's
+longer-run value closer, a condition for flow, unless filing is tedious or
+the grammar distorts the idea: [CLAIM-tmpywoih](CLAIM-tmpywoih.md) (Proposed), argued by
+[ARG-tmpymz1j](../arguments.d/ARG-tmpymz1j.md) (Proposed, by analogy, with this claim's warrant and [ARG-016](../arguments.d/ARG-016.md)'s
+objection carried along). On the other, practical synchronization
+([TERM-061](../terms.d/TERM-061.md)), collaborators coordinate without agreeing: [CLAIM-tmpmk036](CLAIM-tmpmk036.md).
+A20 §7 kept the phenomenological limit: uninterrupted coordination does not
+show that anyone experiences flow. And A20's closing proposition says what
+this claim does not describe: flow-regulation, the capacity to enter,
+sustain, interrupt and recover fluent coordination ([CLAIM-tmpcsh5p](CLAIM-tmpcsh5p.md),
+Proposed). The claim is unchanged.

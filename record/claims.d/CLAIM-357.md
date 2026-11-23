@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpl8vsy
 title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility need not be the weights governance assigns'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-18'
@@ -65,6 +65,12 @@ history:
     governance assigns", and its body: "Whether they coincide is
     QUESTION-126." The question reads it as "governance-induced
     frustration seen from the weights". No other change.
+- version: 8
+  date: '2026-11-22'
+  note: >-
+    A dated note: an industrial reading of the three cases, with a looser
+    gloss of the third, from the exchange 'Explain First Contact RL'
+    (2026-11-22). No other change.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -110,6 +116,7 @@ summary: >-
 bears_on:
 - QUESTION-126
 ---
+<!-- inactive-ok-file: CLAIM-tmpx9nrj — Proposed or Open; filed in the filing of the exchange 'Explain First Contact RL' of 2026-11-22 and cited in its note -->
 <!-- inactive-ok-file: CASE-317, CLAIM-880, CLAIM-500 — Proposed or new; cited in the note of 2026-11-22 -->
 <!-- inactive-ok-file: THEORY-947 — Proposed; Kwon and Perchet's rates as the paper states them, cited in the note of 2026-10-25 for the target and distance, nothing here rests on it -->
 
@@ -309,3 +316,19 @@ The full reading ([NOTE-1599](../notes.d/NOTE-1599.md) v2) supports the use the 
 ## Note of 2026-11-22: the intervention this claim calls for, run in a model
 
 [CASE-317](../cases.d/CASE-317.md) makes the intervention this claim says identifying the governance-induced kind needs: it changes the allocation of influence with search and information held fixed, in [CASE-099](../cases.d/CASE-099.md)'s loop with declared demands. Realized violations fell from 0.95 to 0.05 of steps ([CLAIM-880](CLAIM-880.md)). The case also qualifies the diagnostics. Φ here is [CLAIM-365](CLAIM-365.md)'s local, one-step residual. Under a captured allocation, jointly infeasible demands showed Φ ≤ 0 on 87% of steps, so the local test reported as realized violation what is globally structural. No status changes.
+
+## Note of 2026-11-22: industrial reading, and its stochastic counterpart
+
+A31 §6 and A33 §7 of the exchange "Explain First Contact RL" (ChatGPT,
+2026-11-22) read the claim's three cases for an industrial ecosystem.
+Structural infeasibility: "no currently attainable industrial arrangement
+meets every demand". Realized violation: an outcome fails a demand.
+Governance suboptimality: the arrangement "performs worse than an
+available alternative under the declared objective". The responses
+differ: technological development or open reconsideration of priorities;
+better incentives, information or enforcement; improvement without any
+violation. A's gloss of the third case is looser than the claim, which
+compares the actual update's worst residual with the best achievable
+(minimax regret), not performance under an objective. [CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md)
+carries the split between possibility and realization from one update to
+a distribution over histories. No status change.

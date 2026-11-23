@@ -59,6 +59,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: THEORY-186 THEORY-201 LIT-267 CLAIM-119 — Proposed; cited as the accounts this derivation meets, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmp6ksyy CASE-344 — Proposed; the account that reads this claim, and its corpus test, named in the note of 2026-11-22 -->
 
 # CLAIM-902: Under multiplicative co-occurrence with any implication structure among binary attributes and positive strengths, every attribute is an exact linear readout of the full-rank PMI embedding; on a balanced tree the PMI eigenvectors are branch contrasts whose eigenvalues fall strictly with depth, so a truncated embedding keeps exactly the shallow attributes and merges siblings below the cut
 
@@ -163,3 +164,16 @@ cut. derivation_check.txt holds one run.
 - That a direction exists for each attribute in the sense of one
   eigenvector per attribute. The readout is exact, but the eigenvectors
   are contrasts.
+
+## Note of 2026-11-22: read as resource-relative individuation, in the exchange "Explain First Contact RL"
+
+A parallel, and a fair report. A29 of the exchange (ChatGPT, after the
+owner's U15) stated this claim correctly, full-rank embeddings reading
+every attribute exactly under implication and truncation merging deeper
+siblings, and reported [CASE-344](../cases.d/CASE-344.md) correctly as not showing the predicted
+loss by WordNet depth. It read the truncation as "an elegant model of
+resource-relative perspectival individuation": rank is a budget on the
+readout family, and raising it refines the partition of words into
+indistinguishable groups, as [CLAIM-574](CLAIM-574.md)'s nested probe families do. The
+mapping is A's, filed in [CLAIM-tmp6ksyy](CLAIM-tmp6ksyy.md) (Proposed); this note writes no
+relation, since CLAIM-902 is an illustration there, not a premise.
