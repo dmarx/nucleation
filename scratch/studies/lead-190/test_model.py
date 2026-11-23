@@ -98,9 +98,10 @@ def test_threshold_closed_form_matches_eigenvalues():
 
 @pytest.mark.parametrize("agg", ["one-hop", "recursive", "loo"])
 @pytest.mark.parametrize("obj", ["policy", "authority"])
-def test_grad_matches_finite_differences(agg, obj):
+@pytest.mark.parametrize("cost", ["linear", "quadratic"])
+def test_grad_matches_finite_differences(agg, obj, cost):
     pop = M.population(N=7, seed=5)
-    P = M.params(agg=agg, objective=obj, eta=0.6, lam=0.01)
+    P = M.params(agg=agg, objective=obj, eta=0.6, lam=0.01, cost=cost)
     rng = np.random.default_rng(6)
     E = rng.uniform(0, 1, (7, 7))
     np.fill_diagonal(E, 0)
@@ -176,3 +177,15 @@ def test_one_hop_policy_gradient_sign_is_claim375():
             if i != j:
                 expect = np.sign((pop["pref"][i] - pstar) * (pop["pref"][j] - pstar))
                 assert np.sign(G[i, j]) == expect
+
+
+def test_bound_operators_delegate_within_side_in_a_small_game():
+    """Smoke test of the game: bound operators delegate, to their own side."""
+    pop = M.population(N=10, seed=13)
+    P = M.params(agg="one-hop", objective="policy")
+    _, Ea, conv = M.run_game(pop, P, T=600, seed=0)
+    gm = M.grant_measures(Ea, pop)
+    assert gm["mass"] > 0.5 and gm["aligned_share"] > 0.9 and conv < 1e-3
+    P = M.params(agg="one-hop", objective="authority")
+    _, Ea, _ = M.run_game(pop, P, T=600, seed=0)
+    assert M.grant_measures(Ea, pop)["mass"] < 1e-3  # decays at rate 2 lam lr

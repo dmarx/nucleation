@@ -38,8 +38,10 @@ Decision layer (CLAIM-282, CLAIM-375, CLAIM-502):
         loo       g_k = [(1 - eta)(I - eta E_(-k)^T)^-1 bud]_k,
                   E_(-k) = E with row k zeroed (CLAIM-502)
   * decision p* = sum_j g_j p_j / sum_j g_j.
-  * objectives: 'policy'    J_i = -(p* - p_i)^2 - lam sum_j E_ij
-                'authority' J_i = log g_i     - lam sum_j E_ij
+  * objectives: 'policy'    J_i = -(p* - p_i)^2 - Cost(E_i)
+                'authority' J_i = log g_i     - Cost(E_i)
+    Cost = lam sum_j E_ij^2 ('quadratic', default) or lam sum_j E_ij
+    ('linear'; the game then cycles, and measures use time averages).
   * operators move their grant rows by projected gradient ascent on J_i
     (simultaneous, exact gradients).
 
@@ -78,10 +80,11 @@ SCHEMES = ("scalar-agree", "scalar-comp", "scalar-policy", "role", "role-agree")
 
 # ------------------------------------------------------------ population
 def population(N=20, seed=0, pref_lo=0.3, r_lo=0.4, r_hi=0.9):
-    """Half on each side; preferences s_i * U(pref_lo, 1); relevance
-    U(r_lo, r_hi), independent of side."""
+    """Half on each side, in random order (so no index structure aligns with
+    side); preferences s_i * U(pref_lo, 1); relevance U(r_lo, r_hi),
+    independent of side."""
     rng = np.random.default_rng(seed)
-    s = np.where(np.arange(N) < N // 2, 1.0, -1.0)
+    s = rng.permutation(np.where(np.arange(N) < N // 2, 1.0, -1.0))
     pref = s * rng.uniform(pref_lo, 1.0, N)
     r = rng.uniform(r_lo, r_hi, N)
     return dict(N=N, s=s, pref=pref, r=r)
@@ -89,8 +92,8 @@ def population(N=20, seed=0, pref_lo=0.3, r_lo=0.4, r_hi=0.9):
 
 def params(**kw):
     p = dict(rho=0.2, sigma=0.4, phi=0.3, phi_s=0.0, eps=0.2, b=0.0, g=12.0,
-             delta=0.9, k=50, zeta=1.0, eta=0.5, lam=0.005, lr=2.0,
-             agg="one-hop", objective="policy")
+             delta=0.9, k=50, zeta=0.0, eta=0.5, lam=0.02, lr=0.5,
+             agg="one-hop", objective="policy", cost="quadratic")
     p.update(kw)
     assert abs(p["b"]) + p["sigma"] + p["phi"] + p["phi_s"] <= 1 + 1e-12
     return p
@@ -238,7 +241,10 @@ def _loo_parts(E, P, bud):
 def objective(E, pref, P, bud=None):
     g = authority(E, P, bud)
     pstar = g @ pref / g.sum()
-    cost = P["lam"] * E.sum(axis=1)
+    if P.get("cost", "linear") == "linear":
+        cost = P["lam"] * E.sum(axis=1)
+    else:
+        cost = P["lam"] * (E ** 2).sum(axis=1)
     if P["objective"] == "policy":
         return -(pstar - pref) ** 2 - cost
     return np.log(g) - cost
@@ -276,7 +282,10 @@ def grad(E, pref, P, bud=None):
             G_ = eta * Mt.copy()                 # d log g_i / dE_ij = eta M[i, j]
         else:
             G_ = np.zeros((N, N))
-    G_ = G_ - P["lam"]
+    if P.get("cost", "linear") == "linear":
+        G_ = G_ - P["lam"]
+    else:
+        G_ = G_ - 2 * P["lam"] * E
     np.fill_diagonal(G_, 0.0)
     return G_
 
@@ -379,7 +388,10 @@ def meaning_measures(m, W, E, pop, P):
     pstar = float(g @ pop["pref"] / g.sum())
     loss = float(((pstar - pop["pref"]) ** 2).mean())
     sign_ok = float((np.sign(m) == np.sign(P["b"])).mean()) if P["b"] != 0 else np.nan
-    return dict(gap=gap, corr_m_side=corr, critic_cross=crit_cross,
+    a = W @ s                      # net side of each operator's reading
+    return dict(gap=gap, corr_m_side=corr, spread=float(m.std()),
+                onesided=float(np.abs(a).mean()), own_side_reading=float((a * s).mean()),
+                critic_cross=crit_cross,
                 critic_cross_chance=float(opp[0].mean()),
                 decision_cross=dec_cross, critic_opp_corr_relevance=corr_r,
                 pstar=pstar, policy_loss=loss, fidelity=sign_ok,
@@ -399,7 +411,7 @@ def run_scheme(scheme, pop, P, T=600, m0=None, stochastic=False, seed=0,
     rng = np.random.default_rng(seed)
     m = np.zeros(N) if m0 is None else np.array(m0, float)
     W = full_W(N)
-    E = (0.5 * uniform_W(N)) if E0 is None else E0.copy()
+    E = random_E0(N, rng) if E0 is None else E0.copy()
     if scheme in ("scalar-agree", "scalar-comp"):
         E = E_from_W(W)
     PE = dict(P, agg="one-hop", objective="policy")
@@ -424,10 +436,27 @@ def run_scheme(scheme, pop, P, T=600, m0=None, stochastic=False, seed=0,
     return m, W, E
 
 
-def run_game(pop, P, T=400, E0=None):
-    """The decision-grant game alone (CLAIM-285's comparison)."""
+def random_E0(N, rng, mass=0.5, jitter=0.2):
+    """Grants spread nearly evenly, with a small random jitter so that no
+    tie is broken by index."""
+    E = mass * uniform_W(N) * (1 + jitter * rng.uniform(-1, 1, (N, N)))
+    np.fill_diagonal(E, 0.0)
+    return project_rows(E)
+
+
+def run_game(pop, P, T=2000, E0=None, seed=0):
+    """The decision-grant game alone (CLAIM-285's comparison). Returns the
+    final grants, their average over the second half of the run, and the
+    largest change of the second-half average between its two quarters
+    (a convergence check)."""
     N = pop["N"]
-    E = (0.5 * uniform_W(N)) if E0 is None else E0.copy()
-    for _ in range(T):
+    rng = np.random.default_rng(seed)
+    E = random_E0(N, rng) if E0 is None else E0.copy()
+    acc = [np.zeros((N, N)), np.zeros((N, N))]
+    for t in range(T):
         E = grant_step(E, pop["pref"], P)
-    return E
+        if t >= T // 2:
+            acc[0 if t < 3 * T // 4 else 1] += E
+    q = T - 3 * T // 4
+    a0, a1 = acc[0] / (3 * T // 4 - T // 2), acc[1] / q
+    return E, (a0 + a1) / 2, float(abs(a0 - a1).max())
