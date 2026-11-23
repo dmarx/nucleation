@@ -94,3 +94,12 @@ coordinates fixed in advance.
 - That the network and the optimizer are one thing. The function belongs
   to the network; how parameter coordinates are scaled against step sizes
   belongs to neither alone.
+
+## Note of 2026-11-23: Lippl and Lindsey, read
+<!-- inactive-ok-file: CLAIM-tmp7n00e CLAIM-tmpew899 THEORY-tmpw69kb — Proposed or new; filed by the lead run of 2026-11-23 -->
+
+Its identity applies exactly to Lippl and Lindsey's technique of
+rescaling the weights after pretraining ([THEORY-tmpw69kb](../theory.d/THEORY-tmpw69kb.md); [NOTE-tmpw2i45](../notes.d/NOTE-tmpw2i45.md)),
+which they present as part of fine-tuning. [CLAIM-tmpew899](CLAIM-tmpew899.md) rests on it to
+read the case of [CLAIM-tmp7n00e](CLAIM-tmp7n00e.md) as one learner under two procedures. No
+status change.
