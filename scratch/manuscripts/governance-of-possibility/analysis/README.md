@@ -86,6 +86,13 @@ Choices that change the results are made openly. The staged path is slower
 The review uses the same capacity as transitions. All rates and costs are
 invented.
 
+## Run of record
+
+`results.json` and `results.md` were produced on 2026-11-23 by `python3 -I
+study.py` with the code as committed in 28a3708c1, and re-run by the
+coordinator before committing: the outputs reproduced exactly except
+`runtime_s`. The tests (`test_model.py`, 21; `test_speed_noise.py`, 3) pass.
+
 ## What it establishes (within the model)
 
 1. **Present output is matched and future capacity is not.** Every regime
@@ -129,7 +136,8 @@ invented.
      slower route, so on these assumptions redesign without a reserve is worse
      than no redesign.
    - On long-run cost (p = 0.02, L = 50, c = 0.1):
-     - τ = 2: I is cheapest, since nothing is in time.
+     - τ = 2: I is cheapest: little is in time under any regime (R_II(2) = 0.237,
+       R_I(2) = 0.025), and the reserve costs more than the lateness it saves.
      - τ = 3 to 8: II is cheapest.
      - τ = 12 and 20: III-b and IV are cheapest. Before any redesign cost they
        save 0.081 and 0.100 a period against II, which bounds the amortized
@@ -157,8 +165,8 @@ invented.
    - Under the peak rule (I and III-a) a review that needs capacity can never
      start, so the demand is excised by default, not by choice.
    - A reserve can be used for other things and a redesign cannot. II's
-     reserve of 3 covers C's threshold of 2.5 (harm about 6 periods). III-b's
-     and IV's reserve of 2 does not, so they depend on outside money (harm
+     budget of 3 (a reserve of 2 above holding) covers C's threshold of 2.5 (harm about 6 periods). III-b's
+     and IV's budget of 2 (a reserve of 1) does not, so they depend on outside money (harm
      about 15 periods, and harm without end when g = 0).
    - CLAIM-361 is about removing a demand that was in the specification. The
      harm here was never in D0, so "excising" it means never entering it:
