@@ -26,6 +26,7 @@ summary: >-
   coverage against delivered success ([CLAIM-697](../claims.d/CLAIM-697.md)).
 ---
 <!-- inactive-ok-file: CLAIM-519 CLAIM-697 CLAIM-754 TERM-079 TERM-131 THEORY-1737 THEORY-438 — Proposed; cited in this filing of 2026-11-19 -->
+<!-- inactive-ok-file: CASE-tmpk3qls CASE-tmpr1f20 CASE-tmpcz1jq CASE-tmpp2okq CASE-tmppqt0f CASE-tmphawe9 CLAIM-tmpngm72 CLAIM-tmpeonjp CLAIM-tmp5qk10 CLAIM-tmpgfunb CLAIM-tmpf4pun CLAIM-tmpadjsm CLAIM-tmphm1g8 — Proposed; filed by the lead run of 2026-11-23 -->
 
 # QUESTION-493: What does it take for a learning system to know something, as distinct from storing the information, believing it, or producing the right answer, and where in a system that samples, adapts at test time, uses a verifier or calls a tool does the knowing sit?
 
@@ -90,3 +91,31 @@ ChatGPT (A84) ranks this question foundational and the first to pursue, as "what
 
 ## Note of 2026-11-19: Brown and colleagues, read
 Background ([NOTE-2160](../notes.d/NOTE-2160.md)): Brown and colleagues read closed-book answers as knowledge absorbed in the parameters and few-shot gains on those tasks as adapting to format, so zero-shot performance understates what the system has: possession apart from accessibility, an analogy for the question's distinction, not evidence.
+
+## Note of 2026-11-23: cases that separate the four things, and understanding
+
+LEAD-001 filed nine cases and their verdicts against A73's candidate
+answer. CLAIM-tmpngm72 collects eight separations among stored
+information, belief, correct output, knowledge and understanding. The
+candidate holds on every case, with two findings:
+
+- **Reliability over a family as declared is not enough.** A classifier
+  reading a watermark (CASE-tmpr1f20) and a model whose stale source was
+  made true again by a reappointment (CASE-tmpcz1jq) are reliable there
+  and do not know. A73's grounding criterion, and its second and third
+  tests, catch both. Whether grounding is then a further condition or
+  reliability over a family closed under interventions on the truthmaker
+  is filed as alternatives: CLAIM-tmpeonjp (the assistant's lean) and
+  CLAIM-tmp5qk10.
+- **Possession and where it sits.** A fact a probe decodes and the model
+  never uses (CASE-tmpk3qls) is stored, not known; one the model uses
+  under one cue (CASE-tmpp2okq) is known relative to the declared
+  procedures and budget (CLAIM-tmpgfunb). A generator filtered by an exact
+  verifier (CASE-tmppqt0f) knows as a composite under a budget, and
+  neither part does (CLAIM-tmphm1g8).
+
+A84's question whether understanding "necessarily entails greater future
+learnability" turns on a frozen exact rule (CASE-tmphawe9): on
+CLAIM-tmpf4pun (the assistant's lean, understanding as stable tracking,
+THEORY-438) no; on CLAIM-tmpadjsm (understanding as developmental value,
+A73) yes. On every learner the two agree. No status change.
