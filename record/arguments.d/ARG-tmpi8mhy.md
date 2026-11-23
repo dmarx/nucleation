@@ -16,13 +16,13 @@ line:
 - learned-structure
 - realizability
 summary: >-
-  Filed by the lead run of 2026-11-23. CLAIM-tmpy87xn gives four
+  Filed by the lead run of 2026-11-23. [CLAIM-tmpy87xn](../claims.d/CLAIM-tmpy87xn.md) gives four
   sufficient conditions for a scalar optimum of learning. Three stipulated
   learners each keep all but one and have no optimum, so the dropped
   condition does not follow from the others: the two-self and three-self
-  constructions for one valuation (CLAIM-tmp6ppvo), the
+  constructions for one valuation ([CLAIM-tmp6ppvo](../claims.d/CLAIM-tmp6ppvo.md)), the
   invest-then-exploit learner for a finite value and for attainment
-  (CLAIM-tmpl9022). The wording is the assistant's (Claude, in this
+  ([CLAIM-tmpl9022](../claims.d/CLAIM-tmpl9022.md)). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-tmpy87xn CLAIM-tmp6ppvo CLAIM-tmpl9022 — new; filed by the lead run of 2026-11-23 -->
@@ -31,18 +31,18 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpy87xn lists four conditions: a declared task law, one valuation, a
+[CLAIM-tmpy87xn](../claims.d/CLAIM-tmpy87xn.md) lists four conditions: a declared task law, one valuation, a
 finite value and attainment. A condition is not implied by the others if
 some coherent learner meets the others and lacks a scalar optimum. Three
 stipulated learners do this.
 
-- **Two selves and three selves** (CLAIM-tmp6ppvo). Finitely many policies
+- **Two selves and three selves** ([CLAIM-tmp6ppvo](../claims.d/CLAIM-tmp6ppvo.md)). Finitely many policies
   and outcomes, a fixed and declared result for each policy, every value
   finite, every self's utility bounded. What fails is the one valuation:
   each policy is valued by the self it produces. No rule fixed by those
   valuations alone picks one best policy, since each construction is
   symmetric under relabelling policies and selves together.
-- **Invest, then exploit** (CLAIM-tmpl9022). A declared and deterministic
+- **Invest, then exploit** ([CLAIM-tmpl9022](../claims.d/CLAIM-tmpl9022.md)). A declared and deterministic
   task law, one valuation (discounted payoff), countably many policies,
   every value finite. What fails is attainment, with the supremum infinite
   when γg > 1, and in the bounded version, with the supremum finite and
@@ -60,7 +60,7 @@ stipulated learners do this.
   holds and attainment fails, so it separates attainment from the rest;
   the bounded version separates attainment from a finite supremum as well.
   It does not separate a finite value for every policy from the rest. That
-  separation comes from the remark in CLAIM-tmpl9022 that, without the
+  separation comes from the remark in [CLAIM-tmpl9022](../claims.d/CLAIM-tmpl9022.md) that, without the
   commitment, an alternating policy has infinite value when γ²g ≥ 1, which
   keeps the other conditions.
 - **Are the cases ones of learning that changes what can later be learned?**

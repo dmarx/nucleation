@@ -25,15 +25,15 @@ bears_on:
 summary: >-
   Filed by the lead run of 2026-11-23, on the reading of the lead in which
   what is learned changes what can later be learned, and so what later
-  work can earn. With everything CLAIM-754 asks for declared (a task law,
+  work can earn. With everything [CLAIM-754](CLAIM-754.md) asks for declared (a task law,
   costs, an infinite horizon with discount γ, a valuation), a learner whose
   every period of investment multiplies its later payoff rate by g, with
   γ·g > 1, has no optimal policy: investing n periods and then exploiting
   is worth (γg)ⁿ·r/(1 − γ), which grows with n, and never exploiting is
   worth 0. A bounded version, the one exam that can be sat at any time,
   has a finite supremum no policy reaches. A finite horizon restores an
-  optimum, which can lie late. This is CLAIM-tmpy87xn's third and fourth
-  conditions failing, and QUESTION-495's choice between investing in
+  optimum, which can lie late. This is [CLAIM-tmpy87xn](CLAIM-tmpy87xn.md)'s third and fourth
+  conditions failing, and [QUESTION-495](../questions.d/QUESTION-495.md)'s choice between investing in
   learnability and present competence, in the regime where investing always
   wins and so never pays. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
@@ -49,7 +49,7 @@ In each period a learner either invests, earning nothing, or exploits,
 earning its current rate. Each period of investment multiplies the rate
 by g > 1, starting from r > 0. Exploiting commits: once the learner turns
 to use what it holds it consolidates and stops acquiring, the pattern
-CLAIM-758 calls overconsolidation, here taken as a stipulation. The policies
+[CLAIM-758](CLAIM-758.md) calls overconsolidation, here taken as a stipulation. The policies
 are then π_n, invest n periods and then exploit for ever, and π_∞, never
 exploit. Returns are discounted by γ < 1 over an infinite horizon.
 
@@ -84,16 +84,16 @@ worse, not better.
 
 ## So
 
-CLAIM-754 says a scalar can rank learning processes once a task
+[CLAIM-754](CLAIM-754.md) says a scalar can rank learning processes once a task
 distribution, costs, horizon and evaluative preferences are declared. Here
 all four are declared and no policy is best. What a scalar optimum needs
 in addition is that the horizon or the discount bound the growth of what
-learning makes attainable: CLAIM-tmpy87xn's third and fourth conditions.
+learning makes attainable: [CLAIM-tmpy87xn](CLAIM-tmpy87xn.md)'s third and fourth conditions.
 The failure is specific to learning that changes what can later be
 learned: a learner whose investments did not raise later returns would
 face γ·1 < 1 and an optimum at once.
 
-For QUESTION-495's narrower question, when investing in future learnability
+For [QUESTION-495](../questions.d/QUESTION-495.md)'s narrower question, when investing in future learnability
 is better than improving present competence, the construction answers in
 the crudest case. Investing is better exactly when γg > 1, and then it is
 always better, so the question "how much" has no answer without a
@@ -107,8 +107,8 @@ deadline, a cost of delay, or a ceiling on g.
 - That the right response is to stop at some arbitrary n. An ε-optimal
   policy exists for every ε under the bounded version; under γg > 1 not even
   that.
-- Anything against CLAIM-756, which shows that a loss-making acquisition can
+- Anything against [CLAIM-756](CLAIM-756.md), which shows that a loss-making acquisition can
   belong to the best policy; here there is no best policy.
 
-ARG-tmpi8mhy carries the inference from this construction to the claim that
-CLAIM-tmpy87xn's third and fourth conditions are not implied by the others.
+[ARG-tmpi8mhy](../arguments.d/ARG-tmpi8mhy.md) carries the inference from this construction to the claim that
+[CLAIM-tmpy87xn](CLAIM-tmpy87xn.md)'s third and fourth conditions are not implied by the others.

@@ -192,12 +192,12 @@ The lead run of 2026-11-23 qualifies this claim's last clause, that a
 scalar ranks learning processes once a task distribution, costs, horizon
 and evaluative preferences are declared. A fixed task distribution is more
 than is needed: a declared law that depends on what has been learned
-suffices (CLAIM-tmpy87xn). The list is less than enough: with all four
+suffices ([CLAIM-tmpy87xn](CLAIM-tmpy87xn.md)). The list is less than enough: with all four
 declared, a learner whose learnability outgrows the discount has no
-optimal policy (CLAIM-tmpl9022), so a finite value and attainment must be
+optimal policy ([CLAIM-tmpl9022](CLAIM-tmpl9022.md)), so a finite value and attainment must be
 added. And "evaluative preferences" must be one valuation across the
 selves a policy could produce; when learning changes them, the
-preferences of those selves fix no scalar (CLAIM-tmp6ppvo). The claim's
+preferences of those selves fix no scalar ([CLAIM-tmp6ppvo](CLAIM-tmp6ppvo.md)). The claim's
 thesis, that the three frontiers move separately, is untouched. Related
 by complements; whether the qualification should be an objection is the
 owner's call.

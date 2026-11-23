@@ -27,15 +27,15 @@ bears_on:
 - QUESTION-495
 summary: >-
   Filed by the lead run of 2026-11-23, for the lead asking which
-  assumptions a scalar optimum of learning needs. CLAIM-754 says a
+  assumptions a scalar optimum of learning needs. [CLAIM-754](CLAIM-754.md) says a
   scalar ranks learning processes once a task distribution, costs, horizon
   and preferences are declared; this states the conditions exactly and
   shows that one of them is more than is needed and the list less than
   enough. A fixed task distribution is not needed: a declared law that
   depends on what has been learned is a Markov decision process over the
   learner's organization, and backward induction gives an optimum. What
-  can fail is the valuation (CLAIM-tmp6ppvo) and the finiteness and
-  attainment of the best value (CLAIM-tmpl9022). The existence theorems
+  can fail is the valuation ([CLAIM-tmp6ppvo](CLAIM-tmp6ppvo.md)) and the finiteness and
+  attainment of the best value ([CLAIM-tmpl9022](CLAIM-tmpl9022.md)). The existence theorems
   are standard; the claim's own content is placing learning's effect on
   later tasks inside them. The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
@@ -48,7 +48,7 @@ summary: >-
 ## The claim
 
 A learner holds an organization M_t, what it has learned so far in the
-sense of TERM-131. In each period it chooses an action a_t, an
+sense of [TERM-131](../terms.d/TERM-131.md). In each period it chooses an action a_t, an
 acquisition or a use of what it holds, at a resource cost c_t; it meets a
 task τ_t; it earns r_t. A learning policy π maps the learner's history to
 its actions. A policy's value is the expected valuation of the trajectory
@@ -65,7 +65,7 @@ admissible π, and it is a well-defined scalar optimum when:
    every policy compared, and not indexed by the organization a policy
    produces. Costs and returns sit on its scale; where they are several
    resources with no declared exchange, a Pareto frontier is the most there
-   is (CLAIM-585's case for thresholds). For a comparison of risky policies
+   is ([CLAIM-585](CLAIM-585.md)'s case for thresholds). For a comparison of risky policies
    U must be cardinal, as in expected utility.
 3. **A finite value.** A finite horizon with bounded returns per period; or
    an infinite horizon with γ < 1 and returns bounded, or growing by a
@@ -99,26 +99,26 @@ the chance that the next task is hard (0.1, 0.5, 0.8), and each
 acquisition costs a period. Over a horizon of 6, backward induction gives
 12.3 from the novice state, and enumerating all 4096 deterministic Markov
 policies finds the same value attained: learn twice, then work. Each
-acquisition is a loss on its own, as in CLAIM-756.
+acquisition is a loss on its own, as in [CLAIM-756](CLAIM-756.md).
 
 ## Which conditions fail when learning changes what can later be learned
 
 - **Condition 1** fails when the learner cannot declare how its learning
-  will change what it meets: QUESTION-495's benefits that "cannot be
+  will change what it meets: [QUESTION-495](../questions.d/QUESTION-495.md)'s benefits that "cannot be
   specified in advance". A declared set of laws restores a scalar, the
   worst case over the set, but counts nothing outside the set.
 - **Condition 2** fails when what is learned changes what is valued.
-  CLAIM-tmp6ppvo shows that no scalar is then fixed by the valuations
+  [CLAIM-tmp6ppvo](CLAIM-tmp6ppvo.md) shows that no scalar is then fixed by the valuations
   alone.
 - **Conditions 3 and 4** fail when learnability grows faster than
-  discounting shrinks it. CLAIM-tmpl9022 shows that no policy is then
-  optimal, with all four of CLAIM-754's items declared.
+  discounting shrinks it. [CLAIM-tmpl9022](CLAIM-tmpl9022.md) shows that no policy is then
+  optimal, with all four of [CLAIM-754](CLAIM-754.md)'s items declared.
 - **Condition 2, as incompleteness**, fails when there are several
-  criteria and no declared weights. CLAIM-754's three frontiers are such a
+  criteria and no declared weights. [CLAIM-754](CLAIM-754.md)'s three frontiers are such a
   case, and its point that no context-free scalar ranks learners is this
   failure.
 
-ARG-tmpi8mhy carries the constructions that show conditions 2 to 4 are not
+[ARG-tmpi8mhy](../arguments.d/ARG-tmpi8mhy.md) carries the constructions that show conditions 2 to 4 are not
 implied by the others.
 
 ## What it does not say
@@ -129,6 +129,6 @@ implied by the others.
   the optimum.
 - That a declared optimum is the right one. Declaring the law, the
   valuation and the horizon is a commitment the mathematics does not
-  select, as CLAIM-tmphjm0q says of regulation.
+  select, as [CLAIM-tmphjm0q](CLAIM-tmphjm0q.md) says of regulation.
 - Anything about how to find the optimum, which for a learner's real
   organization is intractable.
