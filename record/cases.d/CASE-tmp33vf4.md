@@ -113,3 +113,25 @@ true positions, which no arm sees. Late is the last 1,000 of 3,000 steps.
   network that chose its own beacon positions was not run, so "interventions
   the system did not choose" is met by construction and not tested against
   its contrary.
+
+<!-- inactive-ok-file: CLAIM-tmp4h9rc CLAIM-tmpw11e6 ARG-tmp0b5z8 — Proposed; filed 2026-11-23 -->
+
+## Note of 2026-11-23: a protected but miscalibrated beacon
+
+An arm this study did not run, added at the owner's proposal that
+self-correction depends on what a system cannot rewrite or reject
+([CLAIM-tmp4h9rc](../claims.d/CLAIM-tmp4h9rc.md)). `network.py` gains two options, off by default; the
+committed arms reproduce exactly (checked on 25 runs, and by a test).
+`study_beacon_bias.py` ran 40 seeds (`results/beacon_bias_summary.md`).
+
+| cell | late error | radius |
+|---|---|---|
+| anchored | 0.044 | 0.114 |
+| anchored, beacon miscalibrated (by 0.361) | 0.360 | 0.114 |
+| the same, surveyed every 100 steps | 0.122 | 0.114 |
+| the same, surveyed every 500 steps | 0.293 | 0.114 |
+
+A protected beacon's own error passes whole into the network, which stays
+as consistent as before. A rarer protected survey of the beacon reduces
+the error, at its own rate. [CLAIM-tmpw11e6](../claims.d/CLAIM-tmpw11e6.md) states the result, with
+[ARG-tmp0b5z8](../arguments.d/ARG-tmp0b5z8.md).

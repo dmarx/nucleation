@@ -23,6 +23,16 @@ Arms, by what the revision G may not rewrite:
               when it agrees with its current maps (residual below a
               threshold): the scoring passes through the interpretation.
 
+Two options, off by default, for the anchored arm (added 2026-11-23):
+
+  beacon_bias  the protected channel reports the beacon at z* + delta, a
+               fixed miscalibration, which G can neither rewrite nor refuse;
+  survey_every every that many steps a survey, a rarer protected event,
+               places a point and reads it through the beacon channel too,
+               and a separate, slower revision (eta_survey) estimates the
+               beacon's bias from it, which is subtracted from later beacon
+               reports. It is an anchor for the anchor.
+
 Measured on the target's true positions, which the apparatus never sees:
 fusion error |zhat - z|, and its own consistency radius.
 """
@@ -55,13 +65,17 @@ def residuals(A, b, o, z):
 def run(arm: str, seed: int, T: int = 3000, t_jump: int = 500, n: int = 4,
         noise: float = 0.05, drift: float = 0.004, jump=(1.0, -0.6),
         jump_rot: float = math.radians(20), K: int = 10, eta: float = 0.02,
-        eta_anchor: float = 0.2, admit_thr: float = 0.3) -> dict:
+        eta_anchor: float = 0.2, admit_thr: float = 0.3,
+        beacon_bias=(0.0, 0.0), survey_every: int = 0,
+        eta_survey: float = 0.05) -> dict:
     rng = np.random.default_rng(seed)
     A = [rot(rng.uniform(-0.3, 0.3)) * rng.uniform(0.8, 1.2) for _ in range(n)]
     b = [rng.normal(0, 0.5, 2) for _ in range(n)]
     Ah = [a.copy() for a in A]
     bh = [v.copy() for v in b]
     AB, bB = np.eye(2), np.zeros(2)          # the beacon channel's map (writable arm)
+    delta = np.asarray(beacon_bias, float)
+    bias_hat = np.zeros(2)                   # the survey's estimate of delta
     z = np.zeros(2)
     err, rad, admitted, offered = [], [], 0, 0
     for t in range(T):
@@ -82,7 +96,15 @@ def run(arm: str, seed: int, T: int = 3000, t_jump: int = 500, n: int = 4,
             for i in range(n):
                 Ah[i] = Ah[i] + eta * np.outer(r[i], zh)
                 bh[i] = bh[i] + eta * r[i]
-        elif arm in ("anchored", "writable", "admitted") and t % K == 0:
+        if survey_every and arm == "anchored" and t % survey_every == 0 and t:
+            # the survey: a separate protected channel, used only to estimate
+            # the beacon's miscalibration. Its own generator keeps the main
+            # stream unchanged.
+            srng = np.random.default_rng([seed, 99, t])
+            zq = srng.uniform(-3, 3, 2)
+            read = zq + delta + srng.normal(0, noise, 2)  # the beacon channel's reading
+            bias_hat = bias_hat + eta_survey * ((read - zq) - bias_hat)
+        if arm in ("anchored", "writable", "admitted") and t % K == 0 and arm != "self":
             offered += 1
             zs = rng.uniform(-3, 3, 2)                   # placed by the world
             ob = [A[i] @ zs + b[i] + rng.normal(0, noise, 2) for i in range(n)]
@@ -99,14 +121,15 @@ def run(arm: str, seed: int, T: int = 3000, t_jump: int = 500, n: int = 4,
                 bB = bB + eta_anchor * rc[n] / (1 + zc @ zc)
                 admitted += 1
             else:
-                rs = residuals(Ah, bh, ob, zs)
+                zr = zs + delta - bias_hat if arm == "anchored" else zs   # what the channel reports
+                rs = residuals(Ah, bh, ob, zr)
                 if arm == "admitted" and max(np.linalg.norm(v) for v in rs) > admit_thr:
                     continue
                 admitted += 1
                 for i in range(n):
                     # normalized LMS against the protected position z*
-                    g = eta_anchor / (1 + zs @ zs)
-                    Ah[i] = Ah[i] + g * np.outer(rs[i], zs)
+                    g = eta_anchor / (1 + zr @ zr)
+                    Ah[i] = Ah[i] + g * np.outer(rs[i], zr)
                     bh[i] = bh[i] + g * rs[i]
     err, rad = np.array(err), np.array(rad)
     w = slice(T - 1000, T)
