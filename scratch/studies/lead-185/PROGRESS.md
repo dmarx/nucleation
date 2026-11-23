@@ -9,10 +9,11 @@
 ## Done
 
 - Step 1 check.
+- Scoping pass over public sources (LWN, project blogs, foundation press releases, Fedora FESCo tickets). Bot checks met and not retried: lists.fedoraproject.org pipermail (Anubis), fedorapeople.org (Anubis), fedoramagazine.org (Anubis); 403 from www.jenkins.io/blog/2011/, phys.org, eweek.com, en.opensuse.org.
+- CODING.md written (frame = CASE-223's list plus the brief's; GIMP/SourceForge and data.table excluded with reasons).
 
 ## Next
 
-- Coding rules (CODING.md).
 - Case selection by the lead's criteria.
 - Gather dated events with URLs.
 - Script, tests, results.
