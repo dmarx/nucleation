@@ -29,6 +29,8 @@ rests_on:
 - CLAIM-675
 complements:
 - CLAIM-tmp6ik2v
+- CLAIM-tmp104zk
+- CLAIM-tmpumpxw
 uses:
 - TERM-tmp9lu6c
 bounded_by:
@@ -51,7 +53,7 @@ summary: >-
   "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp6ik2v CLAIM-tmp7iie0 CLAIM-754 TERM-tmp9lu6c QUESTION-tmpzblpf ARG-tmpbchnj ARG-tmpdnptq THEORY-148 — Proposed, Open or new; the owner's thesis, the term, the check, the arguments and the reading that bounds it -->
+<!-- inactive-ok-file: CLAIM-tmp6ik2v CLAIM-tmp7iie0 CLAIM-754 TERM-tmp9lu6c ARG-tmpbchnj ARG-tmpdnptq THEORY-148 CLAIM-tmp104zk CLAIM-tmpumpxw — Proposed, Open or new; the owner's thesis, the term, the check, the arguments and the reading that bounds it -->
 
 # CLAIM-tmp6thmv: Diversity indicates an ecosystem's richness because differentiated constituents that persist preserve partially independent routes through its possibility space, including questions not yet asked and responses not yet demanded, so diversity of consequential capabilities, not the number of constituents, tracks richness, and it is a generally informative proxy rather than a quantity that always rises with richness
 
@@ -145,3 +147,25 @@ The assistant's, in filing (2026-11-23):
 ## Standing
 
 Proposed, A's.
+
+## Note of 2026-11-23: beside A54's parallel routes and adaptive governance
+
+Two claims filed in the same batch from A54 say parts of this one at another
+scale. CLAIM-tmp104zk, on parallel perspectives answering one question:
+"distinct, causally consequential routes to answers", valuable "not ...
+because it increases their count", is this claim's "consequential
+capabilities, not the number of constituents" for one question under a
+deadline. It also fixes what "partially independent routes" must mean for
+the claim to hold: routes whose failures are not correlated. The two senses
+of "distinct" differ. Here a route counts for differing in capability; in
+CLAIM-tmp104zk a route counts for failing independently, and two copies of
+one capability that fail independently add to the chance of success. That is
+the redundancy this claim allows has value of its own, and it is why, in
+CLAIM-tmp7iie0, parallel independent attempts can favour similar
+generalists over specialists. CLAIM-tmpumpxw draws the governance
+conclusion: what is worth maintaining is "different capacities for
+discovering which questions are worth asking", the representational
+dimension of TERM-tmp9lu6c, and its "integrated enough for coordinated
+action" is the term's relational clause. Neither claim rests on this one
+or this one on them. The note is the assistant's (Claude, in this
+session); adopting it is the owner's call.

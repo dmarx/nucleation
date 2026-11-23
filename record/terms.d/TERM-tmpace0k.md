@@ -25,7 +25,7 @@ summary: >-
   assistant's: what this wording drops from TERM-092. The wording is A's (ChatGPT's, at A58 of the exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp2enpa TERM-tmpdk711 CLAIM-tmpx0wv9 CLAIM-tmpj15c6 CLAIM-754 CLAIM-732 CLAIM-tmp6ppvo — Proposed; the owner's thesis, the other alternative, the claims filed with this, and claims stated in the term it would revise -->
+<!-- inactive-ok-file: CLAIM-tmp2enpa TERM-tmpdk711 CLAIM-tmpx0wv9 CLAIM-tmpj15c6 CLAIM-754 CLAIM-732 CLAIM-tmp6ppvo CLAIM-tmp4u0mj — Proposed; the owner's thesis, the other alternative, the claims filed with this, and claims stated in the term it would revise -->
 
 # TERM-tmpace0k: inquiry frontier, as the boundary of the question–answer processes an agent or organization can jointly realize within a declared budget, horizon and inquiry regime, with a query frontier and an answer frontier as components that do not determine it
 
@@ -87,3 +87,16 @@ is true at one budget and false for the frontiers over all budgets under a
 declared rule (CLAIM-tmpj15c6); the definition should say the coupling is
 the rule, the schedule and what formulating does to answering. The note is
 the assistant's (Claude, in this session); adopting it is the owner's call.
+
+## Note of 2026-11-23: the bounds the components do give
+
+CLAIM-tmp4u0mj, filed from A52 §7 and A54 §7 in the same batch, bounds
+its resolvable set, the questions with some jointly attainable answer, from the
+components: inside the questions each of whose processes fits alone (the
+askable set and the conditional answer frontier), and containing those whose
+posing and answering, along one way of posing, fit run one after the other.
+Read off the components, the inner bound holds only where posing a question
+does not change what answering it costs (CLAIM-tmpj15c6's construction 4).
+Where it holds, "not determined by" its components is true between the
+bounds and only there. The note is the assistant's (Claude, in this session); adopting it is
+the owner's call.

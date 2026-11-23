@@ -25,7 +25,7 @@ summary: >-
   The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp2enpa TERM-tmpace0k CLAIM-tmpj15c6 CLAIM-tmpx0wv9 CLAIM-tmp3l7is CLAIM-754 — Proposed; the owner's thesis, the other alternative and the claims filed with this -->
+<!-- inactive-ok-file: CLAIM-tmp2enpa TERM-tmpace0k CLAIM-tmpj15c6 CLAIM-tmpx0wv9 CLAIM-tmp3l7is CLAIM-754 CLAIM-tmp4u0mj — Proposed; the owner's thesis, the other alternative and the claims filed with this -->
 
 # TERM-tmpdk711: joint inquiry frontier, of an agent at a budget and horizon: the question–answer pairs it can bring about together, formulating the question and producing and evaluating an answer to a stated acceptance standard within the same resources; its question side is the inquiry frontier's investigable set, and its answer side, indexed by question, is the answer frontier
 
@@ -74,3 +74,16 @@ on the joint object; if that is wanted too, a later retitling of TERM-092
 ## Standing
 
 Proposed, the assistant's. Alternative to TERM-tmpace0k; the owner chooses.
+
+## Note of 2026-11-23: the bounds the components do give
+
+CLAIM-tmp4u0mj, filed from A52 §7 and A54 §7 in the same batch, bounds
+its question side, the questions with some jointly attainable answer, from the
+components: inside the questions each of whose processes fits alone (the
+askable set and the conditional answer frontier), and containing those whose
+posing and answering, along one way of posing, fit run one after the other.
+Read off the components, the inner bound holds only where posing a question
+does not change what answering it costs (CLAIM-tmpj15c6's construction 4).
+Where it holds, "not determined by" its components is true between the
+bounds and only there. The note is the assistant's (Claude, in this session); adopting it is
+the owner's call.

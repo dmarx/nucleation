@@ -40,7 +40,7 @@ summary: >-
   the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpiwxla CLAIM-tmpq4crr CLAIM-tmp1m3ba TERM-tmpz28l1 CLAIM-tmpj15c6 — Proposed; the construction this rests on, A's claim, the owner's conjecture and the viability kernel -->
+<!-- inactive-ok-file: CLAIM-tmpiwxla CLAIM-tmpq4crr CLAIM-tmp1m3ba TERM-tmpz28l1 CLAIM-tmpj15c6 CLAIM-tmpx0wv9 TERM-tmpace0k TERM-tmpdk711 — Proposed; the construction this rests on, A's claim, the owner's conjecture, the viability kernel, and the joint relation and terms filed beside it -->
 
 # CLAIM-tmp4u0mj: The questions an organization can both pose and answer by a deadline lie between an inner bound, those whose posing and answering fit the horizon and budget run one after the other, and an outer bound, those each of whose processes fits alone, and where between them depends on precedence and sharing that neither frontier records, so two organizations with the same query and answer frontiers can differ in what they can jointly do
 
@@ -71,6 +71,15 @@ monotone in what it schedules.
 - **Inner bound.** Where running the two one after the other is admissible
   and the resources are pooled, every q with T_Q(q) + T_A(q) ≤ H and
   C_Q(q) + C_A(q) ⪯ B is in 𝒥(H, B): the sequential schedule meets both.
+  Here T_Q, T_A, C_Q and C_A are the times and costs of one way of posing q
+  and of answering q as so posed. Read off the frontiers, the bound takes
+  the least time and cost of posing and the least of answering, and those
+  may belong to different ways of posing. Then the bound holds only when
+  the cost of answering does not depend on how the question was posed.
+  Where it does, a question inside the bound computed from the frontiers
+  can be jointly out of reach: in CLAIM-tmpj15c6's construction 4 the least
+  costs sum to 5 and the true joint cost is 9. The outer bound needs no such
+  condition, since a joint schedule's parts cost at least the least costs.
 - **Between them,** membership depends on what neither frontier records:
   whether the answer can start on a partial specification, whether the two
   draw on the same server or pool, and, for sets of questions, whether they
@@ -104,7 +113,9 @@ complex as in CLAIM-tmpdvgrf.
   formulating and answering compose is declared, so that what is left over
   is the rule. The two agree: the organizations X, Y and Z above have the
   same frontiers at every horizon and differ only in that rule. This claim
-  adds the bounds that hold whatever the rule is.
+  adds the bounds that hold whatever the rule is, the inner one only where
+  posing a question does not change what answering it costs (the
+  qualification above, from CLAIM-tmpj15c6's construction 4).
 - Not which object the record should call the inquiry frontier. Whether
   TERM-092 should become the joint object or stay the query frontier beside
   a new term is the owner's choice, filed from U30 and A58.
@@ -115,3 +126,20 @@ complex as in CLAIM-tmpdvgrf.
 - Not the owner's point about parallelism (CLAIM-tmp1m3ba) beyond the
   route structure: maintained perspectives change the state S, and so the
   activation times, which this static construction takes as given.
+
+## Note of 2026-11-23: against A58's joint relation and the two terms
+
+Filed in the same batch from A58 (U30): CLAIM-tmpx0wv9 and the two
+alternatives for TERM-092, TERM-tmpace0k and TERM-tmpdk711. This claim's
+𝒥(H, B) is the question projection of CLAIM-tmpx0wv9's relation 𝓕_S(H, B),
+its "resolved questions", which is TERM-tmpdk711's question side. Its F_A is
+the conditional answer frontier (the question supplied, the answer charged),
+not the joint answer frontier that both terms derive from 𝓕. Its F_Q is
+TERM-092's askable set as the term now stands; under alternative (a),
+TERM-tmpace0k, that set would be named the query frontier and "inquiry
+frontier" would name 𝓕. The bounds hold under either name. They give what
+CLAIM-tmpx0wv9's third site of failure, joint realizability, can and cannot
+be read from: a question outside the outer bound fails at the first or
+second site, and one between the bounds fails, if at all, at the third. The
+note is the assistant's (Claude, in this session); adopting it is the
+owner's call.

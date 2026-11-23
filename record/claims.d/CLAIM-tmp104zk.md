@@ -22,6 +22,8 @@ rests_on:
 - CLAIM-416
 bears_on:
 - QUESTION-tmp3cft4
+complements:
+- CLAIM-tmp6thmv
 summary: >-
   A54 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23):
   with several maintained perspectives the organization holds "a portfolio
@@ -32,7 +34,7 @@ summary: >-
   prevents convergence. The wording is A's (ChatGPT, at A54 of the exchange
   "Explain First Contact RL"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpoexcl THEORY-148 CLAIM-tmpumpxw CLAIM-tmpy25jo — Proposed; the claim this develops, the gap fill, the reading A cites and the thesis that uses this -->
+<!-- inactive-ok-file: CLAIM-tmpoexcl THEORY-148 CLAIM-tmpumpxw CLAIM-tmpy25jo CLAIM-tmp6thmv CLAIM-tmp7iie0 — Proposed; the claim this develops, the gap fill, the reading A cites and the thesis that uses this -->
 
 # CLAIM-tmp104zk: Parallel perspectives raise the chance that some route answers a question only insofar as their failures are independent, so keeping several is valuable for the distinct, causally consequential routes to answers they supply and not for their number, and making every perspective conform to the dominant interpretation before it is resourced correlates their answers and spends that value
 
@@ -85,3 +87,19 @@ P(both fail) = q² + ρpq with q = 0.4, so P(some route succeeds) =
 - Not that more perspectives are always better. With coordination and
   maintenance costs (CLAIM-tmpy25jo), a route whose success is highly
   correlated with those already held can cost more than it adds.
+
+## Note of 2026-11-23: two senses of "distinct"
+
+CLAIM-tmp6thmv, filed from A60 in the same batch, says at the scale of an
+ecosystem what this claim says for one question: richness tracks diversity
+of consequential capabilities, not the number of constituents. The two use
+"distinct" differently. Here a route adds value insofar as its failures are
+independent of the others', and that holds of two copies of one method
+whose failures are independent, which is redundancy (0.84 against 0.6 in
+the check above). CLAIM-tmp6thmv counts a constituent for differing in
+what it can answer. A54's warning against conformity before resourcing
+joins them: making perspectives conform both correlates their failures and
+removes their differences. In CLAIM-tmp7iie0's coverage model, independent
+parallel attempts are what let similar generalists out-cover specialists,
+so the two senses can pull apart. The note is the assistant's (Claude, in
+this session); adopting it is the owner's call.

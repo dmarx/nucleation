@@ -25,6 +25,7 @@ rests_on:
 - CLAIM-418
 complements:
 - CLAIM-tmp0ww8w
+- CLAIM-tmp6thmv
 summary: >-
   A54's closing thesis, in the exchange "Explain First Contact RL"
   (ChatGPT, 2026-11-23), after the owner's conjecture that persisted
@@ -36,7 +37,7 @@ summary: >-
   it up. The wording is A's (ChatGPT, at A54 of the exchange "Explain
   First Contact RL"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp1m3ba CLAIM-tmpoexcl CLAIM-tmp104zk CLAIM-tmp0ww8w CLAIM-tmp37le7 CLAIM-tmp4u0mj CLAIM-721 TERM-tmpz28l1 — Proposed; the claims this rests on, complements or is read against -->
+<!-- inactive-ok-file: CLAIM-tmp1m3ba CLAIM-tmpoexcl CLAIM-tmp104zk CLAIM-tmp0ww8w CLAIM-tmp37le7 CLAIM-tmp4u0mj CLAIM-721 TERM-tmpz28l1 CLAIM-tmp6thmv TERM-tmp9lu6c — Proposed; the claims this rests on, complements or is read against -->
 
 # CLAIM-tmpumpxw: Adaptive governance is the maintenance of an ecology of partially independent inquiry-and-response capacities, differentiated enough for parallel exploration and integrated enough for coordinated action, in which persisted perspectives keep problem formulations and paths of development that the prevailing organization's demands for resources and authority would otherwise extinguish, so their value lies in keeping different capacities to discover which questions are worth asking
 
@@ -88,3 +89,18 @@ collaborations."
 Proposed, in A's voice. It is a synthesis of A54's steps, each filed or
 held above; what it adds is the final clause, that the diversity worth
 keeping is diversity of askable questions, not only of answers.
+
+## Note of 2026-11-23: in A60's terms
+
+CLAIM-tmp6thmv and TERM-tmp9lu6c, filed from A60 in the same batch, give
+the measure this claim's governance would aim at. What this claim says is
+worth maintaining, "different capacities for discovering which questions
+are worth asking", is TERM-tmp9lu6c's representational richness, and
+"developing answers without requiring the entire organization to redirect
+itself first" its developmental richness. Its "integrated enough for
+coordinated action" is the term's relational clause: the value of
+differentiated constituents "depends on what their differences make
+possible within the ecosystem's actual organization". CLAIM-tmp6thmv
+offers diversity as evidence of that richness; this claim makes keeping it
+the task. The note is the assistant's (Claude, in this session); adopting
+it is the owner's call.
