@@ -28,6 +28,7 @@ summary: >-
   experiments.
 ---
 <!-- inactive-ok-file: CLAIM-209 CLAIM-193 CLAIM-142 — Open or Proposed; the question this work was registered for and the entries it is set beside, open -->
+<!-- inactive-ok-file: CASE-tmpc7lbu CLAIM-tmp41bjo CLAIM-tmp58rtz CLAIM-tmpdltg3 — new; filed by the lead run of 2026-11-23 -->
 
 # NOTE-746: Marconato et al. — All or None: identifiable linear properties of next-token predictors
 
@@ -260,3 +261,13 @@ physics, which says laws should be coordinate-free.
   observed law, yet are shared by every model that a stated training
   procedure produces? Those would be signatures identified by the procedure
   rather than by the data.
+
+## Note of 2026-11-23: the open question on trained models, measured
+
+The first open question above was measured in GPT-2 small and Pythia-70m
+for three factual relations ([CASE-tmpc7lbu](../cases.d/CASE-tmpc7lbu.md)). Both models meet the
+diversity condition exactly, so the trained-model question has a trivial
+yes for them ([CLAIM-tmp58rtz](../claims.d/CLAIM-tmp58rtz.md)). The final layer norm's bias is what makes F
+the whole space ([CLAIM-tmp41bjo](../claims.d/CLAIM-tmp41bjo.md)). At a tolerance fixed in advance the
+containments fail, and the verdict turns on the tolerance ([CLAIM-tmpdltg3](../claims.d/CLAIM-tmpdltg3.md)).
+That points to the second open question, approximate equivalence.
