@@ -27,7 +27,7 @@ summary: >-
   q̇ = β(a − q), and the anchored variant q̇ = β(a − q) + κ(d − q). A50
   derives the gap's decay, the conserved mean and the anchored equilibrium;
   the assistant rechecked each with python3 -I. A50 reads it as
-  "self-confirming coordination" (CLAIM-tmp9in65). The wording is A's
+  "self-confirming coordination" ([CLAIM-tmp9in65](CLAIM-tmp9in65.md)). The wording is A's
   (ChatGPT, at A50 of the exchange "Explain First Contact RL"); adopting it
   is the owner's call.
 ---
@@ -73,13 +73,13 @@ Rechecked by the assistant on 2026-11-23 with `python3 -I` and numpy:
 The derivation is A50's and correct. β plays no part in the stability
 condition, and α must be positive: a response that does not adapt is not
 moved by an anchor placed on the standard. How fast the anchored system
-reaches d, and what measured compliance shows meanwhile, is CLAIM-tmp8nzk0.
+reaches d, and what measured compliance shows meanwhile, is [CLAIM-tmp8nzk0](CLAIM-tmp8nzk0.md).
 
 ## Where the record stands
 
-CLAIM-342 says what keeps a judgement–observation loop from confirming
+[CLAIM-342](CLAIM-342.md) says what keeps a judgement–observation loop from confirming
 itself is evidence that does not pass through the interpretation it tests;
-this is a two-variable instance with the anchor as that evidence. CLAIM-297
+this is a two-variable instance with the anchor as that evidence. [CLAIM-297](CLAIM-297.md)
 shows an interpretive advantage amplified with no gain in fidelity in the
 meaning–influence model; here nothing is amplified, and the fidelity lost
 is to d, never consulted.

@@ -27,14 +27,14 @@ summary: >-
   A52 §2–3 of the exchange "Explain First Contact RL" (ChatGPT,
   2026-11-23). A toy model of the shared deadline: more inquiry raises the
   chance of finding a suitable response and lowers the time left to carry
-  it out, so an interior depth balances the two. It models TERM-085's
+  it out, so an interior depth balances the two. It models [TERM-085](../terms.d/TERM-085.md)'s
   "further search can have negative value". The derivative and the
   condition check (python3 -I); when the optimum moves with the deadline,
-  and when it can jump down, is the assistant's CLAIM-tmpzbytm. The
+  and when it can jump down, is the assistant's [CLAIM-tmpzbytm](CLAIM-tmpzbytm.md). The
   wording is A's (ChatGPT, at A52 of the exchange "Explain First Contact
   RL"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmpq4crr CLAIM-tmpzbytm CASE-tmp0nsah CLAIM-tmpcag0t — Proposed; the claim this rests on, the gap fill, the case filed with it and the claim whose phrase A uses -->
+<!-- inactive-ok-file: CLAIM-tmpzbytm CLAIM-tmpcag0t — Proposed; the claim this rests on, the gap fill, the case filed with it and the claim whose phrase A uses -->
 
 # CLAIM-tmp2dr12: Where inquiry of depth k must finish before execution can start within a deadline H, the chance of success p(k)F(H − t(k)) is greatest at an interior depth where the relative gain in finding a suitable response equals the time cost times the relative loss in execution readiness, so the appropriate depth of inquiry depends on the deadline and on the target's response dynamics
 
@@ -85,8 +85,8 @@ table's arithmetic checks.
 - Not where the optimum lies or how it moves. The condition is necessary
   for an interior maximum, not sufficient, and it can have several
   solutions. When the best depth rises with the deadline, and when a
-  longer deadline makes a shallower inquiry best, is CLAIM-tmpzbytm.
+  longer deadline makes a shallower inquiry best, is [CLAIM-tmpzbytm](CLAIM-tmpzbytm.md).
 - A52 calls this "precisely the kind of relationship we've been calling
-  *demand-appropriate temporal organization*". That is CLAIM-tmpcag0t's
+  *demand-appropriate temporal organization*". That is [CLAIM-tmpcag0t](CLAIM-tmpcag0t.md)'s
   phrase; the model is one instance of it, for the stage before a response
   can start.

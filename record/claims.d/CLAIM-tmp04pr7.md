@@ -28,13 +28,13 @@ uses:
 - TERM-092
 summary: >-
   A56 §§2–3 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23), developing the owner's U29
-  (CLAIM-tmpbt43r): "Asking permission is itself a resource-bounded inquiry,
+  ([CLAIM-tmpbt43r](CLAIM-tmpbt43r.md)): "Asking permission is itself a resource-bounded inquiry,
   directed at an authority whose capacity to understand and evaluate the
   request is also resource-bounded." It defines an authorization frontier
   inside the askable questions, an authorization cost (infinite where no
   procedure exists), and a deadline on permission, investigation and
-  realization together. CLAIM-732 is the nearest antecedent, for objections;
-  CLAIM-tmp3l7is (the assistant's) says what the frontier assumes about the
+  realization together. [CLAIM-732](CLAIM-732.md) is the nearest antecedent, for objections;
+  [CLAIM-tmp3l7is](CLAIM-tmp3l7is.md) (the assistant's) says what the frontier assumes about the
   unit of authorization. The wording is A's (ChatGPT's, at A56 of the exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
@@ -52,10 +52,10 @@ formulation by the employee (m_q = e(q)), evaluation by the manager
 (j = d(m_q)), authorization, then investigation, with each step bounded:
 C_e(e, q) ≤ B_e and C_m(d, m_q) ≤ B_m. "Legibility is relational": the same
 proposal can be cheap to evaluate in a specialist community and costly to
-justify up a hierarchy (TERM-064).
+justify up a hierarchy ([TERM-064](../terms.d/TERM-064.md)).
 
 A56 §3. Let Q^ask(S) be the questions a perspective can formulate
-(TERM-092's askable set) and Q^auth(S) those it can obtain permission to
+([TERM-092](../terms.d/TERM-092.md)'s askable set) and Q^auth(S) those it can obtain permission to
 investigate adequately under the institution's arrangement G. Where prior
 authorization is required, Q^auth(S) ⊆ Q^ask(S), and the gap is a class of
 "organizationally suppressed possibilities", "though exclusion is not
@@ -80,7 +80,7 @@ interpretive, a reading of organizations in these terms.
 
 A54 §1's worked case, an opportunity open for ten days lost under a
 workflow of formulating, justifying, approving and implementing, is
-CASE-tmp0nsah.
+[CASE-tmp0nsah](../cases.d/CASE-tmp0nsah.md).
 
 ## What it does not say
 
@@ -89,22 +89,22 @@ pursuit. A56 marks both: exclusion "is not automatically unjustified".
 
 ## Neighbours
 
-CLAIM-732's six stages of an effective objection include legibility and
+[CLAIM-732](CLAIM-732.md)'s six stages of an effective objection include legibility and
 uptake by an authorized channel; this is the same structure for a request to
 inquire, with the authorization's duration counted against the inquiry's own
-deadline. CLAIM-523 keeps legibility, efficacy and correctability apart; A56's
+deadline. [CLAIM-523](CLAIM-523.md) keeps legibility, efficacy and correctability apart; A56's
 closing synthesis: "making an idea legible is not the same as granting it authority, and
 granting it authority is not the same as enabling its realization", which is
-CLAIM-523's and CLAIM-403's point and is not filed again.
+[CLAIM-523](CLAIM-523.md)'s and [CLAIM-403](CLAIM-403.md)'s point and is not filed again.
 
 ## A gap, filled
 
 The inclusion and the cost are stated per question: authorization is granted
 to a formulated proposal, between formulating and investigating. A56's own
 remedies, an exploratory budget and staged approval, grant authority before
-any particular question is formulated. CLAIM-tmp3l7is (the assistant's)
+any particular question is formulated. [CLAIM-tmp3l7is](CLAIM-tmp3l7is.md) (the assistant's)
 works out what follows. A58 adds that authorization belongs to the joint
-inquiry relation itself (CLAIM-tmpx0wv9).
+inquiry relation itself ([CLAIM-tmpx0wv9](CLAIM-tmpx0wv9.md)).
 
 ## Standing
 

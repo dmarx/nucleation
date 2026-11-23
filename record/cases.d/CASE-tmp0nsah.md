@@ -60,25 +60,25 @@ justified projects."
 ## What it shows
 
 - **The depth trade-off, with authority as a stage.** Justifying the idea
-  is inquiry spent before execution can start, as in CLAIM-tmp2dr12, and
+  is inquiry spent before execution can start, as in [CLAIM-tmp2dr12](../claims.d/CLAIM-tmp2dr12.md), and
   waiting for approval is time no one on the project controls. The total,
   1 + 2 + 2 + 6 = 11 days, misses a 10-day window by one.
 - **Fixed capability, changed outcome.** The record holds the pieces:
-  TERM-085's correctability counts authorizing among what must finish
-  before the deadline, and TERM-129 decomposes a capability into
+  [TERM-085](../terms.d/TERM-085.md)'s correctability counts authorizing among what must finish
+  before the deadline, and [TERM-129](../terms.d/TERM-129.md) decomposes a capability into
   competence, exercise, authority and governance, which vary independently.
-  CLAIM-349 separates access to a signal from its authority over action.
+  [CLAIM-349](../claims.d/CLAIM-349.md) separates access to a signal from its authority over action.
 - **The trap A54 §6 draws from it**, no evidence, so no authorization, so no
-  exploration, so no evidence, is CLAIM-406's form (indicators of competence
+  exploration, so no evidence, is [CLAIM-406](../claims.d/CLAIM-406.md)'s form (indicators of competence
   that only being sought produces) and, where competence decays with
-  disuse, CLAIM-721's.
+  disuse, [CLAIM-721](../claims.d/CLAIM-721.md)'s.
 
 ## Variants
 
 - **Parallel justification.** Preauthorized discretion moves the
-  justification off the critical path, as in CLAIM-tmpiwxla: if the
+  justification off the critical path, as in [CLAIM-tmpiwxla](../claims.d/CLAIM-tmpiwxla.md): if the
   justification and the wait for approval run beside the six days of
   implementation, the route takes 1 + 6 = 7 days, inside the window.
 - **A maintained nucleus.** If the idea had been kept alive in a maintained
-  perspective (CLAIM-tmpoexcl), formulation and part of the justification
+  perspective ([CLAIM-tmpoexcl](../claims.d/CLAIM-tmpoexcl.md)), formulation and part of the justification
   would be done before the window opened.

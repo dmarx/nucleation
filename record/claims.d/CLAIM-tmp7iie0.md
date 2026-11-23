@@ -21,7 +21,7 @@ bears_on:
 - QUESTION-tmpzblpf
 - QUESTION-395
 summary: >-
-  A gap fill (ADR-137) for A60 §4 of the exchange "Explain First Contact
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A60 §4 of the exchange "Explain First Contact
   RL" (ChatGPT, 2026-11-23), whose coverage model, C(E;μ) = ∫ max_i r_i(q)
   dμ(q), is offered as why diversity tracks richness, with the conditions
   "one perspective can be selected without substantial activation or
@@ -33,7 +33,7 @@ summary: >-
   session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: QUESTION-tmpzblpf CLAIM-tmp6thmv CLAIM-tmp6ik2v ARG-tmpbchnj — Open or new; the question this bears on, the claims whose model it checks, and the argument that applies it -->
+<!-- inactive-ok-file: ARG-tmpbchnj — Open or new; the question this bears on, the claims whose model it checks, and the argument that applies it -->
 
 # CLAIM-tmp7iie0: In the demand-weighted coverage of an ecosystem, the integral over future questions of the best readiness any one perspective offers, a perspective adds the integral of its excess over that best, so a duplicate adds nothing; but the ordering of similar against differentiated ecosystems reverses when perspectives attempt in parallel, share a budget or are chosen by a selector that cannot tell the questions apart, and since coverage is linear in demand, uncertainty about demand over a fixed set of questions adds nothing beyond the mean demand
 
@@ -75,7 +75,7 @@ carry. This entry does both.
    others but not 0 from 1, it routes both to whichever perspective is
    best on average over the two. The specialists then give C = 0.6, the
    same as the generalists. Recognizing which perspective a demand needs
-   is a query-side capacity (the inquiry frontier, TERM-092), so the model's
+   is a query-side capacity (the inquiry frontier, [TERM-092](../terms.d/TERM-092.md)), so the model's
    result presupposes the very capacity A60 §6 credits diversity with.
 6. **Uncertainty about demand reduces to its mean.** C is linear in μ, so
    for any prior over μ supported on measures over Q*, E[C(E; μ)] = C(E;
@@ -97,7 +97,7 @@ carry. This entry does both.
 - The model supports the claim that diversity of consequential capabilities
   tracks richness under single selection, a recognizing selector and no shared
   budget. Under the other conditions, similar constituents can be worth
-  more, or an added one worth less than nothing (ARG-tmpbchnj).
+  more, or an added one worth less than nothing ([ARG-tmpbchnj](../arguments.d/ARG-tmpbchnj.md)).
 
 ## The check
 
@@ -109,7 +109,7 @@ expectation by Monte Carlo with a fixed seed.
 ## Standing
 
 Proposed, the assistant's. It fills the gap A60 §4 leaves between its
-model and its conclusion, and bears on QUESTION-395: the marginal-value
+model and its conclusion, and bears on [QUESTION-395](../questions.d/QUESTION-395.md): the marginal-value
 formula is a criterion for telling a warranted reserve from wasteful redundancy
 under single selection, and derivation 3 shows that under parallel
 attempts a redundant copy can be the warranted one.

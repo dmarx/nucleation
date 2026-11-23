@@ -27,10 +27,10 @@ uses:
 - TERM-115
 summary: >-
   A50 §§2 and 8 and its "conceptual payoff", in the exchange "Explain First
-  Contact RL" (ChatGPT, 2026-11-23). Beside TERM-092's inquiry frontier A50
+  Contact RL" (ChatGPT, 2026-11-23). Beside [TERM-092](../terms.d/TERM-092.md)'s inquiry frontier A50
   sets the queries an organization "can adequately answer at time t", says
   the two "are not necessarily nested", and draws two capacities to
-  maintain, to formulate questions and to develop answers. CASE-tmp95f8e is
+  maintain, to formulate questions and to develop answers. [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md) is
   the record's construction of the undetected route. The wording is A's
   (ChatGPT, at A50 of the exchange "Explain First Contact RL"); adopting it
   is the owner's call.
@@ -43,8 +43,8 @@ summary: >-
 ## The claim
 
 A50 §2 defines two sets at time t: the queries "that can be formulated",
-which is TERM-092's frontier, and the queries "the organization can
-adequately answer", a superlevel set of TERM-115's readiness (A50 §8 writes
+which is [TERM-092](../terms.d/TERM-092.md)'s frontier, and the queries "the organization can
+adequately answer", a superlevel set of [TERM-115](../terms.d/TERM-115.md)'s readiness (A50 §8 writes
 it 𝓔(S)). "These are not necessarily nested, and neither is automatically
 contained in the other. Some questions can be asked but not answered. Some
 capabilities exist but nobody has yet formulated the question that would
@@ -66,14 +66,14 @@ unfamiliar questions matter".
 
 ## Where the record stands
 
-- CLAIM-475 makes asking resource-bounded, so its capacity can decline; this
+- [CLAIM-475](CLAIM-475.md) makes asking resource-bounded, so its capacity can decline; this
   claim needs that.
-- CLAIM-tmp76xaw says the capacity to recognize a demand as demand-worthy is
+- [CLAIM-tmp76xaw](CLAIM-tmp76xaw.md) says the capacity to recognize a demand as demand-worthy is
   a slow capability that must stay open to correction. This claim adds the
   second route's asymmetry of detection.
-- CLAIM-462 separates the capacity for effective action from the capacity to
+- [CLAIM-462](CLAIM-462.md) separates the capacity for effective action from the capacity to
   be corrected by others, which is the same shape at another level.
-- CASE-tmp95f8e constructs the asymmetry: an organization that never enters
+- [CASE-tmp95f8e](../cases.d/CASE-tmp95f8e.md) constructs the asymmetry: an organization that never enters
   an unnamed demand "scores zero violations against the original
   specification and its own while the harm runs".
 

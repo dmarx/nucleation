@@ -31,27 +31,25 @@ complements:
 - CLAIM-tmp6ik2v
 uses:
 - TERM-tmp9lu6c
-bounded_by:
-- THEORY-148
 bears_on:
 - QUESTION-tmpzblpf
 - QUESTION-395
 summary: >-
   A60 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23),
-  developing the owner's U31 (CLAIM-tmp6ik2v). Its thesis: "Diversity is
+  developing the owner's U31 ([CLAIM-tmp6ik2v](CLAIM-tmp6ik2v.md)). Its thesis: "Diversity is
   an observable indicator of that richness because differentiated
   constituents can preserve distinct regions of the ecosystem's
   possibility space"; its measurement point: "Richness is better
   approximated by diversity of consequential capabilities than by the raw
   number of distinguishable constituents"; its limit: "I would not make
   the stronger claim that more diversity must always mean more richness."
-  The assistant's check of §4's coverage model (CLAIM-tmp7iie0,
-  ARG-tmpbchnj) narrows the support it gives, and Zollman's account bounds
-  §5 (ARG-tmpdnptq). The wording is A's (ChatGPT's, at A60 of the exchange
+  The assistant's check of §4's coverage model ([CLAIM-tmp7iie0](CLAIM-tmp7iie0.md),
+  [ARG-tmpbchnj](../arguments.d/ARG-tmpbchnj.md)) narrows the support it gives, and Zollman's account bounds
+  §5 ([ARG-tmpdnptq](../arguments.d/ARG-tmpdnptq.md)). The wording is A's (ChatGPT's, at A60 of the exchange
   "Explain First Contact RL"); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp6ik2v CLAIM-tmp7iie0 CLAIM-754 TERM-tmp9lu6c QUESTION-tmpzblpf ARG-tmpbchnj ARG-tmpdnptq THEORY-148 — Proposed, Open or new; the owner's thesis, the term, the check, the arguments and the reading that bounds it -->
+<!-- inactive-ok-file: CLAIM-tmp6ik2v CLAIM-tmp7iie0 CLAIM-754 ARG-tmpbchnj ARG-tmpdnptq THEORY-148 — Proposed, Open or new; the owner's thesis, the term, the check, the arguments and the reading that bounds it -->
 
 # CLAIM-tmp6thmv: Diversity indicates an ecosystem's richness because differentiated constituents that persist preserve partially independent routes through its possibility space, including questions not yet asked and responses not yet demanded, so diversity of consequential capabilities, not the number of constituents, tracks richness, and it is a generally informative proxy rather than a quantity that always rises with richness
 
@@ -78,12 +76,12 @@ The argument, by section of A60:
    nearly identical capabilities add redundancy; three in different niches
    add kinds of response. "Redundancy can improve reliability, especially
    against independent failures. Differentiation can improve the breadth
-   of response." Niche differentiation counts as CLAIM-554 counts it: an
+   of response." Niche differentiation counts as [CLAIM-554](CLAIM-554.md) counts it: an
    enlargement of what the constituents can jointly realize, not mere
    coexistence of more types.
 3. **Extensive and generative value** (§3). Perspectives equal in present
-   repertoire can differ in what they can come to answer (CLAIM-754's
-   developmental frontier; CLAIM-675).
+   repertoire can differ in what they can come to answer ([CLAIM-754](CLAIM-754.md)'s
+   developmental frontier; [CLAIM-675](CLAIM-675.md)).
 4. **A hedge against unknown questions** (§4). Under a coverage model,
    added perspectives raise coverage where existing ones answer poorly and
    duplicates add little; and since future demand is not fully known,
@@ -93,7 +91,7 @@ The argument, by section of A60:
 5. **Maintained, not transient** (§5). Opinions voiced without enduring
    support are "diverse as utterances" but "The system displays diversity
    without maintaining much corresponding capacity". Where preserving a
-   niche costs less than rebuilding it, which CLAIM-463 shows can happen
+   niche costs less than rebuilding it, which [CLAIM-463](CLAIM-463.md) shows can happen
    ("restoring it can cost more than preserving it would have"), keeping
    seemingly underused diversity is justified. A60: "This inequality is
    conditional, not universal".
@@ -115,30 +113,30 @@ independently maintained histories."
 - Not that every perspective is equally accurate or should govern; and not
   a measure of welfare: diversity "should be treated as evidence of
   potential richness, not as an unconditional measure of welfare or
-  justice" (CLAIM-546).
+  justice" ([CLAIM-546](CLAIM-546.md)).
 
 ## Limits found in filing
 
 The assistant's, in filing (2026-11-23):
 
 - **The coverage model supports the claim only under its assumptions.**
-  CLAIM-tmp7iie0 checks §4's model. A perspective's marginal value is its
+  [CLAIM-tmp7iie0](CLAIM-tmp7iie0.md) checks §4's model. A perspective's marginal value is its
   excess over the best existing readiness, so duplicates add nothing, as
   A60 says. But with parallel independent attempts three similar
   generalists out-cover three specialists, a shared budget makes a
   duplicate lower coverage, and a selector that cannot tell questions
-  apart erases the specialists' advantage. ARG-tmpbchnj sets out what
+  apart erases the specialists' advantage. [ARG-tmpbchnj](../arguments.d/ARG-tmpbchnj.md) sets out what
   that leaves of step 4.
 - **The hedge argument leaves the model.** Since coverage is linear in the
   demand measure, uncertainty about demand over a known set of questions
-  is the mean demand and nothing more (CLAIM-tmp7iie0). Step 4's hedge
+  is the mean demand and nothing more ([CLAIM-tmp7iie0](CLAIM-tmp7iie0.md)). Step 4's hedge
   rests on worst-case evaluation or on questions outside the set, which
   the model cannot score; A60's sentence about demands "nobody can
   currently specify" is the second, and is interpretive.
-- **Maintained pursuit is not maintained capacity.** THEORY-148 (Zollman)
+- **Maintained pursuit is not maintained capacity.** [THEORY-148](../theory.d/THEORY-148.md) (Zollman)
   finds diversity of pursuit valuable when transient and harmful when
   made permanent, since the group then never settles. Step 5 holds of
-  maintained capacity, not of maintained pursuit (ARG-tmpdnptq). A60's
+  maintained capacity, not of maintained pursuit ([ARG-tmpdnptq](../arguments.d/ARG-tmpdnptq.md)). A60's
   "transient variety" is unsupported utterance, a different thing from
   Zollman's "transient diversity", which is a virtue.
 

@@ -20,16 +20,16 @@ line:
 summary: >-
   A60 §4 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23)
   offers its coverage model as a reason that diversity tracks richness
-  (CLAIM-tmp6thmv, step 4). The assistant's derivations (CLAIM-tmp7iie0)
+  ([CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md), step 4). The assistant's derivations ([CLAIM-tmp7iie0](../claims.d/CLAIM-tmp7iie0.md))
   show the model supports that conclusion only under three conditions,
   two of which A60 states and one it does not, and that its hedge against
   unknown demand is not in the model. Proposed as a narrowed support: the
-  conclusion's own standing lives in CLAIM-tmp6thmv and the open part in
-  QUESTION-tmpzblpf. The wording is the assistant's (Claude, in this
+  conclusion's own standing lives in [CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md) and the open part in
+  [QUESTION-tmpzblpf](../questions.d/QUESTION-tmpzblpf.md). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp7iie0 CLAIM-tmp6thmv TERM-tmp9lu6c QUESTION-tmpzblpf — new; the derivations, the claim concluded, its term and the open question -->
+<!-- inactive-ok-file: CLAIM-tmp7iie0 CLAIM-tmp6thmv — new; the derivations, the claim concluded, its term and the open question -->
 
 # ARG-tmpbchnj: The demand-weighted coverage model, by formal application, supports diversity of consequential capabilities as a measure of richness only under one-at-a-time selection by a selector that recognizes each question and with no shared budget
 
@@ -40,7 +40,7 @@ of consequential capabilities, not the number of constituents, tracks
 richness: coverage "increases when an added perspective supplies better
 responses to questions that existing perspectives handle poorly" and
 "need not increase much when another perspective simply duplicates
-existing capabilities". Under the model, CLAIM-tmp7iie0's derivation 1
+existing capabilities". Under the model, [CLAIM-tmp7iie0](../claims.d/CLAIM-tmp7iie0.md)'s derivation 1
 confirms both: the marginal value of a perspective is its demand-weighted
 excess over the best already present, zero for a duplicate.
 
@@ -72,4 +72,4 @@ excess over the best already present, zero for a duplicate.
 Proposed: the inference holds, narrowed to its conditions. The claim
 concluded can still stand on A60's other steps (§1, §3, §5, §6); this
 argument says how much of it step 4 carries. Whether ecosystems generally
-meet the conditions is QUESTION-tmpzblpf.
+meet the conditions is [QUESTION-tmpzblpf](../questions.d/QUESTION-tmpzblpf.md).

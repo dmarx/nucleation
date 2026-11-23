@@ -27,11 +27,11 @@ summary: >-
   justify time to a manager: "that's a good point, I'm not sure we ever picked
   up on the resource boundedness of asking permission. this connects us
   directly to Nucleation's legibility program." The record had not: it held
-  the cost of formulating a question (CLAIM-475), the stages an objection
-  passes, an authorized channel among them (CLAIM-732), and a note that a
+  the cost of formulating a question ([CLAIM-475](CLAIM-475.md)), the stages an objection
+  passes, an authorized channel among them ([CLAIM-732](CLAIM-732.md)), and a note that a
   bureaucracy can be cheap for administrators because claimants do the work of
-  fitting its categories (CLAIM-303, note of 2026-11-19), but no entry on the
-  cost of obtaining permission to inquire. A56's development is CLAIM-tmp04pr7
+  fitting its categories ([CLAIM-303](CLAIM-303.md), note of 2026-11-19), but no entry on the
+  cost of obtaining permission to inquire. A56's development is [CLAIM-tmp04pr7](CLAIM-tmp04pr7.md)
   and the claims resting on it. Filed in the owner's voice.
 ---
 
@@ -47,33 +47,33 @@ Nucleation's legibility program."
 
 The point it answers is A54's: an employee with an idea must spend time
 justifying it to a manager before pursuing it, out of the same deadline the
-idea's pursuit needs (CASE-tmp0nsah). The owner's thesis is that asking permission is itself
+idea's pursuit needs ([CASE-tmp0nsah](../cases.d/CASE-tmp0nsah.md)). The owner's thesis is that asking permission is itself
 a resource-bounded activity, and that what it costs is a matter of
 legibility: what the authority can recognize, with the categories and
-attention it has (TERM-064).
+attention it has ([TERM-064](../terms.d/TERM-064.md)).
 
 ## Where the record stood
 
 A search on 2026-11-23 found the neighbours and not the thing:
 
-- CLAIM-475: formulating a question costs resources. Permission is a further
+- [CLAIM-475](CLAIM-475.md): formulating a question costs resources. Permission is a further
   cost after formulation.
-- CLAIM-732: an objection must become formulable, legible and taken up by an
+- [CLAIM-732](CLAIM-732.md): an objection must become formulable, legible and taken up by an
   authorized channel. Its object is an objection, not a request to inquire.
-- CLAIM-523 and CLAIM-403: legibility, efficacy and correctability, and
+- [CLAIM-523](CLAIM-523.md) and [CLAIM-403](CLAIM-403.md): legibility, efficacy and correctability, and
   admission, recognition, credibility and uptake, are separable achievements.
-- CLAIM-303's note of 2026-11-19, (b): work transferred to claimants who must
+- [CLAIM-303](CLAIM-303.md)'s note of 2026-11-19, (b): work transferred to claimants who must
   fit a bureaucracy's categories, left unfiled as "close to definitional".
 
 So the owner's "I'm not sure we ever picked up on" it is borne out.
 
 ## What A56 made of it
 
-CLAIM-tmp04pr7 (permission as a second-order query, the authorization
-frontier and its deadline), CLAIM-tmpjg4h2 (who pays to make a proposal
-legible), CLAIM-tmpn8j1j (the circle between evidence and permission),
-CLAIM-tmpjvllb (perspectives as alternative legibility regimes) and
-CLAIM-tmplxi60 (A56's thesis), all in A's voice; CLAIM-tmp3l7is is the
+[CLAIM-tmp04pr7](CLAIM-tmp04pr7.md) (permission as a second-order query, the authorization
+frontier and its deadline), [CLAIM-tmpjg4h2](CLAIM-tmpjg4h2.md) (who pays to make a proposal
+legible), [CLAIM-tmpn8j1j](CLAIM-tmpn8j1j.md) (the circle between evidence and permission),
+[CLAIM-tmpjvllb](CLAIM-tmpjvllb.md) (perspectives as alternative legibility regimes) and
+[CLAIM-tmplxi60](CLAIM-tmplxi60.md) (A56's thesis), all in A's voice; [CLAIM-tmp3l7is](CLAIM-tmp3l7is.md) is the
 assistant's gap fill.
 
 ## Standing

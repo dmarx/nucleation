@@ -30,13 +30,13 @@ summary: >-
   budget, protected time, staged approval) that do not fit that form: they
   authorize a domain before its questions exist. The gap is why the remedies
   break the circle between evidence and permission. They move the cost of
-  authorization off each question and pay it once, as stored work (CLAIM-761)
+  authorization off each question and pay it once, as stored work ([CLAIM-761](CLAIM-761.md))
   amortizes a cost over the tasks it serves. With A58's joint relation, the
   cost of authorization is a third term in the same composition as
-  formulating and answering (CLAIM-tmpj15c6). The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+  formulating and answering ([CLAIM-tmpj15c6](CLAIM-tmpj15c6.md)). The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp04pr7 CLAIM-tmpn8j1j CLAIM-tmpj15c6 CLAIM-tmpx0wv9 CASE-tmp1ptqp CLAIM-tmpjvllb CASE-tmp0nsah — Proposed; the premises, the composition this joins and A58's joint relation -->
+<!-- inactive-ok-file: CLAIM-tmpn8j1j CLAIM-tmpj15c6 CLAIM-tmpx0wv9 CASE-tmp1ptqp CLAIM-tmpjvllb CASE-tmp0nsah — Proposed; the premises, the composition this joins and A58's joint relation -->
 
 # CLAIM-tmp3l7is: Authorization granted question by question puts its cost between formulating a question and investigating it, on the same budget, while a standing grant pays it once for a domain before any question in it is formulated, so the remedies for the circle between evidence and permission work by changing the unit of authorization, and authorization's cost belongs in the joint inquiry relation as a third cost on the shared budget
 
@@ -46,10 +46,10 @@ A56 §3 prices authorization per question: C_perm(q; S, G), and for a
 sequential workflow T_perm(q) + T_investigate(q) + T_realize(q) ≤ H_q. The
 order is formulate, make legible, evaluate, authorize, investigate. A56 §4
 and §5 then propose "a small exploratory budget", "a limited experiment",
-and, in the study (CASE-tmp1ptqp), protected exploration with staged
+and, in the study ([CASE-tmp1ptqp](../cases.d/CASE-tmp1ptqp.md)), protected exploration with staged
 approval. These grant authority over a domain, a budget or a stretch of
 time before any one question in it is formulated or made legible. A56 does
-not say why that answers the circle of §5 (CLAIM-tmpn8j1j); per-question
+not say why that answers the circle of §5 ([CLAIM-tmpn8j1j](CLAIM-tmpn8j1j.md)); per-question
 pricing cannot say it, since under a standing grant no question is priced.
 
 ## The claim
@@ -61,16 +61,16 @@ pricing cannot say it, since under a standing grant no question is priced.
   questions are formulated. For each q in D, T_perm(q) is near zero, and
   evidence can be produced first and made legible after. The order becomes
   authorize D, formulate, investigate, then make the result legible for the
-  consequential decision. That is A56's progression in CLAIM-tmpjvllb, and
+  consequential decision. That is A56's progression in [CLAIM-tmpjvllb](CLAIM-tmpjvllb.md), and
   the preauthorization that keeps A54's ten-day opportunity open in
-  CASE-tmp0nsah.
+  [CASE-tmp0nsah](../cases.d/CASE-tmp0nsah.md).
 - So the remedies work by **changing the unit of authorization**, not by
   making any one proposal cheaper to justify. They are amortization: like
-  stored work (CLAIM-761), a grant paid once changes which questions fit a
+  stored work ([CLAIM-761](CLAIM-761.md)), a grant paid once changes which questions fit a
   fixed per-question budget.
-- In A58's joint relation (CLAIM-tmpx0wv9), authorization is a third cost
+- In A58's joint relation ([CLAIM-tmpx0wv9](CLAIM-tmpx0wv9.md)), authorization is a third cost
   in the same composition as formulating and answering, under the
-  governance arrangement G. By CLAIM-tmpj15c6 the composition rule is what
+  governance arrangement G. By [CLAIM-tmpj15c6](CLAIM-tmpj15c6.md) the composition rule is what
   the separate frontiers miss; the unit of authorization is part of that
   rule.
 

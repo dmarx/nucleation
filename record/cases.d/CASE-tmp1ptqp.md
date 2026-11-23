@@ -55,10 +55,10 @@ successful."
 ## What it would show
 
 Translation support against centralized review isolates who pays for
-legibility (CLAIM-tmpjg4h2). Protected exploration against both isolates the
-circle between evidence and permission (CLAIM-tmpn8j1j). Distributed
-evaluation tests the alternative regimes (CLAIM-tmpjvllb) and the thesis
-(CLAIM-tmplxi60).
+legibility ([CLAIM-tmpjg4h2](../claims.d/CLAIM-tmpjg4h2.md)). Protected exploration against both isolates the
+circle between evidence and permission ([CLAIM-tmpn8j1j](../claims.d/CLAIM-tmpn8j1j.md)). Distributed
+evaluation tests the alternative regimes ([CLAIM-tmpjvllb](../claims.d/CLAIM-tmpjvllb.md)) and the thesis
+([CLAIM-tmplxi60](../claims.d/CLAIM-tmplxi60.md)).
 
 ## Note of 2026-11-23: what the design leaves open
 
@@ -73,7 +73,7 @@ one proposal, so either proposals are randomized across units, or the study
 is run in a simulation whose proposals carry a hidden true value, which makes
 the success criterion independent by construction. (3) Protected
 exploration and distributed evaluation change the unit of authorization from
-a question to a domain (CLAIM-tmp3l7is), so their effect should be read as
+a question to a domain ([CLAIM-tmp3l7is](../claims.d/CLAIM-tmp3l7is.md)), so their effect should be read as
 that change, not as lower cost per proposal; a fifth arm with standing
 budgets and centralized review would separate the two. The note is the
 assistant's (Claude, in this session); adopting it is the owner's call.

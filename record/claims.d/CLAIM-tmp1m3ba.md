@@ -27,8 +27,8 @@ summary: >-
   boundary can be derived that the two frontiers do not give: "maybe this
   is complicated by parallel processing? maybe persisted alternative
   perspectives serve as conceptual nucleation sites for parallel depth
-  pursuit?" A54 develops it (CLAIM-tmpoexcl, CLAIM-tmp104zk,
-  CLAIM-tmpumpxw). Filed in the owner's voice.
+  pursuit?" A54 develops it ([CLAIM-tmpoexcl](CLAIM-tmpoexcl.md), [CLAIM-tmp104zk](CLAIM-tmp104zk.md),
+  [CLAIM-tmpumpxw](CLAIM-tmpumpxw.md)). Filed in the owner's voice.
 ---
 <!-- inactive-ok-file: CLAIM-tmpoexcl CLAIM-tmp104zk CLAIM-tmpumpxw CLAIM-tmp4u0mj CLAIM-tmpiwxla CLAIM-185 CLAIM-182 CLAIM-tmp0ww8w — Proposed; A's development, the gap fill, and the held claims the conjecture is read against -->
 
@@ -56,18 +56,18 @@ Two conjectures:
 
 ## Where the record stands
 
-- The first is held in its time part: CLAIM-tmpiwxla (stages that overlap
+- The first is held in its time part: [CLAIM-tmpiwxla](CLAIM-tmpiwxla.md) (stages that overlap
   contribute the longest of theirs). That the joint set depends on such
   structure, which the separate frontiers do not record, is the
-  assistant's CLAIM-tmp4u0mj.
-- The second uses the record's own figure. CLAIM-185: "The nucleation
+  assistant's [CLAIM-tmp4u0mj](CLAIM-tmp4u0mj.md).
+- The second uses the record's own figure. [CLAIM-185](CLAIM-185.md): "The nucleation
   threshold of an argument is whatever makes a structure persist"; a
   persistent structure is an anchor on which more structure can grow.
-  CLAIM-182: storage is not anchoring, addressability is. And CLAIM-tmp0ww8w
+  [CLAIM-182](CLAIM-182.md): storage is not anchoring, addressability is. And [CLAIM-tmp0ww8w](CLAIM-tmp0ww8w.md)
   holds that a shared record can keep an ecology of perspectives rather
   than a monoculture. The conjecture carries the figure from arguments in
   a record to perspectives in an organization, and from anchoring to
   parallel pursuit in depth.
 - A54's development: the levels of preservation and the maintained-nucleus
-  model are CLAIM-tmpoexcl, the portfolio of parallel routes CLAIM-tmp104zk,
-  and the governance thesis CLAIM-tmpumpxw.
+  model are [CLAIM-tmpoexcl](CLAIM-tmpoexcl.md), the portfolio of parallel routes [CLAIM-tmp104zk](CLAIM-tmp104zk.md),
+  and the governance thesis [CLAIM-tmpumpxw](CLAIM-tmpumpxw.md).

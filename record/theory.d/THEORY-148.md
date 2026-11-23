@@ -31,6 +31,8 @@ summary: >-
   in simulation.
 bears_on:
 - QUESTION-047
+bounds:
+- CLAIM-tmp6thmv
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; the network account filed in this batch -->
 
@@ -92,4 +94,4 @@ are applied, not over valuing diversity.
 ## Note of 2026-11-23: "transient" in two senses, from "Explain First Contact RL"
 <!-- inactive-ok-block: CLAIM-tmp6thmv ARG-tmpdnptq — new; the claim this account bounds and the argument that says how -->
 
-A60 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) argues "maintained diversity matters more than transient variety", where transient variety is opinion voiced with no enduring support. That is not this account's transient diversity, which is diversity of pursuit supported for a while and then given up, and is the virtue here. Read together (ARG-tmpdnptq), this account bounds A60's claim (CLAIM-tmp6thmv): diversity of pursuit kept indefinitely stops a group settling, so what A60 can ask to be maintained is capacity that can be taken up again, not pursuit. The note is the assistant's (Claude, in this session); adopting it is the owner's call.
+A60 §5 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-23) argues "maintained diversity matters more than transient variety", where transient variety is opinion voiced with no enduring support. That is not this account's transient diversity, which is diversity of pursuit supported for a while and then given up, and is the virtue here. Read together ([ARG-tmpdnptq](../arguments.d/ARG-tmpdnptq.md)), this account bounds A60's claim ([CLAIM-tmp6thmv](../claims.d/CLAIM-tmp6thmv.md)): diversity of pursuit kept indefinitely stops a group settling, so what A60 can ask to be maintained is capacity that can be taken up again, not pursuit. The note is the assistant's (Claude, in this session); adopting it is the owner's call.

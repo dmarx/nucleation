@@ -59,7 +59,7 @@ frontiers. Neither turn shows what the frontiers do determine.
 ## The construction
 
 Let F_Q(H, B) be the questions whose posing fits horizon H and budget B
-with the answer left aside, the query frontier (for posing alone, TERM-092's
+with the answer left aside, the query frontier (for posing alone, [TERM-092](../terms.d/TERM-092.md)'s
 inquiry frontier), and F_A(H, B) the questions whose adequate answer can be
 produced within H and B once the question is posed, the answer frontier.
 Costs are nonnegative and a schedule's use of time and resources is
@@ -74,9 +74,9 @@ monotone in what it schedules.
 - **Between them,** membership depends on what neither frontier records:
   whether the answer can start on a partial specification, whether the two
   draw on the same server or pool, and, for sets of questions, whether they
-  share preliminary work. That is CLAIM-tmpiwxla's route structure and
-  CLAIM-tmpq4crr's three couplings, and for demands with deadlines it is
-  CLAIM-tmpdvgrf's point that a change of response architecture can enlarge
+  share preliminary work. That is [CLAIM-tmpiwxla](CLAIM-tmpiwxla.md)'s route structure and
+  [CLAIM-tmpq4crr](CLAIM-tmpq4crr.md)'s three couplings, and for demands with deadlines it is
+  [CLAIM-tmpdvgrf](CLAIM-tmpdvgrf.md)'s point that a change of response architecture can enlarge
   what is jointly feasible without weakening any demand.
 
 ## The check
@@ -95,23 +95,23 @@ So 𝒥 is not a function of (F_Q, F_A). A54's sharing example runs the
 other way for sets of questions: two inquiries each costing 3 that share 2
 of preliminary work cost 4 together, not 6, so the joint set of questions
 is not the product of the single ones either, and it is a downward-closed
-complex as in CLAIM-tmpdvgrf.
+complex as in [CLAIM-tmpdvgrf](CLAIM-tmpdvgrf.md).
 
 ## What it does not say
 
-- Not more than CLAIM-tmpj15c6, filed beside it from A58 §2: that the
+- Not more than [CLAIM-tmpj15c6](CLAIM-tmpj15c6.md), filed beside it from A58 §2: that the
   frontiers at every budget do fix the joint pairs once the rule by which
   formulating and answering compose is declared, so that what is left over
   is the rule. The two agree: the organizations X, Y and Z above have the
   same frontiers at every horizon and differ only in that rule. This claim
   adds the bounds that hold whatever the rule is.
 - Not which object the record should call the inquiry frontier. Whether
-  TERM-092 should become the joint object or stay the query frontier beside
+  [TERM-092](../terms.d/TERM-092.md) should become the joint object or stay the query frontier beside
   a new term is the owner's choice, filed from U30 and A58.
 - Not the viability question A52 §7 asks, whether an organization can keep
   "a sufficiently rich joint inquiry–response frontier" as its resources
-  and questions evolve. That is TERM-tmpz28l1's viability kernel with the
+  and questions evolve. That is [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)'s viability kernel with the
   joint set in place of reorganization routes, and "rich" is undefined.
-- Not the owner's point about parallelism (CLAIM-tmp1m3ba) beyond the
+- Not the owner's point about parallelism ([CLAIM-tmp1m3ba](CLAIM-tmp1m3ba.md)) beyond the
   route structure: maintained perspectives change the state S, and so the
   activation times, which this static construction takes as given.

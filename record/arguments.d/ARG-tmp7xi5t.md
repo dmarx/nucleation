@@ -18,12 +18,12 @@ line:
 - learning-and-inquiry
 - realizability
 summary: >-
-  The support for A58's thesis (CLAIM-tmpx0wv9) in the exchange "Explain First Contact RL", 2026-11-23, by the
+  The support for A58's thesis ([CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md)) in the exchange "Explain First Contact RL", 2026-11-23, by the
   route that carries it: the shared budget of formulating and answering, as
-  derived in CLAIM-tmpj15c6. A58's own formal reason, two relations with the
+  derived in [CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md). A58's own formal reason, two relations with the
   same projections, shows only that a relation is not its projections and is
   not filed as an argument of its own; the conclusion's standing lives in
-  CLAIM-tmpx0wv9. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
+  [CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md). The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
 <!-- inactive-ok-file: CLAIM-tmpj15c6 CLAIM-tmpx0wv9 — Proposed; the premise and the conclusion -->
@@ -32,11 +32,11 @@ summary: >-
 
 ## The inference
 
-CLAIM-tmpj15c6's construction 1 gives two systems with the same askable
+[CLAIM-tmpj15c6](../claims.d/CLAIM-tmpj15c6.md)'s construction 1 gives two systems with the same askable
 questions and the same conditional answer frontier at a budget, and
 different jointly attainable pairs. Applied to organizations, an
 organization's capacity to ask and its capacity to answer, each measured
-alone, do not settle what it can inquire into: CLAIM-tmpx0wv9's third site.
+alone, do not settle what it can inquire into: [CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md)'s third site.
 
 ## Critical questions
 
@@ -56,5 +56,5 @@ alone, do not settle what it can inquire into: CLAIM-tmpx0wv9's third site.
 
 ## Verdict
 
-Proposed: it carries CLAIM-tmpx0wv9 as stated, read as a claim about
+Proposed: it carries [CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md) as stated, read as a claim about
 coupled resources.

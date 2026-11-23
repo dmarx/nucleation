@@ -20,9 +20,9 @@ line:
 rests_on:
 - CLAIM-564
 summary: >-
-  A gap fill (ADR-137), a correction to A50 §6 of the exchange "Explain
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)), a correction to A50 §6 of the exchange "Explain
   First Contact RL" (2026-11-23), which builds a time-indexed incidence
-  I_t ⊆ Q_t × A_t on CLAIM-564's Galois connection and says that "the
+  I_t ⊆ Q_t × A_t on [CLAIM-564](CLAIM-564.md)'s Galois connection and says that "the
   introduction of new questions or answers can change the apparent
   implication relations among existing demands." With meanings fixed, a
   new question cannot, and a new answer can only remove implications.
@@ -36,7 +36,7 @@ summary: >-
 
 A50 §6 takes queries Q and answers A with q I a when a adequately answers
 q, Ψ(S) the answers meeting every query in S and Φ(U) the queries every
-answer in U meets: CLAIM-564's antitone Galois connection. It distinguishes
+answer in U meets: [CLAIM-564](CLAIM-564.md)'s antitone Galois connection. It distinguishes
 query development, "new questions enter the formal context", from answer
 development, "new capabilities or organizational configurations enter the
 answer space", and says: "And the introduction of new questions or answers
@@ -55,7 +55,7 @@ unchanged:
    computed from their columns alone, so no implication or compatibility
    among them changes. What a new query does is split answers previously
    alike (A50's "reveal a distinction between organizations previously
-   considered equivalent", which is CLAIM-574's monotonicity) and add new
+   considered equivalent", which is [CLAIM-574](CLAIM-574.md)'s monotonicity) and add new
    sets containing itself.
 2. **A new answer** adds a row. Each Ψ(S) can only gain it, so a compatible
    set stays compatible and a failing implication stays failing (its
@@ -63,7 +63,7 @@ unchanged:
    compatible (A50's "One new answer might satisfy several previously
    incompatible demands") and can break an implication, never create one.
 3. **Implications among existing queries are created** only by losing
-   answers, which includes their becoming unaffordable (CLAIM-564: "fewer
+   answers, which includes their becoming unaffordable ([CLAIM-564](CLAIM-564.md): "fewer
    affordable configurations can only add implications"), or by revising
    the incidence, that is, what counts as an adequate answer.
 
@@ -85,4 +85,4 @@ incidence did so in 210.
 
 Proposed, the assistant's. Elementary, but it fixes which side of the
 query–answer game can create the dependencies among demands that
-CLAIM-564's lattice records.
+[CLAIM-564](CLAIM-564.md)'s lattice records.

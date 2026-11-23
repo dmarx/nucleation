@@ -28,7 +28,7 @@ complements:
 summary: >-
   A54's closing thesis, in the exchange "Explain First Contact RL"
   (ChatGPT, 2026-11-23), after the owner's conjecture that persisted
-  perspectives serve as conceptual nucleation sites (CLAIM-tmp1m3ba). A54
+  perspectives serve as conceptual nucleation sites ([CLAIM-tmp1m3ba](CLAIM-tmp1m3ba.md)). A54
   calls it "a stronger and more distinctive proposal than the usual claim
   that diverse viewpoints improve decision-making", since it ties diversity
   to the resource-bounded architecture of inquiry. The owner's U31, that
@@ -36,7 +36,7 @@ summary: >-
   it up. The wording is A's (ChatGPT, at A54 of the exchange "Explain
   First Contact RL"); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: CLAIM-tmp1m3ba CLAIM-tmpoexcl CLAIM-tmp104zk CLAIM-tmp0ww8w CLAIM-tmp37le7 CLAIM-tmp4u0mj CLAIM-721 TERM-tmpz28l1 — Proposed; the claims this rests on, complements or is read against -->
+<!-- inactive-ok-file: CLAIM-tmp1m3ba CLAIM-tmp0ww8w CLAIM-tmp37le7 CLAIM-tmp4u0mj CLAIM-721 TERM-tmpz28l1 — Proposed; the claims this rests on, complements or is read against -->
 
 # CLAIM-tmpumpxw: Adaptive governance is the maintenance of an ecology of partially independent inquiry-and-response capacities, differentiated enough for parallel exploration and integrated enough for coordinated action, in which persisted perspectives keep problem formulations and paths of development that the prevailing organization's demands for resources and authority would otherwise extinguish, so their value lies in keeping different capacities to discover which questions are worth asking
 
@@ -60,7 +60,7 @@ preserve alternative pathways; governance allocates the conditions of
 their persistence; and "Adaptive viability requires maintaining this
 ecology."
 
-On where nuclei live, after CLAIM-418 (perspectives are not agents):
+On where nuclei live, after [CLAIM-418](CLAIM-418.md) (perspectives are not agents):
 "**parallel depth pursuit need not mean establishing a separate department
 or authority for every idea**. A conceptual nucleus can be distributed
 across documents, methods, specialists, shared practices, and temporary
@@ -68,20 +68,20 @@ collaborations."
 
 ## Where the record holds parts of it
 
-- Unity without convergence on one perspective: CLAIM-tmp37le7 (a
+- Unity without convergence on one perspective: [CLAIM-tmp37le7](CLAIM-tmp37le7.md) (a
   self-like organization "unified ecologically, by a historically
   maintained regime in which differentiated perspectives stay viable"),
-  and for a record, CLAIM-tmp0ww8w, which this complements with the
+  and for a record, [CLAIM-tmp0ww8w](CLAIM-tmp0ww8w.md), which this complements with the
   inquiry-and-response capacities such an ecology keeps.
-- The extinguishing: CLAIM-406 and CLAIM-721, the loops in which a
+- The extinguishing: [CLAIM-406](CLAIM-406.md) and [CLAIM-721](CLAIM-721.md), the loops in which a
   capacity denied the chance to show itself produces the evidence for its
   denial.
-- The questions worth asking: CLAIM-475 (what can be asked is a product of
-  what has been realized) and TERM-092's inquiry frontier. A perspective
+- The questions worth asking: [CLAIM-475](CLAIM-475.md) (what can be asked is a product of
+  what has been realized) and [TERM-092](../terms.d/TERM-092.md)'s inquiry frontier. A perspective
   that keeps a different vocabulary keeps a different frontier.
 - Maintaining the joint frontier: A54 §7 calls this "much closer to our
-  earlier viability-of-reorganization thesis", which is TERM-tmpz28l1; the
-  joint set is CLAIM-tmp4u0mj.
+  earlier viability-of-reorganization thesis", which is [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md); the
+  joint set is [CLAIM-tmp4u0mj](CLAIM-tmp4u0mj.md).
 
 ## Standing
 

@@ -22,7 +22,7 @@ rests_on:
 complements:
 - CLAIM-342
 summary: >-
-  A gap fill (ADR-137) for A50 §§4–5 of the exchange "Explain First Contact
+  A gap fill ([ADR-137](../decisions.d/ADR-137.md)) for A50 §§4–5 of the exchange "Explain First Contact
   RL" (2026-11-23). A50 shows that anchoring the standard to an independent
   target d makes a = q = d stable, and that the unanchored system has a
   neutral mode; it does not say how fast the anchored system gets there, or
@@ -39,7 +39,7 @@ summary: >-
 ## The gap it fills
 
 A50 §4 adds an anchor, q̇ = β(a − q) + κ(d − q), and stops at stability
-(CLAIM-tmpep410). §5 says "the discrepancy disappears rapidly while their
+([CLAIM-tmpep410](CLAIM-tmpep410.md)). §5 says "the discrepancy disappears rapidly while their
 common position persists" for the unanchored model, and §4 that "Eventually
 the system exhibits excellent measured compliance. Yet neither process
 necessarily keeps the arrangement connected to independently justified
@@ -84,13 +84,13 @@ d closes slowly. Compliance measures adequacy only when κ is comparable to
 α + β, that is, when the standard answers to the independent target at
 least as strongly as to the respondent. This is the quantitative form of
 A50's "self-confirming coordination" for the anchored case, and of
-CLAIM-342's point that what anchors a loop is evidence that does not pass
+[CLAIM-342](CLAIM-342.md)'s point that what anchors a loop is evidence that does not pass
 through it: here, the share of the standard's movement that comes from d.
 
 ## What it does not say
 
 It is a linear two-variable model. It says nothing about an anchor that is
-itself wrong (CLAIM-tmpw11e6 holds that case) or that the respondent can
+itself wrong ([CLAIM-tmpw11e6](CLAIM-tmpw11e6.md) holds that case) or that the respondent can
 influence.
 
 ## Standing

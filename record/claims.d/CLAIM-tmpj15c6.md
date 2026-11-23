@@ -34,7 +34,7 @@ summary: >-
   least costs overstate what is jointly attainable. The wording is the assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpx0wv9 ARG-tmp7xi5t CLAIM-tmp3l7is CLAIM-tmp4u0mj — Proposed; the claim this supports, its argument, the authorization fill and the bounds filed from A52 and A54 -->
+<!-- inactive-ok-file: CLAIM-tmp3l7is CLAIM-tmp4u0mj — Proposed; the claim this supports, its argument, the authorization fill and the bounds filed from A52 and A54 -->
 
 # CLAIM-tmpj15c6: At one budget, the questions an agent can formulate and the answers it can attain once a question is supplied do not fix which question–answer pairs it can attain together, but their budget-indexed families do when the costs of formulating and answering compose by a declared rule; what is left over is the rule, and where the way a question is formulated changes what answering it costs, not even the least costs fix it
 
@@ -83,7 +83,7 @@ each result above, and that the indexed answer frontiers of A58's 𝓕_1 and
 
 ## Beside the bounds from A52 and A54
 
-CLAIM-tmp4u0mj, filed from A52 §7 and A54 §7 the same day, gives the bounds
+[CLAIM-tmp4u0mj](CLAIM-tmp4u0mj.md), filed from A52 §7 and A54 §7 the same day, gives the bounds
 the separate frontiers do fix: an outer bound, each process fitting alone,
 and an inner bound, the two run one after the other. Constructions 1 and 3
 are its organizations in miniature. Construction 4 qualifies its inner
@@ -101,7 +101,7 @@ what formulating does to answering) is not in either frontier. "Changes to
 the coupling between the two processes can expand, contract, or reshape the
 frontier even when their separately measured capabilities remain
 unchanged" (A58 §3) is construction 1 read the other way. An authorization
-stage is one more cost in the same composition (CLAIM-tmp3l7is).
+stage is one more cost in the same composition ([CLAIM-tmp3l7is](CLAIM-tmp3l7is.md)).
 
 ## Standing
 

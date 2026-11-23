@@ -28,12 +28,12 @@ bears_on:
 - QUESTION-tmpn4we1
 summary: >-
   A50 §§1 and 3 of the exchange "Explain First Contact RL" (ChatGPT,
-  2026-11-23), developing the owner's U26 (CLAIM-tmp61i14). A query is a
+  2026-11-23), developing the owner's U26 ([CLAIM-tmp61i14](CLAIM-tmp61i14.md)). A query is a
   practical question addressed to an organization, an answer "a history
   that demonstrates the required capability"; the score R_S(q; H, B) is
-  TERM-115's readiness indexed by query and budget. A50 calls the minimax
+  [TERM-115](../terms.d/TERM-115.md)'s readiness indexed by query and budget. A50 calls the minimax
   over response policies and query distributions "a robust interrogation
-  game" and names three forms of it. CLAIM-tmp62ldm and ARG-tmpo1l8y say
+  game" and names three forms of it. [CLAIM-tmp62ldm](CLAIM-tmp62ldm.md) and [ARG-tmpo1l8y](../arguments.d/ARG-tmpo1l8y.md) say
   when the formula is a game. The wording is A's (ChatGPT, at A50 of the
   exchange "Explain First Contact RL"); adopting it is the owner's call.
 ---
@@ -44,7 +44,7 @@ summary: >-
 
 ## The claim
 
-A50 §1 carries CLAIM-470 from questions about the world to "practical
+A50 §1 carries [CLAIM-470](CLAIM-470.md) from questions about the world to "practical
 questions addressed to an organization", such as "Can this industrial
 ecosystem replace a failed supplier within three days?" An answer "is no
 longer merely a verbal proposition. It is a successful realization: a
@@ -54,9 +54,9 @@ relation M(q, y) between queries and responses, the operational score is
 R_S(q; H, B) = Pr under π_S(an acceptable answer to q is realized by H
 within budget B),
 
-"a demand-relative extension" of TERM-115, evaluated "under the
+"a demand-relative extension" of [TERM-115](../terms.d/TERM-115.md), evaluated "under the
 organization's actual response policy, not merely under an ideal policy it
-could theoretically implement" (TERM-115 already says so).
+could theoretically implement" ([TERM-115](../terms.d/TERM-115.md) already says so).
 
 A50 §3 makes it a game. The query side "chooses what to test, when, and
 with what evidentiary standards"; the target side responds. With a loss
@@ -87,8 +87,8 @@ justified constraints."
 
 It gives a payoff only to the adversarial form, through ℓ; the diagnostic
 and developmental forms' query-side objectives are named in the table, not
-formalized (QUESTION-tmpn4we1). The assistant's analysis (CLAIM-tmp62ldm,
-argued in ARG-tmpo1l8y) shows that against any fixed policy the formula's
+formalized ([QUESTION-tmpn4we1](../questions.d/QUESTION-tmpn4we1.md)). The assistant's analysis ([CLAIM-tmp62ldm](CLAIM-tmp62ldm.md),
+argued in [ARG-tmpo1l8y](../arguments.d/ARG-tmpo1l8y.md)) shows that against any fixed policy the formula's
 worst query distribution is a single query, so that the query side's mixing
 does work only when one policy must serve several queries or the permitted
 distributions are restricted; a restriction is where the "justified

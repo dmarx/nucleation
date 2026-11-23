@@ -24,7 +24,7 @@ rests_on:
 summary: >-
   A gap in A52 §3 of the exchange "Explain First Contact RL" (ChatGPT,
   2026-11-23), filled. A52 derives the first-order condition for the best
-  depth of inquiry before execution (CLAIM-tmp2dr12) and concludes that
+  depth of inquiry before execution ([CLAIM-tmp2dr12](CLAIM-tmp2dr12.md)) and concludes that
   "The appropriate depth of questioning depends on the deadline", without
   saying how. The condition is necessary only. Here: a sufficient
   condition under which the best depth rises with the deadline, and a
@@ -37,7 +37,7 @@ summary: >-
 
 ## The gap
 
-CLAIM-tmp2dr12 (A52 §3): P(k) = p(k) F(H − t(k)), with the first-order
+[CLAIM-tmp2dr12](CLAIM-tmp2dr12.md) (A52 §3): P(k) = p(k) F(H − t(k)), with the first-order
 condition p′/p = t′ F′/F. A52 reads it as "The appropriate depth of
 questioning depends on the deadline and on the target's response
 dynamics." The condition is necessary for an interior maximum and can have
