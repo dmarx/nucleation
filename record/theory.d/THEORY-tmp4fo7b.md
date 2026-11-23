@@ -25,6 +25,7 @@ summary: >-
   from inheritance, for a non-traumatic exposure. Filed Proposed; the
   reading is the lead run's.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg NOTE-tmp18gag — filed by the lead run of 2026-11-23 -->
 
 # THEORY-tmp4fo7b: Lewis and colleagues report that, in families with a child conceived by assisted reproduction, mothers' and fathers' depression symptoms went with the child's depression and anxiety symptoms as strongly when the parent was genetically unrelated to the child as when related, and read this as environmental transmission not explained by shared adversity
 

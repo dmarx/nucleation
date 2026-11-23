@@ -46,6 +46,7 @@ summary: >-
   mother passes on at conception, but not gamete-borne epigenetic marks
   from genes.
 ---
+<!-- inactive-ok-file: THEORY-tmpo8don — filed by the lead run of 2026-11-23 -->
 
 # LIT-tmpr7q37: The links between prenatal stress and offspring development and psychopathology: disentangling environmental and inherited influences
 

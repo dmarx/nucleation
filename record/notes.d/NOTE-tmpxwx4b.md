@@ -29,6 +29,7 @@ summary: >-
   mothers were themselves prenatally exposed and raised in 1980 refugee
   families.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg CLAIM-644 CLAIM-tmpgv8bs ARG-tmpmenxz — filed by the lead run of 2026-11-23 -->
 
 # NOTE-tmpxwx4b: Epigenetic signatures of intergenerational exposure to violence in three generations of Syrian refugees
 

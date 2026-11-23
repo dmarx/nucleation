@@ -42,6 +42,7 @@ summary: >-
   environmental transmission. A rearing route for parental distress is
   real without any genetic or germline link.
 ---
+<!-- inactive-ok-file: NOTE-tmp18gag THEORY-tmp4fo7b — filed by the lead run of 2026-11-23 -->
 
 # LIT-tmpdsu42: Investigating Environmental Links Between Parent Depression and Child Depressive/Anxiety Symptoms Using an Assisted Conception Design
 

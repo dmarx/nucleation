@@ -25,6 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-2225 — Proposed; the reading of Syropoulos, Law, Coleman and Young, 2026-11-22 -->
 <!-- inactive-ok-file: CLAIM-491 THEORY-464 LIT-1759 LIT-1754 LIT-1740 LIT-1714 LIT-1687 LIT-1777 LIT-1716 LIT-1760 LIT-1724 — Proposed, Deferred or Unavailable; the thesis, claims and works the question is organised around, cited as open -->
+<!-- inactive-ok-file: LIT-1678 — filed by the lead run of 2026-11-23 -->
 
 # QUESTION-301: Is acting for one's legacy, for how one is remembered or for people who will live after one's death, self-interest on a self extended in time, as collectivism on the owner's thesis is self-interest on a self extended across people?
 
@@ -201,3 +202,15 @@ and being remembered are not measured; legacy appears only as prior work.
 With the same group's panel ([LIT-3084](../literature.d/LIT-3084.md)), which reports the cross-lagged
 path running from concern to self-continuity, Hershfield's offspring bridge
 ([NOTE-1259](../notes.d/NOTE-1259.md)) is not shown. The question stays open.
+
+## Note of 2026-11-23: LEAD-156's run, no bearing found
+
+LEAD-156 advances this question through Ord's *The Precipice*
+(LIT-1678), which the run did not attempt, and through the identity route
+of QUESTION-297, the past acting forward as legacy acts toward the
+future. The run searched for studies of descendants' distress over an
+ancestral injury against their identification with the group, the
+backward counterpart of acting for one's legacy, and found none (LEAD-156's
+note of today). The works read concern biological and family routes and
+do not bear on legacy as self-interest. Nothing is filed against this
+question.

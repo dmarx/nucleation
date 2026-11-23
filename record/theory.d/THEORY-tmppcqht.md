@@ -30,6 +30,7 @@ summary: >-
   separates is set out in CLAIM-tmp3qsdg and its alternative,
   CLAIM-tmpgv8bs.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg CLAIM-tmpgv8bs — filed by the lead run of 2026-11-23 -->
 
 # THEORY-tmppcqht: Mulligan and colleagues report that, among Syrian refugee families, grandchildren of women pregnant during the 1980 Hama violence differed at 14 DNA methylation sites from unexposed families, that directly exposed people differed at 21 other sites and prenatally exposed people at none, and read the first as a germline epigenetic signature of violence
 

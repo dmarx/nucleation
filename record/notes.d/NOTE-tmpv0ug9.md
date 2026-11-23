@@ -25,6 +25,7 @@ summary: >-
   adjustment for semen quality, age, BMI, smoking, alcohol and current
   symptoms. No offspring outcome is linked to the sperm.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg — filed by the lead run of 2026-11-23 -->
 
 # NOTE-tmpv0ug9: Exposure to childhood maltreatment is associated with specific epigenetic patterns in sperm
 

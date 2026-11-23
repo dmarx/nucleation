@@ -48,6 +48,7 @@ summary: >-
   a 1980 refugee family, so the design does not separate the germline
   from the womb, parenting or community. No phenotype was measured.
 ---
+<!-- inactive-ok-file: THEORY-tmppcqht — filed by the lead run of 2026-11-23 -->
 
 # LIT-tmpglael: Epigenetic signatures of intergenerational exposure to violence in three generations of Syrian refugees
 

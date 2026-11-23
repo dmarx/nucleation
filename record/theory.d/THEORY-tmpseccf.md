@@ -27,6 +27,7 @@ summary: >-
   half, the same men's children, with rearing removed, is missing. Filed
   Proposed; the reading is the lead run's.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg — filed by the lead run of 2026-11-23 -->
 
 # THEORY-tmpseccf: Tuulari, Bourgery and colleagues report that Finnish fathers who had suffered severe childhood maltreatment differed from fathers who had not in sperm DNA methylation at three regions and in the levels of dozens of sperm small RNAs, among them lower miR-34c-5p, and grant that transmission to offspring was not tested
 

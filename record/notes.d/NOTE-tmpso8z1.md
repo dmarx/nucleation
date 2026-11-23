@@ -28,6 +28,7 @@ summary: >-
   everything the gamete carries, genes and any epigenetic mark, on one
   side, and the womb and rearing on the other.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg CLAIM-644 NOTE-tmp18gag CLAIM-tmpv8nto — filed by the lead run of 2026-11-23 -->
 
 # NOTE-tmpso8z1: The links between prenatal stress and offspring development and psychopathology: disentangling environmental and inherited influences
 

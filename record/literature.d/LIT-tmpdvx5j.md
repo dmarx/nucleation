@@ -44,6 +44,7 @@ summary: >-
   from shared genetics, environment and behaviour "will continue to be
   problematic and is something that cannot easily be resolved".
 ---
+<!-- inactive-ok-file: LIT-1692 THEORY-tmplq0um — filed by the lead run of 2026-11-23 -->
 
 # LIT-tmpdvx5j: Biological Embedding of Early-Life Adversity and a Scoping Review of the Evidence for Intergenerational Epigenetic Transmission of Stress and Trauma in Humans
 

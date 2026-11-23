@@ -23,6 +23,7 @@ summary: >-
   for life events, income and class, are stronger for girls, and hold at
   both waves.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg — filed by the lead run of 2026-11-23 -->
 
 # NOTE-tmp18gag: Investigating Environmental Links Between Parent Depression and Child Depressive/Anxiety Symptoms Using an Assisted Conception Design
 

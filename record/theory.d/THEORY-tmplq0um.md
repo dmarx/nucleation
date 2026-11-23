@@ -28,6 +28,7 @@ summary: >-
   corroborates CLAIM-644 independently of the sceptics' school. Filed
   Proposed; the reading is the lead run's.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg CLAIM-644 — filed by the lead run of 2026-11-23 -->
 
 # THEORY-tmplq0um: Zhou and Ryan find, in a scoping review of human studies to mid-2023, that the evidence for intergenerational epigenetic transmission of stress and trauma is small, observational and mostly maternal, with two paternal-only studies and one measure of sperm, and hold that separating it from shared genes, environment and behaviour cannot easily be resolved
 

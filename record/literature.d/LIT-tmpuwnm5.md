@@ -44,6 +44,7 @@ summary: >-
   current symptoms. The authors grant that "epigenetic inheritance per se
   was not addressed".
 ---
+<!-- inactive-ok-file: THEORY-tmpseccf — filed by the lead run of 2026-11-23 -->
 
 # LIT-tmpuwnm5: Exposure to childhood maltreatment is associated with specific epigenetic patterns in sperm
 

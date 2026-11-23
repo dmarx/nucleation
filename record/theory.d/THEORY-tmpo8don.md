@@ -27,7 +27,7 @@ summary: >-
   comparison, and the limit of that design: a gamete-borne epigenetic mark
   falls with the genes. Filed Proposed; the reading is the lead run's.
 ---
-<!-- inactive-ok-file: LIT-tmpr7q37 NOTE-tmpso8z1 CLAIM-tmpv8nto CLAIM-tmp3qsdg — filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-tmpv8nto CLAIM-tmp3qsdg — filed by the lead run of 2026-11-23 -->
 
 # THEORY-tmpo8don: Rice and colleagues report that, in children conceived by IVF, a mother's late-pregnancy stress went with lower birth weight, shorter gestation and more antisocial behaviour whether or not she was the child's genetic mother, while its link with ADHD symptoms appeared only when she was, and read the first as prenatal environmental and the second as inherited
 

@@ -25,6 +25,7 @@ summary: >-
   environment and behaviour "cannot easily be resolved". The review gives
   the record a second-hand account of Yehuda et al. 2016 and 2014.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3qsdg CLAIM-644 LIT-1692 — filed by the lead run of 2026-11-23 -->
 
 # NOTE-tmp05o0u: Biological Embedding of Early-Life Adversity and a Scoping Review of the Evidence for Intergenerational Epigenetic Transmission of Stress and Trauma in Humans
 
@@ -54,9 +55,9 @@ table.
   generations, although interestingly in opposing directions", with
   parents "10% higher" and offspring "7.7% lower". The analysis "controlled
   for current PTSD (51.6% of the Holocaust-exposed parents), childhood
-  trauma in the offspring, or genetic variation in the gene. Potential
-  epigenetic effects in maternal or paternal gametes could not, however,
-  be investigated."
+  trauma in the offspring, or genetic variation in the gene." The
+  reviewers add: "Potential epigenetic effects in maternal or paternal
+  gametes could not, however, be investigated."
 - **Yehuda et al. 2014 and Bierer et al. 2020** (Table 1): offspring
   "conceived after trauma" of Holocaust survivors. In 2014, NR3C1
   methylation was higher with paternal-only PTSD and lower with both
@@ -95,10 +96,11 @@ table.
 - **CLAIM-644** (corroboration). An independent statement of the scope
   the claim takes from Horsthemke, by authors sympathetic to the
   epigenetic route.
-- **LIT-1692 and LIT-1715** (second-hand content). The FKBP5 study's
-  controls for current PTSD, offspring childhood trauma and genotype, and
-  the authors' own concession about gametes, are not in the record's
-  account from Youssef et al. (NOTE-1310). This adds them, at second hand.
+- **LIT-1692** (second-hand content). The FKBP5 study's controls for
+  current PTSD, offspring childhood trauma and genotype are not in the
+  record's account from Youssef et al. (NOTE-1310). This adds them, at
+  second hand, with Zhou and Ryan's remark that gametes "could not ... be
+  investigated".
 - **CLAIM-tmp3qsdg** (ground). The survey bounds the search: none of the
   22 publications is described in its table as using donor gametes or
   adoption. Whether the exposed father raised the child is not coded, so
