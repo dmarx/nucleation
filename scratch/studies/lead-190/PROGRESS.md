@@ -39,8 +39,22 @@ File an executed-study CASE, CLAIMs, dated notes, a changelog fragment.
 ## Done
 
 - Checked the record: not already held.
-- model.py, test_model.py (27 tests pass), run.py (e1-e5).
+- model.py, test_model.py (27 tests pass), run.py (e1-e6), README.md.
+- All six experiments run; results/*.json committed.
+- Filed: CASE-tmpw3vii (executed-study), CLAIM-tmp5wozo (role vs scalar),
+  CLAIM-tmppm30v (where a relevance-scored meaning goes), CLAIM-tmpdpnid
+  (bound vs unbound), CLAIM-tmpoc6mo (delegation to the extremes), all
+  Proposed, demonstrated; changelog fragment record/changelog.d/lead-190.md.
+- Dated notes of 2026-11-23 on LEAD-190, CLAIM-281, CLAIM-285, CASE-092,
+  CASE-363, CLAIM-375, CLAIM-502, QUESTION-089, QUESTION-090.
+- Alternatives filed inside CLAIM-tmp5wozo (two readings of CLAIM-281's
+  role indexing; lean A) and CLAIM-tmpoc6mo (two readings of CLAIM-285's
+  "aligned"; lean A).
+- LEAD-015's two-institution model was not needed (one population) and was
+  not loaded.
 
 ## Next
 
-- Run e1-e5; write README; file CASE, CLAIMs, notes, changelog.
+- Nothing for the worker. For the owner: the readings, statuses, and
+  whether LEAD-190 is done. Not run: other decision rules, unbalanced
+  populations, coalitions, noisy or side-correlated relevance.
