@@ -22,7 +22,7 @@ summary: >-
   a monitor's presence cuts penalised violations by 18–25% while it lasts,
   and the effect and an ethics-talk measure both fade after it; mandated
   board changes go with fewer violations after the agreement ends.
-  Account in THEORY-tmpvtotj; used in CASE-tmphvbov.
+  Account in [THEORY-tmpvtotj](../theory.d/THEORY-tmpvtotj.md); used in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpvtotj CASE-tmphvbov CLAIM-tmpm9a3z CLAIM-tmpuvgxw CLAIM-tmpioexk — new; the account, the study and the claims filed from this reading -->
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the claims whose test this reading bears on -->
@@ -89,20 +89,20 @@ to change), after Kotter and Heskett.
 
 ## Bearing on the record
 
-- **CLAIM-432, part 5 (evidence, partial).** Its first half, that a
+- **[CLAIM-432](../claims.d/CLAIM-432.md), part 5 (evidence, partial).** Its first half, that a
   corporation changed only by sanction reverts when the sanction lifts, is
   what this study finds of the change a monitor makes: it lasts while the
   monitor is there. Both arms are sanctioned, so the contrast is between
   more and less sanction, not between sanction and redesign. Filed as
-  CLAIM-tmpm9a3z.
-- **CLAIM-431 (no separation).** Reversion after a sanction lifts is also
+  [CLAIM-tmpm9a3z](../claims.d/CLAIM-tmpm9a3z.md).
+- **[CLAIM-431](../claims.d/CLAIM-431.md) (no separation).** Reversion after a sanction lifts is also
   what the prudence reading predicts; the study cannot tell the two apart.
   The outcome is penalised violations, so it measures how often harm became
   a sanction, not whether harm was weighed; reputation and benefit are not
   held fixed.
 - **The board-change result** admits two readings, filed as alternatives
-  (CLAIM-tmpuvgxw, CLAIM-tmpioexk).
-- **QUESTION-265 (background).** Evidence on what in a corporation would
+  ([CLAIM-tmpuvgxw](../claims.d/CLAIM-tmpuvgxw.md), [CLAIM-tmpioexk](../claims.d/CLAIM-tmpioexk.md)).
+- **[QUESTION-265](../questions.d/QUESTION-265.md) (background).** Evidence on what in a corporation would
   outlast a threat.
 
 ## Limitations

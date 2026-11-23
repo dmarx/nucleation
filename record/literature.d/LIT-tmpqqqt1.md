@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpwvqch), sections I–III and the signature
+  read 2026-11-23 ([NOTE-tmpwvqch](../notes.d/NOTE-tmpwvqch.md)), sections I–III and the signature
   pages, from the University of North Texas end-of-term 2008 web archive's
   capture of oig.hhs.gov/fraud/cia/docs/CIAPurdue.pdf (capture of
   2008-10-07), a federal agency's own publication; a dated primary
-  document coded as data in CASE-tmphvbov.
+  document coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 title: 'Corporate Integrity Agreement between the Office of Inspector General of the Department of Health and Human Services and Purdue Pharma L.P.'
 version: 1
 history:
@@ -35,8 +35,8 @@ summary: >-
   The five-year compliance agreement Purdue Pharma entered with HHS's
   Office of Inspector General beside its 2007 settlement: its term, and
   the duties it set, among them sales compensation designed so that
-  incentives do not motivate improper promotion. Read in NOTE-tmpwvqch;
-  coded as data in CASE-tmphvbov.
+  incentives do not motivate improper promotion. Read in [NOTE-tmpwvqch](../notes.d/NOTE-tmpwvqch.md);
+  coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpwvqch CASE-tmphvbov — new; the reading and the study that codes this document -->
 

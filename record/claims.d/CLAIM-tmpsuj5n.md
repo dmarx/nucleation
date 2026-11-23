@@ -31,7 +31,7 @@ bears_on:
 grounds:
 - CASE-tmphvbov
 summary: >-
-  What LEAD-101's test can show. CLAIM-432's part 5 and CLAIM-431's first
+  What [LEAD-101](../leads.d/LEAD-101.md)'s test can show. [CLAIM-432](CLAIM-432.md)'s part 5 and [CLAIM-431](CLAIM-431.md)'s first
   answer both make it the test between remorse and prudence in a
   corporation. Worked through, the two readings predict the same of a
   sanction-only corporation (it reverts), and the same of a redesigned one
@@ -39,7 +39,7 @@ summary: >-
   for a redesigned corporation once the sanction is lifted and keeping the
   procedure earns it nothing in reputation or benefit, which is why the
   lead's "held fixed" clause carries the test. So the reversion found in
-  CASE-tmphvbov is no evidence between them. The wording is the
+  [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md) is no evidence between them. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CASE-tmphvbov CLAIM-tmpm9a3z — new, Proposed; the study whose coding rules this claim was found in, and its quantitative finding -->
@@ -51,13 +51,13 @@ summary: >-
 
 Take the two readings as the record states them.
 
-- **R (CLAIM-432).** A harm to others reaches a corporation's decisions
+- **R ([CLAIM-432](CLAIM-432.md)).** A harm to others reaches a corporation's decisions
   either as its own concern, through a procedure or role duty (functional
   remorse), or as a threat to its other concerns, through a regulator or
   market (functional fear). Part 5: "a corporation changed only by sanction
   reverts when the sanction lifts, and one whose concerns were redesigned
   does not."
-- **P (CLAIM-431).** Every such procedure "was put there for its own ends,
+- **P ([CLAIM-431](CLAIM-431.md)).** Every such procedure "was put there for its own ends,
   reputation, liability or recruitment", so harm reaches the decisions, one
   step back, as a threat; there is no remorse apart from fear.
 
@@ -87,15 +87,15 @@ installed for. Only the third row gives different predictions. So:
 - That the third row cannot be observed. It needs post-lift conduct that
   was private at the time and costly to the firm, which internal records
   released later can show.
-- That CLAIM-431 or CLAIM-432 is right. It says only which observation
+- That [CLAIM-431](CLAIM-431.md) or [CLAIM-432](CLAIM-432.md) is right. It says only which observation
   would tell.
 - That P's other route to an answer (origin is not current function, as in
   a person) depends on this test. It does not.
 
 ## Bearing
 
-The reversion found in CASE-tmphvbov, in the quantitative arm
-(CLAIM-tmpm9a3z) and in the Purdue case, sits in the first row. The one
+The reversion found in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md), in the quantitative arm
+([CLAIM-tmpm9a3z](CLAIM-tmpm9a3z.md)) and in the Purdue case, sits in the first row. The one
 redesigned case coded, Siemens, sits in the second: its compliance leaders
 explained the system by prosecution and exclusion, and its costly
 weighing happened while the monitor was there.

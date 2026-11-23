@@ -1,11 +1,11 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpf8oxn), the sections on the 2007 settlements,
+  read 2026-11-23 ([NOTE-tmpf8oxn](../notes.d/NOTE-tmpf8oxn.md)), the sections on the 2007 settlements,
   the corporate integrity agreement, Region Zero and the years 2009–2014,
   from the redacted public version posted by the Indiana Attorney
   General's office at content.govdelivery.com (attachment 1215129); a
-  public court filing, coded as data in CASE-tmphvbov. Its statements
+  public court filing, coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md). Its statements
   are a state's allegations, not findings.
 title: 'State of Indiana v. Richard Sackler et al., Complaint'
 version: 1
@@ -41,7 +41,7 @@ summary: >-
   reports, that Purdue tracked prescribers it suspected of abuse and
   diversion (Region Zero) and reported the revenue each provided, and that
   promotion continued and widened after the corporate integrity agreement
-  of 2007. Read in NOTE-tmpf8oxn; coded as data in CASE-tmphvbov.
+  of 2007. Read in [NOTE-tmpf8oxn](../notes.d/NOTE-tmpf8oxn.md); coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
 <!-- inactive-ok-file: NOTE-tmpf8oxn CASE-tmphvbov — new; the reading and the study that codes this document -->
 

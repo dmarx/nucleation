@@ -18,7 +18,7 @@ summary: >-
   reseller models although its authors saw the risk; a bribe offer is
   reported in the year the monitorship concluded; a dismissed senior
   manager alleged in 2013 that the practice continued. Coded as data in
-  CASE-tmphvbov.
+  [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
 <!-- inactive-ok-file: CASE-tmphvbov — new; the study that codes this reading -->
 <!-- inactive-ok-file: CLAIM-432 — Proposed; the claim this reading illustrates -->
@@ -67,10 +67,10 @@ Third-party reseller risk; red flags; business-partner tool.
 
 ## Bearing on the record
 
-- **CASE-tmphvbov.** The post-monitorship evidence on Siemens: of the
+- **[CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).** The post-monitorship evidence on Siemens: of the
   same kind of harm, by report and allegation, not by a finding against
   Siemens.
-- **CLAIM-432 (illustration).** A procedure built to weigh the harm (the
+- **[CLAIM-432](../claims.d/CLAIM-432.md) (illustration).** A procedure built to weigh the harm (the
   red-flag tool) was exempted where it would have bitten: a signal kept
   and denied precedence inside a redesigned firm. That is the claim's
   distinction appearing within the "redesigned" arm, which complicates

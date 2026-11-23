@@ -32,29 +32,29 @@ grounds:
 - CASE-tmphvbov
 summary: >-
   One of two readings of a result in Gallo, Lynch and Tomy
-  (THEORY-tmpvtotj): agreements that mandated board changes are followed
+  ([THEORY-tmpvtotj](../theory.d/THEORY-tmpvtotj.md)): agreements that mandated board changes are followed
   by fewer penalised violations after they end (−15%, t −1.71, full
   sample; −24%, t −2.30, matched), where the monitor's effect does not
-  last. Read through CLAIM-432's part 5, the change that outlasts the
+  last. Read through [CLAIM-432](CLAIM-432.md)'s part 5, the change that outlasts the
   sanction is the one to the corporation's structure of authority, not to
-  its conduct under watch. Alternative to CLAIM-tmpioexk, which the run
+  its conduct under watch. Alternative to [CLAIM-tmpioexk](CLAIM-tmpioexk.md), which the run
   leans to. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpvtotj CASE-tmphvbov CLAIM-tmpioexk CLAIM-tmpsuj5n — new, Proposed; the account and study this reading rests on, the alternative reading, and the claim on what the test can show -->
+<!-- inactive-ok-file: THEORY-tmpvtotj CLAIM-tmpioexk CLAIM-tmpsuj5n — new, Proposed; the account and study this reading rests on, the alternative reading, and the claim on what the test can show -->
 <!-- inactive-ok-file: CLAIM-432 — Proposed; the claim whose prediction this reading supports -->
 
 # CLAIM-tmpuvgxw: That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends, while a monitor's effect fades, is evidence for the redesign half of the sanction-versus-redesign prediction: a change in who holds authority over decisions outlasts the sanction, a change in conduct under watch does not
 
 ## The reading
 
-CLAIM-432 says a corporation's harms reach its decisions as its concern
+[CLAIM-432](CLAIM-432.md) says a corporation's harms reach its decisions as its concern
 through "procedures and role duties", and that redesign of those concerns,
 not sanction, is what lasts. Gallo, Lynch and Tomy find two kinds of
 change after an agreement: a monitor's presence, which cuts violations
 only while it lasts, and mandated board changes, which go with fewer
 violations after it ends. A board change alters who holds authority over
-the corporation's decisions, the structure CLAIM-432's part 5 calls
+the corporation's decisions, the structure [CLAIM-432](CLAIM-432.md)'s part 5 calls
 redesign. On this reading the study's two results are the two halves of
 part 5: the sanction's effect reverts, the redesign's does not.
 
@@ -62,11 +62,11 @@ part 5: the sanction's effect reverts, the redesign's does not.
 
 - That the changed boards weigh harms: the outcome is penalties.
 - That reputation and benefit were held fixed.
-- That this separates CLAIM-432 from the prudence objection; by
-  CLAIM-tmpsuj5n it does so only if keeping the new board's discipline no
+- That this separates [CLAIM-432](CLAIM-432.md) from the prudence objection; by
+  [CLAIM-tmpsuj5n](CLAIM-tmpsuj5n.md) it does so only if keeping the new board's discipline no
   longer pays, which the study does not show.
 
 ## The alternative
 
-CLAIM-tmpioexk reads the same result as no evidence for redesign at all.
+[CLAIM-tmpioexk](CLAIM-tmpioexk.md) reads the same result as no evidence for redesign at all.
 The run leans to that reading; this one is filed so the owner can choose.

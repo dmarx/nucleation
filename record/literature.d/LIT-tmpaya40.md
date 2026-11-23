@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 in full (NOTE-tmpejwjy), from the open-access copy in
+  read 2026-11-23 in full ([NOTE-tmpejwjy](../notes.d/NOTE-tmpejwjy.md)), from the open-access copy in
   UChicago Knowledge (knowledge.uchicago.edu/records/4bhdp-zzh05, the
   journal's early-view PDF under CC BY-NC 4.0), for the study filed as
-  CASE-tmphvbov. The online appendix was not read.
+  [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md). The online appendix was not read.
 title: 'Out of Site, Out of Mind? The Role of the Government-Appointed Corporate Monitor'
 version: 1
 history:
@@ -42,10 +42,10 @@ summary: >-
   violations than firms without one while the monitor is there, and not
   after it leaves; an ethics-and-compliance measure from earnings calls
   rises and falls with it. The one open study found that estimates a
-  sanction's effect after the sanction ends. Read in NOTE-tmpejwjy; its
-  account is THEORY-tmpvtotj.
+  sanction's effect after the sanction ends. Read in [NOTE-tmpejwjy](../notes.d/NOTE-tmpejwjy.md); its
+  account is [THEORY-tmpvtotj](../theory.d/THEORY-tmpvtotj.md).
 ---
-<!-- inactive-ok-file: NOTE-tmpejwjy THEORY-tmpvtotj CASE-tmphvbov — new; the reading, the account and the study filed from this work -->
+<!-- inactive-ok-file: THEORY-tmpvtotj CASE-tmphvbov — new; the reading, the account and the study filed from this work -->
 
 # LIT-tmpaya40: Out of Site, Out of Mind? The Role of the Government-Appointed Corporate Monitor
 
@@ -65,5 +65,5 @@ Gallo, Lynch and Tomy (2023), *Journal of Accounting Research* 61(5) — doi:10.
 
 ## Standing in the record
 
-The quantitative arm of the study run for LEAD-101 (CASE-tmphvbov). It
+The quantitative arm of the study run for [LEAD-101](../leads.d/LEAD-101.md) ([CASE-tmphvbov](../cases.d/CASE-tmphvbov.md)). It
 measures detected, penalised violations, not whether harms are weighed.

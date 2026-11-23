@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 in full (NOTE-tmpnnzbf), from 100Reporters' own site
+  read 2026-11-23 in full ([NOTE-tmpnnzbf](../notes.d/NOTE-tmpnnzbf.md)), from 100Reporters' own site
   (100r.org/2021/07/siemens/), part II of a series co-published with the
-  Associated Press; reputable reporting, coded as data in CASE-tmphvbov.
+  Associated Press; reputable reporting, coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
   Part I was not read.
 title: 'Slammed for Bribery, Siemens Continued to Ignore Red Flags'
 version: 1
@@ -36,9 +36,9 @@ summary: >-
   from red-flag screening while noting they could be abused; a Chinese
   verdict reports a bribe offer in the year the monitorship concluded; and
   a 2013 email from a dismissed senior sales manager alleged the practice
-  went on. Read in NOTE-tmpnnzbf; coded as data in CASE-tmphvbov.
+  went on. Read in [NOTE-tmpnnzbf](../notes.d/NOTE-tmpnnzbf.md); coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
-<!-- inactive-ok-file: NOTE-tmpnnzbf CASE-tmphvbov — new; the reading and the study that codes this document -->
+<!-- inactive-ok-file: CASE-tmphvbov — new; the reading and the study that codes this document -->
 
 # LIT-tmptlfo6: Slammed for Bribery, Siemens Continued to Ignore Red Flags
 

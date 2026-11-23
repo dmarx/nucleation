@@ -33,11 +33,11 @@ reported_in:
 - NOTE-tmpnnzbf
 - NOTE-tmp59pkn
 summary: >-
-  LEAD-101 run on open sources: does a corporation changed only by sanction
+  [LEAD-101](../leads.d/LEAD-101.md) run on open sources: does a corporation changed only by sanction
   keep weighing others' harms once the sanction lifts, and does a
   redesigned one, with reputation and benefit held fixed? Coding rules were
   written before the table. One quantitative study (Gallo, Lynch and Tomy
-  2023; THEORY-tmpvtotj) finds that a monitor cuts penalised violations by
+  2023; [THEORY-tmpvtotj](../theory.d/THEORY-tmpvtotj.md)) finds that a monitor cuts penalised violations by
   18–25% only while it is on site. Three cases were coded: Purdue Pharma
   (sanction only; promotion widened after its integrity agreement ended in
   2012, by a state's allegations), Siemens (redesigned by an outside body's
@@ -46,8 +46,8 @@ summary: >-
   and Wells Fargo, the record's own case (growth restriction lifted on
   2025-06-03; too recent). No case meets the lead's standard: none holds
   reputation and benefit fixed, none of the post-lift outcomes is a finding
-  against the firm, and the outcomes found are predicted by CLAIM-431 as
-  well as by CLAIM-432. The wording is the assistant's (Claude, in this
+  against the firm, and the outcomes found are predicted by [CLAIM-431](../claims.d/CLAIM-431.md) as
+  well as by [CLAIM-432](../claims.d/CLAIM-432.md). The wording is the assistant's (Claude, in this
   session); adopting it is the owner's call.
 ---
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 CLAIM-039 — Proposed; the claims whose test this study runs -->
@@ -57,10 +57,10 @@ summary: >-
 
 ## What was done
 
-LEAD-101 asks for cases "where a sanction ended and harm-weighing can be
-traced after", to test CLAIM-432's part 5: "a corporation changed only by
+[LEAD-101](../leads.d/LEAD-101.md) asks for cases "where a sanction ended and harm-weighing can be
+traced after", to test [CLAIM-432](../claims.d/CLAIM-432.md)'s part 5: "a corporation changed only by
 sanction reverts when the sanction lifts, and one whose concerns were
-redesigned does not", which is also CLAIM-431's first route to an answer.
+redesigned does not", which is also [CLAIM-431](../claims.d/CLAIM-431.md)'s first route to an answer.
 The lead's title adds "with reputation and benefit held fixed".
 
 Everything is under scratch/studies/lead-101/: `CODING.md` (the rules,
@@ -98,7 +98,7 @@ Violation Tracker answered 403. None was retried.
 
 ## The quantitative arm
 
-Gallo, Lynch and Tomy (2023; LIT-tmpaya40, NOTE-tmpejwjy, THEORY-tmpvtotj):
+Gallo, Lynch and Tomy (2023; [LIT-tmpaya40](../literature.d/LIT-tmpaya40.md), [NOTE-tmpejwjy](../notes.d/NOTE-tmpejwjy.md), [THEORY-tmpvtotj](../theory.d/THEORY-tmpvtotj.md)):
 193 deferred and non-prosecution agreements with listed firms, 2001–2019.
 
 | term (Table 5) | full sample | CEM matched | entropy balanced |
@@ -121,7 +121,7 @@ fixed; both arms sanctioned.
 | Siemens | DOJ/SEC monitorship, 2012 | R | W+ and W- | W- | through | report, allegation | exposed | aligned |
 | Wells Fargo | Fed growth restriction, 2025-06-03 | U | — | unripe | — | — | — | — |
 
-- **Purdue** (LIT-tmpqqqt1, LIT-tmpy9yua). The 2007 agreement ran five
+- **Purdue** ([LIT-tmpqqqt1](../literature.d/LIT-tmpqqqt1.md), [LIT-tmpy9yua](../literature.d/LIT-tmpy9yua.md)). The 2007 agreement ran five
   years and required compliance machinery, not a procedure able to stop
   sales on harm grounds. Purdue kept its own list of prescribers it
   suspected of abuse and diversion (Region Zero); by Indiana's complaint,
@@ -130,7 +130,7 @@ fixed; both arms sanctioned.
   initiatives for 2013 included promotion to opioid-naive and elderly
   patients. After a 2013 subpoena the detailed board reports stopped and
   other information was, in the complaint's words, to be "relay[ed] orally". Arm S; W- during and after.
-- **Siemens** (LIT-tmp5i00q, LIT-tmptlfo6). After the 2008 settlement it
+- **Siemens** ([LIT-tmp5i00q](../literature.d/LIT-tmp5i00q.md), [LIT-tmptlfo6](../literature.d/LIT-tmptlfo6.md)). After the 2008 settlement it
   built a compliance organization of about 600 positions and EUR 100
   million, which the Norwegian fund's Council on Ethics judged in June 2012
   left it no riskier than comparable firms: arm R. During the monitorship
@@ -141,7 +141,7 @@ fixed; both arms sanctioned.
   manager in the year the monitorship concluded, and a dismissed senior
   manager alleged in 2013 that the practice went on. Its compliance leaders
   gave staff the reasons of prosecution and exclusion.
-- **Wells Fargo** (LIT-tmppg6h5; CASE-151). The growth restriction was
+- **Wells Fargo** ([LIT-tmppg6h5](../literature.d/LIT-tmppg6h5.md); [CASE-151](CASE-151.md)). The growth restriction was
   lifted on 2025-06-03 on improved governance and risk management; the
   action's other provisions stay. Under six months of window; unripe.
 
@@ -150,14 +150,14 @@ fixed; both arms sanctioned.
 1. **No case meets the lead's standard.** `results.json`: Purdue and
    Siemens lack a finding-level post-lift outcome and a reputation and
    benefit that would not explain it; Wells Fargo lacks a window. The test
-   CLAIM-431 and CLAIM-432 call unrun remains unrun in the form the lead
+   [CLAIM-431](../claims.d/CLAIM-431.md) and [CLAIM-432](../claims.d/CLAIM-432.md) call unrun remains unrun in the form the lead
    sets.
 2. **What the sanction itself produces does not outlast it**, in the one
-   estimate that separates the periods (CLAIM-tmpm9a3z). This is the first
-   half of CLAIM-432's prediction, but CLAIM-431's prudence reading predicts
+   estimate that separates the periods ([CLAIM-tmpm9a3z](../claims.d/CLAIM-tmpm9a3z.md)). This is the first
+   half of [CLAIM-432](../claims.d/CLAIM-432.md)'s prediction, but [CLAIM-431](../claims.d/CLAIM-431.md)'s prudence reading predicts
    it too.
 3. **The prediction separates the claims only in the redesigned arm**
-   (CLAIM-tmpsuj5n). Reversion of a sanction-only firm cannot tell remorse
+   ([CLAIM-tmpsuj5n](../claims.d/CLAIM-tmpsuj5n.md)). Reversion of a sanction-only firm cannot tell remorse
    from prudence; only a redesigned firm's conduct after the lift, with
    reputation and benefit fixed, can.
 4. **The one redesigned case does not supply that.** Siemens's weighing at
@@ -165,10 +165,10 @@ fixed; both arms sanctioned.
    evidence is of the harm continuing, by report and allegation; and its
    procedure was explained by threat. Within it, a harm-weighing tool was
    held and denied precedence where it would have cost sales, which is
-   CLAIM-432's distinction inside the arm meant to lack it.
+   [CLAIM-432](../claims.d/CLAIM-432.md)'s distinction inside the arm meant to lack it.
 5. **The board-change result** in the quantitative arm is open to two
-   readings, filed as alternatives: CLAIM-tmpuvgxw (evidence that redesign
-   persists where sanction does not) and CLAIM-tmpioexk (no separation,
+   readings, filed as alternatives: [CLAIM-tmpuvgxw](../claims.d/CLAIM-tmpuvgxw.md) (evidence that redesign
+   persists where sanction does not) and [CLAIM-tmpioexk](../claims.d/CLAIM-tmpioexk.md) (no separation,
    since a board changed under sanction and judged by penalties fits
    prudence equally). The run leans to the second.
 
@@ -178,5 +178,5 @@ A firm coded R whose post-lift decision weighed a harm at a cost, recorded
 in documents not made public at the time (internal records released later
 in litigation or by a monitor's public report), set against an S firm with
 the same exposure. Wells Fargo's window opens in mid-2027 on the rules'
-two-year ripeness test. CLAIM-039 is untouched: nothing here bears on
+two-year ripeness test. [CLAIM-039](../claims.d/CLAIM-039.md) is untouched: nothing here bears on
 whether the affect is functional, only on which affect.

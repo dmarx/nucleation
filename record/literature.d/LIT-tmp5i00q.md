@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 in full (NOTE-tmpu1nx5), the unofficial English
+  read 2026-11-23 in full ([NOTE-tmpu1nx5](../notes.d/NOTE-tmpu1nx5.md)), the unofficial English
   translation posted by the Norwegian government at
   files.nettsteder.regjeringen.no (redacted edition, 8 pages); a public
-  recommendation by a state body, coded as data in CASE-tmphvbov.
+  recommendation by a state body, coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 title: 'Recommendation to remove Siemens AG from the watch list of the Norwegian Government Pension Fund Global'
 version: 1
 history:
@@ -34,10 +34,10 @@ summary: >-
   made with the company's compliance officers and its US-appointed monitor.
   It records a planned bribe in Kuwait stopped and self-reported in 2011,
   and the compliance leaders' own case for compliance, which is the risk of
-  prosecution and exclusion. Read in NOTE-tmpu1nx5; coded as data in
-  CASE-tmphvbov.
+  prosecution and exclusion. Read in [NOTE-tmpu1nx5](../notes.d/NOTE-tmpu1nx5.md); coded as data in
+  [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
-<!-- inactive-ok-file: NOTE-tmpu1nx5 CASE-tmphvbov — new; the reading and the study that codes this document -->
+<!-- inactive-ok-file: CASE-tmphvbov — new; the reading and the study that codes this document -->
 
 # LIT-tmp5i00q: Recommendation to remove Siemens AG from the watch list of the Norwegian Government Pension Fund Global
 

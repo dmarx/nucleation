@@ -218,7 +218,7 @@ The Federal Reserve lifted the asset growth restriction of its 2018
 enforcement action on 2025-06-03, finding that the bank had improved "its
 governance and risk management program" and completed a third-party review;
 "The other provisions in the 2018 enforcement action will remain in place"
-(LIT-tmppg6h5, NOTE-tmp59pkn). For LEAD-101's run (CASE-tmphvbov) this
+([LIT-tmppg6h5](../literature.d/LIT-tmppg6h5.md), [NOTE-tmp59pkn](../notes.d/NOTE-tmp59pkn.md)). For [LEAD-101](../leads.d/LEAD-101.md)'s run ([CASE-tmphvbov](CASE-tmphvbov.md)) this
 case is coded unripe: under six months of window, and the release names no
 procedure that weighs harm to customers. It is the case on which
-CLAIM-432's part 5 could next be tested, from mid-2027. Unchanged.
+[CLAIM-432](../claims.d/CLAIM-432.md)'s part 5 could next be tested, from mid-2027. Unchanged.

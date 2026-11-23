@@ -30,13 +30,13 @@ grounds:
 - THEORY-tmpvtotj
 - CASE-tmphvbov
 summary: >-
-  Gallo, Lynch and Tomy's estimate (THEORY-tmpvtotj), as coded in
-  CASE-tmphvbov: a monitor cuts penalised violations by about a quarter
+  Gallo, Lynch and Tomy's estimate ([THEORY-tmpvtotj](../theory.d/THEORY-tmpvtotj.md)), as coded in
+  [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md): a monitor cuts penalised violations by about a quarter
   during the agreement, and the post-agreement coefficient is small and
   not distinguishable from zero in every specification. It is the first
-  half of CLAIM-432's part 5, a sanction's effect reverting when the
+  half of [CLAIM-432](CLAIM-432.md)'s part 5, a sanction's effect reverting when the
   sanction lifts, found for the increment of sanction a monitor adds. It
-  does not separate CLAIM-432 from CLAIM-431 (CLAIM-tmpsuj5n). The wording
+  does not separate [CLAIM-432](CLAIM-432.md) from [CLAIM-431](CLAIM-431.md) ([CLAIM-tmpsuj5n](CLAIM-tmpsuj5n.md)). The wording
   is the assistant's (Claude, in this session); adopting it is the owner's
   call.
 ---
@@ -51,7 +51,7 @@ In 193 deferred and non-prosecution agreements with listed US firms,
 2001–2019, firms required to take an on-site monitor committed about 23–27%
 fewer penalised violations than agreement firms without one during the
 agreement (t from −2.15 to −2.61), and −2% to −13% after it, none
-distinguishable from zero (THEORY-tmpvtotj; recomputed in
+distinguishable from zero ([THEORY-tmpvtotj](../theory.d/THEORY-tmpvtotj.md); recomputed in
 scratch/studies/lead-101/results.json). The authors' measure of ethics and
 compliance norms rises and falls with the monitor.
 
@@ -72,8 +72,8 @@ conduct ends with it.
 
 ## Bearing
 
-CLAIM-432's part 5 predicts that "a corporation changed only by sanction
+[CLAIM-432](CLAIM-432.md)'s part 5 predicts that "a corporation changed only by sanction
 reverts when the sanction lifts". This is that, for a monitor's share of
-the sanction. CLAIM-431's prudence reading predicts the same, so the
+the sanction. [CLAIM-431](CLAIM-431.md)'s prudence reading predicts the same, so the
 finding is consistent with both and evidence between neither
-(CLAIM-tmpsuj5n).
+([CLAIM-tmpsuj5n](CLAIM-tmpsuj5n.md)).

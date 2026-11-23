@@ -28,27 +28,27 @@ grounds:
 - CASE-tmphvbov
 summary: >-
   The reading the run leans to of the board-change result in Gallo, Lynch
-  and Tomy (THEORY-tmpvtotj). The board changes were imposed by the
+  and Tomy ([THEORY-tmpvtotj](../theory.d/THEORY-tmpvtotj.md)). The board changes were imposed by the
   agreement, so they are a sanction's product, not a redesign the
   corporation made; and the outcome is penalised violations, so what
   persists is fewer penalties, which a board better at avoiding sanction
-  produces on the prudence reading (CLAIM-431) as well as on CLAIM-432's.
-  It sits in the second row of CLAIM-tmpsuj5n's table. The wording is the
+  produces on the prudence reading ([CLAIM-431](CLAIM-431.md)) as well as on [CLAIM-432](CLAIM-432.md)'s.
+  It sits in the second row of [CLAIM-tmpsuj5n](CLAIM-tmpsuj5n.md)'s table. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
-<!-- inactive-ok-file: THEORY-tmpvtotj CASE-tmphvbov CLAIM-tmpuvgxw CLAIM-tmpsuj5n — new, Proposed; the account and study this reading rests on, the reading it objects to, and the claim whose table it uses -->
+<!-- inactive-ok-file: THEORY-tmpvtotj CLAIM-tmpuvgxw CLAIM-tmpsuj5n — new, Proposed; the account and study this reading rests on, the reading it objects to, and the claim whose table it uses -->
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the claims it says this result does not separate -->
 
 # CLAIM-tmpioexk: That firms whose deferred or non-prosecution agreements mandated board changes keep fewer penalised violations after the agreement ends is no evidence that redesigned concerns outlast sanction: the boards were changed by the sanction, and the outcome counts penalties, so a board that has learned to avoid penalties fits the reading on which every installed concern is prudence as well
 
 ## The objection
 
-CLAIM-tmpuvgxw reads the persistence of fewer violations after mandated
-board changes as the redesign half of CLAIM-432's part 5. Two things stand
+[CLAIM-tmpuvgxw](CLAIM-tmpuvgxw.md) reads the persistence of fewer violations after mandated
+board changes as the redesign half of [CLAIM-432](CLAIM-432.md)'s part 5. Two things stand
 against it.
 
 1. **Who changed the board.** The changes were terms of the agreement. On
-   CLAIM-432's own sorting, a change the corporation was made to accept is
+   [CLAIM-432](CLAIM-432.md)'s own sorting, a change the corporation was made to accept is
    the sanction's work. That it outlasts the agreement shows a sanction can
    leave a lasting structure, not that a corporation's own concerns were
    redesigned.
@@ -56,9 +56,9 @@ against it.
    learned what the enforcer punishes, and keeps the corporation clear of
    it, produces fewer penalties after the agreement for prudential reasons:
    it still pays, in avoided liability. That is the second row of
-   CLAIM-tmpsuj5n's table, where both readings predict persistence.
+   [CLAIM-tmpsuj5n](CLAIM-tmpsuj5n.md)'s table, where both readings predict persistence.
 
-So the result is consistent with CLAIM-432 and with CLAIM-431 alike.
+So the result is consistent with [CLAIM-432](CLAIM-432.md) and with [CLAIM-431](CLAIM-431.md) alike.
 
 ## What it does not say
 

@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 in full (NOTE-tmp59pkn), from federalreserve.gov
+  read 2026-11-23 in full ([NOTE-tmp59pkn](../notes.d/NOTE-tmp59pkn.md)), from federalreserve.gov
   (newsevents/pressreleases/enforcement20250603a.htm); a primary document
-  coded as data in CASE-tmphvbov. Governor Barr's statement of the same
+  coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md). Governor Barr's statement of the same
   day was not read.
 title: 'Federal Reserve announces Wells Fargo is no longer subject to the asset growth restriction from the Board''s 2018 enforcement action against the bank'
 version: 1
@@ -30,10 +30,10 @@ summary: >-
   restriction it placed on Wells Fargo in 2018, after improved governance
   and risk management were reviewed by a third party and by the Board;
   the action's other provisions remain. It dates the end of the sanction
-  on the record's own case of corporate harm. Read in NOTE-tmp59pkn;
-  coded as data in CASE-tmphvbov.
+  on the record's own case of corporate harm. Read in [NOTE-tmp59pkn](../notes.d/NOTE-tmp59pkn.md);
+  coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
-<!-- inactive-ok-file: NOTE-tmp59pkn CASE-tmphvbov — new; the reading and the study that codes this document -->
+<!-- inactive-ok-file: CASE-tmphvbov — new; the reading and the study that codes this document -->
 
 # LIT-tmppg6h5: Federal Reserve announces Wells Fargo is no longer subject to the asset growth restriction from the Board's 2018 enforcement action against the bank
 
@@ -54,4 +54,4 @@ Board of Governors of the Federal Reserve System (2025) — https://www.federalr
 ## Standing in the record
 
 A primary document: it dates the end of the growth restriction on the bank
-of CASE-151. No THEORY is filed from it.
+of [CASE-151](../cases.d/CASE-151.md). No THEORY is filed from it.

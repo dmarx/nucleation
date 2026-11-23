@@ -184,9 +184,9 @@ so no edge is written. The claim is unchanged.
 
 ## Note of 2026-11-23: the sanction-lift test leaves this claim where it was
 
-LEAD-101 names this claim among those it advances. Its run on open sources
-(CASE-tmphvbov) bears on which functional affect a corporation has, remorse
-or only fear (CLAIM-432 against CLAIM-431), not on whether affect can be
+[LEAD-101](../leads.d/LEAD-101.md) names this claim among those it advances. Its run on open sources
+([CASE-tmphvbov](../cases.d/CASE-tmphvbov.md)) bears on which functional affect a corporation has, remorse
+or only fear ([CLAIM-432](CLAIM-432.md) against [CLAIM-431](CLAIM-431.md)), not on whether affect can be
 characterized functionally. Every case and estimate in it is read as
 conduct a corporation's appraisals and readiness would produce, which this
 claim licenses; none tests the licence. No relation is written. The claim

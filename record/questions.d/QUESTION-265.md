@@ -101,12 +101,12 @@ second-hand. The question stays open.
 
 ## Note of 2026-11-23: the sanction-lift test, run and not met
 
-The test CLAIM-431 and CLAIM-432 both name for what remorse in a
+The test [CLAIM-431](../claims.d/CLAIM-431.md) and [CLAIM-432](../claims.d/CLAIM-432.md) both name for what remorse in a
 corporation would be, whether harms keep being weighed once a sanction
-lifts, was run on open sources by LEAD-101 (CASE-tmphvbov). No case holds
+lifts, was run on open sources by [LEAD-101](../leads.d/LEAD-101.md) ([CASE-tmphvbov](../cases.d/CASE-tmphvbov.md)). No case holds
 reputation and benefit fixed, so it does not decide between them. What it
 adds to this question: reversion after a sanction lifts is predicted by
-both answers (CLAIM-tmpsuj5n); a monitor's effect on violations does not
-outlast the monitor (CLAIM-tmpm9a3z); and remorse, if a corporation has
+both answers ([CLAIM-tmpsuj5n](../claims.d/CLAIM-tmpsuj5n.md)); a monitor's effect on violations does not
+outlast the monitor ([CLAIM-tmpm9a3z](../claims.d/CLAIM-tmpm9a3z.md)); and remorse, if a corporation has
 it, would show only in a redesigned corporation's post-lift conduct when
 keeping the procedure no longer pays. The question stays open.

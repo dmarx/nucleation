@@ -55,7 +55,7 @@ summary: >-
 answers:
 - QUESTION-265
 ---
-<!-- inactive-ok-file: CASE-tmphvbov CLAIM-tmpsuj5n CLAIM-tmpm9a3z NOTE-tmpf8oxn NOTE-tmpu1nx5 — new, Proposed or Skimmed; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CASE-tmphvbov CLAIM-tmpsuj5n CLAIM-tmpm9a3z NOTE-tmpf8oxn — new, Proposed or Skimmed; filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: THEORY-2216 — Proposed; the reading of Mulgan, 2026-11-22 -->
 
 <!-- inactive-ok-file: CLAIM-432 CLAIM-039 THEORY-892 — Proposed; the claims and reading this objection argues from or against, cited as open -->
@@ -144,25 +144,25 @@ stipulation. The status is unchanged.
 
 ## Note of 2026-11-23: the first answer's test, run on open sources
 
-LEAD-101 ran this objection's first answer, whether corporations whose
+[LEAD-101](../leads.d/LEAD-101.md) ran this objection's first answer, whether corporations whose
 procedures make others' harms their concern keep weighing them once the
-sanction lifts, on open sources (CASE-tmphvbov). It is **not met either
+sanction lifts, on open sources ([CASE-tmphvbov](../cases.d/CASE-tmphvbov.md)). It is **not met either
 way**: no case holds reputation and benefit fixed.
 
 - **The test as stated cannot answer the objection through reversion.**
-  Worked through (CLAIM-tmpsuj5n), this objection predicts what CLAIM-432
+  Worked through ([CLAIM-tmpsuj5n](CLAIM-tmpsuj5n.md)), this objection predicts what [CLAIM-432](CLAIM-432.md)
   predicts of a sanction-only corporation (it reverts) and of a redesigned
   one whose procedure still pays (it persists). They part only for a
   redesigned corporation once keeping the procedure earns it nothing. The
-  reversion found in monitored firms (CLAIM-tmpm9a3z) is evidence for
+  reversion found in monitored firms ([CLAIM-tmpm9a3z](CLAIM-tmpm9a3z.md)) is evidence for
   neither.
 - **What the cases add, as illustration.** Siemens's compliance leaders
   told staff that violations could bring prosecution and "exclusion from
   projects from multilateral development banks, which will have major
-  financial consequences for the company" (NOTE-tmpu1nx5): a procedure that
+  financial consequences for the company" ([NOTE-tmpu1nx5](../notes.d/NOTE-tmpu1nx5.md)): a procedure that
   stopped a bribe at a cost, explained by threat, as this objection says
   installed concerns are. Purdue's response to a 2013 subpoena was to stop
-  writing detailed board reports (NOTE-tmpf8oxn), a response to the threat
+  writing detailed board reports ([NOTE-tmpf8oxn](../notes.d/NOTE-tmpf8oxn.md)), a response to the threat
   of the record, not to the harm.
 
 The status is unchanged.

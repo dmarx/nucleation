@@ -17,7 +17,7 @@ summary: >-
   compliance system left it no riskier than comparable firms. It records a
   bribe stopped and self-reported at the cost of a tender in 2011, under
   the monitor, and the compliance leaders' reasons, which are prosecution
-  and exclusion. Coded as data in CASE-tmphvbov.
+  and exclusion. Coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
 <!-- inactive-ok-file: CASE-tmphvbov — new; the study that codes this reading -->
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the claims this reading bears on -->
@@ -64,14 +64,14 @@ Watch list; observation; compliance as prevent, detect and respond.
 
 ## Bearing on the record
 
-- **CASE-tmphvbov.** The outside assessment on which Siemens is coded as a
+- **[CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).** The outside assessment on which Siemens is coded as a
   redesign (R): a procedure with authority to stop a payment, kept and
   staffed.
-- **CLAIM-432 and CLAIM-431 (illustration, both).** The Kuwait refusal is
+- **[CLAIM-432](../claims.d/CLAIM-432.md) and [CLAIM-431](../claims.d/CLAIM-431.md) (illustration, both).** The Kuwait refusal is
   harm weighed at a cost to the firm, during the sanction and in public.
   The compliance leaders' own reasons for the system are threats:
-  prosecution and exclusion. A procedure that did what CLAIM-432 calls
-  remorse was explained to staff as CLAIM-431 says it would be. Neither
+  prosecution and exclusion. A procedure that did what [CLAIM-432](../claims.d/CLAIM-432.md) calls
+  remorse was explained to staff as [CLAIM-431](../claims.d/CLAIM-431.md) says it would be. Neither
   claim is settled by it: the weighing happened while the monitor was there.
 
 ## Limitations

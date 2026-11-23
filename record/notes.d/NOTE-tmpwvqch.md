@@ -19,7 +19,7 @@ summary: >-
   The five-year compliance agreement beside Purdue's 2007 settlement. It
   dates the end of the sanction (2012) and shows what it required,
   including sales compensation that does not reward improper promotion.
-  Coded as data in CASE-tmphvbov.
+  Coded as data in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
 <!-- inactive-ok-file: CASE-tmphvbov — new; the study that codes this reading -->
 
@@ -55,7 +55,7 @@ Corporate integrity agreement; effective date; reporting period.
 
 ## Bearing on the record
 
-Dates the end of the sanction coded for Purdue in CASE-tmphvbov, and
+Dates the end of the sanction coded for Purdue in [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md), and
 shows that what the agreement required was compliance machinery, not a
 procedure that could stop sales to a prescriber on harm grounds, which is
 why Purdue is coded "sanction only".

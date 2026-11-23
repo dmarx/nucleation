@@ -20,16 +20,16 @@ source:
 bears_on:
 - QUESTION-265
 summary: >-
-  Gallo, Lynch and Tomy (2023), LIT-tmpaya40, read in NOTE-tmpejwjy: a
+  Gallo, Lynch and Tomy (2023), [LIT-tmpaya40](../literature.d/LIT-tmpaya40.md), read in [NOTE-tmpejwjy](../notes.d/NOTE-tmpejwjy.md): a
   difference-in-differences study of 193 deferred and non-prosecution
   agreements with listed US firms, 2001–2019. A monitor's effect on
   penalised violations lasts while it is on site; violations return to
   their pre-agreement level after, and an earnings-call measure of ethics
   and compliance norms moves with them. Mandated board changes are
   associated with fewer violations after the agreement ends. Used in
-  CASE-tmphvbov for LEAD-101. Proposed until replicated.
+  [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md) for [LEAD-101](../leads.d/LEAD-101.md). Proposed until replicated.
 ---
-<!-- inactive-ok-file: NOTE-tmpejwjy CASE-tmphvbov — new; the reading and the study this account is filed from and used in -->
+<!-- inactive-ok-file: CASE-tmphvbov — new; the reading and the study this account is filed from and used in -->
 
 # THEORY-tmpvtotj: Gallo, Lynch and Tomy find that firms under deferred or non-prosecution agreements that must take an on-site government-appointed monitor commit 18 to 25 percent fewer penalised violations than such firms without one while the monitor is on site, and not after the agreement ends, and that a measure of ethics and compliance norms in managers' speech rises and falls with it
 
@@ -37,7 +37,7 @@ summary: >-
 
 Gallo, Lynch and Tomy (2023), "Out of Site, Out of Mind? The Role of the
 Government-Appointed Corporate Monitor", *Journal of Accounting Research*
-61(5), LIT-tmpaya40, read in NOTE-tmpejwjy.
+61(5), [LIT-tmpaya40](../literature.d/LIT-tmpaya40.md), read in [NOTE-tmpejwjy](../notes.d/NOTE-tmpejwjy.md).
 
 ## The account
 

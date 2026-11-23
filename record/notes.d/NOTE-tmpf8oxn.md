@@ -19,7 +19,7 @@ summary: >-
   harm signal Purdue itself kept (Region Zero, prescribers it suspected of
   abuse and diversion) reached the board as revenue at risk, and that
   promotion widened after the integrity agreement's term. Coded as data in
-  CASE-tmphvbov.
+  [CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).
 ---
 <!-- inactive-ok-file: CASE-tmphvbov — new; the study that codes this reading -->
 <!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the claims this reading illustrates -->
@@ -67,13 +67,13 @@ diversion); the 2007 settlements.
 
 ## Bearing on the record
 
-- **CASE-tmphvbov.** The Purdue case: a sanction-only arm, harm not
+- **[CASE-tmphvbov](../cases.d/CASE-tmphvbov.md).** The Purdue case: a sanction-only arm, harm not
   weighed during or after the term, by allegation.
-- **CLAIM-432 (illustration).** Region Zero is a procedure that made the
+- **[CLAIM-432](../claims.d/CLAIM-432.md) (illustration).** Region Zero is a procedure that made the
   harm visible to the board, and the harm reached it as revenue at risk: a
   signal held without precedence, in the claim's terms, alleged and not
   found.
-- **CLAIM-431 (illustration).** Exposure changed what was written down,
+- **[CLAIM-431](../claims.d/CLAIM-431.md) (illustration).** Exposure changed what was written down,
   not what was done: the response to the 2013 subpoena was to the threat
   of the paper trail.
 
