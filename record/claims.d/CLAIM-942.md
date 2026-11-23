@@ -77,3 +77,26 @@ imposes conditions on its object before it describes it.
   descriptors, and an observer sees only that it passes them, this claim
   says what the maker knows that the observer does not: the direction of
   fit, not a further property.
+
+## Note of 2026-11-23: the synthesis review's audit
+
+Audited at the synthesis review of 2026-11-23 (ADR-075, step 5) by a reader
+briefed neutrally. **Verdict: it adds nothing to its components.** The
+distinction by direction of fit is TERM-151's definition, applied; that
+building can revise a specification, and that inquiry into a made thing
+differs from inquiry into a given one by its interventions making the object,
+is CLAIM-784; that a build's failures are findings is CLAIM-786. No sentence
+was found that the claim adds and that passes a separating case, a
+derivation or a discriminating prediction.
+
+Its example does not fit it. CASE-299 is building finding a requirement no
+one had stated, which adds a requirement; it is not an imposed requirement
+that could not be met rewritten into a description of what can be. It is an
+instance of CLAIM-784 and CLAIM-786.
+
+**Recommendation, for the owner:** fold the mapping into the record-as-apparatus
+account (SYNTHESIS-114) and set the claim Superseded, repointing whatever
+rests on it to its premises (CLAIM-943 names it under `complements`). The
+skill would do this itself for a Proposed claim, but this one was filed the
+day before under the dialectic regime with adopting it left to the owner, so
+the reversal is put to the owner rather than made.
