@@ -15,7 +15,8 @@
   - LIT-1715 (PMC6127768): Europe PMC fullTextXML HTTP 500; E-utilities efetch db=pmc returns front matter with "The publisher of this article does not allow downloading of the full text in XML form." Stopped. Stays Unfetched.
   - LIT-1692 (PMID 26410355) and LIT-1764 (PMID 16391557): Europe PMC lists no PMC copy. The publisher copies were refused on 2026-10-29 (Cloudflare; Nature sign-in); not retried (same host). Stay Unfetched.
 - Fetched full text:
-  - Rice et al. 2010, PMC2954294 (E-utilities; EPMC REST gave 500) — IVF design, prenatal stress.
+  - Rice et al. 2010, PMC2830085 (E-utilities; EPMC REST gave 500) — IVF design, prenatal stress. (PMC2954294 was the companion birth-weight paper, fetched by mistake.)
+  - Lewis et al. 2011, PMC3136241 (E-utilities) — same design, parental depression.
   - Mulligan et al. 2025, PMC11868390 (E-utilities; EPMC REST gave 500) — Syrian refugees, germline exposure.
   - Zhou & Ryan 2023, PMC10454883 (EPMC REST) — scoping review of intergenerational epigenetic transmission in humans.
   - Tuulari et al. 2025, PMC12092256 (EPMC REST) — childhood maltreatment and sperm epigenetics.
@@ -25,10 +26,17 @@
 - Identity-route search (Europe PMC): nothing meets QUESTION-297's identity test. Nearest: Kennedy et al. 2025 (PMC12781289), thoughts of historical loss against network talk of AI/AN identity; abstract read only; falls short (frequency of thoughts, not distress; family in the network). Not filed.
 - Codes: Rice LIT-tmpr7q37 / NOTE-tmpso8z1 / THEORY-tmpo8don; Lewis LIT-tmpdsu42 / NOTE-tmp18gag / THEORY-tmp4fo7b; Mulligan LIT-tmpglael / NOTE-tmpxwx4b / THEORY-tmppcqht; Tuulari LIT-tmpuwnm5 / NOTE-tmpv0ug9 / THEORY-tmpseccf; Zhou & Ryan LIT-tmpdvx5j / NOTE-tmp05o0u / THEORY-tmplq0um.
 - Claims: CLAIM-tmp3qsdg (design map, thesis, lean); CLAIM-tmpgv8bs (alternative: Mulligan as partial separation, counter); CLAIM-tmpv8nto (donor-gamete design puts marks with genes, demonstrated); ARG-tmpmenxz (Mulligan by abduction to CLAIM-tmpgv8bs).
-- Written so far: five LITs, NOTE-tmpso8z1.
+- Filed: five LITs, five NOTEs, five THEORYs, three CLAIMs, one ARG; dated notes on LEAD-156, QUESTION-297, QUESTION-299, QUESTION-301, CLAIM-644, LIT-1692, LIT-1715, LIT-1764; curation entry record/curation.d/2026/11/23/075854.md; changelog fragment record/changelog.d/lead-156.md.
+- Checked with `scratch/studies/lead-156/check_files.py` (YAML, title, H1, narrow ref_status scan): clean except two pre-existing findings in QUESTION-297 (line 26) and QUESTION-301 (line 136), not caused by this run.
+
+## Choices made
+
+- Read neighbours and design exemplars rather than only trauma studies: the donor-gamete design exists in humans only for stress and depression (Rice, Lewis), so those were read to say what the design can separate.
+- Filed the verdict as a design map (CLAIM-tmp3qsdg) that corroborates CLAIM-644 instead of restating it (ADR-072).
+- Filed the Syrian study's two readings as CLAIM-tmp3qsdg (lean) and CLAIM-tmpgv8bs (alternative, counter), with ARG-tmpmenxz for the contested support.
+- Did not file a LEAD for the donor-spanning-exposure design: offered to the owner in the curation entry (read-and-file step 12).
+- Did not attempt Ord 2020 (LIT-1678): outside the brief's triage.
 
 ## Next
 
-- Read the four texts; file LIT, NOTE, THEORY each.
-- File the verdict claims; dated notes; curation; changelog.
-- Second part of the lead (distress against group identification): search.
+- Nothing for this run. Remaining for the owner: choose between the two readings; decide on the offered design; the registered works need a human reader past the publishers' checks; Santavirta et al. 2018 (PMC5833542) could be tried through E-utilities.

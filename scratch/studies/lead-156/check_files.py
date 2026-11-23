@@ -20,6 +20,8 @@ CODE = re.compile(r"\b[A-Z]+-(?:\d{3,}|tmp[a-z0-9]{5})\b")
 def check_shape(path: Path) -> list[str]:
     text = path.read_text()
     out = []
+    if "changelog.d" in str(path):
+        return out  # fragments carry no frontmatter
     if not text.startswith("---\n"):
         return [f"{path}: no frontmatter"]
     fm_text, body = text[4:].split("\n---\n", 1)
@@ -62,7 +64,10 @@ def main(argv: list[str]) -> int:
     problems = []
     for p in paths:
         problems += check_shape(p)
-    problems += check_refs([p for p in paths if p.suffix == ".md"])
+    # ref_status scans neither changelog.d nor curation.d (scanned_files()).
+    problems += check_refs([p for p in paths if p.suffix == ".md"
+                            and "changelog.d" not in str(p)
+                            and "curation.d" not in str(p)])
     for line in problems:
         print(line)
     print(f"{len(problems)} finding(s) in {len(paths)} file(s)")
