@@ -156,6 +156,6 @@ operating under its established arrangement while its capacity to
 recover from disagreements, delays, or disruptions becomes progressively
 weaker". A slowing maintenance mode is current coordination with failing
 support. A40: "a slow mode cannot automatically be interpreted as a
-stabilizing identity." The thesis it supports, CLAIM-tmpbzwmr,
+stabilizing identity." The thesis it supports, [CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md),
 complements this claim. The relation is a parallel, so no edge is written
 from here.

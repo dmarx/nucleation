@@ -203,4 +203,4 @@ lost reorganization capacity: "Utilization-based optimization can
 destroy capacity whose value appears only under counterfactual future
 conditions." A36 names three remedies: reserves, carry-over, and a
 cheaper transition architecture. Each acts through a different mechanism.
-TERM-tmpz28l1 cites it.
+[TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md) cites it.

@@ -59,28 +59,28 @@ possibility."
 
 - That a hard constraint at fixed dynamics cannot enlarge what is
   attainable, and that generative regulation must change the dynamics, is
-  CLAIM-tmpk4bou (filed from A31 in the first share). A34 §2 restates it.
+  [CLAIM-tmpk4bou](CLAIM-tmpk4bou.md) (filed from A31 in the first share). A34 §2 restates it.
 - A34 §3's three levels (conduct, capabilities, governability) are the
-  regulatory case of CLAIM-025's three achievements that persist or fail
+  regulatory case of [CLAIM-025](CLAIM-025.md)'s three achievements that persist or fail
   separately: an operative regime, the governing organization among
   regimes, and the capacity to transform it.
 - A34 §4's improvement criterion, strict enlargement of the compatibility
-  complex for fixed demands, is CLAIM-347 with CLAIM-361, as applied in
-  CLAIM-tmpk4bou. A34 says, rightly, that it measures joint feasibility
-  only, not realization, cost, justice or legitimacy (CLAIM-075).
-- A34 §6 adds a third intervention to CLAIM-tmpx9nrj's two: a regulation
+  complex for fixed demands, is [CLAIM-347](CLAIM-347.md) with [CLAIM-361](CLAIM-361.md), as applied in
+  [CLAIM-tmpk4bou](CLAIM-tmpk4bou.md). A34 says, rightly, that it measures joint feasibility
+  only, not realization, cost, justice or legitimacy ([CLAIM-075](CLAIM-075.md)).
+- A34 §6 adds a third intervention to [CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md)'s two: a regulation
   can change what is possible, shift what is likely, or change the test
   functions by which a history is judged acceptable. A dated note on
-  CLAIM-tmpx9nrj records it.
-- "No ungoverned possibility" is close to CLAIM-410: removing a
+  [CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md) records it.
+- "No ungoverned possibility" is close to [CLAIM-410](CLAIM-410.md): removing a
   constraint changes who governs, not how much.
 
-## Admission (ADR-075)
+## Admission ([ADR-075](../decisions.d/ADR-075.md))
 
 *A separating case.* Take an ecosystem in which every regime acts only by
 selecting among histories that the technologies already make attainable,
 for instance by prices and penalties on a fixed set of options. Then
-CLAIM-tmpk4bou, CLAIM-tmpx9nrj and CLAIM-410 all hold, and regulation is
+[CLAIM-tmpk4bou](CLAIM-tmpk4bou.md), [CLAIM-tmpx9nrj](CLAIM-tmpx9nrj.md) and [CLAIM-410](CLAIM-410.md) all hold, and regulation is
 never generative, so the claim's first disjunct is empty there. What the
 claim adds is that real regimes are not of this kind: rights, standards
 and institutions change the dynamics. That is its `defeated_if`.

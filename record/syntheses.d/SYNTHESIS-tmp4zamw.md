@@ -254,24 +254,24 @@ assistant's gap fills are its own, and each says so.
 **Possibility, reorganization and timescales (U18 to U21, second
 share).**
 - **Governance of possibility.** U18 named A33's phrase. A34's account of
-  it is CLAIM-tmptfpf7: generative, stabilizing and reflexive regulation,
-  resting on CLAIM-tmpk4bou, CLAIM-tmpx9nrj and CLAIM-410.
+  it is [CLAIM-tmptfpf7](../claims.d/CLAIM-tmptfpf7.md): generative, stabilizing and reflexive regulation,
+  resting on [CLAIM-tmpk4bou](../claims.d/CLAIM-tmpk4bou.md), [CLAIM-tmpx9nrj](../claims.d/CLAIM-tmpx9nrj.md) and [CLAIM-410](../claims.d/CLAIM-410.md).
 - **Reorganization readiness.** U19 quoted A34's "the capacity for viable
   reorganization when the equilibrium becomes inadequate" and asked for a
-  formal version. A36's is TERM-tmpz28l1, the viability kernel of
-  reorganization readiness. It is built from THEORY-134, CLAIM-079,
-  CLAIM-099, CLAIM-571 and CLAIM-577, whose budget rule is A36's example.
-- **The owner's thesis**, at U20, is CLAIM-tmpntzjo: an inherent tension
+  formal version. A36's is [TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md), the viability kernel of
+  reorganization readiness. It is built from [THEORY-134](../theory.d/THEORY-134.md), [CLAIM-079](../claims.d/CLAIM-079.md),
+  [CLAIM-099](../claims.d/CLAIM-099.md), [CLAIM-571](../claims.d/CLAIM-571.md) and [CLAIM-577](../claims.d/CLAIM-577.md), whose budget rule is A36's example.
+- **The owner's thesis**, at U20, is [CLAIM-tmpntzjo](../claims.d/CLAIM-tmpntzjo.md): an inherent tension
   between identity stabilization and adaptability, with appropriate
   response depending on the timescale of the demand. It is filed with two
   readings of "inherent".
-- **A38's answer**, CLAIM-tmph25dl, keeps the tension and denies it is a
-  trade-off on one scale. Its toy bound, vH ≥ 1 − δ − ε, is CLAIM-tmp2k3c5.
+- **A38's answer**, [CLAIM-tmph25dl](../claims.d/CLAIM-tmph25dl.md), keeps the tension and denies it is a
+  trade-off on one scale. Its toy bound, vH ≥ 1 − δ − ε, is [CLAIM-tmp2k3c5](../claims.d/CLAIM-tmp2k3c5.md).
 - **Slow modes.** U21 asked how slow modes bear on it. A40 separates a
-  mode's persistence from how hard it is to redirect (CLAIM-tmpx8csq,
-  resting on CLAIM-345, checked). It revises A38's thesis as
-  CLAIM-tmpbzwmr: identity in slow collective modes, adaptability in their
-  selective controllability (with CLAIM-331 and CLAIM-626).
+  mode's persistence from how hard it is to redirect ([CLAIM-tmpx8csq](../claims.d/CLAIM-tmpx8csq.md),
+  resting on [CLAIM-345](../claims.d/CLAIM-345.md), checked). It revises A38's thesis as
+  [CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md): identity in slow collective modes, adaptability in their
+  selective controllability (with [CLAIM-331](../claims.d/CLAIM-331.md) and [CLAIM-626](../claims.d/CLAIM-626.md)).
 
 ## The account
 
@@ -318,14 +318,14 @@ link is attributed to the entry that states it.
    before the commitments are declared ([CLAIM-tmphjm0q](../claims.d/CLAIM-tmphjm0q.md)).
 9. **Regulation as governance of possibility.** It governs which
    possibilities are attainable, sustainable and revisable
-   (CLAIM-tmptfpf7). What it should maintain is reorganization readiness
-   (TERM-tmpz28l1), whose loss can come from ordinary efficient operation
-   (CLAIM-577). The owner's tension between stabilizing identity and
-   adapting (CLAIM-tmpntzjo) is, on A's account, not one scale: a
+   ([CLAIM-tmptfpf7](../claims.d/CLAIM-tmptfpf7.md)). What it should maintain is reorganization readiness
+   ([TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)), whose loss can come from ordinary efficient operation
+   ([CLAIM-577](../claims.d/CLAIM-577.md)). The owner's tension between stabilizing identity and
+   adapting ([CLAIM-tmpntzjo](../claims.d/CLAIM-tmpntzjo.md)) is, on A's account, not one scale: a
    constraint's adequacy is indexed to the demands' timescales
-   (CLAIM-tmph25dl, CLAIM-tmp2k3c5). Slowness fixes persistence, not
-   redirectability (CLAIM-tmpx8csq), so identity in slow modes needs those
-   modes kept controllable (CLAIM-tmpbzwmr).
+   ([CLAIM-tmph25dl](../claims.d/CLAIM-tmph25dl.md), [CLAIM-tmp2k3c5](../claims.d/CLAIM-tmp2k3c5.md)). Slowness fixes persistence, not
+   redirectability ([CLAIM-tmpx8csq](../claims.d/CLAIM-tmpx8csq.md)), so identity in slow modes needs those
+   modes kept controllable ([CLAIM-tmpbzwmr](../claims.d/CLAIM-tmpbzwmr.md)).
 
 ## How the account developed
 

@@ -37,7 +37,7 @@ summary: 'The owner''s U20 in the second share of the exchange "Explain First
 The owner, U20: "the inherent tension between identity stabilization and
 adaptability, and how appropriate response to demands is timescale
 dependent". It follows A36's formalization of reorganization readiness
-(TERM-tmpz28l1).
+([TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)).
 
 ## Readings (the assistant's)
 
@@ -46,12 +46,12 @@ always costs adaptability. Read weakly, the two always bear on each other
 and must be managed together. A38 rejects the strong reading ("The
 tension becomes more interesting if we avoid treating identity and
 adaptability as opposing objectives") and keeps the weak one. Its
-answer is CLAIM-tmph25dl. The second clause, that appropriate response is
-timescale-dependent, A38 makes formal in CLAIM-tmp2k3c5. A40 grounds it in
-slow modes (CLAIM-tmpbzwmr).
+answer is [CLAIM-tmph25dl](CLAIM-tmph25dl.md). The second clause, that appropriate response is
+timescale-dependent, A38 makes formal in [CLAIM-tmp2k3c5](CLAIM-tmp2k3c5.md). A40 grounds it in
+slow modes ([CLAIM-tmpbzwmr](CLAIM-tmpbzwmr.md)).
 
 ## Against the record
 
-Identity over time as transmission of organization: CLAIM-287,
-SYNTHESIS-046. Rate differences that make constraints: CLAIM-478.
-Overconsolidation: CLAIM-758. Anchors that entrench: CLAIM-184.
+Identity over time as transmission of organization: [CLAIM-287](CLAIM-287.md),
+[SYNTHESIS-046](../syntheses.d/SYNTHESIS-046.md). Rate differences that make constraints: [CLAIM-478](CLAIM-478.md).
+Overconsolidation: [CLAIM-758](CLAIM-758.md). Anchors that entrench: [CLAIM-184](CLAIM-184.md).

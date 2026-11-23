@@ -87,5 +87,5 @@ determine whether a history is acceptable". A34: "A regulation can
 improve measured outcomes while narrowing the ecosystem's future adaptive
 capabilities." That is a qualification, not a new dimension of this
 claim: a change of test functions changes the demand sets V_j, so it
-changes the compatibility complex's reference set. CLAIM-361 forbids
-calling that relief. The thesis that carries A34 is CLAIM-tmptfpf7.
+changes the compatibility complex's reference set. [CLAIM-361](CLAIM-361.md) forbids
+calling that relief. The thesis that carries A34 is [CLAIM-tmptfpf7](CLAIM-tmptfpf7.md).

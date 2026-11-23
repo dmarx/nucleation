@@ -70,7 +70,7 @@ leaves is the agent's boundary, filed as two readings for the owner,
 
 In the second share of the exchange "Explain First Contact RL" (ChatGPT,
 2026-11-22), A36 makes this claim formal, at the owner's U19, as the
-viability kernel of reorganization readiness (TERM-tmpz28l1). The state is
+viability kernel of reorganization readiness ([TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)). The state is
 enlarged to (x, g, c), ecosystem, governance and reorganizational
 capacities, each with its own dynamics. The capacity to govern among
 regimes is a set C_ω(B, τ) of states with an affordable, safe route to a

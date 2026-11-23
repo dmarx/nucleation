@@ -137,4 +137,4 @@ A40 of the exchange "Explain First Contact RL" (second share, ChatGPT,
 the least effort is 2γΔ²/(b²(1 − e^{−2γH})). The assistant checked that
 it is strictly increasing in γ, so that for fixed b and H a slower mode
 is cheaper to redirect. The point A40 draws, that persistence does not
-fix redirectability, is CLAIM-tmpx8csq, which rests on this claim.
+fix redirectability, is [CLAIM-tmpx8csq](CLAIM-tmpx8csq.md), which rests on this claim.
