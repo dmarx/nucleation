@@ -10,7 +10,7 @@ codes filed.
     cd scratch/studies/lead-190
     export OMP_NUM_THREADS=1 OPENBLAS_NUM_THREADS=1 MKL_NUM_THREADS=1
     python3 -I -m pytest -q -p no:cacheprovider --rootdir=. test_model.py   # 27 tests, < 1 s
-    python3 -I run.py            # e1..e5, about 15 min on one thread each
+    python3 -I run.py            # e1..e6, about 20 min on one thread
     python3 -I run.py e3 e4      # or some of them
 
 `model.py` loads `../lead-090/model.py` by path and does not modify it;
@@ -66,3 +66,6 @@ With ζ = 1, φ_s = 0 both are CLAIM-947's threshold.
   within-side preference for extremity or nearness, reach beyond one hop
   and authority returned to oneself.
 - e5: the bound and unbound cells and three schemes at N = 40.
+- e6: where the role scheme's shared meaning settles, against the corpus
+  imbalance and the relevance-weighted side of the specialists, for three
+  ranges of relevance.
