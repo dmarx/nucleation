@@ -1,0 +1,47 @@
+---
+status: Read
+paper: LIT-tmpccmbp
+title: 'Wikipedia contributors — Washington Nationals'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Read in full on 2026-11-23 by the lead run of that date. The English Wikipedia article as served on 2026-11-23, read in two parts (characters 0 to 200,000 of about 284,000); the sections used are "Retired numbers" and "Ring of Honor". Its footnotes for those sections were not visible in the text read and were not checked. `published` is the date of the revision read, since an encyclopedia article has no first date that the record uses (ADR-002 allows an edition date with the reason stated).
+    HTML converted to text by the session's fetch tool; the quotes below are
+    the excerpts it returned, checked against the page the same day.
+date: '2026-11-23'
+summary: >-
+  Used for the club's honours: its Ring of Honor (2010) honours both Senators clubs, the Homestead Grays and the Expos, and since 2016 anyone who contributed to baseball in Washington, D.C.; the Expos' retired numbers returned to circulation. Coded as data in CASE-tmp44mzc.
+---
+<!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
+
+# NOTE-tmp89bvx: Wikipedia contributors — Washington Nationals
+
+## Contribution
+
+A tertiary account of the club, used here only for the club's honours practice: its Ring of Honor criteria and inductees, and what became of the Expos' retired numbers.
+
+## Key results
+
+- **Ring of Honor, 2010.** Members of the Hall of Fame who played "significant years" for the Nationals, the Senators of 1901 to 1960, the Senators of 1961 to 1971, the Homestead Grays or the Montreal Expos. Inducted 10 August 2010: ten of the 1901 to 1960 Senators (Walter Johnson among them), six Homestead Grays, the Expos' Gary Carter and Andre Dawson.
+- **Ring of Honor, 2016.** The Hall of Fame requirement was dropped; eligibility became "anyone who has made a significant contribution to the game of baseball in Washington, D.C." Frank Howard, of the 1961 to 1971 Senators, was the first inducted under it.
+- **Retired numbers.** The club's first retired number is Ryan Zimmerman's 11 (2022). The Expos' retired numbers other than 42 returned to circulation after the move.
+
+## Assumptions
+
+None of the formal kind. Statements by an interested party are taken as
+their stated position, not their motive.
+
+## Concepts
+
+Continuation of a club by franchise (legal and statistical succession)
+against heritage by place (a city's baseball history).
+
+## Bearing on the record
+
+The club's honours practice: the Senators of both lineages are honoured beside the Expos and the Homestead Grays, a Negro league club that was never in either lineage, and since 2016 the criterion is a contribution to baseball in Washington. Coded H-SEN (statements 4 and 5) and a weak D-EX in honours (statement 6) in the study.
+
+## Limitations
+
+A tertiary source; the club's own Ring of Honor announcement (2010) and its reports (voices.washingtonpost.com, masnsports.com, federalbaseball.com) were refused (403) or gone (404). The inductee lists agree with the search-engine summaries of those pages, which is weak confirmation.
