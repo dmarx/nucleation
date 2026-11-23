@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp6gp8d
 title: 'When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-27'
@@ -27,6 +27,10 @@ history:
     Note of 2026-11-23 added: two split successions at a change of steward,
     coded by the lead run of that date. The claim is unchanged.
 - version: 5
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 (later) added: the row for narrative and place read from public statements by the lead run of that date. The claim is unchanged.
+- version: 6
   date: '2026-11-23'
   note: >-
     Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
@@ -149,3 +153,15 @@ downstreams (Fedora, Wikimedia) went with the other. These are successors
 in different respects at a change of steward, now documented, of the kind
 this claim's note of 2026-11-07 took from A36 unverified; neither line is
 coded as the project persisting ([CLAIM-tmpqpfvh](CLAIM-tmpqpfvh.md)).
+
+## Note of 2026-11-23 (later): the Nationals' claim, read
+
+<!-- inactive-ok-block: CASE-tmp44mzc CLAIM-tmp7z7si — new, Proposed; the study and verdict filed by the lead run of 2026-11-23 -->
+This claim's table gives the respect of narrative and place to "the 2005
+Nationals, by claim". The claim has now been read ([CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md)): the
+club and supporters claim Washington's baseball, a history in which the
+Homestead Grays stand beside the Senators, and nobody read counts the
+Nationals the Senators' franchise, which the league's reported count, the
+Hall of Fame and the press trace through Montreal ([CLAIM-tmp7z7si](CLAIM-tmp7z7si.md), which
+corroborates this claim). The respects come apart as the claim says, and
+participants keep them apart. The claim is unchanged.

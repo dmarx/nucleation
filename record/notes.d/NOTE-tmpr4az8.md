@@ -1,0 +1,47 @@
+---
+status: Read
+paper: LIT-tmpsigvb
+title: 'NBC Sports Washington — What''s in a name for Nationals? A fresh start and no controversy'
+version: 1
+history:
+- version: 1
+  date: '2026-11-23'
+  note: >-
+    Read in full on 2026-11-23 by the lead run of that date. NBC Washington's page, which says the piece originally appeared on NBC Sports Washington; no individual author is named. Published July 7, 2020.
+    HTML converted to text by the session's fetch tool; the quotes below are
+    the excerpts it returned, checked against the page the same day.
+date: '2026-11-23'
+summary: >-
+  The club's then president in November 2004, as quoted in 2020: the media guide would carry a page of the old Senators' records, a page of the Expos' and a blank page for the club's own, and "This is a new team." Coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
+---
+<!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
+
+# NOTE-tmpr4az8: NBC Sports Washington — What's in a name for Nationals? A fresh start and no controversy
+
+## Contribution
+
+A 2020 retrospective on the choice of the Nationals name in November 2004, quoting the club's then president, Tony Tavares, on which history the relocated club would take up.
+
+## Key results
+
+- **The records plan.** Tavares: "we're talking about having a page of records from the old Senators, a page of records from the Expos" "and a blank page writing our own records in Washington."
+- **A new team.** Tavares: "This is a new team." "The record is going forward here." On the name: "It's a question of taste." "In this case, I think Nationals gives us a fresh start."
+- **The framing.** The club "had to decide which, if any, franchise history they wanted to latch on to." "The terms "Senators" and "Nationals" became almost interchangeable at the time."
+
+## Assumptions
+
+None of the formal kind. Statements by an interested party are taken as
+their stated position, not their motive.
+
+## Concepts
+
+Continuation of a club by franchise (legal and statistical succession)
+against heritage by place (a city's baseball history).
+
+## Bearing on the record
+
+The club's own voice at its founding, as reported: the Senators' records and the Expos' records each shown on a page of their own, neither combined with the new club's, and the club called "a new team". Coded H-SEN (statement 1) and neither continuation (statement 2) in the study.
+
+## Limitations
+
+Tavares's words are quoted from 2004 in a 2020 article with no named author, and the article gives no date or venue for each quote. What the media guide finally printed was not checked; the club's media guides on mlb.com were not reached (HTTP 406).

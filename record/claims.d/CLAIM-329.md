@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 9
+version: 10
 history:
 - version: 2
   date: '2026-10-21'
@@ -64,6 +64,10 @@ history:
     Note of 2026-11-23 added: open-source successions coded by the lead run
     of that date; recognition followed the producers. The claim is unchanged.
 - version: 9
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 (later) added: the 2005 Nationals' test, read from public statements by the lead run of that date; two readings of its bearing filed for the owner. The claim is unchanged.
+- version: 10
   date: '2026-11-23'
   note: >-
     Joins the work governance-of-possibility (ADR-tmpsfjxu) at its
@@ -357,3 +361,28 @@ claim). A participant states the criterion outright: SourceHut moved to
 Libera Chat because "the staff — have left for Libera Chat", and it was
 "proud to be following them". This is evidence of how participants judge
 persistence, not of what persistence is.
+
+## Note of 2026-11-23 (later): the 2005 Nationals, as the league's count, the club and supporters count them
+
+<!-- inactive-ok-block: CASE-tmp44mzc CLAIM-tmp7z7si — new, Proposed; the study and the verdict filed by the lead run of 2026-11-23 -->
+The note of 2026-11-20 left the Nationals' test to [LEAD-099](../leads.d/LEAD-099.md). Its run coded
+fourteen public statements ([CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md)). No statement found counts the
+Nationals the original Senators continued ([CLAIM-tmp7z7si](CLAIM-tmp7z7si.md)): the Hall of
+Fame, the statistical reference and the AP count the franchise through
+Montreal and the original club's seasons with the Twins; the club's
+president in 2004 called it "a new team", with the Senators' records on a
+page of their own; and the club and supporters claim the Senators as
+Washington's baseball, honoured beside the Homestead Grays. So a shared
+name and city did not make participants count it a continuation, as this
+claim expects.
+
+<!-- inactive-ok-block: CLAIM-tmpl3ubq CLAIM-tmpzrzml — new, Proposed; the two readings filed by the lead run of 2026-11-23 -->
+What that does to the defeater is filed two ways. [CLAIM-tmpl3ubq](CLAIM-tmpl3ubq.md), the
+run's lean: the defeater is not met, and the heritage claimed is a
+place's history whose carriers through the gap were the city's
+supporters, this claim's "a lapse in its coherence need not end it".
+[CLAIM-tmpzrzml](CLAIM-tmpzrzml.md), the alternative, objects: participants count Washington's
+major-league club as one tradition across three organizations with no
+transmission between them, which meets the defeater unless supporters'
+memory counts as transmission. The league's own pages were not reached.
+The claim is unchanged.
