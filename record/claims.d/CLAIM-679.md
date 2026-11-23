@@ -162,7 +162,7 @@ No status changes.
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
 <!-- inactive-ok-block: ADR-tmpsfjxu CLAIM-tmpg8yl2 — Proposed; the work and the fill this note names -->
-Extension. In A48 §9.3 of the owner's manuscript (ADR-tmpsfjxu), this
+Extension. In A48 §9.3 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)), this
 claim's zero-slack limit is what decides whether a redesigned transition can
 replace a reserve: only a redesign whose threshold is at most the holding
-cost does (CLAIM-tmpg8yl2).
+cost does ([CLAIM-tmpg8yl2](CLAIM-tmpg8yl2.md)).

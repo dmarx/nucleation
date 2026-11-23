@@ -98,7 +98,7 @@ reconfiguration costs subject to [TERM-115](TERM-115.md) readiness and this kern
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
 <!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work this note names -->
-Restatement. A48 §8 of the owner's manuscript (ADR-tmpsfjxu) restates this
+Restatement. A48 §8 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)) restates this
 term's second-order kernel of the note above, S = (x, θ, c), M_adaptive and
 V_adaptive, and names three achievements, M_D ⊇ M_adaptive ⊇ V_adaptive. It
 secures one retuning: nothing in the construction requires readiness again

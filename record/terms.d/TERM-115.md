@@ -84,7 +84,7 @@ The pasted synthesis on constraint architectures reads readiness as a resource-c
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
 <!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
-Extension. A48 §6 of the owner's manuscript (ADR-tmpsfjxu) makes this term a
+Extension. A48 §6 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)) makes this term a
 curve over the deadline, R_i(S, t), and says organizations "need not admit a
 universal ranking" without saying when one exists. Since R_i(S, ·) is the
 distribution function of the response time, two organizations are ranked the

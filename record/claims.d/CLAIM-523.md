@@ -323,7 +323,7 @@ Arnstein 1969, read from an OCR scan ([NOTE-2037](../notes.d/NOTE-2037.md), [THE
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
 <!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
-Parallel, uncited. A48 §10 and §13 of the owner's manuscript (ADR-tmpsfjxu)
+Parallel, uncited. A48 §10 and §13 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md))
 state this claim's three achievements, detection, authority and correction
 within a deadline, including a formally contestable institution that cannot
 correct in time, without citing it; it is a member of the work.

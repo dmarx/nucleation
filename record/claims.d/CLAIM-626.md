@@ -181,7 +181,7 @@ from here.
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
 <!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
-Restatement, with drift. A48 §5.1 of the owner's manuscript (ADR-tmpsfjxu)
+Restatement, with drift. A48 §5.1 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md))
 restates this claim's three kinds of slowing, but recasts whether the
 collective reduction stays good as whether coordination weakens or the
 relationship continues to function; and its lineage section calls the claim

@@ -62,8 +62,8 @@ states such a model.
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: ADR-tmpsfjxu CLAIM-tmpyakra — Proposed; the work and the claim -->
+<!-- inactive-ok-block: CLAIM-tmpyakra — Proposed; the work and the claim -->
 Restatement and a partial answer. A48 §12 of the owner's manuscript (ADR-
 tmpsfjxu) restates this question's contrast of mechanism against
 compensation, and answers part of it: conserve a capability and its
-conditions of reproduction, not its occupant (CLAIM-tmpyakra).
+conditions of reproduction, not its occupant ([CLAIM-tmpyakra](../claims.d/CLAIM-tmpyakra.md)).

@@ -33,16 +33,15 @@ summary: 'A gap fill on the manuscript governance-of-possibility (A48 §9.3–9.
   owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpf71gk — Proposed; the claim this objects to -->
 
 # CLAIM-tmpg8yl2: Under a budget set each period to the last period's peak use, a redesigned transition is lost like the original unless its threshold is at most the cost of holding the present configuration, so redesign lowers the reserve a transition needs by the fall in its threshold and replaces the reserve only where it leaves no reconfiguration slack
 
 ## The derivation
 
 Take §9.1's rule: the next period's budget is the last period's peak use
-(CLAIM-577). Holding A uses r(A) = 1, so after one holding period the
+([CLAIM-577](CLAIM-577.md)). Holding A uses r(A) = 1, so after one holding period the
 budget is 1. A transition is affordable when the budget is at least its
-threshold, the least peak over its paths (CLAIM-571). So after a holding
+threshold, the least peak over its paths ([CLAIM-571](CLAIM-571.md)). So after a holding
 period a transition is kept exactly when its threshold is at most r(A).
 
 A48's redesigned path has threshold 2 > 1, so under the rule it is lost
@@ -51,7 +50,7 @@ after one period, as the original (threshold 3) is. The table's
 a reserve of 2 − r(A) = 1. Redesign therefore lowers the reserve a
 transition needs from θ − r(A) to θ′ − r(A), and replaces the reserve
 only when θ′ ≤ r(A), that is, when the transition needs no more than
-holding does, which is CLAIM-679's zero-slack limit. Otherwise reserve and
+holding does, which is [CLAIM-679](CLAIM-679.md)'s zero-slack limit. Otherwise reserve and
 redesign are complements, not alternatives.
 
 The script `scratch/formal/redesign_reserve_check.py` runs the four

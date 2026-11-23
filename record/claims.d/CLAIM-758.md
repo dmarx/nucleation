@@ -265,7 +265,7 @@ scientists.
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
 <!-- inactive-ok-block: ADR-tmpsfjxu TERM-tmpu5k0o — Proposed; the work and the term -->
-Extension. A48 §11 of the owner's manuscript (ADR-tmpsfjxu) carries this
+Extension. A48 §11 of the owner's manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md)) carries this
 claim to industrial ecosystems and draws productive specialization against
-destructive lock-in (TERM-tmpu5k0o), with the justification standard left
+destructive lock-in ([TERM-tmpu5k0o](../terms.d/TERM-tmpu5k0o.md)), with the justification standard left
 open.

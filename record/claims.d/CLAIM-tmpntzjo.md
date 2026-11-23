@@ -77,6 +77,6 @@ to the weak one: stabilization and adaptability always bear on each other.
 
 <!-- inactive-ok-block: ADR-tmpsfjxu — Proposed; the work -->
 Restatement, on the weak reading. The opening puzzle and §15 of the owner's
-manuscript (ADR-tmpsfjxu, A48) state this tension and its dependence on the
+manuscript ([ADR-tmpsfjxu](../decisions.d/ADR-tmpsfjxu.md), A48) state this tension and its dependence on the
 demands' timescales while denying a single-scale trade-off, without naming
 it as the owner's.

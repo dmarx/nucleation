@@ -216,9 +216,9 @@ cheaper transition architecture. Each acts through a different mechanism.
 
 ## Note of 2026-11-23: the manuscript governance-of-possibility
 
-<!-- inactive-ok-block: ADR-tmpsfjxu CLAIM-tmpg8yl2 — Proposed; the work and the fill this note names -->
+<!-- inactive-ok-block: CLAIM-tmpg8yl2 — Proposed; the work and the fill this note names -->
 Restatement and an objection. A48 §9.1 of the owner's manuscript (ADR-
 tmpsfjxu) restates A36's case of this claim. Its §9.3 redesigned route, with
 a staging path of peak 2, is lost under this claim's own rule after one
-period unless a reserve is also held, which CLAIM-tmpg8yl2 derives and
+period unless a reserve is also held, which [CLAIM-tmpg8yl2](CLAIM-tmpg8yl2.md) derives and
 scratch/formal/redesign_reserve_check.py checks.

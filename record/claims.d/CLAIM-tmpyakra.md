@@ -38,7 +38,7 @@ bears_on:
 
 ## The claim
 
-A48 §12 sets ecological harmony against coexistence (CLAIM-075: viability
+A48 §12 sets ecological harmony against coexistence ([CLAIM-075](CLAIM-075.md): viability
 does not fix what ought to persist) and asks what a regulator protecting
 an ecosystem's differentiated capabilities should keep. Its answer is the
 capability and what reproduces it (infrastructure, expertise, access),
@@ -47,7 +47,7 @@ to keep the capability, and not the only one.
 
 ## How it rests
 
-On CLAIM-556's distinction of regeneration from persistence (a capability
-that survives turnover), and on CLAIM-075 for why viability alone does
+On [CLAIM-556](CLAIM-556.md)'s distinction of regeneration from persistence (a capability
+that survives turnover), and on [CLAIM-075](CLAIM-075.md) for why viability alone does
 not choose what to conserve. It bears on the exchange's open question of
-mechanism against compensation (QUESTION-tmpn9t5a).
+mechanism against compensation ([QUESTION-tmpn9t5a](../questions.d/QUESTION-tmpn9t5a.md)).
