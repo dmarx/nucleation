@@ -25,6 +25,12 @@
   learned about 3) or being found out from outside costs (S4, sigma = 3:
   1 against 0). Sweep: at large sigma pen and amnesty agree.
 
+- Step 3: filed CASE-tmp8mk6w (executed study), CLAIM-tmpbbfcj (pathwise
+  dominance, demonstrated), CLAIM-tmpjz94s and CLAIM-tmp0bqyu (alternative
+  readings of the lead's test, empirical); dated notes on LEAD-181,
+  CLAIM-662, CLAIM-657, CLAIM-663, QUESTION-279, QUESTION-456; changelog
+  fragment record/changelog.d/lead-181.md.
+
 ## Choices made
 
 - "Without penalties" has several readings; five regimes run (amnesty,
@@ -35,6 +41,9 @@
   shield, which made 'none' inquire without fixing. Corrected before the
   reported run.
 
+- Lean: CLAIM-tmp0bqyu (varies only the penalty) as what the result
+  means; CLAIM-tmpjz94s as the lead's test taken at its word.
+
 ## Next
 
-- Filing.
+- Report to the lead. Nothing else pending.

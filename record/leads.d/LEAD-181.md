@@ -45,3 +45,35 @@ Where the record names it:
 ## What would count
 
 Less inquiry under the penalty supports [CLAIM-662](../claims.d/CLAIM-662.md); none defeats it.
+
+## Note of 2026-11-23: the simulation built and run
+<!-- inactive-ok-file: CASE-tmp8mk6w CLAIM-tmpbbfcj CLAIM-tmpjz94s CLAIM-tmp0bqyu — new; filed by the lead run of 2026-11-23 -->
+<!-- inactive-ok-file: CLAIM-657 — Proposed; the route the result instantiates -->
+
+Carried out by the assistant. CASE-tmp8mk6w builds CASE-249's institution
+(scratch/studies/lead-181/): 30 fixed requirements, 20 of them found only by
+inquiry, an internal evaluator counting recognized violations and an
+independent one counting all, a stationary policy splitting each period's
+budget among inquiry, remediation and output, chosen both by Monte Carlo
+optimum and by 16 gradient-bandit learners. Five governance regimes in four
+settings. Under the penalty on every recognized violation with discovery
+unrewarded, the institution makes no inquiry in any setting (CLAIM-tmpbbfcj
+proves it path by path where nothing surfaces from outside) and its internal
+count ends near 0 while about a third to two thirds of its violations remain.
+
+What "without penalties" means decides the test, so two readings are filed
+as alternatives for the owner. CLAIM-tmpjz94s: against scoring by the
+independent count, inquiry falls from 5 or 6 units of 10 to 0 in every
+setting, and the lead's test is met. CLAIM-tmp0bqyu: against internal
+scoring with only that penalty removed (amnesty, or none), inquiry is 0 both
+ways where inquiry costs output and earns nothing else, and lower under the
+penalty only where inquiry is free or being found out from outside costs
+extra; there the test is met in two settings of four, and where it is not,
+CLAIM-662 is not defeated, since the incentive is present and there is no
+inquiry for it to remove. The assistant leans to CLAIM-tmp0bqyu as the
+reading of what the result means, since it varies only the penalty, and
+reads CLAIM-tmpjz94s as the lead's test taken at its word.
+
+Not done: CASE-249's tolerance axis and its breadth and depth budgets (k, T)
+were not exercised, nor relaxing tolerances as a second route to a better
+score; policies are stationary. The lead's status and stage are the owner's.
