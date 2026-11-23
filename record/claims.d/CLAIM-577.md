@@ -191,3 +191,16 @@ No status changes.
 
 <!-- inactive-ok-block: CASE-343 CLAIM-921 — new; LEAD-036's study and the claim drawn from it -->
 [LEAD-036](../leads.d/LEAD-036.md) ran [QUESTION-386](../questions.d/QUESTION-386.md)'s funding loop under A's rule B_{t+1} = B̄ + ηM_t, with competence bought from the budget and a capability committed only when competent enough ([CASE-343](../cases.d/CASE-343.md)). It bears on the scope stated under "What it does not say": a floor B̄ breaks this claim's argument, but where the floor alone sustains competence below the level at which the capability is used, the same loss returns, after a stretch without use set by the decay rate rather than after one held period, and only funding maintenance apart from use prevents it ([CLAIM-921](CLAIM-921.md)). No status changes.
+
+<!-- inactive-ok-file: TERM-tmpz28l1 — Proposed; filed in this filing of 2026-11-22 (second share) -->
+
+## Note of 2026-11-22: the industrial reading
+
+A36 of the exchange "Explain First Contact RL" (second share, ChatGPT,
+2026-11-22) uses this claim's budget rule verbatim, configurations A and
+B costing 1 and the route through M costing 3, as the industrial case of
+lost reorganization capacity: "Utilization-based optimization can
+destroy capacity whose value appears only under counterfactual future
+conditions." A36 names three remedies: reserves, carry-over, and a
+cheaper transition architecture. Each acts through a different mechanism.
+[TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md) cites it.

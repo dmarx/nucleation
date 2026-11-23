@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpr4sof
 title: 'Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-11-06'
@@ -26,6 +26,12 @@ history:
     owner's manuscript from the exchange "Topological protection
     explained": A43 §4.2 states its proposition, and §11 its third
     limit. No other change.
+- version: 4
+  date: '2026-11-22'
+  note: >-
+    A dated note: the regulatory corollary, filed as a claim resting on
+    this one, from the exchange 'Explain First Contact RL' (2026-11-22).
+    No other change.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -71,6 +77,7 @@ summary: >-
   second half is the filer's. The wording is A's; adopting it is the
   owner's call.
 ---
+<!-- inactive-ok-file: CLAIM-tmpk4bou — Proposed or Open; filed in the filing of the exchange 'Explain First Contact RL' of 2026-11-22 and cited in its note -->
 
 # CLAIM-582: Under a fixed dynamical model an added hard constraint cannot enlarge the set of admissible trajectories, so it cannot enlarge what some admissible path reaches or lower the least cost of reaching it; what it can improve is a property required of every path a disturbance or a given process may take, such as robustness or reliability, and a constraint that does more has changed the mechanism
 
@@ -177,3 +184,13 @@ change of mechanism each time.
 ## Note of 2026-11-05: the resource-bounded realizability readings
 
 The reading of Raussen ([NOTE-1581](../notes.d/NOTE-1581.md)), filed beside the pasted synthesis on resource-bounded realizability, supports the claim in a model of concurrent programs that share resources of given capacities. An artificial resource added to cut out doomed regions only removes states, and the spaces of directed paths to targets outside those regions are unchanged. That is the reader's reading of the model as stated. No status changes.
+
+## Note of 2026-11-22: the regulatory corollary
+
+A31 §4 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
+states this claim of regulation: adding a hard constraint "cannot expand
+what is feasible" when everything else is fixed, though real regulation
+often changes the dynamics. [CLAIM-tmpk4bou](CLAIM-tmpk4bou.md) rests on this claim and derives
+the consequence for the compatibility complex of public demands. A pure
+hard constraint on fixed dynamics can only shrink the complex, so relief
+of the original demands needs a change of model. No status change.

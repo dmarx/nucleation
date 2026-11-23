@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmp22a7y
 title: 'Can a moral norm work among cooperating groups as a stabilizing mechanism does in coexistence theory, limiting a dominant group more than it limits its rivals so that a group reduced to rarity can increase again; and is that what separates norms that keep several groups in being from norms that serve only one group''s internal cooperation?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-11-22'
+  note: >-
+    A dated note: the industrial counterpart filed as a question of its
+    own, from the exchange 'Explain First Contact RL' (2026-11-22). No
+    other change.
 tags:
 - society-and-governance
 - ethics
@@ -65,3 +72,15 @@ level of the group" to restrain the group's own aggressive members (p.
 554). That limits a group's aggression from inside, whatever its size, so
 it is closer to equalizing than to stabilizing. Its refs. 206 and 227–229
 (intergroup tolerance as risk buffering) are leads, not registered.
+
+## Note of 2026-11-22: the industrial counterpart
+
+A33 §4 of the exchange "Explain First Contact RL" (ChatGPT, 2026-11-22)
+calls this question "an almost direct prototype for ecological regulatory
+design" and asks its counterpart for regulation in an industrial
+ecosystem: does a rule that alters access to essential infrastructure
+stabilize, where subsidies to entrants only equalize? Its diagnostic is
+whether "a specialized producer can regain viable participation when
+demand for its capability returns". That is filed as [QUESTION-tmpn9t5a](QUESTION-tmpn9t5a.md),
+with a model to test it ([LEAD-tmpy0jkr](../leads.d/LEAD-tmpy0jkr.md)). It is a sibling of this question,
+for regulations rather than moral norms, and does not answer it.

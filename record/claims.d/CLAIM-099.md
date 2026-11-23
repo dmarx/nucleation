@@ -63,3 +63,19 @@ this claim's separation, the regime of effective action kept while the
 capacity is lost, with K read off the case and not chosen. What the rule
 leaves is the agent's boundary, filed as two readings for the owner,
 [CLAIM-917](CLAIM-917.md) and [CLAIM-915](CLAIM-915.md). The claim is unchanged.
+
+<!-- inactive-ok-file: TERM-tmpz28l1 — Proposed; filed in this filing of 2026-11-22 (second share) -->
+
+## Note of 2026-11-22: a formal reading for an industrial ecosystem
+
+In the second share of the exchange "Explain First Contact RL" (ChatGPT,
+2026-11-22), A36 makes this claim formal, at the owner's U19, as the
+viability kernel of reorganization readiness ([TERM-tmpz28l1](../terms.d/TERM-tmpz28l1.md)). The state is
+enlarged to (x, g, c), ecosystem, governance and reorganizational
+capacities, each with its own dynamics. The capacity to govern among
+regimes is a set C_ω(B, τ) of states with an affordable, safe route to a
+viable alternative after a contingency ω. Maintaining it is staying in
+the viability kernel of the states that are ready for every declared
+contingency. A36: "A system can maintain x_t and g_t while c_t
+degrades." This is a parallel and a formalization. The term draws on this
+claim; the claim's standing is unchanged.

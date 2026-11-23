@@ -77,6 +77,7 @@ summary: >-
 bears_on:
 - QUESTION-264
 ---
+<!-- inactive-ok-file: CLAIM-tmpm54la CLAIM-tmp7580l TERM-tmpm0s7g TERM-tmpxwa7g CLAIM-tmp3xo35 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CASE-362 CLAIM-945 — new, filed by LEAD-087's run -->
 <!-- inactive-ok-file: CLAIM-417 TERM-063 — Proposed; claims and terms cited as open, nothing here rests on their being settled -->
 
@@ -266,3 +267,17 @@ which is part 2's "need not coincide" in the less contested direction. [CLAIM-94
 could would measure.
 
 The claim is unchanged.
+
+## Note of 2026-11-22: a team as a pseudo-self, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+Applied, in A21 and A22, to the owner's U10, "a team as a pseudo-self where
+the perspectives are necessarily separable" ([CLAIM-tmpm54la](CLAIM-tmpm54la.md), the owner's).
+A21's objection is this claim's second clause turned on a team: the members
+are separable as carriers, the perspectives need not be ([CLAIM-tmp7580l](CLAIM-tmp7580l.md),
+Proposed, which rests on this claim). A29 §6 gave it a model: members'
+carrier-tagged measures on C × X are always mutually singular while their
+projections to X can coincide. A22 §1 writes the general form as m ≠ n
+between carriers and perspectives, and built [TERM-tmpm0s7g](../terms.d/TERM-tmpm0s7g.md)'s senses of
+singularity and [TERM-tmpxwa7g](../terms.d/TERM-tmpxwa7g.md)'s pseudo-self (both Proposed) on it.
+[CLAIM-tmp3xo35](CLAIM-tmp3xo35.md) (Proposed) concludes that self-like unity does not require
+one overarching perspective. The claim is unchanged.

@@ -94,6 +94,7 @@ complements:
 - CLAIM-476
 - CLAIM-479
 ---
+<!-- inactive-ok-file: CLAIM-tmp86z76 CLAIM-tmpcsh5p — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # CLAIM-181: The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is forced into one or lost until the misfit is noticed and the grammar amended to hold it
@@ -256,3 +257,22 @@ or a failure, until the programmer notices and adds a qualifier (p. 160).
 The paper names the difficulty this claim names: a failure does not say
 whether the program is wrong or the vocabulary too small, and telling the
 two apart is future work (p. 169).
+
+## Note of 2026-11-22: synchronization as homogenization, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+A qualification, from A18 §6. A treats this claim's danger as the failure
+mode of a record that synchronizes its collaborators: those who distinguish
+phenomena differently are made to translate into a fixed vocabulary, and
+"they might converge on that vocabulary because the tool makes alternatives
+expensive or impossible to express. Measured consistency rises. Internal
+disagreement becomes less visible." A's table separates productive
+stabilization (distinct claims and objections kept; revision traceable;
+failures of the vocabulary exposed; warranted disagreement kept) from
+pathological convergence (differences collapsed into one formulation;
+revision made prohibitively hard; the vocabulary treated as exhaustive;
+agreement rewarded as evidence of correctness). It adds that compiling
+norms into mechanisms ([DP-3](../../docs/design-principles.md#dp-3)) makes the risk "especially consequential".
+[CLAIM-tmp86z76](CLAIM-tmp86z76.md) (Proposed) takes this claim as the limit of its thesis that
+a governed record synchronizes without convergence, and [CLAIM-tmpcsh5p](CLAIM-tmpcsh5p.md)
+(Proposed) as the reason a record must keep the interruptions that change
+its grammar. The claim is unchanged.

@@ -23,6 +23,7 @@ summary: >-
   coupling needs no agreement. The two are separate dimensions, and
   [TERM-050](TERM-050.md) stays Active beside it.
 ---
+<!-- inactive-ok-file: CLAIM-tmpmk036 — Proposed; filed from the exchange "Explain First Contact RL" of 2026-11-22 and cited in its dated note -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-358 CLAIM-364 CLAIM-362 — Proposed or Open; the objection, questions and claims this term is set beside -->
 
 # TERM-061: practical synchronization: an agent's action-generating regimes, relative to a context and a horizon, sustaining mutually compatible courses of activity through their own interactions, without recurrent overriding arbitration by a higher level, whether or not they rank the same course first
@@ -136,3 +137,18 @@ mechanism, though not in the sense [TERM-050](TERM-050.md) gives it." [QUESTION-
 the question it serves: whether "differentiated interests keep distinct
 roles, boundaries and pathways of influence within a stable or metastable
 pattern of coordination". [CLAIM-358](../claims.d/CLAIM-358.md) is stated in it.
+
+## Note of 2026-11-22: a validator as a higher level, from the exchange "Explain First Contact RL" (https://chatgpt.com/share/6b037165-3a1c-83ea-9d7c-311c7807acd3)
+
+A20 §1 to §3 used this term to say that a governed record supports
+practical synchronization rather than valuational concordance ([TERM-050](TERM-050.md)):
+collaborators can disagree about theories and priorities and still develop
+an argument together. A20 §3 then asked whether a record whose validators
+enforce its rules is "itself performing the arbitration", and answered
+"Yes, at least partly". That bears on this definition's clause "without
+recurrent overriding arbitration by a higher level": a rule set beforehand
+and enforced automatically is plausibly such a level, so coordination a
+record enforces is not practical synchronization in this sense, though it
+may lead to it. [CLAIM-tmpmk036](../claims.d/CLAIM-tmpmk036.md) (Proposed) files the distinction as a third
+mechanism, externalized governance, with a test by withdrawal. The
+definition is unchanged.
