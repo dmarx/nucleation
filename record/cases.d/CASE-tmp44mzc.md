@@ -32,7 +32,7 @@ reported_in:
 - NOTE-tmpleeno
 - NOTE-tmp5w6pe
 summary: >-
-  CASE-105's open respect, read from public pages on 2026-11-23: how the
+  [CASE-105](CASE-105.md)'s open respect, read from public pages on 2026-11-23: how the
   league, the club and supporters count the 2005 Nationals against the
   original Senators (1901 to 1960) and the Expos. Fourteen statements from
   seven sources, coded by rules written first. The league's own pages
@@ -54,9 +54,9 @@ summary: >-
 
 ## The study
 
-LEAD-099 asked whether the league, the club or its supporters count the
+[LEAD-099](../leads.d/LEAD-099.md) asked whether the league, the club or its supporters count the
 2005 Washington Nationals as the original Senators' continuation, which is
-the test CLAIM-329's defeater names and CASE-105 left open. The run read
+the test [CLAIM-329](../claims.d/CLAIM-329.md)'s defeater names and [CASE-105](CASE-105.md) left open. The run read
 public pages on 2026-11-23 and coded each statement by rules written
 before reading (scratch/studies/lead-099/CODING.md):
 
@@ -81,10 +81,10 @@ obstacle, are obstacles.tsv beside it.
 | party | statements | codes | verdict |
 |---|---|---|---|
 | LEAGUE | none reached (mlb.com returned HTTP 406) | | not found |
-| HOF | 7, 8 (NOTE-tmp41tft) | C-EX, D-SEN | the franchise through Montreal; the original club "now the Minnesota Twins" |
-| PRESS and reference | 9 (NOTE-tmpomjp5), 10 (NOTE-tmpdyoej) | C-EX for the franchise; H-SEN for the city | "the first title in franchise history", and the first "to the nation's capital" since the Senators' 1924 |
-| CLUB | 1, 2 (NOTE-tmpr4az8); 4, 5, 6 (NOTE-tmp89bvx) | H-SEN; a new club; weak D-EX in honours | heritage only |
-| SUPPORTERS | 11, 12, 13 (NOTE-tmpleeno); 14 (NOTE-tmp5w6pe) | D-SEN; C-EX and D-EX; H-SEN with D-EX | heritage only, on the pages reached |
+| HOF | 7, 8 ([NOTE-tmp41tft](../notes.d/NOTE-tmp41tft.md)) | C-EX, D-SEN | the franchise through Montreal; the original club "now the Minnesota Twins" |
+| PRESS and reference | 9 ([NOTE-tmpomjp5](../notes.d/NOTE-tmpomjp5.md)), 10 ([NOTE-tmpdyoej](../notes.d/NOTE-tmpdyoej.md)) | C-EX for the franchise; H-SEN for the city | "the first title in franchise history", and the first "to the nation's capital" since the Senators' 1924 |
+| CLUB | 1, 2 ([NOTE-tmpr4az8](../notes.d/NOTE-tmpr4az8.md)); 4, 5, 6 ([NOTE-tmp89bvx](../notes.d/NOTE-tmp89bvx.md)) | H-SEN; a new club; weak D-EX in honours | heritage only |
+| SUPPORTERS | 11, 12, 13 ([NOTE-tmpleeno](../notes.d/NOTE-tmpleeno.md)); 14 ([NOTE-tmp5w6pe](../notes.d/NOTE-tmp5w6pe.md)) | D-SEN; C-EX and D-EX; H-SEN with D-EX | heritage only, on the pages reached |
 
 - **The club at its founding.** Its president in November 2004, as quoted
   in 2020: "a page of records from the old Senators, a page of records
@@ -121,7 +121,7 @@ That the parties distinguish two units and count them differently: the
 franchise, which they trace through Montreal and never through the
 Senators, and the city's baseball, which they trace to 1859 or 1901 and
 into which the club, the press and supporters put the Senators, the
-Homestead Grays and the Nationals alike. This is CLAIM-328's row for
+Homestead Grays and the Nationals alike. This is [CLAIM-328](../claims.d/CLAIM-328.md)'s row for
 narrative and place ("the 2005 Nationals, by claim") with the claim's
 content now read: the claim is to a place's history, not a club's.
 

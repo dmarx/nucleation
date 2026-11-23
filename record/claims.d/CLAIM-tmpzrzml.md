@@ -18,7 +18,7 @@ objects_to:
 - CLAIM-329
 summary: >-
   The alternative reading of the lead run of 2026-11-23, filed beside
-  CLAIM-tmpl3ubq, which the run leans to. The verdict (CLAIM-tmp7z7si)
+  [CLAIM-tmpl3ubq](CLAIM-tmpl3ubq.md), which the run leans to. The verdict ([CLAIM-tmp7z7si](CLAIM-tmp7z7si.md))
   finds that no one counts the Nationals the Senators' franchise
   continued, but the club and supporters do count something as continuing:
   "The legacy of the Washington Nationals goes back not to Canada" but to
@@ -26,7 +26,7 @@ summary: >-
   as its own. If that tradition is a collective, Washington's major-league
   club taken as one thing, then participants count it as persisting across
   three organizations, none transmitted from the one before, and the
-  counting is by place and name. That would be the case CLAIM-329's
+  counting is by place and name. That would be the case [CLAIM-329](CLAIM-329.md)'s
   defeater asks for, unless the supporters who carried the tradition
   through 1972 to 2004 are the transmission. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
@@ -37,14 +37,14 @@ summary: >-
 
 ## The objection
 
-CLAIM-329 says a collective that replaces all its members persists by
+[CLAIM-329](CLAIM-329.md) says a collective that replaces all its members persists by
 causal transmission of the organization that produces it, not by
 resemblance, and its defeater asks for participants counting a later
 collective the earlier one's continuation with no causal path between
 their organizations.
 
-The verdict (CLAIM-tmp7z7si) answers no for the franchise. But the
-statements coded in CASE-tmp44mzc show a second unit that participants do
+The verdict ([CLAIM-tmp7z7si](CLAIM-tmp7z7si.md)) answers no for the franchise. But the
+statements coded in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md) show a second unit that participants do
 count as continuing: the city's club. A supporter-writer: "The legacy of
 the Washington Nationals goes back not to Canada, but to the rich baseball
 history" of Washington, against those who "would attempt to convince us
@@ -61,10 +61,10 @@ original club's official name.
 ## What it needs, and the reply
 
 It needs the city's club to be a collective and not only a history told
-of a place. And CLAIM-329 has a reply in its own title: the supporters who
+of a place. And [CLAIM-329](CLAIM-329.md) has a reply in its own title: the supporters who
 kept Washington baseball through 1972 to 2004 are a causal path, so "a
 lapse in its coherence need not end it". The objection holds only if
 supporters' memory is not the transmission of the organization that
-produces the club, which is QUESTION-118's open part (what must be
-transmitted). CLAIM-tmpl3ubq takes the heritage as a place's history and
+produces the club, which is [QUESTION-118](../questions.d/QUESTION-118.md)'s open part (what must be
+transmitted). [CLAIM-tmpl3ubq](CLAIM-tmpl3ubq.md) takes the heritage as a place's history and
 not a collective, and the run leans to it.

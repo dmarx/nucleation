@@ -12,7 +12,7 @@ history:
     the excerpts it returned, checked against the page the same day.
 date: '2026-11-23'
 summary: >-
-  Used for the club's honours: its Ring of Honor (2010) honours both Senators clubs, the Homestead Grays and the Expos, and since 2016 anyone who contributed to baseball in Washington, D.C.; the Expos' retired numbers returned to circulation. Coded as data in CASE-tmp44mzc.
+  Used for the club's honours: its Ring of Honor (2010) honours both Senators clubs, the Homestead Grays and the Expos, and since 2016 anyone who contributed to baseball in Washington, D.C.; the Expos' retired numbers returned to circulation. Coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 

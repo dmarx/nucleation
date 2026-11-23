@@ -81,7 +81,7 @@ work the exchange found.
 <!-- inactive-ok-block: CASE-tmp44mzc CLAIM-tmp7z7si — new, Proposed; the study and verdict filed by the lead run of 2026-11-23 -->
 This case said the Nationals' "Washington identity invokes the city's
 older baseball history while their franchise lineage runs through
-Montreal". CASE-tmp44mzc read what that invocation is, from fourteen
+Montreal". [CASE-tmp44mzc](CASE-tmp44mzc.md) read what that invocation is, from fourteen
 public statements: the club displays the Senators' records on a page of
 their own and called itself "a new team" in 2004; its Ring of Honor
 honours both Senators clubs, the Expos and the Homestead Grays, and since
@@ -89,5 +89,5 @@ honours both Senators clubs, the Expos and the Homestead Grays, and since
 the supporter pages reached assign the Senators' records to the Twins and
 Rangers, or claim their legacy for the city, not their records for the
 club. No statement counts the Nationals the original club continued
-(CLAIM-tmp7z7si). How supporters actually divided is still not
+([CLAIM-tmp7z7si](../claims.d/CLAIM-tmp7z7si.md)). How supporters actually divided is still not
 documented. The case is unchanged.

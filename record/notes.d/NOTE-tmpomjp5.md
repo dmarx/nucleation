@@ -12,7 +12,7 @@ history:
     the excerpts it returned, checked against the page the same day.
 date: '2026-11-23'
 summary: >-
-  The standard statistical reference counts the Nationals one franchise with the Expos, 1969 on, with no Senators season, and counts the original Senators' seasons with the Twins. Coded as data in CASE-tmp44mzc.
+  The standard statistical reference counts the Nationals one franchise with the Expos, 1969 on, with no Senators season, and counts the original Senators' seasons with the Twins. Coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 

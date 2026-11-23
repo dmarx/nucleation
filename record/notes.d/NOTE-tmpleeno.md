@@ -12,7 +12,7 @@ history:
     the excerpts it returned, checked against the page the same day.
 date: '2026-11-23'
 summary: >-
-  A fan-board thread of 5 November 2004 on the move: one poster assigns the original Senators' records to the Twins and the expansion Senators' to the Rangers, and two divide over whether the Expos' records carry over. Coded as data in CASE-tmp44mzc.
+  A fan-board thread of 5 November 2004 on the move: one poster assigns the original Senators' records to the Twins and the expansion Senators' to the Rangers, and two divide over whether the Expos' records carry over. Coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 
@@ -26,7 +26,7 @@ Supporters' usage at the time of the move: what fans on a board took the relocat
 
 - **The Senators' records.** estragand (#5): "Original Senators records are part of Twins history, and 60's/70's Senators records are now part of the Rangers."
 - **The Expos' records, for.** Sec19Row53 (#6): "Since there won't be another Expos franchise, I have to believe that the Expos records will apply to the Nationals."
-- **The Expos' records, against.** BigSteve (#8): "anytime a team changes city AND nickname (Montreal Expos to Washington Nationals), they are a 'new' team." And: "Baseball-reference.com doesn't list the Twins as ever being the Washington Nationals."
+- **The Expos' records, against.** BigSteve ([#8](https://github.com/dmarx/nucleation/issues/8)): "anytime a team changes city AND nickname (Montreal Expos to Washington Nationals), they are a 'new' team." And: "Baseball-reference.com doesn't list the Twins as ever being the Washington Nationals."
 
 ## Assumptions
 

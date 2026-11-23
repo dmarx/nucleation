@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpomjp5) by the lead run of that date; a dated document
-  coded as data in CASE-tmp44mzc.
+  read 2026-11-23 ([NOTE-tmpomjp5](../notes.d/NOTE-tmpomjp5.md)) by the lead run of that date; a dated document
+  coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 title: 'Washington Nationals Team History & Encyclopedia'
 version: 1
 history:
@@ -26,7 +26,7 @@ keywords:
 - 'team history'
 implementations: []
 summary: >-
-  The standard statistical reference counts the Nationals one franchise with the Expos, 1969 on, with no Senators season, and counts the original Senators' seasons with the Twins. Read in NOTE-tmpomjp5; coded as data in CASE-tmp44mzc.
+  The standard statistical reference counts the Nationals one franchise with the Expos, 1969 on, with no Senators season, and counts the original Senators' seasons with the Twins. Read in [NOTE-tmpomjp5](../notes.d/NOTE-tmpomjp5.md); coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 
@@ -42,4 +42,4 @@ Baseball-Reference (2026): https://www.baseball-reference.com/teams/WSN/index.sh
 ## Standing in the record
 
 A dated document, not an account: the record uses it for what it says and
-when, coded in CASE-tmp44mzc. No THEORY is filed from it.
+when, coded in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md). No THEORY is filed from it.

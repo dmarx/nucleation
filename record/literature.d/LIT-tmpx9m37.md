@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmp41tft) by the lead run of that date; a dated document
-  coded as data in CASE-tmp44mzc.
+  read 2026-11-23 ([NOTE-tmp41tft](../notes.d/NOTE-tmp41tft.md)) by the lead run of that date; a dated document
+  coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 title: 'Washington Nationals | Baseball Hall of Fame'
 version: 1
 history:
@@ -26,7 +26,7 @@ keywords:
 - 'Minnesota Twins'
 implementations: []
 summary: >-
-  The Hall of Fame's Nationals page calls the club "the Expos/Nationals franchise" and places Walter Johnson on it as "star of the old Washington Senators (now the Minnesota Twins)". Read in NOTE-tmp41tft; coded as data in CASE-tmp44mzc.
+  The Hall of Fame's Nationals page calls the club "the Expos/Nationals franchise" and places Walter Johnson on it as "star of the old Washington Senators (now the Minnesota Twins)". Read in [NOTE-tmp41tft](../notes.d/NOTE-tmp41tft.md); coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 
@@ -42,4 +42,4 @@ National Baseball Hall of Fame and Museum (2026): https://baseballhall.org/node/
 ## Standing in the record
 
 A dated document, not an account: the record uses it for what it says and
-when, coded in CASE-tmp44mzc. No THEORY is filed from it.
+when, coded in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md). No THEORY is filed from it.

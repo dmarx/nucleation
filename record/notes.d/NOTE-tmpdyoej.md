@@ -12,7 +12,7 @@ history:
     the excerpts it returned, checked against the page the same day.
 date: '2026-11-23'
 summary: >-
-  The AP's 2019 game story: "the first title in franchise history" for a franchise that "started out as the Montreal Expos in 1969", and the first for "the nation's capital" since the Senators' 1924 title. Coded as data in CASE-tmp44mzc.
+  The AP's 2019 game story: "the first title in franchise history" for a franchise that "started out as the Montreal Expos in 1969", and the first for "the nation's capital" since the Senators' 1924 title. Coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 

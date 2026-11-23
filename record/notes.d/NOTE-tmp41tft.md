@@ -12,7 +12,7 @@ history:
     the excerpts it returned, checked against the page the same day.
 date: '2026-11-23'
 summary: >-
-  The Hall of Fame's Nationals page calls the club "the Expos/Nationals franchise" and places Walter Johnson on it as "star of the old Washington Senators (now the Minnesota Twins)". Coded as data in CASE-tmp44mzc.
+  The Hall of Fame's Nationals page calls the club "the Expos/Nationals franchise" and places Walter Johnson on it as "star of the old Washington Senators (now the Minnesota Twins)". Coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 

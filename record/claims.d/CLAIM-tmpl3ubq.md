@@ -24,15 +24,15 @@ rests_on:
 - CLAIM-tmp7z7si
 summary: >-
   The reading the lead run of 2026-11-23 leans to, of what its verdict
-  (CLAIM-tmp7z7si) does to the test CLAIM-329's defeater names. Nobody
+  ([CLAIM-tmp7z7si](CLAIM-tmp7z7si.md)) does to the test [CLAIM-329](CLAIM-329.md)'s defeater names. Nobody
   read counts the Nationals the Senators continued, so the first half of
   the defeater, participants counting a later collective the earlier one's
   continuation, is not met. What is claimed, by the club's Ring of Honor
   and a supporter-writer, is the city's baseball since 1859 or 1901, a
   heritage in which the Homestead Grays stand beside the Senators; it
   persists, if it does, through the city and the supporters who carried it
-  across 1972 to 2004, which is CLAIM-329's "a lapse in its coherence need
-  not end it". The alternative, CLAIM-tmpzrzml, reads that heritage as a
+  across 1972 to 2004, which is [CLAIM-329](CLAIM-329.md)'s "a lapse in its coherence need
+  not end it". The alternative, [CLAIM-tmpzrzml](CLAIM-tmpzrzml.md), reads that heritage as a
   collective's persistence without transmission. The wording is the
   assistant's (Claude, in this session); adopting it is the owner's call.
 ---
@@ -42,14 +42,14 @@ summary: >-
 
 ## The claim
 
-CLAIM-329's defeater asks for "cases in which competent participants and
+[CLAIM-329](CLAIM-329.md)'s defeater asks for "cases in which competent participants and
 the record's criteria count a later collective as the earlier one's
 continuation with no causal path between their organizations, so that
-resemblance plus a shared name does the work." CASE-105 offered the 2005
-Nationals as the test, and the note of 2026-11-20 on CLAIM-329 held that
-they do not meet it, pending LEAD-099.
+resemblance plus a shared name does the work." [CASE-105](../cases.d/CASE-105.md) offered the 2005
+Nationals as the test, and the note of 2026-11-20 on [CLAIM-329](CLAIM-329.md) held that
+they do not meet it, pending [LEAD-099](../leads.d/LEAD-099.md).
 
-The verdict CLAIM-tmp7z7si answers the pending part. The Nationals share
+The verdict [CLAIM-tmp7z7si](CLAIM-tmp7z7si.md) answers the pending part. The Nationals share
 the original club's official name and its city, and still no party read
 counts them that club continued: the franchise is counted through
 Montreal, the original club's seasons stay with the Twins, and the club
@@ -62,7 +62,7 @@ in Washington since 1901", honoured in a Ring of Honor that takes in the
 Homestead Grays, who were never in either Senators lineage. That is a
 place's history claimed by its present club. If it is a persisting
 collective at all, its carriers are the city's supporters and institutions
-that kept it through 1972 to 2004, a causal path, and CLAIM-329 already
+that kept it through 1972 to 2004, a causal path, and [CLAIM-329](CLAIM-329.md) already
 allows that "a lapse in its coherence need not end it".
 
 ## Why this reading is preferred

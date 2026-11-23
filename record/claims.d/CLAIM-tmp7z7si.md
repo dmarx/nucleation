@@ -26,7 +26,7 @@ corroborates:
 - CLAIM-328
 summary: >-
   The verdict of the lead run of 2026-11-23, from fourteen coded
-  statements (CASE-tmp44mzc). The Hall of Fame, the statistical reference
+  statements ([CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md)). The Hall of Fame, the statistical reference
   and the AP put the Nationals' franchise through Montreal and the
   original club's seasons with the Twins; MLB's own pages were refused, so
   the league's count is the one it is reported to keep. The club's
@@ -35,7 +35,7 @@ summary: >-
   Senators clubs, the Expos and the Homestead Grays as baseball in
   Washington. The supporter pages reached assign the Senators' records to
   the Twins and Rangers, or claim their legacy for the city, never their
-  records for the club. It gives CLAIM-328's row for narrative and place
+  records for the club. It gives [CLAIM-328](CLAIM-328.md)'s row for narrative and place
   its content. The wording is the assistant's (Claude, in this session);
   adopting it is the owner's call.
 ---
@@ -45,10 +45,10 @@ summary: >-
 
 ## The claim
 
-CASE-105 left open how the league, the club and supporters count the
-2005 Nationals, and CLAIM-329's defeater names it as the test. Read from
+[CASE-105](../cases.d/CASE-105.md) left open how the league, the club and supporters count the
+2005 Nationals, and [CLAIM-329](CLAIM-329.md)'s defeater names it as the test. Read from
 public pages on 2026-11-23 and coded by rules written first
-(CASE-tmp44mzc):
+([CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md)):
 
 - **League.** Not reached in its own voice (mlb.com refused the fetch).
   The pages that state the standard count all count the franchise through

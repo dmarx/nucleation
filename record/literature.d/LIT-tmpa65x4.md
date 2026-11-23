@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmp5w6pe) by the lead run of that date; a dated document
-  coded as data in CASE-tmp44mzc.
+  read 2026-11-23 ([NOTE-tmp5w6pe](../notes.d/NOTE-tmp5w6pe.md)) by the lead run of that date; a dated document
+  coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 title: 'The Nationals Should Stop Claiming Expos History'
 version: 1
 history:
@@ -27,7 +27,7 @@ keywords:
 - 'fan opinion'
 implementations: []
 summary: >-
-  A supporter-writer (2023): "The legacy of the Washington Nationals goes back not to Canada" but to Washington's tradition "since 1901", which some would assign to Minnesota or Texas; he claims the legacy for the city, not the Senators' records for the club. Read in NOTE-tmp5w6pe; coded as data in CASE-tmp44mzc.
+  A supporter-writer (2023): "The legacy of the Washington Nationals goes back not to Canada" but to Washington's tradition "since 1901", which some would assign to Minnesota or Texas; he claims the legacy for the city, not the Senators' records for the club. Read in [NOTE-tmp5w6pe](../notes.d/NOTE-tmp5w6pe.md); coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 
@@ -44,4 +44,4 @@ Bestwick (2023): https://districtondeck.com/posts/the-nationals-should-stop-clai
 ## Standing in the record
 
 A dated document, not an account: the record uses it for what it says and
-when, coded in CASE-tmp44mzc. No THEORY is filed from it.
+when, coded in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md). No THEORY is filed from it.

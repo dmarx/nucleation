@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpr4az8) by the lead run of that date; a dated document
-  coded as data in CASE-tmp44mzc.
+  read 2026-11-23 ([NOTE-tmpr4az8](../notes.d/NOTE-tmpr4az8.md)) by the lead run of that date; a dated document
+  coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 title: 'What''s in a name for Nationals? A fresh start and no controversy'
 version: 1
 history:
@@ -27,7 +27,7 @@ keywords:
 - 'Tony Tavares'
 implementations: []
 summary: >-
-  The club's then president in November 2004, as quoted in 2020: the media guide would carry a page of the old Senators' records, a page of the Expos' and a blank page for the club's own, and "This is a new team." Read in NOTE-tmpr4az8; coded as data in CASE-tmp44mzc.
+  The club's then president in November 2004, as quoted in 2020: the media guide would carry a page of the old Senators' records, a page of the Expos' and a blank page for the club's own, and "This is a new team." Read in [NOTE-tmpr4az8](../notes.d/NOTE-tmpr4az8.md); coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 
@@ -44,4 +44,4 @@ NBC Sports Washington (2020): https://www.nbcwashington.com/news/sports/nbcsport
 ## Standing in the record
 
 A dated document, not an account: the record uses it for what it says and
-when, coded in CASE-tmp44mzc. No THEORY is filed from it.
+when, coded in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md). No THEORY is filed from it.

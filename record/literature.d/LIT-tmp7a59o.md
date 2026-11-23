@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmpleeno) by the lead run of that date; a dated document
-  coded as data in CASE-tmp44mzc.
+  read 2026-11-23 ([NOTE-tmpleeno](../notes.d/NOTE-tmpleeno.md)) by the lead run of that date; a dated document
+  coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 title: 'Goodbye Montreal Expos, Hello Washington Nationals'
 version: 1
 history:
@@ -27,7 +27,7 @@ keywords:
 - 'fan forum'
 implementations: []
 summary: >-
-  A fan-board thread of 5 November 2004 on the move: one poster assigns the original Senators' records to the Twins and the expansion Senators' to the Rangers, and two divide over whether the Expos' records carry over. Read in NOTE-tmpleeno; coded as data in CASE-tmp44mzc.
+  A fan-board thread of 5 November 2004 on the move: one poster assigns the original Senators' records to the Twins and the expansion Senators' to the Rangers, and two divide over whether the Expos' records carry over. Read in [NOTE-tmpleeno](../notes.d/NOTE-tmpleeno.md); coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 
@@ -39,9 +39,9 @@ Kawshen (2004): https://the-w.com/goodbye-montreal-expos-hello-washington-nation
 
 - **The Senators' records.** estragand (#5): "Original Senators records are part of Twins history, and 60's/70's Senators records are now part of the Rangers."
 - **The Expos' records, for.** Sec19Row53 (#6): "Since there won't be another Expos franchise, I have to believe that the Expos records will apply to the Nationals."
-- **The Expos' records, against.** BigSteve (#8): "anytime a team changes city AND nickname (Montreal Expos to Washington Nationals), they are a 'new' team." And: "Baseball-reference.com doesn't list the Twins as ever being the Washington Nationals."
+- **The Expos' records, against.** BigSteve ([#8](https://github.com/dmarx/nucleation/issues/8)): "anytime a team changes city AND nickname (Montreal Expos to Washington Nationals), they are a 'new' team." And: "Baseball-reference.com doesn't list the Twins as ever being the Washington Nationals."
 
 ## Standing in the record
 
 A dated document, not an account: the record uses it for what it says and
-when, coded in CASE-tmp44mzc. No THEORY is filed from it.
+when, coded in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md). No THEORY is filed from it.

@@ -12,7 +12,7 @@ history:
     the excerpts it returned, checked against the page the same day.
 date: '2026-11-23'
 summary: >-
-  A supporter-writer (2023): "The legacy of the Washington Nationals goes back not to Canada" but to Washington's tradition "since 1901", which some would assign to Minnesota or Texas; he claims the legacy for the city, not the Senators' records for the club. Coded as data in CASE-tmp44mzc.
+  A supporter-writer (2023): "The legacy of the Washington Nationals goes back not to Canada" but to Washington's tradition "since 1901", which some would assign to Minnesota or Texas; he claims the legacy for the city, not the Senators' records for the club. Coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 

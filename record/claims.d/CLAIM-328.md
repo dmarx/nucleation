@@ -149,10 +149,10 @@ coded as the project persisting ([CLAIM-tmpqpfvh](CLAIM-tmpqpfvh.md)).
 
 <!-- inactive-ok-block: CASE-tmp44mzc CLAIM-tmp7z7si — new, Proposed; the study and verdict filed by the lead run of 2026-11-23 -->
 This claim's table gives the respect of narrative and place to "the 2005
-Nationals, by claim". The claim has now been read (CASE-tmp44mzc): the
+Nationals, by claim". The claim has now been read ([CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md)): the
 club and supporters claim Washington's baseball, a history in which the
 Homestead Grays stand beside the Senators, and nobody read counts the
 Nationals the Senators' franchise, which the league's reported count, the
-Hall of Fame and the press trace through Montreal (CLAIM-tmp7z7si, which
+Hall of Fame and the press trace through Montreal ([CLAIM-tmp7z7si](CLAIM-tmp7z7si.md), which
 corroborates this claim). The respects come apart as the claim says, and
 participants keep them apart. The claim is unchanged.

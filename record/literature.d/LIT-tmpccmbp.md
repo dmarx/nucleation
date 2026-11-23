@@ -1,8 +1,8 @@
 ---
 status: Active
 status_note: >-
-  read 2026-11-23 (NOTE-tmp89bvx) by the lead run of that date; a dated document
-  coded as data in CASE-tmp44mzc.
+  read 2026-11-23 ([NOTE-tmp89bvx](../notes.d/NOTE-tmp89bvx.md)) by the lead run of that date; a dated document
+  coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 title: 'Washington Nationals'
 version: 1
 history:
@@ -28,7 +28,7 @@ keywords:
 - 'Homestead Grays'
 implementations: []
 summary: >-
-  Used for the club's honours: its Ring of Honor (2010) honours both Senators clubs, the Homestead Grays and the Expos, and since 2016 anyone who contributed to baseball in Washington, D.C.; the Expos' retired numbers returned to circulation. Read in NOTE-tmp89bvx; coded as data in CASE-tmp44mzc.
+  Used for the club's honours: its Ring of Honor (2010) honours both Senators clubs, the Homestead Grays and the Expos, and since 2016 anyone who contributed to baseball in Washington, D.C.; the Expos' retired numbers returned to circulation. Read in [NOTE-tmp89bvx](../notes.d/NOTE-tmp89bvx.md); coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 
@@ -45,4 +45,4 @@ Wikipedia contributors (2026): https://en.wikipedia.org/wiki/Washington_National
 ## Standing in the record
 
 A dated document, not an account: the record uses it for what it says and
-when, coded in CASE-tmp44mzc. No THEORY is filed from it.
+when, coded in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md). No THEORY is filed from it.

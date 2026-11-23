@@ -357,9 +357,9 @@ persistence, not of what persistence is.
 ## Note of 2026-11-23 (later): the 2005 Nationals, as the league's count, the club and supporters count them
 
 <!-- inactive-ok-block: CASE-tmp44mzc CLAIM-tmp7z7si — new, Proposed; the study and the verdict filed by the lead run of 2026-11-23 -->
-The note of 2026-11-20 left the Nationals' test to LEAD-099. Its run coded
-fourteen public statements (CASE-tmp44mzc). No statement found counts the
-Nationals the original Senators continued (CLAIM-tmp7z7si): the Hall of
+The note of 2026-11-20 left the Nationals' test to [LEAD-099](../leads.d/LEAD-099.md). Its run coded
+fourteen public statements ([CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md)). No statement found counts the
+Nationals the original Senators continued ([CLAIM-tmp7z7si](CLAIM-tmp7z7si.md)): the Hall of
 Fame, the statistical reference and the AP count the franchise through
 Montreal and the original club's seasons with the Twins; the club's
 president in 2004 called it "a new team", with the Senators' records on a
@@ -369,11 +369,11 @@ name and city did not make participants count it a continuation, as this
 claim expects.
 
 <!-- inactive-ok-block: CLAIM-tmpl3ubq CLAIM-tmpzrzml — new, Proposed; the two readings filed by the lead run of 2026-11-23 -->
-What that does to the defeater is filed two ways. CLAIM-tmpl3ubq, the
+What that does to the defeater is filed two ways. [CLAIM-tmpl3ubq](CLAIM-tmpl3ubq.md), the
 run's lean: the defeater is not met, and the heritage claimed is a
 place's history whose carriers through the gap were the city's
 supporters, this claim's "a lapse in its coherence need not end it".
-CLAIM-tmpzrzml, the alternative, objects: participants count Washington's
+[CLAIM-tmpzrzml](CLAIM-tmpzrzml.md), the alternative, objects: participants count Washington's
 major-league club as one tradition across three organizations with no
 transmission between them, which meets the defeater unless supporters'
 memory counts as transmission. The league's own pages were not reached.

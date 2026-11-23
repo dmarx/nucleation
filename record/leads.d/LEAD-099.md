@@ -51,16 +51,16 @@ claude/lead-099-franchise-count, with its working files under
 scratch/studies/lead-099/ (coding rules written before reading, fourteen
 coded statements with addresses and dates read, and the pages refused).
 
-- **Done.** Seven sources registered and read (LIT-tmpsigvb, LIT-tmpccmbp,
-  LIT-tmpx9m37, LIT-tmpb3jca, LIT-tmpwbrdw, LIT-tmp7a59o, LIT-tmpa65x4,
-  each with its NOTE) and coded in CASE-tmp44mzc, an executed study. The
-  verdict is CLAIM-tmp7z7si: no statement found by the league's reported
+- **Done.** Seven sources registered and read ([LIT-tmpsigvb](../literature.d/LIT-tmpsigvb.md), [LIT-tmpccmbp](../literature.d/LIT-tmpccmbp.md),
+  [LIT-tmpx9m37](../literature.d/LIT-tmpx9m37.md), [LIT-tmpb3jca](../literature.d/LIT-tmpb3jca.md), [LIT-tmpwbrdw](../literature.d/LIT-tmpwbrdw.md), [LIT-tmp7a59o](../literature.d/LIT-tmp7a59o.md), [LIT-tmpa65x4](../literature.d/LIT-tmpa65x4.md),
+  each with its NOTE) and coded in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md), an executed study. The
+  verdict is [CLAIM-tmp7z7si](../claims.d/CLAIM-tmp7z7si.md): no statement found by the league's reported
   count, the club or its supporters counts the 2005 Nationals the original
   Senators continued; the franchise is counted through Montreal, and what
   the club and supporters claim of the Senators is Washington's baseball.
-  Its bearing on CLAIM-329 is filed as two alternatives for the owner:
-  CLAIM-tmpl3ubq (the run's lean: the defeater is not met) and
-  CLAIM-tmpzrzml (the city's club as a collective counted continuing by
+  Its bearing on [CLAIM-329](../claims.d/CLAIM-329.md) is filed as two alternatives for the owner:
+  [CLAIM-tmpl3ubq](../claims.d/CLAIM-tmpl3ubq.md) (the run's lean: the defeater is not met) and
+  [CLAIM-tmpzrzml](../claims.d/CLAIM-tmpzrzml.md) (the city's club as a collective counted continuing by
   place and name).
 - **Remains.** MLB's own pages (mlb.com returned HTTP 406 to this
   session's fetch tool), the club's history pages and media guides on

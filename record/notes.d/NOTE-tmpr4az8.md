@@ -12,7 +12,7 @@ history:
     the excerpts it returned, checked against the page the same day.
 date: '2026-11-23'
 summary: >-
-  The club's then president in November 2004, as quoted in 2020: the media guide would carry a page of the old Senators' records, a page of the Expos' and a blank page for the club's own, and "This is a new team." Coded as data in CASE-tmp44mzc.
+  The club's then president in November 2004, as quoted in 2020: the media guide would carry a page of the old Senators' records, a page of the Expos' and a blank page for the club's own, and "This is a new team." Coded as data in [CASE-tmp44mzc](../cases.d/CASE-tmp44mzc.md).
 ---
 <!-- inactive-ok-file: CASE-tmp44mzc — new, Proposed; the study that codes this document, filed by the lead run of 2026-11-23 -->
 
