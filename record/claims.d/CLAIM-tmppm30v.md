@@ -50,10 +50,10 @@ m* = (b + σa_r)/(1 − φ′),
 
 the same for every reader. e6 found it to 2e-15 in every population. Each specialist's items lean to its own side by σ, and relevance is drawn independently of side. a_r is therefore zero only on average, and in a given population it is whatever lean competence happens to have. When σ|a_r| > |b|, the shared meaning takes the competent side's lean against the evidence. With relevance over 0.4 to 0.9 (g = 12), the population read a corpus imbalance correctly in 50% of populations at b = 0.02 and 0.05, 73% at 0.1 and 93% at 0.2. Over 0.6 to 0.7 the figures were 63%, 90%, 100% and 100%. With equal relevance, 100% throughout. Agreement scoring above threshold read every one correctly, by capture.
 
-So in this model the role-indexed scheme that keeps factions out ([CLAIM-tmp5wozo](CLAIM-tmp5wozo.md)) keeps out the loop that amplifies the evidence's lean too. What it puts in their place is a linear readout in which competence sets the weights and the specialists' own biases come through.
+So in this model the role-indexed scheme that keeps factions out (CLAIM-tmp5wozo) keeps out the loop that amplifies the evidence's lean too. What it puts in their place is a linear readout in which competence sets the weights and the specialists' own biases come through.
 
 ## What it does not say
 
-- That role indexing is worse for fidelity than scalar agreement scoring. Agreement scoring got the sign right here by capture, which is the regime [CASE-092](../cases.d/CASE-092.md) asks about. Its fidelity is the fidelity of a captured state and would fail with a misleading corpus.
+- That role indexing is worse for fidelity than scalar agreement scoring. Agreement scoring got the sign right here by capture, which is the regime CASE-092 asks about. Its fidelity is the fidelity of a captured state and would fail with a misleading corpus.
 - That competence and side are uncorrelated in any real case. If they are correlated, the lean is systematic and not chance.
 - Anything for φ_s > 0, where the fixed point also depends on the sources' own meanings. That case was simulated (e1) but the formula is not claimed for it.
