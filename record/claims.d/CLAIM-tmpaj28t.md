@@ -11,12 +11,12 @@ title: 'The tension between identity stabilization and adaptability has the
 version: 1
 role: supposed
 warrant: interpretive
-defeated_if: A reading of the early Chinese sources, Slingerland's or another,
-  on which the paradox of wu-wei is not about how effortless action can be
-  acquired or kept, or on which the cultivation and unlearning routes do not
-  differ in what they conserve; or an organization whose identity stabilization
-  neither makes later response cheap nor risks rigidity, so that the correspondence
-  has nothing to map.
+defeated_if: An organization whose identity stabilization neither makes later
+  response cheap nor risks rigidity, so that the two halves of CLAIM-tmpm985y
+  have nothing to gloss. Under the owner's ruling of 2026-11-23 (CLAIM-tmpwjpc8),
+  a reading of the early Chinese sources on which the paradox or the two routes
+  differ from the summary here bears on the gloss and does not defeat the
+  dynamical account it glosses.
 tags:
 - self-governance
 - self
@@ -31,17 +31,21 @@ complements:
 - CLAIM-tmpntzjo
 - CLAIM-758
 - CLAIM-711
-summary: The assistant's answer to the owner's "relate the conversation to
-  wuwei" (2026-11-23, this session). It maps the owner's U20 tension ([CLAIM-tmpntzjo](CLAIM-tmpntzjo.md))
-  and A44's resolution of it ([CLAIM-tmpm985y](CLAIM-tmpm985y.md)) onto the paradox of wu-wei.
-  Supposed, because the sinological framing (the paradox, and Confucian cultivation
-  against Daoist unlearning) is the assistant's recollection of a standard
-  summary, Slingerland's among others, and [LIT-1994](../literature.d/LIT-1994.md) is unread. [LEAD-tmpsyfgj](../leads.d/LEAD-tmpsyfgj.md)
-  would check it. The wording is the assistant's (Claude, in this session);
-  adopting it is the owner's call.
+summary: 'The assistant''s answer to the owner''s "relate the conversation
+  to wuwei" (2026-11-23, this session). Revised the same day at the owner''s
+  ruling (CLAIM-tmpwjpc8) that computational mechanics and nonlinear dynamics
+  take precedence: the dynamical account is CLAIM-tmpm985y, and this is a
+  gloss on it. It maps the owner''s U20 tension ([CLAIM-tmpntzjo](CLAIM-tmpntzjo.md))
+  and A44''s resolution of it ([CLAIM-tmpm985y](CLAIM-tmpm985y.md)) onto the
+  paradox of wu-wei. Supposed, because the sinological framing (the paradox,
+  and Confucian cultivation against Daoist unlearning) is the assistant''s
+  recollection of a standard summary, Slingerland''s among others, and [LIT-1994](../literature.d/LIT-1994.md)
+  is unread. [LEAD-tmpsyfgj](../leads.d/LEAD-tmpsyfgj.md) would check it.
+  The wording is the assistant''s (Claude, in this session); adopting it is
+  the owner''s call.'
 ---
 
-<!-- inactive-ok-file: CLAIM-711 CLAIM-758 CLAIM-tmp76xaw CLAIM-tmpcag0t CLAIM-tmpm985y CLAIM-tmpntzjo LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+<!-- inactive-ok-file: CLAIM-tmpwjpc8 CLAIM-711 CLAIM-758 CLAIM-tmp76xaw CLAIM-tmpcag0t CLAIM-tmpm985y CLAIM-tmpntzjo LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
 # CLAIM-tmpaj28t: The tension between identity stabilization and adaptability has the shape of the paradox of wu-wei, that one cannot try to be effortless, and the two classical routes to wu-wei correspond to its two halves: cultivation, which stabilizes slow structure until fast right response costs nothing, and unlearning, which sheds consolidated structure to keep response open; each route's characteristic failure is the risk the other names, rigid ritual for the first and the loss of the structure that made response cheap for the second
 
@@ -84,6 +88,13 @@ literature, not checked. [LIT-1994](../literature.d/LIT-1994.md) is unread.)
   and which to keep revisable. On the weak reading of "inherent" in the
   owner's U20 ([CLAIM-tmpntzjo](CLAIM-tmpntzjo.md)), the tension is inherent as the paradox is:
   never removed, always managed.
+
+## Precedence (the owner's ruling of 2026-11-23)
+
+The account is CLAIM-tmpm985y's, in dynamical terms. The paradox and
+the two routes gloss it. They name a familiar shape and point the account
+at its two failure modes, but they are not evidence for or against it.
+CLAIM-tmpwjpc8 records the ruling.
 
 ## Why supposed
 

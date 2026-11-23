@@ -1,9 +1,10 @@
 ---
 status: Open
 title: 'Read Slingerland''s openly available work on wu-wei, as a neighbour
-  for his unavailable book, to check the record''s wu-wei entries: whether
-  the paradox of wu-wei is about acquiring and keeping effortless action,
-  and whether the cultivation and unlearning routes differ in what they conserve'
+  for his unavailable book, to check whether the name wu-wei fits the record''s
+  dynamical account of effortless action: whether the paradox concerns acquiring
+  and keeping effortless action, and whether the cultivation and unlearning
+  routes differ in what they conserve'
 version: 1
 stage: idea
 priority: low
@@ -20,16 +21,19 @@ advances:
 - CLAIM-541
 - CLAIM-tmp0doyo
 summary: A reading lead from the assistant's answer to the owner's "relate
-  the conversation to wuwei" (2026-11-23). [LIT-1994](../literature.d/LIT-1994.md), Slingerland's Effortless
-  Action, is Unavailable. A lawful neighbour, such as an author's article
-  on wu-wei or a course copy of a chapter ([ADR-074](../decisions.d/ADR-074.md)), would stand in for it
-  ([ADR-114](../decisions.d/ADR-114.md)). The wording is the assistant's (Claude, in this session); adopting
-  it is the owner's call.
+  the conversation to wuwei" (2026-11-23). [LIT-1994](../literature.d/LIT-1994.md),
+  Slingerland's Effortless Action, is Unavailable. A lawful neighbour, such
+  as an author's article on wu-wei or a course copy of a chapter ([ADR-074](../decisions.d/ADR-074.md)),
+  would stand in for it ([ADR-114](../decisions.d/ADR-114.md)). The wording
+  is the assistant's (Claude, in this session); adopting it is the owner's
+  call. At the owner's ruling of 2026-11-23 (CLAIM-tmpwjpc8), this reading
+  checks the name and does not test the dynamical account, so its priority
+  stays low.
 ---
 
-<!-- inactive-ok-file: CLAIM-541 CLAIM-tmp0doyo CLAIM-tmpaj28t LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
+<!-- inactive-ok-file: CLAIM-tmpwjpc8 CLAIM-541 CLAIM-tmp0doyo CLAIM-tmpaj28t LIT-1994 — Proposed or Unavailable; cited in the assistant's answer of 2026-11-23 on wu-wei -->
 
-# LEAD-tmpsyfgj: Read Slingerland's openly available work on wu-wei, as a neighbour for his unavailable book, to check the record's wu-wei entries: whether the paradox of wu-wei is about acquiring and keeping effortless action, and whether the cultivation and unlearning routes differ in what they conserve
+# LEAD-tmpsyfgj: Read Slingerland's openly available work on wu-wei, as a neighbour for his unavailable book, to check whether the name wu-wei fits the record's dynamical account of effortless action: whether the paradox concerns acquiring and keeping effortless action, and whether the cultivation and unlearning routes differ in what they conserve
 
 ## What to do
 
@@ -45,6 +49,12 @@ LIT, a NOTE and a THEORY. Read it for three things:
 3. **Effortlessness.** Whether wu-wei is described as action timed and
    directed by the situation's own tendencies, which [CLAIM-541](../claims.d/CLAIM-541.md) and
    [CLAIM-tmp0doyo](../claims.d/CLAIM-tmp0doyo.md) read it as, or as the absence of agency.
+
+## Its standing
+
+Under the owner's ruling (CLAIM-tmpwjpc8) the readings it checks are
+glosses on dynamical claims. What it finds bears on the name, not on the
+account.
 
 ## What would close it
 

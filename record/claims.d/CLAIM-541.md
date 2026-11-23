@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpp8p4i
 title: 'Wu-wei is better read as control placed and timed where a system''s own dynamics do most of the work than as the absence of control: Ott–Grebogi–Yorke control of chaos is a formal instance, in which small perturbations timed by the system''s own wandering hold it on an unstable orbit, and the control, though small, continues for as long as the orbit is held; so reported effortlessness has at least three distinct sources, no conflict to override, conflict settled cheaply by learned accommodation, and conflict met as it arises by small well-timed feedback, which may feel alike and differ in mechanism'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-11-06'
@@ -14,14 +14,24 @@ history:
     the status-review README: each is Unavailable and no NOTE reads it,
     and an unread work takes no edge. The body keeps the citations. No
     status change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    At the owner's ruling of 2026-11-23 (CLAIM-tmpwjpc8), that the
+    computational-mechanics and nonlinear-dynamics perspectives take
+    precedence over the sinological one in the record's account of
+    wu-wei. The defeater's sinological clause is narrowed: a reading of
+    the classical texts on which wu-wei excludes ongoing monitored
+    correction now bears on whether the name fits, and no longer defeats
+    the claim. Title, body and status unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   A showing that the third source reduces to one of the first two in
-  every model where it appears; or a sinological reading, Slingerland's
-  first, showing that wu-wei as the classical texts use it excludes
-  ongoing monitored correction, in which case the formal instance is of
-  something else and the claim keeps only its three-source half.
+  every model where it appears. (Under the owner's ruling of 2026-11-23,
+  a sinological reading on which wu-wei as the classical texts use it
+  excludes ongoing monitored correction would show the name an imperfect
+  gloss for the account, not defeat the account.)
 tags:
 - agency
 - control-theory
@@ -114,3 +124,15 @@ The assistant, answering the owner's "relate the conversation to wuwei" (2026-11
 
 [LEAD-tmpsyfgj](../leads.d/LEAD-tmpsyfgj.md) would read a neighbour of the unavailable [LIT-1994](../literature.d/LIT-1994.md) to check
 these readings.
+
+<!-- inactive-ok-file: CLAIM-tmpwjpc8 CLAIM-tmpcbdgm — Proposed; the owner's ruling and the reading filed with it, 2026-11-23 -->
+
+## Note of 2026-11-23: the owner's ruling on precedence
+
+The owner ruled (CLAIM-tmpwjpc8) that the computational-mechanics and
+nonlinear-dynamics perspectives take precedence over the sinological one
+in the record's account of wu-wei. This claim's defeater is narrowed
+accordingly (version 3). A computational-mechanics reading is filed
+beside it: effortlessness as predictive economy of memory, with the
+feedback limit that keeps it from being mere prediction (CLAIM-tmpcbdgm).
+
