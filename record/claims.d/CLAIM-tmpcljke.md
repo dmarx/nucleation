@@ -70,3 +70,14 @@ change with the horizon. LEAD-tmplrmhl would test it.
   ecological unity.
 - Not that the criterion is regime-free: the variable is identified under a
   declared probe family and horizon, as TERM-tmpxwa7g requires.
+
+## Note of 2026-11-23: defeated as worded
+
+The owner's objection CLAIM-tmpt93dp, read by the assistant in CLAIM-
+tmps5yc5, defeats this claim as worded: a predator–prey oscillation is a
+whole-level slow variable an ecosystem's members read, condition on and
+regenerate, so CLAIM-327's criterion does not separate a pseudo-self from an
+ecosystem. Two alternatives follow: CLAIM-tmpklms4 narrows the criterion to
+a variable members address as the whole's own; CLAIM-tmpptr3w lets the
+difference collapse into the regime of analysis. The owner chooses. The
+claim's status is left for the owner.
