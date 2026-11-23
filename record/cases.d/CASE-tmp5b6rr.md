@@ -23,16 +23,16 @@ summary: >-
   organizations with matched initial technical competence and matched
   performance on familiar inquiries exhibit different rates of success on
   novel inquiries because their authorization and perspective-maintenance
-  arrangements differ." It differs from A56's study (CASE-tmp1ptqp) in its
+  arrangements differ." It differs from A56's study ([CASE-tmp1ptqp](CASE-tmp1ptqp.md)) in its
   unit, whole organizations rather than proposals, and in its control,
   matched performance on familiar work. The record's matched-performance
-  model (CASE-tmpo8bsc, CASE-tmp95f8e) already shows the predicted pattern
+  model ([CASE-tmpo8bsc](CASE-tmpo8bsc.md), [CASE-tmp95f8e](CASE-tmp95f8e.md)) already shows the predicted pattern
   from a different mechanism, which the design must separate. The wording
   is A's (ChatGPT's, at A63 of the exchange "Explain First Contact RL");
   adopting it is the owner's call.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpx0wv9 CLAIM-tmp4u0mj CLAIM-tmplxi60 CASE-tmp1ptqp CASE-tmpo8bsc CASE-tmp95f8e CLAIM-tmp9o6yv CLAIM-tmp3l7is — Proposed; the claims it would bear on, the studies it is set beside, and the trap and authorization claims -->
+<!-- inactive-ok-file: CLAIM-tmpx0wv9 CLAIM-tmp4u0mj CASE-tmp1ptqp CASE-tmpo8bsc CASE-tmp95f8e CLAIM-tmp9o6yv CLAIM-tmp3l7is — Proposed; the claims it would bear on, the studies it is set beside, and the trap and authorization claims -->
 
 # CASE-tmp5b6rr: A proposed study: research organizations matched in initial expertise, technical resources and performance on familiar inquiries but differing in how inquiry is authorized and perspectives maintained, given opportunities graded by novelty, conceptual distance and time sensitivity; the discriminating result is a difference in success on the novel ones, and a stronger design intervenes separately on concepts, authorization and answer production
 
@@ -56,26 +56,26 @@ technical competence and matched performance on familiar inquiries exhibit
 different rates of success on novel inquiries because their authorization
 and perspective-maintenance arrangements differ.**" That "would support the
 claim that joint inquiry capacity cannot be adequately measured by present
-competence alone" (CLAIM-tmpx0wv9; CLAIM-tmp4u0mj's organizations with the
+competence alone" ([CLAIM-tmpx0wv9](../claims.d/CLAIM-tmpx0wv9.md); [CLAIM-tmp4u0mj](../claims.d/CLAIM-tmp4u0mj.md)'s organizations with the
 same frontiers and different joint sets are its construction).
 
 The stronger test "would intervene separately on conceptual resources,
 authorization procedures, and technical answer-production capabilities to
 determine which causal mechanism accounts for the difference", and "examine
 whether successful inquiry changes the future space of askable questions"
-(CLAIM-475's point that what can be asked is a product of what has been
+([CLAIM-475](../claims.d/CLAIM-475.md)'s point that what can be asked is a product of what has been
 realized).
 
 ## Beside the record's studies
 
-- **CASE-tmp1ptqp** (A56 §8) runs proposals through four arrangements and
+- **[CASE-tmp1ptqp](CASE-tmp1ptqp.md)** (A56 §8) runs proposals through four arrangements and
   asks whether unfamiliar classes survive. This study's unit is the
   organization, and its control is matched performance on familiar work, so
   the familiar–novel gap is the measure. Its note's three gaps carry over:
   independent promise, the unit of comparison, and that staged
-  authorization changes the unit of authorization (CLAIM-tmp3l7is) rather
+  authorization changes the unit of authorization ([CLAIM-tmp3l7is](../claims.d/CLAIM-tmp3l7is.md)) rather
   than the cost per proposal.
-- **CASE-tmpo8bsc and CASE-tmp95f8e**, the matched-performance model, run:
+- **[CASE-tmpo8bsc](CASE-tmpo8bsc.md) and [CASE-tmp95f8e](CASE-tmp95f8e.md)**, the matched-performance model, run:
   regimes with identical output until a contingency arrives differ widely
   in readiness for it, and against a demand the specification does not name
   a reserve reaches the harm-free configuration where a redesign does not.
@@ -84,7 +84,7 @@ realized).
   perspective maintenance. The stronger design's separate interventions
   should add one on slack: an organization that keeps a reserve and one
   that does not, with authorization held fixed.
-- **CLAIM-tmp9o6yv**: equivalence under routine queries hides a lost
+- **[CLAIM-tmp9o6yv](../claims.d/CLAIM-tmp9o6yv.md)**: equivalence under routine queries hides a lost
   capacity until an unasked query arrives. The study's novel opportunities
   are those queries.
 
