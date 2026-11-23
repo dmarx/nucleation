@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpxapb2
 title: 'Beyond the scalar linear Gaussian case and the deterministic case of a fast, contracting eliminated variable, when a coarse variable''s reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-21'
@@ -34,6 +34,12 @@ history:
     criterion that this question's CLAIM-157 bullet says is not
     built. Reported by the synthesis review of 2026-11-11 (seventh
     round). No other change.
+- version: 6
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added, from the lead run of that date: a bound on
+    the coupling a computed diffusion-wavelet level leaves (CLAIM-
+    tmpdsu37). The question is unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -49,6 +55,7 @@ summary: >-
   them, and [CLAIM-327](../claims.d/CLAIM-327.md) already locates a collective in a variable members
   read from the past.
 ---
+<!-- inactive-ok-file: CLAIM-tmpdsu37 — new; the bound cited in the note of 2026-11-23, filed by the lead run of 2026-11-23 -->
 <!-- inactive-ok-file: LIT-1251 — Unavailable; a work registered and not read, cited as open, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-222: Beyond the scalar linear Gaussian case and the deterministic case of a fast, contracting eliminated variable, when a coarse variable's reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?
@@ -244,3 +251,21 @@ not filed as answering it. Two parts remain open: error in terms of the
 eliminated spectrum, which the counterexample shows cannot be had in
 general beyond one eliminated variable, and the ruling on levels. Nonlinear
 classes, observation noise and VAR(p) are untouched.
+
+## Note of 2026-11-23: the coupling a computed level leaves
+
+[NOTE-984](../notes.d/NOTE-984.md) found that the compressed diffusion-wavelet levels leave a
+residual coupling the paper does not bound, "the place where a memory
+kernel would enter". [CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md) (Proposed, filed by the lead run of
+2026-11-23) bounds it. For a computed level with projector P, the coupling
+out of the level under one step of the dynamics, ‖(I − P)TP‖, is at most
+twice the distance from P to an invariant subspace of the same dimension,
+and that distance is at most the truncation residual plus the accumulated
+drift, over the smallest kept eigenvalue of the level's dyadic power. Under
+the level's own time step T^{2^j} the coupling is at most the residual plus
+drift, with no gap in it. So a level computed at a cut with a wide relative
+gap closes to within that bound, and the memory a reduced description of it
+would need is correspondingly small; at a gapless cut nothing bounds the
+coupling. This bears on the question's ruling on levels for linear,
+symmetric operators only: it bounds the coupling, and it says nothing about
+a finite-dimensional augmentation for the memory it leaves.

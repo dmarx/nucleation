@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpm2oxc
 title: 'For a self-adjoint diffusion operator T with spectrum in [0, 1], the diffusion-wavelet levels are spectral subspaces spanned by the eigenvectors with λ^s ≥ ε for an increasing sequence of powers s, so they form an exactly nested chain of T-invariant subspaces whose differences are bands of the spectrum, about one octave each, not spatial blocks; Coifman and Maggioni''s compressed algorithm, which squares the operator on each orthonormal basis, thresholds T^{2^{j−1}} at level j and not T^{2^j−1} as the paper states; and since each level is T-invariant, each is an exactly closed linear coarse-graining whose localized basis is a choice the level does not fix'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-20'
@@ -23,6 +23,12 @@ history:
     THEORY-1906) as a contrast. A linear multiscale decomposition gives
     only covariance to translation; invariance needs a non-linearity. The
     reading qualifies nothing here. No status change.
+- version: 3
+  date: '2026-11-23'
+  note: >-
+    Note of 2026-11-23 added, from the lead run of that date: an error
+    bound for the compressed scheme (CLAIM-tmpdsu37) and the directed
+    construction of Sevi et al. (THEORY-tmpyi9zg). No status change.
 tags:
 - mathematics
 - complex-systems
@@ -43,6 +49,7 @@ bears_on:
 - QUESTION-218
 - QUESTION-217
 ---
+<!-- inactive-ok-file: CLAIM-tmpdsu37 THEORY-tmpyi9zg — new, filed by the lead run of 2026-11-23 and cited in the note of that date -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this account is contrasted with, open -->
 
 # THEORY-758: For a self-adjoint diffusion operator T with spectrum in [0, 1], the diffusion-wavelet levels are spectral subspaces spanned by the eigenvectors with λ^s ≥ ε for an increasing sequence of powers s, so they form an exactly nested chain of T-invariant subspaces whose differences are bands of the spectrum, about one octave each, not spatial blocks; Coifman and Maggioni's compressed algorithm, which squares the operator on each orthonormal basis, thresholds T^{2^{j−1}} at level j and not T^{2^j−1} as the paper states; and since each level is T-invariant, each is an exactly closed linear coarse-graining whose localized basis is a choice the level does not fix
@@ -197,3 +204,24 @@ nesting could have needed the spectrum (it does not).
 <!-- inactive-ok-file: THEORY-1906 — Proposed; cited from the note of 2026-11-15 as a contrast -->
 
 Bruna and Mallat ([LIT-2632](../literature.d/LIT-2632.md), [THEORY-1906](THEORY-1906.md)) give the contrast this account's linearity invites. Both are multiscale wavelet constructions of about an octave a scale. The levels here are exactly closed linear coarse-grainings of a diffusion operator. Bruna and Mallat show that a linear multiscale decomposition is only covariant to translation: the integral of x ⋆ ψλ is zero for every x (§2.2), so invariance needs a non-linearity, the modulus, which moves energy toward lower frequencies. The reading qualifies nothing here. It marks what a linear coarse-graining cannot give: linear multiscale structure gives covariance, and invariance needs more. It is a contrast, not a rival, since both accounts can be right. No status change.
+
+## Note of 2026-11-23: an error bound for the compressed scheme, and the directed case
+
+Two of the limits under "What this does not say" are taken up by the lead
+run of 2026-11-23.
+
+- **Error bound.** [CLAIM-tmpdsu37](../claims.d/CLAIM-tmpdsu37.md) (Proposed) proves one for the compressed
+  scheme with any truncation: the computed space at level j+1 is within
+  (d_j + f_j)/λ_k^{2^j} of the spectral space of the same dimension, where d_j
+  is the truncation's residual and f_j the drift of the compressed operator
+  from T^{2^j}. With exact truncation both vanish and part 2's induction is
+  recovered; the check in scratch/studies/lead-192 confirms that exact
+  truncation gives the spectral space. The bound uses this account's
+  correction of the index: level j+1 is cut on T^{2^j}.
+- **Non-self-adjoint operators.** Sevi, Rilling and Borgnat
+  ([THEORY-tmpyi9zg](THEORY-tmpyi9zg.md)) build the directed chain by column selection and
+  pseudo-inverse compression, with T = Π^{1/2}PΠ^{−1/2}. It keeps the
+  nesting, which part 2 shows needs no symmetry, and does not identify the
+  levels with spectral spaces. The bound holds there too, with a row
+  residual added and the smallest singular value of the power on the
+  invariant subspace in the denominator. This account is unchanged.
